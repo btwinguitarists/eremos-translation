@@ -1,0 +1,33 @@
+[
+  {
+    "reference": "Mark 1:1",
+    "chapter": 1,
+    "verse": 1,
+    "greek": "Ἀρχὴ τοῦ εὐαγγελίου Ἰησοῦ χριστοῦ.",
+    "bsb_english": "This is the beginning of the gospel of Jesus Christ, the Son of God.",
+    "translation": {
+      "reference": "Mark 1:1",
+      "thai": "จุดเริ่มต้นของข่าวประเสริฐเรื่องพระเยซูคริสต์",
+      "thai_literal": "การเริ่มต้น ของ ข่าวประเสริฐ ของ พระเยซู คริสต์",
+      "key_decisions": [
+        {
+          "greek": "Ἀρχὴ",
+          "thai": "จุดเริ่มต้น",
+          "rationale": "ἀρχή here functions as a heading/title for the book (verbless nominative, no main verb in the verse). Chose จุดเริ่มต้น (concrete 'starting point') over การเริ่มต้น (abstract 'beginning') to give it a title-like feel appropriate for an opening line."
+        },
+        {
+          "greek": "εὐαγγελίου",
+          "thai": "ข่าวประเสริฐ",
+          "rationale": "Standard Thai Christian term for εὐαγγέλιον. Literally 'excellent news' — preserves the sense of a royal/significant announcement that εὐαγγέλιον carries in Koine."
+        },
+        {
+          "greek": "Ἰησοῦ χριστοῦ (gen.)",
+          "thai": "เรื่องพระเยซูคริสต์",
+          "rationale": "The double genitive Ἰησοῦ χριστοῦ is ambiguous: subjective (gospel preached BY Jesus) or objective (gospel ABOUT Jesus). Majority scholarly reading is objective here, since Mark's narrative is about Jesus. Used เรื่อง ('concerning/about') to make this explicit in Thai, which lacks genitive ambiguity. พระ is the honorific for divine/royal subjects."
+        }
+      ],
+      "notes": "TEXTUAL VARIANT: SBLGNT omits 'υἱοῦ θεοῦ' (Son of God) which BSB includes. The phrase is present in most manuscripts (B, D, W, most miniscules) but absent from Codex Sinaiticus*, Θ, 28c. SBLGNT editors judged it a later scribal addition. Our translation follows SBLGNT; a footnote should note: 'บางต้นฉบับมีคำว่า \"พระบุตรของพระเจ้า\" ต่อท้าย' (Some manuscripts add 'the Son of God'). This is exactly the kind of transparent decision this project makes visible."
+    },
+    "model": "claude-sonnet-4-5 (manual demo — API key not yet set)"
+  }
+]

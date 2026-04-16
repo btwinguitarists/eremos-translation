@@ -1,0 +1,18 @@
+# Cloned source texts (pulled from upstream repos, not our code)
+# Keep bsb-text/ — small CC0 plain-text reference we want checked in
+sources/SBLGNT/
+sources/macula-greek/
+sources/bsb/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Env / secrets
+.env
+.env.local
+
+# OS
+.DS_Store
