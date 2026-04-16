@@ -44,18 +44,17 @@ Already done, but for reference:
 
 Example: translating **Mark 2**.
 
-### 1. Extract verses from MACULA
-
-Use the generalized extractor:
+### 1. Extract verses from MACULA + enrich with uW Translation Notes
 
 ```bash
 cd ~/thai-bible-ai
 python3 scripts/extract_book.py --book 1TI --chapter 3        # single chapter
-python3 scripts/extract_book.py --book MRK                    # whole book
-python3 scripts/extract_book.py --list                        # all known book codes
+python3 scripts/enrich_with_uw.py --book 1TI --chapter 3      # scholarly context
 ```
 
-Writes `output/<book-slug>/<slug>_<NN>.json` with word-by-word morphology, BSB reference, hapax flags, Louw-Nida semantic domains. Supports all 27 NT books.
+The first script writes `output/<book-slug>/<slug>_<NN>.json` with word-by-word morphology, BSB reference, hapax flags, Louw-Nida semantic domains.
+
+The second fetches CC-BY-SA unfoldingWord Translation Notes for the chapter (verse-by-verse scholarly commentary) and writes `output/uw_notes/<slug>_<NN>.md`. Claude reads this during translation for interpretive cruxes, textual issues, and "how most translators handle this" signals — **reference only**, never copied per RULES.md §8.
 
 ### 2. Translate the chapter
 

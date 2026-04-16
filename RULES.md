@@ -30,12 +30,14 @@ When pillars conflict, **accuracy wins**, with naturalness documented as a trade
 - This RULES.md
 - `glossary.json` — our persistent key-term ledger
 - Prior chapters of our own Eremos Translation output (for consistency)
+- **unfoldingWord Translation Notes** (CC-BY-SA) at `output/uw_notes/<slug>_<NN>.md` — scholarly reference (interpretive cruxes, textual issues). **Read for context, never copy wording.** See §8 for license handling.
 
 **Never read during translation**:
 
 - Any copyrighted Thai translation (THSV, NTV, ERV Thai, TNCV)
 - TNBT (CC-BY-SA) — see §8 for why
 - Any copyrighted commentary
+- unfoldingWord TW wording (CC-BY-SA) — reference permitted, but any paraphrase must be in Claude's own words (see §8)
 
 **Why the strictness?** This is what preserves the "independent creation" copyright defense. Our output is produced by independent analysis of the public-domain original languages. No one else's wording gets into our drafting process. After drafting, we *compare* against other translations — but only to identify divergences to justify, never to copy from.
 
@@ -152,14 +154,33 @@ The orchestrator `scripts/run_checks.py <book> <chapter>` runs all applicable ch
 
 ---
 
-## 8. TNBT (CC-BY-SA) usage policy
+## 8. CC-BY-SA source policy (TNBT, unfoldingWord)
 
-The Thai New Buddhist Translation (github.com/pepa65/TNBT) is CC-BY-SA 4.0 licensed. It is a legitimate open-source Thai NT and a useful **structural reference**. But:
+### TNBT (Thai New Buddhist Translation)
 
-- **Never read during translation.** TNBT's specific Thai wording must not influence our drafting. (If we derive wording from TNBT, our output inherits CC-BY-SA and we lose CC0.)
-- **Only compared after drafting**, mechanically, by the check script.
-- **Vocabulary divergence is expected.** TNBT deliberately uses Buddhist register (พระศรีอาริย์ for Messiah, นิพพาน for eternal life, พิธีมุดน้ำ for baptism, พรหมวิหารสี่ for love). Our project uses standard Thai Christian vocabulary. Divergences from TNBT on vocabulary do **not** indicate an error in our translation — they indicate a deliberate choice of register.
-- **Use TNBT divergences as**: a prompt to spot-check whether we've understood the passage correctly at the sentence/structural level. If TNBT's sentence count diverges from ours meaningfully, investigate. If TNBT renders a verb we rendered as a noun, investigate.
+The TNBT (github.com/pepa65/TNBT) is CC-BY-SA 4.0. It is a legitimate open-source Thai NT and a useful **structural reference**. But:
+
+- **Never read during translation.** TNBT's Thai wording must not influence our drafting.
+- **Only compared after drafting**, mechanically, by `check_against_tnbt.py`.
+- **Vocabulary divergence is expected.** TNBT deliberately uses Buddhist register (พระศรีอาริย์ for Messiah, นิพพาน for eternal life, พิธีมุดน้ำ for baptism). Our project uses standard Thai Christian vocabulary. Divergences from TNBT on vocabulary do **not** indicate an error — they indicate a deliberate choice of register.
+- **Use TNBT divergences as**: a prompt to spot-check structural-level understanding. Different sentence count, different verb/noun handling → investigate.
+
+### unfoldingWord Translation Notes & Translation Words
+
+unfoldingWord materials (Translation Notes, Translation Words, Translation Questions) are CC-BY-SA 4.0. They are **permitted reference material during translation** — unlike TNBT, which is target-language wording we must avoid, uW TN is English scholarly commentary that safely informs exegesis without polluting the target-language output.
+
+- **Reading uW TN during translation**: ✅ permitted and encouraged. Claude should consume `output/uw_notes/<slug>_<NN>.md` as part of chapter preparation.
+- **Copying uW TN wording into our rationale**: ❌ never. Paraphrase in Claude's own words. (Direct quotations would force our rationale text to inherit CC-BY-SA, complicating the CC0 license on our Thai translation output.)
+- **Our Thai translation itself**: is Claude's own work from Greek. uW TN explains what the Greek means; it does not tell us how to render it in Thai.
+
+### CC0 protection
+
+Our output remains CC0 if and only if:
+1. We never copy wording verbatim from any CC-BY-SA source (TNBT, uW TN, uW TW)
+2. Every derivation is independently re-expressed
+3. We do not embed CC-BY-SA text in the translation output files
+
+These rules are enforceable mechanically to a limited degree (key-term consistency check can catch some uW TW drift; see §11 future-enhancements). Primary discipline is at the drafting step.
 
 ---
 
@@ -182,6 +203,18 @@ For the pilot phase, Ben is the de facto native-speaker + theological reviewer. 
 - TNBT (CC-BY-SA) is used for structural-only comparison per §8. We do not copy TNBT wording, so we do not inherit CC-BY-SA.
 - unfoldingWord resources (CC-BY-SA) can be referenced as a scholarly aid (key-term definitions, translation notes in English). Same rule: don't copy wording; use for understanding.
 - Scholarly commentaries (for exegesis) may be consulted but their wording is never copied.
+
+---
+
+## 10b. Review infrastructure (manual / community)
+
+Not everything can be automated. For native-speaker review, theological review, and community comprehension testing, the industry-standard tools are:
+
+- **Paratext** (SIL) — desktop standard for formal translation teams. Free for qualified missionaries via sponsorship. See `docs/REVIEW_TOOLS.md §1`.
+- **Scripture Forge** (SIL) — free web-based community review. Integrates with Paratext. `docs/REVIEW_TOOLS.md §2`.
+- **unfoldingWord Translation Questions** — comprehension testing for community review. Already integrated source-side (`sources/en_tn/`).
+
+These are **post-draft** tools, not translation aids. They handle the social steps (§9) of the check cadence. See `docs/REVIEW_TOOLS.md` for the full integration roadmap.
 
 ---
 
