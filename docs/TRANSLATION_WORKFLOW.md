@@ -114,33 +114,36 @@ python3 scripts/build_eremos_bundle.py
 
 Combines all `output/translations/mark_XX.json` files into a single `~/EremosVercel2/server/data/eremos_translation.json` — the file Eremos imports at server boot.
 
-### 6. Ship to Eremos
+### 6. Ship — fully automated, end-to-end
 
-**Critical ordering** — always branch from an up-to-date main and rebuild the bundle AFTER any pending PRs have merged. Otherwise you'll overwrite someone else's chapter in the bundle and lose verses in production.
-
-```bash
-cd ~/EremosVercel2
-git checkout main
-git pull origin main                             # grab any recently-merged chapters
-python3 ~/thai-bible-ai/scripts/build_eremos_bundle.py    # rebuild bundle from ALL translated chapters
-git checkout -b feat/eremos-translation-mark-2
-git add server/data/eremos_translation.json
-git commit -m "feat: add Mark 2 to Eremos Translation bundle"
-git push -u origin feat/eremos-translation-mark-2
-gh pr create --title "feat: Eremos Translation — Mark 2" --body "<summary>"
-```
-
-**If your PR sits open while another chapter PR merges** — before merging yours, pull main into the branch, re-run `build_eremos_bundle.py`, and push the resolved bundle. The bundle is the one file always at risk of conflict.
+After translation + checks pass, the entire ship pipeline runs as one script:
 
 ```bash
-# On an open feat branch when another chapter has merged to main:
-git fetch origin
-git merge origin/main                            # may conflict in eremos_translation.json
-python3 ~/thai-bible-ai/scripts/build_eremos_bundle.py    # regenerates with all chapters
-git add server/data/eremos_translation.json
-git commit -m "Merge main and rebuild bundle"
-git push
+bash scripts/ship_chapter.sh MRK 5
+# Or with skip flags:
+bash scripts/ship_chapter.sh MRK 5 --skip-testflight   # web only, ~30 sec
+bash scripts/ship_chapter.sh MRK 5 --skip-merge        # leave PR open for review
 ```
+
+What `ship_chapter.sh` does, in order, **without intermediate confirmation**:
+
+1. **Pulls latest main** in `~/EremosVercel2/` (so we don't overwrite recently-merged chapters — the bundle conflict from PR #167 is impossible after this)
+2. **Rebuilds the Eremos bundle** from all translated chapters (book-agnostic walker)
+3. If bundle changed:
+   - Branches `feat/eremos-translation-<slug>-<chapter>`
+   - Commits + pushes
+   - Opens PR
+   - **Auto-merges** PR (no manual review wait)
+4. **Auto-bumps** `CURRENT_PROJECT_VERSION` (detects last value, +1)
+5. `npm run build && npx cap sync ios`
+6. `xcodebuild archive → exportArchive → xcrun altool --upload-app`
+7. Commits version bump to main
+
+Total runtime: ~6-10 min including TestFlight upload. ~30 sec with `--skip-testflight`.
+
+If the bundle has no changes (e.g., re-running on an already-shipped chapter), the script exits cleanly with "nothing to ship."
+
+**This replaces the manual branch/commit/push/PR/merge/bump/build/archive/upload sequence that used to be 10+ steps.**
 
 Vercel auto-deploys the preview. Test by tapping verses in Mark 2. Merge when happy.
 
@@ -265,19 +268,11 @@ The Eremos bundle strips this down to:
 
 ---
 
-## After merge: TestFlight
+## TestFlight is now part of `ship_chapter.sh`
 
-When a translation PR merges to main, the Eremos app on the web updates automatically via Vercel. For the iOS app (TestFlight), a separate build is needed. See `~/.claude/projects/-Users-benvanscyoc/memory/reference_appstoreconnect.md` for the full pipeline.
+TestFlight upload is integrated into the ship pipeline (step 7 above). Per the updated `reference_appstoreconnect.md`, **per-chapter TestFlight is allowed** for Eremos Translation chapters because each ships meaningful new content. The "confirm before TestFlight" rule still applies to non-translation features.
 
-Quick version:
-```bash
-# 1. Bump CURRENT_PROJECT_VERSION in ios/App/App.xcodeproj/project.pbxproj (both Debug/Release)
-# 2. npm run build && npx cap sync ios
-# 3. xcodebuild archive → xcodebuild exportArchive → xcrun altool --upload-app
-# 4. Commit the pbxproj bump, push to main
-```
-
-This is done once per batch of chapter merges — not per chapter. Ben explicitly confirms before each TestFlight upload per his deployment rule.
+If you want to ship multiple chapters before one TestFlight upload, use `--skip-testflight` on each chapter except the last.
 
 ---
 
