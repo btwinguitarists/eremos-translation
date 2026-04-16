@@ -68,6 +68,25 @@ PR_TITLE="feat: Eremos Translation — ${BOOK_CODE} ${CHAPTER}"
 echo "=== Ship pipeline: ${BOOK_CODE} ${CHAPTER} (slug=${SLUG}) ==="
 echo
 
+# --- Pre-flight: gate on check status ---
+# Per RULES.md §7, all 5 automated checks must pass before shipping.
+# This gate enforces it — no more "trust the chat" to have run checks.
+echo "[gate] Verifying check status..."
+if [ -f "$THAI_BIBLE_AI/output/translations/${SLUG}_${CHAPTER_PADDED}.json" ]; then
+    if ! python3 "$THAI_BIBLE_AI/scripts/run_checks.py" --book "$BOOK_CODE" --chapter "$CHAPTER" >/dev/null 2>&1; then
+        echo
+        echo "✗ SHIP BLOCKED — automated checks failed for ${BOOK_CODE} ${CHAPTER}."
+        echo "  See: $THAI_BIBLE_AI/output/check_reports/${SLUG}_${CHAPTER_PADDED}_review.md"
+        echo "  Run: python3 scripts/revise_chapter.py --book ${BOOK_CODE} --chapter ${CHAPTER}"
+        echo "  Then re-run ship_chapter.sh once revisions are clean."
+        exit 1
+    fi
+    echo "    ✓ All checks pass."
+else
+    echo "    ⚠ No translation file found — skipping check (assuming bundle-only ship)."
+fi
+echo
+
 # --- 1. Pull latest main ---
 echo "[1/7] Pull latest main in EremosVercel2..."
 cd "$EREMOS_REPO"

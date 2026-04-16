@@ -153,6 +153,14 @@ The orchestrator `scripts/run_checks.py <book> <chapter>` runs all applicable ch
 
 **Ship criterion**: zero unresolved flags. A flag is "resolved" when either (a) the note is added to the verse, or (b) a decision document in `docs/translator_decisions/` records why the flag is acceptable as-is.
 
+**Enforcement (Levels 1-3):**
+
+- **Level 1 — audit trail.** Git history records every revision committed to `output/translations/`. Each chapter's `output/check_reports/<slug>_<NN>_iterations.txt` tracks how many revision passes happened before ship.
+- **Level 2 — ship gate.** `scripts/ship_chapter.sh` runs `run_checks.py` as a pre-flight and refuses to proceed on non-zero exit. No more "trust the chat" — the gate is mechanical.
+- **Level 3 — revision loop.** When checks fail, run `scripts/revise_chapter.py --book <CODE> --chapter <N>`. It reads the per-check exit codes and writes `output/check_reports/<slug>_<NN>_REVISIONS_NEEDED.md` — a structured prompt listing each flagged verse with the failure reason. Claude in the same chat reads this, edits the translation JSON, re-runs `run_checks.py`. If still failing after 3 iterations, the script flags the chapter for human review (theological consultant or native-speaker reviewer).
+
+This addresses the formal-feedback-loop gap noted in cross-AI evaluation. Informational warnings (e.g., TNBT structural divergences, which are EXPECTED because TNBT uses Buddhist register) do NOT trigger revision — only checks that exit non-zero do.
+
 ---
 
 ## 8. CC-BY-SA source policy (TNBT, unfoldingWord)
