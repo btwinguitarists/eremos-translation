@@ -1,0 +1,479 @@
+[
+  {
+    "reference": "Mark 2:1",
+    "chapter": 2,
+    "verse": 1,
+    "greek": "Καὶ εἰσελθὼν πάλιν εἰς Καφαρναοὺμ δι' ἡμερῶν ἠκούσθη ὅτι ἐν οἴκῳ ἐστίν·",
+    "bsb_english": "A few days later Jesus went back to Capernaum. And when the people heard that He was home,",
+    "translation": {
+      "thai": "เมื่อพระเยซูเสด็จกลับเข้าเมืองคาเปอรนาอุมอีกครั้งหลังจากผ่านไปไม่กี่วัน ก็มีคนได้ยินว่าพระองค์ทรงอยู่ที่บ้าน",
+      "key_decisions": [
+        {"greek": "δι' ἡμερῶν", "thai": "หลังจากผ่านไปไม่กี่วัน", "rationale": "Idiomatic 'after [some] days' = a few but not many days later. Connects to the leper episode at end of ch.1. Thai naturalizes with a full temporal clause."},
+        {"greek": "ἠκούσθη (aor. pass.)", "thai": "มีคนได้ยินว่า", "rationale": "Impersonal passive 'it was heard' — Thai naturalizes to active 'there were people who heard.' The hearers are the Capernaum inhabitants (implied)."},
+        {"greek": "ἐν οἴκῳ", "thai": "ที่บ้าน", "rationale": "Anarthrous — 'at home' (idiomatic) rather than 'in the/a house.' Likely Simon and Andrew's house (cf. 1:29), now Jesus' base of operations in Capernaum."}
+      ],
+      "notes": "Historic present ἐστίν keeps the action vivid. Ties to 1:29 (Simon and Andrew's house)."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 2:2",
+    "chapter": 2,
+    "verse": 2,
+    "greek": "καὶ συνήχθησαν πολλοὶ ὥστε μηκέτι χωρεῖν μηδὲ τὰ πρὸς τὴν θύραν, καὶ ἐλάλει αὐτοῖς τὸν λόγον.",
+    "bsb_english": "they gathered in such large numbers that there was no more room, not even outside the door, as Jesus spoke the word to them.",
+    "translation": {
+      "thai": "ผู้คนจำนวนมากมาชุมนุมกันจนไม่มีที่ว่าง แม้แต่บริเวณหน้าประตูก็ไม่มี และพระองค์ทรงประกาศพระวจนะแก่พวกเขา",
+      "key_decisions": [
+        {"greek": "συνήχθησαν (aor. pass.)", "thai": "มาชุมนุมกัน", "rationale": "Aorist passive with deponent sense = 'gathered together.' Thai active 'came gathering together' is natural."},
+        {"greek": "μηκέτι χωρεῖν μηδὲ τὰ πρὸς τὴν θύραν", "thai": "ไม่มีที่ว่าง แม้แต่บริเวณหน้าประตูก็ไม่มี", "rationale": "χωρεῖν = 'to have room/space.' τὰ πρὸς τὴν θύραν = 'the [places] toward the door' (neuter plural article) — idiomatic for 'the area near the door.' Thai preserves the hyperbolic packed-house image."},
+        {"greek": "τὸν λόγον", "thai": "พระวจนะ", "rationale": "Mark's shorthand for Jesus' proclamation of the gospel. Thai 'พระวจนะ' (the sacred Word) captures the weight without being as specific as 'ข่าวประเสริฐ' (euangelion). Cf. 1:45 'τὸν λόγον' also used generically."}
+      ]
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 2:3",
+    "chapter": 2,
+    "verse": 3,
+    "greek": "καὶ ἔρχονται φέροντες πρὸς αὐτὸν παραλυτικὸν αἰρόμενον ὑπὸ τεσσάρων.",
+    "bsb_english": "Then a paralytic was brought to Him, carried by four men.",
+    "translation": {
+      "thai": "มีคนนำชายเป็นอัมพาตคนหนึ่งมาหาพระองค์ โดยมีสี่คนหามมา",
+      "key_decisions": [
+        {"greek": "ἔρχονται (hist. pres.) + φέροντες", "thai": "มีคน...มา", "rationale": "Historic present + circumstantial participle — 'they come carrying.' Thai naturalizes to 'there were people bringing.' Subject is impersonal/collective."},
+        {"greek": "παραλυτικόν", "thai": "ชายเป็นอัมพาต", "rationale": "παραλυτικός = paralyzed person (not necessarily a specific medical category). Standard Thai biblical 'คนเป็นอัมพาต'; here 'ชายเป็นอัมพาต' specifies masculine."},
+        {"greek": "αἰρόμενον ὑπὸ τεσσάρων", "thai": "โดยมีสี่คนหามมา", "rationale": "Present passive participle 'being carried.' 'หาม' = carry on shoulders/poles (fitting for a pallet-borne person). Four men is explicit in Greek — a Markan detail Matt/Luke omit."}
+      ]
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 2:4",
+    "chapter": 2,
+    "verse": 4,
+    "greek": "καὶ μὴ δυνάμενοι προσενέγκαι αὐτῷ διὰ τὸν ὄχλον ἀπεστέγασαν τὴν στέγην ὅπου ἦν, καὶ ἐξορύξαντες χαλῶσι τὸν κράβαττον ὅπου ὁ παραλυτικὸς κατέκειτο.",
+    "bsb_english": "Since they were unable to get to Jesus through the crowd, they uncovered the roof above Him, made an opening, and lowered the paralytic on his mat.",
+    "translation": {
+      "thai": "เมื่อไม่อาจเข้าไปหาพระองค์ได้เพราะฝูงชน พวกเขาก็รื้อหลังคาตรงที่พระองค์ประทับอยู่ และเมื่อขุดเป็นช่องแล้ว ก็หย่อนแคร่ที่ชายเป็นอัมพาตนอนอยู่ลงมา",
+      "key_decisions": [
+        {"greek": "ἀπεστέγασαν τὴν στέγην (HAPAX ἀποστεγάζω)", "thai": "รื้อหลังคา", "rationale": "HAPAX LEGOMENON. Compound ἀπο- (off/away) + στεγ- (roof) + -άζω (verbal suffix) — 'remove the roof.' Cognate accusative with τὴν στέγην ('the roof'). Meaning is transparent from morphology. Thai 'รื้อหลังคา' = dismantle/remove the roof. Palestinian first-century village houses had flat roofs of beams + branches + packed clay, accessible by external stairs — the visual is concrete."},
+        {"greek": "ἐξορύξαντες (aor. ptcp)", "thai": "เมื่อขุดเป็นช่องแล้ว", "rationale": "ἐξορύσσω = 'dig out/through' — strong physical verb. Used of digging clay/earth. After removing the surface, they had to dig through the packed layer. Thai 'ขุดเป็นช่อง' (dug into an opening) preserves the manual labor."},
+        {"greek": "χαλῶσι (hist. pres.)", "thai": "หย่อน...ลงมา", "rationale": "χαλάω = lower by rope (nautical/technical term). Thai 'หย่อน...ลงมา' = lower down (gently)."},
+        {"greek": "κράβαττον", "thai": "แคร่", "rationale": "κράβαττος = poor man's mat/pallet, a portable bed. Latin loanword (grabatus) — colloquial, not classical. Thai 'แคร่' = simple bamboo/wood bed-platform, rural/humble connotation — perfect register match."}
+      ],
+      "notes": "HAPAX: ἀποστεγάζω (2:4). Mark's vivid detail — Matt 9:1-8 and Luke 5:17-26 both trim or soften this scene. Mark's κράβαττος (humble pallet, Latin loanword) vs. Matthew's κλίνη (more dignified 'couch') reflects Mark's grittier social setting."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 2:5",
+    "chapter": 2,
+    "verse": 5,
+    "greek": "καὶ ἰδὼν ὁ Ἰησοῦς τὴν πίστιν αὐτῶν λέγει τῷ παραλυτικῷ· Τέκνον, ἀφίενταί σου αἱ ἁμαρτίαι.",
+    "bsb_english": "When Jesus saw their faith, He said to the paralytic, \"Son, your sins are forgiven.\"",
+    "translation": {
+      "thai": "เมื่อพระเยซูทอดพระเนตรเห็นความเชื่อของพวกเขา พระองค์ก็ตรัสกับชายเป็นอัมพาตว่า 'ลูกเอ๋ย บาปของเจ้าได้รับการอภัยแล้ว'",
+      "key_decisions": [
+        {"greek": "ἰδὼν", "thai": "ทอดพระเนตรเห็น", "rationale": "Royal verb for 'see' when divine subject (Jesus). Consistent with 1:10, 1:16, 1:19."},
+        {"greek": "τὴν πίστιν αὐτῶν", "thai": "ความเชื่อของพวกเขา", "rationale": "Plural 'their faith' — includes the four bearers AND the paralytic (all participated in the roof-digging act). Thai 'พวกเขา' (collective) preserves the ambiguity."},
+        {"greek": "Τέκνον", "thai": "ลูกเอ๋ย", "rationale": "τέκνον = affectionate address ('child/son') from a senior to a younger person in need. Not literal kinship. Thai 'ลูกเอ๋ย' (dear child) — warm paternal register. Jesus as divine healer addressing a suffering human with compassion."},
+        {"greek": "ἀφίενταί σου αἱ ἁμαρτίαι (pres. pass.)", "thai": "บาปของเจ้าได้รับการอภัยแล้ว", "rationale": "Present passive with stative force — 'your sins stand forgiven [right now].' Divine passive: God is the agent, but Jesus pronounces the act. Thai perfect-aspect 'ได้รับการอภัยแล้ว' (have been forgiven already) captures the completed-and-continuing state. This is precisely what the scribes will find scandalous in v.7."},
+        {"greek": "Jesus to paralytic (divine → human inferior)", "thai": "เจ้า", "rationale": "Divine-to-human hierarchy: Jesus uses 'เรา' for himself and 'เจ้า' for the paralytic (intimate-but-superior address). Consistent with ราชาศัพท์ framework."}
+      ],
+      "notes": "First of 12 'Son of Man' or authority claims in Mark that provoke opposition. 'ἀφίενταί' is divine passive — Jewish theology held only God forgives sins (cf. v.7). Jesus' pronouncement of forgiveness IS the Christological claim."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 2:6",
+    "chapter": 2,
+    "verse": 6,
+    "greek": "ἦσαν δέ τινες τῶν γραμματέων ἐκεῖ καθήμενοι καὶ διαλογιζόμενοι ἐν ταῖς καρδίαις αὐτῶν·",
+    "bsb_english": "But some of the scribes were sitting there and thinking in their hearts,",
+    "translation": {
+      "thai": "มีธรรมาจารย์บางคนนั่งอยู่ที่นั่นและคิดในใจของตนว่า",
+      "key_decisions": [
+        {"greek": "γραμματέων", "thai": "ธรรมาจารย์", "rationale": "Consistent with 1:22. Torah scholars/scribes."},
+        {"greek": "διαλογιζόμενοι ἐν ταῖς καρδίαις", "thai": "คิดในใจ", "rationale": "διαλογίζομαι = reason/deliberate internally. ἐν ταῖς καρδίαις = 'in their hearts' (Semitic idiom for inner thought, not emotion). Thai 'คิดในใจ' is the exact natural idiom."}
+      ]
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 2:7",
+    "chapter": 2,
+    "verse": 7,
+    "greek": "Τί οὗτος οὕτως λαλεῖ; βλασφημεῖ· τίς δύναται ἀφιέναι ἁμαρτίας εἰ μὴ εἷς ὁ θεός;",
+    "bsb_english": "\"Why does this man speak like this? He is blaspheming! Who can forgive sins but God alone?\"",
+    "translation": {
+      "thai": "'ทำไมคนนี้พูดอย่างนี้? เขาหมิ่นประมาทพระเจ้า! ใครจะยกบาปได้เล่า นอกจากพระเจ้าองค์เดียว?'",
+      "key_decisions": [
+        {"greek": "οὗτος (dismissive demonstrative)", "thai": "คนนี้", "rationale": "Demonstrative as contempt-marker — 'this one.' Thai 'คนนี้' (dismissive third-person reference) captures the scribes' scorn. Consistent with avoiding พระองค์ in their direct speech about Jesus (register matches speaker's attitude, not narrator's reverence)."},
+        {"greek": "βλασφημεῖ", "thai": "หมิ่นประมาทพระเจ้า", "rationale": "βλασφημέω = speak against God / abusive speech. Thai Christian standard 'หมิ่นประมาทพระเจ้า' (dishonor/abuse God) makes the theological object explicit, which Greek implies."},
+        {"greek": "εἰ μὴ εἷς ὁ θεός", "thai": "นอกจากพระเจ้าองค์เดียว", "rationale": "'Except one, God' — emphatic monotheism (echoing Shema). The scribes' theology is correct; their application is wrong (they don't see who Jesus is)."}
+      ],
+      "notes": "Rhetorical question form — scribes are not inquiring; they are accusing. The irony: they are right that only God forgives sins; they do not yet see that Jesus IS God. Markan Christology operates by such implicit claims."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 2:8",
+    "chapter": 2,
+    "verse": 8,
+    "greek": "καὶ εὐθὺς ἐπιγνοὺς ὁ Ἰησοῦς τῷ πνεύματι αὐτοῦ ὅτι οὕτως διαλογίζονται ἐν ἑαυτοῖς λέγει αὐτοῖς· Τί ταῦτα διαλογίζεσθε ἐν ταῖς καρδίαις ὑμῶν;",
+    "bsb_english": "At once Jesus knew in His spirit that they were thinking this way within themselves. \"Why are you thinking these things in your hearts?\" He asked.",
+    "translation": {
+      "thai": "ทันใดนั้น พระเยซูทรงหยั่งรู้ในพระวิญญาณของพระองค์ว่าพวกเขากำลังคิดอย่างนั้นอยู่ในตัว จึงตรัสกับพวกเขาว่า 'ทำไมพวกท่านจึงคิดสิ่งเหล่านี้ในใจของพวกท่าน?'",
+      "key_decisions": [
+        {"greek": "ἐπιγνοὺς τῷ πνεύματι αὐτοῦ", "thai": "ทรงหยั่งรู้ในพระวิญญาณของพระองค์", "rationale": "ἐπιγινώσκω = fully/accurately know (intensified γινώσκω). τῷ πνεύματι αὐτοῦ = in his spirit (his inner self / supernatural perception). Ambiguous: Jesus' own spirit OR the Holy Spirit in him. Thai 'พระวิญญาณของพระองค์' preserves the ambiguity (พระวิญญาณ works for both). 'ทรงหยั่งรู้' = royal + supernatural-perception."},
+        {"greek": "Jesus to scribes (divine → human opponents)", "thai": "พวกท่าน", "rationale": "Plural polite second-person for Jesus addressing the scribes. Formal but not honorific — Jesus does not demean them but also claims equal-or-higher authority."}
+      ]
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 2:9",
+    "chapter": 2,
+    "verse": 9,
+    "greek": "τί ἐστιν εὐκοπώτερον, εἰπεῖν τῷ παραλυτικῷ· Ἀφίενταί σου αἱ ἁμαρτίαι, ἢ εἰπεῖν· Ἔγειρε καὶ ἆρον τὸν κράβαττόν σου καὶ περιπάτει;",
+    "bsb_english": "\"Which is easier: to say to a paralytic, 'Your sins are forgiven,' or to say, 'Get up, pick up your mat, and walk'?\"",
+    "translation": {
+      "thai": "'สิ่งไหนง่ายกว่ากัน ระหว่างการพูดกับชายเป็นอัมพาตว่า \"บาปของเจ้าได้รับการอภัยแล้ว\" กับการพูดว่า \"จงลุกขึ้น ยกแคร่ของเจ้า และเดินไป\"?'",
+      "key_decisions": [
+        {"greek": "εὐκοπώτερον (comp.)", "thai": "ง่ายกว่า", "rationale": "Comparative 'easier.' The rhetorical answer: saying 'your sins are forgiven' is easier to SAY (unverifiable) but the two are equally weighty as divine prerogatives. Jesus proves his invisible authority by the visible healing. Thai 'ง่ายกว่า' preserves the rhetorical comparison."},
+        {"greek": "nested quotation", "thai": "nested \"...\" inside '...'", "rationale": "Thai preserves the quotes-within-quotes structure for clarity."}
+      ]
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 2:10",
+    "chapter": 2,
+    "verse": 10,
+    "greek": "ἵνα δὲ εἰδῆτε ὅτι ἐξουσίαν ἔχει ὁ υἱὸς τοῦ ἀνθρώπου ἐπὶ τῆς γῆς ἀφιέναι ἁμαρτίας — λέγει τῷ παραλυτικῷ·",
+    "bsb_english": "But so that you may know that the Son of Man has authority on earth to forgive sins...\" He said to the paralytic,",
+    "translation": {
+      "thai": "'แต่เพื่อให้พวกท่านรู้ว่าบุตรมนุษย์ทรงมีสิทธิอำนาจในโลกที่จะยกบาปได้' — แล้วพระองค์ตรัสกับชายเป็นอัมพาตว่า",
+      "key_decisions": [
+        {"greek": "ὁ υἱὸς τοῦ ἀνθρώπου", "thai": "บุตรมนุษย์", "rationale": "FIRST OCCURRENCE OF 'SON OF MAN' IN MARK. ὁ υἱὸς τοῦ ἀνθρώπου = the Son of Man (a semitic construction = 'the human one'). Jesus' self-designation, drawing on Dan 7:13-14 (apocalyptic figure who receives universal dominion from the Ancient of Days). Standard Thai biblical 'บุตรมนุษย์' (lit. 'son of humanity'). This title will recur 14x in Mark — must remain consistent."},
+        {"greek": "ἐξουσίαν ἔχει", "thai": "ทรงมีสิทธิอำนาจ", "rationale": "ἐξουσία = authority (delegated or inherent). Thai 'สิทธิอำนาจ' = authority/right-to-rule (standard biblical Thai). 'ทรง' royal prefix since Son of Man = Jesus = divine."},
+        {"greek": "ἐπὶ τῆς γῆς", "thai": "ในโลก", "rationale": "'On earth' — locative, and theologically significant: the Son of Man exercises divine prerogative NOW in the earthly realm, not only eschatologically. Cf. Dan 7's heavenly throne scene."},
+        {"greek": "ἀφιέναι ἁμαρτίας", "thai": "ยกบาปได้", "rationale": "Infinitive 'to forgive sins.' Thai 'ยกบาป' (lift/remove sins) — standard rendering of the verb ἀφίημι in this context."},
+        {"greek": "anacoluthon", "thai": "em-dash", "rationale": "The Greek sentence breaks off mid-speech (addressing scribes) and switches to narrator-voice ('he says to the paralytic'). Thai em-dash preserves the grammatical rupture and narrative effect."}
+      ],
+      "notes": "MAJOR STRUCTURAL MOMENT: First 'Son of Man' saying in Mark. Jesus appropriates the Dan 7 title and uses it to claim divine authority exercised 'on earth.' The healing that follows is the proof. This verse establishes the two dimensions of Christ's work: declared forgiveness (invisible) and enacted healing (visible). Set the Thai rendering of 'บุตรมนุษย์' here and maintain it consistently for all 14 Mark occurrences."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 2:11",
+    "chapter": 2,
+    "verse": 11,
+    "greek": "Σοὶ λέγω, ἔγειρε ἆρον τὸν κράβαττόν σου καὶ ὕπαγε εἰς τὸν οἶκόν σου.",
+    "bsb_english": "\"I tell you, get up, pick up your mat, and go home.\"",
+    "translation": {
+      "thai": "'เราสั่งเจ้าว่า จงลุกขึ้น จงยกแคร่ของเจ้า และจงกลับบ้านไป'",
+      "key_decisions": [
+        {"greek": "Σοὶ λέγω (emphatic fronting)", "thai": "เราสั่งเจ้า", "rationale": "Σοί fronted for emphasis: 'To YOU I say.' The pivot from debate-with-scribes to command-to-paralytic. Thai 'เราสั่งเจ้า' (I [royal] command you) carries the imperative weight."},
+        {"greek": "Triple imperative: ἔγειρε...ἆρον...ὕπαγε", "thai": "จงลุกขึ้น จงยก...จงกลับ", "rationale": "Three aorist/present imperatives in succession — rising action, pick up, going. Thai 'จง' imperative particle for each preserves the emphatic series."},
+        {"greek": "εἰς τὸν οἶκόν σου", "thai": "กลับบ้านไป", "rationale": "'To your house' = 'home.' Thai 'กลับบ้านไป' (return home)."}
+      ]
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 2:12",
+    "chapter": 2,
+    "verse": 12,
+    "greek": "καὶ ἠγέρθη καὶ εὐθὺς ἄρας τὸν κράβαττον ἐξῆλθεν ἔμπροσθεν πάντων, ὥστε ἐξίστασθαι πάντας καὶ δοξάζειν τὸν θεὸν λέγοντας ὅτι Οὕτως οὐδέποτε εἴδομεν.",
+    "bsb_english": "And immediately the man got up, picked up his mat, and walked out in front of them all. As a result, they were all astounded and glorified God, saying, \"We have never seen anything like this!\"",
+    "translation": {
+      "thai": "เขาก็ลุกขึ้น และทันใดนั้นก็ยกแคร่เดินออกไปต่อหน้าทุกคน จนทุกคนตะลึง และสรรเสริญพระเจ้า กล่าวว่า 'พวกเราไม่เคยเห็นสิ่งเช่นนี้เลย'",
+      "key_decisions": [
+        {"greek": "ἠγέρθη (aor. pass.)", "thai": "ลุกขึ้น", "rationale": "Aorist passive 'was raised' — divine passive echo of ἀφίενταί ('are forgiven'). Thai naturalizes to active 'ลุกขึ้น.' The theological parallel (God forgives / God raises) is preserved in the narrative flow."},
+        {"greek": "ἐξίστασθαι", "thai": "ตะลึง", "rationale": "ἐξίστημι = be out of oneself / stand out / be amazed. Stronger than simple surprise. Thai 'ตะลึง' = stunned, dumbstruck."},
+        {"greek": "δοξάζειν τὸν θεόν", "thai": "สรรเสริญพระเจ้า", "rationale": "δοξάζω = glorify, honor. Thai 'สรรเสริญ' = praise/honor — standard biblical."},
+        {"greek": "Οὕτως οὐδέποτε εἴδομεν", "thai": "พวกเราไม่เคยเห็นสิ่งเช่นนี้เลย", "rationale": "Elliptical Greek 'Thus we have never seen.' Thai adds 'สิ่ง' (thing) for natural syntax. 'เลย' intensifies the negation."}
+      ],
+      "notes": "Crowd's response is correct but incomplete — they glorify God for unprecedented works, but do not yet name Jesus. Markan Christology: the reader knows what the crowds do not."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 2:13",
+    "chapter": 2,
+    "verse": 13,
+    "greek": "Καὶ ἐξῆλθεν πάλιν παρὰ τὴν θάλασσαν· καὶ πᾶς ὁ ὄχλος ἤρχετο πρὸς αὐτόν, καὶ ἐδίδασκεν αὐτούς.",
+    "bsb_english": "Once again Jesus went out beside the sea. All the people came to Him, and He taught them there.",
+    "translation": {
+      "thai": "พระองค์เสด็จออกไปที่ชายทะเลอีกครั้ง ฝูงชนทั้งหมดพากันมาหาพระองค์ และพระองค์ทรงสอนพวกเขา",
+      "key_decisions": [
+        {"greek": "ἐξῆλθεν πάλιν παρὰ τὴν θάλασσαν", "thai": "เสด็จออกไปที่ชายทะเลอีกครั้ง", "rationale": "'Went out again beside the sea' — echoes 1:16 (the call of Simon/Andrew). Mark frames scenes by locating Jesus at the Sea of Galilee. Thai 'ชายทะเล' = shore/seaside."},
+        {"greek": "ἤρχετο (imperf.)", "thai": "พากันมา", "rationale": "Imperfect = ongoing/repeated coming. Thai 'พากันมา' (come together/in group) captures the throng."}
+      ]
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 2:14",
+    "chapter": 2,
+    "verse": 14,
+    "greek": "καὶ παράγων εἶδεν Λευὶν τὸν τοῦ Ἁλφαίου καθήμενον ἐπὶ τὸ τελώνιον, καὶ λέγει αὐτῷ· Ἀκολούθει μοι. καὶ ἀναστὰς ἠκολούθησεν αὐτῷ.",
+    "bsb_english": "As He was walking along, He saw Levi son of Alphaeus sitting at the tax booth. \"Follow Me,\" He told him, and Levi got up and followed Him.",
+    "translation": {
+      "thai": "ขณะที่ทรงดำเนินไป พระองค์ทอดพระเนตรเห็นเลวีบุตรอัลเฟอัสนั่งอยู่ที่ด่านภาษี จึงตรัสกับเขาว่า 'จงตามเรามา' เลวีจึงลุกขึ้นและตามพระองค์ไป",
+      "key_decisions": [
+        {"greek": "Λευὶν τὸν τοῦ Ἁλφαίου", "thai": "เลวีบุตรอัลเฟอัส", "rationale": "Proper nouns: Λευίν = Levi; Ἁλφαίου = Alphaeus. Thai standard biblical transliterations 'เลวี' and 'อัลเฟอัส.' Levi = Matthew (in Matt 9:9), a tax collector-turned-disciple."},
+        {"greek": "τὸ τελώνιον", "thai": "ด่านภาษี", "rationale": "τελώνιον = tax/toll booth (the office, not the person). Capernaum sat on the trade route from Damascus to the Mediterranean. Thai 'ด่านภาษี' = customs/tax station — precisely the right image."},
+        {"greek": "Ἀκολούθει μοι", "thai": "จงตามเรามา", "rationale": "Same discipleship call-formula as 1:17 (Δεῦτε ὀπίσω μου). Slight grammatical difference (ἀκολούθει is pres. imperative of 'follow' vs. δεῦτε is adverbial 'come here'), but the semantic force is identical. Consistency with 1:17 preserves the formulaic feel."},
+        {"greek": "ἀναστὰς ἠκολούθησεν", "thai": "ลุกขึ้นและตามพระองค์ไป", "rationale": "Aorist participle + aorist main verb = 'having risen, he followed.' Immediate, decisive response. Thai mirrors the two actions."}
+      ],
+      "notes": "Paired with 1:16-20 (fishermen called): both scenes use παράγων ('passing by'), εἶδεν ('saw'), a direct call, and immediate response. Mark establishes the discipleship-call form here. Levi the tax collector is a socially unlikely addition — preparing for the meal in v.15 and the scandal in v.16."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 2:15",
+    "chapter": 2,
+    "verse": 15,
+    "greek": "Καὶ γίνεται κατακεῖσθαι αὐτὸν ἐν τῇ οἰκίᾳ αὐτοῦ, καὶ πολλοὶ τελῶναι καὶ ἁμαρτωλοὶ συνανέκειντο τῷ Ἰησοῦ καὶ τοῖς μαθηταῖς αὐτοῦ, ἦσαν γὰρ πολλοὶ καὶ ἠκολούθουν αὐτῷ.",
+    "bsb_english": "While Jesus was dining at Levi's house, many tax collectors and sinners were eating with Him and His disciples — for there were many who followed Him.",
+    "translation": {
+      "thai": "ขณะที่พระองค์ทรงเอนกายรับประทานอาหารอยู่ในบ้านของเลวี คนเก็บภาษีและคนบาปหลายคนก็ร่วมโต๊ะกับพระเยซูและบรรดาสาวกของพระองค์ เพราะมีหลายคนที่ติดตามพระองค์",
+      "key_decisions": [
+        {"greek": "κατακεῖσθαι", "thai": "ทรงเอนกายรับประทานอาหาร", "rationale": "κατακεῖμαι = recline (ancient dining posture on couches). Thai has no equivalent native practice; Thai 'เอนกาย' (recline body) + 'รับประทานอาหาร' (eat) conveys the image without forcing modernity. 'ทรง' royal for Jesus."},
+        {"greek": "τελῶναι", "thai": "คนเก็บภาษี", "rationale": "τελώνης = tax collector (contracted to collect for Rome; socially despised, ritually compromised). Standard Thai 'คนเก็บภาษี.'"},
+        {"greek": "ἁμαρτωλοί", "thai": "คนบาป", "rationale": "ἁμαρτωλός = sinner (marked by Pharisaic standards — either moral violators or those who could not/did not keep purity/tithe laws). Standard Thai 'คนบาป.'"},
+        {"greek": "συνανέκειντο", "thai": "ร่วมโต๊ะกับ", "rationale": "Imperfect of συνανάκειμαι = recline together / dine together. Thai 'ร่วมโต๊ะกับ' (share a table) is natural."},
+        {"greek": "ἦσαν γὰρ πολλοὶ καὶ ἠκολούθουν αὐτῷ", "thai": "เพราะมีหลายคนที่ติดตามพระองค์", "rationale": "Ambiguous antecedent of 'they': (a) many tax collectors/sinners were following — majority view given proximity; (b) many disciples were following — a stretch. Thai preserves the ambiguity with 'หลายคน' (many people)."}
+      ],
+      "notes": "Levi's house + tax collectors + sinners = maximum social scandal for Pharisaic observers. Mark places this meal scene immediately after the calling, showing that Jesus' circle includes those the religious establishment excludes. The γάρ clause suggests Jesus' following includes many from this disreputable class."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 2:16",
+    "chapter": 2,
+    "verse": 16,
+    "greek": "καὶ οἱ γραμματεῖς τῶν Φαρισαίων ἰδόντες ὅτι ἐσθίει μετὰ τῶν ἁμαρτωλῶν καὶ τελωνῶν ἔλεγον τοῖς μαθηταῖς αὐτοῦ· Ὅτι μετὰ τῶν τελωνῶν καὶ ἁμαρτωλῶν ἐσθίει;",
+    "bsb_english": "When the scribes who were Pharisees saw Jesus eating with these people, they asked His disciples, \"Why does He eat with tax collectors and sinners?\"",
+    "translation": {
+      "thai": "เมื่อพวกธรรมาจารย์ฝ่ายฟาริสีเห็นว่าพระองค์ทรงกินอาหารร่วมกับคนบาปและคนเก็บภาษี ก็พูดกับสาวกของพระองค์ว่า 'ทำไมเขาจึงกินร่วมกับคนเก็บภาษีและคนบาป?'",
+      "key_decisions": [
+        {"greek": "οἱ γραμματεῖς τῶν Φαρισαίων", "thai": "พวกธรรมาจารย์ฝ่ายฟาริสี", "rationale": "Genitive construction: 'scribes of the Pharisees' = scribes who belonged to the Pharisaic faction (as opposed to Sadducean scribes). Thai 'ฝ่ายฟาริสี' = Pharisee-faction/party."},
+        {"greek": "ἐσθίει (hist. pres.)", "thai": "ทรงกินอาหาร", "rationale": "Historic present in indirect discourse (narrator-frame keeps reverence)."},
+        {"greek": "Pharisees' direct quote", "thai": "เขา (for Jesus)", "rationale": "Within the Pharisees' direct speech, using 'เขา' (neutral/distancing) rather than 'พระองค์' (honorific). Matches the accusative tone of their question. Consistent with 2:7 where I used 'คนนี้' for οὗτος. Register tracks speaker attitude."},
+        {"greek": "Ὅτι (interrogative)", "thai": "ทำไม", "rationale": "Ὅτι here introduces an indirect/direct question (= διὰ τί 'why'). Thai 'ทำไม' (why)."}
+      ]
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 2:17",
+    "chapter": 2,
+    "verse": 17,
+    "greek": "καὶ ἀκούσας ὁ Ἰησοῦς λέγει αὐτοῖς ὅτι Οὐ χρείαν ἔχουσιν οἱ ἰσχύοντες ἰατροῦ ἀλλ' οἱ κακῶς ἔχοντες· οὐκ ἦλθον καλέσαι δικαίους ἀλλὰ ἁμαρτωλούς.",
+    "bsb_english": "On hearing this, Jesus told them, \"It is not the healthy who need a doctor, but the sick. I have not come to call the righteous, but sinners.\"",
+    "translation": {
+      "thai": "พระเยซูทรงได้ยินจึงตรัสกับพวกเขาว่า 'คนที่สุขสบายดีไม่ต้องการหมอ แต่คนเจ็บป่วยต่างหากที่ต้องการ เราไม่ได้มาเพื่อเรียกคนชอบธรรม แต่มาเรียกคนบาป'",
+      "key_decisions": [
+        {"greek": "οἱ ἰσχύοντες...ἰατροῦ", "thai": "คนที่สุขสบายดี...หมอ", "rationale": "Proverbial: 'the strong/healthy need no physician.' Thai 'สุขสบายดี' (well/comfortable) — natural, colloquial. 'หมอ' = doctor (colloquial, not medical-technical)."},
+        {"greek": "οἱ κακῶς ἔχοντες", "thai": "คนเจ็บป่วย", "rationale": "Idiom 'those having [it] badly' = 'the sick.' Thai 'คนเจ็บป่วย' (standard)."},
+        {"greek": "οὐκ ἦλθον καλέσαι", "thai": "เราไม่ได้มาเพื่อเรียก", "rationale": "'I did not come to call' — mission statement. The ἦλθον ('I came') has 'come from God'/incarnational undertone (cf. 1:38). Thai 'เราไม่ได้มาเพื่อ' preserves this sense."},
+        {"greek": "δικαίους...ἁμαρτωλούς", "thai": "คนชอบธรรม...คนบาป", "rationale": "Antithesis. 'คนชอบธรรม' = righteous people (standard biblical Thai). The implicit irony: the 'righteous' are those who think they need no call — so Jesus' call goes to those who know they do."}
+      ],
+      "notes": "Programmatic statement of Jesus' mission in Mark. The 'call' (καλέσαι) echoes the calling of disciples (1:17, 1:20, 2:14) — Jesus 'calls' sinners into discipleship. The proverb-form makes the argument culturally unassailable: even Pharisees concede that sick need doctors."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 2:18",
+    "chapter": 2,
+    "verse": 18,
+    "greek": "Καὶ ἦσαν οἱ μαθηταὶ Ἰωάννου καὶ οἱ Φαρισαῖοι νηστεύοντες. καὶ ἔρχονται καὶ λέγουσιν αὐτῷ· Διὰ τί οἱ μαθηταὶ Ἰωάννου καὶ οἱ μαθηταὶ τῶν Φαρισαίων νηστεύουσιν, οἱ δὲ σοὶ μαθηταὶ οὐ νηστεύουσιν;",
+    "bsb_english": "Now John's disciples and the Pharisees were often fasting. So people came to Jesus and asked, \"Why don't Your disciples fast like John's disciples and those of the Pharisees?\"",
+    "translation": {
+      "thai": "ขณะนั้นพวกสาวกของยอห์นและพวกฟาริสีกำลังอดอาหารอยู่ จึงมีคนมาทูลถามพระองค์ว่า 'เหตุใดสาวกของยอห์นและสาวกของพวกฟาริสีจึงอดอาหาร แต่สาวกของท่านไม่อดอาหาร?'",
+      "key_decisions": [
+        {"greek": "νηστεύοντες / νηστεύουσιν", "thai": "อดอาหาร", "rationale": "νηστεύω = fast (religious abstinence from food). Thai standard 'อดอาหาร' (literally 'fast from food'). Avoided 'ถือศีลอด' (evocative of Muslim Ramadan in modern Thai ears)."},
+        {"greek": "background description (periphrastic ἦσαν νηστεύοντες)", "thai": "กำลังอดอาหารอยู่", "rationale": "Periphrastic imperfect = ongoing action. Thai 'กำลัง...อยู่' (continuous aspect)."},
+        {"greek": "λέγουσιν αὐτῷ (humans to Jesus, respectful)", "thai": "ทูลถาม", "rationale": "Human inquirers addressing Jesus — use 'ทูลถาม' (respectful upward speech). Register is polite inquiry, not hostile."},
+        {"greek": "σοὶ μαθηταὶ (addressing Jesus)", "thai": "สาวกของท่าน", "rationale": "Inquirers use 'ท่าน' (respectful second-person) — neutral politeness, consistent with the non-hostile tone of the question."}
+      ]
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 2:19",
+    "chapter": 2,
+    "verse": 19,
+    "greek": "καὶ εἶπεν αὐτοῖς ὁ Ἰησοῦς· Μὴ δύνανται οἱ υἱοὶ τοῦ νυμφῶνος ἐν ᾧ ὁ νυμφίος μετ' αὐτῶν ἐστιν νηστεύειν; ὅσον χρόνον ἔχουσιν τὸν νυμφίον μετ' αὐτῶν οὐ δύνανται νηστεύειν·",
+    "bsb_english": "Jesus replied, \"How can the guests of the bridegroom fast while He is with them? As long as He is with them, they cannot fast.\"",
+    "translation": {
+      "thai": "พระเยซูตรัสตอบพวกเขาว่า 'เพื่อนเจ้าบ่าวจะอดอาหารได้หรือ ในขณะที่เจ้าบ่าวยังอยู่กับพวกเขา? ตราบที่เจ้าบ่าวอยู่กับพวกเขา พวกเขาย่อมอดอาหารไม่ได้'",
+      "key_decisions": [
+        {"greek": "οἱ υἱοὶ τοῦ νυμφῶνος", "thai": "เพื่อนเจ้าบ่าว", "rationale": "Semitic idiom 'sons of the bridal chamber' = groomsmen / wedding party. 'Sons of X' = people characterized by X. Thai 'เพื่อนเจ้าบ่าว' (groom's friends) conveys the cultural role directly without the Semitic idiom."},
+        {"greek": "νυμφίος", "thai": "เจ้าบ่าว", "rationale": "Standard Thai for 'bridegroom.' Jesus' self-identification with the messianic bridegroom figure (cf. Isa 62:5; Ps 45). This is Jesus' first implicit Christological image drawn from wedding/messianic-banquet tradition."},
+        {"greek": "Μὴ δύνανται...νηστεύειν (rhet. q.)", "thai": "จะอดอาหารได้หรือ", "rationale": "Greek rhetorical question expecting 'no' (μή). Thai 'ได้หรือ' (can they?) preserves the rhetorical form."},
+        {"greek": "ὅσον χρόνον", "thai": "ตราบที่", "rationale": "'As long as.' Thai 'ตราบที่' = 'as long as / while.'"}
+      ]
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 2:20",
+    "chapter": 2,
+    "verse": 20,
+    "greek": "ἐλεύσονται δὲ ἡμέραι ὅταν ἀπαρθῇ ἀπ' αὐτῶν ὁ νυμφίος, καὶ τότε νηστεύσουσιν ἐν ἐκείνῃ τῇ ἡμέρᾳ.",
+    "bsb_english": "But the time will come when the bridegroom will be taken from them; then they will fast.",
+    "translation": {
+      "thai": "แต่จะมีวันหนึ่งที่เจ้าบ่าวจะถูกพรากไปจากพวกเขา และในวันนั้นพวกเขาจึงจะอดอาหาร",
+      "key_decisions": [
+        {"greek": "ἀπαρθῇ (aor. pass. subj.)", "thai": "ถูกพรากไป", "rationale": "ἀπαίρω passive = 'be taken away.' Passive with implicit divine agent — hints at violent removal. Thai 'ถูกพราก' (be torn/taken away) is strong, preserving the passion-hint."},
+        {"greek": "ἐλεύσονται ἡμέραι...ἐν ἐκείνῃ τῇ ἡμέρᾳ", "thai": "จะมีวันหนึ่ง...ในวันนั้น", "rationale": "Greek doubles the temporal marker (days will come when... in that day). Thai keeps both references for clarity without being redundant."}
+      ],
+      "notes": "FIRST PASSION HINT IN MARK. The bridegroom's being 'taken away' (ἀπαρθῇ — violent verb) foreshadows the cross. The fasting of the disciples 'in that day' = post-crucifixion Christian practice (explains why the early church fasted despite Jesus' own non-fasting practice). This is the first of many Markan passion-foreshadowings."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 2:21",
+    "chapter": 2,
+    "verse": 21,
+    "greek": "Οὐδεὶς ἐπίβλημα ῥάκους ἀγνάφου ἐπιράπτει ἐπὶ ἱμάτιον παλαιόν· εἰ δὲ μή, αἴρει τὸ πλήρωμα ἀπ' αὐτοῦ τὸ καινὸν τοῦ παλαιοῦ, καὶ χεῖρον σχίσμα γίνεται.",
+    "bsb_english": "No one sews a patch of unshrunk cloth on an old garment. If he does, the new piece will pull away from the old, and a worse tear will result.",
+    "translation": {
+      "thai": "ไม่มีใครเอาผ้าดิบมาเย็บปะเสื้อเก่า ถ้าทำเช่นนั้น ผ้าใหม่ก็จะดึงผ้าเก่าให้ขาด รอยขาดก็จะยิ่งแย่ลง",
+      "key_decisions": [
+        {"greek": "ἐπίβλημα ῥάκους ἀγνάφου", "thai": "ผ้าดิบ...เย็บปะ", "rationale": "ἐπίβλημα = patch; ῥάκος = piece of cloth; ἄγναφος = not fulled/unshrunk. Unfulled cloth will shrink on washing and rip the surrounding garment. Thai 'ผ้าดิบ' = raw/unprocessed cloth (will shrink) — precise cultural match. 'เย็บปะ' = patch by sewing."},
+        {"greek": "ἐπιράπτει (HAPAX ἐπιράπτω)", "thai": "เย็บปะ", "rationale": "HAPAX LEGOMENON. Compound ἐπί (on) + ῥάπτω (sew). Meaning transparent — 'sew on.' Thai 'เย็บปะ' (sew-patch) is the standard tailoring term."},
+        {"greek": "αἴρει τὸ πλήρωμα ἀπ' αὐτοῦ", "thai": "ผ้าใหม่ก็จะดึงผ้าเก่าให้ขาด", "rationale": "'The patch (πλήρωμα = the filling/completion piece) lifts/tears away from it.' The appositional τὸ καινὸν τοῦ παλαιοῦ ('the new [piece from] the old') clarifies. Thai preserves the shrinking-and-tearing dynamic."},
+        {"greek": "χεῖρον σχίσμα", "thai": "รอยขาดก็จะยิ่งแย่ลง", "rationale": "χεῖρον (comp. of κακός) + σχίσμα = 'worse tear.' Thai 'รอยขาดยิ่งแย่ลง' (the tear gets even worse)."}
+      ],
+      "notes": "HAPAX: ἐπιράπτω (2:21). Parable illustrating incompatibility of Jesus' new thing with old forms (fasting practices, purity rules). Patching old with new tears the old — Jesus cannot be assimilated to Pharisaic categories."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 2:22",
+    "chapter": 2,
+    "verse": 22,
+    "greek": "καὶ οὐδεὶς βάλλει οἶνον νέον εἰς ἀσκοὺς παλαιούς· εἰ δὲ μή, ῥήξει ὁ οἶνος τοὺς ἀσκούς, καὶ ὁ οἶνος ἀπόλλυται καὶ οἱ ἀσκοί. ἀλλὰ οἶνον νέον εἰς ἀσκοὺς καινούς.",
+    "bsb_english": "And no one pours new wine into old wineskins. If he does, the wine will burst the skins, and both the wine and the wineskins will be ruined. Instead, new wine is poured into new wineskins.",
+    "translation": {
+      "thai": "ไม่มีใครเทเหล้าองุ่นใหม่ลงในถุงหนังเก่า ถ้าทำเช่นนั้น เหล้าองุ่นจะทำให้ถุงหนังฉีกขาด ทั้งเหล้าองุ่นและถุงหนังก็จะเสียไปด้วยกัน แต่เหล้าองุ่นใหม่ต้องเทในถุงหนังใหม่",
+      "key_decisions": [
+        {"greek": "οἶνον νέον", "thai": "เหล้าองุ่นใหม่", "rationale": "νέος (not καινός) here emphasizes temporal newness — still-fermenting wine that produces gases. Thai 'เหล้าองุ่นใหม่' standard. (νέος vs. καινός: νέος = new in time; καινός = new in quality/kind; the pair is used both ways in these parables.)"},
+        {"greek": "ἀσκούς", "thai": "ถุงหนัง", "rationale": "ἀσκός = leather bag (wineskin). Old ones have already stretched; new wine's fermentation bursts them. Thai 'ถุงหนัง' = leather bag."},
+        {"greek": "ῥήξει...ἀπόλλυται", "thai": "ทำให้...ฉีกขาด...เสียไปด้วยกัน", "rationale": "Future ῥήξει 'will burst' + present ἀπόλλυται 'is destroyed.' Thai preserves the sequential disaster."},
+        {"greek": "ἀλλὰ οἶνον νέον εἰς ἀσκοὺς καινούς (ellipsis)", "thai": "แต่เหล้าองุ่นใหม่ต้องเทในถุงหนังใหม่", "rationale": "Elliptical Greek 'but new wine into new wineskins [one puts].' Thai supplies the verb 'ต้องเท' (must be poured) for natural syntax."}
+      ]
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 2:23",
+    "chapter": 2,
+    "verse": 23,
+    "greek": "Καὶ ἐγένετο αὐτὸν ἐν τοῖς σάββασιν παραπορεύεσθαι διὰ τῶν σπορίμων, καὶ οἱ μαθηταὶ αὐτοῦ ἤρξαντο ὁδὸν ποιεῖν τίλλοντες τοὺς στάχυας.",
+    "bsb_english": "One Sabbath Jesus was passing through the grainfields, and His disciples began to pick the heads of grain as they walked along.",
+    "translation": {
+      "thai": "ในวันสะบาโตหนึ่ง ขณะที่พระองค์เสด็จผ่านท้องทุ่งนา บรรดาสาวกของพระองค์ก็เริ่มเดินพลางเด็ดรวงข้าวไปพลาง",
+      "key_decisions": [
+        {"greek": "ἐν τοῖς σάββασιν", "thai": "ในวันสะบาโตหนึ่ง", "rationale": "Greek idiomatic plural σάββατα often = a single Sabbath. Thai 'ในวันสะบาโตหนึ่ง' (on one Sabbath)."},
+        {"greek": "σπορίμων", "thai": "ท้องทุ่งนา", "rationale": "σπόριμα = sown fields (grainfields). Thai 'ท้องทุ่งนา' (broad grain-field landscape). In Thailand nearly all grain = rice; here in Galilee = wheat/barley. Neutral 'ท้องทุ่งนา' works."},
+        {"greek": "ἤρξαντο ὁδὸν ποιεῖν τίλλοντες", "thai": "เริ่มเดินพลางเด็ดรวงข้าวไปพลาง", "rationale": "ὁδὸν ποιεῖν = idiom 'make a way' = 'make progress / walk along.' Not 'carve out a path by destroying plants' — that's an ancient minority reading. Majority reading (uW, BSB, most commentators): they walked along while picking. Thai 'เดินพลาง...ไปพลาง' (walk while...going) is the concurrent-action pattern."},
+        {"greek": "στάχυας", "thai": "รวงข้าว", "rationale": "στάχυς = head/ear of grain. Thai 'รวงข้าว' = grain-ear/head."}
+      ],
+      "notes": "Deut 23:25 explicitly permits a traveler to pluck grain by hand from a neighbor's field (not with a sickle). The disciples' action is not theft; the issue is Sabbath 'work' (by Pharisaic interpretation of 'harvesting')."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 2:24",
+    "chapter": 2,
+    "verse": 24,
+    "greek": "καὶ οἱ Φαρισαῖοι ἔλεγον αὐτῷ· Ἴδε τί ποιοῦσιν τοῖς σάββασιν ὃ οὐκ ἔξεστιν;",
+    "bsb_english": "So the Pharisees said to Him, \"Look, why are they doing what is unlawful on the Sabbath?\"",
+    "translation": {
+      "thai": "พวกฟาริสีจึงกล่าวกับพระองค์ว่า 'ดูสิ ทำไมพวกเขาจึงทำสิ่งที่ผิดกฎในวันสะบาโต?'",
+      "key_decisions": [
+        {"greek": "Ἴδε", "thai": "ดูสิ", "rationale": "Attention-getting particle. Thai 'ดูสิ' (look!) — natural spoken attention-marker."},
+        {"greek": "ὃ οὐκ ἔξεστιν", "thai": "สิ่งที่ผิดกฎ", "rationale": "οὐκ ἔξεστιν = 'it is not permitted/lawful.' The reference is to Sabbath halakhah (Pharisaic Sabbath-interpretation, not Torah per se; Torah forbids 'work' but the definition of work was debated). Thai 'ผิดกฎ' = contrary to the law — captures the halakhic dispute."}
+      ]
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 2:25",
+    "chapter": 2,
+    "verse": 25,
+    "greek": "καὶ λέγει αὐτοῖς· Οὐδέποτε ἀνέγνωτε τί ἐποίησεν Δαυὶδ ὅτε χρείαν ἔσχεν καὶ ἐπείνασεν αὐτὸς καὶ οἱ μετ' αὐτοῦ;",
+    "bsb_english": "Jesus replied, \"Have you never read what David did when he and his companions were hungry and in need?\"",
+    "translation": {
+      "thai": "พระองค์ตรัสกับพวกเขาว่า 'พวกท่านไม่เคยอ่านหรือว่าดาวิดทำอะไร เมื่อเขาและคนที่อยู่กับเขาขัดสนและหิวโหย?'",
+      "key_decisions": [
+        {"greek": "Οὐδέποτε ἀνέγνωτε (rhet. q.)", "thai": "พวกท่านไม่เคยอ่านหรือ", "rationale": "Rhetorical question assuming they have read. Jesus appeals to the Pharisees' own scriptural knowledge. Thai 'ไม่เคย...หรือ' (have you never...?) preserves the rhetoric."},
+        {"greek": "Δαυίδ", "thai": "ดาวิด", "rationale": "Standard Thai biblical transliteration of David."},
+        {"greek": "Jesus to Pharisees (peer-level disputation)", "thai": "พวกท่าน", "rationale": "Formal/polite plural — Jesus addresses the Pharisees as rabbinic peers in argument, not as subordinates. Fits the appeal-to-scripture rhetorical mode."}
+      ]
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 2:26",
+    "chapter": 2,
+    "verse": 26,
+    "greek": "πῶς εἰσῆλθεν εἰς τὸν οἶκον τοῦ θεοῦ ἐπὶ Ἀβιαθὰρ ἀρχιερέως καὶ τοὺς ἄρτους τῆς προθέσεως ἔφαγεν, οὓς οὐκ ἔξεστιν φαγεῖν εἰ μὴ τοὺς ἱερεῖς, καὶ ἔδωκεν καὶ τοῖς σὺν αὐτῷ οὖσιν;",
+    "bsb_english": "During the high priesthood of Abiathar, he entered the house of God and ate the consecrated bread, which was lawful only for the priests. And he gave some to his companions as well.",
+    "translation": {
+      "thai": "เขาเข้าไปในพระนิเวศของพระเจ้าในสมัยที่อาบียาธาร์เป็นมหาปุโรหิต และกินขนมปังหน้าพระพักตร์ ซึ่งไม่อนุญาตให้ใครกิน นอกจากปุโรหิตเท่านั้น ทั้งยังเอาให้คนที่อยู่กับเขากินด้วย",
+      "key_decisions": [
+        {"greek": "τὸν οἶκον τοῦ θεοῦ", "thai": "พระนิเวศของพระเจ้า", "rationale": "'House of God' = tabernacle/sanctuary at Nob (1 Sam 21). Thai 'พระนิเวศของพระเจ้า' (God's dwelling place) — standard biblical Thai."},
+        {"greek": "ἐπὶ Ἀβιαθὰρ ἀρχιερέως", "thai": "ในสมัยที่อาบียาธาร์เป็นมหาปุโรหิต", "rationale": "HISTORICAL-CRITICAL CRUX. ἐπί + gen. personal name commonly = 'in the time of' or 'during the high-priesthood of.' BUT: in 1 Sam 21:1-6 the priest is Ahimelech (Abiathar's father); Abiathar became high priest only after Saul killed Ahimelech (1 Sam 22). Proposed solutions: (a) Mark's error; (b) ἐπί + gen. can mean 'in the Scripture-section about Abiathar' (cf. Mark 12:26 'ἐπὶ τοῦ βάτου' = 'in the passage about the burning bush') — Abiathar is the more famous figure of the 1 Sam narrative arc; (c) Ahimelech and Abiathar shared priestly duties; (d) textual corruption. Our translation follows SBLGNT verbatim, rendering ἐπί as 'ในสมัยที่...เป็น' (in the era that X was). Full flag in notes."},
+        {"greek": "Ἀβιαθάρ", "thai": "อาบียาธาร์", "rationale": "HAPAX in Mark. Thai biblical transliteration 'อาบียาธาร์' (standard across Thai OT/NT)."},
+        {"greek": "τοὺς ἄρτους τῆς προθέσεως", "thai": "ขนมปังหน้าพระพักตร์", "rationale": "'Loaves of the presentation' = showbread, twelve loaves placed before God in the Holy Place, renewed weekly, eaten only by priests (Lev 24:5-9). Thai standard 'ขนมปังหน้าพระพักตร์' ('bread before [God's] face')."},
+        {"greek": "οὓς οὐκ ἔξεστιν φαγεῖν εἰ μὴ τοὺς ἱερεῖς", "thai": "ซึ่งไม่อนุญาตให้ใครกิน นอกจากปุโรหิตเท่านั้น", "rationale": "Accusative of reference (τοὺς ἱερεῖς) in a 'not lawful...except' construction — standard Greek. Thai reorders naturally with 'นอกจาก...เท่านั้น' (except...only)."}
+      ],
+      "notes": "HISTORICAL CRUX at 2:26: 'ἐπὶ Ἀβιαθὰρ ἀρχιερέως.' 1 Sam 21:1-6 records the priest at Nob as Ahimelech, not Abiathar. Abiathar (his son) became high priest later (1 Sam 22:20-23). Four main solutions in the literature: (1) Mark/Jesus conflates Abiathar with Ahimelech by memory; (2) ἐπί + gen. = 'in the Scripture section named for Abiathar' — parallel to Mark 12:26 ('ἐπὶ τοῦ βάτου' = 'in the burning-bush passage'); (3) both men shared priesthood during the transition; (4) a variant reading. SBLGNT keeps Ἀβιαθάρ (the harder reading). Recommended Thai footnote: '1 ซามูเอล 21 บันทึกว่าอาหิเมเลคเป็นปุโรหิตที่โนบในขณะนั้น อาบียาธาร์บุตรของเขาเป็นมหาปุโรหิตในเวลาต่อมา' ('1 Sam 21 records Ahimelech as the priest at Nob at that time; Abiathar his son became high priest later.'). HAPAX: Ἀβιαθάρ in Mark."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 2:27",
+    "chapter": 2,
+    "verse": 27,
+    "greek": "καὶ ἔλεγεν αὐτοῖς· Τὸ σάββατον διὰ τὸν ἄνθρωπον ἐγένετο καὶ οὐχ ὁ ἄνθρωπος διὰ τὸ σάββατον·",
+    "bsb_english": "Then Jesus declared, \"The Sabbath was made for man, not man for the Sabbath.\"",
+    "translation": {
+      "thai": "พระองค์ตรัสต่อไปว่า 'วันสะบาโตถูกสร้างขึ้นเพื่อมนุษย์ ไม่ใช่มนุษย์ถูกสร้างขึ้นเพื่อวันสะบาโต'",
+      "key_decisions": [
+        {"greek": "ἔλεγεν (imperf.)", "thai": "ตรัสต่อไป", "rationale": "Imperfect = continuing speech. Thai 'ตรัสต่อไป' (went on saying) captures the ongoing discourse."},
+        {"greek": "ἐγένετο (aor.)", "thai": "ถูกสร้างขึ้น", "rationale": "'Came to be / was made.' Divine passive implied (God made the Sabbath). Thai 'ถูกสร้างขึ้น' (was created) makes the passive overt; implicit agent = God."},
+        {"greek": "generic ὁ ἄνθρωπος", "thai": "มนุษย์", "rationale": "Generic 'the man' = humanity. Thai 'มนุษย์' (human/humankind) is generic — fitting for the proverbial form."},
+        {"greek": "chiastic antithesis", "thai": "ถูกสร้างขึ้นเพื่อมนุษย์...มนุษย์ถูกสร้างขึ้นเพื่อวันสะบาโต", "rationale": "Mark preserves the reversible A-for-B / B-for-A chiasm. Thai naturally parallels with the same verb both sides. This proverb-form maximizes rhetorical memorability."}
+      ],
+      "notes": "Proverbial/aphoristic form. This saying is UNIQUE TO MARK — Matthew and Luke both omit v.27. Some ancient manuscripts also omit (D, W, it) but SBLGNT retains with confidence. The saying places Jesus in continuity with some rabbinic teaching (cf. Mekhilta on Exod 31:14 — R. Simeon b. Menasia: 'the Sabbath is given to you, not you to the Sabbath') while pushing toward a fuller claim in v.28."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 2:28",
+    "chapter": 2,
+    "verse": 28,
+    "greek": "ὥστε κύριός ἐστιν ὁ υἱὸς τοῦ ἀνθρώπου καὶ τοῦ σαββάτου.",
+    "bsb_english": "Therefore, the Son of Man is Lord even of the Sabbath.",
+    "translation": {
+      "thai": "เพราะฉะนั้น บุตรมนุษย์จึงทรงเป็นเจ้าเหนือวันสะบาโตด้วย",
+      "key_decisions": [
+        {"greek": "ὥστε", "thai": "เพราะฉะนั้น...จึง", "rationale": "Inferential particle — conclusion drawn from v.27. Thai 'เพราะฉะนั้น...จึง' (therefore...thus)."},
+        {"greek": "κύριός ἐστιν", "thai": "ทรงเป็นเจ้าเหนือ", "rationale": "κύριος = lord/master — here Jesus applies to the Son of Man (= himself) a title with divine overtones. Not rendering as 'องค์พระผู้เป็นเจ้า' (which is reserved for YHWH references per glossary) but as 'เจ้าเหนือ' (master over / lord over) — preserves the divine-prerogative claim without overloading the full divine-name phrase. 'ทรง' royal prefix fits the divine subject."},
+        {"greek": "ὁ υἱὸς τοῦ ἀνθρώπου", "thai": "บุตรมนุษย์", "rationale": "Second 'Son of Man' in Mark (after 2:10). Consistent rendering per glossary."},
+        {"greek": "καὶ τοῦ σαββάτου", "thai": "เหนือวันสะบาโตด้วย", "rationale": "καί here = 'also/even' — emphatic (lord even of the Sabbath, the most sacred institution). Thai 'ด้วย' (also/even) preserves the emphatic force."}
+      ],
+      "notes": "Second 'Son of Man' saying in Mark. Progression from 2:10 (authority to forgive sins) to 2:28 (lordship over the Sabbath) — both claim divine prerogatives for the Son of Man. The argument in 2:23-28 is layered: (1) Scripture permitted David to do what was technically 'unlawful' for human need (vv.25-26); (2) Sabbath was made for human benefit (v.27); (3) therefore the Son of Man — who represents true humanity AND exercises divine authority — is Lord of the Sabbath (v.28)."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  }
+]
