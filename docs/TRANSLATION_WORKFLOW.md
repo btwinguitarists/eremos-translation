@@ -69,7 +69,12 @@ python3 scripts/enrich_with_uw.py --book 1TI --chapter 3      # scholarly contex
 
 The first script writes `output/<book-slug>/<slug>_<NN>.json` with word-by-word morphology, BSB reference, hapax flags, Louw-Nida semantic domains.
 
-The second fetches CC-BY-SA unfoldingWord Translation Notes for the chapter (verse-by-verse scholarly commentary) and writes `output/uw_notes/<slug>_<NN>.md`. Claude reads this during translation for interpretive cruxes, textual issues, and "how most translators handle this" signals — **reference only**, never copied per RULES.md §8.
+The second fetches CC-BY-SA unfoldingWord Translation Notes for the chapter and writes TWO files:
+
+- `output/uw_notes/<slug>_FRONT.md` — book-level introduction (author, audience, date, themes, outline, translation issues). **Read this FIRST before any chapter of a book.** SIL/Wycliffe pro practice — translators always start with the book overview before chapter-specific work.
+- `output/uw_notes/<slug>_<NN>.md` — chapter-level verse-by-verse scholarly commentary. Read AFTER the book intro for chapter-specific cruxes.
+
+Both are CC-BY-SA reference material — read for context, never copy wording into our output (would inherit CC-BY-SA, breaking our CC0 license). See RULES.md §8.
 
 ### 2. Translate the chapter
 

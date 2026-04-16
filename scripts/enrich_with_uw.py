@@ -33,16 +33,18 @@ sys.path.insert(0, str(ROOT / "scripts"))
 from extract_book import BOOKS  # {code: (name, slug)}
 
 
-def load_tn(book_code: str, chapter: int) -> tuple[list[dict], dict]:
-    """Return (per-verse notes, chapter-level intro note). Each per-verse entry:
-       {'verse': int | 'intro', 'id': str, 'quote': str, 'note': str, 'support': str}
+def load_tn(book_code: str, chapter: int) -> tuple[list[dict], dict, dict]:
+    """Return (per-verse notes, chapter-level intro note, book-level front intro).
+       Each entry: {'verse': int | 'intro' | 'front', 'id': str, 'quote': str,
+                    'note': str, 'support': str}
     """
     tsv_path = UW_TN_DIR / f"tn_{book_code}.tsv"
     if not tsv_path.exists():
-        return [], {}
+        return [], {}, {}
 
     notes = []
     intro = {}
+    front = {}
     with open(tsv_path, encoding="utf-8") as f:
         reader = csv.DictReader(f, delimiter="\t")
         for row in reader:
@@ -54,7 +56,16 @@ def load_tn(book_code: str, chapter: int) -> tuple[list[dict], dict]:
                 continue
             ch_part, v_part = ref.split(":", 1)
 
+            entry = {
+                "verse": v_part,
+                "id": (row.get("ID") or "").strip(),
+                "quote": (row.get("Quote") or "").strip(),
+                "note": (row.get("Note") or "").strip().replace("\\n", "\n"),
+                "support": (row.get("SupportReference") or "").strip(),
+            }
+
             if ch_part == "front":
+                front = entry
                 continue
 
             try:
@@ -64,19 +75,11 @@ def load_tn(book_code: str, chapter: int) -> tuple[list[dict], dict]:
             if row_chapter != chapter:
                 continue
 
-            entry = {
-                "verse": v_part,
-                "id": (row.get("ID") or "").strip(),
-                "quote": (row.get("Quote") or "").strip(),
-                "note": (row.get("Note") or "").strip().replace("\\n", "\n"),
-                "support": (row.get("SupportReference") or "").strip(),
-            }
-
             if v_part == "intro":
                 intro = entry
             else:
                 notes.append(entry)
-    return notes, intro
+    return notes, intro, front
 
 
 def render_markdown(book_name: str, book_code: str, chapter: int,
@@ -140,8 +143,8 @@ def main():
         return 1
     book_name, slug = BOOKS[code]
 
-    notes, intro = load_tn(code, args.chapter)
-    if not notes and not intro:
+    notes, intro, front = load_tn(code, args.chapter)
+    if not notes and not intro and not front:
         print(f"No uW Translation Notes found for {book_name} {args.chapter}.")
         print(f"(Check that sources/en_tn/tn_{code}.tsv exists and contains the chapter.)")
         return 0
@@ -156,6 +159,24 @@ def main():
         out_path.write_text(md, encoding="utf-8")
         print(f"Wrote {out_path}")
         print(f"  {len(notes)} verse-level notes + {'intro' if intro else 'no intro'}")
+
+        # Always (re)write the book-level front intro file. This is what
+        # translators read FIRST before starting any chapter — author, audience,
+        # outline, themes, translation issues. SIL/Wycliffe pro practice.
+        if front:
+            front_path = OUTPUT / f"{slug}_FRONT.md"
+            front_lines = [
+                f"# unfoldingWord Book Introduction — {book_name}",
+                "",
+                "_Source: unfoldingWord® Translation Notes, CC-BY-SA 4.0 (github.com/unfoldingWord/en_tn)._",
+                "_**Reference only.** Read BEFORE starting any chapter of this book to ground exegesis in author/audience/themes/structure/translation-issues._",
+                "",
+                "---",
+                "",
+                front["note"],
+            ]
+            front_path.write_text("\n".join(front_lines), encoding="utf-8")
+            print(f"  Book intro: {front_path}")
 
     return 0
 

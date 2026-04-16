@@ -30,7 +30,8 @@ When pillars conflict, **accuracy wins**, with naturalness documented as a trade
 - This RULES.md
 - `glossary.json` — our persistent key-term ledger
 - Prior chapters of our own Eremos Translation output (for consistency)
-- **unfoldingWord Translation Notes** (CC-BY-SA) at `output/uw_notes/<slug>_<NN>.md` — scholarly reference (interpretive cruxes, textual issues). **Read for context, never copy wording.** See §8 for license handling.
+- **unfoldingWord Book Introduction** (CC-BY-SA) at `output/uw_notes/<slug>_FRONT.md` — **MUST be read FIRST** before any chapter of a book. Provides author, audience, date, themes, outline, and book-specific translation issues. SIL/Wycliffe pro practice.
+- **unfoldingWord Translation Notes** (CC-BY-SA) at `output/uw_notes/<slug>_<NN>.md` — chapter-level scholarly reference (interpretive cruxes, textual issues). Read AFTER the book intro. **Read for context, never copy wording.** See §8 for license handling.
 
 **Never read during translation**:
 
