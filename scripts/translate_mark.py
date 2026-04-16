@@ -33,7 +33,7 @@ ROOT = Path(__file__).resolve().parent.parent
 MARK_DIR = ROOT / "output" / "mark"
 TRANSLATIONS_DIR = ROOT / "output" / "translations"
 
-MODEL = "claude-sonnet-4-5"  # Best ancient language performance; change to claude-opus if available
+MODEL = "claude-opus-4-6"  # Highest-quality model — translation is the highest-stakes step.
 
 SYSTEM_PROMPT = """You are a Bible translator producing a new Thai translation of the Gospel of Mark directly from the Koine Greek source text.
 

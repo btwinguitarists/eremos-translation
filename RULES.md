@@ -185,7 +185,24 @@ For the pilot phase, Ben is the de facto native-speaker + theological reviewer. 
 
 ---
 
-## 11. Change log
+## 11. Model recommendations
+
+| Task | Model | Rationale |
+|------|-------|-----------|
+| Translation (main chat that produces the draft) | **Opus 4.6**, 1M context, max effort | Translation is the highest-stakes step. Hapax legomena, textual variants, theological nuance all benefit from the deepest reasoning. |
+| Back-translation check (API calls from `check_back_translation.py`) | **Sonnet 4.6** | Simpler task (Thai → English, literal). Sonnet handles it well and saves API spend at per-verse volume. |
+| Follow-up review, code edits, running the check scripts | **Sonnet 4.6** | Faster, cheaper. No reason to burn Opus once the draft is done. |
+| Code-only checks (key-term consistency, TNBT structural, OT citation, parallel passages) | No LLM | Pure Python. |
+
+**New chat per chapter?** Yes — each chapter gets a fresh Opus chat so:
+- The kickoff memory and RULES.md load cleanly
+- No context drift from the previous chapter's translation
+- The full 1M context is fresh for the new chapter's exegesis
+- Parallelizable (you can translate multiple chapters on different days in different chats)
+
+Exception: if rapidly translating sequential chapters in one sitting (e.g., Mark 2–5), staying in the same chat is fine — the glossary.json will have just been written, and Claude's continuity helps with the unfolding narrative.
+
+## 12. Change log
 
 - **v0.1** (2026-04-16) — Initial rules drafted from Mark 1 experience + SIL/Wycliffe/UBS research synthesis. Applies going forward starting with 1 Timothy 3 pilot.
 

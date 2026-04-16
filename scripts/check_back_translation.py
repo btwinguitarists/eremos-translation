@@ -32,7 +32,7 @@ ROOT = Path(__file__).resolve().parent.parent
 TRANSLATIONS = ROOT / "output" / "translations"
 REPORTS = ROOT / "output" / "check_reports"
 
-MODEL = "claude-sonnet-4-5"
+MODEL = "claude-sonnet-4-6"  # Sonnet is enough for literal back-translation; Opus is overkill per verse.
 
 BACK_TRANS_SYSTEM = """You are a literal back-translator. Given a Thai sentence, produce its English meaning as literally as possible. Rules:
 
