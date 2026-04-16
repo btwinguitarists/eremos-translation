@@ -1,0 +1,1111 @@
+[
+  {
+    "reference": "Mark 7:1",
+    "chapter": 7,
+    "verse": 1,
+    "greek": "Καὶ συνάγονται πρὸς αὐτὸν οἱ Φαρισαῖοι καί τινες τῶν γραμματέων ἐλθόντες ἀπὸ Ἱεροσολύμων",
+    "bsb_english": "Then the Pharisees and some of the scribes who had come from Jerusalem gathered around Jesus,",
+    "translation": {
+      "thai": "พวกฟาริสีและธรรมาจารย์บางคนที่มาจากกรุงเยรูซาเล็มได้พากันมาชุมนุมอยู่รอบพระองค์",
+      "key_decisions": [
+        {
+          "greek": "συνάγονται (hist. pres. passive)",
+          "thai": "ได้พากันมาชุมนุม",
+          "rationale": "συνάγω = gather together. Per uW figs-activepassive: rendered actively in Thai for naturalness; the historic present marks scene-shift to a new pericope (uW translate-tense). Thai 'พากันมา' (band-together-come) preserves the deputation-like sense — these aren't random visitors but a coordinated investigative party."
+        },
+        {
+          "greek": "Φαρισαῖοι",
+          "thai": "พวกฟาริสี",
+          "rationale": "Established Mark 2:16, 3:6 rendering. 'พวก' = plural-collective marker. ฟาริสี is the standard Thai Christian transliteration."
+        },
+        {
+          "greek": "γραμματέων ... ἐλθόντες ἀπὸ Ἱεροσολύμων",
+          "thai": "ธรรมาจารย์บางคนที่มาจากกรุงเยรูซาเล็ม",
+          "rationale": "Established γραμματεύς = ธรรมาจารย์ (Mark 1:22, 2:6, 3:22). Ἱεροσόλυμα = กรุงเยรูซาเล็ม per Mark 3:22 precedent. Per uW figs-explicit: the participle ἐλθόντες could modify both Pharisees+scribes or only scribes; we follow ULT's reading that 'who had come from Jerusalem' modifies the scribes — a Jerusalem delegation came north to investigate (cf. Mark 3:22, same pattern)."
+        }
+      ],
+      "notes": "SCENE OPENER: A second Jerusalem-deputation arrives (cf. Mark 3:22 'οἱ γραμματεῖς οἱ ἀπὸ Ἱεροσολύμων καταβάντες'). The pattern marks escalating institutional opposition — first they accused Jesus of demonic alliance (3:22); now they probe his halakhic practice. Mark structures the pericope as an ABBA chiasm: setting (vv.1–2) → background (vv.3–4) → question (v.5) → answer (vv.6–13). The 'historic present' συνάγονται flags major narrative turn."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 7:2",
+    "chapter": 7,
+    "verse": 2,
+    "greek": "καὶ ἰδόντες τινὰς τῶν μαθητῶν αὐτοῦ ὅτι κοιναῖς χερσίν,τοῦτ’ἔστιν ἀνίπτοις,ἐσθίουσιν τοὺς ἄρτους",
+    "bsb_english": "and they saw some of His disciples eating with hands that were defiled—that is, unwashed.",
+    "translation": {
+      "thai": "และเห็นสาวกบางคนของพระองค์รับประทานอาหารด้วยมือที่เป็นมลทิน คือมือที่ไม่ได้ล้าง",
+      "key_decisions": [
+        {
+          "greek": "κοιναῖς χερσίν",
+          "thai": "ด้วยมือที่เป็นมลทิน",
+          "rationale": "POLYSEMOUS: κοινός in Hellenistic Greek normally = 'common, ordinary,' but in Jewish religious vocabulary (Acts 10:14; Rom 14:14; Heb 10:29) it acquired the technical sense 'ritually defiled, profane' — opposite of καθαρός 'pure.' Thai 'มลทิน' (defilement, ritual impurity) captures the ceremonial sense, not 'ordinary.' Per uW figs-explicit: Mark himself glosses the term for Greek readers who wouldn't recognize the Jewish technical usage — 'that is, unwashed.' We preserve Mark's gloss."
+        },
+        {
+          "greek": "τοῦτ’ ἔστιν ἀνίπτοις (HAPAX 2x ἀνίπτος)",
+          "thai": "คือมือที่ไม่ได้ล้าง",
+          "rationale": "ἄνιπτος occurs only here in Mark (and Matt 15:20 parallel — 2x in NT, near-hapax). ἀ-νίπτω = un-washed (negative alpha + νίπτω 'wash'). Per uW figs-explicit: the explanation 'that is, unwashed' is Mark's editorial gloss for non-Jewish readers. Thai 'คือมือที่ไม่ได้ล้าง' (which-means hand-that-not-yet-washed) preserves the explanatory function."
+        },
+        {
+          "greek": "ἐσθίουσιν τοὺς ἄρτους",
+          "thai": "รับประทานอาหาร",
+          "rationale": "Per uW figs-synecdoche: ἄρτος (literally 'loaves') = food in general (cf. Matt 6:11 'daily bread'). Thai 'รับประทานอาหาร' (consume-food) preserves the synecdoche by rendering with the general term, since Thai 'ขนมปัง' (bread, lit. 'sweet/baked-things') would not carry the same generalization in Thai food culture. Royal register not used because subject is the disciples, not Jesus."
+        }
+      ],
+      "notes": "MARK'S EDITORIAL GLOSS: the parenthetical 'that is, unwashed' shows Mark writing for a Gentile audience unfamiliar with Jewish κοινός terminology — a key hint to Mark's intended readership (likely Roman). The grammatical construction is incomplete in Greek (a hanging participle ἰδόντες without a finite verb — completed in v.5 with ἐπερωτῶσιν after the explanatory parenthesis vv.3–4). Per uW figs-infostructure: we follow ULT's reading where v.2's clause completes in v.5, with vv.3–4 as background interpolation."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 7:3",
+    "chapter": 7,
+    "verse": 3,
+    "greek": "οἱ γὰρ Φαρισαῖοι καὶ πάντες οἱ Ἰουδαῖοι ἐὰν μὴ πυγμῇ νίψωνται τὰς χεῖρας οὐκ ἐσθίουσιν,κρατοῦντες τὴν παράδοσιν τῶν πρεσβυτέρων,",
+    "bsb_english": "Now in holding to the tradition of the elders, the Pharisees and all the Jews do not eat until they wash their hands ceremonially.",
+    "translation": {
+      "thai": "ด้วยว่าพวกฟาริสีและชาวยิวทั้งปวงนั้น ถือธรรมเนียมของบรรพบุรุษอย่างเคร่งครัด พวกเขาจะไม่รับประทานอาหารจนกว่าจะได้ล้างมือตามพิธีกรรมเสียก่อน",
+      "key_decisions": [
+        {
+          "greek": "γὰρ",
+          "thai": "ด้วยว่า",
+          "rationale": "Per uW writing-background: γάρ here introduces explanatory background information for the Gentile reader. Thai 'ด้วยว่า' (because-saying) is the standard biblical-style explanatory connector."
+        },
+        {
+          "greek": "πάντες οἱ Ἰουδαῖοι",
+          "thai": "ชาวยิวทั้งปวง",
+          "rationale": "Per uW figs-hyperbole: 'all the Jews' is hyperbole for emphasis — most Pharisaically-influenced Jews followed this practice, not literally every Jew. Thai 'ชาวยิวทั้งปวง' preserves the hyperbole (a common biblical figure of speech recognized by Thai readers). Ἰουδαῖος = ชาวยิว (people-of-Judea), the standard Thai Christian rendering."
+        },
+        {
+          "greek": "πυγμῇ (HAPAX)",
+          "thai": "ตามพิธีกรรม",
+          "rationale": "HAPAX (only here in NT): πυγμή literally = 'fist' (dative 'with a fist'). Famously obscure: scholars are divided whether it indicates (a) using a cupped fist of water, (b) rubbing one fist with the other, or (c) up-to-the-wrist (as Vulgate's crebro = 'frequently' suggests an alternate reading). The TR/Byzantine reads πυκνά ('frequently') — a scribal smoothing of the puzzle. Per uW translate-unknown + RULES.md §5: render with a general term indicating ceremonial purpose. Thai 'ตามพิธีกรรม' (according-to-ritual) preserves the ceremonial sense without forcing a contested specific gesture. Literal alternative 'ด้วยกำมือ' would be too cryptic in Thai."
+        },
+        {
+          "greek": "παράδοσιν τῶν πρεσβυτέρων",
+          "thai": "ธรรมเนียมของบรรพบุรุษ",
+          "rationale": "παράδοσις = 'that which is handed-down/tradition' (here = the unwritten oral law). Thai 'ธรรมเนียม' (custom, traditional practice) is the standard rendering — connotes inherited social practice. πρεσβύτερος here ≠ church elders; per uW figs-explicit refers to revered ancestors whose teaching is passed down. Thai 'บรรพบุรุษ' (ancestors-forefathers) captures this ancestral-authority sense better than 'ผู้อาวุโส' (which suggests living elders). Same Greek phrase recurs in vv.5, 8, 9, 13 — must stay consistent."
+        },
+        {
+          "greek": "κρατοῦντες (pres. ptcp.)",
+          "thai": "ถือ ... อย่างเคร่งครัด",
+          "rationale": "κρατέω = grasp tightly, hold fast (cf. Mark 7:4, 8, where the same verb recurs). Thai 'ถือ ... อย่างเคร่งครัด' (hold ... strictly/devotedly) renders the present-participle's continuous, tenacious grip on the tradition. The verb is repeated four times in this pericope (vv.3, 4, 8 + κρατεῖν v.4) — a Markan keyword for the Pharisaic posture. We must keep the same Thai verb for the Greek root throughout."
+        }
+      ],
+      "notes": "BACKGROUND PARENTHESIS for the Gentile reader. The 'tradition of the elders' = the Pharisaic Oral Torah, which they held to be Mosaic in origin (later codified as the Mishnah). Hand-washing for ritual purity (נְטִילַת יָדַיִם netilat yadayim) was originally a priestly requirement (Exod 30:19; 40:30–32) which the Pharisees extended to all Jews — democratizing temple-purity into the home. Jesus' critique is not that purity matters less, but that human extensions of God's law have eclipsed God's law itself (vv.8–13)."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 7:4",
+    "chapter": 7,
+    "verse": 4,
+    "greek": "καὶ ἀπ’ἀγορᾶς ἐὰν μὴ βαπτίσωνται οὐκ ἐσθίουσιν,καὶ ἄλλα πολλά ἐστιν ἃ παρέλαβον κρατεῖν,βαπτισμοὺς ποτηρίων καὶ ξεστῶν καὶ χαλκίων καὶ κλινῶν",
+    "bsb_english": "And on returning from the market, they do not eat unless they wash. And there are many other traditions for them to observe, including the washing of cups, pitchers, kettles, and couches for dining.",
+    "translation": {
+      "thai": "และเมื่อกลับมาจากตลาด พวกเขาจะไม่รับประทานอะไรจนกว่าจะได้ชำระตัวเสียก่อน และยังมีธรรมเนียมอื่น ๆ อีกมากที่พวกเขารับมาถือปฏิบัติ คือการชำระถ้วย เหยือก ภาชนะทองแดง และที่นั่งเอนรับประทาน",
+      "key_decisions": [
+        {
+          "greek": "ἀπ’ ἀγορᾶς ἐὰν μὴ βαπτίσωνται",
+          "thai": "เมื่อกลับมาจากตลาด ... จะได้ชำระตัวเสียก่อน",
+          "rationale": "Per uW figs-explicit, two readings: (1) they baptize themselves on returning, or (2) they baptize what they brought back. We follow ULT's option (1) — the verb is reflexive middle (βαπτίσωνται), which most naturally means 'wash themselves.' βαπτίζω here = ceremonial immersion-washing (not the technical baptismal sense of Mark 1). Thai 'ชำระตัว' (cleanse-self) renders this everyday-purity sense rather than 'บัพติศมา' (which we reserve for the salvific/initiatory sense per glossary)."
+        },
+        {
+          "greek": "ποτηρίων καὶ ξεστῶν καὶ χαλκίων",
+          "thai": "ถ้วย เหยือก ภาชนะทองแดง",
+          "rationale": "Per uW figs-doublet: a triplet of containers used for food preparation/storage; together they refer to all such vessels. ξεστής (HAPAX, see below) and χαλκίον (HAPAX) are vessel types. Thai 'ถ้วย' (cup) for ποτήριον; 'เหยือก' (pitcher/jug) for ξεστής; 'ภาชนะทองแดง' (copper-vessel) for χαλκίον — preserves the listing of three distinct kitchen items so Thai readers grasp the breadth of the regulation."
+        },
+        {
+          "greek": "ξεστῶν (HAPAX)",
+          "thai": "เหยือก",
+          "rationale": "HAPAX: ξέστης is a Latin loanword (sextarius) = a Roman liquid measure of about 0.5 liter, by extension the jug/pitcher of that capacity. Per uW translate-unknown: render with a general jug-term. Thai 'เหยือก' (jug/pitcher) is the closest cultural equivalent. Notable as a Latin-derived term in Mark — one of several Markan Latinisms (cf. λεγιών 5:9, σπεκουλάτωρ 6:27, κῆνσος 12:14) supporting Roman provenance for Mark's audience."
+        },
+        {
+          "greek": "χαλκίων (HAPAX)",
+          "thai": "ภาชนะทองแดง",
+          "rationale": "HAPAX: χαλκίον = a vessel made of χαλκός (copper or copper-alloy: bronze, brass). Per uW translate-unknown: a household container of metal. Thai 'ภาชนะทองแดง' (copper-vessel) is literal and clear — Thai cookware tradition includes copper/bronze pots, so the term resonates."
+        },
+        {
+          "greek": "καὶ κλινῶν (TEXTUAL VARIANT)",
+          "thai": "และที่นั่งเอนรับประทาน",
+          "rationale": "TEXTUAL VARIANT: SBLGNT includes καὶ κλινῶν ('and dining-couches/beds'); some witnesses (א B L Δ) omit. The shorter reading is favored by some critics on the grounds that scribes added it to extend the list, but SBLGNT/NA28 retain it on the witness of A D W Θ etc. and the principle that omission could be assimilation to Matt 15. κλίνη = couch on which Greco-Roman diners reclined; we render 'ที่นั่งเอนรับประทาน' (recline-eating-place) since the technical reference is to the dining-couch (triclinium-style), not the bed. This makes the ritual-washing scope vivid: even the furniture had to be ceremonially purified. See notes."
+        }
+      ],
+      "notes": "TWO HAPAX in one verse: ξέστης (Latinism) and χαλκίον. TEXTUAL VARIANT 'καὶ κλινῶν': SBLGNT retains; NA28 brackets; the Byzantine majority and many late MSS include it. We follow SBLGNT. The variant doesn't change theological force — only the breadth of the inventory. The sequence of vessel-purity regulations corresponds to Mishnah tractate Kelim ('Vessels'), which devotes 30 chapters to such rules."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 7:5",
+    "chapter": 7,
+    "verse": 5,
+    "greek": "καὶ ἐπερωτῶσιν αὐτὸν οἱ Φαρισαῖοι καὶ οἱ γραμματεῖς·Διὰ τί οὐ περιπατοῦσιν οἱ μαθηταί σου κατὰ τὴν παράδοσιν τῶν πρεσβυτέρων,ἀλλὰ κοιναῖς χερσὶν ἐσθίουσιν τὸν ἄρτον;",
+    "bsb_english": "So the Pharisees and scribes questioned Jesus: \"Why do Your disciples not walk according to the tradition of the elders? Instead, they eat with defiled hands.\"",
+    "translation": {
+      "thai": "พวกฟาริสีและธรรมาจารย์จึงทูลถามพระองค์ว่า 'ทำไมสาวกของท่านไม่ดำเนินตามธรรมเนียมของบรรพบุรุษ แต่กลับรับประทานอาหารด้วยมือที่เป็นมลทิน?'",
+      "key_decisions": [
+        {
+          "greek": "ἐπερωτῶσιν (hist. pres.)",
+          "thai": "จึงทูลถาม",
+          "rationale": "ἐπερωτάω = question, interrogate. Historic present (per uW translate-tense) marks the climactic question-moment. Thai 'ทูลถาม' uses 'ทูล' — the formal-register verb for addressing a superior — which paradoxically maintains narrative respect for Jesus even though the questioners speak antagonistically. The narrator's voice honors Jesus throughout."
+        },
+        {
+          "greek": "οἱ μαθηταί σου ... σου (sg.)",
+          "thai": "สาวกของท่าน",
+          "rationale": "Per uW figs-yousingular: σου is singular — they address Jesus directly. They use 'ท่าน' (formal but peer-level) NOT 'พระองค์' (divine honorific) — they refuse to grant Jesus the divine honorific even while engaging him as a teacher. The narrator's frame, however, retains 'พระองค์' (preceding clause). Same dialogic register-tension as Mark 6:2–3 (townspeople use distancing 'คนนี้/เขา')."
+        },
+        {
+          "greek": "οὐ περιπατοῦσιν",
+          "thai": "ไม่ดำเนินตาม",
+          "rationale": "Per uW figs-metaphor: περιπατέω literally = walk; metaphorically = conduct one's life. Thai 'ดำเนิน' (proceed, walk) preserves the metaphor and is standard biblical idiom (cf. הָלַךְ halakh — the Hebrew root of halakhah, 'walking' = legal observance). We preserve the metaphor rather than flatten ('practice' or 'live by') because the Hebrew background makes the walking-image theologically loaded."
+        },
+        {
+          "greek": "Διὰ τί ... ; (rhetorical question form)",
+          "thai": "ทำไม ... ?",
+          "rationale": "Per uW figs-rquestion: the question form expresses rebuke, not genuine inquiry. Thai 'ทำไม...?' preserves the question form because Thai readers will recognize this as accusatory (same rhetorical register as Mark 2:7, 2:18). Translating it as a statement would lose the dramatic confrontation."
+        }
+      ],
+      "notes": "QUESTION RESUMES v.2: After the parenthesis of vv.3–4, the questioners now finally voice their accusation. Note the asymmetry: they ask about ritual handwashing (v.5) but Jesus answers about tradition vs. commandment (vv.6–13) — Jesus reframes the ground of the dispute. The Pharisees frame it as: 'why do you neglect tradition?' Jesus reframes: 'why do you nullify Scripture by tradition?' This is the rhetorical pivot of the chapter."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 7:6",
+    "chapter": 7,
+    "verse": 6,
+    "greek": "ὁ δὲ εἶπεν αὐτοῖς·Καλῶς ἐπροφήτευσεν Ἠσαΐας περὶ ὑμῶν τῶν ὑποκριτῶν,ὡς γέγραπται ὅτι Οὗτος ὁ λαὸς τοῖς χείλεσίν με τιμᾷ,ἡ δὲ καρδία αὐτῶν πόρρω ἀπέχει ἀπ’ἐμοῦ·",
+    "bsb_english": "Jesus answered them, \"Isaiah prophesied correctly about you hypocrites, as it is written: 'These people honor Me with their lips, but their hearts are far from Me.",
+    "translation": {
+      "thai": "พระองค์ตรัสตอบพวกเขาว่า 'อิสยาห์ได้พยากรณ์ถึงพวกท่านที่เป็นคนหน้าซื่อใจคดไว้อย่างถูกต้องแล้ว ตามที่มีเขียนไว้ว่า ชนชาตินี้นับถือเราแต่ปาก ส่วนใจของพวกเขาห่างไกลจากเรา",
+      "key_decisions": [
+        {
+          "greek": "εἶπεν αὐτοῖς",
+          "thai": "ตรัสตอบ",
+          "rationale": "Royal register: 'ตรัส' (royal-speak) for Jesus' speech per RULES.md §3. The aorist εἶπεν is rendered past tense; we add 'ตอบ' (answer/respond) to clarify this is a reply to v.5's question."
+        },
+        {
+          "greek": "Καλῶς ἐπροφήτευσεν Ἠσαΐας",
+          "thai": "อิสยาห์ได้พยากรณ์ ... ไว้อย่างถูกต้องแล้ว",
+          "rationale": "Per uW figs-explicit on καλῶς: 'well' here = 'accurately, truly.' Thai 'อย่างถูกต้อง' (accurately/correctly). Note the irony Jesus turns into v.9: he calls Isaiah's prophecy καλῶς (truly) and then says καλῶς (with sarcasm — 'how nicely!') of the Pharisees' setting-aside in v.9. The rhetorical mirroring is preserved: same Thai word would be ideal but contexts differ. Ἠσαΐας = อิสยาห์ standard transliteration."
+        },
+        {
+          "greek": "τῶν ὑποκριτῶν",
+          "thai": "คนหน้าซื่อใจคด",
+          "rationale": "ὑποκριτής originally = stage-actor (one who speaks 'from under a mask'); in Jewish-Christian usage = one whose external piety masks an inward absence of devotion. Thai 'คนหน้าซื่อใจคด' (face-honest-heart-crooked) is the standard Thai Christian rendering — captures the duplicity (face says one thing, heart says another) that the verse itself defines (lips honor, heart far). The Thai idiom mirrors the Greek-Hebrew distinction precisely."
+        },
+        {
+          "greek": "ὡς γέγραπται ὅτι (perfect passive)",
+          "thai": "ตามที่มีเขียนไว้ว่า",
+          "rationale": "Per uW writing-quotations: the standard NT formula for introducing an OT citation. Perfect tense γέγραπται = 'it stands written' (perfect-of-state). Thai 'ตามที่มีเขียนไว้ว่า' (according-to that-which-is-written-said) preserves the perfect-stative force. ὅτι here is recitative (introduces direct quotation), not 'because.'"
+        },
+        {
+          "greek": "Οὗτος ὁ λαὸς τοῖς χείλεσίν με τιμᾷ (Isa 29:13 LXX)",
+          "thai": "ชนชาตินี้นับถือเราแต่ปาก",
+          "rationale": "OT CITATION: Isa 29:13 LXX — Jesus quotes Greek Isaiah closely. Per uW figs-metonymy on χείλη: 'lips' = speech. Thai 'นับถือเราแต่ปาก' (revere-me-only-mouth) preserves the metonymy ('only with the mouth' = lip-service). τιμάω = honor/revere; Thai 'นับถือ' is the standard term for religious-honor (also used of revering elders/ancestors in Thai culture — apt resonance). Note: 'me ... me' refers to God speaking through Isaiah; Jesus applies God's first-person voice to himself indirectly by citation."
+        },
+        {
+          "greek": "ἡ δὲ καρδία αὐτῶν πόρρω ἀπέχει ἀπ’ ἐμοῦ",
+          "thai": "ส่วนใจของพวกเขาห่างไกลจากเรา",
+          "rationale": "Per uW figs-metonymy on καρδία: in biblical anthropology the heart is the seat of thought, will, and devotion (not merely feeling). Thai 'ใจ' is the established Markan rendering (cf. 2:6, 3:5, 6:52). Per uW figs-metaphor: 'heart far away' = lack of inward devotion. Thai 'ห่างไกล' (far-distant) preserves the spatial metaphor — appropriate because the Thai reader recognizes 'ใจห่างไกล' as a vivid metaphor for emotional/spiritual distance."
+        }
+      ],
+      "notes": "OT CITATION (Isa 29:13 LXX): the citation matches LXX closely. MT reads slightly differently ('their fear of me is a commandment of men learned by rote') — Jesus' quotation specifically tracks the LXX phrasing 'in vain do they worship me, teaching as doctrines the commandments of men' (v.7). This is one of the clearer cases in Mark where the citation depends specifically on the LXX rather than MT — Mark's audience reads Greek scripture. The full citation runs vv.6b–7."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 7:7",
+    "chapter": 7,
+    "verse": 7,
+    "greek": "μάτην δὲ σέβονταί με,διδάσκοντες διδασκαλίας ἐντάλματα ἀνθρώπων·",
+    "bsb_english": "They worship Me in vain; they teach as doctrine the precepts of men.'",
+    "translation": {
+      "thai": "พวกเขานมัสการเราอย่างเปล่าประโยชน์ ด้วยการสอนคำสั่งของมนุษย์เป็นหลักธรรม'",
+      "key_decisions": [
+        {
+          "greek": "μάτην ... σέβονταί με",
+          "thai": "นมัสการเราอย่างเปล่าประโยชน์",
+          "rationale": "μάτην = in vain, futilely (cf. Eng. 'mathematically empty'); σέβομαι = worship reverently, venerate. Thai 'นมัสการ' (worship-with-bowing) is the standard religious-worship verb in Thai Bible; 'อย่างเปล่าประโยชน์' (in-empty-benefit/futile) renders 'in vain.' Note: σέβομαι is used of god-fearing Gentiles in Acts (e.g., Acts 13:50 'σεβομέναις γυναῖκας') — not generic 'worship' (προσκυνέω) — but here Jesus uses it of nominal worship that lacks substance."
+        },
+        {
+          "greek": "διδάσκοντες διδασκαλίας ἐντάλματα ἀνθρώπων",
+          "thai": "ด้วยการสอนคำสั่งของมนุษย์เป็นหลักธรรม",
+          "rationale": "Per uW grammar-connect-logic-result: the participle introduces the reason for the futility. Per uW figs-possession: ἐντάλματα ἀνθρώπων = commandments-of-men (genitive of source). Thai 'คำสั่งของมนุษย์' (commands-of-humans) and 'หลักธรรม' (doctrinal-principles) for διδασκαλίας. ἔνταλμα is rare (3x NT — here, parallel Matt 15:9, Col 2:22 — all with this LXX-derived sense of human-imposed religious rule). The construction 'teaching as doctrines the commandments of men' is awkward in Greek too (apposition of two accusatives); Thai 'สอนคำสั่งของมนุษย์เป็นหลักธรรม' (teaching commands-of-humans AS doctrinal-principles) renders the predicate-accusative structure naturally."
+        }
+      ],
+      "notes": "OT CITATION continued (Isa 29:13 LXX). The LXX of Isa 29:13 reads μάτην δὲ σέβονταί με, διδάσκοντες ἐντάλματα ἀνθρώπων καὶ διδασκαλίας — Mark's order differs slightly (διδασκαλίας ἐντάλματα ἀνθρώπων), suggesting either a textual variant of the LXX known to Mark or Mark's free citation. The point is the same: human teaching has displaced divine command. The MT of Isa 29:13 lacks 'in vain' — a feature Jesus' quotation depends on, again confirming LXX-base."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 7:8",
+    "chapter": 7,
+    "verse": 8,
+    "greek": "ἀφέντες τὴν ἐντολὴν τοῦ θεοῦ κρατεῖτε τὴν παράδοσιν τῶν ἀνθρώπων.",
+    "bsb_english": "You have disregarded the commandment of God to keep the tradition of men.\"",
+    "translation": {
+      "thai": "พวกท่านละทิ้งพระบัญญัติของพระเจ้า แล้วถือธรรมเนียมของมนุษย์ไว้แทน'",
+      "key_decisions": [
+        {
+          "greek": "ἀφέντες (aor. ptcp.)",
+          "thai": "ละทิ้ง",
+          "rationale": "Per uW figs-metaphor: ἀφίημι here = abandon, leave behind (literal sense: 'send away/let go'). Same verb that means 'forgive' (let-go-of sin) and 'leave' (let-go-of place). Thai 'ละทิ้ง' (abandon-discard) captures the abandonment of God's command. The aorist participle is causal-circumstantial."
+        },
+        {
+          "greek": "τὴν ἐντολὴν τοῦ θεοῦ ... τὴν παράδοσιν τῶν ἀνθρώπων",
+          "thai": "พระบัญญัติของพระเจ้า ... ธรรมเนียมของมนุษย์",
+          "rationale": "RHETORICAL CONTRAST: ἐντολὴ τοῦ θεοῦ vs. παράδοσις τῶν ἀνθρώπων — this is the polemical heart of vv.8–13. Thai mirrors the contrast: 'พระบัญญัติของพระเจ้า' (royal-command-of-God, with พระ honorifics) vs. 'ธรรมเนียมของมนุษย์' (custom-of-humans). The high-register honorifics on God's word vs. plain register on human tradition makes the verbal contrast carry theological weight in Thai. ἐντολή = บัญญัติ established Mark Christian terminology."
+        },
+        {
+          "greek": "κρατεῖτε",
+          "thai": "ถือ ... ไว้แทน",
+          "rationale": "Same κρατέω verb chain from v.3 (ridicule by repetition) — the Pharisees 'hold' (κρατοῦντες v.3) the tradition while 'leaving' (ἀφέντες) the commandment. Thai 'ถือ ... ไว้' preserves the verb-keyword consistency. The added 'แทน' (instead) makes explicit the substitutionary force that the participle structure carries."
+        }
+      ],
+      "notes": "TEXTUAL VARIANT: Some Byzantine MSS add a long supplementary clause after ἀνθρώπων: 'βαπτισμοὺς ξεστῶν καὶ ποτηρίων, καὶ ἄλλα παρόμοια τοιαῦτα πολλὰ ποιεῖτε' ('washings of pitchers and cups, and many other similar such things you do'). This is a clear scribal expansion borrowed from v.4. SBLGNT/NA28 omit; we follow. The verse expresses Jesus' core indictment: tradition has not supplemented but replaced commandment. The pithy form (a single antithetical sentence) gives it proverbial weight."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 7:9",
+    "chapter": 7,
+    "verse": 9,
+    "greek": "Καὶ ἔλεγεν αὐτοῖς·Καλῶς ἀθετεῖτε τὴν ἐντολὴν τοῦ θεοῦ,ἵνα τὴν παράδοσιν ὑμῶν τηρήσητε·",
+    "bsb_english": "He went on to say, \"You neatly set aside the command of God to maintain your own tradition.",
+    "translation": {
+      "thai": "พระองค์ตรัสกับพวกเขาอีกว่า 'พวกท่านช่างฉลาดนักที่ละเลยพระบัญญัติของพระเจ้า เพื่อจะได้รักษาธรรมเนียมของตนเองไว้",
+      "key_decisions": [
+        {
+          "greek": "Καὶ ἔλεγεν (impf.)",
+          "thai": "ตรัส ... อีก",
+          "rationale": "Imperfect ἔλεγεν = 'he was saying / continued saying' — marks ongoing discourse. Thai 'ตรัส ... อีก' (royal-speak ... again/further) preserves the continuative aspect; signals Jesus is continuing his rebuke from v.8 with a fresh angle (the Corban example follows in vv.10–13)."
+        },
+        {
+          "greek": "Καλῶς ἀθετεῖτε (IRONY)",
+          "thai": "ช่างฉลาดนักที่ละเลย",
+          "rationale": "Per uW figs-irony: καλῶς here is sarcastic — Jesus said in v.6 that Isaiah 'καλῶς prophesied' (truly), but here 'καλῶς ἀθετεῖτε' is biting irony ('how WELL you nullify!' = how skillfully you violate). Thai 'ช่างฉลาดนักที่ละเลย' (how-clever-truly that-disregard) preserves the sarcastic-tone with 'ช่าง...นัก' which in Thai is precisely the construction for ironic admiration ('how very ___!'). This is one of the rare places a translator must add tonal markers to make biting irony land in Thai — flat 'อย่างถูกต้อง' would invert the meaning."
+        },
+        {
+          "greek": "ἀθετεῖτε",
+          "thai": "ละเลย",
+          "rationale": "ἀθετέω = set aside, reject, nullify (verb-form of ἄθετος 'unset, void'). Thai 'ละเลย' (neglect-leave) captures both the rejection-sense and the technical legal sense of 'making void.' Distinct from ἀκυρόω (v.13, 'invalidate') and ἀφίημι (v.8, 'abandon') — Jesus uses three different verbs to describe the same offense, building rhetorical force."
+        },
+        {
+          "greek": "ἵνα ... τηρήσητε (TEXTUAL VARIANT)",
+          "thai": "เพื่อจะได้รักษา",
+          "rationale": "TEXTUAL VARIANT: SBLGNT τηρήσητε ('keep, observe') with א B etc.; some MSS read στήσητε ('establish, set up') — likely an ancient assimilation from a parallel verse. We follow SBLGNT's τηρήσητε. Thai 'รักษา' (preserve, keep) is the standard biblical rendering for τηρέω (cf. John 14:15 'keep my commandments')."
+        }
+      ],
+      "notes": "TEXTUAL VARIANT v.9: τηρήσητε vs. στήσητε — SBLGNT reads τηρήσητε (early uncials), our choice. IRONY: καλῶς in v.9 reverses its valence from v.6 (truly/well → how cleverly!). This is rhetorical mockery: Jesus uses the questioners' own piety-vocabulary against them. The same verbal play happens in Mark 12:28–34 with the scribe Jesus calls νουνεχῶς ('discerningly') — there sincere praise, here irony."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 7:10",
+    "chapter": 7,
+    "verse": 10,
+    "greek": "Μωϋσῆς γὰρ εἶπεν·Τίμα τὸν πατέρα σου καὶ τὴν μητέρα σου,καί·Ὁ κακολογῶν πατέρα ἢ μητέρα θανάτῳ τελευτάτω·",
+    "bsb_english": "For Moses said, 'Honor your father and your mother' and 'Anyone who curses his father or mother must be put to death.'",
+    "translation": {
+      "thai": "ด้วยว่าโมเสสได้กล่าวไว้ว่า จงให้เกียรติบิดามารดาของเจ้า และว่า ผู้ใดด่าแช่งบิดาหรือมารดา ผู้นั้นต้องมีโทษถึงตาย",
+      "key_decisions": [
+        {
+          "greek": "Μωϋσῆς γὰρ εἶπεν",
+          "thai": "ด้วยว่าโมเสสได้กล่าวไว้ว่า",
+          "rationale": "Established Μωϋσῆς = โมเสส (Mark 1:44). Per uW writing-quotations: Jesus introduces a Mosaic citation; γάρ here = 'for / because' explaining how the Pharisees nullify Scripture (v.9). Thai 'ด้วยว่า' explanatory; 'กล่าวไว้ว่า' (said-said-that) introduces direct quotation."
+        },
+        {
+          "greek": "Τίμα τὸν πατέρα σου καὶ τὴν μητέρα σου (Exod 20:12 / Deut 5:16 LXX)",
+          "thai": "จงให้เกียรติบิดามารดาของเจ้า",
+          "rationale": "OT CITATION: Decalogue 5th commandment (Exod 20:12, restated Deut 5:16). LXX reads identically. Per uW figs-yousingular: God addresses each individual; σου, τίμα are singular. Thai 'จงให้เกียรติ' (honor/give-honor; jussive 'จง' marks command); 'บิดามารดา' (father-mother — formal compound, more reverent than 'พ่อแม่' which is colloquial). 'เจ้า' = singular intimate 'you' fitting divine address to a covenant individual. τιμάω = ให้เกียรติ standard NT rendering."
+        },
+        {
+          "greek": "Ὁ κακολογῶν ... θανάτῳ τελευτάτω (Exod 21:17 / Lev 20:9 LXX)",
+          "thai": "ผู้ใดด่าแช่งบิดาหรือมารดา ผู้นั้นต้องมีโทษถึงตาย",
+          "rationale": "OT CITATION: Exod 21:17 / Lev 20:9 — the death penalty for parental cursing. κακολογέω = speak-evil-of, curse (LXX renders Heb. קָלַל qalal, 'curse, treat as light'). Per uW figs-imperative3p: 3rd-person imperative is rare in English; Thai handles it naturally with 'ผู้ใด ... ผู้นั้นต้อง...' (whoever ... that one must...). 'ด่าแช่ง' (revile-curse) doublet captures the verbal-cursing force. Per uW figs-idiom on θανάτῳ τελευτάτω: 'let him end in death' = be executed. Thai 'มีโทษถึงตาย' (have-penalty-reaching-death) is the standard biblical-legal idiom for capital punishment."
+        }
+      ],
+      "notes": "TWO OT CITATIONS in one verse: (1) Exod 20:12 / Deut 5:16 (5th commandment to honor parents); (2) Exod 21:17 / Lev 20:9 (death penalty for parental cursing). Jesus pairs them deliberately: the positive command and the negative sanction together establish the unchallengeable weight of parental honor in Mosaic law. Both citations align with LXX. Jesus' argument in vv.11–12: by allowing the Corban-loophole, the Pharisees enable people to violate BOTH commands — to dishonor parents materially while not technically cursing them. The Mosaic code in its full strictness is being undermined by tradition."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 7:11",
+    "chapter": 7,
+    "verse": 11,
+    "greek": "ὑμεῖς δὲ λέγετε·Ἐὰν εἴπῃ ἄνθρωπος τῷ πατρὶ ἢ τῇ μητρί·Κορβᾶν,ὅ ἐστιν Δῶρον,ὃ ἐὰν ἐξ ἐμοῦ ὠφεληθῇς,",
+    "bsb_english": "But you say that if a man says to his father or mother, 'Whatever you would have received from me is Corban' (that is, a gift devoted to God),",
+    "translation": {
+      "thai": "แต่พวกท่านกลับสอนว่า ถ้าผู้ใดกล่าวกับบิดาหรือมารดาว่า สิ่งใดที่ท่านควรจะได้รับประโยชน์จากข้าพเจ้านั้น เป็น คอร์บัน คือเป็นของถวายแด่พระเจ้าแล้ว",
+      "key_decisions": [
+        {
+          "greek": "ὑμεῖς δὲ λέγετε",
+          "thai": "แต่พวกท่านกลับสอนว่า",
+          "rationale": "Per uW grammar-connect-logic-contrast: emphatic contrast between God's command (v.10) and Pharisaic teaching. Thai 'แต่ ... กลับ ...' (but ... on-the-contrary ...) is the standard contrastive construction. 'สอน' (teach) for λέγω here rather than 'พูด' (say) — the Pharisees aren't merely speaking opinions, they're propounding halakhic teaching with binding force."
+        },
+        {
+          "greek": "Κορβᾶν, ὅ ἐστιν Δῶρον (HAPAX — Aramaic/Hebrew)",
+          "thai": "คอร์บัน คือเป็นของถวายแด่พระเจ้าแล้ว",
+          "rationale": "HAPAX (only here in NT): Κορβᾶν transliterates Hebrew קָרְבָּן qorban / Aramaic קֻרְבָּנָא qurbana = 'offering, gift dedicated to God' (cf. LXX Lev 1:2 etc.). Per uW translate-transliterate: Mark transliterates and immediately glosses. Following the pattern set in Mark 5:41 (ทาลิธา คูม) and Mark 3:17 (โบอาเนอร์เกส), we transliterate the Aramaic into Thai script — 'คอร์บัน' — preserving the foreign-word effect. The gloss 'เป็นของถวายแด่พระเจ้า' (a-gift-offered-to-God) makes Mark's parenthetical explicit (Δῶρον alone = 'gift,' but the religious context = a gift dedicated to God). Per uW figs-explicit: we add 'แด่พระเจ้า' to clarify the religious dedication that Mark's Greek-Jewish audience would recognize but Thai readers might not."
+        },
+        {
+          "greek": "ὃ ἐὰν ἐξ ἐμοῦ ὠφεληθῇς (subj.)",
+          "thai": "สิ่งใดที่ท่านควรจะได้รับประโยชน์จากข้าพเจ้านั้น",
+          "rationale": "Per uW figs-explicit: ὠφελέω + ἐκ = benefit-from. The subjunctive marks hypothetical-conditional. Thai 'สิ่งใดที่ท่านควรจะได้รับประโยชน์จากข้าพเจ้า' (whatever-thing that-you-ought-to-receive-benefit from-me) preserves the conditional sense. Note 'ข้าพเจ้า' (humble first-person) and 'ท่าน' (formal you) — Jesus is quoting the speech of a son/daughter to a parent; Thai uses 'ข้าพเจ้า' (formal humble I) toward parents, NOT the divine-honorific 'ข้าพระองค์' (which is reserved for addressing deity per RULES.md §3)."
+        }
+      ],
+      "notes": "HAPAX Κορβᾶν: Aramaic/Hebrew transliteration; Mark's gloss δῶρον is for Gentile readers. The Corban vow (Hebrew נֶדֶר neder) declared property as gift to the temple — once declared, it could not be used for any other purpose, even to support parents in need. Jesus exposes this as a casuistic loophole exploited to evade the 5th commandment. Josephus (Antiq. 4.4.4) and the Mishnah (Nedarim) both attest the practice and the rabbinic debates around it — including later rabbinic moves to RESTRICT Corban-vows precisely because they conflicted with parental obligation. Jesus' critique anticipated the rabbinic reform direction. The grammatical construction has Jesus' indirect speech containing the Pharisaic teaching containing the hypothetical son's vow — a triple-nested quotation."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 7:12",
+    "chapter": 7,
+    "verse": 12,
+    "greek": "οὐκέτι ἀφίετε αὐτὸν οὐδὲν ποιῆσαι τῷ πατρὶ ἢ τῇ μητρί,",
+    "bsb_english": "he is no longer permitted to do anything for his father or mother.",
+    "translation": {
+      "thai": "พวกท่านก็ไม่ยอมให้เขาทำสิ่งใดเพื่อบิดาหรือมารดาของเขาอีกต่อไป",
+      "key_decisions": [
+        {
+          "greek": "οὐκέτι ἀφίετε αὐτὸν οὐδὲν ποιῆσαι",
+          "thai": "ก็ไม่ยอมให้เขาทำสิ่งใด ... อีกต่อไป",
+          "rationale": "Per uW figs-doublenegatives: οὐκέτι ('no longer') + οὐδὲν ('nothing') is intensive-negative, not cancelling — Greek allows piling negatives for emphasis. Thai handles this naturally: 'ก็ไม่ยอมให้เขาทำสิ่งใด ... อีกต่อไป' (then-not-permit him do anything ... any-longer) — the Thai construction also stacks negatives for emphasis ('ไม่ ... สิ่งใด ... อีก' = not ... anything ... again), so the Greek emphatic-double-negative is preserved naturally. ἀφίημι again (cf. v.8) — same verb that means both 'allow' and 'forgive' — here in the 'allow/permit' sense."
+        }
+      ],
+      "notes": "GRAMMATICAL CONTINUATION of v.11: the apodosis of the 'if a man says ... then you no longer allow ...' conditional. The hypothetical son's Corban-vow becomes binding even against the parental-support obligation, in the Pharisaic system. Jesus' indictment: human tradition has been weaponized against divine command. The verb ἀφίετε (present indic.) shows this is ongoing Pharisaic practice, not a one-off case."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 7:13",
+    "chapter": 7,
+    "verse": 13,
+    "greek": "ἀκυροῦντες τὸν λόγον τοῦ θεοῦ τῇ παραδόσει ὑμῶν ᾗ παρεδώκατε·καὶ παρόμοια τοιαῦτα πολλὰ ποιεῖτε.",
+    "bsb_english": "Thus you nullify the word of God by the tradition you have handed down. And you do so in many such matters.\"",
+    "translation": {
+      "thai": "เช่นนี้พวกท่านได้ทำให้พระวจนะของพระเจ้าเป็นโมฆะ ด้วยธรรมเนียมที่พวกท่านได้รับช่วงต่อกันมา และพวกท่านยังกระทำเช่นนี้ในเรื่องอื่น ๆ อีกมาก'",
+      "key_decisions": [
+        {
+          "greek": "ἀκυροῦντες (pres. ptcp.)",
+          "thai": "ได้ทำให้ ... เป็นโมฆะ",
+          "rationale": "ἀκυρόω = invalidate, render void (κῦρος = authority, validity; ἀ-κυρόω = un-authorize). Legal terminology — the Pharisees are 'voiding' the binding force of God's word. Thai 'ทำให้ ... เป็นโมฆะ' (make ... become null-and-void) is precisely the Thai legal idiom for nullifying a contract or law. Distinct from ἀθετέω (v.9) and ἀφίημι (v.8) — Jesus' three verbs describe the same offense from different angles: abandoning, setting aside, nullifying."
+        },
+        {
+          "greek": "τὸν λόγον τοῦ θεοῦ",
+          "thai": "พระวจนะของพระเจ้า",
+          "rationale": "Per uW figs-metonymy: λόγος = the spoken/written word of God = scripture. Thai 'พระวจนะ' (royal-saying — the standard high-register term for 'Word of God') vs. 'พระบัญญัติ' (commandment, used in vv.8–9). Jesus alternates: in vv.8–10 he says 'commandment of God' (specific command); in v.13 he broadens to 'word of God' (the whole revelation). The escalation matters. λόγος consistent with Mark 4:14–20 sower-parable usage = พระวจนะ."
+        },
+        {
+          "greek": "ᾗ παρεδώκατε",
+          "thai": "ที่พวกท่านได้รับช่วงต่อกันมา",
+          "rationale": "παραδίδωμι = hand-down, transmit (the verbal counterpart to the noun παράδοσις 'tradition' — here Jesus puns on the etymology). Thai 'รับช่วงต่อกันมา' (receive-pass-along-each-other-come) preserves the relay-of-transmission sense. Per uW figs-metaphor on παρεδώκατε: tradition treated as a physical object handed from one generation to the next — natural in Thai too."
+        },
+        {
+          "greek": "παρόμοια τοιαῦτα πολλὰ (HAPAX παρόμοιος)",
+          "thai": "ในเรื่องอื่น ๆ อีกมาก",
+          "rationale": "HAPAX (only here in NT, technically — παρόμοιος): παρά + ὅμοιος = 'similar to, like.' Combined with τοιαῦτα ('such') and πολλά ('many') = 'many similar such things.' The triple intensifier signals: the Corban example is one of many. Thai 'ในเรื่องอื่น ๆ อีกมาก' (in matters other-other again-many) preserves the generality without forcing a wooden 'similar things' calque, which would be redundant in Thai."
+        }
+      ],
+      "notes": "HAPAX παρόμοιος. Verbal cap of the Pharisees-and-tradition pericope (vv.1–13). The Corban example is presented as ONE INSTANCE of a wider pattern — the indictment generalizes to all Pharisaic legalism that nullifies Scripture. Jesus' three verbs for the offense (ἀφέντες v.8, ἀθετεῖτε v.9, ἀκυροῦντες v.13) build rhetorical climax. The pun παράδοσις-παρεδώκατε (tradition / you-handed-down) is etymologically pointed — the tradition itself shows that humans, not God, are the source of authority. After this verse Jesus turns from polemic against the Pharisees to instruction of the crowd (v.14), then the disciples in private (v.17–23)."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 7:14",
+    "chapter": 7,
+    "verse": 14,
+    "greek": "Καὶ προσκαλεσάμενος πάλιν τὸν ὄχλον ἔλεγεν αὐτοῖς·Ἀκούσατέ μου πάντες καὶ σύνετε.",
+    "bsb_english": "Once again Jesus called the crowd to Him and said, \"All of you, listen to Me and understand:",
+    "translation": {
+      "thai": "พระองค์ทรงเรียกฝูงชนเข้ามาหาพระองค์อีกครั้ง และตรัสกับพวกเขาว่า 'ทุกคนจงฟังเรา และจงเข้าใจ",
+      "key_decisions": [
+        {
+          "greek": "προσκαλεσάμενος πάλιν τὸν ὄχλον",
+          "thai": "ทรงเรียกฝูงชนเข้ามาหาพระองค์อีกครั้ง",
+          "rationale": "Royal 'ทรงเรียก' (royal-call) for Jesus. προσκαλέομαι = call-to-oneself (middle voice — Jesus calls them to himself, intentional gathering). 'ฝูงชน' (crowd-multitude) for ὄχλος, established Markan term. 'อีกครั้ง' (one-more-time) for πάλιν: signals a return to crowd-teaching after the private confrontation with the Pharisees. Mark structures: dispute (vv.1–13) → public teaching (vv.14–15) → private explanation (vv.17–23)."
+        },
+        {
+          "greek": "Ἀκούσατέ μου πάντες καὶ σύνετε (aor. impv.)",
+          "thai": "ทุกคนจงฟังเรา และจงเข้าใจ",
+          "rationale": "Aorist imperative pair = decisive, urgent commands. Thai 'จงฟัง ... จงเข้าใจ' (must-listen ... must-understand) renders the imperatives directly. Note the Markan-keyword pair ἀκούω + συνίημι ('hear and understand') — this echoes the parable of the Sower (Mark 4:9, 12 'they hear but do not understand'). Jesus is signaling: what follows is parabolic, requires spiritual discernment. The lay crowd is now being challenged to understand what the religious experts have failed to grasp."
+        }
+      ],
+      "notes": "MARKAN ECHO of Mark 4 (sower parable): 'hear ... understand' — Jesus' standard parable-introduction formula. By signaling 'parable,' Jesus prepares the disciples (vv.17–23) and reader for the deeper meaning. Crowd shift: Jesus turns from the religious-elite questioners to the lay crowd. The democratic move (publishing what the experts contest) is itself part of the polemic — the 'tradition of the elders' is exposed and overruled in the hearing of the people whose practice it claims to govern."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 7:15",
+    "chapter": 7,
+    "verse": 15,
+    "greek": "οὐδέν ἐστιν ἔξωθεν τοῦ ἀνθρώπου εἰσπορευόμενον εἰς αὐτὸν ὃ δύναται κοινῶσαι αὐτόν·ἀλλὰ τὰ ἐκ τοῦ ἀνθρώπου ἐκπορευόμενά ἐστιν τὰ κοινοῦντα τὸν ἄνθρωπον.",
+    "bsb_english": "Nothing that enters a man from the outside can defile him; but the things that come out of a man, these are what defile him.\"",
+    "translation": {
+      "thai": "ไม่มีสิ่งใดที่อยู่ภายนอกมนุษย์ซึ่งเข้าไปในตัวเขา แล้วจะทำให้เขาเป็นมลทินได้ แต่สิ่งที่ออกมาจากตัวมนุษย์ต่างหาก ที่ทำให้มนุษย์เป็นมลทิน'",
+      "key_decisions": [
+        {
+          "greek": "οὐδέν ... ἔξωθεν ... εἰσπορευόμενον / τὰ ἐκ ... ἐκπορευόμενά",
+          "thai": "ภายนอก ... เข้าไปในตัวเขา / ออกมาจากตัวมนุษย์",
+          "rationale": "Per uW intro instruction: PRESERVE THE MOVEMENT-AND-LOCATION LANGUAGE rather than collapse to 'food vs. words.' The chiastic spatial-imagery (outside-going-in vs. inside-going-out) is the carrier of Jesus' theological point that defilement is moral-spiritual, not physical. Thai 'ภายนอก ... เข้าไปในตัวเขา ... ออกมาจากตัวมนุษย์' (outside ... going-into him ... going-out from man) preserves the spatial chiasm precisely. Verbs εἰσ-πορεύομαι / ἐκ-πορεύομαι are transparent prefix-pairs, mirrored in Thai with เข้าไป/ออกมา."
+        },
+        {
+          "greek": "κοινῶσαι ... κοινοῦντα",
+          "thai": "ทำให้เขาเป็นมลทิน",
+          "rationale": "Verbal form of κοινός (cf. v.2, 5) = render-defiled, make-unclean. Same root chain throughout the chapter: κοινός (v.2, 5) → κοινῶσαι (v.15) → κοινοῖ (v.20, 23). Thai 'ทำให้เป็นมลทิน' (make-be-defiled) keeps the lexical link with vv.2/5 — using มลทิน (defilement) consistently throughout."
+        },
+        {
+          "greek": "ἀλλὰ ... τὰ κοινοῦντα τὸν ἄνθρωπον",
+          "thai": "แต่ ... ต่างหาก ที่ทำให้มนุษย์เป็นมลทิน",
+          "rationale": "Adversative ἀλλά + the contrastive force of the antithesis. Thai 'แต่ ... ต่างหาก' (but ... on-the-contrary/instead) sharpens the contrast — 'ต่างหาก' is the natural Thai marker for 'rather, instead.' The articular substantival participle τὰ κοινοῦντα ('the things that defile') is rendered as a relative clause 'ที่ทำให้ ... เป็นมลทิน.'"
+        }
+      ],
+      "notes": "PERICOPE PIVOT (15a vs. 15b): the antithesis is structured as a chiastic spatial image — outside-in (no defilement) vs. inside-out (defilement). Theologically revolutionary: defilement is reframed as moral-volitional, not material-ceremonial. As the parenthetical in v.19 makes clear, Mark's editorial conclusion is that Jesus has thereby 'declared all foods clean' — opening the door to the table-fellowship developments of Acts 10–11 and Galatians 2 (Peter, Cornelius, Paul-Antioch). Note: SBLGNT skips v.16. See v.17 note for the textual issue."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 7:17",
+    "chapter": 7,
+    "verse": 17,
+    "greek": "Καὶ ὅτε εἰσῆλθεν εἰς οἶκον ἀπὸ τοῦ ὄχλου,ἐπηρώτων αὐτὸν οἱ μαθηταὶ αὐτοῦ τὴν παραβολήν.",
+    "bsb_english": "After Jesus had left the crowd and gone into the house, His disciples inquired about the parable.",
+    "translation": {
+      "thai": "เมื่อพระองค์เสด็จเข้าไปในบ้าน ออกห่างจากฝูงชนแล้ว พวกสาวกของพระองค์ก็ทูลถามถึงอุปมานั้น",
+      "key_decisions": [
+        {
+          "greek": "εἰσῆλθεν εἰς οἶκον",
+          "thai": "เสด็จเข้าไปในบ้าน",
+          "rationale": "Royal 'เสด็จ' (royal-go) for Jesus' movement. Per uW figs-synecdoche: 'Jesus' represents Jesus + disciples; we render with Jesus alone since Thai context (the disciples then ask the question) makes the company clear. 'บ้าน' = standard 'house' (singular, indefinite — the specific house isn't named, perhaps Peter's at Capernaum as in Mark 1:29; cf. Mark 9:33 same pattern)."
+        },
+        {
+          "greek": "ἐπηρώτων (impf.) ... τὴν παραβολήν",
+          "thai": "ทูลถามถึงอุปมานั้น",
+          "rationale": "Imperfect ἐπηρώτων = 'kept asking' / 'were inquiring' — the disciples pressed Jesus repeatedly. Thai 'ทูลถาม' uses humble-honorific 'ทูล' (the disciples address Jesus reverently — opposite of v.5's tense exchange with the Pharisees). 'อุปมา' established for παραβολή (Mark 3:23, 4:2, etc.). Per uW figs-explicitinfo: 'the parable' = the saying about what goes in vs. what comes out (v.15). Thai 'อุปมานั้น' (that-parable) clearly refers to the immediately preceding statement."
+        }
+      ],
+      "notes": "TEXTUAL ISSUE for v.16: SBLGNT/NA28 omit Mark 7:16 entirely. Some MSS (A D Θ etc., later texts) include 'Εἴ τις ἔχει ὦτα ἀκούειν, ἀκουέτω' ('If anyone has ears to hear, let him hear') — almost certainly assimilation from Mark 4:9, 4:23. Earliest witnesses (א B L Δ) lack it. We follow SBLGNT and skip v.16, jumping verse-numbering 15 → 17 (preserving traditional verse-numbering even though no text occupies v.16). PRIVATE EXPLANATION pattern: as in Mark 4:10–20 (sower parable), Jesus teaches the crowd in parables and then explains in private to the disciples. The motif underlines that genuine understanding of the kingdom is given to the inner circle."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 7:18",
+    "chapter": 7,
+    "verse": 18,
+    "greek": "καὶ λέγει αὐτοῖς·Οὕτως καὶ ὑμεῖς ἀσύνετοί ἐστε;οὐ νοεῖτε ὅτι πᾶν τὸ ἔξωθεν εἰσπορευόμενον εἰς τὸν ἄνθρωπον οὐ δύναται αὐτὸν κοινῶσαι,",
+    "bsb_english": "\"Are you still so dull?\" He asked. \"Do you not understand? Nothing that enters a man from the outside can defile him,",
+    "translation": {
+      "thai": "พระองค์ตรัสกับพวกเขาว่า 'พวกเจ้าก็ขาดความเข้าใจเช่นนั้นด้วยหรือ? พวกเจ้าไม่เข้าใจหรือว่า สิ่งใดที่อยู่ภายนอกแล้วเข้าไปในตัวมนุษย์ ก็ไม่อาจทำให้เขาเป็นมลทินได้",
+      "key_decisions": [
+        {
+          "greek": "λέγει (hist. pres.)",
+          "thai": "ตรัส",
+          "rationale": "Historic present, royal speech-verb. The hist. pres. heightens the moment — Jesus' rebuke lands with vivid immediacy. Per RULES.md §3."
+        },
+        {
+          "greek": "Οὕτως καὶ ὑμεῖς ἀσύνετοί ἐστε; (rhetorical)",
+          "thai": "พวกเจ้าก็ขาดความเข้าใจเช่นนั้นด้วยหรือ?",
+          "rationale": "Per uW figs-rquestion: the question form expresses surprise + rebuke. Thai 'พวกเจ้า ... เช่นนั้นด้วยหรือ?' (you-pl ... like-that even-question) preserves rebuke-tone. Note: Jesus addresses the disciples as 'พวกเจ้า' (intimate-plural-you) — appropriate for the master-disciple relationship in private setting; not 'พวกท่าน' (formal-distancing) which would be wrong for inner circle. ἀσύνετοι = 'without understanding' — same word-family as συνίημι in v.14. Thai 'ขาดความเข้าใจ' (lacking-understanding) preserves the lexical link."
+        },
+        {
+          "greek": "οὐ νοεῖτε ὅτι ...",
+          "thai": "พวกเจ้าไม่เข้าใจหรือว่า ...",
+          "rationale": "Per uW figs-rquestion: another rhetorical question; Thai second 'หรือ?' interrogative preserves the dual-question structure that intensifies the rebuke. νοέω = perceive intellectually, comprehend — close synonym of συνίημι, but emphasizes the mental act."
+        }
+      ],
+      "notes": "DISCIPLES' DULLNESS: ἀσύνετοι recurs Mark 6:52 ('they did not understand about the loaves; their hearts were hardened') and forms a Markan motif of disciple-density (cf. 8:17–21). Jesus' rebuke is sharp but private — the chapter's contrast: outsiders (Pharisees) are condemned for hypocrisy; insiders (disciples) are rebuked for denseness. Both fail to perceive, but in different ways. The disciples' opacity sets up the Caesarea Philippi confession (Mark 8:29) as the crucial breakthrough."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 7:19",
+    "chapter": 7,
+    "verse": 19,
+    "greek": "ὅτι οὐκ εἰσπορεύεται αὐτοῦ εἰς τὴν καρδίαν ἀλλ’εἰς τὴν κοιλίαν,καὶ εἰς τὸν ἀφεδρῶνα ἐκπορεύεται;καθαρίζων πάντα τὰ βρώματα.",
+    "bsb_english": "because it does not enter his heart, but it goes into the stomach and then is eliminated.\" (Thus all foods are clean.)",
+    "translation": {
+      "thai": "เพราะสิ่งนั้นไม่ได้เข้าไปในใจของเขา แต่เข้าไปในกระเพาะอาหาร แล้วถูกขับออกไปสู่ส้วม' (โดยนัยนี้พระองค์ทรงประกาศว่าอาหารทุกชนิดเป็นสิ่งสะอาด)",
+      "key_decisions": [
+        {
+          "greek": "οὐκ εἰσπορεύεται ... εἰς τὴν καρδίαν ἀλλ’ εἰς τὴν κοιλίαν",
+          "thai": "ไม่ได้เข้าไปในใจ ... แต่เข้าไปในกระเพาะอาหาร",
+          "rationale": "Per uW figs-metonymy on καρδία: heart = locus of moral/spiritual life. Thai 'ใจ' (established Mark rendering). κοιλία = stomach/belly (digestive organ); Thai 'กระเพาะอาหาร' (food-stomach) is the biological term, fitting the digestive-physical contrast Jesus draws. Heart-vs-stomach binary: spiritual locus vs. physical locus — food touches the latter, not the former, so cannot defile spiritually."
+        },
+        {
+          "greek": "εἰς τὸν ἀφεδρῶνα ἐκπορεύεται (HAPAX-LIKE ἀφεδρών)",
+          "thai": "ถูกขับออกไปสู่ส้วม",
+          "rationale": "ἀφεδρών (only here in Mark, 2x in NT counting Matt 15:17 parallel — near-hapax) = latrine, privy. Per uW figs-euphemism: Greek itself uses a polite-technical term. Thai 'ส้วม' (toilet/latrine) is the standard Thai term — somewhat plain but matches the Greek's biological frankness. Some Thai translations soften to 'ส้วมส่วม' or paraphrase ('ถูกขับออกไป' alone), but Jesus' point depends on the bluntness of the digestive analogy: nothing material that enters has any access to the moral self."
+        },
+        {
+          "greek": "καθαρίζων πάντα τὰ βρώματα (TEXTUAL/GRAMMATICAL CRUX)",
+          "thai": "(โดยนัยนี้พระองค์ทรงประกาศว่าอาหารทุกชนิดเป็นสิ่งสะอาด)",
+          "rationale": "GRAMMATICAL CRUX: καθαρίζων is masc. nom. sg. participle — grammatically must agree with a masc. nom. sg. subject. In context, the only such candidate is Jesus (the speaker, ὁ λέγων Ἰησοῦς from v.18 λέγει). The participle therefore = 'declaring all foods clean' (Mark's editorial parenthetical). Some Byzantine MSS read καθαρίζον (neuter, agreeing with the food/process) — a smoothing. Per uW figs-explicit: Mark inserts an editorial-theological gloss explaining the implication of Jesus' teaching. Thai '(โดยนัยนี้พระองค์ทรงประกาศว่าอาหารทุกชนิดเป็นสิ่งสะอาด)' — the parenthetical brackets and 'โดยนัยนี้' (by-this-implication) signal to Thai readers that this is Mark's editorial voice, not Jesus' own words. 'อาหารทุกชนิด' (food-every-kind) for πάντα τὰ βρώματα; 'สิ่งสะอาด' (clean-thing) for the implied καθαρόν. βρῶμα (food in general) distinct from ἄρτος (bread) — an important shift signaling the universal kosher implications."
+        }
+      ],
+      "notes": "GRAMMATICAL/TEXTUAL CRUX: SBLGNT reads καθαρίζων (masc. nom. participle) — the standard critical text. The participle agrees with the subject of the main verb (Jesus speaking), making it Mark's editorial conclusion: Jesus, BY this teaching, was declaring all foods clean. Some Byzantine MSS read καθαρίζον (neuter, agreeing with πᾶν τὸ ἔξωθεν 'everything from outside') — a scribal grammatical smoothing that loses Mark's point. THEOLOGICAL SIGNIFICANCE: Mark's parenthetical is the textual basis on which the Acts 10–15 abrogation of food laws (and the broader Gentile mission) rests. Without Mark's editorial gloss, vv.15–19 could be read merely as polemic against Pharisaic handwashing extensions. With the gloss, Jesus' words are read as decisively suspending Levitical food laws (Lev 11; Deut 14). Mark's note is theologically loaded — likely written for a Roman/Gentile community already practicing table-fellowship across Jew-Gentile lines, requiring scriptural-dominical justification."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 7:20",
+    "chapter": 7,
+    "verse": 20,
+    "greek": "ἔλεγεν δὲ ὅτι Τὸ ἐκ τοῦ ἀνθρώπου ἐκπορευόμενον ἐκεῖνο κοινοῖ τὸν ἄνθρωπον·",
+    "bsb_english": "He continued: \"What comes out of a man, that is what defiles him.",
+    "translation": {
+      "thai": "พระองค์ตรัสต่อไปอีกว่า 'สิ่งที่ออกมาจากตัวมนุษย์ต่างหาก ที่ทำให้มนุษย์เป็นมลทิน",
+      "key_decisions": [
+        {
+          "greek": "ἔλεγεν δὲ (impf.)",
+          "thai": "ตรัสต่อไปอีก",
+          "rationale": "Imperfect signals continuation. Thai 'ตรัสต่อไปอีก' (royal-speak continue-on-again) marks Jesus resuming/extending his teaching after the parenthetical of v.19."
+        },
+        {
+          "greek": "Τὸ ἐκ τοῦ ἀνθρώπου ἐκπορευόμενον ἐκεῖνο κοινοῖ",
+          "thai": "สิ่งที่ออกมาจากตัวมนุษย์ต่างหาก ที่ทำให้มนุษย์เป็นมลทิน",
+          "rationale": "Per uW figs-explicitinfo: the Greek has topic-fronting then resumptive ἐκεῖνο ('that is what defiles'). Thai naturally renders this with 'ต่างหาก' (precisely, indeed) for the topical emphasis, mirroring v.15b's structure for parallelism. The verse re-states v.15b after the parenthetical, refocusing on the inside-out direction."
+        }
+      ],
+      "notes": "RESUMPTION OF v.15b: after the v.19 parenthetical, Jesus restates the second half of his original saying. Mark's structure: statement (15) → private inquiry (17) → rebuke + restatement of first half (18–19, with editorial note) → restatement of second half (20) → expansion (21–23). The expansion-list of vices (vv.21–22) then concretizes what 'comes out' from the heart."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 7:21",
+    "chapter": 7,
+    "verse": 21,
+    "greek": "ἔσωθεν γὰρ ἐκ τῆς καρδίας τῶν ἀνθρώπων οἱ διαλογισμοὶ οἱ κακοὶ ἐκπορεύονται,πορνεῖαι,κλοπαί,φόνοι,",
+    "bsb_english": "For from within the hearts of men come evil thoughts, sexual immorality, theft, murder, adultery,",
+    "translation": {
+      "thai": "เพราะว่าจากภายใน คือจากใจของมนุษย์ มีความคิดชั่วร้ายต่าง ๆ ออกมา คือ การล่วงประเวณี การลักขโมย การฆาตกรรม",
+      "key_decisions": [
+        {
+          "greek": "ἔσωθεν ... ἐκ τῆς καρδίας τῶν ἀνθρώπων",
+          "thai": "จากภายใน คือจากใจของมนุษย์",
+          "rationale": "Per uW figs-metonymy on καρδία: heart = seat of thought/will/desire. The double 'from within ... from the heart' is appositional. Thai 'จากภายใน คือจากใจ' (from-inside, that-is from-heart) preserves the explanatory apposition. Established Mark rendering of καρδία = ใจ."
+        },
+        {
+          "greek": "οἱ διαλογισμοὶ οἱ κακοὶ ἐκπορεύονται",
+          "thai": "มีความคิดชั่วร้ายต่าง ๆ ออกมา",
+          "rationale": "διαλογισμός = reasoning, deliberation, thought (cf. Mark 2:6 διαλογιζόμενοι 'reasoning'). The plural + κακοί ('evil') is generic = 'evil thoughts.' Thai 'ความคิดชั่วร้ายต่าง ๆ' (thoughts evil various) renders the plurality + evil-character. ἐκπορεύομαι (cf. v.15) = come-out — the inside-out language is preserved with 'ออกมา' (come-out)."
+        },
+        {
+          "greek": "πορνεῖαι, κλοπαί, φόνοι (vice list begins)",
+          "thai": "การล่วงประเวณี การลักขโมย การฆาตกรรม",
+          "rationale": "All three are abstract-noun plurals (acts/instances). Thai uses 'การ' nominalizer + verb to form abstract nouns. πορνεῖαι = 'sexual immoralities' (plural — instances of πορνεία; broader than just adultery, includes prostitution, fornication, sexual sins generally) → Thai 'การล่วงประเวณี' (transgress-sex-prohibition; the standard biblical term for sexual immorality). κλοπαί = 'thefts' → 'การลักขโมย' (steal-act). φόνοι = 'murders' → 'การฆาตกรรม' (kill-act, formal/legal register)."
+        }
+      ],
+      "notes": "VICE LIST begins (vv.21–22) — 13 vices total, structured roughly as: 6 plural-noun-acts (vv.21–22a) + 6 singular abstract qualities (vv.22b) + 1 closing (ἀφροσύνη v.22b). The list resembles Hellenistic Stoic/Cynic vice catalogues but is rooted in biblical-Jewish moral vocabulary. Note that the catalogue runs through Decalogue territory (theft, murder, adultery, slander) but expands beyond — Jesus' point is total depravity-of-heart, not merely Decalogue violations. Mark's list and Matt 15:19's list overlap but differ in content — Mark's is longer."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 7:22",
+    "chapter": 7,
+    "verse": 22,
+    "greek": "μοιχεῖαι,πλεονεξίαι,πονηρίαι,δόλος,ἀσέλγεια,ὀφθαλμὸς πονηρός,βλασφημία,ὑπερηφανία,ἀφροσύνη·",
+    "bsb_english": "greed, wickedness, deceit, debauchery, envy, slander, arrogance, and foolishness.",
+    "translation": {
+      "thai": "การเล่นชู้ ความโลภ ความชั่วร้าย การหลอกลวง ความมักมากในกาม การอิจฉาริษยา การหมิ่นประมาท ความหยิ่งจองหอง และความโง่เขลา",
+      "key_decisions": [
+        {
+          "greek": "μοιχεῖαι",
+          "thai": "การเล่นชู้",
+          "rationale": "μοιχεία = adultery (specifically sexual unfaithfulness in marriage; distinct from broader πορνεία in v.21). Thai 'การเล่นชู้' (play-illicit-lover) is the standard term for marital infidelity — distinct from 'การล่วงประเวณี' (general sexual immorality) used for πορνεία. The two terms are paired in Greek and we preserve the distinction in Thai."
+        },
+        {
+          "greek": "πλεονεξίαι",
+          "thai": "ความโลภ",
+          "rationale": "πλεονεξία = greed, covetousness, the desire to have-more (πλέον + ἔχω). Thai 'ความโลภ' (greed) is the standard term. Plural 'πλεονεξίαι' = 'instances of greed' rendered with abstract noun in Thai (Thai abstract-nouns don't typically pluralize)."
+        },
+        {
+          "greek": "πονηρίαι",
+          "thai": "ความชั่วร้าย",
+          "rationale": "πονηρία = wickedness, evil-doing (abstract from πονηρός 'evil'). Thai 'ความชั่วร้าย' (evil-quality) — the general moral evil beyond specific acts. Distinct from πονηρός in 'ὀφθαλμὸς πονηρός' below (where it's adjectival)."
+        },
+        {
+          "greek": "δόλος",
+          "thai": "การหลอกลวง",
+          "rationale": "δόλος = deceit, treachery (originally 'bait, snare'). Thai 'การหลอกลวง' (deceive-cheat) standard."
+        },
+        {
+          "greek": "ἀσέλγεια",
+          "thai": "ความมักมากในกาม",
+          "rationale": "Per uW translate-unknown: ἀσέλγεια = unrestrained behavior, often specifically sexual. The semantic range is 'shameless self-indulgence.' Thai 'ความมักมากในกาม' (much-attached-to-lust; sensuality/lasciviousness) captures the unrestrained-sensual-indulgence sense. Some Thai versions use 'ราคะ' (Buddhist-derived term for lust) — we avoid it to keep Christian-vocabulary register; 'ความมักมากในกาม' is the standard NT-Thai rendering."
+        },
+        {
+          "greek": "ὀφθαλμὸς πονηρός (IDIOM)",
+          "thai": "การอิจฉาริษยา",
+          "rationale": "Per uW figs-idiom: 'evil eye' is a Semitic idiom for envy/jealousy/stinginess (cf. Matt 6:23; 20:15 same idiom; LXX Deut 15:9; Prov 23:6). Thai 'การอิจฉาริษยา' (envy-jealousy doublet, the standard term) renders the meaning rather than calque the idiom — Thai readers would not recognize 'eye-evil' as referring to envy (the Thai idiom for envy involves 'ตาร้อน' lit. 'hot eyes,' close but not identical). We render the meaning per RULES.md §4 — semantic clarity over literal rendering of an opaque idiom."
+        },
+        {
+          "greek": "βλασφημία",
+          "thai": "การหมิ่นประมาท",
+          "rationale": "βλασφημία = slander (against God = blasphemy; against humans = defamation). Thai 'การหมิ่นประมาท' (insult-defame; established Mark 3:28 rendering for the Greek term in human context). Note: in Mark 3:28 the rendering was ทั้งบาปและคำหมิ่นประมาท (sin + slander-words); here in a vice-list the abstract noun fits."
+        },
+        {
+          "greek": "ὑπερηφανία (HAPAX)",
+          "thai": "ความหยิ่งจองหอง",
+          "rationale": "HAPAX (only here in NT, technically — though the adj. ὑπερήφανος is more common): ὑπερηφανία = pride, arrogance (literally 'showing-oneself-above'). Thai 'ความหยิ่งจองหอง' (haughty-arrogant doublet; the standard term for prideful arrogance in Thai biblical/literary register). Stronger than 'ความหยิ่ง' alone — captures the showing-off-superiority sense."
+        },
+        {
+          "greek": "ἀφροσύνη",
+          "thai": "ความโง่เขลา",
+          "rationale": "ἀφροσύνη = foolishness (abstract from ἄφρων 'senseless,' lit. 'without-mind'). Thai 'ความโง่เขลา' (stupid-ignorant doublet, the established biblical term for moral folly — not merely intellectual dullness but moral senselessness, cf. Ps 14:1 LXX 'the fool says in his heart there is no God'). Closes the vice-list — striking that 'foolishness' is grouped with murder, adultery: in biblical anthropology, moral folly is itself a sin, the refusal to fear God."
+        }
+      ],
+      "notes": "HAPAX: ὑπερηφανία (technically the noun-form is hapax in NT). VICE LIST CONTINUES: 9 more vices in v.22 (after the 4 in v.21) — 13 total. Structure: vv.21–22a are mostly plural action-nouns (acts/instances), vv.22b shifts to singular abstract-quality nouns (δόλος, ἀσέλγεια, ὀφθαλμὸς πονηρός, βλασφημία, ὑπερηφανία, ἀφροσύνη — qualities of character). The shift mirrors a deepening: from acts-of-sin to dispositions-of-heart. The list closes with foolishness (ἀφροσύνη), the biblical anti-virtue par excellence (Prov 1:7 — fear of YHWH is the beginning of wisdom; folly is its opposite)."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 7:23",
+    "chapter": 7,
+    "verse": 23,
+    "greek": "πάντα ταῦτα τὰ πονηρὰ ἔσωθεν ἐκπορεύεται καὶ κοινοῖ τὸν ἄνθρωπον.",
+    "bsb_english": "All these evils come from within, and these are what defile a man.\"",
+    "translation": {
+      "thai": "บรรดาสิ่งชั่วร้ายเหล่านี้ออกมาจากภายใน และทำให้มนุษย์เป็นมลทิน'",
+      "key_decisions": [
+        {
+          "greek": "πάντα ταῦτα τὰ πονηρὰ",
+          "thai": "บรรดาสิ่งชั่วร้ายเหล่านี้",
+          "rationale": "Summary substantive: 'all these evils.' Thai 'บรรดา ... เหล่านี้' (all-of-these-evil-things-these) preserves the comprehensive scope. Closes the inclusio with v.21 ἔσωθεν — 'from within ... defile' brackets the entire vice-catalogue."
+        },
+        {
+          "greek": "ἔσωθεν ἐκπορεύεται καὶ κοινοῖ τὸν ἄνθρωπον",
+          "thai": "ออกมาจากภายใน และทำให้มนุษย์เป็นมลทิน",
+          "rationale": "Restates the inside-out + defiling structure of vv.15, 20 to close the pericope. Thai preserves the spatial-causal sequence ('ออกมาจากภายใน ... ทำให้มนุษย์เป็นมลทิน' = come-out from-inside ... make-man defiled). Verbal completion of the chiasm: vv.15a/18b (outside in, doesn't defile) // vv.15b/20/23 (inside out, does defile)."
+        }
+      ],
+      "notes": "INCLUSIO CLOSES: the pericope opened with the question of κοιναῖς χερσίν (defiled hands, v.2/5) and closes with κοινοῖ τὸν ἄνθρωπον (defiles the human, v.23). Jesus has shifted the locus of defilement from the body's exterior surface (hands) to the heart's interior life (vices). The chapter now turns geographically (v.24) — Jesus moves OUT of Jewish territory into Gentile Tyre, where the next pericope (the Syrophoenician woman) tests whether the table is now open beyond Israel. The structural-narrative point: having declared all foods clean, Jesus moves to the people whose foods Israel had refused to share."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 7:24",
+    "chapter": 7,
+    "verse": 24,
+    "greek": "Ἐκεῖθεν δὲ ἀναστὰς ἀπῆλθεν εἰς τὰ ὅρια Τύρου.καὶ εἰσελθὼν εἰς οἰκίαν οὐδένα ἤθελεν γνῶναι,καὶ οὐκ ἠδυνήθη λαθεῖν·",
+    "bsb_english": "Jesus left that place and went to the region of Tyre. Not wanting anyone to know He was there, He entered a house, but was unable to escape their notice.",
+    "translation": {
+      "thai": "พระเยซูเสด็จออกจากที่นั่น ไปยังเขตแดนเมืองไทระ พระองค์เสด็จเข้าไปในบ้านหลังหนึ่ง ไม่ทรงประสงค์ให้ผู้ใดรู้ แต่ก็ไม่อาจหลบซ่อนได้",
+      "key_decisions": [
+        {
+          "greek": "Ἐκεῖθεν ... ἀναστὰς ἀπῆλθεν",
+          "thai": "เสด็จออกจากที่นั่น ไปยัง",
+          "rationale": "Per uW figs-explicit: 'from there' = the region of Gennesaret (Mark 6:53), Jesus' last named location. Royal 'เสด็จ' for Jesus' movement (RULES.md §3). ἀναστάς (rising-up + going) is rendered as movement-verb compound: 'เสด็จออกจาก ... ไปยัง' (royal-go-out-from ... go-toward)."
+        },
+        {
+          "greek": "εἰς τὰ ὅρια Τύρου",
+          "thai": "เขตแดนเมืองไทระ",
+          "rationale": "ὅρια = boundaries, region (Markan term cf. 5:17, 7:31). Thai 'เขตแดน' (region-boundary) standard. Τύρος = ไทระ — first occurrence in Mark's narrative; transliteration follows Thai Christian convention (Hebrew צֹר Tzor → Greek Τύρος → Thai ไทระ). Tyre was a major Phoenician port-city, in OT period a Gentile commercial powerhouse known for wealth, idolatry, and trade with Israel (cf. Isa 23; Ezek 26–28; 1 Kgs 5 — Hiram of Tyre). Crossing into Tyre's region marks Jesus' first explicit Gentile-territory ministry."
+        },
+        {
+          "greek": "εἰσελθὼν εἰς οἰκίαν οὐδένα ἤθελεν γνῶναι",
+          "thai": "เสด็จเข้าไปในบ้านหลังหนึ่ง ไม่ทรงประสงค์ให้ผู้ใดรู้",
+          "rationale": "Per uW figs-explicit on εἰσελθὼν: Mark implies Jesus enters as an invited guest. Thai 'บ้านหลังหนึ่ง' (one-house, indefinite — the host is unnamed). Royal 'ทรงประสงค์' (royal-wish/desire) for ἤθελεν. The aorist infinitive γνῶναι = 'know' (about his presence/whereabouts). The retreat-motif recurs in Mark (1:35, 6:31, 9:30) — Jesus seeks privacy, but his fame keeps breaking it. Here it sets up the unexpected visitor (v.25)."
+        },
+        {
+          "greek": "οὐκ ἠδυνήθη λαθεῖν",
+          "thai": "ก็ไม่อาจหลบซ่อนได้",
+          "rationale": "λανθάνω = escape notice, be hidden. Aorist passive ἠδυνήθη + aor. inf. λαθεῖν = 'was not able to be hidden.' Thai 'ไม่อาจหลบซ่อนได้' (not-able to-hide-conceal). The verbal note hints at narrative irony: even outside Israel, Jesus' reputation has preceded him. The pattern: Jesus seeks rest → news spreads → encounter follows."
+        }
+      ],
+      "notes": "GEOGRAPHIC TRANSITION to Gentile territory. Tyre was famously hostile to Israel in the OT (Joel 3:4–8 prophesies judgment on Tyre for slave-trading Israelites; cf. Ezek 26–28). Jesus' movement into Tyre is therefore not just geographic but charged — venturing into territory that biblical prophecy had marked as enemy. Yet what follows (vv.25–30) is not judgment but mercy — anticipating the Gentile-mission trajectory of Acts. Jesus' attempted privacy fails — the chapter's dual movement: defilement reframed (vv.1–23) prepares for Gentile-inclusion enacted (vv.24–30)."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 7:25",
+    "chapter": 7,
+    "verse": 25,
+    "greek": "ἀλλ’εὐθὺς ἀκούσασα γυνὴ περὶ αὐτοῦ,ἧς εἶχεν τὸ θυγάτριον αὐτῆς πνεῦμα ἀκάθαρτον,ἐλθοῦσα προσέπεσεν πρὸς τοὺς πόδας αὐτοῦ·",
+    "bsb_english": "Instead, a woman whose little daughter had an unclean spirit soon heard about Jesus, and she came and fell at His feet.",
+    "translation": {
+      "thai": "ตรงกันข้าม ทันใดนั้นมีหญิงคนหนึ่งซึ่งบุตรสาวน้อยของนางถูกผีโสโครกเข้าสิง ได้ยินเรื่องของพระองค์ จึงมาหมอบลงแทบพระบาทของพระองค์",
+      "key_decisions": [
+        {
+          "greek": "ἀλλ’ εὐθύς",
+          "thai": "ตรงกันข้าม ทันใดนั้น",
+          "rationale": "Per uW grammar-connect-logic-contrast: ἀλλά marks the failure of Jesus' attempted privacy (v.24) — 'instead.' Thai 'ตรงกันข้าม' (on-the-contrary). εὐθύς is Mark's signature adverb (Mark uses it 41x — half of all NT occurrences) = immediately. Thai 'ทันใดนั้น' (immediately-then) standard."
+        },
+        {
+          "greek": "γυνὴ ... ἧς εἶχεν τὸ θυγάτριον αὐτῆς πνεῦμα ἀκάθαρτον",
+          "thai": "หญิงคนหนึ่ง ซึ่งบุตรสาวน้อยของนางถูกผีโสโครกเข้าสิง",
+          "rationale": "Per uW writing-participants: introduction of new character. θυγάτριον = diminutive of θυγάτηρ (= 'little daughter,' affectionate-diminutive). Thai 'บุตรสาวน้อย' (little-daughter; 'น้อย' diminutive) preserves the affectionate diminutive. πνεῦμα ἀκάθαρτον = unclean spirit; established Mark idiom 'ผีโสโครก' (Mark 1:23, 26, 27, etc. — though Mark 1's translation may have used different rendering, this is the standard high-Christian Thai term). 'ถูกผี ... เข้าสิง' (be-spirit-enter-possess) is the Thai exorcism-language idiom — passive voice ('be possessed') is more natural in Thai than active 'had a spirit.'"
+        },
+        {
+          "greek": "προσέπεσεν πρὸς τοὺς πόδας αὐτοῦ",
+          "thai": "มาหมอบลงแทบพระบาทของพระองค์",
+          "rationale": "Per uW translate-symaction: prostration = act of honoring a superior. Thai 'หมอบลง' (lie-prostrate-down) for προσπίπτω + 'แทบพระบาท' (right-at royal-foot) — 'พระบาท' is the royal-register noun for 'foot' (RULES.md §3). The royal honorific used here is striking: this Gentile woman, an outsider to the covenant, is depicted with the same physical reverence Mark gives Jewish supplicants (Mark 5:22 Jairus). Mark's narrator-frame already validates her faith-posture before her words confirm it."
+        }
+      ],
+      "notes": "NEW CHARACTER introduction. The woman is doubly an outsider: (1) Gentile, (2) female. Her daughter has the same affliction (unclean spirit) as the Gerasene demoniac (Mark 5) — Mark deliberately echoes the Gerasene episode, both set in Gentile territory. The Gerasene was a man so afflicted that no chains held him (5:3–4); here a 'little daughter' — the same evil power, scaled to a child. Mark structures Jesus' Gentile-territory ministry around exorcism: confirmation that the kingdom's authority crosses ethnic boundaries."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 7:26",
+    "chapter": 7,
+    "verse": 26,
+    "greek": "ἡ δὲ γυνὴ ἦν Ἑλληνίς,Συροφοινίκισσα τῷ γένει·καὶ ἠρώτα αὐτὸν ἵνα τὸ δαιμόνιον ἐκβάλῃ ἐκ τῆς θυγατρὸς αὐτῆς.",
+    "bsb_english": "Now she was a Greek woman of Syrophoenician origin, and she kept asking Jesus to drive the demon out of her daughter.",
+    "translation": {
+      "thai": "หญิงคนนี้เป็นชาวกรีก เป็นชาวซีโรฟีนิเซียโดยกำเนิด นางทูลอ้อนวอนพระองค์ขอให้ทรงขับผีออกจากบุตรสาวของนาง",
+      "key_decisions": [
+        {
+          "greek": "Ἑλληνίς",
+          "thai": "ชาวกรีก",
+          "rationale": "Ἑλληνίς (fem. of Ἕλλην) = Greek-woman. In NT idiom, Ἕλλην often = 'Gentile' (non-Jew) by metonymy of culture, as in Romans 1:16 'to the Jew first and also to the Greek (= Gentile).' Here it likely indicates both ethnicity (cultural Hellenization) AND religion (Gentile/non-Jewish). Thai 'ชาวกรีก' (Greek-person) is the standard rendering. Per uW writing-background: this clause is parenthetical background information about the woman."
+        },
+        {
+          "greek": "Συροφοινίκισσα τῷ γένει (HAPAX)",
+          "thai": "ชาวซีโรฟีนิเซียโดยกำเนิด",
+          "rationale": "HAPAX (only here in NT): Συροφοινίκισσα = a woman of Syrophoenicia (Phoenicia within the Roman province of Syria, distinguishing from Libyo-Phoenicia in North Africa). Per uW translate-names: identifies her regional origin. Matt 15:22 calls her Χαναναία ('Canaanite') — Mark's term is Roman administrative; Matthew's term is biblical-ethnographic. Thai 'ชาวซีโรฟีนิเซีย' (Syro-Phoenicia-person) — transliteration following the standard Thai Bible convention. 'โดยกำเนิด' (by-birth) for τῷ γένει (dative of respect, 'with respect to descent/origin'). Her layered identity — culturally Greek, ethnically Phoenician/Canaanite, regionally Syrian — heightens her outsider-status, which makes Jesus' apparent rebuff (v.27) and her witty riposte (v.28) all the more striking."
+        },
+        {
+          "greek": "ἠρώτα (impf.)",
+          "thai": "ทูลอ้อนวอน",
+          "rationale": "Imperfect ἠρώτα = 'kept asking, pleaded persistently' — durative aspect. Thai 'ทูลอ้อนวอน' uses 'ทูล' (humble-honorific 'address-to-superior') + 'อ้อนวอน' (plead-beg) — a doublet that captures both the reverent register and the persistent-pleading aspect. The Greek imperfect's durative force is preserved by the Thai doublet itself."
+        },
+        {
+          "greek": "τὸ δαιμόνιον ἐκβάλῃ ἐκ",
+          "thai": "ทรงขับผีออกจาก",
+          "rationale": "Royal 'ทรงขับ' (royal-drive-out) for Jesus' action. δαιμόνιον = ผี (established Mark rendering, e.g. 3:22 'ขับผีออก'). ἐκβάλλω = cast out, drive out — the standard Markan exorcism verb. The construction 'ทรงขับผีออกจาก' (royal-drive-spirit-out-from) is Mark's standard exorcism-formula in Thai."
+        }
+      ],
+      "notes": "HAPAX Συροφοινίκισσα. The woman's triple identification (Greek/Hellene, Syrophoenician, by-genos) is unusually detailed — Mark wants the reader to grasp her outsider-status comprehensively. Matthew 15:22 calls her Χαναναία (Canaanite) — invoking the OT category of Israel's traditional enemy whom Joshua was to drive from the land (Josh 3:10; Judg 1). Mark's Syrophoenicia is administrative-geographic; Matthew's Canaanite is theological-charged. Both writers choose terms emphasizing she is 'the wrong sort.' The verb ἠρώτα (impf.) signals her persistent supplication — she does not stop asking despite Jesus' apparent rebuff."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 7:27",
+    "chapter": 7,
+    "verse": 27,
+    "greek": "καὶ ἔλεγεν αὐτῇ·Ἄφες πρῶτον χορτασθῆναι τὰ τέκνα,οὐ γάρ καλόν ἐστιν λαβεῖν τὸν ἄρτον τῶν τέκνων καὶ τοῖς κυναρίοις βαλεῖν.",
+    "bsb_english": "\"First let the children have their fill,\" He said. \"For it is not right to take the children's bread and toss it to the dogs.\"",
+    "translation": {
+      "thai": "พระองค์ตรัสกับนางว่า 'จงให้พวกลูก ๆ ได้กินอิ่มก่อน เพราะไม่สมควรที่จะเอาอาหารของลูกไปโยนให้ลูกสุนัข'",
+      "key_decisions": [
+        {
+          "greek": "ἔλεγεν αὐτῇ (impf.)",
+          "thai": "ตรัสกับนางว่า",
+          "rationale": "Royal 'ตรัส' for Jesus. The imperfect can be inceptive or durative; in dialogue often = simple 'said' but with hint of beginning-to-speak. Thai uses simple past form."
+        },
+        {
+          "greek": "Ἄφες πρῶτον χορτασθῆναι τὰ τέκνα (PARABLE / ALLEGORY)",
+          "thai": "จงให้พวกลูก ๆ ได้กินอิ่มก่อน",
+          "rationale": "Per uW figs-parables: Jesus speaks in mini-parable form. Children (τέκνα) = Jewish people; bread = the help Jesus provides; dogs (τοῖς κυναρίοις, see below) = Gentiles. Per uW figs-yousingular on Ἄφες: imperative addressed to the woman (sg.). The clause asks her to 'permit' (let-be) the children's priority. Thai 'จงให้พวกลูก ๆ ได้กินอิ่มก่อน' (must let-children-pl get-eat-full-first) — 'พวกลูก ๆ' (children-collective with reduplication for affection); 'อิ่ม' (sated/full); 'ก่อน' (first/before) preserves the πρῶτον priority-marker, which is theologically crucial — Jesus does not deny help to Gentiles, only orders it temporally (cf. Rom 1:16 'to the Jew first and also to the Greek')."
+        },
+        {
+          "greek": "τὸν ἄρτον τῶν τέκνων ... τοῖς κυναρίοις βαλεῖν",
+          "thai": "อาหารของลูกไปโยนให้ลูกสุนัข",
+          "rationale": "Per uW figs-synecdoche on ἄρτον: bread = food (food in general, not specifically bread). Thai 'อาหาร' (food) preserves the metaphor's reach. Per uW translate-unknown on κυναρίοις: κυνάριον is the diminutive of κύων ('dog') = 'little dog, puppy.' This is theologically important: Jesus does NOT use the unmarked κύων (which in Jewish vocabulary was a slur for Gentiles), but the diminutive κυνάριον — 'the little household dogs' under the table, a much softer image. Thai 'ลูกสุนัข' (puppy-young-dog, lit. 'child-of-dog') preserves the diminutive. The diminutive matters: Jesus is not insulting the woman; he is using a domestic-table image (children eating, dogs nearby) that the woman can — and does — turn to her advantage in v.28."
+        },
+        {
+          "greek": "οὐ ... καλόν ἐστιν",
+          "thai": "ไม่สมควรที่",
+          "rationale": "καλόν = good/fitting/appropriate (broader than 'morally good'; here = 'fitting, proper'). Thai 'ไม่สมควรที่' (not-appropriate-that) captures the proprietial sense rather than absolute moral wrong. Jesus is stating an order-of-fittingness, not a moral prohibition."
+        }
+      ],
+      "notes": "PARABLE/ALLEGORY: per uW figs-parables, Jesus offers a domestic-table image: children fed first, dogs after. Children = Israel; dogs = Gentiles; bread = Jesus' redemptive help. Three exegetical issues: (1) The diminutive κυνάριον (puppies/household-dogs), not κύων (street-dogs/slur), softens the imagery to a domestic family-scene. (2) πρῶτον ('first') signals priority-of-order, NOT exclusion — implicit is 'and the dogs after.' (3) Jesus' hard-edged framing tests the woman's faith and gives her the opportunity to enact the deeper truth: faith makes one a child of the kingdom regardless of ethnic descent (cf. Gal 3:7, 26–29). The pericope dramatizes Mark's earlier-implicit Gentile-inclusion theme. Cf. Matt 15:24 where Jesus first explicitly says he was sent only to the lost sheep of Israel — Mark omits that line but the same theology underlies the 'first' here."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 7:28",
+    "chapter": 7,
+    "verse": 28,
+    "greek": "ἡ δὲ ἀπεκρίθη καὶ λέγει αὐτῷ·Κύριε,καὶ τὰ κυνάρια ὑποκάτω τῆς τραπέζης ἐσθίουσιν ἀπὸ τῶν ψιχίων τῶν παιδίων.",
+    "bsb_english": "\"Yes, Lord,\" she replied, \"even the dogs under the table eat the children's crumbs.\"",
+    "translation": {
+      "thai": "นางทูลตอบพระองค์ว่า 'จริงเจ้าข้า แต่แม้แต่ลูกสุนัขที่อยู่ใต้โต๊ะ ก็ยังได้กินเศษอาหารของพวกเด็ก ๆ'",
+      "key_decisions": [
+        {
+          "greek": "ἀπεκρίθη καὶ λέγει αὐτῷ",
+          "thai": "ทูลตอบพระองค์ว่า",
+          "rationale": "Combined aorist + historic-present (ἀπεκρίθη ... λέγει) = formulaic 'answered and says.' Thai 'ทูลตอบ' (humble-address + answer) renders both with the woman's reverent register toward Jesus. 'พระองค์' (divine honorific) is now used for Jesus throughout the dialogue, even from the Gentile woman — Mark's narrative grants her the high-register address that her faith-recognition warrants."
+        },
+        {
+          "greek": "Κύριε (vocative)",
+          "thai": "จริงเจ้าข้า",
+          "rationale": "Κύριε from a Gentile woman speaking to Jesus. Per RULES.md §4 glossary: κύριος (as title for Jesus) renders per context, with documentation. In this dialogue, the woman uses Κύριε as a respectful address — not necessarily a full divine confession (a Gentile woman would not yet have YHWH-theology) but a high honorific akin to 'Sir/Lord.' Yet Mark, by including her vocative, signals that her insight surpasses her ethnic background. We render with 'เจ้าข้า' — the standard Thai humble vocative-address — combined with 'จริง' (truly/yes) which renders the ναί implicit in her reply (the 'yes' Mark omits but Matt 15:27 has). This way the Thai reader gets the honorific-respect without overclaiming a Christological confession. Note: 'องค์พระผู้เป็นเจ้า' (full divine title) would be too strong here — that title is reserved for κύριος = YHWH in OT citations (per Mark 1:3 / Mark 11:9 'in the name of the Lord')."
+        },
+        {
+          "greek": "τὰ κυνάρια ὑποκάτω τῆς τραπέζης",
+          "thai": "ลูกสุนัขที่อยู่ใต้โต๊ะ",
+          "rationale": "She picks up Jesus' diminutive κυνάρια (puppies) and adds the spatial detail ὑποκάτω τῆς τραπέζης ('under the table'). Per uW figs-explicit: in Greco-Roman dining culture, household dogs lay near or under the table during meals to catch dropped food. Thai 'ลูกสุนัขที่อยู่ใต้โต๊ะ' (puppy-that-stays-under-table) preserves the domestic image. The woman's brilliance: she accepts Jesus' framing (yes, I am one of the 'puppies'), but extends the metaphor to her advantage — even puppies under the table get fed."
+        },
+        {
+          "greek": "ἀπὸ τῶν ψιχίων τῶν παιδίων",
+          "thai": "เศษอาหารของพวกเด็ก ๆ",
+          "rationale": "ψιχίον = crumb, little morsel (diminutive). Thai 'เศษอาหาร' (food-fragment/scraps) preserves the small-portion sense. Per uW figs-possession: 'crumbs of the children' = crumbs from the children's meal. Note the rhetorical brilliance: the woman matches Jesus' diminutive κυνάρια with her own diminutive ψιχίον (crumbs) and παιδίων (children, also diminutive). She speaks Jesus' tongue, in his exact register — a remarkable theological aptitude from a Gentile woman."
+        }
+      ],
+      "notes": "RHETORICAL BRILLIANCE: the woman's reply turns Jesus' apparent rebuff into a yes. She accepts the children's-priority framing (yes), accepts the puppy-identity (humility), but locates herself within the household-table economy (puppies-under-the-table also receive). Three diminutive-pairs in her single sentence (κυνάρια / ψιχία / παιδία) match Jesus' opening diminutive κυνάριον. She speaks in his idiom and outwits him within it — the only person in the gospels who 'wins' a verbal exchange with Jesus, and Jesus rewards her with the deliverance she sought (v.29). Theologically: Gentile faith proves itself capable of receiving and re-deploying the gospel-framework. Anticipates the full Gentile mission (Mark 13:10 'the gospel must first be preached to all nations')."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 7:29",
+    "chapter": 7,
+    "verse": 29,
+    "greek": "καὶ εἶπεν αὐτῇ·Διὰ τοῦτον τὸν λόγον ὕπαγε,ἐξελήλυθεν ἐκ τῆς θυγατρός σου τὸ δαιμόνιον.",
+    "bsb_english": "Then Jesus told her, \"Because of this answer, you may go. The demon has left your daughter.\"",
+    "translation": {
+      "thai": "พระองค์ตรัสกับนางว่า 'เพราะคำตอบนี้ จงไปเถิด ผีนั้นได้ออกจากบุตรสาวของเจ้าแล้ว'",
+      "key_decisions": [
+        {
+          "greek": "Διὰ τοῦτον τὸν λόγον",
+          "thai": "เพราะคำตอบนี้",
+          "rationale": "Per uW figs-metonymy on λόγος: 'word' = the woman's spoken reply, what she said. Thai 'คำตอบนี้' (this-answer) preserves the metonymy more precisely than 'word' alone — Thai 'คำพูด' (utterance) would be less specific. Mark draws emphasis: it is BECAUSE OF this specific answer that Jesus heals — her reply IS her faith. (Matt 15:28 makes the connection explicit: 'great is your faith.' Mark leaves it implicit in 'this word.')"
+        },
+        {
+          "greek": "ὕπαγε (sg. impv.)",
+          "thai": "จงไปเถิด",
+          "rationale": "Per uW figs-yousingular: imperative addressed to the woman. Per uW figs-explicit: 'go' here implies 'go in peace, your request is granted' (implicit dismissal-with-blessing). Thai 'จงไปเถิด' (must-go-imperative-particle) — 'เถิด' is the gentle-imperative particle that softens command into permission/encouragement, fitting the dismissal-with-grace tone."
+        },
+        {
+          "greek": "ἐξελήλυθεν (perfect)",
+          "thai": "ได้ออก ... แล้ว",
+          "rationale": "Perfect tense ἐξελήλυθεν = 'has gone out and remains gone' — the demon has departed and the state is permanent. Thai 'ได้ออก ... แล้ว' (have-gone-out ... already) preserves the perfect-stative aspect. Note: Jesus heals the daughter at a distance, without seeing her — the only such long-distance exorcism in Mark. The faith was the woman's; the deliverance was the daughter's. Compare the centurion's servant healed at distance in Luke 7 / Matt 8 — both Gentile-faith long-distance healings."
+        },
+        {
+          "greek": "ἐκ τῆς θυγατρός σου",
+          "thai": "จากบุตรสาวของเจ้า",
+          "rationale": "θυγάτηρ = daughter. Thai 'บุตรสาว' (formal: daughter); 'เจ้า' (intimate-singular 'you') maintains the dialogic register Jesus uses with her — peer-respectful but not formal-distancing. Note: Jesus shifts from θυγάτριον (diminutive 'little daughter,' v.25) to θυγάτηρ (regular 'daughter') here — the daughter is healed; she is no longer a little-helpless-daughter but restored. Subtle but real."
+        }
+      ],
+      "notes": "DISTANT-EXORCISM (only one in Mark): Jesus heals without physical contact or visual presence — extremely rare in Mark (cf. Mark 9 transfiguration's epileptic boy was present). The implicit theology: faith bridges distance. The woman's faith reaches Jesus' authority across the room and into her own home. THEOLOGICAL ACKNOWLEDGMENT: Mark records that Jesus heals 'because of this word' — making the woman's verbal confession the operative cause. Mark presents her, without comment, as the model of articulate-faith-from-outside-the-covenant. Anticipates Acts 10 (Cornelius), Acts 15 (Jerusalem council), Galatians (no Jew-Gentile distinction in Christ)."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 7:30",
+    "chapter": 7,
+    "verse": 30,
+    "greek": "καὶ ἀπελθοῦσα εἰς τὸν οἶκον αὐτῆς εὗρεν τὸ παιδίον βεβλημένον ἐπὶ τὴν κλίνην καὶ τὸ δαιμόνιον ἐξεληλυθός.",
+    "bsb_english": "And she went home and found her child lying on the bed, and the demon was gone.",
+    "translation": {
+      "thai": "เมื่อนางกลับมาถึงบ้าน ก็พบบุตรของนางนอนพักอยู่บนที่นอน และผีก็ออกไปแล้ว",
+      "key_decisions": [
+        {
+          "greek": "ἀπελθοῦσα εἰς τὸν οἶκον αὐτῆς εὗρεν",
+          "thai": "เมื่อนางกลับมาถึงบ้าน ก็พบ",
+          "rationale": "Aorist participle + main verb: 'having gone home, she found.' Thai 'เมื่อ ... ก็พบ' (when ... then-found) preserves the temporal-sequential structure."
+        },
+        {
+          "greek": "βεβλημένον ἐπὶ τὴν κλίνην",
+          "thai": "นอนพักอยู่บนที่นอน",
+          "rationale": "Per uW figs-explicit: TWO INTERPRETATIONS of βεβλημένον (perfect passive ptcp. of βάλλω 'throw, lay'): (1) the child is peacefully resting after the exorcism; (2) the child was thrown down/exhausted by the demon's departure. Per uW: ambiguous. Greek βάλλω can be either 'throw violently' or 'lay/place' — passive perfect 'having been laid' covers both. We render with 'นอนพักอยู่' (lying-resting) — leaning toward (1) peaceful rest, which is the more natural reading after a successful exorcism (compare Mark 5:15: the Gerasene 'sitting, clothed, in his right mind'). Thai 'ที่นอน' (sleeping-place/bed) for κλίνη."
+        },
+        {
+          "greek": "τὸ δαιμόνιον ἐξεληλυθός (perf. ptcp.)",
+          "thai": "ผีก็ออกไปแล้ว",
+          "rationale": "Perfect participle = 'having gone out and remaining gone' — confirms Jesus' word in v.29 was effective and complete. Thai 'ออกไปแล้ว' (gone-out-already) preserves the perfect-stative completed-state aspect. Mark's narrative confirmation: the woman had taken Jesus' word at face value (she went home rather than persisting to verify); upon arriving she finds it fulfilled."
+        }
+      ],
+      "notes": "NARRATIVE CONFIRMATION pattern: Mark commonly closes a healing pericope with a brief verification (cf. Mark 5:15 Gerasene; 5:42 Jairus' daughter; 1:31 Peter's mother-in-law). Here the verification serves a particular function — it shows the woman's faith-without-sight: she did not need to see the deliverance to believe Jesus' word; she went home trusting. This is the Markan paradox: the disciples have seen everything and understand little; the Gentile woman has seen nothing and believes completely. The pericope ends quietly — no crowd, no proclamation, no command to silence. Just a daughter at peace and a mother who knew."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 7:31",
+    "chapter": 7,
+    "verse": 31,
+    "greek": "Καὶ πάλιν ἐξελθὼν ἐκ τῶν ὁρίων Τύρου ἦλθεν διὰ Σιδῶνος εἰς τὴν θάλασσαν τῆς Γαλιλαίας ἀνὰ μέσον τῶν ὁρίων Δεκαπόλεως.",
+    "bsb_english": "Then Jesus left the region of Tyre and went through Sidon to the Sea of Galilee and into the region of the Decapolis.",
+    "translation": {
+      "thai": "ภายหลังพระองค์เสด็จออกจากเขตแดนเมืองไทระอีก ผ่านทางเมืองไซดอน มายังทะเลกาลิลี ผ่านกลางเขตแดนแคว้นทศบุรี",
+      "key_decisions": [
+        {
+          "greek": "πάλιν ἐξελθών",
+          "thai": "ภายหลัง ... เสด็จออก ... อีก",
+          "rationale": "πάλιν ('again') refers back to the earlier departure-mode (cf. v.24 ἀπῆλθεν). Royal 'เสด็จออก' (royal-go-out) for Jesus. Thai 'ภายหลัง ... อีก' (later-on ... again) renders the sequential 'again.' Per uW writing-newevent: marks the next narrative episode."
+        },
+        {
+          "greek": "ἦλθεν διὰ Σιδῶνος εἰς τὴν θάλασσαν τῆς Γαλιλαίας",
+          "thai": "ผ่านทางเมืองไซดอน มายังทะเลกาลิลี",
+          "rationale": "GEOGRAPHIC PUZZLE: Sidon is NORTH of Tyre, the Sea of Galilee SOUTHEAST. To 'go through Sidon to reach the Sea of Galilee' is geographically the long way — like going from New Orleans to Atlanta via Memphis. Two interpretations: (1) Mark or Jesus is geographically vague (Mark is famously imprecise about Galilean geography); (2) Jesus deliberately takes a Gentile-territory circuit, ministering through Sidon and then south through Decapolis (also Gentile) before re-entering Jewish areas. Most modern commentators favor (2) — Jesus' itinerary is a Gentile-mission tour. Σιδών = ไซดอน (Thai standard transliteration; Hebrew צִידוֹן Tzidon). 'ทะเลกาลิลี' (Sea-of-Galilee) for ἡ θάλασσα τῆς Γαλιλαίας — established Thai biblical term."
+        },
+        {
+          "greek": "ἀνὰ μέσον τῶν ὁρίων Δεκαπόλεως",
+          "thai": "ผ่านกลางเขตแดนแคว้นทศบุรี",
+          "rationale": "ἀνὰ μέσον = 'through the middle of' (idiomatic). Δεκάπολις = ทศบุรี per established Mark 5:20 rendering ('ทศ' = ten + 'บุรี' = city/town — the Ten Cities, a calque of the Greek 'Δεκα-πόλις'). 'แคว้น' (region/province) added for clarity. Decapolis was the Greco-Roman federation of cities east of Jordan / SE of Galilee, mostly Gentile. Mark recurs to it (cf. 5:20 — the healed Gerasene proclaimed Jesus there). Now Jesus himself comes."
+        }
+      ],
+      "notes": "GEOGRAPHIC CIRCUIT through Gentile territory: Tyre → Sidon (north) → Sea of Galilee → Decapolis (east). Mark deliberately tours Jesus through three named Gentile regions, framing the healing of the deaf-mute (vv.32–37) as occurring in Gentile, not Jewish, territory. The scope of Jesus' ministry is being expanded geographically and ethnically. Mark's geography here is widely seen as theological-symbolic rather than topographically efficient — he wants the reader to grasp that Jesus has now ministered north (Tyre/Sidon), east (Decapolis), and is symbolically encompassing the Gentile world. The Δεκάπολις also recalls Mark 5 — same region where the Gerasene was healed and proclaimed Jesus. Jesus may be returning to fertile soil prepared by the Gerasene's witness."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 7:32",
+    "chapter": 7,
+    "verse": 32,
+    "greek": "καὶ φέρουσιν αὐτῷ κωφὸν καὶ μογιλάλον,καὶ παρακαλοῦσιν αὐτὸν ἵνα ἐπιθῇ αὐτῷ τὴν χεῖρα.",
+    "bsb_english": "Some people brought to Him a man who was deaf and hardly able to speak, and they begged Jesus to place His hand on him.",
+    "translation": {
+      "thai": "มีคนพาชายคนหนึ่งซึ่งเป็นคนหูหนวกและพูดติดขัด มาเฝ้าพระองค์ และทูลอ้อนวอนพระองค์ให้ทรงวางพระหัตถ์บนคนผู้นั้น",
+      "key_decisions": [
+        {
+          "greek": "φέρουσιν αὐτῷ (hist. pres.)",
+          "thai": "มีคนพา ... มาเฝ้าพระองค์",
+          "rationale": "Per uW writing-pronouns: 'they' is impersonal — 'people' in general. Historic present φέρουσιν heightens narrative immediacy. Thai 'มีคนพา ... มาเฝ้า' (there-is-people-bring ... come-attend-on royal) renders with the impersonal-existential construction. 'เฝ้า' (attend on) is the formal verb for approaching a high person — fitting royal Jesus."
+        },
+        {
+          "greek": "κωφὸν καὶ μογιλάλον (HAPAX μογιλάλος + KEY OT ECHO)",
+          "thai": "คนหูหนวกและพูดติดขัด",
+          "rationale": "HAPAX (only here in NT, but a CRUCIAL OT-LXX echo): μογιλάλος = literally 'speaking-with-difficulty' (μόγις 'with difficulty' + λάλος 'talkative/speaking'). LXX uses μογιλάλος in Isa 35:6 LXX: 'τότε ἁλεῖται ὡς ἔλαφος ὁ χωλός, καὶ τρανὴ ἔσται γλῶσσα μογιλάλων' ('then the lame will leap like a deer and the tongue of the dumb/mute will speak clearly') — a key Messianic prophecy of restoration. By choosing μογιλάλος (rather than the more common ἄλαλος or κωφός standalone), Mark deliberately echoes Isa 35:6 LXX. Combined with κωφός (deaf, also in Isa 35:5 'ears of the deaf opened'), this is a deliberate Messianic-fulfillment marker — Jesus enacts Isa 35:5–6. Thai 'หูหนวกและพูดติดขัด' (ear-deaf and speak-stuck/halting) renders both — 'พูดติดขัด' (speech-impeded) captures μογιλάλος's halting-speech sense. SEE NOTES on the OT echo."
+        },
+        {
+          "greek": "ἐπιθῇ αὐτῷ τὴν χεῖρα",
+          "thai": "ทรงวางพระหัตถ์บนคนผู้นั้น",
+          "rationale": "Per uW figs-explicit: laying-on of hand was the customary gesture of healing-blessing (cf. Mark 5:23 Jairus). Royal 'ทรงวาง' + 'พระหัตถ์' (royal-hand) per RULES.md §3. The supplicants' request specifies the standard Jesus-healing technique — they had heard of his methods. This makes Jesus' subsequent unusual technique (vv.33–34) the more noteworthy."
+        }
+      ],
+      "notes": "HAPAX μογιλάλος + MESSIANIC OT ECHO (Isa 35:5–6 LXX): 'Then the eyes of the blind shall be opened and the ears of the deaf unstopped; then shall the lame man leap like a deer and the tongue of the dumb (μογιλάλων) shall sing for joy.' Mark's word-choice is not casual — μογιλάλος is rare in all of Greek literature, and by using it (rather than ἄλαλος 'mute' or κωφός 'deaf' alone), Mark signals to readers familiar with LXX that Isa 35 is being fulfilled. This frames the healing as a Messianic-sign episode, complementing the chapter's other Messianic markers (the πάντα καλῶς πεποίηκεν of v.37, echoing Gen 1's good-creation). Add to nt_ot_citations.json. The healing follows the standard Markan exorcism-sequence (request → unusual technique → command → confirmation), but the OT-echo lifts it from individual healing into Messianic-fulfillment."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 7:33",
+    "chapter": 7,
+    "verse": 33,
+    "greek": "καὶ ἀπολαβόμενος αὐτὸν ἀπὸ τοῦ ὄχλου κατ’ἰδίαν ἔβαλεν τοὺς δακτύλους αὐτοῦ εἰς τὰ ὦτα αὐτοῦ καὶ πτύσας ἥψατο τῆς γλώσσης αὐτοῦ,",
+    "bsb_english": "So Jesus took him aside privately, away from the crowd, and put His fingers into the man's ears. Then He spit and touched the man's tongue.",
+    "translation": {
+      "thai": "พระองค์ทรงพาชายนั้นแยกออกจากฝูงชนไปอยู่ตามลำพัง ทรงเอานิ้วพระหัตถ์ยอนเข้าไปในหูของเขา ทรงถ่มน้ำลายและแตะลิ้นของเขา",
+      "key_decisions": [
+        {
+          "greek": "ἀπολαβόμενος αὐτὸν ἀπὸ τοῦ ὄχλου κατ’ ἰδίαν",
+          "thai": "ทรงพาชายนั้นแยกออกจากฝูงชนไปอยู่ตามลำพัง",
+          "rationale": "ἀπολαμβάνω + middle = take-aside; κατ’ ἰδίαν = privately, alone. Royal 'ทรงพา' (royal-bring/lead). Thai 'แยกออกจาก ... ไปอยู่ตามลำพัง' (separate-out-from ... go-stay-by-self) preserves the deliberate separation. Pattern matches Mark 5:40 (Jesus dismissing the crowd before raising Jairus' daughter) — the privacy-motif: significant healings often happen away from spectacle (a Markan messianic-secret tendency)."
+        },
+        {
+          "greek": "ἔβαλεν τοὺς δακτύλους αὐτοῦ εἰς τὰ ὦτα αὐτοῦ",
+          "thai": "ทรงเอานิ้วพระหัตถ์ยอนเข้าไปในหูของเขา",
+          "rationale": "Per uW figs-explicit: Jesus put one finger into each ear (one from each hand). Royal 'นิ้วพระหัตถ์' (royal-finger-of-royal-hand) — preserving the divine-honorific even for body parts (RULES.md §3). 'ยอนเข้าไป' (insert/stick-into) for ἔβαλεν εἰς (literally 'cast into,' here = inserted). Thai 'หูของเขา' (his ear) — non-honorific for the ordinary man's ear. The asymmetry is deliberate: Jesus' royal body acts upon the ordinary human body."
+        },
+        {
+          "greek": "πτύσας ἥψατο τῆς γλώσσης αὐτοῦ",
+          "thai": "ทรงถ่มน้ำลายและแตะลิ้นของเขา",
+          "rationale": "Per uW figs-extrainfo: Mark does not specify WHERE Jesus spat (on the ground, on his fingers, on the tongue). We preserve the ambiguity: 'ทรงถ่มน้ำลายและแตะลิ้น' (royal-spit and touch tongue) — coordinated by 'และ' (and) leaves the relationship open. Royal 'ทรงถ่ม' (royal-spit) — surprisingly using royal honorific even for spitting! This is theologically significant: Jesus' bodily fluids are not desecrating but vehicle of healing (parallel to Mark 8:23 — same technique on a blind man; John 9:6 — spit-mixed mud). In ancient medicine, saliva was thought to have healing properties. ἅπτω = touch (cf. Mark 1:41 leper; 5:27–28 hemorrhaging woman) — Jesus' deliberate physical contact even with ritually-suspect categories. Thai 'แตะ' (touch lightly) standard."
+        }
+      ],
+      "notes": "UNUSUAL HEALING TECHNIQUE: in most Markan healings, Jesus heals by word or touch alone. Here he uses an elaborate set of physical gestures (fingers in ears, spit, touch the tongue, look up, sigh, command) — atypical of his usual practice. Why? Several proposed reasons: (1) Communicating with a deaf man requires non-verbal signs — Jesus signals what he is about to heal; (2) the gestures are pedagogical (the man can see what Jesus does even though he cannot hear); (3) ancient medical practice associated saliva with healing; (4) Mark wants the reader to grasp the gritty-bodily concreteness of Jesus' healing (not abstract spiritual transaction). The privacy (κατ’ ἰδίαν) is also notable — perhaps to spare the man's dignity, perhaps to dampen messianic-political enthusiasm (the messianic-secret motif: see v.36)."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 7:34",
+    "chapter": 7,
+    "verse": 34,
+    "greek": "καὶ ἀναβλέψας εἰς τὸν οὐρανὸν ἐστέναξεν,καὶ λέγει αὐτῷ·Εφφαθα,ὅ ἐστιν Διανοίχθητι·",
+    "bsb_english": "And looking up to heaven, He sighed deeply and said to him, \"Ephphatha!\" (which means, \"Be opened!\").",
+    "translation": {
+      "thai": "พระองค์ทรงแหงนพระพักตร์ดูฟ้าสวรรค์ ทรงถอนพระทัย และตรัสกับเขาว่า 'เอฟฟาธา' ซึ่งแปลว่า 'จงเปิดออก'",
+      "key_decisions": [
+        {
+          "greek": "ἀναβλέψας εἰς τὸν οὐρανόν",
+          "thai": "ทรงแหงนพระพักตร์ดูฟ้าสวรรค์",
+          "rationale": "Per uW translate-symaction: looking up to heaven was a common posture for prayer in Jewish/Greco-Roman culture (cf. Mark 6:41 the 5000 feeding; John 17:1; Ps 121:1). Royal 'ทรงแหงน' (royal-tilt-up) + 'พระพักตร์' (royal-face — RULES.md §3 honorific noun for face). 'ฟ้าสวรรค์' (sky-heaven) for οὐρανός — captures both the literal sky and the heavenly realm where God dwells. Standard Thai biblical idiom for upward-prayerful gaze."
+        },
+        {
+          "greek": "ἐστέναξεν",
+          "thai": "ทรงถอนพระทัย",
+          "rationale": "Per uW figs-extrainfo: στενάζω = sigh, groan. The verb's significance is debated — could indicate (a) deep prayer, (b) compassion for the man's affliction, (c) lament over the brokenness of creation that requires this healing, (d) cost of the healing itself. We preserve the ambiguity. Thai 'ทรงถอนพระทัย' = royal 'ทรง' + 'ถอนพระทัย' (pull-royal-heart) — the established Thai biblical-royal idiom for 'sigh,' parallel to common 'ถอนหายใจ' (sigh) but in royal register suitable for divine subjects (RULES.md §3). Captures both the audible breath and the inward weight of feeling."
+        },
+        {
+          "greek": "Εφφαθα, ὅ ἐστιν Διανοίχθητι (HAPAX — Aramaic)",
+          "thai": "'เอฟฟาธา' ซึ่งแปลว่า 'จงเปิดออก'",
+          "rationale": "HAPAX (only here in NT, transliterated Aramaic): Ἐφφαθά = Aramaic אֶתְפַּתַּח 'ethpatach' = imperative passive of פתח (open) = 'be opened.' Per uW translate-transliterate: Mark transliterates and translates — the same pattern as Mark 5:41 (ταλιθα κουμ) and 7:11 (κορβᾶν). Per RULES.md §5 Aramaic transliterations: we preserve the foreign-word effect by transliterating the Aramaic into Thai script — 'เอฟฟาธา' (Thai-script approximation of Aramaic 'eppatha' / Greek-spelled εφφαθα). The gloss 'จงเปิดออก' (must-open-out) renders διανοίχθητι precisely: 'จง' jussive imperative + 'เปิดออก' open-out (with the διά- prefix's 'thoroughly/right-through' force preserved by 'ออก'). διανοίγω is intensive of ἀνοίγω — 'be fully opened.' Per uW figs-yousingular: addressed to the man (sg.) — but importantly, what is being commanded to be 'opened'? The man's ears? His tongue? Or the man himself? Greek leaves it open. Thai 'จงเปิดออก' preserves the indeterminacy."
+        }
+      ],
+      "notes": "HAPAX Ἐφφαθά (Aramaic transliteration). One of three Aramaic transliterations in Mark (5:41 ταλιθα κουμ; 7:11 κορβᾶν — Aramaic/Hebrew; 7:34 here). Mark preserves the actual Aramaic word Jesus spoke, gestures of authentic memory. Theologically: ἐφφαθά is a one-word imperative that opens BOTH the man's ears AND tongue simultaneously (per v.35) — though grammatically passive imperative singular, it functions as a totalizing healing-command. Some early liturgies (cf. Roman Catholic baptism rite) preserve 'effeta' as a baptismal moment of opening the catechumen to faith. The looking-up + sighing + word-of-command is Jesus' characteristic 'public prayer-then-act' pattern (cf. John 11:41–43 Lazarus; Mark 6:41 feeding 5000)."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 7:35",
+    "chapter": 7,
+    "verse": 35,
+    "greek": "καὶ ἠνοίγησαν αὐτοῦ αἱ ἀκοαί,καὶ ἐλύθη ὁ δεσμὸς τῆς γλώσσης αὐτοῦ,καὶ ἐλάλει ὀρθῶς·",
+    "bsb_english": "Immediately the man's ears were opened and his tongue was released, and he began to speak plainly.",
+    "translation": {
+      "thai": "ทันใดนั้นหูของเขาก็เปิดออก และสายลิ้นของเขาก็หลุดออก เขาก็พูดได้ชัดเจน",
+      "key_decisions": [
+        {
+          "greek": "ἠνοίγησαν αὐτοῦ αἱ ἀκοαί",
+          "thai": "หูของเขาก็เปิดออก",
+          "rationale": "Per uW figs-activepassive: aorist passive — 'his hearing-faculties were opened.' ἀκοαί (plural) = the hearings/hearing-organs. Thai 'หู' (ear) for clarity. The passive carries divine-passive force (it was Jesus' word that opened them, but Greek leaves the agent unstated — God-acting-through-Jesus). Per uW figs-metaphor: the metaphor of being-blocked-and-opened is preserved in Thai 'เปิดออก' (open-out) — vivid and natural."
+        },
+        {
+          "greek": "ἐλύθη ὁ δεσμὸς τῆς γλώσσης αὐτοῦ",
+          "thai": "สายลิ้นของเขาก็หลุดออก",
+          "rationale": "Per uW figs-metaphor: the inability-to-speak imagined as a 'bond/cord/restraint' (δεσμός) on the tongue. When healed, the bond is 'loosed' (λύω, aor. pass.). Thai 'สายลิ้น' (cord-of-tongue, lit. 'tongue-string') is a natural Thai idiom — Thai actually has the colloquial 'ลิ้นพันกัน' (tongue-tied) for similar conditions. 'หลุดออก' (loose-out) for ἐλύθη preserves the unbinding image. The metaphor is medically apt: tongue-tied (ankyloglossia) is literally a restraining frenulum."
+        },
+        {
+          "greek": "ἐλάλει ὀρθῶς (impf.)",
+          "thai": "เขาก็พูดได้ชัดเจน",
+          "rationale": "Imperfect ἐλάλει = 'began to speak / kept speaking' (inceptive-durative). ὀρθῶς = correctly, plainly, clearly (not just 'at all' but 'normally'). Thai 'พูดได้ชัดเจน' (speak-can-clearly) renders the clarity-of-speech sense — important: the man was not merely making sounds but speaking properly, indicating full restoration. The Isaiah-35 echo continues: 'the tongue of the dumb shall sing for joy.'"
+        }
+      ],
+      "notes": "ISA 35:5–6 FULFILLMENT: explicit. 'The eyes of the blind shall be opened, and the ears of the deaf shall be unstopped ... the tongue of the dumb (μογιλάλων) shall sing for joy.' Mark's vocabulary tracks Isaiah's promised Messianic-age physical-restoration. The instantaneous reversal — ears opened, tongue loosed, plain speech — is Mark's signature 'εὐθὺς' (immediately) pattern though the adverb is implicit here. The double passive (ἠνοίγησαν, ἐλύθη) is divine-passive: the agency is Jesus'-command-as-God's-power."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 7:36",
+    "chapter": 7,
+    "verse": 36,
+    "greek": "καὶ διεστείλατο αὐτοῖς ἵνα μηδενὶ λέγωσιν·ὅσον δὲ αὐτοῖς διεστέλλετο,αὐτοὶ μᾶλλον περισσότερον ἐκήρυσσον.",
+    "bsb_english": "Jesus ordered them not to tell anyone. But the more He ordered them, the more widely they proclaimed it.",
+    "translation": {
+      "thai": "พระองค์ทรงกำชับพวกเขาไม่ให้บอกผู้ใด แต่ยิ่งทรงกำชับเท่าใด พวกเขาก็ยิ่งประกาศเรื่องนี้แพร่หลายมากขึ้นเท่านั้น",
+      "key_decisions": [
+        {
+          "greek": "διεστείλατο αὐτοῖς ἵνα μηδενὶ λέγωσιν",
+          "thai": "ทรงกำชับพวกเขาไม่ให้บอกผู้ใด",
+          "rationale": "διαστέλλω = give strict order, command (intensive of στέλλω 'send'). Royal 'ทรงกำชับ' (royal-charge-strictly) for the imperative-strength. The MESSIANIC SECRET command (cf. Mark 1:43, 1:44, 3:12, 5:43, 8:30, 9:9) — recurrent Markan motif. Jesus repeatedly suppresses public messianic-acclaim, perhaps to delay political-messianic enthusiasm that would derail his suffering-servant trajectory."
+        },
+        {
+          "greek": "ὅσον ... διεστέλλετο, αὐτοὶ μᾶλλον περισσότερον ἐκήρυσσον (HAPAX περισσότερον in this comparative form)",
+          "thai": "ยิ่งทรงกำชับเท่าใด ... ก็ยิ่งประกาศ ... แพร่หลายมากขึ้นเท่านั้น",
+          "rationale": "ὅσον ... μᾶλλον = correlative comparative ('the more ... the more'). Per glossary-flag, περισσότερον is technically a comparative-adverb form of περισσός 'abundant' — but here it functions as 'more abundantly,' a hapax-class form (the regular adverb is περισσῶς; the comparative neuter accusative as adverb is rare). Thai 'ยิ่ง ... เท่าใด ... ก็ยิ่ง ... มากขึ้นเท่านั้น' is the standard Thai 'the more X, the more Y' construction — exactly the Greek correlative. 'แพร่หลาย' (spread-widely) for the publicity-spreading sense. The verbal effect: Jesus' silencing-command paradoxically intensifies the proclamation. The Markan irony: every silenced witness becomes a louder witness."
+        }
+      ],
+      "notes": "MESSIANIC SECRET pattern: the sixth and one of the most striking of Mark's silencing-commands. Why so insistent? William Wrede's classic theory: Mark constructs the messianic-secret to explain why Jesus' messianic identity was not widely recognized in his lifetime. More likely: Jesus suppresses miracle-fame because (a) it would trigger zealot-political messianism, derailing his suffering-servant mission; (b) the cross, not the miracles, must define his messianic identity (cf. Mark 8:30–31 — silence IMMEDIATELY followed by passion-prediction). HAPAX-CLASS: περισσότερον as adverb = 'more abundantly' — a rare comparative form, prepares the way for ὑπερπερισσῶς (super-abundantly) in v.37, both intensifying-superlatives. Mark loves these accumulating intensifiers."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 7:37",
+    "chapter": 7,
+    "verse": 37,
+    "greek": "καὶ ὑπερπερισσῶς ἐξεπλήσσοντο λέγοντες·Καλῶς πάντα πεποίηκεν,καὶ τοὺς κωφοὺς ποιεῖ ἀκούειν καὶ ἀλάλους λαλεῖν.",
+    "bsb_english": "The people were utterly astonished and said, \"He has done all things well! He makes even the deaf hear and the mute speak!\"",
+    "translation": {
+      "thai": "ผู้คนต่างอัศจรรย์ใจอย่างเหลือล้น และพูดกันว่า 'พระองค์ทรงกระทำทุกสิ่งได้ดียิ่งนัก พระองค์ทรงโปรดให้คนหูหนวกได้ยิน และคนใบ้พูดได้'",
+      "key_decisions": [
+        {
+          "greek": "ὑπερπερισσῶς (HAPAX)",
+          "thai": "อย่างเหลือล้น",
+          "rationale": "HAPAX (only here in NT): ὑπερ-περισσῶς = super-abundantly, beyond-measure. Adverbial intensification using the ὑπερ- prefix that Paul loves (cf. Eph 3:20 ὑπερ-εκπερισσοῦ). The form stacks intensifiers (ὑπερ + περισσός) — Mark/the crowd's astonishment is so profound that even the standard 'περισσῶς' (exceedingly) requires further amplification. Thai 'อย่างเหลือล้น' (in-overflowing-manner) renders the over-the-top quantitative intensity. Combined with ἐξεπλήσσοντο ('were astonished,' established Markan ใช้ 'อัศจรรย์ใจ' Mark 6:2 etc.), the construction maximizes amazement."
+        },
+        {
+          "greek": "Καλῶς πάντα πεποίηκεν (PERFECT — GENESIS ECHO)",
+          "thai": "ทรงกระทำทุกสิ่งได้ดียิ่งนัก",
+          "rationale": "Perfect tense πεποίηκεν = 'has done and the deeds stand' — abiding accomplishment. Per uW figs-explicit: 'all things' refers to all Jesus' deeds. CRUCIAL OT ECHO: Καλῶς ... πάντα + ποιέω deliberately echoes LXX Gen 1:31 'καὶ εἶδεν ὁ θεὸς τὰ πάντα ὅσα ἐποίησεν, καὶ ἰδοὺ καλὰ λίαν' ('and God saw all that he had made, and behold, it was very good'). The crowd's confession unwittingly attributes to Jesus the language of God-the-creator. Combined with the Isa 35:5–6 echo of v.32 (the same crowd notices specifically the deaf-hearing and mute-speaking, the exact Messianic signs of Isa 35), Mark frames Jesus' Gentile-territory ministry as both creational (Gen 1) and Messianic (Isa 35). Royal 'ทรงกระทำ' for Jesus' action; 'ดียิ่งนัก' (good-extremely) renders καλῶς (well/good) intensified."
+        },
+        {
+          "greek": "τοὺς κωφοὺς ποιεῖ ἀκούειν καὶ ἀλάλους λαλεῖν",
+          "thai": "ทรงโปรดให้คนหูหนวกได้ยิน และคนใบ้พูดได้",
+          "rationale": "Per uW figs-nominaladj: substantive use of adjectives — 'the deaf ones' and 'mute ones.' Thai 'คนหูหนวก' (ear-deaf person) for κωφούς; 'คนใบ้' (silent-person) for ἀλάλους — established Thai biblical idiom. Royal 'ทรงโปรดให้' (royal-grace-give-for) elegantly renders the causative ποιεῖ + infinitive 'makes them to do X' — 'โปรดให้' captures both the causative force and the divine-favor-giving aspect that the perfect-tense achievement implies. Note: ἄλαλος ('mute') here, NOT μογιλάλος ('hardly-speaking') from v.32 — a slight broadening, perhaps because the crowd's praise generalizes to many such healings, or because the man's halting-speech has fully resolved into normal-speech. Either way, the Isa 35:5–6 LXX echo is unmistakable: 'τότε ... ἀκούσονται κωφοί ... καὶ τρανὴ ἔσται γλῶσσα μογιλάλων.'"
+        }
+      ],
+      "notes": "HAPAX ὑπερπερισσῶς. DOUBLE OT ECHO: (1) Gen 1:31 LXX 'πάντα ... καλά' — the crowd's 'καλῶς πάντα πεποίηκεν' attributes creational-good language to Jesus' deeds. (2) Isa 35:5–6 LXX — the deaf-hear / mute-speak combination is the explicit Messianic-restoration sign-set. Together: Mark presents Jesus' Gentile-territory ministry as the in-breaking of new-creation Messianic-restoration. The crowd is unwittingly orthodox. CHIASM: the chapter opens with Pharisees/scribes accusing the wrong defilement (vv.1–13) and closes with a Gentile crowd confessing the right Messianic-sign (v.37). Inside-out has been applied not just to ethics but to ethnics: the 'unclean' Gentiles confess what the 'clean' religious establishment refused to see. Add to nt_ot_citations.json."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  }
+]
