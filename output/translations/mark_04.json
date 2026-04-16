@@ -1,0 +1,732 @@
+[
+  {
+    "reference": "Mark 4:1",
+    "chapter": 4,
+    "verse": 1,
+    "greek": "Καὶ πάλιν ἤρξατο διδάσκειν παρὰ τὴν θάλασσαν. καὶ συνάγεται πρὸς αὐτὸν ὄχλος πλεῖστος, ὥστε αὐτὸν εἰς πλοῖον ἐμβάντα καθῆσθαι ἐν τῇ θαλάσσῃ, καὶ πᾶς ὁ ὄχλος πρὸς τὴν θάλασσαν ἐπὶ τῆς γῆς ἦσαν.",
+    "bsb_english": "Once again Jesus began to teach beside the sea, and such a large crowd gathered around Him that He got into a boat and sat in it, while all the people crowded along the shore.",
+    "translation": {
+      "thai": "พระองค์ทรงเริ่มสั่งสอนริมทะเลอีกครั้งหนึ่ง และมีฝูงชนจำนวนมหาศาลมาชุมนุมล้อมรอบพระองค์ จนพระองค์ต้องเสด็จลงเรือไปประทับอยู่กลางทะเล ส่วนฝูงชนทั้งหมดก็ยืนอยู่บนฝั่งริมทะเล",
+      "key_decisions": [
+        {"greek": "πάλιν", "thai": "อีกครั้งหนึ่ง", "rationale": "Mark's 'again' picks up the seaside-teaching motif of 2:13 and 3:7 — a recurring location of Jesus' public teaching. Thai 'อีกครั้งหนึ่ง' natural."},
+        {"greek": "ἤρξατο διδάσκειν (hist. pres.)", "thai": "ทรงเริ่มสั่งสอน", "rationale": "Historic present per uW v.1. Ingressive aorist 'began to teach.' Royal 'ทรง' prefix + 'เริ่มสั่งสอน' (begin-instruct-teach). διδάσκω in Mark is Jesus' signature activity."},
+        {"greek": "παρὰ τὴν θάλασσαν", "thai": "ริมทะเล", "rationale": "παρά + acc. = 'alongside.' Thai 'ริมทะเล' (shore-of-sea). Per uW, teachers sat to teach — the scene anticipates v.1c. Unlike Mark 3:7 (where I rendered θάλασσα as 'ทะเลกาลิลี' for clarity), here the already-established context makes the referent obvious — 'ริมทะเล' reads naturally."},
+        {"greek": "ὄχλος πλεῖστος", "thai": "ฝูงชนจำนวนมหาศาล", "rationale": "πλεῖστος superlative 'very great / the greatest.' Per uW figs-hyperbole: an emphatic overstatement. Thai 'จำนวนมหาศาล' (enormous number) captures the intensifying force over the comparative 'πολύς' used elsewhere in Mark."},
+        {"greek": "συνάγεται (hist. pres. pass.)", "thai": "มาชุมนุมล้อมรอบ", "rationale": "Historic present passive 'is gathered.' Per uW figs-activepassive: Thai renders actively 'มาชุมนุมล้อม' (came to gather-surround). Parallel to Mark 2:2."},
+        {"greek": "εἰς πλοῖον ἐμβάντα καθῆσθαι", "thai": "เสด็จลงเรือไปประทับอยู่", "rationale": "Per uW v.1: Jesus sat IN the boat (floating ON the sea), not on the water itself. Thai 'เสด็จลงเรือ' (royal-embark) + 'ไปประทับ' (royal-sit-settle) preserves both the royal register and the physical action. 'ประทับ' is the royal 'sit' — fitting for teaching posture."},
+        {"greek": "πᾶς ὁ ὄχλος πρὸς τὴν θάλασσαν ἐπὶ τῆς γῆς ἦσαν", "thai": "ฝูงชนทั้งหมดก็ยืนอยู่บนฝั่งริมทะเล", "rationale": "Awkward Greek: 'all the crowd was toward the sea upon the earth.' Per uW = 'on the shore.' Thai 'บนฝั่งริมทะเล' (on the shore-by-sea) collapses the spatial description into natural Thai. Singular verb ἦσαν with collective noun — Thai doesn't mark number on verb."}
+      ],
+      "notes": "Opens the great parable discourse (4:1–34). Seaside teaching + boat-pulpit = Mark's third iteration (cf. 2:13, 3:7). The scene visually stages the parables: Jesus on a little boat, crowd on shore, sea between — a parable of the message's distance and nearness."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 4:2",
+    "chapter": 4,
+    "verse": 2,
+    "greek": "καὶ ἐδίδασκεν αὐτοὺς ἐν παραβολαῖς πολλά καὶ ἔλεγεν αὐτοῖς ἐν τῇ διδαχῇ αὐτοῦ·",
+    "bsb_english": "And He taught them many things in parables, and in His teaching He said,",
+    "translation": {
+      "thai": "พระองค์ทรงสั่งสอนพวกเขาหลายสิ่งหลายประการเป็นคำอุปมา และในคำสอนของพระองค์นั้น พระองค์ตรัสว่า",
+      "key_decisions": [
+        {"greek": "ἐδίδασκεν (imperf.)", "thai": "ทรงสั่งสอน", "rationale": "Imperfect = sustained teaching activity. Royal 'ทรงสั่งสอน.'"},
+        {"greek": "ἐν παραβολαῖς πολλά", "thai": "หลายสิ่งหลายประการเป็นคำอุปมา", "rationale": "πολλά = 'many things' (neut. pl. acc. as direct object of ἐδίδασκεν). Thai 'หลายสิ่งหลายประการ' (many-thing many-kind) captures the broad content. 'ἐν παραβολαῖς' per glossary 'เป็นคำอุปมา' (Mark 3:23)."},
+        {"greek": "ἐν τῇ διδαχῇ αὐτοῦ", "thai": "ในคำสอนของพระองค์", "rationale": "διδαχή = teaching/instruction (content). Thai 'คำสอน' standard. Per uW writing-quotations: introduces Jesus' direct speech that follows."}
+      ],
+      "notes": "Plural παραβολαῖς signals a cluster of parables (the Sower first, then the seed-growing, mustard seed, lamp-sayings)."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 4:3",
+    "chapter": 4,
+    "verse": 3,
+    "greek": "Ἀκούετε. ἰδοὺ ἐξῆλθεν ὁ σπείρων σπεῖραι.",
+    "bsb_english": "\"Listen! A farmer went out to sow his seed.",
+    "translation": {
+      "thai": "'จงฟังเถิด ดูเถิด ชาวนาคนหนึ่งออกไปหว่านพืช",
+      "key_decisions": [
+        {"greek": "Ἀκούετε (pres. impv. pl.)", "thai": "จงฟังเถิด", "rationale": "Plural imperative addressed to the crowd. Per uW figs-imperative: attention-getter — 'pay attention to this.' Thai 'จงฟังเถิด' (formal imperative 'listen') with attention-particle 'เถิด.' Echoes the Shema (Deut 6:4, 'Ἄκουε Ισραηλ') — Jesus' sermon opens with an echo of covenantal summons."},
+        {"greek": "ἰδού", "thai": "ดูเถิด", "rationale": "Attention-getter (per uW) — second attention call after Ἀκούετε. Thai 'ดูเถิด' standard. The double attention-signal stresses the importance of what follows."},
+        {"greek": "ὁ σπείρων", "thai": "ชาวนาคนหนึ่ง", "rationale": "Articular pres. ptcp. 'the sower' = a specific/representative figure (per uW writing-participants: generic type introduced). BSB 'a farmer.' Thai 'ชาวนา' (farmer/peasant) natural; 'คนหนึ่ง' (a certain one) introduces as a narrative participant. In v.14 the sower will be interpreted as the word-proclaimer — preserving the open form here is critical."},
+        {"greek": "σπεῖραι (aor. inf. of purpose)", "thai": "หว่านพืช", "rationale": "σπείρω = 'sow.' Thai 'หว่าน' (scatter-sow) standard agricultural verb. 'พืช' (crop/seed) supplied for clarity. Per uW v.4: the sowing technique is broadcast-scattering — handfuls thrown over soil. Thai farming context recognizes the same method."},
+        {"greek": "Jesus teaching crowd (opening a parable)", "thai": "(opening single quote — continues in v.9)", "rationale": "Jesus addresses the crowd in peer-level formal speech. The direct-quotation frame opens here and closes at v.9's 'ἀκουέτω.'"}
+      ],
+      "notes": "Opens the Parable of the Sower (vv. 3–9). The double 'Listen! Behold!' frames this as Jesus' most structured teaching-parable — one he will later say is foundational ('do you not understand THIS parable? How then will you understand all the parables?' v.13)."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 4:4",
+    "chapter": 4,
+    "verse": 4,
+    "greek": "καὶ ἐγένετο ἐν τῷ σπείρειν ὃ μὲν ἔπεσεν παρὰ τὴν ὁδόν, καὶ ἦλθεν τὰ πετεινὰ καὶ κατέφαγεν αὐτό.",
+    "bsb_english": "And as he was sowing, some seed fell along the path, and the birds came and devoured it.",
+    "translation": {
+      "thai": "ขณะที่เขาหว่านอยู่นั้น เมล็ดบ้างก็ตกตามทาง นกก็มาจิกกินเสียหมด",
+      "key_decisions": [
+        {"greek": "ἐν τῷ σπείρειν (art. inf. w/ ἐν)", "thai": "ขณะที่...หว่านอยู่", "rationale": "Temporal articular infinitive 'while sowing.' Thai 'ขณะที่...อยู่' (while-[action]-continuous) captures the contemporaneous action."},
+        {"greek": "ὃ μὲν ἔπεσεν", "thai": "เมล็ดบ้างก็ตก", "rationale": "Per uW figs-nominaladj: ὅ (some) = 'some seed.' μέν anticipates δέ/ἄλλος series (the four soils). Thai 'บ้าง' (some, partitive) captures the 'some...some...' contrast pattern established here."},
+        {"greek": "παρὰ τὴν ὁδόν", "thai": "ตามทาง", "rationale": "παρά + acc. 'alongside.' Per uW figs-explicit: the path is hard-packed earth beside the field — seeds don't sink in. Thai 'ตามทาง' (along-path) natural; 'ทาง' doubles as both 'path' and (in v.15 interpretation) 'roadside people.'"},
+        {"greek": "ἦλθεν τὰ πετεινὰ καὶ κατέφαγεν αὐτό", "thai": "นกก็มาจิกกินเสียหมด", "rationale": "κατεσθίω = 'eat up completely, devour' (intensive κατα-). τὰ πετεινά generic 'birds' (per uW figs-genericnoun). Thai 'นก' (birds, unmarked for number — natural). 'จิกกิน' (peck-eat) = birds' specific feeding action; 'เสียหมด' (utterly-done) captures κατα- intensive + perfective sense. αὐτό sg. referring to sg. form but collective seeds — Thai's zero-reference is natural."}
+      ]
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 4:5",
+    "chapter": 4,
+    "verse": 5,
+    "greek": "καὶ ἄλλο ἔπεσεν ἐπὶ τὸ πετρῶδες ὅπου οὐκ εἶχεν γῆν πολλήν, καὶ εὐθὺς ἐξανέτειλεν διὰ τὸ μὴ ἔχειν βάθος γῆς·",
+    "bsb_english": "Some fell on rocky ground, where it did not have much soil. It sprang up quickly because the soil was shallow.",
+    "translation": {
+      "thai": "บ้างก็ตกบนพื้นหิน ที่ซึ่งมีดินไม่มาก และงอกขึ้นทันที เพราะดินตื้น",
+      "key_decisions": [
+        {"greek": "ἄλλο", "thai": "บ้าง", "rationale": "Continuation of the 'some...some' pattern from v.4. Per uW figs-nominaladj: 'some of the rest of the seed.' Thai 'บ้าง' consistent."},
+        {"greek": "τὸ πετρῶδες", "thai": "พื้นหิน", "rationale": "Per uW v.5 figs-explicit: a thin layer of soil on top of rocks, not a pile of stones on top of soil. Thai 'พื้นหิน' (rock-ground / rocky surface) captures 'rocky area.' Common in Galilean limestone terrain."},
+        {"greek": "οὐκ εἶχεν γῆν πολλήν", "thai": "มีดินไม่มาก", "rationale": "'It didn't have much soil.' Thai 'ดินไม่มาก' (soil not-much) natural. 'ดิน' (soil/earth) doubles as both 'soil' and 'earth' — echoing the same word throughout the parable."},
+        {"greek": "εὐθὺς ἐξανέτειλεν", "thai": "งอกขึ้นทันที", "rationale": "Mark's signature εὐθύς. ἐξανατέλλω = 'spring up, sprout' (intensive ἐξ-). Per uW figs-idiom. Thai 'งอกขึ้น' (sprout-up) standard agricultural verb; 'ทันที' (immediately) — note the IRONY Mark is building: the speed that looks promising is actually the mark of rootlessness."},
+        {"greek": "διὰ τὸ μὴ ἔχειν βάθος γῆς", "thai": "เพราะดินตื้น", "rationale": "Causal infinitive 'because it did not have depth of soil.' Per uW grammar-connect-logic-result: the shallowness causes both the quick sprouting AND the later withering. Thai 'ดินตื้น' (soil shallow) — 'ตื้น' (shallow) is the natural Thai antonym of 'ลึก' (deep)."}
+      ]
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 4:6",
+    "chapter": 4,
+    "verse": 6,
+    "greek": "καὶ ὅτε ἀνέτειλεν ὁ ἥλιος ἐκαυματίσθη καὶ διὰ τὸ μὴ ἔχειν ῥίζαν ἐξηράνθη.",
+    "bsb_english": "But when the sun rose, the seedlings were scorched, and they withered because they had no root.",
+    "translation": {
+      "thai": "แต่พอดวงอาทิตย์ขึ้น ต้นอ่อนก็ถูกแผดเผา และเพราะไม่มีราก จึงเหี่ยวแห้งไป",
+      "key_decisions": [
+        {"greek": "ἀνέτειλεν ὁ ἥλιος", "thai": "พอดวงอาทิตย์ขึ้น", "rationale": "Temporal clause 'when the sun rose.' Per uW figs-idiom: sun came up in the morning. Thai 'พอ...' (as soon as) + 'ดวงอาทิตย์ขึ้น' (sun rises) natural."},
+        {"greek": "ἐκαυματίσθη (aor. pass.)", "thai": "ต้นอ่อนก็ถูกแผดเผา", "rationale": "καυματίζω = 'scorch, burn up' (aor. pass. — per uW v.6 implicitly by the sun). Thai 'ต้นอ่อน' (young sprout) made explicit — Greek has zero-subject referring back to the sprouts; Thai benefits from the explicit noun. 'ถูกแผดเผา' (be scorched/burned) passive preserves agent-less Greek."},
+        {"greek": "διὰ τὸ μὴ ἔχειν ῥίζαν", "thai": "เพราะไม่มีราก", "rationale": "Causal infinitive 'because of not having a root.' Per uW figs-hyperbole: 'no root' is a generalization — they had shallow roots. Thai 'ไม่มีราก' (no root) preserves the generalization. Don't soften — parallel structure with vv.5, 17, 21, 31 all use literal hyperbole."},
+        {"greek": "ἐξηράνθη (aor. pass.)", "thai": "จึงเหี่ยวแห้งไป", "rationale": "ξηραίνω = 'dry up, wither' (same verb family as ἐξηραμμένην in Mark 3:1 for the withered hand). Aorist passive 'was withered.' Thai 'เหี่ยวแห้ง' (wilt-dry) — natural for plants (vs. 'ลีบ' which is specifically for atrophied limbs). 'ไป' (aspectual completion particle) marks the completed state."}
+      ],
+      "notes": "LEXICAL ECHO: ξηραίνω used here for plant-withering and in Mark 3:1 for withered hand. Thai differentiates: 'เหี่ยวแห้ง' for plants, 'ลีบ' for limbs — the Greek lexical unity is lost in Thai but could not be preserved without unnatural language."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 4:7",
+    "chapter": 4,
+    "verse": 7,
+    "greek": "καὶ ἄλλο ἔπεσεν εἰς τὰς ἀκάνθας, καὶ ἀνέβησαν αἱ ἄκανθαι καὶ συνέπνιξαν αὐτό, καὶ καρπὸν οὐκ ἔδωκεν.",
+    "bsb_english": "Other seed fell among thorns, which grew up and choked the seedlings, and they yielded no crop.",
+    "translation": {
+      "thai": "บ้างก็ตกในพงหนาม พงหนามขึ้นมาปกคลุม ปรากฏว่าไม่มีผลใดๆ",
+      "key_decisions": [
+        {"greek": "εἰς τὰς ἀκάνθας", "thai": "ในพงหนาม", "rationale": "ἄκανθα = thorny plant, thistle. Definite plural = 'the thorns' (the thorn-patch in the scene). Thai 'พงหนาม' (thicket-thorn = thorn-bush/thorn-thicket) more natural than 'หนาม' alone; 'พง' suggests the dense overgrowth implied by the parable."},
+        {"greek": "ἀνέβησαν αἱ ἄκανθαι καὶ συνέπνιξαν αὐτό", "thai": "พงหนามขึ้นมาปกคลุม", "rationale": "ἀναβαίνω (of plants) 'grow up'; συμπνίγω 'choke together, throttle' (σύν = 'with/thoroughly' intensive). Per uW figs-explicit: thorns grew fast, taking light/water/nutrients; the good plant couldn't grow. Thai 'ขึ้นมาปกคลุม' (grow up-cover over) captures the domination by thorns without the anatomical 'throttle' image — more natural. An alternate 'รัดจนตาย' (strangle-to-death) would be too graphic for a seedling; 'ปกคลุม' (cover/overshadow) is the idiomatic Thai for this kind of competitive shading."},
+        {"greek": "καρπὸν οὐκ ἔδωκεν", "thai": "ปรากฏว่าไม่มีผลใดๆ", "rationale": "'Did not give fruit.' Per uW figs-explicit: the crop failed (no more seeds). Thai 'ผล' (fruit/result) dual-use — both agricultural 'crop' and metaphorical 'result,' letting the parable's double-meaning work naturally in Thai. 'ปรากฏว่า' (it turned out that) adds narrative finality; 'ใดๆ' (any) emphasizes the total failure."}
+      ]
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 4:8",
+    "chapter": 4,
+    "verse": 8,
+    "greek": "καὶ ἄλλα ἔπεσεν εἰς τὴν γῆν τὴν καλήν, καὶ ἐδίδου καρπὸν ἀναβαίνοντα καὶ αὐξανόμενα, καὶ ἔφερεν ἓν τριάκοντα καὶ ἓν ἑξήκοντα καὶ ἓν ἑκατόν.",
+    "bsb_english": "Still other seed fell on good soil, where it sprouted, grew up, and produced a crop—one bearing thirtyfold, another sixtyfold, and another a hundredfold.\"",
+    "translation": {
+      "thai": "และบ้างก็ตกในดินดี งอกงามเติบโตขึ้นและออกผล บ้างสามสิบเท่า บ้างหกสิบเท่า บ้างร้อยเท่า'",
+      "key_decisions": [
+        {"greek": "ἄλλα (pl.!)", "thai": "บ้างก็", "rationale": "Neuter PLURAL shift from earlier singular ἄλλο (vv.5, 7). Per uW grammar-collectivenouns: Greek sg./pl. alternation is stylistic — the referent is the collective seed. Thai 'บ้าง' stays uniform; the plural Greek hints at abundance in the 'good soil' category (more than one seed succeeds)."},
+        {"greek": "εἰς τὴν γῆν τὴν καλήν", "thai": "ในดินดี", "rationale": "γῆ καλή = 'good soil.' Thai 'ดินดี' (soil good) simple and natural. The article 'τήν' (the) could be translated 'ที่ดี' but 'ดินดี' is more idiomatic for this agricultural category."},
+        {"greek": "ἐδίδου καρπὸν ἀναβαίνοντα καὶ αὐξανόμενα", "thai": "งอกงามเติบโตขึ้นและออกผล", "rationale": "Per uW grammar-connect-time-sequential + figs-doublet: 'growing up and being increased' are a doublet for emphasis. ἀναβαίνω 'come up'; αὐξάνω 'grow/increase.' Rearranged per uW suggestion: the sprouting/growing came before the fruit-bearing. Thai 'งอกงาม' (sprout-beautifully / flourish) + 'เติบโตขึ้น' (grow-up) compresses the doublet into natural Thai while preserving the sense of vigorous growth. 'และออกผล' (and bear fruit) for ἐδίδου καρπόν."},
+        {"greek": "ἔφερεν ἓν τριάκοντα καὶ ἓν ἑξήκοντα καὶ ἓν ἑκατόν", "thai": "บ้างสามสิบเท่า บ้างหกสิบเท่า บ้างร้อยเท่า", "rationale": "ἔφερεν 'was bearing'; ἓν = 'one' (per uW figs-nominaladj: one plant bearing that amount). Per uW figs-explicit: each PLANT produced 30/60/100 SEEDS — not three total plants. Thai 'บ้าง...บ้าง...บ้าง' (some...some...some) three-way distribution with 'เท่า' (times) = times-yield. Standard Thai biblical numerical pattern. 'เท่า' preserves the fold-multiplication sense — these aren't absolute counts but multiples of what was sown. Scholars note these are realistic-but-high yields for first-century Palestine (4–5× was typical)."}
+      ],
+      "notes": "The three-tier yield (30/60/100) within the good-soil category suggests that even faithful hearing produces varied fruitfulness — not all disciples produce equally, but all produce. The parable does not fault lower-yield disciples."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 4:9",
+    "chapter": 4,
+    "verse": 9,
+    "greek": "καὶ ἔλεγεν· Ὃς ἔχει ὦτα ἀκούειν ἀκουέτω.",
+    "bsb_english": "Then Jesus said, \"He who has ears to hear, let him hear.\"",
+    "translation": {
+      "thai": "แล้วพระองค์ตรัสว่า 'ผู้ใดมีหูสำหรับฟัง ก็จงฟังเถิด'",
+      "key_decisions": [
+        {"greek": "ἔλεγεν (imperf.)", "thai": "ตรัสว่า", "rationale": "Royal 'ตรัส.' Imperfect with speech verb — Markan narrative device for punctuating sayings."},
+        {"greek": "Ὃς ἔχει ὦτα ἀκούειν", "thai": "ผู้ใดมีหูสำหรับฟัง", "rationale": "Per uW figs-metonymy: 'ears to hear' = willingness/capacity to understand and obey. Thai 'ผู้ใดมีหูสำหรับฟัง' preserves the metonymy — Thai readers recognize this as biblical Jesus-speech and do not need the metaphor decoded. 'สำหรับฟัง' (for-hearing) purpose-infinitive; natural."},
+        {"greek": "ἀκουέτω (3p. impv.)", "thai": "ก็จงฟังเถิด", "rationale": "Per uW figs-imperative3p / figs-123person: 3rd-person imperative can be rendered as 2nd-person in some languages. Thai 'จงฟังเถิด' (emphatic imperative 'listen!') works as a 3rd-person imperative in Thai, keeping the generalizing/gnomic feel that Greek intends. Recurring phrase — same rendering at v.23 for consistency."}
+      ],
+      "notes": "Standard concluding formula for a parable — recurring at v.23 and Mark 7:16 (in some mss). Signals the parable has embedded meaning that requires active listening to grasp. Per RULES.md §4, this phrase will be consistent across all gospel chapters as Mark-style."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 4:10",
+    "chapter": 4,
+    "verse": 10,
+    "greek": "Καὶ ὅτε ἐγένετο κατὰ μόνας, ἠρώτων αὐτὸν οἱ περὶ αὐτὸν σὺν τοῖς δώδεκα τὰς παραβολάς.",
+    "bsb_english": "As soon as Jesus was alone with the Twelve and those around Him, they asked Him about the parable.",
+    "translation": {
+      "thai": "เมื่อพระองค์ประทับอยู่ตามลำพัง บรรดาสาวกที่อยู่รอบพระองค์พร้อมกับสาวกสิบสองคน ก็ทูลถามพระองค์เรื่องคำอุปมาเหล่านั้น",
+      "key_decisions": [
+        {"greek": "κατὰ μόνας", "thai": "ประทับอยู่ตามลำพัง", "rationale": "Idiom 'alone.' Per uW figs-explicit: not absolutely alone — the crowd dispersed, leaving the inner circle. Thai 'ประทับ' (royal 'sit/stay') + 'ตามลำพัง' (on one's own / alone) preserves royal register while conveying the scene."},
+        {"greek": "οἱ περὶ αὐτὸν σὺν τοῖς δώδεκα", "thai": "บรรดาสาวกที่อยู่รอบพระองค์พร้อมกับสาวกสิบสองคน", "rationale": "'Those around him with the Twelve' — per uW: broader disciple group + the Twelve. Thai 'บรรดาสาวกที่อยู่รอบพระองค์' (the disciples around him) + 'พร้อมกับสาวกสิบสองคน' (together with the twelve disciples) makes the two groups explicit. 'สาวก' supplied for clarity — the Greek says 'those around him' which in Markan context is unmistakably the disciple circle."},
+        {"greek": "ἠρώτων (imperf.)", "thai": "ทูลถาม", "rationale": "ἐρωτάω 'ask.' Imperfect = ongoing/repeated asking. Per glossary (1 Timothy context): 'ทูลถาม' = royal-inquire — disciples addressing Jesus respectfully."},
+        {"greek": "τὰς παραβολάς (pl.)", "thai": "คำอุปมาเหล่านั้น", "rationale": "PLURAL 'the parables' — not just the Sower (singular would be ταύτην τὴν παραβολήν). Per uW v.13 rephrasing confirms Jesus understands them as asking about the whole parabolic teaching. Thai 'คำอุปมาเหล่านั้น' (those parables) plural. BSB 'the parable' (sg.) — we follow SBLGNT's plural."},
+        {"greek": "Greek text variant", "thai": "(see notes)", "rationale": "SBLGNT τὰς παραβολάς (pl.); Byzantine reading τὴν παραβολήν (sg.) or περὶ τῆς παραβολῆς. Our translation follows SBLGNT plural. BSB's singular is a free translation from a different text-critical decision."}
+      ],
+      "notes": "TEXTUAL VARIANT: τὰς παραβολάς (SBLGNT pl., ℵ, B, C, L) vs. τὴν παραβολήν / περὶ τῆς παραβολῆς (A, D, W, Byz — sg.). SBLGNT reading is preferred (harder reading; Byz smoothed to match Jesus' response in v.13 which treats one parable as representative). Our translation keeps plural."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 4:11",
+    "chapter": 4,
+    "verse": 11,
+    "greek": "καὶ ἔλεγεν αὐτοῖς· Ὑμῖν τὸ μυστήριον δέδοται τῆς βασιλείας τοῦ θεοῦ· ἐκείνοις δὲ τοῖς ἔξω ἐν παραβολαῖς τὰ πάντα γίνεται,",
+    "bsb_english": "He replied, \"The mystery of the kingdom of God has been given to you, but to those on the outside everything is expressed in parables,",
+    "translation": {
+      "thai": "พระองค์ตรัสกับพวกเขาว่า 'ข้อล้ำลึกแห่งอาณาจักรของพระเจ้านั้น ทรงโปรดประทานแก่พวกท่านแล้ว แต่สำหรับคนภายนอก ทุกสิ่งล้วนเป็นคำอุปมา",
+      "key_decisions": [
+        {"greek": "τὸ μυστήριον (sg.)", "thai": "ข้อล้ำลึก", "rationale": "Per glossary (1 Timothy 3:9, 3:16): 'ข้อล้ำลึก' (matter-of-hidden-depth) — standard Thai biblical rendering for μυστήριον. SBLGNT has singular τὸ μυστήριον; some mss (Byz) have τὰ μυστήρια (plural). Mark's theology: there is ONE central mystery (Jesus himself / the kingdom inaugurated in him), not multiple occult secrets."},
+        {"greek": "τῆς βασιλείας τοῦ θεοῦ", "thai": "แห่งอาณาจักรของพระเจ้า", "rationale": "Per glossary: 'อาณาจักรของพระเจ้า.' 'แห่ง' (of/pertaining to) slightly more literary than 'ของ' — fits the μυστήριον phrase. Per uW figs-possession: the mystery ABOUT / concerning the kingdom."},
+        {"greek": "δέδοται (perf. pass.)", "thai": "ทรงโปรดประทาน...แล้ว", "rationale": "Perfect passive 'has been given' (abiding state). Per uW figs-activepassive: implicit divine agent. Thai 'ทรงโปรดประทาน' (royal-graciously-bestow) makes the divine agency explicit as royal action + 'แล้ว' (perfective particle) preserves the perfect-tense's already-accomplished-and-continuing sense. Standard royal Thai for God's gracious giving."},
+        {"greek": "ἐκείνοις τοῖς ἔξω", "thai": "สำหรับคนภายนอก", "rationale": "Per uW figs-metaphor: 'those outside' = not-disciples. Thai 'คนภายนอก' (outsiders) preserves the spatial metaphor that Mark uses — the gathered inner circle vs. the crowds. 'สำหรับ' (for/regarding) standard prepositional frame."},
+        {"greek": "ἐν παραβολαῖς τὰ πάντα γίνεται", "thai": "ทุกสิ่งล้วนเป็นคำอุปมา", "rationale": "'In parables everything happens/becomes.' Per uW figs-explicit: what Jesus teaches comes to them in parable form. Thai 'ทุกสิ่งล้วนเป็นคำอุปมา' (everything entirely is-parable) — 'ล้วน' (entirely/altogether) preserves the totalizing force of 'τὰ πάντα.' 'γίνεται' (becomes/happens) rendered as 'เป็น' (is) — Thai copula covers the continuing sense."}
+      ],
+      "notes": "TEXTUAL VARIANT: SBLGNT τὸ μυστήριον (sg.); Byzantine τὰ μυστήρια (pl., harmonized with Matt 13:11 / Luke 8:10). Our translation follows SBLGNT. Theologically: Mark's one-μυστήριον differs from Matthew/Luke's plural — Mark's mystery is arguably Jesus himself as the inbreaking kingdom, undifferentiated into multiple teachings. The word μυστήριον here does NOT mean 'mysterious' (English connotation); it means 'revealed secret once hidden.'"
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 4:12",
+    "chapter": 4,
+    "verse": 12,
+    "greek": "ἵνα βλέποντες βλέπωσι καὶ μὴ ἴδωσιν, καὶ ἀκούοντες ἀκούωσι καὶ μὴ συνιῶσιν, μήποτε ἐπιστρέψωσιν καὶ ἀφεθῇ αὐτοῖς.",
+    "bsb_english": "so that, 'they may be ever seeing but never perceiving, and ever hearing but never understanding; otherwise they might turn and be forgiven.'\"",
+    "translation": {
+      "thai": "เพื่อว่า \"เมื่อมองดูก็ดูอยู่แต่ไม่เห็น เมื่อได้ยินก็ได้ยินแต่ไม่เข้าใจ เกรงว่าพวกเขาจะกลับใจและได้รับการยกโทษ\"'",
+      "key_decisions": [
+        {"greek": "ἵνα (purpose)", "thai": "เพื่อว่า", "rationale": "Per uW grammar-connect-logic-goal: introduces the purpose of teaching in parables to outsiders. Also introduces an OT quotation (uW writing-quotations). Thai 'เพื่อว่า' (so that) preserves the purpose-clause force. The notorious difficulty of this verse: does ἵνα mean 'in order that' (causal — Jesus intentionally uses parables to blind) or 'with the result that' (ecbatic — the parables have the effect of veiling)? Our translation preserves the ambiguity via 'เพื่อว่า,' which is the natural Thai for both. Following the Isaianic context, we lean interpretively toward a mixed reading: the parables sort responsive hearers from hardened ones."},
+        {"greek": "OT CITATION (Isa 6:9–10)", "thai": "(rendered with inner-quotes)", "rationale": "Jesus quotes Isa 6:9–10, a prophetic passage about Israel's hardening. Mark's Greek diverges from LXX Isa 6:9–10: where LXX has ἰάσομαι αὐτούς ('I will heal them'), Mark has ἀφεθῇ αὐτοῖς ('it might be forgiven them' — passive). Thai punctuation marks the OT quotation with double-guillemet/Thai-curly quotes within the single quote of Jesus' speech."},
+        {"greek": "βλέποντες βλέπωσι καὶ μὴ ἴδωσιν", "thai": "เมื่อมองดูก็ดูอยู่แต่ไม่เห็น", "rationale": "Per uW figs-reduplication: Hebrew infinitive-absolute construction 'seeing, they may see' = intensive 'they surely look.' Thai 'เมื่อมองดูก็ดูอยู่' (when looking, [they] keep looking) preserves the reduplicative intensity. The clever Greek/Hebrew play 'look-but-not-see' transfers naturally into Thai: 'ดู' vs. 'เห็น' — 'ดู' = perform the action of looking; 'เห็น' = perceive. Preserves the perception/comprehension contrast."},
+        {"greek": "ἀκούοντες ἀκούωσι καὶ μὴ συνιῶσιν", "thai": "เมื่อได้ยินก็ได้ยินแต่ไม่เข้าใจ", "rationale": "Parallel to the seeing-clause. συνίημι = 'understand, comprehend.' Thai 'ได้ยิน' (hear) vs. 'เข้าใจ' (understand) — captures the hear-but-don't-understand antithesis that is foundational to Mark's messianic-secret and parable theology."},
+        {"greek": "μήποτε ἐπιστρέψωσιν", "thai": "เกรงว่าพวกเขาจะกลับใจ", "rationale": "μήποτε + subj. = 'lest / for fear that.' Per uW figs-metaphor: ἐπιστρέφω 'turn back' = repent (same sense as Mark 1:4's μετανοέω). Thai 'เกรงว่า' (lest / for fear that) + 'กลับใจ' (repent, per glossary) — maintains the OT Isaianic theological vocabulary. The harshness of 'lest they turn' is what makes this verse theologically difficult; we preserve it."},
+        {"greek": "ἀφεθῇ αὐτοῖς (aor. pass. impers.)", "thai": "ได้รับการยกโทษ", "rationale": "Per uW figs-activepassive: implicit divine agent. Thai 'ได้รับการยกโทษ' (receive forgiveness) per glossary 'การยกโทษ / การอภัย' (Mark rules §4). NOTE: Mark's ἀφεθῇ ('be forgiven') differs from LXX Isa 6:10's ἰάσομαι ('I will heal'). Mark (following Targum tradition) substitutes 'forgive' for 'heal' — an interpretive shift that reads physical healing as spiritual restoration. Flag this as a Markan Targumic reading."}
+      ],
+      "notes": "OT CITATION: Isaiah 6:9–10 LXX (adapted). Mark's text diverges from LXX in using ἀφεθῇ αὐτοῖς (passive 'be forgiven') rather than LXX ἰάσομαι αὐτούς (active 'I will heal'). This aligns with Targum Jonathan on Isaiah 6:10, which reads 'be forgiven' in place of 'be healed' — suggesting Mark draws on an Aramaic paraphrase tradition rather than pure LXX. The substitution theologically equates physical healing with spiritual forgiveness. THEOLOGICAL CRUX: The ἵνα clause has been debated for two millennia. Three readings: (1) strict purpose — parables are INTENDED to harden outsiders; (2) result — parables HAPPEN to harden those predisposed to reject; (3) ironic — Jesus speaks as Isaiah did, knowing many will not hear. Mark 4:33–34 tempers this: Jesus wanted them to understand as much as they could bear. The Thai translation preserves the difficulty with 'เพื่อว่า' without forcing resolution."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 4:13",
+    "chapter": 4,
+    "verse": 13,
+    "greek": "Καὶ λέγει αὐτοῖς· Οὐκ οἴδατε τὴν παραβολὴν ταύτην, καὶ πῶς πάσας τὰς παραβολὰς γνώσεσθε;",
+    "bsb_english": "Then Jesus said to them, \"Do you not understand this parable? Then how will you understand any of the parables?",
+    "translation": {
+      "thai": "พระองค์ตรัสกับพวกเขาว่า 'พวกท่านยังไม่เข้าใจคำอุปมานี้หรือ? แล้วพวกท่านจะเข้าใจคำอุปมาทั้งหมดได้อย่างไร?'",
+      "key_decisions": [
+        {"greek": "λέγει (hist. pres.)", "thai": "ตรัสกับพวกเขา", "rationale": "Historic present (per uW v.13). Royal 'ตรัส.'"},
+        {"greek": "Οὐκ οἴδατε τὴν παραβολὴν ταύτην... (rhet. q.)", "thai": "พวกท่านยังไม่เข้าใจคำอุปมานี้หรือ?", "rationale": "Per uW figs-rquestion: rhetorical question rebuking the disciples. Thai preserves the question form — 'หรือ' (question particle) at end. 'ยัง' (still / yet not) adds the implied temporal reproach. Jesus to his disciples — 'พวกท่าน' (formal 2nd-person plural), the same register used with the Twelve throughout Mark."},
+        {"greek": "πῶς πάσας τὰς παραβολὰς γνώσεσθε; (rhet. q.)", "thai": "แล้วพวกท่านจะเข้าใจคำอุปมาทั้งหมดได้อย่างไร?", "rationale": "Per uW figs-rquestion: second rhetorical question intensifies the rebuke. The Sower is the foundational parable — missing it means missing all. Thai 'จะ...ได้อย่างไร' preserves the rhetorical incredulity."},
+        {"greek": "Jesus to disciples (corrective)", "thai": "พวกท่าน", "rationale": "Per glossary: Jesus to disciples = 'พวกท่าน' (formal-plural-respectful). Corrective tone. Consistent with Mark 2:8."}
+      ],
+      "notes": "Jesus rebukes the disciples' incomprehension — a recurring Markan theme (cf. 6:52, 7:18, 8:17–21). Mark alone (not Matthew or Luke) preserves this sharp rebuke. The Sower parable functions as a meta-parable: grasping it unlocks all the others. Possible reason: it defines the dynamic of hearing/responding, which is the premise of all parables."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 4:14",
+    "chapter": 4,
+    "verse": 14,
+    "greek": "ὁ σπείρων τὸν λόγον σπείρει.",
+    "bsb_english": "The farmer sows the word.",
+    "translation": {
+      "thai": "ผู้หว่านนั้นหว่านพระวจนะ",
+      "key_decisions": [
+        {"greek": "ὁ σπείρων", "thai": "ผู้หว่าน", "rationale": "Articular present participle 'the sower.' Shift from 'ชาวนา' (v.3, concrete agrarian figure) to 'ผู้หว่าน' (abstract figure = 'the-one-sowing'). This is deliberate: in v.3 Jesus paints a scene; in v.14 he DECODES, revealing the sower as a symbolic figure. The Thai shift from agricultural 'ชาวนา' to role-based 'ผู้หว่าน' mirrors the Greek narrative-to-allegory transition. Per uW: the sower could be Jesus, God, or any gospel proclaimer — keep generic."},
+        {"greek": "τὸν λόγον σπείρει", "thai": "หว่านพระวจนะ", "rationale": "Per glossary Mark 2:2: τὸν λόγον = 'พระวจนะ' (sacred Word — Mark's shorthand for the gospel-proclamation). Per uW figs-metonymy: 'the word' = gospel taught verbally. Thai 'พระวจนะ' preserves the divine-word weight without over-specifying. 'หว่าน' same verb as in v.3 — the sowing metaphor begins literal and becomes gospel-proclamation in the explanation."},
+        {"greek": "Metaphor -> simile option", "thai": "(preserved as metaphor)", "rationale": "Per uW figs-metaphor note: some languages need a simile ('the sower is LIKE a word-sower'). Thai can carry the metaphor as-is — 'ผู้หว่านนั้นหว่านพระวจนะ' is natural as a parabolic decoding. Don't flatten into simile."}
+      ],
+      "notes": "Four-word Greek saying functions as the hermeneutical key: the rest of the explanation identifies the soils, but the sowing itself = gospel proclamation. Jesus introduces himself and his gospel-proclaimers as the 'sower.'"
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 4:15",
+    "chapter": 4,
+    "verse": 15,
+    "greek": "οὗτοι δέ εἰσιν οἱ παρὰ τὴν ὁδὸν ὅπου σπείρεται ὁ λόγος, καὶ ὅταν ἀκούσωσιν εὐθὺς ἔρχεται ὁ Σατανᾶς καὶ αἴρει τὸν λόγον τὸν ἐσπαρμένον εἰς αὐτούς.",
+    "bsb_english": "Some are like the seeds along the path, where the word is sown. As soon as they hear it, Satan comes and takes away the word that was sown in them.",
+    "translation": {
+      "thai": "คนเหล่านี้คือเมล็ดที่ตกตามทาง ที่ซึ่งพระวจนะถูกหว่านลง และเมื่อพวกเขาได้ยิน ซาตานก็มาเอาพระวจนะที่หว่านลงในพวกเขานั้นไปในทันที",
+      "key_decisions": [
+        {"greek": "οὗτοι...εἰσιν οἱ παρὰ τὴν ὁδόν", "thai": "คนเหล่านี้คือเมล็ดที่ตกตามทาง", "rationale": "Per uW figs-metaphor: Jesus equates people with seeds-in-locations. Thai preserves the metaphor: 'คนเหล่านี้คือเมล็ดที่ตกตามทาง' ('these people are [like] the seeds that fell along the path'). Inserting 'เมล็ดที่ตก' (seeds that fell) for explicit continuity with v.4's imagery, while keeping the metaphorical identification Jesus intends."},
+        {"greek": "ὅπου σπείρεται ὁ λόγος (pres. pass.)", "thai": "ที่ซึ่งพระวจนะถูกหว่านลง", "rationale": "Passive 'where the word is sown.' Per uW figs-activepassive. Thai 'ถูกหว่านลง' (be-sown-down) preserves passive. 'พระวจนะ' per glossary."},
+        {"greek": "ὅταν ἀκούσωσιν (ὅταν + aor. subj.)", "thai": "เมื่อพวกเขาได้ยิน", "rationale": "Indefinite temporal 'whenever they hear.' Thai 'เมื่อพวกเขาได้ยิน' (when they hear) natural."},
+        {"greek": "εὐθὺς ἔρχεται ὁ Σατανᾶς", "thai": "ซาตานก็มา...ในทันที", "rationale": "Mark's signature εὐθύς (immediately). Per glossary: 'ซาตาน.' Word order: Thai puts 'ในทันที' at end for emphasis (Thai preference)."},
+        {"greek": "αἴρει τὸν λόγον τὸν ἐσπαρμένον εἰς αὐτούς", "thai": "เอาพระวจนะที่หว่านลงในพวกเขานั้นไป", "rationale": "αἴρω = 'take away, remove.' Per uW figs-metaphor: Satan as bird-like figure snatching seeds. Perfect passive participle ἐσπαρμένον = 'which-has-been-sown.' 'εἰς αὐτούς' = 'into them' (inner state, not just hearing). Thai 'หว่านลงในพวกเขา' (sown-down into them) preserves the interior aspect — it was in them, though briefly — and that's what Satan snatches."}
+      ],
+      "notes": "First of four soil-to-people interpretations. Note: the interpretation is NOT strictly allegorical — seeds=word AND seeds=people both operate simultaneously ('these ARE the ones beside the path'). The parable works as a picture of how people respond to the gospel."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 4:16",
+    "chapter": 4,
+    "verse": 16,
+    "greek": "καὶ οὗτοί εἰσιν ὁμοίως οἱ ἐπὶ τὰ πετρώδη σπειρόμενοι, οἳ ὅταν ἀκούσωσιν τὸν λόγον εὐθὺς μετὰ χαρᾶς λαμβάνουσιν αὐτόν,",
+    "bsb_english": "Some are like the seeds sown on rocky ground. They hear the word and at once receive it with joy.",
+    "translation": {
+      "thai": "ในทำนองเดียวกัน คนเหล่านี้คือเมล็ดที่หว่านบนพื้นหิน เมื่อได้ยินพระวจนะก็รับไว้ด้วยความยินดีในทันที",
+      "key_decisions": [
+        {"greek": "ὁμοίως", "thai": "ในทำนองเดียวกัน", "rationale": "'Similarly, in like manner.' Per uW grammar-connect-words-phrases: parallelism to v.15. Thai 'ในทำนองเดียวกัน' (in-similar-manner) standard transitional."},
+        {"greek": "οἱ ἐπὶ τὰ πετρώδη σπειρόμενοι (pres. pass. ptcp.)", "thai": "เมล็ดที่หว่านบนพื้นหิน", "rationale": "Per uW figs-simile: 'those being sown on the rocky ground.' πετρώδη per v.5 = 'พื้นหิน.' Preserving 'เมล็ด' (seed) for metaphoric clarity."},
+        {"greek": "εὐθύς", "thai": "ในทันที", "rationale": "Mark's εὐθύς again — here describing quick reception (ironically premature enthusiasm)."},
+        {"greek": "μετὰ χαρᾶς λαμβάνουσιν αὐτόν", "thai": "รับไว้ด้วยความยินดี", "rationale": "Per uW figs-abstractnouns: χαρά = joy. Thai 'ความยินดี' (joy) standard abstract noun. 'รับไว้' (receive-keep) preserves λαμβάνω's capture-sense — they took it on but will not hold it."}
+      ]
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 4:17",
+    "chapter": 4,
+    "verse": 17,
+    "greek": "καὶ οὐκ ἔχουσιν ῥίζαν ἐν ἑαυτοῖς ἀλλὰ πρόσκαιροί εἰσιν, εἶτα γενομένης θλίψεως ἢ διωγμοῦ διὰ τὸν λόγον εὐθὺς σκανδαλίζονται.",
+    "bsb_english": "But they themselves have no root, and they remain for only a season. When trouble or persecution comes because of the word, they quickly fall away.",
+    "translation": {
+      "thai": "แต่พวกเขาไม่มีรากในตัว จึงคงอยู่ได้เพียงชั่วคราว เมื่อความทุกข์ยากหรือการข่มเหงเกิดขึ้นเพราะพระวจนะ พวกเขาก็สะดุดล้มในทันที",
+      "key_decisions": [
+        {"greek": "οὐκ ἔχουσιν ῥίζαν ἐν ἑαυτοῖς", "thai": "ไม่มีรากในตัว", "rationale": "Per uW figs-metaphor + figs-hyperbole: they are like rootless plants (= no lasting commitment). Thai 'ไม่มีรากในตัว' (no root in [themselves]) preserves the metaphor. 'ในตัว' (inside themselves) makes ἐν ἑαυτοῖς explicit."},
+        {"greek": "πρόσκαιροί εἰσιν", "thai": "คงอยู่ได้เพียงชั่วคราว", "rationale": "πρόσκαιρος = 'temporary, lasting only for a time.' Thai 'คงอยู่ได้เพียงชั่วคราว' (endure-be only-temporary) captures the transience."},
+        {"greek": "γενομένης θλίψεως ἢ διωγμοῦ (gen. abs.)", "thai": "เมื่อความทุกข์ยากหรือการข่มเหงเกิดขึ้น", "rationale": "Genitive absolute 'tribulation or persecution arising.' Per uW figs-abstractnouns: θλῖψις = tribulation/affliction; διωγμός = persecution. Thai 'ความทุกข์ยาก' (hardship/tribulation) and 'การข่มเหง' (persecution) are the standard Thai biblical terms. Important lexical choice — these are NT-specific experiences of Christian hardship: θλῖψις recurs in Mark 13:19, 24 (eschatological suffering) — using 'ความทุกข์ยาก' preserves the cross-referenceable term."},
+        {"greek": "διὰ τὸν λόγον", "thai": "เพราะพระวจนะ", "rationale": "'Because of the word' — persecution ON ACCOUNT OF the gospel, not merely general trouble. Thai 'เพราะ' preserves the causal link."},
+        {"greek": "σκανδαλίζονται (pres. pass.)", "thai": "สะดุดล้ม", "rationale": "Per uW figs-metaphor: σκανδαλίζω 'cause to stumble' metaphorically = 'cease to believe.' Thai 'สะดุดล้ม' (trip-fall) preserves the stumbling metaphor — standard Thai biblical rendering. Keep metaphoric; Thai readers recognize this as biblical 'fall away.' Thai tradition often pairs this with 'หลง' (stray) but for verb alone 'สะดุดล้ม' is lexically tighter."}
+      ],
+      "notes": "θλῖψις and διωγμός: key NT vocabulary for the cost of discipleship. Preserves Mark's subtle realism: even disciples who receive the word with joy can fall away under pressure. Parallels Paul's mission experiences (2 Cor 4:8–11)."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 4:18",
+    "chapter": 4,
+    "verse": 18,
+    "greek": "καὶ ἄλλοι εἰσὶν οἱ εἰς τὰς ἀκάνθας σπειρόμενοι· οὗτοί εἰσιν οἱ τὸν λόγον ἀκούσαντες,",
+    "bsb_english": "Others are like the seeds sown among the thorns. They hear the word,",
+    "translation": {
+      "thai": "และคนอื่นๆ คือเมล็ดที่หว่านในพงหนาม พวกเขาเป็นคนที่ได้ยินพระวจนะ",
+      "key_decisions": [
+        {"greek": "ἄλλοι εἰσὶν οἱ εἰς τὰς ἀκάνθας σπειρόμενοι", "thai": "คนอื่นๆ คือเมล็ดที่หว่านในพงหนาม", "rationale": "Parallel to vv.15, 16. πρὸς τὰς ἀκάνθας per v.7 = 'ในพงหนาม.' Per uW figs-metaphor: preserve the metaphor. 'เมล็ดที่หว่าน' (seed that-is-sown) keeps the imagery explicit."},
+        {"greek": "οἱ τὸν λόγον ἀκούσαντες (aor. ptcp.)", "thai": "เป็นคนที่ได้ยินพระวจนะ", "rationale": "Aorist participle 'having heard the word.' Thai 'เป็นคนที่ได้ยิน' (are people who have heard). The v.18 description is incomplete — continues in v.19 with the enemies of the word."}
+      ]
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 4:19",
+    "chapter": 4,
+    "verse": 19,
+    "greek": "καὶ αἱ μέριμναι τοῦ αἰῶνος καὶ ἡ ἀπάτη τοῦ πλούτου καὶ αἱ περὶ τὰ λοιπὰ ἐπιθυμίαι εἰσπορευόμεναι συμπνίγουσιν τὸν λόγον, καὶ ἄκαρπος γίνεται.",
+    "bsb_english": "but the worries of this life, the deceitfulness of wealth, and the desire for other things come in and choke the word, and it becomes unfruitful.",
+    "translation": {
+      "thai": "แต่ความกังวลในยุคนี้ การล่อลวงของทรัพย์สมบัติ และความปรารถนาในสิ่งอื่นๆ เข้ามาปกคลุมพระวจนะเสีย จึงไม่เกิดผล",
+      "key_decisions": [
+        {"greek": "αἱ μέριμναι τοῦ αἰῶνος", "thai": "ความกังวลในยุคนี้", "rationale": "Per uW figs-abstractnouns + figs-possession: μέριμνα = worry/anxiety; αἰών = age/world-era. 'Worries pertaining to this age' — not 'worries of eternity.' Thai 'ความกังวล' (worry/anxiety) abstract noun; 'ยุคนี้' (this age/era) captures αἰών's temporal-horizon sense. Alternative 'โลกนี้' (this world) would shade toward cosmological; 'ยุคนี้' preserves the eschatological contrast between this age and the age to come."},
+        {"greek": "ἡ ἀπάτη τοῦ πλούτου", "thai": "การล่อลวงของทรัพย์สมบัติ", "rationale": "Per uW figs-possession: πλοῦτος characterized by deceitfulness. ἀπάτη = deception, deceit. Thai 'การล่อลวง' (deception/enticement) + 'ทรัพย์สมบัติ' (wealth/property, standard). Literal 'ของ' (of) preserves Greek's possessive ambiguity: both 'deception FROM wealth' and 'wealth's deceptive nature' are captured."},
+        {"greek": "αἱ περὶ τὰ λοιπὰ ἐπιθυμίαι", "thai": "ความปรารถนาในสิ่งอื่นๆ", "rationale": "'Desires concerning the remaining things' — i.e., desires for all the other stuff besides God's kingdom. Thai 'ความปรารถนา' (desire) standard; 'สิ่งอื่นๆ' (other things) — the plural reduplication captures λοιπά's generalizing force (everything else the heart chases)."},
+        {"greek": "εἰσπορευόμεναι (pres. mid. ptcp.)", "thai": "เข้ามา", "rationale": "Per uW figs-personification: worries/wealth/desires personified as entering. Thai 'เข้ามา' (come in) preserves the personification. Middle voice = 'entering themselves in' — Thai's bare 'เข้ามา' covers this."},
+        {"greek": "συμπνίγουσιν τὸν λόγον", "thai": "ปกคลุมพระวจนะเสีย", "rationale": "συμπνίγω (same verb as v.7 for thorns choking the seedlings). Per uW figs-metaphor: parallel to v.7. Thai uses 'ปกคลุม' (cover over/suffocate) consistent with v.7, extending the thorn-metaphor into the interpretation. 'เสีย' (ruin/spoil aspectual particle) intensifies the destruction."},
+        {"greek": "ἄκαρπος γίνεται", "thai": "จึงไม่เกิดผล", "rationale": "ἄκαρπος = 'fruitless.' Thai 'ไม่เกิดผล' (not-produce-fruit) natural. The same 'ผล' as in v.7 'ไม่มีผลใดๆ' — lexical unity across parable and interpretation."}
+      ],
+      "notes": "THREE THREATS: anxiety about survival, deception by wealth, cravings for 'other things.' A comprehensive picture of the distracted heart. Mark's triple (not Matthew's double) is preserved. The verb συμπνίγω (choke/suffocate) echoes v.7, linking interpretation tightly to picture."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 4:20",
+    "chapter": 4,
+    "verse": 20,
+    "greek": "καὶ ἐκεῖνοί εἰσιν οἱ ἐπὶ τὴν γῆν τὴν καλὴν σπαρέντες, οἵτινες ἀκούουσιν τὸν λόγον καὶ παραδέχονται καὶ καρποφοροῦσιν ἓν τριάκοντα καὶ ἓν ἑξήκοντα καὶ ἓν ἑκατόν.",
+    "bsb_english": "Still others are like the seeds sown on good soil. They hear the word, receive it, and produce a crop—thirtyfold, sixtyfold, or a hundredfold.\"",
+    "translation": {
+      "thai": "ส่วนคนเหล่านั้นคือเมล็ดที่หว่านในดินดี ผู้ได้ยินพระวจนะ ก็รับไว้ และเกิดผล บ้างสามสิบเท่า บ้างหกสิบเท่า บ้างร้อยเท่า'",
+      "key_decisions": [
+        {"greek": "ἐκεῖνοί εἰσιν οἱ...σπαρέντες (aor. pass. ptcp.)", "thai": "คนเหล่านั้นคือเมล็ดที่หว่าน", "rationale": "Aorist passive participle 'those having been sown.' Per uW figs-metaphor: metaphor preserved. 'ส่วน' (as for / but) distinguishes this final, contrastive group."},
+        {"greek": "οἵτινες ἀκούουσιν τὸν λόγον καὶ παραδέχονται", "thai": "ผู้ได้ยินพระวจนะ ก็รับไว้", "rationale": "οἵτινες = 'such as those who' (qualitative relative). παραδέχομαι = 'receive favorably, welcome' — stronger than λαμβάνω (v.16). The rocky-soil people 'took it' (λαμβάνω — superficial reception); the good-soil people 'welcome/embrace it' (παραδέχομαι — genuine appropriation). Thai 'รับไว้' may be the same verb as v.16 — but context (persistence + fruit) reveals the deeper reception."},
+        {"greek": "καρποφοροῦσιν", "thai": "เกิดผล", "rationale": "καρποφορέω = 'bear fruit, be productive.' Thai 'เกิดผล' (arise-fruit = produce fruit) standard."},
+        {"greek": "ἓν τριάκοντα καὶ ἓν ἑξήκοντα καὶ ἓν ἑκατόν", "thai": "บ้างสามสิบเท่า บ้างหกสิบเท่า บ้างร้อยเท่า", "rationale": "Per v.8 precedent. Same structure: 'บ้าง...บ้าง...บ้าง' with 'เท่า' (fold)."}
+      ],
+      "notes": "This ends the explanation of the Sower (vv. 14–20). The overall teaching: the word goes out to all, but responsiveness varies. Faithful disciples produce varied-but-real fruit. Closes the direct quotation from Jesus that runs vv.3–9 + vv.14–20 (interrupted by narrator framing in 10–13)."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 4:21",
+    "chapter": 4,
+    "verse": 21,
+    "greek": "Καὶ ἔλεγεν αὐτοῖς· Μήτι ἔρχεται ὁ λύχνος ἵνα ὑπὸ τὸν μόδιον τεθῇ ἢ ὑπὸ τὴν κλίνην, οὐχ ἵνα ἐπὶ τὴν λυχνίαν τεθῇ;",
+    "bsb_english": "Jesus also said to them, \"Does anyone bring in a lamp to put it under a basket or under a bed? Doesn't he set it on a stand?",
+    "translation": {
+      "thai": "แล้วพระองค์ตรัสกับพวกเขาว่า 'มีใครจะนำตะเกียงมาเพื่อวางไว้ใต้ถัง หรือใต้เตียงหรือ? ไม่ใช่เพื่อตั้งไว้บนเชิงตะเกียงหรอกหรือ?",
+      "key_decisions": [
+        {"greek": "Μήτι (neg. rhet. q.)", "thai": "มีใครจะ...หรือ?", "rationale": "Per uW figs-rquestion + figs-personification: μήτι introduces a question expecting 'no.' Per uW figs-personification: 'does the lamp come?' — Jesus personifies the lamp. Thai depersonifies slightly to 'มีใครจะ' (does anyone — bring) for natural speech without losing the rhetorical-question form."},
+        {"greek": "ὁ λύχνος", "thai": "ตะเกียง", "rationale": "λύχνος = oil lamp (small clay vessel with wick). Thai 'ตะเกียง' standard for biblical-period oil lamp (vs. 'โคม' which suggests larger lantern)."},
+        {"greek": "ὑπὸ τὸν μόδιον", "thai": "ใต้ถัง", "rationale": "μόδιος = a Roman peck-measure container (~8.7 liters). Per uW translate-unknown: a large container that would hide the light. Thai 'ถัง' (bucket / container) — generic enough to cover this item. Could use 'ถังตวง' (measuring container) for more precision, but brevity wins for a rhetorical question."},
+        {"greek": "ὑπὸ τὴν κλίνην", "thai": "ใต้เตียง", "rationale": "κλίνη = couch/bed (raised furniture). Per uW translate-unknown. Thai 'เตียง' (bed) standard. Cultural note: ancient beds had space underneath — hiding the lamp there would fully block its light."},
+        {"greek": "οὐχ ἵνα ἐπὶ τὴν λυχνίαν τεθῇ; (neg. rhet. q.)", "thai": "ไม่ใช่เพื่อตั้งไว้บนเชิงตะเกียงหรอกหรือ?", "rationale": "λυχνία = lampstand. Thai 'เชิงตะเกียง' standard. Double negative rhetorical question expecting 'yes' — preserved via 'ไม่ใช่...หรอกหรือ?' (isn't-it...isn't-it?). 'หรอก' marks the conversational emphasis."}
+      ],
+      "notes": "Shifts to a new parable-cluster (vv. 21–25). The lamp saying circulates in multiple synoptic traditions (Matt 5:15, Luke 8:16, 11:33) — Mark's placement here connects it thematically to the secret-revealed motif of 4:11–12 and 22. Jesus teaches in parables not to hide truth permanently but so that hidden truth may be revealed in the right time."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 4:22",
+    "chapter": 4,
+    "verse": 22,
+    "greek": "οὐ γάρ ἐστιν κρυπτὸν ἐὰν μὴ ἵνα φανερωθῇ, οὐδὲ ἐγένετο ἀπόκρυφον ἀλλ' ἵνα ἔλθῃ εἰς φανερόν.",
+    "bsb_english": "For there is nothing hidden that will not be disclosed, and nothing concealed that will not be brought to light.",
+    "translation": {
+      "thai": "เพราะไม่มีสิ่งใดที่ซ่อนไว้นอกจากเพื่อจะถูกเปิดเผย และไม่มีสิ่งใดที่ถูกปกปิดนอกจากเพื่อจะปรากฏออกมา",
+      "key_decisions": [
+        {"greek": "οὐ...ἐστιν κρυπτὸν ἐὰν μὴ ἵνα φανερωθῇ", "thai": "ไม่มีสิ่งใดที่ซ่อนไว้นอกจากเพื่อจะถูกเปิดเผย", "rationale": "Per uW writing-proverbs + grammar-connect-exceptions: 'nothing is hidden except so that it might be revealed.' A proverb-form statement. Thai 'ไม่มีสิ่งใด' (there is nothing) + 'ซ่อนไว้' (hidden) + 'นอกจากเพื่อจะ' (except so that) + 'ถูกเปิดเผย' (be revealed/uncovered) preserves the proverbial exception-clause structure that is part of the saying's memorability."},
+        {"greek": "οὐδὲ ἐγένετο ἀπόκρυφον ἀλλ' ἵνα ἔλθῃ εἰς φανερόν", "thai": "และไม่มีสิ่งใดที่ถูกปกปิดนอกจากเพื่อจะปรากฏออกมา", "rationale": "Per uW figs-parallelism: this clause restates the first for emphasis. ἀπόκρυφον = 'concealed/hidden-away' (cognate with 'apocryphal'). ἔλθῃ εἰς φανερόν = 'come into visibility' (per uW figs-idiom). Thai 'ถูกปกปิด' (be covered-up) + 'ปรากฏออกมา' (appear-out) preserves the parallelism. The second clause could collapse into the first for Thai naturalness, but preserving the doublet honors the proverbial form."},
+        {"greek": "γάρ (explanatory)", "thai": "เพราะ", "rationale": "Connects v.22 to v.21 as explanation: lamps are for display because nothing hidden stays hidden. Thai 'เพราะ' (because) preserves the explanatory link."}
+      ],
+      "notes": "PROVERB: Jesus' secrecy and parabolic teaching is PROVISIONAL — not permanent. The purpose of present hiding is eventual revelation. Connects to the messianic-secret motif of Mark 1:34, 1:44, 3:12, and anticipates 4:34 where he explains everything privately. The saying also recurs in Luke 8:17 and (with different context) Matt 10:26."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 4:23",
+    "chapter": 4,
+    "verse": 23,
+    "greek": "εἴ τις ἔχει ὦτα ἀκούειν ἀκουέτω.",
+    "bsb_english": "If anyone has ears to hear, let him hear.\"",
+    "translation": {
+      "thai": "ถ้าผู้ใดมีหูสำหรับฟัง ก็จงฟังเถิด'",
+      "key_decisions": [
+        {"greek": "εἴ τις ἔχει ὦτα ἀκούειν ἀκουέτω", "thai": "ถ้าผู้ใดมีหูสำหรับฟัง ก็จงฟังเถิด", "rationale": "Per uW v.23: same sense as v.9. Slight variation in Greek: v.9 uses ὅς (relative) + ἀκουέτω; v.23 uses εἴ + τις + ἀκουέτω (conditional). Thai preserves the variation via 'ถ้า' (if) vs. v.9's 'ผู้ใด' (whoever). The core idiom ('have ears to hear') is consistent. Recurring formula — keeping the same rendering style reinforces Jesus' pattern of concluding parables this way."}
+      ],
+      "notes": "Second occurrence in chapter (cf. v.9). Frames this saying-cluster (lamp + proverb) as another parable requiring active listening. Closes Jesus' direct speech block."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 4:24",
+    "chapter": 4,
+    "verse": 24,
+    "greek": "καὶ ἔλεγεν αὐτοῖς· Βλέπετε τί ἀκούετε. ἐν ᾧ μέτρῳ μετρεῖτε μετρηθήσεται ὑμῖν καὶ προστεθήσεται ὑμῖν.",
+    "bsb_english": "He went on to say, \"Pay attention to what you hear. With the measure you use, it will be measured to you, and even more will be added to you.",
+    "translation": {
+      "thai": "พระองค์ตรัสกับพวกเขาต่อไปว่า 'จงพิจารณาสิ่งที่พวกท่านได้ยินให้ดี พวกท่านตวงด้วยมาตรไหน ก็จะตวงให้พวกท่านด้วยมาตรนั้น และจะได้รับเพิ่มขึ้นอีก",
+      "key_decisions": [
+        {"greek": "ἔλεγεν αὐτοῖς (imperf.)", "thai": "ตรัสกับพวกเขาต่อไป", "rationale": "Per glossary: ἔλεγεν = 'ตรัสต่อไป' (continues speaking). Marks another saying in the sequence."},
+        {"greek": "Βλέπετε τί ἀκούετε", "thai": "จงพิจารณาสิ่งที่พวกท่านได้ยินให้ดี", "rationale": "Per uW figs-metaphor: βλέπετε 'watch/see' used for 'pay attention.' Thai 'พิจารณา' (examine/consider) captures the 'pay-close-attention-with-intent-to-judge' sense rather than raw visual 'ดู.' 'ให้ดี' (well/carefully) intensifies. This phrase warns the disciples that how they hear determines what they receive (measure-proverb follows)."},
+        {"greek": "ἐν ᾧ μέτρῳ μετρεῖτε μετρηθήσεται ὑμῖν (proverb)", "thai": "พวกท่านตวงด้วยมาตรไหน ก็จะตวงให้พวกท่านด้วยมาตรนั้น", "rationale": "Per uW writing-proverbs + figs-activepassive: passive implies God. Thai 'ตวง' (measure, for grain/liquid — agricultural verb) is the natural cognate of the Greek agricultural metaphor. 'มาตร' (measure-unit) for μέτρον. Repetition of 'มาตร' (measure) and 'ตวง' (mete out) preserves Greek's reduplicative proverbial structure. Divine agent kept implicit — Thai's passive-through-word-order retains the universal-proverbial feel."},
+        {"greek": "προστεθήσεται ὑμῖν (fut. pass.)", "thai": "และจะได้รับเพิ่มขึ้นอีก", "rationale": "Per uW figs-idiom: 'added to you' = 'given more.' Thai 'ได้รับเพิ่มขึ้นอีก' (receive-additional-more) preserves the augmentation idea. This turns a balancing proverb into a generous one: you get back what you measure, AND MORE."}
+      ],
+      "notes": "Double proverb: (1) what you hear is what you retain; (2) God's measure exceeds human measure. The two combine into Mark's hearing-theology: attentive hearing yields disproportionate reward. Parallel sayings at Matt 7:2 (judgment context) and Luke 6:38."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 4:25",
+    "chapter": 4,
+    "verse": 25,
+    "greek": "ὃς γὰρ ἔχει, δοθήσεται αὐτῷ· καὶ ὃς οὐκ ἔχει, καὶ ὃ ἔχει ἀρθήσεται ἀπ' αὐτοῦ.",
+    "bsb_english": "For whoever has will be given more. But whoever does not have, even what he has will be taken away from him.\"",
+    "translation": {
+      "thai": "เพราะว่าผู้ใดที่มีอยู่ ผู้นั้นจะได้รับเพิ่มอีก ส่วนผู้ใดที่ไม่มี แม้สิ่งที่เขามีอยู่ก็จะถูกริบไปจากเขา'",
+      "key_decisions": [
+        {"greek": "γάρ", "thai": "เพราะว่า", "rationale": "Per uW grammar-connect-words-phrases: explanation of v.24's proverb. Thai 'เพราะว่า' (because-that) preserves the explanatory force."},
+        {"greek": "ὃς ἔχει, δοθήσεται αὐτῷ (proverb; fut. pass.)", "thai": "ผู้ใดที่มีอยู่ ผู้นั้นจะได้รับเพิ่มอีก", "rationale": "Per uW writing-proverbs + figs-activepassive: implicit divine agent. Thai 'ผู้ใด' (whoever) generalizing pronoun. 'จะได้รับเพิ่มอีก' (will receive-more) maintains the augmentative sense — parallel to v.24's 'เพิ่มขึ้นอีก.' Don't specify the object (gospel understanding per uW v.25); the proverb's power is its generality."},
+        {"greek": "ὃς οὐκ ἔχει (hyperbole)", "thai": "ผู้ใดที่ไม่มี", "rationale": "Per uW figs-hyperbole: 'he who does not have' — obviously generalizing, since the second clause says they DO have something that gets taken. Thai preserves the hyperbole without softening."},
+        {"greek": "ὃ ἔχει ἀρθήσεται ἀπ' αὐτοῦ", "thai": "แม้สิ่งที่เขามีอยู่ก็จะถูกริบไปจากเขา", "rationale": "Per uW figs-activepassive: implicit divine agent ('God will take away'). Thai 'ริบ' (confiscate/take away forcibly) — harsher than 'เอา' or 'นำ,' preserving the Greek's harsh finality. 'ถูกริบ' passive. 'แม้' (even) preserves καὶ's intensifying force."}
+      ],
+      "notes": "Closing the proverb-cluster (vv. 21–25). The gnomic force: gospel receptivity is cumulative. Those who listen and act on what they hear receive more; those who dismiss lose even what they had. This principle will reappear in Mark 8:34–38 (cost of discipleship) and 10:17–31 (rich young ruler). Gender-inclusive: though Greek is masc., the principle applies to all per uW figs-gendernotations; Thai 'ผู้ใด' is gender-neutral naturally."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 4:26",
+    "chapter": 4,
+    "verse": 26,
+    "greek": "Καὶ ἔλεγεν· Οὕτως ἐστὶν ἡ βασιλεία τοῦ θεοῦ ὡς ἄνθρωπος βάλῃ τὸν σπόρον ἐπὶ τῆς γῆς",
+    "bsb_english": "Jesus also said, \"The kingdom of God is like a man who scatters seed on the ground.",
+    "translation": {
+      "thai": "พระองค์ตรัสต่อไปว่า 'อาณาจักรของพระเจ้าเป็นเช่นนี้ เหมือนคนหนึ่งหว่านเมล็ดพืชลงบนดิน",
+      "key_decisions": [
+        {"greek": "Οὕτως ἐστὶν ἡ βασιλεία τοῦ θεοῦ", "thai": "อาณาจักรของพระเจ้าเป็นเช่นนี้", "rationale": "Per uW figs-parables + figs-simile: parable introduction. Thai 'อาณาจักรของพระเจ้า' per glossary. 'เป็นเช่นนี้' (is like this) signals the comparison that follows."},
+        {"greek": "ὡς ἄνθρωπος βάλῃ τὸν σπόρον (aor. subj.)", "thai": "เหมือนคนหนึ่งหว่านเมล็ดพืช", "rationale": "Per uW figs-gendernotations: ἄνθρωπος gender-inclusive 'a person.' Thai 'คนหนึ่ง' (a person — neutral). βάλῃ aor. subj. of βάλλω 'throw' — here = 'broadcast-scatter' seed, per uW figs-explicit. Thai 'หว่าน' (scatter-sow) consistent with vv.3–4. σπόρος = 'seed(s)' — per uW grammar-collectivenouns collective sg. form; Thai 'เมล็ดพืช' (seed-crop) slightly more generic than v.3's 'พืช' alone."},
+        {"greek": "ἐπὶ τῆς γῆς", "thai": "ลงบนดิน", "rationale": "'Onto the earth/soil.' Thai 'ลงบนดิน' (down on-soil) natural for sowing."}
+      ],
+      "notes": "PARABLE OF SEED GROWING BY ITSELF (vv. 26–29) — unique to Mark (no synoptic parallel!). One of the distinctive Markan contributions to the parable tradition. Teaches that God's kingdom grows independently of human comprehension or effort — a subtle corrective to zealot expectations of forced, political ushering-in of God's reign."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 4:27",
+    "chapter": 4,
+    "verse": 27,
+    "greek": "καὶ καθεύδῃ καὶ ἐγείρηται νύκτα καὶ ἡμέραν, καὶ ὁ σπόρος βλαστᾷ καὶ μηκύνηται ὡς οὐκ οἶδεν αὐτός.",
+    "bsb_english": "Night and day he sleeps and wakes, and the seed sprouts and grows, though he knows not how.",
+    "translation": {
+      "thai": "เขาหลับบ้างตื่นบ้างทั้งกลางคืนและกลางวัน ส่วนเมล็ดก็งอกและเจริญเติบโตโดยที่เขาเองก็ไม่รู้ว่าเป็นอย่างไร",
+      "key_decisions": [
+        {"greek": "καθεύδῃ καὶ ἐγείρηται νύκτα καὶ ἡμέραν", "thai": "เขาหลับบ้างตื่นบ้างทั้งกลางคืนและกลางวัน", "rationale": "Per uW figs-idiom: 'sleeps and rises, night and day' = lives normal daily routine over many days. Thai 'หลับบ้างตื่นบ้าง' (sometimes-sleep sometimes-wake) natural idiomatic pairing. 'ทั้งกลางคืนและกลางวัน' (both night and day) preserves the comprehensive-time frame."},
+        {"greek": "ὁ σπόρος βλαστᾷ καὶ μηκύνηται (pres. subj.)", "thai": "เมล็ดก็งอกและเจริญเติบโต", "rationale": "βλαστάνω = 'sprout, put forth shoots.' μηκύνομαι HAPAX LEGOMENON in NT (= 'grow long, lengthen' mid./pass.) — related to μῆκος 'length.' Extrabiblical Greek: used of plants 'growing tall.' Thai 'เจริญเติบโต' (flourish-grow) captures both the sprouting-into-height and the broader growth process. 'งอก' (sprout) for βλαστᾷ; 'เจริญเติบโต' (grow) for μηκύνηται — the pairing matches the Greek doublet's progression (sprout then grow tall)."},
+        {"greek": "ὡς οὐκ οἶδεν αὐτός", "thai": "โดยที่เขาเองก็ไม่รู้ว่าเป็นอย่างไร", "rationale": "Per uW figs-explicit + figs-rpronouns: αὐτός emphatic 'he himself.' The farmer does not understand the process. Thai 'เขาเอง' (he-himself) preserves the emphatic; 'ก็ไม่รู้ว่าเป็นอย่างไร' (doesn't know how-it-is) makes the 'how' explicit (per uW). This is the theological pivot: the ignorance of the farmer about the mechanism of growth is the whole point of the parable — God's kingdom grows by hidden divine power."}
+      ],
+      "notes": "HAPAX: μηκύνομαι (4:27). Classical Greek usage: of plants 'lengthening,' of days 'growing longer.' Only NT occurrence. Thai renders the hapax pair βλαστᾷ + μηκύνηται with idiomatic 'งอก + เจริญเติบโต' — preserving the two-stage growth (sprout + grow-tall) without inventing unnatural Thai. The sleep-wake detail contrasts with the disciples who will sleep in Gethsemane (14:37–42) — pattern of Markan detail."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 4:28",
+    "chapter": 4,
+    "verse": 28,
+    "greek": "αὐτομάτη ἡ γῆ καρποφορεῖ, πρῶτον χόρτον, εἶτα στάχυν, εἶτα πλήρης σῖτον ἐν τῷ στάχυϊ.",
+    "bsb_english": "All by itself the earth produces a crop—first the stalk, then the head, then grain that ripens within.",
+    "translation": {
+      "thai": "แผ่นดินเกิดผลได้เองโดยอัตโนมัติ แรกเริ่มเป็นต้นอ่อน ต่อมาเป็นรวง แล้วจึงเป็นเมล็ดข้าวเต็มในรวงนั้น",
+      "key_decisions": [
+        {"greek": "αὐτομάτη", "thai": "โดยอัตโนมัติ", "rationale": "Per uW figs-idiom: 'of its own accord, automatically.' αὐτόματος is root of English 'automatic.' Thai 'โดยอัตโนมัติ' (by automatic) is a Sanskrit-derived loan now naturalized. Alternative 'ด้วยตัวเอง' (by itself) more colloquial; 'โดยอัตโนมัติ' preserves the formal register of wisdom-literature speech Jesus is using."},
+        {"greek": "ἡ γῆ καρποφορεῖ", "thai": "แผ่นดินเกิดผลได้เอง", "rationale": "Per uW figs-personification: the earth personified as producing. Thai 'แผ่นดิน' (land/earth) + 'เกิดผล' (produce fruit) + 'ได้เอง' (on-its-own) preserves the personification-plus-autonomy. 'แผ่นดิน' (rather than just 'ดิน') captures the broader 'the earth/land' sense of ἡ γῆ."},
+        {"greek": "πρῶτον χόρτον, εἶτα στάχυν, εἶτα πλήρης σῖτον ἐν τῷ στάχυϊ", "thai": "แรกเริ่มเป็นต้นอ่อน ต่อมาเป็นรวง แล้วจึงเป็นเมล็ดข้าวเต็มในรวงนั้น", "rationale": "Per uW translate-unknown: three-stage growth. χόρτος = 'blade, grass, first leaf' (per uW v.28); στάχυς = 'ear, head of grain'; σῖτος = 'wheat, grain.' Thai 'ต้นอ่อน' (young sprout) for χόρτος; 'รวง' (ear/cluster of grain) for στάχυς; 'เมล็ดข้าวเต็มในรวง' (grain-full-in-the-ear) for πλήρης σῖτον ἐν τῷ στάχυϊ. 'ข้าว' (grain — in Thai context primarily rice) naturally covers Greek σῖτος (grain — wheat/barley context). The Thai 'รวง' nicely covers both στάχυς occurrences."}
+      ],
+      "notes": "Three-stage growth picture (χόρτος → στάχυς → σῖτος) is agricultural observation — the kingdom grows in stages, each preparing the next. Cross-cultural transfer works well: Thai rice farming has the same visible stages (seedling → tillering → heading → ripening)."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 4:29",
+    "chapter": 4,
+    "verse": 29,
+    "greek": "ὅταν δὲ παραδοῖ ὁ καρπός, εὐθὺς ἀποστέλλει τὸ δρέπανον, ὅτι παρέστηκεν ὁ θερισμός.",
+    "bsb_english": "And as soon as the grain is ripe, he swings the sickle, because the harvest has come.\"",
+    "translation": {
+      "thai": "และเมื่อผลสุกพร้อมแล้ว เขาก็ใช้เคียวเข้าเกี่ยวทันที เพราะถึงฤดูเก็บเกี่ยวแล้ว'",
+      "key_decisions": [
+        {"greek": "ὅταν δὲ παραδοῖ ὁ καρπός", "thai": "เมื่อผลสุกพร้อมแล้ว", "rationale": "Per uW figs-idiom: παραδίδωμι 'hand over' — idiomatic 'crop is ready/ripe.' Thai 'สุกพร้อม' (ripe-ready) captures the completed readiness. 'ผล' (fruit/result) — same word used in the Sower parable for caropological yield."},
+        {"greek": "εὐθὺς ἀποστέλλει τὸ δρέπανον", "thai": "เขาก็ใช้เคียวเข้าเกี่ยวทันที", "rationale": "Per uW figs-metonymy: 'sends the sickle' = metonymy for reapers going to harvest. Per uW translate-unknown: δρέπανον = 'sickle' (curved harvesting blade). Thai 'เคียว' (sickle — standard Thai agricultural term, widely known). 'ใช้เคียวเข้าเกี่ยว' (use-sickle-enter-cut) explicates the metonymy into natural Thai for harvesting action. εὐθύς preserved as 'ทันที' — Mark's signature immediacy here signals the urgency of harvest-time."},
+        {"greek": "ὅτι παρέστηκεν ὁ θερισμός", "thai": "เพราะถึงฤดูเก็บเกี่ยวแล้ว", "rationale": "Per uW figs-idiom: 'the harvest has come' = 'it is harvest time.' Thai 'ถึงฤดูเก็บเกี่ยว' (arrived-at season-of-harvesting) natural. 'ฤดู' (season) explicit to mark the agrarian seasonal frame."}
+      ],
+      "notes": "Harvest imagery echoes Joel 3:13 and Isaiah 17:5 — 'send the sickle' connects to eschatological judgment/harvest of God. The kingdom that grew hidden now bursts into public reaping. Cf. Revelation 14:14–16 for the same image. The parable's force: between sowing and reaping is hidden divine growth, which crashes into visibility at harvest."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 4:30",
+    "chapter": 4,
+    "verse": 30,
+    "greek": "Καὶ ἔλεγεν· Πῶς ὁμοιώσωμεν τὴν βασιλείαν τοῦ θεοῦ, ἢ ἐν τίνι αὐτὴν παραβολῇ θῶμεν;",
+    "bsb_english": "Then He asked, \"To what can we compare the kingdom of God? With what parable shall we present it?",
+    "translation": {
+      "thai": "พระองค์ตรัสต่อไปว่า 'เราจะเปรียบอาณาจักรของพระเจ้ากับสิ่งใดดี หรือจะใช้คำอุปมาอันใดอธิบายอาณาจักรนี้?",
+      "key_decisions": [
+        {"greek": "Πῶς ὁμοιώσωμεν (aor. subj., rhet. q.)", "thai": "เราจะเปรียบ...กับสิ่งใดดี", "rationale": "Per uW figs-rquestion + figs-exclusive: 'we' inclusive (Jesus + audience). ὁμοιόω = 'liken, compare.' Thai 'เราจะเปรียบ...กับ...' (how-will-we-compare-with-what) preserves the interrogative. 'เรา' (we, inclusive) — fits Thai pattern of a teacher inviting students to think together."},
+        {"greek": "ἐν τίνι αὐτὴν παραβολῇ θῶμεν (rhet. q.)", "thai": "จะใช้คำอุปมาอันใดอธิบายอาณาจักรนี้?", "rationale": "Per uW figs-metaphor: θῶμεν 'place/put' — with παραβολή as container. Thai flattens the container-metaphor into 'ใช้คำอุปมา...อธิบาย' (use-parable...explain) for naturalness; the 'placing in a parable' metaphor is obscure in Thai. Follow uW's permission to state plainly."}
+      ]
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 4:31",
+    "chapter": 4,
+    "verse": 31,
+    "greek": "ὡς κόκκῳ σινάπεως, ὃς ὅταν σπαρῇ ἐπὶ τῆς γῆς, μικρότερον ὂν πάντων τῶν σπερμάτων τῶν ἐπὶ τῆς γῆς",
+    "bsb_english": "It is like a mustard seed, which is the smallest of all seeds sown upon the earth.",
+    "translation": {
+      "thai": "เปรียบเหมือนเมล็ดมัสตาร์ดเมล็ดหนึ่ง ซึ่งเมื่อหว่านลงในดิน เป็นเมล็ดที่เล็กที่สุดในบรรดาเมล็ดพันธุ์ทั้งปวงในโลก",
+      "key_decisions": [
+        {"greek": "κόκκῳ σινάπεως", "thai": "เมล็ดมัสตาร์ดเมล็ดหนึ่ง", "rationale": "Per uW translate-unknown: κόκκος σινάπεως = mustard seed (tiny seed → large plant). Thai 'มัสตาร์ด' is the established transliteration in Thai Bible tradition. 'เมล็ด...เมล็ดหนึ่ง' (seed...one-seed) — explicit counting-classifier because κόκκος singular emphasizes the singular seed. Tiny Brassica nigra or Sinapis alba seed, ~1mm."},
+        {"greek": "ὅταν σπαρῇ ἐπὶ τῆς γῆς (aor. pass. subj.)", "thai": "เมื่อหว่านลงในดิน", "rationale": "Per uW figs-activepassive: implicit subject. Thai 'เมื่อหว่านลงในดิน' (when-sow-down-in-soil) — active form with implicit subject. NOTE: this Greek clause repeats in v.32 almost verbatim — Mark's redundancy preserved via parallel Thai."},
+        {"greek": "μικρότερον ὂν πάντων τῶν σπερμάτων", "thai": "เป็นเมล็ดที่เล็กที่สุดในบรรดาเมล็ดพันธุ์ทั้งปวง", "rationale": "Per uW figs-hyperbole: comparative μικρότερον 'smaller' used as superlative 'smallest' (Koine pattern). Per uW: hyperbolic — actually one of the smallest, not literally the smallest. Thai superlative 'เล็กที่สุด' (most-small) is natural, and preserves the hyperbolic claim. 'บรรดา' (all the) + 'เมล็ดพันธุ์' (seed-variety/seeds) captures πάντων τῶν σπερμάτων."},
+        {"greek": "τῶν ἐπὶ τῆς γῆς", "thai": "ในโลก", "rationale": "'Upon the earth' = 'in the world.' Thai 'ในโลก' (in-world) preserves the global-superlative scope without being overly literal."}
+      ],
+      "notes": "Known exegetical point: mustard seed is not actually the smallest seed (orchid seeds are much smaller). Jesus speaks in PROVERBIAL hyperbole — 'as small as a mustard seed' was a Jewish idiom for small quantity (cf. Matt 17:20). The grammatical issue (single seed, many seeds) arises from the nominalized comparison."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 4:32",
+    "chapter": 4,
+    "verse": 32,
+    "greek": "καὶ ὅταν σπαρῇ, ἀναβαίνει καὶ γίνεται μεῖζον πάντων τῶν λαχάνων καὶ ποιεῖ κλάδους μεγάλους, ὥστε δύνασθαι ὑπὸ τὴν σκιὰν αὐτοῦ τὰ πετεινὰ τοῦ οὐρανοῦ κατασκηνοῦν.",
+    "bsb_english": "But after it is planted, it grows to be the largest of all garden plants and puts forth great branches, so that the birds of the air nest in its shade.\"",
+    "translation": {
+      "thai": "แต่เมื่อหว่านลงแล้ว ก็งอกขึ้นและกลายเป็นพืชที่ใหญ่ที่สุดในบรรดาพืชผักทั้งหลาย แตกกิ่งก้านใหญ่โต จนกระทั่งนกในอากาศสามารถมาทำรังใต้ร่มของมันได้'",
+      "key_decisions": [
+        {"greek": "ὅταν σπαρῇ, ἀναβαίνει", "thai": "เมื่อหว่านลงแล้ว ก็งอกขึ้น", "rationale": "Parallel to v.31. Per uW figs-activepassive. ἀναβαίνει = 'come up, grow up.' Thai 'งอกขึ้น' (sprout-up) consistent with v.5, v.8, v.27."},
+        {"greek": "γίνεται μεῖζον πάντων τῶν λαχάνων", "thai": "กลายเป็นพืชที่ใหญ่ที่สุดในบรรดาพืชผักทั้งหลาย", "rationale": "Per uW translate-unknown: λάχανα = 'vegetable/garden plants' (cultivated greens). μεῖζον comparative as superlative. Thai 'พืชผัก' (crop-vegetables = garden plants) — 'ผัก' signals the edible-garden class. 'ใหญ่ที่สุด' (largest) superlative."},
+        {"greek": "ποιεῖ κλάδους μεγάλους", "thai": "แตกกิ่งก้านใหญ่โต", "rationale": "'Puts forth great branches.' Thai 'แตกกิ่งก้าน' (branch-out limbs) standard for plant growth; 'ใหญ่โต' (big-large) intensifier."},
+        {"greek": "ὑπὸ τὴν σκιὰν αὐτοῦ τὰ πετεινὰ τοῦ οὐρανοῦ κατασκηνοῦν", "thai": "นกในอากาศ...มาทำรังใต้ร่มของมันได้", "rationale": "Per uW figs-explicitinfo: 'birds of the sky' = 'birds' (Thai accepts the expanded form naturally — 'นกในอากาศ' is biblical-register Thai). Per uW figs-explicit: κατασκηνόω could mean 'nest' (build nests) or 'roost' (perch/dwell). Thai 'ทำรัง' (build-nest) per uW option 1 — more vivid and narratively generative. The allusion to Ezek 17:23, 31:6, Dan 4:12 (Nebuchadnezzar's cosmic tree) brings the mustard-bush imagery into Jewish apocalyptic symbolism: God's kingdom will grow into a cosmic tree where all peoples can dwell. The birds' placement (in the 'shade' — ὑπὸ τὴν σκιάν) is preserved: 'ใต้ร่มของมัน' (under-shade-of-it), which per uW v.32 could be either 'in the lower branches' (shaded by upper) or 'on the ground in the plant's shade.' Thai preserves the ambiguity."}
+      ],
+      "notes": "OT ALLUSION: The great-tree-with-birds imagery alludes to Ezekiel 17:23 (messianic cedar), 31:6 (Assyria as great tree), and Daniel 4:12 (Nebuchadnezzar's tree). In these texts, 'birds of the sky nesting in the shade' = nations finding refuge in a cosmic empire/tree. Jesus' parable reverses expectations: not a majestic cedar, but a humble mustard-BUSH (not-even-a-tree) — yet still hosting all nations. The kingdom is small-in-origin but universally accommodating."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 4:33",
+    "chapter": 4,
+    "verse": 33,
+    "greek": "Καὶ τοιαύταις παραβολαῖς πολλαῖς ἐλάλει αὐτοῖς τὸν λόγον, καθὼς ἠδύναντο ἀκούειν·",
+    "bsb_english": "With many such parables Jesus spoke the word to them, to the extent that they could understand.",
+    "translation": {
+      "thai": "พระองค์ตรัสพระวจนะแก่พวกเขาด้วยคำอุปมาเช่นนี้อีกมากมาย ตามที่พวกเขาสามารถรับฟังเข้าใจได้",
+      "key_decisions": [
+        {"greek": "τοιαύταις παραβολαῖς πολλαῖς", "thai": "ด้วยคำอุปมาเช่นนี้อีกมากมาย", "rationale": "'With many such parables.' Thai 'คำอุปมาเช่นนี้' (parables-like-this) + 'อีกมากมาย' (many-more) preserves the 'such-many' force."},
+        {"greek": "ἐλάλει αὐτοῖς τὸν λόγον (imperf.)", "thai": "ตรัสพระวจนะแก่พวกเขา", "rationale": "Per uW figs-metonymy + precedent Mark 2:2: τὸν λόγον = 'พระวจนะ' (gospel). Imperfect = habitual/continuous speaking. Royal 'ตรัส.'"},
+        {"greek": "καθὼς ἠδύναντο ἀκούειν (imperf.)", "thai": "ตามที่พวกเขาสามารถรับฟังเข้าใจได้", "rationale": "Per uW v.33 figs-explicit: 'hear' = 'hear AND understand.' Two possible senses (uW reads both): (1) Jesus graded his teaching to what they could grasp; (2) Jesus only taught them what they were able to absorb. Thai 'รับฟังเข้าใจ' (receive-listen + understand) captures both senses — 'ได้' (be able to) preserves the modal. This verse QUALIFIES the harsh ἵνα of v.12: Jesus is not systematically hardening hearts; he is meeting listeners where they are."}
+      ],
+      "notes": "Summary-statement (vv. 33–34). Narrator's comment on Jesus' parabolic pedagogy. Softens the apparent harshness of v.12 — Jesus genuinely wanted hearers to understand, to the capacity they had."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 4:34",
+    "chapter": 4,
+    "verse": 34,
+    "greek": "χωρὶς δὲ παραβολῆς οὐκ ἐλάλει αὐτοῖς, κατ' ἰδίαν δὲ τοῖς ἰδίοις μαθηταῖς ἐπέλυεν πάντα.",
+    "bsb_english": "He did not tell them anything without using a parable. But privately He explained everything to His own disciples.",
+    "translation": {
+      "thai": "พระองค์ไม่ตรัสกับพวกเขาเลยโดยไม่ใช้คำอุปมา แต่เมื่ออยู่กับบรรดาสาวกของพระองค์ตามลำพัง ก็ทรงอธิบายทุกสิ่งให้พวกเขาฟัง",
+      "key_decisions": [
+        {"greek": "χωρὶς παραβολῆς οὐκ ἐλάλει αὐτοῖς (double neg.)", "thai": "ไม่ตรัสกับพวกเขาเลยโดยไม่ใช้คำอุปมา", "rationale": "Per uW figs-doublenegatives: 'not without' = 'only with.' Thai preserves the double negative: 'ไม่...โดยไม่ใช้' (not...without-using) — acceptable in Thai for emphatic style, and here it preserves the Greek's rhetorical force. Alternative positive form ('ทรงตรัสด้วยคำอุปมาเสมอ') would lose the original's rhetorical weight."},
+        {"greek": "κατ' ἰδίαν δὲ τοῖς ἰδίοις μαθηταῖς", "thai": "เมื่ออยู่กับบรรดาสาวกของพระองค์ตามลำพัง", "rationale": "Per uW figs-explicit (but note: this verse does not have the uW note; I'm applying §10's 'alone' sense from v.10). κατ' ἰδίαν = 'privately, by oneself.' τοῖς ἰδίοις μαθηταῖς = 'to his own disciples' (emphatic ἰδίοις). Thai 'บรรดาสาวกของพระองค์' (his disciples) + 'ตามลำพัง' (alone/privately) captures both the exclusivity and the privacy. 'เมื่ออยู่กับ...ตามลำพัง' (when-alone-with) sets the scene."},
+        {"greek": "ἐπέλυεν πάντα (imperf.)", "thai": "ทรงอธิบายทุกสิ่งให้พวกเขาฟัง", "rationale": "ἐπιλύω = 'loose upon, unfold, explain' (technical term for explaining riddles/proverbs). Imperfect = habitually. Per uW figs-explicit: πάντα = 'every parable.' Royal 'ทรงอธิบาย' (royal-explain) + 'ทุกสิ่ง' (every-thing) + 'ให้พวกเขาฟัง' (for them to listen — complement of motion). Standard Thai biblical construction."}
+      ],
+      "notes": "Per uW writing-endofstory: this ends Jesus' teaching discourse by summarizing his parabolic method. A clear division: public = parabolic; private with disciples = explanatory. Establishes the Markan insider/outsider dynamic that will continue to shape the narrative (e.g., 7:17 and onward)."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 4:35",
+    "chapter": 4,
+    "verse": 35,
+    "greek": "Καὶ λέγει αὐτοῖς ἐν ἐκείνῃ τῇ ἡμέρᾳ ὀψίας γενομένης· Διέλθωμεν εἰς τὸ πέραν.",
+    "bsb_english": "When that evening came, He said to His disciples, \"Let us cross to the other side.\"",
+    "translation": {
+      "thai": "ในวันนั้น เมื่อถึงเวลาเย็น พระองค์ตรัสกับพวกเขาว่า 'ให้เราข้ามไปยังอีกฟากหนึ่งเถิด'",
+      "key_decisions": [
+        {"greek": "λέγει (hist. pres.)", "thai": "ตรัสกับพวกเขาว่า", "rationale": "Historic present (per uW v.35). Royal speech."},
+        {"greek": "ἐν ἐκείνῃ τῇ ἡμέρᾳ ὀψίας γενομένης", "thai": "ในวันนั้น เมื่อถึงเวลาเย็น", "rationale": "Double temporal marker: 'on that day, evening having come' — genitive absolute. Thai 'ในวันนั้น' (on-that-day) + 'เมื่อถึงเวลาเย็น' (when evening-time arrived). The 'that day' anchors this to the day of the parables — a long day of teaching followed by a night of crisis."},
+        {"greek": "Διέλθωμεν (aor. subj. hortatory)", "thai": "ให้เราข้ามไป", "rationale": "Hortatory subjunctive 'let us go across.' Thai 'ให้เรา...' (let us...) natural hortatory construction. διέρχομαι = 'pass through, go through/across.' 'ข้าม' (cross) precise."},
+        {"greek": "εἰς τὸ πέραν", "thai": "ยังอีกฟากหนึ่ง", "rationale": "Per uW figs-explicit: 'to the other side' of the Sea of Galilee. Thai 'อีกฟากหนึ่ง' (the other-side-one) — consistent with Mark 3:8's 'อีกฟาก' (for πέραν τοῦ Ἰορδάνου). Don't need to expand to 'ทะเลกาลิลี' — the boat/sea context from v.1 carries forward. 'เถิด' (hortatory particle) marks the inclusive let-us command."}
+      ],
+      "notes": "Transitions from teaching to miracle narrative (vv. 35–41). 'The other side' = eastern shore, Gentile territory (Decapolis/Gerasa). The narrative will move Jesus into Gentile regions for the first major time (Mark 5)."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 4:36",
+    "chapter": 4,
+    "verse": 36,
+    "greek": "καὶ ἀφέντες τὸν ὄχλον παραλαμβάνουσιν αὐτὸν ὡς ἦν ἐν τῷ πλοίῳ, καὶ ἄλλα πλοῖα ἦν μετ' αὐτοῦ.",
+    "bsb_english": "After they had dismissed the crowd, they took Jesus with them, since He was already in the boat. And there were other boats with Him.",
+    "translation": {
+      "thai": "พวกเขาปล่อยฝูงชนกลับไป แล้วพาพระองค์ไปด้วยกันตามสภาพที่พระองค์ประทับอยู่ในเรืออยู่แล้ว และมีเรือลำอื่นๆ ตามเสด็จไปด้วย",
+      "key_decisions": [
+        {"greek": "ἀφέντες τὸν ὄχλον (aor. ptcp.)", "thai": "ปล่อยฝูงชนกลับไป", "rationale": "ἀφίημι = 'dismiss, release.' Thai 'ปล่อย...กลับไป' (release...go-back) captures the sense of releasing the audience at day's end."},
+        {"greek": "παραλαμβάνουσιν αὐτὸν (hist. pres.)", "thai": "พาพระองค์ไปด้วยกัน", "rationale": "Historic present (per uW v.36). Per uW figs-explicit: 'they take him across the lake.' παραλαμβάνω 'take alongside / take with.' Thai 'พา...ไปด้วยกัน' (lead-go-together). The disciples now 'take' Jesus — a subtle role-reversal (in v.38 they will need him to save them)."},
+        {"greek": "ὡς ἦν ἐν τῷ πλοίῳ", "thai": "ตามสภาพที่พระองค์ประทับอยู่ในเรืออยู่แล้ว", "rationale": "Per uW figs-explicit: Jesus was already in the boat from v.1 — they left immediately without needing him to reboard. Thai 'ตามสภาพที่...อยู่แล้ว' (according-to-state-that...already) makes the already-there-ness explicit. 'ประทับ' (royal-sit) per Mark 4:1 precedent."},
+        {"greek": "ἄλλα πλοῖα ἦν μετ' αὐτοῦ", "thai": "มีเรือลำอื่นๆ ตามเสด็จไปด้วย", "rationale": "Per uW figs-explicit: other people got into other boats to sail with Jesus. Thai 'เรือลำอื่นๆ' (other boats) + 'ตามเสด็จ' (follow-royal-journey) — 'ตามเสด็จ' preserves the royal register and makes the 'with him' sense natural. The detail is often overlooked but establishes witnesses to the coming storm-miracle — this is not a private event."}
+      ]
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 4:37",
+    "chapter": 4,
+    "verse": 37,
+    "greek": "καὶ γίνεται λαῖλαψ μεγάλη ἀνέμου, καὶ τὰ κύματα ἐπέβαλλεν εἰς τὸ πλοῖον, ὥστε ἤδη γεμίζεσθαι τὸ πλοῖον.",
+    "bsb_english": "Soon a violent windstorm came up, and the waves were breaking over the boat, so that it was being swamped.",
+    "translation": {
+      "thai": "เกิดพายุลมอันรุนแรงขึ้น คลื่นก็ซัดเข้ามาในเรือจนเรือใกล้จะจมอยู่แล้ว",
+      "key_decisions": [
+        {"greek": "γίνεται (hist. pres.)", "thai": "เกิด...ขึ้น", "rationale": "Historic present (per uW v.37). Thai 'เกิด...ขึ้น' (arise-up) natural for meteorological events."},
+        {"greek": "λαῖλαψ μεγάλη ἀνέμου", "thai": "พายุลมอันรุนแรง", "rationale": "λαῖλαψ = whirlwind, squall, tempest. The Sea of Galilee is famous for sudden violent squalls descending from surrounding hills. Thai 'พายุ' (storm) + 'ลม' (wind) compound standard; 'อันรุนแรง' (one-that-is-violent) = μεγάλη 'great.' Stronger than mere χειμών (winter storm) — λαῖλαψ is a specific meteorological term for a sudden violent wind-storm."},
+        {"greek": "τὰ κύματα ἐπέβαλλεν εἰς τὸ πλοῖον (imperf.)", "thai": "คลื่นก็ซัดเข้ามาในเรือ", "rationale": "Per uW figs-idiom: 'breaking into' = waves coming over the sides. Imperfect ἐπέβαλλεν = 'kept breaking' (ongoing). Thai 'ซัด' (dash/crash) — natural Thai verb for waves hitting; 'เข้ามาในเรือ' (enter into-boat) preserves the penetrating motion. Number issue: plural waves, singular verb ἐπέβαλλεν — Greek neuter plural takes singular verb; Thai ignores number for verbs."},
+        {"greek": "ὥστε ἤδη γεμίζεσθαι τὸ πλοῖον", "thai": "จนเรือใกล้จะจมอยู่แล้ว", "rationale": "Per uW figs-activepassive: passive 'the boat was being filled (by waves).' Thai 'เรือใกล้จะจม' (boat nearing-will-sink) prioritizes the imminent-sinking reading over literal 'was being filled with water.' ἤδη ('already') + durative present passive = 'already on the verge of being swamped.' 'แล้ว' (perfective particle) marks the approached-state."}
+      ],
+      "notes": "λαῖλαψ is the specific term Luke 8:23 and 2 Pet 2:17 also use — intense squall. The Sea of Galilee (209m below sea level, ringed by 600m+ hills) is notorious for sudden violent winds; the geography makes the event historically credible."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 4:38",
+    "chapter": 4,
+    "verse": 38,
+    "greek": "καὶ αὐτὸς ἦν ἐν τῇ πρύμνῃ ἐπὶ τὸ προσκεφάλαιον καθεύδων· καὶ ἐγείρουσιν αὐτὸν καὶ λέγουσιν αὐτῷ· Διδάσκαλε, οὐ μέλει σοι ὅτι ἀπολλύμεθα;",
+    "bsb_english": "But Jesus was in the stern, sleeping on the cushion. So they woke Him and said, \"Teacher, don't You care that we are perishing?\"",
+    "translation": {
+      "thai": "ส่วนพระองค์เองบรรทมหลับอยู่ที่ท้ายเรือบนหมอนใบหนึ่ง พวกเขาปลุกพระองค์ขึ้น และทูลพระองค์ว่า 'พระอาจารย์ พระองค์ไม่ทรงเป็นห่วงหรือว่าพวกข้าพระองค์กำลังจะพินาศ?'",
+      "key_decisions": [
+        {"greek": "αὐτὸς ἦν (rpronoun emphasis)", "thai": "ส่วนพระองค์เอง", "rationale": "Per uW figs-rpronouns: αὐτός emphatic 'he himself' — stresses the striking juxtaposition of the sleeping Jesus with the storm. Thai 'ส่วนพระองค์เอง' (as-for-him-himself) preserves the emphatic contrast."},
+        {"greek": "ἐν τῇ πρύμνῃ", "thai": "ที่ท้ายเรือ", "rationale": "Per uW translate-unknown: πρύμνα = stern (back of boat). Thai 'ท้ายเรือ' (boat-stern/back) — standard Thai nautical vocabulary. Note: 'ท้ายเรือ' literally 'tail/end-of-boat,' natural Thai for 'stern.'"},
+        {"greek": "ἐπὶ τὸ προσκεφάλαιον (HAPAX)", "thai": "บนหมอนใบหนึ่ง", "rationale": "HAPAX LEGOMENON προσκεφάλαιον (NT). From πρὸς 'toward' + κεφαλή 'head' — 'the-thing-under-the-head' = pillow/cushion. Per uW translate-unknown: a soft object for resting. Thai 'หมอน' (pillow/cushion) standard. 'ใบหนึ่ง' (one-classifier) makes the specific cushion (definite article τὸ in Greek) a visible, tangible object — likely a rower's cushion kept in the stern. Mark's tactile detail is unique among the synoptics (Matt 8:24 and Luke 8:23 omit it). The cushion detail signals how DEEP Jesus' sleep was — serene amid catastrophe."},
+        {"greek": "καθεύδων (pres. ptcp.)", "thai": "บรรทมหลับอยู่", "rationale": "καθεύδω = sleep. Royal 'บรรทม' (royal-repose) — this is the only place in Mark 4 where Jesus sleeps, and the royal verb makes the contrast with the disciples' frantic waking more striking. 'หลับอยู่' (sleeping-continuous) aspect."},
+        {"greek": "ἐγείρουσιν αὐτὸν καὶ λέγουσιν αὐτῷ (hist. pres.)", "thai": "พวกเขาปลุกพระองค์ขึ้น และทูลพระองค์ว่า", "rationale": "Historic present (per uW v.38). 'ปลุก' (wake up) + 'ขึ้น' (up). 'ทูล' (royal-address) for disciples speaking to Jesus — respectful register."},
+        {"greek": "Διδάσκαλε (voc.)", "thai": "พระอาจารย์", "rationale": "Per uW (implicit): disciples' address to Jesus as teacher. Thai 'พระอาจารย์' (royal-teacher / master) — preserves the honorific the disciples give Jesus. Standard Thai Christian rendering for Jesus-as-teacher. Alternative 'อาจารย์' would lack the respect due; with the 'พระ' prefix it signals the disciples' deference."},
+        {"greek": "οὐ μέλει σοι ὅτι ἀπολλύμεθα; (rhet. q.)", "thai": "พระองค์ไม่ทรงเป็นห่วงหรือว่าพวกข้าพระองค์กำลังจะพินาศ?", "rationale": "Per uW figs-rquestion + figs-abstractnouns + figs-yousingular + figs-exclusive: μέλει σοι = 'does it concern you?'; σοι singular = single addressee (Jesus). ἀπολλύμεθα inclusive 'we (incl. you)' = 'we are perishing.' Thai 'พระองค์' (you divine) for σοι; 'ข้าพระองค์' (we humble-before-you) captures both 'we' and the humble register. 'ทรงเป็นห่วง' (royal-be-concerned) is the royal register for 'care' — preserves honorific. 'กำลังจะพินาศ' (are-about-to-perish) — 'พินาศ' is the strong biblical-register Thai for 'perish/be destroyed.' Panic-but-still-reverent tone preserved — a remarkable window into the disciples' theology: they wake the sleeping master because they believe he CAN do something, but they frame it as a rebuke of his indifference."}
+      ],
+      "notes": "HAPAX: προσκεφάλαιον (4:38). The cushion is Mark's signature tactile detail. Theological force: Jesus is MORE asleep than the disciples in a ship-of-fools Psalm 44-like scene — the Master of wind and sea is BEHAVING as if oblivious. The disciples' question carries both faith (they believe he CAN help) and rebuke (they think he SHOULD already be helping). Cultural note on register: Thai 'พระอาจารย์' for Διδάσκαλε is a deliberate choice — 'อาจารย์' alone (teacher) would be wrong since Mark 9:5, 11:21, 14:45 all use Διδάσκαλε/ῥαββί for Jesus as Lord-teacher. Using royal 'พระ' maintains Jesus' authority even when disciples are panicking."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 4:39",
+    "chapter": 4,
+    "verse": 39,
+    "greek": "καὶ διεγερθεὶς ἐπετίμησεν τῷ ἀνέμῳ καὶ εἶπεν τῇ θαλάσσῃ· Σιώπα, πεφίμωσο. καὶ ἐκόπασεν ὁ ἄνεμος, καὶ ἐγένετο γαλήνη μεγάλη.",
+    "bsb_english": "Then Jesus got up and rebuked the wind and the sea. \"Silence!\" He commanded. \"Be still!\" And the wind died down, and it was perfectly calm.",
+    "translation": {
+      "thai": "พระองค์ตื่นขึ้น ทรงกำชับลม และตรัสกับทะเลว่า 'จงเงียบเถิด จงสงบนิ่ง' ลมก็หยุด และทะเลก็สงบราบเรียบอย่างยิ่ง",
+      "key_decisions": [
+        {"greek": "διεγερθεὶς (aor. pass. ptcp.)", "thai": "ตื่นขึ้น", "rationale": "διεγείρω = 'wake up thoroughly' (perfect wakefulness — intensive δια-). Aorist passive. Thai 'ตื่นขึ้น' (wake-up) for plain waking. 'ทรง' prefix held back for the immediately following action-verb (parallel structure)."},
+        {"greek": "ἐπετίμησεν τῷ ἀνέμῳ", "thai": "ทรงกำชับลม", "rationale": "Per glossary Mark 3:12 precedent: ἐπιτιμάω = 'ทรงกำชับ' (royal rebuke/charge). Same verb used to silence demons (1:25) and the demonically-agitated sea here. The correspondence is deliberate: Mark frames the storm as supernatural-hostile, countered by Jesus with exorcist-grade authority. Royal 'ทรง' preserved."},
+        {"greek": "Σιώπα (pres. impv.)", "thai": "จงเงียบเถิด", "rationale": "Direct address to the sea. σιωπάω 'be silent.' Per uW figs-yousingular: sg. (sea is sg.). Thai 'จงเงียบเถิด' (command-be-silent) preserves the commanding force. No register concerns — inanimate addressee doesn't require ราชาศัพท์ modification."},
+        {"greek": "πεφίμωσο (perf. pass. impv.)", "thai": "จงสงบนิ่ง", "rationale": "φιμόω = 'muzzle' (lit.), metaphorically 'silence.' PERFECT PASSIVE imperative — unusual form meaning 'be in the muzzled state (and remain so).' Per uW figs-doublet + figs-yousingular: paired with σιώπα for emphasis. Same verb used in Mark 1:25 to a demon ('be muzzled!'). Thai 'จงสงบนิ่ง' (command-be-still-motionless) — 'สงบ' (calm/be-at-peace) + 'นิ่ง' (motionless) captures the continued-state force of the perfect imperative. Alternative 'จงนิ่งเงียบ' would be too similar to σιώπα rendering; 'สงบนิ่ง' emphasizes the 'remain in stillness' semantics of the perfect."},
+        {"greek": "ἐκόπασεν ὁ ἄνεμος", "thai": "ลมก็หยุด", "rationale": "κοπάζω = 'grow tired, cease, abate.' Thai 'หยุด' (stop/cease) — simple and decisive, matching the sudden cessation. 'ลม' (wind) short and stark."},
+        {"greek": "ἐγένετο γαλήνη μεγάλη", "thai": "ทะเลก็สงบราบเรียบอย่างยิ่ง", "rationale": "Per uW figs-abstractnouns: γαλήνη = calm. μεγάλη 'great.' Thai 'สงบราบเรียบ' (calm-smooth-even) — 'ราบเรียบ' captures the visual flatness of the calmed sea surface; 'อย่างยิ่ง' (extremely) intensifies. 'ทะเล' (sea) added as subject — Greek has no explicit subject (implied 'there came a great calm'); Thai benefits from the explicit 'ทะเล' (the sea) to close the scene."}
+      ],
+      "notes": "THEOLOGICAL CRUX: The perfect passive imperative πεφίμωσο is extraordinary — Jesus addresses the sea as a personal/demonic entity to be muzzled into continued submission. The sea in OT is chaos (Ps 74:13–14; 89:9; Isa 51:9–10) which only YHWH rebukes. Psalms 89:8-9, 107:28-29 ('he stilled the storm to a whisper, and the waves of the sea were hushed') are the intertextual key: Jesus performs what only YHWH does. The disciples' question in v.41 arises from precisely this recognition. The exorcist-language (ἐπιτιμάω, φιμόω) parallels Mark 1:25, where the same verbs silence an unclean spirit — underlining that for Mark, chaos-forces of nature and demons occupy the same spiritual category."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 4:40",
+    "chapter": 4,
+    "verse": 40,
+    "greek": "καὶ εἶπεν αὐτοῖς· Τί δειλοί ἐστε; οὔπω ἔχετε πίστιν;",
+    "bsb_english": "\"Why are you so afraid?\" He asked. \"Do you still have no faith?\"",
+    "translation": {
+      "thai": "แล้วพระองค์ตรัสกับพวกเขาว่า 'ทำไมพวกท่านจึงขลาดกลัวเช่นนี้? ยังไม่มีความเชื่ออีกหรือ?'",
+      "key_decisions": [
+        {"greek": "Τί δειλοί ἐστε; (rhet. q.)", "thai": "ทำไมพวกท่านจึงขลาดกลัวเช่นนี้?", "rationale": "Per uW figs-rquestion: question as rebuke. δειλός = 'cowardly, timid' — stronger than mere φοβέομαι (ordinary fear). Thai 'ขลาดกลัว' (timid-afraid) captures the pejorative shade. 'เช่นนี้' (like-this) adds the reproachful 'so' — 'why are you SO cowardly.' 'พวกท่าน' Jesus-to-disciples respectful-but-firm register."},
+        {"greek": "οὔπω ἔχετε πίστιν; (rhet. q.)", "thai": "ยังไม่มีความเชื่ออีกหรือ?", "rationale": "Per uW figs-abstractnouns: πίστις = faith. Per glossary Mark 2:5: 'ความเชื่อ.' 'οὔπω' = 'not yet' — Thai 'ยังไม่...อีก' (not-yet-still). The 'not yet' is crucial: Jesus doesn't say they have no faith, but that they have not YET reached the level of faith that the parables and now this miracle should produce. 'อีกหรือ' (yet?) preserves rhetorical-question form. Jesus could mean: faith in God (uW option 1) or faith in himself (uW option 2) — Thai preserves the ambiguity, as Greek does."}
+      ],
+      "notes": "The δειλός/πίστις contrast: cowardice vs. faith. The disciples have SEEN Jesus cast out demons, heal the paralytic, command lepers — yet with a storm they panic. Jesus' rebuke points backward (should have known) and forward (more to learn). Thai 'ขลาดกลัว' preserves the harshness — Jesus is not gentle here."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 4:41",
+    "chapter": 4,
+    "verse": 41,
+    "greek": "καὶ ἐφοβήθησαν φόβον μέγαν, καὶ ἔλεγον πρὸς ἀλλήλους· Τίς ἄρα οὗτός ἐστιν ὅτι καὶ ὁ ἄνεμος καὶ ἡ θάλασσα ὑπακούει αὐτῷ;",
+    "bsb_english": "Overwhelmed with fear, they asked one another, \"Who is this, that even the wind and the sea obey Him?\"",
+    "translation": {
+      "thai": "พวกเขาหวาดกลัวอย่างยิ่ง และพูดกันว่า 'ท่านผู้นี้คือใครกันเล่า? เพราะแม้แต่ลมและทะเลก็ยังเชื่อฟังท่าน'",
+      "key_decisions": [
+        {"greek": "ἐφοβήθησαν φόβον μέγαν (cognate acc.)", "thai": "หวาดกลัวอย่างยิ่ง", "rationale": "Per uW figs-idiom: Hebrew-style cognate accusative 'they feared a great fear' = 'were extremely afraid.' Thai 'หวาดกลัว' (fear-awe) + 'อย่างยิ่ง' (extremely) captures the intensification. Note: this is a DIFFERENT fear than their earlier storm-panic — this is awe-terror at Jesus' power, the kind of fear one has before divine presence (cf. Exod 14:31; Isa 6:5). 'หวาดกลัว' carries more reverential-awe than 'ขลาดกลัว' (v.40's cowardice)."},
+        {"greek": "ἔλεγον πρὸς ἀλλήλους (imperf.)", "thai": "พูดกันว่า", "rationale": "Imperfect = ongoing discussion. 'พูดกันว่า' (talking-to-each-other-that) — Thai doesn't need the royal register for disciples speaking among themselves."},
+        {"greek": "Τίς ἄρα οὗτός ἐστιν; (rhet. q. — but real Q)", "thai": "ท่านผู้นี้คือใครกันเล่า?", "rationale": "Per uW v.41: NOT a rhetorical question — a genuine question. The disciples ACTUALLY don't yet understand who Jesus is. ἄρα ('then') marks inferential: 'given what he just did, WHO IS HE?' Thai 'ท่านผู้นี้' (this-honored-person) — 'ท่าน' respectful (disciples speaking ABOUT Jesus, not to him — use of 'ท่าน' keeps the honor). 'คือใครกันเล่า?' (who-is-emphatic?) preserves the incredulous-inquisitive tone. The disciples' Q is Mark's structural Q: the entire gospel drives toward the answer, confirmed at the cross (15:39)."},
+        {"greek": "καὶ ὁ ἄνεμος καὶ ἡ θάλασσα ὑπακούει αὐτῷ", "thai": "แม้แต่ลมและทะเลก็ยังเชื่อฟังท่าน", "rationale": "'Even the wind and the sea obey him.' Thai 'แม้แต่' (even) + 'ก็ยัง' (also-still) preserves καί's double emphatic force. 'ท่าน' (honorific) preserved since disciples speak about Jesus with emerging reverence even as they don't fully know him. ὑπακούει = 'obey, hearken to' — note that the same wind/sea are described as ACOUSTIC-agents (they HEAR and OBEY) — picking up the hearing-theology of vv.3, 9, 23 and demonstrating that creation itself hears Jesus' command. Number agreement: Greek neut. pl. subjects can take sg. verb — Thai ignores."}
+      ],
+      "notes": "KEY CHRISTOLOGICAL QUESTION: 'Who is this?' is THE Markan question. Echoes: Ps 89:8-9 ('O LORD God of hosts, who is like you?... you still the raging of the sea'), Ps 107:29 ('he stilled the storm to a whisper'), Job 38:8-11 (God sets bounds to the sea). For a first-century Jew, the answer is 'only YHWH commands the sea.' Mark places this question at the climax of the chapter to force the reader toward the same conclusion the centurion will declare at 15:39: 'Truly this man was the Son of God.' The double-fear (phobos at the storm, phobos at the Savior) recalls the double-seeing/double-hearing of v.12: recognition comes through trembling awe, not comfortable knowledge. THEME CLOSURE: Chapter 4 opens with 'listen!' (v.3) and closes with 'the wind and sea OBEY' (ὑπακούει = 'hear-under'). Jesus' word that the disciples struggle to hear is heard-and-obeyed by creation itself. Mark's narrative sermon: if even wind obeys him, so must you."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  }
+]
