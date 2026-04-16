@@ -1,0 +1,617 @@
+[
+  {
+    "reference": "Mark 3:1",
+    "chapter": 3,
+    "verse": 1,
+    "greek": "Καὶ εἰσῆλθεν πάλιν εἰς συναγωγήν, καὶ ἦν ἐκεῖ ἄνθρωπος ἐξηραμμένην ἔχων τὴν χεῖρα.",
+    "bsb_english": "Once again Jesus entered the synagogue, and a man with a withered hand was there.",
+    "translation": {
+      "thai": "พระองค์เสด็จเข้าไปในธรรมศาลาอีกครั้งหนึ่ง และมีชายคนหนึ่งอยู่ที่นั่น มือของเขาลีบ",
+      "key_decisions": [
+        {"greek": "εἰσῆλθεν πάλιν εἰς συναγωγήν", "thai": "เสด็จเข้าไปในธรรมศาลาอีกครั้งหนึ่ง", "rationale": "Royal verb of motion 'เสด็จ' for Jesus. συναγωγή rendered 'ธรรมศาลา' per glossary (Mark 1:21, 1:23, 1:29, 1:39). πάλιν ('again') implies a previously-visited synagogue — likely Capernaum (per uW), though Mark does not explicitly say."},
+        {"greek": "ἐξηραμμένην ἔχων τὴν χεῖρα", "thai": "มือของเขาลีบ", "rationale": "Perfect passive participle ἐξηραμμένην from ξηραίνω 'dry up, wither' — completed-and-continuing state: the hand has become withered and remains so. Medically, the hand was atrophied/shriveled. Thai 'ลีบ' is the precise medical/idiomatic term for an atrophied limb (vs. 'เหี่ยว' = withered of plants). Opens the stage for the Sabbath-healing confrontation."}
+      ],
+      "notes": "Chapter begins a major unit (3:1–6) — the fifth and climactic conflict story of 2:1–3:6 leading to the Pharisee-Herodian plot against Jesus' life."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 3:2",
+    "chapter": 3,
+    "verse": 2,
+    "greek": "καὶ παρετήρουν αὐτὸν εἰ τοῖς σάββασιν θεραπεύσει αὐτόν, ἵνα κατηγορήσωσιν αὐτοῦ.",
+    "bsb_english": "In order to accuse Jesus, they were watching to see if He would heal on the Sabbath.",
+    "translation": {
+      "thai": "พวกเขาคอยจับตาดูพระองค์ว่าจะทรงรักษาชายคนนั้นในวันสะบาโตหรือไม่ เพื่อจะหาเหตุกล่าวหาพระองค์",
+      "key_decisions": [
+        {"greek": "παρετήρουν (imperf.)", "thai": "คอยจับตาดู", "rationale": "παρατηρέω = 'watch alongside / watch closely with hostile intent' (cf. Luke 6:7, 14:1 similar surveillance contexts). Imperfect = ongoing, sustained observation. Thai 'คอยจับตาดู' (keep-an-eye watching) captures the hostile vigilance."},
+        {"greek": "εἰ...θεραπεύσει (indirect question, fut. ind.)", "thai": "ว่าจะทรง...หรือไม่", "rationale": "εἰ + future indicative introduces an indirect question expecting answer. Thai 'ว่า...หรือไม่' (whether...or not) is natural."},
+        {"greek": "τοῖς σάββασιν", "thai": "ในวันสะบาโต", "rationale": "Plural σάββατα idiomatically = a single Sabbath (consistent with Mark 2:23). Thai 'วันสะบาโต' (Sabbath day)."},
+        {"greek": "implicit subject (Pharisees)", "thai": "พวกเขา", "rationale": "Subject of παρετήρουν is ambiguous in Greek — revealed in 3:6 as Pharisees. Thai 'พวกเขา' preserves the narrative suspense; the identity is unveiled only at v.6."},
+        {"greek": "ἵνα κατηγορήσωσιν αὐτοῦ", "thai": "เพื่อจะหาเหตุกล่าวหาพระองค์", "rationale": "Purpose clause with aor. subj. κατηγορέω = 'accuse' (forensic term). Thai 'หาเหตุกล่าวหา' (seek grounds to accuse) captures the legal-entrapment intent per uW (they want to accuse of breaking Sabbath law)."}
+      ]
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 3:3",
+    "chapter": 3,
+    "verse": 3,
+    "greek": "καὶ λέγει τῷ ἀνθρώπῳ τῷ τὴν χεῖρα ἔχοντι ξηράν· Ἔγειρε εἰς τὸ μέσον.",
+    "bsb_english": "Then Jesus said to the man with the withered hand, \"Stand up among us.\"",
+    "translation": {
+      "thai": "พระองค์จึงตรัสกับชายผู้มีมือลีบว่า 'จงลุกขึ้นมายืนตรงกลางนี้'",
+      "key_decisions": [
+        {"greek": "λέγει (hist. pres.)", "thai": "ตรัส", "rationale": "Historic present — Mark's vivid narrative device. Royal speech verb 'ตรัส' for Jesus. uW notes v.3 as one of the chapter's historic-present moments."},
+        {"greek": "ξηράν", "thai": "ลีบ", "rationale": "Adjective cognate with the perfect participle in v.1. Same Thai rendering 'ลีบ' preserves lexical consistency."},
+        {"greek": "Ἔγειρε εἰς τὸ μέσον", "thai": "จงลุกขึ้นมายืนตรงกลางนี้", "rationale": "Literal 'Arise into the middle' — the Greek is elliptical. Per uW: idiom for 'stand where everyone can see you.' Thai adds 'ยืน' (stand) for clarity, since 'ลุกขึ้น' alone could merely mean 'get up.' Jesus stages the healing publicly, not privately — heightening the Sabbath confrontation."},
+        {"greek": "Jesus to the man (divine → human in need)", "thai": "เจ้า (implicit)", "rationale": "Register consistent with Mark 2:5 (Jesus to paralytic): divine-to-human with compassion. Here the imperative 'จง' + 'เจ้า' implied in the address form 'ชายผู้มีมือลีบ.'"}
+      ]
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 3:4",
+    "chapter": 3,
+    "verse": 4,
+    "greek": "καὶ λέγει αὐτοῖς· Ἔξεστιν τοῖς σάββασιν ἀγαθοποιῆσαι ἢ κακοποιῆσαι, ψυχὴν σῶσαι ἢ ἀποκτεῖναι; οἱ δὲ ἐσιώπων.",
+    "bsb_english": "And He asked them, \"Which is lawful on the Sabbath: to do good or to do evil, to save life or to destroy it?\" But they were silent.",
+    "translation": {
+      "thai": "แล้วตรัสกับพวกเขาว่า 'ในวันสะบาโต สิ่งใดเป็นที่อนุญาต การทำดีหรือการทำชั่ว การช่วยชีวิตหรือการฆ่า?' แต่พวกเขานิ่งเงียบ",
+      "key_decisions": [
+        {"greek": "Ἔξεστιν", "thai": "เป็นที่อนุญาต", "rationale": "Impersonal 'it is lawful/permitted.' Contrasts with 2:24 where Pharisees said 'ὃ οὐκ ἔξεστιν' ('สิ่งที่ผิดกฎ' = 'what is not permitted'). Thai 'เป็นที่อนุญาต' (is permitted) is the positive complement — maintaining lexical echo with the Pharisees' accusation in the previous chapter."},
+        {"greek": "ἀγαθοποιῆσαι ἢ κακοποιῆσαι", "thai": "การทำดีหรือการทำชั่ว", "rationale": "Aorist infinitives — 'to do good / to do evil.' Stark moral antithesis. Thai nominalized infinitive 'การ+verb' preserves the abstract/infinitival feel."},
+        {"greek": "ψυχὴν σῶσαι ἢ ἀποκτεῖναι", "thai": "การช่วยชีวิตหรือการฆ่า", "rationale": "ψυχή here = 'life' (standard Greek usage, not 'soul' in the platonic sense). σῶσαι (aor. inf.) 'to save'; ἀποκτεῖναι 'to kill.' Per uW: 'save a life' = 'prevent from dying.' Thai 'การช่วยชีวิต' natural; 'การฆ่า' (killing) keeps the extreme-parallel. Jesus' rhetorical loading: the Pharisees by NOT healing are on the 'do harm / kill' side by inaction."},
+        {"greek": "Jesus to Pharisees (confrontational)", "thai": "พวกเขา (in narrator frame); zero 2nd-person in direct speech", "rationale": "Rhetorical question lacks direct 2nd-person marker in Greek. Thai preserves impersonal form ('สิ่งใด...') without inserting 'พวกท่าน,' which would be awkward for a hypothetical-form rhetorical question. Register choice consistent with Mark 2:25 (Jesus-to-Pharisees = peer-level 'พวกท่าน') when personal address is needed."},
+        {"greek": "οἱ δὲ ἐσιώπων (imperf.)", "thai": "แต่พวกเขานิ่งเงียบ", "rationale": "σιωπάω 'be silent.' Imperfect = sustained silence (not a momentary pause). Thai 'นิ่งเงียบ' (stay-still-silent) captures the weighted refusal to answer."}
+      ],
+      "notes": "Jesus frames the Sabbath question in life-or-death terms, exposing the absurdity of the Pharisees' position: their silence acknowledges that they cannot answer the moral question but will still accuse him for healing."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 3:5",
+    "chapter": 3,
+    "verse": 5,
+    "greek": "καὶ περιβλεψάμενος αὐτοὺς μετ' ὀργῆς, συλλυπούμενος ἐπὶ τῇ πωρώσει τῆς καρδίας αὐτῶν, λέγει τῷ ἀνθρώπῳ· Ἔκτεινον τὴν χεῖρα· καὶ ἐξέτεινεν, καὶ ἀπεκατεστάθη ἡ χεὶρ αὐτοῦ.",
+    "bsb_english": "Jesus looked around at them with anger and sorrow at their hardness of heart. Then He said to the man, \"Stretch out your hand.\" So he stretched it out, and it was restored.",
+    "translation": {
+      "thai": "พระองค์ทอดพระเนตรกวาดไปรอบๆ ด้วยพระพิโรธ ทรงโทมนัสเพราะใจที่แข็งกระด้างของพวกเขา แล้วตรัสกับชายผู้นั้นว่า 'จงเหยียดมือของเจ้าออกมา' เขาก็เหยียดออก และมือของเขาก็กลับเป็นปกติ",
+      "key_decisions": [
+        {"greek": "περιβλεψάμενος (aor. mid. ptcp.)", "thai": "ทอดพระเนตรกวาดไปรอบๆ", "rationale": "περιβλέπω = 'look around, survey.' Middle voice for the subject's own perspective. Royal 'ทอดพระเนตร' per glossary, with 'กวาดไปรอบๆ' (sweep around) preserving the 360° gaze. Same verb recurs in v.34 — there an affectionate gaze at disciples; here an angry gaze at opponents. The Markan narrator uses the verb as a marker of Jesus' authoritative visual assessment."},
+        {"greek": "μετ' ὀργῆς", "thai": "ด้วยพระพิโรธ", "rationale": "ὀργή = anger/wrath. Royal 'พระพิโรธ' reserved for divine/royal anger. One of only a few NT verses explicitly ascribing anger to Jesus — this is theologically weighty and should not be softened."},
+        {"greek": "συλλυπούμενος (HAPAX συλλυπέομαι, pres. mid. ptcp.)", "thai": "ทรงโทมนัส", "rationale": "HAPAX LEGOMENON. Compound σύν + λυπέομαι. Two possibilities: (1) intensive συν- = 'deeply grieved' (majority reading, BSB); (2) συν- 'together with' = 'grieved along with them (in their condition).' Context (paired with ὀργή) favors reading 1 — Jesus is grieved AT their hardness, not grieved WITH them. Thai 'ทรงโทมนัส' (royal verb of inner grief/distress) captures the divine sorrow. Paired with 'พระพิโรธ' the two emotions coexist: righteous anger at evil + sorrow for hardened hearts."},
+        {"greek": "πωρώσει τῆς καρδίας αὐτῶν", "thai": "ใจที่แข็งกระด้าง", "rationale": "πώρωσις = hardening, petrification (medical term for callus formation). Metaphor for moral stubbornness per uW. Thai 'ใจแข็งกระด้าง' (hard-unyielding heart) is standard biblical Thai idiom. Singular καρδία in Greek — corporate 'their one [hard] heart'; Thai neutralizes to natural reading."},
+        {"greek": "Ἔκτεινον τὴν χεῖρα", "thai": "จงเหยียดมือของเจ้าออกมา", "rationale": "Aor. imperative ἐκτείνω = 'stretch out.' Per uW: this is not a command the man could naturally obey (his hand was atrophied) — the command itself effected the healing. Jesus-to-sufferer register: 'เจ้า' (divine-to-human intimate, per Mark 2:5)."},
+        {"greek": "ἀπεκατεστάθη (aor. pass.)", "thai": "กลับเป็นปกติ", "rationale": "ἀποκαθίστημι = 'restore to a former/proper state.' Aorist passive with divine agent implicit per uW. Thai 'กลับเป็นปกติ' (returned to normal) natural; preserves the passive by not naming Jesus overtly. The verb ἀποκαθίστημι is also used eschatologically (Mal 4:6 LXX; Acts 1:6) — restoration is a Messianic theme."}
+      ],
+      "notes": "HAPAX: συλλυπέομαι (3:5). Theologically significant: Mark attributes ὀργή to Jesus paired with συλλυπέομαι — divine anger and divine sorrow coexisting over human hardness. Parallels the prophetic tradition (cf. Jer 9, Hos 11). Matthew 12:13 and Luke 6:10 both omit these emotional details — Mark's portrait is starker. The healing itself is remarkably terse — the dispute overshadows the miracle, signaling that the real subject is not physical restoration but the reader's response to Christ's authority."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 3:6",
+    "chapter": 3,
+    "verse": 6,
+    "greek": "καὶ ἐξελθόντες οἱ Φαρισαῖοι εὐθὺς μετὰ τῶν Ἡρῳδιανῶν συμβούλιον ἐδίδουν κατ' αὐτοῦ ὅπως αὐτὸν ἀπολέσωσιν.",
+    "bsb_english": "At this, the Pharisees went out and began plotting with the Herodians how they might kill Jesus.",
+    "translation": {
+      "thai": "พวกฟาริสีจึงออกไปทันที และร่วมกับพวกเฮโรเดียนปรึกษาหารือกันว่าจะกำจัดพระองค์เสียอย่างไร",
+      "key_decisions": [
+        {"greek": "εὐθύς", "thai": "ทันที", "rationale": "Mark's signature 'immediately' — here underscoring the Pharisees' swift move from legal entrapment to lethal conspiracy. Consistent with prior chapters' rendering."},
+        {"greek": "Ἡρῳδιανῶν", "thai": "พวกเฮโรเดียน", "rationale": "Supporters of Herod Antipas (per uW) — a political faction (not a religious sect). Normally opposed to Pharisees, but united against Jesus. Thai 'พวกเฮโรเดียน' (Herod-faction group) — transliteration + classifier 'พวก.' Their alliance with Pharisees in this verse foreshadows the political-religious coalition that will crucify Jesus."},
+        {"greek": "συμβούλιον ἐδίδουν (imperf.)", "thai": "ปรึกษาหารือกัน", "rationale": "Periphrasis 'they were giving counsel.' SBLGNT reads ἐδίδουν ('were giving'); other mss ἐποίουν ('were making'). Either way = 'held a council.' Imperfect = deliberative process, not a single act. Thai 'ปรึกษาหารือกัน' (take counsel together / deliberate together) natural."},
+        {"greek": "ὅπως αὐτὸν ἀπολέσωσιν", "thai": "จะกำจัดพระองค์เสียอย่างไร", "rationale": "ὅπως + aor. subj. = 'how they might...' ἀπόλλυμι 'destroy, ruin' — strong verb. Per uW = 'kill him.' Thai 'กำจัด' (eliminate) + 'เสีย' (finalized/accomplished-action particle) captures the plot's lethal intent without being coarse. First passion-foreshadowing by active human agency in Mark (after 2:20's bridegroom-taken hint)."}
+      ],
+      "notes": "STRUCTURAL TURNING POINT: Closes the 2:1–3:6 controversy cycle with the first explicit murder plot against Jesus. The Pharisee-Herodian alliance is politically startling (normally antagonists) and foreshadows the later religious-political coalition of Temple authorities + Pilate. Mark's rapid escalation from teaching (1:22) → forgiving sins (2:7) → eating with sinners (2:16) → Sabbath (2:24) → Sabbath-healing (3:5) → murder plot (3:6) is deliberate."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 3:7",
+    "chapter": 3,
+    "verse": 7,
+    "greek": "Καὶ ὁ Ἰησοῦς μετὰ τῶν μαθητῶν αὐτοῦ ἀνεχώρησεν πρὸς τὴν θάλασσαν· καὶ πολὺ πλῆθος ἀπὸ τῆς Γαλιλαίας ἠκολούθησεν, καὶ ἀπὸ τῆς Ἰουδαίας",
+    "bsb_english": "So Jesus withdrew with His disciples to the sea, accompanied by a large crowd from Galilee, Judea,",
+    "translation": {
+      "thai": "พระเยซูเสด็จออกไปกับบรรดาสาวกของพระองค์ไปยังทะเลกาลิลี และมีฝูงชนจำนวนมากจากแคว้นกาลิลีและจากแคว้นยูเดียติดตามไป",
+      "key_decisions": [
+        {"greek": "ἀνεχώρησεν", "thai": "เสด็จออกไป", "rationale": "ἀναχωρέω = 'withdraw, retreat' (often strategic retreat from danger). In immediate context following 3:6's murder plot, this is a strategic withdrawal. Royal 'เสด็จ' + 'ออกไป' (depart-out). Thai does not explicitly mark the 'withdrawal' nuance beyond contextual reading — the flight from danger is understood by proximity to v.6."},
+        {"greek": "τὴν θάλασσαν", "thai": "ทะเลกาลิลี", "rationale": "'The sea' = Sea of Galilee (per Markan narrative context, also 1:16 precedent). Technically a freshwater lake ~21km long, but ancient and biblical usage calls it 'sea.' Thai biblical standard 'ทะเลกาลิลี' (Galilee-sea) — making the referent explicit. Consistent with Mark 1:16 'ทะเลกาลิลี.'"},
+        {"greek": "Γαλιλαίας / Ἰουδαίας", "thai": "แคว้นกาลิลี / แคว้นยูเดีย", "rationale": "Standard Thai biblical transliterations with 'แคว้น' (region/province) classifier. Galilee = Jesus' home region; Judea = southern region including Jerusalem. The geographic widening (vv.7–8) shows Jesus' fame spreading across the entire Jewish world."},
+        {"greek": "ἠκολούθησεν (aor.)", "thai": "ติดตามไป", "rationale": "ἀκολουθέω = follow. Aorist = simple past. Thai 'ติดตามไป' (follow-go) standard."}
+      ]
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 3:8",
+    "chapter": 3,
+    "verse": 8,
+    "greek": "καὶ ἀπὸ Ἱεροσολύμων καὶ ἀπὸ τῆς Ἰδουμαίας καὶ πέραν τοῦ Ἰορδάνου καὶ περὶ Τύρον καὶ Σιδῶνα, πλῆθος πολύ, ἀκούοντες ὅσα ἐποίει ἦλθον πρὸς αὐτόν.",
+    "bsb_english": "Jerusalem, Idumea, the region beyond the Jordan, and the vicinity of Tyre and Sidon. The large crowd came to Him when they heard what great things He was doing.",
+    "translation": {
+      "thai": "และจากกรุงเยรูซาเล็ม จากแคว้นอิดูเมอา จากอีกฟากของแม่น้ำจอร์แดน และจากบริเวณเมืองไทระและไซดอน ฝูงชนจำนวนมากได้ยินถึงสิ่งที่พระองค์ทรงกระทำ ก็พากันมาหาพระองค์",
+      "key_decisions": [
+        {"greek": "Ἱεροσολύμων", "thai": "กรุงเยรูซาเล็ม", "rationale": "Standard Thai biblical transliteration with 'กรุง' (royal city) classifier."},
+        {"greek": "Ἰδουμαίας (HAPAX in Mark)", "thai": "แคว้นอิดูเมอา", "rationale": "HAPAX LEGOMENON in Mark (and in the whole NT!). Idumea = Hellenized 'Edom' — the southern region inhabited by descendants of Esau, forcibly Judaized by John Hyrcanus (c. 125 BC). Herod the Great's family origin. Thai transliteration 'อิดูเมอา' (closest phonetic)."},
+        {"greek": "πέραν τοῦ Ἰορδάνου", "thai": "อีกฟากของแม่น้ำจอร์แดน", "rationale": "πέραν = 'across/beyond.' From Jerusalem's perspective = east side (per uW). Thai 'อีกฟาก' (the other side) preserves the Greek's directionally-relative idiom. Could be expanded to 'ฝั่งตะวันออก' (east bank) for explicit clarity, but 'อีกฟาก' matches standard Thai biblical usage and allows the geographic orientation to remain as Mark phrased it."},
+        {"greek": "Τύρον καὶ Σιδῶνα", "thai": "ไทระและไซดอน", "rationale": "Phoenician coastal cities (modern Lebanon). Standard Thai biblical transliterations. Significant as Gentile territory — crowd includes non-Jews, foreshadowing the gospel's universal reach (cf. Mark 7:24)."},
+        {"greek": "πλῆθος πολύ ... ἦλθον", "thai": "ฝูงชนจำนวนมาก...ก็พากันมา", "rationale": "The Greek is awkward: 'a great multitude ... they came' (singular noun + plural verb). Per uW note, this could signal two groups (Galileans who followed v.7; others who came v.8). Thai reads naturally as one continuous stream; we render without forcing the two-group distinction, matching BSB's collapsed translation."},
+        {"greek": "ἀκούοντες ὅσα ἐποίει (imperf.)", "thai": "ได้ยินถึงสิ่งที่พระองค์ทรงกระทำ", "rationale": "Imperfect ἐποίει = 'was doing' (ongoing miracle-working). Per uW: ὅσα ἐποίει = 'the great/amazing things he was doing' — not neutral. Thai 'สิ่งที่ทรงกระทำ' royal rendering."}
+      ],
+      "notes": "HAPAX: Ἰδουμαία (3:8). The six-region catalog (Galilee, Judea, Jerusalem, Idumea, TransJordan, Tyre/Sidon) traces the boundaries of the Jewish diaspora plus Gentile regions. Mark's geographic sweep signals that Jesus' fame now transcends regional boundaries — including Gentile territory, anticipating the universal mission."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 3:9",
+    "chapter": 3,
+    "verse": 9,
+    "greek": "καὶ εἶπεν τοῖς μαθηταῖς αὐτοῦ ἵνα πλοιάριον προσκαρτερῇ αὐτῷ διὰ τὸν ὄχλον ἵνα μὴ θλίβωσιν αὐτόν·",
+    "bsb_english": "Jesus asked His disciples to have a boat ready for Him so that the crowd would not crush Him.",
+    "translation": {
+      "thai": "พระองค์รับสั่งกับบรรดาสาวกของพระองค์ให้เตรียมเรือลำเล็กคอยพระองค์อยู่เสมอ เพราะฝูงชน เพื่อมิให้พวกเขาเบียดพระองค์",
+      "key_decisions": [
+        {"greek": "εἶπεν...ἵνα", "thai": "รับสั่ง...ให้", "rationale": "Indirect command: εἶπεν + ἵνα + pres. subj. = 'told them to...' Royal 'รับสั่ง' for Jesus' command to disciples. Thai 'ให้' introduces the indirect command."},
+        {"greek": "πλοιάριον", "thai": "เรือลำเล็ก", "rationale": "Diminutive of πλοῖον 'boat' = small boat, skiff. Thai 'เรือลำเล็ก' (small-boat) explicit — preserving the diminutive. The smallness signals escape-vehicle rather than working fishing boat."},
+        {"greek": "προσκαρτερῇ (pres. subj.)", "thai": "เตรียม...คอย...อยู่เสมอ", "rationale": "προσκαρτερέω = 'persist, remain steadfastly alongside' — stand by / be continually ready. Present subjunctive = ongoing state. Thai 'เตรียม...คอย...อยู่เสมอ' (have prepared...wait...always) captures the continuous readiness."},
+        {"greek": "ἵνα μὴ θλίβωσιν αὐτόν", "thai": "เพื่อมิให้พวกเขาเบียดพระองค์", "rationale": "θλίβω = press, crush, squeeze. Per uW: the crowd may injure him by crushing. Thai 'เบียด' (press-squeeze-in-a-crowd) is the natural Thai idiom for crowd pressure."}
+      ]
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 3:10",
+    "chapter": 3,
+    "verse": 10,
+    "greek": "πολλοὺς γὰρ ἐθεράπευσεν, ὥστε ἐπιπίπτειν αὐτῷ ἵνα αὐτοῦ ἅψωνται ὅσοι εἶχον μάστιγας.",
+    "bsb_english": "For He had healed so many that all who had diseases were pressing forward to touch Him.",
+    "translation": {
+      "thai": "เพราะพระองค์ทรงรักษาผู้คนเป็นจำนวนมาก จนคนที่มีโรคภัยต่างๆ พากันเบียดเสียดเข้ามาเพื่อจะสัมผัสพระองค์",
+      "key_decisions": [
+        {"greek": "ἐθεράπευσεν (aor., global summary)", "thai": "ทรงรักษา", "rationale": "Royal healing verb. Aorist summary of repeated healing acts."},
+        {"greek": "ἐπιπίπτειν (pres. inf.)", "thai": "พากันเบียดเสียดเข้ามา", "rationale": "ἐπιπίπτω = 'fall upon' (intensified crowd surging). Present infinitive in a ὥστε-result clause = ongoing action. Per uW: crowd pressed against each other to get to Jesus. Thai 'พากันเบียดเสียด' (all-together press-in-a-crush) captures the mob dynamic."},
+        {"greek": "μάστιγας", "thai": "โรคภัยต่างๆ", "rationale": "μάστιξ = literally 'whip/scourge,' idiomatically 'illness' (ancient view of disease as divine 'scourge'). Thai 'โรคภัย' (illness-affliction) is the standard biblical rendering; 'ต่างๆ' (various) preserves the 'as many as' collective sense. The violent-sounding Greek metaphor is softened in Thai to natural medical language (the metaphor's theological bite is preserved in context, not vocabulary)."},
+        {"greek": "ἅψωνται", "thai": "สัมผัส", "rationale": "ἅπτομαι = touch (with aim). Per uW: touch-to-be-healed belief. Thai 'สัมผัส' standard."}
+      ]
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 3:11",
+    "chapter": 3,
+    "verse": 11,
+    "greek": "καὶ τὰ πνεύματα τὰ ἀκάθαρτα, ὅταν αὐτὸν ἐθεώρουν, προσέπιπτον αὐτῷ καὶ ἔκραζον λέγοντα ὅτι Σὺ εἶ ὁ υἱὸς τοῦ θεοῦ.",
+    "bsb_english": "And when the unclean spirits saw Him, they fell down before Him and cried out, \"You are the Son of God!\"",
+    "translation": {
+      "thai": "ทุกครั้งที่พวกวิญญาณโสโครกเห็นพระองค์ พวกมันก็จะทรุดตัวลงต่อเบื้องพระพักตร์พระองค์ และร้องว่า 'ท่านคือพระบุตรของพระเจ้า'",
+      "key_decisions": [
+        {"greek": "πνεύματα ἀκάθαρτα", "thai": "วิญญาณโสโครก", "rationale": "Per glossary (Mark 1:23, 1:26, 1:27). Consistent rendering."},
+        {"greek": "ὅταν...ἐθεώρουν (imperf.)", "thai": "ทุกครั้งที่...เห็น", "rationale": "ὅταν + imperfect = iterative 'whenever (repeatedly).' Thai 'ทุกครั้งที่' (every-time-that) preserves the iterative force — this is habitual/repeated behavior, not a single incident."},
+        {"greek": "προσέπιπτον (imperf.)", "thai": "ทรุดตัวลงต่อเบื้องพระพักตร์", "rationale": "προσπίπτω = 'fall down before.' Per uW: prostration posture (face-near-ground). In Mark's culture = reverence/worship posture. Thai 'ทรุดตัวลง' (sink down) + 'ต่อเบื้องพระพักตร์' (before the royal-face/presence) — royal register preserves reverence. The irony: demons forced into worship posture by Jesus' mere presence, while unwilling."},
+        {"greek": "ἔκραζον (imperf.)", "thai": "ร้อง", "rationale": "κράζω = cry out, shout. Iterative imperfect."},
+        {"greek": "Σὺ εἶ ὁ υἱὸς τοῦ θεοῦ", "thai": "ท่านคือพระบุตรของพระเจ้า", "rationale": "Demon-register: per Mark 1:24 precedent, demons address Jesus with 'ท่าน' (respectful but non-honorific — NOT 'พระองค์' which is reserved for human reverent speech to the divine). The title itself 'พระบุตรของพระเจ้า' retains royal 'พระ' prefix because it is a theological title with inherent honor, regardless of speaker. The demons speak TRUE christology with HOSTILE tone — a profoundly Markan irony: the first beings in Mark's gospel to publicly identify Jesus as υἱὸς τοῦ θεοῦ (cf. 1:1) are unclean spirits. Human confession (Peter 8:29, centurion 15:39) comes later."}
+      ],
+      "notes": "'Son of God' (ὁ υἱὸς τοῦ θεοῦ) was announced by the narrator in 1:1 and by the heavenly voice at baptism (1:11) and will be by the centurion at the cross (15:39). Here it appears on demonic lips — the Markan irony is that supernatural beings know Jesus' identity before humans do. The messianic secret motif (v.12) responds to this: Jesus silences the demons precisely because their testimony, though true, is premature and misdirects expectations."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 3:12",
+    "chapter": 3,
+    "verse": 12,
+    "greek": "καὶ πολλὰ ἐπετίμα αὐτοῖς ἵνα μὴ αὐτὸν φανερὸν ποιήσωσιν.",
+    "bsb_english": "But He warned them sternly not to make Him known.",
+    "translation": {
+      "thai": "แต่พระองค์ทรงกำชับพวกมันอย่างเข้มงวดไม่ให้แพร่งพรายว่าพระองค์คือใคร",
+      "key_decisions": [
+        {"greek": "πολλά (adv. acc.)", "thai": "อย่างเข้มงวด", "rationale": "Adverbial accusative 'much/strongly' modifying ἐπετίμα. Not 'many times' but 'sternly/emphatically.' Thai 'อย่างเข้มงวด' (strictly) captures intensity."},
+        {"greek": "ἐπετίμα (imperf.)", "thai": "ทรงกำชับ", "rationale": "ἐπιτιμάω = rebuke, charge sternly (same verb used for silencing demon 1:25, calming storm 4:39). Royal 'ทรงกำชับ' (royal-charge-strictly). Imperfect = repeated (each time a demon cried out)."},
+        {"greek": "ἵνα μὴ αὐτὸν φανερὸν ποιήσωσιν", "thai": "ไม่ให้แพร่งพรายว่าพระองค์คือใคร", "rationale": "φανερὸν ποιέω = 'make manifest/known.' Per uW: make-him-known = tell who he was. Thai 'แพร่งพราย' (divulge-broadcast) standard for secrecy injunctions; explicit expansion 'ว่าพระองค์คือใคร' (who he is) per uW suggestion for clarity."}
+      ],
+      "notes": "Key Markan 'messianic secret' passage. Mark 1:25, 1:34, 1:44; 5:43; 7:36; 8:30 all feature Jesus silencing testimony about himself. Scholars debate why: (1) premature revelation would cement wrong messianic expectations (political liberator); (2) demonic testimony is tainted by its source; (3) Mark's theology holds that Jesus' identity is fully disclosed only at the cross (cf. 15:39 centurion)."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 3:13",
+    "chapter": 3,
+    "verse": 13,
+    "greek": "Καὶ ἀναβαίνει εἰς τὸ ὄρος καὶ προσκαλεῖται οὓς ἤθελεν αὐτός, καὶ ἀπῆλθον πρὸς αὐτόν.",
+    "bsb_english": "Then Jesus went up on the mountain and called for those He wanted, and they came to Him.",
+    "translation": {
+      "thai": "แล้วพระองค์เสด็จขึ้นไปบนภูเขา ทรงเรียกคนที่พระองค์ทรงประสงค์มาหาพระองค์ และพวกเขาก็มาหาพระองค์",
+      "key_decisions": [
+        {"greek": "ἀναβαίνει (hist. pres.)", "thai": "เสด็จขึ้นไป", "rationale": "ἀναβαίνω 'go up, ascend.' Royal 'เสด็จ' + 'ขึ้นไป' for directional ascent. Historic present (per uW v.13). The mountain-ascent motif echoes Moses (Exod 24, 34) — Jesus ascends to appoint covenant leadership."},
+        {"greek": "τὸ ὄρος", "thai": "ภูเขา", "rationale": "Per uW: Mark doesn't specify which mountain — use generic term. Thai 'ภูเขา' (mountain/hill) covers both 'high mountain' and 'small hill.'"},
+        {"greek": "προσκαλεῖται (hist. pres. mid.)", "thai": "ทรงเรียก...มาหาพระองค์", "rationale": "προσκαλέω middle = 'call to oneself.' Middle voice emphasizes the subject's interest/purpose. Royal 'ทรงเรียก' + '...มาหาพระองค์' (call to come to him)."},
+        {"greek": "οὓς ἤθελεν αὐτός", "thai": "คนที่พระองค์ทรงประสงค์", "rationale": "Emphatic αὐτός 'he himself.' Sovereign choice. Thai 'ทรงประสงค์' (royal-desire/will) carries both royal register and volitional weight. This is not a mass conscription but a selective calling — stresses Jesus' sovereign agency."},
+        {"greek": "ἀπῆλθον πρὸς αὐτόν", "thai": "พวกเขาก็มาหาพระองค์", "rationale": "ἀπῆλθον literally 'went away' (from their former place) toward him. In direction = 'came to.' Thai 'มาหา' (come to) is natural — the Greek's 'away-from-prior-place' is recoverable from context."}
+      ]
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 3:14",
+    "chapter": 3,
+    "verse": 14,
+    "greek": "καὶ ἐποίησεν δώδεκα, ἵνα ὦσιν μετ' αὐτοῦ καὶ ἵνα ἀποστέλλῃ αὐτοὺς κηρύσσειν",
+    "bsb_english": "He appointed twelve of them, whom He designated as apostles, to accompany Him, to be sent out to preach,",
+    "translation": {
+      "thai": "พระองค์ทรงแต่งตั้งสาวกสิบสองคน เพื่อให้พวกเขาอยู่กับพระองค์ และเพื่อจะทรงส่งพวกเขาออกไปประกาศ",
+      "key_decisions": [
+        {"greek": "ἐποίησεν δώδεκα", "thai": "ทรงแต่งตั้งสาวกสิบสองคน", "rationale": "Semitic idiom: ἐποίησεν here = 'appointed/installed in office' (cf. LXX 1 Sam 12:6 ἐποίησε Μωυσῆν 'appointed Moses'; 1 Kgs 12:31 ἐποίησεν οἴκους ὑψηλῶν 'made [appointed] houses of high places'). Not 'made/created.' Thai 'ทรงแต่งตั้ง' (royal-appoint) correct. The number δώδεκα (twelve) echoes the twelve tribes — Jesus constitutes a new Israel."},
+        {"greek": "ἵνα ὦσιν μετ' αὐτοῦ", "thai": "เพื่อให้พวกเขาอยู่กับพระองค์", "rationale": "First purpose: companionship with Christ. Critical Markan discipleship theology — 'being with' precedes 'being sent.' Thai 'อยู่กับพระองค์' simple and direct."},
+        {"greek": "ἵνα ἀποστέλλῃ αὐτοὺς κηρύσσειν", "thai": "เพื่อจะทรงส่งพวกเขาออกไปประกาศ", "rationale": "Second purpose: being sent to preach. ἀποστέλλω = 'send out [with a commission]' — source of 'apostle.' κηρύσσω 'proclaim' (consistent with Mark 1:14, 1:38, 1:45 usage). Royal 'ทรงส่ง' for Jesus' commissioning act."}
+      ],
+      "notes": "TEXTUAL VARIANT: The phrase 'οὓς καὶ ἀποστόλους ὠνόμασεν' ('whom he also named apostles') is found in some manuscripts (e.g., ℵ, B, C*) between δώδεκα and ἵνα ὦσιν. BSB includes this phrase (translated 'whom He designated as apostles'). SBLGNT omits it (following the shorter reading of A, D, W, Byzantine tradition). Our translation follows SBLGNT by omitting the apostolos-phrase. Either reading yields effectively the same meaning since ἀποστέλλῃ ('send out') in this same verse establishes the apostolic function; the debated phrase would only make the term 'apostle' explicit as their title. Structural echo: ἐποίησεν ... δώδεκα opens v.14 and is echoed at the start of v.16 (ἐποίησεν τοὺς δώδεκα) — the resumptive phrase introduces the list of names."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 3:15",
+    "chapter": 3,
+    "verse": 15,
+    "greek": "καὶ ἔχειν ἐξουσίαν ἐκβάλλειν τὰ δαιμόνια·",
+    "bsb_english": "and to have authority to drive out demons.",
+    "translation": {
+      "thai": "และให้มีสิทธิอำนาจในการขับผีออก",
+      "key_decisions": [
+        {"greek": "ἔχειν ἐξουσίαν", "thai": "ให้มีสิทธิอำนาจ", "rationale": "ἐξουσία = authority (per glossary: 'สิทธิอำนาจ'). Consistent with Mark 1:22, 1:27, 2:10, 3:10, 6:7 usage. Infinitive 'ἔχειν' here continues the dependence on ἐποίησεν (v.14) — third purpose clause parallel: the Twelve were appointed (a) to be with him, (b) to be sent to preach, (c) to have authority to cast out demons. No 'ทรง' prefix because the subject is the disciples, not Jesus."},
+        {"greek": "ἐκβάλλειν τὰ δαιμόνια", "thai": "การขับผีออก", "rationale": "ἐκβάλλω 'cast out' + δαιμόνια 'demons.' Consistent with Mark 1:34, 1:39 rendering ('ขับผี'). Thai 'ผี' is the standard biblical Thai term for 'demon'; 'มาร' also occurs but 'ผี' is Mark's primary vocabulary in this project. Noun form 'การขับผีออก' (the casting-out of demons) fits the infinitive."}
+      ]
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 3:16",
+    "chapter": 3,
+    "verse": 16,
+    "greek": "καὶ ἐποίησεν τοὺς δώδεκα, καὶ ἐπέθηκεν ὄνομα τῷ Σίμωνι Πέτρον,",
+    "bsb_english": "These are the twelve He appointed: Simon (whom He named Peter),",
+    "translation": {
+      "thai": "พระองค์ทรงแต่งตั้งสาวกสิบสองคน ได้แก่ ซีโมน (ซึ่งพระองค์ทรงประทานชื่อว่าเปโตร)",
+      "key_decisions": [
+        {"greek": "καὶ ἐποίησεν τοὺς δώδεκα (resumptive)", "thai": "ทรงแต่งตั้งสาวกสิบสองคน ได้แก่", "rationale": "Per uW: this repetition is resumptive, not a second appointment. Functions as 'Here are the Twelve whom he appointed:' — introduces the name-list. Thai 'ได้แก่' (namely/they are) signals the list-introducer."},
+        {"greek": "ἐπέθηκεν ὄνομα τῷ Σίμωνι Πέτρον", "thai": "ทรงประทานชื่อว่าเปโตร", "rationale": "ἐπιτίθημι ὄνομα = 'bestow a name' (OT renaming idiom, cf. Abram→Abraham, Jacob→Israel). Royal 'ทรงประทาน' (royal-bestow). Πέτρος = 'rock' (Aramaic kepha). The renaming signals Simon's new role in God's redemptive economy."}
+      ],
+      "notes": "TEXTUAL VARIANT: Some manuscripts omit 'καὶ ἐποίησεν τοὺς δώδεκα' at the beginning of v.16 (treating it as dittography from v.14). SBLGNT retains it as genuine resumptive structure. Our translation follows SBLGNT. Peter's new name anticipates Mark 8:29 (Peter's confession) and 14:29–31 (Peter's denial) — the 'rock' who will both anchor and falter."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 3:17",
+    "chapter": 3,
+    "verse": 17,
+    "greek": "καὶ Ἰάκωβον τὸν τοῦ Ζεβεδαίου καὶ Ἰωάννην τὸν ἀδελφὸν τοῦ Ἰακώβου καὶ ἐπέθηκεν αὐτοῖς ὀνόματα Βοανηργές, ὅ ἐστιν Υἱοὶ Βροντῆς,",
+    "bsb_english": "James son of Zebedee and his brother John (whom He named Boanerges, meaning \"Sons of Thunder\"),",
+    "translation": {
+      "thai": "ยากอบบุตรเศเบดี และยอห์นน้องชายของยากอบ (พระองค์ทรงประทานชื่อให้ทั้งสองว่า 'โบอาเนอเกส' ซึ่งแปลว่า 'บุตรแห่งฟ้าร้อง')",
+      "key_decisions": [
+        {"greek": "Ἰάκωβον τὸν τοῦ Ζεβεδαίου / Ἰωάννην τὸν ἀδελφὸν τοῦ Ἰακώβου", "thai": "ยากอบบุตรเศเบดี / ยอห์นน้องชายของยากอบ", "rationale": "Standard Thai biblical transliterations (ยากอบ, ยอห์น, เศเบดี). Per uW: James mentioned first suggests he is older; hence John is called 'น้องชาย' (younger brother) rather than 'พี่ชาย' (older brother), which is the standard inference in the Thai tradition."},
+        {"greek": "Βοανηργές (HAPAX)", "thai": "โบอาเนอเกส", "rationale": "HAPAX LEGOMENON. Aramaic/Hebrew loanword transliterated into Greek by Mark. Per uW translation-transliterate guidance: preserve as transliteration, since Mark himself translates the meaning in the same verse. Thai transliteration 'โบอาเนอเกส' preserves the phonetic sequence. The underlying etymology (bene-regesh 'sons of commotion' or bene-ra'am 'sons of thunder') is debated; Mark's Greek gloss tells us his understanding."},
+        {"greek": "Υἱοὶ Βροντῆς", "thai": "บุตรแห่งฟ้าร้อง", "rationale": "Mark's own translation of Boanerges. βροντή = thunder. 'Sons of X' is Semitic idiom for 'people characterized by X' (per uW). Thai 'บุตรแห่งฟ้าร้อง' (sons-of thunder) preserves both the Semitic genitive idiom and the imagery of stormy temperament (cf. Luke 9:54, John + James asking to call down fire)."}
+      ],
+      "notes": "HAPAX: Βοανηργές (3:17). Mark himself provides the Greek translation, indicating the Aramaic word was unfamiliar to his Greek-speaking audience. Mark gives such translations for his readers (cf. 5:41 'Talitha koum'; 7:11 'Korban'; 7:34 'Ephphatha'; 15:22 'Golgotha'; 15:34 'Eloi eloi lama sabachthani'). The 'thunder' nickname likely refers to the brothers' stormy temperament (cf. Luke 9:54)."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 3:18",
+    "chapter": 3,
+    "verse": 18,
+    "greek": "καὶ Ἀνδρέαν καὶ Φίλιππον καὶ Βαρθολομαῖον καὶ Μαθθαῖον καὶ Θωμᾶν καὶ Ἰάκωβον τὸν τοῦ Ἁλφαίου καὶ Θαδδαῖον καὶ Σίμωνα τὸν Καναναῖον",
+    "bsb_english": "Andrew, Philip, Bartholomew, Matthew, Thomas, James son of Alphaeus, Thaddaeus, Simon the Zealot,",
+    "translation": {
+      "thai": "อันดรูว์ ฟีลิป บารโธโลมิว มัทธิว โธมัส ยากอบบุตรอัลเฟอัส ธัดเดอัส และซีโมนชาวคานาอัน",
+      "key_decisions": [
+        {"greek": "Ἀνδρέαν / Φίλιππον / Βαρθολομαῖον / Μαθθαῖον / Θωμᾶν", "thai": "อันดรูว์ / ฟีลิป / บารโธโลมิว / มัทธิว / โธมัส", "rationale": "Standard Thai biblical transliterations."},
+        {"greek": "Ἰάκωβον τὸν τοῦ Ἁλφαίου", "thai": "ยากอบบุตรอัลเฟอัส", "rationale": "A second James in the list, distinguished by patronym. Consistent with Mark 2:14 rendering of Λευί τὸν τοῦ Ἁλφαίου = 'เลวีบุตรอัลเฟอัส.' Whether this James and Levi are the same Alphaeus's sons is an open question in the commentary tradition."},
+        {"greek": "Θαδδαῖον", "thai": "ธัดเดอัส", "rationale": "Standard Thai biblical transliteration. Likely the same disciple called Jude/Judas (son of James) in Luke 6:16. Per uW chapter intro: one person often had multiple names in that culture."},
+        {"greek": "τὸν Καναναῖον", "thai": "ชาวคานาอัน", "rationale": "Καναναῖος — transliterated Aramaic qanʾana (zealot). Mark preserves the Aramaic form (unlike Luke 6:15's Greek ζηλωτής). Translation decision: transliterate 'ชาวคานาอัน' (the Cananaean) rather than translate as 'ผู้คลั่งศาสนา' (the Zealot). Rationale: (1) Mark deliberately kept the Aramaic — losing this flavor in Thai would erase Markan style; (2) BSB translates but our project's optimal-equivalence principle preserves the author's distinctive choice. Note: this is NOT 'Canaanite' (ethnic); it is 'Zealot' (political faction, supporters of Jewish independence from Rome). Must be flagged in notes to prevent misreading."}
+      ],
+      "notes": "'Simon the Cananaean' (ὁ Καναναῖος) is Mark's preferred form; Luke writes 'Simon the Zealot' (ὁ ζηλωτής). Both refer to the political-religious movement of Jewish nationalist fervor against Rome (eventually leading to the 66–70 AD revolt). The Thai rendering 'ชาวคานาอัน' is transliteration, not the ethnic 'Canaanite' of the Old Testament. Thai readers may need a footnote clarifying that 'คานาอัน' here = 'Zealot (Aramaic qanʾana),' not 'Canaan' the ancient territory."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 3:19",
+    "chapter": 3,
+    "verse": 19,
+    "greek": "καὶ Ἰούδαν Ἰσκαριώθ, ὃς καὶ παρέδωκεν αὐτόν.",
+    "bsb_english": "and Judas Iscariot, who betrayed Jesus.",
+    "translation": {
+      "thai": "และยูดาสอิสคาริโอท ผู้ที่ต่อมาได้ทรยศขายพระองค์",
+      "key_decisions": [
+        {"greek": "Ἰούδαν Ἰσκαριώθ", "thai": "ยูดาสอิสคาริโอท", "rationale": "Standard Thai biblical transliteration. Ἰσκαριώθ likely = 'man of Kerioth' (Hebrew ish-qeriot) or possibly a variant of 'sicarii' (dagger-men). Traditional Thai Christian usage favors 'อิสคาริโอท.'"},
+        {"greek": "ὃς καὶ παρέδωκεν αὐτόν", "thai": "ผู้ที่ต่อมาได้ทรยศขายพระองค์", "rationale": "παραδίδωμι = 'hand over, betray.' Aorist narrates a future event from the perspective of the narrator (Mark writes after the Passion). Per uW: background information about Judas' later deed. Thai 'ทรยศขาย' (betray-and-sell) is a compound that captures both the betrayal and the financial motive (cf. 14:10–11). 'ต่อมา' (later) makes the future-from-this-moment clear."}
+      ],
+      "notes": "The καί ('also') in ὃς καὶ παρέδωκεν marks this as a proleptic aside — Mark briefly surfaces the end of Judas' story even as he appears in the disciple-list. A narrative technique that builds dramatic irony from the first mention."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 3:20",
+    "chapter": 3,
+    "verse": 20,
+    "greek": "Καὶ ἔρχεται εἰς οἶκον· καὶ συνέρχεται πάλιν ὁ ὄχλος, ὥστε μὴ δύνασθαι αὐτοὺς μηδὲ ἄρτον φαγεῖν.",
+    "bsb_english": "Then Jesus went home, and once again a crowd gathered, so that He and His disciples could not even eat.",
+    "translation": {
+      "thai": "แล้วพระองค์เสด็จกลับเข้าบ้าน และฝูงชนก็กลับมาชุมนุมกันอีก จนพระองค์และเหล่าสาวกไม่มีแม้แต่เวลากินอาหาร",
+      "key_decisions": [
+        {"greek": "ἔρχεται (hist. pres.)", "thai": "เสด็จกลับเข้า", "rationale": "Historic present (per uW v.20). Royal 'เสด็จ' + 'กลับเข้า' (return-enter). Per uW: the 'house' is probably the Capernaum base (cf. 2:1). 'กลับ' makes the return-home sense explicit."},
+        {"greek": "εἰς οἶκον", "thai": "เข้าบ้าน", "rationale": "Anarthrous 'into house' = idiomatic 'home,' consistent with Mark 2:1."},
+        {"greek": "συνέρχεται πάλιν", "thai": "กลับมาชุมนุมกันอีก", "rationale": "συνέρχομαι 'come together.' πάλιν 'again' echoes the Capernaum crowd-motif of 2:2. Thai 'กลับมาชุมนุมกัน' (come-back gathered)."},
+        {"greek": "μὴ δύνασθαι αὐτοὺς μηδὲ ἄρτον φαγεῖν", "thai": "ไม่มีแม้แต่เวลากินอาหาร", "rationale": "Double negation μὴ...μηδέ = 'not even.' Per uW: ἄρτος 'bread' = synecdoche for food. 'Could not even eat' = 'did not even have time to eat.' Thai 'ไม่มีแม้แต่เวลากินอาหาร' (didn't even have time to eat) natural. The crowd's overwhelming demand motivates the family-concern in v.21."}
+      ]
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 3:21",
+    "chapter": 3,
+    "verse": 21,
+    "greek": "καὶ ἀκούσαντες οἱ παρ' αὐτοῦ ἐξῆλθον κρατῆσαι αὐτόν, ἔλεγον γὰρ ὅτι ἐξέστη.",
+    "bsb_english": "When His family heard about this, they went out to take custody of Him, saying, \"He is out of His mind.\"",
+    "translation": {
+      "thai": "เมื่อบรรดาญาติของพระองค์ได้ยินเช่นนั้น ก็ออกไปเพื่อเอาตัวพระองค์กลับ เพราะมีคนพูดว่าพระองค์เสียสติไปแล้ว",
+      "key_decisions": [
+        {"greek": "οἱ παρ' αὐτοῦ", "thai": "บรรดาญาติของพระองค์", "rationale": "Idiomatic 'the ones from beside him' = 'his people / his relatives.' Per uW option 1 (favored by v.31 context where mother and brothers arrive): = family. Thai 'บรรดาญาติ' (kin/relatives) covers mother + brothers. Ambiguous option 2 (friends from hometown) is possible but less likely."},
+        {"greek": "κρατῆσαι αὐτόν", "thai": "เอาตัวพระองค์กลับ", "rationale": "κρατέω here = 'seize/take custody.' Per uW: they intend to compel him into their control. This is a strong verb — they believe Jesus needs restraint. Thai 'เอาตัว...กลับ' (take [his] person back = custody) captures the custodial force without demeaning royal register. The tension: the Greek sounds harsh, and the Thai must convey that the family is physically coming to get Jesus, not politely invite him home."},
+        {"greek": "ἔλεγον γάρ (imperf.)", "thai": "เพราะมีคนพูด", "rationale": "Subject of 'they were saying' ambiguous per uW: could be the family itself OR people generally talking. Imperfect = ongoing report. Thai 'มีคนพูด' (there were those saying) preserves the ambiguity — the rumor is in circulation; the family acts on it."},
+        {"greek": "ἐξέστη (aor.)", "thai": "เสียสติไปแล้ว", "rationale": "ἐξίστημι middle/passive aorist = 'he is beside himself / out of his mind.' Thai 'เสียสติ' (lost mind = insane). NOTE: same verb ἐξίστημι appears in Mark 2:12 with different sense ('astounded') — there translated 'ตะลึง.' Context disambiguates: passive self-reference here = insanity; active-on-observers there = amazement. Flag this dual usage."}
+      ],
+      "notes": "VERB DUAL USAGE: ἐξίστημι appears with different senses in Mark 2:12 (ἐξίστασθαι πάντας 'all were astounded' → 'ตะลึง') and here 3:21 (ἐξέστη 'he is out of his mind' → 'เสียสติ'). Context distinguishes: effect on observers vs. self-reference. Jesus' family brackets the Beelzebul controversy (3:21, 3:31–35) — the narrative sandwich (Markan intercalation) equates the family's 'he is insane' charge with the scribes' 'he is demon-possessed' charge: both reject Jesus' identity from different angles."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 3:22",
+    "chapter": 3,
+    "verse": 22,
+    "greek": "καὶ οἱ γραμματεῖς οἱ ἀπὸ Ἱεροσολύμων καταβάντες ἔλεγον ὅτι Βεελζεβοὺλ ἔχει καὶ ὅτι ἐν τῷ ἄρχοντι τῶν δαιμονίων ἐκβάλλει τὰ δαιμόνια.",
+    "bsb_english": "And the scribes who had come down from Jerusalem were saying, \"He is possessed by Beelzebul,\" and, \"By the prince of the demons He drives out demons.\"",
+    "translation": {
+      "thai": "ส่วนพวกธรรมาจารย์ที่ลงมาจากกรุงเยรูซาเล็มก็พูดกันว่า 'เขาถูกเบเอลเซบูลเข้าสิง' และว่า 'เขาขับผีออกได้ด้วยอำนาจของหัวหน้าผี'",
+      "key_decisions": [
+        {"greek": "γραμματεῖς", "thai": "ธรรมาจารย์", "rationale": "Consistent with Mark 1:22, 2:6, 2:16 usage. Per glossary."},
+        {"greek": "ἀπὸ Ἱεροσολύμων καταβάντες", "thai": "ที่ลงมาจากกรุงเยรูซาเล็ม", "rationale": "καταβαίνω 'go down' — topographical from Jerusalem (elevated) to Galilee (lower altitude). Per uW: distinguishes these scribes from local/Galilean ones — these are the official Jerusalem representatives investigating Jesus. Thai 'ลงมาจาก' preserves the topography."},
+        {"greek": "Βεελζεβούλ", "thai": "เบเอลเซบูล", "rationale": "Aramaic name for a major demon, probably 'Baal-Zebul' (Lord of the Dwelling) or satiric pun 'Baal-Zebub' (Lord of Flies — cf. 2 Kgs 1:2). Thai transliteration 'เบเอลเซบูล' (standard in Thai Christian tradition)."},
+        {"greek": "Βεελζεβοὺλ ἔχει", "thai": "เขาถูกเบเอลเซบูลเข้าสิง", "rationale": "Per uW: idiom 'has Beelzebul' = 'is possessed by Beelzebul.' Thai 'ถูก...เข้าสิง' (is-entered-possessed) is the standard Thai idiom for demonic possession — preserves the sense while naturalizing the grammar."},
+        {"greek": "Scribes' direct speech about Jesus", "thai": "เขา (dismissive)", "rationale": "Register per Mark 2:7, 2:16 precedent: scribes' hostile speech about Jesus uses dismissive 'เขา' (neutral third-person), not honorific 'พระองค์.' Matches the accusatory tone."},
+        {"greek": "ἐν τῷ ἄρχοντι τῶν δαιμονίων", "thai": "ด้วยอำนาจของหัวหน้าผี", "rationale": "ἐν + dative = instrumental 'by/with.' ἄρχων 'ruler, chief.' Per uW: = Beelzebul himself. Thai 'ด้วยอำนาจของ' (by authority of) + 'หัวหน้าผี' (chief-demon) captures both the instrumentality and the hierarchy. 'หัวหน้าผี' parallel to 'หัวหน้า...' in general Thai usage."}
+      ]
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 3:23",
+    "chapter": 3,
+    "verse": 23,
+    "greek": "καὶ προσκαλεσάμενος αὐτοὺς ἐν παραβολαῖς ἔλεγεν αὐτοῖς· Πῶς δύναται Σατανᾶς Σατανᾶν ἐκβάλλειν;",
+    "bsb_english": "So Jesus called them together and began to speak to them in parables: \"How can Satan drive out Satan?\"",
+    "translation": {
+      "thai": "พระองค์จึงทรงเรียกพวกเขาเข้ามา และตรัสกับพวกเขาเป็นคำอุปมาว่า 'ซาตานจะขับซาตานออกได้อย่างไร?'",
+      "key_decisions": [
+        {"greek": "προσκαλεσάμενος (aor. mid. ptcp.)", "thai": "ทรงเรียก...เข้ามา", "rationale": "Same verb as v.13 (calling the Twelve). Here Jesus calls the scribes + crowd for formal teaching. Middle voice preserved."},
+        {"greek": "ἐν παραβολαῖς", "thai": "เป็นคำอุปมา", "rationale": "παραβολή = parable, figurative speech (from παραβάλλω 'throw alongside' = comparison). Thai 'คำอุปมา' (word-of-comparison) is the standard Thai biblical rendering. Plural παραβολαῖς signals multiple parables coming in vv.24–27."},
+        {"greek": "ἔλεγεν (imperf.)", "thai": "ตรัส", "rationale": "Imperfect introduces a continuing discourse. Royal 'ตรัส.'"},
+        {"greek": "Πῶς δύναται Σατανᾶς Σατανᾶν ἐκβάλλειν (rhet. q.)", "thai": "ซาตานจะขับซาตานออกได้อย่างไร?", "rationale": "Rhetorical question expecting 'cannot.' Per uW: question-form used to rebuke. Thai 'ได้อย่างไร?' (how can?) preserves the rhetorical form. Σατανᾶς (per glossary 'ซาตาน'). The internal contradiction of scribes' accusation exposed: Satan-expelling-Satan is self-defeating."}
+      ]
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 3:24",
+    "chapter": 3,
+    "verse": 24,
+    "greek": "καὶ ἐὰν βασιλεία ἐφ' ἑαυτὴν μερισθῇ, οὐ δύναται σταθῆναι ἡ βασιλεία ἐκείνη·",
+    "bsb_english": "If a kingdom is divided against itself, it cannot stand.",
+    "translation": {
+      "thai": "ถ้าอาณาจักรใดแตกแยกเป็นปฏิปักษ์ต่อตนเอง อาณาจักรนั้นก็ตั้งอยู่ไม่ได้",
+      "key_decisions": [
+        {"greek": "ἐάν + aor. subj. (hypothetical)", "thai": "ถ้า...ก็...", "rationale": "Hypothetical construction. Per uW: imagine a kingdom in this condition. Thai 'ถ้า...ก็...' natural conditional."},
+        {"greek": "βασιλεία", "thai": "อาณาจักร", "rationale": "Consistent with Mark 1:15 'อาณาจักรของพระเจ้า' glossary. Here generic political entity."},
+        {"greek": "ἐφ' ἑαυτὴν μερισθῇ", "thai": "แตกแยกเป็นปฏิปักษ์ต่อตนเอง", "rationale": "μερίζω = 'divide, separate.' ἐπί + reflexive = 'against itself' (hostile division). Per uW: = 'attacks itself.' Thai 'แตกแยก' (fragment/split) + 'เป็นปฏิปักษ์ต่อตนเอง' (become hostile-to-self) captures both the fracturing and the adversarial quality — more precise than bare 'แตกแยก.'"},
+        {"greek": "οὐ δύναται σταθῆναι", "thai": "ตั้งอยู่ไม่ได้", "rationale": "σταθῆναι aor. pass. inf. ἵστημι = 'stand, endure.' Per uW: metaphor = 'will not exist much longer.' Thai 'ตั้งอยู่' preserves the spatial metaphor; natural Thai idiom for continued existence."}
+      ]
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 3:25",
+    "chapter": 3,
+    "verse": 25,
+    "greek": "καὶ ἐὰν οἰκία ἐφ' ἑαυτὴν μερισθῇ, οὐ δυνήσεται ἡ οἰκία ἐκείνη σταθῆναι·",
+    "bsb_english": "If a house is divided against itself, it cannot stand.",
+    "translation": {
+      "thai": "และถ้าครอบครัวใดแตกแยกเป็นปฏิปักษ์ต่อตนเอง ครอบครัวนั้นก็จะตั้งอยู่ไม่ได้",
+      "key_decisions": [
+        {"greek": "οἰκία", "thai": "ครอบครัว", "rationale": "Per uW metonymy: 'house' = 'the people who live in that house' = 'household/family.' Thai 'ครอบครัว' (family) captures this social-unit sense; 'บ้าน' (physical house) reserved for v.27 where the image is literal. Parallel with 'อาณาจักร' in v.24 — both are social units."},
+        {"greek": "δυνήσεται (fut.)", "thai": "จะ...ไม่ได้", "rationale": "Future indicative (contrast with v.24's present). Thai 'จะ...ไม่ได้' (will not be able to). The future tense subtly intensifies: not merely 'cannot stand now' but 'will not stand.'"}
+      ]
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 3:26",
+    "chapter": 3,
+    "verse": 26,
+    "greek": "καὶ εἰ ὁ Σατανᾶς ἀνέστη ἐφ' ἑαυτὸν καὶ ἐμερίσθη, οὐ δύναται στῆναι ἀλλὰ τέλος ἔχει.",
+    "bsb_english": "And if Satan is divided and rises against himself, he cannot stand; his end has come.",
+    "translation": {
+      "thai": "และถ้าซาตานลุกขึ้นต่อสู้ตนเองและแตกแยก มันก็ยืนอยู่ไม่ได้ แต่ถึงจุดจบของมันแล้ว",
+      "key_decisions": [
+        {"greek": "εἰ + aor. ind. (switched from ἐάν)", "thai": "ถ้า", "rationale": "Shift from ἐάν + subj. (vv.24–25 purely hypothetical) to εἰ + indicative (v.26 treated as assertable). Subtle logical tightening: 'given that these hypothetical-cases apply, IF Satan did X...' Thai 'ถ้า' serves both but the argument's progression is tighter."},
+        {"greek": "ἀνέστη ἐφ' ἑαυτόν", "thai": "ลุกขึ้นต่อสู้ตนเอง", "rationale": "ἀνίστημι = 'rise up, stand up.' Here metaphorical 'rebel against.' Thai 'ลุกขึ้นต่อสู้ตนเอง' (rise-up fight-against-self) — 'ต่อสู้' makes the adversarial sense explicit."},
+        {"greek": "ἐμερίσθη (aor. pass.)", "thai": "แตกแยก", "rationale": "Consistent with vv.24–25 rendering. Aorist passive with reflexive sense (per uW: = 'attacked himself')."},
+        {"greek": "οὐ δύναται στῆναι, ἀλλὰ τέλος ἔχει", "thai": "ยืนอยู่ไม่ได้ แต่ถึงจุดจบของมันแล้ว", "rationale": "Parallelism per uW: both clauses express the same idea (one negative, one positive). τέλος ἔχει = 'has [an] end' = 'his rule is over.' Thai 'จุดจบ' (endpoint) standard; 'ของมัน' (of it/him) makes the referent clear since Satan is personified but also generic. 'แต่' (but) preserves Greek ἀλλά's adversative force."}
+      ]
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 3:27",
+    "chapter": 3,
+    "verse": 27,
+    "greek": "ἀλλ' οὐδεὶς δύναται εἰς τὴν οἰκίαν τοῦ ἰσχυροῦ εἰσελθὼν τὰ σκεύη αὐτοῦ διαρπάσαι ἐὰν μὴ πρῶτον τὸν ἰσχυρὸν δήσῃ, καὶ τότε τὴν οἰκίαν αὐτοῦ διαρπάσει.",
+    "bsb_english": "Indeed, no one can enter a strong man's house to steal his possessions unless he first ties up the strong man. Then he can plunder his house.",
+    "translation": {
+      "thai": "แต่ไม่มีใครที่จะเข้าไปในบ้านของคนแข็งแรงและปล้นทรัพย์สินของเขาได้ ถ้าไม่มัดคนแข็งแรงนั้นเสียก่อน เมื่อนั้นจึงจะปล้นบ้านของเขาได้",
+      "key_decisions": [
+        {"greek": "ἀλλ' (contrastive)", "thai": "แต่", "rationale": "Per uW: introduces what is true in contrast to the hypotheticals of vv.24–26. The parable shifts from 'what would happen if Satan were divided' to 'here's what is actually happening — Jesus binding the strong man.' Thai 'แต่' preserves adversative."},
+        {"greek": "τὴν οἰκίαν τοῦ ἰσχυροῦ", "thai": "บ้านของคนแข็งแรง", "rationale": "Here οἰκία is literal 'house' (not 'household' as in v.25). Thai 'บ้าน' (physical house). ἰσχυρός = strong (person). Thai 'คนแข็งแรง' (strong person). Per uW chapter intro: allegorically Satan = strong man, Jesus = the one who binds him, demons = the 'goods' plundered. Don't explicate in translation; preserve the parable's surface."},
+        {"greek": "τὰ σκεύη", "thai": "ทรัพย์สิน", "rationale": "σκεῦος = vessel/utensil; plural σκεύη = 'goods, possessions.' Thai 'ทรัพย์สิน' (possessions/property) natural."},
+        {"greek": "διαρπάσαι / διαρπάσει", "thai": "ปล้น", "rationale": "διαρπάζω = 'plunder thoroughly' (intensive prefix δια-). Thai 'ปล้น' (rob/plunder) standard."},
+        {"greek": "δήσῃ", "thai": "มัด", "rationale": "δέω = 'tie, bind.' Thai 'มัด' standard."},
+        {"greek": "ἐὰν μὴ πρῶτον...δήσῃ", "thai": "ถ้าไม่...เสียก่อน", "rationale": "Exception clause 'unless first.' Thai 'ถ้าไม่...เสียก่อน' captures both the exception and the temporal 'first.'"}
+      ],
+      "notes": "Allegorical key (per uW; not stated in translation text): the 'strong man' = Satan; 'the one who binds' = Jesus; 'his possessions/house' = the demons/people under Satan's sway. Jesus' exorcisms prove that he has already bound the strong man. This is Markan proto-apocalyptic: the eschaton has dawned in Jesus' ministry. The parable is left to interpret itself — a footnote in a popup can flag the allegory without inserting it into the text."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 3:28",
+    "chapter": 3,
+    "verse": 28,
+    "greek": "Ἀμὴν λέγω ὑμῖν ὅτι πάντα ἀφεθήσεται τοῖς υἱοῖς τῶν ἀνθρώπων, τὰ ἁμαρτήματα καὶ αἱ βλασφημίαι ὅσα ἐὰν βλασφημήσωσιν·",
+    "bsb_english": "Truly I tell you, the sons of men will be forgiven all sins and blasphemies, as many as they utter.",
+    "translation": {
+      "thai": "เราบอกความจริงแก่พวกท่านว่า บุตรของมนุษย์จะได้รับการอภัยในทุกสิ่ง ทั้งบาปและคำหมิ่นประมาททั้งหลายไม่ว่าพวกเขาจะหมิ่นประมาทสิ่งใด",
+      "key_decisions": [
+        {"greek": "Ἀμὴν λέγω ὑμῖν", "thai": "เราบอกความจริงแก่พวกท่าน", "rationale": "Jesus' solemn authority-formula ('truly/amen I say to you'). Thai 'เราบอกความจริง' (I tell the truth / I truly tell) standard. ὑμῖν plural dative = 'to y'all' = 'พวกท่าน' (formal plural). Note: uW says 'singular because addressing the crowd' — but Greek is unambiguously plural (ὑμῖν); Thai preserves plural. Jesus speaking peer-level-formal to scribes + crowd."},
+        {"greek": "τοῖς υἱοῖς τῶν ἀνθρώπων", "thai": "บุตรของมนุษย์", "rationale": "Semitic idiom 'sons of men' = humanity (per uW). Thai 'บุตรของมนุษย์' (sons of humanity) LITERAL form preserved — IMPORTANT: distinct from 'บุตรมนุษย์' (no 'ของ'), the Christological title for Jesus (cf. 2:10, 2:28). The preposition-inclusive 'ของ' (of) marks the generic plural; without 'ของ' the form is a specific title. Disambiguates for Thai readers."},
+        {"greek": "ἀφεθήσεται (fut. pass.)", "thai": "จะได้รับการอภัย", "rationale": "Future passive with divine agent implicit (per uW: God forgives). Consistent with glossary 'การอภัย' (forgiveness). Thai 'ได้รับการอภัย' (receive forgiveness)."},
+        {"greek": "τὰ ἁμαρτήματα καὶ αἱ βλασφημίαι", "thai": "ทั้งบาปและคำหมิ่นประมาท", "rationale": "ἁμάρτημα = 'sin' (concrete act of sin; cf. ἁμαρτία more general). Thai 'บาป' (per glossary). βλασφημία = blasphemy (noun form of βλασφημέω). Thai 'คำหมิ่นประมาท' (word-of-insult) — consistent with Mark 2:7 verb rendering 'หมิ่นประมาท.'"},
+        {"greek": "ὅσα ἐὰν βλασφημήσωσιν", "thai": "ไม่ว่าพวกเขาจะหมิ่นประมาทสิ่งใด", "rationale": "Indefinite 'whatever they may blaspheme.' Per uW: potentially redundant in some languages; Thai 'ไม่ว่า...สิ่งใด' (no matter what) keeps the indefinite force."}
+      ]
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 3:29",
+    "chapter": 3,
+    "verse": 29,
+    "greek": "ὃς δ' ἂν βλασφημήσῃ εἰς τὸ πνεῦμα τὸ ἅγιον, οὐκ ἔχει ἄφεσιν εἰς τὸν αἰῶνα, ἀλλὰ ἔνοχός ἐστιν αἰωνίου ἁμαρτήματος.",
+    "bsb_english": "But whoever blasphemes against the Holy Spirit will never be forgiven; he is guilty of eternal sin.\"",
+    "translation": {
+      "thai": "แต่ผู้ใดก็ตามที่หมิ่นประมาทพระวิญญาณบริสุทธิ์ จะไม่ได้รับการอภัยเลยตลอดกาล แต่มีความผิดต่อบาปอันเป็นนิรันดร์",
+      "key_decisions": [
+        {"greek": "πνεῦμα τὸ ἅγιον", "thai": "พระวิญญาณบริสุทธิ์", "rationale": "Per glossary (Mark 1:8, 1:10, 1:12)."},
+        {"greek": "οὐκ ἔχει ἄφεσιν εἰς τὸν αἰῶνα", "thai": "จะไม่ได้รับการอภัยเลยตลอดกาล", "rationale": "εἰς τὸν αἰῶνα = 'into the age / forever' (Hebraism). 'Never' per uW. Thai 'ตลอดกาล' (for all time / forever) standard."},
+        {"greek": "ἔνοχός ἐστιν αἰωνίου ἁμαρτήματος", "thai": "มีความผิดต่อบาปอันเป็นนิรันดร์", "rationale": "ἔνοχος + gen. = 'liable for, guilty of' (forensic). αἰωνίου ἁμαρτήματος = 'eternal sin.' Per uW: 'sin with eternal consequences.' Thai 'มีความผิดต่อ' (has culpability against) + 'บาปอันเป็นนิรันดร์' (sin that is eternal) — 'อันเป็น' is literary relativizer giving the adjective 'นิรันดร์' weight. TEXTUAL VARIANT: some mss read κρίσεως ('judgment') instead of ἁμαρτήματος ('sin'); SBLGNT follows the latter. BSB also 'eternal sin.'"}
+      ],
+      "notes": "THEOLOGICAL CRUX. This is one of the most debated sayings in the NT. Per uW chapter intro: the unforgivable 'sin against the Holy Spirit' is (in context) attributing the Spirit's work (Jesus' exorcisms) to Satan — which is what the scribes are doing in v.22. Mark 3:30 makes this explicit: 'because they said he has an unclean spirit.' In translation, we follow uW's guidance: do NOT make the interpretation more specific than Jesus does. The text says what it says — the condemnation is defined narrowly by the context (identifying the Holy Spirit with Beelzebul). TEXTUAL VARIANT: αἰωνίου ἁμαρτήματος (SBLGNT, ℵ, B, most reliable mss) vs. αἰωνίου κρίσεως ('eternal judgment' — some Byz, A, C2) vs. αἰωνίου κολάσεως ('eternal punishment' — few witnesses). SBLGNT follows the strongly-attested reading; our translation preserves this. A Thai-reader footnote could note the theological discussion without prescribing a specific scope."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 3:30",
+    "chapter": 3,
+    "verse": 30,
+    "greek": "ὅτι ἔλεγον· Πνεῦμα ἀκάθαρτον ἔχει.",
+    "bsb_english": "Jesus made this statement because they were saying, \"He has an unclean spirit.\"",
+    "translation": {
+      "thai": "(พระองค์ตรัสเช่นนี้) เพราะพวกเขาพูดว่า 'เขามีวิญญาณโสโครก'",
+      "key_decisions": [
+        {"greek": "ὅτι (causal)", "thai": "เพราะ", "rationale": "Per uW: ὅτι here is causal, explaining why Jesus gave the vv.28–29 teaching. Thai 'เพราะ' (because) natural."},
+        {"greek": "Narrator bridge (not in Greek)", "thai": "(พระองค์ตรัสเช่นนี้)", "rationale": "Greek is elliptical — reader must supply 'Jesus spoke this.' Thai adds parenthetical bridge for reader clarity (cf. BSB 'Jesus made this statement'). Parenthesis marks it as non-literal supplement."},
+        {"greek": "ἔλεγον (imperf.)", "thai": "พวกเขาพูด", "rationale": "Imperfect — ongoing accusation. Subject = the scribes of v.22."},
+        {"greek": "Πνεῦμα ἀκάθαρτον ἔχει", "thai": "เขามีวิญญาณโสโครก", "rationale": "Scribes' direct quote. Thai 'มี...วิญญาณ' (has...spirit) is also idiomatic for possession; 'ถูก...เข้าสิง' (v.22) and 'มีวิญญาณ' (v.30) are both standard. Scribes' register 'เขา' (dismissive) for Jesus."}
+      ],
+      "notes": "Mark's explanatory aside. This verse tightly connects the 'blasphemy against the Holy Spirit' definition (v.29) to the scribes' specific accusation (v.22): by attributing Jesus' Spirit-powered exorcisms to an unclean spirit, the scribes have made the definitional move that constitutes the 'eternal sin.' Mark's narrative logic is clear: the context restricts the scope."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 3:31",
+    "chapter": 3,
+    "verse": 31,
+    "greek": "Καὶ ἔρχονται ἡ μήτηρ αὐτοῦ καὶ οἱ ἀδελφοὶ αὐτοῦ καὶ ἔξω στήκοντες ἀπέστειλαν πρὸς αὐτὸν καλοῦντες αὐτόν.",
+    "bsb_english": "Then Jesus' mother and brothers came and stood outside. They sent someone in to summon Him,",
+    "translation": {
+      "thai": "แล้วมารดาและบรรดาน้องชายของพระองค์ก็มาถึง ยืนอยู่ด้านนอก และส่งคนเข้าไปเรียกพระองค์",
+      "key_decisions": [
+        {"greek": "ἔρχονται (hist. pres.)", "thai": "มาถึง", "rationale": "Historic present (per uW v.31). 'Arrive' captures the coming-to-location."},
+        {"greek": "ἡ μήτηρ αὐτοῦ", "thai": "มารดาของพระองค์", "rationale": "Royal register: 'มารดา' (formal mother) + 'ของพระองค์' (royal possessive). Mary, though biologically the mother, is addressed with royal reference when speaking of Jesus."},
+        {"greek": "οἱ ἀδελφοὶ αὐτοῦ", "thai": "บรรดาน้องชายของพระองค์", "rationale": "Per uW: Jesus' younger brothers (sons of Joseph and Mary, hence Jesus' half-brothers from a Catholic/Orthodox perspective or full brothers from a Protestant). Thai 'น้องชาย' (younger brother) explicit. 'บรรดา' plural classifier."},
+        {"greek": "ἔξω στήκοντες", "thai": "ยืนอยู่ด้านนอก", "rationale": "στήκω = 'stand firm.' Per uW: they stand outside the house (cf. v.20). Thai 'ยืนอยู่ด้านนอก' (standing outside) natural."},
+        {"greek": "ἀπέστειλαν πρὸς αὐτόν καλοῦντες αὐτόν", "thai": "ส่งคนเข้าไปเรียกพระองค์", "rationale": "'Sent to him, calling him.' Per uW: they sent a messenger/someone through the crowd to tell Jesus to come out. Thai 'ส่งคนเข้าไปเรียก' (sent person in to summon) natural."}
+      ],
+      "notes": "The family-frame continues the Markan intercalation begun in v.21. Jesus' family believes he is insane (v.21) and arrives here to take him home — only to be replaced as his 'true family' in vv.33–35."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 3:32",
+    "chapter": 3,
+    "verse": 32,
+    "greek": "καὶ ἐκάθητο περὶ αὐτὸν ὄχλος, καὶ λέγουσιν αὐτῷ· Ἰδοὺ ἡ μήτηρ σου καὶ οἱ ἀδελφοί σου ἔξω ζητοῦσίν σε.",
+    "bsb_english": "and a crowd was sitting around Him. \"Look,\" He was told, \"Your mother and brothers are outside, asking for You.\"",
+    "translation": {
+      "thai": "มีฝูงชนนั่งล้อมพระองค์อยู่ พวกเขาจึงทูลพระองค์ว่า 'ดูเถิด มารดาและบรรดาน้องชายของท่านอยู่ด้านนอก กำลังตามหาท่านอยู่'",
+      "key_decisions": [
+        {"greek": "ἐκάθητο περὶ αὐτόν (imperf.)", "thai": "นั่งล้อม...อยู่", "rationale": "Imperfect = ongoing state. περί = around. Thai 'นั่งล้อม' (sit surrounding) natural."},
+        {"greek": "λέγουσιν αὐτῷ (hist. pres.)", "thai": "ทูลพระองค์", "rationale": "Historic present (per uW v.32). Humans (crowd) addressing Jesus respectfully — royal 'ทูล' (speak to a royal/honored person)."},
+        {"greek": "Ἰδού", "thai": "ดูเถิด", "rationale": "Attention-getter (per uW). Thai 'ดูเถิด' standard biblical 'Behold.'"},
+        {"greek": "σου / σε (crowd to Jesus)", "thai": "ของท่าน / ท่าน", "rationale": "Crowd reporting to Jesus — respectful but not honorific (the message is routine/neutral, not reverent address). Thai 'ท่าน' (respectful 2nd-person). Consistent with Mark 2:18 (inquirers to Jesus)."},
+        {"greek": "ἡ μήτηρ σου καὶ οἱ ἀδελφοί σου", "thai": "มารดาและบรรดาน้องชายของท่าน", "rationale": "Parallel to v.31. Registered address-form: the crowd speaks of Mary/brothers using Jesus' relationship to them — 'ของท่าน' (yours, respectful)."},
+        {"greek": "ζητοῦσίν σε", "thai": "กำลังตามหาท่านอยู่", "rationale": "ζητέω = 'seek, look for.' Present indicative = ongoing action. Thai 'กำลัง...อยู่' (continuous aspect)."}
+      ],
+      "notes": "TEXTUAL VARIANT: Some manuscripts add 'καὶ αἱ ἀδελφαί σου' ('and your sisters') after 'brothers' (Byzantine minority, reflecting harmonization with v.35). SBLGNT follows the shorter reading (ℵ, B, C, L, W). BSB follows shorter reading as well. Our translation follows SBLGNT (only mother and brothers named at the door)."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 3:33",
+    "chapter": 3,
+    "verse": 33,
+    "greek": "καὶ ἀποκριθεὶς αὐτοῖς λέγει· Τίς ἐστιν ἡ μήτηρ μου ἢ οἱ ἀδελφοί μου;",
+    "bsb_english": "But Jesus replied, \"Who are My mother and My brothers?\"",
+    "translation": {
+      "thai": "พระองค์ตรัสตอบพวกเขาว่า 'ใครคือมารดาของเรา และใครคือพี่น้องของเรา?'",
+      "key_decisions": [
+        {"greek": "ἀποκριθεὶς...λέγει (hist. pres.)", "thai": "ตรัสตอบ", "rationale": "Historic present (per uW v.33). Royal speech."},
+        {"greek": "Jesus' self-reference", "thai": "เรา", "rationale": "Royal first-person 'เรา' (consistent across Mark chapters)."},
+        {"greek": "Τίς...ἢ... (rhet. q.)", "thai": "ใครคือ...และใครคือ", "rationale": "Rhetorical question per uW: Jesus is not asking for information but redefining family. Thai 'ใครคือ' (who is) preserves the interrogative. Per uW: the question is a teaching device — answer comes in vv.34–35."},
+        {"greek": "οἱ ἀδελφοί μου", "thai": "พี่น้องของเรา", "rationale": "Shifts from 'น้องชาย' (younger brother, literal) in v.31–32 to 'พี่น้อง' (sibling, generic) here. Reason: Jesus is opening the category — v.35 explicitly adds ἀδελφή 'sister,' so Jesus is not asking about literal younger brothers but about the broader kinship category. Thai 'พี่น้อง' (sibling) neutral for age and gender, matching the expanded sense Jesus is about to define."}
+      ]
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 3:34",
+    "chapter": 3,
+    "verse": 34,
+    "greek": "καὶ περιβλεψάμενος τοὺς περὶ αὐτὸν κύκλῳ καθημένους λέγει· Ἴδε ἡ μήτηρ μου καὶ οἱ ἀδελφοί μου·",
+    "bsb_english": "Looking at those seated in a circle around Him, He said, \"Here are My mother and My brothers!\"",
+    "translation": {
+      "thai": "พระองค์ทอดพระเนตรดูคนที่นั่งล้อมรอบพระองค์ แล้วตรัสว่า 'ดูเถิด นี่คือมารดาของเราและพี่น้องของเรา'",
+      "key_decisions": [
+        {"greek": "περιβλεψάμενος", "thai": "ทอดพระเนตรดู...รอบ", "rationale": "Same verb as v.5, different tone: v.5 was angry gaze at opponents; here, affectionate gaze at disciples. Same Thai rendering 'ทอดพระเนตรดู' (royal look-upon) with '...รอบ' for the surveying motion. Consistency of the verb's rendering lets Thai readers sense the verbal parallel across the chapter."},
+        {"greek": "κύκλῳ καθημένους", "thai": "นั่งล้อมรอบ", "rationale": "κύκλῳ dat. of manner 'in a circle.' Thai 'ล้อมรอบ' (surround-around) natural."},
+        {"greek": "Ἴδε", "thai": "ดูเถิด", "rationale": "Attention-getter (per uW). Makes the re-identification dramatic: 'LOOK at these people — they are my family.'"},
+        {"greek": "ἡ μήτηρ μου καὶ οἱ ἀδελφοί μου", "thai": "มารดาของเราและพี่น้องของเรา", "rationale": "Parallel to v.33 — Jesus' inclusive redefinition of family: the disciples around him ARE his mother and siblings."}
+      ]
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 3:35",
+    "chapter": 3,
+    "verse": 35,
+    "greek": "ὃς γὰρ ἂν ποιήσῃ τὸ θέλημα τοῦ θεοῦ, οὗτος ἀδελφός μου καὶ ἀδελφὴ καὶ μήτηρ ἐστίν.",
+    "bsb_english": "For whoever does the will of God is My brother and sister and mother.\"",
+    "translation": {
+      "thai": "เพราะว่าผู้ใดก็ตามที่ทำตามน้ำพระทัยของพระเจ้า ผู้นั้นก็เป็นพี่น้องชาย พี่น้องหญิง และมารดาของเรา",
+      "key_decisions": [
+        {"greek": "ὃς...ἂν ποιήσῃ (indef. rel.)", "thai": "ผู้ใดก็ตามที่...ทำ", "rationale": "Indefinite relative. Thai 'ผู้ใดก็ตามที่' (whoever) standard."},
+        {"greek": "τὸ θέλημα τοῦ θεοῦ", "thai": "น้ำพระทัยของพระเจ้า", "rationale": "θέλημα = will, desire. Thai biblical standard 'น้ำพระทัย' (royal mind/heart = will). 'ทำตาม' (do-according-to) = obey/carry out."},
+        {"greek": "ἀδελφός μου καὶ ἀδελφὴ καὶ μήτηρ", "thai": "พี่น้องชาย พี่น้องหญิง และมารดา", "rationale": "Three-way relation: brother + sister + mother (notably omitting 'father' — likely because God the Father is the only Father in this redefined family; cf. Matt 23:9). Thai compound forms: 'พี่น้องชาย' (sibling-male) + 'พี่น้องหญิง' (sibling-female) preserve the gender-inclusive explicitness of Greek ἀδελφή's presence. Age-neutral 'พี่น้อง' prefix rather than 'น้อง' (younger) because Jesus' kinship-declaration is about relationship-category, not age-dynamic."}
+      ],
+      "notes": "FAMILY REDEFINITION: The omission of 'father' in Jesus' new family-list is notable — Mark 3:35 has brother, sister, mother but not father. This may reflect the cultural absence of earthly fathers in the scene (Joseph presumed dead) AND the theological truth that in the new family God alone is Father (cf. Matt 23:9). The passage as a whole (3:31–35) completes the Markan intercalation begun in v.21: Jesus' biological family considered him mad, but his true family is defined by doing God's will. This is the foundational text for the Church as new kinship community."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  }
+]

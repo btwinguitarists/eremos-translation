@@ -19,3 +19,19 @@ venv/
 
 # OS
 .DS_Store
+
+# Redundant combined-book extract files (per-chapter files cover same content)
+output/**/*_verses.json
+
+# Extracted Greek source-data caches — reproducible via scripts/extract_book.py.
+# Only actual translation artifacts are tracked. The whitelist below keeps the
+# folders that represent real translation work; everything else under output/
+# is treated as a cache.
+output/*/
+!output/translations/
+!output/back_translations/
+!output/uw_notes/
+!output/check_reports/
+
+# Demo/scratch files
+output/translations/*_demo.json

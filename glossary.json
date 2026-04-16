@@ -3,6 +3,96 @@
   "generated_from": "output/translations/*.json",
   "note": "Auto-generated. Edit output/translations/<chapter>.json — do not hand-edit this file.",
   "entries": {
+    "Jesus to Pharisees": {
+      "primary_thai": "พวกท่าน",
+      "all_renderings": {
+        "พวกท่าน": [
+          {
+            "verse": "Mark 2:25",
+            "rationale": "Formal/polite plural — Jesus addresses the Pharisees as rabbinic peers in argument, not as subordinates. Fits the appeal-to-scripture rhetorical mode."
+          }
+        ],
+        "พวกเขา (in narrator frame); zero 2nd-person in direct speech": [
+          {
+            "verse": "Mark 3:4",
+            "rationale": "Rhetorical question lacks direct 2nd-person marker in Greek. Thai preserves impersonal form ('สิ่งใด...') without inserting 'พวกท่าน,' which would be awkward for a hypothetical-form rhetorical question. Register choice consistent with Mark 2:25 (Jesus-to-Pharisees = peer-level 'พวกท่าน') when personal address is needed."
+          }
+        ]
+      },
+      "occurrences_count": 2
+    },
+    "Jesus to paralytic": {
+      "primary_thai": "เจ้า",
+      "all_renderings": {
+        "เจ้า": [
+          {
+            "verse": "Mark 2:5",
+            "rationale": "Divine-to-human hierarchy: Jesus uses 'เรา' for himself and 'เจ้า' for the paralytic (intimate-but-superior address). Consistent with ราชาศัพท์ framework."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Jesus to scribes": {
+      "primary_thai": "พวกท่าน",
+      "all_renderings": {
+        "พวกท่าน": [
+          {
+            "verse": "Mark 2:8",
+            "rationale": "Plural polite second-person for Jesus addressing the scribes. Formal but not honorific — Jesus does not demean them but also claims equal-or-higher authority."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Jesus to the man": {
+      "primary_thai": "เจ้า (implicit)",
+      "all_renderings": {
+        "เจ้า (implicit)": [
+          {
+            "verse": "Mark 3:3",
+            "rationale": "Register consistent with Mark 2:5 (Jesus to paralytic): divine-to-human with compassion. Here the imperative 'จง' + 'เจ้า' implied in the address form 'ชายผู้มีมือลีบ.'"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Jesus' self-reference": {
+      "primary_thai": "เรา",
+      "all_renderings": {
+        "เรา": [
+          {
+            "verse": "Mark 3:33",
+            "rationale": "Royal first-person 'เรา' (consistent across Mark chapters)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Narrator bridge": {
+      "primary_thai": "(พระองค์ตรัสเช่นนี้)",
+      "all_renderings": {
+        "(พระองค์ตรัสเช่นนี้)": [
+          {
+            "verse": "Mark 3:30",
+            "rationale": "Greek is elliptical — reader must supply 'Jesus spoke this.' Thai adds parenthetical bridge for reader clarity (cf. BSB 'Jesus made this statement'). Parenthesis marks it as non-literal supplement."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Pharisees' direct quote": {
+      "primary_thai": "เขา (for Jesus)",
+      "all_renderings": {
+        "เขา (for Jesus)": [
+          {
+            "verse": "Mark 2:16",
+            "rationale": "Within the Pharisees' direct speech, using 'เขา' (neutral/distancing) rather than 'พระองค์' (honorific). Matches the accusative tone of their question. Consistent with 2:7 where I used 'คนนี้' for οὗτος. Register tracks speaker attitude."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "Punctuation ambiguity": {
       "primary_thai": "คำสอนใหม่ที่มีสิทธิอำนาจ!",
       "all_renderings": {
@@ -10,6 +100,18 @@
           {
             "verse": "Mark 1:27",
             "rationale": "Greek is unpunctuated; ancient reading could be 'new teaching! With authority even the unclean spirits he commands' (taking κατ' ἐξουσίαν with what follows). Modern critical texts typically punctuate with 'new teaching with authority' as a self-contained exclamation. Followed majority reading."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Scribes' direct speech about Jesus": {
+      "primary_thai": "เขา (dismissive)",
+      "all_renderings": {
+        "เขา (dismissive)": [
+          {
+            "verse": "Mark 3:22",
+            "rationale": "Register per Mark 2:7, 2:16 precedent: scribes' hostile speech about Jesus uses dismissive 'เขา' (neutral third-person), not honorific 'พระองค์.' Matches the accusatory tone."
           }
         ]
       },
@@ -27,6 +129,78 @@
       },
       "occurrences_count": 1
     },
+    "Triple imperative: ἔγειρε...ἆρον...ὕπαγε": {
+      "primary_thai": "จงลุกขึ้น จงยก...จงกลับ",
+      "all_renderings": {
+        "จงลุกขึ้น จงยก...จงกลับ": [
+          {
+            "verse": "Mark 2:11",
+            "rationale": "Three aorist/present imperatives in succession — rising action, pick up, going. Thai 'จง' imperative particle for each preserves the emphatic series."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "anacoluthon": {
+      "primary_thai": "em-dash",
+      "all_renderings": {
+        "em-dash": [
+          {
+            "verse": "Mark 2:10",
+            "rationale": "The Greek sentence breaks off mid-speech (addressing scribes) and switches to narrator-voice ('he says to the paralytic'). Thai em-dash preserves the grammatical rupture and narrative effect."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "background description": {
+      "primary_thai": "กำลังอดอาหารอยู่",
+      "all_renderings": {
+        "กำลังอดอาหารอยู่": [
+          {
+            "verse": "Mark 2:18",
+            "rationale": "Periphrastic imperfect = ongoing action. Thai 'กำลัง...อยู่' (continuous aspect)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "chiastic antithesis": {
+      "primary_thai": "ถูกสร้างขึ้นเพื่อมนุษย์...มนุษย์ถูกสร้างขึ้นเพื่อวันสะบาโต",
+      "all_renderings": {
+        "ถูกสร้างขึ้นเพื่อมนุษย์...มนุษย์ถูกสร้างขึ้นเพื่อวันสะบาโต": [
+          {
+            "verse": "Mark 2:27",
+            "rationale": "Mark preserves the reversible A-for-B / B-for-A chiasm. Thai naturally parallels with the same verb both sides. This proverb-form maximizes rhetorical memorability."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "generic ὁ ἄνθρωπος": {
+      "primary_thai": "มนุษย์",
+      "all_renderings": {
+        "มนุษย์": [
+          {
+            "verse": "Mark 2:27",
+            "rationale": "Generic 'the man' = humanity. Thai 'มนุษย์' (human/humankind) is generic — fitting for the proverbial form."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "implicit subject": {
+      "primary_thai": "พวกเขา",
+      "all_renderings": {
+        "พวกเขา": [
+          {
+            "verse": "Mark 3:2",
+            "rationale": "Subject of παρετήρουν is ambiguous in Greek — revealed in 3:6 as Pharisees. Thai 'พวกเขา' preserves the narrative suspense; the identity is unveiled only at v.6."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "leper addressing Jesus": {
       "primary_thai": "ข้าพระองค์...พระองค์",
       "all_renderings": {
@@ -34,6 +208,78 @@
           {
             "verse": "Mark 1:40",
             "rationale": "Humble supplicant to divine superior — uses ข้าพระองค์ (I, most humble) + พระองค์ (you, divine)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "nested quotation": {
+      "primary_thai": "nested \"...\" inside '...'",
+      "all_renderings": {
+        "nested \"...\" inside '...'": [
+          {
+            "verse": "Mark 2:9",
+            "rationale": "Thai preserves the quotes-within-quotes structure for clarity."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Βεελζεβούλ": {
+      "primary_thai": "เบเอลเซบูล",
+      "all_renderings": {
+        "เบเอลเซบูล": [
+          {
+            "verse": "Mark 3:22",
+            "rationale": "Aramaic name for a major demon, probably 'Baal-Zebul' (Lord of the Dwelling) or satiric pun 'Baal-Zebub' (Lord of Flies — cf. 2 Kgs 1:2). Thai transliteration 'เบเอลเซบูล' (standard in Thai Christian tradition)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Βεελζεβοὺλ ἔχει": {
+      "primary_thai": "เขาถูกเบเอลเซบูลเข้าสิง",
+      "all_renderings": {
+        "เขาถูกเบเอลเซบูลเข้าสิง": [
+          {
+            "verse": "Mark 3:22",
+            "rationale": "Per uW: idiom 'has Beelzebul' = 'is possessed by Beelzebul.' Thai 'ถูก...เข้าสิง' (is-entered-possessed) is the standard Thai idiom for demonic possession — preserves the sense while naturalizing the grammar."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Βοανηργές": {
+      "primary_thai": "โบอาเนอเกส",
+      "all_renderings": {
+        "โบอาเนอเกส": [
+          {
+            "verse": "Mark 3:17",
+            "rationale": "HAPAX LEGOMENON. Aramaic/Hebrew loanword transliterated into Greek by Mark. Per uW translation-transliterate guidance: preserve as transliteration, since Mark himself translates the meaning in the same verse. Thai transliteration 'โบอาเนอเกส' preserves the phonetic sequence. The underlying etymology (bene-regesh 'sons of commotion' or bene-ra'am 'sons of thunder') is debated; Mark's Greek gloss tells us his understanding."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Γαλιλαίας / Ἰουδαίας": {
+      "primary_thai": "แคว้นกาลิลี / แคว้นยูเดีย",
+      "all_renderings": {
+        "แคว้นกาลิลี / แคว้นยูเดีย": [
+          {
+            "verse": "Mark 3:7",
+            "rationale": "Standard Thai biblical transliterations with 'แคว้น' (region/province) classifier. Galilee = Jesus' home region; Judea = southern region including Jerusalem. The geographic widening (vv.7–8) shows Jesus' fame spreading across the entire Jewish world."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Δαυίδ": {
+      "primary_thai": "ดาวิด",
+      "all_renderings": {
+        "ดาวิด": [
+          {
+            "verse": "Mark 2:25",
+            "rationale": "Standard Thai biblical transliteration of David."
           }
         ]
       },
@@ -63,6 +309,66 @@
       },
       "occurrences_count": 1
     },
+    "Θαδδαῖον": {
+      "primary_thai": "ธัดเดอัส",
+      "all_renderings": {
+        "ธัดเดอัส": [
+          {
+            "verse": "Mark 3:18",
+            "rationale": "Standard Thai biblical transliteration. Likely the same disciple called Jude/Judas (son of James) in Luke 6:16. Per uW chapter intro: one person often had multiple names in that culture."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Λευὶν τὸν τοῦ Ἁλφαίου": {
+      "primary_thai": "เลวีบุตรอัลเฟอัส",
+      "all_renderings": {
+        "เลวีบุตรอัลเฟอัส": [
+          {
+            "verse": "Mark 2:14",
+            "rationale": "Proper nouns: Λευίν = Levi; Ἁλφαίου = Alphaeus. Thai standard biblical transliterations 'เลวี' and 'อัลเฟอัส.' Levi = Matthew (in Matt 9:9), a tax collector-turned-disciple."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Μὴ δύνανται...νηστεύειν": {
+      "primary_thai": "จะอดอาหารได้หรือ",
+      "all_renderings": {
+        "จะอดอาหารได้หรือ": [
+          {
+            "verse": "Mark 2:19",
+            "rationale": "Greek rhetorical question expecting 'no' (μή). Thai 'ได้หรือ' (can they?) preserves the rhetorical form."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Οὐδέποτε ἀνέγνωτε": {
+      "primary_thai": "พวกท่านไม่เคยอ่านหรือ",
+      "all_renderings": {
+        "พวกท่านไม่เคยอ่านหรือ": [
+          {
+            "verse": "Mark 2:25",
+            "rationale": "Rhetorical question assuming they have read. Jesus appeals to the Pharisees' own scriptural knowledge. Thai 'ไม่เคย...หรือ' (have you never...?) preserves the rhetoric."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Οὕτως οὐδέποτε εἴδομεν": {
+      "primary_thai": "พวกเราไม่เคยเห็นสิ่งเช่นนี้เลย",
+      "all_renderings": {
+        "พวกเราไม่เคยเห็นสิ่งเช่นนี้เลย": [
+          {
+            "verse": "Mark 2:12",
+            "rationale": "Elliptical Greek 'Thus we have never seen.' Thai adds 'สิ่ง' (thing) for natural syntax. 'เลย' intensifies the negation."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "Πεπλήρωται": {
       "primary_thai": "มาถึงแล้ว",
       "all_renderings": {
@@ -87,6 +393,54 @@
       },
       "occurrences_count": 1
     },
+    "Πνεῦμα ἀκάθαρτον ἔχει": {
+      "primary_thai": "เขามีวิญญาณโสโครก",
+      "all_renderings": {
+        "เขามีวิญญาณโสโครก": [
+          {
+            "verse": "Mark 3:30",
+            "rationale": "Scribes' direct quote. Thai 'มี...วิญญาณ' (has...spirit) is also idiomatic for possession; 'ถูก...เข้าสิง' (v.22) and 'มีวิญญาณ' (v.30) are both standard. Scribes' register 'เขา' (dismissive) for Jesus."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Πῶς δύναται Σατανᾶς Σατανᾶν ἐκβάλλειν": {
+      "primary_thai": "ซาตานจะขับซาตานออกได้อย่างไร?",
+      "all_renderings": {
+        "ซาตานจะขับซาตานออกได้อย่างไร?": [
+          {
+            "verse": "Mark 3:23",
+            "rationale": "Rhetorical question expecting 'cannot.' Per uW: question-form used to rebuke. Thai 'ได้อย่างไร?' (how can?) preserves the rhetorical form. Σατανᾶς (per glossary 'ซาตาน'). The internal contradiction of scribes' accusation exposed: Satan-expelling-Satan is self-defeating."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Σοὶ λέγω": {
+      "primary_thai": "เราสั่งเจ้า",
+      "all_renderings": {
+        "เราสั่งเจ้า": [
+          {
+            "verse": "Mark 2:11",
+            "rationale": "Σοί fronted for emphasis: 'To YOU I say.' The pivot from debate-with-scribes to command-to-paralytic. Thai 'เราสั่งเจ้า' (I [royal] command you) carries the imperative weight."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Σὺ εἶ ὁ υἱὸς τοῦ θεοῦ": {
+      "primary_thai": "ท่านคือพระบุตรของพระเจ้า",
+      "all_renderings": {
+        "ท่านคือพระบุตรของพระเจ้า": [
+          {
+            "verse": "Mark 3:11",
+            "rationale": "Demon-register: per Mark 1:24 precedent, demons address Jesus with 'ท่าน' (respectful but non-honorific — NOT 'พระองค์' which is reserved for human reverent speech to the divine). The title itself 'พระบุตรของพระเจ้า' retains royal 'พระ' prefix because it is a theological title with inherent honor, regardless of speaker. The demons speak TRUE christology with HOSTILE tone — a profoundly Markan irony: the first beings in Mark's gospel to publicly identify Jesus as υἱὸς τοῦ θεοῦ (cf. 1:1) are unclean spirits. Human confession (Peter 8:29, centurion 15:39) comes later."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "Σὺ...ὁ ἀγαπητός": {
       "primary_thai": "เจ้า...ที่รัก",
       "all_renderings": {
@@ -94,6 +448,18 @@
           {
             "verse": "Mark 1:11",
             "rationale": "God addressing Son directly — เจ้า preserves intimate Father-to-Son address. ἀγαπητός = beloved; in LXX often = only/unique beloved. Alludes to Gen 22:2 (Isaac) and Ps 2:7."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Τέκνον": {
+      "primary_thai": "ลูกเอ๋ย",
+      "all_renderings": {
+        "ลูกเอ๋ย": [
+          {
+            "verse": "Mark 2:5",
+            "rationale": "τέκνον = affectionate address ('child/son') from a senior to a younger person in need. Not literal kinship. Thai 'ลูกเอ๋ย' (dear child) — warm paternal register. Jesus as divine healer addressing a suffering human with compassion."
           }
         ]
       },
@@ -111,6 +477,18 @@
       },
       "occurrences_count": 1
     },
+    "Τίς...ἢ...": {
+      "primary_thai": "ใครคือ...และใครคือ",
+      "all_renderings": {
+        "ใครคือ...และใครคือ": [
+          {
+            "verse": "Mark 3:33",
+            "rationale": "Rhetorical question per uW: Jesus is not asking for information but redefining family. Thai 'ใครคือ' (who is) preserves the interrogative. Per uW: the question is a teaching device — answer comes in vv.34–35."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "Ταῦτά σοι γράφω": {
       "primary_thai": "ข้าพเจ้าเขียนสิ่งเหล่านี้ถึงท่าน",
       "all_renderings": {
@@ -118,6 +496,30 @@
           {
             "verse": "1 Timothy 3:14",
             "rationale": "Paul (ἐγώ implied) to Timothy (σοι). Register: Paul → Timothy is human-to-human, affectionate but formal (Paul is Timothy's mentor/father-in-faith). ข้าพเจ้า = formal/humble 'I'; ท่าน = respectful 'you.' No ราชาศัพท์ (that's reserved for divine subjects)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Τύρον καὶ Σιδῶνα": {
+      "primary_thai": "ไทระและไซดอน",
+      "all_renderings": {
+        "ไทระและไซดอน": [
+          {
+            "verse": "Mark 3:8",
+            "rationale": "Phoenician coastal cities (modern Lebanon). Standard Thai biblical transliterations. Significant as Gentile territory — crowd includes non-Jews, foreshadowing the gospel's universal reach (cf. Mark 7:24)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Υἱοὶ Βροντῆς": {
+      "primary_thai": "บุตรแห่งฟ้าร้อง",
+      "all_renderings": {
+        "บุตรแห่งฟ้าร้อง": [
+          {
+            "verse": "Mark 3:17",
+            "rationale": "Mark's own translation of Boanerges. βροντή = thunder. 'Sons of X' is Semitic idiom for 'people characterized by X' (per uW). Thai 'บุตรแห่งฟ้าร้อง' (sons-of thunder) preserves both the Semitic genitive idiom and the imagery of stormy temperament (cf. Luke 9:54, John + James asking to call down fire)."
           }
         ]
       },
@@ -135,6 +537,18 @@
       },
       "occurrences_count": 1
     },
+    "αἰρόμενον ὑπὸ τεσσάρων": {
+      "primary_thai": "โดยมีสี่คนหามมา",
+      "all_renderings": {
+        "โดยมีสี่คนหามมา": [
+          {
+            "verse": "Mark 2:3",
+            "rationale": "Present passive participle 'being carried.' 'หาม' = carry on shoulders/poles (fitting for a pallet-borne person). Four men is explicit in Greek — a Markan detail Matt/Luke omit."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "αἰσχροκερδεῖς": {
       "primary_thai": "โลภในกำไรที่น่าอาย",
       "all_renderings": {
@@ -142,6 +556,18 @@
           {
             "verse": "1 Timothy 3:8",
             "rationale": "αἰσχροκερδής = greedy for shameful gain. Compound αἰσχρός (shameful) + κέρδος (gain). Rare word (2x NT, only in Pastorals). โลภในกำไรที่น่าอาย = 'greedy for profit that is shameful' — preserves the ethical stigma."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "αἴρει τὸ πλήρωμα ἀπ' αὐτοῦ": {
+      "primary_thai": "ผ้าใหม่ก็จะดึงผ้าเก่าให้ขาด",
+      "all_renderings": {
+        "ผ้าใหม่ก็จะดึงผ้าเก่าให้ขาด": [
+          {
+            "verse": "Mark 2:21",
+            "rationale": "'The patch (πλήρωμα = the filling/completion piece) lifts/tears away from it.' The appositional τὸ καινὸν τοῦ παλαιοῦ ('the new [piece from] the old') clarifies. Thai preserves the shrinking-and-tearing dynamic."
           }
         ]
       },
@@ -159,6 +585,18 @@
       },
       "occurrences_count": 1
     },
+    "βασιλεία": {
+      "primary_thai": "อาณาจักร",
+      "all_renderings": {
+        "อาณาจักร": [
+          {
+            "verse": "Mark 3:24",
+            "rationale": "Consistent with Mark 1:15 'อาณาจักรของพระเจ้า' glossary. Here generic political entity."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "βασιλεία τοῦ θεοῦ": {
       "primary_thai": "อาณาจักรของพระเจ้า",
       "all_renderings": {
@@ -166,6 +604,18 @@
           {
             "verse": "Mark 1:15",
             "rationale": "Standard rendering. Alternative: ราชอาณาจักร (more royal register)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "βλασφημεῖ": {
+      "primary_thai": "หมิ่นประมาทพระเจ้า",
+      "all_renderings": {
+        "หมิ่นประมาทพระเจ้า": [
+          {
+            "verse": "Mark 2:7",
+            "rationale": "βλασφημέω = speak against God / abusive speech. Thai Christian standard 'หมิ่นประมาทพระเจ้า' (dishonor/abuse God) makes the theological object explicit, which Greek implies."
           }
         ]
       },
@@ -207,6 +657,18 @@
       },
       "occurrences_count": 1
     },
+    "γραμματέων": {
+      "primary_thai": "ธรรมาจารย์",
+      "all_renderings": {
+        "ธรรมาจารย์": [
+          {
+            "verse": "Mark 2:6",
+            "rationale": "Consistent with 1:22. Torah scholars/scribes."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "γραμματεῖς": {
       "primary_thai": "ธรรมาจารย์",
       "all_renderings": {
@@ -214,10 +676,14 @@
           {
             "verse": "Mark 1:22",
             "rationale": "Standard Thai rendering of Torah scholars/scribes."
+          },
+          {
+            "verse": "Mark 3:22",
+            "rationale": "Consistent with Mark 1:22, 2:6, 2:16 usage. Per glossary."
           }
         ]
       },
-      "occurrences_count": 1
+      "occurrences_count": 2
     },
     "γυναῖκας": {
       "primary_thai": "หญิง",
@@ -231,6 +697,18 @@
       },
       "occurrences_count": 1
     },
+    "δήσῃ": {
+      "primary_thai": "มัด",
+      "all_renderings": {
+        "มัด": [
+          {
+            "verse": "Mark 3:27",
+            "rationale": "δέω = 'tie, bind.' Thai 'มัด' standard."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "δαιμόνια": {
       "primary_thai": "ผี",
       "all_renderings": {
@@ -238,6 +716,18 @@
           {
             "verse": "Mark 1:34",
             "rationale": "δαιμόνιον = demon. Thai Christianity uses ผี (the same term for ghost/spirit). Translation consistent across Mark."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "δι' ἡμερῶν": {
+      "primary_thai": "หลังจากผ่านไปไม่กี่วัน",
+      "all_renderings": {
+        "หลังจากผ่านไปไม่กี่วัน": [
+          {
+            "verse": "Mark 2:1",
+            "rationale": "Idiomatic 'after [some] days' = a few but not many days later. Connects to the leper episode at end of ch.1. Thai naturalizes with a full temporal clause."
           }
         ]
       },
@@ -279,6 +769,30 @@
       },
       "occurrences_count": 1
     },
+    "διαλογιζόμενοι ἐν ταῖς καρδίαις": {
+      "primary_thai": "คิดในใจ",
+      "all_renderings": {
+        "คิดในใจ": [
+          {
+            "verse": "Mark 2:6",
+            "rationale": "διαλογίζομαι = reason/deliberate internally. ἐν ταῖς καρδίαις = 'in their hearts' (Semitic idiom for inner thought, not emotion). Thai 'คิดในใจ' is the exact natural idiom."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "διαρπάσαι / διαρπάσει": {
+      "primary_thai": "ปล้น",
+      "all_renderings": {
+        "ปล้น": [
+          {
+            "verse": "Mark 3:27",
+            "rationale": "διαρπάζω = 'plunder thoroughly' (intensive prefix δια-). Thai 'ปล้น' (rob/plunder) standard."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "διαφημίζειν": {
       "primary_thai": "เผยแพร่...อย่างกว้างขวาง",
       "all_renderings": {
@@ -315,6 +829,18 @@
       },
       "occurrences_count": 1
     },
+    "δικαίους...ἁμαρτωλούς": {
+      "primary_thai": "คนชอบธรรม...คนบาป",
+      "all_renderings": {
+        "คนชอบธรรม...คนบาป": [
+          {
+            "verse": "Mark 2:17",
+            "rationale": "Antithesis. 'คนชอบธรรม' = righteous people (standard biblical Thai). The implicit irony: the 'righteous' are those who think they need no call — so Jesus' call goes to those who know they do."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "διλόγους": {
       "primary_thai": "พูดสองลิ้น",
       "all_renderings": {
@@ -334,6 +860,66 @@
           {
             "verse": "1 Timothy 3:10",
             "rationale": "δοκιμάζω = test, examine, prove. Present passive imperative — ongoing/standard practice. ให้ทดสอบ = 'let them be tested' (Thai imperative construction)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "δοξάζειν τὸν θεόν": {
+      "primary_thai": "สรรเสริญพระเจ้า",
+      "all_renderings": {
+        "สรรเสริญพระเจ้า": [
+          {
+            "verse": "Mark 2:12",
+            "rationale": "δοξάζω = glorify, honor. Thai 'สรรเสริญ' = praise/honor — standard biblical."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "δυνήσεται": {
+      "primary_thai": "จะ...ไม่ได้",
+      "all_renderings": {
+        "จะ...ไม่ได้": [
+          {
+            "verse": "Mark 3:25",
+            "rationale": "Future indicative (contrast with v.24's present). Thai 'จะ...ไม่ได้' (will not be able to). The future tense subtly intensifies: not merely 'cannot stand now' but 'will not stand.'"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "εἰ + aor. ind.": {
+      "primary_thai": "ถ้า",
+      "all_renderings": {
+        "ถ้า": [
+          {
+            "verse": "Mark 3:26",
+            "rationale": "Shift from ἐάν + subj. (vv.24–25 purely hypothetical) to εἰ + indicative (v.26 treated as assertable). Subtle logical tightening: 'given that these hypothetical-cases apply, IF Satan did X...' Thai 'ถ้า' serves both but the argument's progression is tighter."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "εἰ μὴ εἷς ὁ θεός": {
+      "primary_thai": "นอกจากพระเจ้าองค์เดียว",
+      "all_renderings": {
+        "นอกจากพระเจ้าองค์เดียว": [
+          {
+            "verse": "Mark 2:7",
+            "rationale": "'Except one, God' — emphatic monotheism (echoing Shema). The scribes' theology is correct; their application is wrong (they don't see who Jesus is)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "εἰ...θεραπεύσει": {
+      "primary_thai": "ว่าจะทรง...หรือไม่",
+      "all_renderings": {
+        "ว่าจะทรง...หรือไม่": [
+          {
+            "verse": "Mark 3:2",
+            "rationale": "εἰ + future indicative introduces an indirect question expecting answer. Thai 'ว่า...หรือไม่' (whether...or not) is natural."
           }
         ]
       },
@@ -363,6 +949,18 @@
       },
       "occurrences_count": 1
     },
+    "εἰς οἶκον": {
+      "primary_thai": "เข้าบ้าน",
+      "all_renderings": {
+        "เข้าบ้าน": [
+          {
+            "verse": "Mark 3:20",
+            "rationale": "Anarthrous 'into house' = idiomatic 'home,' consistent with Mark 2:1."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "εἰς τοῦτο γὰρ ἐξῆλθον": {
       "primary_thai": "เพราะเหตุนี้เราจึงออกมา",
       "all_renderings": {
@@ -370,6 +968,18 @@
           {
             "verse": "Mark 1:38",
             "rationale": "Ambiguous: ἐξῆλθον could mean (a) 'I came out [from my quiet place this morning]' or (b) 'I came forth [from the Father, i.e., incarnation purpose]'. Majority reading = (a) given immediate context. Thai preserves the reference to 'coming out.'"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "εἰς τὸν οἶκόν σου": {
+      "primary_thai": "กลับบ้านไป",
+      "all_renderings": {
+        "กลับบ้านไป": [
+          {
+            "verse": "Mark 2:11",
+            "rationale": "'To your house' = 'home.' Thai 'กลับบ้านไป' (return home)."
           }
         ]
       },
@@ -399,6 +1009,18 @@
       },
       "occurrences_count": 1
     },
+    "εἰσῆλθεν πάλιν εἰς συναγωγήν": {
+      "primary_thai": "เสด็จเข้าไปในธรรมศาลาอีกครั้งหนึ่ง",
+      "all_renderings": {
+        "เสด็จเข้าไปในธรรมศาลาอีกครั้งหนึ่ง": [
+          {
+            "verse": "Mark 3:1",
+            "rationale": "Royal verb of motion 'เสด็จ' for Jesus. συναγωγή rendered 'ธรรมศาลา' per glossary (Mark 1:21, 1:23, 1:29, 1:39). πάλιν ('again') implies a previously-visited synagogue — likely Capernaum (per uW), though Mark does not explicitly say."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "εἶδεν + ทอดพระเนตร": {
       "primary_thai": "ทอดพระเนตรเห็น",
       "all_renderings": {
@@ -406,6 +1028,18 @@
           {
             "verse": "Mark 1:10",
             "rationale": "Royal verb for 'see' when divine subject."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "εἶπεν...ἵνα": {
+      "primary_thai": "รับสั่ง...ให้",
+      "all_renderings": {
+        "รับสั่ง...ให้": [
+          {
+            "verse": "Mark 3:9",
+            "rationale": "Indirect command: εἶπεν + ἵνα + pres. subj. = 'told them to...' Royal 'รับสั่ง' for Jesus' command to disciples. Thai 'ให้' introduces the indirect command."
           }
         ]
       },
@@ -430,6 +1064,42 @@
           {
             "verse": "Mark 1:11",
             "rationale": "Timeless/gnomic aorist expressing settled divine favor. ยิ่งนัก intensifies."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "εὐθύς": {
+      "primary_thai": "ทันที",
+      "all_renderings": {
+        "ทันที": [
+          {
+            "verse": "Mark 3:6",
+            "rationale": "Mark's signature 'immediately' — here underscoring the Pharisees' swift move from legal entrapment to lethal conspiracy. Consistent with prior chapters' rendering."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "εὐκοπώτερον": {
+      "primary_thai": "ง่ายกว่า",
+      "all_renderings": {
+        "ง่ายกว่า": [
+          {
+            "verse": "Mark 2:9",
+            "rationale": "Comparative 'easier.' The rhetorical answer: saying 'your sins are forgiven' is easier to SAY (unverifiable) but the two are equally weighty as divine prerogatives. Jesus proves his invisible authority by the visible healing. Thai 'ง่ายกว่า' preserves the rhetorical comparison."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ζητοῦσίν σε": {
+      "primary_thai": "กำลังตามหาท่านอยู่",
+      "all_renderings": {
+        "กำลังตามหาท่านอยู่": [
+          {
+            "verse": "Mark 3:32",
+            "rationale": "ζητέω = 'seek, look for.' Present indicative = ongoing action. Thai 'กำลัง...อยู่' (continuous aspect)."
           }
         ]
       },
@@ -495,6 +1165,18 @@
       },
       "occurrences_count": 1
     },
+    "κατακεῖσθαι": {
+      "primary_thai": "ทรงเอนกายรับประทานอาหาร",
+      "all_renderings": {
+        "ทรงเอนกายรับประทานอาหาร": [
+          {
+            "verse": "Mark 2:15",
+            "rationale": "κατακεῖμαι = recline (ancient dining posture on couches). Thai has no equivalent native practice; Thai 'เอนกาย' (recline body) + 'รับประทานอาหาร' (eat) conveys the image without forcing modernity. 'ทรง' royal for Jesus."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "καταρτίζοντας": {
       "primary_thai": "ซ่อม",
       "all_renderings": {
@@ -514,6 +1196,54 @@
           {
             "verse": "Mark 1:36",
             "rationale": "καταδιώκω hapax — 'pursue closely/hunt down.' Slightly negative connotation in classical Greek (chasing, pursuing). Here: Simon 'tracks down' Jesus, possibly with an undertone of impatience or presumption. BSB softens to 'went to look for'; preserving a hint of the pursuit sense."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "καὶ τοῦ σαββάτου": {
+      "primary_thai": "เหนือวันสะบาโตด้วย",
+      "all_renderings": {
+        "เหนือวันสะบาโตด้วย": [
+          {
+            "verse": "Mark 2:28",
+            "rationale": "καί here = 'also/even' — emphatic (lord even of the Sabbath, the most sacred institution). Thai 'ด้วย' (also/even) preserves the emphatic force."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "καὶ ἐποίησεν τοὺς δώδεκα": {
+      "primary_thai": "ทรงแต่งตั้งสาวกสิบสองคน ได้แก่",
+      "all_renderings": {
+        "ทรงแต่งตั้งสาวกสิบสองคน ได้แก่": [
+          {
+            "verse": "Mark 3:16",
+            "rationale": "Per uW: this repetition is resumptive, not a second appointment. Functions as 'Here are the Twelve whom he appointed:' — introduces the name-list. Thai 'ได้แก่' (namely/they are) signals the list-introducer."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "κράβαττον": {
+      "primary_thai": "แคร่",
+      "all_renderings": {
+        "แคร่": [
+          {
+            "verse": "Mark 2:4",
+            "rationale": "κράβαττος = poor man's mat/pallet, a portable bed. Latin loanword (grabatus) — colloquial, not classical. Thai 'แคร่' = simple bamboo/wood bed-platform, rural/humble connotation — perfect register match."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "κρατῆσαι αὐτόν": {
+      "primary_thai": "เอาตัวพระองค์กลับ",
+      "all_renderings": {
+        "เอาตัวพระองค์กลับ": [
+          {
+            "verse": "Mark 3:21",
+            "rationale": "κρατέω here = 'seize/take custody.' Per uW: they intend to compel him into their control. This is a strong verb — they believe Jesus needs restraint. Thai 'เอาตัว...กลับ' (take [his] person back = custody) captures the custodial force without demeaning royal register. The tension: the Greek sounds harsh, and the Thai must convey that the family is physically coming to get Jesus, not politely invite him home."
           }
         ]
       },
@@ -555,6 +1285,30 @@
       },
       "occurrences_count": 1
     },
+    "κύκλῳ καθημένους": {
+      "primary_thai": "นั่งล้อมรอบ",
+      "all_renderings": {
+        "นั่งล้อมรอบ": [
+          {
+            "verse": "Mark 3:34",
+            "rationale": "κύκλῳ dat. of manner 'in a circle.' Thai 'ล้อมรอบ' (surround-around) natural."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "κύριός ἐστιν": {
+      "primary_thai": "ทรงเป็นเจ้าเหนือ",
+      "all_renderings": {
+        "ทรงเป็นเจ้าเหนือ": [
+          {
+            "verse": "Mark 2:28",
+            "rationale": "κύριος = lord/master — here Jesus applies to the Son of Man (= himself) a title with divine overtones. Not rendering as 'องค์พระผู้เป็นเจ้า' (which is reserved for YHWH references per glossary) but as 'เจ้าเหนือ' (master over / lord over) — preserves the divine-prerogative claim without overloading the full divine-name phrase. 'ทรง' royal prefix fits the divine subject."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "κύψας": {
       "primary_thai": "ก้มลง",
       "all_renderings": {
@@ -562,6 +1316,18 @@
           {
             "verse": "Mark 1:7",
             "rationale": "κύπτω hapax here; means 'to bend/stoop down.' Clear meaning from classical Greek. Bending to untie another's sandal was the duty of a servant."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "λέγει": {
+      "primary_thai": "ตรัส",
+      "all_renderings": {
+        "ตรัส": [
+          {
+            "verse": "Mark 3:3",
+            "rationale": "Historic present — Mark's vivid narrative device. Royal speech verb 'ตรัส' for Jesus. uW notes v.3 as one of the chapter's historic-present moments."
           }
         ]
       },
@@ -579,6 +1345,24 @@
       },
       "occurrences_count": 1
     },
+    "λέγουσιν αὐτῷ": {
+      "primary_thai": "ทูลถาม",
+      "all_renderings": {
+        "ทูลถาม": [
+          {
+            "verse": "Mark 2:18",
+            "rationale": "Human inquirers addressing Jesus — use 'ทูลถาม' (respectful upward speech). Register is polite inquiry, not hostile."
+          }
+        ],
+        "ทูลพระองค์": [
+          {
+            "verse": "Mark 3:32",
+            "rationale": "Historic present (per uW v.32). Humans (crowd) addressing Jesus respectfully — royal 'ทูล' (speak to a royal/honored person)."
+          }
+        ]
+      },
+      "occurrences_count": 2
+    },
     "λεπρός": {
       "primary_thai": "คนโรคเรื้อน",
       "all_renderings": {
@@ -591,6 +1375,18 @@
       },
       "occurrences_count": 1
     },
+    "μάστιγας": {
+      "primary_thai": "โรคภัยต่างๆ",
+      "all_renderings": {
+        "โรคภัยต่างๆ": [
+          {
+            "verse": "Mark 3:10",
+            "rationale": "μάστιξ = literally 'whip/scourge,' idiomatically 'illness' (ancient view of disease as divine 'scourge'). Thai 'โรคภัย' (illness-affliction) is the standard biblical rendering; 'ต่างๆ' (various) preserves the 'as many as' collective sense. The violent-sounding Greek metaphor is softened in Thai to natural medical language (the metaphor's theological bite is preserved in context, not vocabulary)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "μαρτυρίαν καλὴν": {
       "primary_thai": "เป็นที่พูดถึงในทางดี",
       "all_renderings": {
@@ -598,6 +1394,18 @@
           {
             "verse": "1 Timothy 3:7",
             "rationale": "μαρτυρία = testimony, witness. Here figurative: the report/reputation people give about someone. เป็นที่พูดถึงในทางดี = 'is spoken of in a good way' — idiomatic Thai for a good reputation (rather than literal 'has good witness')."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "μετ' ὀργῆς": {
+      "primary_thai": "ด้วยพระพิโรธ",
+      "all_renderings": {
+        "ด้วยพระพิโรธ": [
+          {
+            "verse": "Mark 3:5",
+            "rationale": "ὀργή = anger/wrath. Royal 'พระพิโรธ' reserved for divine/royal anger. One of only a few NT verses explicitly ascribing anger to Jesus — this is theologically weighty and should not be softened."
           }
         ]
       },
@@ -651,6 +1459,18 @@
       },
       "occurrences_count": 1
     },
+    "μηκέτι χωρεῖν μηδὲ τὰ πρὸς τὴν θύραν": {
+      "primary_thai": "ไม่มีที่ว่าง แม้แต่บริเวณหน้าประตูก็ไม่มี",
+      "all_renderings": {
+        "ไม่มีที่ว่าง แม้แต่บริเวณหน้าประตูก็ไม่มี": [
+          {
+            "verse": "Mark 2:2",
+            "rationale": "χωρεῖν = 'to have room/space.' τὰ πρὸς τὴν θύραν = 'the [places] toward the door' (neuter plural article) — idiomatic for 'the area near the door.' Thai preserves the hyperbolic packed-house image."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "μισθωτῶν": {
       "primary_thai": "ลูกจ้าง",
       "all_renderings": {
@@ -687,6 +1507,18 @@
       },
       "occurrences_count": 1
     },
+    "μὴ δύνασθαι αὐτοὺς μηδὲ ἄρτον φαγεῖν": {
+      "primary_thai": "ไม่มีแม้แต่เวลากินอาหาร",
+      "all_renderings": {
+        "ไม่มีแม้แต่เวลากินอาหาร": [
+          {
+            "verse": "Mark 3:20",
+            "rationale": "Double negation μὴ...μηδέ = 'not even.' Per uW: ἄρτος 'bread' = synecdoche for food. 'Could not even eat' = 'did not even have time to eat.' Thai 'ไม่มีแม้แต่เวลากินอาหาร' (didn't even have time to eat) natural. The crowd's overwhelming demand motivates the family-concern in v.21."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "νεόφυτον": {
       "primary_thai": "ผู้ที่เพิ่งเชื่อใหม่",
       "all_renderings": {
@@ -694,6 +1526,18 @@
           {
             "verse": "1 Timothy 3:6",
             "rationale": "HAPAX LEGOMENON. Compound νέος (new) + φυτεύω (plant) — 'newly planted.' Classical/LXX usage refers to young plants (cf. Ps 127:3 LXX, Job 14:9). Paul's first known metaphorical application to converts. ผู้ที่เพิ่งเชื่อใหม่ = 'one who has just newly believed' — standard Thai for recent convert."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "νηστεύοντες / νηστεύουσιν": {
+      "primary_thai": "อดอาหาร",
+      "all_renderings": {
+        "อดอาหาร": [
+          {
+            "verse": "Mark 2:18",
+            "rationale": "νηστεύω = fast (religious abstinence from food). Thai standard 'อดอาหาร' (literally 'fast from food'). Avoided 'ถือศีลอด' (evocative of Muslim Ramadan in modern Thai ears)."
           }
         ]
       },
@@ -723,6 +1567,138 @@
       },
       "occurrences_count": 1
     },
+    "νυμφίος": {
+      "primary_thai": "เจ้าบ่าว",
+      "all_renderings": {
+        "เจ้าบ่าว": [
+          {
+            "verse": "Mark 2:19",
+            "rationale": "Standard Thai for 'bridegroom.' Jesus' self-identification with the messianic bridegroom figure (cf. Isa 62:5; Ps 45). This is Jesus' first implicit Christological image drawn from wedding/messianic-banquet tradition."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ξηράν": {
+      "primary_thai": "ลีบ",
+      "all_renderings": {
+        "ลีบ": [
+          {
+            "verse": "Mark 3:3",
+            "rationale": "Adjective cognate with the perfect participle in v.1. Same Thai rendering 'ลีบ' preserves lexical consistency."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "οἰκία": {
+      "primary_thai": "ครอบครัว",
+      "all_renderings": {
+        "ครอบครัว": [
+          {
+            "verse": "Mark 3:25",
+            "rationale": "Per uW metonymy: 'house' = 'the people who live in that house' = 'household/family.' Thai 'ครอบครัว' (family) captures this social-unit sense; 'บ้าน' (physical house) reserved for v.27 where the image is literal. Parallel with 'อาณาจักร' in v.24 — both are social units."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "οἱ γραμματεῖς τῶν Φαρισαίων": {
+      "primary_thai": "พวกธรรมาจารย์ฝ่ายฟาริสี",
+      "all_renderings": {
+        "พวกธรรมาจารย์ฝ่ายฟาริสี": [
+          {
+            "verse": "Mark 2:16",
+            "rationale": "Genitive construction: 'scribes of the Pharisees' = scribes who belonged to the Pharisaic faction (as opposed to Sadducean scribes). Thai 'ฝ่ายฟาริสี' = Pharisee-faction/party."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "οἱ δὲ ἐσιώπων": {
+      "primary_thai": "แต่พวกเขานิ่งเงียบ",
+      "all_renderings": {
+        "แต่พวกเขานิ่งเงียบ": [
+          {
+            "verse": "Mark 3:4",
+            "rationale": "σιωπάω 'be silent.' Imperfect = sustained silence (not a momentary pause). Thai 'นิ่งเงียบ' (stay-still-silent) captures the weighted refusal to answer."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "οἱ κακῶς ἔχοντες": {
+      "primary_thai": "คนเจ็บป่วย",
+      "all_renderings": {
+        "คนเจ็บป่วย": [
+          {
+            "verse": "Mark 2:17",
+            "rationale": "Idiom 'those having [it] badly' = 'the sick.' Thai 'คนเจ็บป่วย' (standard)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "οἱ παρ' αὐτοῦ": {
+      "primary_thai": "บรรดาญาติของพระองค์",
+      "all_renderings": {
+        "บรรดาญาติของพระองค์": [
+          {
+            "verse": "Mark 3:21",
+            "rationale": "Idiomatic 'the ones from beside him' = 'his people / his relatives.' Per uW option 1 (favored by v.31 context where mother and brothers arrive): = family. Thai 'บรรดาญาติ' (kin/relatives) covers mother + brothers. Ambiguous option 2 (friends from hometown) is possible but less likely."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "οἱ υἱοὶ τοῦ νυμφῶνος": {
+      "primary_thai": "เพื่อนเจ้าบ่าว",
+      "all_renderings": {
+        "เพื่อนเจ้าบ่าว": [
+          {
+            "verse": "Mark 2:19",
+            "rationale": "Semitic idiom 'sons of the bridal chamber' = groomsmen / wedding party. 'Sons of X' = people characterized by X. Thai 'เพื่อนเจ้าบ่าว' (groom's friends) conveys the cultural role directly without the Semitic idiom."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "οἱ ἀδελφοί μου": {
+      "primary_thai": "พี่น้องของเรา",
+      "all_renderings": {
+        "พี่น้องของเรา": [
+          {
+            "verse": "Mark 3:33",
+            "rationale": "Shifts from 'น้องชาย' (younger brother, literal) in v.31–32 to 'พี่น้อง' (sibling, generic) here. Reason: Jesus is opening the category — v.35 explicitly adds ἀδελφή 'sister,' so Jesus is not asking about literal younger brothers but about the broader kinship category. Thai 'พี่น้อง' (sibling) neutral for age and gender, matching the expanded sense Jesus is about to define."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "οἱ ἀδελφοὶ αὐτοῦ": {
+      "primary_thai": "บรรดาน้องชายของพระองค์",
+      "all_renderings": {
+        "บรรดาน้องชายของพระองค์": [
+          {
+            "verse": "Mark 3:31",
+            "rationale": "Per uW: Jesus' younger brothers (sons of Joseph and Mary, hence Jesus' half-brothers from a Catholic/Orthodox perspective or full brothers from a Protestant). Thai 'น้องชาย' (younger brother) explicit. 'บรรดา' plural classifier."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "οἱ ἰσχύοντες...ἰατροῦ": {
+      "primary_thai": "คนที่สุขสบายดี...หมอ",
+      "all_renderings": {
+        "คนที่สุขสบายดี...หมอ": [
+          {
+            "verse": "Mark 2:17",
+            "rationale": "Proverbial: 'the strong/healthy need no physician.' Thai 'สุขสบายดี' (well/comfortable) — natural, colloquial. 'หมอ' = doctor (colloquial, not medical-technical)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "οἴνῳ πολλῷ προσέχοντας": {
       "primary_thai": "ติดเหล้า",
       "all_renderings": {
@@ -735,6 +1711,102 @@
       },
       "occurrences_count": 1
     },
+    "οἶνον νέον": {
+      "primary_thai": "เหล้าองุ่นใหม่",
+      "all_renderings": {
+        "เหล้าองุ่นใหม่": [
+          {
+            "verse": "Mark 2:22",
+            "rationale": "νέος (not καινός) here emphasizes temporal newness — still-fermenting wine that produces gases. Thai 'เหล้าองุ่นใหม่' standard. (νέος vs. καινός: νέος = new in time; καινός = new in quality/kind; the pair is used both ways in these parables.)"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "οὐ δύναται σταθῆναι": {
+      "primary_thai": "ตั้งอยู่ไม่ได้",
+      "all_renderings": {
+        "ตั้งอยู่ไม่ได้": [
+          {
+            "verse": "Mark 3:24",
+            "rationale": "σταθῆναι aor. pass. inf. ἵστημι = 'stand, endure.' Per uW: metaphor = 'will not exist much longer.' Thai 'ตั้งอยู่' preserves the spatial metaphor; natural Thai idiom for continued existence."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "οὐ δύναται στῆναι, ἀλλὰ τέλος ἔχει": {
+      "primary_thai": "ยืนอยู่ไม่ได้ แต่ถึงจุดจบของมันแล้ว",
+      "all_renderings": {
+        "ยืนอยู่ไม่ได้ แต่ถึงจุดจบของมันแล้ว": [
+          {
+            "verse": "Mark 3:26",
+            "rationale": "Parallelism per uW: both clauses express the same idea (one negative, one positive). τέλος ἔχει = 'has [an] end' = 'his rule is over.' Thai 'จุดจบ' (endpoint) standard; 'ของมัน' (of it/him) makes the referent clear since Satan is personified but also generic. 'แต่' (but) preserves Greek ἀλλά's adversative force."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "οὐκ ἔχει ἄφεσιν εἰς τὸν αἰῶνα": {
+      "primary_thai": "จะไม่ได้รับการอภัยเลยตลอดกาล",
+      "all_renderings": {
+        "จะไม่ได้รับการอภัยเลยตลอดกาล": [
+          {
+            "verse": "Mark 3:29",
+            "rationale": "εἰς τὸν αἰῶνα = 'into the age / forever' (Hebraism). 'Never' per uW. Thai 'ตลอดกาล' (for all time / forever) standard."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "οὐκ ἦλθον καλέσαι": {
+      "primary_thai": "เราไม่ได้มาเพื่อเรียก",
+      "all_renderings": {
+        "เราไม่ได้มาเพื่อเรียก": [
+          {
+            "verse": "Mark 2:17",
+            "rationale": "'I did not come to call' — mission statement. The ἦλθον ('I came') has 'come from God'/incarnational undertone (cf. 1:38). Thai 'เราไม่ได้มาเพื่อ' preserves this sense."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "οὓς οὐκ ἔξεστιν φαγεῖν εἰ μὴ τοὺς ἱερεῖς": {
+      "primary_thai": "ซึ่งไม่อนุญาตให้ใครกิน นอกจากปุโรหิตเท่านั้น",
+      "all_renderings": {
+        "ซึ่งไม่อนุญาตให้ใครกิน นอกจากปุโรหิตเท่านั้น": [
+          {
+            "verse": "Mark 2:26",
+            "rationale": "Accusative of reference (τοὺς ἱερεῖς) in a 'not lawful...except' construction — standard Greek. Thai reorders naturally with 'นอกจาก...เท่านั้น' (except...only)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "οὓς ἤθελεν αὐτός": {
+      "primary_thai": "คนที่พระองค์ทรงประสงค์",
+      "all_renderings": {
+        "คนที่พระองค์ทรงประสงค์": [
+          {
+            "verse": "Mark 3:13",
+            "rationale": "Emphatic αὐτός 'he himself.' Sovereign choice. Thai 'ทรงประสงค์' (royal-desire/will) carries both royal register and volitional weight. This is not a mass conscription but a selective calling — stresses Jesus' sovereign agency."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "οὗτος": {
+      "primary_thai": "คนนี้",
+      "all_renderings": {
+        "คนนี้": [
+          {
+            "verse": "Mark 2:7",
+            "rationale": "Demonstrative as contempt-marker — 'this one.' Thai 'คนนี้' (dismissive third-person reference) captures the scribes' scorn. Consistent with avoiding พระองค์ in their direct speech about Jesus (register matches speaker's attitude, not narrator's reverence)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "πάροινον": {
       "primary_thai": "ติดสุรา",
       "all_renderings": {
@@ -742,6 +1814,18 @@
           {
             "verse": "1 Timothy 3:3",
             "rationale": "πάροινος = lit. 'beside wine' — given to wine, addicted. ติดสุรา = addicted to alcohol. Preserves the intensity (not just drinks, but is controlled by drink)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "πέραν τοῦ Ἰορδάνου": {
+      "primary_thai": "อีกฟากของแม่น้ำจอร์แดน",
+      "all_renderings": {
+        "อีกฟากของแม่น้ำจอร์แดน": [
+          {
+            "verse": "Mark 3:8",
+            "rationale": "πέραν = 'across/beyond.' From Jerusalem's perspective = east side (per uW). Thai 'อีกฟาก' (the other side) preserves the Greek's directionally-relative idiom. Could be expanded to 'ฝั่งตะวันออก' (east bank) for explicit clarity, but 'อีกฟาก' matches standard Thai biblical usage and allows the geographic orientation to remain as Mark phrased it."
           }
         ]
       },
@@ -771,6 +1855,30 @@
       },
       "occurrences_count": 1
     },
+    "παραλυτικόν": {
+      "primary_thai": "ชายเป็นอัมพาต",
+      "all_renderings": {
+        "ชายเป็นอัมพาต": [
+          {
+            "verse": "Mark 2:3",
+            "rationale": "παραλυτικός = paralyzed person (not necessarily a specific medical category). Standard Thai biblical 'คนเป็นอัมพาต'; here 'ชายเป็นอัมพาต' specifies masculine."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "παρετήρουν": {
+      "primary_thai": "คอยจับตาดู",
+      "all_renderings": {
+        "คอยจับตาดู": [
+          {
+            "verse": "Mark 3:2",
+            "rationale": "παρατηρέω = 'watch alongside / watch closely with hostile intent' (cf. Luke 6:7, 14:1 similar surveillance contexts). Imperfect = ongoing, sustained observation. Thai 'คอยจับตาดู' (keep-an-eye watching) captures the hostile vigilance."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "πειραζόμενος": {
       "primary_thai": "ถูก...ทดลอง",
       "all_renderings": {
@@ -782,6 +1890,24 @@
         ]
       },
       "occurrences_count": 1
+    },
+    "περιβλεψάμενος": {
+      "primary_thai": "ทอดพระเนตรกวาดไปรอบๆ",
+      "all_renderings": {
+        "ทอดพระเนตรกวาดไปรอบๆ": [
+          {
+            "verse": "Mark 3:5",
+            "rationale": "περιβλέπω = 'look around, survey.' Middle voice for the subject's own perspective. Royal 'ทอดพระเนตร' per glossary, with 'กวาดไปรอบๆ' (sweep around) preserving the 360° gaze. Same verb recurs in v.34 — there an affectionate gaze at disciples; here an angry gaze at opponents. The Markan narrator uses the verb as a marker of Jesus' authoritative visual assessment."
+          }
+        ],
+        "ทอดพระเนตรดู...รอบ": [
+          {
+            "verse": "Mark 3:34",
+            "rationale": "Same verb as v.5, different tone: v.5 was angry gaze at opponents; here, affectionate gaze at disciples. Same Thai rendering 'ทอดพระเนตรดู' (royal look-upon) with '...รอบ' for the surveying motion. Consistency of the verb's rendering lets Thai readers sense the verbal parallel across the chapter."
+          }
+        ]
+      },
+      "occurrences_count": 2
     },
     "περιποιοῦνται": {
       "primary_thai": "จะได้...สำหรับตนเอง",
@@ -819,6 +1945,42 @@
       },
       "occurrences_count": 1
     },
+    "πλοιάριον": {
+      "primary_thai": "เรือลำเล็ก",
+      "all_renderings": {
+        "เรือลำเล็ก": [
+          {
+            "verse": "Mark 3:9",
+            "rationale": "Diminutive of πλοῖον 'boat' = small boat, skiff. Thai 'เรือลำเล็ก' (small-boat) explicit — preserving the diminutive. The smallness signals escape-vehicle rather than working fishing boat."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "πλῆθος πολύ ... ἦλθον": {
+      "primary_thai": "ฝูงชนจำนวนมาก...ก็พากันมา",
+      "all_renderings": {
+        "ฝูงชนจำนวนมาก...ก็พากันมา": [
+          {
+            "verse": "Mark 3:8",
+            "rationale": "The Greek is awkward: 'a great multitude ... they came' (singular noun + plural verb). Per uW note, this could signal two groups (Galileans who followed v.7; others who came v.8). Thai reads naturally as one continuous stream; we render without forcing the two-group distinction, matching BSB's collapsed translation."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "πνεύματα ἀκάθαρτα": {
+      "primary_thai": "วิญญาณโสโครก",
+      "all_renderings": {
+        "วิญญาณโสโครก": [
+          {
+            "verse": "Mark 3:11",
+            "rationale": "Per glossary (Mark 1:23, 1:26, 1:27). Consistent rendering."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "πνεύματι ἀκαθάρτῳ": {
       "primary_thai": "วิญญาณโสโครก",
       "all_renderings": {
@@ -843,6 +2005,30 @@
       },
       "occurrences_count": 1
     },
+    "πνεῦμα τὸ ἅγιον": {
+      "primary_thai": "พระวิญญาณบริสุทธิ์",
+      "all_renderings": {
+        "พระวิญญาณบริสุทธิ์": [
+          {
+            "verse": "Mark 3:29",
+            "rationale": "Per glossary (Mark 1:8, 1:10, 1:12)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "πολλά": {
+      "primary_thai": "อย่างเข้มงวด",
+      "all_renderings": {
+        "อย่างเข้มงวด": [
+          {
+            "verse": "Mark 3:12",
+            "rationale": "Adverbial accusative 'much/strongly' modifying ἐπετίμα. Not 'many times' but 'sternly/emphatically.' Thai 'อย่างเข้มงวด' (strictly) captures intensity."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "πολλὴν παρρησίαν": {
       "primary_thai": "ความกล้าหาญอย่างยิ่ง",
       "all_renderings": {
@@ -850,6 +2036,54 @@
           {
             "verse": "1 Timothy 3:13",
             "rationale": "παρρησία = frankness, boldness, confidence (originally 'speaking all' — candor in speech). In Christian usage: confident access/standing before God or freedom of expression in witness. ความกล้าหาญอย่างยิ่ง = great boldness — preserves the courage dimension."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "προσέπιπτον": {
+      "primary_thai": "ทรุดตัวลงต่อเบื้องพระพักตร์",
+      "all_renderings": {
+        "ทรุดตัวลงต่อเบื้องพระพักตร์": [
+          {
+            "verse": "Mark 3:11",
+            "rationale": "προσπίπτω = 'fall down before.' Per uW: prostration posture (face-near-ground). In Mark's culture = reverence/worship posture. Thai 'ทรุดตัวลง' (sink down) + 'ต่อเบื้องพระพักตร์' (before the royal-face/presence) — royal register preserves reverence. The irony: demons forced into worship posture by Jesus' mere presence, while unwilling."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "προσκαλεσάμενος": {
+      "primary_thai": "ทรงเรียก...เข้ามา",
+      "all_renderings": {
+        "ทรงเรียก...เข้ามา": [
+          {
+            "verse": "Mark 3:23",
+            "rationale": "Same verb as v.13 (calling the Twelve). Here Jesus calls the scribes + crowd for formal teaching. Middle voice preserved."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "προσκαλεῖται": {
+      "primary_thai": "ทรงเรียก...มาหาพระองค์",
+      "all_renderings": {
+        "ทรงเรียก...มาหาพระองค์": [
+          {
+            "verse": "Mark 3:13",
+            "rationale": "προσκαλέω middle = 'call to oneself.' Middle voice emphasizes the subject's interest/purpose. Royal 'ทรงเรียก' + '...มาหาพระองค์' (call to come to him)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "προσκαρτερῇ": {
+      "primary_thai": "เตรียม...คอย...อยู่เสมอ",
+      "all_renderings": {
+        "เตรียม...คอย...อยู่เสมอ": [
+          {
+            "verse": "Mark 3:9",
+            "rationale": "προσκαρτερέω = 'persist, remain steadfastly alongside' — stand by / be continually ready. Present subjunctive = ongoing state. Thai 'เตรียม...คอย...อยู่เสมอ' (have prepared...wait...always) captures the continuous readiness."
           }
         ]
       },
@@ -886,6 +2120,18 @@
           {
             "verse": "Mark 1:2",
             "rationale": "Hebraism לפני (before your face). Thai ล่วงหน้า captures the idea of going ahead."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "πωρώσει τῆς καρδίας αὐτῶν": {
+      "primary_thai": "ใจที่แข็งกระด้าง",
+      "all_renderings": {
+        "ใจที่แข็งกระด้าง": [
+          {
+            "verse": "Mark 3:5",
+            "rationale": "πώρωσις = hardening, petrification (medical term for callus formation). Metaphor for moral stubbornness per uW. Thai 'ใจแข็งกระด้าง' (hard-unyielding heart) is standard biblical Thai idiom. Singular καρδία in Greek — corporate 'their one [hard] heart'; Thai neutralizes to natural reading."
           }
         ]
       },
@@ -939,6 +2185,30 @@
       },
       "occurrences_count": 1
     },
+    "σου / σε": {
+      "primary_thai": "ของท่าน / ท่าน",
+      "all_renderings": {
+        "ของท่าน / ท่าน": [
+          {
+            "verse": "Mark 3:32",
+            "rationale": "Crowd reporting to Jesus — respectful but not honorific (the message is routine/neutral, not reverent address). Thai 'ท่าน' (respectful 2nd-person). Consistent with Mark 2:18 (inquirers to Jesus)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "σοὶ μαθηταὶ": {
+      "primary_thai": "สาวกของท่าน",
+      "all_renderings": {
+        "สาวกของท่าน": [
+          {
+            "verse": "Mark 2:18",
+            "rationale": "Inquirers use 'ท่าน' (respectful second-person) — neutral politeness, consistent with the non-hostile tone of the question."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "σπαράξαν": {
       "primary_thai": "ทำให้ชัก",
       "all_renderings": {
@@ -946,6 +2216,30 @@
           {
             "verse": "Mark 1:26",
             "rationale": "σπαράσσω = convulse/tear — violent shaking. Thai 'ชัก' = have convulsions."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "σπορίμων": {
+      "primary_thai": "ท้องทุ่งนา",
+      "all_renderings": {
+        "ท้องทุ่งนา": [
+          {
+            "verse": "Mark 2:23",
+            "rationale": "σπόριμα = sown fields (grainfields). Thai 'ท้องทุ่งนา' (broad grain-field landscape). In Thailand nearly all grain = rice; here in Galilee = wheat/barley. Neutral 'ท้องทุ่งนา' works."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "στάχυας": {
+      "primary_thai": "รวงข้าว",
+      "all_renderings": {
+        "รวงข้าว": [
+          {
+            "verse": "Mark 2:23",
+            "rationale": "στάχυς = head/ear of grain. Thai 'รวงข้าว' = grain-ear/head."
           }
         ]
       },
@@ -963,6 +2257,54 @@
       },
       "occurrences_count": 1
     },
+    "συλλυπούμενος": {
+      "primary_thai": "ทรงโทมนัส",
+      "all_renderings": {
+        "ทรงโทมนัส": [
+          {
+            "verse": "Mark 3:5",
+            "rationale": "HAPAX LEGOMENON. Compound σύν + λυπέομαι. Two possibilities: (1) intensive συν- = 'deeply grieved' (majority reading, BSB); (2) συν- 'together with' = 'grieved along with them (in their condition).' Context (paired with ὀργή) favors reading 1 — Jesus is grieved AT their hardness, not grieved WITH them. Thai 'ทรงโทมนัส' (royal verb of inner grief/distress) captures the divine sorrow. Paired with 'พระพิโรธ' the two emotions coexist: righteous anger at evil + sorrow for hardened hearts."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "συμβούλιον ἐδίδουν": {
+      "primary_thai": "ปรึกษาหารือกัน",
+      "all_renderings": {
+        "ปรึกษาหารือกัน": [
+          {
+            "verse": "Mark 3:6",
+            "rationale": "Periphrasis 'they were giving counsel.' SBLGNT reads ἐδίδουν ('were giving'); other mss ἐποίουν ('were making'). Either way = 'held a council.' Imperfect = deliberative process, not a single act. Thai 'ปรึกษาหารือกัน' (take counsel together / deliberate together) natural."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "συνέρχεται πάλιν": {
+      "primary_thai": "กลับมาชุมนุมกันอีก",
+      "all_renderings": {
+        "กลับมาชุมนุมกันอีก": [
+          {
+            "verse": "Mark 3:20",
+            "rationale": "συνέρχομαι 'come together.' πάλιν 'again' echoes the Capernaum crowd-motif of 2:2. Thai 'กลับมาชุมนุมกัน' (come-back gathered)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "συνήχθησαν": {
+      "primary_thai": "มาชุมนุมกัน",
+      "all_renderings": {
+        "มาชุมนุมกัน": [
+          {
+            "verse": "Mark 2:2",
+            "rationale": "Aorist passive with deponent sense = 'gathered together.' Thai active 'came gathering together' is natural."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "συναγωγήν": {
       "primary_thai": "ธรรมศาลา",
       "all_renderings": {
@@ -970,6 +2312,18 @@
           {
             "verse": "Mark 1:21",
             "rationale": "Standard Thai Christian rendering of synagogue. Literally 'hall of dharma/teaching.'"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "συνανέκειντο": {
+      "primary_thai": "ร่วมโต๊ะกับ",
+      "all_renderings": {
+        "ร่วมโต๊ะกับ": [
+          {
+            "verse": "Mark 2:15",
+            "rationale": "Imperfect of συνανάκειμαι = recline together / dine together. Thai 'ร่วมโต๊ะกับ' (share a table) is natural."
           }
         ]
       },
@@ -1023,6 +2377,54 @@
       },
       "occurrences_count": 1
     },
+    "τελῶναι": {
+      "primary_thai": "คนเก็บภาษี",
+      "all_renderings": {
+        "คนเก็บภาษี": [
+          {
+            "verse": "Mark 2:15",
+            "rationale": "τελώνης = tax collector (contracted to collect for Rome; socially despised, ritually compromised). Standard Thai 'คนเก็บภาษี.'"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "τοὺς ἄρτους τῆς προθέσεως": {
+      "primary_thai": "ขนมปังหน้าพระพักตร์",
+      "all_renderings": {
+        "ขนมปังหน้าพระพักตร์": [
+          {
+            "verse": "Mark 2:26",
+            "rationale": "'Loaves of the presentation' = showbread, twelve loaves placed before God in the Holy Place, renewed weekly, eaten only by priests (Lev 24:5-9). Thai standard 'ขนมปังหน้าพระพักตร์' ('bread before [God's] face')."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "τοῖς σάββασιν": {
+      "primary_thai": "ในวันสะบาโต",
+      "all_renderings": {
+        "ในวันสะบาโต": [
+          {
+            "verse": "Mark 3:2",
+            "rationale": "Plural σάββατα idiomatically = a single Sabbath (consistent with Mark 2:23). Thai 'วันสะบาโต' (Sabbath day)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "τοῖς υἱοῖς τῶν ἀνθρώπων": {
+      "primary_thai": "บุตรของมนุษย์",
+      "all_renderings": {
+        "บุตรของมนุษย์": [
+          {
+            "verse": "Mark 3:28",
+            "rationale": "Semitic idiom 'sons of men' = humanity (per uW). Thai 'บุตรของมนุษย์' (sons of humanity) LITERAL form preserved — IMPORTANT: distinct from 'บุตรมนุษย์' (no 'ของ'), the Christological title for Jesus (cf. 2:10, 2:28). The preposition-inclusive 'ของ' (of) marks the generic plural; without 'ของ' the form is a specific title. Disambiguates for Thai readers."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "τοῦ διαβόλου": {
       "primary_thai": "มาร",
       "all_renderings": {
@@ -1059,6 +2461,66 @@
       },
       "occurrences_count": 1
     },
+    "τὰ σκεύη": {
+      "primary_thai": "ทรัพย์สิน",
+      "all_renderings": {
+        "ทรัพย์สิน": [
+          {
+            "verse": "Mark 3:27",
+            "rationale": "σκεῦος = vessel/utensil; plural σκεύη = 'goods, possessions.' Thai 'ทรัพย์สิน' (possessions/property) natural."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "τὰ ἁμαρτήματα καὶ αἱ βλασφημίαι": {
+      "primary_thai": "ทั้งบาปและคำหมิ่นประมาท",
+      "all_renderings": {
+        "ทั้งบาปและคำหมิ่นประมาท": [
+          {
+            "verse": "Mark 3:28",
+            "rationale": "ἁμάρτημα = 'sin' (concrete act of sin; cf. ἁμαρτία more general). Thai 'บาป' (per glossary). βλασφημία = blasphemy (noun form of βλασφημέω). Thai 'คำหมิ่นประมาท' (word-of-insult) — consistent with Mark 2:7 verb rendering 'หมิ่นประมาท.'"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "τὴν θάλασσαν": {
+      "primary_thai": "ทะเลกาลิลี",
+      "all_renderings": {
+        "ทะเลกาลิลี": [
+          {
+            "verse": "Mark 3:7",
+            "rationale": "'The sea' = Sea of Galilee (per Markan narrative context, also 1:16 precedent). Technically a freshwater lake ~21km long, but ancient and biblical usage calls it 'sea.' Thai biblical standard 'ทะเลกาลิลี' (Galilee-sea) — making the referent explicit. Consistent with Mark 1:16 'ทะเลกาลิลี.'"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "τὴν οἰκίαν τοῦ ἰσχυροῦ": {
+      "primary_thai": "บ้านของคนแข็งแรง",
+      "all_renderings": {
+        "บ้านของคนแข็งแรง": [
+          {
+            "verse": "Mark 3:27",
+            "rationale": "Here οἰκία is literal 'house' (not 'household' as in v.25). Thai 'บ้าน' (physical house). ἰσχυρός = strong (person). Thai 'คนแข็งแรง' (strong person). Per uW chapter intro: allegorically Satan = strong man, Jesus = the one who binds him, demons = the 'goods' plundered. Don't explicate in translation; preserve the parable's surface."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "τὴν πίστιν αὐτῶν": {
+      "primary_thai": "ความเชื่อของพวกเขา",
+      "all_renderings": {
+        "ความเชื่อของพวกเขา": [
+          {
+            "verse": "Mark 2:5",
+            "rationale": "Plural 'their faith' — includes the four bearers AND the paralytic (all participated in the roof-digging act). Thai 'พวกเขา' (collective) preserves the ambiguity."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "τὸ εὐαγγέλιον τοῦ θεοῦ": {
       "primary_thai": "ข่าวประเสริฐของพระเจ้า",
       "all_renderings": {
@@ -1066,6 +2528,18 @@
           {
             "verse": "Mark 1:14",
             "rationale": "Genitive could be subjective (gospel from God) or objective (gospel about God) or possessive (God's gospel). Most translations keep it ambiguous as 'of God'; Thai ของ preserves ambiguity."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "τὸ θέλημα τοῦ θεοῦ": {
+      "primary_thai": "น้ำพระทัยของพระเจ้า",
+      "all_renderings": {
+        "น้ำพระทัยของพระเจ้า": [
+          {
+            "verse": "Mark 3:35",
+            "rationale": "θέλημα = will, desire. Thai biblical standard 'น้ำพระทัย' (royal mind/heart = will). 'ทำตาม' (do-according-to) = obey/carry out."
           }
         ]
       },
@@ -1083,6 +2557,18 @@
       },
       "occurrences_count": 1
     },
+    "τὸ τελώνιον": {
+      "primary_thai": "ด่านภาษี",
+      "all_renderings": {
+        "ด่านภาษี": [
+          {
+            "verse": "Mark 2:14",
+            "rationale": "τελώνιον = tax/toll booth (the office, not the person). Capernaum sat on the trade route from Damascus to the Mediterranean. Thai 'ด่านภาษี' = customs/tax station — precisely the right image."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "τὸ τῆς εὐσεβείας μυστήριον": {
       "primary_thai": "ข้อล้ำลึกแห่งทางของพระเจ้า",
       "all_renderings": {
@@ -1090,6 +2576,54 @@
           {
             "verse": "1 Timothy 3:16",
             "rationale": "εὐσέβεια = godliness, piety; in the Pastorals a near-summary term for authentic Christian life-and-faith. Not merely 'reverence' but the whole embodied Christian practice. ทางของพระเจ้า = 'the way of God' — idiomatic Thai Christian rendering that captures both the devotional and practical dimensions. Genitive of description: 'the mystery that godliness is / the mystery constituting the Christian life.' ข้อล้ำลึก consistent with v.9."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "τὸ ὄρος": {
+      "primary_thai": "ภูเขา",
+      "all_renderings": {
+        "ภูเขา": [
+          {
+            "verse": "Mark 3:13",
+            "rationale": "Per uW: Mark doesn't specify which mountain — use generic term. Thai 'ภูเขา' (mountain/hill) covers both 'high mountain' and 'small hill.'"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "τὸν Καναναῖον": {
+      "primary_thai": "ชาวคานาอัน",
+      "all_renderings": {
+        "ชาวคานาอัน": [
+          {
+            "verse": "Mark 3:18",
+            "rationale": "Καναναῖος — transliterated Aramaic qanʾana (zealot). Mark preserves the Aramaic form (unlike Luke 6:15's Greek ζηλωτής). Translation decision: transliterate 'ชาวคานาอัน' (the Cananaean) rather than translate as 'ผู้คลั่งศาสนา' (the Zealot). Rationale: (1) Mark deliberately kept the Aramaic — losing this flavor in Thai would erase Markan style; (2) BSB translates but our project's optimal-equivalence principle preserves the author's distinctive choice. Note: this is NOT 'Canaanite' (ethnic); it is 'Zealot' (political faction, supporters of Jewish independence from Rome). Must be flagged in notes to prevent misreading."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "τὸν λόγον": {
+      "primary_thai": "พระวจนะ",
+      "all_renderings": {
+        "พระวจนะ": [
+          {
+            "verse": "Mark 2:2",
+            "rationale": "Mark's shorthand for Jesus' proclamation of the gospel. Thai 'พระวจนะ' (the sacred Word) captures the weight without being as specific as 'ข่าวประเสริฐ' (euangelion). Cf. 1:45 'τὸν λόγον' also used generically."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "τὸν οἶκον τοῦ θεοῦ": {
+      "primary_thai": "พระนิเวศของพระเจ้า",
+      "all_renderings": {
+        "พระนิเวศของพระเจ้า": [
+          {
+            "verse": "Mark 2:26",
+            "rationale": "'House of God' = tabernacle/sanctuary at Nob (1 Sam 21). Thai 'พระนิเวศของพระเจ้า' (God's dwelling place) — standard biblical Thai."
           }
         ]
       },
@@ -1131,6 +2665,66 @@
       },
       "occurrences_count": 1
     },
+    "χαλῶσι": {
+      "primary_thai": "หย่อน...ลงมา",
+      "all_renderings": {
+        "หย่อน...ลงมา": [
+          {
+            "verse": "Mark 2:4",
+            "rationale": "χαλάω = lower by rope (nautical/technical term). Thai 'หย่อน...ลงมา' = lower down (gently)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "χεῖρον σχίσμα": {
+      "primary_thai": "รอยขาดก็จะยิ่งแย่ลง",
+      "all_renderings": {
+        "รอยขาดก็จะยิ่งแย่ลง": [
+          {
+            "verse": "Mark 2:21",
+            "rationale": "χεῖρον (comp. of κακός) + σχίσμα = 'worse tear.' Thai 'รอยขาดยิ่งแย่ลง' (the tear gets even worse)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ψυχὴν σῶσαι ἢ ἀποκτεῖναι": {
+      "primary_thai": "การช่วยชีวิตหรือการฆ่า",
+      "all_renderings": {
+        "การช่วยชีวิตหรือการฆ่า": [
+          {
+            "verse": "Mark 3:4",
+            "rationale": "ψυχή here = 'life' (standard Greek usage, not 'soul' in the platonic sense). σῶσαι (aor. inf.) 'to save'; ἀποκτεῖναι 'to kill.' Per uW: 'save a life' = 'prevent from dying.' Thai 'การช่วยชีวิต' natural; 'การฆ่า' (killing) keeps the extreme-parallel. Jesus' rhetorical loading: the Pharisees by NOT healing are on the 'do harm / kill' side by inaction."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἀγαθοποιῆσαι ἢ κακοποιῆσαι": {
+      "primary_thai": "การทำดีหรือการทำชั่ว",
+      "all_renderings": {
+        "การทำดีหรือการทำชั่ว": [
+          {
+            "verse": "Mark 3:4",
+            "rationale": "Aorist infinitives — 'to do good / to do evil.' Stark moral antithesis. Thai nominalized infinitive 'การ+verb' preserves the abstract/infinitival feel."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἀδελφός μου καὶ ἀδελφὴ καὶ μήτηρ": {
+      "primary_thai": "พี่น้องชาย พี่น้องหญิง และมารดา",
+      "all_renderings": {
+        "พี่น้องชาย พี่น้องหญิง และมารดา": [
+          {
+            "verse": "Mark 3:35",
+            "rationale": "Three-way relation: brother + sister + mother (notably omitting 'father' — likely because God the Father is the only Father in this redefined family; cf. Matt 23:9). Thai compound forms: 'พี่น้องชาย' (sibling-male) + 'พี่น้องหญิง' (sibling-female) preserve the gender-inclusive explicitness of Greek ἀδελφή's presence. Age-neutral 'พี่น้อง' prefix rather than 'น้อง' (younger) because Jesus' kinship-declaration is about relationship-category, not age-dynamic."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἀκοή": {
       "primary_thai": "กิตติศัพท์",
       "all_renderings": {
@@ -1143,6 +2737,30 @@
       },
       "occurrences_count": 1
     },
+    "ἀκούοντες ὅσα ἐποίει": {
+      "primary_thai": "ได้ยินถึงสิ่งที่พระองค์ทรงกระทำ",
+      "all_renderings": {
+        "ได้ยินถึงสิ่งที่พระองค์ทรงกระทำ": [
+          {
+            "verse": "Mark 3:8",
+            "rationale": "Imperfect ἐποίει = 'was doing' (ongoing miracle-working). Per uW: ὅσα ἐποίει = 'the great/amazing things he was doing' — not neutral. Thai 'สิ่งที่ทรงกระทำ' royal rendering."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἀλλ'": {
+      "primary_thai": "แต่",
+      "all_renderings": {
+        "แต่": [
+          {
+            "verse": "Mark 3:27",
+            "rationale": "Per uW: introduces what is true in contrast to the hypotheticals of vv.24–26. The parable shifts from 'what would happen if Satan were divided' to 'here's what is actually happening — Jesus binding the strong man.' Thai 'แต่' preserves adversative."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἀλλαχοῦ": {
       "primary_thai": "ที่อื่น",
       "all_renderings": {
@@ -1150,6 +2768,18 @@
           {
             "verse": "Mark 1:38",
             "rationale": "ἀλλαχοῦ hapax — adverb 'elsewhere.' Simple meaning, secure."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἀλλὰ οἶνον νέον εἰς ἀσκοὺς καινούς": {
+      "primary_thai": "แต่เหล้าองุ่นใหม่ต้องเทในถุงหนังใหม่",
+      "all_renderings": {
+        "แต่เหล้าองุ่นใหม่ต้องเทในถุงหนังใหม่": [
+          {
+            "verse": "Mark 2:22",
+            "rationale": "Elliptical Greek 'but new wine into new wineskins [one puts].' Thai supplies the verb 'ต้องเท' (must be poured) for natural syntax."
           }
         ]
       },
@@ -1179,6 +2809,30 @@
       },
       "occurrences_count": 1
     },
+    "ἀνέστη ἐφ' ἑαυτόν": {
+      "primary_thai": "ลุกขึ้นต่อสู้ตนเอง",
+      "all_renderings": {
+        "ลุกขึ้นต่อสู้ตนเอง": [
+          {
+            "verse": "Mark 3:26",
+            "rationale": "ἀνίστημι = 'rise up, stand up.' Here metaphorical 'rebel against.' Thai 'ลุกขึ้นต่อสู้ตนเอง' (rise-up fight-against-self) — 'ต่อสู้' makes the adversarial sense explicit."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἀναβαίνει": {
+      "primary_thai": "เสด็จขึ้นไป",
+      "all_renderings": {
+        "เสด็จขึ้นไป": [
+          {
+            "verse": "Mark 3:13",
+            "rationale": "ἀναβαίνω 'go up, ascend.' Royal 'เสด็จ' + 'ขึ้นไป' for directional ascent. Historic present (per uW v.13). The mountain-ascent motif echoes Moses (Exod 24, 34) — Jesus ascends to appoint covenant leadership."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἀναστρέφεσθαι": {
       "primary_thai": "ประพฤติตน",
       "all_renderings": {
@@ -1186,6 +2840,18 @@
           {
             "verse": "1 Timothy 3:15",
             "rationale": "ἀναστρέφω (mid.) = conduct oneself, live, behave. ประพฤติตน = conduct oneself — standard Thai for behavioral comportment."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἀναστὰς ἠκολούθησεν": {
+      "primary_thai": "ลุกขึ้นและตามพระองค์ไป",
+      "all_renderings": {
+        "ลุกขึ้นและตามพระองค์ไป": [
+          {
+            "verse": "Mark 2:14",
+            "rationale": "Aorist participle + aorist main verb = 'having risen, he followed.' Immediate, decisive response. Thai mirrors the two actions."
           }
         ]
       },
@@ -1215,6 +2881,78 @@
       },
       "occurrences_count": 1
     },
+    "ἀνεχώρησεν": {
+      "primary_thai": "เสด็จออกไป",
+      "all_renderings": {
+        "เสด็จออกไป": [
+          {
+            "verse": "Mark 3:7",
+            "rationale": "ἀναχωρέω = 'withdraw, retreat' (often strategic retreat from danger). In immediate context following 3:6's murder plot, this is a strategic withdrawal. Royal 'เสด็จ' + 'ออกไป' (depart-out). Thai does not explicitly mark the 'withdrawal' nuance beyond contextual reading — the flight from danger is understood by proximity to v.6."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἀπέστειλαν πρὸς αὐτόν καλοῦντες αὐτόν": {
+      "primary_thai": "ส่งคนเข้าไปเรียกพระองค์",
+      "all_renderings": {
+        "ส่งคนเข้าไปเรียกพระองค์": [
+          {
+            "verse": "Mark 3:31",
+            "rationale": "'Sent to him, calling him.' Per uW: they sent a messenger/someone through the crowd to tell Jesus to come out. Thai 'ส่งคนเข้าไปเรียก' (sent person in to summon) natural."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἀπαρθῇ": {
+      "primary_thai": "ถูกพรากไป",
+      "all_renderings": {
+        "ถูกพรากไป": [
+          {
+            "verse": "Mark 2:20",
+            "rationale": "ἀπαίρω passive = 'be taken away.' Passive with implicit divine agent — hints at violent removal. Thai 'ถูกพราก' (be torn/taken away) is strong, preserving the passion-hint."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἀπεκατεστάθη": {
+      "primary_thai": "กลับเป็นปกติ",
+      "all_renderings": {
+        "กลับเป็นปกติ": [
+          {
+            "verse": "Mark 3:5",
+            "rationale": "ἀποκαθίστημι = 'restore to a former/proper state.' Aorist passive with divine agent implicit per uW. Thai 'กลับเป็นปกติ' (returned to normal) natural; preserves the passive by not naming Jesus overtly. The verb ἀποκαθίστημι is also used eschatologically (Mal 4:6 LXX; Acts 1:6) — restoration is a Messianic theme."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἀπεστέγασαν τὴν στέγην": {
+      "primary_thai": "รื้อหลังคา",
+      "all_renderings": {
+        "รื้อหลังคา": [
+          {
+            "verse": "Mark 2:4",
+            "rationale": "HAPAX LEGOMENON. Compound ἀπο- (off/away) + στεγ- (roof) + -άζω (verbal suffix) — 'remove the roof.' Cognate accusative with τὴν στέγην ('the roof'). Meaning is transparent from morphology. Thai 'รื้อหลังคา' = dismantle/remove the roof. Palestinian first-century village houses had flat roofs of beams + branches + packed clay, accessible by external stairs — the visual is concrete."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἀποκριθεὶς...λέγει": {
+      "primary_thai": "ตรัสตอบ",
+      "all_renderings": {
+        "ตรัสตอบ": [
+          {
+            "verse": "Mark 3:33",
+            "rationale": "Historic present (per uW v.33). Royal speech."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἀπὸ τῶν ἔξωθεν": {
       "primary_thai": "จากคนภายนอก",
       "all_renderings": {
@@ -1227,6 +2965,42 @@
       },
       "occurrences_count": 1
     },
+    "ἀπὸ Ἱεροσολύμων καταβάντες": {
+      "primary_thai": "ที่ลงมาจากกรุงเยรูซาเล็ม",
+      "all_renderings": {
+        "ที่ลงมาจากกรุงเยรูซาเล็ม": [
+          {
+            "verse": "Mark 3:22",
+            "rationale": "καταβαίνω 'go down' — topographical from Jerusalem (elevated) to Galilee (lower altitude). Per uW: distinguishes these scribes from local/Galilean ones — these are the official Jerusalem representatives investigating Jesus. Thai 'ลงมาจาก' preserves the topography."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἀπῆλθον πρὸς αὐτόν": {
+      "primary_thai": "พวกเขาก็มาหาพระองค์",
+      "all_renderings": {
+        "พวกเขาก็มาหาพระองค์": [
+          {
+            "verse": "Mark 3:13",
+            "rationale": "ἀπῆλθον literally 'went away' (from their former place) toward him. In direction = 'came to.' Thai 'มาหา' (come to) is natural — the Greek's 'away-from-prior-place' is recoverable from context."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἀσκούς": {
+      "primary_thai": "ถุงหนัง",
+      "all_renderings": {
+        "ถุงหนัง": [
+          {
+            "verse": "Mark 2:22",
+            "rationale": "ἀσκός = leather bag (wineskin). Old ones have already stretched; new wine's fermentation bursts them. Thai 'ถุงหนัง' = leather bag."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἀφέντες": {
       "primary_thai": "ละทิ้ง",
       "all_renderings": {
@@ -1234,6 +3008,42 @@
           {
             "verse": "Mark 1:18",
             "rationale": "Aorist participle of action prior to main verb — first they leave, then they follow. Thai 'ละทิ้ง' captures the decisive abandonment."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἀφίενταί σου αἱ ἁμαρτίαι": {
+      "primary_thai": "บาปของเจ้าได้รับการอภัยแล้ว",
+      "all_renderings": {
+        "บาปของเจ้าได้รับการอภัยแล้ว": [
+          {
+            "verse": "Mark 2:5",
+            "rationale": "Present passive with stative force — 'your sins stand forgiven [right now].' Divine passive: God is the agent, but Jesus pronounces the act. Thai perfect-aspect 'ได้รับการอภัยแล้ว' (have been forgiven already) captures the completed-and-continuing state. This is precisely what the scribes will find scandalous in v.7."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἀφεθήσεται": {
+      "primary_thai": "จะได้รับการอภัย",
+      "all_renderings": {
+        "จะได้รับการอภัย": [
+          {
+            "verse": "Mark 3:28",
+            "rationale": "Future passive with divine agent implicit (per uW: God forgives). Consistent with glossary 'การอภัย' (forgiveness). Thai 'ได้รับการอภัย' (receive forgiveness)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἀφιέναι ἁμαρτίας": {
+      "primary_thai": "ยกบาปได้",
+      "all_renderings": {
+        "ยกบาปได้": [
+          {
+            "verse": "Mark 2:10",
+            "rationale": "Infinitive 'to forgive sins.' Thai 'ยกบาป' (lift/remove sins) — standard rendering of the verb ἀφίημι in this context."
           }
         ]
       },
@@ -1263,6 +3073,18 @@
       },
       "occurrences_count": 1
     },
+    "ἁμαρτωλοί": {
+      "primary_thai": "คนบาป",
+      "all_renderings": {
+        "คนบาป": [
+          {
+            "verse": "Mark 2:15",
+            "rationale": "ἁμαρτωλός = sinner (marked by Pharisaic standards — either moral violators or those who could not/did not keep purity/tithe laws). Standard Thai 'คนบาป.'"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἄγγελόν": {
       "primary_thai": "ทูต",
       "all_renderings": {
@@ -1287,6 +3109,66 @@
       },
       "occurrences_count": 1
     },
+    "ἅψωνται": {
+      "primary_thai": "สัมผัส",
+      "all_renderings": {
+        "สัมผัส": [
+          {
+            "verse": "Mark 3:10",
+            "rationale": "ἅπτομαι = touch (with aim). Per uW: touch-to-be-healed belief. Thai 'สัมผัส' standard."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Ἀβιαθάρ": {
+      "primary_thai": "อาบียาธาร์",
+      "all_renderings": {
+        "อาบียาธาร์": [
+          {
+            "verse": "Mark 2:26",
+            "rationale": "HAPAX in Mark. Thai biblical transliteration 'อาบียาธาร์' (standard across Thai OT/NT)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Ἀκολούθει μοι": {
+      "primary_thai": "จงตามเรามา",
+      "all_renderings": {
+        "จงตามเรามา": [
+          {
+            "verse": "Mark 2:14",
+            "rationale": "Same discipleship call-formula as 1:17 (Δεῦτε ὀπίσω μου). Slight grammatical difference (ἀκολούθει is pres. imperative of 'follow' vs. δεῦτε is adverbial 'come here'), but the semantic force is identical. Consistency with 1:17 preserves the formulaic feel."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Ἀμὴν λέγω ὑμῖν": {
+      "primary_thai": "เราบอกความจริงแก่พวกท่าน",
+      "all_renderings": {
+        "เราบอกความจริงแก่พวกท่าน": [
+          {
+            "verse": "Mark 3:28",
+            "rationale": "Jesus' solemn authority-formula ('truly/amen I say to you'). Thai 'เราบอกความจริง' (I tell the truth / I truly tell) standard. ὑμῖν plural dative = 'to y'all' = 'พวกท่าน' (formal plural). Note: uW says 'singular because addressing the crowd' — but Greek is unambiguously plural (ὑμῖν); Thai preserves plural. Jesus speaking peer-level-formal to scribes + crowd."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Ἀνδρέαν / Φίλιππον / Βαρθολομαῖον / Μαθθαῖον / Θωμᾶν": {
+      "primary_thai": "อันดรูว์ / ฟีลิป / บารโธโลมิว / มัทธิว / โธมัส",
+      "all_renderings": {
+        "อันดรูว์ / ฟีลิป / บารโธโลมิว / มัทธิว / โธมัส": [
+          {
+            "verse": "Mark 3:18",
+            "rationale": "Standard Thai biblical transliterations."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "Ἀρχὴ": {
       "primary_thai": "จุดเริ่มต้น",
       "all_renderings": {
@@ -1294,6 +3176,18 @@
           {
             "verse": "Mark 1:1",
             "rationale": "Functions as a heading (verbless nominative). Chose จุดเริ่มต้น (concrete 'starting point') over abstract การเริ่มต้น to give a title-like feel."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἐάν + aor. subj.": {
+      "primary_thai": "ถ้า...ก็...",
+      "all_renderings": {
+        "ถ้า...ก็...": [
+          {
+            "verse": "Mark 3:24",
+            "rationale": "Hypothetical construction. Per uW: imagine a kingdom in this condition. Thai 'ถ้า...ก็...' natural conditional."
           }
         ]
       },
@@ -1331,9 +3225,15 @@
             "verse": "Mark 1:4",
             "rationale": "Aorist 'came to be/appeared.' Thai ปรากฏตัว captures the entrance-onto-scene sense."
           }
+        ],
+        "ถูกสร้างขึ้น": [
+          {
+            "verse": "Mark 2:27",
+            "rationale": "'Came to be / was made.' Divine passive implied (God made the Sabbath). Thai 'ถูกสร้างขึ้น' (was created) makes the passive overt; implicit agent = God."
+          }
         ]
       },
-      "occurrences_count": 1
+      "occurrences_count": 2
     },
     "ἐγένετο...ἦλθεν": {
       "primary_thai": "ครั้งนั้น...เสด็จมา",
@@ -1371,6 +3271,30 @@
       },
       "occurrences_count": 1
     },
+    "ἐθεράπευσεν": {
+      "primary_thai": "ทรงรักษา",
+      "all_renderings": {
+        "ทรงรักษา": [
+          {
+            "verse": "Mark 3:10",
+            "rationale": "Royal healing verb. Aorist summary of repeated healing acts."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἐκάθητο περὶ αὐτόν": {
+      "primary_thai": "นั่งล้อม...อยู่",
+      "all_renderings": {
+        "นั่งล้อม...อยู่": [
+          {
+            "verse": "Mark 3:32",
+            "rationale": "Imperfect = ongoing state. περί = around. Thai 'นั่งล้อม' (sit surrounding) natural."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἐκβάλλει": {
       "primary_thai": "ทรงขับ",
       "all_renderings": {
@@ -1378,6 +3302,18 @@
           {
             "verse": "Mark 1:12",
             "rationale": "ἐκβάλλω = cast out/drive out — forceful. Mark's characteristic word (used of exorcism, throwing out). Much stronger than Matt/Luke's ἀνήγαγεν/ἤγετο. Thai 'ขับ' preserves the force. Historic present preserved as a vivid marker."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἐκβάλλειν τὰ δαιμόνια": {
+      "primary_thai": "การขับผีออก",
+      "all_renderings": {
+        "การขับผีออก": [
+          {
+            "verse": "Mark 3:15",
+            "rationale": "ἐκβάλλω 'cast out' + δαιμόνια 'demons.' Consistent with Mark 1:34, 1:39 rendering ('ขับผี'). Thai 'ผี' is the standard biblical Thai term for 'demon'; 'มาร' also occurs but 'ผี' is Mark's primary vocabulary in this project. Noun form 'การขับผีออก' (the casting-out of demons) fits the infinitive."
           }
         ]
       },
@@ -1419,6 +3355,18 @@
       },
       "occurrences_count": 1
     },
+    "ἐλεύσονται ἡμέραι...ἐν ἐκείνῃ τῇ ἡμέρᾳ": {
+      "primary_thai": "จะมีวันหนึ่ง...ในวันนั้น",
+      "all_renderings": {
+        "จะมีวันหนึ่ง...ในวันนั้น": [
+          {
+            "verse": "Mark 2:20",
+            "rationale": "Greek doubles the temporal marker (days will come when... in that day). Thai keeps both references for clarity without being redundant."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἐλπίζων": {
       "primary_thai": "ขณะที่หวังว่า",
       "all_renderings": {
@@ -1438,6 +3386,30 @@
           {
             "verse": "Mark 1:43",
             "rationale": "ἐμβριμάομαι = snort, express indignation, sternly warn. Strong word. Thai 'กำชับอย่างเข้มงวด' = strictly charged."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἐμερίσθη": {
+      "primary_thai": "แตกแยก",
+      "all_renderings": {
+        "แตกแยก": [
+          {
+            "verse": "Mark 3:26",
+            "rationale": "Consistent with vv.24–25 rendering. Aorist passive with reflexive sense (per uW: = 'attacked himself')."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἐν οἴκῳ": {
+      "primary_thai": "ที่บ้าน",
+      "all_renderings": {
+        "ที่บ้าน": [
+          {
+            "verse": "Mark 2:1",
+            "rationale": "Anarthrous — 'at home' (idiomatic) rather than 'in the/a house.' Likely Simon and Andrew's house (cf. 1:29), now Jesus' base of operations in Capernaum."
           }
         ]
       },
@@ -1467,6 +3439,18 @@
       },
       "occurrences_count": 1
     },
+    "ἐν παραβολαῖς": {
+      "primary_thai": "เป็นคำอุปมา",
+      "all_renderings": {
+        "เป็นคำอุปมา": [
+          {
+            "verse": "Mark 3:23",
+            "rationale": "παραβολή = parable, figurative speech (from παραβάλλω 'throw alongside' = comparison). Thai 'คำอุปมา' (word-of-comparison) is the standard Thai biblical rendering. Plural παραβολαῖς signals multiple parables coming in vv.24–27."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἐν τάχει": {
       "primary_thai": "โดยเร็ว",
       "all_renderings": {
@@ -1474,6 +3458,30 @@
           {
             "verse": "1 Timothy 3:14",
             "rationale": "ἐν τάχει = 'in/with speed' — soon, quickly. โดยเร็ว = standard Thai for 'soon/quickly.'"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἐν τοῖς σάββασιν": {
+      "primary_thai": "ในวันสะบาโตหนึ่ง",
+      "all_renderings": {
+        "ในวันสะบาโตหนึ่ง": [
+          {
+            "verse": "Mark 2:23",
+            "rationale": "Greek idiomatic plural σάββατα often = a single Sabbath. Thai 'ในวันสะบาโตหนึ่ง' (on one Sabbath)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἐν τῷ ἄρχοντι τῶν δαιμονίων": {
+      "primary_thai": "ด้วยอำนาจของหัวหน้าผี",
+      "all_renderings": {
+        "ด้วยอำนาจของหัวหน้าผี": [
+          {
+            "verse": "Mark 3:22",
+            "rationale": "ἐν + dative = instrumental 'by/with.' ἄρχων 'ruler, chief.' Per uW: = Beelzebul himself. Thai 'ด้วยอำนาจของ' (by authority of) + 'หัวหน้าผี' (chief-demon) captures both the instrumentality and the hierarchy. 'หัวหน้าผี' parallel to 'หัวหน้า...' in general Thai usage."
           }
         ]
       },
@@ -1503,6 +3511,30 @@
       },
       "occurrences_count": 1
     },
+    "ἐξέστη": {
+      "primary_thai": "เสียสติไปแล้ว",
+      "all_renderings": {
+        "เสียสติไปแล้ว": [
+          {
+            "verse": "Mark 3:21",
+            "rationale": "ἐξίστημι middle/passive aorist = 'he is beside himself / out of his mind.' Thai 'เสียสติ' (lost mind = insane). NOTE: same verb ἐξίστημι appears in Mark 2:12 with different sense ('astounded') — there translated 'ตะลึง.' Context disambiguates: passive self-reference here = insanity; active-on-observers there = amazement. Flag this dual usage."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἐξίστασθαι": {
+      "primary_thai": "ตะลึง",
+      "all_renderings": {
+        "ตะลึง": [
+          {
+            "verse": "Mark 2:12",
+            "rationale": "ἐξίστημι = be out of oneself / stand out / be amazed. Stronger than simple surprise. Thai 'ตะลึง' = stunned, dumbstruck."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἐξεπλήσσοντο": {
       "primary_thai": "พากันอัศจรรย์ใจ",
       "all_renderings": {
@@ -1527,6 +3559,78 @@
       },
       "occurrences_count": 1
     },
+    "ἐξηραμμένην ἔχων τὴν χεῖρα": {
+      "primary_thai": "มือของเขาลีบ",
+      "all_renderings": {
+        "มือของเขาลีบ": [
+          {
+            "verse": "Mark 3:1",
+            "rationale": "Perfect passive participle ἐξηραμμένην from ξηραίνω 'dry up, wither' — completed-and-continuing state: the hand has become withered and remains so. Medically, the hand was atrophied/shriveled. Thai 'ลีบ' is the precise medical/idiomatic term for an atrophied limb (vs. 'เหี่ยว' = withered of plants). Opens the stage for the Sabbath-healing confrontation."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἐξορύξαντες": {
+      "primary_thai": "เมื่อขุดเป็นช่องแล้ว",
+      "all_renderings": {
+        "เมื่อขุดเป็นช่องแล้ว": [
+          {
+            "verse": "Mark 2:4",
+            "rationale": "ἐξορύσσω = 'dig out/through' — strong physical verb. Used of digging clay/earth. After removing the surface, they had to dig through the packed layer. Thai 'ขุดเป็นช่อง' (dug into an opening) preserves the manual labor."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἐξουσίαν ἔχει": {
+      "primary_thai": "ทรงมีสิทธิอำนาจ",
+      "all_renderings": {
+        "ทรงมีสิทธิอำนาจ": [
+          {
+            "verse": "Mark 2:10",
+            "rationale": "ἐξουσία = authority (delegated or inherent). Thai 'สิทธิอำนาจ' = authority/right-to-rule (standard biblical Thai). 'ทรง' royal prefix since Son of Man = Jesus = divine."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἐξῆλθεν πάλιν παρὰ τὴν θάλασσαν": {
+      "primary_thai": "เสด็จออกไปที่ชายทะเลอีกครั้ง",
+      "all_renderings": {
+        "เสด็จออกไปที่ชายทะเลอีกครั้ง": [
+          {
+            "verse": "Mark 2:13",
+            "rationale": "'Went out again beside the sea' — echoes 1:16 (the call of Simon/Andrew). Mark frames scenes by locating Jesus at the Sea of Galilee. Thai 'ชายทะเล' = shore/seaside."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἐπέθηκεν ὄνομα τῷ Σίμωνι Πέτρον": {
+      "primary_thai": "ทรงประทานชื่อว่าเปโตร",
+      "all_renderings": {
+        "ทรงประทานชื่อว่าเปโตร": [
+          {
+            "verse": "Mark 3:16",
+            "rationale": "ἐπιτίθημι ὄνομα = 'bestow a name' (OT renaming idiom, cf. Abram→Abraham, Jacob→Israel). Royal 'ทรงประทาน' (royal-bestow). Πέτρος = 'rock' (Aramaic kepha). The renaming signals Simon's new role in God's redemptive economy."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἐπίβλημα ῥάκους ἀγνάφου": {
+      "primary_thai": "ผ้าดิบ...เย็บปะ",
+      "all_renderings": {
+        "ผ้าดิบ...เย็บปะ": [
+          {
+            "verse": "Mark 2:21",
+            "rationale": "ἐπίβλημα = patch; ῥάκος = piece of cloth; ἄγναφος = not fulled/unshrunk. Unfulled cloth will shrink on washing and rip the surrounding garment. Thai 'ผ้าดิบ' = raw/unprocessed cloth (will shrink) — precise cultural match. 'เย็บปะ' = patch by sewing."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἐπίσκοπον": {
       "primary_thai": "ผู้ปกครองดูแล",
       "all_renderings": {
@@ -1539,6 +3643,18 @@
       },
       "occurrences_count": 1
     },
+    "ἐπετίμα": {
+      "primary_thai": "ทรงกำชับ",
+      "all_renderings": {
+        "ทรงกำชับ": [
+          {
+            "verse": "Mark 3:12",
+            "rationale": "ἐπιτιμάω = rebuke, charge sternly (same verb used for silencing demon 1:25, calming storm 4:39). Royal 'ทรงกำชับ' (royal-charge-strictly). Imperfect = repeated (each time a demon cried out)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἐπετίμησεν": {
       "primary_thai": "ตรัสห้าม",
       "all_renderings": {
@@ -1546,6 +3662,18 @@
           {
             "verse": "Mark 1:25",
             "rationale": "ἐπιτιμάω = rebuke/command with authority. Used in exorcism and stilling of storms. Thai 'ตรัสห้าม' = royal rebuke."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἐπιγνοὺς τῷ πνεύματι αὐτοῦ": {
+      "primary_thai": "ทรงหยั่งรู้ในพระวิญญาณของพระองค์",
+      "all_renderings": {
+        "ทรงหยั่งรู้ในพระวิญญาณของพระองค์": [
+          {
+            "verse": "Mark 2:8",
+            "rationale": "ἐπιγινώσκω = fully/accurately know (intensified γινώσκω). τῷ πνεύματι αὐτοῦ = in his spirit (his inner self / supernatural perception). Ambiguous: Jesus' own spirit OR the Holy Spirit in him. Thai 'พระวิญญาณของพระองค์' preserves the ambiguity (พระวิญญาณ works for both). 'ทรงหยั่งรู้' = royal + supernatural-perception."
           }
         ]
       },
@@ -1575,6 +3703,30 @@
       },
       "occurrences_count": 1
     },
+    "ἐπιπίπτειν": {
+      "primary_thai": "พากันเบียดเสียดเข้ามา",
+      "all_renderings": {
+        "พากันเบียดเสียดเข้ามา": [
+          {
+            "verse": "Mark 3:10",
+            "rationale": "ἐπιπίπτω = 'fall upon' (intensified crowd surging). Present infinitive in a ὥστε-result clause = ongoing action. Per uW: crowd pressed against each other to get to Jesus. Thai 'พากันเบียดเสียด' (all-together press-in-a-crush) captures the mob dynamic."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἐπιράπτει": {
+      "primary_thai": "เย็บปะ",
+      "all_renderings": {
+        "เย็บปะ": [
+          {
+            "verse": "Mark 2:21",
+            "rationale": "HAPAX LEGOMENON. Compound ἐπί (on) + ῥάπτω (sew). Meaning transparent — 'sew on.' Thai 'เย็บปะ' (sew-patch) is the standard tailoring term."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἐπισκοπῆς": {
       "primary_thai": "ตำแหน่งผู้ปกครองดูแล",
       "all_renderings": {
@@ -1594,6 +3746,42 @@
           {
             "verse": "1 Timothy 3:16",
             "rationale": "πιστεύω aor. pass. with personal subject = 'was believed on/was trusted.' Unusual construction — πιστεύω rarely takes a personal subject in the passive. ทรงเป็นที่เชื่อ = 'was one who was believed in' — Thai stative-passive construction preserves honorific."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἐποίησεν δώδεκα": {
+      "primary_thai": "ทรงแต่งตั้งสาวกสิบสองคน",
+      "all_renderings": {
+        "ทรงแต่งตั้งสาวกสิบสองคน": [
+          {
+            "verse": "Mark 3:14",
+            "rationale": "Semitic idiom: ἐποίησεν here = 'appointed/installed in office' (cf. LXX 1 Sam 12:6 ἐποίησε Μωυσῆν 'appointed Moses'; 1 Kgs 12:31 ἐποίησεν οἴκους ὑψηλῶν 'made [appointed] houses of high places'). Not 'made/created.' Thai 'ทรงแต่งตั้ง' (royal-appoint) correct. The number δώδεκα (twelve) echoes the twelve tribes — Jesus constitutes a new Israel."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἐπὶ τῆς γῆς": {
+      "primary_thai": "ในโลก",
+      "all_renderings": {
+        "ในโลก": [
+          {
+            "verse": "Mark 2:10",
+            "rationale": "'On earth' — locative, and theologically significant: the Son of Man exercises divine prerogative NOW in the earthly realm, not only eschatologically. Cf. Dan 7's heavenly throne scene."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἐπὶ Ἀβιαθὰρ ἀρχιερέως": {
+      "primary_thai": "ในสมัยที่อาบียาธาร์เป็นมหาปุโรหิต",
+      "all_renderings": {
+        "ในสมัยที่อาบียาธาร์เป็นมหาปุโรหิต": [
+          {
+            "verse": "Mark 2:26",
+            "rationale": "HISTORICAL-CRITICAL CRUX. ἐπί + gen. personal name commonly = 'in the time of' or 'during the high-priesthood of.' BUT: in 1 Sam 21:1-6 the priest is Ahimelech (Abiathar's father); Abiathar became high priest only after Saul killed Ahimelech (1 Sam 22). Proposed solutions: (a) Mark's error; (b) ἐπί + gen. can mean 'in the Scripture-section about Abiathar' (cf. Mark 12:26 'ἐπὶ τοῦ βάτου' = 'in the passage about the burning bush') — Abiathar is the more famous figure of the 1 Sam narrative arc; (c) Ahimelech and Abiathar shared priestly duties; (d) textual corruption. Our translation follows SBLGNT verbatim, rendering ἐπί as 'ในสมัยที่...เป็น' (in the era that X was). Full flag in notes."
           }
         ]
       },
@@ -1623,6 +3811,30 @@
       },
       "occurrences_count": 1
     },
+    "ἐσθίει": {
+      "primary_thai": "ทรงกินอาหาร",
+      "all_renderings": {
+        "ทรงกินอาหาร": [
+          {
+            "verse": "Mark 2:16",
+            "rationale": "Historic present in indirect discourse (narrator-frame keeps reverence)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἐφ' ἑαυτὴν μερισθῇ": {
+      "primary_thai": "แตกแยกเป็นปฏิปักษ์ต่อตนเอง",
+      "all_renderings": {
+        "แตกแยกเป็นปฏิปักษ์ต่อตนเอง": [
+          {
+            "verse": "Mark 3:24",
+            "rationale": "μερίζω = 'divide, separate.' ἐπί + reflexive = 'against itself' (hostile division). Per uW: = 'attacks itself.' Thai 'แตกแยก' (fragment/split) + 'เป็นปฏิปักษ์ต่อตนเอง' (become hostile-to-self) captures both the fracturing and the adversarial quality — more precise than bare 'แตกแยก.'"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἐφανερώθη ἐν σαρκί": {
       "primary_thai": "ทรงปรากฏในเนื้อหนัง",
       "all_renderings": {
@@ -1630,6 +3842,18 @@
           {
             "verse": "1 Timothy 3:16",
             "rationale": "φανερόω aor. pass. = was manifested/made visible. σάρξ = flesh (incarnational reality). Divine passive (God is implied agent). ทรงปรากฏ = manifested (honorific); เนื้อหนัง = flesh (Thai Christian standard for σάρξ as physical body)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἐὰν μὴ πρῶτον...δήσῃ": {
+      "primary_thai": "ถ้าไม่...เสียก่อน",
+      "all_renderings": {
+        "ถ้าไม่...เสียก่อน": [
+          {
+            "verse": "Mark 3:27",
+            "rationale": "Exception clause 'unless first.' Thai 'ถ้าไม่...เสียก่อน' captures both the exception and the temporal 'first.'"
           }
         ]
       },
@@ -1647,6 +3871,60 @@
       },
       "occurrences_count": 1
     },
+    "ἔκραζον": {
+      "primary_thai": "ร้อง",
+      "all_renderings": {
+        "ร้อง": [
+          {
+            "verse": "Mark 3:11",
+            "rationale": "κράζω = cry out, shout. Iterative imperfect."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἔλεγεν": {
+      "primary_thai": "ตรัสต่อไป",
+      "all_renderings": {
+        "ตรัสต่อไป": [
+          {
+            "verse": "Mark 2:27",
+            "rationale": "Imperfect = continuing speech. Thai 'ตรัสต่อไป' (went on saying) captures the ongoing discourse."
+          }
+        ],
+        "ตรัส": [
+          {
+            "verse": "Mark 3:23",
+            "rationale": "Imperfect introduces a continuing discourse. Royal 'ตรัส.'"
+          }
+        ]
+      },
+      "occurrences_count": 2
+    },
+    "ἔλεγον": {
+      "primary_thai": "พวกเขาพูด",
+      "all_renderings": {
+        "พวกเขาพูด": [
+          {
+            "verse": "Mark 3:30",
+            "rationale": "Imperfect — ongoing accusation. Subject = the scribes of v.22."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἔλεγον γάρ": {
+      "primary_thai": "เพราะมีคนพูด",
+      "all_renderings": {
+        "เพราะมีคนพูด": [
+          {
+            "verse": "Mark 3:21",
+            "rationale": "Subject of 'they were saying' ambiguous per uW: could be the family itself OR people generally talking. Imperfect = ongoing report. Thai 'มีคนพูด' (there were those saying) preserves the ambiguity — the rumor is in circulation; the family acts on it."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἔννυχα": {
       "primary_thai": "ขณะที่ยังมืดอยู่",
       "all_renderings": {
@@ -1659,6 +3937,30 @@
       },
       "occurrences_count": 1
     },
+    "ἔνοχός ἐστιν αἰωνίου ἁμαρτήματος": {
+      "primary_thai": "มีความผิดต่อบาปอันเป็นนิรันดร์",
+      "all_renderings": {
+        "มีความผิดต่อบาปอันเป็นนิรันดร์": [
+          {
+            "verse": "Mark 3:29",
+            "rationale": "ἔνοχος + gen. = 'liable for, guilty of' (forensic). αἰωνίου ἁμαρτήματος = 'eternal sin.' Per uW: 'sin with eternal consequences.' Thai 'มีความผิดต่อ' (has culpability against) + 'บาปอันเป็นนิรันดร์' (sin that is eternal) — 'อันเป็น' is literary relativizer giving the adjective 'นิรันดร์' weight. TEXTUAL VARIANT: some mss read κρίσεως ('judgment') instead of ἁμαρτήματος ('sin'); SBLGNT follows the latter. BSB also 'eternal sin.'"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἔξω στήκοντες": {
+      "primary_thai": "ยืนอยู่ด้านนอก",
+      "all_renderings": {
+        "ยืนอยู่ด้านนอก": [
+          {
+            "verse": "Mark 3:31",
+            "rationale": "στήκω = 'stand firm.' Per uW: they stand outside the house (cf. v.20). Thai 'ยืนอยู่ด้านนอก' (standing outside) natural."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἔρημον τόπον": {
       "primary_thai": "ที่เปลี่ยว",
       "all_renderings": {
@@ -1666,6 +3968,42 @@
           {
             "verse": "Mark 1:35",
             "rationale": "ἔρημος place — solitary/deserted spot (not necessarily wilderness region). Thai 'ที่เปลี่ยว' = quiet/secluded place."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἔρχεται": {
+      "primary_thai": "เสด็จกลับเข้า",
+      "all_renderings": {
+        "เสด็จกลับเข้า": [
+          {
+            "verse": "Mark 3:20",
+            "rationale": "Historic present (per uW v.20). Royal 'เสด็จ' + 'กลับเข้า' (return-enter). Per uW: the 'house' is probably the Capernaum base (cf. 2:1). 'กลับ' makes the return-home sense explicit."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἔρχονται": {
+      "primary_thai": "มาถึง",
+      "all_renderings": {
+        "มาถึง": [
+          {
+            "verse": "Mark 3:31",
+            "rationale": "Historic present (per uW v.31). 'Arrive' captures the coming-to-location."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἔρχονται + φέροντες": {
+      "primary_thai": "มีคน...มา",
+      "all_renderings": {
+        "มีคน...มา": [
+          {
+            "verse": "Mark 2:3",
+            "rationale": "Historic present + circumstantial participle — 'they come carrying.' Thai naturalizes to 'there were people bringing.' Subject is impersonal/collective."
           }
         ]
       },
@@ -1695,6 +4033,18 @@
       },
       "occurrences_count": 1
     },
+    "ἔχειν ἐξουσίαν": {
+      "primary_thai": "ให้มีสิทธิอำนาจ",
+      "all_renderings": {
+        "ให้มีสิทธิอำนาจ": [
+          {
+            "verse": "Mark 3:15",
+            "rationale": "ἐξουσία = authority (per glossary: 'สิทธิอำนาจ'). Consistent with Mark 1:22, 1:27, 2:10, 3:10, 6:7 usage. Infinitive 'ἔχειν' here continues the dependence on ἐποίησεν (v.14) — third purpose clause parallel: the Twelve were appointed (a) to be with him, (b) to be sent to preach, (c) to have authority to cast out demons. No 'ทรง' prefix because the subject is the disciples, not Jesus."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἔχοντας": {
       "primary_thai": "ยึดถือ",
       "all_renderings": {
@@ -1702,6 +4052,114 @@
           {
             "verse": "1 Timothy 3:9",
             "rationale": "ἔχω + abstract object = hold to, maintain. Not mere possession but adherence. ยึดถือ = hold fast to, adhere to."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Ἔγειρε εἰς τὸ μέσον": {
+      "primary_thai": "จงลุกขึ้นมายืนตรงกลางนี้",
+      "all_renderings": {
+        "จงลุกขึ้นมายืนตรงกลางนี้": [
+          {
+            "verse": "Mark 3:3",
+            "rationale": "Literal 'Arise into the middle' — the Greek is elliptical. Per uW: idiom for 'stand where everyone can see you.' Thai adds 'ยืน' (stand) for clarity, since 'ลุกขึ้น' alone could merely mean 'get up.' Jesus stages the healing publicly, not privately — heightening the Sabbath confrontation."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Ἔκτεινον τὴν χεῖρα": {
+      "primary_thai": "จงเหยียดมือของเจ้าออกมา",
+      "all_renderings": {
+        "จงเหยียดมือของเจ้าออกมา": [
+          {
+            "verse": "Mark 3:5",
+            "rationale": "Aor. imperative ἐκτείνω = 'stretch out.' Per uW: this is not a command the man could naturally obey (his hand was atrophied) — the command itself effected the healing. Jesus-to-sufferer register: 'เจ้า' (divine-to-human intimate, per Mark 2:5)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Ἔξεστιν": {
+      "primary_thai": "เป็นที่อนุญาต",
+      "all_renderings": {
+        "เป็นที่อนุญาต": [
+          {
+            "verse": "Mark 3:4",
+            "rationale": "Impersonal 'it is lawful/permitted.' Contrasts with 2:24 where Pharisees said 'ὃ οὐκ ἔξεστιν' ('สิ่งที่ผิดกฎ' = 'what is not permitted'). Thai 'เป็นที่อนุญาต' (is permitted) is the positive complement — maintaining lexical echo with the Pharisees' accusation in the previous chapter."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἠγέρθη": {
+      "primary_thai": "ลุกขึ้น",
+      "all_renderings": {
+        "ลุกขึ้น": [
+          {
+            "verse": "Mark 2:12",
+            "rationale": "Aorist passive 'was raised' — divine passive echo of ἀφίενταί ('are forgiven'). Thai naturalizes to active 'ลุกขึ้น.' The theological parallel (God forgives / God raises) is preserved in the narrative flow."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἠκολούθησεν": {
+      "primary_thai": "ติดตามไป",
+      "all_renderings": {
+        "ติดตามไป": [
+          {
+            "verse": "Mark 3:7",
+            "rationale": "ἀκολουθέω = follow. Aorist = simple past. Thai 'ติดตามไป' (follow-go) standard."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἠκούσθη": {
+      "primary_thai": "มีคนได้ยินว่า",
+      "all_renderings": {
+        "มีคนได้ยินว่า": [
+          {
+            "verse": "Mark 2:1",
+            "rationale": "Impersonal passive 'it was heard' — Thai naturalizes to active 'there were people who heard.' The hearers are the Capernaum inhabitants (implied)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἡ μήτηρ αὐτοῦ": {
+      "primary_thai": "มารดาของพระองค์",
+      "all_renderings": {
+        "มารดาของพระองค์": [
+          {
+            "verse": "Mark 3:31",
+            "rationale": "Royal register: 'มารดา' (formal mother) + 'ของพระองค์' (royal possessive). Mary, though biologically the mother, is addressed with royal reference when speaking of Jesus."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἡ μήτηρ μου καὶ οἱ ἀδελφοί μου": {
+      "primary_thai": "มารดาของเราและพี่น้องของเรา",
+      "all_renderings": {
+        "มารดาของเราและพี่น้องของเรา": [
+          {
+            "verse": "Mark 3:34",
+            "rationale": "Parallel to v.33 — Jesus' inclusive redefinition of family: the disciples around him ARE his mother and siblings."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἡ μήτηρ σου καὶ οἱ ἀδελφοί σου": {
+      "primary_thai": "มารดาและบรรดาน้องชายของท่าน",
+      "all_renderings": {
+        "มารดาและบรรดาน้องชายของท่าน": [
+          {
+            "verse": "Mark 3:32",
+            "rationale": "Parallel to v.31. Registered address-form: the crowd speaks of Mary/brothers using Jesus' relationship to them — 'ของท่าน' (yours, respectful)."
           }
         ]
       },
@@ -1719,6 +4177,66 @@
       },
       "occurrences_count": 1
     },
+    "ἤρξαντο ὁδὸν ποιεῖν τίλλοντες": {
+      "primary_thai": "เริ่มเดินพลางเด็ดรวงข้าวไปพลาง",
+      "all_renderings": {
+        "เริ่มเดินพลางเด็ดรวงข้าวไปพลาง": [
+          {
+            "verse": "Mark 2:23",
+            "rationale": "ὁδὸν ποιεῖν = idiom 'make a way' = 'make progress / walk along.' Not 'carve out a path by destroying plants' — that's an ancient minority reading. Majority reading (uW, BSB, most commentators): they walked along while picking. Thai 'เดินพลาง...ไปพลาง' (walk while...going) is the concurrent-action pattern."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἤρχετο": {
+      "primary_thai": "พากันมา",
+      "all_renderings": {
+        "พากันมา": [
+          {
+            "verse": "Mark 2:13",
+            "rationale": "Imperfect = ongoing/repeated coming. Thai 'พากันมา' (come together/in group) captures the throng."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἦσαν γὰρ πολλοὶ καὶ ἠκολούθουν αὐτῷ": {
+      "primary_thai": "เพราะมีหลายคนที่ติดตามพระองค์",
+      "all_renderings": {
+        "เพราะมีหลายคนที่ติดตามพระองค์": [
+          {
+            "verse": "Mark 2:15",
+            "rationale": "Ambiguous antecedent of 'they': (a) many tax collectors/sinners were following — majority view given proximity; (b) many disciples were following — a stretch. Thai preserves the ambiguity with 'หลายคน' (many people)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Ἡρῳδιανῶν": {
+      "primary_thai": "พวกเฮโรเดียน",
+      "all_renderings": {
+        "พวกเฮโรเดียน": [
+          {
+            "verse": "Mark 3:6",
+            "rationale": "Supporters of Herod Antipas (per uW) — a political faction (not a religious sect). Normally opposed to Pharisees, but united against Jesus. Thai 'พวกเฮโรเดียน' (Herod-faction group) — transliteration + classifier 'พวก.' Their alliance with Pharisees in this verse foreshadows the political-religious coalition that will crucify Jesus."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἰδὼν": {
+      "primary_thai": "ทอดพระเนตรเห็น",
+      "all_renderings": {
+        "ทอดพระเนตรเห็น": [
+          {
+            "verse": "Mark 2:5",
+            "rationale": "Royal verb for 'see' when divine subject (Jesus). Consistent with 1:10, 1:16, 1:19."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἰσχυρότερός": {
       "primary_thai": "ทรงอำนาจยิ่งกว่า",
       "all_renderings": {
@@ -1726,6 +4244,114 @@
           {
             "verse": "Mark 1:7",
             "rationale": "Comparative of ἰσχυρός 'strong/powerful.' Used ทรง to signal the coming one is divine/royal."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἵνα κατηγορήσωσιν αὐτοῦ": {
+      "primary_thai": "เพื่อจะหาเหตุกล่าวหาพระองค์",
+      "all_renderings": {
+        "เพื่อจะหาเหตุกล่าวหาพระองค์": [
+          {
+            "verse": "Mark 3:2",
+            "rationale": "Purpose clause with aor. subj. κατηγορέω = 'accuse' (forensic term). Thai 'หาเหตุกล่าวหา' (seek grounds to accuse) captures the legal-entrapment intent per uW (they want to accuse of breaking Sabbath law)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἵνα μὴ αὐτὸν φανερὸν ποιήσωσιν": {
+      "primary_thai": "ไม่ให้แพร่งพรายว่าพระองค์คือใคร",
+      "all_renderings": {
+        "ไม่ให้แพร่งพรายว่าพระองค์คือใคร": [
+          {
+            "verse": "Mark 3:12",
+            "rationale": "φανερὸν ποιέω = 'make manifest/known.' Per uW: make-him-known = tell who he was. Thai 'แพร่งพราย' (divulge-broadcast) standard for secrecy injunctions; explicit expansion 'ว่าพระองค์คือใคร' (who he is) per uW suggestion for clarity."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἵνα μὴ θλίβωσιν αὐτόν": {
+      "primary_thai": "เพื่อมิให้พวกเขาเบียดพระองค์",
+      "all_renderings": {
+        "เพื่อมิให้พวกเขาเบียดพระองค์": [
+          {
+            "verse": "Mark 3:9",
+            "rationale": "θλίβω = press, crush, squeeze. Per uW: the crowd may injure him by crushing. Thai 'เบียด' (press-squeeze-in-a-crowd) is the natural Thai idiom for crowd pressure."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἵνα ἀποστέλλῃ αὐτοὺς κηρύσσειν": {
+      "primary_thai": "เพื่อจะทรงส่งพวกเขาออกไปประกาศ",
+      "all_renderings": {
+        "เพื่อจะทรงส่งพวกเขาออกไปประกาศ": [
+          {
+            "verse": "Mark 3:14",
+            "rationale": "Second purpose: being sent to preach. ἀποστέλλω = 'send out [with a commission]' — source of 'apostle.' κηρύσσω 'proclaim' (consistent with Mark 1:14, 1:38, 1:45 usage). Royal 'ทรงส่ง' for Jesus' commissioning act."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἵνα ὦσιν μετ' αὐτοῦ": {
+      "primary_thai": "เพื่อให้พวกเขาอยู่กับพระองค์",
+      "all_renderings": {
+        "เพื่อให้พวกเขาอยู่กับพระองค์": [
+          {
+            "verse": "Mark 3:14",
+            "rationale": "First purpose: companionship with Christ. Critical Markan discipleship theology — 'being with' precedes 'being sent.' Thai 'อยู่กับพระองค์' simple and direct."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Ἰάκωβον τὸν τοῦ Ζεβεδαίου / Ἰωάννην τὸν ἀδελφὸν τοῦ Ἰακώβου": {
+      "primary_thai": "ยากอบบุตรเศเบดี / ยอห์นน้องชายของยากอบ",
+      "all_renderings": {
+        "ยากอบบุตรเศเบดี / ยอห์นน้องชายของยากอบ": [
+          {
+            "verse": "Mark 3:17",
+            "rationale": "Standard Thai biblical transliterations (ยากอบ, ยอห์น, เศเบดี). Per uW: James mentioned first suggests he is older; hence John is called 'น้องชาย' (younger brother) rather than 'พี่ชาย' (older brother), which is the standard inference in the Thai tradition."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Ἰάκωβον τὸν τοῦ Ἁλφαίου": {
+      "primary_thai": "ยากอบบุตรอัลเฟอัส",
+      "all_renderings": {
+        "ยากอบบุตรอัลเฟอัส": [
+          {
+            "verse": "Mark 3:18",
+            "rationale": "A second James in the list, distinguished by patronym. Consistent with Mark 2:14 rendering of Λευί τὸν τοῦ Ἁλφαίου = 'เลวีบุตรอัลเฟอัส.' Whether this James and Levi are the same Alphaeus's sons is an open question in the commentary tradition."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Ἰδουμαίας": {
+      "primary_thai": "แคว้นอิดูเมอา",
+      "all_renderings": {
+        "แคว้นอิดูเมอา": [
+          {
+            "verse": "Mark 3:8",
+            "rationale": "HAPAX LEGOMENON in Mark (and in the whole NT!). Idumea = Hellenized 'Edom' — the southern region inhabited by descendants of Esau, forcibly Judaized by John Hyrcanus (c. 125 BC). Herod the Great's family origin. Thai transliteration 'อิดูเมอา' (closest phonetic)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Ἰδού": {
+      "primary_thai": "ดูเถิด",
+      "all_renderings": {
+        "ดูเถิด": [
+          {
+            "verse": "Mark 3:32",
+            "rationale": "Attention-getter (per uW). Thai 'ดูเถิด' standard biblical 'Behold.'"
           }
         ]
       },
@@ -1742,6 +4368,48 @@
         ]
       },
       "occurrences_count": 1
+    },
+    "Ἰούδαν Ἰσκαριώθ": {
+      "primary_thai": "ยูดาสอิสคาริโอท",
+      "all_renderings": {
+        "ยูดาสอิสคาริโอท": [
+          {
+            "verse": "Mark 3:19",
+            "rationale": "Standard Thai biblical transliteration. Ἰσκαριώθ likely = 'man of Kerioth' (Hebrew ish-qeriot) or possibly a variant of 'sicarii' (dagger-men). Traditional Thai Christian usage favors 'อิสคาริโอท.'"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Ἱεροσολύμων": {
+      "primary_thai": "กรุงเยรูซาเล็ม",
+      "all_renderings": {
+        "กรุงเยรูซาเล็ม": [
+          {
+            "verse": "Mark 3:8",
+            "rationale": "Standard Thai biblical transliteration with 'กรุง' (royal city) classifier."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Ἴδε": {
+      "primary_thai": "ดูสิ",
+      "all_renderings": {
+        "ดูสิ": [
+          {
+            "verse": "Mark 2:24",
+            "rationale": "Attention-getting particle. Thai 'ดูสิ' (look!) — natural spoken attention-marker."
+          }
+        ],
+        "ดูเถิด": [
+          {
+            "verse": "Mark 3:34",
+            "rationale": "Attention-getter (per uW). Makes the re-identification dramatic: 'LOOK at these people — they are my family.'"
+          }
+        ]
+      },
+      "occurrences_count": 2
     },
     "ὀνειδισμὸν": {
       "primary_thai": "ความอับอาย",
@@ -1791,6 +4459,22 @@
       },
       "occurrences_count": 1
     },
+    "ὁ υἱὸς τοῦ ἀνθρώπου": {
+      "primary_thai": "บุตรมนุษย์",
+      "all_renderings": {
+        "บุตรมนุษย์": [
+          {
+            "verse": "Mark 2:10",
+            "rationale": "FIRST OCCURRENCE OF 'SON OF MAN' IN MARK. ὁ υἱὸς τοῦ ἀνθρώπου = the Son of Man (a semitic construction = 'the human one'). Jesus' self-designation, drawing on Dan 7:13-14 (apocalyptic figure who receives universal dominion from the Ancient of Days). Standard Thai biblical 'บุตรมนุษย์' (lit. 'son of humanity'). This title will recur 14x in Mark — must remain consistent."
+          },
+          {
+            "verse": "Mark 2:28",
+            "rationale": "Second 'Son of Man' in Mark (after 2:10). Consistent rendering per glossary."
+          }
+        ]
+      },
+      "occurrences_count": 2
+    },
     "ὁ ἅγιος τοῦ θεοῦ": {
       "primary_thai": "องค์บริสุทธิ์ของพระเจ้า",
       "all_renderings": {
@@ -1815,6 +4499,90 @@
       },
       "occurrences_count": 1
     },
+    "ὃ οὐκ ἔξεστιν": {
+      "primary_thai": "สิ่งที่ผิดกฎ",
+      "all_renderings": {
+        "สิ่งที่ผิดกฎ": [
+          {
+            "verse": "Mark 2:24",
+            "rationale": "οὐκ ἔξεστιν = 'it is not permitted/lawful.' The reference is to Sabbath halakhah (Pharisaic Sabbath-interpretation, not Torah per se; Torah forbids 'work' but the definition of work was debated). Thai 'ผิดกฎ' = contrary to the law — captures the halakhic dispute."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ὃς καὶ παρέδωκεν αὐτόν": {
+      "primary_thai": "ผู้ที่ต่อมาได้ทรยศขายพระองค์",
+      "all_renderings": {
+        "ผู้ที่ต่อมาได้ทรยศขายพระองค์": [
+          {
+            "verse": "Mark 3:19",
+            "rationale": "παραδίδωμι = 'hand over, betray.' Aorist narrates a future event from the perspective of the narrator (Mark writes after the Passion). Per uW: background information about Judas' later deed. Thai 'ทรยศขาย' (betray-and-sell) is a compound that captures both the betrayal and the financial motive (cf. 14:10–11). 'ต่อมา' (later) makes the future-from-this-moment clear."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ὃς...ἂν ποιήσῃ": {
+      "primary_thai": "ผู้ใดก็ตามที่...ทำ",
+      "all_renderings": {
+        "ผู้ใดก็ตามที่...ทำ": [
+          {
+            "verse": "Mark 3:35",
+            "rationale": "Indefinite relative. Thai 'ผู้ใดก็ตามที่' (whoever) standard."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ὅπως αὐτὸν ἀπολέσωσιν": {
+      "primary_thai": "จะกำจัดพระองค์เสียอย่างไร",
+      "all_renderings": {
+        "จะกำจัดพระองค์เสียอย่างไร": [
+          {
+            "verse": "Mark 3:6",
+            "rationale": "ὅπως + aor. subj. = 'how they might...' ἀπόλλυμι 'destroy, ruin' — strong verb. Per uW = 'kill him.' Thai 'กำจัด' (eliminate) + 'เสีย' (finalized/accomplished-action particle) captures the plot's lethal intent without being coarse. First passion-foreshadowing by active human agency in Mark (after 2:20's bridegroom-taken hint)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ὅσα ἐὰν βλασφημήσωσιν": {
+      "primary_thai": "ไม่ว่าพวกเขาจะหมิ่นประมาทสิ่งใด",
+      "all_renderings": {
+        "ไม่ว่าพวกเขาจะหมิ่นประมาทสิ่งใด": [
+          {
+            "verse": "Mark 3:28",
+            "rationale": "Indefinite 'whatever they may blaspheme.' Per uW: potentially redundant in some languages; Thai 'ไม่ว่า...สิ่งใด' (no matter what) keeps the indefinite force."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ὅσον χρόνον": {
+      "primary_thai": "ตราบที่",
+      "all_renderings": {
+        "ตราบที่": [
+          {
+            "verse": "Mark 2:19",
+            "rationale": "'As long as.' Thai 'ตราบที่' = 'as long as / while.'"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ὅταν...ἐθεώρουν": {
+      "primary_thai": "ทุกครั้งที่...เห็น",
+      "all_renderings": {
+        "ทุกครั้งที่...เห็น": [
+          {
+            "verse": "Mark 3:11",
+            "rationale": "ὅταν + imperfect = iterative 'whenever (repeatedly).' Thai 'ทุกครั้งที่' (every-time-that) preserves the iterative force — this is habitual/repeated behavior, not a single incident."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ὅτε ἔδυ ὁ ἥλιος": {
       "primary_thai": "หลังดวงอาทิตย์ตกแล้ว",
       "all_renderings": {
@@ -1827,6 +4595,18 @@
       },
       "occurrences_count": 1
     },
+    "ὅτι": {
+      "primary_thai": "เพราะ",
+      "all_renderings": {
+        "เพราะ": [
+          {
+            "verse": "Mark 3:30",
+            "rationale": "Per uW: ὅτι here is causal, explaining why Jesus gave the vv.28–29 teaching. Thai 'เพราะ' (because) natural."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "Ὃς ἐφανερώθη ἐν σαρκί — MAJOR TEXTUAL VARIANT": {
       "primary_thai": "พระองค์ทรงปรากฏในเนื้อหนัง",
       "all_renderings": {
@@ -1834,6 +4614,18 @@
           {
             "verse": "1 Timothy 3:16",
             "rationale": "FAMOUS MANUSCRIPT VARIANT. SBLGNT reads Ὃς (relative pronoun 'he who') — attested by א* A* C* F G 33 81 365 1175 2344 syr^hmg cop. Byzantine/majority reads Θεός ('God') — א^c A^c C^2 D^c K L P Ψ 630 1241 1739 TR. A handful (D*, latt, ambst) read ὅ (neuter 'that which'). External evidence strongly favors Ὃς (earliest and best mss). Paleographic explanation: ΟC (relative pronoun) → ΘC̄ (nomen sacrum abbreviation for θεός) is a plausible scribal addition of a horizontal bar; the reverse change is harder to motivate. Theologically: the Byzantine reading ('God was manifested in the flesh') makes an explicit high-Christology statement; the critical reading ('He who was manifested in the flesh') leaves the subject a relative pronoun that grammatically has no antecedent — best explained as the opening of a quoted hymn fragment about Christ. Following SBLGNT: Ὃς. Thai 'พระองค์ทรงปรากฏ' = 'He was manifested' — ทรง preserves divine honorific (Christ is the subject)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Ὅτι": {
+      "primary_thai": "ทำไม",
+      "all_renderings": {
+        "ทำไม": [
+          {
+            "verse": "Mark 2:16",
+            "rationale": "Ὅτι here introduces an indirect/direct question (= διὰ τί 'why'). Thai 'ทำไม' (why)."
           }
         ]
       },
@@ -1858,6 +4650,30 @@
           {
             "verse": "1 Timothy 3:16",
             "rationale": "ὁράω aor. pass. = was seen (often 'appeared' in resurrection contexts — cf. 1 Cor 15:5-8). ἀγγέλοις dative of agent/indirect object — 'to/by angels.' ทรงปรากฏ (same verb as line 1 of hymn — deliberate lexical echo between 'appeared in flesh' and 'appeared to angels'). ทูตสวรรค์ = angels (Thai Christian standard; distinguishes from plain ทูต = human messenger)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ὥστε": {
+      "primary_thai": "เพราะฉะนั้น...จึง",
+      "all_renderings": {
+        "เพราะฉะนั้น...จึง": [
+          {
+            "verse": "Mark 2:28",
+            "rationale": "Inferential particle — conclusion drawn from v.27. Thai 'เพราะฉะนั้น...จึง' (therefore...thus)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ῥήξει...ἀπόλλυται": {
+      "primary_thai": "ทำให้...ฉีกขาด...เสียไปด้วยกัน",
+      "all_renderings": {
+        "ทำให้...ฉีกขาด...เสียไปด้วยกัน": [
+          {
+            "verse": "Mark 2:22",
+            "rationale": "Future ῥήξει 'will burst' + present ἀπόλλυται 'is destroyed.' Thai preserves the sequential disaster."
           }
         ]
       },
