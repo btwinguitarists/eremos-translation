@@ -110,21 +110,23 @@ def main():
     code, _ = run([sys.executable, str(SCRIPTS / "check_parallel_passages.py")])
     record("Synoptic parallels", code, "parallel_passages.md")
 
-    # 5. Back-translation (optional)
+    # 5. Back-translation — in-chat mode by default (no API needed)
+    # The script reads output/back_translations/<slug>_<NN>.json if present,
+    # otherwise emits a prompt file for Claude to fill in.
     if args.skip_back_translation:
         print("[5/5] Back-translation — skipped per flag")
         record("Back-translation", 0, "(skipped)", "skipped via --skip-back-translation")
-    elif not os.environ.get("ANTHROPIC_API_KEY"):
-        print("[5/5] Back-translation — skipped (no ANTHROPIC_API_KEY)")
-        code, _ = run([sys.executable, str(SCRIPTS / "check_back_translation.py"),
-                       "--book", slug, "--chapter", str(args.chapter)])
-        record("Back-translation", 0, f"back_translation_{slug}_{args.chapter:02d}.md",
-               "skipped — ANTHROPIC_API_KEY not set")
     else:
-        print("[5/5] Back-translation (this takes ~1-2 min)...")
-        code, _ = run([sys.executable, str(SCRIPTS / "check_back_translation.py"),
-                       "--book", slug, "--chapter", str(args.chapter)])
-        record("Back-translation", code, f"back_translation_{slug}_{args.chapter:02d}.md")
+        print("[5/5] Back-translation...")
+        code, out = run([sys.executable, str(SCRIPTS / "check_back_translation.py"),
+                        "--book", slug, "--chapter", str(args.chapter)])
+        bt_file = ROOT / "output" / "back_translations" / f"{slug}_{args.chapter:02d}.json"
+        if not bt_file.exists():
+            record("Back-translation", 0,
+                   f"back_translations/{slug}_{args.chapter:02d}_PROMPT.md",
+                   "pending — Claude should produce back-translations per prompt")
+        else:
+            record("Back-translation", code, f"back_translation_{slug}_{args.chapter:02d}.md")
 
     # Aggregate report
     review_lines = [

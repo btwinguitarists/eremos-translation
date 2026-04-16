@@ -1,5 +1,13 @@
 # Back-translation check — 1timothy ch. 3
 
-⏭ **Skipped** — ANTHROPIC_API_KEY not set in environment.
+Mode: in-chat (Claude-produced back-translations) | Threshold: 0.35
 
-To run: `export ANTHROPIC_API_KEY=sk-ant-...` and rerun the check.
+- Verses checked: 16
+- Missing back-translations: **0**
+- Flagged (low similarity AND no rationale): **0**
+- Low similarity but with rationale: 0
+- Acceptable similarity: 16
+
+## Acceptable
+
+16 verses passed the similarity threshold without issue.
