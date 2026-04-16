@@ -116,13 +116,30 @@ Combines all `output/translations/mark_XX.json` files into a single `~/EremosVer
 
 ### 6. Ship to Eremos
 
+**Critical ordering** — always branch from an up-to-date main and rebuild the bundle AFTER any pending PRs have merged. Otherwise you'll overwrite someone else's chapter in the bundle and lose verses in production.
+
 ```bash
 cd ~/EremosVercel2
+git checkout main
+git pull origin main                             # grab any recently-merged chapters
+python3 ~/thai-bible-ai/scripts/build_eremos_bundle.py    # rebuild bundle from ALL translated chapters
 git checkout -b feat/eremos-translation-mark-2
 git add server/data/eremos_translation.json
 git commit -m "feat: add Mark 2 to Eremos Translation bundle"
 git push -u origin feat/eremos-translation-mark-2
 gh pr create --title "feat: Eremos Translation — Mark 2" --body "<summary>"
+```
+
+**If your PR sits open while another chapter PR merges** — before merging yours, pull main into the branch, re-run `build_eremos_bundle.py`, and push the resolved bundle. The bundle is the one file always at risk of conflict.
+
+```bash
+# On an open feat branch when another chapter has merged to main:
+git fetch origin
+git merge origin/main                            # may conflict in eremos_translation.json
+python3 ~/thai-bible-ai/scripts/build_eremos_bundle.py    # regenerates with all chapters
+git add server/data/eremos_translation.json
+git commit -m "Merge main and rebuild bundle"
+git push
 ```
 
 Vercel auto-deploys the preview. Test by tapping verses in Mark 2. Merge when happy.
@@ -245,6 +262,22 @@ The Eremos bundle strips this down to:
   "notes": "..."
 }
 ```
+
+---
+
+## After merge: TestFlight
+
+When a translation PR merges to main, the Eremos app on the web updates automatically via Vercel. For the iOS app (TestFlight), a separate build is needed. See `~/.claude/projects/-Users-benvanscyoc/memory/reference_appstoreconnect.md` for the full pipeline.
+
+Quick version:
+```bash
+# 1. Bump CURRENT_PROJECT_VERSION in ios/App/App.xcodeproj/project.pbxproj (both Debug/Release)
+# 2. npm run build && npx cap sync ios
+# 3. xcodebuild archive → xcodebuild exportArchive → xcrun altool --upload-app
+# 4. Commit the pbxproj bump, push to main
+```
+
+This is done once per batch of chapter merges — not per chapter. Ben explicitly confirms before each TestFlight upload per his deployment rule.
 
 ---
 
