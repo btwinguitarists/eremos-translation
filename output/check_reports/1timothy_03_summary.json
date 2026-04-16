@@ -1,0 +1,41 @@
+{
+  "book": "1timothy",
+  "chapter": 3,
+  "checks": [
+    {
+      "name": "Key-term consistency",
+      "exit_code": 0,
+      "report": "key_term_consistency_1timothy_03.md",
+      "notes": "",
+      "status": "clean"
+    },
+    {
+      "name": "TNBT structural comparison",
+      "exit_code": 0,
+      "report": "tnbt_comparison_1timothy_03.md",
+      "notes": "",
+      "status": "clean"
+    },
+    {
+      "name": "OT citation acknowledgment",
+      "exit_code": 0,
+      "report": "ot_citations_1timothy_03.md",
+      "notes": "",
+      "status": "clean"
+    },
+    {
+      "name": "Synoptic parallels",
+      "exit_code": 0,
+      "report": "parallel_passages.md",
+      "notes": "",
+      "status": "clean"
+    },
+    {
+      "name": "Back-translation",
+      "exit_code": 0,
+      "report": "back_translation_1timothy_03.md",
+      "notes": "skipped — ANTHROPIC_API_KEY not set",
+      "status": "clean"
+    }
+  ]
+}

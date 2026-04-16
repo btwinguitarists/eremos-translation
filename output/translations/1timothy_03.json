@@ -1,0 +1,300 @@
+[
+  {
+    "reference": "1 Timothy 3:1",
+    "chapter": 3,
+    "verse": 1,
+    "greek": "Πιστὸς ὁ λόγος·εἴ τις ἐπισκοπῆς ὀρέγεται,καλοῦ ἔργου ἐπιθυμεῖ.",
+    "bsb_english": "This is a trustworthy saying: If anyone aspires to be an overseer, he desires a noble task.",
+    "translation": {
+      "thai": "ถ้อยคำนี้เชื่อถือได้ คือ ถ้าผู้ใดมุ่งหวังตำแหน่งผู้ปกครองดูแล เขาก็ปรารถนางานอันดี",
+      "key_decisions": [
+        {"greek": "Πιστὸς ὁ λόγος", "thai": "ถ้อยคำนี้เชื่อถือได้", "rationale": "Formulaic phrase appearing 5x in the Pastorals (1 Tim 1:15; 3:1; 4:9; 2 Tim 2:11; Tit 3:8). Establishing 'ถ้อยคำนี้เชื่อถือได้' as the consistent Thai rendering for all five occurrences. The saying here points forward to 'if anyone aspires...' (majority view), not backward to 2:15."},
+        {"greek": "ἐπισκοπῆς", "thai": "ตำแหน่งผู้ปกครองดูแล", "rationale": "ἐπισκοπή = the office/role of ἐπίσκοπος. From ἐπι- (over) + σκοπέω (watch/oversee). ผู้ปกครองดูแล captures both governance and care — avoiding both bare transliteration (บิชอป) and reduction to mere 'pastor' (ศิษยาภิบาล, which is a different word)."},
+        {"greek": "ὀρέγεται (pres. mid.)", "thai": "มุ่งหวัง", "rationale": "ὀρέγομαι = reach out for, aspire to. Middle voice conveys personal investment. มุ่งหวัง = set one's aim on, aspire — preserves the active reaching sense."},
+        {"greek": "καλοῦ ἔργου ἐπιθυμεῖ", "thai": "ปรารถนางานอันดี", "rationale": "ἐπιθυμέω = desire, long for. καλός = noble, good, fine — here describing the moral worth of the work, not mere utility. งานอันดี captures both senses."}
+      ],
+      "notes": "MINOR VARIANT: A few Western witnesses (e.g., D*, a few Latin) read πιστὸς ἀνθρώπινος ὁ λόγος ('the saying is a human one' / 'commonly accepted'). SBLGNT and NA28 read πιστὸς ὁ λόγος. No substantive theological difference; following SBLGNT. STRUCTURAL CHOICE: Following modern critical opinion that the 'trustworthy saying' formula points FORWARD to the overseer qualifications, not backward to 2:15."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "1 Timothy 3:2",
+    "chapter": 3,
+    "verse": 2,
+    "greek": "δεῖ οὖν τὸν ἐπίσκοπον ἀνεπίλημπτον εἶναι,μιᾶς γυναικὸς ἄνδρα,νηφάλιον,σώφρονα,κόσμιον,φιλόξενον,διδακτικόν,",
+    "bsb_english": "An overseer, then, must be above reproach, the husband of but one wife, temperate, self-controlled, respectable, hospitable, able to teach,",
+    "translation": {
+      "thai": "เหตุฉะนั้น ผู้ปกครองดูแลต้องเป็นคนไม่มีข้อตำหนิ เป็นสามีของภรรยาเพียงคนเดียว รู้จักประมาณตน มีสติสัมปชัญญะ สง่าน่านับถือ มีน้ำใจต้อนรับแขก และชำนาญในการสอน",
+      "key_decisions": [
+        {"greek": "ἐπίσκοπον", "thai": "ผู้ปกครองดูแล", "rationale": "Consistent with v.1 ἐπισκοπή. Same word without the suffix — describes the person, not the office."},
+        {"greek": "ἀνεπίλημπτον", "thai": "ไม่มีข้อตำหนิ", "rationale": "ἀνεπίλημπτος = not able to be laid hold of (for accusation) — irreproachable. ไม่มีข้อตำหนิ = without blemish/fault — common Thai for 'above reproach.'"},
+        {"greek": "μιᾶς γυναικὸς ἄνδρα", "thai": "สามีของภรรยาเพียงคนเดียว", "rationale": "FAMOUS CRUX. Literal: 'of one wife a husband.' Four main interpretations: (1) monogamous (not polygamous), (2) not divorced and remarried, (3) married only once (even after widowhood), (4) marital fidelity. Modern majority: (4) faithfulness to one's wife — but the literal Thai 'สามีของภรรยาเพียงคนเดียว' preserves the genuine ambiguity rather than committing to one reading."},
+        {"greek": "νηφάλιον", "thai": "รู้จักประมาณตน", "rationale": "νηφάλιος = sober (not drunk, by extension temperate in all things). รู้จักประมาณตน = 'know one's measure' — standard Thai for temperance/moderation."},
+        {"greek": "σώφρονα", "thai": "มีสติสัมปชัญญะ", "rationale": "σώφρων = self-controlled, of sound mind, prudent. Distinct from νηφάλιος (which emphasizes sobriety); σώφρων emphasizes disciplined mindfulness. มีสติสัมปชัญญะ = possessing mindfulness and self-awareness."},
+        {"greek": "κόσμιον", "thai": "สง่าน่านับถือ", "rationale": "κόσμιος = orderly, well-behaved, respectable. NT hapax-pair (only 1 Tim 2:9 elsewhere, of women's dress). สง่าน่านับถือ = dignified and worthy of respect."},
+        {"greek": "φιλόξενον", "thai": "มีน้ำใจต้อนรับแขก", "rationale": "Compound φίλος + ξένος = lover of strangers/guests. Thai idiom 'มีน้ำใจต้อนรับแขก' = has goodwill to receive guests — captures the hospitality of the ancient world (essential in pre-inn Roman empire)."},
+        {"greek": "διδακτικόν", "thai": "ชำนาญในการสอน", "rationale": "διδακτικός = skilled/apt in teaching. Very rare word (NT only here and 2 Tim 2:24). ชำนาญในการสอน = skilled in teaching — the aptitude/capacity, not just willingness."}
+      ],
+      "notes": "INTERPRETIVE CRUX (μιᾶς γυναικὸς ἄνδρα): see key_decisions. LEXICAL RARITY: κόσμιος (2x NT) and διδακτικός (2x NT) are not hapax legomena but are near-rare; both appear only in the Pastorals."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "1 Timothy 3:3",
+    "chapter": 3,
+    "verse": 3,
+    "greek": "μὴ πάροινον,μὴ πλήκτην,ἀλλὰ ἐπιεικῆ,ἄμαχον,ἀφιλάργυρον,",
+    "bsb_english": "not dependent on wine, not violent but gentle, peaceable, and free of the love of money.",
+    "translation": {
+      "thai": "ไม่ติดสุรา ไม่ใช้ความรุนแรง แต่เป็นคนสุภาพอ่อนโยน ไม่ชอบทะเลาะวิวาท ไม่เห็นแก่เงิน",
+      "key_decisions": [
+        {"greek": "πάροινον", "thai": "ติดสุรา", "rationale": "πάροινος = lit. 'beside wine' — given to wine, addicted. ติดสุรา = addicted to alcohol. Preserves the intensity (not just drinks, but is controlled by drink)."},
+        {"greek": "πλήκτην", "thai": "ใช้ความรุนแรง", "rationale": "πλήκτης (from πλήσσω 'to strike') = a striker, bully, violent person. Noun describing habitual violence. ใช้ความรุนแรง = uses violence — captures the behavioral pattern."},
+        {"greek": "ἐπιεικῆ", "thai": "สุภาพอ่อนโยน", "rationale": "ἐπιεικής = gentle, reasonable, fair-minded — yielding rather than insisting on strict rights. Classical virtue term. สุภาพอ่อนโยน = polite and gentle — captures the relational softness."},
+        {"greek": "ἄμαχον", "thai": "ไม่ชอบทะเลาะวิวาท", "rationale": "ἄμαχος = not quarrelsome/combative. Privative ἀ- + μάχομαι (fight). ไม่ชอบทะเลาะวิวาท = does not enjoy quarreling — dispositional, not just behavioral."},
+        {"greek": "ἀφιλάργυρον", "thai": "ไม่เห็นแก่เงิน", "rationale": "ἀφιλάργυρος = not a lover of money. Privative ἀ- + φίλος + ἄργυρος (silver/money). ไม่เห็นแก่เงิน = not self-serving for money — standard Thai for freedom from greed."}
+      ]
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "1 Timothy 3:4",
+    "chapter": 3,
+    "verse": 4,
+    "greek": "τοῦ ἰδίου οἴκου καλῶς προϊστάμενον,τέκνα ἔχοντα ἐν ὑποταγῇ μετὰ πάσης σεμνότητος·",
+    "bsb_english": "An overseer must manage his own household well and keep his children under control, with complete dignity.",
+    "translation": {
+      "thai": "จัดการครอบครัวของตนเองได้ดี มีลูกที่อยู่ในโอวาทด้วยความเคารพอย่างเต็มที่",
+      "key_decisions": [
+        {"greek": "τοῦ ἰδίου οἴκου", "thai": "ครอบครัวของตนเอง", "rationale": "ἴδιος = one's own (emphatic). οἶκος = household (not just house/building, but the whole family unit). ครอบครัวของตนเอง = one's own family/household."},
+        {"greek": "προϊστάμενον (pres. mid. ptcp)", "thai": "จัดการ...ได้ดี", "rationale": "προΐστημι = preside over, manage, lead. Middle voice with a note of personal responsibility. จัดการ = manage — same verb as v.5 προστῆναι for consistency."},
+        {"greek": "τέκνα ἔχοντα ἐν ὑποταγῇ", "thai": "มีลูกที่อยู่ในโอวาท", "rationale": "ὑποταγή = submission, obedience. อยู่ในโอวาท = under instruction/discipline — standard Thai for well-ordered household children."},
+        {"greek": "μετὰ πάσης σεμνότητος", "thai": "ด้วยความเคารพอย่างเต็มที่", "rationale": "AMBIGUOUS REFERENCE: does 'with all dignity/respect' modify (a) the father's manner of managing, or (b) the children's mode of submission? Grammatically it follows τέκνα ἔχοντα ἐν ὑποταγῇ so most naturally attaches to the children's submission. Thai preserves the construction so the ambiguity remains."}
+      ],
+      "notes": "INTERPRETIVE NUANCE: μετὰ πάσης σεμνότητος could belong to either the overseer (his dignified manner of rule) or the children (their respectful submission). Thai placement preserves both readings; most commentators take it with the children but the alternative is live."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "1 Timothy 3:5",
+    "chapter": 3,
+    "verse": 5,
+    "greek": "εἰ δέ τις τοῦ ἰδίου οἴκου προστῆναι οὐκ οἶδεν,πῶς ἐκκλησίας θεοῦ ἐπιμελήσεται",
+    "bsb_english": "For if someone does not know how to manage his own household, how can he care for the church of God?",
+    "translation": {
+      "thai": "เพราะถ้าผู้ใดไม่รู้จักจัดการครอบครัวของตนเอง เขาจะดูแลคริสตจักรของพระเจ้าได้อย่างไร",
+      "key_decisions": [
+        {"greek": "προστῆναι (aor. inf.)", "thai": "จัดการ", "rationale": "Same verb as προϊστάμενον in v.4, here in infinitive. Kept consistent Thai rendering: จัดการ."},
+        {"greek": "ἐπιμελήσεται (fut. mid.)", "thai": "ดูแล", "rationale": "ἐπιμελέομαι = take care of, tend to. Future middle — expresses deliberate, settled care. Different verb from προΐστημι (v.4) — Paul shifts from 'manage' (household) to 'care for' (church), emphasizing the pastoral heart. ดูแล captures the caring/tending sense."},
+        {"greek": "ἐκκλησίας θεοῦ", "thai": "คริสตจักรของพระเจ้า", "rationale": "Standard Thai biblical rendering. ἐκκλησία here = the assembled people of God (not the building). คริสตจักร = the established Thai Christian term."}
+      ],
+      "notes": "LEXICAL NUANCE: Paul uses two different verbs — προΐστημι (v.4, rule/manage) and ἐπιμελέομαι (v.5, care for/tend) — subtly elevating the pastoral vocation above mere household management. Thai uses distinct verbs to preserve the progression."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "1 Timothy 3:6",
+    "chapter": 3,
+    "verse": 6,
+    "greek": "μὴ νεόφυτον,ἵνα μὴ τυφωθεὶς εἰς κρίμα ἐμπέσῃ τοῦ διαβόλου.",
+    "bsb_english": "He must not be a recent convert, or he may become conceited and fall under the same condemnation as the devil.",
+    "translation": {
+      "thai": "ต้องไม่ใช่ผู้ที่เพิ่งเชื่อใหม่ เกรงว่าเขาจะหยิ่งผยองแล้วตกอยู่ในการพิพากษาเดียวกันกับมาร",
+      "key_decisions": [
+        {"greek": "νεόφυτον (HAPAX)", "thai": "ผู้ที่เพิ่งเชื่อใหม่", "rationale": "HAPAX LEGOMENON. Compound νέος (new) + φυτεύω (plant) — 'newly planted.' Classical/LXX usage refers to young plants (cf. Ps 127:3 LXX, Job 14:9). Paul's first known metaphorical application to converts. ผู้ที่เพิ่งเชื่อใหม่ = 'one who has just newly believed' — standard Thai for recent convert."},
+        {"greek": "τυφωθεὶς (aor. pass. ptcp)", "thai": "หยิ่งผยอง", "rationale": "τυφόω = lit. 'to fill with smoke/fog,' metaphorically 'be puffed up with conceit, blinded by pride.' Rare metaphorical usage (3x NT, all in Pastorals: here, 6:4, 2 Tim 3:4). หยิ่งผยอง = haughty/proud — captures the inflated self-regard."},
+        {"greek": "εἰς κρίμα ἐμπέσῃ τοῦ διαβόλου", "thai": "ตกอยู่ในการพิพากษาเดียวกันกับมาร", "rationale": "INTERPRETIVE CRUX: τοῦ διαβόλου (genitive) can be (a) genitive of source/comparison — 'the same condemnation that fell on the devil' (= because of pride, cf. Isa 14, Ezek 28 traditions), or (b) subjective genitive of agent — 'condemnation brought about by the devil.' The v.7 parallel 'παγίδα τοῦ διαβόλου' (trap of the devil) is clearly (b). But here, the preceding 'puffed up' parallels Satan's pride, which supports (a). BSB chooses (a); following BSB and majority view. Thai 'เดียวกันกับมาร' = 'the same as the devil.'"},
+        {"greek": "τοῦ διαβόλου", "thai": "มาร", "rationale": "ὁ διάβολος with definite article = The Devil (personal). มาร = standard Thai Christian term for Satan/the devil."}
+      ],
+      "notes": "HAPAX: νεόφυτος (3:6). Meaning secure from LXX and classical agricultural usage; Paul pioneers the metaphorical application to new believers. INTERPRETIVE CRUX: 'κρίμα...τοῦ διαβόλου' — subjective genitive of source vs. agent. Majority view: source (same judgment that fell on the proud devil); preserved in Thai."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "1 Timothy 3:7",
+    "chapter": 3,
+    "verse": 7,
+    "greek": "δεῖ δὲ καὶ μαρτυρίαν καλὴν ἔχειν ἀπὸ τῶν ἔξωθεν,ἵνα μὴ εἰς ὀνειδισμὸν ἐμπέσῃ καὶ παγίδα τοῦ διαβόλου.",
+    "bsb_english": "Furthermore, he must have a good reputation with outsiders, so that he will not fall into disgrace and into the snare of the devil.",
+    "translation": {
+      "thai": "ยิ่งกว่านั้น เขาต้องเป็นที่พูดถึงในทางดีจากคนภายนอกด้วย เกรงว่าจะตกอยู่ในความอับอายและบ่วงของมาร",
+      "key_decisions": [
+        {"greek": "μαρτυρίαν καλὴν", "thai": "เป็นที่พูดถึงในทางดี", "rationale": "μαρτυρία = testimony, witness. Here figurative: the report/reputation people give about someone. เป็นที่พูดถึงในทางดี = 'is spoken of in a good way' — idiomatic Thai for a good reputation (rather than literal 'has good witness')."},
+        {"greek": "ἀπὸ τῶν ἔξωθεν", "thai": "จากคนภายนอก", "rationale": "οἱ ἔξωθεν = those on the outside (i.e., non-Christians; cf. 1 Cor 5:12-13). คนภายนอก = outsiders — Thai Christian idiom preserves the insider/outsider distinction."},
+        {"greek": "ὀνειδισμὸν", "thai": "ความอับอาย", "rationale": "ὀνειδισμός = reproach, disgrace, public shame. ความอับอาย = shame — captures the social disgrace dimension."},
+        {"greek": "παγίδα τοῦ διαβόλου", "thai": "บ่วงของมาร", "rationale": "παγίς = trap, snare (for birds/animals). τοῦ διαβόλου here clearly subjective genitive of agent — 'trap set by the devil.' บ่วงของมาร = 'snare of the devil' — preserves both the trap imagery and the agency."}
+      ],
+      "notes": "STRUCTURAL PARALLEL: Two 'lest he fall into...' warnings (vv.6 and 7) bracket the character requirement, the first about Satan's condemnation, the second about Satan's trap."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "1 Timothy 3:8",
+    "chapter": 3,
+    "verse": 8,
+    "greek": "Διακόνους ὡσαύτως σεμνούς,μὴ διλόγους,μὴ οἴνῳ πολλῷ προσέχοντας,μὴ αἰσχροκερδεῖς,",
+    "bsb_english": "Deacons likewise must be dignified, not double-tongued or given to much wine or greedy for money.",
+    "translation": {
+      "thai": "เช่นเดียวกัน มัคนายกต้องเป็นผู้น่าเคารพ ไม่พูดสองลิ้น ไม่ติดเหล้า ไม่โลภในกำไรที่น่าอาย",
+      "key_decisions": [
+        {"greek": "Διακόνους", "thai": "มัคนายก", "rationale": "διάκονος = servant, minister; NT technical term for deacon. มัคนายก = standard Thai Christian term (Sanskrit-derived, from mākhanā-yaka)."},
+        {"greek": "ὡσαύτως", "thai": "เช่นเดียวกัน", "rationale": "ὡσαύτως = likewise, in the same manner. Formulaic connector to the previous section's qualifications. เช่นเดียวกัน = 'in the same way' — same rendering consistently."},
+        {"greek": "σεμνούς", "thai": "น่าเคารพ", "rationale": "σεμνός = worthy of respect, dignified, honorable. Different root from σεμνότης in v.4 (same root). น่าเคารพ = deserving of respect."},
+        {"greek": "διλόγους (HAPAX)", "thai": "พูดสองลิ้น", "rationale": "HAPAX LEGOMENON. Compound δίς (twice) + λόγος (word) — lit. 'two-worded' / 'double-talking.' Meaning: saying one thing to one person, another to another; insincere speech. Thai idiom 'พูดสองลิ้น' = 'speaks with two tongues' — a perfect idiomatic match for 'double-tongued.'"},
+        {"greek": "οἴνῳ πολλῷ προσέχοντας", "thai": "ติดเหล้า", "rationale": "Lit. 'giving attention to much wine' — addicted. Same semantic field as πάροινος in v.3 but with 'much' emphasis. ติดเหล้า = addicted to alcohol. Note: πάροινον (v.3) and this phrase are conceptually overlapping; I use ติดสุรา for the overseer (more formal register, for the higher office) and ติดเหล้า here (slightly less formal, same meaning)."},
+        {"greek": "αἰσχροκερδεῖς", "thai": "โลภในกำไรที่น่าอาย", "rationale": "αἰσχροκερδής = greedy for shameful gain. Compound αἰσχρός (shameful) + κέρδος (gain). Rare word (2x NT, only in Pastorals). โลภในกำไรที่น่าอาย = 'greedy for profit that is shameful' — preserves the ethical stigma."}
+      ],
+      "notes": "HAPAX: δίλογος (3:8). Classical usage sparse but meaning secure. Thai 'พูดสองลิ้น' is a felicitous idiomatic match."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "1 Timothy 3:9",
+    "chapter": 3,
+    "verse": 9,
+    "greek": "ἔχοντας τὸ μυστήριον τῆς πίστεως ἐν καθαρᾷ συνειδήσει.",
+    "bsb_english": "They must hold to the mystery of the faith with a clear conscience.",
+    "translation": {
+      "thai": "ยึดถือข้อล้ำลึกแห่งความเชื่อด้วยจิตสำนึกที่บริสุทธิ์",
+      "key_decisions": [
+        {"greek": "ἔχοντας (pres. act. ptcp)", "thai": "ยึดถือ", "rationale": "ἔχω + abstract object = hold to, maintain. Not mere possession but adherence. ยึดถือ = hold fast to, adhere to."},
+        {"greek": "τὸ μυστήριον τῆς πίστεως", "thai": "ข้อล้ำลึกแห่งความเชื่อ", "rationale": "μυστήριον = sacred mystery — a truth once hidden, now revealed (Pauline sense; cf. Eph 3:3-6). ข้อล้ำลึก = established Thai Christian term for μυστήριον. Genitive 'of the faith' = the content believed (objective genitive)."},
+        {"greek": "καθαρᾷ συνειδήσει", "thai": "จิตสำนึกที่บริสุทธิ์", "rationale": "καθαρός = pure, clean. συνείδησις = conscience (self-awareness of moral state). Key Pauline term. จิตสำนึก = conscience (literally 'heart-knowledge/awareness'); บริสุทธิ์ = pure/clean (same term as for Holy Spirit, though semantically lower intensity here)."}
+      ],
+      "notes": "KEY TERM ESTABLISHED: μυστήριον → ข้อล้ำลึก (same rendering used in v.16). συνείδησις → จิตสำนึก — noting for future chapters."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "1 Timothy 3:10",
+    "chapter": 3,
+    "verse": 10,
+    "greek": "καὶ οὗτοι δὲ δοκιμαζέσθωσαν πρῶτον,εἶτα διακονείτωσαν ἀνέγκλητοι ὄντες.",
+    "bsb_english": "Additionally, they must first be tested. Then, if they are above reproach, let them serve as deacons.",
+    "translation": {
+      "thai": "ให้ทดสอบคนเหล่านี้ก่อน แล้วถ้าพวกเขาไม่มีข้อตำหนิ ก็ให้เขารับใช้ในตำแหน่งมัคนายก",
+      "key_decisions": [
+        {"greek": "δοκιμαζέσθωσαν (3pl. pres. pass. impv.)", "thai": "ให้ทดสอบ", "rationale": "δοκιμάζω = test, examine, prove. Present passive imperative — ongoing/standard practice. ให้ทดสอบ = 'let them be tested' (Thai imperative construction)."},
+        {"greek": "διακονείτωσαν (3pl. pres. act. impv.)", "thai": "ให้เขารับใช้ในตำแหน่งมัคนายก", "rationale": "διακονέω = serve, carry out the διακονία (deaconate). Cognate with διάκονος. 'Serve in the office of deacon' — expanding the single verb to clarify that this is deaconal service."},
+        {"greek": "ἀνέγκλητοι ὄντες", "thai": "ถ้าพวกเขาไม่มีข้อตำหนิ", "rationale": "ἀνέγκλητος = unaccused, blameless. Near-synonym of ἀνεπίλημπτος in v.2, rendered here with the same Thai 'ไม่มีข้อตำหนิ' for consistency. ὄντες (pres. ptcp) expresses condition: 'being [found] blameless.'"}
+      ],
+      "notes": "KEY-TERM CONSISTENCY: ἀνέγκλητος (v.10) and ἀνεπίλημπτος (v.2) are both rendered 'ไม่มีข้อตำหนิ' — they are semantic near-synonyms and Thai lacks a natural distinction; noted to avoid a false positive in the consistency audit."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "1 Timothy 3:11",
+    "chapter": 3,
+    "verse": 11,
+    "greek": "γυναῖκας ὡσαύτως σεμνάς,μὴ διαβόλους,νηφαλίους,πιστὰς ἐν πᾶσιν.",
+    "bsb_english": "In the same way, the women must be dignified, not slanderers, but temperate and faithful in all things.",
+    "translation": {
+      "thai": "หญิงก็เช่นเดียวกัน ต้องเป็นผู้น่าเคารพ ไม่เป็นคนชอบใส่ร้าย รู้จักประมาณตน และซื่อสัตย์ในทุกเรื่อง",
+      "key_decisions": [
+        {"greek": "γυναῖκας", "thai": "หญิง", "rationale": "MAJOR INTERPRETIVE CRUX. γυνή can mean either (a) women, (b) wives. Three main views for this verse: (1) wives of deacons (conservative; sandwich between deacon qualifications supports), (2) women deacons/deaconesses (parallel ὡσαύτως with v.8 suggests new category; Phoebe is διάκονος in Rom 16:1), (3) women in general in the congregation. The Greek lacks any possessive pronoun (αὐτῶν 'their') that would signal 'wives.' BSB renders ambiguously 'the women'; NIV 'the women / their wives'; ESV interprets as 'their wives.' Following SBLGNT/BSB neutrality: rendered as หญิง (women) without possessive. The reader/interpreter must decide."},
+        {"greek": "σεμνάς", "thai": "น่าเคารพ", "rationale": "Feminine pl. of σεμνός (v.8). Same Thai rendering for consistency."},
+        {"greek": "διαβόλους (adjectival)", "thai": "ชอบใส่ร้าย", "rationale": "διάβολος here is ADJECTIVAL/NOUN (plural, feminine agreeing with γυναῖκας) = slanderers/slanderous. Same root as ὁ διάβολος in vv.6-7 (the Devil = The Slanderer) but used as a common noun/adjective here. ชอบใส่ร้าย = 'fond of slandering' — the habit, not the Devil."},
+        {"greek": "νηφαλίους", "thai": "รู้จักประมาณตน", "rationale": "Feminine pl. of νηφάλιος (v.2). Same Thai rendering for consistency."},
+        {"greek": "πιστὰς ἐν πᾶσιν", "thai": "ซื่อสัตย์ในทุกเรื่อง", "rationale": "πιστός = faithful, trustworthy (here feminine). ἐν πᾶσιν = 'in all things' (neuter plural — 'in all matters,' not 'among all people'). ซื่อสัตย์ในทุกเรื่อง = 'faithful in all matters.'"}
+      ],
+      "notes": "MAJOR INTERPRETIVE CRUX: γυναῖκας in v.11. Three views: (1) wives of deacons, (2) women deacons, (3) women generally. Modern scholarship leans toward (2) women deacons — based on (a) no αὐτῶν ('their') possessive, (b) parallel ὡσαύτως pattern with 'διακόνους ὡσαύτως' in v.8 introducing a new office category, (c) 'πιστὰς ἐν πᾶσιν' echoes deacon qualifications, (d) archaeological/patristic evidence for women deacons in the early church (Phoebe in Rom 16:1 is διάκονος). But context is sandwiched between male-deacon instructions, which supports (1). Translation deliberately preserves neutrality with 'หญิง.' Translator decision document recommended if a firmer choice is preferred. KEY-TERM NOTE: διάβολος used in TWO senses in the chapter — as proper noun 'The Devil' (vv.6-7) rendered มาร, and as common noun 'slanderer' here, rendered ชอบใส่ร้าย. Both documented to avoid false consistency flag."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "1 Timothy 3:12",
+    "chapter": 3,
+    "verse": 12,
+    "greek": "διάκονοι ἔστωσαν μιᾶς γυναικὸς ἄνδρες,τέκνων καλῶς προϊστάμενοι καὶ τῶν ἰδίων οἴκων·",
+    "bsb_english": "A deacon must be the husband of but one wife, a good manager of his children and of his own household.",
+    "translation": {
+      "thai": "มัคนายกต้องเป็นสามีของภรรยาเพียงคนเดียว จัดการลูกและครอบครัวของตนเองได้ดี",
+      "key_decisions": [
+        {"greek": "ἔστωσαν (3pl. pres. impv. of εἰμί)", "thai": "ต้องเป็น", "rationale": "Third-person plural imperative of 'to be' — 'let them be' / 'they must be.' Thai imperative with ต้อง."},
+        {"greek": "μιᾶς γυναικὸς ἄνδρες", "thai": "สามีของภรรยาเพียงคนเดียว", "rationale": "Same phrase as v.2 (but plural here). Same Thai rendering for consistency — preserving the same four-way interpretive ambiguity documented in v.2."},
+        {"greek": "τέκνων...προϊστάμενοι", "thai": "จัดการลูก...ได้ดี", "rationale": "Same προΐστημι verb as vv.4-5. Consistent rendering: จัดการ. Note that here both children AND household are objects (vs. v.4 where household is primary)."},
+        {"greek": "καλῶς", "thai": "ได้ดี", "rationale": "Adverb 'well.' ได้ดี — Thai verbal adverbial."},
+        {"greek": "τῶν ἰδίων οἴκων", "thai": "ครอบครัวของตนเอง", "rationale": "Same phrase as v.4 (genitive here object of προϊστάμενοι). Consistent rendering."}
+      ]
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "1 Timothy 3:13",
+    "chapter": 3,
+    "verse": 13,
+    "greek": "οἱ γὰρ καλῶς διακονήσαντες βαθμὸν ἑαυτοῖς καλὸν περιποιοῦνται καὶ πολλὴν παρρησίαν ἐν πίστει τῇ ἐν Χριστῷ Ἰησοῦ.",
+    "bsb_english": "For those who have served well as deacons acquire for themselves a high standing and great confidence in the faith that is in Christ Jesus.",
+    "translation": {
+      "thai": "เพราะคนเหล่านั้นที่ได้ปฏิบัติหน้าที่มัคนายกอย่างดี ก็จะได้ตำแหน่งอันดีสำหรับตนเอง และความกล้าหาญอย่างยิ่งในความเชื่อที่อยู่ในพระเยซูคริสต์",
+      "key_decisions": [
+        {"greek": "διακονήσαντες (aor. act. ptcp)", "thai": "ได้ปฏิบัติหน้าที่มัคนายก", "rationale": "Aorist participle — completed service. Consistent with v.10 διακονέω rendered as รับใช้ในตำแหน่งมัคนายก. Here slightly expanded to 'ได้ปฏิบัติหน้าที่มัคนายก' (carried out the duty of deacon) to preserve the past-completive sense."},
+        {"greek": "βαθμὸν...καλὸν (HAPAX)", "thai": "ตำแหน่งอันดี", "rationale": "HAPAX LEGOMENON. βαθμός = step, grade, rank, standing. Classical usage: step of a staircase, military rank. Metaphorically here: 'a good standing/position.' Debated meanings: (a) advancement in ecclesiastical rank (but no hierarchy evident in early church), (b) spiritual maturity / firm foothold in faith, (c) high esteem among the community. Majority view: 'good standing' (general reputation plus spiritual maturity). ตำแหน่งอันดี = 'a good standing/position' — preserves the ambiguity between reputation and spiritual advancement."},
+        {"greek": "περιποιοῦνται (pres. mid.)", "thai": "จะได้...สำหรับตนเอง", "rationale": "περιποιέομαι (middle) = acquire for oneself, gain. Middle voice self-referential force preserved with 'สำหรับตนเอง' (for themselves)."},
+        {"greek": "πολλὴν παρρησίαν", "thai": "ความกล้าหาญอย่างยิ่ง", "rationale": "παρρησία = frankness, boldness, confidence (originally 'speaking all' — candor in speech). In Christian usage: confident access/standing before God or freedom of expression in witness. ความกล้าหาญอย่างยิ่ง = great boldness — preserves the courage dimension."},
+        {"greek": "ἐν πίστει τῇ ἐν Χριστῷ Ἰησοῦ", "thai": "ในความเชื่อที่อยู่ในพระเยซูคริสต์", "rationale": "Double ἐν: 'in faith, the [faith] that is in Christ Jesus.' The article τῇ specifies which faith — the one that is in Christ. ความเชื่อที่อยู่ในพระเยซูคริสต์ = 'the faith that is in Christ Jesus.' πίστις could be (a) the subjective act of believing, or (b) the objective content believed (as in v.9 μυστήριον τῆς πίστεως). Here likely (a) — confident faith with its sphere being Christ."}
+      ],
+      "notes": "HAPAX: βαθμός (3:13). Classical meaning secure (step, rank). Interpretive ambiguity: whether the 'good standing' is ecclesial, spiritual, or reputational. Thai preserves generality. LEXICAL NOTE: παρρησία is a rich Pauline/Johannine term; rendered here ความกล้าหาญ but in other contexts may warrant different Thai (e.g., ความมั่นใจ for 'confidence before God')."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "1 Timothy 3:14",
+    "chapter": 3,
+    "verse": 14,
+    "greek": "Ταῦτά σοι γράφω,ἐλπίζων ἐλθεῖν πρὸς σὲ ἐν τάχει,",
+    "bsb_english": "Although I hope to come to you soon, I am writing you these things",
+    "translation": {
+      "thai": "ข้าพเจ้าเขียนสิ่งเหล่านี้ถึงท่าน ขณะที่หวังว่าจะมาหาท่านโดยเร็ว",
+      "key_decisions": [
+        {"greek": "Ταῦτά σοι γράφω", "thai": "ข้าพเจ้าเขียนสิ่งเหล่านี้ถึงท่าน", "rationale": "Paul (ἐγώ implied) to Timothy (σοι). Register: Paul → Timothy is human-to-human, affectionate but formal (Paul is Timothy's mentor/father-in-faith). ข้าพเจ้า = formal/humble 'I'; ท่าน = respectful 'you.' No ราชาศัพท์ (that's reserved for divine subjects)."},
+        {"greek": "ἐλπίζων (pres. act. ptcp)", "thai": "ขณะที่หวังว่า", "rationale": "Present participle of concurrent circumstance: 'while hoping.' ขณะที่ = 'while / at the time that' — preserves the contemporaneity."},
+        {"greek": "ἐν τάχει", "thai": "โดยเร็ว", "rationale": "ἐν τάχει = 'in/with speed' — soon, quickly. โดยเร็ว = standard Thai for 'soon/quickly.'"}
+      ]
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "1 Timothy 3:15",
+    "chapter": 3,
+    "verse": 15,
+    "greek": "ἐὰν δὲ βραδύνω,ἵνα εἰδῇς πῶς δεῖ ἐν οἴκῳ θεοῦ ἀναστρέφεσθαι,ἥτις ἐστὶν ἐκκλησία θεοῦ ζῶντος,στῦλος καὶ ἑδραίωμα τῆς ἀληθείας·",
+    "bsb_english": "in case I am delayed, so that you will know how each one must conduct himself in God’s household, which is the church of the living God, the pillar and foundation of the truth.",
+    "translation": {
+      "thai": "แต่ถ้าข้าพเจ้าล่าช้า ท่านก็จะได้รู้ว่าควรประพฤติตนอย่างไรในครอบครัวของพระเจ้า ซึ่งก็คือคริสตจักรของพระเจ้าผู้ทรงพระชนม์ เป็นเสาหลักและรากฐานแห่งความจริง",
+      "key_decisions": [
+        {"greek": "βραδύνω (pres. act. subj.)", "thai": "ล่าช้า", "rationale": "βραδύνω = be slow, delay. Present subjunctive in protasis. ล่าช้า = delayed/slow (Thai verbal)."},
+        {"greek": "ἀναστρέφεσθαι (pres. mid. inf.)", "thai": "ประพฤติตน", "rationale": "ἀναστρέφω (mid.) = conduct oneself, live, behave. ประพฤติตน = conduct oneself — standard Thai for behavioral comportment."},
+        {"greek": "ἐν οἴκῳ θεοῦ", "thai": "ในครอบครัวของพระเจ้า", "rationale": "οἶκος here metaphorical: the household of God = the church as family. Paul is extending the household management imagery from vv.4-5, 12. ครอบครัวของพระเจ้า = God's family/household."},
+        {"greek": "ἐκκλησία θεοῦ ζῶντος", "thai": "คริสตจักรของพระเจ้าผู้ทรงพระชนม์", "rationale": "θεὸς ζῶν = living God (distinctive Pauline/biblical designation vs. idols). พระเจ้าผู้ทรงพระชนม์ = 'God who has life' — uses ราชาศัพท์ ทรงพระชนม์ (royal verb for 'to live')."},
+        {"greek": "στῦλος καὶ ἑδραίωμα τῆς ἀληθείας", "thai": "เป็นเสาหลักและรากฐานแห่งความจริง", "rationale": "στῦλος = pillar, column. ἑδραίωμα (HAPAX) = foundation, support, bulwark. APPOSITIONAL: this phrase stands in apposition to ἐκκλησία θεοῦ ζῶντος — i.e., the CHURCH is the pillar and foundation. Some have argued the phrase goes forward to v.16 (Timothy/believer as pillar), but grammatical nearest antecedent is decisive: the church. เสาหลัก = main pillar; รากฐาน = foundation."},
+        {"greek": "ἑδραίωμα (HAPAX)", "thai": "รากฐาน", "rationale": "HAPAX LEGOMENON. From ἑδραῖος (firm, steadfast; cf. 1 Cor 15:58). Rare word beyond NT; classical meaning of 'firm seat / buttress / support' is secure. รากฐาน = foundation — captures the structural stability image paired with 'pillar.'"}
+      ],
+      "notes": "HAPAX: ἑδραίωμα (3:15). Meaning secure; the image pairs architecturally with στῦλος. INTERPRETIVE CALL: the 'pillar and foundation' phrase is taken as appositional to the church (grammatical majority view), not forward-looking to Christ or Timothy. Some church fathers (Ambrosiaster) took it as forward-looking, but this is a minority view. Thai reflects the majority grammatical reading. RAACHASAP: θεὸς ζῶν rendered with ทรงพระชนม์ (royal verb), preserving honorific register for divine subject."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "1 Timothy 3:16",
+    "chapter": 3,
+    "verse": 16,
+    "greek": "καὶ ὁμολογουμένως μέγα ἐστὶν τὸ τῆς εὐσεβείας μυστήριον·Ὃς ἐφανερώθη ἐν σαρκί,ἐδικαιώθη ἐν πνεύματι,ὤφθη ἀγγέλοις,ἐκηρύχθη ἐν ἔθνεσιν,ἐπιστεύθη ἐν κόσμῳ,ἀνελήμφθη ἐν δόξῃ.",
+    "bsb_english": "By common confession, the mystery of godliness is great: He appeared in the flesh, was vindicated by the Spirit, was seen by angels, was proclaimed among the nations, was believed in throughout the world, was taken up in glory.",
+    "translation": {
+      "thai": "และตามที่ยอมรับร่วมกัน ข้อล้ำลึกแห่งทางของพระเจ้านั้นยิ่งใหญ่นัก คือ พระองค์ทรงปรากฏในเนื้อหนัง ทรงได้รับการพิสูจน์โดยพระวิญญาณ ทรงปรากฏแก่เหล่าทูตสวรรค์ ทรงได้รับการประกาศในหมู่ประชาชาติ ทรงเป็นที่เชื่อในโลก ทรงถูกรับขึ้นสู่พระสิริ",
+      "key_decisions": [
+        {"greek": "ὁμολογουμένως (HAPAX)", "thai": "ตามที่ยอมรับร่วมกัน", "rationale": "HAPAX LEGOMENON. Adverb from ὁμολογέω (confess). Classical sense: 'admittedly, confessedly, by common consent.' Introduces a shared confession/creed — likely a hymn fragment. ตามที่ยอมรับร่วมกัน = 'according to what is acknowledged together' — captures the communal-confession sense."},
+        {"greek": "τὸ τῆς εὐσεβείας μυστήριον", "thai": "ข้อล้ำลึกแห่งทางของพระเจ้า", "rationale": "εὐσέβεια = godliness, piety; in the Pastorals a near-summary term for authentic Christian life-and-faith. Not merely 'reverence' but the whole embodied Christian practice. ทางของพระเจ้า = 'the way of God' — idiomatic Thai Christian rendering that captures both the devotional and practical dimensions. Genitive of description: 'the mystery that godliness is / the mystery constituting the Christian life.' ข้อล้ำลึก consistent with v.9."},
+        {"greek": "Ὃς ἐφανερώθη ἐν σαρκί — MAJOR TEXTUAL VARIANT", "thai": "พระองค์ทรงปรากฏในเนื้อหนัง", "rationale": "FAMOUS MANUSCRIPT VARIANT. SBLGNT reads Ὃς (relative pronoun 'he who') — attested by א* A* C* F G 33 81 365 1175 2344 syr^hmg cop. Byzantine/majority reads Θεός ('God') — א^c A^c C^2 D^c K L P Ψ 630 1241 1739 TR. A handful (D*, latt, ambst) read ὅ (neuter 'that which'). External evidence strongly favors Ὃς (earliest and best mss). Paleographic explanation: ΟC (relative pronoun) → ΘC̄ (nomen sacrum abbreviation for θεός) is a plausible scribal addition of a horizontal bar; the reverse change is harder to motivate. Theologically: the Byzantine reading ('God was manifested in the flesh') makes an explicit high-Christology statement; the critical reading ('He who was manifested in the flesh') leaves the subject a relative pronoun that grammatically has no antecedent — best explained as the opening of a quoted hymn fragment about Christ. Following SBLGNT: Ὃς. Thai 'พระองค์ทรงปรากฏ' = 'He was manifested' — ทรง preserves divine honorific (Christ is the subject)."},
+        {"greek": "ἐφανερώθη ἐν σαρκί", "thai": "ทรงปรากฏในเนื้อหนัง", "rationale": "φανερόω aor. pass. = was manifested/made visible. σάρξ = flesh (incarnational reality). Divine passive (God is implied agent). ทรงปรากฏ = manifested (honorific); เนื้อหนัง = flesh (Thai Christian standard for σάρξ as physical body)."},
+        {"greek": "ἐδικαιώθη ἐν πνεύματι", "thai": "ทรงได้รับการพิสูจน์โดยพระวิญญาณ", "rationale": "δικαιόω aor. pass. Not forensic 'justified' in the Pauline doctrinal sense, but 'vindicated/shown to be righteous' (cf. Matt 11:19, Luke 7:35, 1 Tim 3:16). ἐν πνεύματι likely (a) 'by the Spirit' (instrumental — Holy Spirit as agent of vindication, cf. Rom 1:4's resurrection declaration) rather than (b) 'in the realm of the spirit' (contrasting with σάρξ; cf. 1 Pet 3:18). Majority view: (a). โดยพระวิญญาณ = 'by the Spirit' — chooses (a) but can hold (b) as secondary."},
+        {"greek": "ὤφθη ἀγγέλοις", "thai": "ทรงปรากฏแก่เหล่าทูตสวรรค์", "rationale": "ὁράω aor. pass. = was seen (often 'appeared' in resurrection contexts — cf. 1 Cor 15:5-8). ἀγγέλοις dative of agent/indirect object — 'to/by angels.' ทรงปรากฏ (same verb as line 1 of hymn — deliberate lexical echo between 'appeared in flesh' and 'appeared to angels'). ทูตสวรรค์ = angels (Thai Christian standard; distinguishes from plain ทูต = human messenger)."},
+        {"greek": "ἐκηρύχθη ἐν ἔθνεσιν", "thai": "ทรงได้รับการประกาศในหมู่ประชาชาติ", "rationale": "κηρύσσω aor. pass. = was proclaimed/heralded. ἔθνεσιν = Gentiles/nations (dative of place). ทรงได้รับการประกาศ = 'was proclaimed' (honorific passive); ประชาชาติ = nations/peoples."},
+        {"greek": "ἐπιστεύθη ἐν κόσμῳ", "thai": "ทรงเป็นที่เชื่อในโลก", "rationale": "πιστεύω aor. pass. with personal subject = 'was believed on/was trusted.' Unusual construction — πιστεύω rarely takes a personal subject in the passive. ทรงเป็นที่เชื่อ = 'was one who was believed in' — Thai stative-passive construction preserves honorific."},
+        {"greek": "ἀνελήμφθη ἐν δόξῃ", "thai": "ทรงถูกรับขึ้นสู่พระสิริ", "rationale": "ἀναλαμβάνω aor. pass. = was taken up. Standard Ascension vocabulary (cf. Acts 1:2, 11, 22). δόξα = glory (divine glory). ทรงถูกรับขึ้น = 'was taken up' — uses ถูก for genuine passive force (ถูก is standard in Thai religious language for divine events happening TO the subject, e.g. ทรงถูกตรึง 'was crucified'). สู่พระสิริ = 'into glory.'"}
+      ],
+      "notes": "HAPAX: ὁμολογουμένως (3:16). Adverb meaning 'by common confession' — indicates Paul is quoting a known formula, likely an early Christian hymn. MAJOR TEXTUAL VARIANT: Ὃς vs. Θεός — see key_decisions. Following SBLGNT (Ὃς); footnote would read 'บางต้นฉบับโบราณอ่านว่า \"พระเจ้า\" แทนที่ \"พระองค์ผู้ทรง\"' (some ancient mss read 'God' instead of 'He who'). HYMN STRUCTURE: Six aorist-passive clauses in tight parallel — widely recognized as an early Christian confessional hymn fragment. The six lines arrange in three couplets or as a single six-line descent-and-ascent (flesh → spirit → angels → nations → world → glory). All six verbs are divine passives (God implied agent), preserved in Thai via ทรง + verb or ทรง + passive construction. THEOLOGICAL NOTE: The critical text's Ὃς reading leaves the subject of the hymn implicit ('He who...'). Grammatically this is striking (no antecedent in the sentence) but makes perfect sense if Paul is quoting a hymn whose subject is Christ — the context would supply what the grammar cannot."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  }
+]
