@@ -111,26 +111,19 @@ gh pr create --title "feat: Eremos Translation — Mark 2" --body "<summary>"
 
 Vercel auto-deploys the preview. Test by tapping verses in Mark 2. Merge when happy.
 
-**Note:** The schema never changes for new chapters — only the bundle file grows. The `ensureEremosTranslationImported()` function currently only imports on first boot (when the table is empty). To refresh with new chapters, see the "refreshing data" section below.
+**Note:** The schema never changes for new chapters — only the bundle file grows. `ensureEremosTranslationImported()` auto-detects when the bundle has new verses and upserts them on (book, chapter, verse) conflict. The unique index (migration 0005) guarantees no duplicates.
 
-### 6. Refresh data on production
+### 6. Refreshing existing content
 
-When the bundle file grows (new chapter added), the existing import function skips re-import because the table isn't empty. Options:
+When you **add** a chapter, the import auto-syncs on next server boot (bundle length > DB count triggers upsert).
 
-- **Idempotent upsert** (recommended for future — not yet implemented): change `ensureEremosTranslationImported()` to UPSERT on `(book, chapter, verse)` instead of bulk-insert-on-empty
-- **Manual SQL** (current): run INSERT for just the new chapter via Supabase SQL editor, pulling from the bundle file
+When you **edit** an already-imported verse (fix a typo, refine wording) without changing the verse count, the import's count-based heuristic treats it as in-sync and skips. To force a refresh:
 
-To make the import idempotent (do this next time we add a chapter):
-```typescript
-// in server/bible-import.ts
-await db.insert(eremosTranslationVerses)
-  .values(rows)
-  .onConflictDoUpdate({
-    target: [eremosTranslationVerses.book, eremosTranslationVerses.chapter, eremosTranslationVerses.verse],
-    set: { thai: sql`excluded.thai`, thaiLiteral: sql`excluded.thai_literal`, keyDecisions: sql`excluded.key_decisions`, notes: sql`excluded.notes` },
-  });
-```
-Plus a unique index on `(book, chapter, verse)` (add to migration when doing this).
+1. Open Supabase Studio → SQL editor
+2. Run `TRUNCATE eremos_translation_verses;`
+3. Trigger a server restart (push a no-op commit or hit the Vercel redeploy button)
+
+Next boot will repopulate from the current bundle. Safe operation — the translation data lives in the bundle file, not the DB.
 
 ---
 
