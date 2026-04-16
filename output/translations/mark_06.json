@@ -1,0 +1,955 @@
+[
+  {
+    "reference": "Mark 6:1",
+    "chapter": 6,
+    "verse": 1,
+    "greek": "Καὶ ἐξῆλθεν ἐκεῖθεν, καὶ ἔρχεται εἰς τὴν πατρίδα αὐτοῦ, καὶ ἀκολουθοῦσιν αὐτῷ οἱ μαθηταὶ αὐτοῦ.",
+    "bsb_english": "Jesus went on from there and came to His hometown, accompanied by His disciples.",
+    "translation": {
+      "thai": "พระเยซูเสด็จออกจากที่นั่น มายังเมืองบ้านเกิดของพระองค์ และพวกสาวกก็ติดตามพระองค์ไปด้วย",
+      "key_decisions": [
+        {"greek": "ἐξῆλθεν ἐκεῖθεν", "thai": "เสด็จออกจากที่นั่น", "rationale": "Per uW figs-explicit: 'from there' refers to Jairus' house in Capernaum (Mark 5:21–43). Royal 'เสด็จออก' for Jesus' departure. Aorist past."},
+        {"greek": "ἔρχεται (hist. pres.)", "thai": "มายัง", "rationale": "Per uW translate-tense: historic present marks scene-shift to a major new pericope. Thai narrative naturally renders this as past — the verb-tense itself doesn't carry the historic-present's emphatic function in Thai, but the new-paragraph cue does."},
+        {"greek": "τὴν πατρίδα αὐτοῦ", "thai": "เมืองบ้านเกิดของพระองค์", "rationale": "Per uW figs-explicit: 'his hometown' = Nazareth (cf. Mark 1:9, Luke 4:16). πατρίς = ancestral hometown. Thai 'เมืองบ้านเกิด' (city of birth-home) preserves the ancestral connection without explicitly naming Nazareth (Mark himself doesn't name it here)."},
+        {"greek": "ἀκολουθοῦσιν (hist. pres.)", "thai": "ติดตาม...ไปด้วย", "rationale": "Historic present continues. Disciples accompany Jesus formally as students-of-a-rabbi. Thai 'ติดตาม...ไปด้วย' (follow-along-go-together) preserves the discipleship-following sense. ἀκολουθέω is Mark's standard discipleship verb."}
+      ],
+      "notes": "SCENE OPENER: After the Gerasene exorcism + Jairus/hemorrhaging-woman intercalation in ch. 5 (all on the eastern, Gentile side of the lake), Jesus returns to his Jewish hometown of Nazareth. Mark structurally pairs faith-of-outsider (Gerasene, Jairus, woman with issue) with rejection-by-insider (Nazareth) — the chapter opens with this striking inversion."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 6:2",
+    "chapter": 6,
+    "verse": 2,
+    "greek": "καὶ γενομένου σαββάτου ἤρξατο διδάσκειν ἐν τῇ συναγωγῇ· καὶ οἱ πολλοὶ ἀκούοντες ἐξεπλήσσοντο λέγοντες· Πόθεν τούτῳ ταῦτα, καὶ τίς ἡ σοφία ἡ δοθεῖσα τούτῳ, καὶ αἱ δυνάμεις τοιαῦται διὰ τῶν χειρῶν αὐτοῦ γινόμεναι;",
+    "bsb_english": "When the Sabbath came, He began to teach in the synagogue, and many who heard Him were astonished. \"Where did this man get these ideas?\" they asked. \"What is this wisdom He has been given? And how can He perform such miracles?",
+    "translation": {
+      "thai": "เมื่อถึงวันสะบาโต พระองค์ทรงเริ่มสั่งสอนในธรรมศาลา และคนเป็นอันมากที่ได้ฟังก็อัศจรรย์ใจ พูดกันว่า 'คนนี้ได้สิ่งเหล่านี้มาจากไหน? สติปัญญาที่ประทานแก่คนนี้คืออะไร? และฤทธิ์อำนาจอันยิ่งใหญ่ที่กระทำผ่านมือของเขา ก็เป็นเช่นนี้ได้อย่างไร?'",
+      "key_decisions": [
+        {"greek": "γενομένου σαββάτου (gen. abs.)", "thai": "เมื่อถึงวันสะบาโต", "rationale": "Genitive absolute 'when the Sabbath came/happened.' Thai 'เมื่อถึงวันสะบาโต' (when arrives Sabbath-day) standard biblical phrasing. σάββατον per glossary = วันสะบาโต."},
+        {"greek": "ἤρξατο διδάσκειν ἐν τῇ συναγωγῇ", "thai": "ทรงเริ่มสั่งสอนในธรรมศาลา", "rationale": "Royal 'ทรง' + 'เริ่มสั่งสอน' (began to teach). συναγωγή per glossary = ธรรมศาลา. Same setting as Mark 1:21 (Capernaum synagogue) — but contrast: there, astonishment leads to acceptance; here, to offense."},
+        {"greek": "ἐξεπλήσσοντο", "thai": "อัศจรรย์ใจ", "rationale": "ἐκπλήσσω = 'be astounded, struck out of one's senses.' Same verb as Mark 1:22 (positive astonishment in Capernaum). Thai 'อัศจรรย์ใจ' (wonder-heart) standard. Per uW figs-activepassive: rendered actively in Thai for naturalness."},
+        {"greek": "Πόθεν τούτῳ ταῦτα", "thai": "คนนี้ได้สิ่งเหล่านี้มาจากไหน", "rationale": "Per uW figs-rquestion + figs-idiom: rhetorical question expressing surprise — 'where did this guy get this stuff?' Per uW figs-idiom: phrasing literally 'from where to this one these things' = source-question. Thai 'คนนี้...มาจากไหน' preserves the dismissive demonstrative 'τούτῳ' ('this guy' / 'this one') — note they don't say 'พระองค์' or even his name. Disrespectful peer-level address."},
+        {"greek": "ἡ σοφία ἡ δοθεῖσα τούτῳ", "thai": "สติปัญญาที่ประทานแก่คนนี้", "rationale": "Per uW figs-activepassive: 'wisdom that has been given' — divine passive (theological passive: God is the implicit giver). Thai keeps the passive 'ที่ประทานแก่' (which has-been-bestowed-to) — 'ประทาน' is the royal-register verb for divine giving. The townspeople unwittingly use the passive form that admits divine source even as they reject the messenger."},
+        {"greek": "αἱ δυνάμεις τοιαῦται διὰ τῶν χειρῶν αὐτοῦ γινόμεναι", "thai": "ฤทธิ์อำนาจอันยิ่งใหญ่ที่กระทำผ่านมือของเขา", "rationale": "Per uW figs-synecdoche: 'through his hands' = through him. Thai 'ผ่านมือของเขา' literally preserves the synecdoche — natural in Thai too ('through his hand' = by his agency). δυνάμεις = miracles (mighty deeds). Note: townspeople use 'เขา' (informal-distancing) consistent with their dismissive tone — Jesus' divine identity is hidden from them."}
+      ],
+      "notes": "CONTRAST: Same Markan astonishment-formula as Mark 1:22, but tipped from acceptance to offense. The townspeople ask the right questions ('where does this come from?') but cannot supply the right answer because they think they already know him. REGISTER: Townspeople use 'คนนี้/เขา' — informal-dismissive, refusing the divine honorific 'พระองค์.' This pre-figures their rejection in v.3."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 6:3",
+    "chapter": 6,
+    "verse": 3,
+    "greek": "οὐχ οὗτός ἐστιν ὁ τέκτων, ὁ υἱὸς τῆς Μαρίας καὶ ἀδελφὸς Ἰακώβου καὶ Ἰωσῆτος καὶ Ἰούδα καὶ Σίμωνος; καὶ οὐκ εἰσὶν αἱ ἀδελφαὶ αὐτοῦ ὧδε πρὸς ἡμᾶς; καὶ ἐσκανδαλίζοντο ἐν αὐτῷ.",
+    "bsb_english": "Isn't this the carpenter, the son of Mary and the brother of James, Joses, Judas, and Simon? Aren't His sisters here with us as well?\" And they took offense at Him.",
+    "translation": {
+      "thai": "'คนนี้ไม่ใช่ช่างไม้หรือ? เป็นบุตรของนางมารีย์ และเป็นพี่ชายของยากอบ โยเสส ยูดา และซีโมนไม่ใช่หรือ? พวกน้องสาวของเขาก็อยู่ที่นี่กับพวกเราไม่ใช่หรือ?' พวกเขาจึงสะดุดในตัวพระองค์",
+      "key_decisions": [
+        {"greek": "ὁ τέκτων", "thai": "ช่างไม้", "rationale": "Per uW translate-unknown: τέκτων = craftsman who works with wood/stone (more general than 'carpenter'). Thai 'ช่างไม้' (woodworker/carpenter) standard Christian translation. NT-rare (only Mark 6:3 + Matt 13:55). The article 'ὁ' = 'THE carpenter' — Jesus was the known village artisan."},
+        {"greek": "ὁ υἱὸς τῆς Μαρίας", "thai": "เป็นบุตรของนางมารีย์", "rationale": "STRIKING OMISSION: Mark calls Jesus 'son of Mary' — not 'son of Joseph' as would be expected for patrilineal identification. Two interpretations: (1) Joseph was already deceased; (2) hint of suspicious circumstances around Jesus' parentage (a slur — 'son of Mary' could imply illegitimacy). Mark preserves the townspeople's wording without comment. Thai 'นางมารีย์' (lady-Mary) preserves the standard biblical address; we do NOT add 'and Joseph.' Per RULES.md §5 — flagged in notes."},
+        {"greek": "ἀδελφὸς Ἰακώβου καὶ Ἰωσῆτος καὶ Ἰούδα καὶ Σίμωνος", "thai": "พี่ชายของยากอบ โยเสส ยูดา และซีโมน", "rationale": "Per uW translate-kinship: ἀδελφός = brother (ancient debate: full siblings vs. cousins vs. step-siblings). Thai uses 'พี่ชาย' (older brother) — per uW: Jesus is older. Names per glossary: Ἰάκωβος = ยากอบ; Ἰωσῆς (variant Ἰωσήφ) = โยเสส (transliteration; 3x in NT). Ἰούδας = ยูδา (note: NOT Iscariot — different person, same Hebrew name); Σίμων = ซีโมน. These are Jesus' four named brothers."},
+        {"greek": "αἱ ἀδελφαὶ αὐτοῦ ὧδε πρὸς ἡμᾶς", "thai": "พวกน้องสาวของเขาก็อยู่ที่นี่กับพวกเรา", "rationale": "Per uW translate-kinship: 'sisters' (plural — at least two; unnamed). Thai 'น้องสาว' (younger sisters) per uW. 'อยู่ที่นี่กับพวกเรา' (here with us) preserves the local-knowledge claim — 'we know his family, ordinary villagers like us.'"},
+        {"greek": "ἐσκανδαλίζοντο ἐν αὐτῷ", "thai": "พวกเขาจึงสะดุดในตัวพระองค์", "rationale": "Per uW figs-metaphor + figs-activepassive: σκανδαλίζομαι = 'be caused to stumble, be offended.' The σκάνδαλον is a snare-trigger; metaphorically a stumbling-stone. Thai 'สะดุด' (stumble) preserves the metaphor naturally — Thai also uses 'สะดุด' for 'be put off by.' Note the imperfect tense: 'they kept being scandalized' — sustained reaction, not momentary. Mark's narrator-frame retains 'พระองค์' (royal honorific for Jesus) even while reporting their stumbling — the text honors Christ even as the people reject him."}
+      ],
+      "notes": "MARY ONLY: 'son of Mary' (no Joseph) is unusual and possibly tendentious — early Christian tradition reads it as evidence Joseph had died; Jewish polemic later read it as a slur (ben-ha-isha = 'son of THE woman' = illegitimate). Mark records what was said. SIBLINGS: four named brothers (James, Joses, Judas, Simon) + multiple unnamed sisters — Jesus had a large family. James (Ἰάκωβος) becomes the leader of the Jerusalem church (Acts 15; Gal 1:19). σκανδαλίζω: foundational NT vocabulary — Jesus himself becomes the σκάνδαλον (1 Cor 1:23). Mark's irony: the townspeople know everything about Jesus (carpenter, his mother, his siblings) and yet know nothing."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 6:4",
+    "chapter": 6,
+    "verse": 4,
+    "greek": "καὶ ἔλεγεν αὐτοῖς ὁ Ἰησοῦς ὅτι Οὐκ ἔστιν προφήτης ἄτιμος εἰ μὴ ἐν τῇ πατρίδι αὐτοῦ καὶ ἐν τοῖς συγγενεῦσιν αὐτοῦ καὶ ἐν τῇ οἰκίᾳ αὐτοῦ.",
+    "bsb_english": "Then Jesus said to them, \"Only in his hometown, among his relatives, and in his own household is a prophet without honor.\"",
+    "translation": {
+      "thai": "พระเยซูจึงตรัสกับพวกเขาว่า 'ผู้เผยพระวจนะย่อมไม่ถูกดูหมิ่น เว้นแต่ในเมืองบ้านเกิดของตน ในหมู่ญาติพี่น้องของตน และในครัวเรือนของตนเอง'",
+      "key_decisions": [
+        {"greek": "ἔλεγεν αὐτοῖς ὁ Ἰησοῦς", "thai": "พระเยซูจึงตรัสกับพวกเขา", "rationale": "Royal 'ตรัส' for Jesus' speech. Imperfect ἔλεγεν — perhaps habitual or marking the proverbial saying."},
+        {"greek": "Οὐκ ἔστιν προφήτης ἄτιμος εἰ μὴ", "thai": "ผู้เผยพระวจนะย่อมไม่ถูกดูหมิ่น เว้นแต่", "rationale": "Per uW grammar-connect-exceptions + figs-doublenegatives: classical Greek 'not...except' construction. προφήτης ἄτιμος = 'a prophet without honor.' Thai 'ผู้เผยพระวจนะ' (one-who-reveals-divine-word) standard biblical-Thai for 'prophet'; 'ย่อม' marks general/proverbial truth; 'ไม่...เว้นแต่' (not...except) preserves the exception-construction naturally. Avoids Thai-awkward 'doesn't have no honor.'"},
+        {"greek": "ἄτιμος", "thai": "ถูกดูหมิ่น", "rationale": "Per uW figs-abstractnouns: ἄτιμος = 'without honor / dishonored' (privative ἀ- + τιμή). Thai 'ดูหมิ่น' (look-down-upon, despise) — passive 'ถูกดูหมิ่น' (be-despised) — captures the meaning. Cognate τιμή recurs theologically (1 Pet 2:7 — Christ as honored cornerstone vs. stumbling-stone)."},
+        {"greek": "ἐν τῇ πατρίδι αὐτοῦ καὶ ἐν τοῖς συγγενεῦσιν αὐτοῦ καὶ ἐν τῇ οἰκίᾳ αὐτοῦ", "thai": "ในเมืองบ้านเกิดของตน ในหมู่ญาติพี่น้องของตน และในครัวเรือนของตนเอง", "rationale": "Per uW figs-doublet: three concentric circles, broadest to narrowest — hometown → relatives → household. Thai preserves all three: 'เมืองบ้านเกิด' (hometown), 'ญาติพี่น้อง' (relatives), 'ครัวเรือน' (household). Per uW figs-metonymy on 'his house' — refers to immediate family. Reflexive 'ของตน' / 'ของตนเอง' (one's own) preserves the αὐτοῦ self-reference, deepening the irony of rejection by intimates."}
+      ],
+      "notes": "PROVERBIAL SAYING: parallel attestation in Matt 13:57 / Luke 4:24 / John 4:44. May reflect a wider Jewish proverb. The threefold structure (hometown / relatives / household) — narrowing concentric rings — universalizes the alienation: the prophet is rejected at every social level closest to him. Foreshadows Mark 3:21 (Jesus' own family thought he was 'beside himself') and the cross."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 6:5",
+    "chapter": 6,
+    "verse": 5,
+    "greek": "καὶ οὐκ ἐδύνατο ἐκεῖ ποιῆσαι οὐδεμίαν δύναμιν, εἰ μὴ ὀλίγοις ἀρρώστοις ἐπιθεὶς τὰς χεῖρας ἐθεράπευσεν·",
+    "bsb_english": "So He could not perform any miracles there, except to lay His hands on a few of the sick and heal them.",
+    "translation": {
+      "thai": "พระองค์ไม่อาจทรงกระทำการอัศจรรย์ใดๆ ที่นั่น เว้นแต่ทรงวางพระหัตถ์บนคนป่วยเพียงไม่กี่คนแล้วทรงรักษาพวกเขาให้หาย",
+      "key_decisions": [
+        {"greek": "οὐκ ἐδύνατο", "thai": "พระองค์ไม่อาจทรงกระทำ", "rationale": "Per uW grammar-connect-exceptions + figs-doublenegatives: 'could not...except' is the classical Greek exception-construction. Thai 'ไม่อาจ' (cannot/was-unable) — note the careful Thai phrasing preserves the strong 'could not' without softening to 'did not.' THEOLOGICAL CRUX: Mark says Jesus COULD not (οὐκ ἐδύνατο), not 'did not choose to' — the unbelief of the people created an environment incompatible with miraculous activity. Matthew 13:58 softens this to 'οὐκ ἐποίησεν...διὰ τὴν ἀπιστίαν' ('did not do...because of unbelief'). Mark's stronger 'could not' is the harder reading and preserved here. Royal 'ทรงกระทำ' for divine action."},
+        {"greek": "οὐδεμίαν δύναμιν", "thai": "การอัศจรรย์ใดๆ", "rationale": "Per uW figs-doublenegatives: οὐ + οὐδεμίαν = double negation for emphasis. Thai 'การอัศจรรย์ใดๆ' (any miracle whatsoever) — 'ใดๆ' carries the emphatic 'not even one.' δύναμις = 'mighty work / miracle' (consistent with v.2 'δυνάμεις' rendering as 'ฤทธิ์อำนาจ' but here singular abstract — varied to 'การอัศจรรย์' for natural Thai prose without theological loss)."},
+        {"greek": "εἰ μὴ ὀλίγοις ἀρρώστοις ἐπιθεὶς τὰς χεῖρας ἐθεράπευσεν", "thai": "เว้นแต่ทรงวางพระหัตถ์บนคนป่วยเพียงไม่กี่คนแล้วทรงรักษาพวกเขาให้หาย", "rationale": "Exception-clause. ἐπιτίθημι τὰς χεῖρας = standard healing gesture (cf. Mark 5:23, 7:32, 8:23, 16:18). 'พระหัตถ์' = royal-register 'hand.' 'ทรงวาง...บน' (royal-place-on) for laying-on-of-hands. ὀλίγοις (few) qualifies the small scope. Mark's striking concession: even in the unbelieving hometown, some healings happened — but only 'a few.'"}
+      ],
+      "notes": "THEOLOGICAL CRUX: Mark's 'οὐκ ἐδύνατο' (could not) is one of the most theologically demanding statements in the gospel — Jesus' miraculous power was conditioned by the faith-environment of those around him. This is not a denial of divine omnipotence but a Markan emphasis on the relational-receptive nature of miracle: faith is not a meritorious work that earns the miracle but a posture of openness without which the action is impossible (cf. Mark 5:34 — 'your faith has saved you,' the woman with the issue). Matthew (13:58) recasts this as a choice; Mark keeps the harder reading. Translators must not soften: 'could not' is what the Greek says."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 6:6",
+    "chapter": 6,
+    "verse": 6,
+    "greek": "καὶ ἐθαύμαζεν διὰ τὴν ἀπιστίαν αὐτῶν. Καὶ περιῆγεν τὰς κώμας κύκλῳ διδάσκων.",
+    "bsb_english": "And He was amazed at their unbelief. And He went around from village to village, teaching the people.",
+    "translation": {
+      "thai": "พระองค์ทรงประหลาดพระทัยเพราะความไม่เชื่อของพวกเขา แล้วพระองค์เสด็จเที่ยวสั่งสอนตามหมู่บ้านโดยรอบ",
+      "key_decisions": [
+        {"greek": "ἐθαύμαζεν διὰ τὴν ἀπιστίαν αὐτῶν", "thai": "ทรงประหลาดพระทัยเพราะความไม่เชื่อของพวกเขา", "rationale": "Per uW figs-activepassive + figs-abstractnouns: θαυμάζω = 'wonder, marvel, be astonished.' Royal 'ทรงประหลาดพระทัย' (royal-wonder-divine-mind) for Jesus' surprise. STRIKING: Mark records Jesus marveling only twice — here (negative — at unbelief) and at the centurion (Matt 8:10 / Luke 7:9 — positive — at faith). Both responses are recorded as genuine human reactions of surprise. Thai 'ความไม่เชื่อ' (the-not-believing) for ἀπιστία — standard biblical usage. ἀπιστία is the inverse of πίστις; same root as the σκανδαλίζω of v.3."},
+        {"greek": "περιῆγεν τὰς κώμας κύκλῳ διδάσκων", "thai": "เสด็จเที่ยวสั่งสอนตามหมู่บ้านโดยรอบ", "rationale": "Per uW figs-explicit: 'around the villages in a circle' — went village to village in a roughly circular pattern from Nazareth. περιάγω = 'go around.' Royal 'เสด็จเที่ยว' (royal-travel-around) for Jesus' itinerant movement. 'สั่งสอน' (teach/instruct) for διδάσκων participle. Marks transition from rejection at Nazareth to broader Galilean ministry — Jesus does not retreat after rejection but expands his work."}
+      ],
+      "notes": "PIVOT VERSE: closes the Nazareth pericope (vv.1–6a) and opens the Twelve-mission pericope (vv.6b–13). Per uW chapter intro: this verse is split between two episodes — 'And he was amazed at their unbelief' closes the rejection scene; 'And he was going around the villages teaching' opens the Twelve sending. Mark's narrative pattern: rejection in one place → expansion to many. ἀπιστία forms an inclusio with v.5's οὐκ ἐδύνατο — unbelief blocks miracle; Jesus marvels at this and moves on to multiply his witness through the Twelve."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 6:7",
+    "chapter": 6,
+    "verse": 7,
+    "greek": "καὶ προσκαλεῖται τοὺς δώδεκα, καὶ ἤρξατο αὐτοὺς ἀποστέλλειν δύο δύο, καὶ ἐδίδου αὐτοῖς ἐξουσίαν τῶν πνευμάτων τῶν ἀκαθάρτων,",
+    "bsb_english": "Then Jesus called the Twelve to Him and began to send them out two by two, giving them authority over unclean spirits.",
+    "translation": {
+      "thai": "พระองค์ทรงเรียกสาวกสิบสองคนมา ทรงเริ่มส่งพวกเขาออกไปทีละสองคน และทรงประทานสิทธิอำนาจเหนือวิญญาณโสโครกแก่พวกเขา",
+      "key_decisions": [
+        {"greek": "προσκαλεῖται (hist. pres.)", "thai": "ทรงเรียก...มา", "rationale": "Historic present — marks the new pericope (per uW translate-tense list). προσκαλέομαι = 'summon, call to oneself.' Royal 'ทรงเรียก...มา' (royal-call...come) — 'มา' (toward-self) preserves the προσ- directional prefix."},
+        {"greek": "τοὺς δώδεκα", "thai": "สาวกสิบสองคน", "rationale": "'The Twelve' — established appointive group (Mark 3:13–19). Thai 'สาวกสิบสองคน' (twelve disciples) — adding 'สาวก' makes the referent unambiguous in Thai (per glossary precedent from Mark 3:14)."},
+        {"greek": "ἀποστέλλειν δύο δύο", "thai": "ส่งพวกเขาออกไปทีละสองคน", "rationale": "Per uW figs-idiom: δύο δύο = Hebraistic distributive doubling = 'two by two / in pairs.' Thai 'ทีละสองคน' (each-time two persons) preserves the distributive sense. The pairing follows Deut 19:15 (testimony requires two witnesses) — every village heard the gospel from two mouths. ἀποστέλλω is the verb behind 'apostle' — 'sent ones.'"},
+        {"greek": "ἐδίδου αὐτοῖς ἐξουσίαν τῶν πνευμάτων τῶν ἀκαθάρτων", "thai": "ทรงประทานสิทธิอำนาจเหนือวิญญาณโสโครกแก่พวกเขา", "rationale": "Per uW figs-abstractnouns: ἐξουσία = 'authority' (delegated power). Thai 'สิทธิอำนาจ' (right-power) standard biblical-Thai for ἐξουσία. Royal 'ทรงประทาน' (royal-bestow) for divine giving. Imperfect ἐδίδου — 'was giving' / 'began giving' — sustained delegation. πνεύματα ἀκάθαρτα per glossary = วิญญาณโสโครก. The Twelve receive Jesus' own authority (the same word used of Jesus in Mark 1:22, 27) — extension of his ministry."}
+      ],
+      "notes": "MISSION DELEGATION: Mark 3:13–19 set up the Twelve; Mark 6:7–13 actually sends them. PAIRED MISSION: Deut 19:15 background — testimony requires two witnesses. Practical: companionship, safety, mutual accountability. Theological: their authority is derivative — they go in his name and with his power, not their own."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 6:8",
+    "chapter": 6,
+    "verse": 8,
+    "greek": "καὶ παρήγγειλεν αὐτοῖς ἵνα μηδὲν αἴρωσιν εἰς ὁδὸν εἰ μὴ ῥάβδον μόνον, μὴ ἄρτον, μὴ πήραν, μὴ εἰς τὴν ζώνην χαλκόν,",
+    "bsb_english": "He instructed them to take nothing but a staff for the journey—no bread, no bag, no money in their belts—",
+    "translation": {
+      "thai": "และทรงกำชับพวกเขาว่า อย่านำสิ่งใดติดตัวไปในการเดินทาง เว้นแต่ไม้เท้าเพียงอันเดียว ไม่ต้องนำขนมปัง ไม่ต้องนำย่าม ไม่ต้องนำเงินใส่ในสายคาดเอว",
+      "key_decisions": [
+        {"greek": "παρήγγειλεν αὐτοῖς ἵνα", "thai": "ทรงกำชับพวกเขาว่า", "rationale": "παραγγέλλω = 'command, order, charge' — stronger than λέγω. Royal 'ทรงกำชับ' (royal-instruct-emphatically) for authoritative command."},
+        {"greek": "μηδὲν αἴρωσιν εἰς ὁδὸν εἰ μὴ ῥάβδον μόνον", "thai": "อย่านำสิ่งใดติดตัวไปในการเดินทาง เว้นแต่ไม้เท้าเพียงอันเดียว", "rationale": "Per uW grammar-connect-exceptions + figs-metonymy: 'nothing for the road except only a staff.' Per uW figs-metonymy on ὁδόν: 'road' = journey. Thai 'ในการเดินทาง' (on the journey) for the metonymy. ῥάβδος = walking-stick/staff; standard traveler's gear. Thai 'ไม้เท้า' (walking-staff) standard. NOTE: Matt 10:10 / Luke 9:3 prohibit even the staff — Mark allows it. The discrepancy is famous in synoptic studies; Mark's permission is the 'minimum kit allowance' — the bare necessity of a walking staff for hill country."},
+        {"greek": "μὴ ἄρτον, μὴ πήραν, μὴ εἰς τὴν ζώνην χαλκόν", "thai": "ไม่ต้องนำขนมปัง ไม่ต้องนำย่าม ไม่ต้องนำเงินใส่ในสายคาดเอว", "rationale": "Threefold prohibition. Per uW figs-synecdoche on ἄρτον: 'bread' = any food. We render 'ขนมปัง' (bread) directly, since the prohibition reads better as concrete-then-implied-broader (a Thai reader will understand 'bread' as 'food provisions'). πήρα = traveler's leather bag/knapsack — Thai 'ย่าม' (shoulder-bag, used by Buddhist monks for alms — a Thai reader will recognize the cultural register: traveling religious figures carrying minimum gear). Per uW translate-unknown on ζώνη: belt-money was wrapped in cloth strips around the waist; 'สายคาดเอว' (waist-belt) standard. χαλκός = copper/bronze (small coins) — Thai 'เงิน' (money) — slight specificity loss but 'no copper' would confuse Thai readers; 'เงิน' captures the prohibition."}
+      ],
+      "notes": "RADICAL ITINERANCY: total dependence on hospitality (cf. v.10). Cynic philosophers traveled with staff and bag (the πήρα was a Cynic emblem) — Jesus deliberately strips the disciples of even the Cynic-philosophical traveling minimum. They are not philosophers carrying their identity in their gear; they are messengers traveling light to depend on the kingdom-people who receive them. SYNOPTIC DISCREPANCY: Mark's 'staff allowed' vs. Matt/Luke's 'no staff' — to be examined in synoptic-parallel check. May reflect Mark's most primitive form (allowing minimum) vs. tradition's gradual heightening of radicalism."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 6:9",
+    "chapter": 6,
+    "verse": 9,
+    "greek": "ἀλλὰ ὑποδεδεμένους σανδάλια, καὶ μὴ ἐνδύσησθε δύο χιτῶνας.",
+    "bsb_english": "and to wear sandals, but not a second tunic.",
+    "translation": {
+      "thai": "แต่ให้สวมรองเท้าแตะ และอย่าสวมเสื้อสองตัว",
+      "key_decisions": [
+        {"greek": "ὑποδεδεμένους σανδάλια", "thai": "ให้สวมรองเท้าแตะ", "rationale": "Per uW translate-unknown on σανδάλια: σανδάλιον (NT 2x — here + Acts 12:8) = leather sole tied to the foot with straps. Thai 'รองเท้าแตะ' (slipper-shoe / sandal) standard. ὑποδεδεμένους perfect middle ptcp 'having-tied-on-themselves' — durative state (already wearing them); Thai 'สวม' (wear) captures this. Note Mark allows sandals where Matt 10:10 prohibits any extra footwear — same minimum-kit pattern as the staff."},
+        {"greek": "μὴ ἐνδύσησθε δύο χιτῶνας", "thai": "อย่าสวมเสื้อสองตัว", "rationale": "Per uW figs-quotations + figs-explicit: 'do not wear two tunics' = no spare. Notable grammatical SHIFT: indirect command in v.8 (ἵνα + subj.), now Mark slips into DIRECT 2nd-person aorist subjunctive 'μὴ ἐνδύσησθε' ('do not wear') as if quoting Jesus' actual words. Thai 'อย่าสวม...สองตัว' (don't wear two pieces) preserves the prohibition. χιτών = inner tunic (the basic garment); standard Thai 'เสื้อ' (shirt/tunic — adequate without specifying inner-vs-outer). The point: travel light, no spare clothing."}
+      ],
+      "notes": "GRAMMATICAL SHIFT: Mark moves from indirect to direct discourse mid-sentence (v.8 ἵνα...αἴρωσιν → v.9 μὴ ἐνδύσησθε), preserving the rough oral feel. Translators may smooth or preserve; we preserve the indirect/direct mix in Thai by keeping the imperative 'อย่า' (don't) which can serve both. Per uW: this is a genuine narrative quirk worth keeping. RADICAL DEPENDENCY: no spare tunic = trust that the host will wash/replace what wears out. The mission embodies the kingdom message — provision comes from God-through-people, not self-supply."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 6:10",
+    "chapter": 6,
+    "verse": 10,
+    "greek": "καὶ ἔλεγεν αὐτοῖς· Ὅπου ἐὰν εἰσέλθητε εἰς οἰκίαν, ἐκεῖ μένετε ἕως ἂν ἐξέλθητε ἐκεῖθεν.",
+    "bsb_english": "And He told them, \"When you enter a house, stay there until you leave that area.",
+    "translation": {
+      "thai": "พระองค์ตรัสกับพวกเขาว่า 'ที่ใดที่เจ้าทั้งหลายเข้าไปในบ้านหลังใด จงพักอยู่ที่นั่นจนกว่าจะออกจากที่นั้น",
+      "key_decisions": [
+        {"greek": "ἔλεγεν αὐτοῖς", "thai": "ตรัสกับพวกเขา", "rationale": "Royal 'ตรัส' for Jesus' speech to disciples. Imperfect — sustained instruction."},
+        {"greek": "Ὅπου ἐὰν εἰσέλθητε εἰς οἰκίαν", "thai": "ที่ใดที่เจ้าทั้งหลายเข้าไปในบ้านหลังใด", "rationale": "Per uW figs-explicit: implied as a guest-invitee, not as a barging-in. Indefinite ὅπου ἐάν = 'wherever.' Thai 'ที่ใดที่...บ้านหลังใด' (wherever...whichever house) preserves indefiniteness. Jesus addresses the Twelve = 'เจ้าทั้งหลาย' (intimate-direct-plural, the standard Markan address from Jesus to his Twelve)."},
+        {"greek": "ἐκεῖ μένετε ἕως ἂν ἐξέλθητε ἐκεῖθεν", "thai": "จงพักอยู่ที่นั่นจนกว่าจะออกจากที่นั้น", "rationale": "Per uW figs-explicit on ἐκεῖθεν: 'from there' = from that town/village. Thai 'จงพักอยู่' (imperative-stay) for μένετε present imperative (continuing action). 'จนกว่าจะออกจากที่นั้น' (until depart from that place) preserves the temporal limit. The instruction: don't 'upgrade' to a better house mid-mission — stay loyal to the first hospitality offered. Practical wisdom against social climbing during ministry."}
+      ],
+      "notes": "HOSPITALITY ETHICS: stay with the first family that receives you — don't house-hop to upgrade (which would insult the original host and create village politics). This is Jewish-rabbinical etiquette for traveling teachers. The disciple lives by the Lord's table; he does not negotiate for a better table."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 6:11",
+    "chapter": 6,
+    "verse": 11,
+    "greek": "καὶ ὃς ἂν τόπος μὴ δέξηται ὑμᾶς μηδὲ ἀκούσωσιν ὑμῶν, ἐκπορευόμενοι ἐκεῖθεν ἐκτινάξατε τὸν χοῦν τὸν ὑποκάτω τῶν ποδῶν ὑμῶν εἰς μαρτύριον αὐτοῖς.",
+    "bsb_english": "If anyone will not welcome you or listen to you, shake the dust off your feet when you leave that place, as a testimony against them.\"",
+    "translation": {
+      "thai": "ที่ใดที่ไม่ต้อนรับเจ้าทั้งหลาย และไม่ยอมฟังเจ้า เมื่อจะออกไปจากที่นั้น จงสะบัดฝุ่นใต้เท้าของเจ้าออก เพื่อเป็นพยานปรักปรำพวกเขา'",
+      "key_decisions": [
+        {"greek": "ὃς ἂν τόπος μὴ δέξηται ὑμᾶς", "thai": "ที่ใดที่ไม่ต้อนรับเจ้าทั้งหลาย", "rationale": "Per uW figs-metonymy: τόπος ('place') = the people who live there. Thai 'ที่ใดที่ไม่ต้อนรับ' (whichever-place that-doesn't welcome) preserves the metonymy naturally. δέχομαι = 'receive, welcome' (hospitality verb)."},
+        {"greek": "μηδὲ ἀκούσωσιν ὑμῶν", "thai": "และไม่ยอมฟังเจ้า", "rationale": "Parallel rejection-clause: 'nor listen to you.' Thai 'ไม่ยอมฟัง' (refuse-to-listen) — 'ยอม' adds the volitional refusal nuance (not mere inattention). The rejection is total: hospitality + message both refused."},
+        {"greek": "ἐκτινάξατε τὸν χοῦν τὸν ὑποκάτω τῶν ποδῶν ὑμῶν", "thai": "จงสะบัดฝุ่นใต้เท้าของเจ้าออก", "rationale": "Per uW translate-symaction: dust-shaking was a Jewish symbolic act of disassociation — performed by Jews returning from Gentile territory to repudiate ritual contamination. By shaking dust off, the disciple says: 'this place is now to me as Gentile-territory; I sever ties.' Thai 'สะบัดฝุ่น...ออก' (shake-off dust...away) preserves the action without cultural translation. Acts 13:51 enacts this command."},
+        {"greek": "εἰς μαρτύριον αὐτοῖς", "thai": "เพื่อเป็นพยานปรักปรำพวกเขา", "rationale": "Per uW figs-explicit + figs-abstractnouns: 'for a testimony against them' — testimony of judgment. μαρτύριον is forensic-eschatological. Thai 'เพื่อเป็นพยานปรักปรำ' (in order to be witness accusing-against) — 'ปรักปรำ' is the legal-accusatory verb (lay-charge-against), capturing the eschatological dative αὐτοῖς ('against them' — adversative dative)."},
+        {"greek": "Speaker: Jesus to Twelve", "thai": "เจ้าทั้งหลาย / เจ้า", "rationale": "Continuation of Jesus' address to the Twelve. Mixed 'เจ้าทั้งหลาย' (plural where the Greek emphasizes the group) and 'เจ้า' (singular-collective for the action of dust-shaking). Both preserve the intimate-direct register Jesus uses with his disciples."}
+      ],
+      "notes": "TEXTUAL VARIANT (per uW): Most ancient MSS end here with 'εἰς μαρτύριον αὐτοῖς.' Some later MSS (Byzantine tradition) add 'Ἀμὴν λέγω ὑμῖν, ἀνεκτότερον ἔσται Σοδόμοις ἢ Γομόρροις ἐν ἡμέρᾳ κρίσεως ἢ τῇ πόλει ἐκείνῃ' (cf. Matt 10:15). SBLGNT omits as a secondary harmonization to Matthew. We follow SBLGNT — no Sodom-and-Gomorrah clause. SYMBOLIC ACTION: the disciples are NOT to negotiate, plead, or stay to convince — they pronounce judgment by exit-ritual. The kingdom announcement is a test the village either passes or fails; the messenger's job ends at refusal."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 6:12",
+    "chapter": 6,
+    "verse": 12,
+    "greek": "Καὶ ἐξελθόντες ἐκήρυξαν ἵνα μετανοῶσιν,",
+    "bsb_english": "So they set out and preached that the people should repent.",
+    "translation": {
+      "thai": "พวกเขาจึงออกไปประกาศ ให้คนทั้งหลายกลับใจใหม่",
+      "key_decisions": [
+        {"greek": "ἐξελθόντες ἐκήρυξαν", "thai": "ออกไปประกาศ", "rationale": "Aorist participle + main verb: 'having gone out, they preached.' κηρύσσω = herald-proclaim — same verb used of John the Baptist (1:4, 7), Jesus (1:14, 38–39), the healed leper (1:45), the Gerasene (5:20). Thai 'ออกไปประกาศ' (go-out proclaim) standard biblical-Thai. The Twelve now do what Jesus does — extension of his work."},
+        {"greek": "ἵνα μετανοῶσιν", "thai": "ให้คนทั้งหลายกลับใจใหม่", "rationale": "Per uW writing-pronouns: implicit subject — they preached 'that [people] should repent.' Per uW figs-quotations: could be rendered as direct quotation. We keep indirect, with explicit 'คนทั้งหลาย' (people-all) to clarify the addressees in Thai. μετανοέω per glossary = กลับใจ; here 'กลับใจใหม่' (turn-heart anew) — the 'ใหม่' (new) intensifier matches the Markan kerygmatic urgency (the message is essentially Jesus' opening proclamation, 1:15)."}
+      ],
+      "notes": "DERIVATIVE PROCLAMATION: the Twelve preach the same message Jesus opened with (1:15 — 'repent and believe the gospel'). Mark deliberately frames their kerygma as continuous with Jesus' — they don't preach themselves, they preach the kingdom-call. The first apostolic mission is a faithful echo, not a creative addition."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 6:13",
+    "chapter": 6,
+    "verse": 13,
+    "greek": "καὶ δαιμόνια πολλὰ ἐξέβαλλον, καὶ ἤλειφον ἐλαίῳ πολλοὺς ἀρρώστους καὶ ἐθεράπευον.",
+    "bsb_english": "They also drove out many demons and healed many of the sick, anointing them with oil.",
+    "translation": {
+      "thai": "พวกเขาขับผีออกได้มากมาย และชโลมน้ำมันให้คนป่วยจำนวนมาก แล้วรักษาพวกเขาให้หาย",
+      "key_decisions": [
+        {"greek": "δαιμόνια πολλὰ ἐξέβαλλον", "thai": "ขับผีออกได้มากมาย", "rationale": "δαιμόνιον = 'demon' (cognate of πνεῦμα ἀκάθαρτον in v.7 — same category, different label). ἐκβάλλω = 'cast out' — standard exorcism verb. Imperfect — sustained activity. Thai 'ขับผีออก' (drive-spirit-out) standard biblical-Thai for exorcism. 'มากมาย' for πολλά."},
+        {"greek": "ἤλειφον ἐλαίῳ πολλοὺς ἀρρώστους καὶ ἐθεράπευον", "thai": "ชโลมน้ำมันให้คนป่วยจำนวนมาก แล้วรักษาพวกเขาให้หาย", "rationale": "Per uW translate-symaction: oil-anointing was both medical (oil as medicinal salve, cf. Luke 10:34 Good Samaritan) AND symbolic (asking divine favor). ἀλείφω = 'anoint with oil' (distinct from χρίω 'anoint as Messiah/king'). Thai 'ชโลมน้ำมัน' (apply-oil) preserves the action. ONLY NT INSTANCE of disciples performing healing-anointing (cf. James 5:14 — elders anointing the sick is the sole NT echo). 'รักษาพวกเขาให้หาย' (heal-them-to-recovery) for ἐθεράπευον — imperfect = ongoing healing activity."}
+      ],
+      "notes": "FIRST APOSTOLIC PRACTICE: The Twelve do exactly what Jesus does — proclaim repentance (v.12), exorcise (v.13a), heal (v.13b). The oil-anointing is unique here in the gospels; James 5:14 picks it up as elder-practice. Translation choice: rendering 'ἀλείφω ἐλαίῳ' as 'ชโลมน้ำมัน' rather than the alternative 'ทาน้ำมัน' (smear oil) — 'ชโลม' carries the slightly more solemn/ritual register appropriate to combined medical-spiritual action."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 6:14",
+    "chapter": 6,
+    "verse": 14,
+    "greek": "Καὶ ἤκουσεν ὁ βασιλεὺς Ἡρῴδης, φανερὸν γὰρ ἐγένετο τὸ ὄνομα αὐτοῦ, καὶ ἔλεγον ὅτι Ἰωάννης ὁ βαπτίζων ἐγήγερται ἐκ νεκρῶν, καὶ διὰ τοῦτο ἐνεργοῦσιν αἱ δυνάμεις ἐν αὐτῷ·",
+    "bsb_english": "Now King Herod heard about this, for Jesus' name had become well known, and people were saying, \"John the Baptist has risen from the dead! That is why miraculous powers are at work in him.\"",
+    "translation": {
+      "thai": "ครั้งนั้น กษัตริย์เฮโรดทรงได้ยินเรื่องของพระเยซู เพราะพระนามของพระองค์เลื่องลือไป ผู้คนพากันพูดว่า 'ยอห์นผู้ให้บัพติศมาเป็นขึ้นจากตายแล้ว เพราะเหตุนี้ฤทธิ์อำนาจอันยิ่งใหญ่จึงสำแดงในเขา'",
+      "key_decisions": [
+        {"greek": "Καὶ ἤκουσεν ὁ βασιλεὺς Ἡρῴδης", "thai": "ครั้งนั้น กษัตริย์เฮโรดทรงได้ยินเรื่องของพระเยซู", "rationale": "Per uW writing-participants + writing-newevent: introduces Herod as a new character. Thai 'ครั้งนั้น' (at-that-time) opens the new pericope; 'กษัตริย์เฮโรด' (King Herod) names him. Strictly, Herod Antipas was tetrarch (not king) — Mark's βασιλεύς is colloquial honorific, not technical title. We preserve Mark's term 'กษัตริย์.' 'ทรง' royal-register: Herod IS a (lesser) king and as a Jewish ruler addressed by Jewish narrator gets standard royal register. 'เรื่องของพระเยซู' (the matter of Jesus) makes the implicit object explicit."},
+        {"greek": "φανερὸν γὰρ ἐγένετο τὸ ὄνομα αὐτοῦ", "thai": "เพราะพระนามของพระองค์เลื่องลือไป", "rationale": "Per uW figs-metonymy + grammar-connect-logic-result: 'his name became known' — name = person/news of him. Thai 'พระนาม' (royal-name) for Jesus' name; 'เลื่องลือไป' (be-renowned, spread far) idiomatic for fame. γάρ explanatory: explains why Herod heard."},
+        {"greek": "ἔλεγον ὅτι Ἰωάννης ὁ βαπτίζων ἐγήγερται ἐκ νεκρῶν", "thai": "ผู้คนพากันพูดว่า 'ยอห์นผู้ให้บัพติศมาเป็นขึ้นจากตายแล้ว'", "rationale": "Per uW translate-textvariants: SBLGNT 'ἔλεγον' (3pl. impf. — 'they were saying') — followed here. Variant 'ἔλεγεν' (3sg. — 'he was saying' — i.e., Herod) is in some MSS. SBLGNT plural reading: Herod hears what 'people' (general) are saying — sets up vv.14b–16 as a survey of popular opinion. Thai 'ผู้คนพากันพูด' (people-together-say) for the indefinite plural. Per glossary: ยอห์น = John; 'ผู้ให้บัพติศมา' = the Baptizer (lit. 'the one who gives baptism' — present-active participle preserved as title; consistent with Mark 1:4 rendering). Per uW figs-idiom: ἐγήγερται = 'has been raised' — perfect passive (state-resulting-from-completed-action). Thai 'เป็นขึ้นจากตาย' (become-rise from-death) standard biblical resurrection-formula."},
+        {"greek": "διὰ τοῦτο ἐνεργοῦσιν αἱ δυνάμεις ἐν αὐτῷ", "thai": "เพราะเหตุนี้ฤทธิ์อำนาจอันยิ่งใหญ่จึงสำแดงในเขา", "rationale": "Per uW figs-personification + grammar-connect-logic-result: 'the powers are at work in him' — δυνάμεις personified as agents working through him. Thai 'ฤทธิ์อำนาจ...สำแดงในเขา' (mighty-powers manifest in-him) preserves the active-in-him sense. Note: speaker is 'people in general' — they refer to Jesus as 'เขา' (informal third-person), unlike the narrator's 'พระองค์.' This consistent register-distinction (narrator honorific vs. character speech) is preserved throughout."}
+      ],
+      "notes": "TEXTUAL VARIANT: SBLGNT ἔλεγον (3pl., 'they were saying') vs. variant ἔλεγεν (3sg., 'he was saying' = Herod). SBLGNT plural creates the survey of popular opinions in vv.14b–16, with Herod's own opinion highlighted in v.16. We follow SBLGNT. JOHN-AS-JESUS THEORY: superstitious folk-theology — the murdered prophet is supposed to have returned in another body, transferring miraculous power. Reflects popular eschatological speculation (resurrection happens to martyrs). Mark's framing: this rumor is the trigger for Herod's flashback (vv.17–29) — Herod hears 'John is risen,' and Mark backfills the story of how John died."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 6:15",
+    "chapter": 6,
+    "verse": 15,
+    "greek": "ἄλλοι δὲ ἔλεγον ὅτι Ἠλίας ἐστίν· ἄλλοι δὲ ἔλεγον ὅτι προφήτης ὡς εἷς τῶν προφητῶν.",
+    "bsb_english": "Others were saying, \"He is Elijah,\" and still others, \"He is a prophet, like one of the prophets of old.\"",
+    "translation": {
+      "thai": "บ้างก็ว่า 'ท่านคือเอลียาห์' บ้างก็ว่า 'ท่านเป็นผู้เผยพระวจนะ เหมือนผู้เผยพระวจนะคนหนึ่งในสมัยก่อน'",
+      "key_decisions": [
+        {"greek": "ἄλλοι δὲ ἔλεγον ὅτι Ἠλίας ἐστίν", "thai": "บ้างก็ว่า 'ท่านคือเอลียาห์'", "rationale": "Per uW figs-quotations: shifted to direct quotation in Thai for liveliness ('บ้างก็ว่า' — 'some say'). Per glossary: Ἠλίας = เอลียาห์. ELIJAH-RETURNS THEORY: Mal 4:5–6 (Heb. 3:23) prophesied Elijah's return before the Day of the Lord. By the 1st century, Elijah was the expected eschatological forerunner. Mark already identified John-as-Elijah in 1:6 (Elijah's hairy garment) and 9:11–13 (explicit). Some now think Jesus IS Elijah."},
+        {"greek": "προφήτης ὡς εἷς τῶν προφητῶν", "thai": "ผู้เผยพระวจนะ เหมือนผู้เผยพระวจนะคนหนึ่งในสมัยก่อน", "rationale": "Per uW figs-ellipsis + figs-explicit: '[He is] a prophet, like one of the [old] prophets.' The category is 'classic OT prophet' — the eschatological prophet-like-Moses (Deut 18:15) or simply a returning Elisha/Isaiah/Jeremiah figure. Thai 'ผู้เผยพระวจนะคนหนึ่งในสมัยก่อน' (a-prophet-of former-times) makes 'old' explicit per uW recommendation."},
+        {"greek": "ὁ προφήτης (with article — but here anarthrous)", "thai": "ผู้เผยพระวจนะ", "rationale": "NOTE: anarthrous 'προφήτης' here = 'a prophet' (one of many), not 'THE Prophet' (the eschatological prophet of Deut 18:15). The popular speculation is generic-prophet-revival, not the specific Mosaic eschatological prophet. Translation 'ผู้เผยพระวจนะ' (without specifying article-equivalent) handles this correctly."}
+      ],
+      "notes": "POPULAR CHRISTOLOGY: Mark gives a survey of who the public thinks Jesus is. (1) John raised; (2) Elijah; (3) one-of-the-prophets. ALL THREE WRONG. Mark will return to this exact list at 8:28 ('Some say John, others Elijah, others one of the prophets...') and have Peter give the correct answer ('You are the Christ'). Mark 6:14–15 is the Christological setup for Mark 8:27–30's climactic confession. The popular options are all 'returning historical figure' — none recognize Jesus as the Christ-Son-of-God (1:1) Mark has been signaling from verse one."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 6:16",
+    "chapter": 6,
+    "verse": 16,
+    "greek": "ἀκούσας δὲ ὁ Ἡρῴδης ἔλεγεν· Ὃν ἐγὼ ἀπεκεφάλισα Ἰωάννην, οὗτος ἠγέρθη.",
+    "bsb_english": "But when Herod heard this, he said, \"John, whom I beheaded, has risen from the dead!\"",
+    "translation": {
+      "thai": "แต่เมื่อเฮโรดได้ยินดังนั้น ก็พูดว่า 'ยอห์นที่เราตัดศีรษะนั้น เป็นขึ้นจากตายแล้ว'",
+      "key_decisions": [
+        {"greek": "ἀκούσας δὲ ὁ Ἡρῴδης ἔλεγεν", "thai": "แต่เมื่อเฮโรดได้ยินดังนั้น ก็พูดว่า", "rationale": "δέ contrastive — Herod's verdict vs. the popular options of v.15. Imperfect ἔλεγεν: 'kept saying' / 'was saying' — Herod's settled opinion. Note: NO royal 'ทรง' for Herod's speaking here — we use plain 'พูด' for Herod's tortured private confession. The narrator's 'ทรง' for Herod (used in v.14) was for his public position (king); here he's speaking his guilty mind, deliberate downshift to plain speech."},
+        {"greek": "Ὃν ἐγὼ ἀπεκεφάλισα Ἰωάννην, οὗτος ἠγέρθη", "thai": "ยอห์นที่เราตัดศีรษะนั้น เป็นขึ้นจากตายแล้ว", "rationale": "Per uW figs-explicit + figs-explicitinfo: 'the one whom I beheaded, John, this one has been raised.' Emphatic ἐγώ ('I myself'). Per uW: Herod implies he had soldiers do it, but takes responsibility — 'I beheaded.' Thai uses 'เรา' (I — kingly self-reference, royal first-person plural-of-majesty) for ἐγώ — fits a king speaking. 'ตัดศีรษะ' (cut-head) for ἀποκεφαλίζω (NT 4x — Mark 6:16, 27; Matt 14:10; Luke 9:9). Resolution of the 'oὗτος ἠγέρθη' redundancy per uW figs-explicitinfo: Thai naturally allows the 'นั้น...เป็นขึ้น' construction without needing two pronouns. Same divine-passive ἠγέρθη as v.14."}
+      ],
+      "notes": "HEROD'S GUILTY VERDICT: he picks the worst option from the popular menu — not Elijah, not a prophet, but the man HE killed. The reflexive 'ἐγώ' is haunted: Herod cannot escape his own guilt. The flashback in vv.17–29 will explain why. Mark's narrative theology: a tyrant who kills a prophet is doomed to see prophets in every shadow."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 6:17",
+    "chapter": 6,
+    "verse": 17,
+    "greek": "Αὐτὸς γὰρ ὁ Ἡρῴδης ἀποστείλας ἐκράτησεν τὸν Ἰωάννην καὶ ἔδησεν αὐτὸν ἐν φυλακῇ διὰ Ἡρῳδιάδα τὴν γυναῖκα Φιλίππου τοῦ ἀδελφοῦ αὐτοῦ, ὅτι αὐτὴν ἐγάμησεν·",
+    "bsb_english": "For Herod himself had ordered that John be arrested and bound and imprisoned, on account of his brother Philip's wife Herodias, whom Herod had married.",
+    "translation": {
+      "thai": "ก่อนหน้านี้ ตัวเฮโรดเองได้สั่งให้จับยอห์นมัดและจำขังในคุก เพราะเหตุนางเฮโรเดียส ภรรยาของฟีลิปน้องชายของตน เนื่องจากเฮโรดได้สมรสกับนาง",
+      "key_decisions": [
+        {"greek": "Αὐτὸς γὰρ ὁ Ἡρῴδης", "thai": "ก่อนหน้านี้ ตัวเฮโรดเอง", "rationale": "Per uW grammar-connect-time-background: γάρ here introduces the FLASHBACK. Per uW figs-rpronouns: αὐτός intensive 'Herod himself.' Thai 'ก่อนหน้านี้' (before-this) explicitly marks the temporal flashback per uW recommendation; 'ตัว...เอง' preserves the reflexive intensifier. NO 'ทรง' royal-register here: this is Mark's exposing-the-tyrant flashback frame, not honorific narration. Note shift from earlier 'พระนาม' (v.14) — Mark's narrator is now stripping the royal facade."},
+        {"greek": "ἀποστείλας ἐκράτησεν τὸν Ἰωάννην καὶ ἔδησεν αὐτὸν ἐν φυλακῇ", "thai": "ได้สั่งให้จับยอห์นมัดและจำขังในคุก", "rationale": "Per uW figs-explicit: implied agent — Herod sent his soldiers; he didn't personally arrest. Thai 'สั่งให้จับ...มัด...และจำขัง' (ordered to seize...bind...and imprison) makes the chain of action clear, with implied agency. φυλακή = prison; Thai 'คุก' standard. Per Josephus (Ant. 18.5.2), this prison was at Machaerus, the desert fortress east of the Dead Sea."},
+        {"greek": "διὰ Ἡρῳδιάδα τὴν γυναῖκα Φιλίππου τοῦ ἀδελφοῦ αὐτοῦ", "thai": "เพราะเหตุนางเฮโรเดียส ภรรยาของฟีลิปน้องชายของตน", "rationale": "Per uW writing-participants: introduces Herodias. Thai 'นางเฮโรเดียส' (Lady Herodias) — 'นาง' as honorific-female article. Per uW translate-names + translate-kinship: Φίλιππος = ฟีลิป (NOT the apostle, NOT the evangelist; Herod's brother). Per uW: probably older brother → 'น้องชาย' (younger brother) is acceptable per existing Mark glossary practice or 'พี่น้อง' for unspecified — uW says Philip was likely older, so could use 'พี่ชาย,' but Thai biblical convention often defaults to 'น้องชาย' (younger) for ἀδελφός without further specification — we use 'น้องชาย' for consistency with Mark 1:16's 'ซีโมนและอันดรูว์น้องชายของเขา' usage. JOSEPHUS COMPLICATION: Josephus says Herodias's first husband was 'Herod' (another son of Herod the Great), not Philip — Mark's 'Philip' may be a tradition-conflation (Herodias's daughter Salome did marry the tetrarch Philip). We preserve Mark's testimony as-is."},
+        {"greek": "ὅτι αὐτὴν ἐγάμησεν", "thai": "เนื่องจากเฮโรดได้สมรสกับนาง", "rationale": "Per uW figs-explicit: 'because he [Herod] had married her [Herodias].' Thai makes the subject 'เฮโรด' explicit (Greek leaves it implied) for clarity in flashback prose. 'สมรสกับ' (be-wed-with) standard biblical Thai for marriage."}
+      ],
+      "notes": "FLASHBACK FRAME (vv.17–29): Mark's only sustained flashback, structurally unique in his gospel. Triggered by v.14's rumor that 'John has risen.' Mark backfills the death-of-John story to explain Herod's guilt-haunted reaction. JOSEPHUS PARALLEL: Antiquities 18.5.1–2 gives an independent account with significant differences — Josephus locates the execution at Machaerus, attributes it to political fears (John's popular following could lead to revolt), and names Herodias's first husband as 'Herod' (not Philip). Mark's account is theological-prophetic (John dies for rebuking sexual sin); Josephus's is political (John dies for being too popular). Both are likely partial truths — John's prophetic critique of Herod's marriage created a popular following that Herod found politically threatening. NAME CRUX: 'Φίλιππος' as Herodias's first husband is a longstanding puzzle. Possibilities: (1) Mark/tradition-error; (2) Herodias's first husband had two names (Herod-Philip — common in the family); (3) Mark distinguishing this 'Philip' from the tetrarch-Philip who married Salome later. We translate as Mark wrote."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 6:18",
+    "chapter": 6,
+    "verse": 18,
+    "greek": "ἔλεγεν γὰρ ὁ Ἰωάννης τῷ Ἡρῴδῃ ὅτι Οὐκ ἔξεστίν σοι ἔχειν τὴν γυναῖκα τοῦ ἀδελφοῦ σου.",
+    "bsb_english": "For John had been telling Herod, \"It is not lawful for you to have your brother's wife!\"",
+    "translation": {
+      "thai": "เพราะยอห์นเคยทูลเฮโรดว่า 'ไม่ถูกต้องตามธรรมบัญญัติ ที่ท่านจะรับภรรยาของน้องชายมาเป็นภรรยาของตน'",
+      "key_decisions": [
+        {"greek": "ἔλεγεν γὰρ ὁ Ἰωάννης τῷ Ἡρῴδῃ", "thai": "เพราะยอห์นเคยทูลเฮโรดว่า", "rationale": "γάρ explanatory: explains WHY Herod arrested John (v.17). Imperfect ἔλεγεν: 'kept saying' / 'had been saying' — sustained prophetic confrontation, not a single utterance. Thai 'เคย...ว่า' (had-been...saying) preserves the sustained iterative force. 'ทูล' is the deferential speech-verb a subordinate uses to a superior — John as a prisoner-prophet to a king uses formal deference even in confrontation; this is Hebrew prophetic-style (Nathan to David, etc.) — boldness in content, deference in form."},
+        {"greek": "Οὐκ ἔξεστίν σοι ἔχειν τὴν γυναῖκα τοῦ ἀδελφοῦ σου", "thai": "'ไม่ถูกต้องตามธรรมบัญญัติ ที่ท่านจะรับภรรยาของน้องชายมาเป็นภรรยาของตน'", "rationale": "Per uW figs-quotations + figs-yousingular: direct quotation; σοι/σου singular (John addressing Herod individually). ἔξεστιν = 'it is permitted/lawful' — legal-Torah verb. Thai 'ไม่ถูกต้องตามธรรมบัญญัติ' (not-correct according-to Torah) makes the legal basis explicit (Lev 18:16; 20:21 forbid taking a brother's wife while the brother is alive). For 'ท่าน' (formal-respectful 2nd-person) for Herod — John speaks with prophetic firmness but conventional deference. ἔχειν τὴν γυναῖκα = 'to have the wife' — euphemistic legal phrase for marriage/sexual union. Thai 'รับ...มาเป็นภรรยาของตน' (take...as one's wife) makes the marriage explicit per uW."}
+      ],
+      "notes": "LEGAL BASIS: Lev 18:16 — 'You shall not uncover the nakedness of your brother's wife; it is your brother's nakedness.' Lev 20:21 — 'If a man takes his brother's wife, it is impurity. He has uncovered his brother's nakedness; they shall be childless.' (The exception was levirate marriage, Deut 25:5–10 — but only when the brother had died without issue, which was not Philip's situation.) John applies the Levitical prohibition to Herod's living-brother situation. PROPHETIC FUNCTION: Mark presents John in classical prophetic mode — the Nathan-to-David, Elijah-to-Ahab pattern of confronting royal sin. John's death in this prophetic frame becomes a foreshadowing of Jesus' death at the hands of political authority threatened by prophetic critique."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 6:19",
+    "chapter": 6,
+    "verse": 19,
+    "greek": "ἡ δὲ Ἡρῳδιὰς ἐνεῖχεν αὐτῷ καὶ ἤθελεν αὐτὸν ἀποκτεῖναι, καὶ οὐκ ἠδύνατο·",
+    "bsb_english": "So Herodias held a grudge against John and wanted to kill him. But she had been unable,",
+    "translation": {
+      "thai": "ฝ่ายนางเฮโรเดียสจึงผูกใจเจ็บแค้นยอห์น และอยากฆ่าเขาเสีย แต่ก็ทำไม่ได้",
+      "key_decisions": [
+        {"greek": "ἐνεῖχεν αὐτῷ", "thai": "ผูกใจเจ็บแค้น", "rationale": "ἐνέχω + dat. = 'hold against, harbor a grudge against' (NT 3x: Mark 6:19; Luke 11:53; Gal 5:1 — different sense). Imperfect: sustained grudge. Thai 'ผูกใจเจ็บแค้น' (tie-heart hurt-bitter) idiomatic for harboring vendetta. 'ฝ่าย...จึง' opens the Herodias-perspective contrast (δέ)."},
+        {"greek": "ἤθελεν αὐτὸν ἀποκτεῖναι", "thai": "อยากฆ่าเขาเสีย", "rationale": "Per uW figs-metonymy: implied — wanted to send-someone to kill him (a queen doesn't personally execute). Thai 'อยากฆ่า...เสีย' (want kill...completely) — 'เสีย' is the Thai aspect-particle for finalizing/eliminative action."},
+        {"greek": "οὐκ ἠδύνατο", "thai": "แต่ก็ทำไม่ได้", "rationale": "Per uW figs-ellipsis: 'she was not able [to kill him].' Thai supplies the implicit object 'ทำ' (do/it). Sets up v.20's explanation of why."}
+      ],
+      "notes": "HERODIAS AS HEROINE OF VENGEANCE: Mark frames Herodias as the active villain — she holds the grudge, she wants the kill. Herod is the conflicted-but-blocked agent. The dynamic mirrors Jezebel-vs.-Elijah (1 Kgs 19:1–2; 21:1–16) — and is the second of three NT female-driven kingmaker stories (Bathsheba, Jezebel, Herodias). FEMINIST READING NOTE: Mark gives Herodias agency that the parallel in Matt 14:8 partially obscures (Matt has Herodias 'instructed by' the daughter); Mark keeps Herodias as the prime mover."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 6:20",
+    "chapter": 6,
+    "verse": 20,
+    "greek": "ὁ γὰρ Ἡρῴδης ἐφοβεῖτο τὸν Ἰωάννην, εἰδὼς αὐτὸν ἄνδρα δίκαιον καὶ ἅγιον, καὶ συνετήρει αὐτόν, καὶ ἀκούσας αὐτοῦ πολλὰ ἠπόρει, καὶ ἡδέως αὐτοῦ ἤκουεν.",
+    "bsb_english": "because Herod feared John and protected him, knowing that he was a righteous and holy man. When he heard John's words, he was greatly perplexed; yet he listened to him gladly.",
+    "translation": {
+      "thai": "เพราะเฮโรดเกรงกลัวยอห์น รู้ว่าเขาเป็นคนชอบธรรมและบริสุทธิ์ จึงคุ้มครองเขาไว้ และเมื่อได้ฟังยอห์น ก็ฉงนสนเท่ห์ในใจเป็นอันมาก แต่ก็ยินดีฟังเขา",
+      "key_decisions": [
+        {"greek": "ὁ γὰρ Ἡρῴδης ἐφοβεῖτο τὸν Ἰωάννην", "thai": "เพราะเฮโรดเกรงกลัวยอห์น", "rationale": "γάρ explanatory (per uW): why Herodias couldn't kill John — Herod protected him. φοβέομαι here = 'fear with reverent awe' rather than 'be terrified' — the religious-superstitious fear of a holy man. Thai 'เกรงกลัว' (revere-fear) captures this nuance — not pure terror, but uneasy awe before holiness."},
+        {"greek": "εἰδὼς αὐτὸν ἄνδρα δίκαιον καὶ ἅγιον", "thai": "รู้ว่าเขาเป็นคนชอบธรรมและบริสุทธิ์", "rationale": "Perfect ptcp εἰδώς ('knowing'). δίκαιος καὶ ἅγιος = 'righteous and holy' — standard biblical pair for prophetic-priestly integrity (cf. Acts 3:14 of Jesus). Thai 'ชอบธรรม' per glossary for δίκαιος; 'บริสุทธิ์' per glossary for ἅγιος (already established as Pentecostal/sanctification term)."},
+        {"greek": "συνετήρει αὐτόν", "thai": "จึงคุ้มครองเขาไว้", "rationale": "Per uW figs-explicit: συντηρέω (NT 3x: Mark 6:20; Matt 9:17; Luke 2:19) = 'preserve, keep safe.' Imperfect: ongoing protection. Thai 'คุ้มครอง...ไว้' (protect...keep) idiomatic for 'kept safe.' Herod's protection is the obstacle to Herodias's plot — explains v.19's 'οὐκ ἠδύνατο.'"},
+        {"greek": "ἀκούσας αὐτοῦ πολλὰ ἠπόρει", "thai": "เมื่อได้ฟังยอห์น ก็ฉงนสนเท่ห์ในใจเป็นอันมาก", "rationale": "Per uW translate-textvariants: SBLGNT πολλὰ ἠπόρει ('was much perplexed') — followed here. Variant πολλὰ ἐποίει ('did many things' — listening to John caused him to do many things) is in Byzantine tradition. SBLGNT is harder reading and earlier MS support (ℵ B L). ἀπορέω = 'be at a loss, perplexed.' Thai 'ฉงนสนเท่ห์ในใจ' (puzzled-perplexed-in-heart) — a doubled verb-pair for the strong perplexity ('greatly'). Per uW figs-activepassive: rendered actively (Herod was perplexed)."},
+        {"greek": "ἡδέως αὐτοῦ ἤκουεν", "thai": "แต่ก็ยินดีฟังเขา", "rationale": "ἡδέως (NT 3x: Mark 6:20; 12:37; 2 Cor 11:19; 12:9, 15) = 'gladly, with pleasure.' Per uW grammar-connect-words-phrases: contrast (καί here functions like 'yet'). Thai 'แต่ก็ยินดีฟัง' (yet-gladly listen) preserves the contrast: perplexed AND pleased — a classic ambivalent-conscience portrait. Herod is a tragic figure: drawn to the prophet, troubled by him, ultimately destroys him."}
+      ],
+      "notes": "TEXTUAL VARIANT (v.20 πολλὰ ἠπόρει vs. πολλὰ ἐποίει): SBLGNT 'πολλὰ ἠπόρει' (was much perplexed) is the SBLGNT/critical reading; Byzantine tradition reads 'πολλὰ ἐποίει' (did many things — i.e., obeyed John in many ways). The 'perplexed' reading is harder and earlier (ℵ B L); the 'did many things' reading fits Byzantine cleaning-up (a more positive Herod-portrait). We follow SBLGNT. PSYCHOLOGICAL PORTRAIT: Mark's Herod is the most psychologically nuanced character in the gospel — fascinated by holiness, protective of the prophet, perplexed by his words, pleased to listen, AND ultimately too proud to back down from a drunken oath. Mark builds a complete tragedy: the man who could have been changed by what he heard becomes the man who silences what he heard. This is Mark's first sustained portrait of moral cowardice in power."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 6:21",
+    "chapter": 6,
+    "verse": 21,
+    "greek": "Καὶ γενομένης ἡμέρας εὐκαίρου ὅτε Ἡρῴδης τοῖς γενεσίοις αὐτοῦ δεῖπνον ἐποίησεν τοῖς μεγιστᾶσιν αὐτοῦ καὶ τοῖς χιλιάρχοις καὶ τοῖς πρώτοις τῆς Γαλιλαίας,",
+    "bsb_english": "On Herod's birthday, her opportunity arose. Herod held a banquet for his nobles and military commanders and the leading men of Galilee.",
+    "translation": {
+      "thai": "ครั้นถึงวันเหมาะ คือวันคล้ายวันเกิดของเฮโรด เฮโรดได้จัดงานเลี้ยงสำหรับเหล่าขุนนาง ผู้บัญชาการทหารพันคน และบรรดาคนสำคัญของแคว้นกาลิลี",
+      "key_decisions": [
+        {"greek": "γενομένης ἡμέρας εὐκαίρου", "thai": "ครั้นถึงวันเหมาะ", "rationale": "Per uW figs-explicit: 'an opportune day' — opportune FOR HERODIAS to engineer John's death. εὔκαιρος (NT 2x: Mark 6:21; Heb 4:16) = 'well-timed, opportune.' Thai 'วันเหมาะ' (suitable-day) preserves the loaded term — the Greek already implies the sinister timing without spelling it out, and so does Thai 'เหมาะ' (apt/fitting/timely). The full sinister sense unfolds in vv.22ff."},
+        {"greek": "τοῖς γενεσίοις αὐτοῦ δεῖπνον ἐποίησεν", "thai": "คือวันคล้ายวันเกิดของเฮโรด เฮโรดได้จัดงานเลี้ยง", "rationale": "Per uW translate-unknown: γενέσια (NT 2x: Mark 6:21; Matt 14:6) = birthday celebration (Greek-Roman royal custom; Jews traditionally avoided birthday celebrations as pagan). Thai 'วันคล้ายวันเกิด' (anniversary-of-birth-day) standard formal phrase. Per uW figs-explicit: implied — Herod had servants make the dinner. Thai 'จัดงานเลี้ยง' (organize-banquet) covers this."},
+        {"greek": "τοῖς μεγιστᾶσιν αὐτοῦ καὶ τοῖς χιλιάρχοις καὶ τοῖς πρώτοις τῆς Γαλιλαίας", "thai": "เหล่าขุนนาง ผู้บัญชาการทหารพันคน และบรรดาคนสำคัญของแคว้นกาลิลี", "rationale": "Per uW figs-explicit: three court-categories. (1) μεγιστᾶνες (NT 3x: Mark 6:21; Rev 6:15; 18:23) — 'great ones, magnates' = high court officials. Thai 'ขุนนาง' (noble-courtier) standard. (2) χιλίαρχοι — 'commanders of a thousand' = military tribunes/colonels. Thai 'ผู้บัญชาการทหารพันคน' (commander-of-a-thousand-soldiers) preserves the Latin tribunus-militum sense. (3) τοῖς πρώτοις τῆς Γαλιλαίας — per uW figs-metaphor: 'the first ones of Galilee' = leading citizens, civil notables. Thai 'บรรดาคนสำคัญ' (the-important-people)."}
+      ],
+      "notes": "THE CELEBRITY GUEST LIST: Mark catalogues the audience precisely because the audience is the trap. Court officials, military commanders, Galilean elite — all witness the king's promise to the dancer. The crowd is what makes Herod's later refusal-to-back-down inevitable (v.26 — 'because of the oaths and the guests'). Mark sets up the moral physics: power + audience + drunken oath = a man trapped by his own pride. BIRTHDAY: pagan custom; among Jews of the period, only Herod the Great is recorded as having celebrated birthdays (Persius, Sat. 5.179–184 satirizes 'Herod's days'). Mark's note locates Herod culturally with the pagans, not the pious Jews."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 6:22",
+    "chapter": 6,
+    "verse": 22,
+    "greek": "καὶ εἰσελθούσης τῆς θυγατρὸς αὐτῆς τῆς Ἡρῳδιάδος καὶ ὀρχησαμένης καὶ ἀρεσάσης τῷ Ἡρῴδῃ καὶ τοῖς συνανακειμένοις, εἶπεν ὁ βασιλεὺς τῷ κορασίῳ· Αἴτησόν με ὃ ἐὰν θέλῃς, καὶ δώσω σοι·",
+    "bsb_english": "When the daughter of Herodias came and danced, she pleased Herod and his guests, and the king said to the girl, \"Ask me for whatever you wish, and I will give it to you.\"",
+    "translation": {
+      "thai": "เมื่อบุตรสาวของนางเฮโรเดียสเข้ามาเต้นรำ ก็เป็นที่พอพระทัยเฮโรดและแขกร่วมโต๊ะ กษัตริย์จึงตรัสกับหญิงสาวนั้นว่า 'เธอจะขอสิ่งใดจากเรา ก็ขอเถิด เราจะให้เจ้า'",
+      "key_decisions": [
+        {"greek": "εἰσελθούσης τῆς θυγατρὸς αὐτῆς τῆς Ἡρῳδιάδος", "thai": "เมื่อบุตรสาวของนางเฮโรเดียสเข้ามา", "rationale": "Per uW translate-textvariants: SBLGNT 'τῆς θυγατρὸς αὐτοῦ Ἡρῳδιάδος' (lit. 'his daughter, Herodias' — implies Herod's daughter named Herodias) is the harder reading; some translations follow 'τῆς θυγατρὸς αὐτῆς τῆς Ἡρῳδιάδος' (her daughter of Herodias). The MACULA-extracted text here gives 'τῆς θυγατρὸς αὐτῆς τῆς Ἡρῳδιάδος' — we follow the MACULA reading: 'the daughter of Herodias' (Herodias's daughter from her previous marriage = Herod's stepdaughter). Per Josephus, the dancing daughter was Salome (named in Ant. 18.5.4) — Herodias's daughter by Philip. Thai 'บุตรสาวของนางเฮโรเดียส' (daughter of Lady Herodias) follows the simpler reading. Mark does NOT name her (Salome's name comes from Josephus only)."},
+        {"greek": "ὀρχησαμένης καὶ ἀρεσάσης τῷ Ἡρῴδῃ καὶ τοῖς συνανακειμένοις", "thai": "เต้นรำ ก็เป็นที่พอพระทัยเฮโรดและแขกร่วมโต๊ะ", "rationale": "ὀρχέομαι = 'dance.' Per uW figs-explicit: συνανακείμενοι = 'those reclining-with' — fellow diners (cultural practice of reclining at banquet). Thai 'แขกร่วมโต๊ะ' (table-companions) renders the cultural background as 'banquet guests' for natural Thai. 'พอพระทัย' (pleased royal-mind) — uses royal register for Herod's reception (he's the host-king at his own banquet). NOTE: The dance was almost certainly socially scandalous — royal princesses didn't normally dance for male guests; this performance is part of the trap Herodias is laying."},
+        {"greek": "εἶπεν ὁ βασιλεὺς τῷ κορασίῳ", "thai": "กษัตริย์จึงตรัสกับหญิงสาวนั้น", "rationale": "Per uW figs-explicit + translate-unknown: κοράσιον (NT 8x, mostly Mark 5 + Mark 6 here) = 'young girl' (12–20 yrs old per uW). Thai 'หญิงสาว' (young-woman) per uW recommendation. 'กษัตริย์' (king) preserves Mark's βασιλεύς. Royal 'ตรัส' for Herod's address (kingly speech, public)."},
+        {"greek": "Αἴτησόν με ὃ ἐὰν θέλῃς, καὶ δώσω σοι", "thai": "'เธอจะขอสิ่งใดจากเรา ก็ขอเถิด เราจะให้เจ้า'", "rationale": "Per uW figs-quotations: direct quotation (Greek already direct). Per uW figs-yousingular: αἴτησον/θέλῃς/σοι all sg. — Herod to the girl. Thai 'เธอ' (familiar-affectionate 2nd-person) and 'เจ้า' (intimate-direct) — a king to a young dancer would use intimate-affectionate register, paternal-warm. 'เรา' royal-self (kingly first-person plural-of-majesty). The promise is grandly open-ended — sets up the trap."}
+      ],
+      "notes": "TEXTUAL VARIANT: SBLGNT vs. variant on whose daughter (αὐτοῦ vs. αὐτῆς). MACULA-extracted Greek here uses 'αὐτῆς' = 'her daughter [Herodias's]' — i.e., Herodias's daughter from a prior marriage = Herod's stepdaughter. The historic Salome (per Josephus) was Herodias's daughter by Herod-Philip. The variant 'αὐτοῦ' (his daughter) would create a daughter-named-Herodias of Herod's — historically unattested. We follow MACULA / the SBLGNT reading and translate 'บุตรสาวของนางเฮโรเดียส.' DANCING-PERFORMANCE: the public dance by a royal princess was scandalous in Greco-Roman elite culture (slaves and hetaerae danced; daughters of kings did not). Herodias's calculated use of her daughter as bait is part of Mark's portrait of her ruthlessness."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 6:23",
+    "chapter": 6,
+    "verse": 23,
+    "greek": "καὶ ὤμοσεν αὐτῇ· Ὅ τι ἐάν με αἰτήσῃς δώσω σοι ἕως ἡμίσους τῆς βασιλείας μου.",
+    "bsb_english": "And he swore to her, \"Whatever you ask of me, I will give you, up to half my kingdom!\"",
+    "translation": {
+      "thai": "พระองค์ทรงสาบานกับนางว่า 'สิ่งใดที่เธอขอจากเรา เราจะให้เจ้า แม้เป็นถึงครึ่งหนึ่งของอาณาจักรของเรา'",
+      "key_decisions": [
+        {"greek": "ὤμοσεν αὐτῇ", "thai": "พระองค์ทรงสาบานกับนาง", "rationale": "ὀμνύω = 'swear an oath.' Royal 'ทรงสาบาน' for the king's formal oath. The oath escalates the casual offer of v.22 to legally-binding promise — the trap is now sealed. Per uW figs-quotations: direct quote keeps the dramatic immediacy."},
+        {"greek": "Ὅ τι ἐάν με αἰτήσῃς δώσω σοι", "thai": "'สิ่งใดที่เธอขอจากเรา เราจะให้เจ้า'", "rationale": "Per uW figs-yousingular: αἰτήσῃς/σοι sg. Restating the offer of v.22 in formal-oath language. Thai preserves 'เธอ/เจ้า' (intimate-affectionate) for the address."},
+        {"greek": "ἕως ἡμίσους τῆς βασιλείας μου", "thai": "แม้เป็นถึงครึ่งหนึ่งของอาณาจักรของเรา", "rationale": "Per uW figs-hyperbole: 'up to half my kingdom' — formulaic royal-promise hyperbole (cf. Esther 5:3, 6, where Ahasuerus uses the same formula to Esther — Mark may be deliberately echoing the Esther scene where a king's drunken-offer gets a Jewish woman to ask for a head). Thai 'แม้เป็นถึงครึ่งหนึ่ง' (even up to half) preserves the hyperbole. βασιλεία here = political kingdom (not eschatological). NOTE: Herod was tetrarch, NOT king (Antipas had no βασιλεία to give half of) — adds dramatic irony."}
+      ],
+      "notes": "ESTHER ECHO: The king's 'half my kingdom' offer (Esth 5:3; 5:6; 7:2) — Mark may be echoing the Esther scene deliberately. In Esther, the formula leads to the saving of Jewish lives; in Mark, the formula leads to the death of a prophet. The reversal is Markan irony at its sharpest. ESCALATION: v.22 casual offer → v.23 sworn oath. Herod has now bound himself in front of his court. The trap is sprung in v.24."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 6:24",
+    "chapter": 6,
+    "verse": 24,
+    "greek": "καὶ ἐξελθοῦσα εἶπεν τῇ μητρὶ αὐτῆς· Τί αἰτήσωμαι; ἡ δὲ εἶπεν· Τὴν κεφαλὴν Ἰωάννου τοῦ βαπτίζοντος.",
+    "bsb_english": "Then she went out and asked her mother, \"What should I request?\" And her mother answered, \"The head of John the Baptist.\"",
+    "translation": {
+      "thai": "หญิงสาวจึงออกไปถามมารดาของตนว่า 'ลูกควรขอสิ่งใดดี?' มารดาตอบว่า 'จงขอศีรษะของยอห์นผู้ให้บัพติศมา'",
+      "key_decisions": [
+        {"greek": "ἐξελθοῦσα εἶπεν τῇ μητρὶ αὐτῆς", "thai": "หญิงสาวจึงออกไปถามมารดาของตน", "rationale": "Per uW figs-explicit: 'her mother' = Herodias. Thai makes the subject 'หญิงสาว' (the young woman) explicit. 'มารดาของตน' (one's-own-mother) reflexive."},
+        {"greek": "Τί αἰτήσωμαι", "thai": "'ลูกควรขอสิ่งใดดี?'", "rationale": "Aorist deliberative subjunctive: 'What should I ask?' Daughter-to-mother register: 'ลูก' (child) for self-reference (a daughter calling herself 'ลูก' to her mother is intimate-affectionate). Direct quote preserved. The girl genuinely doesn't know what to request — the gruesome answer is wholly Herodias's idea."},
+        {"greek": "Τὴν κεφαλὴν Ἰωάννου τοῦ βαπτίζοντος", "thai": "'จงขอศีรษะของยอห์นผู้ให้บัพติศมา'", "rationale": "Per uW figs-ellipsis: '[ask for] the head of John...' Thai supplies 'จงขอ' (you-ask). Per uW figs-explicit: implied — head means 'after he is beheaded.' Thai 'ศีรษะ' (head — formal, slightly elevated register over everyday 'หัว'). 'ยอห์นผู้ให้บัพติศมา' consistent with v.14 rendering. The brevity of Herodias's reply is chilling — no hesitation, no explanation; the request was waiting."}
+      ],
+      "notes": "HERODIAS THE STRATEGIST: Mark's Herodias has been waiting for this moment since v.19. The whole banquet — daughter's dance, king's oath — is the engineered occasion. Her one-line answer is the perfectly aimed dagger: she gets her revenge and forces her conflicted husband to deliver it publicly. Mark's psychology of the long grudge: bide your time, set the trap, deliver the demand."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 6:25",
+    "chapter": 6,
+    "verse": 25,
+    "greek": "καὶ εἰσελθοῦσα εὐθὺς μετὰ σπουδῆς πρὸς τὸν βασιλέα ᾐτήσατο λέγουσα· Θέλω ἵνα ἐξαυτῆς δῷς μοι ἐπὶ πίνακι τὴν κεφαλὴν Ἰωάννου τοῦ βαπτιστοῦ.",
+    "bsb_english": "At once the girl hurried back to the king with her request: \"I want you to give me the head of John the Baptist on a platter immediately.\"",
+    "translation": {
+      "thai": "หญิงสาวจึงรีบกลับเข้าไปเฝ้ากษัตริย์ทันที ทูลขอว่า 'หม่อมฉันขอประทาน ขอพระองค์ทรงประทานศีรษะของยอห์นผู้ให้บัพติศมาใส่ถาดให้แก่หม่อมฉันในบัดเดี๋ยวนี้'",
+      "key_decisions": [
+        {"greek": "εἰσελθοῦσα εὐθὺς μετὰ σπουδῆς πρὸς τὸν βασιλέα", "thai": "หญิงสาวจึงรีบกลับเข้าไปเฝ้ากษัตริย์ทันที", "rationale": "Per uW figs-abstractnouns: σπουδή = 'haste, eagerness.' Markan εὐθύς + μετὰ σπουδῆς — doubled urgency. Thai 'รีบ...ทันที' (hurry...immediately) preserves both. 'เฝ้ากษัตริย์' (royal-audience-with-king) — formal Thai for approaching a monarch."},
+        {"greek": "Θέλω ἵνα ἐξαυτῆς δῷς μοι ἐπὶ πίνακι τὴν κεφαλὴν Ἰωάννου τοῦ βαπτιστοῦ", "thai": "'หม่อมฉันขอประทาน ขอพระองค์ทรงประทานศีรษะของยอห์นผู้ให้บัพติศมาใส่ถาดให้แก่หม่อมฉันในบัดเดี๋ยวนี้'", "rationale": "Per uW figs-explicit + figs-yousingular: 'I want that you immediately give me on a platter the head of John the Baptist.' THAI REGISTER SHIFT: now the girl is in formal court-audience speaking to the king. Switch from her familial address ('ลูก' to mother in v.24) to formal court address ('หม่อมฉัน' = formal-female-self for royal-court; 'พระองค์' = royal-2nd-person; 'ทรงประทาน' = royal-bestow). She has been coached to use court-formal speech. Per uW translate-unknown: πίναξ = large flat platter (NT 5x). Thai 'ถาด' (tray/platter) standard. ἐξαυτῆς = 'at once, this very moment' — Thai 'ในบัดเดี๋ยวนี้' (right-this-very-moment). NOTE: she upgrades her mother's bare 'head' to 'on a platter immediately' — a flourish Herodias hadn't asked for, perhaps a little dancer's instinct for theatricality. Per uW: τοῦ βαπτιστοῦ here (not τοῦ βαπτίζοντος) — Mark uses both titles (βαπτίζων = present-participle 'baptizer'; βαπτιστής = noun 'Baptist'). We render both as 'ผู้ให้บัพติศมา' for Thai consistency, since Thai doesn't have a natural way to distinguish the two Greek forms."}
+      ],
+      "notes": "THE GIRL'S EMBELLISHMENTS: Mother said only 'the head of John the Baptist'; the daughter adds 'on a platter, immediately.' Two telling additions: (1) the platter (πίναξ) — a banquet-serving dish, dramatically appropriate to the setting; (2) ἐξαυτῆς ('at once') — denying Herod even a moment to think his way out. Whether the additions are her own theatrical instinct or further parental coaching, they tighten the noose around Herod. SPEECH-VERB SHIFT: Mark uses βαπτίζων (v.14, v.24) and βαπτιστής (v.25) interchangeably as titles. Thai unifies both as 'ผู้ให้บัพติศมา.'"
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 6:26",
+    "chapter": 6,
+    "verse": 26,
+    "greek": "καὶ περίλυπος γενόμενος ὁ βασιλεὺς διὰ τοὺς ὅρκους καὶ τοὺς ἀνακειμένους οὐκ ἠθέλησεν ἀθετῆσαι αὐτήν·",
+    "bsb_english": "The king was consumed with sorrow, but because of his oaths and his guests, he did not want to refuse her.",
+    "translation": {
+      "thai": "กษัตริย์ทรงเศร้าพระทัยอย่างยิ่ง แต่เพราะคำสาบานและบรรดาแขกร่วมโต๊ะ พระองค์จึงไม่ทรงปรารถนาจะปฏิเสธนาง",
+      "key_decisions": [
+        {"greek": "περίλυπος γενόμενος", "thai": "ทรงเศร้าพระทัยอย่างยิ่ง", "rationale": "περίλυπος (NT 5x) = 'deeply grieved, exceedingly sorrowful' (περί- intensive + λύπη). Same word used of Jesus in Gethsemane (Mark 14:34). Royal 'ทรงเศร้าพระทัย' (royal-sad-mind) for kingly grief; 'อย่างยิ่ง' for the περί- intensification. Mark's vocabulary choice is striking — Herod and Jesus share the same 'deeply grieved' descriptor, Herod facing his guilt, Jesus facing the cross."},
+        {"greek": "διὰ τοὺς ὅρκους καὶ τοὺς ἀνακειμένους", "thai": "เพราะคำสาบานและบรรดาแขกร่วมโต๊ะ", "rationale": "Per uW figs-explicit: two reasons — the oaths and the witnesses. ὅρκοι plural — perhaps the doubled oath (v.22 promise + v.23 oath) or the public-formality. Thai 'คำสาบาน' (oath-words) standard; 'บรรดาแขกร่วมโต๊ะ' consistent with v.22."},
+        {"greek": "οὐκ ἠθέλησεν ἀθετῆσαι αὐτήν", "thai": "พระองค์จึงไม่ทรงปรารถนาจะปฏิเสธนาง", "rationale": "Per uW figs-doublenegatives: οὐκ + ἀθετῆσαι (negative verb) = double negation. Thai keeps 'ไม่ทรงปรารถนาจะปฏิเสธ' (was-unwilling to refuse) — preserves the moral weight of his unwillingness without Greek's emphatic doubling (Thai's natural construction handles it cleanly). ἀθετέω = 'set aside, nullify, reject' — semi-technical for rejecting an oath (cf. Heb 10:28 of rejecting Mosaic law). Royal 'ทรงปรารถนา' for kingly desire."}
+      ],
+      "notes": "HEROD'S SHARED LANGUAGE WITH JESUS: περίλυπος is the gospel's verb for the most extreme grief. Mark uses it of Herod here and of Jesus in Gethsemane (14:34). Mark's lexical irony: both men sit at table, both face an irrevocable choice, both grieve — but Jesus chooses obedience to the Father (the cup), Herod chooses obedience to his court (the oath). Two banquet-table griefs; two opposite outcomes. MORAL COWARDICE: Herod's grief is real and his unwillingness is real, but pride wins. The decisive factor is the witnesses, not God or conscience. Mark's anatomy of how a king becomes a murderer."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 6:27",
+    "chapter": 6,
+    "verse": 27,
+    "greek": "καὶ εὐθὺς ἀποστείλας ὁ βασιλεὺς σπεκουλάτορα ἐπέταξεν ἐνέγκαι τὴν κεφαλὴν αὐτοῦ. καὶ ἀπελθὼν ἀπεκεφάλισεν αὐτὸν ἐν τῇ φυλακῇ",
+    "bsb_english": "So without delay, the king commanded that John's head be brought in. He sent an executioner, who went and beheaded him in the prison.",
+    "translation": {
+      "thai": "ทันใดนั้น กษัตริย์จึงทรงส่งเพชฌฆาตไป สั่งให้นำศีรษะของยอห์นมา เพชฌฆาตจึงไปตัดศีรษะยอห์นในคุก",
+      "key_decisions": [
+        {"greek": "καὶ εὐθὺς ἀποστείλας ὁ βασιλεὺς σπεκουλάτορα ἐπέταξεν", "thai": "ทันใดนั้น กษัตริย์จึงทรงส่งเพชฌฆาตไป สั่งให้", "rationale": "Markan εὐθύς. Per uW figs-events: chronologically, command precedes sending — 'commanding an executioner, sent him.' Thai 'สั่งให้' after 'ส่ง...ไป' preserves the action sequence naturally."},
+        {"greek": "σπεκουλάτορα", "thai": "เพชฌฆาต", "rationale": "HAPAX LEGOMENON in NT: σπεκουλάτωρ (only Mark 6:27) = Latin loanword speculator — originally a military scout, then bodyguard, then executioner. Per uW translate-unknown: 'soldier who executes for his commander.' Thai 'เพชฌฆาต' (executioner — the Sanskrit-derived legal-formal Thai term) standard; carries the right gravity. NOTE THE LATIN: Mark frequently uses Latin loanwords (legio in 5:9, denarius, kentyrion etc.) — markers of Roman occupation infiltrating the Greek narrative. Here a Latin-named Roman soldier executes a Jewish prophet at a Herodian (client-king) court — three layers of imperial complicity in one word. The hapax-status of σπεκουλάτωρ in the NT is itself notable: this gruesome scene needed a specific bureaucratic-military term."},
+        {"greek": "ἐνέγκαι τὴν κεφαλὴν αὐτοῦ", "thai": "นำศีรษะของยอห์นมา", "rationale": "Per uW figs-explicit: implied — to behead and then bring. Thai 'นำศีรษะของยอห์นมา' (bring John's head — making the referent explicit since Greek 'his' could be ambiguous). Thai 'ของยอห์น' is a translator's clarification matched against the participial chain that follows."},
+        {"greek": "ἀπελθὼν ἀπεκεφάλισεν αὐτὸν ἐν τῇ φυλακῇ", "thai": "เพชฌฆาตจึงไปตัดศีรษะยอห์นในคุก", "rationale": "Aor. ptcp + main verb. ἀποκεφαλίζω = 'behead' (NT 4x — same verb as v.16; consistent rendering 'ตัดศีรษะ'). Thai 'เพชฌฆาตจึงไป' supplies the implicit subject for clarity in Thai — Greek's continuous 3sg from σπεκουλάτορα stays implicit, but Thai needs 'เพชฌฆาต' restated to keep readers anchored. 'ในคุก' for ἐν τῇ φυλακῇ — at Machaerus per Josephus."}
+      ],
+      "notes": "HAPAX: σπεκουλάτωρ — Latin loanword, NT only here. The Latin word in a Jewish-prophetic context is Mark's quiet political indictment: Roman executioner kills Jewish prophet at Herodian banquet. The whole imperial system is implicated in the prophet's death — and will be implicated again in 15:39 when a kentyrion stands at the cross. EFFICIENCY: Mark's prose here is brutally compressed — εὐθὺς ἀποστείλας...ἐπέταξεν...ἀπελθὼν ἀπεκεφάλισεν — four verbs in one sentence track the death. Whatever interior anguish Herod has, the bureaucratic machinery moves with mechanical efficiency. The horror is the speed."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 6:28",
+    "chapter": 6,
+    "verse": 28,
+    "greek": "καὶ ἤνεγκεν τὴν κεφαλὴν αὐτοῦ ἐπὶ πίνακι καὶ ἔδωκεν αὐτὴν τῷ κορασίῳ, καὶ τὸ κοράσιον ἔδωκεν αὐτὴν τῇ μητρὶ αὐτῆς.",
+    "bsb_english": "The man brought John's head on a platter and presented it to the girl, who gave it to her mother.",
+    "translation": {
+      "thai": "และนำศีรษะของยอห์นใส่ถาดมามอบแก่หญิงสาว แล้วหญิงสาวก็มอบให้แก่มารดาของตน",
+      "key_decisions": [
+        {"greek": "ἤνεγκεν τὴν κεφαλὴν αὐτοῦ ἐπὶ πίνακι", "thai": "นำศีรษะของยอห์นใส่ถาดมา", "rationale": "Continuation of σπεκουλάτορα as subject. Thai 'ใส่ถาดมา' (in-platter brought) consistent with v.25's πίναξ rendering as 'ถาด.' The grim banquet-tray fulfilling the dancer's request."},
+        {"greek": "ἔδωκεν αὐτὴν τῷ κορασίῳ, καὶ τὸ κοράσιον ἔδωκεν αὐτὴν τῇ μητρὶ αὐτῆς", "thai": "มอบแก่หญิงสาว แล้วหญิงสาวก็มอบให้แก่มารดาของตน", "rationale": "Two-step transfer: executioner→girl→mother. Thai mirrors the chain. 'หญิงสาว' consistent with v.22's κορασίῳ rendering. 'มารดาของตน' (one's-own-mother) reflexive — the daughter is acting for the mother all along; the gift's true recipient is Herodias, who got what she wanted."}
+      ],
+      "notes": "RITUAL OF THE HEAD: the head moves through three hands — soldier to dancer to mother. Mark's slow-motion choreography emphasizes the ghoulish completion of Herodias's plot. Ancient banquet conventions used platters for honored portions of food — Mark inverts this: the platter that should bear delicacies bears a martyred prophet's head. The horror is in the banquet-domestic setting of the act."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 6:29",
+    "chapter": 6,
+    "verse": 29,
+    "greek": "καὶ ἀκούσαντες οἱ μαθηταὶ αὐτοῦ ἦλθον καὶ ἦραν τὸ πτῶμα αὐτοῦ καὶ ἔθηκαν αὐτὸ ἐν μνημείῳ.",
+    "bsb_english": "When John's disciples heard about this, they came and took his body and placed it in a tomb.",
+    "translation": {
+      "thai": "เมื่อพวกสาวกของยอห์นได้ทราบเหตุ ก็มายังที่นั้น เชิญร่างของท่านออกมาวางไว้ในอุโมงค์ฝังศพ",
+      "key_decisions": [
+        {"greek": "ἀκούσαντες οἱ μαθηταὶ αὐτοῦ", "thai": "เมื่อพวกสาวกของยอห์นได้ทราบเหตุ", "rationale": "John's own disciples (cf. Mark 2:18) — not Jesus' disciples. Thai 'พวกสาวกของยอห์น' (John's disciples) makes the antecedent explicit, since Greek 'his' could be ambiguous. 'ได้ทราบเหตุ' (came-to-know-the-matter) idiomatic Thai."},
+        {"greek": "ἦλθον καὶ ἦραν τὸ πτῶμα αὐτοῦ καὶ ἔθηκαν αὐτὸ ἐν μνημείῳ", "thai": "ก็มายังที่นั้น เชิญร่างของท่านออกมาวางไว้ในอุโมงค์ฝังศพ", "rationale": "Per uW figs-explicit on ἦλθον: implied — 'came to the prison.' Thai 'มายังที่นั้น' (came to that-place). πτῶμα = 'corpse, fallen body.' Thai 'ร่าง' (body — formal-respectful for a deceased prophet); 'เชิญ...ออกมา' (respectfully-take...out — 'เชิญ' is the Thai honorific verb for handling an honored person/object — appropriate for John's body). 'อุโมงค์ฝังศพ' for μνημεῖον consistent with Mark 5:2 rendering."}
+      ],
+      "notes": "JOHN'S BURIAL: a quiet, dignified end-frame to the brutal vv.17–28. John's disciples (the same group mentioned in Mark 2:18 — distinct from Jesus' disciples) perform the funeral rites. Mark's story-arc closes with proper burial — and unmistakably foreshadows Jesus' own burial (15:42–47 — Joseph of Arimathea takes Jesus' body, lays it in a tomb). The structural parallel is deliberate: prophet-killed-by-conflicted-king-buried-by-disciples is the template for Jesus-killed-by-conflicted-Pilate-buried-by-disciple. Mark's flashback completes itself in the present narrative when Jesus is laid in his tomb. END OF FLASHBACK: v.30 returns to the main narrative — the Twelve report back from their mission (last seen v.13)."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 6:30",
+    "chapter": 6,
+    "verse": 30,
+    "greek": "Καὶ συνάγονται οἱ ἀπόστολοι πρὸς τὸν Ἰησοῦν, καὶ ἀπήγγειλαν αὐτῷ πάντα ὅσα ἐποίησαν καὶ ὅσα ἐδίδαξαν.",
+    "bsb_english": "Meanwhile, the apostles gathered around Jesus and brought Him news of all they had done and taught.",
+    "translation": {
+      "thai": "ฝ่ายพวกอัครทูตกลับมาประชุมกับพระเยซู ทูลรายงานพระองค์ถึงทุกสิ่งที่พวกเขาได้กระทำและได้สั่งสอน",
+      "key_decisions": [
+        {"greek": "Καὶ συνάγονται οἱ ἀπόστολοι πρὸς τὸν Ἰησοῦν", "thai": "ฝ่ายพวกอัครทูตกลับมาประชุมกับพระเยซู", "rationale": "Per uW writing-newevent: returns to main narrative after vv.17–29 flashback. 'ฝ่าย' (as-for-them) opens the back-to-main-thread frame. Per uW figs-activepassive on συνάγονται: middle-passive = 'gather themselves.' Historic present (per uW translate-tense list — v.30 in HP-cluster). Thai 'กลับมาประชุม' (return-and-gather) — captures both the returning and the assembling. ἀπόστολοι = 'sent ones' — Mark's only NT use of the noun in this gospel (3:14 has the verbal form). Thai 'พวกอัครทูต' (the-chief-messengers) — the standard Thai biblical term for 'apostles.' Now that they have completed a sending, they earn the title (cf. v.7 onwards, where they're 'the Twelve' until they actually do the work)."},
+        {"greek": "ἀπήγγειλαν αὐτῷ πάντα ὅσα ἐποίησαν καὶ ὅσα ἐδίδαξαν", "thai": "ทูลรายงานพระองค์ถึงทุกสิ่งที่พวกเขาได้กระทำและได้สั่งสอน", "rationale": "ἀπαγγέλλω = 'report back, announce.' Thai 'ทูลรายงาน' (deferentially-report) — disciples to Jesus use the deferential 'ทูล' speech-verb. Per uW figs-explicitinfo: 'all, as much as they did and as much as they taught' — Thai shortens to 'ทุกสิ่งที่...กระทำและสั่งสอน' (all-that they-did and taught) — cleaner Thai while preserving the dual scope (deeds + words). Note: the order is deeds-first, then teaching — matching Acts 1:1 ('what Jesus began both to do and to teach') and Mark's own practice (Mark frequently shows Jesus DOING then explaining)."}
+      ],
+      "notes": "RETURN TO MAIN NARRATIVE: Mark closes the flashback (vv.17–29) and resumes the apostolic-mission thread (vv.7–13). The structural placement is deliberate — between Twelve-sent-out and Twelve-returned, Mark inserts John's death. The implication: as the new mission begins, the old prophet falls. The kingdom-message advances even as its forerunner is silenced. ἀπόστολοι: Mark's only use of the noun (3:14 is verbal). Earned-by-doing. The Twelve become apostles by being sent and returning to report."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 6:31",
+    "chapter": 6,
+    "verse": 31,
+    "greek": "καὶ λέγει αὐτοῖς· Δεῦτε ὑμεῖς αὐτοὶ κατ' ἰδίαν εἰς ἔρημον τόπον καὶ ἀναπαύσασθε ὀλίγον. ἦσαν γὰρ οἱ ἐρχόμενοι καὶ οἱ ὑπάγοντες πολλοί, καὶ οὐδὲ φαγεῖν εὐκαίρουν.",
+    "bsb_english": "And He said to them, \"Come with Me privately to a solitary place, and let us rest for a while.\" For many people were coming and going, and they did not even have time to eat.",
+    "translation": {
+      "thai": "พระองค์ตรัสกับพวกเขาว่า 'พวกเจ้าทั้งหลายจงตามเรามายังที่เปลี่ยวแต่ลำพัง พักผ่อนสักหน่อยเถิด' เพราะมีผู้คนไปมากันมากมาย จนพวกเขาไม่มีเวลาแม้แต่จะรับประทานอาหาร",
+      "key_decisions": [
+        {"greek": "λέγει αὐτοῖς (hist. pres.)", "thai": "พระองค์ตรัสกับพวกเขา", "rationale": "Historic present (per uW v.31 in HP list). Royal 'ตรัส' for Jesus."},
+        {"greek": "Δεῦτε ὑμεῖς αὐτοὶ κατ' ἰδίαν εἰς ἔρημον τόπον", "thai": "'พวกเจ้าทั้งหลายจงตามเรามายังที่เปลี่ยวแต่ลำพัง'", "rationale": "Per uW figs-rpronouns: αὐτοί intensive 'you yourselves.' Thai 'พวกเจ้าทั้งหลาย' (you-all-yourselves) preserves the intensification. δεῦτε = adverbial 'come!' (Mark uses this often). κατ' ἰδίαν = 'privately, apart' — Thai 'แต่ลำพัง' (only-alone) standard. ἔρημος τόπος per glossary = ที่เปลี่ยว. The ἔρημος-motif: Jesus retreats to wilderness for renewal, just as he opened his ministry there (1:12–13, 35)."},
+        {"greek": "ἀναπαύσασθε ὀλίγον", "thai": "พักผ่อนสักหน่อยเถิด", "rationale": "ἀναπαύω = 'rest, refresh.' Thai 'พักผ่อน' (rest) standard. 'สักหน่อย' for ὀλίγον (a little while). 'เถิด' polite-imperative softener — Jesus invites rather than commands."},
+        {"greek": "ἦσαν γὰρ οἱ ἐρχόμενοι καὶ οἱ ὑπάγοντες πολλοί, καὶ οὐδὲ φαγεῖν εὐκαίρουν", "thai": "เพราะมีผู้คนไปมากันมากมาย จนพวกเขาไม่มีเวลาแม้แต่จะรับประทานอาหาร", "rationale": "Per uW figs-explicit: 'the ones coming and going' = the constant stream of visitors. Thai 'ผู้คนไปมากันมากมาย' (people-coming-going-many) idiomatic. Per uW figs-abstractnouns: εὐκαίρουν (verbal form of εὔκαιρος from v.21!) — 'they did not even have opportunity to eat.' Same root, different tone — v.21's 'opportune day' is sinister; here it's mundane (no time to eat). Thai 'ไม่มีเวลาแม้แต่จะรับประทานอาหาร' (didn't-have time even to eat) makes the negation strong. 'รับประทาน' = polite/honorific verb for eating, fits the disciples' status."}
+      ],
+      "notes": "JESUS' PASTORAL CARE: notice the immediate response to John's death (vv.17–29) — Jesus pulls his disciples aside to rest. Whether or not Mark intended a psychological connection, the placement is poignant: news of John's martyrdom + the mission-debrief = the disciples need solitude with their teacher. ἔρημος τόπος THEME: Mark's 'wilderness/desolate place' is both physical (away from crowds) and theological (the formative space — John baptized in the wilderness, Jesus was tempted there, Jesus prayed there in 1:35). The wilderness is where God meets his people."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 6:32",
+    "chapter": 6,
+    "verse": 32,
+    "greek": "καὶ ἀπῆλθον ἐν τῷ πλοίῳ εἰς ἔρημον τόπον κατ' ἰδίαν.",
+    "bsb_english": "So they went away in a boat by themselves to a solitary place.",
+    "translation": {
+      "thai": "พระองค์กับพวกสาวกจึงลงเรือไปยังที่เปลี่ยวแต่ลำพัง",
+      "key_decisions": [
+        {"greek": "ἀπῆλθον ἐν τῷ πλοίῳ εἰς ἔρημον τόπον κατ' ἰδίαν", "thai": "พระองค์กับพวกสาวกจึงลงเรือไปยังที่เปลี่ยวแต่ลำพัง", "rationale": "3pl. aorist (subject = Jesus + disciples). Thai makes the subject 'พระองค์กับพวกสาวก' explicit (Greek's 3pl. needs naming in Thai narrative). 'ลงเรือ' (board-boat) for ἐν τῷ πλοίῳ (the boat — definite article suggests the same boat from earlier; per uW figs-genericnoun could be either 'the' or 'a' — we render with the natural action 'ลงเรือ' which doesn't force the article). Consistent rendering of ἔρημον τόπον / κατ' ἰδίαν with v.31."}
+      ],
+      "notes": "Brief transit verse. Sets up the unsuccessful retreat — the crowds will catch them by foot (v.33)."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 6:33",
+    "chapter": 6,
+    "verse": 33,
+    "greek": "καὶ εἶδον αὐτοὺς ὑπάγοντας καὶ ἐπέγνωσαν πολλοί, καὶ πεζῇ ἀπὸ πασῶν τῶν πόλεων συνέδραμον ἐκεῖ καὶ προῆλθον αὐτούς.",
+    "bsb_english": "But many people saw them leaving and recognized them. They ran together on foot from all the towns and arrived before them.",
+    "translation": {
+      "thai": "แต่มีผู้คนเห็นพวกเขาออกเรือไป และจำพระองค์ได้เป็นอันมาก จึงพากันวิ่งทางบกจากทุกเมืองมาที่นั่น และไปถึงก่อนพวกพระองค์",
+      "key_decisions": [
+        {"greek": "εἶδον αὐτοὺς ὑπάγοντας καὶ ἐπέγνωσαν πολλοί", "thai": "แต่มีผู้คนเห็นพวกเขาออกเรือไป และจำพระองค์ได้เป็นอันมาก", "rationale": "Per uW figs-explicit on ἐπέγνωσαν: probably 'recognized them' (knew who they were) rather than 'realized where they were going.' Thai 'จำพระองค์ได้' (recognized-the-Lord) — the recognition is centered on Jesus (the singular pronoun choice 'พระองค์' rather than 'พวกเขา' for the recognition object). Per uW figs-nominaladj on πολλοί: many people. Thai 'เป็นอันมาก' (a great-many)."},
+        {"greek": "πεζῇ ἀπὸ πασῶν τῶν πόλεων συνέδραμον ἐκεῖ καὶ προῆλθον αὐτούς", "thai": "จึงพากันวิ่งทางบกจากทุกเมืองมาที่นั่น และไปถึงก่อนพวกพระองค์", "rationale": "Per uW figs-explicitinfo on πεζῇ: 'on foot' — Thai 'ทางบก' (by-land, overland) — preserves the contrast with the boat-route across the bay. Per uW figs-explicit: 'all the cities' = nearby cities of the region. συντρέχω = 'run together' — Thai 'พากันวิ่ง' (together-run) preserves the συν- 'together.' προῆλθον = 'arrived before / got there ahead.' Thai 'ไปถึงก่อน' (arrive-first). NOTE: the geographic implication — boat across bay vs. foot around shore — the foot-walkers cut the corner faster than the boat could cross."}
+      ],
+      "notes": "FAILURE OF RETREAT: The crowd refuses to let Jesus rest. They short-cut around the lake on foot and beat the boat to its landing. Mark's narrative tension: Jesus' compassion-pastoral instincts (v.31) are about to be overridden by his compassion-shepherding instincts (v.34). The hungry crowd is more demanding than the tired disciples."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 6:34",
+    "chapter": 6,
+    "verse": 34,
+    "greek": "καὶ ἐξελθὼν εἶδεν πολὺν ὄχλον, καὶ ἐσπλαγχνίσθη ἐπ' αὐτοὺς ὅτι ἦσαν ὡς πρόβατα μὴ ἔχοντα ποιμένα, καὶ ἤρξατο διδάσκειν αὐτοὺς πολλά.",
+    "bsb_english": "When Jesus stepped ashore and saw a large crowd, He had compassion on them, because they were like sheep without a shepherd. And He began to teach them many things.",
+    "translation": {
+      "thai": "เมื่อเสด็จขึ้นจากเรือ พระองค์ทอดพระเนตรเห็นฝูงชนจำนวนมาก ก็ทรงสงสารพวกเขา เพราะพวกเขาเป็นเหมือนแกะที่ไม่มีผู้เลี้ยง พระองค์จึงทรงเริ่มสั่งสอนพวกเขาหลายเรื่อง",
+      "key_decisions": [
+        {"greek": "ἐξελθὼν εἶδεν πολὺν ὄχλον", "thai": "เมื่อเสด็จขึ้นจากเรือ พระองค์ทอดพระเนตรเห็นฝูงชนจำนวนมาก", "rationale": "Per uW figs-explicit on ἐξελθών: implied — 'having come out [of the boat].' Royal 'เสด็จขึ้นจากเรือ' (royal-disembark) consistent with Mark 5:2; royal 'ทอดพระเนตร' (royal-see) for divine seeing. 'ฝูงชน' (crowd) standard."},
+        {"greek": "ἐσπλαγχνίσθη ἐπ' αὐτοὺς", "thai": "ทรงสงสารพวกเขา", "rationale": "Per uW figs-abstractnouns: σπλαγχνίζομαι = 'be moved with compassion' (lit. 'have one's bowels moved' — σπλάγχνα = inner organs, the ancient seat of deep emotion). Mark uses this verb for Jesus only (1:41, 6:34, 8:2, 9:22 — all of Jesus' compassion). Royal 'ทรงสงสาร' (royal-pity) — 'สงสาร' is the deep visceral compassion in Thai (carries Buddhist resonance with karuṇā but works equally for biblical compassion). The verb is theologically loaded — Mark identifies Jesus' ministry by this gut-level compassion."},
+        {"greek": "ὅτι ἦσαν ὡς πρόβατα μὴ ἔχοντα ποιμένα", "thai": "เพราะพวกเขาเป็นเหมือนแกะที่ไม่มีผู้เลี้ยง", "rationale": "MAJOR OT ALLUSION: 'sheep without a shepherd' echoes Num 27:17 (Moses prays for a successor — 'so that the congregation of YHWH may not be as sheep that have no shepherd' — and Joshua is appointed); 1 Kgs 22:17 (Micaiah's vision of Israel scattered); Ezek 34:5 (false shepherds neglect the flock; God himself will shepherd). Per uW figs-simile. Mark's implication: Jesus is the true Shepherd (cf. John 10:11). Thai 'แกะที่ไม่มีผู้เลี้ยง' (sheep without herdsman) standard biblical-Thai. ποιμήν = 'shepherd' — Thai 'ผู้เลี้ยง' (one-who-feeds/cares) standard."},
+        {"greek": "ἤρξατο διδάσκειν αὐτοὺς πολλά", "thai": "ทรงเริ่มสั่งสอนพวกเขาหลายเรื่อง", "rationale": "Royal 'ทรงเริ่มสั่งสอน' (royal-begin-teach). 'หลายเรื่อง' (many matters) for πολλά accusative-of-respect ('teach them many things'). NOTE: the disciples expected rest; the crowd got teaching. Jesus' shepherd-response is to feed them with words first (then with bread, vv.35–44)."}
+      ],
+      "notes": "OT ALLUSION (add to nt_ot_citations.json): Mark 6:34 'ὡς πρόβατα μὴ ἔχοντα ποιμένα' alludes to Num 27:17 / 1 Kgs 22:17 / Ezek 34:5. Most likely Num 27:17 — Joshua-as-new-shepherd context fits Jesus as new-Joshua leading the people. Greek matches LXX: ὡσεὶ πρόβατα οἷς οὐκ ἔστιν ποιμήν (Num 27:17 LXX) ≈ Mark's ὡς πρόβατα μὴ ἔχοντα ποιμένα. Allusion, not formal citation. THEOLOGICAL: σπλαγχνίζομαι-compassion is Mark's signature verb for Jesus' shepherd-instinct. The chapter that began with rejection-by-hometown ends with overflowing-compassion-for-strangers."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 6:35",
+    "chapter": 6,
+    "verse": 35,
+    "greek": "Καὶ ἤδη ὥρας πολλῆς γενομένης προσελθόντες αὐτῷ οἱ μαθηταὶ αὐτοῦ ἔλεγον ὅτι Ἔρημός ἐστιν ὁ τόπος, καὶ ἤδη ὥρα πολλή·",
+    "bsb_english": "By now the hour was already late. So the disciples came to Jesus and said, \"This is a desolate place, and the hour is already late.",
+    "translation": {
+      "thai": "เมื่อเวลาล่วงไปมากแล้ว พวกสาวกของพระองค์มาทูลพระองค์ว่า 'ที่นี่เป็นที่เปลี่ยว และเวลาก็ล่วงไปมากแล้ว",
+      "key_decisions": [
+        {"greek": "ἤδη ὥρας πολλῆς γενομένης", "thai": "เมื่อเวลาล่วงไปมากแล้ว", "rationale": "Per uW figs-idiom: 'an hour already much' = late afternoon, near sunset. Thai 'เวลาล่วงไปมากแล้ว' (time-already-passed-much) preserves the late-day idiom without specifying clock-time."},
+        {"greek": "προσελθόντες αὐτῷ οἱ μαθηταὶ αὐτοῦ ἔλεγον", "thai": "พวกสาวกของพระองค์มาทูลพระองค์ว่า", "rationale": "Royal 'พระองค์' for Jesus; 'ทูล' deferential speech-verb (disciples to Jesus)."},
+        {"greek": "Ἔρημός ἐστιν ὁ τόπος, καὶ ἤδη ὥρα πολλή", "thai": "'ที่นี่เป็นที่เปลี่ยว และเวลาก็ล่วงไปมากแล้ว", "rationale": "Direct quote begins (continues into v.36). 'ที่เปลี่ยว' for ἔρημος τόπος consistent with v.31. The disciples state the obvious problem: deserted location + late hour = no food prospects. Sets up Jesus' surprising rejoinder in v.37."}
+      ],
+      "notes": "DISCIPLES' LOGISTICAL CONCERN: their reasoning is sensible — late, deserted, hungry crowd. Their solution (v.36) is also sensible — send them away to buy food. Mark sets up the disciples' practical realism against Jesus' impossible-feasibility (v.37 'you give them something')."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 6:36",
+    "chapter": 6,
+    "verse": 36,
+    "greek": "ἀπόλυσον αὐτούς, ἵνα ἀπελθόντες εἰς τοὺς κύκλῳ ἀγροὺς καὶ κώμας ἀγοράσωσιν ἑαυτοῖς τί φάγωσιν.",
+    "bsb_english": "Dismiss the crowd so they can go to the surrounding countryside and villages and buy themselves something to eat.\"",
+    "translation": {
+      "thai": "ขอพระองค์ทรงให้พวกเขาแยกย้ายกันไป เพื่อจะได้ไปที่ชนบทและหมู่บ้านโดยรอบ ซื้ออาหารกินเอง'",
+      "key_decisions": [
+        {"greek": "ἀπόλυσον αὐτούς", "thai": "ขอพระองค์ทรงให้พวกเขาแยกย้ายกันไป", "rationale": "Per uW figs-yousingular + figs-imperative: aor. impv. sg. — disciples to Jesus. Per uW: imperative used as polite request, suggested with 'please' equivalent. Thai 'ขอพระองค์ทรง' (please-may-the-Lord) is the polite-deferential request frame for asking a superior to act. ἀπολύω = 'release, dismiss, send away.' 'แยกย้ายกันไป' (disperse-separately-go) for the dismissal action."},
+        {"greek": "ἵνα ἀπελθόντες εἰς τοὺς κύκλῳ ἀγροὺς καὶ κώμας", "thai": "เพื่อจะได้ไปที่ชนบทและหมู่บ้านโดยรอบ", "rationale": "Per uW figs-merism: ἀγρούς + κώμας = whole region (countryside + villages). Thai 'ชนบทและหมู่บ้านโดยรอบ' (countryside and villages around) preserves the merism."},
+        {"greek": "ἀγοράσωσιν ἑαυτοῖς τί φάγωσιν", "thai": "ซื้ออาหารกินเอง'", "rationale": "ἀγοράζω = buy. ἑαυτοῖς reflexive: 'for themselves' — Thai 'กินเอง' (eat themselves) handles the reflexive."}
+      ],
+      "notes": "DISCIPLES' SENSIBLE PROPOSAL: dismiss the crowd, let them buy food themselves. The implicit problem-solving model: the crowd's hunger is the crowd's problem; not our problem; not your problem, Lord. Jesus will reject this framing."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 6:37",
+    "chapter": 6,
+    "verse": 37,
+    "greek": "ὁ δὲ ἀποκριθεὶς εἶπεν αὐτοῖς· Δότε αὐτοῖς ὑμεῖς φαγεῖν. καὶ λέγουσιν αὐτῷ· Ἀπελθόντες ἀγοράσωμεν δηναρίων διακοσίων ἄρτους καὶ δώσομεν αὐτοῖς φαγεῖν;",
+    "bsb_english": "But Jesus told them, \"You give them something to eat.\" They asked Him, \"Should we go out and spend two hundred denarii to give all of them bread to eat?\"",
+    "translation": {
+      "thai": "แต่พระองค์ตรัสตอบพวกเขาว่า 'พวกเจ้าจงให้พวกเขากินเถิด' พวกสาวกทูลพระองค์ว่า 'จะให้ข้าพระองค์ทั้งหลายไปซื้อขนมปังสองร้อยเดนาริอัสมาให้พวกเขากินหรือ?'",
+      "key_decisions": [
+        {"greek": "ὁ δὲ ἀποκριθεὶς εἶπεν αὐτοῖς", "thai": "แต่พระองค์ตรัสตอบพวกเขาว่า", "rationale": "Royal 'ตรัสตอบ' (royal-reply). δέ contrastive — Jesus' answer reverses the disciples' request."},
+        {"greek": "Δότε αὐτοῖς ὑμεῖς φαγεῖν", "thai": "'พวกเจ้าจงให้พวกเขากินเถิด'", "rationale": "Per uW grammar-connect-logic-contrast on δέ. Emphatic ὑμεῖς ('YOU give them'). Thai 'พวกเจ้า' (you-all — Jesus' standard address to disciples) preserves the emphatic 2nd-person. 'จงให้...กิน' (imperative-give...to-eat). 'เถิด' polite-imperative softener — Jesus' command is firm but not harsh."},
+        {"greek": "λέγουσιν αὐτῷ (hist. pres.)", "thai": "พวกสาวกทูลพระองค์ว่า", "rationale": "Historic present (per uW v.37 in HP list). 'ทูล' deferential (disciples to Jesus). Disciples' incredulous reply."},
+        {"greek": "Ἀπελθόντες ἀγοράσωμεν δηναρίων διακοσίων ἄρτους καὶ δώσομεν αὐτοῖς φαγεῖν", "thai": "'จะให้ข้าพระองค์ทั้งหลายไปซื้อขนมปังสองร้อยเดนาริอัสมาให้พวกเขากินหรือ?'", "rationale": "Per uW figs-rquestion: rhetorical question expressing the absurdity of Jesus' command. Thai marker 'หรือ?' at end signals the rhetorical force ('Are we supposed to...?'). 'ข้าพระองค์ทั้งหลาย' (we-humbly — disciples to Jesus) — formal humble first-person plural fits the deferential context. δηναρίων διακοσίων = 'of two hundred denarii' — Per uW translate-bmoney: δηνάριον = ~one day's wages for a hired laborer; 200 denarii = ~8 months' wages. Thai 'เดนาริอัส' (transliteration; standard in Thai biblical Christian usage) — preserve the period currency-name without anachronistic Thai conversion. NOTE: the disciples calculate the cost ('we don't have 8 months' wages'), demonstrating they took Jesus' command literally enough to do the math."}
+      ],
+      "notes": "DENARIUS: standard 1st-century silver coin = one day's wage for a manual laborer. 200 denarii = roughly 8 months of wages — far beyond the disciples' resources. We use the transliteration 'เดนาริอัส' (per Thai biblical convention) rather than converting to modern equivalents (Thai baht) — the latter would force constant updates and lose period flavor. Standard practice in Thai biblical translation. JESUS' PEDAGOGY: Jesus deliberately overloads the disciples ('YOU feed them') so that when the impossible is done, they will know it was done by him through them. Setting up the apostolic pattern of v.41 — Jesus blesses, disciples distribute."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 6:38",
+    "chapter": 6,
+    "verse": 38,
+    "greek": "ὁ δὲ λέγει αὐτοῖς· Πόσους ἔχετε ἄρτους; ὑπάγετε ἴδετε. καὶ γνόντες λέγουσιν· Πέντε, καὶ δύο ἰχθύας.",
+    "bsb_english": "\"Go and see how many loaves you have,\" He told them. And after checking, they said, \"Five—and two fish.\"",
+    "translation": {
+      "thai": "พระองค์ตรัสกับพวกเขาว่า 'พวกเจ้ามีขนมปังกี่ก้อน? จงไปดูเถิด' เมื่อรู้แล้วพวกเขาทูลว่า 'มีห้าก้อน กับปลาสองตัว'",
+      "key_decisions": [
+        {"greek": "ὁ δὲ λέγει αὐτοῖς (hist. pres.)", "thai": "พระองค์ตรัสกับพวกเขาว่า", "rationale": "Historic present (per uW v.38 in HP list)."},
+        {"greek": "Πόσους ἔχετε ἄρτους; ὑπάγετε ἴδετε", "thai": "'พวกเจ้ามีขนมปังกี่ก้อน? จงไปดูเถิด'", "rationale": "Per uW figs-explicit: 'Go [to your supplies] and see.' Thai 'จงไปดูเถิด' (imperative-go-see-please). 'กี่ก้อน' for πόσους (how-many — 'ก้อน' is the Thai measure-word for loaves/lumps, idiomatic and natural)."},
+        {"greek": "γνόντες λέγουσιν (hist. pres.)", "thai": "เมื่อรู้แล้วพวกเขาทูลว่า", "rationale": "Per uW figs-explicit: 'having known [the count].' Thai 'เมื่อรู้แล้ว' (having-now-known). 'ทูล' deferential."},
+        {"greek": "Πέντε, καὶ δύο ἰχθύας", "thai": "'มีห้าก้อน กับปลาสองตัว'", "rationale": "Per uW figs-ellipsis: 'Five [loaves], and two fish.' Thai 'มีห้าก้อน กับปลาสองตัว' supplies the verb 'มี' (have) for natural Thai prose. 'ก้อน' for loaves; 'ตัว' for fish (the standard Thai measure-words)."}
+      ],
+      "notes": "FIVE LOAVES + TWO FISH: the foundational miracle-numerology. The 5+2 = the working stock from which 5,000 are fed (v.44) with 12 baskets left over (v.43). The numerical structure invites symbolic reading (5 = books of Torah; 12 = tribes/apostles), though Mark himself does not allegorize. Pentecost-feeding implications surface in John 6's longer treatment."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 6:39",
+    "chapter": 6,
+    "verse": 39,
+    "greek": "καὶ ἐπέταξεν αὐτοῖς ἀνακλῖναι πάντας συμπόσια συμπόσια ἐπὶ τῷ χλωρῷ χόρτῳ.",
+    "bsb_english": "Then Jesus directed them to have the people sit in groups on the green grass.",
+    "translation": {
+      "thai": "พระองค์ทรงสั่งให้พวกสาวกจัดให้ฝูงชนนั่งลงเป็นหมู่ๆ บนหญ้าเขียว",
+      "key_decisions": [
+        {"greek": "ἐπέταξεν αὐτοῖς ἀνακλῖναι πάντας", "thai": "ทรงสั่งให้พวกสาวกจัดให้ฝูงชนนั่งลงเป็นหมู่ๆ", "rationale": "Per uW writing-pronouns: αὐτοῖς ambiguous — could be (1) the disciples (Jesus commands disciples, who arrange the crowd) or (2) the crowd directly. Most natural reading per uW: Jesus commands the disciples, who command the crowd. Thai 'ทรงสั่งให้พวกสาวก' (commanded the disciples) follows interpretation 1 — fits the apostolic-mediation theme of the passage. Per uW figs-explicit on ἀνακλίνω: cultural reclining-at-table for eating; for Thai readers we use 'นั่งลง' (sit down) — Thais sit, don't recline, and the practical sense is 'have them assume the meal-position.' 'จัดให้...นั่งลง' (arrange to sit-down). συμπόσιον = banqueting group, dining-circle (NT 2x — both here in v.39's distributive doubling). Thai 'เป็นหมู่ๆ' (in groups) preserves the distributive doubling without forcing a Greek-specific term."},
+        {"greek": "ἐπὶ τῷ χλωρῷ χόρτῳ", "thai": "บนหญ้าเขียว", "rationale": "Per uW translate-unknown: χλωρός = 'green, pale-green' (growing). The detail is Markan eyewitness color (cf. Mark's specificity throughout). Thai 'หญ้าเขียว' (green-grass) — possibly significant time-of-year marker (Galilean grass is green in spring; brown by summer) → Passover-season setting (cf. John 6:4 explicitly states it was near Passover). Echo of Ps 23:2 ('green pastures' — εἰς τόπον χλόης / נְאוֹת דֶּשֶׁא) — the Shepherd making his flock lie down in green grass while feeding them. Implicit confirmation of v.34's shepherd-imagery."}
+      ],
+      "notes": "PSALM 23 ECHO: 'green grass' + 'shepherd' (v.34) + 'made them lie down to eat' = unmistakable echo of Psalm 23:2 ('he makes me lie down in green pastures'). LXX Psalm 22:2 reads 'εἰς τόπον χλόης' — 'in a place of green-grass.' Mark's ποιμήν...χόρτος-χλωρός sequence is deliberate Christological theology: Jesus IS the Lord of Psalm 23. PASSOVER IMPLICATION: green grass in Galilee = spring = Passover season. Mark doesn't state it; John (6:4) makes it explicit. The eucharistic foreshadowing (bread broken, blessed, distributed) gathers."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 6:40",
+    "chapter": 6,
+    "verse": 40,
+    "greek": "καὶ ἀνέπεσαν πρασιαὶ πρασιαὶ κατὰ ἑκατὸν καὶ κατὰ πεντήκοντα.",
+    "bsb_english": "So they sat down in groups of hundreds and fifties.",
+    "translation": {
+      "thai": "ฝูงชนจึงนั่งลงเป็นหมู่ๆ หมู่ละหนึ่งร้อยคนบ้าง ห้าสิบคนบ้าง",
+      "key_decisions": [
+        {"greek": "ἀνέπεσαν πρασιαὶ πρασιαὶ", "thai": "ฝูงชนจึงนั่งลงเป็นหมู่ๆ", "rationale": "Per uW figs-idiom on πρασιαί πρασιαί: Hebraistic distributive doubling — 'group by group.' πρασιά (NT 2x — both here, distributive) lit. = 'garden-bed, plot' (a row of greens like leeks/onions). The metaphor: rows of seated people look like rows of garden-greens. Thai 'เป็นหมู่ๆ' (in-groups) preserves the distributive sense — same rendering as v.39's συμπόσια. We don't try to translate the garden-bed metaphor (would distract Thai readers); the visual sense is preserved through the orderly group-arrangement."},
+        {"greek": "κατὰ ἑκατὸν καὶ κατὰ πεντήκοντα", "thai": "หมู่ละหนึ่งร้อยคนบ้าง ห้าสิบคนบ้าง", "rationale": "Per uW figs-idiom: 'by hundreds and by fifties' — different group-sizes, some 100, some 50. Thai 'หมู่ละ...บ้าง...บ้าง' (in groups of...some...some) idiomatic. NOTE: the organized 100s and 50s echo Exodus 18:21 (Moses appoints leaders 'over thousands, hundreds, fifties, tens') — wilderness-Israel administrative pattern. Mark's crowd is being organized as a new-wilderness-Israel under their new shepherd-leader."}
+      ],
+      "notes": "EXODUS 18:21 ECHO: hundreds and fifties = the wilderness administrative units Moses set up under Jethro's advice. Mark's organized crowd evokes new-Israel-in-wilderness imagery. Combined with: shepherd (v.34, Num 27:17) + green pasture (v.39, Ps 23) + manna-multiplication (v.41 below) — Mark builds a sustained Mosaic-feeding typology. Jesus is the new Moses leading a new exodus, providing bread in the wilderness."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 6:41",
+    "chapter": 6,
+    "verse": 41,
+    "greek": "καὶ λαβὼν τοὺς πέντε ἄρτους καὶ τοὺς δύο ἰχθύας ἀναβλέψας εἰς τὸν οὐρανὸν εὐλόγησεν καὶ κατέκλασεν τοὺς ἄρτους καὶ ἐδίδου τοῖς μαθηταῖς αὐτοῦ ἵνα παρατιθῶσιν αὐτοῖς, καὶ τοὺς δύο ἰχθύας ἐμέρισεν πᾶσιν.",
+    "bsb_english": "Taking the five loaves and the two fish and looking up to heaven, Jesus spoke a blessing and broke the loaves. Then He gave them to His disciples to set before the people. And He divided the two fish among them all.",
+    "translation": {
+      "thai": "พระองค์ทรงรับขนมปังห้าก้อนและปลาสองตัว แล้วทรงแหงนพระพักตร์ขึ้นสู่ฟ้าสวรรค์ ทรงกล่าวขอบพระคุณ ทรงหักขนมปัง และทรงประทานให้พวกสาวกแจกแก่ฝูงชน และทรงแบ่งปลาสองตัวนั้นให้แก่คนทั้งปวง",
+      "key_decisions": [
+        {"greek": "λαβὼν τοὺς πέντε ἄρτους καὶ τοὺς δύο ἰχθύας", "thai": "ทรงรับขนมปังห้าก้อนและปลาสองตัว", "rationale": "Royal 'ทรงรับ' (royal-receive/take) for the divine action."},
+        {"greek": "ἀναβλέψας εἰς τὸν οὐρανὸν", "thai": "ทรงแหงนพระพักตร์ขึ้นสู่ฟ้าสวรรค์", "rationale": "Per uW translate-symaction: looking up to heaven = standard Jewish prayer posture. Royal 'ทรงแหงนพระพักตร์' (royal-look-up royal-face) — 'พระพักตร์' is the royal-register noun for 'face.' 'ฟ้าสวรรค์' (sky-heaven) for οὐρανόν."},
+        {"greek": "εὐλόγησεν", "thai": "ทรงกล่าวขอบพระคุณ", "rationale": "Per uW figs-explicit: εὐλογέω = 'bless' — interpretation-debate: Jesus blessed God (giving thanks) OR Jesus blessed the food (sanctifying it). Most likely both — Jewish meal-blessings (berakhot) bless God for the food, which functions to consecrate the food. Thai 'ทรงกล่าวขอบพระคุณ' (royal-give-thanks) follows the dominant interpretation: thanking God. The standard berakhah: 'Blessed are you, YHWH our God, King of the universe, who brings forth bread from the earth.' MARK'S WORDING anticipates the Last Supper (14:22 — λαβὼν ἄρτον εὐλογήσας ἔκλασεν — almost identical sequence: take, bless, break). This feeding is a eucharistic prefiguration."},
+        {"greek": "κατέκλασεν τοὺς ἄρτους", "thai": "ทรงหักขนมปัง", "rationale": "κατακλάω (NT 2x — Mark 6:41 + Luke 9:16) = 'break in pieces' (κατά intensive). Royal 'ทรงหัก' (royal-break) — same verb that recurs at the Last Supper (Mark 14:22 — ἔκλασεν, plain κλάω; here intensified κατακλάω, perhaps emphasizing the multiplication-via-breaking). Per uW figs-explicit: broke into serving portions."},
+        {"greek": "ἐδίδου τοῖς μαθηταῖς αὐτοῦ ἵνα παρατιθῶσιν αὐτοῖς", "thai": "ทรงประทานให้พวกสาวกแจกแก่ฝูงชน", "rationale": "Royal 'ทรงประทาน' (royal-bestow). Imperfect ἐδίδου: 'kept giving' — durative — the multiplication happened in the act of distribution; Jesus kept handing out, the disciples kept passing along. παρατίθημι = 'set before' (place food in front of diners) — Thai 'แจก' (distribute) standard. APOSTOLIC-MEDIATION PATTERN: Jesus does the miracle (blessing + breaking + multiplying); disciples mediate (distributing). Eucharistic: priest blesses, deacons distribute. Mark's pattern for the church."},
+        {"greek": "τοὺς δύο ἰχθύας ἐμέρισεν πᾶσιν", "thai": "ทรงแบ่งปลาสองตัวนั้นให้แก่คนทั้งปวง", "rationale": "Per uW figs-explicit + figs-nominaladj: divided the fish in the same way; 'all' = all the people. Thai 'ทรงแบ่ง' (royal-divide) for ἐμέρισεν. 'คนทั้งปวง' (all the people)."}
+      ],
+      "notes": "EUCHARISTIC FORESHADOWING: λαβών...εὐλόγησεν...ἔκλασεν...ἐδίδου = the four-verb Last-Supper sequence (Mark 14:22). Mark deliberately frames the feeding-of-5000 in eucharistic vocabulary. The crowd-meal anticipates the disciples-meal at Passover; both anticipate the church's ongoing meal. APOSTOLIC PATTERN: Jesus multiplies, disciples distribute. The miracle goes through their hands — they are the mediating ministers, not independent power-sources. Mark's ecclesiology in narrative form."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 6:42",
+    "chapter": 6,
+    "verse": 42,
+    "greek": "καὶ ἔφαγον πάντες καὶ ἐχορτάσθησαν·",
+    "bsb_english": "They all ate and were satisfied,",
+    "translation": {
+      "thai": "ทุกคนได้กินจนอิ่ม",
+      "key_decisions": [
+        {"greek": "ἔφαγον πάντες καὶ ἐχορτάσθησαν", "thai": "ทุกคนได้กินจนอิ่ม", "rationale": "Per uW writing-pronouns: 'they all ate' = the crowds. Per uW figs-activepassive: ἐχορτάσθησαν aor. pass. of χορτάζω = 'were satisfied/filled.' Thai 'ได้กินจนอิ่ม' (ate-until-full) — 'อิ่ม' (be-full/satisfied) standard Thai for completed meal-satisfaction; combined with 'ทุกคน' (everyone) preserves πάντες emphasis. χορτάζω is the same verb as χόρτος (grass) — etymologically 'be fed-as-an-animal-on-grass' — completes the pastoral imagery."}
+      ],
+      "notes": "ALL ate. ALL were filled. Mark's universal language. The shepherd's table is sufficient for every sheep — none turned away, none short-portioned. Eucharistic theology in narrative."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 6:43",
+    "chapter": 6,
+    "verse": 43,
+    "greek": "καὶ ἦραν κλάσματα δώδεκα κοφίνων πληρώματα καὶ ἀπὸ τῶν ἰχθύων.",
+    "bsb_english": "and the disciples picked up twelve basketfuls of broken pieces of bread and fish.",
+    "translation": {
+      "thai": "พวกสาวกเก็บเศษขนมปังและเศษปลาที่เหลือได้เต็มสิบสองตะกร้า",
+      "key_decisions": [
+        {"greek": "ἦραν κλάσματα δώδεκα κοφίνων πληρώματα καὶ ἀπὸ τῶν ἰχθύων", "thai": "พวกสาวกเก็บเศษขนมปังและเศษปลาที่เหลือได้เต็มสิบสองตะกร้า", "rationale": "Per uW figs-explicit: filled twelve baskets with leftover broken-pieces of bread AND fish. Thai 'เก็บ...ที่เหลือ' (gather...the leftover) standard. 'เศษขนมปังและเศษปลา' (bread-pieces and fish-pieces) preserves both. Per uW translate-unknown on κόφινος: κόφινος (NT 6x) = small wicker hand-basket (specifically Jewish; distinguished from σπυρίς, the larger basket of the 4000-feeding in Mark 8). Thai 'ตะกร้า' (basket) standard. Per uW figs-abstractnouns on πληρώματα: 'fillings' = full baskets; Thai 'เต็ม...สิบสองตะกร้า' (full twelve baskets) preserves the abundance. TWELVE: matches the apostles. The implicit symbolism: each apostle has his own basketful as evidence of the multiplication."}
+      ],
+      "notes": "TWELVE BASKETS: matches the Twelve apostles. Each apostle gathers his own basket of evidence — the miracle is materially documented for each one of the future-leaders of the church. The numerology is hard to miss. SYMBOLIC ECONOMY: started with 5+2 (= 7), fed 5,000, ended with 12 baskets — the 'output' (12) exceeds the input (7) and matches the apostolic count. Israel-restored imagery."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 6:44",
+    "chapter": 6,
+    "verse": 44,
+    "greek": "καὶ ἦσαν οἱ φαγόντες τοὺς ἄρτους πεντακισχίλιοι ἄνδρες.",
+    "bsb_english": "And there were five thousand men who had eaten the loaves.",
+    "translation": {
+      "thai": "ส่วนคนที่ได้กินขนมปังนั้นมีจำนวนผู้ชายห้าพันคน",
+      "key_decisions": [
+        {"greek": "καὶ ἦσαν οἱ φαγόντες τοὺς ἄρτους πεντακισχίλιοι ἄνδρες", "thai": "ส่วนคนที่ได้กินขนมปังนั้นมีจำนวนผู้ชายห้าพันคน", "rationale": "Per uW writing-background: Mark's καί here introduces background-info (the count). Thai 'ส่วน...นั้น' (as for...that) opens the back-fill. Per uW figs-synecdoche on ἄρτους: 'loaves' = all the food (bread + fish). Per uW figs-explicit on ἄνδρες: ἄνδρες specifically = adult MALES (not the generic ἄνθρωποι). Thai 'ผู้ชายห้าพันคน' (men five-thousand) preserves the male-only count — matches Matthew 14:21's explicit 'besides women and children.' Mark leaves the women-and-children count unstated; we don't add it. πεντακισχίλιοι = 5,000."}
+      ],
+      "notes": "MALES ONLY COUNTED: Greek ἄνδρες specifically counts adult males. Cultural convention: men were counted as heads-of-households for census/military purposes. The actual crowd including women and children was likely larger (Matt 14:21 makes this explicit; Mark leaves it implicit). We preserve Mark's specific count without supplementation. KINGDOM GIFT: the abundance is given to a wilderness crowd, gathered for teaching — this is what kingdom-fellowship looks like under the new shepherd. Mark's gospel-of-the-kingdom enacted at table."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 6:45",
+    "chapter": 6,
+    "verse": 45,
+    "greek": "Καὶ εὐθὺς ἠνάγκασεν τοὺς μαθητὰς αὐτοῦ ἐμβῆναι εἰς τὸ πλοῖον καὶ προάγειν εἰς τὸ πέραν πρὸς Βηθσαϊδάν, ἕως αὐτὸς ἀπολύει τὸν ὄχλον.",
+    "bsb_english": "Immediately Jesus made His disciples get into the boat and go on ahead of Him to Bethsaida, while He dismissed the crowd.",
+    "translation": {
+      "thai": "ทันใดนั้น พระองค์ทรงเร่งให้พวกสาวกลงเรือ ข้ามฟากล่วงหน้าไปยังเมืองเบธไซดา ขณะที่พระองค์ทรงให้ฝูงชนแยกย้ายกันไป",
+      "key_decisions": [
+        {"greek": "Καὶ εὐθὺς ἠνάγκασεν τοὺς μαθητὰς αὐτοῦ", "thai": "ทันใดนั้น พระองค์ทรงเร่งให้พวกสาวก", "rationale": "Markan εὐθύς. ἀναγκάζω = 'compel, force, urge strongly' — stronger than λέγω. Royal 'ทรงเร่ง' (royal-urge-strongly) preserves the compulsion. STRIKING: Jesus DROVE them into the boat — implies disciples were reluctant or there was urgency. John 6:15 explains the urgency: the crowd wanted to make Jesus king after the feeding; Jesus removes both himself and his disciples from the politically-volatile situation."},
+        {"greek": "ἐμβῆναι εἰς τὸ πλοῖον καὶ προάγειν εἰς τὸ πέραν πρὸς Βηθσαϊδάν", "thai": "ลงเรือ ข้ามฟากล่วงหน้าไปยังเมืองเบธไซดา", "rationale": "Per uW figs-explicit on πέραν: 'to the other side' of the lake. Thai 'ข้ามฟาก' (cross-over) standard. Per uW translate-names: Βηθσαϊδά = village on northern shore of Sea of Galilee — Bethsaida-Julias, hometown of Peter, Andrew, Philip (John 1:44; 12:21). Thai 'เบธไซดา' (transliteration; standard Thai biblical practice). 'เมือง' (town) prefixed to clarify it's a place-name. προάγειν = 'go before' — Thai 'ล่วงหน้าไป' (go-ahead-of-me)."},
+        {"greek": "ἕως αὐτὸς ἀπολύει τὸν ὄχλον", "thai": "ขณะที่พระองค์ทรงให้ฝูงชนแยกย้ายกันไป", "rationale": "Present tense ἀπολύει — 'while he dismisses' — durative, simultaneous with the disciples' departure. Royal 'ทรงให้...แยกย้าย' (royal-cause-disperse) consistent with v.36."}
+      ],
+      "notes": "WHY THE URGENCY? Mark's ἠνάγκασεν is unusually strong — 'forced/compelled.' John 6:15 supplies the context: the just-fed crowd was about to acclaim Jesus as a political messiah-king. Jesus had to extract the disciples (who would have been swept up in the populist enthusiasm) before the crowd's wave caught them. Mark's silence on this background (where John spells it out) creates a small narrative puzzle resolved across the gospel-tradition. PARTIAL DETAIL: Mark says 'to Bethsaida' (NW shore); v.53 says they actually landed at Gennesaret (SW shore — wrong destination!) — the storm of v.48 will have driven them off course. Mark's geographic precision."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 6:46",
+    "chapter": 6,
+    "verse": 46,
+    "greek": "καὶ ἀποταξάμενος αὐτοῖς ἀπῆλθεν εἰς τὸ ὄρος προσεύξασθαι.",
+    "bsb_english": "After bidding them farewell, He went up on the mountain to pray.",
+    "translation": {
+      "thai": "เมื่อทรงอำลาจากพวกเขาแล้ว พระองค์เสด็จขึ้นไปบนภูเขาเพื่ออธิษฐาน",
+      "key_decisions": [
+        {"greek": "ἀποταξάμενος αὐτοῖς", "thai": "เมื่อทรงอำลาจากพวกเขาแล้ว", "rationale": "Per uW writing-pronouns: αὐτοῖς ambiguous — could be the crowd OR the disciples. Most likely the crowd (the disciples already left in v.45). Thai 'ทรงอำลา' (royal-take-leave) covers the polite dismissal. ἀποτάσσομαι = 'bid farewell' (dignified leave-taking)."},
+        {"greek": "ἀπῆλθεν εἰς τὸ ὄρος προσεύξασθαι", "thai": "พระองค์เสด็จขึ้นไปบนภูเขาเพื่ออธิษฐาน", "rationale": "Royal 'เสด็จขึ้นไป' (royal-ascend) for going up the mountain. Per uW figs-extrainfo on τὸ ὄρος: unspecific 'the mountain' = some hill/high place. Thai 'ภูเขา' (mountain) general. προσεύχομαι = pray; 'อธิษฐาน' standard biblical Thai. JESUS PRAYING ALONE: Mark 1:35, 6:46, 14:32–42 — three solitary-prayer scenes, structuring his ministry. After major ministry events (here: feeding 5000) Jesus withdraws to pray. Mark's silent Christology: prayer-dependence shapes the pattern of his power."}
+      ],
+      "notes": "JESUS-IN-PRAYER: Mark's three formative prayer-scenes — early-morning solitary (1:35), mountain after feeding (6:46), Gethsemane (14:32–42). Each follows or precedes a major decision-point. The pattern: power-event → withdraw to pray → next phase of ministry. Jesus' prayer-life is the spinal cord of his ministry. MOUNT-OF-PRAYER MOTIF: mountains in Mark are sites of revelation and decision (3:13 — calling the Twelve; 9:2 — Transfiguration; 13:3 — Olivet discourse). The mountain-prayer here prepares for the next mighty work (walking on water, vv.47–52)."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 6:47",
+    "chapter": 6,
+    "verse": 47,
+    "greek": "Καὶ ὀψίας γενομένης ἦν τὸ πλοῖον ἐν μέσῳ τῆς θαλάσσης, καὶ αὐτὸς μόνος ἐπὶ τῆς γῆς.",
+    "bsb_english": "When evening came, the boat was in the middle of the sea, and Jesus was alone on land.",
+    "translation": {
+      "thai": "ครั้นเวลาค่ำมาถึง เรือก็อยู่กลางทะเล และพระองค์ทรงอยู่บนฝั่งแต่ลำพัง",
+      "key_decisions": [
+        {"greek": "ὀψίας γενομένης", "thai": "ครั้นเวลาค่ำมาถึง", "rationale": "Per uW figs-explicit: a later evening than v.35 (which was already late afternoon). Now full evening / nightfall. Thai 'ครั้นเวลาค่ำมาถึง' (when evening-time arrived) standard."},
+        {"greek": "ἦν τὸ πλοῖον ἐν μέσῳ τῆς θαλάσσης, καὶ αὐτὸς μόνος ἐπὶ τῆς γῆς", "thai": "เรือก็อยู่กลางทะเล และพระองค์ทรงอยู่บนฝั่งแต่ลำพัง", "rationale": "Per uW figs-explicit: the disciples in the boat (v.45 setup). Thai 'เรือ...อยู่กลางทะเล' (boat...in middle of sea). Royal 'ทรงอยู่' for Jesus' standing-alone on shore. 'แต่ลำพัง' for μόνος. The geographic separation sets up the miracle: Jesus on land, disciples mid-lake, storm-wind blowing — physical impossibility about to be transcended."}
+      ],
+      "notes": "CINEMATIC SCENE-SETTING: Mark places the camera in the sky — boat in middle of lake, Jesus alone on shore. The vertical perspective sets up the impossible: how will Jesus reach them? The answer in v.48 redefines what 'reaching them' means."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 6:48",
+    "chapter": 6,
+    "verse": 48,
+    "greek": "καὶ ἰδὼν αὐτοὺς βασανιζομένους ἐν τῷ ἐλαύνειν, ἦν γὰρ ὁ ἄνεμος ἐναντίος αὐτοῖς, περὶ τετάρτην φυλακὴν τῆς νυκτὸς ἔρχεται πρὸς αὐτοὺς περιπατῶν ἐπὶ τῆς θαλάσσης· καὶ ἤθελεν παρελθεῖν αὐτούς.",
+    "bsb_english": "He could see that the disciples were straining to row, because the wind was against them. About the fourth watch of the night, Jesus went out to them, walking on the sea. He intended to pass by them,",
+    "translation": {
+      "thai": "พระองค์ทอดพระเนตรเห็นพวกสาวกกำลังตรากตรำกับการตีกรรเชียง เพราะลมพัดต้านพวกเขาอยู่ ราวยามที่สี่แห่งคืนนั้น พระองค์เสด็จมาหาพวกเขา ทรงดำเนินอยู่บนผิวน้ำทะเล และพระองค์ทรงดำริจะเสด็จเลยพวกเขาไป",
+      "key_decisions": [
+        {"greek": "ἰδὼν αὐτοὺς βασανιζομένους ἐν τῷ ἐλαύνειν", "thai": "พระองค์ทอดพระเนตรเห็นพวกสาวกกำลังตรากตรำกับการตีกรรเชียง", "rationale": "Royal 'ทอดพระเนตร' (royal-see) — divine seeing across distance/darkness. βασανίζω = 'torment, distress' (same verb as Mark 5:7's demonic torment-fear) — per uW figs-metaphor: the disciples' rowing-against-wind is metaphorically 'tormenting.' Thai 'ตรากตรำ' (toil-strenuously) captures the strenuous-distress without the sinister overtone of Mark 5:7's eschatological torment. Per uW translate-unknown on ἐλαύνω: 'row' (push/drive a boat). Thai 'ตีกรรเชียง' (strike-oar) standard for rowing."},
+        {"greek": "ἦν γὰρ ὁ ἄνεμος ἐναντίος αὐτοῖς", "thai": "เพราะลมพัดต้านพวกเขาอยู่", "rationale": "Per uW figs-explicit: 'wind against them' = wind blowing opposite their direction of travel. Thai 'ลมพัดต้าน' (wind-blowing-against) idiomatic."},
+        {"greek": "περὶ τετάρτην φυλακὴν τῆς νυκτὸς", "thai": "ราวยามที่สี่แห่งคืนนั้น", "rationale": "Per uW translate-unknown: 'the fourth watch of the night' = 3:00 AM to 6:00 AM (Roman reckoning, 4 watches per night). Thai 'ยาม' is the Thai word for night-watch periods (in old Siamese system there were 4 'ยาม' per night, mirroring the Roman pattern). 'ยามที่สี่' (the fourth watch) is naturally readable. Pre-dawn — disciples have been rowing all night."},
+        {"greek": "ἔρχεται πρὸς αὐτοὺς περιπατῶν ἐπὶ τῆς θαλάσσης", "thai": "พระองค์เสด็จมาหาพวกเขา ทรงดำเนินอยู่บนผิวน้ำทะเล", "rationale": "Historic present (per uW v.48 in HP list). Royal 'เสด็จมา' (royal-come). 'ทรงดำเนิน' (royal-walk) — 'ดำเนิน' is the formal Thai walking-verb (cf. business-formal 'ดำเนินการ' = proceed); paired with royal 'ทรง,' it gives kingly walking-on-water. Per uW figs-explicit: 'on the sea' = miraculously on the surface. Thai 'บนผิวน้ำทะเล' (on-surface-of-sea-water) makes the surface-walking explicit. THEOLOGICAL: walking-on-water in OT is a divine prerogative — Job 9:8 ('he alone treads on the waves of the sea' — LXX περιπατῶν ὡς ἐπ' ἐδάφους ἐπὶ θαλάσσης); Ps 77:19 ('your way was through the sea, your path through the great waters'); Ps 89:9 ('you rule the raging of the sea'); Isa 43:16 ('thus says YHWH, who makes a way in the sea, a path in the mighty waters'). Mark's Jesus does what only YHWH does."},
+        {"greek": "ἤθελεν παρελθεῖν αὐτούς", "thai": "พระองค์ทรงดำริจะเสด็จเลยพวกเขาไป", "rationale": "Per uW figs-explicit: ambiguous — (1) he intended to pass them by (theophany-vocabulary; cf. Exod 33:19, 22 — God 'passes by' Moses on Sinai; 1 Kgs 19:11 — God 'passes by' Elijah at Horeb); OR (2) he was about to pass them by (descriptive). Most scholars read this as theophanic — God 'passes by' his servants in revelatory moments; Mark's Jesus enacts a theophany. Royal 'ทรงดำริ' (royal-intend, royal-think-of) for the deliberate purpose. 'เสด็จเลย...ไป' (royal-pass-beyond...go) preserves the deliberate-passing motion. The theophanic resonance is preserved through the ambiguity — Thai readers will hear the kingly-passing-by gesture."}
+      ],
+      "notes": "THEOPHANY: Mark's 'walking on water' + 'wished to pass them by' is layered with OT theophany-language. (1) Job 9:8 — only YHWH treads on the sea. (2) Exod 33:19, 22 — God 'passes by' Moses on the rock; Mark's παρελθεῖν echoes LXX παρελεύσομαι. (3) 1 Kgs 19:11 LXX — God 'passes by' (παρελεύσεται) Elijah at Horeb. Jesus' walking-on-water is a deliberate theophanic enactment — he is doing what YHWH does in OT theophanies, in the language of OT theophanies. The disciples' next response (v.49 — they think he's a ghost) shows they nearly recognize the supernatural quality but misinterpret it. FOURTH WATCH: 3–6 AM. The disciples have rowed against the wind for ~9 hours. The miracle comes at the moment of greatest exhaustion."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 6:49",
+    "chapter": 6,
+    "verse": 49,
+    "greek": "οἱ δὲ ἰδόντες αὐτὸν ἐπὶ τῆς θαλάσσης περιπατοῦντα ἔδοξαν ὅτι φάντασμά ἐστιν καὶ ἀνέκραξαν,",
+    "bsb_english": "but when they saw Him walking on the sea, they cried out, thinking He was a ghost—",
+    "translation": {
+      "thai": "แต่เมื่อพวกเขาเห็นพระองค์ทรงดำเนินอยู่บนผิวน้ำทะเล ก็คิดว่าเป็นผี จึงร้องตะโกนขึ้น",
+      "key_decisions": [
+        {"greek": "ἰδόντες αὐτὸν ἐπὶ τῆς θαλάσσης περιπατοῦντα", "thai": "เมื่อพวกเขาเห็นพระองค์ทรงดำเนินอยู่บนผิวน้ำทะเล", "rationale": "Same phrasing as v.48 — consistency. Royal 'ทรงดำเนิน' for Jesus' walking."},
+        {"greek": "ἔδοξαν ὅτι φάντασμά ἐστιν", "thai": "ก็คิดว่าเป็นผี", "rationale": "δοκέω = 'think, suppose.' Per uW translate-unknown on φάντασμα: φάντασμα (NT 2x — both this scene, Mark + Matt parallel) = apparition, ghost, supernatural visitation; in popular belief, a sign of impending evil. Thai 'ผี' (ghost/spirit — colloquial) standard. The disciples interpret the supernatural correctly as supernatural but wrongly as malevolent."},
+        {"greek": "ἀνέκραξαν", "thai": "จึงร้องตะโกนขึ้น", "rationale": "ἀνακράζω = 'cry out loudly.' Thai 'ร้องตะโกน' (shout/cry-out). Aorist — single sharp cry."}
+      ],
+      "notes": "GHOSTS-MEANS-DOOM: in Greco-Roman and Jewish folk belief, seeing a φάντασμα was an omen of disaster. The disciples' terror is folk-religious, not theological — they don't recognize Jesus, and the supernatural-being-they-see frightens them. Mark sets up the recognition reversal of v.50."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 6:50",
+    "chapter": 6,
+    "verse": 50,
+    "greek": "πάντες γὰρ αὐτὸν εἶδον καὶ ἐταράχθησαν. ὁ δὲ εὐθὺς ἐλάλησεν μετ' αὐτῶν, καὶ λέγει αὐτοῖς· Θαρσεῖτε, ἐγώ εἰμι, μὴ φοβεῖσθε.",
+    "bsb_english": "for they all saw Him and were terrified. But Jesus spoke up at once: \"Take courage! It is I. Do not be afraid.\"",
+    "translation": {
+      "thai": "เพราะพวกเขาทุกคนเห็นพระองค์และตกใจกลัว แต่ทันใดนั้น พระองค์ตรัสกับพวกเขาว่า 'จงมีใจกล้าเถิด เราเอง อย่ากลัวเลย'",
+      "key_decisions": [
+        {"greek": "πάντες γὰρ αὐτὸν εἶδον καὶ ἐταράχθησαν", "thai": "เพราะพวกเขาทุกคนเห็นพระองค์และตกใจกลัว", "rationale": "γάρ supplies the reason for v.49's cry. Per uW figs-activepassive on ἐταράχθησαν: ταράσσω = 'be agitated/troubled.' Thai 'ตกใจกลัว' (startled-afraid). 'ทุกคน' for πάντες — emphasizing universal disciple-terror; no one-of-the-Twelve recognizes him."},
+        {"greek": "ὁ δὲ εὐθὺς ἐλάλησεν μετ' αὐτῶν, καὶ λέγει αὐτοῖς (hist. pres.)", "thai": "แต่ทันใดนั้น พระองค์ตรัสกับพวกเขาว่า", "rationale": "Per uW figs-explicitinfo: 'spoke with them and says to them' — Mark's narrative redundancy; Thai shortens to single 'ตรัส.' Markan εὐθύς. Historic present (per uW v.50 in HP list)."},
+        {"greek": "Θαρσεῖτε, ἐγώ εἰμι, μὴ φοβεῖσθε", "thai": "'จงมีใจกล้าเถิด เราเอง อย่ากลัวเลย'", "rationale": "Three-clause divine self-disclosure. Per uW figs-abstractnouns: θαρσέω = 'have courage, take heart.' Thai 'จงมีใจกล้า' (imperative-have-courage-heart). 'เถิด' polite-imperative softener. CRITICAL: ἐγώ εἰμι = 'I AM' — the SAME phrase as the LXX rendering of God's name in Exod 3:14 (ἐγώ εἰμι ὁ ὤν). In Mark, this is JESUS' ABSOLUTE I-AM SAYING (the only one outside John's gospel with full theophanic force). Translation crux: render literally 'I am' OR contextually 'It is I' (recognition formula)? We render 'เราเอง' (it-is-I-myself) which is the natural Thai for the recognition formula AND simultaneously preserves the emphatic self-disclosure ('ME, my own self'). The theophanic resonance is in the parallel with v.48's 'pass by' — both are God-language. Together: 'I AM' + walking on water + passing by = a Sinai-Horeb-style theophany on the lake. μὴ φοβεῖσθε = 'don't be afraid' — the standard divine reassurance after theophanic-encounter (cf. Gen 15:1; Isa 41:10; Luke 1:30; Rev 1:17 — God/angels saying 'don't be afraid' to those who behold them). Thai 'อย่ากลัวเลย' (don't-be-afraid-please) standard biblical Thai."}
+      ],
+      "notes": "I AM (ἐγώ εἰμι): Mark's most theologically-charged self-disclosure. The phrase echoes LXX Exod 3:14 (God's name to Moses) and Isa 41:4 / 43:10 / 43:25 / 51:12 / 52:6 — Yahweh's self-identification 'I am he' / 'I am.' Combined with v.48's theophanic 'pass by' and walking-on-water (Job 9:8), Mark constructs a sustained YHWH-self-revelation tableau. The disciples should hear: this is GOD revealing himself in the storm. Their non-recognition (v.52 — hearts hardened) is the tragedy. CHRISTOLOGICAL CRUX: Mark 6:50 is a load-bearing verse for the high Christology of the gospel — Jesus does what only YHWH does, says what only YHWH says, and is honored as YHWH (the disciples' worship in v.51's parallel Matt 14:33). Translators must preserve the 'I am' force without flattening to mere recognition. We chose 'เราเอง' for the dual function: natural self-identifier AND theologically-charged emphatic 'me-myself.'"
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 6:51",
+    "chapter": 6,
+    "verse": 51,
+    "greek": "καὶ ἀνέβη πρὸς αὐτοὺς εἰς τὸ πλοῖον, καὶ ἐκόπασεν ὁ ἄνεμος. καὶ λίαν ἐκ περισσοῦ ἐν ἑαυτοῖς ἐξίσταντο,",
+    "bsb_english": "Then He climbed into the boat with them, and the wind died down. And the disciples were utterly astounded,",
+    "translation": {
+      "thai": "พระองค์เสด็จขึ้นไปหาพวกเขาในเรือ แล้วลมก็สงบลง พวกเขาตกตะลึงในใจอย่างที่สุด",
+      "key_decisions": [
+        {"greek": "ἀνέβη πρὸς αὐτοὺς εἰς τὸ πλοῖον", "thai": "พระองค์เสด็จขึ้นไปหาพวกเขาในเรือ", "rationale": "Royal 'เสด็จขึ้นไป' (royal-ascend) — 'ขึ้น' for ἀνέβη (boarding the boat involves stepping up from water-level)."},
+        {"greek": "ἐκόπασεν ὁ ἄνεμος", "thai": "แล้วลมก็สงบลง", "rationale": "κοπάζω (NT 3x — Matt 14:32; Mark 4:39; 6:51) = 'cease, grow tired.' Same verb as Mark 4:39's storm-stilling — Mark uses identical language to invite parallel reading: same Jesus, same authority over wind/sea, same kind of miraculous result. Thai 'ลม...สงบลง' (wind...become-calm) standard."},
+        {"greek": "λίαν ἐκ περισσοῦ ἐν ἑαυτοῖς ἐξίσταντο", "thai": "พวกเขาตกตะลึงในใจอย่างที่สุด", "rationale": "Per uW figs-explicitinfo + figs-activepassive: 'they were exceedingly amazed within themselves' — Mark stacks intensifiers (λίαν 'very' + ἐκ περισσοῦ 'beyond measure'). ἐξίσταμαι — same verb as Mark 5:42 (after Jairus's daughter raised), per glossary established as 'ตะลึง.' Thai 'ตกตะลึง...อย่างที่สุด' (utterly-stunned...to the maximum) preserves both intensifiers. 'ในใจ' (in-heart) preserves ἐν ἑαυτοῖς (within themselves)."}
+      ],
+      "notes": "STORM-STILLING ECHO: ἐκόπασεν ὁ ἄνεμος is Mark 4:39's exact phrase. Mark links the two storm-events as the same demonstration of Jesus' divine authority over chaos-waters. The disciples have now SEEN this twice — yet v.52 says they still don't understand. Mark's tragic-irony: revelation upon revelation, with hearts that resist it."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 6:52",
+    "chapter": 6,
+    "verse": 52,
+    "greek": "οὐ γὰρ συνῆκαν ἐπὶ τοῖς ἄρτοις, ἀλλ' ἦν αὐτῶν ἡ καρδία πεπωρωμένη.",
+    "bsb_english": "for they had not understood about the loaves, but their hearts had been hardened.",
+    "translation": {
+      "thai": "เพราะพวกเขายังไม่เข้าใจเรื่องขนมปัง แต่ใจของพวกเขาดื้อรั้นแข็งกระด้าง",
+      "key_decisions": [
+        {"greek": "οὐ γὰρ συνῆκαν ἐπὶ τοῖς ἄρτοις", "thai": "เพราะพวกเขายังไม่เข้าใจเรื่องขนมปัง", "rationale": "Per uW figs-explicit: they failed to grasp what the bread-multiplication revealed about Jesus. συνίημι = 'understand, comprehend, perceive the significance.' Thai 'ยังไม่เข้าใจ' (still-don't-understand) — 'ยัง' (still/yet) preserves the lingering nature of their non-understanding. 'เรื่องขนมปัง' (the matter of the loaves) — Thai naturally takes 'ἐπί + dat.' as 'concerning/about.'"},
+        {"greek": "ἀλλ' ἦν αὐτῶν ἡ καρδία πεπωρωμένη", "thai": "แต่ใจของพวกเขาดื้อรั้นแข็งกระด้าง", "rationale": "Per uW figs-metaphor + figs-activepassive + grammar-collectivenouns: periphrastic perfect passive. πωρόω = 'harden, calcify' (originally medical: form a callus, petrify). EXODUS ECHO: same verb-family as Pharaoh's hard heart (LXX Exod 7:3 — ἐσκλήρυνα; 9:35; not exact same word but same theological-psychological category). Per uW grammar-collectivenouns on καρδία sg.: collective singular; Thai naturally pluralizes ('ใจของพวกเขา' = 'their hearts'). 'ดื้อรั้นแข็งกระด้าง' (stubborn-rebellious + hard-callous) — doubled adjective preserves the perfect-tense 'state-of-having-been-hardened' force. SHOCKING APPLICATION: heart-hardness is OT vocabulary for OPPONENTS of God's people (Pharaoh, idol-worshipers) — Mark applies it to the Twelve. This is the first such description in Mark; it recurs at 8:17 ('do you still not understand?...is your heart hardened?') in another bread-conversation. Mark's tragic motif: even the inner circle resists revelation."}
+      ],
+      "notes": "DISCIPLE HARDNESS: Mark's first attribution of heart-hardness to the disciples is theologically jarring. The verb πωρόω cognate with the πώρωσις Paul applies to unbelieving Israel (Rom 11:25). Mark applies it to the Twelve. The bread-of-the-feeding should have already shown them who Jesus is; the walking-on-water adds another layer; their non-understanding is now culpable, not just slow-witted. Mark sets up the climactic disciple-confession in 8:27–30 (Caesarea Philippi) as a hard-won breakthrough against this hardness. EXODUS RESONANCE: heart-hardness in OT is Pharaoh-language. Mark assigns Pharaoh-vocabulary to the future-leaders of the church. The point: the gospel doesn't assume the disciples' unique virtue — they too need the hardening broken open by repeated revelation. Grace and pedagogy across the gospel."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 6:53",
+    "chapter": 6,
+    "verse": 53,
+    "greek": "Καὶ διαπεράσαντες ἐπὶ τὴν γῆν ἦλθον εἰς Γεννησαρὲτ καὶ προσωρμίσθησαν.",
+    "bsb_english": "When they had crossed over, they landed at Gennesaret and moored the boat.",
+    "translation": {
+      "thai": "เมื่อข้ามฟากแล้ว พวกเขามาถึงแคว้นเยนเนซาเรท และจอดเรือไว้ที่นั่น",
+      "key_decisions": [
+        {"greek": "διαπεράσαντες ἐπὶ τὴν γῆν", "thai": "เมื่อข้ามฟากแล้ว", "rationale": "Per uW figs-explicit: 'crossed over [the lake] to the land.' Thai 'ข้ามฟาก' (cross-over-shore) standard."},
+        {"greek": "ἦλθον εἰς Γεννησαρὲτ", "thai": "พวกเขามาถึงแคว้นเยนเนซาเรท", "rationale": "Per uW translate-names: Γεννησαρέτ — could be (1) the small fertile region on the NW shore of the Sea of Galilee, between Capernaum and Magdala; or (2) a town in that region. Most likely the region (Josephus describes the Plain of Gennesaret as ~3 mi long, fertile farmland). Thai 'แคว้นเยนเนซาเรท' (the region of Gennesaret) — 'แคว้น' (region) per uW recommendation; 'เยนเนซาเรท' (transliteration) standard Thai biblical. NOTE: they landed at WRONG place — v.45 said they were headed to Bethsaida (NE shore), but Gennesaret is on the NW shore. The storm of v.48 drove them off course, or Mark's geography is loose. Most likely the storm explanation."},
+        {"greek": "προσωρμίσθησαν", "thai": "และจอดเรือไว้ที่นั่น", "rationale": "HAPAX LEGOMENON in NT: προσορμίζομαι (NT only here) = 'come to anchor, moor a boat.' Per uW translate-unknown. Thai 'จอดเรือ' (park-boat) standard for mooring; 'ไว้ที่นั่น' (kept-there) preserves the settled-at-anchor sense."}
+      ],
+      "notes": "HAPAX: προσορμίζομαι (anchor, moor) — Mark's only NT use. Maritime vocabulary specific to this scene. The geographic mismatch (set out for Bethsaida, landed at Gennesaret) is part of Mark's realism — the storm of v.48 changed the course."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 6:54",
+    "chapter": 6,
+    "verse": 54,
+    "greek": "καὶ ἐξελθόντων αὐτῶν ἐκ τοῦ πλοίου εὐθὺς ἐπιγνόντες αὐτὸν",
+    "bsb_english": "As soon as they got out of the boat, the people recognized Jesus",
+    "translation": {
+      "thai": "ทันทีที่พวกเขาขึ้นจากเรือ ผู้คนก็จำพระองค์ได้",
+      "key_decisions": [
+        {"greek": "ἐξελθόντων αὐτῶν ἐκ τοῦ πλοίου (gen. abs.)", "thai": "ทันทีที่พวกเขาขึ้นจากเรือ", "rationale": "Genitive absolute: 'when they had gone out of the boat.' Markan εὐθύς. Thai 'ทันทีที่' (immediately upon) consistent with prior chapters."},
+        {"greek": "ἐπιγνόντες αὐτὸν", "thai": "ผู้คนก็จำพระองค์ได้", "rationale": "Per uW writing-pronouns: subject shifts — the disembarking is the disciples; the recognizing is the local people (Gennesaret-residents). Thai 'ผู้คน' (people) makes this subject-shift explicit. ἐπιγινώσκω = 'recognize fully.' 'จำพระองค์ได้' (recognize-the-Lord) consistent with v.33."}
+      ],
+      "notes": "Bridge verse — sets up the mass-healing summary of vv.55–56."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 6:55",
+    "chapter": 6,
+    "verse": 55,
+    "greek": "περιέδραμον ὅλην τὴν χώραν ἐκείνην καὶ ἤρξαντο ἐπὶ τοῖς κραβάττοις τοὺς κακῶς ἔχοντας περιφέρειν ὅπου ἤκουον ὅτι ἐστίν.",
+    "bsb_english": "and ran through that whole region, carrying the sick on mats to wherever they heard He was.",
+    "translation": {
+      "thai": "ผู้คนพากันวิ่งไปทั่วแคว้นนั้น และเริ่มหามคนป่วยมาบนแคร่ไปยังที่ใดก็ตามที่ได้ยินข่าวว่าพระองค์ประทับอยู่",
+      "key_decisions": [
+        {"greek": "περιέδραμον ὅλην τὴν χώραν ἐκείνην", "thai": "ผู้คนพากันวิ่งไปทั่วแคว้นนั้น", "rationale": "HAPAX LEGOMENON in NT: περιτρέχω (NT only here) = 'run around/throughout.' Per uW writing-pronouns: subject = 'the people' (those who recognized him). Thai 'ผู้คนพากันวิ่งไปทั่ว' (people-together-ran-throughout) — 'พากัน' preserves the corporate-running sense; 'ทั่วแคว้น' (whole region) standard."},
+        {"greek": "ἤρξαντο ἐπὶ τοῖς κραβάττοις τοὺς κακῶς ἔχοντας περιφέρειν", "thai": "และเริ่มหามคนป่วยมาบนแคร่", "rationale": "Per uW translate-unknown on κράβαττος: stretcher-bed, portable mat (NT 11x — Mark uses it of paralytic in 2:4, 9, 11, 12; here for general sick). Thai 'แคร่' (Thai-style portable bedding/stretcher) — culturally appropriate; the same word used for Mark 2's paralytic per glossary. Per uW figs-abstractnouns on κακῶς ἔχοντας: 'the ones having badly' = the sick. Thai 'คนป่วย' (sick people) standard. περιφέρω = 'carry around' — Thai 'หาม...มา' (carry...bring) — 'หาม' is the Thai verb for two-people-carrying-on-poles, perfect for stretcher-bearing."},
+        {"greek": "ὅπου ἤκουον ὅτι ἐστίν", "thai": "ไปยังที่ใดก็ตามที่ได้ยินข่าวว่าพระองค์ประทับอยู่", "rationale": "Per uW figs-quotations: indirect quote 'wherever they heard he was.' Thai 'ที่ใดก็ตามที่' (wherever) standard. 'ประทับอยู่' (royal-be-located) — Jesus' presence rendered with the royal residence-verb 'ประทับ.'"}
+      ],
+      "notes": "HAPAX: περιτρέχω (run around) — Mark's only NT use. Vivid imagery of the village panic-mobilization to bring sick to Jesus. NB: in Mark 5 (other side of the lake), the response was fear and request that Jesus leave; in Mark 6 (return to Jewish side), the response is mass enthusiasm to bring the sick. Reception is geographic and theological."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  },
+  {
+    "reference": "Mark 6:56",
+    "chapter": 6,
+    "verse": 56,
+    "greek": "καὶ ὅπου ἂν εἰσεπορεύετο εἰς κώμας ἢ εἰς πόλεις ἢ εἰς ἀγροὺς ἐν ταῖς ἀγοραῖς ἐτίθεσαν τοὺς ἀσθενοῦντας, καὶ παρεκάλουν αὐτὸν ἵνα κἂν τοῦ κρασπέδου τοῦ ἱματίου αὐτοῦ ἅψωνται· καὶ ὅσοι ἂν ἥψαντο αὐτοῦ ἐσῴζοντο.",
+    "bsb_english": "And wherever He went—villages and towns and countrysides—they laid the sick in the marketplaces and begged Him just to let them touch the fringe of His cloak. And all who touched Him were healed.",
+    "translation": {
+      "thai": "ที่ใดก็ตามที่พระองค์เสด็จเข้าไป ไม่ว่าจะเป็นหมู่บ้าน ตัวเมือง หรือชนบท ผู้คนต่างเอาคนป่วยมาวางไว้ในย่านตลาด และอ้อนวอนพระองค์ ขอเพียงให้ได้แตะชายฉลองพระองค์เท่านั้น และทุกคนที่ได้แตะพระองค์ก็หายดี",
+      "key_decisions": [
+        {"greek": "ὅπου ἂν εἰσεπορεύετο εἰς κώμας ἢ εἰς πόλεις ἢ εἰς ἀγροὺς", "thai": "ที่ใดก็ตามที่พระองค์เสด็จเข้าไป ไม่ว่าจะเป็นหมู่บ้าน ตัวเมือง หรือชนบท", "rationale": "Royal 'เสด็จเข้าไป' (royal-enter) for Jesus' arrival. Triple-location merism: villages (κώμας), cities (πόλεις), fields/countryside (ἀγρούς). Thai preserves the triplet — 'หมู่บ้าน' (village), 'ตัวเมือง' (urban-area), 'ชนบท' (rural-countryside) — covers the whole population-geography."},
+        {"greek": "ἐν ταῖς ἀγοραῖς ἐτίθεσαν τοὺς ἀσθενοῦντας", "thai": "ผู้คนต่างเอาคนป่วยมาวางไว้ในย่านตลาด", "rationale": "Per uW figs-explicit on ἀγοραῖς: 'marketplaces' = open-air public squares where commerce + community gathering happened. Thai 'ย่านตลาด' (market-quarter) standard. 'เอา...มาวาง' (bring...lay) for ἐτίθεσαν imperfect 'kept laying.' 'คนป่วย' for ἀσθενοῦντας."},
+        {"greek": "παρεκάλουν αὐτὸν ἵνα κἂν τοῦ κρασπέδου τοῦ ἱματίου αὐτοῦ ἅψωνται", "thai": "และอ้อนวอนพระองค์ ขอเพียงให้ได้แตะชายฉลองพระองค์เท่านั้น", "rationale": "παρακαλέω = 'beg, entreat' — imperfect — sustained begging. Thai 'อ้อนวอน' standard. Per uW figs-explicit on κἂν: κἄν = 'even just / if only' — emphasizing the minimum-touch hope. Thai 'ขอเพียง...เท่านั้น' (ask-only...just-that) preserves the minimal-request force. κράσπεδον (NT 5x) = the tassel/fringe at the corners of a Jewish prayer-garment (tzitzit, per Num 15:38–40 — sky-blue threaded fringes on the four corners of the outer garment, commanded for Israelite men to wear as a memorial of God's commandments). Thai 'ชายฉลองพระองค์' (the-edge of-the-royal-garment) — 'ฉลองพระองค์' is the royal-register noun for clothing (worn by royalty); 'ชาย' = 'edge/corner.' The Greek crowd doesn't necessarily think theologically about the tzitzit — they want to touch any-piece-of-Jesus; but Mark's reader recognizes the OT-commanded fringe as the locus of remembrance, and Jesus as the goal of remembrance."},
+        {"greek": "ὅσοι ἂν ἥψαντο αὐτοῦ ἐσῴζοντο", "thai": "และทุกคนที่ได้แตะพระองค์ก็หายดี", "rationale": "Per uW figs-activepassive: σῴζω = 'save, rescue, heal' — in Markan healing-contexts, 'be saved' = 'be healed.' Imperfect ἐσῴζοντο: 'kept being saved/healed' — sustained healing-pattern. Thai 'หายดี' (recover well) standard for healing. Per uW writing-pronouns on αὐτοῦ: ambiguous — could refer to the garment's edge or to Jesus himself; Mark's flowing prose allows both. Thai 'แตะพระองค์' (touch-the-Lord) makes Jesus the object — natural Thai usage, parallel to v.55's recognition of him."}
+      ],
+      "notes": "TZITZIT FRINGE (κράσπεδον): per Num 15:38–40 / Deut 22:12, every Israelite male was commanded to attach blue-threaded tassels (Heb. tzitzit) to the four corners of his outer garment as a constant visual reminder of God's commandments. Jesus, observant Jewish male, wore them. The hemorrhaging woman (Mark 5:27–28 — 'her cloak / his cloak') touched these tassels for healing; here the Gennesaret crowds re-enact the same gesture en masse. The tzitzit is the meeting-point of Torah-observance + Jesus' bodily presence — touch the fringe, be saved. Mark's quiet theology: the new covenant works through the old, not against it. SUMMARY-STATEMENT: vv.53–56 close the chapter with a generalized healing-summary (typical Markan summary-passage; cf. 1:32–34, 3:7–12, 6:53–56). The chapter that opened with 'could not perform any miracle' (v.5) closes with 'all who touched were healed' — the inclusio of faith and unbelief frames the whole chapter."
+    },
+    "model": "claude-opus-4-6 (manual)"
+  }
+]
