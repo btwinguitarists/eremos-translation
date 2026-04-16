@@ -42,6 +42,21 @@ Already done, but for reference:
 
 ## Translating a new chapter — step by step
 
+You can either specify the chapter or let the pipeline pick the next one in production order:
+
+```bash
+# specific chapter
+python3 scripts/extract_book.py --book MRK --chapter 6
+
+# OR — resolve the next chapter automatically based on production order
+python3 scripts/next_chapter.py
+# → "MRK 6"
+```
+
+`next_chapter.py` reads `data/production_order.json` (260 NT chapters in SIL-style order) and returns the first one not yet in `output/translations/`. Run with `--status` for a full progress report, `--pretty` for human-readable, or `--json` for the structured entry.
+
+The trigger phrase **"Eremos Translation: next"** uses this resolver automatically.
+
 Example: translating **Mark 2**.
 
 ### 1. Extract verses from MACULA + enrich with uW Translation Notes
