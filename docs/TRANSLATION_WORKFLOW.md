@@ -2,6 +2,8 @@
 
 End-to-end process for translating a new Bible chapter from original languages (Koine Greek for NT, Biblical Hebrew for OT) to Thai and surfacing it in the Eremos app.
 
+**Before translating anything, read [RULES.md](../RULES.md)** — the canonical translation rules (derived from SIL/Wycliffe/UBS standards). Every chapter must conform; the check scripts below enforce what can be enforced mechanically.
+
 Companion doc in the Eremos repo: `~/EremosVercel2/docs/eremos-translation-workflow.md`
 
 ---
@@ -44,53 +46,68 @@ Example: translating **Mark 2**.
 
 ### 1. Extract verses from MACULA
 
-Edit `scripts/extract_mark.py` if needed (currently extracts all of Mark), then:
+Use the generalized extractor:
 
 ```bash
 cd ~/thai-bible-ai
-python3 scripts/extract_mark.py
+python3 scripts/extract_book.py --book 1TI --chapter 3        # single chapter
+python3 scripts/extract_book.py --book MRK                    # whole book
+python3 scripts/extract_book.py --list                        # all known book codes
 ```
 
-Writes `output/mark/mark_02.json` (among others) with word-by-word morphology, BSB reference, hapax flags, Louw-Nida semantic domains.
-
-**Extending to other books**: duplicate `extract_mark.py` → `extract_<book>.py`, change `BOOK_CODE` (e.g., `MAT`, `JHN`, `LUK`) and `BOOK_NAME_BSB`. MACULA covers the full NT.
+Writes `output/<book-slug>/<slug>_<NN>.json` with word-by-word morphology, BSB reference, hapax flags, Louw-Nida semantic domains. Supports all 27 NT books.
 
 ### 2. Translate the chapter
 
-**Option A — Claude API (fast, batched):**
+Full philosophy and rules live in [RULES.md](../RULES.md). Quick summary:
+- Optimal equivalence (BSB-style) — faithful to Greek + natural Thai
+- Translate FROM the Greek; BSB English is a sanity check, not a source
+- Never read any Thai translation (including TNBT) during drafting
+- Divine subjects use ราชาศัพท์; key terms follow the RULES.md §4 glossary
+- Flag every hapax, textual variant, OT citation, and interpretive decision
+
+**Option A — Manual via Claude in conversation (higher quality, current default):**
+
+1. Open a Claude conversation
+2. Claude reads RULES.md and the extracted verse data for the chapter
+3. Claude reads the nearest prior chapter's output for style consistency
+4. Claude produces Thai for all verses in the pattern of `output/translations/mark_01.json`
+5. Save the result to `output/translations/<slug>_<NN>.json`
+
+**Option B — Claude API (batched, faster for scaling up):**
 
 ```bash
 export ANTHROPIC_API_KEY=sk-ant-...
 python3 scripts/translate_mark.py --chapter 2
 ```
 
-Writes `output/translations/mark_02.json`. Each verse gets Thai rendering, literal form, key decisions, and notes.
+(Script currently tied to Mark — generalize to `translate_book.py` once API mode becomes the default.)
 
-**Option B — Manual via Claude in conversation (higher quality for pilot):**
-
-1. Open a Claude conversation
-2. Read the verse data: `python3 -c "import json; print(open('output/mark/mark_02.json').read())"`
-3. Ask Claude to translate following the same pattern as `output/translations/mark_01.json`
-4. Save the result to `output/translations/mark_02.json`
-
-**Translation philosophy (consistent across all chapters):**
-- Optimal equivalence (BSB-style) — faithful to Greek + natural Thai
-- Translate FROM the Greek; BSB English is a sanity check, not a source
-- Key term consistency: εὐαγγέλιον → ข่าวประเสริฐ, χριστός → พระคริสต์, Ἰησοῦς → พระเยซู (with honorific พระ), σατανᾶς → ซาตาน, βαπτίζω → บัพติศมา, ἔρημος → ถิ่นทุรกันดาร, κύριος (= YHWH) → องค์พระผู้เป็นเจ้า, συναγωγή → ธรรมศาลา, μετανοέω → กลับใจ
-- Divine subjects get ราชาศัพท์ (royal register): ทรง + verb, เสด็จ for movement, ตรัส for speech, ทอดพระเนตร for see, พระหัตถ์ for hand
-- Flag every hapax legomenon with rationale
-- Flag textual variants between SBLGNT and mainstream readings (especially BSB's choices)
-- Never mimic existing copyrighted Thai translations (independent creation from Greek)
-
-### 3. Generate review markdown (optional, for human review)
+### 3. Run the check cadence (MANDATORY before shipping)
 
 ```bash
-python3 scripts/render_markdown.py --chapter 2
+python3 scripts/run_checks.py --book 1TI --chapter 3
 ```
 
-Writes `docs/mark_02_review.md` with parallel Greek/English/Thai + collapsible decisions. Share this with Thai-speaking reviewers.
+Runs all five checks in sequence and produces an aggregate report at `output/check_reports/<slug>_<NN>_review.md`:
 
-### 4. Build the Eremos bundle
+1. **Key-term consistency** (`check_key_term_consistency.py`) — scans all translations, per-lemma rendering report, flags RULES.md §4 violations and undocumented multi-renderings
+2. **TNBT structural comparison** (`check_against_tnbt.py`) — verse-by-verse length/sentence-count signals against open-licensed Thai NT. Vocabulary divergence expected (TNBT uses Buddhist register); structural divergence is the signal.
+3. **OT citation acknowledgment** (`check_ot_citations.py`) — for known NT-quotes-OT verses, confirms we've noted the OT source and LXX/MT relation
+4. **Synoptic parallel check** (`check_parallel_passages.py`) — flags divergent renderings of the same saying across synoptic gospels (activates once 2+ gospels are in)
+5. **Back-translation check** (`check_back_translation.py`) — Claude API translates our Thai back to English, diffs against BSB, flags undocumented divergence. **Requires `ANTHROPIC_API_KEY`.** Gracefully skipped if unset.
+
+**Ship criterion:** no flagged checks. Flagged items must be resolved by editing the chapter's notes/decisions, or documented as acceptable.
+
+### 4. Generate review markdown (optional, for human review)
+
+```bash
+python3 scripts/render_markdown.py --chapter 3
+```
+
+Writes `docs/<slug>_<NN>_review.md` with parallel Greek/English/Thai + collapsible decisions. Share with Thai-speaking reviewers.
+
+### 5. Build the Eremos bundle
 
 ```bash
 python3 scripts/build_eremos_bundle.py
@@ -98,7 +115,7 @@ python3 scripts/build_eremos_bundle.py
 
 Combines all `output/translations/mark_XX.json` files into a single `~/EremosVercel2/server/data/eremos_translation.json` — the file Eremos imports at server boot.
 
-### 5. Ship to Eremos
+### 6. Ship to Eremos
 
 ```bash
 cd ~/EremosVercel2
@@ -113,7 +130,7 @@ Vercel auto-deploys the preview. Test by tapping verses in Mark 2. Merge when ha
 
 **Note:** The schema never changes for new chapters — only the bundle file grows. `ensureEremosTranslationImported()` auto-detects when the bundle has new verses and upserts them on (book, chapter, verse) conflict. The unique index (migration 0005) guarantees no duplicates.
 
-### 6. Refreshing existing content
+### 7. Refreshing existing content
 
 When you **add** a chapter, the import auto-syncs on next server boot (bundle length > DB count triggers upsert).
 
@@ -131,14 +148,22 @@ Next boot will repopulate from the current bundle. Safe operation — the transl
 
 | What | Path |
 |------|------|
-| Source texts (read-only clones) | `~/thai-bible-ai/sources/` |
-| Extraction scripts | `~/thai-bible-ai/scripts/extract_*.py` |
-| Translation script | `~/thai-bible-ai/scripts/translate_mark.py` |
+| **Rules (read before translating)** | `~/thai-bible-ai/RULES.md` |
+| Source texts (read-only clones) | `~/thai-bible-ai/sources/` (SBLGNT, macula-greek, bsb-text, TNBT) |
+| Extraction (all books) | `~/thai-bible-ai/scripts/extract_book.py` |
+| Translation script (Mark only, legacy) | `~/thai-bible-ai/scripts/translate_mark.py` |
+| **Check orchestrator** | `~/thai-bible-ai/scripts/run_checks.py` |
+| Individual checks | `~/thai-bible-ai/scripts/check_*.py` |
+| Glossary builder | `~/thai-bible-ai/scripts/build_glossary.py` |
 | Bundle builder | `~/thai-bible-ai/scripts/build_eremos_bundle.py` |
 | Review renderer | `~/thai-bible-ai/scripts/render_markdown.py` |
-| Per-verse extracted data | `~/thai-bible-ai/output/mark/mark_XX.json` |
-| Per-chapter translations | `~/thai-bible-ai/output/translations/mark_XX.json` |
-| Review markdown | `~/thai-bible-ai/docs/mark_XX_review.md` |
+| Key-term glossary (generated) | `~/thai-bible-ai/glossary.json` |
+| OT citation database | `~/thai-bible-ai/data/nt_ot_citations.json` |
+| Synoptic parallel database | `~/thai-bible-ai/data/synoptic_parallels.json` |
+| Per-verse extracted data | `~/thai-bible-ai/output/<slug>/<slug>_<NN>.json` |
+| Per-chapter translations | `~/thai-bible-ai/output/translations/<slug>_<NN>.json` |
+| Check reports | `~/thai-bible-ai/output/check_reports/` |
+| Review markdown | `~/thai-bible-ai/docs/<slug>_<NN>_review.md` |
 | Eremos bundle (target) | `~/EremosVercel2/server/data/eremos_translation.json` |
 | Eremos schema | `~/EremosVercel2/shared/models/eremos.ts` (tables: `eremosTranslationVerses`, `translationFeedback`) |
 | Eremos import fn | `~/EremosVercel2/server/bible-import.ts` → `ensureEremosTranslationImported()` |
@@ -224,21 +249,23 @@ The Eremos bundle strips this down to:
 
 ---
 
-## Translation quality checklist
+## Pre-ship checklist
 
-Before committing a chapter, confirm:
+Manual confirmation before committing the chapter (automated checks cover most of this):
 
-- [ ] All verses present (e.g., Mark 2 should have 28 verses per SBLGNT)
-- [ ] Key terms consistent with prior chapters (εὐαγγέλιον always ข่าวประเสริฐ, etc.)
-- [ ] Divine subjects use ราชาศัพท์ register
-- [ ] Every hapax legomenon has a rationale entry in `key_decisions` or `notes`
-- [ ] Any textual variants vs. BSB flagged in `notes`
-- [ ] Back-translation test: paste the Thai into a separate Claude conversation, ask for English, compare against BSB — divergences should be intentional and documented
-- [ ] Native-speaker review on at least the first chapter of a new book (more frequent early, less needed as patterns stabilize)
+- [ ] `python3 scripts/run_checks.py --book <CODE> --chapter <N>` returns no flags
+- [ ] All verses present for the chapter (matches SBLGNT verse count)
+- [ ] Divine subjects use ราชาศัพท์ register throughout
+- [ ] Every hapax legomenon has a rationale entry
+- [ ] Every textual variant vs. BSB is flagged in `notes`
+- [ ] Every OT citation/allusion is acknowledged (automated)
+- [ ] Native-speaker review (Ben or designated reviewer) for naturalness — **manual**
+- [ ] Theological review for doctrinal accuracy — **manual**
 
 ---
 
 ## Last state
 
 - **Mark 1 complete** (45 verses) — in production via PR #165 (merged 2026-04-16)
-- **Next pilot target:** Mark 2 (or whatever you pick next)
+- **Check infrastructure complete** (2026-04-16) — RULES.md, 5 automated checks, orchestrator, glossary builder
+- **Next pilot target:** 1 Timothy 3 (16 verses, 5 hapax, famous v16 textual variant) — a real stress test for our rules

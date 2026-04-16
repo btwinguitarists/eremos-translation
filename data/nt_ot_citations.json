@@ -1,0 +1,48 @@
+{
+  "_note": "Major NT→OT citations and allusions with source identification. Curated. Expand as chapters are added. Format: { 'MRK 1:2': { 'type': 'citation'|'allusion', 'source': 'MAL 3:1', 'greek_matches': 'LXX'|'MT'|'paraphrase', 'notes': '...' }}",
+  "_source": "NA28 marginal references + scholarly consensus (Beale & Carson NT Use of the OT, UBS GNT apparatus).",
+  "citations": {
+    "MRK 1:2": {
+      "type": "composite_citation",
+      "sources": ["MAL 3:1", "EXO 23:20"],
+      "greek_matches": "LXX-influenced",
+      "notes": "Mark attributes to Isaiah but quotes Malachi+Exodus. The 'ἄγγελόν μου' phrase matches LXX Mal 3:1 closely."
+    },
+    "MRK 1:3": {
+      "type": "citation",
+      "source": "ISA 40:3",
+      "greek_matches": "LXX",
+      "notes": "Voice-in-wilderness text matches LXX ordering ('in the wilderness') rather than MT ('call in the wilderness prepare the way')."
+    },
+    "MRK 1:11": {
+      "type": "allusion",
+      "sources": ["PSA 2:7", "ISA 42:1", "GEN 22:2"],
+      "greek_matches": "composite",
+      "notes": "Baptism voice combines Royal-Son (Ps 2), Servant-beloved (Isa 42), and beloved-sacrificial-son (Gen 22)."
+    },
+    "1TI 2:13": {
+      "type": "allusion",
+      "source": "GEN 2:7, 21-22",
+      "greek_matches": "paraphrase",
+      "notes": "Adam formed first, then Eve — order-of-creation argument."
+    },
+    "1TI 2:14": {
+      "type": "allusion",
+      "source": "GEN 3:6, 13",
+      "greek_matches": "paraphrase",
+      "notes": "Eve deceived — the fall narrative."
+    },
+    "1TI 5:18": {
+      "type": "composite_citation",
+      "sources": ["DEU 25:4", "LUK 10:7"],
+      "greek_matches": "LXX-Deut25 + Luke-citation",
+      "notes": "'ox not muzzled while threshing' matches LXX. Second half ('worker deserves wages') cites Luke 10:7 as 'Scripture' — notable early NT-as-Scripture reference."
+    },
+    "1TI 6:7": {
+      "type": "allusion",
+      "source": "JOB 1:21",
+      "greek_matches": "paraphrase",
+      "notes": "'Brought nothing in, take nothing out' echoes Job."
+    }
+  }
+}

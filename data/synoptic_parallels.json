@@ -1,0 +1,14 @@
+{
+  "_note": "Synoptic parallel passages. When multiple gospels record the same event or saying, our renderings should harmonize (same saying → same Thai wording) where the Greek matches, and diverge where the Greek diverges. Curated from standard Synopsis of the Four Gospels.",
+  "_format": "Each entry: an array of passage groups. Each group lists parallel refs.",
+  "groups": [
+    {"name": "Baptism of Jesus",             "refs": ["MAT 3:13-17", "MRK 1:9-11", "LUK 3:21-22", "JHN 1:29-34"]},
+    {"name": "Temptation in wilderness",     "refs": ["MAT 4:1-11",  "MRK 1:12-13", "LUK 4:1-13"]},
+    {"name": "Call of first disciples",      "refs": ["MAT 4:18-22", "MRK 1:16-20", "LUK 5:1-11"]},
+    {"name": "Healing man with unclean spirit at Capernaum", "refs": ["MRK 1:21-28", "LUK 4:31-37"]},
+    {"name": "Healing Peter's mother-in-law","refs": ["MAT 8:14-15", "MRK 1:29-31", "LUK 4:38-39"]},
+    {"name": "Healings at evening",          "refs": ["MAT 8:16-17", "MRK 1:32-34", "LUK 4:40-41"]},
+    {"name": "Preaching tour of Galilee",    "refs": ["MAT 4:23-25", "MRK 1:35-39", "LUK 4:42-44"]},
+    {"name": "Cleansing of a leper",         "refs": ["MAT 8:1-4",   "MRK 1:40-45", "LUK 5:12-16"]}
+  ]
+}
