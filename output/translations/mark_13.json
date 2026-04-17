@@ -1,0 +1,666 @@
+[
+  {
+    "reference": "Mark 13:1",
+    "chapter": 13,
+    "verse": 1,
+    "greek": "Καὶ ἐκπορευομένου αὐτοῦ ἐκ τοῦ ἱεροῦ λέγει αὐτῷ εἷς τῶν μαθητῶν αὐτοῦ·Διδάσκαλε,ἴδε ποταποὶ λίθοι καὶ ποταπαὶ οἰκοδομαί.",
+    "bsb_english": "As Jesus was leaving the temple, one of His disciples said to Him, \"Teacher, look at the magnificent stones and buildings!\"",
+    "translation": {
+      "thai": "เมื่อพระองค์เสด็จออกจากเขตพระวิหาร สาวกคนหนึ่งของพระองค์ทูลพระองค์ว่า \"อาจารย์ ดูสิ ก้อนหินและสิ่งก่อสร้างเหล่านี้ใหญ่โตเพียงใด!\"",
+      "thai_literal": null,
+      "thai_summary": "พระวิหารที่กษัตริย์เฮโรดทรงขยายและตกแต่งนี้เป็นสิ่งก่อสร้างที่อัศจรรย์ที่สุดในสมัยนั้น ก้อนหินฐานบางก้อนหนักกว่า 500 ตัน สาวกของพระเยซูยังตะลึงกับความใหญ่โตมั่นคงของพระวิหาร ทำให้คำตอบของพระเยซูในข้อถัดไปน่าตกใจยิ่งนัก",
+      "key_decisions": [
+        { "greek": "ἐκπορευομένου αὐτοῦ ἐκ τοῦ ἱεροῦ", "thai": "เมื่อพระองค์เสด็จออกจากเขตพระวิหาร", "rationale": "Gen.-absolute ἐκπορεύομαι 'go out of.' αὐτοῦ (per uW TN figs-synecdoche) represents Jesus AND his disciples traveling with him; preserved here by the subsequent 'one of his disciples,' so no need to make explicit. ἱερόν → เขตพระวิหาร (glossary-established from Mark 11, referring to the temple courts/precincts, not the ναός sanctuary proper). ราชาศัพท์ เสด็จ for Jesus's movement." },
+        { "greek": "λέγει αὐτῷ εἷς τῶν μαθητῶν αὐτοῦ", "thai": "สาวกคนหนึ่งของพระองค์ทูลพระองค์", "rationale": "Historic present λέγει → Thai past-narrative ทูล (royal-speech to addressee = Jesus). μαθητής → สาวก (glossary-established). εἷς τῶν μαθητῶν = 'one of his disciples' (unnamed; cf. v.3 where four named disciples ask the expanded question)." },
+        { "greek": "Διδάσκαλε", "thai": "อาจารย์", "rationale": "διδάσκαλος vocative → Thai อาจารย์ (glossary-established)." },
+        { "greek": "ἴδε ποταποὶ λίθοι καὶ ποταπαὶ οἰκοδομαί", "thai": "ดูสิ ก้อนหินและสิ่งก่อสร้างเหล่านี้ใหญ่โตเพียงใด", "rationale": "ἴδε particle of attention-calling → ดูสิ. ποταπός originally 'from what country' but by Koine = 'what kind / how great' (exclamatory — per uW TN figs-exclamations). The doubled ποταποί...ποταπαί intensifies the wonder. Thai เหล่านี้ใหญ่โตเพียงใด ('how magnificent these are') preserves the exclamatory force. λίθοι refers to the massive ashlar stones of Herod's temple platform (uW TN figs-explicit)." }
+      ],
+      "notes": "HISTORICAL BACKGROUND: Herod the Great's temple-mount expansion (begun 20 BCE, still under construction in Jesus's day — finally completed 63 CE, just 7 years before its destruction) incorporated massive ashlar stones. The 'Western Wall stone' still visible today weighs ~570 tons. Jesus's disciples are reacting to what was the largest temple complex in the ancient world. Mark sets up the contrast: the most solid thing the disciples can see will soon be rubble (v.2). SETTING: the disciple's exclamation occurs as the group exits the temple precinct — probably onto the Royal Portico staircase descending from the SE corner, with the Mount of Olives visible across the Kidron Valley (cf. v.3)."
+    }
+  },
+  {
+    "reference": "Mark 13:2",
+    "chapter": 13,
+    "verse": 2,
+    "greek": "καὶ ὁ Ἰησοῦς εἶπεν αὐτῷ·Βλέπεις ταύτας τὰς μεγάλας οἰκοδομάς;οὐ μὴ ἀφεθῇ ὧδε λίθος ἐπὶ λίθον ὃς οὐ μὴ καταλυθῇ.",
+    "bsb_english": "\"Do you see all these great buildings?\" Jesus replied. \"Not one stone here will be left on another; every one will be thrown down.\"",
+    "translation": {
+      "thai": "พระเยซูตรัสตอบเขาว่า \"เจ้าเห็นอาคารใหญ่โตเหล่านี้หรือ? จะไม่มีหินก้อนใดเหลือซ้อนกันอยู่ที่นี่ ทุกก้อนจะถูกทำลายพังทลายลง\"",
+      "thai_literal": null,
+      "thai_summary": "คำพยากรณ์นี้สำเร็จใน ค.ศ. 70 เมื่อกองทัพโรมันภายใต้ไททัสเผาและทำลายพระวิหารเยรูซาเล็มจนเหลือแต่พื้นฐาน สำหรับสาวกในขณะนั้น คำพยากรณ์นี้ไม่อาจจินตนาการได้—พระวิหารเป็นหัวใจของความเชื่อและเอกลักษณ์ของชาวยิว",
+      "key_decisions": [
+        { "greek": "Βλέπεις ταύτας τὰς μεγάλας οἰκοδομάς", "thai": "เจ้าเห็นอาคารใหญ่โตเหล่านี้หรือ", "rationale": "βλέπεις 2sg — per uW TN figs-yousingular, Jesus addresses the single disciple from v.1 (not yet the four of v.3). Thai เจ้า (2sg direct address from Jesus to a single disciple) preserves the singular. Rhetorical question form (uW TN figs-rquestion) — could be statement, but the question-frame calls attention to the impending contrast. Preserved as question. οἰκοδομή → อาคาร (same rendering as v.1)." },
+        { "greek": "οὐ μὴ ἀφεθῇ ὧδε λίθος ἐπὶ λίθον ὃς οὐ μὴ καταλυθῇ", "thai": "จะไม่มีหินก้อนใดเหลือซ้อนกันอยู่ที่นี่ ทุกก้อนจะถูกทำลายพังทลายลง", "rationale": "Double οὐ μή intensifying double-negatives (per uW TN figs-doublenegatives). Thai ไม่มี...ใด + ทุก(ก้อน) preserves the totalizing force. λίθος ἐπὶ λίθον 'stone-upon-stone' — architectural image of complete demolition. Per uW TN figs-hyperbole, this is overstatement-for-emphasis; practically, the Western Wall retaining stones remain today — but the temple itself (ναός + οἰκοδομαί) was levelled. ἀφεθῇ + καταλυθῇ both pass. aor.-subj. — 'invading enemies' implicit agent (per uW TN figs-activepassive). The Thai passive ถูกทำลายพังทลาย captures it without naming Rome explicitly, matching Mark's deliberate non-specification." }
+      ],
+      "notes": "PROPHECY FULFILLED: Titus's legions burned and systematically dismantled the Herodian temple 70 CE. Josephus (BJ 7.1.1) records that the site was so thoroughly stripped that a visitor would not have believed it had ever been inhabited. The massive Herodian retaining-wall courses survive at the Western Wall and Robinson's Arch remnant — but the sanctuary itself was gone. Mark, if writing ~65–70 CE as many scholars hold, preserves this prediction either as genuinely pre-70 prophecy or as vaticinium ex eventu depending on dating; the text itself is carefully non-specific. FIRST PASSION-WARD FORESHADOWING of chapter 13's eschatological discourse. Note the inclusio-setup with 11:18 (Jesus teaching in temple) → 13:1–2 (Jesus leaving temple) — a Markan geographical/thematic frame closing the Jerusalem-teaching cycle."
+    }
+  },
+  {
+    "reference": "Mark 13:3",
+    "chapter": 13,
+    "verse": 3,
+    "greek": "Καὶ καθημένου αὐτοῦ εἰς τὸ Ὄρος τῶν Ἐλαιῶν κατέναντι τοῦ ἱεροῦ ἐπηρώτα αὐτὸν κατ’ἰδίαν Πέτρος καὶ Ἰάκωβος καὶ Ἰωάννης καὶ Ἀνδρέας·",
+    "bsb_english": "While Jesus was sitting on the Mount of Olives opposite the temple, Peter, James, John, and Andrew asked Him privately,",
+    "translation": {
+      "thai": "ขณะที่พระองค์ประทับอยู่บนภูเขามะกอกเทศตรงข้ามกับเขตพระวิหาร เปโตร ยากอบ ยอห์น และอันดรูว์ทูลถามพระองค์เป็นการส่วนตัวว่า",
+      "thai_literal": null,
+      "thai_summary": "ภูเขามะกอกเทศอยู่ตรงข้ามกับพระวิหารข้ามหุบเขาขิดโรน จากภูเขานี้มองเห็นพระวิหารได้อย่างชัดเจน เศคาริยาห์ 14:4 พยากรณ์ว่าในวันของพระยาห์เวห์ พระเจ้าจะยืนบนภูเขามะกอกเทศ สถานที่จึงมีความหมายทางคำพยากรณ์",
+      "key_decisions": [
+        { "greek": "καθημένου αὐτοῦ εἰς τὸ Ὄρος τῶν Ἐλαιῶν", "thai": "พระองค์ประทับอยู่บนภูเขามะกอกเทศ", "rationale": "Gen.-absolute καθήμαι 'sit/sit-down' — ราชาศัพท์ ประทับ for Jesus. Ὄρος τῶν Ἐλαιῶν → ภูเขามะกอกเทศ (glossary-established from Mark 11). εἰς + acc. is unusual for 'upon' (expected ἐπί + gen.) — Koine εἰς encroaches on ἐν + dat.; Thai บน natural. Teaching-posture: rabbis sat to teach (cf. 4:1, 9:35)." },
+        { "greek": "κατέναντι τοῦ ἱεροῦ", "thai": "ตรงข้ามกับเขตพระวิหาร", "rationale": "κατέναντι idiomatic 'directly-opposite / face-to-face-with' (per uW TN figs-idiom). Thai ตรงข้ามกับ ('directly-across-from') preserves the spatial-facing. Across the Kidron Valley, the Mount of Olives looks directly at the temple's east wall — a commanding panoramic view of the structures Jesus has just described as doomed." },
+        { "greek": "ἐπηρώτα αὐτὸν κατ’ ἰδίαν Πέτρος καὶ Ἰάκωβος καὶ Ἰωάννης καὶ Ἀνδρέας", "thai": "เปโตร ยากอบ ยอห์น และอันดรูว์ทูลถามพระองค์เป็นการส่วนตัว", "rationale": "ἐπερωτάω impf. → ทูลถาม (royal-register address-to-Jesus). κατ' ἰδίαν 'privately / by themselves' (Markan formula for private disciple-instruction, cf. 4:34, 6:31, 9:28, 13:3) → เป็นการส่วนตัว. Four named disciples: Peter-James-John-Andrew — the first-called (1:16–20). Unique to Mark among synoptics to include Andrew here (Matt 24:3 and Luke 21:7 have 'disciples' generically). Names per glossary (เปโตร, ยากอบ, ยอห์น, อันดรูว์). Notable: Peter-James-John are Mark's inner-three (5:37, 9:2, 14:33), but here Andrew joins — likely because Andrew was also present as fisherman-partner-of-Peter at the temple exit." }
+      ],
+      "notes": "GEOGRAPHICAL-PROPHETIC SIGNIFICANCE: The Mount of Olives is not incidentally chosen. Zechariah 14:4 prophesies YHWH's feet standing on the Mount of Olives in the day of the LORD; it is the traditional site of eschatological theophany. Jesus delivers his eschatological discourse from this prophetic-geographical vantage-point, looking directly at the doomed temple. FOUR-DISCIPLE INCLUSIO with 1:16–20 (Peter/Andrew/James/John first called): the first-called hear the culminating private teaching. Note the asymmetrical pairing: Peter + Andrew are brothers; James + John are brothers; both brother-pairs are the opening of Mark's call-narrative."
+    }
+  },
+  {
+    "reference": "Mark 13:4",
+    "chapter": 13,
+    "verse": 4,
+    "greek": "Εἰπὸν ἡμῖν πότε ταῦτα ἔσται,καὶ τί τὸ σημεῖον ὅταν μέλλῃ ταῦτα συντελεῖσθαι πάντα.",
+    "bsb_english": "\"Tell us, when will these things happen? And what will be the sign that they are about to be fulfilled?\"",
+    "translation": {
+      "thai": "\"โปรดตรัสบอกพวกเราเถิด เมื่อไรสิ่งเหล่านี้จะเกิดขึ้น และอะไรเป็นหมายสำคัญที่ชี้ว่าสิ่งเหล่านี้ทั้งหมดกำลังจะสำเร็จ?\"",
+      "thai_literal": null,
+      "thai_summary": "คำถามของสาวกมีสองส่วน: (1) เมื่อไรพระวิหารจะถูกทำลาย (2) หมายสำคัญอะไรจะปรากฏก่อน พระเยซูทรงตอบคำถามทั้งสอง แต่ยังรวมคำพยากรณ์ถึงการเสด็จกลับของพระองค์เข้าด้วย คริสเตียนตีความแตกต่างว่าส่วนใดเกี่ยวกับพระวิหารหรือการเสด็จกลับ",
+      "key_decisions": [
+        { "greek": "Εἰπὸν ἡμῖν", "thai": "โปรดตรัสบอกพวกเราเถิด", "rationale": "Aor. imperative 2sg εἰπέ/εἰπόν 'tell.' Per uW TN figs-imperative, should be translated as polite request, not command (disciples respectfully asking). Thai โปรด + เถิด particle politens the imperative to disciples-to-master register. ราชาศัพท์ ตรัสบอก for Jesus as the spoken subject." },
+        { "greek": "πότε ταῦτα ἔσται", "thai": "เมื่อไรสิ่งเหล่านี้จะเกิดขึ้น", "rationale": "πότε interrogative 'when' + ταῦτα (per uW TN figs-explicit = the events Jesus described in v.2, the temple's destruction). Thai เมื่อไร direct question-when, + future จะเกิดขึ้น (natural future)." },
+        { "greek": "τί τὸ σημεῖον ὅταν μέλλῃ ταῦτα συντελεῖσθαι πάντα", "thai": "อะไรเป็นหมายสำคัญที่ชี้ว่าสิ่งเหล่านี้ทั้งหมดกำลังจะสำเร็จ", "rationale": "σημεῖον → หมายสำคัญ (glossary). μέλλω + infin. = 'about to.' συντελέω (pass.-infin.) 'be-completed / consummated' — stronger than τελέω, implies full/eschatological consummation. Thai สำเร็จ (complete/fulfill) preserves the consummation-nuance. ταῦτα...πάντα per uW TN figs-explicit could refer to (a) temple-destruction specifically or (b) eschatological end-of-age; Mark's narrative intentionally blends the two — the temple-destruction prefigures/inaugurates the eschaton. Thai ที่ชี้ว่า ('pointing/indicating that') preserves the sign-function." }
+      ],
+      "notes": "TWO-PART QUESTION structure (per uW TN chapter intro): (1) when? (2) what sign? The disciples frame their question in terms of the temple-destruction from v.2 (ταῦτα). Jesus's answer, however, progressively expands the horizon: initially about temple + tribulation (13:5–23), then cosmic Son-of-Man coming (13:24–27), then eschatological vigilance (13:32–37). Interpretive tradition disagrees on when Jesus crosses from temple-discourse to parousia-discourse (uW TN three-option framework). Our Thai rendering preserves ambiguity — ταῦτα...πάντα can refer to either layer, as Mark intends. συντελεῖσθαι (apocalyptic consummation-verb, cf. Dan 12:7 LXX συντελεσθήσεται πάντα ταῦτα) signals that the disciples already grasp that temple-destruction is an eschatological-magnitude event."
+    }
+  },
+  {
+    "reference": "Mark 13:5",
+    "chapter": 13,
+    "verse": 5,
+    "greek": "ὁ δὲ Ἰησοῦς ἤρξατο λέγειν αὐτοῖς·Βλέπετε μή τις ὑμᾶς πλανήσῃ·",
+    "bsb_english": "Jesus began by telling them, \"See to it that no one deceives you.",
+    "translation": {
+      "thai": "พระเยซูทรงตั้งต้นตรัสแก่พวกเขาว่า \"จงระวังอย่าให้ใครนำพวกท่านไปหลงผิด",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "ἤρξατο λέγειν αὐτοῖς", "thai": "ทรงตั้งต้นตรัสแก่พวกเขา", "rationale": "ἄρχομαι + infin. Markan formula (same as 12:1) — ทรงตั้งต้น + ตรัส (royal-register of divine speech). Opens the eschatological-discourse." },
+        { "greek": "Βλέπετε μή τις ὑμᾶς πλανήσῃ", "thai": "จงระวังอย่าให้ใครนำพวกท่านไปหลงผิด", "rationale": "βλέπετε + μή + aor.-subj. = 'watch lest someone.' Thai จงระวัง ('beware/watch') + อย่าให้ ('do not allow'). πλανάω (active) 'lead-astray / deceive' (per uW TN figs-metaphor — path-metaphor extended to religious-deception). Thai นำ...ไปหลงผิด ('lead...into error') preserves both the leading and the straying. Glossary consistency with 12:24, 27 where the passive πλανᾶσθε = หลงผิด; here the active causative is นำ...ให้หลงผิด." }
+      ],
+      "notes": "OPENING THEME: The first warning of the discourse is not about wars or temple-destruction — it's about DECEPTION. Jesus frames the coming tribulation through the lens of pastoral vigilance, not cosmic catastrophe. πλανάω (vv.5, 6, 22) becomes the keyword of the discourse's first half. The disciples must first become discerning, because confusion-of-identity will be the primary threat — false Messiahs, false prophets, false signs (v.22)."
+    }
+  },
+  {
+    "reference": "Mark 13:6",
+    "chapter": 13,
+    "verse": 6,
+    "greek": "πολλοὶ ἐλεύσονται ἐπὶ τῷ ὀνόματί μου λέγοντες ὅτι Ἐγώ εἰμι,καὶ πολλοὺς πλανήσουσιν.",
+    "bsb_english": "Many will come in My name, claiming, 'I am He,' and will deceive many.",
+    "translation": {
+      "thai": "คนจำนวนมากจะมาโดยอ้างนามของเรา พวกเขาจะกล่าวว่า 'เราคือผู้นั้น' และจะนำคนมากมายให้หลงผิด",
+      "thai_literal": null,
+      "thai_summary": "คำว่า 'เราคือ' (ἐγώ εἰμι) อาจหมายถึงผู้อ้างเป็นพระเมสสิยาห์ หรืออาจสะท้อนนามของพระเจ้าในอพยพ 3:14 ('เราคือผู้ที่เราเป็น') ผู้หลอกลวงเหล่านี้จะใช้นามของพระเยซูเพื่อชักจูงสาวกให้หลง นี่เป็นคำเตือนถึงศาสดาเทียมที่จะเกิดขึ้นในทุกยุค",
+      "key_decisions": [
+        { "greek": "ἐπὶ τῷ ὀνόματί μου", "thai": "โดยอ้างนามของเรา", "rationale": "ἐπί + dat. ὀνόματι = 'on the basis of / appealing to / claiming' the name (per uW TN figs-metonymy — 'name' = authority-and-identity). Two options per uW TN: (1) 'claiming my authority' or (2) 'claiming to represent me.' Thai โดยอ้างนาม ('by-appealing-to-the-name') preserves both possibilities without forcing a reading." },
+        { "greek": "Ἐγώ εἰμι", "thai": "เราคือผู้นั้น", "rationale": "'I am' — deliberately ambiguous (per uW TN figs-explicit). Could be messianic claim ('I am the Christ,' ellipsis supplied) or divine-name allusion (Exod 3:14 LXX ἐγώ εἰμι ὁ ὤν). Thai เราคือผู้นั้น ('I am that one / I am he') preserves ambiguity — allows both messianic ('that expected one') and divine ('the I AM') readings. Avoids explicit ผู้ที่เราเป็น (which would over-specify the Exodus echo)." },
+        { "greek": "πολλοὺς πλανήσουσιν", "thai": "จะนำคนมากมายให้หลงผิด", "rationale": "Fut. active πλανάω — parallels v.5. Thai consistency with v.5 rendering. πολλοί...πολλούς repetition: many will come, many will be deceived (uW TN figs-nominaladj). The scale is significant — not a fringe phenomenon." }
+      ],
+      "notes": "ἐγώ εἰμι AMBIGUITY preserved intentionally. Mark has used ἐγώ εἰμι for Jesus twice so far in divine-self-revelation moments: 6:50 (walking-on-water, storm theophany, Exod 3:14 + Ps 77:19 echoes) and future 14:62 (trial before Sanhedrin, eschatological self-identification). Here at 13:6, false-Christs appropriating precisely this phrase is Mark's signal that they know what they are claiming — the highest identification, not merely 'I am the Messiah.' Mark's Christology is understated but pointed: false ἐγώ εἰμι-claimants confirm Jesus's ἐγώ εἰμι claims are indeed ultimate. PROPHETIC-HISTORICAL fulfillment: 1st-century Jewish messianic pretenders abound — Theudas (Acts 5:36), Judas the Galilean (Acts 5:37), the Egyptian (Acts 21:38), Bar Kokhba (132–135 CE). Josephus details many such figures (Ant. 20.5.1, BJ 2.13.4). Jesus predicts a pattern that the 1st century amply exhibited."
+    }
+  },
+  {
+    "reference": "Mark 13:7",
+    "chapter": 13,
+    "verse": 7,
+    "greek": "ὅταν δὲ ἀκούσητε πολέμους καὶ ἀκοὰς πολέμων,μὴ θροεῖσθε·δεῖ γενέσθαι,ἀλλ’οὔπω τὸ τέλος.",
+    "bsb_english": "When you hear of wars and rumors of wars, do not be alarmed. These things must happen, but the end is still to come.",
+    "translation": {
+      "thai": "เมื่อพวกท่านได้ยินข่าวสงครามและข่าวลือเรื่องสงคราม อย่าตกใจตื่นตระหนก สิ่งเหล่านี้ต้องเกิดขึ้น แต่ยังไม่ถึงที่สุด",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "πολέμους καὶ ἀκοὰς πολέμων", "thai": "ข่าวสงครามและข่าวลือเรื่องสงคราม", "rationale": "Per uW TN figs-explicit option (1): reports of current wars + rumors of future/distant wars. Thai ข่าว ('news-report') + ข่าวลือ ('rumor') preserves the distinction. ἀκοαί literally 'hearings' = 'what-is-heard / reports' — Thai ข่าวลือ appropriately captures the second-hand / possibly-unverified nature." },
+        { "greek": "μὴ θροεῖσθε", "thai": "อย่าตกใจตื่นตระหนก", "rationale": "θροέω (mid.-pass.) 'be-alarmed / be-in-panic / be-troubled.' Relatively rare NT verb (here + 2 Thess 2:2 + Matt 24:6 parallel). Thai ตกใจตื่นตระหนก ('startled-panicked-agitated') doubles the force to match the vivid Greek. Present imperative = 'stop being/don't begin being' alarmed — enduring command." },
+        { "greek": "δεῖ γενέσθαι, ἀλλ’ οὔπω τὸ τέλος", "thai": "สิ่งเหล่านี้ต้องเกิดขึ้น แต่ยังไม่ถึงที่สุด", "rationale": "δεῖ apocalyptic-necessity verb (per uW TN figs-explicit — God-decreed). Thai ต้อง + เกิดขึ้น captures the inevitability. οὔπω τὸ τέλος 'not yet the end' (ellipsis of ἐστιν). Per uW TN figs-explicit option (1): τέλος = end-of-temple; option (2): end-of-age. Our Thai ยังไม่ถึงที่สุด ('not yet arrived at the ultimate/end') preserves both options. Glossary entry: τὸ τέλος → ที่สุด (context-dependent; here eschatological-reticent)." }
+      ],
+      "notes": "DEUTERONOMY 2 / DANIEL 2 ECHOES: Wars-and-rumors-of-wars reflects the standard apocalyptic-tribulation prelude (cf. 2 Esd 9:3; 2 Baruch 70:2–8). δεῖ preserves divine-sovereignty amid chaos — these are not random catastrophes but unfolding according to God's foreknown plan. τέλος left deliberately open so that both the proximate temple-end (70 CE) and the ultimate eschatological-end can coexist in Jesus's horizon. Matthew (24:6) keeps identical wording; Luke (21:9) alters to emphasize the not-yet."
+    }
+  },
+  {
+    "reference": "Mark 13:8",
+    "chapter": 13,
+    "verse": 8,
+    "greek": "ἐγερθήσεται γὰρ ἔθνος ἐπ’ἔθνος καὶ βασιλεία ἐπὶ βασιλείαν,ἔσονται σεισμοὶ κατὰ τόπους,ἔσονται λιμοί·ἀρχὴ ὠδίνων ταῦτα.",
+    "bsb_english": "Nation will rise against nation, and kingdom against kingdom. There will be earthquakes in various places, as well as famines. These are the beginning of birth pains.",
+    "translation": {
+      "thai": "เพราะชนชาติจะลุกขึ้นต่อสู้ชนชาติ อาณาจักรจะลุกขึ้นต่อสู้อาณาจักร จะมีแผ่นดินไหวตามสถานที่ต่างๆ จะมีการกันดารอาหาร สิ่งเหล่านี้เป็นจุดเริ่มต้นของความเจ็บปวดก่อนคลอด",
+      "thai_literal": null,
+      "thai_summary": "ภาพ 'ความเจ็บปวดก่อนคลอด' (ὠδίνες) เป็นภาษาของคำพยากรณ์ในพระคัมภีร์เดิม (อิสยาห์ 13:8; 26:17; เยเรมีย์ 4:31) ซึ่งหมายถึงความทุกข์ลำบากที่นำไปสู่ยุคใหม่ ในวรรณกรรมยิวสมัยระหว่างพันธสัญญา เรียกว่า 'การเจ็บครรภ์ของพระเมสสิยาห์' (chevlei mashiach) ซึ่งบอกว่าการมาของพระเมสสิยาห์จะนำหน้าด้วยความโกลาหล",
+      "key_decisions": [
+        { "greek": "ἐγερθήσεται ἔθνος ἐπ’ ἔθνος καὶ βασιλεία ἐπὶ βασιλείαν", "thai": "ชนชาติจะลุกขึ้นต่อสู้ชนชาติ อาณาจักรจะลุกขึ้นต่อสู้อาณาจักร", "rationale": "ἐγείρω (pass.) + ἐπί in idiom 'rise against / rise up to attack' (per uW TN figs-idiom). Thai ลุกขึ้นต่อสู้ ('rise-up-to-fight'). Parallelism with ellipsis in the second clause (ἐγερθήσεται supplied — per uW TN figs-ellipsis). ἔθνος → ชนชาติ (glossary pattern from 11:17 πᾶσιν τοῖς ἔθνεσιν; here 'nation' in political/ethnic sense, not 'Gentiles' specifically). βασιλεία → อาณาจักร (glossary, same as 11:10, 12:34). Direct verbal-allusion to Isa 19:2 LXX (ἐπεγερθήσεται ... ἔθνος ἐπ’ ἔθνος) and 2 Chr 15:6 (κοπῇ ἔθνος ἐπ’ ἔθνος). Classic OT-idiom for chaos-and-war." },
+        { "greek": "σεισμοὶ κατὰ τόπους", "thai": "แผ่นดินไหวตามสถานที่ต่างๆ", "rationale": "σεισμός → แผ่นดินไหว (standard Thai; glossary entry established here). κατὰ τόπους distributive 'in various places.' Thai ตามสถานที่ต่างๆ ('in various places') preserves the distributive. Ancient-world catalogue of earthquakes: Pompeii 62 CE, Asia Minor 60/61 CE (recorded by Tacitus and Suetonius), Laodicea (60 CE) — the 1st century CE was seismically notable." },
+        { "greek": "ἔσονται λιμοί", "thai": "จะมีการกันดารอาหาร", "rationale": "λιμός → การกันดารอาหาร (standard Thai Christian; 'food-scarcity'). Glossary entry established. TEXTUAL VARIANT: SBLGNT has just λιμοί (Alexandrian: ℵ B L W). Byz adds καὶ ταραχαί 'and disturbances/tumults' (A D Θ Φ), cf. uW TN translate-textvariants. Our text follows SBLGNT shorter reading." },
+        { "greek": "ἀρχὴ ὠδίνων ταῦτα", "thai": "สิ่งเหล่านี้เป็นจุดเริ่มต้นของความเจ็บปวดก่อนคลอด", "rationale": "ὠδίν → ความเจ็บปวดก่อนคลอด ('pain before birth' — 'labor-pain'). Per uW TN figs-metaphor, Jesus uses birth-pangs metaphorically: difficult/painful preliminaries leading to joyful new-thing. Thai preserves the metaphor explicitly since Thai readers may not immediately recognize the idiomatic ใกล้คลอด without full phrase. Jewish apocalyptic idiom (Heb. חבלי משיח 'birth-pangs of the Messiah') — see notes and thai_summary. Taking as predicative copula: 'these-things [are] beginning-of-birth-pains.' Glossary entry established here." }
+      ],
+      "notes": "OT INTERTEXT: ἔθνος ἐπ’ ἔθνος + βασιλεία ἐπὶ βασιλείαν echoes Isa 19:2 LXX and 2 Chr 15:6 LXX (Hanani-the-seer's oracle on inter-nation conflict as divine judgment). BIRTH-PANGS APOCALYPTIC: ὠδίν is the standard OT-prophetic image for Zion's travail (Isa 13:8, 26:17, 66:7–9; Jer 4:31, 6:24; Mic 4:9–10; Hos 13:13) and becomes in Second Temple Judaism (1 Enoch 62:4; 4 Ezra 4:42; 2 Baruch 29:3ff; 1QH 3:7–12) the technical phrase 'chevlei mashiach' ('Messianic birth-pangs') — a fixed period of tribulation preceding the Messiah's advent. Mark's Jesus uses this exact register, locating the present crisis as ἀρχή of that birth-process. TEXTUAL VARIANT v.8 flagged at λιμοί: SBLGNT = λιμοί (shorter); Byz = λιμοί καὶ ταραχαί (longer). Added to nt_ot_citations.json (Isa 19:2)."
+    }
+  },
+  {
+    "reference": "Mark 13:9",
+    "chapter": 13,
+    "verse": 9,
+    "greek": "βλέπετε δὲ ὑμεῖς ἑαυτούς·παραδώσουσιν ὑμᾶς εἰς συνέδρια καὶ εἰς συναγωγὰς δαρήσεσθε καὶ ἐπὶ ἡγεμόνων καὶ βασιλέων σταθήσεσθε ἕνεκεν ἐμοῦ εἰς μαρτύριον αὐτοῖς.",
+    "bsb_english": "So be on your guard. You will be delivered over to the councils and beaten in the synagogues. On My account you will stand before governors and kings as witnesses to them.",
+    "translation": {
+      "thai": "แต่พวกท่านจงระวังตัวให้ดี เพราะพวกเขาจะส่งตัวพวกท่านไปยังสภาต่างๆ พวกท่านจะถูกโบยตีในธรรมศาลา และเพราะเหตุเรา พวกท่านจะถูกนำไปยืนต่อหน้าผู้ว่าราชการและกษัตริย์ทั้งหลาย เพื่อเป็นพยานแก่พวกเขา",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "βλέπετε δὲ ὑμεῖς ἑαυτούς", "thai": "แต่พวกท่านจงระวังตัวให้ดี", "rationale": "Emphatic ὑμεῖς 'you yourselves' + reflexive ἑαυτούς = 'look-to-yourselves' (per uW TN figs-metaphor = 'be prepared / pay attention to yourselves,' not literal sight). Thai ระวังตัว ('watch-self / be careful-of-self') exactly captures the reflexive self-vigilance. ให้ดี intensifier ('do-it-well')." },
+        { "greek": "παραδώσουσιν ὑμᾶς εἰς συνέδρια", "thai": "พวกเขาจะส่งตัวพวกท่านไปยังสภาต่างๆ", "rationale": "παραδίδωμι 'hand-over' (per uW TN figs-idiom — judicial handing-over to authorities). Subject 'they' = indefinite (per uW TN writing-pronouns = 'people in general will hand you over'). Thai พวกเขาจะส่งตัว ('they-will-hand-over-person'). συνέδρια pl. → สภา (pl.) ต่างๆ — local-council plural. NOT the Jerusalem Sanhedrin (which is ὁ συνέδριον sg., definite). The plural indicates local Jewish councils attached to each synagogue community — judicial bodies under Jewish self-government. Glossary entry: συνέδριον (pl.) → สภา ต่างๆ (when plural/local), distinct from future Mark 14:55 ὁ συνέδριον = Jerusalem Sanhedrin specifically (requires different Thai rendering, to be decided at ch.14)." },
+        { "greek": "εἰς συναγωγὰς δαρήσεσθε", "thai": "พวกท่านจะถูกโบยตีในธรรมศาลา", "rationale": "συναγωγή → ธรรมศาลา (glossary-established). δέρω future-passive 'be-beaten.' εἰς here functions as ἐν (Koine spread) = 'in' the synagogue(s). Synagogue-flogging: Deut 25:2–3 authorized up to 40 lashes; rabbinic practice gave 39. Paul received this five times (2 Cor 11:24). Thai โบยตี ('whip/flog') is standard." },
+        { "greek": "ἐπὶ ἡγεμόνων καὶ βασιλέων σταθήσεσθε", "thai": "พวกท่านจะถูกนำไปยืนต่อหน้าผู้ว่าราชการและกษัตริย์ทั้งหลาย", "rationale": "ἡγεμών → ผู้ว่าราชการ (standard Thai for 'Roman governor' — Pilate, Felix, Festus are prototypes). Glossary entry established. βασιλεύς → กษัตริย์ (glossary from 6:14 Herod). στήσεσθε (pass.) σταθήσεσθε = 'be made to stand' — per uW TN figs-explicit = be arrested and tried. Thai ถูกนำไปยืน ('be-brought-to-stand') preserves passive + the judicial-arraignment force." },
+        { "greek": "ἕνεκεν ἐμοῦ εἰς μαρτύριον αὐτοῖς", "thai": "เพราะเหตุเรา...เพื่อเป็นพยานแก่พวกเขา", "rationale": "ἕνεκεν ἐμοῦ 'on-account-of-me' (per uW TN figs-explicit = because-you-follow-me). Thai เพราะเหตุเรา preserves the causal-for-my-sake. εἰς μαρτύριον αὐτοῖς idiom from glossary: เพื่อเป็นพยานแก่พวกเขา (glossary-established from 6:11). Per uW TN grammar-connect-logic-goal, two readings: (a) purpose — the-trial-for-the-purpose-of-testimony; (b) result — and-you-will-testify-as-consequence. Thai เพื่อ ('for-the-purpose-of / so that') preserves the purpose-reading (option a) while allowing result-coloration. αὐτοῖς = 'to them' referring to governors/kings (per uW TN writing-pronouns)." }
+      ],
+      "notes": "FULFILLMENT: All documented in Acts (Peter/John before Sanhedrin, Acts 4–5; Paul beaten in synagogues, 2 Cor 11:24; Paul before Felix/Festus, Acts 24–26; Paul before Agrippa II, Acts 26; Paul before Caesar, Acts 27–28). Jesus's prediction schematically lays out the precise map of Acts. THREE CONCENTRIC CIRCLES of persecution: (1) Jewish-local (συνέδρια, συναγωγαί); (2) Roman-provincial (ἡγεμόνες); (3) Roman-imperial (βασιλεῖς — client kings like Agrippa or Caesar himself). MARTYRDOM AS MISSION: εἰς μαρτύριον reframes persecution as proclamation-opportunity — the gospel goes global precisely through the witness-unto-suffering of disciples in court. This matches 13:10's universal-proclamation theme."
+    }
+  },
+  {
+    "reference": "Mark 13:10",
+    "chapter": 13,
+    "verse": 10,
+    "greek": "καὶ εἰς πάντα τὰ ἔθνη πρῶτον δεῖ κηρυχθῆναι τὸ εὐαγγέλιον.",
+    "bsb_english": "And the gospel must first be proclaimed to all the nations.",
+    "translation": {
+      "thai": "และข่าวประเสริฐจะต้องได้รับการประกาศแก่ชนชาติทั้งปวงเสียก่อน",
+      "thai_literal": null,
+      "thai_summary": "ในมาระโก 11:17 พระเยซูทรงอ้างอิสยาห์ 56:7 ว่าพระวิหารเป็น 'บ้านแห่งการอธิษฐานสำหรับทุกชนชาติ' ซึ่งเฉพาะมาระโกที่เก็บวลี 'สำหรับทุกชนชาติ' ไว้ ข้อ 13:10 เติมเต็มภารกิจนั้นโดยยืนยันว่าพระกิตติคุณจะต้องไปถึงทุกชนชาติ",
+      "key_decisions": [
+        { "greek": "εἰς πάντα τὰ ἔθνη", "thai": "แก่ชนชาติทั้งปวง", "rationale": "πάντα τὰ ἔθνη standard LXX/NT phrase 'all-the-nations' = Gentile-and-Jewish totality. Thai ชนชาติทั้งปวง preserves the universalism. Deliberate echo of 11:17 (Mark's unique retention of πᾶσιν τοῖς ἔθνεσιν in the Isa 56:7 citation). Mark binds Gentile-inclusion theologically to the universal-scope of the gospel-mission." },
+        { "greek": "πρῶτον δεῖ κηρυχθῆναι τὸ εὐαγγέλιον", "thai": "ข่าวประเสริฐจะต้องได้รับการประกาศ...เสียก่อน", "rationale": "πρῶτον adverbial 'first' (per uW TN figs-explicit = before the end described in v.7). Thai เสียก่อน ('first / beforehand') preserves the temporal-priority. δεῖ (divine-necessity, again — cf. v.7). κηρύσσω → ประกาศ (glossary-established). εὐαγγέλιον → ข่าวประเสริฐ (glossary-established, RULES.md §4 non-negotiable). Passive-infinitive = divine-agent: God-wills-the-gospel-proclaimed. Thai ได้รับการประกาศ ('receive-the-proclamation' = be-proclaimed) captures the divine-passive naturally." }
+      ],
+      "notes": "MISSIOLOGICAL KEYSTONE of the discourse. The tribulation (vv.5–13) is not a pause on mission but the context of mission: persecution becomes witness (v.9 εἰς μαρτύριον), and universal-proclamation happens through that very dispersal. Mark's theology here undergirds the Book of Acts and Paul's mission. 'FIRST' (πρῶτον): not temporally-first-in-chronology but 'first-in-order-of-divine-necessity' — before the temple-end (or eschatological-end) can come, universal-witness must occur. Temporal openness: how-much-time remains indeterminate, but the condition is specified. For Mark's audience this resonates with the historical fact that by 65–70 CE the gospel had reached Rome, Spain (claimed), Egypt, Parthia, and possibly India — a breathtaking expansion in ~35 years."
+    }
+  },
+  {
+    "reference": "Mark 13:11",
+    "chapter": 13,
+    "verse": 11,
+    "greek": "καὶ ὅταν ἄγωσιν ὑμᾶς παραδιδόντες,μὴ προμεριμνᾶτε τί λαλήσητε,ἀλλ’ὃ ἐὰν δοθῇ ὑμῖν ἐν ἐκείνῃ τῇ ὥρᾳ τοῦτο λαλεῖτε,οὐ γάρ ἐστε ὑμεῖς οἱ λαλοῦντες ἀλλὰ τὸ πνεῦμα τὸ ἅγιον.",
+    "bsb_english": "But when they arrest you and hand you over, do not worry beforehand what to say. Instead, speak whatever you are given at that time, for it will not be you speaking, but the Holy Spirit.",
+    "translation": {
+      "thai": "เมื่อพวกเขานำพวกท่านไปและส่งตัว อย่ากังวลล่วงหน้าว่าจะพูดอะไร แต่สิ่งใดที่ประทานให้แก่พวกท่านในเวลานั้น ก็จงพูดสิ่งนั้น เพราะผู้ที่พูดนั้นไม่ใช่พวกท่าน แต่เป็นพระวิญญาณบริสุทธิ์",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "ἄγωσιν ὑμᾶς παραδιδόντες", "thai": "พวกเขานำพวกท่านไปและส่งตัว", "rationale": "ἄγω + παραδίδωμι-ptc. (per uW TN writing-pronouns — indefinite 'they' = any persecutor). Thai พวกเขา (3pl indefinite) + นำ...ไป + ส่งตัว ('lead-take + hand-over-person'). The present-participle παραδιδόντες adds contemporaneous force — 'as-they-are-handing-you-over,' the moment of arraignment." },
+        { "greek": "μὴ προμεριμνᾶτε τί λαλήσητε", "thai": "อย่ากังวลล่วงหน้าว่าจะพูดอะไร", "rationale": "NT HAPAX: προμεριμνάω (only here in NT). Compound προ- + μεριμνάω ('worry-beforehand'). Classical sense 'pre-care / fore-anxiety.' Thai กังวลล่วงหน้า ('worry-beforehand') captures both the temporal προ- and the anxiety-μεριμν- elements. Present imperative w/ μή = 'stop / do not begin' being pre-anxious. Gives disciples specific pastoral counsel against legal-preparation-anxiety." },
+        { "greek": "ὃ ἐὰν δοθῇ ὑμῖν ἐν ἐκείνῃ τῇ ὥρᾳ τοῦτο λαλεῖτε", "thai": "สิ่งใดที่ประทานให้แก่พวกท่านในเวลานั้น ก็จงพูดสิ่งนั้น", "rationale": "Indefinite relative ὃ ἐὰν + pass.-subj. δοθῇ (per uW TN figs-activepassive — divine-passive; God/Holy-Spirit implicit subject). Thai ประทานให้ (royal-verb 'gift-bestow'), preserving the divine-giver implicit. Thai particle-structure สิ่งใด...ก็...สิ่งนั้น mirrors Greek-correlative. ἐν ἐκείνῃ τῇ ὥρᾳ (per uW TN figs-idiom = at-that-moment) → ในเวลานั้น." },
+        { "greek": "οὐ γάρ ἐστε ὑμεῖς οἱ λαλοῦντες ἀλλὰ τὸ πνεῦμα τὸ ἅγιον", "thai": "เพราะผู้ที่พูดนั้นไม่ใช่พวกท่าน แต่เป็นพระวิญญาณบริสุทธิ์", "rationale": "πνεῦμα ἅγιον → พระวิญญาณบริสุทธิ์ (RULES.md §4 non-negotiable, glossary-established). Per uW TN figs-explicit: this means the disciples speak Spirit-given-words, not that the Spirit uses their bodies as involuntary mouthpieces — human agency remains but content is divinely-provided. Thai ผู้ที่พูด ('the one-who-speaks') preserves the agent-question." }
+      ],
+      "notes": "HAPAX: προμεριμνάω (v.11) — NT hapax; pre-anxiety. Compound intensifies μεριμνάω (cf. Matt 6:25–34 parallel 'do not worry'). First hapax of Mark 13. PROMISE OF INSPIRATION: Jesus pledges the Holy Spirit's direct verbal-inspiration for the disciples in judicial-defense settings. This is fulfilled conspicuously in Acts (Peter's Pentecost sermon Acts 2; Stephen's Sanhedrin defense Acts 7; Paul's defenses before Felix/Festus/Agrippa Acts 24–26). It forms the Markan basis for the doctrine of Spirit-assisted witness — distinct from ordinary teaching, this is emergency-grade charismatic inspiration for the hour of trial. TRINITARIAN NOTE: The Holy Spirit appears as distinct speaking-agent here, alongside Jesus's implied authority (v.9 'on-account-of-me'). Mark's pneumatology is understated but operative: the Spirit baptizes Jesus (1:10), drives him (1:12), and now speaks through his disciples."
+    }
+  },
+  {
+    "reference": "Mark 13:12",
+    "chapter": 13,
+    "verse": 12,
+    "greek": "καὶ παραδώσει ἀδελφὸς ἀδελφὸν εἰς θάνατον καὶ πατὴρ τέκνον,καὶ ἐπαναστήσονται τέκνα ἐπὶ γονεῖς καὶ θανατώσουσιν αὐτούς·",
+    "bsb_english": "Brother will betray brother to death, and a father his child. Children will rise against their parents and have them put to death.",
+    "translation": {
+      "thai": "พี่น้องจะทรยศพี่น้องถึงตาย บิดาจะทรยศบุตรของตน บุตรจะลุกขึ้นต่อสู้บิดามารดาและทำให้เขาถูกฆ่า",
+      "thai_literal": null,
+      "thai_summary": "คำพยากรณ์นี้สะท้อนถึงมีคาห์ 7:6 โดยตรง ซึ่งพูดถึงความแตกแยกในครอบครัวในยุคที่โลกเสื่อมทราม ในสังคมยิวที่เน้นความสำคัญของครอบครัวและสายสัมพันธ์ การที่ญาติพี่น้องหักหลังกันเพราะพระเยซูถือเป็นความทุกข์ที่หนักที่สุด",
+      "key_decisions": [
+        { "greek": "παραδώσει ἀδελφὸς ἀδελφὸν εἰς θάνατον", "thai": "พี่น้องจะทรยศพี่น้องถึงตาย", "rationale": "παραδίδωμι here strongly 'betray' (not neutral 'hand-over'), since the action leads to θάνατον. Thai ทรยศ ('betray') captures the moral-violation of kinship-duty. εἰς θάνατον 'to death' (per uW TN figs-abstractnouns — can be rendered 'to-be-killed'). Thai ถึงตาย preserves the result. ἀδελφός per uW TN figs-gendernotations used generically for 'sibling' — Thai พี่น้อง ('elder-sibling/younger-sibling') is already gender-inclusive and captures Thai kinship scope." },
+        { "greek": "πατὴρ τέκνον", "thai": "บิดาจะทรยศบุตรของตน", "rationale": "Ellipsis of παραδώσει εἰς θάνατον (per uW TN figs-ellipsis). Thai restores ทรยศ + ถึงตาย-sense implicit; adds ของตน ('his-own') for clarity. πατήρ per uW TN figs-gendernotations generic for parent, but Thai บิดา carries the patriarchal-family structure faithfully (preservation of the social world of the text; broader reading available). τέκνον → บุตร (inclusive)." },
+        { "greek": "ἐπαναστήσονται τέκνα ἐπὶ γονεῖς καὶ θανατώσουσιν αὐτούς", "thai": "บุตรจะลุกขึ้นต่อสู้บิดามารดาและทำให้เขาถูกฆ่า", "rationale": "ἐπανίστημι 'rise-up-against / rebel' (per uW TN figs-idiom — rebelling against authority). Only Markan use in NT; compounded ἐπι- + ἀνίστημι. Thai ลุกขึ้นต่อสู้ ('rise-up-to-oppose'). γονεῖς → บิดามารดา ('parents' explicit dual). θανατόω 'put-to-death' + αὐτούς (per uW TN figs-explicit — implies children cause parents to be executed, not necessarily doing the killing themselves). Thai ทำให้เขาถูกฆ่า ('cause-them-to-be-killed') preserves the causative." }
+      ],
+      "notes": "OT INTERTEXT: Direct verbal-echo of Mic 7:6 LXX — 'υἱὸς ἀτιμάζει πατέρα, θυγάτηρ ἐπαναστήσεται ἐπὶ τὴν μητέρα αὐτῆς ... ἐχθροὶ ἀνδρὸς οἱ ἐν τῷ οἴκῳ αὐτοῦ.' Mark's ἐπαναστήσονται τέκνα ἐπὶ γονεῖς is lexically close to Mic 7:6 LXX θυγάτηρ ἐπαναστήσεται ἐπὶ τὴν μητέρα. Second Temple apocalyptic tradition already read Mic 7:6 eschatologically (m. Soṭah 9:15; 1QH, 4 Ezra 6:24). Added to nt_ot_citations.json (Mic 7:6). MARKAN PATTERN: Jesus earlier warned that following him would divide families (3:31–35, 10:29–30). Here the warning darkens: family-division becomes family-betrayal-to-death. Mark's realistic vision of the cost of discipleship in the 1st-century Jewish-Roman context."
+    }
+  },
+  {
+    "reference": "Mark 13:13",
+    "chapter": 13,
+    "verse": 13,
+    "greek": "καὶ ἔσεσθε μισούμενοι ὑπὸ πάντων διὰ τὸ ὄνομά μου.ὁ δὲ ὑπομείνας εἰς τέλος οὗτος σωθήσεται.",
+    "bsb_english": "You will be hated by everyone because of My name, but the one who perseveres to the end will be saved.",
+    "translation": {
+      "thai": "และพวกท่านจะถูกคนทั้งปวงเกลียดชังเพราะนามของเรา แต่ผู้ที่อดทนจนถึงที่สุด ผู้นั้นจะรอด",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "ἔσεσθε μισούμενοι ὑπὸ πάντων", "thai": "พวกท่านจะถูกคนทั้งปวงเกลียดชัง", "rationale": "Periphrastic future with perf.-passive-ptc. 'you-will-be hated.' πάντων per uW TN figs-nominaladj + figs-hyperbole — 'all' is generalization-for-emphasis, = 'most people / everyone-around-you.' Thai คนทั้งปวง ('all-persons') preserves the universalism without necessarily making it metaphysically-absolute. μισέω → เกลียดชัง (standard)." },
+        { "greek": "διὰ τὸ ὄνομά μου", "thai": "เพราะนามของเรา", "rationale": "διά + acc. 'because-of' — per uW TN figs-metonymy — 'name' = the person/identity of Jesus; hatred is toward the disciple's identification with Jesus. Thai เพราะนามของเรา preserves the metonymy; readers understand 'because-of-me' through the name-idiom." },
+        { "greek": "ὁ δὲ ὑπομείνας εἰς τέλος οὗτος σωθήσεται", "thai": "แต่ผู้ที่อดทนจนถึงที่สุด ผู้นั้นจะรอด", "rationale": "ὑπομένω (aor.-ptc.) 'endure / bear-up-under / persevere.' Glossary entry: ὑπομένω → อดทน (established here). εἰς τέλος 'to the end' — three readings per uW TN figs-explicit: (a) end-of-the-persecution-episode; (b) one's-death; (c) Jesus's-return. Thai จนถึงที่สุด ('until-the-end') preserves ambiguity. οὗτος resumptive 'this-one' (per uW TN figs-explicitinfo) — Thai ผู้นั้น maintains the topic-resumption. σωθήσεται pass.-fut. 'will-be-saved' → จะรอด (standard Thai Christian; glossary entry for σῴζω → รอด established here — divine-passive implicit: 'God will save him')." }
+      ],
+      "notes": "MARKAN FORMULA ὑπομένω εἰς τέλος — cf. 13:13 ≈ Matt 10:22 ≈ Matt 24:13. Central disciple-exhortation. The three readings of εἰς τέλος are theologically complementary rather than competing: persecution-endurance → faithfulness-unto-death → welcome-at-parousia. Thai preserves the layered scope. σωθήσεται: the eschatological-sense of salvation here — deliverance into the Kingdom of God, not merely rescue-from-immediate-persecution. HISTORIC PRESENT REMINDER: per uW chapter intro, v.13 is flagged as a historic-present location in Mark, but Mark 13:13 itself has futures/periphrastics (μισούμενοι, σωθήσεται) — the relevant historic present is in context of Mark's characteristic narrative style; no verbal adjustment needed in v.13."
+    }
+  },
+  {
+    "reference": "Mark 13:14",
+    "chapter": 13,
+    "verse": 14,
+    "greek": "Ὅταν δὲ ἴδητε τὸ βδέλυγμα τῆς ἐρημώσεως ἑστηκότα ὅπου οὐ δεῖ,ὁ ἀναγινώσκων νοείτω,τότε οἱ ἐν τῇ Ἰουδαίᾳ φευγέτωσαν εἰς τὰ ὄρη,",
+    "bsb_english": "So when you see the abomination of desolation standing where it should not be (let the reader understand), then let those who are in Judea flee to the mountains.",
+    "translation": {
+      "thai": "เมื่อพวกท่านเห็น ‹สิ่งน่าสะอิดสะเอียนที่ทำให้เกิดความรกร้าง› ยืนอยู่ในที่ที่ไม่ควรจะอยู่ (ขอผู้อ่านจงเข้าใจเถิด) เวลานั้นผู้ที่อยู่ในแคว้นยูเดียจงหนีไปยังภูเขาทั้งหลาย",
+      "thai_literal": null,
+      "thai_summary": "วลี 'สิ่งน่าสะอิดสะเอียนที่ทำให้เกิดความรกร้าง' มาจากดาเนียล 9:27, 11:31 และ 12:11 เดิมพยากรณ์ถึงแอนทิโอคัส เอปิฟาเนส ที่ตั้งรูปเคารพของซุสในพระวิหารเมื่อปี 167 ก่อน ค.ศ. พระเยซูทรงนำคำพยากรณ์นี้มาใช้ใหม่ในยุคของพระองค์ ประวัติศาสตร์เล่าว่าคริสตจักรในเยรูซาเล็มหนีไปยังเมืองเปลลาก่อนการล้อมเยรูซาเล็มของโรมันใน ค.ศ. 66-70",
+      "key_decisions": [
+        { "greek": "τὸ βδέλυγμα τῆς ἐρημώσεως", "thai": "‹สิ่งน่าสะอิดสะเอียนที่ทำให้เกิดความรกร้าง›", "rationale": "FIXED OT-PHRASE from Daniel (Dan 9:27, 11:31, 12:11 LXX τὸ βδέλυγμα τῆς ἐρημώσεως). βδέλυγμα 'detestable-thing / abomination' (cultic-revulsion, used in LXX for idols). ἐρήμωσις 'desolation / devastation.' Possessive-genitive (per uW TN figs-possession) = 'abomination that causes desolation.' Thai สิ่งน่าสะอิดสะเอียน ('thing detestable') + ที่ทำให้เกิดความรกร้าง ('that-causes desolation') preserves both halves of the phrase. Guillemets ‹ › mark this as a set OT-phrase being cited/alluded (Mark's narrator frames it as recognizably Danielic — 'let the reader understand'). Glossary entries established: βδέλυγμα → สิ่งน่าสะอิดสะเอียน; ἐρήμωσις → ความรกร้าง." },
+        { "greek": "ἑστηκότα ὅπου οὐ δεῖ", "thai": "ยืนอยู่ในที่ที่ไม่ควรจะอยู่", "rationale": "ἑστηκότα perf.-ptc. masc.-acc. (GRAMMATICAL NOTE: masculine while τὸ βδέλυγμα is neuter — a constructio-ad-sensum per uW TN writing-pronouns, signaling that the abomination is/is-identified-with a person/man, not an inanimate idol). Thai ยืนอยู่ ('stands-remains') preserves the ongoing state. ὅπου οὐ δεῖ 'where it/he should not' (per uW TN figs-explicit = the temple, implicit — Jesus's original audience would know). Thai ในที่ที่ไม่ควรจะอยู่ ('in-the-place-where-should-not-be') leaves the reference implicit (matching Mark's deliberate discretion)." },
+        { "greek": "ὁ ἀναγινώσκων νοείτω", "thai": "(ขอผู้อ่านจงเข้าใจเถิด)", "rationale": "3sg imperative νοέω 'let-understand.' Per uW TN figs-explicit, two readings: (a) Mark's editorial aside to his reading audience ('you, the reader of this Gospel, understand the reference'); (b) Jesus's command to anyone who reads Daniel ('the-one-reading-Daniel should understand'). Our Thai ขอผู้อ่านจงเข้าใจเถิด + parentheses preserves both readings — the parenthetical-presentation matches the aside-feel of option (a) while leaving the content available for option (b). The parenthetical signaling is a Markan narrator-move (not mirrored in Luke 21:20 where Mark's gloss disappears)." },
+        { "greek": "οἱ ἐν τῇ Ἰουδαίᾳ φευγέτωσαν εἰς τὰ ὄρη", "thai": "ผู้ที่อยู่ในแคว้นยูเดียจงหนีไปยังภูเขาทั้งหลาย", "rationale": "Ἰουδαία → แคว้นยูเดีย (glossary-established from Mark 10). φεύγω 3pl-imperative (per uW TN figs-imperative3p) 'let-them-flee.' Thai จงหนี ('imperatively-flee'). ὄρη pl. 'mountains' → ภูเขาทั้งหลาย (preserves plural — Judean hill-country as refuge). Per uW TN figs-explicit, mountains = safer-than-Judean-plains. HISTORICAL FULFILLMENT: Eusebius (HE 3.5.3) and Epiphanius record the Jerusalem church's flight to Pella (in Perea, east of the Jordan) before/during the Roman siege of 66–70 CE, specifically citing this prophecy as their guide." }
+      ],
+      "notes": "THE KEY VERSE of Mark 13's temple-destruction prophecy. βδέλυγμα τῆς ἐρημώσεως from Daniel: (1) Dan 9:27 LXX ('βδέλυγμα τῶν ἐρημώσεων'); (2) Dan 11:31 LXX ('βδέλυγμα ἠφανισμένων'); (3) Dan 12:11 LXX ('βδέλυγμα ἐρημώσεως' — exact match). Original referent: Antiochus IV Epiphanes's desecration of the Jerusalem temple 167 BCE — he erected an altar to Zeus Olympios on the altar of burnt offering and sacrificed swine (1 Macc 1:54–59; 2 Macc 6:2; Josephus Ant. 12.5.4). Mark's Jesus re-applies the Danielic pattern to a future event. CANDIDATES for the Markan fulfillment: (a) Caligula's 40 CE attempt to erect his statue in the temple (stopped by his assassination); (b) the Zealot takeover of the temple 67 CE and installation of their own high priest (Phanni ben Samuel) — an internal-abomination; (c) Titus's standards in the temple courts 70 CE. The masculine-participle ἑστηκότα favors a personal referent, consistent with (a) Caligula or (c) a Roman-commander/statue. Mark's audience, if post-70, would read it via (c). CHRISTIAN HISTORICAL RESPONSE: the Jerusalem church's pre-siege flight to Pella (Eusebius HE 3.5.3) preserved the Jewish-Christian community. Added Dan 9:27, 11:31, 12:11 to nt_ot_citations.json."
+    }
+  },
+  {
+    "reference": "Mark 13:15",
+    "chapter": 13,
+    "verse": 15,
+    "greek": "ὁ ἐπὶ τοῦ δώματος μὴ καταβάτω μηδὲ εἰσελθάτω τι ἆραι ἐκ τῆς οἰκίας αὐτοῦ,",
+    "bsb_english": "Let no one on the housetop go back inside to retrieve anything from his house.",
+    "translation": {
+      "thai": "ผู้ที่อยู่บนดาดฟ้าอย่าลงมาและอย่าเข้าไปในบ้านเพื่อเอาสิ่งใดออกมา",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "ὁ ἐπὶ τοῦ δώματος", "thai": "ผู้ที่อยู่บนดาดฟ้า", "rationale": "δῶμα → ดาดฟ้า ('flat-roof / rooftop-terrace'). Palestinian houses had flat roofs used as living space (per uW TN figs-explicit — eating, sleeping, social activity). Glossary entry established. Generic-article ὁ here applies to anyone-in-this-situation (per uW TN figs-genericnoun) — Thai ผู้ที่ ('the-one-who') preserves the generic force." },
+        { "greek": "μὴ καταβάτω μηδὲ εἰσελθάτω τι ἆραι ἐκ τῆς οἰκίας αὐτοῦ", "thai": "อย่าลงมาและอย่าเข้าไปในบ้านเพื่อเอาสิ่งใดออกมา", "rationale": "3sg aor.-imperatives (per uW TN figs-imperative3p) καταβαίνω 'go-down' + εἰσέρχομαι 'go-in.' Per uW TN figs-hendiadys the two-verbs function as one-idea ('do not go-down-in-order-to-go-in'); our Thai ลงมา...เข้าไป preserves both verbs in their sequence (hendiadys detectable but not collapsed). ἆραι infin. of purpose 'to take/grab.' Thai เพื่อเอา preserves the purpose-clause. The implicit-geography: the flat-roof external-staircase at the rear of the house was the escape-route; going down + entering the interior would mean backtracking and losing escape-time (per uW TN figs-explicit)." }
+      ],
+      "notes": "URGENCY OF THE FLIGHT: abandon all property, escape immediately. The domestic-architecture detail (external-stairs-to-flat-roof) authenticates the saying's Palestinian origin — not something an author in Rome or Syria would invent. Jesus's instructions presume specific local geography."
+    }
+  },
+  {
+    "reference": "Mark 13:16",
+    "chapter": 13,
+    "verse": 16,
+    "greek": "καὶ ὁ εἰς τὸν ἀγρὸν μὴ ἐπιστρεψάτω εἰς τὰ ὀπίσω ἆραι τὸ ἱμάτιον αὐτοῦ.",
+    "bsb_english": "And let no one in the field return for his cloak.",
+    "translation": {
+      "thai": "และผู้ที่อยู่ในที่นาก็อย่ากลับไปเอาเสื้อคลุมของเขา",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "ὁ εἰς τὸν ἀγρόν", "thai": "ผู้ที่อยู่ในที่นา", "rationale": "εἰς τὸν ἀγρόν unusual — εἰς expected-ἐν (Koine εἰς/ἐν confusion) = 'in the field' or 'who-has-gone-into-the-field.' ἀγρός → ที่นา (farmland; glossary-established). Per uW TN figs-explicit, 1st-century Palestinian villagers walked daily from the village to their field plot; they typically left their outer-garment (ἱμάτιον) at home or at the edge of the field. Thai ผู้ที่อยู่ในที่นา preserves the work-day-in-the-field scenario." },
+        { "greek": "μὴ ἐπιστρεψάτω εἰς τὰ ὀπίσω ἆραι τὸ ἱμάτιον αὐτοῦ", "thai": "อย่ากลับไปเอาเสื้อคลุมของเขา", "rationale": "3sg aor.-imperative ἐπιστρέφω (per uW TN figs-imperative3p). εἰς τὰ ὀπίσω 'back / backward.' Thai กลับ (already = 'return / go-back') so εἰς τὰ ὀπίσω is absorbed naturally, no need for redundant ข้างหลัง. ἱμάτιον → เสื้อคลุม (glossary-established). Per uW TN translate-unknown, can use general 'outer-garment' term; Thai เสื้อคลุม is the established rendering." }
+      ],
+      "notes": "PAIR WITH v.15: rooftop + field cases cover the two most-common 1st-century Palestinian domestic scenarios. Together they emphasize complete-abandonment-of-possessions. The ἱμάτιον is not a trivial possession: it was the essential outer-garment, serving as blanket-at-night (Exod 22:26–27; Deut 24:13 — pledge-law protecting the poor). Sacrificing even this = genuine urgency."
+    }
+  },
+  {
+    "reference": "Mark 13:17",
+    "chapter": 13,
+    "verse": 17,
+    "greek": "οὐαὶ δὲ ταῖς ἐν γαστρὶ ἐχούσαις καὶ ταῖς θηλαζούσαις ἐν ἐκείναις ταῖς ἡμέραις.",
+    "bsb_english": "How miserable those days will be for pregnant and nursing mothers!",
+    "translation": {
+      "thai": "ในวันเหล่านั้น น่าเศร้าใจยิ่งนักสำหรับหญิงที่มีครรภ์และแม่ที่ให้นมลูก",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "οὐαί", "thai": "น่าเศร้าใจยิ่งนัก", "rationale": "οὐαί is properly lament-interjection, not curse. Per uW TN it functions here as compassionate-lament for the extreme-hardship of fleeing-while-pregnant or fleeing-while-nursing. Thai น่าเศร้าใจยิ่งนัก ('how-sad-one-pities') captures the lament-register; avoiding 'วิบัติ' ('doom/curse') which would mistranslate οὐαί as imprecation. Cf. Luke 6:24–26 where οὐαί is denunciative but here it is sympathetic." },
+        { "greek": "ταῖς ἐν γαστρὶ ἐχούσαις", "thai": "หญิงที่มีครรภ์", "rationale": "ἐν γαστρὶ ἐχούσαις idiom 'having in-the-belly = pregnant' (per uW TN figs-idiom). LXX Isa 7:14 ἡ παρθένος ἐν γαστρὶ ἕξει uses the same idiom. Thai หญิงที่มีครรภ์ ('woman-who-has-womb') standard idiomatic Thai for 'pregnant woman.'" },
+        { "greek": "ταῖς θηλαζούσαις", "thai": "แม่ที่ให้นมลูก", "rationale": "θηλάζω (act.) 'give-suck' (mother to infant), not 'suckle' (infant from mother) — per uW TN figs-explicit. Thai แม่ที่ให้นมลูก ('mother who-gives-milk-to-child') explicit to avoid mis-reference to nursing-babies-themselves. Fleeing with an infant attached by nursing is physically devastating — the sympathetic cast of οὐαί applies directly." },
+        { "greek": "ἐν ἐκείναις ταῖς ἡμέραις", "thai": "ในวันเหล่านั้น", "rationale": "ἐν ἐκείναις ταῖς ἡμέραις idiom (per uW TN figs-idiom = during-that-time-period). Thai ในวันเหล่านั้น ('in-those-days') preserves temporal-pointing. Recurring Markan phrase in Mark 13 (vv.17, 19, 20, 24) — narrative-marker for the tribulation-period." }
+      ],
+      "notes": "HUMANITARIAN-REALISM: Jesus's discourse pauses to acknowledge the most-vulnerable — pregnant and nursing women. Not just cosmic theology but lived-compassion. The pastoral-voice of Jesus here preserves his human tenderness even as he pronounces tribulation-prophecies. Luke retains this verse almost verbatim (Luke 21:23)."
+    }
+  },
+  {
+    "reference": "Mark 13:18",
+    "chapter": 13,
+    "verse": 18,
+    "greek": "προσεύχεσθε δὲ ἵνα μὴ γένηται χειμῶνος·",
+    "bsb_english": "Pray that this will not occur in the winter.",
+    "translation": {
+      "thai": "จงอธิษฐานขอให้เหตุการณ์นี้ไม่เกิดในฤดูหนาว",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "προσεύχεσθε", "thai": "จงอธิษฐาน", "rationale": "προσεύχομαι → อธิษฐาน (glossary pattern from 11:24). Present-imperative 2pl — ongoing prayer-discipline, not single-petition." },
+        { "greek": "ἵνα μὴ γένηται χειμῶνος", "thai": "ขอให้เหตุการณ์นี้ไม่เกิดในฤดูหนาว", "rationale": "ἵνα μή purpose-clause 'so-that-not.' Thai ขอให้...ไม่เกิด ('request-that not-happen') natural prayer-petition-form. χειμών genitive-of-time 'in winter.' Per uW TN translate-unknown, χειμών in Judean climate = rainy-cold season (Nov–Mar) with flash-flooded wadis making travel dangerous; not primarily 'cold' like Northern Europe. Thai ฤดูหนาว standard equivalent; Thai readers will understand the cold-season unfavorable-for-travel sense. Alternative: ฤดูฝน ('rainy season') might be more geographically-accurate but breaks Thai liturgical convention. ฤดูหนาว preserves the canonical Thai rendering. Glossary entry established: χειμών → ฤดูหนาว." }
+      ],
+      "notes": "JUDEAN CLIMATE: winter in Judea = Nov–March rainy period. Wadis (dry-riverbeds) flash-flood; roads muddy; travel slow and dangerous. The pastoral concern chains: v.17 (vulnerable-women) → v.18 (vulnerable-season). Jesus encourages the disciples not just to endure but to petition God regarding the timing of the tribulation. Implied theology: even prophesied-events are subject to prayer-modulation; divine sovereignty is not mechanistic."
+    }
+  },
+  {
+    "reference": "Mark 13:19",
+    "chapter": 13,
+    "verse": 19,
+    "greek": "ἔσονται γὰρ αἱ ἡμέραι ἐκεῖναι θλῖψις οἵα οὐ γέγονεν τοιαύτη ἀπ’ἀρχῆς κτίσεως ἣν ἔκτισεν ὁ θεὸς ἕως τοῦ νῦν καὶ οὐ μὴ γένηται.",
+    "bsb_english": "For those will be days of tribulation unseen from the beginning of God's creation until now, and never to be seen again.",
+    "translation": {
+      "thai": "เพราะในวันเหล่านั้นจะเกิดความทุกข์ลำบากอย่างที่ไม่เคยมีเช่นนี้ตั้งแต่เริ่มการทรงสร้างที่พระเจ้าทรงสร้างมาจนถึงบัดนี้ และจะไม่มีอีกเลย",
+      "thai_literal": null,
+      "thai_summary": "คำพยากรณ์นี้สะท้อนดาเนียล 12:1 โดยตรง 'จะเกิดความทุกข์ลำบากอย่างที่ไม่เคยมีตั้งแต่ชนชาติเริ่มมีจนถึงเวลานั้น' ในดาเนียล ความทุกข์นี้อยู่ก่อนการช่วยให้รอดของประชากรของพระเจ้าและการเป็นขึ้นจากตาย พระเยซูทรงใช้วลีเดียวกันเพื่อชี้ว่าเหตุการณ์เหล่านี้เป็นความทุกข์ขั้นสุดยอดในประวัติศาสตร์",
+      "key_decisions": [
+        { "greek": "ἔσονται...αἱ ἡμέραι ἐκεῖναι θλῖψις", "thai": "ในวันเหล่านั้นจะเกิดความทุกข์ลำบาก", "rationale": "θλῖψις → ความทุกข์ลำบาก (glossary pattern from 4:17 — 'ความทุกข์ยาก'; here established as ความทุกข์ลำบาก for the heavier eschatological-tribulation sense). Per uW TN figs-abstractnouns, can verbalize ('people will be greatly hurt') — Thai retains noun-abstract as ความทุกข์ลำบาก which is natural. Predicative: 'those days [will be] tribulation' — Thai unpacks with จะเกิด ('will happen')." },
+        { "greek": "οἵα οὐ γέγονεν τοιαύτη ἀπ’ ἀρχῆς κτίσεως ἣν ἔκτισεν ὁ θεὸς ἕως τοῦ νῦν", "thai": "อย่างที่ไม่เคยมีเช่นนี้ตั้งแต่เริ่มการทรงสร้างที่พระเจ้าทรงสร้างมาจนถึงบัดนี้", "rationale": "οἵα...τοιαύτη correlative 'such-as...like-this.' Perf. γέγονεν 'has-happened.' κτίσις → การทรงสร้าง (royal-register ทรง- for divine act; glossary — from 10:6 ἀπὸ δὲ ἀρχῆς κτίσεως). ἣν ἔκτισεν ὁ θεὸς redundant per uW TN figs-explicitinfo ('creation which God created') but theologically non-redundant: it emphasizes God as the only Creator. Our Thai preserves it ตั้งแต่เริ่มการทรงสร้างที่พระเจ้าทรงสร้างมา ('since the beginning of-the-creation which God created') to retain the strong-creator-emphasis. Direct lexical-echo of Dan 12:1 LXX." },
+        { "greek": "καὶ οὐ μὴ γένηται", "thai": "และจะไม่มีอีกเลย", "rationale": "Double-negative οὐ μή 'certainly-not' (per uW TN figs-doublenegatives). Per uW TN figs-explicit = 'never-again-will-happen-after-this.' Thai จะไม่มีอีกเลย ('will-not-have-again-at-all') preserves the strong finality." }
+      ],
+      "notes": "OT CITATION (quasi-verbatim): Mark 13:19 lexically tracks Dan 12:1 LXX ('καὶ ἔσται καιρὸς θλίψεως, θλῖψις οἵα οὐ γέγονεν ἀφ’ οὗ γεγένηται ἔθνος ἐπὶ τῆς γῆς ἕως τοῦ καιροῦ ἐκείνου'). Mark's phrasing substitutes ἀπ’ ἀρχῆς κτίσεως for Daniel's ἀφ’ οὗ γεγένηται ἔθνος — broadening from 'since-a-nation-has-existed' to 'since-creation itself,' which is cosmically larger. Daniel's 12:1 context is the resurrection-announcement; Mark's borrowing of its language thus implicitly links the coming tribulation to eschatological-resurrection-deliverance. Added to nt_ot_citations.json. 'TRIBULATION' AS TECHNICAL TERM: θλῖψις is the standard LXX-apocalyptic term for eschatological-distress (Dan 12:1, Zeph 1:15 'ἡμέρα θλίψεως'); Paul picks it up (Rom 2:9; 2 Cor 1:4; 1 Thess 3:3). Mark places Jesus inside this established apocalyptic-vocabulary."
+    }
+  },
+  {
+    "reference": "Mark 13:20",
+    "chapter": 13,
+    "verse": 20,
+    "greek": "καὶ εἰ μὴ ἐκολόβωσεν κύριος τὰς ἡμέρας,οὐκ ἂν ἐσώθη πᾶσα σάρξ.ἀλλὰ διὰ τοὺς ἐκλεκτοὺς οὓς ἐξελέξατο ἐκολόβωσεν τὰς ἡμέρας.",
+    "bsb_english": "If the Lord had not cut short those days, nobody would be saved. But for the sake of the elect, whom He has chosen, He has cut them short.",
+    "translation": {
+      "thai": "หากองค์พระผู้เป็นเจ้ามิได้ทรงย่นวันเหล่านั้นให้สั้นลง มนุษย์คนใดก็จะไม่รอด แต่เพราะเห็นแก่ผู้ที่ทรงเลือก ซึ่งพระองค์ทรงเลือกสรรไว้แล้ว พระองค์จึงทรงย่นวันเหล่านั้นให้สั้นลง",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "εἰ μὴ ἐκολόβωσεν κύριος τὰς ἡμέρας", "thai": "หากองค์พระผู้เป็นเจ้ามิได้ทรงย่นวันเหล่านั้นให้สั้นลง", "rationale": "Per uW TN grammar-connect-condition-contrary: contrary-to-fact conditional (speaker-convinced-condition-is-not-true; God actually DID shorten). Thai หาก...มิได้ ('if...had-not') uses the Thai conditional-past-contrary. Per uW TN translate-tense, Greek aorist ἐκολόβωσεν refers to God's already-made decision about the future — English/Thai normally use past-of-the-future ('had-not-shortened'). κολοβόω 'cut-short / truncate / curtail.' Thai ย่น...ให้สั้นลง ('shrink...to-shorter') natural idiom. ANARTHROUS κύριος (no article) = YHWH-referent (LXX-style divine-agent naming). Per RULES.md §4: κύριος-as-YHWH → องค์พระผู้เป็นเจ้า (glossary-non-negotiable). ราชาศัพท์ ทรง on the verbs. τὰς ἡμέρας = 'the days' (def. article referring to the tribulation-days just described — per uW TN figs-idiom)." },
+        { "greek": "οὐκ ἂν ἐσώθη πᾶσα σάρξ", "thai": "มนุษย์คนใดก็จะไม่รอด", "rationale": "Apodosis of contrary-to-fact. σάρξ (per uW TN figs-metonymy) represents 'humans / all flesh.' Semitism πᾶσα σάρξ + οὐ = 'no flesh' (LXX-style). Thai มนุษย์คนใด...ก็จะไม่ ('any human...also would-not') preserves the negative-universal. σωθήσεται/ἐσώθη → รอด (glossary-consistency from v.13). Per uW TN figs-activepassive, can be rendered active 'would-remain,' but passive preserves the divine-rescue sense." },
+        { "greek": "διὰ τοὺς ἐκλεκτοὺς οὓς ἐξελέξατο", "thai": "เพราะเห็นแก่ผู้ที่ทรงเลือก ซึ่งพระองค์ทรงเลือกสรรไว้แล้ว", "rationale": "Per uW TN figs-explicitinfo: 'the elect whom he chose' is redundant in some languages but theologically-emphatic (double-emphasis on divine-election). Thai ผู้ที่ทรงเลือก + ซึ่งพระองค์ทรงเลือกสรรไว้แล้ว preserves the double-lexical-emphasis (ทรงเลือก + ทรงเลือกสรร differentiated as 'the-chosen' vs 'the-selected-out'). ἐκλεκτός (per uW TN figs-nominaladj) substantival-adj = 'elect ones.' Glossary entry: ἐκλεκτός → ผู้ที่ทรงเลือก (established here). First Markan use of election-language; anticipates Paul's usage (Rom 8:33, Col 3:12). ราชาศัพท์ ทรง- for divine act. διά + acc. = 'on account of / for the sake of' — Thai เพราะเห็นแก่ captures the consideration-for-the-sake-of force." },
+        { "greek": "ἐκολόβωσεν τὰς ἡμέρας", "thai": "พระองค์จึงทรงย่นวันเหล่านั้นให้สั้นลง", "rationale": "Repetition of κολοβόω — Thai ทรงย่น...ให้สั้นลง parallel to opening. The repetition emphasizes the divine-sovereignty-for-the-elect theme. Thai จึง ('therefore / consequently') introduces the logical-conclusion of the sake-of-the-elect reasoning." }
+      ],
+      "notes": "ELECTION THEOLOGY: First explicit Markan use of ἐκλεκτός — reappears vv.22, 27 (Mark 13 is the keystone chapter for Markan election-language). Jesus attributes the shortening of tribulation-days to God's concern for the elect — locating election at the practical-historical level (persecution-survival), not merely soteriological-abstract. ANARTHROUS κύριος = YHWH: Mark follows LXX-convention where anarthrous κύριος represents יהוה without the Greek article. This is distinct from Jesus-as-κύριος usage (where context or article disambiguates). Compare Mark 12:29–30 where κύριος ὁ θεὸς quotes Deut 6:4 LXX. TEMPORAL SHORTENING: a common apocalyptic-theme — cf. 4 Ezra 4:26 ('The-age hastens-to-its-end'); 2 Baruch 20:1–2 ('The-Most-High will-hasten his-times'). Mark's Jesus assumes this standard apocalyptic-framework."
+    }
+  },
+  {
+    "reference": "Mark 13:21",
+    "chapter": 13,
+    "verse": 21,
+    "greek": "καὶ τότε ἐάν τις ὑμῖν εἴπῃ·Ἴδε ὧδε ὁ χριστός,Ἴδε ἐκεῖ,μὴ πιστεύετε·",
+    "bsb_english": "At that time if anyone says to you, 'Look, here is the Christ!' or 'There He is!' do not believe it.",
+    "translation": {
+      "thai": "ในเวลานั้น หากใครกล่าวแก่พวกท่านว่า 'ดูสิ พระคริสต์อยู่ที่นี่' หรือ 'ดูสิ อยู่ที่นั่น' ก็อย่าเชื่อ",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "ἐάν τις ὑμῖν εἴπῃ", "thai": "หากใครกล่าวแก่พวกท่านว่า", "rationale": "ἐάν + aor.-subj. conditional. Per uW TN grammar-connect-condition-fact, Jesus speaks as hypothetical but means it will happen. Thai หาก preserves the conditional; the 'will-happen' certainty is built into the surrounding verses (v.22 explicitly 'false-Christs WILL arise')." },
+        { "greek": "Ἴδε ὧδε ὁ χριστός, Ἴδε ἐκεῖ", "thai": "'ดูสิ พระคริสต์อยู่ที่นี่' หรือ 'ดูสิ อยู่ที่นั่น'", "rationale": "ἴδε attention-exclamation (per uW TN figs-exclamations) → ดูสิ (same as 13:1). χριστός → พระคริสต์ (RULES.md §4 non-negotiable title-not-name). Per uW TN figs-explicit, the two 'here'/'there' statements are two-alternative-examples (not same-person), so Thai uses หรือ ('or') between them. Per uW TN figs-ellipsis, the second clause 'Look there' elides 'is the Christ' — Thai supplies it by implicit-understanding (อยู่ที่นั่น = 'is-at-there' with 'Christ' implicit from previous clause)." },
+        { "greek": "μὴ πιστεύετε", "thai": "ก็อย่าเชื่อ", "rationale": "Present-imperative 2pl 'stop-believing / do-not-believe.' Thai อย่าเชื่อ (standard prohibitive)." }
+      ],
+      "notes": "LOCATION-BASED MESSIANIC CLAIMS: Mark's Jesus warns specifically against place-anchored-messianic-announcements ('here!/there!'). This echoes 1st-century messianic-pretender patterns (Theudas at the Jordan, Acts 5:36; the Egyptian at the Mount of Olives, Acts 21:38; the Samaritan on Mt. Gerizim, Josephus Ant. 18.85ff). The Parousia, Jesus implies, will not be a localized-regional-event but cosmic-visible (v.26)."
+    }
+  },
+  {
+    "reference": "Mark 13:22",
+    "chapter": 13,
+    "verse": 22,
+    "greek": "ἐγερθήσονται γὰρ ψευδόχριστοι καὶ ψευδοπροφῆται καὶ δώσουσιν σημεῖα καὶ τέρατα πρὸς τὸ ἀποπλανᾶν εἰ δυνατὸν τοὺς ἐκλεκτούς·",
+    "bsb_english": "For false Christs and false prophets will appear and perform signs and wonders to deceive even the elect, if that were possible.",
+    "translation": {
+      "thai": "เพราะพระคริสต์เทียมและผู้พยากรณ์เทียมจะปรากฏขึ้น และจะแสดงหมายสำคัญและการอัศจรรย์ เพื่อจะชักจูงแม้ผู้ที่ทรงเลือกให้หลงไป หากเป็นไปได้",
+      "thai_literal": null,
+      "thai_summary": "คำเตือนนี้สะท้อนเฉลยธรรมบัญญัติ 13:1-3 ซึ่งผู้พยากรณ์เทียมสามารถทำหมายสำคัญและการอัศจรรย์ได้ แต่หากคำสอนของเขาชวนให้หันจากพระเจ้า ห้ามฟัง ในยามสิ้นสุด ความอัศจรรย์ไม่ใช่เครื่องพิสูจน์ความจริงอย่างเพียงพอ",
+      "key_decisions": [
+        { "greek": "ἐγερθήσονται γάρ ψευδόχριστοι καὶ ψευδοπροφῆται", "thai": "พระคริสต์เทียมและผู้พยากรณ์เทียมจะปรากฏขึ้น", "rationale": "ψευδόχριστος = compound 'false-Christ' — NT-rare (only here + Matt 24:24); Thai พระคริสต์เทียม ('false-Christ' — preserving title) — note retention of พระ-prefix because the impostor is claiming the divine-title. Glossary entry established. ψευδοπροφήτης → ผู้พยากรณ์เทียม ('false-prophet') — glossary-established here. ἐγερθήσονται pass. 'will be raised up' (per uW TN figs-idiom = 'will appear / begin to lead' publicly). Thai ปรากฏขึ้น ('appear-arise') preserves both the emergence and the public-presentation." },
+        { "greek": "δώσουσιν σημεῖα καὶ τέρατα", "thai": "จะแสดงหมายสำคัญและการอัศจรรย์", "rationale": "σημεῖον + τέρας = fixed OT-phrase 'signs-and-wonders' (Heb. אוֹת וּמוֹפֵת; LXX σημεῖον καὶ τέρας — Deut 6:22, 7:19, 26:8, 29:3 Moses's Egyptian-plagues; Deut 13:2 false-prophets). Per uW TN figs-doublet, 'signs' + 'wonders' are near-synonyms used-together for emphasis. Thai หมายสำคัญ (glossary σημεῖον) + การอัศจรรย์ ('miraculous-act') preserves the doublet distinct-but-paired. δίδωμι with miracles = 'perform / produce' (idiomatic for making-signs-appear). Thai แสดง ('display / perform') captures the demonstration-aspect better than ให้ ('give'), since signs are publicly-visible-phenomena." },
+        { "greek": "πρὸς τὸ ἀποπλανᾶν εἰ δυνατὸν τοὺς ἐκλεκτούς", "thai": "เพื่อจะชักจูงแม้ผู้ที่ทรงเลือกให้หลงไป หากเป็นไปได้", "rationale": "πρός + artic.-infin. purpose-clause. ἀποπλανάω compound-intensifier of πλανάω ('lead-wholly-astray'); Thai ชักจูง...ให้หลงไป ('lead-pull...to-go-astray') preserves the strong compound force (more emphatic than simple นำหลง of v.5). εἰ δυνατόν 'if possible.' Per uW TN figs-explicit two readings: (a) not-actually-possible-to-deceive-the-elect (='were-it-possible'); (b) they-will-try-every-means. Thai หากเป็นไปได้ preserves ambiguity. ἐκλεκτός consistency with v.20 rendering." }
+      ],
+      "notes": "OT INTERTEXT: Direct thematic-echo of Deut 13:2–6 LXX ('If-there-arises among-you a-prophet ... and he-gives you σημεῖον ἢ τέρας ... do-not-listen to-his-words'). The σημεῖα καὶ τέρατα capacity of false-prophets is already pre-established in Torah; Jesus tells the disciples that the criterion for truth is NOT miraculous-capacity (signs-and-wonders are available to impostors) but fidelity-to-the-revealed-Christ. Added Deut 13:2 to nt_ot_citations.json. DEUT 13 AS MARKAN SUBTEXT: the Deuteronomic principle ('test-prophets-by-their-doctrinal-fidelity-not-their-miracles') is operative throughout Mark 13. Jesus's 'I-have-told-you-all-this-beforehand' (v.23) is the Deut-13 test-principle-applied: the genuine-Christ IS Jesus, and the disciples already have Jesus's teaching as criterion. PRESERVING ELECTION THEOLOGY: 'if-possible...the-elect' subtly reassures — the implication is that the elect ARE preserved precisely BECAUSE the signs-and-wonders are insufficient to fully deceive them. This anticipates Paul's assurance in Rom 8:33 ('who-shall-bring-charge-against God's-elect?')."
+    }
+  },
+  {
+    "reference": "Mark 13:23",
+    "chapter": 13,
+    "verse": 23,
+    "greek": "ὑμεῖς δὲ βλέπετε·προείρηκα ὑμῖν πάντα.",
+    "bsb_english": "So be on your guard; I have told you everything in advance.",
+    "translation": {
+      "thai": "แต่พวกท่านจงระวังให้ดี เราได้บอกพวกท่านทุกอย่างไว้ล่วงหน้าแล้ว",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "ὑμεῖς δὲ βλέπετε", "thai": "แต่พวกท่านจงระวังให้ดี", "rationale": "Emphatic ὑμεῖς 'you yourselves' (per uW TN grammar-connect-words-phrases — new-topic contrast). Per uW TN figs-metaphor, βλέπετε here = 'be-prepared / pay-attention' (pattern from v.5, v.9). Thai จงระวังให้ดี ('imperatively-guard-yourselves-well') preserves the vigilant-tone." },
+        { "greek": "προείρηκα ὑμῖν πάντα", "thai": "เราได้บอกพวกท่านทุกอย่างไว้ล่วงหน้าแล้ว", "rationale": "προ + λέγω perf. 'I-have-foretold.' Perfect-tense emphasizes durative-result: the teaching is spoken, it stands as a given. Thai ได้บอก...ไว้ล่วงหน้าแล้ว ('have-told...kept-in-advance-already') captures the perfect-of-prior-fixed-speech. Meets the Deut-13-fidelity-test criterion: if the disciples know Jesus's word in advance, they have the standard by which to evaluate later claimants." }
+      ],
+      "notes": "DEUT 13 PRINCIPLE APPLIED: Jesus invokes the Deuteronomic test of the-word-spoken-beforehand. A true-prophet's reliability is measured by pre-fulfillment-declaration (Deut 18:22). Jesus's advance-warning creates an objective standard against which later-claimants' signs-and-wonders must measure — they cannot override what Jesus already said. TRANSITION VERSE: v.23 closes the tribulation-section (vv.5–23) and sets up the cosmic-Son-of-Man section (vv.24–27). The structural pivot is 'I-have-told-you-beforehand' — after which Jesus moves from proximate warnings to ultimate horizon."
+    }
+  },
+  {
+    "reference": "Mark 13:24",
+    "chapter": 13,
+    "verse": 24,
+    "greek": "Ἀλλὰ ἐν ἐκείναις ταῖς ἡμέραις μετὰ τὴν θλῖψιν ἐκείνην ὁ ἥλιος σκοτισθήσεται,καὶ ἡ σελήνη οὐ δώσει τὸ φέγγος αὐτῆς,",
+    "bsb_english": "But in those days, after that tribulation: 'The sun will be darkened, and the moon will not give its light;",
+    "translation": {
+      "thai": "แต่ในวันเหล่านั้น หลังจากความทุกข์ลำบากนั้นแล้ว ‹ดวงอาทิตย์จะมืดลง และดวงจันทร์จะไม่ฉายแสงของมัน",
+      "thai_literal": null,
+      "thai_summary": "ภาพดวงอาทิตย์มืดและดวงจันทร์ไม่ให้แสงเป็นภาพสัญลักษณ์จากคำพยากรณ์เกี่ยวกับ 'วันของพระยาห์เวห์' ในพระคัมภีร์เดิม (อิสยาห์ 13:10; เอเสเคียล 32:7; โยเอล 2:10, 3:15) หมายถึงการที่พระเจ้าเสด็จมาปกครองและพิพากษาทั่วโลก ไม่ใช่แค่เหตุการณ์ธรรมชาติ แต่เป็นการสำแดงฤทธานุภาพของพระองค์",
+      "key_decisions": [
+        { "greek": "Ἀλλὰ ἐν ἐκείναις ταῖς ἡμέραις μετὰ τὴν θλῖψιν ἐκείνην", "thai": "แต่ในวันเหล่านั้น หลังจากความทุกข์ลำบากนั้นแล้ว", "rationale": "Per uW TN grammar-connect-logic-contrast + grammar-connect-time-sequential: ἀλλά introduces new-phase, μετά indicates after-but-unspecified-interval. Thai แต่...หลังจาก...แล้ว preserves both the topic-shift and the post-tribulation-sequencing without implying immediacy. θλῖψις consistency with v.19." },
+        { "greek": "ὁ ἥλιος σκοτισθήσεται", "thai": "‹ดวงอาทิตย์จะมืดลง", "rationale": "σκοτίζω fut.-pass. 'be-darkened' (per uW TN figs-activepassive — divine-agent implicit). ἥλιος → ดวงอาทิตย์ (glossary). Thai มืดลง ('go-dark / become-dim'). Opens the OT-echo-pastiche citation unit with guillemet ‹ (closed at end of v.25)." },
+        { "greek": "ἡ σελήνη οὐ δώσει τὸ φέγγος αὐτῆς", "thai": "และดวงจันทร์จะไม่ฉายแสงของมัน", "rationale": "σελήνη → ดวงจันทร์ (glossary entry established here — standard Thai astronomy). Per uW TN figs-personification, the moon is spoken-of as a person-who-gives — Thai ฉายแสง ('shine-light / cast-light') is more natural than literal ให้แสง and preserves the active-personification. φέγγος 'radiance / brilliance' (specifically of moonlight, as distinct from φῶς general-light)." }
+      ],
+      "notes": "OT INTERTEXT (composite pastiche). Mark 13:24b–25 weaves: (1) Isa 13:10 LXX 'οἱ γὰρ ἀστέρες τοῦ οὐρανοῦ...τὸ φῶς οὐ δώσουσιν, καὶ σκοτισθήσεται τοῦ ἡλίου ἀνατέλλοντος, καὶ ἡ σελήνη οὐ δώσει τὸ φῶς αὐτῆς' — Mark's ἥλιος σκοτισθήσεται + σελήνη οὐ δώσει τὸ φέγγος αὐτῆς closely tracks this; (2) Isa 34:4 LXX 'πάντες οἱ ἀστέρες πεσοῦνται ... καὶ τακήσονται πᾶσαι αἱ δυνάμεις τῶν οὐρανῶν' — matches v.25 exactly in language; (3) Joel 2:10 / 3:15 LXX 'ὁ ἥλιος καὶ ἡ σελήνη συσκοτάσουσιν καὶ τὰ ἄστρα δύσουσι τὸ φέγγος αὐτῶν'; (4) Ezek 32:7. Guillemet ‹ marks the composite-citation span (opens v.24b, closes v.25). Added to nt_ot_citations.json as composite-citation with sources. 'DAY OF THE LORD' APOCALYPTIC: sun/moon/stars darkening is the recurring OT-cosmic imagery for YHWH's decisive-intervention (not necessarily literal-astrophysics; standard apocalyptic-rhetorical-register). Jesus's audience would immediately hear 'the Day of the LORD has arrived.'"
+    }
+  },
+  {
+    "reference": "Mark 13:25",
+    "chapter": 13,
+    "verse": 25,
+    "greek": "καὶ οἱ ἀστέρες ἔσονται ἐκ τοῦ οὐρανοῦ πίπτοντες,καὶ αἱ δυνάμεις αἱ ἐν τοῖς οὐρανοῖς σαλευθήσονται.",
+    "bsb_english": "the stars will fall from the sky, and the powers of the heavens will be shaken.'",
+    "translation": {
+      "thai": "ดวงดาวทั้งหลายจะร่วงจากฟ้า และฤทธิ์ทั้งหลายในฟ้าสวรรค์จะสั่นสะเทือน›",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "οἱ ἀστέρες ἔσονται ἐκ τοῦ οὐρανοῦ πίπτοντες", "thai": "ดวงดาวทั้งหลายจะร่วงจากฟ้า", "rationale": "Periphrastic-future ἔσονται + pres.-ptc. πίπτοντες = 'will-be-falling' (durative-future; stars will be in ongoing-falling-state). ἀστήρ → ดวงดาว (glossary entry established here). Thai ร่วงจากฟ้า ('fall-from-sky') preserves the OT-cosmic image. Continues the OT-citation span begun with ‹ in v.24." },
+        { "greek": "αἱ δυνάμεις αἱ ἐν τοῖς οὐρανοῖς σαλευθήσονται", "thai": "ฤทธิ์ทั้งหลายในฟ้าสวรรค์จะสั่นสะเทือน›", "rationale": "δυνάμεις pl. 'powers' — per uW TN figs-parallelism, two readings: (a) powerful-spiritual-beings/angels dwelling in the heavens; (b) heavenly-bodies (sun/moon/stars, the visible-powers). Thai ฤทธิ์ ('power / might') preserves ambiguity — can refer to either cosmic-luminaries-as-forces or spiritual-beings-in-the-heavens. δύναμις → ฤทธิ์ glossary-entry established here (distinct from ฤทธานุภาพ which is typically reserved for τὴν δύναμιν τοῦ θεοῦ divine-specific). οὐρανοῖς pl. (Semitic plurale-tantum) → ฟ้าสวรรค์. σαλεύω (pass.-fut.) 'be-shaken' (per uW TN figs-activepassive — God-agent implicit). Thai สั่นสะเทือน ('quake-tremble'). Closing guillemet › ends the composite-citation span. Direct echo of Isa 34:4 LXX and Hag 2:6 ('I will shake the heavens and the earth')." }
+      ],
+      "notes": "OT INTERTEXT continued (composite pastiche): Isa 34:4 LXX ('πάντες οἱ ἀστέρες πεσοῦνται ... καὶ τακήσονται πᾶσαι αἱ δυνάμεις τῶν οὐρανῶν'). Mark fuses δύναμις-shaking language with Isa 34:4's falling-stars. Also Hag 2:6 LXX ('σείσω τὸν οὐρανὸν καὶ τὴν γῆν') — 'heaven-and-earth-shaken' theme, cited in Heb 12:26. Guillemet › closes here. The cosmic-upheaval is theophanic-signage: creation responds-to-the-Creator's-arrival. Cf. Rev 6:12–17 which fully elaborates this Markan-pattern."
+    }
+  },
+  {
+    "reference": "Mark 13:26",
+    "chapter": 13,
+    "verse": 26,
+    "greek": "καὶ τότε ὄψονται τὸν υἱὸν τοῦ ἀνθρώπου ἐρχόμενον ἐν νεφέλαις μετὰ δυνάμεως πολλῆς καὶ δόξης·",
+    "bsb_english": "At that time they will see the Son of Man coming in the clouds with great power and glory.",
+    "translation": {
+      "thai": "ในเวลานั้นคนทั้งหลายจะเห็นบุตรมนุษย์เสด็จมาในหมู่เมฆด้วยฤทธานุภาพอันยิ่งใหญ่และพระสิริ",
+      "thai_literal": null,
+      "thai_summary": "ภาพของบุตรมนุษย์ที่เสด็จมาในหมู่เมฆสะท้อนดาเนียล 7:13-14 โดยตรง ในดาเนียล 'ผู้เหมือนบุตรมนุษย์' เสด็จมาถึงบัลลังก์ของพระเจ้าและรับอำนาจปกครองนิรันดร์ คริสเตียนตีความว่านี่คือการเสด็จกลับของพระเยซู แต่คำพยากรณ์สามารถเข้าใจได้ทั้งการเสด็จกลับมายังโลกและการขึ้นครองบัลลังก์ในสวรรค์",
+      "key_decisions": [
+        { "greek": "ὄψονται", "thai": "คนทั้งหลายจะเห็น", "rationale": "Per uW TN writing-pronouns, subject-they = 'people in general.' Thai คนทั้งหลาย ('all-persons') preserves the general-witness-sense. Future middle-voice ὄψονται from ὁράω." },
+        { "greek": "τὸν υἱὸν τοῦ ἀνθρώπου", "thai": "บุตรมนุษย์", "rationale": "υἱὸς τοῦ ἀνθρώπου → บุตรมนุษย์ (RULES.md §4 non-negotiable; glossary-established Markan-key-title from Mark 2:10 onward). Jesus's chosen self-designation in Mark (speaks of himself in 3rd-person). Critical to preserve the Danielic-allusion structure." },
+        { "greek": "ἐρχόμενον ἐν νεφέλαις", "thai": "เสด็จมาในหมู่เมฆ", "rationale": "Pres.-ptc. ἐρχόμενον 'coming' (direction-of-motion LEFT-OPEN per uW TN figs-extrainfo — 'coming' does not specify to-earth or to-God's-throne; Mark's Greek preserves ambiguity). Thai เสด็จ ('royal-go / royal-move') is directionally-neutral (can be 'going' or 'coming' by context); the word-neutrality in Thai matches the Greek-neutrality. ราชาศัพท์ เสด็จ for Jesus's-motion. νεφέλη → เมฆ (glossary). ἐν νεφέλαις pl. → ในหมู่เมฆ ('amid-clouds' — the collective-cloud-setting). Direct Danielic (Dan 7:13 LXX 'μετὰ τῶν νεφελῶν τοῦ οὐρανοῦ ὡς υἱὸς ἀνθρώπου ἐρχόμενος ἦν')." },
+        { "greek": "μετὰ δυνάμεως πολλῆς καὶ δόξης", "thai": "ด้วยฤทธานุภาพอันยิ่งใหญ่และพระสิริ", "rationale": "μετά + gen. 'accompanied-by / with.' δύναμις + δόξα doublet. Per uW TN figs-abstractnouns, can verbalize. Thai ฤทธานุภาพ (glossary δύναμις τοῦ θεοῦ pattern from 12:24) + พระสิริ (glossary from Mark 8:38, 10:37 ἐν τῇ δόξῃ). Note: here δύναμιν = the Son-of-Man's-power (transferred from God — matches Dan 7:14 'dominion-and-glory-and-kingdom given-to-him')." }
+      ],
+      "notes": "OT CITATION: Mark 13:26 is a near-citation of Dan 7:13–14 LXX ('ὡς υἱὸς ἀνθρώπου ἐρχόμενος ἦν καὶ ... ἐδόθη αὐτῷ ἐξουσία καὶ τιμὴ βασιλικὴ'). Mark substitutes μετὰ δυνάμεως καὶ δόξης for Daniel's ἐξουσία καὶ τιμή — thematically-identical coronation-vocabulary. CLIMACTIC CHRISTOLOGICAL VERSE: Jesus's most explicit Markan self-identification with Daniel-7-Son-of-Man up to this point (will be repeated at 14:62 in the trial). The ambiguity of direction-of-coming preserves both (a) parousia-to-earth (traditional-Christian reading) and (b) ascension-to-throne (alternative reading, consistent with Daniel-7's-ascent + Acts-1's-ascension-cloud). Mark leaves this open. Added Dan 7:13–14 to nt_ot_citations.json. THEOPHANIC CLOUD: ἐν νεφέλαις recurs Markanly — 9:7 transfiguration-cloud, here parousia-cloud. The cloud signals divine-presence (Exod 13:21, 19:9, 33:9, Num 11:25). Jesus arrives in YHWH's own theophanic-medium."
+    }
+  },
+  {
+    "reference": "Mark 13:27",
+    "chapter": 13,
+    "verse": 27,
+    "greek": "καὶ τότε ἀποστελεῖ τοὺς ἀγγέλους καὶ ἐπισυνάξει τοὺς ἐκλεκτοὺς ἐκ τῶν τεσσάρων ἀνέμων ἀπ’ἄκρου γῆς ἕως ἄκρου οὐρανοῦ.",
+    "bsb_english": "And He will send out the angels to gather His elect from the four winds, from the ends of the earth to the ends of heaven.",
+    "translation": {
+      "thai": "และในเวลานั้น พระองค์จะทรงส่งเหล่าทูตสวรรค์ไปรวบรวมผู้ที่ทรงเลือกของพระองค์จากลมทั้งสี่ทิศ จากสุดปลายแผ่นดินโลกจนถึงสุดปลายฟ้าสวรรค์",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "ἀποστελεῖ τοὺς ἀγγέλους", "thai": "พระองค์จะทรงส่งเหล่าทูตสวรรค์", "rationale": "Fut. ἀποστέλλω + def.-art. ἀγγέλους. Subject = Son-of-Man (from v.26, per uW TN figs-123person — Jesus speaking of himself in 3rd person). Thai พระองค์ ('he-royal') + ทรงส่ง (ราชาศัพท์). ἄγγελος → ทูตสวรรค์ (glossary). Echoes OT-pattern of YHWH-sending-angels-for-the-gathering (Deut 30:4 LXX ἀπ’ ἄκρου τοῦ οὐρανοῦ ἕως ἄκρου τοῦ οὐρανοῦ; Zech 2:10 LXX; Ps 50:5)." },
+        { "greek": "ἐπισυνάξει τοὺς ἐκλεκτοὺς", "thai": "ไปรวบรวมผู้ที่ทรงเลือกของพระองค์", "rationale": "ἐπισυνάγω 'gather-together' (intensified σύν-compound; glossary entry established here). Thai รวบรวม ('collect-together'). Per uW TN figs-explicit, the Son-of-Man COMMANDS/causes the angels to gather; the verb is causative-in-effect. Thai ไปรวบรวม ('go-to-gather') preserves the angels-as-agents-commissioned. ἐκλεκτός consistency with vv.20, 22. Added ของพระองค์ ('his-own') per uW TN implicit-possessive." },
+        { "greek": "ἐκ τῶν τεσσάρων ἀνέμων", "thai": "จากลมทั้งสี่ทิศ", "rationale": "Per uW TN figs-metaphor, 'the four winds' = the four cardinal directions, hence all-places (Zech 2:6 LXX 'ἐκ τῶν τεσσάρων ἀνέμων τοῦ οὐρανοῦ'). Thai ลมทั้งสี่ทิศ ('winds from-the-four-directions') preserves the metaphor and clarifies with ทิศ ('direction/quarter'). Retains the OT-idiom without flattening it to the prose 'all directions.' ἄνεμος → ลม (glossary)." },
+        { "greek": "ἀπ’ ἄκρου γῆς ἕως ἄκρου οὐρανοῦ", "thai": "จากสุดปลายแผ่นดินโลกจนถึงสุดปลายฟ้าสวรรค์", "rationale": "Per uW TN figs-idiom + figs-parallelism, this idiom = 'from-farthest-places-to-farthest-places' — cosmic merism for total-reach. Mixed 'earth-to-heaven' crosses domains (vs. LXX Deut 30:4 which is 'heaven-to-heaven'). Thai preserves the literal image สุดปลายแผ่นดินโลก...สุดปลายฟ้าสวรรค์ — the cosmic-merism lands naturally in Thai." }
+      ],
+      "notes": "OT INTERTEXT: (1) Zech 2:6 LXX (ἐκ τῶν τεσσάρων ἀνέμων τοῦ οὐρανοῦ συνάξω ὑμᾶς — post-exilic gathering-of-scattered-Israel); (2) Deut 30:4 LXX (ἀπ’ ἄκρου τοῦ οὐρανοῦ — covenant-restoration-gathering); (3) Isa 11:12 LXX (συνάξει τοὺς διασπαρέντας — eschatological gathering); (4) Isa 27:13. Jesus applies the exile-gathering OT-pattern to the Son-of-Man's-parousia-gathering of the worldwide-ekklesia. Added Zech 2:6, Deut 30:4 to nt_ot_citations.json. The elect are no longer just Jewish-exiles but the worldwide-elect (cf. v.10 'to-all-the-nations'). PARALLEL-PASSAGE NOTE: Matt 24:31 almost verbatim; Luke 21:28 departs, emphasizing 'your-redemption-draws-near' instead of the angelic-gathering. Mark preserves the Danielic-gathering-imagery most clearly among the synoptics."
+    }
+  },
+  {
+    "reference": "Mark 13:28",
+    "chapter": 13,
+    "verse": 28,
+    "greek": "Ἀπὸ δὲ τῆς συκῆς μάθετε τὴν παραβολήν·ὅταν ἤδη ὁ κλάδος αὐτῆς ἁπαλὸς γένηται καὶ ἐκφύῃ τὰ φύλλα,γινώσκετε ὅτι ἐγγὺς τὸ θέρος ἐστίν·",
+    "bsb_english": "Now learn this lesson from the fig tree: As soon as its branches become tender and sprout leaves, you know that summer is near.",
+    "translation": {
+      "thai": "จงเรียนอุปมาจากต้นมะเดื่อ เมื่อกิ่งของมันอ่อนนุ่มและแตกใบแล้ว พวกท่านก็รู้ว่าฤดูร้อนใกล้เข้ามาแล้ว",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "Ἀπὸ δὲ τῆς συκῆς μάθετε τὴν παραβολήν", "thai": "จงเรียนอุปมาจากต้นมะเดื่อ", "rationale": "συκῆ → ต้นมะเดื่อ (glossary-established from Mark 11 fig-tree-cursing). Per uW TN figs-parables, the fig-tree functions as teaching-illustration (παραβολή). Per uW TN figs-genericnoun, 'the fig tree' = fig-trees-in-general. Thai ต้นมะเดื่อ without quantifier preserves the generic. μάθετε aor.-imperative 2pl 'learn.'" },
+        { "greek": "ὅταν ἤδη ὁ κλάδος αὐτῆς ἁπαλὸς γένηται καὶ ἐκφύῃ τὰ φύλλα", "thai": "เมื่อกิ่งของมันอ่อนนุ่มและแตกใบแล้ว", "rationale": "κλάδος 'branch' — Thai กิ่ง (glossary). ἁπαλός adjective 'tender / soft' — Thai อ่อนนุ่ม preserves both youth and pliability. Per uW TN implicit-explanation, 'becomes tender' = 'grows new branches' (new-growth); our Thai อ่อนนุ่ม + แตกใบ ('sprout-leaves') preserves both the softness-attribute and the leaf-sprouting-event. ἐκφύω 'put-forth / sprout.' φύλλον → ใบ (glossary)." },
+        { "greek": "γινώσκετε ὅτι ἐγγὺς τὸ θέρος ἐστίν", "thai": "พวกท่านก็รู้ว่าฤดูร้อนใกล้เข้ามาแล้ว", "rationale": "γινώσκετε 2pl either imperative ('know!') or present-indicative ('you-know' as stated-observation). Better as indicative here: 'you-recognize' (descriptive — human-observation-of-seasonal-change). Thai พวกท่านก็รู้ ('you also-know / then-you-know') captures the experiential-recognition. θέρος → ฤดูร้อน (standard Thai for 'summer' — the fruit-harvest season in Palestine). Per uW TN translate-unknown, can render 'the time-for-things-to-grow'; ฤดูร้อน preserves the agricultural-canonical rendering. Glossary entry established." }
+      ],
+      "notes": "FIG-TREE PARABLE: Jesus uses experiential-pattern-recognition as theological-pedagogy. Just as any-villager-in-Palestine can read spring-leaves as summer-sign, the disciples must learn to read the tribulation-signs as parousia-proximate. The sign-function is reinforced by v.29 ('you-know that-he-is-near'). Distinct from the cursed-fig-tree (11:12–21, 20–25) which was a Temple-judgment-sign; here the fig-tree is positive-pedagogy. Compare 1 Enoch 80:2–3 where 'barren-fig-trees' is eschatological-sign (anti-type). Mark's Jesus uses the normal-natural rhythm (spring-summer) precisely to contrast with 1 Enoch's inversion."
+    }
+  },
+  {
+    "reference": "Mark 13:29",
+    "chapter": 13,
+    "verse": 29,
+    "greek": "οὕτως καὶ ὑμεῖς,ὅταν ἴδητε ταῦτα γινόμενα,γινώσκετε ὅτι ἐγγύς ἐστιν ἐπὶ θύραις.",
+    "bsb_english": "So also, when you see these things happening, know that He is near, right at the door.",
+    "translation": {
+      "thai": "เช่นเดียวกัน เมื่อพวกท่านเห็นสิ่งเหล่านี้เกิดขึ้น ก็จงรู้ว่าใกล้แล้ว ถึงประตูแล้ว",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "οὕτως καὶ ὑμεῖς", "thai": "เช่นเดียวกัน", "rationale": "Standard Markan comparison-marker 'so also.' Thai เช่นเดียวกัน ('in-the-same-way') preserves the analogy-transfer from fig-tree to disciples." },
+        { "greek": "ὅταν ἴδητε ταῦτα γινόμενα", "thai": "เมื่อพวกท่านเห็นสิ่งเหล่านี้เกิดขึ้น", "rationale": "Standard-when-clause. ταῦτα = the-things-described (per uW TN figs-explicit = vv.5–23 or vv.5–27). Thai สิ่งเหล่านี้ ('these-things') preserves the referent without forcing specificity." },
+        { "greek": "γινώσκετε ὅτι ἐγγύς ἐστιν ἐπὶ θύραις", "thai": "ก็จงรู้ว่าใกล้แล้ว ถึงประตูแล้ว", "rationale": "γινώσκετε imperative here (in contrast to v.28 indicative — pedagogical-application). Thai จงรู้ ('know-imperatively'). ἐγγύς ἐστιν 'it/he is near' — SUBJECT DELIBERATELY AMBIGUOUS (per uW TN figs-explicit, two readings: (a) the-coming-of-the-Son-of-Man is near [v.26–27 subject]; (b) he [the-Son-of-Man] is near). Thai ใกล้แล้ว ('near-already') without explicit subject preserves the Greek ambiguity exactly — allows both readings. ἐπὶ θύραις idiom 'at-the-doors' = about-to-enter / imminent (per uW TN figs-idiom). Thai ถึงประตูแล้ว ('arrived-at-the-door-already') preserves the vivid-imminent-arrival imagery." }
+      ],
+      "notes": "AMBIGUITY PRESERVED: The subject of ἐγγύς ἐστιν is intentionally-underspecified — could be (a) 'it' (the-whole-coming-event) or (b) 'he' (the-Son-of-Man personally). Mark's Greek neither supplies the subject nor disambiguates. Our Thai ใกล้แล้ว...ถึงประตูแล้ว without pronoun matches the Greek-ambiguity precisely. DOOR IMAGERY: ἐπὶ θύραις recurs in Jas 5:9 ('the-judge stands at-the-doors'); Rev 3:20 ('behold I stand at-the-door and knock'). Early Christian imminence-language. PARABOLIC FIG-TREE APPLICATION: just-as summer-arrival is certain-but-unpredictable-in-exact-day, so-also the-parousia's-arrival is certain-but-humanly-uncalculable. This sets up v.32's 'no-one-knows-the-day.'"
+    }
+  },
+  {
+    "reference": "Mark 13:30",
+    "chapter": 13,
+    "verse": 30,
+    "greek": "ἀμὴν λέγω ὑμῖν ὅτι οὐ μὴ παρέλθῃ ἡ γενεὰ αὕτη μέχρις οὗ ταῦτα πάντα γένηται.",
+    "bsb_english": "Truly I tell you, this generation will not pass away until all these things have happened.",
+    "translation": {
+      "thai": "เราบอกความจริงแก่พวกท่านว่า คนในยุคนี้จะยังไม่ล่วงไป จนกว่าสิ่งเหล่านี้ทั้งสิ้นจะเกิดขึ้น",
+      "thai_literal": null,
+      "thai_summary": "วลี 'คนในยุคนี้' (γενεά) ในภาษากรีกหมายถึงผู้ที่อยู่ในยุคเดียวกัน คริสเตียนตีความแตกต่างกัน: (1) ผู้ที่อยู่กับพระเยซูในขณะนั้น จึงอาจหมายถึงการทำลายพระวิหารใน ค.ศ. 70 (2) ผู้ที่จะอยู่เมื่อเหตุการณ์ในยามสิ้นสุดเริ่มเกิด (3) ชนชาติยิว ที่จะคงอยู่ตลอดประวัติศาสตร์",
+      "key_decisions": [
+        { "greek": "ἀμὴν λέγω ὑμῖν", "thai": "เราบอกความจริงแก่พวกท่านว่า", "rationale": "Markan-Johannine solemn-formula (ἀμήν-initial; frequent in Mark). Thai เราบอกความจริงแก่พวกท่านว่า (glossary pattern). Signals high-authority-declaration." },
+        { "greek": "οὐ μὴ παρέλθῃ ἡ γενεὰ αὕτη", "thai": "คนในยุคนี้จะยังไม่ล่วงไป", "rationale": "οὐ μή + aor.-subj. = emphatic-double-negative (per uW TN figs-doublenegatives). παρέρχομαι 'pass-away' (per uW TN figs-euphemism — polite-for-'die'). Thai ล่วงไป ('pass-away' — matches the Thai funerary-register, preserving the euphemism). γενεά → คนในยุคนี้ (glossary-pattern from Mark 8:12, 38 ἐν τῇ γενεᾷ ταύτῃ — ในคนยุคนี้). Per uW TN figs-metonymy, γενεά 'represents-the-people-of-the-generation' (adults-alive-at-the-same-time)." },
+        { "greek": "μέχρις οὗ ταῦτα πάντα γένηται", "thai": "จนกว่าสิ่งเหล่านี้ทั้งสิ้นจะเกิดขึ้น", "rationale": "μέχρις-οὗ + aor.-subj. 'until-the-time-that.' Thai จนกว่า ('until') + สิ่งเหล่านี้ทั้งสิ้น ('all these things,' per uW TN figs-explicit referring back to vv.5–23 or vv.5–27). Standard temporal-until-construction. γίνομαι aor.-subj. 'come-about / happen.'" }
+      ],
+      "notes": "INTERPRETIVE CRUX: ἡ γενεὰ αὕτη 'this-generation' — one of the NT's most-debated phrases. Multiple readings (per uW TN chapter intro + figs-explicit): (1) Jesus's contemporaries — if ταῦτα πάντα = temple-destruction (70 CE, ~37-40 years later, within a generation), this reading works; problematic if ταῦτα πάντα = full parousia. (2) The generation-alive-when-signs-begin — 'terminal-generation' reading. (3) 'This-kind-of-people' (Jewish-people, or faithless-people) — γενεά can take this sense (cf. Mark 8:38 'this adulterous and sinful generation'). (4) Humans-in-general. Our Thai 'คนในยุคนี้' tracks the most-natural-temporal sense (reading 1 or 2), which is lexically-primary; interpretive-ambiguity is handled in thai_summary + notes. ὅλης τῆς γενεᾶς AUTHENTIC-SAYING: the verse's exegetical-difficulty is a strong argument for its authenticity — the early-church would not invent a saying that creates prophetic-embarrassment if unfulfilled in obvious way. Jesus meant what he said; the interpretive-task is to determine precisely what ταῦτα πάντα references. If ταῦτα πάντα = the-temple-destruction-signs of vv.5–23 (not the v.24–27 parousia), the prophecy is strictly fulfilled 70 CE — within the generation."
+    }
+  },
+  {
+    "reference": "Mark 13:31",
+    "chapter": 13,
+    "verse": 31,
+    "greek": "ὁ οὐρανὸς καὶ ἡ γῆ παρελεύσονται,οἱ δὲ λόγοι μου οὐ μὴ παρελεύσονται.",
+    "bsb_english": "Heaven and earth will pass away, but My words will never pass away.",
+    "translation": {
+      "thai": "ฟ้าสวรรค์และแผ่นดินโลกจะล่วงไป แต่คำของเราจะไม่ล่วงไปเลย",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "ὁ οὐρανὸς καὶ ἡ γῆ παρελεύσονται", "thai": "ฟ้าสวรรค์และแผ่นดินโลกจะล่วงไป", "rationale": "Per uW TN figs-merism: heaven + earth = all-creation. οὐρανός → ฟ้าสวรรค์ (glossary). γῆ → แผ่นดินโลก (standard). παρέρχομαι fut. 'will-pass-away' → จะล่วงไป (standard Thai Christian for cosmic-eschatological passing; matches v.30 wordplay)." },
+        { "greek": "οἱ δὲ λόγοι μου οὐ μὴ παρελεύσονται", "thai": "แต่คำของเราจะไม่ล่วงไปเลย", "rationale": "Per uW TN figs-metonymy, 'my words' = 'what-I-have-spoken' (teachings). Thai คำของเรา preserves the metonymy. Emphatic double-negative οὐ μή (per uW TN figs-doublenegatives) → ไม่...เลย. λόγος → คำ (general; here specifically Jesus's-teachings)." }
+      ],
+      "notes": "YHWH-LEVEL AUTHORITY: Jesus claims-for-his-words the permanence that Isa 40:8 attributes to the word-of-YHWH ('τὸ δὲ ῥῆμα τοῦ θεοῦ ἡμῶν μένει εἰς τὸν αἰῶνα'). Cf. also Isa 51:6 ('heaven and earth shall pass away, but my salvation shall be forever'). Jesus places his own spoken-words-on-par with YHWH's-eternal-word — a high-Christology claim preserved deliberately by Mark. WORDPLAY: γενεά αὕτη will-not παρέλθῃ (v.30) balanced by οἱ λόγοι μου οὐ μή παρελεύσονται (v.31). Mark uses the same verb to bracket generation-duration with word-permanence."
+    }
+  },
+  {
+    "reference": "Mark 13:32",
+    "chapter": 13,
+    "verse": 32,
+    "greek": "Περὶ δὲ τῆς ἡμέρας ἐκείνης ἢ τῆς ὥρας οὐδεὶς οἶδεν,οὐδὲ οἱ ἄγγελοι ἐν οὐρανῷ οὐδὲ ὁ υἱός,εἰ μὴ ὁ πατήρ.",
+    "bsb_english": "No one knows about that day or hour, not even the angels in heaven, nor the Son, but only the Father.",
+    "translation": {
+      "thai": "แต่เรื่องวันนั้นหรือชั่วโมงนั้น ไม่มีใครรู้ แม้แต่เหล่าทูตสวรรค์ในฟ้าสวรรค์ก็ไม่รู้ แม้แต่พระบุตรก็ไม่รู้ รู้แต่พระบิดาเท่านั้น",
+      "thai_literal": null,
+      "thai_summary": "ข้อนี้เป็นหนึ่งในข้อที่สำคัญที่สุดในการเข้าใจการเป็นทั้งพระเจ้าและมนุษย์ของพระคริสต์ ในช่วงเวลาที่ทรงเป็นมนุษย์บนโลก พระเยซูทรงจำกัดตนเองโดยสมัครใจไม่ให้ใช้ความรู้อย่างพระเจ้าเต็มที่ เทววิทยาคริสเตียนเรียกว่า 'การลดพระเกียรติของพระคริสต์' (kenosis, ฟิลิปปี 2:6-8) นี่ไม่ใช่การลดฐานะของพระองค์ แต่สำแดงความถ่อมและการเชื่อฟังของพระบุตร",
+      "key_decisions": [
+        { "greek": "Περὶ δὲ τῆς ἡμέρας ἐκείνης ἢ τῆς ὥρας", "thai": "แต่เรื่องวันนั้นหรือชั่วโมงนั้น", "rationale": "Per uW TN grammar-connect-words-phrases, opens-new-topic (the-specific-timing). Per uW TN figs-doublet, 'day-or-hour' = the-specific-moment (doublet-for-emphasis); Thai วัน...ชั่วโมง preserves the doublet literally rather than flattening — the doubling is theologically-important. Per uW TN figs-explicit, this-day-or-hour = the-moment-of-Jesus's-return." },
+        { "greek": "οὐδεὶς οἶδεν, οὐδὲ οἱ ἄγγελοι ἐν οὐρανῷ οὐδὲ ὁ υἱός, εἰ μὴ ὁ πατήρ", "thai": "ไม่มีใครรู้ แม้แต่เหล่าทูตสวรรค์ในฟ้าสวรรค์ก็ไม่รู้ แม้แต่พระบุตรก็ไม่รู้ รู้แต่พระบิดาเท่านั้น", "rationale": "Escalating-denial: no-one → not-even-angels → not-even-the-Son → except-the-Father. Per uW TN grammar-connect-exceptions, can be reworded but Thai preserves the Greek-escalation naturally. ὁ υἱός 'the Son' (per uW TN figs-123person — Jesus speaking of himself in 3rd person). CHRISTOLOGICALLY SIGNIFICANT: ὁ υἱός and ὁ πατήρ — per uW TN figs-extrainfo, critical-titles must be retained. Thai พระบุตร ('divine-son' with royal-honorific pre-fix พระ) and พระบิดา ('divine-father') — glossary entries established here. Father-Son relational-language appears here for the first time explicitly in Mark (following the implicit οὗτός ἐστιν ὁ υἱός μου ὁ ἀγαπητός at baptism 1:11 and transfiguration 9:7)." }
+      ],
+      "notes": "CHRISTOLOGICAL CRUX: Jesus's self-acknowledged non-knowledge of the day/hour. This is one of the NT's clearest-kenosis-texts. The incarnate-Son, during his-earthly-mission, voluntarily-accepts limitation-of-omniscience regarding specific-eschatological-timing. Patristic and reformed theology: this is consistent with Phil 2:6–8 (Christ-emptied-himself), a limitation-of-use-of-divine-attributes, not a loss-of-divinity. Compare the discussion in Athanasius (Contra Arianos 3.42–50) and Calvin (Institutes 2.14.2). Mark preserves this saying boldly — precisely because a post-resurrection community would NOT invent it (it creates theological difficulty). Further authenticity-marker. TRINITARIAN FORMULA: Father + Son + implicit-Holy-Spirit-framing (cf. v.11's Spirit-speaking) — Mark's Christology is trinitarian-shaped even before later credal-articulation. Matthew 24:36 in some-important-manuscripts DROPS οὐδὲ ὁ υἱός (scribes uncomfortable with Son's non-knowledge); Mark's text is uniformly preserved."
+    }
+  },
+  {
+    "reference": "Mark 13:33",
+    "chapter": 13,
+    "verse": 33,
+    "greek": "βλέπετε ἀγρυπνεῖτε,οὐκ οἴδατε γὰρ πότε ὁ καιρός ἐστιν·",
+    "bsb_english": "Be on your guard and stay alert! For you do not know when the appointed time will come.",
+    "translation": {
+      "thai": "จงระวังและตื่นเฝ้าอยู่ เพราะพวกท่านไม่รู้ว่าเวลากำหนดนั้นจะมาถึงเมื่อใด",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "βλέπετε ἀγρυπνεῖτε", "thai": "จงระวังและตื่นเฝ้าอยู่", "rationale": "Pres.-imperatives 2pl — durative/ongoing. βλέπετε per uW TN figs-metaphor 'be-prepared' (pattern from vv.5, 9, 23). ἀγρυπνέω per uW TN figs-metaphor 'stay-alert / watchful' (stem = 'without-sleep'; ἀ- + ὕπνος). Thai ตื่นเฝ้า ('awake-watch') combines both the alertness and the vigil-posture. Glossary entry established: ἀγρυπνέω → ตื่นเฝ้า. TEXTUAL VARIANT: SBLGNT βλέπετε ἀγρυπνεῖτε (shorter). Byz βλέπετε ἀγρυπνεῖτε καὶ προσεύχεσθε ('and pray') (per uW TN translate-textvariants). Our text follows SBLGNT; noted in notes." },
+        { "greek": "οὐκ οἴδατε...πότε ὁ καιρός ἐστιν", "thai": "พวกท่านไม่รู้ว่าเวลากำหนดนั้นจะมาถึงเมื่อใด", "rationale": "καιρός 'appointed-time' (vs. χρόνος duration) — per uW TN figs-explicit, here-specifically = Jesus's-return (parallel to v.32's ἡμέρα-ἢ-ὥρα). Glossary καιρός → เวลากำหนด (established from 12:2 τῷ καιρῷ). Thai เวลากำหนด ('appointed-time / set-time') preserves the divinely-fixed-moment sense. จะมาถึง ('will-arrive') supplied from context — the καιρός IS-WHEN = the moment-of-its-arrival." }
+      ],
+      "notes": "TEXTUAL VARIANT v.33: SBLGNT βλέπετε ἀγρυπνεῖτε (no προσεύχεσθε). Byzantine adds καὶ προσεύχεσθε ('and pray') — likely harmonization-to-Mark 14:38 (Gethsemane 'watch-and-pray') or to Luke 21:36. Earliest MSS (ℵ B L W Δ) support shorter reading. uW TN translate-textvariants preserves the variant. WATCHFULNESS-CHAIN: βλέπετε (v.33) + ἀγρυπνεῖτε (v.33) + γρηγορεῖτε (vv.35, 37) + 4 night-watches (v.35) + εὑρίσκω-not-sleeping (v.36) — Mark 13's concluding-exhortation piles up vigilance-vocabulary. The disciplines required: (1) alertness (βλέπω), (2) awakeness (ἀγρυπνέω, γρηγορέω), (3) anticipation (καιρός-unknown)."
+    }
+  },
+  {
+    "reference": "Mark 13:34",
+    "chapter": 13,
+    "verse": 34,
+    "greek": "ὡς ἄνθρωπος ἀπόδημος ἀφεὶς τὴν οἰκίαν αὐτοῦ καὶ δοὺς τοῖς δούλοις αὐτοῦ τὴν ἐξουσίαν,ἑκάστῳ τὸ ἔργον αὐτοῦ,καὶ τῷ θυρωρῷ ἐνετείλατο ἵνα γρηγορῇ.",
+    "bsb_english": "It is like a man going on a journey who left his house, put each servant in charge of his own task, and instructed the doorkeeper to keep watch.",
+    "translation": {
+      "thai": "เปรียบเหมือนชายคนหนึ่งเดินทางไปต่างแดน ละบ้านของตน มอบอำนาจให้แก่ทาสของเขาแต่ละคนทำงานของตน แล้วสั่งคนเฝ้าประตูให้เฝ้าระวัง",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "ὡς ἄνθρωπος ἀπόδημος", "thai": "เปรียบเหมือนชายคนหนึ่งเดินทางไปต่างแดน", "rationale": "Per uW TN figs-parables + figs-explicit, ὡς 'like' introduces the-parable-applied-to-watchfulness. NT HAPAX: ἀπόδημος (only here as adjective; verb ἀποδημέω appeared Mark 12:1 of the vineyard-owner, ἀπεδήμησεν). Semantically 'away-from-home / on-foreign-journey.' Thai เดินทางไปต่างแดน ('travels-to-foreign-land') parallels the 12:1 rendering exactly — deliberate intertextual-echo with the vineyard-parable. Together 12:1 + 13:34 form a Markan-pairing: the owner-goes-away, servants-given-responsibility, eventual-return-with-judgment. Glossary entry established: ἀπόδημος → ผู้เดินทางไปต่างแดน (noun-adj)." },
+        { "greek": "ἀφεὶς τὴν οἰκίαν αὐτοῦ", "thai": "ละบ้านของตน", "rationale": "ἀφίημι aor.-ptc. 'leave-behind.' Thai ละ ('leave-off-from') — standard biblical." },
+        { "greek": "δοὺς τοῖς δούλοις αὐτοῦ τὴν ἐξουσίαν, ἑκάστῳ τὸ ἔργον αὐτοῦ", "thai": "มอบอำนาจให้แก่ทาสของเขาแต่ละคนทำงานของตน", "rationale": "Per uW TN figs-abstractnouns — ἐξουσία 'authority' can be verbalized ('empowered'). Per uW TN figs-explicit, ἑκάστῳ τὸ ἔργον αὐτοῦ = 'to-each his-own-specific-task.' Thai แต่ละคนทำงานของตน ('each-person his-own-work') preserves the distributive + individual-scope. δοῦλος → ทาส (glossary-established from 12:2). ἐξουσία → อำนาจ (general 'authority' — distinct from สิทธิอำนาจ which glossary reserves for divine-conferred-authority as in 1:22 Jesus's teaching). ἔργον → งาน (standard)." },
+        { "greek": "τῷ θυρωρῷ ἐνετείλατο ἵνα γρηγορῇ", "thai": "แล้วสั่งคนเฝ้าประตูให้เฝ้าระวัง", "rationale": "θυρωρός → คนเฝ้าประตู ('person-guard-door'). Per uW TN translate-unknown, = gate-keeper / door-guard. Glossary entry established. ἐντέλλομαι 'command / instruct' → สั่ง. γρηγορέω 'stay-alert / watch' — Thai เฝ้าระวัง ('watch-guard' combined). Glossary γρηγορέω → เฝ้าระวัง established here. The doorkeeper-specific-command anticipates v.35 γρηγορεῖτε which applies the doorkeeper-role to all-disciples." }
+      ],
+      "notes": "HAPAX: ἀπόδημος (v.34) — NT hapax as-adjective. Second Mark-13 hapax (after προμεριμνάω v.11). Related verb ἀποδημέω appeared Mark 12:1. The Mark 12:1 / 13:34 pairing deliberately frames the master-is-away motif around the Passion: in 12:1 the owner-of-the-vineyard sends servants-and-son; in 13:34 the owner-of-the-house gives-authority-to-servants and commands-doorkeeper-to-watch. Both climax with the owner's return and accountability. STRUCTURAL: Mark 13:34–37 is tightly structured as (a) parable-setup v.34; (b) application-to-watchfulness v.35; (c) specific-warning v.36; (d) universal-application v.37. The parable hinges on the doorkeeper-figure, who represents every disciple during the master's absence. FIRST-CENTURY-HOUSEHOLD: Roman / Greco-Roman households routinely employed a θυρωρός for security and for receiving-guests; John 10:3 and John 18:16–17 mention the role."
+    }
+  },
+  {
+    "reference": "Mark 13:35",
+    "chapter": 13,
+    "verse": 35,
+    "greek": "γρηγορεῖτε οὖν,οὐκ οἴδατε γὰρ πότε ὁ κύριος τῆς οἰκίας ἔρχεται,ἢ ὀψὲ ἢ μεσονύκτιον ἢ ἀλεκτοροφωνίας ἢ πρωΐ,",
+    "bsb_english": "Therefore keep watch, because you do not know when the master of the house will return—whether in the evening, at midnight, when the rooster crows, or in the morning.",
+    "translation": {
+      "thai": "เพราะฉะนั้นจงเฝ้าระวังอยู่ เพราะพวกท่านไม่รู้ว่าเจ้าของบ้านจะมาเมื่อใด จะเป็นเวลาเย็น เที่ยงคืน ไก่ขัน หรือรุ่งเช้า",
+      "thai_literal": null,
+      "thai_summary": "สี่ยามที่พระเยซูทรงกล่าวถึง (เย็น เที่ยงคืน ไก่ขัน รุ่งเช้า) เป็นการแบ่งเวลากลางคืนตามระบบโรมัน ประมาณ 6-9 น. / 9-12 น. / 12-3 น. / 3-6 น. ของกลางคืน น่าสังเกตว่าสี่ยามนี้ยังสัมพันธ์กับชีวิตของพระเยซูในสัปดาห์ปัสกา: เย็น (อาหารมื้อสุดท้าย), เที่ยงคืน (ในสวนเกทเสมานี), ไก่ขัน (เปโตรปฏิเสธ), รุ่งเช้า (ตรึงกางเขน)",
+      "key_decisions": [
+        { "greek": "γρηγορεῖτε οὖν", "thai": "เพราะฉะนั้นจงเฝ้าระวังอยู่", "rationale": "οὖν 'therefore' — per uW TN grammar-connect-logic-result, introduces the-application of v.34's parable. Thai เพราะฉะนั้น ('for-that-reason'). γρηγορέω consistency with v.34 rendering." },
+        { "greek": "ὁ κύριος τῆς οἰκίας ἔρχεται", "thai": "เจ้าของบ้านจะมาเมื่อใด", "rationale": "κύριος τῆς οἰκίας — parabolic 'owner/master-of-the-house.' Per uW TN figs-explicit, Jesus identifies-himself with this-man (who went-on-journey + returns). Thai เจ้าของบ้าน ('owner-of-house') preserves the parabolic-layer per RULES.md §4 context-sensitive-κύριος (mirrors the Mark 12:9 decision with ὁ κύριος τοῦ ἀμπελῶνος → เจ้าของสวนองุ่น — parabolic layer, not the YHWH-bearing κύριος). Thai reader can recognize the self-reference through the narrative-frame." },
+        { "greek": "ἢ ὀψὲ ἢ μεσονύκτιον ἢ ἀλεκτοροφωνίας ἢ πρωΐ", "thai": "จะเป็นเวลาเย็น เที่ยงคืน ไก่ขัน หรือรุ่งเช้า", "rationale": "4-fold Roman night-watch system (per uW TN translate-unknown figs-metonymy): (1) ὀψέ ~6–9pm evening; (2) μεσονύκτιον ~9pm–midnight midnight-watch; (3) ἀλεκτοροφωνία ~midnight–3am cockcrow (named for the ~3am rooster); (4) πρωΐ ~3–6am morning-watch. NT HAPAX: ἀλεκτοροφωνία (only here in NT). Compound ἀλέκτωρ + φωνή 'rooster-voice/crow.' Thai ไก่ขัน ('rooster-crows') is the natural Thai folk-equivalent (both culturally-attested and semantically-transparent). Glossary entry established. Per uW TN figs-metonymy, the term refers to the-hours-before-dawn marked by the rooster's habit. ὀψέ → เวลาเย็น; μεσονύκτιον → เที่ยงคืน; πρωΐ → รุ่งเช้า (glossary entries established here)." }
+      ],
+      "notes": "HAPAX: ἀλεκτοροφωνία (v.35) — third Mark-13 hapax. Compound of ἀλέκτωρ ('rooster' — appears in Mark 14:30, 72 cockcrow during Peter's-denial) + φωνή ('voice/crow'). Jewish night-division used 3 watches (Judg 7:19, Lam 2:19); Roman system (adopted through 1st century) used 4 — Mark's 4-watch scheme reflects the Roman-influenced milieu (supporting Mark's traditional-Rome-provenance). PASSION-ECHOES: the four watches narratively-foreshadow Jesus's Passion timeline: (1) ὀψέ — Last Supper begins (14:17); (2) μεσονύκτιον — Gethsemane prayer + arrest (14:32ff); (3) ἀλεκτοροφωνία — Peter's denial (14:30, 72); (4) πρωΐ — crucifixion-morning (15:1 πρωΐ). Mark's 'watch' instructions apply-first to the Passion-itself: the disciples will-fail the watch at Gethsemane (14:37 'Simon, are you asleep? Could you not keep-watch γρηγορῆσαι one hour?'). The eschatological-watch is prefigured in the Passion-watch. This ties Mark 13:35 to 14:32–42 as a deliberate literary-structural pair. MATTHEW and LUKE DROP the four-watches detail — unique to Mark. Added ἀλέκτωρ-related glossary entry anticipating 14:30 usage."
+    }
+  },
+  {
+    "reference": "Mark 13:36",
+    "chapter": 13,
+    "verse": 36,
+    "greek": "μὴ ἐλθὼν ἐξαίφνης εὕρῃ ὑμᾶς καθεύδοντας·",
+    "bsb_english": "Otherwise, he may arrive without notice and find you sleeping.",
+    "translation": {
+      "thai": "เกรงว่าเมื่อเขามาอย่างฉับพลัน จะพบพวกท่านหลับอยู่",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "μὴ ἐλθὼν ἐξαίφνης εὕρῃ ὑμᾶς", "thai": "เกรงว่าเมื่อเขามาอย่างฉับพลัน จะพบพวกท่าน", "rationale": "μή + aor.-subj. ('lest') purpose-fear-clause. ἐξαίφνης 'suddenly' (per uW TN 'unexpectedly'). Thai เกรงว่า ('fearing-that') + ฉับพลัน ('abrupt / sudden') preserves both the apprehensive-mood and the suddenness." },
+        { "greek": "καθεύδοντας", "thai": "หลับอยู่", "rationale": "Pres.-ptc. καθεύδω → หลับ (glossary-established). Per uW TN figs-metaphor, 'sleeping' = 'unprepared / not-watching.' Thai หลับอยู่ ('sleeping-state') preserves the literal + metaphorical layers. The warning applies literally to the Gethsemane-disciples (14:37) and metaphorically to unwatchful-believers awaiting parousia." }
+      ],
+      "notes": "DOUBLE-REFERENCE: sleeping-disciples in 14:37–40 (Gethsemane) literally-fulfills Mark 13:36's warning. Mark constructs the eschatological-watchfulness-instructions such that they land-first on Jesus's original-Twelve-disciples during his Passion, and only-then extend to the eschatological-church. This is the Markan technique: short-horizon fulfillment is laced-into the long-horizon prophecy, so that both can be read as layered."
+    }
+  },
+  {
+    "reference": "Mark 13:37",
+    "chapter": 13,
+    "verse": 37,
+    "greek": "ὃ δὲ ὑμῖν λέγω πᾶσιν λέγω·γρηγορεῖτε.",
+    "bsb_english": "And what I say to you, I say to everyone: Keep watch!\"",
+    "translation": {
+      "thai": "และสิ่งที่เรากล่าวแก่พวกท่าน เราก็กล่าวแก่ทุกคน จงเฝ้าระวังอยู่",
+      "thai_literal": null,
+      "thai_summary": "พระเยซูทรงขยายคำสอนให้เป็นของผู้ติดตามของพระองค์ทั้งหมดในทุกยุคสมัย ไม่ใช่แค่สาวกสี่คนที่ถามคำถามเริ่มต้น คำเตือนให้เฝ้าระวังเป็นมรดกสากลของคริสตจักร",
+      "key_decisions": [
+        { "greek": "ὃ δὲ ὑμῖν λέγω πᾶσιν λέγω", "thai": "สิ่งที่เรากล่าวแก่พวกท่าน เราก็กล่าวแก่ทุกคน", "rationale": "Relative-indefinite ὃ 'what/whatever.' πᾶσιν (per uW TN figs-nominaladj) substantival = 'to-all-people.' Thai สิ่งที่ + ทุกคน ('to-every-person') preserves the universal-application. δέ 'and / now' — per uW TN grammar-connect-words-phrases, introduces further-development. Thai และ natural connector." },
+        { "greek": "γρηγορεῖτε", "thai": "จงเฝ้าระวังอยู่", "rationale": "Closing-imperative — same verb as v.35. Thai จงเฝ้าระวังอยู่ closes the discourse on the imperative that structures vv.33–37. The single-word-ending matches Mark's punch-style and creates narrative-ring-composition with the opening-command βλέπετε (v.5)." }
+      ],
+      "notes": "UNIVERSAL-APPLICATION: Mark deliberately extends the private-teaching (v.3 κατ’ ἰδίαν) to all (πᾶσιν). The Olivet-Discourse originally-given-privately-to-four becomes the church's-universal-warning. This is a Markan-reading-cue: the teaching is for all-Mark's-readers, in every-generation-of-the-church-age. RING-COMPOSITION: βλέπετε (v.5, first warning) ↔ γρηγορεῖτε (v.37, final warning) closes the discourse with parallel-imperatives. The intervening-material is bracketed by two calls to watchful-vigilance. CLOSING PROPERTY: Mark 13:37 concludes Jesus's-final-extended-public-teaching in Mark — the next four chapters are Passion-narrative. The disciples will now be measured against the standard Jesus just articulated — and will fail (14:37–41 sleeping-in-Gethsemane); but the failure-of-the-original-Twelve does not void the command to future-readers. Rather, it models the grace needed to hear the warning repeatedly."
+    }
+  }
+]
