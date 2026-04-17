@@ -25,9 +25,14 @@ That's the minimum reviewer package. You can stop there or go deeper.
 
 ---
 
-## What's been translated (as of 2026-04-17)
+## What's been translated (as of 2026-04-18)
 
-**Gospel of Mark — COMPLETE** (16 chapters, 603 verses) · **1 Timothy 3** (16 verses). Total: **619 verses** of NT; Matthew is next per `data/production_order.json`.
+**Gospel of Mark — COMPLETE** (16 chapters, 603 verses) · **Matthew** in progress · **1 Timothy 3** (16 verses).
+
+📖 **Read it:**
+- Mark: [`output/reader/mark.md`](output/reader/mark.md) — full Gospel in Thai with inline context (บริบท)
+- Matthew (in progress): [`output/reader/matthew.md`](output/reader/matthew.md)
+- 1 Timothy 3: [`output/reader/1timothy.md`](output/reader/1timothy.md)
 
 All chapters pass the full 7-check ship gate (key-term consistency, TNBT structural, OT citation acknowledgment, synoptic parallels, back-translation, thai_summary coverage, claim-consistency / hallucination detector). 288 reader-facing Thai context summaries across the corpus (43% coverage, aligned with the 30–50% target in `docs/THAI_SUMMARY_STYLE.md`). 104 curated NT→OT citations in `data/nt_ot_citations.json`. Every commit GPG-signed; every translation file SHA-256 fingerprinted in `HASHES.md`.
 
