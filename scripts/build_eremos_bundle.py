@@ -48,6 +48,7 @@ def main():
                 "verse": v["verse"],
                 "thai": t.get("thai", ""),
                 "thai_literal": t.get("thai_literal") or None,
+                "thai_summary": t.get("thai_summary") or None,
                 "key_decisions": t.get("key_decisions") or [],
                 "notes": t.get("notes") or None,
             })

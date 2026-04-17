@@ -127,6 +127,7 @@ Every verse in `output/translations/<book>_<NN>.json` must have:
   "translation": {
     "thai": "<natural Thai rendering>",
     "thai_literal": "<optional literal alternative if it differs meaningfully>",
+    "thai_summary": "<optional 1-2 sentence Thai-language explanation for the average reader — see docs/THAI_SUMMARY_STYLE.md>",
     "key_decisions": [
       { "greek": "<word or phrase>", "thai": "<Thai rendering>", "rationale": "<why this choice>" }
     ],
@@ -136,6 +137,17 @@ Every verse in `output/translations/<book>_<NN>.json` must have:
 ```
 
 Verses with no meaningful interpretive decisions may have empty `key_decisions: []` and `notes: null`, but this must be the exception, not the norm. If a verse has zero decisions, consider whether something subtle is being missed.
+
+### `thai_summary` — reader-facing layer (added 2026-04-17)
+
+The `thai_summary` field serves a **different audience** from `key_decisions` and `notes`:
+
+- **`key_decisions` + `notes`** (English) → for translators, reviewers, scholars, AI evaluators. Defends and documents the methodology. Belongs in the GitHub repo and admin views; appears in the Eremos app behind a "Show scholarly notes" toggle.
+- **`thai_summary`** (Thai, optional, 1-2 sentences) → for the average Thai Christian reading the verse. Surfaces an OT echo, cultural context, or theological motif in plain modern Thai. Appears prominently in the Eremos app popup above the scholarly notes.
+
+**Not every verse needs a summary.** Roughly 30-50% of verses warrant one. Skip simple narrative without interpretive payload. See `docs/THAI_SUMMARY_STYLE.md` for the full editorial spec including length, register, content priorities, and verse-type guide.
+
+The `thai_summary` field is OPTIONAL. Backward-compatibility: chapters translated before this field existed (Mark 1-8, 1 Tim 3 as of 2026-04-17) will not have it. New chapters from Mark 9+ are expected to include it where warranted.
 
 ---
 

@@ -87,26 +87,26 @@ def main():
     print(f"\n=== Running checks on {slug} ch. {args.chapter} ===\n")
 
     # 1. Rebuild glossary & run key-term consistency
-    print("[1/5] Key-term consistency...")
+    print("[1/6] Key-term consistency...")
     run([sys.executable, str(SCRIPTS / "build_glossary.py")])
     code, _ = run([sys.executable, str(SCRIPTS / "check_key_term_consistency.py"),
                    "--book", slug, "--chapter", str(args.chapter)])
     record("Key-term consistency", code, f"key_term_consistency_{slug}_{args.chapter:02d}.md")
 
     # 2. TNBT structural comparison
-    print("[2/5] TNBT structural comparison...")
+    print("[2/6] TNBT structural comparison...")
     code, _ = run([sys.executable, str(SCRIPTS / "check_against_tnbt.py"),
                    "--book", slug, "--chapter", str(args.chapter)])
     record("TNBT structural comparison", code, f"tnbt_comparison_{slug}_{args.chapter:02d}.md")
 
     # 3. OT citation check
-    print("[3/5] OT citation check...")
+    print("[3/6] OT citation check...")
     code, _ = run([sys.executable, str(SCRIPTS / "check_ot_citations.py"),
                    "--book", slug, "--chapter", str(args.chapter)])
     record("OT citation acknowledgment", code, f"ot_citations_{slug}_{args.chapter:02d}.md")
 
     # 4. Parallel-passage check
-    print("[4/5] Synoptic parallel-passage check...")
+    print("[4/6] Synoptic parallel-passage check...")
     code, _ = run([sys.executable, str(SCRIPTS / "check_parallel_passages.py")])
     record("Synoptic parallels", code, "parallel_passages.md")
 
@@ -114,10 +114,10 @@ def main():
     # The script reads output/back_translations/<slug>_<NN>.json if present,
     # otherwise emits a prompt file for Claude to fill in.
     if args.skip_back_translation:
-        print("[5/5] Back-translation — skipped per flag")
+        print("[5/6] Back-translation — skipped per flag")
         record("Back-translation", 0, "(skipped)", "skipped via --skip-back-translation")
     else:
-        print("[5/5] Back-translation...")
+        print("[5/6] Back-translation...")
         code, out = run([sys.executable, str(SCRIPTS / "check_back_translation.py"),
                         "--book", slug, "--chapter", str(args.chapter)])
         bt_file = ROOT / "output" / "back_translations" / f"{slug}_{args.chapter:02d}.json"
@@ -127,6 +127,17 @@ def main():
                    "pending — Claude should produce back-translations per prompt")
         else:
             record("Back-translation", code, f"back_translation_{slug}_{args.chapter:02d}.md")
+
+    # 6. Summary-coverage check (informational only, non-blocking)
+    # Surfaces verses that warrant a thai_summary but don't have one. Existing
+    # chapters (Mark 1-8, 1 Tim 3) translated before this field existed will
+    # show warranted-but-missing; that's expected and OK — not a ship gate.
+    print("[6/6] Thai-summary coverage (informational)...")
+    code, _ = run([sys.executable, str(SCRIPTS / "check_summary_coverage.py"),
+                   "--book", slug, "--chapter", str(args.chapter)])
+    record("Thai-summary coverage (info)", 0,  # always status "clean" — informational
+           f"summary_coverage_{slug}_{args.chapter:02d}.md",
+           "informational only — not a ship gate")
 
     # Aggregate report
     review_lines = [
