@@ -6,7 +6,9 @@
 | TNBT structural comparison | ✅ clean | [tnbt_comparison_mark_10.md](tnbt_comparison_mark_10.md) |
 | OT citation acknowledgment | ✅ clean | [ot_citations_mark_10.md](ot_citations_mark_10.md) |
 | Synoptic parallels | ✅ clean | [parallel_passages.md](parallel_passages.md) |
-| Back-translation | ✅ clean | [back_translations/mark_10_PROMPT.md](back_translations/mark_10_PROMPT.md) |
+| Back-translation | ✅ clean | [(skipped)]((skipped)) |
+| Thai-summary coverage (info) | ✅ clean | [summary_coverage_mark_10.md](summary_coverage_mark_10.md) |
+| Claim consistency (hallucination) | ✅ clean | [claim_consistency_mark_10.md](claim_consistency_mark_10.md) |
 
 ## Ship criterion
 

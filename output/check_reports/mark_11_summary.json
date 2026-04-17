@@ -33,8 +33,8 @@
     {
       "name": "Back-translation",
       "exit_code": 0,
-      "report": "back_translation_mark_11.md",
-      "notes": "",
+      "report": "(skipped)",
+      "notes": "skipped via --skip-back-translation",
       "status": "clean"
     },
     {
@@ -42,6 +42,13 @@
       "exit_code": 0,
       "report": "summary_coverage_mark_11.md",
       "notes": "informational only — not a ship gate",
+      "status": "clean"
+    },
+    {
+      "name": "Claim consistency (hallucination)",
+      "exit_code": 0,
+      "report": "claim_consistency_mark_11.md",
+      "notes": "",
       "status": "clean"
     }
   ]

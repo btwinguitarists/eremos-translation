@@ -8,12 +8,30 @@
     "translation": {
       "thai": "พระองค์กับพวกสาวกเสด็จข้ามทะเลไปถึงอีกฟากหนึ่ง ในแคว้นเกราซา",
       "key_decisions": [
-        {"greek": "ἦλθον (3p. pl.)", "thai": "พระองค์กับพวกสาวกเสด็จ", "rationale": "Per uW figs-synecdoche v.21 (applied retroactively): plural verb covers Jesus + the disciples in the boat from Mark 4:36. Thai makes the implicit plural subject explicit ('พระองค์กับพวกสาวก' = Him and the disciples) for clarity. Royal 'เสด็จ' for Jesus' movement."},
-        {"greek": "εἰς τὸ πέραν τῆς θαλάσσης", "thai": "ข้ามทะเลไปถึงอีกฟากหนึ่ง", "rationale": "πέραν = 'the other side.' Per uW writing-newevent: this 'and' marks the new event. Thai 'ข้าม...ไปถึงอีกฟากหนึ่ง' (cross-go-arrive at-other side) preserves the geographic shift. Picks up directly from the storm-crossing of Mark 4:35–41."},
-        {"greek": "τὴν χώραν τῶν Γερασηνῶν", "thai": "ในแคว้นเกราซา", "rationale": "TEXTUAL VARIANT (per uW translate-textvariants): SBLGNT Γερασηνῶν (ℵ*, B, D, lat) vs. Γαδαρηνῶν (A, C, Byz — Matthew) vs. Γεργεσηνῶν (W, fam. 1, fam. 13 — Origen). 'Gerasenes' = people of Gerasa (modern Jerash, ~50km SE of the lake). Geographic difficulty: Gerasa is far from the lakeshore; the swine episode requires a steep cliff into water. Origen later proposed Γέργεσα (modern Kursi) on east shore — fits geography but lacks early MS support. We follow SBLGNT 'เกราซา' (transliterated). Thai 'แคว้น' (region/district) for χώρα. Crossing to a Gentile region is theologically loaded: the first Markan miracle on Gentile soil."},
-        {"greek": "Greek text variant", "thai": "(see notes)", "rationale": "Γερασηνῶν (SBLGNT) vs. Γαδαρηνῶν vs. Γεργεσηνῶν — three text traditions; we follow SBLGNT. Geographic problem flagged in notes."}
+        {
+          "greek": "ἦλθον (3p. pl.)",
+          "thai": "พระองค์กับพวกสาวกเสด็จ",
+          "rationale": "Per uW figs-synecdoche v.21 (applied retroactively): plural verb covers Jesus + the disciples in the boat from Mark 4:36. Thai makes the implicit plural subject explicit ('พระองค์กับพวกสาวก' = Him and the disciples) for clarity. Royal 'เสด็จ' for Jesus' movement."
+        },
+        {
+          "greek": "εἰς τὸ πέραν τῆς θαλάσσης",
+          "thai": "ข้ามทะเลไปถึงอีกฟากหนึ่ง",
+          "rationale": "πέραν = 'the other side.' Per uW writing-newevent: this 'and' marks the new event. Thai 'ข้าม...ไปถึงอีกฟากหนึ่ง' (cross-go-arrive at-other side) preserves the geographic shift. Picks up directly from the storm-crossing of Mark 4:35–41."
+        },
+        {
+          "greek": "τὴν χώραν τῶν Γερασηνῶν",
+          "thai": "ในแคว้นเกราซา",
+          "rationale": "TEXTUAL VARIANT (per uW translate-textvariants): SBLGNT Γερασηνῶν (ℵ*, B, D, lat) vs. Γαδαρηνῶν (A, C, Byz — Matthew) vs. Γεργεσηνῶν (W, fam. 1, fam. 13 — Origen). 'Gerasenes' = people of Gerasa (modern Jerash, ~50km SE of the lake). Geographic difficulty: Gerasa is far from the lakeshore; the swine episode requires a steep cliff into water. Origen later proposed Γέργεσα (modern Kursi) on east shore — fits geography but lacks early MS support. We follow SBLGNT 'เกราซา' (transliterated). Thai 'แคว้น' (region/district) for χώρα. Crossing to a Gentile region is theologically loaded: the first Markan miracle on Gentile soil."
+        },
+        {
+          "greek": "Greek text variant",
+          "thai": "(see notes)",
+          "rationale": "Γερασηνῶν (SBLGNT) vs. Γαδαρηνῶν vs. Γεργεσηνῶν — three text traditions; we follow SBLGNT. Geographic problem flagged in notes."
+        }
       ],
-      "notes": "TEXTUAL VARIANT: Γερασηνῶν (SBLGNT, ℵ*, B, D) — Gerasa is ~50km from the lake, raising the geographic problem of the herd plunging into the sea. Variants Γαδαρηνῶν (Matt 8:28) and Γεργεσηνῶν (Origen's conjecture from Γέργεσα/Kursi on the east shore, where a cliff exists) attempt to resolve this. Following SBLGNT despite the difficulty. SCENE OPENER: Mark's first NT miracle on Gentile territory — the eastern shore of Galilee was Decapolis, populated by Greco-Romans. The pigs (Levitically unclean) and tomb-dwelling man both signal a domain of impurity. Mark structurally pairs this with the storm-stilling (4:35–41): Jesus tames the chaotic sea, then tames chaos in human form."
+      "notes": "TEXTUAL VARIANT: Γερασηνῶν (SBLGNT, ℵ*, B, D) — Gerasa is ~50km from the lake, raising the geographic problem of the herd plunging into the sea. Variants Γαδαρηνῶν (Matt 8:28) and Γεργεσηνῶν (Origen's conjecture from Γέργεσα/Kursi on the east shore, where a cliff exists) attempt to resolve this. Following SBLGNT despite the difficulty. SCENE OPENER: Mark's first NT miracle on Gentile territory — the eastern shore of Galilee was Decapolis, populated by Greco-Romans. The pigs (Levitically unclean) and tomb-dwelling man both signal a domain of impurity. Mark structurally pairs this with the storm-stilling (4:35–41): Jesus tames the chaotic sea, then tames chaos in human form.",
+      "thai_literal": null,
+      "thai_summary": null
     },
     "model": "claude-opus-4-6 (manual)"
   },
@@ -26,11 +44,25 @@
     "translation": {
       "thai": "ทันทีที่พระองค์เสด็จขึ้นจากเรือ ก็มีชายคนหนึ่งซึ่งมีวิญญาณโสโครกสิงอยู่ ออกมาจากอุโมงค์ฝังศพ มาพบพระองค์",
       "key_decisions": [
-        {"greek": "ἐξελθόντος αὐτοῦ ἐκ τοῦ πλοίου (gen. abs.)", "thai": "พระองค์เสด็จขึ้นจากเรือ", "rationale": "Genitive absolute 'when he had gone out of the boat.' Royal 'เสด็จขึ้นจากเรือ' (royal-disembark from boat). Per uW figs-go: 'gone' rather than 'come' from the narrator's perspective on the shore."},
-        {"greek": "εὐθὺς ὑπήντησεν", "thai": "ทันทีที่...ก็มี...ออกมา...มาพบ", "rationale": "Mark's signature εὐθύς. ὑπαντάω = 'come to meet.' Thai 'ทันทีที่' (immediately upon) opens the verse, setting the abrupt pacing typical of Mark."},
-        {"greek": "ἐκ τῶν μνημείων ἄνθρωπος ἐν πνεύματι ἀκαθάρτῳ", "thai": "ชายคนหนึ่งซึ่งมีวิญญาณโสโครกสิงอยู่ ออกมาจากอุโมงค์ฝังศพ", "rationale": "Per uW writing-participants: introducing the demon-possessed man as a new character. 'ชายคนหนึ่ง' (a certain man) — natural Thai narrative introduction. 'อุโมงค์ฝังศพ' (tomb-bury-corpse) for μνημεῖον — chamber tombs cut into limestone hillsides, common around the Sea of Galilee. Tombs = ritually impure, unclean spirits = impure — Mark stacks the impurity markers. 'วิญญาณโสโครก' per glossary; 'สิงอยู่' (possess-stay) makes the possession explicit (Greek ἐν πνεύματι uses bare ἐν 'in/with' but the sense is full possession, as vv.3–5 show)."}
+        {
+          "greek": "ἐξελθόντος αὐτοῦ ἐκ τοῦ πλοίου (gen. abs.)",
+          "thai": "พระองค์เสด็จขึ้นจากเรือ",
+          "rationale": "Genitive absolute 'when he had gone out of the boat.' Royal 'เสด็จขึ้นจากเรือ' (royal-disembark from boat). Per uW figs-go: 'gone' rather than 'come' from the narrator's perspective on the shore."
+        },
+        {
+          "greek": "εὐθὺς ὑπήντησεν",
+          "thai": "ทันทีที่...ก็มี...ออกมา...มาพบ",
+          "rationale": "Mark's signature εὐθύς. ὑπαντάω = 'come to meet.' Thai 'ทันทีที่' (immediately upon) opens the verse, setting the abrupt pacing typical of Mark."
+        },
+        {
+          "greek": "ἐκ τῶν μνημείων ἄνθρωπος ἐν πνεύματι ἀκαθάρτῳ",
+          "thai": "ชายคนหนึ่งซึ่งมีวิญญาณโสโครกสิงอยู่ ออกมาจากอุโมงค์ฝังศพ",
+          "rationale": "Per uW writing-participants: introducing the demon-possessed man as a new character. 'ชายคนหนึ่ง' (a certain man) — natural Thai narrative introduction. 'อุโมงค์ฝังศพ' (tomb-bury-corpse) for μνημεῖον — chamber tombs cut into limestone hillsides, common around the Sea of Galilee. Tombs = ritually impure, unclean spirits = impure — Mark stacks the impurity markers. 'วิญญาณโสโครก' per glossary; 'สิงอยู่' (possess-stay) makes the possession explicit (Greek ἐν πνεύματι uses bare ἐν 'in/with' but the sense is full possession, as vv.3–5 show)."
+        }
       ],
-      "notes": "Triple impurity stack: tombs (corpse-impurity) + Gentile region (Levitically unclean territory) + unclean spirit. The man embodies what 1st-century Jewish purity categories separated. Jesus walks in."
+      "notes": "Triple impurity stack: tombs (corpse-impurity) + Gentile region (Levitically unclean territory) + unclean spirit. The man embodies what 1st-century Jewish purity categories separated. Jesus walks in.",
+      "thai_literal": null,
+      "thai_summary": null
     },
     "model": "claude-opus-4-6 (manual)"
   },
@@ -43,11 +75,25 @@
     "translation": {
       "thai": "ชายคนนั้นอาศัยอยู่ในอุโมงค์ฝังศพ ไม่มีใครสามารถผูกมัดเขาไว้ได้อีกต่อไป แม้ด้วยโซ่ตรวน",
       "key_decisions": [
-        {"greek": "κατοίκησιν (HAPAX)", "thai": "อาศัยอยู่", "rationale": "HAPAX LEGOMENON in NT: κατοίκησις = 'dwelling-place / habitation' (only here). Cognate κατοικέω (verb 'dwell') is common; Mark uses the rarer noun-form. LXX uses κατοίκησις for Israel's settled dwelling (Num 15:2; 1 Sam 27:5). Here the irony: the man's 'dwelling-place' is among the dead. Thai uses verbal form 'อาศัยอยู่' (reside-stay) — the abstract noun would be unnatural in Thai prose. 'อุโมงค์ฝังศพ' consistent with v.2."},
-        {"greek": "οὐδὲ ἁλύσει οὐκέτι οὐδεὶς ἐδύνατο", "thai": "ไม่มีใครสามารถ...ได้อีกต่อไป แม้ด้วย", "rationale": "Per uW figs-doublenegatives: triple negation οὐδέ + οὐκέτι + οὐδεὶς for emphatic intensification (not a Greek logical-positive). Per uW figs-explicit: implies prior failed attempts. Thai uses single strong negation 'ไม่มีใคร...ได้อีกต่อไป' (no one...can...anymore) + 'แม้ด้วย' (even with) preserves the climactic 'not even with chains' force. Background-information construction (uW writing-background) for vv.3–5 — Thai narrative naturally accommodates this."},
-        {"greek": "ἁλύσει (chains)", "thai": "โซ่ตรวน", "rationale": "ἅλυσις = chain. Per uW translate-unknown: long flexible metal-link binding. Thai 'โซ่' (chain) standard; 'โซ่ตรวน' (chain-shackle) hendiadys captures the binding-implement category. Anticipates v.4's compound πέδαι + ἁλύσεις."}
+        {
+          "greek": "κατοίκησιν (HAPAX)",
+          "thai": "อาศัยอยู่",
+          "rationale": "HAPAX LEGOMENON in NT: κατοίκησις = 'dwelling-place / habitation' (only here). Cognate κατοικέω (verb 'dwell') is common; Mark uses the rarer noun-form. LXX uses κατοίκησις for Israel's settled dwelling (Num 15:2; 1 Sam 27:5). Here the irony: the man's 'dwelling-place' is among the dead. Thai uses verbal form 'อาศัยอยู่' (reside-stay) — the abstract noun would be unnatural in Thai prose. 'อุโมงค์ฝังศพ' consistent with v.2."
+        },
+        {
+          "greek": "οὐδὲ ἁλύσει οὐκέτι οὐδεὶς ἐδύνατο",
+          "thai": "ไม่มีใครสามารถ...ได้อีกต่อไป แม้ด้วย",
+          "rationale": "Per uW figs-doublenegatives: triple negation οὐδέ + οὐκέτι + οὐδεὶς for emphatic intensification (not a Greek logical-positive). Per uW figs-explicit: implies prior failed attempts. Thai uses single strong negation 'ไม่มีใคร...ได้อีกต่อไป' (no one...can...anymore) + 'แม้ด้วย' (even with) preserves the climactic 'not even with chains' force. Background-information construction (uW writing-background) for vv.3–5 — Thai narrative naturally accommodates this."
+        },
+        {
+          "greek": "ἁλύσει (chains)",
+          "thai": "โซ่ตรวน",
+          "rationale": "ἅλυσις = chain. Per uW translate-unknown: long flexible metal-link binding. Thai 'โซ่' (chain) standard; 'โซ่ตรวน' (chain-shackle) hendiadys captures the binding-implement category. Anticipates v.4's compound πέδαι + ἁλύσεις."
+        }
       ],
-      "notes": "HAPAX: κατοίκησις (dwelling) — Mark's only NT use. Begins three verses of background description (vv.3–5) about the man's prior condition. The fact that no chain could bind him introduces both his superhuman strength AND his utter isolation — abandoned by community and beyond their power to manage."
+      "notes": "HAPAX: κατοίκησις (dwelling) — Mark's only NT use. Begins three verses of background description (vv.3–5) about the man's prior condition. The fact that no chain could bind him introduces both his superhuman strength AND his utter isolation — abandoned by community and beyond their power to manage.",
+      "thai_literal": null,
+      "thai_summary": null
     },
     "model": "claude-opus-4-6 (manual)"
   },
@@ -60,12 +106,30 @@
     "translation": {
       "thai": "เพราะหลายครั้งที่เขาถูกผูกมัดด้วยตรวนและโซ่ แต่เขาก็กระชากโซ่ขาดและทำลายตรวนแหลกหมด ไม่มีใครมีกำลังพอจะปราบเขาได้",
       "key_decisions": [
-        {"greek": "διὰ τὸ...δεδέσθαι...συντετρῖφθαι (artic. inf. perf.)", "thai": "เพราะหลายครั้งที่เขาถูกผูกมัด...แต่เขาก็กระชาก...และทำลาย...แหลกหมด", "rationale": "Causal articular infinitive with three perfect-tense actions stacking: 'because of having-been-bound...having-been-torn-apart...having-been-shattered.' Per uW grammar-connect-words-phrases v.4: the second καί is contrastive ('but'). Thai chain 'เพราะ...แต่...และ' preserves the causal-contrastive logic. Per uW figs-activepassive: passive διεσπάσθαι/συντετρῖφθαι (chains 'were torn by him') rendered actively in Thai 'เขากระชาก...และทำลาย' (he tore...and shattered) for naturalness."},
-        {"greek": "πέδαις (shackles)", "thai": "ตรวน", "rationale": "Per uW translate-unknown: πέδη = leg-irons/foot-shackles (Latin compes), distinct from hand-chains. Thai 'ตรวน' (foot-shackle) standard; 'โซ่' (chain) for ἁλύσεις. Word-pair preserves the Greek's two-element binding apparatus."},
-        {"greek": "συντετρῖφθαι (perf. pass.)", "thai": "ทำลาย...แหลกหมด", "rationale": "συντρίβω = 'shatter, smash' (συν- intensive). Perfect passive 'have-been-shattered.' Thai 'แหลกหมด' (utterly-broken-completely) captures the σύν- intensive plus perfective force. Stronger than διασπάω 'tear apart' (chains) — appropriate to the harder iron of leg-shackles."},
-        {"greek": "δαμάσαι (aor. inf.)", "thai": "ปราบ", "rationale": "δαμάζω = 'tame, subdue, master' (cognate Latin domāre — used of breaking horses, taming wild beasts). Thai 'ปราบ' (subdue/conquer) — the verb suggests this was no ordinary criminal but a wildly uncontrolled force, requiring 'taming' rather than 'arresting.'"}
+        {
+          "greek": "διὰ τὸ...δεδέσθαι...συντετρῖφθαι (artic. inf. perf.)",
+          "thai": "เพราะหลายครั้งที่เขาถูกผูกมัด...แต่เขาก็กระชาก...และทำลาย...แหลกหมด",
+          "rationale": "Causal articular infinitive with three perfect-tense actions stacking: 'because of having-been-bound...having-been-torn-apart...having-been-shattered.' Per uW grammar-connect-words-phrases v.4: the second καί is contrastive ('but'). Thai chain 'เพราะ...แต่...และ' preserves the causal-contrastive logic. Per uW figs-activepassive: passive διεσπάσθαι/συντετρῖφθαι (chains 'were torn by him') rendered actively in Thai 'เขากระชาก...และทำลาย' (he tore...and shattered) for naturalness."
+        },
+        {
+          "greek": "πέδαις (shackles)",
+          "thai": "ตรวน",
+          "rationale": "Per uW translate-unknown: πέδη = leg-irons/foot-shackles (Latin compes), distinct from hand-chains. Thai 'ตรวน' (foot-shackle) standard; 'โซ่' (chain) for ἁλύσεις. Word-pair preserves the Greek's two-element binding apparatus."
+        },
+        {
+          "greek": "συντετρῖφθαι (perf. pass.)",
+          "thai": "ทำลาย...แหลกหมด",
+          "rationale": "συντρίβω = 'shatter, smash' (συν- intensive). Perfect passive 'have-been-shattered.' Thai 'แหลกหมด' (utterly-broken-completely) captures the σύν- intensive plus perfective force. Stronger than διασπάω 'tear apart' (chains) — appropriate to the harder iron of leg-shackles."
+        },
+        {
+          "greek": "δαμάσαι (aor. inf.)",
+          "thai": "ปราบ",
+          "rationale": "δαμάζω = 'tame, subdue, master' (cognate Latin domāre — used of breaking horses, taming wild beasts). Thai 'ปราบ' (subdue/conquer) — the verb suggests this was no ordinary criminal but a wildly uncontrolled force, requiring 'taming' rather than 'arresting.'"
+        }
       ],
-      "notes": "Background continues. The vocabulary (δαμάσαι 'to tame') frames the man as wild-beast-like — but δαμάζω in Jas 3:7–8 is also used for the untamable tongue, and only God can tame what humans cannot. Mark sets up that what no chains, no community force can bind — Jesus' word will."
+      "notes": "Background continues. The vocabulary (δαμάσαι 'to tame') frames the man as wild-beast-like — but δαμάζω in Jas 3:7–8 is also used for the untamable tongue, and only God can tame what humans cannot. Mark sets up that what no chains, no community force can bind — Jesus' word will.",
+      "thai_literal": null,
+      "thai_summary": null
     },
     "model": "claude-opus-4-6 (manual)"
   },
@@ -78,11 +142,25 @@
     "translation": {
       "thai": "ทั้งคืนทั้งวันเขาอยู่ในอุโมงค์ฝังศพและบนภูเขา ร้องตะโกนและเอาหินกรีดเนื้อตัวเอง",
       "key_decisions": [
-        {"greek": "διὰ παντὸς νυκτὸς καὶ ἡμέρας", "thai": "ทั้งคืนทั้งวัน", "rationale": "Per uW figs-idiom: 'throughout every night and day' = continuously, all the time. Thai 'ทั้งคืนทั้งวัน' (whole-night-whole-day) idiomatic for continual activity. Note Greek order night-then-day (Jewish reckoning)."},
-        {"greek": "ἦν κράζων καὶ κατακόπτων (periphr. impf.)", "thai": "ร้องตะโกนและเอาหินกรีดเนื้อตัวเอง", "rationale": "Periphrastic imperfect: εἰμί + present participle = ongoing/habitual action. Thai's natural continuous frame ('ทั้งคืนทั้งวัน...อยู่...ร้อง...กรีด') captures the durative force without needing 'กำลัง.' The man's habitual condition."},
-        {"greek": "κατακόπτων (HAPAX)", "thai": "เอาหินกรีดเนื้อตัวเอง", "rationale": "HAPAX LEGOMENON in NT: κατακόπτω = 'cut down, cut to pieces' (κατά intensive + κόπτω). LXX uses for striking/cutting flesh in pagan ritual mourning (1 Kgs 18:28 — Baal prophets gashing themselves). Mark may evoke that pagan-cultic background here in Gentile territory. Thai 'กรีด' (slash/score) + 'เนื้อตัวเอง' (own flesh) — 'กรีด' is the Thai verb for sustained cutting/scoring (knife on flesh, fingernail on screen). Made explicit 'เนื้อ' (flesh/body) — Greek λίθοις ('with stones') instrumental dative shifted to natural Thai construction 'เอาหิน...กรีด' (take stones...slash)."}
+        {
+          "greek": "διὰ παντὸς νυκτὸς καὶ ἡμέρας",
+          "thai": "ทั้งคืนทั้งวัน",
+          "rationale": "Per uW figs-idiom: 'throughout every night and day' = continuously, all the time. Thai 'ทั้งคืนทั้งวัน' (whole-night-whole-day) idiomatic for continual activity. Note Greek order night-then-day (Jewish reckoning)."
+        },
+        {
+          "greek": "ἦν κράζων καὶ κατακόπτων (periphr. impf.)",
+          "thai": "ร้องตะโกนและเอาหินกรีดเนื้อตัวเอง",
+          "rationale": "Periphrastic imperfect: εἰμί + present participle = ongoing/habitual action. Thai's natural continuous frame ('ทั้งคืนทั้งวัน...อยู่...ร้อง...กรีด') captures the durative force without needing 'กำลัง.' The man's habitual condition."
+        },
+        {
+          "greek": "κατακόπτων (HAPAX)",
+          "thai": "เอาหินกรีดเนื้อตัวเอง",
+          "rationale": "HAPAX LEGOMENON in NT: κατακόπτω = 'cut down, cut to pieces' (κατά intensive + κόπτω). LXX uses for striking/cutting flesh in pagan ritual mourning (1 Kgs 18:28 — Baal prophets gashing themselves). Mark may evoke that pagan-cultic background here in Gentile territory. Thai 'กรีด' (slash/score) + 'เนื้อตัวเอง' (own flesh) — 'กรีด' is the Thai verb for sustained cutting/scoring (knife on flesh, fingernail on screen). Made explicit 'เนื้อ' (flesh/body) — Greek λίθοις ('with stones') instrumental dative shifted to natural Thai construction 'เอาหิน...กรีด' (take stones...slash)."
+        }
       ],
-      "notes": "HAPAX: κατακόπτω (self-laceration). The pagan-mourning resonance of LXX 1 Kgs 18:28 may be deliberate — the man enacts a cult of self-destruction in a tomb-temple. Three signs of his condition: place (tombs/mountains = wild, isolated, dead), action (crying out — primal sound), self-violence (cutting). The total picture: a man whose own body is the site of the demonic war."
+      "notes": "HAPAX: κατακόπτω (self-laceration). The pagan-mourning resonance of LXX 1 Kgs 18:28 may be deliberate — the man enacts a cult of self-destruction in a tomb-temple. Three signs of his condition: place (tombs/mountains = wild, isolated, dead), action (crying out — primal sound), self-violence (cutting). The total picture: a man whose own body is the site of the demonic war.",
+      "thai_literal": null,
+      "thai_summary": null
     },
     "model": "claude-opus-4-6 (manual)"
   },
@@ -95,11 +173,25 @@
     "translation": {
       "thai": "เมื่อเขาเห็นพระเยซูแต่ไกล เขาก็วิ่งเข้ามาก้มกราบลงเฉพาะพระพักตร์",
       "key_decisions": [
-        {"greek": "ἰδὼν τὸν Ἰησοῦν ἀπὸ μακρόθεν", "thai": "เมื่อเขาเห็นพระเยซูแต่ไกล", "rationale": "Per uW figs-explicit: this resumes the foreground after vv.3–5 background. Thai 'เมื่อ...แต่ไกล' (when...from afar) preserves the spatial-temporal setup. The narrator's camera switches back to live action."},
-        {"greek": "ἔδραμεν (aor. of τρέχω)", "thai": "วิ่งเข้ามา", "rationale": "τρέχω = run. Thai 'วิ่งเข้ามา' (run-come-toward) directional, capturing the demoniac's paradoxical rush toward Jesus."},
-        {"greek": "προσεκύνησεν αὐτόν", "thai": "ก้มกราบลงเฉพาะพระพักตร์", "rationale": "Per uW translate-symaction: προσκυνέω = bow down/prostrate (lit. 'kiss toward'). In secular use it can mean either reverent worship or simple prostration before a superior. Here ambiguous: the demon recognizes Jesus' superior power but the act is hostile, not worshipful (cf. v.7's defiance). Thai 'ก้มกราบลง' (bow-prostrate-down) preserves the physical action; 'เฉพาะพระพักตร์' (in the royal-presence-of) preserves the royal register for Jesus' presence — even the hostile demon must use this register before divine presence."}
+        {
+          "greek": "ἰδὼν τὸν Ἰησοῦν ἀπὸ μακρόθεν",
+          "thai": "เมื่อเขาเห็นพระเยซูแต่ไกล",
+          "rationale": "Per uW figs-explicit: this resumes the foreground after vv.3–5 background. Thai 'เมื่อ...แต่ไกล' (when...from afar) preserves the spatial-temporal setup. The narrator's camera switches back to live action."
+        },
+        {
+          "greek": "ἔδραμεν (aor. of τρέχω)",
+          "thai": "วิ่งเข้ามา",
+          "rationale": "τρέχω = run. Thai 'วิ่งเข้ามา' (run-come-toward) directional, capturing the demoniac's paradoxical rush toward Jesus."
+        },
+        {
+          "greek": "προσεκύνησεν αὐτόν",
+          "thai": "ก้มกราบลงเฉพาะพระพักตร์",
+          "rationale": "Per uW translate-symaction: προσκυνέω = bow down/prostrate (lit. 'kiss toward'). In secular use it can mean either reverent worship or simple prostration before a superior. Here ambiguous: the demon recognizes Jesus' superior power but the act is hostile, not worshipful (cf. v.7's defiance). Thai 'ก้มกราบลง' (bow-prostrate-down) preserves the physical action; 'เฉพาะพระพักตร์' (in the royal-presence-of) preserves the royal register for Jesus' presence — even the hostile demon must use this register before divine presence."
+        }
       ],
-      "notes": "PARADOX: the demon-possessed man runs to Jesus. Mark juxtaposes the man's wild flight (vv.3–5) with sudden recognition. The demon knows what the townspeople and disciples don't — Jesus' identity. προσκυνέω here is involuntary submission of an inferior power, not worship."
+      "notes": "PARADOX: the demon-possessed man runs to Jesus. Mark juxtaposes the man's wild flight (vv.3–5) with sudden recognition. The demon knows what the townspeople and disciples don't — Jesus' identity. προσκυνέω here is involuntary submission of an inferior power, not worship.",
+      "thai_literal": null,
+      "thai_summary": null
     },
     "model": "claude-opus-4-6 (manual)"
   },
@@ -112,14 +204,40 @@
     "translation": {
       "thai": "เขาตะโกนด้วยเสียงอันดังว่า 'เรื่องอะไรระหว่างข้ากับท่าน พระเยซู พระบุตรของพระเจ้าผู้สูงสุด? ข้าขอสาบานต่อท่านในนามพระเจ้าว่า อย่าทรมานข้าเลย!'",
       "key_decisions": [
-        {"greek": "κράξας φωνῇ μεγάλῃ", "thai": "ตะโกนด้วยเสียงอันดัง", "rationale": "Per uW figs-idiom: 'crying out with a loud voice' = yelled loudly. Thai 'ตะโกนด้วยเสียงอันดัง' (shout-with voice loud) standard biblical phrasing. Same construction recurs at 5:7, 15:34, 15:37."},
-        {"greek": "Τί ἐμοὶ καὶ σοί (Hebraism)", "thai": "เรื่องอะไรระหว่างข้ากับท่าน", "rationale": "HEBRAISM (LXX): mah-li-walak (cf. Judg 11:12; 2 Sam 16:10; 1 Kgs 17:18; Mark 1:24). Per uW figs-rquestion + figs-idiom: a defensive challenge — 'what business do you have with me?' / 'why are you involving yourself with me?' Thai 'เรื่องอะไรระหว่างข้ากับท่าน' (what-matter between-I-and-you) preserves the idiomatic ring. Demon to Jesus uses 'ข้า' (humble-direct, distancing) and 'ท่าน' (respectful but cold) — same register as Mark 1:24 per glossary precedent."},
-        {"greek": "Ἰησοῦ υἱὲ τοῦ θεοῦ τοῦ ὑψίστου", "thai": "พระเยซู พระบุตรของพระเจ้าผู้สูงสุด", "rationale": "Per uW guidelines-sonofgodprinciples: 'Son of the Most High God' is a divine-relational title. ὕψιστος = 'Most High' (LXX equivalent of Hebrew Elyon, an ancient divine name — cf. Gen 14:18–22 with Melchizedek). The demon names Jesus more accurately than humans yet in this text — knowledge without submission. Thai 'พระบุตรของพระเจ้าผู้สูงสุด' (Holy-Son-of-God-the-Most-High). Note: even as the demon resists, Mark requires the name 'พระเยซู' to retain its 'พระ' honorific — the narrator's text honors Jesus throughout, even in demonic speech."},
-        {"greek": "ὁρκίζω σε τὸν θεόν", "thai": "ข้าขอสาบานต่อท่านในนามพระเจ้า", "rationale": "Per uW writing-oathformula: ὁρκίζω + double accusative 'I adjure you by God.' The demon attempts to put Jesus under oath — a manipulative reversal (a demon invoking God against God's Son). Thai 'ข้าขอสาบานต่อท่านในนามพระเจ้า' (I-pledge-oath to-you in-name-of-God) preserves the formal oath-formula. The demon uses standard religious speech-formulas as a defensive tactic."},
-        {"greek": "μή με βασανίσῃς (aor. subj. proh.)", "thai": "อย่าทรมานข้าเลย", "rationale": "βασανίζω = 'torment, torture' (originally 'to test by touchstone'). NT-significant verb for eschatological judgment (Rev 14:10, 20:10; cf. Matt 8:29 par. — 'before the appointed time'). Thai 'อย่าทรมาน' (don't torment) direct prohibition; 'เลย' (at all/please) softens to plea. The demon recognizes Jesus' authority to judge and pleads for delay."},
-        {"greek": "Speaker: unclean spirit to Jesus", "thai": "ข้า...ท่าน", "rationale": "Per glossary precedent (Mark 1:24): demon addresses Jesus with hostile/distancing register. 'ข้า' (humble-direct, fits a lower adversary forced to acknowledge superior) + 'ท่าน' (respectful but kept at arm's length — not the worshipful 'พระองค์' that humans use). Avoids ราชาศัพท์."}
+        {
+          "greek": "κράξας φωνῇ μεγάλῃ",
+          "thai": "ตะโกนด้วยเสียงอันดัง",
+          "rationale": "Per uW figs-idiom: 'crying out with a loud voice' = yelled loudly. Thai 'ตะโกนด้วยเสียงอันดัง' (shout-with voice loud) standard biblical phrasing. Same construction recurs at 5:7, 15:34, 15:37."
+        },
+        {
+          "greek": "Τί ἐμοὶ καὶ σοί (Hebraism)",
+          "thai": "เรื่องอะไรระหว่างข้ากับท่าน",
+          "rationale": "HEBRAISM (LXX): mah-li-walak (cf. Judg 11:12; 2 Sam 16:10; 1 Kgs 17:18; Mark 1:24). Per uW figs-rquestion + figs-idiom: a defensive challenge — 'what business do you have with me?' / 'why are you involving yourself with me?' Thai 'เรื่องอะไรระหว่างข้ากับท่าน' (what-matter between-I-and-you) preserves the idiomatic ring. Demon to Jesus uses 'ข้า' (humble-direct, distancing) and 'ท่าน' (respectful but cold) — same register as Mark 1:24 per glossary precedent."
+        },
+        {
+          "greek": "Ἰησοῦ υἱὲ τοῦ θεοῦ τοῦ ὑψίστου",
+          "thai": "พระเยซู พระบุตรของพระเจ้าผู้สูงสุด",
+          "rationale": "Per uW guidelines-sonofgodprinciples: 'Son of the Most High God' is a divine-relational title. ὕψιστος = 'Most High' (LXX equivalent of Hebrew Elyon, an ancient divine name — cf. Gen 14:18–22 with Melchizedek). The demon names Jesus more accurately than humans yet in this text — knowledge without submission. Thai 'พระบุตรของพระเจ้าผู้สูงสุด' (Holy-Son-of-God-the-Most-High). Note: even as the demon resists, Mark requires the name 'พระเยซู' to retain its 'พระ' honorific — the narrator's text honors Jesus throughout, even in demonic speech."
+        },
+        {
+          "greek": "ὁρκίζω σε τὸν θεόν",
+          "thai": "ข้าขอสาบานต่อท่านในนามพระเจ้า",
+          "rationale": "Per uW writing-oathformula: ὁρκίζω + double accusative 'I adjure you by God.' The demon attempts to put Jesus under oath — a manipulative reversal (a demon invoking God against God's Son). Thai 'ข้าขอสาบานต่อท่านในนามพระเจ้า' (I-pledge-oath to-you in-name-of-God) preserves the formal oath-formula. The demon uses standard religious speech-formulas as a defensive tactic."
+        },
+        {
+          "greek": "μή με βασανίσῃς (aor. subj. proh.)",
+          "thai": "อย่าทรมานข้าเลย",
+          "rationale": "βασανίζω = 'torment, torture' (originally 'to test by touchstone'). NT-significant verb for eschatological judgment (Rev 14:10, 20:10; cf. Matt 8:29 par. — 'before the appointed time'). Thai 'อย่าทรมาน' (don't torment) direct prohibition; 'เลย' (at all/please) softens to plea. The demon recognizes Jesus' authority to judge and pleads for delay."
+        },
+        {
+          "greek": "Speaker: unclean spirit to Jesus",
+          "thai": "ข้า...ท่าน",
+          "rationale": "Per glossary precedent (Mark 1:24): demon addresses Jesus with hostile/distancing register. 'ข้า' (humble-direct, fits a lower adversary forced to acknowledge superior) + 'ท่าน' (respectful but kept at arm's length — not the worshipful 'พระองค์' that humans use). Avoids ราชาศัพท์."
+        }
       ],
-      "notes": "HEBRAISM: 'What to me and to you' (mah-li-walak) — defensive challenge. ESCHATOLOGICAL VOCABULARY: βασανίζω is the language of final judgment; the parallel in Matt 8:29 spells this out ('before the appointed time'). The demon knows the eschaton is upon him in Jesus' presence. THEOLOGICAL CRUX: a demon utters a Christological confession — but knowledge alone is not salvation (cf. Jas 2:19). REGISTER: Demon to Jesus = ข้า/ท่าน, refusing the worshipful พระองค์/ข้าพระองค์ used by faithful humans (Mark 1:40 leper)."
+      "notes": "HEBRAISM: 'What to me and to you' (mah-li-walak) — defensive challenge. ESCHATOLOGICAL VOCABULARY: βασανίζω is the language of final judgment; the parallel in Matt 8:29 spells this out ('before the appointed time'). The demon knows the eschaton is upon him in Jesus' presence. THEOLOGICAL CRUX: a demon utters a Christological confession — but knowledge alone is not salvation (cf. Jas 2:19). REGISTER: Demon to Jesus = ข้า/ท่าน, refusing the worshipful พระองค์/ข้าพระองค์ used by faithful humans (Mark 1:40 leper).",
+      "thai_literal": null,
+      "thai_summary": null
     },
     "model": "claude-opus-4-6 (manual)"
   },
@@ -132,11 +250,25 @@
     "translation": {
       "thai": "เพราะพระองค์ได้ตรัสกับมันว่า 'จงออกมาจากชายคนนี้ เจ้าวิญญาณโสโครก!'",
       "key_decisions": [
-        {"greek": "ἔλεγεν γὰρ (impf. + γάρ)", "thai": "เพราะพระองค์ได้ตรัสกับมัน", "rationale": "Per uW grammar-connect-logic-result: γάρ supplies the explanation for the demon's outburst in v.7 — Jesus had been commanding the spirit to leave. Imperfect tense suggests sustained / repeated command (or anterior-to-the-cry). Thai 'เพราะ...ได้ตรัส' (because...had-spoken) flashback frame. Royal 'ตรัส' for Jesus."},
-        {"greek": "Ἔξελθε...ἐκ τοῦ ἀνθρώπου (aor. impv.)", "thai": "จงออกมาจากชายคนนี้", "rationale": "Standard exorcism command. Thai 'จงออกมา' (imperative-go-out-toward) preserves the imperative force. 'ชายคนนี้' (this man) makes ἀνθρώπου specific — note Jesus addresses the spirit BUT speaks of the man as a person, distinguishing them."},
-        {"greek": "τὸ πνεῦμα τὸ ἀκάθαρτον (vocative-style nom.)", "thai": "เจ้าวิญญาณโสโครก", "rationale": "Vocative-style nominative addressing the spirit directly. Thai 'เจ้า' (intimate-direct, marking superior addressing inferior) + 'วิญญาณโสโครก' per glossary. Jesus' register: divine authority addressing demonic adversary — uses 'เจ้า' (the imperious 'you'), refusing any honorific. Parallel to Mark 1:25 ('φιμώθητι').\""}
+        {
+          "greek": "ἔλεγεν γὰρ (impf. + γάρ)",
+          "thai": "เพราะพระองค์ได้ตรัสกับมัน",
+          "rationale": "Per uW grammar-connect-logic-result: γάρ supplies the explanation for the demon's outburst in v.7 — Jesus had been commanding the spirit to leave. Imperfect tense suggests sustained / repeated command (or anterior-to-the-cry). Thai 'เพราะ...ได้ตรัส' (because...had-spoken) flashback frame. Royal 'ตรัส' for Jesus."
+        },
+        {
+          "greek": "Ἔξελθε...ἐκ τοῦ ἀνθρώπου (aor. impv.)",
+          "thai": "จงออกมาจากชายคนนี้",
+          "rationale": "Standard exorcism command. Thai 'จงออกมา' (imperative-go-out-toward) preserves the imperative force. 'ชายคนนี้' (this man) makes ἀνθρώπου specific — note Jesus addresses the spirit BUT speaks of the man as a person, distinguishing them."
+        },
+        {
+          "greek": "τὸ πνεῦμα τὸ ἀκάθαρτον (vocative-style nom.)",
+          "thai": "เจ้าวิญญาณโสโครก",
+          "rationale": "Vocative-style nominative addressing the spirit directly. Thai 'เจ้า' (intimate-direct, marking superior addressing inferior) + 'วิญญาณโสโครก' per glossary. Jesus' register: divine authority addressing demonic adversary — uses 'เจ้า' (the imperious 'you'), refusing any honorific. Parallel to Mark 1:25 ('φιμώθητι').\""
+        }
       ],
-      "notes": "Mark interrupts the demon's speech to give the back-story: Jesus had already issued the command before the demon's outburst. This explains the demon's defensive posture in v.7 — it is responding to an authoritative dispossession order. Notable: Jesus addresses 'the unclean spirit' as a separate entity from 'the man' — distinguishing victim from possessor. The exorcism formula matches Mark 1:25."
+      "notes": "Mark interrupts the demon's speech to give the back-story: Jesus had already issued the command before the demon's outburst. This explains the demon's defensive posture in v.7 — it is responding to an authoritative dispossession order. Notable: Jesus addresses 'the unclean spirit' as a separate entity from 'the man' — distinguishing victim from possessor. The exorcism formula matches Mark 1:25.",
+      "thai_literal": null,
+      "thai_summary": null
     },
     "model": "claude-opus-4-6 (manual)"
   },
@@ -149,12 +281,30 @@
     "translation": {
       "thai": "พระองค์ตรัสถามมันว่า 'เจ้าชื่ออะไร?' มันทูลตอบว่า 'ข้าชื่อเลกิโอน เพราะพวกข้ามีจำนวนมาก'",
       "key_decisions": [
-        {"greek": "ἐπηρώτα (impf.)", "thai": "ตรัสถาม", "rationale": "Imperfect — perhaps repeated questioning or narrative-progressive. Thai royal 'ตรัสถาม' (royal-ask). Jesus asks a name as part of the exorcism — name = identity = the handle by which a power is engaged."},
-        {"greek": "λέγει αὐτῷ (hist. pres.)", "thai": "มันทูลตอบ", "rationale": "Historic present (per uW v.9). 'ทูล' is the deferential speech-verb a subordinate uses when addressing a superior — here ironic: the demon must answer with the verbal form of submission even as it resists. The demon's answer is forced, not free."},
-        {"greek": "Λεγιὼν ὄνομά μοι (Latin loanword)", "thai": "ข้าชื่อเลกิโอน", "rationale": "Per uW translate-names: λεγιών (Latin legio) = a Roman legion, ~6,000 soldiers. Thai 'เลกิโอน' (transliteration; standard in Thai Christian Bible tradition). Per uW alternative ('Army', 'Battalion'): we keep the transliteration because (a) it preserves the proper-name function the text gives it, (b) Thai readers familiar with Roman-era vocabulary recognize 'เลกิโอน,' (c) the Latin loanword in a Greek text is itself a feature — Mark preserves the foreign military term, evoking Roman occupation. POLITICAL RESONANCE: the demonic legion in pig-form drowning in the sea may have echoed for early readers as occupation-imagery (cf. Pharaoh's army at the Red Sea)."},
-        {"greek": "ὅτι πολλοί ἐσμεν", "thai": "เพราะพวกข้ามีจำนวนมาก", "rationale": "Per uW grammar-connect-logic-result + figs-explicit: shift from singular 'my' to plural 'we' — multiple demons speaking through one mouth. Thai 'พวกข้า' (plural humble-self) preserves this number-shift; 'มีจำนวนมาก' (have great-number) for πολλοί. Crucial setup for vv.10–13."}
+        {
+          "greek": "ἐπηρώτα (impf.)",
+          "thai": "ตรัสถาม",
+          "rationale": "Imperfect — perhaps repeated questioning or narrative-progressive. Thai royal 'ตรัสถาม' (royal-ask). Jesus asks a name as part of the exorcism — name = identity = the handle by which a power is engaged."
+        },
+        {
+          "greek": "λέγει αὐτῷ (hist. pres.)",
+          "thai": "มันทูลตอบ",
+          "rationale": "Historic present (per uW v.9). 'ทูล' is the deferential speech-verb a subordinate uses when addressing a superior — here ironic: the demon must answer with the verbal form of submission even as it resists. The demon's answer is forced, not free."
+        },
+        {
+          "greek": "Λεγιὼν ὄνομά μοι (Latin loanword)",
+          "thai": "ข้าชื่อเลกิโอน",
+          "rationale": "Per uW translate-names: λεγιών (Latin legio) = a Roman legion, ~6,000 soldiers. Thai 'เลกิโอน' (transliteration; standard in Thai Christian Bible tradition). Per uW alternative ('Army', 'Battalion'): we keep the transliteration because (a) it preserves the proper-name function the text gives it, (b) Thai readers familiar with Roman-era vocabulary recognize 'เลกิโอน,' (c) the Latin loanword in a Greek text is itself a feature — Mark preserves the foreign military term, evoking Roman occupation. POLITICAL RESONANCE: the demonic legion in pig-form drowning in the sea may have echoed for early readers as occupation-imagery (cf. Pharaoh's army at the Red Sea)."
+        },
+        {
+          "greek": "ὅτι πολλοί ἐσμεν",
+          "thai": "เพราะพวกข้ามีจำนวนมาก",
+          "rationale": "Per uW grammar-connect-logic-result + figs-explicit: shift from singular 'my' to plural 'we' — multiple demons speaking through one mouth. Thai 'พวกข้า' (plural humble-self) preserves this number-shift; 'มีจำนวนมาก' (have great-number) for πολλοί. Crucial setup for vv.10–13."
+        }
       ],
-      "notes": "NUMBER SHIFT: μοι (sg.) → ἐσμεν (pl.). The demon-speech alternates singular/plural throughout vv.6–13 because the legion speaks corporately through one mouth. Per uW chapter intro on 'How to refer to the demons' — Mark deliberately keeps this fluid. ROMAN ECHO: λεγιών = Roman military unit. The Decapolis was Roman-occupied; the legion-imagery may have political-spiritual overtones for first readers. The unclean spirits drowning in the sea via unclean pigs is Mark's cosmic-political tableau: occupying-force destroyed in waters — Exodus typology."
+      "notes": "NUMBER SHIFT: μοι (sg.) → ἐσμεν (pl.). The demon-speech alternates singular/plural throughout vv.6–13 because the legion speaks corporately through one mouth. Per uW chapter intro on 'How to refer to the demons' — Mark deliberately keeps this fluid. ROMAN ECHO: λεγιών = Roman military unit. The Decapolis was Roman-occupied; the legion-imagery may have political-spiritual overtones for first readers. The unclean spirits drowning in the sea via unclean pigs is Mark's cosmic-political tableau: occupying-force destroyed in waters — Exodus typology.",
+      "thai_literal": null,
+      "thai_summary": null
     },
     "model": "claude-opus-4-6 (manual)"
   },
@@ -167,10 +317,20 @@
     "translation": {
       "thai": "มันวิงวอนพระองค์อย่างยิ่ง อย่าทรงขับพวกมันออกไปจากแคว้นนั้น",
       "key_decisions": [
-        {"greek": "παρεκάλει (impf.)...πολλὰ", "thai": "วิงวอน...อย่างยิ่ง", "rationale": "παρακαλέω 'urge, beg, entreat' — imperfect indicates sustained begging. πολλά = adverbial 'much, repeatedly.' Thai 'วิงวอน' (entreat/plead) standard Thai for desperate request; 'อย่างยิ่ง' (very much / earnestly) preserves the intensifier."},
-        {"greek": "ἀποστείλῃ ἔξω τῆς χώρας (aor. subj.)", "thai": "ทรงขับพวกมันออกไปจากแคว้นนั้น", "rationale": "ἀποστέλλω = 'send away, send out.' The demons want to stay local — perhaps because exile to ἄβυσσος (the abyss; cf. Luke 8:31) is the dreaded alternative, or because they're territorial spirits. Royal 'ทรงขับ' (royal-cast-out) for Jesus' action; 'พวกมัน' (them, plural) consistent with v.9's number-shift. 'แคว้น' for χώρα consistent with v.1."}
+        {
+          "greek": "παρεκάλει (impf.)...πολλὰ",
+          "thai": "วิงวอน...อย่างยิ่ง",
+          "rationale": "παρακαλέω 'urge, beg, entreat' — imperfect indicates sustained begging. πολλά = adverbial 'much, repeatedly.' Thai 'วิงวอน' (entreat/plead) standard Thai for desperate request; 'อย่างยิ่ง' (very much / earnestly) preserves the intensifier."
+        },
+        {
+          "greek": "ἀποστείλῃ ἔξω τῆς χώρας (aor. subj.)",
+          "thai": "ทรงขับพวกมันออกไปจากแคว้นนั้น",
+          "rationale": "ἀποστέλλω = 'send away, send out.' The demons want to stay local — perhaps because exile to ἄβυσσος (the abyss; cf. Luke 8:31) is the dreaded alternative, or because they're territorial spirits. Royal 'ทรงขับ' (royal-cast-out) for Jesus' action; 'พวกมัน' (them, plural) consistent with v.9's number-shift. 'แคว้น' for χώρα consistent with v.1."
+        }
       ],
-      "notes": "Per uW figs-quotations alternative: could be rendered as direct quotation. We keep indirect to match the Greek's grammatical form. The demons' attachment to 'this region' is theologically interesting — pre-modern cosmologies often associated specific spirits with specific places (Deut 32:8 LXX). Their preference is to remain in Decapolis (Gentile) rather than be exiled."
+      "notes": "Per uW figs-quotations alternative: could be rendered as direct quotation. We keep indirect to match the Greek's grammatical form. The demons' attachment to 'this region' is theologically interesting — pre-modern cosmologies often associated specific spirits with specific places (Deut 32:8 LXX). Their preference is to remain in Decapolis (Gentile) rather than be exiled.",
+      "thai_literal": null,
+      "thai_summary": null
     },
     "model": "claude-opus-4-6 (manual)"
   },
@@ -183,12 +343,30 @@
     "translation": {
       "thai": "บนเนินเขาที่นั่น มีฝูงสุกรฝูงใหญ่กำลังหากินอยู่",
       "key_decisions": [
-        {"greek": "ἦν δὲ (impf.)", "thai": "บน...ที่นั่น มี", "rationale": "Per uW writing-background v.11: δέ marks scene-setting background, not story-progression. Thai 'มี' (there is/was) sets the scene without driving the action — naturally reads as descriptive."},
-        {"greek": "πρὸς τῷ ὄρει", "thai": "บนเนินเขา", "rationale": "πρός + dat. = 'near, by.' τὸ ὄρος = mountain/hillside. Thai 'เนินเขา' (hillside) for the gentler topography implied. Sets up v.13's κρημνός (cliff)."},
-        {"greek": "ἀγέλη χοίρων μεγάλη", "thai": "ฝูงสุกรฝูงใหญ่", "rationale": "ἀγέλη = herd. χοῖρος = pig. Levitically unclean (Lev 11:7); their presence confirms Gentile region. Thai 'สุกร' (pig — formal/biblical register; everyday Thai uses 'หมู' but biblical translations use 'สุกร'). 'ฝูงใหญ่' (great herd) — 2,000 per v.13."},
-        {"greek": "βοσκομένη (pres. mid./pass. ptcp.)", "thai": "กำลังหากินอยู่", "rationale": "βόσκω 'feed/graze' (mid./pass.). Thai 'กำลังหากิน' (currently-finding-food) + 'อยู่' (continuous particle) preserves the ongoing-feeding scene."}
+        {
+          "greek": "ἦν δὲ (impf.)",
+          "thai": "บน...ที่นั่น มี",
+          "rationale": "Per uW writing-background v.11: δέ marks scene-setting background, not story-progression. Thai 'มี' (there is/was) sets the scene without driving the action — naturally reads as descriptive."
+        },
+        {
+          "greek": "πρὸς τῷ ὄρει",
+          "thai": "บนเนินเขา",
+          "rationale": "πρός + dat. = 'near, by.' τὸ ὄρος = mountain/hillside. Thai 'เนินเขา' (hillside) for the gentler topography implied. Sets up v.13's κρημνός (cliff)."
+        },
+        {
+          "greek": "ἀγέλη χοίρων μεγάλη",
+          "thai": "ฝูงสุกรฝูงใหญ่",
+          "rationale": "ἀγέλη = herd. χοῖρος = pig. Levitically unclean (Lev 11:7); their presence confirms Gentile region. Thai 'สุกร' (pig — formal/biblical register; everyday Thai uses 'หมู' but biblical translations use 'สุกร'). 'ฝูงใหญ่' (great herd) — 2,000 per v.13."
+        },
+        {
+          "greek": "βοσκομένη (pres. mid./pass. ptcp.)",
+          "thai": "กำลังหากินอยู่",
+          "rationale": "βόσκω 'feed/graze' (mid./pass.). Thai 'กำลังหากิน' (currently-finding-food) + 'อยู่' (continuous particle) preserves the ongoing-feeding scene."
+        }
       ],
-      "notes": "PIGS = Levitically unclean animal (Lev 11:7; Deut 14:8) — confirms Gentile setting. The juxtaposition is loaded: unclean spirits + unclean animals + tomb-impurity all converging."
+      "notes": "PIGS = Levitically unclean animal (Lev 11:7; Deut 14:8) — confirms Gentile setting. The juxtaposition is loaded: unclean spirits + unclean animals + tomb-impurity all converging.",
+      "thai_literal": null,
+      "thai_summary": null
     },
     "model": "claude-opus-4-6 (manual)"
   },
@@ -201,11 +379,25 @@
     "translation": {
       "thai": "พวกมันจึงวิงวอนพระองค์ว่า 'ขอทรงโปรดส่งพวกข้าเข้าไปในฝูงสุกร เพื่อพวกข้าจะได้เข้าสิงพวกมัน'",
       "key_decisions": [
-        {"greek": "παρεκάλεσαν (aor.)", "thai": "พวกมันจึงวิงวอน", "rationale": "Aorist (vs. imperfect παρεκάλει v.10) marks the climactic culmination of the begging into a specific request. Plural verb confirms many speakers. Thai 'พวกมัน' (them — plural marker) consistent."},
-        {"greek": "Πέμψον ἡμᾶς εἰς τοὺς χοίρους", "thai": "ขอทรงโปรดส่งพวกข้าเข้าไปในฝูงสุกร", "rationale": "Per uW figs-imperative: imperative softened to polite request. Thai 'ขอทรงโปรด' (request-royal-graciously) marks the demon's deference to Jesus' superior power even while making a request — 'please' formula. Per uW figs-exclusive: 'us/we' = demons only (not Jesus or disciples). Thai 'พวกข้า' first-person-plural-exclusive contextually clear."},
-        {"greek": "εἰς αὐτοὺς εἰσέλθωμεν (subj. of purpose)", "thai": "เข้าสิงพวกมัน", "rationale": "Per uW figs-explicit: 'enter into them' = enter and possess. Thai 'เข้าสิง' (enter-possess) standard biblical idiom for demonic possession (cf. v.2 'สิงอยู่'). 'พวกมัน' refers back to the pigs."}
+        {
+          "greek": "παρεκάλεσαν (aor.)",
+          "thai": "พวกมันจึงวิงวอน",
+          "rationale": "Aorist (vs. imperfect παρεκάλει v.10) marks the climactic culmination of the begging into a specific request. Plural verb confirms many speakers. Thai 'พวกมัน' (them — plural marker) consistent."
+        },
+        {
+          "greek": "Πέμψον ἡμᾶς εἰς τοὺς χοίρους",
+          "thai": "ขอทรงโปรดส่งพวกข้าเข้าไปในฝูงสุกร",
+          "rationale": "Per uW figs-imperative: imperative softened to polite request. Thai 'ขอทรงโปรด' (request-royal-graciously) marks the demon's deference to Jesus' superior power even while making a request — 'please' formula. Per uW figs-exclusive: 'us/we' = demons only (not Jesus or disciples). Thai 'พวกข้า' first-person-plural-exclusive contextually clear."
+        },
+        {
+          "greek": "εἰς αὐτοὺς εἰσέλθωμεν (subj. of purpose)",
+          "thai": "เข้าสิงพวกมัน",
+          "rationale": "Per uW figs-explicit: 'enter into them' = enter and possess. Thai 'เข้าสิง' (enter-possess) standard biblical idiom for demonic possession (cf. v.2 'สิงอยู่'). 'พวกมัน' refers back to the pigs."
+        }
       ],
-      "notes": "The demons' request implies they need an embodied host — cannot be 'free-floating.' Why pigs? Several theories: (1) pigs are the nearest available embodied targets; (2) pigs are unclean — fitting hosts for unclean spirits; (3) Jesus uses the demons' request to perform an unmistakable public exorcism (the 2,000-pig drowning is visible evidence). Mark gives no commentary — the reader must infer."
+      "notes": "The demons' request implies they need an embodied host — cannot be 'free-floating.' Why pigs? Several theories: (1) pigs are the nearest available embodied targets; (2) pigs are unclean — fitting hosts for unclean spirits; (3) Jesus uses the demons' request to perform an unmistakable public exorcism (the 2,000-pig drowning is visible evidence). Mark gives no commentary — the reader must infer.",
+      "thai_literal": null,
+      "thai_summary": null
     },
     "model": "claude-opus-4-6 (manual)"
   },
@@ -218,13 +410,35 @@
     "translation": {
       "thai": "พระองค์ก็ทรงอนุญาต บรรดาวิญญาณโสโครกก็ออกจากชายนั้นแล้วเข้าสิงสุกร ฝูงสุกรประมาณสองพันตัวก็วิ่งกระโจนลงจากหน้าผาสู่ทะเล และจมน้ำตายในทะเลนั้น",
       "key_decisions": [
-        {"greek": "ἐπέτρεψεν (aor.)", "thai": "ทรงอนุญาต", "rationale": "Per uW figs-explicit: Jesus permitted them. Royal 'ทรงอนุญาต' (royal-permit). Mark is laconic — no editorial comment on the morality. The verb itself is neutral: he allowed it. Theological discussion belongs in commentary, not translation."},
-        {"greek": "ἐξελθόντα...εἰσῆλθον (aor.)", "thai": "ออก...แล้วเข้าสิง", "rationale": "Two aorists in sequence: out-of-man, into-pigs. Thai 'ออกจากชาย...แล้วเข้าสิง' (exit man...then enter-possess) makes the man explicit (per uW figs-explicit alternate: 'having come out of the man'). 'สิง' (possess) preserves the same possessive verb as v.12."},
-        {"greek": "ὥρμησεν...κατὰ τοῦ κρημνοῦ εἰς τὴν θάλασσαν", "thai": "วิ่งกระโจนลงจากหน้าผาสู่ทะเล", "rationale": "ὁρμάω = 'rush impetuously, charge.' κατά + gen. = 'down from.' κρημνός = cliff/precipice (Mark only here in NT among synoptics). Thai 'วิ่งกระโจน' (run-leap) preserves the violent sudden motion; 'ลงจากหน้าผา' (down-from cliff-face) standard Thai for cliff-edge; 'สู่ทะเล' (toward sea) directional. Vivid scene — the pigs do something pigs would not normally do."},
-        {"greek": "ὡς δισχίλιοι (HAPAX in Mark)", "thai": "ประมาณสองพันตัว", "rationale": "HAPAX in Mark: δισχίλιοι = 2,000 (only here in Mark; rare elsewhere — Acts 27:14, Rev 11:3). Thai 'ประมาณสองพันตัว' (approximately 2,000 head) — 'ตัว' is the standard Thai counter for animals. The number is a parenthetical aside — narrator's later reckoning, signaled by ὡς ('about'). The number contributes to the Roman-legion typology: a legion (~6,000) split among 2,000 pigs = multiple demons per pig."},
-        {"greek": "ἐπνίγοντο (impf.)", "thai": "จมน้ำตาย", "rationale": "Per uW figs-activepassive: passive πνίγω 'be choked, drown.' Thai 'จมน้ำตาย' (sink-water-die) idiomatic — 'จม' (sink) + 'น้ำ' (water) + 'ตาย' (die) compresses the Greek descriptive into one Thai construction. Imperfect = 'were drowning' (the action was unfolding). Translates the result as completed for Thai naturalness."}
+        {
+          "greek": "ἐπέτρεψεν (aor.)",
+          "thai": "ทรงอนุญาต",
+          "rationale": "Per uW figs-explicit: Jesus permitted them. Royal 'ทรงอนุญาต' (royal-permit). Mark is laconic — no editorial comment on the morality. The verb itself is neutral: he allowed it. Theological discussion belongs in commentary, not translation."
+        },
+        {
+          "greek": "ἐξελθόντα...εἰσῆλθον (aor.)",
+          "thai": "ออก...แล้วเข้าสิง",
+          "rationale": "Two aorists in sequence: out-of-man, into-pigs. Thai 'ออกจากชาย...แล้วเข้าสิง' (exit man...then enter-possess) makes the man explicit (per uW figs-explicit alternate: 'having come out of the man'). 'สิง' (possess) preserves the same possessive verb as v.12."
+        },
+        {
+          "greek": "ὥρμησεν...κατὰ τοῦ κρημνοῦ εἰς τὴν θάλασσαν",
+          "thai": "วิ่งกระโจนลงจากหน้าผาสู่ทะเล",
+          "rationale": "ὁρμάω = 'rush impetuously, charge.' κατά + gen. = 'down from.' κρημνός = cliff/precipice (Mark only here in NT among synoptics). Thai 'วิ่งกระโจน' (run-leap) preserves the violent sudden motion; 'ลงจากหน้าผา' (down-from cliff-face) standard Thai for cliff-edge; 'สู่ทะเล' (toward sea) directional. Vivid scene — the pigs do something pigs would not normally do."
+        },
+        {
+          "greek": "ὡς δισχίλιοι (HAPAX in Mark)",
+          "thai": "ประมาณสองพันตัว",
+          "rationale": "HAPAX in Mark: δισχίλιοι = 2,000 (only here in Mark; rare elsewhere — Acts 27:14, Rev 11:3). Thai 'ประมาณสองพันตัว' (approximately 2,000 head) — 'ตัว' is the standard Thai counter for animals. The number is a parenthetical aside — narrator's later reckoning, signaled by ὡς ('about'). The number contributes to the Roman-legion typology: a legion (~6,000) split among 2,000 pigs = multiple demons per pig."
+        },
+        {
+          "greek": "ἐπνίγοντο (impf.)",
+          "thai": "จมน้ำตาย",
+          "rationale": "Per uW figs-activepassive: passive πνίγω 'be choked, drown.' Thai 'จมน้ำตาย' (sink-water-die) idiomatic — 'จม' (sink) + 'น้ำ' (water) + 'ตาย' (die) compresses the Greek descriptive into one Thai construction. Imperfect = 'were drowning' (the action was unfolding). Translates the result as completed for Thai naturalness."
+        }
       ],
-      "notes": "HAPAX (in Mark): δισχίλιοι (2,000). EXODUS TYPOLOGY: occupying force (legion) destroyed in the sea — Pharaoh's army drowned (Exod 14:28, ὕδατι ἐσκέπασεν αὐτούς). Mark may be drawing the typology for first-readers: Jesus liberates God's land from foreign occupation, demonic and (by implication) political. ECONOMIC LOSS: the loss of 2,000 pigs would be devastating — explains the townspeople's request in v.17 that Jesus leave. The healed man's restoration costs them their livelihood."
+      "notes": "HAPAX (in Mark): δισχίλιοι (2,000). EXODUS TYPOLOGY: occupying force (legion) destroyed in the sea — Pharaoh's army drowned (Exod 14:28, ὕδατι ἐσκέπασεν αὐτούς). Mark may be drawing the typology for first-readers: Jesus liberates God's land from foreign occupation, demonic and (by implication) political. ECONOMIC LOSS: the loss of 2,000 pigs would be devastating — explains the townspeople's request in v.17 that Jesus leave. The healed man's restoration costs them their livelihood.",
+      "thai_literal": null,
+      "thai_summary": null
     },
     "model": "claude-opus-4-6 (manual)"
   },
@@ -237,11 +451,25 @@
     "translation": {
       "thai": "บรรดาคนเลี้ยงสุกรก็หนีไป และนำเรื่องไปเล่าทั้งในเมืองและตามชนบท ผู้คนก็พากันออกมาดูว่าเกิดอะไรขึ้น",
       "key_decisions": [
-        {"greek": "οἱ βόσκοντες αὐτούς", "thai": "บรรดาคนเลี้ยงสุกร", "rationale": "Per uW writing-participants: 'the ones feeding them' — pig-herders, new characters. Thai 'บรรดาคนเลี้ยงสุกร' (the various pig-feeders) plural-collective. Their fleeing is natural — they'd witnessed a supernatural event AND lost their employer's herd."},
-        {"greek": "εἰς τὴν πόλιν καὶ εἰς τοὺς ἀγρούς", "thai": "ทั้งในเมืองและตามชนบท", "rationale": "Per uW figs-merism: city + countryside = the whole region. Thai 'ทั้ง...และ' (both...and) merism preserved. Not a hendiadys — keeping both terms gives the report the breadth Mark intends. Per uW figs-explicit: city = Gerasa (or whichever locale)."},
-        {"greek": "ἦλθον ἰδεῖν", "thai": "พากันออกมาดู", "rationale": "Per uW writing-pronouns: 'they' = the people of the region. Thai 'พากันออกมาดู' (gather-and-go-out-to-see) — 'พากัน' (collectively) preserves the social-collective movement of the curious crowd."}
+        {
+          "greek": "οἱ βόσκοντες αὐτούς",
+          "thai": "บรรดาคนเลี้ยงสุกร",
+          "rationale": "Per uW writing-participants: 'the ones feeding them' — pig-herders, new characters. Thai 'บรรดาคนเลี้ยงสุกร' (the various pig-feeders) plural-collective. Their fleeing is natural — they'd witnessed a supernatural event AND lost their employer's herd."
+        },
+        {
+          "greek": "εἰς τὴν πόλιν καὶ εἰς τοὺς ἀγρούς",
+          "thai": "ทั้งในเมืองและตามชนบท",
+          "rationale": "Per uW figs-merism: city + countryside = the whole region. Thai 'ทั้ง...และ' (both...and) merism preserved. Not a hendiadys — keeping both terms gives the report the breadth Mark intends. Per uW figs-explicit: city = Gerasa (or whichever locale)."
+        },
+        {
+          "greek": "ἦλθον ἰδεῖν",
+          "thai": "พากันออกมาดู",
+          "rationale": "Per uW writing-pronouns: 'they' = the people of the region. Thai 'พากันออกมาดู' (gather-and-go-out-to-see) — 'พากัน' (collectively) preserves the social-collective movement of the curious crowd."
+        }
       ],
-      "notes": "Pig-herders flee → spread word → townspeople come out. Mark sets up the audience for v.15's reveal."
+      "notes": "Pig-herders flee → spread word → townspeople come out. Mark sets up the audience for v.15's reveal.",
+      "thai_literal": null,
+      "thai_summary": null
     },
     "model": "claude-opus-4-6 (manual)"
   },
@@ -254,13 +482,35 @@
     "translation": {
       "thai": "พวกเขามาถึงพระเยซู และเห็นชายที่เคยถูกผีสิงนั่งอยู่ นุ่งห่มเสื้อผ้าและมีสติสัมปชัญญะดี เป็นคนเดียวกับที่เคยถูกเลกิโอนสิง พวกเขาก็กลัว",
       "key_decisions": [
-        {"greek": "ἔρχονται...θεωροῦσιν (hist. pres.)", "thai": "พวกเขามาถึง...และเห็น", "rationale": "Two historic presents in sequence (per uW v.15): vivid narrative-present. Thai uses simple narrative past 'มาถึง...เห็น' since Thai relies on context for tense; the dramatic effect of the historic-present is preserved by the narrative pacing."},
-        {"greek": "τὸν δαιμονιζόμενον (pres. pass. ptcp.)", "thai": "ชายที่เคยถูกผีสิง", "rationale": "Per uW figs-explicit + figs-activepassive: 'the demon-possessed (one)' here refers to the man who used to be possessed. Thai 'เคย' (formerly/used to) signals past-state; 'ผีสิง' (ghost/spirit-possess) — note: 'ผี' here is more colloquial than 'วิญญาณโสโครก,' reflecting the perspective of the townspeople who saw demonic possession from outside. The shift works in Thai: narrator's earlier 'วิญญาณโสโครก' is technical/biblical; townspeople-eye-view 'ผีสิง' is vernacular."},
-        {"greek": "καθήμενον ἱματισμένον καὶ σωφρονοῦντα", "thai": "นั่งอยู่ นุ่งห่มเสื้อผ้าและมีสติสัมปชัญญะดี", "rationale": "Three participles describing the dramatic transformation. ἱματισμένον (perf. pass.) 'clothed' — Mark hadn't told us he was naked, but the implication of vv.3–5 (tomb-dweller, self-cutter) is consistent with nakedness; the parallel in Luke 8:27 makes it explicit. σωφρονέω = 'be of sound mind' (per uW figs-idiom). Thai 'นั่งอยู่' (sitting), 'นุ่งห่มเสื้อผ้า' (wearing-clothes — paired Thai 'นุ่ง'+'ห่ม' for both lower-and-upper garments), 'มีสติสัมปชัญญะดี' (have-mind-consciousness-good — the standard Thai phrase for sanity / mental composure, used in legal and medical contexts). Three signs reverse the earlier scene: posture (sitting vs. wandering), appearance (clothed vs. naked), and mind (sound vs. crying out)."},
-        {"greek": "τὸν ἐσχηκότα τὸν λεγιῶνα (perf. ptcp.)", "thai": "เป็นคนเดียวกับที่เคยถูกเลกิโอนสิง", "rationale": "Per uW figs-idiom: 'the one having had the legion' = the one possessed by the legion. Thai 'เป็นคนเดียวกับ' (is-the-same-person-as) makes the identification explicit; 'ถูกเลกิโอนสิง' (was-by-Legion-possessed) preserves the Legion-name as proper-noun. NB: 'เลกิโอน' here functions as a near-name (per uW translate-unknown) — once introduced as a name in v.9, subsequent uses retain that quality."},
-        {"greek": "ἐφοβήθησαν (aor. pass.)", "thai": "พวกเขาก็กลัว", "rationale": "Per uW figs-explicit: they were afraid of what else such a powerful one might do. Thai 'กลัว' (afraid) bare — Mark himself doesn't elaborate; we don't either, letting the next verses unfold the response."}
+        {
+          "greek": "ἔρχονται...θεωροῦσιν (hist. pres.)",
+          "thai": "พวกเขามาถึง...และเห็น",
+          "rationale": "Two historic presents in sequence (per uW v.15): vivid narrative-present. Thai uses simple narrative past 'มาถึง...เห็น' since Thai relies on context for tense; the dramatic effect of the historic-present is preserved by the narrative pacing."
+        },
+        {
+          "greek": "τὸν δαιμονιζόμενον (pres. pass. ptcp.)",
+          "thai": "ชายที่เคยถูกผีสิง",
+          "rationale": "Per uW figs-explicit + figs-activepassive: 'the demon-possessed (one)' here refers to the man who used to be possessed. Thai 'เคย' (formerly/used to) signals past-state; 'ผีสิง' (ghost/spirit-possess) — note: 'ผี' here is more colloquial than 'วิญญาณโสโครก,' reflecting the perspective of the townspeople who saw demonic possession from outside. The shift works in Thai: narrator's earlier 'วิญญาณโสโครก' is technical/biblical; townspeople-eye-view 'ผีสิง' is vernacular."
+        },
+        {
+          "greek": "καθήμενον ἱματισμένον καὶ σωφρονοῦντα",
+          "thai": "นั่งอยู่ นุ่งห่มเสื้อผ้าและมีสติสัมปชัญญะดี",
+          "rationale": "Three participles describing the dramatic transformation. ἱματισμένον (perf. pass.) 'clothed' — Mark hadn't told us he was naked, but the implication of vv.3–5 (tomb-dweller, self-cutter) is consistent with nakedness; the parallel in Luke 8:27 makes it explicit. σωφρονέω = 'be of sound mind' (per uW figs-idiom). Thai 'นั่งอยู่' (sitting), 'นุ่งห่มเสื้อผ้า' (wearing-clothes — paired Thai 'นุ่ง'+'ห่ม' for both lower-and-upper garments), 'มีสติสัมปชัญญะดี' (have-mind-consciousness-good — the standard Thai phrase for sanity / mental composure, used in legal and medical contexts). Three signs reverse the earlier scene: posture (sitting vs. wandering), appearance (clothed vs. naked), and mind (sound vs. crying out)."
+        },
+        {
+          "greek": "τὸν ἐσχηκότα τὸν λεγιῶνα (perf. ptcp.)",
+          "thai": "เป็นคนเดียวกับที่เคยถูกเลกิโอนสิง",
+          "rationale": "Per uW figs-idiom: 'the one having had the legion' = the one possessed by the legion. Thai 'เป็นคนเดียวกับ' (is-the-same-person-as) makes the identification explicit; 'ถูกเลกิโอนสิง' (was-by-Legion-possessed) preserves the Legion-name as proper-noun. NB: 'เลกิโอน' here functions as a near-name (per uW translate-unknown) — once introduced as a name in v.9, subsequent uses retain that quality."
+        },
+        {
+          "greek": "ἐφοβήθησαν (aor. pass.)",
+          "thai": "พวกเขาก็กลัว",
+          "rationale": "Per uW figs-explicit: they were afraid of what else such a powerful one might do. Thai 'กลัว' (afraid) bare — Mark himself doesn't elaborate; we don't either, letting the next verses unfold the response."
+        }
       ],
-      "notes": "DRAMATIC REVERSAL: the townspeople see the same man, transformed. Three signs (sitting, clothed, sane) invert vv.3–5 (wild, naked, crying). Their response is FEAR (not joy) — this man's restoration is more frightening than his madness, because it reveals a power they cannot manage. The same root reaction will recur in 4:41 and elsewhere: encounter with Jesus' divine power produces holy dread."
+      "notes": "DRAMATIC REVERSAL: the townspeople see the same man, transformed. Three signs (sitting, clothed, sane) invert vv.3–5 (wild, naked, crying). Their response is FEAR (not joy) — this man's restoration is more frightening than his madness, because it reveals a power they cannot manage. The same root reaction will recur in 4:41 and elsewhere: encounter with Jesus' divine power produces holy dread.",
+      "thai_literal": null,
+      "thai_summary": null
     },
     "model": "claude-opus-4-6 (manual)"
   },
@@ -273,11 +523,25 @@
     "translation": {
       "thai": "บรรดาผู้ที่เห็นเหตุการณ์ก็เล่าให้พวกเขาฟัง ว่าเกิดอะไรขึ้นกับชายที่ถูกผีสิงและกับฝูงสุกร",
       "key_decisions": [
-        {"greek": "διηγήσαντο", "thai": "เล่าให้...ฟัง", "rationale": "διηγέομαι = 'recount in detail, narrate.' Thai 'เล่าให้...ฟัง' (recount-give-listen) standard for first-hand-account narration. Stronger than mere ἀπαγγέλλω 'report' (v.14)."},
-        {"greek": "οἱ ἰδόντες", "thai": "บรรดาผู้ที่เห็นเหตุการณ์", "rationale": "Per uW figs-explicit: those who had seen what happened (eyewitnesses — the pig-herders). 'บรรดาผู้ที่เห็นเหตุการณ์' (the-various-ones-who-saw-the-event) — 'เหตุการณ์' (event) supplied for clarity, as Greek bare 'οἱ ἰδόντες' would be opaque in Thai."},
-        {"greek": "πῶς ἐγένετο τῷ δαιμονιζομένῳ καὶ περὶ τῶν χοίρων", "thai": "ว่าเกิดอะไรขึ้นกับชายที่ถูกผีสิงและกับฝูงสุกร", "rationale": "Two indirect-question objects: 'how it happened to the demon-possessed (one)' + 'concerning the pigs.' Thai 'ว่าเกิดอะไรขึ้นกับ...และกับ' (that-happened-what-with...and-with) flattens both into a single Thai indirect-question. Note 'ผีสิง' (vernacular 'demon-possessed') consistent with v.15's townspeople-eye-view."}
+        {
+          "greek": "διηγήσαντο",
+          "thai": "เล่าให้...ฟัง",
+          "rationale": "διηγέομαι = 'recount in detail, narrate.' Thai 'เล่าให้...ฟัง' (recount-give-listen) standard for first-hand-account narration. Stronger than mere ἀπαγγέλλω 'report' (v.14)."
+        },
+        {
+          "greek": "οἱ ἰδόντες",
+          "thai": "บรรดาผู้ที่เห็นเหตุการณ์",
+          "rationale": "Per uW figs-explicit: those who had seen what happened (eyewitnesses — the pig-herders). 'บรรดาผู้ที่เห็นเหตุการณ์' (the-various-ones-who-saw-the-event) — 'เหตุการณ์' (event) supplied for clarity, as Greek bare 'οἱ ἰδόντες' would be opaque in Thai."
+        },
+        {
+          "greek": "πῶς ἐγένετο τῷ δαιμονιζομένῳ καὶ περὶ τῶν χοίρων",
+          "thai": "ว่าเกิดอะไรขึ้นกับชายที่ถูกผีสิงและกับฝูงสุกร",
+          "rationale": "Two indirect-question objects: 'how it happened to the demon-possessed (one)' + 'concerning the pigs.' Thai 'ว่าเกิดอะไรขึ้นกับ...และกับ' (that-happened-what-with...and-with) flattens both into a single Thai indirect-question. Note 'ผีสิง' (vernacular 'demon-possessed') consistent with v.15's townspeople-eye-view."
+        }
       ],
-      "notes": "Eyewitnesses fill in the story for the newcomers. The two objects (man + pigs) prepare for the people's mixed reaction in v.17 — gratitude for the man's healing competing with grief over the pig loss."
+      "notes": "Eyewitnesses fill in the story for the newcomers. The two objects (man + pigs) prepare for the people's mixed reaction in v.17 — gratitude for the man's healing competing with grief over the pig loss.",
+      "thai_literal": null,
+      "thai_summary": null
     },
     "model": "claude-opus-4-6 (manual)"
   },
@@ -290,10 +554,20 @@
     "translation": {
       "thai": "พวกเขาก็เริ่มอ้อนวอนพระองค์ให้เสด็จออกไปจากเขตแดนของพวกเขา",
       "key_decisions": [
-        {"greek": "ἤρξαντο παρακαλεῖν", "thai": "เริ่มอ้อนวอน", "rationale": "ἄρχομαι + inf. = 'begin to.' Thai 'เริ่มอ้อนวอน' (begin-to-plead). 'อ้อนวอน' is gentler than 'วิงวอน' — appropriate to townspeople vs. demonic begging in vv.10, 12."},
-        {"greek": "ἀπελθεῖν ἀπὸ τῶν ὁρίων αὐτῶν", "thai": "เสด็จออกไปจากเขตแดนของพวกเขา", "rationale": "ὅριον = boundary, region. Royal 'เสด็จออกไป' (royal-depart) for Jesus. Thai 'เขตแดน' (territory/boundary) preserves the boundary-marker sense — they want him outside their borders, not just out of sight. Per uW figs-quotations alternative: could be direct quote 'Please depart.' Indirect form preserved per Greek."}
+        {
+          "greek": "ἤρξαντο παρακαλεῖν",
+          "thai": "เริ่มอ้อนวอน",
+          "rationale": "ἄρχομαι + inf. = 'begin to.' Thai 'เริ่มอ้อนวอน' (begin-to-plead). 'อ้อนวอน' is gentler than 'วิงวอน' — appropriate to townspeople vs. demonic begging in vv.10, 12."
+        },
+        {
+          "greek": "ἀπελθεῖν ἀπὸ τῶν ὁρίων αὐτῶν",
+          "thai": "เสด็จออกไปจากเขตแดนของพวกเขา",
+          "rationale": "ὅριον = boundary, region. Royal 'เสด็จออกไป' (royal-depart) for Jesus. Thai 'เขตแดน' (territory/boundary) preserves the boundary-marker sense — they want him outside their borders, not just out of sight. Per uW figs-quotations alternative: could be direct quote 'Please depart.' Indirect form preserved per Greek."
+        }
       ],
-      "notes": "TRAGIC IRONY: the townspeople ask the only one who can heal them to leave. The economic loss (pigs) and the holy fear (v.15) outweigh any desire for further blessing. Jesus is treated as a disturbance to the local order. This contrasts sharply with Mark 1:32–34 (Capernaum welcomes him at sundown) — Jewish vs. Gentile reception. But Mark balances this: vv.18–20 show that one Gentile soul does receive him."
+      "notes": "TRAGIC IRONY: the townspeople ask the only one who can heal them to leave. The economic loss (pigs) and the holy fear (v.15) outweigh any desire for further blessing. Jesus is treated as a disturbance to the local order. This contrasts sharply with Mark 1:32–34 (Capernaum welcomes him at sundown) — Jewish vs. Gentile reception. But Mark balances this: vv.18–20 show that one Gentile soul does receive him.",
+      "thai_literal": null,
+      "thai_summary": null
     },
     "model": "claude-opus-4-6 (manual)"
   },
@@ -306,11 +580,25 @@
     "translation": {
       "thai": "ขณะที่พระองค์กำลังเสด็จลงเรือ ชายที่เคยถูกผีสิงก็วิงวอนพระองค์ ขอให้อยู่กับพระองค์ด้วย",
       "key_decisions": [
-        {"greek": "ἐμβαίνοντος αὐτοῦ (gen. abs.)", "thai": "ขณะที่พระองค์กำลังเสด็จลงเรือ", "rationale": "Genitive absolute 'while he was embarking.' Thai 'ขณะที่...กำลังเสด็จลง' (while...currently royal-descending) preserves the temporal contemporaneity — Jesus is in the act of leaving as the request comes."},
-        {"greek": "ὁ δαιμονισθείς (aor. pass. ptcp.)", "thai": "ชายที่เคยถูกผีสิง", "rationale": "Per uW figs-explicit + figs-activepassive: aorist passive 'the one having been demon-possessed' = the formerly possessed man. Thai 'เคยถูกผีสิง' (formerly-was-by-spirit-possessed) consistent with v.15. The textual identity of this transformed man as the same individual is critical to the narrative."},
-        {"greek": "παρεκάλει...ἵνα μετ' αὐτοῦ ᾖ", "thai": "วิงวอนพระองค์ ขอให้อยู่กับพระองค์ด้วย", "rationale": "Per uW figs-idiom: 'be with him' = become a disciple, follow him wherever he goes. Echoes Mark 3:14 (Jesus appointed the Twelve 'ἵνα ὦσιν μετ' αὐτοῦ' — 'that they might be with him'). The healed man wants to join the disciple-circle. Thai 'ขอให้อยู่กับพระองค์ด้วย' (request to-stay with him also) preserves this discipleship-request sense. 'วิงวอน' (urgent plea) for παρεκάλει — note the same verb the demons used (v.10), but now in the man's restored voice."}
+        {
+          "greek": "ἐμβαίνοντος αὐτοῦ (gen. abs.)",
+          "thai": "ขณะที่พระองค์กำลังเสด็จลงเรือ",
+          "rationale": "Genitive absolute 'while he was embarking.' Thai 'ขณะที่...กำลังเสด็จลง' (while...currently royal-descending) preserves the temporal contemporaneity — Jesus is in the act of leaving as the request comes."
+        },
+        {
+          "greek": "ὁ δαιμονισθείς (aor. pass. ptcp.)",
+          "thai": "ชายที่เคยถูกผีสิง",
+          "rationale": "Per uW figs-explicit + figs-activepassive: aorist passive 'the one having been demon-possessed' = the formerly possessed man. Thai 'เคยถูกผีสิง' (formerly-was-by-spirit-possessed) consistent with v.15. The textual identity of this transformed man as the same individual is critical to the narrative."
+        },
+        {
+          "greek": "παρεκάλει...ἵνα μετ' αὐτοῦ ᾖ",
+          "thai": "วิงวอนพระองค์ ขอให้อยู่กับพระองค์ด้วย",
+          "rationale": "Per uW figs-idiom: 'be with him' = become a disciple, follow him wherever he goes. Echoes Mark 3:14 (Jesus appointed the Twelve 'ἵνα ὦσιν μετ' αὐτοῦ' — 'that they might be with him'). The healed man wants to join the disciple-circle. Thai 'ขอให้อยู่กับพระองค์ด้วย' (request to-stay with him also) preserves this discipleship-request sense. 'วิงวอน' (urgent plea) for παρεκάλει — note the same verb the demons used (v.10), but now in the man's restored voice."
+        }
       ],
-      "notes": "ECHO of Mark 3:14: 'ἵνα ὦσιν μετ' αὐτοῦ' — to be with him is the basic disciple-mark. The healed Gentile asks for that vocation. Jesus' response (v.19) reframes: his disciple-vocation is to stay home and witness in his own land. STRUCTURAL: the demoniac becomes the first Gentile evangelist."
+      "notes": "ECHO of Mark 3:14: 'ἵνα ὦσιν μετ' αὐτοῦ' — to be with him is the basic disciple-mark. The healed Gentile asks for that vocation. Jesus' response (v.19) reframes: his disciple-vocation is to stay home and witness in his own land. STRUCTURAL: the demoniac becomes the first Gentile evangelist.",
+      "thai_literal": null,
+      "thai_summary": null
     },
     "model": "claude-opus-4-6 (manual)"
   },
@@ -323,13 +611,35 @@
     "translation": {
       "thai": "แต่พระองค์ไม่ทรงอนุญาต ตรัสกับเขาว่า 'จงกลับไปยังบ้านของเจ้า ไปหาคนของเจ้า และบอกเล่าให้พวกเขาฟังถึงสิ่งที่องค์พระผู้เป็นเจ้าได้ทรงกระทำเพื่อเจ้า และที่พระองค์ได้ทรงพระเมตตาต่อเจ้า'",
       "key_decisions": [
-        {"greek": "οὐκ ἀφῆκεν αὐτόν, ἀλλὰ λέγει (hist. pres.)", "thai": "ไม่ทรงอนุญาต ตรัสกับเขาว่า", "rationale": "Per uW grammar-connect-words-phrases: ἀλλά contrastive — Jesus DOES NOT permit (the request) BUT he DOES speak (this commission). Royal 'ทรงอนุญาต' + 'ตรัส' for Jesus. Historic present (per uW v.19) λέγει preserved as bare narrative present in Thai."},
-        {"greek": "Ὕπαγε εἰς τὸν οἶκόν σου πρὸς τοὺς σούς", "thai": "จงกลับไปยังบ้านของเจ้า ไปหาคนของเจ้า", "rationale": "Per uW figs-explicit on 'τοὺς σούς': could mean (1) family/relatives/friends or (2) family only. We render generically 'คนของเจ้า' (your people) preserving ambiguity. Jesus to the man uses 'เจ้า' (intimate-superior-to-subordinate, fits divine address to a healed-one — consistent with Mark 2:5 paralytic, 3:5 withered-hand-man per glossary precedent)."},
-        {"greek": "ἀπάγγειλον αὐτοῖς (aor. impv.)", "thai": "บอกเล่าให้พวกเขาฟัง", "rationale": "ἀπαγγέλλω = 'announce, report.' Thai 'บอกเล่าให้...ฟัง' (tell-narrate-to-listen) preserves both the announcement function and the personal narrative quality. Note: this REVERSES the typical Markan secrecy command (cf. 1:44, 5:43 — keep silent!). The Gentile man is COMMANDED to publicize. Why? He's outside Jewish messianic-misunderstanding categories; in Decapolis the proclamation cannot fuel a wrong messianic expectation."},
-        {"greek": "ὁ κύριος", "thai": "องค์พระผู้เป็นเจ้า", "rationale": "Per uW figs-explicit: 'the Lord' could refer to (1) God or (2) Jesus himself. Thai per glossary: 'องค์พระผู้เป็นเจ้า' (standard for κύριος in YHWH-context). The ambiguity is theologically rich — the man will tell about Jesus (v.20: 'how much Jesus had done'), revealing that Jesus IS κύριος. Mark plants the equation. We preserve the formal Lord-title; the reader unpacks the identification at v.20."},
-        {"greek": "πεποίηκεν...καὶ ἠλέησέν σε (perf./aor.)", "thai": "ได้ทรงกระทำเพื่อเจ้า...และที่พระองค์ได้ทรงพระเมตตาต่อเจ้า", "rationale": "Per uW figs-parallelism: 'has done for you' + 'had mercy on you' are not two separate events — one is interpretation of the other. Royal 'ได้ทรงกระทำ' (has-royal-done) + 'ได้ทรงพระเมตตา' (has-royal-mercied — the standard Thai royal verb for 'show mercy/compassion'). 'ทรงพระเมตตา' is the dignified Thai form, fitting the Lord-action. The two-clause parallel preserved — Thai naturally accommodates the doublet for emphasis."}
+        {
+          "greek": "οὐκ ἀφῆκεν αὐτόν, ἀλλὰ λέγει (hist. pres.)",
+          "thai": "ไม่ทรงอนุญาต ตรัสกับเขาว่า",
+          "rationale": "Per uW grammar-connect-words-phrases: ἀλλά contrastive — Jesus DOES NOT permit (the request) BUT he DOES speak (this commission). Royal 'ทรงอนุญาต' + 'ตรัส' for Jesus. Historic present (per uW v.19) λέγει preserved as bare narrative present in Thai."
+        },
+        {
+          "greek": "Ὕπαγε εἰς τὸν οἶκόν σου πρὸς τοὺς σούς",
+          "thai": "จงกลับไปยังบ้านของเจ้า ไปหาคนของเจ้า",
+          "rationale": "Per uW figs-explicit on 'τοὺς σούς': could mean (1) family/relatives/friends or (2) family only. We render generically 'คนของเจ้า' (your people) preserving ambiguity. Jesus to the man uses 'เจ้า' (intimate-superior-to-subordinate, fits divine address to a healed-one — consistent with Mark 2:5 paralytic, 3:5 withered-hand-man per glossary precedent)."
+        },
+        {
+          "greek": "ἀπάγγειλον αὐτοῖς (aor. impv.)",
+          "thai": "บอกเล่าให้พวกเขาฟัง",
+          "rationale": "ἀπαγγέλλω = 'announce, report.' Thai 'บอกเล่าให้...ฟัง' (tell-narrate-to-listen) preserves both the announcement function and the personal narrative quality. Note: this REVERSES the typical Markan secrecy command (cf. 1:44, 5:43 — keep silent!). The Gentile man is COMMANDED to publicize. Why? He's outside Jewish messianic-misunderstanding categories; in Decapolis the proclamation cannot fuel a wrong messianic expectation."
+        },
+        {
+          "greek": "ὁ κύριος",
+          "thai": "องค์พระผู้เป็นเจ้า",
+          "rationale": "Per uW figs-explicit: 'the Lord' could refer to (1) God or (2) Jesus himself. Thai per glossary: 'องค์พระผู้เป็นเจ้า' (standard for κύριος in YHWH-context). The ambiguity is theologically rich — the man will tell about Jesus (v.20: 'how much Jesus had done'), revealing that Jesus IS κύριος. Mark plants the equation. We preserve the formal Lord-title; the reader unpacks the identification at v.20."
+        },
+        {
+          "greek": "πεποίηκεν...καὶ ἠλέησέν σε (perf./aor.)",
+          "thai": "ได้ทรงกระทำเพื่อเจ้า...และที่พระองค์ได้ทรงพระเมตตาต่อเจ้า",
+          "rationale": "Per uW figs-parallelism: 'has done for you' + 'had mercy on you' are not two separate events — one is interpretation of the other. Royal 'ได้ทรงกระทำ' (has-royal-done) + 'ได้ทรงพระเมตตา' (has-royal-mercied — the standard Thai royal verb for 'show mercy/compassion'). 'ทรงพระเมตตา' is the dignified Thai form, fitting the Lord-action. The two-clause parallel preserved — Thai naturally accommodates the doublet for emphasis."
+        }
       ],
-      "notes": "REVERSE-SECRECY: Jesus normally commands silence (1:44, 7:36, 8:30) but commands publicization here. Why? The healed man is a Gentile in a Gentile region — no risk of fueling Jewish-political-messiah expectations. He's free to be the first Gentile evangelist. THE LORD = JESUS (v.20 makes the equation): the man tells how 'Jesus' did this, revealing that 'the Lord' (κύριος) WAS Jesus. Mark's high Christology peeks through. AT-HOME-MISSION: the man wanted to follow Jesus across the lake; Jesus sends him home as a witness. Discipleship can require staying, not going."
+      "notes": "REVERSE-SECRECY: Jesus normally commands silence (1:44, 7:36, 8:30) but commands publicization here. Why? The healed man is a Gentile in a Gentile region — no risk of fueling Jewish-political-messiah expectations. He's free to be the first Gentile evangelist. THE LORD = JESUS (v.20 makes the equation): the man tells how 'Jesus' did this, revealing that 'the Lord' (κύριος) WAS Jesus. Mark's high Christology peeks through. AT-HOME-MISSION: the man wanted to follow Jesus across the lake; Jesus sends him home as a witness. Discipleship can require staying, not going.",
+      "thai_literal": null,
+      "thai_summary": null
     },
     "model": "claude-opus-4-6 (manual)"
   },
@@ -342,12 +652,30 @@
     "translation": {
       "thai": "ชายนั้นก็ไปและเริ่มประกาศทั่วแคว้นทศบุรี ถึงสิ่งที่พระเยซูได้ทรงกระทำเพื่อเขา และทุกคนก็พากันอัศจรรย์ใจ",
       "key_decisions": [
-        {"greek": "ἤρξατο κηρύσσειν", "thai": "เริ่มประกาศ", "rationale": "κηρύσσω = 'proclaim, herald, preach' — the same verb used for Jesus' own preaching (1:14, 1:38–39) and John the Baptist's (1:4, 1:7), and the apostles' commission (3:14, 6:12). Mark uses LOADED missional vocabulary for this Gentile man's testimony. Thai 'ประกาศ' (proclaim/announce) standard biblical term."},
-        {"greek": "ἐν τῇ Δεκαπόλει", "thai": "ทั่วแคว้นทศบุรี", "rationale": "Per uW translate-names: Δεκάπολις = 'Ten Cities' — Greco-Roman federation east/southeast of Galilee (Scythopolis, Hippos, Gadara, Pella, Philadelphia, Gerasa, etc.). Thai 'ทศบุรี' (ten-city) is the standard Thai biblical transliteration-translation (Pali-derived 'ทศ' = ten + 'บุรี' = city). Some Thai Bibles use 'เดคาโปลิส' (transliteration) — we follow 'ทศบุรี' as the more established biblical-Thai form."},
-        {"greek": "ὅσα ἐποίησεν αὐτῷ ὁ Ἰησοῦς", "thai": "สิ่งที่พระเยซูได้ทรงกระทำเพื่อเขา", "rationale": "ECHO + UPDATE of v.19: Jesus said 'tell what THE LORD did for you'; the man tells 'what JESUS did for him.' Mark identifies κύριος = Ἰησοῦς. Royal 'ได้ทรงกระทำ' parallels v.19 — preserving the verbal echo that makes the Christological equation. 'เพื่อเขา' (for him) for dative αὐτῷ."},
-        {"greek": "πάντες ἐθαύμαζον (impf.)", "thai": "ทุกคนก็พากันอัศจรรย์ใจ", "rationale": "Per uW figs-nominaladj: 'all' = all hearers. θαυμάζω = wonder, marvel. Imperfect = ongoing astonishment as the testimony spread. Thai 'ทุกคนก็พากันอัศจรรย์ใจ' (everyone gathered to-marvel-heart) — 'พากัน' (collectively/in-company) preserves the social-spread; 'อัศจรรย์ใจ' (marvel-heart) standard Thai for amazement."}
+        {
+          "greek": "ἤρξατο κηρύσσειν",
+          "thai": "เริ่มประกาศ",
+          "rationale": "κηρύσσω = 'proclaim, herald, preach' — the same verb used for Jesus' own preaching (1:14, 1:38–39) and John the Baptist's (1:4, 1:7), and the apostles' commission (3:14, 6:12). Mark uses LOADED missional vocabulary for this Gentile man's testimony. Thai 'ประกาศ' (proclaim/announce) standard biblical term."
+        },
+        {
+          "greek": "ἐν τῇ Δεκαπόλει",
+          "thai": "ทั่วแคว้นทศบุรี",
+          "rationale": "Per uW translate-names: Δεκάπολις = 'Ten Cities' — Greco-Roman federation east/southeast of Galilee (Scythopolis, Hippos, Gadara, Pella, Philadelphia, Gerasa, etc.). Thai 'ทศบุรี' (ten-city) is the standard Thai biblical transliteration-translation (Pali-derived 'ทศ' = ten + 'บุรี' = city). Some Thai Bibles use 'เดคาโปลิส' (transliteration) — we follow 'ทศบุรี' as the more established biblical-Thai form."
+        },
+        {
+          "greek": "ὅσα ἐποίησεν αὐτῷ ὁ Ἰησοῦς",
+          "thai": "สิ่งที่พระเยซูได้ทรงกระทำเพื่อเขา",
+          "rationale": "ECHO + UPDATE of v.19: Jesus said 'tell what THE LORD did for you'; the man tells 'what JESUS did for him.' Mark identifies κύριος = Ἰησοῦς. Royal 'ได้ทรงกระทำ' parallels v.19 — preserving the verbal echo that makes the Christological equation. 'เพื่อเขา' (for him) for dative αὐτῷ."
+        },
+        {
+          "greek": "πάντες ἐθαύμαζον (impf.)",
+          "thai": "ทุกคนก็พากันอัศจรรย์ใจ",
+          "rationale": "Per uW figs-nominaladj: 'all' = all hearers. θαυμάζω = wonder, marvel. Imperfect = ongoing astonishment as the testimony spread. Thai 'ทุกคนก็พากันอัศจรรย์ใจ' (everyone gathered to-marvel-heart) — 'พากัน' (collectively/in-company) preserves the social-spread; 'อัศจรรย์ใจ' (marvel-heart) standard Thai for amazement."
+        }
       ],
-      "notes": "FIRST GENTILE EVANGELIST: a single sentence captures the entire Decapolis mission. CHRISTOLOGICAL EQUATION: Jesus said 'the Lord' (κύριος) — the man tells about 'Jesus' (Ἰησοῦς). For first readers, this is the equation in plain text: Jesus is the Lord. STRUCTURAL CLOSE: the Gerasene episode ends not with Jesus' departure but with the witness's mission. Mark's first major Gentile narrative concludes on a missional note that anticipates Acts 1:8."
+      "notes": "FIRST GENTILE EVANGELIST: a single sentence captures the entire Decapolis mission. CHRISTOLOGICAL EQUATION: Jesus said 'the Lord' (κύριος) — the man tells about 'Jesus' (Ἰησοῦς). For first readers, this is the equation in plain text: Jesus is the Lord. STRUCTURAL CLOSE: the Gerasene episode ends not with Jesus' departure but with the witness's mission. Mark's first major Gentile narrative concludes on a missional note that anticipates Acts 1:8.",
+      "thai_literal": null,
+      "thai_summary": null
     },
     "model": "claude-opus-4-6 (manual)"
   },
@@ -360,11 +688,25 @@
     "translation": {
       "thai": "เมื่อพระเยซูเสด็จลงเรือข้ามทะเลกลับไปยังอีกฟากหนึ่งอีกครั้งหนึ่ง ฝูงชนเป็นอันมากก็มาชุมนุมล้อมรอบพระองค์ ขณะที่พระองค์ประทับอยู่ริมทะเล",
       "key_decisions": [
-        {"greek": "διαπεράσαντος τοῦ Ἰησοῦ ἐν τῷ πλοίῳ πάλιν εἰς τὸ πέραν (gen. abs.)", "thai": "เมื่อพระเยซูเสด็จลงเรือข้ามทะเลกลับไปยังอีกฟากหนึ่งอีกครั้งหนึ่ง", "rationale": "Per uW writing-newevent + figs-synecdoche: new major event; Jesus represents Jesus + disciples. Thai 'เสด็จลงเรือข้าม' (royal-embark-cross) preserves royal action; 'กลับไปยังอีกฟากหนึ่ง' (return-to-other-side) — RETURN to the western (Jewish) shore, reversing the crossing of v.1. 'ปาλιν' (per uW figs-explicit v.21): refers to the prior crossing, now reversed."},
-        {"greek": "συνήχθη ὄχλος πολύς (aor. pass.)", "thai": "ฝูงชนเป็นอันมากก็มาชุมนุมล้อมรอบ", "rationale": "Per uW figs-activepassive: passive 'was gathered.' Thai 'ฝูงชนเป็นอันมาก' (large crowd) consistent with prior chapters; 'มาชุมนุมล้อมรอบ' parallel to Mark 4:1's gathering. Same Mark 3:7–4:1 pattern: Jesus arrives, crowds press around."},
-        {"greek": "ἦν παρὰ τὴν θάλασσαν (impf.)", "thai": "ขณะที่พระองค์ประทับอยู่ริมทะเล", "rationale": "Imperfect = ongoing/setting verb. παρά + acc. 'beside.' Thai 'ขณะที่...ประทับอยู่ริมทะเล' (while...royal-stay-by-shore-of-sea) preserves the scene-setting feel. Royal 'ประทับ' for Jesus' located posture. Mirrors Mark 4:1 ('παρὰ τὴν θάλασσαν') — Jesus returns to his lakeside teaching post."}
+        {
+          "greek": "διαπεράσαντος τοῦ Ἰησοῦ ἐν τῷ πλοίῳ πάλιν εἰς τὸ πέραν (gen. abs.)",
+          "thai": "เมื่อพระเยซูเสด็จลงเรือข้ามทะเลกลับไปยังอีกฟากหนึ่งอีกครั้งหนึ่ง",
+          "rationale": "Per uW writing-newevent + figs-synecdoche: new major event; Jesus represents Jesus + disciples. Thai 'เสด็จลงเรือข้าม' (royal-embark-cross) preserves royal action; 'กลับไปยังอีกฟากหนึ่ง' (return-to-other-side) — RETURN to the western (Jewish) shore, reversing the crossing of v.1. 'ปาλιν' (per uW figs-explicit v.21): refers to the prior crossing, now reversed."
+        },
+        {
+          "greek": "συνήχθη ὄχλος πολύς (aor. pass.)",
+          "thai": "ฝูงชนเป็นอันมากก็มาชุมนุมล้อมรอบ",
+          "rationale": "Per uW figs-activepassive: passive 'was gathered.' Thai 'ฝูงชนเป็นอันมาก' (large crowd) consistent with prior chapters; 'มาชุมนุมล้อมรอบ' parallel to Mark 4:1's gathering. Same Mark 3:7–4:1 pattern: Jesus arrives, crowds press around."
+        },
+        {
+          "greek": "ἦν παρὰ τὴν θάλασσαν (impf.)",
+          "thai": "ขณะที่พระองค์ประทับอยู่ริมทะเล",
+          "rationale": "Imperfect = ongoing/setting verb. παρά + acc. 'beside.' Thai 'ขณะที่...ประทับอยู่ริมทะเล' (while...royal-stay-by-shore-of-sea) preserves the scene-setting feel. Royal 'ประทับ' for Jesus' located posture. Mirrors Mark 4:1 ('παρὰ τὴν θάλασσαν') — Jesus returns to his lakeside teaching post."
+        }
       ],
-      "notes": "TRANSITION: closes the Gerasene cycle, reopens Galilean ministry. Geographically: back on the Jewish (western) shore. Mark's sandwich begins here — vv.21–24 set up Jairus, vv.25–34 interrupt with the woman, vv.35–43 resume Jairus. The intercalation (Markan sandwich) is one of his signature literary devices."
+      "notes": "TRANSITION: closes the Gerasene cycle, reopens Galilean ministry. Geographically: back on the Jewish (western) shore. Mark's sandwich begins here — vv.21–24 set up Jairus, vv.25–34 interrupt with the woman, vv.35–43 resume Jairus. The intercalation (Markan sandwich) is one of his signature literary devices.",
+      "thai_literal": null,
+      "thai_summary": null
     },
     "model": "claude-opus-4-6 (manual)"
   },
@@ -377,12 +719,30 @@
     "translation": {
       "thai": "ดูเถิด มีนายธรรมศาลาคนหนึ่งชื่อไยรัส มาหาพระองค์ เมื่อเห็นพระองค์ก็หมอบกราบลงแทบพระบาท",
       "key_decisions": [
-        {"greek": "ἔρχεται...πίπτει (hist. pres.)", "thai": "มาหา...ก็หมอบกราบลง", "rationale": "Two historic presents (per uW v.22) — vivid pacing for the new episode. Thai uses simple narrative verbs."},
-        {"greek": "εἷς τῶν ἀρχισυναγώγων, ὀνόματι Ἰάϊρος", "thai": "นายธรรมศาลาคนหนึ่งชื่อไยรัส", "rationale": "Per uW writing-participants + translate-names: introducing Jairus as new character. ἀρχισυνάγωγος = synagogue-ruler (lay-leader responsible for the worship service in a local synagogue — significant social standing). Thai 'นายธรรมศาลา' (chief-of-synagogue) standard biblical term; 'ธรรมศาลา' per glossary. 'ชื่อไยรัส' (named Jairus) — Hebrew יָאִיר meaning 'he enlightens.' Standard Thai transliteration 'ไยรัส.'"},
-        {"greek": "ἰδοὺ (implicit in some readings)", "thai": "ดูเถิด", "rationale": "Some MS witnesses include ἰδού here (cf. uW v.22 note); SBLGNT does not but the construction 'καὶ ἔρχεται εἷς...' carries the same attention-getting force. Thai opens with 'ดูเถิด' (Behold!) preserving the narrative-attention call. (If pure SBLGNT-following is preferred, this 'ดูเถิด' could be dropped — but Thai narration accommodates it as discourse marker for new-event.)"},
-        {"greek": "πίπτει πρὸς τοὺς πόδας αὐτοῦ", "thai": "หมอบกราบลงแทบพระบาท", "rationale": "Per uW translate-symaction: falling at feet = posture of profound respect/supplication. Thai 'หมอบกราบลงแทบพระบาท' (prostrate-kneel-down-near-royal-feet) preserves both the physical action and the royal register — 'แทบพระบาท' (at the royal feet) is the dignified Thai expression for falling before a king/divine being. Jairus, though socially elevated, lowers himself entirely before Jesus. This sets up the trust-and-faith theme of the chapter."}
+        {
+          "greek": "ἔρχεται...πίπτει (hist. pres.)",
+          "thai": "มาหา...ก็หมอบกราบลง",
+          "rationale": "Two historic presents (per uW v.22) — vivid pacing for the new episode. Thai uses simple narrative verbs."
+        },
+        {
+          "greek": "εἷς τῶν ἀρχισυναγώγων, ὀνόματι Ἰάϊρος",
+          "thai": "นายธรรมศาลาคนหนึ่งชื่อไยรัส",
+          "rationale": "Per uW writing-participants + translate-names: introducing Jairus as new character. ἀρχισυνάγωγος = synagogue-ruler (lay-leader responsible for the worship service in a local synagogue — significant social standing). Thai 'นายธรรมศาลา' (chief-of-synagogue) standard biblical term; 'ธรรมศาลา' per glossary. 'ชื่อไยรัส' (named Jairus) — Hebrew יָאִיר meaning 'he enlightens.' Standard Thai transliteration 'ไยรัส.'"
+        },
+        {
+          "greek": "ἰδοὺ (implicit in some readings)",
+          "thai": "ดูเถิด",
+          "rationale": "Some MS witnesses include ἰδού here (cf. uW v.22 note); SBLGNT does not but the construction 'καὶ ἔρχεται εἷς...' carries the same attention-getting force. Thai opens with 'ดูเถิด' (Behold!) preserving the narrative-attention call. (If pure SBLGNT-following is preferred, this 'ดูเถิด' could be dropped — but Thai narration accommodates it as discourse marker for new-event.)"
+        },
+        {
+          "greek": "πίπτει πρὸς τοὺς πόδας αὐτοῦ",
+          "thai": "หมอบกราบลงแทบพระบาท",
+          "rationale": "Per uW translate-symaction: falling at feet = posture of profound respect/supplication. Thai 'หมอบกราบลงแทบพระบาท' (prostrate-kneel-down-near-royal-feet) preserves both the physical action and the royal register — 'แทบพระบาท' (at the royal feet) is the dignified Thai expression for falling before a king/divine being. Jairus, though socially elevated, lowers himself entirely before Jesus. This sets up the trust-and-faith theme of the chapter."
+        }
       ],
-      "notes": "JAIRUS = lay-elder, head of a local synagogue. His public submission to Jesus (a non-establishment teacher) is socially costly — synagogue authorities are typically presented as antagonists in Mark (cf. 1:21–28, 3:1–6). Yet Mark records this exception: a synagogue ruler's daughter is dying, and he recognizes Jesus' authority over death. The Hebrew name יָאִיר ('he enlightens') may be a Markan irony — the synagogue official seeks light from the One the synagogue establishment opposes."
+      "notes": "JAIRUS = lay-elder, head of a local synagogue. His public submission to Jesus (a non-establishment teacher) is socially costly — synagogue authorities are typically presented as antagonists in Mark (cf. 1:21–28, 3:1–6). Yet Mark records this exception: a synagogue ruler's daughter is dying, and he recognizes Jesus' authority over death. The Hebrew name יָאִיר ('he enlightens') may be a Markan irony — the synagogue official seeks light from the One the synagogue establishment opposes.",
+      "thai_literal": null,
+      "thai_summary": null
     },
     "model": "claude-opus-4-6 (manual)"
   },
@@ -395,12 +755,30 @@
     "translation": {
       "thai": "และทูลวิงวอนพระองค์อย่างยิ่งว่า 'ลูกสาวเล็กๆ ของข้าพระองค์ใกล้จะสิ้นใจแล้ว ขอเชิญเสด็จไปวางพระหัตถ์บนตัวเธอ เพื่อเธอจะหายและรอดชีวิต'",
       "key_decisions": [
-        {"greek": "παρακαλεῖ αὐτὸν πολλὰ λέγων (hist. pres.)", "thai": "ทูลวิงวอนพระองค์อย่างยิ่งว่า", "rationale": "Per uW v.23 historic present. 'ทูล' (deferential speech-verb) + 'วิงวอน' (entreat) preserves the urgent supplication; 'อย่างยิ่ง' (very much) for adverbial πολλά. Jairus uses humble register throughout per glossary precedent (Mark 1:40 leper)."},
-        {"greek": "Τὸ θυγάτριόν μου", "thai": "ลูกสาวเล็กๆ ของข้าพระองค์", "rationale": "θυγάτριον = diminutive of θυγάτηρ — 'little daughter' (affectionate; she's twelve per v.42). Thai 'ลูกสาวเล็กๆ' (daughter-little-little — reduplication for diminutive force) preserves both the size-diminutive and the affectionate tone. 'ข้าพระองค์' (humble-1st-person to royal-addressee) per Mark 1:40 glossary precedent."},
-        {"greek": "ἐσχάτως ἔχει (HAPAX adv.)", "thai": "ใกล้จะสิ้นใจแล้ว", "rationale": "HAPAX LEGOMENON: ἐσχάτως (adv.) only here in NT. Per uW figs-euphemism: idiom 'is at the last' = is dying / on her deathbed. Cognate with ἔσχατος ('last, end'). Thai 'ใกล้จะสิ้นใจ' (near to-exhale-the-last-breath — Thai poetic euphemism for dying); 'แล้ว' (perfective particle) marks the imminence. 'สิ้นใจ' is dignified Thai for death — appropriate for a parent's anguished speech, neither bluntly clinical nor sentimentalized."},
-        {"greek": "ἵνα ἐλθὼν ἐπιθῇς τὰς χεῖρας αὐτῇ ἵνα σωθῇ καὶ ζήσῃ", "thai": "ขอเชิญเสด็จไปวางพระหัตถ์บนตัวเธอ เพื่อเธอจะหายและรอดชีวิต", "rationale": "Per uW grammar-connect-logic-result: ἵνα introduces what Jairus wants Jesus to do. 'ขอเชิญเสด็จ' (please-invite royal-go) preserves humble request + royal action. 'พระหัตถ์' (royal-hand) per RULES.md §3. 'หาย' (be cured) + 'รอดชีวิต' (survive/be saved-alive) preserves the σῴζω + ζάω doublet — both healing AND continuing life. Per uW figs-activepassive: σωθῇ ('be saved') passive — Jesus is implicit agent; Thai active 'หาย' acceptable. The doubled hope ('healed AND live') signals the gravity: she's not just sick, she's dying."}
+        {
+          "greek": "παρακαλεῖ αὐτὸν πολλὰ λέγων (hist. pres.)",
+          "thai": "ทูลวิงวอนพระองค์อย่างยิ่งว่า",
+          "rationale": "Per uW v.23 historic present. 'ทูล' (deferential speech-verb) + 'วิงวอน' (entreat) preserves the urgent supplication; 'อย่างยิ่ง' (very much) for adverbial πολλά. Jairus uses humble register throughout per glossary precedent (Mark 1:40 leper)."
+        },
+        {
+          "greek": "Τὸ θυγάτριόν μου",
+          "thai": "ลูกสาวเล็กๆ ของข้าพระองค์",
+          "rationale": "θυγάτριον = diminutive of θυγάτηρ — 'little daughter' (affectionate; she's twelve per v.42). Thai 'ลูกสาวเล็กๆ' (daughter-little-little — reduplication for diminutive force) preserves both the size-diminutive and the affectionate tone. 'ข้าพระองค์' (humble-1st-person to royal-addressee) per Mark 1:40 glossary precedent."
+        },
+        {
+          "greek": "ἐσχάτως ἔχει (HAPAX adv.)",
+          "thai": "ใกล้จะสิ้นใจแล้ว",
+          "rationale": "HAPAX LEGOMENON: ἐσχάτως (adv.) only here in NT. Per uW figs-euphemism: idiom 'is at the last' = is dying / on her deathbed. Cognate with ἔσχατος ('last, end'). Thai 'ใกล้จะสิ้นใจ' (near to-exhale-the-last-breath — Thai poetic euphemism for dying); 'แล้ว' (perfective particle) marks the imminence. 'สิ้นใจ' is dignified Thai for death — appropriate for a parent's anguished speech, neither bluntly clinical nor sentimentalized."
+        },
+        {
+          "greek": "ἵνα ἐλθὼν ἐπιθῇς τὰς χεῖρας αὐτῇ ἵνα σωθῇ καὶ ζήσῃ",
+          "thai": "ขอเชิญเสด็จไปวางพระหัตถ์บนตัวเธอ เพื่อเธอจะหายและรอดชีวิต",
+          "rationale": "Per uW grammar-connect-logic-result: ἵνα introduces what Jairus wants Jesus to do. 'ขอเชิญเสด็จ' (please-invite royal-go) preserves humble request + royal action. 'พระหัตถ์' (royal-hand) per RULES.md §3. 'หาย' (be cured) + 'รอดชีวิต' (survive/be saved-alive) preserves the σῴζω + ζάω doublet — both healing AND continuing life. Per uW figs-activepassive: σωθῇ ('be saved') passive — Jesus is implicit agent; Thai active 'หาย' acceptable. The doubled hope ('healed AND live') signals the gravity: she's not just sick, she's dying."
+        }
       ],
-      "notes": "HAPAX: ἐσχάτως (5:23 only). The double purpose-clause (σωθῇ καὶ ζήσῃ) is a father's anguished hope: 'that she be healed AND live' — both emphases needed because she is dying. SOCIAL DYNAMIC: a synagogue ruler kneeling and pleading publicly with Jesus. The father has set aside his religious-political position because his daughter's life is at stake."
+      "notes": "HAPAX: ἐσχάτως (5:23 only). The double purpose-clause (σωθῇ καὶ ζήσῃ) is a father's anguished hope: 'that she be healed AND live' — both emphases needed because she is dying. SOCIAL DYNAMIC: a synagogue ruler kneeling and pleading publicly with Jesus. The father has set aside his religious-political position because his daughter's life is at stake.",
+      "thai_literal": null,
+      "thai_summary": null
     },
     "model": "claude-opus-4-6 (manual)"
   },
@@ -413,11 +791,25 @@
     "translation": {
       "thai": "พระองค์ก็เสด็จไปกับเขา และฝูงชนเป็นอันมากก็ตามเสด็จไป เบียดเสียดล้อมรอบพระองค์",
       "key_decisions": [
-        {"greek": "ἀπῆλθεν μετ' αὐτοῦ", "thai": "เสด็จไปกับเขา", "rationale": "Per uW figs-synecdoche: Jesus + disciples. Royal 'เสด็จไป' (royal-depart) for Jesus' movement; 'กับเขา' (with him — Jairus). Disciples implicit per Mark 5:37."},
-        {"greek": "ἠκολούθει αὐτῷ ὄχλος πολύς (impf.)", "thai": "ฝูงชนเป็นอันมากก็ตามเสด็จไป", "rationale": "Imperfect = ongoing following. Thai 'ตามเสด็จ' (follow-royal-go — the royal verb for following royalty) preserves the dignity-of-following. Note: Mark distinguishes ἀκολουθέω (follow) from the disciples' specific call-following — here it's the curious crowd, not committed disciples."},
-        {"greek": "συνέθλιβον (impf.)", "thai": "เบียดเสียดล้อมรอบ", "rationale": "συνθλίβω = 'press together, throng.' Imperfect = sustained pressing. Thai 'เบียดเสียด' (jostle-press) idiomatic for crowded human bodies pressing against each other; 'ล้อมรอบ' (surround) preserves the spatial encirclement. This sets up v.27 — the woman approaches IN the press."}
+        {
+          "greek": "ἀπῆλθεν μετ' αὐτοῦ",
+          "thai": "เสด็จไปกับเขา",
+          "rationale": "Per uW figs-synecdoche: Jesus + disciples. Royal 'เสด็จไป' (royal-depart) for Jesus' movement; 'กับเขา' (with him — Jairus). Disciples implicit per Mark 5:37."
+        },
+        {
+          "greek": "ἠκολούθει αὐτῷ ὄχλος πολύς (impf.)",
+          "thai": "ฝูงชนเป็นอันมากก็ตามเสด็จไป",
+          "rationale": "Imperfect = ongoing following. Thai 'ตามเสด็จ' (follow-royal-go — the royal verb for following royalty) preserves the dignity-of-following. Note: Mark distinguishes ἀκολουθέω (follow) from the disciples' specific call-following — here it's the curious crowd, not committed disciples."
+        },
+        {
+          "greek": "συνέθλιβον (impf.)",
+          "thai": "เบียดเสียดล้อมรอบ",
+          "rationale": "συνθλίβω = 'press together, throng.' Imperfect = sustained pressing. Thai 'เบียดเสียด' (jostle-press) idiomatic for crowded human bodies pressing against each other; 'ล้อมรอบ' (surround) preserves the spatial encirclement. This sets up v.27 — the woman approaches IN the press."
+        }
       ],
-      "notes": "SETUP for the intercalation: the dense crowd is the cover under which the hemorrhaging woman approaches. The press provides the condition for her to touch Jesus' garment unnoticed."
+      "notes": "SETUP for the intercalation: the dense crowd is the cover under which the hemorrhaging woman approaches. The press provides the condition for her to touch Jesus' garment unnoticed.",
+      "thai_literal": null,
+      "thai_summary": null
     },
     "model": "claude-opus-4-6 (manual)"
   },
@@ -430,11 +822,25 @@
     "translation": {
       "thai": "มีหญิงคนหนึ่ง ผู้ป่วยด้วยโรคโลหิตตกมาเป็นเวลาสิบสองปี",
       "key_decisions": [
-        {"greek": "καὶ γυνή", "thai": "มีหญิงคนหนึ่ง", "rationale": "Per uW writing-participants: introducing the woman as new character. Mark uses a long participial chain (vv.25–27) before the main verb ἥψατο in v.27. Thai breaks this into separate clauses for natural reading. 'มีหญิงคนหนึ่ง' (there-was a-woman a-certain-one) introduces."},
-        {"greek": "οὖσα ἐν ῥύσει αἵματος", "thai": "ผู้ป่วยด้วยโรคโลหิตตก", "rationale": "Per uW figs-euphemism: 'being in a flow of blood' = euphemism for chronic abnormal menstrual bleeding. Thai 'โรคโลหิตตก' (disease blood-fall — the standard Thai biblical/medical term for hemorrhage, especially gynecological) preserves the dignified medical-euphemistic register. 'ผู้ป่วยด้วย' (sufferer-from) preserves οὖσα ἐν as a condition-state. RITUAL IMPURITY: under Lev 15:25–30, a woman with ongoing flow of blood is in continuous niddah-impurity, untouchable, isolated socially and religiously. This explains both her secrecy (v.27) and her later fear (v.33)."},
-        {"greek": "δώδεκα ἔτη", "thai": "มาเป็นเวลาสิบสองปี", "rationale": "12 years — same number as the girl's age in v.42 (δώδεκα ἐτῶν). DELIBERATE NUMERICAL ECHO: Mark sets the woman's affliction-duration = the girl's lifespan. The intercalation is bound by this 12. Thai 'สิบสองปี' standard."}
+        {
+          "greek": "καὶ γυνή",
+          "thai": "มีหญิงคนหนึ่ง",
+          "rationale": "Per uW writing-participants: introducing the woman as new character. Mark uses a long participial chain (vv.25–27) before the main verb ἥψατο in v.27. Thai breaks this into separate clauses for natural reading. 'มีหญิงคนหนึ่ง' (there-was a-woman a-certain-one) introduces."
+        },
+        {
+          "greek": "οὖσα ἐν ῥύσει αἵματος",
+          "thai": "ผู้ป่วยด้วยโรคโลหิตตก",
+          "rationale": "Per uW figs-euphemism: 'being in a flow of blood' = euphemism for chronic abnormal menstrual bleeding. Thai 'โรคโลหิตตก' (disease blood-fall — the standard Thai biblical/medical term for hemorrhage, especially gynecological) preserves the dignified medical-euphemistic register. 'ผู้ป่วยด้วย' (sufferer-from) preserves οὖσα ἐν as a condition-state. RITUAL IMPURITY: under Lev 15:25–30, a woman with ongoing flow of blood is in continuous niddah-impurity, untouchable, isolated socially and religiously. This explains both her secrecy (v.27) and her later fear (v.33)."
+        },
+        {
+          "greek": "δώδεκα ἔτη",
+          "thai": "มาเป็นเวลาสิบสองปี",
+          "rationale": "12 years — same number as the girl's age in v.42 (δώδεκα ἐτῶν). DELIBERATE NUMERICAL ECHO: Mark sets the woman's affliction-duration = the girl's lifespan. The intercalation is bound by this 12. Thai 'สิบสองปี' standard."
+        }
       ],
-      "notes": "RITUAL IMPURITY: chronic menstrual hemorrhage under Lev 15:25–30 = continuous niddah-state, perpetual ritual uncleanness, social/religious isolation, anyone she touches becomes unclean. NUMERICAL ECHO: 12 years of flow / 12-year-old girl — the woman has been suffering for the entire span of the girl's life. Mark binds the two stories not just by sandwiching but by this numerical resonance: two women defined by 12, both restored by one touch."
+      "notes": "RITUAL IMPURITY: chronic menstrual hemorrhage under Lev 15:25–30 = continuous niddah-state, perpetual ritual uncleanness, social/religious isolation, anyone she touches becomes unclean. NUMERICAL ECHO: 12 years of flow / 12-year-old girl — the woman has been suffering for the entire span of the girl's life. Mark binds the two stories not just by sandwiching but by this numerical resonance: two women defined by 12, both restored by one touch.",
+      "thai_literal": null,
+      "thai_summary": null
     },
     "model": "claude-opus-4-6 (manual)"
   },
@@ -447,12 +853,30 @@
     "translation": {
       "thai": "นางได้ทนทุกข์ทรมานมามากจากการรักษาของหมอหลายคน เสียทรัพย์สินทั้งหมดของนางจนสิ้นเนื้อประดาตัว แต่ไม่ได้ดีขึ้นเลย กลับเลวร้ายลงเสียอีก",
       "key_decisions": [
-        {"greek": "πολλὰ παθοῦσα ὑπὸ πολλῶν ἰατρῶν", "thai": "ได้ทนทุกข์ทรมานมามากจากการรักษาของหมอหลายคน", "rationale": "Per uW figs-explicit (twofold): suffered FROM the treatments OR suffered WHILE being treated. Mark's Greek is ambiguous; we render as 'จากการรักษา' (from-the-treatment) which leans toward the treatments themselves causing suffering — historically plausible (1st-century medicine often used emetics, purgatives, leech-therapy, magical formulas). Thai 'ทนทุกข์ทรมาน' (endure-suffering-torture) standard biblical phrasing for severe suffering."},
-        {"greek": "δαπανήσασα τὰ παρ' αὐτῆς πάντα", "thai": "เสียทรัพย์สินทั้งหมดของนางจนสิ้นเนื้อประดาตัว", "rationale": "Per uW figs-explicit + figs-idiom: 'spent everything from herself' = spent all she had on physicians' fees. Thai 'เสียทรัพย์สิน' (spend-property) + 'จนสิ้นเนื้อประดาตัว' (until-bare-flesh-of-body — the standard Thai idiom for 'down to nothing,' 'destitute'). Captures both the financial ruin and the desperate trajectory."},
-        {"greek": "μηδὲν ὠφεληθεῖσα", "thai": "แต่ไม่ได้ดีขึ้นเลย", "rationale": "ὠφελέω (pass.) = 'be benefited.' Thai 'ไม่ได้ดีขึ้นเลย' (not-become-better at-all) natural rendering. The rebuttal of investment: nothing gained."},
-        {"greek": "εἰς τὸ χεῖρον ἐλθοῦσα", "thai": "กลับเลวร้ายลงเสียอีก", "rationale": "Per uW figs-idiom: 'having come to the worse' = getting worse. Thai 'กลับเลวร้ายลงเสียอีก' (instead-bad-down also-more) — 'กลับ' (instead) preserves the frustrating reversal."}
+        {
+          "greek": "πολλὰ παθοῦσα ὑπὸ πολλῶν ἰατρῶν",
+          "thai": "ได้ทนทุกข์ทรมานมามากจากการรักษาของหมอหลายคน",
+          "rationale": "Per uW figs-explicit (twofold): suffered FROM the treatments OR suffered WHILE being treated. Mark's Greek is ambiguous; we render as 'จากการรักษา' (from-the-treatment) which leans toward the treatments themselves causing suffering — historically plausible (1st-century medicine often used emetics, purgatives, leech-therapy, magical formulas). Thai 'ทนทุกข์ทรมาน' (endure-suffering-torture) standard biblical phrasing for severe suffering."
+        },
+        {
+          "greek": "δαπανήσασα τὰ παρ' αὐτῆς πάντα",
+          "thai": "เสียทรัพย์สินทั้งหมดของนางจนสิ้นเนื้อประดาตัว",
+          "rationale": "Per uW figs-explicit + figs-idiom: 'spent everything from herself' = spent all she had on physicians' fees. Thai 'เสียทรัพย์สิน' (spend-property) + 'จนสิ้นเนื้อประดาตัว' (until-bare-flesh-of-body — the standard Thai idiom for 'down to nothing,' 'destitute'). Captures both the financial ruin and the desperate trajectory."
+        },
+        {
+          "greek": "μηδὲν ὠφεληθεῖσα",
+          "thai": "แต่ไม่ได้ดีขึ้นเลย",
+          "rationale": "ὠφελέω (pass.) = 'be benefited.' Thai 'ไม่ได้ดีขึ้นเลย' (not-become-better at-all) natural rendering. The rebuttal of investment: nothing gained."
+        },
+        {
+          "greek": "εἰς τὸ χεῖρον ἐλθοῦσα",
+          "thai": "กลับเลวร้ายลงเสียอีก",
+          "rationale": "Per uW figs-idiom: 'having come to the worse' = getting worse. Thai 'กลับเลวร้ายลงเสียอีก' (instead-bad-down also-more) — 'กลับ' (instead) preserves the frustrating reversal."
+        }
       ],
-      "notes": "Background-information stack (per uW v.26 writing-background): three things are true of this woman before her decisive touch — much suffering, complete financial ruin, worsening condition. The pile-up of perfect-aspect participles (παθοῦσα, δαπανήσασα, ὠφεληθεῖσα, ἐλθοῦσα) intensifies the hopelessness against which the touch will be all-or-nothing. SUBTLE COMMENTARY on 1st-century medicine: physicians made things worse, not better."
+      "notes": "Background-information stack (per uW v.26 writing-background): three things are true of this woman before her decisive touch — much suffering, complete financial ruin, worsening condition. The pile-up of perfect-aspect participles (παθοῦσα, δαπανήσασα, ὠφεληθεῖσα, ἐλθοῦσα) intensifies the hopelessness against which the touch will be all-or-nothing. SUBTLE COMMENTARY on 1st-century medicine: physicians made things worse, not better.",
+      "thai_literal": null,
+      "thai_summary": null
     },
     "model": "claude-opus-4-6 (manual)"
   },
@@ -465,11 +889,25 @@
     "translation": {
       "thai": "เมื่อนางได้ยินเรื่องของพระเยซู ก็แทรกตัวเข้าไปในฝูงชนทางด้านหลัง และแตะต้องฉลองพระองค์",
       "key_decisions": [
-        {"greek": "ἀκούσασα περὶ τοῦ Ἰησοῦ", "thai": "เมื่อนางได้ยินเรื่องของพระเยซู", "rationale": "Per uW figs-explicit: she had heard about Jesus' healings. Thai 'ได้ยินเรื่อง' (heard-stories) preserves the rumor-circulation — she'd heard, presumably, that Jesus heals."},
-        {"greek": "ἐλθοῦσα ἐν τῷ ὄχλῳ ὄπισθεν", "thai": "ก็แทรกตัวเข้าไปในฝูงชนทางด้านหลัง", "rationale": "Per uW figs-go: 'gone' from her perspective. Thai 'แทรกตัวเข้าไป' (insert-self-go-in) makes the crowd-pushing explicit, capturing the deliberate effort it took an unclean woman to enter a crowd. 'ทางด้านหลัง' (from-the-rear) for ὄπισθεν — secrecy is critical (her impurity is contagious; if known, she'd be expelled)."},
-        {"greek": "ἥψατο τοῦ ἱματίου αὐτοῦ", "thai": "แตะต้องฉลองพระองค์", "rationale": "ἅπτω (mid.) = touch. ἱμάτιον = outer garment, cloak. Per uW figs-extrainfo: don't explain why here — Mark gives reason in v.28. Thai 'แตะต้อง' (touch-make-contact) — the doublet preserves the deliberate contact-making, more than accidental brushing. 'ฉลองพระองค์' is the dignified royal Thai for 'royal garment' — preserves the sacred quality (Jesus' garment, not just a cloak). The woman's touch is forbidden under Lev 15:27 (whoever touches anything she touches becomes unclean) — yet she reverses it. Possibly evokes the Numbers 15:38–39 fringe (tzitzit) on a Jewish man's outer garment — the Matt 9:20 par. specifies κρασπέδου (fringe). Mark says only ἱμάτιον; we follow Mark."}
+        {
+          "greek": "ἀκούσασα περὶ τοῦ Ἰησοῦ",
+          "thai": "เมื่อนางได้ยินเรื่องของพระเยซู",
+          "rationale": "Per uW figs-explicit: she had heard about Jesus' healings. Thai 'ได้ยินเรื่อง' (heard-stories) preserves the rumor-circulation — she'd heard, presumably, that Jesus heals."
+        },
+        {
+          "greek": "ἐλθοῦσα ἐν τῷ ὄχλῳ ὄπισθεν",
+          "thai": "ก็แทรกตัวเข้าไปในฝูงชนทางด้านหลัง",
+          "rationale": "Per uW figs-go: 'gone' from her perspective. Thai 'แทรกตัวเข้าไป' (insert-self-go-in) makes the crowd-pushing explicit, capturing the deliberate effort it took an unclean woman to enter a crowd. 'ทางด้านหลัง' (from-the-rear) for ὄπισθεν — secrecy is critical (her impurity is contagious; if known, she'd be expelled)."
+        },
+        {
+          "greek": "ἥψατο τοῦ ἱματίου αὐτοῦ",
+          "thai": "แตะต้องฉลองพระองค์",
+          "rationale": "ἅπτω (mid.) = touch. ἱμάτιον = outer garment, cloak. Per uW figs-extrainfo: don't explain why here — Mark gives reason in v.28. Thai 'แตะต้อง' (touch-make-contact) — the doublet preserves the deliberate contact-making, more than accidental brushing. 'ฉลองพระองค์' is the dignified royal Thai for 'royal garment' — preserves the sacred quality (Jesus' garment, not just a cloak). The woman's touch is forbidden under Lev 15:27 (whoever touches anything she touches becomes unclean) — yet she reverses it. Possibly evokes the Numbers 15:38–39 fringe (tzitzit) on a Jewish man's outer garment — the Matt 9:20 par. specifies κρασπέδου (fringe). Mark says only ἱμάτιον; we follow Mark."
+        }
       ],
-      "notes": "Per uW figs-extrainfo: the verse withholds the reason for the touch — v.28 supplies it. RITUAL VIOLATION: Lev 15:27 — touching her or what she touches transmits impurity. She knowingly violates the purity code, but Mark frames her act as faith-driven. The cloak-touch evokes the Numbers 15:38 tzitzit (fringes on the corner of a Jewish man's outer garment) believed by some 1st-century Jews to carry blessing/healing power — Matt 9:20 parallel makes this explicit (κρασπέδου = fringe); Mark says only ἱμάτιον."
+      "notes": "Per uW figs-extrainfo: the verse withholds the reason for the touch — v.28 supplies it. RITUAL VIOLATION: Lev 15:27 — touching her or what she touches transmits impurity. She knowingly violates the purity code, but Mark frames her act as faith-driven. The cloak-touch evokes the Numbers 15:38 tzitzit (fringes on the corner of a Jewish man's outer garment) believed by some 1st-century Jews to carry blessing/healing power — Matt 9:20 parallel makes this explicit (κρασπέδου = fringe); Mark says only ἱμάτιον.",
+      "thai_literal": null,
+      "thai_summary": null
     },
     "model": "claude-opus-4-6 (manual)"
   },
@@ -482,11 +920,25 @@
     "translation": {
       "thai": "เพราะนางคิดอยู่ในใจว่า 'ขอเพียงข้าได้แตะแม้แต่ฉลองพระองค์ของท่าน ข้าก็จะหาย'",
       "key_decisions": [
-        {"greek": "ἔλεγεν γάρ (impf.)", "thai": "เพราะนางคิดอยู่ในใจ", "rationale": "Per uW grammar-connect-logic-result + figs-explicit: γάρ explains v.27. Imperfect ἔλεγεν = repeated/sustained inner speech. Per uW figs-explicit: she was 'saying' to herself — i.e., thinking. Thai 'คิดอยู่ในใจ' (think-staying-in-heart) makes the inner-speech aspect explicit."},
-        {"greek": "Ἐὰν ἅψωμαι κἂν τῶν ἱματίων αὐτοῦ", "thai": "ขอเพียงข้าได้แตะแม้แต่ฉลองพระองค์ของท่าน", "rationale": "ἐάν + aor. subj. = third-class condition (uncertain hope). κἄν = 'even if (only).' Per uW figs-explicit: 'just' indicates minimum action — she thinks even minimal contact will suffice. Thai 'ขอเพียง...แม้แต่' (please-only...even) preserves the modesty of expectation. Note the woman, in her INNER speech, refers to Jesus as 'ท่าน' (respectful but not yet the divine 'พระองค์') — her faith is still tentative; she doesn't yet know him as Lord. 'ข้า' (humble-1st-person, but not yet the most-humble 'ข้าพระองค์') — appropriate for inner-speech of someone who has not yet personally addressed Jesus."},
-        {"greek": "σωθήσομαι (fut. pass.)", "thai": "ก็จะหาย", "rationale": "Per uW figs-activepassive: 'I will be saved/healed.' σῴζω carries both physical healing and spiritual salvation senses — Mark exploits the double meaning. Here Thai 'หาย' (cured) for the immediate physical healing meaning; the spiritual-salvation overtone surfaces in v.34 where Jesus interprets her σῴζω."}
+        {
+          "greek": "ἔλεγεν γάρ (impf.)",
+          "thai": "เพราะนางคิดอยู่ในใจ",
+          "rationale": "Per uW grammar-connect-logic-result + figs-explicit: γάρ explains v.27. Imperfect ἔλεγεν = repeated/sustained inner speech. Per uW figs-explicit: she was 'saying' to herself — i.e., thinking. Thai 'คิดอยู่ในใจ' (think-staying-in-heart) makes the inner-speech aspect explicit."
+        },
+        {
+          "greek": "Ἐὰν ἅψωμαι κἂν τῶν ἱματίων αὐτοῦ",
+          "thai": "ขอเพียงข้าได้แตะแม้แต่ฉลองพระองค์ของท่าน",
+          "rationale": "ἐάν + aor. subj. = third-class condition (uncertain hope). κἄν = 'even if (only).' Per uW figs-explicit: 'just' indicates minimum action — she thinks even minimal contact will suffice. Thai 'ขอเพียง...แม้แต่' (please-only...even) preserves the modesty of expectation. Note the woman, in her INNER speech, refers to Jesus as 'ท่าน' (respectful but not yet the divine 'พระองค์') — her faith is still tentative; she doesn't yet know him as Lord. 'ข้า' (humble-1st-person, but not yet the most-humble 'ข้าพระองค์') — appropriate for inner-speech of someone who has not yet personally addressed Jesus."
+        },
+        {
+          "greek": "σωθήσομαι (fut. pass.)",
+          "thai": "ก็จะหาย",
+          "rationale": "Per uW figs-activepassive: 'I will be saved/healed.' σῴζω carries both physical healing and spiritual salvation senses — Mark exploits the double meaning. Here Thai 'หาย' (cured) for the immediate physical healing meaning; the spiritual-salvation overtone surfaces in v.34 where Jesus interprets her σῴζω."
+        }
       ],
-      "notes": "Per uW translate-versebridge: vv.27–28 could be combined to put motivation before action; we keep Mark's order (action then motivation) which preserves his suspense-building. PSYCHOLOGY: Mark gives us interior monologue — rare in his fast narrative. The woman's faith is tentative but bold: she expects healing from minimal physical contact. This will become the basis of Jesus' 'your faith has saved you' in v.34."
+      "notes": "Per uW translate-versebridge: vv.27–28 could be combined to put motivation before action; we keep Mark's order (action then motivation) which preserves his suspense-building. PSYCHOLOGY: Mark gives us interior monologue — rare in his fast narrative. The woman's faith is tentative but bold: she expects healing from minimal physical contact. This will become the basis of Jesus' 'your faith has saved you' in v.34.",
+      "thai_literal": null,
+      "thai_summary": null
     },
     "model": "claude-opus-4-6 (manual)"
   },
@@ -499,12 +951,30 @@
     "translation": {
       "thai": "ในทันใดนั้น โลหิตที่ไหลของนางก็หยุด และนางก็รู้สึกได้ในร่างกายว่าตนหายจากโรคแล้ว",
       "key_decisions": [
-        {"greek": "εὐθὺς ἐξηράνθη (aor. pass.)", "thai": "ในทันใดนั้น โลหิตที่ไหล...ก็หยุด", "rationale": "Mark's signature εὐθύς. Per uW figs-activepassive: ξηραίνω (pass.) 'be dried up.' Thai 'หยุด' (stop) for the cessation; literal 'dry up' would be misleading for a flow-of-blood. Note ξηραίνω is the SAME verb as Mark 3:1 (withered hand) and Mark 4:6 (scorched seedlings) — Mark's lexical thread of organic 'drying'. 'ในทันใดนั้น' (in-that-instant) for εὐθύς."},
-        {"greek": "ἡ πηγὴ τοῦ αἵματος αὐτῆς", "thai": "โลหิตที่ไหลของนาง", "rationale": "πηγή = 'spring, fountain, source.' Greek frames the chronic bleeding as a 'fountain of her blood' — the LXX uses πηγὴ τοῦ αἵματος in Lev 12:7 specifically for the post-childbirth bleeding-source. Mark may evoke the LXX phrasing. Thai compresses 'fountain of her blood' to 'โลหิตที่ไหลของนาง' (the-blood-that-flows of-her) — preserves the chronic-flow sense without an image-shift; Thai readers don't have the same Levitical-spring imagery."},
-        {"greek": "ἔγνω τῷ σώματι", "thai": "รู้สึกได้ในร่างกาย", "rationale": "γινώσκω = know. Dative of means τῷ σώματι = 'by/in her body.' Thai 'รู้สึกได้ในร่างกาย' (sense/feel-in-body) preserves the embodied epistemology — she didn't just hope she was healed; she felt the change. This sets up the body-knowledge parallel with Jesus' body-knowledge in v.30."},
-        {"greek": "ἴαται ἀπὸ τῆς μάστιγος (perf. pass.)", "thai": "ตนหายจากโรคแล้ว", "rationale": "Per uW figs-activepassive + figs-abstractnouns: 'has been healed from the affliction.' ἰάομαι (perf. pass.) = 'has been healed' (abiding state). μάστιξ literally = 'whip, scourge'; metaphorically = 'severe affliction' (esp. chronic disease — cf. NT only Mark 3:10, 5:29, 5:34, Luke 7:21, Acts 22:24). Thai 'หายจากโรค' (be-cured of-disease) — 'หาย' standard biblical for medical recovery; 'แล้ว' marks the perfect-aspect already-accomplished sense. The 'whip/scourge' metaphor doesn't transfer naturally — Thai readers would hear it as either literal whip or punishment, neither of which fits. We render to 'โรค' (disease) for clarity."}
+        {
+          "greek": "εὐθὺς ἐξηράνθη (aor. pass.)",
+          "thai": "ในทันใดนั้น โลหิตที่ไหล...ก็หยุด",
+          "rationale": "Mark's signature εὐθύς. Per uW figs-activepassive: ξηραίνω (pass.) 'be dried up.' Thai 'หยุด' (stop) for the cessation; literal 'dry up' would be misleading for a flow-of-blood. Note ξηραίνω is the SAME verb as Mark 3:1 (withered hand) and Mark 4:6 (scorched seedlings) — Mark's lexical thread of organic 'drying'. 'ในทันใดนั้น' (in-that-instant) for εὐθύς."
+        },
+        {
+          "greek": "ἡ πηγὴ τοῦ αἵματος αὐτῆς",
+          "thai": "โลหิตที่ไหลของนาง",
+          "rationale": "πηγή = 'spring, fountain, source.' Greek frames the chronic bleeding as a 'fountain of her blood' — the LXX uses πηγὴ τοῦ αἵματος in Lev 12:7 specifically for the post-childbirth bleeding-source. Mark may evoke the LXX phrasing. Thai compresses 'fountain of her blood' to 'โลหิตที่ไหลของนาง' (the-blood-that-flows of-her) — preserves the chronic-flow sense without an image-shift; Thai readers don't have the same Levitical-spring imagery."
+        },
+        {
+          "greek": "ἔγνω τῷ σώματι",
+          "thai": "รู้สึกได้ในร่างกาย",
+          "rationale": "γινώσκω = know. Dative of means τῷ σώματι = 'by/in her body.' Thai 'รู้สึกได้ในร่างกาย' (sense/feel-in-body) preserves the embodied epistemology — she didn't just hope she was healed; she felt the change. This sets up the body-knowledge parallel with Jesus' body-knowledge in v.30."
+        },
+        {
+          "greek": "ἴαται ἀπὸ τῆς μάστιγος (perf. pass.)",
+          "thai": "ตนหายจากโรคแล้ว",
+          "rationale": "Per uW figs-activepassive + figs-abstractnouns: 'has been healed from the affliction.' ἰάομαι (perf. pass.) = 'has been healed' (abiding state). μάστιξ literally = 'whip, scourge'; metaphorically = 'severe affliction' (esp. chronic disease — cf. NT only Mark 3:10, 5:29, 5:34, Luke 7:21, Acts 22:24). Thai 'หายจากโรค' (be-cured of-disease) — 'หาย' standard biblical for medical recovery; 'แล้ว' marks the perfect-aspect already-accomplished sense. The 'whip/scourge' metaphor doesn't transfer naturally — Thai readers would hear it as either literal whip or punishment, neither of which fits. We render to 'โรค' (disease) for clarity."
+        }
       ],
-      "notes": "LEXICAL ECHO: ξηραίνω (dried up) — Mark's signature verb. Used at 3:1 (withered hand), 4:6 (scorched seedlings), and now 5:29 (dried-up bleeding). Three different things 'dry up' in Mark but the Greek lexeme unifies them. Thai must vary the verb (Mark 3 'ลีบ' for atrophy; Mark 4 'เหี่ยวแห้ง' for plant-wilt; Mark 5 'หยุด' for blood-cessation) — the unity of the Greek verb is lost but each Thai rendering is the natural one for its context. μάστιξ ('scourge') as metaphor for chronic disease — Mark's distinctive vocabulary; ancient readers might also have heard the implication of divine chastisement (cf. Job 21:9 LXX μάστιξ θεοῦ)."
+      "notes": "LEXICAL ECHO: ξηραίνω (dried up) — Mark's signature verb. Used at 3:1 (withered hand), 4:6 (scorched seedlings), and now 5:29 (dried-up bleeding). Three different things 'dry up' in Mark but the Greek lexeme unifies them. Thai must vary the verb (Mark 3 'ลีบ' for atrophy; Mark 4 'เหี่ยวแห้ง' for plant-wilt; Mark 5 'หยุด' for blood-cessation) — the unity of the Greek verb is lost but each Thai rendering is the natural one for its context. μάστιξ ('scourge') as metaphor for chronic disease — Mark's distinctive vocabulary; ancient readers might also have heard the implication of divine chastisement (cf. Job 21:9 LXX μάστιξ θεοῦ).",
+      "thai_literal": null,
+      "thai_summary": null
     },
     "model": "claude-opus-4-6 (manual)"
   },
@@ -517,12 +987,30 @@
     "translation": {
       "thai": "ในทันใดนั้น พระเยซูทรงทราบในพระองค์เองว่ามีฤทธิ์อำนาจออกไปจากพระองค์ จึงทรงหันมาในฝูงชนและตรัสว่า 'ใครแตะต้องฉลองพระองค์ของเรา?'",
       "key_decisions": [
-        {"greek": "ἐπιγνοὺς ἐν ἑαυτῷ", "thai": "ทรงทราบในพระองค์เอง", "rationale": "Per uW figs-explicit: Jesus knew internally — through inward perception, not external observation. ἐπιγινώσκω 'recognize, perceive fully.' Royal 'ทรงทราบ' (royal-know) for divine cognition; 'ในพระองค์เอง' (within-himself) preserves the introspective ἐν ἑαυτῷ. This parallels the woman's body-knowledge (ἔγνω τῷ σώματι v.29): she knew through her body that she was healed; he knew through his body that power had gone out. Mark builds a corporeal-cognition pair."},
-        {"greek": "τὴν ἐξ αὐτοῦ δύναμιν ἐξελθοῦσαν", "thai": "มีฤทธิ์อำนาจออกไปจากพระองค์", "rationale": "Per uW figs-explicit + figs-abstractnouns: δύναμις = power (here the healing power, considered as something that can flow). Thai 'ฤทธิ์อำนาจ' (might-authority — paired Thai noun standard for divine power) preserves the abstract noun while pairing 'ฤทธิ์' (might/miraculous-power) and 'อำนาจ' (authority) — the Thai biblical idiom. 'ออกไปจากพระองค์' (go-out from him) preserves the spatial-egression metaphor. This does not imply Jesus was depleted (per uW v.30 explicit note); it's simply that he sensed the outflow."},
-        {"greek": "ἐπιστραφεὶς ἐν τῷ ὄχλῳ", "thai": "จึงทรงหันมาในฝูงชน", "rationale": "ἐπιστρέφομαι = turn around. Royal 'ทรงหันมา' (royal-turn). 'ในฝูงชน' (in/within the-crowd) preserves the spatial dynamic — Jesus turns within the press, not away from it."},
-        {"greek": "Τίς μου ἥψατο τῶν ἱματίων;", "thai": "ใครแตะต้องฉลองพระองค์ของเรา?", "rationale": "Direct question. Royal Jesus self-reference 'เรา' per glossary (Mark 3:33 precedent). 'ฉลองพระองค์ของเรา' (royal-garment of-us) preserves the dignified register. Note: Jesus does not yet say 'who has been healed?' — he asks who touched, deferring identification of the act's healing-implication. The question creates the public exposure the woman feared."}
+        {
+          "greek": "ἐπιγνοὺς ἐν ἑαυτῷ",
+          "thai": "ทรงทราบในพระองค์เอง",
+          "rationale": "Per uW figs-explicit: Jesus knew internally — through inward perception, not external observation. ἐπιγινώσκω 'recognize, perceive fully.' Royal 'ทรงทราบ' (royal-know) for divine cognition; 'ในพระองค์เอง' (within-himself) preserves the introspective ἐν ἑαυτῷ. This parallels the woman's body-knowledge (ἔγνω τῷ σώματι v.29): she knew through her body that she was healed; he knew through his body that power had gone out. Mark builds a corporeal-cognition pair."
+        },
+        {
+          "greek": "τὴν ἐξ αὐτοῦ δύναμιν ἐξελθοῦσαν",
+          "thai": "มีฤทธิ์อำนาจออกไปจากพระองค์",
+          "rationale": "Per uW figs-explicit + figs-abstractnouns: δύναμις = power (here the healing power, considered as something that can flow). Thai 'ฤทธิ์อำนาจ' (might-authority — paired Thai noun standard for divine power) preserves the abstract noun while pairing 'ฤทธิ์' (might/miraculous-power) and 'อำนาจ' (authority) — the Thai biblical idiom. 'ออกไปจากพระองค์' (go-out from him) preserves the spatial-egression metaphor. This does not imply Jesus was depleted (per uW v.30 explicit note); it's simply that he sensed the outflow."
+        },
+        {
+          "greek": "ἐπιστραφεὶς ἐν τῷ ὄχλῳ",
+          "thai": "จึงทรงหันมาในฝูงชน",
+          "rationale": "ἐπιστρέφομαι = turn around. Royal 'ทรงหันมา' (royal-turn). 'ในฝูงชน' (in/within the-crowd) preserves the spatial dynamic — Jesus turns within the press, not away from it."
+        },
+        {
+          "greek": "Τίς μου ἥψατο τῶν ἱματίων;",
+          "thai": "ใครแตะต้องฉลองพระองค์ของเรา?",
+          "rationale": "Direct question. Royal Jesus self-reference 'เรา' per glossary (Mark 3:33 precedent). 'ฉลองพระองค์ของเรา' (royal-garment of-us) preserves the dignified register. Note: Jesus does not yet say 'who has been healed?' — he asks who touched, deferring identification of the act's healing-implication. The question creates the public exposure the woman feared."
+        }
       ],
-      "notes": "BODY-KNOWLEDGE PAIR: she knew in her body she was healed (v.29); he knew in himself that power had gone out (v.30). Mark portrays a kind of dialogical embodied awareness — her faith and his power interacting at a bodily level. THEOLOGICAL CRUX: did Jesus 'know who' touched him? Mark's text suggests he knew SOMETHING happened but had to ask to bring it into the open. This is consistent with Mark's portrayal of Jesus as both fully divine and incarnationally limited (cf. Mark 13:32). Other interpreters argue he knew but asked publicly to draw out the woman's confession."
+      "notes": "BODY-KNOWLEDGE PAIR: she knew in her body she was healed (v.29); he knew in himself that power had gone out (v.30). Mark portrays a kind of dialogical embodied awareness — her faith and his power interacting at a bodily level. THEOLOGICAL CRUX: did Jesus 'know who' touched him? Mark's text suggests he knew SOMETHING happened but had to ask to bring it into the open. This is consistent with Mark's portrayal of Jesus as both fully divine and incarnationally limited (cf. Mark 13:32). Other interpreters argue he knew but asked publicly to draw out the woman's confession.",
+      "thai_literal": null,
+      "thai_summary": null
     },
     "model": "claude-opus-4-6 (manual)"
   },
@@ -535,12 +1023,30 @@
     "translation": {
       "thai": "เหล่าสาวกของพระองค์ทูลว่า 'พระองค์ทอดพระเนตรเห็นฝูงชนเบียดเสียดพระองค์อยู่ แล้วพระองค์ยังตรัสถามว่า \"ใครแตะต้องเรา?\" หรือ?'",
       "key_decisions": [
-        {"greek": "Βλέπεις τὸν ὄχλον συνθλίβοντά σε", "thai": "พระองค์ทอดพระเนตรเห็นฝูงชนเบียดเสียดพระองค์อยู่", "rationale": "Per uW figs-explicit: implies anyone could have touched. Royal 'ทอดพระเนตรเห็น' (royal-see) per RULES.md §3 — disciples address Jesus with full ราชาศัพท์. 'เบียดเสียด' (jostle-press) consistent with v.24."},
-        {"greek": "καὶ λέγεις (rhet. q.)", "thai": "แล้วพระองค์ยังตรัสถามว่า...หรือ?", "rationale": "Per uW figs-rquestion + grammar-connect-words-phrases (καί contrastive 'and yet'): the disciples find Jesus' question absurd. Thai 'แล้วพระองค์ยัง...หรือ?' (and royal-yet...question?) preserves the incredulous rhetorical-question form. 'ยัง' (still/yet) carries the 'and you STILL ask' force."},
-        {"greek": "Τίς μου ἥψατο;", "thai": "ใครแตะต้องเรา?", "rationale": "Per uW figs-quotesinquotes: quote within quote. Thai uses double quotes nested within single quotes for the disciples' quotation of Jesus' words. Note Jesus' self-reference 'เรา' is preserved per his royal-self register, even within the disciples' quotation."},
-        {"greek": "λέγεις (irony)", "thai": "ยังตรัสถาม", "rationale": "Per uW figs-irony: the disciples mock the question. Thai 'ยังตรัสถาม' preserves the verbal echo with light incredulity — 'ยัง' carries the 'STILL asking' impatience without ridiculing Jesus."}
+        {
+          "greek": "Βλέπεις τὸν ὄχλον συνθλίβοντά σε",
+          "thai": "พระองค์ทอดพระเนตรเห็นฝูงชนเบียดเสียดพระองค์อยู่",
+          "rationale": "Per uW figs-explicit: implies anyone could have touched. Royal 'ทอดพระเนตรเห็น' (royal-see) per RULES.md §3 — disciples address Jesus with full ราชาศัพท์. 'เบียดเสียด' (jostle-press) consistent with v.24."
+        },
+        {
+          "greek": "καὶ λέγεις (rhet. q.)",
+          "thai": "แล้วพระองค์ยังตรัสถามว่า...หรือ?",
+          "rationale": "Per uW figs-rquestion + grammar-connect-words-phrases (καί contrastive 'and yet'): the disciples find Jesus' question absurd. Thai 'แล้วพระองค์ยัง...หรือ?' (and royal-yet...question?) preserves the incredulous rhetorical-question form. 'ยัง' (still/yet) carries the 'and you STILL ask' force."
+        },
+        {
+          "greek": "Τίς μου ἥψατο;",
+          "thai": "ใครแตะต้องเรา?",
+          "rationale": "Per uW figs-quotesinquotes: quote within quote. Thai uses double quotes nested within single quotes for the disciples' quotation of Jesus' words. Note Jesus' self-reference 'เรา' is preserved per his royal-self register, even within the disciples' quotation."
+        },
+        {
+          "greek": "λέγεις (irony)",
+          "thai": "ยังตรัสถาม",
+          "rationale": "Per uW figs-irony: the disciples mock the question. Thai 'ยังตรัสถาม' preserves the verbal echo with light incredulity — 'ยัง' carries the 'STILL asking' impatience without ridiculing Jesus."
+        }
       ],
-      "notes": "DISCIPLE INCOMPREHENSION: the disciples see physical contact but can't sense the difference between casual jostling and faith-charged touch. Mark uses the disciples as foils for the woman's faith — she perceived what they couldn't. Recurring Markan theme (cf. 4:13, 6:52, 7:18, 8:17–21)."
+      "notes": "DISCIPLE INCOMPREHENSION: the disciples see physical contact but can't sense the difference between casual jostling and faith-charged touch. Mark uses the disciples as foils for the woman's faith — she perceived what they couldn't. Recurring Markan theme (cf. 4:13, 6:52, 7:18, 8:17–21).",
+      "thai_literal": null,
+      "thai_summary": null
     },
     "model": "claude-opus-4-6 (manual)"
   },
@@ -553,11 +1059,25 @@
     "translation": {
       "thai": "แต่พระองค์ก็ยังคงทอดพระเนตรไปรอบๆ เพื่อให้ทรงเห็นผู้ที่ได้กระทำการนี้",
       "key_decisions": [
-        {"greek": "καί (contrastive)", "thai": "แต่", "rationale": "Per uW grammar-connect-words-phrases: καί contrastive — Jesus disregards the disciples' dismissive response. Thai 'แต่' (but) preserves the contrast."},
-        {"greek": "περιεβλέπετο (impf. mid.)", "thai": "ยังคงทอดพระเนตรไปรอบๆ", "rationale": "περιβλέπομαι = look around (middle voice — looking-for-oneself). Imperfect = sustained looking. Royal 'ทอดพระเนตร' (royal-see/look) per RULES.md §3. 'ยังคง...ไปรอบๆ' (still...around) preserves the persistent searching gaze."},
-        {"greek": "τὴν τοῦτο ποιήσασαν (fem. ptcp.)", "thai": "ผู้ที่ได้กระทำการนี้", "rationale": "Per uW writing-pronouns + writing-participants: 'the (woman) having done this.' FEMININE participle reveals to the reader (but not yet the disciples!) that the toucher is female. Thai 'ผู้' (one who) is gender-neutral — but Greek's fem. is part of Mark's narrative reveal-strategy. We could mark it explicitly ('หญิงผู้ที่...') but that would spoil the reveal pacing. We follow Greek's economy: Jesus knows it's a woman; the disciples are about to find out."}
+        {
+          "greek": "καί (contrastive)",
+          "thai": "แต่",
+          "rationale": "Per uW grammar-connect-words-phrases: καί contrastive — Jesus disregards the disciples' dismissive response. Thai 'แต่' (but) preserves the contrast."
+        },
+        {
+          "greek": "περιεβλέπετο (impf. mid.)",
+          "thai": "ยังคงทอดพระเนตรไปรอบๆ",
+          "rationale": "περιβλέπομαι = look around (middle voice — looking-for-oneself). Imperfect = sustained looking. Royal 'ทอดพระเนตร' (royal-see/look) per RULES.md §3. 'ยังคง...ไปรอบๆ' (still...around) preserves the persistent searching gaze."
+        },
+        {
+          "greek": "τὴν τοῦτο ποιήσασαν (fem. ptcp.)",
+          "thai": "ผู้ที่ได้กระทำการนี้",
+          "rationale": "Per uW writing-pronouns + writing-participants: 'the (woman) having done this.' FEMININE participle reveals to the reader (but not yet the disciples!) that the toucher is female. Thai 'ผู้' (one who) is gender-neutral — but Greek's fem. is part of Mark's narrative reveal-strategy. We could mark it explicitly ('หญิงผู้ที่...') but that would spoil the reveal pacing. We follow Greek's economy: Jesus knows it's a woman; the disciples are about to find out."
+        }
       ],
-      "notes": "GENDER REVEAL: the feminine participle τὴν...ποιήσασαν tells the reader (and signals Jesus' insight) that the toucher is a woman — before the disciples know. Mark uses grammatical gender as a narrative device. Thai's gender-neutral 'ผู้' loses this; the reveal lands fully at v.33."
+      "notes": "GENDER REVEAL: the feminine participle τὴν...ποιήσασαν tells the reader (and signals Jesus' insight) that the toucher is a woman — before the disciples know. Mark uses grammatical gender as a narrative device. Thai's gender-neutral 'ผู้' loses this; the reveal lands fully at v.33.",
+      "thai_literal": null,
+      "thai_summary": null
     },
     "model": "claude-opus-4-6 (manual)"
   },
@@ -570,12 +1090,30 @@
     "translation": {
       "thai": "ฝ่ายหญิงคนนั้น รู้ตัวว่าเกิดอะไรขึ้นกับนาง ก็ตัวสั่นด้วยความกลัว เข้ามาหมอบกราบลงเฉพาะพระพักตร์ และทูลความจริงทั้งหมดแด่พระองค์",
       "key_decisions": [
-        {"greek": "φοβηθεῖσα καὶ τρέμουσα (hendiadys)", "thai": "ตัวสั่นด้วยความกลัว", "rationale": "Per uW figs-hendiadys: 'fearing and trembling' = trembling with fear (one idea, two terms). Thai 'ตัวสั่นด้วยความกลัว' (body-trembles with fear) compresses the hendiadys into the natural Thai idiom. Why fear? She's exposed: ritually unclean woman who touched a holy teacher; fear of public shame, of Jesus' rebuke, of being expelled from the crowd."},
-        {"greek": "εἰδυῖα ὃ γέγονεν αὐτῇ", "thai": "รู้ตัวว่าเกิดอะไรขึ้นกับนาง", "rationale": "Per uW grammar-connect-logic-result: gives reason for her behavior — she knew the healing had occurred AND knew her contact had been detected. Thai 'รู้ตัวว่าเกิดอะไรขึ้นกับนาง' (know-self that-happened with-her) — 'รู้ตัว' captures the self-aware-realization (she knows about herself, she knows about her healing)."},
-        {"greek": "ἦλθεν καὶ προσέπεσεν αὐτῷ", "thai": "เข้ามาหมอบกราบลงเฉพาะพระพักตร์", "rationale": "Per uW translate-symaction: προσπίπτω = fall before — posture of worship/honor/submission. Thai 'หมอบกราบลงเฉพาะพระพักตร์' (prostrate-kneel-down at-royal-presence) preserves the posture and royal register — same construction as v.6 (the demoniac) but with very different inner content: the demoniac's prostration was forced; hers is freely-given confession."},
-        {"greek": "εἶπεν αὐτῷ πᾶσαν τὴν ἀλήθειαν", "thai": "ทูลความจริงทั้งหมดแด่พระองค์", "rationale": "Per uW figs-explicit + figs-abstractnouns: 'the whole truth' = everything about her condition AND her surreptitious touch. Thai 'ทูลความจริงทั้งหมด' (deferential-tell the-truth-all) — 'ทูล' preserves the reverent speech-verb (humble-to-superior). 'แด่พระองค์' (to royal-him) full ราชาศัพท์ — once she steps forward in faith, her register elevates from inner-speech 'ท่าน' (v.28) to public 'พระองค์.'"}
+        {
+          "greek": "φοβηθεῖσα καὶ τρέμουσα (hendiadys)",
+          "thai": "ตัวสั่นด้วยความกลัว",
+          "rationale": "Per uW figs-hendiadys: 'fearing and trembling' = trembling with fear (one idea, two terms). Thai 'ตัวสั่นด้วยความกลัว' (body-trembles with fear) compresses the hendiadys into the natural Thai idiom. Why fear? She's exposed: ritually unclean woman who touched a holy teacher; fear of public shame, of Jesus' rebuke, of being expelled from the crowd."
+        },
+        {
+          "greek": "εἰδυῖα ὃ γέγονεν αὐτῇ",
+          "thai": "รู้ตัวว่าเกิดอะไรขึ้นกับนาง",
+          "rationale": "Per uW grammar-connect-logic-result: gives reason for her behavior — she knew the healing had occurred AND knew her contact had been detected. Thai 'รู้ตัวว่าเกิดอะไรขึ้นกับนาง' (know-self that-happened with-her) — 'รู้ตัว' captures the self-aware-realization (she knows about herself, she knows about her healing)."
+        },
+        {
+          "greek": "ἦλθεν καὶ προσέπεσεν αὐτῷ",
+          "thai": "เข้ามาหมอบกราบลงเฉพาะพระพักตร์",
+          "rationale": "Per uW translate-symaction: προσπίπτω = fall before — posture of worship/honor/submission. Thai 'หมอบกราบลงเฉพาะพระพักตร์' (prostrate-kneel-down at-royal-presence) preserves the posture and royal register — same construction as v.6 (the demoniac) but with very different inner content: the demoniac's prostration was forced; hers is freely-given confession."
+        },
+        {
+          "greek": "εἶπεν αὐτῷ πᾶσαν τὴν ἀλήθειαν",
+          "thai": "ทูลความจริงทั้งหมดแด่พระองค์",
+          "rationale": "Per uW figs-explicit + figs-abstractnouns: 'the whole truth' = everything about her condition AND her surreptitious touch. Thai 'ทูลความจริงทั้งหมด' (deferential-tell the-truth-all) — 'ทูล' preserves the reverent speech-verb (humble-to-superior). 'แด่พระองค์' (to royal-him) full ราชาศัพท์ — once she steps forward in faith, her register elevates from inner-speech 'ท่าน' (v.28) to public 'พระองค์.'"
+        }
       ],
-      "notes": "REGISTER SHIFT: the woman's inner-speech in v.28 used 'ข้า/ท่าน' (humble-1st but tentative-respectful 2nd). Now in v.33 her direct address would use 'ข้าพระองค์/พระองค์' (full humble-to-divine register, per glossary). Thai narrator-voice 'แด่พระองค์' marks the shift to full reverence. Faith confessed publicly elevates her speech. PUBLIC CONFESSION: Mark insists on the woman's public testimony — Jesus could have noted the healing privately. The 'whole truth' becomes the doorway to v.34's commendation. Faith hidden gets healing; faith confessed gets benediction."
+      "notes": "REGISTER SHIFT: the woman's inner-speech in v.28 used 'ข้า/ท่าน' (humble-1st but tentative-respectful 2nd). Now in v.33 her direct address would use 'ข้าพระองค์/พระองค์' (full humble-to-divine register, per glossary). Thai narrator-voice 'แด่พระองค์' marks the shift to full reverence. Faith confessed publicly elevates her speech. PUBLIC CONFESSION: Mark insists on the woman's public testimony — Jesus could have noted the healing privately. The 'whole truth' becomes the doorway to v.34's commendation. Faith hidden gets healing; faith confessed gets benediction.",
+      "thai_literal": null,
+      "thai_summary": null
     },
     "model": "claude-opus-4-6 (manual)"
   },
@@ -588,13 +1126,35 @@
     "translation": {
       "thai": "พระองค์ตรัสกับนางว่า 'ลูกหญิงเอ๋ย ความเชื่อของเจ้าได้ทำให้เจ้ารอดแล้ว จงไปเป็นสุขเถิด และจงหายจากโรคของเจ้า'",
       "key_decisions": [
-        {"greek": "Θυγάτηρ", "thai": "ลูกหญิงเอ๋ย", "rationale": "Per uW figs-metaphor: 'Daughter' = affectionate address from elder to younger; not a literal kinship claim. Thai 'ลูกหญิงเอ๋ย' (daughter-female-vocative-particle) — 'ลูกหญิง' is the gender-marked daughter; 'เอ๋ย' is the Thai vocative-affectionate particle (used in older biblical Thai to address with tenderness). Captures the warmth Jesus extends. Note: this is the ONLY place in the Gospels where Jesus addresses a woman as 'daughter.' The reciprocity is intimate — she's anonymous, ritually unclean, socially invisible; he names her into family."},
-        {"greek": "ἡ πίστις σου σέσωκέν σε (perf.)", "thai": "ความเชื่อของเจ้าได้ทำให้เจ้ารอดแล้ว", "rationale": "Per uW figs-abstractnouns + figs-personification: faith personified as the agent of salvation. πίστις = trust/faith (per glossary should be tracked across chapters; this is its first major Mark appearance). σῴζω here in PERFECT = 'has saved' (abiding state). Thai 'ความเชื่อของเจ้า' (your-faith) — 'ความเชื่อ' standard biblical Thai. 'ได้ทำให้เจ้ารอดแล้ว' (has-caused-you-to-be-saved-already) — perfect aspect with 'แล้ว.' σῴζω here is intentionally polysemous: physical healing + spiritual salvation. Thai 'รอด' (be saved/escape) carries both senses naturally — same word for being-rescued from danger AND being-saved spiritually."},
-        {"greek": "ὕπαγε εἰς εἰρήνην", "thai": "จงไปเป็นสุขเถิด", "rationale": "Per uW figs-idiom + figs-abstractnouns: Hebraism (lekh leshalom — 1 Sam 1:17, 20:42; 2 Sam 15:9). Standard Hebrew/Aramaic farewell-blessing. Thai 'จงไปเป็นสุขเถิด' (go-be-happy/peaceful) preserves the imperative + state-of-peace. 'เป็นสุข' (be-happy/well) standard Thai for εἰρήνη in well-wish context — broader than narrow 'peace' (สันติสุข), encompassing the Hebrew shalom's wholeness/welfare meaning."},
-        {"greek": "ἴσθι ὑγιὴς ἀπὸ τῆς μάστιγός σου", "thai": "จงหายจากโรคของเจ้า", "rationale": "Per uW figs-activepassive + figs-abstractnouns: 'be healthy from your affliction.' Imperative ἴσθι + adj. ὑγιής (healthy). Thai 'จงหายจากโรคของเจ้า' (be-cured of-your-disease) — performative imperative confirms the healing already happened, declaring its permanence. μάστιξ → 'โรค' consistent with v.29."},
-        {"greek": "Jesus addressing the woman", "thai": "เจ้า (intimate-affectionate, paternal-like)", "rationale": "Jesus uses 'เจ้า' for the woman — same as for healed-paralytic (Mark 2:5) and demoniac (Mark 5:19), but here colored by the 'ลูกหญิง' (daughter) address — making it warmly paternal rather than hierarchically distant. Per glossary: divine-to-human 'เจ้า' is the standard Markan register."}
+        {
+          "greek": "Θυγάτηρ",
+          "thai": "ลูกหญิงเอ๋ย",
+          "rationale": "Per uW figs-metaphor: 'Daughter' = affectionate address from elder to younger; not a literal kinship claim. Thai 'ลูกหญิงเอ๋ย' (daughter-female-vocative-particle) — 'ลูกหญิง' is the gender-marked daughter; 'เอ๋ย' is the Thai vocative-affectionate particle (used in older biblical Thai to address with tenderness). Captures the warmth Jesus extends. Note: this is the ONLY place in the Gospels where Jesus addresses a woman as 'daughter.' The reciprocity is intimate — she's anonymous, ritually unclean, socially invisible; he names her into family."
+        },
+        {
+          "greek": "ἡ πίστις σου σέσωκέν σε (perf.)",
+          "thai": "ความเชื่อของเจ้าได้ทำให้เจ้ารอดแล้ว",
+          "rationale": "Per uW figs-abstractnouns + figs-personification: faith personified as the agent of salvation. πίστις = trust/faith (per glossary should be tracked across chapters; this is its first major Mark appearance). σῴζω here in PERFECT = 'has saved' (abiding state). Thai 'ความเชื่อของเจ้า' (your-faith) — 'ความเชื่อ' standard biblical Thai. 'ได้ทำให้เจ้ารอดแล้ว' (has-caused-you-to-be-saved-already) — perfect aspect with 'แล้ว.' σῴζω here is intentionally polysemous: physical healing + spiritual salvation. Thai 'รอด' (be saved/escape) carries both senses naturally — same word for being-rescued from danger AND being-saved spiritually."
+        },
+        {
+          "greek": "ὕπαγε εἰς εἰρήνην",
+          "thai": "จงไปเป็นสุขเถิด",
+          "rationale": "Per uW figs-idiom + figs-abstractnouns: Hebraism (lekh leshalom — 1 Sam 1:17, 20:42; 2 Sam 15:9). Standard Hebrew/Aramaic farewell-blessing. Thai 'จงไปเป็นสุขเถิด' (go-be-happy/peaceful) preserves the imperative + state-of-peace. 'เป็นสุข' (be-happy/well) standard Thai for εἰρήνη in well-wish context — broader than narrow 'peace' (สันติสุข), encompassing the Hebrew shalom's wholeness/welfare meaning."
+        },
+        {
+          "greek": "ἴσθι ὑγιὴς ἀπὸ τῆς μάστιγός σου",
+          "thai": "จงหายจากโรคของเจ้า",
+          "rationale": "Per uW figs-activepassive + figs-abstractnouns: 'be healthy from your affliction.' Imperative ἴσθι + adj. ὑγιής (healthy). Thai 'จงหายจากโรคของเจ้า' (be-cured of-your-disease) — performative imperative confirms the healing already happened, declaring its permanence. μάστιξ → 'โรค' consistent with v.29."
+        },
+        {
+          "greek": "Jesus addressing the woman",
+          "thai": "เจ้า (intimate-affectionate, paternal-like)",
+          "rationale": "Jesus uses 'เจ้า' for the woman — same as for healed-paralytic (Mark 2:5) and demoniac (Mark 5:19), but here colored by the 'ลูกหญิง' (daughter) address — making it warmly paternal rather than hierarchically distant. Per glossary: divine-to-human 'เจ้า' is the standard Markan register."
+        }
       ],
-      "notes": "DAUGHTER: only Gospel instance of Jesus addressing a woman as 'Daughter.' Names the anonymous woman INTO family. FAITH-SAVES: σέσωκεν (perf.) in Mark — your faith has-saved-you-and-keeps-saving. Same construction at Mark 10:52 (Bartimaeus), Luke 7:50 (sinful woman), 17:19 (leper). Mark's σῴζω-formula intentionally fuses healing + salvation. SHALOM-BENEDICTION: 'go in peace' = the Hebrew lekh leshalom — Jesus dismisses her with the formal Hebrew farewell-blessing, completing her restoration not just physically but socially and ritually (her rejoining the community is sealed by the rabbi-figure's blessing). CONTRAST WITH JAIRUS: while Jesus pauses for this 12-year-suffering woman, Jairus' 12-year-old daughter dies (v.35). The intercalation forces the question: was the delay costly? Mark's answer (v.36): not for those who believe."
+      "notes": "DAUGHTER: only Gospel instance of Jesus addressing a woman as 'Daughter.' Names the anonymous woman INTO family. FAITH-SAVES: σέσωκεν (perf.) in Mark — your faith has-saved-you-and-keeps-saving. Same construction at Mark 10:52 (Bartimaeus), Luke 7:50 (sinful woman), 17:19 (leper). Mark's σῴζω-formula intentionally fuses healing + salvation. SHALOM-BENEDICTION: 'go in peace' = the Hebrew lekh leshalom — Jesus dismisses her with the formal Hebrew farewell-blessing, completing her restoration not just physically but socially and ritually (her rejoining the community is sealed by the rabbi-figure's blessing). CONTRAST WITH JAIRUS: while Jesus pauses for this 12-year-suffering woman, Jairus' 12-year-old daughter dies (v.35). The intercalation forces the question: was the delay costly? Mark's answer (v.36): not for those who believe.",
+      "thai_literal": null,
+      "thai_summary": null
     },
     "model": "claude-opus-4-6 (manual)"
   },
@@ -607,12 +1167,30 @@
     "translation": {
       "thai": "ขณะที่พระองค์ยังตรัสอยู่ มีคนมาจากบ้านของนายธรรมศาลา บอกว่า 'ลูกสาวของท่านสิ้นใจแล้ว จะรบกวนพระอาจารย์อีกทำไม?'",
       "key_decisions": [
-        {"greek": "Ἔτι αὐτοῦ λαλοῦντος (gen. abs.)", "thai": "ขณะที่พระองค์ยังตรัสอยู่", "rationale": "Per uW figs-explicit: Jesus is still speaking the v.34 benediction when the news arrives. Thai 'ขณะที่...ยังตรัสอยู่' (while...still royal-speaking) preserves the INTERRUPTION-TIMING. Royal 'ตรัส.'"},
-        {"greek": "ἔρχονται ἀπὸ τοῦ ἀρχισυναγώγου (hist. pres.)", "thai": "มีคนมาจากบ้านของนายธรรมศาลา", "rationale": "Per uW writing-pronouns + figs-metonymy: 'they come from the synagogue-ruler' = from his HOUSE (metonymy). Thai 'มีคน...มาจากบ้านของ' (there-are-people...come-from house-of) makes the metonymy explicit. Historic present preserved as narrative present."},
-        {"greek": "Ἡ θυγάτηρ σου ἀπέθανεν (aor.)", "thai": "ลูกสาวของท่านสิ้นใจแล้ว", "rationale": "Direct quotation. Aorist ἀπέθανεν 'has died.' Thai 'ลูกสาวของท่านสิ้นใจแล้ว' (your-daughter has-passed-away) — 'สิ้นใจ' (exhale-the-last-breath) the same dignified euphemism as Jairus' 'ใกล้จะสิ้นใจ' in v.23, now realized: she who was 'near to last-breath' has now 'last-breath-completed.' The messengers address Jairus formally — they use 'ท่าน' (respectful-2nd-person) for him as a synagogue-ruler."},
-        {"greek": "τί ἔτι σκύλλεις τὸν διδάσκαλον; (rhet. q.)", "thai": "จะรบกวนพระอาจารย์อีกทำไม?", "rationale": "Per uW figs-rquestion + figs-explicit: rhetorical 'why bother the teacher anymore' implying 'don't bother him — there's nothing more he can do for a corpse.' σκύλλω = 'trouble, harass.' Thai 'รบกวน' (disturb) standard. 'พระอาจารย์' (royal-teacher) — 'พระ' honorific marks the messengers' acknowledgment of Jesus' status as a respected rabbi-teacher, even as their question implies his help is now useless."}
+        {
+          "greek": "Ἔτι αὐτοῦ λαλοῦντος (gen. abs.)",
+          "thai": "ขณะที่พระองค์ยังตรัสอยู่",
+          "rationale": "Per uW figs-explicit: Jesus is still speaking the v.34 benediction when the news arrives. Thai 'ขณะที่...ยังตรัสอยู่' (while...still royal-speaking) preserves the INTERRUPTION-TIMING. Royal 'ตรัส.'"
+        },
+        {
+          "greek": "ἔρχονται ἀπὸ τοῦ ἀρχισυναγώγου (hist. pres.)",
+          "thai": "มีคนมาจากบ้านของนายธรรมศาลา",
+          "rationale": "Per uW writing-pronouns + figs-metonymy: 'they come from the synagogue-ruler' = from his HOUSE (metonymy). Thai 'มีคน...มาจากบ้านของ' (there-are-people...come-from house-of) makes the metonymy explicit. Historic present preserved as narrative present."
+        },
+        {
+          "greek": "Ἡ θυγάτηρ σου ἀπέθανεν (aor.)",
+          "thai": "ลูกสาวของท่านสิ้นใจแล้ว",
+          "rationale": "Direct quotation. Aorist ἀπέθανεν 'has died.' Thai 'ลูกสาวของท่านสิ้นใจแล้ว' (your-daughter has-passed-away) — 'สิ้นใจ' (exhale-the-last-breath) the same dignified euphemism as Jairus' 'ใกล้จะสิ้นใจ' in v.23, now realized: she who was 'near to last-breath' has now 'last-breath-completed.' The messengers address Jairus formally — they use 'ท่าน' (respectful-2nd-person) for him as a synagogue-ruler."
+        },
+        {
+          "greek": "τί ἔτι σκύλλεις τὸν διδάσκαλον; (rhet. q.)",
+          "thai": "จะรบกวนพระอาจารย์อีกทำไม?",
+          "rationale": "Per uW figs-rquestion + figs-explicit: rhetorical 'why bother the teacher anymore' implying 'don't bother him — there's nothing more he can do for a corpse.' σκύλλω = 'trouble, harass.' Thai 'รบกวน' (disturb) standard. 'พระอาจารย์' (royal-teacher) — 'พระ' honorific marks the messengers' acknowledgment of Jesus' status as a respected rabbi-teacher, even as their question implies his help is now useless."
+        }
       ],
-      "notes": "INTERRUPTION TIMING: Jesus' last word to the woman is 'be healed' — and at that exact moment, news of the death arrives. Mark's structure has the daughter's death overlap precisely with the woman's full healing. The narrative gut-punch: was this delay worth it? IMPLIED ASSUMPTION: the messengers (and presumably Jairus) believe death is the final boundary of Jesus' power. Disease can be healed; death is irreversible. This sets up Jesus' counter-statement in v.36."
+      "notes": "INTERRUPTION TIMING: Jesus' last word to the woman is 'be healed' — and at that exact moment, news of the death arrives. Mark's structure has the daughter's death overlap precisely with the woman's full healing. The narrative gut-punch: was this delay worth it? IMPLIED ASSUMPTION: the messengers (and presumably Jairus) believe death is the final boundary of Jesus' power. Disease can be healed; death is irreversible. This sets up Jesus' counter-statement in v.36.",
+      "thai_literal": null,
+      "thai_summary": null
     },
     "model": "claude-opus-4-6 (manual)"
   },
@@ -625,12 +1203,30 @@
     "translation": {
       "thai": "แต่พระเยซูทรงได้ยินถ้อยคำที่พวกเขาพูด ก็ตรัสแก่นายธรรมศาลาว่า 'อย่ากลัวเลย จงเชื่อเท่านั้น'",
       "key_decisions": [
-        {"greek": "παρακούσας", "thai": "ทรงได้ยิน", "rationale": "Per uW v.36 ambiguity: παρακούω can mean (1) 'overhear' (listen alongside, hear something not directed at oneself) or (2) 'ignore, disregard' (refuse to heed). Both readings appear in the manuscript tradition. Most modern English versions (BSB, NIV, ESV) take 'overhear'; some commentators argue 'ignore' fits Mark's bold-Jesus characterization (refusing to accept the messengers' verdict). Thai 'ทรงได้ยิน' (royal-hear) preserves the basic 'overhear' reading; the additional resolve to act-against is shown by the 'แต่' (but) opening and the imperatives that follow. Royal 'ทรง' for Jesus' perception."},
-        {"greek": "τὸν λόγον λαλούμενον (pres. pass. ptcp.)", "thai": "ถ้อยคำที่พวกเขาพูด", "rationale": "Per uW figs-metonymy + figs-activepassive: 'the word being spoken' = what was said. Thai 'ถ้อยคำที่พวกเขาพูด' (the-words that-they-spoke) — active formation more natural in Thai."},
-        {"greek": "λέγει τῷ ἀρχισυναγώγῳ (hist. pres.)", "thai": "ตรัสแก่นายธรรมศาลา", "rationale": "Historic present (per uW v.36). Royal 'ตรัส.' Note: Jesus does NOT address the messengers; he addresses Jairus directly, bypassing the messengers' implied counsel."},
-        {"greek": "Μὴ φοβοῦ, μόνον πίστευε (pres. impv. — ongoing)", "thai": "อย่ากลัวเลย จงเชื่อเท่านั้น", "rationale": "Per uW figs-explicit: 'believe' implies trust IN JESUS — specifically that Jesus can save Jairus' daughter. Two present imperatives: 'stop fearing' (ongoing prohibition) + 'keep believing' (ongoing positive command). Thai 'อย่ากลัวเลย' (don't fear-particle 'เลย' for emphasis) + 'จงเชื่อเท่านั้น' (must-believe only) — 'เท่านั้น' (only) preserves μόνον's focusing force: faith is the one thing required."}
+        {
+          "greek": "παρακούσας",
+          "thai": "ทรงได้ยิน",
+          "rationale": "Per uW v.36 ambiguity: παρακούω can mean (1) 'overhear' (listen alongside, hear something not directed at oneself) or (2) 'ignore, disregard' (refuse to heed). Both readings appear in the manuscript tradition. Most modern English versions (BSB, NIV, ESV) take 'overhear'; some commentators argue 'ignore' fits Mark's bold-Jesus characterization (refusing to accept the messengers' verdict). Thai 'ทรงได้ยิน' (royal-hear) preserves the basic 'overhear' reading; the additional resolve to act-against is shown by the 'แต่' (but) opening and the imperatives that follow. Royal 'ทรง' for Jesus' perception."
+        },
+        {
+          "greek": "τὸν λόγον λαλούμενον (pres. pass. ptcp.)",
+          "thai": "ถ้อยคำที่พวกเขาพูด",
+          "rationale": "Per uW figs-metonymy + figs-activepassive: 'the word being spoken' = what was said. Thai 'ถ้อยคำที่พวกเขาพูด' (the-words that-they-spoke) — active formation more natural in Thai."
+        },
+        {
+          "greek": "λέγει τῷ ἀρχισυναγώγῳ (hist. pres.)",
+          "thai": "ตรัสแก่นายธรรมศาลา",
+          "rationale": "Historic present (per uW v.36). Royal 'ตรัส.' Note: Jesus does NOT address the messengers; he addresses Jairus directly, bypassing the messengers' implied counsel."
+        },
+        {
+          "greek": "Μὴ φοβοῦ, μόνον πίστευε (pres. impv. — ongoing)",
+          "thai": "อย่ากลัวเลย จงเชื่อเท่านั้น",
+          "rationale": "Per uW figs-explicit: 'believe' implies trust IN JESUS — specifically that Jesus can save Jairus' daughter. Two present imperatives: 'stop fearing' (ongoing prohibition) + 'keep believing' (ongoing positive command). Thai 'อย่ากลัวเลย' (don't fear-particle 'เลย' for emphasis) + 'จงเชื่อเท่านั้น' (must-believe only) — 'เท่านั้น' (only) preserves μόνον's focusing force: faith is the one thing required."
+        }
       ],
-      "notes": "INVERSION: where the messengers said 'don't bother' (despair-counsel), Jesus says 'don't fear, just believe' (faith-counsel). The intercalation now pays off: the woman's faith-saved-her becomes the model for Jairus. Jesus' delay was not negligence; the delay BECOMES the lesson. PRESENT IMPERATIVES: 'keep on believing' — Mark's grammar implies sustained, not momentary, trust. Faith here is not a one-time decision but an ongoing posture as the body of his daughter waits."
+      "notes": "INVERSION: where the messengers said 'don't bother' (despair-counsel), Jesus says 'don't fear, just believe' (faith-counsel). The intercalation now pays off: the woman's faith-saved-her becomes the model for Jairus. Jesus' delay was not negligence; the delay BECOMES the lesson. PRESENT IMPERATIVES: 'keep on believing' — Mark's grammar implies sustained, not momentary, trust. Faith here is not a one-time decision but an ongoing posture as the body of his daughter waits.",
+      "thai_literal": null,
+      "thai_summary": null
     },
     "model": "claude-opus-4-6 (manual)"
   },
@@ -643,10 +1239,20 @@
     "translation": {
       "thai": "พระองค์ไม่ทรงอนุญาตให้ผู้ใดติดตามพระองค์ไป ยกเว้นเปโตร ยากอบ และยอห์นน้องชายของยากอบ",
       "key_decisions": [
-        {"greek": "οὐκ ἀφῆκεν οὐδένα...εἰ μὴ", "thai": "ไม่ทรงอนุญาตให้ผู้ใด...ยกเว้น", "rationale": "Per uW grammar-connect-exceptions: 'allowed no one...except.' Thai 'ไม่ทรง...ผู้ใด...ยกเว้น' (not-royal...anyone...except) preserves the exception-clause structure. Jesus deliberately winnows the entourage — the crowd that just pressed in (v.31) is now barred from this private moment. He selects the inner three."},
-        {"greek": "τὸν Πέτρον καὶ Ἰάκωβον καὶ Ἰωάννην τὸν ἀδελφὸν Ἰακώβου", "thai": "เปโตร ยากอบ และยอห์นน้องชายของยากอบ", "rationale": "Per uW translate-kinship: Mark calls John 'brother of James' — typically suggests John is younger (cf. Mark 1:19 where they are called together, James first). Thai 'น้องชาย' (younger brother) preserves the kinship + age implication, consistent with Mark 1:19 / 3:17 precedent. The three names: standard Thai biblical transliteration. Ben hasn't translated Mark 1 in this project's render here, so I follow standard Thai Christian: เปโตร, ยากอบ, ยอห์น. THE INNER THREE: also present at Transfiguration (9:2) and Gethsemane (14:33) — Mark's signature select-three."}
+        {
+          "greek": "οὐκ ἀφῆκεν οὐδένα...εἰ μὴ",
+          "thai": "ไม่ทรงอนุญาตให้ผู้ใด...ยกเว้น",
+          "rationale": "Per uW grammar-connect-exceptions: 'allowed no one...except.' Thai 'ไม่ทรง...ผู้ใด...ยกเว้น' (not-royal...anyone...except) preserves the exception-clause structure. Jesus deliberately winnows the entourage — the crowd that just pressed in (v.31) is now barred from this private moment. He selects the inner three."
+        },
+        {
+          "greek": "τὸν Πέτρον καὶ Ἰάκωβον καὶ Ἰωάννην τὸν ἀδελφὸν Ἰακώβου",
+          "thai": "เปโตร ยากอบ และยอห์นน้องชายของยากอบ",
+          "rationale": "Per uW translate-kinship: Mark calls John 'brother of James' — typically suggests John is younger (cf. Mark 1:19 where they are called together, James first). Thai 'น้องชาย' (younger brother) preserves the kinship + age implication, consistent with Mark 1:19 / 3:17 precedent. The three names: standard Thai biblical transliteration. Ben hasn't translated Mark 1 in this project's render here, so I follow standard Thai Christian: เปโตร, ยากอบ, ยอห์น. THE INNER THREE: also present at Transfiguration (9:2) and Gethsemane (14:33) — Mark's signature select-three."
+        }
       ],
-      "notes": "INNER THREE: Peter, James, John — the same three at the Transfiguration (9:2) and Gethsemane (14:33). Jesus' select-witness pattern across Mark's most theologically-loaded private moments: glory, agony, resurrection. The raising here is treated as on the same level — a moment requiring select witness, not crowd-spectacle. Per uW v.37 figs-explicit: Jairus also went, of course. The exclusion is of OTHERS — the press of strangers."
+      "notes": "INNER THREE: Peter, James, John — the same three at the Transfiguration (9:2) and Gethsemane (14:33). Jesus' select-witness pattern across Mark's most theologically-loaded private moments: glory, agony, resurrection. The raising here is treated as on the same level — a moment requiring select witness, not crowd-spectacle. Per uW v.37 figs-explicit: Jairus also went, of course. The exclusion is of OTHERS — the press of strangers.",
+      "thai_literal": null,
+      "thai_summary": null
     },
     "model": "claude-opus-4-6 (manual)"
   },
@@ -659,10 +1265,20 @@
     "translation": {
       "thai": "พวกเขามาถึงบ้านของนายธรรมศาลา พระองค์ทอดพระเนตรเห็นความวุ่นวาย ผู้คนกำลังร้องไห้คร่ำครวญเสียงดัง",
       "key_decisions": [
-        {"greek": "ἔρχονται...θεωρεῖ (hist. pres.)", "thai": "มาถึง...ทอดพระเนตรเห็น", "rationale": "Per uW v.38 historic presents — vivid arrival scene. Thai uses simple narrative verbs. Royal 'ทอดพระเนตรเห็น' for Jesus' sight."},
-        {"greek": "θόρυβον καὶ κλαίοντας καὶ ἀλαλάζοντας πολλά", "thai": "ความวุ่นวาย ผู้คนกำลังร้องไห้คร่ำครวญเสียงดัง", "rationale": "Per uW figs-hendiadys + figs-doublet: 'commotion' is constituted by 'weeping and much wailing.' Thai compresses while preserving the auditory/emotional intensity. 'ความวุ่นวาย' (chaos/commotion) for θόρυβος; 'ร้องไห้คร่ำครวญ' (weep-lament — paired Thai verb for funeral-mourning) for κλαίοντας + ἀλαλάζοντας; 'เสียงดัง' (loud-voice) for πολλά (adverbial 'much/loudly'). NOTE: ancient Jewish funerals included professional mourners (often hired women) who wailed loudly — even a poor family was expected to provide at least two flute-players and one wailing-woman per Mishnah Ketubot 4.4. The κλαίοντας + ἀλαλάζοντας likely includes both genuine grief and ritual performance. The next verse's mocking laughter (v.40 κατεγέλων) makes more sense if some of these mourners were professionals quickly switched from grief to derision."}
+        {
+          "greek": "ἔρχονται...θεωρεῖ (hist. pres.)",
+          "thai": "มาถึง...ทอดพระเนตรเห็น",
+          "rationale": "Per uW v.38 historic presents — vivid arrival scene. Thai uses simple narrative verbs. Royal 'ทอดพระเนตรเห็น' for Jesus' sight."
+        },
+        {
+          "greek": "θόρυβον καὶ κλαίοντας καὶ ἀλαλάζοντας πολλά",
+          "thai": "ความวุ่นวาย ผู้คนกำลังร้องไห้คร่ำครวญเสียงดัง",
+          "rationale": "Per uW figs-hendiadys + figs-doublet: 'commotion' is constituted by 'weeping and much wailing.' Thai compresses while preserving the auditory/emotional intensity. 'ความวุ่นวาย' (chaos/commotion) for θόρυβος; 'ร้องไห้คร่ำครวญ' (weep-lament — paired Thai verb for funeral-mourning) for κλαίοντας + ἀλαλάζοντας; 'เสียงดัง' (loud-voice) for πολλά (adverbial 'much/loudly'). NOTE: ancient Jewish funerals included professional mourners (often hired women) who wailed loudly — even a poor family was expected to provide at least two flute-players and one wailing-woman per Mishnah Ketubot 4.4. The κλαίοντας + ἀλαλάζοντας likely includes both genuine grief and ritual performance. The next verse's mocking laughter (v.40 κατεγέλων) makes more sense if some of these mourners were professionals quickly switched from grief to derision."
+        }
       ],
-      "notes": "FUNERARY CULTURE: ancient Jewish funerals required professional mourners and musicians; the noise level was substantial. Mishnah Ketubot 4.4 prescribes minimum even for the poorest. The shift from wailing to mockery in v.40 is consistent with hired-mourner behavior — performance, not grief. ἀλαλάζω is onomatopoeic ('alalai!') — a ritualized mourning-cry. Mark's auditory tableau is high-decibel chaos."
+      "notes": "FUNERARY CULTURE: ancient Jewish funerals required professional mourners and musicians; the noise level was substantial. Mishnah Ketubot 4.4 prescribes minimum even for the poorest. The shift from wailing to mockery in v.40 is consistent with hired-mourner behavior — performance, not grief. ἀλαλάζω is onomatopoeic ('alalai!') — a ritualized mourning-cry. Mark's auditory tableau is high-decibel chaos.",
+      "thai_literal": null,
+      "thai_summary": null
     },
     "model": "claude-opus-4-6 (manual)"
   },
@@ -675,11 +1291,25 @@
     "translation": {
       "thai": "พระองค์เสด็จเข้าไปและตรัสกับพวกเขาว่า 'ทำไมพวกท่านจึงวุ่นวายและร้องไห้กันเล่า? เด็กน้อยมิได้ตาย เพียงแต่นอนหลับอยู่เท่านั้น'",
       "key_decisions": [
-        {"greek": "εἰσελθὼν λέγει (hist. pres.)", "thai": "เสด็จเข้าไปและตรัส", "rationale": "Royal 'เสด็จ' + 'ตรัส' for Jesus. Historic present preserved as narrative."},
-        {"greek": "Τί θορυβεῖσθε καὶ κλαίετε; (rhet. q.)", "thai": "ทำไมพวกท่านจึงวุ่นวายและร้องไห้กันเล่า?", "rationale": "Per uW figs-rquestion + figs-yousingular (note: PLURAL 'you' since addressing many): rebuke-form question. Thai 'ทำไม...จึง...เล่า' (why...so...particle) preserves the rebuke-question form. 'พวกท่าน' (plural respectful — Jesus addressing the assembled mourners politely as adults). 'กัน' (collective particle) reinforces the plural addressing."},
-        {"greek": "τὸ παιδίον οὐκ ἀπέθανεν ἀλλὰ καθεύδει", "thai": "เด็กน้อยมิได้ตาย เพียงแต่นอนหลับอยู่เท่านั้น", "rationale": "Per uW figs-explicit: παιδίον = young child, here a 12-year-old (v.42). Thai 'เด็กน้อย' (small child — affectionate diminutive) preserves Mark's tender vocabulary. Per uW chapter intro on resurrection: Jesus' use of 'sleep' is not a denial of death but a euphemism reclaiming death's power — for Jesus, death is reversible like sleep. NT precedent: John 11:11 (Lazarus 'has fallen asleep'); 1 Cor 15:6 (the saints 'fall asleep'); 1 Thess 4:13–14. Thai 'นอนหลับ' (sleep) standard; 'เพียงแต่...เท่านั้น' (only...only) preserves the strong contrast. Jesus' theological challenge: death is not what you think it is."}
+        {
+          "greek": "εἰσελθὼν λέγει (hist. pres.)",
+          "thai": "เสด็จเข้าไปและตรัส",
+          "rationale": "Royal 'เสด็จ' + 'ตรัส' for Jesus. Historic present preserved as narrative."
+        },
+        {
+          "greek": "Τί θορυβεῖσθε καὶ κλαίετε; (rhet. q.)",
+          "thai": "ทำไมพวกท่านจึงวุ่นวายและร้องไห้กันเล่า?",
+          "rationale": "Per uW figs-rquestion + figs-yousingular (note: PLURAL 'you' since addressing many): rebuke-form question. Thai 'ทำไม...จึง...เล่า' (why...so...particle) preserves the rebuke-question form. 'พวกท่าน' (plural respectful — Jesus addressing the assembled mourners politely as adults). 'กัน' (collective particle) reinforces the plural addressing."
+        },
+        {
+          "greek": "τὸ παιδίον οὐκ ἀπέθανεν ἀλλὰ καθεύδει",
+          "thai": "เด็กน้อยมิได้ตาย เพียงแต่นอนหลับอยู่เท่านั้น",
+          "rationale": "Per uW figs-explicit: παιδίον = young child, here a 12-year-old (v.42). Thai 'เด็กน้อย' (small child — affectionate diminutive) preserves Mark's tender vocabulary. Per uW chapter intro on resurrection: Jesus' use of 'sleep' is not a denial of death but a euphemism reclaiming death's power — for Jesus, death is reversible like sleep. NT precedent: John 11:11 (Lazarus 'has fallen asleep'); 1 Cor 15:6 (the saints 'fall asleep'); 1 Thess 4:13–14. Thai 'นอนหลับ' (sleep) standard; 'เพียงแต่...เท่านั้น' (only...only) preserves the strong contrast. Jesus' theological challenge: death is not what you think it is."
+        }
       ],
-      "notes": "SLEEP-EUPHEMISM for death — became standard NT vocabulary (John 11:11; 1 Cor 11:30, 15:6, 51; 1 Thess 4:13–14). For Jesus, death is to him what sleep is to a parent — easily undone by his word. The mourners' mockery (v.40) reveals they hear the saying literally and find it absurd; the disciples will hear it and not yet understand (until 9:9, then fully at the Resurrection). This verse is one of Mark's most theologically loaded — death is recategorized."
+      "notes": "SLEEP-EUPHEMISM for death — became standard NT vocabulary (John 11:11; 1 Cor 11:30, 15:6, 51; 1 Thess 4:13–14). For Jesus, death is to him what sleep is to a parent — easily undone by his word. The mourners' mockery (v.40) reveals they hear the saying literally and find it absurd; the disciples will hear it and not yet understand (until 9:9, then fully at the Resurrection). This verse is one of Mark's most theologically loaded — death is recategorized.",
+      "thai_literal": null,
+      "thai_summary": null
     },
     "model": "claude-opus-4-6 (manual)"
   },
@@ -692,12 +1322,30 @@
     "translation": {
       "thai": "พวกเขาก็พากันหัวเราะเยาะพระองค์ แต่พระองค์ทรงไล่คนทั้งหมดออกไป แล้วทรงพาบิดาและมารดาของเด็ก กับผู้ที่อยู่กับพระองค์ เข้าไปยังที่ที่เด็กนอนอยู่",
       "key_decisions": [
-        {"greek": "κατεγέλων (impf.)", "thai": "พากันหัวเราะเยาะ", "rationale": "καταγελάω = 'mock, ridicule, laugh-down at' (κατά intensive). Imperfect = sustained mocking. Thai 'พากันหัวเราะเยาะ' (collectively-laugh-mockingly) preserves both the social-collective and the contempt. The instant pivot from wailing to mockery exposes the funeral noise as performance, not grief."},
-        {"greek": "αὐτὸς δὲ ἐκβαλὼν πάντας", "thai": "แต่พระองค์ทรงไล่คนทั้งหมดออกไป", "rationale": "ἐκβάλλω = throw out, expel — same verb used for Jesus casting out demons (Mark 1:34, 39 etc.). Thai 'ทรงไล่...ออกไป' (royal-drive...out) preserves the forceful expulsion. The mockers are removed before the miracle — they have disqualified themselves from witness by their unbelief."},
-        {"greek": "παραλαμβάνει τὸν πατέρα...καὶ τὴν μητέρα καὶ τοὺς μετ' αὐτοῦ (hist. pres.)", "thai": "ทรงพาบิดาและมารดาของเด็ก กับผู้ที่อยู่กับพระองค์", "rationale": "Per uW v.40 figs-explicit: 'those with him' = the three disciples (Peter, James, John from v.37). Thai 'ทรงพา' (royal-take/lead). 'บิดาและมารดา' (father and mother) — formal Thai for parents in dignified contexts. 'ผู้ที่อยู่กับพระองค์' (those-who-are-with-him) for τοὺς μετ' αὐτοῦ — preserves the inner-circle reference."},
-        {"greek": "εἰσπορεύεται ὅπου ἦν τὸ παιδίον (hist. pres.)", "thai": "เข้าไปยังที่ที่เด็กนอนอยู่", "rationale": "εἰσπορεύομαι = enter (durative-aspect 'go-into'). Thai 'เข้าไปยัง' (go-into-toward) preserves the directional motion. 'ที่ที่เด็กนอนอยู่' (the-place-where-the-child-lies) — supplied 'นอนอยู่' (is-lying) for clarity, picking up the v.39 sleep-imagery."}
+        {
+          "greek": "κατεγέλων (impf.)",
+          "thai": "พากันหัวเราะเยาะ",
+          "rationale": "καταγελάω = 'mock, ridicule, laugh-down at' (κατά intensive). Imperfect = sustained mocking. Thai 'พากันหัวเราะเยาะ' (collectively-laugh-mockingly) preserves both the social-collective and the contempt. The instant pivot from wailing to mockery exposes the funeral noise as performance, not grief."
+        },
+        {
+          "greek": "αὐτὸς δὲ ἐκβαλὼν πάντας",
+          "thai": "แต่พระองค์ทรงไล่คนทั้งหมดออกไป",
+          "rationale": "ἐκβάλλω = throw out, expel — same verb used for Jesus casting out demons (Mark 1:34, 39 etc.). Thai 'ทรงไล่...ออกไป' (royal-drive...out) preserves the forceful expulsion. The mockers are removed before the miracle — they have disqualified themselves from witness by their unbelief."
+        },
+        {
+          "greek": "παραλαμβάνει τὸν πατέρα...καὶ τὴν μητέρα καὶ τοὺς μετ' αὐτοῦ (hist. pres.)",
+          "thai": "ทรงพาบิดาและมารดาของเด็ก กับผู้ที่อยู่กับพระองค์",
+          "rationale": "Per uW v.40 figs-explicit: 'those with him' = the three disciples (Peter, James, John from v.37). Thai 'ทรงพา' (royal-take/lead). 'บิดาและมารดา' (father and mother) — formal Thai for parents in dignified contexts. 'ผู้ที่อยู่กับพระองค์' (those-who-are-with-him) for τοὺς μετ' αὐτοῦ — preserves the inner-circle reference."
+        },
+        {
+          "greek": "εἰσπορεύεται ὅπου ἦν τὸ παιδίον (hist. pres.)",
+          "thai": "เข้าไปยังที่ที่เด็กนอนอยู่",
+          "rationale": "εἰσπορεύομαι = enter (durative-aspect 'go-into'). Thai 'เข้าไปยัง' (go-into-toward) preserves the directional motion. 'ที่ที่เด็กนอนอยู่' (the-place-where-the-child-lies) — supplied 'นอนอยู่' (is-lying) for clarity, picking up the v.39 sleep-imagery."
+        }
       ],
-      "notes": "SCENE NARROWED to five: Jesus, Jairus, his wife, Peter, James, John — and the dead child. The mockers are removed, signaling that this miracle requires the right witnesses. Mark's Jesus does not perform spectacles for skeptics. Cf. 6:5 — even Jesus could 'do no mighty work there' in Nazareth because of unbelief. Faith is the condition of witness."
+      "notes": "SCENE NARROWED to five: Jesus, Jairus, his wife, Peter, James, John — and the dead child. The mockers are removed, signaling that this miracle requires the right witnesses. Mark's Jesus does not perform spectacles for skeptics. Cf. 6:5 — even Jesus could 'do no mighty work there' in Nazareth because of unbelief. Faith is the condition of witness.",
+      "thai_literal": null,
+      "thai_summary": null
     },
     "model": "claude-opus-4-6 (manual)"
   },
@@ -710,13 +1358,35 @@
     "translation": {
       "thai": "พระองค์ทรงจับมือเด็กนั้น และตรัสกับเธอว่า 'ทาลิธา คูม' ซึ่งแปลว่า 'แม่หนูเอ๋ย เราสั่งเจ้าว่า จงลุกขึ้นเถิด'",
       "key_decisions": [
-        {"greek": "κρατήσας τῆς χειρὸς τοῦ παιδίου", "thai": "ทรงจับมือเด็กนั้น", "rationale": "κρατέω + gen. = take hold of, seize. Royal 'ทรงจับ' (royal-grasp) + 'มือเด็ก' (child's-hand). Per Lev 21:1–4, contact with a corpse rendered a priest unclean; Jesus, like with the bleeding woman, reverses the impurity-flow — instead of being defiled, he heals. Skin-on-skin contact with a corpse-body, deliberate."},
-        {"greek": "Ταλιθα κουμ (HAPAX — Aramaic)", "thai": "ทาลิธา คูม", "rationale": "HAPAX (Aramaic transliteration in NT — only here): ταλιθα = Aramaic טליתא 'little girl' (fem. of טליא); κουμ = Aramaic קום 'arise' (impv.). Per uW translate-transliterate: Mark transliterates Jesus' Aramaic word and immediately translates for his Greek-speaking audience. Thai 'ทาลิธา คูม' (Thai-script transliteration of the Aramaic — preserves the foreign-word effect). PRESERVING THE ARAMAIC: Mark's gesture preserves Jesus' actual spoken language — an authenticity-marker rare in the Greek gospels (also Mark 7:34 ἐφφαθα; 14:36 αββα; 15:34 ἐλωι ἐλωι λεμα σαβαχθανι). For first-century readers and modern, hearing Jesus' actual word adds intimacy. NOTE: SBLGNT punctuates as two separate words (Ταλιθα κουμ); some MSS read κουμι (κούμι — fem. impv.). The κουμ form is grammatically masculine but is here used as an indeclinable address. Translation tradition retains 'koum.'"},
-        {"greek": "ὅ ἐστιν μεθερμηνευόμενον", "thai": "ซึ่งแปลว่า", "rationale": "Per uW figs-activepassive: 'which is being translated' (passive) = 'which means.' Thai 'ซึ่งแปลว่า' (which-translates-as) standard. Mark editorializes for his Greek audience — the act of translation is itself preserved in the text."},
-        {"greek": "Τὸ κοράσιον, σοὶ λέγω, ἔγειρε", "thai": "แม่หนูเอ๋ย เราสั่งเจ้าว่า จงลุกขึ้นเถิด", "rationale": "κοράσιον = 'little girl' (diminutive of κόρη). σοὶ λέγω = 'to you I say' (emphatic 'I' implied by Aramaic). ἔγειρε = 'arise!' (pres. impv.). Thai 'แม่หนูเอ๋ย' (girl-vocative — affectionate Thai address for a young female child, equivalent to 'sweetie / dear little one' but standard biblical Thai usage); 'เราสั่งเจ้าว่า' (I-command-you-that — 'เรา' for Jesus' royal self-reference, 'เจ้า' for the child as divine-to-human). 'จงลุกขึ้นเถิด' (must-arise-particle) — 'เถิด' adds gentle imperative force, fitting paternal address."},
-        {"greek": "Aramaic transliteration", "thai": "ทาลิธา คูม", "rationale": "Following Mark's deliberate strategy: transliterate then translate. The Aramaic word is preserved as a foreign word in the Thai text — modern Thai readers will recognize this as 'a word in the language Jesus spoke.'"}
+        {
+          "greek": "κρατήσας τῆς χειρὸς τοῦ παιδίου",
+          "thai": "ทรงจับมือเด็กนั้น",
+          "rationale": "κρατέω + gen. = take hold of, seize. Royal 'ทรงจับ' (royal-grasp) + 'มือเด็ก' (child's-hand). Per Lev 21:1–4, contact with a corpse rendered a priest unclean; Jesus, like with the bleeding woman, reverses the impurity-flow — instead of being defiled, he heals. Skin-on-skin contact with a corpse-body, deliberate."
+        },
+        {
+          "greek": "Ταλιθα κουμ (HAPAX — Aramaic)",
+          "thai": "ทาลิธา คูม",
+          "rationale": "HAPAX (Aramaic transliteration in NT — only here): ταλιθα = Aramaic טליתא 'little girl' (fem. of טליא); κουμ = Aramaic קום 'arise' (impv.). Per uW translate-transliterate: Mark transliterates Jesus' Aramaic word and immediately translates for his Greek-speaking audience. Thai 'ทาลิธา คูม' (Thai-script transliteration of the Aramaic — preserves the foreign-word effect). PRESERVING THE ARAMAIC: Mark's gesture preserves Jesus' actual spoken language — an authenticity-marker rare in the Greek gospels (also Mark 7:34 ἐφφαθα; 14:36 αββα; 15:34 ἐλωι ἐλωι λεμα σαβαχθανι). For first-century readers and modern, hearing Jesus' actual word adds intimacy. NOTE: SBLGNT punctuates as two separate words (Ταλιθα κουμ); some MSS read κουμι (κούμι — fem. impv.). The κουμ form is grammatically masculine but is here used as an indeclinable address. Translation tradition retains 'koum.'"
+        },
+        {
+          "greek": "ὅ ἐστιν μεθερμηνευόμενον",
+          "thai": "ซึ่งแปลว่า",
+          "rationale": "Per uW figs-activepassive: 'which is being translated' (passive) = 'which means.' Thai 'ซึ่งแปลว่า' (which-translates-as) standard. Mark editorializes for his Greek audience — the act of translation is itself preserved in the text."
+        },
+        {
+          "greek": "Τὸ κοράσιον, σοὶ λέγω, ἔγειρε",
+          "thai": "แม่หนูเอ๋ย เราสั่งเจ้าว่า จงลุกขึ้นเถิด",
+          "rationale": "κοράσιον = 'little girl' (diminutive of κόρη). σοὶ λέγω = 'to you I say' (emphatic 'I' implied by Aramaic). ἔγειρε = 'arise!' (pres. impv.). Thai 'แม่หนูเอ๋ย' (girl-vocative — affectionate Thai address for a young female child, equivalent to 'sweetie / dear little one' but standard biblical Thai usage); 'เราสั่งเจ้าว่า' (I-command-you-that — 'เรา' for Jesus' royal self-reference, 'เจ้า' for the child as divine-to-human). 'จงลุกขึ้นเถิด' (must-arise-particle) — 'เถิด' adds gentle imperative force, fitting paternal address."
+        },
+        {
+          "greek": "Aramaic transliteration",
+          "thai": "ทาลิธา คูม",
+          "rationale": "Following Mark's deliberate strategy: transliterate then translate. The Aramaic word is preserved as a foreign word in the Thai text — modern Thai readers will recognize this as 'a word in the language Jesus spoke.'"
+        }
       ],
-      "notes": "ARAMAIC HAPAX: Ταλιθα κουμ — Mark preserves Jesus' actual spoken Aramaic, then immediately translates for his Greek audience. The fact that Mark preserves these moments (also at 7:34, 14:36, 15:34) suggests an oral-tradition authenticity-marker — these words were remembered as Jesus actually spoke them. THEOLOGICAL SIGNIFICANCE: Jesus speaks tenderly, in his and the child's native tongue, into death itself — and death obeys Aramaic. ECHO of GREAT EZEKIEL/PROPHETIC RESURRECTION: Ezek 37:9 LXX ἐλθὲ τὸ πνεῦμα...καὶ ἀνάστησον — but Jesus needs no formula, just a familiar address."
+      "notes": "ARAMAIC HAPAX: Ταλιθα κουμ — Mark preserves Jesus' actual spoken Aramaic, then immediately translates for his Greek audience. The fact that Mark preserves these moments (also at 7:34, 14:36, 15:34) suggests an oral-tradition authenticity-marker — these words were remembered as Jesus actually spoke them. THEOLOGICAL SIGNIFICANCE: Jesus speaks tenderly, in his and the child's native tongue, into death itself — and death obeys Aramaic. ECHO of GREAT EZEKIEL/PROPHETIC RESURRECTION: Ezek 37:9 LXX ἐλθὲ τὸ πνεῦμα...καὶ ἀνάστησον — but Jesus needs no formula, just a familiar address.",
+      "thai_literal": null,
+      "thai_summary": null
     },
     "model": "claude-opus-4-6 (manual)"
   },
@@ -729,13 +1399,35 @@
     "translation": {
       "thai": "ในทันใดนั้น เด็กหญิงนั้นก็ลุกขึ้นและเดินไปมา เพราะเธอมีอายุสิบสองปี และพวกเขาทั้งหลายก็ตกตะลึงด้วยความอัศจรรย์ใจอย่างยิ่ง",
       "key_decisions": [
-        {"greek": "εὐθὺς ἀνέστη", "thai": "ในทันใดนั้น...ลุกขึ้น", "rationale": "Per uW figs-explicit: 'rose up' = both came back to life AND stood up. ἀνίστημι is also the standard NT resurrection verb (cf. Mark 8:31, 9:9, 16:6). Thai 'ลุกขึ้น' (rise-up) carries both physical-rising and resurrection-rising senses naturally. εὐθύς = Mark's signature 'in-the-instant.'"},
-        {"greek": "περιεπάτει (impf.)", "thai": "เดินไปมา", "rationale": "Imperfect = ongoing walking. Thai 'เดินไปมา' (walk-back-and-forth) preserves the durative — she's not just standing, she's moving around the room, demonstrating life. The narrator captures the witnesses' eyes following her."},
-        {"greek": "ἦν γὰρ ἐτῶν δώδεκα", "thai": "เพราะเธอมีอายุสิบสองปี", "rationale": "Per uW figs-infostructure + figs-idiom + grammar-connect-words-phrases: γάρ explains why she could walk (old enough to walk normally — not a toddler). The reader also gets the 12-years number that ties to the woman's 12-year affliction (v.25). Thai 'เพราะเธอมีอายุสิบสองปี' (because-she-has-age 12-years) — 'มีอายุ' standard Thai for stating someone's age."},
-        {"greek": "ἐξέστησαν εὐθὺς ἐκστάσει μεγάλῃ (cognate dat.)", "thai": "ตกตะลึงด้วยความอัศจรรย์ใจอย่างยิ่ง", "rationale": "Per uW figs-idiom + figs-abstractnouns: cognate-accusative-style construction 'they were-astonished with great astonishment' — Hebraic intensification (cf. LXX Gen 27:33 ἐξέστη...ἔκστασιν μεγάλην). ἐξίστημι/ἔκστασις family appeared at Mark 2:12 (ἐξίστασθαι), 3:21 (ἐξέστη — there meaning 'beside himself'), 6:51, etc. Thai 'ตกตะลึง' (be-stunned) + 'ด้วยความอัศจรรย์ใจอย่างยิ่ง' (with-amazement-very-great) preserves the cognate-intensifying force without forcing literal verbal duplication. Mark stacks two intensifiers (εὐθύς + cognate-dative-amplification) to mark the witnesses' overwhelming response — words fail."},
-        {"greek": "Cognate accusative pattern", "thai": "ตกตะลึงด้วยความอัศจรรย์ใจอย่างยิ่ง", "rationale": "Per LXX-influenced Hebraism: verb + cognate-noun = intensification. Thai must use a different intensification (adverb 'อย่างยิ่ง' rather than verbal repetition) — verbal cognate-doubling sounds clumsy in Thai but adverbial-intensification is natural."}
+        {
+          "greek": "εὐθὺς ἀνέστη",
+          "thai": "ในทันใดนั้น...ลุกขึ้น",
+          "rationale": "Per uW figs-explicit: 'rose up' = both came back to life AND stood up. ἀνίστημι is also the standard NT resurrection verb (cf. Mark 8:31, 9:9, 16:6). Thai 'ลุกขึ้น' (rise-up) carries both physical-rising and resurrection-rising senses naturally. εὐθύς = Mark's signature 'in-the-instant.'"
+        },
+        {
+          "greek": "περιεπάτει (impf.)",
+          "thai": "เดินไปมา",
+          "rationale": "Imperfect = ongoing walking. Thai 'เดินไปมา' (walk-back-and-forth) preserves the durative — she's not just standing, she's moving around the room, demonstrating life. The narrator captures the witnesses' eyes following her."
+        },
+        {
+          "greek": "ἦν γὰρ ἐτῶν δώδεκα",
+          "thai": "เพราะเธอมีอายุสิบสองปี",
+          "rationale": "Per uW figs-infostructure + figs-idiom + grammar-connect-words-phrases: γάρ explains why she could walk (old enough to walk normally — not a toddler). The reader also gets the 12-years number that ties to the woman's 12-year affliction (v.25). Thai 'เพราะเธอมีอายุสิบสองปี' (because-she-has-age 12-years) — 'มีอายุ' standard Thai for stating someone's age."
+        },
+        {
+          "greek": "ἐξέστησαν εὐθὺς ἐκστάσει μεγάλῃ (cognate dat.)",
+          "thai": "ตกตะลึงด้วยความอัศจรรย์ใจอย่างยิ่ง",
+          "rationale": "Per uW figs-idiom + figs-abstractnouns: cognate-accusative-style construction 'they were-astonished with great astonishment' — Hebraic intensification (cf. LXX Gen 27:33 ἐξέστη...ἔκστασιν μεγάλην). ἐξίστημι/ἔκστασις family appeared at Mark 2:12 (ἐξίστασθαι), 3:21 (ἐξέστη — there meaning 'beside himself'), 6:51, etc. Thai 'ตกตะลึง' (be-stunned) + 'ด้วยความอัศจรรย์ใจอย่างยิ่ง' (with-amazement-very-great) preserves the cognate-intensifying force without forcing literal verbal duplication. Mark stacks two intensifiers (εὐθύς + cognate-dative-amplification) to mark the witnesses' overwhelming response — words fail."
+        },
+        {
+          "greek": "Cognate accusative pattern",
+          "thai": "ตกตะลึงด้วยความอัศจรรย์ใจอย่างยิ่ง",
+          "rationale": "Per LXX-influenced Hebraism: verb + cognate-noun = intensification. Thai must use a different intensification (adverb 'อย่างยิ่ง' rather than verbal repetition) — verbal cognate-doubling sounds clumsy in Thai but adverbial-intensification is natural."
+        }
       ],
-      "notes": "COGNATE ACCUSATIVE: ἐξέστησαν...ἐκστάσει μεγάλῃ — Hebraism for utter astonishment. Mark's grammatical extravagance shows that words have run out for what was witnessed. RESURRECTION VOCABULARY: ἀνίστημι is the standard NT resurrection verb — the same word that will be used for Jesus' own resurrection (Mark 8:31, 9:9, 9:31, 10:34, 16:6). The girl's rising from her bed is a foretaste, in miniature, of Easter morning. NUMERICAL CLOSE: 12 years (girl's age) ↔ 12 years (woman's affliction in v.25). The intercalation is bound by 12. Mark's structural elegance: two women, both '12,' both restored by faith-touch."
+      "notes": "COGNATE ACCUSATIVE: ἐξέστησαν...ἐκστάσει μεγάλῃ — Hebraism for utter astonishment. Mark's grammatical extravagance shows that words have run out for what was witnessed. RESURRECTION VOCABULARY: ἀνίστημι is the standard NT resurrection verb — the same word that will be used for Jesus' own resurrection (Mark 8:31, 9:9, 9:31, 10:34, 16:6). The girl's rising from her bed is a foretaste, in miniature, of Easter morning. NUMERICAL CLOSE: 12 years (girl's age) ↔ 12 years (woman's affliction in v.25). The intercalation is bound by 12. Mark's structural elegance: two women, both '12,' both restored by faith-touch.",
+      "thai_literal": null,
+      "thai_summary": null
     },
     "model": "claude-opus-4-6 (manual)"
   },
@@ -748,11 +1440,25 @@
     "translation": {
       "thai": "พระองค์ทรงกำชับพวกเขาอย่างแข็งขันว่า อย่าให้ผู้ใดรู้เรื่องนี้ และทรงสั่งให้นำอาหารมาให้เด็กนั้นกิน",
       "key_decisions": [
-        {"greek": "διεστείλατο αὐτοῖς πολλὰ ἵνα", "thai": "ทรงกำชับพวกเขาอย่างแข็งขันว่า", "rationale": "διαστέλλομαι = 'order strictly, charge.' πολλά adverbial 'much, strongly.' Royal 'ทรงกำชับ' (royal-strict-instruct — 'กำชับ' is the Thai verb for repeated/emphatic instruction); 'อย่างแข็งขัน' (firmly/strongly) for πολλά. Mark's signature messianic-secret command (cf. 1:34, 1:44, 3:12, 7:36, 8:30, 9:9) — RESTORED: contrast with Mark 5:19 where Jesus commanded the Gerasene to PROCLAIM. The difference is geography and audience: Decapolis (Gentile) → publicize; Galilean Jewish home → silence. Mark preserves both impulses."},
-        {"greek": "ἵνα μηδεὶς γνοῖ τοῦτο", "thai": "อย่าให้ผู้ใดรู้เรื่องนี้", "rationale": "Per uW figs-quotations: could be direct quote 'No one must know about this.' We keep indirect for Greek-following. Thai 'อย่าให้ผู้ใดรู้' (not-allow anyone to-know) preserves the prohibition. SECRECY-PROBLEM: how could this be kept secret? Funeral was already public (mourners present); the girl's resurrection would be visible the moment she walked outside. Mark's command may be aspirational rather than enforceable — or it may pertain only to the manner-of-the-raising (the inner-circle witness alone knew Jesus said 'Talitha koum,' touched her, etc.)."},
-        {"greek": "εἶπεν δοθῆναι αὐτῇ φαγεῖν", "thai": "ทรงสั่งให้นำอาหารมาให้เด็กนั้นกิน", "rationale": "Per uW figs-quotations + figs-activepassive: 'said for it to be given to her to eat' — order form. Thai 'ทรงสั่งให้นำอาหารมาให้เด็กนั้นกิน' (royal-order-that bring-food to-give-the-child to-eat). Royal 'ทรง' for Jesus' authoritative command. PRACTICAL TENDERNESS: Jesus thinks of the immediate post-resurrection reality — the girl is alive, hungry, depleted. He cares about meals. Mark's vivid detail: the same hands that just commanded death to release her now arrange dinner. The miracle ends in domesticity."}
+        {
+          "greek": "διεστείλατο αὐτοῖς πολλὰ ἵνα",
+          "thai": "ทรงกำชับพวกเขาอย่างแข็งขันว่า",
+          "rationale": "διαστέλλομαι = 'order strictly, charge.' πολλά adverbial 'much, strongly.' Royal 'ทรงกำชับ' (royal-strict-instruct — 'กำชับ' is the Thai verb for repeated/emphatic instruction); 'อย่างแข็งขัน' (firmly/strongly) for πολλά. Mark's signature messianic-secret command (cf. 1:34, 1:44, 3:12, 7:36, 8:30, 9:9) — RESTORED: contrast with Mark 5:19 where Jesus commanded the Gerasene to PROCLAIM. The difference is geography and audience: Decapolis (Gentile) → publicize; Galilean Jewish home → silence. Mark preserves both impulses."
+        },
+        {
+          "greek": "ἵνα μηδεὶς γνοῖ τοῦτο",
+          "thai": "อย่าให้ผู้ใดรู้เรื่องนี้",
+          "rationale": "Per uW figs-quotations: could be direct quote 'No one must know about this.' We keep indirect for Greek-following. Thai 'อย่าให้ผู้ใดรู้' (not-allow anyone to-know) preserves the prohibition. SECRECY-PROBLEM: how could this be kept secret? Funeral was already public (mourners present); the girl's resurrection would be visible the moment she walked outside. Mark's command may be aspirational rather than enforceable — or it may pertain only to the manner-of-the-raising (the inner-circle witness alone knew Jesus said 'Talitha koum,' touched her, etc.)."
+        },
+        {
+          "greek": "εἶπεν δοθῆναι αὐτῇ φαγεῖν",
+          "thai": "ทรงสั่งให้นำอาหารมาให้เด็กนั้นกิน",
+          "rationale": "Per uW figs-quotations + figs-activepassive: 'said for it to be given to her to eat' — order form. Thai 'ทรงสั่งให้นำอาหารมาให้เด็กนั้นกิน' (royal-order-that bring-food to-give-the-child to-eat). Royal 'ทรง' for Jesus' authoritative command. PRACTICAL TENDERNESS: Jesus thinks of the immediate post-resurrection reality — the girl is alive, hungry, depleted. He cares about meals. Mark's vivid detail: the same hands that just commanded death to release her now arrange dinner. The miracle ends in domesticity."
+        }
       ],
-      "notes": "MESSIANIC SECRET: contrast Mark 5:19 (publish) with 5:43 (silence). The difference is regional/ethnic — in Jewish Galilee Jesus avoids fueling political-messianic expectations; in Gentile Decapolis the testimony cannot be coopted. Mark's geography sets the rule. PASTORAL TENDERNESS: the chapter ends not with theological declaration but with 'feed the child' — Jesus the resurrector is also Jesus the housekeeper. The miracle returns to ordinary life. CHAPTER CLOSE: Mark 5 has moved from a man living among tombs (death-territory) to a girl freshly raised from death (life-victory) — bookended by triumph over death's dominion. Three lives transformed by faith-encounter: a demoniac, a hemorrhaging woman, a dead child. Mark's Christology by accumulated miracle."
+      "notes": "MESSIANIC SECRET: contrast Mark 5:19 (publish) with 5:43 (silence). The difference is regional/ethnic — in Jewish Galilee Jesus avoids fueling political-messianic expectations; in Gentile Decapolis the testimony cannot be coopted. Mark's geography sets the rule. PASTORAL TENDERNESS: the chapter ends not with theological declaration but with 'feed the child' — Jesus the resurrector is also Jesus the housekeeper. The miracle returns to ordinary life. CHAPTER CLOSE: Mark 5 has moved from a man living among tombs (death-territory) to a girl freshly raised from death (life-victory) — bookended by triumph over death's dominion. Three lives transformed by faith-encounter: a demoniac, a hemorrhaging woman, a dead child. Mark's Christology by accumulated miracle.",
+      "thai_literal": null,
+      "thai_summary": null
     },
     "model": "claude-opus-4-6 (manual)"
   }

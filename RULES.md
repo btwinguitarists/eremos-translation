@@ -138,6 +138,8 @@ Every verse in `output/translations/<book>_<NN>.json` must have:
 
 Verses with no meaningful interpretive decisions may have empty `key_decisions: []` and `notes: null`, but this must be the exception, not the norm. If a verse has zero decisions, consider whether something subtle is being missed.
 
+**Schema requirement (strict):** every verse's `translation` object MUST contain the keys `thai`, `thai_literal`, `thai_summary`, `key_decisions`, and `notes`. If a field has no content, write the explicit null (`"notes": null`, `"thai_literal": null`, `"thai_summary": null`) or empty list (`"key_decisions": []`). **Never omit the key itself.** Check scripts use `.get()` defensively, but an absent key still signals schema drift and will be backfilled by `scripts/backfill_notes_null.py` at the next audit. This rule was tightened on 2026-04-17 after Gemini's cross-AI review flagged 69 verses missing the `notes` key.
+
 ### `thai_summary` — reader-facing layer (added 2026-04-17)
 
 The `thai_summary` field serves a **different audience** from `key_decisions` and `notes`:
