@@ -1,25 +1,25 @@
 {
   "book": "mark",
-  "chapter": 1,
+  "chapter": 10,
   "checks": [
     {
       "name": "Key-term consistency",
       "exit_code": 0,
-      "report": "key_term_consistency_mark_01.md",
+      "report": "key_term_consistency_mark_10.md",
       "notes": "",
       "status": "clean"
     },
     {
       "name": "TNBT structural comparison",
       "exit_code": 0,
-      "report": "tnbt_comparison_mark_01.md",
+      "report": "tnbt_comparison_mark_10.md",
       "notes": "",
       "status": "clean"
     },
     {
       "name": "OT citation acknowledgment",
       "exit_code": 0,
-      "report": "ot_citations_mark_01.md",
+      "report": "ot_citations_mark_10.md",
       "notes": "",
       "status": "clean"
     },
@@ -33,15 +33,8 @@
     {
       "name": "Back-translation",
       "exit_code": 0,
-      "report": "back_translation_mark_01.md",
-      "notes": "",
-      "status": "clean"
-    },
-    {
-      "name": "Thai-summary coverage (info)",
-      "exit_code": 0,
-      "report": "summary_coverage_mark_01.md",
-      "notes": "informational only — not a ship gate",
+      "report": "back_translations/mark_10_PROMPT.md",
+      "notes": "pending — Claude should produce back-translations per prompt",
       "status": "clean"
     }
   ]

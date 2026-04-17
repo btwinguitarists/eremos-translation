@@ -7,6 +7,7 @@
 | OT citation acknowledgment | ✅ clean | [ot_citations_mark_01.md](ot_citations_mark_01.md) |
 | Synoptic parallels | ✅ clean | [parallel_passages.md](parallel_passages.md) |
 | Back-translation | ✅ clean | [back_translation_mark_01.md](back_translation_mark_01.md) |
+| Thai-summary coverage (info) | ✅ clean | [summary_coverage_mark_01.md](summary_coverage_mark_01.md) |
 
 ## Ship criterion
 
