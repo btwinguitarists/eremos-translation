@@ -3,7 +3,7 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-04-17 09:40:36 UTC_
+_Generated: 2026-04-17 13:32:57 UTC_
 _Total chapters: 16 · Total verses: 669_
 
 ## How to verify a chapter
@@ -19,22 +19,22 @@ shasum -a 256 output/translations/mark_06.json
 
 | File | Verses | SHA-256 | Last commit |
 |------|--------|---------|-------------|
-| `output/translations/1timothy_03.json` | 16 | `57eca2924fcb6976d352d39eb279d435ea35fdfc8014f512b5fd6ac79b59d52e` | `e86ee67` |
-| `output/translations/mark_01.json` | 45 | `40b2d9f0e4ef6705180c40e0f2867c48f69db5e8ad99a862f1dd90d38c67262f` | `8e4b2f0` |
-| `output/translations/mark_02.json` | 28 | `d35735ef27b90d03d96ebcc550598893703f23aa8e59394b9996f737a8a8c4bf` | `fdeff7b` |
-| `output/translations/mark_03.json` | 35 | `498e64b76987ae3690dea628cb837b7edd744a695e840a816a822e77b79abab0` | `fdeff7b` |
-| `output/translations/mark_04.json` | 41 | `e8f685e2474e97ed8a325125dcfa9a5be163143484cf82b6b151d22fe6e96ba6` | `96fc29c` |
-| `output/translations/mark_05.json` | 43 | `28136a1dc6b96e5f90d3785731fe46e7f7408102dfcf31f6fc3de4a181eae968` | `476fb73` |
-| `output/translations/mark_06.json` | 56 | `ba5b8dcb8e2839ec5133c75ba81ff18bd85c0ff0f58527119f5e6f836a2bd2ca` | `6ed4e3e` |
-| `output/translations/mark_07.json` | 36 | `21c14d59c04e47f16405103f1e8e5e03da244af480b48d9f0adc58ee988110dc` | `f70949c` |
-| `output/translations/mark_08.json` | 38 | `97972b8840f035dd71280ae4074bd01d8a0bbd7a6a618789f563adc9fd8b9105` | `e3c5799` |
-| `output/translations/mark_09.json` | 48 | `5b0bc77d8e2d4180a23fe1a1a1727fc4a8c5210e9aa6479471decd6c98d4921c` | `8213bc0` |
-| `output/translations/mark_10.json` | 52 | `6aa1c87a3a0a44636f6b6fd0c7f84c78c45c6a23b7fb2edcfb79d0421c2c7e0b` | `072f22f` |
+| `output/translations/1timothy_03.json` | 16 | `057bb26b83e060273312d87b1bb8ba4c9ca8c1ae94700468f94fd96ccfc2e1e9` | `c5475c7` |
+| `output/translations/mark_01.json` | 45 | `6a537c923935cf9ff47e543dd7af734f01ec3126aabcdca1d6728245e5634c2a` | `a357fc3` |
+| `output/translations/mark_02.json` | 28 | `e0d5b878bc3df379d8c4a576b634817fb76e5403d0a2f665ef0c8e305e879e7b` | `a357fc3` |
+| `output/translations/mark_03.json` | 35 | `e35aeaed704a281cc36259b1f786587995aeefeaff4fae4535d3865a8de4b3cf` | `a357fc3` |
+| `output/translations/mark_04.json` | 41 | `7773dae891952f58e9d3cba6b1a3a329341ce4290e94fb21edd047d04b33820f` | `a357fc3` |
+| `output/translations/mark_05.json` | 43 | `06fa3a5fcdb50a97dcd43ca989ea63849d0ce3ca9416c8f469452c94273e8ed7` | `a521862` |
+| `output/translations/mark_06.json` | 56 | `998f0cddf42cdeb5159a64387c0f6214d10c009e1562cebaa9d00330795a92d9` | `06add5d` |
+| `output/translations/mark_07.json` | 36 | `d2e4ff474924ab0fd908a68bc66f484a67f7ee85ff55d7e730c3c82ad2646e41` | `b56ff55` |
+| `output/translations/mark_08.json` | 38 | `95fde01e4d5d8e7dae4cad24f7de0e27a52b8aa26596f49db4df31c5063903c2` | `5ad4b35` |
+| `output/translations/mark_09.json` | 48 | `7b2abc1939d1b8424360de76118ea4597be22aa4ceea80d4d2cb805331c59079` | `385c5c2` |
+| `output/translations/mark_10.json` | 52 | `2f96979b5de512635298e1ee3ae868d48108dcec6d2debb1aaa886a0d34915aa` | `a76532b` |
 | `output/translations/mark_11.json` | 32 | `4aa09a945790c4557249be9983cc498fc955523d46134fe0b0077246bf63fbf2` | `cac98ec` |
 | `output/translations/mark_12.json` | 44 | `fa1eab571f56fb093deb5f42a4b06c43a46566691b2e4e379c36fde595b8576f` | `73b2efa` |
 | `output/translations/mark_13.json` | 37 | `27587999fdbbf467468c141db8055bf8b19f3f82190acd3e72f031fec65cd6de` | `76277ca` |
 | `output/translations/mark_14.json` | 72 | `13f509618f145617f75d5a220accbbaa3dd79ca4de3a63fd9af6b9f74fbcf17f` | `dedabe0` |
-| `output/translations/mark_15.json` | 46 | `a58f7f3d0b8f2c91aeea9a155540c06a2f16f81242e8b0fe8da37f4b03a3a671` | `—` |
+| `output/translations/mark_15.json` | 46 | `a58f7f3d0b8f2c91aeea9a155540c06a2f16f81242e8b0fe8da37f4b03a3a671` | `abb687c` |
 
 ---
 
