@@ -25,6 +25,23 @@
 
 set -e
 
+# --- Apple / App Store Connect credentials (env-driven for public-repo safety) ---
+# These are sourced from the user's environment (Claude Code loads them from
+# ~/.claude/settings.json via its `env` block). If you run this script outside
+# Claude Code, export them in your shell or a local .env before invoking.
+#
+#   APP_STORE_CONNECT_KEY_ID         — e.g. ABC12345 (the 10-char key identifier)
+#   APP_STORE_CONNECT_ISSUER_ID      — UUID issued by Apple to your team
+#   APP_STORE_CONNECT_API_KEY_PATH   — absolute path to AuthKey_<KEY_ID>.p8
+#   APPLE_DEVELOPMENT_TEAM           — 10-char Apple Developer Team ID
+#
+# These values were previously hardcoded; they were moved to env vars before
+# this repo was made public (2026-04-17) to avoid exposing them in git history.
+: "${APP_STORE_CONNECT_KEY_ID:?APP_STORE_CONNECT_KEY_ID not set — see settings.json or shell env}"
+: "${APP_STORE_CONNECT_ISSUER_ID:?APP_STORE_CONNECT_ISSUER_ID not set}"
+: "${APP_STORE_CONNECT_API_KEY_PATH:?APP_STORE_CONNECT_API_KEY_PATH not set}"
+: "${APPLE_DEVELOPMENT_TEAM:?APPLE_DEVELOPMENT_TEAM not set}"
+
 # --- args ---
 SKIP_TESTFLIGHT=0
 SKIP_MERGE=0
@@ -176,7 +193,7 @@ echo "    (this takes 5-8 min total)"
 xcodebuild archive -scheme Eremos -project ios/App/App.xcodeproj \
     -archivePath /tmp/Eremos.xcarchive \
     -allowProvisioningUpdates \
-    CODE_SIGN_STYLE=Automatic DEVELOPMENT_TEAM=82M6NHVG47 2>&1 | tail -3
+    CODE_SIGN_STYLE=Automatic DEVELOPMENT_TEAM="$APPLE_DEVELOPMENT_TEAM" 2>&1 | tail -3
 echo "    ✓ archive built"
 
 xcodebuild -exportArchive \
@@ -184,14 +201,14 @@ xcodebuild -exportArchive \
     -exportOptionsPlist "$HOME/.appstoreconnect/ExportOptions.plist" \
     -exportPath /tmp/EremosExport \
     -allowProvisioningUpdates \
-    -authenticationKeyPath ~/.appstoreconnect/private_keys/AuthKey_J2S8KZJN9N.p8 \
-    -authenticationKeyID J2S8KZJN9N \
-    -authenticationKeyIssuerID dd88c918-cd12-4657-b0ad-153ec9367e37 2>&1 | tail -2
+    -authenticationKeyPath "$APP_STORE_CONNECT_API_KEY_PATH" \
+    -authenticationKeyID "$APP_STORE_CONNECT_KEY_ID" \
+    -authenticationKeyIssuerID "$APP_STORE_CONNECT_ISSUER_ID" 2>&1 | tail -2
 echo "    ✓ IPA exported"
 
 xcrun altool --upload-app -f /tmp/EremosExport/Eremos.ipa -t ios \
-    --apiKey J2S8KZJN9N \
-    --apiIssuer dd88c918-cd12-4657-b0ad-153ec9367e37 2>&1 | tail -3
+    --apiKey "$APP_STORE_CONNECT_KEY_ID" \
+    --apiIssuer "$APP_STORE_CONNECT_ISSUER_ID" 2>&1 | tail -3
 echo "    ✓ uploaded to TestFlight as build ${NEW_VERSION}"
 
 # Commit and push the version bump (precedent: direct to main for chore bumps)
