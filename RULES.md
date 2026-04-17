@@ -241,12 +241,20 @@ These are **post-draft** tools, not translation aids. They handle the social ste
 
 ## 11. Model recommendations
 
-| Task | Model | Rationale |
-|------|-------|-----------|
-| Translation (main chat that produces the draft) | **Opus 4.6**, 1M context, max effort | Translation is the highest-stakes step. Hapax legomena, textual variants, theological nuance all benefit from the deepest reasoning. |
-| Back-translation check (API calls from `check_back_translation.py`) | **Sonnet 4.6** | Simpler task (Thai → English, literal). Sonnet handles it well and saves API spend at per-verse volume. |
-| Follow-up review, code edits, running the check scripts | **Sonnet 4.6** | Faster, cheaper. No reason to burn Opus once the draft is done. |
+Requirements are version-agnostic — what matters is the tier + context + effort, not the specific version number. Pick the latest available model in each tier.
+
+| Task | Tier & settings | Rationale |
+|------|-----------------|-----------|
+| Translation (main chat that produces the draft) | **Latest Opus**, 1M context, max effort/thinking | Translation is the highest-stakes step. Hapax legomena, textual variants, theological nuance all benefit from the deepest reasoning. |
+| Back-translation check (API calls from `check_back_translation.py`) | **Latest Sonnet** | Simpler task (Thai → English, literal). Sonnet handles it well and saves API spend at per-verse volume. |
+| Follow-up review, code edits, running the check scripts | **Latest Sonnet or Haiku** | Faster, cheaper. No reason to burn Opus once the draft is done. |
 | Code-only checks (key-term consistency, TNBT structural, OT citation, parallel passages) | No LLM | Pure Python. |
+
+**Claude Code CLI notes (as of 2026-04):**
+- Default is Opus 4.7 — fine for translation. Runs with max effort by default unless you drop the effort level.
+- `/fast` toggles to Opus 4.6 inside Claude Code: faster output, meaningfully cheaper per token, still Opus-tier reasoning. Use when budget matters and turnaround time is tight. Quality difference vs. 4.7 is small for translation work.
+- CLI doesn't support arbitrary model pinning, so "use the latest Opus" is effectively "accept the default."
+- Scripts that hit the API directly (e.g., `check_back_translation.py`) should specify the model explicitly — currently `claude-sonnet-4-6` for cost at per-verse volume, bump when a newer Sonnet lands.
 
 **New chat per chapter?** Yes — each chapter gets a fresh Opus chat so:
 - The kickoff memory and RULES.md load cleanly
@@ -259,5 +267,6 @@ Exception: if rapidly translating sequential chapters in one sitting (e.g., Mark
 ## 12. Change log
 
 - **v0.1** (2026-04-16) — Initial rules drafted from Mark 1 experience + SIL/Wycliffe/UBS research synthesis. Applies going forward starting with 1 Timothy 3 pilot.
+- **v0.2** (2026-04-17) — §11 model recommendations made version-agnostic ("latest Opus / Sonnet" instead of "4.6"). Added Claude Code CLI notes: default is 4.7, `/fast` toggles to 4.6 for budget-sensitive runs.
 
 Future revisions tracked here with date + summary.
