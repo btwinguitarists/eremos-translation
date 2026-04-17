@@ -42,6 +42,10 @@ When pillars conflict, **accuracy wins**, with naturalness documented as a trade
 
 **Why the strictness?** This is what preserves the "independent creation" copyright defense. Our output is produced by independent analysis of the public-domain original languages. No one else's wording gets into our drafting process. After drafting, we *compare* against other translations — but only to identify divergences to justify, never to copy from.
 
+### Sources evaluated and deferred
+
+- **CNTR Universal Apparatus** (Center for New Testament Restoration, https://greekcntr.org/) — evaluated 2026-04 for potential use as a programmatic textual-variant audit source. **Deferred**: the Universal Apparatus is not yet distributed as a machine-readable dataset (only as a PDF with the 2022 printed SRGNT), and the variant cases our translation notes already catch (Mark 1:1, 1:41, 2:26, 9:29, 14:24, 16:9-20) cover the translation-affecting surface. CNTR's `SR.tsv` base-text data is CC BY 4.0 and could be adopted later. CNTR's `transcriptions` repo is CC BY-SA 4.0 and **must not be mixed with our CC0 output**. Full spike notes at `docs/CNTR_SPIKE_2026-04.md`. Revisit in ~6 months.
+
 ---
 
 ## 3. Register & honorifics

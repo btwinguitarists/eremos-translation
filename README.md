@@ -25,7 +25,21 @@ That's the minimum reviewer package. You can stop there or go deeper.
 
 ---
 
-## What's been translated (as of 2026-04-16)
+## What's been translated (as of 2026-04-17)
+
+**Gospel of Mark — COMPLETE** (16 chapters, 603 verses) · **1 Timothy 3** (16 verses). Total: **619 verses** of NT; Matthew is next per `data/production_order.json`.
+
+All chapters pass the full 7-check ship gate (key-term consistency, TNBT structural, OT citation acknowledgment, synoptic parallels, back-translation, thai_summary coverage, claim-consistency / hallucination detector). 288 reader-facing Thai context summaries across the corpus (43% coverage, aligned with the 30–50% target in `docs/THAI_SUMMARY_STYLE.md`). 104 curated NT→OT citations in `data/nt_ot_citations.json`. Every commit GPG-signed; every translation file SHA-256 fingerprinted in `HASHES.md`.
+
+### Why does our Mark 1:1 differ from the BSB?
+
+Our Greek source is the SBL Greek New Testament (SBLGNT, ed. Michael W. Holmes, 2010), licensed CC BY 4.0. At Mark 1:1, SBLGNT's main text reads `Ἀρχὴ τοῦ εὐαγγελίου Ἰησοῦ ⸀χριστοῦ.` — the `⸀` marker flags `υἱοῦ θεοῦ` ("Son of God") as a variant in its apparatus. The phrase is present in Codex Vaticanus (B), Bezae (D), Washingtonianus (W), and most Byzantine manuscripts; **absent** from Codex Sinaiticus's original hand (א\*), Theta, and citations by Origen. NA28 / UBS5 bracket it with a {C} certainty rating. Homoioteleuton (accidental drop from five consecutive `-ου` genitives) is the most commonly proposed mechanism for early omission.
+
+The BSB — which we use only as an English reference bridge, **not** as a source — uses a different eclectic text that includes the phrase without brackets.
+
+Our approach: **translate from SBLGNT as stated, and document every divergence from other major traditions in the verse's notes.** Our Mark 1:1 note records the manuscript evidence explicitly. This same editorial principle handles every contested passage — Mark 1:41 (ὀργισθείς vs σπλαγχνισθείς), Mark 9:29 (with-or-without "and fasting"), Mark 14:24 (with-or-without "new"), and the ⟦double-bracketed⟧ longer ending of Mark 16:9-20.
+
+### Chapter highlights
 
 | Book / chapter | Verses | Notable features |
 |----------------|--------|------------------|
@@ -53,7 +67,7 @@ Each translation lives at `output/translations/<book-slug>_<NN>.json` with full 
 - **Scholarly notes:** unfoldingWord Translation Notes (CC-BY-SA 4.0) — read for context, never copied (would force CC-BY-SA inheritance)
 - **Structural reference:** Thai New Buddhist Translation TNBT (CC-BY-SA 4.0) — used post-draft for sentence-count / length-ratio comparison only; never read during drafting
 
-**Translation engine:** Claude (Anthropic) — Opus 4.6 with 1M context window and max effort, fresh chat per chapter. Sonnet 4.6 for back-translation and follow-up edits.
+**Translation engine:** Claude (Anthropic) — latest Opus with 1M context window and "high"/"max" effort, fresh chat per chapter. The specific model ID used for each chapter is recorded alongside its key decisions in the chapter JSON. Latest Sonnet for lower-stakes steps (back-translation, code edits). See `RULES.md §11` for current model assignments.
 
 **Pipeline** (see `docs/TRANSLATION_WORKFLOW.md`):
 
@@ -63,12 +77,14 @@ Each translation lives at `output/translations/<book-slug>_<NN>.json` with full 
 4. Read prior chapter output for style continuity
 5. Translate from Greek with verse-by-verse rationale
 6. Back-translate Thai → English in-chat for self-consistency check
-7. Run 5 automated checks (`scripts/run_checks.py`):
+7. Run 7 automated checks (`scripts/run_checks.py`):
    - Key-term consistency across the whole corpus
    - TNBT structural comparison
-   - OT citation acknowledgment
+   - OT citation acknowledgment + DB drift detector (fails ship if notes claim a citation that isn't recorded in `data/nt_ot_citations.json`)
    - Synoptic parallel-passage check
    - Back-translation diff against BSB
+   - Thai-summary coverage (informational, not blocking)
+   - Claim-consistency / hallucination detector (fails ship when notes claim a pipeline side-effect that didn't happen — e.g., "added to glossary" when glossary is unchanged)
 8. Auto-ship via `scripts/ship_chapter.sh` — bundles, branches, PRs, auto-merges, bumps iOS, builds web, uploads TestFlight
 
 ---
@@ -79,7 +95,7 @@ Thailand already has THSV (Thai Standard Version 2011) and NTV (New Thai Version
 
 1. **CC0 license** — no permissions, no fees, no derivative-restrictions. Anyone can use any verse anywhere, free.
 2. **Full transparency** — every translation decision is documented at the verse level: which Greek word, what alternatives existed, why this Thai rendering. Reviewable in `output/translations/*.json`.
-3. **AI-assisted with human-validated cadence** — produced by Opus 4.6 with disciplined sourcing rules, not committee discussion. Auditable via the check reports.
+3. **AI-assisted with human-validated cadence** — produced by Claude Opus under disciplined sourcing rules, not committee discussion. Auditable via the check reports and GPG-signed git history.
 
 It is **not** a competitor to THSV/NTV; it's an alternative for use cases that require open license (apps, education, derivative works, redistribution). The translation philosophy is "optimal equivalence" — same as BSB in English.
 
@@ -133,7 +149,9 @@ If you're qualified to give technical feedback, these are the dimensions that ma
 
 ## Repository status
 
-Currently **private** (until Mark is complete — 9 chapters remaining). The CC0 license applies to all output regardless; once Mark is done the repo flips public.
+**Public** (as of 2026-04-17, when the Gospel of Mark reached first-draft completion). The CC0 license applies to all output in `output/translations/`. Source material under `sources/` is git-ignored — each source has its own license and must be cloned separately from upstream (see `ATTRIBUTIONS.md`).
+
+**Pre-v1.0.** The Mark corpus has passed all automated checks and is ready for human review (whole-book readthrough, exegetical spot-check on high-stakes verses, Thai-native-speaker naturalness review). Release-notes for `mark-v1.0` will land once those stages complete. Until then, expect verse-level revisions.
 
 Companion app: [Eremos](https://github.com/btwinguitarists/EremosVercel2) — surfaces the translation in a Thai Bible reader with a "Translation Notes" popup showing rationale and a one-tap "Flag error" feedback button.
 
