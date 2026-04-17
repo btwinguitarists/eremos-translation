@@ -132,12 +132,23 @@ def main():
     # Surfaces verses that warrant a thai_summary but don't have one. Existing
     # chapters (Mark 1-8, 1 Tim 3) translated before this field existed will
     # show warranted-but-missing; that's expected and OK — not a ship gate.
-    print("[6/6] Thai-summary coverage (informational)...")
+    print("[6/7] Thai-summary coverage (informational)...")
     code, _ = run([sys.executable, str(SCRIPTS / "check_summary_coverage.py"),
                    "--book", slug, "--chapter", str(args.chapter)])
     record("Thai-summary coverage (info)", 0,  # always status "clean" — informational
            f"summary_coverage_{slug}_{args.chapter:02d}.md",
            "informational only — not a ship gate")
+
+    # 7. Claim-consistency check (hallucination detector)
+    # Fails ship if the translator's notes claim a pipeline side-effect
+    # (glossary updated, nt_ot_citations entry added, etc.) that didn't
+    # actually happen. Introduced 2026-04-17 after Opus 4.7 was observed
+    # claiming "Added to nt_ot_citations.json" without performing the action.
+    print("[7/7] Claim-consistency (hallucination check)...")
+    code, _ = run([sys.executable, str(SCRIPTS / "check_claim_consistency.py"),
+                   "--book", slug, "--chapter", str(args.chapter)])
+    record("Claim consistency (hallucination)", code,
+           f"claim_consistency_{slug}_{args.chapter:02d}.md")
 
     # Aggregate report
     review_lines = [
