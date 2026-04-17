@@ -93,9 +93,21 @@ cd "$EREMOS_REPO"
 git checkout main >/dev/null 2>&1
 git pull origin main 2>&1 | tail -1
 
-# --- 2. Rebuild bundle ---
-echo "[2/7] Rebuild bundle from translated chapters..."
+# --- 2. Rebuild bundle + update verification hashes ---
+echo "[2/7] Rebuild bundle from translated chapters + update HASHES.md..."
 python3 "$THAI_BIBLE_AI/scripts/build_eremos_bundle.py" 2>&1 | tail -3
+python3 "$THAI_BIBLE_AI/scripts/update_hashes.py" 2>&1 | tail -2
+
+# Commit any HASHES.md change in the thai-bible-ai repo (separate from the
+# Eremos bundle commit). Signed via configured GPG key.
+(
+    cd "$THAI_BIBLE_AI"
+    if ! git diff --quiet HASHES.md 2>/dev/null; then
+        git add HASHES.md
+        git commit -q -m "chore: update HASHES.md after ${BOOK_CODE} ${CHAPTER}" 2>&1 | tail -2 || true
+        git push 2>&1 | tail -1 || true
+    fi
+)
 
 # Check if bundle changed
 if git diff --quiet server/data/eremos_translation.json; then
@@ -169,7 +181,7 @@ echo "    ✓ archive built"
 
 xcodebuild -exportArchive \
     -archivePath /tmp/Eremos.xcarchive \
-    -exportOptionsPlist /tmp/ExportOptions.plist \
+    -exportOptionsPlist "$HOME/.appstoreconnect/ExportOptions.plist" \
     -exportPath /tmp/EremosExport \
     -allowProvisioningUpdates \
     -authenticationKeyPath ~/.appstoreconnect/private_keys/AuthKey_J2S8KZJN9N.p8 \
