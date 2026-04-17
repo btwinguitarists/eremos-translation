@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-04-17 22:58:18 UTC_
-_Total chapters: 19 · Total verses: 737_
+_Generated: 2026-04-17 23:46:35 UTC_
+_Total chapters: 20 · Total verses: 754_
 
 ## How to verify a chapter
 
@@ -38,6 +38,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/mark_16.json` | 20 | `340ba7f0537b698cf607ffbcce5bde5c15f5b6255f1eba210701c6041600c543` | `034c0bd` |
 | `output/translations/matthew_01.json` | 25 | `47f8886e0ba504581edb7e7b7bd44abaeedfa01582c72b2ef0e0639b216042b4` | `—` |
 | `output/translations/matthew_02.json` | 23 | `b3674b7c9de203439950d2f3851812453c12e89225e53557aeca953f72339ca1` | `—` |
+| `output/translations/matthew_03.json` | 17 | `1dfd21a1d878d5708930371dcfbb40cf1bb48731192c64f694f3cc43ce84a13c` | `—` |
 
 ---
 
