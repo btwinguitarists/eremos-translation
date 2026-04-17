@@ -107,7 +107,7 @@ Every verse translation must include explicit entries for:
 - **Hapax legomena** — words appearing only once in the NT. Rationale must draw on classical/LXX usage, context, etymology. Mark in `notes` with the word.
 - **Textual variants** where SBLGNT diverges from the Byzantine majority text or BSB's choice. Name the variant, name our decision, state why.
 - **Polysemous Greek words** whose choice of sense affects translation (e.g., σάρξ as "flesh" vs "human nature" vs "physical body")
-- **OT citations or allusions** — identify the OT source and whether the Greek matches MT or LXX
+- **OT citations or allusions** — identify the OT source and whether the Greek matches MT or LXX. For each intertextual claim the verse-note asserts, a corresponding entry MUST be added to `data/nt_ot_citations.json` in the same editing pass. The drift-detector in `check_ot_citations.py` will block ship if notes claim a citation that is not recorded in the DB.
 - **Gendered/socially-contested language** — flag interpretive decisions where scholarly opinion is split (e.g., γυναῖκας in 1 Tim 3:11)
 - **Technical or cultural terms** that don't have direct Thai equivalents
 
@@ -158,7 +158,7 @@ Before any chapter is committed to `output/translations/`, the **check cadence**
 1. **Back-translation check** — `scripts/check_back_translation.py <book> <chapter>` — AI translates our Thai back to English, diffs against BSB, flags divergences not explained in our notes.
 2. **Key-term consistency audit** — `scripts/check_key_term_consistency.py` — scans all translations, reports per-lemma rendering variance, flags undocumented divergence.
 3. **TNBT structural comparison** — `scripts/check_against_tnbt.py <book> <chapter>` — verse-by-verse structural comparison against Thai TNBT (CC-BY-SA). Vocabulary differences expected (TNBT uses Buddhist register); structural differences (e.g., number of sentences, missing clauses) are the signal.
-4. **OT citation check** — `scripts/check_ot_citations.py <book> <chapter>` — flags NT verses that quote OT; notes whether Greek matches LXX or MT.
+4. **OT citation check** — `scripts/check_ot_citations.py <book> <chapter>` — flags NT verses that quote OT; notes whether Greek matches LXX or MT. Also detects **DB drift**: when a verse's notes claim an OT citation (via phrases like "OT CITATION", "composite citation", "ADDED TO NT_OT_CITATIONS", "FULFILLMENT:") co-located with an OT book reference, the check fails if no entry exists in `data/nt_ot_citations.json` for that verse. This closes the silent-drop failure mode identified on 2026-04-17, when chapters 11/13/14/15 shipped with zero DB entries despite rich OT intertextual notes. **The translator must add a DB entry at the time the note is written — not as a post-hoc curation.**
 5. **Parallel-passage check** — `scripts/check_parallel_passages.py` — for synoptic parallels, flags divergent renderings of the same saying across books (applicable once we have multiple gospels).
 
 The orchestrator `scripts/run_checks.py <book> <chapter>` runs all applicable checks and produces `output/check_reports/<book>_<NN>_checks.md`.

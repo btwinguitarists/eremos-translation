@@ -1,7 +1,7 @@
 # OT citation check — mark ch. 3
 
-NT-to-OT links found: **0** / 35 verses
+NT-to-OT links found: **1** / 35 verses
 
-No known OT citations or allusions in this chapter per our database.
+## ✅ Acknowledged in verse notes: 1
 
-_Note: our `data/nt_ot_citations.json` is curated, not exhaustive. Passages with subtle allusions may not be listed._
+- **Mark 3:13** — EXO 24:1 (echo)

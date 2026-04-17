@@ -41,17 +41,117 @@ def load_citations():
         return json.load(f)["citations"]
 
 
+# Regex for explicit OT book references appearing in translator notes.
+OT_REF_RE = re.compile(
+    r"\b(?:Gen|Exod?|Lev|Num|Deut|Josh|Judg|Ruth|1\s?Sam|2\s?Sam|1\s?Kgs?|2\s?Kgs?|"
+    r"1\s?Chr|2\s?Chr|Ezra|Neh|Esth|Job|Ps|Psa|Prov|Eccl|Song|Isa|Jer|Lam|Ezek|"
+    r"Dan|Hos|Joel|Amos|Obad|Jonah|Mic|Nah|Hab|Zeph|Hag|Zech|Mal)\.?\s*\d+(?::\d+)?",
+    re.IGNORECASE,
+)
+
+# Strong self-attributions: when one of these phrases appears WITHIN ~80 chars
+# of an OT book reference, the translator has claimed an intertextual link at
+# THIS verse — the curated DB MUST have a corresponding entry. Requiring the
+# phrase near the reference (not just in the note somewhere) avoids false
+# positives from synoptic-parallel mentions or negated claims.
+STRONG_CITATION_PHRASES = [
+    "OT CITATION",
+    "OT INTERTEXT",
+    "OT ECHO",
+    "DIRECT CITATION",
+    "COMPOSITE CITATION",
+    "TRIPLE ALLUSION",
+    "COMPOSITE ALLUSION",
+    "LXX CITATION",
+    "NEAR-VERBATIM",
+    "NEAR-CITATION",
+    "QUASI-VERBATIM",
+    "OT CITATION DATABASE",
+    "ADDED TO NT_OT_CITATIONS",
+    "ALLUSION AT",
+    "CITATION AT",
+    "FULFILLS",
+    "FULFILLMENT:",  # colon restricts to the 'ISA 53:7 FULFILLMENT:' heading form
+    "FULFILMENT:",
+    "ECHO:",
+    "ECHOES",  # 'X ECHOES' / 'X ECHOES Y'
+]
+
+# Negation phrases that suppress a strong match — prevents 'NOT an OT citation'
+# from firing drift.
+NEGATION_MARKERS = [
+    "NOT AN OT",
+    "NOT A DIRECT",
+    "NOT A FORMAL",
+    "NOT A CITATION",
+    "NOT DIRECT",
+]
+
+_PROXIMITY_WINDOW = 80  # chars between strong phrase and OT ref
+
+
+def scan_notes_for_drift_candidates(verses) -> dict[str, set[str]]:
+    """Return {verse_ref: {ot_refs}} for verses where the translator's notes
+    make a citation-claim co-located with an OT reference. Proximity required
+    (±80 chars) so that cross-reference mentions elsewhere in a long note
+    don't fire."""
+    found: dict[str, set[str]] = {}
+    for v in verses:
+        notes = (v.get("translation", {}) or {}).get("notes", "") or ""
+        rats = " ".join(
+            (d.get("rationale") or "")
+            for d in (v.get("translation", {}) or {}).get("key_decisions", []) or []
+        )
+        combined = notes + " " + rats
+        upper = combined.upper()
+
+        # Any negation that suppresses the claim in this verse? If one appears,
+        # we require that a strong phrase also appears AFTER the negation,
+        # otherwise skip. (E.g. 'NOT an OT citation but... then Ps X cited at
+        # v.Y' would still ship without drift — handled by requiring proximity
+        # below; this block short-circuits the simple 'NOT an OT citation' case.)
+        negated_fully = any(n in upper for n in NEGATION_MARKERS)
+        if negated_fully and not any(
+            p in upper[upper.find(next(n for n in NEGATION_MARKERS if n in upper)) + 20:]
+            for p in ["OT CITATION DATABASE", "ADDED TO NT_OT_CITATIONS"]
+        ):
+            continue
+
+        # Collect OT ref positions
+        ref_positions = [(m.start(), m.group(0)) for m in OT_REF_RE.finditer(combined)]
+        if not ref_positions:
+            continue
+
+        # For each strong phrase, check if an OT ref sits within the proximity window
+        triggered_refs: set[str] = set()
+        for phrase in STRONG_CITATION_PHRASES:
+            start = 0
+            while True:
+                idx = upper.find(phrase, start)
+                if idx < 0:
+                    break
+                for pos, ref in ref_positions:
+                    if abs(pos - idx) <= _PROXIMITY_WINDOW:
+                        triggered_refs.add(ref)
+                start = idx + len(phrase)
+        if triggered_refs:
+            found[v["reference"]] = triggered_refs
+    return found
+
+
 def check(book_code: str, chapter: int, translation_file: Path):
     citations_db = load_citations()
     with open(translation_file, encoding="utf-8") as f:
         verses = json.load(f)
 
     results = []
+    db_refs_for_chapter = set()
     for v in verses:
         ref_key = f"{book_code} {chapter}:{v['verse']}"
         citation = citations_db.get(ref_key)
         if not citation:
             continue
+        db_refs_for_chapter.add(v["reference"])
 
         notes_text = (v.get("translation", {}) or {}).get("notes", "") or ""
         # Also scan key_decisions rationales — OT links are sometimes noted there.
@@ -80,20 +180,44 @@ def check(book_code: str, chapter: int, translation_file: Path):
             "acknowledged": acknowledged,
         })
 
-    return results
+    # Drift detection: notes make an explicit citation-claim at a verse but the
+    # DB has no entry. Catches the silent-drop-of-DB-updates failure mode.
+    candidates = scan_notes_for_drift_candidates(verses)
+    drift = {
+        verse_ref: refs
+        for verse_ref, refs in candidates.items()
+        if verse_ref not in db_refs_for_chapter
+    }
+
+    return results, drift
 
 
-def render_markdown(results, scope, total_verses):
+def render_markdown(results, drift, scope, total_verses):
     lines = [
         f"# OT citation check — {scope}",
         "",
         f"NT-to-OT links found: **{len(results)}** / {total_verses} verses",
         "",
     ]
-    if not results:
-        lines.append("No known OT citations or allusions in this chapter per our database.")
+
+    if drift:
+        lines.append(f"## 🚨 DB DRIFT — {len(drift)} verse(s) have OT refs in notes but no DB entry")
         lines.append("")
-        lines.append("_Note: our `data/nt_ot_citations.json` is curated, not exhaustive. Passages with subtle allusions may not be listed._")
+        lines.append("The translator's notes identify OT book references for these verses,")
+        lines.append("but `data/nt_ot_citations.json` has no entry. This means the curated DB")
+        lines.append("has fallen out of sync with the translation work — add entries before ship.")
+        lines.append("")
+        for verse_ref, refs in sorted(drift.items()):
+            lines.append(f"- **{verse_ref}** — refs mentioned in notes: {', '.join(sorted(refs))}")
+        lines.append("")
+
+    if not results:
+        if drift:
+            lines.append("_(No DB-recorded citations yet — see DB drift section above.)_")
+        else:
+            lines.append("No known OT citations or allusions in this chapter per our database.")
+            lines.append("")
+            lines.append("_Note: our `data/nt_ot_citations.json` is curated, not exhaustive. Passages with subtle allusions may not be listed._")
         return "\n".join(lines)
 
     unack = [r for r in results if not r["acknowledged"]]
@@ -138,12 +262,12 @@ def main():
         print(f"No translation file at {translation_file}")
         return 1
 
-    results = check(code, args.chapter, translation_file)
+    results, drift = check(code, args.chapter, translation_file)
 
     with open(translation_file, encoding="utf-8") as f:
         total = len(json.load(f))
 
-    md = render_markdown(results, f"{slug} ch. {args.chapter}", total)
+    md = render_markdown(results, drift, f"{slug} ch. {args.chapter}", total)
     if args.stdout:
         print(md)
     else:
@@ -155,7 +279,10 @@ def main():
     unack = sum(1 for r in results if not r["acknowledged"])
     if unack:
         print(f"  ⚠ {unack} OT link(s) not yet acknowledged in verse notes")
-    return 1 if unack else 0
+    if drift:
+        print(f"  🚨 {len(drift)} verse(s) have OT refs in notes but no DB entry — DB drift")
+    # Fail on drift OR unacknowledged — both indicate the chapter isn't ship-ready
+    return 1 if (unack or drift) else 0
 
 
 if __name__ == "__main__":

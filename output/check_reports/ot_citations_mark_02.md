@@ -1,7 +1,7 @@
 # OT citation check — mark ch. 2
 
-NT-to-OT links found: **0** / 28 verses
+NT-to-OT links found: **1** / 28 verses
 
-No known OT citations or allusions in this chapter per our database.
+## ✅ Acknowledged in verse notes: 1
 
-_Note: our `data/nt_ot_citations.json` is curated, not exhaustive. Passages with subtle allusions may not be listed._
+- **Mark 2:26** — 1SA 21:1 (allusion)
