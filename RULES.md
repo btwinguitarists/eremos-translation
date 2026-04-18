@@ -6,6 +6,16 @@ Derived from industry standards used by SIL, Wycliffe, UBS, and unfoldingWord (L
 
 ---
 
+## 0. Confessional position
+
+Eremos Translation is **evangelical Protestant**. Source-text family: SBLGNT (Alexandrian-leaning critical text, same scholarly base as ESV / NIV / NASB / CSB / BSB). Translation philosophy: optimal equivalence (BSB family). Canon: 27-book NT (no deuterocanonicals).
+
+**Editorial decisions on contested verses follow what major evangelical Protestant translations do.** When manuscript evidence is split, we prefer the editorial choice that aligns with the modern evangelical critical-text consensus (NA28-aligned, where SBLGNT and NA28 agree); when SBLGNT and NA28 disagree, we follow SBLGNT but document the divergence.
+
+**License vs. theology**: CC0 means anyone of any tradition may use the translation, but **the editorial decisions are evangelical Protestant** — not ecumenical-syncretist or doctrinally neutral. Do not let the openness of the license drift into doctrinally relativistic note-writing. Notes should describe textual / linguistic / cultural facts, not pastorally endorse the doctrinal frameworks of other traditions. (If a passage is genuinely compatible with multiple traditions' theological readings, that observation belongs in scholarly footnotes, not in the verse-level note. Or rephrase descriptively: "preserves the Greek metaphor" rather than "permits multiple Eucharistic theologies.")
+
+---
+
 ## 1. Translation philosophy
 
 **Optimal equivalence.** Faithful to Greek grammar, syntax, and semantic range AND natural in modern Thai. Not formal equivalence (slavish word-for-word), not pure dynamic equivalence (loose paraphrase). Match BSB's approach in English.
@@ -114,6 +124,24 @@ Every verse translation must include explicit entries for:
 - **OT citations or allusions** — identify the OT source and whether the Greek matches MT or LXX. For each intertextual claim the verse-note asserts, a corresponding entry MUST be added to `data/nt_ot_citations.json` in the same editing pass. The drift-detector in `check_ot_citations.py` will block ship if notes claim a citation that is not recorded in the DB.
 - **Gendered/socially-contested language** — flag interpretive decisions where scholarly opinion is split (e.g., γυναῖκας in 1 Tim 3:11)
 - **Technical or cultural terms** that don't have direct Thai equivalents
+
+### Bracket convention for inclusion variants (added 2026-04-18)
+
+When SBLGNT's apparatus flags an **inclusion variant** — words SBLGNT's main text omits but mainstream traditions (NA28, BSB, NIV, ESV, THSV) include — render the words in **single Thai brackets `[...]`** in the `thai` field, and explain the convention in the verse's `thai_summary`.
+
+Reader-trust rationale: if Thai readers expect the words from THSV / NTV / their childhood Bible and we silently omit, they read the omission as our editorial overreach. Brackets honestly signal "these words appear in many manuscripts and translations; our base text doesn't print them in the main line." This is the NA28 / NRSV-Updated / NET convention.
+
+**Scope:**
+- Applies only to inclusion variants (we omit, mainstream includes), not to word-choice variants (we picked word A, mainstream picked word B — those go in `thai_summary` only).
+- Not for cases where modern critical-text consensus matches our practice (e.g. Mark 7:16, 9:44, 9:46, 9:49 longer reading — modern evangelical Bibles all skip these too; no reader confusion).
+- Not for the longer ending of Mark 16:9-20, which uses ⟦double-brackets⟧ as a larger-block stylistic distinction.
+
+**Currently bracketed (Mark first-pass audit, 2026-04-18):**
+- Mark 1:1 — `[พระบุตรของพระเจ้า]`
+- Mark 3:14 — `[ซึ่งพระองค์ทรงเรียกว่าอัครทูตด้วย]`
+- Mark 9:29 — `[และการอดอาหาร]`
+
+**For future books:** run `scripts/audit_inclusion_variants.py` on each new book to surface candidate verses; apply brackets only after confirming each one is an inclusion variant (not word-choice) and that mainstream traditions do include the words.
 
 ---
 

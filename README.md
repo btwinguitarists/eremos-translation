@@ -94,6 +94,20 @@ Each translation lives at `output/translations/<book-slug>_<NN>.json` with full 
 
 ---
 
+## Confessional position
+
+Eremos Translation is an **evangelical Protestant** Bible translation project. To be specific:
+
+- **Source-text family**: SBLGNT (CC BY 4.0) — same Alexandrian-leaning critical text family as NA28 / UBS5, the standard scholarly base for evangelical Protestant translations (ESV, NIV, NASB, CSB, BSB).
+- **Translation philosophy**: optimal equivalence (BSB family) — balancing accuracy to the Greek with natural Thai readability. Same philosophical approach as ESV, NIV, CSB.
+- **Canon**: 27-book New Testament. No deuterocanonical / apocryphal books. Hebrew OT will follow when we begin OT work.
+- **Editorial decisions on contested verses match what major evangelical Protestant translations do**: e.g. Mark 16:9-20 wrapped in disputed-text brackets (matches every major modern evangelical Bible); Mark 14:24 reads "blood of the covenant" (matches ESV); Mark 1:41 "indignant / angered" (the harder reading SBLGNT prints, matching CSB and ESV-with-footnote).
+- **License-driven openness, not theology-driven ecumenism**: the CC0 license means Bibles, apps, and ministries from any tradition may use the translation freely, but the **editorial decisions are evangelical Protestant** — not ecumenical-syncretist or doctrinally neutral.
+
+If you're a Thai pastor reviewing the translation: this is meant to sit comfortably alongside THSV / NTV in your shelf — same canon, same family of source text, same translation philosophy as the modern evangelical Bibles you already trust. The differentiators are licensing (CC0) and process transparency (every decision audited in git), not theology.
+
+---
+
 ## What makes this different from existing Thai Bible translations
 
 Thailand already has THSV (Thai Standard Version 2011) and NTV (New Thai Version), both copyrighted. Eremos Translation is different in three specific ways:

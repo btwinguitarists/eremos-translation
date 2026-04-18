@@ -1,0 +1,752 @@
+[
+  {
+    "reference": "Matthew 1:1",
+    "chapter": 1,
+    "verse": 1,
+    "greek": "Βίβλος γενέσεως Ἰησοῦ χριστοῦ υἱοῦ Δαυὶδ υἱοῦ Ἀβραάμ.",
+    "bsb_english": "This is the record of the genealogy of Jesus Christ, the son of David, the son of Abraham:",
+    "translation": {
+      "thai": "หนังสือลำดับเชื้อสายของพระเยซูคริสต์ ผู้ทรงเป็นเชื้อสายของดาวิด ผู้ทรงเป็นเชื้อสายของอับราฮัม",
+      "thai_literal": "หนังสือ ของการกำเนิด ของพระเยซูคริสต์ บุตรของดาวิด บุตรของอับราฮัม",
+      "thai_summary": "ประโยคเปิดของมัทธิวสะท้อนคำแรกของหนังสือปฐมกาลในพระคัมภีร์ฉบับกรีก (ปฐก.2:4 และ 5:1 ใช้วลี 'หนังสือลำดับเชื้อสาย' เหมือนกัน) เป็นการประกาศว่าเรื่องราวของพระเยซูคือการเริ่มต้นใหม่ของมนุษยชาติ พระองค์เป็นเชื้อสายของดาวิด (ผู้ทรงเป็นกษัตริย์) และของอับราฮัม (ผู้ซึ่งพระเจ้าทรงสัญญาจะอวยพรทุกประชาชาติ) สองเชื้อสายนี้คือคำตอบต่อคำสัญญาของพระเจ้าสองข้อหลักในพระคัมภีร์เดิม",
+      "key_decisions": [
+        {
+          "greek": "Βίβλος γενέσεως",
+          "thai": "หนังสือลำดับเชื้อสาย",
+          "rationale": "Matthew's opening phrase is a deliberate echo of LXX Gen 2:4 (αὕτη ἡ βίβλος γενέσεως οὐρανοῦ καὶ γῆς) and Gen 5:1 (αὕτη ἡ βίβλος γενέσεως ἀνθρώπων) — framing Jesus's story as a new creation / new Adam. Chose 'หนังสือลำดับเชื้อสาย' (book of lineage) over 'บัญชีวงศ์วาน' (family-tree register) to preserve the 'book/written record' register of βίβλος. Per uW figs-metonymy: βίβλος = written record; per uW figs-possession: the book that contains the genealogy."
+        },
+        {
+          "greek": "Ἰησοῦ χριστοῦ",
+          "thai": "พระเยซูคริสต์",
+          "rationale": "Standard key-term — divine honorific พระ- prefix. Here Χριστός functions almost as a personal appellation (cf. v.16,17,18 where Matthew's usage varies between title and name)."
+        },
+        {
+          "greek": "υἱοῦ Δαυίδ υἱοῦ Ἀβραάμ",
+          "thai": "ผู้ทรงเป็นเชื้อสายของดาวิด ผู้ทรงเป็นเชื้อสายของอับราฮัม",
+          "rationale": "Per uW figs-metaphor: υἱός here = 'descendant,' not literal 'son.' Rendered 'เชื้อสาย' (descendant/lineage) rather than 'บุตร' (son) to make the idiom plain in Thai, matching UST/BSB approach. Royal register 'ทรง' preserved because Jesus is the subject. Both genitives modify Ἰησοῦ — Jesus is both Davidide (messianic royal claim) and Abrahamide (covenantal promise claim)."
+        }
+      ],
+      "notes": "OPENING THESIS: The verse functions as the title of the entire book, not just chapter 1. Matthew signals his two programmatic themes: (a) Davidic messianism — Jesus is the promised king; (b) Abrahamic covenant — Jesus fulfills the promise that 'in you all the families of the earth will be blessed' (Gen 12:3). OT ALLUSION: LXX Gen 2:4, 5:1 (added to nt_ot_citations.json). The word order 'Son of David' BEFORE 'Son of Abraham' is chiastically reversed from the historical order (Abraham → David) — Matthew foregrounds the royal-messianic claim."
+    }
+  },
+  {
+    "reference": "Matthew 1:2",
+    "chapter": 1,
+    "verse": 2,
+    "greek": "Ἀβραὰμ ἐγέννησεν τὸν Ἰσαάκ, Ἰσαὰκ δὲ ἐγέννησεν τὸν Ἰακώβ, Ἰακὼβ δὲ ἐγέννησεν τὸν Ἰούδαν καὶ τοὺς ἀδελφοὺς αὐτοῦ,",
+    "bsb_english": "Abraham was the father of Isaac, Isaac the father of Jacob, and Jacob the father of Judah and his brothers.",
+    "translation": {
+      "thai": "อับราฮัมเป็นบิดาของอิสอัค อิสอัคเป็นบิดาของยาโคบ ยาโคบเป็นบิดาของยูดาห์และพี่น้องของเขา",
+      "thai_literal": "อับราฮัม ได้ให้กำเนิดแก่ อิสอัค, อิสอัค ได้ให้กำเนิดแก่ ยาโคบ, ยาโคบ ได้ให้กำเนิดแก่ ยูดาห์ และ พี่น้อง ของ เขา",
+      "thai_summary": "บรรพบุรุษสามคนแรกของชนชาติอิสราเอล ยูดาห์เป็นเผ่าที่พระเจ้าทรงเลือกให้เป็นเผ่าของกษัตริย์ (ปฐก.49:10) จึงเป็นเผ่าของดาวิดและของพระเยซู มัทธิวเอ่ยถึง 'พี่น้อง' ของยูดาห์ด้วย เพื่อให้เห็นว่ายังมีอีกสิบเอ็ดเผ่าของอิสราเอล ไม่ใช่เฉพาะเผ่าที่เป็นสายเลือดของพระเยซูเท่านั้น",
+      "key_decisions": [
+        {
+          "greek": "ἐγέννησεν",
+          "thai": "เป็นบิดาของ",
+          "rationale": "Per uW translate-kinship + chapter-intro: ἐγέννησεν does not always denote direct father-son but often 'was the ancestor of' — Matthew skips generations (e.g., vv.8-9 Joram→Uzziah skips Ahaziah, Joash, Amaziah; v.11 Josiah→Jechoniah skips Jehoiakim). 'เป็นบิดาของ' captures both direct-father and loose-ancestor senses in Thai, paralleling BSB's 'was the father of.' Established pattern for vv.2-16."
+        },
+        {
+          "greek": "Ἀβραὰμ... Ἰσαάκ... Ἰακώβ... Ἰούδαν",
+          "thai": "อับราฮัม... อิสอัค... ยาโคบ... ยูดาห์",
+          "rationale": "Thai Christian standard transliterations matching Old Testament Thai Bible tradition. ยูดาห์ distinguishes the patriarch from Ἰούδας Ἰσκαριώτης (ยูดาส Iscariot)."
+        },
+        {
+          "greek": "τοὺς ἀδελφοὺς αὐτοῦ",
+          "thai": "พี่น้องของเขา",
+          "rationale": "Matthew uniquely adds 'and his brothers' for Judah and for Jechoniah (v.11). Purpose: reminds the reader that Jesus's lineage goes through one of Israel's twelve tribes — Jesus emerges from Israel as a whole, not just from Judah in isolation."
+        }
+      ],
+      "notes": "The genealogy opens with the three patriarchs Abraham-Isaac-Jacob, establishing the covenant line (cf. Exod 3:6,16; Matt 22:32). Matthew's unique addition 'καὶ τοὺς ἀδελφοὺς αὐτοῦ' to Judah reminds readers that all twelve tribes of Israel descend from Jacob — Jesus's lineage is rooted in the people of Israel as a whole."
+    }
+  },
+  {
+    "reference": "Matthew 1:3",
+    "chapter": 1,
+    "verse": 3,
+    "greek": "Ἰούδας δὲ ἐγέννησεν τὸν Φαρὲς καὶ τὸν Ζάρα ἐκ τῆς Θαμάρ, Φαρὲς δὲ ἐγέννησεν τὸν Ἑσρώμ, Ἑσρὼμ δὲ ἐγέννησεν τὸν Ἀράμ,",
+    "bsb_english": "Judah was the father of Perez and Zerah by Tamar, Perez the father of Hezron, and Hezron the father of Ram.",
+    "translation": {
+      "thai": "ยูดาห์เป็นบิดาของเปเรศและเศราห์ โดยทามาร์เป็นมารดา เปเรศเป็นบิดาของเฮสโรน เฮสโรนเป็นบิดาของอารัม",
+      "thai_literal": "ยูดาห์ ได้ให้กำเนิดแก่ เปเรศ และ เศราห์ จาก ทามาร์, เปเรศ ได้ให้กำเนิดแก่ เฮสโรน, เฮสโรน ได้ให้กำเนิดแก่ อารัม",
+      "thai_summary": "ทามาร์เป็นหญิงแรกในสี่หญิงที่มัทธิวเอ่ยนามในลำดับเชื้อสาย เรื่องของเธอ (ปฐก.38) เป็นเรื่องอื้อฉาว เธอปลอมตัวเป็นโสเภณีเพื่อให้ยูดาห์พ่อผัวของเธอให้ลูกแก่เธอ เพราะยูดาห์ผิดสัญญาไม่ให้บุตรคนเล็กของเขาแต่งงานกับเธอ การที่มัทธิวเลือกเธอเข้ามาในลำดับเชื้อสายของกษัตริย์เมสสิยาห์ เป็นสัญญาณว่าพระเจ้าทรงใช้กระทั่งเรื่องที่ไม่น่าพูดให้สำเร็จพระประสงค์ของพระองค์ และเป็นการเตรียมทางไว้ก่อนที่มารีย์จะมีครรภ์ในสถานการณ์ที่คนมองว่าน่าอับอาย",
+      "key_decisions": [
+        {
+          "greek": "ἐκ τῆς Θαμάρ",
+          "thai": "โดยทามาร์เป็นมารดา",
+          "rationale": "ἐκ + gen. feminine article specifies the mother. Inserted 'เป็นมารดา' explicit-subject for Thai clarity (ἐκ alone would be 'from/by' but ambiguous in Thai). Establishes pattern for vv.5,6 (Rahab, Ruth, Uriah's-wife)."
+        },
+        {
+          "greek": "Ζάρα",
+          "thai": "เศราห์",
+          "rationale": "HAPAX (Matt 1:3 only in NT). Greek Ζάρα = Heb. זֶרַח (Zerah), Judah's other twin son by Tamar (Gen 38:27-30). Transliteration follows standard Thai Bible OT conventions."
+        },
+        {
+          "greek": "Θαμάρ",
+          "thai": "ทามาร์",
+          "rationale": "HAPAX (Matt 1:3 only in NT). Greek Θαμάρ = Heb. תָּמָר (Tamar). First of four women named in the genealogy (Tamar, Rahab, Ruth, 'wife of Uriah' = Bathsheba unnamed). All four carry scandal or gentile associations — preparing the reader for Mary's unusual role."
+        },
+        {
+          "greek": "Ἀράμ",
+          "thai": "อารัม",
+          "rationale": "Matthew's Greek Ἀράμ = Heb. רָם (Ram per 1 Chr 2:9-10, Ruth 4:19). Many English translations render 'Ram' per the Hebrew; we preserve Matthew's Greek spelling in Thai as 'อารัม.' Same convention preserved at v.4. Per uW translate-names: 'Many translations spell Aram as Ram.'"
+        }
+      ],
+      "notes": "HAPAX LEGOMENA: Ζάρα (Zerah), Θαμάρ (Tamar). NAME VARIATION: Ἀράμ here equals OT Ram (רָם); Matthew's Greek spelling differs from the LXX spelling of Ram. Some English translations substitute 'Ram' for clarity with OT; we preserve Matthew's Greek transliteration. FIRST GENEALOGY-WOMAN: Tamar (Gen 38) — Judah's daughter-in-law who, left childless after two of Judah's sons died, disguised herself as a prostitute to bear children by Judah himself. Her story highlights Torah's protection of the levirate-marriage claim (Deut 25:5-10) and the unexpected channels of the messianic line."
+    }
+  },
+  {
+    "reference": "Matthew 1:4",
+    "chapter": 1,
+    "verse": 4,
+    "greek": "Ἀρὰμ δὲ ἐγέννησεν τὸν Ἀμιναδάβ, Ἀμιναδὰβ δὲ ἐγέννησεν τὸν Ναασσών, Ναασσὼν δὲ ἐγέννησεν τὸν Σαλμών,",
+    "bsb_english": "Ram was the father of Amminadab, Amminadab the father of Nahshon, and Nahshon the father of Salmon.",
+    "translation": {
+      "thai": "อารัมเป็นบิดาของอัมมีนาดับ อัมมีนาดับเป็นบิดาของนาโชน นาโชนเป็นบิดาของสัลโมน",
+      "thai_literal": null,
+      "thai_summary": "นาโชนเป็นหัวหน้าเผ่ายูดาห์ในสมัยอพยพ (กันดารวิถี 1:7; 2:3) ซึ่งหมายความว่าเชื้อสายของพระเยซูผ่านผู้นำที่โดดเด่นของอิสราเอลในยุคที่พระเจ้าทรงนำประชากรของพระองค์ออกจากอียิปต์",
+      "key_decisions": [
+        {
+          "greek": "Ἀμιναδάβ... Ναασσών... Σαλμών",
+          "thai": "อัมมีนาดับ... นาโชน... สัลโมน",
+          "rationale": "Thai transliterations follow OT Thai Bible Rut 4:19-20 / 1 Chr 2:10-11 standard. These names span the wilderness-generation (Num 1:7 names Nahshon as tribal prince of Judah under Moses)."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Matthew 1:5",
+    "chapter": 1,
+    "verse": 5,
+    "greek": "Σαλμὼν δὲ ἐγέννησεν τὸν Βόες ἐκ τῆς Ῥαχάβ, Βόες δὲ ἐγέννησεν τὸν Ἰωβὴδ ἐκ τῆς Ῥούθ, Ἰωβὴδ δὲ ἐγέννησεν τὸν Ἰεσσαί,",
+    "bsb_english": "Salmon was the father of Boaz by Rahab, Boaz the father of Obed by Ruth, Obed the father of Jesse,",
+    "translation": {
+      "thai": "สัลโมนเป็นบิดาของโบอาส โดยราหับเป็นมารดา โบอาสเป็นบิดาของโอเบด โดยรูธเป็นมารดา โอเบดเป็นบิดาของเจสซี",
+      "thai_literal": null,
+      "thai_summary": "ราหับเป็นหญิงโสเภณีชาวคานาอันผู้ช่วยคนสอดแนมของอิสราเอลที่เยรีโค (โยชูวา 2) รูธเป็นหญิงชาวโมอับ (หนังสือรูธ) ทั้งสองเป็นคนต่างชาติที่เข้ามาเป็นประชากรของพระเจ้าโดยความเชื่อ มัทธิวเน้นว่าแม้ผู้หญิงต่างชาติก็มีบทบาทในการนำเมสสิยาห์มาสู่โลก พระเจ้าไม่ได้ทรงช่วยเฉพาะชาวยิวเท่านั้น",
+      "key_decisions": [
+        {
+          "greek": "Ῥαχάβ",
+          "thai": "ราหับ",
+          "rationale": "HAPAX (Matt 1:5 only in NT genealogy; mentioned elsewhere as Ῥαάβ in Heb 11:31, Jas 2:25). Matthew's Greek spelling Ῥαχάβ uniquely preserves the Heb. רָחָב sibilant-ch sound. Thai standard: ราหับ."
+        },
+        {
+          "greek": "Ῥούθ",
+          "thai": "รูธ",
+          "rationale": "HAPAX (Matt 1:5 only in NT). Greek Ῥούθ = Heb. רוּת. Moabite ancestress of David (Ruth 4:13-22). Thai standard: รูธ."
+        },
+        {
+          "greek": "Βόες... Ἰωβήδ... Ἰεσσαί",
+          "thai": "โบอาส... โอเบด... เจสซี",
+          "rationale": "Matthew's Greek spellings differ slightly from the LXX (LXX uses Βοός/Ἰωβήδ/Ἰεσσαί too; Βόες is Matthew's variant). Thai standard transliterations follow Ruth 4:21-22."
+        }
+      ],
+      "notes": "HAPAX LEGOMENA: Ῥαχάβ (Rahab), Ῥούθ (Ruth). SECOND AND THIRD GENEALOGY-WOMEN: Rahab (Josh 2) — the Canaanite prostitute of Jericho who hid Israel's spies; Ruth — the Moabite widow whose loyalty to Naomi made her David's great-grandmother (Ruth 4:13-17). Both are gentile women incorporated into the messianic line through faith. INTERPRETIVE NOTE: Rahab's chronological placement is problematic (roughly 350+ years separate Rahab-of-Jericho from David), suggesting Matthew's genealogy contains telescoping common to Jewish genealogical convention."
+    }
+  },
+  {
+    "reference": "Matthew 1:6",
+    "chapter": 1,
+    "verse": 6,
+    "greek": "Ἰεσσαὶ δὲ ἐγέννησεν τὸν Δαυὶδ τὸν βασιλέα. Δαυὶδ δὲ ἐγέννησεν τὸν Σολομῶνα ἐκ τῆς τοῦ Οὐρίου,",
+    "bsb_english": "and Jesse the father of David the king. Next: David was the father of Solomon by Uriah's wife,",
+    "translation": {
+      "thai": "เจสซีเป็นบิดาของดาวิดผู้ทรงเป็นกษัตริย์ ดาวิดเป็นบิดาของโซโลมอน โดยภรรยาของอุรียาห์เป็นมารดา",
+      "thai_literal": "เจสซี ได้ให้กำเนิดแก่ ดาวิด ผู้เป็นกษัตริย์, ดาวิด ได้ให้กำเนิดแก่ โซโลมอน จาก (ภรรยา) ของ อุรียาห์",
+      "thai_summary": "ดาวิดคือจุดศูนย์กลางของลำดับเชื้อสายนี้ (มัทธิวจะสรุปในข้อ 17 ว่า 'จากอับราฮัมถึงดาวิดสิบสี่ชั่วคน จากดาวิดถึงเชลยบาบิโลนสิบสี่ชั่วคน' — ดาวิดคือจุดหักเหของทั้งสองช่วง) ที่น่าสังเกตคือ มัทธิวไม่เอ่ยชื่อของบัทเชบา แต่เรียกเธอว่า 'ภรรยาของอุรียาห์' ซึ่งชี้ให้เห็นว่าเรื่องของดาวิดและบัทเชบาเป็นการล่วงประเวณีและการฆ่าคน (2 ซมอ.11) แม้แต่กษัตริย์ผู้ยิ่งใหญ่ก็เป็นคนบาป",
+      "key_decisions": [
+        {
+          "greek": "τὸν βασιλέα",
+          "thai": "ผู้ทรงเป็นกษัตริย์",
+          "rationale": "Matthew emphasizes Davidic kingship — not merely ancestor but 'David the king.' Royal register ทรง for Davidic kingship (David is the OT royal archetype → Jesus the fulfillment). βασιλεύς is NEW to glossary — standard translation 'กษัตริย์.'"
+        },
+        {
+          "greek": "ἐκ τῆς τοῦ Οὐρίου",
+          "thai": "โดยภรรยาของอุรียาห์เป็นมารดา",
+          "rationale": "Per uW figs-explicit: τῆς τοῦ Οὐρίου = 'the [woman] of Uriah' = Uriah's wife Bathsheba. Matthew deliberately names her 'Uriah's wife' NOT 'Bathsheba' — a rhetorical rebuke that foregrounds David's adultery and Uriah's murder (2 Sam 11). We preserve this veiled naming in Thai: 'ภรรยาของอุรียาห์' (the wife of Uriah) rather than substituting 'บัทเชบา.' Faithfulness to Matthew's deliberate choice."
+        },
+        {
+          "greek": "Οὐρίου",
+          "thai": "อุรียาห์",
+          "rationale": "HAPAX (Matt 1:6 only in NT). Greek Οὐρίας = Heb. אוּרִיָּה (Uriah). Hittite officer in David's army (2 Sam 11:3 marks him as a Hittite) — another gentile included in the genealogy line (via his wife)."
+        }
+      ],
+      "notes": "HAPAX LEGOMENON: Οὐρίας (Uriah). FOURTH GENEALOGY-WOMAN: 'The one of Uriah' = Bathsheba, but deliberately unnamed. Matthew could have written 'Bathsheba' but instead writes 'the wife of Uriah' — reminding readers of 2 Sam 11 where David commits adultery with Bathsheba and has her husband Uriah killed. Ps 51 records David's repentance. Matthew's genealogy does not airbrush the royal line — scandal, gentile inclusion, and human sin are part of how the Messiah comes. DAVIDIC FULCRUM: v.6 marks the halfway point of the three-fourteen structure (v.17). The wider pattern: Matthew uses the genealogy to argue (a) Jesus's legal royal claim through Joseph's Davidic line; (b) divine grace overrides human scandal; (c) gentile and female contribution signals the gospel's reach beyond ethnic Israel."
+    }
+  },
+  {
+    "reference": "Matthew 1:7",
+    "chapter": 1,
+    "verse": 7,
+    "greek": "Σολομὼν δὲ ἐγέννησεν τὸν Ῥοβοάμ, Ῥοβοὰμ δὲ ἐγέννησεν τὸν Ἀβιά, Ἀβιὰ δὲ ἐγέννησεν τὸν Ἀσάφ,",
+    "bsb_english": "Solomon the father of Rehoboam, Rehoboam the father of Abijah, and Abijah the father of Asa.",
+    "translation": {
+      "thai": "โซโลมอนเป็นบิดาของเรโหโบอัม เรโหโบอัมเป็นบิดาของอาบียาห์ อาบียาห์เป็นบิดาของอาสาฟ",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "Ἀσάφ",
+          "thai": "อาสาฟ",
+          "rationale": "TEXTUAL VARIANT: SBLGNT reads Ἀσάφ (= the psalmist Asaph); Byzantine majority reads Ἀσά (= the king Asa, the actual Judahite king intended). NA28 and SBL follow the earliest uncials (ℵ B C) with Ἀσάφ. Scholarly consensus: Matthew refers to King Asa (whose son was Jehoshaphat), but uses an early Greek orthographic form that happens to overlap the psalmist's name. We preserve SBLGNT's Ἀσάφ as 'อาสาฟ' and flag the variant. Thai Bible OT standard for King Asa is อาสา — footnote alerts the reader. BSB harmonizes to 'Asa' per Byzantine tradition; we follow SBLGNT's text-critical decision."
+        },
+        {
+          "greek": "Ῥοβοάμ... Ἀβιά",
+          "thai": "เรโหโบอัม... อาบียาห์",
+          "rationale": "Thai transliterations follow OT Thai Bible 1 Kings 14 tradition."
+        }
+      ],
+      "notes": "TEXTUAL VARIANT at 'Ἀσάφ/Ἀσά': SBLGNT (following ℵ B C 700 1071) reads Ἀσάφ, the name of the famous psalmist (2 Chr 29:30, headings of Pss 50, 73-83). Byzantine majority corrects to Ἀσά, matching the king Asa of 1 Kings 15:8-24 whom Matthew intends. Commentators split: (a) Matthew wrote Ἀσάφ as an early Greek spelling-variant of the king's name (not a confusion); (b) the Ἀσάφ reading is a scribal slip conformed by early copyists; (c) Matthew deliberately echoes the psalmist-name to associate Jesus's royal line with Israel's worship tradition. Option (a) is the modern scholarly consensus and why we follow SBLGNT. Our Thai text preserves the Greek spelling อาสาฟ (not OT Thai Bible's อาสา) to maintain text-critical fidelity; a reader footnote notes the king-Asa identification is not in doubt."
+    }
+  },
+  {
+    "reference": "Matthew 1:8",
+    "chapter": 1,
+    "verse": 8,
+    "greek": "Ἀσὰφ δὲ ἐγέννησεν τὸν Ἰωσαφάτ, Ἰωσαφὰτ δὲ ἐγέννησεν τὸν Ἰωράμ, Ἰωρὰμ δὲ ἐγέννησεν τὸν Ὀζίαν,",
+    "bsb_english": "Asa was the father of Jehoshaphat, Jehoshaphat the father of Joram, and Joram the father of Uzziah.",
+    "translation": {
+      "thai": "อาสาฟเป็นบิดาของเยโฮชาฟัท เยโฮชาฟัทเป็นบิดาของเยโฮรัม เยโฮรัมเป็นบิดาของอุสซียาห์",
+      "thai_literal": null,
+      "thai_summary": "มัทธิวข้ามกษัตริย์สามองค์ที่อยู่ระหว่างเยโฮรัมกับอุสซียาห์ (อาหัสยาห์ โยอาช อามาซิยาห์ — ดู 2 พงก. 8-14) การข้ามชื่อในลำดับเชื้อสายเป็นเรื่องปกติในธรรมเนียมยิวโบราณ คำภาษากรีก 'เป็นบิดาของ' มีความหมายกว้าง สามารถหมายถึงปู่ ทวด หรือบรรพบุรุษที่ห่างออกไปก็ได้",
+      "key_decisions": [
+        {
+          "greek": "Ἰωρὰμ δὲ ἐγέννησεν τὸν Ὀζίαν",
+          "thai": "เยโฮรัมเป็นบิดาของอุสซียาห์",
+          "rationale": "Per uW figs-explicit: Matthew skips three kings between Jehoram and Uzziah — Ahaziah, Joash, Amaziah (see 1 Chr 3:11-12). Possible reason: Ahaziah is descended from wicked Athaliah (daughter of Ahab and Jezebel), whom 2 Chr 22 curses; Matthew may omit the Ahab-tainted generations. But our ἐγέννησεν 'เป็นบิดาของ' convention accommodates ancestor-sense, so no ad-hoc adjustment needed in the main text. Noted for readers."
+        },
+        {
+          "greek": "Ὀζίαν",
+          "thai": "อุสซียาห์",
+          "rationale": "Ὀζίας = Uzziah (Heb. עֻזִּיָּה), also called Azariah in 2 Kings 15:1-7. Thai OT tradition: อุสซียาห์."
+        }
+      ],
+      "notes": "Three kings skipped between Ἰωράμ (Jehoram) and Ὀζίαν (Uzziah): Ahaziah, Joash, Amaziah — all recorded in 1 Chr 3:11-12 and 2 Kings. Matthew's omission is deliberate (perhaps to reach his 14-generation structure in v.17). Some argue theological-motivation: Ahaziah married into the Ahab-Jezebel line, and Matthew may symbolically sever the cursed line per Exod 20:5 ('third and fourth generation')."
+    }
+  },
+  {
+    "reference": "Matthew 1:9",
+    "chapter": 1,
+    "verse": 9,
+    "greek": "Ὀζίας δὲ ἐγέννησεν τὸν Ἰωαθάμ, Ἰωαθὰμ δὲ ἐγέννησεν τὸν Ἀχάζ, Ἀχὰζ δὲ ἐγέννησεν τὸν Ἑζεκίαν,",
+    "bsb_english": "Uzziah was the father of Jotham, Jotham the father of Ahaz, and Ahaz the father of Hezekiah.",
+    "translation": {
+      "thai": "อุสซียาห์เป็นบิดาของโยธาม โยธามเป็นบิดาของอาหัส อาหัสเป็นบิดาของเฮเซคียาห์",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "Ἰωαθάμ... Ἀχάζ... Ἑζεκίαν",
+          "thai": "โยธาม... อาหัส... เฮเซคียาห์",
+          "rationale": "Thai OT Bible standard transliterations (2 Kings 15:32; 16:1; 18:1). These three kings span the era of Isaiah the prophet — the same Isaiah Matthew will cite at v.23."
+        }
+      ],
+      "notes": "This three-generation span (Uzziah → Jotham → Ahaz → Hezekiah) roughly covers Isaiah's prophetic ministry (Isa 1:1 mentions all four kings). Matthew's placement of Isaiah-era kings in the genealogy prepares for the Isa 7:14 citation at v.23."
+    }
+  },
+  {
+    "reference": "Matthew 1:10",
+    "chapter": 1,
+    "verse": 10,
+    "greek": "Ἑζεκίας δὲ ἐγέννησεν τὸν Μανασσῆ, Μανασσῆς δὲ ἐγέννησεν τὸν Ἀμώς, Ἀμὼς δὲ ἐγέννησεν τὸν Ἰωσίαν,",
+    "bsb_english": "Hezekiah was the father of Manasseh, Manasseh the father of Amon, Amon the father of Josiah,",
+    "translation": {
+      "thai": "เฮเซคียาห์เป็นบิดาของมนัสเสห์ มนัสเสห์เป็นบิดาของอาโมส อาโมสเป็นบิดาของโยสิยาห์",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "Ἀμώς",
+          "thai": "อาโมส",
+          "rationale": "TEXTUAL VARIANT: SBLGNT reads Ἀμώς (= the prophet Amos); Byzantine majority reads Ἀμών (= the king Amon, the actual Judahite king intended, 2 Kings 21:19). Same pattern as v.7 Ἀσάφ/Ἀσά. NA28 and SBL follow the earliest uncials (ℵ B C) with Ἀμώς. Scholarly consensus: Matthew refers to King Amon (son of Manasseh, father of Josiah) but uses an early Greek orthographic form that happens to overlap the prophet's name. We preserve Ἀμώς as 'อาโมส' and flag the variant. Thai Bible OT standard for King Amon is อาโมน — footnote alerts the reader."
+        },
+        {
+          "greek": "Μανασσῆ... Ἰωσίαν",
+          "thai": "มนัสเสห์... โยสิยาห์",
+          "rationale": "Thai OT Bible standard transliterations (2 Kings 21:1; 21:26; 22:1)."
+        }
+      ],
+      "notes": "TEXTUAL VARIANT at 'Ἀμώς/Ἀμών': SBLGNT (following ℵ B C 700 1241) reads Ἀμώς, the name of the eighth-century prophet (Amos 1:1). Byzantine majority corrects to Ἀμών, matching the king Amon of 2 Kings 21:18-26 whom Matthew intends. This is the second Old-Testament-name overlap in the genealogy (parallel to v.7-8). BSB and many translations harmonize to 'Amon'; we follow SBLGNT's text-critical decision and preserve Ἀμώς as อาโมส. The king's identification is not in doubt — only the Greek spelling."
+    }
+  },
+  {
+    "reference": "Matthew 1:11",
+    "chapter": 1,
+    "verse": 11,
+    "greek": "Ἰωσίας δὲ ἐγέννησεν τὸν Ἰεχονίαν καὶ τοὺς ἀδελφοὺς αὐτοῦ ἐπὶ τῆς μετοικεσίας Βαβυλῶνος.",
+    "bsb_english": "and Josiah the father of Jeconiah and his brothers at the time of the exile to Babylon.",
+    "translation": {
+      "thai": "โยสิยาห์เป็นบิดาของเยโคนิยาห์และพี่น้องของเขา ในคราวที่ถูกกวาดต้อนไปยังบาบิโลน",
+      "thai_literal": "โยสิยาห์ ได้ให้กำเนิดแก่ เยโคนิยาห์ และ พี่น้องของเขา ที่ การถูกย้าย ของบาบิโลน",
+      "thai_summary": "จุดสำคัญที่สองในลำดับเชื้อสายของมัทธิว คือการที่อิสราเอลถูกกวาดต้อนไปยังบาบิโลน (ประมาณ 597-586 ก่อนคริสต์กาล) เหตุการณ์นี้เป็นช่วงเวลาแห่งความมืดมิดที่สุดของชนชาติ กษัตริย์ดาวิดถูกปลด พระวิหารถูกทำลาย เยโคนิยาห์เป็นกษัตริย์คนสุดท้ายที่แท้จริงก่อนการเชลย (2 พงก.24:8-16) มัทธิวใช้เหตุการณ์นี้เป็นจุดเริ่มต้นของช่วงที่สามของลำดับเชื้อสาย แสดงว่าแม้ในความพินาศของอิสราเอล พระเจ้าก็ทรงรักษาเชื้อสายของเมสสิยาห์ไว้",
+      "key_decisions": [
+        {
+          "greek": "Ἰωσίας δὲ ἐγέννησεν τὸν Ἰεχονίαν",
+          "thai": "โยสิยาห์เป็นบิดาของเยโคนิยาห์",
+          "rationale": "Per uW figs-explicit: Josiah was actually the grandfather of Jeconiah (Josiah → Jehoiakim → Jeconiah, per 1 Chr 3:15-16). Matthew's ἐγέννησεν here is clearly ancestor-sense, skipping Jehoiakim. Our 'เป็นบิดาของ' accommodates this (same flexibility as v.8)."
+        },
+        {
+          "greek": "ἐπὶ τῆς μετοικεσίας Βαβυλῶνος",
+          "thai": "ในคราวที่ถูกกวาดต้อนไปยังบาบิโลน",
+          "rationale": "μετοικεσία = 'deportation, forced relocation.' 'ถูกกวาดต้อน' (standard Thai Bible idiom for forced deportation in 2 Kings 24-25 passages) + 'ไปยังบาบิโลน' (to Babylon). Passive voice acknowledges Israel as object of Babylonian action. Establishes pattern for vv.12,17. NEW GLOSSARY ENTRY: μετοικεσία → การถูกกวาดต้อน."
+        },
+        {
+          "greek": "Βαβυλῶνος",
+          "thai": "บาบิโลน",
+          "rationale": "Standard Thai OT Bible transliteration of Heb. בָּבֶל / Greek Βαβυλών."
+        },
+        {
+          "greek": "Ἰεχονίαν",
+          "thai": "เยโคนิยาห์",
+          "rationale": "Ἰεχονίας = Heb. יְכָנְיָה (Jeconiah), also called Jehoiachin (2 Kings 24:8) and Coniah (Jer 22:24). Thai OT standard: เยโคนิยาห์."
+        }
+      ],
+      "notes": "Matthew skips Jehoiakim (Josiah's son, Jeconiah's father per 1 Chr 3:15-16). The skip likely supports Matthew's 14-generation structure and may also theologically sidestep Jehoiakim's cursed reputation (Jer 22:18-19; 36:30). EXILE MOTIF: The Babylonian deportation (586 BC) is Matthew's second structural marker (David = first, exile = second, Christ = third, v.17). Each marker is a pivot-point in Israel's story. JECONIAH CURSE: Jer 22:30 curses Jeconiah's seed from ever sitting on David's throne — a tension Matthew resolves through Joseph's legal (not biological) fatherhood of Jesus."
+    }
+  },
+  {
+    "reference": "Matthew 1:12",
+    "chapter": 1,
+    "verse": 12,
+    "greek": "Μετὰ δὲ τὴν μετοικεσίαν Βαβυλῶνος Ἰεχονίας ἐγέννησεν τὸν Σαλαθιήλ, Σαλαθιὴλ δὲ ἐγέννησεν τὸν Ζοροβαβέλ,",
+    "bsb_english": "After the exile to Babylon: Jeconiah was the father of Shealtiel, Shealtiel the father of Zerubbabel,",
+    "translation": {
+      "thai": "หลังจากการถูกกวาดต้อนไปยังบาบิโลน เยโคนิยาห์เป็นบิดาของซาลาธิเอล ซาลาธิเอลเป็นบิดาของเศรุบบาเบล",
+      "thai_literal": null,
+      "thai_summary": "เศรุบบาเบลเป็นผู้นำชาวยิวที่กลับจากบาบิโลนมาสร้างพระวิหารหลังที่สองในกรุงเยรูซาเล็ม (เอสรา 3, ฮักกัย 2, เศคาริยาห์ 4) พระเจ้าทรงสัญญากับเศรุบบาเบลว่าพระองค์จะทรงใช้เขาเป็นเหมือน 'แหวนตราของเรา' (ฮักกัย 2:23) ซึ่งเป็นสัญลักษณ์ของการที่พระเจ้าจะทรงฟื้นฟูเชื้อสายของดาวิดอีกครั้ง",
+      "key_decisions": [
+        {
+          "greek": "Σαλαθιήλ",
+          "thai": "ซาลาธิเอล",
+          "rationale": "Matthew's Greek Σαλαθιήλ = Heb. שְׁאַלְתִּיאֵל (Shealtiel). We preserve Matthew's Greek form in Thai transliteration as ซาลาธิเอล. Some Thai OT Bibles use เชอัลทีเอล (Shealtiel) per Heb. Per uW: 'Many translations spell Salathiel as Shealtiel.' We preserve Matthew's Greek spelling; footnote notes the Hebrew form."
+        },
+        {
+          "greek": "Ζοροβαβέλ",
+          "thai": "เศรุบบาเบล",
+          "rationale": "Ζοροβαβέλ = Heb. זְרֻבָּבֶל (Zerubbabel). Thai OT Bible standard: เศรุบบาเบล."
+        },
+        {
+          "greek": "Μετὰ τὴν μετοικεσίαν Βαβυλῶνος",
+          "thai": "หลังจากการถูกกวาดต้อนไปยังบาบิโลน",
+          "rationale": "Time-adverbial introducing the third genealogical section (cf. ἐπί in v.11 'at the time of' → μετά in v.12 'after'). Matthew's structural marker."
+        }
+      ],
+      "notes": "Per uW figs-explicit at Salathiel→Zerubbabel: In 1 Chr 3:19 Hebrew, Pedaiah (Salathiel's brother) is listed as Zerubbabel's father. But LXX 1 Chr 3:19 has Salathiel as father — Matthew follows the LXX (or levirate-adoption tradition; if Salathiel died childless, Pedaiah could have raised up seed for him per Deut 25:5-6). POST-EXILIC SECTION BEGINS: vv.12-16 cover the period from Zerubbabel (~520 BC) to Joseph (1st c. AD) — ~550 years with only ~13 generations. The chronology is highly compressed; most of these names (Abiud, Eliakim, Azor, Zadok, Achim, Eliud, Eleazar, Matthan) are otherwise unknown in OT or extra-biblical Jewish records."
+    }
+  },
+  {
+    "reference": "Matthew 1:13",
+    "chapter": 1,
+    "verse": 13,
+    "greek": "Ζοροβαβὲλ δὲ ἐγέννησεν τὸν Ἀβιούδ, Ἀβιοὺδ δὲ ἐγέννησεν τὸν Ἐλιακίμ, Ἐλιακὶμ δὲ ἐγέννησεν τὸν Ἀζώρ,",
+    "bsb_english": "Zerubbabel the father of Abiud, Abiud the father of Eliakim, and Eliakim the father of Azor.",
+    "translation": {
+      "thai": "เศรุบบาเบลเป็นบิดาของอาบีอูด อาบีอูดเป็นบิดาของเอลียาคิม เอลียาคิมเป็นบิดาของอาซอร์",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "Ἀβιούδ... Ἐλιακίμ... Ἀζώρ",
+          "thai": "อาบีอูด... เอลียาคิม... อาซอร์",
+          "rationale": "Thai transliterations of Matthew's Greek. These names are not attested in OT genealogies after Zerubbabel; Matthew presumably draws on private family records now lost (common in Second Temple Jewish genealogy-keeping)."
+        }
+      ],
+      "notes": "The names in vv.13-15 (Abiud, Eliakim, Azor, Zadok, Achim, Eliud, Eleazar, Matthan) are attested only in Matthew's genealogy — not in OT, not in Luke's parallel genealogy (Luke 3:23-38 takes a different route through Nathan rather than Solomon). This divergence is addressed by two main scholarly proposals: (a) Matthew gives Joseph's legal/royal line, Luke gives Mary's (or Joseph's biological) line; (b) both lines reflect differing family-tradition records. Neither gospel is aiming at modern bio-genetic precision — both are making theological claims about Jesus's Davidic legitimacy."
+    }
+  },
+  {
+    "reference": "Matthew 1:14",
+    "chapter": 1,
+    "verse": 14,
+    "greek": "Ἀζὼρ δὲ ἐγέννησεν τὸν Σαδώκ, Σαδὼκ δὲ ἐγέννησεν τὸν Ἀχίμ, Ἀχὶμ δὲ ἐγέννησεν τὸν Ἐλιούδ,",
+    "bsb_english": "Azor was the father of Zadok, Zadok the father of Achim, and Achim the father of Eliud.",
+    "translation": {
+      "thai": "อาซอร์เป็นบิดาของซาโดค ซาโดคเป็นบิดาของอาคิม อาคิมเป็นบิดาของเอลีอูด",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "Σαδώκ... Ἀχίμ... Ἐλιούδ",
+          "thai": "ซาโดค... อาคิม... เอลีอูด",
+          "rationale": "Thai transliterations of Matthew's Greek. Σαδώκ shares the Hebrew name צָדוֹק with David's high-priest (1 Kings 1:32-45), but is a different person here."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Matthew 1:15",
+    "chapter": 1,
+    "verse": 15,
+    "greek": "Ἐλιοὺδ δὲ ἐγέννησεν τὸν Ἐλεάζαρ, Ἐλεάζαρ δὲ ἐγέννησεν τὸν Ματθάν, Ματθὰν δὲ ἐγέννησεν τὸν Ἰακώβ,",
+    "bsb_english": "Eliud was the father of Eleazar, Eleazar the father of Matthan, Matthan the father of Jacob,",
+    "translation": {
+      "thai": "เอลีอูดเป็นบิดาของเอเลอาซาร์ เอเลอาซาร์เป็นบิดาของมัทธาน มัทธานเป็นบิดาของยาโคบ",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "Ἐλεάζαρ... Ματθάν... Ἰακώβ",
+          "thai": "เอเลอาซาร์... มัทธาน... ยาโคบ",
+          "rationale": "Thai transliterations. Note the Jacob here is Joseph's father — a different Jacob from the patriarch in v.2 (three-fold Jacob-Joseph-into-exile echo — Joseph son of Jacob resonates with the patriarch Joseph son of Jacob from Gen 37+)."
+        }
+      ],
+      "notes": "The repetition of Jacob-Joseph names here (Matthan's son Jacob fathers Joseph) creates a literary echo with the patriarchal Jacob-Joseph of Gen 37-50 — both Josephs are favored sons, both preserve life in Egypt (Gen 45; Matt 2:13-15). Matthew's genealogy does not merely list ancestors; it sets up the Egypt-flight typology he will develop in chapter 2."
+    }
+  },
+  {
+    "reference": "Matthew 1:16",
+    "chapter": 1,
+    "verse": 16,
+    "greek": "Ἰακὼβ δὲ ἐγέννησεν τὸν Ἰωσὴφ τὸν ἄνδρα Μαρίας, ἐξ ἧς ἐγεννήθη Ἰησοῦς ὁ λεγόμενος χριστός.",
+    "bsb_english": "and Jacob the father of Joseph, the husband of Mary, of whom was born Jesus, who is called Christ.",
+    "translation": {
+      "thai": "ยาโคบเป็นบิดาของโยเซฟ สามีของมารีย์ ผู้เป็นมารดาของพระเยซูที่เรียกกันว่าพระคริสต์",
+      "thai_literal": "ยาโคบ ได้ให้กำเนิดแก่ โยเซฟ สามี ของ มารีย์ จากนาง ผู้ซึ่ง ได้ถูกบังเกิด พระเยซู ผู้ซึ่ง ถูกเรียกว่า พระคริสต์",
+      "thai_summary": "จุดแตกหักของรูปแบบในลำดับเชื้อสาย ทั้งสิบห้าข้อก่อนหน้าใช้รูป 'X เป็นบิดาของ Y' แต่ในข้อนี้มัทธิวเปลี่ยนเป็น 'โยเซฟสามีของมารีย์ ผู้เป็นมารดาของพระเยซู' เลี่ยงการพูดว่าโยเซฟเป็นบิดาของพระเยซู เพราะพระเยซูไม่ได้เกิดจากโยเซฟโดยตรง แต่จากมารีย์ผ่านทางพระวิญญาณบริสุทธิ์ (ข้อ 18-20) การเปลี่ยนรูปประโยคนี้เป็นสัญญาณแรกของมัทธิวถึงเรื่องการบังเกิดพิเศษของพระเยซู",
+      "key_decisions": [
+        {
+          "greek": "ἐξ ἧς ἐγεννήθη Ἰησοῦς",
+          "thai": "ผู้เป็นมารดาของพระเยซู",
+          "rationale": "Critical break-from-pattern. Every prior verse used active ἐγέννησεν (fathered). Here Matthew pivots to passive ἐγεννήθη (was born) with ἐξ ἧς (from her — feminine!). The patrilineal 'X fathered Y' formula is broken; Jesus's birth is attributed to Mary, not Joseph. Translated as 'ผู้เป็นมารดาของพระเยซู' (who was mother of Jesus) to capture the shift naturally in Thai. Per uW figs-activepassive: 'If your language does not use this passive form, you could express the idea in active form' — Thai active is clearer."
+        },
+        {
+          "greek": "τὸν ἄνδρα Μαρίας",
+          "thai": "สามีของมารีย์",
+          "rationale": "ἀνήρ = husband (not 'man generic' here). Per uW figs-explicit at v.19: in Jewish betrothal custom, Joseph and Mary were legally bound before cohabitation, so Matthew can call Joseph Mary's 'ἀνήρ' (husband) even in the betrothal period. Thai: สามี."
+        },
+        {
+          "greek": "ὁ λεγόμενος χριστός",
+          "thai": "ที่เรียกกันว่าพระคริสต์",
+          "rationale": "Per uW figs-activepassive: passive participle 'who is called' (indefinite agent). Thai 'เรียกกันว่า' (people call Him / the one called) preserves the impersonal passive sense. ὁ λεγόμενος is Matthew's rhetorical distance — not 'he IS the Christ' but 'he is CALLED the Christ' — leaving confession to the reader (cf. Pilate's question 27:17, 22: 'Jesus who is called Christ')."
+        },
+        {
+          "greek": "Μαρίας",
+          "thai": "มารีย์",
+          "rationale": "Thai Christian standard for Mary the mother of Jesus. Distinct from Μαρία ἡ Μαγδαληνή (มารีย์ชาวมักดาลา) and other Marys — context identifies this as the virgin."
+        },
+        {
+          "greek": "Ἰωσήφ",
+          "thai": "โยเซฟ",
+          "rationale": "Thai Christian standard. Joseph the husband of Mary, distinct from OT Joseph son of Jacob."
+        }
+      ],
+      "notes": "PATTERN BREAK: The entire genealogy (vv.2-15) uses active ἐγέννησεν ('X fathered Y'). At v.16, Matthew shifts to passive ἐγεννήθη with ἐξ ἧς (feminine relative pronoun) — 'from whom was born.' Joseph is NOT said to have fathered Jesus; Mary bore him. This is Matthew's first signal of the virgin birth before he narrates it (vv.18-25). CHRIST-TITLE FIRST APPEARANCE: Χριστός appears here anarthrously with ὁ λεγόμενος — 'called Christ' rather than 'the Christ.' Compares to John 4:25 (Samaritan woman 'I know that Messiah is coming, who is called Christ'). Matthew uses this tentative formulation in the genealogy heading but will increasingly assert the title as fact through the gospel."
+    }
+  },
+  {
+    "reference": "Matthew 1:17",
+    "chapter": 1,
+    "verse": 17,
+    "greek": "Πᾶσαι οὖν αἱ γενεαὶ ἀπὸ Ἀβραὰμ ἕως Δαυὶδ γενεαὶ δεκατέσσαρες, καὶ ἀπὸ Δαυὶδ ἕως τῆς μετοικεσίας Βαβυλῶνος γενεαὶ δεκατέσσαρες, καὶ ἀπὸ τῆς μετοικεσίας Βαβυλῶνος ἕως τοῦ χριστοῦ γενεαὶ δεκατέσσαρες.",
+    "bsb_english": "In all, then, there were fourteen generations from Abraham to David, fourteen from David to the exile to Babylon, and fourteen from the exile to the Christ.",
+    "translation": {
+      "thai": "เพราะฉะนั้นทั้งหมด ตั้งแต่อับราฮัมถึงดาวิดมีสิบสี่ชั่วคน ตั้งแต่ดาวิดถึงการถูกกวาดต้อนไปยังบาบิโลนมีสิบสี่ชั่วคน และตั้งแต่การถูกกวาดต้อนไปยังบาบิโลนถึงพระคริสต์มีสิบสี่ชั่วคน",
+      "thai_literal": "ทั้งสิ้น ดังนั้น ชั่วคน จาก อับราฮัม จนถึง ดาวิด ชั่วคน สิบสี่, และ จาก ดาวิด จนถึง การถูกกวาดต้อน ของบาบิโลน ชั่วคน สิบสี่, และ จาก การถูกกวาดต้อน ของบาบิโลน จนถึง พระคริสต์ ชั่วคน สิบสี่",
+      "thai_summary": "มัทธิวสรุปลำดับเชื้อสายเป็นสามช่วงๆ ละสิบสี่ชั่วคน ตัวเลขสิบสี่มีความหมายพิเศษในธรรมเนียมยิวโบราณ ชื่อของดาวิดในภาษาฮีบรู (דוד) เขียนด้วยพยัญชนะสามตัว แต่ละตัวมีค่าตัวเลข (ד=4, ו=6, ד=4) รวมกันได้สิบสี่ การที่มัทธิวจัดลำดับเชื้อสายเป็น 3x14 จึงเป็นการประกาศด้วยรหัสลับว่า พระเยซูคือ 'ดาวิด-ดาวิด-ดาวิด' คือเมสสิยาห์แห่งดาวิดอย่างสมบูรณ์แบบ",
+      "key_decisions": [
+        {
+          "greek": "γενεαὶ δεκατέσσαρες",
+          "thai": "สิบสี่ชั่วคน",
+          "rationale": "γενεά = 'generation.' Thai 'ชั่วคน' (a lifetime/generation) is the natural Thai idiom for counting generations. δεκατέσσαρες = 14."
+        },
+        {
+          "greek": "πᾶσαι οὖν αἱ γενεαί",
+          "thai": "เพราะฉะนั้นทั้งหมด",
+          "rationale": "οὖν = 'therefore/so then' — concluding inference from the list. πᾶσαι αἱ γενεαί = 'all the generations' — Matthew's structural summary. Rendered 'เพราะฉะนั้นทั้งหมด' (therefore in total) for natural Thai flow."
+        }
+      ],
+      "notes": "THREE-FOURTEENS STRUCTURE: 14+14+14 = 42 generations. Per uW chapter intro: to reach 14-14-14, Abraham and David are both included in the first span; David is excluded from but Jeconiah is included in the second; Jeconiah and Christ are both included in the third. GEMATRIC KEY: דוד (David) = daleth(4) + vav(6) + daleth(4) = 14. The triple-fourteen structure encodes David three times — Jesus is definitively the Davidic Messiah. This Jewish numerological technique (gematria) was common in Second Temple literature (cf. Rev 13:18, 'the number of the beast'). Matthew's Jewish readers would have caught the Davidic encoding immediately. The schematic suppression of generations (Matthew skips at least 3 kings in the second span, v.8) serves the numerical symmetry, not genealogical exhaustiveness."
+    }
+  },
+  {
+    "reference": "Matthew 1:18",
+    "chapter": 1,
+    "verse": 18,
+    "greek": "Τοῦ δὲ Ἰησοῦ χριστοῦ ἡ γένεσις οὕτως ἦν. μνηστευθείσης τῆς μητρὸς αὐτοῦ Μαρίας τῷ Ἰωσήφ, πρὶν ἢ συνελθεῖν αὐτοὺς εὑρέθη ἐν γαστρὶ ἔχουσα ἐκ πνεύματος ἁγίου.",
+    "bsb_english": "This is how the birth of Jesus Christ came about: His mother Mary was pledged in marriage to Joseph, but before they came together, she was found to be with child through the Holy Spirit.",
+    "translation": {
+      "thai": "การบังเกิดของพระเยซูคริสต์เป็นดังนี้ มารีย์มารดาของพระองค์ได้หมั้นอยู่กับโยเซฟ ก่อนที่ทั้งสองจะอยู่ร่วมกัน นางก็ปรากฏว่ามีครรภ์โดยพระวิญญาณบริสุทธิ์",
+      "thai_literal": "ของพระเยซูคริสต์ การกำเนิด ดังนี้ เป็นอยู่. เมื่อ ได้ถูกหมั้น ของ มารดา ของ พระองค์ มารีย์ แก่ โยเซฟ, ก่อนกว่า มาอยู่ด้วยกัน พวกเขา ได้ถูกพบว่า ใน ครรภ์ มี จาก พระวิญญาณ บริสุทธิ์",
+      "thai_summary": "มัทธิวเปิดเรื่องการบังเกิดของพระเยซูด้วยถ้อยคำที่สุภาพมาก เขาไม่พูดว่าใครทำให้มารีย์ตั้งครรภ์ เพียงแต่บอกว่า 'นางปรากฏว่ามีครรภ์' — ใช้รูปกริยาที่แสดงว่าเป็นเรื่องเหนือธรรมชาติ พระวิญญาณบริสุทธิ์ไม่ได้ทำบทบาทของชายในการปฏิสนธิ แต่พระเจ้าทรงกระทำการอัศจรรย์ให้มารีย์ตั้งครรภ์โดยไม่มีชายผู้ใดเกี่ยวข้อง การหมั้นในวัฒนธรรมยิวไม่ใช่แค่การสัญญาจะแต่งงาน แต่เป็นพันธะทางกฎหมายที่ต้องใช้ใบหย่าเพื่อเลิก",
+      "key_decisions": [
+        {
+          "greek": "ἡ γένεσις",
+          "thai": "การบังเกิด",
+          "rationale": "γένεσις here = 'birth, coming-into-being.' (Same noun as v.1 but context shifts from 'genealogy' to 'birth narrative.') Royal register 'การบังเกิด' (for divine/royal birth) rather than plain 'การเกิด.'"
+        },
+        {
+          "greek": "μνηστευθείσης... τῷ Ἰωσήφ",
+          "thai": "ได้หมั้นอยู่กับโยเซฟ",
+          "rationale": "μνηστεύω = 'to betroth.' Per uW figs-explicit at v.19: in Jewish custom, betrothal was a legally binding marriage-contract stage before cohabitation — not just 'engagement' in the modern Western sense. Requires a divorce (get) to dissolve. Thai 'หมั้น' is the natural term but theologically implies stronger binding than Thai-cultural 'engagement' — so Thai readers should understand the note."
+        },
+        {
+          "greek": "πρὶν ἢ συνελθεῖν αὐτούς",
+          "thai": "ก่อนที่ทั้งสองจะอยู่ร่วมกัน",
+          "rationale": "Per uW figs-euphemism: συνελθεῖν 'came together' is a euphemism for sexual union. Thai 'อยู่ร่วมกัน' (come to live together) preserves the euphemistic register — a polite way to refer to beginning marital relations. Alternative 'ร่วมหลับนอน' (sleep together) would be more explicit but breaks the dignified register Matthew establishes."
+        },
+        {
+          "greek": "εὑρέθη ἐν γαστρὶ ἔχουσα",
+          "thai": "นางก็ปรากฏว่ามีครรภ์",
+          "rationale": "Per uW figs-activepassive + figs-idiom: εὑρέθη 'was found' passive of discovery; ἐν γαστρὶ ἔχουσα 'having in the womb' = Septuagintal idiom for pregnancy (Gen 16:4-5 LXX; Isa 7:14 LXX — the very citation Matthew will use at v.23). Thai 'ปรากฏว่ามีครรภ์' (it became apparent that she was pregnant) preserves (a) the passive-discovery register (no explicit observer named) and (b) the Thai-natural idiom for pregnancy 'มีครรภ์.' NEW GLOSSARY ENTRIES: γαστήρ → ครรภ์; ἐν γαστρὶ ἔχουσα → มีครรภ์."
+        },
+        {
+          "greek": "ἐκ πνεύματος ἁγίου",
+          "thai": "โดยพระวิญญาณบริสุทธิ์",
+          "rationale": "πνεῦμα ἅγιον = พระวิญญาณบริสุทธิ์ (established glossary). Anarthrous here (no article), but Thai definite/indefinite distinction not material — the Holy Spirit referent is clear from Matthew's theology. Per uW figs-explicit: The Holy Spirit did not play a male role in conception; Mary's pregnancy is a miracle. The preposition ἐκ = 'from/by' = agency."
+        }
+      ],
+      "notes": "NARRATIVE PIVOT: Having established Jesus's legal Davidic pedigree through Joseph (vv.2-17), Matthew now explains how Jesus is born WITHOUT Joseph's biological agency. GENESIS RING: γένεσις frames vv.1 and 18 — the 'book of the genealogy' (v.1) closes by narrating 'the birth' (v.18). Same root noun, different contextual sense. PREGNANCY EUPHEMISMS: Matthew uses three consecutive euphemisms/circumlocutions in vv.18-20 to avoid baldly naming the conception — (a) πρὶν συνελθεῖν ('before they came together'); (b) ἐν γαστρὶ ἔχουσα ('having in the womb'); (c) γεννηθέν ἐκ πνεύματος (v.20, 'conceived from the Spirit,' passive). Per uW chapter intro: 'Matthew refers to a woman becoming pregnant, but he excludes the involvement of a man in the process.' Our Thai preserves this euphemistic register.  BETROTHAL LEGAL CONTEXT: First-century Jewish kiddushin (betrothal) was legally binding marriage requiring a get (divorce certificate) to dissolve, though consummation awaited the second-stage huppah ceremony. Joseph as 'ἀνὴρ' (husband, v.16,19) is not loose — he IS her husband legally at this stage."
+    }
+  },
+  {
+    "reference": "Matthew 1:19",
+    "chapter": 1,
+    "verse": 19,
+    "greek": "Ἰωσὴφ δὲ ὁ ἀνὴρ αὐτῆς, δίκαιος ὢν καὶ μὴ θέλων αὐτὴν δειγματίσαι, ἐβουλήθη λάθρᾳ ἀπολῦσαι αὐτήν.",
+    "bsb_english": "Because Joseph her husband was a righteous man and was unwilling to disgrace her publicly, he resolved to divorce her quietly.",
+    "translation": {
+      "thai": "ฝ่ายโยเซฟสามีของนางเป็นคนชอบธรรม และไม่ปรารถนาจะให้นางต้องอับอายต่อหน้าผู้คน จึงตั้งใจจะถอนหมั้นนางอย่างลับๆ",
+      "thai_literal": "โยเซฟ แต่ สามี ของนาง, ชอบธรรม เป็น และ ไม่ ปรารถนา นาง จะประจาน, ตั้งใจ อย่างลับๆ จะปล่อย นาง",
+      "thai_summary": "โยเซฟต้องเลือกระหว่างการทำตามกฎหมายแบบเคร่งครัด (ประจานนางต่อสาธารณชน ซึ่งอาจนำไปสู่การลงโทษด้วยการเอาหินขว้าง — ฉธบ.22:23-24) กับการไว้ชีวิตนาง การที่มัทธิวเรียกเขาว่า 'ชอบธรรม' ไม่ได้หมายถึงเคร่งตามกฎหมายอย่างไม่ยืดหยุ่น แต่หมายถึงผู้ที่ทำสิ่งถูกต้องตามน้ำพระทัยของพระเจ้า ซึ่งรวมถึงการมีเมตตา โยเซฟจึงตัดสินใจที่จะถอนหมั้นแต่ทำอย่างเงียบๆ เพื่อคุ้มครองเกียรติของมารีย์เท่าที่จะเป็นไปได้",
+      "key_decisions": [
+        {
+          "greek": "δίκαιος ὢν",
+          "thai": "เป็นคนชอบธรรม",
+          "rationale": "δίκαιος here combines 'Torah-faithful' and 'morally good/merciful.' Not mere rule-following — Joseph's 'righteousness' manifests in combining legal obligation (betrayed trust requires response) with compassion (don't shame her publicly). Thai 'คนชอบธรรม' is the standard translation for δίκαιος."
+        },
+        {
+          "greek": "μὴ θέλων αὐτὴν δειγματίσαι",
+          "thai": "ไม่ปรารถนาจะให้นางต้องอับอายต่อหน้าผู้คน",
+          "rationale": "δειγματίζω = 'to expose publicly, make a public spectacle of.' Used in Col 2:15 (Christ publicly exposing the powers). Here: the strict-Torah response would be public exposure per Deut 22:13-21 (suspected fornication — potentially capital punishment; or Num 5 jealousy-ritual). Thai 'ต้องอับอายต่อหน้าผู้คน' (be shamed publicly) captures the public-shaming semantics."
+        },
+        {
+          "greek": "ἐβουλήθη λάθρᾳ ἀπολῦσαι αὐτήν",
+          "thai": "จึงตั้งใจจะถอนหมั้นนางอย่างลับๆ",
+          "rationale": "ἀπολύω = 'divorce/release.' In betrothal context, breaking the engagement (= legal divorce) required a get but could be done privately before two witnesses rather than publicly. Thai 'ถอนหมั้น' (withdraw betrothal) captures the fact that they were in the betrothal-stage, not yet cohabiting, so 'divorce' (หย่า) would imply cohabitation that hadn't happened. Per uW figs-explicit at v.19: Matthew refers to 'an engaged man breaking the engagement.' λάθρᾳ = 'secretly/quietly' → 'อย่างลับๆ.' NEW GLOSSARY: ἀπολύω (in betrothal context) → ถอนหมั้น; δίκαιος → ชอบธรรม; δειγματίζω → ทำให้อับอายต่อหน้าสาธารณชน."
+        }
+      ],
+      "notes": "Joseph's dilemma: Deut 22:13-21 requires public exposure of suspected unfaithfulness (with possible capital penalty); Num 5 allows a jealousy-ritual. Joseph's 'righteousness' consists in NOT pursuing the maximally punitive legal path but handling it quietly. His plan is to issue a private writ of divorce (as allowed by Deut 24:1-4) in the presence of two witnesses, without public exposure of Mary's perceived sin. This tension between strict-law and merciful-application is a Matthean theme (cf. 5:17-48). The scene also shows Joseph's character before the angel's intervention — he is already a man of principled mercy, not one who needs the angel to teach him to be kind, only to be informed of the miracle."
+    }
+  },
+  {
+    "reference": "Matthew 1:20",
+    "chapter": 1,
+    "verse": 20,
+    "greek": "ταῦτα δὲ αὐτοῦ ἐνθυμηθέντος ἰδοὺ ἄγγελος κυρίου κατ’ ὄναρ ἐφάνη αὐτῷ λέγων· Ἰωσὴφ υἱὸς Δαυίδ, μὴ φοβηθῇς παραλαβεῖν Μαρίαν τὴν γυναῖκά σου, τὸ γὰρ ἐν αὐτῇ γεννηθὲν ἐκ πνεύματός ἐστιν ἁγίου·",
+    "bsb_english": "But after he had pondered these things, an angel of the Lord appeared to him in a dream and said, \"Joseph, son of David, do not be afraid to embrace Mary as your wife, for the One conceived in her is from the Holy Spirit.",
+    "translation": {
+      "thai": "เมื่อเขากำลังครุ่นคิดเรื่องเหล่านี้อยู่ ดูเถิด ทูตสวรรค์ขององค์พระผู้เป็นเจ้ามาปรากฏแก่เขาในความฝัน กล่าวว่า «โยเซฟ บุตรของดาวิด อย่ากลัวที่จะรับมารีย์มาเป็นภรรยาของเจ้าเลย เพราะผู้ที่ปฏิสนธิในนางนั้นเป็นมาจากพระวิญญาณบริสุทธิ์",
+      "thai_literal": "เหล่านี้ แต่ ของเขา ขณะที่กำลังครุ่นคิด ดูเถิด ทูตสวรรค์ ของ องค์พระผู้เป็นเจ้า ตาม ความฝัน ได้ปรากฏ แก่เขา กล่าวว่า: โยเซฟ บุตร ของดาวิด อย่า เจ้าจงกลัว ที่จะรับ มารีย์ ภรรยา ของเจ้า, สิ่งนั้น เพราะ ใน นาง ที่ถูกบังเกิด จาก พระวิญญาณ เป็น บริสุทธิ์",
+      "thai_summary": "ทูตสวรรค์ปรากฏแก่โยเซฟในฝันเพื่อเปิดเผยความจริงที่เขาไม่อาจรู้ได้ด้วยตัวเอง การที่ทูตเรียกเขาว่า 'บุตรของดาวิด' เป็นการยืนยันว่าโยเซฟเป็นเชื้อสายของกษัตริย์ และพระเจ้าทรงกำลังใช้เขาให้เป็นบิดาตามกฎหมายของเมสสิยาห์ คำว่า 'อย่ากลัว' เป็นคำที่ทูตสวรรค์มักใช้เมื่อพระเจ้าทรงเรียกคนให้ทำสิ่งยาก (ลก.1:13, 30) มัทธิวใช้คำว่า 'ปฏิสนธิ' แบบที่หลีกเลี่ยงการระบุว่าชายใดทำให้มารีย์ตั้งครรภ์ — พระวิญญาณบริสุทธิ์ไม่ได้ทำบทบาทของชาย แต่พระเจ้าทรงกระทำการอัศจรรย์",
+      "key_decisions": [
+        {
+          "greek": "ἰδού",
+          "thai": "ดูเถิด",
+          "rationale": "Standard Markan/LXX usage. Marker of narrative surprise/discourse-attention. Thai 'ดูเถิด' (behold) preserves the formal literary register of Matthew's γενηθήτω-style opening of the angelic appearance."
+        },
+        {
+          "greek": "ἄγγελος κυρίου",
+          "thai": "ทูตสวรรค์ขององค์พระผู้เป็นเจ้า",
+          "rationale": "ἄγγελος κυρίου is the LXX formula for God's messenger (Gen 16:7, Exod 3:2, Judg 6:11). κύριος here = YHWH (no article = Hebrew name-stand-in). Per RULES §4: κύριος when = YHWH → องค์พระผู้เป็นเจ้า. NEW GLOSSARY: ἄγγελος → ทูตสวรรค์."
+        },
+        {
+          "greek": "κατ' ὄναρ",
+          "thai": "ในความฝัน",
+          "rationale": "κατ' ὄναρ = 'in a dream' — a Matthean signature phrase (1:20; 2:12, 13, 19, 22; 27:19 — 6x, unique to Matthew). Thai: 'ในความฝัน.' Common in OT narrative (Joseph-of-Egypt in Gen 37 dreams; Daniel receives dream-visions). NEW GLOSSARY: κατ' ὄναρ → ในความฝัน."
+        },
+        {
+          "greek": "Ἰωσὴφ υἱὸς Δαυίδ",
+          "thai": "โยเซฟ บุตรของดาวิด",
+          "rationale": "Per uW figs-metaphor: υἱὸς Δαυίδ = 'descendant of David.' Vocative address here to Joseph establishes his Davidic legitimacy — the very pedigree that will (through legal fatherhood) become Jesus's Davidic claim. Thai 'บุตรของดาวิด' (son of David) preserves the formal LXX-style address (cf. Mark 10:47,48 — same phrase for Jesus, set up here for Joseph)."
+        },
+        {
+          "greek": "μὴ φοβηθῇς παραλαβεῖν",
+          "thai": "อย่ากลัวที่จะรับ... มาเป็น",
+          "rationale": "παραλαμβάνω here = 'take/receive' a wife into one's home (completing marriage from betrothal-stage to cohabitation-stage). Per uW grammar-connect-logic-result: reverse-ordered possible in translation. Thai 'อย่ากลัวที่จะรับ... มาเป็นภรรยาของเจ้า' preserves the future-imperative of the angel's command. 'อย่ากลัว' (fear-not) is the canonical angelic-greeting formula."
+        },
+        {
+          "greek": "τὸ γὰρ ἐν αὐτῇ γεννηθὲν ἐκ πνεύματός ἐστιν ἁγίου",
+          "thai": "เพราะผู้ที่ปฏิสนธิในนางนั้นเป็นมาจากพระวิญญาณบริสุทธิ์",
+          "rationale": "Per uW figs-activepassive: passive γεννηθέν 'the one having been conceived.' Thai 'ผู้ที่ปฏิสนธิ' (the one who is conceived) preserves the passive-reverential tone. Inclusion of 'ผู้' (the one who) not 'สิ่งที่' (thing) because the referent is the unborn Christ — personal, not thing-like. ἐκ πνεύματος = 'from/by the Spirit' (causal preposition). Per uW chapter intro: 'You should not identify the Holy Spirit as the one who performed the normal male role... the Holy Spirit performed a miracle.' Thai 'เป็นมาจาก' (comes from/is sourced from) avoids male-role semantics. NEW GLOSSARY: γεννάω (passive, of Jesus's conception) → ปฏิสนธิ."
+        },
+        {
+          "greek": "ἐφάνη",
+          "thai": "มาปรากฏ",
+          "rationale": "φαίνω aorist passive = 'appeared, became visible.' Thai 'มาปรากฏ' (came-appeared) is standard Thai Christian vocabulary for angelic/divine appearances."
+        }
+      ],
+      "notes": "ANGELIC VISITATION FORMULA: The angel's speech follows the OT pattern (cf. Gen 16:11 Hagar; Judg 13:3-5 Samson's birth): (a) announcement of divine messenger; (b) 'do not fear'; (c) naming of child; (d) explanation of child's role. Matthew is framing Jesus's birth as continuous with OT birth-narratives of promise-children. VOCATIVE 'SON OF DAVID': The vocative υἱὸς Δαυίδ to Joseph is KEY — by naming Joseph a Davidide, the angel makes Joseph's legal fatherhood of Jesus the mechanism by which Jesus inherits David's throne (Mary being unmentioned in the lineage; the Davidic claim flows through Joseph's acceptance). DREAM-REVELATION: Matthew's κατ' ὄναρ motif echoes the patriarch Joseph's dreams (Gen 37, 40-41). Both Josephs receive divine revelation via dreams; both are sent to Egypt to preserve lives; both are key protectors of chosen people. Matthew develops this typology systematically through ch. 2. HOLY-SPIRIT AGENCY: Matthew avoids any statement that could be read as a physical act by the Holy Spirit (contrast pagan divine-conception myths). The Greek passive γεννηθέν ἐκ πνεύματος 'conceived from the Spirit' asserts causation without mechanism — the Holy Spirit is source, not physical parent. Thai must preserve this reserve."
+    }
+  },
+  {
+    "reference": "Matthew 1:21",
+    "chapter": 1,
+    "verse": 21,
+    "greek": "τέξεται δὲ υἱὸν καὶ καλέσεις τὸ ὄνομα αὐτοῦ Ἰησοῦν, αὐτὸς γὰρ σώσει τὸν λαὸν αὐτοῦ ἀπὸ τῶν ἁμαρτιῶν αὐτῶν.",
+    "bsb_english": "She will give birth to a Son, and you are to give Him the name Jesus, because He will save His people from their sins.\"",
+    "translation": {
+      "thai": "นางจะคลอดบุตรชาย และเจ้าจงตั้งชื่อท่านว่าเยซู เพราะพระองค์จะทรงช่วยประชากรของพระองค์ให้พ้นจากบาปของพวกเขา»",
+      "thai_literal": "นางจะคลอด แต่ บุตรชาย และ เจ้าจะเรียก ชื่อ ของเขา ว่า เยซู, พระองค์ เพราะ จะทรงช่วยให้รอด ประชากร ของพระองค์ จาก ทั้งหลาย บาป ของพวกเขา",
+      "thai_summary": "ชื่อ 'เยซู' (กรีก Ἰησοῦς) มาจากภาษาฮีบรู 'เยชูอาห์' ซึ่งย่อมาจาก 'เยโฮชูอาห์' แปลว่า 'องค์พระผู้เป็นเจ้าทรงช่วยให้รอด' ทูตสวรรค์อธิบายว่าทำไมเด็กจึงต้องชื่อนี้ — เพราะพระองค์จะช่วยประชากรของพระองค์ให้พ้นจากบาป นี่คือประโยคหลักประโยคหนึ่งของทั้งเล่ม มัทธิวจะแสดงตลอดเรื่องว่าพระเยซูทรงทำอย่างไรเพื่อให้สำเร็จภารกิจนี้ — ไม่ใช่การช่วยให้พ้นจากศัตรูทางการเมืองเหมือนที่หลายคนคาดหวัง แต่การช่วยให้พ้นจากโทษของบาป",
+      "key_decisions": [
+        {
+          "greek": "τέξεται υἱόν",
+          "thai": "นางจะคลอดบุตรชาย",
+          "rationale": "τίκτω = 'give birth to.' Future indicative. Thai 'คลอดบุตรชาย' is natural. NEW GLOSSARY: τίκτω → คลอด."
+        },
+        {
+          "greek": "καλέσεις τὸ ὄνομα αὐτοῦ Ἰησοῦν",
+          "thai": "เจ้าจงตั้งชื่อท่านว่าเยซู",
+          "rationale": "Per uW translate-tense: future indicative functions as imperative (LXX calque of Heb. future-volitive). Thai 'เจ้าจงตั้งชื่อ' preserves command-force. 'ท่านว่า' for the infant Jesus (honorific-reverential for unborn/newborn, since full ราชาศัพท์ is deferred until he acts). Jesus's name = transliteration of Heb. ישוע / יהושע (Yeshua / Yehoshua) = 'YHWH saves.' Greek Ἰησοῦν → Thai เยซู (without พระ- prefix here because spoken of as human infant in the naming command)."
+        },
+        {
+          "greek": "αὐτὸς γὰρ σώσει τὸν λαὸν αὐτοῦ",
+          "thai": "เพราะพระองค์จะทรงช่วยประชากรของพระองค์",
+          "rationale": "αὐτός emphatic — 'HE (himself) will save.' Royal register restored — พระองค์ + ทรง- because the action-frame is divine salvation, not neutral human activity. σώζω = 'save, deliver, rescue.' Thai 'ทรงช่วย' (save-royal-register) + ให้พ้นจาก (deliver-from). λαός = 'people' — τὸν λαὸν αὐτοῦ = 'his own people.' Per uW figs-explicit: primarily Jewish but extends to all who believe in Jesus. Thai 'ประชากรของพระองค์' (his people). NEW GLOSSARY: σώζω → ทรงช่วยให้รอด / ช่วยให้พ้น; λαός → ประชากร."
+        },
+        {
+          "greek": "ἀπὸ τῶν ἁμαρτιῶν αὐτῶν",
+          "thai": "ให้พ้นจากบาปของพวกเขา",
+          "rationale": "Standard ἁμαρτία = บาป (established glossary from Mark 2:5-10). The aorist plural ἁμαρτιῶν 'sins' (not singular) emphasizes the totality. 'ให้พ้นจาก' (to-escape-from) pairs with ทรงช่วย."
+        }
+      ],
+      "notes": "NAME ETYMOLOGY: Greek Ἰησοῦς transliterates Heb. יֵשׁוּעַ (Yeshua), a later form of יְהוֹשֻׁעַ (Yehoshua), meaning 'YHWH saves.' The angel's explanation σώσει... ἀπὸ τῶν ἁμαρτιῶν is a Greek play on the Hebrew etymology: 'You will name him YHWH-saves because he will save.' Per uW figs-explicit: The name 'Jesus' means 'the Lord saves.' PROGRAMMATIC THESIS: v.21b (αὐτὸς γὰρ σώσει τὸν λαὸν αὐτοῦ ἀπὸ τῶν ἁμαρτιῶν αὐτῶν) is one of Matthew's three programmatic statements about Jesus's mission (alongside 1:23 Immanuel; 28:20 'I am with you always'). Matthew's Jesus saves from SINS, not from Rome. The genealogy (royal) → angelic announcement (redemptive) pairing shows that Matthew's king is a different kind of king. OT ECHO: σώσει τὸν λαὸν αὐτοῦ ἀπὸ τῶν ἁμαρτιῶν αὐτῶν echoes Ps 130:8 LXX (Ps 129:8 LXX numbering): 'καὶ αὐτὸς λυτρώσεται τὸν Ἰσραὴλ ἐκ πασῶν τῶν ἀνομιῶν αὐτοῦ' — 'And he will redeem Israel from all his iniquities.' The σώζω/λυτρόω are semantically adjacent; Matthew's parallel is a deliberate thematic echo of this psalm. OT ALLUSION added to nt_ot_citations.json: MAT 1:21 → PSA 130:8 (allusion, thematic-redemption)."
+    }
+  },
+  {
+    "reference": "Matthew 1:22",
+    "chapter": 1,
+    "verse": 22,
+    "greek": "τοῦτο δὲ ὅλον γέγονεν ἵνα πληρωθῇ τὸ ῥηθὲν ὑπὸ κυρίου διὰ τοῦ προφήτου λέγοντος·",
+    "bsb_english": "All this took place to fulfill what the Lord had said through the prophet:",
+    "translation": {
+      "thai": "ทั้งหมดนี้เกิดขึ้นเพื่อให้สำเร็จตามที่องค์พระผู้เป็นเจ้าตรัสไว้ผ่านทางผู้เผยพระวจนะว่า",
+      "thai_literal": "สิ่งนี้ แต่ ทั้งหมด ได้เกิดขึ้น เพื่อ จะให้สำเร็จ สิ่งที่ได้ถูกกล่าว โดย องค์พระผู้เป็นเจ้า ผ่าน ผู้เผยพระวจนะ ผู้กำลังกล่าวว่า:",
+      "thai_summary": "นี่คือการแทรกของผู้เขียน มัทธิวหยุดเล่าเรื่องชั่วขณะหนึ่งเพื่อชี้ให้ผู้อ่านเห็นว่า เหตุการณ์ที่เขาเล่าไม่ใช่เรื่องบังเอิญ แต่เป็นการที่พระเจ้าทรงทำตามสิ่งที่พระองค์ทรงสัญญาไว้ในพระคัมภีร์เดิม คำว่า 'ให้สำเร็จ' เป็นคำที่มัทธิวใช้บ่อยที่สุดในเรื่องนี้ (ประมาณ 10 ครั้งตลอดเล่ม) เขาใช้เพื่อแสดงว่าเหตุการณ์ในชีวิตของพระเยซูเป็นการทำตามคำพยากรณ์",
+      "key_decisions": [
+        {
+          "greek": "τοῦτο δὲ ὅλον γέγονεν ἵνα πληρωθῇ",
+          "thai": "ทั้งหมดนี้เกิดขึ้นเพื่อให้สำเร็จ",
+          "rationale": "Matthew's signature fulfillment formula (ἵνα πληρωθῇ — 'so that it might be fulfilled' — appears ~10x in Matthew: 1:22; 2:15; 2:17; 2:23; 4:14; 8:17; 12:17; 13:35; 21:4; 27:9). Thai 'เพื่อให้สำเร็จ' (so-that-it-fulfills) is Matthew's theological hinge — asserting OT → NT continuity of divine plan. NEW GLOSSARY: πληρόω (in fulfillment formula) → ให้สำเร็จ."
+        },
+        {
+          "greek": "τὸ ῥηθὲν ὑπὸ κυρίου",
+          "thai": "สิ่งที่องค์พระผู้เป็นเจ้าตรัสไว้",
+          "rationale": "Per uW figs-activepassive: passive ῥηθέν 'that which was spoken.' Thai active 'ที่... ตรัสไว้' is clearer. κύριος here = YHWH (OT prophet speaks Lord's word) → องค์พระผู้เป็นเจ้า. Royal register ตรัส because the speaker is God. Inserted marker 'ไว้' (perfect aspect) because the speech is past but its content persists."
+        },
+        {
+          "greek": "διὰ τοῦ προφήτου",
+          "thai": "ผ่านทางผู้เผยพระวจนะ",
+          "rationale": "Per uW figs-explicit: the prophet = Isaiah. Matthew often delays naming the prophet (contrast 2:17, 4:14 where he names Jeremiah/Isaiah). The anarthrous form here may be because the quotation that follows makes it obvious. Thai 'ผู้เผยพระวจนะ' is the standard term for prophet (established glossary). Double-agency: God is the ultimate speaker (ὑπὸ κυρίου) via (διὰ) the prophet as secondary agent."
+        },
+        {
+          "greek": "λέγοντος",
+          "thai": "ว่า",
+          "rationale": "Per uW writing-quotations: present participle introducing direct discourse. Thai 'ว่า' is the natural quotation-introducer."
+        }
+      ],
+      "notes": "FORMULA QUOTATION: Matthew's 'ἵνα πληρωθῇ' formula introduces 10 OT quotations throughout the gospel, each arguing that a feature of Jesus's life matches a specific OT passage. Per uW chapter intro: 'Matthew consistently indicates that things happen to fulfill passages from the Old Testament.' The formula can indicate prophetic prediction (direct prophecy → fulfillment), typological pattern (OT event recapitulated), verbal pattern (OT words echoed), or theological completion. DOUBLE-AGENCY: 'What was spoken BY the Lord THROUGH the prophet' — classic OT prophetic-voice structure: God is the ultimate author of Scripture; the prophet is the medium. This is a high view of prophetic inspiration (cf. 2 Pet 1:21). Matthew will cite Isa 7:14 next (v.23)."
+    }
+  },
+  {
+    "reference": "Matthew 1:23",
+    "chapter": 1,
+    "verse": 23,
+    "greek": "Ἰδοὺ ἡ παρθένος ἐν γαστρὶ ἕξει καὶ τέξεται υἱόν, καὶ καλέσουσιν τὸ ὄνομα αὐτοῦ Ἐμμανουήλ· ὅ ἐστιν μεθερμηνευόμενον Μεθ’ ἡμῶν ὁ θεός.",
+    "bsb_english": "\"Behold, the virgin will be with child and will give birth to a son, and they will call Him Immanuel\" (which means, \"God with us\").",
+    "translation": {
+      "thai": "‹ดูเถิด หญิงพรหมจารีจะมีครรภ์และคลอดบุตรชาย และเขาทั้งหลายจะเรียกชื่อท่านว่าอิมมานูเอล› ซึ่งแปลว่า «พระเจ้าทรงสถิตกับเรา»",
+      "thai_literal": "ดูเถิด หญิงพรหมจารี ใน ครรภ์ จะมี และ จะคลอด บุตรชาย, และ พวกเขาจะเรียก ชื่อ ของเขา อิมมานูเอล; ซึ่ง เป็น ถูกแปลว่า กับ เรา พระเจ้า",
+      "thai_summary": "นี่คือคำพยากรณ์จากหนังสืออิสยาห์ 7:14 ที่มัทธิวอ้างถึง ในภาษาฮีบรูดั้งเดิม คำว่า 'עַלְמָה' อาจหมายถึงหญิงสาวที่ยังไม่แต่งงาน (ซึ่งในวัฒนธรรมนั้นคาดหวังว่าเป็นพรหมจารี) แต่พระคัมภีร์ฉบับกรีก (เซปทัวจินต์) แปลด้วยคำ 'παρθένος' ที่แปลว่าพรหมจารีอย่างชัดเจน มัทธิวใช้การแปลกรีกนี้เพื่อแสดงว่าพระเยซูเกิดจากหญิงพรหมจารีอย่างแท้จริง — สิ่งที่เป็นการอัศจรรย์ สิ่งที่มีความหมายสำคัญคือชื่อที่สองของเด็ก — 'อิมมานูเอล' แปลว่า 'พระเจ้าทรงสถิตกับเรา' — ซึ่งเป็นการประกาศโดยตรงว่าพระเยซูคือพระเจ้าเองมาอยู่ท่ามกลางประชากรของพระองค์",
+      "key_decisions": [
+        {
+          "greek": "Ἰδοὺ ἡ παρθένος ἐν γαστρὶ ἕξει καὶ τέξεται υἱόν",
+          "thai": "‹ดูเถิด หญิงพรหมจารีจะมีครรภ์และคลอดบุตรชาย›",
+          "rationale": "DIRECT OT CITATION from Isa 7:14 LXX. Marked with guillemets ‹ › per established Markan practice for OT-citation. LXX uses παρθένος ('virgin, young-unmarried-woman'), translating Heb. עַלְמָה ('young woman of marriageable age, typically assumed virgin'). Modern scholarship debates whether עַלְמָה strictly means 'virgin' in Isa 7:14; but LXX παρθένος is unambiguous about virginity, and Matthew USES the LXX specifically because it specifies παρθένος. Per uW figs-explicit: 'Matthew means... a young woman who has not had sex.' Thai 'หญิงพรหมจารี' is the standard Christian Thai term for virgin."
+        },
+        {
+          "greek": "καλέσουσιν τὸ ὄνομα αὐτοῦ Ἐμμανουήλ",
+          "thai": "เขาทั้งหลายจะเรียกชื่อท่านว่าอิมมานูเอล",
+          "rationale": "Per uW writing-pronouns: 'they will call' = generic/indefinite people in general. Thai 'เขาทั้งหลาย' (they — generic plural). Ἐμμανουήλ = HAPAX in NT (Matt 1:23 only) — Hebrew Heb. עמנו אל (Immanuel, 'with us God'). Matthew transliterates from Isa 7:14 LXX. Thai transliteration 'อิมมานูเอล' matches Thai OT Bible Isa 7:14. NEW GLOSSARY: Ἐμμανουήλ → อิมมานูเอล."
+        },
+        {
+          "greek": "ὅ ἐστιν μεθερμηνευόμενον Μεθ' ἡμῶν ὁ θεός",
+          "thai": "ซึ่งแปลว่า «พระเจ้าทรงสถิตกับเรา»",
+          "rationale": "Matthew's editorial gloss translating the Hebrew name for Greek-speaking readers. μεθερμηνεύω = 'to translate, interpret.' Thai 'ซึ่งแปลว่า' (which is translated). Internal quote marked with «» (guillemets level 2). 'พระเจ้าทรงสถิตกับเรา' = 'God is-present-with us' — ราชาศัพท์ ทรงสถิต (royal register for God's presence) standard for divine indwelling language in Thai Bible tradition. Establishes Matthew's Christological claim: Jesus IS God-with-us (cf. Matt 18:20, 28:20 — inclusio)."
+        },
+        {
+          "greek": "ἕξει",
+          "thai": "จะมี",
+          "rationale": "ἕξω (future of ἔχω) with ἐν γαστρί = pregnancy idiom. 'จะมีครรภ์.'"
+        },
+        {
+          "greek": "παρθένος",
+          "thai": "หญิงพรหมจารี",
+          "rationale": "Standard Thai Christian term for virgin. NEW GLOSSARY: παρθένος → หญิงพรหมจารี."
+        }
+      ],
+      "notes": "OT CITATION: Isa 7:14 LXX — MAJOR addition to nt_ot_citations.json. LXX text: 'ἰδοὺ ἡ παρθένος ἐν γαστρὶ ἕξει καὶ τέξεται υἱόν, καὶ καλέσεις τὸ ὄνομα αὐτοῦ Εμμανουηλ.' Matthew's text matches LXX closely except changes 2nd-sg. καλέσεις ('you [sg.] will call') to 3rd-pl. καλέσουσιν ('they will call') — shifting from Ahaz's personal naming of the prophetic child to community-wide acclamation of Jesus. HEBREW VS GREEK: MT Heb. עַלְמָה (almah) means 'young woman of marriageable age.' Some argue it need not mean 'virgin' (Heb. for strict virgin is בְּתוּלָה, bethulah). LXX παρθένος, however, did specify virgin-in-technical-sense. Matthew (writing in Greek) cites LXX, thereby making the virginal-conception claim. This is an often-debated citation; modern commentators generally accept that Matthew reads Isa 7:14 christologically through the LXX. HAPAX: Ἐμμανουήλ (Matt 1:23 only in NT). INCLUSIO: Ἐμμανουήλ ('God with us') at 1:23 forms an inclusio with Matt 28:20 'ἐγὼ μεθ' ὑμῶν εἰμι πάσας τὰς ἡμέρας' ('I am with you all the days') — Matthew's Christological bookends. Jesus is God-with-us (beginning) and remains with his people always (end)."
+    }
+  },
+  {
+    "reference": "Matthew 1:24",
+    "chapter": 1,
+    "verse": 24,
+    "greek": "ἐγερθεὶς δὲ ὁ Ἰωσὴφ ἀπὸ τοῦ ὕπνου ἐποίησεν ὡς προσέταξεν αὐτῷ ὁ ἄγγελος κυρίου καὶ παρέλαβεν τὴν γυναῖκα αὐτοῦ·",
+    "bsb_english": "When Joseph woke up, he did as the angel of the Lord had commanded him and embraced Mary as his wife.",
+    "translation": {
+      "thai": "เมื่อโยเซฟตื่นขึ้นจากหลับ เขาก็ทำตามที่ทูตสวรรค์ขององค์พระผู้เป็นเจ้าสั่งไว้ และรับมารีย์มาเป็นภรรยาของเขา",
+      "thai_literal": "เมื่อได้ถูกปลุก แต่ โยเซฟ จาก การหลับ ได้ทำ ดังที่ ได้บัญชา แก่เขา ทูตสวรรค์ ขององค์พระผู้เป็นเจ้า และ ได้รับ ภรรยา ของเขา",
+      "thai_summary": "โยเซฟตอบสนองต่อนิมิตในฝันด้วยการเชื่อฟังอย่างทันที ไม่มีการพูดคุย ไม่มีการตั้งคำถาม เพียงแต่ 'ทำตาม' — ความเชื่อที่แสดงออกมาในการกระทำ นี่คือรูปแบบที่พระคัมภีร์ใช้บรรยายผู้ชายของพระเจ้า (เช่น อับราฮัมในปฐก.22 โนอาห์ในปฐก.6)",
+      "key_decisions": [
+        {
+          "greek": "ἐγερθεὶς... ἀπὸ τοῦ ὕπνου",
+          "thai": "เมื่อโยเซฟตื่นขึ้นจากหลับ",
+          "rationale": "Per uW figs-activepassive: aorist passive participle ἐγερθείς 'having been raised/woken.' Thai active 'ตื่นขึ้น' is natural for waking-up. Keeps ὕπνος = หลับ (sleep) — consistent glossary with v.20's dream-setting."
+        },
+        {
+          "greek": "ἐποίησεν ὡς προσέταξεν αὐτῷ",
+          "thai": "เขาก็ทำตามที่ทูตสวรรค์... สั่งไว้",
+          "rationale": "προστάσσω = 'command, order, prescribe.' Thai 'สั่งไว้' (commanded, persistent perfect). Joseph's immediate obedience is Matthean emphasis."
+        },
+        {
+          "greek": "παρέλαβεν τὴν γυναῖκα αὐτοῦ",
+          "thai": "รับมารีย์มาเป็นภรรยาของเขา",
+          "rationale": "παραλαμβάνω = 'take to oneself' — same verb as v.20 command (μὴ φοβηθῇς παραλαβεῖν). Joseph executes the angel's command. Thai 'รับ... มาเป็นภรรยา' = 'receive... to-become-wife.' Inserted 'มารีย์' (Mary) for Thai clarity where Greek's anaphoric 'τὴν γυναῖκα αὐτοῦ' (his wife) is context-dependent."
+        }
+      ],
+      "notes": "JOSEPH'S OBEDIENCE PATTERN: ἐγερθεὶς... ἐποίησεν. Matthew will repeat this pattern for Joseph's flight to Egypt (2:14) and return (2:21) — each time Joseph receives a dream, wakes, and obeys. Matthew characterizes Joseph as the righteous man of action — no recorded speech in the gospel, only obedience. 'COMPLETED BETROTHAL': παρέλαβεν τὴν γυναῖκα αὐτοῦ does not mean Joseph now has sex with Mary (v.25 explicitly rules this out until after Jesus's birth). It means Joseph takes Mary into his home as his wife — completing the marriage legally without consummation. In Jewish custom, the huppah (second-stage ceremony) moved the betrothed woman to the husband's house."
+    }
+  },
+  {
+    "reference": "Matthew 1:25",
+    "chapter": 1,
+    "verse": 25,
+    "greek": "καὶ οὐκ ἐγίνωσκεν αὐτὴν ἕως οὗ ἔτεκεν υἱόν· καὶ ἐκάλεσεν τὸ ὄνομα αὐτοῦ Ἰησοῦν.",
+    "bsb_english": "But he had no union with her until she gave birth to a Son. And he gave Him the name Jesus.",
+    "translation": {
+      "thai": "แต่เขาไม่ได้ร่วมหลับนอนกับนางจนกระทั่งนางคลอดบุตรชาย แล้วเขาก็ตั้งชื่อท่านว่าเยซู",
+      "thai_literal": "และ ไม่ ได้รู้จัก นาง จนถึง ที่ ได้คลอด บุตรชาย; และ ได้เรียก ชื่อ ของเขา ว่า เยซู",
+      "thai_summary": "คำว่า 'ไม่ได้ร่วมหลับนอนกับนาง' เป็นการแปลคำอ้อมที่มัทธิวใช้ (ในภาษากรีก 'เขาไม่รู้จักนาง') เพื่อหลีกเลี่ยงการพูดถึงเรื่องเพศโดยตรง มัทธิวต้องการให้ผู้อ่านเข้าใจชัดเจนว่า พระเยซูประสูติโดยไม่มีบิดาตามธรรมชาติ ส่วนคำว่า 'จนกระทั่ง' (ἕως οὗ) ในภาษากรีกไม่จำเป็นต้องหมายความว่าสิ่งที่ตามมาหลังจากนั้นเป็นตรงกันข้าม นิกายต่างๆ ของคริสต์ศาสนาเห็นต่างกันว่าโยเซฟและมารีย์มีลูกด้วยกันหลังจากพระเยซูประสูติแล้วหรือไม่ มัทธิวเน้นแค่ช่วงเวลาก่อนการประสูติเท่านั้น สุดท้าย โยเซฟเชื่อฟังสั่งของทูตสวรรค์อย่างสมบูรณ์ ด้วยการตั้งชื่อเด็กว่าเยซู ซึ่งเป็นการรับรองตามกฎหมายว่าโยเซฟเป็นบิดา — และเป็นการส่งต่อสิทธิเชื้อสายของดาวิดสู่พระเยซู",
+      "key_decisions": [
+        {
+          "greek": "οὐκ ἐγίνωσκεν αὐτήν",
+          "thai": "ไม่ได้ร่วมหลับนอนกับนาง",
+          "rationale": "Per uW figs-euphemism: γινώσκω 'to know' = Hebraistic/LXX-calque euphemism for sexual union (cf. Gen 4:1 LXX 'ἔγνω Αδαμ Ευαν τὴν γυναῖκα αὐτοῦ'). Thai 'ร่วมหลับนอน' (literally sleep-together — the standard Thai euphemism for marital sexual relations) preserves the indirect register. Imperfect tense ἐγίνωσκεν = ongoing 'was (habitually) not knowing her' — emphasizes abstention throughout the pregnancy."
+        },
+        {
+          "greek": "ἕως οὗ ἔτεκεν υἱόν",
+          "thai": "จนกระทั่งนางคลอดบุตรชาย",
+          "rationale": "Per uW figs-extrainfo: 'Christians disagree about whether Joseph had sex with Mary after Jesus was born. In this verse, Matthew only refers to the time before Jesus was born. If possible, use a form that only refers to this time period and does not imply anything about what happened after.' ἕως οὗ is temporally neutral — Greek syntax does NOT strictly imply that the negated action resumes afterward (contrast Western assumptions that 'until X' = 'and afterward not-X'). Thai 'จนกระทั่ง' preserves this temporal neutrality — ambiguous about post-birth. Interpretive latitude preserved for Catholic (perpetual virginity), Orthodox, and Protestant readings."
+        },
+        {
+          "greek": "ἐκάλεσεν τὸ ὄνομα αὐτοῦ Ἰησοῦν",
+          "thai": "เขาก็ตั้งชื่อท่านว่าเยซู",
+          "rationale": "Joseph executes the angel's command from v.21. Legal naming by Joseph = legal adoption of Jesus as Joseph's son = Jesus's legal inheritance of the Davidic line. This is the MECHANISM by which Jesus, biologically conceived by the Spirit, is legally a son of David through Joseph. Thai 'ตั้งชื่อท่านว่าเยซู' matches v.21 rendering."
+        }
+      ],
+      "notes": "THEOLOGICAL CRUX 'ἕως οὗ': The phrase ἕως οὗ ἔτεκεν has provoked centuries of debate. In Greek, ἕως οὗ + aorist verb indicates a time up to which the negated action did not occur — it does NOT logically entail the action began afterward. Compare 2 Sam 6:23 LXX (Michal had no child UNTIL the day of her death — obviously not implying she had children afterward). Matthew himself does not specify what happened after Jesus's birth. The standard evangelical Protestant reading takes the 'brothers and sisters' of Jesus (Matt 13:55-56) as biological children of Joseph and Mary born after Jesus — the natural reading of the family-circle texts. Catholic and Orthodox traditions historically read those siblings as cousins or step-children to preserve Mary's perpetual virginity, but that reading rests on theological tradition rather than grammatical necessity in the Greek. Our translation preserves the ambiguity by using 'จนกระทั่ง' (up until / until the time that), not 'จนกระทั่ง... แล้วหลังจากนั้น' (which would imply resumption). OBEDIENCE CLOSURE: The chapter ends with Joseph's act of naming — the angel's commanded action (v.21) performed. Matthew 2 will continue Joseph's pattern of dream-driven obedience. LEGAL-FATHERHOOD CLOSURE: By naming the child, Joseph formally accepts paternal responsibility in Jewish law — making Jesus a legitimate son of Joseph by adoption, and thus a legitimate Davidide by legal pedigree even though biologically conceived by the Holy Spirit."
+    }
+  }
+]
