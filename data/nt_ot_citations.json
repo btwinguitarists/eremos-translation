@@ -29,270 +29,1059 @@
       "greek_matches": "paraphrase",
       "notes": "'Brought nothing in, take nothing out' echoes Job."
     },
-    "MRK 1:2": {
+    "MAT 1:1": {
+      "type": "composite_allusion",
+      "sources": [
+        "GEN 2:4",
+        "GEN 5:1"
+      ],
+      "greek_matches": "LXX-verbatim",
+      "notes": "βίβλος γενέσεως verbatim echoes LXX Gen 2:4 (αὕτη ἡ βίβλος γενέσεως οὐρανοῦ καὶ γῆς) and LXX Gen 5:1 (αὕτη ἡ βίβλος γενέσεως ἀνθρώπων). Matthew frames the Jesus-story as a new creation / new Adam / new humanity by borrowing the Septuagintal title-formula. This is the first of many Matthean Genesis-Exodus typological echoes. See also γένεσις at 1:18 (inclusio-ring with the phrase at 1:1)."
+    },
+    "MAT 1:20": {
+      "type": "typological_allusion",
+      "sources": [
+        "GEN 37:5-11",
+        "GEN 40:5-19",
+        "GEN 41:1-32"
+      ],
+      "greek_matches": "thematic-typology",
+      "notes": "Matthew κατ ὄναρ (in a dream) motif — unique to Matthew among the evangelists, used 6x (1:20; 2:12, 13, 19, 22; 27:19) — typologically echoes the patriarch Joseph-of-Egypt, who receives prophetic dreams in Gen 37 (own dreams of preeminence) and interprets dreams in Gen 40-41 (cupbearer-baker; Pharaoh). Both Josephs are: (a) chosen by divine dream-revelation; (b) preservers of the people of God through Egyptian-exile phases; (c) key protector-figures in the Messianic line (OT-Joseph preserves Israel in Egypt via Gen 45; NT-Joseph preserves infant Messiah in Egypt via Matt 2:13-15). Matthew deliberately uses the Greek name Ἰωσήφ for both, heightening the typological echo. No direct verbal citation, but a sustained narrative-typological pattern worth database recording."
+    },
+    "MAT 1:21": {
+      "type": "allusion",
+      "source": "PSA 130:8",
+      "greek_matches": "thematic-redemption",
+      "notes": "σώσει τὸν λαὸν αὐτοῦ ἀπὸ τῶν ἁμαρτιῶν αὐτῶν thematically echoes Ps 129:8 LXX (MT Ps 130:8): καὶ αὐτὸς λυτρώσεται τὸν Ἰσραὴλ ἐκ πασῶν τῶν ἀνομιῶν αὐτοῦ. σώζω and λυτρόω are semantically adjacent (save / redeem); ἁμαρτία and ἀνομία (sin / iniquity) overlap in LXX usage. Matthew recasts the Psalm redemption-promise as programmatic statement of Jesus mission. The angels name-etymology (Ἰησοῦς = YHWH-saves) makes the psalm echo explicit — Jesus IS the one who fulfills this psalm."
+    },
+    "MAT 1:23": {
+      "type": "citation",
+      "source": "ISA 7:14",
+      "greek_matches": "LXX-near-verbatim",
+      "notes": "DIRECT OT CITATION, Matthew first fulfillment-formula quotation (ἵνα πληρωθῇ at v.22). LXX Isa 7:14: ἰδοὺ ἡ παρθένος ἐν γαστρὶ ἕξει καὶ τέξεται υἱόν, καὶ καλέσεις τὸ ὄνομα αὐτοῦ Εμμανουηλ. Matthew matches LXX verbatim except changes 2nd-sg. καλέσεις (you [sg.] will call) to 3rd-pl. καλέσουσιν (they will call) — shift from Ahaz specific naming to community-wide acclamation of Jesus as God-with-us. MT/LXX divergence: Heb. עַלְמָה (almah, young woman of marriageable age, implicitly but not strictly virgin). LXX παρθένος (virgin, technical sense). Matthew cites LXX specifically because παρθένος supports the virginal-conception narrative. INCLUSIO: Ἐμμανουήλ (God with us) at 1:23 forms Christological bookend with Matt 28:20 (ἐγὼ μεθ ὑμῶν εἰμι — I am with you). HAPAX: Ἐμμανουήλ (Matt 1:23 only in NT)."
+    },
+    "MAT 1:9": {
+      "type": "background_allusion",
+      "source": "ISA 1:1",
+      "greek_matches": "historical-context",
+      "notes": "The three-generation span Uzziah → Jotham → Ahaz → Hezekiah in Matthew genealogy roughly covers Isaiah prophetic ministry (Isa 1:1 names all four kings). Not a direct citation at v.9, but a historical-setting note: Matthew embeds the Isaianic prophetic era within the genealogy so that his later Isa 7:14 fulfillment-citation at v.23 stands on narrative-historical ground. Classified as background_allusion since no verbal borrowing at v.9; only ancestral placement of the Isaiah-era kings."
+    },
+    "MAT 2:1": {
+      "type": "background_allusion",
+      "source": "MIC 5:2",
+      "greek_matches": "N/A (forward-reference)",
+      "notes": "Matthew 2:1 sets the stage for the Mic 5:2 citation at 2:6. The notes mention Mic 5:2 as the prophetic background for Jesus's Bethlehem birth — Matthew's primary citation occurs at v.6 where the scribes quote it. This entry documents the forward-reference at v.1 so the drift-detector can track the narrative setup."
+    },
+    "MAT 2:11": {
+      "type": "composite_allusion",
+      "sources": [
+        "ISA 60:6",
+        "PSA 72:10-11"
+      ],
+      "greek_matches": "imagery-parallel",
+      "notes": "Magi's gold + frankincense echoes LXX Isa 60:6 (φέροντες χρυσίον καὶ λίβανον — nations bringing gold and frankincense to Zion), and the kings-bringing-tribute scene echoes Ps 72:10-11 LXX (kings of Tarshish/Sheba bringing gifts). Matthew does not explicit-cite but invokes the gentile-pilgrimage-to-Messianic-king typology. Myrrh (σμύρνα) has no specific OT parallel but resonates with Song 3:6 and is proleptic of John 19:39 (Jesus's burial-myrrh) — three gifts symbolically: gold=kingship, frankincense=divinity/worship, myrrh=death/burial (later Christian interpretation)."
+    },
+    "MAT 2:15": {
+      "type": "citation",
+      "source": "HOS 11:1",
+      "greek_matches": "MT-not-LXX",
+      "notes": "CRITICAL TEXT-CRITICAL OBSERVATION: Matthew follows MT (Hebrew) text, NOT LXX. LXX Hos 11:1 reads ἐξ Αἰγύπτου μετεκάλεσα τὰ τέκνα αὐτοῦ ('out of Egypt I summoned his children' — 3rd-pl collective). Matthew writes ἐξ Αἰγύπτου ἐκάλεσα τὸν υἱόν μου ('I called my son' — 1st-sg to single Son). This matches MT בְּנִי (my son, sg.). Matthew requires the singular for his messianic typology: Jesus as individual Son recapitulating Israel's exodus. In Hosea's original context, 'my son' = Israel (collective). Matthew reads this typologically — Jesus as true-Israel Son, recapitulating Israel's Egypt-sojourn and exodus without Israel's subsequent failures. One of the clearest examples of Matthew's selective MT-over-LXX use."
+    },
+    "MAT 2:18": {
+      "type": "citation",
+      "source": "JER 31:15",
+      "greek_matches": "LXX-influenced",
+      "notes": "Matthew's Greek generally follows LXX-B tradition (κλαυθμὸς + ὀδυρμός doublet) but diverges in minor details. Jer 31:15 OT context: Jeremiah addresses Babylonian-exile-bound Jews at Ramah (deportation staging-ground); Rachel, their matriarch, poetically weeps for her exiled descendants. IMPORTANT LITERARY CONTEXT: Jer 31:16-17 IMMEDIATELY promises restoration ('there is hope for your future... your children shall return') — Matthew cites only the lament verse, but the original context includes implied restoration-promise. Geography: Ramah is in Benjamin territory north of Jerusalem, not in Bethlehem — but Rachel's tomb is traditionally located between them (Gen 35:19), making her the unifying matriarch of both the Bethlehem-massacred boys and the Benjaminite exiles. Matthew's 'fulfillment' links three trauma-typologies: Herod's massacre, Babylonian exile, and (by extension from Hosea 11:1) Egyptian bondage."
+    },
+    "MAT 2:19": {
+      "type": "background_allusion",
+      "source": "GEN 37",
+      "greek_matches": "typological",
+      "notes": "Matthew's repeated Joseph-dream-revelation pattern (Matt 1:20, 2:12, 2:13, 2:19, 2:22) structurally echoes the dreams-of-Joseph in Gen 37, 40-41. Matthew's Joseph-of-Nazareth receives five dream-revelations that protect the Holy Family, just as Joseph-of-Egypt received/interpreted dreams that protected his family. Not a citation but a typological-structural allusion that Matthew activates through the dream motif. Joseph-Jesus-Egypt triad in Matt 2 consciously recapitulates Genesis-Joseph-Egypt."
+    },
+    "MAT 2:20": {
+      "type": "allusion",
+      "source": "EXO 4:19",
+      "greek_matches": "LXX-paraphrase",
+      "notes": "The angel's reassurance 'those seeking the life of the child have died' (τεθνήκασιν γὰρ οἱ ζητοῦντες τὴν ψυχὴν τοῦ παιδίου) distinctly echoes Exod 4:19 LXX — God's word to Moses in Midian: τεθνήκασιν γὰρ πάντες οἱ ζητοῦντές σου τὴν ψυχήν ('for all those seeking your life are dead'). Near-verbatim formula. Matthew's Joseph-as-new-Moses typology: a prophet-deliverer sheltered in foreign land, summoned back when the tyrant who sought his life has died. Matthew frames Jesus's early life via Mosaic-exodus structural echoes, reinforced by v.15 (out of Egypt I called my son)."
+    },
+    "MAT 2:23": {
+      "type": "thematic_summary_allusion",
+      "sources": [
+        "ISA 11:1",
+        "JDG 13:5"
+      ],
+      "greek_matches": "wordplay-etymological",
+      "notes": "CRUX: Matthew cites 'the prophets' (PLURAL) — unique in his formula-quotations — without naming a specific OT verse. No single OT verse says 'he will be called a Nazarene.' Scholarly proposals: (1) WORDPLAY with Isa 11:1 — the Hebrew נֵצֶר netzer ('branch/shoot') describing the Davidic messiah emerging from Jesse's stump; Ναζωραῖος ~ netzer etymological pun (majority scholarly view). (2) NAZIRITE connection to Judg 13:5 (Samson 'a Nazirite from the womb'), Num 6 — Jesus as consecrated-one. (3) DESPISED-STATUS: Matthew synthesizes the prophetic witness that the Messiah would come from an insignificant place (Isa 53:2-3, Ps 22:6) — Nazareth qualifies as despised (cf. John 1:46). Matthew's plural 'prophets' accommodates the composite/thematic reading. No single text-match; Matthew signals his interpretive method (a summary fulfillment, not a proof-text citation)."
+    },
+    "MAT 2:6": {
       "type": "composite_citation",
       "sources": [
-        "MAL 3:1",
-        "EXO 23:20"
+        "MIC 5:2",
+        "2SA 5:2"
       ],
-      "greek_matches": "LXX-influenced",
-      "notes": "Mark attributes to Isaiah but quotes Malachi+Exodus. The 'ἄγγελόν μου' phrase matches LXX Mal 3:1 closely."
+      "greek_matches": "paraphrase-composite",
+      "notes": "Composite citation blending Mic 5:2 (Bethlehem as birthplace of Davidic ruler) + 2 Sam 5:2 LXX (God's word to David 'you shall shepherd my people Israel'). Matthew's οὐδαμῶς ἐλαχίστη ('by no means least') INVERTS Mic 5:2 MT/LXX which read 'you are LITTLE among Judah's clans' — scholarly consensus reads this as Matthew's interpretive paraphrase: Bethlehem's former smallness is reversed by the Messiah's birth. Matthew substitutes ἡγούμενος ('ruler') for LXX's ἄρχων, probably blending with 2 Sam 5:2 LXX ἡγούμενον. The shepherd-Israel phrase is 2 Sam 5:2 LXX, not Micah. Matthew creatively splices two Davidic-Bethlehem OT texts."
     },
-    "MRK 1:3": {
-      "type": "citation",
-      "source": "ISA 40:3",
-      "greek_matches": "LXX",
-      "notes": "Voice-in-wilderness text matches LXX ordering ('in the wilderness') rather than MT ('call in the wilderness prepare the way')."
+    "MAT 3:10": {
+      "type": "background_allusion",
+      "sources": [
+        "ISA 10:33-34",
+        "EZK 31"
+      ],
+      "greek_matches": "imagery-parallel",
+      "notes": "Axe-at-root judgment imagery evokes Isa 10:33-34 (God as tree-feller against arrogant Assyria — LXX πρὸς τὴν ῥίζαν κόπτων) and Ezek 31 (Assyria as cedar felled by foreigners). Also Dan 4 (Nebuchadnezzar's felled tree by divine decree). John adapts the OT tree-judgment motif to personal/eschatological individual-accountability — the tree is not a nation but any unfruitful person. This imagery recurs in Matthew's own formulations at 7:19 (identical words) and 13:30 (weeds-wheat) — Matthean echo pattern. The fire-destination at the end of the verse compounds with the OT judgment-by-fire tradition (Isa 66:24, Zeph 1:18)."
     },
-    "MRK 1:11": {
-      "type": "allusion",
+    "MAT 3:11": {
+      "type": "composite_allusion",
+      "sources": [
+        "JOL 2:28-29",
+        "MAL 3:2-3",
+        "ISA 4:4"
+      ],
+      "greek_matches": "thematic-composite",
+      "notes": "PNEUMATOLOGICAL-ESCHATOLOGICAL COMPOSITE. John's prophecy that the Messiah 'will baptize with the Holy Spirit and fire' invokes three OT texts: (1) JOEL 2:28-29 (LXX 3:1-2): eschatological Spirit-outpouring on all flesh — programmatic for Pentecost (Acts 2:16-21); (2) MAL 3:2-3: Messiah as refiner's fire who purifies Levi's sons — purification-by-fire; (3) ISA 4:4: 'spirit of judgment and spirit of burning' — God's cleansing-fire for Zion. Matthew+Luke (not Mark) preserve the 'and fire' component. INTERPRETIVE AMBIGUITY: fire as (a) purification-refining for believers, (b) judgment-consuming for the unrepentant, or (c) further description of the Spirit itself. Most likely (a)+(b) — dual-edge eschatological reality. NT fulfillment: Acts 2 (tongues-as-fire Spirit-outpouring) is the positive edge; final judgment-fire (Rev 20) is the negative edge."
+    },
+    "MAT 3:12": {
+      "type": "composite_allusion",
+      "sources": [
+        "PSA 1:4",
+        "ISA 41:15-16",
+        "MAL 4:1"
+      ],
+      "greek_matches": "imagery-composite",
+      "notes": "AGRICULTURAL-JUDGMENT IMAGERY. John's winnowing-fork / threshing-floor / wheat-barn / chaff-fire metaphor draws on: (1) PSA 1:4: 'the wicked are like chaff that the wind drives away' — foundational wisdom-Psalm chaff-imagery; (2) ISA 41:15-16: God makes Israel a threshing-sledge that pulverizes mountains (judgment via threshing); (3) MAL 4:1: Day of the LORD burns the arrogant as stubble in fire. John adapts for eschatological separation — the coming-one will thresh/sort humanity. Matthew's own later developments: 13:30 (parable of weeds-among-wheat with similar barn/burn imagery), 13:40-42 (final judgment explicit), 25:31-46 (sheep-goats sorting). The 'unquenchable fire' (ἄσβεστος, also at Mark 9:43-48) = eternal judgment, echoing Isa 66:24."
+    },
+    "MAT 3:15": {
+      "type": "thematic_allusion",
+      "sources": [
+        "ISA 53:11",
+        "ZEC 9:9"
+      ],
+      "greek_matches": "thematic-link",
+      "notes": "Jesus's 'to fulfill all righteousness' invokes OT righteousness-theology: (1) ISA 53:11 LXX 'the righteous one, my servant, will justify many' — the Suffering Servant as righteousness-accomplisher for others; (2) ZEC 9:9 'your king comes to you, righteous and victorious' — the Messianic king bringing righteousness. Jesus's baptism-in-solidarity with sinners previews his substitutionary-righteousness project (Matt 27:4 'I betrayed innocent blood' + Matt 27:19 'righteous man' + Matt 27:24 'I am innocent of this righteous man's blood'). Matthean δικαιοσύνη is a LOADED term throughout his gospel (Matt 5:6, 5:10, 5:20, 6:1, 6:33, 21:32) — Jesus here sets the trajectory of identifying with sinners to bring them into right-standing. Matthew-distinctive saying; unique to Matthew among synoptics."
+    },
+    "MAT 3:16": {
+      "type": "thematic_allusion",
+      "sources": [
+        "GEN 1:2",
+        "GEN 8:8-12"
+      ],
+      "greek_matches": "imagery-parallel",
+      "notes": "SPIRIT+WATER+DOVE NEW-CREATION IMAGERY. The Spirit descending 'like a dove' over waters at Jesus's baptism echoes: (1) GEN 1:2 'the Spirit of God was hovering [MT מרחפת, LXX ἐπεφέρετο] over the waters' — creation-inauguration; Jesus's baptism is new-creation-inauguration; (2) GEN 8:8-12 Noah's dove + post-flood new-beginning — dove as sign of God's favor after judgment. Also possibly Song 2:14 (dove as beloved imagery). Patristic tradition (Tertullian, Origen) developed these echoes explicitly. Matthew's Gen-1 parallel invites theological reading: Jesus inaugurates a new creation, indwelt by the same creator-Spirit that hovered at cosmogenesis. The ἀνεῴχθησαν ('were opened') at Matt 3:16 vs Mark's σχιζομένους ('torn open' at Mark 1:10) also echoes Ezek 1:1 (Ezekiel 'heavens were opened' for divine vision)."
+    },
+    "MAT 3:17": {
+      "type": "composite_citation",
       "sources": [
         "PSA 2:7",
         "ISA 42:1",
         "GEN 22:2"
       ],
-      "greek_matches": "composite",
-      "notes": "Baptism voice combines Royal-Son (Ps 2), Servant-beloved (Isa 42), and beloved-sacrificial-son (Gen 22)."
+      "greek_matches": "composite-paraphrase",
+      "notes": "FOUNDATIONAL CHRISTOLOGICAL CITATION. Father's voice from heaven combines three OT Son/Beloved texts: (1) PSA 2:7 LXX 'ὁ υἱός μου εἶ σύ' ('you are my son') — royal-Messianic enthronement Psalm, Davidic-king-as-son-of-God declaration; (2) ISA 42:1 LXX 'ὁ ἀγαπητός μου ... εἰς ὃν εὐδόκησεν ἡ ψυχή μου' ('my beloved... in whom my soul delighted') — Suffering Servant song; (3) GEN 22:2 LXX ὁ υἱός σου ὁ ἀγαπητός (Abraham's 'beloved son' Isaac — binding-near-sacrifice echo). Matthew's voice-saying FUSES these: Jesus is simultaneously royal-Messiah (Ps 2), Suffering Servant (Isa 42), AND beloved-sacrifice-son (Gen 22 Isaac-typology pointing to crucifixion). One sentence carrying three OT identities — Matthew's densest Christological compression. SYNOPTIC-DIFFERENCE: Matthew's 3rd-person 'this is' (public declaration) vs Mark/Luke's 2nd-person 'you are' (addressed to Jesus). Matthew pairs this with 17:5 Transfiguration (same Father-voice formula + 'listen to him!') bracketing Jesus's ministry. The εὐδοκέω verb echoes Isa 42:1 LXX — Matthew's text-critical preference here matches LXX wording closely. For the LXX-MT comparison: LXX Isa 42:1 reads ὁ ἐκλεκτός μου, προσεδέξατο αὐτὸν ἡ ψυχή μου — Matthew's substitution of ὁ ἀγαπητός and εὐδόκησα shows his compositional reworking."
     },
-    "MRK 2:26": {
-      "type": "allusion",
-      "source": "1SA 21:1",
-      "greek_matches": "narrative-reference",
-      "notes": "David eating the Bread of the Presence (1 Sam 21:1-6). HISTORICAL CRUX: Mark's ἐπὶ Ἀβιαθάρ ἀρχιερέως — 1 Sam 21 records Ahimelech, not Abiathar, as priest at Nob; Abiathar (his son) succeeded him (1 Sam 22:20-23). Solutions in literature: (1) Mark/Jesus conflates by memory; (2) ἐπί + gen. = 'in the Scripture section named for Abiathar' (paralleling Mark 12:26's ἐπὶ τοῦ βάτου 'in the burning-bush passage'); (3) both shared priesthood during transition; (4) a variant reading. SBLGNT retains Ἀβιαθάρ as the harder reading. Jesus uses the David-precedent to defend disciples' sabbath plucking — human need supersedes ritual boundary."
-    },
-    "MRK 3:13": {
-      "type": "echo",
-      "source": "EXO 24:1",
-      "greek_matches": "thematic",
-      "notes": "Jesus ascending the mountain to call the Twelve echoes Moses ascending Sinai to establish the covenant people (Exod 24:1-11). Mark's 'he went up the mountain and called whom he wanted' carries Moses-typology — the new people-of-God being constituted on a mountain by the Son."
-    },
-    "MRK 4:3": {
-      "type": "echo",
-      "source": "DEU 6:4",
-      "greek_matches": "thematic",
-      "notes": "Jesus's opening 'Listen!' (Ἀκούετε) echoes the Shema's opening imperative (Deut 6:4 'Hear, O Israel'). The Parable of the Sower is structured as Jesus's own Shema — a call to covenant-listening that becomes the criterion for understanding all his parables (v.13)."
-    },
-    "MRK 4:12": {
+    "MAT 3:3": {
       "type": "citation",
-      "source": "ISA 6:9-10",
-      "greek_matches": "Targum-influenced",
-      "notes": "Mark's quotation diverges from LXX Isa 6:9–10 in a crucial way: LXX ends with ἰάσομαι αὐτούς ('I will heal them'); Mark has ἀφεθῇ αὐτοῖς ('it might be forgiven them'). This aligns with Targum Jonathan on Isa 6:10, suggesting Mark draws on an Aramaic paraphrase tradition rather than pure LXX. The substitution 'forgive' for 'heal' theologically reads physical restoration as spiritual forgiveness. Famous 'parables harden' crux (matt 13:13, Luke 8:10 soften; Mark preserves the sharpness)."
-    },
-    "MRK 4:29": {
-      "type": "citation",
-      "source": "JOL 3:13",
+      "source": "ISA 40:3",
       "greek_matches": "LXX",
-      "notes": "Mark 4:29 'εὐθὺς ἀποστέλλει τὸ δρέπανον, ὅτι παρέστηκεν ὁ θερισμός' directly echoes Joel 3:13 LXX (4:13 LXX numbering: ἐξαποστείλατε δρέπανα, ὅτι παρέστηκεν τρυγητός). Isa 17:5 provides secondary resonance. The harvest-sickle is standard OT imagery for eschatological divine judgment (cf. Rev 14:14-16). The parable's force: between sowing and reaping is hidden divine growth, which crashes into visibility at harvest."
+      "notes": "DIRECT CITATION of Isa 40:3 LXX, near-verbatim (shared with Mark 1:3, Luke 3:4-6, John 1:23). Isaiah's original context: comfort to Babylon-exilic Judah — a voice proclaiming YHWH's return with his people via a prepared desert-highway. Synoptic-Johannine consensus applies this to John the Baptist as the herald of the LORD's (= Jesus's) coming. CRITICAL CHRISTOLOGICAL MOVE: Isaiah's κύριος = YHWH in Hebrew/MT, but the NT-Synoptic application of this verse to Jesus implicitly identifies Jesus with YHWH — early high-christology embedded in the citation's very use. The MT/LXX punctuation variance ('voice-crying in-wilderness, prepare' vs 'voice-crying, in-wilderness prepare') is resolved in NT usage in favor of the first reading (wilderness modifies voice-crying, which fits John's geographical setting). Matthew's ὁ ῥηθείς ('the-one-spoken-of') formula identifies John AS the fulfillment-figure predicted — structurally identical to Matthew's other formula-quotations."
     },
-    "MRK 4:32": {
+    "MAT 3:4": {
       "type": "allusion",
+      "source": "2KG 1:8",
+      "greek_matches": "LXX-near-quote",
+      "notes": "ELIJAH TYPOLOGY. John's wilderness attire (camel-hair garment + leather belt around his waist) near-quotes 2 Kgs 1:8 LXX description of Elijah (ἀνὴρ δασύς καὶ ζώνην δερματίνην περιεζωσμένος τὴν ὀσφύν αὐτοῦ). Matthew preserves Mark's 1:6 use of this allusion and later makes the Elijah-identification explicit (Matt 11:14 'he is Elijah who was to come'; Matt 17:12-13 after Transfiguration 'Elijah has already come... they did to him whatever they wished'). Jewish expectation (Mal 4:5-6) held Elijah would return before the Day of the Lord. John's wilderness-prophet ascetic-typology activates this expectation — he plays Elijah to Jesus's Messiah. Also antitypal echo of Zech 13:4 (false prophets who do NOT wear hairy garment) — John's authentic prophetic dress contrasts deceivers."
+    },
+    "MAT 3:7": {
+      "type": "background_allusion",
       "sources": [
-        "EZK 17:23",
-        "EZK 31:6",
-        "DAN 4:12"
+        "GEN 3:1-15",
+        "ISA 59:5"
       ],
-      "greek_matches": "imagery",
-      "notes": "Mustard seed's birds-in-shade imagery alludes to OT cosmic-tree texts where birds-of-heaven dwelling in a great tree's branches = nations finding refuge in an empire (Ezek 17:23 Davidic cedar; Ezek 31:6 Assyrian cedar; Dan 4:12 Nebuchadnezzar's tree). Jesus subversively downgrades the cosmic cedar to a humble garden bush — but the refuge-for-nations sense is preserved."
+      "greek_matches": "imagery-parallel",
+      "notes": "John's insult γεννήματα ἐχιδνῶν ('brood of vipers') activates two OT backgrounds: (1) GEN 3 serpent — seed-of-serpent imagery (Gen 3:15 'enmity between your seed and her seed'), morally associating the Pharisees/Sadducees with the primordial deceiver; (2) ISA 59:5 'they hatch viper's eggs' — prophetic indictment of wicked Israel as producing poisonous offspring. Matthew particularly favors this insult (3:7, 12:34, 23:33) — a distinctive Matthean stock-phrase linking John's, Jesus's, and implicitly Satan's-seed imagery (cf. 13:38 'weeds are children of the evil one'). Not a formal citation; thematic/imagistic connection."
     },
-    "MRK 4:41": {
-      "type": "allusion",
-      "source": "PSA 89:9",
+    "MAT 3:9": {
+      "type": "background_allusion",
+      "source": "ISA 51:1-2",
+      "greek_matches": "thematic-link",
+      "notes": "John's 'God can raise up children for Abraham from these stones' thematically invokes Isa 51:1-2 LXX, where Israel is commanded 'look to the rock from which you were hewn... look to Abraham your father.' John reverses the sense ironically: Abraham's true seed is not guaranteed by ethnic descent but by God's generative power — lithic-to-familial creation echoes the Abrahamic covenant's gift-nature. Possible Aramaic wordplay between בְּנַיָא (benayā 'sons') + אַבְנַיָא (abnayā 'stones') — John may have delivered this in Aramaic, preserved semantically in Greek. The theology (ethnic privilege does not guarantee covenant inclusion) anticipates Pauline arguments in Rom 4, Gal 3-4."
+    },
+    "MAT 4:1": {
+      "type": "background_allusion",
+      "sources": [
+        "DEU 8:2-3",
+        "EXO 34:28",
+        "1KG 19:8"
+      ],
       "greek_matches": "thematic",
-      "notes": "The disciples' 'Who is this?' invokes OT sea-subduing theophany: Ps 89:8-9 ('O LORD God of hosts, who is like you? You still the raging of the sea'); Ps 107:29 ('he stilled the storm to a whisper'); Job 38:8-11 (YHWH sets bounds to the sea). For first-century Jews, only YHWH commands the sea. Mark places this Christological question at the climax of ch.4 to force the same confession the centurion will voice at 15:39 ('Truly this was the Son of God'). THEME CLOSURE: ch.4 opens with 'Listen!' (v.3) and closes with 'the wind and sea OBEY' (ὑπακούει = 'hear-under') — creation hears what the disciples struggle to."
+      "notes": "Wilderness-testing typology: 40-days echoes Israel's 40-years (Deut 8:2-3), Moses's 40-days on Sinai (Exod 34:28), Elijah's 40-day journey to Horeb (1 Kgs 19:8). Jesus as new-Israel/new-Moses retracing the wilderness path to succeed where Israel failed."
     },
-    "MRK 6:23": {
-      "type": "allusion",
-      "source": "EST 5:3",
-      "greek_matches": "narrative-echo",
-      "notes": "Herod's 'up to half my kingdom' oath echoes Est 5:3, 5:6, 7:2 (Ahasuerus to Esther). Mark's ironic reversal: in Esther the formula saves Jewish lives; here it costs a prophet's. The escalation v.22 casual offer → v.23 sworn oath traps Herod in front of his court."
-    },
-    "MRK 6:34": {
-      "type": "allusion",
-      "source": "NUM 27:17",
-      "greek_matches": "LXX",
-      "notes": "Jesus's compassion at 'sheep without a shepherd' (ὡς πρόβατα μὴ ἔχοντα ποιμένα) tracks Num 27:17 LXX (ὡσεὶ πρόβατα οἷς οὐκ ἔστιν ποιμήν). Secondary allusions: 1 Kgs 22:17; Ezek 34:5; Zech 10:2. Num 27 is Joshua's commissioning as new-shepherd of Israel — Jesus as new-Joshua leading the wilderness-people-who-need-a-shepherd. σπλαγχνίζομαι (compassion) is Mark's signature verb for Jesus's shepherd-instinct. The chapter opened with rejection in his hometown; it ends with overflowing compassion for strangers."
-    },
-    "MRK 6:48": {
-      "type": "composite_allusion",
-      "sources": [
-        "JOB 9:8",
-        "EXO 33:22",
-        "1KI 19:11"
-      ],
-      "greek_matches": "LXX-theophanic",
-      "notes": "Walking-on-water + 'wished to pass them by' is layered OT theophany-language. (1) Job 9:8 LXX — only YHWH treads on the sea. (2) Exod 33:19, 22 — God 'passes by' Moses on the rock; Mark's παρελθεῖν echoes LXX παρελεύσομαι. (3) 1 Kgs 19:11 LXX — God 'passes by' (παρελεύσεται) Elijah at Horeb. Jesus's walking-on-water is a deliberate theophanic enactment: doing what YHWH does in OT theophanies, using OT theophany-vocabulary. The disciples nearly recognize the supernatural quality but misinterpret it as apparition (v.49). Fourth-watch timing (3-6 AM) after ~9 hours of rowing against the wind places the miracle at maximum exhaustion."
-    },
-    "MRK 6:50": {
-      "type": "composite_allusion",
-      "sources": [
-        "EXO 3:14",
-        "ISA 41:4"
-      ],
-      "greek_matches": "LXX-divine-self-identification",
-      "notes": "ἐγώ εἰμι: Mark's most theologically charged self-disclosure. Echoes Exod 3:14 LXX (God's name to Moses) and Isa 41:4 / 43:10 / 43:25 / 51:12 / 52:6 (YHWH's self-identification 'I am he' / 'I am'). Combined with v.48's theophanic 'pass by' and walking-on-water (Job 9:8), Mark constructs a sustained YHWH-self-revelation tableau. The disciples should hear: this is GOD revealing himself in the storm. Their non-recognition (v.52 hearts hardened) is the tragedy. CHRISTOLOGICAL CRUX: Mark 6:50 is load-bearing for the high Christology — Jesus does what only YHWH does, says what only YHWH says. Thai 'เราเอง' dual-functions as natural self-identifier AND emphatic 'I AM.'"
-    },
-    "MRK 6:52": {
-      "type": "echo",
-      "source": "EXO 7:3",
-      "greek_matches": "LXX-vocabulary",
-      "notes": "πωρόω/πώρωσις (heart-hardness) carries Exodus-vocabulary — originally Pharaoh-language (Exod 7:3; 8:15; 9:12). Mark applies it to the Twelve, their Pharaoh-level resistance to repeated revelation. Paul picks up the same word-family for unbelieving Israel (Rom 11:25). Mark's theological point: the gospel doesn't assume the disciples' unique virtue — they too need the hardening broken open by repeated revelation."
-    },
-    "MRK 7:6": {
+    "MAT 4:10": {
       "type": "citation",
-      "source": "ISA 29:13",
-      "greek_matches": "LXX",
-      "notes": "Jesus quotes Isa 29:13 LXX closely. The MT differs ('their fear of me is a commandment of men learned by rote'); the LXX phrasing 'in vain do they worship me, teaching as doctrines the commandments of men' is what Jesus' argument depends on. One of the clearer cases in Mark where the citation specifically tracks LXX rather than MT — confirms Mark's audience reads Greek scripture. Full citation runs vv.6b–7."
+      "source": "DEU 6:13",
+      "greek_matches": "LXX + Matthean addition",
+      "notes": "LXX: 'κύριον τὸν θεόν σου φοβηθήσῃ καὶ αὐτῷ λατρεύσεις.' Matthew/Jesus substitutes προσκυνήσεις (worship) for φοβηθήσῃ (fear) AND adds μόνῳ (only) — sharpening to first-commandment exclusivity. Luke 4:8 has identical form, suggesting pre-Matthean Jesus-tradition or common source. Jesus's three Deut citations (4:4=8:3, 4:7=6:16, 4:10=6:13) all from Moses's covenant-renewal at Moab — the central OT text for Israel's obedience."
     },
-    "MRK 7:7": {
+    "MAT 4:11": {
+      "type": "thematic_allusion",
+      "source": "1KG 19:5-8",
+      "greek_matches": "narrative-pattern",
+      "notes": "Elijah-in-wilderness angelic-provision typology: angel brings bread+water to sustain Elijah after 40-day fast at Horeb. Satan offered bread-by-self-power (4:3) and was refused; now angels bring the needed provision. Pattern: obedience-precedes-provision, not provision-by-presumption. Also echoes Mark 1:13 narrative-closure."
+    },
+    "MAT 4:12": {
+      "type": "narrative_transition",
+      "source": "ISA 9:1-2",
+      "greek_matches": "narrative-setup",
+      "notes": "Matthew's narrative preparation for the ISA 9:1-2 fulfillment citation at vv.15-16. Jesus's withdrawal to Galilee sets up the geographic-fulfillment. Parallel παραδίδωμι verb (John 'handed over') structurally links John's fate to Jesus's (same verb at Matt 26:15,21,etc.). No direct OT citation but thematic-typological setup."
+    },
+    "MAT 4:13": {
+      "type": "narrative_setup",
+      "source": "ISA 9:1",
+      "greek_matches": "geographic-preparation",
+      "notes": "Matthew's geographic relocation to Capernaum in Zebulun/Naphtali territory intentionally prepares the Isa 9:1 citation at v.15. The twin mentions of Zebulun + Naphtali (historically first territories to fall to Assyria, 2 Kgs 15:29) frame Jesus's arrival there as the light-in-darkness promise fulfillment. The move is narrated first, then prophetically interpreted."
+    },
+    "MAT 4:15": {
       "type": "citation",
-      "source": "ISA 29:13",
-      "greek_matches": "LXX",
-      "notes": "Continuation of Isa 29:13 LXX citation begun in v.6. Note: Mark's word order (διδασκαλίας ἐντάλματα ἀνθρώπων) differs slightly from standard LXX (ἐντάλματα ἀνθρώπων καὶ διδασκαλίας) — either a textual variant of LXX known to Mark or Mark's free citation. Theological force unchanged."
+      "source": "ISA 9:1",
+      "greek_matches": "LXX (rearranged)",
+      "notes": "Direct citation opening vv.15-16 Isaiah-block. Matthew's structure close to LXX but rearranged: LXX has 'region of Zebulun, land of Naphtali' in reversed order with different connectives. Context of Isa 8-9: Assyrian crisis of 734-732 BCE when Tiglath-Pileser III annexed Israel's northern territories (Zebulun, Naphtali) — first Israelite land to fall. Isaiah's light-in-darkness prophecy promises this darkest area will receive God's restoration first."
     },
-    "MRK 7:10": {
+    "MAT 4:16": {
+      "type": "citation",
+      "source": "ISA 9:2",
+      "greek_matches": "LXX",
+      "notes": "Completes vv.15-16 Isaiah-citation block. Isa 9:1 (English) = Isa 8:23 (Hebrew BHS) and Isa 9:2 (English) = Isa 9:1 (Hebrew BHS) — verse-numbering differs. Light-metaphor anticipates John 8:12 ('I am the light of the world') and John 1:4-5 ('light shines in darkness'). 'Shadow of death' parallels Ps 23:4 imagery. Matthew's use grounds Jesus's Galilean ministry in Messianic-restoration texts."
+    },
+    "MAT 4:17": {
+      "type": "background_allusion",
+      "sources": [
+        "DAN 2:44",
+        "DAN 7:14"
+      ],
+      "greek_matches": "thematic",
+      "notes": "Apocalyptic kingdom-imminence tradition: Dan 2:44 ('God of heaven will set up a kingdom which shall never be destroyed') + Dan 7:14 ('to him was given dominion and glory and kingdom'). Matthew's signature phrase 'kingdom of the heavens' (~32x) likely reflects Jewish-pious circumlocution for divine name via 'heavens' metonymy. MAT 3:2 (John's call) + MAT 4:17 (Jesus's call) form Matthean inclusio — Jesus takes up where John left off with the SAME exact call."
+    },
+    "MAT 4:19": {
+      "type": "thematic_allusion",
+      "sources": [
+        "JER 16:16",
+        "EZK 47:9-10"
+      ],
+      "greek_matches": "metaphor-appropriation",
+      "notes": "Fishers-of-men metaphor: Jer 16:16 has 'many fishermen' as image of negative-judgment (God sending fishers to catch Israel for exile). Ezek 47:9-10 features fishermen at eschatological-river. Matthew/Jesus re-appropriates the OT fisher-imagery POSITIVELY as kingdom-ingathering. Transformation of OT-judgment-motif into Gospel-salvation-motif."
+    },
+    "MAT 4:2": {
+      "type": "background_allusion",
+      "sources": [
+        "EXO 24:18",
+        "DEU 9:18",
+        "1KG 19:8"
+      ],
+      "greek_matches": "thematic",
+      "notes": "40-day-40-night number echo: Moses on Sinai (Exod 24:18 + Deut 9:18 second 40-day fast for Israel's golden-calf sin), Elijah's journey to Horeb (1 Kgs 19:8). Matthew uniquely restores 'forty nights' (Mark 1:13 omits) to match Mosaic formula. Signals Jesus as new-Moses in wilderness-fasting preparation."
+    },
+    "MAT 4:23": {
+      "type": "background_allusion",
+      "source": "ISA 35:5-6",
+      "greek_matches": "thematic",
+      "notes": "Eschatological-healing as kingdom-signal: Isa 35:5-6 (blind-see, deaf-hear, lame-leap, mute-sing) is the paradigmatic OT text for Messianic age's healing-signs. Matthew's healing-summary at 4:23 implicitly invokes this Isaianic-promise. Jesus later explicitly cites it when answering John's disciples (Matt 11:4-5). Healing as kingdom-sign = Isaianic fulfillment."
+    },
+    "MAT 4:3": {
+      "type": "background_allusion",
+      "sources": [
+        "EXO 16",
+        "NUM 11"
+      ],
+      "greek_matches": "thematic",
+      "notes": "Wilderness-manna testing typology: Israel demanded bread on their own terms (Exod 16, Num 11). Satan tempts Jesus to take the same shortcut — use divine power to satisfy physical appetite on demand. Jesus refuses, setting up the Deut 8:3 citation at v.4."
+    },
+    "MAT 4:4": {
+      "type": "citation",
+      "source": "DEU 8:3",
+      "greek_matches": "LXX",
+      "notes": "Near-verbatim LXX quotation ('παντὶ ῥήματι ἐκπορευομένῳ διὰ στόματος θεοῦ'). MT has parallel sense but different vocabulary ('everything that proceeds out of the mouth of the LORD'). Context: Moses reminds Israel that God led them through 40 years of wilderness-hunger to teach dependence on God's word, not on bread. Jesus places himself in Israel's position but succeeds where Israel failed."
+    },
+    "MAT 4:6": {
+      "type": "citation",
+      "source": "PSA 91:11-12",
+      "greek_matches": "LXX (partial)",
+      "notes": "Satan's selective quotation: Ps 91:11a + 12 but OMITS 'ἐν πάσαις ταῖς ὁδοῖς σου' ('in all your ways') from v.11b. This ellipsis turns a covenant-conditional promise (protection while walking in God's ways) into an unconditional invitation to test God. Patristic and Reformation commentary: 'The devil knows Scripture but mangles it.'"
+    },
+    "MAT 4:7": {
+      "type": "citation",
+      "source": "DEU 6:16",
+      "greek_matches": "LXX",
+      "notes": "Verbatim LXX quotation ('Οὐκ ἐκπειράσεις κύριον τὸν θεόν σου'). Context: 'Do not test the LORD your God as you tested him at Massah' — referring to Exod 17:1-7 where Israel demanded water. Jesus turns Satan's invitation inside-out: jumping-to-be-rescued would itself be Massah-testing. Scripture-against-Scripture hermeneutic against Satan's Ps 91 misuse."
+    },
+    "MAT 4:8": {
+      "type": "background_allusion",
+      "source": "DEU 34:1-4",
+      "greek_matches": "thematic",
+      "notes": "Moses on Mount Nebo inversion: God showed Moses the Promised Land from Nebo's summit as covenantal-inheritance. Satan inverts the scene — worldly kingdoms (not God's inheritance), devil as grantor (not God). Geographical impossibility of seeing 'all kingdoms' from physical peak signals visionary/apocalyptic-transport (cf. 4 Ezra, 2 Baruch mountain-vision motifs)."
+    },
+    "MAT 4:9": {
+      "type": "background_allusion",
+      "sources": [
+        "EXO 20:3",
+        "DEU 5:7"
+      ],
+      "greek_matches": "thematic",
+      "notes": "First-commandment violation frame: Satan's demand 'fall down and worship me' directly targets 'You shall have no other gods before me' (Decalogue first commandment, Exod 20:3 / Deut 5:7). Jesus's v.10 response (Deut 6:13) cites the Deuteronomic expansion of this commandment."
+    },
+    "MAT 5:1": {
+      "type": "background_allusion",
+      "sources": [
+        "EXO 19:3",
+        "EXO 24:12"
+      ],
+      "greek_matches": "thematic",
+      "notes": "Jesus ascends 'the mountain' to deliver new-covenant teaching — Matthew positions him as new-Moses giving Torah-of-the-kingdom. Mountain-ascent-to-teach echoes Moses at Sinai (Exod 19:3 καὶ Μωυσῆς ἀνέβη εἰς τὸ ὄρος τοῦ θεοῦ; Exod 24:12 ἀνάβηθι πρός με εἰς τὸ ὄρος). Matthean structural framing — Matthew will pair this Sermon-on-Mountain with the Olivet Discourse (ch.24-25) and Great Commission from a mountain (28:16)."
+    },
+    "MAT 5:12": {
+      "type": "background_allusion",
+      "sources": [
+        "2CH 36:16",
+        "NEH 9:26",
+        "JER 2:30"
+      ],
+      "greek_matches": "thematic",
+      "notes": "Prophets-persecuted historical-pattern: 2 Chr 36:16 'mocking the messengers of God'; Neh 9:26 'killed your prophets who had warned them'; Jer 2:30 'your own sword has devoured your prophets'. Matthew develops this Matthean-through-line heavily at 23:29-37 (woes against persecutors-of-prophets). Sufferings of disciples = continuation of prophetic vocation."
+    },
+    "MAT 5:16": {
+      "type": "background_allusion",
+      "sources": [
+        "ISA 60:1-3",
+        "ISA 49:6"
+      ],
+      "greek_matches": "LXX thematic",
+      "notes": "Isa 60:1-3 LXX nations-coming-to-Zion's-light-to-glorify-God pattern; Isa 49:6 Servant-as-φῶς ἐθνῶν (light-of-nations). Matthew applies Isaianic-light-theology both to Jesus (Matt 4:15-16 citing Isa 9:1-2) and here derivatively to disciples. Good-works-leading-to-glorify-God = missional-theology grounded in Servant-songs tradition."
+    },
+    "MAT 5:18": {
+      "type": "thematic_allusion",
+      "sources": [
+        "ISA 40:8",
+        "PSA 119:89"
+      ],
+      "greek_matches": "thematic",
+      "notes": "Permanence-of-God's-word tradition: Isa 40:8 LXX 'τὸ δὲ ῥῆμα τοῦ θεοῦ ἡμῶν μένει εἰς τὸν αἰῶνα' (word-of-our-God-stands-forever). Ps 119:89 LXX 'εἰς τὸν αἰῶνα κύριε ὁ λόγος σου διαμένει' (forever-Lord-your-word-remains). Matthew extends Torah-permanence until-all-fulfilled. Cosmic heaven-and-earth-will-pass frame also echoes Mark 13:31 where the same passes-away-but-word-remains contrast applies."
+    },
+    "MAT 5:21": {
       "type": "composite_citation",
       "sources": [
-        "EXO 20:12",
-        "DEU 5:16",
-        "EXO 21:17",
-        "LEV 20:9"
+        "EXO 20:13",
+        "GEN 9:6",
+        "LEV 24:17",
+        "NUM 35:30-31"
       ],
-      "greek_matches": "LXX",
-      "notes": "Two OT citations paired: (1) the 5th commandment to honor parents (Exod 20:12 / Deut 5:16); (2) the death penalty for parental cursing (Exod 21:17 / Lev 20:9). Both quotations align with LXX. Jesus pairs them deliberately to show that the Mosaic obligation toward parents is non-negotiable — a positive command and a negative sanction together establishing unchallengeable weight. The Corban-loophole in vv.11–12 violates BOTH the command and undermines the sanction."
+      "greek_matches": "LXX verbatim (Decalogue) + composite_summary (judicial consequences)",
+      "notes": "DIRECT citation of Exod 20:13 LXX 'οὐ φονεύσεις' (Sixth Commandment) = Deut 5:17 LXX (identical). Matthew's Jesus uses this as starting point for the first antithesis, revealing the inner intent (not-murder-only-externally but not-angry-internally). Torah-base preserved, interpretation extended.  ||  Summary-citation of Torah judicial-consequences for murder: Gen 9:6 'whoever sheds human blood, by humans shall their blood be shed'; Lev 24:17 'whoever takes a human life shall be put to death'; Num 35:30-31 witness-evidence + no-ransom for murderer. Matthew's 'whoever murders will be subject to judgment' summarizes this corpus without single-verse-anchor."
     },
-    "MRK 7:32": {
-      "type": "allusion",
-      "source": "ISA 35:6",
-      "greek_matches": "LXX",
-      "notes": "The rare word μογιλάλος ('hardly able to speak') used to describe the brought-to-Jesus man echoes LXX Isa 35:6 directly: 'τρανὴ ἔσται γλῶσσα μογιλάλων' ('the tongue of the dumb shall sing for joy'). Combined with κωφός (deaf, Isa 35:5 LXX 'the ears of the deaf'), Mark deliberately marks this healing as fulfillment of Isa 35's Messianic-restoration promises. μογιλάλος is rare in all of Greek literature — Mark's choice is not casual. Sets up v.37."
-    },
-    "MRK 7:35": {
-      "type": "allusion",
-      "source": "ISA 35:5",
-      "greek_matches": "LXX",
-      "notes": "Isa 35:5-6 Messianic-age healing-promise: 'the eyes of the blind shall be opened, and the ears of the deaf shall be unstopped... the tongue of the dumb (μογιλάλων) shall sing for joy.' Mark's vocabulary tracks Isaiah's promised restoration precisely (μογιλάλος is a LXX hapax shared with Isa 35:6). The instantaneous reversal — ears opened, tongue loosed, plain speech — enacts the Messianic age. Double passive (ἠνοίγησαν, ἐλύθη) is divine-passive: agency is Jesus's-command-as-God's-power."
-    },
-    "MRK 7:37": {
-      "type": "double_allusion",
+    "MAT 5:23": {
+      "type": "thematic_allusion",
       "sources": [
-        "GEN 1:31",
-        "ISA 35:5-6"
+        "HOS 6:6",
+        "1SA 15:22"
       ],
-      "greek_matches": "LXX",
-      "notes": "Crowd's confession 'πάντα καλῶς πεποίηκεν' (he has done all things well) echoes Gen 1:31 LXX 'εἶδεν ὁ θεὸς τὰ πάντα ὅσα ἐποίησεν, καὶ ἰδοὺ καλὰ λίαν' — attributing creational-good language to Jesus' deeds. The specifics 'makes the deaf hear and the mute speak' echo Isa 35:5–6 LXX Messianic-restoration signs (ἀκούσονται κωφοί, γλῶσσα μογιλάλων / ἀλάλων). Together: Mark frames Jesus' Gentile-territory ministry as both new-creational (Gen 1) and Messianic-restorative (Isa 35). The Gentile crowd is unwittingly orthodox — confessing what the religious establishment of vv.1–13 refused to see."
+      "greek_matches": "thematic",
+      "notes": "Mercy-over-sacrifice tradition: Hos 6:6 LXX 'ἔλεος θέλω καὶ οὐ θυσίαν' (Matthew cites this directly at 9:13 and 12:7); 1 Sam 15:22 'to obey is better than sacrifice'; Ps 51:16-17; Isa 1:11-17. Rabbinic tradition (Mishnah Yoma 8:9) preserves same priority: reconciliation-with-neighbor must precede temple-sacrifice."
     },
-    "MRK 8:18": {
-      "type": "allusion",
+    "MAT 5:27": {
+      "type": "citation",
+      "source": "EXO 20:14",
+      "greek_matches": "LXX verbatim",
+      "notes": "DIRECT citation of Exod 20:14 LXX 'οὐ μοιχεύσεις' (Seventh Commandment) = Deut 5:18 LXX (identical). Second antithesis — Jesus moves from external-act (adultery-committed) to internal-disposition (lust-in-heart). The Commandment-7 + Commandment-10 (covet-neighbor's-wife Exod 20:17) are interpretively-linked via shared ἐπιθυμέω-vocabulary."
+    },
+    "MAT 5:3": {
+      "type": "thematic_allusion",
       "sources": [
-        "JER 5:21",
-        "EZK 12:2"
+        "ISA 61:1",
+        "PSA 34:18"
       ],
-      "greek_matches": "LXX-influenced echo",
-      "notes": "Echo of Jer 5:21 LXX (ὀφθαλμοὶ αὐτοῖς καὶ οὐ βλέπουσιν, ὦτα αὐτοῖς καὶ οὐκ ἀκούουσιν) and Ezek 12:2 LXX (similar phrasing). Both prophetic indictments of apostate Israel; Mark reapplies them to the Twelve. Also resonates with Isa 6:9–10 (already cited at Mark 4:12). The intertextual jolt is theologically devastating: the disciples function as Jesus' 'outsiders.' Inner-quotes used in Thai output to mark the OT echo."
+      "greek_matches": "LXX thematic",
+      "notes": "Isa 61:1 LXX εὐαγγελίσασθαι πτωχοῖς — Messianic-mission gospel-to-poor which Jesus programmatically claims at Luke 4:18-19. Matthew 5:3 πτωχοὶ τῷ πνεύματι refines 'poor' to inner-dependence. Also Psa 34:18 LXX ἐγγὺς κύριος τοῖς συντετριμμένοις τὴν καρδίαν (Lord-near-the-contrite-heart). First Beatitude frames whole Sermon through Isaianic-servant-anointing theme."
     },
-    "MRK 8:31": {
-      "type": "allusion",
+    "MAT 5:31": {
+      "type": "composite_summary",
       "sources": [
-        "HOS 6:2"
+        "DEU 24:1-4"
       ],
-      "greek_matches": "LXX-paraphrase",
-      "notes": "μετὰ τρεῖς ἡμέρας ἀναστῆναι ('after three days rise') possible echo of Hos 6:2 LXX μετὰ δύο ἡμέρας ... ἐν τῇ ἡμέρᾳ τῇ τρίτῃ ἀναστησόμεθα ('after two days...on the third day we shall rise'). Mark's 'after three days' is the harder reading; Matt/Luke harmonize to 'on the third day' (more directly matching Hos 6:2's day-three). ἀποδοκιμασθῆναι in same verse echoes Ps 118:22 LXX (cited later at Mark 12:10)."
+      "greek_matches": "summary",
+      "notes": "Summary-citation of Deut 24:1-4 LXX — the divorce-certificate provision. Matthew's 'Whoever divorces his wife, let him give her a certificate of divorce' paraphrases rather than quotes-verbatim. OT-function: protect divorced-wife by formalizing her marriageable-again status. Jesus acknowledges the provision but tightens to exception-only (cf. Matt 19:7-9 explicit discussion of why-Moses-permitted-divorce = hardness-of-hearts)."
     },
-    "MRK 8:37": {
-      "type": "allusion",
+    "MAT 5:33": {
+      "type": "composite_summary",
       "sources": [
-        "PSA 49:7-8"
+        "LEV 19:12",
+        "NUM 30:2",
+        "DEU 23:21-23"
       ],
-      "greek_matches": "wisdom-paraphrase",
-      "notes": "Echo of Ps 49:7–8 (LXX 48:8–9): 'no man can ransom his brother, or give to God a price for his life ... for the ransom of their soul is costly.' Wisdom-tradition allusion shaping Jesus' rhetorical impossibility. Not direct citation."
+      "greek_matches": "composite-summary",
+      "notes": "Summary-citation of Torah oath-integrity corpus: Lev 19:12 LXX 'καὶ οὐκ ὀμεῖσθε τῷ ὀνόματί μου ἐπ' ἀδίκῳ' (don't swear-by-my-name-falsely); Num 30:2 LXX 'when a man vows a vow to the Lord... he shall not break his word'; Deut 23:21-23 LXX 'when you vow, do not delay to fulfill it.' Matthew's abbreviated form covers both false-swearing and oath-non-fulfillment."
     },
-    "MRK 8:38": {
+    "MAT 5:34": {
       "type": "allusion",
       "sources": [
-        "DAN 7:13-14",
-        "ZEC 14:5"
+        "ISA 66:1"
       ],
-      "greek_matches": "composite",
-      "notes": "Son-of-Man-coming-in-glory-with-holy-ones combines Dan 7:13–14 LXX (eschatological Son of Man receiving dominion) with Zech 14:5 LXX (YHWH 'comes with all the holy ones'). The 'holy ones' tradition shifts from heavenly-host (Zech) to angels (Mark) — both Jewish-apocalyptic categories blending. First explicit 'Father' (πατήρ) reference Jesus makes of himself in Mark — opens the Son-Father christological depth that unfolds in Mark 9 (Transfiguration) and 14:36 (Gethsemane Abba)."
+      "greek_matches": "LXX verbatim-phrase",
+      "notes": "Isa 66:1 LXX 'ὁ οὐρανός μοι θρόνος ἡ δὲ γῆ ὑποπόδιον τῶν ποδῶν μου' (heaven-my-throne earth-my-footstool). Matthew distributes across vv.34 (heaven=throne) + v.35 (earth=footstool). Acts 7:49 quotes same Isa 66:1 in Stephen's speech. Jesus's argument: any sworn-by entity ultimately is God-owned, so oath-casuistry that distinguishes 'by-heaven' (not-binding) from 'by-God' (binding) fails."
     },
-    "MRK 9:2": {
-      "type": "allusion",
-      "source": "EXO 24:16",
-      "greek_matches": "LXX-narrative",
-      "notes": "Six-day delay echoes Exod 24:15-16 (Moses on Sinai: six days of waiting, then YHWH's voice on the seventh). Jesus takes the inner-three — Peter, James, John — the same three who will sleep in Gethsemane (14:33). The Transfiguration narratively confirms 8:38 ('the Son of Man will come in the glory of his Father'): here that glory is momentarily unveiled. The Moses-typology runs throughout (mountain, cloud, voice, glory)."
-    },
-    "MRK 9:3": {
-      "type": "allusion",
-      "source": "DAN 7:9",
-      "greek_matches": "LXX-apocalyptic",
-      "notes": "Two hapax in a single verse (στίλβω 'shine-radiantly', γναφεύς 'launderer') render the heavenly-whiteness superlatively. Parallels: Dan 7:9 LXX (Ancient of Days: τὸ ἔνδυμα αὐτοῦ ὡσεὶ χιὼν λευκόν 'his clothing white as snow') and Dan 10:6 (man-clothed-in-linen with body στίλβοντος as beryl). Mark's diction evokes apocalyptic theophany — Jesus visually identified with the Dan 7 divine-figure."
-    },
-    "MRK 9:7": {
+    "MAT 5:35": {
       "type": "composite_citation",
       "sources": [
-        "DEU 18:15",
-        "PSA 2:7",
-        "ISA 42:1"
+        "ISA 66:1",
+        "PSA 48:2"
       ],
-      "greek_matches": "LXX-composite",
-      "notes": "The divine voice combines: Deut 18:15 LXX (αὐτοῦ ἀκούσεσθε 'you shall listen to him' — the prophet-like-Moses); Ps 2:7 (Davidic-royal 'you are my son'); Isa 42:1 (servant-beloved ὁ ἐκλεκτός μου). Command 'hear him' (ἀκούετε αὐτοῦ) is the transfiguration climax: Jesus supersedes Law-and-Prophets (embodied by Moses and Elijah present) as THE one to be heard. The cloud (Shekhinah) evokes Exod 24 + Exod 40:34 + Num 7:89 theophany-sequence. Not 'one of three' (as Peter proposed in v.5) but the unique Son."
+      "greek_matches": "LXX",
+      "notes": "Isa 66:1 LXX (earth-footstool continues from v.34) + Ps 48:2 LXX (3:3 in LXX-numbering) 'ἡ πόλις τοῦ βασιλέως τοῦ μεγάλου' (city-of-the-great-king). Psalm 48 is a Zion-song celebrating Jerusalem as God's dwelling. Matthew's Jesus: every sworn-by entity (heaven/earth/Jerusalem/one's-own-head v.36) is ultimately God-connected, rendering oath-distinctions meaningless."
     },
-    "MRK 9:11": {
-      "type": "allusion",
-      "source": "MAL 4:5",
+    "MAT 5:38": {
+      "type": "composite_citation",
+      "sources": [
+        "EXO 21:24",
+        "LEV 24:20",
+        "DEU 19:21"
+      ],
+      "greek_matches": "LXX near-verbatim",
+      "notes": "DIRECT composite citation of lex talionis from three Torah-codes: Exod 21:24 LXX (Covenant Code), Lev 24:20 LXX (Holiness Code), Deut 19:21 LXX (Deuteronomic Code). Ancient Near Eastern parallel Code of Hammurabi §§196-201. OT function: judicial-proportionality limiting revenge (not permitting personal-vengeance). Jesus addresses the popular misreading that made it a revenge-license."
+    },
+    "MAT 5:39": {
+      "type": "background_allusion",
+      "sources": [
+        "PRO 20:22",
+        "LAM 3:30"
+      ],
       "greek_matches": "thematic",
-      "notes": "Disciples' question invokes the scribal doctrine derived from Mal 4:5-6 (Mal 3:23-24 Heb.): Elijah must come before the Messiah. Having just seen Elijah on the mountain (v.4), they ask whether the prophecy is fulfilled in what they just witnessed, or whether there is a future-Elijah. Jesus's reply (vv.12-13) identifies John the Baptist as the fulfillment (cf. Mark 1:6 — John's dress explicitly echoes Elijah's 2 Kgs 1:8 LXX)."
+      "notes": "OT non-retaliation wisdom-partial-precedent: Prov 20:22 LXX 'do not say, I will repay the evil'; Lam 3:30 LXX 'he should give his cheek to the one who strikes him, he should be filled with reproach.' Jesus radicalizes: turn-the-other-cheek = active-engagement, not mere-passivity. Romans 12:17-21 develops same non-retaliation ethic. 1 Pet 2:23 models on Christ's passion-non-retaliation."
     },
-    "MRK 9:12": {
+    "MAT 5:4": {
+      "type": "allusion",
+      "sources": [
+        "ISA 61:1-3"
+      ],
+      "greek_matches": "LXX verbatim-lexeme",
+      "notes": "Isa 61:1-3 LXX is Matthew's Beatitudes-blueprint: παρακαλέσαι πάντας τοὺς πενθοῦντας (to comfort all who mourn) — exact-lexeme-match (πενθέω + παρακαλέω). Isa 61 is the Messianic-program Jesus programmatically claims (Luke 4:18). Second Beatitude explicitly activates the anointed-comforter frame."
+    },
+    "MAT 5:42": {
+      "type": "thematic_allusion",
+      "sources": [
+        "DEU 15:7-11",
+        "PSA 37:26"
+      ],
+      "greek_matches": "thematic",
+      "notes": "Torah-generous-lending tradition: Deut 15:7-11 LXX 'do not harden your heart... open your hand freely to your poor brother'; Ps 37:26 LXX 'all day long shows mercy and lends.' Jewish wisdom-tradition Sir 29:1-2 reinforces. Jesus's teaching continues and intensifies the generous-disposition ethic."
+    },
+    "MAT 5:43": {
+      "type": "citation_plus_anti_tradition",
+      "sources": [
+        "LEV 19:18",
+        "DEU 7:2",
+        "DEU 23:3-6",
+        "PSA 139:21-22"
+      ],
+      "greek_matches": "LXX partial (love-neighbor) + not-OT (hate-enemy popular extrapolation)",
+      "notes": "DIRECT citation of Lev 19:18 LXX 'ἀγαπήσεις τὸν πλησίον σου ὡς σεαυτόν' — Matthew truncates (drops 'as yourself'). Lev 19:18 is the key OT love-command, cited by Jesus multiple times as second-greatest-commandment (Matt 22:39). Matthew 5:43 uses the truncated form because v.43b's 'hate your enemy' is not quoting OT but popular-extrapolation that Jesus will challenge.  ||  'Hate your enemy' is NOT in the OT as a commandment. It may draw on passages like Deut 7:2 (don't make covenants with Canaanites), Deut 23:3-6 (exclude Moabites/Ammonites), or Ps 139:21-22 (I hate those who hate you). Qumran Community Rule 1QS 1:9-11 explicitly teaches love-sons-of-light, hate-sons-of-darkness. Jesus challenges this sectarian/extrapolated interpretation as going-beyond-Torah-intent. The antithesis here is NOT Jesus-vs-Torah but Jesus-vs-interpretive-tradition."
+    },
+    "MAT 5:44": {
+      "type": "thematic_allusion",
+      "sources": [
+        "PRO 25:21-22",
+        "LAM 3:30"
+      ],
+      "greek_matches": "partial-precedent",
+      "notes": "Prov 25:21-22 LXX 'if your enemy is hungry, feed him' = partial OT-precedent for enemy-kindness (paraphrased at Rom 12:20). Lam 3:30 turn-cheek + Prov 25 feed-enemy together form OT thematic-partial-precedent. But Jesus's 'love your enemies' is categorically-more-radical — no explicit OT commandment to LOVE enemies (only 'help' them in specific limited-instances). Matthean radicalization beyond OT."
+    },
+    "MAT 5:45": {
+      "type": "thematic_allusion",
+      "sources": [
+        "JOB 25:3",
+        "PSA 145:9",
+        "ECC 9:2"
+      ],
+      "greek_matches": "thematic",
+      "notes": "Common-grace-tradition: Job 25:3 'can his armies be numbered? Upon whom does his light not rise?' — universal divine-light. Ps 145:9 LXX 'χρηστὸς κύριος τοῖς σύμπασιν' (Lord-good-to-all); 'his mercies are over all his works.' Eccl 9:2 'same event happens to all — to righteous and wicked.' Jewish wisdom-tradition: God's-universal-provision grounds human-universal-love. Greco-Roman philosophical parallel Seneca De Beneficiis 4.26."
+    },
+    "MAT 5:48": {
+      "type": "thematic_allusion",
+      "sources": [
+        "LEV 19:2",
+        "DEU 18:13"
+      ],
+      "greek_matches": "LXX",
+      "notes": "Imitation-of-God ethics: Lev 19:2 LXX 'ἅγιοι ἔσεσθε ὅτι ἅγιος ἐγὼ κύριος ὁ θεὸς ὑμῶν' (be holy for I-Lord-your-God am holy); Deut 18:13 LXX 'τέλειος ἔσῃ ἐναντίον κυρίου τοῦ θεοῦ σου' (be-τέλειος before Lord-your-God). Matthew echoes the Deut-18:13 future-indicative-imperative + τέλειος-language. Lev 19 is the Holiness Code whose love-neighbor-as-self command Jesus has been applying throughout. Luke 6:36 parallel renders 'merciful' (οἰκτίρμων) making explicit the mercy-dimension of perfection-as-love-completeness."
+    },
+    "MAT 5:5": {
+      "type": "citation",
+      "source": "PSA 37:11",
+      "greek_matches": "LXX verbatim",
+      "notes": "Near-verbatim Ps 37:11 LXX 'οἱ δὲ πραεῖς κληρονομήσουσιν γῆν' — Matthew preserves exactly, adding articular τὴν. Ps 37 is a wisdom-psalm on patient-waiting vs wicked-flourishing: 'fret not... the meek will inherit the land... evildoers shall be cut off.' Jesus transfers Israelite-land-promise to eschatological-renewed-earth inheritance (cf. Rom 4:13 Abraham heir of kosmos)."
+    },
+    "MAT 5:6": {
+      "type": "background_allusion",
+      "sources": [
+        "ISA 55:1-2",
+        "PSA 107:9"
+      ],
+      "greek_matches": "LXX thematic",
+      "notes": "Isa 55:1-2 LXX 'come to the waters' invitation + Ps 107:9 LXX 'the hungry soul he filled with good' (ψυχὴν πεινῶσαν ἐνέπλησεν ἀγαθῶν) supply the hunger-thirst-satisfied imagery. Matthew adds 'for righteousness' sharpening Isaianic-banquet-invitation to covenantal-faithfulness-desire. Fourth Beatitude middle of 8-Beatitude block."
+    },
+    "MAT 5:8": {
+      "type": "allusion",
+      "sources": [
+        "PSA 24:3-4"
+      ],
+      "greek_matches": "LXX verbatim-structure",
+      "notes": "Ps 24:3-4 LXX 'τίς ἀναβήσεται εἰς τὸ ὄρος τοῦ κυρίου... ἀθῷος χερσὶν καὶ καθαρὸς τῇ καρδίᾳ' (who ascends the mountain of the Lord... clean-hands-and-pure-heart). Matthew echoes καθαρὸς τῇ καρδίᾳ exactly. Temple-ascent liturgical context reapplied: the pure-hearted see God (beatific-vision promise). Also Job 19:26-27; 1 John 3:2; Rev 22:4 for eschatological vision-of-God."
+    },
+    "MAT 6:10": {
+      "type": "background_allusion",
+      "sources": [
+        "PSA 103:20-21",
+        "1CH 29:11-12"
+      ],
+      "greek_matches": "LXX thematic",
+      "notes": "Ps 103:20-21 LXX angels doing God's will perfectly — heavenly-pattern of will-done. 1 Chr 29:11-12 LXX 'yours LORD the kingdom' — source of the Byzantine-doxology-addition at Matt 6:13."
+    },
+    "MAT 6:11": {
+      "type": "background_allusion",
+      "sources": [
+        "EXO 16:4",
+        "PRO 30:8"
+      ],
+      "greek_matches": "LXX thematic",
+      "notes": "Exod 16:4 LXX wilderness-manna 'daily-to-daily' provision pattern. Prov 30:8 LXX ta deonta kai ta autarke — Agur's prayer for enough-food-not-too-much-not-too-little. epiousios may echo Prov 30:8 thematic-spirit if not lexical."
+    },
+    "MAT 6:12": {
+      "type": "thematic_allusion",
+      "sources": [
+        "PSA 32:1-5",
+        "LEV 19:18"
+      ],
+      "greek_matches": "LXX thematic",
+      "notes": "Ps 32:1-5 LXX 'blessed are those whose iniquities are forgiven; divine-forgiveness-as-blessedness. Lev 19:18 LXX love-neighbor as foundation of forgiving-neighbor. Matthew's financial-metaphor 'debts' uniquely captures Aramaic hoba = both-debt-and-sin (not Luke's hamartias)."
+    },
+    "MAT 6:13": {
       "type": "composite_allusion",
       "sources": [
-        "ISA 53:3",
-        "PSA 22:6"
+        "DEU 6:16",
+        "DEU 13:3",
+        "1CH 29:11-13"
+      ],
+      "greek_matches": "LXX thematic",
+      "notes": "Deut 6:16 LXX 'don't test LORD your God' (Matt 4:7 already cited). Deut 13:3 'LORD your God is testing you to know your heart.' Byzantine-doxology addition draws on 1 Chr 29:11-13 LXX — Davidic doxology. Bracketed doxology preserved for liturgical-tradition continuity."
+    },
+    "MAT 6:14": {
+      "type": "thematic_allusion",
+      "sources": [
+        "LEV 19:18",
+        "PSA 103:10-12"
+      ],
+      "greek_matches": "LXX thematic",
+      "notes": "Lev 19:18 LXX love-neighbor as foundation of bilateral-forgiveness-ethic. Ps 103:10-12 LXX 'he has not dealt with us according to our iniquities' + 'as east is from west he has removed our transgressions' — divine-mercy pattern disciples imitate horizontally."
+    },
+    "MAT 6:15": {
+      "type": "thematic_allusion",
+      "sources": [
+        "PRO 21:13"
+      ],
+      "greek_matches": "LXX thematic",
+      "notes": "Prov 21:13 LXX 'one who refuses to hear the poor will not be heard when he cries.' Retributive-reciprocity structure parallels Matt 6:15 refusal-to-forgive-invites-non-forgiveness."
+    },
+    "MAT 6:16": {
+      "type": "background_allusion",
+      "sources": [
+        "ISA 58:3-5",
+        "JOL 2:12-13"
+      ],
+      "greek_matches": "LXX thematic",
+      "notes": "Isa 58:3-5 critiques superficial-fasting: 'Why have we fasted and you have not seen?...you fast only to quarrel.' Joel 2:12-13 'rend your hearts not your garments' — inner-over-outer. Jesus's critique aligns with prophetic-tradition."
+    },
+    "MAT 6:19": {
+      "type": "thematic_allusion",
+      "sources": [
+        "PRO 23:4-5"
+      ],
+      "greek_matches": "LXX thematic",
+      "notes": "Prov 23:4-5 LXX 'don't exhaust yourself becoming rich... [wealth] will fly away like an eagle.' Wealth-flies-away wisdom-theme directly supporting Matthew's moth-rust-thief imagery of earthly-treasure-transience."
+    },
+    "MAT 6:20": {
+      "type": "thematic_allusion",
+      "sources": [
+        "PSA 119:111",
+        "PRO 15:16"
+      ],
+      "greek_matches": "LXX thematic",
+      "notes": "Ps 119:111 LXX 'I have inherited your testimonies forever' — eternal-inheritance theme. Prov 15:16 LXX 'better a little with fear of LORD than great treasure with trouble' — quality-over-quantity wisdom grounding 'heavenly treasure' superiority."
+    },
+    "MAT 6:21": {
+      "type": "thematic_allusion",
+      "sources": [
+        "PRO 4:23"
+      ],
+      "greek_matches": "LXX thematic",
+      "notes": "Prov 4:23 LXX 'with all diligence guard your heart, for from it come the outflowings of life' — heart-as-life-center wisdom-principle. Matthew's 'where treasure is, heart will be' is inverted-mirror: treasure-direction shows heart-orientation."
+    },
+    "MAT 6:22": {
+      "type": "allusion",
+      "sources": [
+        "PRO 20:27"
+      ],
+      "greek_matches": "LXX thematic",
+      "notes": "Prov 20:27 LXX 'light of the LORD is human breath/spirit' — inner-faculty as light. MT 'lamp of YHWH the breath of man' closer to Matthean lychnos imagery. Wisdom-tradition of inner-light-faculty."
+    },
+    "MAT 6:23": {
+      "type": "thematic_allusion",
+      "sources": [
+        "DEU 15:9",
+        "PRO 28:22"
+      ],
+      "greek_matches": "LXX thematic",
+      "notes": "Deut 15:9 LXX warns against 'your eye being evil-hostile toward the poor brother in sabbatical-year debt-release.' Evil-eye Hebraism for stingy-selfish. Prov 28:22 LXX 'the stingy-evil-eyed man hastens to be rich.' Context favors stinginess-reading of poneros ophthalmos."
+    },
+    "MAT 6:24": {
+      "type": "thematic_allusion",
+      "sources": [
+        "JOS 24:14-15",
+        "DEU 6:5"
+      ],
+      "greek_matches": "LXX thematic",
+      "notes": "Josh 24:14-15 LXX 'choose this day whom you will serve' — covenantal-choice. Deut 6:5 LXX Shema 'love LORD your God with all your heart' — undivided-heart-love. Matthew's two-masters saying applies covenant-exclusivity to money-as-alternative-god."
+    },
+    "MAT 6:25": {
+      "type": "thematic_allusion",
+      "sources": [
+        "PSA 55:22"
+      ],
+      "greek_matches": "LXX thematic",
+      "notes": "Ps 55:22 LXX 'cast upon the LORD your anxiety' — merimna shared-lexeme with Matt 6:25-34 merimnao verb-family. 1 Pet 5:7 directly quotes this Psalm; Matt 6:25 shares theological-thread of anxiety-cast-upon-providential-God."
+    },
+    "MAT 6:26": {
+      "type": "allusion",
+      "sources": [
+        "PSA 147:9",
+        "JOB 38:41"
+      ],
+      "greek_matches": "LXX thematic",
+      "notes": "Ps 147:9 LXX 'gives to the cattle their food and to the young ravens that call upon him.' Job 38:41 'who provides for the raven its prey when its young cry to God?' Luke 12:24 makes the raven-link explicit; Matthew generalizes to 'birds of heaven' but same OT-thematic-substrate."
+    },
+    "MAT 6:28": {
+      "type": "background_allusion",
+      "sources": [
+        "ISA 40:6-8"
+      ],
+      "greek_matches": "LXX thematic",
+      "notes": "Isa 40:6-8 LXX 'all flesh is grass, all human glory like flower of grass; grass withers, flower falls.' Matthew inverts Isaianic lament-of-human-transience into providence-argument: if God clothes transient-flowers, he will certainly clothe you."
+    },
+    "MAT 6:29": {
+      "type": "background_allusion",
+      "sources": [
+        "1KG 10:4-7",
+        "2CH 9:3-6"
+      ],
+      "greek_matches": "LXX thematic",
+      "notes": "1 Kgs 10:4-7 LXX + 2 Chr 9:3-6 LXX: Queen of Sheba's visit to Solomon, overwhelmed by his royal-splendor. Solomon as paradigm of maximum human-royal-magnificence — even Solomon's peak-glory cannot match natural-beauty of field-flowers."
+    },
+    "MAT 6:30": {
+      "type": "background_allusion",
+      "sources": [
+        "ISA 40:6-8",
+        "PSA 90:5-6"
+      ],
+      "greek_matches": "LXX thematic",
+      "notes": "Continuation of Isa 40:6-8 thread — grass-today-furnace-tomorrow. Ps 90:5-6 LXX 'morning like grass passes, morning flowers and passes' — human-transience via grass-imagery. Jesus applies to providence-argument."
+    },
+    "MAT 6:32": {
+      "type": "thematic_allusion",
+      "sources": [
+        "PSA 139:1-4"
+      ],
+      "greek_matches": "LXX thematic",
+      "notes": "Ps 139:1-4 LXX 'LORD you have searched me and known me' + knows-thoughts-before-spoken. Divine-omniscience of need precedes prayer-request."
+    },
+    "MAT 6:33": {
+      "type": "thematic_allusion",
+      "sources": [
+        "1KG 3:11-13",
+        "PRO 3:9-10",
+        "PSA 37:4"
+      ],
+      "greek_matches": "LXX thematic",
+      "notes": "1 Kgs 3:11-13 LXX Solomon asks for wisdom and receives wealth+honor+long life as bonus — 'seek-first-God's-wisdom-material-things-added' pattern. Prov 3:9-10 LXX 'honor LORD with firstfruits... storerooms filled with grain.' Ps 37:4 LXX 'delight in LORD, he will give heart's requests.'"
+    },
+    "MAT 6:34": {
+      "type": "thematic_allusion",
+      "sources": [
+        "PRO 27:1"
+      ],
+      "greek_matches": "LXX thematic",
+      "notes": "Prov 27:1 LXX 'don't boast about tomorrow, for you don't know what tomorrow will bring.' Wisdom-proverb on tomorrow-epistemic-humility directly underlies Matthew's 'don't worry about tomorrow.' Note epiousa 'coming day' cognate-root with epiousios at Matt 6:11."
+    },
+    "MAT 6:8": {
+      "type": "thematic_allusion",
+      "sources": [
+        "ISA 65:24"
+      ],
+      "greek_matches": "LXX thematic",
+      "notes": "Isa 65:24 LXX 'before they call I will answer' — foundational prophetic text for pre-emptive divine knowledge of human need."
+    },
+    "MAT 6:9": {
+      "type": "background_allusion",
+      "sources": [
+        "EZK 36:23",
+        "ISA 29:23",
+        "1CH 29:10"
+      ],
+      "greek_matches": "LXX thematic",
+      "notes": "Ezek 36:23 LXX 'I will sanctify my great name' — eschatological-vindication of divine name. Isa 29:23 'sanctify the Holy One of Jacob.' 1 Chr 29:10 LXX 'blessed are you LORD God of Israel our Father' — Davidic prayer. Lord's Prayer opening echoes these threads: divine-fatherhood + name-sanctification."
+    },
+    "MAT 7:1": {
+      "type": "thematic_allusion",
+      "sources": [
+        "LEV 19:15"
+      ],
+      "greek_matches": "LXX thematic",
+      "notes": "Lev 19:15 LXX requires righteous-judgment without partiality. Jesus's 'do not judge' in context opposes harsh/improper judging, aligned with Torah's judicial-fairness ethic."
+    },
+    "MAT 7:11": {
+      "type": "thematic_allusion",
+      "sources": [
+        "PSA 84:11",
+        "ISA 49:15"
+      ],
+      "greek_matches": "LXX thematic",
+      "notes": "Psa 84:11 LXX (83:12 LXX) 'no good thing will he withhold from those who walk uprightly' for divine-giving-of-good. Isa 49:15 LXX rhetorical 'can-a-mother-forget-her-nursing-child' underlies parental-analogy. Kal-va-chomer (lesser-to-greater) is classical rabbinic argumentation."
+    },
+    "MAT 7:12": {
+      "type": "composite_summary",
+      "sources": [
+        "LEV 19:18",
+        "DEU 6:5",
+        "TOB 4:15"
+      ],
+      "greek_matches": "LXX thematic + intertestamental",
+      "notes": "GOLDEN RULE summary-formula. Positive-form distinct from negative-formulations of Tobit 4:15 LXX (ὃ μισεῖς μηδενὶ ποιήσῃς) and Hillel b.Shabbat 31a. Jesus's positive requires proactive-good, not mere restraint. 'Law-and-the-Prophets' = Hebrew-canon; Matt 22:40 parallel explicitly hangs law-and-prophets on Deut 6:5 + Lev 19:18 love-commandments."
+    },
+    "MAT 7:13": {
+      "type": "thematic_allusion",
+      "sources": [
+        "DEU 30:19",
+        "JER 21:8",
+        "PSA 1:6"
+      ],
+      "greek_matches": "LXX thematic",
+      "notes": "Two-ways doctrine foundational OT wisdom. Deut 30:19 LXX 'life-and-death I-have-set-before-you, choose life' covenantal-decision; Jer 21:8 LXX 'way-of-life and way-of-death'; Ps 1:6 LXX 'way-of-righteous/way-of-wicked.' Also prominent in Qumran 1QS 3-4 and early-church-Didache 1-6."
+    },
+    "MAT 7:14": {
+      "type": "thematic_allusion",
+      "sources": [
+        "PRO 4:18-19",
+        "PRO 14:12"
+      ],
+      "greek_matches": "LXX thematic",
+      "notes": "Prov 4:18-19 LXX path-of-righteous vs way-of-darkness; Prov 14:12 LXX 'there-is-a-way-that-seems-right but its-end-is-the-ways-of-death' underscoring few-find-narrow-way."
+    },
+    "MAT 7:15": {
+      "type": "thematic_allusion",
+      "sources": [
+        "EZK 22:27",
+        "JER 23:16",
+        "DEU 13:1-5"
+      ],
+      "greek_matches": "LXX thematic",
+      "notes": "Ezek 22:27 LXX princes-of-Israel-as-wolves-tearing-prey (λύκοι ἁρπάζοντες verbatim-match for ἅρπαξ); Jer 23:16 LXX warns against false-prophets' visions-from-own-heart; Deut 13:1-5 LXX Torah-test-of-prophets."
+    },
+    "MAT 7:16": {
+      "type": "thematic_allusion",
+      "sources": [
+        "ISA 5:1-7",
+        "PSA 1:3",
+        "JDG 9:8-15"
+      ],
+      "greek_matches": "LXX thematic",
+      "notes": "Isa 5:1-7 LXX vineyard-expected-grapes-yielded-wild-grapes = prototype fruits-reveal-true-nature. Ps 1:3 LXX righteous-as-fruit-bearing-tree. Jdg 9:8-15 LXX Jotham's-fable thornbush-bramble-not-fruit-tree provides classical thornbush-can't-bear-fruit trope."
+    },
+    "MAT 7:19": {
+      "type": "self_echo_and_background",
+      "sources": [
+        "MAT 3:10",
+        "ISA 10:33-34",
+        "EZK 31"
+      ],
+      "greek_matches": "Matthew-internal verbatim + LXX background",
+      "notes": "Near-verbatim self-echo of MAT 3:10 (John-the-Baptist's warning) — only omits οὖν. Matthew deliberately aligns Jesus's Sermon-conclusion with John's warning-formula, showing teaching-continuity. Isa 10:33-34 LXX Assyrian-branches-lopped-off and Ezek 31 LXX cedar-of-Lebanon-cut-down underlie the arboreal-judgment imagery."
+    },
+    "MAT 7:2": {
+      "type": "thematic_allusion",
+      "sources": [
+        "ISA 65:7"
+      ],
+      "greek_matches": "LXX thematic + rabbinic",
+      "notes": "Isa 65:7 LXX has ἀνταποδώσω (repay) for measure-returned-principle. Mishnah Sotah 1:7 verbatim parallel 'middah k-neged middah' (measure-against-measure) is rabbinic formulation Jesus absorbs. Lex-talionis-judicial-reciprocity rooted in Deut 19:21."
+    },
+    "MAT 7:21": {
+      "type": "thematic_allusion",
+      "sources": [
+        "MAL 1:6",
+        "HOS 6:6"
+      ],
+      "greek_matches": "LXX thematic",
+      "notes": "Mal 1:6 LXX 'if I be Father, where is my honor?' — question of profession-without-honor. Hos 6:6 LXX 'I-desire-mercy-not-sacrifice, knowledge-of-God-more-than-burnt-offerings' underscores deed-over-profession; Matt will cite Hos 6:6 explicitly at 9:13, 12:7."
+    },
+    "MAT 7:22": {
+      "type": "thematic_allusion",
+      "sources": [
+        "AMO 5:18",
+        "JOL 2:31",
+        "MAL 4:1-5",
+        "JER 14:14",
+        "JER 27:15"
+      ],
+      "greek_matches": "LXX thematic",
+      "notes": "'That-day' is Day-of-Lord eschatological-idiom: Amos 5:18 LXX ἡ ἡμέρα τοῦ κυρίου, Joel 2:31 LXX, Mal 4:1-5 LXX (Mal 3:19-24 LXX) — day of judgment. Jer 14:14 LXX + Jer 27:15 LXX (Jer 34:15 LXX) rebuke false-prophets who 'prophesy-in-my-name' without divine-commission — exact-scenario Jesus describes."
+    },
+    "MAT 7:23": {
+      "type": "direct_citation",
+      "sources": [
+        "PSA 6:8"
+      ],
+      "greek_matches": "LXX verbatim-phrase",
+      "notes": "DIRECT CITATION of Ps 6:8 LXX (Ψ 6:9 LXX): ἀπόστητε ἀπ᾽ ἐμοῦ πάντες οἱ ἐργαζόμενοι τὴν ἀνομίαν. Matthew substitutes synonym ἀποχωρεῖτε for ἀπόστητε but preserves οἱ ἐργαζόμενοι τὴν ἀνομίαν verbatim-from-LXX. In Psa 6 David-as-righteous-sufferer dismisses enemies; Jesus takes the Divine-Judge's voice and speaks the Psalm directly — major Christological claim that Jesus occupies position-of-YHWH-Judge."
+    },
+    "MAT 7:24": {
+      "type": "thematic_allusion",
+      "sources": [
+        "ISA 28:16",
+        "PRO 10:25"
+      ],
+      "greek_matches": "LXX thematic",
+      "notes": "Isa 28:16 LXX foundation-stone-in-Zion λίθον ἀκρογωνιαῖον — messianic-foundation-image; Jesus recalls πέτρα-foundation here, using same word at Matt 16:18 for Peter/Church. Prov 10:25 LXX 'when-the-storm-passes, the-wicked-is-no-more, but-the-righteous-has-eternal-foundation' — wisdom-parallel for enduring-righteous vs collapsing-wicked."
+    },
+    "MAT 7:25": {
+      "type": "thematic_allusion",
+      "sources": [
+        "EZK 13:10-14",
+        "PRO 12:7"
+      ],
+      "greek_matches": "LXX thematic",
+      "notes": "Ezek 13:10-14 LXX false-prophets-whitewash untempered-wall-collapses-in-storm — prototype of 'built-on-falsehood collapses-when-tested.' Prov 12:7 LXX 'house-of-wicked-will-be-overthrown, but-dwelling-of-righteous-will-stand.'"
+    },
+    "MAT 7:27": {
+      "type": "thematic_allusion",
+      "sources": [
+        "PRO 12:7",
+        "ISA 28:17"
+      ],
+      "greek_matches": "LXX thematic",
+      "notes": "Climactic collapse-imagery echoes Prov 12:7 LXX (wicked-house-overthrown) and Isa 28:17 LXX ('hail-will-sweep-away refuge-of-lies, waters-will-overflow hiding-place'). Matthean-Sermon concludes with OT-wisdom-eschatological judgment-imagery."
+    },
+    "MAT 7:3": {
+      "type": "thematic_allusion",
+      "sources": [
+        "PSA 19:12"
+      ],
+      "greek_matches": "LXX thematic",
+      "notes": "Psa 19:12 LXX (psalmist's plea about hidden-faults) — self-examination-principle that undergirds the speck/beam hyperbole. Rabbinic-parallel in b. Arachin 16b R. Tarphon's splinter/beam saying."
+    },
+    "MAT 7:6": {
+      "type": "thematic_allusion",
+      "sources": [
+        "PRO 9:7-8",
+        "PRO 26:11",
+        "LEV 11"
+      ],
+      "greek_matches": "LXX thematic",
+      "notes": "Prov 9:7-8 LXX 'do not correct the scoffer lest he hate you' underlies the don't-cast-pearls logic. Prov 26:11 LXX 'as-a-dog-returns-to-its-vomit' associates dogs with uncleanness/folly. Lev 11 categorizes both dogs and swine as ritually-unclean animals (pigs cf. Lev 11:7-8; dogs by association)."
+    },
+    "MAT 7:7": {
+      "type": "thematic_allusion",
+      "sources": [
+        "JER 29:13",
+        "PRO 8:17"
+      ],
+      "greek_matches": "LXX thematic",
+      "notes": "Jer 29:13 LXX 'when-you-seek-me-with-all-your-heart, you-shall-find-me' prime-text for seek/find-pair. Prov 8:17 LXX 'those-who-seek-me-find-me' similar wisdom-invitation."
+    },
+    "MAT 8:10": {
+      "type": "thematic_allusion",
+      "source": "GEN 12:3",
+      "greek_matches": "no-verbatim",
+      "notes": "Jesus's marveling at Gentile faith and contrasting with Israel's faith-deficit presupposes the Abrahamic promise of blessing to all nations (Gen 12:3, 22:18). Centurion functions as exemplar of proto-fulfillment. Sets up v.11 which explicitly develops the motif with patriarchs + Gentile-banquet imagery."
+    },
+    "MAT 8:11": {
+      "type": "composite_allusion",
+      "sources": [
+        "ISA 25:6-9",
+        "PSA 107:3",
+        "GEN 12:3"
+      ],
+      "greek_matches": "no-verbatim",
+      "notes": "Composite allusion to the messianic-banquet tradition. ISA 25:6-9 LXX describes YHWH's eschatological feast on Mount Zion for 'all peoples' (πάντα τὰ ἔθνη) with wine and rich food. PSA 107:3 LXX gathers the redeemed 'from east and west and north and south' (ἀπὸ ἀνατολῶν καὶ δυσμῶν καὶ βορρᾶ καὶ θαλάσσης) — Matthew's ἀπὸ ἀνατολῶν καὶ δυσμῶν is verbatim from Psalm. GEN 12:3 undergirds the inclusion-of-Gentiles logic. Second Temple parallels: 1 Enoch 62:14; 2 Baruch 29:4."
+    },
+    "MAT 8:12": {
+      "type": "thematic_allusion",
+      "source": "PSA 112:10",
+      "greek_matches": "LXX-echo",
+      "notes": "Βρυγμὸς τῶν ὀδόντων echoes LXX PSA 112:10 (Heb 111:10): τοὺς ὀδόντας αὐτοῦ βρύξει καὶ τακήσεται ('he will gnash his teeth and melt away') — wicked gnash teeth at their judgment. Matthew's signature 'weeping and gnashing of teeth' formula (6x: 8:12, 13:42, 13:50, 22:13, 24:51, 25:30) develops this OT trope. Additional backgrounds: Isa 30:33 (Tophet/burning place); Isa 65:13-14 (servants feasting / others crying out)."
+    },
+    "MAT 8:17": {
+      "type": "citation",
+      "source": "ISA 53:4",
+      "greek_matches": "Hebrew-MT-not-LXX",
+      "notes": "DIRECT OT CITATION, Matthean fulfillment formula (ὅπως πληρωθῇ). LXX Isa 53:4 reads οὗτος τὰς ἁμαρτίας ἡμῶν φέρει καὶ περὶ ἡμῶν ὀδυνᾶται ('this one bears our SINS and is in pain for us'). Matthew's Greek = αὐτὸς τὰς ἀσθενείας ἡμῶν ἔλαβεν καὶ τὰς νόσους ἐβάστασεν ('he took up our SICKNESSES and carried our DISEASES') — matches Hebrew MT חֳלָיֵנוּ הוּא נָשָׂא וּמַכְאֹבֵינוּ סְבָלָם much more than LXX. Matthew uses his own translation from Hebrew (or a non-LXX Greek version) specifically because LXX's 'sins' would not fit the physical-healing context. INTERPRETIVE MOVE: Matthew applies Isa 53 servant-bearing motif to Jesus's healing ministry, expanding the atonement-application (which 1 Pet 2:24 uses for the cross). Matthew sees the cross and the healings as two expressions of the same bearing-for-us reality."
+    },
+    "MAT 8:2": {
+      "type": "thematic_allusion",
+      "source": "LEV 13-14",
+      "greek_matches": "no-verbatim",
+      "notes": "Leper's approach to Jesus presupposes the Lev 13-14 leprosy purity code. The term καθαρίζω ('make clean') has both ceremonial (Lev 14 ritual purification) and therapeutic (heal the disease) senses — both are at play in the leper's request. Matthean framing shows Jesus operating within the Mosaic purity framework but with messianic authority to declare clean."
+    },
+    "MAT 8:20": {
+      "type": "thematic_allusion",
+      "source": "DAN 7:13-14",
+      "greek_matches": "no-verbatim",
+      "notes": "First 'Son of Man' (ὁ υἱὸς τοῦ ἀνθρώπου) self-designation in Matthew. Dan 7:13-14 LXX/Theodotion describes the υἱὸς ἀνθρώπου figure who approaches the Ancient of Days and receives dominion and glory. Matthean use exploits the title's double aspect: (1) generic 'human one' (as in Ezekiel), (2) specific figure receiving eschatological dominion. Paradoxical inversion: the one destined for cosmic dominion has nowhere to lay his head."
+    },
+    "MAT 8:21": {
+      "type": "thematic_allusion",
+      "source": "LEV 21:1-3",
+      "greek_matches": "no-verbatim",
+      "notes": "Disciple's request to bury his father presupposes the Jewish sacred duty to bury kin. Lev 21:1-3 allows even priests (who are normally ritually off-limits from corpses) to become unclean to bury immediate family. The 5th-commandment 'honor father' was understood to include burial. Jesus's reply in v.22 therefore places kingdom-loyalty above the most sacred family duty in the Torah — a shocking prioritization."
+    },
+    "MAT 8:22": {
+      "type": "thematic_allusion",
+      "source": "LEV 21:1-3",
+      "greek_matches": "no-verbatim",
+      "notes": "Continues the burial-duty framework from v.21. Jesus's 'let the dead bury their own dead' either (1) uses νεκρός in a spiritual sense ('let the spiritually-dead handle their physical-dead') or (2) is a hyperbolic reductio ad absurdum showing that kingdom-call supersedes every other obligation including the most sacred. Either way, the Torah burial duty is subordinated to discipleship — a Matthean intensification of Jesus's radical call."
+    },
+    "MAT 8:24": {
+      "type": "thematic_allusion",
+      "source": "JON 1:4-6",
+      "greek_matches": "no-verbatim",
+      "notes": "Jesus sleeping during sea-storm echoes Jonah 1:4-6 LXX. Both are asleep in a boat during a violent storm that threatens to destroy the ship. INVERSE TYPOLOGY: Jonah is the cause of the storm (fleeing God's call); Jesus is the stiller of the storm. The disciples-ask-prophet-to-pray motif (Jon 1:6 'arise, call on your God!') is inverted to disciples-cry-to-Jesus-for-salvation (Matt 8:25). Matthew's σεισμός (earthquake-word) choice over Mark's λαῖλαψ deepens Matthean cosmic-disturbance motif (cf. Matt 27:54 earthquake at death; 28:2 earthquake at resurrection)."
+    },
+    "MAT 8:26": {
+      "type": "thematic_allusion",
+      "source": "PSA 107:28-29",
+      "greek_matches": "no-verbatim",
+      "notes": "PSA 107:28-29 LXX (LXX 106): 'they cried to the Lord in their distress, and he delivered them from their troubles; he made the storm to be still, and the waves of the sea were quiet.' The exact OT template for Jesus's storm-stilling. Additional echoes: PSA 89:9 (God rules the raging sea); PSA 65:7 (God stills the roaring of the seas); Isa 51:10. In OT framework, only YHWH stills seas — Jesus's doing so implicitly claims divine prerogative, which the disciples' v.27 amazement implicitly recognizes."
+    },
+    "MAT 8:29": {
+      "type": "thematic_allusion",
+      "source": "DAN 7:9-10",
+      "greek_matches": "no-verbatim",
+      "notes": "The demons' phrase πρὸ καιροῦ ('before the [appointed] time') presupposes an eschatological judgment timetable. DAN 7:9-10 LXX describes the Ancient of Days opening the books and rendering judgment; JOE 2:31 and OT prophetic literature develop 'the day of the LORD' as appointed judgment. Second Temple apocalyptic (1 Enoch 10) gives evil spirits a fixed timetable of confinement until eschatological judgment. Demons thus demonstrate (1) correct theology of Jesus's identity (υἱὲ τοῦ θεοῦ) and (2) correct eschatology (a set time of judgment) — orthodox doctrine without salvific faith, cf. James 2:19."
+    },
+    "MAT 8:30": {
+      "type": "thematic_allusion",
+      "source": "LEV 11:7",
+      "greek_matches": "no-verbatim",
+      "notes": "Pigs (χοῖροι) are unclean animals per LEV 11:7 and DEU 14:8. Their presence in large herds signals Gentile (Greco-Roman Decapolis) territory — Jews would not raise pigs. Background detail that sets up the clean/unclean reversal motif (unclean spirits + unclean animals + unclean Gentile land). ISA 65:4 LXX also mentions swine-flesh eaters as marks of apostasy."
+    },
+    "MAT 8:4": {
+      "type": "thematic_allusion",
+      "source": "LEV 14:1-32",
+      "greek_matches": "no-verbatim",
+      "notes": "Jesus directs the healed leper to follow the Mosaic purification law: priest-inspection + prescribed offering (Lev 14:1-32 detailed protocol with two male lambs, a ewe lamb, grain offering, oil). Matthean theme that Jesus fulfills rather than abolishes the law (cf. Matt 5:17). The priest's inspection would publicly validate the miracle and serve as a Messianic sign (εἰς μαρτύριον αὐτοῖς)."
+    },
+    "MAT 9:13": {
+      "type": "direct_citation",
+      "source": "HOS 6:6",
+      "greek_matches": "LXX-verbatim",
+      "notes": "DIRECT CITATION of Hos 6:6 LXX: διότι ἔλεος θέλω καὶ οὐ θυσίαν, καὶ ἐπίγνωσιν θεοῦ ἢ ὁλοκαυτώματα ('for I desire mercy and not sacrifice, and knowledge of God rather than burnt-offerings'). Matthew quotes only the first half (ἔλεος θέλω καὶ οὐ θυσίαν) — exactly verbatim. Matthean distinctive: this citation appears in Matt 9:13 AND Matt 12:7 but is absent from Mark 2:17 parallel. In Hosea's context, YHWH rebukes Ephraim's superficial sacrifice-piety; Jesus re-applies the rebuke to Pharisaic scrupulosity about table-fellowship. The citation frames Jesus as the prophetic voice of YHWH. Interpretive payload: mercy-toward-sinners > ritual-separation-from-sinners. Hebrew חֶסֶד (ḥesed, covenant-loyalty-love) is rendered ἔλεος in LXX; Matthew inherits this."
+    },
+    "MAT 9:15": {
+      "type": "thematic_allusion",
+      "sources": [
+        "ISA 54:5",
+        "ISA 62:5",
+        "HOS 2:19-20",
+        "EZK 16:8-14"
+      ],
+      "greek_matches": "no-verbatim",
+      "notes": "Jesus's self-application of νυμφίος (bridegroom) presupposes the OT tradition of YHWH as Israel's bridegroom-husband. ISA 54:5 LXX: ὅτι κύριος ὁ ποιήσας σε, κύριος σαβαώθ ὄνομα αὐτῷ ('your Maker is your husband'). ISA 62:5 LXX: ὡς νυμφίος εὐφραίνεται ἐπὶ νύμφῃ ('as the bridegroom rejoices over the bride'). HOS 2:19-20 LXX: μνηστεύσομαί σε ἐμαυτῷ εἰς τὸν αἰῶνα ('I will betroth you to myself forever'). EZK 16:8-14 LXX: elaborate allegory of YHWH finding Israel as a foundling, betrothing, clothing. Jesus's implicit self-claim to the bridegroom role is a claim to divine identity. The ἀπαρθῇ (be-taken-away) passive is Matthew's first veiled passion-prediction — explicit predictions begin 16:21. Jewish prophetic tradition of bridegroom's arrival-delay + eventual consummation (second-Temple development at 4Q Songs of the Sage, 11Q Temple Scroll)."
+    },
+    "MAT 9:18": {
+      "type": "background_allusion",
+      "sources": [
+        "GEN 48:14",
+        "NUM 27:18",
+        "DEU 34:9"
+      ],
+      "greek_matches": "no-verbatim",
+      "notes": "The synagogue-leader's request for Jesus to 'place hand on' his daughter presupposes the OT tradition of ἐπιτίθημι τὰς χεῖρας as a blessing-and-empowerment gesture. GEN 48:14 LXX: Jacob lays hands on Ephraim and Manasseh to bless. NUM 27:18 LXX: Moses lays hands on Joshua to transfer authority. DEU 34:9 LXX: Joshua, having received hands-laid by Moses, is full of the Spirit. The gesture was understood to convey divine power/blessing. The leader's faith is remarkable: he believes Jesus's hand-laying can raise his dead daughter — a step beyond standard blessing-paradigm. Foreshadows NT apostolic laying-on-of-hands (Acts 8:17, 13:3, etc.)."
+    },
+    "MAT 9:2": {
+      "type": "background_allusion",
+      "sources": [
+        "PSA 103:3",
+        "ISA 43:25"
+      ],
+      "greek_matches": "no-verbatim",
+      "notes": "PSA 103:3 LXX (102:3): ὁ ἐξιλασκόμενος πάσας τὰς ἀνομίας σου ('who forgives all your iniquities') + ISA 43:25 LXX: ἐγώ εἰμι ἐγώ εἰμι ὁ ἐξαλείφων τὰς ἀνομίας σου ('I, I am he who blots out your transgressions') — both establish forgiving-of-sins as divine-prerogative. Jesus's pronouncement here implicitly occupies YHWH's position, which the scribes correctly interpret as blasphemy in v.3 — Matthew's point is that the interpretation is correct but the conclusion ('blasphemy') wrong because Jesus IS God's Son with authority to speak as such."
+    },
+    "MAT 9:20": {
+      "type": "thematic_allusion",
+      "sources": [
+        "NUM 15:38-39",
+        "LEV 15:25-30"
+      ],
+      "greek_matches": "no-verbatim",
+      "notes": "The woman's touch of Jesus's κράσπεδον ('fringe/tassel') presupposes NUM 15:38-39 LXX where YHWH commands Israelite men to wear tassels (κράσπεδα) on garment-corners as perpetual reminder of commandments. The κράσπεδον was specifically the Torah-prescribed tzitzit (ציצית). Her reaching for the tassel is not arbitrary — she touches the Torah-symbol attached to Jesus's garment, suggesting she apprehends him as embodying Israel's covenant-hope. Simultaneously, LEV 15:25-30 LXX places the chronically-bleeding woman in permanent ritual-impurity: she is unclean; her touch transmits uncleanness. Her action is therefore bold/transgressive within the ritual-purity framework. Matthew's readers would understand both layers: Torah-reverence (reaching for tzitzit) + Torah-transgression (touching while impure). The resolution: Jesus's purity is stronger than her impurity — her touch does not defile him; his power cleanses her."
+    },
+    "MAT 9:24": {
+      "type": "thematic_allusion",
+      "source": "DAN 12:2",
+      "greek_matches": "no-verbatim",
+      "notes": "Jesus's καθεύδει ('she is sleeping') euphemism for death echoes DAN 12:2 LXX: καὶ πολλοὶ τῶν καθευδόντων ἐν γῆς χώματι ἐξεγερθήσονται ('many of those sleeping in the dust of the earth will be awakened') — the classic OT resurrection-text using sleep-metaphor. The Christian NT adopts καθεύδω/κοιμάομαι as technical terminology for believer-death anticipating resurrection (1Th 4:13-15; Jn 11:11-14; 1Co 15:6; Acts 7:60). Jesus's usage here is not mere metaphor but theological signal — her death is a sleep because his power will raise her."
+    },
+    "MAT 9:27": {
+      "type": "thematic_allusion",
+      "sources": [
+        "2SA 7:12-16",
+        "PSA 89:3-4",
+        "ISA 11:1",
+        "JER 23:5"
+      ],
+      "greek_matches": "no-verbatim",
+      "notes": "FIRST MATTHEAN OCCURRENCE of 'Son of David' as Messianic-address from a character (prior uses are genealogical 1:1, 1:20). 2SA 7:12-16 LXX: Davidic covenant — descendant who will rule forever. PSA 89:3-4 LXX (88:4-5): formal Davidic-covenant psalm. ISA 11:1 LXX: ἐξελεύσεται ῥάβδος ἐκ τῆς ῥίζης Ιεσσαι ('a shoot from the root of Jesse') — Davidic-Messiah branch-imagery. JER 23:5 LXX: ἀναστήσω τῷ Δαυιδ ἀνατολὴν δικαίαν ('I will raise up for David a righteous branch'). Blind men's 'Son of David' address combines royal-messianic-recognition with petition — simultaneously confession and plea. Their inability to see-physically but ability to see-messianically (while religious-leaders who see-physically remain messianically-blind) is a Matthean irony-structure. Healing-of-blind is itself Messianic sign per ISA 35:5 + 42:7 + 61:1 — to be explicitly cited at MAT 11:5. Son of David will recur at 12:23, 15:22, 20:30-31, 21:9, 21:15, 22:42 — culminating in triumphal-entry recognition."
+    },
+    "MAT 9:36": {
+      "type": "composite_allusion",
+      "sources": [
+        "NUM 27:17",
+        "1KG 22:17",
+        "EZK 34:5-16",
+        "ZEC 10:2"
       ],
       "greek_matches": "LXX-echo",
-      "notes": "Jesus's question about the Son of Man being 'treated with contempt' (ἐξουδενηθῇ, hapax in Mark) echoes the Suffering-Servant rejection language of Isa 53:3 LXX and Ps 22:6 LXX (related form ἐξουθενέω). The Suffering-Servant and Suffering-Son-of-Man strands are here fused, preparing the Passion narrative. Jesus's reply holds the Elijah-prophecy AND the suffering-Son-of-Man in tension — both are 'written,' so there is no dilemma, only a sequence."
+      "notes": "Near-verbatim LXX-echo of the 'sheep without shepherd' Hebraism. NUM 27:17 LXX: ὡσεὶ πρόβατα οἷς οὐκ ἔστιν ποιμήν (Moses's prayer for successor to lead Israel). 1KG 22:17 LXX: πρόβατα ᾧ οὐκ ἔστιν ποιμήν (Micaiah's vision of Israel without king). ZEC 10:2 LXX: ἐκάκωσαν ὡς πρόβατα ἐν οἷς οὐκ ἔστιν ποιμήν. EZK 34:5-16 LXX: extended prophetic denunciation of Israel's bad-shepherds + YHWH's promise to come as shepherd himself. Matthew's phrase matches NUM/1KG/ZEC lexically. Theological point: Jesus perceives the crowds as Israel-without-faithful-leadership and steps into the role YHWH promised in EZK 34 ('I myself will be shepherd of my sheep'). Functions as bridge to ch 10 where Jesus addresses the shortage by commissioning the Twelve as under-shepherd-missionaries. Matthew echoes again at 10:6 ('lost sheep of Israel') and 15:24 ('sent only to lost sheep of house of Israel'). JN 10:11 develops into explicit Good-Shepherd discourse; HEB 13:20 (μέγας ποιμήν); 1PE 2:25 + 5:4 (ἀρχιποίμην) all derive from this stream."
     },
-    "MRK 9:19": {
-      "type": "allusion",
-      "source": "DEU 32:5",
-      "greek_matches": "LXX-echo",
-      "notes": "γενεὰ ἄπιστος inherits Deuteronomic-exodus charge of Israel's wilderness-disobedience: Deut 32:5 (Song of Moses: 'crooked and perverse generation' γενεὰ σκολιὰ καὶ διεστραμμένη); also Deut 32:20; Ps 95:10 LXX (Heb 3:10). Jesus's exasperation encompasses disciples, crowd, scribes, father — the 'generation' of the present age fails to trust."
+    "MAT 9:37": {
+      "type": "thematic_allusion",
+      "sources": [
+        "ISA 27:12",
+        "ISA 9:3",
+        "JOL 3:13"
+      ],
+      "greek_matches": "no-verbatim",
+      "notes": "Harvest metaphor uses dual OT tradition: (1) POSITIVE gathering of people into blessed-kingdom: ISA 27:12 LXX (gleaning-and-gathering of Israelites from Assyria/Egypt), ISA 9:3 LXX (joy at harvest as eschatological-restoration image). (2) NEGATIVE judgment-harvest: JOL 3:13 LXX (4:13 LXX): ἐξαποστείλατε δρέπανα, ὅτι παρέστηκεν τρυγητός ('send in the sickles, for the harvest is ripe') — eschatological judgment imagery. Matt 9:37's specific use leans positive (gathering-of-believers) but Matthew will re-deploy harvest for judgment at 13:30, 13:39-42 — the semantic double exploits both OT streams. ἐργάτης (worker) echoes prophetic-literature labor-metaphors. Luke 10:2 uses identical saying for the sending-of-the-seventy-two — a saying pre-existing in shared Jesus-tradition before both redactors."
     },
-    "MRK 9:31": {
-      "type": "allusion",
-      "source": "HOS 6:2",
-      "greek_matches": "LXX-timing",
-      "notes": "Second passion prediction. 'Third day' resurrection timing echoes Hos 6:2 LXX (ἐν τῇ ἡμέρᾳ τῇ τρίτῃ ἀναστησόμεθα 'on the third day we shall rise'). Structural counterpart to 8:31 and 10:33-34. παραδίδοται (present tense 'is being handed over') more imminent than 8:31's δεῖ παθεῖν. Son-of-Man/hands-of-men wordplay (υἱὸς ἀνθρώπου → χεῖρας ἀνθρώπων) preserved in Thai 'บุตรมนุษย์/มือของมนุษย์.'"
+    "MAT 9:4": {
+      "type": "background_allusion",
+      "sources": [
+        "PSA 139:2",
+        "1KG 8:39",
+        "1SA 16:7"
+      ],
+      "greek_matches": "no-verbatim",
+      "notes": "Matthew's εἰδώς ('having-known') the scribes' thoughts presupposes the OT theme of divine omniscience. PSA 139:2 LXX (138:2): σὺ ἔγνως τὸν καθεδρασμόν μου καὶ τὴν ἔγερσίν μου, σὺ συνῆκας τοὺς διαλογισμούς μου ('you understand my thoughts from afar'). 1KG 8:39 LXX (Solomon's temple-dedication): σὺ μονώτατος οἶδας τὴν καρδίαν ('you alone know the heart'). 1SA 16:7 LXX: ἄνθρωπος ὄψεται εἰς πρόσωπον, ὁ δὲ θεὸς ὄψεται εἰς καρδίαν ('man sees the outward appearance, God sees the heart'). Jesus's mind-reading is theologically loaded — he exercises what the OT reserves to YHWH."
     },
-    "MRK 9:48": {
-      "type": "citation",
-      "source": "ISA 66:24",
-      "greek_matches": "LXX",
-      "notes": "Direct citation of Isa 66:24 LXX: ὁ σκώληξ αὐτῶν οὐ τελευτήσει, καὶ τὸ πῦρ αὐτῶν οὐ σβεσθήσεται ('their worm will not die, and their fire will not be quenched'). Mark's wording matches the LXX so precisely that it functions as a citation, though not formally-introduced. Isa 66:24 is the culmination of Isaiah's prophecy — the eschatological judgment where the wicked are consumed perpetually. σκώληξ is a Markan hapax. THEOLOGICALLY: worm + fire is metaphoric imagery for continuous judgment, not necessarily literal."
-    },
-    "MRK 9:49": {
-      "type": "allusion",
-      "source": "LEV 2:13",
-      "greek_matches": "LXX-conceptual",
-      "notes": "TEXTUAL VARIANT: SBLGNT reads the shorter πᾶς γὰρ πυρὶ ἁλισθήσεται ('every one will be salted with fire'). Many Byz witnesses add 'καὶ πᾶσα θυσία ἁλὶ ἁλισθήσεται' ('and every sacrifice will be salted with salt' — Lev 2:13 echo). The shorter SBLGNT reading is almost certainly original (א B L W Δ f¹); the longer is a scribal harmonization. Lev 2:13 (salt-of-the-covenant in sacrifice) is the conceptual background regardless of which reading is preserved. vv.43-48's Gehenna-fire warnings are summarized by v.49's universal-salting — fire of trial preserves by testing (cf. 1 Pet 1:7; 4:12-13)."
-    },
-    "MRK 10:6": {
-      "type": "citation",
-      "source": "GEN 1:27",
-      "greek_matches": "LXX",
-      "notes": "Jesus cites Gen 1:27 LXX 'ἄρσεν καὶ θῆλυ ἐποίησεν αὐτούς' verbatim as the creation-order basis for his hermeneutic on marriage. The citation runs vv.6 (Gen 1:27) + 7-8 (Gen 2:24) as a paired-text argument. Pre-fall, pre-Mosaic creational ordinance trumps Deut 24 concession."
-    },
-    "MRK 10:7": {
-      "type": "citation",
-      "source": "GEN 2:24",
-      "greek_matches": "LXX",
-      "notes": "Second half of composite citation (Gen 1:27 + 2:24). SBLGNT INCLUDES προσκολληθήσεται πρὸς τὴν γυναῖκα αὐτοῦ (against shorter B/Ψ tradition). Full LXX Gen 2:24 is quoted prescriptively as creational ordinance. Jesus's hermeneutic: creation-beginning (2:24) binds what Deut 24:1 only tolerated."
-    },
-    "MRK 10:8": {
-      "type": "citation",
-      "source": "GEN 2:24",
-      "greek_matches": "LXX",
-      "notes": "Continuation of Gen 2:24 citation — 'the two shall become one flesh.' The ὥστε-clause after the citation is Jesus's own exegetical commentary, not OT text. The μία σάρξ conclusion grounds vv.9's prohibition against divorce."
+    "MAT 9:6": {
+      "type": "background_allusion",
+      "source": "DAN 7:13-14",
+      "greek_matches": "Theodotion-echo",
+      "notes": "Son of Man (ὁ υἱὸς τοῦ ἀνθρώπου) self-title grounded in Dan 7:13-14 LXX/Theodotion. DAN 7:14: ἐδόθη αὐτῷ ἐξουσία καὶ τιμὴ βασιλική ('authority and kingly honor was given to him'). Jesus's claim to exercise ἐξουσία ἐπὶ τῆς γῆς ('authority on earth') for sin-forgiveness extends Dan 7's eschatological-heavenly authority into present-earthly ministry. This is the SECOND Son-of-Man statement in Matthew (after 8:20); here the title is linked explicitly to authority. The sin-forgiving authority of Dan 7's figure is not in Daniel itself — Jesus is making a constructive-theological extension."
     },
     "MRK 10:19": {
       "type": "composite_citation",
@@ -318,17 +1107,23 @@
       "greek_matches": "LXX-allusion-cluster",
       "notes": "Dense Isaiah-53 allusion cluster — not single-verse citation but three-feature evocation: (1) διακονῆσαι echoes Isa 53:11 LXX ὁ παῖς μου ('my servant'); (2) δοῦναι τὴν ψυχὴν αὐτοῦ echoes Isa 53:10 Hebrew נַפְשׁוֹ אָשָׁם ('his soul as guilt-offering'); (3) λύτρον ἀντὶ πολλῶν echoes Isa 53:11-12 πολλοί ('my righteous one shall justify many...he bore the sin of many'). λύτρον (ransom) adds exodus-redemption resonance (Exod 6:6 LXX λυτρόω — YHWH redeems Israel). Foundational Markan atonement text: Jesus's death as substitutionary ransom-price reshapes the Suffering Servant tradition into explicit soteriology."
     },
-    "MRK 11:7": {
-      "type": "allusion",
-      "source": "2KI 9:13",
-      "greek_matches": "LXX-royal-acclamation",
-      "notes": "Royal-acclamation echo: 2 Kgs 9:13 LXX records Jehu's officers hastily spreading their garments (ἱμάτιον) beneath his feet at his acclamation as king. Combined with (a) Mount of Olives setting, (b) Bethphage/Bethany locus, (c) never-ridden colt (1 Sam 6:7; Num 19:2), and (d) imminent Ps 118 acclamation, Mark builds a cumulative royal-coronation framework. Thai ประทับ (royal-register for ἐκάθισεν) encodes this reading."
-    },
-    "MRK 11:9": {
+    "MRK 10:6": {
       "type": "citation",
-      "source": "PSA 118:26",
+      "source": "GEN 1:27",
       "greek_matches": "LXX",
-      "notes": "Ps 118:26 LXX (Ps 117:26 LXX numbering), verbatim. LXX matches MT (Heb. בָּרוּךְ הַבָּא בְּשֵׁם יְהוָה). Ps 118 is the climax of the Hallel (Pss 113-118) sung at Passover, giving the Triumphal-Entry acclamation its festival-liturgical context. The crowd applies a psalm originally addressed to any pilgrim arriving in the name of YHWH to Jesus specifically — Markan narrative irony. 'The one coming' (ὁ ἐρχόμενος) had become a Second-Temple messianic designation (cf. Matt 11:3, Heb 10:37). Cross-refs: Ps 118:22-23 cited at Mark 12:10-11; Ps 118:26 reprised implicitly at 14:26 (Hallel-singing after the Last Supper)."
+      "notes": "Jesus cites Gen 1:27 LXX 'ἄρσεν καὶ θῆλυ ἐποίησεν αὐτούς' verbatim as the creation-order basis for his hermeneutic on marriage. The citation runs vv.6 (Gen 1:27) + 7-8 (Gen 2:24) as a paired-text argument. Pre-fall, pre-Mosaic creational ordinance trumps Deut 24 concession."
+    },
+    "MRK 10:7": {
+      "type": "citation",
+      "source": "GEN 2:24",
+      "greek_matches": "LXX",
+      "notes": "Second half of composite citation (Gen 1:27 + 2:24). SBLGNT INCLUDES προσκολληθήσεται πρὸς τὴν γυναῖκα αὐτοῦ (against shorter B/Ψ tradition). Full LXX Gen 2:24 is quoted prescriptively as creational ordinance. Jesus's hermeneutic: creation-beginning (2:24) binds what Deut 24:1 only tolerated."
+    },
+    "MRK 10:8": {
+      "type": "citation",
+      "source": "GEN 2:24",
+      "greek_matches": "LXX",
+      "notes": "Continuation of Gen 2:24 citation — 'the two shall become one flesh.' The ὥστε-clause after the citation is Jesus's own exegetical commentary, not OT text. The μία σάρξ conclusion grounds vv.9's prohibition against divorce."
     },
     "MRK 11:10": {
       "type": "acclamation-not-citation",
@@ -371,6 +1166,18 @@
       ],
       "greek_matches": "LXX-judgment-language",
       "notes": "Second half of the Markan fig-tree/temple sandwich — A₂ (fig tree withered) confirms A₁ (cursing) and illuminates B (temple cleansing): just as this tree is judged and dead, so the temple system will be. The 'root-deep destruction' image echoes Job 18:16, Hos 9:16, Isa 5:24 — prophetic-judgment language for terminal destruction with no revival possible."
+    },
+    "MRK 11:7": {
+      "type": "allusion",
+      "source": "2KI 9:13",
+      "greek_matches": "LXX-royal-acclamation",
+      "notes": "Royal-acclamation echo: 2 Kgs 9:13 LXX records Jehu's officers hastily spreading their garments (ἱμάτιον) beneath his feet at his acclamation as king. Combined with (a) Mount of Olives setting, (b) Bethphage/Bethany locus, (c) never-ridden colt (1 Sam 6:7; Num 19:2), and (d) imminent Ps 118 acclamation, Mark builds a cumulative royal-coronation framework. Thai ประทับ (royal-register for ἐκάθισεν) encodes this reading."
+    },
+    "MRK 11:9": {
+      "type": "citation",
+      "source": "PSA 118:26",
+      "greek_matches": "LXX",
+      "notes": "Ps 118:26 LXX (Ps 117:26 LXX numbering), verbatim. LXX matches MT (Heb. בָּרוּךְ הַבָּא בְּשֵׁם יְהוָה). Ps 118 is the climax of the Hallel (Pss 113-118) sung at Passover, giving the Triumphal-Entry acclamation its festival-liturgical context. The crowd applies a psalm originally addressed to any pilgrim arriving in the name of YHWH to Jesus specifically — Markan narrative irony. 'The one coming' (ὁ ἐρχόμενος) had become a Second-Temple messianic designation (cf. Matt 11:3, Heb 10:37). Cross-refs: Ps 118:22-23 cited at Mark 12:10-11; Ps 118:26 reprised implicitly at 14:26 (Hallel-singing after the Last Supper)."
     },
     "MRK 12:1": {
       "type": "allusion",
@@ -443,24 +1250,6 @@
       "source": "PSA 110:1",
       "greek_matches": "LXX-with-variant",
       "notes": "Ps 109:1 LXX with a textual variant: SBLGNT (followed by our translation) has ὑποκάτω τῶν ποδῶν σου ('under your feet'), while LXX Ps 109:1 and some NT MSS have ὑποπόδιον τῶν ποδῶν σου ('as a footstool for your feet'). SBLGNT reading likely preserves Mark's original. The TWO different κύριος referents in the citation (YHWH speaking to Messiah) is the Christological-probing point: David calls the Messiah κύριος, implying the Messiah is David's superior despite also being his descendant. Ps 110:1 becomes the most-quoted OT verse in the NT (33 citations). Both κύριος-instances rendered องค์พระผู้เป็นเจ้า in Thai with disambiguation via the genitive ของข้าพเจ้า ('of me/my')."
-    },
-    "MRK 13:6": {
-      "type": "echo",
-      "source": "EXO 3:14",
-      "greek_matches": "LXX-divine-self-identification",
-      "notes": "ἐγώ εἰμι ambiguity preserved intentionally. Mark has used ἐγώ εἰμι for Jesus in divine-self-revelation moments: 6:50 (walking-on-water theophany, Exod 3:14 echo) and 14:62 (Sanhedrin trial). Here at 13:6, false-Christs appropriating precisely this phrase is Mark's signal that they claim the highest identification, not merely 'I am the Messiah.' Mark's Christology is understated but pointed: false ἐγώ εἰμι-claimants confirm Jesus's ἐγώ εἰμι claims are indeed ultimate. First-century messianic pretenders (Theudas, Judas the Galilean) exemplify this."
-    },
-    "MRK 13:8": {
-      "type": "allusion",
-      "source": "ISA 19:2",
-      "greek_matches": "LXX-close",
-      "notes": "ἔθνος ἐπ' ἔθνος + βασιλεία ἐπὶ βασιλείαν echoes Isa 19:2 LXX and 2 Chr 15:6 LXX (Hanani's oracle on inter-nation conflict as divine judgment). ὠδίν ('birth-pang') is the standard OT-prophetic image for eschatological travail (Isa 13:8, 26:17, 66:7-9; Jer 4:31, 6:24; Mic 4:9-10; Hos 13:13). In Second-Temple Judaism this becomes the technical phrase 'chevlei mashiach' (1 Enoch 62:4; 4 Ezra 4:42; 2 Baruch 29:3ff; 1QH 3:7-12) — a fixed tribulation preceding the Messiah's advent. Mark's Jesus uses this exact register, locating the present crisis as ἀρχή (beginning) of that birth-process."
-    },
-    "MRK 13:9": {
-      "type": "background",
-      "source": "DEU 25:2",
-      "greek_matches": "thematic-background",
-      "notes": "Synagogue floggings (ἐν συναγωγαῖς δαρήσεσθε) invoke Deut 25:2-3's 39-lash limit (m. Makk. 3:10). Jesus's prediction schematically maps the persecutions later documented in Acts (Peter/John before Sanhedrin 4-5; Paul beaten in synagogues, 2 Cor 11:24; Paul before Felix/Festus, Acts 24-26; Paul before Agrippa II, Acts 26; Paul before Caesar, Acts 27-28). Three concentric circles of persecution: Jewish-local (συνέδρια, συναγωγαί) → Roman-provincial (ἡγεμόνες) → Roman-imperial (βασιλεῖς)."
     },
     "MRK 13:12": {
       "type": "allusion",
@@ -543,11 +1332,23 @@
       "greek_matches": "thematic",
       "notes": "Jesus claims-for-his-own-words the permanence Isa 40:8 attributes to the word of YHWH ('τὸ δὲ ῥῆμα τοῦ θεοῦ ἡμῶν μένει εἰς τὸν αἰῶνα'). Cf. also Isa 51:6 ('heaven and earth shall pass away, but my salvation shall be forever'). A high-Christology claim preserved by Mark: Jesus's spoken words on par with YHWH's eternal word. Wordplay: γενεὰ αὕτη will not παρέλθῃ (v.30) balanced by οἱ λόγοι μου οὐ μὴ παρελεύσονται (v.31)."
     },
-    "MRK 14:7": {
+    "MRK 13:6": {
+      "type": "echo",
+      "source": "EXO 3:14",
+      "greek_matches": "LXX-divine-self-identification",
+      "notes": "ἐγώ εἰμι ambiguity preserved intentionally. Mark has used ἐγώ εἰμι for Jesus in divine-self-revelation moments: 6:50 (walking-on-water theophany, Exod 3:14 echo) and 14:62 (Sanhedrin trial). Here at 13:6, false-Christs appropriating precisely this phrase is Mark's signal that they claim the highest identification, not merely 'I am the Messiah.' Mark's Christology is understated but pointed: false ἐγώ εἰμι-claimants confirm Jesus's ἐγώ εἰμι claims are indeed ultimate. First-century messianic pretenders (Theudas, Judas the Galilean) exemplify this."
+    },
+    "MRK 13:8": {
       "type": "allusion",
-      "source": "DEU 15:11",
-      "greek_matches": "thematic",
-      "notes": "Jesus does not DISMISS poor-care but INVOKES the verse that establishes Israel's ongoing poor-care obligation. Deut 15:11's full context: 'because there will never cease to be poor in the land, THEREFORE open your hand wide to your brother.' Jesus cites the premise of unending poor-care to justify the UNIQUE moment of this anointing. This saying becomes the scriptural warrant for Christian poor-care-as-continuing-discipline (Acts 4:32-35; 2 Cor 8-9) — precisely because poor-care is NORMAL, extraordinary worship-acts are not in competition with it."
+      "source": "ISA 19:2",
+      "greek_matches": "LXX-close",
+      "notes": "ἔθνος ἐπ' ἔθνος + βασιλεία ἐπὶ βασιλείαν echoes Isa 19:2 LXX and 2 Chr 15:6 LXX (Hanani's oracle on inter-nation conflict as divine judgment). ὠδίν ('birth-pang') is the standard OT-prophetic image for eschatological travail (Isa 13:8, 26:17, 66:7-9; Jer 4:31, 6:24; Mic 4:9-10; Hos 13:13). In Second-Temple Judaism this becomes the technical phrase 'chevlei mashiach' (1 Enoch 62:4; 4 Ezra 4:42; 2 Baruch 29:3ff; 1QH 3:7-12) — a fixed tribulation preceding the Messiah's advent. Mark's Jesus uses this exact register, locating the present crisis as ἀρχή (beginning) of that birth-process."
+    },
+    "MRK 13:9": {
+      "type": "background",
+      "source": "DEU 25:2",
+      "greek_matches": "thematic-background",
+      "notes": "Synagogue floggings (ἐν συναγωγαῖς δαρήσεσθε) invoke Deut 25:2-3's 39-lash limit (m. Makk. 3:10). Jesus's prediction schematically maps the persecutions later documented in Acts (Peter/John before Sanhedrin 4-5; Paul beaten in synagogues, 2 Cor 11:24; Paul before Felix/Festus, Acts 24-26; Paul before Agrippa II, Acts 26; Paul before Caesar, Acts 27-28). Three concentric circles of persecution: Jewish-local (συνέδρια, συναγωγαί) → Roman-provincial (ἡγεμόνες) → Roman-imperial (βασιλεῖς)."
     },
     "MRK 14:18": {
       "type": "allusion",
@@ -634,11 +1435,11 @@
       "greek_matches": "enactment",
       "notes": "Isa 50:6: 'I gave my back to those who strike, and my cheeks to those who pull out the beard; I hid not my face from disgrace and spitting.' Mark's scene is the Servant Song enacted. Prophetic irony: they mock Jesus for not-prophesying, while he has just prophesied (v.62) his coming-in-power — and the prophecy they demand he could fulfill but chooses not to."
     },
-    "MRK 15:5": {
+    "MRK 14:7": {
       "type": "allusion",
-      "source": "ISA 53:7",
-      "greek_matches": "enactment",
-      "notes": "Jesus's silence before Pilate enacts Isa 53:7 LXX ('ὡς πρόβατον ἐπὶ σφαγὴν ἤχθη καὶ ὡς ἀμνὸς ἐναντίον τοῦ κείροντος αὐτὸν ἄφωνος οὕτως οὐκ ἀνοίγει τὸ στόμα αὐτοῦ'). Mark does not quote but performs the Servant-Song shape (cf. 14:61 silent before Caiaphas). Pilate's θαυμάζειν parallels and contrasts with the centurion's confession at v.39 — one marvels and misses who Jesus is; the other marvels and sees."
+      "source": "DEU 15:11",
+      "greek_matches": "thematic",
+      "notes": "Jesus does not DISMISS poor-care but INVOKES the verse that establishes Israel's ongoing poor-care obligation. Deut 15:11's full context: 'because there will never cease to be poor in the land, THEREFORE open your hand wide to your brother.' Jesus cites the premise of unending poor-care to justify the UNIQUE moment of this anointing. This saying becomes the scriptural warrant for Christian poor-care-as-continuing-discipline (Acts 4:32-35; 2 Cor 8-9) — precisely because poor-care is NORMAL, extraordinary worship-acts are not in competition with it."
     },
     "MRK 15:19": {
       "type": "allusion",
@@ -730,11 +1531,309 @@
       "greek_matches": "LXX-narrative-fulfillment",
       "notes": "RICH-MAN-TOMB fulfills Isa 53:9 LXX ('δώσω τοὺς πονηροὺς ἀντὶ τῆς ταφῆς αὐτοῦ καὶ τοὺς πλουσίους ἀντὶ τοῦ θανάτου αὐτοῦ'). Mark's bare narration (buy linen → take down → wrap → place in tomb → roll stone → close up, 6 actions) lets the fulfillment-logic speak without editorial comment. σινδών glossary reaffirmed (established at 14:51); μνημεῖον → อุโมงค์ glossary established. Hapax: ἐνειλέω."
     },
+    "MRK 15:5": {
+      "type": "allusion",
+      "source": "ISA 53:7",
+      "greek_matches": "enactment",
+      "notes": "Jesus's silence before Pilate enacts Isa 53:7 LXX ('ὡς πρόβατον ἐπὶ σφαγὴν ἤχθη καὶ ὡς ἀμνὸς ἐναντίον τοῦ κείροντος αὐτὸν ἄφωνος οὕτως οὐκ ἀνοίγει τὸ στόμα αὐτοῦ'). Mark does not quote but performs the Servant-Song shape (cf. 14:61 silent before Caiaphas). Pilate's θαυμάζειν parallels and contrasts with the centurion's confession at v.39 — one marvels and misses who Jesus is; the other marvels and sees."
+    },
     "MRK 16:19": {
       "type": "allusion",
       "source": "PSA 110:1",
       "greek_matches": "LXX",
       "notes": "ἐκάθισεν ἐκ δεξιῶν τοῦ θεοῦ echoes Ps 109:1 LXX κάθου ἐκ δεξιῶν μου. Completes the Markan Ps-110 arc: 12:36 (Jesus's scribal-puzzle), 14:62 (Jesus's self-identification at trial), 16:19 (longer-ending composer's enthronement-narrative). The longer-ending composer provides the Christological-closure that Mark's primary body-text prepares but does not narrate. Part of the disputed longer-ending (vv.9-20); textual-status caveat applies but the OT-allusion is clear regardless."
+    },
+    "MRK 1:11": {
+      "type": "allusion",
+      "sources": [
+        "PSA 2:7",
+        "ISA 42:1",
+        "GEN 22:2"
+      ],
+      "greek_matches": "composite",
+      "notes": "Baptism voice combines Royal-Son (Ps 2), Servant-beloved (Isa 42), and beloved-sacrificial-son (Gen 22)."
+    },
+    "MRK 1:2": {
+      "type": "composite_citation",
+      "sources": [
+        "MAL 3:1",
+        "EXO 23:20"
+      ],
+      "greek_matches": "LXX-influenced",
+      "notes": "Mark attributes to Isaiah but quotes Malachi+Exodus. The 'ἄγγελόν μου' phrase matches LXX Mal 3:1 closely."
+    },
+    "MRK 1:3": {
+      "type": "citation",
+      "source": "ISA 40:3",
+      "greek_matches": "LXX",
+      "notes": "Voice-in-wilderness text matches LXX ordering ('in the wilderness') rather than MT ('call in the wilderness prepare the way')."
+    },
+    "MRK 2:26": {
+      "type": "allusion",
+      "source": "1SA 21:1",
+      "greek_matches": "narrative-reference",
+      "notes": "David eating the Bread of the Presence (1 Sam 21:1-6). HISTORICAL CRUX: Mark's ἐπὶ Ἀβιαθάρ ἀρχιερέως — 1 Sam 21 records Ahimelech, not Abiathar, as priest at Nob; Abiathar (his son) succeeded him (1 Sam 22:20-23). Solutions in literature: (1) Mark/Jesus conflates by memory; (2) ἐπί + gen. = 'in the Scripture section named for Abiathar' (paralleling Mark 12:26's ἐπὶ τοῦ βάτου 'in the burning-bush passage'); (3) both shared priesthood during transition; (4) a variant reading. SBLGNT retains Ἀβιαθάρ as the harder reading. Jesus uses the David-precedent to defend disciples' sabbath plucking — human need supersedes ritual boundary."
+    },
+    "MRK 3:13": {
+      "type": "echo",
+      "source": "EXO 24:1",
+      "greek_matches": "thematic",
+      "notes": "Jesus ascending the mountain to call the Twelve echoes Moses ascending Sinai to establish the covenant people (Exod 24:1-11). Mark's 'he went up the mountain and called whom he wanted' carries Moses-typology — the new people-of-God being constituted on a mountain by the Son."
+    },
+    "MRK 4:12": {
+      "type": "citation",
+      "source": "ISA 6:9-10",
+      "greek_matches": "Targum-influenced",
+      "notes": "Mark's quotation diverges from LXX Isa 6:9–10 in a crucial way: LXX ends with ἰάσομαι αὐτούς ('I will heal them'); Mark has ἀφεθῇ αὐτοῖς ('it might be forgiven them'). This aligns with Targum Jonathan on Isa 6:10, suggesting Mark draws on an Aramaic paraphrase tradition rather than pure LXX. The substitution 'forgive' for 'heal' theologically reads physical restoration as spiritual forgiveness. Famous 'parables harden' crux (matt 13:13, Luke 8:10 soften; Mark preserves the sharpness)."
+    },
+    "MRK 4:29": {
+      "type": "citation",
+      "source": "JOL 3:13",
+      "greek_matches": "LXX",
+      "notes": "Mark 4:29 'εὐθὺς ἀποστέλλει τὸ δρέπανον, ὅτι παρέστηκεν ὁ θερισμός' directly echoes Joel 3:13 LXX (4:13 LXX numbering: ἐξαποστείλατε δρέπανα, ὅτι παρέστηκεν τρυγητός). Isa 17:5 provides secondary resonance. The harvest-sickle is standard OT imagery for eschatological divine judgment (cf. Rev 14:14-16). The parable's force: between sowing and reaping is hidden divine growth, which crashes into visibility at harvest."
+    },
+    "MRK 4:3": {
+      "type": "echo",
+      "source": "DEU 6:4",
+      "greek_matches": "thematic",
+      "notes": "Jesus's opening 'Listen!' (Ἀκούετε) echoes the Shema's opening imperative (Deut 6:4 'Hear, O Israel'). The Parable of the Sower is structured as Jesus's own Shema — a call to covenant-listening that becomes the criterion for understanding all his parables (v.13)."
+    },
+    "MRK 4:32": {
+      "type": "allusion",
+      "sources": [
+        "EZK 17:23",
+        "EZK 31:6",
+        "DAN 4:12"
+      ],
+      "greek_matches": "imagery",
+      "notes": "Mustard seed's birds-in-shade imagery alludes to OT cosmic-tree texts where birds-of-heaven dwelling in a great tree's branches = nations finding refuge in an empire (Ezek 17:23 Davidic cedar; Ezek 31:6 Assyrian cedar; Dan 4:12 Nebuchadnezzar's tree). Jesus subversively downgrades the cosmic cedar to a humble garden bush — but the refuge-for-nations sense is preserved."
+    },
+    "MRK 4:41": {
+      "type": "allusion",
+      "source": "PSA 89:9",
+      "greek_matches": "thematic",
+      "notes": "The disciples' 'Who is this?' invokes OT sea-subduing theophany: Ps 89:8-9 ('O LORD God of hosts, who is like you? You still the raging of the sea'); Ps 107:29 ('he stilled the storm to a whisper'); Job 38:8-11 (YHWH sets bounds to the sea). For first-century Jews, only YHWH commands the sea. Mark places this Christological question at the climax of ch.4 to force the same confession the centurion will voice at 15:39 ('Truly this was the Son of God'). THEME CLOSURE: ch.4 opens with 'Listen!' (v.3) and closes with 'the wind and sea OBEY' (ὑπακούει = 'hear-under') — creation hears what the disciples struggle to."
+    },
+    "MRK 6:23": {
+      "type": "allusion",
+      "source": "EST 5:3",
+      "greek_matches": "narrative-echo",
+      "notes": "Herod's 'up to half my kingdom' oath echoes Est 5:3, 5:6, 7:2 (Ahasuerus to Esther). Mark's ironic reversal: in Esther the formula saves Jewish lives; here it costs a prophet's. The escalation v.22 casual offer → v.23 sworn oath traps Herod in front of his court."
+    },
+    "MRK 6:34": {
+      "type": "allusion",
+      "source": "NUM 27:17",
+      "greek_matches": "LXX",
+      "notes": "Jesus's compassion at 'sheep without a shepherd' (ὡς πρόβατα μὴ ἔχοντα ποιμένα) tracks Num 27:17 LXX (ὡσεὶ πρόβατα οἷς οὐκ ἔστιν ποιμήν). Secondary allusions: 1 Kgs 22:17; Ezek 34:5; Zech 10:2. Num 27 is Joshua's commissioning as new-shepherd of Israel — Jesus as new-Joshua leading the wilderness-people-who-need-a-shepherd. σπλαγχνίζομαι (compassion) is Mark's signature verb for Jesus's shepherd-instinct. The chapter opened with rejection in his hometown; it ends with overflowing compassion for strangers."
+    },
+    "MRK 6:48": {
+      "type": "composite_allusion",
+      "sources": [
+        "JOB 9:8",
+        "EXO 33:22",
+        "1KI 19:11"
+      ],
+      "greek_matches": "LXX-theophanic",
+      "notes": "Walking-on-water + 'wished to pass them by' is layered OT theophany-language. (1) Job 9:8 LXX — only YHWH treads on the sea. (2) Exod 33:19, 22 — God 'passes by' Moses on the rock; Mark's παρελθεῖν echoes LXX παρελεύσομαι. (3) 1 Kgs 19:11 LXX — God 'passes by' (παρελεύσεται) Elijah at Horeb. Jesus's walking-on-water is a deliberate theophanic enactment: doing what YHWH does in OT theophanies, using OT theophany-vocabulary. The disciples nearly recognize the supernatural quality but misinterpret it as apparition (v.49). Fourth-watch timing (3-6 AM) after ~9 hours of rowing against the wind places the miracle at maximum exhaustion."
+    },
+    "MRK 6:50": {
+      "type": "composite_allusion",
+      "sources": [
+        "EXO 3:14",
+        "ISA 41:4"
+      ],
+      "greek_matches": "LXX-divine-self-identification",
+      "notes": "ἐγώ εἰμι: Mark's most theologically charged self-disclosure. Echoes Exod 3:14 LXX (God's name to Moses) and Isa 41:4 / 43:10 / 43:25 / 51:12 / 52:6 (YHWH's self-identification 'I am he' / 'I am'). Combined with v.48's theophanic 'pass by' and walking-on-water (Job 9:8), Mark constructs a sustained YHWH-self-revelation tableau. The disciples should hear: this is GOD revealing himself in the storm. Their non-recognition (v.52 hearts hardened) is the tragedy. CHRISTOLOGICAL CRUX: Mark 6:50 is load-bearing for the high Christology — Jesus does what only YHWH does, says what only YHWH says. Thai 'เราเอง' dual-functions as natural self-identifier AND emphatic 'I AM.'"
+    },
+    "MRK 6:52": {
+      "type": "echo",
+      "source": "EXO 7:3",
+      "greek_matches": "LXX-vocabulary",
+      "notes": "πωρόω/πώρωσις (heart-hardness) carries Exodus-vocabulary — originally Pharaoh-language (Exod 7:3; 8:15; 9:12). Mark applies it to the Twelve, their Pharaoh-level resistance to repeated revelation. Paul picks up the same word-family for unbelieving Israel (Rom 11:25). Mark's theological point: the gospel doesn't assume the disciples' unique virtue — they too need the hardening broken open by repeated revelation."
+    },
+    "MRK 7:10": {
+      "type": "composite_citation",
+      "sources": [
+        "EXO 20:12",
+        "DEU 5:16",
+        "EXO 21:17",
+        "LEV 20:9"
+      ],
+      "greek_matches": "LXX",
+      "notes": "Two OT citations paired: (1) the 5th commandment to honor parents (Exod 20:12 / Deut 5:16); (2) the death penalty for parental cursing (Exod 21:17 / Lev 20:9). Both quotations align with LXX. Jesus pairs them deliberately to show that the Mosaic obligation toward parents is non-negotiable — a positive command and a negative sanction together establishing unchallengeable weight. The Corban-loophole in vv.11–12 violates BOTH the command and undermines the sanction."
+    },
+    "MRK 7:32": {
+      "type": "allusion",
+      "source": "ISA 35:6",
+      "greek_matches": "LXX",
+      "notes": "The rare word μογιλάλος ('hardly able to speak') used to describe the brought-to-Jesus man echoes LXX Isa 35:6 directly: 'τρανὴ ἔσται γλῶσσα μογιλάλων' ('the tongue of the dumb shall sing for joy'). Combined with κωφός (deaf, Isa 35:5 LXX 'the ears of the deaf'), Mark deliberately marks this healing as fulfillment of Isa 35's Messianic-restoration promises. μογιλάλος is rare in all of Greek literature — Mark's choice is not casual. Sets up v.37."
+    },
+    "MRK 7:35": {
+      "type": "allusion",
+      "source": "ISA 35:5",
+      "greek_matches": "LXX",
+      "notes": "Isa 35:5-6 Messianic-age healing-promise: 'the eyes of the blind shall be opened, and the ears of the deaf shall be unstopped... the tongue of the dumb (μογιλάλων) shall sing for joy.' Mark's vocabulary tracks Isaiah's promised restoration precisely (μογιλάλος is a LXX hapax shared with Isa 35:6). The instantaneous reversal — ears opened, tongue loosed, plain speech — enacts the Messianic age. Double passive (ἠνοίγησαν, ἐλύθη) is divine-passive: agency is Jesus's-command-as-God's-power."
+    },
+    "MRK 7:37": {
+      "type": "double_allusion",
+      "sources": [
+        "GEN 1:31",
+        "ISA 35:5-6"
+      ],
+      "greek_matches": "LXX",
+      "notes": "Crowd's confession 'πάντα καλῶς πεποίηκεν' (he has done all things well) echoes Gen 1:31 LXX 'εἶδεν ὁ θεὸς τὰ πάντα ὅσα ἐποίησεν, καὶ ἰδοὺ καλὰ λίαν' — attributing creational-good language to Jesus' deeds. The specifics 'makes the deaf hear and the mute speak' echo Isa 35:5–6 LXX Messianic-restoration signs (ἀκούσονται κωφοί, γλῶσσα μογιλάλων / ἀλάλων). Together: Mark frames Jesus' Gentile-territory ministry as both new-creational (Gen 1) and Messianic-restorative (Isa 35). The Gentile crowd is unwittingly orthodox — confessing what the religious establishment of vv.1–13 refused to see."
+    },
+    "MRK 7:6": {
+      "type": "citation",
+      "source": "ISA 29:13",
+      "greek_matches": "LXX",
+      "notes": "Jesus quotes Isa 29:13 LXX closely. The MT differs ('their fear of me is a commandment of men learned by rote'); the LXX phrasing 'in vain do they worship me, teaching as doctrines the commandments of men' is what Jesus' argument depends on. One of the clearer cases in Mark where the citation specifically tracks LXX rather than MT — confirms Mark's audience reads Greek scripture. Full citation runs vv.6b–7."
+    },
+    "MRK 7:7": {
+      "type": "citation",
+      "source": "ISA 29:13",
+      "greek_matches": "LXX",
+      "notes": "Continuation of Isa 29:13 LXX citation begun in v.6. Note: Mark's word order (διδασκαλίας ἐντάλματα ἀνθρώπων) differs slightly from standard LXX (ἐντάλματα ἀνθρώπων καὶ διδασκαλίας) — either a textual variant of LXX known to Mark or Mark's free citation. Theological force unchanged."
+    },
+    "MRK 8:18": {
+      "type": "allusion",
+      "sources": [
+        "JER 5:21",
+        "EZK 12:2"
+      ],
+      "greek_matches": "LXX-influenced echo",
+      "notes": "Echo of Jer 5:21 LXX (ὀφθαλμοὶ αὐτοῖς καὶ οὐ βλέπουσιν, ὦτα αὐτοῖς καὶ οὐκ ἀκούουσιν) and Ezek 12:2 LXX (similar phrasing). Both prophetic indictments of apostate Israel; Mark reapplies them to the Twelve. Also resonates with Isa 6:9–10 (already cited at Mark 4:12). The intertextual jolt is theologically devastating: the disciples function as Jesus' 'outsiders.' Inner-quotes used in Thai output to mark the OT echo."
+    },
+    "MRK 8:31": {
+      "type": "allusion",
+      "sources": [
+        "HOS 6:2"
+      ],
+      "greek_matches": "LXX-paraphrase",
+      "notes": "μετὰ τρεῖς ἡμέρας ἀναστῆναι ('after three days rise') possible echo of Hos 6:2 LXX μετὰ δύο ἡμέρας ... ἐν τῇ ἡμέρᾳ τῇ τρίτῃ ἀναστησόμεθα ('after two days...on the third day we shall rise'). Mark's 'after three days' is the harder reading; Matt/Luke harmonize to 'on the third day' (more directly matching Hos 6:2's day-three). ἀποδοκιμασθῆναι in same verse echoes Ps 118:22 LXX (cited later at Mark 12:10)."
+    },
+    "MRK 8:37": {
+      "type": "allusion",
+      "sources": [
+        "PSA 49:7-8"
+      ],
+      "greek_matches": "wisdom-paraphrase",
+      "notes": "Echo of Ps 49:7–8 (LXX 48:8–9): 'no man can ransom his brother, or give to God a price for his life ... for the ransom of their soul is costly.' Wisdom-tradition allusion shaping Jesus' rhetorical impossibility. Not direct citation."
+    },
+    "MRK 8:38": {
+      "type": "allusion",
+      "sources": [
+        "DAN 7:13-14",
+        "ZEC 14:5"
+      ],
+      "greek_matches": "composite",
+      "notes": "Son-of-Man-coming-in-glory-with-holy-ones combines Dan 7:13–14 LXX (eschatological Son of Man receiving dominion) with Zech 14:5 LXX (YHWH 'comes with all the holy ones'). The 'holy ones' tradition shifts from heavenly-host (Zech) to angels (Mark) — both Jewish-apocalyptic categories blending. First explicit 'Father' (πατήρ) reference Jesus makes of himself in Mark — opens the Son-Father christological depth that unfolds in Mark 9 (Transfiguration) and 14:36 (Gethsemane Abba)."
+    },
+    "MRK 9:11": {
+      "type": "allusion",
+      "source": "MAL 4:5",
+      "greek_matches": "thematic",
+      "notes": "Disciples' question invokes the scribal doctrine derived from Mal 4:5-6 (Mal 3:23-24 Heb.): Elijah must come before the Messiah. Having just seen Elijah on the mountain (v.4), they ask whether the prophecy is fulfilled in what they just witnessed, or whether there is a future-Elijah. Jesus's reply (vv.12-13) identifies John the Baptist as the fulfillment (cf. Mark 1:6 — John's dress explicitly echoes Elijah's 2 Kgs 1:8 LXX)."
+    },
+    "MRK 9:12": {
+      "type": "composite_allusion",
+      "sources": [
+        "ISA 53:3",
+        "PSA 22:6"
+      ],
+      "greek_matches": "LXX-echo",
+      "notes": "Jesus's question about the Son of Man being 'treated with contempt' (ἐξουδενηθῇ, hapax in Mark) echoes the Suffering-Servant rejection language of Isa 53:3 LXX and Ps 22:6 LXX (related form ἐξουθενέω). The Suffering-Servant and Suffering-Son-of-Man strands are here fused, preparing the Passion narrative. Jesus's reply holds the Elijah-prophecy AND the suffering-Son-of-Man in tension — both are 'written,' so there is no dilemma, only a sequence."
+    },
+    "MRK 9:19": {
+      "type": "allusion",
+      "source": "DEU 32:5",
+      "greek_matches": "LXX-echo",
+      "notes": "γενεὰ ἄπιστος inherits Deuteronomic-exodus charge of Israel's wilderness-disobedience: Deut 32:5 (Song of Moses: 'crooked and perverse generation' γενεὰ σκολιὰ καὶ διεστραμμένη); also Deut 32:20; Ps 95:10 LXX (Heb 3:10). Jesus's exasperation encompasses disciples, crowd, scribes, father — the 'generation' of the present age fails to trust."
+    },
+    "MRK 9:2": {
+      "type": "allusion",
+      "source": "EXO 24:16",
+      "greek_matches": "LXX-narrative",
+      "notes": "Six-day delay echoes Exod 24:15-16 (Moses on Sinai: six days of waiting, then YHWH's voice on the seventh). Jesus takes the inner-three — Peter, James, John — the same three who will sleep in Gethsemane (14:33). The Transfiguration narratively confirms 8:38 ('the Son of Man will come in the glory of his Father'): here that glory is momentarily unveiled. The Moses-typology runs throughout (mountain, cloud, voice, glory)."
+    },
+    "MRK 9:3": {
+      "type": "allusion",
+      "source": "DAN 7:9",
+      "greek_matches": "LXX-apocalyptic",
+      "notes": "Two hapax in a single verse (στίλβω 'shine-radiantly', γναφεύς 'launderer') render the heavenly-whiteness superlatively. Parallels: Dan 7:9 LXX (Ancient of Days: τὸ ἔνδυμα αὐτοῦ ὡσεὶ χιὼν λευκόν 'his clothing white as snow') and Dan 10:6 (man-clothed-in-linen with body στίλβοντος as beryl). Mark's diction evokes apocalyptic theophany — Jesus visually identified with the Dan 7 divine-figure."
+    },
+    "MRK 9:31": {
+      "type": "allusion",
+      "source": "HOS 6:2",
+      "greek_matches": "LXX-timing",
+      "notes": "Second passion prediction. 'Third day' resurrection timing echoes Hos 6:2 LXX (ἐν τῇ ἡμέρᾳ τῇ τρίτῃ ἀναστησόμεθα 'on the third day we shall rise'). Structural counterpart to 8:31 and 10:33-34. παραδίδοται (present tense 'is being handed over') more imminent than 8:31's δεῖ παθεῖν. Son-of-Man/hands-of-men wordplay (υἱὸς ἀνθρώπου → χεῖρας ἀνθρώπων) preserved in Thai 'บุตรมนุษย์/มือของมนุษย์.'"
+    },
+    "MRK 9:48": {
+      "type": "citation",
+      "source": "ISA 66:24",
+      "greek_matches": "LXX",
+      "notes": "Direct citation of Isa 66:24 LXX: ὁ σκώληξ αὐτῶν οὐ τελευτήσει, καὶ τὸ πῦρ αὐτῶν οὐ σβεσθήσεται ('their worm will not die, and their fire will not be quenched'). Mark's wording matches the LXX so precisely that it functions as a citation, though not formally-introduced. Isa 66:24 is the culmination of Isaiah's prophecy — the eschatological judgment where the wicked are consumed perpetually. σκώληξ is a Markan hapax. THEOLOGICALLY: worm + fire is metaphoric imagery for continuous judgment, not necessarily literal."
+    },
+    "MRK 9:49": {
+      "type": "allusion",
+      "source": "LEV 2:13",
+      "greek_matches": "LXX-conceptual",
+      "notes": "TEXTUAL VARIANT: SBLGNT reads the shorter πᾶς γὰρ πυρὶ ἁλισθήσεται ('every one will be salted with fire'). Many Byz witnesses add 'καὶ πᾶσα θυσία ἁλὶ ἁλισθήσεται' ('and every sacrifice will be salted with salt' — Lev 2:13 echo). The shorter SBLGNT reading is almost certainly original (א B L W Δ f¹); the longer is a scribal harmonization. Lev 2:13 (salt-of-the-covenant in sacrifice) is the conceptual background regardless of which reading is preserved. vv.43-48's Gehenna-fire warnings are summarized by v.49's universal-salting — fire of trial preserves by testing (cf. 1 Pet 1:7; 4:12-13)."
+    },
+    "MRK 9:7": {
+      "type": "composite_citation",
+      "sources": [
+        "DEU 18:15",
+        "PSA 2:7",
+        "ISA 42:1"
+      ],
+      "greek_matches": "LXX-composite",
+      "notes": "The divine voice combines: Deut 18:15 LXX (αὐτοῦ ἀκούσεσθε 'you shall listen to him' — the prophet-like-Moses); Ps 2:7 (Davidic-royal 'you are my son'); Isa 42:1 (servant-beloved ὁ ἐκλεκτός μου). Command 'hear him' (ἀκούετε αὐτοῦ) is the transfiguration climax: Jesus supersedes Law-and-Prophets (embodied by Moses and Elijah present) as THE one to be heard. The cloud (Shekhinah) evokes Exod 24 + Exod 40:34 + Num 7:89 theophany-sequence. Not 'one of three' (as Peter proposed in v.5) but the unique Son."
+    },
+    "MAT 10:6": {
+      "type": "composite_background_allusion",
+      "sources": [
+        "JER 50:6",
+        "EZE 34:4-16"
+      ],
+      "greek_matches": "LXX-paraphrase",
+      "notes": "πρόβατα ἀπολωλότα οἴκου Ἰσραήλ echoes LXX Jer 50:6 πρόβατα ἀπολωλότα ἐγένετο ὁ λαός μου ('my people have become lost sheep') and Ezek 34:4-6, 34:16 (shepherdless-scattered-sheep imagery — the prophetic critique of Israel's leadership). Matthew repurposes the prophetic complaint-imagery to frame Jesus's mission: Israel is the lost-sheep nation, and the Twelve are sent as gatherers. Phrase reappears at Matt 15:24 applied to Jesus's own self-described mission."
+    },
+    "MAT 10:13": {
+      "type": "background_allusion",
+      "source": "ISA 55:11",
+      "greek_matches": "thematic",
+      "notes": "The returning-peace concept (if the house is not worthy, your peace returns to you) reflects Isa 55:11 LXX-tradition: 'my word shall not return to me empty' — pronounced blessings/words are efficacious, binding-to-recipient or reverting-to-sender, never void. Jewish cultural-liturgical background treats pronounced blessings as performatively-effective (Gen 27 Isaac's blessing as irrevocable)."
+    },
+    "MAT 10:15": {
+      "type": "background_allusion",
+      "source": "GEN 19:1-29",
+      "greek_matches": "thematic",
+      "notes": "Sodom and Gomorrah invoked as the OT archetype of divine-judgment on wicked cities. Wider biblical trajectory of the Sodom-judgment-formula: Deut 29:23; Isa 1:9-10; Jer 23:14; Amos 4:11. Jesus appropriates the judgment-archetype for rhetorical intensification: towns that reject the kingdom-message face judgment worse than Sodom's — because greater revelation creates greater accountability. Thematic-parallel with Matt 11:20-24 (woes on Galilean cities)."
+    },
+    "MAT 10:21": {
+      "type": "background_allusion",
+      "source": "MIC 7:6",
+      "greek_matches": "thematic-foreshadow",
+      "notes": "Foreshadows the explicit MIC 7:6 citation at Matt 10:35-36. The family-betrayal prophecy ('brother will betray brother to death') anticipates the explicit Micah-quotation three verses later. Mic 7:6 was cited in Jewish apocalyptic tradition (m. Sotah 9:15; b. Sanhedrin 97a; 4 Ezra 5:9; 2 Baruch 70:3-7) as a sign of the Messianic age's birth-pangs — Jesus inscribes his mission within this prophetic-apocalyptic frame."
+    },
+    "MAT 10:35": {
+      "type": "citation",
+      "source": "MIC 7:6",
+      "greek_matches": "LXX-paraphrase",
+      "notes": "Explicit Micah 7:6 citation, paraphrased not quoted-verbatim. LXX Mic 7:6: υἱὸς ἀτιμάζει πατέρα, θυγάτηρ ἐπαναστήσεται ἐπὶ τὴν μητέρα αὐτῆς, νύμφη ἐπὶ τὴν πενθερὰν αὐτῆς, ἐχθροὶ ἀνδρὸς οἱ ἐν τῷ οἴκῳ αὐτοῦ ('a son dishonors father, a daughter rises against her mother, a bride against her mother-in-law; a man's enemies are those in his house'). Matthew's verbal-form uses διχάσαι (HAPAX in NT) instead of LXX ἐπαναστήσεται — paraphrastic rendering. Mic 7:6 was cited in Jewish apocalyptic tradition as Messianic-age sign; Jesus claims fulfillment by applying it to the gospel's divisive-effect."
+    },
+    "MAT 10:36": {
+      "type": "citation",
+      "source": "MIC 7:6",
+      "greek_matches": "LXX-verbatim",
+      "notes": "Continuation/completion of MIC 7:6 citation begun at Matt 10:35. The clause καὶ ἐχθροὶ τοῦ ἀνθρώπου οἱ οἰκιακοὶ αὐτοῦ is a close-verbatim rendering of LXX Mic 7:6c ἐχθροὶ ἀνδρὸς οἱ ἐν τῷ οἴκῳ αὐτοῦ. Matthew substitutes οἰκιακοί 'household-members' for LXX's οἱ ἐν τῷ οἴκῳ 'those in his house' — lexical tightening without semantic change. Together vv.35-36 form the Matthean appropriation of Mic 7:6 as Christological-fulfillment of the Messianic-age family-upheaval prophecy."
+    },
+    "MAT 10:22": {
+      "type": "background_allusion",
+      "source": "DAN 9:19",
+      "greek_matches": "thematic",
+      "notes": "The 'for my name's sake' (διὰ τὸ ὄνομά μου) formula echoes the OT prayer-language of Dan 9:19 LXX (ἕνεκεν τοῦ ὀνόματός σου 'for your name's sake') — intercessory-prayer pleading God's own-name-honor as ground for divine-action. Jesus inverts: now his own name is the ground for which disciples suffer, claiming divine-name-authority. The formula is picked up by early apostolic consciousness: Acts 5:41 (apostles rejoicing to suffer 'for the name'); 3 John 7 ('for the sake of the name they went out'). Thematic-allusion only; no direct verbal-citation."
     }
   }
 }

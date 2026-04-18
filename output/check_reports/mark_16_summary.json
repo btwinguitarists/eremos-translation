@@ -33,8 +33,8 @@
     {
       "name": "Back-translation",
       "exit_code": 0,
-      "report": "back_translations/mark_16_PROMPT.md",
-      "notes": "pending — Claude should produce back-translations per prompt",
+      "report": "(skipped)",
+      "notes": "skipped via --skip-back-translation",
       "status": "clean"
     },
     {
