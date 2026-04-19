@@ -759,6 +759,18 @@
       },
       "occurrences_count": 1
     },
+    "Γολγοθᾶ": {
+      "primary_thai": "กลโกธา",
+      "all_renderings": {
+        "กลโกธา": [
+          {
+            "verse": "Matthew 27:33",
+            "rationale": "Per glossary: Γολγοθᾶ → กลโกธา (established standard Thai Christian transliteration; Aramaic גֻּלְגָּלְתָּא 'skull'). Per uW translate-transliterate: Matthew transliterates the Aramaic, then explains. We do the same in Thai"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "Γολγοθᾶν τόπον": {
       "primary_thai": "ที่แห่งหนึ่งชื่อกลโกธา",
       "all_renderings": {
@@ -1797,6 +1809,30 @@
       },
       "occurrences_count": 1
     },
+    "Θεέ μου θεέ μου,ἱνατί με ἐγκατέλιπες": {
+      "primary_thai": "พระเจ้าของข้าพระองค์ พระเจ้าของข้าพระองค์ ไฉนพระองค์ทรงทอดทิ้งข้าพระองค์",
+      "all_renderings": {
+        "พระเจ้าของข้าพระองค์ พระเจ้าของข้าพระองค์ ไฉนพระองค์ทรงทอดทิ้งข้าพระองค์": [
+          {
+            "verse": "Matthew 27:46",
+            "rationale": "Verbatim Ps 22:1 LXX (ὁ θεὸς ὁ θεός μου, πρόσχες μοι· ἵνα τί ἐγκατέλιπές με). Royal-addressee พระองค์ for God; humble first-person ข้าพระองค์ for Jesus speaking to Father. ทรงทอดทิ้ง with divine-passive"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Θεοῦ εἰμι υἱός": {
+      "primary_thai": "เราเป็นพระบุตรของพระเจ้า",
+      "all_renderings": {
+        "เราเป็นพระบุตรของพระเจ้า": [
+          {
+            "verse": "Matthew 27:43",
+            "rationale": "Per uW guidelines-sonofgodprinciples: Christ-title preserved. Thai พระบุตรของพระเจ้า standard"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "Θυγάτηρ": {
       "primary_thai": "ลูกหญิงเอ๋ย",
       "all_renderings": {
@@ -2012,6 +2048,18 @@
           {
             "verse": "Matthew 9:29",
             "rationale": "κατά + accusative 'according to.' γενηθήτω aorist-passive-imperative-3sg 'let-it-happen.' Per uW figs-imperative3p: third-person-imperative rendered as permissive-imperative. Thai จงเป็นไป...เถิด (let-it-go-forth) natural. Royal downgraded พวกเจ้า continues."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Κατὰ...ἑορτὴν": {
+      "primary_thai": "ในเทศกาลนั้น",
+      "all_renderings": {
+        "ในเทศกาลนั้น": [
+          {
+            "verse": "Matthew 27:15",
+            "rationale": "ἑορτή = the festival (= Passover specifically per uW figs-explicit). Distributive κατά = at-each-feast / at-the-feast. Per uW writing-background: Matthew is providing background information"
           }
         ]
       },
@@ -2251,6 +2299,18 @@
       },
       "occurrences_count": 1
     },
+    "Κρανίου Τόπος": {
+      "primary_thai": "ที่กะโหลกศีรษะ",
+      "all_renderings": {
+        "ที่กะโหลกศีรษะ": [
+          {
+            "verse": "Matthew 27:33",
+            "rationale": "κρανίον = skull. The Greek translation Matthew supplies. Thai กะโหลกศีรษะ is standard. The site was likely so named for skull-shaped rocky outcropping; Latin tradition Calvaria → English 'Calvary'"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "Κύριε": {
       "primary_thai": "พระองค์เจ้าข้า",
       "all_renderings": {
@@ -2315,9 +2375,15 @@
             "verse": "Matthew 25:20",
             "rationale": "Servant to human master within parable; standard humble address (matches v.11 bridegroom address, Mat 24:45 servant context)"
           }
+        ],
+        "นายท่าน": [
+          {
+            "verse": "Matthew 27:63",
+            "rationale": "Per uW writing-politeness: κύριε here = polite address to governor (NOT divine 'Lord'). Thai นายท่าน captures the formal-political address. Not the divine pantheon-honorific คุณ-พระองค์"
+          }
         ]
       },
-      "occurrences_count": 13
+      "occurrences_count": 14
     },
     "Κύριε κύριε": {
       "primary_thai": "‹องค์พระผู้เป็นเจ้า องค์พระผู้เป็นเจ้า›",
@@ -2677,6 +2743,30 @@
       },
       "occurrences_count": 1
     },
+    "Μαρία ἡ Μαγδαληνὴ": {
+      "primary_thai": "มารีย์ชาวมักดาลา",
+      "all_renderings": {
+        "มารีย์ชาวมักดาลา": [
+          {
+            "verse": "Matthew 27:56",
+            "rationale": "Per glossary established in Mark: standard Thai Christian rendering. NOT the mother of Jesus, NOT Mary of Bethany"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Μαρία ἡ τοῦ Ἰακώβου καὶ Ἰωσὴφ μήτηρ": {
+      "primary_thai": "มารีย์มารดาของยากอบและโยเซฟ",
+      "all_renderings": {
+        "มารีย์มารดาของยากอบและโยเซฟ": [
+          {
+            "verse": "Matthew 27:56",
+            "rationale": "Per uW translate-names: distinct from other Marys. James → ยากอบ; Joseph → โยเซฟ (different from Joseph of Arimathea, v.57)"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "Μαρία ἡ Ἰακώβου τοῦ μικροῦ καὶ Ἰωσῆτος μήτηρ": {
       "primary_thai": "มารีย์มารดาของยากอบน้อยและของโยเสส",
       "all_renderings": {
@@ -2725,6 +2815,18 @@
       },
       "occurrences_count": 1
     },
+    "Μαριὰμ ἡ Μαγδαληνὴ καὶ ἡ ἄλλη Μαρία": {
+      "primary_thai": "มารีย์ชาวมักดาลาและมารีย์อีกคนหนึ่ง",
+      "all_renderings": {
+        "มารีย์ชาวมักดาลาและมารีย์อีกคนหนึ่ง": [
+          {
+            "verse": "Matthew 27:61",
+            "rationale": "Per uW figs-explicit: 'the other Mary' = Mary mother of James and Joseph (v.56). Note: Matthew uses Μαριάμ (Hebrew form) here vs. Μαρία (Greek form) in v.56 — interchangeable in usage"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "Μετανοεῖτε": {
       "primary_thai": "จงกลับใจใหม่เถิด",
       "all_renderings": {
@@ -2740,6 +2842,18 @@
         ]
       },
       "occurrences_count": 2
+    },
+    "Μετὰ τρεῖς ἡμέρας ἐγείρομαι": {
+      "primary_thai": "หลังจากสามวันเราจะเป็นขึ้นมา",
+      "all_renderings": {
+        "หลังจากสามวันเราจะเป็นขึ้นมา": [
+          {
+            "verse": "Matthew 27:63",
+            "rationale": "Per uW figs-quotesinquotes: quotation-within-quotation preserved. Per uW translate-tense: present ἐγείρομαι with future force; render Thai future จะเป็นขึ้นมา. The leaders correctly recall Jesus's resurrection-prediction (16:21, 17:23, 20:19)"
+          }
+        ]
+      },
+      "occurrences_count": 1
     },
     "Μετὰ τὴν μετοικεσίαν Βαβυλῶνος": {
       "primary_thai": "หลังจากการถูกกวาดต้อนไปยังบาบิโลน",
@@ -2772,6 +2886,18 @@
           {
             "verse": "Mark 8:26",
             "rationale": "Per uW figs-yousingular: addressee is the singular man; aorist subjunctive prohibition. Thai 'อย่า ... เลย' intensifies the prohibition."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Μηδὲν σοὶ καὶ τῷ δικαίῳ ἐκείνῳ": {
+      "primary_thai": "อย่าทำอะไรกับท่านผู้ชอบธรรมนั้นเลย",
+      "all_renderings": {
+        "อย่าทำอะไรกับท่านผู้ชอบธรรมนั้นเลย": [
+          {
+            "verse": "Matthew 27:19",
+            "rationale": "Per uW figs-idiom: 'nothing-to-you-and-that-righteous-one' = avoid involvement. δίκαιος = righteous. Thai ผู้ชอบธรรม preserves the moral-legal vindication. Strikingly, a Gentile woman recognizes Jesus's righteousness"
           }
         ]
       },
@@ -3565,6 +3691,18 @@
       },
       "occurrences_count": 1
     },
+    "Οὐκ ἔξεστιν": {
+      "primary_thai": "ไม่ชอบด้วยธรรมบัญญัติ",
+      "all_renderings": {
+        "ไม่ชอบด้วยธรรมบัญญัติ": [
+          {
+            "verse": "Matthew 27:6",
+            "rationale": "ἔξεστιν = it-is-permitted (legal term). Per uW: refers to Mosaic-law / temple-regulation prohibition. Thai ชอบด้วยธรรมบัญญัติ specifies the legal-religious basis (cf. Deut 23:18 — abominable price not into the treasury)"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "Οὐκ ἔστιν καλὸν": {
       "primary_thai": "ไม่เป็นการสมควร",
       "all_renderings": {
@@ -3776,6 +3914,18 @@
           {
             "verse": "Mark 7:6",
             "rationale": "OT CITATION: Isa 29:13 LXX — Jesus quotes Greek Isaiah closely. Per uW figs-metonymy on χείλη: 'lips' = speech. Thai 'นับถือเราแต่ปาก' (revere-me-only-mouth) preserves the metonymy ('only with the mouth' = lip-service). τιμάω = honor/revere; Thai 'นับถือ' is the standard term for religious-honor (also used of revering elders/ancestors in Thai culture — apt resonance). Note: 'me ... me' refers to God speaking through Isaiah; Jesus applies God's first-person voice to himself indirectly by citation."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Οὗτός ἐστιν Ἰησοῦς ὁ βασιλεὺς τῶν Ἰουδαίων": {
+      "primary_thai": "นี่คือเยซู กษัตริย์ของชาวยิว",
+      "all_renderings": {
+        "นี่คือเยซู กษัตริย์ของชาวยิว": [
+          {
+            "verse": "Matthew 27:37",
+            "rationale": "Per uW figs-irony: Romans intended mockery; but the charge unwittingly proclaims truth. Thai เยซู (without honorific พระ-) preserves the inscription's mocking tone — the Romans wrote it to ridicule, not to honor"
           }
         ]
       },
@@ -4117,6 +4267,18 @@
       },
       "occurrences_count": 1
     },
+    "Πιλάτῳ τῷ ἡγεμόνι": {
+      "primary_thai": "ปีลาตผู้ว่าราชการ",
+      "all_renderings": {
+        "ปีลาตผู้ว่าราชการ": [
+          {
+            "verse": "Matthew 27:2",
+            "rationale": "Πιλᾶτος → ปีลาต (standard Thai Christian transliteration; established here as glossary entry). ἡγεμών → ผู้ว่าราชการ (Roman provincial-governor); Pilate's actual title was 'praefectus' but ἡγεμών is the generic Greek term"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "Πιστεύετε ὅτι δύναμαι τοῦτο ποιῆσαι": {
       "primary_thai": "พวกเจ้าเชื่อหรือว่าเราสามารถทำสิ่งนี้ได้",
       "all_renderings": {
@@ -4370,6 +4532,18 @@
           {
             "verse": "Matthew 21:18",
             "rationale": "πρωΐ (12x) \"early-morning\" — distinct from ὄρθρος (dawn) and ὀψίας (evening). Established Matt 16:3 (\"morning\"), 20:1 ἅμα πρωΐ (daybreak)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Πρωΐας...γενομένης": {
+      "primary_thai": "เมื่อรุ่งเช้า",
+      "all_renderings": {
+        "เมื่อรุ่งเช้า": [
+          {
+            "verse": "Matthew 27:1",
+            "rationale": "Genitive absolute temporal clause. Same construction as Mat 26:20 (Ὀψίας...γενομένης). Matthew bookends the Gethsemane night with evening→morning"
           }
         ]
       },
@@ -4775,6 +4949,22 @@
       },
       "occurrences_count": 1
     },
+    "Σταυρωθήτω": {
+      "primary_thai": "จงตรึงเขาที่กางเขน",
+      "all_renderings": {
+        "จงตรึงเขาที่กางเขน": [
+          {
+            "verse": "Matthew 27:22",
+            "rationale": "Per uW figs-imperative3p + figs-activepassive: third-person passive imperative. RULES.md §4 σταυρόω → ตรึง...ที่กางเขน. Object 'เขา' (him) — neutral/distancing register from the hostile crowd's perspective (NOT divine register from the crowd's mouth — they reject Jesus's divine identity)"
+          },
+          {
+            "verse": "Matthew 27:23",
+            "rationale": "Same as v.22 — repetition is dramatic intensification"
+          }
+        ]
+      },
+      "occurrences_count": 2
+    },
     "Σταύρωσον αὐτόν": {
       "primary_thai": "ตรึงเขาที่กางเขน",
       "all_renderings": {
@@ -4842,6 +5032,18 @@
           {
             "verse": "Matthew 17:22",
             "rationale": "Per uW figs-activepassive: συστρεφομένων = present-middle participle 'gathering-themselves-together.' Genitive absolute temporal. συστρέφω (2× NT, 1× Matt) = 'gather-together, assemble.' Thai 'รวมตัวกัน' captures group-assembly. NEW GLOSSARY: συστρέφω → รวมตัวกัน."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Σὺ εἶ ὁ βασιλεὺς τῶν Ἰουδαίων": {
+      "primary_thai": "ท่านเป็นกษัตริย์ของชาวยิวหรือ",
+      "all_renderings": {
+        "ท่านเป็นกษัตริย์ของชาวยิวหรือ": [
+          {
+            "verse": "Matthew 27:11",
+            "rationale": "Pilate's question is the political-charge that Romans cared about (alleged sedition). Pilate addresses Jesus as ท่าน (formal-respectful, not honorific) — Pilate is interrogating, not worshiping"
           }
         ]
       },
@@ -4943,9 +5145,15 @@
             "verse": "Mark 15:2",
             "rationale": "KEY CRUX. Σὺ λέγεις — per uW TN figs-idiom, this is an indirect affirmation ('you say [it] yourself,' acknowledging the truth of what the other says without direct first-person affirmation). Compare Matt 26:64, 27:11; Luke 22:70, 23:3 — synoptic parallel pattern. Thai ท่านว่าแล้ว ('you have said [it]') preserves the same indirectness — neither a flat 'yes' nor a denial. Jesus acknowledges the TITLE but not the political-insurrectionist meaning Pilate presumes. Compare Mark 14:62 where Jesus answers the high priest's 'are you the Christ?' with a direct ἐγώ εἰμι — the DIFFERENCE between these two answers is theologically intentional (yes to 'Christ-Son-of-the-Blessed,' ambivalent-yes to political-'King-of-the-Jews')."
           }
+        ],
+        "ท่านพูดเองแล้ว": [
+          {
+            "verse": "Matthew 27:11",
+            "rationale": "Same idiom as 26:25 (to Judas) and 26:64 (to Caiaphas). Per uW figs-idiom: indirect affirmation. Forces the asker to own the claim. Consistent rendering across all three Matthean occurrences"
+          }
         ]
       },
-      "occurrences_count": 1
+      "occurrences_count": 2
     },
     "Σὺ...ὁ ἀγαπητός": {
       "primary_thai": "เจ้า...ที่รัก",
@@ -5014,6 +5222,18 @@
           {
             "verse": "Mark 6:24",
             "rationale": "Aorist deliberative subjunctive: 'What should I ask?' Daughter-to-mother register: 'ลูก' (child) for self-reference (a daughter calling herself 'ลูก' to her mother is intimate-affectionate). Direct quote preserved. The girl genuinely doesn't know what to request — the gruesome answer is wholly Herodias's idea."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Τί γὰρ κακὸν ἐποίησεν": {
+      "primary_thai": "ทำไม เขาได้ทำชั่วอะไร",
+      "all_renderings": {
+        "ทำไม เขาได้ทำชั่วอะไร": [
+          {
+            "verse": "Matthew 27:23",
+            "rationale": "Per uW figs-rquestion: Pilate's rhetorical question implies he doesn't think Jesus has done evil. Thai preserves question form. From Pilate's lips Jesus is referred to with neutral เขา"
           }
         ]
       },
@@ -5248,6 +5468,18 @@
           {
             "verse": "Mark 11:5",
             "rationale": "Imperfect ἔλεγον = 'were saying/asking.' The participial λύοντες functions as 'while doing this' → Thai '...ทำไม?' collapses the Greek participial question into natural Thai idiom. Register: peasant/bystander to unknown travelers, so polite neutral ท่าน without honorifics."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Τί πρὸς ἡμᾶς": {
+      "primary_thai": "เป็นเรื่องอะไรของพวกเรา",
+      "all_renderings": {
+        "เป็นเรื่องอะไรของพวกเรา": [
+          {
+            "verse": "Matthew 27:4",
+            "rationale": "Per uW figs-rquestion: priests use question-form to dismiss Judas. Not genuine inquiry. Thai เป็นเรื่องอะไรของพวกเรา is natural Thai dismissal-question"
           }
         ]
       },
@@ -5911,6 +6143,18 @@
       },
       "occurrences_count": 1
     },
+    "Τὸ αἷμα αὐτοῦ ἐφ’ἡμᾶς καὶ ἐπὶ τὰ τέκνα ἡμῶν": {
+      "primary_thai": "ให้โลหิตของเขาตกอยู่บนเราและบนลูกหลานของเรา",
+      "all_renderings": {
+        "ให้โลหิตของเขาตกอยู่บนเราและบนลูกหลานของเรา": [
+          {
+            "verse": "Matthew 27:25",
+            "rationale": "Per uW figs-idiom: blood-on-us = accept-responsibility. Thai ให้โลหิต...ตกอยู่บน preserves the OT idiom (cf. 2 Sam 1:16; Acts 18:6 the inverse). τέκνα → ลูกหลาน (descendants — uW figs-metaphor option 2)"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "Τὸ θυγάτριόν μου": {
       "primary_thai": "ลูกสาวเล็กๆ ของข้าพระองค์",
       "all_renderings": {
@@ -5978,6 +6222,18 @@
           {
             "verse": "Matthew 26:17",
             "rationale": "πρώτῃ as ordinal 'first [day]' per uW. Matches Mark 14:12 rendering"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Τῇ...ἐπαύριον,ἥτις ἐστὶν μετὰ τὴν παρασκευήν": {
+      "primary_thai": "ในวันรุ่งขึ้น ซึ่งเป็นวันต่อจากวันเตรียม",
+      "all_renderings": {
+        "ในวันรุ่งขึ้น ซึ่งเป็นวันต่อจากวันเตรียม": [
+          {
+            "verse": "Matthew 27:62",
+            "rationale": "Per uW figs-explicit: παρασκευή = Preparation-Day (Friday); 'next-day-after-Preparation' = Sabbath. Matthew's circumlocution avoids saying 'on the Sabbath' directly. Thai วันเตรียม preserves the Greek term"
           }
         ]
       },
@@ -6126,6 +6382,18 @@
           {
             "verse": "Mark 15:18",
             "rationale": "Χαῖρε — lit. 'rejoice!' but idiomatic Greek greeting 'Hail!' equivalent to Latin Ave or Salve (per uW TN figs-idiom). Thai ขอจงทรงพระเจริญ is the FORMAL ROYAL-GREETING formula in Thai — used for kings and the Thai royal family ('long live Your Majesty'). This preserves the IRONIC REGAL REGISTER the soldiers are performing: they're using the most elevated royal-formula precisely to mock. βασιλεῦ voc. — direct address. The Thai honorific formula is the natural parallel to Latin Ave Rex."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Χαῖρε,βασιλεῦ τῶν Ἰουδαίων": {
+      "primary_thai": "ขอทรงพระเจริญ กษัตริย์ของชาวยิว",
+      "all_renderings": {
+        "ขอทรงพระเจริญ กษัตริย์ของชาวยิว": [
+          {
+            "verse": "Matthew 27:29",
+            "rationale": "Per uW figs-irony + figs-idiom: Roman royal greeting (Ave Caesar Imperator!). Thai ขอทรงพระเจริญ is the standard Thai-royal acclamation — IRONY: divine register from mocking soldiers preserves the ironic-truth that Jesus actually IS the King"
           }
         ]
       },
@@ -6390,6 +6658,18 @@
           {
             "verse": "Mark 4:15",
             "rationale": "αἴρω = 'take away, remove.' Per uW figs-metaphor: Satan as bird-like figure snatching seeds. Perfect passive participle ἐσπαρμένον = 'which-has-been-sown.' 'εἰς αὐτούς' = 'into them' (inner state, not just hearing). Thai 'หว่านลงในพวกเขา' (sown-down into them) preserves the interior aspect — it was in them, though briefly — and that's what Satan snatches."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "αἷμα ἀθῷον": {
+      "primary_thai": "โลหิตอันไร้ความผิด",
+      "all_renderings": {
+        "โลหิตอันไร้ความผิด": [
+          {
+            "verse": "Matthew 27:4",
+            "rationale": "ἀθῷος = innocent (HAPAX-rare in NT — only here and 27:24). Per uW figs-metonymy: αἷμα = the person about to die. Thai โลหิตอันไร้ความผิด preserves the OT-blood-of-the-innocent imagery (cf. Deut 27:25, Jer 7:6) better than flattening to 'an innocent person'"
           }
         ]
       },
@@ -6723,6 +7003,18 @@
       },
       "occurrences_count": 1
     },
+    "βάλλοντες κλῆρον": {
+      "primary_thai": "จับฉลาก",
+      "all_renderings": {
+        "จับฉลาก": [
+          {
+            "verse": "Matthew 27:35",
+            "rationale": "Per uW translate-unknown: κλῆρος = lot (cast-object). Thai จับฉลาก is the natural idiom. TEXTUAL VARIANT: SBLGNT ends here; later MSS add a fulfillment-quotation (Ps 22:18 verbatim). We follow SBLGNT — no addition"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "βάλλοντες κλῆρον ἐπ’ αὐτά": {
       "primary_thai": "โดยจับฉลาก",
       "all_renderings": {
@@ -6850,6 +7142,18 @@
           {
             "verse": "Matthew 2:22",
             "rationale": "βασιλεύω = 'reign as king.' Historical note: Archelaus was technically 'ethnarch' (not 'king'), but Matthew uses the popular-usage βασιλεύει. Thai 'ครองราชย์' (reign-in-royal-office) matches the popular sense without over-precisifying."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "βασιλεὺς Ἰσραήλ ἐστιν": {
+      "primary_thai": "เขาเป็นกษัตริย์ของอิสราเอลนี่",
+      "all_renderings": {
+        "เขาเป็นกษัตริย์ของอิสราเอลนี่": [
+          {
+            "verse": "Matthew 27:42",
+            "rationale": "Per uW figs-irony + figs-hypo: hypothetical-sarcasm. Thai นี่ adds the sarcastic-tone particle ('this so-called king'). Ironic truth — he IS the King of Israel"
           }
         ]
       },
@@ -7449,6 +7753,18 @@
       },
       "occurrences_count": 1
     },
+    "γευσάμενος οὐκ ἠθέλησεν πιεῖν": {
+      "primary_thai": "เมื่อพระองค์ทรงชิมแล้วก็ไม่ทรงประสงค์จะดื่ม",
+      "all_renderings": {
+        "เมื่อพระองค์ทรงชิมแล้วก็ไม่ทรงประสงค์จะดื่ม": [
+          {
+            "verse": "Matthew 27:34",
+            "rationale": "γεύομαι = taste; ทรงชิม royal-register. Jesus tastes (recognizes the bitter-mixture) but refuses — voluntary acceptance of full pain. Royal verb ทรงประสงค์"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "γινώσκετε ὅτι ἐγγύς ἐστιν ἐπὶ θύραις": {
       "primary_thai": "ก็จงรู้ว่าใกล้แล้ว ถึงประตูแล้ว",
       "all_renderings": {
@@ -7564,6 +7880,18 @@
           {
             "verse": "Mark 6:38",
             "rationale": "Per uW figs-explicit: 'having known [the count].' Thai 'เมื่อรู้แล้ว' (having-now-known). 'ทูล' deferential."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "γονυπετήσαντες": {
+      "primary_thai": "คุกเข่าลง",
+      "all_renderings": {
+        "คุกเข่าลง": [
+          {
+            "verse": "Matthew 27:29",
+            "rationale": "Per uW translate-symaction: kneeling-before-king (mock honor). Thai คุกเข่าลง"
           }
         ]
       },
@@ -7737,6 +8065,18 @@
       },
       "occurrences_count": 1
     },
+    "γυναῖκες πολλαὶ": {
+      "primary_thai": "หญิงหลายคน",
+      "all_renderings": {
+        "หญิงหลายคน": [
+          {
+            "verse": "Matthew 27:55",
+            "rationale": "Many women — plural disciples. Distinct from the named-three in v.56"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "γυναῖκες ἀπὸ μακρόθεν θεωροῦσαι": {
       "primary_thai": "หญิงบางคนเฝ้าดูอยู่แต่ไกล",
       "all_renderings": {
@@ -7804,6 +8144,42 @@
           {
             "verse": "Mark 4:11",
             "rationale": "Perfect passive 'has been given' (abiding state). Per uW figs-activepassive: implicit divine agent. Thai 'ทรงโปรดประทาน' (royal-graciously-bestow) makes the divine agency explicit as royal action + 'แล้ว' (perfective particle) preserves the perfect-tense's already-accomplished-and-continuing sense. Standard royal Thai for God's gracious giving."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "δέσμιον": {
+      "primary_thai": "นักโทษ",
+      "all_renderings": {
+        "นักโทษ": [
+          {
+            "verse": "Matthew 27:15",
+            "rationale": "δέσμιος = prisoner. Standard Thai นักโทษ"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "δέσμιον ἐπίσημον": {
+      "primary_thai": "นักโทษที่เลื่องลือ",
+      "all_renderings": {
+        "นักโทษที่เลื่องลือ": [
+          {
+            "verse": "Matthew 27:16",
+            "rationale": "ἐπίσημος = well-known/notable (positive or negative). Per uW figs-explicit: ambiguous — Romans saw him as notorious, some Jews as renowned. Thai เลื่องลือ preserves the dual valence (famously-known)"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "δήσαντες αὐτὸν": {
+      "primary_thai": "ผูกมัดพระองค์",
+      "all_renderings": {
+        "ผูกมัดพระองค์": [
+          {
+            "verse": "Matthew 27:2",
+            "rationale": "δέω = bind. Per uW figs-explicit: implies they commanded guards to do the binding. Thai ผูกมัด preserves the physical-bondage; royal-object พระองค์"
           }
         ]
       },
@@ -8529,6 +8905,18 @@
       },
       "occurrences_count": 1
     },
+    "διεμερίσαντο τὰ ἱμάτια αὐτοῦ": {
+      "primary_thai": "แบ่งฉลองพระองค์",
+      "all_renderings": {
+        "แบ่งฉลองพระองค์": [
+          {
+            "verse": "Matthew 27:35",
+            "rationale": "ἱμάτια = outer garments. ฉลองพระองค์ is the Thai royal-register word for clothing-of-royalty (cf. Mark 15:24 rendering). Soldiers' confiscation of executed-prisoners' clothing was standard Roman practice"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "διεπέρασεν": {
       "primary_thai": "ข้ามฟาก",
       "all_renderings": {
@@ -8963,9 +9351,15 @@
             "verse": "Mark 15:10",
             "rationale": "φθόνος → ความอิจฉา (envy — malicious begrudging of another's success, glossary-established here). Per uW TN figs-abstractnouns, the noun can be paraphrased 'because they envied him' — but Thai abstract-noun usage with ความ- prefix is natural and preserves the single-cause structure."
           }
+        ],
+        "เพราะความริษยา": [
+          {
+            "verse": "Matthew 27:18",
+            "rationale": "φθόνος = envy/jealous-malice. Thai ความริษยา is the standard NT-rendering"
+          }
         ]
       },
-      "occurrences_count": 1
+      "occurrences_count": 2
     },
     "διὰ Ἠσαΐου τοῦ προφήτου": {
       "primary_thai": "โดยอิสยาห์ผู้เผยพระวจนะ",
@@ -9308,6 +9702,18 @@
           {
             "verse": "Mark 15:27",
             "rationale": "λῃστής → โจร (glossary-established from Mark 11:17 'den of robbers'). Per Josephus, λῃστής could mean 'bandit' OR 'insurrectionist' — the latter fits crucifixion (a political-punishment). These may be Barabbas's co-rebels (cf. στασιαστῶν v.7). The Thai โจร is general enough to capture either reading."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "δύο λῃσταί": {
+      "primary_thai": "โจรสองคน",
+      "all_renderings": {
+        "โจรสองคน": [
+          {
+            "verse": "Matthew 27:38",
+            "rationale": "λῃστής = robber/brigand (often political-bandit, not petty-thief). โจร is standard. Same word used of Barabbas-types. Possibly insurrectionist-companions of Barabbas"
           }
         ]
       },
@@ -9734,6 +10140,18 @@
           {
             "verse": "Matthew 10:25",
             "rationale": "Per uW figs-metaphor + grammar-connect-condition-fact: εἰ + aor-ind = first-class conditional 'if (as is the case).' οἰκοδεσπότης metaphorical = Jesus ('master of the household'); Thai 'เจ้าของบ้าน' (owner-of-the-house). Βεελζεβούλ → เบเอลเซบูล (Thai Christian standard, glossary-established Mark 3:22 / Matt 12:24). ἐπεκάλεσαν aor-act-ind-3pl 'they called/nicknamed.' Per uW writing-pronouns: 'they' = any who called Jesus Beelzebul (= the Pharisees, Matt 9:34, anticipated Matt 12:24)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "εἰ υἱὸς εἶ τοῦ θεοῦ": {
+      "primary_thai": "ถ้าเจ้าเป็นพระบุตรของพระเจ้า",
+      "all_renderings": {
+        "ถ้าเจ้าเป็นพระบุตรของพระเจ้า": [
+          {
+            "verse": "Matthew 27:40",
+            "rationale": "Per uW guidelines-sonofgodprinciples: important christological title preserved. Thai พระบุตรของพระเจ้า standard. The 'if' echoes Satan's wilderness temptations (4:3, 4:6 — εἰ υἱὸς εἶ τοῦ θεοῦ identical)"
           }
         ]
       },
@@ -10473,6 +10891,18 @@
       },
       "occurrences_count": 1
     },
+    "εἰς τὸν ναὸν": {
+      "primary_thai": "เข้าไปในพระวิหาร",
+      "all_renderings": {
+        "เข้าไปในพระวิหาร": [
+          {
+            "verse": "Matthew 27:5",
+            "rationale": "ναός = inner-sanctuary (RULES.md §4 glossary established: พระวิหาร). Per uW figs-explicit: Judas was outside the priests-only inner court; he flung the coins into the sanctuary area. Thai phrase preserves both options"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "εἰς τὸν οἶκον τοῦ θεοῦ": {
       "primary_thai": "ในพระนิเวศของพระเจ้า",
       "all_renderings": {
@@ -10916,6 +11346,18 @@
           {
             "verse": "Matthew 21:12",
             "rationale": "ἱερόν (71x NT) = temple-complex (not the inner-sanctuary ναός). Per uW figs-explicit, means temple-courtyard not holy-of-holies. Thai บริเวณพระวิหาร (temple-area) clarifies. Divine-subject royal เสด็จเข้า."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "εἰώθει...ἀπολύειν": {
+      "primary_thai": "มีธรรมเนียมจะปล่อย",
+      "all_renderings": {
+        "มีธรรมเนียมจะปล่อย": [
+          {
+            "verse": "Matthew 27:15",
+            "rationale": "Pluperfect of εἴωθα = had-been-accustomed. Thai มีธรรมเนียม captures the customary-practice"
           }
         ]
       },
@@ -11534,6 +11976,18 @@
           {
             "verse": "Mark 5:22",
             "rationale": "Per uW writing-participants + translate-names: introducing Jairus as new character. ἀρχισυνάγωγος = synagogue-ruler (lay-leader responsible for the worship service in a local synagogue — significant social standing). Thai 'นายธรรมศาลา' (chief-of-synagogue) standard biblical term; 'ธรรมศาลา' per glossary. 'ชื่อไยรัส' (named Jairus) — Hebrew יָאִיר meaning 'he enlightens.' Standard Thai transliteration 'ไยรัส.'"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "εἷς ἐκ δεξιῶν καὶ εἷς ἐξ εὐωνύμων": {
+      "primary_thai": "คนหนึ่งอยู่ข้างขวาและคนหนึ่งอยู่ข้างซ้าย",
+      "all_renderings": {
+        "คนหนึ่งอยู่ข้างขวาและคนหนึ่งอยู่ข้างซ้าย": [
+          {
+            "verse": "Matthew 27:38",
+            "rationale": "Per uW figs-nominaladj: 'right' and 'left' as nouns. The placement irony — these positions were requested by James/John in Mat 20:21 ('grant us to sit at your right and left in your kingdom'); now they are occupied by criminals. Royal positions filled by mockery"
           }
         ]
       },
@@ -12231,6 +12685,18 @@
       },
       "occurrences_count": 1
     },
+    "θέλετε": {
+      "primary_thai": "พวกท่านต้องการ",
+      "all_renderings": {
+        "พวกท่านต้องการ": [
+          {
+            "verse": "Matthew 27:17",
+            "rationale": "Per uW figs-yousingular: Pilate addresses crowd → plural พวกท่าน"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "θέλομεν ἀπὸ σοῦ σημεῖον ἰδεῖν": {
       "primary_thai": "พวกเราอยากเห็นหมายสำคัญจากท่าน",
       "all_renderings": {
@@ -12298,6 +12764,30 @@
           {
             "verse": "Mark 16:18",
             "rationale": "θανάσιμον — NT HAPAX (neuter-adjective-used-substantively 'deadly-thing/poison'). Classical Greek usage (Sophocles, Plato). Thai พิษร้ายแรง captures the lethal-poison sense."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "θανατῶσαι αὐτόν": {
+      "primary_thai": "ประหารพระองค์",
+      "all_renderings": {
+        "ประหารพระองค์": [
+          {
+            "verse": "Matthew 27:1",
+            "rationale": "θανατόω = put to death. Per uW figs-explicit: implies 'have him killed' through Roman channels. ประหาร captures the formal-execution sense; royal-object พระองค์ for Jesus"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "θαυμάζειν...λίαν": {
+      "primary_thai": "ประหลาดใจอย่างยิ่ง",
+      "all_renderings": {
+        "ประหลาดใจอย่างยิ่ง": [
+          {
+            "verse": "Matthew 27:14",
+            "rationale": "θαυμάζω + intensifier λίαν. ประหลาดใจอย่างยิ่ง captures both elements"
           }
         ]
       },
@@ -12451,6 +12941,18 @@
       },
       "occurrences_count": 1
     },
+    "θόρυβος γίνεται": {
+      "primary_thai": "จะเกิดความวุ่นวาย",
+      "all_renderings": {
+        "จะเกิดความวุ่นวาย": [
+          {
+            "verse": "Matthew 27:24",
+            "rationale": "θόρυβος = riot/uproar. Same word as 26:5 (priests' fear of Passover-riot). Thai ความวุ่นวาย consistent"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "κάλαμον συντετριμμένον": {
       "primary_thai": "ต้นอ้อช้ำ",
       "all_renderings": {
@@ -12458,6 +12960,18 @@
           {
             "verse": "Matthew 12:20",
             "rationale": "κάλαμος → ต้นอ้อ (established Matt 11:7 'κάλαμον σαλευόμενον → ต้นอ้อที่พัดไหว' — glossary-precedent). συντρίβω (perf-pass-ptcp) = 'crushed/bruised.' Thai 'ช้ำ' (bruised — standard Thai idiom for damaged-plants/persons). NEW GLOSSARY: συντρίβω → ช้ำ (passive-bruised sense)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "κάλαμον ἐν τῇ δεξιᾷ": {
+      "primary_thai": "ไม้อ้อใส่ในพระหัตถ์ขวา",
+      "all_renderings": {
+        "ไม้อ้อใส่ในพระหัตถ์ขวา": [
+          {
+            "verse": "Matthew 27:29",
+            "rationale": "Per uW figs-explicit: reed = mock-scepter. Royal-recipient พระหัตถ์ (hand). The reed will be used to strike Jesus in v.30"
           }
         ]
       },
@@ -12482,6 +12996,18 @@
           {
             "verse": "MRK 10:25",
             "rationale": "Standard Thai for camel. Do NOT follow the late medieval tradition that emends κάμηλον to κάμιλον ('rope'/'cable') — that reading has no ancient MS support and destroys the deliberate absurd hyperbole."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "κέλευσον": {
+      "primary_thai": "ขอท่านสั่ง",
+      "all_renderings": {
+        "ขอท่านสั่ง": [
+          {
+            "verse": "Matthew 27:64",
+            "rationale": "Per uW figs-imperative: imperative as polite-request to governor. Thai ขอท่านสั่ง preserves the deferential-request register"
           }
         ]
       },
@@ -12536,6 +13062,30 @@
           {
             "verse": "Matthew 23:26",
             "rationale": "Per uW figs-yousingular, singular-imperative when addressing-each-Pharisee individually — but plural-rendering in Thai is consistent with collective-address. Per uW figs-explicit, τὸ ἐντὸς ambiguous (inside-of-dish vs. inside-content). Both possible. Thai ภายใน (inside) preserves ambiguity. πρῶτον (first) → ก่อน."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "καθήμεναι ἀπέναντι τοῦ τάφου": {
+      "primary_thai": "นั่งอยู่ตรงข้ามอุโมงค์ฝังศพ",
+      "all_renderings": {
+        "นั่งอยู่ตรงข้ามอุโมงค์ฝังศพ": [
+          {
+            "verse": "Matthew 27:61",
+            "rationale": "Per uW figs-idiom: ἀπέναντι = directly-in-front-of. ตรงข้าม Thai standard. The women's vigil — sitting silent watch"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "καθήμενοι ἐτήρουν": {
+      "primary_thai": "นั่งเฝ้า",
+      "all_renderings": {
+        "นั่งเฝ้า": [
+          {
+            "verse": "Matthew 27:36",
+            "rationale": "Periphrastic: sitting + guarding. Thai นั่งเฝ้า is the natural compound. Per uW figs-explicit: guarding to prevent rescue-attempt"
           }
         ]
       },
@@ -12757,6 +13307,18 @@
       },
       "occurrences_count": 1
     },
+    "καθὰ συνέταξέν μοι κύριος": {
+      "primary_thai": "ตามที่องค์พระผู้เป็นเจ้าทรงบัญชาแก่ข้าพเจ้า",
+      "all_renderings": {
+        "ตามที่องค์พระผู้เป็นเจ้าทรงบัญชาแก่ข้าพเจ้า": [
+          {
+            "verse": "Matthew 27:10",
+            "rationale": "καθά (HAPAX in NT, only here). κύριος here = YHWH per OT-citation context, so RULES.md §4: κύριος (=YHWH in OT citation) → องค์พระผู้เป็นเจ้า. Royal verb ทรงบัญชา for divine action. The 'me' is the prophetic-voice (Zechariah/Jeremiah) speaking in first person"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "καθὼς γέγραπται περὶ αὐτοῦ": {
       "primary_thai": "ตามที่มีเขียนไว้เกี่ยวกับพระองค์",
       "all_renderings": {
@@ -12852,6 +13414,18 @@
           {
             "verse": "Matthew 26:29",
             "rationale": "Per uW note, 'new' could modify 'drink' (drink in a new way) or 'wine' (new wine). Thai อย่างใหม่ (in a new way) preserves the adverbial ambiguity that scholars debate"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "καινῷ αὐτοῦ μνημείῳ": {
+      "primary_thai": "อุโมงค์ฝังศพใหม่ของตน",
+      "all_renderings": {
+        "อุโมงค์ฝังศพใหม่ของตน": [
+          {
+            "verse": "Matthew 27:60",
+            "rationale": "Per uW figs-explicit: rich-man's burial chamber, freshly carved. καινός 'new' = unused. Critical detail for resurrection-apologetic: no possibility of confusing Jesus's body with another"
           }
         ]
       },
@@ -13163,6 +13737,18 @@
       },
       "occurrences_count": 1
     },
+    "κατάβηθι ἀπὸ τοῦ σταυροῦ": {
+      "primary_thai": "จงลงมาจากกางเขน",
+      "all_renderings": {
+        "จงลงมาจากกางเขน": [
+          {
+            "verse": "Matthew 27:40",
+            "rationale": "Per uW grammar-connect-condition-hypothetical: prove-divinity-by-coming-down. Aorist imperative. Thai จงลงมา preserves imperative force"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "κατέκλασεν τοὺς ἄρτους": {
       "primary_thai": "ทรงหักขนมปัง",
       "all_renderings": {
@@ -13206,6 +13792,18 @@
           {
             "verse": "Matthew 26:7",
             "rationale": "Divine register — พระเศียร (royal head). Jesus is being anointed — Messianic undertone (Χριστός = 'anointed one')"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "καταβάτω": {
+      "primary_thai": "ให้เขาลงมา",
+      "all_renderings": {
+        "ให้เขาลงมา": [
+          {
+            "verse": "Matthew 27:42",
+            "rationale": "Per uW figs-imperative3p: third-person imperative = let-him-do. Thai ให้เขา + verb"
           }
         ]
       },
@@ -13522,6 +14120,18 @@
           {
             "verse": "Matthew 12:7",
             "rationale": "Per uW figs-nominaladj: τοὺς ἀναιτίους = 'the-innocent-ones' (Jesus's disciples specifically per uW). καταδικάζω → ลงโทษ (condemn/judge-as-guilty). NEW GLOSSARY: καταδικάζω → ลงโทษ."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "κατεκρίθη": {
+      "primary_thai": "ทรงถูกตัดสินลงโทษแล้ว",
+      "all_renderings": {
+        "ทรงถูกตัดสินลงโทษแล้ว": [
+          {
+            "verse": "Matthew 27:3",
+            "rationale": "Aorist passive κατακρίνω = condemned. Per uW figs-activepassive: implied agent is the Sanhedrin. Royal subject ทรง- preserves divine register even in passive-of-victimization"
           }
         ]
       },
@@ -14861,6 +15471,18 @@
       },
       "occurrences_count": 2
     },
+    "κινοῦντες τὰς κεφαλὰς": {
+      "primary_thai": "ส่ายศีรษะ",
+      "all_renderings": {
+        "ส่ายศีรษะ": [
+          {
+            "verse": "Matthew 27:39",
+            "rationale": "Per uW translate-symaction: head-wagging = scornful-disdain gesture. Thai ส่ายศีรษะ standard. CRITICAL: this exactly mirrors LXX Ps 22:7 (ἐκίνησαν κεφαλήν 'they wagged the head')"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "κινοῦντες τὰς κεφαλὰς αὐτῶν": {
       "primary_thai": "สั่นศีรษะ",
       "all_renderings": {
@@ -15053,6 +15675,18 @@
       },
       "occurrences_count": 1
     },
+    "κορβανᾶν": {
+      "primary_thai": "คลังของพระวิหาร",
+      "all_renderings": {
+        "คลังของพระวิหาร": [
+          {
+            "verse": "Matthew 27:6",
+            "rationale": "HAPAX in NT (κορβανᾶς). Aramaic/Hebrew loan = 'gift devoted to God.' Per uW translate-unknown: refers to the temple treasury where dedicated funds were kept. Thai คลังของพระวิหาร makes the temple-context explicit — better than transliteration which would mystify Thai readers"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "κοσμεῖτε τὰ μνημεῖα τῶν δικαίων": {
       "primary_thai": "ตกแต่งอนุสรณ์ของบรรดาผู้ชอบธรรม",
       "all_renderings": {
@@ -15060,6 +15694,18 @@
           {
             "verse": "Matthew 23:29",
             "rationale": "κοσμέω (10x NT) = adorn/decorate. μνημεῖον (37x NT) = monument/tomb (slightly more emphatic-memorial than τάφος). Thai ตกแต่ง + อนุสรณ์ (adorn + memorial) preserves the decorative-honoring sense. δικαίων per uW figs-nominaladj = righteous-people."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "κουστωδίαν": {
+      "primary_thai": "กองทหารรักษาการณ์",
+      "all_renderings": {
+        "กองทหารรักษาการณ์": [
+          {
+            "verse": "Matthew 27:65",
+            "rationale": "Latin loanword (custodia). Per uW translate-unknown + grammar-collectivenouns: collective-singular for guard-unit"
           }
         ]
       },
@@ -15634,10 +16280,14 @@
           {
             "verse": "Mark 16:6",
             "rationale": "Historic-present (per Mark's chapter-intro note on vv.2, 4, 6)."
+          },
+          {
+            "verse": "Matthew 27:13",
+            "rationale": "Per uW figs-pastforfuture: historic present, render as past in Thai narrative"
           }
         ]
       },
-      "occurrences_count": 9
+      "occurrences_count": 10
     },
     "λέγει αὐτοῖς": {
       "primary_thai": "พระองค์ตรัสกับพวกเขา",
@@ -15778,6 +16428,18 @@
           {
             "verse": "Mark 5:36",
             "rationale": "Historic present (per uW v.36). Royal 'ตรัส.' Note: Jesus does NOT address the messengers; he addresses Jairus directly, bypassing the messengers' implied counsel."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "λέγει...λέγουσιν": {
+      "primary_thai": "กล่าว...กล่าว",
+      "all_renderings": {
+        "กล่าว...กล่าว": [
+          {
+            "verse": "Matthew 27:22",
+            "rationale": "Per uW figs-pastforfuture: historic presents, render as Thai narrative past"
           }
         ]
       },
@@ -17021,6 +17683,18 @@
       },
       "occurrences_count": 2
     },
+    "μεταμεληθεὶς": {
+      "primary_thai": "ก็เสียใจ",
+      "all_renderings": {
+        "ก็เสียใจ": [
+          {
+            "verse": "Matthew 27:3",
+            "rationale": "Aorist passive of μεταμέλομαι = to feel regret/remorse. CRUCIAL: this is NOT μετανοέω (true repentance unto salvation, RULES.md §4 = กลับใจ). เสียใจ captures regret without salvific repentance — preserves the Matthean theological distinction"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "μετανοίας": {
       "primary_thai": "การกลับใจ",
       "all_renderings": {
@@ -17169,6 +17843,18 @@
       },
       "occurrences_count": 1
     },
+    "μετὰ τὴν ἔγερσιν αὐτοῦ": {
+      "primary_thai": "หลังจากที่พระองค์ทรงเป็นขึ้นมาแล้ว",
+      "all_renderings": {
+        "หลังจากที่พระองค์ทรงเป็นขึ้นมาแล้ว": [
+          {
+            "verse": "Matthew 27:53",
+            "rationale": "HAPAX in NT (ἔγερσις). Per uW figs-abstractnouns: render with verb-construction. Royal verb ทรงเป็นขึ้น. Critical timing-marker: tombs opened Friday, dead emerged after Sunday. Per uW figs-infostructure: μετὰ τὴν ἔγερσιν αὐτοῦ likely modifies εἰσῆλθον (entered after his resurrection)"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "μετὰ τὸ ἐγερθῆναί με": {
       "primary_thai": "หลังจากเราฟื้นขึ้นแล้ว",
       "all_renderings": {
@@ -17176,6 +17862,18 @@
           {
             "verse": "Mark 14:28",
             "rationale": "ἐγείρω aor.-pass.-infin. 'to-be-raised' (articular-infinitive-construction). Per uW TN figs-activepassive, agent could be (1) God (passive-theology), (2) Jesus himself (middle/reflexive sense). Thai ฟื้นขึ้น ('rise/be-raised') maintains ambiguity — natural passive in Thai can imply either agent. FIFTH Markan passion-prediction now including RESURRECTION (first at 8:31, 9:9, 9:31, 10:34)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "μετὰ τῆς κουστωδίας": {
+      "primary_thai": "และจัดกองทหารรักษาการณ์ไว้",
+      "all_renderings": {
+        "และจัดกองทหารรักษาการณ์ไว้": [
+          {
+            "verse": "Matthew 27:66",
+            "rationale": "Per uW figs-explicit + grammar-collectivenouns: stationed the guard at the tomb. Thai จัด...ไว้ for stationing"
           }
         ]
       },
@@ -19365,9 +20063,15 @@
             "verse": "Matthew 21:45",
             "rationale": "Matt introduces the Pharisees alongside chief-priests for the first time in this chapter (v.23 had priests + elders; now priests + Pharisees). Standard Matt 3:7 etc. — พวกมหาปุโรหิตและพวกฟาριสี."
           }
+        ],
+        "บรรดาหัวหน้าปุโรหิตและพวกฟาริสี": [
+          {
+            "verse": "Matthew 27:62",
+            "rationale": "Unusual pairing — usually 'chief priests and elders' (e.g., 26:3, 27:1). Pharisees enter the passion narrative for the first time here. Φαρισαῖοι → ฟาริสี standard"
+          }
         ]
       },
-      "occurrences_count": 1
+      "occurrences_count": 2
     },
     "οἱ ἀρχιερεῖς καὶ οἱ γραμματεῖς": {
       "primary_thai": "พวกหัวหน้าปุโรหิตและพวกธรรมาจารย์",
@@ -19388,6 +20092,24 @@
           {
             "verse": "Matthew 21:23",
             "rationale": "Standard Sanhedrin-leadership pair. ἀρχιερεύς est. พวกมหาปุโรหิต (Matt 16:21). πρεσβύτερος (66x) = elder; τοῦ λαοῦ (Israel's-people) → ของประชาชน. Thai พวกผู้อาวุโส (elders) + ของประชาชน (of the people)."
+          }
+        ],
+        "บรรดาหัวหน้าปุโรหิตและพวกผู้อาวุโสของประชาชน": [
+          {
+            "verse": "Matthew 27:1",
+            "rationale": "Matthean signature formula (also 26:3, 26:47). Consistent with prior chapter glossary"
+          }
+        ]
+      },
+      "occurrences_count": 2
+    },
+    "οἱ ἀρχιερεῖς...τῶν γραμματέων καὶ πρεσβυτέρων": {
+      "primary_thai": "บรรดาหัวหน้าปุโรหิต...พวกธรรมาจารย์และพวกผู้อาวุโส",
+      "all_renderings": {
+        "บรรดาหัวหน้าปุโรหิต...พวกธรรมาจารย์และพวกผู้อาวุโส": [
+          {
+            "verse": "Matthew 27:41",
+            "rationale": "Three-fold leadership group (Sanhedrin's principal members). γραμματεύς → ธรรมาจารย์ (RULES.md §4 standard). The official theological-religious authority joins the mob-mockery"
           }
         ]
       },
@@ -19583,6 +20305,18 @@
       },
       "occurrences_count": 1
     },
+    "οἱ...λοιποὶ": {
+      "primary_thai": "คนอื่น ๆ ที่เหลือ",
+      "all_renderings": {
+        "คนอื่น ๆ ที่เหลือ": [
+          {
+            "verse": "Matthew 27:49",
+            "rationale": "Per uW figs-nominaladj: 'the rest' = remaining bystanders"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "οἴδατε δόματα ἀγαθὰ διδόναι τοῖς τέκνοις ὑμῶν": {
       "primary_thai": "ยังรู้จักให้สิ่งดีแก่ลูกของตน",
       "all_renderings": {
@@ -19710,6 +20444,18 @@
           {
             "verse": "Mark 8:3",
             "rationale": "Per uW grammar-collectivenouns: Greek collective singular for distributive plural. Thai is unmarked for number, so naturally allows the collective sense without extra apparatus."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "οἶνον μετὰ χολῆς μεμιγμένον": {
+      "primary_thai": "เหล้าองุ่นผสมน้ำดี",
+      "all_renderings": {
+        "เหล้าองุ่นผสมน้ำดี": [
+          {
+            "verse": "Matthew 27:34",
+            "rationale": "οἶνος = wine. χολή = gall/bitter-substance (HAPAX-rare; per uW figs-extrainfo: ambiguous between pain-killer and bitter-tormenting drink). Mark 15:23 has 'myrrhed wine' (analgesic). Matthew's χολή echoes LXX Ps 69:21 (καὶ ἔδωκαν εἰς τὸ βρῶμά μου χολήν 'they gave gall for my food'). Thai น้ำดี standard"
           }
         ]
       },
@@ -20774,6 +21520,18 @@
           {
             "verse": "Matthew 21:19",
             "rationale": "Per uW grammar-connect-exceptions. Thai natural \"found nothing except leaves\". φύλλον (6x) = leaf. Implied-object \"fruit\" supplied explicitly in Thai."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "οὐδὲν ἀπεκρίνατο": {
+      "primary_thai": "พระองค์มิได้ตรัสตอบสิ่งใดเลย",
+      "all_renderings": {
+        "พระองค์มิได้ตรัสตอบสิ่งใดเลย": [
+          {
+            "verse": "Matthew 27:12",
+            "rationale": "Strong negative: 'answered nothing.' Royal verb ตรัสตอบ. Echoes Isa 53:7 LXX (αὐτὸς δὲ διὰ τὸ κεκακῶσθαι οὐκ ἀνοίγει τὸ στόμα — 'though afflicted, he does not open his mouth')"
           }
         ]
       },
@@ -22081,6 +22839,18 @@
       },
       "occurrences_count": 1
     },
+    "πάλιν κράξας φωνῇ μεγάλῃ": {
+      "primary_thai": "ทรงร้องด้วยเสียงดังอีกครั้งหนึ่ง",
+      "all_renderings": {
+        "ทรงร้องด้วยเสียงดังอีกครั้งหนึ่ง": [
+          {
+            "verse": "Matthew 27:50",
+            "rationale": "Per uW figs-idiom: loud-voice cry. Same as v.46. The 'again' marks two distinct cries: dereliction-cry + final-cry. Luke 23:46 specifies the second cry as 'Father, into your hands I commit my spirit' (Ps 31:5)"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "πάλιν ἀπέστειλεν ἄλλους δούλους": {
       "primary_thai": "พระองค์ทรงใช้ทาสกลุ่มอื่นไปอีก",
       "all_renderings": {
@@ -22549,6 +23319,18 @@
       },
       "occurrences_count": 1
     },
+    "πέποιθεν ἐπὶ τὸν θεόν": {
+      "primary_thai": "เขาวางใจในพระเจ้า",
+      "all_renderings": {
+        "เขาวางใจในพระเจ้า": [
+          {
+            "verse": "Matthew 27:43",
+            "rationale": "Perfect of πείθω = settled-trust. Verbatim from LXX Ps 22:9 (ἤλπισεν ἐπὶ κύριον — 'he hoped on the Lord'; Matthew's verb πέποιθεν matches Ps 21:9 LXX πέποιθεν ἐπὶ κύριον in Codex Sinaiticus). Thai วางใจ standard"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "πέραν τοῦ Ἰορδάνου": {
       "primary_thai": "อีกฟากของแม่น้ำจอร์แดน",
       "all_renderings": {
@@ -22687,6 +23469,30 @@
       },
       "occurrences_count": 1
     },
+    "παρέδωκαν": {
+      "primary_thai": "มอบ...ไว้กับ",
+      "all_renderings": {
+        "มอบ...ไว้กับ": [
+          {
+            "verse": "Matthew 27:2",
+            "rationale": "παραδίδωμι — the key passion verb (cf. 26:15-16, 26:21, 26:24-25, 26:46-48). Consistent rendering throughout. The chain of 'handing-over' is now complete: Judas→priests, priests→Pilate"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "παρέδωκαν αὐτόν": {
+      "primary_thai": "พวกเขามอบพระองค์ไว้",
+      "all_renderings": {
+        "พวกเขามอบพระองค์ไว้": [
+          {
+            "verse": "Matthew 27:18",
+            "rationale": "Continuing the παραδίδωμι chain. Royal-object พระองค์"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "παρέδωκας": {
       "primary_thai": "ได้มอบ...ไว้",
       "all_renderings": {
@@ -22718,6 +23524,18 @@
           {
             "verse": "Mark 15:15",
             "rationale": "Final παραδίδωμι in the sequence (Judas → Sanhedrin → Pilate → soldiers). ἵνα + aor.-pass.-subj. purpose. Thai มอบพระองค์ให้ถูกตรึง combines the handover and the passive-purpose. Royal มอบพระองค์ preserves Jesus's personal-object royal register."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "παρέδωκεν ἵνα σταυρωθῇ": {
+      "primary_thai": "มอบพระองค์ไว้ให้ถูกตรึงที่กางเขน",
+      "all_renderings": {
+        "มอบพระองค์ไว้ให้ถูกตรึงที่กางเขน": [
+          {
+            "verse": "Matthew 27:26",
+            "rationale": "παραδίδωμι chain reaches its terminus: Jesus is handed over for crucifixion. Royal-object พระองค์ preserved. Per uW figs-activepassive: implied agent is Pilate's soldiers"
           }
         ]
       },
@@ -23881,9 +24699,15 @@
             "verse": "Mark 15:36",
             "rationale": "Per uW TN figs-explicit — put the sponge on a reed-stick to reach up to Jesus on the cross. Thai เสียบไว้ที่ปลายไม้อ้อ (stick-on-at-the-end-of-reed) is more descriptive than the Greek, making the action clear. κάλαμος → ไม้อ้อ (glossary-established from 15:19; same reed used in mockery is now used to deliver drink)."
           }
+        ],
+        "ใส่ปลายไม้อ้อ": [
+          {
+            "verse": "Matthew 27:48",
+            "rationale": "Per uW figs-explicit: sponge attached to reed-stick to lift to crucified-prisoner's mouth. Same word κάλαμος as the mock-scepter (v.29-30) — symbolic resonance"
+          }
         ]
       },
-      "occurrences_count": 1
+      "occurrences_count": 2
     },
     "περικαλύπτειν αὐτοῦ τὸ πρόσωπον": {
       "primary_thai": "ปิดพระพักตร์ของพระองค์",
@@ -23988,6 +24812,18 @@
           {
             "verse": "MRK 10:26",
             "rationale": "περισσῶς = exceedingly/more than before; ἐκπλήσσομαι = be struck with astonishment (stronger than v.24's θαμβέω). Imperfect = ongoing. Thai 'ยิ่ง...มากขึ้น' preserves the escalation from v.24."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "περισσῶς ἔκραζον": {
+      "primary_thai": "ยิ่งร้องตะโกนหนักขึ้น",
+      "all_renderings": {
+        "ยิ่งร้องตะโกนหนักขึ้น": [
+          {
+            "verse": "Matthew 27:23",
+            "rationale": "Imperfect κράζω + intensifying περισσῶς = 'shouted-more-vehemently.' Thai ยิ่ง...หนักขึ้น captures the escalation"
           }
         ]
       },
@@ -24216,6 +25052,18 @@
           {
             "verse": "Mark 11:24",
             "rationale": "Aor. ἐλάβετε ('you-received') is temporally anticipatory — uW TN flags: Jesus uses past-tense to indicate faith so complete it treats the future answer as already-received. Thai 'ได้รับแล้ว' (received-already, perfective) preserves this unusual pre-tensed certainty."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "πιστεύσομεν ἐπ’αὐτόν": {
+      "primary_thai": "เราจะเชื่อในเขา",
+      "all_renderings": {
+        "เราจะเชื่อในเขา": [
+          {
+            "verse": "Matthew 27:42",
+            "rationale": "Conditional promise. πιστεύω + ἐπί = believe-on (commit-to). Thai เชื่อใน standard"
           }
         ]
       },
@@ -24828,6 +25676,30 @@
           {
             "verse": "Mark 5:26",
             "rationale": "Per uW figs-explicit (twofold): suffered FROM the treatments OR suffered WHILE being treated. Mark's Greek is ambiguous; we render as 'จากการรักษา' (from-the-treatment) which leans toward the treatments themselves causing suffering — historically plausible (1st-century medicine often used emetics, purgatives, leech-therapy, magical formulas). Thai 'ทนทุกข์ทรมาน' (endure-suffering-torture) standard biblical phrasing for severe suffering."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "πολλὰ σώματα τῶν κεκοιμημένων ἁγίων": {
+      "primary_thai": "ร่างของบรรดาธรรมิกชนหลายคนที่ล่วงหลับไปแล้ว",
+      "all_renderings": {
+        "ร่างของบรรดาธรรมิกชนหลายคนที่ล่วงหลับไปแล้ว": [
+          {
+            "verse": "Matthew 27:52",
+            "rationale": "Per uW figs-explicit: people-as-a-whole-raised (not just bodies). κεκοιμημένων per uW figs-euphemism: 'fallen asleep' = died. Thai ล่วงหลับ preserves the euphemism. ἅγιοι → ธรรมิกชน (saints, OT-righteous). Per uW: most likely OT righteous"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "πολλὰ...ἔπαθον σήμερον κατ’ὄναρ": {
+      "primary_thai": "วันนี้ดิฉันทุกข์ยิ่งนักในความฝัน",
+      "all_renderings": {
+        "วันนี้ดิฉันทุกข์ยิ่งนักในความฝัน": [
+          {
+            "verse": "Matthew 27:19",
+            "rationale": "Per uW figs-explicit: dream-suffering = upset/distressed. Thai ทุกข์ยิ่งนัก. ดิฉัน is feminine first-person (Pilate's wife speaking in formal register)"
           }
         ]
       },
@@ -25841,6 +26713,18 @@
       },
       "occurrences_count": 1
     },
+    "προσκυλίσας λίθον μέγαν τῇ θύρᾳ": {
+      "primary_thai": "กลิ้งหินก้อนใหญ่มาปิดประตู",
+      "all_renderings": {
+        "กลิ้งหินก้อนใหญ่มาปิดประตู": [
+          {
+            "verse": "Matthew 27:60",
+            "rationale": "Per uW figs-explicit: rolling-stone across the entrance. Setup for 28:2 (the angel-rolled-it-away on Easter)"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "προσκυνοῦσα": {
       "primary_thai": "หมอบกราบลง",
       "all_renderings": {
@@ -26285,6 +27169,18 @@
       },
       "occurrences_count": 1
     },
+    "πρὸς οὐδὲ ἓν ῥῆμα": {
+      "primary_thai": "แม้แต่คำเดียว",
+      "all_renderings": {
+        "แม้แต่คำเดียว": [
+          {
+            "verse": "Matthew 27:14",
+            "rationale": "Per uW figs-metonymy: ῥῆμα = each accusation OR a single word. Thai แม้แต่คำเดียว preserves both senses. The emphasis is total silence"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "πρὸς τὰ πρόβατα τὰ ἀπολωλότα οἴκου Ἰσραήλ": {
       "primary_thai": "หาแกะที่หลงหายของวงศ์วานอิสราเอล",
       "all_renderings": {
@@ -26673,6 +27569,18 @@
       },
       "occurrences_count": 1
     },
+    "πόσα σου καταμαρτυροῦσιν": {
+      "primary_thai": "พวกเขาเป็นพยานปรักปรำท่านมากมายเช่นนี้",
+      "all_renderings": {
+        "พวกเขาเป็นพยานปรักปรำท่านมากมายเช่นนี้": [
+          {
+            "verse": "Matthew 27:13",
+            "rationale": "καταμαρτυρέω = bear-witness-against (compound: kata-down + martyreō). Thai เป็นพยานปรักปรำ captures the legal-accusatory testimony. Per uW figs-explicit: Pilate is implicitly asking why Jesus doesn't defend himself"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "πόσας σπυρίδας ἐλάβετε": {
       "primary_thai": "จำนวนตะกร้าที่พวกท่านเก็บได้",
       "all_renderings": {
@@ -26860,6 +27768,18 @@
           {
             "verse": "Matthew 5:28",
             "rationale": "Per uW figs-explicit: γυναῖκα contextually = woman-not-his-wife (implicit). Thai 'หญิงอื่น' (another woman) makes uW-flagged implicit explicit. βλέπων present-active participle = ongoing/repeated-looking (not glance). Distinguishes intentional-leering from accidental-glance."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "πᾶς ὁ λαὸς": {
+      "primary_thai": "ประชาชนทั้งสิ้น",
+      "all_renderings": {
+        "ประชาชนทั้งสิ้น": [
+          {
+            "verse": "Matthew 27:25",
+            "rationale": "λαός = the people (often with covenant-Israel resonance). Consistent rendering ประชาชน. πᾶς = all-of-the-particular-crowd, NOT 'all Jews of all time'"
           }
         ]
       },
@@ -27531,9 +28451,15 @@
             "verse": "Mark 15:33",
             "rationale": "σκότος → ความมืด. Per uW TN figs-abstractnouns, 'darkness happened' can be rendered verbally ('it became dark'). Thai ความมืดปกคลุม (darkness covered/spread-over) uses abstract-noun + action-verb, standard Thai narrative register."
           }
+        ],
+        "ความมืดได้ปกคลุม": [
+          {
+            "verse": "Matthew 27:45",
+            "rationale": "Per uW figs-abstractnouns: 'darkness happened.' Thai ความมืดปกคลุม natural-idiom for cosmic-darkness"
+          }
         ]
       },
-      "occurrences_count": 1
+      "occurrences_count": 2
     },
     "σμύρναν": {
       "primary_thai": "มดยอบ",
@@ -27749,6 +28675,18 @@
       },
       "occurrences_count": 1
     },
+    "σπόγγον": {
+      "primary_thai": "ฟองน้ำ",
+      "all_renderings": {
+        "ฟองน้ำ": [
+          {
+            "verse": "Matthew 27:48",
+            "rationale": "Per uW translate-unknown: porous absorbent object. Standard Thai ฟองน้ำ"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "σπόγγον ὄξους": {
       "primary_thai": "ฟองน้ำชุบน้ำองุ่นเปรี้ยว",
       "all_renderings": {
@@ -27768,6 +28706,18 @@
           {
             "verse": "Mark 2:23",
             "rationale": "στάχυς = head/ear of grain. Thai 'รวงข้าว' = grain-ear/head."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "στέφανον ἐξ ἀκανθῶν": {
+      "primary_thai": "มงกุฎจากหนาม",
+      "all_renderings": {
+        "มงกุฎจากหนาม": [
+          {
+            "verse": "Matthew 27:29",
+            "rationale": "Per uW figs-possession + figs-explicit: crown made-from thorny branches. Possible thorns: Sarcopoterium spinosum or Ziziphus spina-christi (both common in Judea). Thai มงกุฎ (royal crown) preserves the parody-of-kingship. Royal-recipient พระเศียร (head)"
           }
         ]
       },
@@ -27797,6 +28747,18 @@
       },
       "occurrences_count": 1
     },
+    "σταυροῦνται": {
+      "primary_thai": "ถูกตรึงที่กางเขน",
+      "all_renderings": {
+        "ถูกตรึงที่กางเขน": [
+          {
+            "verse": "Matthew 27:38",
+            "rationale": "Per uW figs-pastforfuture + figs-activepassive: historic-present passive. Render Thai-past + passive-with-neutral-agent"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "σταυροῦσιν αὐτόν": {
       "primary_thai": "ตรึงพระองค์ที่กางเขน",
       "all_renderings": {
@@ -27816,6 +28778,18 @@
           {
             "verse": "Matthew 26:2",
             "rationale": "Consistent with Matthew's prior passion predictions (20:19) and Mark's parallel; the standard Thai Christian idiom"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "σταυρώσαντες": {
+      "primary_thai": "ตรึงพระองค์ที่กางเขน",
+      "all_renderings": {
+        "ตรึงพระองค์ที่กางเขน": [
+          {
+            "verse": "Matthew 27:35",
+            "rationale": "Per glossary established in Mark: σταυρόω → ตรึง...ที่กางเขน. Royal-object พระองค์. Matthew's terse handling of the actual crucifixion (one participle) preserves the Markan understatement"
           }
         ]
       },
@@ -28021,9 +28995,15 @@
             "verse": "Matthew 22:15",
             "rationale": "συμβούλιον + λαμβάνω idiom = \"took counsel / held consultation\" per uW figs-idiom (see Matt 12:14, 27:1, 27:7, 28:12). Thai ร่วมกันวางแผน (plan-together) consistent with established Matt 12:14 rendering."
           }
+        ],
+        "ได้ปรึกษากัน": [
+          {
+            "verse": "Matthew 27:1",
+            "rationale": "Idiom 'took counsel' per uW figs-idiom — collaborative plotting. Matches the rendering at Mat 12:14, 22:15. ปรึกษากัน is natural Thai for the deliberative-conspiracy sense"
+          }
         ]
       },
-      "occurrences_count": 1
+      "occurrences_count": 2
     },
     "συμβούλιον ἔλαβον κατ’αὐτοῦ": {
       "primary_thai": "ปรึกษากันถึงพระองค์",
@@ -28032,6 +29012,18 @@
           {
             "verse": "Matthew 12:14",
             "rationale": "Per uW figs-idiom: συμβούλιον λαμβάνω 'take-counsel-against' = plot/conspire (Matt 22:15, 27:1, 27:7, 28:12 pattern). Thai 'ปรึกษากัน' neutral 'take-counsel,' 'ถึงพระองค์' (about-him) — 'กัน...ถึง' natural Thai conspiracy-idiom. NEW GLOSSARY: συμβούλιον λαμβάνω → ปรึกษากัน."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "συμβούλιον...λαβόντες": {
+      "primary_thai": "ปรึกษากัน",
+      "all_renderings": {
+        "ปรึกษากัน": [
+          {
+            "verse": "Matthew 27:7",
+            "rationale": "Same idiom as v.1; consistent rendering"
           }
         ]
       },
@@ -28397,6 +29389,18 @@
       },
       "occurrences_count": 1
     },
+    "συνηγμένων...αὐτῶν": {
+      "primary_thai": "เมื่อพวกเขาชุมนุมกันแล้ว",
+      "all_renderings": {
+        "เมื่อพวกเขาชุมนุมกันแล้ว": [
+          {
+            "verse": "Matthew 27:17",
+            "rationale": "Genitive absolute. Per uW figs-activepassive: rendered actively. Refers to the same crowd as v.15"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "συντέλεια αἰῶνός": {
       "primary_thai": "ยุคอวสาน",
       "all_renderings": {
@@ -28440,6 +29444,30 @@
           {
             "verse": "Mark 14:3",
             "rationale": "συντρίβω 'shatter/break' aor.-ptc → ทุบ. The neck of alabaster jars was sealed; breaking it ensured the entire contents would be used at once (irrevocable gift). κατέχεεν impf. 'was-pouring-down-on' → เท...ลง. κεφαλή → พระเศียร (royal register for Jesus's head). ANOINTING-OF-KING symbolism: 1 Sam 10:1 (Samuel anoints Saul), 16:13 (Samuel anoints David on head), 1 Kgs 1:39 (Zadok anoints Solomon). Pouring on the HEAD specifically = royal-anointing, not merely honor. Mark (vs. John 12:3 which has feet) preserves the royal dimension — this is a MESSIANIC-CORONATION gesture, whether or not the woman understood it so."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "συσταυρωθέντες": {
+      "primary_thai": "ถูกตรึงที่กางเขนพร้อมกับ",
+      "all_renderings": {
+        "ถูกตรึงที่กางเขนพร้อมกับ": [
+          {
+            "verse": "Matthew 27:44",
+            "rationale": "Compound σύν-stauróō = co-crucified. Per uW figs-activepassive: implied agent is soldiers"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "σφραγίσαντες τὸν λίθον": {
+      "primary_thai": "ประทับตราที่หิน",
+      "all_renderings": {
+        "ประทับตราที่หิน": [
+          {
+            "verse": "Matthew 27:66",
+            "rationale": "Per uW figs-explicit: seal placed on/across the stone — wax-impression with official symbol; broken-seal would prove tampering. Thai ประทับตรา standard"
           }
         ]
       },
@@ -28577,6 +29605,18 @@
       },
       "occurrences_count": 1
     },
+    "σὺ ὄψῃ": {
+      "primary_thai": "ท่านจัดการเอาเอง",
+      "all_renderings": {
+        "ท่านจัดการเอาเอง": [
+          {
+            "verse": "Matthew 27:4",
+            "rationale": "Future middle of ὁράω with idiomatic force per uW figs-idiom: 'You will see (to it)' = your responsibility. Thai ท่านจัดการเอาเอง captures the responsibility-shifting. Note: same idiom recurs at 27:24 (Pilate to crowd) — ironic mirror"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "σὺν τόκῳ": {
       "primary_thai": "พร้อมดอกเบี้ย",
       "all_renderings": {
@@ -28608,10 +29648,14 @@
           {
             "verse": "Mark 15:30",
             "rationale": "σῴζω aor.-imper. 'save!' — per uW figs-explicit, the taunt demands self-preservation. Thai จงช่วยตัวเอง...ให้รอด preserves the imperative + reflexive + save-completion. Word-echo: the name Ἰησοῦς means 'YHWH saves' — the taunt ironically inverts Jesus's vocation (he saves others, v.31)."
+          },
+          {
+            "verse": "Matthew 27:40",
+            "rationale": "Aorist imperative. Mocking call. Thai จงช่วยตัวเองให้รอด preserves the imperative-mockery. Passion-irony: he saves others by NOT saving himself"
           }
         ]
       },
-      "occurrences_count": 1
+      "occurrences_count": 2
     },
     "τάλαντα": {
       "primary_thai": "ตะลันต์",
@@ -29063,6 +30107,18 @@
       },
       "occurrences_count": 1
     },
+    "ταφὴν": {
+      "primary_thai": "ที่ฝังศพ",
+      "all_renderings": {
+        "ที่ฝังศพ": [
+          {
+            "verse": "Matthew 27:7",
+            "rationale": "HAPAX in NT (ταφή — the action/place of burial). Per uW figs-abstractnouns: render as concrete 'place to bury.' ที่ฝังศพ is natural Thai"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ταχὺ ἕως ὅτου εἶ μετ’αὐτοῦ ἐν τῇ ὁδῷ": {
       "primary_thai": "โดยเร็ว ขณะที่ท่านยังอยู่ในทางกับเขา",
       "all_renderings": {
@@ -29238,6 +30294,18 @@
           {
             "verse": "MRK 10:16",
             "rationale": "ราชาศัพท์ พระหัตถ์ (royal 'hand') — established pattern. Laying-on-of-hands blessing is standard Jewish patriarchal blessing (Gen 48:14 Jacob blesses Ephraim/Manasseh)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "τιμὴ αἵματός": {
+      "primary_thai": "ค่าโลหิต",
+      "all_renderings": {
+        "ค่าโลหิต": [
+          {
+            "verse": "Matthew 27:6",
+            "rationale": "Per uW figs-possession + figs-metonymy: αἷμα = death of a person; τιμή = price. The whole = 'price paid for someone's death.' Thai ค่าโลหิต (price-of-blood) preserves the OT blood-money imagery (cf. v.4, v.8). The bracketed concept echoes Deut 27:25"
           }
         ]
       },
@@ -29674,6 +30742,18 @@
           {
             "verse": "Matthew 18:13",
             "rationale": "Perfect passive participle 'ones-having-(not)-strayed' — state-resulting-from-past. Thai 'ที่ไม่ได้หลงไป' (which-had-not-gone-astray) captures stative-perfect. 'เสียอีก' sentence-final-contrastive-particle emphasizes the counter-intuitive comparison (the faithful-99 evokes surprise that they're ranked LESS in the moment of joy)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "τοῖς ξένοις": {
+      "primary_thai": "คนต่างถิ่น",
+      "all_renderings": {
+        "คนต่างถิ่น": [
+          {
+            "verse": "Matthew 27:7",
+            "rationale": "ξένος = stranger/foreigner. Per uW figs-explicit: people who died in Jerusalem but did not live there — Jewish pilgrims from elsewhere or non-Jewish foreigners. Thai คนต่างถิ่น (people-from-elsewhere) preserves the broader sense"
           }
         ]
       },
@@ -30533,6 +31613,18 @@
       },
       "occurrences_count": 1
     },
+    "τὰ μνημεῖα ἀνεῴχθησαν": {
+      "primary_thai": "อุโมงค์ฝังศพต่าง ๆ ก็เปิดออก",
+      "all_renderings": {
+        "อุโมงค์ฝังศพต่าง ๆ ก็เปิดออก": [
+          {
+            "verse": "Matthew 27:52",
+            "rationale": "μνημεῖον = tomb (RULES.md §4-implicit; glossary established as อุโมงค์/อนุสรณ์). Per uW figs-genericnoun: nearby tombs in general. อุโมงค์ฝังศพ Thai standard. Divine passive"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "τὰ μυστήρια τῆς βασιλείας τῶν οὐρανῶν": {
       "primary_thai": "ความล้ำลึกแห่งอาณาจักรสวรรค์",
       "all_renderings": {
@@ -30820,6 +31912,18 @@
           {
             "verse": "MRK 10:19",
             "rationale": "οἶδας = perfect of knowing (stative). Thai 'รู้...อยู่แล้ว' (know already) captures this. ข้อบัญญัติ = established rendering for ἐντολή."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "τὴν αἰτίαν αὐτοῦ": {
+      "primary_thai": "ป้ายข้อหาของพระองค์",
+      "all_renderings": {
+        "ป้ายข้อหาของพระองค์": [
+          {
+            "verse": "Matthew 27:37",
+            "rationale": "Per uW figs-metonymy: αἰτία (charge/cause) here = the placard with the charge written. Thai ป้ายข้อหา makes the placard explicit"
           }
         ]
       },
@@ -31141,6 +32245,18 @@
       },
       "occurrences_count": 1
     },
+    "τὴν τιμὴν τοῦ τετιμημένου ὃν ἐτιμήσαντο": {
+      "primary_thai": "ราคาที่บรรดาบุตรอิสราเอลได้ตีไว้สำหรับผู้ที่ตนตีราคา",
+      "all_renderings": {
+        "ราคาที่บรรดาบุตรอิสราเอลได้ตีไว้สำหรับผู้ที่ตนตีราคา": [
+          {
+            "verse": "Matthew 27:9",
+            "rationale": "Wordplay on τιμάω (price-set thrice). Per uW figs-explicitinfo: redundancy is intentional, mocking the cheapness of the valuation. Thai preserves the price/valuation-repetition; the dignified 'one-being-priced' refers to Christ being valued at 30 silver"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "τὴν τοῦτο ποιήσασαν": {
       "primary_thai": "ผู้ที่ได้กระทำการนี้",
       "all_renderings": {
@@ -31196,6 +32312,18 @@
           {
             "verse": "Matthew 24:12",
             "rationale": "Consistent with Matthew's earlier usage (7:23, 13:41, 23:28); 'lawlessness' as opposition to divine Law"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "τὴν ἁγίαν πόλιν": {
+      "primary_thai": "นครบริสุทธิ์",
+      "all_renderings": {
+        "นครบริสุทธิ์": [
+          {
+            "verse": "Matthew 27:53",
+            "rationale": "= Jerusalem (cf. Mat 4:5). Thai นครบริสุทธิ์ standard biblical-Jerusalem epithet"
           }
         ]
       },
@@ -31421,6 +32549,18 @@
       },
       "occurrences_count": 1
     },
+    "τὸ δ’αὐτὸ": {
+      "primary_thai": "ในทำนองเดียวกัน",
+      "all_renderings": {
+        "ในทำนองเดียวกัน": [
+          {
+            "verse": "Matthew 27:44",
+            "rationale": "Per uW figs-explicit: same-kind-of-insults as the leaders. Thai ในทำนองเดียวกัน captures the parallel"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "τὸ εὐαγγέλιον": {
       "primary_thai": "ข่าวประเสริฐ",
       "all_renderings": {
@@ -31488,10 +32628,14 @@
           {
             "verse": "Mark 15:38",
             "rationale": "καταπέτασμα → ม่านในพระวิหาร (temple-curtain; glossary-established here). Per uW TN figs-explicit, two curtains existed: (a) between Holy and Most Holy Place (the inner paroket), (b) between vestibule and Holy Place (the outer masak). Mark does not specify. Thai ม่านในพระวิหาร leaves it ambiguous as Mark does. ναός → พระวิหาร (inner-sanctuary, glossary-established)."
+          },
+          {
+            "verse": "Matthew 27:51",
+            "rationale": "Per glossary established in Mark: καταπέτασμα → ม่านในพระวิหาร. ναός = inner-sanctuary (RULES.md §4: พระวิหาร). Per uW figs-explicit: ambiguous which curtain (inner-most-holy vs. outer); Thai preserves ambiguity"
           }
         ]
       },
-      "occurrences_count": 1
+      "occurrences_count": 2
     },
     "τὸ λαλοῦν ἐν ὑμῖν": {
       "primary_thai": "ที่พูดผ่านทางพวกท่าน",
@@ -31686,6 +32830,18 @@
           {
             "verse": "MRK 10:38",
             "rationale": "ποτήριον = cup. OT metaphor for divinely appointed portion — often of wrath/suffering (Isa 51:17, 22 'cup of his fury'; Jer 25:15-28; Ps 75:8). Thai 'ถ้วย' standard. Jesus uses the metaphor for his impending suffering; cf. Mark 14:36 Gethsemane 'take this cup from me.'"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "τὸ πραιτώριον": {
+      "primary_thai": "กองบัญชาการปรีทอเรียม",
+      "all_renderings": {
+        "กองบัญชาการปรีทอเรียม": [
+          {
+            "verse": "Matthew 27:27",
+            "rationale": "Latin loanword (praetorium) = governor's official residence/HQ. Per uW translate-unknown. Thai กองบัญชาการปรีทอเรียม preserves the transliteration (per Mark glossary precedent) AND adds explanatory noun for clarity"
           }
         ]
       },
@@ -32013,6 +33169,18 @@
       },
       "occurrences_count": 1
     },
+    "τὸν Βαραββᾶν": {
+      "primary_thai": "บารับบัส",
+      "all_renderings": {
+        "บารับบัส": [
+          {
+            "verse": "Matthew 27:20",
+            "rationale": "From v.20 onward Matthew drops the 'Jesus' before Barabbas — only the name Barabbas remains. Consistent with the SBLGNT text"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "τὸν Καναναῖον": {
       "primary_thai": "ชาวคานาอัน",
       "all_renderings": {
@@ -32299,6 +33467,18 @@
       },
       "occurrences_count": 1
     },
+    "τὸν σταυρὸν αὐτοῦ": {
+      "primary_thai": "กางเขนของพระองค์",
+      "all_renderings": {
+        "กางเขนของพระองค์": [
+          {
+            "verse": "Matthew 27:32",
+            "rationale": "Royal-possessive พระองค์. Convicts carried only the patibulum (crossbeam, ~50kg) — the upright stipes was usually fixed at the execution site"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "τὸν σῖτον συναγάγετε εἰς τὴν ἀποθήκην μου": {
       "primary_thai": "ส่วนข้าวสาลีนั้นให้รวบรวมเข้าในยุ้งฉางของเรา",
       "all_renderings": {
@@ -32430,6 +33610,18 @@
           {
             "verse": "Matthew 6:11",
             "rationale": "Per uW figs-synecdoche: ἄρτος 'bread' = food in general (Mediterranean staple → synecdoche-for-food). Thai 'อาหาร' (food) preserves generic-sense; chose over literal 'ขนมปัง' (bread) because Thai does not have the Mediterranean-metonymic-equivalent (rice-culture uses ข้าว 'rice' similarly). ἐπιούσιος meaning-debated (per uW figs-explicit): (1) 'for-the-coming-day' (tomorrow's/today's), (2) 'necessary-for-existence,' (3) 'needed-daily.' Thai 'ประจำวัน' (for-each-day) captures all three senses. Per Origen + Jerome: ἐπιούσιος likely Matthean-neologism (Greek rare outside NT — one papyrus occurrence) coined from ἐπί+οὐσία or ἐπί+ἰέναι. NEW GLOSSARY: ἄρτος (Lord's-Prayer) → อาหาร (food-generic); ἐπιούσιος → ประจำวัน."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "τὸν Ἀγρὸν τοῦ Κεραμέως": {
+      "primary_thai": "ทุ่งนาของช่างปั้นหม้อ",
+      "all_renderings": {
+        "ทุ่งนาของช่างปั้นหม้อ": [
+          {
+            "verse": "Matthew 27:7",
+            "rationale": "Per uW figs-explicit: ambiguous in Greek — either a field-named-after-the-potter or a field-owned-by-a-potter. ทุ่งนาของช่างปั้นหม้อ preserves the ambiguity (genitive-of-possession). Thematic OT echo: Jer 18-19 (potter motif) and Zech 11:13 (potter as recipient)"
           }
         ]
       },
@@ -32644,6 +33836,18 @@
           {
             "verse": "Matthew 19:14",
             "rationale": "Per uW figs-possession + figs-simile: τοιούτων (genitive-plural 'of-such-ones') = not-only-children-but-those-like-children. Per uW writing-pronouns: 'these' refers back to children. Thai 'ผู้ที่เป็นเช่นนี้' (those-who-are-like-this) preserves the 'such-ones' sense rather than narrowing to 'children-only.' Per glossary: βασιλεία τῶν οὐρανῶν → อาณาจักรสวรรค์. Echoes Matt 5:3 'αὐτῶν ἐστιν ἡ βασιλεία τῶν οὐρανῶν.'"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "τῶν δύο": {
+      "primary_thai": "ในสองคนนี้",
+      "all_renderings": {
+        "ในสองคนนี้": [
+          {
+            "verse": "Matthew 27:21",
+            "rationale": "Per uW figs-nominaladj: 'the two' = two-prisoners. Thai สองคนนี้ supplies the noun"
           }
         ]
       },
@@ -33333,9 +34537,15 @@
             "verse": "Mark 15:15",
             "rationale": "φραγελλόω — LATIN LOANWORD (flagellare 'to whip') via Greek transliteration (per uW TN translate-unknown — Roman scourging with flagellum, a whip with bone/metal shards). Thai เฆี่ยน is the standard vocabulary for whipping/flogging. The Thai rendering is not a transliteration; that would be over-literal. Per uW figs-explicit, Pilate commanded soldiers to do the flogging — Thai leaves this implicit just as Greek does."
           }
+        ],
+        "โบยตี": [
+          {
+            "verse": "Matthew 27:26",
+            "rationale": "Latin loanword (flagello) — Roman flogging with the flagrum (whip with bone/metal pieces). Per uW translate-unknown: brutal scourging that sometimes killed prisoners before crucifixion. Thai โบยตี is the standard Bible-Thai term. Per uW figs-explicit: implies Pilate ordered soldiers to flog"
+          }
         ]
       },
-      "occurrences_count": 1
+      "occurrences_count": 2
     },
     "φραγμὸν αὐτῷ περιέθηκεν": {
       "primary_thai": "ก่อกำแพงล้อมรอบ",
@@ -33548,6 +34758,18 @@
           {
             "verse": "Matthew 9:16",
             "rationale": "χείρων comparative 'worse' + σχίσμα 'tear/rip' + γίνεται 'becomes.' Thai รอยขาด (tear-trace) + ยิ่งแย่ลง (become-even-worse). Matches Mark 2:21 Thai."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "χλαμύδα κοκκίνην": {
+      "primary_thai": "เสื้อคลุมสีแดงเข้ม",
+      "all_renderings": {
+        "เสื้อคลุมสีแดงเข้ม": [
+          {
+            "verse": "Matthew 27:28",
+            "rationale": "χλαμύς = military cloak (Roman officer's outer garment). κόκκινος = scarlet/crimson (cf. Mark 15:17 πορφύρα 'purple'). Per uW figs-explicit: mock-royal robe. เสื้อคลุมสีแดงเข้ม captures the deep-red color of Roman officers' cloaks. The 'scarlet' vs 'purple' distinction reflects the actual cloak (red wool, fading toward purplish hue, common Roman military garb)"
           }
         ]
       },
@@ -35449,6 +36671,18 @@
       },
       "occurrences_count": 1
     },
+    "ἀνεβόησεν...φωνῇ μεγάλῃ": {
+      "primary_thai": "ทรงร้องด้วยเสียงดัง",
+      "all_renderings": {
+        "ทรงร้องด้วยเสียงดัง": [
+          {
+            "verse": "Matthew 27:46",
+            "rationale": "HAPAX in NT (ἀναβοάω) + φωνῇ μεγάλῃ. Per uW figs-idiom: loud-voice = full-volume cry. Royal verb ทรง- preserves divine register"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἀνεκτότερον ἔσται γῇ Σοδόμων καὶ Γομόρρων": {
       "primary_thai": "โสโดมและโกโมราห์จะได้รับการลงโทษที่ทนได้มากกว่า",
       "all_renderings": {
@@ -35873,6 +37107,18 @@
       },
       "occurrences_count": 2
     },
+    "ἀπήγαγον αὐτὸν εἰς τὸ σταυρῶσαι": {
+      "primary_thai": "นำพระองค์ออกไปเพื่อตรึงที่กางเขน",
+      "all_renderings": {
+        "นำพระองค์ออกไปเพื่อตรึงที่กางเขน": [
+          {
+            "verse": "Matthew 27:31",
+            "rationale": "Per uW figs-explicit: led-away from the Praetorium. Articular infinitive of purpose. RULES.md §4 σταυρόω → ตรึง...ที่กางเขน"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἀπήγαγον τὸν Ἰησοῦν πρὸς τὸν ἀρχιερέα": {
       "primary_thai": "พวกเขานำพระเยซูไปยังที่ของมหาปุโรหิต",
       "all_renderings": {
@@ -35916,6 +37162,18 @@
           {
             "verse": "Matthew 14:12",
             "rationale": "Per uW figs-explicit: they reported John's execution to Jesus. ἀπαγγέλλω 'report.' Divine addressee — Thai 'แจ้งให้...ทรงทราบ' with 'ทรงทราบ' = royal knowing (RULES.md §3). NEW GLOSSARY: ἀπαγγέλλω (to Jesus) → แจ้งให้ทรงทราบ."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἀπήγξατο": {
+      "primary_thai": "ผูกคอตาย",
+      "all_renderings": {
+        "ผูกคอตาย": [
+          {
+            "verse": "Matthew 27:5",
+            "rationale": "HAPAX in NT (ἀπάγχομαι, only here). Aorist middle = 'hanged himself.' Standard Thai ผูกคอตาย (tied-neck-died). Cf. 2 Sam 17:23 LXX uses the same verb for Ahithophel's suicide — possible OT typological echo"
           }
         ]
       },
@@ -36173,6 +37431,18 @@
       },
       "occurrences_count": 1
     },
+    "ἀπενίψατο τὰς χεῖρας": {
+      "primary_thai": "ล้างมือ",
+      "all_renderings": {
+        "ล้างมือ": [
+          {
+            "verse": "Matthew 27:24",
+            "rationale": "HAPAX in NT (ἀπονίπτω). Per uW translate-symaction: Jewish ritual gesture from Deut 21:6-9 (elders washing hands over slain heifer to declare innocence of unsolved murder). Plain Thai ล้างมือ — the symbolism is explained in thai_summary"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἀπεστέγασαν τὴν στέγην": {
       "primary_thai": "รื้อหลังคา",
       "all_renderings": {
@@ -36347,9 +37617,15 @@
             "verse": "Matthew 22:1",
             "rationale": "ἀποκρίνομαι aor-pass-ptcp. Per uW figs-explicit, Jesus responds to the chief priests/elders/Pharisees' hostility shown in 21:45-46 (they wanted to arrest him but feared the crowds). Divine-subject so royal ตรัส; +ตอบ for response-force."
           }
+        ],
+        "ตอบ": [
+          {
+            "verse": "Matthew 27:21",
+            "rationale": "Per uW figs-explicit: Pilate is responding to the situation (the crowd's clamor), not to a question. Standard ตอบ"
+          }
         ]
       },
-      "occurrences_count": 2
+      "occurrences_count": 3
     },
     "ἀποκριθεὶς ... εἶπεν": {
       "primary_thai": "ตรัสตอบ",
@@ -36588,6 +37864,18 @@
           {
             "verse": "Mark 16:3",
             "rationale": "ἀποκυλίω 'roll-away' — future-active. The compound verb recurs at v.4 in perfect-passive. Thai จะกลิ้งออก captures the directional-rolling action."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἀπολέσωσιν": {
+      "primary_thai": "ทำลาย",
+      "all_renderings": {
+        "ทำลาย": [
+          {
+            "verse": "Matthew 27:20",
+            "rationale": "ἀπόλλυμι = destroy. Per uW figs-explicit: implies execution. Thai ทำลาย preserves the destructive-killing sense; the priests want Jesus destroyed, not merely punished"
           }
         ]
       },
@@ -36881,6 +38169,18 @@
       },
       "occurrences_count": 1
     },
+    "ἀπὸ μακρόθεν θεωροῦσαι": {
+      "primary_thai": "มองดูอยู่แต่ไกล",
+      "all_renderings": {
+        "มองดูอยู่แต่ไกล": [
+          {
+            "verse": "Matthew 27:55",
+            "rationale": "Per uW writing-background: background-info about the women's presence. มองดูอยู่แต่ไกล Thai-natural for 'watching from far away'"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἀπὸ μακρόθεν ἠκολούθησεν": {
       "primary_thai": "ตามพระองค์ไปห่าง ๆ",
       "all_renderings": {
@@ -37080,6 +38380,18 @@
           {
             "verse": "1 Timothy 3:7",
             "rationale": "οἱ ἔξωθεν = those on the outside (i.e., non-Christians; cf. 1 Cor 5:12-13). คนภายนอก = outsiders — Thai Christian idiom preserves the insider/outsider distinction."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἀπὸ υἱῶν Ἰσραήλ": {
+      "primary_thai": "บรรดาบุตรอิสราเอล",
+      "all_renderings": {
+        "บรรดาบุตรอิสราเอล": [
+          {
+            "verse": "Matthew 27:9",
+            "rationale": "Per uW figs-metaphor + figs-gendernotations: 'sons of Israel' = all descendants. But this is a Hebraism that Matthew preserves verbatim from the OT-citation tradition. Thai บรรดาบุตรอิสราเอล preserves the OT-formula sound"
           }
         ]
       },
@@ -37871,6 +39183,18 @@
       },
       "occurrences_count": 1
     },
+    "ἀφῆκεν τὸ πνεῦμα": {
+      "primary_thai": "ทรงสละพระวิญญาณของพระองค์",
+      "all_renderings": {
+        "ทรงสละพระวิญญาณของพระองค์": [
+          {
+            "verse": "Matthew 27:50",
+            "rationale": "Per uW figs-euphemism: 'released the spirit' = died. Per uW option 2: voluntarily-yielding (rather than passive expiration). Royal verb ทรงสละ + royal-noun พระวิญญาณ. Thai สละ preserves the volitional sense, distinct from 'died' or 'breathed-his-last'"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἀχρεῖον": {
       "primary_thai": "ไร้ประโยชน์",
       "all_renderings": {
@@ -38239,6 +39563,18 @@
       },
       "occurrences_count": 1
     },
+    "ἄνθρωπον Κυρηναῖον ὀνόματι Σίμωνα": {
+      "primary_thai": "ชายชาวไซรีนคนหนึ่งชื่อซีโμον",
+      "all_renderings": {
+        "ชายชาวไซรีนคนหนึ่งชื่อซีโμον": [
+          {
+            "verse": "Matthew 27:32",
+            "rationale": "Per glossary: Σίμων Κυρηναῖος → ซีโมนชาวไซรีน (established in Mark glossary). Cyrene was a major Jewish-diaspora city in N. Africa (modern Libya)"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἄνθρωπον κατὰ τοῦ πατρὸς αὐτοῦ": {
       "primary_thai": "ทำให้บุตรชายแตกแยกจากบิดา",
       "all_renderings": {
@@ -38316,6 +39652,18 @@
         ]
       },
       "occurrences_count": 2
+    },
+    "ἄνθρωπος πλούσιος ἀπὸ Ἁριμαθαίας,τοὔνομα Ἰωσήφ": {
+      "primary_thai": "ชายมั่งมีคนหนึ่งจากเมืองอาริมาเธียชื่อโยเซฟ",
+      "all_renderings": {
+        "ชายมั่งมีคนหนึ่งจากเมืองอาริมาเธียชื่อโยเซฟ": [
+          {
+            "verse": "Matthew 27:57",
+            "rationale": "Per uW writing-participants: introducing new character. Ἁριμαθαία → อาริมาเธีย standard. πλούσιος = wealthy (Matthean detail; key to Isa 53:9 fulfillment)"
+          }
+        ]
+      },
+      "occurrences_count": 1
     },
     "ἄνθρωπος ἀποδημῶν": {
       "primary_thai": "ชายคนหนึ่งที่กำลังจะเดินทางไปต่างแดน",
@@ -38689,6 +40037,30 @@
       },
       "occurrences_count": 3
     },
+    "Ἀγρὸς Αἵματος": {
+      "primary_thai": "ทุ่งโลหิต",
+      "all_renderings": {
+        "ทุ่งโลหิต": [
+          {
+            "verse": "Matthew 27:8",
+            "rationale": "Direct render of the place-name. Acts 1:19 transliterates the Aramaic Ἁκελδαμάχ; Matthew translates into Greek. Thai ทุ่งโลหิต follows Matthew's translation-strategy. Echoes the αἷμα-thread of vv.4, 6, 8, 24-25"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Ἀθῷός εἰμι ἀπὸ τοῦ αἵματος τούτου": {
+      "primary_thai": "เราไม่มีผิดในโลหิตของคนนี้",
+      "all_renderings": {
+        "เราไม่มีผิดในโลหิตของคนนี้": [
+          {
+            "verse": "Matthew 27:24",
+            "rationale": "ἀθῷος (only here + v.4) deliberately recalls Judas's confession: αἷμα ἀθῷον. Pilate now claims innocence from the same blood Judas confessed shedding. TEXTUAL VARIANT: SBLGNT reads 'τούτου' (of-this-one); some MSS read 'τούτου τοῦ δικαίου' (of-this-righteous-one). We follow SBLGNT"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "Ἀκμήν καὶ ὑμεῖς ἀσύνετοί ἐστε": {
       "primary_thai": "พวกเจ้าก็ยังขาดความเข้าใจอยู่อีกหรือ",
       "all_renderings": {
@@ -38814,6 +40186,18 @@
           {
             "verse": "Matthew 14:33",
             "rationale": "Per glossary (MRK 15:39): 'Ἀληθῶς οὗτος ὁ ἄνθρωπος υἱὸς θεοῦ ἦν' → 'แท้จริง ท่านผู้นี้เป็นพระบุตรของพระเจ้า.' Here the disciples address Jesus directly (2nd person) — divine register: พระองค์ทรงเป็น. Per uW guidelines-sonofgodprinciples: 'Son of God' is an important title describing Jesus's relationship to the Father. Formal Thai Christian phrase: 'พระบุตรของพระเจ้า.' NEW GLOSSARY: ἀληθῶς → แท้จริง; θεοῦ υἱός → พระบุตรของพระเจ้า."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Ἀληθῶς θεοῦ υἱὸς ἦν οὗτος": {
+      "primary_thai": "แท้จริงท่านผู้นี้เป็นพระบุตรของพระเจ้า",
+      "all_renderings": {
+        "แท้จริงท่านผู้นี้เป็นพระบุตรของพระเจ้า": [
+          {
+            "verse": "Matthew 27:54",
+            "rationale": "Per uW guidelines-sonofgodprinciples: Christ-title preserved. Thai ท่านผู้นี้ — formal-respectful (the centurion is now confessing, no longer mocking). พระบุตรของพระเจ้า standard. ἦν past tense in Greek — 'was' — describing what was crucified"
           }
         ]
       },
@@ -39131,6 +40515,18 @@
       },
       "occurrences_count": 1
     },
+    "Ἀπὸ δὲ ἕκτης ὥρας...ἕως ὥρας ἐνάτης": {
+      "primary_thai": "ตั้งแต่เวลาเที่ยงวันถึงบ่ายสามโมง",
+      "all_renderings": {
+        "ตั้งแต่เวลาเที่ยงวันถึงบ่ายสามโมง": [
+          {
+            "verse": "Matthew 27:45",
+            "rationale": "Per uW figs-explicit: Jewish reckoning 6th hour = noon, 9th hour = 3 PM. Thai modern-time-equivalents (เที่ยงวัน, บ่ายสามโมง) preserve clarity for Thai readers"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "Ἀπὸ τότε ἤρξατο ὁ Ἰησοῦς": {
       "primary_thai": "ตั้งแต่นั้นมา พระเยซูทรงเริ่ม",
       "all_renderings": {
@@ -39251,6 +40647,18 @@
       },
       "occurrences_count": 1
     },
+    "Ἄλλους ἔσωσεν": {
+      "primary_thai": "เขาช่วยคนอื่นให้รอดได้",
+      "all_renderings": {
+        "เขาช่วยคนอื่นให้รอดได้": [
+          {
+            "verse": "Matthew 27:42",
+            "rationale": "Per uW figs-explicit + figs-nominaladj: 'others' = those Jesus healed/exorcised. The leaders' grudging admission of his ministry-power. ช่วย...ให้รอด standard salvation-language. Hostile-register เขา (not พระองค์) from leaders' mocking lips"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "Ἄλλους ἔσωσεν, ἑαυτὸν οὐ δύναται σῶσαι": {
       "primary_thai": "เขาช่วยคนอื่นให้รอดได้ แต่ช่วยตนเองไม่ได้",
       "all_renderings": {
@@ -39294,6 +40702,18 @@
           {
             "verse": "Mark 11:23",
             "rationale": "Two aor.-pass. imperatives (αἴρω / βάλλω) addressed to the mountain. uW TN notes divine-agent implied passives. Thai ถอน ('pull up by roots') preserves the uprooting sense; ทิ้งลง captures the throwing-down force."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Ἄφες": {
+      "primary_thai": "อย่าทำเลย",
+      "all_renderings": {
+        "อย่าทำเลย": [
+          {
+            "verse": "Matthew 27:49",
+            "rationale": "Per uW figs-explicit: 'Leave [him]' = stop helping. Thai อย่าทำเลย is natural prohibition"
           }
         ]
       },
@@ -39475,9 +40895,15 @@
             "verse": "Mark 15:29",
             "rationale": "βλασφημέω → หมิ่นประมาท (blaspheme/revile; glossary-established from Mark 2:7, 3:28–29, 14:64). Here used in its broader 'revile/slander' sense — the passersby defame Jesus. Impf. iterative 'kept reviling.'"
           }
+        ],
+        "พากันด่าว่า": [
+          {
+            "verse": "Matthew 27:39",
+            "rationale": "Imperfect of βλασφημέω = revile/blaspheme. The continuous-imperfect captures sustained mockery. Thai พากันด่า + imperfective sense"
+          }
         ]
       },
-      "occurrences_count": 1
+      "occurrences_count": 2
     },
     "ἐβουλήθη λάθρᾳ ἀπολῦσαι αὐτήν": {
       "primary_thai": "จึงตั้งใจจะถอนหมั้นนางอย่างลับๆ",
@@ -40663,6 +42089,18 @@
       },
       "occurrences_count": 1
     },
+    "ἐκέλευσεν ἀποδοθῆναι": {
+      "primary_thai": "สั่งให้มอบพระศพแก่เขา",
+      "all_renderings": {
+        "สั่งให้มอบพระศพแก่เขา": [
+          {
+            "verse": "Matthew 27:58",
+            "rationale": "Per uW figs-activepassive: implied agent = Pilate's soldiers. Crucified bodies normally were left as carrion or thrown in mass graves; Roman law allowed family to claim bodies in some cases"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἐκέρδησεν ἄλλα πέντε": {
       "primary_thai": "ได้กำไรมาอีกห้าตะลันต์",
       "all_renderings": {
@@ -40760,6 +42198,18 @@
           {
             "verse": "Matthew 8:12",
             "rationale": "ἐκβάλλω fut passive indicative. Divine passive (God as implied agent per uW figs-activepassive). Thai ถูกโยน preserves the forceful expulsion."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἐκδύσαντες": {
+      "primary_thai": "เปลื้องเสื้อ...ออก",
+      "all_renderings": {
+        "เปลื้องเสื้อ...ออก": [
+          {
+            "verse": "Matthew 27:28",
+            "rationale": "ἐκδύω = strip-off-clothing. Thai เปลื้อง...ออก is standard"
           }
         ]
       },
@@ -40880,6 +42330,18 @@
           {
             "verse": "Matthew 17:27",
             "rationale": "Per uW figs-yousingular: all commands + 'you' singular to Peter. Per uW figs-explicit: 'for me and you' = 'in-substitution-for my-tax and your-tax' (ἀντί = 'instead-of, in-place-of'). Thai 'เพื่อเป็นค่าภาษีของเราและของท่าน' explicates 'ἀντί' as 'in-place-of-our-tax' — clearer for Thai readers. 'เรา' = Jesus's royal-1st; 'ท่าน' = Peter's deferential-2nd. Divine+disciple pair."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἐκεῖνος ὁ πλάνος": {
+      "primary_thai": "ผู้ลวงโลกคนนั้น",
+      "all_renderings": {
+        "ผู้ลวงโลกคนนั้น": [
+          {
+            "verse": "Matthew 27:63",
+            "rationale": "Per uW figs-explicit: 'that deceiver' = Jesus (whom they refuse to name). πλάνος = deceiver/imposter. Distancing language. Thai ผู้ลวงโลก preserves the contemptuous-distancing"
           }
         ]
       },
@@ -41269,6 +42731,18 @@
       },
       "occurrences_count": 1
     },
+    "ἐλατόμησεν ἐν τῇ πέτρᾳ": {
+      "primary_thai": "ได้สกัดไว้ในศิลา",
+      "all_renderings": {
+        "ได้สกัดไว้ในศิลา": [
+          {
+            "verse": "Matthew 27:60",
+            "rationale": "Per uW translate-unknown: rock-cut tomb chamber, typical for wealthy Jews of that era. λατομέω = quarry/cut-stone"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἐλεύσεται καὶ ἀπολέσει": {
       "primary_thai": "จะมาทำลาย",
       "all_renderings": {
@@ -41396,6 +42870,18 @@
           {
             "verse": "Matthew 18:31",
             "rationale": "ἐλθόντες 'having-come' — Thai 'เข้าเฝ้า' (come-into-royal-audience, court-idiom per RULES §3 royal-register for king). Per glossary (Matt 13:36 διασάφησον → อธิบาย): διασαφέω 'explain-clearly / recount-in-detail.' Here court-report-context → 'ทูลเล่า...ให้ทรงทราบ' (royally-recount-for-the-king-to-know) — combines 'ทูล' (humble-to-royal speech-verb per RULES §3) + 'เล่า' (narrate) + 'ทรงทราบ' (royal-knowing). Captures both the scene's court-report-formality AND the diasaphéō-'explaining-in-full' sense. Per v.25 glossary precedent: ὁ κύριος (parable-king) → พระราชา. 'ของตนเอง' reflexive-possessive. NEW GLOSSARY: διασαφέω (royal-court-report-context) → ทูลเล่า...ให้ทรงทราบ (CONTEXTUAL-VARIANT from simple-explain context)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἐλθόντες οἱ μαθηταὶ αὐτοῦ κλέψωσιν αὐτὸν": {
+      "primary_thai": "เหล่าสาวกของเขาจะมาขโมยศพไป",
+      "all_renderings": {
+        "เหล่าสาวกของเขาจะมาขโมยศพไป": [
+          {
+            "verse": "Matthew 27:64",
+            "rationale": "Per uW figs-explicit: come-to-the-tomb-and-steal. Thai ขโมยศพ explicit"
           }
         ]
       },
@@ -41540,6 +43026,18 @@
           {
             "verse": "Mark 7:35",
             "rationale": "Per uW figs-metaphor: the inability-to-speak imagined as a 'bond/cord/restraint' (δεσμός) on the tongue. When healed, the bond is 'loosed' (λύω, aor. pass.). Thai 'สายลิ้น' (cord-of-tongue, lit. 'tongue-string') is a natural Thai idiom — Thai actually has the colloquial 'ลิ้นพันกัน' (tongue-tied) for similar conditions. 'หลุดออก' (loose-out) for ἐλύθη preserves the unbinding image. The metaphor is medically apt: tongue-tied (ankyloglossia) is literally a restraining frenulum."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἐμαθητεύθη τῷ Ἰησοῦ": {
+      "primary_thai": "เป็นสาวกของพระเยซู",
+      "all_renderings": {
+        "เป็นสาวกของพระเยซู": [
+          {
+            "verse": "Matthew 27:57",
+            "rationale": "Aorist passive of μαθητεύω = was-discipled. Mark 15:43 calls Joseph 'a respected member of the council'; John 19:38 'a secret disciple for fear of the Jews.' Matthew straightforwardly calls him a disciple"
           }
         ]
       },
@@ -41744,6 +43242,18 @@
           {
             "verse": "Mark 14:65",
             "rationale": "ἐμπτύω → ถ่มน้ำลาย (glossary-established from Mark 10:34 passion-prediction, now fulfilled). Per uW TN translate-symaction, profound-insult in NE-culture. Echoes Isa 50:6 LXX."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἐμπτύσαντες": {
+      "primary_thai": "ถ่มน้ำลายรด",
+      "all_renderings": {
+        "ถ่มน้ำลายรด": [
+          {
+            "verse": "Matthew 27:30",
+            "rationale": "Per uW translate-symaction: spitting = grave insult. ถ่มน้ำลายรด is standard Thai. Echoes Isa 50:6 LXX (τὸ πρόσωπόν μου οὐκ ἀπέστρεψα ἀπὸ αἰσχύνης ἐμπτυσμάτων)"
           }
         ]
       },
@@ -42583,6 +44093,18 @@
       },
       "occurrences_count": 1
     },
+    "ἐν τῷ κατηγορεῖσθαι": {
+      "primary_thai": "เมื่อ...กล่าวหา",
+      "all_renderings": {
+        "เมื่อ...กล่าวหา": [
+          {
+            "verse": "Matthew 27:12",
+            "rationale": "Articular infinitive temporal construction. Per uW figs-activepassive: rendered actively in Thai — the priests/elders as subject"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἐν τῷ λαῷ": {
       "primary_thai": "ในหมู่ประชาชน",
       "all_renderings": {
@@ -42985,6 +44507,18 @@
       },
       "occurrences_count": 1
     },
+    "ἐνέπαιξαν": {
+      "primary_thai": "เยาะเย้ย",
+      "all_renderings": {
+        "เยาะเย้ย": [
+          {
+            "verse": "Matthew 27:29",
+            "rationale": "ἐμπαίζω = mock/ridicule (cf. v.31, 41). Per uW figs-irony: pretending honor while intending dishonor. เยาะเย้ย is standard Thai mocking-verb"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἐνέπτυον αὐτῷ": {
       "primary_thai": "ถ่มน้ำลายรดพระองค์",
       "all_renderings": {
@@ -43112,6 +44646,30 @@
           {
             "verse": "Matthew 17:9",
             "rationale": "ἐντέλλομαι (16× NT) = 'command, charge, give instructions.' Per glossary (MRK 9:9 parallel δίαστέλλομαι): strong-command → ทรงกำชับ. Matthew uses ἐντέλλομαι where Mark has διαστέλλομαι — similar command-force. Royal 'ทรง' for divine subject per RULES §3. NEW GLOSSARY: ἐντέλλομαι (Jesus-subject commanding disciples) → ทรงกำชับ."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἐνετύλιξεν αὐτὸ σινδόνι καθαρᾷ": {
+      "primary_thai": "ห่อด้วยผ้าลินินที่สะอาด",
+      "all_renderings": {
+        "ห่อด้วยผ้าลินินที่สะอาด": [
+          {
+            "verse": "Matthew 27:59",
+            "rationale": "Per uW translate-unknown: σινδών = high-quality linen burial-cloth (consistent with glossary established in Mark 14:51-52, 15:46). Per uW translate-unknown: standard Jewish burial-custom. καθαρᾷ = ritually-clean, fitting for righteous-corpse"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἐνεφανίσθησαν πολλοῖς": {
+      "primary_thai": "ปรากฏแก่คนเป็นอันมาก",
+      "all_renderings": {
+        "ปรากฏแก่คนเป็นอันมาก": [
+          {
+            "verse": "Matthew 27:53",
+            "rationale": "Per uW figs-nominaladj: 'many' = many people. ἐμφανίζω = appeared/manifested. Thai ปรากฏแก่ standard appearance-language"
           }
         ]
       },
@@ -43350,6 +44908,18 @@
         ]
       },
       "occurrences_count": 2
+    },
+    "ἐξέδυσαν...ἐνέδυσαν": {
+      "primary_thai": "ถอด...สวม",
+      "all_renderings": {
+        "ถอด...สวม": [
+          {
+            "verse": "Matthew 27:31",
+            "rationale": "Pair of antonymic verbs (ek-dyō / en-dyō). Thai ถอด/สวม preserves the on-off structure"
+          }
+        ]
+      },
+      "occurrences_count": 1
     },
     "ἐξέπνευσεν": {
       "primary_thai": "สิ้นพระชนม์",
@@ -44917,6 +46487,18 @@
       },
       "occurrences_count": 1
     },
+    "ἐπληρώθη τὸ ῥηθὲν διὰ Ἰερεμίου": {
+      "primary_thai": "ได้สำเร็จตามคำที่ตรัสไว้โดยเยเรมีย์",
+      "all_renderings": {
+        "ได้สำเร็จตามคำที่ตรัสไว้โดยเยเรมีย์": [
+          {
+            "verse": "Matthew 27:9",
+            "rationale": "Standard Matthean fulfillment-formula (cf. 1:22, 2:15, 2:17, 2:23, 4:14, 8:17, 12:17, 13:35, 21:4, 26:56). Same syntactic pattern preserved. Ἰερεμίου → เยเรมีย์ (standard Thai Christian transliteration)"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἐπνίγοντο": {
       "primary_thai": "จมน้ำตาย",
       "all_renderings": {
@@ -45037,6 +46619,18 @@
       },
       "occurrences_count": 1
     },
+    "ἐπὶ πᾶσαν τὴν γῆν": {
+      "primary_thai": "ทั่วแผ่นดิน",
+      "all_renderings": {
+        "ทั่วแผ่นดิน": [
+          {
+            "verse": "Matthew 27:45",
+            "rationale": "Per uW figs-explicit: ambiguous — local (Judea) or global. Thai ทั่วแผ่นดิน preserves the ambiguity (could be region or earth). I deliberately don't specify — uncertainty in the Greek should be uncertainty in Thai"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἐπὶ πᾶσιν τοῖς ὑπάρχουσιν": {
       "primary_thai": "ดูแลทรัพย์สมบัติทั้งหมด",
       "all_renderings": {
@@ -45056,6 +46650,18 @@
           {
             "verse": "Matthew 23:4",
             "rationale": "Per uW figs-gendernotations, ἀνθρώπων generic-masc = inclusive of-all-people. Thai ผู้คน (people, inclusive) natural."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἐπὶ τοῦ βήματος": {
+      "primary_thai": "บนบัลลังก์พิพากษา",
+      "all_renderings": {
+        "บนบัลลังก์พิพากษา": [
+          {
+            "verse": "Matthew 27:19",
+            "rationale": "βῆμα = the official judgment-seat. Per uW translate-symaction: ready-to-judge posture. บัลลังก์พิพากษา is standard Thai legal-formal"
           }
         ]
       },
@@ -45709,6 +47315,18 @@
       },
       "occurrences_count": 1
     },
+    "ἐστάθη": {
+      "primary_thai": "ทรงยืนอยู่",
+      "all_renderings": {
+        "ทรงยืนอยู่": [
+          {
+            "verse": "Matthew 27:11",
+            "rationale": "Aorist passive of ἵστημι. Per uW figs-activepassive: implied agent is the soldiers who positioned Jesus. Royal subject ทรงยืน preserves divine register even in this humiliating-passive context"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἐστέναξεν": {
       "primary_thai": "ทรงถอนพระทัย",
       "all_renderings": {
@@ -45752,6 +47370,18 @@
           {
             "verse": "Mark 15:38",
             "rationale": "σχίζω aor.-pass. → ขาด (tear/rip; standard). The passive voice (theological passive — per uW TN figs-activepassive the implied actor is God) signals God's direct act. Thai passive-inflection ขาดออก captures it. เป็นสองท่อน ('into two pieces') matches εἰς δύο."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἐσχίσθη ἀπ’ἄνωθεν ἕως κάτω εἰς δύο": {
+      "primary_thai": "ฉีกขาดออกเป็นสองจากบนลงล่าง",
+      "all_renderings": {
+        "ฉีกขาดออกเป็นสองจากบนลงล่าง": [
+          {
+            "verse": "Matthew 27:51",
+            "rationale": "Per uW figs-activepassive: divine-passive (God did it). The top-down direction signals supernatural agency (no human could tear top-to-bottom)"
           }
         ]
       },
@@ -45951,9 +47581,15 @@
             "verse": "Matthew 17:6",
             "rationale": "Aorist passive of φοβέω = 'feared, was afraid.' σφόδρα = 'very, exceedingly.' Per glossary (MT 2:10 et al.): σφόδρα → ยิ่งนัก (Matthean favorite intensifier — 7× in Matthew). Thai 'กลัวยิ่งนัก' (feared-greatly) preserves intensive. Per uW grammar-connect-time-sequential: note that logically fear → prostration, but Matthew orders prostration first then fear-description — Thai preserves Matthean order since reversing would obscure Matthean sequence."
           }
+        ],
+        "กลัวยิ่งนัก": [
+          {
+            "verse": "Matthew 27:54",
+            "rationale": "Standard Thai for 'feared exceedingly' — fear-of-God / awe-response"
+          }
         ]
       },
-      "occurrences_count": 1
+      "occurrences_count": 2
     },
     "ἐφοβήθησαν τοὺς ὄχλους": {
       "primary_thai": "ก็กลัวฝูงชน",
@@ -46478,10 +48114,14 @@
           {
             "verse": "Matthew 8:5",
             "rationale": "ἑκατόνταρχος = commander of 100 soldiers, Roman centurion. Thai นายร้อย = established glossary (Mark 15:39, 45) and standard biblical-Thai term for this Roman rank."
+          },
+          {
+            "verse": "Matthew 27:54",
+            "rationale": "Per uW: Roman centurion (commander of ~80-100 soldiers). Standard Thai นายร้อย"
           }
         ]
       },
-      "occurrences_count": 1
+      "occurrences_count": 2
     },
     "ἑνὶ τούτων τῶν ἐλαχίστων": {
       "primary_thai": "คนใดคนหนึ่งที่ต่ำต้อยที่สุดเหล่านี้",
@@ -46694,6 +48334,18 @@
           {
             "verse": "Mark 5:6",
             "rationale": "τρέχω = run. Thai 'วิ่งเข้ามา' (run-come-toward) directional, capturing the demoniac's paradoxical rush toward Jesus."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἔδωκαν αὐτὰ εἰς": {
+      "primary_thai": "ได้นำเงินนั้นไปซื้อ",
+      "all_renderings": {
+        "ได้นำเงินนั้นไปซื้อ": [
+          {
+            "verse": "Matthew 27:10",
+            "rationale": "Per uW figs-explicit: 'gave them for' = bought with them. Thai ไปซื้อ makes the transaction explicit"
           }
         ]
       },
@@ -47425,6 +49077,18 @@
       },
       "occurrences_count": 1
     },
+    "ἔπεισαν": {
+      "primary_thai": "ได้ชักชวน",
+      "all_renderings": {
+        "ได้ชักชวน": [
+          {
+            "verse": "Matthew 27:20",
+            "rationale": "Aorist of πείθω = persuade. Thai ชักชวน captures the deliberate-influence sense (vs. ฝูงชน-spontaneous-clamor)"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἔπεσαν ἐπὶ πρόσωπον αὐτῶν": {
       "primary_thai": "ก็ซบหน้าลงกับพื้น",
       "all_renderings": {
@@ -47594,6 +49258,18 @@
           {
             "verse": "Mark 14:41",
             "rationale": "Third return — symbolic-numeral (three-fold prayer + three-fold sleep; three denials of Peter coming)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἔρχεται Ἠλίας σώσων αὐτόν": {
+      "primary_thai": "เอลียาห์จะมาช่วยเขา",
+      "all_renderings": {
+        "เอลียาห์จะมาช่วยเขา": [
+          {
+            "verse": "Matthew 27:49",
+            "rationale": "Future-purpose participle σώσων. Mocking-reuse of v.42 σῶσον σεαυτόν motif. Hostile register เขา"
           }
         ]
       },
@@ -47903,6 +49579,18 @@
       },
       "occurrences_count": 1
     },
+    "ἔστρεψεν": {
+      "primary_thai": "นำ...กลับไปคืน",
+      "all_renderings": {
+        "นำ...กลับไปคืน": [
+          {
+            "verse": "Matthew 27:3",
+            "rationale": "στρέφω here = to return/give back (per uW context). Thai นำ...กลับไปคืน captures the physical return-of-money"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἔστρωσαν εἰς τὴν ὁδόν": {
       "primary_thai": "ปู...ลงบนถนน",
       "all_renderings": {
@@ -48042,6 +49730,18 @@
           {
             "verse": "Matthew 17:5",
             "rationale": "Genitive absolute temporal clause. Peter is antecedent of αὐτοῦ (established from v4). Thai 'ขณะที่ ... ยังพูดอยู่' (while still speaking) natural progressive-while construction. Disambiguating pronoun to 'เปโตร' per Thai preference for explicit subjects in narrative pivot-moments."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἔτυπτον": {
+      "primary_thai": "ตี...ซ้ำแล้วซ้ำเล่า",
+      "all_renderings": {
+        "ตี...ซ้ำแล้วซ้ำเล่า": [
+          {
+            "verse": "Matthew 27:30",
+            "rationale": "Imperfect of τύπτω = struck-repeatedly. Thai ซ้ำแล้วซ้ำเล่า conveys the iterative aspect"
           }
         ]
       },
@@ -48559,6 +50259,18 @@
       },
       "occurrences_count": 1
     },
+    "ἕως τῆς σήμερον": {
+      "primary_thai": "จนถึงทุกวันนี้",
+      "all_renderings": {
+        "จนถึงทุกวันนี้": [
+          {
+            "verse": "Matthew 27:8",
+            "rationale": "Per uW figs-explicit: refers to Matthew's writing-time (c. AD 70-85?). Standard 'narrator-aside' formula (cf. Mat 28:15)"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἕως τῆς τελευτῆς Ἡρῴδου": {
       "primary_thai": "จนเฮโρดสิ้นชีวิต",
       "all_renderings": {
@@ -48566,6 +50278,18 @@
           {
             "verse": "Matthew 2:15",
             "rationale": "HAPAX τελευτή (2:15 only in NT) = 'end, death' (euphemism for death, Attic-literary register). Standard noun-for-death in Classical Greek. Thai 'สิ้นชีวิต' (life-ends) is a respectful term for death appropriate to the chapter's royal-tragic tone."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἕως τῆς τρίτης ἡμέρας": {
+      "primary_thai": "จนถึงวันที่สาม",
+      "all_renderings": {
+        "จนถึงวันที่สาม": [
+          {
+            "verse": "Matthew 27:64",
+            "rationale": "Per uW figs-idiom: through-the-third-day = today + Saturday + Sunday inclusive (Jewish reckoning)"
           }
         ]
       },
@@ -49169,6 +50893,18 @@
       },
       "occurrences_count": 1
     },
+    "Ἐξερχόμενοι": {
+      "primary_thai": "ขณะที่ออกไป",
+      "all_renderings": {
+        "ขณะที่ออกไป": [
+          {
+            "verse": "Matthew 27:32",
+            "rationale": "Per uW figs-explicit: implies leaving Jerusalem (crucifixion was outside the city). Present participle = ongoing action"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "Ἐξομολογοῦμαί σοι,πάτερ": {
       "primary_thai": "ข้าแต่พระบิดา... ข้าพระองค์ขอสรรเสริญพระองค์",
       "all_renderings": {
@@ -49531,6 +51267,18 @@
       },
       "occurrences_count": 1
     },
+    "Ἔχετε κουστωδίαν": {
+      "primary_thai": "พวกท่านมีกองทหารรักษาการณ์อยู่แล้ว",
+      "all_renderings": {
+        "พวกท่านมีกองทหารรักษาการณ์อยู่แล้ว": [
+          {
+            "verse": "Matthew 27:65",
+            "rationale": "Per uW figs-declarative + grammar-collectivenouns: ambiguous between 'You-may-take-a-guard' (Pilate granting Roman guard) and 'You-already-have-a-guard' (referring to temple-guards). I follow option 1 (Roman guard granted) — supported by 28:11-14 where the guards report to chief priests but Pilate also has authority over them. Thai กองทหารรักษาการณ์ (military-guard-unit) reflects the Roman-soldier reading"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "Ἔχετε πίστιν θεοῦ": {
       "primary_thai": "จงมีความเชื่อในพระเจ้าเถิด",
       "all_renderings": {
@@ -49621,6 +51369,18 @@
       },
       "occurrences_count": 1
     },
+    "ἠγέρθησαν": {
+      "primary_thai": "ได้ฟื้นขึ้น",
+      "all_renderings": {
+        "ได้ฟื้นขึ้น": [
+          {
+            "verse": "Matthew 27:52",
+            "rationale": "Per uW figs-idiom + figs-activepassive: divine passive resurrection-language. Thai ฟื้นขึ้น standard resurrection verb"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἠγανάκτησαν": {
       "primary_thai": "โกรธเคือง",
       "all_renderings": {
@@ -49658,6 +51418,18 @@
           {
             "verse": "MRK 10:14",
             "rationale": "ἀγανακτέω = be indignant/angry. This is a STRONG verb — Mark uses it only 2x in this chapter (v.14 and v.41), setting up deliberate contrast: Jesus's indignation at children's exclusion vs. the Ten's indignation at James and John's status-grab. Thai ทรงโกรธ (angry) with ราชาศัพท์ prefix preserves the emotional intensity."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἠγγάρευσαν": {
+      "primary_thai": "เกณฑ์",
+      "all_renderings": {
+        "เกณฑ์": [
+          {
+            "verse": "Matthew 27:32",
+            "rationale": "Per uW translate-unknown: ἀγγαρεύω = Roman conscription-power; soldiers could compel any subject to carry burdens. Same word at Mat 5:41 (Sermon on Mount). Thai เกณฑ์ captures the forced-conscription"
           }
         ]
       },
@@ -49838,6 +51610,18 @@
           {
             "verse": "Matthew 4:25",
             "rationale": "Per uW figs-explicit: 'large crowds traveled from all regions to follow' per uW alt — Thai 'พากันมาติดตาม' (collectively-came-to-follow) captures the implied come-then-follow motion. ὄχλοι πολλοί plural-of-crowds → ฝูงชนเป็นอันมาก (large crowds). This is DIFFERENT from the disciple-follow verb ἀκολουθέω applied to Simon/Andrew (v.20) — same Greek verb but context distinguishes: crowds=curious-mass-follow; disciples=committed-student-follow. Thai uses same 'ติดตาม' for both; context disambiguates."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἠκολούθησαν...διακονοῦσαι": {
+      "primary_thai": "ติดตาม...เพื่อปรนนิบัติ",
+      "all_renderings": {
+        "ติดตาม...เพื่อปรนนิบัติ": [
+          {
+            "verse": "Matthew 27:55",
+            "rationale": "Per uW figs-idiom: 'followed' = were-disciples-of (option 1). διακονέω = serve/minister (the same verb used of Jesus's own service in 20:28). These women are full disciples by Matthew's vocabulary"
           }
         ]
       },
@@ -50077,6 +51861,18 @@
       },
       "occurrences_count": 1
     },
+    "ἠσφαλίσαντο τὸν τάφον": {
+      "primary_thai": "ทำให้อุโมงค์ฝังศพมั่นคง",
+      "all_renderings": {
+        "ทำให้อุโมงค์ฝังศพมั่นคง": [
+          {
+            "verse": "Matthew 27:66",
+            "rationale": "ἀσφαλίζω = make-secure. Same verb-root from v.64-65, completing the security-theme. Thai ทำให้มั่นคง standard"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἠτίμασαν": {
       "primary_thai": "หยามเกียรติ",
       "all_renderings": {
@@ -50141,6 +51937,18 @@
       },
       "occurrences_count": 1
     },
+    "ἡ γυνὴ αὐτοῦ": {
+      "primary_thai": "ภรรยาของเขา",
+      "all_renderings": {
+        "ภรรยาของเขา": [
+          {
+            "verse": "Matthew 27:19",
+            "rationale": "Standard ภรรยา (wife). Pilate is not divine; his wife uses common register"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἡ γὰρ αὔριον μεριμνήσει αὑτῆς": {
       "primary_thai": "เพราะวันพรุ่งนี้ก็จะกังวลถึงตัวของมันเอง",
       "all_renderings": {
@@ -50160,6 +51968,18 @@
           {
             "verse": "Mark 4:28",
             "rationale": "Per uW figs-personification: the earth personified as producing. Thai 'แผ่นดิน' (land/earth) + 'เกิดผล' (produce fruit) + 'ได้เอง' (on-its-own) preserves the personification-plus-autonomy. 'แผ่นดิน' (rather than just 'ดิน') captures the broader 'the earth/land' sense of ἡ γῆ."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἡ γῆ ἐσείσθη...αἱ πέτραι ἐσχίσθησαν": {
+      "primary_thai": "แผ่นดินไหว...ศิลาแยกออก",
+      "all_renderings": {
+        "แผ่นดินไหว...ศิลาแยกออก": [
+          {
+            "verse": "Matthew 27:51",
+            "rationale": "Both passives = divine-action. Earthquake-and-rock-splitting are theophany-markers (cf. Exod 19; 1 Kgs 19; Ezek 38; Joel 3:16; Hag 2:6)"
           }
         ]
       },
@@ -50364,10 +52184,14 @@
           {
             "verse": "Matthew 20:20",
             "rationale": "Ζεβεδαῖος (12x, low-freq) → เศเบดี (Thai transliteration per established NT convention). Per uW figs-explicit: refers to mother-of-James+John. Identified in Mark 15:40 as Salome. Thai \"บุตรเศเบดี\" = sons-of-Zebedee; Thai compresses \"υἱῶν\" without explicit male-gender-marker since \"บุตร\" suffices."
+          },
+          {
+            "verse": "Matthew 27:56",
+            "rationale": "Per uW figs-explicit: refers to mother of James-and-John (cf. 20:20). Ζεβεδαῖος → เศเบดี standard. Matthew's circumlocution preserves anonymity (Mark 15:40 names her Salome)"
           }
         ]
       },
-      "occurrences_count": 1
+      "occurrences_count": 2
     },
     "ἡ μεγάλη καὶ πρώτη ἐντολή": {
       "primary_thai": "บัญญัติที่ยิ่งใหญ่และเป็นข้อแรก",
@@ -50586,6 +52410,18 @@
           {
             "verse": "Mark 11:10",
             "rationale": "ἐρχομένη pres.-mid.-ptc. = 'coming/arriving' — emphasizes expectant anticipation (uW TN: 'kingdom we have been waiting for'). Thai 'ที่กำลังมา' preserves the present-imminent sense. πατρὸς ἡμῶν Δαυίδ metaphorical 'David as father' = ancestral-king sense → Thai บรรพบุรุษ ('ancestor'). βασιλεία → อาณาจักร (standard rendering per RULES.md §4 βασιλεία τοῦ θεοῦ → อาณาจักรของพระเจ้า). Δαυίδ → ดาวิด (glossary-established)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἡ ἐσχάτη πλάνη χείρων τῆς πρώτης": {
+      "primary_thai": "การลวงครั้งหลังนี้จะยิ่งร้ายแรงกว่าครั้งแรก",
+      "all_renderings": {
+        "การลวงครั้งหลังนี้จะยิ่งร้ายแรงกว่าครั้งแรก": [
+          {
+            "verse": "Matthew 27:64",
+            "rationale": "Per uW figs-explicit + figs-ellipsis: 'first deception' = Jesus's teaching (which leaders considered deceptive); 'last deception' = anticipated resurrection-claim. Thai preserves the comparative"
           }
         ]
       },
@@ -52031,6 +53867,18 @@
       },
       "occurrences_count": 1
     },
+    "Ἠγέρθη ἀπὸ τῶν νεκρῶν": {
+      "primary_thai": "เขาเป็นขึ้นจากความตายแล้ว",
+      "all_renderings": {
+        "เขาเป็นขึ้นจากความตายแล้ว": [
+          {
+            "verse": "Matthew 27:64",
+            "rationale": "Per uW figs-quotesinquotes: nested quote preserved. Resurrection-language with hostile register เขา (since this is leaders' representation of disciples' anticipated claim, but in Pilate's hearing — neutral context)"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "Ἠκούσατε ὅτι ἐρρέθη": {
       "primary_thai": "พวกท่านได้ยินคำที่กล่าวไว้ว่า",
       "all_renderings": {
@@ -52099,9 +53947,15 @@
             "verse": "Mark 15:35",
             "rationale": "Per uW TN figs-explicit, the misunderstanding: 'Eloi' sounds like 'Elijah' to Aramaic/Hebrew ears (אליה = Ēlīyāh). Ἠλίας → เอลียาห์ (glossary-established standard from Mark 6:15, 8:28, 9:4–13). φωνέω → เรียก (call-by-voice). The misunderstanding is either genuine (phonetic confusion) or deliberate mockery — Mark doesn't tell."
           }
+        ],
+        "ร้องเรียกเอลียาห์": [
+          {
+            "verse": "Matthew 27:47",
+            "rationale": "Per uW figs-explicit: misunderstanding — they heard Eli (My God) as Eliyah (Elijah). Ἠλίας → เอลียาห์ standard glossary"
+          }
         ]
       },
-      "occurrences_count": 1
+      "occurrences_count": 2
     },
     "Ἠλίας ... Μωϋσεῖ": {
       "primary_thai": "เอลียาห์ ... โมเสส",
@@ -52158,6 +54012,18 @@
           {
             "verse": "Matthew 17:12",
             "rationale": "ἤδη = 'already' + aorist ἦλθεν = 'came.' Thai 'ได้มาแล้ว' perfect-completive. Matthean sharpening: Mark 9:13 has 'καὶ Ἠλίας ἐλήλυθεν' (perfect) — Matthew's aorist + ἤδη yields same completed-action sense."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Ἠλὶ ἠλὶ λεμὰ σαβαχθάνι": {
+      "primary_thai": "เอลี เอลี เลมา ซาบัคทานี",
+      "all_renderings": {
+        "เอลี เอลี เลมา ซาบัคทานี": [
+          {
+            "verse": "Matthew 27:46",
+            "rationale": "Per uW translate-transliterate: Aramaic words spelled in Greek letters. Thai transliterates the same way. Standard Thai Bible transliteration. Mark 15:34 has Ἐλωῒ Ἐλωῒ (more clearly Aramaic); Matthew's Ἠλί is closer to Hebrew Eli — explaining the Elijah-misidentification in v.47"
           }
         ]
       },
@@ -52259,6 +54125,18 @@
       },
       "occurrences_count": 1
     },
+    "Ἥμαρτον": {
+      "primary_thai": "ข้าพเจ้าได้ทำบาป",
+      "all_renderings": {
+        "ข้าพเจ้าได้ทำบาป": [
+          {
+            "verse": "Matthew 27:4",
+            "rationale": "Aorist of ἁμαρτάνω. RULES.md §4: ἁμαρτία → บาป. ทำบาป (commit-sin) is natural Thai. Judas's confession is real but incomplete — to whom does one confess sin against Jesus? Not the priests"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἰάθη ἡ θυγάτηρ αὐτῆς ἀπὸ τῆς ὥρας ἐκείνης": {
       "primary_thai": "ในโมงนั้นเอง บุตรสาวของนางก็หายเป็นปกติ",
       "all_renderings": {
@@ -52338,10 +54216,14 @@
           {
             "verse": "Matthew 26:45",
             "rationale": "Standard glossary; calls-attention per uW"
+          },
+          {
+            "verse": "Matthew 27:51",
+            "rationale": "Per uW figs-metaphor: 'Behold' attention-marker. Thai ดูเถิด standard"
           }
         ]
       },
-      "occurrences_count": 6
+      "occurrences_count": 7
     },
     "ἰδοὺ γυνὴ Χαναναία": {
       "primary_thai": "ดูเถิด มีหญิงชาวคานาอันคนหนึ่ง",
@@ -52482,6 +54364,18 @@
           {
             "verse": "Matthew 18:31",
             "rationale": "ἰδόντες aorist-participle-plural 'having-seen' — Thai 'เมื่อ...เห็น' temporal-clause. τὰ γενόμενα substantival-participle 'the-things-that-happened' → Thai 'เหตุการณ์ที่เกิดขึ้น' (events-that-occurred). 'ทั้งหลาย' Thai-plural-marker for 'σύνδουλοι' per v.28 glossary-established."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἰδόντες τὸν σεισμὸν καὶ τὰ γενόμενα": {
+      "primary_thai": "เห็นแผ่นดินไหวและสิ่งต่าง ๆ ที่เกิดขึ้น",
+      "all_renderings": {
+        "เห็นแผ่นดินไหวและสิ่งต่าง ๆ ที่เกิดขึ้น": [
+          {
+            "verse": "Matthew 27:54",
+            "rationale": "σεισμός picks up ἐσείσθη from v.51. The cosmic signs convict the centurion. Plural τὰ γενόμενα = all-the-happenings"
           }
         ]
       },
@@ -53596,6 +55490,30 @@
         ]
       },
       "occurrences_count": 2
+    },
+    "Ἰησοῦν Βαραββᾶν": {
+      "primary_thai": "เยซูบารับบัส",
+      "all_renderings": {
+        "เยซูบารับบัส": [
+          {
+            "verse": "Matthew 27:16",
+            "rationale": "TEXTUAL VARIANT: SBLGNT prints 'Ἰησοῦν' before Βαραββᾶν (with strong manuscript support — old Caesarean tradition incl. Origen). NA28 brackets [Ἰησοῦν]. BSB/NIV/ESV/KJV omit. Per RULES.md §0: we follow SBLGNT and document divergence. Thai เยซู (=name 'Jesus' without divine honorific พระ-) marks Barabbas as a different Jesus from the Messiah. The contrast between two men named Jesus heightens the drama"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Ἰησοῦν τὸν Βαραββᾶν ἢ Ἰησοῦν τὸν λεγόμενον χριστόν": {
+      "primary_thai": "เยซูบารับบัส หรือเยซูที่เรียกกันว่าพระคริสต์",
+      "all_renderings": {
+        "เยซูบารับบัส หรือเยซูที่เรียกกันว่าพระคริสต์": [
+          {
+            "verse": "Matthew 27:17",
+            "rationale": "Same textual variant as v.16 (SBLGNT 'Jesus Barabbas'). Pilate's framing makes the parallel between the two Jesuses explicit. χριστός per RULES.md §4 → พระคริสต์ (title not name). Pilate uses τὸν λεγόμενον (so-called) — distancing language from Pilate, who does not himself confess Jesus as Christ"
+          }
+        ]
+      },
+      "occurrences_count": 1
     },
     "Ἰησοῦς ὁ Ναζαρηνός": {
       "primary_thai": "พระเยซูชาวนาซาเร็ธ",
@@ -54849,6 +56767,18 @@
       },
       "occurrences_count": 1
     },
+    "ὁ παραδιδοὺς αὐτὸν": {
+      "primary_thai": "ผู้ที่ได้มอบพระองค์ไว้",
+      "all_renderings": {
+        "ผู้ที่ได้มอบพระองค์ไว้": [
+          {
+            "verse": "Matthew 27:3",
+            "rationale": "Present participle 'the-one-betraying' — substantive title. Consistent with Mat 26:25, 26:46, 26:48 παραδίδωμι rendering"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ὁ πατήρ σου ὁ βλέπων ἐν τῷ κρυπτῷ": {
       "primary_thai": "พระบิดาของท่านผู้ทรงทอดพระเนตรเห็นในที่ลับ",
       "all_renderings": {
@@ -55582,7 +57512,7 @@
       "occurrences_count": 1
     },
     "ὁμοίως": {
-      "primary_thai": "ในทำนองเดียวกัน",
+      "primary_thai": "เช่นเดียวกัน",
       "all_renderings": {
         "ในทำนองเดียวกัน": [
           {
@@ -55594,10 +57524,14 @@
           {
             "verse": "Mark 15:31",
             "rationale": "Parallel-construction marker — passersby mocked (vv.29–30), NOW the leaders mock similarly. Thai เช่นเดียวกัน."
+          },
+          {
+            "verse": "Matthew 27:41",
+            "rationale": "Adverb linking back to passers-by mockery in v.39"
           }
         ]
       },
-      "occurrences_count": 2
+      "occurrences_count": 3
     },
     "ὁμοίως καὶ πάντες οἱ μαθηταὶ εἶπαν": {
       "primary_thai": "และสาวกทั้งหมดก็พูดเช่นเดียวกัน",
@@ -56367,6 +58301,18 @@
       },
       "occurrences_count": 1
     },
+    "ὄξους": {
+      "primary_thai": "เหล้าองุ่นเปรี้ยว",
+      "all_renderings": {
+        "เหล้าองุ่นเปรี้ยว": [
+          {
+            "verse": "Matthew 27:48",
+            "rationale": "Per uW translate-unknown: ὄξος = sour wine / posca, the cheap wine of soldiers and laborers. Thai เหล้าองุ่นเปรี้ยว distinguishes from wine-mixed-with-gall (v.34) which Jesus refused; this is offered for thirst-relief. Verbatim from LXX Ps 69:22 (καὶ εἰς τὴν δίψαν μου ἐπότισάν με ὄξος)"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ὄρος ὑψηλὸν κατ’ἰδίαν μόνους": {
       "primary_thai": "ภูเขาสูงตามลำพัง",
       "all_renderings": {
@@ -56531,9 +58477,15 @@
             "verse": "Mark 15:16",
             "rationale": "σπεῖρα = Latin cohors, Roman military unit of ~600 soldiers (1/10 of a legion, per uW TN figs-explicit). Thai ทหารทั้งกอง ('whole troop/company') is the natural idiomatic equivalent — Thai military vocabulary doesn't have a 1:1 match for 'cohort' but ทั้งกอง captures the 'whole-unit-together' sense. Synecdoche is likely — they didn't ACTUALLY summon all 600, but a significant number."
           }
+        ],
+        "กองทหารทั้งกอง": [
+          {
+            "verse": "Matthew 27:27",
+            "rationale": "σπεῖρα = Roman cohort (~600 soldiers, 1/10 legion). Per uW translate-unknown: probably all the soldiers stationed in Jerusalem at that time. Thai กองทหารทั้งกอง captures the whole-unit sense. The vast scale (hundreds of soldiers) for one prisoner emphasizes the mockery's systematic cruelty"
+          }
         ]
       },
-      "occurrences_count": 1
+      "occurrences_count": 2
     },
     "ὅλην τὴν ἡμέραν": {
       "primary_thai": "ตลอดวัน",
@@ -57722,10 +59674,14 @@
           {
             "verse": "Matthew 26:20",
             "rationale": "Genitive absolute temporal clause; matches Mark 14:17 rendering"
+          },
+          {
+            "verse": "Matthew 27:57",
+            "rationale": "Same construction as 26:20. Refers to late afternoon Friday before sunset (Sabbath beginning); urgency to bury before Sabbath onset"
           }
         ]
       },
-      "occurrences_count": 1
+      "occurrences_count": 2
     },
     "Ὁ βασιλεὺς τῶν Ἰουδαίων": {
       "primary_thai": "\"กษัตริย์ของชาวยิว\"",
@@ -57842,6 +59798,18 @@
           {
             "verse": "Matthew 15:4",
             "rationale": "Per glossary (MRK 7:10): 'Ὁ κακολογῶν ... θανάτῳ τελευτάτω' → 'ผู้ใดด่าแช่งบิดาหรือมารดา ผู้นั้นต้องมีโทษถึงตาย.' Preserving exact Markan wording for synoptic consistency. κακολογέω (low-frequency, 4× NT). θανάτῳ τελευτάτω idiom 'by death let-him-end' = 'must die.' OT CITATION — Exodus 21:17 / Lev 20:9 LXX. ADDED TO NT_OT_CITATIONS."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Ὁ καταλύων τὸν ναὸν": {
+      "primary_thai": "เจ้าผู้จะทำลายพระวิหาร",
+      "all_renderings": {
+        "เจ้าผู้จะทำลายพระวิหาร": [
+          {
+            "verse": "Matthew 27:40",
+            "rationale": "Refers back to false-witness charge at Mat 26:61. Thai เจ้า (you-disrespectful 2sg) — passers-by speak hostile register, no honorific"
           }
         ]
       },
@@ -58339,6 +60307,18 @@
       },
       "occurrences_count": 1
     },
+    "ὑμεῖς ὄψεσθε": {
+      "primary_thai": "พวกท่านจัดการเอาเอง",
+      "all_renderings": {
+        "พวกท่านจัดการเอาเอง": [
+          {
+            "verse": "Matthew 27:24",
+            "rationale": "Per uW figs-yousingular + figs-idiom: plural to crowd. Same idiom as v.4 (priests to Judas) — Matthew constructs the chilling chain: Judas → priests → Pilate → crowd. Each shifts responsibility; crowd alone accepts (v.25)"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ὑμνήσαντες": {
       "primary_thai": "ร้องเพลงสรรเสริญ",
       "all_renderings": {
@@ -58410,6 +60390,18 @@
           {
             "verse": "Mark 16:7",
             "rationale": "Two aorist-active-imperatives juxtaposed = 'go [and] tell' — commissioning-speech. Thai จงไปบอก combines the two imperatives naturally."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ὑπάγετε ἀσφαλίσασθε ὡς οἴδατε": {
+      "primary_thai": "ไปเถิด รักษาอุโมงค์ให้มั่นคงตามที่พวกท่านรู้จะทำ",
+      "all_renderings": {
+        "ไปเถิด รักษาอุโมงค์ให้มั่นคงตามที่พวกท่านรู้จะทำ": [
+          {
+            "verse": "Matthew 27:65",
+            "rationale": "Per uW figs-yousingular + figs-explicit: plural-imperatives. Thai พวกท่าน plural. Pilate's washing-his-hands-of-tomb-security parallels his earlier hand-washing of trial-responsibility (v.24)"
           }
         ]
       },
@@ -58886,6 +60878,18 @@
           {
             "verse": "Matthew 4:10",
             "rationale": "ὕπαγε imperative 'go/depart' — Thai 'จงไปให้พ้น' (go-away-from-presence) captures authoritative-dismissal force. Established glossary: ὑπάγω → จงไป (generic); here intensified with 'ให้พ้น' for climactic dismissal. 'เจ้า' = 2nd-person non-honorific (Jesus addresses Satan with subordinate-pronoun — definitive reversal of Satan's 'ท่าน' address to Jesus). Σατανᾶ vocative = ซาตาน (established Mark 1:13, MAT 2:2 via ซาตาน proper-name). Compare Mark 8:33 'Ὕπαγε ὀπίσω μου, Σατανᾶ' ('Get behind me Satan' — Peter-rebuke); present Matt 4:10 command is more absolute: 'go away' (not just 'behind me')."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ὠνείδιζον": {
+      "primary_thai": "ด่าว่า",
+      "all_renderings": {
+        "ด่าว่า": [
+          {
+            "verse": "Matthew 27:44",
+            "rationale": "ὀνειδίζω = revile/reproach. Imperfect = sustained reproach"
           }
         ]
       },
@@ -59661,6 +61665,18 @@
       },
       "occurrences_count": 1
     },
+    "ᾐτήσατο τὸ σῶμα τοῦ Ἰησοῦ": {
+      "primary_thai": "ขอพระศพของพระเยซู",
+      "all_renderings": {
+        "ขอพระศพของพระเยซู": [
+          {
+            "verse": "Matthew 27:58",
+            "rationale": "Per uW figs-explicit: implied for-burial. σῶμα of dead Christ → พระศพ (royal corpse, divine register preserved even in death). Matches Mat 26:12 register-shift"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ᾑρέτισα": {
       "primary_thai": "เราได้เลือกสรร",
       "all_renderings": {
@@ -59668,6 +61684,18 @@
           {
             "verse": "Matthew 12:18",
             "rationale": "NT HAPAX αἱρετίζω (aor-1sg). LXX usage: 1 Chr 28:6 (David-chooses-Solomon), Mal 3:17, Hag 2:24 (God-chooses-servant). Here = God's-election-of-the-Servant. Thai 'เลือกสรร' (carefully-choose, formal-elective sense) distinct from simple ἐκλέγομαι 'เลือก.' NEW GLOSSARY: αἱρετίζω NT-HAPAX → เลือกสรร."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ᾔδει": {
+      "primary_thai": "รู้อยู่แล้ว",
+      "all_renderings": {
+        "รู้อยู่แล้ว": [
+          {
+            "verse": "Matthew 27:18",
+            "rationale": "Pluperfect of οἶδα = had-known/knew. Pilate's awareness was prior to his question. Thai รู้อยู่แล้ว captures the pre-existing knowledge"
           }
         ]
       },
@@ -59763,6 +61791,18 @@
       },
       "occurrences_count": 1
     },
+    "ῥίψας": {
+      "primary_thai": "เหวี่ยง",
+      "all_renderings": {
+        "เหวี่ยง": [
+          {
+            "verse": "Matthew 27:5",
+            "rationale": "ῥίπτω = throw with force. เหวี่ยง captures the violent/dramatic-throw better than โยน (gentle toss). The action is desperate, not casual"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ῥαββί": {
       "primary_thai": "รับบี",
       "all_renderings": {
@@ -59778,6 +61818,18 @@
         ]
       },
       "occurrences_count": 2
+    },
+    "ῥυσάσθω νῦν εἰ θέλει αὐτόν": {
+      "primary_thai": "ก็ให้พระเจ้าทรงช่วยเขาเดี๋ยวนี้ ถ้าพระองค์ทรงประสงค์เขา",
+      "all_renderings": {
+        "ก็ให้พระเจ้าทรงช่วยเขาเดี๋ยวนี้ ถ้าพระองค์ทรงประสงค์เขา": [
+          {
+            "verse": "Matthew 27:43",
+            "rationale": "Per uW figs-imperative3p + figs-hypo: third-person imperative + hypothetical. Royal verbs ทรงช่วย, ทรงประสงค์ for divine subject (God) but hostile เขา for Jesus from leaders' mouths. The divine register selectively preserved: God = พระองค์, Jesus = เขา (from speakers' theological viewpoint)"
+          }
+        ]
+      },
+      "occurrences_count": 1
     },
     "Ῥαββί": {
       "primary_thai": "รับบี",

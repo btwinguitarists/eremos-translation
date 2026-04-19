@@ -1,0 +1,1176 @@
+[
+  {
+    "reference": "Matthew 27:1",
+    "chapter": 27,
+    "verse": 1,
+    "greek": "Πρωΐας δὲ γενομένης συμβούλιον ἔλαβον πάντες οἱ ἀρχιερεῖς καὶ οἱ πρεσβύτεροι τοῦ λαοῦ κατὰ τοῦ Ἰησοῦ ὥστε θανατῶσαι αὐτόν·",
+    "bsb_english": "When morning came, all the chief priests and elders of the people conspired against Jesus to put Him to death.",
+    "translation": {
+      "thai": "เมื่อรุ่งเช้า บรรดาหัวหน้าปุโรหิตและพวกผู้อาวุโสของประชาชนทั้งสิ้นได้ปรึกษากันต่อต้านพระเยซูเพื่อจะประหารพระองค์",
+      "thai_literal": null,
+      "thai_summary": "ตามกฎหมายโรมัน สภาแซนเฮดรินของชาวยิวไม่มีอำนาจประหารชีวิตคนได้ พวกเขาจึงต้องวางแผนเพื่อโน้มน้าวให้ปอนทิอัสปีลาตซึ่งเป็นผู้ว่าราชการโรมันสั่งประหาร นี่คือเหตุผลที่ต้องส่งพระเยซูต่อในข้อถัดไป",
+      "key_decisions": [
+        {"greek": "Πρωΐας...γενομένης", "thai": "เมื่อรุ่งเช้า", "rationale": "Genitive absolute temporal clause. Same construction as Mat 26:20 (Ὀψίας...γενομένης). Matthew bookends the Gethsemane night with evening→morning"},
+        {"greek": "συμβούλιον ἔλαβον", "thai": "ได้ปรึกษากัน", "rationale": "Idiom 'took counsel' per uW figs-idiom — collaborative plotting. Matches the rendering at Mat 12:14, 22:15. ปรึกษากัน is natural Thai for the deliberative-conspiracy sense"},
+        {"greek": "οἱ ἀρχιερεῖς καὶ οἱ πρεσβύτεροι τοῦ λαοῦ", "thai": "บรรดาหัวหน้าปุโรหิตและพวกผู้อาวุโสของประชาชน", "rationale": "Matthean signature formula (also 26:3, 26:47). Consistent with prior chapter glossary"},
+        {"greek": "θανατῶσαι αὐτόν", "thai": "ประหารพระองค์", "rationale": "θανατόω = put to death. Per uW figs-explicit: implies 'have him killed' through Roman channels. ประหาร captures the formal-execution sense; royal-object พระองค์ for Jesus"}
+      ],
+      "notes": "συμβούλιον ἔλαβον is Matthew's signature 'took counsel' idiom (12:14, 22:15, 27:7, 28:12). This is the formal Sanhedrin morning-session ratifying the night decision (26:66). Per uW figs-explicit: under Roman occupation, the Sanhedrin lacked capital-punishment authority (cf. John 18:31), hence the need to hand Jesus to Pilate."
+    }
+  },
+  {
+    "reference": "Matthew 27:2",
+    "chapter": 27,
+    "verse": 2,
+    "greek": "καὶ δήσαντες αὐτὸν ἀπήγαγον καὶ παρέδωκαν Πιλάτῳ τῷ ἡγεμόνι.",
+    "bsb_english": "They bound Him, led Him away, and handed Him over to Pilate the governor.",
+    "translation": {
+      "thai": "พวกเขาจึงผูกมัดพระองค์ นำพระองค์ไป และมอบพระองค์ไว้กับปีลาตผู้ว่าราชการ",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "δήσαντες αὐτὸν", "thai": "ผูกมัดพระองค์", "rationale": "δέω = bind. Per uW figs-explicit: implies they commanded guards to do the binding. Thai ผูกมัด preserves the physical-bondage; royal-object พระองค์"},
+        {"greek": "Πιλάτῳ τῷ ἡγεμόνι", "thai": "ปีลาตผู้ว่าราชการ", "rationale": "Πιλᾶτος → ปีลาต (standard Thai Christian transliteration; established here as glossary entry). ἡγεμών → ผู้ว่าราชการ (Roman provincial-governor); Pilate's actual title was 'praefectus' but ἡγεμών is the generic Greek term"},
+        {"greek": "παρέδωκαν", "thai": "มอบ...ไว้กับ", "rationale": "παραδίδωμι — the key passion verb (cf. 26:15-16, 26:21, 26:24-25, 26:46-48). Consistent rendering throughout. The chain of 'handing-over' is now complete: Judas→priests, priests→Pilate"}
+      ],
+      "notes": "Pontius Pilate served as Roman prefect of Judea AD 26-36 (or per recent inscriptional evidence, 26-37). Caiaphas had to bring Jesus to him because the Sanhedrin couldn't carry out execution under Roman rule. The passion-verb παραδίδωμι chain reaches its third stage: Judas→priests→Pilate."
+    }
+  },
+  {
+    "reference": "Matthew 27:3",
+    "chapter": 27,
+    "verse": 3,
+    "greek": "Τότε ἰδὼν Ἰούδας ὁ παραδιδοὺς αὐτὸν ὅτι κατεκρίθη μεταμεληθεὶς ἔστρεψεν τὰ τριάκοντα ἀργύρια τοῖς ἀρχιερεῦσιν καὶ πρεσβυτέροις",
+    "bsb_english": "When Judas, who had betrayed Him, saw that Jesus was condemned, he was filled with remorse and returned the thirty pieces of silver to the chief priests and elders.",
+    "translation": {
+      "thai": "ครั้งนั้น ยูดาสผู้ที่ได้มอบพระองค์ไว้ เมื่อเห็นว่าพระเยซูทรงถูกตัดสินลงโทษแล้ว ก็เสียใจและนำเงินสามสิบเหรียญเงินกลับไปคืนแก่บรรดาหัวหน้าปุโรหิตและพวกผู้อาวุโส",
+      "thai_literal": null,
+      "thai_summary": "มัทธิวเป็นเพียงพระกิตติคุณเดียวที่บันทึกความเสียใจของยูดาส คำกรีก «เมตาเมเลเทอิส» แปลว่า «เสียใจ» แต่ไม่ใช่ «กลับใจ» (เมตาโนเอโอ) ซึ่งเป็นคำที่ใช้ในการกลับใจที่นำไปสู่การช่วยให้รอด มัทธิวจงใจเลือกใช้คำที่บอกถึงความเสียดายแต่ปราศจากการหันเข้าหาพระเจ้า",
+      "key_decisions": [
+        {"greek": "ὁ παραδιδοὺς αὐτὸν", "thai": "ผู้ที่ได้มอบพระองค์ไว้", "rationale": "Present participle 'the-one-betraying' — substantive title. Consistent with Mat 26:25, 26:46, 26:48 παραδίδωμι rendering"},
+        {"greek": "κατεκρίθη", "thai": "ทรงถูกตัดสินลงโทษแล้ว", "rationale": "Aorist passive κατακρίνω = condemned. Per uW figs-activepassive: implied agent is the Sanhedrin. Royal subject ทรง- preserves divine register even in passive-of-victimization"},
+        {"greek": "μεταμεληθεὶς", "thai": "ก็เสียใจ", "rationale": "Aorist passive of μεταμέλομαι = to feel regret/remorse. CRUCIAL: this is NOT μετανοέω (true repentance unto salvation, RULES.md §4 = กลับใจ). เสียใจ captures regret without salvific repentance — preserves the Matthean theological distinction"},
+        {"greek": "ἔστρεψεν", "thai": "นำ...กลับไปคืน", "rationale": "στρέφω here = to return/give back (per uW context). Thai นำ...กลับไปคืน captures the physical return-of-money"}
+      ],
+      "notes": "KEY THEOLOGICAL DISTINCTION: μεταμέλομαι ('regret/remorse', here and Mat 21:29, 21:32, 27:3; Heb 7:21; 2 Cor 7:8) vs. μετανοέω ('repent unto salvation', the standard NT word). Matthew deliberately avoids μετανοέω for Judas — his 'regret' is real but does not become salvific repentance (cf. Paul's analysis in 2 Cor 7:9-10 of 'godly grief' vs 'worldly grief'). Thai เสียใจ vs. กลับใจ preserves the same distinction. This is the only canonical account of Judas's death besides Acts 1:18-19 (which differs in details)."
+    }
+  },
+  {
+    "reference": "Matthew 27:4",
+    "chapter": 27,
+    "verse": 4,
+    "greek": "λέγων·Ἥμαρτον παραδοὺς αἷμα ἀθῷον.οἱ δὲ εἶπαν·Τί πρὸς ἡμᾶς;σὺ ὄψῃ.",
+    "bsb_english": "“I have sinned by betraying innocent blood,” he said. “What is that to us?” they replied. “You bear the responsibility.”",
+    "translation": {
+      "thai": "และกล่าวว่า «ข้าพเจ้าได้ทำบาปโดยมอบโลหิตอันไร้ความผิดให้แก่ความตาย» แต่พวกเขาตอบว่า «เป็นเรื่องอะไรของพวกเรา ท่านจัดการเอาเอง»",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "Ἥμαρτον", "thai": "ข้าพเจ้าได้ทำบาป", "rationale": "Aorist of ἁμαρτάνω. RULES.md §4: ἁμαρτία → บาป. ทำบาป (commit-sin) is natural Thai. Judas's confession is real but incomplete — to whom does one confess sin against Jesus? Not the priests"},
+        {"greek": "αἷμα ἀθῷον", "thai": "โลหิตอันไร้ความผิด", "rationale": "ἀθῷος = innocent (HAPAX-rare in NT — only here and 27:24). Per uW figs-metonymy: αἷμα = the person about to die. Thai โลหิตอันไร้ความผิด preserves the OT-blood-of-the-innocent imagery (cf. Deut 27:25, Jer 7:6) better than flattening to 'an innocent person'"},
+        {"greek": "Τί πρὸς ἡμᾶς", "thai": "เป็นเรื่องอะไรของพวกเรา", "rationale": "Per uW figs-rquestion: priests use question-form to dismiss Judas. Not genuine inquiry. Thai เป็นเรื่องอะไรของพวกเรา is natural Thai dismissal-question"},
+        {"greek": "σὺ ὄψῃ", "thai": "ท่านจัดการเอาเอง", "rationale": "Future middle of ὁράω with idiomatic force per uW figs-idiom: 'You will see (to it)' = your responsibility. Thai ท่านจัดการเอาเอง captures the responsibility-shifting. Note: same idiom recurs at 27:24 (Pilate to crowd) — ironic mirror"}
+      ],
+      "notes": "ἀθῷος is one of only 2 NT occurrences (also v.24 — Pilate uses the same word about himself; sharp ironic contrast). Judas confesses to the wrong audience: priests have no power to absolve sin. Σὺ ὄψῃ is the same idiom Pilate will throw back at the crowd in v.24 — Matthew constructs an ironic chain of responsibility-shifting: Judas to priests → Pilate to crowd → crowd accepts (v.25). DOUBLE OT ECHO: αἷμα ἀθῷον evokes Deut 27:25 ('cursed is anyone who takes a bribe to slay an innocent person') and Jer 26:15 (Jeremiah's warning to the Jerusalem leadership about innocent blood — note the Jeremiah-thread that surfaces explicitly at v.9)."
+    }
+  },
+  {
+    "reference": "Matthew 27:5",
+    "chapter": 27,
+    "verse": 5,
+    "greek": "καὶ ῥίψας τὰ ἀργύρια εἰς τὸν ναὸν ἀνεχώρησεν,καὶ ἀπελθὼν ἀπήγξατο.",
+    "bsb_english": "So Judas threw the silver into the temple and left. Then he went away and hanged himself.",
+    "translation": {
+      "thai": "เขาจึงเหวี่ยงเงินเหล่านั้นเข้าไปในพระวิหารและออกไป แล้วก็ไปผูกคอตาย",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "ῥίψας", "thai": "เหวี่ยง", "rationale": "ῥίπτω = throw with force. เหวี่ยง captures the violent/dramatic-throw better than โยน (gentle toss). The action is desperate, not casual"},
+        {"greek": "εἰς τὸν ναὸν", "thai": "เข้าไปในพระวิหาร", "rationale": "ναός = inner-sanctuary (RULES.md §4 glossary established: พระวิหาร). Per uW figs-explicit: Judas was outside the priests-only inner court; he flung the coins into the sanctuary area. Thai phrase preserves both options"},
+        {"greek": "ἀπήγξατο", "thai": "ผูกคอตาย", "rationale": "HAPAX in NT (ἀπάγχομαι, only here). Aorist middle = 'hanged himself.' Standard Thai ผูกคอตาย (tied-neck-died). Cf. 2 Sam 17:23 LXX uses the same verb for Ahithophel's suicide — possible OT typological echo"}
+      ],
+      "notes": "HAPAX: ἀπάγχομαι ('hang oneself') occurs only here in the NT. The same verb appears in LXX 2 Sam 17:23 for Ahithophel — David's counselor who betrayed him and then hanged himself. This is widely recognized as a typological echo: as Ahithophel betrayed the Lord's anointed (David), so Judas betrays the Lord's anointed (Jesus, Son of David). Matthew may intend the parallel since he is the most-Davidic of the Synoptics. Acts 1:18-19 gives a different account ('falling headlong, he burst open in the middle') — usually harmonized as: Judas hanged himself, the rope or branch broke, and his body fell and burst open."
+    }
+  },
+  {
+    "reference": "Matthew 27:6",
+    "chapter": 27,
+    "verse": 6,
+    "greek": "οἱ δὲ ἀρχιερεῖς λαβόντες τὰ ἀργύρια εἶπαν·Οὐκ ἔξεστιν βαλεῖν αὐτὰ εἰς τὸν κορβανᾶν,ἐπεὶ τιμὴ αἵματός ἐστιν·",
+    "bsb_english": "The chief priests picked up the pieces of silver and said, “It is unlawful to put this into the treasury, since it is blood money.”",
+    "translation": {
+      "thai": "บรรดาหัวหน้าปุโรหิตเก็บเงินเหล่านั้นขึ้นและกล่าวว่า «ไม่ชอบด้วยธรรมบัญญัติที่จะเอาเงินนี้ใส่ในคลังของพระวิหาร เพราะเป็นค่าโลหิต»",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "Οὐκ ἔξεστιν", "thai": "ไม่ชอบด้วยธรรมบัญญัติ", "rationale": "ἔξεστιν = it-is-permitted (legal term). Per uW: refers to Mosaic-law / temple-regulation prohibition. Thai ชอบด้วยธรรมบัญญัติ specifies the legal-religious basis (cf. Deut 23:18 — abominable price not into the treasury)"},
+        {"greek": "κορβανᾶν", "thai": "คลังของพระวิหาร", "rationale": "HAPAX in NT (κορβανᾶς). Aramaic/Hebrew loan = 'gift devoted to God.' Per uW translate-unknown: refers to the temple treasury where dedicated funds were kept. Thai คลังของพระวิหาร makes the temple-context explicit — better than transliteration which would mystify Thai readers"},
+        {"greek": "τιμὴ αἵματός", "thai": "ค่าโลหิต", "rationale": "Per uW figs-possession + figs-metonymy: αἷμα = death of a person; τιμή = price. The whole = 'price paid for someone's death.' Thai ค่าโลหิต (price-of-blood) preserves the OT blood-money imagery (cf. v.4, v.8). The bracketed concept echoes Deut 27:25"}
+      ],
+      "notes": "HAPAX: κορβανᾶς ('temple treasury,' from Hebrew/Aramaic קרבן 'devoted gift'). The same root appears in Mark 7:11 (κορβᾶν 'devoted to God'). The priests' scrupulous legalism here is Matthean irony at its sharpest: they will not pollute the treasury with blood-money, but they have no scruple about engineering the murder that produced the blood-money. Echoes Deut 23:18 (forbidden funds excluded from the temple) and the broader prophetic critique of legal scrupulosity covering moral corruption (Isa 1:11-17)."
+    }
+  },
+  {
+    "reference": "Matthew 27:7",
+    "chapter": 27,
+    "verse": 7,
+    "greek": "συμβούλιον δὲ λαβόντες ἠγόρασαν ἐξ αὐτῶν τὸν Ἀγρὸν τοῦ Κεραμέως εἰς ταφὴν τοῖς ξένοις.",
+    "bsb_english": "After conferring together, they used the money to buy the potter’s field as a burial place for foreigners.",
+    "translation": {
+      "thai": "พวกเขาจึงปรึกษากันแล้วใช้เงินนั้นซื้อทุ่งนาของช่างปั้นหม้อไว้เป็นที่ฝังศพคนต่างถิ่น",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "συμβούλιον...λαβόντες", "thai": "ปรึกษากัน", "rationale": "Same idiom as v.1; consistent rendering"},
+        {"greek": "τὸν Ἀγρὸν τοῦ Κεραμέως", "thai": "ทุ่งนาของช่างปั้นหม้อ", "rationale": "Per uW figs-explicit: ambiguous in Greek — either a field-named-after-the-potter or a field-owned-by-a-potter. ทุ่งนาของช่างปั้นหม้อ preserves the ambiguity (genitive-of-possession). Thematic OT echo: Jer 18-19 (potter motif) and Zech 11:13 (potter as recipient)"},
+        {"greek": "ταφὴν", "thai": "ที่ฝังศพ", "rationale": "HAPAX in NT (ταφή — the action/place of burial). Per uW figs-abstractnouns: render as concrete 'place to bury.' ที่ฝังศพ is natural Thai"},
+        {"greek": "τοῖς ξένοις", "thai": "คนต่างถิ่น", "rationale": "ξένος = stranger/foreigner. Per uW figs-explicit: people who died in Jerusalem but did not live there — Jewish pilgrims from elsewhere or non-Jewish foreigners. Thai คนต่างถิ่น (people-from-elsewhere) preserves the broader sense"}
+      ],
+      "notes": "HAPAX: ταφή ('burial/place-of-burial') — only here in the NT. The 'potter's field' becomes the seedbed for Matthew's elaborate fulfillment claim in vv.9-10. Note the Sanhedrin's continued procedural deliberation (συμβούλιον) — they handle blood-money with scrupulous care while continuing to seek Jesus's blood. The ξένοι (foreigners/strangers) are likely diaspora Jews who died on pilgrimage; Acts 1:19 calls the place Akeldama ('Field of Blood' in Aramaic)."
+    }
+  },
+  {
+    "reference": "Matthew 27:8",
+    "chapter": 27,
+    "verse": 8,
+    "greek": "διὸ ἐκλήθη ὁ ἀγρὸς ἐκεῖνος Ἀγρὸς Αἵματος ἕως τῆς σήμερον.",
+    "bsb_english": "That is why it has been called the Field of Blood to this day.",
+    "translation": {
+      "thai": "ด้วยเหตุนี้ ทุ่งนานั้นจึงถูกเรียกว่าทุ่งโลหิตจนถึงทุกวันนี้",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "Ἀγρὸς Αἵματος", "thai": "ทุ่งโลหิต", "rationale": "Direct render of the place-name. Acts 1:19 transliterates the Aramaic Ἁκελδαμάχ; Matthew translates into Greek. Thai ทุ่งโลหิต follows Matthew's translation-strategy. Echoes the αἷμα-thread of vv.4, 6, 8, 24-25"},
+        {"greek": "ἕως τῆς σήμερον", "thai": "จนถึงทุกวันนี้", "rationale": "Per uW figs-explicit: refers to Matthew's writing-time (c. AD 70-85?). Standard 'narrator-aside' formula (cf. Mat 28:15)"}
+      ],
+      "notes": "Matthew's 'to this day' formula (cf. 28:15) marks an editorial aside indicating the durable consequence at the time of writing. Acts 1:19 gives the Aramaic name Ἁκελδαμάχ (Hakeldama) and a slightly different etiology (Judas himself bought the field with the money). Standard harmonization: the priests bought it legally, but it was 'his' money technically; or they bought it in his name. Matthew preserves the irony: blood-money names the field, sealing the priests' guilt."
+    }
+  },
+  {
+    "reference": "Matthew 27:9",
+    "chapter": 27,
+    "verse": 9,
+    "greek": "τότε ἐπληρώθη τὸ ῥηθὲν διὰ Ἰερεμίου τοῦ προφήτου λέγοντος·Καὶ ἔλαβον τὰ τριάκοντα ἀργύρια,τὴν τιμὴν τοῦ τετιμημένου ὃν ἐτιμήσαντο ἀπὸ υἱῶν Ἰσραήλ,",
+    "bsb_english": "Then what was spoken through Jeremiah the prophet was fulfilled: “They took the thirty pieces of silver, the price set on Him by the people of Israel,",
+    "translation": {
+      "thai": "ครั้งนั้นได้สำเร็จตามคำที่ตรัสไว้โดยเยเรมีย์ผู้เผยพระวจนะที่ว่า «และพวกเขาเอาเงินสามสิบเหรียญเงินอันเป็นราคาที่บรรดาบุตรอิสราเอลได้ตีไว้สำหรับผู้ที่ตนตีราคา",
+      "thai_literal": null,
+      "thai_summary": "OT CITATION: มัทธิวอ้างถึงเยเรมีย์ แต่ข้อความนี้ใกล้เคียงกับเศคาริยาห์ 11:12-13 มากกว่า เป็นการอ้างอิงแบบประกอบ (composite) ที่รวบยอดเยเรมีย์ 19 (ทุ่งช่างปั้นหม้อกับการพิพากษา) และเศคาริยาห์ 11 (สามสิบเหรียญเงินกับช่างปั้นหม้อ) ตามธรรมเนียมยิวจะอ้างชื่อผู้เผยพระวจนะที่สำคัญกว่าในการอ้างประกอบ — มัทธิวจึงระบุเป็น «เยเรมีย์» เพื่อสื่อความหมายของการพิพากษากรุงเยรูซาเล็ม",
+      "key_decisions": [
+        {"greek": "ἐπληρώθη τὸ ῥηθὲν διὰ Ἰερεμίου", "thai": "ได้สำเร็จตามคำที่ตรัสไว้โดยเยเรมีย์", "rationale": "Standard Matthean fulfillment-formula (cf. 1:22, 2:15, 2:17, 2:23, 4:14, 8:17, 12:17, 13:35, 21:4, 26:56). Same syntactic pattern preserved. Ἰερεμίου → เยเรมีย์ (standard Thai Christian transliteration)"},
+        {"greek": "τὴν τιμὴν τοῦ τετιμημένου ὃν ἐτιμήσαντο", "thai": "ราคาที่บรรดาบุตรอิสราเอลได้ตีไว้สำหรับผู้ที่ตนตีราคา", "rationale": "Wordplay on τιμάω (price-set thrice). Per uW figs-explicitinfo: redundancy is intentional, mocking the cheapness of the valuation. Thai preserves the price/valuation-repetition; the dignified 'one-being-priced' refers to Christ being valued at 30 silver"},
+        {"greek": "ἀπὸ υἱῶν Ἰσραήλ", "thai": "บรรดาบุตรอิสราเอล", "rationale": "Per uW figs-metaphor + figs-gendernotations: 'sons of Israel' = all descendants. But this is a Hebraism that Matthew preserves verbatim from the OT-citation tradition. Thai บรรดาบุตรอิสราเอล preserves the OT-formula sound"}
+      ],
+      "notes": "MAJOR OT COMPOSITE CITATION (ADDED TO NT_OT_CITATIONS). Matthew attributes this to Jeremiah but the wording is closest to Zech 11:12-13 (the 30 pieces of silver thrown to the potter in the house of the LORD). The Jeremiah-thread is real: Jer 19:1-13 (the potter's earthen jar broken at Topheth as judgment, with explicit blood-of-the-innocent imagery — Jer 19:4) and Jer 32:6-15 (Jeremiah buys a field). Matthew's attribution to the major prophet (Jeremiah) follows standard Jewish composite-citation convention (cf. Mark 1:2-3 attributed to Isaiah though it includes Malachi 3:1). The fulfillment is editorial/typological, not predictive in a flat sense — the Jeremiah-Zechariah composite reads the priests' purchase as the convergence of (a) judgment on Jerusalem leadership for shedding innocent blood [Jer 19] and (b) the despised valuation of God's true shepherd [Zech 11]."
+    }
+  },
+  {
+    "reference": "Matthew 27:10",
+    "chapter": 27,
+    "verse": 10,
+    "greek": "καὶ ἔδωκαν αὐτὰ εἰς τὸν ἀγρὸν τοῦ κεραμέως,καθὰ συνέταξέν μοι κύριος.",
+    "bsb_english": "and they gave them for the potter’s field, as the Lord had commanded me.”",
+    "translation": {
+      "thai": "และพวกเขาได้นำเงินนั้นไปซื้อทุ่งนาของช่างปั้นหม้อ ตามที่องค์พระผู้เป็นเจ้าทรงบัญชาแก่ข้าพเจ้า»",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "ἔδωκαν αὐτὰ εἰς", "thai": "ได้นำเงินนั้นไปซื้อ", "rationale": "Per uW figs-explicit: 'gave them for' = bought with them. Thai ไปซื้อ makes the transaction explicit"},
+        {"greek": "καθὰ συνέταξέν μοι κύριος", "thai": "ตามที่องค์พระผู้เป็นเจ้าทรงบัญชาแก่ข้าพเจ้า", "rationale": "καθά (HAPAX in NT, only here). κύριος here = YHWH per OT-citation context, so RULES.md §4: κύριος (=YHWH in OT citation) → องค์พระผู้เป็นเจ้า. Royal verb ทรงบัญชา for divine action. The 'me' is the prophetic-voice (Zechariah/Jeremiah) speaking in first person"}
+      ],
+      "notes": "HAPAX: καθά ('just as,' only here in NT — variant of καθώς). The 'Lord commanded me' makes the prophet the speaker; in Zech 11:13 the LORD commands Zechariah to throw the 30 pieces 'to the potter in the house of the LORD.' Matthew adapts: the prophetic 'me' becomes the voice through which the priests' action fulfills divine purpose. The commanded-me element strengthens the divine-orchestration of even this seemingly random real-estate transaction."
+    }
+  },
+  {
+    "reference": "Matthew 27:11",
+    "chapter": 27,
+    "verse": 11,
+    "greek": "Ὁ δὲ Ἰησοῦς ἐστάθη ἔμπροσθεν τοῦ ἡγεμόνος·καὶ ἐπηρώτησεν αὐτὸν ὁ ἡγεμὼν λέγων·Σὺ εἶ ὁ βασιλεὺς τῶν Ἰουδαίων;ὁ δὲ Ἰησοῦς ἔφη·Σὺ λέγεις.",
+    "bsb_english": "Meanwhile Jesus stood before the governor, who questioned Him: “Are You the King of the Jews?” “You have said so,” Jesus replied.",
+    "translation": {
+      "thai": "ส่วนพระเยซูทรงยืนอยู่ต่อหน้าผู้ว่าราชการ และผู้ว่าราชการถามพระองค์ว่า «ท่านเป็นกษัตริย์ของชาวยิวหรือ» พระเยซูตรัสตอบว่า «ท่านพูดเองแล้ว»",
+      "thai_literal": null,
+      "thai_summary": "คำตอบ «ท่านพูดเองแล้ว» (ซู เลเกอิส) เป็นสำนวนภาษากรีกที่บ่งถึงการยอมรับโดยอ้อม ไม่ใช่การปฏิเสธหรือยอมรับเต็มเปา พระเยซูทรงใช้สำนวนเดียวกันนี้ตอบคายาฟาสในข้อ 26:64 และตอบยูดาสในข้อ 26:25 — ทำให้ผู้ถามต้องรับผิดชอบกับคำกล่าวของตนเอง",
+      "key_decisions": [
+        {"greek": "ἐστάθη", "thai": "ทรงยืนอยู่", "rationale": "Aorist passive of ἵστημι. Per uW figs-activepassive: implied agent is the soldiers who positioned Jesus. Royal subject ทรงยืน preserves divine register even in this humiliating-passive context"},
+        {"greek": "Σὺ εἶ ὁ βασιλεὺς τῶν Ἰουδαίων", "thai": "ท่านเป็นกษัตริย์ของชาวยิวหรือ", "rationale": "Pilate's question is the political-charge that Romans cared about (alleged sedition). Pilate addresses Jesus as ท่าน (formal-respectful, not honorific) — Pilate is interrogating, not worshiping"},
+        {"greek": "Σὺ λέγεις", "thai": "ท่านพูดเองแล้ว", "rationale": "Same idiom as 26:25 (to Judas) and 26:64 (to Caiaphas). Per uW figs-idiom: indirect affirmation. Forces the asker to own the claim. Consistent rendering across all three Matthean occurrences"}
+      ],
+      "notes": "Σὺ λέγεις pattern: this is the third time Jesus uses this idiom in 26-27 — to Judas (26:25, identifying betrayer), to Caiaphas (26:64, the messianic claim), and now to Pilate (the kingship claim). Each time, Jesus neither denies nor brashly affirms, but throws the claim back: 'You said it.' This is not evasion — it is acceptance-by-deflection that forces the asker to confront the implications of their own words. Pilate addressed by ท่าน (not พระองค์) because, although Roman governor, he is not a divine addressee from Jesus's perspective."
+    }
+  },
+  {
+    "reference": "Matthew 27:12",
+    "chapter": 27,
+    "verse": 12,
+    "greek": "καὶ ἐν τῷ κατηγορεῖσθαι αὐτὸν ὑπὸ τῶν ἀρχιερέων καὶ πρεσβυτέρων οὐδὲν ἀπεκρίνατο.",
+    "bsb_english": "And when He was accused by the chief priests and elders, He gave no answer.",
+    "translation": {
+      "thai": "และเมื่อบรรดาหัวหน้าปุโรหิตและพวกผู้อาวุโสกล่าวหาพระองค์ พระองค์มิได้ตรัสตอบสิ่งใดเลย",
+      "thai_literal": null,
+      "thai_summary": "ความเงียบของพระเยซูในที่นี้สะท้อนคำพยากรณ์ในอิสยาห์ 53:7 — «เขาถูกบีบบังคับและเขาถูกข่มเหง แต่เขาไม่ปริปาก เหมือนลูกแกะที่เขาเอาไปฆ่า» — ผู้รับใช้ที่ทุกข์ทรมานนั้นไม่ปกป้องตนเอง",
+      "key_decisions": [
+        {"greek": "ἐν τῷ κατηγορεῖσθαι", "thai": "เมื่อ...กล่าวหา", "rationale": "Articular infinitive temporal construction. Per uW figs-activepassive: rendered actively in Thai — the priests/elders as subject"},
+        {"greek": "οὐδὲν ἀπεκρίνατο", "thai": "พระองค์มิได้ตรัสตอบสิ่งใดเลย", "rationale": "Strong negative: 'answered nothing.' Royal verb ตรัสตอบ. Echoes Isa 53:7 LXX (αὐτὸς δὲ διὰ τὸ κεκακῶσθαι οὐκ ἀνοίγει τὸ στόμα — 'though afflicted, he does not open his mouth')"}
+      ],
+      "notes": "OT BACKGROUND ALLUSION: Isa 53:7 (the suffering servant who is silent before his accusers). This is one of the strongest fulfillment-of-Isaiah-53 cues in the passion narrative. The silence motif also recurs at v.14. Matthew does not cite Isa 53 explicitly here, but the thematic allusion is widely recognized in NT scholarship (Beale & Carson). Pilate's amazement in v.14 makes most sense in light of this prophesied silence. ADD TO NT_OT_CITATIONS as background_allusion."
+    }
+  },
+  {
+    "reference": "Matthew 27:13",
+    "chapter": 27,
+    "verse": 13,
+    "greek": "τότε λέγει αὐτῷ ὁ Πιλᾶτος·Οὐκ ἀκούεις πόσα σου καταμαρτυροῦσιν;",
+    "bsb_english": "Then Pilate asked Him, “Do You not hear how many charges they are bringing against You?”",
+    "translation": {
+      "thai": "ปีลาตจึงกล่าวแก่พระองค์ว่า «ท่านไม่ได้ยินที่พวกเขาเป็นพยานปรักปรำท่านมากมายเช่นนี้หรือ»",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "λέγει", "thai": "กล่าว", "rationale": "Per uW figs-pastforfuture: historic present, render as past in Thai narrative"},
+        {"greek": "πόσα σου καταμαρτυροῦσιν", "thai": "พวกเขาเป็นพยานปรักปรำท่านมากมายเช่นนี้", "rationale": "καταμαρτυρέω = bear-witness-against (compound: kata-down + martyreō). Thai เป็นพยานปรักปรำ captures the legal-accusatory testimony. Per uW figs-explicit: Pilate is implicitly asking why Jesus doesn't defend himself"}
+      ],
+      "notes": "Pilate's question shows his bewilderment at Jesus's silence — typical defendants would protest accusations. The dignified silence is what amazes Pilate (v.14). Jesus addressed by ท่าน (formal but not honorific) by Pilate the interrogator."
+    }
+  },
+  {
+    "reference": "Matthew 27:14",
+    "chapter": 27,
+    "verse": 14,
+    "greek": "καὶ οὐκ ἀπεκρίθη αὐτῷ πρὸς οὐδὲ ἓν ῥῆμα,ὥστε θαυμάζειν τὸν ἡγεμόνα λίαν.",
+    "bsb_english": "But Jesus gave no answer, not even to a single charge, much to the governor’s amazement.",
+    "translation": {
+      "thai": "พระองค์ก็มิได้ตรัสตอบเขาแม้แต่คำเดียว จนผู้ว่าราชการประหลาดใจอย่างยิ่ง",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "πρὸς οὐδὲ ἓν ῥῆμα", "thai": "แม้แต่คำเดียว", "rationale": "Per uW figs-metonymy: ῥῆμα = each accusation OR a single word. Thai แม้แต่คำเดียว preserves both senses. The emphasis is total silence"},
+        {"greek": "θαυμάζειν...λίαν", "thai": "ประหลาดใจอย่างยิ่ง", "rationale": "θαυμάζω + intensifier λίαν. ประหลาดใจอย่างยิ่ง captures both elements"}
+      ],
+      "notes": "Pilate's amazement (cf. Mark 15:5) at Jesus's silence is itself a witness to Jesus's character. Roman governors were used to defendants who pleaded vigorously; Jesus's calm silence subverts the legal theater. Continues the Isa 53:7 thematic allusion noted at v.12."
+    }
+  },
+  {
+    "reference": "Matthew 27:15",
+    "chapter": 27,
+    "verse": 15,
+    "greek": "Κατὰ δὲ ἑορτὴν εἰώθει ὁ ἡγεμὼν ἀπολύειν ἕνα τῷ ὄχλῳ δέσμιον ὃν ἤθελον.",
+    "bsb_english": "Now it was the governor’s custom at the feast to release to the crowd a prisoner of their choosing.",
+    "translation": {
+      "thai": "ในเทศกาลนั้น ผู้ว่าราชการมีธรรมเนียมจะปล่อยนักโทษคนหนึ่งให้แก่ฝูงชนตามที่พวกเขาต้องการ",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "Κατὰ...ἑορτὴν", "thai": "ในเทศกาลนั้น", "rationale": "ἑορτή = the festival (= Passover specifically per uW figs-explicit). Distributive κατά = at-each-feast / at-the-feast. Per uW writing-background: Matthew is providing background information"},
+        {"greek": "εἰώθει...ἀπολύειν", "thai": "มีธรรมเนียมจะปล่อย", "rationale": "Pluperfect of εἴωθα = had-been-accustomed. Thai มีธรรมเนียม captures the customary-practice"},
+        {"greek": "δέσμιον", "thai": "นักโทษ", "rationale": "δέσμιος = prisoner. Standard Thai นักโทษ"}
+      ],
+      "notes": "The Passover-amnesty custom (privilegium paschale) is attested only in the Gospels; no extra-biblical confirmation, but Roman governors did sometimes grant strategic clemency to placate provincial populations. Matthew uses it as the dramatic device for the Barabbas-swap. Background-information mode (uW writing-background) — not the next narrative event."
+    }
+  },
+  {
+    "reference": "Matthew 27:16",
+    "chapter": 27,
+    "verse": 16,
+    "greek": "εἶχον δὲ τότε δέσμιον ἐπίσημον λεγόμενον Ἰησοῦν Βαραββᾶν.",
+    "bsb_english": "At that time they were holding a notorious prisoner named Barabbas.",
+    "translation": {
+      "thai": "ในเวลานั้นมีนักโทษที่เลื่องลือคนหนึ่ง ชื่อว่าเยซูบารับบัส",
+      "thai_literal": null,
+      "thai_summary": "ฉบับ SBLGNT ที่เราใช้แปลพิมพ์ชื่อเต็มว่า «เยซูบารับบัส» ซึ่งเป็นข้อความที่ปรากฏในต้นฉบับโบราณบางฉบับ ทำให้เห็นความน่าตกใจของการเลือก: ฝูงชนต้องเลือกระหว่าง «เยซูบารับบัส» (เยซูผู้เป็นบุตรของบิดา) กับ «เยซูที่เรียกกันว่าพระคริสต์» (เยซูผู้เป็นพระบุตรของพระบิดาในสวรรค์อย่างแท้จริง) ฉบับแปลร่วมสมัยส่วนใหญ่ละ «เยซู» ออก",
+      "key_decisions": [
+        {"greek": "δέσμιον ἐπίσημον", "thai": "นักโทษที่เลื่องลือ", "rationale": "ἐπίσημος = well-known/notable (positive or negative). Per uW figs-explicit: ambiguous — Romans saw him as notorious, some Jews as renowned. Thai เลื่องลือ preserves the dual valence (famously-known)"},
+        {"greek": "Ἰησοῦν Βαραββᾶν", "thai": "เยซูบารับบัส", "rationale": "TEXTUAL VARIANT: SBLGNT prints 'Ἰησοῦν' before Βαραββᾶν (with strong manuscript support — old Caesarean tradition incl. Origen). NA28 brackets [Ἰησοῦν]. BSB/NIV/ESV/KJV omit. Per RULES.md §0: we follow SBLGNT and document divergence. Thai เยซู (=name 'Jesus' without divine honorific พระ-) marks Barabbas as a different Jesus from the Messiah. The contrast between two men named Jesus heightens the drama"}
+      ],
+      "notes": "MAJOR TEXTUAL VARIANT (per uW chapter intro): SBLGNT reads Ἰησοῦν Βαραββᾶν ('Jesus Barabbas'). NA28 brackets [Ἰησοῦν]. Major early MSS supporting the longer reading: Θ f1 700* sys arm geo2; Origen's commentary preserves the longer reading and notes that scribes likely deleted 'Jesus' out of reverence. BSB/NIV/ESV/NRSV/most modern English Bibles read just 'Barabbas.' Per RULES.md §0 we follow SBLGNT but document the divergence. The longer reading is significant: 'Bar-abbas' = Aramaic 'son of the father' — so the crowd is asked to choose between 'Jesus son-of-the-father' and 'Jesus called Christ' (the true Son of the Father). Note: this is NOT the bracket-convention case from RULES.md §5 (which is for SBLGNT-omits + mainstream-includes); here SBLGNT-includes + mainstream-omits, so the Thai gets 'Jesus Barabbas' without brackets."
+    }
+  },
+  {
+    "reference": "Matthew 27:17",
+    "chapter": 27,
+    "verse": 17,
+    "greek": "συνηγμένων οὖν αὐτῶν εἶπεν αὐτοῖς ὁ Πιλᾶτος·Τίνα θέλετε ἀπολύσω ὑμῖν,Ἰησοῦν τὸν Βαραββᾶν ἢ Ἰησοῦν τὸν λεγόμενον χριστόν;",
+    "bsb_english": "So when the crowd had assembled, Pilate asked them, “Which one do you want me to release to you: Barabbas, or Jesus who is called Christ?”",
+    "translation": {
+      "thai": "ดังนั้น เมื่อพวกเขาชุมนุมกันแล้ว ปีลาตจึงถามพวกเขาว่า «พวกท่านต้องการให้ข้าพเจ้าปล่อยใครให้แก่พวกท่าน เยซูบารับบัส หรือเยซูที่เรียกกันว่าพระคริสต์»",
+      "thai_literal": null,
+      "thai_summary": "การที่ปีลาตเสนอการเลือกระหว่างคนสองคนที่ชื่อ «เยซู» เหมือนกัน เป็นภาพสะท้อนของการเลือกที่มนุษย์ทุกคนต้องเผชิญ — เลือกพระบุตรของพระเจ้าผู้ทรงเป็นพระคริสต์ที่แท้จริง หรือเลือก «บุตรของบิดา» อีกคน (บารับบัส แปลว่า «บุตรของบิดา») ซึ่งเป็นกบฏฆ่าคน",
+      "key_decisions": [
+        {"greek": "συνηγμένων...αὐτῶν", "thai": "เมื่อพวกเขาชุมนุมกันแล้ว", "rationale": "Genitive absolute. Per uW figs-activepassive: rendered actively. Refers to the same crowd as v.15"},
+        {"greek": "θέλετε", "thai": "พวกท่านต้องการ", "rationale": "Per uW figs-yousingular: Pilate addresses crowd → plural พวกท่าน"},
+        {"greek": "Ἰησοῦν τὸν Βαραββᾶν ἢ Ἰησοῦν τὸν λεγόμενον χριστόν", "thai": "เยซูบารับบัส หรือเยซูที่เรียกกันว่าพระคริสต์", "rationale": "Same textual variant as v.16 (SBLGNT 'Jesus Barabbas'). Pilate's framing makes the parallel between the two Jesuses explicit. χριστός per RULES.md §4 → พระคริสต์ (title not name). Pilate uses τὸν λεγόμενον (so-called) — distancing language from Pilate, who does not himself confess Jesus as Christ"}
+      ],
+      "notes": "Same textual variant as v.16 (Ἰησοῦν before Βαραββᾶν). Pilate's question makes the contrast pointed: 'Which Jesus do you want?' Since Bar-abbas = 'son of the father' in Aramaic, the choice is rhetorically between two 'sons of the father' — one who is a violent rebel (Bar-abbas), one who is the true Son of the Father (Jesus the Christ). The Christological irony is intense. Pilate's διὰ φθόνον awareness (v.18) shows he's testing whether the crowd will see through the priests' manipulation."
+    }
+  },
+  {
+    "reference": "Matthew 27:18",
+    "chapter": 27,
+    "verse": 18,
+    "greek": "ᾔδει γὰρ ὅτι διὰ φθόνον παρέδωκαν αὐτόν.",
+    "bsb_english": "For he knew it was out of envy that they had handed Jesus over to him.",
+    "translation": {
+      "thai": "เพราะปีลาตรู้อยู่แล้วว่าพวกเขามอบพระองค์ไว้ก็เพราะความริษยา",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "ᾔδει", "thai": "รู้อยู่แล้ว", "rationale": "Pluperfect of οἶδα = had-known/knew. Pilate's awareness was prior to his question. Thai รู้อยู่แล้ว captures the pre-existing knowledge"},
+        {"greek": "διὰ φθόνον", "thai": "เพราะความริษยา", "rationale": "φθόνος = envy/jealous-malice. Thai ความริษยา is the standard NT-rendering"},
+        {"greek": "παρέδωκαν αὐτόν", "thai": "พวกเขามอบพระองค์ไว้", "rationale": "Continuing the παραδίδωμι chain. Royal-object พระองค์"}
+      ],
+      "notes": "Pilate's diagnosis is sharp and accurate — the priests' motive was φθόνος (envy of Jesus's popularity, his teaching authority, his Galilean appeal). This Roman-political-savvy frames Pilate sympathetically; he sees through the legal pretext. Yet political prudence will override his judicial judgment. φθόνος is one of the classic 'cardinal vices' in Greco-Roman ethics and figures in NT vice-lists (Rom 1:29; Gal 5:21; 1 Tim 6:4)."
+    }
+  },
+  {
+    "reference": "Matthew 27:19",
+    "chapter": 27,
+    "verse": 19,
+    "greek": "Καθημένου δὲ αὐτοῦ ἐπὶ τοῦ βήματος ἀπέστειλεν πρὸς αὐτὸν ἡ γυνὴ αὐτοῦ λέγουσα·Μηδὲν σοὶ καὶ τῷ δικαίῳ ἐκείνῳ,πολλὰ γὰρ ἔπαθον σήμερον κατ’ὄναρ δι’αὐτόν.",
+    "bsb_english": "While Pilate was sitting on the judgment seat, his wife sent him this message: “Have nothing to do with that innocent man, for I have suffered terribly in a dream today because of Him.”",
+    "translation": {
+      "thai": "ขณะที่ปีลาตนั่งบนบัลลังก์พิพากษา ภรรยาของเขาส่งคนมาบอกเขาว่า «อย่าทำอะไรกับท่านผู้ชอบธรรมนั้นเลย เพราะวันนี้ดิฉันทุกข์ยิ่งนักในความฝันเนื่องด้วยท่านผู้นั้น»",
+      "thai_literal": null,
+      "thai_summary": "เป็นเหตุการณ์ที่บันทึกเฉพาะในพระกิตติคุณมัทธิวเท่านั้น ภรรยาของปีลาต — ตำนานคริสตศาสนาตะวันออกเรียกชื่อว่า «โพรกลา» — เป็นพยานคนต่างชาติที่ยอมรับว่าพระเยซูเป็น «ผู้ชอบธรรม» ในขณะที่ผู้นำชาวยิวกำลังประณามพระองค์ มัทธิวใช้ภาพแห่งความฝันเป็นการเปิดเผยจากพระเจ้า เช่นเดียวกับโยเซฟในบทที่ 1-2",
+      "key_decisions": [
+        {"greek": "ἐπὶ τοῦ βήματος", "thai": "บนบัลลังก์พิพากษา", "rationale": "βῆμα = the official judgment-seat. Per uW translate-symaction: ready-to-judge posture. บัลลังก์พิพากษา is standard Thai legal-formal"},
+        {"greek": "ἡ γυνὴ αὐτοῦ", "thai": "ภรรยาของเขา", "rationale": "Standard ภรรยา (wife). Pilate is not divine; his wife uses common register"},
+        {"greek": "Μηδὲν σοὶ καὶ τῷ δικαίῳ ἐκείνῳ", "thai": "อย่าทำอะไรกับท่านผู้ชอบธรรมนั้นเลย", "rationale": "Per uW figs-idiom: 'nothing-to-you-and-that-righteous-one' = avoid involvement. δίκαιος = righteous. Thai ผู้ชอบธรรม preserves the moral-legal vindication. Strikingly, a Gentile woman recognizes Jesus's righteousness"},
+        {"greek": "πολλὰ...ἔπαθον σήμερον κατ’ὄναρ", "thai": "วันนี้ดิฉันทุกข์ยิ่งนักในความฝัน", "rationale": "Per uW figs-explicit: dream-suffering = upset/distressed. Thai ทุกข์ยิ่งนัก. ดิฉัน is feminine first-person (Pilate's wife speaking in formal register)"}
+      ],
+      "notes": "UNIQUE TO MATTHEW. Eastern Orthodox tradition names her Procla or Claudia Procla and venerates her as a saint. The dream-revelation parallels Joseph's dreams in Mat 1-2 — divine guidance through dreams is a Matthean motif. The Gentile wife's testimony to Jesus's δικαιοσύνη forms a Matthean inclusio with the centurion's confession at v.54 — Gentile witnesses bracket the crucifixion narrative, anticipating the Great Commission's reach to all nations. The interruption is providentially timed: just as Pilate is presenting the choice, divine warning arrives. Matthew's passion narrative is full of divine prodigies (dream, darkness, earthquake, torn curtain, raised dead) testifying to what the human actors fail to see."
+    }
+  },
+  {
+    "reference": "Matthew 27:20",
+    "chapter": 27,
+    "verse": 20,
+    "greek": "Οἱ δὲ ἀρχιερεῖς καὶ οἱ πρεσβύτεροι ἔπεισαν τοὺς ὄχλους ἵνα αἰτήσωνται τὸν Βαραββᾶν τὸν δὲ Ἰησοῦν ἀπολέσωσιν.",
+    "bsb_english": "But the chief priests and elders persuaded the crowds to ask for Barabbas and to have Jesus put to death.",
+    "translation": {
+      "thai": "แต่บรรดาหัวหน้าปุโรหิตและพวกผู้อาวุโสได้ชักชวนฝูงชนให้ขอบารับบัสและให้ทำลายพระเยซู",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "ἔπεισαν", "thai": "ได้ชักชวน", "rationale": "Aorist of πείθω = persuade. Thai ชักชวน captures the deliberate-influence sense (vs. ฝูงชน-spontaneous-clamor)"},
+        {"greek": "τὸν Βαραββᾶν", "thai": "บารับบัส", "rationale": "From v.20 onward Matthew drops the 'Jesus' before Barabbas — only the name Barabbas remains. Consistent with the SBLGNT text"},
+        {"greek": "ἀπολέσωσιν", "thai": "ทำลาย", "rationale": "ἀπόλλυμι = destroy. Per uW figs-explicit: implies execution. Thai ทำลาย preserves the destructive-killing sense; the priests want Jesus destroyed, not merely punished"}
+      ],
+      "notes": "From v.20 onward, Matthew drops the 'Jesus' before Barabbas in SBLGNT — only the name 'Barabbas' remains. The dramatic two-Jesus framing was concentrated in vv.16-17. The priests' counter-mobilization undoes Pilate's gambit. Note ἀπολέσωσιν ('destroy') vs. mere conviction — they want death, not punishment. The προσθεσις-thread of Matthean συμβούλιον (v.1, v.7) reaches its climax: every consultation has been toward Jesus's death."
+    }
+  },
+  {
+    "reference": "Matthew 27:21",
+    "chapter": 27,
+    "verse": 21,
+    "greek": "ἀποκριθεὶς δὲ ὁ ἡγεμὼν εἶπεν αὐτοῖς·Τίνα θέλετε ἀπὸ τῶν δύο ἀπολύσω ὑμῖν;οἱ δὲ εἶπαν·Τὸν Βαραββᾶν.",
+    "bsb_english": "“Which of the two do you want me to release to you?” asked the governor. “Barabbas,” they replied.",
+    "translation": {
+      "thai": "ผู้ว่าราชการตอบและกล่าวแก่พวกเขาว่า «พวกท่านต้องการให้ข้าพเจ้าปล่อยคนใดในสองคนนี้แก่พวกท่าน» พวกเขาตอบว่า «บารับบัส»",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "ἀποκριθεὶς", "thai": "ตอบ", "rationale": "Per uW figs-explicit: Pilate is responding to the situation (the crowd's clamor), not to a question. Standard ตอบ"},
+        {"greek": "τῶν δύο", "thai": "ในสองคนนี้", "rationale": "Per uW figs-nominaladj: 'the two' = two-prisoners. Thai สองคนนี้ supplies the noun"}
+      ],
+      "notes": "Pilate's appeal to the crowd ratifies their persuaded choice. The terse 'Barabbas' is dramatically chilling — given the chance to free either Jesus or a violent insurrectionist, they choose the insurrectionist."
+    }
+  },
+  {
+    "reference": "Matthew 27:22",
+    "chapter": 27,
+    "verse": 22,
+    "greek": "λέγει αὐτοῖς ὁ Πιλᾶτος·Τί οὖν ποιήσω Ἰησοῦν τὸν λεγόμενον χριστόν;λέγουσιν πάντες·Σταυρωθήτω.",
+    "bsb_english": "“What then should I do with Jesus who is called Christ?” Pilate asked. They all answered, “Crucify Him!”",
+    "translation": {
+      "thai": "ปีลาตกล่าวแก่พวกเขาว่า «ถ้าเช่นนั้น เราจะทำอย่างไรกับเยซูที่เรียกกันว่าพระคริสต์» พวกเขาทั้งหมดกล่าวว่า «จงตรึงเขาที่กางเขน»",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "λέγει...λέγουσιν", "thai": "กล่าว...กล่าว", "rationale": "Per uW figs-pastforfuture: historic presents, render as Thai narrative past"},
+        {"greek": "Σταυρωθήτω", "thai": "จงตรึงเขาที่กางเขน", "rationale": "Per uW figs-imperative3p + figs-activepassive: third-person passive imperative. RULES.md §4 σταυρόω → ตรึง...ที่กางเขน. Object 'เขา' (him) — neutral/distancing register from the hostile crowd's perspective (NOT divine register from the crowd's mouth — they reject Jesus's divine identity)"}
+      ],
+      "notes": "Crucifixion (σταυρόω) was the most shameful and painful Roman execution, reserved for slaves and rebels. The crowd's demand transforms 'Jesus' from name into condemned criminal. Crucially, the crowd uses 'him' (αὐτόν implicit) — they speak as those who reject Jesus's divine status, so the Thai uses 'เขา' (neutral 3p) not 'พระองค์' (royal honorific). This is a deliberate register-choice: when characters speak as enemies of Christ, Thai loses the divine honorific — preserving the speakers' theological stance."
+    }
+  },
+  {
+    "reference": "Matthew 27:23",
+    "chapter": 27,
+    "verse": 23,
+    "greek": "ὁ δὲ ἔφη·Τί γὰρ κακὸν ἐποίησεν;οἱ δὲ περισσῶς ἔκραζον λέγοντες·Σταυρωθήτω.",
+    "bsb_english": "“Why?” asked Pilate. “What evil has He done?” But they shouted all the louder, “Crucify Him!”",
+    "translation": {
+      "thai": "ปีลาตกล่าวว่า «ทำไม เขาได้ทำชั่วอะไร» แต่พวกเขายิ่งร้องตะโกนหนักขึ้นว่า «จงตรึงเขาที่กางเขน»",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "Τί γὰρ κακὸν ἐποίησεν", "thai": "ทำไม เขาได้ทำชั่วอะไร", "rationale": "Per uW figs-rquestion: Pilate's rhetorical question implies he doesn't think Jesus has done evil. Thai preserves question form. From Pilate's lips Jesus is referred to with neutral เขา"},
+        {"greek": "περισσῶς ἔκραζον", "thai": "ยิ่งร้องตะโกนหนักขึ้น", "rationale": "Imperfect κράζω + intensifying περισσῶς = 'shouted-more-vehemently.' Thai ยิ่ง...หนักขึ้น captures the escalation"},
+        {"greek": "Σταυρωθήτω", "thai": "จงตรึงเขาที่กางเขน", "rationale": "Same as v.22 — repetition is dramatic intensification"}
+      ],
+      "notes": "Pilate's question makes him a witness to Jesus's innocence — three times in the trial scene Pilate's words actually testify to Jesus's blamelessness (vv.18, 19 [via wife], 23, 24). The crowd's intensifying shout (περισσῶς, 'all the more') is mob-dynamics: the more reasonable Pilate sounds, the louder they shout."
+    }
+  },
+  {
+    "reference": "Matthew 27:24",
+    "chapter": 27,
+    "verse": 24,
+    "greek": "ἰδὼν δὲ ὁ Πιλᾶτος ὅτι οὐδὲν ὠφελεῖ ἀλλὰ μᾶλλον θόρυβος γίνεται λαβὼν ὕδωρ ἀπενίψατο τὰς χεῖρας ἀπέναντι τοῦ ὄχλου λέγων·Ἀθῷός εἰμι ἀπὸ τοῦ αἵματος τούτου·ὑμεῖς ὄψεσθε.",
+    "bsb_english": "When Pilate saw that he was accomplishing nothing, but that instead a riot was breaking out, he took water and washed his hands before the crowd. “I am innocent of this man’s blood,” he said. “You bear the responsibility.”",
+    "translation": {
+      "thai": "เมื่อปีลาตเห็นว่าตนทำอะไรไม่ได้ แต่กลับจะเกิดความวุ่นวายมากยิ่งขึ้น เขาจึงเอาน้ำล้างมือต่อหน้าฝูงชนแล้วกล่าวว่า «เราไม่มีผิดในโลหิตของคนนี้ พวกท่านจัดการเอาเอง»",
+      "thai_literal": null,
+      "thai_summary": "การล้างมือเป็นพิธีกรรมของชาวยิวจากเฉลยธรรมบัญญัติ 21:6-9 ที่ผู้นำชุมชนล้างมือเหนือลูกวัวที่ฆ่าเป็นเครื่องบูชาเพื่อประกาศว่า «มือของเราไม่ได้หลั่งโลหิตนี้» ปีลาตในฐานะคนต่างชาติใช้สัญลักษณ์ของชาวยิวอย่างน่าขัน — ทำให้ตัวเองไม่ผิดทางสัญลักษณ์ ขณะที่อนุญาตการประหารอย่างชัดเจน",
+      "key_decisions": [
+        {"greek": "θόρυβος γίνεται", "thai": "จะเกิดความวุ่นวาย", "rationale": "θόρυβος = riot/uproar. Same word as 26:5 (priests' fear of Passover-riot). Thai ความวุ่นวาย consistent"},
+        {"greek": "ἀπενίψατο τὰς χεῖρας", "thai": "ล้างมือ", "rationale": "HAPAX in NT (ἀπονίπτω). Per uW translate-symaction: Jewish ritual gesture from Deut 21:6-9 (elders washing hands over slain heifer to declare innocence of unsolved murder). Plain Thai ล้างมือ — the symbolism is explained in thai_summary"},
+        {"greek": "Ἀθῷός εἰμι ἀπὸ τοῦ αἵματος τούτου", "thai": "เราไม่มีผิดในโลหิตของคนนี้", "rationale": "ἀθῷος (only here + v.4) deliberately recalls Judas's confession: αἷμα ἀθῷον. Pilate now claims innocence from the same blood Judas confessed shedding. TEXTUAL VARIANT: SBLGNT reads 'τούτου' (of-this-one); some MSS read 'τούτου τοῦ δικαίου' (of-this-righteous-one). We follow SBLGNT"},
+        {"greek": "ὑμεῖς ὄψεσθε", "thai": "พวกท่านจัดการเอาเอง", "rationale": "Per uW figs-yousingular + figs-idiom: plural to crowd. Same idiom as v.4 (priests to Judas) — Matthew constructs the chilling chain: Judas → priests → Pilate → crowd. Each shifts responsibility; crowd alone accepts (v.25)"}
+      ],
+      "notes": "HAPAX: ἀπονίπτω ('wash off,' only here). The hand-washing gesture is Jewish, from Deut 21:6-9 (elders washing hands over the heifer in cases of unsolved murder, declaring 'our hands did not shed this blood'). Pilate, a Gentile, performs a Jewish symbolic act — Matthew underscores the irony. The verbal echo with v.4 is intentional: ἀθῷος occurs only twice in the NT, and both at the chiastic ends of this responsibility-shifting chain. TEXTUAL VARIANT: SBLGNT τούτου ('this one') vs. some MSS τούτου τοῦ δικαίου ('this righteous one'). Per uW chapter intro the longer reading echoes Pilate's wife's δικαίῳ in v.19. We follow SBLGNT (shorter reading); document divergence from THSV/NTV which include 'righteous'. Modern NIV/ESV/BSB also have shorter reading."
+    }
+  },
+  {
+    "reference": "Matthew 27:25",
+    "chapter": 27,
+    "verse": 25,
+    "greek": "καὶ ἀποκριθεὶς πᾶς ὁ λαὸς εἶπεν·Τὸ αἷμα αὐτοῦ ἐφ’ἡμᾶς καὶ ἐπὶ τὰ τέκνα ἡμῶν.",
+    "bsb_english": "All the people answered, “His blood be on us and on our children!”",
+    "translation": {
+      "thai": "ประชาชนทั้งสิ้นตอบว่า «ให้โลหิตของเขาตกอยู่บนเราและบนลูกหลานของเรา»",
+      "thai_literal": null,
+      "thai_summary": "ประโยคนี้เป็นที่มาของการตีความผิดในประวัติศาสตร์มาช้านานว่าเป็น «คำสาปต่อชาวยิวทั้งชาติ» แต่บริบทดั้งเดิมแสดงให้เห็นว่าฝูงชนเฉพาะนั้น (ที่ถูกผู้นำชักชวน — ข้อ 20) รับผิดชอบต่อตัวเองและคนรุ่นถัดไปในยุคนั้น — ซึ่งเชื่อมโยงกับการพิพากษากรุงเยรูซาเล็มในปี ค.ศ. 70 ตามที่พระเยซูเองทรงพยากรณ์ไว้ในมัทธิว 23-24 ไม่ใช่คำสาปนิรันดร์",
+      "key_decisions": [
+        {"greek": "πᾶς ὁ λαὸς", "thai": "ประชาชนทั้งสิ้น", "rationale": "λαός = the people (often with covenant-Israel resonance). Consistent rendering ประชาชน. πᾶς = all-of-the-particular-crowd, NOT 'all Jews of all time'"},
+        {"greek": "Τὸ αἷμα αὐτοῦ ἐφ’ἡμᾶς καὶ ἐπὶ τὰ τέκνα ἡμῶν", "thai": "ให้โลหิตของเขาตกอยู่บนเราและบนลูกหลานของเรา", "rationale": "Per uW figs-idiom: blood-on-us = accept-responsibility. Thai ให้โลหิต...ตกอยู่บน preserves the OT idiom (cf. 2 Sam 1:16; Acts 18:6 the inverse). τέκνα → ลูกหลาน (descendants — uW figs-metaphor option 2)"}
+      ],
+      "notes": "EXTREMELY IMPORTANT verse — the most-misused verse in the NT for antisemitism. CONTEXT IS CRITICAL: (1) The 'all the people' = the specific crowd present, not 'all Jews of all time'; (2) Per v.20, the crowd was ἔπεισαν ('persuaded') by leadership — they speak under manipulation, not as the whole nation; (3) The 'children' likely refers to the next generation who would witness Jerusalem's destruction in AD 70 (which Matthew, writing post-70, sees as the historical fulfillment); (4) Acts 5:28 uses an inverse phrase neutrally — 'this man's blood on us' was a normal Jewish legal idiom for accepting responsibility; (5) Jesus himself prayed 'Father, forgive them' (Luke 23:34) — there is no warrant for treating the crowd's words as a perpetual divine sentence. The Eremos translation does NOT add interpretive commentary into the text but addresses the historic misuse pastorally in the thai_summary. See translator_decisions/ for fuller treatment if added."
+    }
+  },
+  {
+    "reference": "Matthew 27:26",
+    "chapter": 27,
+    "verse": 26,
+    "greek": "τότε ἀπέλυσεν αὐτοῖς τὸν Βαραββᾶν,τὸν δὲ Ἰησοῦν φραγελλώσας παρέδωκεν ἵνα σταυρωθῇ.",
+    "bsb_english": "So Pilate released Barabbas to them. But he had Jesus flogged, and handed Him over to be crucified.",
+    "translation": {
+      "thai": "ปีลาตจึงปล่อยบารับบัสให้แก่พวกเขา และเมื่อโบยตีพระเยซูแล้วก็มอบพระองค์ไว้ให้ถูกตรึงที่กางเขน",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "φραγελλώσας", "thai": "โบยตี", "rationale": "Latin loanword (flagello) — Roman flogging with the flagrum (whip with bone/metal pieces). Per uW translate-unknown: brutal scourging that sometimes killed prisoners before crucifixion. Thai โบยตี is the standard Bible-Thai term. Per uW figs-explicit: implies Pilate ordered soldiers to flog"},
+        {"greek": "παρέδωκεν ἵνα σταυρωθῇ", "thai": "มอบพระองค์ไว้ให้ถูกตรึงที่กางเขน", "rationale": "παραδίδωμι chain reaches its terminus: Jesus is handed over for crucifixion. Royal-object พระองค์ preserved. Per uW figs-activepassive: implied agent is Pilate's soldiers"}
+      ],
+      "notes": "Roman flogging (flagellatio) before crucifixion was customary. The flagrum was a multi-thonged whip with embedded bone/metal — Eusebius (Hist. Eccl. 4.15) describes prisoners' flesh being torn to expose veins and organs. Many died from flogging alone. The verb παραδίδωμι reaches its terminus here: from Judas (26:15) → priests (27:2) → Pilate (27:18) → soldiers (27:26). Each link in the chain is willing; each shares responsibility."
+    }
+  },
+  {
+    "reference": "Matthew 27:27",
+    "chapter": 27,
+    "verse": 27,
+    "greek": "Τότε οἱ στρατιῶται τοῦ ἡγεμόνος παραλαβόντες τὸν Ἰησοῦν εἰς τὸ πραιτώριον συνήγαγον ἐπ’αὐτὸν ὅλην τὴν σπεῖραν.",
+    "bsb_english": "Then the governor’s soldiers took Jesus into the Praetorium and gathered the whole company around Him.",
+    "translation": {
+      "thai": "ครั้งนั้น พวกทหารของผู้ว่าราชการนำพระเยซูไปยังกองบัญชาการปรีทอเรียม และรวมกองทหารทั้งกองมารายล้อมพระองค์",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "τὸ πραιτώριον", "thai": "กองบัญชาการปรีทอเรียม", "rationale": "Latin loanword (praetorium) = governor's official residence/HQ. Per uW translate-unknown. Thai กองบัญชาการปรีทอเรียม preserves the transliteration (per Mark glossary precedent) AND adds explanatory noun for clarity"},
+        {"greek": "ὅλην τὴν σπεῖραν", "thai": "กองทหารทั้งกอง", "rationale": "σπεῖρα = Roman cohort (~600 soldiers, 1/10 legion). Per uW translate-unknown: probably all the soldiers stationed in Jerusalem at that time. Thai กองทหารทั้งกอง captures the whole-unit sense. The vast scale (hundreds of soldiers) for one prisoner emphasizes the mockery's systematic cruelty"}
+      ],
+      "notes": "πραιτώριον could refer to the Antonia Fortress north of the temple OR to Herod's palace on the west side of the city. Most scholars now favor Herod's palace as Pilate's Jerusalem residence during festivals. The σπεῖρα (cohort) was a tenth of a Roman legion — at Jerusalem the cohort would be auxiliary troops, not legionaries (since the legions were stationed elsewhere). Hundreds of soldiers gathered for the mock-coronation of one prisoner — institutional cruelty as sport."
+    }
+  },
+  {
+    "reference": "Matthew 27:28",
+    "chapter": 27,
+    "verse": 28,
+    "greek": "καὶ ἐκδύσαντες αὐτὸν χλαμύδα κοκκίνην περιέθηκαν αὐτῷ,",
+    "bsb_english": "They stripped Him and put a scarlet robe on Him.",
+    "translation": {
+      "thai": "พวกเขาเปลื้องเสื้อของพระองค์ออก แล้วเอาเสื้อคลุมสีแดงเข้มสวมให้พระองค์",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "ἐκδύσαντες", "thai": "เปลื้องเสื้อ...ออก", "rationale": "ἐκδύω = strip-off-clothing. Thai เปลื้อง...ออก is standard"},
+        {"greek": "χλαμύδα κοκκίνην", "thai": "เสื้อคลุมสีแดงเข้ม", "rationale": "χλαμύς = military cloak (Roman officer's outer garment). κόκκινος = scarlet/crimson (cf. Mark 15:17 πορφύρα 'purple'). Per uW figs-explicit: mock-royal robe. เสื้อคลุมสีแดงเข้ม captures the deep-red color of Roman officers' cloaks. The 'scarlet' vs 'purple' distinction reflects the actual cloak (red wool, fading toward purplish hue, common Roman military garb)"}
+      ],
+      "notes": "Mark/John have 'purple' (πορφύραν), Matthew has 'scarlet' (κοκκίνην). These are not contradictory — Roman soldier cloaks (paludamenta) were red wool that often appeared purplish; ancient color terms were not chemically precise. The mockery is twofold: (a) the cloak parodies royal purple; (b) it covers the bleeding flesh from the flogging — visual cruelty emphasized."
+    }
+  },
+  {
+    "reference": "Matthew 27:29",
+    "chapter": 27,
+    "verse": 29,
+    "greek": "καὶ πλέξαντες στέφανον ἐξ ἀκανθῶν ἐπέθηκαν ἐπὶ τῆς κεφαλῆς αὐτοῦ καὶ κάλαμον ἐν τῇ δεξιᾷ αὐτοῦ,καὶ γονυπετήσαντες ἔμπροσθεν αὐτοῦ ἐνέπαιξαν αὐτῷ λέγοντες·Χαῖρε,βασιλεῦ τῶν Ἰουδαίων,",
+    "bsb_english": "And they twisted together a crown of thorns and set it on His head. They put a staff in His right hand, knelt down before Him, and mocked Him, saying, “Hail, King of the Jews!”",
+    "translation": {
+      "thai": "พวกเขาสานมงกุฎจากหนามแล้ววางบนพระเศียรของพระองค์ และเอาไม้อ้อใส่ในพระหัตถ์ขวาของพระองค์ พวกเขาคุกเข่าลงต่อหน้าพระองค์และเยาะเย้ยพระองค์ว่า «ขอทรงพระเจริญ กษัตริย์ของชาวยิว»",
+      "thai_literal": null,
+      "thai_summary": "ภาพการล้อเลียนของทหารโรมันเป็นการแต่งตัวจอมปลอมให้พระเยซูเป็น «กษัตริย์»: มงกุฎ (จากหนาม) ไม้คทา (จากไม้อ้อ) เสื้อคลุมสีแดง (เสื้อทหาร) และคำทักทายแบบโรมัน (ขอทรงพระเจริญ) — แต่ในความเสียดสีของพวกเขา พระเจ้าทรงเปิดเผยความจริง: พระเยซูทรงเป็นกษัตริย์ที่แท้จริง สวมมงกุฎแห่งความทุกข์ทรมานเพื่อชนชาติของพระองค์",
+      "key_decisions": [
+        {"greek": "στέφανον ἐξ ἀκανθῶν", "thai": "มงกุฎจากหนาม", "rationale": "Per uW figs-possession + figs-explicit: crown made-from thorny branches. Possible thorns: Sarcopoterium spinosum or Ziziphus spina-christi (both common in Judea). Thai มงกุฎ (royal crown) preserves the parody-of-kingship. Royal-recipient พระเศียร (head)"},
+        {"greek": "κάλαμον ἐν τῇ δεξιᾷ", "thai": "ไม้อ้อใส่ในพระหัตถ์ขวา", "rationale": "Per uW figs-explicit: reed = mock-scepter. Royal-recipient พระหัตถ์ (hand). The reed will be used to strike Jesus in v.30"},
+        {"greek": "γονυπετήσαντες", "thai": "คุกเข่าลง", "rationale": "Per uW translate-symaction: kneeling-before-king (mock honor). Thai คุกเข่าลง"},
+        {"greek": "ἐνέπαιξαν", "thai": "เยาะเย้ย", "rationale": "ἐμπαίζω = mock/ridicule (cf. v.31, 41). Per uW figs-irony: pretending honor while intending dishonor. เยาะเย้ย is standard Thai mocking-verb"},
+        {"greek": "Χαῖρε,βασιλεῦ τῶν Ἰουδαίων", "thai": "ขอทรงพระเจริญ กษัตริย์ของชาวยิว", "rationale": "Per uW figs-irony + figs-idiom: Roman royal greeting (Ave Caesar Imperator!). Thai ขอทรงพระเจริญ is the standard Thai-royal acclamation — IRONY: divine register from mocking soldiers preserves the ironic-truth that Jesus actually IS the King"}
+      ],
+      "notes": "Three mock-royal symbols: thorn-crown (parody-diadem), reed-scepter, scarlet-cloak (parody-purple). The Roman acclamation Χαῖρε parodies Ave Caesar! used for the Emperor. SUBVERSIVE IRONY: the soldiers think they're ridiculing a pretender, but Matthew's reader knows Jesus actually is the king. The Thai ขอทรงพระเจริญ (royal-acclamation) preserves this irony — divine register from mocking lips makes the truth shine through. The reed will be turned against Jesus in v.30."
+    }
+  },
+  {
+    "reference": "Matthew 27:30",
+    "chapter": 27,
+    "verse": 30,
+    "greek": "καὶ ἐμπτύσαντες εἰς αὐτὸν ἔλαβον τὸν κάλαμον καὶ ἔτυπτον εἰς τὴν κεφαλὴν αὐτοῦ.",
+    "bsb_english": "Then they spit on Him and took the staff and struck Him on the head repeatedly.",
+    "translation": {
+      "thai": "พวกเขาถ่มน้ำลายรดพระองค์ และเอาไม้อ้อนั้นตีพระเศียรของพระองค์ซ้ำแล้วซ้ำเล่า",
+      "thai_literal": null,
+      "thai_summary": "การถ่มน้ำลายเป็นการดูหมิ่นที่รุนแรงในวัฒนธรรมยิว-โรมัน เป็นการสะท้อนคำพยากรณ์ในอิสยาห์ 50:6 — «ข้าฯ ไม่ได้ปิดบังหน้าจากการเหยียดหยามและการถ่มน้ำลาย» — ผู้รับใช้ที่ทุกข์ทรมาน",
+      "key_decisions": [
+        {"greek": "ἐμπτύσαντες", "thai": "ถ่มน้ำลายรด", "rationale": "Per uW translate-symaction: spitting = grave insult. ถ่มน้ำลายรด is standard Thai. Echoes Isa 50:6 LXX (τὸ πρόσωπόν μου οὐκ ἀπέστρεψα ἀπὸ αἰσχύνης ἐμπτυσμάτων)"},
+        {"greek": "ἔτυπτον", "thai": "ตี...ซ้ำแล้วซ้ำเล่า", "rationale": "Imperfect of τύπτω = struck-repeatedly. Thai ซ้ำแล้วซ้ำเล่า conveys the iterative aspect"}
+      ],
+      "notes": "OT BACKGROUND: Isa 50:6 (the Servant offering his back/cheeks/face to flogging, plucking-out-of-beard, and spitting). Matthew preserves the ἐμπτύω/ἐμπτυσμάτων link to the LXX. ADD TO NT_OT_CITATIONS as background_allusion. The reed once given as mock-scepter is now turned against him — symbolic of all mockery becoming weapon. The royal head (πρὸς τὴν κεφαλήν) is what is struck — the head that wore the thorn-crown."
+    }
+  },
+  {
+    "reference": "Matthew 27:31",
+    "chapter": 27,
+    "verse": 31,
+    "greek": "καὶ ὅτε ἐνέπαιξαν αὐτῷ,ἐξέδυσαν αὐτὸν τὴν χλαμύδα καὶ ἐνέδυσαν αὐτὸν τὰ ἱμάτια αὐτοῦ καὶ ἀπήγαγον αὐτὸν εἰς τὸ σταυρῶσαι.",
+    "bsb_english": "After they had mocked Him, they removed the robe and put His own clothes back on Him. Then they led Him away to crucify Him.",
+    "translation": {
+      "thai": "เมื่อพวกเขาเยาะเย้ยพระองค์แล้ว พวกเขาก็ถอดเสื้อคลุมนั้นออกและเอาเสื้อผ้าของพระองค์เองสวมให้พระองค์ และนำพระองค์ออกไปเพื่อตรึงที่กางเขน",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "ἐξέδυσαν...ἐνέδυσαν", "thai": "ถอด...สวม", "rationale": "Pair of antonymic verbs (ek-dyō / en-dyō). Thai ถอด/สวม preserves the on-off structure"},
+        {"greek": "ἀπήγαγον αὐτὸν εἰς τὸ σταυρῶσαι", "thai": "นำพระองค์ออกไปเพื่อตรึงที่กางเขน", "rationale": "Per uW figs-explicit: led-away from the Praetorium. Articular infinitive of purpose. RULES.md §4 σταυρόω → ตรึง...ที่กางเขน"}
+      ],
+      "notes": "Restoring his own clothes was Roman procedure for crucifixion processions: the convicted carried his own crossbeam through the streets in his own clothes; the soldiers would later strip and divide them at the execution site (v.35). The brief mercy of restored clothing is functional, not compassionate."
+    }
+  },
+  {
+    "reference": "Matthew 27:32",
+    "chapter": 27,
+    "verse": 32,
+    "greek": "Ἐξερχόμενοι δὲ εὗρον ἄνθρωπον Κυρηναῖον ὀνόματι Σίμωνα·τοῦτον ἠγγάρευσαν ἵνα ἄρῃ τὸν σταυρὸν αὐτοῦ.",
+    "bsb_english": "Along the way they found a man from Cyrene, named Simon, and they forced him to carry the cross of Jesus.",
+    "translation": {
+      "thai": "ขณะที่ออกไป พวกเขาพบชายชาวไซรีนคนหนึ่งชื่อซีโมน พวกเขาเกณฑ์ให้คนนั้นแบกกางเขนของพระองค์",
+      "thai_literal": null,
+      "thai_summary": "ซีโมนชาวไซรีน (ลิเบียในปัจจุบัน) เป็นชาวยิวจากดินแดนต่างถิ่นที่กำลังมาฉลองเทศกาลปัสกาที่กรุงเยรูซาเล็ม มาระโก 15:21 บอกว่าเขาเป็นบิดาของอเล็กซานเดอร์และรูฟัส (ดู โรม 16:13) บ่งบอกว่าครอบครัวของเขาเป็นที่รู้จักในชุมชนคริสเตียนยุคแรก",
+      "key_decisions": [
+        {"greek": "Ἐξερχόμενοι", "thai": "ขณะที่ออกไป", "rationale": "Per uW figs-explicit: implies leaving Jerusalem (crucifixion was outside the city). Present participle = ongoing action"},
+        {"greek": "ἄνθρωπον Κυρηναῖον ὀνόματι Σίμωνα", "thai": "ชายชาวไซรีนคนหนึ่งชื่อซีโμον", "rationale": "Per glossary: Σίμων Κυρηναῖος → ซีโมนชาวไซรีน (established in Mark glossary). Cyrene was a major Jewish-diaspora city in N. Africa (modern Libya)"},
+        {"greek": "ἠγγάρευσαν", "thai": "เกณฑ์", "rationale": "Per uW translate-unknown: ἀγγαρεύω = Roman conscription-power; soldiers could compel any subject to carry burdens. Same word at Mat 5:41 (Sermon on Mount). Thai เกณฑ์ captures the forced-conscription"},
+        {"greek": "τὸν σταυρὸν αὐτοῦ", "thai": "กางเขนของพระองค์", "rationale": "Royal-possessive พระองค์. Convicts carried only the patibulum (crossbeam, ~50kg) — the upright stipes was usually fixed at the execution site"}
+      ],
+      "notes": "Mark 15:21 specifies Simon was 'the father of Alexander and Rufus' — these names are unexplained unless Mark's audience knew them, suggesting they became Christians (Rom 16:13 mentions a Rufus). Simon's compelled cross-bearing becomes a discipleship-icon (Luke 23:26 has Simon carrying it 'behind Jesus' — the Lukan-disciple-image). Matthew's terser account just records the conscription. Crucifixion-sites were outside cities (Lev 24:14 background — execution outside the camp). Cyrene was home to a substantial Jewish community (Acts 6:9, 11:20)."
+    }
+  },
+  {
+    "reference": "Matthew 27:33",
+    "chapter": 27,
+    "verse": 33,
+    "greek": "Καὶ ἐλθόντες εἰς τόπον λεγόμενον Γολγοθᾶ,ὅ ἐστιν Κρανίου Τόπος λεγόμενος,",
+    "bsb_english": "And when they came to a place called Golgotha, which means The Place of the Skull,",
+    "translation": {
+      "thai": "เมื่อพวกเขามาถึงที่แห่งหนึ่งชื่อกลโกธา ซึ่งแปลว่าที่กะโหลกศีรษะ",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "Γολγοθᾶ", "thai": "กลโกธา", "rationale": "Per glossary: Γολγοθᾶ → กลโกธา (established standard Thai Christian transliteration; Aramaic גֻּלְגָּלְתָּא 'skull'). Per uW translate-transliterate: Matthew transliterates the Aramaic, then explains. We do the same in Thai"},
+        {"greek": "Κρανίου Τόπος", "thai": "ที่กะโหลกศีรษะ", "rationale": "κρανίον = skull. The Greek translation Matthew supplies. Thai กะโหลกศีรษะ is standard. The site was likely so named for skull-shaped rocky outcropping; Latin tradition Calvaria → English 'Calvary'"}
+      ],
+      "notes": "Γολγοθᾶ (Golgotha) is the Aramaic place-name; the Greek Κρανίου Τόπος ('Place of the Skull') translates it; Latin Vulgate's Calvaria gives us 'Calvary.' The location is uncertain — traditional site is the Holy Sepulchre Church (under modern Jerusalem); 19th-century 'Gordon's Calvary' identifies a different rocky outcrop. The name likely derives from skull-shaped rock formations or the site's reputation as an execution-place. NOT Adam's burial (medieval legend) — but ancient Christian tradition links the skull-name to redemption-typology."
+    }
+  },
+  {
+    "reference": "Matthew 27:34",
+    "chapter": 27,
+    "verse": 34,
+    "greek": "ἔδωκαν αὐτῷ πιεῖν οἶνον μετὰ χολῆς μεμιγμένον·καὶ γευσάμενος οὐκ ἠθέλησεν πιεῖν.",
+    "bsb_english": "they offered Him wine to drink, mixed with gall; but after tasting it, He refused to drink it.",
+    "translation": {
+      "thai": "พวกเขาให้พระองค์ดื่มเหล้าองุ่นผสมน้ำดี และเมื่อพระองค์ทรงชิมแล้วก็ไม่ทรงประสงค์จะดื่ม",
+      "thai_literal": null,
+      "thai_summary": "OT ECHO: ภาพ «เหล้าองุ่นผสมน้ำดี» สะท้อนสดุดี 69:21 — «เขาให้น้ำดีเป็นอาหารของข้าพระองค์ และเมื่อข้าพระองค์กระหายเขาให้ข้าพระองค์ดื่มน้ำส้มสายชู» พระเยซูทรงปฏิเสธเครื่องดื่มที่อาจช่วยบรรเทาความเจ็บปวด เลือกที่จะรับทุกข์ทรมานอย่างมีสติเต็มที่",
+      "key_decisions": [
+        {"greek": "οἶνον μετὰ χολῆς μεμιγμένον", "thai": "เหล้าองุ่นผสมน้ำดี", "rationale": "οἶνος = wine. χολή = gall/bitter-substance (HAPAX-rare; per uW figs-extrainfo: ambiguous between pain-killer and bitter-tormenting drink). Mark 15:23 has 'myrrhed wine' (analgesic). Matthew's χολή echoes LXX Ps 69:21 (καὶ ἔδωκαν εἰς τὸ βρῶμά μου χολήν 'they gave gall for my food'). Thai น้ำดี standard"},
+        {"greek": "γευσάμενος οὐκ ἠθέλησεν πιεῖν", "thai": "เมื่อพระองค์ทรงชิมแล้วก็ไม่ทรงประสงค์จะดื่ม", "rationale": "γεύομαι = taste; ทรงชิม royal-register. Jesus tastes (recognizes the bitter-mixture) but refuses — voluntary acceptance of full pain. Royal verb ทรงประสงค์"}
+      ],
+      "notes": "OT BACKGROUND CITATION: Ps 69:21 LXX (καὶ ἔδωκαν εἰς τὸ βρῶμά μου χολήν, καὶ εἰς τὴν δίψαν μου ἐπότισάν με ὄξος — 'and they gave me gall for my food, and for my thirst they gave me vinegar to drink'). Matthew's χολή (vs Mark's σμυρνισμένον 'myrrhed') is a deliberate Greek-OT-citation alignment. The Ps-69 thread will return at v.48 (the vinegar/sour-wine offering). ADD TO NT_OT_CITATIONS — Matthew is intentionally aligning crucifixion-details with Ps 22 + Ps 69. Jesus refuses the drink — possibly to remain conscious for the redemptive work; possibly to fulfill his earlier vow not to drink wine until kingdom-come (Mat 26:29)."
+    }
+  },
+  {
+    "reference": "Matthew 27:35",
+    "chapter": 27,
+    "verse": 35,
+    "greek": "σταυρώσαντες δὲ αὐτὸν διεμερίσαντο τὰ ἱμάτια αὐτοῦ βάλλοντες κλῆρον,",
+    "bsb_english": "When they had crucified Him, they divided up His garments by casting lots.",
+    "translation": {
+      "thai": "เมื่อพวกเขาตรึงพระองค์ที่กางเขนแล้ว พวกเขาก็แบ่งฉลองพระองค์โดยจับฉลาก",
+      "thai_literal": null,
+      "thai_summary": "OT CITATION: การกระทำนี้สำเร็จตามสดุดี 22:18 — «พวกเขาแบ่งฉลองพระองค์ของข้าพระองค์ในหมู่พวกเขา และเอาเสื้อผ้าของข้าพระองค์ทั้งหลายมาจับฉลาก» พระกิตติคุณยอห์น 19:24 อ้างถึงสดุดี 22 อย่างชัดเจน ส่วนมัทธิวบันทึกการสำเร็จนั้นโดยไม่ระบุการอ้างอิง",
+      "key_decisions": [
+        {"greek": "σταυρώσαντες", "thai": "ตรึงพระองค์ที่กางเขน", "rationale": "Per glossary established in Mark: σταυρόω → ตรึง...ที่กางเขน. Royal-object พระองค์. Matthew's terse handling of the actual crucifixion (one participle) preserves the Markan understatement"},
+        {"greek": "διεμερίσαντο τὰ ἱμάτια αὐτοῦ", "thai": "แบ่งฉลองพระองค์", "rationale": "ἱμάτια = outer garments. ฉลองพระองค์ is the Thai royal-register word for clothing-of-royalty (cf. Mark 15:24 rendering). Soldiers' confiscation of executed-prisoners' clothing was standard Roman practice"},
+        {"greek": "βάλλοντες κλῆρον", "thai": "จับฉลาก", "rationale": "Per uW translate-unknown: κλῆρος = lot (cast-object). Thai จับฉลาก is the natural idiom. TEXTUAL VARIANT: SBLGNT ends here; later MSS add a fulfillment-quotation (Ps 22:18 verbatim). We follow SBLGNT — no addition"}
+      ],
+      "notes": "OT CITATION (ADD TO NT_OT_CITATIONS): Ps 22:18 LXX (διεμερίσαντο τὰ ἱμάτιά μου ἑαυτοῖς, καὶ ἐπὶ τὸν ἱματισμόν μου ἔβαλον κλῆρον). Matthew's wording is a near-verbatim alignment with the LXX. John 19:24 makes the citation explicit; Matthew records the fulfillment without adding a citation formula. TEXTUAL VARIANT: some later MSS expand v.35 with the explicit fulfillment-quotation; SBLGNT/NA28/BSB end with κλῆρον. We follow SBLGNT (shorter reading is original; the longer is a harmonization to John). Ps 22 is the controlling intertext for Matthew's crucifixion narrative — it surfaces also at vv.39, 43, 46."
+    }
+  },
+  {
+    "reference": "Matthew 27:36",
+    "chapter": 27,
+    "verse": 36,
+    "greek": "καὶ καθήμενοι ἐτήρουν αὐτὸν ἐκεῖ.",
+    "bsb_english": "And sitting down, they kept watch over Him there.",
+    "translation": {
+      "thai": "พวกเขานั่งเฝ้าพระองค์อยู่ที่นั่น",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "καθήμενοι ἐτήρουν", "thai": "นั่งเฝ้า", "rationale": "Periphrastic: sitting + guarding. Thai นั่งเฝ้า is the natural compound. Per uW figs-explicit: guarding to prevent rescue-attempt"}
+      ],
+      "notes": "Standard Roman crucifixion practice: a guard prevented family/friends from rescuing the condemned (which sometimes happened — survivors of crucifixion are attested in Josephus). The guards' presence sets up vv.54 (centurion's confession) and 27:62-66 (post-burial guard request)."
+    }
+  },
+  {
+    "reference": "Matthew 27:37",
+    "chapter": 27,
+    "verse": 37,
+    "greek": "καὶ ἐπέθηκαν ἐπάνω τῆς κεφαλῆς αὐτοῦ τὴν αἰτίαν αὐτοῦ γεγραμμένην·Οὗτός ἐστιν Ἰησοῦς ὁ βασιλεὺς τῶν Ἰουδαίων.",
+    "bsb_english": "Above His head they posted the written charge against Him: THIS IS JESUS, THE KING OF THE JEWS.",
+    "translation": {
+      "thai": "พวกเขาติดป้ายข้อหาของพระองค์ที่เขียนไว้เหนือพระเศียรว่า «นี่คือเยซู กษัตริย์ของชาวยิว»",
+      "thai_literal": null,
+      "thai_summary": "ป้ายข้อหา (ภาษาละติน titulus) เป็นธรรมเนียมโรมันที่ระบุความผิดของผู้ถูกประหาร «กษัตริย์ของชาวยิว» เป็นข้อหาทางการเมือง — การก่อกบฏต่ออำนาจซีซาร์ — แต่ในความเสียดสีนั้น ปีลาตได้ประกาศความจริงทางเทววิทยาว่าพระเยซูทรงเป็นกษัตริย์อย่างแท้จริง ยอห์น 19:20 บอกว่าป้ายเขียนไว้สามภาษา: ฮิบรู ละติน กรีก",
+      "key_decisions": [
+        {"greek": "τὴν αἰτίαν αὐτοῦ", "thai": "ป้ายข้อหาของพระองค์", "rationale": "Per uW figs-metonymy: αἰτία (charge/cause) here = the placard with the charge written. Thai ป้ายข้อหา makes the placard explicit"},
+        {"greek": "Οὗτός ἐστιν Ἰησοῦς ὁ βασιλεὺς τῶν Ἰουδαίων", "thai": "นี่คือเยซู กษัตริย์ของชาวยิว", "rationale": "Per uW figs-irony: Romans intended mockery; but the charge unwittingly proclaims truth. Thai เยซู (without honorific พระ-) preserves the inscription's mocking tone — the Romans wrote it to ridicule, not to honor"}
+      ],
+      "notes": "The titulus crucis was Roman procedure — placard above the cross stated the crime to deter others. John 19:19-22 records the trilingual Aramaic/Latin/Greek inscription and Pilate's refusal to amend it (preserving 'King of the Jews' over priests' objection). The wording varies slightly across the four Gospels (Mat: 'This is Jesus, King of the Jews'; Mark 15:26: 'King of the Jews'; Luke 23:38: 'This is the King of the Jews'; John 19:19: 'Jesus the Nazarene, King of the Jews'). Most likely the original was multilingual and longer; each evangelist abbreviates. Christological irony: the soldiers think they're documenting his crime; Matthew sees the doctrinal-truth printed for all to see."
+    }
+  },
+  {
+    "reference": "Matthew 27:38",
+    "chapter": 27,
+    "verse": 38,
+    "greek": "Τότε σταυροῦνται σὺν αὐτῷ δύο λῃσταί,εἷς ἐκ δεξιῶν καὶ εἷς ἐξ εὐωνύμων.",
+    "bsb_english": "Two robbers were crucified with Him, one on His right and the other on His left.",
+    "translation": {
+      "thai": "ครั้งนั้น มีโจรสองคนถูกตรึงที่กางเขนพร้อมกับพระองค์ คนหนึ่งอยู่ข้างขวาและคนหนึ่งอยู่ข้างซ้าย",
+      "thai_literal": null,
+      "thai_summary": "OT ECHO: อิสยาห์ 53:12 — «เขาถูกนับเข้ากับคนล่วงละเมิด» — ผู้รับใช้ที่ทุกข์ทรมานถูกจัดอยู่ในกลุ่มอาชญากร พระเยซูทรงสิ้นพระชนม์ในฐานะคนชอบธรรมในหมู่คนชั่ว สถานที่กลางสะท้อนตำแหน่งของผู้ทรงเป็นใหญ่ — แต่เป็นการครองราชย์ผ่านการตรึง",
+      "key_decisions": [
+        {"greek": "σταυροῦνται", "thai": "ถูกตรึงที่กางเขน", "rationale": "Per uW figs-pastforfuture + figs-activepassive: historic-present passive. Render Thai-past + passive-with-neutral-agent"},
+        {"greek": "δύο λῃσταί", "thai": "โจรสองคน", "rationale": "λῃστής = robber/brigand (often political-bandit, not petty-thief). โจร is standard. Same word used of Barabbas-types. Possibly insurrectionist-companions of Barabbas"},
+        {"greek": "εἷς ἐκ δεξιῶν καὶ εἷς ἐξ εὐωνύμων", "thai": "คนหนึ่งอยู่ข้างขวาและคนหนึ่งอยู่ข้างซ้าย", "rationale": "Per uW figs-nominaladj: 'right' and 'left' as nouns. The placement irony — these positions were requested by James/John in Mat 20:21 ('grant us to sit at your right and left in your kingdom'); now they are occupied by criminals. Royal positions filled by mockery"}
+      ],
+      "notes": "OT BACKGROUND: Isa 53:12 (καὶ ἐν τοῖς ἀνόμοις ἐλογίσθη — 'he was numbered with the lawless'). The two-robbers detail is one of the strongest Isa-53 fulfillments in the passion narrative. λῃστής often denotes insurrectionist-bandits in Josephus — these may be co-conspirators of Barabbas (who was σύν τοῖς στασιασταῖς δεδεμένος in Mark 15:7). Matthean irony: the right/left positions James and John requested for kingdom-glory (20:21) are now occupied by criminals — true kingship-glory is shaped like crucifixion-companionship. ADD TO NT_OT_CITATIONS as background_allusion (Isa 53:12)."
+    }
+  },
+  {
+    "reference": "Matthew 27:39",
+    "chapter": 27,
+    "verse": 39,
+    "greek": "οἱ δὲ παραπορευόμενοι ἐβλασφήμουν αὐτὸν κινοῦντες τὰς κεφαλὰς αὐτῶν",
+    "bsb_english": "And those who passed by heaped abuse on Him, shaking their heads",
+    "translation": {
+      "thai": "ส่วนคนที่ผ่านไปมาก็พากันด่าว่าพระองค์ และส่ายศีรษะของพวกเขา",
+      "thai_literal": null,
+      "thai_summary": "OT CITATION: «ส่ายศีรษะ» เป็นภาพจากสดุดี 22:7 — «บรรดาผู้ที่เห็นข้าพระองค์เยาะเย้ยข้าพระองค์ พวกเขาแยกริมฝีปากและส่ายศีรษะของพวกเขา» — สดุดี 22 ทั้งบทนี้เป็นบทพยากรณ์การตรึงกางเขนที่มัทธิวอ้างอิงตลอดบทที่ 27",
+      "key_decisions": [
+        {"greek": "ἐβλασφήμουν", "thai": "พากันด่าว่า", "rationale": "Imperfect of βλασφημέω = revile/blaspheme. The continuous-imperfect captures sustained mockery. Thai พากันด่า + imperfective sense"},
+        {"greek": "κινοῦντες τὰς κεφαλὰς", "thai": "ส่ายศีรษะ", "rationale": "Per uW translate-symaction: head-wagging = scornful-disdain gesture. Thai ส่ายศีรษะ standard. CRITICAL: this exactly mirrors LXX Ps 22:7 (ἐκίνησαν κεφαλήν 'they wagged the head')"}
+      ],
+      "notes": "OT CITATION (ADD TO NT_OT_CITATIONS): Ps 22:7 LXX (πάντες οἱ θεωροῦντές με ἐξεμυκτήρισάν με, ἐλάλησαν ἐν χείλεσιν, ἐκίνησαν κεφαλήν). Matthew's κινοῦντες τὰς κεφαλὰς is verbatim from LXX. This confirms Ps 22 as Matthew's controlling intertext for the crucifixion. Head-wagging is a stock OT taunt-gesture (also Ps 109:25; Job 16:4; Lam 2:15). Matthew's reader who knows Ps 22 hears the rest of the psalm trembling beneath the surface — including v.18 (already fulfilled in v.35) and v.1 (about to be fulfilled in v.46)."
+    }
+  },
+  {
+    "reference": "Matthew 27:40",
+    "chapter": 27,
+    "verse": 40,
+    "greek": "καὶ λέγοντες·Ὁ καταλύων τὸν ναὸν καὶ ἐν τρισὶν ἡμέραις οἰκοδομῶν,σῶσον σεαυτόν·εἰ υἱὸς εἶ τοῦ θεοῦ,κατάβηθι ἀπὸ τοῦ σταυροῦ.",
+    "bsb_english": "and saying, “You who are going to destroy the temple and rebuild it in three days, save Yourself! If You are the Son of God, come down from the cross!”",
+    "translation": {
+      "thai": "และกล่าวว่า «เจ้าผู้จะทำลายพระวิหารและสร้างขึ้นในสามวัน จงช่วยตัวเองให้รอด ถ้าเจ้าเป็นพระบุตรของพระเจ้า จงลงมาจากกางเขน»",
+      "thai_literal": null,
+      "thai_summary": "การล้อเลียนนี้อ้างถึงการกล่าวหาเท็จในการพิจารณาคดีของซันเฮดริน (มธ 26:61) แม้แต่ผู้ที่เดินผ่านยังคงพูดซ้ำคำฟ้องผิด ๆ การท้าทาย «ถ้าเจ้าเป็นพระบุตรของพระเจ้า» สะท้อนคำท้าทายของซาตานในมธ 4:3, 6 — ทั้งสามคำท้าทายเสนอทางออกที่หลีกเลี่ยงไม้กางเขน ซึ่งพระเยซูทรงปฏิเสธทุกครั้ง",
+      "key_decisions": [
+        {"greek": "Ὁ καταλύων τὸν ναὸν", "thai": "เจ้าผู้จะทำลายพระวิหาร", "rationale": "Refers back to false-witness charge at Mat 26:61. Thai เจ้า (you-disrespectful 2sg) — passers-by speak hostile register, no honorific"},
+        {"greek": "σῶσον σεαυτόν", "thai": "จงช่วยตัวเองให้รอด", "rationale": "Aorist imperative. Mocking call. Thai จงช่วยตัวเองให้รอด preserves the imperative-mockery. Passion-irony: he saves others by NOT saving himself"},
+        {"greek": "εἰ υἱὸς εἶ τοῦ θεοῦ", "thai": "ถ้าเจ้าเป็นพระบุตรของพระเจ้า", "rationale": "Per uW guidelines-sonofgodprinciples: important christological title preserved. Thai พระบุตรของพระเจ้า standard. The 'if' echoes Satan's wilderness temptations (4:3, 4:6 — εἰ υἱὸς εἶ τοῦ θεοῦ identical)"},
+        {"greek": "κατάβηθι ἀπὸ τοῦ σταυροῦ", "thai": "จงลงมาจากกางเขน", "rationale": "Per uW grammar-connect-condition-hypothetical: prove-divinity-by-coming-down. Aorist imperative. Thai จงลงมา preserves imperative force"}
+      ],
+      "notes": "Three-fold irony layer: (1) Verbal echo of Mat 26:61 (the false-witness temple-saying); the scoffers repeat the lie as if it were settled fact. (2) Verbal echo of Mat 4:3, 4:6 (Satan's wilderness temptations: εἰ υἱὸς εἶ τοῦ θεοῦ in identical form). The cross is Satan's final temptation: prove your sonship by self-rescue. (3) Theological irony: 'save yourself' would have undone the salvation-of-others. Matthew is constructing a parallel: in the wilderness Jesus refused to use divine power for self; on the cross he refuses again. The same temptation, the same refusal — completing the obedience. ADD TO NT_OT_CITATIONS link to Ps 22 thematic (the broader 'taunt for trust' pattern)."
+    }
+  },
+  {
+    "reference": "Matthew 27:41",
+    "chapter": 27,
+    "verse": 41,
+    "greek": "ὁμοίως καὶ οἱ ἀρχιερεῖς ἐμπαίζοντες μετὰ τῶν γραμματέων καὶ πρεσβυτέρων ἔλεγον·",
+    "bsb_english": "In the same way, the chief priests, scribes, and elders mocked Him, saying,",
+    "translation": {
+      "thai": "เช่นเดียวกัน บรรดาหัวหน้าปุโรหิตพร้อมด้วยพวกธรรมาจารย์และพวกผู้อาวุโสก็เยาะเย้ยพระองค์และกล่าวว่า",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "ὁμοίως", "thai": "เช่นเดียวกัน", "rationale": "Adverb linking back to passers-by mockery in v.39"},
+        {"greek": "οἱ ἀρχιερεῖς...τῶν γραμματέων καὶ πρεσβυτέρων", "thai": "บรรดาหัวหน้าปุโรหิต...พวกธรรมาจารย์และพวกผู้อาวุโส", "rationale": "Three-fold leadership group (Sanhedrin's principal members). γραμματεύς → ธรรมาจารย์ (RULES.md §4 standard). The official theological-religious authority joins the mob-mockery"}
+      ],
+      "notes": "The leadership descends to street-level mockery — clear marker that this is not formal judicial proceedings but vindictive scoffing. The three groups together compose the Sanhedrin (cf. 26:57, 26:59). Their participation in the mockery violates their own dignity as priests/scholars/elders — Matthew exposes the moral collapse of religious leadership."
+    }
+  },
+  {
+    "reference": "Matthew 27:42",
+    "chapter": 27,
+    "verse": 42,
+    "greek": "Ἄλλους ἔσωσεν,ἑαυτὸν οὐ δύναται σῶσαι·βασιλεὺς Ἰσραήλ ἐστιν,καταβάτω νῦν ἀπὸ τοῦ σταυροῦ καὶ πιστεύσομεν ἐπ’αὐτόν.",
+    "bsb_english": "“He saved others, but He cannot save Himself. He is the King of Israel! Let Him come down now from the cross, and we will believe in Him.",
+    "translation": {
+      "thai": "«เขาช่วยคนอื่นให้รอดได้ แต่ช่วยตัวเองไม่ได้ เขาเป็นกษัตริย์ของอิสราเอลนี่ ให้เขาลงมาจากกางเขนเดี๋ยวนี้ แล้วเราจะเชื่อในเขา",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "Ἄλλους ἔσωσεν", "thai": "เขาช่วยคนอื่นให้รอดได้", "rationale": "Per uW figs-explicit + figs-nominaladj: 'others' = those Jesus healed/exorcised. The leaders' grudging admission of his ministry-power. ช่วย...ให้รอด standard salvation-language. Hostile-register เขา (not พระองค์) from leaders' mocking lips"},
+        {"greek": "βασιλεὺς Ἰσραήλ ἐστιν", "thai": "เขาเป็นกษัตริย์ของอิสราเอลนี่", "rationale": "Per uW figs-irony + figs-hypo: hypothetical-sarcasm. Thai นี่ adds the sarcastic-tone particle ('this so-called king'). Ironic truth — he IS the King of Israel"},
+        {"greek": "καταβάτω", "thai": "ให้เขาลงมา", "rationale": "Per uW figs-imperative3p: third-person imperative = let-him-do. Thai ให้เขา + verb"},
+        {"greek": "πιστεύσομεν ἐπ’αὐτόν", "thai": "เราจะเชื่อในเขา", "rationale": "Conditional promise. πιστεύω + ἐπί = believe-on (commit-to). Thai เชื่อใน standard"}
+      ],
+      "notes": "DEEPEST IRONY of the chapter: 'He saved others; he cannot save himself.' The leaders state the redemptive-truth as accusation. Jesus indeed cannot save others AND save himself — substitutionary atonement requires that the savior not save himself. The fact that they offer to believe IF he comes down shows their unbelief is precisely calibrated against the cross — they will believe in a power-Messiah but not a suffering-Messiah. The cross is the boundary they will not cross. The promise is hollow even logically: had he come down, they would have called it a magic trick. The cross IS the proof — but only for those who already see by faith."
+    }
+  },
+  {
+    "reference": "Matthew 27:43",
+    "chapter": 27,
+    "verse": 43,
+    "greek": "πέποιθεν ἐπὶ τὸν θεόν,ῥυσάσθω νῦν εἰ θέλει αὐτόν·εἶπεν γὰρ ὅτι Θεοῦ εἰμι υἱός.",
+    "bsb_english": "He trusts in God. Let God deliver Him now if He wants Him. For He said, ‘I am the Son of God.’”",
+    "translation": {
+      "thai": "เขาวางใจในพระเจ้า ก็ให้พระเจ้าทรงช่วยเขาเดี๋ยวนี้ ถ้าพระองค์ทรงประสงค์เขา เพราะเขาได้กล่าวว่า ‹เราเป็นพระบุตรของพระเจ้า›»",
+      "thai_literal": null,
+      "thai_summary": "OT CITATION: คำเยาะเย้ยนี้อ้างถึงสดุดี 22:8 อย่างใกล้เคียง — «เขาฝากตัวไว้กับพระยาห์เวห์ ให้พระองค์ทรงช่วยกู้เขา ขอให้พระองค์ทรงช่วยเขาเพราะพระองค์ทรงพอพระทัยในเขา» — ผู้ที่ล้อเลียนพระเยซูกลับเป็นผู้พูดคำพยากรณ์โดยไม่รู้ตัว ซ้ำคำของผู้ทุกข์ทรมานในสดุดี 22 ทุกประการ",
+      "key_decisions": [
+        {"greek": "πέποιθεν ἐπὶ τὸν θεόν", "thai": "เขาวางใจในพระเจ้า", "rationale": "Perfect of πείθω = settled-trust. Verbatim from LXX Ps 22:9 (ἤλπισεν ἐπὶ κύριον — 'he hoped on the Lord'; Matthew's verb πέποιθεν matches Ps 21:9 LXX πέποιθεν ἐπὶ κύριον in Codex Sinaiticus). Thai วางใจ standard"},
+        {"greek": "ῥυσάσθω νῦν εἰ θέλει αὐτόν", "thai": "ก็ให้พระเจ้าทรงช่วยเขาเดี๋ยวนี้ ถ้าพระองค์ทรงประสงค์เขา", "rationale": "Per uW figs-imperative3p + figs-hypo: third-person imperative + hypothetical. Royal verbs ทรงช่วย, ทรงประสงค์ for divine subject (God) but hostile เขา for Jesus from leaders' mouths. The divine register selectively preserved: God = พระองค์, Jesus = เขา (from speakers' theological viewpoint)"},
+        {"greek": "Θεοῦ εἰμι υἱός", "thai": "เราเป็นพระบุตรของพระเจ้า", "rationale": "Per uW guidelines-sonofgodprinciples: Christ-title preserved. Thai พระบุตรของพระเจ้า standard"}
+      ],
+      "notes": "OT CITATION (ADD TO NT_OT_CITATIONS): Ps 22:8 LXX (ἤλπισεν ἐπὶ κύριον, ῥυσάσθω αὐτόν· σωσάτω αὐτόν, ὅτι θέλει αὐτόν — 'he hoped on the Lord, let him deliver him; let him save him, because he wants him'). Matthew's πέποιθεν adapts the LXX, but the verbal-shape is unmistakably Ps 22:8. The leaders are unwittingly speaking the words of the suffering psalm — completing Matthew's Ps 22 framework. They taunt Jesus with the very Scripture being fulfilled before their eyes. Their final accusation 'he said: I am the Son of God' is theological-truth they reject — and Matthew has just shown a Roman wife (v.19) acknowledging him as δίκαιος, anticipating the Roman centurion's confession (v.54)."
+    }
+  },
+  {
+    "reference": "Matthew 27:44",
+    "chapter": 27,
+    "verse": 44,
+    "greek": "τὸ δ’αὐτὸ καὶ οἱ λῃσταὶ οἱ συσταυρωθέντες σὺν αὐτῷ ὠνείδιζον αὐτόν.",
+    "bsb_english": "In the same way, even the robbers who were crucified with Him berated Him.",
+    "translation": {
+      "thai": "พวกโจรที่ถูกตรึงที่กางเขนพร้อมกับพระองค์ก็ด่าว่าพระองค์ในทำนองเดียวกัน",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "τὸ δ’αὐτὸ", "thai": "ในทำนองเดียวกัน", "rationale": "Per uW figs-explicit: same-kind-of-insults as the leaders. Thai ในทำนองเดียวกัน captures the parallel"},
+        {"greek": "συσταυρωθέντες", "thai": "ถูกตรึงที่กางเขนพร้อมกับ", "rationale": "Compound σύν-stauróō = co-crucified. Per uW figs-activepassive: implied agent is soldiers"},
+        {"greek": "ὠνείδιζον", "thai": "ด่าว่า", "rationale": "ὀνειδίζω = revile/reproach. Imperfect = sustained reproach"}
+      ],
+      "notes": "Matthew (and Mark 15:32) record both robbers reviling Jesus. Luke 23:39-43 distinguishes them — one of them eventually repents and is promised paradise. Standard harmonization: both initially reviled; one later turned. Matthew's terser account doesn't exclude the development; he's emphasizing total isolation — even fellow-condemned join the mockery. The motif of total abandonment (echoing Ps 22:1 to come at v.46) reaches its pre-cry climax here."
+    }
+  },
+  {
+    "reference": "Matthew 27:45",
+    "chapter": 27,
+    "verse": 45,
+    "greek": "Ἀπὸ δὲ ἕκτης ὥρας σκότος ἐγένετο ἐπὶ πᾶσαν τὴν γῆν ἕως ὥρας ἐνάτης.",
+    "bsb_english": "From the sixth hour until the ninth hour darkness came over all the land.",
+    "translation": {
+      "thai": "ตั้งแต่เวลาเที่ยงวันถึงบ่ายสามโมง ความมืดได้ปกคลุมทั่วแผ่นดิน",
+      "thai_literal": null,
+      "thai_summary": "ความมืดสามชั่วโมงเป็นปรากฏการณ์เหนือธรรมชาติ ไม่ใช่สุริยุปราคา (เพราะปัสกาเกิดในวันเพ็ญซึ่งสุริยุปราคาเกิดไม่ได้) ภาพนี้สะท้อนคำพยากรณ์ในอาโมส 8:9 — «เราจะให้ดวงอาทิตย์ตกในเวลาเที่ยงวัน และเราจะทำให้แผ่นดินมืดไปในวันที่สดใส» — เป็นสัญลักษณ์การพิพากษาของพระเจ้าและการถอนความสว่างของพระองค์ออกจากโลก",
+      "key_decisions": [
+        {"greek": "Ἀπὸ δὲ ἕκτης ὥρας...ἕως ὥρας ἐνάτης", "thai": "ตั้งแต่เวลาเที่ยงวันถึงบ่ายสามโมง", "rationale": "Per uW figs-explicit: Jewish reckoning 6th hour = noon, 9th hour = 3 PM. Thai modern-time-equivalents (เที่ยงวัน, บ่ายสามโมง) preserve clarity for Thai readers"},
+        {"greek": "σκότος ἐγένετο", "thai": "ความมืดได้ปกคลุม", "rationale": "Per uW figs-abstractnouns: 'darkness happened.' Thai ความมืดปกคลุม natural-idiom for cosmic-darkness"},
+        {"greek": "ἐπὶ πᾶσαν τὴν γῆν", "thai": "ทั่วแผ่นดิน", "rationale": "Per uW figs-explicit: ambiguous — local (Judea) or global. Thai ทั่วแผ่นดิน preserves the ambiguity (could be region or earth). I deliberately don't specify — uncertainty in the Greek should be uncertainty in Thai"}
+      ],
+      "notes": "OT BACKGROUND: Amos 8:9 LXX (καὶ δύσεται ὁ ἥλιος μεσημβρίας, καὶ συσκοτάσει ἐπὶ τῆς γῆς ἐν ἡμέρᾳ τὸ φῶς — 'the sun shall set at noon, and the light shall be darkened on the earth by day' — Day-of-the-LORD imagery). Also Joel 2:31, 3:15. The 3 hours of supernatural darkness cannot be a solar eclipse (Passover is at full moon; eclipses are impossible at full moon astronomically). Some patristic sources cite a 'Phlegon' (Olympiad chronicler) as recording an unusual darkness c. AD 33; this is debated. Theologically: cosmic-mourning + divine-judgment-imagery. The darkness frames Jesus's cry from forsakenness. ADD TO NT_OT_CITATIONS as background_allusion (Amos 8:9)."
+    }
+  },
+  {
+    "reference": "Matthew 27:46",
+    "chapter": 27,
+    "verse": 46,
+    "greek": "περὶ δὲ τὴν ἐνάτην ὥραν ἀνεβόησεν ὁ Ἰησοῦς φωνῇ μεγάλῃ λέγων·Ἠλὶ ἠλὶ λεμὰ σαβαχθάνι;τοῦτ’ἔστιν·Θεέ μου θεέ μου,ἱνατί με ἐγκατέλιπες;",
+    "bsb_english": "About the ninth hour Jesus cried out in a loud voice, “Eli, Eli, lema sabachthani?” which means, “My God, My God, why have You forsaken Me?”",
+    "translation": {
+      "thai": "ประมาณบ่ายสามโมง พระเยซูทรงร้องด้วยเสียงดังว่า «เอลี เอลี เลมา ซาบัคทานี» แปลว่า «พระเจ้าของข้าพระองค์ พระเจ้าของข้าพระองค์ ไฉนพระองค์ทรงทอดทิ้งข้าพระองค์»",
+      "thai_literal": null,
+      "thai_summary": "นี่คือคำอ้างอิงที่ชัดเจนที่สุดของพระเยซูจากสดุดี 22:1 — สดุดีที่เป็นกระดูกสันหลังของเรื่องเล่าการตรึงกางเขนของมัทธิว สดุดี 22 ไม่ได้สิ้นสุดในความสิ้นหวัง แต่เปลี่ยนเป็นการสรรเสริญในข้อ 22-31 ที่ประกาศความรอดถึงประชาชาติทั้งสิ้น พระเยซูทรงเรียกสดุดีทั้งบทขึ้นมาด้วยข้อแรก — ทั้งความทุกข์อันลึกซึ้งและชัยชนะอันมั่นคง คำพระคำนี้เป็นภาษาอาราเมอิก (พื้นเมืองที่พระเยซูทรงพูดในชีวิตประจำวัน)",
+      "key_decisions": [
+        {"greek": "ἀνεβόησεν...φωνῇ μεγάλῃ", "thai": "ทรงร้องด้วยเสียงดัง", "rationale": "HAPAX in NT (ἀναβοάω) + φωνῇ μεγάλῃ. Per uW figs-idiom: loud-voice = full-volume cry. Royal verb ทรง- preserves divine register"},
+        {"greek": "Ἠλὶ ἠλὶ λεμὰ σαβαχθάνι", "thai": "เอลี เอลี เลมา ซาบัคทานี", "rationale": "Per uW translate-transliterate: Aramaic words spelled in Greek letters. Thai transliterates the same way. Standard Thai Bible transliteration. Mark 15:34 has Ἐλωῒ Ἐλωῒ (more clearly Aramaic); Matthew's Ἠλί is closer to Hebrew Eli — explaining the Elijah-misidentification in v.47"},
+        {"greek": "Θεέ μου θεέ μου,ἱνατί με ἐγκατέλιπες", "thai": "พระเจ้าของข้าพระองค์ พระเจ้าของข้าพระองค์ ไฉนพระองค์ทรงทอดทิ้งข้าพระองค์", "rationale": "Verbatim Ps 22:1 LXX (ὁ θεὸς ὁ θεός μου, πρόσχες μοι· ἵνα τί ἐγκατέλιπές με). Royal-addressee พระองค์ for God; humble first-person ข้าพระองค์ for Jesus speaking to Father. ทรงทอดทิ้ง with divine-passive"}
+      ],
+      "notes": "MAJOR OT CITATION (ADD TO NT_OT_CITATIONS): Ps 22:1 — the climactic citation of Matthew's Ps 22 framework. Jesus quotes the opening line of the psalm in Aramaic — his native daily language. Ancient Jewish convention: citing the first line of a psalm invokes the WHOLE psalm, including its triumphant ending (Ps 22:22-31, the deliverance and worldwide-praise section). So the 'cry of dereliction' is also the cry of trust — Jesus is praying through the psalm that culminates in 'all the families of the nations shall worship before the LORD' (Ps 22:27). The cry expresses real abandonment-experience while also invoking the psalm's promised vindication. Matthew's Ἠλί (closer to Hebrew אֵלִי) explains the Elijah-confusion in v.47 (the Aramaic Eloi would not have been confused with Eliyahu)."
+    }
+  },
+  {
+    "reference": "Matthew 27:47",
+    "chapter": 27,
+    "verse": 47,
+    "greek": "τινὲς δὲ τῶν ἐκεῖ ἑστηκότων ἀκούσαντες ἔλεγον ὅτι Ἠλίαν φωνεῖ οὗτος.",
+    "bsb_english": "When some of those standing there heard this, they said, “He is calling Elijah.”",
+    "translation": {
+      "thai": "บางคนที่ยืนอยู่ที่นั่นเมื่อได้ยินก็กล่าวว่า «คนนี้ร้องเรียกเอลียาห์»",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "Ἠλίαν φωνεῖ", "thai": "ร้องเรียกเอลียาห์", "rationale": "Per uW figs-explicit: misunderstanding — they heard Eli (My God) as Eliyah (Elijah). Ἠλίας → เอลียาห์ standard glossary"}
+      ],
+      "notes": "Matthew's Ἠλί (Hebrew form, closer to Eliyahu) makes the Elijah-misunderstanding plausible; Mark's Ἐλωῒ (Aramaic) wouldn't be confused with the prophet's name. Some bystanders may have misheard genuinely; others may have mocked deliberately. Jewish tradition expected Elijah to return as Messianic forerunner (Mal 4:5; Mat 17:10-13) and as helper-of-the-righteous in distress. The misidentification adds another layer of Jesus's isolation — even his prayer to the Father is misunderstood by witnesses."
+    }
+  },
+  {
+    "reference": "Matthew 27:48",
+    "chapter": 27,
+    "verse": 48,
+    "greek": "καὶ εὐθέως δραμὼν εἷς ἐξ αὐτῶν καὶ λαβὼν σπόγγον πλήσας τε ὄξους καὶ περιθεὶς καλάμῳ ἐπότιζεν αὐτόν.",
+    "bsb_english": "One of them quickly ran and brought a sponge. He filled it with sour wine, put it on a reed, and held it up for Jesus to drink.",
+    "translation": {
+      "thai": "ทันใดนั้น คนหนึ่งในพวกเขาวิ่งไปเอาฟองน้ำมา จุ่มในเหล้าองุ่นเปรี้ยวจนชุ่ม แล้วใส่ปลายไม้อ้อยื่นให้พระองค์ดื่ม",
+      "thai_literal": null,
+      "thai_summary": "OT CITATION: การให้เหล้าองุ่นเปรี้ยวสำเร็จตามสดุดี 69:21 ที่กล่าวถึงในข้อ 34 แล้ว สดุดี 69 เช่นเดียวกับสดุดี 22 เป็นบทเพลงของผู้ชอบธรรมที่ถูกข่มเหง — ที่อ้างถึงบ่อยในพันธสัญญาใหม่เพื่อตีความความทุกข์ทรมานของพระคริสต์",
+      "key_decisions": [
+        {"greek": "σπόγγον", "thai": "ฟองน้ำ", "rationale": "Per uW translate-unknown: porous absorbent object. Standard Thai ฟองน้ำ"},
+        {"greek": "ὄξους", "thai": "เหล้าองุ่นเปรี้ยว", "rationale": "Per uW translate-unknown: ὄξος = sour wine / posca, the cheap wine of soldiers and laborers. Thai เหล้าองุ่นเปรี้ยว distinguishes from wine-mixed-with-gall (v.34) which Jesus refused; this is offered for thirst-relief. Verbatim from LXX Ps 69:22 (καὶ εἰς τὴν δίψαν μου ἐπότισάν με ὄξος)"},
+        {"greek": "περιθεὶς καλάμῳ", "thai": "ใส่ปลายไม้อ้อ", "rationale": "Per uW figs-explicit: sponge attached to reed-stick to lift to crucified-prisoner's mouth. Same word κάλαμος as the mock-scepter (v.29-30) — symbolic resonance"}
+      ],
+      "notes": "OT CITATION (ADD TO NT_OT_CITATIONS): Ps 69:21 LXX (καὶ ἔδωκαν εἰς τὸ βρῶμά μου χολήν, καὶ εἰς τὴν δίψαν μου ἐπότισάν με ὄξος). Matthew's chapter is intentionally weaving together Ps 22 (head-wagging, taunt-trust, dereliction) and Ps 69 (gall, vinegar, thirst). John 19:28-29 makes the Ps 69 citation explicit ('that the Scripture might be fulfilled, he said: I thirst'). Whether the offering was relief or further mockery is ambiguous (uW chapter intro discusses both options). The fact that ὄξος (cheap-wine) was the standard Roman-soldier drink (posca) supports the relief-reading; the mocking call to wait-for-Elijah in the next verse muddies the picture. Matthew preserves the ambiguity intentionally."
+    }
+  },
+  {
+    "reference": "Matthew 27:49",
+    "chapter": 27,
+    "verse": 49,
+    "greek": "οἱ δὲ λοιποὶ ἔλεγον·Ἄφες ἴδωμεν εἰ ἔρχεται Ἠλίας σώσων αὐτόν.",
+    "bsb_english": "But the others said, “Leave Him alone. Let us see if Elijah comes to save Him.”",
+    "translation": {
+      "thai": "แต่คนอื่น ๆ ที่เหลือกล่าวว่า «อย่าทำเลย ให้เราคอยดูว่าเอลียาห์จะมาช่วยเขาหรือไม่»",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "οἱ...λοιποὶ", "thai": "คนอื่น ๆ ที่เหลือ", "rationale": "Per uW figs-nominaladj: 'the rest' = remaining bystanders"},
+        {"greek": "Ἄφες", "thai": "อย่าทำเลย", "rationale": "Per uW figs-explicit: 'Leave [him]' = stop helping. Thai อย่าทำเลย is natural prohibition"},
+        {"greek": "ἔρχεται Ἠλίας σώσων αὐτόν", "thai": "เอลียาห์จะมาช่วยเขา", "rationale": "Future-purpose participle σώσων. Mocking-reuse of v.42 σῶσον σεαυτόν motif. Hostile register เขา"}
+      ],
+      "notes": "Continued mockery — the offered drink could be reframed as 'don't interfere; let's see if Elijah-rescue happens.' The persistence of the Elijah-misunderstanding from v.47 turns into sustained mockery. Jewish folk-belief about Elijah-as-rescuer-of-righteous (cf. b. Avodah Zarah 17b's Elijah-rescue stories) gives the taunt cultural weight. Matthew's textual situation here: some MSS add 'and another took a spear and pierced his side, and there came out water and blood' (a harmonization-borrowing from John 19:34); SBLGNT correctly omits."
+    }
+  },
+  {
+    "reference": "Matthew 27:50",
+    "chapter": 27,
+    "verse": 50,
+    "greek": "ὁ δὲ Ἰησοῦς πάλιν κράξας φωνῇ μεγάλῃ ἀφῆκεν τὸ πνεῦμα.",
+    "bsb_english": "When Jesus had cried out again in a loud voice, He yielded up His spirit.",
+    "translation": {
+      "thai": "พระเยซูทรงร้องด้วยเสียงดังอีกครั้งหนึ่ง แล้วทรงสละพระวิญญาณของพระองค์",
+      "thai_literal": null,
+      "thai_summary": "วลี «สละพระวิญญาณ» เป็นสำนวนที่บ่งถึงการสิ้นพระชนม์โดยพระเยซูทรงเลือก ไม่ใช่ถูกความตายเอาชนะ ตรงกับคำของพระองค์ในยอห์น 10:18 — «ไม่มีใครเอาชีวิตของเราไปจากเรา แต่เราสละชีวิตของเราเอง» แม้แต่ในชั่วโมงสุดท้าย พระเยซูทรงเป็นเจ้าของช่วงเวลาแห่งความตายของพระองค์",
+      "key_decisions": [
+        {"greek": "πάλιν κράξας φωνῇ μεγάλῃ", "thai": "ทรงร้องด้วยเสียงดังอีกครั้งหนึ่ง", "rationale": "Per uW figs-idiom: loud-voice cry. Same as v.46. The 'again' marks two distinct cries: dereliction-cry + final-cry. Luke 23:46 specifies the second cry as 'Father, into your hands I commit my spirit' (Ps 31:5)"},
+        {"greek": "ἀφῆκεν τὸ πνεῦμα", "thai": "ทรงสละพระวิญญาณของพระองค์", "rationale": "Per uW figs-euphemism: 'released the spirit' = died. Per uW option 2: voluntarily-yielding (rather than passive expiration). Royal verb ทรงสละ + royal-noun พระวิญญาณ. Thai สละ preserves the volitional sense, distinct from 'died' or 'breathed-his-last'"}
+      ],
+      "notes": "ἀφῆκεν τὸ πνεῦμα is unique among Synoptic crucifixion-deaths: Mark 15:37 ἐξέπνευσεν (passive 'expired'); Luke 23:46 ἐξέπνευσεν after a Ps 31:5 quotation; John 19:30 παρέδωκεν τὸ πνεῦμα ('handed over the spirit'). Matthew's ἀφίημι emphasizes voluntary release — Jesus is sovereign over his own death-moment (cf. John 10:18). The terse construction reinforces the active-yielding theology. Matthew narrates Jesus's death in seven Greek words; the cosmic events that follow occupy four verses."
+    }
+  },
+  {
+    "reference": "Matthew 27:51",
+    "chapter": 27,
+    "verse": 51,
+    "greek": "καὶ ἰδοὺ τὸ καταπέτασμα τοῦ ναοῦ ἐσχίσθη ἀπ’ἄνωθεν ἕως κάτω εἰς δύο,καὶ ἡ γῆ ἐσείσθη,καὶ αἱ πέτραι ἐσχίσθησαν,",
+    "bsb_english": "At that moment the veil of the temple was torn in two from top to bottom. The earth quaked, and the rocks were split.",
+    "translation": {
+      "thai": "ดูเถิด ม่านในพระวิหารฉีกขาดออกเป็นสองจากบนลงล่าง แผ่นดินไหว และศิลาแยกออก",
+      "thai_literal": null,
+      "thai_summary": "ม่านในพระวิหารแยกพระที่นั่งบริสุทธิ์ที่สุดที่มหาปุโรหิตเข้าได้ปีละครั้ง ออกจากพระวิหารส่วนที่เหลือ การฉีกขาด «จากบนลงล่าง» เป็นการกระทำของพระเจ้าเอง (ไม่ใช่มนุษย์) นักวิชาการตีความว่าเป็นภาพ: (1) ทางเข้าหาพระเจ้าเปิดสำหรับทุกคน (2) คำพิพากษาว่าพระวิหารกำลังจะถูกทำลาย (3) สัญลักษณ์ว่าระบบบูชาเก่าสำเร็จในพระคริสต์",
+      "key_decisions": [
+        {"greek": "ἰδοὺ", "thai": "ดูเถิด", "rationale": "Per uW figs-metaphor: 'Behold' attention-marker. Thai ดูเถิด standard"},
+        {"greek": "τὸ καταπέτασμα τοῦ ναοῦ", "thai": "ม่านในพระวิหาร", "rationale": "Per glossary established in Mark: καταπέτασμα → ม่านในพระวิหาร. ναός = inner-sanctuary (RULES.md §4: พระวิหาร). Per uW figs-explicit: ambiguous which curtain (inner-most-holy vs. outer); Thai preserves ambiguity"},
+        {"greek": "ἐσχίσθη ἀπ’ἄνωθεν ἕως κάτω εἰς δύο", "thai": "ฉีกขาดออกเป็นสองจากบนลงล่าง", "rationale": "Per uW figs-activepassive: divine-passive (God did it). The top-down direction signals supernatural agency (no human could tear top-to-bottom)"},
+        {"greek": "ἡ γῆ ἐσείσθη...αἱ πέτραι ἐσχίσθησαν", "thai": "แผ่นดินไหว...ศิลาแยกออก", "rationale": "Both passives = divine-action. Earthquake-and-rock-splitting are theophany-markers (cf. Exod 19; 1 Kgs 19; Ezek 38; Joel 3:16; Hag 2:6)"}
+      ],
+      "notes": "Three cosmic-signs: temple-curtain rent, earth quaked, rocks split. The καταπέτασμα is most likely the inner curtain dividing the Holy Place from the Holy of Holies (Heb 9:3 uses the same term for this curtain explicitly). Top-to-bottom direction = divine action (no human rips a 60-foot tall heavy curtain top-to-bottom). Theological interpretations: (1) immediate access to God (Heb 10:19-20 develops this); (2) judgment on the temple (which will be physically destroyed in AD 70); (3) covenantal transition. The earthquake + rock-splitting are theophany-language (Sinai in Exod 19:18; Elijah-cave in 1 Kgs 19:11) and Day-of-LORD imagery (Joel 3:16; Hag 2:6). Matthew uniquely among the Synoptics adds the earthquake + risen-saints (vv.52-53)."
+    }
+  },
+  {
+    "reference": "Matthew 27:52",
+    "chapter": 27,
+    "verse": 52,
+    "greek": "καὶ τὰ μνημεῖα ἀνεῴχθησαν καὶ πολλὰ σώματα τῶν κεκοιμημένων ἁγίων ἠγέρθησαν,",
+    "bsb_english": "The tombs broke open, and the bodies of many saints who had fallen asleep were raised.",
+    "translation": {
+      "thai": "อุโมงค์ฝังศพต่าง ๆ ก็เปิดออก และร่างของบรรดาธรรมิกชนหลายคนที่ล่วงหลับไปแล้วได้ฟื้นขึ้น",
+      "thai_literal": null,
+      "thai_summary": "เหตุการณ์นี้บันทึกเฉพาะในมัทธิวเท่านั้น เป็นภาพแห่งการเป็นขึ้นจากตายที่จะมาในยุคสุดท้าย — เหมือน «ผลแรก» ของการเป็นขึ้นทั่วไป (เทียบ 1 โครินธ์ 15:20-23) แสดงว่าการสิ้นพระชนม์ของพระคริสต์ได้ทำลายอำนาจของความตาย ไม่เพียงสำหรับผู้เชื่อในอนาคต แต่ยังย้อนกลับไปให้ธรรมิกชนในพันธสัญญาเดิมด้วย",
+      "key_decisions": [
+        {"greek": "τὰ μνημεῖα ἀνεῴχθησαν", "thai": "อุโมงค์ฝังศพต่าง ๆ ก็เปิดออก", "rationale": "μνημεῖον = tomb (RULES.md §4-implicit; glossary established as อุโมงค์/อนุสรณ์). Per uW figs-genericnoun: nearby tombs in general. อุโมงค์ฝังศพ Thai standard. Divine passive"},
+        {"greek": "πολλὰ σώματα τῶν κεκοιμημένων ἁγίων", "thai": "ร่างของบรรดาธรรมิกชนหลายคนที่ล่วงหลับไปแล้ว", "rationale": "Per uW figs-explicit: people-as-a-whole-raised (not just bodies). κεκοιμημένων per uW figs-euphemism: 'fallen asleep' = died. Thai ล่วงหลับ preserves the euphemism. ἅγιοι → ธรรมิกชน (saints, OT-righteous). Per uW: most likely OT righteous"},
+        {"greek": "ἠγέρθησαν", "thai": "ได้ฟื้นขึ้น", "rationale": "Per uW figs-idiom + figs-activepassive: divine passive resurrection-language. Thai ฟื้นขึ้น standard resurrection verb"}
+      ],
+      "notes": "UNIQUE TO MATTHEW. Among the most theologically dense and historically debated verses in the Gospels. Most likely: a typological-eschatological sign — Christ's death inaugurates the resurrection-age. Connections: (1) Ezek 37 (dry bones) — dead-saints rising as eschatological-Israel restoration; (2) Dan 12:2 (resurrection of many at end of days); (3) 1 Cor 15:20-23 (Christ as 'firstfruits of those who have fallen asleep'). The 'saints' (ἅγιοι, here only in Mat) are most likely OT-righteous (Job, Abraham-Isaac-Jacob, prophets). The vision-style narration (compressed signs) is consistent with Matthean apocalyptic-symbolism. Note the compressed timing: tombs open at Jesus's death, but per v.53 the dead don't enter Jerusalem until after his resurrection — Matthew constructs an arc spanning Friday-to-Sunday."
+    }
+  },
+  {
+    "reference": "Matthew 27:53",
+    "chapter": 27,
+    "verse": 53,
+    "greek": "καὶ ἐξελθόντες ἐκ τῶν μνημείων μετὰ τὴν ἔγερσιν αὐτοῦ εἰσῆλθον εἰς τὴν ἁγίαν πόλιν καὶ ἐνεφανίσθησαν πολλοῖς.",
+    "bsb_english": "After Jesus’ resurrection, when they had come out of the tombs, they entered the holy city and appeared to many people.",
+    "translation": {
+      "thai": "หลังจากที่พระองค์ทรงเป็นขึ้นมาแล้ว พวกเขาออกจากอุโมงค์ฝังศพและเข้าไปในนครบริสุทธิ์ และปรากฏแก่คนเป็นอันมาก",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "μετὰ τὴν ἔγερσιν αὐτοῦ", "thai": "หลังจากที่พระองค์ทรงเป็นขึ้นมาแล้ว", "rationale": "HAPAX in NT (ἔγερσις). Per uW figs-abstractnouns: render with verb-construction. Royal verb ทรงเป็นขึ้น. Critical timing-marker: tombs opened Friday, dead emerged after Sunday. Per uW figs-infostructure: μετὰ τὴν ἔγερσιν αὐτοῦ likely modifies εἰσῆλθον (entered after his resurrection)"},
+        {"greek": "τὴν ἁγίαν πόλιν", "thai": "นครบริสุทธิ์", "rationale": "= Jerusalem (cf. Mat 4:5). Thai นครบริสุทธิ์ standard biblical-Jerusalem epithet"},
+        {"greek": "ἐνεφανίσθησαν πολλοῖς", "thai": "ปรากฏแก่คนเป็นอันมาก", "rationale": "Per uW figs-nominaladj: 'many' = many people. ἐμφανίζω = appeared/manifested. Thai ปรากฏแก่ standard appearance-language"}
+      ],
+      "notes": "HAPAX: ἔγερσις ('resurrection,' only here in NT — the verb ἐγείρω is common, the noun is rare). The carefully-constructed timing (tombs open Friday at Jesus's death, dead emerge Sunday after his resurrection) preserves Christ's primacy as the 'firstfruits' (1 Cor 15:20-23) — even though the tombs opened at his death, the resurrected appearances follow his. This is one of the most enigmatic passages in the NT; conservative interpretations: (a) historical event of bodily resurrection of OT saints as eschatological sign; (b) symbolic apocalyptic vision; (c) Jewish midrashic embedding of Ezek 37 fulfillment. We render as Matthew narrates without forcing interpretation."
+    }
+  },
+  {
+    "reference": "Matthew 27:54",
+    "chapter": 27,
+    "verse": 54,
+    "greek": "Ὁ δὲ ἑκατόνταρχος καὶ οἱ μετ’αὐτοῦ τηροῦντες τὸν Ἰησοῦν ἰδόντες τὸν σεισμὸν καὶ τὰ γενόμενα ἐφοβήθησαν σφόδρα λέγοντες·Ἀληθῶς θεοῦ υἱὸς ἦν οὗτος.",
+    "bsb_english": "When the centurion and those with him who were guarding Jesus saw the earthquake and all that had happened, they were terrified and said, “Truly this was the Son of God.”",
+    "translation": {
+      "thai": "เมื่อนายร้อยและคนที่อยู่กับเขาที่เฝ้าพระเยซูเห็นแผ่นดินไหวและสิ่งต่าง ๆ ที่เกิดขึ้น พวกเขาก็กลัวยิ่งนักและกล่าวว่า «แท้จริงท่านผู้นี้เป็นพระบุตรของพระเจ้า»",
+      "thai_literal": null,
+      "thai_summary": "คำสารภาพของนายร้อยเป็นจุดสำคัญทางคริสตวิทยาในพระกิตติคุณมัทธิว — ทหารโรมันต่างชาติยอมรับสิ่งที่ผู้นำชาวยิวปฏิเสธ คำของเขาสร้างวงล้อมกับคำของภรรยาปีลาตในข้อ 19 (ทั้งคู่เป็นชาวต่างชาติที่เห็นความจริง) และเป็นการคาดถึงพระมหาบัญชาในมธ 28:19 ที่ข่าวประเสริฐจะไปถึงทุกชนชาติ",
+      "key_decisions": [
+        {"greek": "ἑκατόνταρχος", "thai": "นายร้อย", "rationale": "Per uW: Roman centurion (commander of ~80-100 soldiers). Standard Thai นายร้อย"},
+        {"greek": "ἰδόντες τὸν σεισμὸν καὶ τὰ γενόμενα", "thai": "เห็นแผ่นดินไหวและสิ่งต่าง ๆ ที่เกิดขึ้น", "rationale": "σεισμός picks up ἐσείσθη from v.51. The cosmic signs convict the centurion. Plural τὰ γενόμενα = all-the-happenings"},
+        {"greek": "ἐφοβήθησαν σφόδρα", "thai": "กลัวยิ่งนัก", "rationale": "Standard Thai for 'feared exceedingly' — fear-of-God / awe-response"},
+        {"greek": "Ἀληθῶς θεοῦ υἱὸς ἦν οὗτος", "thai": "แท้จริงท่านผู้นี้เป็นพระบุตรของพระเจ้า", "rationale": "Per uW guidelines-sonofgodprinciples: Christ-title preserved. Thai ท่านผู้นี้ — formal-respectful (the centurion is now confessing, no longer mocking). พระบุตรของพระเจ้า standard. ἦν past tense in Greek — 'was' — describing what was crucified"}
+      ],
+      "notes": "PIVOTAL VERSE — first Gentile confession of Christ in Matthew. Mark 15:39 has the centurion alone; Matthew adds 'those with him.' Brackets a Matthean inclusio: Pilate's wife (Gentile woman, v.19) and centurion + soldiers (Gentile men, v.54) — both confess what the religious leadership denies. Anticipates the Great Commission (28:19 — to all nations). The Greek θεοῦ υἱὸς is anarthrous; could be 'a son of God' in a pagan-Gentile sense or 'the Son of God' in fully Christian sense. The latter is theologically richer; Matthew likely intends both surface and depth. The centurion's confession matches the disciples' Caesarea-Philippi confession (16:16, 'You are the Christ, the Son of the living God'). Notable: the cosmic signs (earthquake, darkness) convict the Gentile witness while the religious leaders remain blind."
+    }
+  },
+  {
+    "reference": "Matthew 27:55",
+    "chapter": 27,
+    "verse": 55,
+    "greek": "Ἦσαν δὲ ἐκεῖ γυναῖκες πολλαὶ ἀπὸ μακρόθεν θεωροῦσαι,αἵτινες ἠκολούθησαν τῷ Ἰησοῦ ἀπὸ τῆς Γαλιλαίας διακονοῦσαι αὐτῷ·",
+    "bsb_english": "And many women were there, watching from a distance. They had followed Jesus from Galilee to minister to Him.",
+    "translation": {
+      "thai": "ที่นั่นมีหญิงหลายคนมองดูอยู่แต่ไกล พวกนางเป็นผู้ที่ติดตามพระเยซูมาจากแคว้นกาลิลีเพื่อปรนนิบัติพระองค์",
+      "thai_literal": null,
+      "thai_summary": "ในขณะที่เหล่าสาวกชายหลบหนีไป (มธ 26:56) สาวกหญิงเหล่านี้กลับยังคงอยู่จนถึงปลายทาง ความซื่อสัตย์ของพวกนางในเหตุการณ์การสิ้นพระชนม์ การฝัง และการเป็นขึ้นมาของพระเยซู ทำให้พวกนางเป็นพยานหลัก — เป็นคนแรกที่เห็นพระคริสต์ผู้ทรงเป็นขึ้นแล้ว (มธ 28:1-10)",
+      "key_decisions": [
+        {"greek": "γυναῖκες πολλαὶ", "thai": "หญิงหลายคน", "rationale": "Many women — plural disciples. Distinct from the named-three in v.56"},
+        {"greek": "ἀπὸ μακρόθεν θεωροῦσαι", "thai": "มองดูอยู่แต่ไกล", "rationale": "Per uW writing-background: background-info about the women's presence. มองดูอยู่แต่ไกล Thai-natural for 'watching from far away'"},
+        {"greek": "ἠκολούθησαν...διακονοῦσαι", "thai": "ติดตาม...เพื่อปรนนิบัติ", "rationale": "Per uW figs-idiom: 'followed' = were-disciples-of (option 1). διακονέω = serve/minister (the same verb used of Jesus's own service in 20:28). These women are full disciples by Matthew's vocabulary"}
+      ],
+      "notes": "Matthew highlights the women-disciples' presence in contrast to the male-disciples' flight (26:56). The verbs ἀκολουθέω ('follow') and διακονέω ('serve') are Matthew's discipleship-vocabulary — these women are real disciples, not peripheral attendants. Their presence at cross, burial, and resurrection makes them the only continuous-witness chain across all three events (28:1ff)."
+    }
+  },
+  {
+    "reference": "Matthew 27:56",
+    "chapter": 27,
+    "verse": 56,
+    "greek": "ἐν αἷς ἦν Μαρία ἡ Μαγδαληνὴ καὶ Μαρία ἡ τοῦ Ἰακώβου καὶ Ἰωσὴφ μήτηρ καὶ ἡ μήτηρ τῶν υἱῶν Ζεβεδαίου.",
+    "bsb_english": "Among them were Mary Magdalene, Mary the mother of James and Joseph, and the mother of Zebedee’s sons.",
+    "translation": {
+      "thai": "ในจำนวนนั้นมีมารีย์ชาวมักดาลา มารีย์มารดาของยากอบและโยเซฟ และมารดาของบุตรเศเบดี",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "Μαρία ἡ Μαγδαληνὴ", "thai": "มารีย์ชาวมักดาลา", "rationale": "Per glossary established in Mark: standard Thai Christian rendering. NOT the mother of Jesus, NOT Mary of Bethany"},
+        {"greek": "Μαρία ἡ τοῦ Ἰακώβου καὶ Ἰωσὴφ μήτηρ", "thai": "มารีย์มารดาของยากอบและโยเซฟ", "rationale": "Per uW translate-names: distinct from other Marys. James → ยากอบ; Joseph → โยเซฟ (different from Joseph of Arimathea, v.57)"},
+        {"greek": "ἡ μήτηρ τῶν υἱῶν Ζεβεδαίου", "thai": "มารดาของบุตรเศเบดี", "rationale": "Per uW figs-explicit: refers to mother of James-and-John (cf. 20:20). Ζεβεδαῖος → เศเบดี standard. Matthew's circumlocution preserves anonymity (Mark 15:40 names her Salome)"}
+      ],
+      "notes": "Three named women, distinct from each other and from Mary mother of Jesus. The 'mother of Zebedee's sons' = Salome per Mark 15:40, and possibly identifiable with Jesus's aunt per John 19:25. The Marys of the Gospels are notoriously difficult to disentangle: there are 6+ distinct Marys in the NT. Matthew identifies this Mary by her sons (a cultural-typical naming-convention for women without independent identifying-info). The fact that James & Joseph are mentioned (vs. Joseph alone or just James-the-Less) helps distinguish her."
+    }
+  },
+  {
+    "reference": "Matthew 27:57",
+    "chapter": 27,
+    "verse": 57,
+    "greek": "Ὀψίας δὲ γενομένης ἦλθεν ἄνθρωπος πλούσιος ἀπὸ Ἁριμαθαίας,τοὔνομα Ἰωσήφ,ὃς καὶ αὐτὸς ἐμαθητεύθη τῷ Ἰησοῦ·",
+    "bsb_english": "When it was evening, there came a rich man from Arimathea named Joseph, who himself was a disciple of Jesus.",
+    "translation": {
+      "thai": "เมื่อถึงเวลาเย็น มีชายมั่งมีคนหนึ่งจากเมืองอาริมาเธียชื่อโยเซฟมา เขาเองก็เป็นสาวกของพระเยซูด้วย",
+      "thai_literal": null,
+      "thai_summary": "OT ECHO: อิสยาห์ 53:9 — «และเขาทำหลุมศพของเขาในหมู่คนชั่ว แต่อยู่กับเศรษฐีในความตายของเขา» — มัทธิวเน้นว่าโยเซฟเป็น «ชายมั่งมี» (คำกรีก พลูสิออส) เพื่อแสดงให้เห็นว่าผู้รับใช้ที่ทุกข์ทรมานถูกฝังในหลุมของเศรษฐี ตามคำพยากรณ์",
+      "key_decisions": [
+        {"greek": "Ὀψίας...γενομένης", "thai": "เมื่อถึงเวลาเย็น", "rationale": "Same construction as 26:20. Refers to late afternoon Friday before sunset (Sabbath beginning); urgency to bury before Sabbath onset"},
+        {"greek": "ἄνθρωπος πλούσιος ἀπὸ Ἁριμαθαίας,τοὔνομα Ἰωσήφ", "thai": "ชายมั่งมีคนหนึ่งจากเมืองอาริมาเธียชื่อโยเซฟ", "rationale": "Per uW writing-participants: introducing new character. Ἁριμαθαία → อาริมาเธีย standard. πλούσιος = wealthy (Matthean detail; key to Isa 53:9 fulfillment)"},
+        {"greek": "ἐμαθητεύθη τῷ Ἰησοῦ", "thai": "เป็นสาวกของพระเยซู", "rationale": "Aorist passive of μαθητεύω = was-discipled. Mark 15:43 calls Joseph 'a respected member of the council'; John 19:38 'a secret disciple for fear of the Jews.' Matthew straightforwardly calls him a disciple"}
+      ],
+      "notes": "OT FULFILLMENT: Isa 53:9 ('he was with the rich in his death'). Matthew's emphasis on Joseph as πλούσιος (wealthy) — absent from Mark 15:43 — signals deliberate Isa-53 alignment. Joseph of Arimathea: a Sanhedrin member (Mark 15:43) who dissented from the verdict (Luke 23:51) and had become Jesus's disciple. Arimathea is identified with Ramathaim-zophim, Samuel's birthplace (1 Sam 1:1) — northwest of Jerusalem. ADD TO NT_OT_CITATIONS as background_allusion (Isa 53:9). Joseph's bold approach to Pilate (next verse) contrasts with the male disciples' hiding."
+    }
+  },
+  {
+    "reference": "Matthew 27:58",
+    "chapter": 27,
+    "verse": 58,
+    "greek": "οὗτος προσελθὼν τῷ Πιλάτῳ ᾐτήσατο τὸ σῶμα τοῦ Ἰησοῦ.τότε ὁ Πιλᾶτος ἐκέλευσεν ἀποδοθῆναι.",
+    "bsb_english": "He went to Pilate to ask for the body of Jesus, and Pilate ordered that it be given to him.",
+    "translation": {
+      "thai": "เขาไปหาปีลาตและขอพระศพของพระเยซู ปีลาตจึงสั่งให้มอบพระศพแก่เขา",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "ᾐτήσατο τὸ σῶμα τοῦ Ἰησοῦ", "thai": "ขอพระศพของพระเยซู", "rationale": "Per uW figs-explicit: implied for-burial. σῶμα of dead Christ → พระศพ (royal corpse, divine register preserved even in death). Matches Mat 26:12 register-shift"},
+        {"greek": "ἐκέλευσεν ἀποδοθῆναι", "thai": "สั่งให้มอบพระศพแก่เขา", "rationale": "Per uW figs-activepassive: implied agent = Pilate's soldiers. Crucified bodies normally were left as carrion or thrown in mass graves; Roman law allowed family to claim bodies in some cases"}
+      ],
+      "notes": "Joseph's request was bold — claiming the body of an executed insurrectionist could compromise his standing. Pilate's compliance probably reflects: (a) verification that Jesus was actually dead (Mark 15:44 details this), (b) Joseph's social standing as a Sanhedrin member made the request hard to refuse, (c) Roman flexibility on Jewish burial-customs (which mandated burial before sundown per Deut 21:23). The body is given (ἀποδοθῆναι) — language of legal restoration, as if returning what is due."
+    }
+  },
+  {
+    "reference": "Matthew 27:59",
+    "chapter": 27,
+    "verse": 59,
+    "greek": "καὶ λαβὼν τὸ σῶμα ὁ Ἰωσὴφ ἐνετύλιξεν αὐτὸ σινδόνι καθαρᾷ,",
+    "bsb_english": "So Joseph took the body, wrapped it in a clean linen cloth,",
+    "translation": {
+      "thai": "โยเซฟรับพระศพมาและห่อด้วยผ้าลินินที่สะอาด",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "ἐνετύλιξεν αὐτὸ σινδόνι καθαρᾷ", "thai": "ห่อด้วยผ้าลินินที่สะอาด", "rationale": "Per uW translate-unknown: σινδών = high-quality linen burial-cloth (consistent with glossary established in Mark 14:51-52, 15:46). Per uW translate-unknown: standard Jewish burial-custom. καθαρᾷ = ritually-clean, fitting for righteous-corpse"}
+      ],
+      "notes": "Standard Jewish burial: body washed, anointed with spices, wrapped in a clean linen shroud. Mark 15:46 has Joseph buying the linen; Matthew assumes the same. The 'clean' (καθαρᾷ) detail emphasizes ritual fitness — Joseph is treating Jesus's body with the dignity due a righteous person, not the dishonor of a criminal. The wealthy-disciple provides what he can: dignity in death."
+    }
+  },
+  {
+    "reference": "Matthew 27:60",
+    "chapter": 27,
+    "verse": 60,
+    "greek": "καὶ ἔθηκεν αὐτὸ ἐν τῷ καινῷ αὐτοῦ μνημείῳ ὃ ἐλατόμησεν ἐν τῇ πέτρᾳ,καὶ προσκυλίσας λίθον μέγαν τῇ θύρᾳ τοῦ μνημείου ἀπῆλθεν.",
+    "bsb_english": "and placed it in his own new tomb that he had cut into the rock. Then he rolled a great stone across the entrance to the tomb and went away.",
+    "translation": {
+      "thai": "และวางพระศพไว้ในอุโมงค์ฝังศพใหม่ของตน ซึ่งได้สกัดไว้ในศิลา แล้วกลิ้งหินก้อนใหญ่มาปิดประตูอุโมงค์ฝังศพ จากนั้นก็จากไป",
+      "thai_literal": null,
+      "thai_summary": "อุโมงค์ใหม่ของโยเซฟ — ที่ยังไม่เคยใช้ — เป็นรายละเอียดที่สำคัญ พระศพของพระคริสต์ไม่สัมผัสกับศพของผู้อื่น ป้องกันไม่ให้มีผู้สงสัยภายหลังว่าเป็นศพคนอื่นที่ฟื้นขึ้น หินก้อนใหญ่ก็เป็นรายละเอียดที่จะมีความสำคัญในเช้าวันอาทิตย์ของการเป็นขึ้นจากตาย (มธ 28:2)",
+      "key_decisions": [
+        {"greek": "καινῷ αὐτοῦ μνημείῳ", "thai": "อุโมงค์ฝังศพใหม่ของตน", "rationale": "Per uW figs-explicit: rich-man's burial chamber, freshly carved. καινός 'new' = unused. Critical detail for resurrection-apologetic: no possibility of confusing Jesus's body with another"},
+        {"greek": "ἐλατόμησεν ἐν τῇ πέτρᾳ", "thai": "ได้สกัดไว้ในศิลา", "rationale": "Per uW translate-unknown: rock-cut tomb chamber, typical for wealthy Jews of that era. λατομέω = quarry/cut-stone"},
+        {"greek": "προσκυλίσας λίθον μέγαν τῇ θύρᾳ", "thai": "กลิ้งหินก้อนใหญ่มาปิดประตู", "rationale": "Per uW figs-explicit: rolling-stone across the entrance. Setup for 28:2 (the angel-rolled-it-away on Easter)"}
+      ],
+      "notes": "Joseph's new, unused tomb is theologically loaded: (1) Anti-confusion apologetic — no other body in the same chamber, no possibility of misidentified resurrection-corpse; (2) Honor — wealthy-tombs were prestige burials; (3) Possibly fulfills Isa 53:9 (with-the-rich-in-his-death). The rolling-stone (λίθον μέγαν) sets up the dramatic discovery on Easter morning (28:2). Archaeological evidence: 1st-century Jerusalem tombs typically had a rolling-disk-stone in a sloped track, requiring multiple men to move."
+    }
+  },
+  {
+    "reference": "Matthew 27:61",
+    "chapter": 27,
+    "verse": 61,
+    "greek": "ἦν δὲ ἐκεῖ Μαριὰμ ἡ Μαγδαληνὴ καὶ ἡ ἄλλη Μαρία καθήμεναι ἀπέναντι τοῦ τάφου.",
+    "bsb_english": "Mary Magdalene and the other Mary were sitting there opposite the tomb.",
+    "translation": {
+      "thai": "ที่นั่นมีมารีย์ชาวมักดาลาและมารีย์อีกคนหนึ่งนั่งอยู่ตรงข้ามอุโมงค์ฝังศพ",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "Μαριὰμ ἡ Μαγδαληνὴ καὶ ἡ ἄλλη Μαρία", "thai": "มารีย์ชาวมักดาลาและมารีย์อีกคนหนึ่ง", "rationale": "Per uW figs-explicit: 'the other Mary' = Mary mother of James and Joseph (v.56). Note: Matthew uses Μαριάμ (Hebrew form) here vs. Μαρία (Greek form) in v.56 — interchangeable in usage"},
+        {"greek": "καθήμεναι ἀπέναντι τοῦ τάφου", "thai": "นั่งอยู่ตรงข้ามอุโมงค์ฝังศพ", "rationale": "Per uW figs-idiom: ἀπέναντι = directly-in-front-of. ตรงข้าม Thai standard. The women's vigil — sitting silent watch"}
+      ],
+      "notes": "The two Marys' continued presence — first at the cross (vv.55-56), now at the burial — sets up their first-witness role in 28:1. Their faithfulness in keeping vigil contrasts with the male-disciples' absence. Note τάφος (used here and v.66) vs. μνημεῖον (v.60); functionally equivalent terms for tomb."
+    }
+  },
+  {
+    "reference": "Matthew 27:62",
+    "chapter": 27,
+    "verse": 62,
+    "greek": "Τῇ δὲ ἐπαύριον,ἥτις ἐστὶν μετὰ τὴν παρασκευήν,συνήχθησαν οἱ ἀρχιερεῖς καὶ οἱ Φαρισαῖοι πρὸς Πιλᾶτον",
+    "bsb_english": "The next day, the one after Preparation Day, the chief priests and Pharisees assembled before Pilate.",
+    "translation": {
+      "thai": "ในวันรุ่งขึ้น ซึ่งเป็นวันต่อจากวันเตรียม บรรดาหัวหน้าปุโรหิตและพวกฟาริสีได้ชุมนุมกันต่อหน้าปีลาต",
+      "thai_literal": null,
+      "thai_summary": "วันเตรียม (παρασκευή) คือวันศุกร์ — เป็นวันที่ชาวยิวเตรียมการสำหรับวันสะบาโต (วันเสาร์) ที่ห้ามทำงาน ดังนั้น «วันรุ่งขึ้น» คือวันสะบาโต ซึ่งเป็นเรื่องน่าประหลาดที่ผู้นำศาสนาดำเนินกิจการอย่างเป็นทางการในวันที่ห้ามทำงาน — แสดงให้เห็นความเร่งด่วนและความกลัวของพวกเขา",
+      "key_decisions": [
+        {"greek": "Τῇ...ἐπαύριον,ἥτις ἐστὶν μετὰ τὴν παρασκευήν", "thai": "ในวันรุ่งขึ้น ซึ่งเป็นวันต่อจากวันเตรียม", "rationale": "Per uW figs-explicit: παρασκευή = Preparation-Day (Friday); 'next-day-after-Preparation' = Sabbath. Matthew's circumlocution avoids saying 'on the Sabbath' directly. Thai วันเตรียม preserves the Greek term"},
+        {"greek": "οἱ ἀρχιερεῖς καὶ οἱ Φαρισαῖοι", "thai": "บรรดาหัวหน้าปุโรหิตและพวกฟาริสี", "rationale": "Unusual pairing — usually 'chief priests and elders' (e.g., 26:3, 27:1). Pharisees enter the passion narrative for the first time here. Φαρισαῖοι → ฟาริสี standard"}
+      ],
+      "notes": "παρασκευή ('Preparation') = Friday in Jewish reckoning (preparation for Sabbath). 'Next day after Preparation' = Sabbath, although Matthew avoids saying so directly — perhaps because it would highlight the leaders' Sabbath-violation (gathering for legal-political action on the Sabbath). The unusual chief-priests + Pharisees pairing (vs. usual chief-priests + elders) — Pharisees enter the passion narrative explicitly here, joined to the chief priests. Pharisees were typically anti-Roman but here cooperate with Pilate. Their fear of disciple-tomb-raid drives unusual political alliance."
+    }
+  },
+  {
+    "reference": "Matthew 27:63",
+    "chapter": 27,
+    "verse": 63,
+    "greek": "λέγοντες·Κύριε,ἐμνήσθημεν ὅτι ἐκεῖνος ὁ πλάνος εἶπεν ἔτι ζῶν·Μετὰ τρεῖς ἡμέρας ἐγείρομαι·",
+    "bsb_english": "“Sir,” they said, “we remember that while He was alive that deceiver said, ‘After three days I will rise again.’",
+    "translation": {
+      "thai": "และกล่าวว่า «นายท่าน เราจำได้ว่าผู้ลวงโลกคนนั้นได้กล่าวขณะยังมีชีวิตอยู่ว่า ‹หลังจากสามวันเราจะเป็นขึ้นมา›",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "Κύριε", "thai": "นายท่าน", "rationale": "Per uW writing-politeness: κύριε here = polite address to governor (NOT divine 'Lord'). Thai นายท่าน captures the formal-political address. Not the divine pantheon-honorific คุณ-พระองค์"},
+        {"greek": "ἐκεῖνος ὁ πλάνος", "thai": "ผู้ลวงโลกคนนั้น", "rationale": "Per uW figs-explicit: 'that deceiver' = Jesus (whom they refuse to name). πλάνος = deceiver/imposter. Distancing language. Thai ผู้ลวงโลก preserves the contemptuous-distancing"},
+        {"greek": "Μετὰ τρεῖς ἡμέρας ἐγείρομαι", "thai": "หลังจากสามวันเราจะเป็นขึ้นมา", "rationale": "Per uW figs-quotesinquotes: quotation-within-quotation preserved. Per uW translate-tense: present ἐγείρομαι with future force; render Thai future จะเป็นขึ้นมา. The leaders correctly recall Jesus's resurrection-prediction (16:21, 17:23, 20:19)"}
+      ],
+      "notes": "Striking irony: the unbelieving leaders REMEMBER Jesus's resurrection-prediction more clearly than the believing disciples (cf. 16:21-22, 17:23, 20:19 — Jesus predicted resurrection three times; the disciples consistently misunderstood). The leaders take the prophecy seriously enough to safeguard against fraud. Their 'deceiver' epithet is rich with irony — they accuse the Truth of deceit. Calling Jesus 'that deceiver' in the third-person to a Roman governor is legal-prosecutorial-language."
+    }
+  },
+  {
+    "reference": "Matthew 27:64",
+    "chapter": 27,
+    "verse": 64,
+    "greek": "κέλευσον οὖν ἀσφαλισθῆναι τὸν τάφον ἕως τῆς τρίτης ἡμέρας,μήποτε ἐλθόντες οἱ μαθηταὶ αὐτοῦ κλέψωσιν αὐτὸν καὶ εἴπωσιν τῷ λαῷ·Ἠγέρθη ἀπὸ τῶν νεκρῶν,καὶ ἔσται ἡ ἐσχάτη πλάνη χείρων τῆς πρώτης.",
+    "bsb_english": "So give the order that the tomb be secured until the third day. Otherwise, His disciples may come and steal Him away and tell the people He has risen from the dead. And this last deception would be worse than the first.”",
+    "translation": {
+      "thai": "ขอท่านสั่งให้รักษาอุโมงค์ฝังศพไว้อย่างมั่นคงจนถึงวันที่สาม เกรงว่าเหล่าสาวกของเขาจะมาขโมยศพไปและบอกแก่ประชาชนว่า ‹เขาเป็นขึ้นจากความตายแล้ว› แล้วการลวงครั้งหลังนี้จะยิ่งร้ายแรงกว่าครั้งแรก»",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "κέλευσον", "thai": "ขอท่านสั่ง", "rationale": "Per uW figs-imperative: imperative as polite-request to governor. Thai ขอท่านสั่ง preserves the deferential-request register"},
+        {"greek": "ἕως τῆς τρίτης ἡμέρας", "thai": "จนถึงวันที่สาม", "rationale": "Per uW figs-idiom: through-the-third-day = today + Saturday + Sunday inclusive (Jewish reckoning)"},
+        {"greek": "ἐλθόντες οἱ μαθηταὶ αὐτοῦ κλέψωσιν αὐτὸν", "thai": "เหล่าสาวกของเขาจะมาขโมยศพไป", "rationale": "Per uW figs-explicit: come-to-the-tomb-and-steal. Thai ขโมยศพ explicit"},
+        {"greek": "Ἠγέρθη ἀπὸ τῶν νεκρῶν", "thai": "เขาเป็นขึ้นจากความตายแล้ว", "rationale": "Per uW figs-quotesinquotes: nested quote preserved. Resurrection-language with hostile register เขา (since this is leaders' representation of disciples' anticipated claim, but in Pilate's hearing — neutral context)"},
+        {"greek": "ἡ ἐσχάτη πλάνη χείρων τῆς πρώτης", "thai": "การลวงครั้งหลังนี้จะยิ่งร้ายแรงกว่าครั้งแรก", "rationale": "Per uW figs-explicit + figs-ellipsis: 'first deception' = Jesus's teaching (which leaders considered deceptive); 'last deception' = anticipated resurrection-claim. Thai preserves the comparative"}
+      ],
+      "notes": "The leaders' three-day calculation matches Jesus's prediction precisely. Their plot-against-the-tomb itself becomes evidence for Christian apologetics: if they thought disciple-theft was a real risk, the disciples were not in such collusion to make it actually happen — and if a sealed-and-guarded tomb still came up empty, the disciple-theft theory faces severe difficulty (cf. Mat 28:11-15 where the leaders bribe the guards to spread exactly the lie they feared). The 'first deception' (Jesus's teaching as πλάνη) shows their settled judgment — they killed him for being a deceiver, and now seek to prevent post-mortem deception."
+    }
+  },
+  {
+    "reference": "Matthew 27:65",
+    "chapter": 27,
+    "verse": 65,
+    "greek": "ἔφη αὐτοῖς ὁ Πιλᾶτος·Ἔχετε κουστωδίαν·ὑπάγετε ἀσφαλίσασθε ὡς οἴδατε.",
+    "bsb_english": "“You have a guard,” Pilate said. “Go, make the tomb as secure as you know how.”",
+    "translation": {
+      "thai": "ปีลาตกล่าวแก่พวกเขาว่า «พวกท่านมีกองทหารรักษาการณ์อยู่แล้ว ไปเถิด รักษาอุโมงค์ให้มั่นคงตามที่พวกท่านรู้จะทำ»",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "Ἔχετε κουστωδίαν", "thai": "พวกท่านมีกองทหารรักษาการณ์อยู่แล้ว", "rationale": "Per uW figs-declarative + grammar-collectivenouns: ambiguous between 'You-may-take-a-guard' (Pilate granting Roman guard) and 'You-already-have-a-guard' (referring to temple-guards). I follow option 1 (Roman guard granted) — supported by 28:11-14 where the guards report to chief priests but Pilate also has authority over them. Thai กองทหารรักษาการณ์ (military-guard-unit) reflects the Roman-soldier reading"},
+        {"greek": "κουστωδίαν", "thai": "กองทหารรักษาการณ์", "rationale": "Latin loanword (custodia). Per uW translate-unknown + grammar-collectivenouns: collective-singular for guard-unit"},
+        {"greek": "ὑπάγετε ἀσφαλίσασθε ὡς οἴδατε", "thai": "ไปเถิด รักษาอุโมงค์ให้มั่นคงตามที่พวกท่านรู้จะทำ", "rationale": "Per uW figs-yousingular + figs-explicit: plural-imperatives. Thai พวกท่าน plural. Pilate's washing-his-hands-of-tomb-security parallels his earlier hand-washing of trial-responsibility (v.24)"}
+      ],
+      "notes": "Pilate's brusque response ('Take the guard, do what you want') again parallels v.24 — he washes his hands of the tomb-affair as he washed his hands of the trial. The Latin loanword κουστωδία is part of Matthew's interest in Latin-tinged-vocabulary in the trial-and-burial section (πραιτώριον v.27, φραγελλώσας v.26, also). This signals the heavy Roman-administrative context. The grant of a guard sets up 28:11-15 (the bribed-soldiers' false report)."
+    }
+  },
+  {
+    "reference": "Matthew 27:66",
+    "chapter": 27,
+    "verse": 66,
+    "greek": "οἱ δὲ πορευθέντες ἠσφαλίσαντο τὸν τάφον σφραγίσαντες τὸν λίθον μετὰ τῆς κουστωδίας.",
+    "bsb_english": "So they went and secured the tomb by sealing the stone and posting the guard.",
+    "translation": {
+      "thai": "พวกเขาจึงไปและทำให้อุโมงค์ฝังศพมั่นคงโดยประทับตราที่หินและจัดกองทหารรักษาการณ์ไว้",
+      "thai_literal": null,
+      "thai_summary": "การประทับตราหินทำให้รู้ได้ทันทีว่ามีคนมาเปิดอุโมงค์หรือไม่ — ตราจะถูกทำลายเมื่อหินถูกเคลื่อน เป็นการป้องกันที่ทุกอย่างถูกจัดเตรียมอย่างรัดกุมที่สุด เพื่อรับประกันว่าจะไม่มีการขโมยศพได้ — ทำให้การเป็นขึ้นจากตายในเช้าวันอาทิตย์เป็นสิ่งที่อธิบายอย่างอื่นไม่ได้ พระกิตติคุณมัทธิวจบบทนี้ด้วยอุโมงค์ที่ถูกผนึกแน่น เพื่อให้ความตื่นเต้นในบทที่ 28 ยิ่งทรงพลัง",
+      "key_decisions": [
+        {"greek": "ἠσφαλίσαντο τὸν τάφον", "thai": "ทำให้อุโมงค์ฝังศพมั่นคง", "rationale": "ἀσφαλίζω = make-secure. Same verb-root from v.64-65, completing the security-theme. Thai ทำให้มั่นคง standard"},
+        {"greek": "σφραγίσαντες τὸν λίθον", "thai": "ประทับตราที่หิน", "rationale": "Per uW figs-explicit: seal placed on/across the stone — wax-impression with official symbol; broken-seal would prove tampering. Thai ประทับตรา standard"},
+        {"greek": "μετὰ τῆς κουστωδίας", "thai": "และจัดกองทหารรักษาการณ์ไว้", "rationale": "Per uW figs-explicit + grammar-collectivenouns: stationed the guard at the tomb. Thai จัด...ไว้ for stationing"}
+      ],
+      "notes": "Triple security: (1) Joseph's great-stone (v.60), (2) official seal on the stone, (3) Roman guard stationed. Matthew piles up the security to maximize the apologetic force of the empty tomb in 28:1-10. The chapter ends with a sealed, guarded tomb — Friday evening into Saturday — setting up the climactic dawn of 28:1. The reader who reads chapter 27 alone is left at maximum closure: stone rolled, body wrapped, tomb sealed, guards posted, women watching from a distance. Every human attempt to make death final has been employed. The narrative-tension of chapter 28 needs nothing more."
+    }
+  }
+]
