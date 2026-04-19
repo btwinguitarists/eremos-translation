@@ -10,8 +10,11 @@ The workflow is:
   3. This script diffs each back-translation against BSB and produces the
      comparison report.
 
-If no back-translations file exists, the script prints clear instructions
-for Claude to produce one and exits with a "pending" status.
+If no back-translations file exists, the script writes a prompt file and
+exits with a HARD FAILURE (exit 2). Missing BT is a ship-blocker — the
+in-chat step must be completed before the chapter ships. This was changed
+2026-04-19 after an audit found 14 chapters had silently shipped with
+only PROMPT.md placeholders (no actual back-translation done).
 
 Usage:
   python3 scripts/check_back_translation.py --book 1TI --chapter 3
@@ -86,9 +89,8 @@ def write_pending_instructions(slug: str, chapter: int, verses: list) -> None:
         lines.append("")
 
     prompt_path.write_text("\n".join(lines), encoding="utf-8")
-    print(f"⏭  No back-translations file found.")
-    print(f"   Claude should produce {BACK_TRANSLATIONS / f'{slug}_{chapter:02d}.json'}")
-    print(f"   See prompt at: {prompt_path}")
+    print(f"   Prompt written to: {prompt_path}")
+    print(f"   Expected output: {BACK_TRANSLATIONS / f'{slug}_{chapter:02d}.json'}")
 
 
 def process(slug: str, chapter: int, translation_file: Path, bt_file: Path, threshold: float) -> int:
@@ -206,7 +208,9 @@ def main():
         with open(translation_file, encoding="utf-8") as f:
             verses = json.load(f)
         write_pending_instructions(slug, args.chapter, verses)
-        return 0  # pending is not a failure — it's just "do the inline step"
+        print(f"✗ MISSING back-translation — ship blocked.")
+        print(f"  Claude must produce {bt_file} per the prompt above.")
+        return 2  # hard failure: missing BT is a ship-blocker (changed 2026-04-19)
 
     return process(slug, args.chapter, translation_file, bt_file, args.threshold)
 

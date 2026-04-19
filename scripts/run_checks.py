@@ -110,9 +110,12 @@ def main():
     code, _ = run([sys.executable, str(SCRIPTS / "check_parallel_passages.py")])
     record("Synoptic parallels", code, "parallel_passages.md")
 
-    # 5. Back-translation — in-chat mode by default (no API needed)
+    # 5. Back-translation — in-chat mode by default (no API needed).
     # The script reads output/back_translations/<slug>_<NN>.json if present,
-    # otherwise emits a prompt file for Claude to fill in.
+    # otherwise emits a prompt file AND exits non-zero (ship-blocker). Prior
+    # behavior treated missing BT as "pending == clean," which let 14
+    # chapters silently ship without back-translation through 2026-04-18.
+    # Hardened 2026-04-19; pass exit code through directly.
     if args.skip_back_translation:
         print("[5/6] Back-translation — skipped per flag")
         record("Back-translation", 0, "(skipped)", "skipped via --skip-back-translation")
@@ -121,12 +124,12 @@ def main():
         code, out = run([sys.executable, str(SCRIPTS / "check_back_translation.py"),
                         "--book", slug, "--chapter", str(args.chapter)])
         bt_file = ROOT / "output" / "back_translations" / f"{slug}_{args.chapter:02d}.json"
-        if not bt_file.exists():
-            record("Back-translation", 0,
-                   f"back_translations/{slug}_{args.chapter:02d}_PROMPT.md",
-                   "pending — Claude should produce back-translations per prompt")
-        else:
+        if bt_file.exists():
             record("Back-translation", code, f"back_translation_{slug}_{args.chapter:02d}.md")
+        else:
+            record("Back-translation", code,
+                   f"back_translations/{slug}_{args.chapter:02d}_PROMPT.md",
+                   "MISSING — Claude must back-translate per prompt before re-running")
 
     # 6. Summary-coverage check (informational only, non-blocking)
     # Surfaces verses that warrant a thai_summary but don't have one. Existing
