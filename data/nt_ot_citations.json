@@ -2,6 +2,33 @@
   "_note": "Major NT→OT citations and allusions with source identification. Curated. Expand as chapters are added. Format: { 'MRK 1:2': { 'type': 'citation'|'allusion', 'source': 'MAL 3:1', 'greek_matches': 'LXX'|'MT'|'paraphrase', 'notes': '...' }}",
   "_source": "NA28 marginal references + scholarly consensus (Beale & Carson NT Use of the OT, UBS GNT apparatus).",
   "citations": {
+    "1TI 2:13": {
+      "type": "allusion",
+      "source": "GEN 2:7, 21-22",
+      "greek_matches": "paraphrase",
+      "notes": "Adam formed first, then Eve — order-of-creation argument."
+    },
+    "1TI 2:14": {
+      "type": "allusion",
+      "source": "GEN 3:6, 13",
+      "greek_matches": "paraphrase",
+      "notes": "Eve deceived — the fall narrative."
+    },
+    "1TI 5:18": {
+      "type": "composite_citation",
+      "sources": [
+        "DEU 25:4",
+        "LUK 10:7"
+      ],
+      "greek_matches": "LXX-Deut25 + Luke-citation",
+      "notes": "'ox not muzzled while threshing' matches LXX. Second half ('worker deserves wages') cites Luke 10:7 as 'Scripture' — notable early NT-as-Scripture reference."
+    },
+    "1TI 6:7": {
+      "type": "allusion",
+      "source": "JOB 1:21",
+      "greek_matches": "paraphrase",
+      "notes": "'Brought nothing in, take nothing out' echoes Job."
+    },
     "MAT 1:1": {
       "type": "composite_allusion",
       "sources": [
@@ -1557,6 +1584,128 @@
       "greek_matches": "LXX-near-verbatim",
       "notes": "'Ὦ γενεὰ ἄπιστος καὶ διεστραμμένη' nearly verbatim echoes Deut 32:5 LXX (Song of Moses): γενεὰ σκολιὰ καὶ διεστραμμένη — 'a crooked and perverse generation.' Deut 32:20 LXX adds γενεὰ ἐξεστραμμένη ἐστίν υἱοί οἷς οὐκ ἔστιν πίστις ἐν αὐτοῖς — 'a perverse generation, sons in whom there is no faith.' Matthew's addition of 'διεστραμμένη' over Mark 9:19 sharpens the Deut 32 echo: Jesus positions himself as new-Moses rebuking wilderness-unfaithful-generation. The ἄπιστος adjective parallels Deut 32:20's οὐκ ... πίστις. Matthean new-Moses / new-Exodus typology — this generation of Israel is being judged as the wilderness generation was, with Jesus taking Moses's place."
     },
+    "MAT 18:5": {
+      "type": "thematic_allusion",
+      "sources": [
+        "PRO 19:17"
+      ],
+      "greek_matches": "thematic",
+      "notes": "Prov 19:17 LXX 'ὁ ἐλεῶν πτωχὸν δανίζει θεῷ' (one who shows mercy to the poor lends to God) — divine-identification-with-marginal. Jesus here claims that reception-of-little-ones-in-his-name = reception-of-him. Christological high-watermark: Jesus takes YHWH-position as the one-with-whom-the-marginal-are-identified. Pattern culminates in Matt 25:40 'whatever you did for one of the least of these my brothers, you did for me.'"
+    },
+    "MAT 18:10": {
+      "type": "thematic_allusion",
+      "sources": [
+        "EST 1:14",
+        "TOB 12:15"
+      ],
+      "greek_matches": "thematic+idiomatic",
+      "notes": "Royal-court idiom of 'seeing the face of the king' — Est 1:14 LXX 'οἱ βλέποντες τὸ πρόσωπον τοῦ βασιλέως' (seven princes of Persia with direct royal access); Tob 12:15 'I am Raphael, one of the seven holy angels who stand in the presence of God' (Second-Temple angelology). Jesus transfers this privileged-court-access imagery to guardian-angels of 'little ones,' establishing that the seemingly-insignificant have the highest-possible divine-court representation. Also background: Ps 91:11 angel-protection; Dan 10-12 nation-angels; 1 Enoch 40."
+    },
+    "MAT 18:13": {
+      "type": "thematic_background",
+      "sources": [
+        "ISA 62:5"
+      ],
+      "greek_matches": "thematic",
+      "notes": "Isa 62:5 LXX 'ὡς εὐφραίνεται νυμφίος ἐπὶ νύμφῃ, οὕτως εὐφρανθήσεται κύριος ἐπὶ σοί' (as the bridegroom rejoices over the bride, so shall your God rejoice over you) — divine-joy-over-restoration motif. Background only; Matthew does not cite or echo lexically, but the theological pattern of divine-exultant-joy-over-recovered-people parallels the shepherd-rejoicing-over-one-found-sheep."
+    },
+    "MAT 18:16": {
+      "type": "direct_citation",
+      "source": "DEU 19:15",
+      "greek_matches": "LXX near-verbatim",
+      "notes": "Direct citation of Deut 19:15b LXX 'ἐπὶ στόματος δύο μαρτύρων καὶ ἐπὶ στόματος τριῶν μαρτύρων στήσεται πᾶν ῥῆμα' — Matthew compresses LXX's double-mention to 'ἐπὶ στόματος δύο μαρτύρων ἢ τριῶν σταθῇ πᾶν ῥῆμα' while preserving key-lexemes στόματος/μαρτύρων/σταθῇ/πᾶν ῥῆμα verbatim. Deuteronomic witness-law (Deut 17:6, 19:15) applied to church-discipline. Also re-cited: 2 Cor 13:1, 1 Tim 5:19, Heb 10:28."
+    },
+    "MAT 18:20": {
+      "type": "thematic_background_with_inversion",
+      "sources": [
+        "PIRKEI_AVOT 3:2",
+        "PIRKEI_AVOT 3:6"
+      ],
+      "greek_matches": "thematic parallel",
+      "notes": "Jewish-rabbinic Shekhinah-tradition: Pirkei Avot 3:2 (attrib. R. Hananiah ben Teradion, c.135 AD) 'when two sit together and study Torah, the Shekhinah rests between them'; 3:6 'ten who sit together to study — Shekhinah among them.' Though the compilation is post-NT, the tradition likely reflects earlier oral-tradition. Jesus displaces the Shekhinah-slot by naming HIMSELF as the divine-presence-among-two-or-three — Christological claim to occupy YHWH's presence-function with his community. Matthean inclusio-frame: Matt 1:23 'Emmanuel / God-with-us' + Matt 28:20 'I am with you always' bracket the gospel; 18:20 is the keystone."
+    },
+    "MAT 18:22": {
+      "type": "thematic_allusion_with_inversion",
+      "sources": [
+        "GEN 4:24"
+      ],
+      "greek_matches": "LXX verbatim-phrase-with-semantic-inversion",
+      "notes": "Gen 4:24 LXX Lamech-song 'ἑβδομηκοντάκις ἑπτά' (77-fold-vengeance: 'If Cain is avenged sevenfold, truly Lamech 77-fold') — canonical text of escalating-human-vengeance in primeval-history. Jesus deliberately cites the same numeric-phrase to INVERT it: exponential-vengeance becomes exponential-forgiveness. CHRISTOLOGICAL: Jesus reverses the curse-of-Cain-line by establishing a counter-line of unlimited-mercy. Number 77 chosen specifically (not 70x7=490) to match Lamech's LXX-phrase precisely — Matthew expects audience to hear the echo."
+    },
+    "MAT 18:30": {
+      "type": "thematic_background",
+      "sources": [
+        "AMO 2:6",
+        "AMO 8:6",
+        "2KI 4:1"
+      ],
+      "greek_matches": "thematic",
+      "notes": "Amos 2:6 LXX 'they sell the righteous for silver, the needy for a pair of sandals' + Amos 8:6 similar + 2 Kgs 4:1 widow's-family-seized-for-debt — OT-prophetic background condemning creditor-cruelty. Matthew does not lexically cite but the MORAL-LOGIC of prophetic-denunciation of debt-imprisonment underlies the parable's moral-force."
+    },
+    "MAT 18:31": {
+      "type": "thematic_background",
+      "sources": [
+        "GEN 4:10",
+        "EXO 2:23"
+      ],
+      "greek_matches": "thematic",
+      "notes": "Gen 4:10 LXX 'φωνὴ αἵματος τοῦ ἀδελφοῦ σου βοᾷ πρός με ἐκ τῆς γῆς' (the voice of your brother's blood cries out to me from the ground) — Abel's blood-crying-out paradigm + Exod 2:23 LXX Israel's-groaning-ascending-to-God. Background for the mercy-refused is mercy-revealed-to-the-higher-authority principle — injustice does not stay hidden but reaches the Sovereign. The σύνδουλοι's report to the king models the way-the-oppressed's-cry reaches God."
+    },
+    "MAT 18:33": {
+      "type": "thematic_allusion",
+      "sources": [
+        "EXO 34:6",
+        "LEV 11:44-45"
+      ],
+      "greek_matches": "thematic",
+      "notes": "Exod 34:6 LXX core-theophany 'κύριος ὁ θεὸς οἰκτίρμων καὶ ἐλεήμων, μακρόθυμος καὶ πολυέλεος καὶ ἀληθινός' (the Lord, merciful and compassionate, long-suffering and abundant-in-mercy and true) + Lev 11:44-45 imitatio-Dei principle 'be holy as I am holy.' Jesus (through the parable-king) applies mercy-reciprocity: those who-received-mercy must-extend-mercy (cf. Matt 5:7 Beatitude; Luke 6:36 'be merciful as your Father is merciful'). The parable dramatizes Matt 6:14-15's Lord's-Prayer-appendix: 'if you forgive men their trespasses, your Father will also forgive you; but if you do not forgive men their trespasses, neither will your Father forgive your trespasses.'"
+    },
+    "MAT 19:4": {
+      "type": "citation",
+      "source": "GEN 1:27",
+      "greek_matches": "LXX verbatim",
+      "notes": "DIRECT citation of Gen 1:27 LXX 'ἄρσεν καὶ θῆλυ ἐποίησεν αὐτούς' — Jesus's creational-basis for marriage-indissolubility. Matthew preserves LXX wording verbatim. Jesus's rhetorical-strategy bypasses Deut-24 (Pharisees' proof-text) to ground marriage in Gen-1-2 creation-order. Paired with 19:5 GEN 2:24 as double-witness (cf. Deut 19:15 two-witnesses-standard)."
+    },
+    "MAT 19:5": {
+      "type": "citation",
+      "source": "GEN 2:24",
+      "greek_matches": "LXX near-verbatim",
+      "notes": "DIRECT citation of Gen 2:24 LXX 'ἕνεκεν τούτου καταλείψει ἄνθρωπος τὸν πατέρα αὐτοῦ καὶ τὴν μητέρα καὶ προσκολληθήσεται πρὸς τὴν γυναῖκα αὐτοῦ, καὶ ἔσονται οἱ δύο εἰς σάρκα μίαν.' Matthew has κολληθήσεται (simple) where LXX has προσκολληθήσεται (compound); otherwise verbatim. Jesus re-anchors Gen 2:24's 'for-this-reason' backward-referent to Gen 1:27 (v.4 citation) unifying the argument. The 'one flesh' metaphor covers bodily, emotional, social, and covenantal union — not narrowly-sexual. Also cited at 1 Cor 6:16, Eph 5:31."
+    },
+    "MAT 19:18": {
+      "type": "composite_citation",
+      "sources": [
+        "EXO 20:13",
+        "EXO 20:14",
+        "EXO 20:15",
+        "EXO 20:16",
+        "DEU 5:17",
+        "DEU 5:18",
+        "DEU 5:19",
+        "DEU 5:20"
+      ],
+      "greek_matches": "LXX verbatim (Decalogue 6-9)",
+      "notes": "DIRECT citation of Decalogue commandments 6-9 verbatim-LXX in Matthean-Exodus-order (murder, adultery, theft, false-witness). Exod 20:13-16 LXX = Deut 5:17-20 LXX (identical wording). Matthew presents the four second-tablet-neighbor-prohibitions. Mark 10:19 adds 'Do-not-defraud' (μὴ ἀποστερήσῃς) — not-from-Decalogue but from Deut 24:14 or Lev 19:13 re wages-of-hired-servant; Matthew omits this. Luke 18:20 follows Matthew-order."
+    },
+    "MAT 19:19": {
+      "type": "composite_citation",
+      "sources": [
+        "EXO 20:12",
+        "DEU 5:16",
+        "LEV 19:18"
+      ],
+      "greek_matches": "LXX verbatim (5th commandment) + LXX verbatim (love-neighbor)",
+      "notes": "DIRECT composite citation: (1) Exod 20:12 LXX / Deut 5:16 LXX 'Τίμα τὸν πατέρα καὶ τὴν μητέρα' — 5th commandment; Matthew drops the 'σου' (your) possessive. (2) Lev 19:18 LXX 'ἀγαπήσεις τὸν πλησίον σου ὡς σεαυτόν' — the love-neighbor commandment Jesus pairs with the Shema as the greatest-commandments at Matt 22:37-40. MATTHEAN-ONLY ADDITION: Mark 10:19 / Luke 18:20 list only the neighbor-harm-prohibitions (no 5th commandment, no Lev-19:18). Matthew UNIQUELY ADDS the love-your-neighbor here, pre-echoing 22:37-40 and setting up the v.21 sell-all-and-give-to-poor test as a direct-neighbor-love check. Lev 19:18 is also cited at Matt 5:43, 22:39, Mark 12:31, Luke 10:27, Rom 13:9, Gal 5:14, Jas 2:8."
+    },
+    "MAT 19:26": {
+      "type": "thematic_allusion",
+      "sources": [
+        "GEN 18:14",
+        "JOB 42:2"
+      ],
+      "greek_matches": "LXX thematic combination",
+      "notes": "Jesus's statement 'παρὰ θεῷ πάντα δυνατά' (with-God-all-things-possible) wed (1) Gen 18:14 LXX 'μὴ ἀδυνατεῖ παρὰ τῷ θεῷ ῥῆμα' (Is-anything-impossible-with-God? — said to Sarah about Isaac's conception) and (2) Job 42:2 LXX 'οἶδα ὅτι πάντα δύνασαι' (Job's confession 'I know that you can do all things'). Matthew's wording combines both: παρὰ-θεῷ-πάντα-δυνατά weds Gen 18's παρὰ-θεῷ with Job 42's πάντα-δυνατά. SOTERIOLOGICAL-PIVOT: Jesus declares salvation a divine-work not a human-achievement — a foundational grace-theology text."
+    },
     "MRK 1:2": {
       "type": "composite_citation",
       "sources": [
@@ -2263,109 +2412,6 @@
       "source": "PSA 110:1",
       "greek_matches": "LXX",
       "notes": "ἐκάθισεν ἐκ δεξιῶν τοῦ θεοῦ echoes Ps 109:1 LXX κάθου ἐκ δεξιῶν μου. Completes the Markan Ps-110 arc: 12:36 (Jesus's scribal-puzzle), 14:62 (Jesus's self-identification at trial), 16:19 (longer-ending composer's enthronement-narrative). The longer-ending composer provides the Christological-closure that Mark's primary body-text prepares but does not narrate. Part of the disputed longer-ending (vv.9-20); textual-status caveat applies but the OT-allusion is clear regardless."
-    },
-    "1TI 2:13": {
-      "type": "allusion",
-      "source": "GEN 2:7, 21-22",
-      "greek_matches": "paraphrase",
-      "notes": "Adam formed first, then Eve — order-of-creation argument."
-    },
-    "1TI 2:14": {
-      "type": "allusion",
-      "source": "GEN 3:6, 13",
-      "greek_matches": "paraphrase",
-      "notes": "Eve deceived — the fall narrative."
-    },
-    "1TI 5:18": {
-      "type": "composite_citation",
-      "sources": [
-        "DEU 25:4",
-        "LUK 10:7"
-      ],
-      "greek_matches": "LXX-Deut25 + Luke-citation",
-      "notes": "'ox not muzzled while threshing' matches LXX. Second half ('worker deserves wages') cites Luke 10:7 as 'Scripture' — notable early NT-as-Scripture reference."
-    },
-    "1TI 6:7": {
-      "type": "allusion",
-      "source": "JOB 1:21",
-      "greek_matches": "paraphrase",
-      "notes": "'Brought nothing in, take nothing out' echoes Job."
-    },
-    "MAT 18:5": {
-      "type": "thematic_allusion",
-      "sources": [
-        "PRO 19:17"
-      ],
-      "greek_matches": "thematic",
-      "notes": "Prov 19:17 LXX 'ὁ ἐλεῶν πτωχὸν δανίζει θεῷ' (one who shows mercy to the poor lends to God) — divine-identification-with-marginal. Jesus here claims that reception-of-little-ones-in-his-name = reception-of-him. Christological high-watermark: Jesus takes YHWH-position as the one-with-whom-the-marginal-are-identified. Pattern culminates in Matt 25:40 'whatever you did for one of the least of these my brothers, you did for me.'"
-    },
-    "MAT 18:10": {
-      "type": "thematic_allusion",
-      "sources": [
-        "EST 1:14",
-        "TOB 12:15"
-      ],
-      "greek_matches": "thematic+idiomatic",
-      "notes": "Royal-court idiom of 'seeing the face of the king' — Est 1:14 LXX 'οἱ βλέποντες τὸ πρόσωπον τοῦ βασιλέως' (seven princes of Persia with direct royal access); Tob 12:15 'I am Raphael, one of the seven holy angels who stand in the presence of God' (Second-Temple angelology). Jesus transfers this privileged-court-access imagery to guardian-angels of 'little ones,' establishing that the seemingly-insignificant have the highest-possible divine-court representation. Also background: Ps 91:11 angel-protection; Dan 10-12 nation-angels; 1 Enoch 40."
-    },
-    "MAT 18:16": {
-      "type": "direct_citation",
-      "source": "DEU 19:15",
-      "greek_matches": "LXX near-verbatim",
-      "notes": "Direct citation of Deut 19:15b LXX 'ἐπὶ στόματος δύο μαρτύρων καὶ ἐπὶ στόματος τριῶν μαρτύρων στήσεται πᾶν ῥῆμα' — Matthew compresses LXX's double-mention to 'ἐπὶ στόματος δύο μαρτύρων ἢ τριῶν σταθῇ πᾶν ῥῆμα' while preserving key-lexemes στόματος/μαρτύρων/σταθῇ/πᾶν ῥῆμα verbatim. Deuteronomic witness-law (Deut 17:6, 19:15) applied to church-discipline. Also re-cited: 2 Cor 13:1, 1 Tim 5:19, Heb 10:28."
-    },
-    "MAT 18:20": {
-      "type": "thematic_background_with_inversion",
-      "sources": [
-        "PIRKEI_AVOT 3:2",
-        "PIRKEI_AVOT 3:6"
-      ],
-      "greek_matches": "thematic parallel",
-      "notes": "Jewish-rabbinic Shekhinah-tradition: Pirkei Avot 3:2 (attrib. R. Hananiah ben Teradion, c.135 AD) 'when two sit together and study Torah, the Shekhinah rests between them'; 3:6 'ten who sit together to study — Shekhinah among them.' Though the compilation is post-NT, the tradition likely reflects earlier oral-tradition. Jesus displaces the Shekhinah-slot by naming HIMSELF as the divine-presence-among-two-or-three — Christological claim to occupy YHWH's presence-function with his community. Matthean inclusio-frame: Matt 1:23 'Emmanuel / God-with-us' + Matt 28:20 'I am with you always' bracket the gospel; 18:20 is the keystone."
-    },
-    "MAT 18:22": {
-      "type": "thematic_allusion_with_inversion",
-      "sources": [
-        "GEN 4:24"
-      ],
-      "greek_matches": "LXX verbatim-phrase-with-semantic-inversion",
-      "notes": "Gen 4:24 LXX Lamech-song 'ἑβδομηκοντάκις ἑπτά' (77-fold-vengeance: 'If Cain is avenged sevenfold, truly Lamech 77-fold') — canonical text of escalating-human-vengeance in primeval-history. Jesus deliberately cites the same numeric-phrase to INVERT it: exponential-vengeance becomes exponential-forgiveness. CHRISTOLOGICAL: Jesus reverses the curse-of-Cain-line by establishing a counter-line of unlimited-mercy. Number 77 chosen specifically (not 70x7=490) to match Lamech's LXX-phrase precisely — Matthew expects audience to hear the echo."
-    },
-    "MAT 18:33": {
-      "type": "thematic_allusion",
-      "sources": [
-        "EXO 34:6",
-        "LEV 11:44-45"
-      ],
-      "greek_matches": "thematic",
-      "notes": "Exod 34:6 LXX core-theophany 'κύριος ὁ θεὸς οἰκτίρμων καὶ ἐλεήμων, μακρόθυμος καὶ πολυέλεος καὶ ἀληθινός' (the Lord, merciful and compassionate, long-suffering and abundant-in-mercy and true) + Lev 11:44-45 imitatio-Dei principle 'be holy as I am holy.' Jesus (through the parable-king) applies mercy-reciprocity: those who-received-mercy must-extend-mercy (cf. Matt 5:7 Beatitude; Luke 6:36 'be merciful as your Father is merciful'). The parable dramatizes Matt 6:14-15's Lord's-Prayer-appendix: 'if you forgive men their trespasses, your Father will also forgive you; but if you do not forgive men their trespasses, neither will your Father forgive your trespasses.'"
-    },
-    "MAT 18:13": {
-      "type": "thematic_background",
-      "sources": [
-        "ISA 62:5"
-      ],
-      "greek_matches": "thematic",
-      "notes": "Isa 62:5 LXX 'ὡς εὐφραίνεται νυμφίος ἐπὶ νύμφῃ, οὕτως εὐφρανθήσεται κύριος ἐπὶ σοί' (as the bridegroom rejoices over the bride, so shall your God rejoice over you) — divine-joy-over-restoration motif. Background only; Matthew does not cite or echo lexically, but the theological pattern of divine-exultant-joy-over-recovered-people parallels the shepherd-rejoicing-over-one-found-sheep."
-    },
-    "MAT 18:30": {
-      "type": "thematic_background",
-      "sources": [
-        "AMO 2:6",
-        "AMO 8:6",
-        "2KI 4:1"
-      ],
-      "greek_matches": "thematic",
-      "notes": "Amos 2:6 LXX 'they sell the righteous for silver, the needy for a pair of sandals' + Amos 8:6 similar + 2 Kgs 4:1 widow's-family-seized-for-debt — OT-prophetic background condemning creditor-cruelty. Matthew does not lexically cite but the MORAL-LOGIC of prophetic-denunciation of debt-imprisonment underlies the parable's moral-force."
-    },
-    "MAT 18:31": {
-      "type": "thematic_background",
-      "sources": [
-        "GEN 4:10",
-        "EXO 2:23"
-      ],
-      "greek_matches": "thematic",
-      "notes": "Gen 4:10 LXX 'φωνὴ αἵματος τοῦ ἀδελφοῦ σου βοᾷ πρός με ἐκ τῆς γῆς' (the voice of your brother's blood cries out to me from the ground) — Abel's blood-crying-out paradigm + Exod 2:23 LXX Israel's-groaning-ascending-to-God. Background for the mercy-refused is mercy-revealed-to-the-higher-authority principle — injustice does not stay hidden but reaches the Sovereign. The σύνδουλοι's report to the king models the way-the-oppressed's-cry reaches God."
     }
   }
 }
