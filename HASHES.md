@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-04-19 13:44:07 UTC_
-_Total chapters: 42 · Total verses: 1597_
+_Generated: 2026-04-19 14:30:36 UTC_
+_Total chapters: 43 · Total verses: 1672_
 
 ## How to verify a chapter
 
@@ -53,14 +53,15 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/matthew_15.json` | 39 | `cbcc4ebbc1392ce2156f2e68c1c6351958f5f547b19ff34b936df4ad4688cff1` | `2532085` |
 | `output/translations/matthew_16.json` | 28 | `7cb35a5e14ae854897d832a861c5134e22dd35e725107436c4c0d0cc77a9ec6f` | `2532085` |
 | `output/translations/matthew_17.json` | 26 | `9c62ea9ba29092d199da4d6db2229cc4d0111893ac30afc637745e6de3797446` | `2532085` |
-| `output/translations/matthew_18.json` | 34 | `9100cac843d128578c23960220fa7bcdc77d502f746828e6db39fdddcedf5257` | `34543f9` |
+| `output/translations/matthew_18.json` | 34 | `e0d17b623f7665af9c9aeef75982e151db582941638e58c28ff98b3c87b379d6` | `24ae2c6` |
 | `output/translations/matthew_19.json` | 30 | `f0c03bad3de355dda0af8a05aa69996e2dfa950be183145239489070d4517e1a` | `f4be36f` |
 | `output/translations/matthew_20.json` | 34 | `336b72239b885a7a1232c4343e033622db327bb7c58cfc79af8f3fa0a374e308` | `6cb1c19` |
 | `output/translations/matthew_21.json` | 46 | `0bc45b91bf2bcd19c3d71a504495c3dd2eecccb8449b71549a80bb0120238593` | `2f362ab` |
 | `output/translations/matthew_22.json` | 46 | `d0497031ddaff929a6dc80f1b3b36ac85cb34ab6222edee55708f4fcffd82df5` | `9705a09` |
 | `output/translations/matthew_23.json` | 39 | `b2d98d271de033e995e8aed9202f75ca8bb1d2298170bd8502de0096f4c64bf1` | `d435b87` |
 | `output/translations/matthew_24.json` | 51 | `d035cc005cdb9b8359e9ace942b04af544c4854a7479f32f0ba578ac44cd67d5` | `4eb6502` |
-| `output/translations/matthew_25.json` | 46 | `42bea62f8d91f4561bc93cade1aae79de270300efe03f55ecf10cd0b4c34ccad` | `—` |
+| `output/translations/matthew_25.json` | 46 | `42bea62f8d91f4561bc93cade1aae79de270300efe03f55ecf10cd0b4c34ccad` | `ad34121` |
+| `output/translations/matthew_26.json` | 75 | `090f901cf43981dca228a89cd45b38551091d20523af5ffa6eb7ddaecd19fd55` | `—` |
 
 ---
 
