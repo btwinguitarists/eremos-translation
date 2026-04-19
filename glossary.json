@@ -672,10 +672,14 @@
           {
             "verse": "Matthew 4:4",
             "rationale": "Per uW writing-quotations + figs-activepassive: γέγραπται perfect passive = citation-introduction formula 'it stands written.' Established glossary: γέγραπται → เขียนไว้. Expanded here to 'มีคำเขียนไว้ว่า' (there are words written) — natural Thai connective for introducing Scripture quotation. Preserves passive-perfect force. This formula recurs at 4:7, 4:10 — consistent rendering across all three."
+          },
+          {
+            "verse": "Matthew 21:13",
+            "rationale": "γράφω perf-pass 3sg — scripture-citation-formula (Matthean signature, cf. Matt 4:4, 4:6, 4:7, 4:10, 11:10, 26:24, 26:31). Thai idiom มีคำเขียนไว้ว่า (standard Thai Christian convention)."
           }
         ]
       },
-      "occurrences_count": 1
+      "occurrences_count": 2
     },
     "Γαλιλαία τῶν ἐθνῶν": {
       "primary_thai": "แคว้นกาลิลีของชนต่างชาติ",
@@ -1387,6 +1391,18 @@
       },
       "occurrences_count": 1
     },
+    "Εἴπατε τῇ θυγατρὶ Σιών": {
+      "primary_thai": "จงบอกกับธิดาแห่งศิโยน",
+      "all_renderings": {
+        "จงบอกกับธิดาแห่งศิโยน": [
+          {
+            "verse": "Matthew 21:5",
+            "rationale": "Opens the composite-quote. Εἴπατε aor-act-impv-2pl \"say\" (to the heralds, addressing Jerusalem as daughter-of-Zion per uW figs-metaphor). θυγατρὶ Σιών = Hebrew בַּת־צִיּוֹן personification of Jerusalem's inhabitants (Isa 62:11 / Zech 9:9 parallel). Thai ธิดาแห่งศิโยน preserves poetic-image per RULES.md §1 (preserve Greek metaphor)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "Εἶπεν κύριος τῷ κυρίῳ μου": {
       "primary_thai": "‹องค์พระผู้เป็นเจ้าตรัสแก่องค์พระผู้เป็นเจ้าของข้าพเจ้า",
       "all_renderings": {
@@ -1431,9 +1447,15 @@
             "verse": "Mark 11:9",
             "rationale": "DIRECT OT CITATION of Ps 118:26 (LXX 117:26) — verbatim match. Per established Markan quotation convention (see nt_ot_citations.json, especially Mark 7:6, 8:18), OT citations are enclosed in guillemets ‹ › to mark the quoted-scripture layer. Εὐλογημένος perf.-pass. ptc. → Thai passive-benedictory 'ขอให้...ได้รับพระพร' (the divine-agent passive: God is the implicit blesser, per uW TN). κυρίου (anarthrous) = YHWH in LXX Ps 117:26 → องค์พระผู้เป็นเจ้า (RULES.md §4 standard for YHWH-bearing κύριος)."
           }
+        ],
+        "จงสรรเสริญผู้ที่เสด็จมาในพระนามขององค์พระผู้เป็นเจ้า": [
+          {
+            "verse": "Matthew 21:9",
+            "rationale": "DIRECT CITATION of Ps 118:26 LXX verbatim (ὁ ἐρχόμενος ἐν ὀνόματι κυρίου). εὐλογημένος perf-pass-ptcp \"blessed-is\"; per uW figs-activepassive could be translated as \"may God bless\" or \"God has blessed\". Thai จงสรรเสริญ (let-praise/may-he-be-praised) captures petitionary-acclamation. ἐν ὀνόματι κυρίου per uW figs-metonymy \"in the authority of the Lord\" — but Thai preserves the Hebrew-idiomatic ในพระนาม (in the name). κυρίου = YHWH in the original Hallel-context; Thai องค์พระผู้เป็นเจ้า (established LXX-YHWH-render per RULES.md §4)."
+          }
         ]
       },
-      "occurrences_count": 1
+      "occurrences_count": 2
     },
     "Ζάρα": {
       "primary_thai": "เศราห์",
@@ -1706,6 +1728,18 @@
           {
             "verse": "Mark 8:27",
             "rationale": "Per uW figs-possession: 'Caesarea of Philip' = the city built by Herod's son Philip (distinct from coastal Caesarea Maritima). Standard Thai Christian transliteration. Thai keeps as compound name without explanatory gloss."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Κακοὺς κακῶς ἀπολέσει αὐτούς": {
+      "primary_thai": "จะทำลายคนชั่วเหล่านั้นอย่างยับเยิน",
+      "all_renderings": {
+        "จะทำลายคนชั่วเหล่านั้นอย่างยับเยิน": [
+          {
+            "verse": "Matthew 21:41",
+            "rationale": "Paronomasia: κακοὺς κακῶς \"badly-bad-men\" (adj + adv), Greek-wordplay expressing emphatic-destruction. ἀπόλλυμι fut-act 3sg \"will-destroy/ruin\". Thai ทำลาย...อย่างยับเยิน preserves intensity via อย่างยับเยิน (ruinously) modifying ทำลาย (destroy). คนชั่ว (bad-people) for κακούς."
           }
         ]
       },
@@ -2177,6 +2211,18 @@
       },
       "occurrences_count": 1
     },
+    "Λίθον ὃν ἀπεδοκίμασαν οἱ οἰκοδομοῦντες": {
+      "primary_thai": "ศิลาที่พวกช่างก่อสร้างได้ทอดทิ้งแล้ว",
+      "all_renderings": {
+        "ศิลาที่พวกช่างก่อสร้างได้ทอดทิ้งแล้ว": [
+          {
+            "verse": "Matthew 21:42",
+            "rationale": "DIRECT CITATION Ps 118:22 LXX verbatim. Per uW figs-metaphor, preserve the stone-metaphor. λίθος here in metaphorical/royal-context → ศิลา (not หิน — ศิลา has formal/monumental nuance matching temple-building). ἀποδοκιμάζω (9x) aor-act 3pl \"tested-and-rejected\" — thorough-professional-rejection. Thai ทอดทิ้ง (rejected/cast-aside). οἱ οἰκοδομοῦντες pres-act-ptcp substantival \"the-builders\" → พวกช่างก่อสร้าง (professional builders). Metaphorical-referent = chief priests + religious-leaders."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "Λίθον ὃν ἀπεδοκίμασαν οἱ οἰκοδομοῦντες, οὗτος ἐγενήθη εἰς κεφαλὴν γωνίας": {
       "primary_thai": "‹ศิลาซึ่งช่างก่อสร้างทั้งหลายทิ้งเสียแล้วนั้น กลับกลายเป็นศิลามุมเอก",
       "all_renderings": {
@@ -2469,6 +2515,18 @@
       },
       "occurrences_count": 1
     },
+    "Μηκέτι ἐκ σοῦ καρπὸς γένηται εἰς τὸν αἰῶνα": {
+      "primary_thai": "เจ้าจะไม่เกิดผลอีกตลอดไป",
+      "all_renderings": {
+        "เจ้าจะไม่เกิดผลอีกตลอดไป": [
+          {
+            "verse": "Matthew 21:19",
+            "rationale": "Per uW figs-yousingular, σοῦ sg addressing the tree. Jesus-to-tree uses เจ้า (sg, non-human-address — tree is object, not honored). μηκέτι + subjunctive-prohibition. εἰς τὸν αἰῶνα (per uW figs-idiom) = forever. Thai ตลอดไป idiomatic."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "Μωρέ": {
       "primary_thai": "‹เจ้าคนโง่›",
       "all_renderings": {
@@ -2685,6 +2743,18 @@
       },
       "occurrences_count": 1
     },
+    "Ναί": {
+      "primary_thai": "ใช่",
+      "all_renderings": {
+        "ใช่": [
+          {
+            "verse": "Matthew 21:16",
+            "rationale": "Per uW figs-explicit, the \"yes\" implies affirmation-of-rightness of children's acclamation — not merely acknowledging he-hears-them. Thai ใช่ straightforward affirmation."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "Ναί, κύριε": {
       "primary_thai": "เชื่อ พระองค์เจ้าข้า",
       "all_renderings": {
@@ -2758,6 +2828,18 @@
           {
             "verse": "Mark 12:24",
             "rationale": "Rhetorical question with οὐ expecting positive answer (per uW TN 12:24). πλανάω (pass.) = 'be-led-astray / be-mistaken.' Thai หลงผิด ('go-astray-in-error') captures the wandering-off-truth sense. Jesus's rebuke-question preserved in interrogative form."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Οὐ θέλω": {
+      "primary_thai": "ข้าไม่ไปหรอก",
+      "all_renderings": {
+        "ข้าไม่ไปหรอก": [
+          {
+            "verse": "Matthew 21:29",
+            "rationale": "Son-to-father refusal. Per uW figs-explicit \"I-will-not\" implies refusal to work-in-vineyard. Son uses ข้า (humble-1sg son-to-father but casual-refusal tone — \"I won't go\" colloquial). Added ไปหรอก for natural-refusal-particle."
           }
         ]
       },
@@ -2925,6 +3007,18 @@
       },
       "occurrences_count": 1
     },
+    "Οὐδέποτε ἀνέγνωτε ἐν ταῖς γραφαῖς": {
+      "primary_thai": "พวกท่านไม่เคยอ่านในพระคัมภีร์หรือ",
+      "all_renderings": {
+        "พวกท่านไม่เคยอ่านในพระคัมภีร์หรือ": [
+          {
+            "verse": "Matthew 21:42",
+            "rationale": "Per uW figs-rquestion rebuke-question. γραφή (51x) \"scriptures\" → พระคัมภีร์ (standard)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "Οὐδέποτε ἐφάνη οὕτως ἐν τῷ Ἰσραήλ": {
       "primary_thai": "ไม่เคยปรากฏเหตุการณ์เช่นนี้ในอิสราเอลเลย",
       "all_renderings": {
@@ -2968,10 +3062,14 @@
           {
             "verse": "Mark 11:33",
             "rationale": "Emphatic pronoun ἐγώ with οὐδέ = 'Neither will I.' uW TN notes this is Jesus treating their non-answer as the result that triggers his non-answer (logical parallelism). Thai เช่นกัน preserves the symmetrical refusal."
+          },
+          {
+            "verse": "Matthew 21:27",
+            "rationale": "Per uW grammar-connect-logic-result, οὐδέ \"neither\" linked to their non-answer. Thai ก็จะไม่...เช่นกัน preserves logical-reciprocity. Jesus-self-ref royal เรา; to priests พวกท่าน (plural-polite-to-outsider-rebuke)."
           }
         ]
       },
-      "occurrences_count": 1
+      "occurrences_count": 2
     },
     "Οὐκ οἴδαμεν": {
       "primary_thai": "พวกเราไม่ทราบ",
@@ -2980,10 +3078,14 @@
           {
             "verse": "Mark 11:33",
             "rationale": "Ellipsis (uW TN): 'We do not know [where the baptism of John was from].' Thai preserves the elliptical structure."
+          },
+          {
+            "verse": "Matthew 21:27",
+            "rationale": "οἶδα perf-ind 1pl (present-sense) \"we-do-not-know\". Per uW figs-ellipsis supplies \"where baptism came from\". Thai พวกเรา + ไม่ทราบ (formal we-don't-know)."
           }
         ]
       },
-      "occurrences_count": 1
+      "occurrences_count": 2
     },
     "Οὐκ οἴδατε τί αἰτεῖσθε": {
       "primary_thai": "พวกเจ้าไม่รู้ว่ากำลังขออะไร",
@@ -3351,6 +3453,18 @@
       },
       "occurrences_count": 1
     },
+    "Οὗτός ἐστιν ὁ κληρονόμος": {
+      "primary_thai": "คนนี้คือทายาท",
+      "all_renderings": {
+        "คนนี้คือทายาท": [
+          {
+            "verse": "Matthew 21:38",
+            "rationale": "κληρονόμος (15x) = heir (legal-term). Thai ทายาท (standard Thai legal/cultural). Tenants correctly-identify him as heir — the irony is they know AND act to kill anyway."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "Οὗτός ἐστιν ὁ υἱός μου ὁ ἀγαπητός": {
       "primary_thai": "ผู้นี้คือบุตรที่รักของเรา",
       "all_renderings": {
@@ -3695,6 +3809,18 @@
       },
       "occurrences_count": 1
     },
+    "Πορεύεσθε": {
+      "primary_thai": "พวกท่านจงไป",
+      "all_renderings": {
+        "พวกท่านจงไป": [
+          {
+            "verse": "Matthew 21:2",
+            "rationale": "πορεύομαι pres-mid-impv 2pl. Jesus-to-disciples uses พวกท่าน (plural-polite disciple-address established Matt 4:19 onward). Thai imperative จง+verb."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "Πορεύθητι...Ἔρχου...Ποίησον": {
       "primary_thai": "ไป...มา...จงทำสิ่งนี้",
       "all_renderings": {
@@ -3798,6 +3924,18 @@
           {
             "verse": "Mark 14:65",
             "rationale": "Aor.-impv.-2sg per uW figs-yousingular. προφητεύω → จงพยากรณ์ (prophesy). Per uW figs-irony + figs-explicit, they mock him-as-Messiah: 'show your prophetic-power by identifying your striker.' Thai สิ particle ('go-ahead!' provocative)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Πρωΐ": {
+      "primary_thai": "ในเวลาเช้าตรู่",
+      "all_renderings": {
+        "ในเวลาเช้าตรู่": [
+          {
+            "verse": "Matthew 21:18",
+            "rationale": "πρωΐ (12x) \"early-morning\" — distinct from ὄρθρος (dawn) and ὀψίας (evening). Established Matt 16:3 (\"morning\"), 20:1 ἅμα πρωΐ (daybreak)."
           }
         ]
       },
@@ -3966,6 +4104,18 @@
           {
             "verse": "Mark 3:23",
             "rationale": "Rhetorical question expecting 'cannot.' Per uW: question-form used to rebuke. Thai 'ได้อย่างไร?' (how can?) preserves the rhetorical form. Σατανᾶς (per glossary 'ซาตาน'). The internal contradiction of scribes' accusation exposed: Satan-expelling-Satan is self-defeating."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Πῶς παραχρῆμα ἐξηράνθη": {
+      "primary_thai": "เหี่ยวแห้งเร็วอย่างนี้ได้อย่างไร",
+      "all_renderings": {
+        "เหี่ยวแห้งเร็วอย่างนี้ได้อย่างไร": [
+          {
+            "verse": "Matthew 21:20",
+            "rationale": "πῶς interrogative-adv \"how\". παραχρῆμα repeated from v.19 emphasizes immediacy. Thai rearranges for natural Thai question-flow."
           }
         ]
       },
@@ -4331,6 +4481,18 @@
       },
       "occurrences_count": 1
     },
+    "Τέκνον,ὕπαγε σήμερον ἐργάζου ἐν τῷ ἀμπελῶνι": {
+      "primary_thai": "ลูกเอ๋ย วันนี้จงไปทำงานในสวนองุ่นเถิด",
+      "all_renderings": {
+        "ลูกเอ๋ย วันนี้จงไปทำงานในสวนองุ่นเถิด": [
+          {
+            "verse": "Matthew 21:28",
+            "rationale": "τέκνον vocative \"child/son\" — intimate-family-address. Thai ลูกเอ๋ย (father-to-son affectionate). ὕπαγε + ἐργάζου both pres-impv 2sg (per uW figs-yousingular). Thai จง+verb เถิด (soft-imperative-particle, father-to-son tone). ἀμπελών established สวนองุ่น. σήμερον \"today\"."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "Τί ... ζητεῖ σημεῖον": {
       "primary_thai": "เหตุใด...?",
       "all_renderings": {
@@ -4410,6 +4572,18 @@
           {
             "verse": "Matthew 16:8",
             "rationale": "Per uW figs-rquestion: rhetorical-rebuke. Thai 'เหตุใด' formal-question maintains rebuke register. 'ปรึกษากัน' parallel to v7 for consistency."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Τί δὲ ὑμῖν δοκεῖ": {
+      "primary_thai": "พวกท่านคิดเห็นอย่างไร",
+      "all_renderings": {
+        "พวกท่านคิดเห็นอย่างไร": [
+          {
+            "verse": "Matthew 21:28",
+            "rationale": "Per uW figs-rquestion rhetorical-attention-getter (\"listen-to-this\"). Thai preserves question-form as attention-opener. พวกท่าน = Jesus still addressing chief priests + elders."
           }
         ]
       },
@@ -4769,6 +4943,18 @@
       },
       "occurrences_count": 1
     },
+    "Τίς ἐστιν οὗτος": {
+      "primary_thai": "ผู้นี้คือใคร",
+      "all_renderings": {
+        "ผู้นี้คือใคร": [
+          {
+            "verse": "Matthew 21:10",
+            "rationale": "Literal question; crowd's voice. οὗτος demonstrative \"this (one)\" — ผู้นี้ (this-person) not πระองค์ since speakers don't know who Jesus is."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "Τίς ἐστιν ἡ μήτηρ μου, καὶ τίνες εἰσὶν οἱ ἀδελφοί μου": {
       "primary_thai": "ใครเป็นมารดาของเรา? ใครเป็นพวกพี่น้องของเรา",
       "all_renderings": {
@@ -4896,6 +5082,18 @@
           {
             "verse": "Matthew 4:6",
             "rationale": "Per uW writing-pronouns: ἐντελεῖται 3rd-singular 'he will command' — subject is God. Thai supplies 'พระองค์' as grammatical subject (divine third-person royal) per uW alt. ἄγγελοι → ทูตสวรรค์ (established). αὐτοῦ → ของพระองค์ (divine possessor). σοῦ (addressee in Ps 91) → เจ้า per uW figs-yousingular. The quoted-addressee is generic-Israelite-believer (covenant singular), rendered Thai เจ้า — matches our OT-register handling. ทรงบัญชา (royal-command) preserves God's acting-register even inside Satan's misquote."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Τοῦτο δὲ γέγονεν": {
+      "primary_thai": "เหตุการณ์นี้เกิดขึ้น",
+      "all_renderings": {
+        "เหตุการณ์นี้เกิดขึ้น": [
+          {
+            "verse": "Matthew 21:4",
+            "rationale": "δέ narrator-comment connector (per uW grammar-connect-words-phrases). γίνομαι perfect 3sg \"has come-to-pass\". Thai ลบ δέ untranslated (natural flow)."
           }
         ]
       },
@@ -7059,6 +7257,18 @@
       },
       "occurrences_count": 1
     },
+    "δεῦτε ἀποκτείνωμεν αὐτὸν καὶ σχῶμεν τὴν κληρονομίαν αὐτοῦ": {
+      "primary_thai": "มาเถิด ให้พวกเราฆ่าเขาเสีย และยึดมรดกของเขา",
+      "all_renderings": {
+        "มาเถิด ให้พวกเราฆ่าเขาเสีย และยึดมรดกของเขา": [
+          {
+            "verse": "Matthew 21:38",
+            "rationale": "δεῦτε (12x) plural-exhortation \"come!\" — Thai มาเถิด. ἀποκτείνωμεν + σχῶμεν two hortative-subjunctives. Per uW grammar-connect-logic-goal, \"and\" = purpose. Thai ให้...ฆ่า + ยึด (let-us-kill + seize). κληρονομία (14x) = inheritance. Thai มรดก."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "δι' ἄλλης ὁδοῦ": {
       "primary_thai": "โดยทางอื่น",
       "all_renderings": {
@@ -7859,6 +8069,18 @@
       },
       "occurrences_count": 1
     },
+    "δοθήσεται ἔθνει ποιοῦντι τοὺς καρποὺς αὐτῆς": {
+      "primary_thai": "ประทานให้แก่ชนชาติที่จะเกิดผลของอาณาจักรนั้น",
+      "all_renderings": {
+        "ประทานให้แก่ชนชาติที่จะเกิดผลของอาณาจักรนั้น": [
+          {
+            "verse": "Matthew 21:43",
+            "rationale": "δίδωμι fut-pass \"be-given\". Divine-passive → royal ประทาน. ἔθνος (162x) = nation/people-group. Per uW figs-metaphor καρπούς = kingdom-behavior. ποιέω pres-act-ptcp \"producing\". Thai เกิดผล (bearing-fruit)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "δοκιμαζέσθωσαν": {
       "primary_thai": "ให้ทดสอบ",
       "all_renderings": {
@@ -8573,6 +8795,18 @@
       },
       "occurrences_count": 1
     },
+    "εἰς Βηθφαγὴ": {
+      "primary_thai": "หมู่บ้านเบธฟายี",
+      "all_renderings": {
+        "หมู่บ้านเบธฟายี": [
+          {
+            "verse": "Matthew 21:1",
+            "rationale": "Βηθφαγή (3x NT, low-freq) Aramaic בֵּית פַּגֵּי \"house of unripe-figs\" — village on eastern slope of Mount of Olives near Bethany. Thai transliteration เบธฟายี adds หมู่บ้าน for reader clarity (per uW translate-names precedent)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "εἰς αὐτοὺς εἰσέλθωμεν": {
       "primary_thai": "เข้าสิงพวกมัน",
       "all_renderings": {
@@ -8841,6 +9075,18 @@
       },
       "occurrences_count": 1
     },
+    "εἰς τὴν βασιλείαν τοῦ θεοῦ": {
+      "primary_thai": "เข้าอาณาจักรของพระเจ้า",
+      "all_renderings": {
+        "เข้าอาณาจักรของพระเจ้า": [
+          {
+            "verse": "Matthew 21:31",
+            "rationale": "βασιλεία τοῦ θεοῦ (4x Matt, rare-Matthean — vs. 32x βασιλεία τῶν οὐρανῶν). Established glossary อาณาจักรของพระเจ้า (Matt 12:28, 19:24 precedent). Contrast with standard Matthean อาณาจักรสวรรค์."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "εἰς τὴν γέενναν τοῦ πυρός": {
       "primary_thai": "ในไฟนรก",
       "all_renderings": {
@@ -8872,6 +9118,18 @@
           {
             "verse": "Matthew 13:42",
             "rationale": "Per uW figs-possession + figs-metaphor: κάμινος τοῦ πυρός 'furnace-of-fire' = hell (metonymic). Thai 'เตาไฟ' (fire-furnace) standard. Compressed in Thai from possessive-genitive to compound-noun for natural-flow. NEW GLOSSARY: κάμινος → เตา."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "εἰς τὴν κώμην τὴν κατέναντι ὑμῶν": {
+      "primary_thai": "ยังหมู่บ้านที่อยู่ตรงหน้า",
+      "all_renderings": {
+        "ยังหมู่บ้านที่อยู่ตรงหน้า": [
+          {
+            "verse": "Matthew 21:2",
+            "rationale": "κώμη (27x) village; κατέναντι (8x) = opposite/facing-directly — per uW figs-idiom \"directly in front\". Thai ที่อยู่ตรงหน้า captures the straight-ahead sense."
           }
         ]
       },
@@ -9034,6 +9292,18 @@
           {
             "verse": "Mark 11:11",
             "rationale": "ἱερόν refers to the entire temple-precincts (courts), not the sanctuary-building proper (ναός). Thai เขตพระวิหาร ('temple-precinct') is the precise rendering — adds เขต ('zone/area') to disambiguate from the inner sanctuary. uW TN explicitly flags this."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "εἰς τὸ Ὄρος τῶν Ἐλαιῶν": {
+      "primary_thai": "ที่ภูเขามะกอกเทศ",
+      "all_renderings": {
+        "ที่ภูเขามะกอกเทศ": [
+          {
+            "verse": "Matthew 21:1",
+            "rationale": "ὄρος + ἐλαία = Mount of Olives, ~1km east of Jerusalem, significant for Zech 14:4 Messianic-prophecy (YHWH's feet on Mt. Olives at eschatological-day). Standard Thai Christian rendering ภูเขามะกอกเทศ."
           }
         ]
       },
@@ -9295,6 +9565,18 @@
       },
       "occurrences_count": 1
     },
+    "εἰσελθόντος αὐτοῦ": {
+      "primary_thai": "พระเยซูเสด็จเข้า",
+      "all_renderings": {
+        "พระเยซูเสด็จเข้า": [
+          {
+            "verse": "Matthew 21:10",
+            "rationale": "εἰσέρχομαι aor-act-ptcp-gen-abs \"as he entered\". Divine-subject so royal เสด็จเข้า."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "εἰσελθόντος αὐτοῦ εἰς οἶκον": {
       "primary_thai": "พระองค์เสด็จเข้าไปในบ้าน",
       "all_renderings": {
@@ -9434,6 +9716,18 @@
           {
             "verse": "Mark 3:1",
             "rationale": "Royal verb of motion 'เสด็จ' for Jesus. συναγωγή rendered 'ธรรมศาลา' per glossary (Mark 1:21, 1:23, 1:29, 1:39). πάλιν ('again') implies a previously-visited synagogue — likely Capernaum (per uW), though Mark does not explicitly say."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "εἰσῆλθεν Ἰησοῦς εἰς τὸ ἱερόν": {
+      "primary_thai": "พระเยซูเสด็จเข้าไปในบริเวณพระวิหาร",
+      "all_renderings": {
+        "พระเยซูเสด็จเข้าไปในบริเวณพระวิหาร": [
+          {
+            "verse": "Matthew 21:12",
+            "rationale": "ἱερόν (71x NT) = temple-complex (not the inner-sanctuary ναός). Per uW figs-explicit, means temple-courtyard not holy-of-holies. Thai บริเวณพระวิหาร (temple-area) clarifies. Divine-subject royal เสด็จเข้า."
           }
         ]
       },
@@ -9817,6 +10111,18 @@
       },
       "occurrences_count": 1
     },
+    "εἶπεν ὡσαύτως": {
+      "primary_thai": "พูดเช่นเดียวกัน",
+      "all_renderings": {
+        "พูดเช่นเดียวกัน": [
+          {
+            "verse": "Matthew 21:30",
+            "rationale": "Per uW figs-explicit, \"said the same thing\" as v.28 to first son. ὡσαύτως established glossary เช่นเดียวกัน (Matt 20:5)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "εἶπεν...ἵνα": {
       "primary_thai": "รับสั่ง...ให้",
       "all_renderings": {
@@ -9836,6 +10142,18 @@
           {
             "verse": "Matthew 19:16",
             "rationale": "Per glossary (Matt 8:19 etc.): διδάσκαλε (vocative) in non-disciple-address → อาจารย์ (respectful-teacher-form, NO พระ-honorific-prefix — outsider-register per RULES §3). The absence of พระ- distinguishes non-disciple-respect from disciple-honorific 'พระอาจารย์.'"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "εἶπον ἐν ἑαυτοῖς": {
+      "primary_thai": "พูดกันในหมู่พวกตน",
+      "all_renderings": {
+        "พูดกันในหมู่พวกตน": [
+          {
+            "verse": "Matthew 21:38",
+            "rationale": "Per uW figs-explicit, could mean (1) speaking with one-another OR (2) thinking internally. Thai preserves both possibilities."
           }
         ]
       },
@@ -10483,6 +10801,18 @@
       },
       "occurrences_count": 1
     },
+    "ζητοῦντες αὐτὸν κρατῆσαι": {
+      "primary_thai": "พยายามจะจับกุมพระองค์",
+      "all_renderings": {
+        "พยายามจะจับกุมพระองค์": [
+          {
+            "verse": "Matthew 21:46",
+            "rationale": "ζητέω pres-act-ptcp \"seeking\" + κρατέω aor-act-infin \"to-seize\". Thai พยายามจะจับกุม (attempt-to-arrest)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ζητοῦντι καλοὺς μαργαρίτας": {
       "primary_thai": "ที่แสวงหาไข่มุกงาม",
       "all_renderings": {
@@ -10578,6 +10908,18 @@
           {
             "verse": "Mark 16:11",
             "rationale": "Present-active 'he is living' — resurrection-confession in its simplest form: Jesus lives. Thai ทรงพระชนม์อยู่ = royal-register."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ηὐλίσθη ἐκεῖ": {
+      "primary_thai": "ทรงพักค้างแรมที่นั่น",
+      "all_renderings": {
+        "ทรงพักค้างแรมที่นั่น": [
+          {
+            "verse": "Matthew 21:17",
+            "rationale": "αὐλίζομαι (2x NT: here + Luke 21:37) aor-pass 3sg \"lodged/spent-the-night\". Divine-subject royal ทรง+พักค้างแรม (royal-overnight-stay)."
           }
         ]
       },
@@ -11516,6 +11858,18 @@
           {
             "verse": "Matthew 19:5",
             "rationale": "Per uW figs-explicit: καταλείψει (future-indicative) is generic-truth-statement (marrying-a-man-leaves-parents). Per uW translate-tense: Thai uses generic-present/future 'จะละ.' 'ละ' (leave) distinguished from 'ละทิ้ง' (forsake-permanently) — marriage-context is 'leave-primary-household' not 'abandon.' Per glossary (Matt 15:4 etc.): τὸν πατέρα καὶ τὴν μητέρα → บิดามารดา. NEW GLOSSARY: καταλείπω (marriage-context) → ละ."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "καταλιπὼν αὐτοὺς": {
+      "primary_thai": "ทรงละจากพวกเขา",
+      "all_renderings": {
+        "ทรงละจากพวกเขา": [
+          {
+            "verse": "Matthew 21:17",
+            "rationale": "καταλείπω (24x) aor-act-ptcp \"leaving-behind\". Jesus-subject royal ทรงละ."
           }
         ]
       },
@@ -13615,9 +13969,15 @@
             "verse": "Matthew 20:6",
             "rationale": "λέγει historical-present (uW translate-tense) — Thai rendered as past narrative for natural flow. Per uW note: could translate as \"he said\" — Thai convention treats the historical-present as equivalent to past for Matthean narrative."
           }
+        ],
+        "ตรัสกับพวกเขาว่า": [
+          {
+            "verse": "Matthew 21:13",
+            "rationale": "λέγει historical-present (per uW translate-tense, Matthean stylistic for narrative-development). Divine-subject royal ตรัส. Thai past-narrative-natural rendering."
+          }
         ]
       },
-      "occurrences_count": 5
+      "occurrences_count": 6
     },
     "λέγει αὐτοῖς ὁ Ἰησοῦς": {
       "primary_thai": "พระเยซูตรัสถามว่า",
@@ -14043,6 +14403,18 @@
       },
       "occurrences_count": 2
     },
+    "λέγων αὐτοῖς": {
+      "primary_thai": "ตรัสสั่งพวกเขาว่า",
+      "all_renderings": {
+        "ตรัสสั่งพวกเขาว่า": [
+          {
+            "verse": "Matthew 21:2",
+            "rationale": "λέγω pres-ptcp masc-sg-nom; Jesus-speech so royal ตรัส. Added สั่ง for imperatival force of what follows."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "λέγων ὅτι": {
       "primary_thai": "โดยคิดว่า",
       "all_renderings": {
@@ -14134,6 +14506,18 @@
           {
             "verse": "Matthew 12:20",
             "rationale": "Per uW translate-unknown: λίνον = 'linen/flax' but in context = 'lamp-wick' (λίνον τυφόμενον = smoldering-wick). Thai 'ไส้ตะเกียง' (lamp-wick — functional-clarity over literal-linen). NT HAPAX τύφομαι (pres-pass-ptcp) 'smoke/smolder' → 'ริบหรี่' (flicker-dim). σβέννυμι → ดับ (established Matt 5:15 etc.). NEW GLOSSARY: λίνον (wick-context) → ไส้ตะเกียง; τύφομαι NT-HAPAX → ริบหรี่."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "λαβεῖν τοὺς καρποὺς αὐτοῦ": {
+      "primary_thai": "เพื่อไปรับผลในส่วนของเขา",
+      "all_renderings": {
+        "เพื่อไปรับผลในส่วนของเขา": [
+          {
+            "verse": "Matthew 21:34",
+            "rationale": "Per uW figs-explicit, the master wants HIS-SHARE of the fruits (share-cropping arrangement v.33). Thai ผลในส่วนของเขา (fruits-in-his-portion). Per uW figs-metaphor, καρποί could be literal-grapes OR money-from-selling-grapes — Thai preserves literal-metaphor."
           }
         ]
       },
@@ -14356,6 +14740,18 @@
           {
             "verse": "Mark 11:4",
             "rationale": "Historic-present λύω (3pl) 'untie/loose' — rendered as Thai past-narrative แก้."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "λύσαντες ἀγάγετέ μοι": {
+      "primary_thai": "จงแก้เชือกแล้วนำมาให้เรา",
+      "all_renderings": {
+        "จงแก้เชือกแล้วนำมาให้เรา": [
+          {
+            "verse": "Matthew 21:2",
+            "rationale": "λύω aor-act-ptcp + ἄγω aor-act-impv-2pl. Thai expands implicit object \"the tether\" → เชือก (per uW figs-explicit). Jesus self-reference royal เรา."
           }
         ]
       },
@@ -16237,6 +16633,18 @@
       },
       "occurrences_count": 1
     },
+    "οἱ δὲ διελογίζοντο ἐν ἑαυτοῖς": {
+      "primary_thai": "พวกเขาจึงปรึกษากันในหมู่พวกตน",
+      "all_renderings": {
+        "พวกเขาจึงปรึกษากันในหมู่พวกตน": [
+          {
+            "verse": "Matthew 21:25",
+            "rationale": "διαλογίζομαι (16x) impf \"were-debating\". Per uW figs-explicit, could mean (1) speaking with each other OR (2) internal-thinking. Thai ปรึกษากัน (discussed together) with ในหมู่พวกตน (among themselves) preserves ambiguity."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "οἱ δὲ εἶπαν": {
       "primary_thai": "พวกเขาทูลตอบว่า",
       "all_renderings": {
@@ -16567,6 +16975,18 @@
       },
       "occurrences_count": 1
     },
+    "οἱ προάγοντες αὐτὸν καὶ οἱ ἀκολουθοῦντες": {
+      "primary_thai": "ที่เดินนำหน้าและที่ตามเสด็จมา",
+      "all_renderings": {
+        "ที่เดินนำหน้าและที่ตามเสด็จมา": [
+          {
+            "verse": "Matthew 21:9",
+            "rationale": "προάγω (20x) pres-act-ptcp substantival \"those going ahead\"; ἀκολουθέω (90x) \"follow\" (disciple-term but here neutral-physical-following). Thai ตามเสด็จ (royal-following, since Jesus is the royal subject being followed) for ἀκολουθοῦντες."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "οἱ πτωχοὶ τῷ πνεύματι": {
       "primary_thai": "ผู้มีใจยากจน",
       "all_renderings": {
@@ -16586,6 +17006,18 @@
           {
             "verse": "Mark 15:32",
             "rationale": "συσταυρόω 'co-crucified' — pf.-pass.-ptc. 'the co-crucified-ones.' Thai คนที่ถูกตรึงพร้อมกับพระองค์ = persons-who-were-crucified-together-with-him. ὀνειδίζω → ดูหมิ่น (revile; glossary-established). Mark's TERSE version — in contrast to Luke 23:39–43's more elaborate dialogue (the penitent thief). At this stage in Mark, BOTH robbers mock — Luke presents later conversion of one; Mark presents only the initial mockery."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "οἱ τελῶναι καὶ αἱ πόρναι προάγουσιν ὑμᾶς": {
+      "primary_thai": "พวกคนเก็บภาษีและพวกหญิงโสเภณีจะเข้า...ก่อนพวกท่าน",
+      "all_renderings": {
+        "พวกคนเก็บภาษีและพวกหญิงโสเภณีจะเข้า...ก่อนพวกท่าน": [
+          {
+            "verse": "Matthew 21:31",
+            "rationale": "τελώνης → คนเก็บภาษี (established Matt 5:46). πόρνη (12x) first-occurrence in Matt → หญิงโสเภณี (standard Thai Christian). προάγω pres-act-ind 3pl \"go-ahead/before\" — per uW figs-explicit could mean (1) enter-first-then-priests-later OR (2) enter-instead-of-priests. Ambiguity preserved with ก่อนพวกท่าน."
           }
         ]
       },
@@ -16727,6 +17159,18 @@
       },
       "occurrences_count": 1
     },
+    "οἱ ἀρχιερεῖς καὶ οἱ Φαρισαῖοι": {
+      "primary_thai": "พวกมหาปุโรหิตและพวกฟาριสี",
+      "all_renderings": {
+        "พวกมหาปุโรหิตและพวกฟาριสี": [
+          {
+            "verse": "Matthew 21:45",
+            "rationale": "Matt introduces the Pharisees alongside chief-priests for the first time in this chapter (v.23 had priests + elders; now priests + Pharisees). Standard Matt 3:7 etc. — พวกมหาปุโรหิตและพวกฟาριสี."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "οἱ ἀρχιερεῖς καὶ οἱ γραμματεῖς": {
       "primary_thai": "พวกหัวหน้าปุโรหิตและพวกธรรมาจารย์",
       "all_renderings": {
@@ -16734,6 +17178,18 @@
           {
             "verse": "Mark 14:1",
             "rationale": "Glossary-established: ἀρχιερεύς → หัวหน้าปุโรหิต (from Mark 11:18, 11:27); γραμματεύς → ธรรมาจารย์ (from Mark 1 onwards). Two of the three Sanhedrin factions named here (elders appear at v.43)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "οἱ ἀρχιερεῖς καὶ οἱ πρεσβύτεροι τοῦ λαοῦ": {
+      "primary_thai": "พวกมหาปุโรหิตและพวกผู้อาวุโสของประชาชน",
+      "all_renderings": {
+        "พวกมหาปุโรหิตและพวกผู้อาวุโสของประชาชน": [
+          {
+            "verse": "Matthew 21:23",
+            "rationale": "Standard Sanhedrin-leadership pair. ἀρχιερεύς est. พวกมหาปุโรหิต (Matt 16:21). πρεσβύτερος (66x) = elder; τοῦ λαοῦ (Israel's-people) → ของประชาชน. Thai พวกผู้อาวุโส (elders) + ของประชาชน (of the people)."
           }
         ]
       },
@@ -17663,6 +18119,18 @@
       },
       "occurrences_count": 1
     },
+    "οὐδέποτε ἀνέγνωτε": {
+      "primary_thai": "พวกท่านไม่เคยอ่านหรือ",
+      "all_renderings": {
+        "พวกท่านไม่เคยอ่านหรือ": [
+          {
+            "verse": "Matthew 21:16",
+            "rationale": "Per uW figs-rquestion, rhetorical-question that Jesus uses to rebuke-and-teach. Preserving question-form per Thai-natural rhetorical-question. πλ ท่าน (plural polite to religious-leaders — royal-subject to outsider-addressees)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "οὐδαμῶς ἐλαχίστη εἶ": {
       "primary_thai": "หาได้เป็นเมืองต่ำต้อยที่สุดในบรรดาหัวเมืองทั้งหลายของยูดาห์ไม่",
       "all_renderings": {
@@ -17831,6 +18299,18 @@
       },
       "occurrences_count": 1
     },
+    "οὐδὲ μετεμελήθητε ὕστερον τοῦ πιστεῦσαι": {
+      "primary_thai": "ไม่กลับใจและเชื่อเขาในภายหลัง",
+      "all_renderings": {
+        "ไม่กลับใจและเชื่อเขาในภายหลัง": [
+          {
+            "verse": "Matthew 21:32",
+            "rationale": "Per uW figs-idiom μετεμελήθητε \"changed-minds\" (same verb as v.29) — continuing the parable-echo: priests are like second-son (did not go), tax-collectors/prostitutes like first-son (changed mind and went). μετεμελήθητε + articular-infin τοῦ πιστεῦσαι \"as to believe-him\"."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "οὐδὲ οὕτως ἴση ἦν ἡ μαρτυρία αὐτῶν": {
       "primary_thai": "ถึงอย่างนั้น คำพยานของพวกเขาก็ยังไม่ตรงกัน",
       "all_renderings": {
@@ -17927,6 +18407,18 @@
       },
       "occurrences_count": 1
     },
+    "οὐδὲν εὗρεν ἐν αὐτῇ εἰ μὴ φύλλα μόνον": {
+      "primary_thai": "ไม่พบผลอะไรเลย นอกจากใบเท่านั้น",
+      "all_renderings": {
+        "ไม่พบผลอะไรเลย นอกจากใบเท่านั้น": [
+          {
+            "verse": "Matthew 21:19",
+            "rationale": "Per uW grammar-connect-exceptions. Thai natural \"found nothing except leaves\". φύλλον (6x) = leaf. Implied-object \"fruit\" supplied explicitly in Thai."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "οὐκ εἰμὶ ἱκανὸς": {
       "primary_thai": "ข้าพระองค์ไม่สมควร",
       "all_renderings": {
@@ -18012,6 +18504,18 @@
           {
             "verse": "Matthew 15:23",
             "rationale": "Per uW figs-metonymy: 'answer her a word' = 'not respond at all.' Divine speech (non-) → 'ตรัส' (royal-speech negated with 'มิได้'). 'สักคำ' idiomatic 'a single word.'"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "οὐκ ἀπῆλθεν": {
+      "primary_thai": "แต่เขาไม่ได้ไป",
+      "all_renderings": {
+        "แต่เขาไม่ได้ไป": [
+          {
+            "verse": "Matthew 21:30",
+            "rationale": "Per uW figs-explicit completes \"did not go (and work)\"."
           }
         ]
       },
@@ -18120,6 +18624,18 @@
           {
             "verse": "Matthew 17:12",
             "rationale": "Per uW writing-pronouns: 'they' ambiguous — (a) people generally or (b) religious leaders. Thai pronoun 'พวกเขา' preserves ambiguity. ἐπιγινώσκω = 'recognize-fully' (stronger than γινώσκω). 'ไม่รู้จัก' captures recognition-failure."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "οὐκ ἐπιστεύσατε αὐτῷ": {
+      "primary_thai": "พวกท่านไม่เชื่อเขา",
+      "all_renderings": {
+        "พวกท่านไม่เชื่อเขา": [
+          {
+            "verse": "Matthew 21:32",
+            "rationale": "Per uW figs-you plural referring to religious-leaders. Thai พวกท่าน + เขา (yohn-pronoun)."
           }
         ]
       },
@@ -18975,6 +19491,18 @@
       },
       "occurrences_count": 1
     },
+    "οὗτος ἐγενήθη εἰς κεφαλὴν γωνίας": {
+      "primary_thai": "กลับกลายเป็นศิลามุมเอก",
+      "all_renderings": {
+        "กลับกลายเป็นศิลามุมเอก": [
+          {
+            "verse": "Matthew 21:42",
+            "rationale": "γίνομαι aor-pass 3sg \"became\". Per uW figs-idiom κεφαλὴ γωνίας = cornerstone (could be foundation-stone at corner OR capstone at top of arch). Thai ศิลามุมเอก (standard Thai Christian for cornerstone-of-principal-importance)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "οὗτός ἐστιν περὶ οὗ γέγραπται": {
       "primary_thai": "ยอห์นนี้แหละคือผู้ที่มีเขียนไว้",
       "all_renderings": {
@@ -19195,6 +19723,18 @@
       },
       "occurrences_count": 1
     },
+    "πάντα ὅσα ἂν αἰτήσητε": {
+      "primary_thai": "ทุกสิ่งที่พวกท่าน...ขอ",
+      "all_renderings": {
+        "ทุกสิ่งที่พวกท่าน...ขอ": [
+          {
+            "verse": "Matthew 21:22",
+            "rationale": "Per uW figs-explicitinfo could collapse \"everything, as much as\"; Thai natural ทุกสิ่งที่ preserves totalizing-scope."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "πάντας τοὺς κακῶς ἔχοντας ἐθεράπευσεν": {
       "primary_thai": "ทรงรักษาคนเจ็บป่วยทุกคนให้หายดี",
       "all_renderings": {
@@ -19262,6 +19802,18 @@
           {
             "verse": "Mark 12:44",
             "rationale": "γάρ 'for' — introduces the basis-reason for v.43's claim (per uW TN 12:44 grammar-connect-logic-result). ἐκ τοῦ περισσεύοντος αὐτοῖς 'from that-which-is-abounding-to-them' = surplus/leftover wealth. Thai ทรัพย์ที่ตนเหลือใช้ ('wealth that-they-have-leftover') captures the surplus-not-sacrifice economic register."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "πάντες γὰρ ὡς προφήτην ἔχουσιν τὸν Ἰωάννην": {
+      "primary_thai": "เพราะทุกคนถือว่ายอห์นเป็นผู้เผยพระวจนะ",
+      "all_renderings": {
+        "เพราะทุกคนถือว่ายอห์นเป็นผู้เผยพระวจนะ": [
+          {
+            "verse": "Matthew 21:26",
+            "rationale": "Per uW figs-hyperbole πάντες overstates \"most\" of the crowd. ὡς προφήτην ἔχουσιν idiom \"regard-as prophet\". Thai ถือว่า natural. Established προφήτης → ผู้เผยพระวจนะ."
           }
         ]
       },
@@ -20180,10 +20732,14 @@
           {
             "verse": "Mark 12:11",
             "rationale": "DIRECT OT CITATION continued (Ps 118:23 LXX). αὕτη fem.-nom. refers back to αὕτη-κεφαλὴ-γωνίας-transformation (= the whole 'rejection-turned-exaltation' event). Anarthrous κυρίου = YHWH in LXX Ps 117:23 → องค์พระผู้เป็นเจ้า (RULES.md §4 standard for YHWH-bearing κύριος)."
+          },
+          {
+            "verse": "Matthew 21:42",
+            "rationale": "παρὰ κυρίου \"from-the-Lord\" = from-YHWH (LXX Ps 117:23 = MT Ps 118:23 מֵאֵת יְהוָה). κύριος LXX-YHWH → องค์พระผู้เป็นเจ้า (established RULES §4)."
           }
         ]
       },
-      "occurrences_count": 1
+      "occurrences_count": 2
     },
     "παρὰ τὴν θάλασσαν": {
       "primary_thai": "ริมทะเล",
@@ -21397,6 +21953,18 @@
       },
       "occurrences_count": 1
     },
+    "πορευθέντες...καὶ ποιήσαντες": {
+      "primary_thai": "ก็ไปและทำตาม",
+      "all_renderings": {
+        "ก็ไปและทำตาม": [
+          {
+            "verse": "Matthew 21:6",
+            "rationale": "Two aor-pass-ptcp \"having-gone and having-done\" — disciple-actions so non-royal. Thai simplifies to finite verbs."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "πορευθεὶς εἰς θάλασσαν βάλε ἄγκιστρον": {
       "primary_thai": "จงไปที่ทะเลสาบ ทอดเบ็ดลง",
       "all_renderings": {
@@ -21500,6 +22068,18 @@
           {
             "verse": "Mark 7:4",
             "rationale": "Per uW figs-doublet: a triplet of containers used for food preparation/storage; together they refer to all such vessels. ξεστής (HAPAX, see below) and χαλκίον (HAPAX) are vessel types. Thai 'ถ้วย' (cup) for ποτήριον; 'เหยือก' (pitcher/jug) for ξεστής; 'ภาชนะทองแดง' (copper-vessel) for χαλκίον — preserves the listing of three distinct kitchen items so Thai readers grasp the breadth of the regulation."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "πραΰς": {
+      "primary_thai": "ด้วยพระทัยอ่อนสุภาพ",
+      "all_renderings": {
+        "ด้วยพระทัยอ่อนสุภาพ": [
+          {
+            "verse": "Matthew 21:5",
+            "rationale": "πραΰς (4x NT: Matt 5:5, 11:29, 21:5, 1 Pet 3:4) = gentle/humble-strength. Established Matt 11:29 ใจอ่อนโยน; here with royal-context expanded to ด้วยพระทัยอ่อนสุภาพ (royal พระทัย for Jesus's heart). Zech 9:9 LXX has πραῢς (MT עָנִי \"afflicted/humble\"); Matthew follows LXX. Key contrast with warrior-king-on-horse (Zech 9:10)."
           }
         ]
       },
@@ -21907,6 +22487,18 @@
       },
       "occurrences_count": 1
     },
+    "προσελθὼν τῷ πρώτῳ": {
+      "primary_thai": "เขาไปหาคนที่หนึ่ง",
+      "all_renderings": {
+        "เขาไปหาคนที่หนึ่ง": [
+          {
+            "verse": "Matthew 21:28",
+            "rationale": "Per uW figs-nominaladj τῷ πρώτῳ substantival \"the-first(-child)\". Per uW figs-explicit could mean older-one or first-addressed. Thai คนที่หนึ่ง (the-first-one) ambiguous like Greek."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "προσελθὼν ὁ πειράζων": {
       "primary_thai": "ผู้ทดลองได้เข้ามาหาพระองค์",
       "all_renderings": {
@@ -22285,6 +22877,18 @@
       },
       "occurrences_count": 1
     },
+    "προσῆλθον αὐτῷ διδάσκοντι": {
+      "primary_thai": "ขณะทรงสั่งสอนอยู่...ก็เข้ามาเฝ้า",
+      "all_renderings": {
+        "ขณะทรงสั่งสอนอยู่...ก็เข้ามาเฝ้า": [
+          {
+            "verse": "Matthew 21:23",
+            "rationale": "διδάσκοντι pres-act-ptcp-dat masc-sg \"as-he-was-teaching\" qualifying αὐτῷ. Jesus-subject teaching royal ทรงสั่งสอน. Priests-approaching royal-subject addressee เข้ามาเฝ้า."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "προσῆλθον αὐτῷ οἱ μαθηταί": {
       "primary_thai": "เหล่าสาวกเข้ามาทูลพระองค์",
       "all_renderings": {
@@ -22292,6 +22896,18 @@
           {
             "verse": "Matthew 14:15",
             "rationale": "Divine addressee: ทูล (humble-speak). Plain verb 'เข้ามา' for disciple-subject."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "προσῆλθον αὐτῷ τυφλοὶ καὶ χωλοὶ": {
+      "primary_thai": "คนตาบอดและคนง่อยเข้ามาเฝ้าพระองค์",
+      "all_renderings": {
+        "คนตาบอดและคนง่อยเข้ามาเฝ้าพระองค์": [
+          {
+            "verse": "Matthew 21:14",
+            "rationale": "προσέρχομαι (86x Matt-favorite) aor 3pl \"came-toward\". τυφλός (50x NT) blind; χωλός (14x) lame. Per uW figs-nominaladj, substantival-adjectives \"the-blind/lame-ones\" — Thai คน+adj. เข้ามาเฝ้า (royal-approach-to) for suppliants-coming-to-Jesus."
           }
         ]
       },
@@ -24175,6 +24791,18 @@
       },
       "occurrences_count": 1
     },
+    "συνέταξεν αὐτοῖς ὁ Ἰησοῦς": {
+      "primary_thai": "พระเยซูทรงกำชับพวกเขา",
+      "all_renderings": {
+        "พระเยซูทรงกำชับพวกเขา": [
+          {
+            "verse": "Matthew 21:6",
+            "rationale": "συντάσσω (3x NT all in Matt: 21:6, 26:19, 27:10) = direct/instruct/order. Divine-subject so royal ทรง. กำชับ = firmly-instruct (matches strong imperatival sense of συνέταξεν)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "συνήχθη ὄχλος πολύς": {
       "primary_thai": "ฝูงชนเป็นอันมากก็มาชุมนุมล้อมรอบ",
       "all_renderings": {
@@ -24577,6 +25205,18 @@
       },
       "occurrences_count": 1
     },
+    "τί ποιήσει τοῖς γεωργοῖς ἐκείνοις": {
+      "primary_thai": "เขาจะทำอย่างไรกับคนเช่าสวนเหล่านั้น",
+      "all_renderings": {
+        "เขาจะทำอย่างไรกับคนเช่าสวนเหล่านั้น": [
+          {
+            "verse": "Matthew 21:40",
+            "rationale": "Jesus's parable-question inviting priests to render judgment (rhetorical-trap analogous to two-sons v.31)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "τί συζητεῖτε πρὸς αὑτούς": {
       "primary_thai": "พวกท่านกำลังโต้เถียงอะไรกับเขาอยู่",
       "all_renderings": {
@@ -24733,6 +25373,18 @@
       },
       "occurrences_count": 1
     },
+    "τίς σοι ἔδωκεν τὴν ἐξουσίαν ταύτην": {
+      "primary_thai": "ใครมอบสิทธิอำนาจนี้ให้ท่าน",
+      "all_renderings": {
+        "ใครมอบสิทธิอำนาจนี้ให้ท่าน": [
+          {
+            "verse": "Matthew 21:23",
+            "rationale": "Parallel-question per uW figs-parallelism — two questions in close succession. Thai preserves doubled-question. δίδωμι aor \"gave\" → มอบ (plain, not royal ประทาน, since question-asker pretends Jesus's authority is human-derived)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "τίς τί ἄρῃ": {
       "primary_thai": "ดูว่าใครจะได้สิ่งใด",
       "all_renderings": {
@@ -24740,6 +25392,18 @@
           {
             "verse": "Mark 15:24",
             "rationale": "Interrogative double-variable 'who [takes] what?' (per uW TN figs-explicit). Thai ใครจะได้สิ่งใด preserves the two-variable question-structure. Per the lot's purpose — deciding distribution of 4+ garment pieces among 4 soldiers."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "τίς ἐκ τῶν δύο ἐποίησεν τὸ θέλημα τοῦ πατρός": {
+      "primary_thai": "บุตรคนไหนในสองคนนั้นทำตามความประสงค์ของบิดา",
+      "all_renderings": {
+        "บุตรคนไหนในสองคนนั้นทำตามความประสงค์ของบิดา": [
+          {
+            "verse": "Matthew 21:31",
+            "rationale": "Per uW figs-abstractnouns θέλημα → ความประสงค์ (will/desire). πατήρ here = human-father in parable → บิดา (not divine พระบิดา since human-parabolic-character). Thai preserves question-form."
           }
         ]
       },
@@ -25064,6 +25728,18 @@
           {
             "verse": "Matthew 16:9",
             "rationale": "Per uW figs-possession: '5 loaves of/that-fed the 5000.' Per uW figs-nominaladj: πεντακισχιλίων = '5000 men.' Thai 'ขนมปังห้าก้อนสำหรับคนห้าพัน' makes the for-relationship explicit ('for' = สำหรับ). Refers to feeding-of-5000 in Matt 14. NEW GLOSSARY: πεντακισχίλιοι → คนห้าพัน."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "τοὺς παῖδας τοὺς κράζοντας": {
+      "primary_thai": "เด็กๆ ร้อง",
+      "all_renderings": {
+        "เด็กๆ ร้อง": [
+          {
+            "verse": "Matthew 21:15",
+            "rationale": "παῖς (24x) = child/boy/youth (wider than νήπιος infant). κράζω (56x) pres-act-ptcp = crying-out. Same verb as v.9 crowd-shouting, now children carry the acclamation INSIDE the temple."
           }
         ]
       },
@@ -25813,6 +26489,18 @@
       },
       "occurrences_count": 1
     },
+    "τὰ θαυμάσια ἃ ἐποίησεν": {
+      "primary_thai": "สิ่งมหัศจรรย์ที่พระองค์ทรงกระทำ",
+      "all_renderings": {
+        "สิ่งมหัศจรรย์ที่พระองค์ทรงกระทำ": [
+          {
+            "verse": "Matthew 21:15",
+            "rationale": "θαυμάσιος HAPAX (NT-only here) = \"wonderful-things/marvelous-deeds\". Adjective substantival, neuter-plural. Distinct from θαῦμα (amazement) and θαυμαστός (marvelous — at 21:42 next!) and the common θαυμάζω verb. Thai สิ่งมหัศจรรย์ captures \"wonders/marvelous-things\". Jesus-subject royal ทรงกระทำ."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "τὰ καλὰ ἔργα": {
       "primary_thai": "กิจการดี",
       "all_renderings": {
@@ -26045,6 +26733,18 @@
       },
       "occurrences_count": 1
     },
+    "τὰς καθέδρας τῶν πωλούντων τὰς περιστεράς": {
+      "primary_thai": "ที่นั่งของพวกคนขายนกพิราบ",
+      "all_renderings": {
+        "ที่นั่งของพวกคนขายนกพิราบ": [
+          {
+            "verse": "Matthew 21:12",
+            "rationale": "καθέδρα (3x NT) = seat/bench. περιστερά (10x) = dove (poor-persons' sacrifice per Lev 12:6-8 for poor, Lev 1:14 for burnt-offerings). Per uW figs-explicit, implies the sellers catered to poor-pilgrims' sacrificial-needs."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "τὰς κώμας": {
       "primary_thai": "บรรดาหมู่บ้าน",
       "all_renderings": {
@@ -26069,6 +26769,18 @@
       },
       "occurrences_count": 1
     },
+    "τὰς παραβολὰς αὐτοῦ": {
+      "primary_thai": "บรรดาคำอุปมาของพระองค์",
+      "all_renderings": {
+        "บรรดาคำอุปมาของพระองค์": [
+          {
+            "verse": "Matthew 21:45",
+            "rationale": "Plural παραβολαί = all three Jesus-told this chapter: two-sons (28-32), tenants (33-41), + stone (42-44 functions as parable-interpretation). Thai บรรดา (set-of) captures plural."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "τὰς πόλεις πάσας καὶ τὰς κώμας": {
       "primary_thai": "ทั่วเมืองและหมู่บ้านต่างๆ",
       "all_renderings": {
@@ -26076,6 +26788,18 @@
           {
             "verse": "Matthew 9:35",
             "rationale": "πόλις → เมือง (city/town). κώμη → หมู่บ้าน (village). πᾶς → ทั่ว...ต่างๆ (everywhere...various)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "τὰς τραπέζας τῶν κολλυβιστῶν κατέστρεψεν": {
+      "primary_thai": "ทรงคว่ำโต๊ะของพวกคนรับแลกเงิน",
+      "all_renderings": {
+        "ทรงคว่ำโต๊ะของพวกคนรับแลกเงิน": [
+          {
+            "verse": "Matthew 21:12",
+            "rationale": "κολλυβιστής (3x NT) = money-changer (for temple-shekel-exchange of Roman coins, which bore Caesar's image = idolatrous). τράπεζα table. καταστρέφω aor 3sg \"overturn\". Thai ทรงคว่ำโต๊ะ (royal-overturn-table)."
           }
         ]
       },
@@ -26404,6 +27128,18 @@
           {
             "verse": "Mark 11:30",
             "rationale": "Possessive genitive. βάπτισμα = บัพติศมา (RULES.md §4). Ἰωάννου = ยอห์น (glossary-established). 'The baptism of John' is shorthand for John's prophetic-ministry authority as a whole."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "τὸ βάπτισμα τὸ Ἰωάννου πόθεν ἦν": {
+      "primary_thai": "บัพติศมาของยอห์นมาจากไหน",
+      "all_renderings": {
+        "บัพติศมาของยอห์นมาจากไหน": [
+          {
+            "verse": "Matthew 21:25",
+            "rationale": "Per uW figs-possession, βάπτισμα Ἰωάννου = John-performed-baptism. βάπτισμα → บัพติศมา transliteration (RULES §4). Thai simple possessive ของยอห์น."
           }
         ]
       },
@@ -27195,6 +27931,18 @@
       },
       "occurrences_count": 1
     },
+    "τὸν υἱὸν αὐτοῦ": {
+      "primary_thai": "บุตรของตน",
+      "all_renderings": {
+        "บุตรของตน": [
+          {
+            "verse": "Matthew 21:37",
+            "rationale": "υἱός (377x) = son. In parable: master's-only-son (implied heir, v.38). Thai บุตร (honorific-neutral child-term). Christologically pregnant — points to Jesus as God's-Son."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "τὸν υἱὸν τοῦ ἀνθρώπου": {
       "primary_thai": "บุตรมนุษย์",
       "all_renderings": {
@@ -27230,6 +27978,18 @@
           {
             "verse": "Matthew 2:7",
             "rationale": "Per uW figs-possession: 'the time of the star's appearing' = 'when the star appeared.' Participle φαινομένου ('appearing'). Thai 'เวลาที่ดาวนั้นปรากฏขึ้น' (the time at which that star appeared/rose) preserves both senses."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "τὸν ἀμπελῶνα ἐκδώσεται ἄλλοις γεωργοῖς": {
+      "primary_thai": "จะให้คนเช่าสวนกลุ่มอื่นเช่าสวนองุ่น",
+      "all_renderings": {
+        "จะให้คนเช่าสวนกลุ่มอื่นเช่าสวนองุ่น": [
+          {
+            "verse": "Matthew 21:41",
+            "rationale": "Per uW translate-unknown, same share-cropping-arrangement from v.33. Thai คนเช่าสวนกลุ่มอื่น (another-tenant-group)."
           }
         ]
       },
@@ -27593,6 +28353,18 @@
       },
       "occurrences_count": 1
     },
+    "τῷ δευτέρῳ": {
+      "primary_thai": "คนที่สอง",
+      "all_renderings": {
+        "คนที่สอง": [
+          {
+            "verse": "Matthew 21:30",
+            "rationale": "δεύτερος (43x) ordinal \"second\". Thai คนที่สอง (matching คนที่หนึ่ง v.28)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "τῷ δούλῳ μου": {
       "primary_thai": "ทาสของข้าพระองค์",
       "all_renderings": {
@@ -27720,6 +28492,18 @@
           {
             "verse": "Mark 11:23",
             "rationale": "uW TN notes two possibilities: (1) 'this mountain' = the Mount of Olives that Jesus and disciples were near; (2) 'this mountain' = any mountain (generic). Thai ภูเขานี้ preserves the deictic 'this-mountain' ambiguity. The proximal context (11:1 Mount of Olives, 13:3 Jesus on Mount of Olives) + the Zech 14:4 prophetic background strongly suggests the specific Mount-of-Olives reading, which gives the saying its Markan-contextual depth."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "τῷ ὄρει τούτῳ εἴπητε·Ἄρθητι καὶ βλήθητι εἰς τὴν θάλασσαν": {
+      "primary_thai": "พวกท่านสั่งภูเขานี้ว่า ‹จงเคลื่อนออกไป และจงถูกโยนลงทะเล›",
+      "all_renderings": {
+        "พวกท่านสั่งภูเขานี้ว่า ‹จงเคลื่อนออกไป และจงถูกโยนลงทะเล›": [
+          {
+            "verse": "Matthew 21:21",
+            "rationale": "Per uW figs-explicit, τῷ ὄρει τούτῳ = the Mount-of-Olives (nearby) OR any-mountain (hyperbolic). Preserving figure-of-speech. Per uW figs-yousingular, commands to mountain are sg → เจ้า (for the tree/mountain addressee) implicit. Two aor-pass-impv (αἴρω + βάλλω): divine-passive-construction signals God-as-agent; Thai จง+verb imperatives. Rabbinic-idiom for impossible-task (\"uprooting mountains\" in b.Sanh. 24a describes great-scholars)."
           }
         ]
       },
@@ -27965,6 +28749,18 @@
       },
       "occurrences_count": 1
     },
+    "φοβούμεθα τὸν ὄχλον": {
+      "primary_thai": "เราก็กลัวฝูงชน",
+      "all_renderings": {
+        "เราก็กลัวฝูงชน": [
+          {
+            "verse": "Matthew 21:26",
+            "rationale": "φοβέομαι pres-mid-ind 1pl. Per uW figs-explicit, they fear mob-violence/riot. Thai กลัวฝูงชน literal but thai_summary implicit."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "φραγελλώσας": {
       "primary_thai": "เมื่อเฆี่ยน...แล้ว",
       "all_renderings": {
@@ -27972,6 +28768,18 @@
           {
             "verse": "Mark 15:15",
             "rationale": "φραγελλόω — LATIN LOANWORD (flagellare 'to whip') via Greek transliteration (per uW TN translate-unknown — Roman scourging with flagellum, a whip with bone/metal shards). Thai เฆี่ยน is the standard vocabulary for whipping/flogging. The Thai rendering is not a transliteration; that would be over-literal. Per uW figs-explicit, Pilate commanded soldiers to do the flogging — Thai leaves this implicit just as Greek does."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "φραγμὸν αὐτῷ περιέθηκεν": {
+      "primary_thai": "ก่อกำแพงล้อมรอบ",
+      "all_renderings": {
+        "ก่อกำแพงล้อมรอบ": [
+          {
+            "verse": "Matthew 21:33",
+            "rationale": "φραγμός (4x NT) = fence/wall/hedge. Per uW translate-unknown could be stone-wall or hedge-of-bushes. Thai กำแพง (wall) most natural since Palestinian-vineyards typically had stone-walls; adapted from ก่อ (build-up). περιτίθημι aor \"placed-around\"."
           }
         ]
       },
@@ -30089,6 +30897,18 @@
       },
       "occurrences_count": 1
     },
+    "ἀπέκτειναν": {
+      "primary_thai": "ฆ่าเสีย",
+      "all_renderings": {
+        "ฆ่าเสีย": [
+          {
+            "verse": "Matthew 21:39",
+            "rationale": "Thai ฆ่าเสีย (completed-action with เสีย-particle for definitive-finality)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἀπέλυεν": {
       "primary_thai": "เคยปล่อย",
       "all_renderings": {
@@ -30168,6 +30988,30 @@
           {
             "verse": "Matthew 20:2",
             "rationale": "Plain ส่ง (not royal ทรงส่ง) — human subject in parable."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἀπέστειλεν δύο μαθητὰς": {
+      "primary_thai": "ทรงใช้สาวกสองคนออกไป",
+      "all_renderings": {
+        "ทรงใช้สาวกสองคนออกไป": [
+          {
+            "verse": "Matthew 21:1",
+            "rationale": "ἀποστέλλω aor 3sg \"sent\" — divine subject so royal ทรงใช้. μαθητής → สาวก (established Matt 5:1 onward)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἀπέστειλεν τοὺς δούλους αὐτοῦ": {
+      "primary_thai": "เขาก็ส่งพวกทาสไป",
+      "all_renderings": {
+        "เขาก็ส่งพวกทาสไป": [
+          {
+            "verse": "Matthew 21:34",
+            "rationale": "δοῦλος (124x) established glossary ทาส (Matt 10:24 etc.). Parable-human-master sends so non-royal ส่ง. พวกทาส preserves plurality."
           }
         ]
       },
@@ -30325,9 +31169,15 @@
             "verse": "Mark 12:1",
             "rationale": "ἀποδημέω 'go-abroad/travel-to-distant-country.' Thai ออกเดินทางไปต่างแดน preserves the 'away/abroad' sense, which is narratively important: the owner's absence sets up the opportunity for the tenants' rebellion (cf. 13:34 master-away motif)."
           }
+        ],
+        "เดินทางไปต่างถิ่น": [
+          {
+            "verse": "Matthew 21:33",
+            "rationale": "ἀποδημέω (6x) aor \"traveled-abroad\". Thai เดินทางไปต่างถิ่น."
+          }
         ]
       },
-      "occurrences_count": 1
+      "occurrences_count": 2
     },
     "ἀπεκάλυψας αὐτὰ νηπίοις": {
       "primary_thai": "ทรงเปิดเผยให้แก่ผู้ที่เป็นเหมือนเด็กเล็ก",
@@ -30561,6 +31411,18 @@
       },
       "occurrences_count": 1
     },
+    "ἀποδώσουσιν αὐτῷ τοὺς καρποὺς ἐν τοῖς καιροῖς αὐτῶν": {
+      "primary_thai": "จะมอบผลตามเวลาเก็บเกี่ยวให้แก่เจ้าของ",
+      "all_renderings": {
+        "จะมอบผลตามเวลาเก็บเกี่ยวให้แก่เจ้าของ": [
+          {
+            "verse": "Matthew 21:41",
+            "rationale": "ἀποδίδωμι fut 3pl \"will-give-back\". Per uW figs-idiom ἐν τοῖς καιροῖς αὐτῶν \"in their-times\" = at harvest-time (echoes v.34). Thai ตามเวลาเก็บเกี่ยว (at harvest-time)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἀποδώσουσιν περὶ αὐτοῦ λόγον": {
       "primary_thai": "พวกเขาจะต้องให้การสำหรับคำนั้น",
       "all_renderings": {
@@ -30689,9 +31551,15 @@
             "verse": "Matthew 20:22",
             "rationale": "Per uW figs-explicit: Jesus now addresses the TWO SONS (plural οἴδατε), not the mother. Shift of addressee from v.21. Royal ตรัสตอบ."
           }
+        ],
+        "พระเยซูตรัสตอบ": [
+          {
+            "verse": "Matthew 21:21",
+            "rationale": "ἀποκρίνομαι aor-pass-dep-ptcp + εἶπεν — redundant-aorist-couplet common in Matthew. Thai collapses idiomatically. Divine-subject royal ตรัสตอบ."
+          }
         ]
       },
-      "occurrences_count": 1
+      "occurrences_count": 2
     },
     "ἀποκριθεὶς δὲ ὁ Ἰησοῦς εἶπεν αὐτῷ": {
       "primary_thai": "พระเยซูตรัสตอบว่า",
@@ -31008,6 +31876,18 @@
           {
             "verse": "Matthew 13:41",
             "rationale": "Per uW figs-123person: Jesus speaks of Son-of-Man in 3rd-person self-reference. Divine subject → ทรงใช้ (royal-send). ἀποστέλλω compound ἀπό+στέλλω 'send-out-with-authority.' Thai 'ทรงใช้...ออกไป' (royally-send-out). NEW GLOSSARY: ἀποστέλλω (Jesus-subject) → ทรงใช้...ออกไป."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἀποστελεῖ αὐτούς": {
+      "primary_thai": "เขาจะส่งมาให้",
+      "all_renderings": {
+        "เขาจะส่งมาให้": [
+          {
+            "verse": "Matthew 21:3",
+            "rationale": "ἀποστέλλω fut-act-ind 3sg. Subject ambiguous per uW figs-gendernotations — either the owner releasing them OR ὁ κύριος sending them back after use. Following BSB/ULT reading: the owner releases them. Non-royal ส่ง since human-owner subject."
           }
         ]
       },
@@ -31492,6 +32372,18 @@
           {
             "verse": "Matthew 20:3",
             "rationale": "ἀργός (8x, low-freq) acc.pl.masc. = \"idle / without work / unemployed\". Substantival-adjective; Thai \"โดยไม่ได้ทำอะไร\" preserves the idle/unemployed sense better than \"เกียจคร้าน\" (lazy) which carries moral freight the Greek doesn't — these are willing workers who just haven't been hired yet (v.7 confirms)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἀρθήσεται ἀφ’ὑμῶν ἡ βασιλεία τοῦ θεοῦ": {
+      "primary_thai": "อาณาจักรของพระเจ้าจะถูกริบจากพวกท่าน",
+      "all_renderings": {
+        "อาณาจักรของพระเจ้าจะถูกริบจากพวกท่าน": [
+          {
+            "verse": "Matthew 21:43",
+            "rationale": "Per uW figs-metaphor + figs-activepassive, divine-passive = God-as-agent. αἴρω fut-pass \"be-taken-away\". Thai ถูกริบ (passive-seized-from) preserves divine-passive-force. βασιλεία τοῦ θεοῦ preserved ของพระเจ้า (second of only-4x Matthean, matching v.31)."
           }
         ]
       },
@@ -32191,6 +33083,18 @@
       },
       "occurrences_count": 1
     },
+    "ἄλλοι δὲ ἔκοπτον κλάδους ἀπὸ τῶν δένδρων": {
+      "primary_thai": "บ้างก็ตัดกิ่งไม้จากต้นไม้",
+      "all_renderings": {
+        "บ้างก็ตัดกิ่งไม้จากต้นไม้": [
+          {
+            "verse": "Matthew 21:8",
+            "rationale": "ἄλλοι (per uW figs-nominaladj substantival \"others\") = some different people. κόπτω impf 3pl \"were cutting\" (iterative). κλάδος (11x) = branch; δένδρον (25x) = tree. Thai ต้นไม้ (tree) + กิ่งไม้ (branch). Note the imperfect ἔκοπτον/ἐστρώννυον vs. the aorist ἔστρωσαν — iterative action of the second group."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἄλλοι δὲ ἔλεγον ὅτι Ἠλίας ἐστίν": {
       "primary_thai": "บ้างก็ว่า 'ท่านคือเอลียาห์'",
       "all_renderings": {
@@ -32210,6 +33114,18 @@
           {
             "verse": "Mark 4:18",
             "rationale": "Parallel to vv.15, 16. πρὸς τὰς ἀκάνθας per v.7 = 'ในพงหนาม.' Per uW figs-metaphor: preserve the metaphor. 'เมล็ดที่หว่าน' (seed that-is-sown) keeps the imagery explicit."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἄλλους δούλους πλείονας τῶν πρώτων": {
+      "primary_thai": "พวกทาสอื่นๆ...จำนวนมากกว่าครั้งแรก",
+      "all_renderings": {
+        "พวกทาสอื่นๆ...จำนวนมากกว่าครั้งแรก": [
+          {
+            "verse": "Matthew 21:36",
+            "rationale": "Per uW figs-nominaladj τῶν πρώτων substantival \"the-first-ones\" = previous-servants. πλείων comparative \"more\". Per uW translate-ordinal, Thai uses cardinal ครั้งแรก (first-time) for clarity."
           }
         ]
       },
@@ -32306,6 +33222,18 @@
           {
             "verse": "Mark 8:37",
             "rationale": "Per uW figs-gendernotations: generic-person."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἄνθρωπος εἶχεν τέκνα δύο": {
+      "primary_thai": "ชายคนหนึ่งมีบุตรสองคน",
+      "all_renderings": {
+        "ชายคนหนึ่งมีบุตรสองคน": [
+          {
+            "verse": "Matthew 21:28",
+            "rationale": "Parable-opener, per uW figs-parables \"there-was-a-man\"-style. τέκνον (99x) gender-inclusive \"child\" — per uW and Greek neuter, though culturally-sons in farming-context. Thai บุตร (offspring, used both m and f — though parable-context clearly sons, since daughters wouldn't typically work vineyard)."
           }
         ]
       },
@@ -32681,6 +33609,18 @@
       },
       "occurrences_count": 3
     },
+    "Ἀκούεις τί οὗτοι λέγουσιν": {
+      "primary_thai": "ท่านได้ยินที่เด็กเหล่านี้พูดหรือ?",
+      "all_renderings": {
+        "ท่านได้ยินที่เด็กเหล่านี้พูดหรือ?": [
+          {
+            "verse": "Matthew 21:16",
+            "rationale": "Chief priests + scribes to Jesus — hostile-register. Per uW figs-yousingular, ἀκούεις is sg (direct question to Jesus). Thai ท่าน (neutral-polite, hostile-outsider register matching Matt 12:38 precedent)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "Ἀκούετε": {
       "primary_thai": "จงฟังเถิด",
       "all_renderings": {
@@ -32850,7 +33790,7 @@
       "occurrences_count": 1
     },
     "Ἀμὴν λέγω ὑμῖν": {
-      "primary_thai": "เราบอกความจริงแก่พวกท่าน",
+      "primary_thai": "เราบอกความจริงแก่พวกท่านว่า",
       "all_renderings": {
         "เราบอกความจริงแก่พวกท่าน": [
           {
@@ -32884,10 +33824,14 @@
           {
             "verse": "Matthew 19:23",
             "rationale": "Per glossary (Matt 5:18, 18:3 etc.): ἀμὴν λέγω ὑμῖν → เราบอกความจริงแก่พวกท่านว่า. Matthean-signature emphatic-assertion. Royal 'เรา' per RULES §3."
+          },
+          {
+            "verse": "Matthew 21:21",
+            "rationale": "Amen-formula, Matthean-favorite (30x). Jesus-self-reference royal เรา. Thai บอกความจริง (standard-Thai rendering, established throughout Matt)."
           }
         ]
       },
-      "occurrences_count": 7
+      "occurrences_count": 8
     },
     "Ἀμὴν λέγω ὑμῖν ὅτι": {
       "primary_thai": "เราบอกความจริงแก่พวกท่านว่า",
@@ -33129,6 +34073,18 @@
       },
       "occurrences_count": 1
     },
+    "Ἄλλην παραβολὴν ἀκούσατε": {
+      "primary_thai": "จงฟังคำอุปมาอีกเรื่องหนึ่ง",
+      "all_renderings": {
+        "จงฟังคำอุปมาอีกเรื่องหนึ่ง": [
+          {
+            "verse": "Matthew 21:33",
+            "rationale": "ἄλλην = \"another\" — parable-sequence-marker following two-sons. ἀκούσατε aor-act-impv-2pl \"listen\". Thai จงฟัง imperative for formal parable-opening."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "Ἄλλους ἔσωσεν, ἑαυτὸν οὐ δύναται σῶσαι": {
       "primary_thai": "เขาช่วยคนอื่นให้รอดได้ แต่ช่วยตนเองไม่ได้",
       "all_renderings": {
@@ -33136,6 +34092,18 @@
           {
             "verse": "Mark 15:31",
             "rationale": "Antithetical parallelism: 'others he-saved / himself he-cannot-save.' Per uW figs-explicit, 'others' refers to Jesus's healing/exorcism ministry. Thai preserves the chiasmic contrast. σῴζω here carries PHYSICAL-RESCUE sense (from cross), but Markan ambiguity lets readers hear the DEEPER SALVATION meaning — precisely by NOT saving himself, Jesus saves others."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Ἄνθρωπος ἦν οἰκοδεσπότης": {
+      "primary_thai": "มีเจ้าของที่ดินคนหนึ่ง",
+      "all_renderings": {
+        "มีเจ้าของที่ดินคนหนึ่ง": [
+          {
+            "verse": "Matthew 21:33",
+            "rationale": "Per uW writing-participants, formal parable-participant-introduction. οἰκοδεσπότης (12x) \"master-of-house/landowner\". CONTEXTUAL-VARIANT: Matt 13:27 field-context เจ้าของนา; Matt 13:52 / 20:1 house-context เจ้าของบ้าน; here agricultural-estate-context → เจ้าของที่ดิน (landowner, fits vineyard-planting). Another new-context: field-vs-household binary now extended to estate-owner with multiple-improvements (wall, press, tower)."
           }
         ]
       },
@@ -33889,6 +34857,18 @@
       },
       "occurrences_count": 1
     },
+    "ἐθαύμασαν": {
+      "primary_thai": "ประหลาดใจ",
+      "all_renderings": {
+        "ประหลาดใจ": [
+          {
+            "verse": "Matthew 21:20",
+            "rationale": "θαυμάζω aor 3pl \"marveled/were-amazed\". Established Matt 13:54 ประหลาดใจ for unbelieving-astonishment; here disciple-astonishment works similarly (awe-at-supernatural-power). Thai ประหลาดใจ."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἐθαύμασαν οἱ ὄχλοι": {
       "primary_thai": "ฝูงชนก็อัศจรรย์ใจ",
       "all_renderings": {
@@ -33957,9 +34937,15 @@
             "verse": "Matthew 15:30",
             "rationale": "Per glossary: θεραπεύω → ทรงรักษา...ให้หาย."
           }
+        ],
+        "ทรงรักษาพวกเขา": [
+          {
+            "verse": "Matthew 21:14",
+            "rationale": "θεραπεύω (43x) aor-act 3sg \"healed\". Divine-subject royal ทรงรักษา (established Matt 4:24 onward)."
+          }
         ]
       },
-      "occurrences_count": 1
+      "occurrences_count": 2
     },
     "ἐθεράπευσεν αὐτοὺς πάντας": {
       "primary_thai": "ทรงรักษาเขาทุกคน",
@@ -35095,6 +36081,18 @@
       },
       "occurrences_count": 1
     },
+    "ἐλθόντος αὐτοῦ εἰς τὸ ἱερὸν": {
+      "primary_thai": "พระองค์เสด็จเข้าไปในบริเวณพระวิหาร",
+      "all_renderings": {
+        "พระองค์เสด็จเข้าไปในบริเวณพระวิหาร": [
+          {
+            "verse": "Matthew 21:23",
+            "rationale": "Gen-abs. ἐλθόντος here = \"coming-back\" (per uW figs-go). Divine-royal เสด็จเข้า. ἱερόν → บริเวณพระวิหาร (temple-courts, established v.12)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἐλθόντων πρὸς τὸν ὄχλον": {
       "primary_thai": "เมื่อพระองค์กับเหล่าสาวกเสด็จมาถึงฝูงชน",
       "all_renderings": {
@@ -35573,6 +36571,18 @@
       },
       "occurrences_count": 1
     },
+    "ἐν ποίᾳ ἐξουσίᾳ ταῦτα ποιῶ": {
+      "primary_thai": "เรากระทำสิ่งเหล่านี้ด้วยสิทธิอำนาจใด",
+      "all_renderings": {
+        "เรากระทำสิ่งเหล่านี้ด้วยสิทธิอำนาจใด": [
+          {
+            "verse": "Matthew 21:24",
+            "rationale": "Verbatim-repeat of the priests' question v.23 (Jesus throws it back) — preserves the cyclical-rhetoric. Jesus-subject now royal-self-reference เรา."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἐν στολαῖς περιπατεῖν": {
       "primary_thai": "สวมเสื้อคลุมยาวเดินอวด",
       "all_renderings": {
@@ -35955,6 +36965,18 @@
       },
       "occurrences_count": 1
     },
+    "ἐν τῇ προσευχῇ πιστεύοντες": {
+      "primary_thai": "อธิษฐาน...ด้วยความเชื่อ",
+      "all_renderings": {
+        "อธิษฐาน...ด้วยความเชื่อ": [
+          {
+            "verse": "Matthew 21:22",
+            "rationale": "προσευχή (36x) prayer; πιστεύοντες pres-act-ptcp \"believing\" — modal-participle \"believingly\" qualifying aiteo. Thai ด้วยความเชื่อ (with faith)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἐν τῇ πρύμνῃ": {
       "primary_thai": "ที่ท้ายเรือ",
       "all_renderings": {
@@ -36317,6 +37339,18 @@
       },
       "occurrences_count": 1
     },
+    "ἐν ὁδῷ δικαιοσύνης": {
+      "primary_thai": "ในทางแห่งความชอบธรรม",
+      "all_renderings": {
+        "ในทางแห่งความชอบธรรม": [
+          {
+            "verse": "Matthew 21:32",
+            "rationale": "Per uW figs-metaphor + figs-abstractnouns. Could mean (1) John lived-righteously OR (2) John showed-way-of-righteousness. Thai preserves figure ในทางแห่งความชอบธรรม. ὁδός δικαιοσύνης echoes Prov 8:20, 16:31 righteous-path idiom."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἐν ὁρίοις Ζαβουλὼν καὶ Νεφθαλίμ": {
       "primary_thai": "ในเขตแดนของเผ่าเศบูลุนและเผ่านัฟทาลี",
       "all_renderings": {
@@ -36591,6 +37625,18 @@
       },
       "occurrences_count": 1
     },
+    "ἐξ οὐρανοῦ ἢ ἐξ ἀνθρώπων": {
+      "primary_thai": "มาจากสวรรค์หรือจากมนุษย์",
+      "all_renderings": {
+        "มาจากสวรรค์หรือจากมนุษย์": [
+          {
+            "verse": "Matthew 21:25",
+            "rationale": "Per uW figs-metonymy, οὐρανός = God (rabbinic-avoidance-idiom for God's name; same usage \"kingdom-of-heaven\"). Thai preserves literal สวรรค์ — thai_summary explains the idiom. ἄνθρωπος per uW figs-gendernotations generic = humans not only males. Thai มนุษย์ gender-neutral."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἐξ οὐρανοῦ...ἢ ἐξ ἀνθρώπων": {
       "primary_thai": "มาจากสวรรค์หรือมาจากมนุษย์",
       "all_renderings": {
@@ -36687,6 +37733,18 @@
       },
       "occurrences_count": 1
     },
+    "ἐξέβαλεν πάντας τοὺς πωλοῦντας καὶ ἀγοράζοντας": {
+      "primary_thai": "ทรงขับไล่คนทั้งปวงที่ซื้อขายอยู่...ออกไป",
+      "all_renderings": {
+        "ทรงขับไล่คนทั้งปวงที่ซื้อขายอยู่...ออกไป": [
+          {
+            "verse": "Matthew 21:12",
+            "rationale": "ἐκβάλλω (82x) aor-act-ind \"cast-out\". Jesus-subject royal ทรงขับไล่. πωλέω + ἀγοράζω = sellers + buyers. Per uW figs-explicit, they were selling sacrificial-animals and temple-wares. Thai ซื้อขาย (buying-selling) collapses the two participles idiomatically."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἐξέβαλεν τὰ πνεύματα λόγῳ": {
       "primary_thai": "ทรงขับวิญญาณเหล่านั้นออกด้วยพระดำรัสเพียงคำเดียว",
       "all_renderings": {
@@ -36711,6 +37769,18 @@
       },
       "occurrences_count": 1
     },
+    "ἐξέβαλον ἔξω τοῦ ἀμπελῶνος": {
+      "primary_thai": "โยนออกไปนอกสวนองุ่น",
+      "all_renderings": {
+        "โยนออกไปนอกสวนองุ่น": [
+          {
+            "verse": "Matthew 21:39",
+            "rationale": "ἐκβάλλω aor 3pl \"threw-out\". ἔξω \"outside\". Matthean-order: expel-then-kill. Mark 12:8 reverses (kill-then-throw-out). Matthean-distinct sequence echoes Jesus's crucifixion ἔξω τῆς πόλεως (Heb 13:12) — Jesus killed outside Jerusalem."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἐξέδετο αὐτὸν γεωργοῖς": {
       "primary_thai": "ให้คนทำสวนเช่า",
       "all_renderings": {
@@ -36719,9 +37789,15 @@
             "verse": "Mark 12:1",
             "rationale": "ἐκδίδωμι (mid.) in commercial sense = 'lease-out/rent-out.' γεωργός here = tenant-farmers renting the vineyard under a share-cropping arrangement (per uW TN on 12:1–2). Thai คนทำสวน ('garden/vineyard-workers') + เช่า ('rent') captures both the tenancy and the agricultural role. Glossary entry for γεωργός established here: คนทำสวน."
           }
+        ],
+        "ให้คนเช่าสวนเช่า": [
+          {
+            "verse": "Matthew 21:33",
+            "rationale": "ἐκδίδωμι aor-mid \"leased-out\". γεωργός (19x) = farmer (here vineyard-tenant). Per uW translate-unknown, share-cropping arrangement (rent paid as share-of-crop). Thai คนเช่าสวน (one-who-rents-garden) captures tenant-farmer sense."
+          }
         ]
       },
-      "occurrences_count": 1
+      "occurrences_count": 2
     },
     "ἐξέπνευσεν": {
       "primary_thai": "สิ้นพระชนม์",
@@ -37137,6 +38213,18 @@
       },
       "occurrences_count": 1
     },
+    "ἐξηράνθη παραχρῆμα": {
+      "primary_thai": "เหี่ยวแห้งในทันที",
+      "all_renderings": {
+        "เหี่ยวแห้งในทันที": [
+          {
+            "verse": "Matthew 21:19",
+            "rationale": "ξηραίνω (15x) aor-pass 3sg \"was-withered/dried-up\". παραχρῆμα (18x) = immediately/instantaneously. Thai ในทันที."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἐξηραμμένην ἐκ ῥιζῶν": {
       "primary_thai": "เหี่ยวแห้งตั้งแต่ราก",
       "all_renderings": {
@@ -37261,6 +38349,18 @@
       },
       "occurrences_count": 1
     },
+    "ἐξῆλθεν ἔξω τῆς πόλεως εἰς Βηθανίαν": {
+      "primary_thai": "เสด็จออกจากกรุงเยรูซาเล็ม ไปยังหมู่บ้านเบธานี",
+      "all_renderings": {
+        "เสด็จออกจากกรุงเยรูซาเล็ม ไปยังหมู่บ้านเบธานี": [
+          {
+            "verse": "Matthew 21:17",
+            "rationale": "ἐξέρχομαι divine-subject royal เสด็จออก. Βηθανία (12x) village ~3km east of Jerusalem on Mt Olives; home of Mary/Martha/Lazarus. Thai เบธานี + หมู่บ้าน-prefix standard."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἐξῆλθον": {
       "primary_thai": "ออกมาหาพระองค์",
       "all_renderings": {
@@ -37304,6 +38404,18 @@
           {
             "verse": "Mark 14:46",
             "rationale": "Per uW TN figs-parallelism + figs-doublet, the two clauses 'laid-hands-on' + 'seized' mean similar things, joined for emphasis. Per uW TN figs-idiom, 'laid their hands on' = idiomatic-seizing. Thai ลงมือจับ ('put-down-hands-and-grab') + จับกุม ('arrest') preserves both dimensions (physical-action + formal-arrest). ἐκράτησαν echoes v.1 (priests' intent), v.44 (Judas's instruction) — the triple-κρατέω now fulfilled in v.46."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἐπέθηκαν ἐπ’αὐτῶν τὰ ἱμάτια": {
+      "primary_thai": "เอาเสื้อคลุมของตนปูบนหลังลา",
+      "all_renderings": {
+        "เอาเสื้อคลุมของตนปูบนหลังลา": [
+          {
+            "verse": "Matthew 21:7",
+            "rationale": "ἐπιτίθημι aor 3pl \"placed upon\". ἱμάτιον (60x) outer-garment/cloak — established Matt 5:40 เสื้อคลุม. Thai adds หลังลา (lit. \"back of the donkey\") for anatomical-clarity (per uW figs-explicit, the cloaks went on the animal's back as improvised saddle)."
           }
         ]
       },
@@ -37429,6 +38541,18 @@
       },
       "occurrences_count": 1
     },
+    "ἐπανάγων εἰς τὴν πόλιν": {
+      "primary_thai": "เสด็จกลับเข้ากรุงเยรูซาเล็ม",
+      "all_renderings": {
+        "เสด็จกลับเข้ากรุงเยรูซาเล็ม": [
+          {
+            "verse": "Matthew 21:18",
+            "rationale": "ἐπανάγω (3x NT: Matt 21:18, Luke 5:3, 5:4) pres-act-ptcp \"returning/heading-back\". Per uW figs-explicit, \"the city\" = Jerusalem — Thai makes explicit. Royal เสด็จกลับ."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἐπαναστήσονται τέκνα ἐπὶ γονεῖς καὶ θανατώσουσιν αὐτούς": {
       "primary_thai": "บุตรจะลุกขึ้นต่อสู้บิดามารดาและทำให้เขาถูกฆ่า",
       "all_renderings": {
@@ -37460,6 +38584,22 @@
           {
             "verse": "Mark 11:12",
             "rationale": "πεινάω aor. 'became hungry.' ราชาศัพท์ ทรง- for Jesus's physical state. Mark's unusual detail of Jesus's hunger creates narrative setup for the fig-tree pericope."
+          },
+          {
+            "verse": "Matthew 21:18",
+            "rationale": "πεινάω (23x) aor 3sg \"hungered\". Divine-subject royal ทรง+หิว. Jesus's real-humanity highlighted (cf. Matt 4:2 40-day fast) yet ironically juxtaposed with his divine-authority over nature (fig-tree-curse)."
+          }
+        ]
+      },
+      "occurrences_count": 2
+    },
+    "ἐπεκάθισεν ἐπάνω αὐτῶν": {
+      "primary_thai": "พระเยซูก็ทรงประทับอยู่บนนั้น",
+      "all_renderings": {
+        "พระเยซูก็ทรงประทับอยู่บนนั้น": [
+          {
+            "verse": "Matthew 21:7",
+            "rationale": "ἐπικαθίζω HAPAX (NT-only here) = \"sit-upon\" (aor-act-ind 3sg). Compound ἐπί+καθίζω intensifies \"set-on-top-of\". Jesus-subject so royal ทรงประทับ (royal-sit, as for Jesus on throne Matt 19:28 etc.). Per uW figs-extrainfo, deliberately ambiguous which animal he sat on — αὐτῶν could refer to the cloaks OR the two animals. Thai บนนั้น (on those) preserves ambiguity."
           }
         ]
       },
@@ -37663,6 +38803,18 @@
       },
       "occurrences_count": 1
     },
+    "ἐπεὶ εἰς προφήτην αὐτὸν εἶχον": {
+      "primary_thai": "เพราะประชาชนถือว่าพระองค์ทรงเป็นผู้เผยพระวจนะ",
+      "all_renderings": {
+        "เพราะประชาชนถือว่าพระองค์ทรงเป็นผู้เผยพระวจนะ": [
+          {
+            "verse": "Matthew 21:46",
+            "rationale": "εἰς προφήτην ἔχω idiom = regard-as prophet. Echoes v.26 (priests acknowledged crowd regarded John as prophet). Thai ถือว่า (regard-as) + ทรงเป็น (royal-be) for Jesus's divine-subject."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἐπεὶ παρεκάλεσάς με": {
       "primary_thai": "เพราะเจ้าได้อ้อนวอนเรา",
       "all_renderings": {
@@ -37836,6 +38988,18 @@
           {
             "verse": "Mark 14:72",
             "rationale": "INTERPRETIVE CRUX. Per uW TN figs-idiom, ἐπιβάλλω here has FOUR possible readings: (1) 'having-broken-down' (emotional collapse — traditional KJV/BSB); (2) 'having-reflected' (thought about it); (3) 'having-thrown-himself-down' (fell on ground); (4) 'began-[to weep]' (ingressive). Thai ใจแตกสลาย ('heart-shattered') adopts option (1) with the emotional-breakdown sense, which is the most narrative-coherent reading following the oath-cursing denial. ἔκλαιεν impf. 'was-weeping' → ร้องไห้ (sustained-weeping; glossary established here)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἐπιβεβηκὼς ἐπὶ ὄνον καὶ ἐπὶ πῶλον υἱὸν ὑποζυγίου": {
+      "primary_thai": "ทรงประทับบนแม่ลา และบนลูกลา คือลูกของสัตว์ใช้งาน",
+      "all_renderings": {
+        "ทรงประทับบนแม่ลา และบนลูกลา คือลูกของสัตว์ใช้งาน": [
+          {
+            "verse": "Matthew 21:5",
+            "rationale": "ἐπιβαίνω perf-act-ptcp \"having-mounted/riding-upon\". Zech-quote follows LXX closely but preserves Hebrew-poetic-parallelism (one animal described two ways). υἱὸν ὑποζυγίου \"son of a beast-of-burden\" = foal-of-a-work-animal per uW figs-idiom/translate-unknown. ὑποζύγιος (2x NT: here, 2 Pet 2:16) = beast-of-burden, usually donkey. Thai สัตว์ใช้งาน (work-animal) captures semantic-domain. Per uW figs-extrainfo: possible to refer to one OR two animals — Thai uses AND-construction matching Matthew's narrative (v.2 mentions two) while the poetic-parallelism of the Zech-original refers to one."
           }
         ]
       },
@@ -38064,6 +39228,18 @@
           {
             "verse": "Mark 5:13",
             "rationale": "Per uW figs-activepassive: passive πνίγω 'be choked, drown.' Thai 'จมน้ำตาย' (sink-water-die) idiomatic — 'จม' (sink) + 'น้ำ' (water) + 'ตาย' (die) compresses the Greek descriptive into one Thai construction. Imperfect = 'were drowning' (the action was unfolding). Translates the result as completed for Thai naturalness."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἐποίησαν αὐτοῖς ὡσαύτως": {
+      "primary_thai": "ก็ทำต่อพวกเขาเช่นเดียวกัน",
+      "all_renderings": {
+        "ก็ทำต่อพวกเขาเช่นเดียวกัน": [
+          {
+            "verse": "Matthew 21:36",
+            "rationale": "Per uW figs-explicit, \"the-same\" = beat/killed/stoned. ὡσαύτως established เช่นเดียวกัน."
           }
         ]
       },
@@ -38457,6 +39633,18 @@
       },
       "occurrences_count": 1
     },
+    "ἐρεῖ ἡμῖν·Διὰ τί οὖν οὐκ ἐπιστεύσατε αὐτῷ": {
+      "primary_thai": "ท่านจะย้อนถามพวกเราว่า ‹แล้วทำไมพวกเจ้าจึงไม่เชื่อยอห์น?›",
+      "all_renderings": {
+        "ท่านจะย้อนถามพวกเราว่า ‹แล้วทำไมพวกเจ้าจึงไม่เชื่อยอห์น?›": [
+          {
+            "verse": "Matthew 21:25",
+            "rationale": "Per uW figs-rquestion, Jesus's anticipated rebuke as question-form. Priests internally quote Jesus-to-them: ท่าน (they refer to Jesus as ท่าน in their private-consultation) + inner quote-block ‹ › for Jesus's anticipated-words. Jesus addressing them collectively → พวกเจ้า (plural-downgrade as rebuke)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἐρεῖτε τῷ ὄρει τούτῳ·Μετάβα ἔνθεν ἐκεῖ": {
       "primary_thai": "พวกท่านจะสั่งภูเขานี้ว่า ‹จงเคลื่อนจากที่นี่ไปที่นั่น›",
       "all_renderings": {
@@ -38536,6 +39724,18 @@
           {
             "verse": "Matthew 13:30",
             "rationale": "θεριστής 'reaper/harvester' (per parable-explanation v.39 = angels). Thai 'ผู้เก็บเกี่ยว' standard. NEW GLOSSARY: θεριστής → ผู้เก็บเกี่ยว."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἐσείσθη πᾶσα ἡ πόλις": {
+      "primary_thai": "ทั้งเมืองก็ตื่นเต้นไปทั่ว",
+      "all_renderings": {
+        "ทั้งเมืองก็ตื่นเต้นไปทั่ว": [
+          {
+            "verse": "Matthew 21:10",
+            "rationale": "σείω aor-pass 3sg \"was-shaken\" (per uW figs-metaphor: figurative for agitation/excitement, either disturbance or excitement). Per uW figs-metonymy, πόλις \"city\" = people-of-city. Thai ตื่นเต้นไปทั่ว (stirred throughout) captures excited-agitation sense. Cf. Matt 2:3 same verb ἐταράχθη (different verb but similar sense) when Herod/Jerusalem reacts to Magi's news — Matthean-inclusio: Jesus's first entry disturbs Jerusalem, final entry shakes it."
           }
         ]
       },
@@ -38877,6 +40077,18 @@
       },
       "occurrences_count": 1
     },
+    "ἐφοβήθησαν τοὺς ὄχλους": {
+      "primary_thai": "ก็กลัวฝูงชน",
+      "all_renderings": {
+        "ก็กลัวฝูงชน": [
+          {
+            "verse": "Matthew 21:46",
+            "rationale": "Per uW figs-explicit, they feared crowd-violence if arrest-attempted publicly. Thai กลัวฝูงชน."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἐφοβήθησαν φόβον μέγαν": {
       "primary_thai": "หวาดกลัวอย่างยิ่ง",
       "all_renderings": {
@@ -38937,6 +40149,18 @@
       },
       "occurrences_count": 1
     },
+    "ἐφύτευσεν ἀμπελῶνα": {
+      "primary_thai": "ปลูกสวนองุ่น",
+      "all_renderings": {
+        "ปลูกสวนองุ่น": [
+          {
+            "verse": "Matthew 21:33",
+            "rationale": "φυτεύω aor 3sg \"planted\". ἀμπελών est. สวนองุ่น. Thai ปลูกสวนองุ่น matches standard Isa 5:2 LXX idiom (ἐφύτευσα ἀμπελῶνα LXX)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἐφώνησεν αὐτοὺς": {
       "primary_thai": "ทรงเรียกพวกเขา",
       "all_renderings": {
@@ -38968,6 +40192,18 @@
           {
             "verse": "Mark 15:33",
             "rationale": "Per uW TN figs-explicit, γῆ ambiguous — (1) the whole region around Jerusalem, or (2) the whole earth. Thai ทั่วแผ่นดิน preserves the ambiguity (แผ่นดิน can mean 'country/land' or 'earth'). Most scholars prefer regional sense (a localized phenomenon); theologically-loaded cosmic sense also possible."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἐφ’ὃν δ’ἂν πέσῃ λικμήσει αὐτόν": {
+      "primary_thai": "ถ้าศิลานี้ตกทับผู้ใด ผู้นั้นจะถูกบดขยี้",
+      "all_renderings": {
+        "ถ้าศิลานี้ตกทับผู้ใด ผู้นั้นจะถูกบดขยี้": [
+          {
+            "verse": "Matthew 21:44",
+            "rationale": "Per uW figs-metaphor, Jesus's final-judgment = stone-falling-on → crushing. λικμάω (2x NT: here + Luke 20:18) fut-act \"winnow/crush-to-dust\" — agricultural-image of grain-winnowing-to-chaff, but here violent-crushing. Thai บดขยี้ (crush-pulverize) per BSB. Preserves two-fold-metaphor: (1) fall-on-stone = stumble; (2) stone-falls-on = judgment."
           }
         ]
       },
@@ -39261,6 +40497,18 @@
       },
       "occurrences_count": 1
     },
+    "ἐὰν ἔχητε πίστιν καὶ μὴ διακριθῆτε": {
+      "primary_thai": "ถ้าพวกท่านมีความเชื่อและไม่สงสัย",
+      "all_renderings": {
+        "ถ้าพวกท่านมีความเชื่อและไม่สงสัย": [
+          {
+            "verse": "Matthew 21:21",
+            "rationale": "Per uW figs-parallelism the two clauses synonymous (having-faith = not-doubting). Could collapse but Thai preserves both per BSB. διακρίνω pass-aor \"be-divided/doubt\"."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἐὰν ἔχητε πίστιν ὡς κόκκον σινάπεως": {
       "primary_thai": "ถ้าพวกท่านมีความเชื่อเท่าเมล็ดมัสตาร์ดเมล็ดหนึ่ง",
       "all_renderings": {
@@ -39460,6 +40708,18 @@
           {
             "verse": "Mark 5:29",
             "rationale": "γινώσκω = know. Dative of means τῷ σώματι = 'by/in her body.' Thai 'รู้สึกได้ในร่างกาย' (sense/feel-in-body) preserves the embodied epistemology — she didn't just hope she was healed; she felt the change. This sets up the body-knowledge parallel with Jesus' body-knowledge in v.30."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἔγνωσαν ὅτι περὶ αὐτῶν λέγει": {
+      "primary_thai": "ตระหนักว่าพระองค์ทรงตรัสเกี่ยวกับพวกตน",
+      "all_renderings": {
+        "ตระหนักว่าพระองค์ทรงตรัสเกี่ยวกับพวกตน": [
+          {
+            "verse": "Matthew 21:45",
+            "rationale": "γινώσκω aor 3pl \"came-to-know/realized\". λέγει historical-present (Matthean-style). Thai ตระหนัก (realize). Divine-subject royal ทรงตรัส."
           }
         ]
       },
@@ -40519,6 +41779,18 @@
       },
       "occurrences_count": 1
     },
+    "ἔστιν θαυμαστὴ ἐν ὀφθαλμοῖς ἡμῶν": {
+      "primary_thai": "เป็นที่น่าอัศจรรย์ในสายตาของพวกเรา",
+      "all_renderings": {
+        "เป็นที่น่าอัศจรรย์ในสายตาของพวกเรา": [
+          {
+            "verse": "Matthew 21:42",
+            "rationale": "Per uW figs-metonymy ὀφθαλμοῖς \"eyes\" = judgment/perspective. θαυμαστός (6x NT) = marvelous/astonishing. Thai น่าอัศจรรย์ + ในสายตา (in-eyes, metonymic preserved)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἔστρωσαν εἰς τὴν ὁδόν": {
       "primary_thai": "ปู...ลงบนถนน",
       "all_renderings": {
@@ -40526,6 +41798,18 @@
           {
             "verse": "Mark 11:8",
             "rationale": "στρώννυμι 'spread/strew.' Thai ปู (spread out on ground) is the natural equivalent."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἔστρωσαν ἑαυτῶν τὰ ἱμάτια ἐν τῇ ὁδῷ": {
+      "primary_thai": "ปูเสื้อคลุมของตนลงบนถนน",
+      "all_renderings": {
+        "ปูเสื้อคลุมของตนลงบนถนน": [
+          {
+            "verse": "Matthew 21:8",
+            "rationale": "στρώννυμι aor 3pl \"spread out\". Thai ปู natural for spreading-on-ground. ὁδός → ถนน (street/road; preferred over ทาง for explicit-road context). Echoes 2 Kgs 9:13 royal-enthronement of Jehu."
           }
         ]
       },
@@ -40690,6 +41974,18 @@
           {
             "verse": "Mark 9:12",
             "rationale": "φημί (aor.-like ἔφη) — Mark's typical narrative-response verb for Jesus. Royal register 'ตรัส'."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἔφη αὐτοῖς καὶ αὐτός": {
+      "primary_thai": "พระองค์ก็ตรัสกับพวกเขา",
+      "all_renderings": {
+        "พระองค์ก็ตรัสกับพวกเขา": [
+          {
+            "verse": "Matthew 21:27",
+            "rationale": "φημί (67x) impf-act 3sg \"said\". καὶ αὐτός emphatic \"he-also/he-in-turn\". Divine-subject royal ตรัส."
           }
         ]
       },
@@ -41313,6 +42609,18 @@
       },
       "occurrences_count": 2
     },
+    "Ἐγώ,κύριε": {
+      "primary_thai": "ไปขอรับ ท่านพ่อ",
+      "all_renderings": {
+        "ไปขอรับ ท่านพ่อ": [
+          {
+            "verse": "Matthew 21:30",
+            "rationale": "Per uW figs-explicit, ἐγώ means \"I (will go)\" — implicit verb supplied. Per uW writing-politeness, κύριε here = \"sir/father\" polite-child-to-father. Thai ท่านพ่อ (respectful-father-address) + ขอรับ (male-polite-particle; Thai culture: son pledging obedience to father with polite-formality). The verbal-politeness contrasts with non-performance."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "Ἐγὼ καταλύσω τὸν ναὸν τοῦτον τὸν χειροποίητον": {
       "primary_thai": "‹เราจะทำลายพระวิหารแห่งนี้ที่สร้างด้วยมือมนุษย์",
       "all_renderings": {
@@ -41380,6 +42688,18 @@
           {
             "verse": "Mark 9:21",
             "rationale": "HAPAX LEGOMENON (NT): παιδιόθεν 'from childhood' (only here). Per uW figs-ellipsis + figs-abstractnouns. Thai 'ตั้งแต่ยังเยาว์วัย' (since-still-young-age) — formal-expression preserving the pathos."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Ἐκ στόματος νηπίων καὶ θηλαζόντων κατηρτίσω αἶνον": {
+      "primary_thai": "จากปากของเด็กเล็กและทารก พระองค์ทรงเตรียมคำสรรเสริญไว้",
+      "all_renderings": {
+        "จากปากของเด็กเล็กและทารก พระองค์ทรงเตรียมคำสรรเสริญไว้": [
+          {
+            "verse": "Matthew 21:16",
+            "rationale": "DIRECT CITATION of Ps 8:2 LXX (Ps 8:3 MT: יִסַּדְתָּ־עֹז \"you-have-established-strength\"; LXX κατηρτίσω αἶνον \"you-have-prepared-praise\"). Matthew follows LXX (praise) not MT (strength). νήπιος (14x) = very-small-child; θηλάζω (5x) pres-act-ptcp = nursing (substantival = nursing-infants). Per uW figs-doublet, the two terms emphasize \"youngest-children\" — could collapse but Thai preserves both for poetic-force. καταρτίζω (13x) \"prepare/perfect\" — God-as-subject so royal ทรงเตรียม + divine-sg \"you\" → พระองค์. αἶνος (2x NT: here + Luke 18:43) = praise."
           }
         ]
       },
@@ -41505,6 +42825,18 @@
       },
       "occurrences_count": 1
     },
+    "Ἐν ποίᾳ ἐξουσίᾳ ταῦτα ποιεῖς": {
+      "primary_thai": "ท่านกระทำสิ่งเหล่านี้ด้วยสิทธิอำนาจใด",
+      "all_renderings": {
+        "ท่านกระทำสิ่งเหล่านี้ด้วยสิทธิอำนาจใด": [
+          {
+            "verse": "Matthew 21:23",
+            "rationale": "Chief priests' hostile-interrogation. σοι/ποιεῖς sg (per uW figs-yousingular). Thai ท่าน (neutral-outsider-polite; NOT พระองค์ humble-divine since speakers are hostile-leaders). ἐξουσία → สิทธิอำνาจ (established Matt 7:29 etc.)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "Ἐν τῇ ἡμέρᾳ ἐκείνῃ": {
       "primary_thai": "ในวันนั้น",
       "all_renderings": {
@@ -41569,6 +42901,18 @@
       },
       "occurrences_count": 1
     },
+    "Ἐντραπήσονται τὸν υἱόν μου": {
+      "primary_thai": "พวกเขาคงจะเคารพบุตรของเรา",
+      "all_renderings": {
+        "พวกเขาคงจะเคารพบุตรของเรา": [
+          {
+            "verse": "Matthew 21:37",
+            "rationale": "ἐντρέπω (9x) fut-pass-ind 3pl \"will-be-abashed/respected\" — semantic-nuance: to feel-shame-before-and-therefore-defer-to. Thai เคารพ (respect). Per uW figs-explicit, implies \"give him my-share of the fruits as respected-son-and-heir\". Quoted internal-speech (per uW figs-infostructure could reverse-order)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "Ἐξ Αἰγύπτου ἐκάλεσα τὸν υἱόν μου": {
       "primary_thai": "«เราได้เรียกบุตรของเราออกจากอียิปต์»",
       "all_renderings": {
@@ -41612,6 +42956,18 @@
           {
             "verse": "Matthew 5:31",
             "rationale": "Per uW grammar-connect-words-phrases: δέ transitional 'and/now' introducing next-teaching-topic. Shorter-formula vs v.21/27 (no ὅτι, no τοῖς ἀρχαίοις). Thai 'มีคำกล่าวไว้อีกว่า' (there-are-said-again) connects to ongoing antithesis-series."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Ἐρωτήσω ὑμᾶς κἀγὼ λόγον ἕνα": {
+      "primary_thai": "เราก็จะถามพวกท่านสักข้อหนึ่งเช่นกัน",
+      "all_renderings": {
+        "เราก็จะถามพวกท่านสักข้อหนึ่งเช่นกัน": [
+          {
+            "verse": "Matthew 21:24",
+            "rationale": "ἐρωτάω fut-act-ind 1sg \"I-will-ask\". κἀγώ = \"I-also\" emphatic. λόγον ἕνα per uW figs-metonymy = one-thing-to-ask (Thai ข้อ for a formal-question-unit, not คำ). Jesus-self-ref royal เรา."
           }
         ]
       },
@@ -41972,6 +43328,18 @@
           {
             "verse": "Matthew 9:25",
             "rationale": "ἐγείρω aorist-passive 'was-raised.' Per uW figs-explicit: both resurrection AND standing-up. Thai ลุกขึ้น captures both. Passive voice implies divine-agent (Jesus). Matthew's compression — no 'talitha koum' Aramaic preserved here (Mark 5:41 distinctive)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἠγανάκτησαν": {
+      "primary_thai": "โกรธเคือง",
+      "all_renderings": {
+        "โกรธเคือง": [
+          {
+            "verse": "Matthew 21:15",
+            "rationale": "ἀγανακτέω (7x, low-freq) aor 3pl \"became-indignant\". Established Matt 20:24 (disciples-indignant at James/John's mother) → โกรธเคือง."
           }
         ]
       },
@@ -43045,6 +44413,18 @@
       },
       "occurrences_count": 1
     },
+    "ἤγαγον τὴν ὄνον καὶ τὸν πῶλον": {
+      "primary_thai": "พวกเขานำแม่ลากับลูกลามา",
+      "all_renderings": {
+        "พวกเขานำแม่ลากับลูกลามา": [
+          {
+            "verse": "Matthew 21:7",
+            "rationale": "ἄγω aor 3pl \"led/brought\". Both animals named as in v.2 (Matthean distinctive). Thai แม่ลา (fem donkey) + ลูกลา (colt) preserves the gendered-pair."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἤγγικεν": {
       "primary_thai": "อยู่ใกล้แล้ว",
       "all_renderings": {
@@ -43070,6 +44450,18 @@
           {
             "verse": "Matthew 4:17",
             "rationale": "Per RULES.md §4: Matthew-signature βασιλεία τῶν οὐρανῶν = อาณาจักรสวรรค์ (established MAT 3:2, 3:7 contexts). Per uW figs-explicit: ἐγγίζω here = 'near in time' → 'มาใกล้แล้ว' (has-drawn-near — perfect-tense force). Verbatim to MAT 3:2 'อาณาจักรสวรรค์มาใกล้แล้ว.' Note book-intro flag: Matthew uses 'kingdom of heavens' (~32x) as periphrasis for 'kingdom of God' — likely Jewish-pious circumlocution for the divine name via 'heavens' metonymy. THE FULL PHRASE ECHOES MAT 3:2 exactly — Matthew architecturally aligns John's proclamation (pre-ministry) with Jesus's proclamation (opening of public ministry). γάρ 'for' = causal grounding → เพราะ."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἤγγισεν ὁ καιρὸς τῶν καρπῶν": {
+      "primary_thai": "ใกล้ฤดูเก็บผล",
+      "all_renderings": {
+        "ใกล้ฤดูเก็บผล": [
+          {
+            "verse": "Matthew 21:34",
+            "rationale": "ἐγγίζω same verb as v.1 (approaching). Per uW figs-idiom καιρὸς τῶν καρπῶν \"time-of-the-fruits\" = harvest-season. Thai ฤดูเก็บผล natural. καρπός = grape-crop in vineyard-context."
           }
         ]
       },
@@ -43597,6 +44989,18 @@
       },
       "occurrences_count": 1
     },
+    "ἦλθεν γὰρ Ἰωάννης πρὸς ὑμᾶς": {
+      "primary_thai": "เพราะยอห์นมาหาพวกท่าน",
+      "all_renderings": {
+        "เพราะยอห์นมาหาพวกท่าน": [
+          {
+            "verse": "Matthew 21:32",
+            "rationale": "γάρ explanatory-linker from v.31. Ἰωάννης here without βαπτιστής but clear-referent = John-Baptist. Thai ยอห์น (established)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἦλθεν διὰ Σιδῶνος εἰς τὴν θάλασσαν τῆς Γαλιλαίας": {
       "primary_thai": "ผ่านทางเมืองไซดอน มายังทะเลกาลิลี",
       "all_renderings": {
@@ -43700,6 +45104,18 @@
           {
             "verse": "Matthew 12:42",
             "rationale": "Per uW figs-idiom: 'ends-of-the-earth' = far-away-place (hyperbolic — Sheba is Arabia, not literal-earth-edge). Per glossary precedent: 'ἀπ' ἄκρου γῆς → จากสุดปลายแผ่นดินโลก' (Matt 24:31). Thai preserved. Divine-royal 'เสด็จ' for Queen (royal-person). NEW GLOSSARY: πέρας → สุดปลาย."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἦλθεν ἐπ’αὐτήν": {
+      "primary_thai": "เสด็จเข้าไปใกล้ต้นนั้น",
+      "all_renderings": {
+        "เสด็จเข้าไปใกล้ต้นนั้น": [
+          {
+            "verse": "Matthew 21:19",
+            "rationale": "ἔρχομαι divine-subject royal เสด็จ. ἐπί + acc \"to/upon\" with motion-verb = \"came-to\"."
           }
         ]
       },
@@ -44547,6 +45963,18 @@
       },
       "occurrences_count": 1
     },
+    "ἰδὼν συκῆν μίαν": {
+      "primary_thai": "ทอดพระเนตรเห็นต้นมะเดื่อต้นหนึ่ง",
+      "all_renderings": {
+        "ทอดพระเนตรเห็นต้นมะเดื่อต้นหนึ่ง": [
+          {
+            "verse": "Matthew 21:19",
+            "rationale": "συκῆ (16x NT) = fig-tree. Thai ต้นมะเดื่อ (standard Thai Christian). Divine-sight royal ทอดพระเนตร."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἰδὼν τοὺς μαθητὰς": {
       "primary_thai": "ทอดพระเนตรเหล่าสาวก",
       "all_renderings": {
@@ -45039,6 +46467,18 @@
       },
       "occurrences_count": 1
     },
+    "ἵνα πληρωθῇ τὸ ῥηθὲν διὰ τοῦ προφήτου": {
+      "primary_thai": "เพื่อให้สำเร็จตามถ้อยคำที่ได้ตรัสไว้โดยผู้เผยพระวจนะ",
+      "all_renderings": {
+        "เพื่อให้สำเร็จตามถ้อยคำที่ได้ตรัสไว้โดยผู้เผยพระวจนะ": [
+          {
+            "verse": "Matthew 21:4",
+            "rationale": "Matthean fulfillment-formula (11x in Matt: 1:22, 2:15, 2:17, 2:23, 4:14, 8:17, 12:17, 13:35, 21:4, 26:56, 27:9). πληρόω \"fulfill\" → สำเร็จ. ῥηθέν aor-pass-ptcp neut-nom \"that-which-was-spoken\" → ถ้อยคำที่ได้ตรัสไว้ (divine-passive: God speaking). διὰ τοῦ προφήτου \"through the prophet\" (= Zechariah, per uW figs-explicit — Matthew leaves unnamed since the quote blends Zech 9:9 with Isa 62:11)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἵνα σχῶ ζωὴν αἰώνιον": {
       "primary_thai": "เพื่อจะได้ชีวิตนิรันดร์",
       "all_renderings": {
@@ -45394,6 +46834,18 @@
           {
             "verse": "Matthew 19:27",
             "rationale": "Per glossary: ἰδού → ดูเถิด. Per uW figs-exclusive: ἡμεῖς excludes-Jesus (Peter + disciples, not-including-Jesus). Thai 'ข้าพระองค์ทั้งหลาย' humble-disciple-plural-to-Jesus register per RULES §3. ἀφίημι (aorist-active) 'leave / forsake.' 'ได้สละ' (have-forsaken) preserves aorist-past-decisive-action. NEW GLOSSARY: ἀφίημι (disciples-leave-all) → สละ."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Ἰδοὺ ὁ βασιλεύς σου ἔρχεταί σοι": {
+      "primary_thai": "ดูเถิด กษัตริย์ของเจ้ากำลังเสด็จมาหาเจ้า",
+      "all_renderings": {
+        "ดูเถิด กษัตริย์ของเจ้ากำลังเสด็จมาหาเจ้า": [
+          {
+            "verse": "Matthew 21:5",
+            "rationale": "Ἰδού (200x) attention-particle — established ดูเถิด. βασιλεύς (115x) = king. Per uW figs-yousingular, σου/σοι are singular (addressing daughter-of-Zion/Jerusalem as a single feminine personification). Jesus as subject of ἔρχεται so divine เสด็จมา. Thai เจ้า sg for the daughter-of-Zion addressee."
           }
         ]
       },
@@ -46141,6 +47593,18 @@
       },
       "occurrences_count": 1
     },
+    "ὁ δὲ πλεῖστος ὄχλος": {
+      "primary_thai": "ฝูงชนจำนวนมาก",
+      "all_renderings": {
+        "ฝูงชนจำนวนมาก": [
+          {
+            "verse": "Matthew 21:8",
+            "rationale": "πλεῖστος superlative of πολύς \"very-large/greatest\" (per uW figs-hyperbole, overstatement for emphasis). Thai ฝูงชนจำนวนมาก (large crowd) captures hyperbolic-sense naturally."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ὁ δὲ στραφεὶς εἶπεν τῷ Πέτρῳ": {
       "primary_thai": "แต่พระองค์ทรงหันมาตรัสแก่เปโตร",
       "all_renderings": {
@@ -46242,6 +47706,18 @@
           {
             "verse": "Matthew 13:20",
             "rationale": "Per uW figs-metaphor + figs-explicitinfo: identification of person-as-soil. Thai 'เมล็ดที่หว่าน' (seed-that-was-sown) preserves passive aspect. Established 'พื้นที่เป็นหิน' from v.5."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ὁ δὲ Ἰησοῦς λέγει αὐτοῖς": {
+      "primary_thai": "พระเยซูตรัสตอบว่า",
+      "all_renderings": {
+        "พระเยซูตรัสตอบว่า": [
+          {
+            "verse": "Matthew 21:16",
+            "rationale": "λέγει historical-present. Divine-subject royal ตรัส. Thai adds ตอบ for conversational-clarity."
           }
         ]
       },
@@ -46415,6 +47891,18 @@
       },
       "occurrences_count": 1
     },
+    "ὁ κύριος αὐτῶν χρείαν ἔχει": {
+      "primary_thai": "องค์พระผู้เป็นเจ้าทรงต้องการสัตว์เหล่านี้",
+      "all_renderings": {
+        "องค์พระผู้เป็นเจ้าทรงต้องการสัตว์เหล่านี้": [
+          {
+            "verse": "Matthew 21:3",
+            "rationale": "κύριος here CRUX: per uW figs-explicit could be (1) Jesus himself or (2) God. Following ULT/BSB and context (Jesus is the one needing the animals), rendered as องค์พระผู้เป็นเจ้า — the divine-Christological title (Matt 3:3 LXX-YHWH κύριος precedent). χρείαν ἔχει \"has need\" divine-subject so royal ทรงต้องการ. αὐτῶν gen-pl refers to both animals; Thai makes this explicit with สัตว์เหล่านี้."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ὁ κύριος τοῦ ἀμπελῶνος": {
       "primary_thai": "เจ้าของสวนองุ่น",
       "all_renderings": {
@@ -46426,10 +47914,14 @@
           {
             "verse": "Matthew 20:8",
             "rationale": "κύριος here = \"owner/master\" of vineyard, not divine-κύριος. Rendered เจ้าของ (owner) not องค์พระผู้เป็นเจ้า (Lord, divine-title). CONTEXTUAL VARIANT of κύριος: human-master-context = เจ้าของ / นาย vs. divine-context = องค์พระผู้เป็นเจ้า. Per uW figs-explicit, this is the same \"master of the house\" from v.1 — Thai could collapse but preserves the Greek's stylistic shift."
+          },
+          {
+            "verse": "Matthew 21:40",
+            "rationale": "κύριος here = human-owner of vineyard. CONTEXTUAL-VARIANT established Matt 20:8 — human-master-context = เจ้าของ (not divine องค์พระผู้เป็นเจ้า). Per uW figs-possession, \"lord-of-vineyard\" = owner. Consistent with v.33 เจ้าของที่ดิน."
           }
         ]
       },
-      "occurrences_count": 2
+      "occurrences_count": 3
     },
     "ὁ κύριος τῆς οἰκίας ἔρχεται": {
       "primary_thai": "เจ้าของบ้านจะมาเมื่อใด",
@@ -46629,6 +48121,18 @@
       },
       "occurrences_count": 2
     },
+    "ὁ πεσὼν ἐπὶ τὸν λίθον τοῦτον συνθλασθήσεται": {
+      "primary_thai": "ผู้ที่ตกลงบนศิลานี้จะแตกกระจาย",
+      "all_renderings": {
+        "ผู้ที่ตกลงบนศิลานี้จะแตกกระจาย": [
+          {
+            "verse": "Matthew 21:44",
+            "rationale": "Per uW figs-metaphor, rejecting-Jesus = falling-on-stone → broken-to-pieces. πίπτω aor-act-ptcp \"having-fallen\". συνθλάω (2x NT: here + Luke 20:18) fut-pass \"be-crushed-together/shattered\". Thai แตกกระจาย (shatter-scatter)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ὁ πιστεύσας καὶ βαπτισθείς": {
       "primary_thai": "คนที่เชื่อและรับบัพติศมา",
       "all_renderings": {
@@ -46660,6 +48164,18 @@
           {
             "verse": "Mark 6:15",
             "rationale": "NOTE: anarthrous 'προφήτης' here = 'a prophet' (one of many), not 'THE Prophet' (the eschatological prophet of Deut 18:15). The popular speculation is generic-prophet-revival, not the specific Mosaic eschatological prophet. Translation 'ผู้เผยพระวจนะ' (without specifying article-equivalent) handles this correctly."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ὁ προφήτης Ἰησοῦς": {
+      "primary_thai": "พระเยซู ผู้เผยพระวจนะ",
+      "all_renderings": {
+        "พระเยซู ผู้เผยพระวจนะ": [
+          {
+            "verse": "Matthew 21:11",
+            "rationale": "προφήτης (144x) \"prophet\" — established glossary ผู้เผยพระวจนะ. Definite article here identifies him as THE-prophet expected (cf. John 6:14, Deut 18:15 Mosaic-prophet)."
           }
         ]
       },
@@ -46990,6 +48506,18 @@
           {
             "verse": "Matthew 10:39",
             "rationale": "Per uW figs-metaphor + figs-explicit: ἀπολέσας aor-act-ptc 'having lost' → losing-by-willing-sacrifice. ἕνεκεν ἐμοῦ 'on account of me' per uW = 'because he is my disciple.' Royal 'เรา' per RULES.md §3. εὑρήσει fut-act-ind-3sg 'will find' → จะพบ. The chiasm is word-for-word inverted; Thai preserves the inversion: 'เสีย...พบ' flipping 'พบ...เสีย.' Thematic-resonance with Mark 8:35-37 Synoptic-parallel glossary."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ὁ ἀπὸ Ναζαρὲθ τῆς Γαλιλαίας": {
+      "primary_thai": "จากเมืองนาซาเร็ธ แคว้นกาลิลี",
+      "all_renderings": {
+        "จากเมืองนาซาเร็ธ แคว้นกาลิลี": [
+          {
+            "verse": "Matthew 21:11",
+            "rationale": "Per uW figs-possession: Ναζαρὲθ τῆς Γαλιλαίας = Nazareth in Galilee. Thai adds เมือง (town) before นาซาเร็ธ and แคว้น (region) before กาλิลี for clarity (standard Thai Christian convention). Matt 2:23 establishes Ναζωραῖος-fulfillment."
           }
         ]
       },
@@ -47527,6 +49055,18 @@
       },
       "occurrences_count": 1
     },
+    "ὃν μὲν ἔδειραν,ὃν δὲ ἀπέκτειναν,ὃν δὲ ἐλιθοβόλησαν": {
+      "primary_thai": "คนหนึ่งก็โบยตี อีกคนหนึ่งก็ฆ่า และอีกคนหนึ่งก็ขว้างด้วยหิน",
+      "all_renderings": {
+        "คนหนึ่งก็โบยตี อีกคนหนึ่งก็ฆ่า และอีกคนหนึ่งก็ขว้างด้วยหิน": [
+          {
+            "verse": "Matthew 21:35",
+            "rationale": "Three-fold escalating-violence. δέρω (15x) aor 3pl \"beat\" → โบยตี (established Matt 10:17 etc.). ἀποκτείνω \"kill\" → ฆ่า (standard). λιθοβολέω (7x) aor 3pl \"stoned\" → ขว้างด้วยหิน (to stone). μέν...δέ...δέ trio construction — Thai คนหนึ่ง...อีกคน...และอีกคน."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ὃν παρῃτοῦντο": {
       "primary_thai": "ตามที่พวกเขาร้องขอ",
       "all_renderings": {
@@ -47822,6 +49362,18 @@
           {
             "verse": "Mark 8:23",
             "rationale": "ὄμμα = 'eye' (poetic synonym for ὀφθαλμός). The poetic word may be intentional: Mark contrasts the blind-man's poetic-eye-receiving-light with the disciples' prosaic-eye-failing-to-see (v.18 ὀφθαλμοὺς ἔχοντες). Thai preserves with plain 'ตา' since Thai doesn't have an analogous poetic-vs-prose distinction. The contrast is preserved structurally (the blind man WILL see; the disciples have eyes but DON'T see)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ὄνον δεδεμένην καὶ πῶλον μετ’αὐτῆς": {
+      "primary_thai": "แม่ลาตัวหนึ่งที่ถูกผูกไว้ และลูกลาอยู่กับแม่ของมัน",
+      "all_renderings": {
+        "แม่ลาตัวหนึ่งที่ถูกผูกไว้ และลูกลาอยู่กับแม่ของมัน": [
+          {
+            "verse": "Matthew 21:2",
+            "rationale": "ὄνος (5x) fem-acc \"donkey\" — gender is feminine in Greek so แม่ลา (female donkey / mother donkey). πῶλος (12x) \"colt, young donkey\". δέω perfect-passive-participle \"having-been-tied\". Thai preserves two animals — essential for v.5 Zech-quote fulfillment. Per uW translate-unknown for πῶλος = ลูกลา (young-donkey)."
           }
         ]
       },
@@ -48773,6 +50325,18 @@
       },
       "occurrences_count": 1
     },
+    "ὅτε ἤγγισαν εἰς Ἱεροσόλυμα": {
+      "primary_thai": "เมื่อพระเยซูกับเหล่าสาวกเสด็จมาใกล้กรุงเยรูซาเล็ม",
+      "all_renderings": {
+        "เมื่อพระเยซูกับเหล่าสาวกเสด็จมาใกล้กรุงเยรูซาเล็ม": [
+          {
+            "verse": "Matthew 21:1",
+            "rationale": "ἐγγίζω aorist 3pl \"they drew near\" — subject from context = Jesus + disciples (per uW figs-go + writing-pronouns). Thai makes the subject explicit for clarity. Ἱεροσόλυμα → กรุงเยρูซาเล็ม (established glossary Matt 2:1 onward). Divine-subject so royal เสด็จ."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ὅτι": {
       "primary_thai": "เพราะ",
       "all_renderings": {
@@ -49271,6 +50835,18 @@
       },
       "occurrences_count": 1
     },
+    "Ὁ οἶκός μου οἶκος προσευχῆς κληθήσεται": {
+      "primary_thai": "บ้านของเราจะถูกเรียกว่าบ้านแห่งการอธิษฐาน",
+      "all_renderings": {
+        "บ้านของเราจะถูกเรียกว่าบ้านแห่งการอธิษฐาน": [
+          {
+            "verse": "Matthew 21:13",
+            "rationale": "DIRECT CITATION of Isa 56:7 LXX (abbreviated: LXX has ὁ οἶκός μου οἶκος προσευχῆς κληθήσεται πᾶσιν τοῖς ἔθνεσιν — Matthew drops πᾶσιν τοῖς ἔθνεσιν; Mark 11:17 includes it; Luke 19:46 also drops). God's-speech so divine-subject 1sg เรา. Per uW figs-metaphor, οἶκος = temple (God's-dwelling)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "Ὁ οἶκός μου οἶκος προσευχῆς κληθήσεται πᾶσιν τοῖς ἔθνεσιν": {
       "primary_thai": "‹นิเวศของเราจะถูกเรียกว่านิเวศแห่งการอธิษฐานของมวลประชาชาติ›",
       "all_renderings": {
@@ -49278,6 +50854,18 @@
           {
             "verse": "Mark 11:17",
             "rationale": "DIRECT OT CITATION of Isa 56:7 LXX — verbatim match. Enclosed in guillemets ‹ › per Markan-citation convention. 'Nations' (τοῖς ἔθνεσιν) → มวลประชาชาติ. CRITICAL: Mark uniquely among the synoptics preserves πᾶσιν τοῖς ἔθνεσιν 'for all the nations' (Matt 21:13 and Luke 19:46 omit it). This preserves Isaiah 56:7's gentile-inclusion theology — the temple was meant to be a place of prayer FOR ALL NATIONS, and Mark's Jesus cites exactly that phrase. The court-of-the-gentiles was where this inclusion would be enacted, and that very space had been turned into a market. οἶκος → นิเวศ (elevated temple/house register)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Ὁ πρῶτος": {
+      "primary_thai": "คนแรก",
+      "all_renderings": {
+        "คนแรก": [
+          {
+            "verse": "Matthew 21:31",
+            "rationale": "Per uW figs-nominaladj substantival \"the-first-child\". Thai คนแรก consistent with คนที่หนึ่ง of v.28 (both translate τῷ πρώτῳ/ὁ πρῶτος)."
           }
         ]
       },
@@ -49554,6 +51142,18 @@
           {
             "verse": "Mark 8:29",
             "rationale": "Per uW figs-yousingular: disciples = plural. Thai 'พวกท่าน' is the established formal-plural for Jesus-to-disciples."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ὑμεῖς δὲ αὐτὸν ποιεῖτε σπήλαιον λῃστῶν": {
+      "primary_thai": "แต่พวกเจ้ากำลังทำให้บ้านนั้นกลายเป็นซ่องของพวกโจร",
+      "all_renderings": {
+        "แต่พวกเจ้ากำลังทำให้บ้านนั้นกลายเป็นซ่องของพวกโจร": [
+          {
+            "verse": "Matthew 21:13",
+            "rationale": "ALLUSION to Jer 7:11 LXX (μὴ σπήλαιον λῃστῶν ὁ οἶκός μου). σπήλαιον (6x) = cave/den. λῃστής (15x) = robber/brigand (violent-type, not petty-thief κλέπτης). Per uW figs-metaphor, like a hideout where robbers plot. Thai ซ่อง (lair/den) + พวกโจร (robbers). Jesus to temple-offenders uses พวกเจ้า (downgrade-2pl, rebuke-register)."
           }
         ]
       },
@@ -49890,6 +51490,30 @@
           {
             "verse": "Matthew 18:15",
             "rationale": "Per glossary (Matt 4:10 ὕπαγε → จงไป; Matt 5:24, 8:4, etc.): ὕπαγω → ไป. ἐλέγχω = 'reprove / convict / confront-with-truth-to-correct' — broader than rebuke-in-anger; aim is repentance. Thai 'ว่ากล่าวตักเตือน' (speak-reproof-admonish) captures the corrective-speaking sense, not punitive. NEW GLOSSARY: ἐλέγχω (personal-correction-context) → ว่ากล่าวตักเตือน; ὕπαγε ἔλεγξον (imperative pair, go-and-confront) → จงไปว่ากล่าวตักเตือน."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ὕστερον δέ": {
+      "primary_thai": "ต่อมาภายหลัง",
+      "all_renderings": {
+        "ต่อมาภายหลัง": [
+          {
+            "verse": "Matthew 21:37",
+            "rationale": "ὕστερον \"later/afterward\" — climactic-time-marker in parable-structure."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ὕστερον δὲ μεταμεληθεὶς ἀπῆλθεν": {
+      "primary_thai": "แต่ภายหลังเขากลับใจและไปทำงาน",
+      "all_renderings": {
+        "แต่ภายหลังเขากลับใจและไปทำงาน": [
+          {
+            "verse": "Matthew 21:29",
+            "rationale": "ὕστερον (11x) adv \"later\". μεταμέλομαι aor-pass-ptcp (6x NT) = \"changed-one's-mind/regretted\" per uW figs-idiom. Thai กลับใจ (repented/changed-mind — standard Thai Christian, also used for μετανοέω proper — here μεταμέλομαι narrower \"remorse/reconsidering\" but Thai does not distinguish readily). ἀπέρχομαι \"went (and worked)\" per uW figs-explicit adds the implied-working; Thai adds ไปทำงาน."
           }
         ]
       },
@@ -50389,6 +52013,18 @@
       },
       "occurrences_count": 1
     },
+    "ὤρυξεν ἐν αὐτῷ ληνὸν": {
+      "primary_thai": "ขุดบ่อย่ำองุ่นในสวน",
+      "all_renderings": {
+        "ขุดบ่อย่ำองุ่นในสวน": [
+          {
+            "verse": "Matthew 21:33",
+            "rationale": "ὀρύσσω aor \"dug\". ληνός (5x) = wine-press (the rock-hewn trough where grapes were trodden). Thai บ่อย่ำองุ่น (grape-treading-trough). Matches LXX-Isa 5:2 προλήνιον ὤρυξα."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ὤρυξεν ὑπολήνιον": {
       "primary_thai": "ขุดบ่อย่ำองุ่น",
       "all_renderings": {
@@ -50689,6 +52325,22 @@
       },
       "occurrences_count": 1
     },
+    "Ὡσαννὰ τῷ υἱῷ Δαυίδ": {
+      "primary_thai": "โฮซันนาแด่บุตรของดาวิด",
+      "all_renderings": {
+        "โฮซันนาแด่บุตรของดาวิด": [
+          {
+            "verse": "Matthew 21:9",
+            "rationale": "ὡσαννά TRANSLITERATION from Hebrew הוֹשִׁיעָה־נָּא \"save now/please\" (Ps 118:25). Per uW translate-transliterate, Matthew spells the Hebrew in Greek letters as a cultural-foreign-word. Thai preserves as transliteration โฮซันนา — standard Thai Christian convention. τῷ υἱῷ Δαυίδ dative-of-benefit \"to/for the Son-of-David\" — Messianic title (per uW figs-metaphor + figs-explicit: David's-descendant, implicitly the Messiah). Established Matt 1:1 ดาวิด. แด่ (polite dative-marker) for crowd-addressing-Messiah."
+          },
+          {
+            "verse": "Matthew 21:15",
+            "rationale": "Repeats crowd's acclamation from v.9 — Thai identical rendering for cross-verse consistency."
+          }
+        ]
+      },
+      "occurrences_count": 2
+    },
     "Ὡσαννὰ ἐν τοῖς ὑψίστοις": {
       "primary_thai": "โฮซันนาในที่สูงสุด",
       "all_renderings": {
@@ -50696,10 +52348,14 @@
           {
             "verse": "Mark 11:10",
             "rationale": "ὑψίστοις nominalized adj. 'highest [places],' referring to the heavenly realm where God dwells (per uW TN and Luke 2:14 parallel). Thai ในที่สูงสุด preserves the locative 'in the highest' without forcing unnecessary addition of 'heavens.'"
+          },
+          {
+            "verse": "Matthew 21:9",
+            "rationale": "Per uW figs-nominaladj ὕψιστος substantival \"(the) highest\" = highest-heavens where God dwells. Thai ในที่สูงสุด (in the highest place) preserves heavenly-referent. Combined with first ὡσαννά, forms an inclusio (Hosanna...Hosanna) around the Ps 118 citation."
           }
         ]
       },
-      "occurrences_count": 1
+      "occurrences_count": 2
     },
     "Ὦ γενεὰ ἄπιστος": {
       "primary_thai": "โอ คนยุคที่ไม่เชื่อเอ๋ย",
@@ -50769,9 +52425,15 @@
             "verse": "Mark 12:1",
             "rationale": "οἰκοδομέω 'build' + πύργος 'tower.' Thai หอเฝ้า ('watchtower/guard-tower') standard rendering. Directly echoes LXX Isa 5:2: ᾠκοδόμησα πύργον."
           }
+        ],
+        "สร้างหอคอย": [
+          {
+            "verse": "Matthew 21:33",
+            "rationale": "οἰκοδομέω aor \"built\". πύργος (4x NT) watchtower for guarding vineyard from thieves/animals. Thai หอคอย (watchtower)."
+          }
         ]
       },
-      "occurrences_count": 1
+      "occurrences_count": 2
     },
     "ῥάβδον": {
       "primary_thai": "ไม้เท้า",
