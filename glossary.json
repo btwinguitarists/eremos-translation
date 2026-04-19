@@ -1027,6 +1027,18 @@
       },
       "occurrences_count": 1
     },
+    "Διὰ τοῦτο": {
+      "primary_thai": "เพราะเหตุนี้",
+      "all_renderings": {
+        "เพราะเหตุนี้": [
+          {
+            "verse": "Matthew 18:23",
+            "rationale": "Per uW grammar-connect-logic-result: διὰ τοῦτο = 'because-of-this / for-this-reason' — concludes-application from v.22's answer. Thai 'เพราะเหตุนี้' standard causal-connector. Matthew's signature-phrase (7x in Matt)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "Διὰ τοῦτο λέγω ὑμῖν": {
       "primary_thai": "เหตุฉะนั้น เราบอกพวกท่านว่า",
       "all_renderings": {
@@ -1058,6 +1070,18 @@
           {
             "verse": "Matthew 17:20",
             "rationale": "HAPAX: ὀλιγοπιστία (1× NT, only here). Matthew-coined noun from adjective ὀλιγόπιστος (5× NT, all Matthean: 6:30, 8:26, 14:31, 16:8; also Luke 12:28). Matthean vocabulary-signature for disciples' small-but-real faith. Per uW figs-abstractnouns: can be unpacked to verbal 'you believe so little' — but Thai 'ความเชื่อน้อย' (faith-little, compound noun) naturally handles the abstract-noun without needing to unpack. NEW GLOSSARY: ὀλιγοπιστία HAPAX (Matthean noun) → ความเชื่อน้อย."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Δοῦλε πονηρέ": {
+      "primary_thai": "ทาสชั่วร้ายเอ๋ย",
+      "all_renderings": {
+        "ทาสชั่วร้ายเอ๋ย": [
+          {
+            "verse": "Matthew 18:32",
+            "rationale": "Vocative δοῦλε + πονηρέ adjective-attributive. Thai 'ทาสชั่วร้ายเอ๋ย' with final-particle 'เอ๋ย' for vocative-force (Thai-vocative-particle used for emotional-address). Per glossary (Matt 5:11, 6:13, 7:17 etc.): πονηρός → ชั่วร้าย (evil/wicked). Royal-king-to-servant register: 'เจ้า' (2sg-downgraded per RULES §3 for royal-to-subordinate address). NEW GLOSSARY: δοῦλε πονηρέ (king's-vocative-rebuke) → ทาสชั่วร้ายเอ๋ย."
           }
         ]
       },
@@ -1940,6 +1964,10 @@
           {
             "verse": "Matthew 14:28",
             "rationale": "Per glossary (MT 8:25 storm-context): 'Κύριε' (disciples to Jesus in sea-crisis) → 'พระองค์เจ้าข้า.' Peter recognizes divine authority; same storm-context as MT 8. NEW GLOSSARY: κύριε (disciples to Jesus) → พระองค์เจ้าข้า."
+          },
+          {
+            "verse": "Matthew 18:21",
+            "rationale": "Per established glossary: Κύριε (vocative, human addressing Jesus) → พระองค์เจ้าข้า (royal-vocative, 'your-lordship'). Matthew uses Κύριε 20+ times from disciples/petitioners addressing Jesus — consistent rendering across all occurrences. Peter's use here carries discipular-reverence."
           }
         ],
         "นายขอรับ": [
@@ -1959,7 +1987,7 @@
           }
         ]
       },
-      "occurrences_count": 8
+      "occurrences_count": 9
     },
     "Κύριε κύριε": {
       "primary_thai": "‹องค์พระผู้เป็นเจ้า องค์พระผู้เป็นเจ้า›",
@@ -2166,6 +2194,18 @@
           {
             "verse": "Matthew 16:17",
             "rationale": "Per glossary (MT 5:3-11 macarisms): μακάριος → เป็นสุข (established). Per uW translate-transliterate + figs-activepassive: Βαρ- = Aramaic 'son of'; HAPAX in NT spelling. uW recommends either transliterate-with-footnote or translate-meaning. Choosing translation-meaning here ('บุตรของโยนาห์') for clarity to Thai readers, since the patronymic is meaning-functional (asserts Peter's mortal-human paternity in contrast to revelation from heavenly Father). Vocative-direct-address. Thai word-order: address-first ('ซีโมน...'), then predication ('ท่านเป็นสุข') for natural Thai. NEW GLOSSARY: Βαριωνᾶ HAPAX → บุตรของโยนาห์ (translation-of-meaning); μακάριος (vocative-blessing) → เป็นสุข."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Μακροθύμησον ἐπ’ἐμοί,καὶ ἀποδώσω σοι": {
+      "primary_thai": "‹ขอจงอดทนต่อข้าสักหน่อย แล้วข้าจะใช้หนี้คืนให้ท่าน›",
+      "all_renderings": {
+        "‹ขอจงอดทนต่อข้าสักหน่อย แล้วข้าจะใช้หนี้คืนให้ท่าน›": [
+          {
+            "verse": "Matthew 18:29",
+            "rationale": "INTENTIONALLY ECHOES v.26's plea-structure (καὶ πάντα ἀποδώσω σοι minus πάντα), with crucial-reduction: no 'πάντα' (all) because 100 denarii is a realistic-payable-amount. Register-shift: fellow-slave-to-fellow-slave uses 'ข้า' (humble-1sg, non-royal) and 'ท่าน' (polite-respectful-2sg) — PEER-level-supplication register (not humble-to-royal like v.26's 'ข้าพระองค์...พระองค์'). Thai 'ข้า' and 'ท่าน' captures the supplicant-equal-to-aggressor relational dynamic. Inner ‹ › preserves nested-speech in parable. The deliberate-omission of 'πάντα' is REHABILITATION-significant: this debt is actually-payable, making the first-slave's subsequent-refusal-to-extend-patience-and-time all-the-more-damning."
           }
         ]
       },
@@ -2613,6 +2653,18 @@
       },
       "occurrences_count": 1
     },
+    "Οὐ λέγω σοι ἕως ἑπτάκις ἀλλὰ ἕως ἑβδομηκοντάκις ἑπτά": {
+      "primary_thai": "เราไม่ได้บอกท่านว่าถึงเจ็ดครั้ง แต่ถึงเจ็ดสิบเจ็ดครั้ง",
+      "all_renderings": {
+        "เราไม่ได้บอกท่านว่าถึงเจ็ดครั้ง แต่ถึงเจ็ดสิบเจ็ดครั้ง": [
+          {
+            "verse": "Matthew 18:22",
+            "rationale": "Per uW figs-yousingular: σοι singular (Jesus-to-Peter). Royal self 'เรา' + polite-2sg 'ท่าน' (Jesus to individual-disciple — same pattern as previously). Per uW figs-ellipsis: full-sentence in Greek elides the repeated 'you-should-forgive-up-to.' Per uW figs-infostructure: option exists to reverse (Thai-naturalness preferred preserving Greek-order as negative-then-correction-builds rhetorical-intensity). ἑβδομηκοντάκις ἑπτά HAPAX (only here in NT; LXX occurrence Gen 4:24). Translation-debate: (1) '77 times' (Matthean-Gen-4:24-echo inverting Lamech's-vengeance), or (2) '70-times-seven = 490' (multiplicative). Modern consensus (BSB, ESV, NIV, CSB, NRSV, NA28-tr): 77 — based on (a) LXX Gen 4:24 uses same phrase for 'seventy-and-seven' Hebrew שִׁבְעִ֥ים וְשִׁבְעָֽה (b) the literary-echo-inversion (Lamech vengeance-77 → Jesus forgiveness-77) is pointed+deliberate (c) rabbinic-precedent has no '490' tradition. Followed majority 'เจ็ดสิบเจ็ดครั้ง' (77 times). KJV + some traditional translations read 'seventy times seven = 490' — noted but not followed. NEW GLOSSARY: ἑβδομηκοντάκις ἑπτά HAPAX → เจ็ดสิบเจ็ดครั้ง (77-times, following modern-critical majority; Gen 4:24 LXX echo). ADDED TO nt_ot_citations.json: MAT 18:22 thematic_allusion_with_inversion GEN 4:24 LXX."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "Οὐ μακρὰν εἶ ἀπὸ τῆς βασιλείας τοῦ θεοῦ": {
       "primary_thai": "ท่านไม่ไกลจากอาณาจักรของพระเจ้า",
       "all_renderings": {
@@ -3009,6 +3061,18 @@
       },
       "occurrences_count": 1
     },
+    "Οὕτως καὶ ὁ πατήρ μου ὁ οὐράνιος ποιήσει ὑμῖν": {
+      "primary_thai": "พระบิดาของเราผู้สถิตในสวรรค์จะทรงกระทำต่อพวกท่านเช่นเดียวกันนี้",
+      "all_renderings": {
+        "พระบิดาของเราผู้สถิตในสวรรค์จะทรงกระทำต่อพวกท่านเช่นเดียวกันนี้": [
+          {
+            "verse": "Matthew 18:35",
+            "rationale": "Per uW figs-simile: οὕτως καί 'in-the-same-way-also' — parable-application-marker. Thai 'เช่นเดียวกันนี้' (in-the-same-way-as-this) standard-conclusion-marker. Per guidelines-sonofgodprinciples: 'πατήρ μου ὁ οὐράνιος' royal-title 'my-heavenly-Father' — Royal 'ของเรา' (Jesus's-self-reference to divine-Father). Per glossary (Matt 5:48, 6:14, 6:26, 6:32, 15:13, etc.): ὁ πατὴρ μου ὁ οὐράνιος → พระบิดาของเราผู้สถิตในสวรรค์ (established standard-rendering). οὐράνιος adjective-form (distinct from ἐν οὐρανοῖς; both rendered similarly in Thai since Thai-noun-adjective-flexibility permits). ποιήσει future-active 3sg → ทรงกระทำ (royal-do, per RULES §3). Per uW figs-yousingular: ὑμῖν plural (disciples-addressed-collectively)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "Οὕτως καὶ ὑμεῖς ἀσύνετοί ἐστε;": {
       "primary_thai": "พวกเจ้าก็ขาดความเข้าใจเช่นนั้นด้วยหรือ?",
       "all_renderings": {
@@ -3168,6 +3232,18 @@
           {
             "verse": "Matthew 4:8",
             "rationale": "Per uW figs-explicit + translate-tense: πάλιν marks continuation — third temptation takes same παραλαμβάνει historic-present pattern from v.5. Thai 'อีกครั้งหนึ่ง มารพา' parallels v.5 almost verbatim (substituting 'อีกครั้งหนึ่ง' for 'ครั้งนั้น'). Established pattern from v.5 — consistency marks the narrative's tripartite structure."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "Πάλιν ἀμὴν λέγω ὑμῖν ὅτι": {
+      "primary_thai": "อีกประการหนึ่ง เราบอกความจริงแก่พวกท่านว่า",
+      "all_renderings": {
+        "อีกประการหนึ่ง เราบอกความจริงแก่พวกท่านว่า": [
+          {
+            "verse": "Matthew 18:19",
+            "rationale": "Per uW grammar-connect-words-phrases: πάλιν here = 'again/additionally/further' — connects to preceding statement. Thai 'อีกประการหนึ่ง' (another-matter) connective preserves the additive-force without repeating 'ἀμὴν' formula-for-formula. ἀμὴν λέγω ὑμῖν combined-Matthean-emphatic-formula established."
           }
         ]
       },
@@ -4647,6 +4723,18 @@
       },
       "occurrences_count": 1
     },
+    "Τότε προσελθὼν αὐτῷ ὁ Πέτρος εἶπεν": {
+      "primary_thai": "ครั้งนั้น เปโตรเข้ามาเฝ้าพระองค์และทูลว่า",
+      "all_renderings": {
+        "ครั้งนั้น เปโตรเข้ามาเฝ้าพระองค์และทูลว่า": [
+          {
+            "verse": "Matthew 18:21",
+            "rationale": "Per glossary (Matt 4:3 Τότε → ครั้งนั้น): Matthean narrative-pivot 'Then.' Per v.1 precedent: προσέρχομαι (to-Jesus) → เข้ามาเฝ้า (reverent-approach). Per glossary (Matt 4:18 Σίμωνα τὸν λεγόμενον Πέτρον): Πέτρος → เปโตร. λέγω + indirect object + quote-opener — Jesus-addressee-so humble-verb 'ทูล' per RULES §3; 'ทูลว่า' (say-humbly-to). OPENS new outer « » quote block (Peter's speech, then v.22 opens Jesus's reply-block)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "Τότε ἀφεὶς τοὺς ὄχλους": {
       "primary_thai": "แล้วพระองค์ทรงปล่อยฝูงชน",
       "all_renderings": {
@@ -5916,6 +6004,18 @@
           {
             "verse": "MRK 10:11",
             "rationale": "γαμέω = marry (of the male). Thai 'ไปแต่งงานกับ' is the standard marital verb; 'ไป' adds the directional/sequential sense that matches the aorist subjunctive."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "γενήσεται αὐτοῖς παρὰ τοῦ πατρός μου τοῦ ἐν οὐρανοῖς": {
+      "primary_thai": "พระบิดาของเราผู้สถิตในสวรรค์ก็จะทรงกระทำให้แก่เขาทั้งสอง",
+      "all_renderings": {
+        "พระบิดาของเราผู้สถิตในสวรรค์ก็จะทรงกระทำให้แก่เขาทั้งสอง": [
+          {
+            "verse": "Matthew 18:19",
+            "rationale": "Per uW figs-activepassive: γενήσεται + dative = 'it-will-come-to-pass / be-done / happen' passive-of-agency. Per uW figs-explicit + figs-activepassive: παρὰ + genitive of-divine-agent = 'from/by-the-Father.' Thai recasts to active 'พระบิดา...ก็จะทรงกระทำ' per Thai-naturalness — Thai generally prefers active-voice for divine-agency over abstract-passive. Royal 'ทรงกระทำ' for divine action per RULES §3. Royal 'ของเรา' self-reference by Jesus. Established glossary 'ผู้สถิตในสวรรค์' for ἐν οὐρανοῖς. 'แก่เขาทั้งสอง' specifies the pair who prayed."
           }
         ]
       },
@@ -7595,6 +7695,18 @@
       },
       "occurrences_count": 1
     },
+    "δύο συμφωνήσωσιν ἐξ ὑμῶν": {
+      "primary_thai": "ในพวกท่านสองคนตกลงร่วมใจกัน",
+      "all_renderings": {
+        "ในพวกท่านสองคนตกลงร่วมใจกัน": [
+          {
+            "verse": "Matthew 18:19",
+            "rationale": "Per uW figs-explicit: 'two' means 'two-or-more' (not maximum-2); Thai 'สองคน' preserves-literal without over-specifying. συμφωνέω aorist-active-subjunctive 'be-in-harmony / agree' — etymologically 'sound-together' (whence English 'symphony'). Thai 'ตกลงร่วมใจกัน' (consent-together-one-heart) captures both the decision-agreement (ตกลง) AND the unity-of-heart (ร่วมใจ) — richer than mere 'agree.' NEW GLOSSARY: συμφωνέω (unity-of-agreement-prayer-context) → ตกลงร่วมใจกัน. Per uW figs-yousingular: ὑμῶν plural (disciples)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "δύο τυφλοὶ": {
       "primary_thai": "คนตาบอดสองคน",
       "all_renderings": {
@@ -8033,6 +8145,18 @@
       },
       "occurrences_count": 1
     },
+    "εἰπὸν τῇ ἐκκλησίᾳ": {
+      "primary_thai": "จงแจ้งเรื่องต่อคริสตจักร",
+      "all_renderings": {
+        "จงแจ้งเรื่องต่อคริสตจักร": [
+          {
+            "verse": "Matthew 18:17",
+            "rationale": "Per glossary (Matt 16:18 ἐκκλησίαν → คริสตจักร): ἐκκλησία → คริสตจักร. Standard Thai Christian rendering. εἰπόν imperative-aorist = 'tell/report.' Thai 'จงแจ้งเรื่องต่อ' (formally-report-to) captures the procedural-formality of bringing matter to whole-community. NEW GLOSSARY: εἰπόν τῇ ἐκκλησίᾳ (formal-report-idiom) → จงแจ้งเรื่องต่อคริสตจักร."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "εἰρηνεύετε ἐν ἀλλήλοις": {
       "primary_thai": "จงอยู่อย่างสงบสุขต่อกันและกัน",
       "all_renderings": {
@@ -8458,6 +8582,18 @@
           {
             "verse": "Mark 5:26",
             "rationale": "Per uW figs-idiom: 'having come to the worse' = getting worse. Thai 'กลับเลวร้ายลงเสียอีก' (instead-bad-down also-more) — 'กลับ' (instead) preserves the frustrating reversal."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "εἰς τὸ ἐμὸν ὄνομα": {
+      "primary_thai": "ในนามของเรา",
+      "all_renderings": {
+        "ในนามของเรา": [
+          {
+            "verse": "Matthew 18:20",
+            "rationale": "Per v.5 precedent this chapter: εἰς/ἐν τῷ ὀνόματι = 'in/because-of-my-name' = 'as-my-followers / invoking-my-authority.' Royal 'ของเรา' for Jesus self-reference per RULES §3. Emphatic ἐμόν (my-own) heightens the Christocentric-claim."
           }
         ]
       },
@@ -9722,6 +9858,18 @@
           {
             "verse": "Matthew 12:44",
             "rationale": "Per uW figs-exmetaphor + figs-activepassive: three-participles describing house-ready-for-new-occupant. σχολάζω (nt_freq=2) → ว่างเปล่า (empty/unoccupied); σαρόω → กวาด (swept); κοσμέω → จัดไว้เรียบร้อย (put-in-order/tidied). Thai preserves three-stage triplet. NEW GLOSSARY: σχολάζω → ว่างเปล่า; σαρόω → กวาด; κοσμέω (tidy-sense) → จัดไว้เรียบร้อย."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "εὗρεν ἕνα τῶν συνδούλων αὐτοῦ": {
+      "primary_thai": "ก็พบเพื่อนทาสของเขาคนหนึ่ง",
+      "all_renderings": {
+        "ก็พบเพื่อนทาสของเขาคนหนึ่ง": [
+          {
+            "verse": "Matthew 18:28",
+            "rationale": "σύνδουλος (fellow-slave) = member-of-same-slave-class serving same master. Thai 'เพื่อนทาส' (friend-slave, equal-member-of-slave-class). Distinct from 'ทาสด้วยกัน' (slaves-together) — 'เพื่อน' captures the fellow-membership-in-same-class-and-household. NEW GLOSSARY: σύνδουλος → เพื่อนทาส."
           }
         ]
       },
@@ -11363,6 +11511,18 @@
       },
       "occurrences_count": 1
     },
+    "καὶ πάντα ἀποδώσω σοι": {
+      "primary_thai": "แล้วข้าพระองค์จะใช้หนี้ทั้งหมดคืนให้พระองค์›",
+      "all_renderings": {
+        "แล้วข้าพระองค์จะใช้หนี้ทั้งหมดคืนให้พระองค์›": [
+          {
+            "verse": "Matthew 18:26",
+            "rationale": "ἀποδώσω future-active 1sg = 'I-will-repay.' Thai 'ใช้หนี้ทั้งหมดคืน' (pay-back-all-debt) — 'คืน' (return/give-back) captures the ἀπο- back-prefix. 'ให้พระองค์' royal-2sg-dative for king. Humble 'ข้าพระองค์' for self. NEW GLOSSARY: ἀποδίδωμι (repay-debt-first-person-future) → จะใช้หนี้คืน. CLOSES inner ‹ › speech-block."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "καὶ πατὴρ τέκνον": {
       "primary_thai": "บิดาจะมอบบุตรของตนก็เช่นกัน",
       "all_renderings": {
@@ -11567,6 +11727,18 @@
       },
       "occurrences_count": 1
     },
+    "καὶ τὴν γυναῖκα καὶ τὰ τέκνα καὶ πάντα ὅσα ἔχει": {
+      "primary_thai": "ภรรยา บุตร และทรัพย์สินทั้งหมดที่เขามี",
+      "all_renderings": {
+        "ภรรยา บุตร และทรัพย์สินทั้งหมดที่เขามี": [
+          {
+            "verse": "Matthew 18:25",
+            "rationale": "Per glossary (Matt 5:28, 14:3, 19:5, etc.): γυνή (wife-context) → ภรรยา. Per glossary (Matt 2:16, 11:19 τέκνον → ลูก/บุตร): τέκνα (children, generic-plural) → บุตร (Thai formal-plural). Per uW figs-explicitinfo: 'πάντα ὅσα ἔχει' (everything-as-much-as-he-has) = 'all-his-property' — Thai 'ทรัพย์สินทั้งหมดที่เขามี' captures the inclusive-possessive (not abbreviation per uW allowance since Thai-naturalness tolerates full-phrase)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "καὶ τὴν δόξαν αὐτῶν": {
       "primary_thai": "พร้อมทั้งศักดิ์ศรีของอาณาจักรเหล่านั้น",
       "all_renderings": {
@@ -11682,6 +11854,18 @@
           {
             "verse": "Matthew 10:28",
             "rationale": "Per uW figs-metaphor: γέεννα metaphor/transliteration from Hebrew 'Gei-Hinnom' (Valley of Hinnom) — Jerusalem's trash-burning-valley, by Jesus's day an image of eschatological-judgment. γέεννα → นรก (glossary-established Matt 5:22, 5:29, 5:30; 'hell' — Thai Christian standard). καί ... καί correlative 'both...and' preserved in Thai 'ทั้ง...และ.' ἀπόλλυμι → ทำลาย (destroy — Thai standard). The parallel κ-κ 'both soul and body' completes the earlier partial-mention — God's judgment reaches more comprehensively than human killing."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "καὶ ἀποδοθῆναι": {
+      "primary_thai": "เพื่อนำเงินมาชำระหนี้",
+      "all_renderings": {
+        "เพื่อนำเงินมาชำระหนี้": [
+          {
+            "verse": "Matthew 18:25",
+            "rationale": "Per uW figs-abstractnouns: ἀποδοθῆναι aorist-passive-infinitive = 'repayment-be-made.' Thai 'เพื่อนำเงินมาชำระหนี้' (in-order-to-bring-money-to-pay-debt) unpacks the abstract-passive-infinitive into concrete purpose-clause natural in Thai. Matches v.23/v.24 idiom of 'ชำระ.' NEW GLOSSARY: ἀποδοθῆναι (debt-repayment-passive-infinitive) → เพื่อนำเงินมาชำระหนี้."
           }
         ]
       },
@@ -12219,6 +12403,18 @@
       },
       "occurrences_count": 1
     },
+    "κρατήσας αὐτὸν ἔπνιγεν": {
+      "primary_thai": "เขาจึงจับเพื่อนทาสคนนั้นบีบคอ",
+      "all_renderings": {
+        "เขาจึงจับเพื่อนทาสคนนั้นบีบคอ": [
+          {
+            "verse": "Matthew 18:28",
+            "rationale": "Per glossary (Matt 14:3 κρατήσας → สั่งจับ; Matt 26:48, 50, 55 etc.): κρατέω → จับ (seize/grab). πνίγω imperfect-active 'was-choking' — ingressive-imperfect 'began-to-choke' per uW figs-explicit. Thai 'บีบคอ' (squeeze-neck/throat) standard-strangling idiom. Per glossary: πνίγω near-absent in established-glossary; related συμπνίγω (compound-choke) appears Matt 13:7 συμπνίγω → เบียด...ให้หายไป. Here simplex-πνίγω is literal-physical-violence. NEW GLOSSARY: πνίγω (literal-physical-strangulation) → บีบคอ."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "κρατήσας τὸν Ἰωάννην ἔδησεν αὐτὸν καὶ ἐν φυλακῇ ἀπέθετο": {
       "primary_thai": "ได้สั่งจับยอห์น จองจำเขาและขังไว้ในเรือนจำ",
       "all_renderings": {
@@ -12727,9 +12923,15 @@
             "verse": "Matthew 14:31",
             "rationale": "Per uW translate-tense: historical present → Thai past. Divine: ตรัส."
           }
+        ],
+        "และตรัสว่า": [
+          {
+            "verse": "Matthew 18:32",
+            "rationale": "Per uW translate-tense: present-tense λέγει in past-narration for attention-drawing. Thai 'ตรัส' royal-speak + historical-present rendered-naturally as past-in-Thai. OPENS inner ‹ › for king's speech within Jesus's outer « »."
+          }
         ]
       },
-      "occurrences_count": 3
+      "occurrences_count": 4
     },
     "λέγει αὐτῷ εἷς τῶν μαθητῶν αὐτοῦ": {
       "primary_thai": "สาวกคนหนึ่งของพระองค์ทูลพระองค์",
@@ -12738,6 +12940,18 @@
           {
             "verse": "Mark 13:1",
             "rationale": "Historic present λέγει → Thai past-narrative ทูล (royal-speech to addressee = Jesus). μαθητής → สาวก (glossary-established). εἷς τῶν μαθητῶν = 'one of his disciples' (unnamed; cf. v.3 where four named disciples ask the expanded question)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "λέγει αὐτῷ ὁ Ἰησοῦς": {
+      "primary_thai": "พระเยซูตรัสกับเปโตรว่า",
+      "all_renderings": {
+        "พระเยซูตรัสกับเปโตรว่า": [
+          {
+            "verse": "Matthew 18:22",
+            "rationale": "Per uW translate-tense: present-tense λέγει in past-narration = attention-drawing-device ('he says' for emphasis). Thai preserves the emphasis by using 'ตรัส' (royal-speak) in standard-perfective-reading. 'ตรัสกับเปโตร' makes explicit-the-referent for αὐτῷ (Thai prefers-explicit-referents in dialogue-transitions). OPENS new outer « » for Jesus-reply (v.22 opens, v.35 closes)."
           }
         ]
       },
@@ -13050,6 +13264,30 @@
           {
             "verse": "Mark 12:6",
             "rationale": "λέγων + ὅτι + direct-speech construction. The owner is speaking inwardly/to-himself (per uW TN alternate 'he thought'), not to the tenants. Thai คิดว่า ('thinking that') captures the internal-deliberation sense."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "λέγων·Μακροθύμησον ἐπ’ἐμοί": {
+      "primary_thai": "และทูลวิงวอนว่า ‹ขอทรงพระกรุณาอดทนต่อข้าพระองค์สักหน่อย",
+      "all_renderings": {
+        "และทูลวิงวอนว่า ‹ขอทรงพระกรุณาอดทนต่อข้าพระองค์สักหน่อย": [
+          {
+            "verse": "Matthew 18:26",
+            "rationale": "λέγων participle-of-speech → 'ทูลวิงวอน' (humble-speech + pleading-verb, per RULES §3 humble-to-royal). Per uW figs-imperative: Μακροθύμησον imperative rendered as polite-request-with-please-prefix — Thai 'ขอทรงพระกรุณา' (please-royal-graciousness) adds ceremonial polite-petition frame natural in Thai royal-court speech. 'อดทน' standard-patience translation. 'ต่อข้าพระองค์' humble-1sg-to-royal per RULES §3. Inner ‹ › opens the nested-speech-within-Jesus's-parable. NEW GLOSSARY: μακροθυμέω (polite-request-for-royal-patience) → ขอทรงพระกรุณาอดทน; μακροθυμέω (generic patience-verb) → อดทน."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "λέγων·Ἀπόδος εἴ τι ὀφείλεις": {
+      "primary_thai": "และกล่าวว่า ‹จงใช้หนี้ที่เจ้าติดค้างอยู่มาให้เดี๋ยวนี้›",
+      "all_renderings": {
+        "และกล่าวว่า ‹จงใช้หนี้ที่เจ้าติดค้างอยู่มาให้เดี๋ยวนี้›": [
+          {
+            "verse": "Matthew 18:28",
+            "rationale": "OPENS inner ‹ › for quoted speech inside parable-speech. Slave-to-fellow-slave register: aggressive-equal-to-equal — 'เจ้า' (2sg-downgraded, asserts-demand). Self-reference implicit. Per uW figs-quotations option for indirect. ἀπόδος aorist-imperative-2sg 'Pay-back!' — Thai 'จงใช้...มาให้' (imperative pay-and-bring-to-me). εἴ τι ὀφείλεις (if-anything-you-owe) idiomatic — Thai 'หนี้ที่เจ้าติดค้างอยู่' (debt-that-you-owe) unpacks the clause to natural-Thai-structure. 'เดี๋ยวนี้' (right-now) supplies the urgency-tone not in Greek-surface but consistent with aggressive-demand. CLOSES ‹ ›."
           }
         ]
       },
@@ -13756,6 +13994,18 @@
           {
             "verse": "Mark 1:4",
             "rationale": "μετάνοια = change of mind/turning. Thai กลับใจ literally 'turning the heart back' — captures both mental and moral turning."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "μεταξὺ σοῦ καὶ αὐτοῦ μόνου": {
+      "primary_thai": "สองต่อสองเพียงระหว่างท่านกับเขา",
+      "all_renderings": {
+        "สองต่อสองเพียงระหว่างท่านกับเขา": [
+          {
+            "verse": "Matthew 18:15",
+            "rationale": "Per uW figs-idiom: 'between you and him alone' = 'just-the-two-of-you-with-no-one-else.' Thai 'สองต่อสอง' (two-to-two) idiom captures the one-on-one-privacy idea; 'เพียงระหว่างท่านกับเขา' explicates it for clarity. μόνου (alone, adverbial) emphasizes exclusivity of the private-meeting."
           }
         ]
       },
@@ -14628,6 +14878,18 @@
           {
             "verse": "Mark 13:16",
             "rationale": "3sg aor.-imperative ἐπιστρέφω (per uW TN figs-imperative3p). εἰς τὰ ὀπίσω 'back / backward.' Thai กลับ (already = 'return / go-back') so εἰς τὰ ὀπίσω is absorbed naturally, no need for redundant ข้างหลัง. ἱμάτιον → เสื้อคลุม (glossary-established). Per uW TN translate-unknown, can use general 'outer-garment' term; Thai เสื้อคลุม is the established rendering."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "μὴ ἔχοντος δὲ αὐτοῦ ἀποδοῦναι": {
+      "primary_thai": "เพราะทาสคนนั้นไม่มีทรัพย์จะใช้หนี้ได้",
+      "all_renderings": {
+        "เพราะทาสคนนั้นไม่มีทรัพย์จะใช้หนี้ได้": [
+          {
+            "verse": "Matthew 18:25",
+            "rationale": "Per uW grammar-connect-logic-contrast: μή + genitive-absolute-present-participle + δέ = 'but-since-he-did-not-have.' Thai recasts to causal 'เพราะ...ไม่มี' (because-he-did-not-have). Supplied object 'ทรัพย์' (assets) makes the Thai concrete; Greek ἀποδοῦναι standalone infinitive implies 'means-to-pay.' 'ทาสคนนั้น' (that-slave) explicit referent (Greek αὐτοῦ 3sg-genitive rendered-concrete per Thai-preference)."
           }
         ]
       },
@@ -16933,6 +17195,18 @@
       },
       "occurrences_count": 1
     },
+    "οὐκ ἔδει καὶ σὲ ἐλεῆσαι τὸν σύνδουλόν σου": {
+      "primary_thai": "เจ้าก็ควรจะมีใจเมตตาต่อเพื่อนทาสของเจ้าด้วยมิใช่หรือ",
+      "all_renderings": {
+        "เจ้าก็ควรจะมีใจเมตตาต่อเพื่อนทาสของเจ้าด้วยมิใช่หรือ": [
+          {
+            "verse": "Matthew 18:33",
+            "rationale": "Per uW figs-rquestion: rhetorical-question-rebuke — 'was-it-not-necessary-for-you-also?' Thai 'เจ้า...ก็ควรจะ...ด้วยมิใช่หรือ' preserves rhetorical-structure (ก็...ด้วย 'also-too' parallel + มิใช่หรือ 'was-it-not?' rhetorical-tag). ἔδει imperfect-impersonal 'it-was-necessary' → 'ควรจะ' (ought-to). Per uW figs-abstractnouns: ἐλεέω infinitive = 'to-have-mercy' — Thai 'มีใจเมตตา' (have-heart-of-mercy, abstract-noun construction) preserves abstract-ethical-quality. NEW GLOSSARY: ἐλεέω (show-mercy-to-fellow-human) → มีใจเมตตา."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "οὐκ ἔλαβεν": {
       "primary_thai": "ไม่ทรงรับ",
       "all_renderings": {
@@ -16952,6 +17226,18 @@
           {
             "verse": "Matthew 6:5",
             "rationale": "Future-indicative οὐκ ἔσεσθε with imperative-force (Hebraism-pattern per §3). Thai 'อย่าเป็นเหมือน' preserves prohibition. ὑποκριτής → คนหน้าซื่อใจคด (established v.2, glossary)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "οὐκ ἔστιν θέλημα ἔμπροσθεν τοῦ πατρὸς ὑμῶν": {
+      "primary_thai": "พระบิดาของพวกท่าน...ไม่มีพระประสงค์",
+      "all_renderings": {
+        "พระบิดาของพวกท่าน...ไม่มีพระประสงค์": [
+          {
+            "verse": "Matthew 18:14",
+            "rationale": "Per uW figs-idiom: 'the will before your Father' is Hebraic-idiom for 'your-Father's-will.' θέλημα (noun) rendered here as 'พระประสงค์' (royal-divine-intent) per RULES §3 divine-subject register (cf. Matt 6:10 γενηθήτω τὸ θέλημά σου → น้ำพระทัย for Lord's Prayer; Matt 7:21; 12:50). NEW GLOSSARY: θέλημα (divine-Father-context, in-negative-construction) → พระประสงค์ (CONTEXTUAL variant from น้ำพระทัย in prayer-context); ἔμπροσθεν (before-the-Father idiomatic) → left-untranslated, absorbed into possessive-construction. Textual variant: SBLGNT reads 'πατρὸς ὑμῶν' (your Father); some mss read 'πατρὸς μου' (my Father) — followed SBLGNT, documented in notes."
           }
         ]
       },
@@ -17333,6 +17619,18 @@
       },
       "occurrences_count": 1
     },
+    "οὐχὶ ἀφήσει τὰ ἐνενήκοντα ἐννέα ἐπὶ τὰ ὄρη": {
+      "primary_thai": "เขาจะไม่ละแกะเก้าสิบเก้าตัวไว้บนภูเขาทั้งหลาย",
+      "all_renderings": {
+        "เขาจะไม่ละแกะเก้าสิบเก้าตัวไว้บนภูเขาทั้งหลาย": [
+          {
+            "verse": "Matthew 18:12",
+            "rationale": "Per uW figs-rquestion: rhetorical question expecting positive answer. οὐχί strengthened-negative introducing affirmative-expectation. Per uW figs-nominaladj: τὰ ἐνενήκοντα ἐννέα (substantival) = 'the 99 sheep.' Thai 'ละ...ไว้' (leave-behind, temporary-leave) captures ἀφίημι here (distinct from 'ทิ้ง' abandon-permanently — the shepherd will return). Per uW figs-extrainfo: ἐπὶ τὰ ὄρη 'in mountainous areas generally'; Thai 'บนภูเขาทั้งหลาย' preserves plural-mountains without specifying particular-peaks. NEW GLOSSARY: ἐνενήκοντα ἐννέα → เก้าสิบเก้า; ἀφίημι (leave-behind temporarily) → ละ...ไว้ (CONTEXTUAL variant vs ἀφίημι forgive-sense ยก used v.27, v.32, v.35)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "οὐχὶ ἡ ψυχὴ πλεῖόν ἐστι τῆς τροφῆς καὶ τὸ σῶμα τοῦ ἐνδύματος": {
       "primary_thai": "ชีวิตสำคัญยิ่งกว่าอาหาร และร่างกายสำคัญยิ่งกว่าเสื้อผ้ามิใช่หรือ?",
       "all_renderings": {
@@ -17436,6 +17734,18 @@
           {
             "verse": "Mark 12:25",
             "rationale": "γαμέω 'marry' (active, said of men) vs. γαμίζω (passive, 'be-given-in-marriage,' said of women — per uW TN 12:25 cultural note). The gender-differentiated Greek verbs correspond to the 1st-century convention. Thai รับการแต่งงาน is an option but ถูกยกให้แต่งงาน ('be-given-to-marry') more directly tracks the passive voice and the implicit 'parents-as-agent' (per uW TN figs-activepassive)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "οὕτως": {
+      "primary_thai": "ในทำนองเดียวกัน",
+      "all_renderings": {
+        "ในทำนองเดียวกัน": [
+          {
+            "verse": "Matthew 18:14",
+            "rationale": "Per uW figs-simile: 'In the same way' — introduces explicit-comparison connecting shepherd-parable to Father's-heart. Thai 'ในทำนองเดียวกัน' (in-the-same-manner) standard simile-connector for parable-application. Precedent: Matt 5:16, 18:35."
           }
         ]
       },
@@ -17556,6 +17866,18 @@
           {
             "verse": "Mark 5:25",
             "rationale": "Per uW figs-euphemism: 'being in a flow of blood' = euphemism for chronic abnormal menstrual bleeding. Thai 'โรคโลหิตตก' (disease blood-fall — the standard Thai biblical/medical term for hemorrhage, especially gynecological) preserves the dignified medical-euphemistic register. 'ผู้ป่วยด้วย' (sufferer-from) preserves οὖσα ἐν as a condition-state. RITUAL IMPURITY: under Lev 15:25–30, a woman with ongoing flow of blood is in continuous niddah-impurity, untouchable, isolated socially and religiously. This explains both her secrecy (v.27) and her later fear (v.33)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "οὗ γάρ εἰσιν δύο ἢ τρεῖς συνηγμένοι": {
+      "primary_thai": "เพราะว่าที่ใดมีสองหรือสามคนประชุมกัน",
+      "all_renderings": {
+        "เพราะว่าที่ใดมีสองหรือสามคนประชุมกัน": [
+          {
+            "verse": "Matthew 18:20",
+            "rationale": "Per uW grammar-connect-logic-result: γάρ here introduces reason-for-v.19 promise. Thai 'เพราะว่า' standard-causal. οὗ relative-adverb-of-place 'where' — Thai 'ที่ใด' (at-which-place). Per uW figs-nominaladj: 'two or three' substantival = 'two-or-three-believers' — Thai 'สองหรือสามคน' adds generic classifier 'คน' (person). Per glossary (Matt 2:4 συνάγει → ทรงประชุม; Matt 22:41 συνηγμένων → ชุมนุมกัน): συνάγω → ประชุม / ชุมนุม. συνηγμένοι periphrastic-present-perfect-passive 'having-been-gathered' → 'ประชุมกัน' (gathered-together) with assumed-ongoing-state. Per uW figs-activepassive: collective-middle/passive-formation preserved. NEW GLOSSARY: συνηγμένοι (prayer-gathering-context) → ประชุมกัน."
           }
         ]
       },
@@ -17812,6 +18134,18 @@
           {
             "verse": "Mark 7:23",
             "rationale": "Summary substantive: 'all these evils.' Thai 'บรรดา ... เหล่านี้' (all-of-these-evil-things-these) preserves the comprehensive scope. Closes the inclusio with v.21 ἔσωθεν — 'from within ... defile' brackets the entire vice-catalogue."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "πάντα τὰ γενόμενα": {
+      "primary_thai": "เหตุการณ์ทั้งหมด",
+      "all_renderings": {
+        "เหตุการณ์ทั้งหมด": [
+          {
+            "verse": "Matthew 18:31",
+            "rationale": "Repeats previous τὰ γενόμενα but with πάντα totalizer → 'เหตุการณ์ทั้งหมด' (all-the-events). Rhetorical-repetition in Greek mirrored in Thai at clause-end; the repetition signals both thoroughness-of-report and narrative-echo (same events, now viewed through-witnesses' moral-lens)."
           }
         ]
       },
@@ -18147,6 +18481,30 @@
       },
       "occurrences_count": 1
     },
+    "παράλαβε μετὰ σοῦ ἔτι ἕνα ἢ δύο": {
+      "primary_thai": "จงพาอีกสักคนสองคนไปกับท่าน",
+      "all_renderings": {
+        "จงพาอีกสักคนสองคนไปกับท่าน": [
+          {
+            "verse": "Matthew 18:16",
+            "rationale": "Per glossary (Matt 2:13, 2:14, 2:20, 2:21 παραλαβὼν → ทรงพา with Joseph-subject; Matt 4:5 παραλαμβάνει → ทรงพา Jesus-subject): παραλαμβάνω → พา (take-along). Here human-disciple-subject 2sg-imperative — neutral 'พา' without royal-prefix. ἔτι 'additionally/further' → 'อีก.' ἕνα ἢ δύο 'one or two' → 'สักคนสองคน' (some-1-or-2 idiom). Per uW figs-explicit: implication is 'go-back-with-them-to-reprove-again' preserved-implicitly in Thai sequence."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "παρέδωκεν αὐτὸν τοῖς βασανισταῖς": {
+      "primary_thai": "จึงทรงมอบเขาไว้ในมือของพวกผู้คุมที่ทรมานนักโทษ",
+      "all_renderings": {
+        "จึงทรงมอบเขาไว้ในมือของพวกผู้คุมที่ทรมานนักโทษ": [
+          {
+            "verse": "Matthew 18:34",
+            "rationale": "Per glossary (Matt 10:17, 17:22, 20:18, 26:15-16 παραδίδωμι → มอบ / ทรงมอบ): παραδίδωμι (hand-over) → มอบ. Royal-king-subject → ทรงมอบ. Per uW figs-idiom: 'handed over' = 'put under authority-and-control-of' — Thai 'ไว้ในมือของ' (in-the-hands-of) explicates the turn-over-completely sense. βασανιστής HAPAX (Matt 18:34 only). Per uW figs-explicit: could mean (1) specialized-torturing-jailers, or (2) general-prison-guards. Modern Greek-lexica (BDAG, LSJ) support (1) — ancient Hellenistic-Roman debt-prisons employed specialized-torturers to extract-payment-info-from-family-and-friends. Thai 'พวกผู้คุมที่ทรมานนักโทษ' (guards-who-torture-prisoners) captures the specialized-role without over-pedantic specification; natural-Thai-phrasing. NEW GLOSSARY: βασανιστής HAPAX → ผู้คุมที่ทรมานนักโทษ; παραδίδωμι τοῖς βασανισταῖς (hand-over-to-torturers) → ทรงมอบ...ไว้ในมือของพวกผู้คุมที่ทรมานนักโทษ."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "παρέδωκεν τὸν Ἰησοῦν ... ἵνα σταυρωθῇ": {
       "primary_thai": "มอบพระองค์ให้ถูกตรึงที่กางเขน",
       "all_renderings": {
@@ -18411,6 +18769,18 @@
       },
       "occurrences_count": 1
     },
+    "παρακούσῃ αὐτῶν": {
+      "primary_thai": "ไม่ยอมฟังคนเหล่านั้น",
+      "all_renderings": {
+        "ไม่ยอมฟังคนเหล่านั้น": [
+          {
+            "verse": "Matthew 18:17",
+            "rationale": "παρακούω here = 'refuse-to-listen-to / ignore' (BDAG sense 2) — distinct from παρακούω 'overhear/hear-through' (sense 1 found at Mark 5:36 glossary ทรงได้ยิน). Per RULES §4 contextual-variant: παρακούω (refuse-to-listen-context) → ไม่ยอมฟัง (CONTEXTUAL VARIANT from ได้ยิน overhear-sense). αὐτῶν genitive-plural-objective refers to 'one-or-two-others' from v.16."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "παραλαβὼν πάλιν": {
       "primary_thai": "ทรงนำ...ไปที่ลับแยกอีกครั้งหนึ่ง",
       "all_renderings": {
@@ -18586,6 +18956,18 @@
           {
             "verse": "Mark 5:10",
             "rationale": "παρακαλέω 'urge, beg, entreat' — imperfect indicates sustained begging. πολλά = adverbial 'much, repeatedly.' Thai 'วิงวอน' (entreat/plead) standard Thai for desperate request; 'อย่างยิ่ง' (very much / earnestly) preserves the intensifier."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "παρεκάλει αὐτὸν λέγων": {
+      "primary_thai": "อ้อนวอนเขาว่า",
+      "all_renderings": {
+        "อ้อนวอนเขาว่า": [
+          {
+            "verse": "Matthew 18:29",
+            "rationale": "Per glossary (Matt 2:18 παρακαλεῖτο → วิงวอน; Mark 1:40 παρακαλεῖ → วิงวอน; and many Matthean): παρακαλέω → วิงวอน / อ้อนวอน. Here fellow-slave-context humbler-tone → 'อ้อนวอน' (plead-humbly, more-desperate-sense) natural for begging-for-time."
           }
         ]
       },
@@ -19221,6 +19603,18 @@
       },
       "occurrences_count": 1
     },
+    "περὶ παντὸς πράγματος οὗ ἐὰν αἰτήσωνται": {
+      "primary_thai": "เกี่ยวกับสิ่งใดที่พวกเขาจะทูลขอ",
+      "all_renderings": {
+        "เกี่ยวกับสิ่งใดที่พวกเขาจะทูลขอ": [
+          {
+            "verse": "Matthew 18:19",
+            "rationale": "πᾶν πρᾶγμα 'anything-at-all' — Thai 'สิ่งใด' indefinite-anything. αἰτέω middle-voice (self-interested-request) → 'ขอ' for ordinary-request, but here + divine-Father-addressed → 'ทูลขอ' (royal-addressed-request per RULES §3). Per uW figs-123person: switches from 2pl (ἐξ ὑμῶν) to 3pl (αἰτήσωνται) — some translations smooth to 2pl throughout; Thai preserves Greek's 3pl-shift ('พวกเขา') which matches first-part's-indefinite-reference. NEW GLOSSARY: αἰτέω (human-to-divine-request-context) → ทูลขอ (CONTEXTUAL-VARIANT from human-to-human request → ขอ)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "περὶ τετάρτην φυλακὴν τῆς νυκτὸς": {
       "primary_thai": "ราวยามที่สี่แห่งคืนนั้น",
       "all_renderings": {
@@ -19252,6 +19646,30 @@
           {
             "verse": "Matthew 2:11",
             "rationale": "Per uW figs-explicit: πίπτω 'fall down' + προσκυνέω 'worship' = complete prostration-worship gesture. Thai 'กราบลง' (kneel-bow prostrate) + 'นมัสการ' (worship) combines the physical and verbal aspects. This is full-body kowtow — the Magi's response contradicts their courtly function (they would not fall like this before a mere earthly king they had not yet been presented to). Matthew signals their perception: this is more-than-human. Royal-register αὐτῷ = พระองค์."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "πεσὼν οὖν ὁ δοῦλος προσεκύνει αὐτῷ": {
+      "primary_thai": "ทาสคนนั้นจึงหมอบกราบลงแทบพระบาทของพระราชา",
+      "all_renderings": {
+        "ทาสคนนั้นจึงหมอบกราบลงแทบพระบาทของพระราชา": [
+          {
+            "verse": "Matthew 18:26",
+            "rationale": "Per uW translate-symaction: πεσὼν + προσκυνέω = kneel-with-face-close-to-ground + prostrate-worship-gesture of supreme-reverence. Per glossary (Matt 2:2 προσκυνῆσαι αὐτῷ → นมัสการพระองค์ for Magi-to-Jesus; Matt 4:9 προσκυνήσῃς → นมัสการ; Matt 8:2, 9:18, 14:33 etc.): προσκυνέω (superior-reverent-prostration) → นมัสการ generally. BUT in human-to-human-king-context here (king-in-parable not divine-referent-directly), Thai 'นมัสการ' implies worship-of-deity too strongly. Alternative 'หมอบกราบ' (prostrate-and-bow — traditional-Thai-royal-audience-gesture) preserves both the physical-gesture AND the non-deity-status while retaining formal-royal-register. 'แทบพระบาทของพระราชา' (at-the-royal-feet) explicates the royal-court-gesture. NEW GLOSSARY: πεσὼν + προσκυνέω (human-before-king-gesture) → หมอบกราบลงแทบพระบาท (CONTEXTUAL VARIANT from προσκυνέω-divine-worship → นมัสการ)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "πεσὼν οὖν ὁ σύνδουλος αὐτοῦ": {
+      "primary_thai": "เพื่อนทาสคนนั้นจึงคุกเข่าลง",
+      "all_renderings": {
+        "เพื่อนทาสคนนั้นจึงคุกเข่าลง": [
+          {
+            "verse": "Matthew 18:29",
+            "rationale": "Per uW translate-symaction: πεσών without προσκυνέω = falling-in-supplication but not-as-full-worship (less-than-v.26). Thai 'คุกเข่าลง' (knelt-down) captures supplicant-kneeling without implying-royal-worship (fellow-slave is equal, not king). This Thai-rendering differs from v.26's 'หมอบกราบลง' deliberately to mark the status-distinction between king (worship-gesture) and fellow-slave (ordinary-plea-gesture) — preserving Greek's absence-of-προσκυνέω here. 'เพื่อนทาส' per v.28 glossary. NEW GLOSSARY: πεσὼν (supplicant-kneel-no-worship-context) → คุกเข่าลง (CONTEXTUAL-VARIANT from πεσών-with-προσκυνέω → หมอบกราบลง)."
           }
         ]
       },
@@ -19324,6 +19742,18 @@
           {
             "verse": "1 Timothy 3:3",
             "rationale": "πλήκτης (from πλήσσω 'to strike') = a striker, bully, violent person. Noun describing habitual violence. ใช้ความรุนแรง = uses violence — captures the behavioral pattern."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "πλανηθῇ ἓν ἐξ αὐτῶν": {
+      "primary_thai": "ตัวหนึ่งในจำนวนนั้นหลงไป",
+      "all_renderings": {
+        "ตัวหนึ่งในจำนวนนั้นหลงไป": [
+          {
+            "verse": "Matthew 18:12",
+            "rationale": "πλανάω aorist-passive-subjunctive = 'go-astray / wander.' Thai 'หลง' primary rendering; 'หลงไป' (go-astray-go) with motion-vector. Passive-form indicates the sheep became-lost, not actively-chose to stray. NEW GLOSSARY: πλανάω (sheep-astray-context) → หลงไป."
           }
         ]
       },
@@ -19851,6 +20281,18 @@
       },
       "occurrences_count": 1
     },
+    "πορευθεὶς ζητεῖ τὸ πλανώμενον": {
+      "primary_thai": "แล้วออกไปตามหาตัวที่หลงไปนั้น",
+      "all_renderings": {
+        "แล้วออกไปตามหาตัวที่หลงไปนั้น": [
+          {
+            "verse": "Matthew 18:12",
+            "rationale": "Per uW figs-go: πορεύομαι 'go' — Thai 'ออกไป' (go-out). ζητέω present → ตามหา (seek/search-for, standard-glossary). Per uW figs-nominaladj: τὸ πλανώμενον substantival-present-participle 'the-straying-one' → 'ตัวที่หลงไป' (the-one-that-has-gone-astray, matching πλανηθῇ earlier). Present-tense indicates ongoing-active-search."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "πορευόμενοι δὲ κηρύσσετε": {
       "primary_thai": "ขณะที่พวกท่านไป จงประกาศ",
       "all_renderings": {
@@ -19894,6 +20336,18 @@
           {
             "verse": "Mark 7:21",
             "rationale": "All three are abstract-noun plurals (acts/instances). Thai uses 'การ' nominalizer + verb to form abstract nouns. πορνεῖαι = 'sexual immoralities' (plural — instances of πορνεία; broader than just adultery, includes prostitution, fornication, sexual sins generally) → Thai 'การล่วงประเวณี' (transgress-sex-prohibition; the standard biblical term for sexual immorality). κλοπαί = 'thefts' → 'การลักขโมย' (steal-act). φόνοι = 'murders' → 'การฆาตกรรม' (kill-act, formal/legal register)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ποσάκις ἁμαρτήσει εἰς ἐμὲ ὁ ἀδελφός μου καὶ ἀφήσω αὐτῷ": {
+      "primary_thai": "ข้าพระองค์ควรจะยกโทษให้พี่น้องที่ทำบาปต่อข้าพระองค์กี่ครั้ง",
+      "all_renderings": {
+        "ข้าพระองค์ควรจะยกโทษให้พี่น้องที่ทำบาปต่อข้าพระองค์กี่ครั้ง": [
+          {
+            "verse": "Matthew 18:21",
+            "rationale": "Per uW figs-infostructure: Peter orders Greek 'sin-then-forgive' ('if-brother-sins-against-me, how-often-shall-I-forgive'); Thai more natural 'forgive-how-many-times-brother-who-sins-against-me' — inverting to put the focal-question (how-many-times?) first. ποσάκις → กี่ครั้ง (standard interrogative-counting). Per uW figs-declarative: future-tense used-as-deliberative 'should-I-forgive' — Thai 'ข้าพระองค์ควรจะยกโทษ' (I-ought-to-forgive) explicit-deliberation. Humble 'ข้าพระองค์' (humble-1sg-to-divine) + 'ต่อข้าพระองค์' per RULES §3. ἀφίημι + dative (forgive-someone) → 'ยกโทษให้' (forgive-offense-to). NEW GLOSSARY: ποσάκις → กี่ครั้ง; ἀφίημι (forgive-offense-context) → ยกโทษให้ (CONTEXTUAL VARIANT from ἀφίημι leave-sheep สนsubject ละ v.12 and forgive-debt-context ยก v.27)."
           }
         ]
       },
@@ -20368,6 +20822,18 @@
           {
             "verse": "Matthew 12:22",
             "rationale": "Per uW figs-activepassive: divine-passive converted to active 'they-brought.' Thai 'มีคน...นำมาเฝ้าพระองค์' (someone-brought-to-royal-presence) preserves divine-audience register."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "προσηνέχθη αὐτῷ εἷς ὀφειλέτης μυρίων ταλάντων": {
+      "primary_thai": "ก็มีผู้หนึ่งซึ่งเป็นหนี้หนึ่งหมื่นตะลันต์ถูกนำมาเฝ้าพระองค์",
+      "all_renderings": {
+        "ก็มีผู้หนึ่งซึ่งเป็นหนี้หนึ่งหมื่นตะลันต์ถูกนำมาเฝ้าพระองค์": [
+          {
+            "verse": "Matthew 18:24",
+            "rationale": "Per uW figs-activepassive: προσηνέχθη aorist-passive 'was-brought' (formal-court-presentation) — divine-court-register. Thai 'ถูกนำมาเฝ้าพระองค์' (was-brought-to-audience-of-royal-presence) — 'เฝ้า' is the royal-court verb (to-appear-before-royalty). Per uW figs-possession: ὀφειλέτης μυρίων ταλάντων (debtor of-10K-talents) genitive-of-quantity = one-who-owes-10K-talents. Thai 'เป็นหนี้หนึ่งหมื่นตะลันต์' unpacks. Per uW translate-bmoney: μύριος τάλαντον 'ten-thousand-talents' = enormous-sum (~60M days' wages, highest-possible-number + largest-monetary-unit = rhetorical-maximum). Thai 'หนึ่งหมื่นตะลันต์' preserves numeric-hyperbole. 'ตะลันต์' standard transliteration (established in Thai Christian usage — Matt 25:14-30 parable-of-talents uses it consistently). NEW GLOSSARY: τάλαντον → ตะลันต์; μύριοι (ten-thousand, denoting-uncountability) → หนึ่งหมื่น; ὀφειλέτης → ลูกหนี้ / ผู้เป็นหนี้; προσηνέχθη (royal-court-presentation-passive) → ถูกนำมาเฝ้า."
           }
         ]
       },
@@ -21523,6 +21989,18 @@
       },
       "occurrences_count": 1
     },
+    "πᾶσαν τὴν ὀφειλὴν ἐκείνην ἀφῆκά σοι": {
+      "primary_thai": "เราได้ยกหนี้ทั้งหมดนั้นให้เจ้าแล้ว",
+      "all_renderings": {
+        "เราได้ยกหนี้ทั้งหมดนั้นให้เจ้าแล้ว": [
+          {
+            "verse": "Matthew 18:32",
+            "rationale": "Royal self-reference 'เรา' for king per RULES §3. Per glossary (Matt 6:12 τὰ ὀφειλήματα ἡμῶν → หนี้ของข้าพระองค์ทั้งหลาย; here with ὀφειλή singular): ὀφειλή → หนี้. Per RULES §4: ἀφίημι (forgive-debt-context parable-king-subject) → ทรงยก — but here 1sg-past 'ἀφῆκά' rendered 'ได้ยก...ให้เจ้าแล้ว' (1sg-past-completed, without royal-ทรง-prefix because king is speaking-of-his-own-action in 1st-person — self-reference of king in Thai-royal-speech uses 'เรา' subject but retains non-ทรง-prefix for his-own-first-person-speech by convention; ทรง- is applied mainly when narrating royal-action externally). ἐκείνην (that) preserved in Thai 'นั้น.' ἐπεὶ (since/because) per uW grammar-connect-logic-result — Thai 'เพราะ.' NEW GLOSSARY: ὀφειλή → หนี้; πᾶσαν τὴν ὀφειλὴν (total-debt with-totalizer) → หนี้ทั้งหมด."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "πῶλον": {
       "primary_thai": "ลูกลา",
       "all_renderings": {
@@ -22036,6 +22514,18 @@
           {
             "verse": "Mark 8:2",
             "rationale": "Same verb in 6:34 (first feeding), where it marked Jesus' shepherd-compassion for Israel. Here it marks his compassion for the Gentile-region crowd — Mark deliberately uses the same verb for both contexts, levelling Jew and Gentile under the messianic mercy. σπλάγχνα literally = inward-organs (Heb. רַחֲמִים rachamim, womb-compassion). Thai compound 'เมตตาสงสาร' (loving-kindness + pity) captures the visceral depth; plain 'สงสาร' alone is too thin. Per uW figs-abstractnouns: render abstract noun as finite verb-phrase."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "σπλαγχνισθεὶς δὲ ὁ κύριος τοῦ δούλου ἐκείνου": {
+      "primary_thai": "พระราชาของทาสคนนั้นทรงพระเมตตาสงสาร",
+      "all_renderings": {
+        "พระราชาของทาสคนนั้นทรงพระเมตตาสงสาร": [
+          {
+            "verse": "Matthew 18:27",
+            "rationale": "Per glossary: σπλαγχνίζομαι → มีความเมตตาสงสาร (established Mark 1:41, Matt 9:36, 14:14, 15:32). With royal-parable-king-subject per RULES §3 → 'ทรงพระเมตตาสงสาร' (royal-mercy-prefix ทรง + พระ-prefix-on-abstract-noun) preserves divine-parallel since king figures Father. σπλαγχνισθείς aorist-passive-participle 'having-been-moved-with-compassion' — Greek middle/passive expresses internal-emotional-response. Thai 'ทรงพระเมตตา' captures the subjective-royal-experience. Per v.25 glossary: ὁ κύριος (parable-king) → พระราชา. NEW GLOSSARY: σπλαγχνίζομαι (royal-parable-king-subject) → ทรงพระเมตตาสงสาร (CONTEXTUAL-VARIANT with ทรง-prefix for royal-king in parable)."
           }
         ]
       },
@@ -22899,6 +23389,18 @@
       },
       "occurrences_count": 1
     },
+    "τί ὑμῖν δοκεῖ": {
+      "primary_thai": "พวกท่านคิดเห็นอย่างไร",
+      "all_renderings": {
+        "พวกท่านคิดเห็นอย่างไร": [
+          {
+            "verse": "Matthew 18:12",
+            "rationale": "Per uW figs-rquestion: rhetorical question to engage attention, not asking for literal answer. Per uW figs-yousingular: ὑμῖν plural — Jesus addresses disciples. Per glossary precedents (Matt 17:25 τί σοι δοκεῖ → ท่านคิดเห็นอย่างไร; Matt 22:17, 22:42): τί + δοκέω (attention-getter) → คิดเห็นอย่างไร. Standard Matthean discourse-opener used 6x in Matthew (17:25, 18:12, 21:28, 22:17, 22:42, 26:66)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "τί ὑμῖν φαίνεται": {
       "primary_thai": "ท่านทั้งหลายเห็นเป็นอย่างไร",
       "all_renderings": {
@@ -23443,6 +23945,18 @@
       },
       "occurrences_count": 1
     },
+    "τοῖς μὴ πεπλανημένοις": {
+      "primary_thai": "ที่ไม่ได้หลงไปเสียอีก",
+      "all_renderings": {
+        "ที่ไม่ได้หลงไปเสียอีก": [
+          {
+            "verse": "Matthew 18:13",
+            "rationale": "Perfect passive participle 'ones-having-(not)-strayed' — state-resulting-from-past. Thai 'ที่ไม่ได้หลงไป' (which-had-not-gone-astray) captures stative-perfect. 'เสียอีก' sentence-final-contrastive-particle emphasizes the counter-intuitive comparison (the faithful-99 evokes surprise that they're ranked LESS in the moment of joy)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "τοῖς παισὶν αὐτοῦ": {
       "primary_thai": "ข้าราชบริพารของตน",
       "all_renderings": {
@@ -23640,7 +24154,7 @@
       "occurrences_count": 1
     },
     "τοῦ ἐν οὐρανοῖς": {
-      "primary_thai": "ผู้ทรงสถิตในสวรรค์",
+      "primary_thai": "ผู้สถิตในสวรรค์",
       "all_renderings": {
         "ผู้ทรงสถิตในสวรรค์": [
           {
@@ -23652,10 +24166,14 @@
           {
             "verse": "Matthew 18:10",
             "rationale": "Per glossary (Matt 5:16 πατέρα ἐν τοῖς οὐρανοῖς → พระบิดาผู้สถิตในสวรรค์; Matt 6:9 verbatim; etc.): τοῦ ἐν οὐρανοῖς → ผู้สถิตในสวรรค์. 'สถิต' is royal-Thai-verb for divine-presence (established pattern). Plural οὐρανοί (heavens) pragmatically rendered as Thai singular 'สวรรค์' — Thai lacks number-distinction here. Repetition of 'ἐν οὐρανοῖς' (angels-in-heaven AND Father-in-heavens) preserved."
+          },
+          {
+            "verse": "Matthew 18:14",
+            "rationale": "Per established glossary (Matt 5:16, 6:9, etc., v.10 this chapter): τοῦ ἐν οὐρανοῖς → ผู้สถิตในสวรรค์. Royal-divine 'สถิต' verb."
           }
         ]
       },
-      "occurrences_count": 2
+      "occurrences_count": 3
     },
     "τοῦ ἰδίου οἴκου": {
       "primary_thai": "ครอบครัวของตนเอง",
@@ -23880,6 +24398,18 @@
           {
             "verse": "Matthew 9:15",
             "rationale": "τότε 'then' — post-removal. Thai ในวันนั้นพวกเขาจึงจะ (at-that-time-they-therefore-will) preserves the temporal-logical sequence."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "τότε προσκαλεσάμενος αὐτὸν ὁ κύριος αὐτοῦ": {
+      "primary_thai": "ครั้งนั้น พระราชาจึงทรงเรียกทาสคนนั้นมา",
+      "all_renderings": {
+        "ครั้งนั้น พระราชาจึงทรงเรียกทาสคนนั้นมา": [
+          {
+            "verse": "Matthew 18:32",
+            "rationale": "Per glossary (Matt 10:1 προσκαλεσάμενος → ทรงเรียก): προσκαλέω (royal-subject summoning) → ทรงเรียก (royal-ทรง per RULES §3). 'ทาสคนนั้น' explicit-antecedent for αὐτόν (Thai-preference)."
           }
         ]
       },
@@ -24626,6 +25156,18 @@
           {
             "verse": "Matthew 1:20",
             "rationale": "Per uW figs-activepassive: passive γεννηθέν 'the one having been conceived.' Thai 'ผู้ที่ปฏิสนธิ' (the one who is conceived) preserves the passive-reverential tone. Inclusion of 'ผู้' (the one who) not 'สิ่งที่' (thing) because the referent is the unborn Christ — personal, not thing-like. ἐκ πνεύματος = 'from/by the Spirit' (causal preposition). Per uW chapter intro: 'You should not identify the Holy Spirit as the one who performed the normal male role... the Holy Spirit performed a miracle.' Thai 'เป็นมาจาก' (comes from/is sourced from) avoids male-role semantics. NEW GLOSSARY: γεννάω (passive, of Jesus's conception) → ปฏิสนธิ."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "τὸ δάνειον ἀφῆκεν αὐτῷ": {
+      "primary_thai": "และทรงยกหนี้ให้แก่เขา",
+      "all_renderings": {
+        "และทรงยกหนี้ให้แก่เขา": [
+          {
+            "verse": "Matthew 18:27",
+            "rationale": "δάνειον is NT HAPAX (Matt 18:27 only). LXX-occurrence Sir 18:33, Deut 24:10-11 = 'loan/debt.' Distinct from ὀφείλημα (used Matt 6:12 Lord's Prayer for trespass-as-debt) and ὀφειλή (below v.32). Thai 'หนี้' covers all three (debt generic). Per uW figs-idiom: 'forgave him his debt' = cancellation. Per RULES §4 contextual-variant: ἀφίημι (forgive-debt-context) → ยก (CONTEXTUAL — established-pattern Matt 6:12 ἄφες ἡμῖν τὰ ὀφειλήματα → ขอทรงยกหนี้; and this verse; distinct from ἀφίημι leave-sheep v.12 → ละ and ἀφίημι forgive-offense v.21 → ยกโทษ). Royal 'ทรงยก' per RULES §3. 'ให้แก่เขา' dative-indirect-object. NEW GLOSSARY: δάνειον HAPAX → หนี้; ἀφίημι τὸ δάνειον (forgive-loan-context) → ทรงยกหนี้ (CONTEXTUAL VARIANT)."
           }
         ]
       },
@@ -26169,6 +26711,18 @@
       },
       "occurrences_count": 1
     },
+    "χαίρει ἐπ’αὐτῷ μᾶλλον ἢ ἐπὶ τοῖς ἐνενήκοντα ἐννέα": {
+      "primary_thai": "เขาจะชื่นชมยินดีในตัวนั้นมากกว่าในเก้าสิบเก้าตัว",
+      "all_renderings": {
+        "เขาจะชื่นชมยินดีในตัวนั้นมากกว่าในเก้าสิบเก้าตัว": [
+          {
+            "verse": "Matthew 18:13",
+            "rationale": "Per glossary (Matt 2:10 ἐχάρησαν → ชื่นชมยินดี; Matt 5:12 χαίρετε → จงชื่นชม): χαίρω → ชื่นชมยินดี (rejoice-joyfully). ἐπί + dative = 'over/about' (object-of-joy) → Thai 'ใน.' μᾶλλον ἤ comparative → 'มากกว่า.' Per uW figs-ellipsis: Jesus leaves out 'than-he-rejoices-over' — Thai 'มากกว่าใน...' preserves the same natural-ellipsis. Present-tense χαίρει expresses character-of-shepherd's-response, not one-time-past-event."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "χαίρετε καὶ ἀγαλλιᾶσθε": {
       "primary_thai": "จงยินดีและเปรมปรีดิ์เถิด",
       "all_renderings": {
@@ -27023,6 +27577,18 @@
       },
       "occurrences_count": 1
     },
+    "ἀλλὰ ἀπελθὼν ἔβαλεν αὐτὸν εἰς φυλακὴν": {
+      "primary_thai": "กลับออกไปจับเขาโยนเข้าคุก",
+      "all_renderings": {
+        "กลับออกไปจับเขาโยนเข้าคุก": [
+          {
+            "verse": "Matthew 18:30",
+            "rationale": "Per uW grammar-connect-logic-contrast: ἀλλά strong-adversative. ἀπελθών aorist-participle 'having-gone-away' — Thai 'กลับออกไป' (instead-went-out). Per uW figs-idiom: 'ἔβαλεν εἰς φυλακήν' = 'threw-into-prison' = 'had-imprisoned' (per uW figs-explicit: he had others-do-it-for-him). Thai 'จับเขาโยนเข้า' (seize-and-throw-into) captures the aggressive-compound action; 'จับ' (seize) is implicit-natural in Thai for the prerequisite-grabbing. Per glossary (Matt 14:3, 4:12, 11:2): φυλακή → คุก (prison, distinct from δεσμωτήριον used Matt 11:2). NEW GLOSSARY: βάλλω εἰς φυλακήν (throw-into-prison idiom) → โยนเข้าคุก; φυλακή → คุก."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἀλλὰ ἀπὸ τῆς διδαχῆς τῶν Φαρισαίων καὶ Σαδδουκαίων": {
       "primary_thai": "แต่ให้ระวังคำสอนของพวกฟาρισีและพวกสะดูสี",
       "all_renderings": {
@@ -27276,10 +27842,26 @@
           {
             "verse": "Matthew 16:28",
             "rationale": "Per glossary: ἀμὴν λέγω ὑμῖν → เราบอกความจริงแก่พวกท่านว่า (established). Solemn-affirmation formula."
+          },
+          {
+            "verse": "Matthew 18:18",
+            "rationale": "Per glossary + v.3 + v.13 this chapter: ἀμὴν λέγω ὑμῖν → เราบอกความจริงแก่พวกท่านว่า. Per uW figs-yousingular: ὑμῖν here plural (disciples-addressed-collectively)."
           }
         ]
       },
-      "occurrences_count": 8
+      "occurrences_count": 9
+    },
+    "ἀμὴν λέγω ὑμῖν ὅτι": {
+      "primary_thai": "เราบอกความจริงแก่พวกท่านว่า",
+      "all_renderings": {
+        "เราบอกความจริงแก่พวกท่านว่า": [
+          {
+            "verse": "Matthew 18:13",
+            "rationale": "Per glossary (Matt 5:18, 5:26, etc., and Matt 18:3 this chapter): ἀμὴν λέγω ὑμῖν → เราบอกความจริงแก่พวกท่านว่า. Matthean emphatic-assertion formula. Royal 1sg 'เรา' for Jesus self-reference per RULES §3."
+          }
+        ]
+      },
+      "occurrences_count": 1
     },
     "ἀμὴν λέγω ὑμῖν ὅτι οὐ μὴ ἀπολέσῃ τὸν μισθὸν αὐτοῦ": {
       "primary_thai": "เราบอกความจริงแก่พวกท่านว่า ... ผู้นั้นจะไม่สูญเสียบำเหน็จของตนเลย",
@@ -27971,6 +28553,18 @@
       },
       "occurrences_count": 1
     },
+    "ἀνθρώπῳ βασιλεῖ": {
+      "primary_thai": "กษัตริย์องค์หนึ่ง",
+      "all_renderings": {
+        "กษัตริย์องค์หนึ่ง": [
+          {
+            "verse": "Matthew 18:23",
+            "rationale": "Per uW Hebraism: ἀνθρώπῳ + noun = 'a-certain-one-who-is-X' (Semitic indefinite-marker idiom). Not 'a-man-who-is-also-a-king' but 'a-king.' Thai 'องค์หนึ่ง' indefinite-classifier for royal-personage. Per glossary: βασιλεύς → กษัตริย์. Parable-king receives royal-register throughout per RULES §3 (parable-kings in Matthean parables conventionally get royal-register since they figure divine-Father at moral-level). NEW GLOSSARY: ἀνθρώπῳ βασιλεῖ (Hebraic-indefinite-king) → กษัตริย์องค์หนึ่ง."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἀνθρώπῳ οἰκοδεσπότῃ": {
       "primary_thai": "เจ้าของบ้าน",
       "all_renderings": {
@@ -28086,6 +28680,18 @@
           {
             "verse": "Mark 8:9",
             "rationale": "Divine-action ราชาศัพท์ 'ทรง.' ἀπολύω = release/dismiss. Thai causative 'ให้...กลับไป' (cause-to-go-back) preserves the dismissal sense."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἀπέλυσεν αὐτόν": {
+      "primary_thai": "จึงทรงปล่อยเขา",
+      "all_renderings": {
+        "จึงทรงปล่อยเขา": [
+          {
+            "verse": "Matthew 18:27",
+            "rationale": "ἀπολύω aorist-active-3sg 'released' — Thai 'ปล่อย' primary rendering. Royal-prefix 'ทรง' per parable-king-royal-register per RULES §3. 'เขา' 3sg-object for slave. Per glossary precedents Matt 14:15 ἀπόλυσον → ทรงปล่อย (royal-released-for-Jesus); Matt 15:23, 15:32. NEW GLOSSARY: ἀπολύω (royal-king-releases-debtor) → ทรงปล่อย."
           }
         ]
       },
@@ -29087,6 +29693,18 @@
       },
       "occurrences_count": 1
     },
+    "ἀπὸ τῶν καρδιῶν ὑμῶν": {
+      "primary_thai": "จากใจจริง",
+      "all_renderings": {
+        "จากใจจริง": [
+          {
+            "verse": "Matthew 18:35",
+            "rationale": "Per uW figs-idiom: 'from your hearts' = 'sincerely / wholeheartedly / completely.' Per glossary (Matt 5:8, 11:29, 13:15, 15:8, etc.): καρδία → ใจ. Thai 'จากใจจริง' (from-heart-truly, sincerity-idiom) captures both the heart-origin (Greek-literal) AND the sincerity-meaning (idiomatic-force). Alternative 'จากใจของพวกท่าน' (from-your-hearts) would preserve literalness but lose the Thai-idiom naturalness — 'จากใจจริง' is the established Thai-Christian-rendering. CLOSES outer « » opening at v.22 — Jesus's reply to Peter concludes with parable-application."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἀπὸ τῶν καρπῶν αὐτῶν ἐπιγνώσεσθε αὐτούς": {
       "primary_thai": "พวกท่านจะรู้จักเขาได้ด้วยผลของเขา",
       "all_renderings": {
@@ -29416,6 +30034,18 @@
           {
             "verse": "Matthew 14:30",
             "rationale": "Per uW figs-explicit: sinking into the sea. 'พอเริ่มจะจมน้ำ' (as he started to sink) natural Thai sequential. NEW GLOSSARY: καταποντίζομαι → จมน้ำ."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἀρξαμένου δὲ αὐτοῦ συναίρειν": {
+      "primary_thai": "เมื่อพระองค์ทรงเริ่มชำระบัญชี",
+      "all_renderings": {
+        "เมื่อพระองค์ทรงเริ่มชำระบัญชี": [
+          {
+            "verse": "Matthew 18:24",
+            "rationale": "Genitive-absolute aorist-middle-participle ἀρξαμένου + infinitive συναίρειν = 'when-he-began-to-settle.' Thai 'เมื่อ...ทรงเริ่ม' (when...royal-began) per royal-register for parable-king. Royal-3sg 'พระองค์' for αὐτοῦ. Matches v.23's συνᾶραι λόγον → ชำระบัญชี (consistent within-parable)."
           }
         ]
       },
@@ -29838,6 +30468,18 @@
           {
             "verse": "Mark 5:3",
             "rationale": "ἅλυσις = chain. Per uW translate-unknown: long flexible metal-link binding. Thai 'โซ่' (chain) standard; 'โซ่ตรวน' (chain-shackle) hendiadys captures the binding-implement category. Anticipates v.4's compound πέδαι + ἁλύσεις."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἁμαρτήσῃ εἰς σὲ ὁ ἀδελφός σου": {
+      "primary_thai": "พี่น้องของท่านทำบาปต่อท่าน",
+      "all_renderings": {
+        "พี่น้องของท่านทำบาปต่อท่าน": [
+          {
+            "verse": "Matthew 18:15",
+            "rationale": "Per glossary (Matt 1:21 ἁμαρτιῶν → บาป; Matt 12:31 ἁμαρτία → บาป; Matt 9:2 ἁμαρτίαι → บาป): ἁμαρτάνω → ทำบาป. Per uW figs-metaphor: ἀδελφός generic = 'fellow-disciple / fellow-believer' (not literal-sibling). Thai 'พี่น้อง' standard Thai-Christian usage captures both literal-brother AND fellow-believer (vague-like-Greek). Per uW figs-gendernotations + figs-youcrowd: σου singular-2sg (Jesus addresses individual-case). Thai 'ท่าน' singular-polite for individual-addressed. Textual variant: SBLGNT includes 'εἰς σὲ' (against you); some mss omit. Followed SBLGNT, mentioned in uW notes. NEW GLOSSARY: ἁμαρτάνω εἰς σέ (sin-against-another) → ทำบาปต่อท่าน; ἀδελφός (fellow-believer-discipleship-context) → พี่น้อง."
           }
         ]
       },
@@ -31025,6 +31667,18 @@
       },
       "occurrences_count": 1
     },
+    "ἐάν σου ἀκούσῃ,ἐκέρδησας τὸν ἀδελφόν σου": {
+      "primary_thai": "ถ้าเขาฟังท่าน ท่านก็ได้พี่น้องของท่านกลับคืนมา",
+      "all_renderings": {
+        "ถ้าเขาฟังท่าน ท่านก็ได้พี่น้องของท่านกลับคืนมา": [
+          {
+            "verse": "Matthew 18:15",
+            "rationale": "Per uW figs-metaphor: κερδαίνω (gain) metaphorical = 'regain/restore-relationship.' ἀκούω + genitive-of-person (σου) = 'listen-to / heed-you.' Thai 'ฟังท่าน' standard-hearing. Aorist ἐκέρδησας (gnomic-perfective 'you have-gained') expresses completed-restoration at that moment. 'ได้...กลับคืนมา' (have-regained) captures the metaphor of re-acquiring a relationship-that-had-been-broken. NEW GLOSSARY: κερδαίνω (relationship-restoration-context) → ได้...กลับคืนมา (CONTEXTUAL-VARIANT from κερδαίνω profit/gain-sense Matt 16:26 → ได้ กำไร)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἐάν τινος ἀδελφὸς ἀποθάνῃ...ἐξαναστήσῃ σπέρμα τῷ ἀδελφῷ αὐτοῦ": {
       "primary_thai": "‹ถ้าพี่ชายของใครตาย...ให้มีบุตรสืบสกุลให้แก่พี่ชายของตน›",
       "all_renderings": {
@@ -32097,6 +32751,18 @@
       },
       "occurrences_count": 1
     },
+    "ἐκέλευσεν αὐτὸν ὁ κύριος πραθῆναι": {
+      "primary_thai": "พระราชาจึงทรงสั่งให้ขายทั้งตัวเขา",
+      "all_renderings": {
+        "พระราชาจึงทรงสั่งให้ขายทั้งตัวเขา": [
+          {
+            "verse": "Matthew 18:25",
+            "rationale": "Per uW figs-explicit: ὁ κύριος = same-figure as king from v.23 — Thai 'พระราชา' explicit-king-reference (retaining royal-register consistency). Per RULES §4: κύριος within-parable-royal-context → พระราชา (CONTEXTUAL VARIANT from κύριος = องค์พระผู้เป็นเจ้า divine-Lord of OT-citations; and from human-master นาย in other parables). ἐκέλευσεν + passive-infinitive πραθῆναι → 'ทรงสั่งให้ขาย' (royal-command + to-be-sold). πραθῆναι aorist-passive-infinitive of πιπράσκω (sell). NEW GLOSSARY: κύριος (parable-king-context) → พระราชา (CONTEXTUAL VARIANT); πιπράσκω (sell-into-slavery) → ขาย; κελεύω + passive-infinitive (royal-command-idiom) → ทรงสั่งให้."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἐκέλευσεν δοθῆναι": {
       "primary_thai": "สั่งให้กระทำตามที่นางขอ",
       "all_renderings": {
@@ -32254,6 +32920,18 @@
           {
             "verse": "Mark 12:4",
             "rationale": "NT HAPAX: κεφαλιόω (only here). Denominative from κεφαλή 'head' — 'strike-on-the-head / give-a-head-wound.' Louw-Nida 19.13 'inflict a head wound.' Classical parallels are sparse; the verb has sometimes been read as 'sum-up/crown' (κεφάλαιον 'summary/sum'), but the narrative context (parallel with ἔδειραν 12:3 and ἀπέκτειναν 12:5) requires the violent-physical sense. Thai ทุบที่ศีรษะ ('beat at-the-head') preserves the physicality. Matches BSB's 'struck him over the head.'"
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἐκεῖ εἰμι ἐν μέσῳ αὐτῶν": {
+      "primary_thai": "เราก็อยู่ที่นั่นท่ามกลางพวกเขา",
+      "all_renderings": {
+        "เราก็อยู่ที่นั่นท่ามกลางพวกเขา": [
+          {
+            "verse": "Matthew 18:20",
+            "rationale": "Per uW figs-metaphor: 'am in their midst' = being-spiritually-present. Thai preserves ambiguity with 'อยู่ที่นั่นท่ามกลาง' (be-there-among-them) without flattening to 'spiritually-present' overt-explanation. Present-tense εἰμί = ongoing-continuous-presence. Royal-self 'เรา' per Jesus-speech. CLOSES outer « » quote-block opening at v.3's 'ตรัสว่า «เราบอกความจริง...' and extending through vv.3-20 Jesus's reply-to-disciples' v.1 question."
           }
         ]
       },
@@ -32727,6 +33405,18 @@
       },
       "occurrences_count": 1
     },
+    "ἐλθόντες διεσάφησαν τῷ κυρίῳ ἑαυτῶν": {
+      "primary_thai": "จึงเข้าเฝ้าพระราชาของตนเองและทูลเล่า...ให้ทรงทราบ",
+      "all_renderings": {
+        "จึงเข้าเฝ้าพระราชาของตนเองและทูลเล่า...ให้ทรงทราบ": [
+          {
+            "verse": "Matthew 18:31",
+            "rationale": "ἐλθόντες 'having-come' — Thai 'เข้าเฝ้า' (come-into-royal-audience, court-idiom per RULES §3 royal-register for king). Per glossary (Matt 13:36 διασάφησον → อธิบาย): διασαφέω 'explain-clearly / recount-in-detail.' Here court-report-context → 'ทูลเล่า...ให้ทรงทราบ' (royally-recount-for-the-king-to-know) — combines 'ทูล' (humble-to-royal speech-verb per RULES §3) + 'เล่า' (narrate) + 'ทรงทราบ' (royal-knowing). Captures both the scene's court-report-formality AND the diasaphéō-'explaining-in-full' sense. Per v.25 glossary precedent: ὁ κύριος (parable-king) → พระราชา. 'ของตนเอง' reflexive-possessive. NEW GLOSSARY: διασαφέω (royal-court-report-context) → ทูลเล่า...ให้ทรงทราบ (CONTEXTUAL-VARIANT from simple-explain context)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἐλθόντες πρὸς τοὺς μαθητὰς": {
       "primary_thai": "พระองค์เสด็จกลับมาหาเหล่าสาวก",
       "all_renderings": {
@@ -32830,6 +33520,18 @@
           {
             "verse": "1 Timothy 3:14",
             "rationale": "Present participle of concurrent circumstance: 'while hoping.' ขณะที่ = 'while / at the time that' — preserves the contemporaneity."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἐλυπήθησαν σφόδρα": {
+      "primary_thai": "ก็เศร้าใจยิ่งนัก",
+      "all_renderings": {
+        "ก็เศร้าใจยิ่งนัก": [
+          {
+            "verse": "Matthew 18:31",
+            "rationale": "Per uW figs-activepassive: ἐλυπήθησαν aorist-passive-3pl 'were-grieved.' Per glossary (Matt 14:9 ἐλυπήθη → เสียพระทัย; Matt 17:23, 19:22, 26:22 ἐλυπήθησαν → เป็นทุกข์ยิ่งนัก / เสียใจ): λυπέω → เศร้าใจ / เสียใจ / เป็นทุกข์ (family-of-grief-emotion). Thai 'เศร้าใจยิ่งนัก' (greatly-grieved) matches established-pattern. σφόδρα intensifier → 'ยิ่งนัก' (greatly/exceedingly) standard-rendering. NEW GLOSSARY: λυπέω (moral-distress-over-evil-seen) → เศร้าใจ (CONTEXTUAL matching Matt 17:23 etc.)."
           }
         ]
       },
@@ -34571,6 +35273,18 @@
       },
       "occurrences_count": 1
     },
+    "ἐξελθὼν δὲ ὁ δοῦλος ἐκεῖνος": {
+      "primary_thai": "แต่เมื่อทาสคนนั้นออกไป",
+      "all_renderings": {
+        "แต่เมื่อทาสคนนั้นออกไป": [
+          {
+            "verse": "Matthew 18:28",
+            "rationale": "ἐξελθών aorist-active-participle 'having-gone-out' — Thai 'เมื่อ...ออกไป' temporal-clause. Per glossary (precedent common-usage): ἐξέρχομαι → ออกไป (go-out). δέ narrative-transition. 'ทาสคนนั้น' demonstrative explicit-referent."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἐξελθὼν εἶδεν πολὺν ὄχλον": {
       "primary_thai": "เมื่อเสด็จขึ้นจากเรือ พระองค์ทอดพระเนตรเห็นฝูงชนจำนวนมาก",
       "all_renderings": {
@@ -35206,6 +35920,18 @@
           {
             "verse": "MRK 10:48",
             "rationale": "ἐπιτιμάω (rebuke) — SAME VERB as v.13 (disciples rebuking those bringing children). Mark's echo: the crowd tries to silence a child/outsider approaching Jesus; Jesus's response will likewise overturn the silencing."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἐπεὶ παρεκάλεσάς με": {
+      "primary_thai": "เพราะเจ้าได้อ้อนวอนเรา",
+      "all_renderings": {
+        "เพราะเจ้าได้อ้อนวอนเรา": [
+          {
+            "verse": "Matthew 18:32",
+            "rationale": "Per glossary + v.29 this chapter: παρακαλέω → อ้อนวอน. Past-tense aorist 'you-begged.' King-to-slave register 'เจ้า' + self-reference 'เรา.' Per uW figs-explicit: king-implies 'you-begged-me-to-be-patient' — Thai preserves succinct Greek without over-explicating."
           }
         ]
       },
@@ -36533,6 +37259,30 @@
       },
       "occurrences_count": 1
     },
+    "ἐὰν γένηταί τινι ἀνθρώπῳ ἑκατὸν πρόβατα": {
+      "primary_thai": "ถ้าชายคนหนึ่งมีแกะหนึ่งร้อยตัว",
+      "all_renderings": {
+        "ถ้าชายคนหนึ่งมีแกะหนึ่งร้อยตัว": [
+          {
+            "verse": "Matthew 18:12",
+            "rationale": "Per uW figs-parables + figs-hypo: hypothetical-parable-opener. γίνομαι + dative-of-possession (τινι) = 'belongs-to-a-certain-man / a-certain-man-has.' Thai 'มี' standard-have-rendering. ἑκατόν → หนึ่งร้อย; πρόβατα → แกะ (glossary precedent: Matt 10:6 τὰ πρόβατα τὰ ἀπολωλότα οἴκου Ἰσραήλ → แกะที่หลงหาย; Matt 9:36, 15:24). 'ตัว' classifier for animals standard."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἐὰν γένηται εὑρεῖν αὐτό": {
+      "primary_thai": "ถ้าเขาพบแกะตัวนั้น",
+      "all_renderings": {
+        "ถ้าเขาพบแกะตัวนั้น": [
+          {
+            "verse": "Matthew 18:13",
+            "rationale": "Per uW grammar-connect-condition-hypothetical: hypothetical-condition. γίνομαι + infinitive = 'it-happens-that-he-finds.' Thai 'ถ้า...พบ' standard-conditional rendering. αὐτό neuter-accusative referring to πρόβατον — Thai 'แกะตัวนั้น' (that-sheep) explicit-referent for clarity."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἐὰν γὰρ ἀγαπήσητε τοὺς ἀγαπῶντας ὑμᾶς": {
       "primary_thai": "เพราะถ้าพวกท่านรักเฉพาะผู้ที่รักพวกท่าน",
       "all_renderings": {
@@ -36552,6 +37302,18 @@
           {
             "verse": "Matthew 6:14",
             "rationale": "Per uW grammar-connect-words-phrases: γάρ introduces explanation of v.12 forgiveness-petition. ἐάν + subjunctive = conditional 'if-you-forgive.' ἀφίημι (forgive) → ยก (release, established from Mark/earlier-Matthew). παράπτωμα 'trespass/false-step' → การล่วงละเมิด (Thai Christian standard for transgression). Per uW figs-abstractnouns: could flatten to 'when-they-trespass' but abstract-noun preserved for doctrinal-precision. Per uW figs-gendernotations: ἀνθρώποις generic-people → คน. Thai 'คนอื่น' (other-people) supplies the generalized-referent sense. NEW GLOSSARY: παράπτωμα → การล่วงละเมิด."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἐὰν δὲ μὴ ἀκούσῃ": {
+      "primary_thai": "แต่ถ้าเขาไม่ยอมฟัง",
+      "all_renderings": {
+        "แต่ถ้าเขาไม่ยอมฟัง": [
+          {
+            "verse": "Matthew 18:16",
+            "rationale": "Per uW grammar-connect-logic-contrast: δέ adversative here (escalation-scenario). Thai 'แต่ถ้า' standard-contrastive-conditional. μὴ ἀκούσῃ aorist-subjunctive-negated = 'if-he-does-not-listen.' Thai 'ไม่ยอมฟัง' (not-willing-to-listen) adds 'ยอม' (consent-verb) to capture the volitional-refusal nuance not just absence-of-hearing."
           }
         ]
       },
@@ -36636,6 +37398,18 @@
           {
             "verse": "Matthew 18:3",
             "rationale": "Per uW figs-metaphor: στρέφω (turn) metaphorical = 'change one's attitude and behavior.' Aorist-passive-subjunctive 2pl — the passive form may carry divine-passive force ('be turned' by God). Thai 'เปลี่ยนใจ' (change-heart/mind) captures the attitude-reorientation without reaching into overt-repentance-terminology 'กลับใจใหม่' (reserved for μετανοέω per glossary). Related-but-distinct concept: στρέφω is the prerequisite-turn, μετανοέω is the repentance-response. NEW GLOSSARY: στρέφω (metaphorical-attitude-change) → เปลี่ยนใจ."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἐὰν μὴ ἀφῆτε ἕκαστος τῷ ἀδελφῷ αὐτοῦ": {
+      "primary_thai": "ถ้าพวกท่านแต่ละคนไม่ยกโทษให้พี่น้องของตน",
+      "all_renderings": {
+        "ถ้าพวกท่านแต่ละคนไม่ยกโทษให้พี่น้องของตน": [
+          {
+            "verse": "Matthew 18:35",
+            "rationale": "Per uW grammar-connect-condition-hypothetical: 'if-not' conditional — Thai 'ถ้า...ไม่.' Per v.21 glossary-precedent: ἀφίημι + dative (forgive-person-offense-context) → ยกโทษให้. ἕκαστος 'each-one' → 'แต่ละคน' (each-individually) distributive. Per uW figs-123person: αὐτοῦ 3sg despite ὑμῖν 2pl subject — Matthew shifts between 2nd+3rd person addressing plural-but-individualizing. Thai 'ของตน' (of-own-self) reflexive-generic covers both readings. Per v.15 glossary: ἀδελφός (fellow-believer-context) → พี่น้อง."
           }
         ]
       },
@@ -37827,6 +38601,18 @@
       },
       "occurrences_count": 1
     },
+    "ἔσται δεδεμένα ἐν οὐρανῷ": {
+      "primary_thai": "จะถูกผูกไว้ในสวรรค์",
+      "all_renderings": {
+        "จะถูกผูกไว้ในสวรรค์": [
+          {
+            "verse": "Matthew 18:18",
+            "rationale": "Per uW figs-metaphor: periphrastic-future-perfect-passive ἔσται δεδεμένα = 'will-have-been-bound' — state-already-ratified-in-heaven-before-earthly-action. Debated (grammatical-vs-theological): (a) divine-ratification-follows (church-decides, heaven-confirms), (b) heavenly-decision-ratifies (heaven-decides-first, church-discerns). Thai 'ถูกผูกไว้' (will-be-tied) preserves ambiguity by keeping passive+state-resultative nuance. Divine-passive: God is implicit-agent. Note ἐν οὐρανῷ here is SINGULAR (τῷ is explicit in SBLGNT for 16:19 but 18:18 has ἐν οὐρανῷ without article-rendering in some printing conventions; compared to 16:19's 'ἐν τοῖς οὐρανοῖς' plural-articular). Thai 'สวรรค์' singular-noun covers both, but this singular-vs-plural-heaven nuance captured per uW note."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἔσται πάντων ἔσχατος καὶ πάντων διάκονος": {
       "primary_thai": "ผู้นั้นต้องเป็นผู้สุดท้ายของทุกคน และเป็นผู้รับใช้ของทุกคน",
       "all_renderings": {
@@ -37882,6 +38668,18 @@
           {
             "verse": "Matthew 5:37",
             "rationale": "Per uW figs-imperative3p + figs-metonymy + figs-explicit: λόγος = 'word/speech.' 3ms imperative ἔστω = 'let it be.' Thai 'ให้...เป็น' (let-be). Doubled ναὶ ναί + οὒ οὔ per uW figs-explicit = 'Yes-I-will ... No-I-will-not' (promise-form). Thai 'ใช่ก็ว่าใช่ ไม่ก็ว่าไม่' preserves doubled-affirmation idiom. ναί = ใช่ (standard Thai). οὔ = ไม่. James 5:12 echoes this teaching verbatim-structurally."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἔστω σοι ὥσπερ ὁ ἐθνικὸς καὶ ὁ τελώνης": {
+      "primary_thai": "ก็ให้ท่านถือว่าเขาเป็นเหมือนคนต่างชาติและคนเก็บภาษี",
+      "all_renderings": {
+        "ก็ให้ท่านถือว่าเขาเป็นเหมือนคนต่างชาติและคนเก็บภาษี": [
+          {
+            "verse": "Matthew 18:17",
+            "rationale": "Per glossary (Matt 5:47 οἱ ἐθνικοί → คนต่างชาติ; 6:7): ἐθνικός → คนต่างชาติ. Per glossary (Matt 5:46 τελῶναι, 9:10, 11:19, 18:17): τελώνης → คนเก็บภาษี. Per uW figs-imperative3p: ἔστω third-person-imperative 'let-him-be' — Thai 'ให้...ถือว่าเขาเป็น' (let-consider-him-as) converts to 2sg-directive-with-3sg-object. Per uW figs-simile: 'as the Gentile and the tax-collector' = as-one-outside-the-covenant-community (not as-enemies but as-outsiders-to-be-evangelized). Matthew's own-inclusion of tax-collectors in Jesus's circle (9:9-13, 10:3) reframes this not as permanent-exclusion but as recognition-of-non-member-status."
           }
         ]
       },
@@ -38315,6 +39113,30 @@
       },
       "occurrences_count": 1
     },
+    "ἕως οὗ ἀποδῷ πᾶν τὸ ὀφειλόμενον": {
+      "primary_thai": "จนกว่าเขาจะใช้หนี้ที่ติดค้างอยู่คืนได้ครบทั้งหมด",
+      "all_renderings": {
+        "จนกว่าเขาจะใช้หนี้ที่ติดค้างอยู่คืนได้ครบทั้งหมด": [
+          {
+            "verse": "Matthew 18:34",
+            "rationale": "Echoes v.30's phrasing intentionally — Matthew's compositional-craft: the FIRST slave's treatment-of-fellow-slave now becomes the king's treatment-of-the-first-slave. Thai renders identically for parallel-effect ('จนกว่า...จะใช้หนี้...คืน') with totalizer-addition 'ครบทั้งหมด' (completely-all) matching πᾶν. Logical-effect: 10,000 talents is UNREPAYABLE, so the torture is effectively-endless — equivalent-to-eternal-judgment in the parable's moral-reading."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἕως οὗ ἀποδῷ τὸ ὀφειλόμενον": {
+      "primary_thai": "จนกว่าเขาจะใช้หนี้ที่ติดค้างอยู่คืนได้",
+      "all_renderings": {
+        "จนกว่าเขาจะใช้หนี้ที่ติดค้างอยู่คืนได้": [
+          {
+            "verse": "Matthew 18:30",
+            "rationale": "ἕως οὗ (temporal-conjunction) + aorist-subjunctive = 'until-he-should.' Thai 'จนกว่า' standard temporal-until. Per uW figs-activepassive: ὀφειλόμενον neuter-present-passive-participle-substantival 'the-thing-being-owed' = 'the-debt.' Thai 'หนี้ที่ติดค้างอยู่' preserves passive-participle-nuance ('debt-that-remained-owed'). 'คืน' (return/back) captures ἀπο- back-prefix. 'ได้' final-resultative-potential-marker."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἕως οὗ ἀπολύσῃ τοὺς ὄχλους": {
       "primary_thai": "ในขณะที่พระองค์ทรงให้ฝูงชนกลับไป",
       "all_renderings": {
@@ -38478,6 +39300,18 @@
           {
             "verse": "Matthew 2:9",
             "rationale": "Per uW figs-personification: Matthew describes the star as if it were a person walking and standing still. Scholarly discussion: how can a star 'stand over' a specific house? Some propose (a) a pillar of light / angelic manifestation; (b) a meteorological/atmospheric phenomenon; (c) Matthew's narrative-stylization of a general directional sign. We preserve the personification in Thai rather than flattening — 'หยุดอยู่' (stopped/came to rest) + 'เหนือที่นั้น' (above that place). The Greek ἐστάθη (aorist passive of ἵστημι, here used intransitively) → Thai 'หยุดอยู่' is natural."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἕως ἑπτάκις": {
+      "primary_thai": "ถึงเจ็ดครั้งหรือ",
+      "all_renderings": {
+        "ถึงเจ็ดครั้งหรือ": [
+          {
+            "verse": "Matthew 18:21",
+            "rationale": "Per uW figs-ellipsis: Peter supplies the answer to his own question. ἑπτάκις adverbial 'seven-times' → เจ็ดครั้ง. ἕως 'up-to.' Thai interrogative-particle 'หรือ' (tentative-question-mark) captures Peter's 'is-this-enough?' uncertainty. NEW GLOSSARY: ἑπτάκις → เจ็ดครั้ง."
           }
         ]
       },
@@ -41617,6 +42451,18 @@
       },
       "occurrences_count": 1
     },
+    "ἰδόντες οὖν οἱ σύνδουλοι αὐτοῦ τὰ γενόμενα": {
+      "primary_thai": "เมื่อเพื่อนทาสทั้งหลายของเขาเห็นเหตุการณ์ที่เกิดขึ้น",
+      "all_renderings": {
+        "เมื่อเพื่อนทาสทั้งหลายของเขาเห็นเหตุการณ์ที่เกิดขึ้น": [
+          {
+            "verse": "Matthew 18:31",
+            "rationale": "ἰδόντες aorist-participle-plural 'having-seen' — Thai 'เมื่อ...เห็น' temporal-clause. τὰ γενόμενα substantival-participle 'the-things-that-happened' → Thai 'เหตุการณ์ที่เกิดขึ้น' (events-that-occurred). 'ทั้งหลาย' Thai-plural-marker for 'σύνδουλοι' per v.28 glossary-established."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἰδὼν": {
       "primary_thai": "ทอดพระเนตรเห็น",
       "all_renderings": {
@@ -42197,6 +43043,18 @@
       },
       "occurrences_count": 1
     },
+    "ἵνα ἀπόληται ἓν τῶν μικρῶν τούτων": {
+      "primary_thai": "ที่จะให้ผู้เล็กน้อยเหล่านี้สักคนหนึ่งต้องพินาศไป",
+      "all_renderings": {
+        "ที่จะให้ผู้เล็กน้อยเหล่านี้สักคนหนึ่งต้องพินาศไป": [
+          {
+            "verse": "Matthew 18:14",
+            "rationale": "ἀπόλλυμι aorist-middle-subjunctive = 'perish / be-destroyed / be-lost-eternally.' Thai 'พินาศ' captures ultimate-destruction-sense (distinct from ἀπολωλός as 'wandering-away' in lost-sheep sense). Combined with ἵνα + subjunctive = divine-purpose-negated: 'it-is-not-[God's-will]-that...perish.' Per v.6, v.10 precedent: μικρῶν → ผู้เล็กน้อย (ambiguity preserved). 'สักคนหนึ่ง' for εἷς indefinite-one emphasizing 'even-one.' NEW GLOSSARY: ἀπόλλυμι (final-perishing-context) → พินาศ."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ἵνα ἄρῃ τὸν σταυρὸν αὐτοῦ": {
       "primary_thai": "ให้แบกกางเขนของพระองค์",
       "all_renderings": {
@@ -42216,6 +43074,18 @@
           {
             "verse": "Mark 5:23",
             "rationale": "Per uW grammar-connect-logic-result: ἵνα introduces what Jairus wants Jesus to do. 'ขอเชิญเสด็จ' (please-invite royal-go) preserves humble request + royal action. 'พระหัตถ์' (royal-hand) per RULES.md §3. 'หาย' (be cured) + 'รอดชีวิต' (survive/be saved-alive) preserves the σῴζω + ζάω doublet — both healing AND continuing life. Per uW figs-activepassive: σωθῇ ('be saved') passive — Jesus is implicit agent; Thai active 'หาย' acceptable. The doubled hope ('healed AND live') signals the gravity: she's not just sick, she's dying."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ἵνα ἐπὶ στόματος δύο μαρτύρων ἢ τριῶν σταθῇ πᾶν ῥῆμα": {
+      "primary_thai": "‹ทุกถ้อยคำจะได้รับการยืนยันโดยปากของพยานสองหรือสามคน›",
+      "all_renderings": {
+        "‹ทุกถ้อยคำจะได้รับการยืนยันโดยปากของพยานสองหรือสามคน›": [
+          {
+            "verse": "Matthew 18:16",
+            "rationale": "DIRECT citation of Deut 19:15 LXX (ἐπὶ στόματος δύο μαρτύρων καὶ ἐπὶ στόματος τριῶν μαρτύρων στήσεται πᾶν ῥῆμα) — per RULES §5 OT-citation must be flagged and added to nt_ot_citations.json. Per uW writing-quotations + figs-activepassive: Matthew introduces without a formal-citation-formula; we nonetheless format as nested-OT-quote using inner ‹ › per project-convention. Per uW figs-metonymy: στόμα (mouth) metonymy-for-testimony; preserved Thai 'ปาก' to retain OT-idiom flavor. σταθῇ aorist-passive-subjunctive = 'may-be-established/stand-confirmed' → 'จะได้รับการยืนยัน' (will-receive-confirmation; divine-passive explicit-in-passive-marker). Per uW figs-metonymy: ῥῆμα = matter/statement — Thai 'ถ้อยคำ' (word/statement, glossary-established, Matt 12:36) captures speech-act sense. NEW GLOSSARY: μάρτυς → พยาน; στόμα (testimony-metonymy) → ปาก; σταθῇ (legal-establishment-passive) → จะได้รับการยืนยัน. ADDED TO nt_ot_citations.json: MAT 18:16 direct_citation DEU 19:15 LXX."
           }
         ]
       },
@@ -42845,6 +43715,18 @@
       },
       "occurrences_count": 1
     },
+    "ὀργισθεὶς ὁ κύριος αὐτοῦ": {
+      "primary_thai": "พระราชาทรงกริ้ว",
+      "all_renderings": {
+        "พระราชาทรงกริ้ว": [
+          {
+            "verse": "Matthew 18:34",
+            "rationale": "Per glossary (Matt 5:22 ὀργιζόμενος → โกรธ; Matt 22:7 ὠργίσθη → ทรงพระพิโรธ — king-subject in wedding-parable precedent): ὀργίζω (royal-king-subject) → ทรงกริ้ว / ทรงพระพิโรธ. 'ทรงกริ้ว' is common Thai-royal-anger-idiom; 'พระพิโรธ' more-elevated ceremonial. Here 'ทรงกริ้ว' fits narrative-register. ὀργισθείς aorist-passive-participle 'having-become-angry' — passive-form for emotional-change-of-state preserved in Thai with royal-prefix. NEW GLOSSARY: ὀργίζω (royal-king-anger) → ทรงกริ้ว (CONTEXTUAL per Matt 22:7 precedent)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ὀρχησαμένης καὶ ἀρεσάσης τῷ Ἡρῴδῃ καὶ τοῖς συνανακειμένοις": {
       "primary_thai": "เต้นรำ ก็เป็นที่พอพระทัยเฮโรดและแขกร่วมโต๊ะ",
       "all_renderings": {
@@ -43102,6 +43984,18 @@
           {
             "verse": "Matthew 11:11",
             "rationale": "Per uW figs-nominaladj: μικρότερος = substantivized-comparative 'the-lesser-one' = idiomatic-superlative 'the-least.' Thai 'ผู้ที่เล็กน้อยที่สุด' (the-smallest-person). βασιλεία τῶν οὐρανῶν → อาณาจักรสวรรค์ (RULES.md §4 Matthean-signature, established Matt 3:2, 4:17, 5:3, etc.)."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ὁ δὲ οὐκ ἤθελεν": {
+      "primary_thai": "แต่ทาสคนนั้นไม่ยอม",
+      "all_renderings": {
+        "แต่ทาสคนนั้นไม่ยอม": [
+          {
+            "verse": "Matthew 18:30",
+            "rationale": "Per uW writing-pronouns: 'ὁ δέ' = 'but the [first slave]' subject-shift-marker. Thai 'แต่ทาสคนนั้น' explicit-referent preserves-clarity. Per uW figs-explicit: ἤθελεν imperfect 'was-not-willing' = refused — Thai 'ไม่ยอม' (not-consent/refuse) captures volitional-refusal (implied: 'to be patient and wait' per uW). Imperfect aspect indicates sustained-refusal throughout the interaction."
           }
         ]
       },
@@ -44675,6 +45569,30 @@
       },
       "occurrences_count": 1
     },
+    "ὃς ἠθέλησεν συνᾶραι λόγον μετὰ τῶν δούλων αὐτοῦ": {
+      "primary_thai": "ซึ่งทรงประสงค์จะชำระบัญชีกับบรรดาทาสของพระองค์",
+      "all_renderings": {
+        "ซึ่งทรงประสงค์จะชำระบัญชีกับบรรดาทาสของพระองค์": [
+          {
+            "verse": "Matthew 18:23",
+            "rationale": "ἠθέλησεν aorist-active 'willed/wanted' → ทรงประสงค์ (royal-desire per RULES §3 — parable-king has royal-register). Per uW figs-idiom: συνᾶραι λόγον (literally 'take-up-word-together') = Hellenistic-financial idiom 'settle-accounts / audit-the-books / reconcile-balances.' Thai 'ชำระบัญชี' (settle-accounts) standard-Thai-accounting idiom — BSB-family gloss. NEW GLOSSARY: συναίρω λόγον (accounting-idiom) → ชำระบัญชี. Per glossary: δοῦλος → ทาส (Matt 10:24 etc.). 'บรรดา...' Thai-plural-marker. 'ของพระองค์' royal-3sg-possessive for parable-king."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ὃς ὤφειλεν αὐτῷ ἑκατὸν δηνάρια": {
+      "primary_thai": "ซึ่งเป็นหนี้เขาอยู่หนึ่งร้อยเดนาριอัน",
+      "all_renderings": {
+        "ซึ่งเป็นหนี้เขาอยู่หนึ่งร้อยเดนาριอัน": [
+          {
+            "verse": "Matthew 18:28",
+            "rationale": "Per glossary (Matt 20:2 δηναρίου → เดนาริอัน; Matt 22:19): δηνάριον → เดนาριอัน (standard Thai-transliteration of Latin denarius; BSB 'denarii'). Per uW translate-bmoney: 1 denarius = 1 day's wage for laborer; 100 denarii = ~100 days' wages (4+ months). Smaller than 10,000 talents by factor of ~600,000. ὤφειλεν imperfect-active 'was-owing / was-a-debtor' — Thai 'เป็นหนี้อยู่' (owing-debt-state). NEW GLOSSARY: ὤφειλεν (imperfect ongoing-owing) → เป็นหนี้อยู่; ἑκατὸν δηνάρια → หนึ่งร้อยเดนาริอัน."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ὃς...ἂν ποιήσῃ": {
       "primary_thai": "ผู้ใดก็ตามที่...ทำ",
       "all_renderings": {
@@ -45232,6 +46150,30 @@
           {
             "verse": "Mark 3:28",
             "rationale": "Indefinite 'whatever they may blaspheme.' Per uW: potentially redundant in some languages; Thai 'ไม่ว่า...สิ่งใด' (no matter what) keeps the indefinite force."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ὅσα ἐὰν δήσητε ἐπὶ τῆς γῆς": {
+      "primary_thai": "สิ่งใดก็ตามที่พวกท่านผูกไว้ในแผ่นดินโลก",
+      "all_renderings": {
+        "สิ่งใดก็ตามที่พวกท่านผูกไว้ในแผ่นดินโลก": [
+          {
+            "verse": "Matthew 18:18",
+            "rationale": "Per uW figs-metaphor (paralleled with Matt 16:19): δέω (bind) metaphorical in rabbinic-discipline-context = 'declare-forbidden/forbid.' Thai 'ผูก' (tie/bind) preserves the metaphor deliberately (as in Matt 16:19 precedent) rather than flatten to 'ห้าม' (forbid) — preserves-ambiguity of Jesus's language. ὅσα ἐάν + subjunctive = indefinite-relative 'whatever-at-all' → 'สิ่งใดก็ตามที่.' δήσητε 2pl-aorist-subjunctive (plural disciples) contrasts 16:19's 2sg (Peter). ἐπὶ τῆς γῆς → ในแผ่นดินโลก (standard, glossary). NEW GLOSSARY: δέω (disciplinary-binding-metaphor) → ผูก."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ὅσα ἐὰν λύσητε ἐπὶ τῆς γῆς ἔσται λελυμένα ἐν οὐρανῷ": {
+      "primary_thai": "สิ่งใดก็ตามที่พวกท่านแก้ในแผ่นดินโลก จะถูกแก้ในสวรรค์ด้วย",
+      "all_renderings": {
+        "สิ่งใดก็ตามที่พวกท่านแก้ในแผ่นดินโลก จะถูกแก้ในสวรรค์ด้วย": [
+          {
+            "verse": "Matthew 18:18",
+            "rationale": "Parallel-construction with binding. λύω (loose/untie) = rabbinic-opposite of δέω — 'declare-permitted / release-from-obligation.' Thai 'แก้' (untie/undo) preserves the metaphor in parallel to 'ผูก.' Final 'ด้วย' (also-too) emphasizes the full-parallel heavenly-ratification-of-both-actions. NEW GLOSSARY: λύω (disciplinary-loosing-metaphor) → แก้ (CONTEXTUAL VARIANT from λύω release/undo-sense in other contexts)."
           }
         ]
       },
@@ -46671,6 +47613,18 @@
       },
       "occurrences_count": 1
     },
+    "ὕπαγε ἔλεγξον αὐτὸν": {
+      "primary_thai": "จงไปว่ากล่าวตักเตือนเขา",
+      "all_renderings": {
+        "จงไปว่ากล่าวตักเตือนเขา": [
+          {
+            "verse": "Matthew 18:15",
+            "rationale": "Per glossary (Matt 4:10 ὕπαγε → จงไป; Matt 5:24, 8:4, etc.): ὕπαγω → ไป. ἐλέγχω = 'reprove / convict / confront-with-truth-to-correct' — broader than rebuke-in-anger; aim is repentance. Thai 'ว่ากล่าวตักเตือน' (speak-reproof-admonish) captures the corrective-speaking sense, not punitive. NEW GLOSSARY: ἐλέγχω (personal-correction-context) → ว่ากล่าวตักเตือน; ὕπαγε ἔλεγξον (imperative pair, go-and-confront) → จงไปว่ากล่าวตักเตือน."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ὕστερον ἐπείνασεν": {
       "primary_thai": "ภายหลังก็ทรงหิว",
       "all_renderings": {
@@ -46873,6 +47827,18 @@
       },
       "occurrences_count": 1
     },
+    "ὡμοιώθη ἡ βασιλεία τῶν οὐρανῶν": {
+      "primary_thai": "อาณาจักรสวรรค์เปรียบเหมือน",
+      "all_renderings": {
+        "อาณาจักรสวรรค์เปรียบเหมือน": [
+          {
+            "verse": "Matthew 18:23",
+            "rationale": "Per uW figs-activepassive: ὡμοιώθη aorist-divine-passive = 'is-compared / has-been-likened.' Thai 'เปรียบเหมือน' (be-compared-like) renders-passive-as-active per Thai-naturalness. Matthean simile-formula 'ὁμοιόω-passive + βασιλεία τ.ο.' introduces kingdom-parables (Matt 13:24, 31, 33, 44, 45, 47, 52; 20:1; 22:2; 25:1). Per glossary: βασιλεία τῶν οὐρανῶν → อาณาจักรสวรรค์. NEW GLOSSARY: ὡμοιώθη (kingdom-parable-formula) → เปรียบเหมือน."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
     "ὡς γέγραπται ὅτι": {
       "primary_thai": "ตามที่มีเขียนไว้ว่า",
       "all_renderings": {
@@ -46916,6 +47882,18 @@
           {
             "verse": "Matthew 6:12",
             "rationale": "Per uW figs-metaphor + figs-possession: ὀφειλέτης 'debtor' preserving-metaphor → ผู้ที่เป็นหนี้ (one-who-is-a-debtor). ἀφήκαμεν aorist-perfective 'we-have-forgiven' (completed past-action relative to prayer-moment). Thai 'ยก' past-tense from context. TEXTUAL VARIANT: Some MSS read ἀφίεμεν present 'as we also forgive' (broader tradition influence — Lord's Prayer liturgical-forms vary present/past globally). SBLGNT reads ἀφήκαμεν aorist, which we follow. Note-only (not bracketed) since the verb-tense doesn't change meaning substantially in Thai rendering. NEW GLOSSARY: ὀφειλέτης → ผู้ที่เป็นหนี้."
+          }
+        ]
+      },
+      "occurrences_count": 1
+    },
+    "ὡς κἀγὼ σὲ ἠλέησα": {
+      "primary_thai": "เหมือนอย่างที่เราได้เมตตาต่อเจ้าเช่นกัน",
+      "all_renderings": {
+        "เหมือนอย่างที่เราได้เมตตาต่อเจ้าเช่นกัน": [
+          {
+            "verse": "Matthew 18:33",
+            "rationale": "κἀγώ (=καὶ ἐγώ) 'I-also' — Thai 'เราก็...เช่นกัน' preserves the 'I-also-did-this-to-you' emphasis. Royal-self 'เรา' for king. ἠλέησα aorist 'I-showed-mercy' → 'ได้เมตตา' (past-tense mercy-action). The parallel-structure demands the slave to SEE THE PATTERN: king-merciful-to-slave-A should=slave-A-merciful-to-slave-B. CLOSES inner ‹ › king's speech with ›."
           }
         ]
       },
