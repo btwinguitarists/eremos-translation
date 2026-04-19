@@ -102,6 +102,19 @@ if [ -f "$THAI_BIBLE_AI/output/translations/${SLUG}_${CHAPTER_PADDED}.json" ]; t
 else
     echo "    ⚠ No translation file found — skipping check (assuming bundle-only ship)."
 fi
+
+# Pre-flight: warn about other uncommitted source files from prior chapters.
+# This script auto-commits THIS chapter's artifacts (see step after rebuild
+# below), but pre-existing orphans need manual cleanup. Added 2026-04-19
+# after discovering 14 orphaned chapters from past sessions that exited
+# before committing.
+if [ -d "$THAI_BIBLE_AI/output" ]; then
+    other_orphans=$(cd "$THAI_BIBLE_AI" && git ls-files --others --exclude-standard output/ 2>/dev/null | grep -v "${SLUG}_${CHAPTER_PADDED}" | wc -l | tr -d ' ')
+    if [ "$other_orphans" -gt 0 ]; then
+        echo "[gate] ⚠ ${other_orphans} uncommitted source file(s) in thai-bible-ai/output/ from other chapters."
+        echo "         Review with: (cd $THAI_BIBLE_AI && git status --short output/)"
+    fi
+fi
 echo
 
 # --- 1. Pull latest main ---
@@ -116,13 +129,39 @@ python3 "$THAI_BIBLE_AI/scripts/build_eremos_bundle.py" 2>&1 | tail -3
 python3 "$THAI_BIBLE_AI/scripts/update_hashes.py" 2>&1 | tail -2
 python3 "$THAI_BIBLE_AI/scripts/render_reader.py" --book "$BOOK_CODE" 2>&1 | tail -2
 
-# Commit any HASHES.md / reader-doc change in the thai-bible-ai repo (separate
-# from the Eremos bundle commit). Signed via configured GPG key.
+# Commit source artifacts + cumulative state in thai-bible-ai (separate
+# from the Eremos bundle commit, which lands in EremosVercel2). Bundles
+# everything for THIS chapter into one source commit so the audit trail
+# is clean and atomic. Signed via configured GPG key.
+#
+# Added 2026-04-19 after discovering 14 chapters with orphaned source
+# files (sessions exited before committing). The prior version of this
+# block only committed HASHES.md + output/reader/, leaving translation
+# JSON, back-translations, check reports, and uw_notes for the chat
+# session to commit — which often did not happen. Now the ship is the
+# source of truth: if it succeeded, the source is in git.
 (
     cd "$THAI_BIBLE_AI"
-    if ! git diff --quiet HASHES.md output/reader/ 2>/dev/null; then
-        git add HASHES.md output/reader/
-        git commit -q -m "chore: update HASHES.md + reader doc after ${BOOK_CODE} ${CHAPTER}" 2>&1 | tail -2 || true
+    # Per-chapter source artifacts (each || true so set -e doesn't abort
+    # on a missing file)
+    git add "output/translations/${SLUG}_${CHAPTER_PADDED}.json" 2>/dev/null || true
+    git add "output/back_translations/${SLUG}_${CHAPTER_PADDED}.json" 2>/dev/null || true
+    git add "output/uw_notes/${SLUG}_${CHAPTER_PADDED}.md" 2>/dev/null || true
+    git add "output/check_reports/${SLUG}_${CHAPTER_PADDED}_review.md" 2>/dev/null || true
+    git add "output/check_reports/${SLUG}_${CHAPTER_PADDED}_summary.json" 2>/dev/null || true
+    git add "output/check_reports/${SLUG}_${CHAPTER_PADDED}_iterations.txt" 2>/dev/null || true
+    git add "output/check_reports/${SLUG}_${CHAPTER_PADDED}_REVISIONS_NEEDED.md" 2>/dev/null || true
+    git add "output/check_reports/back_translation_${SLUG}_${CHAPTER_PADDED}.md" 2>/dev/null || true
+    git add "output/check_reports/claim_consistency_${SLUG}_${CHAPTER_PADDED}.md" 2>/dev/null || true
+    git add "output/check_reports/key_term_consistency_${SLUG}_${CHAPTER_PADDED}.md" 2>/dev/null || true
+    git add "output/check_reports/ot_citations_${SLUG}_${CHAPTER_PADDED}.md" 2>/dev/null || true
+    git add "output/check_reports/tnbt_comparison_${SLUG}_${CHAPTER_PADDED}.md" 2>/dev/null || true
+    git add "output/check_reports/summary_coverage_${SLUG}_${CHAPTER_PADDED}.md" 2>/dev/null || true
+    # Cumulative state updated by checks (glossary growth, OT citation registry)
+    git add HASHES.md output/reader/ glossary.json data/nt_ot_citations.json 2>/dev/null || true
+
+    if ! git diff --cached --quiet 2>/dev/null; then
+        git commit -q -m "feat(${BOOK_CODE} ${CHAPTER}): source + checks + reader doc + bundle hashes" 2>&1 | tail -2 || true
         git push 2>&1 | tail -1 || true
     fi
 )
