@@ -1,0 +1,1462 @@
+[
+  {
+    "reference": "Matthew 12:1",
+    "chapter": 12,
+    "verse": 1,
+    "greek": "Ἐν ἐκείνῳ τῷ καιρῷ ἐπορεύθη ὁ Ἰησοῦς τοῖς σάββασιν διὰ τῶν σπορίμων·οἱ δὲ μαθηταὶ αὐτοῦ ἐπείνασαν καὶ ἤρξαντο τίλλειν στάχυας καὶ ἐσθίειν.",
+    "bsb_english": "At that time Jesus went through the grainfields on the Sabbath. His disciples were hungry and began to pick the heads of grain and eat them.",
+    "translation": {
+      "thai": "ในเวลานั้น พระเยซูเสด็จผ่านทุ่งนาในวันสะบาโต และสาวกของพระองค์หิว จึงเริ่มเด็ดรวงข้าวกินเข้าไป",
+      "thai_literal": "ใน เวลานั้น ทรงเสด็จไป พระเยซู ในวันสะบาโตทั้งหลาย ผ่าน บรรดาทุ่งนา แต่ สาวก ของพระองค์ หิว และ ได้เริ่ม เด็ด บรรดารวงข้าว และ กิน",
+      "thai_summary": "มัทธิว 12 เปิดตอนใหม่ของเรื่องการต่อต้านพระเยซู (มธ 11:1–12:50) ด้วยข้อโต้แย้งเรื่องวันสะบาโต วันสะบาโตคือวันที่เจ็ดของสัปดาห์ที่พระเจ้าทรงบัญชาให้ชาวอิสราเอลพักจากการงาน (อพย 20:8-11) พวกฟาริสีตีความอย่างเคร่งครัดว่าการเด็ดรวงข้าวเป็นการเก็บเกี่ยว ซึ่งต้องห้าม แต่ในธรรมบัญญัติจริงอนุญาตให้ผู้สัญจรเด็ดรวงข้าวด้วยมือได้ (ฉธบ 23:25)",
+      "key_decisions": [
+        {
+          "greek": "Ἐν ἐκείνῳ τῷ καιρῷ",
+          "thai": "ในเวลานั้น",
+          "rationale": "Per uW writing-newevent: Matthean temporal-connector introducing a new event loosely after previous context (no precise chronology). καιρός here = 'time-period' generic, not precise-moment. Thai 'ในเวลานั้น' standard narrative-pivot. Established MAT 11:25 same formula."
+        },
+        {
+          "greek": "τοῖς σάββασιν",
+          "thai": "ในวันสะบาโต",
+          "rationale": "Per uW figs-idiom: dative-plural σάββασιν = 'on a specific Sabbath day' (Hebrew-influenced plural-form for single-day). σάββατον → วันสะบาโต (standard Thai Christian transliteration, matches THSV/NTV). Collapsed plural to singular in Thai per uW alt-translation guidance — Thai does not pluralize day-names for single occurrences. NEW GLOSSARY: σάββατον → วันสะบาโต."
+        },
+        {
+          "greek": "διὰ τῶν σπορίμων",
+          "thai": "ผ่านทุ่งนา",
+          "rationale": "σπόριμος (nt_freq=3, used in Matt 12:1, Mark 2:23, Luke 6:1 — all the sabbath-grainfield parallel) = 'field-sown-with-grain.' Thai 'ทุ่งนา' (grainfield-standard). NEW GLOSSARY: σπόριμος → ทุ่งนา."
+        },
+        {
+          "greek": "ἤρξαντο τίλλειν στάχυας καὶ ἐσθίειν",
+          "thai": "จึงเริ่มเด็ดรวงข้าวกินเข้าไป",
+          "rationale": "Per uW translate-unknown: στάχυς (nt_freq=5) = 'ear/head of grain' — top part holding edible seeds. τίλλω (nt_freq=3, only in sabbath-parallel) = 'pick/pluck.' Thai 'เด็ด' (pick-plants-gently) + 'รวงข้าว' (grain-head). 'กินเข้าไป' Thai natural-idiom for 'ate them.' NEW GLOSSARY: στάχυς → รวงข้าว; τίλλω → เด็ด."
+        }
+      ],
+      "notes": "SABBATH CONTROVERSY INITIAL. Matt 12:1-8 parallels Mark 2:23-28 and Luke 6:1-5. Matthew alone adds v.5-7 (priests-in-temple argument + Hos 6:6 citation). The sabbath-controversy is the first of two back-to-back sabbath episodes (12:1-8, 12:9-14) that escalate into murder-plot (12:14) — marking the formal breakdown of Jesus's relationship with Pharisaic-Judaism. NO HAPAX. Matt 11 opposition-theme intensifies."
+    }
+  },
+  {
+    "reference": "Matthew 12:2",
+    "chapter": 12,
+    "verse": 2,
+    "greek": "οἱ δὲ Φαρισαῖοι ἰδόντες εἶπαν αὐτῷ·Ἰδοὺ οἱ μαθηταί σου ποιοῦσιν ὃ οὐκ ἔξεστιν ποιεῖν ἐν σαββάτῳ.",
+    "bsb_english": "When the Pharisees saw this, they said to Him, “Look, Your disciples are doing what is unlawful on the Sabbath.”",
+    "translation": {
+      "thai": "พวกฟาริสีเห็นเข้า จึงทูลพระองค์ว่า «ดูเถิด พวกสาวกของท่านทำสิ่งที่ไม่ชอบด้วยกฎในวันสะบาโต»",
+      "thai_literal": "แต่ พวกฟาริสี เมื่อเห็น ได้กล่าว แก่พระองค์ ดูเถิด สาวกทั้งหลาย ของท่าน กำลังทำ สิ่งที่ ไม่ อนุญาต ที่จะทำ ใน วันสะบาโต",
+      "thai_summary": "พวกฟาริสีไม่ได้กล่าวหาสาวกเรื่องการขโมย (ซึ่งธรรมบัญญัติอนุญาตตาม ฉธบ 23:25) แต่กล่าวหาว่าการเด็ดรวงข้าวในวันสะบาโตเท่ากับการทำงานเก็บเกี่ยว การตีความที่เคร่งครัดเช่นนี้พบในมิชนาห์ (แชบบัต 7:2) ที่ระบุ 39 ประเภทงานต้องห้าม ซึ่งการ «เก็บเกี่ยว» เป็นหนึ่งในนั้น",
+      "key_decisions": [
+        {
+          "greek": "οἱ δὲ Φαρισαῖοι",
+          "thai": "พวกฟาริสี",
+          "rationale": "Per glossary: Φαρισαῖοι → พวกฟาริสี (established). δέ narrative-contrast/pivot (between disciples' action and Pharisaic objection) — Thai often left implicit."
+        },
+        {
+          "greek": "εἶπαν αὐτῷ",
+          "thai": "จึงทูลพระองค์ว่า",
+          "rationale": "Pharisees speak TO Jesus — Thai must decide register. Per RULES.md §3: Pharisees-to-Jesus in confrontational-register use elevated-Thai 'ทูล' (humble-speech toward royal) + พระองค์ (divine 2sg) — acknowledging Jesus's public honor-status even as they criticize. This matches Matt 9:11, 15:12 precedent. Alternative 'บอก/กล่าว' with ท่าน would frame Pharisees as disrespectful but the Greek λέγω is neutral."
+        },
+        {
+          "greek": "Ἰδοὺ οἱ μαθηταί σου",
+          "thai": "ดูเถิด พวกสาวกของท่าน",
+          "rationale": "Per uW figs-metaphor: Ἰδού attention-marker (established Thai 'ดูเถิด'). σου singular-2 (Pharisees address Jesus personally per uW figs-yousingular). Thai 'ท่าน' (neutral-polite, non-royal) for Pharisees-referring-to-Jesus-as-lamberry-colleague-teacher. Register carefully downgraded from พระองค์-divine since Pharisees are questioning-not-worshiping."
+        },
+        {
+          "greek": "ὃ οὐκ ἔξεστιν ποιεῖν ἐν σαββάτῳ",
+          "thai": "สิ่งที่ไม่ชอบด้วยกฎในวันสะบาโต",
+          "rationale": "Per uW figs-explicit: ἔξεστιν (impersonal) = 'is-permitted-by-law.' Thai 'ไม่ชอบด้วยกฎ' (not-allowed-by-law) captures the legal-permission sense (vs merely 'ไม่ควร' which is moral-ought). NEW GLOSSARY: ἔξεστιν → ชอบด้วยกฎ (established translation used with negation for Sabbath-controversy contexts throughout Matt 12)."
+        }
+      ],
+      "notes": "QUOTE-OPEN: Outer « » opens for Pharisees' speech (standalone single-verse quote, closes end of v.2). Register decision: 'ทูล' + 'พระองค์' for Pharisee-to-Jesus speech preserves the Matthean framing where opponents publicly grant Jesus rabbi-honorific even while objecting. NO HAPAX."
+    }
+  },
+  {
+    "reference": "Matthew 12:3",
+    "chapter": 12,
+    "verse": 3,
+    "greek": "ὁ δὲ εἶπεν αὐτοῖς·Οὐκ ἀνέγνωτε τί ἐποίησεν Δαυὶδ ὅτε ἐπείνασεν καὶ οἱ μετ’αὐτοῦ;",
+    "bsb_english": "Jesus replied, “Have you not read what David did when he and his companions were hungry?",
+    "translation": {
+      "thai": "พระองค์ตรัสตอบพวกเขาว่า «พวกท่านไม่ได้อ่านหรือว่าดาวิดกับผู้ที่อยู่กับเขาทำอะไรเมื่อหิว?",
+      "thai_literal": "แต่ พระองค์ ตรัส แก่พวกเขา พวกท่าน ไม่ ได้อ่าน หรือ สิ่งใด ได้ทำ ดาวิด เมื่อ หิว และ บรรดาคน ที่อยู่กับ เขา",
+      "thai_summary": "พระเยซูไม่ตอบโดยปฏิเสธข้อกล่าวหา แต่ทรงอ้างเรื่องราวของดาวิดใน 1 ซมอ 21:1-6 ที่ดาวิดและคนของเขากินขนมปังหน้าพระพักตร์—ซึ่งปกติสงวนไว้สำหรับปุโรหิตเท่านั้น (ลนต 24:5-9)—เพราะความหิวจากการหนีภัย พระองค์ทรงเปรียบสถานการณ์ของสาวก (ความหิวในภารกิจ) กับการกระทำของดาวิดที่ยอมรับได้ในสายตาพระเจ้า",
+      "key_decisions": [
+        {
+          "greek": "Οὐκ ἀνέγνωτε",
+          "thai": "พวกท่านไม่ได้อ่านหรือ",
+          "rationale": "Per uW figs-rquestion: rhetorical question shaming-the-experts for not grasping Scripture's point. Aorist ἀνέγνωτε 'you-read-at-some-point-in-the-past' — Thai 'ไม่ได้อ่านหรือ' natural rhetorical-challenge. พวกท่าน (plural polite since Jesus is speaking to multiple Pharisees — register-match Matt 5:21 pattern 'Have you not heard that it was said...')."
+        },
+        {
+          "greek": "Δαυὶδ ... καὶ οἱ μετ’αὐτοῦ",
+          "thai": "ดาวิดกับผู้ที่อยู่กับเขา",
+          "rationale": "Per glossary: Δαυίδ → ดาวิด. οἱ μετ᾽ αὐτοῦ 'those-with-him' = David's fleeing-companions (1 Sam 21:1-6; per uW figs-explicit). Thai 'ผู้ที่อยู่กับเขา' preserves Greek literal-structure."
+        }
+      ],
+      "notes": "QUOTE-OPEN: Outer « » opens for Jesus's reply-discourse (spans vv.3-8). Matthew's Jesus uses typical rabbinic qal-vachomer (lesser-to-greater) argument: (1) David's precedent (vv.3-4), (2) priests' Sabbath-work (vv.5-6), (3) mercy-over-sacrifice principle (v.7), (4) Son-of-Man authority-claim (v.8). NO HAPAX in v.3."
+    }
+  },
+  {
+    "reference": "Matthew 12:4",
+    "chapter": 12,
+    "verse": 4,
+    "greek": "πῶς εἰσῆλθεν εἰς τὸν οἶκον τοῦ θεοῦ καὶ τοὺς ἄρτους τῆς προθέσεως ἔφαγον,ὃ οὐκ ἐξὸν ἦν αὐτῷ φαγεῖν οὐδὲ τοῖς μετ’αὐτοῦ,εἰ μὴ τοῖς ἱερεῦσιν μόνοις;",
+    "bsb_english": "He entered the house of God, and he and his companions ate the consecrated bread, which was not lawful for them to eat, but only for the priests.",
+    "translation": {
+      "thai": "เขาเข้าไปในพระนิเวศของพระเจ้าอย่างไร และพวกเขากินขนมปังหน้าพระพักตร์ซึ่งไม่ชอบด้วยกฎที่เขาหรือคนที่อยู่กับเขาจะกิน เว้นแต่บรรดาปุโรหิตเท่านั้น?",
+      "thai_literal": "อย่างไร ได้เข้าไป เข้าใน เรือน ของพระเจ้า และ บรรดาขนมปัง ของการตั้งไว้ พวกเขากิน สิ่งซึ่ง ไม่ ได้รับอนุญาต ได้เป็น แก่เขา ที่จะกิน และไม่ แก่บรรดาผู้ที่อยู่กับเขา เว้นแต่ แก่บรรดาปุโรหิต เท่านั้น",
+      "thai_summary": "«ขนมปังหน้าพระพักตร์» (ἄρτοι τῆς προθέσεως) คือขนมปัง 12 ก้อนที่วางบนโต๊ะในพลับพลาเป็นเครื่องบูชาต่อพระพักตร์พระเจ้า (ลนต 24:5-9) เปลี่ยนสัปดาห์ละครั้ง เหลือเฉพาะปุโรหิตกิน เรื่องราวที่ดาวิดกินขนมปังนี้ (1 ซมอ 21:1-6) เป็นข้อยกเว้นที่พระเจ้ายอมรับ เพราะชีวิตมนุษย์สำคัญกว่าความเข้มงวดของพิธี",
+      "key_decisions": [
+        {
+          "greek": "εἰς τὸν οἶκον τοῦ θεοῦ",
+          "thai": "ในพระนิเวศของพระเจ้า",
+          "rationale": "Per uW figs-explicit: 'the-house-of-God' = tabernacle at Nob (1 Sam 21) since David's time pre-dates Solomon's temple. Thai 'พระนิเวศของพระเจ้า' (God's-royal-residence) — avoids confusion with later-temple (ἱερόν) and honors divine-residence. NEW GLOSSARY: οἶκος τοῦ θεοῦ → พระนิเวศของพระเจ้า."
+        },
+        {
+          "greek": "τοὺς ἄρτους τῆς προθέσεως",
+          "thai": "ขนมปังหน้าพระพักตร์",
+          "rationale": "Per uW translate-unknown: ἄρτοι τῆς προθέσεως 'loaves of the Presence' = Heb לֶחֶם הַפָּנִים (lechem hapanim 'bread of the faces/presence'), placed before-God daily in tabernacle/temple (Lev 24:5-9). Thai 'ขนมปังหน้าพระพักตร์' (bread-before-the-royal-face) — standard Thai Christian rendering matching THSV/NTV. NEW GLOSSARY: ἄρτοι τῆς προθέσεως → ขนมปังหน้าพระพักตร์."
+        },
+        {
+          "greek": "ἱερεῦσιν μόνοις",
+          "thai": "บรรดาปุโรหิตเท่านั้น",
+          "rationale": "ἱερεύς → ปุโรหิต (standard Thai Christian — already glossed by Matt 8:4 σεαυτὸν δεῖξον τῷ ἱερεῖ). Plural dative + μόνοις 'to priests alone.' Thai 'บรรดา...เท่านั้น.' NEW GLOSSARY: ἱερεύς → ปุโรหิต."
+        }
+      ],
+      "notes": "GREEK TEXTUAL NOTE: SBLGNT reads ἔφαγον (3pl 'they-ate'), matching the expected sense (David AND his men). Some MSS (W, Byz) read ἔφαγεν (3sg 'he-ate') — word-choice-variant, no bracket, SBLGNT plural-form followed. This matches BSB's 'he and his companions ate.' OT BACKGROUND: ADDED TO NT_OT_CITATIONS as MAT 12:3-4 thematic_allusion 1 SAM 21:1-6 LXX (David-eats-showbread-at-Nob). The rabbinic tradition (b. Menahot 95b-96a) knew this precedent and debated its scope."
+    }
+  },
+  {
+    "reference": "Matthew 12:5",
+    "chapter": 12,
+    "verse": 5,
+    "greek": "ἢ οὐκ ἀνέγνωτε ἐν τῷ νόμῳ ὅτι τοῖς σάββασιν οἱ ἱερεῖς ἐν τῷ ἱερῷ τὸ σάββατον βεβηλοῦσιν καὶ ἀναίτιοί εἰσιν;",
+    "bsb_english": "Or haven’t you read in the Law that on the Sabbath the priests in the temple break the Sabbath and yet are innocent?",
+    "translation": {
+      "thai": "หรือพวกท่านไม่ได้อ่านในธรรมบัญญัติหรือว่า ในวันสะบาโตพวกปุโรหิตในพระวิหารฝ่าฝืนวันสะบาโต แต่ไม่มีความผิด?",
+      "thai_literal": "หรือ ไม่ ได้อ่าน ใน ธรรมบัญญัติ ว่า ในวันสะบาโตทั้งหลาย บรรดาปุโรหิต ใน พระวิหาร วันสะบาโต ทำให้เป็นมลทิน และ ไม่มีความผิด เป็น",
+      "thai_summary": "การโต้แย้งครั้งที่สองของพระเยซู: แม้พวกปุโรหิตทำงานในวันสะบาโต—ถวายเครื่องบูชา ชำแหละสัตว์ หั่นขนมปัง—ซึ่งตามตัวอักษรเป็นการ «ทำให้เป็นมลทิน» แต่ธรรมบัญญัติเองอนุญาตเพราะการรับใช้พระเจ้าสำคัญกว่า (กดว 28:9-10) ในลำดับความสำคัญ สิ่งที่ดูเหมือนฝ่าฝืนกฎในบริบทสามัญ กลับเป็นการปฏิบัติตามในบริบทของพระเจ้า",
+      "key_decisions": [
+        {
+          "greek": "ἐν τῷ νόμῳ",
+          "thai": "ในธรรมบัญญัติ",
+          "rationale": "Per glossary: νόμος (Torah-sense) → ธรรมบัญญัติ (established Matt 5:17 '¬καταλῦσαι τὸν νόμον'). Referring to Pentateuch specifically (Num 28:9-10 per uW)."
+        },
+        {
+          "greek": "ἐν τῷ ἱερῷ",
+          "thai": "ในพระวิหาร",
+          "rationale": "ἱερόν (temple-complex, Herodian-era) → พระวิหาร (established glossary pattern 'εἰς τὸ ἱερόν → เข้าไปในเขตพระวิหาร'). Used contrastively with οἶκος τοῦ θεοῦ (v.4 tabernacle-era). NEW GLOSSARY: ἱερόν → พระวิหาร."
+        },
+        {
+          "greek": "τὸ σάββατον βεβηλοῦσιν",
+          "thai": "ฝ่าฝืนวันสะบาโต",
+          "rationale": "Per uW figs-explicit: βεβηλόω (nt_freq=4) = 'profane/desecrate' — priestly work technically-violates-sabbath-command but is mandated-by-Torah. Thai 'ฝ่าฝืน' (break/violate — honest translation of the technical breach-of-rest) preserves the paradox Jesus is highlighting. Alt 'ทำให้เป็นมลทิน' carries more ritual weight — reserved for thai_literal line. NEW GLOSSARY: βεβηλόω → ฝ่าฝืน."
+        },
+        {
+          "greek": "ἀναίτιοί εἰσιν",
+          "thai": "ไม่มีความผิด",
+          "rationale": "Per uW figs-explicit: ἀναίτιος (nt_freq=2, both in this pericope v.5, v.7) = 'without-cause-for-blame/innocent.' Thai 'ไม่มีความผิด' (without-guilt). NEW GLOSSARY: ἀναίτιος → ผู้ไม่มีความผิด (default noun-sense at v.7); ไม่มีความผิด (adjectival at v.5)."
+        }
+      ],
+      "notes": "PRIESTLY SABBATH-EXCEPTION. ADDED TO NT_OT_CITATIONS as MAT 12:5 thematic_allusion NUM 28:9-10 LXX (sabbath-sacrifices doubled — priests-required-to-work-harder on sabbath). Matthean-distinctive argument (absent in Mark/Luke parallels). Closes qal-vachomer chain: if priests-profane-sabbath-are-innocent because of temple-service, how-much-more disciples-profane-sabbath-are-innocent because of Jesus-service. NO HAPAX."
+    }
+  },
+  {
+    "reference": "Matthew 12:6",
+    "chapter": 12,
+    "verse": 6,
+    "greek": "λέγω δὲ ὑμῖν ὅτι τοῦ ἱεροῦ μεῖζόν ἐστιν ὧδε.",
+    "bsb_english": "But I tell you that One greater than the temple is here.",
+    "translation": {
+      "thai": "แต่เราบอกพวกท่านว่า ผู้ยิ่งใหญ่กว่าพระวิหารอยู่ที่นี่แล้ว",
+      "thai_literal": "แต่ เรา บอก แก่พวกท่าน ว่า ของพระวิหาร ยิ่งใหญ่กว่า เป็น ที่นี่",
+      "thai_summary": "คำกล่าวของพระเยซูนี้เป็นคำอ้างว่าพระองค์ทรงมีสิทธิอำนาจยิ่งกว่าพระวิหาร—ศูนย์กลางการพบปะระหว่างพระเจ้ากับมนุษย์ในสมัยนั้น ถ้าการรับใช้ในพระวิหารอนุญาตให้ฝ่าฝืนวันสะบาโต การรับใช้พระเยซูเองก็ย่อมเช่นกัน คำว่า «ผู้ยิ่งใหญ่กว่า» (neut. μεῖζόν) ในภาษากรีกเป็นคำทั่วไปที่อาจหมายถึงอาณาจักรของพระเจ้า ภารกิจ หรือพระเยซูเอง—ใช้การอ้างอิงทางคริสต์ศาสตร์ต่อพระเยซูตามบริบท",
+      "key_decisions": [
+        {
+          "greek": "λέγω δὲ ὑμῖν",
+          "thai": "แต่เราบอกพวกท่านว่า",
+          "rationale": "Jesus's authoritative-formula. Royal 'เรา' self-reference per RULES.md §3 divine-subject. Established Matt 5:18 etc. 'พวกท่าน' (plural polite) for crowd-of-Pharisees."
+        },
+        {
+          "greek": "τοῦ ἱεροῦ μεῖζόν ἐστιν ὧδε",
+          "thai": "ผู้ยิ่งใหญ่กว่าพระวิหารอยู่ที่นี่แล้ว",
+          "rationale": "Per uW figs-extrainfo: μεῖζόν is neuter 'something-greater' — very general (could refer to kingdom-of-God, Jesus himself, Jesus's ministry, what Jesus calls disciples to do). Matthew uses this same formula 3x in Matt 12 (here, v.41, v.42) with neuter form. Thai 'ผู้ยิ่งใหญ่กว่า' lean Christological-interpretation (Matthean frame) while neuter-ambiguity is documented in notes. 'อยู่ที่นี่แล้ว' (Thai aspect-marker แล้ว preserves Greek present-ἐστιν 'is-here-now')."
+        }
+      ],
+      "notes": "CHRISTOLOGICAL HIGH-WATERMARK. Matthean-distinctive claim (absent Mark/Luke). Jesus positions himself/his-kingdom above-the-temple — the Second-Temple-period central-institution. Similar formula at v.41 ('greater-than-Jonah') + v.42 ('greater-than-Solomon') forms a triplet of 'greater-than-X' Christological-claims within Matt 12, each surpassing a temple/prophet/king pillar of Jewish-tradition. NO HAPAX."
+    }
+  },
+  {
+    "reference": "Matthew 12:7",
+    "chapter": 12,
+    "verse": 7,
+    "greek": "εἰ δὲ ἐγνώκειτε τί ἐστιν·Ἔλεος θέλω καὶ οὐ θυσίαν,οὐκ ἂν κατεδικάσατε τοὺς ἀναιτίους.",
+    "bsb_english": "If only you had known the meaning of ‘I desire mercy, not sacrifice,’ you would not have condemned the innocent.",
+    "translation": {
+      "thai": "ถ้าพวกท่านเข้าใจความหมายของคำที่ว่า ‹เราประสงค์ความเมตตา มิใช่เครื่องบูชา› พวกท่านก็จะไม่ลงโทษผู้ไม่มีความผิด",
+      "thai_literal": "แต่ ถ้า พวกท่าน ได้รู้ สิ่งใด คือ ความเมตตา เราประสงค์ และ ไม่ เครื่องบูชา ไม่ จะได้ ลงโทษ บรรดาผู้ไม่มีความผิด",
+      "thai_summary": "พระเยซูทรงอ้างโฮเชยา 6:6 เป็นครั้งที่สองในมัทธิว (ครั้งแรก มธ 9:13) คำที่ว่า «เราประสงค์ความเมตตา มิใช่เครื่องบูชา» เป็นคำของพระยะโฮวาห์ต่อชนอิสราเอลที่ถวายเครื่องบูชาแต่ไม่มีน้ำใจเมตตาต่อกัน พระเยซูนำหลักการเดียวกันมาใช้กับพวกฟาริสี: การเคร่งครัดในพิธีไม่มีค่าหากไม่มีความเมตตาต่อเพื่อนมนุษย์",
+      "key_decisions": [
+        {
+          "greek": "εἰ δὲ ἐγνώκειτε τί ἐστιν",
+          "thai": "ถ้าพวกท่านเข้าใจความหมายของคำที่ว่า",
+          "rationale": "Per uW grammar-connect-condition-contrary: pluperfect ἐγνώκειτε + contrary-to-fact implication (they clearly don't-know). τί ἐστιν 'what-it-is' = 'the-meaning-of-this.' Matching Matt 9:13 glossary precedent 'τί ἐστιν·Ἔλεος θέλω → ว่า ‹เราประสงค์ความเมตตา›.'"
+        },
+        {
+          "greek": "Ἔλεος θέλω καὶ οὐ θυσίαν",
+          "thai": "เราประสงค์ความเมตตา มิใช่เครื่องบูชา",
+          "rationale": "Per glossary: Matt 9:13-established rendering preserved verbatim. Hos 6:6 LXX direct citation: διότι ἔλεος θέλω καὶ οὐ θυσίαν. Thai preserved from earlier Matthean use for translation-consistency per RULES.md §4 key-term-rule."
+        },
+        {
+          "greek": "κατεδικάσατε τοὺς ἀναιτίους",
+          "thai": "ลงโทษผู้ไม่มีความผิด",
+          "rationale": "Per uW figs-nominaladj: τοὺς ἀναιτίους = 'the-innocent-ones' (Jesus's disciples specifically per uW). καταδικάζω → ลงโทษ (condemn/judge-as-guilty). NEW GLOSSARY: καταδικάζω → ลงโทษ."
+        }
+      ],
+      "notes": "DIRECT OT CITATION Hos 6:6 LXX (SECOND occurrence in Matthew). ADDED TO NT_OT_CITATIONS as MAT 12:7 direct_citation HOS 6:6 LXX (LXX-verbatim — ἔλεος θέλω καὶ οὐ θυσίαν exactly). CHRISTOLOGICAL-PROPHETIC-VOICE: Jesus takes YHWH's voice speaking the Hosea rebuke directly to the Pharisees — same rhetorical stance as Matt 9:13 (where he quoted it at Pharisees over table-fellowship). Inner ‹ › around Hos 6:6 citation. NO HAPAX."
+    }
+  },
+  {
+    "reference": "Matthew 12:8",
+    "chapter": 12,
+    "verse": 8,
+    "greek": "κύριος γάρ ἐστιν τοῦ σαββάτου ὁ υἱὸς τοῦ ἀνθρώπου.",
+    "bsb_english": "For the Son of Man is Lord of the Sabbath.”",
+    "translation": {
+      "thai": "เพราะว่าบุตรมนุษย์เป็นองค์พระผู้เป็นเจ้าแห่งวันสะบาโต»",
+      "thai_literal": "เพราะว่า พระผู้เป็นเจ้า เป็น ของวันสะบาโต บุตร ของมนุษย์",
+      "thai_summary": "ข้อนี้เป็นคำสรุปและจุดสำคัญทางคริสต์ศาสตร์ของการโต้แย้งทั้งหมด: พระเยซูในฐานะ «บุตรมนุษย์» (ตำแหน่งจาก ดานียาล 7:13-14) ทรงเป็น «องค์พระผู้เป็นเจ้า» (κύριος = ยาห์เวห์ในกรีกคำเดียวกัน) ของวันสะบาโต—วันที่พระเจ้าทรงสร้างและบัญชา การอ้างเช่นนี้วางพระเยซูไว้ในตำแหน่งที่เทียบเท่ากับพระเจ้าผู้ทรงสร้างวันสะบาโต",
+      "key_decisions": [
+        {
+          "greek": "κύριος ... ἐστιν τοῦ σαββάτου",
+          "thai": "เป็นองค์พระผู้เป็นเจ้าแห่งวันสะบาโต",
+          "rationale": "Per uW figs-possession: κύριος + genitive = 'one-who-rules-over.' Christological-high-watermark: κύριος here = YHWH-equivalent-title (same LXX-term). Thai 'องค์พระผู้เป็นChao' (divine-title, RULES.md §4 established for YHWH-sense) preserves the cosmic-authority claim. Alt 'นายของ' (human-master) would flatten the theology — rejected per Matthean Christological emphasis."
+        },
+        {
+          "greek": "ὁ υἱὸς τοῦ ἀνθρώπου",
+          "thai": "บุตรมนุษย์",
+          "rationale": "Per glossary: established 'ὁ υἱὸς τοῦ ἀνθρώπου → บุตรมนุษย์' (Matt 8:20, 9:6, 11:19 standard). Title from Dan 7:13-14 — Jesus's preferred self-designation. Retained exactly as previously-used for consistency."
+        }
+      ],
+      "notes": "QUOTE-CLOSE: Outer « » closes at end of v.8 (Jesus's reply-discourse vv.3-8 complete). CHRISTOLOGICAL-PEAK. Jesus as 'Lord of Sabbath' = Jesus assumes Creator-prerogative (Gen 2:2-3; Exo 20:11). The conclusion of the qal-vachomer: Son-of-Man outranks temple (v.6) → mercy outranks sacrifice (v.7) → Son-of-Man is Lord-over-Sabbath itself (v.8). Triadic-ascent of claims. NO HAPAX."
+    }
+  },
+  {
+    "reference": "Matthew 12:9",
+    "chapter": 12,
+    "verse": 9,
+    "greek": "Καὶ μεταβὰς ἐκεῖθεν ἦλθεν εἰς τὴν συναγωγὴν αὐτῶν·",
+    "bsb_english": "Moving on from there, Jesus entered their synagogue,",
+    "translation": {
+      "thai": "พระเยซูเสด็จออกจากที่นั่น เข้าไปในธรรมศาลาของพวกเขา",
+      "thai_literal": "และ ได้เสด็จไป จากที่นั่น ได้มาถึง เข้าสู่ ธรรมศาลา ของพวกเขา",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "μεταβὰς ἐκεῖθεν",
+          "thai": "เสด็จออกจากที่นั่น",
+          "rationale": "μεταβαίνω (nt_freq=12) = 'transfer/move-on.' Thai 'เสด็จออก' (royal-move-away) per RULES.md §3 divine-subject. Established Matt 11:1 same verb 'μετέβη → เสด็จจากที่นั่นไป.' NEW GLOSSARY: μεταβαίνω → เสด็จออก."
+        },
+        {
+          "greek": "εἰς τὴν συναγωγὴν αὐτῶν",
+          "thai": "ในธรรมศาลาของพวกเขา",
+          "rationale": "Per glossary: συναγωγή → ธรรมศาลา (RULES.md §4 non-negotiable). αὐτῶν 'their' = the Jewish people of the region (per uW writing-pronouns). Matthew's idiom 'their synagogue' (4x in Matt: 4:23, 9:35, 10:17, 12:9, 13:54) signals editorial distancing — Matthean post-70-CE perspective on Judaism."
+        }
+      ],
+      "notes": "TRANSITION-VERSE. Opens second sabbath-episode (vv.9-14). Narrative-setting moves from grainfield (open-air) to synagogue (indoor institutional). The escalation is geographic: controversy now happens INSIDE the official Jewish religious space. NO HAPAX."
+    }
+  },
+  {
+    "reference": "Matthew 12:10",
+    "chapter": 12,
+    "verse": 10,
+    "greek": "καὶ ἰδοὺ ἄνθρωπος χεῖρα ἔχων ξηράν.καὶ ἐπηρώτησαν αὐτὸν λέγοντες·Εἰ ἔξεστι τοῖς σάββασιν θεραπεύειν;ἵνα κατηγορήσωσιν αὐτοῦ.",
+    "bsb_english": "and a man with a withered hand was there. In order to accuse Jesus, they asked Him, “Is it lawful to heal on the Sabbath?”",
+    "translation": {
+      "thai": "และดูเถิด มีชายคนหนึ่งมือลีบ พวกเขาถามพระองค์ว่า «การรักษาในวันสะบาโตชอบด้วยกฎหรือ?» เพื่อจะได้ฟ้องพระองค์",
+      "thai_literal": "และ ดูเถิด ชาย มือ มี ลีบ และ พวกเขาได้ถาม พระองค์ กล่าวว่า ถ้า อนุญาต ในวันสะบาโตทั้งหลาย ที่จะรักษา เพื่อ พวกเขาจะฟ้อง ของพระองค์",
+      "thai_summary": "พวกฟาริสีตั้งคำถามเชิงดักจับ: หากพระเยซูรักษา พวกเขาจะฟ้องว่าฝ่าฝืนวันสะบาโต ในตำราราชบัณฑิต มีการถกเถียงว่าการรักษาคนที่ไม่ใช่ฉุกเฉินในวันสะบาโตนั้นถูกหรือไม่ (มิชนาห์ ชับบัต 22:6) ชายผู้นี้มือลีบมาหลายปี ไม่ใช่เรื่องเร่งด่วน—ตามเกณฑ์ฟาริสีคือห้าม",
+      "key_decisions": [
+        {
+          "greek": "χεῖρα ἔχων ξηράν",
+          "thai": "มือลีบ",
+          "rationale": "Per uW translate-unknown: ξηρά 'withered/dried-up' hand = atrophied muscle, bent like a fist. Per glossary: ξηράν → ลีบ (established). Thai 'มือลีบ' (standard Thai Christian — matches THSV)."
+        },
+        {
+          "greek": "Εἰ ἔξεστι τοῖς σάββασιν θεραπεύειν",
+          "thai": "การรักษาในวันสะบาโตชอบด้วยกฎหรือ",
+          "rationale": "Direct question with εἰ (indirect-question-marker used as direct). Per glossary: θεραπεύω → รักษา (established). ἔξεστιν → ชอบด้วยกฎ (per v.2 consistency)."
+        },
+        {
+          "greek": "ἵνα κατηγορήσωσιν αὐτοῦ",
+          "thai": "เพื่อจะได้ฟ้องพระองค์",
+          "rationale": "Per uW figs-explicit + grammar-connect-logic-goal: Matthew makes explicit-motive of Pharisees' question (trap Jesus into breaking-sabbath-law by healing). κατηγορέω → ฟ้อง (legal-accuse). NEW GLOSSARY: κατηγορέω → ฟ้อง."
+        }
+      ],
+      "notes": "TRAP-QUESTION. Matthew adds the motive-clause ἵνα κατηγορήσωσιν αὐτοῦ (absent in Mark 3:2 parallel which only describes watching) — Matthean-amplification of Pharisaic malice. Inner « » opens for Pharisees' hostile-inquiry quote (single verse, closes before motive-clause). Register: Pharisees' trap-question uses neutral-question form but motive is lethal. NO HAPAX."
+    }
+  },
+  {
+    "reference": "Matthew 12:11",
+    "chapter": 12,
+    "verse": 11,
+    "greek": "ὁ δὲ εἶπεν αὐτοῖς·Τίς ἔσται ἐξ ὑμῶν ἄνθρωπος ὃς ἕξει πρόβατον ἕν,καὶ ἐὰν ἐμπέσῃ τοῦτο τοῖς σάββασιν εἰς βόθυνον,οὐχὶ κρατήσει αὐτὸ καὶ ἐγερεῖ;",
+    "bsb_english": "He replied, “If one of you has a sheep and it falls into a pit on the Sabbath, will he not take hold of it and lift it out?",
+    "translation": {
+      "thai": "พระองค์ตรัสตอบพวกเขาว่า «ใครในพวกท่านที่มีแกะตัวหนึ่ง ถ้าแกะนั้นตกลงไปในหลุมในวันสะบาโต เขาจะไม่จับมันและยกขึ้นมาหรือ?",
+      "thai_literal": "แต่ พระองค์ ตรัส แก่พวกเขา ใคร จะเป็น จากพวกท่าน มนุษย์ ผู้ซึ่ง จะมี แกะ หนึ่งตัว และ ถ้า ตกลงไป นี่ ในวันสะบาโตทั้งหลาย เข้าใน หลุมบ่อ ไม่ จะจับ มัน และ จะยกขึ้น",
+      "thai_summary": "พระเยซูทรงใช้อาร์กิวเมนต์ qal va-chomer (จากน้อยไปสู่ใหญ่) ธรรมเนียมชาวยิวอนุญาตให้ช่วยสัตว์ที่ตกในหลุมในวันสะบาโตเพื่อป้องกันการเสียชีวิต (ดูม้วนดำเนียนเอสซี 11QT 52) แม้บางสำนักฟาริสี (เช่นคุมราน) ห้าม การชี้ให้เห็นว่าปกติธรรมแล้วผู้คนทำการที่ «ฝ่าฝืน» เพื่อช่วยสัตว์ เป็นการตั้งรากฐานให้การรักษาคนในวันสะบาโต",
+      "key_decisions": [
+        {
+          "greek": "Τίς ἔσται ἐξ ὑμῶν ἄνθρωπος",
+          "thai": "ใครในพวกท่าน",
+          "rationale": "Per uW figs-rquestion + figs-hypo: rhetorical-hypothetical question-form establishing everyone-would-do-this. Thai 'ใครในพวกท่าน' preserves rhetoric-structure. ἄνθρωπος (figs-gendernotations per uW) = gender-generic 'person' — collapsed into the rhetorical 'ใคร' since Thai does not need explicit 'person.'"
+        },
+        {
+          "greek": "πρόβατον ἕν",
+          "thai": "แกะตัวหนึ่ง",
+          "rationale": "Per uW figs-explicit: 'one-sheep' emphasizes the individual-case. πρόβατον → แกะ (established glossary — multiple Matt/Mark precedents). Thai 'แกะตัวหนึ่ง' (one-sheep-individual-case)."
+        },
+        {
+          "greek": "ἐμπέσῃ ... εἰς βόθυνον",
+          "thai": "ตกลงไปในหลุม",
+          "rationale": "Per uW figs-hypo: hypothetical scenario. βόθυνος (nt_freq=3 — this verse + Matt 15:14 + Luke 6:39) = 'pit/hole.' Thai 'หลุม' (standard). NEW GLOSSARY: βόθυνος → หลุม."
+        },
+        {
+          "greek": "κρατήσει αὐτὸ καὶ ἐγερεῖ",
+          "thai": "จับมันและยกขึ้นมา",
+          "rationale": "Per uW figs-explicit: these actions are technically sabbath-work but universally-done for sheep-rescue. κρατέω → จับ (grasp); ἐγείρω (lift-up-context, not resurrection) → ยกขึ้น. Thai natural-verb-pair."
+        }
+      ],
+      "notes": "QUOTE-OPEN: Outer « » opens for Jesus's reply (spans vv.11-12). RABBINIC-BACKGROUND: Shammaite + Essene traditions (11QT 52:10-12) FORBID lifting animals from pits on sabbath; Hillelite tradition (later codified m. Shabbat 18:3, 128b) PERMITS. Jesus assumes the Hillelite answer — his Pharisee interlocutors presumably share this more-lenient view, which traps them into accepting human-rescue as well. SYNOPTIC-PARALLEL: Matt 12:11-12 is Matthean-distinctive (Mark 3:4, Luke 6:9 have only 'is it lawful to do good...'). NO HAPAX."
+    }
+  },
+  {
+    "reference": "Matthew 12:12",
+    "chapter": 12,
+    "verse": 12,
+    "greek": "πόσῳ οὖν διαφέρει ἄνθρωπος προβάτου.ὥστε ἔξεστιν τοῖς σάββασιν καλῶς ποιεῖν.",
+    "bsb_english": "How much more valuable is a man than a sheep! Therefore it is lawful to do good on the Sabbath.”",
+    "translation": {
+      "thai": "มนุษย์ประเสริฐกว่าแกะมากสักเพียงใด เหตุฉะนั้นการทำความดีในวันสะบาโตจึงชอบด้วยกฎ»",
+      "thai_literal": "มากสักเพียงใด ดังนั้น ประเสริฐกว่า มนุษย์ แกะ ดังนั้น อนุญาต ในวันสะบาโตทั้งหลาย ดี ที่จะทำ",
+      "thai_summary": "การสรุป qal va-chomer: ถ้าช่วยแกะในวันสะบาโตได้ ช่วยคนได้ยิ่งกว่า เพราะมนุษย์ประเสริฐกว่ามาก (ปฐก 1:26-27 มนุษย์ถูกสร้างตามฉายาพระเจ้า) หลักการนี้เปลี่ยนจุดเน้นของวันสะบาโตจากการ «ห้าม» ไปเป็นการ «ทำความดี»—วันสะบาโตเป็นของมนุษย์ ไม่ใช่มนุษย์เป็นของวันสะบาโต (มก 2:27)",
+      "key_decisions": [
+        {
+          "greek": "πόσῳ οὖν διαφέρει ἄνθρωπος προβάτου",
+          "thai": "มนุษย์ประเสริฐกว่าแกะมากสักเพียงใด",
+          "rationale": "Per uW figs-rquestion: rhetorical exclamation — should answer 'greatly/enormously.' διαφέρω → ประเสริฐกว่า (established MAT 10:31 'พวกท่านประเสริฐกว่านกมากนัก'). Thai 'มากสักเพียงใด' preserves rhetorical-intensity. NEW GLOSSARY: διαφέρω → ประเสริฐกว่า (confirming established value-comparison sense)."
+        },
+        {
+          "greek": "ὥστε ἔξεστιν ... καλῶς ποιεῖν",
+          "thai": "การทำความดีในวันสะบาโตจึงชอบด้วยกฎ",
+          "rationale": "Per uW grammar-connect-logic-result: ὥστε 'therefore' introduces-inference. καλῶς ποιεῖν 'to-do-good' — generalizes beyond healing to any good-action. Thai 'ทำความดี' preserves the broad-moral scope. ἔξεστιν maintained as 'ชอบด้วยกฎ' for Sabbath-pericope consistency."
+        }
+      ],
+      "notes": "QUOTE-CLOSE: Outer « » closes at end of v.12. PRINCIPLE-CODIFICATION: Jesus establishes 'do-good-on-sabbath' as Torah-consistent principle — Matthean-distinctive framing (Mark/Luke have similar but not this exact form). The argument overturns the working assumption of Pharisaic sabbath-halakhah: that Sabbath-rest requires abstaining from 39 categories of work. Jesus: Sabbath's purpose is to enable human-flourishing, not to prohibit it. NO HAPAX."
+    }
+  },
+  {
+    "reference": "Matthew 12:13",
+    "chapter": 12,
+    "verse": 13,
+    "greek": "τότε λέγει τῷ ἀνθρώπῳ·Ἔκτεινόν σου τὴν χεῖρα·καὶ ἐξέτεινεν,καὶ ἀπεκατεστάθη ὑγιὴς ὡς ἡ ἄλλη.",
+    "bsb_english": "Then Jesus said to the man, “Stretch out your hand.” So he stretched it out, and it was restored to full use, just like the other.",
+    "translation": {
+      "thai": "แล้วพระองค์ตรัสแก่ชายผู้นั้นว่า «จงเหยียดมือของท่านออก» เขาก็เหยียดออก และมือของเขาก็กลับเป็นปกติหายดีเหมือนมืออีกข้างหนึ่ง",
+      "thai_literal": "แล้ว พระองค์ ตรัส แก่ชาย จงเหยียดออก ของท่าน มือ และ เขาได้เหยียดออก และ ได้ถูกทำให้กลับคืน หายดี เหมือน อีก",
+      "thai_summary": "การรักษาเกิดขึ้นโดยคำสั่งของพระเยซูเพียงอย่างเดียว—ไม่มีการสัมผัส ไม่มีการทา ไม่ใช่แม้แต่งาน พระองค์ทรงชี้ให้เห็นว่าความเป็นพระเจ้าของพระองค์สำแดงผ่านคำตรัส ในเวลาเดียวกัน การรักษาเป็นความรับผิดชอบของพระเจ้า ไม่ใช่ของพระเยซูในฐานะ «งาน» ที่ต้องห้าม",
+      "key_decisions": [
+        {
+          "greek": "Ἔκτεινόν σου τὴν χεῖρα",
+          "thai": "จงเหยียดมือของท่านออก",
+          "rationale": "Per uW figs-imperative + figs-yousingular: singular imperative + singular σου directly-addressed to the-man. Thai 'จงเหยียด' (standard-imperative), 'ท่าน' (singular-polite to unknown-adult-man). ἐκτείνω → เหยียด (stretch-out). NEW GLOSSARY: ἐκτείνω → เหยียด."
+        },
+        {
+          "greek": "ἀπεκατεστάθη ὑγιὴς",
+          "thai": "กลับเป็นปกติหายดี",
+          "rationale": "Per uW figs-activepassive: divine-passive 'was-restored' (Jesus is implicit-agent). ἀποκαθίστημι → กลับเป็นปกติ (restore-to-prior-state); ὑγιής → หายดี (healthy). Thai combined-form 'กลับเป็นปกติหายดี' preserves both the restoration-aspect and health-outcome. NEW GLOSSARY: ἀποκαθίστημι → กลับเป็นปกติ; ὑγιής → หายดี."
+        }
+      ],
+      "notes": "INSTANT-HEALING-BY-WORD. Jesus heals without physical-contact — contrast to the implied 'work' pharisaic-charge requires action-touch-rubbing. The healing happens in-the-stretching (man's obedience + divine word combine). Quote for 'Stretch out your hand' uses standalone « ». NO HAPAX."
+    }
+  },
+  {
+    "reference": "Matthew 12:14",
+    "chapter": 12,
+    "verse": 14,
+    "greek": "ἐξελθόντες δὲ οἱ Φαρισαῖοι συμβούλιον ἔλαβον κατ’αὐτοῦ ὅπως αὐτὸν ἀπολέσωσιν.",
+    "bsb_english": "But the Pharisees went out and plotted how they might kill Jesus.",
+    "translation": {
+      "thai": "แต่พวกฟาริสีออกไปและปรึกษากันถึงพระองค์ ว่าจะทำอย่างไรจึงจะฆ่าพระองค์ได้",
+      "thai_literal": "ออกไป แต่ พวกฟาริสี ปรึกษาหารือ ได้รับ ต่อ พระองค์ เพื่อ พระองค์ พวกเขาจะทำลาย",
+      "thai_summary": "การต่อต้านพระเยซูเข้าสู่จุดใหม่: จากการกล่าวหาเป็นการวางแผนฆ่า นี่คือการกล่าวถึง «การวางแผนฆ่า» ครั้งแรกในมัทธิว (เทียบมก 3:6 มีพวกเฮโรดร่วมด้วยด้วย) การเปลี่ยนจากการโต้แย้งทางศาสนาเป็นการวางแผนรุนแรงเผยให้เห็นว่าข้อโต้แย้งไม่ใช่เรื่องวันสะบาโตจริง แต่เป็นเรื่องสิทธิอำนาจของพระเยซู",
+      "key_decisions": [
+        {
+          "greek": "συμβούλιον ἔλαβον κατ’αὐτοῦ",
+          "thai": "ปรึกษากันถึงพระองค์",
+          "rationale": "Per uW figs-idiom: συμβούλιον λαμβάνω 'take-counsel-against' = plot/conspire (Matt 22:15, 27:1, 27:7, 28:12 pattern). Thai 'ปรึกษากัน' neutral 'take-counsel,' 'ถึงพระองค์' (about-him) — 'กัน...ถึง' natural Thai conspiracy-idiom. NEW GLOSSARY: συμβούλιον λαμβάνω → ปรึกษากัน."
+        },
+        {
+          "greek": "ὅπως αὐτὸν ἀπολέσωσιν",
+          "thai": "ว่าจะทำอย่างไรจึงจะฆ่าพระองค์ได้",
+          "rationale": "Per uW: ἀπόλλυμι (aor-subj) here = 'destroy/kill.' Thai 'ฆ่า' (kill-direct). Matthew plans-to-kill language first here, repeated 26:4, 27:20. 'พระองค์ได้' (royal-object-pronoun) preserves Jesus's royal-dignity even-as-victim-of-plot."
+        }
+      ],
+      "notes": "NARRATIVE-PIVOT. Matthew narrative moves from dispute to murder-plot — the point of no return. Matthew 12:14 is the first explicit-kill-plot-mention in the Gospel (Mark 3:6 parallel mentions it earlier but Matthew delays to here for narrative-effect). NO HAPAX."
+    }
+  },
+  {
+    "reference": "Matthew 12:15",
+    "chapter": 12,
+    "verse": 15,
+    "greek": "Ὁ δὲ Ἰησοῦς γνοὺς ἀνεχώρησεν ἐκεῖθεν.καὶ ἠκολούθησαν αὐτῷ πολλοί,καὶ ἐθεράπευσεν αὐτοὺς πάντας,",
+    "bsb_english": "Aware of this, Jesus withdrew from that place. Large crowds followed Him, and He healed them all,",
+    "translation": {
+      "thai": "เมื่อพระเยซูทรงทราบ จึงเสด็จหลบออกไปจากที่นั่น และมีคนมากมายตามเสด็จพระองค์ และพระองค์ทรงรักษาเขาทุกคน",
+      "thai_literal": "แต่ พระเยซู เมื่อทรงทราบ ทรงเสด็จหลบไป จากที่นั่น และ ได้ติดตาม พระองค์ คนมากมาย และ ทรงรักษา พวกเขา ทุกคน",
+      "thai_summary": "พระเยซูทรงเลือกที่จะถอยและไม่เผชิญหน้าโดยตรง นี่เป็นรูปแบบของพระองค์ในมัทธิว (เช่น 2:14 หนีไปอียิปต์ 4:12 ถอยไปกาลิลี 14:13 ถอยไปถิ่นเปลี่ยว) การถอยไม่ใช่ความกลัวแต่เป็นยุทธศาสตร์ของพันธกิจ—เวลายังไม่ถึง การรักษาทุกคนที่ตามไปแสดงถึงความเมตตาของพระเจ้าในพระเยซู",
+      "key_decisions": [
+        {
+          "greek": "γνοὺς",
+          "thai": "เมื่อพระเยซูทรงทราบ",
+          "rationale": "Per uW figs-explicit: γνούς 'perceiving/having-known' — Matthew implies Jesus perceived the Pharisees' murder-plot. Thai 'ทรงทราบ' (divine-royal know) per RULES.md §3. Divine-subject ทรง-prefix."
+        },
+        {
+          "greek": "ἀνεχώρησεν ἐκεῖθεν",
+          "thai": "เสด็จหลบออกไปจากที่นั่น",
+          "rationale": "ἀναχωρέω (nt_freq=14, 10x in Matt — Matthean-signature verb) = strategic-withdrawal. Thai 'เสด็จหลบ' (royal-withdraw-to-avoid-conflict) preserves Matthean-signature. Distinct from ὑπάγω (simple 'go') and μεταβαίνω (v.9 'transfer'). NEW GLOSSARY: ἀναχωρέω → เสด็จหลบ."
+        },
+        {
+          "greek": "ἠκολούθησαν αὐτῷ πολλοί",
+          "thai": "มีคนมากมายตามเสด็จพระองค์",
+          "rationale": "Per uW figs-nominaladj: πολλοί 'many (people).' Per glossary: ἀκολουθέω → ตามเสด็จ when object is Jesus (divine-subject receives royal-follow)."
+        },
+        {
+          "greek": "ἐθεράπευσεν αὐτοὺς πάντας",
+          "thai": "ทรงรักษาเขาทุกคน",
+          "rationale": "Per uW figs-explicit: implication is 'all-who-were-sick' among-the-followers. Per glossary: θεραπεύω → ทรงรักษา (established Matt 4:23 etc. with royal ทรง-prefix)."
+        }
+      ],
+      "notes": "MESSIANIC-HEALING-SUMMARY. Matthew's editorial summary-passages (11:4-5, 14:14, 15:30-31 similar) frame Jesus's ministry as comprehensive-restoration of the sick/suffering. The 'all' is typical Matthean hyperbolic-totalization emphasizing Jesus's unlimited-healing-power. NO HAPAX."
+    }
+  },
+  {
+    "reference": "Matthew 12:16",
+    "chapter": 12,
+    "verse": 16,
+    "greek": "καὶ ἐπετίμησεν αὐτοῖς ἵνα μὴ φανερὸν αὐτὸν ποιήσωσιν,",
+    "bsb_english": "warning them not to make Him known.",
+    "translation": {
+      "thai": "และทรงกำชับพวกเขาไม่ให้เผยพระองค์แก่คนทั้งหลาย",
+      "thai_literal": "และ ทรงกำชับ แก่พวกเขา เพื่อ ไม่ ปรากฏ พระองค์ พวกเขาจะทำให้",
+      "thai_summary": "«ความลับแห่งพระเมสสิยาห์» (Messianic Secret) เป็นธีมในพระกิตติคุณ—พระเยซูทรงไม่ให้ผู้คนประกาศพระองค์ว่าเป็นพระเมสสิยาห์ก่อนเวลาอันควร เหตุผลหลัก: (1) ความคาดหวังของผู้คนเกี่ยวกับพระเมสสิยาห์มักผิดจากพระประสงค์ของพระเจ้า (พระเมสสิยาห์ในฐานะผู้รับใช้ที่ทนทุกข์ ไม่ใช่กษัตริย์นักรบ) และ (2) การเผยพระองค์ก่อนเวลาจะทำให้พันธกิจรับอันตรายทางการเมือง",
+      "key_decisions": [
+        {
+          "greek": "ἐπετίμησεν αὐτοῖς",
+          "thai": "ทรงกำชับพวกเขา",
+          "rationale": "ἐπιτιμάω → ทรงกำชับ (warn-strongly with divine royal-prefix). Distinguished from simple-command. Per glossary precedent: 'πολλὰ ἐπετίμα' rebuke-contexts render as ทรงกำชับ/ทรงห้าม. NEW GLOSSARY: ἐπιτιμάω (warn-command-sense) → ทรงกำชับ."
+        },
+        {
+          "greek": "μὴ φανερὸν αὐτὸν ποιήσωσιν",
+          "thai": "ไม่ให้เผยพระองค์แก่คนทั้งหลาย",
+          "rationale": "Per uW figs-explicit: 'not make-him-known' = do not publicize him. Thai 'เผย...แก่คนทั้งหลาย' (reveal-to-everyone). NEW GLOSSARY: φανερόν ποιέω → เผย/ทำให้ปรากฏ."
+        }
+      ],
+      "notes": "MESSIANIC-SECRET. Matthew here frames it with Isaianic-fulfillment (v.17-21 justifies-via-Isa-42 'not cry out' prophecy). Matthean-distinctive approach vs. Mark's silence-on-demons (which Matt also preserves); here focus is crowd-silence-re-Messianic-identity. NO HAPAX."
+    }
+  },
+  {
+    "reference": "Matthew 12:17",
+    "chapter": 12,
+    "verse": 17,
+    "greek": "ἵνα πληρωθῇ τὸ ῥηθὲν διὰ Ἠσαΐου τοῦ προφήτου λέγοντος·",
+    "bsb_english": "This was to fulfill what was spoken through the prophet Isaiah:",
+    "translation": {
+      "thai": "ทั้งนี้เพื่อให้สำเร็จตามคำที่ตรัสไว้โดยอิสยาห์ผู้เผยพระวจนะที่ว่า",
+      "thai_literal": "เพื่อ ให้สำเร็จ สิ่งซึ่ง ได้ถูกตรัส ผ่าน อิสยาห์ ผู้เผยพระวจนะ ที่กล่าว",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ἵνα πληρωθῇ",
+          "thai": "ทั้งนี้เพื่อให้สำเร็จ",
+          "rationale": "Per glossary established pattern: Matthean-fulfillment-formula 'ἵνα πληρωθῇ' → 'ทั้งนี้เพื่อให้สำเร็จ.' 14x in Matt (1:22, 2:15, 2:17, 2:23, 4:14, 8:17, 12:17, 13:35, 21:4, 26:54, 26:56, 27:9, 27:35). Matthean-distinctive Christological-hermeneutic."
+        },
+        {
+          "greek": "διὰ Ἠσαΐου τοῦ προφήτου λέγοντος",
+          "thai": "โดยอิสยาห์ผู้เผยพระวจนะที่ว่า",
+          "rationale": "Per glossary: 'διὰ Ἠσαΐου τοῦ προφήτου λέγοντος → โดยอิสยาห์ผู้เผยพระวจนะที่ว่า' (established formula — preserved exactly)."
+        }
+      ],
+      "notes": "FULFILLMENT-FORMULA. Identical to Matt 4:14 per uW (standard Matthean-cue for OT-citation). Introduces the longest-OT-quote in Matt (vv.18-21, quoting Isa 42:1-4). NO HAPAX."
+    }
+  },
+  {
+    "reference": "Matthew 12:18",
+    "chapter": 12,
+    "verse": 18,
+    "greek": "Ἰδοὺ ὁ παῖς μου ὃν ᾑρέτισα,ὁ ἀγαπητός μου εἰς ὃν εὐδόκησεν ἡ ψυχή μου·θήσω τὸ πνεῦμά μου ἐπ’αὐτόν,καὶ κρίσιν τοῖς ἔθνεσιν ἀπαγγελεῖ.",
+    "bsb_english": "“Here is My Servant, whom I have chosen, My beloved, in whom My soul delights. I will put My Spirit on Him, and He will proclaim justice to the nations.",
+    "translation": {
+      "thai": "«ดูเถิด ผู้รับใช้ของเรา ผู้ที่เราได้เลือกสรร ผู้เป็นที่รักของเรา ผู้ที่ดวงพระทัยของเราชื่นชอบ เราจะวางวิญญาณของเราเหนือท่าน และท่านจะประกาศความยุติธรรมแก่บรรดาประชาชาติ",
+      "thai_literal": "ดูเถิด ผู้รับใช้ ของเรา ซึ่ง เราได้เลือก ผู้เป็นที่รัก ของเรา ใน ซึ่ง ได้ชอบพระทัย วิญญาณ ของเรา เราจะวาง วิญญาณ ของเรา เหนือ ท่าน และ ความยุติธรรม แก่บรรดาชนชาติ ท่านจะประกาศ",
+      "thai_summary": "ข้อ 18-21 เป็นการอ้างอิสยาห์ 42:1-4 ซึ่งเป็นบทเพลงของผู้รับใช้บทแรก (Servant Song) มัทธิวมองว่าพระเยซูทรงสำเร็จตามคำพยากรณ์นี้ พระวจนะของพระเจ้าที่ตรัสกับอิสราเอลในอดีต («ดูเถิด ผู้รับใช้ของเรา») ถูกนำมาใช้กับพระเยซู ในฐานะเสียงของพระเจ้าตรัสถึงพระบุตร ข้อ 18 ยังสะท้อนเสียงสวรรค์ตอนรับบัพติศมา (มธ 3:17) «ผู้เป็นที่รักของเรา» ซึ่งยืนยันว่าพระเยซูคือผู้รับใช้ที่อิสยาห์พยากรณ์ไว้",
+      "key_decisions": [
+        {
+          "greek": "ὁ παῖς μου",
+          "thai": "ผู้รับใช้ของเรา",
+          "rationale": "Per uW: παῖς (nt_freq=24) here = 'servant' (in Isaiah-Servant-Songs sense), not 'child.' Thai 'ผู้รับใช้' (servant, standard Thai Christian — matches THSV Isaiah). Context: God speaking about Servant = Christological-identification per Matthean frame. NEW GLOSSARY: παῖς (Isaian-Servant-sense) → ผู้รับใช้."
+        },
+        {
+          "greek": "ᾑρέτισα",
+          "thai": "เราได้เลือกสรร",
+          "rationale": "NT HAPAX αἱρετίζω (aor-1sg). LXX usage: 1 Chr 28:6 (David-chooses-Solomon), Mal 3:17, Hag 2:24 (God-chooses-servant). Here = God's-election-of-the-Servant. Thai 'เลือกสรร' (carefully-choose, formal-elective sense) distinct from simple ἐκλέγομαι 'เลือก.' NEW GLOSSARY: αἱρετίζω NT-HAPAX → เลือกสรร."
+        },
+        {
+          "greek": "ὁ ἀγαπητός μου εἰς ὃν εὐδόκησεν ἡ ψυχή μου",
+          "thai": "ผู้เป็นที่รักของเรา ผู้ที่ดวงพระทัยของเราชื่นชอบ",
+          "rationale": "Per uW figs-synecdoche: 'my soul' represents 'God himself.' ἀγαπητός → ผู้เป็นที่รัก (established Matt 3:17 'υἱός ἀγαπητός → บุตรที่รัก'); εὐδοκέω → ชอบพระทัย (established Matt 3:17). ψυχή (God's, figurative) → ดวงพระทัย (royal-heart, divine-inner-self — preserving royal register while avoiding anthropomorphic clunkiness). Note: this is intentionally echoing Matt 3:17 baptism-voice 'οὗτός ἐστιν ὁ υἱός μου ὁ ἀγαπητός, ἐν ᾧ εὐδόκησα' — same lexemes pointing Servant=Son. NEW GLOSSARY: ψυχή (God's, Isaian-idiomatic) → ดวงพระทัย."
+        },
+        {
+          "greek": "θήσω τὸ πνεῦμά μου ἐπ’αὐτόν",
+          "thai": "เราจะวางวิญญาณของเราเหนือท่าน",
+          "rationale": "Per uW figs-metaphor: 'place-Spirit-upon' = empower-with-Spirit. Thai 'วางวิญญาณ...เหนือ' (literal + natural). Choose 'วิญญาณ' not 'พระวิญญาณ' deliberately here — the Greek lacks ἅγιον-marker; post-translation interpretation identifies as Holy Spirit (flagged in notes). Alternative 'ประทานวิญญาณแก่' (give-Spirit-to) was rejected for preserving the 'ἐπί (upon)' locative. Divine-passive preserved: Servant receives-but-does-not-act."
+        },
+        {
+          "greek": "κρίσιν τοῖς ἔθνεσιν ἀπαγγελεῖ",
+          "thai": "ท่านจะประกาศความยุติธรรมแก่บรรดาประชาชาติ",
+          "rationale": "Per uW figs-explicit: κρίσις (Isaian-context) = 'mishpat' (Heb) = 'justice' (not 'judgment'). Per uW figs-explicit: ἔθνη (Isaian-context) = all-nations (including-Jews) or Gentiles specifically; polyvalent per uW. Thai 'บรรดาประชาชาติ' (all-nations — preserves ambiguity). ἀπαγγέλλω → ประกาศ (proclaim/declare-publicly). NEW GLOSSARY: κρίσις (Isaian-Servant-Song sense) → ความยุติธรรม (contextual-variant of 'judgment' sense)."
+        }
+      ],
+      "notes": "SERVANT-SONG-QUOTE-OPENS. Outer « » opens v.18 for OT-quote-block spanning vv.18-21. Isaiah 42:1-4 = First Servant Song. HAPAX: αἱρετίζω (NT-unique; from αἱρέω 'choose'). The quotation DIFFERS from Hebrew Isa 42:1 MT and even from LXX — Matthew likely paraphrasing or using a Greek revision. Key-divergences: MT 'אֶתְמָךְ-בּוֹ' (I uphold him) → LXX ἀντιλήψομαι (I will take hold of him) → Matt ᾑρέτισα (I chose); MT 'רוּחִי עָלָיו' (my spirit upon him) → Matt θήσω τὸ πνεῦμά μου ἐπ' αὐτόν (I will put my spirit on him) — future-tense Matthean adaptation. CHRISTOLOGICAL HIGH-WATERMARK: this quote + Matt 3:17 baptismal-voice + Matt 17:5 transfiguration-voice form a Matthean-triad where God audibly-identifies Jesus as The Servant/Beloved-Son. Added OT citation entry."
+    }
+  },
+  {
+    "reference": "Matthew 12:19",
+    "chapter": 12,
+    "verse": 19,
+    "greek": "οὐκ ἐρίσει οὐδὲ κραυγάσει,οὐδὲ ἀκούσει τις ἐν ταῖς πλατείαις τὴν φωνὴν αὐτοῦ.",
+    "bsb_english": "He will not quarrel or cry out; no one will hear His voice in the streets.",
+    "translation": {
+      "thai": "ท่านจะไม่ทะเลาะวิวาทหรือส่งเสียงดัง จะไม่มีใครได้ยินเสียงของท่านในถนน",
+      "thai_literal": "ไม่ ท่านจะโต้เถียง และไม่ ท่านจะส่งเสียง และไม่ จะได้ยิน ผู้ใด ใน บรรดาถนน เสียง ของท่าน",
+      "thai_summary": "ลักษณะของผู้รับใช้: ไม่ใช้ความรุนแรง ไม่ประกาศเสียงดัง ไม่ทะเลาะวิวาท—ตรงข้ามกับกษัตริย์นักรบที่อิสราเอลคาดหวัง พระเยซูทรงสำเร็จภาพนี้โดยทรงไม่ตอบโต้ข้อกล่าวหาของพวกฟาริสีด้วยความรุนแรง (ข้อ 15 «เสด็จหลบออกไป»)",
+      "key_decisions": [
+        {
+          "greek": "οὐκ ἐρίσει",
+          "thai": "ไม่ทะเลาะวิวาท",
+          "rationale": "NT HAPAX ἐρίζω (fut-act-ind-3sg) = 'quarrel/dispute.' From noun ἔρις (strife). Thai 'ทะเลาะวิวาท' captures verbal-dispute scope. NEW GLOSSARY: ἐρίζω NT-HAPAX → ทะเลาะวิวาท."
+        },
+        {
+          "greek": "οὐδὲ κραυγάσει",
+          "thai": "หรือส่งเสียงดัง",
+          "rationale": "κραυγάζω (nt_freq=9) = 'cry-out loud/shout.' Thai 'ส่งเสียงดัง' (make-loud-sound). NEW GLOSSARY: κραυγάζω → ส่งเสียงดัง."
+        },
+        {
+          "greek": "ἐν ταῖς πλατείαις",
+          "thai": "ในถนน",
+          "rationale": "Per uW figs-explicit: πλατεῖα (nt_freq=9) = wide-public-street/plaza — symbol of noisy-public-self-promotion. Thai 'ถนน' (public-street, default). Alt 'ที่สาธารณะ' for abstract 'public places' was considered but direct-image preserved. NEW GLOSSARY: πλατεῖα → ถนน."
+        }
+      ],
+      "notes": "NT HAPAX #2: ἐρίζω (v.19). Servant's meekness-motif — directly contrasts with the Messianic-warrior-expectation of contemporary Judaism. Matthew places the quote immediately after Jesus's silent-withdrawal (v.15) to demonstrate-fulfillment. NO additional OT citation entry beyond the Isa 42 master-entry at v.18."
+    }
+  },
+  {
+    "reference": "Matthew 12:20",
+    "chapter": 12,
+    "verse": 20,
+    "greek": "κάλαμον συντετριμμένον οὐ κατεάξει καὶ λίνον τυφόμενον οὐ σβέσει,ἕως ἂν ἐκβάλῃ εἰς νῖκος τὴν κρίσιν.",
+    "bsb_english": "A bruised reed He will not break, and a smoldering wick He will not extinguish, till He leads justice to victory.",
+    "translation": {
+      "thai": "ต้นอ้อช้ำ ท่านจะไม่หัก ไส้ตะเกียงที่ริบหรี่ ท่านจะไม่ดับ จนกว่าท่านจะนำความยุติธรรมไปสู่ชัยชนะ",
+      "thai_literal": "ต้นอ้อ ช้ำ ไม่ ท่านจะหัก และ ผ้าลินิน ริบหรี่ ไม่ ท่านจะดับ จนกว่า จะ ท่านจะนำออกไป ไปสู่ ชัยชนะ ความยุติธรรม",
+      "thai_summary": "บทเพลงของผู้รับใช้ใช้ภาพเปรียบของสิ่งที่อ่อนแอและเปราะบาง: ต้นอ้อที่ช้ำและไส้ตะเกียงที่ใกล้ดับ แทนผู้ที่อ่อนแอทางจิตวิญญาณหรือบอบช้ำจากชีวิต ผู้รับใช้จะไม่ทำลายพวกเขา—ตรงข้ามกับกษัตริย์ทั่วไปที่ยืนอยู่บนความแข็งแกร่ง พระเยซูทรงทำงานกับผู้อ่อนแอ คนยากจน และคนบาป จนกระทั่งความยุติธรรมของพระเจ้าได้รับชัยชนะอย่างเต็มเปี่ยม",
+      "key_decisions": [
+        {
+          "greek": "κάλαμον συντετριμμένον",
+          "thai": "ต้นอ้อช้ำ",
+          "rationale": "κάλαμος → ต้นอ้อ (established Matt 11:7 'κάλαμον σαλευόμενον → ต้นอ้อที่พัดไหว' — glossary-precedent). συντρίβω (perf-pass-ptcp) = 'crushed/bruised.' Thai 'ช้ำ' (bruised — standard Thai idiom for damaged-plants/persons). NEW GLOSSARY: συντρίβω → ช้ำ (passive-bruised sense)."
+        },
+        {
+          "greek": "οὐ κατεάξει",
+          "thai": "ท่านจะไม่หัก",
+          "rationale": "κατάγνυμι (nt_freq=4) = 'break-completely (woody).' Thai 'หัก' (break-snap). NEW GLOSSARY: κατάγνυμι → หัก."
+        },
+        {
+          "greek": "λίνον τυφόμενον οὐ σβέσει",
+          "thai": "ไส้ตะเกียงที่ริบหรี่ ท่านจะไม่ดับ",
+          "rationale": "Per uW translate-unknown: λίνον = 'linen/flax' but in context = 'lamp-wick' (λίνον τυφόμενον = smoldering-wick). Thai 'ไส้ตะเกียง' (lamp-wick — functional-clarity over literal-linen). NT HAPAX τύφομαι (pres-pass-ptcp) 'smoke/smolder' → 'ริบหรี่' (flicker-dim). σβέννυμι → ดับ (established Matt 5:15 etc.). NEW GLOSSARY: λίνον (wick-context) → ไส้ตะเกียง; τύφομαι NT-HAPAX → ริบหรี่."
+        },
+        {
+          "greek": "ἕως ἂν ἐκβάλῃ εἰς νῖκος τὴν κρίσιν",
+          "thai": "จนกว่าท่านจะนำความยุติธรรมไปสู่ชัยชนะ",
+          "rationale": "Per uW figs-idiom: ἐκβάλλω εἰς νῖκος τὴν κρίσιν = 'lead-justice-to-victory' (non-literal 'casts-out'). νῖκος = 'victory' (Matt 12:20 + 1 Cor 15:54-57 — Paul same word in resurrection-context). Thai 'นำ...ไปสู่ชัยชนะ' preserves forward-momentum. NEW GLOSSARY: νῖκος → ชัยชนะ."
+        }
+      ],
+      "notes": "NT HAPAX #3: τύφομαι (v.20). Isa 42:3-4 continuation of Servant-Song citation (main DB-entry at v.18). Isaianic-parallelism preserved per uW figs-parallelism: 'bruised-reed not-broken ∥ smoldering-wick not-quenched.' Classical Hebraic synonymous-parallelism = two images expressing same idea: the Servant will-not-crush-the-already-wounded. Both images were commonplace: bruised-reeds were discarded; smoldering-wicks (esp. of lamp-wicks made from flax-fibers) gave poor-light and were replaced. Servant-Christology: Jesus gently-tends-rather-than-discards. ADDED TO NT_OT_CITATIONS as MAT 12:20 direct_citation ISA 42:3-4 LXX (κάλαμον τεθλασμένον οὐ συντρίψει + λίνον καπνιζόμενον οὐ σβέσει LXX near-verbatim) + ἕως ἂν ἐκβάλῃ εἰς νῖκος τὴν κρίσιν paraphrasing Isa 42:3c."
+    }
+  },
+  {
+    "reference": "Matthew 12:21",
+    "chapter": 12,
+    "verse": 21,
+    "greek": "καὶ τῷ ὀνόματι αὐτοῦ ἔθνη ἐλπιοῦσιν.",
+    "bsb_english": "In His name the nations will put their hope.”",
+    "translation": {
+      "thai": "และบรรดาประชาชาติจะตั้งความหวังในนามของท่าน»",
+      "thai_literal": "และ ใน นาม ของท่าน บรรดาชนชาติ จะตั้งความหวัง",
+      "thai_summary": "การปิดท้ายของบทเพลงผู้รับใช้อย่างโค้งตัวมาสู่มิชชันสากล: พระเมสสิยาห์ไม่ใช่เพียงเพื่ออิสราเอลเท่านั้น แต่เพื่อ «บรรดาประชาชาติ»—ข้อความนี้เป็นรากฐานของภารกิจใหญ่ (มธ 28:19) การที่ประชาชาติทั้งหลายตั้งความหวังในนามของพระเมสสิยาห์เป็นสิ่งที่คริสตจักรในรุ่นแรกมองว่าสำเร็จในตัวเอง",
+      "key_decisions": [
+        {
+          "greek": "τῷ ὀνόματι αὐτοῦ",
+          "thai": "ในนามของท่าน",
+          "rationale": "Per uW figs-metonymy: 'name' = person-himself. Thai 'ในนามของท่าน' preserves Hebraic-metonymy (standard Thai Christian phrasing matches THSV)."
+        },
+        {
+          "greek": "ἔθνη ἐλπιοῦσιν",
+          "thai": "บรรดาประชาชาติจะตั้งความหวัง",
+          "rationale": "Per uW figs-explicit: implicit-object 'hope-in-him-for-help/salvation.' ἔθνη → ประชาชาติ (all-nations, matching v.18 rendering). ἐλπίζω → ตั้งความหวัง (set-hope). NEW GLOSSARY: ἐλπίζω → ตั้งความหวัง."
+        }
+      ],
+      "notes": "SERVANT-SONG-QUOTE-CLOSES. Outer « » closes at end of v.21. Matthew's Greek text DIVERGES from LXX Isa 42:4: LXX reads ἐπὶ τῷ ὀνόματι αὐτοῦ ἔθνη ἐλπιοῦσιν (on/upon-his-name hope); Matt omits the introductory phrases of Isa 42:4a and replaces LXX ἐπὶ with simple dative τῷ ὀνόματι (implicit 'in'). Matthean editorial-shaping matches his Christological-emphasis on Gentile-mission. Composite Isa 42:1-4 citation documented in v.18 note."
+    }
+  },
+  {
+    "reference": "Matthew 12:22",
+    "chapter": 12,
+    "verse": 22,
+    "greek": "Τότε προσηνέχθη αὐτῷ δαιμονιζόμενος τυφλὸς καὶ κωφός·καὶ ἐθεράπευσεν αὐτόν,ὥστε τὸν κωφὸν λαλεῖν καὶ βλέπειν.",
+    "bsb_english": "Then a demon-possessed man who was blind and mute was brought to Jesus, and He healed the man so that he could speak and see.",
+    "translation": {
+      "thai": "แล้วมีคนนำคนที่ถูกผีสิงซึ่งเป็นคนตาบอดและคนใบ้มาเฝ้าพระองค์ พระองค์ทรงรักษาเขา จนคนใบ้คนนั้นทั้งพูดได้และมองเห็น",
+      "thai_literal": "แล้ว ได้ถูกนำมา แก่พระองค์ คนถูกผีสิง ตาบอด และ ใบ้ และ ทรงรักษา เขา จนถึงขั้นที่ คนใบ้ พูด และ เห็น",
+      "thai_summary": "การรักษาครั้งนี้ต่างจากการรักษาทั่วไปตรงที่ชายผู้นี้ไม่สามารถแสดงศรัทธาด้วยตนเอง—เขาตาบอดและใบ้ (ไม่ได้หูหนวก เพราะต่อไปเขาพูดได้หลังถูกรักษา—κωφός ในบริบทนี้คือ «ใบ้») การถูกผีสิงทำให้เขาขาดสมรรถภาพ พระเยซูทรงรักษาทั้งร่างกายและวิญญาณในการกระทำเดียว และการอัศจรรย์นี้เป็นสิ่งที่ทำให้ฝูงชนตั้งคำถามว่าพระเยซูอาจเป็นพระเมสสิยาห์ (ข้อ 23)",
+      "key_decisions": [
+        {
+          "greek": "προσηνέχθη αὐτῷ",
+          "thai": "มีคนนำ...มาเฝ้าพระองค์",
+          "rationale": "Per uW figs-activepassive: divine-passive converted to active 'they-brought.' Thai 'มีคน...นำมาเฝ้าพระองค์' (someone-brought-to-royal-presence) preserves divine-audience register."
+        },
+        {
+          "greek": "δαιμονιζόμενος",
+          "thai": "คนที่ถูกผีสิง",
+          "rationale": "Per glossary: δαιμονίζομαι → ถูกผีสิง (established — matches 'ἄνθρωπον κωφὸν δαιμονιζόμενον → ชายใบ้ผู้ถูกผีสิง' Matt 9:32 pattern)."
+        },
+        {
+          "greek": "τυφλὸς καὶ κωφός ... τὸν κωφὸν λαλεῖν καὶ βλέπειν",
+          "thai": "ตาบอดและคนใบ้ ... คนใบ้คนนั้นทั้งพูดได้และมองเห็น",
+          "rationale": "Per uW translate-unknown: κωφός polyvalent (mute OR deaf); context here REQUIRES 'mute' since v.22b has 'λαλεῖν' (speak) not 'ἀκούειν' (hear). Matt 11:5 precedent: κωφοί → คนหูหนวก (deaf — healing-list parallel-to-Isa-35). Here (Matt 12:22) κωφός → คนใบ้ (mute — context-demand). CONTEXTUAL-VARIANT documented: κωφός → คนหูหนวก (deaf-context Matt 11:5) vs คนใบ้ (mute-context Matt 12:22). Both are valid renderings of κωφός. NEW GLOSSARY: κωφός (mute-context) → คนใบ้ — distinct from κωφός (deaf-context Matt 11:5) → คนหูหนวก."
+        }
+      ],
+      "notes": "TRANSITION-EPISODE. Matt 12:22-37 = Beelzebul-controversy. Triple-healing (demon + blind + mute) — Matthean-compression (Luke 11:14 has mute-only). κωφός context-sense disambiguation noted. NO HAPAX."
+    }
+  },
+  {
+    "reference": "Matthew 12:23",
+    "chapter": 12,
+    "verse": 23,
+    "greek": "καὶ ἐξίσταντο πάντες οἱ ὄχλοι καὶ ἔλεγον·Μήτι οὗτός ἐστιν ὁ υἱὸς Δαυίδ;",
+    "bsb_english": "The crowds were astounded and asked, “Could this be the Son of David?”",
+    "translation": {
+      "thai": "ฝูงชนทั้งสิ้นก็ตื่นตะลึง และพูดกันว่า «ท่านผู้นี้จะเป็นบุตรดาวิดหรือ?»",
+      "thai_literal": "และ ตื่นตะลึง ทั้งสิ้น บรรดาฝูงชน และ ได้พูด หรือไม่ นี่ คือ บุตร ของดาวิด",
+      "thai_summary": "«บุตรดาวิด» คือตำแหน่งพระเมสสิยาห์ หมายถึงผู้สืบเชื้อสายดาวิดที่พระเจ้าทรงสัญญาว่าจะปกครองนิรันดร์ (2 ซมอ 7:12-16; สดด 2; อสย 11:1-5) ฝูงชนเห็นการรักษาเหนือความคาดหมายและสงสัยว่าพระเยซูเป็นพระเมสสิยาห์หรือไม่ รูปแบบคำถามในภาษากรีก (Μήτι) แสดงความลังเลใจ—พวกเขาไม่ได้ยืนยัน แต่เปิดใจพิจารณา",
+      "key_decisions": [
+        {
+          "greek": "ἐξίσταντο πάντες οἱ ὄχλοι",
+          "thai": "ฝูงชนทั้งสิ้นก็ตื่นตะลึง",
+          "rationale": "Per uW figs-activepassive: ἐξίστημι (imperfect) = 'astound/be-astonished.' Thai 'ตื่นตะลึง' (established Matt 7:28, Mark 5:42). πάντες οἱ ὄχλοι → ฝูงชนทั้งสิ้น (all-crowds). NEW GLOSSARY: ἐξίστημι → ตื่นตะลึง."
+        },
+        {
+          "greek": "Μήτι οὗτός ἐστιν ὁ υἱὸς Δαυίδ",
+          "thai": "ท่านผู้นี้จะเป็นบุตรดาวิดหรือ",
+          "rationale": "Per uW figs-rquestion + figs-metaphor: μήτι introduces question-with-tentative/hesitant-expectation ('perhaps...?' not-fully-affirmative). ὁ υἱὸς Δαυίδ (established glossary Matt 9:27 'υἱὲ Δαυίδ' vocative; here third-person-referential) → บุตรดาวิด (Messianic-title). Thai 'ท่านผู้นี้...หรือ' preserves hesitant-interrogative. 'ท่าน' (polite but not royal) since crowd uncertain-status."
+        }
+      ],
+      "notes": "QUOTE-OPEN-CLOSE: Outer « » wraps single-verse quote. MESSIANIC-QUESTION. The crowd's tentative-Messianic-affirmation is the trigger for Pharisaic-counterattack in v.24. Matthew wants readers to hear the crowd right — but also to see how Pharisaic-opposition will try to suppress this recognition. 'Son of David' as Messianic-title = 2 Sam 7:12-16 covenant-promise + Psa 2, 89, 110 royal-theology. NO HAPAX."
+    }
+  },
+  {
+    "reference": "Matthew 12:24",
+    "chapter": 12,
+    "verse": 24,
+    "greek": "οἱ δὲ Φαρισαῖοι ἀκούσαντες εἶπον·Οὗτος οὐκ ἐκβάλλει τὰ δαιμόνια εἰ μὴ ἐν τῷ Βεελζεβοὺλ ἄρχοντι τῶν δαιμονίων.",
+    "bsb_english": "But when the Pharisees heard this, they said, “Only by Beelzebul, the prince of demons, does this man drive out demons.”",
+    "translation": {
+      "thai": "แต่พวกฟาริสีได้ยินดังนั้นก็พูดกันว่า «คนนี้ขับผีออกไม่ได้ เว้นแต่โดยเบเอลเซบูล ผู้เป็นเจ้าแห่งผี»",
+      "thai_literal": "แต่ พวกฟาริสี เมื่อได้ยิน ได้พูด คนนี้ ไม่ ขับออก บรรดาผี เว้นแต่ ใน เบเอลเซบูล ผู้เป็นเจ้า ของบรรดาผี",
+      "thai_summary": "พวกฟาริสีไม่อาจปฏิเสธการอัศจรรย์—จริงๆ เห็นชัด—แต่พวกเขาอธิบายด้วยการกล่าวหาว่าพระเยซูทำงานด้วยอำนาจของซาตาน «เบเอลเซบูล» เป็นชื่อตำแหน่งของเจ้าแห่งผี (อาจมาจาก Baal-zebul «เจ้าแห่งบ้าน» หรือ Baal-zebub «เจ้าแห่งแมลงวัน» 2 พกษ 1:2) การกล่าวหานี้เป็นการล้อเลียนรูปแบบที่ร้ายแรงที่สุด—โจมตีแหล่งที่มาของอำนาจ",
+      "key_decisions": [
+        {
+          "greek": "Οὗτος",
+          "thai": "คนนี้",
+          "rationale": "Per uW figs-metonymy: demonstrative-distancing 'this-one.' Thai 'คนนี้' (non-honorific 'this-person') — Pharisees-talk-among-themselves without granting Jesus honorific-title. Register-downgrade signals hostile-intent."
+        },
+        {
+          "greek": "ἐν τῷ Βεελζεβοὺλ ἄρχοντι τῶν δαιμονίων",
+          "thai": "โดยเบเอลเซบูล ผู้เป็นเจ้าแห่งผี",
+          "rationale": "Per glossary: Βεελζεβοὺλ → เบเอลเซบูล (transliteration). Per uW figs-metonymy: name-of-chief-demon representing his-power. ἄρχων → ผู้เป็นเจ้า (chief/prince/ruler). Thai 'ผู้เป็นเจ้าแห่งผี' (prince-of-demons). NEW GLOSSARY: Βεελζεβοὺλ → เบเอลเซบูล; ἄρχων (demon-context) → ผู้เป็นเจ้า."
+        }
+      ],
+      "notes": "QUOTE-OPEN-CLOSE: Outer « » wraps single-verse Pharisaic-accusation. BEELZEBUL-CHARGE opens formal-opposition-block vv.24-37. The charge is a grave one: by attributing Jesus's Spirit-empowered work to demonic-source, the Pharisees commit what Jesus will later call 'blasphemy against the Spirit' (v.31-32). NO HAPAX."
+    }
+  },
+  {
+    "reference": "Matthew 12:25",
+    "chapter": 12,
+    "verse": 25,
+    "greek": "εἰδὼς δὲ τὰς ἐνθυμήσεις αὐτῶν εἶπεν αὐτοῖς·Πᾶσα βασιλεία μερισθεῖσα καθ’ἑαυτῆς ἐρημοῦται,καὶ πᾶσα πόλις ἢ οἰκία μερισθεῖσα καθ’ἑαυτῆς οὐ σταθήσεται.",
+    "bsb_english": "Knowing their thoughts, Jesus said to them, “Every kingdom divided against itself will be laid waste, and every city or household divided against itself will not stand.",
+    "translation": {
+      "thai": "แต่พระเยซูทรงทราบความคิดของพวกเขา จึงตรัสแก่พวกเขาว่า «อาณาจักรใดๆ ที่แตกแยกต่อตัวเองย่อมล่มสลาย และเมืองหรือบ้านใดๆ ที่แตกแยกต่อตัวเองย่อมไม่ตั้งมั่น",
+      "thai_literal": "เมื่อทรงทราบ แต่ บรรดาความคิด ของพวกเขา ตรัส แก่พวกเขา ทุก อาณาจักร ที่ได้ถูกแตกแยก ต่อ ตัวเอง ย่อมล่มสลาย และ ทุก เมือง หรือ บ้าน ที่ได้ถูกแตกแยก ต่อ ตัวเอง ย่อม ไม่ จะยืนได้",
+      "thai_summary": "พระเยซูทรงโต้ข้อกล่าวหาด้วยตรรกะ: ถ้าอาณาจักรของซาตานแตกแยก มันคงไม่ยืนได้ พระองค์ทรงใช้ภาษิต («สุภาษิตที่แบ่งตัวเอง») ที่คนในสมัยนั้นรู้กัน เพื่อแสดงว่าข้อกล่าวหาของฟาริสีเป็นตรรกะที่ไร้สาระ ถ้าซาตานขับผีโดยอำนาจของซาตานเอง อาณาจักรของมันย่อมทำลายตัวมันเอง",
+      "key_decisions": [
+        {
+          "greek": "εἰδὼς ... τὰς ἐνθυμήσεις αὐτῶν",
+          "thai": "พระเยซูทรงทราบความคิดของพวกเขา",
+          "rationale": "Divine-knowledge of thoughts — Thai 'ทรงทราบ' (royal-know) per RULES.md §3. ἐνθύμησις (nt_freq=4) = 'internal-thought/reflection.' Thai 'ความคิด' (standard). NEW GLOSSARY: ἐνθύμησις → ความคิด."
+        },
+        {
+          "greek": "Πᾶσα βασιλεία μερισθεῖσα καθ’ἑαυτῆς ἐρημοῦται",
+          "thai": "อาณาจักรใดๆ ที่แตกแยกต่อตัวเองย่อมล่มสลาย",
+          "rationale": "Per uW writing-proverbs + figs-parallelism: proverb-form. βασιλεία → อาณาจักร (political-kingdom here, not kingdom-of-God); μερίζω (aor-pass-ptcp) → แตกแยก (divided); καθ' ἑαυτῆς 'against-itself' → ต่อตัวเอง; ἐρημόομαι → ล่มสลาย (laid-waste/become-desolate). NEW GLOSSARY: μερίζω → แตกแยก; ἐρημόομαι → ล่มสลาย."
+        },
+        {
+          "greek": "πᾶσα πόλις ἢ οἰκία ... οὐ σταθήσεται",
+          "thai": "เมืองหรือบ้านใดๆ ... ย่อมไม่ตั้งมั่น",
+          "rationale": "Per uW figs-parallelism + figs-metonymy: city/house = people-in-them. Thai 'ไม่ตั้งมั่น' (fail-to-stand). σταθήσεται (fut-pass) → จะตั้งมั่น (figurative 'will-stand/endure'). NEW GLOSSARY: σταθήσεται (endurance-sense) → ตั้งมั่น."
+        }
+      ],
+      "notes": "QUOTE-OPEN: Outer « » opens Jesus's Beelzebul-reply spanning vv.25-37. PROVERBIAL-ARGUMENT. Jesus uses (or invents) two proverbs to attack the Pharisees' logical-basis. Proverbial-form was common Jewish-rhetorical-device. The principle is universal: internal-division destroys collective-bodies (kingdoms, cities, households). Matt 12:25b Matthean-expansion beyond Mark 3:24-25. NO HAPAX."
+    }
+  },
+  {
+    "reference": "Matthew 12:26",
+    "chapter": 12,
+    "verse": 26,
+    "greek": "καὶ εἰ ὁ Σατανᾶς τὸν Σατανᾶν ἐκβάλλει,ἐφ’ἑαυτὸν ἐμερίσθη·πῶς οὖν σταθήσεται ἡ βασιλεία αὐτοῦ;",
+    "bsb_english": "If Satan drives out Satan, he is divided against himself. How then can his kingdom stand?",
+    "translation": {
+      "thai": "และถ้าซาตานขับซาตานออกไป มันก็แตกแยกต่อตัวมันเอง แล้วอาณาจักรของมันจะตั้งมั่นอยู่ได้อย่างไร?",
+      "thai_literal": "และ ถ้า ซาตาน ซาตาน ขับออก ต่อ ตัวเอง ได้ถูกแตกแยก อย่างไร ดังนั้น จะตั้งมั่น อาณาจักร ของมัน",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ὁ Σατανᾶς τὸν Σατανᾶν ἐκβάλλει",
+          "thai": "ซาตานขับซาตานออกไป",
+          "rationale": "Per uW grammar-connect-condition-contrary: hypothetical-that-speaker-rejects. Per uW figs-metonymy: Σατανᾶς both-occurrences represents-Satan's-followers. Thai preserves-metonymy without-expansion (Greek directness retained). Per glossary: Σατανᾶ → ซาตาน (established)."
+        },
+        {
+          "greek": "πῶς οὖν σταθήσεται ἡ βασιλεία αὐτοῦ",
+          "thai": "แล้วอาณาจักรของมันจะตั้งมั่นอยู่ได้อย่างไร",
+          "rationale": "Per uW figs-rquestion: rhetorical 'how-will...' = 'will-not.' Thai rhetorical 'จะ...อย่างไร' (How-could-it...?) with inviting-no-answer."
+        }
+      ],
+      "notes": "INTERNAL-LOGIC-ATTACK. Jesus applies proverb v.25 to Pharisaic-charge: IF Satan casts-out Satan, THEN Satan's-kingdom is divided, THEREFORE it cannot-stand. The implicit conclusion: Pharisees' charge collapses its own premise. NO HAPAX."
+    }
+  },
+  {
+    "reference": "Matthew 12:27",
+    "chapter": 12,
+    "verse": 27,
+    "greek": "καὶ εἰ ἐγὼ ἐν Βεελζεβοὺλ ἐκβάλλω τὰ δαιμόνια,οἱ υἱοὶ ὑμῶν ἐν τίνι ἐκβάλλουσιν;διὰ τοῦτο αὐτοὶ κριταὶ ἔσονται ὑμῶν.",
+    "bsb_english": "And if I drive out demons by Beelzebul, by whom do your sons drive them out? So then, they will be your judges.",
+    "translation": {
+      "thai": "และถ้าเราขับผีออกโดยเบเอลเซบูล ลูกหลานของพวกท่านขับผีออกโดยใคร? เพราะเหตุนี้พวกเขาจะเป็นผู้ตัดสินพวกท่าน",
+      "thai_literal": "และ ถ้า เรา ใน เบเอลเซบูล ขับออก บรรดาผี บรรดาบุตร ของพวกท่าน ใน ใคร ขับออก เพราะเหตุนี้ พวกเขาเอง ผู้พิพากษา จะเป็น ของพวกท่าน",
+      "thai_summary": "พระเยซูใช้อาร์กิวเมนต์ ad hominem: ในสมัยนั้นมีผู้ขับผียิว («ลูกหลาน» ของท่าน หมายถึงสาวกชาวยิวของฟาริสี—อาจเป็นรับบีที่ฝึกสอนหรือสาวกเอสเซน) ถ้าวิธีขับผีคือโดยเบเอลเซบูล แล้วลูกหลานของพวกเขาทำงานอย่างไร? การปฏิเสธไม่ได้เพราะจะพลอยกล่าวหาลูกศิษย์ของตัวเอง—พวกเขาติดกับที่ตัวเองสร้างขึ้น",
+      "key_decisions": [
+        {
+          "greek": "οἱ υἱοὶ ὑμῶν",
+          "thai": "ลูกหลานของพวกท่าน",
+          "rationale": "Per uW figs-metaphor: 'sons' = disciples/followers (Jewish-idiom). Thai 'ลูกหลาน' (descendant-disciple-idiom preserves metaphor while avoiding literal-patrilineage-misreading). Refers to Jewish exorcists (Acts 19:13-14 sons-of-Sceva precedent)."
+        },
+        {
+          "greek": "αὐτοὶ κριταὶ ἔσονται ὑμῶν",
+          "thai": "พวกเขาจะเป็นผู้ตัดสินพวกท่าน",
+          "rationale": "Per uW figs-metaphor: 'they-will-be-judges-of-you' = their-actions-will-judge-you (rhetorical-indictment). Thai 'ผู้ตัดสิน' (judges) preserves legal-metaphor. 'พวกท่าน' (plural-polite, Jesus-to-Pharisees) register-consistent."
+        }
+      ],
+      "notes": "AD-HOMINEM-TRAP. Jewish-exorcism-tradition documented in Josephus (Ant. 8.2.5 §42-49), PGM (Paris Magical Papyrus 3009-3085), Acts 19:13-14. Mainstream Judaism accepted exorcism-as-valid-practice; attacking Jesus's exorcisms alone would expose Pharisaic-inconsistency. Jesus forces the choice: either affirm-Jewish-exorcism (as divinely-empowered) AND affirm Jesus, or reject-both. NO HAPAX."
+    }
+  },
+  {
+    "reference": "Matthew 12:28",
+    "chapter": 12,
+    "verse": 28,
+    "greek": "εἰ δὲ ἐν πνεύματι θεοῦ ἐγὼ ἐκβάλλω τὰ δαιμόνια,ἄρα ἔφθασεν ἐφ’ὑμᾶς ἡ βασιλεία τοῦ θεοῦ.",
+    "bsb_english": "But if I drive out demons by the Spirit of God, then the kingdom of God has come upon you.",
+    "translation": {
+      "thai": "แต่ถ้าเราขับผีออกโดยพระวิญญาณของพระเจ้า อาณาจักรของพระเจ้าก็มาถึงพวกท่านแล้ว",
+      "thai_literal": "แต่ ถ้า ใน พระวิญญาณ ของพระเจ้า เรา ขับออก บรรดาผี ดังนั้น ได้มาถึง เหนือ พวกท่าน อาณาจักร ของพระเจ้า",
+      "thai_summary": "ข้อนี้เป็น Matthean-distinctive (มัทธิวใช้ «พระวิญญาณของพระเจ้า»; ลก 11:20 ใช้ «นิ้วของพระเจ้า»—พาดพิงอพย 8:19) และเป็นหนึ่งในสี่ครั้งเท่านั้นในมัทธิวที่ใช้คำว่า «อาณาจักรของพระเจ้า» (แทนที่ «อาณาจักรสวรรค์» ที่มัทธิวใช้บ่อยที่สุด) การปรากฏของพระเจ้าในพันธกิจของพระเยซูไม่ใช่สัญญาณว่าอาณาจักรใกล้เข้ามา—มันมาถึงแล้ว «มาถึง» (ἔφθασεν) เป็นกริยาอาโอริสต์ที่ดำเนินขึ้นแล้ว",
+      "key_decisions": [
+        {
+          "greek": "ἐν πνεύματι θεοῦ",
+          "thai": "โดยพระวิญญาณของพระเจ้า",
+          "rationale": "Per uW figs-explicit: 'Spirit of God' = Holy Spirit. Thai 'พระวิญญาณของพระเจ้า' (Divine-Spirit-of-God) — standard Thai Christian phrasing. ἐν = instrumental-dative 'by/through.'"
+        },
+        {
+          "greek": "ἔφθασεν ἐφ’ὑμᾶς ἡ βασιλεία τοῦ θεοῦ",
+          "thai": "อาณาจักรของพระเจ้าก็มาถึงพวกท่านแล้ว",
+          "rationale": "Per uW figs-metaphor: 'kingdom-has-come-upon-you' = God is-now-reigning-here. Aorist ἔφθασεν → 'has-come' (already-happened). Thai 'มาถึง...แล้ว' (aspect-marker แล้ว captures completed-arrival). NEW GLOSSARY: φθάνω → มาถึง; βασιλεία τοῦ θεοῦ → อาณาจักรของพระเจ้า (distinct from βασιλεία τῶν οὐρανῶν → อาณาจักรสวรรค์; Matt uses latter predominantly, former only 4x)."
+        }
+      ],
+      "notes": "KINGDOM-INAUGURATED. This is one of four Matthean 'kingdom-of-God' uses (12:28, 19:24, 21:31, 21:43) vs ~32 'kingdom-of-heaven' uses. Per uW book-intro: the two phrases are slightly-distinct — 'of-heaven' refers to already-present-place-where-kingdom-is, 'of-God' refers-to-God-ruling. Here Matt picks 'of-God' because the point is God's-active-reign NOW-made-manifest through Jesus's Spirit-empowered-exorcisms. Realized-eschatology statement. NO HAPAX."
+    }
+  },
+  {
+    "reference": "Matthew 12:29",
+    "chapter": 12,
+    "verse": 29,
+    "greek": "ἢ πῶς δύναταί τις εἰσελθεῖν εἰς τὴν οἰκίαν τοῦ ἰσχυροῦ καὶ τὰ σκεύη αὐτοῦ ἁρπάσαι,ἐὰν μὴ πρῶτον δήσῃ τὸν ἰσχυρόν;καὶ τότε τὴν οἰκίαν αὐτοῦ διαρπάσει.",
+    "bsb_english": "Or again, how can anyone enter a strong man’s house and steal his possessions, unless he first ties up the strong man? Then he can plunder his house.",
+    "translation": {
+      "thai": "หรือใครจะเข้าไปในบ้านของคนแข็งแรงและชิงเอาทรัพย์ของเขาได้อย่างไร ถ้ายังไม่มัดคนแข็งแรงนั้นก่อน? เมื่อนั้นเขาจึงจะปล้นบ้านของคนแข็งแรงได้",
+      "thai_literal": "หรือ อย่างไร จะสามารถ ใครคนหนึ่ง ที่จะเข้าไป เข้าใน บ้าน ของคนแข็งแรง และ บรรดาทรัพย์ ของเขา ที่จะชิง ถ้า ไม่ ก่อน จะมัด คนแข็งแรง และ แล้ว บ้าน ของเขา จะปล้น",
+      "thai_summary": "พระเยซูทรงใช้คำอุปมาเล็กๆ: ถ้าต้องการปล้นบ้านของคนแข็งแรง ต้องมัดเขาก่อน พระเยซูกำลังอ้างถึงตัวเองว่าเป็นผู้เข้าไปในบ้านของซาตาน (ที่มี «ทรัพย์» คือผู้ที่ถูกสิง) โดยมัดซาตานก่อน การขับผีของพระเยซูแสดงว่าพระองค์ทรงเอาชนะซาตานได้แล้ว ไม่ใช่ทำงานรับใช้ซาตาน",
+      "key_decisions": [
+        {
+          "greek": "τὴν οἰκίαν τοῦ ἰσχυροῦ",
+          "thai": "บ้านของคนแข็งแรง",
+          "rationale": "Per glossary: τὴν οἰκίαν τοῦ ἰσχυροῦ → บ้านของคนแข็งแรง (established — direct-use). ἰσχυρός in context = metaphorical-Satan per uW chapter-intro."
+        },
+        {
+          "greek": "τὰ σκεύη αὐτοῦ ἁρπάσαι",
+          "thai": "ชิงเอาทรัพย์ของเขา",
+          "rationale": "Per uW figs-parables: σκεύη (neut-pl) = 'possessions/goods/vessels' — metaphorical for demon-possessed-people. ἁρπάζω → ชิงเอา (seize/grab-forcibly). Thai 'ทรัพย์' (generic-property, context-fitting metaphor-level without prematurely-interpreting). NEW GLOSSARY: σκεύος → ทรัพย์; ἁρπάζω → ชิง."
+        },
+        {
+          "greek": "δήσῃ τὸν ἰσχυρόν",
+          "thai": "มัดคนแข็งแรงนั้น",
+          "rationale": "δέω → มัด (bind/tie-up). Thai 'มัด' (standard). NEW GLOSSARY: δέω → มัด."
+        },
+        {
+          "greek": "τὴν οἰκίαν αὐτοῦ διαρπάσει",
+          "thai": "จะปล้นบ้านของคนแข็งแรงได้",
+          "rationale": "Per glossary: διαρπάζω → ปล้น (established glossary 'διαρπάσαι/διαρπάσει → ปล้น')."
+        }
+      ],
+      "notes": "STRONG-MAN-PARABLE. Per uW chapter-intro: Satan=strong-man, demons=possessions, Jesus=thief-who-binds. Jesus's exorcisms PROVE he has-already-bound-Satan. Theological-link: Jesus's-victory-over-Satan is-inaugurated-not-final (cf. Rev 20 for final-binding). The parable vindicates Jesus's exorcistic-authority: he acts AS already-conquered-Satan, not as Satan's-agent. NO HAPAX."
+    }
+  },
+  {
+    "reference": "Matthew 12:30",
+    "chapter": 12,
+    "verse": 30,
+    "greek": "ὁ μὴ ὢν μετ’ἐμοῦ κατ’ἐμοῦ ἐστιν,καὶ ὁ μὴ συνάγων μετ’ἐμοῦ σκορπίζει.",
+    "bsb_english": "He who is not with Me is against Me, and he who does not gather with Me scatters.",
+    "translation": {
+      "thai": "ผู้ที่ไม่อยู่ฝ่ายเรา ก็เป็นปฏิปักษ์กับเรา และผู้ที่ไม่รวบรวมไว้กับเรา ก็ทำให้กระจัดกระจายไป",
+      "thai_literal": "ผู้ ไม่ อยู่ กับ เรา ต่อต้าน เรา เป็น และ ผู้ ไม่ รวบรวม กับ เรา ย่อมทำให้กระจัดกระจาย",
+      "thai_summary": "ประโยคนี้ตัดทางเลือกที่เป็นกลาง—ในสถานการณ์การเผชิญหน้ากับซาตาน ไม่มีพื้นที่กลาง ผู้ที่ไม่ร่วมรวบรวมคน («ให้มารวมเป็นสาวก» ตามภาษาของพระคัมภีร์) กับพระเยซู ก็กำลังทำให้คนกระจัดกระจาย คำกล่าวนี้ตรงกันข้ามกับ มก 9:40 («ผู้ที่ไม่ต่อต้านเราก็เป็นฝ่ายเรา»)—พระเยซูอาจพูดทั้งสองสถานการณ์: คำแรกในบริบทของศัตรู คำหลังในบริบทของพันธมิตรที่ไม่เป็นทางการ",
+      "key_decisions": [
+        {
+          "greek": "ὁ μὴ ὢν μετ’ἐμοῦ",
+          "thai": "ผู้ที่ไม่อยู่ฝ่ายเรา",
+          "rationale": "Per uW figs-idiom: μετ' ἐμοῦ 'with-me' = 'on-my-side/allied-with-me.' Thai 'อยู่ฝ่ายเรา' (on-my-side) preserves alliance-metaphor. Alternative 'อยู่กับเรา' (literal 'with') would read as physical-presence; rejected for allegiance-context."
+        },
+        {
+          "greek": "ὁ μὴ συνάγων μετ’ἐμοῦ σκορπίζει",
+          "thai": "ผู้ที่ไม่รวบรวมไว้กับเรา ก็ทำให้กระจัดกระจายไป",
+          "rationale": "Per uW figs-explicit: συνάγω (gather-as-disciples) contrasts-with σκορπίζω (scatter-from-me). Thai 'รวบรวม' / 'ทำให้กระจัดกระจาย' preserves pair. Pastoral-imagery (gathering/scattering = shepherd-verbs). NEW GLOSSARY: συνάγω → รวบรวม (gather-sense); σκορπίζω → ทำให้กระจัดกระจาย."
+        }
+      ],
+      "notes": "BINARY-CHOICE DECLARATION. Luke 11:23 parallel identical. The saying functions as a warning to the Pharisees: by rejecting Jesus, they are ACTIVELY opposing — neutrality is impossible. Contrast with Mark 9:40 (different context: about unknown-exorcist in Jesus's name). Harmonization: Mark addresses outsider-allies; Matthew addresses active-opponents. NO HAPAX."
+    }
+  },
+  {
+    "reference": "Matthew 12:31",
+    "chapter": 12,
+    "verse": 31,
+    "greek": "διὰ τοῦτο λέγω ὑμῖν,πᾶσα ἁμαρτία καὶ βλασφημία ἀφεθήσεται τοῖς ἀνθρώποις,ἡ δὲ τοῦ πνεύματος βλασφημία οὐκ ἀφεθήσεται.",
+    "bsb_english": "Therefore I tell you, every sin and blasphemy will be forgiven men, but the blasphemy against the Spirit will not be forgiven.",
+    "translation": {
+      "thai": "เพราะเหตุนี้เราบอกพวกท่านว่า ความบาปและคำหมิ่นประมาททุกอย่างจะได้รับการอภัยแก่มนุษย์ แต่คำหมิ่นประมาทพระวิญญาณจะไม่ได้รับการอภัย",
+      "thai_literal": "เพราะ นี้ เรา บอก แก่พวกท่าน ทุก บาป และ การหมิ่นประมาท จะได้รับการอภัย แก่บรรดามนุษย์ แต่ การหมิ่นประมาท ของพระวิญญาณ ไม่ จะได้รับการอภัย",
+      "thai_summary": "«การหมิ่นประมาทพระวิญญาณบริสุทธิ์» คือสิ่งเดียวที่พระเยซูตรัสว่าไม่มีการอภัย ในบริบทนี้ (ข้อ 24) พวกฟาริสีกล่าวว่าพระเยซูขับผีโดยเบเอลเซบูล—ที่จริงพระเยซูทรงขับผีโดยพระวิญญาณ (ข้อ 28) การเรียกสิ่งที่พระวิญญาณทรงทำว่าเป็นงานของซาตาน คือการปิดกั้นตัวเองจากพระเมตตาของพระเจ้าอย่างสิ้นเชิง นี่ไม่ใช่การพูดผิดอย่างเดียว แต่เป็นท่าทีของจิตใจที่ปฏิเสธความจริงของพระเจ้า",
+      "key_decisions": [
+        {
+          "greek": "διὰ τοῦτο",
+          "thai": "เพราะเหตุนี้",
+          "rationale": "Per uW grammar-connect-logic-result: introduces-conclusion-based-on-preceding-arguments (vv.25-30). Thai 'เพราะเหตุนี้' (standard-logical-transition)."
+        },
+        {
+          "greek": "πᾶσα ἁμαρτία καὶ βλασφημία",
+          "thai": "ความบาปและคำหมิ่นประมาททุกอย่าง",
+          "rationale": "Per uW figs-abstractnouns: abstract-nouns ἁμαρτία + βλασφημία. Per glossary: βλασφημία → การหมิ่นประมาท (established Matt 9:3 'ἠκούσατε τῆς βλασφημίας → คำหมิ่นประมาทพระเจ้า'); ἁμαρτία → ความบาป / บาป (established). Matt 12:31 uses more-elevated-vocabulary; 'ความบาป' (nominalized-abstract)."
+        },
+        {
+          "greek": "ἀφεθήσεται τοῖς ἀνθρώποις",
+          "thai": "จะได้รับการอภัยแก่มนุษย์",
+          "rationale": "Per uW figs-activepassive + figs-gendernotations: divine-passive (implicit-God-agent). Thai 'จะได้รับการอภัย' (will-receive-forgiveness — passive-form preserving divine-implicit-agent). ἀνθρώπων → มนุษย์ (humans-generally, gender-generic per uW)."
+        },
+        {
+          "greek": "ἡ δὲ τοῦ πνεύματος βλασφημία",
+          "thai": "คำหมิ่นประมาทพระวิญญาณ",
+          "rationale": "Per uW figs-possession: 'blasphemy of-the-Spirit' = blasphemy-AGAINST-the-Spirit. Thai 'คำหมิ่นประมาทพระวิญญาณ' (direct-object-form preserves possessive-Hebrew/Greek idiom)."
+        }
+      ],
+      "notes": "UNFORGIVABLE-SIN PERICOPE. The 'blasphemy-against-the-Spirit' saying is notoriously-interpretively-disputed. Matthean context (v.24 Pharisees accuse Jesus of Beelzebul-empowerment) sharpens-the-meaning: the specific blasphemy = attributing-Spirit's-work-to-Satan. Per uW chapter-intro: 'In your translation, you should express the idea as generally as Jesus does.' — Thai maintains general-form without interpretive-expansion. Per RULES.md §5 not-automated-guidance-flagged: interpretive-crux requires pastoral-theological-review. NO HAPAX."
+    }
+  },
+  {
+    "reference": "Matthew 12:32",
+    "chapter": 12,
+    "verse": 32,
+    "greek": "καὶ ὃς ἐὰν εἴπῃ λόγον κατὰ τοῦ υἱοῦ τοῦ ἀνθρώπου,ἀφεθήσεται αὐτῷ·ὃς δ’ἂν εἴπῃ κατὰ τοῦ πνεύματος τοῦ ἁγίου,οὐκ ἀφεθήσεται αὐτῷ οὔτε ἐν τούτῳ τῷ αἰῶνι οὔτε ἐν τῷ μέλλοντι.",
+    "bsb_english": "Whoever speaks a word against the Son of Man will be forgiven, but whoever speaks against the Holy Spirit will not be forgiven, either in this age or in the one to come.",
+    "translation": {
+      "thai": "ผู้ใดที่กล่าวคำหนึ่งสู้บุตรมนุษย์ คำกล่าวนั้นจะได้รับการอภัยแก่เขา แต่ผู้ใดที่กล่าวสู้พระวิญญาณบริสุทธิ์ คำกล่าวนั้นจะไม่ได้รับการอภัยแก่เขา ทั้งในยุคนี้และในยุคที่จะมาถึง",
+      "thai_literal": "และ ผู้ซึ่ง ถ้า จะพูด คำ ต่อต้าน บุตรมนุษย์ จะได้รับการอภัย แก่เขา ผู้ซึ่ง แต่ ถ้า จะพูด ต่อต้าน พระวิญญาณบริสุทธิ์ ไม่ จะได้รับการอภัย แก่เขา ทั้ง ใน นี้ ยุค ทั้ง ใน ที่จะมา",
+      "thai_summary": "พระเยซูทรงแยกระหว่าง «การพูดต่อต้านบุตรมนุษย์» และ «การพูดต่อต้านพระวิญญาณบริสุทธิ์» คำแรกอาจเกิดจากความไม่เข้าใจ (พระเยซูในร่างมนุษย์ที่ดูธรรมดา) ซึ่งสามารถได้รับการอภัย แต่คำหลังคือการรู้ทั้งที่เห็นว่าพระวิญญาณทรงทำงานและปฏิเสธแบบจงใจ การพูดถึงสองยุค («ยุคนี้» และ «ยุคที่จะมา») เป็นการแสดงความเด็ดขาด—ไม่มีการอภัยทั้งในโลกปัจจุบันและอนาคต",
+      "key_decisions": [
+        {
+          "greek": "εἴπῃ λόγον κατὰ",
+          "thai": "กล่าวคำหนึ่งสู้",
+          "rationale": "Per uW figs-metonymy: 'word' = spoken-speech. κατά + gen = 'against.' Thai 'กล่าว...สู้' (speak-against-challenging). Pattern preserved for both Son-of-Man and Holy-Spirit cases."
+        },
+        {
+          "greek": "τοῦ πνεύματος τοῦ ἁγίου",
+          "thai": "พระวิญญาณบริสุทธิ์",
+          "rationale": "Per glossary: πνεῦμα ἅγιον → พระวิญญาณบริสุทธิ์ (RULES.md §4 non-negotiable). Matt 12:32 makes explicit what was implicit at v.31 'the Spirit.'"
+        },
+        {
+          "greek": "ἐν τούτῳ τῷ αἰῶνι οὔτε ἐν τῷ μέλλοντι",
+          "thai": "ทั้งในยุคนี้และในยุคที่จะมาถึง",
+          "rationale": "Per uW figs-idiom: 'this-age vs one-coming' = present-world-order vs future-eschatological-world-order. αἰών → ยุค (established Matt 6:13). Thai 'ยุคที่จะมาถึง' (future-coming-age — preserving eschatological-temporality). NEW GLOSSARY: μέλλων αἰών → ยุคที่จะมา."
+        }
+      ],
+      "notes": "TWO-AGE-ESCHATOLOGY. Standard Second-Temple-Jewish frame: 'this-age' (olam hazeh) + 'age-to-come' (olam haba). Matthean-distinctive extension beyond Mark 3:29 which has only 'never forgiven forever' (aionios-phrasing). The two-age phrasing emphasizes irrevocability across all-temporal-scopes. 'Word against Son of Man' forgivable = recognition that pre-Resurrection Jesus appeared-as-ordinary-person; Pharisees' rejection-then might be forgiven-later. 'Word against Spirit' = the Pharisees' specific-current-act of calling-Spirit's-work-demonic. NO HAPAX."
+    }
+  },
+  {
+    "reference": "Matthew 12:33",
+    "chapter": 12,
+    "verse": 33,
+    "greek": "Ἢ ποιήσατε τὸ δένδρον καλὸν καὶ τὸν καρπὸν αὐτοῦ καλόν,ἢ ποιήσατε τὸ δένδρον σαπρὸν καὶ τὸν καρπὸν αὐτοῦ σαπρόν·ἐκ γὰρ τοῦ καρποῦ τὸ δένδρον γινώσκεται.",
+    "bsb_english": "Make a tree good and its fruit will be good, or make a tree bad and its fruit will be bad, for a tree is known by its fruit.",
+    "translation": {
+      "thai": "ให้ต้นไม้ดีและผลของมันก็ดี หรือให้ต้นไม้เน่าและผลของมันก็เน่าเถิด เพราะว่าต้นไม้เป็นที่รู้จักด้วยผลของมัน",
+      "thai_literal": "หรือ จงทำ ต้นไม้ ดี และ ผล ของมัน ดี หรือ จงทำ ต้นไม้ เน่า และ ผล ของมัน เน่า เพราะว่า จาก ผล ต้นไม้ ย่อมถูกรู้จัก",
+      "thai_summary": "พระเยซูทรงใช้คำอุปมาต้นไม้กับผลอีกครั้ง (เทียบ มธ 7:16-20 คำเทศน์บนภูเขา) ต้นไม้และผลต้องสอดคล้องกัน—ถ้าพระเยซูขับผีโดยพระวิญญาณของพระเจ้า (ผลดี) แสดงว่าพระองค์เองเป็นต้นไม้ที่ดี ในทางกลับกัน ถ้าพวกฟาริสีกล่าวหาว่าพระเยซูทำงานด้วยซาตาน แสดงว่าคำกล่าวของพวกเขาเกิดจากหัวใจที่เน่า (เจ้าพวกเชื้อสายงูพิษ ในข้อต่อไป)",
+      "key_decisions": [
+        {
+          "greek": "Ἢ ποιήσατε τὸ δένδρον καλὸν ... ἢ ποιήσατε τὸ δένδρον σαπρὸν",
+          "thai": "ให้ต้นไม้ดี ... หรือให้ต้นไม้เน่า",
+          "rationale": "Per uW figs-exmetaphor: people-as-trees, deeds-as-fruit. Per uW figs-explicit option-1-preferred: 'make-consistent-evaluations.' Per glossary: δένδρον → ต้นไม้ (established Matt 7:17 'δένδρον ἀγαθὸν → ต้นไม้ดี'); σαπρός → เน่า (established Matt 7:17 'δένδρον σαπρὸν → ต้นไม้เน่า'). Thai 'ให้...' (make-it-so imperative) preserves 2pl-plural-aorist-imperative ποιήσατε. καλός contextual-variant → ดี (Matt 7 used ἀγαθός → ดี; here καλός — same meaning preserved)."
+        },
+        {
+          "greek": "ἐκ γὰρ τοῦ καρποῦ τὸ δένδρον γινώσκεται",
+          "thai": "เพราะว่าต้นไม้เป็นที่รู้จักด้วยผลของมัน",
+          "rationale": "Per uW figs-activepassive: passive γινώσκεται → 'is-known.' Thai 'เป็นที่รู้จัก' (is-known passive-form). καρπός → ผล (established). γινώσκω → รู้จัก (established)."
+        }
+      ],
+      "notes": "TREE-FRUIT METAPHOR (SECOND). Matt 7:16-20 was sermon-on-mount context (distinguishing true vs false prophets); Matt 12:33 is Beelzebul-context (distinguishing true vs false source-of-power). Consistent Matthean theme: speech/actions reveal inner-character. OT background: Ezek 17:8, Ezek 47:12, Psa 1:3, Jer 17:8 (tree/fruit-bearing imagery). NO HAPAX."
+    }
+  },
+  {
+    "reference": "Matthew 12:34",
+    "chapter": 12,
+    "verse": 34,
+    "greek": "γεννήματα ἐχιδνῶν,πῶς δύνασθε ἀγαθὰ λαλεῖν πονηροὶ ὄντες;ἐκ γὰρ τοῦ περισσεύματος τῆς καρδίας τὸ στόμα λαλεῖ.",
+    "bsb_english": "You brood of vipers, how can you who are evil say anything good? For out of the overflow of the heart the mouth speaks.",
+    "translation": {
+      "thai": "เจ้าพวกเชื้อสายงูพิษ ในเมื่อพวกเจ้าเป็นคนชั่วร้าย พวกเจ้าจะพูดสิ่งดีได้อย่างไร? เพราะว่าปากย่อมพูดจากสิ่งที่เต็มล้นอยู่ในใจ",
+      "thai_literal": "บรรดาลูก ของงูพิษ อย่างไร พวกท่านสามารถ สิ่งดี ที่จะพูด ชั่วร้าย เป็น เพราะว่า จาก ความเต็มล้น ของใจ ปาก ย่อมพูด",
+      "thai_summary": "พระเยซูทรงเรียกพวกฟาริสีว่า «เชื้อสายงูพิษ» เหมือนยอห์นผู้ให้บัพติศมา (มธ 3:7) การเปลี่ยนจาก «พวกท่าน» (โพไลต์) ที่ใช้ก่อนหน้านี้ เป็น «พวกเจ้า» (ลดระดับ) สะท้อนการประกาศประณามอย่างผู้เผยพระวจนะ คำที่ออกจากปากมาจาก «ใจที่เต็มล้น»—คำกล่าวหาเรื่องเบเอลเซบูลไม่ใช่ความคิดเชิงวัตถุวิสัย แต่เผยตัวตนภายในของพวกเขา",
+      "key_decisions": [
+        {
+          "greek": "γεννήματα ἐχιδνῶν",
+          "thai": "เจ้าพวกเชื้อสายงูพิษ",
+          "rationale": "Per glossary: Γεννήματα ἐχιδνῶν → เจ้าพวกเชื้อสายงูพิษ (established Matt 3:7 John-the-Baptist-to-Pharisees). Vocative register, prophetic-denunciation. Preserves Matt 3:7 precedent exactly. NEW GLOSSARY: γέννημα → เชื้อสาย (offspring); ἔχιδνα → งูพิษ (viper)."
+        },
+        {
+          "greek": "πῶς δύνασθε ἀγαθὰ λαλεῖν",
+          "thai": "พวกเจ้าจะพูดสิ่งดีได้อย่างไร",
+          "rationale": "Per uW figs-rquestion: rhetorical 'how-can-you.' Thai 'พวกเจ้า' (prophetic-denunciation downgrade from พวกท่าน) — matching Matt 11:21-24 Chorazin-downgrade precedent. Shift signals Jesus moves from reasoning to denunciation."
+        },
+        {
+          "greek": "ἐκ τοῦ περισσεύματος τῆς καρδίας τὸ στόμα λαλεῖ",
+          "thai": "ปากย่อมพูดจากสิ่งที่เต็มล้นอยู่ในใจ",
+          "rationale": "Per uW figs-metaphor + figs-metonymy: 'heart' = seat-of-thought-and-feeling; 'mouth' = act-of-speaking; 'overflow' = fullness-spilling-over. Thai 'สิ่งที่เต็มล้นอยู่ในใจ' preserves metaphor-of-container-overflowing. περίσσευμα (nt_freq=5) → สิ่งที่เต็มล้น. Per glossary: καρδία → ใจ; στόμα → ปาก. NEW GLOSSARY: περίσσευμα → ความเต็มล้น / สิ่งที่เต็มล้น."
+        }
+      ],
+      "notes": "PROPHETIC-DENUNCIATION. Register-shift crucial: Jesus drops polite-plural พวกท่าน → prophetic-downgrade พวกเจ้า, matching 'brood of vipers' vocative. Same register-logic as Matt 11:21-24 Woes-on-Cities (apostrophe-downgrade). The shift marks Jesus no-longer-reasoning but-denouncing. OT background: Isa 59:5 vipers'-eggs metaphor; Psa 140:3 serpent-tongued-evil-speech. NO HAPAX."
+    }
+  },
+  {
+    "reference": "Matthew 12:35",
+    "chapter": 12,
+    "verse": 35,
+    "greek": "ὁ ἀγαθὸς ἄνθρωπος ἐκ τοῦ ἀγαθοῦ θησαυροῦ ἐκβάλλει ἀγαθά,καὶ ὁ πονηρὸς ἄνθρωπος ἐκ τοῦ πονηροῦ θησαυροῦ ἐκβάλλει πονηρά.",
+    "bsb_english": "The good man brings good things out of his good store of treasure, and the evil man brings evil things out of his evil store of treasure.",
+    "translation": {
+      "thai": "คนดีย่อมนำสิ่งดีออกจากคลังที่ดี และคนชั่วย่อมนำสิ่งชั่วออกจากคลังที่ชั่ว",
+      "thai_literal": "คนดี มนุษย์ จาก ของดี คลัง ย่อมนำออก บรรดาสิ่งดี และ คนชั่ว มนุษย์ จาก ของชั่ว คลัง ย่อมนำออก บรรดาสิ่งชั่ว",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ὁ ἀγαθὸς ἄνθρωπος ... ὁ πονηρὸς ἄνθρωπος",
+          "thai": "คนดี ... คนชั่ว",
+          "rationale": "Per uW writing-proverbs + figs-genericnoun: generic-noun 'the-good/evil man' = any-such-person. Thai 'คนดี/คนชั่ว' (generic-form). ἀγαθός → ดี (established); πονηρός → ชั่ว (established)."
+        },
+        {
+          "greek": "ἐκ τοῦ ἀγαθοῦ θησαυροῦ ἐκβάλλει ἀγαθά",
+          "thai": "นำสิ่งดีออกจากคลังที่ดี",
+          "rationale": "Per uW figs-metaphor + figs-metonymy: 'treasure' = mental/spiritual-storehouse of-values-and-thoughts. θησαυρός (nt_freq=17) → คลัง (storehouse/treasury — metaphorical). Per glossary: 'θησαυρίζετε...θησαυροὺς ἐν οὐρανῷ → สะสมทรัพย์สมบัติ' (Matt 6:20 literal-treasure sense); here metaphorical = 'inner-storehouse.' Thai 'คลัง' (storeroom, figurative fits). ἐκβάλλω here = 'bring-out' (not literal cast-out). NEW GLOSSARY: θησαυρός (inner-store-metaphor) → คลัง."
+        }
+      ],
+      "notes": "PROVERB RESTATING PREVIOUS. The good-from-good-storehouse / evil-from-evil-storehouse repeats v.34's heart-mouth logic. Matt 12:34-35 reads like a two-fold-development of Luke 6:45's parallel. The Matthean-distinctive emphasis: the Pharisees' speech (saying Jesus casts out by Beelzebul) is itself-evidence of their evil-storehouse. NO HAPAX."
+    }
+  },
+  {
+    "reference": "Matthew 12:36",
+    "chapter": 12,
+    "verse": 36,
+    "greek": "λέγω δὲ ὑμῖν ὅτι πᾶν ῥῆμα ἀργὸν ὃ λαλήσουσιν οἱ ἄνθρωποι,ἀποδώσουσιν περὶ αὐτοῦ λόγον ἐν ἡμέρᾳ κρίσεως·",
+    "bsb_english": "But I tell you that men will give an account on the day of judgment for every careless word they have spoken.",
+    "translation": {
+      "thai": "แต่เราบอกพวกท่านว่า คำพูดเลื่อนลอยทุกคำที่มนุษย์พูด พวกเขาจะต้องให้การสำหรับคำนั้นในวันพิพากษา",
+      "thai_literal": "เรา บอก แต่ แก่พวกท่าน ว่า ทุก คำ เลื่อนลอย ซึ่ง จะได้พูด บรรดามนุษย์ พวกเขาจะให้การ เกี่ยวกับ มัน ถ้อยคำ ใน วัน ของการพิพากษา",
+      "thai_summary": "พระเยซูทรงเตือนว่าคำพูดทุกคำมีผล ไม่ใช่เพียงคำสำคัญทางศาสนา «คำพูดเลื่อนลอย» (ῥῆμα ἀργόν) หมายถึงคำที่ไม่มีประโยชน์หรืออาจก่อความเสียหาย ในบริบทนี้ พระเยซูกำลังพูดถึงคำกล่าวของพวกฟาริสีที่กล่าวว่าพระเยซูทำงานด้วยซาตาน—คำเลื่อนลอยนี้จะถูกตัดสินในวันพิพากษาสุดท้าย",
+      "key_decisions": [
+        {
+          "greek": "λέγω δὲ ὑμῖν",
+          "thai": "แต่เราบอกพวกท่านว่า",
+          "rationale": "Register-shift: Jesus returns to authoritative-formula 'I-tell-you' with royal เรา + polite พวกท่าน — signaling shift from denunciation (vv.33-34 พวกเจ้า) back to declaration. Pattern: rebuke-then-teach."
+        },
+        {
+          "greek": "πᾶν ῥῆμα ἀργὸν",
+          "thai": "คำพูดเลื่อนลอยทุกคำ",
+          "rationale": "Per uW figs-explicit: ἀργόν (compound α-privative + ἔργον 'without-work/unproductive') could be 'useless/idle' OR 'hurtful.' Thai 'เลื่อนลอย' (drifting/unanchored) captures idle-useless-without-substance sense well. ῥῆμα → คำ / คำพูด (established). NEW GLOSSARY: ῥῆμα ἀργόν → คำพูดเลื่อนลอย; ἀργός → เลื่อนลอย."
+        },
+        {
+          "greek": "ἀποδώσουσιν περὶ αὐτοῦ λόγον",
+          "thai": "พวกเขาจะต้องให้การสำหรับคำนั้น",
+          "rationale": "Per uW figs-idiom: 'give-account-about-it' = legal-accountability-language. Thai 'ให้การ' (give-legal-account — Thai legal-idiom). NEW GLOSSARY: ἀποδίδωμι λόγον → ให้การ (idiomatic)."
+        },
+        {
+          "greek": "ἐν ἡμέρᾳ κρίσεως",
+          "thai": "ในวันพิพากษา",
+          "rationale": "Per glossary: ἡμέρᾳ κρίσεως → วันพิพากษา (established Matt 11:22, 11:24 for Tyre/Sidon/Sodom). Consistent rendering."
+        }
+      ],
+      "notes": "FINAL-JUDGMENT FRAMING. Jesus extends Beelzebul-controversy into eschatological-warning: Pharisees' accusation will be legally-evaluated at Final Judgment. Matthean-distinctive (Mark/Luke have briefer parallels to vv.33-35 but lack vv.36-37 legal-accountability extension). NO HAPAX."
+    }
+  },
+  {
+    "reference": "Matthew 12:37",
+    "chapter": 12,
+    "verse": 37,
+    "greek": "ἐκ γὰρ τῶν λόγων σου δικαιωθήσῃ,καὶ ἐκ τῶν λόγων σου καταδικασθήσῃ.",
+    "bsb_english": "For by your words you will be acquitted, and by your words you will be condemned.”",
+    "translation": {
+      "thai": "เพราะว่าพวกท่านจะถูกตัดสินให้ชอบธรรมโดยถ้อยคำของตน และจะถูกตัดสินให้มีโทษโดยถ้อยคำของตน»",
+      "thai_literal": "เพราะว่า จาก บรรดาคำ ของท่าน จะได้ถูกตัดสินให้ชอบธรรม และ จาก บรรดาคำ ของท่าน จะได้ถูกตัดสินให้มีโทษ",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ἐκ τῶν λόγων σου δικαιωθήσῃ ... καταδικασθήσῃ",
+          "thai": "ถูกตัดสินให้ชอบธรรมโดยถ้อยคำ ... ถูกตัดสินให้มีโทษโดยถ้อยคำ",
+          "rationale": "Per uW figs-parallelism: contrasting-parallel pair. Per uW figs-youcrowd: singular σου addressing-group-as-individual (each-person's-own-words). Thai preserves grammatical-passive 'ถูกตัดสิน' (divine-passive, God-implicit-agent). δικαιόω → ตัดสินให้ชอบธรรม (declared-righteous); καταδικάζω → ตัดสินให้มีโทษ (condemned). Paired-verbs preserve antithetical-form. Thai uses plural-polite 'พวกท่าน...ของตน' since Jesus addressing group; kept generic 'ของตน' (one's-own) for singular-σου-as-individual-application. NEW GLOSSARY: δικαιόω (forensic-legal sense) → ตัดสินให้ชอบธรรม."
+        }
+      ],
+      "notes": "QUOTE-CLOSE: Outer « » closes at end of v.37 (Jesus's Beelzebul-reply vv.25-37 complete). FORENSIC-CLOSING. Matt 12 brings back to-courtroom-imagery: word-as-evidence, day-of-judgment-as-courtroom, justification-or-condemnation-as-verdict. Echoes Pauline-forensic-language (Rom 3:20, 3:24, 5:1 — δικαιόω + justified-by-God). Matthean theology-of-judgment based-on-deeds-and-words, not Lutheran-sola-fide style. NO HAPAX."
+    }
+  },
+  {
+    "reference": "Matthew 12:38",
+    "chapter": 12,
+    "verse": 38,
+    "greek": "Τότε ἀπεκρίθησαν αὐτῷ τινες τῶν γραμματέων καὶ Φαρισαίων λέγοντες·Διδάσκαλε,θέλομεν ἀπὸ σοῦ σημεῖον ἰδεῖν.",
+    "bsb_english": "Then some of the scribes and Pharisees said to Him, “Teacher, we want to see a sign from You.”",
+    "translation": {
+      "thai": "แล้วพวกธรรมาจารย์และฟาริสีบางคนทูลพระองค์ว่า «ท่านอาจารย์ พวกเราอยากเห็นหมายสำคัญจากท่าน»",
+      "thai_literal": "แล้ว ได้ตอบ แก่พระองค์ บางคน ของธรรมาจารย์ทั้งหลาย และ ฟาริสีทั้งหลาย กล่าวว่า ท่านอาจารย์ พวกเราอยาก จาก ท่าน หมายสำคัญ ที่จะเห็น",
+      "thai_summary": "หลังจากถูกวิพากษ์เรื่องคำพูดของพวกเขาอย่างหนัก พวกธรรมาจารย์และฟาริสีกลับคำถามให้พระเยซูพิสูจน์ตัวเองด้วยการแสดงหมายสำคัญ (อัศจรรย์พิเศษ) คำขอนี้เป็นการท้าทายแบบนุ่มนวล แต่ลึกลงเป็นการปฏิเสธหมายสำคัญหลายอย่างที่พระเยซูทรงทำแล้ว (การรักษาการขับผี) พวกเขาต้องการ «หมายจากสวรรค์» (ลก 11:16) ที่ไม่มีข้อสงสัย",
+      "key_decisions": [
+        {
+          "greek": "τινες τῶν γραμματέων καὶ Φαρισαίων",
+          "thai": "พวกธรรมาจารย์และฟาริสีบางคน",
+          "rationale": "Per glossary: γραμματεύς → ธรรมาจารย์ (established); Φαρισαῖος → ฟาริสี (established). Thai preserves pairing 'พวกธรรมาจารย์และฟาริสี.'"
+        },
+        {
+          "greek": "Διδάσκαλε",
+          "thai": "ท่านอาจารย์",
+          "rationale": "Per glossary: Διδάσκαλε → ท่านอาจารย์ (established standard). Vocative-polite-but-not-royal (consistent with Pharisees' ambiguous-intent: polite-on-surface, testing-underneath). Contrast Matt 17:4 'ท่านอาจารย์' (disciples) vs Matt 8:19 'ท่านอาจารย์' (seeker). Register: Pharisees use polite-form but agenda is hostile."
+        },
+        {
+          "greek": "θέλομεν ἀπὸ σοῦ σημεῖον ἰδεῖν",
+          "thai": "พวกเราอยากเห็นหมายสำคัญจากท่าน",
+          "rationale": "Per glossary: σημεῖον → หมายสำคัญ (RULES.md §4 established). σοῦ singular per uW figs-yousingular (addressing Jesus-individually). Thai 'ท่าน' (2sg polite-non-royal matching Διδάσκαλε-register). 'พวกเราอยาก' (we-want) — plural-first-person."
+        }
+      ],
+      "notes": "QUOTE-OPEN-CLOSE: Outer « » wraps single-verse sign-seeker-request. SIGN-SEEKING. The demand-for-additional-sign despite-already-witnessing-miracles shows Pharisees' hardened-unbelief. Jesus has just-performed a sign (healing of demon-possessed-blind-and-mute in v.22); their request for another implies-the-previous was insufficient. Jewish-midrashic-tradition: Messiah-proves-identity by signs — specifically heavenly-signs (astronomical / Sinaitic-theophany-type). Jesus will refuse and offer only Jonah-sign (= resurrection). NO HAPAX."
+    }
+  },
+  {
+    "reference": "Matthew 12:39",
+    "chapter": 12,
+    "verse": 39,
+    "greek": "ὁ δὲ ἀποκριθεὶς εἶπεν αὐτοῖς·Γενεὰ πονηρὰ καὶ μοιχαλὶς σημεῖον ἐπιζητεῖ,καὶ σημεῖον οὐ δοθήσεται αὐτῇ εἰ μὴ τὸ σημεῖον Ἰωνᾶ τοῦ προφήτου.",
+    "bsb_english": "Jesus replied, “A wicked and adulterous generation demands a sign, but none will be given it except the sign of the prophet Jonah.",
+    "translation": {
+      "thai": "แต่พระองค์ตรัสตอบพวกเขาว่า «คนยุคนี้ที่ชั่วร้ายและนอกใจแสวงหาหมายสำคัญ แต่จะไม่มีหมายสำคัญใดให้แก่พวกเขา เว้นแต่หมายสำคัญของโยนาห์ผู้เผยพระวจนะ",
+      "thai_literal": "แต่ พระองค์ ได้ตรัสตอบ แก่พวกเขา ยุค ชั่วร้าย และ นอกใจ หมายสำคัญ ย่อมเสาะแสวง และ หมายสำคัญ ไม่ จะได้รับ แก่เขา เว้นแต่ หมายสำคัญ ของโยนาห์ ผู้เผยพระวจนะ",
+      "thai_summary": "พระเยซูทรงเรียกผู้ขอหมายสำคัญว่า «คนยุคนี้ที่ชั่วร้ายและนอกใจ»—ภาพเปรียบของอิสราเอลที่ไม่ซื่อสัตย์ต่อพระเจ้าในพระธรรมเดิม (ฮชย 1-3 การแต่งงานของโฮเชยากับหญิงนอกใจ; ยรม 3:6-10) แทนที่จะให้หมายสำคัญที่พวกเขาต้องการ พระองค์ทรงชี้ไปยัง «หมายสำคัญของโยนาห์»—สามวันสามคืนในท้องปลา เปรียบเทียบกับการฝังและการฟื้นคืนพระชนม์ของพระองค์",
+      "key_decisions": [
+        {
+          "greek": "ἀποκριθεὶς εἶπεν",
+          "thai": "ตรัสตอบ",
+          "rationale": "Per glossary: established Matthean Semitic-style reply-formula → ตรัสตอบ (royal-reply). Consistent Matt 11:25 precedent."
+        },
+        {
+          "greek": "Γενεὰ πονηρὰ καὶ μοιχαλὶς",
+          "thai": "คนยุคนี้ที่ชั่วร้ายและนอกใจ",
+          "rationale": "Per glossary: γενεά (contemporaries-sense) → คนยุคนี้ (established Matt 11:16). μοιχαλίς → นอกใจ (unfaithful-to-God — per uW figs-metaphor 'unfaithful/disobedient'). Thai 'นอกใจ' (unfaithful-to-spouse idiom, preserves adultery-metaphor-spiritual). NEW GLOSSARY: γενεὰ πονηρὰ καὶ μοιχαλίς → คนยุคนี้ที่ชั่วร้ายและนอกใจ; μοιχαλίς → นอกใจ."
+        },
+        {
+          "greek": "σημεῖον ἐπιζητεῖ",
+          "thai": "แสวงหาหมายสำคัญ",
+          "rationale": "Per glossary: ἐπιζητέω → เสาะแสวงหา (established Matt 6:32 'τὰ ἔθνη ἐπιζητοῦσιν'). Simplified to 'แสวงหา' for natural Thai flow. σημεῖον → หมายสำคัญ (established)."
+        },
+        {
+          "greek": "τὸ σημεῖον Ἰωνᾶ τοῦ προφήτου",
+          "thai": "หมายสำคัญของโยนาห์ผู้เผยพระวจนะ",
+          "rationale": "Per uW figs-possession: 'sign of Jonah' = sign-related-to-Jonah (Jonah's-experience, which Jesus will parallel). Ἰωνᾶς → โยนาห์ (standard Thai Christian). προφήτης → ผู้เผยพระวจนะ (established). NEW GLOSSARY: Ἰωνᾶς → โยนาห์."
+        }
+      ],
+      "notes": "QUOTE-OPEN: Outer « » opens Jesus's sign-reply spanning vv.39-45. SPIRITUAL-ADULTERY-IDIOM. 'Evil and adulterous generation' reflects standard-Prophetic-trope for idolatry-as-spiritual-adultery (Hos 1-3, Ezek 16, Jer 3:6-10). ADDED TO NT_OT_CITATIONS: MAT 12:39 thematic_background HOS 1-3 + JER 3:6-10 + EZK 16 (adultery-as-unfaithfulness-to-covenant). NO HAPAX."
+    }
+  },
+  {
+    "reference": "Matthew 12:40",
+    "chapter": 12,
+    "verse": 40,
+    "greek": "ὥσπερ γὰρ ἦν Ἰωνᾶς ἐν τῇ κοιλίᾳ τοῦ κήτους τρεῖς ἡμέρας καὶ τρεῖς νύκτας,οὕτως ἔσται ὁ υἱὸς τοῦ ἀνθρώπου ἐν τῇ καρδίᾳ τῆς γῆς τρεῖς ἡμέρας καὶ τρεῖς νύκτας.",
+    "bsb_english": "For as Jonah was three days and three nights in the belly of the great fish, so the Son of Man will be three days and three nights in the heart of the earth.",
+    "translation": {
+      "thai": "เพราะว่าโยนาห์อยู่ในท้องปลาใหญ่สามวันสามคืนฉันใด บุตรมนุษย์ก็จะอยู่ในใจกลางแผ่นดินสามวันสามคืนฉันนั้น",
+      "thai_literal": "เพราะ เหมือน ได้เป็น โยนาห์ ใน ท้อง ของปลาใหญ่ สาม วัน และ สาม คืน เช่นเดียวกัน จะเป็น บุตรมนุษย์ ใน ใจ ของแผ่นดิน สาม วัน และ สาม คืน",
+      "thai_summary": "พระเยซูทรงตีความหมายของ «หมายสำคัญของโยนาห์» ว่าคือระยะเวลาที่โยนาห์อยู่ในท้องปลา (ยนา 1:17) นี่เป็นคำพยากรณ์ถึงการฝังและการฟื้นคืนพระชนม์ของพระองค์ พระเยซูทรงเรียกหลุมฝังว่า «ใจกลางแผ่นดิน» (หรือในภาษาเซเมติกหมายถึงส่วนลึกที่สุดของโลก) «สามวันสามคืน» เป็นสำนวนเซเมติกสำหรับเวลาสามวัน—นับบางส่วนของวันเป็นเต็มวัน (จึงครอบคลุมวันศุกร์ เสาร์ อาทิตย์ตอนเช้า)",
+      "key_decisions": [
+        {
+          "greek": "ἐν τῇ κοιλίᾳ τοῦ κήτους",
+          "thai": "ในท้องปลาใหญ่",
+          "rationale": "NT HAPAX κῆτος (= 'sea-creature/large-fish') — same LXX word at Jonah 2:1 for 'great-fish.' Thai 'ปลาใหญ่' (standard Thai Christian from THSV Jonah). κοιλία → ท้อง (belly/stomach). NEW GLOSSARY: κῆτος NT-HAPAX → ปลาใหญ่; κοιλία → ท้อง."
+        },
+        {
+          "greek": "τρεῖς ἡμέρας καὶ τρεῖς νύκτας",
+          "thai": "สามวันสามคืน",
+          "rationale": "Per uW figs-merism: 'three-days-and-three-nights' = idiom-for-three-complete-24-hour-periods (Semitic inclusive-counting). Thai 'สามวันสามคืน' preserves merism exactly."
+        },
+        {
+          "greek": "ἐν τῇ καρδίᾳ τῆς γῆς",
+          "thai": "ในใจกลางแผ่นดิน",
+          "rationale": "Per uW figs-idiom: 'heart of the earth' = deep-underground-location (= the grave/Sheol). Thai 'ใจกลางแผ่นดิน' preserves the Hebraic-idiom literally. NEW GLOSSARY: ἐν τῇ καρδίᾳ τῆς γῆς → ในใจกลางแผ่นดิน."
+        }
+      ],
+      "notes": "NT HAPAX #4: κῆτος (v.40). CHRISTOLOGICAL-PROPHECY. Jesus's first-recorded-prophecy of his own burial+resurrection to opponents (private-disciples-prediction comes later at 16:21). The Jonah-typology: (1) descent-to-underworld; (2) deliverance-by-God; (3) subsequent-proclamation-to-gentiles. All three fulfilled in Jesus. ADDED TO NT_OT_CITATIONS: MAT 12:40 direct_citation JON 2:1 LXX (Jonah-in-fish-belly, ἐν τῇ κοιλίᾳ τοῦ κήτους verbatim-LXX). Timing-calculation: Matthew's 3-days-3-nights reflects Semitic-inclusive-counting (Friday partial + Saturday full + Sunday early = 3 days)."
+    }
+  },
+  {
+    "reference": "Matthew 12:41",
+    "chapter": 12,
+    "verse": 41,
+    "greek": "ἄνδρες Νινευῖται ἀναστήσονται ἐν τῇ κρίσει μετὰ τῆς γενεᾶς ταύτης καὶ κατακρινοῦσιν αὐτήν·ὅτι μετενόησαν εἰς τὸ κήρυγμα Ἰωνᾶ,καὶ ἰδοὺ πλεῖον Ἰωνᾶ ὧδε.",
+    "bsb_english": "The men of Nineveh will stand at the judgment with this generation and condemn it; for they repented at the preaching of Jonah, and now One greater than Jonah is here.",
+    "translation": {
+      "thai": "ชาวนีนะเวห์จะลุกขึ้นในวันพิพากษาพร้อมกับคนยุคนี้ และจะตัดสินโทษพวกเขา เพราะชาวนีนะเวห์กลับใจเมื่อได้ยินคำเทศนาของโยนาห์ และดูเถิด ผู้ยิ่งใหญ่กว่าโยนาห์ก็อยู่ที่นี่แล้ว",
+      "thai_literal": "บรรดาชาย ชาวนีนะเวห์ จะลุกขึ้น ใน การพิพากษา พร้อมกับ ยุค นี้ และ จะตัดสินโทษ มัน เพราะ พวกเขาได้กลับใจ เมื่อ คำเทศนา ของโยนาห์ และ ดูเถิด ยิ่งใหญ่กว่า โยนาห์ ที่นี่",
+      "thai_summary": "ชาวนีนะเวห์—คนต่างชาติที่เป็นศัตรูกับอิสราเอล—กลับใจเมื่อได้ยินคำเทศนาของโยนาห์ พวกเขาจะลุกขึ้นเป็นพยานต่อต้านคนยุคนี้ในวันพิพากษา เพราะแม้คนที่คิดว่า «ห่างไกลจากพระเจ้า» ยังรับฟังและกลับใจ แต่คนยุคนี้ที่อ้างว่าเป็นชนชาติของพระเจ้ากลับปฏิเสธผู้ที่ยิ่งใหญ่กว่าโยนาห์มาก",
+      "key_decisions": [
+        {
+          "greek": "ἄνδρες Νινευῖται",
+          "thai": "ชาวนีนะเวห์",
+          "rationale": "Per uW figs-gendernotations: ἄνδρες here = 'people/inhabitants' (gender-generic per uW). Νινευῖται (nt_freq=2 Matt 12:41, Luke 11:32) → ชาวนีนะเวห์ (Thai Christian standard transliteration — residents of Nineveh). NEW GLOSSARY: Νινευῖται → ชาวนีนะเวห์."
+        },
+        {
+          "greek": "ἀναστήσονται ἐν τῇ κρίσει",
+          "thai": "จะลุกขึ้นในวันพิพากษา",
+          "rationale": "Per uW translate-symaction: 'stand-up-in-judgment' = either-(1)-stand-to-testify-in-legal-setting or (2)-resurrect-bodily. Thai 'จะลุกขึ้น' preserves ambiguity (both testimonial-standing and resurrection). ἀνίστημι → ลุกขึ้น (established multi-context). NEW GLOSSARY: ἀνίστημι (judgment-sense) → ลุกขึ้น."
+        },
+        {
+          "greek": "κατακρινοῦσιν αὐτήν",
+          "thai": "จะตัดสินโทษพวกเขา",
+          "rationale": "κατακρίνω (nt_freq=19) → ตัดสินโทษ (condemn — legal-judicial, distinct-from simple-κρίνω 'judge'). αὐτήν (feminine-sg) refers-to γενεά. Thai 'พวกเขา' (plural-natural for generation-collective). NEW GLOSSARY: κατακρίνω → ตัดสินโทษ."
+        },
+        {
+          "greek": "μετενόησαν εἰς τὸ κήρυγμα Ἰωνᾶ",
+          "thai": "กลับใจเมื่อได้ยินคำเทศนาของโยนาห์",
+          "rationale": "Per glossary: μετανοέω → กลับใจ (RULES.md §4 non-negotiable). κήρυγμα (nt_freq=8) → คำเทศนา (proclamation/preaching-content). NEW GLOSSARY: κήρυγμα → คำเทศนา."
+        },
+        {
+          "greek": "ἰδοὺ πλεῖον Ἰωνᾶ ὧδε",
+          "thai": "ดูเถิด ผู้ยิ่งใหญ่กว่าโยนาห์ก็อยู่ที่นี่แล้ว",
+          "rationale": "Per uW figs-extrainfo + v.6 pattern: 'something-greater' neuter-general. Per v.6 precedent: rendered 'ผู้ยิ่งใหญ่กว่า' for Christological-reading. Matthean-triplet: greater-than-temple (v.6), greater-than-Jonah (v.41), greater-than-Solomon (v.42)."
+        }
+      ],
+      "notes": "JONAH-COMPARISON-ESCALATES. Matthean Christological move: Jesus > Jonah (the prophet-of-repentance). The Gentile-Ninevites repented on lesser-prophet's-word; Jewish-this-generation rejects the greater-one. OT background: Jonah 3:5-10 (Nineveh-repents). ADDED TO NT_OT_CITATIONS: MAT 12:41 thematic_citation JON 3:5-10 LXX (Nineveh-repentance). NO HAPAX."
+    }
+  },
+  {
+    "reference": "Matthew 12:42",
+    "chapter": 12,
+    "verse": 42,
+    "greek": "βασίλισσα νότου ἐγερθήσεται ἐν τῇ κρίσει μετὰ τῆς γενεᾶς ταύτης καὶ κατακρινεῖ αὐτήν·ὅτι ἦλθεν ἐκ τῶν περάτων τῆς γῆς ἀκοῦσαι τὴν σοφίαν Σολομῶνος,καὶ ἰδοὺ πλεῖον Σολομῶνος ὧδε.",
+    "bsb_english": "The Queen of the South will rise at the judgment with this generation and condemn it; for she came from the ends of the earth to hear the wisdom of Solomon, and now One greater than Solomon is here.",
+    "translation": {
+      "thai": "ราชินีแห่งทิศใต้จะลุกขึ้นในวันพิพากษาพร้อมกับคนยุคนี้ และจะตัดสินโทษพวกเขา เพราะพระนางเสด็จมาจากสุดปลายแผ่นดินโลกเพื่อฟังพระปัญญาของโซโลมอน และดูเถิด ผู้ยิ่งใหญ่กว่าโซโลมอนก็อยู่ที่นี่แล้ว",
+      "thai_literal": "ราชินี ของทิศใต้ จะลุกขึ้น ใน การพิพากษา พร้อมกับ ยุค นี้ และ จะตัดสินโทษ มัน เพราะ ได้มา จาก บรรดาสุดปลาย ของแผ่นดิน ที่จะฟัง ปัญญา ของโซโลมอน และ ดูเถิด ยิ่งใหญ่กว่า โซโลมอน ที่นี่",
+      "thai_summary": "ราชินีแห่งทิศใต้ (ราชินีแห่งชีบา 1 พกษ 10:1-13; 2 พศด 9:1-12) เสด็จมาจากไกลแสนไกลเพื่อฟังพระปัญญาของโซโลมอน พระนางเป็นคนต่างชาติและเป็นผู้หญิง—กลุ่มคนที่ในสมัยนั้นอาจถูกมองว่าไม่มีค่าในสายตาศาสนา—แต่พระนางเสาะแสวงพระปัญญาอย่างกระตือรือร้น พระเยซูทรงเสนอพระองค์ว่ายิ่งใหญ่กว่าโซโลมอนมาก แต่คนยุคนี้ไม่เสาะแสวงหาพระองค์แม้พระองค์ทรงอยู่ใกล้",
+      "key_decisions": [
+        {
+          "greek": "βασίλισσα νότου",
+          "thai": "ราชินีแห่งทิศใต้",
+          "rationale": "Per uW translate-names: 'Queen of the South' = Queen of Sheba (country south of Israel). Thai 'ราชินีแห่งทิศใต้' (direct-render preserves biblical-text designation). NEW GLOSSARY: βασίλισσα → ราชินี; νότος (as directional) → ทิศใต้."
+        },
+        {
+          "greek": "ἐγερθήσεται",
+          "thai": "จะลุกขึ้น",
+          "rationale": "Per uW translate-symaction: same polyvalent 'stand-up/resurrect' as v.41's ἀναστήσονται. Thai 'จะลุกขึ้น' preserves ambiguity."
+        },
+        {
+          "greek": "ἦλθεν ἐκ τῶν περάτων τῆς γῆς",
+          "thai": "พระนางเสด็จมาจากสุดปลายแผ่นดินโลก",
+          "rationale": "Per uW figs-idiom: 'ends-of-the-earth' = far-away-place (hyperbolic — Sheba is Arabia, not literal-earth-edge). Per glossary precedent: 'ἀπ' ἄκρου γῆς → จากสุดปลายแผ่นดินโลก' (Matt 24:31). Thai preserved. Divine-royal 'เสด็จ' for Queen (royal-person). NEW GLOSSARY: πέρας → สุดปลาย."
+        },
+        {
+          "greek": "τὴν σοφίαν Σολομῶνος",
+          "thai": "พระปัญญาของโซโลมอน",
+          "rationale": "Per uW figs-abstractnouns: σοφία 'wisdom' (preserved-abstract-noun). Thai 'พระปัญญา' (royal-wisdom for Solomon-the-king + honored-content); Σολομών → โซโลมอน (standard Thai Christian). NEW GLOSSARY: Σολομών → โซโลมอน; σοφία (royal-context) → พระปัญญา."
+        }
+      ],
+      "notes": "SOLOMON-COMPARISON-CLIMAX. Third-greater-than-saying (temple + Jonah + Solomon). Matt 12:42 vindicates Gentile+woman as superior-seeker than Jesus's Jewish-contemporaries. ADDED TO NT_OT_CITATIONS: MAT 12:42 thematic_citation 1 KGS 10:1-13 + 2 CHR 9:1-12 LXX (Queen-of-Sheba-visits-Solomon). CHRISTOLOGICAL-ESCALATION: v.6 Jesus>Temple, v.41 Jesus>Prophet, v.42 Jesus>Wisest-King. Temple/Prophet/King = three-pillars of Israelite-tradition all surpassed. NO HAPAX."
+    }
+  },
+  {
+    "reference": "Matthew 12:43",
+    "chapter": 12,
+    "verse": 43,
+    "greek": "Ὅταν δὲ τὸ ἀκάθαρτον πνεῦμα ἐξέλθῃ ἀπὸ τοῦ ἀνθρώπου,διέρχεται δι’ἀνύδρων τόπων ζητοῦν ἀνάπαυσιν,καὶ οὐχ εὑρίσκει.",
+    "bsb_english": "When an unclean spirit comes out of a man, it passes through arid places seeking rest and does not find it.",
+    "translation": {
+      "thai": "เมื่อวิญญาณโสโครกออกจากคนหนึ่ง มันก็ท่องเที่ยวไปในที่แห้งแล้ง หาที่พักไม่พบ",
+      "thai_literal": "เมื่อ แต่ วิญญาณโสโครก จะออกไป จาก มนุษย์ ย่อมเดินผ่าน โดย บรรดาที่แห้งแล้ง กำลังหา ที่พัก และ ไม่ หาพบ",
+      "thai_summary": "พระเยซูทรงเล่าคำอุปมาสั้นๆ ที่ประยุกต์กับ «คนยุคนี้» (ข้อ 45) วิญญาณโสโครกที่ถูกขับออกแล้วท่องไปในที่ร้าง แต่กลับมาหาเจ้าของเดิม ในบริบทนี้ คนยุคนี้อาจเห็นพระเยซูขับผีและชื่นชมชั่วขณะ แต่ถ้าพวกเขาไม่ยอมรับพระเยซูและพระวิญญาณเข้ามาอยู่แทน «บ้าน» ก็จะถูกยึดคืนโดยวิญญาณชั่วที่ร้ายกว่า",
+      "key_decisions": [
+        {
+          "greek": "τὸ ἀκάθαρτον πνεῦμα",
+          "thai": "วิญญาณโสโครก",
+          "rationale": "Per glossary: πνεῦμα ἀκάθαρτον → วิญญาณโสโครก (established Mark 1:23 etc.). Thai standard Christian rendering."
+        },
+        {
+          "greek": "διέρχεται δι’ἀνύδρων τόπων",
+          "thai": "ท่องเที่ยวไปในที่แห้งแล้ง",
+          "rationale": "Per uW figs-metonymy: waterless-places = desert (demons imagined-to-dwell in deserts per 2nd-Temple-Judaism; cf. Isa 34:14, Tobit 8:3). διέρχομαι → ท่องเที่ยวไป (wander-through). ἄνυδρος → แห้งแล้ง (waterless). NEW GLOSSARY: διέρχομαι (wandering-sense) → ท่องเที่ยวไป; ἄνυδρος → แห้งแล้ง."
+        },
+        {
+          "greek": "ζητοῦν ἀνάπαυσιν, καὶ οὐχ εὑρίσκει",
+          "thai": "หาที่พักไม่พบ",
+          "rationale": "Per uW figs-metonymy: ἀνάπαυσις here = 'place-to-dwell-in' (for demon to reside/control). Contextual-variant from Matt 11:28-29 'ἀνάπαυσις → การพักสงบ' (rest-for-soul-sense). Here demon-habitation-sense → ที่พัก (place-to-rest/dwell). ζητέω + εὑρίσκω pair = seek-find. Thai combined-natural 'หา...ไม่พบ.' NEW CONTEXTUAL-VARIANT: ἀνάπαυσις (demon-dwelling-sense) → ที่พัก (vs Matt 11:29 soul-rest-sense → การพักสงบ)."
+        }
+      ],
+      "notes": "PARABLE-OF-RETURNED-DEMON OPENS (vv.43-45). Matthean-application at v.45 reveals this is about-this-generation. Per uW: contemporary Jewish demonology imagined demons inhabiting desert-wastes (Azazel in Lev 16, Tobit 8 'Asmodeus-fled-to-upper-parts-of-Egypt,' 1 Enoch demonology). Jesus uses this folk-belief as parable-vehicle. NO HAPAX."
+    }
+  },
+  {
+    "reference": "Matthew 12:44",
+    "chapter": 12,
+    "verse": 44,
+    "greek": "τότε λέγει·Εἰς τὸν οἶκόν μου ἐπιστρέψω ὅθεν ἐξῆλθον·καὶ ἐλθὸν εὑρίσκει σχολάζοντα σεσαρωμένον καὶ κεκοσμημένον.",
+    "bsb_english": "Then it says, ‘I will return to the house I left.’ On its return, it finds the house vacant, swept clean, and put in order.",
+    "translation": {
+      "thai": "แล้วมันก็พูดว่า ‹เราจะกลับไปยังบ้านของเราที่เราออกมา› เมื่อมาถึงแล้ว ก็พบว่าบ้านนั้นว่างเปล่า กวาดและจัดไว้เรียบร้อยแล้ว",
+      "thai_literal": "แล้ว ย่อมพูด เข้าสู่ บ้าน ของเรา เราจะกลับ จากที่ เราได้ออกมา และ เมื่อมา ย่อมพบ กำลังว่างอยู่ ได้ถูกกวาด และ ได้ถูกจัดไว้",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "λέγει·Εἰς τὸν οἶκόν μου ἐπιστρέψω ὅθεν ἐξῆλθον",
+          "thai": "มันก็พูดว่า ‹เราจะกลับไปยังบ้านของเราที่เราออกมา›",
+          "rationale": "Per uW figs-quotesinquotes + figs-exmetaphor: demon's-embedded-speech, house=person-possessed. Inner ‹ › per RULES.md quote-nesting. μου self-reference by demon — used 'เรา' (neutral-generic 'I') since demon is not-divine-not-royal. Alt 'ข้า' (lowly) rejected: demon speaks confidently."
+        },
+        {
+          "greek": "εὑρίσκει σχολάζοντα σεσαρωμένον καὶ κεκοσμημένον",
+          "thai": "พบว่าบ้านนั้นว่างเปล่า กวาดและจัดไว้เรียบร้อยแล้ว",
+          "rationale": "Per uW figs-exmetaphor + figs-activepassive: three-participles describing house-ready-for-new-occupant. σχολάζω (nt_freq=2) → ว่างเปล่า (empty/unoccupied); σαρόω → กวาด (swept); κοσμέω → จัดไว้เรียบร้อย (put-in-order/tidied). Thai preserves three-stage triplet. NEW GLOSSARY: σχολάζω → ว่างเปล่า; σαρόω → กวาด; κοσμέω (tidy-sense) → จัดไว้เรียบร้อย."
+        }
+      ],
+      "notes": "INNER-QUOTE ‹ › around demon's speech. The three-adjectives σχολάζοντα-σεσαρωμένον-κεκοσμημένον describe-ideal-residence: empty (not-already-possessed), swept-clean (hospitable), put-in-order (inviting). Matthean-distinctive (Luke 11:25 'swept-and-put-in-order' only — Matthew adds 'σχολάζοντα' empty). The added-term emphasizes: the person is morally-neutral-not-filled-with-Holy-Spirit — which is why demon can-return. NO HAPAX."
+    }
+  },
+  {
+    "reference": "Matthew 12:45",
+    "chapter": 12,
+    "verse": 45,
+    "greek": "τότε πορεύεται καὶ παραλαμβάνει μεθ’ἑαυτοῦ ἑπτὰ ἕτερα πνεύματα πονηρότερα ἑαυτοῦ,καὶ εἰσελθόντα κατοικεῖ ἐκεῖ·καὶ γίνεται τὰ ἔσχατα τοῦ ἀνθρώπου ἐκείνου χείρονα τῶν πρώτων.οὕτως ἔσται καὶ τῇ γενεᾷ ταύτῃ τῇ πονηρᾷ.",
+    "bsb_english": "Then it goes and brings with it seven other spirits more wicked than itself, and they go in and dwell there. And the final plight of that man is worse than the first. So will it be with this wicked generation.”",
+    "translation": {
+      "thai": "มันจึงไปพาวิญญาณอื่นอีกเจ็ดตนซึ่งชั่วร้ายยิ่งกว่าตัวมันเองมาด้วย พวกมันเข้าไปอยู่ที่นั่น และสภาพบั้นปลายของคนนั้นก็เลวร้ายยิ่งกว่าตอนแรก คนยุคชั่วร้ายนี้ก็จะเป็นเช่นนั้นเอง»",
+      "thai_literal": "แล้ว ย่อมไป และ ย่อมพา พร้อมกับ ตัวเอง เจ็ด อื่น วิญญาณ ชั่วร้ายกว่า ตัวเอง และ เมื่อได้เข้าไป ย่อมอาศัยอยู่ ที่นั่น และ ย่อมเป็น บรรดาบั้นปลาย ของมนุษย์ คนนั้น เลวร้ายกว่า บรรดาตอนแรก เช่นนี้ จะเป็น และ แก่ยุค นี้ ที่ชั่วร้าย",
+      "thai_summary": "คำอุปมาจบด้วยการประยุกต์โดยตรง: «คนยุคชั่วร้ายนี้ก็จะเป็นเช่นนั้น» อิสราเอลในสมัยพระเยซู (หรือโดยเฉพาะพวกฟาริสี) ก็เหมือนคนที่วิญญาณโสโครกออกไปชั่วคราว—อาจเพราะการปฏิรูปของยอห์นผู้ให้บัพติศมาและพระเยซู—แต่ไม่ยอมรับพระวิญญาณบริสุทธิ์เข้ามาอยู่แทน ผลลัพธ์คือสภาพสุดท้ายที่เลวร้ายยิ่งกว่าเดิม—ต้านทานพระเมสสิยาห์จนถึงที่สุด",
+      "key_decisions": [
+        {
+          "greek": "παραλαμβάνει μεθ’ἑαυτοῦ ἑπτὰ ἕτερα πνεύματα πονηρότερα",
+          "thai": "ไปพาวิญญาณอื่นอีกเจ็ดตนซึ่งชั่วร้ายยิ่งกว่า",
+          "rationale": "παραλαμβάνω → พา (take-along). ἕτερος → อื่น (another-different-kind). ἑπτά → เจ็ดตน (seven, with counter-classifier ตน for spiritual-beings). πονηρότερα (comparative) → ชั่วร้ายยิ่งกว่า. NEW GLOSSARY: παραλαμβάνω (companions-sense) → พา; ἑπτὰ ἕτερα πνεύματα → วิญญาณอื่นอีกเจ็ดตน."
+        },
+        {
+          "greek": "εἰσελθόντα κατοικεῖ ἐκεῖ",
+          "thai": "พวกมันเข้าไปอยู่ที่นั่น",
+          "rationale": "Per uW figs-explicit: 'they-entering-dwells-there' — Greek has neuter-singular verb (classical attraction). Thai 'พวกมันเข้าไปอยู่' (they-collectively-enter-and-reside). κατοικέω → อยู่ (dwell/reside)."
+        },
+        {
+          "greek": "τὰ ἔσχατα ... χείρονα τῶν πρώτων",
+          "thai": "สภาพบั้นปลาย ... เลวร้ายยิ่งกว่าตอนแรก",
+          "rationale": "Per uW figs-idiom: 'last-things > first-things' = later-condition-worse-than-earlier. Thai 'สภาพบั้นปลาย...ตอนแรก' (later-state... earlier-time). χείρων → เลวร้ายกว่า (worse — comparative-of-κακός). NEW GLOSSARY: ἔσχατα (idiom-condition) → สภาพบั้นปลาย; χείρων → เลวร้ายกว่า."
+        },
+        {
+          "greek": "οὕτως ἔσται καὶ τῇ γενεᾷ ταύτῃ τῇ πονηρᾷ",
+          "thai": "คนยุคชั่วร้ายนี้ก็จะเป็นเช่นนั้นเอง",
+          "rationale": "Per uW figs-metonymy: γενεά = this-generation-of-people (established Matt 12:39 'คนยุคนี้'). Here + adjective πονηρᾷ → คนยุคชั่วร้ายนี้. Application-statement closing the parable."
+        }
+      ],
+      "notes": "QUOTE-CLOSE: Outer « » closes at end of v.45 (Jesus's sign-reply-discourse vv.39-45 complete). APPLICATION-STATEMENT. Matthean-distinctive ending (Luke 11:26 omits 'this-generation' application). The saying functions as warning to contemporary-Israel: partial-reformation (without filling-with-Spirit) produces worse-state-than-original. 'Seven-other-spirits' symbolism: 7 = completeness; the worst-possible demonic-completion. NO HAPAX."
+    }
+  },
+  {
+    "reference": "Matthew 12:46",
+    "chapter": 12,
+    "verse": 46,
+    "greek": "Ἔτι δὲ αὐτοῦ λαλοῦντος τοῖς ὄχλοις ἰδοὺ ἡ μήτηρ καὶ οἱ ἀδελφοὶ αὐτοῦ εἱστήκεισαν ἔξω ζητοῦντες αὐτῷ λαλῆσαι.",
+    "bsb_english": "While Jesus was still speaking to the crowds, His mother and brothers stood outside, wanting to speak to Him.",
+    "translation": {
+      "thai": "ขณะที่พระองค์ยังตรัสกับฝูงชนอยู่นั้น ดูเถิด มารดาและพวกพี่น้องของพระองค์ก็มายืนอยู่ข้างนอก ประสงค์จะพูดกับพระองค์",
+      "thai_literal": "ยัง แต่ ของพระองค์ กำลังตรัส แก่บรรดาฝูงชน ดูเถิด มารดา และ พวกพี่น้อง ของพระองค์ ได้ยืน อยู่ข้างนอก กำลังหา แก่พระองค์ ที่จะพูด",
+      "thai_summary": "มารดาและพี่น้องของพระเยซูมาเยี่ยมพระองค์ มาระโกเพิ่มเติมว่าครอบครัวมาเพื่อ «พาพระองค์กลับ» เพราะคิดว่าพระองค์ทรงเสียสติ (มก 3:21) บริบทนี้เปิดฉากสำหรับการประกาศครอบครัวใหม่ของพระเยซูที่ขึ้นอยู่กับการเชื่อฟังพระเจ้า ไม่ใช่เชื้อสายทางสายเลือด",
+      "key_decisions": [
+        {
+          "greek": "Ἔτι ... αὐτοῦ λαλοῦντος",
+          "thai": "ขณะที่พระองค์ยังตรัส",
+          "rationale": "Genitive-absolute construction. Divine-royal 'ตรัส' for Jesus's speaking per RULES.md §3."
+        },
+        {
+          "greek": "ἡ μήτηρ καὶ οἱ ἀδελφοὶ αὐτοῦ",
+          "thai": "มารดาและพวกพี่น้องของพระองค์",
+          "rationale": "Per uW translate-kinship: ἀδελφοί = younger half-brothers (sons of Mary+Joseph; per RCC tradition sometimes read as 'cousins' — Thai Christian Protestant standard is literal-brothers). Per glossary: 'ἡ μήτηρ μου καὶ οἱ ἀδελφοί μου → มารดาของเราและพี่น้องของเรา' (Matt 12:49). Here third-person-about-Jesus uses divine-pronoun 'ของพระองค์' (royal-possessive). μήτηρ → มารดา; ἀδελφός → พี่น้อง. NEW GLOSSARY: μήτηρ → มารดา."
+        },
+        {
+          "greek": "εἱστήκεισαν ἔξω",
+          "thai": "มายืนอยู่ข้างนอก",
+          "rationale": "Per uW figs-explicit: stood-outside-the-house (cf. 13:1 Jesus-leaves-house). Pluperfect 'had-stood' — Thai 'มายืน' (came-and-stood) preserves arrival+standing. ἔξω → ข้างนอก (established glossary Matt 5:13). NEW GLOSSARY: ἔξω → ข้างนอก."
+        }
+      ],
+      "notes": "TRUE-FAMILY-PERICOPE OPENS (vv.46-50). The pericope's placement closes Matt 11-12 (opposition-cycle): now even Jesus's physical-family functions as potential-opponent (per Mark 3:21 explicitly — Matthew softens). NO HAPAX."
+    }
+  },
+  {
+    "reference": "Matthew 12:47",
+    "chapter": 12,
+    "verse": 47,
+    "greek": "εἶπεν δέ τις αὐτῷ·Ἰδοὺ ἡ μήτηρ σου καὶ οἱ ἀδελφοί σου ἔξω ἑστήκασιν,ζητοῦντές σοι λαλῆσαι.",
+    "bsb_english": "Someone told Him, “Look, Your mother and brothers are standing outside, wanting to speak to You.”",
+    "translation": {
+      "thai": "คนหนึ่งทูลพระองค์ว่า «ดูเถิด มารดาของพระองค์และพวกพี่น้องของพระองค์ยืนอยู่ข้างนอก ประสงค์จะพูดกับพระองค์»",
+      "thai_literal": "ได้กล่าว แต่ คนหนึ่ง แก่พระองค์ ดูเถิด มารดา ของพระองค์ และ บรรดาพี่น้อง ของพระองค์ อยู่ข้างนอก ได้ยืน กำลังหา แก่พระองค์ ที่จะพูด",
+      "thai_summary": "พระคัมภีร์บางฉบับเดิมไม่มีข้อนี้ แต่ฉบับส่วนใหญ่และพระคัมภีร์ไทยมาตรฐาน (THSV, NTV) มีข้อนี้ ความต่างไม่เปลี่ยนความหมายของตอน",
+      "key_decisions": [
+        {
+          "greek": "εἶπεν δέ τις αὐτῷ",
+          "thai": "คนหนึ่งทูลพระองค์ว่า",
+          "rationale": "Per uW figs-quotations: direct-speech. Register: unknown-reporter addressing Jesus respectfully → ทูล + พระองค์ (humble-to-divine). Matches Matt 12:2 register-precedent."
+        },
+        {
+          "greek": "ἡ μήτηρ σου καὶ οἱ ἀδελφοί σου",
+          "thai": "มารดาของพระองค์และพวกพี่น้องของพระองค์",
+          "rationale": "Per uW figs-yousingular: σου x3 singular. Thai 'ของพระองค์' (royal 2sg reverent form — since reporter addresses-Jesus-as-divine). Register-consistent with Matt 12:2 'ท่าน' (Pharisees-hostile) vs here-polite-reporter 'พระองค์'."
+        }
+      ],
+      "notes": "TEXTUAL VARIANT: Per uW chapter-intro: 'Some ancient manuscripts do not include this verse. However, most modern translations do include it.' SBLGNT INCLUDES (followed without brackets per RULES.md §5 — word-choice-level-inclusion vs NA28 which brackets). Thai mainstream translations (THSV, NTV, ERV) include. Word-choice-variant documented in thai_summary. NO HAPAX."
+    }
+  },
+  {
+    "reference": "Matthew 12:48",
+    "chapter": 12,
+    "verse": 48,
+    "greek": "ὁ δὲ ἀποκριθεὶς εἶπεν τῷ λέγοντι αὐτῷ·Τίς ἐστιν ἡ μήτηρ μου,καὶ τίνες εἰσὶν οἱ ἀδελφοί μου;",
+    "bsb_english": "But Jesus replied, “Who is My mother, and who are My brothers?”",
+    "translation": {
+      "thai": "พระองค์ตรัสตอบผู้ที่ทูลพระองค์ว่า «ใครเป็นมารดาของเรา? ใครเป็นพวกพี่น้องของเรา?»",
+      "thai_literal": "พระองค์ แต่ ตรัสตอบ แก่ผู้ที่ กำลังกล่าว แก่พระองค์ ใคร คือ มารดา ของเรา และ ใครบ้าง เป็น บรรดาพี่น้อง ของเรา",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ἀποκριθεὶς εἶπεν",
+          "thai": "ตรัสตอบ",
+          "rationale": "Per glossary established pattern: Jesus-responds-with ตรัสตอบ (royal-reply)."
+        },
+        {
+          "greek": "Τίς ἐστιν ἡ μήτηρ μου, καὶ τίνες εἰσὶν οἱ ἀδελφοί μου",
+          "thai": "ใครเป็นมารดาของเรา? ใครเป็นพวกพี่น้องของเรา",
+          "rationale": "Per uW figs-rquestion: rhetorical-teaching-question. Per uW warning: don't-pre-empt with implied-answer — Jesus gives answer in v.49. Thai preserves open-question-form. Royal 'ของเรา' (my-royal) + 'พวกพี่น้อง' (brothers-plural)."
+        }
+      ],
+      "notes": "QUOTE-OPEN: Outer « » opens for Jesus's family-reply spanning vv.48-50. RHETORICAL-SETUP. Jesus poses the question first to-get-disciples'-attention before answering. Matthew preserves Mark's pericope with minor adjustments. NO HAPAX."
+    }
+  },
+  {
+    "reference": "Matthew 12:49",
+    "chapter": 12,
+    "verse": 49,
+    "greek": "καὶ ἐκτείνας τὴν χεῖρα αὐτοῦ ἐπὶ τοὺς μαθητὰς αὐτοῦ εἶπεν·Ἰδοὺ ἡ μήτηρ μου καὶ οἱ ἀδελφοί μου·",
+    "bsb_english": "Pointing to His disciples, He said, “Here are My mother and My brothers.",
+    "translation": {
+      "thai": "แล้วพระองค์ทรงยื่นพระหัตถ์ไปยังสาวกของพระองค์ ตรัสว่า ‹ดูเถิด นี่คือมารดาของเราและพวกพี่น้องของเรา",
+      "thai_literal": "และ เมื่อได้เหยียด พระหัตถ์ ของพระองค์ ไปยัง บรรดาสาวก ของพระองค์ ตรัส ดูเถิด มารดา ของเรา และ บรรดาพี่น้อง ของเรา",
+      "thai_summary": "พระเยซูทรงยื่นพระหัตถ์—การเคลื่อนไหวที่ชัดเจน—ไปยังสาวกและประกาศว่าพวกเขาคือครอบครัวของพระองค์ นี่ไม่ใช่การปฏิเสธมารดาและพี่น้องทางสายเลือด แต่เป็นการขยายแนวคิดของครอบครัว—ผู้ใดทำตามพระประสงค์ของพระบิดาก็เป็นครอบครัวของพระองค์ คำนี้มีนัยยะมิชชันนารีในปัจจุบัน: ผู้เชื่อทุกเชื้อชาติรวมเป็นครอบครัวของพระคริสต์",
+      "key_decisions": [
+        {
+          "greek": "ἐκτείνας τὴν χεῖρα αὐτοῦ",
+          "thai": "ทรงยื่นพระหัตถ์",
+          "rationale": "Per uW translate-symaction: gesturing-to-indicate-group. Thai 'ทรงยื่น' (royal-stretch-out) + 'พระหัตถ์' (royal-hand per RULES.md §3). Per v.13 precedent: ἐκτείνω → เหยียด (literal-stretch-out for man's-hand). Here context is gesture-of-pointing/indicating, so 'ยื่น' (extend-royally-toward) fits better."
+        },
+        {
+          "greek": "Ἰδοὺ ἡ μήτηρ μου καὶ οἱ ἀδελφοί μου",
+          "thai": "ดูเถิด นี่คือมารดาของเราและพวกพี่น้องของเรา",
+          "rationale": "Per uW figs-explicit + figs-metaphor: 'Behold' + disciples-as-family. Added 'นี่คือ' (these-are) for Thai-natural-identification-form. Per glossary: Matt 12:49 entry 'ἡ μήτηρ μου καὶ οἱ ἀδελφοί μου → มารดาของเราและพี่น้องของเรา' (established) — preserved."
+        }
+      ],
+      "notes": "INNER-QUOTE ‹ ›: Jesus's gestural-declaration is logically-within outer « » of vv.48-50 but functions as a distinct embedded-declaration ('behold...') — inner ‹ › convention used for the 'Behold-declaration' proper. METAPHORICAL-FAMILY. Jesus redefines family-of-faith, anticipating the post-Easter-church. NO HAPAX."
+    }
+  },
+  {
+    "reference": "Matthew 12:50",
+    "chapter": 12,
+    "verse": 50,
+    "greek": "ὅστις γὰρ ἂν ποιήσῃ τὸ θέλημα τοῦ πατρός μου τοῦ ἐν οὐρανοῖς,αὐτός μου ἀδελφὸς καὶ ἀδελφὴ καὶ μήτηρ ἐστίν.",
+    "bsb_english": "For whoever does the will of My Father in heaven is My brother and sister and mother.”",
+    "translation": {
+      "thai": "เพราะว่าผู้ใดที่กระทำตามน้ำพระทัยของพระบิดาของเราผู้ทรงสถิตในสวรรค์ ผู้นั้นแหละเป็นพี่น้องชาย พี่น้องหญิง และมารดาของเรา»",
+      "thai_literal": "ผู้ซึ่ง เพราะ ถ้า จะกระทำ น้ำพระทัย ของพระบิดา ของเรา ผู้ ใน บรรดาสวรรค์ ผู้นั้นเอง ของเรา พี่น้องชาย และ พี่น้องหญิง และ มารดา คือ",
+      "thai_summary": "ข้อนี้ปิด «บททดสอบของการต่อต้าน» (มธ 11:1–12:50) ด้วยการนิยามครอบครัวของพระเจ้าใหม่: ไม่ใช่เชื้อสายทางสายเลือด ไม่ใช่ชนชาติอิสราเอลโดยกำเนิด ไม่ใช่ความเคร่งในธรรมบัญญัติ แต่เป็นการกระทำตามน้ำพระทัยของพระบิดา การรวม «พี่น้องชาย พี่น้องหญิง และมารดา» แสดงว่าการเป็นสาวกเปิดรับทั้งชายและหญิง—ซึ่งในสมัยนั้นเป็นการเปลี่ยนแปลงใหม่",
+      "key_decisions": [
+        {
+          "greek": "ὅστις γὰρ ἂν ποιήσῃ τὸ θέλημα τοῦ πατρός μου",
+          "thai": "เพราะว่าผู้ใดที่กระทำตามน้ำพระทัยของพระบิดาของเรา",
+          "rationale": "Per glossary: 'τὸ θέλημα τοῦ θεοῦ → น้ำพระทัยของพระเจ้า' (established); here 'πατρός μου' → 'พระบิดาของเรา' (Jesus's royal-possessive-reference to Father). Matching Matt 7:21 'τοῦ πατρός μου' pattern."
+        },
+        {
+          "greek": "τοῦ ἐν οὐρανοῖς",
+          "thai": "ผู้ทรงสถิตในสวรรค์",
+          "rationale": "Per glossary: 'ὁ πατὴρ ὑμῶν ὁ ἐν τοῖς οὐρανοῖς → พระบิดาของพวกท่านผู้สถิตในสวรรค์' (established Matt 5:16, 5:45 etc.). Thai 'ผู้ทรงสถิตในสวรรค์' adds divine-ทรง-prefix-for-consistency."
+        },
+        {
+          "greek": "αὐτός μου ἀδελφὸς καὶ ἀδελφὴ καὶ μήτηρ ἐστίν",
+          "thai": "ผู้นั้นแหละเป็นพี่น้องชาย พี่น้องหญิง และมารดาของเรา",
+          "rationale": "Per glossary: 'ἀδελφός μου καὶ ἀδελφὴ καὶ μήτηρ → พี่น้องชาย พี่น้องหญิง และมารดา' (established Mark 3:35 precedent). Matthew omits 'father' — likely because Jesus has only-One-Father (God). Expanded-family-declaration. NEW GLOSSARY: ἀδελφή → พี่น้องหญิง."
+        }
+      ],
+      "notes": "QUOTE-CLOSE: Outer « » closes at end of v.50 (Jesus's family-discourse vv.48-50 complete, with inner ‹ › from v.49 embedded). CHAPTER-CLOSE. Matt 12:50 closes the opposition-cycle (11:1–12:50) with Jesus's radical-redefinition of family-in-the-kingdom. The next chapter (13) shifts to parables-of-the-kingdom — formal-shift after opposition has-reached-its-peak. Matthean theology-of-discipleship-as-familial-participation: faith + obedience = full-family-membership regardless of ethnic/gender/kinship status. NO HAPAX."
+    }
+  }
+]

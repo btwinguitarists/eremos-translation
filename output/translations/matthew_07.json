@@ -1,0 +1,857 @@
+[
+  {
+    "reference": "Matthew 7:1",
+    "chapter": 7,
+    "verse": 1,
+    "greek": "Μὴ κρίνετε,ἵνα μὴ κριθῆτε·",
+    "bsb_english": "\u201cDo not judge, or you will be judged.",
+    "translation": {
+      "thai": "«อย่าตัดสินผู้อื่น เพื่อพวกท่านจะไม่ถูกตัดสิน",
+      "thai_literal": "อย่า พวกท่านตัดสิน เพื่อ ไม่ พวกท่านจะถูกตัดสิน",
+      "thai_summary": "คำเตือนเปิดบทว่าด้วยการตัดสินคนอื่น การที่กริยา 'ถูกตัดสิน' (κριθῆτε) เป็นรูปถูกกระทำ (divine passive) หมายถึงพระเจ้าทรงเป็นผู้ตัดสิน ไม่ได้ห้ามการใช้วิจารณญาณทั่วไป แต่ห้ามการตัดสินอย่างแข็งกร้าวหรือประณามคนอื่นโดยไม่สำรวจตนเอง",
+      "key_decisions": [
+        {
+          "greek": "Μὴ κρίνετε",
+          "thai": "อย่าตัดสินผู้อื่น",
+          "rationale": "κρίνω present-active-imperative 2pl + μή prohibitive = 'stop / do-not-judge.' Per uW figs-explicit: refers to improper/harsh judging, not all discernment (v.6 demonstrates Jesus does want discernment). κρίνω rendering ตัดสิน (judge/decide). Added 'ผู้อื่น' (others) explicit for clarity per uW. NEW GLOSSARY: κρίνω → ตัดสิน. « opens outer quote-block for the Matthew-7 section of the Sermon-on-the-Mount discourse, paralleling Matt 5 and Matt 6 opening-« (Sermon-blocks treated as per-chapter quote-units per convention established Matt 5)."
+        },
+        {
+          "greek": "ἵνα μὴ κριθῆτε",
+          "thai": "เพื่อพวกท่านจะไม่ถูกตัดสิน",
+          "rationale": "ἵνα-μή + aorist-passive-subjunctive = negative-purpose-clause 'so-that-you-be-not-judged.' Per uW figs-activepassive: divine-passive implying God as judging-agent. Thai passive-construction 'ถูกตัดสิน' preserves passive-form naturally. Plural พวกท่าน (crowd address per uW figs-yousingular chapter-intro note — plural default for Matt 7)."
+        }
+      ],
+      "notes": "Opening prohibition of 7:1-6 block on judgment. κρίνω paired with cognate-passive κριθῆτε — lex-talionis-grammatical-pattern (same verb active→passive) used three more times in v.2 (κρίματι-κρίνετε-κριθήσεσθε). Mishnah-Sotah 1:7 parallel: 'with what measure a man measures, it is measured to him' — rabbinic measure-for-measure principle underlies all of vv.1-2. Matthew and Luke 6:37 share this saying (Q material). ADDED TO nt_ot_citations.json: MAT 7:1 — thematic allusion LEV 19:15 (judging righteously)."
+    }
+  },
+  {
+    "reference": "Matthew 7:2",
+    "chapter": 7,
+    "verse": 2,
+    "greek": "ἐν ᾧ γὰρ κρίματι κρίνετε κριθήσεσθε,καὶ ἐν ᾧ μέτρῳ μετρεῖτε μετρηθήσεται ὑμῖν.",
+    "bsb_english": "For with the same judgment you pronounce, you will be judged, and with the measure you use, it will be measured to you.",
+    "translation": {
+      "thai": "เพราะพวกท่านจะถูกตัดสินด้วยการตัดสินที่พวกท่านใช้ตัดสินคนอื่น และจะถูกตวงให้ด้วยเครื่องตวงที่พวกท่านใช้ตวง",
+      "thai_literal": "ใน ซึ่ง เพราะ การตัดสิน พวกท่านตัดสิน พวกท่านจะถูกตัดสิน และ ใน ซึ่ง เครื่องตวง พวกท่านตวง จะถูกตวง แก่พวกท่าน",
+      "thai_summary": "ข้อ 2 เป็นหลักการ 'ตวงกลับ' (measure-for-measure) ตามธรรมเนียมยิว พระเจ้าจะทรงใช้มาตรฐานเดียวกับที่เราใช้กับคนอื่น มีภาพสะท้อนใน อิสยาห์ 65:7 และในคำสอนของรัพบียิวว่า 'บุคคลใดใช้มาตรวัดใด จะถูกวัดด้วยมาตรวัดนั้น' (มิชนาห์ โสฏาห์ 1:7) จึงเป็นทั้งสุภาษิตสามัญและหลักศาสนาของอิสราเอลในสมัยนั้น",
+      "key_decisions": [
+        {
+          "greek": "ἐν ᾧ γὰρ κρίματι κρίνετε κριθήσεσθε",
+          "thai": "เพราะพวกท่านจะถูกตัดสินด้วยการตัดสินที่พวกท่านใช้ตัดสินคนอื่น",
+          "rationale": "Cognate-instrumental construction ἐν ᾧ κρίματι κρίνετε 'in-which-judgment you-judge' — Greek tolerates tautology; Thai smooths via 'ด้วยการตัดสินที่พวกท่านใช้' (with-the-judgment-which-you-use). κρίμα (abstract noun) → การตัดสิน. Per uW figs-abstractnouns: abstract noun flattened into relative-clause. Divine-passive κριθήσεσθε retained as passive ถูกตัดสิน. γάρ (explanatory) → เพราะ."
+        },
+        {
+          "greek": "ἐν ᾧ μέτρῳ μετρεῖτε μετρηθήσεται ὑμῖν",
+          "thai": "และจะถูกตวงให้ด้วยเครื่องตวงที่พวกท่านใช้ตวง",
+          "rationale": "Parallel cognate-instrumental μέτρῳ-μετρεῖτε-μετρηθήσεται. μέτρον (measure/measuring-cup) → เครื่องตวง (measuring-instrument — same word established in Thai grain-trade vocabulary). Per uW writing-proverbs: this is a proverb Jesus quotes/invents; translate as recognizable proverb. μετρηθήσεται divine-passive-future retained as ถูกตวง. Per uW writing-pronouns: understood 'it' (what you measure out) is preserved implicit. NEW GLOSSARY: μέτρον → เครื่องตวง (measure); μετρέω → ตวง (to measure-out)."
+        }
+      ],
+      "notes": "The μέτρῳ μετρεῖτε μετρηθήσεται parallel reappears in Mark 4:24, Luke 6:38 — Q-material measure-for-measure logion. Greek Isa 65:7 LXX has cognate ἀνταποδώσω (repay) and related measuring-theology. Mishnah Sotah 1:7 verbatim-parallel 'מדה כנגד מדה' (middah k-neged middah) 'measure-against-measure' is the classic rabbinic formulation that Jesus absorbs. Double-cognate-parallelism 'judge/judgment/judged || measure/measured/measure' is a signature rhetorical pattern of Jesus's Sermon teaching. ADDED TO nt_ot_citations.json: MAT 7:2 — thematic allusion ISA 65:7 LXX + mishnaic-background-parallel Sotah 1:7 (measure-for-measure principle in both LXX and rabbinic tradition)."
+    }
+  },
+  {
+    "reference": "Matthew 7:3",
+    "chapter": 7,
+    "verse": 3,
+    "greek": "τί δὲ βλέπεις τὸ κάρφος τὸ ἐν τῷ ὀφθαλμῷ τοῦ ἀδελφοῦ σου,τὴν δὲ ἐν τῷ σῷ ὀφθαλμῷ δοκὸν οὐ κατανοεῖς;",
+    "bsb_english": "Why do you look at the speck in your brother\u2019s eye but fail to notice the beam in your own eye?",
+    "translation": {
+      "thai": "เหตุใดท่านจึงมองดูผงในดวงตาของพี่น้องของท่าน แต่ไม่สังเกตไม้ท่อนโตในดวงตาของตัวท่านเอง?",
+      "thai_literal": "ทำไม แล ท่านมอง ผง ซึ่ง ใน ดวงตา ของพี่น้อง ของท่าน แต่ ใน ของท่าน ดวงตา ไม้ท่อนโต ไม่ ท่านสังเกตเห็น",
+      "thai_summary": "พระเยซูทรงใช้ภาพเปรียบที่เกินจริง — 'ผง' (κάρφος) เล็กจิ๋วในดวงตาของพี่น้อง เทียบกับ 'ไม้ท่อนโต' (δοκός) ซึ่งเป็นท่อนไม้ที่ใช้ค้ำเพดานบ้าน — ในดวงตาของผู้ตัดสิน ความเกินจริงนี้จงใจทำให้ตลก เพื่อเน้นว่าคนที่ชอบวิจารณ์มักไม่มองความผิดของตนเอง",
+      "key_decisions": [
+        {
+          "greek": "τί δὲ βλέπεις",
+          "thai": "เหตุใดท่านจึงมองดู",
+          "rationale": "Rhetorical-question opener τί 'why.' Per uW figs-rquestion: the rhetorical-question is used for rebuke. Thai preserves question-form 'เหตุใด...?' (why...?). δέ transition-particle = 'next/now' per uW grammar-connect-words-phrases. Per uW figs-youcrowd chapter-note at v.3: even though Jesus speaks to the crowd, he addresses an individual hypothetical, so 2sg singular 'ท่าน' is appropriate here (contrast with plural 'พวกท่าน' when addressing the crowd generally in v.1)."
+        },
+        {
+          "greek": "τὸ κάρφος τὸ ἐν τῷ ὀφθαλμῷ τοῦ ἀδελφοῦ σου",
+          "thai": "ผงในดวงตาของพี่น้องของท่าน",
+          "rationale": "κάρφος (rare, f=6 — Matt 7:3,4,5 + Lk 6:41,42×2) 'dry-twig / tiny-speck' classical term for dried plant-matter; per uW translate-unknown, consider reader's familiarity. Thai ผง (speck/particle/fine-matter) captures both the smallness and the visual-irritant-in-eye sense. ἀδελφός → พี่น้อง (brother — metaphorical fellow-disciple per uW figs-metaphor; Thai พี่น้อง is naturally gender-inclusive per uW figs-gendernotations). ὀφθαλμός → ดวงตา (eye — established Matt 6:22-23)."
+        },
+        {
+          "greek": "τὴν δὲ ἐν τῷ σῷ ὀφθαλμῷ δοκὸν οὐ κατανοεῖς",
+          "thai": "แต่ไม่สังเกตไม้ท่อนโตในดวงตาของตัวท่านเอง",
+          "rationale": "δοκός (rare NT term, only here + Lk 6:41-42) 'beam / supporting-timber' — structural wooden beam of a house. Per uW figs-hyperbole: deliberate hyperbole (a log cannot literally enter eye). Thai ไม้ท่อนโต (large-log) preserves the hyperbolic size-contrast with ผง (speck). κατανοέω (compound κατά+νοέω intensifier 'observe-carefully/consider') → สังเกต. σός (emphatic-possessive 2sg) → ของตัวท่านเอง (your-own — adds emphasis preserving Greek emphatic position). NEW GLOSSARY: κάρφος → ผง (speck); δοκός → ไม้ท่อนโต (beam/log); κατανοέω → สังเกต."
+        }
+      ],
+      "notes": "Opens the rabbinic-style speck/beam-hyperbole block (vv.3-5). Rabbinic-parallel: b. Arachin 16b has R. Tarphon saying that no one in his generation could accept reproof — if one were to say remove-the-splinter-from-your-eye the response would be remove-the-beam-from-your-eye. The Jewish hyperbole-trope of eye-speck vs eye-beam pre-dates Jesus in rabbinic-discourse. κάρφος technically means a 'dry straw or chaff,' so the vision is of something so light it can float into the eye. Per uW chapter-intro: the speck/log metaphor emphasizes that larger sins make one spiritually-unobservant. κατανοέω is stronger than βλέπω — 'consider carefully / take notice of,' implying conscious-attention. ADDED TO nt_ot_citations.json: MAT 7:3 — thematic allusion PSA 19:12-13 (hidden-faults self-examination prayer)."
+    }
+  },
+  {
+    "reference": "Matthew 7:4",
+    "chapter": 7,
+    "verse": 4,
+    "greek": "ἢ πῶς ἐρεῖς τῷ ἀδελφῷ σου·Ἄφες ἐκβάλω τὸ κάρφος ἐκ τοῦ ὀφθαλμοῦ σου,καὶ ἰδοὺ ἡ δοκὸς ἐν τῷ ὀφθαλμῷ σοῦ;",
+    "bsb_english": "How can you say to your brother, \u2018Let me take the speck out of your eye,\u2019 while there is still a beam in your own eye?",
+    "translation": {
+      "thai": "หรือท่านจะกล่าวแก่พี่น้องของท่านได้อย่างไรว่า ‹ให้ฉันเอาผงออกจากดวงตาของท่านเถิด› ในขณะที่ดูเถิด ไม้ท่อนโตอยู่ในดวงตาของตัวท่านเอง?",
+      "thai_literal": "หรือ อย่างไร ท่านจะพูด แก่พี่น้อง ของท่าน ให้ ฉันขับออก ผง ออก จากดวงตา ของท่าน และ ดูเถิด ไม้ท่อนโต ใน ดวงตา ของท่านเอง",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ἢ πῶς ἐρεῖς",
+          "thai": "หรือท่านจะกล่าวแก่...ได้อย่างไร",
+          "rationale": "ἤ introduces second-rhetorical-question per uW grammar-connect-words-phrases = 'Or.' πῶς (how) + future ἐρεῖς — challenging rhetorical-question per uW figs-rquestion. Thai maintains question-shape 'อย่างไร' (how). Singular ท่าน continues from v.3 per uW figs-youcrowd."
+        },
+        {
+          "greek": "Ἄφες ἐκβάλω τὸ κάρφος ἐκ τοῦ ὀφθαλμοῦ σου",
+          "thai": "‹ให้ฉันเอาผงออกจากดวงตาของท่านเถิด›",
+          "rationale": "Direct-quoted speech. Ἄφες aor-active-impv 'allow/permit.' ἐκβάλω aorist-active-subjunctive hortatory 'let-me-cast-out.' Thai 'ให้ฉันเอา...ออกเถิด' (let-me-remove...). Inner-quote ‹ › marks the hypothetical-speech-to-brother (inner nesting within outer Sermon « »). Peer-to-peer register ฉัน/ท่าน (informal-neutral peer). เถิด softens imperative to natural offer. ἐκβάλλω renders เอา...ออก (take-out) here since literal ขับออก would sound exorcistic in this context."
+        },
+        {
+          "greek": "καὶ ἰδοὺ ἡ δοκὸς ἐν τῷ ὀφθαλμῷ σοῦ",
+          "thai": "ในขณะที่ดูเถิด ไม้ท่อนโตอยู่ในดวงตาของตัวท่านเอง",
+          "rationale": "καὶ ἰδού concessive-adversative 'while-behold' per uW figs-metaphor attention-drawer. Thai 'ในขณะที่ดูเถิด' (while-behold). σοῦ (emphatic-enclitic accented form) intensifies 'your-own' — Thai 'ของตัวท่านเอง' preserves emphasis."
+        }
+      ],
+      "notes": "Extends hyperbole of v.3 into direct-speech form. ἰδού imperative-of-ὁράω (see/behold) is a Hebraism (= הִנֵּה) absorbed into Koine narrative-style; here serves attention-drawing per uW. Per uW figs-exmetaphor: Jesus continues the extended-metaphor begun in v.3. Peer-to-peer register in the hypothetical-speech (ฉัน/ท่าน) fits Jesus's scenario of one disciple addressing another."
+    }
+  },
+  {
+    "reference": "Matthew 7:5",
+    "chapter": 7,
+    "verse": 5,
+    "greek": "ὑποκριτά,ἔκβαλε πρῶτον ἐκ τοῦ ὀφθαλμοῦ σοῦ τὴν δοκόν,καὶ τότε διαβλέψεις ἐκβαλεῖν τὸ κάρφος ἐκ τοῦ ὀφθαλμοῦ τοῦ ἀδελφοῦ σου.",
+    "bsb_english": "You hypocrite! First take the beam out of your own eye, and then you will see clearly to remove the speck from your brother\u2019s eye.",
+    "translation": {
+      "thai": "คนหน้าซื่อใจคดเอ๋ย จงเอาไม้ท่อนโตออกจากดวงตาของท่านก่อน แล้วท่านจึงจะเห็นชัดพอที่จะเอาผงออกจากดวงตาของพี่น้องของท่าน",
+      "thai_literal": "คนหน้าซื่อใจคด จงขับออก ก่อน จากดวงตา ของท่าน ไม้ท่อนโต และ แล้ว ท่านจะเห็นชัด เพื่อขับออก ผง ออก จากดวงตา ของพี่น้อง ของท่าน",
+      "thai_summary": "คำเรียก 'คนหน้าซื่อใจคด' เปิดเผยว่าการมองเห็นผงของคนอื่นในขณะที่ไม่สังเกตไม้ท่อนโตของตนคือการเสแสร้ง แต่พระเยซูไม่ได้ห้ามช่วยพี่น้องแก้ไขความผิด — กลับทรงสอนลำดับว่าต้องชำระตนเองก่อน จึงจะมีสายตาชัดเจนพอจะช่วยเหลือผู้อื่นอย่างถูกต้อง",
+      "key_decisions": [
+        {
+          "greek": "ὑποκριτά",
+          "thai": "คนหน้าซื่อใจคดเอ๋ย",
+          "rationale": "Vocative-singular of ὑποκριτής (hypocrite — 'stage-actor, one-who-plays-role') — Matthew-signature rebuke-address (5x in chapter 6: 6:2,5,16, now reaches individual-rebuke force here). Established GLOSSARY MAT 5 → คนหน้าซื่อใจคด (Thai Christian standard rendering, 'face-honest/heart-crooked'). เอ๋ย vocative-particle preserves Greek-vocative address-force."
+        },
+        {
+          "greek": "ἔκβαλε πρῶτον ἐκ τοῦ ὀφθαλμοῦ σοῦ τὴν δοκόν",
+          "thai": "จงเอาไม้ท่อนโตออกจากดวงตาของท่านก่อน",
+          "rationale": "ἔκβαλε aor-active-impv singular 'cast-out.' πρῶτον adverbial 'first' — emphatic priority. Thai 'จงเอา...ออก...ก่อน' (take-out...first) preserves sequence. Per uW figs-youcrowd: singular command-form appropriate for individual-scenario."
+        },
+        {
+          "greek": "καὶ τότε διαβλέψεις ἐκβαλεῖν",
+          "thai": "แล้วท่านจึงจะเห็นชัดพอที่จะเอา...ออก",
+          "rationale": "τότε 'then.' διαβλέπω (compound διά+βλέπω 'see-through/see-clearly') + infinitive-of-purpose ἐκβαλεῖν. Per uW figs-exmetaphor: 'see-clearly' figurative for 'spiritually-mature-and-knowledgeable.' Thai 'เห็นชัด' (see-clearly). พอที่จะ (enough-to) supplies result-infinitive-sense."
+        }
+      ],
+      "notes": "Climactic rebuke of vv.3-5 hypocrisy-block. ὑποκριτά in vocative parallels Matt 6's address to hypocrites (almsgiving-prayer-fasting). The διαβλέπω 'see-through' verb is Matthew-unique (also Mk 8:25, Lk 6:42) — the prefix διά adds the 'all-the-way-through' intensification. Per uW: Jesus does not forbid helping brother remove speck — that is the goal; he forbids doing it while harboring a log oneself. Verse teaches graduated-order of reformation: self-first, then other-ministry. This completes 7:1-5 judgment-block before transition to v.6 pearls/dogs saying."
+    }
+  },
+  {
+    "reference": "Matthew 7:6",
+    "chapter": 7,
+    "verse": 6,
+    "greek": "Μὴ δῶτε τὸ ἅγιον τοῖς κυσίν,μηδὲ βάλητε τοὺς μαργαρίτας ὑμῶν ἔμπροσθεν τῶν χοίρων,μήποτε καταπατήσουσιν αὐτοὺς ἐν τοῖς ποσὶν αὐτῶν καὶ στραφέντες ῥήξωσιν ὑμᾶς.",
+    "bsb_english": "Do not give dogs what is holy; do not throw your pearls before swine. If you do, they may trample them under their feet, and then turn and tear you to pieces.",
+    "translation": {
+      "thai": "อย่าให้ของบริสุทธิ์แก่สุนัข และอย่าโยนไข่มุกของพวกท่านต่อหน้าสุกร เกรงว่ามันจะเหยียบย่ำไข่มุกด้วยเท้าของมัน แล้วหันกลับมาฉีกพวกท่านเป็นชิ้นๆ",
+      "thai_literal": "อย่า พวกท่านให้ สิ่งศักดิ์สิทธิ์ แก่สุนัขทั้งหลาย และอย่า พวกท่านโยน ไข่มุกทั้งหลาย ของพวกท่าน ต่อหน้า สุกรทั้งหลาย เกรงว่า พวกมันจะเหยียบย่ำ สิ่งเหล่านั้น ใน เท้า ของพวกมัน และ ได้หันมา พวกมันจะฉีก พวกท่าน",
+      "thai_summary": "ในวัฒนธรรมยิว สุนัขและสุกรเป็นสัตว์ที่ไม่สะอาด (เลวีนิติ 11) ใช้เป็นสัญลักษณ์ของคนที่ปฏิเสธสิ่งศักดิ์สิทธิ์ ภาพของสุนัขโยนไข่มุกแล้วหันกลับมากัดสะท้อนสุภาษิต 9:7-8 'อย่าว่ากล่าวคนเย้ยหยัน เกลือกเขาจะเกลียดเจ้า' เป็นคำเตือนให้ใช้ดุลยพินิจในการนำความจริงไปให้กับผู้ที่จะเหยียบย่ำเท่านั้น",
+      "key_decisions": [
+        {
+          "greek": "Μὴ δῶτε τὸ ἅγιον τοῖς κυσίν",
+          "thai": "อย่าให้ของบริสุทธิ์แก่สุนัข",
+          "rationale": "μή + aor-subj-2pl prohibition 'do-not-give.' τὸ ἅγιον adjectival-substantive 'the-holy-thing' per uW figs-nominaladj — Jewish temple-sacrifice-language (the-holy-meat offered on altar, not to be given to unclean-dogs per Levitical-ritual-logic). Thai 'ของบริสุทธิ์' (that-which-is-holy) preserves holiness-category. κύων → สุนัข (Thai standard; uncontroversial term). Plural pwakthan for crowd-address returns here (v.6 shifts back to plural per uW figs-youcrowd)."
+        },
+        {
+          "greek": "μηδὲ βάλητε τοὺς μαργαρίτας ὑμῶν ἔμπροσθεν τῶν χοίρων",
+          "thai": "และอย่าโยนไข่มุกของพวกท่านต่อหน้าสุกร",
+          "rationale": "μηδέ 'and-not' continues prohibition. μαργαρίτης (pearl, rare: f=9 NT) → ไข่มุก (Thai standard for pearl). χοῖρος → สุกร (pig — Thai formal-register for pig; casual หมู also possible, but สุกร fits the biblical-register established for Mark 5 Gadarene-swine). ἔμπροσθεν 'before/in-front-of' → ต่อหน้า. NEW GLOSSARY: μαργαρίτης → ไข่มุก; χοῖρος → สุกร; κύων → สุนัข."
+        },
+        {
+          "greek": "μήποτε καταπατήσουσιν αὐτοὺς ἐν τοῖς ποσὶν αὐτῶν",
+          "thai": "เกรงว่ามันจะเหยียบย่ำไข่มุกด้วยเท้าของมัน",
+          "rationale": "μήποτε 'lest' negative-result-clause. καταπατέω (compound κατά+πατέω 'trample-down') → เหยียบย่ำ. ἐν + dative-instrumental ποσίν 'with-feet.' Per uW writing-pronouns: αὐτούς refers to pearls; Thai makes explicit 'ไข่มุก' for clarity. μήν (it) animal-pronoun — pearls perish-pronoun ambiguity preserved via explicit reference."
+        },
+        {
+          "greek": "καὶ στραφέντες ῥήξωσιν ὑμᾶς",
+          "thai": "แล้วหันกลับมาฉีกพวกท่านเป็นชิ้นๆ",
+          "rationale": "στραφέντες aor-pass-ptc 'having-turned' per uW figs-explicit = 'stop-paying-attention-to-holy-things, focus-on-you.' Thai 'หันกลับมา' (turn-back). ῥήγνυμι (tear/rend) aor-active-subj-3pl → ฉีก...เป็นชิ้นๆ (tear-to-pieces). Per uW writing-pronouns interpretation: ambiguous whether dogs or pigs tear — we preserve ambiguity via 'มัน' (they/it). ῥήγνυμι is attack-verb classic for wild-beast-rending."
+        }
+      ],
+      "notes": "Matthew-unique saying placed here at transition between judgment-block (vv.1-5) and ask-seek-knock block (vv.7-12). Per uW chapter-intro figs-infostructure: likely poetic-chiasm — dogs/holy (clause A) || pearls/pigs (clause B) || trample-pigs (clause B') || turn-and-tear-dogs (clause A'), such that pigs trample pearls and dogs tear disciples. Proverb interpretation per uW: 'holy/pearls' could refer to (1) the gospel (dogs/pigs = unbelievers), (2) disciples' possessions/skills, or (3) fellow-disciples — Jesus deliberately leaves open so multiple applications work. μήποτε warning-clause preserves the danger-if-violated pattern. ADDED TO nt_ot_citations.json: MAT 7:6 — thematic allusions PRO 9:7-8 (don't-correct-scoffer) + PRO 26:11 (dog-returns-to-vomit) + LEV 11 (dogs-swine categorized-unclean)."
+    }
+  },
+  {
+    "reference": "Matthew 7:7",
+    "chapter": 7,
+    "verse": 7,
+    "greek": "Αἰτεῖτε,καὶ δοθήσεται ὑμῖν·ζητεῖτε,καὶ εὑρήσετε·κρούετε,καὶ ἀνοιγήσεται ὑμῖν.",
+    "bsb_english": "Ask, and it will be given to you; seek, and you will find; knock, and the door will be opened to you.",
+    "translation": {
+      "thai": "จงขอ แล้วจะประทานแก่พวกท่าน จงแสวงหา แล้วพวกท่านจะพบ จงเคาะ แล้วจะเปิดให้พวกท่าน",
+      "thai_literal": "จงขอ และ จะถูกให้ แก่พวกท่าน จงแสวงหา และ พวกท่านจะพบ จงเคาะ และ จะถูกเปิด แก่พวกท่าน",
+      "thai_summary": "สามข้อความคู่เป็นรูปแบบไตรกรม (triadic pattern) กริยาเป็นอาการปัจจุบัน (present imperative) ในภาษากรีก หมายถึงการขอ แสวงหา เคาะอย่างต่อเนื่อง ไม่ใช่ครั้งเดียว รูปกริยาถูกกระทำ (divine passive) หมายถึงพระเจ้าทรงเป็นผู้ให้ ผู้เปิด การเคาะประตูเป็นภาพของการอธิษฐานที่ยืนหยัด (ลูกา 11:5-13 ขยายความเพิ่ม)",
+      "key_decisions": [
+        {
+          "greek": "Αἰτεῖτε, καὶ δοθήσεται ὑμῖν",
+          "thai": "จงขอ แล้วจะประทานแก่พวกท่าน",
+          "rationale": "αἰτέω pres-act-impv-2pl 'keep-asking.' Present-tense durative-aspect implies continual prayer-activity. Thai 'จงขอ' imperative. δοθήσεται fut-pass 'will-be-given' — divine-passive per uW figs-activepassive (God as agent). Thai 'จะประทาน' (will-royally-give — preserves divine-honorific register ทรง+ประทาน for God-as-implicit-agent). NEW GLOSSARY: αἰτέω → ขอ (ask, generic) vs ทูลขอ (plea-humbly, divine-addressee)."
+        },
+        {
+          "greek": "ζητεῖτε, καὶ εὑρήσετε",
+          "thai": "จงแสวงหา แล้วพวกท่านจะพบ",
+          "rationale": "ζητέω pres-act-impv-2pl 'keep-seeking.' Thai 'จงแสวงหา' formal-elevated-register (vs casual หา) fits solemn-sermon-context. εὑρίσκω fut-act 'will-find' — unlike 'ask/knock' this is not passive. Echoes Jer 29:13 'when-you-seek-me-with-all-your-heart, you-shall-find-me.' NEW GLOSSARY: ζητέω → แสวงหา; εὑρίσκω → พบ."
+        },
+        {
+          "greek": "κρούετε, καὶ ἀνοιγήσεται ὑμῖν",
+          "thai": "จงเคาะ แล้วจะเปิดให้พวกท่าน",
+          "rationale": "κρούω pres-act-impv-2pl 'keep-knocking' per uW figs-explicit — in ancient-culture knocking = announcing-presence-at-door. Thai 'จงเคาะ' standard. ἀνοιγήσεται fut-pass divine-passive 'will-be-opened' — Thai 'จะเปิดให้' preserves passive-implication with recipient pronoun แก่พวกท่าน implicit subject. NEW GLOSSARY: κρούω → เคาะ."
+        }
+      ],
+      "notes": "Classic triadic-saying of Jesus (Matt/Luke Q-material). The three-pair-structure Ask/Give || Seek/Find || Knock/Opened is a Jewish rhetorical-intensification-pattern. Present-tense-imperatives = habitual/persistent action (not one-time). Verse-8 provides the reason via a parallel triad. ADDED TO nt_ot_citations.json: MAT 7:7 — thematic allusions JER 29:13 LXX (seek-and-find divine-presence) + PRO 8:17 (those-who-seek-me-find-me)."
+    }
+  },
+  {
+    "reference": "Matthew 7:8",
+    "chapter": 7,
+    "verse": 8,
+    "greek": "πᾶς γὰρ ὁ αἰτῶν λαμβάνει καὶ ὁ ζητῶν εὑρίσκει καὶ τῷ κρούοντι ἀνοιγήσεται.",
+    "bsb_english": "For everyone who asks receives; he who seeks finds; and to him who knocks, the door will be opened.",
+    "translation": {
+      "thai": "เพราะทุกคนที่ขอย่อมได้รับ คนที่แสวงหาย่อมพบ และคนที่เคาะประตู ประตูก็จะเปิดให้",
+      "thai_literal": "ทุกคน เพราะ ผู้ที่ขอ ย่อมรับ และ ผู้ที่แสวงหา ย่อมพบ และ แก่ผู้ที่เคาะ จะถูกเปิด",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "πᾶς γὰρ ὁ αἰτῶν λαμβάνει",
+          "thai": "เพราะทุกคนที่ขอย่อมได้รับ",
+          "rationale": "γάρ explanatory 'for.' πᾶς + articular-participle = 'everyone-who-asks.' Present-tense-participle durative (one-who-is-asking). λαμβάνω 'receive' pres-act-ind = gnomic-present-general-truth → ย่อมได้รับ (preserves generalizing-aspect with ย่อม aspectual-marker for habitual/certainly)."
+        },
+        {
+          "greek": "καὶ ὁ ζητῶν εὑρίσκει",
+          "thai": "คนที่แสวงหาย่อมพบ",
+          "rationale": "Parallel articular-participle + gnomic-present. Thai preserves parallel-structure with ย่อม before verb."
+        },
+        {
+          "greek": "καὶ τῷ κρούοντι ἀνοιγήσεται",
+          "thai": "และคนที่เคาะประตู ประตูก็จะเปิดให้",
+          "rationale": "Dative articular-participle 'to-the-one-knocking' + future-passive 'will-be-opened' — slight variation from v.7's direct-address. Thai repeats 'ประตู' (door) twice for clarity since κρούω (knock) implies door-context — first as what's being knocked, second as what opens, following natural Thai information-structure."
+        }
+      ],
+      "notes": "Provides the reason-clause for v.7. Gnomic-present tense in Thai marked with ย่อม (habitual/certainly). Universalizing πᾶς ('everyone-who') emphasizes open-offer: no-one-who-asks excluded. The triad Ask/Seek/Knock functions as intensifying-gradation: ask (minimum) → seek (active-effort) → knock (persistent-presence). Traditional-rabbinic teaching on prayer shares this persistence-motif (cf. bT. Megillah 12b, Ta'anit 25a)."
+    }
+  },
+  {
+    "reference": "Matthew 7:9",
+    "chapter": 7,
+    "verse": 9,
+    "greek": "ἢ τίς ἐστιν ἐξ ὑμῶν ἄνθρωπος,ὃν αἰτήσει ὁ υἱὸς αὐτοῦ ἄρτον μὴ λίθον ἐπιδώσει αὐτῷ;",
+    "bsb_english": "Which of you, if his son asks for bread, will give him a stone?",
+    "translation": {
+      "thai": "หรือในพวกท่าน มีใครบ้างที่เมื่อลูกขอขนมปังกับเขา เขาจะเอาก้อนหินให้ลูก?",
+      "thai_literal": "หรือ ใคร คือ จากพวกท่าน คน ผู้ซึ่ง จะขอ ลูกชาย ของเขา ขนมปัง ไม่ ก้อนหิน เขาจะมอบให้ แก่เขา",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ἢ τίς ἐστιν ἐξ ὑμῶν ἄνθρωπος",
+          "thai": "หรือในพวกท่าน มีใครบ้าง",
+          "rationale": "ἤ opens new contrasting-hypothetical per uW grammar-connect-words-phrases. τίς interrogative 'who.' ἄνθρωπος generic-person (can be any-parent per uW figs-gendernotations). Thai 'ใครบ้าง' (who-among). Per uW figs-hypo introduces imaginary-situation."
+        },
+        {
+          "greek": "ὃν αἰτήσει ὁ υἱὸς αὐτοῦ ἄρτον",
+          "thai": "ที่เมื่อลูกขอขนมปังกับเขา",
+          "rationale": "Relative-clause with ὄν 'whom' — deliberate 'greek-like' word-order. ἄρτος (bread) → ขนมปัง (Thai standard). αἰτέω fut-act-ind 'will-ask.' υἱός 'son' — per uW figs-gendernotations used-inclusively for any child; Thai 'ลูก' is naturally-gender-inclusive so matches uW alt 'child.' NEW GLOSSARY: ἄρτος → ขนมปัง; υἱός (child-generic) → ลูก; (Jesus-Son-of-God) → พระบุตร."
+        },
+        {
+          "greek": "μὴ λίθον ἐπιδώσει αὐτῷ",
+          "thai": "เขาจะเอาก้อนหินให้ลูก?",
+          "rationale": "μή with indicative = expected-answer-negative rhetorical-question per uW figs-rquestion. Thai '?' preserves question-form. λίθος → ก้อนหิน (stone — note: the similarity between bread-loaves and round-stones in Palestine is part of the jest: they LOOK similar but one is inedible). ἐπιδίδωμι (compound ἐπί+δίδωμι 'hand-over/give-to') → เอา...ให้ (standard Thai for 'give-to')."
+        }
+      ],
+      "notes": "Rhetorical-question #1 of the parenting-analogy-pair (vv.9-10). Cultural-context: round-flat Palestinian bread-loaves closely resemble flat-stones in shape-and-color — parent giving a stone would be mocking the hungry child. The 'no parent would do this' assumed-answer provides premise for kal-va-chomer argument of v.11. Jesus addresses the crowd with plural pwakthan 'of you.'"
+    }
+  },
+  {
+    "reference": "Matthew 7:10",
+    "chapter": 7,
+    "verse": 10,
+    "greek": "ἢ καὶ ἰχθὺν αἰτήσει μὴ ὄφιν ἐπιδώσει αὐτῷ;",
+    "bsb_english": "Or if he asks for a fish, will give him a snake?",
+    "translation": {
+      "thai": "หรือเมื่อลูกขอปลา เขาจะเอางูให้ลูก?",
+      "thai_literal": "หรือ และ ปลา จะขอ ไม่ งู เขาจะมอบให้ แก่เขา",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ἢ καὶ ἰχθὺν αἰτήσει",
+          "thai": "หรือเมื่อลูกขอปลา",
+          "rationale": "ἤ + καί 'or-also' introduces second-parallel-example per uW grammar-connect-words-phrases. Subject 'son' supplied from v.9 since Greek ellipsis per uW figs-hypo. ἰχθύς → ปลา (Thai standard). NEW GLOSSARY: ἰχθύς → ปลา."
+        },
+        {
+          "greek": "μὴ ὄφιν ἐπιδώσει αὐτῷ",
+          "thai": "เขาจะเอางูให้ลูก?",
+          "rationale": "μή + future-indicative = negative-answer-expected per uW figs-rquestion. ὄφις → งู (snake — Thai standard). Cultural-context per uW figs-explicit: snake is non-food in Jewish-cultures (unclean per Lev 11:41-42). Per uW the fish/snake pair may trade on visual-similarity (eel-like fish vs. snake). NEW GLOSSARY: ὄφις → งู."
+        }
+      ],
+      "notes": "Rhetorical-question #2 completing the parenting-analogy-pair. A parent giving a snake would not only deny the food-request but potentially-endanger (venom, uncleanness). Cultural-parallel with v.9: like bread/stone visual-similarity, eel-fish/snake share elongated-body-shape. Jesus accumulates impossibility-of-evil-parental-response to prepare the kal-va-chomer (how-much-more) argument of v.11."
+    }
+  },
+  {
+    "reference": "Matthew 7:11",
+    "chapter": 7,
+    "verse": 11,
+    "greek": "εἰ οὖν ὑμεῖς πονηροὶ ὄντες οἴδατε δόματα ἀγαθὰ διδόναι τοῖς τέκνοις ὑμῶν,πόσῳ μᾶλλον ὁ πατὴρ ὑμῶν ὁ ἐν τοῖς οὐρανοῖς δώσει ἀγαθὰ τοῖς αἰτοῦσιν αὐτόν.",
+    "bsb_english": "So if you who are evil know how to give good gifts to your children, how much more will your Father in heaven give good things to those who ask Him!",
+    "translation": {
+      "thai": "ฉะนั้น ถ้าพวกท่านซึ่งเป็นคนชั่วยังรู้จักให้สิ่งดีแก่ลูกของตน ยิ่งกว่านั้นสักเท่าใด พระบิดาของพวกท่านผู้สถิตในสวรรค์จะประทานสิ่งดีแก่ผู้ที่ทูลขอต่อพระองค์!",
+      "thai_literal": "ถ้า ดังนั้น พวกท่าน คนชั่ว เป็นอยู่ พวกท่านรู้จัก ของดี สิ่งดี การให้ แก่ลูกทั้งหลาย ของพวกท่าน ยิ่งกว่าสักเท่าใด พระบิดา ของพวกท่าน ผู้ ใน สวรรค์ทั้งหลาย จะประทาน สิ่งดี แก่ผู้ที่ขอ พระองค์",
+      "thai_summary": "ข้อนี้ใช้หลักเหตุผลแบบยิวที่เรียกว่า 'คัล วา-โคเมอร์' (kal va-chomer) คือ 'ถ้าน้อย...ยิ่งกว่ามาก' ถ้าบิดามารดาที่ยังมีบาปยังรู้จักให้สิ่งดีแก่ลูก พระบิดาในสวรรค์ผู้ทรงบริสุทธิ์ยิ่งจะประทานสิ่งดียิ่งกว่ามากมายสักเท่าใด คำว่า 'สิ่งดี' ในข้อนี้ ลูกา 11:13 แทนด้วย 'พระวิญญาณบริสุทธิ์' — ของประทานสูงสุด",
+      "key_decisions": [
+        {
+          "greek": "εἰ οὖν ὑμεῖς πονηροὶ ὄντες",
+          "thai": "ฉะนั้น ถ้าพวกท่านซึ่งเป็นคนชั่ว",
+          "rationale": "εἰ conditional-of-real-case per uW grammar-connect-condition-fact — 'since' (treated as factual not hypothetical). οὖν inferential 'therefore.' πονηροί nom-pl-masc 'evil.' ὄντες pres-ptc 'being.' Per uW grammar-connect-logic-contrast: 'being evil' is the unexpected-backdrop against which parents still give good gifts. Thai 'ซึ่งเป็นคนชั่ว' (who are evil-ones) preserves moral-contrast."
+        },
+        {
+          "greek": "οἴδατε δόματα ἀγαθὰ διδόναι τοῖς τέκνοις ὑμῶν",
+          "thai": "ยังรู้จักให้สิ่งดีแก่ลูกของตน",
+          "rationale": "οἶδα perf-with-present-force 'know-how-to.' δόματα ἀγαθά 'good gifts' cognate-construction with διδόναι. Thai 'สิ่งดี' (good-things — δόμα δίδωμι-cognate reduction to 'good-things-given'). τέκνον → ลูก (child — same as υἱός in v.9 neutralizes gender per uW)."
+        },
+        {
+          "greek": "πόσῳ μᾶλλον ὁ πατὴρ ὑμῶν ὁ ἐν τοῖς οὐρανοῖς",
+          "thai": "ยิ่งกว่านั้นสักเท่าใด พระบิดาของพวกท่านผู้สถิตในสวรรค์",
+          "rationale": "πόσῳ μᾶλλον 'how-much-more' — classic Jewish kal-va-chomer (lesser-to-greater) argument-form. Thai 'ยิ่งกว่านั้นสักเท่าใด' (how-much-more-than-that). πατὴρ ὁ ἐν τοῖς οὐρανοῖς → พระบิดาผู้สถิตในสวรรค์ (established Matt 5:16, 5:45, 6:1, 6:9 etc. — Matthean-signature-phrase)."
+        },
+        {
+          "greek": "δώσει ἀγαθὰ τοῖς αἰτοῦσιν αὐτόν",
+          "thai": "จะประทานสิ่งดีแก่ผู้ที่ทูลขอต่อพระองค์",
+          "rationale": "δώσει fut-act 'will-give' — divine-subject requires royal-register: ประทาน (royally-give). αἰτέω articular-ptc 'the-ones-asking.' Prayer-context + divine-addressee → Thai 'ทูลขอ' (humble-address-verb). αὐτόν → พระองค์ (royal 2sg for God). GLOSSARY CONTEXTUAL-VARIANT: αἰτέω → ทูลขอ (when prayer-to-God) vs ขอ (general-asking)."
+        }
+      ],
+      "notes": "Climactic kal-va-chomer argument completing vv.7-11 ask-seek-knock unit. πονηροί is not absolute 'wicked' but comparative 'sinful-by-contrast-with-divine-goodness' — recognizable human-fallibility. Luke 11:13-parallel substitutes πνεῦμα ἅγιον for ἀγαθά — Luke's interpretive expansion making explicit what Matthew keeps generic ('good-things'). God's willingness-to-give exceeds even the best earthly parent's. ADDED TO nt_ot_citations.json: MAT 7:11 — thematic allusions PSA 84:11 LXX (no-good-thing-will-he-withhold) + ISA 49:15 (can-a-mother-forget-her-nursing-child)."
+    }
+  },
+  {
+    "reference": "Matthew 7:12",
+    "chapter": 7,
+    "verse": 12,
+    "greek": "Πάντα οὖν ὅσα ἐὰν θέλητε ἵνα ποιῶσιν ὑμῖν οἱ ἄνθρωποι,οὕτως καὶ ὑμεῖς ποιεῖτε αὐτοῖς·οὗτος γάρ ἐστιν ὁ νόμος καὶ οἱ προφῆται.",
+    "bsb_english": "In everything, then, do to others as you would have them do to you. For this is the essence of the Law and the Prophets.",
+    "translation": {
+      "thai": "เหตุฉะนั้น ทุกสิ่งที่พวกท่านปรารถนาให้ผู้อื่นทำแก่พวกท่าน ก็จงทำอย่างนั้นแก่เขาด้วย เพราะนี่คือธรรมบัญญัติและคำของผู้เผยพระวจนะ",
+      "thai_literal": "ทุกสิ่ง ดังนั้น เท่าที่ ก็ตาม พวกท่านปรารถนา ที่ พวกเขาทำ แก่พวกท่าน คนทั้งหลาย ดังนั้น และ พวกท่าน จงทำ แก่พวกเขา นี่ เพราะ คือ ธรรมบัญญัติ และ คำของผู้เผยพระวจนะทั้งหลาย",
+      "thai_summary": "หลักการทองคำ (Golden Rule) ของพระเยซู ในรูปยืนยันซึ่งต่างจากยิว-ฮิลเลลและโทบิต 4:15 ที่กล่าวในรูปปฏิเสธว่า 'สิ่งใดที่เจ้าเกลียด อย่าทำแก่ผู้อื่น' ถ้อยคำยืนยันของพระเยซูเรียกร้องการกระทำสิ่งที่ดีอย่างจริงจัง ไม่ใช่เพียงหลีกเลี่ยงการทำผิด 'ธรรมบัญญัติและคำของผู้เผยพระวจนะ' คือชื่อเรียกพระคัมภีร์ฮีบรู — พระเยซูทรงสรุปทั้งหมดว่า รักเพื่อนบ้านเหมือนรักตนเอง (เลวีนิติ 19:18 + เฉลยธรรมบัญญัติ 6:5)",
+      "key_decisions": [
+        {
+          "greek": "Πάντα οὖν ὅσα ἐὰν θέλητε ἵνα ποιῶσιν ὑμῖν οἱ ἄνθρωποι",
+          "thai": "เหตุฉะนั้น ทุกสิ่งที่พวกท่านปรารถนาให้ผู้อื่นทำแก่พวกท่าน",
+          "rationale": "οὖν inferential 'therefore' — per uW grammar-connect-logic-result introduces conclusion of Matt 5:15-7:11. Πάντα ὅσα ἐάν 'all whatever-things' with iterative-ἐάν. θέλητε pres-act-subj-2pl 'you-wish.' ἵνα ποιῶσιν... 'that they-do...' ἄνθρωποι gender-inclusive per uW figs-gendernotations → 'ผู้อื่น' (others) — the hearers collectively."
+        },
+        {
+          "greek": "οὕτως καὶ ὑμεῖς ποιεῖτε αὐτοῖς",
+          "thai": "ก็จงทำอย่างนั้นแก่เขาด้วย",
+          "rationale": "οὕτως (thus/so) + καὶ ὑμεῖς 'also-you-yourselves' — reciprocity-marker. ποιεῖτε pres-act-impv-2pl 'keep-doing.' Thai 'ก็จงทำอย่างนั้น...ด้วย' preserves reciprocity-particle ด้วย (also)."
+        },
+        {
+          "greek": "οὗτος γάρ ἐστιν ὁ νόμος καὶ οἱ προφῆται",
+          "thai": "เพราะนี่คือธรรมบัญญัติและคำของผู้เผยพระวจนะ",
+          "rationale": "ὁ νόμος (Law) → ธรรมบัญญัติ (established Matt 5:17 Thai-Christian-standard). οἱ προφῆται (Prophets) per uW figs-metonymy 'the-writings-of-the-prophets' → Thai 'คำของผู้เผยพระวจนะ' (word-of-prophets — preserves metonymic-sense). Per uW translate-names: Law+Prophets = proper-name-of-Hebrew-Scripture-canon. Per uW figs-explicit: Jesus means his command summarizes what the Law and Prophets require."
+        }
+      ],
+      "notes": "The GOLDEN RULE — possibly the most-famous sentence in the Sermon-on-the-Mount. Jesus frames it positive ('do-to-others') — stronger than Hillel's negative form (b. Shabbat 31a 'what-is-hateful-to-you, do-not-do-to-your-fellow') or Tobit 4:15 LXX ('what-you-yourself-hate, to-no-man-do'). Positive-form requires proactive-good-action, not merely restraint. 'Law-and-the-Prophets' = Hebrew-Scriptures-canon (divided Law [Torah]+Prophets [Nevi'im]); Jesus claims his love-of-neighbor summary captures whole-canon-in-practice. Parallels Matt 22:40 where Jesus says the Great-Commandment (Deut 6:5 + Lev 19:18) 'the whole Law and Prophets hang on.' ADDED TO nt_ot_citations.json: MAT 7:12 — composite_summary LEV 19:18 + DEUT 6:5 (love-neighbor + love-God as covenant-summary) + intertestamental-parallel TOB 4:15 (negative-golden-rule) and Hillel Shabbat 31a rabbinic-negative-form."
+    }
+  },
+  {
+    "reference": "Matthew 7:13",
+    "chapter": 7,
+    "verse": 13,
+    "greek": "Εἰσέλθατε διὰ τῆς στενῆς πύλης·ὅτι πλατεῖα ἡ πύλη καὶ εὐρύχωρος ἡ ὁδὸς ἡ ἀπάγουσα εἰς τὴν ἀπώλειαν,καὶ πολλοί εἰσιν οἱ εἰσερχόμενοι δι᾽ αὐτῆς·",
+    "bsb_english": "Enter through the narrow gate. For wide is the gate and broad is the way that leads to destruction, and many enter through it.",
+    "translation": {
+      "thai": "จงเข้าไปทางประตูแคบ เพราะประตูนั้นกว้างและทางนั้นกว้างขวางซึ่งนำไปสู่ความพินาศ และมีคนเป็นอันมากที่เข้าทางนั้น",
+      "thai_literal": "จงเข้าไป ผ่าน ประตู แคบ เพราะ กว้าง ประตู และ กว้างขวาง ทาง ซึ่ง นำไป สู่ ความพินาศ และ คนมากมาย คือ ผู้ที่เข้าไป ผ่าน มัน",
+      "thai_summary": "ภาพสองทาง (two ways) สะท้อนประเพณีปัญญายิวในเฉลยธรรมบัญญัติ 30:19 (เลือกชีวิตหรือความตาย) เยเรมีย์ 21:8 สุภาษิต 4:18-19 และสดุดี 1 (ทางคนชอบธรรม vs ทางคนอธรรม) HAPAX: εὐρύχωρος 'กว้างขวาง' ปรากฏเพียงครั้งเดียวในพันธสัญญาใหม่ — เสริมว่าเส้นทางที่ง่ายและสบายจะนำไปสู่ความพินาศ",
+      "key_decisions": [
+        {
+          "greek": "Εἰσέλθατε διὰ τῆς στενῆς πύλης",
+          "thai": "จงเข้าไปทางประตูแคบ",
+          "rationale": "εἰσέρχομαι aor-act-impv-2pl 'enter' (ingressive-aorist). στενός 'narrow' → แคบ. πύλη (gate) → ประตู. Per uW figs-exmetaphor: metaphor of life-journey as passing-through-gate and traveling-on-road. NEW GLOSSARY: πύλη → ประตู; στενός → แคบ; εἰσέρχομαι → เข้าไป."
+        },
+        {
+          "greek": "ὅτι πλατεῖα ἡ πύλη καὶ εὐρύχωρος ἡ ὁδὸς",
+          "thai": "เพราะประตูนั้นกว้างและทางนั้นกว้างขวาง",
+          "rationale": "ὅτι causal 'because.' πλατύς 'wide' → กว้าง. εὐρύχωρος HAPAX (only here NT, compound εὐρύς+χῶρος 'broad-space-room') → กว้างขวาง (spacious/roomy — preserves the spaciousness-added-to-width contrast). ὁδός → ทาง (way/road). NEW GLOSSARY: πλατύς → กว้าง; εὐρύχωρος → กว้างขวาง (HAPAX); ὁδός → ทาง."
+        },
+        {
+          "greek": "ἡ ἀπάγουσα εἰς τὴν ἀπώλειαν",
+          "thai": "ซึ่งนำไปสู่ความพินาศ",
+          "rationale": "ἀπάγω pres-act-ptc-fem-sg 'leading-away.' ἀπώλεια → ความพินาศ (destruction — per uW figs-abstractnouns can flatten to 'being-destroyed' but abstract noun-form works in Thai). NEW GLOSSARY: ἀπώλεια → ความพินาศ; ἀπάγω → นำไปสู่."
+        },
+        {
+          "greek": "καὶ πολλοί εἰσιν οἱ εἰσερχόμενοι δι᾽ αὐτῆς",
+          "thai": "และมีคนเป็นอันมากที่เข้าทางนั้น",
+          "rationale": "πολλοί nominal-adjective 'many-people' per uW figs-nominaladj → 'คนเป็นอันมาก' (many-people). εἰσερχόμενοι pres-mid-ptc 'ones-entering.' δι᾽ αὐτῆς 'through-it' (referring to gate)."
+        }
+      ],
+      "notes": "Opens the narrow/wide gate-way metaphor-block (vv.13-14). The 'two ways' motif is foundational OT wisdom-theology: Deut 30:19 (life vs death), Ps 1 (way-of-righteous vs way-of-wicked), Prov 4:18-19 (path-of-justice vs way-of-darkness), Jer 21:8 (way-of-life vs way-of-death). Also prominent in intertestamental literature (1 Enoch, Qumran 1QS 3-4) and early-church-catechesis (Didache 1-6). HAPAX εὐρύχωρος attention-grabbing-choice emphasizing ease-of-destruction-path. Per uW translate-textvariants at v.14: MSS split between ὅτι-reading and τί-reading, SBLGNT follows ὅτι majority with strong external support — we follow SBLGNT. ADDED TO nt_ot_citations.json: MAT 7:13 — thematic_allusion DEU 30:19 (two-ways life/death) + JER 21:8 (way-of-life/death) + PSA 1:6 (way-of-wicked-perishes)."
+    }
+  },
+  {
+    "reference": "Matthew 7:14",
+    "chapter": 7,
+    "verse": 14,
+    "greek": "ὅτι στενὴ ἡ πύλη καὶ τεθλιμμένη ἡ ὁδὸς ἡ ἀπάγουσα εἰς τὴν ζωήν,καὶ ὀλίγοι εἰσὶν οἱ εὑρίσκοντες αὐτήν.",
+    "bsb_english": "But small is the gate and narrow the way that leads to life, and only a few find it.",
+    "translation": {
+      "thai": "เพราะประตูแคบและทางก็คับแคบซึ่งนำไปสู่ชีวิต และน้อยคนนักที่จะพบทางนั้น",
+      "thai_literal": "เพราะ แคบ ประตู และ ถูกทำให้คับ ทาง ซึ่ง นำไป สู่ ชีวิต และ คนน้อย คือ ผู้ที่พบ มัน",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ὅτι στενὴ ἡ πύλη καὶ τεθλιμμένη ἡ ὁδὸς",
+          "thai": "เพราะประตูแคบและทางก็คับแคบ",
+          "rationale": "TEXTUAL VARIANT per uW translate-textvariants: ὅτι ('for/because'-causal) SBLGNT ℵ B reading — our basis. Alternative τί ('how' — exclamation) in fewer MSS. We follow SBLGNT ὅτι matching BSB 'But small is the gate.' τεθλιμμένη perf-pass-ptc-fem-sg of θλίβω 'press / crush / constrict' — literally 'having-been-made-narrow.' Thai 'คับแคบ' (cramped-narrow — adds intensification beyond simple แคบ to preserve the THLIBW-force of active constriction). NEW GLOSSARY: θλίβω → ทำให้คับแคบ (make-constricted)."
+        },
+        {
+          "greek": "ἡ ἀπάγουσα εἰς τὴν ζωήν",
+          "thai": "ซึ่งนำไปสู่ชีวิต",
+          "rationale": "Parallel construction with v.13 but ζωή instead of ἀπώλεια. Per uW figs-explicit: ζωή implies eternal-life (as explicitly noted by Jesus elsewhere). ζωή → ชีวิต (Thai standard). We follow ULT convention of keeping 'life' without explicit 'eternal' modifier since context makes it clear. NEW GLOSSARY: ζωή → ชีวิต."
+        },
+        {
+          "greek": "καὶ ὀλίγοι εἰσὶν οἱ εὑρίσκοντες αὐτήν",
+          "thai": "และน้อยคนนักที่จะพบทางนั้น",
+          "rationale": "ὀλίγοι nominal-adj 'few-people' per uW figs-nominaladj → 'น้อยคนนัก' (very-few-people). Pronoun αὐτήν fem-sg per uW writing-pronouns could refer to (1) gate-and-road both, (2) road only, or (3) gate only — Thai 'ทางนั้น' (that way) preserves general-ambiguity by using ทาง which can cover both gate-and-road concepts."
+        }
+      ],
+      "notes": "Parallel to v.13, contrasting narrow-gate/life vs wide-gate/destruction. τεθλιμμένη perfect-passive-participle emphasizes the path has been actively-constricted (by God per uW figs-activepassive interpretation). Note Matthew's distinctive claim: few find 'it' — requiring both discovery and entrance. This saying shares Q-material with Luke 13:24 though Luke uses ἀγωνίζεσθε 'strive-to-enter' rather than directly-parallel two-gates-structure. ADDED TO nt_ot_citations.json: MAT 7:14 — thematic_allusion PRO 4:18-19 (path-of-righteous/wicked) + PRO 14:12 (there-is-a-way-that-seems-right-but-leads-to-death)."
+    }
+  },
+  {
+    "reference": "Matthew 7:15",
+    "chapter": 7,
+    "verse": 15,
+    "greek": "Προσέχετε ἀπὸ τῶν ψευδοπροφητῶν,οἵτινες ἔρχονται πρὸς ὑμᾶς ἐν ἐνδύμασι προβάτων ἔσωθεν δέ εἰσιν λύκοι ἅρπαγες.",
+    "bsb_english": "Beware of false prophets. They come to you in sheep\u2019s clothing, but inwardly they are ravenous wolves.",
+    "translation": {
+      "thai": "จงระวังผู้เผยพระวจนะเท็จ ซึ่งมาหาพวกท่านในคราบของแกะ แต่ภายในเป็นสุนัขป่าที่ดุร้าย",
+      "thai_literal": "จงระวัง จาก ผู้เผยพระวจนะเท็จทั้งหลาย ผู้ซึ่ง ย่อมมา สู่พวกท่าน ใน เสื้อผ้าทั้งหลาย ของแกะทั้งหลาย ภายใน แต่ เป็น สุนัขป่าทั้งหลาย ที่ดุร้าย",
+      "thai_summary": "คำเตือนให้ระวังผู้เผยพระวจนะเท็จ ซึ่งปลอมตัวเป็น 'แกะ' (สัญลักษณ์ของประชากรของพระเจ้า สดุดี 100:3) แต่ภายในเป็นผู้ล่า ภาพสะท้อนเอเสเคียล 22:27 ที่ผู้นำของอิสราเอลถูกบรรยายว่าเป็น 'สุนัขป่าที่ฉีกเหยื่อ' และเยเรมีย์ 23 ที่ตำหนิผู้เผยพระวจนะเท็จ",
+      "key_decisions": [
+        {
+          "greek": "Προσέχετε ἀπὸ τῶν ψευδοπροφητῶν",
+          "thai": "จงระวังผู้เผยพระวจนะเท็จ",
+          "rationale": "προσέχω + ἀπό 'pay-attention-from / guard-against.' ψευδοπροφήτης (compound ψεύδος+προφήτης 'false-prophet') → ผู้เผยพระวจนะเท็จ (Thai Christian standard for false-prophet). Thai 'จงระวัง' (beware/be-on-guard). NEW GLOSSARY: ψευδοπροφήτης → ผู้เผยพระวจนะเท็จ; προσέχω ἀπό → จงระวัง."
+        },
+        {
+          "greek": "οἵτινες ἔρχονται πρὸς ὑμᾶς ἐν ἐνδύμασι προβάτων",
+          "thai": "ซึ่งมาหาพวกท่านในคราบของแกะ",
+          "rationale": "οἵτινες general-relative 'the-sort-who.' ἔνδυμα → คราบ/เครื่องแต่งกาย. Here 'คราบ' (disguise/outward-appearance) captures the Thai idiom 'ในคราบของ' (in-the-disguise-of) per uW figs-explicit = disguising-oneself-as. πρόβατον → แกะ (sheep — Thai standard). NEW GLOSSARY: ἔνδυμα → คราบ/เสื้อผ้า; πρόβατον → แกะ."
+        },
+        {
+          "greek": "ἔσωθεν δέ εἰσιν λύκοι ἅρπαγες",
+          "thai": "แต่ภายในเป็นสุนัขป่าที่ดุร้าย",
+          "rationale": "ἔσωθεν 'from-within / inwardly' → ภายใน. λύκος → สุนัขป่า (wolf — Thai compound 'forest-dog' standard biblical term; หมาป่า casual register). ἅρπαξ 'ravenous/rapacious' → ดุร้าย (fierce/savage — matches sense of predator-on-hunt). Per uW figs-explicit: ἅρπαγες means 'wanting to capture and eat other animals.' NEW GLOSSARY: λύκος → สุนัขป่า; ἅρπαξ → ดุร้าย."
+        }
+      ],
+      "notes": "Opens the fruits-metaphor block (vv.15-20). False-prophets = persistent OT concern (Deut 13:1-5 test-of-prophet; Jer 23; Ezek 13; Mic 3:5-7). λύκος/πρόβατον pair activates pastoral/messianic imagery (Good-Shepherd-theme, John 10:12 where ὁ λύκος scatters sheep). ἔνδυμα-προβάτων 'sheep's-clothing' literal idiomatic possibilities include wool-garments (prophetic-attire 2 Kgs 1:8 Elijah) or metaphorical disguise. 'Wolf-in-sheep's-clothing' becomes proverbial English-phrase from this verse. ADDED TO nt_ot_citations.json: MAT 7:15 — thematic_allusions EZK 22:27 LXX (princes-as-wolves-tearing-prey) + JER 23:16 (false-prophets) + DEU 13:1-5 (test-of-prophet)."
+    }
+  },
+  {
+    "reference": "Matthew 7:16",
+    "chapter": 7,
+    "verse": 16,
+    "greek": "ἀπὸ τῶν καρπῶν αὐτῶν ἐπιγνώσεσθε αὐτούς.μήτι συλλέγουσιν ἀπὸ ἀκανθῶν σταφυλὰς ἢ ἀπὸ τριβόλων σῦκα;",
+    "bsb_english": "By their fruit you will recognize them. Are grapes gathered from thornbushes, or figs from thistles?",
+    "translation": {
+      "thai": "พวกท่านจะรู้จักเขาได้ด้วยผลของเขา เขาเก็บองุ่นจากพุ่มหนามได้หรือ? หรือเก็บมะเดื่อจากไม้หนาม?",
+      "thai_literal": "จาก ผลทั้งหลาย ของพวกเขา พวกท่านจะรู้จัก พวกเขา ไม่ใช่หรือ พวกเขาเก็บ จาก พุ่มหนามทั้งหลาย องุ่นทั้งหลาย หรือ จาก ไม้หนามทั้งหลาย มะเดื่อทั้งหลาย",
+      "thai_summary": "ภาพเปรียบต้นไม้ที่เกิดผลสะท้อนปัญญายิว — สดุดี 1 เปรียบคนชอบธรรมเป็น 'ต้นไม้ปลูกริมธารน้ำที่ออกผลตามฤดูกาล' อิสยาห์ 5 เปรียบอิสราเอลเป็นสวนองุ่นที่เกิดผลเปรี้ยว หลักการคือ การกระทำ (ผล) เป็นหลักฐานของความเป็นจริงภายใน ไม่ใช่คำพูด",
+      "key_decisions": [
+        {
+          "greek": "ἀπὸ τῶν καρπῶν αὐτῶν ἐπιγνώσεσθε αὐτούς",
+          "thai": "พวกท่านจะรู้จักเขาได้ด้วยผลของเขา",
+          "rationale": "ἐπιγινώσκω (compound ἐπί+γινώσκω 'fully-know / recognize') fut-mid-ind-2pl → 'รู้จัก' (recognize/come-to-know). καρπός → ผล (fruit — established Matt 3:10, 12:33). Per uW writing-pronouns: 'their-fruits/them' refers primarily to false-prophets of v.15 but principle-extends to any-person. ἀπό instrumental-source 'from/by-means-of.' NEW GLOSSARY: καρπός → ผล; ἐπιγινώσκω → รู้จัก (compound-intensifier-recognize vs γινώσκω simple-know)."
+        },
+        {
+          "greek": "μήτι συλλέγουσιν ἀπὸ ἀκανθῶν σταφυλὰς",
+          "thai": "เขาเก็บองุ่นจากพุ่มหนามได้หรือ?",
+          "rationale": "μήτι interrogative-particle with expected-negative-answer per uW figs-rquestion. συλλέγω 'gather-together' → เก็บ. ἄκανθα → พุ่มหนาม (thornbush — Thai standard for thorny-plant). σταφυλή → องุ่น (grape — Thai standard). Thai '...ได้หรือ?' preserves rhetorical-impossibility-expected-negative. NEW GLOSSARY: ἄκανθα → พุ่มหนาม; σταφυλή → องุ่น; συλλέγω → เก็บ."
+        },
+        {
+          "greek": "ἢ ἀπὸ τριβόλων σῦκα",
+          "thai": "หรือเก็บมะเดื่อจากไม้หนาม?",
+          "rationale": "Per uW figs-parallelism: second-question reinforces first via same-meaning in different vocabulary. τρίβολος (thistles — rare, f=2 NT only here + Heb 6:8) → ไม้หนาม (thorny-plant — distinguished slightly from ἄκανθα by using different Thai term). σῦκον → มะเดื่อ (fig — Thai standard). NEW GLOSSARY: τρίβολος → ไม้หนาม; σῦκον → มะเดื่อ."
+        }
+      ],
+      "notes": "Opens the fruits-metaphor (vv.16-20) applying the test from the false-prophets warning (v.15). The thornbush/grape and thistle/fig pairs are stock Jewish wisdom-contrasts (cf. Jdg 9:8-15 Jotham's fable where thorns-do-not-bear-grapes-or-figs is implicit). τρίβολος/ἄκανθα synonymous use typical-of-Hebrew-poetic-parallelism. ἐπιγινώσκω compound strengthens the γινώσκω root — 'truly-recognize / come-to-fully-know' — matches Jesus's promise of discernment. ADDED TO nt_ot_citations.json: MAT 7:16 — thematic_allusion ISA 5:1-7 (vineyard-expects-grapes-yields-wild-grapes) + PSA 1:3 (righteous-as-fruit-bearing-tree) + JDG 9:8-15 (Jotham's-fable thornbush-not-ruling-fruit-trees)."
+    }
+  },
+  {
+    "reference": "Matthew 7:17",
+    "chapter": 7,
+    "verse": 17,
+    "greek": "οὕτως πᾶν δένδρον ἀγαθὸν καρποὺς καλοὺς ποιεῖ,τὸ δὲ σαπρὸν δένδρον καρποὺς πονηροὺς ποιεῖ·",
+    "bsb_english": "Likewise, every good tree bears good fruit, but a bad tree bears bad fruit.",
+    "translation": {
+      "thai": "เช่นเดียวกัน ต้นไม้ดีทุกต้นย่อมเกิดผลดี แต่ต้นไม้เน่าย่อมเกิดผลเลว",
+      "thai_literal": "อย่างนั้น ทุก ต้นไม้ ดี ผลทั้งหลาย ดี ย่อมเกิด แต่ เน่า ต้นไม้ ผลทั้งหลาย เลว ย่อมเกิด",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "οὕτως πᾶν δένδρον ἀγαθὸν καρποὺς καλοὺς ποιεῖ",
+          "thai": "เช่นเดียวกัน ต้นไม้ดีทุกต้นย่อมเกิดผลดี",
+          "rationale": "οὕτως 'likewise/in-this-way' transitions from vv.16-question-rhetoric to vv.17-declarative-principle. δένδρον → ต้นไม้ (tree — Thai standard). ἀγαθός vs καλός paired distinction: ἀγαθός 'good-morally/intrinsically' (nature of tree) vs καλός 'good-in-appearance/quality' (nature of fruit) — Thai collapses both into ดี since Thai ดี covers both semantic-ranges; distinction documented in notes. ποιέω 'produces' gnomic-present → 'ย่อมเกิด' (habitually-produces — using ย่อม for gnomic-aspect). NEW GLOSSARY: δένδρον → ต้นไม้; ἀγαθός → ดี; καλός → ดี (when referring to fruit-quality)."
+        },
+        {
+          "greek": "τὸ δὲ σαπρὸν δένδρον καρποὺς πονηροὺς ποιεῖ",
+          "thai": "แต่ต้นไม้เน่าย่อมเกิดผลเลว",
+          "rationale": "σαπρός (rotten/decayed) → เน่า (Thai standard). Per uW figs-genericnoun: 'the-rotten-tree' represents-rotten-trees-in-general. πονηρός → เลว (bad/evil-fruit — in this context 'bad-for-eating' quality rather than moral-evil, though metaphor-plays-on-both-senses). NEW GLOSSARY: σαπρός → เน่า; πονηρός (non-moral-bad-quality) → เลว (contextual-variant vs standard ชั่ว for moral-evil)."
+        }
+      ],
+      "notes": "Restates v.16 principle in declarative-form. ἀγαθός/καλός fine distinction: ἀγαθός = inherent-goodness, καλός = good-qualities-observable. Jesus pairs them: 'good-nature-of-tree' + 'good-quality-of-fruit.' Same contrastive logic with σαπρός/πονηρός. The universal-quantifier πᾶν 'every' extends the principle without-exception. The declaration introduces the impossibility-principle of v.18."
+    }
+  },
+  {
+    "reference": "Matthew 7:18",
+    "chapter": 7,
+    "verse": 18,
+    "greek": "οὐ δύναται δένδρον ἀγαθὸν καρποὺς πονηροὺς ποιεῖν,οὐδὲ δένδρον σαπρὸν καρποὺς καλοὺς ποιεῖν.",
+    "bsb_english": "A good tree cannot bear bad fruit, and a bad tree cannot bear good fruit.",
+    "translation": {
+      "thai": "ต้นไม้ดีจะเกิดผลเลวไม่ได้ และต้นไม้เน่าจะเกิดผลดีไม่ได้",
+      "thai_literal": "ไม่ ย่อมสามารถ ต้นไม้ ดี ผลทั้งหลาย เลว การเกิด และไม่ ต้นไม้ เน่า ผลทั้งหลาย ดี การเกิด",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "οὐ δύναται δένδρον ἀγαθὸν καρποὺς πονηροὺς ποιεῖν",
+          "thai": "ต้นไม้ดีจะเกิดผลเลวไม่ได้",
+          "rationale": "δύναμαι + infinitive = 'be-able-to.' Negative-impossibility-assertion — Thai 'ไม่ได้' (can-not / is-impossible). Same ἀγαθός/πονηρός rendering as v.17."
+        },
+        {
+          "greek": "οὐδὲ δένδρον σαπρὸν καρποὺς καλοὺς ποιεῖν",
+          "thai": "และต้นไม้เน่าจะเกิดผลดีไม่ได้",
+          "rationale": "οὐδέ 'and-not' with ellipsis of δύναται per uW figs-ellipsis — Thai implicit negative-ability by 'ไม่ได้.' Mirror-image-parallel to first clause."
+        }
+      ],
+      "notes": "Impossibility-principle doubling the v.17 declaration into absolute-law-of-nature. The chiastic-parallelism (good-tree/bad-fruit || bad-tree/good-fruit) reinforces the inner-outer correspondence Jesus is applying to false-prophets. The saying is natural-theology argument — just-as-botany-behaves this-way, so human-action flows from human-nature."
+    }
+  },
+  {
+    "reference": "Matthew 7:19",
+    "chapter": 7,
+    "verse": 19,
+    "greek": "πᾶν δένδρον μὴ ποιοῦν καρπὸν καλὸν ἐκκόπτεται καὶ εἰς πῦρ βάλλεται.",
+    "bsb_english": "Every tree that does not bear good fruit is cut down and thrown into the fire.",
+    "translation": {
+      "thai": "ต้นไม้ทุกต้นที่ไม่เกิดผลดีย่อมถูกโค่นและโยนทิ้งในไฟ",
+      "thai_literal": "ทุก ต้นไม้ ไม่ เกิด ผล ดี ย่อมถูกโค่น และ สู่ ไฟ ย่อมถูกโยน",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "πᾶν δένδρον μὴ ποιοῦν καρπὸν καλὸν ἐκκόπτεται καὶ εἰς πῦρ βάλλεται",
+          "thai": "ต้นไม้ทุกต้นที่ไม่เกิดผลดีย่อมถูกโค่นและโยนทิ้งในไฟ",
+          "rationale": "Verbatim echo of MAT 3:10 (John-the-Baptist's warning) — same Greek-sentence-form, which Matthew deliberately repeats, showing Jesus's teaching-continuity with John. ἐκκόπτω → ถูกโค่น (established Matt 3:10 glossary). πῦρ → ไฟ (fire — Thai standard). βάλλω passive → ถูกโยน/โยนทิ้ง. ποιέω with καρπόν collective-noun per uW grammar-collectivenouns — Thai ผลดี naturally covers collective-sense. NEW GLOSSARY: πῦρ → ไฟ; βάλλω → โยน."
+        }
+      ],
+      "notes": "Near-verbatim repetition of MAT 3:10: 'πᾶν οὖν δένδρον μὴ ποιοῦν καρπὸν καλὸν ἐκκόπτεται καὶ εἰς πῦρ βάλλεται.' Only difference: John includes οὖν, Jesus omits. This deliberate-echo positions Jesus's Sermon-conclusion within the prophetic-judgment-tradition announced by John-the-Baptist — both speak the same eschatological-warning-formula. Per uW figs-activepassive: passives εκκόπτεται/βάλλεται = divine-passive, God as implicit-agent of final-judgment. ADDED TO nt_ot_citations.json: MAT 7:19 — self-echo MAT 3:10 + background_allusion ISA 10:33-34 (LORD-lopping-branches-burning) + EZK 31 (cedar-of-Lebanon cut-down)."
+    }
+  },
+  {
+    "reference": "Matthew 7:20",
+    "chapter": 7,
+    "verse": 20,
+    "greek": "ἄρα γε ἀπὸ τῶν καρπῶν αὐτῶν ἐπιγνώσεσθε αὐτούς.",
+    "bsb_english": "So then, by their fruit you will recognize them.",
+    "translation": {
+      "thai": "เหตุฉะนั้น พวกท่านจะรู้จักเขาได้ด้วยผลของเขา",
+      "thai_literal": "ดังนั้น แน่นอน จาก ผลทั้งหลาย ของพวกเขา พวกท่านจะรู้จัก พวกเขา",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ἄρα γε ἀπὸ τῶν καρπῶν αὐτῶν ἐπιγνώσεσθε αὐτούς",
+          "thai": "เหตุฉะนั้น พวกท่านจะรู้จักเขาได้ด้วยผลของเขา",
+          "rationale": "ἄρα γε inferential-particle-pair 'so-then/therefore' per uW grammar-connect-logic-result. Thai 'เหตุฉะนั้น' (conclusive-particle). Re-uses v.16 exact-clause ἀπὸ τῶν καρπῶν αὐτῶν ἐπιγνώσεσθε αὐτούς per uW figs-exmetaphor — inclusio-bracket marking 15-20 as unit."
+        }
+      ],
+      "notes": "Inclusio-closer for the fruits-metaphor-block (vv.15-20). Repetition of v.16's formula via ἄρα γε 'therefore' completes the argumentative loop: (v.15) warning-about-false-prophets → (v.16) fruits-identify → (vv.17-19) tree-principle → (v.20) return-to-fruits-identification. The doubled-inferential-particles ἄρα γε adds strong rhetorical-closure-emphasis."
+    }
+  },
+  {
+    "reference": "Matthew 7:21",
+    "chapter": 7,
+    "verse": 21,
+    "greek": "Οὐ πᾶς ὁ λέγων μοι·Κύριε κύριε εἰσελεύσεται εἰς τὴν βασιλείαν τῶν οὐρανῶν,ἀλλ᾽ὁ ποιῶν τὸ θέλημα τοῦ πατρός μου τοῦ ἐν τοῖς οὐρανοῖς.",
+    "bsb_english": "Not everyone who says to Me, \u2018Lord, Lord,\u2019 will enter the kingdom of heaven, but only he who does the will of My Father in heaven.",
+    "translation": {
+      "thai": "ไม่ใช่ทุกคนที่เรียกเราว่า ‹องค์พระผู้เป็นเจ้า องค์พระผู้เป็นเจ้า› จะได้เข้าในอาณาจักรสวรรค์ แต่ผู้ที่ประพฤติตามพระประสงค์ของพระบิดาของเราผู้สถิตในสวรรค์จะได้เข้า",
+      "thai_literal": "ไม่ ทุก ผู้ที่พูด แก่เรา องค์พระผู้เป็นเจ้า องค์พระผู้เป็นเจ้า จะเข้าไป สู่ อาณาจักร ของสวรรค์ทั้งหลาย แต่ ผู้ที่ทำ พระประสงค์ ของพระบิดา ของเรา ผู้ ใน สวรรค์ทั้งหลาย",
+      "thai_summary": "ข้อนี้เตือนว่าการสารภาพด้วยปากไม่เพียงพอ ต้องประพฤติตามพระประสงค์ของพระบิดาด้วย ภาพสะท้อนมาลาคี 1:6 'ถ้าเราเป็นบิดา ความนับถือของเราอยู่ที่ไหน?' การเรียก 'องค์พระผู้เป็นเจ้า' ซ้ำสองครั้งสื่อความเร่งรัดหรือการขอความเมตตา — แต่ถ้าไม่มีการเชื่อฟังเป็นหลักฐาน คำเรียกก็เปล่าประโยชน์",
+      "key_decisions": [
+        {
+          "greek": "Οὐ πᾶς ὁ λέγων μοι",
+          "thai": "ไม่ใช่ทุกคนที่เรียกเราว่า",
+          "rationale": "Οὐ πᾶς 'not-everyone' — partial-negation, allowing for 'some-who-say.' λέγων present-participle 'one-saying.' μοι 'to-me' — Jesus's royal self-reference using 'เรา' preserves established Sermon convention throughout Matt 5-6."
+        },
+        {
+          "greek": "Κύριε κύριε",
+          "thai": "‹องค์พระผู้เป็นเจ้า องค์พระผู้เป็นเจ้า›",
+          "rationale": "Reduplication-vocative per uW figs-reduplication — expresses urgent/repeated address. κύριος here as divine-address-to-Jesus → องค์พระผู้เป็นเจ้า (established Matt 4:7, 4:10 etc. for divine-title). Inner-quote ‹ › marks the quoted-cry within Jesus's speech."
+        },
+        {
+          "greek": "εἰσελεύσεται εἰς τὴν βασιλείαν τῶν οὐρανῶν",
+          "thai": "จะได้เข้าในอาณาจักรสวรรค์",
+          "rationale": "εἰσέρχομαι fut-mid-ind 'will-enter.' βασιλεία τῶν οὐρανῶν → อาณาจักรสวรรค์ (established Matt 3:2, 4:17 — Matthean-signature phrase)."
+        },
+        {
+          "greek": "ἀλλ᾽ ὁ ποιῶν τὸ θέλημα τοῦ πατρός μου τοῦ ἐν τοῖς οὐρανοῖς",
+          "thai": "แต่ผู้ที่ประพฤติตามพระประสงค์ของพระบิดาของเราผู้สถิตในสวรรค์จะได้เข้า",
+          "rationale": "ποιῶν articular-pres-ptc 'the-one-doing.' θέλημα → พระประสงค์ (established Matt 6:10 Lord's-Prayer). ὁ πατήρ μου τοῦ ἐν τοῖς οὐρανοῖς → พระบิดาของเราผู้สถิตในสวรรค์ (established). Per uW figs-ellipsis: 'will-enter' elliptically-supplied in second clause — Thai explicit 'จะได้เข้า' fills ellipsis. Royal 'เรา' for Jesus self-reference Divine-Sonship-title — Jesus's 'My Father' claim is distinctive per uW guidelines-sonofgodprinciples."
+        }
+      ],
+      "notes": "Opens the Lord-Lord judgment-block (vv.21-23). ὁ πατήρ μου 'My Father' is Jesus's distinctive-Christological claim — not 'your Father' as in Matt 5:16, 6:1. The title indicates special filial-relationship-of-Son-to-Father. Reduplication Κύριε-Κύριε (in next-verse-also) = urgency/desperation of the speakers. Jesus claims the authority to judge who enters the kingdom — extraordinary Messianic claim. ADDED TO nt_ot_citations.json: MAT 7:21 — thematic_allusion MAL 1:6 (if-Father-where-is-my-honor) + HOS 6:6 (mercy-not-sacrifice, deed-over-profession)."
+    }
+  },
+  {
+    "reference": "Matthew 7:22",
+    "chapter": 7,
+    "verse": 22,
+    "greek": "πολλοὶ ἐροῦσίν μοι ἐν ἐκείνῃ τῇ ἡμέρᾳ·Κύριε κύριε,οὐ τῷ σῷ ὀνόματι ἐπροφητεύσαμεν,καὶ τῷ σῷ ὀνόματι δαιμόνια ἐξεβάλομεν,καὶ τῷ σῷ ὀνόματι δυνάμεις πολλὰς ἐποιήσαμεν;",
+    "bsb_english": "Many will say to Me on that day, \u2018Lord, Lord, did we not prophesy in Your name, and in Your name drive out demons and perform many miracles?\u2019",
+    "translation": {
+      "thai": "ในวันนั้นคนเป็นอันมากจะกล่าวแก่เราว่า ‹องค์พระผู้เป็นเจ้า องค์พระผู้เป็นเจ้า ข้าพระองค์ทั้งหลายเผยพระวจนะในพระนามของพระองค์ ขับผีออกในพระนามของพระองค์ และทำการอัศจรรย์มากมายในพระนามของพระองค์มิใช่หรือ?›",
+      "thai_literal": "คนมากมาย จะพูด แก่เรา ใน นั้น วัน องค์พระผู้เป็นเจ้า องค์พระผู้เป็นเจ้า ไม่ ในพระนาม ของพระองค์ ข้าพระองค์ทั้งหลายเผยพระวจนะ และ ในพระนาม ของพระองค์ ผีทั้งหลาย ข้าพระองค์ทั้งหลายขับออก และ ในพระนาม ของพระองค์ การอัศจรรย์ทั้งหลาย มากมาย ข้าพระองค์ทั้งหลายทำ",
+      "thai_summary": "'ในวันนั้น' คือวันพิพากษาของพระเจ้า (วันแห่งพระเจ้าในอามอส 5:18 โยเอล 2:31 มาลาคี 4:1) คนที่ใช้พระนามพระเยซูทำการอัศจรรย์ใหญ่อาจไม่ได้รู้จักพระองค์จริง ๆ (ข้อ 23) — ของประทานเหนือธรรมชาติไม่ใช่หลักฐานความสัมพันธ์กับพระคริสต์ การอ้างในเยเรมีย์ 14:14 เตือนถึงผู้เผยพระวจนะเท็จที่อ้างพูด 'ในพระนามของเรา'",
+      "key_decisions": [
+        {
+          "greek": "πολλοὶ ἐροῦσίν μοι ἐν ἐκείνῃ τῇ ἡμέρᾳ",
+          "thai": "ในวันนั้นคนเป็นอันมากจะกล่าวแก่เราว่า",
+          "rationale": "πολλοί nominal-adj 'many-people' per uW figs-nominaladj. ἐκείνῃ τῇ ἡμέρᾳ 'that day' per uW figs-explicit = Day-of-Judgment/Day-of-the-Lord. Thai 'ในวันนั้น' preserves eschatological-ambiguity. Royal 'เรา' for Jesus's self-reference preserved."
+        },
+        {
+          "greek": "Κύριε κύριε",
+          "thai": "‹องค์พระผู้เป็นเจ้า องค์พระผู้เป็นเจ้า",
+          "rationale": "Reduplication-address per uW figs-reduplication — same form as v.21 preserved. Opens inner-quote ‹ for the false-disciples' speech (closes at end of their speech, still within Jesus's outer «)."
+        },
+        {
+          "greek": "οὐ τῷ σῷ ὀνόματι ἐπροφητεύσαμεν",
+          "thai": "ข้าพระองค์ทั้งหลายเผยพระวจนะในพระนามของพระองค์...มิใช่หรือ?",
+          "rationale": "οὐ + aorist-indicative rhetorical-question expecting affirmative-answer per uW figs-rquestion. Thai '...มิใช่หรือ?' preserves rhetorical-question-form. προφητεύω aor-act-ind-1pl → เผยพระวจนะ (established — 'prophesy'). τῷ σῷ ὀνόματι dative-of-means per uW figs-metonymy 'by-your-authority.' Thai 'ในพระนามของพระองค์' (in-your-royal-name) preserves name-metonymy with royal-register for addressee-Jesus. ข้าพระองค์ทั้งหลาย (humble-we) since addressing-divine-Jesus per RULES §3."
+        },
+        {
+          "greek": "καὶ τῷ σῷ ὀνόματι δαιμόνια ἐξεβάλομεν",
+          "thai": "ขับผีออกในพระนามของพระองค์",
+          "rationale": "δαιμόνιον → ผี (demon/evil-spirit — Thai standard). ἐκβάλλω aor-act-ind-1pl 'cast-out' → ขับออก (established Mark-exorcism-vocabulary). Triple-anaphora 'in-your-name...in-your-name...in-your-name' preserved. NEW GLOSSARY: δαιμόνιον → ผี (already established); ἐκβάλλω (exorcism-context) → ขับออก."
+        },
+        {
+          "greek": "καὶ τῷ σῷ ὀνόματι δυνάμεις πολλὰς ἐποιήσαμεν",
+          "thai": "และทำการอัศจรรย์มากมายในพระนามของพระองค์",
+          "rationale": "δύναμις 'power / mighty-deed / miracle' → การอัศจรรย์ (Thai standard for miracle). ποιέω aor-act-ind-1pl 'we-did' → ทำ. πολλάς 'many' → มากมาย. NEW GLOSSARY: δύναμις (miracle-sense) → การอัศจรรย์."
+        }
+      ],
+      "notes": "Triple-anaphora 'in-your-name' emphasizes the speakers' reliance on Jesus's authority. δύναμις = 'mighty-work/miracle' is distinct from σημεῖον 'sign' in Gospel-theology. The works listed (prophesy, exorcism, miracle) are the supernatural-gifts of Matt 10 and Acts — yet the speakers are REJECTED in v.23. Jesus teaches: charismatic-gifts ≠ saving-relationship. 'That day' is Matthew-eschatological-idiom for Final-Judgment (cf. Matt 24:36, 25:13). Addressing Jesus with divine-κύριε, the speakers are clearly-Christian-professors — but hollow ones. ADDED TO nt_ot_citations.json: MAT 7:22 — thematic_allusions AMO 5:18 + JOL 2:31 + MAL 4:1-5 (Day-of-Lord-judgment) + JER 14:14 (false-prophets-claim-LORD's-name) + JER 27:15 (prophesy-in-my-name-falsely)."
+    }
+  },
+  {
+    "reference": "Matthew 7:23",
+    "chapter": 7,
+    "verse": 23,
+    "greek": "καὶ τότε ὁμολογήσω αὐτοῖς ὅτι Οὐδέποτε ἔγνων ὑμᾶς·ἀποχωρεῖτε ἀπ᾽ἐμοῦ οἱ ἐργαζόμενοι τὴν ἀνομίαν.",
+    "bsb_english": "Then I will tell them plainly, \u2018I never knew you; depart from Me, you workers of lawlessness!\u2019",
+    "translation": {
+      "thai": "แล้วเราจะประกาศแก่เขาว่า ‹เราไม่เคยรู้จักพวกเจ้า จงไปเสียจากเรา พวกเจ้าผู้ประกอบการอธรรม›",
+      "thai_literal": "และ แล้ว เราจะประกาศ แก่พวกเขา ว่า ไม่เคย เรารู้จัก พวกเจ้า พวกเจ้าจงไปเสีย จาก เรา ผู้ที่ประกอบ ความอธรรม",
+      "thai_summary": "คำตัดสินของพระเยซูในวันพิพากษาอ้างจากสดุดี 6:8 ฉบับ LXX โดยตรง ที่กษัตริย์ดาวิดร้องให้พระเจ้าขับศัตรูของเขาว่า 'จงไปเสียจากเรา บรรดาผู้ประกอบการอธรรม' พระเยซูทรงใช้บทเพลงนี้ในฐานะผู้พิพากษาสูงสุด — อ้างสิทธิ์ในพระราชอาณาจักรที่แต่เดิมเป็นของพระเจ้าในพระคัมภีร์เดิม เป็นคำกล่าวอ้างคริสตวิทยาที่ชัดเจน",
+      "key_decisions": [
+        {
+          "greek": "καὶ τότε ὁμολογήσω αὐτοῖς",
+          "thai": "แล้วเราจะประกาศแก่เขาว่า",
+          "rationale": "τότε 'then.' ὁμολογέω fut-act-ind-1sg 'I-will-declare/confess-publicly' — juridical-declaration context. Thai 'ประกาศ' (publicly-declare/pronounce — judicial-verdict-register). Royal 'เรา' maintains Jesus's self-reference. NEW GLOSSARY: ὁμολογέω → ประกาศ (in judicial-declaration-context)."
+        },
+        {
+          "greek": "Οὐδέποτε ἔγνων ὑμᾶς",
+          "thai": "‹เราไม่เคยรู้จักพวกเจ้า",
+          "rationale": "Per uW figs-idiom: 'never-knew-you' = 'you-were-never-my-disciples.' Thai 'ไม่เคยรู้จัก' preserves the relational-knowing-idiom. Opens Jesus's verdict-quote ‹. Critical register-shift: Jesus addresses false-disciples with 'พวกเจ้า' (downgraded-2pl, non-honorific — matching RULES.md §3 where Jesus addresses adversaries with neutral/distancing register). Contrast vv.21-22 where speakers used ข้าพระองค์ทั้งหลาย (elevated-humble-self-reference) — Jesus returns the verdict with downgraded-'พวกเจ้า,' denying the relationship they presumed."
+        },
+        {
+          "greek": "ἀποχωρεῖτε ἀπ᾽ ἐμοῦ οἱ ἐργαζόμενοι τὴν ἀνομίαν",
+          "thai": "จงไปเสียจากเรา พวกเจ้าผู้ประกอบการอธรรม›",
+          "rationale": "DIRECT CITATION of Ps 6:8 LXX (ψ 6:9 LXX): 'ἀπόστητε ἀπ᾽ ἐμοῦ πάντες οἱ ἐργαζόμενοι τὴν ἀνομίαν.' Matthew/Jesus substitutes ἀποχωρέω (synonym of ἀπόστητε) but preserves οἱ ἐργαζόμενοι τὴν ἀνομίαν verbatim LXX. ἐργάζομαι → ประกอบ (work/practice — in moral-context). ἀνομία (lawlessness) → การอธรรม (established Matt 5:20 etc. — literally 'un-lawness / un-righteousness'). Closes verdict-quote ›. NEW GLOSSARY: ἀποχωρέω → ไปเสีย; ἀνομία → การอธรรม; ἐργάζομαι (moral-practice) → ประกอบ."
+        }
+      ],
+      "notes": "CRITICAL: Jesus's verdict is a near-verbatim QUOTATION from Psalm 6:8 LXX. In the Psalm, David cries out to God to drive-away his enemies; here Jesus speaks the same words as Judge — staking a Messianic-Christological claim that the role of divine-Judge belongs to Him. This is among the highest-Christology moments in the Sermon. The lexeme-substitution ἀπόστητε → ἀποχωρεῖτε is synonymous (both mean 'depart') — Matthew may be avoiding the ἀπο-στ- root that would share the root with ἀποστασία. Register-shift ข้าพระองค์ทั้งหลาย (speakers' humble-self) → พวกเจ้า (Jesus's demotive-address) is signature-theological-move: the presumed-relationship is denied. Contrast with Matt 25:34 where the Sheep are welcomed 'Come, you-blessed-of-my-Father' (δεῦτε οἱ εὐλογημένοι — honorific address). ADDED TO nt_ot_citations.json: MAT 7:23 — DIRECT citation PSA 6:8 LXX (depart-from-me workers-of-lawlessness) — lexeme-verbatim-match for οἱ ἐργαζόμενοι τὴν ἀνομίαν."
+    }
+  },
+  {
+    "reference": "Matthew 7:24",
+    "chapter": 7,
+    "verse": 24,
+    "greek": "Πᾶς οὖν ὅστις ἀκούει μου τοὺς λόγους τούτους καὶ ποιεῖ αὐτούς,ὁμοιωθήσεται ἀνδρὶ φρονίμῳ,ὅστις ᾠκοδόμησεν αὐτοῦ τὴν οἰκίαν ἐπὶ τὴν πέτραν.",
+    "bsb_english": "Therefore everyone who hears these words of Mine and acts on them is like a wise man who built his house on the rock.",
+    "translation": {
+      "thai": "เหตุฉะนั้น ทุกคนที่ได้ยินถ้อยคำเหล่านี้ของเราและประพฤติตาม จะเปรียบได้กับชายผู้มีปัญญาซึ่งสร้างบ้านของตนไว้บนศิลา",
+      "thai_literal": "ทุก ดังนั้น ผู้ซึ่ง ย่อมฟัง ของเรา ถ้อยคำเหล่านี้ และ ย่อมทำ พวกมัน จะเปรียบได้ แก่ชาย ผู้มีปัญญา ผู้ซึ่ง ได้สร้าง ของเขา บ้าน บน ศิลา",
+      "thai_summary": "ภาพบ้านสองหลัง (two builders) เป็นบทสรุปของคำเทศนาบนภูเขา การได้ยินอย่างเดียวไม่พอ — ต้องประพฤติตามด้วย 'ศิลา' ในที่นี้ไม่ใช่ก้อนหินวางบนดิน แต่คือชั้นหินแข็งใต้ดิน เป็นพื้นฐานที่มั่นคง ภาพนี้สะท้อนอิสยาห์ 28:16 'เราวางศิลาเป็นหลักในศิโยน...ผู้ที่วางใจจะไม่ต้องสะทกสะท้าน'",
+      "key_decisions": [
+        {
+          "greek": "Πᾶς οὖν ὅστις ἀκούει μου τοὺς λόγους τούτους καὶ ποιεῖ αὐτούς",
+          "thai": "เหตุฉะนั้น ทุกคนที่ได้ยินถ้อยคำเหล่านี้ของเราและประพฤติตาม",
+          "rationale": "οὖν inferential-conclusion per uW grammar-connect-logic-result — introduces final-analogy of Sermon (5:3-7:23). Πᾶς ὅστις 'everyone-who' universalizing. ἀκούει pres-act 'hears' + ποιεῖ 'does' = hearing-and-doing pair (Matthean-signature: hearers-only are condemned, doers are vindicated). 'μου τοὺς λόγους τούτους' per uW figs-explicit refers to the whole Sermon (5:3-7:23). Royal 'เรา' preserved. ποιέω here context-of-obedience → ประพฤติตาม (act-in-accordance — Thai idiom for obey-teaching)."
+        },
+        {
+          "greek": "ὁμοιωθήσεται ἀνδρὶ φρονίμῳ",
+          "thai": "จะเปรียบได้กับชายผู้มีปัญญา",
+          "rationale": "ὁμοιόω fut-pass-ind 'will-be-compared' per uW translate-tense — future-general-truth, Thai 'จะเปรียบได้กับ' (will-be-able-to-be-compared-to). ἀνήρ φρόνιμος → ชายผู้มีปัญญา (wise-man — per uW figs-gendernotations inclusive-of-women despite masculine-noun; Thai ชาย covers both as in typical-biblical-usage; ผู้มีปัญญา = 'one-who-has-wisdom'). NEW GLOSSARY: φρόνιμος → ผู้มีปัญญา (wise); ὁμοιόω → เปรียบ."
+        },
+        {
+          "greek": "ὅστις ᾠκοδόμησεν αὐτοῦ τὴν οἰκίαν ἐπὶ τὴν πέτραν",
+          "thai": "ซึ่งสร้างบ้านของตนไว้บนศิลา",
+          "rationale": "οἰκοδομέω aor-act-ind 'built' → สร้าง (Thai standard). οἰκία → บ้าน (house — Thai standard, same as Matt 5:15). πέτρα per uW figs-explicit = 'bedrock / solid-ground' not loose-stone → ศิลา (Thai-biblical standard for bedrock vs ก้อนหิน for loose-stone, cf. Matt 16:18 same word). αὐτοῦ τὴν οἰκίαν 'his house' → บ้านของตน (reflexive 'his-own'). NEW GLOSSARY: οἰκοδομέω → สร้าง; οἰκία → บ้าน; πέτρα → ศิลา."
+        }
+      ],
+      "notes": "Opens the two-builders parable (vv.24-27) — climactic-conclusion of the Sermon-on-the-Mount. 'These-words-of-mine' (μου τοὺς λόγους τούτους) refers the Sermon in total, making vv.24-27 the interpretive-frame for all of 5:3-7:23. The hearing-and-doing pair is Matthean-emphasis throughout (cf. 5:19, 13:23, 21:28-32). πέτρα (bedrock) vs ἄμμος (sand) of v.26 creates foundation-stability-contrast. Bedrock as messianic-foundation-image in Isa 28:16 (Matt 16:18 uses πέτρα again for Peter's-name-play over the Church-foundation). ADDED TO nt_ot_citations.json: MAT 7:24 — thematic_allusions ISA 28:16 (foundation-stone-in-Zion) + PRO 10:25 (righteous-endures-storm)."
+    }
+  },
+  {
+    "reference": "Matthew 7:25",
+    "chapter": 7,
+    "verse": 25,
+    "greek": "καὶ κατέβη ἡ βροχὴ καὶ ἦλθον οἱ ποταμοὶ καὶ ἔπνευσαν οἱ ἄνεμοι καὶ προσέπεσαν τῇ οἰκίᾳ ἐκείνῃ,καὶ οὐκ ἔπεσεν,τεθεμελίωτο γὰρ ἐπὶ τὴν πέτραν.",
+    "bsb_english": "The rain fell, the torrents raged, and the winds blew and beat against that house; yet it did not fall, because its foundation was on the rock.",
+    "translation": {
+      "thai": "ฝนตก น้ำหลาก และลมพัดกระหน่ำบ้านหลังนั้น แต่บ้านไม่พังทลาย เพราะตั้งรากอยู่บนศิลา",
+      "thai_literal": "และ ได้ลงมา ฝน และ ได้มาถึง แม่น้ำทั้งหลาย และ ได้พัด ลมทั้งหลาย และ ได้กระหน่ำ แก่บ้าน นั้น และ ไม่ ได้ล้ม ได้ถูกตั้งราก เพราะ บน ศิลา",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "καὶ κατέβη ἡ βροχὴ καὶ ἦλθον οἱ ποταμοὶ καὶ ἔπνευσαν οἱ ἄνεμοι",
+          "thai": "ฝนตก น้ำหลาก และลมพัด",
+          "rationale": "Triple-paratactic-sequence of aorist-indicatives = vivid storm-narration. βροχή (rain) → ฝน. ποταμός here 'torrents / flash-floods' → น้ำหลาก (flood-waters — natural Thai for rainy-season flash-flood, not river-per-se). ἄνεμος → ลม. πνέω → พัด. κατέβη 'came-down' → ตก (rain-fell). NEW GLOSSARY: βροχή → ฝน; ποταμός → น้ำหลาก (contextual-variant for torrent/flood vs standard แม่น้ำ for stationary-river); ἄνεμος → ลม; πνέω → พัด."
+        },
+        {
+          "greek": "καὶ προσέπεσαν τῇ οἰκίᾳ ἐκείνῃ",
+          "thai": "กระหน่ำบ้านหลังนั้น",
+          "rationale": "προσπίπτω 'fall-against / beat-against' per uW figs-explicit = 'blew-hard-and-stressed.' Thai 'กระหน่ำ' (beat-hard/pound) captures attack-force. หลังนั้น Thai-classifier for house. NEW GLOSSARY: προσπίπτω → กระหน่ำ."
+        },
+        {
+          "greek": "καὶ οὐκ ἔπεσεν, τεθεμελίωτο γὰρ ἐπὶ τὴν πέτραν",
+          "thai": "แต่บ้านไม่พังทลาย เพราะตั้งรากอยู่บนศิลา",
+          "rationale": "πίπτω aor-act 'fell.' Thai 'พังทลาย' (collapse — stronger than simple ล้ม for house-context). τεθεμελίωτο plupf-pass-ind 'had-been-founded' per uW figs-activepassive → Thai 'ตั้งราก' (established-foundation — plupf-aspect naturally rendered perfective). NEW GLOSSARY: θεμελιόω → ตั้งราก; πίπτω (of building) → พังทลาย."
+        }
+      ],
+      "notes": "Vivid storm-narration depicts the testing-of-foundation. Palestinian-climate: heavy winter-rains cause wadi-flash-floods, winds pound-walls. The pluperfect-passive τεθεμελίωτο emphasizes foundational-action in distant-past (built-then-tested-now). The three natural-forces (rain, flood, wind) = completeness of-testing. Parallels sapiential-OT imagery of testing-through-calamity (cf. Prov 10:25, Ezek 13:10-14). ADDED TO nt_ot_citations.json: MAT 7:25 — thematic_allusion EZK 13:10-14 (whitewashed-wall-swept-away) + PRO 12:7 (wicked-overthrown, righteous-endures)."
+    }
+  },
+  {
+    "reference": "Matthew 7:26",
+    "chapter": 7,
+    "verse": 26,
+    "greek": "καὶ πᾶς ὁ ἀκούων μου τοὺς λόγους τούτους καὶ μὴ ποιῶν αὐτοὺς ὁμοιωθήσεται ἀνδρὶ μωρῷ,ὅστις ᾠκοδόμησεν αὐτοῦ τὴν οἰκίαν ἐπὶ τὴν ἄμμον.",
+    "bsb_english": "But everyone who hears these words of Mine and does not act on them is like a foolish man who built his house on sand.",
+    "translation": {
+      "thai": "และทุกคนที่ได้ยินถ้อยคำเหล่านี้ของเราแต่ไม่ประพฤติตาม ก็จะเปรียบได้กับชายโง่เขลาซึ่งสร้างบ้านของตนไว้บนทราย",
+      "thai_literal": "และ ทุก ผู้ที่ฟัง ของเรา ถ้อยคำเหล่านี้ และ ไม่ ทำ พวกมัน จะเปรียบได้ แก่ชาย โง่เขลา ผู้ซึ่ง ได้สร้าง ของเขา บ้าน บน ทราย",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "καὶ πᾶς ὁ ἀκούων μου τοὺς λόγους τούτους καὶ μὴ ποιῶν αὐτοὺς",
+          "thai": "และทุกคนที่ได้ยินถ้อยคำเหล่านี้ของเราแต่ไม่ประพฤติตาม",
+          "rationale": "Mirror-image of v.24 with μή ποιῶν negating doing. Same phrase 'μου τοὺς λόγους τούτους' referring to whole Sermon per uW figs-explicit."
+        },
+        {
+          "greek": "ὁμοιωθήσεται ἀνδρὶ μωρῷ",
+          "thai": "ก็จะเปรียบได้กับชายโง่เขลา",
+          "rationale": "Parallel to v.24 ἀνδρὶ φρονίμῳ — inverted-adjective. μωρός → โง่เขลา (foolish — Thai compound 'dull-unwise,' stronger than simple โง่ for moral-folly). Per uW figs-gendernotations gender-inclusive despite masculine-noun. NEW GLOSSARY: μωρός → โง่เขลา."
+        },
+        {
+          "greek": "ὅστις ᾠκοδόμησεν αὐτοῦ τὴν οἰκίαν ἐπὶ τὴν ἄμμον",
+          "thai": "ซึ่งสร้างบ้านของตนไว้บนทราย",
+          "rationale": "Mirror-image of v.24's πέτρα with ἄμμος → ทราย (sand — Thai standard). Per uW translate-unknown: sand = shifting-loose-particles, unstable-foundation. NEW GLOSSARY: ἄμμος → ทราย."
+        }
+      ],
+      "notes": "Mirror-parallel to v.24. Structure-synkrisis: same-words, opposite-response, opposite-outcome. Jesus's rhetorical-symmetry emphasizes the binary-choice: hear-and-do vs hear-only. ἄμμος shifting-sand-foundation is standard-wisdom-symbol-of-instability (cf. Prov 10:25 where the wicked is uprooted). Both builders hear Jesus's words — the difference is response. Per uW figs-simile: the simile is about confidence-before-God's-judgment."
+    }
+  },
+  {
+    "reference": "Matthew 7:27",
+    "chapter": 7,
+    "verse": 27,
+    "greek": "καὶ κατέβη ἡ βροχὴ καὶ ἦλθον οἱ ποταμοὶ καὶ ἔπνευσαν οἱ ἄνεμοι καὶ προσέκοψαν τῇ οἰκίᾳ ἐκείνῃ,καὶ ἔπεσεν,καὶ ἦν ἡ πτῶσις αὐτῆς μεγάλη.",
+    "bsb_english": "The rain fell, the torrents raged, and the winds blew and beat against that house, and it fell\u2014and great was its collapse!\u201d",
+    "translation": {
+      "thai": "ฝนตก น้ำหลาก และลมพัดซัดกระหน่ำบ้านหลังนั้น บ้านก็พังทลายลง และการพังทลายของบ้านหลังนั้นใหญ่หลวงนัก»",
+      "thai_literal": "และ ได้ลงมา ฝน และ ได้มาถึง แม่น้ำทั้งหลาย และ ได้พัด ลมทั้งหลาย และ ได้กระแทก แก่บ้าน นั้น และ ได้ล้ม และ เคยเป็น การล้ม ของมัน ใหญ่",
+      "thai_summary": "คำปิดบทเทศนาเน้นภาพการพังทลายอย่างยิ่งใหญ่ 'การพังทลายใหญ่หลวงนัก' (πτῶσις μεγάλη) เป็นคำสุดท้ายของพระเยซู ไม่ใช่คำที่ผู้ฟังคาดหวัง — แต่เป็นคำที่ทำให้ผู้ฟังตกใจ เพราะเหตุว่าการไม่เชื่อฟังคำสอนพระเยซูไม่ใช่เรื่องเล็ก มีผลเสียที่ชัดเจนและยิ่งใหญ่ »ปิดเครื่องหมายคำพูดครอบคลุมคำสอนทั้งหมดของบทที่ 7 และจบคำเทศนาบนภูเขา",
+      "key_decisions": [
+        {
+          "greek": "καὶ κατέβη ἡ βροχὴ καὶ ἦλθον οἱ ποταμοὶ καὶ ἔπνευσαν οἱ ἄνεμοι",
+          "thai": "ฝนตก น้ำหลาก และลมพัด",
+          "rationale": "Verbatim parallel to v.25 — same storm-forces, different-outcome. Preserving exact-Thai-wording maintains rhetorical-symmetry."
+        },
+        {
+          "greek": "καὶ προσέκοψαν τῇ οἰκίᾳ ἐκείνῃ",
+          "thai": "ซัดกระหน่ำบ้านหลังนั้น",
+          "rationale": "προσκόπτω (beat-against / stumble-against) — slight variation from v.25's προσέπεσαν per uW figs-explicit express-idea-as-in-25. προσκόπτω has more violent-striking sense vs προσπίπτω's falling-against. Thai 'ซัดกระหน่ำ' adds ซัด (hurl/strike) to intensify beyond v.25's plain กระหน่ำ — mirrors Greek intensification. NEW GLOSSARY: προσκόπτω → ซัดกระหน่ำ."
+        },
+        {
+          "greek": "καὶ ἔπεσεν, καὶ ἦν ἡ πτῶσις αὐτῆς μεγάλη",
+          "thai": "บ้านก็พังทลายลง และการพังทลายของบ้านหลังนั้นใหญ่หลวงนัก»",
+          "rationale": "Climactic collapse-statement. πτῶσις (fall/collapse) noun → การพังทลาย (the-collapse). μεγάλη 'great' intensive → ใหญ่หลวงนัก (very-great — adds intensifier นัก for full-force). ἦν impf 'was' — narrative past-result. » closes the outer Sermon-on-the-Mount quote-block (opened at v.1 of this chapter; parallels Matt 5-6 convention of per-chapter-closing). NEW GLOSSARY: πτῶσις → การพังทลาย."
+        }
+      ],
+      "notes": "Climactic close of Jesus's Sermon-on-the-Mount. ἦν ἡ πτῶσις αὐτῆς μεγάλη = final-dramatic-sentence, stark-finality. Jesus ends not with blessing but with warning-of-collapse — mirror-image-counterbalance to Beatitudes-opening (Matt 5:3). The Sermon's architecture: beatitude-promises open it → collapse-warning closes it. Readers must choose. ADDED TO nt_ot_citations.json: MAT 7:27 — thematic_allusion PRO 12:7 (house-of-wicked-destroyed) + ISA 28:17 (hail-sweep-away-refuge-of-lies)."
+    }
+  },
+  {
+    "reference": "Matthew 7:28",
+    "chapter": 7,
+    "verse": 28,
+    "greek": "Καὶ ἐγένετο ὅτε ἐτέλεσεν ὁ Ἰησοῦς τοὺς λόγους τούτους,ἐξεπλήσσοντο οἱ ὄχλοι ἐπὶ τῇ διδαχῇ αὐτοῦ·",
+    "bsb_english": "When Jesus had finished saying these things, the crowds were astonished at His teaching,",
+    "translation": {
+      "thai": "เมื่อพระเยซูตรัสถ้อยคำเหล่านี้จบแล้ว ฝูงชนก็ตกตะลึงในคำสอนของพระองค์",
+      "thai_literal": "และ ได้เกิดขึ้น เมื่อ ได้เสร็จสิ้น พระเยซู ถ้อยคำเหล่านี้ ได้ถูกทำให้ตกตะลึง ฝูงชนทั้งหลาย บน คำสอน ของพระองค์",
+      "thai_summary": "สูตรปิดคำเทศนา 'Καὶ ἐγένετο ὅτε ἐτέลεσεν ὁ Ἰησοῦς...' (และเมื่อพระเยซูทรงกล่าวเสร็จแล้ว) ปรากฏ 5 ครั้งในมัทธิว (7:28; 11:1; 13:53; 19:1; 26:1) เป็นสัญลักษณ์ปิดคำเทศนาหลัก 5 บท ของมัทธิว ทำให้มัทธิวมีโครงสร้างคล้ายเปนทาทูก (Pentateuch 5 เล่มของโมเสส) — พระเยซูเป็นโมเสสคนใหม่ผู้ประกาศพระบัญญัติใหม่",
+      "key_decisions": [
+        {
+          "greek": "Καὶ ἐγένετο ὅτε ἐτέλεσεν ὁ Ἰησοῦς τοὺς λόγους τούτους",
+          "thai": "เมื่อพระเยซูตรัสถ้อยคำเหล่านี้จบแล้ว",
+          "rationale": "Καὶ ἐγένετο 'and-it-happened' = LXX-Hebraism (= וַיְהִי) narrative-transition-formula. ἐτέλεσεν 'finished/completed' → ตรัส...จบแล้ว (finished speaking — royal-register for Jesus's-speech ตรัส preserved). Per uW writing-endofstory: marks end of Sermon, natural Thai-ending-form. NEW GLOSSARY: τελέω → จบ/เสร็จสิ้น."
+        },
+        {
+          "greek": "ἐξεπλήσσοντο οἱ ὄχλοι",
+          "thai": "ฝูงชนก็ตกตะลึง",
+          "rationale": "ἐκπλήσσω impf-pass-ind-3pl 'were-astounded.' ὄχλος → ฝูงชน (crowd — Thai standard). Thai 'ตกตะลึง' (stunned/astonished — established Markan-vocabulary). NEW GLOSSARY: ἐκπλήσσω → ตกตะลึง; ὄχλος → ฝูงชน."
+        },
+        {
+          "greek": "ἐπὶ τῇ διδαχῇ αὐτοῦ",
+          "thai": "ในคำสอนของพระองค์",
+          "rationale": "διδαχή → คำสอน (teaching — Thai standard). Per uW figs-abstractnouns: διδαχή could mean (1) way-of-teaching or (2) content-of-teaching; Thai 'คำสอน' preserves ambiguity covering both. พระองค์ royal-2sg-for-Jesus. NEW GLOSSARY: διδαχή → คำสอน."
+        }
+      ],
+      "notes": "Narrator's-voice — outer Sermon « » has already closed at v.27, so vv.28-29 frame the sermon from outside. 'Καὶ ἐγένετο ὅτε ἐτέλεσεν' is Matthew's SIGNATURE formula marking end of each of his five major-discourses (7:28, 11:1, 13:53, 19:1, 26:1). This structural-marker supports the Pentateuch-echo thesis: Matthew's five-discourse arrangement mirrors Moses's five-books. Jesus thus presented as New-Moses announcing New-Law. ἐκπλήσσω imperfect-passive = ongoing-state-of-being-astounded — they were continuously-amazed. The crowds react not just to content but to authority-behind-it (v.29)."
+    }
+  },
+  {
+    "reference": "Matthew 7:29",
+    "chapter": 7,
+    "verse": 29,
+    "greek": "ἦν γὰρ διδάσκων αὐτοὺς ὡς ἐξουσίαν ἔχων καὶ οὐχ ὡς οἱ γραμματεῖς αὐτῶν.",
+    "bsb_english": "because He taught as one who had authority, and not as their scribes.",
+    "translation": {
+      "thai": "เพราะพระองค์ทรงสอนพวกเขาดุจผู้ทรงมีสิทธิอำนาจ หาเหมือนพวกธรรมาจารย์ของพวกเขาไม่",
+      "thai_literal": "เคย เพราะ ทรงสอน พวกเขา ดัง สิทธิอำนาจ ผู้มี และ ไม่ ดัง พวกธรรมาจารย์ ของพวกเขา",
+      "thai_summary": "ข้อสุดท้ายเปิดเผยเหตุผลที่ฝูงชนตกตะลึง พระเยซูไม่ได้สอนโดยอ้างอิงรัพบียิวคนก่อน (ดังธรรมเนียมธรรมาจารย์) แต่ทรงสอนด้วยสิทธิอำนาจของพระองค์เอง — 'เราบอกพวกท่าน' (ἐγὼ δὲ λέγω ὑμῖν) 6 ครั้งในบทที่ 5 พระองค์ไม่ได้อ้างโมเสส แต่ทรงยืนในตำแหน่งของโมเสส — เปิดเผยคริสตวิทยาของมัทธิวอย่างชัดเจน",
+      "key_decisions": [
+        {
+          "greek": "ἦν γὰρ διδάσκων αὐτοὺς",
+          "thai": "เพราะพระองค์ทรงสอนพวกเขา",
+          "rationale": "Periphrastic-imperfect ἦν + διδάσκων 'he-was-teaching' = continuous-past-action. Royal divine-register ทรงสอน (royally-teach). γάρ explanatory 'because/for' introducing reason per uW grammar-connect-logic-result. NEW GLOSSARY: διδάσκω → สอน (base); ทรงสอน (divine-subject)."
+        },
+        {
+          "greek": "ὡς ἐξουσίαν ἔχων",
+          "thai": "ดุจผู้ทรงมีสิทธิอำนาจ",
+          "rationale": "ὡς comparative 'as' → ดุจ (as-one-like-a/formal-literary). ἐξουσία 'authority' → สิทธิอำนาจ (Thai compound 'right-authority' biblical-standard, vs ambiguous อำนาจ alone which can mean raw-power). ἔχων pres-ptc 'having' + royal-divine-register ผู้ทรงมี. Per uW figs-abstractnouns: abstract-noun 'authority' preserved as Thai abstract-noun. NEW GLOSSARY: ἐξουσία → สิทธิอำนาจ."
+        },
+        {
+          "greek": "καὶ οὐχ ὡς οἱ γραμματεῖς αὐτῶν",
+          "thai": "หาเหมือนพวกธรรมาจารย์ของพวกเขาไม่",
+          "rationale": "Negative-contrast per uW figs-ellipsis 'not-as-their-scribes-taught-them.' γραμματεύς → พวกธรรมาจารย์ (scribe — established Matt 5:20, Mark-passim Thai-biblical-standard 'teachers-of-righteousness'). Thai literary-negation 'หา...ไม่' (not-at-all — emphatic-literary-negative). NEW GLOSSARY: γραμματεύς → ธรรมาจารย์."
+        }
+      ],
+      "notes": "Closes Matthew's framing of the Sermon (vv.28-29 narrator-voice). ἐξουσίαν ἔχων 'having-authority' = extraordinary-implicit-Christology: Jesus teaches not-by-derivation-from-prior-rabbis (scribal-method of citing-chain) but by his-own-inherent-authority. Scribes taught via authority-chain (R. X said in the name of R. Y said in the name of Moses...); Jesus's 'ἐγὼ δὲ λέγω ὑμῖν' of Matt 5:22,28,32,34,39,44 cuts-through the chain. The crowd's-astonishment (ἐξεπλήσσοντο) is not at ideas but at the speaker's-stance — which Matthew's Gospel will progressively-unfold as divine-Sonship. This closing-sentence prepares Matt 8-9's healing-miracles where Jesus demonstrates the same ἐξουσία concretely (cf. Matt 9:6 'the Son-of-Man has-authority on-earth to-forgive-sins,' 9:8 'God has given such authority to men')."
+    }
+  }
+]
