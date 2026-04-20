@@ -37,3 +37,9 @@ output/*/
 
 # Demo/scratch files
 output/translations/*_demo.json
+
+# Auto-regen BT prompt placeholders (regenerate when checks run; not source of truth)
+output/back_translations/*_PROMPT.md
+
+# Loop output
+logs/
