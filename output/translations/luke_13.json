@@ -1,0 +1,1237 @@
+[
+  {
+    "reference": "Luke 13:1",
+    "chapter": 13,
+    "verse": 1,
+    "greek": "Παρῆσαν δέ τινες ἐν αὐτῷ τῷ καιρῷ ἀπαγγέλλοντες αὐτῷ περὶ τῶν Γαλιλαίων ὧν τὸ αἷμα Πιλᾶτος ἔμιξεν μετὰ τῶν θυσιῶν αὐτῶν.",
+    "bsb_english": "At that time some of those present told Jesus about the Galileans whose blood Pilate had mixed with their sacrifices.",
+    "translation": {
+      "thai": "ในเวลานั้น มีบางคนมารายงานพระองค์เกี่ยวกับชาวกาลิลีที่ปีลาตเอาโลหิตของพวกเขามาปะปนกับเครื่องบูชาของพวกเขา",
+      "thai_literal": null,
+      "thai_summary": "ปีลาตเป็นผู้ว่าการชาวโรมันที่ครองยูเดียระหว่างปี ค.ศ. 26-36 ซึ่งขึ้นชื่อเรื่องความโหดร้ายต่อประชาชนชาวยิว ไม่มีบันทึกอื่นใดเกี่ยวกับเหตุการณ์นี้นอกจากที่ลูกาบันทึกไว้ การที่ทหารฆ่าชาวกาลิลีขณะกำลังถวายเครื่องบูชาที่พระวิหาร ถือเป็นการดูหมิ่นศักดิ์สิทธิ์อันร้ายแรง ผู้ที่มารายงานคงคาดหวังให้พระเยซูอธิบายว่าเหตุใดพระเจ้าจึงทรงยอมให้เกิดความอธรรมเช่นนี้",
+      "key_decisions": [
+        {
+          "greek": "Παρῆσαν δέ τινες ἐν αὐτῷ τῷ καιρῷ",
+          "thai": "ในเวลานั้น มีบางคน",
+          "rationale": "Imperfect-periphrastic 'there were present some' — Luke uses δέ + temporal phrase to continue the discourse from 12:54-59. Rendered naturally without 'present' redundancy."
+        },
+        {
+          "greek": "ἀπαγγέλλοντες",
+          "thai": "มารายงาน",
+          "rationale": "Present-active-participle of ἀπαγγέλλω (report/announce). 'มารายงาน' captures the reportage-to-Jesus nuance better than simple 'บอก'."
+        },
+        {
+          "greek": "τὸ αἷμα Πιλᾶτος ἔμιξεν μετὰ τῶν θυσιῶν αὐτῶν",
+          "thai": "ปีลาตเอาโลหิตของพวกเขามาปะปนกับเครื่องบูชาของพวกเขา",
+          "rationale": "Vivid metaphor-metonymy (uW notes): Pilate ordered Galileans killed while they were offering sacrifices, causing their blood to mingle with the sacrificial blood. Preserve the graphic imagery rather than paraphrasing to 'killed while sacrificing'."
+        },
+        {
+          "greek": "Πιλᾶτος",
+          "thai": "ปีลาต",
+          "rationale": "Standard Thai Christian transliteration of Pontius Pilate. First appearance in our Luke translation; consistent with Matt 27 / Mark 15 usage."
+        },
+        {
+          "greek": "Γαλιλαίων",
+          "thai": "ชาวกาลิลี",
+          "rationale": "Continuing from prior chapters. ชาว = 'people of' + กาลิลี (Galilee)."
+        },
+        {
+          "greek": "θυσιῶν",
+          "thai": "เครื่องบูชา",
+          "rationale": "Standard Thai Christian term for sacrificial offerings (animal-offerings brought to the temple). NEW establishment in our Luke translation."
+        }
+      ],
+      "notes": "Setting: transitions from ch.12's discourse. Historical context: Pilate (prefect 26-36 CE) had a reputation for cruelty toward Jewish religious practice (Josephus, Wars 2.169-177; Antiquities 18.55-62, 85-87). No extra-biblical record survives of this specific incident. Galileans traveling south to Jerusalem for festival sacrifices + Pilate's deployment of Roman soldiers with force — plausible scenario. Jesus's interlocutors likely come with a THEODICY-QUESTION embedded: 'were these Galileans punished by God for hidden sin?' OT CITATION (allusion): 2 Kings 16:3 + Ps 79:3 — innocent blood poured out in the holy place evokes the covenant-defilement imagery; Jeremiah 2:34 + Ezek 22:3-4 — innocent blood in Jerusalem as cause of exile. Luke deliberately frames vv.1-5 as Jesus subverting the retributive-theology assumption, turning the question back onto his listeners. Introduces the ch.13 theme: repentance-urgency before national-judgment, which anticipates the temple-destruction-oracle of 19:41-44. ADDED TO nt_ot_citations.json: LUK 13:1 (2 KGS 16:3 + PSA 79:3 + JER 2:34 + EZK 22:3-4 innocent-blood defilement cluster)."
+    }
+  },
+  {
+    "reference": "Luke 13:2",
+    "chapter": 13,
+    "verse": 2,
+    "greek": "καὶ ἀποκριθεὶς εἶπεν αὐτοῖς·Δοκεῖτε ὅτι οἱ Γαλιλαῖοι οὗτοι ἁμαρτωλοὶ παρὰ πάντας τοὺς Γαλιλαίους ἐγένοντο,ὅτι ταῦτα πεπόνθασιν;",
+    "bsb_english": "To this He replied, \"Do you think that these Galileans were worse sinners than all the other Galileans, because they suffered this way?",
+    "translation": {
+      "thai": "พระองค์ทรงตอบพวกเขาว่า «พวกท่านคิดว่าชาวกาลิลีเหล่านี้เป็นคนบาปมากกว่าชาวกาลิลีทั้งหมด เพราะพวกเขาต้องทนทุกข์เช่นนี้หรือ?",
+      "thai_literal": null,
+      "thai_summary": "ในความคิดของคนยิวสมัยนั้น ความทุกข์อันยิ่งใหญ่มักถูกตีความว่าเป็นการลงโทษจากพระเจ้าเพราะความบาป (ดูยอห์น 9:2) พระเยซูทรงใช้คำถามสวนกลับเพื่อกระตุ้นให้ผู้ฟังคิดทบทวนสมมติฐานของตน ก่อนที่จะทรงเปลี่ยนคำถามให้เป็นการเรียกร้องให้ทุกคนกลับใจ",
+      "key_decisions": [
+        {
+          "greek": "ἀποκριθεὶς εἶπεν",
+          "thai": "ทรงตอบ...ว่า",
+          "rationale": "Aorist-participle + indicative hendiadys 'answering said'. Divine subject → royal register ทรง + ตอบ + ว่า. Following Luke's established pattern."
+        },
+        {
+          "greek": "Δοκεῖτε ὅτι",
+          "thai": "พวกท่านคิดว่า...หรือ?",
+          "rationale": "Rhetorical question. Preserve interrogative form to maintain Jesus's pedagogical strategy (uW notes this could be flattened to a statement, but we preserve the question per §1 accuracy-over-naturalness when the question-form is load-bearing)."
+        },
+        {
+          "greek": "ἁμαρτωλοὶ παρὰ πάντας",
+          "thai": "เป็นคนบาปมากกว่า...ทั้งหมด",
+          "rationale": "παρά + accusative in comparative sense = 'more than'. ἁμαρτωλοί = sinners; standard Thai Christian term คนบาป (continuing glossary)."
+        },
+        {
+          "greek": "πεπόνθασιν",
+          "thai": "ต้องทนทุกข์",
+          "rationale": "Perfect-active of πάσχω (suffer). Perfect-tense here emphasizes the completed-and-now-enduring state of their suffering/death — 'have suffered (and are now in that state)'."
+        }
+      ],
+      "notes": "Jesus's counter-question directly challenges the retributive-theology reflex ('they must have been especially sinful to deserve this'). This same reflex surfaces in John 9:2 ('who sinned, this man or his parents?'). The assumption Jesus refuses here: that catastrophic suffering is a reliable index of proportional moral failure. Instead, Jesus will redirect to universal repentance-urgency (v.3). ἁμαρτωλοὶ παρὰ is a Semitic-flavored comparative ('sinners beyond all'); Luke's Greek consistently uses παρά-comparatives where classical Greek prefers μᾶλλον-ἤ."
+    }
+  },
+  {
+    "reference": "Luke 13:3",
+    "chapter": 13,
+    "verse": 3,
+    "greek": "οὐχί,λέγω ὑμῖν,ἀλλ’ἐὰν μὴ μετανοῆτε πάντες ὁμοίως ἀπολεῖσθε.",
+    "bsb_english": "No, I tell you. But unless you repent, you too will all perish.",
+    "translation": {
+      "thai": "เราบอกพวกท่านว่า ไม่ใช่เช่นนั้น แต่ถ้าพวกท่านไม่กลับใจ พวกท่านทุกคนก็จะพินาศเหมือนกัน",
+      "thai_literal": null,
+      "thai_summary": "พระเยซูทรงพลิกคำถามของคนเหล่านั้นให้กลายเป็นคำเตือนถึงตัวพวกเขาเอง คำว่า «พินาศเหมือนกัน» อาจชี้ถึงการถูกโรมันทำลายในอนาคต (ค.ศ. 70) ตามที่พระองค์ทรงพยากรณ์ไว้ในลูกา 19:41-44 ชนชาติที่ไม่กลับใจจะประสบชะตากรรมเช่นเดียวกับชาวกาลิลีที่ถูกปีลาตสังหาร",
+      "key_decisions": [
+        {
+          "greek": "οὐχί, λέγω ὑμῖν",
+          "thai": "เราบอกพวกท่านว่า ไม่ใช่เช่นนั้น",
+          "rationale": "Strong emphatic negation. Rearranged to Thai natural order: 'I tell you that it is not so' rather than 'No, I tell you'. Royal เรา preserves divine-self-reference."
+        },
+        {
+          "greek": "ἐὰν μὴ μετανοῆτε",
+          "thai": "ถ้าพวกท่านไม่กลับใจ",
+          "rationale": "Third-class conditional (subjunctive present) 'unless you repent'. μετανοέω = กลับใจ per RULES §4 glossary (continuing from Luke 3:3, 5:32, 10:13, 11:32)."
+        },
+        {
+          "greek": "ὁμοίως ἀπολεῖσθε",
+          "thai": "ก็จะพินาศเหมือนกัน",
+          "rationale": "ὁμοίως = 'likewise/similarly'; ἀπολεῖσθε = future-middle of ἀπόλλυμι 'will perish/be destroyed'. 'พินาศ' captures the total-destruction nuance."
+        }
+      ],
+      "notes": "Jesus's prophetic warning with national-level implication: uW notes v.3 parallels 19:41-44 where Jesus predicts Jerusalem's destruction due to failure to recognize the time of visitation. ὁμοίως in v.3 (vs. ὡσαύτως in v.5) is often treated as stylistic variation, but some scholars see 'likewise' in v.3 as pointing to violent-Roman-destruction (parallel to Pilate's sword) while 'in the same way' in v.5 points to sudden-catastrophic-fall (parallel to the tower). Both readings converge on: national-repentance averts national-catastrophe. Luke's central Travel-Narrative concern with urgent-now-decision intensifies here. Key-term μετανοέω is CENTRAL to Lukan theology (14 occurrences of verb + noun across Luke-Acts; cf. Acts 2:38, 3:19)."
+    }
+  },
+  {
+    "reference": "Luke 13:4",
+    "chapter": 13,
+    "verse": 4,
+    "greek": "ἢ ἐκεῖνοι οἱ δεκαοκτὼ ἐφ’οὓς ἔπεσεν ὁ πύργος ἐν τῷ Σιλωὰμ καὶ ἀπέκτεινεν αὐτούς,δοκεῖτε ὅτι αὐτοὶ ὀφειλέται ἐγένοντο παρὰ πάντας τοὺς ἀνθρώπους τοὺς κατοικοῦντας Ἰερουσαλήμ;",
+    "bsb_english": "Or those eighteen who were killed when the tower of Siloam collapsed on them: Do you think that they were more sinful than all the others living in Jerusalem?",
+    "translation": {
+      "thai": "หรือคนสิบแปดคนนั้น ที่หอคอยที่สิโลอัมล้มลงทับและฆ่าพวกเขา พวกท่านคิดว่าพวกเขามีความผิดมากกว่าคนทั้งปวงที่อาศัยในกรุงเยรูซาเล็มหรือ?",
+      "thai_literal": null,
+      "thai_summary": "สิโลอัมเป็นย่านทางทิศตะวันออกเฉียงใต้ของเยรูซาเล็ม ใกล้กับสระสิโลอัมอันมีชื่อเสียง เหตุการณ์หอคอยล้มทับคน 18 คนนี้ไม่มีบันทึกไว้ในประวัติศาสตร์ที่อื่น พระเยซูทรงยกตัวอย่างที่สองเพื่อแสดงว่าภัยพิบัติไม่ได้เป็นเครื่องชี้วัดระดับความบาปของเหยื่อ คำว่า «มีความผิด» (ὀφειλέται) ในภาษากรีกแปลตรงตัวคือ «ลูกหนี้» ซึ่งเป็นภาพเปรียบเทียบของความผิดบาป",
+      "key_decisions": [
+        {
+          "greek": "οἱ δεκαοκτὼ",
+          "thai": "คนสิบแปดคน",
+          "rationale": "Substantivized adjective 'the eighteen'. 'คน...คน' is natural Thai classifier-bracket for a specific enumerated group."
+        },
+        {
+          "greek": "πύργος ἐν τῷ Σιλωὰμ",
+          "thai": "หอคอยที่สิโลอัม",
+          "rationale": "πύργος = tower (NEW establishment). Σιλωάμ = สิโลอัม per standard Thai Christian transliteration (Silo'am). The tower was likely part of Jerusalem's southern wall fortifications near the Pool of Siloam (uW notes)."
+        },
+        {
+          "greek": "ἔπεσεν...καὶ ἀπέκτεινεν",
+          "thai": "ล้มลงทับและฆ่า",
+          "rationale": "Aorist sequence 'fell on and killed'. 'ล้มลงทับ' (fell-down-press/crush) captures the physical event; 'ฆ่า' captures the result."
+        },
+        {
+          "greek": "ὀφειλέται",
+          "thai": "มีความผิด",
+          "rationale": "Lit. 'debtors' (uW note: figurative for sinners; cf. Matt 6:12 'forgive our debts' where debt = sin). 'มีความผิด' captures the guilt-sense. Contextual rendering vs. literal 'ลูกหนี้' because Thai reader needs the moral-debt metaphor to land; documented rationale in thai_summary."
+        },
+        {
+          "greek": "ἀνθρώπους τοὺς κατοικοῦντας Ἰερουσαλήμ",
+          "thai": "คนทั้งปวงที่อาศัยในกรุงเยรูซาเล็ม",
+          "rationale": "ἀνθρώπους used in gender-inclusive generic sense (uW figs-gendernotations). 'คนทั้งปวง' covers both sexes; 'ที่อาศัยใน' renders κατοικοῦντας (residing)."
+        }
+      ],
+      "notes": "HAPAX LEGOMENON-adjacent: πύργος appears several times in NT (e.g., Mark 12:1 parable-tower, Luke 14:28) but this specific Siloam-tower is unique historical reference. Siloam (שִׁלֹחַ, 'sent') = aqueduct/pool region in southern Jerusalem; some propose the tower was part of Herodian waterworks construction (Josephus mentions Pilate diverting temple funds for aqueduct work — possible connection). Incident is otherwise unrecorded. ὀφειλέται (debtors) is a FIGURATIVE rendering of sin-as-debt common in Jewish-Aramaic idiom (Aramaic ḥōb = 'debt/sin'; cf. Matt 6:12 ὀφειλήματα for sins vs Luke 11:4 ἁμαρτίας). Jesus deliberately varies the vocabulary between v.2 (ἁμαρτωλοί) and v.4 (ὀφειλέται) to drive home that the underlying reality (need for repentance) is the same regardless of how suffering befalls a person. uW KEY-POINT: both examples — violent death (Galileans by Pilate) and accidental death (tower collapse) — are leveled by the same universal call."
+    }
+  },
+  {
+    "reference": "Luke 13:5",
+    "chapter": 13,
+    "verse": 5,
+    "greek": "οὐχί,λέγω ὑμῖν,ἀλλ’ἐὰν μὴ μετανοῆτε πάντες ὡσαύτως ἀπολεῖσθε.",
+    "bsb_english": "No, I tell you. But unless you repent, you too will all perish.\"",
+    "translation": {
+      "thai": "เราบอกพวกท่านว่า ไม่ใช่เช่นนั้น แต่ถ้าพวกท่านไม่กลับใจ พวกท่านทุกคนก็จะพินาศทำนองเดียวกัน»",
+      "thai_literal": null,
+      "thai_summary": "พระเยซูทรงย้ำคำเตือนเดิมด้วยการใช้คำที่ต่างออกไปเล็กน้อย (ὡσαύτως แทน ὁμοίως) คำว่า «ทำนองเดียวกัน» ในที่นี้ชี้ถึงการพินาศอย่างฉับพลันและคาดไม่ถึง เช่นเดียวกับหอคอยสิโลอัมที่ล้มทับคนโดยไม่มีการเตือน การซ้ำคำเตือนนี้เน้นความเร่งด่วนของการกลับใจ",
+      "key_decisions": [
+        {
+          "greek": "ὡσαύτως",
+          "thai": "ทำนองเดียวกัน",
+          "rationale": "ὡσαύτως differs from ὁμοίως of v.3 in nuance: 'in this same way' (more specific correspondence to the manner of the example). uW notes comparison-detail: this time the people were not destroyed by the Romans, so the comparison emphasizes the sudden-catastrophic-destruction-pattern rather than a specific manner. 'ทำนองเดียวกัน' differentiates from 'เหมือนกัน' in v.3."
+        },
+        {
+          "greek": "»",
+          "thai": "»",
+          "rationale": "Close the quote-block that opened at v.2."
+        }
+      ],
+      "notes": "Bookend-parallelism with v.3 using a deliberate synonym-variation (ὁμοίως → ὡσαύτως). Lukan rhetorical emphasis: same message delivered twice, once per example, seals the universal-repentance-call. Some textual witnesses have ὁμοίως in v.5 too (harmonization to v.3), but SBLGNT/NA28 retain ὡσαύτως as the harder reading. The bookend-structure drives the transition to the fig-tree parable (vv.6-9) which dramatizes the mercy-and-urgency-in-tension dynamic."
+    }
+  },
+  {
+    "reference": "Luke 13:6",
+    "chapter": 13,
+    "verse": 6,
+    "greek": "Ἔλεγεν δὲ ταύτην τὴν παραβολήν.Συκῆν εἶχέν τις πεφυτευμένην ἐν τῷ ἀμπελῶνι αὐτοῦ,καὶ ἦλθεν ζητῶν καρπὸν ἐν αὐτῇ καὶ οὐχ εὗρεν.",
+    "bsb_english": "Then Jesus told this parable: \"A man had a fig tree that was planted in his vineyard. He went to look for fruit on it but did not find any.",
+    "translation": {
+      "thai": "แล้วพระองค์ตรัสคำอุปมาเรื่องนี้ว่า «ชายคนหนึ่งมีต้นมะเดื่อที่ปลูกไว้ในสวนองุ่นของตน เขาก็มาหาผลจากต้นนั้นแต่ไม่พบ",
+      "thai_literal": null,
+      "thai_summary": "ต้นมะเดื่อเป็นสัญลักษณ์ของประชากรอิสราเอลในพระคัมภีร์เดิมหลายแห่ง (โฮเชยา 9:10; เยเรมีย์ 8:13; มีคาห์ 7:1) การที่เจ้าของต้องการผลจากต้นมะเดื่อในสวนองุ่นคือภาพของพระเจ้าที่ทรงคาดหวังผลแห่งความชอบธรรมจากชนชาติของพระองค์ การไม่พบผลจึงหมายถึงการไม่พบการกลับใจและการดำเนินชีวิตที่ถวายเกียรติแด่พระเจ้า",
+      "key_decisions": [
+        {
+          "greek": "παραβολήν",
+          "thai": "คำอุปมา",
+          "rationale": "Standard Thai Christian rendering (continuing glossary). Parable = illustrative story."
+        },
+        {
+          "greek": "Συκῆν",
+          "thai": "ต้นมะเดื่อ",
+          "rationale": "συκῆ = fig tree. 'ต้นมะเดื่อ' is the standard Thai biblical rendering (matches Matt 21:19, Mark 11:13 usage in our prior chapters and Thai Christian tradition)."
+        },
+        {
+          "greek": "πεφυτευμένην ἐν τῷ ἀμπελῶνι",
+          "thai": "ที่ปลูกไว้ในสวนองุ่น",
+          "rationale": "Perfect-passive-participle 'having-been-planted'. ἀμπελών = สวนองุ่น (continuing). uW notes: planting a fig tree inside a vineyard was common agricultural practice — fig trees grew well with the vines, and the owner benefited from both crops."
+        },
+        {
+          "greek": "ἦλθεν ζητῶν καρπὸν",
+          "thai": "เขาก็มาหาผล",
+          "rationale": "Aorist + present-participle 'came seeking fruit'. Natural Thai: 'มาหาผล'. Note this is human-subject (not divine), so no royal register."
+        }
+      ],
+      "notes": "The fig-tree-in-vineyard parable is unique to Luke (no Synoptic parallel, though it thematically echoes Mark 11:12-14,20-25 / Matt 21:18-22 fig-tree-withering, which is a different tradition). OT INTERTEXTUAL BACKGROUND: fig tree as symbol of Israel — Hos 9:10 (God finding fathers as first-ripe fig), Mic 7:1 (no first-ripe fig), Jer 8:13 (no grapes on vine, no figs on fig tree = national judgment), Joel 1:7. Isaiah's Song of the Vineyard (Isa 5:1-7) provides the vineyard-as-Israel framework. BSB's 'Jesus told' adds 'Jesus' to the subject (Greek says only ἔλεγεν 'he was saying'); we preserve ambiguity with 'ทรง' + ตรัส (divine-royal) since the narrator-context makes clear it's Jesus. 'ชายคนหนึ่ง' (a certain man) = τις, common Lukan parable-opener. ADDED TO nt_ot_citations.json: LUK 13:6 (HOS 9:10 + MIC 7:1 + JER 8:13 + JOL 1:7 fig-tree-Israel cluster + ISA 5:1-7 vineyard-Israel framework)."
+    }
+  },
+  {
+    "reference": "Luke 13:7",
+    "chapter": 13,
+    "verse": 7,
+    "greek": "εἶπεν δὲ πρὸς τὸν ἀμπελουργόν·Ἰδοὺ τρία ἔτη ἀφ’οὗ ἔρχομαι ζητῶν καρπὸν ἐν τῇ συκῇ ταύτῃ καὶ οὐχ εὑρίσκω·ἔκκοψον αὐτήν·ἱνατί καὶ τὴν γῆν καταργεῖ;",
+    "bsb_english": "So he said to the keeper of the vineyard, 'Look, for the past three years I have come to search for fruit on this fig tree and haven't found any. Therefore cut it down! Why should it use up the soil?'",
+    "translation": {
+      "thai": "เขาจึงพูดกับคนทำสวนองุ่นว่า ‹ดูเถิด สามปีแล้วที่เรามาหาผลจากต้นมะเดื่อนี้ แต่ไม่พบเลย จงโค่นมันทิ้งเสีย ทำไมจึงปล่อยให้มันทำให้ดินเสียเปล่าเล่า?›",
+      "thai_literal": null,
+      "thai_summary": "สามปีเป็นเวลาที่ต้นมะเดื่ออายุโตพอที่จะให้ผลตามคาดแล้ว (ธรรมบัญญัติในเลวีนิติ 19:23-25 กำหนดว่าผลในสี่ปีแรกของต้นไม้ผลไม่สามารถนำมาบริโภคได้) ดังนั้นการที่เจ้าของมาหาผลสามปีแล้วไม่พบ แสดงถึงความอดทนที่ยืดเยื้อเกินเวลาปกติแล้ว ต้นไม้ที่ไม่มีผลไม่เพียงไม่ได้ประโยชน์ แต่ยังแย่งธาตุอาหารในดินจากพืชอื่น",
+      "key_decisions": [
+        {
+          "greek": "ἀμπελουργόν",
+          "thai": "คนทำสวนองุ่น",
+          "rationale": "HAPAX LEGOMENON ἀμπελουργός (ἄμπελος vine + ἔργον work = 'vineyard-worker'). Classical and LXX usage confirms 'vine-dresser/vineyard-worker' sense. 'คนทำสวนองุ่น' captures the function; rendering is natural Thai."
+        },
+        {
+          "greek": "Ἰδοὺ",
+          "thai": "ดูเถิด",
+          "rationale": "Attention-marker; Semitism via LXX הִנֵּה. 'ดูเถิด' is the established Thai biblical-register rendering (continuing)."
+        },
+        {
+          "greek": "τρία ἔτη ἀφ’ οὗ",
+          "thai": "สามปีแล้วที่",
+          "rationale": "'three years from when' — Thai natural: 'สามปีแล้วที่เรามา...' (three years that I have come)."
+        },
+        {
+          "greek": "ἔκκοψον αὐτήν",
+          "thai": "จงโค่นมันทิ้งเสีย",
+          "rationale": "Aorist-active-imperative of ἐκκόπτω 'cut down/off'. Decisive command. 'โค่น...ทิ้ง' is natural Thai for cutting down a tree."
+        },
+        {
+          "greek": "ἱνατί καὶ τὴν γῆν καταργεῖ",
+          "thai": "ทำไมจึงปล่อยให้มันทำให้ดินเสียเปล่าเล่า",
+          "rationale": "ἱνατί = 'why?' interrogative. καταργέω = 'render useless/ineffective'. uW notes: the tree 'keeps the ground from being productive' — idle-tree wastes growing-space that another fruitful tree could occupy. 'ทำให้ดินเสียเปล่า' captures 'makes the ground worthless'."
+        }
+      ],
+      "notes": "HAPAX ἀμπελουργός — only NT occurrence. LXX attestations (Isa 61:5, 2 Chr 26:10, 4 Macc 1:29) establish the 'vine-dresser/vineyard-worker' sense. Three years ≈ normal fruiting-cycle for fig tree after planting — Jewish law (Lev 19:23-25) forbade eating fruit for first three years, dedicated fourth year to God, ate from fifth onward. So the owner has come in the normal fruit-bearing window and found nothing. QUOTE-NESTING: inner single-chevron ‹ › for vineyard-owner's speech within Jesus's outer parable-quote. καταργεῖ present-tense is consequential-durative: 'is it even continuing to make the ground useless?'"
+    }
+  },
+  {
+    "reference": "Luke 13:8",
+    "chapter": 13,
+    "verse": 8,
+    "greek": "ὁ δὲ ἀποκριθεὶς λέγει αὐτῷ·Κύριε,ἄφες αὐτὴν καὶ τοῦτο τὸ ἔτος,ἕως ὅτου σκάψω περὶ αὐτὴν καὶ βάλω κόπρια·",
+    "bsb_english": "'Sir,' the man replied, 'leave it alone again this year, until I dig around it and fertilize it.",
+    "translation": {
+      "thai": "คนนั้นตอบว่า ‹นายท่าน ขอปล่อยมันไว้อีกปีนี้ด้วยเถิด จนกว่าข้าพเจ้าจะพรวนดินรอบๆ ต้นและใส่ปุ๋ยคอก",
+      "thai_literal": null,
+      "thai_summary": "คนทำสวนขอโอกาสสุดท้ายด้วยการทำงานดูแลเพิ่มเติม การพรวนดินและการใส่ปุ๋ยคอกเป็นวิธีการเกษตรกรรมที่ใช้บำรุงต้นไม้ที่ยังไม่ให้ผลดี คำอุปมานี้สะท้อนให้เห็นพระกรุณาคุณของพระเจ้าที่ประทานโอกาสเพิ่มเติมแก่ผู้ที่ยังไม่กลับใจ แม้จะถึงขีดจำกัดแห่งความอดทนแล้ว",
+      "key_decisions": [
+        {
+          "greek": "Κύριε",
+          "thai": "นายท่าน",
+          "rationale": "In parable-context, vineyard-worker addresses vineyard-owner with respectful 'sir/master'. NOT the divine-Lord sense (no royal register). 'นายท่าน' = master/boss, matches inter-human respectful register per RULES §3."
+        },
+        {
+          "greek": "ἄφες αὐτὴν καὶ τοῦτο τὸ ἔτος",
+          "thai": "ขอปล่อยมันไว้อีกปีนี้ด้วยเถิด",
+          "rationale": "Aorist-active-imperative ἄφες 'leave/let alone'. 'καί' = 'also/even' (this year too). 'ขอ...ด้วยเถิด' adds the Thai polite-request flavor appropriate to servant-addressing-master."
+        },
+        {
+          "greek": "σκάψω περὶ αὐτὴν",
+          "thai": "พรวนดินรอบๆ ต้น",
+          "rationale": "σκάπτω = 'dig/loosen (the soil)' — horticultural practice to aerate roots and allow water/nutrient penetration. 'พรวนดิน' is the precise Thai agricultural term."
+        },
+        {
+          "greek": "κόπρια",
+          "thai": "ปุ๋ยคอก",
+          "rationale": "HAPAX LEGOMENON κόπριον (plural). Diminutive of κόπρος 'dung'. uW notes: manure used to enrich soil. 'ปุ๋ยคอก' is Thai natural for animal-manure-fertilizer (literally 'pen/stall-fertilizer')."
+        }
+      ],
+      "notes": "HAPAX κόπριον — only NT occurrence. LXX uses κόπρος for various dung/excrement contexts (1 Kings 14:10, 2 Kings 6:25, Ezek 4:12-15 as defilement; Jer 16:4 as corpse-dishonor). In agricultural usage, manure as soil-enricher is ancient Near Eastern practice (Isa 25:10 metaphorical). The gardener's response reveals the parable's pastoral heart: active intercession with patient labor rather than passive hope. This is a key Lukan theological note — divine-patience is not indulgence but active-mercy exerting effort toward transformation. QUOTE-CONTINUATION: still within the parable-inner-quote ‹ ›."
+    }
+  },
+  {
+    "reference": "Luke 13:9",
+    "chapter": 13,
+    "verse": 9,
+    "greek": "κἂν μὲν ποιήσῃ καρπὸν εἰς τὸ μέλλον εἰ δὲ μήγε,ἐκκόψεις αὐτήν.",
+    "bsb_english": "If it bears fruit next year, fine. But if not, you can cut it down.'\"",
+    "translation": {
+      "thai": "ถ้าปีหน้าต้นนั้นให้ผล ก็ดีไป แต่ถ้าไม่ ท่านก็จงโค่นมันทิ้งเถิด›»",
+      "thai_literal": null,
+      "thai_summary": "พระเยซูทรงจบคำอุปมาด้วยการปล่อยผลลัพธ์เปิดไว้ ไม่ได้บอกว่าต้นมะเดื่อจะให้ผลหรือไม่ เพราะผลลัพธ์ขึ้นอยู่กับผู้ฟัง กล่าวคือ คนรุ่นนั้นของอิสราเอลจะเลือกกลับใจหรือไม่ ข้อความนี้เป็นการขยายความคำเตือนเรื่องการกลับใจในข้อ 3 และ 5 ให้เป็นภาพของความอดทนจำกัดเวลา",
+      "key_decisions": [
+        {
+          "greek": "κἂν μὲν ποιήσῃ καρπὸν εἰς τὸ μέλλον",
+          "thai": "ถ้าปีหน้าต้นนั้นให้ผล",
+          "rationale": "Elliptic conditional protasis 'if indeed it should produce fruit into the future'. uW notes: the gardener leaves the apodosis unsaid ('if it does bear fruit, [you leave it]'); this can be supplied. 'ปีหน้า' (next year) rendering εἰς τὸ μέλλον naturally in this agricultural context."
+        },
+        {
+          "greek": "εἰ δὲ μήγε",
+          "thai": "แต่ถ้าไม่",
+          "rationale": "Idiomatic negative-apodosis 'but if not'. 'แต่ถ้าไม่' is natural Thai compression."
+        },
+        {
+          "greek": "ἐκκόψεις αὐτήν",
+          "thai": "ท่านก็จงโค่นมันทิ้งเถิด",
+          "rationale": "Future-indicative functioning as mild-imperative (uW figs-declarative: 'the servant is using a statement to make a suggestion'). 'จง...เถิด' captures the suggestive-polite imperative register to the master."
+        }
+      ],
+      "notes": "Open-ended conclusion is deliberately Lukan: the parable's punchline isn't certainty of judgment-or-mercy but the REAL POSSIBILITY-of-judgment coupled with REAL OFFER-of-extended-grace. The ἐκκόψεις-future-as-imperative-to-master construction is awkward Greek (servant cannot strictly command master); this softening-to-suggestion preserves social-register realism within the parable. Closing double-chevron » ends Jesus's overall discourse-quote that began in v.2."
+    }
+  },
+  {
+    "reference": "Luke 13:10",
+    "chapter": 13,
+    "verse": 10,
+    "greek": "Ἦν δὲ διδάσκων ἐν μιᾷ τῶν συναγωγῶν ἐν τοῖς σάββασιν.",
+    "bsb_english": "One Sabbath Jesus was teaching in one of the synagogues,",
+    "translation": {
+      "thai": "ในวันสะบาโตวันหนึ่ง พระองค์กำลังทรงสอนอยู่ในธรรมศาลาแห่งหนึ่ง",
+      "thai_literal": null,
+      "thai_summary": "นี่เป็นเหตุการณ์สุดท้ายในพระกิตติคุณลูกาที่พระเยซูทรงสอนในธรรมศาลา หลังจากนี้การสอนของพระองค์ส่วนใหญ่เกิดขึ้นในที่สาธารณะ ธรรมศาลาเป็นที่ประชุมของชาวยิวในวันสะบาโตเพื่อการอ่านพระคัมภีร์ การอธิษฐาน และการสอน",
+      "key_decisions": [
+        {
+          "greek": "Ἦν δὲ διδάσκων",
+          "thai": "กำลังทรงสอนอยู่",
+          "rationale": "Imperfect-periphrastic 'was teaching' — ongoing action. Divine subject → royal ทรง + สอน. 'กำลัง...อยู่' captures the continuous aspect."
+        },
+        {
+          "greek": "ἐν μιᾷ τῶν συναγωγῶν",
+          "thai": "ในธรรมศาลาแห่งหนึ่ง",
+          "rationale": "'one of the synagogues'. συναγωγή = ธรรมศาลา (glossary, continuing). 'แห่งหนึ่ง' for indefinite 'a certain'."
+        },
+        {
+          "greek": "ἐν τοῖς σάββασιν",
+          "thai": "ในวันสะบาโตวันหนึ่ง",
+          "rationale": "Plural σάββασιν is idiomatic for singular 'Sabbath' (Aramaic-influenced Hebrew-loanword declension). uW notes: the definite article could be rendered either specific or indefinite. We go with 'วันหนึ่ง' (a certain day) per uW alternate."
+        }
+      ],
+      "notes": "Scene-setting: last recorded synagogue-teaching episode in Luke. σάββατον in Greek NT typically appears in plural form (τὰ σάββατα) even for a single Sabbath day, following Aramaic שַׁבְּתָא. Moved temporal-phrase to front in Thai per discourse-topicalization norms. This verse introduces the Sabbath-healing conflict-narrative (vv.10-17), one of Luke's signature sign-narratives showing Jesus reclaiming Sabbath-purpose. Structurally parallels 6:6-11 (man with withered hand), 14:1-6 (man with dropsy)."
+    }
+  },
+  {
+    "reference": "Luke 13:11",
+    "chapter": 13,
+    "verse": 11,
+    "greek": "καὶ ἰδοὺ γυνὴ πνεῦμα ἔχουσα ἀσθενείας ἔτη δεκαοκτώ,καὶ ἦν συγκύπτουσα καὶ μὴ δυναμένη ἀνακύψαι εἰς τὸ παντελές.",
+    "bsb_english": "and a woman there had been disabled by a spirit for eighteen years. She was hunched over and could not stand up straight.",
+    "translation": {
+      "thai": "ดูเถิด มีหญิงคนหนึ่งที่ถูกวิญญาณทำให้ป่วยมาสิบแปดปี หลังของนางค่อม และไม่สามารถยืดตัวตรงได้เลย",
+      "thai_literal": null,
+      "thai_summary": "คำว่า «วิญญาณทำให้ป่วย» ในภาษากรีกไม่ชัดเจนว่าเป็นวิญญาณชั่วหรือเป็นโรคร่างกาย (pneuma asthenias) ข้อ 16 ข้างหน้าจะเปิดเผยว่าเป็นซาตานที่จองจำนางไว้ เลข 18 ปีย้อนไปถึงข้อ 4 ที่พูดถึงหอคอยสิโลอัมล้มทับคน 18 คน การทนทุกข์ของหญิงคนนี้อาจไม่ใช่ผลจากบาปของนาง แต่ก็ไม่อาจปล่อยไว้เฉยๆ เมื่อวันเสาร์แห่งการปลดปล่อยมาถึง",
+      "key_decisions": [
+        {
+          "greek": "ἰδοὺ",
+          "thai": "ดูเถิด",
+          "rationale": "Narrative attention-marker (uW figs-metaphor — 'calls reader's attention'). Established Thai biblical-register."
+        },
+        {
+          "greek": "γυνὴ πνεῦμα ἔχουσα ἀσθενείας",
+          "thai": "หญิงคนหนึ่งที่ถูกวิญญาณทำให้ป่วย",
+          "rationale": "Lit. 'woman having a spirit of weakness'. Genitive πνεῦμα ἀσθενείας is qualitative = 'disabling spirit'. uW glosses 'whom an evil spirit had been making weak'. 'ถูกวิญญาณทำให้ป่วย' makes the causality explicit without identifying demon/illness prematurely (v.16 will clarify Satan's role)."
+        },
+        {
+          "greek": "ἔτη δεκαοκτώ",
+          "thai": "มาสิบแปดปี",
+          "rationale": "Accusative of duration. Same number 18 as v.4 (tower victims) — the narrative-echo is not accidental but invites comparing victims-of-disaster with victim-of-spiritual-bondage."
+        },
+        {
+          "greek": "συγκύπτουσα",
+          "thai": "หลัง...ค่อม",
+          "rationale": "HAPAX LEGOMENON συγκύπτω (συν + κύπτω = 'bend-together/bend-forward-completely'). Present-participle. 'หลังของนางค่อม' captures the kyphosis/severe-stoop physical condition. Classical attestation: spondylitis deformans or ankylosing spondylitis."
+        },
+        {
+          "greek": "ἀνακύψαι εἰς τὸ παντελές",
+          "thai": "ยืดตัวตรงได้เลย",
+          "rationale": "ἀνακύπτω = 'lift up/straighten up' (opposite of συγκύπτω). εἰς τὸ παντελές = 'completely/to the full extent' (uW figs-nominaladj: the adjective 'complete' used as a noun). 'ได้เลย' captures the 'at all' negation-intensifier."
+        }
+      ],
+      "notes": "HAPAX συγκύπτω — only NT occurrence. LXX: Job 9:27 (συγκύψαι for grief-posture), Sirach 12:11, 19:26. Medical diagnosis (Luke the physician!): severe kyphosis possibly spondylitis ankylopoietica — gives 18 years of progressive spinal-curvature. πνεῦμα ἀσθενείας is qualitative-genitive, comparable to 8:29 πνεῦμα ἀκάθαρτον. Luke diagnostically distinguishes demonic-cause from organic-cause elsewhere (e.g., 4:40 heals diseases; 4:41 expels demons); here the cause is demonic (per v.16 'Satan bound her') but the manifestation is somatic. The 18-year duration echoes v.4's 18 victims — possibly intentional narrative-rhyme. εἰς τὸ παντελές is an idiomatic phrase, 'completely/to the uttermost' (cf. Heb 7:25)."
+    }
+  },
+  {
+    "reference": "Luke 13:12",
+    "chapter": 13,
+    "verse": 12,
+    "greek": "ἰδὼν δὲ αὐτὴν ὁ Ἰησοῦς προσεφώνησεν καὶ εἶπεν αὐτῇ·Γύναι,ἀπολέλυσαι τῆς ἀσθενείας σου,",
+    "bsb_english": "When Jesus saw her, He called her over and said, \"Woman, you are set free from your disability.\"",
+    "translation": {
+      "thai": "เมื่อพระเยซูทอดพระเนตรเห็นนาง ก็ทรงเรียกนางมาและตรัสว่า «หญิงเอ๋ย เจ้าพ้นจากความป่วยของเจ้าแล้ว»",
+      "thai_literal": null,
+      "thai_summary": "พระเยซูทรงริเริ่มการรักษาโดยไม่รอให้หญิงคนนั้นร้องขอ ซึ่งแตกต่างจากการรักษาหลายครั้งอื่นในพระกิตติคุณ คำเรียกว่า «หญิงเอ๋ย» (γύναι) ในบริบทนี้มีความอ่อนโยน (ไม่ใช่คำที่หยาบคายเหมือนในลูกา 12:14) เป็นคำเดียวกับที่พระองค์ทรงใช้เรียกมารดาของพระองค์ที่กานา (ยอห์น 2:4) คำกริยาเป็นสมบูรณ์กาล (perfect) บ่งบอกว่าการปลดปล่อยสำเร็จแล้วด้วยพระดำรัสของพระองค์",
+      "key_decisions": [
+        {
+          "greek": "ἰδὼν...προσεφώνησεν",
+          "thai": "ทอดพระเนตรเห็น...ทรงเรียก",
+          "rationale": "Divine subject → royal register. ทอดพระเนตร = royal 'see'; ทรงเรียก = royal 'call'. Following established Lukan pattern."
+        },
+        {
+          "greek": "Γύναι",
+          "thai": "หญิงเอ๋ย",
+          "rationale": "Vocative of γυνή. uW notes: gentle/compassionate register here (unlike 12:14 where 'Man' is abrupt). 'หญิงเอ๋ย' with vocative-particle เอ๋ย carries the warm/inviting Thai tone suitable for this compassionate address."
+        },
+        {
+          "greek": "ἀπολέλυσαι τῆς ἀσθενείας σου",
+          "thai": "เจ้าพ้นจากความป่วยของเจ้าแล้ว",
+          "rationale": "Perfect-passive-indicative of ἀπολύω 'release/set free'. Divine-passive: Jesus's word effects the release. uW notes: 'By saying this, Jesus healed the woman.' The perfect-tense emphasizes completed-state-with-ongoing-effect. 'เจ้า...แล้ว' captures completed-aspect."
+        },
+        {
+          "greek": "เจ้า",
+          "thai": "เจ้า",
+          "rationale": "Jesus addressing an individual human — use เจ้า (not พวกเจ้า/ท่าน). Following Thai convention: divine-person to individual-human in intimate-tender register = เจ้า."
+        }
+      ],
+      "notes": "ἀπολύω 'release/untie' is the key verbal marker that binds this narrative to v.15-16: Jesus releases (ἀπολύω) what Satan bound (ἔδησεν), and v.15's critics 'loose/untie' (λύει) their ox-on-Sabbath. The perfect-passive here functions performatively: Jesus's utterance IS the release (speech-act). The tender γύναι-address frames Jesus's identification of her dignity (v.16 will call her 'daughter of Abraham'). Note Jesus's unilateral initiative — the woman did not ask for healing; this is divine-initiative-grace."
+    }
+  },
+  {
+    "reference": "Luke 13:13",
+    "chapter": 13,
+    "verse": 13,
+    "greek": "καὶ ἐπέθηκεν αὐτῇ τὰς χεῖρας·καὶ παραχρῆμα ἀνωρθώθη,καὶ ἐδόξαζεν τὸν θεόν.",
+    "bsb_english": "Then He placed His hands on her, and immediately she straightened up and began to glorify God.",
+    "translation": {
+      "thai": "แล้วพระองค์ทรงวางพระหัตถ์บนนาง ทันใดนั้นนางก็ยืดตัวตรงได้ และเริ่มสรรเสริญพระเจ้า",
+      "thai_literal": null,
+      "thai_summary": "การวางพระหัตถ์เป็นสัญลักษณ์ของการส่งผ่านพระพรหรือฤทธิ์เดช (ดูลูกา 4:40 ที่พระองค์ทรงรักษาคนเจ็บโดยวางพระหัตถ์) การสรรเสริญพระเจ้าของหญิงผู้นี้เป็นการตอบสนองที่เหมาะสมและเป็นสัญลักษณ์เชิงอักษรศาสตร์ที่ลูกาชอบใช้ นางยืดตัวตรงหลังจากค่อมอยู่สิบแปดปี เหมือนกับที่หัวใจของเราลุกขึ้นเมื่อพบเสรีภาพในพระคริสต์",
+      "key_decisions": [
+        {
+          "greek": "ἐπέθηκεν αὐτῇ τὰς χεῖρας",
+          "thai": "ทรงวางพระหัตถ์บนนาง",
+          "rationale": "ἐπιτίθημι + χεῖρας = 'place hands upon' — healing/blessing gesture. Divine-royal: ทรงวาง + พระหัตถ์ (royal 'hand')."
+        },
+        {
+          "greek": "παραχρῆμα",
+          "thai": "ทันใดนั้น",
+          "rationale": "Lukan-distinctive 'immediately' (17x in Luke+Acts, 1x rest of NT). Continuing glossary."
+        },
+        {
+          "greek": "ἀνωρθώθη",
+          "thai": "ยืดตัวตรงได้",
+          "rationale": "Aorist-passive of ἀνορθόω 'set upright'. uW figs-activepassive: can be rendered actively as 'she stood up straight' for Thai naturalness. 'ยืดตัวตรงได้' captures the physical restoration + the ability-aspect of the passive."
+        },
+        {
+          "greek": "ἐδόξαζεν τὸν θεόν",
+          "thai": "เริ่มสรรเสริญพระเจ้า",
+          "rationale": "Imperfect-inchoative: 'began to glorify' (ingressive imperfect). δοξάζω = สรรเสริญ or ถวายพระเกียรติ. 'สรรเสริญ' is direct and natural in this doxological context."
+        }
+      ],
+      "notes": "LUKAN-SIGNATURE doxology-response: crowds or individual beneficiaries of Jesus's works consistently respond by 'glorifying God' (δοξάζω τὸν θεόν): 2:20 (shepherds), 5:25-26, 7:16, 17:15, 18:43, 23:47. Luke signals proper theological-response to the Messiah's work. ἀνορθόω is used in LXX Ps 144:14 for God raising up the bowed-down — possible intertextual echo. The contrast with συγκύπτω (v.11) and ἀνακύπτω-inability (v.11) is now resolved: she is ἀνορθώθη. Eighteen years' bondage broken in an instant."
+    }
+  },
+  {
+    "reference": "Luke 13:14",
+    "chapter": 13,
+    "verse": 14,
+    "greek": "ἀποκριθεὶς δὲ ὁ ἀρχισυνάγωγος,ἀγανακτῶν ὅτι τῷ σαββάτῳ ἐθεράπευσεν ὁ Ἰησοῦς,ἔλεγεν τῷ ὄχλῳ ὅτι Ἓξ ἡμέραι εἰσὶν ἐν αἷς δεῖ ἐργάζεσθαι·ἐν αὐταῖς οὖν ἐρχόμενοι θεραπεύεσθε καὶ μὴ τῇ ἡμέρᾳ τοῦ σαββάτου.",
+    "bsb_english": "But the synagogue leader was indignant that Jesus had healed on the Sabbath. \"There are six days for work,\" he told the crowd. \"So come and be healed on those days and not on the Sabbath.\"",
+    "translation": {
+      "thai": "แต่นายธรรมศาลาไม่พอใจที่พระเยซูทรงรักษาโรคในวันสะบาโต จึงพูดกับฝูงชนว่า «มีอยู่หกวันสำหรับการทำงาน ดังนั้นพวกเจ้าจงมาให้รักษาในวันเหล่านั้น ไม่ใช่ในวันสะบาโต»",
+      "thai_literal": null,
+      "thai_summary": "นายธรรมศาลาไม่กล้าต่อว่าพระเยซูตรงๆ แต่กลับกล่าวหาหญิงที่ป่วยและฝูงชนแทน นี่เป็นรูปแบบทั่วไปของผู้มีอำนาจที่รู้สึกถูกคุกคามแต่ไม่กล้าเผชิญกับแหล่งที่แท้จริงของความไม่พอใจ กฎบัญญัติของการหยุดทำงานในวันสะบาโตมีพื้นฐานมาจากอพยพ 20:9-10 แต่พวกรับบีได้ขยายความตามประเพณีจนปกคลุมแม้แต่การรักษาที่ไม่เร่งด่วน",
+      "key_decisions": [
+        {
+          "greek": "ἀρχισυνάγωγος",
+          "thai": "นายธรรมศาลา",
+          "rationale": "ἀρχι- prefix + συναγωγή = 'head-of-synagogue'. Administrative officer responsible for worship-order. 'นาย' = head/chief; 'ธรรมศาลา' = synagogue. Continuing from Mark 5:22/Luke 8:41 Jairus-episode rendering."
+        },
+        {
+          "greek": "ἀγανακτῶν",
+          "thai": "ไม่พอใจ",
+          "rationale": "Present-participle of ἀγανακτέω 'be indignant/angry'. 'ไม่พอใจ' is natural Thai equivalent."
+        },
+        {
+          "greek": "ἔλεγεν τῷ ὄχλῳ",
+          "thai": "พูดกับฝูงชนว่า",
+          "rationale": "Human subject (non-divine), no royal. 'พูดกับ' + accusative-equivalent = natural Thai addressee-marking. Note: he addresses the CROWD, not Jesus directly — uW flags this as indirect-confrontation."
+        },
+        {
+          "greek": "Ἓξ ἡμέραι εἰσὶν ἐν αἷς δεῖ ἐργάζεσθαι",
+          "thai": "มีอยู่หกวันสำหรับการทำงาน",
+          "rationale": "Echo of Exod 20:9 / Deut 5:13 'six days shall you labor'. 'มีอยู่หกวันสำหรับการทำงาน' preserves the commandment-quotation feel."
+        },
+        {
+          "greek": "ἐρχόμενοι θεραπεύεσθε",
+          "thai": "จงมาให้รักษา",
+          "rationale": "Present-participle + present-passive-imperative. uW figs-activepassive: 'come and have (Jesus) heal you'. 'จงมาให้รักษา' (come to be healed) — imperative 'จง' + passive-sense 'ให้รักษา'."
+        },
+        {
+          "greek": "พวกเจ้า",
+          "thai": "พวกเจ้า",
+          "rationale": "Synagogue leader addressing common people (crowd) — 'พวกเจ้า' is appropriate authoritative register (not the polite พวกท่าน, not the divine ลงไป)."
+        }
+      ],
+      "notes": "The synagogue-leader's stratagem: address the CROWD (not Jesus) to register his displeasure indirectly — classic face-saving move. uW notes: 'Together the two words **answering** and **said** mean that the synagogue leader spoke in response to the healing.' Hendiadys flattened in Thai. The leader's citation echoes Exod 20:9 / Deut 5:13. The Sabbath-healing-conflict is a Lukan leitmotif: Luke 6:6-11, 14:1-6, and here 13:10-17. Luke uses these to show Jesus as redefining Sabbath-purpose as liberation, not constraint. Note the leader doesn't deny the miracle — he complains about the timing, implicitly conceding the healing's reality. ADDED TO nt_ot_citations.json: LUK 13:14 (EXO 20:9 + DEU 5:13 six-days-of-work Decalogue-citation)."
+    }
+  },
+  {
+    "reference": "Luke 13:15",
+    "chapter": 13,
+    "verse": 15,
+    "greek": "ἀπεκρίθη δὲ αὐτῷ ὁ κύριος καὶ εἶπεν·Ὑποκριταί,ἕκαστος ὑμῶν τῷ σαββάτῳ οὐ λύει τὸν βοῦν αὐτοῦ ἢ τὸν ὄνον ἀπὸ τῆς φάτνης καὶ ἀπαγαγὼν ποτίζει;",
+    "bsb_english": "\"You hypocrites!\" the Lord replied. \"Does not each of you on the Sabbath untie his ox or donkey from the stall and lead it to water?",
+    "translation": {
+      "thai": "องค์พระผู้เป็นเจ้าจึงตรัสตอบเขาว่า «คนหน้าซื่อใจคดเอ๋ย ในวันสะบาโต พวกท่านทุกคนไม่ได้แก้โคหรือลาของตนจากคอกและจูงไปให้น้ำกินหรือ?",
+      "thai_literal": null,
+      "thai_summary": "พระเยซูทรงเรียกพวกผู้นำว่า «คนหน้าซื่อใจคด» เพราะพวกเขาอนุญาตการแก้สัตว์จากคอกในวันสะบาโตเพื่อให้มันกินน้ำ แต่กลับไม่ยอมให้พระองค์ปลดปล่อยหญิงที่ถูกซาตานมัดไว้ คำกริยา «แก้» (λύω) ในภาษากรีกเป็นคำเดียวกับที่ใช้ในข้อ 12 และ 16 เป็นการเล่นคำที่แสดงให้เห็นว่าการปลดปล่อยคนสำคัญยิ่งกว่าการปลดปล่อยสัตว์",
+      "key_decisions": [
+        {
+          "greek": "ὁ κύριος",
+          "thai": "องค์พระผู้เป็นเจ้า",
+          "rationale": "Luke narratively refers to Jesus as 'the Lord' (uW note). Established Lukan rendering องค์พระผู้เป็นเจ้า for this narratorial title-of-Jesus (continuing from 7:13, 10:1, 11:39, 12:42 etc.)."
+        },
+        {
+          "greek": "ἀπεκρίθη...καὶ εἶπεν",
+          "thai": "ตรัสตอบ",
+          "rationale": "Hendiadys 'answered and said'. Divine-royal: ตรัส + ตอบ."
+        },
+        {
+          "greek": "Ὑποκριταί",
+          "thai": "คนหน้าซื่อใจคดเอ๋ย",
+          "rationale": "Plural vocative. Established Thai Christian idiom (lit. 'sincere-face, crooked-heart'). Plural-form indicates Jesus addresses not just the leader but his fellow-religious-leaders (uW figs-explicit). 'เอ๋ย' adds the vocative-address particle."
+        },
+        {
+          "greek": "τὸν βοῦν αὐτοῦ ἢ τὸν ὄνον",
+          "thai": "โคหรือลาของตน",
+          "rationale": "βοῦς = ox/cattle → 'โค' (standard Thai agricultural/biblical). ὄνος = donkey → 'ลา' (standard). uW notes: could generalize to 'farm animals', but Thai readers know these animals, so preserve specifics."
+        },
+        {
+          "greek": "φάτνης",
+          "thai": "คอก",
+          "rationale": "φάτνη = 'stall/manger' (same word used for baby Jesus in 2:7,12,16). Here means livestock-stall. 'คอก' = stall/pen — natural Thai agricultural term."
+        },
+        {
+          "greek": "ἀπαγαγὼν ποτίζει",
+          "thai": "จูงไปให้น้ำกิน",
+          "rationale": "Aorist-participle + present-indicative 'having led away, gives drink'. 'จูงไปให้น้ำกิน' preserves the sequential action naturally."
+        },
+        {
+          "greek": "พวกท่าน",
+          "thai": "พวกท่าน",
+          "rationale": "Jesus addressing adversaries — despite rebuke, maintains พวกท่าน (polite-plural), consistent with prior Pharisee-address pattern (cf. Matt 23)."
+        }
+      ],
+      "notes": "Jesus's rhetorical counter-question (uW figs-rquestion) appeals to pre-existing rabbinic practice: watering livestock on Sabbath was universally permitted (codified in Mishnah Shabbat 5; Babylonian Talmud Eruvin 20b-21a). The a-fortiori argument (qal-va-homer): if releasing animal-bondage on Sabbath is permitted, how much more releasing human-bondage from Satan. The verbal play on λύω 'loose/untie' links v.15 (untie ox) with v.16 (release woman from bond) with v.12 (ἀπολέλυσαι = released). φάτνη-usage creates a subtle narrative inclusio with Luke 2 (Jesus born in manger) — the Lord born in a manger now argues from manger-freedom for human-liberation. uW notes: the plural 'hypocrites' indicates Jesus includes all religious-leaders present, not just the one speaker."
+    }
+  },
+  {
+    "reference": "Luke 13:16",
+    "chapter": 13,
+    "verse": 16,
+    "greek": "ταύτην δὲ θυγατέρα Ἀβραὰμ οὖσαν,ἣν ἔδησεν ὁ Σατανᾶς ἰδοὺ δέκα καὶ ὀκτὼ ἔτη,οὐκ ἔδει λυθῆναι ἀπὸ τοῦ δεσμοῦ τούτου τῇ ἡμέρᾳ τοῦ σαββάτου;",
+    "bsb_english": "Then should not this daughter of Abraham, whom Satan has kept bound for eighteen long years, be released from her bondage on the Sabbath day?\"",
+    "translation": {
+      "thai": "แล้วหญิงผู้นี้ซึ่งเป็นบุตรสาวของอับราฮัม ที่ซาตานได้ผูกมัดนางไว้ ดูเถิด สิบแปดปีมาแล้ว ไม่สมควรหรือที่จะได้รับการแก้ออกจากพันธนาการนี้ในวันสะบาโต?»",
+      "thai_literal": null,
+      "thai_summary": "พระเยซูทรงยกฐานะของหญิงคนนี้ให้สูงขึ้นสองชั้น ประการแรก พระองค์ตรัสเรียกนางว่า «บุตรสาวของอับราฮัม» ซึ่งเป็นคำยกย่องที่ไม่ค่อยใช้ในวัฒนธรรมยิว (บุตรของอับราฮัมใช้บ่อยกว่า) แสดงถึงการให้เกียรติในฐานะผู้มีสิทธิ์ในพันธสัญญา ประการที่สอง พระองค์ทรงเปิดเผยว่าซาตานอยู่เบื้องหลังโรคของนาง ทำให้วันสะบาโตกลายเป็นวันที่เหมาะสมที่สุดสำหรับการปลดปล่อย เพราะวันสะบาโตคือสัญลักษณ์ของการปลดปล่อยจากการเป็นทาสในอียิปต์ (เฉลยธรรมบัญญัติ 5:15)",
+      "key_decisions": [
+        {
+          "greek": "θυγατέρα Ἀβραὰμ",
+          "thai": "บุตรสาวของอับราฮัม",
+          "rationale": "uW figs-metaphor: 'daughter' = 'descendant'. 'บุตรสาวของอับราฮัม' preserves both literal and typological meaning. This is a dignifying-covenantal-address — rare in rabbinic literature, deliberately Jesus-chosen to invert the synagogue-leader's dismissal of her."
+        },
+        {
+          "greek": "ἣν ἔδησεν ὁ Σατανᾶς",
+          "thai": "ที่ซาตานได้ผูกมัดนางไว้",
+          "rationale": "Aorist ἔδησεν from δέω 'bind'. uW figs-metaphor: Satan causing the illness portrayed as binding-captivity. 'ซาตาน' continuing glossary. 'ผูกมัด' = bind/tie — reinforces the ransom/liberation frame."
+        },
+        {
+          "greek": "ἰδοὺ δέκα καὶ ὀκτὼ ἔτη",
+          "thai": "ดูเถิด สิบแปดปีมาแล้ว",
+          "rationale": "uW figs-metaphor: 'behold' emphasizes the LENGTH of suffering. Interjectional 'ดูเถิด' + duration 'สิบแปดปีมาแล้ว'. Parenthetical placement preserved."
+        },
+        {
+          "greek": "οὐκ ἔδει λυθῆναι",
+          "thai": "ไม่สมควรหรือที่จะได้รับการแก้",
+          "rationale": "Imperfect ἔδει + aorist-passive-infinitive 'was it not necessary to be released'. Rhetorical question = 'it IS necessary to release' (uW figs-rquestion: 'it is right to free her'). 'ไม่สมควร...หรือ' preserves interrogative-a-fortiori force."
+        },
+        {
+          "greek": "τοῦ δεσμοῦ τούτου",
+          "thai": "พันธนาการนี้",
+          "rationale": "δεσμός = 'bond/chain/fetter'. 'พันธนาการ' is the precise Thai theological-poetic term for spiritual-bondage (vs. literal 'พันธนาการ' = chain). Matches the uW figs-metaphor reading."
+        }
+      ],
+      "notes": "Climactic argument: this verse is the theological-pivot of the pericope. Three moves: (1) 'daughter of Abraham' elevates her covenantal status (parallel to 19:9 'son of Abraham' for Zacchaeus — deliberate Lukan inclusio); (2) identifies Satan as the hidden agent behind the illness (resolving the v.11 ambiguity 'spirit of weakness'); (3) reframes the Sabbath: the day of Exodus-liberation (Deut 5:15 grounds Sabbath in Exodus-deliverance) is PRECISELY the proper day for releasing from Satanic-bondage. OT INTERTEXTUAL: Deut 5:15 (Sabbath as Exodus-memorial) + Exod 21:2-6 (slave-release after six years, Jubilee-connection) + Isa 58:6 (the fast God chooses = 'to loose the bonds of wickedness, to let the oppressed go free') + Isa 61:1 LXX (κηρύξαι αἰχμαλώτοις ἄφεσιν — Luke 4:18 Nazareth-manifesto). The pericope dramatizes Jesus's Luke-4:18 programmatic announcement. ADDED TO nt_ot_citations.json: LUK 13:16 (DEU 5:15 Sabbath-Exodus grounding + ISA 58:6 loose-bonds + ISA 61:1 release-captives + GEN 17:7 daughter-of-Abraham covenant-inclusion)."
+    }
+  },
+  {
+    "reference": "Luke 13:17",
+    "chapter": 13,
+    "verse": 17,
+    "greek": "καὶ ταῦτα λέγοντος αὐτοῦ κατῃσχύνοντο πάντες οἱ ἀντικείμενοι αὐτῷ,καὶ πᾶς ὁ ὄχλος ἔχαιρεν ἐπὶ πᾶσιν τοῖς ἐνδόξοις τοῖς γινομένοις ὑπ’αὐτοῦ.",
+    "bsb_english": "When Jesus said this, all His adversaries were humiliated. And the whole crowd rejoiced at all the glorious things He was doing.",
+    "translation": {
+      "thai": "เมื่อพระองค์ตรัสเช่นนั้น บรรดาผู้ที่ต่อต้านพระองค์ก็ได้รับความอับอาย และฝูงชนทั้งหมดก็ชื่นชมยินดีในการงานอันรุ่งโรจน์ทุกอย่างที่พระองค์ทรงกระทำ",
+      "thai_literal": null,
+      "thai_summary": "การตอบสนองต่อพระเยซูนั้นแบ่งเป็นสองฝ่ายอย่างชัดเจน ฝ่ายผู้มีอำนาจได้รับความอับอาย (κατῃσχύνοντο ในรูปกาลไม่สมบูรณ์ บ่งบอกว่าความอับอายนั้นดำเนินต่อเนื่อง) ส่วนประชาชนทั่วไปชื่นชมยินดี นี่สะท้อนถึงคำทำนายของสิเมโอนในลูกา 2:34 ที่ว่าพระเยซูจะเป็นเหตุให้คนจำนวนมากตกและลุกขึ้น และจะเป็นเครื่องหมายที่จะมีคนติเตียน",
+      "key_decisions": [
+        {
+          "greek": "ταῦτα λέγοντος αὐτοῦ",
+          "thai": "เมื่อพระองค์ตรัสเช่นนั้น",
+          "rationale": "Genitive-absolute 'while he was saying these things'. Divine subject → royal ตรัส. 'เมื่อ...เช่นนั้น' for natural Thai genitive-absolute rendering."
+        },
+        {
+          "greek": "κατῃσχύνοντο",
+          "thai": "ได้รับความอับอาย",
+          "rationale": "Imperfect-passive of καταισχύνω 'shame/put to shame'. uW figs-activepassive: 'felt ashamed'. Imperfect suggests ongoing shame. 'ได้รับความอับอาย' captures the passive-state."
+        },
+        {
+          "greek": "οἱ ἀντικείμενοι αὐτῷ",
+          "thai": "บรรดาผู้ที่ต่อต้านพระองค์",
+          "rationale": "Present-middle-participle of ἀντίκειμαι 'oppose/set oneself against'. 'ผู้ที่ต่อต้าน' is natural Thai for 'adversaries'. NEW establishment."
+        },
+        {
+          "greek": "ἔχαιρεν",
+          "thai": "ชื่นชมยินดี",
+          "rationale": "Imperfect-inchoative 'was rejoicing/began to rejoice'. 'ชื่นชมยินดี' = standard Thai Christian term for biblical-joy."
+        },
+        {
+          "greek": "πᾶσιν τοῖς ἐνδόξοις τοῖς γινομένοις ὑπ’αὐτοῦ",
+          "thai": "การงานอันรุ่งโรจน์ทุกอย่างที่พระองค์ทรงกระทำ",
+          "rationale": "ἔνδοξος = 'glorious/splendid'. Substantivized plural 'glorious-things' = 'glorious-deeds/works'. uW figs-activepassive: 'the glorious things Jesus was doing'. 'การงานอันรุ่งโรจน์' preserves both the actions and the glory-register."
+        }
+      ],
+      "notes": "Classic Lukan polarity: religious-establishment shamed, common-people glorify. Echoes the Magnificat's great-reversal (1:51-53) and Simeon's prophecy (2:34 fall-and-rise). κατῃσχύνοντο imperfect suggests ongoing-continuous shame — the critics are silenced, not just momentarily. τὰ ἔνδοξα is Septuagintalism for 'glorious deeds/marvels' (LXX Exod 34:10, Isa 12:4, 25:1 uses ἔνδοξα for God's mighty works). Luke's vocabulary-choice here frames Jesus's works as the glorious-works of YHWH-continuation. The verse closes the Sabbath-healing pericope with a perfect antithetical-parallelism (shame/rejoice; opponents/crowd)."
+    }
+  },
+  {
+    "reference": "Luke 13:18",
+    "chapter": 13,
+    "verse": 18,
+    "greek": "Ἔλεγεν οὖν·Τίνι ὁμοία ἐστὶν ἡ βασιλεία τοῦ θεοῦ,καὶ τίνι ὁμοιώσω αὐτήν;",
+    "bsb_english": "Then Jesus asked, \"What is the kingdom of God like? To what can I compare it?",
+    "translation": {
+      "thai": "ดังนั้นพระองค์ตรัสว่า «อาณาจักรของพระเจ้าเปรียบเหมือนสิ่งใด และเราจะเปรียบอาณาจักรนั้นกับสิ่งใดดี?",
+      "thai_literal": null,
+      "thai_summary": "พระเยซูทรงใช้คำถามซ้ำสองเพื่อดึงความสนใจของผู้ฟัง ก่อนที่จะทรงเริ่มคำอุปมาสั้นๆ สองเรื่องที่เชื่อมโยงกัน คำอุปมาเหล่านี้แสดงถึงธรรมชาติของอาณาจักรพระเจ้าที่เริ่มต้นจากสิ่งเล็กน้อยแต่ขยายตัวอย่างกว้างขวาง ต่อเนื่องจากเหตุการณ์การรักษาหญิงคนพิการในธรรมศาลา ซึ่งเป็นตัวอย่างที่เป็นรูปธรรมของอาณาจักรพระเจ้าที่กำลังมาถึง",
+      "key_decisions": [
+        {
+          "greek": "Ἔλεγεν οὖν",
+          "thai": "ดังนั้นพระองค์ตรัสว่า",
+          "rationale": "Imperfect + inferential οὖν 'therefore he was saying'. Divine-royal: พระองค์ตรัส. 'ดังนั้น' connects the kingdom-parable to the preceding liberation-narrative as interpretive."
+        },
+        {
+          "greek": "Τίνι ὁμοία ἐστὶν ἡ βασιλεία τοῦ θεοῦ, καὶ τίνι ὁμοιώσω αὐτήν",
+          "thai": "อาณาจักรของพระเจ้าเปรียบเหมือนสิ่งใด และเราจะเปรียบอาณาจักรนั้นกับสิ่งใดดี",
+          "rationale": "Parallelism (uW figs-parallelism): 'What is X like?' / 'To what shall I compare X?' Preserved as two questions for the rhetorical effect. βασιλεία τοῦ θεοῦ = อาณาจักรของพระเจ้า per RULES §4 standard."
+        }
+      ],
+      "notes": "Double-question parallelism is a rhetorical device for intensification, common in wisdom and parabolic literature. The οὖν (therefore) deliberately connects the kingdom-parables (vv.18-21) to the preceding liberation-narrative: Jesus interprets the Sabbath-healing as a kingdom-manifestation. PARALLEL: Mark 4:30-32 + Matt 13:31-32 (mustard seed). Luke's Greek formulation is closest to Mark but omits the 'smallness' commentary present in both Mark and Matthew (no 'smallest of all seeds'), focusing instead purely on the growth-transformation."
+    }
+  },
+  {
+    "reference": "Luke 13:19",
+    "chapter": 13,
+    "verse": 19,
+    "greek": "ὁμοία ἐστὶν κόκκῳ σινάπεως,ὃν λαβὼν ἄνθρωπος ἔβαλεν εἰς κῆπον ἑαυτοῦ,καὶ ηὔξησεν καὶ ἐγένετο εἰς δένδρον,καὶ τὰ πετεινὰ τοῦ οὐρανοῦ κατεσκήνωσεν ἐν τοῖς κλάδοις αὐτοῦ.",
+    "bsb_english": "It is like a mustard seed that a man tossed into his garden. It grew and became a tree, and the birds of the air nested in its branches.\"",
+    "translation": {
+      "thai": "อาณาจักรนั้นเปรียบเหมือนเมล็ดมัสตาร์ดเมล็ดหนึ่ง ที่ชายคนหนึ่งเอาไปหว่านในสวนของตน เมล็ดนั้นก็งอกขึ้นและกลายเป็นต้นไม้ใหญ่ จนนกในอากาศมาทำรังในกิ่งของมัน»",
+      "thai_literal": null,
+      "thai_summary": "เมล็ดมัสตาร์ดเป็นเมล็ดที่เล็กมาก (ประมาณ 1 มิลลิเมตร) แต่เมื่อเติบโตขึ้นจะกลายเป็นพุ่มไม้สูง 2-4 เมตร ภาพของ «นกในอากาศมาทำรังในกิ่ง» เป็นการอ้างอิงถึงดาเนียล 4:12, 21 และเอเสเคียล 17:23 ที่ต้นไม้ใหญ่เป็นสัญลักษณ์ของอาณาจักรใหญ่ที่คนทุกชาติมาพึ่งพาอาศัย อาณาจักรของพระเจ้าเริ่มจากจุดเล็กๆ เช่น กลุ่มสาวก 12 คน แต่จะกลายเป็นที่พำนักของคนจากทุกชนชาติ",
+      "key_decisions": [
+        {
+          "greek": "κόκκῳ σινάπεως",
+          "thai": "เมล็ดมัสตาร์ดเมล็ดหนึ่ง",
+          "rationale": "κόκκος = seed/grain; σίναπι = mustard. 'เมล็ดมัสตาร์ด' = established Thai Christian rendering (matches Matt 13:31, Mark 4:31). 'เมล็ดหนึ่ง' = indefinite article."
+        },
+        {
+          "greek": "λαβὼν ἄνθρωπος ἔβαλεν εἰς κῆπον ἑαυτοῦ",
+          "thai": "ที่ชายคนหนึ่งเอาไปหว่านในสวนของตน",
+          "rationale": "Aorist-participle + aorist-indicative 'having taken...threw/scattered'. uW figs-explicit: 'planted in his garden'. κῆπος = garden (distinct from ἀγρός field in Matt 13 or γῆ earth in Mark 4 — Luke's choice indicates personal cultivation-space). ἄνθρωπος here could be generic-inclusive OR specifically-male, paired with γυνή in v.21 (uW note). Rendered 'ชายคนหนึ่ง' (a man) matching uW option (2) which pairs with the woman in v.21."
+        },
+        {
+          "greek": "ηὔξησεν καὶ ἐγένετο εἰς δένδρον",
+          "thai": "ก็งอกขึ้นและกลายเป็นต้นไม้ใหญ่",
+          "rationale": "αὐξάνω = grow; γίνομαι εἰς = became (Semitism 'became into'). δένδρον = tree. Hyperbole: a mustard bush is normally a bush, not a tree — the gigantism signals kingdom-growth. 'ต้นไม้ใหญ่' captures the tree-vs-bush emphasis."
+        },
+        {
+          "greek": "τὰ πετεινὰ τοῦ οὐρανοῦ κατεσκήνωσεν ἐν τοῖς κλάδοις αὐτοῦ",
+          "thai": "จนนกในอากาศมาทำรังในกิ่งของมัน",
+          "rationale": "κατασκηνόω = 'nest/dwell' (literally 'tent-down'). Matches Mark 4:32 'ὑπὸ τὴν σκιὰν αὐτοῦ' contextual echo of Daniel 4. 'นกในอากาศมาทำรัง' matches established synoptic-parallel rendering."
+        }
+      ],
+      "notes": "PARALLEL: Mark 4:30-32, Matt 13:31-32. OT ALLUSION: The tree-with-birds-in-branches is a deliberate echo of Dan 4:12,21 (Nebuchadnezzar's tree = Babylonian empire sheltering all peoples) + Ezek 17:23 (Messianic cedar planted by God + birds of every kind dwell under it) + Ezek 31:6 (pharaoh-as-cedar) + Ps 104:12 (birds nesting in branches as sign of creation-order). Jesus co-opts the imperial-tree metaphor: the kingdom of God IS the true tree under which all nations find shelter. 'Birds of the air' may specifically signal Gentile-inclusion (cf. Acts 10, 15 — Luke's continuation). HYPERBOLE: the mustard-plant typically reaches 2-4 meters, large for a garden-herb but not a 'tree'. The intentional exaggeration emphasizes miraculous kingdom-growth. ADDED TO nt_ot_citations.json: LUK 13:19 (DAN 4:12+21 + EZK 17:23 + EZK 31:6 + PSA 104:12 birds-in-branches tree-of-shelter cluster)."
+    }
+  },
+  {
+    "reference": "Luke 13:20",
+    "chapter": 13,
+    "verse": 20,
+    "greek": "Καὶ πάλιν εἶπεν·Τίνι ὁμοιώσω τὴν βασιλείαν τοῦ θεοῦ;",
+    "bsb_english": "Again He asked, \"To what can I compare the kingdom of God?",
+    "translation": {
+      "thai": "และพระองค์ตรัสอีกว่า «เราจะเปรียบอาณาจักรของพระเจ้ากับสิ่งใดดี?",
+      "thai_literal": null,
+      "thai_summary": "การเปิดด้วยคำถามซ้ำอีกครั้งเป็นเครื่องหมายของคู่คำอุปมาที่สมบูรณ์กัน ในอนุสัยการสอนของพระเยซู พระองค์มักจับคู่คำอุปมาที่มีตัวละครชายกับหญิง เพื่อให้สารของพระองค์ครอบคลุมทั้งสองเพศอย่างเท่าเทียม",
+      "key_decisions": [
+        {
+          "greek": "πάλιν εἶπεν",
+          "thai": "พระองค์ตรัสอีก",
+          "rationale": "πάλιν = again. Divine-royal ตรัส. 'อีก' for repetition."
+        },
+        {
+          "greek": "Τίνι ὁμοιώσω τὴν βασιλείαν τοῦ θεοῦ",
+          "thai": "เราจะเปรียบอาณาจักรของพระเจ้ากับสิ่งใดดี",
+          "rationale": "Matching v.18's second question. Royal เรา preserves divine-first-person. 'สิ่งใดดี' (what thing) preserves rhetorical-open question-form."
+        }
+      ],
+      "notes": "Transition-formula introducing the paired parable. Jesus's GENDER-BALANCED-PARABLE-PAIRING: a man sowing mustard (v.19) + a woman mixing leaven (v.21). This is a Lukan-distinctive editorial emphasis (cf. Zacharias/Mary in ch.1; Simeon/Anna in ch.2; widow of Nain/Jairus's daughter; lost-sheep + lost-coin in ch.15). Luke signals kingdom-inclusion of both sexes through parable-structure. Matt 13 has the mustard-seed + leaven pair but lacks the gender-balancing intro formula."
+    }
+  },
+  {
+    "reference": "Luke 13:21",
+    "chapter": 13,
+    "verse": 21,
+    "greek": "ὁμοία ἐστὶν ζύμῃ,ἣν λαβοῦσα γυνὴ ἔκρυψεν εἰς ἀλεύρου σάτα τρία ἕως οὗ ἐζυμώθη ὅλον.",
+    "bsb_english": "It is like leaven that a woman took and mixed into three measures of flour, until all of it was leavened.\"",
+    "translation": {
+      "thai": "อาณาจักรนั้นเปรียบเหมือนเชื้อ ที่หญิงคนหนึ่งเอาไปคลุกในแป้งสามทะนาน จนแป้งทั้งก้อนฟูขึ้น»",
+      "thai_literal": null,
+      "thai_summary": "แป้งสามทะนาน (σάτα τρία) เท่ากับประมาณ 22 ลิตร ซึ่งเป็นจำนวนที่มากเกินไปสำหรับครอบครัวเดียว สามารถอบขนมปังได้สำหรับคนร้อยกว่าคน นี่เป็นการขยายภาพของอาณาจักรพระเจ้าที่ขยายตัวในระดับที่เปลี่ยนแปลงชุมชนทั้งหมด น่าสังเกตว่าที่นี่เชื้อถูกใช้เป็นภาพเชิงบวก ต่างจากข้อ 12:1 ที่เชื้อเป็นภาพของความหน้าซื่อใจคดของพวกฟาริสี พระเยซูทรงใช้สัญลักษณ์เดียวกันในทิศทางที่ต่างกันได้",
+      "key_decisions": [
+        {
+          "greek": "ζύμῃ",
+          "thai": "เชื้อ",
+          "rationale": "Established from Luke 12:1. 'เชื้อ' = leaven/yeast (Thai standard). Note: ζύμη appears as NEGATIVE metaphor in 12:1 (hypocrisy) but POSITIVE here (kingdom growth) — same image, opposite valence. Documented in thai_summary."
+        },
+        {
+          "greek": "ἔκρυψεν εἰς ἀλεύρου σάτα τρία",
+          "thai": "เอาไปคลุกในแป้งสามทะนาน",
+          "rationale": "κρύπτω = 'hide/conceal'. Here contextually means 'mix in' (the leaven becomes hidden within the dough). uW notes σάτα as dry-measure ≈ 8 liters each (three seahs ≈ 22 liters = very large batch). 'คลุก' = mix/incorporate. 'สามทะนาน' continues Matt 13:33 rendering (established synoptic-parallel term)."
+        },
+        {
+          "greek": "ἐζυμώθη ὅλον",
+          "thai": "แป้งทั้งก้อนฟูขึ้น",
+          "rationale": "Aorist-passive of ζυμόω 'leaven'. uW figs-activepassive: 'the yeast caused all of it to rise'. 'แป้งทั้งก้อนฟูขึ้น' matches Matt 13:33 rendering for synoptic consistency."
+        }
+      ],
+      "notes": "PARALLEL: Matt 13:33 (nearly identical Greek). SIGNIFICANCE OF THREE SEAHS: In Gen 18:6, Sarah prepares three seahs of flour for the divine visitors at Mamre — the same quantity appears in Luke's parable, creating an intertextual-echo: the kingdom-of-God's expansion is tied to Abraham-promise-hospitality. Three seahs ≈ 22 liters flour = enough bread for ~100+ people — the hyperbolic quantity matches v.19's mustard-tree-hyperbole. The HIDDEN-UNTIL-TRANSFORMING image differs from v.19's VISIBLE-GROWTH image — paired parables show the kingdom as BOTH visibly-expanding AND invisibly-permeating. κρύπτω (hide) may intentionally echo Matt 13:44's 'treasure hidden'. ADDED TO nt_ot_citations.json: LUK 13:21 (GEN 18:6 three-seahs Abrahamic-hospitality echo)."
+    }
+  },
+  {
+    "reference": "Luke 13:22",
+    "chapter": 13,
+    "verse": 22,
+    "greek": "Καὶ διεπορεύετο κατὰ πόλεις καὶ κώμας διδάσκων καὶ πορείαν ποιούμενος εἰς Ἱεροσόλυμα.",
+    "bsb_english": "Then Jesus traveled throughout the towns and villages, teaching as He made His way toward Jerusalem.",
+    "translation": {
+      "thai": "พระองค์เสด็จผ่านเมืองและหมู่บ้านต่างๆ ทรงสอนและเสด็จไปทางเยรูซาเล็ม",
+      "thai_literal": null,
+      "thai_summary": "ข้อนี้เป็นหมายเหตุการเดินทางที่เตือนผู้อ่านว่าพระเยซูกำลังเดินทางไปสู่เยรูซาเล็มตามที่ตั้งพระทัยไว้ตั้งแต่ลูกา 9:51 การเดินทางนี้ไม่ใช่การท่องเที่ยว แต่เป็นเส้นทางสู่การสิ้นพระชนม์ที่เตรียมไว้แล้วในแผนของพระเจ้า ลักษณะเฉพาะของลูกาคือการใช้เรื่องเดินทางเป็นโครงสร้างใหญ่ในการสอนและบรรยายพระราชกิจของพระเยซู",
+      "key_decisions": [
+        {
+          "greek": "διεπορεύετο...πορείαν ποιούμενος",
+          "thai": "เสด็จผ่าน...เสด็จไป",
+          "rationale": "Imperfect + present-participle double-travel-verb construction (reinforces journey-motif). Divine-royal: เสด็จ (royal 'go'). 'เสด็จผ่าน' for itinerant passage; 'เสด็จไป' for purposeful journey."
+        },
+        {
+          "greek": "πόλεις καὶ κώμας",
+          "thai": "เมืองและหมู่บ้านต่างๆ",
+          "rationale": "πόλις = city/town; κώμη = village. Standard Thai biblical rendering."
+        },
+        {
+          "greek": "διδάσκων",
+          "thai": "ทรงสอน",
+          "rationale": "Present-active-participle. Divine-royal: ทรง + สอน."
+        },
+        {
+          "greek": "εἰς Ἱεροσόλυμα",
+          "thai": "ทางเยรูซาเล็ม",
+          "rationale": "Ἱεροσόλυμα = Jerusalem (Greek form; Luke uses both Ἰερουσαλήμ Hebraic and Ἱεροσόλυμα Hellenistic forms). 'เยรูซาเล็ม' standard Thai Christian."
+        }
+      ],
+      "notes": "TRAVEL-NARRATIVE MARKER: Luke inserts this itinerary-note to remind readers of Jesus's programmatic Jerusalem-bound journey (9:51 'he set his face to go to Jerusalem'). Other such markers: 9:51, 9:53, 9:57, 10:1, 10:38, 13:22, 17:11, 18:31, 19:11, 19:28, 19:41, 19:45. Luke's editorial hand shapes chs. 9:51-19:27 as the extended Travel-Narrative containing unique-to-Luke material. The verse functions as STRUCTURAL HINGE: vv.1-21 were Jesus-in-synagogue/settled-teaching; vv.22-35 shift to journey-on-the-way teaching about kingdom-entry and Jerusalem-lament. Note Luke uses Ἱεροσόλυμα (Hellenistic) here vs. Ἰερουσαλήμ (Hebraic) in v.33-34 — the Hellenistic form is more neutral travel-destination; the Hebraic form is used in the LAMENT context for emotive-sacred resonance."
+    }
+  },
+  {
+    "reference": "Luke 13:23",
+    "chapter": 13,
+    "verse": 23,
+    "greek": "εἶπεν δέ τις αὐτῷ·Κύριε,εἰ ὀλίγοι οἱ σῳζόμενοι;ὁ δὲ εἶπεν πρὸς αὐτούς·",
+    "bsb_english": "\"Lord,\" someone asked Him, \"will only a few people be saved?\" Jesus answered,",
+    "translation": {
+      "thai": "มีคนหนึ่งทูลพระองค์ว่า «องค์พระผู้เป็นเจ้า คนที่จะได้รับความรอดมีน้อยหรือ?» พระองค์ตรัสกับพวกเขาว่า",
+      "thai_literal": null,
+      "thai_summary": "คำถามนี้สะท้อนการถกเถียงของพวกรับบียิวในสมัยนั้นว่ามีกี่คนที่จะได้รับความรอด บางสำนักคิดว่าชาวยิวทุกคน ยกเว้นผู้ทำบาปหนัก จะได้รับความรอด อีกสำนักหนึ่งคิดว่ามีน้อยมาก พระเยซูทรงเปลี่ยนคำถามจากการคาดคะเนตัวเลขไปเป็นคำเตือนให้ผู้ฟังแต่ละคนเข้าประตูแคบ คำตอบของพระเยซูไม่ใช่ «ใช่/ไม่ใช่» แต่เป็น «จงเข้าไปเอง»",
+      "key_decisions": [
+        {
+          "greek": "Κύριε",
+          "thai": "องค์พระผู้เป็นเจ้า",
+          "rationale": "Vocative: someone addressing Jesus with honorific 'Lord'. uW notes: the questioner is addressing Jesus respectfully. Given the weight of 'the Lord' title elsewhere (v.15), use องค์พระผู้เป็นเจ้า for full honorific, preserving the divine-register acknowledgment."
+        },
+        {
+          "greek": "εἰ ὀλίγοι οἱ σῳζόμενοι",
+          "thai": "คนที่จะได้รับความรอดมีน้อยหรือ",
+          "rationale": "εἰ introduces indirect question 'whether'. Present-passive-participle substantivized οἱ σῳζόμενοι 'the ones being saved'. 'ได้รับความรอด' = receive salvation (Thai Christian). Future-aspect 'จะ' captures the eschatological-prospective nuance (uW alternate: 'is God going to save only a few people?')."
+        },
+        {
+          "greek": "εἶπεν πρὸς αὐτούς",
+          "thai": "ตรัสกับพวกเขา",
+          "rationale": "Plural αὐτούς despite singular-asker — uW notes: 'a crowd had gathered; the questioner was one person in the crowd'. Jesus addresses the whole crowd."
+        }
+      ],
+      "notes": "σῴζω = save (established across gospels). Present-passive-participle οἱ σῳζόμενοι 'those being saved' has an ongoing-process sense (cf. Acts 2:47 'the Lord was adding to them those being saved'). This is not 'who has been saved once' but 'who is on the path-to-salvation'. The questioner's framing is NUMERICAL ('are the few saved?'); Jesus's response will be PERSONAL-URGENT (v.24 'struggle to enter'). Luke's deliberate pivot from abstract-theological-question to existential-urgency-call is a major teaching-pattern of Jesus (cf. 10:29 'who is my neighbor' → good-Samaritan parable; 12:13-14 'tell my brother to divide inheritance' → rich-fool parable)."
+    }
+  },
+  {
+    "reference": "Luke 13:24",
+    "chapter": 13,
+    "verse": 24,
+    "greek": "Ἀγωνίζεσθε εἰσελθεῖν διὰ τῆς στενῆς θύρας,ὅτι πολλοί,λέγω ὑμῖν,ζητήσουσιν εἰσελθεῖν καὶ οὐκ ἰσχύσουσιν,",
+    "bsb_english": "\"Make every effort to enter through the narrow door. For many, I tell you, will try to enter and will not be able.",
+    "translation": {
+      "thai": "«จงพากเพียรเข้าไปทางประตูแคบ เพราะเราบอกพวกท่านว่า คนจำนวนมากจะพยายามเข้าไปแต่จะเข้าไม่ได้",
+      "thai_literal": null,
+      "thai_summary": "คำว่า «พากเพียร» (ἀγωνίζεσθε) เป็นคำเดียวกับที่ใช้ในการแข่งขันกีฬาของกรีกโบราณ มีความหมายว่าทุ่มเทกำลังทั้งหมดอย่างจริงจัง ภาพของประตูแคบสื่อว่าการเข้าสู่อาณาจักรพระเจ้าต้องละทิ้งสิ่งที่ไม่จำเป็น (ดูลูกา 18:22-25 เรื่องคนหนุ่มที่ร่ำรวย) พระเยซูทรงตอบคำถามเรื่องจำนวนคนที่จะได้รับความรอดด้วยการเน้นความพยายามส่วนบุคคลแทนการคาดคะเน",
+      "key_decisions": [
+        {
+          "greek": "Ἀγωνίζεσθε",
+          "thai": "จงพากเพียร",
+          "rationale": "Present-middle-imperative of ἀγωνίζομαι 'struggle/strive/contend'. Classical athletic-contest metaphor (cf. 1 Cor 9:25 'everyone who competes'). 'พากเพียร' = 'strive-with-effort' (Thai with moral-effort nuance); 'จง' imperative marker. NEW establishment (first Lukan appearance)."
+        },
+        {
+          "greek": "διὰ τῆς στενῆς θύρας",
+          "thai": "ทางประตูแคบ",
+          "rationale": "στενός = narrow. θύρα = door (vs. πύλη gate — Matt 7:13 uses πύλη, Luke uses θύρα). Difference: πύλη = city-gate; θύρα = house-door, more intimate. 'ประตูแคบ' = narrow door — natural Thai. Matt 7:14 parallel used 'ประตูแคบ'."
+        },
+        {
+          "greek": "ζητήσουσιν εἰσελθεῖν καὶ οὐκ ἰσχύσουσιν",
+          "thai": "จะพยายามเข้าไปแต่จะเข้าไม่ได้",
+          "rationale": "Future-indicative pair: 'will seek to enter + will not be able'. ἰσχύω = 'have strength/be able'. uW figs-explicit: 'they will not be able to enter because it is so difficult'. 'จะเข้าไม่ได้' captures future-inability."
+        },
+        {
+          "greek": "πολλοί",
+          "thai": "คนจำนวนมาก",
+          "rationale": "Substantivized 'many'. 'คนจำนวนมาก' = many people."
+        }
+      ],
+      "notes": "PARALLEL: Matt 7:13-14 uses πύλη (gate) + 'narrow way'. Luke's θύρα (door) sets up the shift to HOUSE-METAPHOR in vv.25-27 (householder who shuts the door). The verbal distinction matters: Matt's way-vs-way speaks to a LIFE-PATH ethic; Luke's door speaks to ENTRY-INTO-KINGDOM-BANQUET. Both develop Jesus's eschatological warning. ἀγωνίζομαι is athletic/military metaphor — Paul will develop it extensively (1 Cor 9:25, Col 1:29, 1 Tim 6:12). Jesus's answer to the 'are there few?' question: (1) refuses numerical speculation; (2) shifts to personal-entry-effort; (3) warns many-who-try will fail. The implicit answer is both 'yes, relatively few' AND 'don't focus on that — focus on YOUR entry'."
+    }
+  },
+  {
+    "reference": "Luke 13:25",
+    "chapter": 13,
+    "verse": 25,
+    "greek": "ἀφ’οὗ ἂν ἐγερθῇ ὁ οἰκοδεσπότης καὶ ἀποκλείσῃ τὴν θύραν,καὶ ἄρξησθε ἔξω ἑστάναι καὶ κρούειν τὴν θύραν λέγοντες·Κύριε,ἄνοιξον ἡμῖν·καὶ ἀποκριθεὶς ἐρεῖ ὑμῖν·Οὐκ οἶδα ὑμᾶς πόθεν ἐστέ.",
+    "bsb_english": "After the master of the house gets up and shuts the door, you will stand outside knocking and saying, 'Lord, open the door for us.' But he will reply, 'I do not know where you are from.'",
+    "translation": {
+      "thai": "เมื่อเจ้าของบ้านลุกขึ้นปิดประตูแล้ว พวกท่านจะเริ่มยืนอยู่ข้างนอกและเคาะประตูกล่าวว่า ‹นายท่าน ขอโปรดเปิดให้พวกเราด้วย› และเขาจะตอบพวกท่านว่า ‹เราไม่รู้จักพวกเจ้า พวกเจ้ามาจากไหน›",
+      "thai_literal": null,
+      "thai_summary": "ภาพของเจ้าของบ้านที่ลุกขึ้นปิดประตูเป็นสัญลักษณ์ของการสิ้นสุดของโอกาสในวันพิพากษา เมื่อประตูปิดแล้ว จะไม่เปิดอีก การที่เจ้าของบ้านตอบว่า «ไม่รู้จัก» ไม่ใช่ปัญหาของความจำ แต่เป็นการปฏิเสธความสัมพันธ์แบบพันธสัญญา การ «รู้จัก» ในภาษาพระคัมภีร์หมายถึงความสัมพันธ์ลึกซึ้งเหมือนในอาโมส 3:2 «เฉพาะพวกเจ้าที่เรารู้จักจากทุกตระกูลในแผ่นดินโลก»",
+      "key_decisions": [
+        {
+          "greek": "ἀφ’ οὗ ἂν ἐγερθῇ",
+          "thai": "เมื่อ...ลุกขึ้น...แล้ว",
+          "rationale": "Temporal-subjunctive 'from the time when + aorist-passive-subjunctive ἐγείρω'. Sense: 'once he has gotten up'. 'เมื่อ...แล้ว' captures the completed-temporal sense."
+        },
+        {
+          "greek": "οἰκοδεσπότης",
+          "thai": "เจ้าของบ้าน",
+          "rationale": "οἶκος + δεσπότης = house-master. 'เจ้าของบ้าน' continuing from Luke 12:39 (same parable-figure). uW figs-exmetaphor: this figure represents God-at-final-judgment."
+        },
+        {
+          "greek": "ἀποκλείσῃ",
+          "thai": "ปิดประตู",
+          "rationale": "HAPAX LEGOMENON ἀποκλείω (ἀπο-intensive + κλείω 'close/shut'). Compound emphasizes decisive-and-final closing. 'ปิดประตู' with aspect-particle suggests finality. The hapax-intensity signals the irrevocable eschatological moment."
+        },
+        {
+          "greek": "κρούειν τὴν θύραν",
+          "thai": "เคาะประตู",
+          "rationale": "κρούω = knock/strike. 'เคาะประตู' = standard Thai (matches Luke 11:9-10 'knock and it shall be opened'). The ironic reversal from 11:9 (ask-seek-knock promise) to here (knock-but-denied)."
+        },
+        {
+          "greek": "Κύριε, ἄνοιξον ἡμῖν",
+          "thai": "นายท่าน ขอโปรดเปิดให้พวกเราด้วย",
+          "rationale": "Within the parable, the shut-out people address the house-owner (not yet identified as God within the parable-frame) → 'นายท่าน' (master/sir). 'ขอโปรด...ด้วย' = polite-pleading request. Inner-quote."
+        },
+        {
+          "greek": "Οὐκ οἶδα ὑμᾶς πόθεν ἐστέ",
+          "thai": "เราไม่รู้จักพวกเจ้า พวกเจ้ามาจากไหน",
+          "rationale": "uW figs-ellipsis + figs-parallelism: 'I don't know you, (I don't know) where you are from'. Supplied implicit repetition. 'ไม่รู้จัก' = don't know. The owner's reply uses intimate-dismissive register toward outsiders — เรา + พวกเจ้า."
+        }
+      ],
+      "notes": "HAPAX ἀποκλείω — only NT occurrence. Classical attestations in military/architectural contexts (shutting gates to exclude enemies). The intensive prefix ἀπο- emphasizes decisive, final closure — eschatologically loaded. OT ALLUSION: Amos 3:2 ('only you I have known of all families of the earth' — covenantal-knowing). 'I do not know you' is theologically PRE-COVENANTAL-REJECTION, not merely social snubbing. The double-exclusion ('I don't know you' + 'where you are from') functions as STRANGER-FORMULA: treated as Gentile-outsider despite their claim to prior-association (v.26). IRONY: The people claiming intimacy ('we ate and drank with you') are met with the non-recognition formula used for strangers — mere physical-proximity doesn't establish covenant-knowing. ADDED TO nt_ot_citations.json: LUK 13:25 (AMO 3:2 + JER 24:5-10 covenantal-knowing-formula + MAT 25:12 parallel-rejection-formula)."
+    }
+  },
+  {
+    "reference": "Luke 13:26",
+    "chapter": 13,
+    "verse": 26,
+    "greek": "τότε ἄρξεσθε λέγειν·Ἐφάγομεν ἐνώπιόν σου καὶ ἐπίομεν,καὶ ἐν ταῖς πλατείαις ἡμῶν ἐδίδαξας·",
+    "bsb_english": "Then you will say, 'We ate and drank with you, and you taught in our streets.'",
+    "translation": {
+      "thai": "แล้วพวกท่านจะเริ่มพูดว่า ‹พวกข้าพเจ้าได้กินและดื่มต่อหน้าท่าน และท่านได้สอนในถนนของพวกข้าพเจ้า›",
+      "thai_literal": null,
+      "thai_summary": "คนที่ถูกปิดนอกประตูพยายามใช้ความสนิทสนมทางสังคมเป็นหลักฐานของการมีสิทธิ์เข้าอาณาจักรพระเจ้า การ «กินและดื่ม» ต่อหน้าใครสักคนในวัฒนธรรมกรีก-โรมันไม่จำเป็นต้องหมายถึงมิตรภาพ อาจเป็นแค่การอยู่ในที่เดียวกัน ส่วน «ท่านสอนในถนนของพวกเรา» หมายถึงเป็นพยานการสอนของพระเยซูในที่สาธารณะ แต่การได้ยินการสอนไม่เท่ากับการปฏิบัติตาม",
+      "key_decisions": [
+        {
+          "greek": "ἄρξεσθε λέγειν",
+          "thai": "จะเริ่มพูดว่า",
+          "rationale": "Future-middle of ἄρχομαι 'begin' + infinitive 'to say'. 'จะเริ่มพูดว่า' = future-inchoative."
+        },
+        {
+          "greek": "Ἐφάγομεν ἐνώπιόν σου καὶ ἐπίομεν",
+          "thai": "พวกข้าพเจ้าได้กินและดื่มต่อหน้าท่าน",
+          "rationale": "uW figs-metaphor: ἐνώπιον = 'before/in the presence of'. uW figs-merism: 'ate and drank' = shared-meals (full-merism). 'พวกข้าพเจ้า' humble-self-reference addressing a social-superior; 'ต่อหน้าท่าน' = in your presence."
+        },
+        {
+          "greek": "ἐν ταῖς πλατείαις ἡμῶν ἐδίδαξας",
+          "thai": "ท่านได้สอนในถนนของพวกข้าพเจ้า",
+          "rationale": "uW figs-exclusive: 'our streets' excludes the house-owner (Jesus traveled through but wasn't from there). πλατεῖα = broad-street/public-square. 'ถนน' = street (continuing glossary). Aorist ἐδίδαξας 'you (sg) taught' — they address the single house-owner."
+        }
+      ],
+      "notes": "The pleaders' defense exposes their misunderstanding: they cite PROXIMITY (ate before you, taught in our town) not OBEDIENCE or DISCIPLESHIP. This is the tragic misreading by Jesus's Jewish contemporaries who enjoyed his physical presence yet rejected his call to repent. ἐνώπιόν σου ('before you') with ἐφάγομεν suggests sharing a TABLE-PROXIMITY without being IN FELLOWSHIP — like eating in the same restaurant rather than sitting at the same table. Parallel thought: Matt 7:22-23 'Lord, Lord, did we not...' + Luke 13:27 below (OT-echo Ps 6:8). The σου vs ἡμῶν vs σου shift shows the pleaders' attempt to establish shared-history one-sided by them; the owner will refuse the frame."
+    }
+  },
+  {
+    "reference": "Luke 13:27",
+    "chapter": 13,
+    "verse": 27,
+    "greek": "καὶ ἐρεῖ λέγων ὑμῖν·Οὐκ οἶδα πόθεν ἐστέ·ἀπόστητε ἀπ’ἐμοῦ,πάντες ἐργάται ἀδικίας.",
+    "bsb_english": "And he will answer, 'I tell you, I do not know where you are from. Depart from me, all you evildoers.'",
+    "translation": {
+      "thai": "แต่เขาจะตอบพวกท่านว่า ‹เราไม่รู้จักว่าพวกเจ้ามาจากไหน จงออกไปให้พ้นหน้าเรา พวกเจ้าทุกคนที่ทำการอธรรม›",
+      "thai_literal": null,
+      "thai_summary": "คำพิพากษาสุดท้ายนี้อ้างอิงพระธรรมสดุดี 6:8 ในเซปตัวจินต์ ที่ผู้เขียนสดุดีไล่ศัตรูไปด้วยคำว่า «จงออกไปให้พ้นจากเรา พวกเจ้าที่ทำการอธรรม» พระเยซูทรงใช้คำเหล่านี้ในฐานะผู้พิพากษาของจักรวาลเหมือนพระยาห์เวห์ในพระคัมภีร์เดิม ผู้ที่อ้างความสนิทสนมกับพระคริสต์แต่ไม่ปฏิบัติตามจะเห็นความโปรดปรานของพระองค์กลับกลายเป็นการปฏิเสธ",
+      "key_decisions": [
+        {
+          "greek": "ἐρεῖ λέγων",
+          "thai": "จะตอบ...ว่า",
+          "rationale": "Pleonastic 'will-say saying'. uW figs-explicitinfo: can be abbreviated. 'จะตอบ...ว่า' is natural Thai compression."
+        },
+        {
+          "greek": "Οὐκ οἶδα πόθεν ἐστέ",
+          "thai": "เราไม่รู้จักว่าพวกเจ้ามาจากไหน",
+          "rationale": "Second iteration of the rejection-formula (abbreviated from v.25). uW figs-explicit: 'I do not know who you are'. 'ไม่รู้จักว่า...มาจากไหน' preserves both terms."
+        },
+        {
+          "greek": "ἀπόστητε ἀπ’ ἐμοῦ",
+          "thai": "จงออกไปให้พ้นหน้าเรา",
+          "rationale": "Aorist-imperative ἀφίστημι 'depart/withdraw'. DIRECT QUOTATION of LXX Ps 6:9 (ET 6:8) — 'ἀπόστητε ἀπ’ ἐμοῦ, πάντες οἱ ἐργαζόμενοι τὴν ἀνομίαν'. 'จงออกไปให้พ้นหน้าเรา' = imperative 'go away from my presence'."
+        },
+        {
+          "greek": "πάντες ἐργάται ἀδικίας",
+          "thai": "พวกเจ้าทุกคนที่ทำการอธรรม",
+          "rationale": "ἐργάτης = 'worker/doer'; ἀδικία = 'injustice/unrighteousness'. Luke's ἀδικίας varies slightly from LXX Ps 6:9 ἀνομίαν — same semantic field. 'ทำการอธรรม' continues established glossary (Matt 7:23 ἀνομία rendering, 23:28 also ἀνομία). ἀδικία shares the injustice/wickedness semantic range. Contextually same meaning."
+        }
+      ],
+      "notes": "DIRECT OT CITATION / ALLUSION: Ps 6:8 LXX (ET 6:9) — David's dismissal of his enemies becomes Jesus-as-Judge's dismissal of the falsely-claimed. Jesus assumes the David-Lord voice, a striking Christological move. Compare Matt 7:23 which uses ἀνομία (lawlessness) exactly-matching LXX; Luke has ἀδικία (unrighteousness) — minor Lukan variation, same force. KEY INTERPRETIVE POINT: workers-of-ADIKIA is a covenantal-wickedness term, not generic 'bad people' — it denotes covenant-faithlessness specifically. The pleaders were JEWS who had social-contact with Jesus but failed to enter via repentance-faith; they are indicted not as outsiders but as COVENANT-INSIDERS-TURNED-OUT. ADDED TO nt_ot_citations.json: LUK 13:27 direct_citation (PSA 6:8 LXX 'depart from me all workers of iniquity' — minor lexeme variation ἀδικία for ἀνομία)."
+    }
+  },
+  {
+    "reference": "Luke 13:28",
+    "chapter": 13,
+    "verse": 28,
+    "greek": "ἐκεῖ ἔσται ὁ κλαυθμὸς καὶ ὁ βρυγμὸς τῶν ὀδόντων,ὅταν ὄψησθε Ἀβραὰμ καὶ Ἰσαὰκ καὶ Ἰακὼβ καὶ πάντας τοὺς προφήτας ἐν τῇ βασιλείᾳ τοῦ θεοῦ,ὑμᾶς δὲ ἐκβαλλομένους ἔξω.",
+    "bsb_english": "There will be weeping and gnashing of teeth when you see Abraham, Isaac, Jacob, and all the prophets in the kingdom of God, but you yourselves are thrown out.",
+    "translation": {
+      "thai": "ที่นั่นจะมีเสียงร่ำไห้และขบเขี้ยวเคี้ยวฟัน เมื่อพวกท่านเห็นอับราฮัม อิสอัค ยาโคบ และบรรดาผู้เผยพระวจนะทั้งหมดอยู่ในอาณาจักรของพระเจ้า แต่พวกท่านเองถูกโยนออกไปข้างนอก",
+      "thai_literal": null,
+      "thai_summary": "ภาพของ «เสียงร่ำไห้และขบเขี้ยวเคี้ยวฟัน» เป็นสัญลักษณ์ของความเสียใจและความผิดหวังอย่างที่สุด ไม่ใช่แค่ความเจ็บปวดทางกาย แต่เป็นการเสียใจที่ไม่สามารถย้อนกลับได้ (เปรียบเทียบกับมัทธิว 8:12 ที่ใช้สำนวนเดียวกัน) อับราฮัม อิสอัค และยาโคบเป็นบรรพบุรุษของอิสราเอล การที่ชาวยิวผู้สืบเชื้อสายถูกปฏิเสธจากงานเลี้ยงของบรรพบุรุษของตน ในขณะที่คนต่างชาติถูกรับเข้ามา (ข้อ 29) เป็นการพลิกความคาดหวังครั้งยิ่งใหญ่",
+      "key_decisions": [
+        {
+          "greek": "κλαυθμὸς καὶ ὁ βρυγμὸς τῶν ὀδόντων",
+          "thai": "เสียงร่ำไห้และขบเขี้ยวเคี้ยวฟัน",
+          "rationale": "Established formula across Matt 8:12/13:42,50/22:13/24:51/25:30 + here. Thai rendering 'เสียงร่ำไห้และขบเขี้ยวเคี้ยวฟัน' matches Matt 8:12 and Matt 24:51 established rendering."
+        },
+        {
+          "greek": "Ἀβραὰμ καὶ Ἰσαὰκ καὶ Ἰακὼβ",
+          "thai": "อับราฮัม อิสอัค ยาโคบ",
+          "rationale": "Standard Thai Christian transliterations for patriarchs. Matches Matt 8:11 established rendering."
+        },
+        {
+          "greek": "πάντας τοὺς προφήτας",
+          "thai": "บรรดาผู้เผยพระวจนะทั้งหมด",
+          "rationale": "προφήτης = ผู้เผยพระวจนะ (continuing). 'บรรดา...ทั้งหมด' = all-the-prophets (Luke ADDS 'all the prophets' to the Matt 8:11 formula — inclusion of the prophetic tradition)."
+        },
+        {
+          "greek": "ὑμᾶς δὲ ἐκβαλλομένους ἔξω",
+          "thai": "แต่พวกท่านเองถูกโยนออกไปข้างนอก",
+          "rationale": "Present-passive-participle 'being thrown out' + accusative + adversative δέ. uW figs-activepassive alternate: 'when God will have thrown you outside'. 'ถูกโยนออกไปข้างนอก' preserves both passive-voice and the throw-outside emphasis."
+        }
+      ],
+      "notes": "PARALLEL: Matt 8:11-12 (nearly-identical logion at centurion-faith episode). Luke places it in the Travel-Narrative; Matthew places it at Capernaum-centurion. Both assert the great-reversal: Gentiles in, some-Jews out. Luke's addition 'and all the prophets' extends the Abraham-Isaac-Jacob formula to include the prophetic-tradition as banqueters — emphasizing Israel's faithful-remnant WILL be at the feast (it's not 'all-Israel-out'). OT INTERTEXT: Isa 25:6-8 (eschatological-feast-for-all-peoples on Zion); Ps 112:10 LXX (ὁ ἁμαρτωλός ὄψεται...τοὺς ὀδόντας αὐτοῦ βρύξει καὶ τακήσεται — the sinner will see and gnash teeth). OT-citation-cluster. ADDED TO nt_ot_citations.json: LUK 13:28 (PSA 112:10 LXX gnashing-teeth-sinner + ISA 25:6-8 Zion-feast + MAT 8:11-12 parallel)."
+    }
+  },
+  {
+    "reference": "Luke 13:29",
+    "chapter": 13,
+    "verse": 29,
+    "greek": "καὶ ἥξουσιν ἀπὸ ἀνατολῶν καὶ δυσμῶν καὶ ἀπὸ βορρᾶ καὶ νότου καὶ ἀνακλιθήσονται ἐν τῇ βασιλείᾳ τοῦ θεοῦ.",
+    "bsb_english": "People will come from east and west and north and south, and will recline at the table in the kingdom of God.",
+    "translation": {
+      "thai": "และจะมีคนมาจากทิศตะวันออกและทิศตะวันตก จากทิศเหนือและทิศใต้ เพื่อเอนกายร่วมโต๊ะเลี้ยงในอาณาจักรของพระเจ้า",
+      "thai_literal": null,
+      "thai_summary": "การระบุทั้งสี่ทิศเป็นภาพของการครอบคลุมทั้งโลก (merism) แสดงถึงคนจากทุกชนชาติที่จะได้มาร่วมงานเลี้ยงแห่งอาณาจักรพระเจ้า ข้อความนี้สะท้อนคำพยากรณ์ในอิสยาห์ 25:6-8 ที่พระเจ้าจะทรงจัดเตรียมงานเลี้ยงสำหรับชนทุกชาติบนภูเขาของพระองค์ การเอนกายเป็นท่านั่งในงานเลี้ยงสมัยโบราณ ที่แสดงถึงความยินดีและความเป็นกันเอง",
+      "key_decisions": [
+        {
+          "greek": "ἀπὸ ἀνατολῶν καὶ δυσμῶν καὶ ἀπὸ βορρᾶ καὶ νότου",
+          "thai": "จากทิศตะวันออกและทิศตะวันตก จากทิศเหนือและทิศใต้",
+          "rationale": "uW figs-merism: all four directions = entire inhabited world. Thai preserves the four-fold sequence for rhetorical emphasis. Matches Matt 8:11 'ทิศตะวันออกและทิศตะวันตก' + adds north/south per Luke's distinctive-expansion."
+        },
+        {
+          "greek": "ἀνακλιθήσονται",
+          "thai": "เอนกายร่วมโต๊ะเลี้ยง",
+          "rationale": "Future-passive of ἀνακλίνω 'recline (at table)'. uW figs-metaphor: banquet-reclining as kingdom-joy. 'เอนกายร่วมโต๊ะเลี้ยง' matches Matt 8:11 established rendering (synoptic-parallel consistency)."
+        }
+      ],
+      "notes": "OT ALLUSIONS: Ps 107:3 LXX (ἐκ τῶν χωρῶν συνήγαγεν αὐτούς, ἀπὸ ἀνατολῶν καὶ δυσμῶν καὶ βορρᾶ καὶ θαλάσσης — God gathering exiles from 4 directions — though Ps 107 has θαλάσσης 'sea' for south; Luke has νότος); Isa 43:5-6 (I will bring your offspring from the east + from the west + from the north + from the south); Isa 49:12 (they will come from afar — north + west + land of Sinim); Mal 1:11 (from the rising of the sun even to its setting my name will be great among the nations). The Gentile-inclusion-motif is strongly embedded in Isaianic prophecy. Luke expands Matt's two-direction formula (east/west) to the full four-direction merism, emphasizing Gentile-inclusion more explicitly. ADDED TO nt_ot_citations.json: LUK 13:29 (PSA 107:3 + ISA 43:5-6 + ISA 49:12 + MAL 1:11 four-directions-gathering cluster)."
+    }
+  },
+  {
+    "reference": "Luke 13:30",
+    "chapter": 13,
+    "verse": 30,
+    "greek": "καὶ ἰδοὺ εἰσὶν ἔσχατοι οἳ ἔσονται πρῶτοι,καὶ εἰσὶν πρῶτοι οἳ ἔσονται ἔσχατοι.",
+    "bsb_english": "And indeed, some who are last will be first, and some who are first will be last.\"",
+    "translation": {
+      "thai": "และดูเถิด มีคนสุดท้ายที่จะกลายเป็นคนแรก และมีคนแรกที่จะกลายเป็นคนสุดท้าย»",
+      "thai_literal": null,
+      "thai_summary": "คำกล่าวนี้เป็นคำพูดที่ซ้อนกัน (paradox) ที่พระเยซูทรงใช้หลายครั้งเพื่อแสดงถึงการกลับด้านของค่านิยมที่เกิดขึ้นในอาณาจักรของพระเจ้า (เปรียบเทียบกับ มาระโก 10:31, มัทธิว 19:30, 20:16) ในบริบทนี้ หมายถึงอิสราเอลที่ถือว่าตนเป็น «คนแรก» (ชนชาติเลือกสรร) จะกลายเป็นคนสุดท้ายในวันพิพากษาถ้าไม่กลับใจ ในขณะที่คนต่างชาติที่ถูกมองว่าเป็น «คนสุดท้าย» (คนนอก) จะได้กลายเป็นคนแรก",
+      "key_decisions": [
+        {
+          "greek": "καὶ ἰδοὺ",
+          "thai": "และดูเถิด",
+          "rationale": "uW figs-metaphor: attention-marker for emphasis. 'ดูเถิด' standard biblical-register."
+        },
+        {
+          "greek": "εἰσὶν ἔσχατοι οἳ ἔσονται πρῶτοι",
+          "thai": "มีคนสุดท้ายที่จะกลายเป็นคนแรก",
+          "rationale": "uW figs-metaphor: last = not-privileged; first = highly-privileged. uW figs-nominaladj: substantivized adjectives. 'คนสุดท้าย' / 'คนแรก' = natural Thai substantivization."
+        }
+      ],
+      "notes": "PARALLEL: Mark 10:31, Matt 19:30, Matt 20:16. uW chapter-intro: 'Those who are least important will be first, and those who are most important will be last' — paradox/seeming-contradiction that both assertions are true. Kingdom-of-God reverses social-honor-hierarchy. Here in the Gentile-inclusion context (vv.28-29), the first/last saying has specifically ETHNIC-ISRAEL-vs-GENTILE application: presumed-insiders become outsiders, presumed-outsiders become insiders. Jesus's reversal-logia form a Lukan theological pillar (Magnificat 1:52; 6:20-26 beatitudes-woes; 14:11; 16:25 Lazarus reversal; 18:14 tax-collector vs Pharisee; 22:26-27)."
+    }
+  },
+  {
+    "reference": "Luke 13:31",
+    "chapter": 13,
+    "verse": 31,
+    "greek": "Ἐν αὐτῇ τῇ ὥρᾳ προσῆλθάν τινες Φαρισαῖοι λέγοντες αὐτῷ·Ἔξελθε καὶ πορεύου ἐντεῦθεν,ὅτι Ἡρῴδης θέλει σε ἀποκτεῖναι.",
+    "bsb_english": "At that very hour, some Pharisees came to Jesus and told Him, \"Leave this place and get away, because Herod wants to kill You.\"",
+    "translation": {
+      "thai": "ในเวลานั้นเอง พวกฟาริสีบางคนมาหาพระองค์และบอกพระองค์ว่า «ขอท่านจงออกไปเสียจากที่นี่เถิด เพราะเฮโรดต้องการจะฆ่าท่าน»",
+      "thai_literal": null,
+      "thai_summary": "ฉากนี้น่าสนใจเพราะโดยทั่วไปพวกฟาริสีเป็นฝ่ายคัดค้านพระเยซู แต่กลับมาเตือนพระองค์เรื่องอันตรายจากเฮโรด บางคนตีความว่าพวกฟาริสีเหล่านี้เป็นมิตรจริง ส่วนบางคนตีความว่าพวกเขาต้องการให้พระเยซูออกไปจากกาลิลี (เขตปกครองของเฮโรด) เพราะเห็นว่าเป็นภัยคุกคามทางการเมือง เฮโรดอันติปัสที่กล่าวถึงนี้คือผู้ที่ได้สั่งตัดคอยอห์นบัพติศมา (ดูลูกา 9:9)",
+      "key_decisions": [
+        {
+          "greek": "Ἐν αὐτῇ τῇ ὥρᾳ",
+          "thai": "ในเวลานั้นเอง",
+          "rationale": "uW figs-idiom: 'at that hour' = 'at that same time'. uW writing-newevent: introduces new scene. 'ในเวลานั้นเอง' captures the immediacy-connection."
+        },
+        {
+          "greek": "Φαρισαῖοι",
+          "thai": "พวกฟาริสี",
+          "rationale": "Standard Thai Christian transliteration (continuing)."
+        },
+        {
+          "greek": "Ἔξελθε καὶ πορεύου",
+          "thai": "ขอท่านจงออกไป",
+          "rationale": "uW figs-doublet: 'leave and depart' = emphasize urgency of flight. Compressed in Thai to 'ออกไป' with intensifier; adding 'จง...เถิด' provides urgency-tone. 'ขอท่าน' = polite-respectful addressing-Jesus."
+        },
+        {
+          "greek": "Ἡρῴδης θέλει σε ἀποκτεῖναι",
+          "thai": "เฮโรดต้องการจะฆ่าท่าน",
+          "rationale": "uW figs-metonymy: 'Herod wants to kill you' — Herod wouldn't personally kill but order soldiers. Preserve the idiom (Thai also uses this rhetorical pattern). Ἡρῴδης = เฮโรด (standard Thai, continuing)."
+        },
+        {
+          "greek": "ท่าน",
+          "thai": "ท่าน",
+          "rationale": "Pharisees addressing Jesus with polite-respectful 'ท่าน' (not the low-status address, not the divine-honorific). Matches ambiguous-motivation reading."
+        }
+      ],
+      "notes": "HEROD-IDENTIFICATION: Herod Antipas, tetrarch of Galilee and Perea (4 BCE-39 CE), who executed John the Baptist (Luke 9:9 'Herod said, \"I beheaded John, but who is this I hear such things about?\"'). MOTIVES OF THE PHARISEES (ambiguous — interpretive options): (1) sympathetic-warning from less-hostile Pharisees; (2) hostile-ruse to drive Jesus out of Galilee; (3) collusion-with-Herod to pressure Jesus out. Jesus's response (v.32 'go tell that fox') treats the Pharisees as messengers-to-Herod, suggesting option (2) or (3) is more likely — if they were friendly, he would thank them; instead he sends a sharp message back to Herod via them. SETTING: Jesus must still be in territory Herod controls (Galilee or Perea), since the warning assumes Herod's jurisdictional reach."
+    }
+  },
+  {
+    "reference": "Luke 13:32",
+    "chapter": 13,
+    "verse": 32,
+    "greek": "καὶ εἶπεν αὐτοῖς·Πορευθέντες εἴπατε τῇ ἀλώπεκι ταύτῃ·Ἰδοὺ ἐκβάλλω δαιμόνια καὶ ἰάσεις ἀποτελῶ σήμερον καὶ αὔριον,καὶ τῇ τρίτῃ τελειοῦμαι.",
+    "bsb_english": "But Jesus replied, \"Go tell that fox, 'Look, I will keep driving out demons and healing people today and tomorrow, and on the third day I will reach My goal.'",
+    "translation": {
+      "thai": "พระองค์ตรัสกับพวกเขาว่า «จงไปบอกสุนัขจิ้งจอกตัวนั้นว่า ‹ดูเถิด วันนี้และวันพรุ่งนี้เราขับผีและรักษาโรค และในวันที่สามเราจะสำเร็จกิจ›",
+      "thai_literal": null,
+      "thai_summary": "การเรียกเฮโรดว่า «สุนัขจิ้งจอก» เป็นการดูถูกอย่างชัดเจน ในวัฒนธรรมกรีกและยิว สุนัขจิ้งจอกเป็นสัญลักษณ์ของคนเจ้าเล่ห์และไม่มีศักดิ์ศรี (ต่างจากสิงโตซึ่งเป็นสัญลักษณ์ของกษัตริย์ที่มีพลัง) สำนวน «วันนี้ วันพรุ่งนี้ และวันที่สาม» เป็นสำนวนที่หมายถึง «ในช่วงเวลาอันใกล้» ส่วนคำว่า «เราจะสำเร็จกิจ» (τελειοῦμαι) มีความหมายหลายชั้น สามารถแปลได้ทั้งการเสร็จสิ้นพระราชกิจการรักษาโรค การบรรลุถึงจุดหมายปลายทาง (เยรูซาเล็ม) หรือการถวายชีวิตเป็นเครื่องบูชาบนกางเขน",
+      "key_decisions": [
+        {
+          "greek": "τῇ ἀλώπεκι ταύτῃ",
+          "thai": "สุนัขจิ้งจอกตัวนั้น",
+          "rationale": "ἀλώπηξ = fox. uW figs-metaphor: (1) deceitful/cunning person OR (2) insignificant/cowardly person. 'สุนัขจิ้งจอก' = standard Thai for fox. NEW establishment in Luke. Feminine-grammatical gender of ἀλώπηξ is not Thai-relevant. 'ตัวนั้น' = that-one (demonstrative) + classifier."
+        },
+        {
+          "greek": "Ἰδοὺ",
+          "thai": "ดูเถิด",
+          "rationale": "Attention-marker within the inner-message-to-Herod."
+        },
+        {
+          "greek": "ἐκβάλλω δαιμόνια καὶ ἰάσεις ἀποτελῶ",
+          "thai": "เราขับผีและรักษาโรค",
+          "rationale": "Present-indicatives with durative-force. 'ขับผี' = continuing glossary (δαιμόνιον). 'ἰάσεις ἀποτελῶ' = 'complete healings' — 'รักษาโรค' natural. Royal เรา for divine-self-reference."
+        },
+        {
+          "greek": "σήμερον καὶ αὔριον, καὶ τῇ τρίτῃ",
+          "thai": "วันนี้และวันพรุ่งนี้...และในวันที่สาม",
+          "rationale": "uW figs-idiom: 'today and tomorrow and the third day' = idiomatic 'in a short time ahead/soon'. Preserve the three-day structure as it has Christological-echo (Hosea 6:2 third-day + Jesus's passion-resurrection). Thai natural without paraphrase."
+        },
+        {
+          "greek": "τελειοῦμαι",
+          "thai": "เราจะสำเร็จกิจ",
+          "rationale": "Present-passive-indicative of τελειόω 'complete/perfect/finish'. uW gives 4 options: (1) complete ministry [most likely contextual]; (2) reach destination; (3) give life as sacrifice; (4) demonstrate supreme love. We go with option (1) — 'สำเร็จกิจ' captures 'complete the work/ministry' and allows readers to hear the additional Christological-passion resonance without foreclosing. 'เรา' royal preserves divine-self-claim."
+        }
+      ],
+      "notes": "KEY INTERPRETIVE DECISIONS: (1) ἀλώπηξ — calling Herod a fox is SHARPLY derogatory in Jewish idiom. In Talmudic sources (Pirke Avot 4:15), fox = cunning-but-weak creature, opposite of lion (king). In Greek-classical tradition (Aesop, Aristophanes), fox = sneaky-unreliable. Likely Jesus combines both nuances: Herod is devious BUT ultimately insignificant compared to Jesus's prophetic mission. (2) τελειοῦμαι — we take option (1) 'complete the work/ministry' as the primary sense but the Christological-passion-echo is unavoidable given 'the third day' trope (cf. Hosea 6:2 LXX 'ἐν τῇ ἡμέρᾳ τῇ τρίτῃ ἀναστησόμεθα'). Christian readers will hear the double-entendre; we preserve that ambiguity. (3) The 'today-tomorrow-third-day' is an idiom for 'soon' but the specific 'third day' cannot be accidentally-chosen in a gospel. Narrative irony: Jesus speaks mortality-casualness while the reader knows the passion-kerygma. OT-echo: Hosea 6:2 ('on the third day he will raise us up'). ADDED TO nt_ot_citations.json: LUK 13:32 (HOS 6:2 third-day-raising resurrection-echo + EZK 37:3-14 dead-bones-raised prophetic-restoration)."
+    }
+  },
+  {
+    "reference": "Luke 13:33",
+    "chapter": 13,
+    "verse": 33,
+    "greek": "πλὴν δεῖ με σήμερον καὶ αὔριον καὶ τῇ ἐχομένῃ πορεύεσθαι,ὅτι οὐκ ἐνδέχεται προφήτην ἀπολέσθαι ἔξω Ἰερουσαλήμ.",
+    "bsb_english": "Nevertheless, I must keep going today and tomorrow and the next day, for it is not admissible for a prophet to perish outside of Jerusalem.",
+    "translation": {
+      "thai": "แต่เราจะต้องเดินทางต่อไปทั้งวันนี้ วันพรุ่งนี้ และวันรุ่งขึ้น เพราะเป็นไปไม่ได้ที่ผู้เผยพระวจนะจะถูกฆ่านอกกรุงเยรูซาเล็ม",
+      "thai_literal": null,
+      "thai_summary": "พระเยซูตรัสด้วยคำพูดที่เป็นการประชด เยรูซาเล็มควรจะเป็นเมืองศักดิ์สิทธิ์ที่ให้การต้อนรับผู้เผยพระวจนะของพระเจ้า แต่ในประวัติศาสตร์กลับกลายเป็นสถานที่ที่ผู้เผยพระวจนะมากมายถูกฆ่า (เศคาริยาห์ใน 2 พงศาวดาร 24:20-22, อุรียาห์ใน เยเรมีย์ 26:20-23, และประเพณียิวเกี่ยวกับอิสยาห์ที่ถูกเลื่อยตัดเป็นสอง) เฮโรดจะไม่สามารถฆ่าพระเยซูได้เพราะพระเจ้าทรงกำหนดไว้แล้วว่าการสิ้นพระชนม์ของพระองค์จะต้องเกิดขึ้นในเยรูซาเล็ม",
+      "key_decisions": [
+        {
+          "greek": "πλὴν δεῖ με",
+          "thai": "แต่เราจะต้อง",
+          "rationale": "πλήν = 'nevertheless/but'. δεῖ με = 'it is necessary for me' — divine-necessity formula. Royal เรา preserves divine-self-claim. Lukan-signature use of δεῖ for divine-plan (Acts 1:16, 4:12, etc.)."
+        },
+        {
+          "greek": "σήμερον καὶ αὔριον καὶ τῇ ἐχομένῃ",
+          "thai": "วันนี้ วันพรุ่งนี้ และวันรุ่งขึ้น",
+          "rationale": "uW figs-idiom: 'today and tomorrow and the day-coming-after' = short-time. The shift from v.32's 'third day' to 'the next day' (τῇ ἐχομένῃ) is a deliberate Lukan lexical shift — v.32 used τρίτῃ with Christological echo; v.33 uses ἐχομένῃ ('the one following') without the Christological loading. 'วันรุ่งขึ้น' = the next day."
+        },
+        {
+          "greek": "οὐκ ἐνδέχεται",
+          "thai": "เป็นไปไม่ได้",
+          "rationale": "HAPAX LEGOMENON ἐνδέχεται (only NT occurrence, impersonal of ἐνδέχομαι 'admit/be possible'). uW figs-irony: Jesus speaks ironically — 'it is not admissible' — either '(by precedent) it cannot happen elsewhere' or '(per prophetic-pattern) it will happen only there'. 'เป็นไปไม่ได้' captures the ironic-impossibility."
+        },
+        {
+          "greek": "προφήτην ἀπολέσθαι ἔξω Ἰερουσαλήμ",
+          "thai": "ผู้เผยพระวจนะจะถูกฆ่านอกกรุงเยรูซาเล็ม",
+          "rationale": "Aorist-middle-infinitive ἀπόλλυμαι 'perish/be destroyed'. 'ถูกฆ่า' = be killed (passive-flavor in Thai). 'นอกกรุงเยรูซาเล็ม' = outside-Jerusalem."
+        }
+      ],
+      "notes": "HAPAX ἐνδέχεται — only NT occurrence. Classical attestations include the sense 'it is admissible/permitted'. uW figs-irony: the statement is ironic — Jesus is saying 'of course I will die in Jerusalem, not out here in Herod's territory' — which is simultaneously a dark commentary on Jerusalem's history of killing prophets (it's the EXPECTED place for prophet-murder) and a theological claim that Jerusalem IS the divinely-appointed place for his passion. OT INTERTEXT: 2 Chr 24:20-22 (Zechariah ben-Jehoiada stoned in temple court), Jer 26:20-23 (Uriah killed in Jerusalem), and the pseudepigraphic Martyrdom-of-Isaiah tradition (Isaiah sawn-asunder under Manasseh). Jesus participates in this prophetic-martyrdom stream. ADDED TO nt_ot_citations.json: LUK 13:33 (2CH 24:20-22 Zechariah + JER 26:20-23 Uriah + prophet-martyrdom tradition)."
+    }
+  },
+  {
+    "reference": "Luke 13:34",
+    "chapter": 13,
+    "verse": 34,
+    "greek": "Ἰερουσαλὴμ Ἰερουσαλήμ,ἡ ἀποκτείνουσα τοὺς προφήτας καὶ λιθοβολοῦσα τοὺς ἀπεσταλμένους πρὸς αὐτήν ποσάκις ἠθέλησα ἐπισυνάξαι τὰ τέκνα σου ὃν τρόπον ὄρνις τὴν ἑαυτῆς νοσσιὰν ὑπὸ τὰς πτέρυγας,καὶ οὐκ ἠθελήσατε.",
+    "bsb_english": "O Jerusalem, Jerusalem, who kills the prophets and stones those sent to her, how often I have longed to gather your children together as a hen gathers her chicks under her wings, but you were unwilling!",
+    "translation": {
+      "thai": "กรุงเยรูซาเล็มเอ๋ย กรุงเยรูซาเล็ม เจ้าผู้ฆ่าเหล่าผู้เผยพระวจนะและเอาหินขว้างใส่ผู้ที่ทรงส่งมาหาเจ้า กี่ครั้งกี่หนแล้วที่เราปรารถนาจะรวบรวมลูกหลานของเจ้าไว้ ดุจดังแม่ไก่ที่รวบรวมลูกของมันไว้ใต้ปีก แต่พวกเจ้าหาปรารถนาไม่",
+      "thai_literal": null,
+      "thai_summary": "บทคร่ำครวญของพระเยซูต่อกรุงเยรูซาเล็มเป็นหนึ่งในข้อความที่เต็มด้วยอารมณ์มากที่สุดในพระกิตติคุณ พระองค์ทรงใช้ภาพของแม่ไก่ที่ปกป้องลูกของตนไว้ใต้ปีก ซึ่งเป็นภาพในพระคัมภีร์เดิมที่ใช้พรรณนาการปกป้องของพระเจ้าต่อประชากรของพระองค์ (สดุดี 17:8, 57:1, 91:4) การที่พระเยซูทรงเรียกตัวเองว่าแม่ที่ต้องการปกป้องลูก แสดงถึงพระเมตตาคุณของพระเจ้าที่ต้องการปกป้องประชากรของพระองค์ แต่พวกเขากลับปฏิเสธการคุ้มครองนั้น",
+      "key_decisions": [
+        {
+          "greek": "Ἰερουσαλὴμ Ἰερουσαλήμ",
+          "thai": "กรุงเยรูซาเล็มเอ๋ย กรุงเยรูซาเล็ม",
+          "rationale": "uW figs-apostrophe: address to the city (personification). Repetition = emphasis/emotional-intensity. Matches Matt 23:37 established rendering. 'เอ๋ย' vocative-particle."
+        },
+        {
+          "greek": "ἡ ἀποκτείνουσα τοὺς προφήτας καὶ λιθοβολοῦσα τοὺς ἀπεσταλμένους",
+          "thai": "เจ้าผู้ฆ่าเหล่าผู้เผยพระวจนะและเอาหินขว้างใส่ผู้ที่ทรงส่งมาหาเจ้า",
+          "rationale": "Matches Matt 23:37 established rendering verbatim (synoptic-parallel consistency — uW translation principle §Part-3). uW figs-123person: third-person language while addressing; we preserve as second-person per Thai apostrophe-naturalness."
+        },
+        {
+          "greek": "ποσάκις ἠθέλησα ἐπισυνάξαι τὰ τέκνα σου",
+          "thai": "กี่ครั้งกี่หนแล้วที่เราปรารถนาจะรวบรวมลูกหลานของเจ้าไว้",
+          "rationale": "uW figs-exclamations: 'how often' is exclamatory. 'กี่ครั้งกี่หน' for intensive-frequency. ἐπισυνάγω = gather-together (continuing from Matt 23:37). 'ลูกหลาน' = children/descendants (uW figs-metaphor: city's inhabitants as children)."
+        },
+        {
+          "greek": "ὃν τρόπον ὄρνις τὴν ἑαυτῆς νοσσιὰν ὑπὸ τὰς πτέρυγας",
+          "thai": "ดุจดังแม่ไก่ที่รวบรวมลูกของมันไว้ใต้ปีก",
+          "rationale": "uW figs-simile. ὄρνις = hen. νοσσιά = HAPAX LEGOMENON 'brood/chicks' (collective-singular). πτέρυξ = wing. 'แม่ไก่...ลูกของมัน...ปีก' = natural Thai matching Matt 23:37. uW figs-ellipsis: 'gathers' supplied from earlier."
+        },
+        {
+          "greek": "οὐκ ἠθελήσατε",
+          "thai": "พวกเจ้าหาปรารถนาไม่",
+          "rationale": "Aorist-indicative 'you-plural did not want'. Addresses people of Jerusalem (plural). Matches Matt 23:37 rendering 'หาปรารถนาไม่' (emphatic-negative archaic-register for weight)."
+        }
+      ],
+      "notes": "PARALLEL: Matt 23:37 (nearly-verbatim). We preserve synoptic-parallel consistency by matching Matt 23:37's Thai wording exactly for the overlapping elements (stoning-prophets formula, hen-chicks-wings simile, unwilling-finale). HAPAX νοσσιά — only NT occurrence. Variants across NT: νοσσίον (Matt 23:37), νοσσία (Luke 13:34 here). The Thai rendering 'ลูก' covers both without lexical distinction. OT ALLUSIONS (extensive): Deut 32:11 (eagle stirring up her nest, hovering over her young, spreading her wings); Ruth 2:12 (under whose wings you have come for refuge); Ps 17:8 (shadow of your wings); Ps 36:7; Ps 57:1; Ps 61:4; Ps 63:7; Ps 91:4 (under his wings you will find refuge). Jesus assumes the YHWH-as-mother-bird role, a strong Christological claim. OT prophet-killing tradition cited from v.33 notes applies. Matt 23:37 is positioned at the END of woes-to-scribes-and-Pharisees; Luke positions it DURING the Travel-Narrative BEFORE Jerusalem-entry — Luke's placement emphasizes Jesus's mourning-heart BEFORE judgment-confrontation, while Matthew's emphasizes mourning AT judgment-confrontation-climax. ADDED TO nt_ot_citations.json: LUK 13:34 (DEU 32:11 + RUT 2:12 + PSA 17:8 + PSA 36:7 + PSA 57:1 + PSA 61:4 + PSA 91:4 wings-refuge-cluster + 2CH 24:20-22 stoning-prophets + MAT 23:37 parallel)."
+    }
+  },
+  {
+    "reference": "Luke 13:35",
+    "chapter": 13,
+    "verse": 35,
+    "greek": "ἰδοὺ ἀφίεται ὑμῖν ὁ οἶκος ὑμῶν.λέγω δὲ ὑμῖν,οὐ μὴ ἴδητέ με ἕως ἥξει ὅτε εἴπητε·Εὐλογημένος ὁ ἐρχόμενος ἐν ὀνόματι κυρίου.",
+    "bsb_english": "Look, your house is left to you desolate. And I tell you that you will not see Me again until you say, 'Blessed is He who comes in the name of the Lord.'\"",
+    "translation": {
+      "thai": "ดูเถิด บ้านของพวกเจ้าจะถูกทิ้งให้แก่พวกเจ้า และเราบอกพวกเจ้าว่า พวกเจ้าจะไม่เห็นเราอีก จนกว่าเวลานั้นจะมาเมื่อพวกเจ้ากล่าวว่า ‹ขอให้ผู้ที่มาในพระนามขององค์พระผู้เป็นเจ้าได้รับพระพร›»",
+      "thai_literal": null,
+      "thai_summary": "คำเตือนของพระเยซูมีสองส่วน ส่วนแรก «บ้านของพวกเจ้าจะถูกทิ้ง» หมายถึงการที่พระเจ้าจะทรงถอนการคุ้มครองจากเยรูซาเล็มและพระวิหาร ซึ่งนำไปสู่การถูกทำลายในปี ค.ศ. 70 ส่วนที่สองคือคำพยากรณ์ที่อ้างจากสดุดี 118:26 ซึ่งเป็นคำที่ฝูงชนได้ตะโกนเมื่อพระเยซูเสด็จเข้ากรุงเยรูซาเล็มในวันขบวนแห่ (ลูกา 19:38) คำว่า «จนกว่า» ไม่จำเป็นต้องหมายถึงการกลับใจในอนาคตของอิสราเอลทั้งหมด แต่อาจหมายถึงเฉพาะผู้ที่เลือกยอมรับพระคริสต์ในแต่ละรุ่น",
+      "key_decisions": [
+        {
+          "greek": "ἰδοὺ ἀφίεται ὑμῖν ὁ οἶκος ὑμῶν",
+          "thai": "ดูเถิด บ้านของพวกเจ้าจะถูกทิ้งให้แก่พวกเจ้า",
+          "rationale": "TEXTUAL VARIANT: SBLGNT/NA28/BSB do NOT include ἔρημος 'desolate' (Byz/TR adds ἔρημος). We follow SBLGNT — 'บ้านของพวกเจ้าจะถูกทิ้งให้แก่พวกเจ้า' without 'desolate'. Present-passive ἀφίεται has future-reference (uW translate-tense: 'your house will be left to you alone'). NOTE: The Matt 23:38 parallel INCLUDES ἔρημος ('รกร้าง' per Matt 23:38 translation) — so our Luke 13:35 and Matt 23:38 will differ, correctly reflecting the manuscript-reality. Documented."
+        },
+        {
+          "greek": "οἶκος",
+          "thai": "บ้าน",
+          "rationale": "uW figs-metaphor: city-as-house. Could render 'พระนิเวศ' (temple) per Matt 23:38 parallel rendering — BUT uW option also suggests 'city'. Luke's οἶκος without ἔρημος is less-specifically temple-coded; we render 'บ้าน' to preserve the ambiguity (house = city/dynasty/family-household per Hebrew בַּיִת). Reader can recover temple-meaning via context."
+        },
+        {
+          "greek": "οὐ μὴ ἴδητέ με",
+          "thai": "พวกเจ้าจะไม่เห็นเราอีก",
+          "rationale": "Double-negative οὐ μή + aorist-subjunctive = strong-emphatic-future-negation. 'พวกเจ้าจะไม่เห็นเราอีก' captures the emphatic-no-more-seeing."
+        },
+        {
+          "greek": "ἕως ἥξει ὅτε εἴπητε",
+          "thai": "จนกว่าเวลานั้นจะมาเมื่อพวกเจ้ากล่าว",
+          "rationale": "uW figs-idiom: 'until it comes when you say' — 'it' = 'the time'. 'จนกว่าเวลานั้นจะมาเมื่อ' supplies 'time' naturally."
+        },
+        {
+          "greek": "Εὐλογημένος ὁ ἐρχόμενος ἐν ὀνόματι κυρίου",
+          "thai": "ขอให้ผู้ที่มาในพระนามขององค์พระผู้เป็นเจ้าได้รับพระพร",
+          "rationale": "DIRECT CITATION of Ps 118:26 LXX (verbatim). Matches Matt 23:39 rendering for synoptic-parallel consistency. 'พระนามขององค์พระผู้เป็นเจ้า' = divine-name honorific (κυρίου as YHWH-placeholder per RULES §4). 'ได้รับพระพร' = be-blessed (perfect-passive participle of εὐλογέω)."
+        }
+      ],
+      "notes": "TEXTUAL VARIANT: Luke 13:35 SBLGNT/NA28 reads 'ἀφίεται ὑμῖν ὁ οἶκος ὑμῶν' WITHOUT ἔρημος 'desolate'. Byz/TR adds ἔρημος (assimilation to Matt 23:38). BSB renders 'left to you desolate' per mixed-text but critical-text English (NIV, ESV, NASB) vary. We follow SBLGNT main text. The parallel in Matt 23:38 DOES have ἔρημος in our translation (per manuscript-reality) — this is CORRECT synoptic-divergence reflecting actual-Greek-divergence. DIRECT CITATION: Ps 118:26 LXX (εὐλογημένος ὁ ἐρχόμενος ἐν ὀνόματι κυρίου) — word-for-word. This is the SAME verse the crowds shout at Jesus's triumphal-entry (Luke 19:38). Luke's structural-inclusio: 13:35 prophesies the shout; 19:38 fulfills. OT INTERTEXTUAL: Jer 12:7 (I have forsaken my house, I have abandoned my heritage), Jer 22:5 (this house shall become a desolation), 1 Kings 9:7-8 (if you turn, the temple will become a heap) — all traditions of house-as-city/temple abandoned by God. The MEANING of 'until' is debated: (1) conditional-future (Israel repents, then sees Jesus); (2) Christological-triumphal-entry (19:38 fulfillment); (3) eschatological-second-coming (Rom 11:26 'all Israel'). Thai rendering preserves all three readings. ADDED TO nt_ot_citations.json: LUK 13:35 direct_citation (PSA 118:26 LXX 'blessed-is-he-who-comes-in-the-name-of-the-Lord') + LUK 13:35 (JER 12:7 + JER 22:5 + 1KI 9:7-8 house-forsaken cluster)."
+    }
+  }
+]
