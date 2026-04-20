@@ -1,0 +1,660 @@
+[
+  {
+    "reference": "Luke 3:1",
+    "chapter": 3,
+    "verse": 1,
+    "greek": "Ἐν ἔτει δὲ πεντεκαιδεκάτῳ τῆς ἡγεμονίας Τιβερίου Καίσαρος, ἡγεμονεύοντος Ποντίου Πιλάτου τῆς Ἰουδαίας, καὶ τετρααρχοῦντος τῆς Γαλιλαίας Ἡρῴδου, Φιλίππου δὲ τοῦ ἀδελφοῦ αὐτοῦ τετρααρχοῦντος τῆς Ἰτουραίας καὶ Τραχωνίτιδος χώρας, καὶ Λυσανίου τῆς Ἀβιληνῆς τετρααρχοῦντος,",
+    "bsb_english": "In the fifteenth year of the reign of Tiberius Caesar, while Pontius Pilate was governor of Judea, Herod tetrarch of Galilee, his brother Philip tetrarch of Ituraea and Trachonitis, and Lysanias tetrarch of Abilene,",
+    "translation": {
+      "thai": "ในปีที่สิบห้าแห่งรัชสมัยของจักรพรรดิทิเบริอัสซีซาร์ เมื่อปอนทิอัสปีลาตเป็นผู้ว่าราชการแคว้นยูเดีย เฮโรดเป็นเจ้าเมืองประจำแคว้นกาลิลี ฟีลิปพี่น้องของเขาเป็นเจ้าเมืองประจำแคว้นอิทูเรียและทราโคนิทิส และลีสานิอัสเป็นเจ้าเมืองประจำแคว้นอาบีเลเน",
+      "thai_literal": null,
+      "thai_summary": "ลูกาสร้างกรอบเวลาอย่างมืออาชีพด้วยการวางผู้ปกครองเจ็ดคนในสองข้อแรก (ข้อ 1-2) — จักรพรรดิโรมัน ผู้ว่าราชการโรมัน ผู้ปกครองย่อยของชาวยิวสามคน และมหาปุโรหิตสองคน ปีที่สิบห้าของทิเบริอัสคือราว ค.ศ. 28-29 คำว่า «เตตราร์ค» ในภาษากรีกแปลว่า «ผู้ปกครองหนึ่งในสี่» — หลังจากกษัตริย์เฮโรดมหาราชสิ้นพระชนม์ (4 ก่อนคริสตกาล) จักรวรรดิโรมันได้แบ่งอาณาจักรของท่านออกเป็นสี่ส่วน โดยให้โอรสและขุนนางปกครอง ลูกาประกาศอย่างเป็นทางการเหมือนการประกาศของผู้เผยพระวจนะในพันธสัญญาเดิมที่ระบุเวลาของการทรงเรียก (เทียบ อิสยาห์ 6:1; เยเรมีย์ 1:1-3; เอเสเคียล 1:1-3)",
+      "key_decisions": [
+        {"greek": "Ἐν ἔτει δὲ πεντεκαιδεκάτῳ", "thai": "ในปีที่สิบห้า", "rationale": "HAPAX: πεντεκαιδέκατος 'fifteenth' (only here in NT). Per uW writing-newevent + translate-ordinal: extended time reference introducing major new event. Thai ordinal 'ปีที่สิบห้า' natural"},
+        {"greek": "τῆς ἡγεμονίας Τιβερίου Καίσαρος", "thai": "แห่งรัชสมัยของจักรพรรดิทิเบริอัสซีซาร์", "rationale": "HAPAX: ἡγεμονία (only here in NT) = reign/rule. HAPAX: Τιβέριος (only here in NT) = Tiberius (Roman emperor AD 14-37). รัชสมัย = reign (standard Thai royal term); จักรพรรดิ = emperor (per LUK 2:1 established). Transliteration ทิเบริอัส standard Thai Christian (also seen in modern Thai historiography). Per uW writing-participants: make imperial title explicit"},
+        {"greek": "ἡγεμονεύοντος Ποντίου Πιλάτου τῆς Ἰουδαίας", "thai": "เมื่อปอนทิอัสปีลาตเป็นผู้ว่าราชการแคว้นยูเดีย", "rationale": "ἡγεμονεύω present-participle genitive-absolute. Πιλᾶτος → ปีลาต (glossary-established MAT 27; cf. LUK 23). First name Πόντιος (Pontius, his nomen) → ปอนทิอัส. ผู้ว่าราชการ (glossary-established LUK 2:2 for ἡγεμονεύω); actual Roman title was praefectus, but Luke's generic ἡγεμών covers both. Judea → ยูเดีย (established)"},
+        {"greek": "τετρααρχοῦντος τῆς Γαλιλαίας Ἡρῴδου", "thai": "เฮโรดเป็นเจ้าเมืองประจำแคว้นกาลิลี", "rationale": "τετρααρχέω = 'be tetrarch' = rule one of four divisions. Per uW translate-unknown: can use general term 'ruler.' Thai 'เจ้าเมือง' (local-ruler) captures the subordinate-to-Rome ruler-of-a-region role without a cumbersome transliteration. Ἡρῴδης here = Herod Antipas (son of Herod-the-Great, per uW), distinct from Herod-the-Great of LUK 1:5. Thai เฮโรด same transliteration; narrative context clarifies which Herod. Γαλιλαία → แคว้นกาลิลี (glossary-established)"},
+        {"greek": "Φιλίππου δὲ τοῦ ἀδελφοῦ αὐτοῦ τετρααρχοῦντος τῆς Ἰτουραίας καὶ Τραχωνίτιδος χώρας", "thai": "ฟีลิปพี่น้องของเขาเป็นเจ้าเมืองประจำแคว้นอิทูเรียและทราโคนิทิส", "rationale": "HAPAX: Ἰτουραῖος (only here), Τραχωνῖτις (only here). Φίλιππος → ฟีลิป (glossary-established LUK-parallel). อิทูเรีย + ทราโคนิทิส standard Thai Christian transliterations of these northeastern territories"},
+        {"greek": "καὶ Λυσανίου τῆς Ἀβιληνῆς τετρααρχοῦντος", "thai": "และลีสานิอัสเป็นเจ้าเมืองประจำแคว้นอาบีเลเน", "rationale": "HAPAX: Λυσανίας (only here), Ἀβιληνή (only here). Abilene was a small region NW of Damascus. Transliterations ลีสานิอัส + อาบีเลเน follow Greek phonetics; standard Thai Christian form"}
+      ],
+      "notes": "SEVEN HAPAX in vv.1-2 mark Luke's careful historiographical framing: πεντεκαιδέκατος, ἡγεμονία, Τιβέριος, Ἰτουραῖος, Τραχωνῖτις, Λυσανίας, Ἀβιληνή (+ one in v.2). Dating: 15th year of Tiberius = AD 28-29 (if counted from AD 14 accession) or AD 26-27 (if counted from his co-regency with Augustus, AD 11-12). Most evangelical scholars (Marshall, Bock, Fitzmyer) prefer AD 28-29. This establishes John's public ministry and Jesus's baptism in a historically verifiable frame. Per uW chapter intro: SIL/Wycliffe writing-newevent — Luke uses a seven-person regnal list to launch the main narrative, echoing OT prophetic-call formulas (Isa 6:1 'in the year that King Uzziah died'; Jer 1:1-3; Ezek 1:1-3). The seven rulers (Tiberius, Pilate, Herod Antipas, Philip, Lysanias + Annas, Caiaphas in v.2) form a complete catalog — Roman imperial + provincial + Jewish religious. Luke alone among the gospels gives this scope. ADDED TO NT_OT_CITATIONS: LUK 3:1 thematic_allusion to ISA 6:1 + JER 1:1-3 + EZK 1:1-3 (prophetic-call chronological-formula)."
+    }
+  },
+  {
+    "reference": "Luke 3:2",
+    "chapter": 3,
+    "verse": 2,
+    "greek": "ἐπὶ ἀρχιερέως Ἅννα καὶ Καϊάφα, ἐγένετο ῥῆμα θεοῦ ἐπὶ Ἰωάννην τὸν Ζαχαρίου υἱὸν ἐν τῇ ἐρήμῳ.",
+    "bsb_english": "during the high priesthood of Annas and Caiaphas, the word of God came to John son of Zechariah in the wilderness.",
+    "translation": {
+      "thai": "และในสมัยที่อันนาสกับคายาฟาสเป็นมหาปุโรหิต พระวจนะของพระเจ้ามาถึงยอห์นบุตรเศคาริยาห์ในถิ่นทุรกันดาร",
+      "thai_literal": null,
+      "thai_summary": "ยอห์นเป็นบุตรของเศคาริยาห์ปุโรหิต (ลูกา 1:5-25, 57-80) การที่ลูการะบุว่า «พระวจนะของพระเจ้ามาถึง» ยอห์น (ไม่ใช่มาถึงพระวิหารหรือเจ้าหน้าที่ทางศาสนา) เป็นการประกาศว่าการเปิดเผยของพระเจ้ากำลังเริ่มต้นใหม่ผ่านผู้เผยพระวจนะในถิ่นทุรกันดาร ตามแบบของผู้เผยพระวจนะในพันธสัญญาเดิม (เทียบ 1 ซามูเอล 15:10; เยเรมีย์ 1:2; โฮเชยา 1:1) สิ้นสุดความเงียบของผู้เผยพระวจนะที่ยาวนานเกือบ 400 ปีตั้งแต่มาลาคี ส่วนคำว่า «มหาปุโรหิตอันนาสและคายาฟาส» สะท้อนความซับซ้อนทางการเมือง — อันนาสถูกโรมันปลดในปี ค.ศ. 15 แต่ชาวยิวยังถือว่าท่านเป็นมหาปุโรหิตที่ถูกต้องตามกฎหมาย ส่วนคายาฟาสลูกเขยของท่านดำรงตำแหน่งอย่างเป็นทางการ ค.ศ. 18-36",
+      "key_decisions": [
+        {"greek": "ἐπὶ ἀρχιερέως Ἅννα καὶ Καϊάφα", "thai": "ในสมัยที่อันนาสกับคายาฟาสเป็นมหาปุโรหิต", "rationale": "ἀρχιερεύς → มหาปุโรหิต (singular, glossary-established MAT 26:65). Singular ἐπὶ ἀρχιερέως with two names reflects the anomaly: Annas deposed AD 15 but still de-facto-high-priest per Jewish reckoning; Caiaphas officially high priest AD 18-36. Per uW figs-explicit: 'while both were serving as high priest.' Thai preserves this with singular มหาปุโรหิต applied jointly. Ἅννας → อันนาส (standard Thai Christian transliteration, cf. JHN 18:13, 24; ACT 4:6). Καϊάφας → คายาฟาส (glossary-established MAT 26:3,57; JHN 11:49; 18:13)"},
+        {"greek": "ἐγένετο ῥῆμα θεοῦ ἐπὶ Ἰωάννην", "thai": "พระวจนะของพระเจ้ามาถึงยอห์น", "rationale": "Classic LXX-prophetic-call formula (Heb. וַיְהִי דְבַר־יְהוָה אֶל- way·hî ḏə·ḇar-YHWH 'el-'; cf. 1 Sam 15:10; 1 Kgs 17:2; Jer 1:2; Hos 1:1). Per uW figs-personification + figs-metonymy: ῥῆμα 'word/message' personified as coming to the prophet. Thai พระวจนะของพระเจ้า uses the royal พระ-prefix for the divine word. มาถึง preserves the personification without over-explication. Ἰωάννης → ยอห์น (glossary-established)"},
+        {"greek": "τὸν Ζαχαρίου υἱὸν", "thai": "บุตรเศคาริยาห์", "rationale": "Ζαχαρίας → เศคาริยาห์ (glossary-established LUK 1:5, 13). Identifies John as the son whose birth was narrated in ch. 1 — Luke's careful narrative threading"},
+        {"greek": "ἐν τῇ ἐρημῷ", "thai": "ในถิ่นทุรกันดาร", "rationale": "ἔρημος → ถิ่นทุรกันดาร per RULES.md §4 non-negotiable. Same Judean wilderness referenced in MAT 3:1, MRK 1:4"}
+      ],
+      "notes": "HAPAX: Καϊάφα in Luke (first use in this book; established glossary). The formula ἐγένετο ῥῆμα θεοῦ ἐπὶ + person is the direct Greek equivalent of the Hebrew prophetic-call formula wayəhî dəḇar-YHWH 'el-. Luke activates the prophetic register: after 400 years of silence since Malachi, YHWH's word breaks out again — in the wilderness, outside institutional religion, through the son of a Temple priest. Annas/Caiaphas dual-high-priest note: per uW, Annas was deposed by Valerius Gratus in AD 15; Caiaphas (Annas's son-in-law) was high priest AD 18-36, installed by Gratus. Jews regarded high-priesthood as life-tenure per Num 35:25 and continued to recognize Annas de facto. Luke's phrasing acknowledges both streams of legitimacy. ADDED TO NT_OT_CITATIONS: LUK 3:2 thematic_allusion to JER 1:2 (prophetic-call-formula) + 1SA 15:10 + HOS 1:1."
+    }
+  },
+  {
+    "reference": "Luke 3:3",
+    "chapter": 3,
+    "verse": 3,
+    "greek": "καὶ ἦλθεν εἰς πᾶσαν περίχωρον τοῦ Ἰορδάνου κηρύσσων βάπτισμα μετανοίας εἰς ἄφεσιν ἁμαρτιῶν,",
+    "bsb_english": "He went into all the region around the Jordan, preaching a baptism of repentance for the forgiveness of sins,",
+    "translation": {
+      "thai": "ดังนั้นท่านจึงไปทั่วทั้งภูมิภาคริมแม่น้ำจอร์แดน ประกาศบัพติศมาแห่งการกลับใจเพื่อการยกโทษบาป",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "καὶ", "thai": "ดังนั้น", "rationale": "Per uW grammar-connect-logic-result: Luke uses καί here to introduce the result of v.2's 'word came to John.' Thai 'ดังนั้น' preserves the consequential force"},
+        {"greek": "εἰς πᾶσαν περίχωρον τοῦ Ἰορδάνου", "thai": "ทั่วทั้งภูมิภาคริมแม่น้ำจอร์แดน", "rationale": "περίχωρος (NT freq 9) = surrounding-region. Ἰορδάνης → แม่น้ำจอร์แดน (glossary-established MRK 1:5, MAT 3:6). Thai ภูมิภาคริมแม่น้ำ (region-along-the-river) natural for περί + χώρος"},
+        {"greek": "κηρύσσων βάπτισμα μετανοίας εἰς ἄφεσιν ἁμαρτιῶν", "thai": "ประกาศบัพติศมาแห่งการกลับใจเพื่อการยกโทษบาป", "rationale": "Verbatim-phrase match with MRK 1:4: Luke has taken this phrase directly from his Markan source. Preserving Mark's established Thai rendering: βάπτισμα → บัพติศมา (RULES §4); μετάνοια → การกลับใจ (RULES §4); ἄφεσις → การยกโทษ (glossary-established MRK 1:4); ἁμαρτία → บาป (RULES §4). Per uW figs-abstractnouns: abstract nouns preserved as abstract Thai nouns — Thai readily handles this register"}
+      ],
+      "notes": "VERBATIM SYNOPTIC PARALLEL with MRK 1:4. Luke reproduces Mark's signature phrase κηρύσσων βάπτισμα μετανοίας εἰς ἄφεσιν ἁμαρτιῶν — both gospels use this exact four-element formula. Synoptic-consistency principle (RULES §4): identical Greek → identical Thai. The theological compression: baptism IS (not 'and then') repentance EFFECTING forgiveness — μετανοίας is genitive of content/description, εἰς ἄφεσιν is purpose/result. Repentance is the inner reality; baptism is the outer sign; forgiveness is the divine response. John's baptism prefigures but is not identical to Christian baptism (cf. Acts 19:1-7 Ephesian disciples re-baptized)."
+    }
+  },
+  {
+    "reference": "Luke 3:4",
+    "chapter": 3,
+    "verse": 4,
+    "greek": "ὡς γέγραπται ἐν βίβλῳ λόγων Ἠσαΐου τοῦ προφήτου· Φωνὴ βοῶντος ἐν τῇ ἐρήμῳ· Ἑτοιμάσατε τὴν ὁδὸν κυρίου, εὐθείας ποιεῖτε τὰς τρίβους αὐτοῦ.",
+    "bsb_english": "as it is written in the book of the words of Isaiah the prophet: “A voice of one calling in the wilderness, ‘Prepare the way for the Lord, make straight paths for Him.",
+    "translation": {
+      "thai": "ดังที่มีคำเขียนไว้ในหนังสือถ้อยคำของอิสยาห์ผู้เผยพระวจนะว่า «เสียงของผู้ที่ร้องในถิ่นทุรกันดารว่า ‹จงเตรียมมรรคาขององค์พระผู้เป็นเจ้า จงทำทางเดินของพระองค์ให้ตรง›",
+      "thai_literal": null,
+      "thai_summary": "ลูกาอ้างอิสยาห์ 40:3-5 ยาวกว่ามัทธิวและมาระโกอย่างมีนัยสำคัญ — ลูกาจบข้อความที่ «มนุษย์ทุกคนจะเห็นความรอดของพระเจ้า» (ข้อ 6) ซึ่งเป็นธีมที่ลูกาเน้นตลอดทั้งเล่ม คือ ข่าวประเสริฐสำหรับคนทุกชาติ (เทียบ 2:32; 24:47; กิจการ 1:8) บริบทดั้งเดิมใน อิสยาห์ 40 คือคำปลอบประโลมแก่ชาวยิวที่ถูกเนรเทศไปบาบิโลน ลูการะบุว่าการรับใช้ของยอห์นเป็นการ «เตรียมทาง» สำหรับการเสด็จกลับมาของพระเจ้า — ไม่ใช่การกลับจากการเนรเทศเท่านั้น แต่เป็นการเสด็จมาของพระเมสสิยาห์เอง",
+      "key_decisions": [
+        {"greek": "ὡς γέγραπται", "thai": "ดังที่มีคำเขียนไว้", "rationale": "Per uW figs-activepassive: convert to active/natural Thai. Standard OT-citation formula, same as MRK 1:2, MAT 4:4. Thai 'ดังที่มีคำเขียนไว้' preserves perfect-passive sense"},
+        {"greek": "ἐν βίβλῳ λόγων Ἠσαΐου τοῦ προφήτου", "thai": "ในหนังสือถ้อยคำของอิสยาห์ผู้เผยพระวจนะ", "rationale": "Per uW figs-metonymy: 'book of the words of Isaiah' = 'words Isaiah spoke/wrote.' Ἠσαΐας → อิสยาห์ (glossary-established). προφήτης → ผู้เผยพระวจนะ (glossary-established). Expanded 'book of words' (vs. Mark's shorter 'in Isaiah the prophet' at MRK 1:2) — Luke more formal"},
+        {"greek": "Φωνὴ βοῶντος ἐν τῇ ἐρήμῳ· Ἑτοιμάσατε τὴν ὁδὸν κυρίου, εὐθείας ποιεῖτε τὰς τρίβους αὐτοῦ", "thai": "เสียงของผู้ที่ร้องในถิ่นทุรกันดารว่า ‹จงเตรียมมรรคาขององค์พระผู้เป็นเจ้า จงทำทางเดินของพระองค์ให้ตรง›", "rationale": "VERBATIM MATTHEAN-MARKAN PARALLEL: ISA 40:3 LXX quotation appears identically in MRK 1:3 + MAT 3:3. Synoptic-consistency mandates identical Thai. Using MAT 3:3 established rendering with minor adjustment: LUK 3:4 uses εὐθείας ποιεῖτε τὰς τρίβους αὐτοῦ (plural paths) matching MAT/MRK exactly. κύριος here = YHWH per LXX-Isaiah-context (not Jesus-reference in Isaiah's original horizon, though Luke co-opts for Messianic fulfillment) → องค์พระผู้เป็นเจ้า per RULES §4. Per uW figs-quotemarks + figs-quotesinquotes: wilderness-voice quoted within Isaiah-quotation — Thai «...‹...›» nested-quote convention. Per uW figs-parallelism: preserve the two-clause Hebraic parallel. Per uW figs-metaphor: 'prepare the way' = spiritual-preparation via repentance; keep metaphor intact"}
+      ],
+      "notes": "OT CITATION: ISA 40:3 LXX (verbatim: Φωνὴ βοῶντος ἐν τῇ ἐρήμῳ· ἑτοιμάσατε τὴν ὁδὸν κυρίου, εὐθείας ποιεῖτε τὰς τρίβους τοῦ θεοῦ ἡμῶν). Luke follows LXX except substitutes αὐτοῦ for τοῦ θεοῦ ἡμῶν — same modification Mark and Matthew made. Synoptic-parallel verbatim match with MRK 1:3 + MAT 3:3; Luke is the only gospel that extends the Isaiah quote through 40:5. Per uW figs-quotesinquotes: nested-quote structure — Luke (level 1) quotes Isaiah (level 2) quoting a wilderness-voice (level 3). Thai «... ‹...› » handles the two-level nesting. ADDED TO NT_OT_CITATIONS: LUK 3:4 direct_citation of ISA 40:3 LXX (preparing-the-way formula)."
+    }
+  },
+  {
+    "reference": "Luke 3:5",
+    "chapter": 3,
+    "verse": 5,
+    "greek": "πᾶσα φάραγξ πληρωθήσεται καὶ πᾶν ὄρος καὶ βουνὸς ταπεινωθήσεται, καὶ ἔσται τὰ σκολιὰ εἰς εὐθείαν καὶ αἱ τραχεῖαι εἰς ὁδοὺς λείας·",
+    "bsb_english": "Every valley shall be filled in, and every mountain and hill made low. The crooked ways shall be made straight, and the rough ways smooth.",
+    "translation": {
+      "thai": "หุบเขาทุกแห่งจะถูกถม ภูเขาและเนินเขาทุกแห่งจะถูกทำให้ราบ ที่คดจะถูกทำให้ตรง ทางขรุขระจะกลายเป็นทางราบ",
+      "thai_literal": null,
+      "thai_summary": "ภาพที่พระเจ้ากำลัง «ปรับภูมิประเทศ» — ถมหุบเขา ทำภูเขาให้ราบ — เป็นภาพโบราณของการเตรียมทางหลวงสำหรับกษัตริย์ที่จะเสด็จผ่าน แต่ในบริบททางจิตวิญญาณ อิสยาห์และลูกาใช้เป็นภาพของ «การกลับตาลปัตร» ที่พระเจ้าทรงกระทำ (เทียบ ลูกา 1:52 ของมารีย์: «ทรงยกผู้ต่ำต้อยขึ้น») คนยโสที่สูงจะถูกทำให้ต่ำลง คนที่ถ่อมตัวจะได้รับการยกชูขึ้น — ซึ่งเป็นหลักการที่ยอห์นจะสอนคนเก็บภาษีและทหารในข้อ 12-14 ข้างหน้า",
+      "key_decisions": [
+        {"greek": "πᾶσα φάραγξ πληρωθήσεται", "thai": "หุบเขาทุกแห่งจะถูกถม", "rationale": "HAPAX: φάραγξ (only here in NT) = ravine/gorge/valley. Per uW figs-activepassive: preserve passive in Thai for agent-ambiguity (God/people). Thai ถูกถม (passive-fill-in) preserves both the literal road-building image and the figurative God-raises-lowly theme"},
+        {"greek": "πᾶν ὄρος καὶ βουνὸς ταπεινωθήσεται", "thai": "ภูเขาและเนินเขาทุกแห่งจะถูกทำให้ราบ", "rationale": "ὄρος → ภูเขา (standard). βουνός (NT freq 2: here and LUK 23:30) = hill. Thai เนินเขา standard. ταπεινόω (NT freq 14) = lower/humble. Per uW figs-metaphor: same social-reversal imagery as Mary's Magnificat 1:52 (καθεῖλεν δυνάστας ἀπὸ θρόνων). Thai 'ทำให้ราบ' (make-flat) keeps the road-building metaphor primary"},
+        {"greek": "ἔσται τὰ σκολιὰ εἰς εὐθείαν", "thai": "ที่คดจะถูกทำให้ตรง", "rationale": "σκολιός (NT freq 4) = crooked. εὐθύς → ตรง (established rendering). Per uW figs-metaphor: crooked→straight can double as metaphor for repentance. Keep literal, per uW's recommendation not to explicate metaphor"},
+        {"greek": "αἱ τραχεῖαι εἰς ὁδοὺς λείας", "thai": "ทางขรุขระจะกลายเป็นทางราบ", "rationale": "HAPAX: λεῖος (only here in NT) = smooth. τραχύς (NT freq 2: here and ACT 27:29) = rough. Thai ขรุขระ→ราบ natural pair"}
+      ],
+      "notes": "OT CITATION continues: ISA 40:4 LXX. Luke's Greek here closely follows LXX-Isaiah but not verbatim: LXX has πᾶσα φάραγξ πληρωθήσεται καὶ πᾶν ὄρος καὶ βουνὸς ταπεινωθήσεται, καὶ ἔσται πάντα τὰ σκολιὰ εἰς εὐθεῖαν καὶ ἡ τραχεῖα εἰς πεδία — Luke drops πάντα, shifts τραχεῖα to plural τραχεῖαι, and writes ὁδοὺς λείας for πεδία (plains). Not a different textform — Luke's own light paraphrase of LXX. TWO HAPAX: φάραγξ and λεῖος (only here in NT). Per uW figs-metaphor chapter-note: preserve literal metaphor-language rather than explicate — metaphor may carry multiple referents (road-building + moral reversal + Magnificat-theology), don't flatten to one. Thematic parallel with LUK 1:52 (He has thrown down rulers from thrones and exalted the lowly) — the Magnificat's social reversal finds its forerunner's fulfillment here. ADDED TO NT_OT_CITATIONS: LUK 3:5 direct_citation of ISA 40:4 LXX."
+    }
+  },
+  {
+    "reference": "Luke 3:6",
+    "chapter": 3,
+    "verse": 6,
+    "greek": "καὶ ὄψεται πᾶσα σὰρξ τὸ σωτήριον τοῦ θεοῦ.",
+    "bsb_english": "And all humanity will see God’s salvation.’”",
+    "translation": {
+      "thai": "และมนุษย์ทุกคนจะเห็นความรอดของพระเจ้า›»",
+      "thai_literal": null,
+      "thai_summary": "คำว่า «มนุษย์ทุกคน» (ภาษากรีก «ปาซา ซาร์กซ์» แปลตรง ๆ ว่า «เนื้อหนังทั้งสิ้น») เป็นคำอ้างอิงพันธสัญญาเดิมที่ครอบคลุม — หมายถึงคนทุกชาติ ไม่ใช่เฉพาะชาวยิว (เทียบ ปฐมกาล 6:12; เยเรมีย์ 25:31) นี่คือเหตุผลที่ลูกาอ้างอิสยาห์ไปไกลกว่ามัทธิวและมาระโก — เพื่อเน้นธีมประจำของท่านว่าข่าวประเสริฐเป็นของคนทุกชาติ คำว่า «โซเทเรียน» (ความรอด) ในรูปเพศกลางเป็นแบบ LXX ซึ่งสิเมโอนก็ใช้ในคำกล่าวของท่านที่ 2:30 ว่า «ข้าพระองค์ได้เห็นความรอดของพระองค์»",
+      "key_decisions": [
+        {"greek": "ὄψεται πᾶσα σὰρξ", "thai": "มนุษย์ทุกคนจะเห็น", "rationale": "Per uW figs-metonymy: σάρξ ('flesh') = people/humanity. Per uW figs-metaphor: ὁράω 'see' here = recognize/understand/experience. Preserving 'เห็น' for see since Thai เห็น carries the figurative sense too. Thai มนุษย์ทุกคน natural for πᾶσα σάρξ in Hebraic-universal sense"},
+        {"greek": "τὸ σωτήριον τοῦ θεοῦ", "thai": "ความรอดของพระเจ้า", "rationale": "σωτήριον (neuter substantival; NT freq 5, of which 3 in Luke-Acts). Per uW figs-abstractnouns: could render with verb. Thai ความรอด (salvation — established glossary LUK 2:30 where Simeon sees the same σωτήριον in the infant Jesus). Parallel structure with σωτὴρ at LUK 2:11 and σωτήριον at 2:30 is a Lukan thread"}
+      ],
+      "notes": "OT CITATION concludes: ISA 40:5 LXX. Luke adjusts LXX which has: καὶ ὀφθήσεται ἡ δόξα κυρίου, καὶ ὄψεται πᾶσα σὰρξ τὸ σωτήριον τοῦ θεοῦ. Luke drops the first clause (about YHWH's glory appearing) and cites only the second clause. UNIQUE TO LUKE: Matthew and Mark cite only ISA 40:3; only Luke extends through 40:5 to include 'all flesh will see God's salvation.' This is deliberate editorial theology — universal-salvation scope is a Lukan signature (cf. 2:32 'a light to the Gentiles'; Acts 1:8; 28:28). πᾶσα σὰρξ (Heb. kol-basar) in OT = all people/all living (Gen 6:12; Isa 66:23). σωτήριον substantival-neuter identical to LUK 2:30 where Simeon holds the infant: 'my eyes have seen your σωτήριον.' Luke closes his inclusio between Simeon's recognition and John's announcement. ADDED TO NT_OT_CITATIONS: LUK 3:6 direct_citation of ISA 40:5 LXX (universal-salvation scope — Lukan signature)."
+    }
+  },
+  {
+    "reference": "Luke 3:7",
+    "chapter": 3,
+    "verse": 7,
+    "greek": "Ἔλεγεν οὖν τοῖς ἐκπορευομένοις ὄχλοις βαπτισθῆναι ὑπ’ αὐτοῦ· Γεννήματα ἐχιδνῶν, τίς ὑπέδειξεν ὑμῖν φυγεῖν ἀπὸ τῆς μελλούσης ὀργῆς;",
+    "bsb_english": "Then John said to the crowds coming out to be baptized by him, “You brood of vipers, who warned you to flee from the coming wrath?",
+    "translation": {
+      "thai": "ยอห์นจึงกล่าวแก่ฝูงชนที่ออกมารับบัพติศมาจากท่านว่า «เจ้าพวกเชื้อสายงูพิษ ใครเตือนเจ้าให้หนีจากพระพิโรธที่จะมาถึง",
+      "thai_literal": null,
+      "thai_summary": "ภาพ «พงศ์พันธุ์งูพิษ» เป็นคำด่าแรงที่สุดคำหนึ่งในสมัยนั้น — เพราะงูพิษเป็นสัญลักษณ์ของความร้ายกาจและความหลอกลวงของซาตานเองตั้งแต่ปฐมกาล 3 ยอห์นไม่ได้ประจบผู้มารับบัพติศมา แต่ท้าทายความปลอมของการกลับใจเพียงผิวเผิน คำว่า «พระพิโรธที่จะมาถึง» หมายถึงการพิพากษาในยุคสุดท้าย (เทียบ มาลาคี 4:1; อิสยาห์ 13:9)",
+      "key_decisions": [
+        {"greek": "τοῖς ἐκπορευομένοις ὄχλοις βαπτισθῆναι ὑπ’ αὐτοῦ", "thai": "ฝูงชนที่ออกมารับบัพติศมาจากท่าน", "rationale": "Per uW figs-activepassive: passive βαπτισθῆναι → active Thai 'รับบัพติศมา' (receive-baptism) which sounds natural. ὄχλος → ฝูงชน (standard). βαπτίζω → บัพติศมา transliteration per RULES §4. Note: MAT 3:7 has Pharisees+Sadducees specifically; LUK 3:7 has generic crowds — Luke universalizes the rebuke"},
+        {"greek": "Γεννήματα ἐχιδνῶν", "thai": "เจ้าพวกเชื้อสายงูพิษ", "rationale": "VERBATIM MATTHEAN PARALLEL (MAT 3:7 established rendering): เจ้าพวกเชื้อสายงูพิษ. Per uW figs-idiom: γεννήματα-of-X = 'those-sharing-the-qualities-of-X.' γέννημα (4x NT) = offspring. ἔχιδνα = viper. Thai 'เจ้าพวกเชื้อสายงูพิษ' (you-lot-lineage-of-poisonous-snakes) preserves the poisonous-evil association; synoptic match mandatory per RULES §4"},
+        {"greek": "τίς ὑπέδειξεν ὑμῖν φυγεῖν ἀπὸ τῆς μελλούσης ὀργῆς", "thai": "ใครเตือนเจ้าให้หนีจากพระพิโรธที่จะมาถึง", "rationale": "VERBATIM MATTHEAN PARALLEL (MAT 3:7): ใครเตือนเจ้าให้หนีจากพระพิโรธที่จะมาเทียบมาถึง (LUK drops 'เทียบ'). Per uW figs-rquestion: rhetorical — not expecting answer. ὑποδείκνυμι (6x NT) = point-out/warn. ὀργή (36x) = wrath; μέλλουσα (pres-ptc) = coming/future. Per uW figs-metonymy: ὀργή = God's punishment. Thai พระพิโรธ uses royal-divine register (พระ-prefix) for God's wrath — established MAT 3:7 glossary"}
+      ],
+      "notes": "SYNOPTIC PARALLEL with MAT 3:7 — verbatim Greek for the core saying. Luke generalizes the audience from Matthew's 'Pharisees and Sadducees' to 'crowds.' Following RULES §4 + synoptic-parallel check requires identical Thai for the γεννήματα ἐχιδνῶν + τίς-ὑπέδειξεν clause. Per uW figs-rquestion: John uses a statement-in-question-form to accuse — 'no one warned you, and mere baptism without fruit won't save you' (implicit). The 'coming wrath' (μέλλουσα ὀργή) echoes OT prophetic-day-of-YHWH language (Mal 4:1; Isa 13:9; Joel 2:31; Zeph 1:15) — John's ministry is framed as eschatological. ADDED TO NT_OT_CITATIONS: LUK 3:7 thematic_allusion to MAL 4:1 + ISA 13:9 (day-of-wrath eschatology)."
+    }
+  },
+  {
+    "reference": "Luke 3:8",
+    "chapter": 3,
+    "verse": 8,
+    "greek": "ποιήσατε οὖν καρποὺς ἀξίους τῆς μετανοίας· καὶ μὴ ἄρξησθε λέγειν ἐν ἑαυτοῖς· Πατέρα ἔχομεν τὸν Ἀβραάμ, λέγω γὰρ ὑμῖν ὅτι δύναται ὁ θεὸς ἐκ τῶν λίθων τούτων ἐγεῖραι τέκνα τῷ Ἀβραάμ.",
+    "bsb_english": "Produce fruit, then, in keeping with repentance. And do not begin to say to yourselves, ‘We have Abraham as our father.’ For I tell you that out of these stones God can raise up children for Abraham.",
+    "translation": {
+      "thai": "ฉะนั้น จงเกิดผลอันสมควรแก่การกลับใจ และอย่าเริ่มนึกในใจว่า ‹เรามีอับราฮัมเป็นบิดา› เพราะเราบอกเจ้าทั้งหลายว่า พระเจ้าทรงสามารถสร้างบุตรของอับราฮัมขึ้นจากหินเหล่านี้ได้",
+      "thai_literal": null,
+      "thai_summary": "ยอห์นท้าทายความมั่นใจในเชื้อชาติ — ชาวยิวสมัยนั้นเชื่อว่าการเป็นลูกหลานของอับราฮัมทำให้ได้รับความรอดอัตโนมัติ แต่ยอห์นบอกว่าการกลับใจที่แท้จริงต้องออกผลในชีวิต (ไม่ใช่แค่คำพูดหรือพิธีกรรม) คำว่า «จากหินเหล่านี้» ในภาษากรีกมีการเล่นคำ — คำว่า «หิน» (อะบานิม) และ «บุตร» (บานิม) ในภาษาฮีบรูมีเสียงคล้ายกัน ทำให้เห็นภาพพระเจ้าสร้างประชากรใหม่ได้ตามพระประสงค์",
+      "key_decisions": [
+        {"greek": "ποιήσατε οὖν καρποὺς ἀξίους τῆς μετανοίας", "thai": "จงเกิดผลอันสมควรแก่การกลับใจ", "rationale": "VERBATIM MATTHEAN PARALLEL (MAT 3:8). MAT has ποιήσατε οὖν καρπὸν ἄξιον (singular), LUK has καρποὺς ἀξίους (plural) — very minor difference, same meaning. Preserving MAT Thai 'จงเกิดผลอันสมควรแก่การกลับใจ' for synoptic consistency. Per uW figs-metaphor: fruits = behavioral-evidence of repentance; don't explicate. μετάνοια → การกลับใจ (RULES §4)"},
+        {"greek": "μὴ ἄρξησθε λέγειν ἐν ἑαυτοῖς· Πατέρα ἔχομεν τὸν Ἀβραάμ", "thai": "อย่าเริ่มนึกในใจว่า ‹เรามีอับราฮัมเป็นบิดา›", "rationale": "SYNOPTIC PARALLEL with MAT 3:9 (MAT has μὴ δόξητε 'don't think', LUK has μὴ ἄρξησθε λέγειν 'don't begin to say' — Luke is slightly stronger/internalizing). Per uW figs-quotesinquotes: quoted-within-quoted = ‹...›. Per uW figs-metaphor: πατέρα ἔχομεν = 'Abraham is our ancestor' but KEEPING the metaphor-term 'father/บิดา' per uW's recommendation (don't flatten). Ἀβραάμ → อับราฮัม (glossary)"},
+        {"greek": "δύναται ὁ θεὸς ἐκ τῶν λίθων τούτων ἐγεῖραι τέκνα τῷ Ἀβραάμ", "thai": "พระเจ้าทรงสามารถสร้างบุตรของอับราฮัมขึ้นจากหินเหล่านี้ได้", "rationale": "VERBATIM MATTHEAN PARALLEL (MAT 3:9 established glossary): 'พระเจ้าทรงสามารถสร้างบุตรของอับราฮัมขึ้นจากหินเหล่านี้ได้'. Royal register ทรง per RULES §3 (divine subject). Per uW figs-metaphor: 'raise up' spatial-metaphor = 'create-from-non-existent-source.' Per uW figs-metaphor: τέκνα = descendants. Thai บุตร covers both offspring and descendants. The HEBREW WORDPLAY banim (sons) / abanim (stones) preserved in the original Aramaic; documented in thai_summary"}
+      ],
+      "notes": "SYNOPTIC PARALLEL with MAT 3:8-9 — verbatim Greek for core sayings, preserved verbatim Thai. Per RULES §4 synoptic-consistency. Per uW figs-exclusive: 'we' in 'we have Abraham' is exclusive — 'we Jews, not others' — Thai not gender-distinguishing but the contrast is clear contextually. Hebrew/Aramaic wordplay banim/abanim (sons/stones) is likely behind the saying — documented in thai_summary for Thai readers. Theological weight: John rejects ethnic-automatic-salvation. Cf. Paul's Rom 2:28-29; 9:6-8 development of the same theme (true Israel = those of faith, not flesh). ADDED TO NT_OT_CITATIONS: LUK 3:8 thematic_allusion to GEN 17:4-7 (Abrahamic covenant context that crowds presume on); ISA 51:1-2 (look to rock from which you were hewn — wordplay with stones)."
+    }
+  },
+  {
+    "reference": "Luke 3:9",
+    "chapter": 3,
+    "verse": 9,
+    "greek": "ἤδη δὲ καὶ ἡ ἀξίνη πρὸς τὴν ῥίζαν τῶν δένδρων κεῖται· πᾶν οὖν δένδρον μὴ ποιοῦν καρπὸν καλὸν ἐκκόπτεται καὶ εἰς πῦρ βάλλεται.",
+    "bsb_english": "The axe lies ready at the root of the trees, and every tree that does not produce good fruit will be cut down and thrown into the fire.”",
+    "translation": {
+      "thai": "บัดนี้ขวานก็จ่ออยู่ที่โคนต้นไม้ทั้งหลายแล้ว ฉะนั้นต้นไม้ทุกต้นที่ไม่เกิดผลดีก็จะถูกโค่นลงและโยนทิ้งในกองไฟ»",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "ἤδη δὲ καὶ ἡ ἀξίνη πρὸς τὴν ῥίζαν τῶν δένδρων κεῖται", "thai": "บัดนี้ขวานก็จ่ออยู่ที่โคนต้นไม้ทั้งหลายแล้ว", "rationale": "VERBATIM MATTHEAN PARALLEL (MAT 3:10 established rendering). Per uW figs-metaphor: axe-at-root = imminent judgment. Per uW figs-activepassive: preserve as Thai active ('ขวานจ่ออยู่'). ἀξίνη (2x NT: here and MAT 3:10). ῥίζα → โคน (base/root of tree). Thai 'จ่ออยู่' (poised/aimed-at) captures κεῖται 'lies ready' idiomatically"},
+        {"greek": "πᾶν οὖν δένδρον μὴ ποιοῦν καρπὸν καλὸν ἐκκόπτεται καὶ εἰς πῦρ βάλλεται", "thai": "ต้นไม้ทุกต้นที่ไม่เกิดผลดีก็จะถูกโค่นลงและโยนทิ้งในกองไฟ", "rationale": "VERBATIM MATTHEAN PARALLEL (MAT 3:10 established glossary: 'ต้นไม้ทุกต้นที่ไม่เกิดผลดีก็จะถูกโค่นลงและโยนทิ้งในกองไฟ'). Preserving verbatim for synoptic consistency. Per uW figs-metaphor + figs-activepassive: preserve metaphor + passive-in-Thai. ἐκκόπτω → โค่น; βάλλω εἰς πῦρ → โยนทิ้งในกองไฟ"}
+      ],
+      "notes": "VERBATIM SYNOPTIC PARALLEL with MAT 3:10. Greek identical except LUK prepends ἤδη δὲ καί to MAT's ἤδη δέ. Preserving Matthean Thai exactly. Per uW figs-metaphor chapter-intro: metaphor-preservation recommended over explication. The agricultural image: judgment is imminent (axe-already-in-place), not merely future; the criterion is karpos kalos (good fruit) — behavior evidencing true repentance, not merely credentials (Abrahamic descent)."
+    }
+  },
+  {
+    "reference": "Luke 3:10",
+    "chapter": 3,
+    "verse": 10,
+    "greek": "Καὶ ἐπηρώτων αὐτὸν οἱ ὄχλοι λέγοντες· Τί οὖν ποιήσωμεν;",
+    "bsb_english": "The crowds asked him, “What then should we do?”",
+    "translation": {
+      "thai": "ฝูงชนจึงถามท่านว่า «ถ้าเช่นนั้น เราควรทำอย่างไร»",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "ἐπηρώτων", "thai": "ถาม", "rationale": "ἐπερωτάω imperfect — iterative/continuous questioning ('kept-asking'). Thai simple present 'ถาม' adequate — context conveys the ongoing nature"},
+        {"greek": "Τί οὖν ποιήσωμεν", "thai": "ถ้าเช่นนั้น เราควรทำอย่างไร", "rationale": "Deliberative aorist subjunctive 'what-should-we-do?' Per uW figs-explicit: the follow-up question asking for concrete application of the preaching. Thai 'เราควรทำอย่างไร' natural. Inclusive 'เรา' since crowd asking-for-themselves (not vs. others)"}
+      ],
+      "notes": "UNIQUE TO LUKE: vv.10-14 are the Lukan crowd-dialogue Q&A with specific ethical applications for three social groups (crowds, tax collectors, soldiers). Matthew/Mark omit this. Lukan signature: ethical-concrete-practical justice applied to distinct professions. Echoes LUK's social-reversal theme (Magnificat 1:52-53; beatitudes 6:20-26). The question formula Τί οὖν ποιήσωμεν; recurs at LUK 10:25 (lawyer), ACT 2:37 (Pentecost crowd), ACT 16:30 (Philippian jailer), ACT 22:10 (Paul on Damascus road) — a Lukan signature question marking moments of spiritual crisis + call to action."
+    }
+  },
+  {
+    "reference": "Luke 3:11",
+    "chapter": 3,
+    "verse": 11,
+    "greek": "ἀποκριθεὶς δὲ ἔλεγεν αὐτοῖς· Ὁ ἔχων δύο χιτῶνας μεταδότω τῷ μὴ ἔχοντι, καὶ ὁ ἔχων βρώματα ὁμοίως ποιείτω.",
+    "bsb_english": "John replied, “Whoever has two tunics should share with him who has none, and whoever has food should do the same.”",
+    "translation": {
+      "thai": "ท่านจึงตอบพวกเขาว่า «ผู้ใดมีเสื้อสองตัว จงแบ่งให้คนที่ไม่มี และผู้ใดมีอาหาร ก็จงทำอย่างเดียวกัน»",
+      "thai_literal": null,
+      "thai_summary": "ยอห์นตอบง่ายและเป็นรูปธรรมมาก — ไม่ใช่การถือศีลอดยากลำบากหรือพิธีกรรมเคร่งครัด แต่เป็นการแบ่งปันสิ่งจำเป็นในชีวิตกับคนที่ขาดแคลน คำว่า «ไคทอน» คือเสื้อชั้นในยาวที่คนสวมใส่ประจำวัน — การมีสองตัวถือว่าเป็นความมั่งคั่งเล็กน้อย เพราะคนธรรมดามีเพียงตัวเดียว การกลับใจที่แท้จริงจึงสำแดงออกเป็นความเอื้อเฟื้อ ไม่ใช่แค่ความรู้สึกทางศาสนา",
+      "key_decisions": [
+        {"greek": "ἀποκριθεὶς δὲ ἔλεγεν", "thai": "จึงตอบ...ว่า", "rationale": "Per uW figs-hendiadys: 'answering-said' = 'responded.' Thai 'ตอบ...ว่า' natural, doesn't need both verbs"},
+        {"greek": "Ὁ ἔχων δύο χιτῶνας μεταδότω τῷ μὴ ἔχοντι", "thai": "ผู้ใดมีเสื้อสองตัว จงแบ่งให้คนที่ไม่มี", "rationale": "χιτών (NT freq 11) = inner-garment/tunic. Thai เสื้อ generic enough. μεταδίδωμι (5x NT) = share/give. Thai แบ่งให้ (share-with) standard. 3rd-person imperative με ταδότω → 'จง' imperative particle"},
+        {"greek": "ὁ ἔχων βρώματα ὁμοίως ποιείτω", "thai": "ผู้ใดมีอาหาร ก็จงทำอย่างเดียวกัน", "rationale": "Per uW figs-explicit: implication is share-extra-food, just as extra-tunic. βρῶμα (17x) = food. ὁμοίως = similarly. Thai อย่างเดียวกัน (the-same). Preserving the ambiguity — reader infers the sharing principle from the parallel structure"}
+      ],
+      "notes": "UNIQUE TO LUKE. Ethic of concrete mercy: John's first ethical application is radical generosity — if you have surplus, give to one who lacks. Echoes Leviticus-Deuteronomy poverty laws (Deut 15:7-11; Lev 19:9-10 gleaning) and anticipates Christian community ethics (Acts 2:44-45; 4:34-35; 2 Cor 8-9; 1 John 3:17). The test of repentance is not religious intensity but neighbor-love expressed in material sharing. Two-tunic scenario: ownership of a spare garment = minimal economic cushion; John demands it be shared. Per uW figs-explicit + figs-metaphor: the specific example stands for the general principle — surplus of any goods obligates sharing."
+    }
+  },
+  {
+    "reference": "Luke 3:12",
+    "chapter": 3,
+    "verse": 12,
+    "greek": "ἦλθον δὲ καὶ τελῶναι βαπτισθῆναι καὶ εἶπαν πρὸς αὐτόν· Διδάσκαλε, τί ποιήσωμεν;",
+    "bsb_english": "Even tax collectors came to be baptized. “Teacher,” they asked, “what should we do?”",
+    "translation": {
+      "thai": "แม้แต่คนเก็บภาษีก็มารับบัพติศมาด้วย และถามท่านว่า «ท่านอาจารย์ เราควรทำอย่างไร»",
+      "thai_literal": null,
+      "thai_summary": "คนเก็บภาษีในสมัยนั้นถือเป็นคนทรยศต่อชนชาติตนเอง เพราะทำงานให้โรมันและมักขูดรีดเงินเกินอัตราที่รัฐกำหนด ถูกห้ามเข้าธรรมศาลาและถูกจัดอยู่ในกลุ่ม «คนบาป» (เทียบ ลูกา 5:30; 7:34) การที่คนเก็บภาษีมาหาแบปติสต์แสดงว่าคำเทศนาของยอห์นได้ก้าวข้ามขอบเขตทางศาสนาไปแล้ว — คนที่สังคมถือว่าสิ้นหวังก็ยังมาขอการกลับใจ",
+      "key_decisions": [
+        {"greek": "ἦλθον δὲ καὶ τελῶναι", "thai": "แม้แต่คนเก็บภาษีก็มา", "rationale": "τελώνης → คนเก็บภาษี (glossary-established MAT 5:46, MRK 2:15-16). καί here = 'even/also' intensifying the social-reversal point. Thai แม้แต่ (even) captures the intensity"},
+        {"greek": "Διδάσκαλε", "thai": "ท่านอาจารย์", "rationale": "διδάσκαλος (59x NT) = teacher. Per uW: respectful address. Thai ท่านอาจารย์ preserves the respectful register. This is the same title used for Jesus elsewhere; tax collectors accord John teaching-authority"},
+        {"greek": "τί ποιήσωμεν", "thai": "เราควรทำอย่างไร", "rationale": "Same formula as v.10, preserving consistent Thai"}
+      ],
+      "notes": "UNIQUE TO LUKE. Tax collectors (τελῶναι, Latin publicani) were Jewish collaborators with Rome, contracted to collect taxes/tolls; the contractor paid a fixed sum to Rome and kept anything extra — an inherent invitation to extortion. Socially outcast, ritually compromised (contact with Gentiles), barred from synagogue leadership. Per uW + glossary: τελώνης → คนเก็บภาษี. Their asking John is significant — they are not dismissed but engaged. Anticipates Jesus's similar pattern (LUK 5:27-32 Levi's call; LUK 19:1-10 Zacchaeus). Διδάσκαλε (Teacher) is the same title used for Jesus (LUK 6:40; 7:40; etc.) — John is accorded teaching-authority by outcasts."
+    }
+  },
+  {
+    "reference": "Luke 3:13",
+    "chapter": 3,
+    "verse": 13,
+    "greek": "ὁ δὲ εἶπεν πρὸς αὐτούς· Μηδὲν πλέον παρὰ τὸ διατεταγμένον ὑμῖν πράσσετε.",
+    "bsb_english": "“Collect no more than you are authorized,” he answered.",
+    "translation": {
+      "thai": "ท่านก็ตอบพวกเขาว่า «อย่าเก็บเกินอัตราที่กำหนดให้เจ้าเก็บ»",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "Μηδὲν πλέον & πράσσετε", "thai": "อย่าเก็บเกิน", "rationale": "Per uW figs-explicit: implied object is 'money collected' — the entire tax-collector racket's abuse was over-collecting. πράσσω (39x) when used by tax-collectors = 'exact/collect.' μηδὲν πλέον = nothing more. Thai อย่าเก็บเกิน (don't-collect-beyond) natural"},
+        {"greek": "παρὰ τὸ διατεταγμένον ὑμῖν", "thai": "อัตราที่กำหนดให้เจ้าเก็บ", "rationale": "Per uW figs-activepassive: διατάσσω perfect-passive-participle 'what-has-been-appointed-to-you' = 'the rate Rome authorized.' Thai อัตราที่กำหนด preserves both the authorization and the rate-structure. Implicit agent (Rome/governor) surfaces naturally in Thai rendering"}
+      ],
+      "notes": "UNIQUE TO LUKE. John does not demand abandonment of the profession (as some radical prophets might) — he demands justice WITHIN the role. This is a SIL/Wycliffe ethics-of-place principle: repentance works within vocation where possible, not by fleeing it. Echoes OT prophets' rebuke of dishonest weights/measures (Lev 19:35-36; Mic 6:11; Prov 11:1). Per uW figs-explicit: the implication is that tax-collectors had been demanding extra money beyond what Romans authorized. John rebukes the extortion-as-custom, not tax-collection itself."
+    }
+  },
+  {
+    "reference": "Luke 3:14",
+    "chapter": 3,
+    "verse": 14,
+    "greek": "ἐπηρώτων δὲ αὐτὸν καὶ στρατευόμενοι λέγοντες· Τί ποιήσωμεν καὶ ἡμεῖς; καὶ εἶπεν αὐτοῖς· Μηδένα διασείσητε μηδὲ συκοφαντήσητε, καὶ ἀρκεῖσθε τοῖς ὀψωνίοις ὑμῶν.",
+    "bsb_english": "Then some soldiers asked him, “And what should we do?” “Do not take money by force or false accusation,” he said. “Be content with your wages.”",
+    "translation": {
+      "thai": "พวกทหารก็ถามท่านเช่นกันว่า «แล้วพวกเราเล่า เราควรทำอย่างไร» ท่านก็ตอบพวกเขาว่า «อย่ารีดไถผู้ใดด้วยกำลัง อย่ากล่าวหาใครเท็จเพื่อเอาเงิน และจงพอใจในค่าจ้างของเจ้า»",
+      "thai_literal": null,
+      "thai_summary": "คำว่า «ดิอาไซโอ» (HAPAX ในพันธสัญญาใหม่) หมายถึงการ «เขย่าขู่» เพื่อเอาเงิน — เป็นคำเฉพาะสำหรับการรีดไถด้วยการข่มขู่ คำว่า «ซูโคฟานเตโอ» หมายถึงการ «ฟ้องเท็จ» เพื่อได้รางวัลสินจ้าง ทหารในสมัยนั้น (อาจเป็นทหารยิวที่รับใช้เฮโรดแอนติปาส หรือทหารโรมัน) ได้รับค่าจ้างน้อยและมักหารายได้เสริมด้วยการข่มขู่ประชาชน ยอห์นไม่ได้ห้ามการเป็นทหาร แต่ห้ามการใช้อำนาจในทางมิชอบ — และสอนคุณธรรม «ความพอใจ» ในค่าจ้างของตน",
+      "key_decisions": [
+        {"greek": "στρατευόμενοι", "thai": "พวกทหาร", "rationale": "στρατεύω (7x NT) present-middle-participle 'those-soldiering.' Thai พวกทหาร standard. Context unclear whether these are Roman troops or Jewish soldiers serving Herod Antipas; likely the latter given the Galilean audience"},
+        {"greek": "Τί ποιήσωμεν καὶ ἡμεῖς", "thai": "แล้วพวกเราเล่า เราควรทำอย่างไร", "rationale": "Per uW figs-exclusive: 'we soldiers' exclusive — 'we, as opposed to the previous groups.' Thai 'พวกเราเล่า' (what-about-us?) captures the comparative framing. Soldiers are a distinct third group after crowds + tax-collectors"},
+        {"greek": "Μηδένα διασείσητε", "thai": "อย่ารีดไถผู้ใดด้วยกำลัง", "rationale": "HAPAX: διασείω (only here in NT) — classical-Greek/papyrological term meaning 'shake down/extort.' Used in imperial-era documentary papyri for soldiers-extorting-civilians (e.g., P.Oxy. 240, P.Lond. 342). Per uW figs-explicit: the implication is extortion-under-threat. Thai รีดไถ (extort) + ด้วยกำลัง (by force) captures both elements of the term"},
+        {"greek": "μηδὲ συκοφαντήσητε", "thai": "อย่ากล่าวหาใครเท็จเพื่อเอาเงิน", "rationale": "συκοφαντέω (2x NT: here and LUK 19:8 Zacchaeus) = 'accuse-falsely-for-gain.' Etymology 'fig-informer' from Athenian legal-practice, narrowed to 'malicious-accuser.' Per uW figs-explicit: the implication is false-accusation-for-extortion. Thai กล่าวหาเท็จเพื่อเอาเงิน (falsely-accuse-to-get-money) captures both dimensions"},
+        {"greek": "ἀρκεῖσθε τοῖς ὀψωνίοις ὑμῶν", "thai": "จงพอใจในค่าจ้างของเจ้า", "rationale": "ἀρκέω (8x NT) = be-content-with. ὀψώνιον (4x NT: here, ROM 6:23 'wages of sin', 1 COR 9:7, 2 COR 11:8) originally = ration-money/provisions-allowance for soldiers, broader = wages. Thai ค่าจ้าง (wages) standard. Per uW figs-activepassive: present-imperative 'let-wages-suffice-you.' Thai 'จงพอใจ' (be-content) natural imperative"}
+      ],
+      "notes": "UNIQUE TO LUKE. HAPAX: διασείω (classical 'shake-down' for extortion). Technical-contextual vocabulary: both διασείω and συκοφαντέω are specifically papyrological-attested soldier/official-abuse terms — Luke's Greek here shows close familiarity with 1st-century professional/legal vocabulary, consistent with Luke's educated profile. ὀψώνιον is military-provisions-allowance (later broadened to 'wages'). Theology: John preserves vocational legitimacy — soldiers need not quit soldiering, but must soldier justly. Echoes OT war-ethics (Deut 20; 2 Kgs 6:8-23 Elisha not permitting execution of Aramean captives). The third ethical rule — 'be content with wages' — strikes at the root of both prior violations, which were driven by wanting more than wage-sufficient income. Financial-contentment as spiritual discipline is a thread that runs into 1 Tim 6:6-10 and Heb 13:5. ADDED TO NT_OT_CITATIONS: LUK 3:14 thematic_allusion to DEU 20:5-9 (just-war ethics) + PRO 30:7-9 (contentment theology)."
+    }
+  },
+  {
+    "reference": "Luke 3:15",
+    "chapter": 3,
+    "verse": 15,
+    "greek": "Προσδοκῶντος δὲ τοῦ λαοῦ καὶ διαλογιζομένων πάντων ἐν ταῖς καρδίαις αὐτῶν περὶ τοῦ Ἰωάννου, μήποτε αὐτὸς εἴη ὁ χριστός,",
+    "bsb_english": "The people were waiting expectantly and were all wondering in their hearts if John could be the Christ.",
+    "translation": {
+      "thai": "เมื่อประชาชนกำลังคอยเฝ้าด้วยความคาดหวัง และทุกคนกำลังขบคิดในใจเกี่ยวกับยอห์นว่าท่านอาจจะเป็นพระคริสต์หรือไม่",
+      "thai_literal": null,
+      "thai_summary": "ยุคของยอห์นเป็นยุคที่คนยิวกำลังรอคอยพระเมสสิยาห์อย่างรุนแรง — ความคาดหวังนี้ปรากฏในวรรณกรรมร่วมสมัย เช่น «บทสดุดีของซาโลมอน» (กลางศตวรรษที่ 1 ก่อนคริสตกาล) และในลัทธิขุมชนทะเลสาบเดดซี การที่ประชาชนสงสัยว่ายอห์นเป็นพระเมสสิยาห์เป็นเรื่องเข้าใจได้ — ท่านเทศนาในถิ่นทุรกันดารเหมือนเอลียาห์ (มาลาคี 4:5) แต่งกายเหมือนผู้เผยพระวจนะโบราณ และเรียกร้องการกลับใจ อย่างไรก็ตาม ยอห์นปฏิเสธอย่างเด็ดขาดในข้อต่อไป",
+      "key_decisions": [
+        {"greek": "Προσδοκῶντος δὲ τοῦ λαοῦ", "thai": "เมื่อประชาชนกำลังคอยเฝ้าด้วยความคาดหวัง", "rationale": "προσδοκάω → กำลังคอย (glossary-established MAT 11:3 'καὶ ἕτερον προσδοκῶμεν' → 'ท่านอื่น...คอย'). Present-participle genitive-absolute. Per uW grammar-connect-time-background: sets stage for John's answer. Thai 'คอยเฝ้าด้วยความคาดหวัง' preserves the expectant/waiting-for-Messiah sense"},
+        {"greek": "διαλογιζομένων πάντων ἐν ταῖς καρδίαις αὐτῶν", "thai": "ทุกคนกำลังขบคิดในใจ", "rationale": "Per uW figs-metaphor: καρδία = mind/inner-life, not organ. διαλογίζομαι (16x) = deliberate/reason-with-oneself. Thai ขบคิด (ponder/deliberate) natural; 'ในใจ' (in-heart/mind) preserves the Hebraic kardia-as-seat-of-thought"},
+        {"greek": "μήποτε αὐτὸς εἴη ὁ χριστός", "thai": "ท่านอาจจะเป็นพระคริสต์หรือไม่", "rationale": "μήποτε + optative = 'whether-perhaps,' indirect question of cautious/hesitant inquiry. χριστός → พระคริสต์ (RULES §4). Per uW figs-explicit: clarify 'the Messiah' — Thai พระคริสต์ already carries this Jewish-messianic-expectation sense (established glossary). The optative indicates tentative speculation, captured by Thai 'อาจจะ...หรือไม่' (perhaps...or not)"}
+      ],
+      "notes": "UNIQUE TO LUKE. Per uW grammar-connect-time-background: this verse sets the background for John's definitive self-identification in v.16. Messianic expectation in early 1st-century Judea was intense (cf. Pss. Sol. 17-18; 1QS 9:11 'Prophet and Messiahs of Aaron and Israel'; 4Q521). John's wilderness-prophet appearance invited the comparison. μήποτε + optative is rare and marks speculation with genuine uncertainty rather than assertion. Luke is careful to NOT present John as claiming messianic status — a concern that matters in context of Baptist-communities that may have lingered beyond John's death (cf. Acts 19:1-7 re-baptism of Baptist-only disciples). The Fourth Gospel's John 1:19-27 deals explicitly with this ambiguity. ADDED TO NT_OT_CITATIONS: LUK 3:15 thematic_allusion to MAL 4:5 (Elijah-forerunner expectation) which fuels the crowd's speculation."
+    }
+  },
+  {
+    "reference": "Luke 3:16",
+    "chapter": 3,
+    "verse": 16,
+    "greek": "ἀπεκρίνατο λέγων πᾶσιν ὁ Ἰωάννης· Ἐγὼ μὲν ὕδατι βαπτίζω ὑμᾶς· ἔρχεται δὲ ὁ ἰσχυρότερός μου, οὗ οὐκ εἰμὶ ἱκανὸς λῦσαι τὸν ἱμάντα τῶν ὑποδημάτων αὐτοῦ· αὐτὸς ὑμᾶς βαπτίσει ἐν πνεύματι ἁγίῳ καὶ πυρί·",
+    "bsb_english": "John answered all of them: “I baptize you with water, but One more powerful than I will come, the straps of whose sandals I am not worthy to untie. He will baptize you with the Holy Spirit and with fire.",
+    "translation": {
+      "thai": "ยอห์นจึงตอบคนทั้งปวงว่า «เราให้บัพติศมาแก่ท่านทั้งหลายด้วยน้ำ แต่ผู้ที่ทรงอำนาจยิ่งกว่าเรากำลังจะเสด็จมา ซึ่งเราไม่คู่ควรแม้แต่จะแก้สายรัดรองเท้าของพระองค์ พระองค์จะทรงให้บัพติศมาแก่ท่านทั้งหลายด้วยพระวิญญาณบริสุทธิ์และด้วยไฟ",
+      "thai_literal": null,
+      "thai_summary": "คำอุปมา «บัพติศมาด้วยไฟ» มีการตีความสองแบบในประวัติศาสตร์คริสตจักร: (1) ไฟแห่งการพิพากษา (สอดคล้องกับข้อ 9 «ต้นไม้จะถูกโค่นและโยนทิ้งในกองไฟ» และข้อ 17 «เผาแกลบด้วยไฟที่ไม่รู้ดับ») (2) ไฟแห่งการชำระให้บริสุทธิ์ (เทียบ อิสยาห์ 4:4 «วิญญาณแห่งไฟเผา»; มาลาคี 3:2 «เหมือนไฟของช่างหลอม») ภาพของ «การให้บัพติศมาด้วยพระวิญญาณ» สำเร็จที่เทศกาลเพ็นเทคอสต์ (กิจการ 2:3 «ลิ้นเหมือนไฟ» ลงมาเหนือสาวก) ซึ่งรวมทั้งการชำระและการประกาศข่าวสารพระเจ้า",
+      "key_decisions": [
+        {"greek": "Ἐγὼ μὲν ὕδατι βαπτίζω ὑμᾶς", "thai": "เราให้บัพติศมาแก่ท่านทั้งหลายด้วยน้ำ", "rationale": "VERBATIM SYNOPTIC PARALLEL (MRK 1:8 + MAT 3:11). Preserving established glossary rendering 'เราให้บัพติศมาแก่ท่านทั้งหลายด้วยน้ำ' for full synoptic consistency per RULES §4. Emphatic ἐγώ + μέν opens the contrast with ὁ ἐρχόμενος"},
+        {"greek": "ἔρχεται δὲ ὁ ἰσχυρότερός μου", "thai": "แต่ผู้ที่ทรงอำนาจยิ่งกว่าเรากำลังจะเสด็จมา", "rationale": "Comparative ἰσχυρότερος 'stronger one' → ทรงอำนาจยิ่งกว่า (glossary-established MRK 1:7 'ผู้ที่ทรงอำนาจยิ่งกว่าเรา'). Royal register ทรง for divine/divinely-commissioned subject per RULES §3. ἔρχεται → เสด็จมา royal-motion per §3"},
+        {"greek": "οὗ οὐκ εἰμὶ ἱκανὸς λῦσαι τὸν ἱμάντα τῶν ὑποδημάτων αὐτοῦ", "thai": "ซึ่งเราไม่คู่ควรแม้แต่จะแก้สายรัดรองเท้าของพระองค์", "rationale": "Preserving MRK 1:7 established rendering: 'ซึ่งเราไม่คู่ควรแม้แต่จะก้มลงแก้สายรัดรองเท้าของพระองค์' — Luke's Greek omits Mark's κύψας 'having-bent-down,' so Thai drops ก้มลง correspondingly. ἱκανός → คู่ควร (glossary-established); ἱμάς 'strap' + ὑπόδημα 'sandal' = สายรัดรองเท้า. Per uW figs-explicit: untying-sandals was a slave's task; John's implied meaning is 'I am not worthy even to be his slave' — preserve the concrete image, don't explicate"},
+        {"greek": "αὐτὸς ὑμᾶς βαπτίσει ἐν πνεύματι ἁγίῳ καὶ πυρί", "thai": "พระองค์จะทรงให้บัพติศมาแก่ท่านทั้งหลายด้วยพระวิญญาณบริสุทธิ์และด้วยไฟ", "rationale": "VERBATIM MATTHEAN PARALLEL (MAT 3:11). Luke has this identical phrase (including καὶ πυρί 'and with fire' — Mark 1:8 omits πυρί). Preserving MAT Thai 'พระองค์จะทรงให้บัพติศมาแก่ท่านทั้งหลายด้วยพระวิญญาณบริสุทธิ์และด้วยไฟ' verbatim for synoptic consistency. πνεῦμα ἅγιον → พระวิญญาณบริสุทธิ์ per RULES §4. Royal ทรง per §3"}
+      ],
+      "notes": "SYNOPTIC PARALLEL with MRK 1:7-8 + MAT 3:11. Luke's Greek = Matthew's exactly on 'and with fire.' Mark omits πυρί. Synoptic-consistency check will compare; should match MAT exactly. Per uW figs-metaphor: 'baptize with fire' is debated — (a) eschatological-judgment fire (connecting to vv.9 'thrown into fire' + v.17 'unquenchable fire' = dominant contextual reading per Fitzmyer, Bock, Green) or (b) refining-purifying fire (Isa 4:4; Mal 3:2-3 refiner's fire; Acts 2:3 Pentecost tongues of fire). The fire-term likely serves BOTH interpretations — for those who repent, purifying Pentecostal fire; for those who don't, eschatological judgment fire — consistent with vv.9, 17 dual-destination framing. Some preserve the polysemy as Nolland proposes. Not flattening to one. ADDED TO NT_OT_CITATIONS: LUK 3:16 thematic_allusion to ISA 4:4 (spirit-of-judgment spirit-of-burning) + MAL 3:2-3 (refiner's fire) + JOL 2:28-29 (Spirit outpoured — fulfilled ACT 2:16-18)."
+    }
+  },
+  {
+    "reference": "Luke 3:17",
+    "chapter": 3,
+    "verse": 17,
+    "greek": "οὗ τὸ πτύον ἐν τῇ χειρὶ αὐτοῦ διακαθᾶραι τὴν ἅλωνα αὐτοῦ καὶ συναγαγεῖν τὸν σῖτον εἰς τὴν ἀποθήκην αὐτοῦ, τὸ δὲ ἄχυρον κατακαύσει πυρὶ ἀσβέστῳ.",
+    "bsb_english": "His winnowing fork is in His hand to clear His threshing floor and to gather the wheat into His barn; but He will burn up the chaff with unquenchable fire.”",
+    "translation": {
+      "thai": "พลั่วฝัดข้าวอยู่ในพระหัตถ์ของพระองค์แล้ว พระองค์จะทรงชำระลานนวดข้าวของพระองค์ให้สะอาด และจะทรงรวบรวมข้าวสาลีของพระองค์เข้าในยุ้งฉาง ส่วนฟางลีบนั้นพระองค์จะทรงเผาด้วยไฟที่ไม่รู้ดับ»",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "οὗ τὸ πτύον ἐν τῇ χειρὶ αὐτοῦ διακαθᾶραι τὴν ἅλωνα αὐτοῦ καὶ συναγαγεῖν τὸν σῖτον εἰς τὴν ἀποθήκην αὐτοῦ, τὸ δὲ ἄχυρον κατακαύσει πυρὶ ἀσβέστῳ", "thai": "พลั่วฝัดข้าวอยู่ในพระหัตถ์ของพระองค์แล้ว พระองค์จะทรงชำระลานนวดข้าวของพระองค์ให้สะอาด และจะทรงรวบรวมข้าวสาลีของพระองค์เข้าในยุ้งฉาง ส่วนฟางลีบนั้นพระองค์จะทรงเผาด้วยไฟที่ไม่รู้ดับ", "rationale": "VERBATIM MATTHEAN PARALLEL (MAT 3:12 established glossary — preserving Matthean Thai exactly for synoptic consistency per RULES §4). HAPAX: διακαθαίρω (only here in NT) = 'cleanse-thoroughly'; LUK's alternation with MAT's διακαθαριεῖ (future) doesn't change the Thai ('จะทรงชำระ...ให้สะอาด'). πτύον (2x NT) = winnowing-fork → พลั่วฝัดข้าว (glossary-established). ἅλων (3x NT) = threshing-floor → ลานนวดข้าว. σῖτος → ข้าวสาลี (glossary). ἀποθήκη → ยุ้งฉาง (glossary). ἄχυρον = chaff → ฟางลีบ. ἄσβεστος → ที่ไม่รู้ดับ (unquenchable). Royal register ทรง per §3 (divine/Messianic subject). Royal พระหัตถ์ 'hand' per §3"}
+      ],
+      "notes": "VERBATIM SYNOPTIC PARALLEL with MAT 3:12. Luke has διακαθᾶραι (aorist infinitive) where MAT has διακαθαριεῖ (future indicative) — minor grammatical variation, identical semantics. Thai preserved identical. HAPAX: διακαθαίρω (only here in NT; MAT's διακαθαριεῖ is a different cognate from διακαθαρίζω). Agricultural scene: after threshing grain on the hillside floor, farmer uses winnowing fork to toss the mixture into the wind — heavier grain falls back, lighter chaff blows away; chaff is then burned. John uses the image of sharp dual-destination eschatological judgment: the Messiah already has the tool in hand. πυρὶ ἀσβέστῳ (unquenchable fire) echoes Isa 66:24 (+ Mark 9:43-48 citing the same) — eschatological-judgment fire that does not consume itself out. ADDED TO NT_OT_CITATIONS: LUK 3:17 thematic_allusion to ISA 66:24 (unquenchable fire) + MIC 4:12 (threshing-floor judgment image) + MAL 4:1 (the day burning like a furnace)."
+    }
+  },
+  {
+    "reference": "Luke 3:18",
+    "chapter": 3,
+    "verse": 18,
+    "greek": "Πολλὰ μὲν οὖν καὶ ἕτερα παρακαλῶν εὐηγγελίζετο τὸν λαόν·",
+    "bsb_english": "With these and many other exhortations, John proclaimed the good news to the people.",
+    "translation": {
+      "thai": "ด้วยถ้อยคำตักเตือนเหล่านี้และอีกหลายประการ ยอห์นได้ประกาศข่าวประเสริฐแก่ประชาชน",
+      "thai_literal": null,
+      "thai_summary": "ลูกาสรุปการรับใช้ของยอห์นด้วยคำว่า «ประกาศข่าวประเสริฐ» (ยูอังเกลิซอมัย) — เป็นคำเดียวกับที่ทูตสวรรค์ใช้ประกาศการประสูติของพระเยซู (2:10) และที่พระเยซูใช้อธิบายการรับใช้ของพระองค์เอง (4:18) ยอห์นไม่ได้เป็นเพียงผู้ประกาศพระพิโรธเท่านั้น แต่เป็นผู้ประกาศข่าวดีเกี่ยวกับการเสด็จมาของพระเมสสิยาห์",
+      "key_decisions": [
+        {"greek": "Πολλὰ μὲν οὖν καὶ ἕτερα παρακαλῶν", "thai": "ด้วยถ้อยคำตักเตือนเหล่านี้และอีกหลายประการ", "rationale": "Luke's summary-formula closing the section. παρακαλέω (110x NT) here = exhort/urge/warn. Thai ตักเตือน (admonish/warn) captures John's tone. 'เหล่านี้และอีกหลายประการ' natural Thai for 'these and many other'"},
+        {"greek": "εὐηγγελίζετο τὸν λαόν", "thai": "ประกาศข่าวประเสริฐแก่ประชาชน", "rationale": "εὐαγγελίζομαι → ประกาศข่าวประเสริฐ (glossary-established LUK 2:10). Imperfect — iterative/habitual ministry. Thai ประชาชน standard for λαός. Theological continuity: John's ministry is εὐαγγέλιον (good-news), not only warning — consistent with Luke's use of the word for angels announcing Jesus's birth (2:10) and Jesus's own ministry (4:18)"}
+      ],
+      "notes": "UNIQUE TO LUKE as summary formula. The phrase εὐηγγελίζετο is striking: even John's threats and ethical-rebukes are part of the εὐαγγέλιον. This is consistent with OT prophetic proclamation (Isa 52:7 ἰδοὺ ὁ εὐαγγελιζόμενος) — the 'good news' of God's reign includes judgment on injustice. Lukan signature: εὐαγγελίζομαι occurs 10x in Luke, 15x in Acts, making it Luke's favorite verb for preaching-the-gospel (vs. κηρύσσω which other gospels prefer)."
+    }
+  },
+  {
+    "reference": "Luke 3:19",
+    "chapter": 3,
+    "verse": 19,
+    "greek": "ὁ δὲ Ἡρῴδης ὁ τετραάρχης, ἐλεγχόμενος ὑπ’ αὐτοῦ περὶ Ἡρῳδιάδος τῆς γυναικὸς τοῦ ἀδελφοῦ αὐτοῦ καὶ περὶ πάντων ὧν ἐποίησεν πονηρῶν ὁ Ἡρῴδης,",
+    "bsb_english": "But when he rebuked Herod the tetrarch regarding his brother’s wife Herodias and all the evils he had done,",
+    "translation": {
+      "thai": "แต่เฮโรดเจ้าเมืองประจำแคว้น ถูกยอห์นตักเตือนเรื่องนางเฮโรเดียสภรรยาของน้องชาย และเรื่องความชั่วร้ายอื่น ๆ ทั้งสิ้นที่เฮโรดได้ทำ",
+      "thai_literal": null,
+      "thai_summary": "เฮโรดแอนติปาส (ลูกกษัตริย์เฮโรดมหาราช) ได้หย่ากับภรรยาคนแรก (ธิดาของกษัตริย์อาเรตัสที่ 4 แห่งนาบาเทีย) เพื่อแต่งงานกับเฮโรเดียสซึ่งเป็นภรรยาของน้องชายชื่อฟีลิป (คนละคนกับฟีลิปเตตราร์คในข้อ 1 — เป็นน้องต่างมารดา) การแต่งงานนี้ผิดบัญญัติเลวีนิติ 18:16 และ 20:21 ยอห์นวิจารณ์อย่างเปิดเผย ซึ่งนำไปสู่การจับกุมท่าน (ข้อ 20) และในที่สุดถูกประหาร (9:9 และ มาระโก 6:17-29) เหตุการณ์นี้แสดงให้เห็นว่าการกลับใจที่ยอห์นเทศนาไม่ได้ยกเว้นแม้แต่กษัตริย์",
+      "key_decisions": [
+        {"greek": "ὁ δὲ Ἡρῴδης ὁ τετραάρχης", "thai": "แต่เฮโรดเจ้าเมืองประจำแคว้น", "rationale": "Ἡρῴδης → เฮโรด (context = Herod Antipas, consistent with v.1). τετραάρχης → เจ้าเมืองประจำแคว้น (consistent with v.1's tetrarch rendering — glossary-establishing here for noun-form). Per uW writing-background: δέ introduces background-info about John's later imprisonment (not chronologically during chapter 3 events, per chapter-intro note)"},
+        {"greek": "ἐλεγχόμενος ὑπ’ αὐτοῦ περὶ Ἡρῳδιάδος τῆς γυναικὸς τοῦ ἀδελφοῦ αὐτοῦ", "thai": "ถูกยอห์นตักเตือนเรื่องนางเฮโรเดียสภรรยาของน้องชาย", "rationale": "Per uW figs-activepassive: 'being-rebuked by-him.' Thai ถูก...ตักเตือน passive. ἐλέγχω (17x NT) = rebuke/expose/convict. Ἡρῳδιάς → เฮโรเดียส (standard Thai Christian transliteration; established MAT 14:3, MRK 6:17). Per uW figs-explicit: 'brother's wife while the brother was still alive' — violation of Lev 18:16, 20:21. Thai adds นาง (Mrs.) for politeness and clarity of female-referent"},
+        {"greek": "περὶ πάντων ὧν ἐποίησεν πονηρῶν ὁ Ἡρῴδης", "thai": "เรื่องความชั่วร้ายอื่น ๆ ทั้งสิ้นที่เฮโรดได้ทำ", "rationale": "πονηρός plural neuter substantival = 'evil-things/sins.' Thai ความชั่วร้าย standard. The repeated ὁ Ἡρῴδης-subject is emphatic in Greek; preserved in Thai narrative"}
+      ],
+      "notes": "WRITING-BACKGROUND flag (per uW chapter-intro): vv.19-20 are proleptic — the imprisonment happens later than the events narrated in vv.21-22. Luke uses this literary device to close out the John-narrative before transitioning to Jesus-centered narrative. Herodias-marriage: Herod Antipas divorced his Nabatean wife (daughter of Aretas IV of Petra) to marry Herodias, who had been married to his half-brother Herod II (called 'Philip' in MRK 6:17 + MAT 14:3 — distinct from Philip the tetrarch of v.1, who was another half-brother). Violation of Lev 18:16; 20:21 (cannot marry brother's wife while brother lives; levirate exception in Deut 25:5-10 applies only when brother died childless). Josephus, Ant. 18.5.1, confirms the marriage-scandal. ADDED TO NT_OT_CITATIONS: LUK 3:19 thematic_allusion to LEV 18:16 + LEV 20:21 (prohibited-relations law)."
+    }
+  },
+  {
+    "reference": "Luke 3:20",
+    "chapter": 3,
+    "verse": 20,
+    "greek": "προσέθηκεν καὶ τοῦτο ἐπὶ πᾶσιν, καὶ κατέκλεισεν τὸν Ἰωάννην ἐν φυλακῇ.",
+    "bsb_english": "Herod added this to them all: He locked John up in prison.",
+    "translation": {
+      "thai": "ได้เพิ่มการนี้อีกประการหนึ่งเข้ากับทุกสิ่ง คือได้ขังยอห์นไว้ในเรือนจำ",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "προσέθηκεν καὶ τοῦτο ἐπὶ πᾶσιν", "thai": "ได้เพิ่มการนี้อีกประการหนึ่งเข้ากับทุกสิ่ง", "rationale": "προστίθημι (18x NT) = add-to. Thai เพิ่ม (add) with อีกประการหนึ่ง (one-more-thing) preserves the accumulation-of-sins framing — Herod's imprisonment-of-John is the capstone of his long list of evils"},
+        {"greek": "κατέκλεισεν τὸν Ἰωάννην ἐν φυλακῇ", "thai": "ได้ขังยอห์นไว้ในเรือนจำ", "rationale": "κατακλείω (2x NT: here and ACT 26:10) = lock-up/confine. Per uW figs-synecdoche: 'Herod shut John up' = 'Herod had his soldiers lock John up.' Thai tolerates 'ได้ขัง' (had/caused to be imprisoned). φυλακή → เรือนจำ (formal Thai; glossary-established MRK 6:17 alternate rendering, where คุก also used). Using เรือนจำ here for register-consistency with formal Lukan narrative"}
+      ],
+      "notes": "Per Josephus Ant. 18.5.2, John's imprisonment was at Machaerus, Herod Antipas's desert fortress east of the Dead Sea. Luke's narrative jumps forward chronologically here before returning to Jesus's baptism in vv.21-22 (which happens before John's imprisonment — uW chapter-intro flags this as a potentially confusing placement). Luke's aesthetic choice: close out John's story as a block, then pivot fully to Jesus. Mark and Matthew preserve strict chronology (John baptizes Jesus, then later is imprisoned)."
+    }
+  },
+  {
+    "reference": "Luke 3:21",
+    "chapter": 3,
+    "verse": 21,
+    "greek": "Ἐγένετο δὲ ἐν τῷ βαπτισθῆναι ἅπαντα τὸν λαὸν καὶ Ἰησοῦ βαπτισθέντος καὶ προσευχομένου ἀνεῳχθῆναι τὸν οὐρανὸν",
+    "bsb_english": "When all the people were being baptized, Jesus was baptized too. And as He was praying, heaven was opened,",
+    "translation": {
+      "thai": "เมื่อประชาชนทั้งหมดกำลังรับบัพติศมา พระเยซูก็ทรงรับบัพติศมาด้วย และขณะที่พระองค์กำลังทรงอธิษฐาน ฟ้าสวรรค์ก็เปิดออก",
+      "thai_literal": null,
+      "thai_summary": "ลูกาเน้นเรื่องการอธิษฐานของพระเยซูมากกว่าผู้เขียนข่าวประเสริฐท่านอื่น — บันทึกไว้ว่าพระองค์ทรงอธิษฐานในเหตุการณ์สำคัญ ๆ ถึง 9 ครั้ง (ที่บัพติศมา 3:21; ก่อนเลือกอัครทูต 6:12; ก่อนสารภาพของเปโตร 9:18; ที่การเปลี่ยนรูป 9:28-29; ฯลฯ) การที่ฟ้าสวรรค์ «เปิดออก» เป็นภาพที่ปรากฏในอิสยาห์ 64:1 «โอ ถ้าพระองค์ทรงฉีกฟ้าสวรรค์และเสด็จลงมา!» และเอเสเคียล 1:1 «ฟ้าสวรรค์เปิดออก» — บ่งชี้ว่าการเปิดเผยของพระเจ้ามาถึงอย่างชัดเจน",
+      "key_decisions": [
+        {"greek": "Ἐγένετο δὲ ἐν τῷ βαπτισθῆναι ἅπαντα τὸν λαὸν", "thai": "เมื่อประชาชนทั้งหมดกำลังรับบัพติศมา", "rationale": "Per uW figs-events + writing-newevent: narrative pivots back to pre-imprisonment events. Per uW figs-hyperbole: 'all the people' = 'crowds who came' — generalization. Thai ประชาชนทั้งหมด preserves the generalization. Per uW figs-activepassive: 'while being baptized' passive → active Thai 'กำลังรับบัพติศมา'"},
+        {"greek": "καὶ Ἰησοῦ βαπτισθέντος", "thai": "พระเยซูก็ทรงรับบัพติศมาด้วย", "rationale": "Per uW figs-activepassive: aorist-passive participle 'Jesus having-been-baptized' → Thai royal 'ทรงรับบัพติศมา.' Genitive-absolute construction. Royal ทรง per §3 (Jesus as divine subject). Thai ด้วย (too/also) captures καί"},
+        {"greek": "προσευχομένου", "thai": "ขณะที่พระองค์กำลังทรงอธิษฐาน", "rationale": "UNIQUE TO LUKE: no other gospel mentions Jesus's prayer at his baptism. Luke's prayer-emphasis signature. Royal ทรงอธิษฐาน per §3 (divine subject praying). Present-participle 'while praying' — Thai ขณะที่...กำลัง captures ongoing/simultaneous action"},
+        {"greek": "ἀνεῳχθῆναι τὸν οὐρανὸν", "thai": "ฟ้าสวรรค์ก็เปิดออก", "rationale": "Per uW figs-activepassive: aorist-passive-infinitive. Luke uses ἀνοίγω (77x) — plainer than Mark's σχίζω ('tore open' — Mark 1:10's dramatic verb). Thai ฟ้าสวรรค์เปิดออก (heavens-open-out) natural, echoes Ezek 1:1 + Isa 64:1 motifs. Simpler than MRK 1:10's 'แหวกออก' (torn-open) — reflects Greek verb-difference"}
+      ],
+      "notes": "UNIQUE TO LUKE: the mention of Jesus's prayer at his baptism (προσευχομένου). Lukan prayer-motif: Luke places Jesus in prayer at key turning points (3:21 baptism; 6:12 before choosing apostles; 9:18 before Peter's confession; 9:28-29 transfiguration; 11:1 disciples ask 'teach us to pray'; 22:41-46 Gethsemane; 23:34, 46 cross-prayers). SYNOPTIC PARALLEL with MRK 1:9-10 + MAT 3:13-16, but Luke's version is compressed: (a) Luke skips the Jesus-John dialogue (MAT 3:14-15); (b) Luke abbreviates the Spirit-descent (v.22); (c) Luke uniquely inserts the prayer. Greek verb-choice: ἀνοίγω (open) is plainer than Mark's σχίζω (tear/rend). Mark's σχίζω creates an inclusio with the temple-veil at Mark 15:38; Luke's ἀνοίγω is straightforward revelation-language. ADDED TO NT_OT_CITATIONS: LUK 3:21 thematic_allusion to ISA 64:1 (torn-heavens theophany) + EZK 1:1 (heavens-opened prophetic-vision)."
+    }
+  },
+  {
+    "reference": "Luke 3:22",
+    "chapter": 3,
+    "verse": 22,
+    "greek": "καὶ καταβῆναι τὸ πνεῦμα τὸ ἅγιον σωματικῷ εἴδει ὡς περιστερὰν ἐπ’ αὐτόν, καὶ φωνὴν ἐξ οὐρανοῦ γενέσθαι· Σὺ εἶ ὁ υἱός μου ὁ ἀγαπητός, ἐν σοὶ εὐδόκησα.",
+    "bsb_english": "and the Holy Spirit descended on Him in a bodily form like a dove. And a voice came from heaven: “You are My beloved Son; in You I am well pleased.”",
+    "translation": {
+      "thai": "และพระวิญญาณบริสุทธิ์เสด็จลงมาเหนือพระองค์เป็นรูปกายเหมือนนกพิราบ และมีพระสุรเสียงมาจากฟ้าสวรรค์ว่า «เจ้าคือบุตรที่รักของเรา เราพอใจในเจ้ายิ่งนัก»",
+      "thai_literal": null,
+      "thai_summary": "คำประกาศของพระบิดามีสามองค์ประกอบที่สะท้อนสามข้อพระคัมภีร์เดิม: (1) «เจ้าคือบุตรของเรา» จากสดุดี 2:7 (พระเมสสิยาห์กษัตริย์ที่ได้รับเจิม), (2) «ที่รัก» จากปฐมกาล 22:2 (ภาพของอิสอัคบุตรที่รักคนเดียวของอับราฮัม ที่ถูกถวายเป็นเครื่องบูชา), (3) «เราพอใจในเจ้ายิ่งนัก» จากอิสยาห์ 42:1 (ผู้รับใช้ที่ทรงเลือกสรร) ดังนั้นในประโยคเดียวพระบิดาได้ประกาศให้พระเยซูเป็นทั้งกษัตริย์เมสสิยาห์ บุตรที่รักที่จะถูกถวายบูชา และผู้รับใช้ที่ทุกข์ทรมาน การที่พระวิญญาณเสด็จลงมา «เป็นรูปกาย» (โซมาทิโคส) เฉพาะลูกาเท่านั้นที่ระบุเช่นนี้ — ลูกาผู้เป็นแพทย์ใส่ใจกับรายละเอียดทางกายภาพ",
+      "key_decisions": [
+        {"greek": "καταβῆναι τὸ πνεῦμα τὸ ἅγιον", "thai": "พระวิญญาณบริสุทธิ์เสด็จลงมา", "rationale": "πνεῦμα ἅγιον → พระวิญญาณบริสุทธิ์ (RULES §4). καταβαίνω + divine-subject → ราชาศัพท์ เสด็จลง per §3. Glossary-established MRK 1:10 'พระวิญญาณเสด็จลงมาสถิตกับพระองค์.' LUK's Greek is slightly different: uses καταβῆναι aorist-infinitive (continuation of ἐγένετο δέ narrative-infinitive chain) rather than Mark's καταβαῖνον participle"},
+        {"greek": "σωματικῷ εἴδει ὡς περιστερὰν", "thai": "เป็นรูปกายเหมือนนกพิราบ", "rationale": "UNIQUE TO LUKE: σωματικός (2x NT: here and 1 TIM 4:8) 'bodily/physical.' Luke's medical-author signature — emphasizes the descent was physically visible, not purely vision. Thai รูปกาย preserves the somatic/visible sense. περιστερά → นกพิราบ (glossary-established MRK 1:10, MAT 3:16). Per uW figs-simile: 'like a dove' simile preserved — not claiming the Spirit IS a dove but that the descent had dove-like visible-form"},
+        {"greek": "φωνὴν ἐξ οὐρανοῦ γενέσθαι", "thai": "มีพระสุรเสียงมาจากฟ้าสวรรค์", "rationale": "Per uW figs-personification: 'voice came' — preserving royal-voice register พระสุรเสียง per §3 (divine speech). Thai ฟ้าสวรรค์ (heavens) standard. Glossary-established MAT 3:17, MRK 1:11 renderings"},
+        {"greek": "Σὺ εἶ ὁ υἱός μου ὁ ἀγαπητός, ἐν σοὶ εὐδόκησα", "thai": "เจ้าคือบุตรที่รักของเรา เราพอใจในเจ้ายิ่งนัก", "rationale": "VERBATIM MARKAN PARALLEL (MRK 1:11): 'เจ้าคือบุตรที่รักของเรา เราพอใจในเจ้ายิ่งนัก.' Direct-address form 'Σὺ εἶ' (you are) matches Mark exactly (Matthew has third-person οὗτός ἐστιν 'this is'). Preserving Markan Thai verbatim per RULES §4 synoptic-consistency. เจ้า intimate Father-to-Son register per §3 + glossary-established rendering. ἀγαπητός → ที่รัก per RULES §4. εὐδόκησα aorist 'I-have-delighted' → พอใจ...ยิ่งนัก (glossary-established MAT 3:17/MRK 1:11)"}
+      ],
+      "notes": "SYNOPTIC PARALLEL with MRK 1:10-11 + MAT 3:16-17. Direct-address 'Σὺ εἶ' matches MRK exactly (MAT has third-person 'οὗτός ἐστιν'). Preserving MRK Thai. UNIQUE TO LUKE: σωματικῷ εἴδει 'in bodily form' — the only Synoptic to explicitly describe the Spirit's descent as physically-visible, not merely a vision. Fits Luke's medical/detailed-observation signature. The Father's voice is a composite citation: (a) 'you are my Son' = PSA 2:7 (royal-Messianic); (b) 'the beloved' = GEN 22:2 allusion to Isaac, the only-beloved son offered as sacrifice; (c) 'in you I am well pleased' = ISA 42:1 (servant-song). Triadic christological-theological claim in one sentence: Messianic King + Sacrificial Son + Suffering Servant. Trinitarian moment: Father speaks, Son baptized, Spirit descends. ADDED TO NT_OT_CITATIONS: LUK 3:22 composite_citation of PSA 2:7 + GEN 22:2 + ISA 42:1 (Father-Son-Servant triadic declaration, identical to MAT 3:17/MRK 1:11 composite)."
+    }
+  },
+  {
+    "reference": "Luke 3:23",
+    "chapter": 3,
+    "verse": 23,
+    "greek": "Καὶ αὐτὸς ἦν Ἰησοῦς ἀρχόμενος ὡσεὶ ἐτῶν τριάκοντα, ὢν υἱός, ὡς ἐνομίζετο, Ἰωσὴφ τοῦ Ἠλὶ",
+    "bsb_english": "Jesus Himself was about thirty years old when He began His ministry. He was regarded as the son of Joseph, the son of Heli,",
+    "translation": {
+      "thai": "เมื่อพระเยซูทรงเริ่มต้นพระราชกิจนั้น พระองค์มีพระชนมายุประมาณสามสิบพรรษา ทรงเป็นบุตร (ตามที่คนทั่วไปเข้าใจกัน) ของโยเซฟ ผู้เป็นบุตรของเฮลี",
+      "thai_literal": null,
+      "thai_summary": "พระเยซูเริ่มการรับใช้ในวัย 30 ปี ซึ่งเป็นอายุที่ปุโรหิตและเลวีเริ่มต้นการรับใช้ในพระวิหาร (กันดารวิถี 4:3) และเป็นอายุที่โยเซฟในพันธสัญญาเดิมเริ่มรับใช้ฟาโรห์ (ปฐมกาล 41:46) และดาวิดเริ่มครองราชย์ (2 ซามูเอล 5:4) คำว่า «ตามที่คนทั่วไปเข้าใจกัน» (โฮส เอโนมิเซโต) เป็นคำที่ลูกาใส่เข้ามาอย่างระมัดระวังเพื่อบอกว่าการเป็นบุตรของโยเซฟเป็นเพียงการเข้าใจทางกฎหมาย ไม่ใช่ทางสายเลือด — เพราะพระเยซูประสูติจากหญิงพรหมจารี (ลูกา 1:34-35)",
+      "key_decisions": [
+        {"greek": "αὐτὸς ἦν Ἰησοῦς ἀρχόμενος ὡσεὶ ἐτῶν τριάκοντα", "thai": "เมื่อพระเยซูทรงเริ่มต้นพระราชกิจนั้น พระองค์มีพระชนมายุประมาณสามสิบพรรษา", "rationale": "Per uW figs-idiom: ἀρχόμενος could mean (1) beginning ministry (UST) or (2) just-turned-30. Evangelical consensus (Bock, Marshall, Green) favors (1). Thai 'เริ่มต้นพระราชกิจ' (begin-royal-work) for divine-ministry, royal register per §3. ὡσεί 'about' → ประมาณ. τριάκοντα → สามสิบพรรษา (royal 'year' = พรรษา). พระชนมายุ royal life-age per §3"},
+        {"greek": "ὢν υἱός, ὡς ἐνομίζετο, Ἰωσὴφ", "thai": "ทรงเป็นบุตร (ตามที่คนทั่วไปเข้าใจกัน) ของโยเซฟ", "rationale": "Per uW figs-activepassive: νομίζω passive = 'was-reckoned/thought-to-be.' Luke's careful hedge: 'as-was-supposed' preserves the virginal-conception doctrine (cf. 1:34-35). Thai ตามที่คนทั่วไปเข้าใจกัน (as-people-generally-understood) preserves the nuance — not 'was' the son but 'thought to be' the son. Ἰωσήφ → โยเซฟ (standard Thai Christian, glossary-established MAT 1)"},
+        {"greek": "τοῦ Ἠλὶ", "thai": "ผู้เป็นบุตรของเฮลี", "rationale": "HAPAX: Ἠλί (only here in NT). Luke's genealogy diverges from Matthew's at this point — Matthew has Jacob as Joseph's father (MAT 1:16), Luke has Heli. Historic evangelical harmonization options: (a) Heli is Mary's father, the genealogy traces through her (preferred by Godet, Luther, Calvin, Lenski); (b) Heli adopted Joseph legally after Jacob's death (levirate reading, preferred by some medievals). Not resolved in verse-level note — external documentation in genealogy-translator-decision doc. Thai เฮลี standard Christian transliteration of Ἠλί (Hebrew עֵלִי 'Eli')"}
+      ],
+      "notes": "TRANSITION to the genealogy. LUK's genealogy (3:23-38) runs from Jesus BACK to Adam and God, while MAT's (1:1-17) runs from Abraham FORWARD to Jesus. The two genealogies DIVERGE at many points: most notably, Joseph's father is Jacob (MAT 1:16) vs. Heli (LUK 3:23). Evangelical harmonization: leading view since Godet/Lenski is that Luke traces Mary's line (via Heli as her father, with Joseph as his son-in-law represented in place of Mary for legal/cultural reasons) while Matthew traces Joseph's actual/legal line. Another view (levirate): Joseph's biological father was Jacob, his legal father (by levirate or adoption) was Heli. Either option preserves inerrancy. Luke's ancestors from Adam to David follow 1 Chr 1-3 with some orthographic variations; from David to Zerubbabel Luke diverges from Matthew (Luke via Nathan son of David; Matthew via Solomon). Age 30: priestly-service age (Num 4:3), David's reign-start (2 Sam 5:4), Joseph in Egypt (Gen 41:46) — symbolically rich. ADDED TO NT_OT_CITATIONS: LUK 3:23 thematic_allusion to NUM 4:3 (priestly service age) + 2 SAM 5:4 (David's reign-start age)."
+    }
+  },
+  {
+    "reference": "Luke 3:24",
+    "chapter": 3,
+    "verse": 24,
+    "greek": "τοῦ Μαθθὰτ τοῦ Λευὶ τοῦ Μελχὶ τοῦ Ἰανναὶ τοῦ Ἰωσὴφ",
+    "bsb_english": "the son of Matthat, the son of Levi, the son of Melchi, the son of Jannai, the son of Joseph,",
+    "translation": {
+      "thai": "บุตรของมัทธัท บุตรของเลวี บุตรของเมลคี บุตรของยันนาย บุตรของโยเซฟ",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "τοῦ Μαθθὰτ τοῦ Λευὶ τοῦ Μελχὶ τοῦ Ἰανναὶ τοῦ Ἰωσὴφ", "thai": "บุตรของมัทธัท บุตรของเลวี บุตรของเมลคี บุตรของยันนาย บุตรของโยเซฟ", "rationale": "Per uW translate-names chapter-intro: use consistent pattern 'son of X, son of Y...' throughout. Thai 'บุตรของ X บุตรของ Y' standard Thai biblical-genealogy format (cf. 1 พงศาวดาร 1-3 established Thai Christian). Elliptical genitive 'τοῦ X' = 'of X' continues the 'son of X' from v.23. HAPAX: Ἰανναί (only here in NT) — likely Yannay, a Hebrew name. Transliterations: Μαθθάτ → มัทธัท, Λευί → เลวี (standard Thai Christian, cf. Levi throughout OT), Μελχί → เมลคี, Ἰανναί → ยันนาย, Ἰωσήφ → โยเซฟ (glossary-established)"}
+      ],
+      "notes": "Five post-exilic names in Jesus's immediate ancestry (3-7 generations before Jesus). HAPAX: Ἰανναί. These names are not found in OT genealogies — they represent the 400-year silent-period Jewish families. Luke appears to be drawing from a separate genealogical source than Matthew, possibly Mary's family records (per the Godet/Lenski harmonization) or an independent Joseph-family tradition. No OT citation entry needed — these names do not appear in the Hebrew Bible."
+    }
+  },
+  {
+    "reference": "Luke 3:25",
+    "chapter": 3,
+    "verse": 25,
+    "greek": "τοῦ Ματταθίου τοῦ Ἀμὼς τοῦ Ναοὺμ τοῦ Ἑσλὶ τοῦ Ναγγαὶ",
+    "bsb_english": "the son of Mattathias, the son of Amos, the son of Nahum, the son of Esli, the son of Naggai,",
+    "translation": {
+      "thai": "บุตรของมัททาธีอัส บุตรของอาโมส บุตรของนาฮูม บุตรของเอสลี บุตรของนักกาย",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "τοῦ Ματταθίου τοῦ Ἀμὼς τοῦ Ναοὺμ τοῦ Ἑσλὶ τοῦ Ναγγαὶ", "thai": "บุตรของมัททาธีอัส บุตรของอาโมส บุตรของนาฮูม บุตรของเอสลี บุตรของนักกาย", "rationale": "HAPAX IN LUKE: Ναούμ, Ἑσλί, Ναγγαί (all first NT occurrences of these names). Ματταθίας → มัททาธีอัส (standard Thai Christian; cf. 1 Macc 2:1). Ἀμώς → อาโมส (Thai Christian standard, same as OT prophet spelling). Ναούμ → นาฮูม (Thai Christian standard, same as OT prophet Nahum). Ἑσλί → เอสลี (standard transliteration, no OT occurrence). Ναγγαί → นักกาย (Greek orthography-to-Thai). Thai standard genealogy-listing format maintained"}
+      ],
+      "notes": "Three hapax in this verse. Ἀμώς and Ναούμ share spelling with OT prophets (Amos, Nahum) but refer to different individuals (Jesus's ancestors, not the prophets). Thai preserves standard biblical spellings for recognizability."
+    }
+  },
+  {
+    "reference": "Luke 3:26",
+    "chapter": 3,
+    "verse": 26,
+    "greek": "τοῦ Μάαθ τοῦ Ματταθίου τοῦ Σεμεῒν τοῦ Ἰωσὴχ τοῦ Ἰωδὰ",
+    "bsb_english": "the son of Maath, the son of Mattathias, the son of Semein, the son of Josech, the son of Joda,",
+    "translation": {
+      "thai": "บุตรของมาอาท บุตรของมัททาธีอัส บุตรของเสเมอิน บุตรของโยเสค บุตรของโยดา",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "τοῦ Μάαθ τοῦ Ματταθίου τοῦ Σεμεῒν τοῦ Ἰωσὴχ τοῦ Ἰωδὰ", "thai": "บุตรของมาอาท บุตรของมัททาธีอัส บุตรของเสเมอิน บุตรของโยเสค บุตรของโยดา", "rationale": "FOUR HAPAX in this verse: Μάαθ, Σεμεΐν, Ἰωσήχ, Ἰωδά (all first NT). Μάαθ → มาอาท. Ματταθίας (second occurrence in list) → มัททาธีอัส (consistent with v.25). Σεμεΐν → เสเมอิน. Ἰωσήχ → โยเสค (distinct from Ἰωσήφ = Joseph; note the ending -χ not -φ). Ἰωδά → โยดา. All transliterations follow Greek phonology rendered into Thai"}
+      ],
+      "notes": "Four hapax: Μάαθ, Σεμεΐν, Ἰωσήχ, Ἰωδά. Ἰωσήχ is orthographically distinct from Ἰωσήφ (Joseph) — final -χ vs. -φ. Thai preserves the distinction: โยเสค (Josech) vs. โยเซฟ (Joseph)."
+    }
+  },
+  {
+    "reference": "Luke 3:27",
+    "chapter": 3,
+    "verse": 27,
+    "greek": "τοῦ Ἰωανὰν τοῦ Ῥησὰ τοῦ Ζοροβαβὲλ τοῦ Σαλαθιὴλ τοῦ Νηρὶ",
+    "bsb_english": "the son of Joanan, the son of Rhesa, the son of Zerubbabel, the son of Shealtiel, the son of Neri,",
+    "translation": {
+      "thai": "บุตรของโยฮานัน บุตรของเรซา บุตรของเศรุบบาเบล บุตรของเชอัลทิเอล บุตรของเนรี",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "τοῦ Ἰωανὰν τοῦ Ῥησὰ τοῦ Ζοροβαβὲλ τοῦ Σαλαθιὴλ τοῦ Νηρὶ", "thai": "บุตรของโยฮานัน บุตรของเรซา บุตรของเศรุบบาเบล บุตรของเชอัลทิเอล บุตรของเนรี", "rationale": "THREE HAPAX IN LUKE: Ἰωανάν, Ῥησά, Νηρί. Ἰωανάν → โยฮานัน (Hebrew Yochanan, same root as Ἰωάννης 'John'). Ῥησά → เรซา. Ζοροβαβέλ → เศรุบบาเบล (standard Thai OT form of Zerubbabel, see Ezra 2:2; Neh 12:1). Σαλαθιήλ → เชอัลทิเอล (standard Thai OT form of Shealtiel, see Ezra 3:2). Νηρί → เนรี"}
+      ],
+      "notes": "OT-known names: Zerubbabel (returned-exile governor, 6th-century BC) and Shealtiel (his father, per Ezra 3:2 + Neh 12:1). Luke's line through Zerubbabel matches Matthew (MAT 1:12), BUT Luke then diverges: Luke's Zerubbabel's father-in-the-list (going back) is Σαλαθιήλ (matches), but Zerubbabel's father-in-the-list is then Νηρί (Luke) vs. Ἰεχονίας (Matthew MAT 1:12, = Jeconiah, king cursed per Jer 22:30). The two genealogies both name Shealtiel and Zerubbabel but trace their descent differently. Standard harmonization: Luke traces Mary's line through the same two men, whose covenant-relevance would explain their appearance in both lines despite different routes to them. Thai renderings use established Thai Christian spellings of these OT names. ADDED TO NT_OT_CITATIONS: LUK 3:27 thematic_allusion to EZR 3:2 + NEH 12:1 (Zerubbabel post-exilic-restoration lineage)."
+    }
+  },
+  {
+    "reference": "Luke 3:28",
+    "chapter": 3,
+    "verse": 28,
+    "greek": "τοῦ Μελχὶ τοῦ Ἀδδὶ τοῦ Κωσὰμ τοῦ Ἐλμαδὰμ τοῦ Ἢρ",
+    "bsb_english": "the son of Melchi, the son of Addi, the son of Cosam, the son of Elmadam, the son of Er,",
+    "translation": {
+      "thai": "บุตรของเมลคี บุตรของอัดดี บุตรของโคสัม บุตรของเอลมาดัม บุตรของเอร์",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "τοῦ Μελχὶ τοῦ Ἀδδὶ τοῦ Κωσὰμ τοῦ Ἐλμαδὰμ τοῦ Ἢρ", "thai": "บุตรของเมลคี บุตรของอัดดี บุตรของโคสัม บุตรของเอลมาดัม บุตรของเอร์", "rationale": "FOUR HAPAX: Ἀδδί, Κωσάμ, Ἐλμαδάμ, Ἤρ. Μελχί (2nd occurrence in list, cf. v.24) → เมลคี consistent. Ἀδδί → อัดดี. Κωσάμ → โคสัม. Ἐλμαδάμ → เอลมาดัม. Ἤρ → เอร์ (note: different person from Er of Gen 38:3, Judah's firstborn)"}
+      ],
+      "notes": "Four hapax. The name Ἤρ is shared-spelling with Er (Judah's firstborn per Gen 38:3) but different individual."
+    }
+  },
+  {
+    "reference": "Luke 3:29",
+    "chapter": 3,
+    "verse": 29,
+    "greek": "τοῦ Ἰησοῦ τοῦ Ἐλιέζερ τοῦ Ἰωρὶμ τοῦ Μαθθὰτ τοῦ Λευὶ",
+    "bsb_english": "the son of Joshua, the son of Eliezer, the son of Jorim, the son of Matthat, the son of Levi,",
+    "translation": {
+      "thai": "บุตรของโยชูวา บุตรของเอลีเอเซอร์ บุตรของโยริม บุตรของมัทธัท บุตรของเลวี",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "τοῦ Ἰησοῦ", "thai": "บุตรของโยชูวา", "rationale": "Greek Ἰησοῦς (Iēsous) = Hebrew יְהוֹשׁוּעַ/יֵשׁוּעַ (Yehoshua/Yeshua). In the genealogy context (ancestor, not Jesus of Nazareth), this refers to a person whose name in Hebrew was Yeshua/Joshua. Per BSB precedent and Thai OT conventions: render as โยชูวา (Joshua) NOT พระเยซู (Jesus) — same Greek word, different referent. Critical disambiguation"},
+        {"greek": "τοῦ Ἐλιέζερ τοῦ Ἰωρὶμ τοῦ Μαθθὰτ τοῦ Λευὶ", "thai": "บุตรของเอลีเอเซอร์ บุตรของโยริม บุตรของมัทธัท บุตรของเลวี", "rationale": "TWO HAPAX: Ἐλιέζερ, Ἰωρίμ (though Ἐλιέζερ shares spelling with OT Eliezer, Abraham's servant Gen 15:2). Ἐλιέζερ → เอลีเอเซอร์ (standard Thai OT spelling). Ἰωρίμ → โยริม. Μαθθάτ (2nd occurrence, cf. v.24) → มัทธัท consistent. Λευί (2nd occurrence, cf. v.24) → เลวี consistent"}
+      ],
+      "notes": "CRITICAL translator decision: τοῦ Ἰησοῦ here = 'of Joshua' NOT 'of Jesus.' The Greek Ἰησοῦς can render either name depending on referent. BSB and standard practice: 'Joshua' for OT ancestor, 'Jesus' for Jesus of Nazareth. Thai: โยชูวา for ancestor, พระเยซู for Jesus. Two hapax: Ἐλιέζερ (different from OT Eliezer), Ἰωρίμ. Notice the pattern reversal: Μαθθάτ and Λευί reappear here, probably reflecting a Jewish custom of naming sons after grandfathers."
+    }
+  },
+  {
+    "reference": "Luke 3:30",
+    "chapter": 3,
+    "verse": 30,
+    "greek": "τοῦ Συμεὼν τοῦ Ἰούδα τοῦ Ἰωσὴφ τοῦ Ἰωνὰμ τοῦ Ἐλιακὶμ",
+    "bsb_english": "the son of Simeon, the son of Judah, the son of Joseph, the son of Jonam, the son of Eliakim,",
+    "translation": {
+      "thai": "บุตรของสิเมโอน บุตรของยูดาห์ บุตรของโยเซฟ บุตรของโยนัม บุตรของเอลียาคิม",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "τοῦ Συμεὼν τοῦ Ἰούδα τοῦ Ἰωσὴφ τοῦ Ἰωνὰμ τοῦ Ἐλιακὶμ", "thai": "บุตรของสิเมโอน บุตรของยูดาห์ บุตรของโยเซฟ บุตรของโยนัม บุตรของเอลียาคิม", "rationale": "HAPAX: Ἰωνάμ. Συμεών → สิเมโอน (standard Thai OT form of Simeon, cf. Gen 29:33, also LUK 2:25 Simeon in temple). Ἰούδα → ยูดาห์ (standard, same as tribal name Judah). Ἰωσήφ → โยเซฟ (consistent). Ἰωνάμ → โยนัม. Ἐλιακίμ → เอลียาคิม (standard Thai OT for Eliakim, cf. 2 Kgs 18:18)"}
+      ],
+      "notes": "One hapax: Ἰωνάμ. Other names reuse OT-familiar spellings (Simeon, Judah, Joseph, Eliakim) but these are different individuals post-exilic or intertestamental."
+    }
+  },
+  {
+    "reference": "Luke 3:31",
+    "chapter": 3,
+    "verse": 31,
+    "greek": "τοῦ Μελεὰ τοῦ Μεννὰ τοῦ Ματταθὰ τοῦ Ναθὰμ τοῦ Δαυὶδ",
+    "bsb_english": "the son of Melea, the son of Menna, the son of Mattatha, the son of Nathan, the son of David,",
+    "translation": {
+      "thai": "บุตรของเมลเลอา บุตรของเมนนา บุตรของมัทธาทา บุตรของนาธัน บุตรของดาวิด",
+      "thai_literal": null,
+      "thai_summary": "ข้อนี้สำคัญมาก — ลูกาติดตามเชื้อสายของพระเยซูผ่านนาธัน บุตรของดาวิด (2 ซามูเอล 5:14) ในขณะที่มัทธิวติดตามผ่านโซโลมอน (มัทธิว 1:6-7) การที่ลูกาเลือกสายนาธัน (ไม่ใช่สายกษัตริย์ผ่านโซโลมอน) อาจเป็นการรักษาเชื้อสายกษัตริย์ของพระเยซูโดยหลีกเลี่ยงคำแช่งของเยโคนิยาห์ (เยเรมีย์ 22:30 «ไม่มีลูกหลานคนใดจะได้นั่งบนบัลลังก์ของดาวิด») — เพราะผ่านสายนี้พระเยซูสืบเชื้อสายดาวิดโดยทางชีววิทยา (ผ่านมารีย์) แต่ผ่านสายของโซโลมอน พระองค์ได้รับสิทธิ์ครองบัลลังก์โดยทางกฎหมาย (ผ่านโยเซฟผู้เป็นบุตรบุญธรรม)",
+      "key_decisions": [
+        {"greek": "τοῦ Μελεὰ τοῦ Μεννὰ τοῦ Ματταθὰ τοῦ Ναθὰμ τοῦ Δαυὶδ", "thai": "บุตรของเมลเลอา บุตรของเมนนา บุตรของมัทธาทา บุตรของนาธัน บุตรของดาวิด", "rationale": "FOUR HAPAX IN LUKE: Μελεά, Μεννά, Ματταθά, Ναθάμ. Μελεά → เมลเลอา. Μεννά → เมนนา. Ματταθά → มัทธาทา. Ναθάμ → นาธัน (Nathan, son of David — per 2 Sam 5:14; 1 Chr 3:5 — different spelling convention in Thai for this Nathan; note: the prophet Nathan 2 Sam 7 is also นาธัน). Δαυίδ → ดาวิด (glossary-established). Critical genealogical pivot: this is where Luke and Matthew diverge — Matthew goes through Solomon (MAT 1:6-7), Luke goes through Nathan (David's other son, full brother to Solomon per 2 Sam 5:14)"}
+      ],
+      "notes": "CRITICAL genealogical pivot: Luke's genealogy runs through Nathan-son-of-David (per 2 Sam 5:14) rather than Matthew's Solomon-son-of-David. Evangelical harmonization: one common explanation is that Luke traces Mary's biological descent (through Nathan, avoiding the Jeconiah curse of Jer 22:30 'no descendant of Jeconiah will ever sit on David's throne'), while Matthew traces Joseph's legal-royal descent (through Solomon, giving Jesus adoptive legal rights to the throne). This dual descent preserves both biological Davidic-descent AND legal throne-right without violating Jer 22:30. Nathan is attested per 1 Chr 3:5. FOUR HAPAX: Μελεά, Μεννά, Ματταθά, Ναθάμ. ADDED TO NT_OT_CITATIONS: LUK 3:31 direct_citation of 2 SAM 5:14 (David's sons list, Nathan named) + 1 CHR 3:5 (same); thematic_allusion to JER 22:30 (Jeconiah curse, which Luke's through-Nathan genealogy bypasses)."
+    }
+  },
+  {
+    "reference": "Luke 3:32",
+    "chapter": 3,
+    "verse": 32,
+    "greek": "τοῦ Ἰεσσαὶ τοῦ Ἰωβὴλ τοῦ Βόος τοῦ Σαλὰ τοῦ Ναασσὼν",
+    "bsb_english": "the son of Jesse, the son of Obed, the son of Boaz, the son of Sala, the son of Nahshon,",
+    "translation": {
+      "thai": "บุตรของเจสซี บุตรของโอเบด บุตรของโบอัส บุตรของสัลโม บุตรของนาโชน",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "τοῦ Ἰεσσαὶ τοῦ Ἰωβὴλ τοῦ Βόος τοῦ Σαλὰ τοῦ Ναασσὼν", "thai": "บุตรของเจสซี บุตรของโอเบด บุตรของโบอัส บุตรของสัลโม บุตรของนาโชน", "rationale": "TWO HAPAX IN LUKE: Ἰωβήλ, Βόος (though both occur as OT-known names in LXX). Ἰεσσαί → เจสซี (Thai Christian standard, Jesse the father of David per Ruth 4:17; 1 Sam 16:1). Ἰωβήλ → โอเบด (BSB: 'Obed,' consistent with Ruth 4:17, Hebrew עוֹבֵד ovēd. Luke's Greek 'Iōbēl' is an orthographic variant; Thai uses the standard OT spelling โอเบด). Βόος → โบอัส (Boaz, Ruth 2:1 kinsman-redeemer). Σαλά → สัลโม (Salmon, per Ruth 4:20-21; 1 Chr 2:11 — Greek orthographic variant Σαλά vs. Ruth 4:20's Σαλμών). Ναασσών → นาโชน (Nahshon, per Num 1:7; Ruth 4:20)"}
+      ],
+      "notes": "Five OT-known names from the book of Ruth's genealogy (Ruth 4:18-22). Direct correspondence to LXX-OT + 1 Chr 2:10-12 genealogy of David. Ἰωβήλ is an orthographic variant for Obed. Σαλά is short for Σαλμών (Salmon, Boaz's father). Nahshon was a tribal leader at the Exodus (Num 1:7). Luke here rejoins Matthew's genealogy which runs through the same sequence from David back — they match from David to Abraham. ADDED TO NT_OT_CITATIONS: LUK 3:32 direct_citation of RUT 4:18-22 (Perez-to-David genealogy; source of this sequence); 1CH 2:10-15 (parallel Davidic descent list)."
+    }
+  },
+  {
+    "reference": "Luke 3:33",
+    "chapter": 3,
+    "verse": 33,
+    "greek": "τοῦ Ἀμιναδὰβ τοῦ Ἀδμὶν τοῦ Ἀρνὶ τοῦ Ἑσρὼμ τοῦ Φαρὲς τοῦ Ἰούδα",
+    "bsb_english": "the son of Amminadab, the son of Admin, the son of Arni, the son of Hezron, the son of Perez, the son of Judah,",
+    "translation": {
+      "thai": "บุตรของอัมมีนาดับ บุตรของอัดมิน บุตรของอาร์นี บุตรของเฮสโรน บุตรของเปเรศ บุตรของยูดาห์",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "τοῦ Ἀμιναδὰβ τοῦ Ἀδμὶν τοῦ Ἀρνὶ τοῦ Ἑσρὼμ τοῦ Φαρὲς τοῦ Ἰούδα", "thai": "บุตรของอัมมีนาดับ บุตรของอัดมิน บุตรของอาร์นี บุตรของเฮสโรน บุตรของเปเรศ บุตรของยูดาห์", "rationale": "TWO HAPAX IN LUKE: Ἀδμίν, Ἀρνί (these two names are text-critical — SBLGNT/NA28 read Admin+Arni, while some manuscripts read 'Aram' matching MAT 1:3-4 and Ruth 4:19). Ἀμιναδάβ → อัมมีนาดับ (Amminadab, standard Thai OT). Ἀδμίν → อัดมิน. Ἀρνί → อาร์นี. Ἑσρώμ → เฮสโรน (Hezron, Num 26:21, standard Thai OT). Φαρές → เปเรศ (Perez, Gen 38:29 son of Judah-and-Tamar, Thai Christian standard). Ἰούδα (2nd occurrence, different referent — here = the patriarch Judah son of Jacob) → ยูดาห์"}
+      ],
+      "notes": "TEXTUAL VARIANT (minor): SBLGNT/NA28 reads Ἀδμίν + Ἀρνί (two names); some later manuscripts collapse to Ἀράμ (= Aram, matching MAT 1:3-4 + Ruth 4:19 LXX). Following SBLGNT per RULES §2. This means Luke's genealogy has one extra generation vs. Matthew at this point. MAT 1:3 has Perez → Hezron → Aram → Amminadab, while LUK 3:33 has Perez → Hezron → Arni → Admin → Amminadab. The two-names reading (followed by BSB, NIV, ESV, CSB) is best attested. TWO HAPAX: Ἀδμίν, Ἀρνί. ADDED TO NT_OT_CITATIONS: LUK 3:33 direct_citation of RUT 4:18-19 + GEN 38:29 (Perez-Hezron + Judah-Perez lineage)."
+    }
+  },
+  {
+    "reference": "Luke 3:34",
+    "chapter": 3,
+    "verse": 34,
+    "greek": "τοῦ Ἰακὼβ τοῦ Ἰσαὰκ τοῦ Ἀβραὰμ τοῦ Θάρα τοῦ Ναχὼρ",
+    "bsb_english": "the son of Jacob, the son of Isaac, the son of Abraham, the son of Terah, the son of Nahor,",
+    "translation": {
+      "thai": "บุตรของยาโคบ บุตรของอิสอัค บุตรของอับราฮัม บุตรของเทราห์ บุตรของนาโฮร์",
+      "thai_literal": null,
+      "thai_summary": "สามชื่อแรก (ยาโคบ อิสอัค อับราฮัม) คือปิตาจารย์ทั้งสามของชาติอิสราเอล ซึ่งเป็นจุดที่มัทธิวเริ่มต้นลำดับวงศ์ (มัทธิว 1:1-2 «ลำดับพงศ์พันธุ์ของพระเยซูคริสต์ บุตรของดาวิด บุตรของอับราฮัม») แต่ลูกาไม่หยุดที่อับราฮัม — ท่านย้อนกลับไปอีกจนถึงอาดัม «บุตรของพระเจ้า» (ข้อ 38) เพื่อแสดงว่าพระเยซูเป็นพระผู้ช่วยให้รอดของทุกชาติ ไม่ใช่เฉพาะของชาวยิวเท่านั้น",
+      "key_decisions": [
+        {"greek": "τοῦ Ἰακὼβ τοῦ Ἰσαὰκ τοῦ Ἀβραὰμ τοῦ Θάρα τοῦ Ναχὼρ", "thai": "บุตรของยาโคบ บุตรของอิสอัค บุตรของอับราฮัม บุตรของเทราห์ บุตรของนาโฮร์", "rationale": "TWO HAPAX IN LUKE: Θάρα, Ναχώρ (though both OT-known). Ἰακώβ → ยาโคบ (Jacob, patriarch, standard Thai OT). Ἰσαάκ → อิสอัค (Isaac, standard Thai OT). Ἀβραάμ → อับราฮัม (glossary-established). Θάρα → เทราห์ (Terah, Abraham's father per Gen 11:26, standard Thai OT). Ναχώρ → นาโฮร์ (Nahor, Terah's father per Gen 11:24, standard Thai OT)"}
+      ],
+      "notes": "The three patriarchs of Israel appear in this verse — Matthew's genealogy begins with Abraham (MAT 1:2), but Luke continues past Abraham back to Adam. ADDED TO NT_OT_CITATIONS: LUK 3:34 direct_citation of GEN 11:24-26 (Nahor-Terah-Abraham line); thematic_allusion to GEN 12:3 (universal blessing through Abraham — fulfilled in Jesus-as-son-of-Adam-of-all-humanity per v.38)."
+    }
+  },
+  {
+    "reference": "Luke 3:35",
+    "chapter": 3,
+    "verse": 35,
+    "greek": "τοῦ Σεροὺχ τοῦ Ῥαγαὺ τοῦ Φάλεκ τοῦ Ἔβερ τοῦ Σαλὰ",
+    "bsb_english": "the son of Serug, the son of Reu, the son of Peleg, the son of Eber, the son of Shelah,",
+    "translation": {
+      "thai": "บุตรของเสรุก บุตรของเรอู บุตรของเปเลก บุตรของเอเบอร์ บุตรของเชลา",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "τοῦ Σεροὺχ τοῦ Ῥαγαὺ τοῦ Φάλεκ τοῦ Ἔβερ τοῦ Σαλὰ", "thai": "บุตรของเสรุก บุตรของเรอู บุตรของเปเลก บุตรของเอเบอร์ บุตรของเชลา", "rationale": "FOUR HAPAX IN LUKE: Σερούχ, Ῥαγαύ, Φάλεκ, Ἔβερ (though all OT-known). Σερούχ → เสรุก (Serug, Gen 11:20, standard Thai OT). Ῥαγαύ → เรอู (Reu, Gen 11:18, standard Thai OT). Φάλεκ → เปเลก (Peleg, Gen 11:16, standard Thai OT — note name means 'division,' as 'in his days the earth was divided' Gen 10:25). Ἔβερ → เอเบอร์ (Eber, Gen 10:24, eponymous ancestor of 'Hebrews'). Σαλά (2nd occurrence — here = Shelah son of Arphaxad, Gen 10:24, different from v.32's Salmon) → เชลา (Thai Christian standard for Shelah)"}
+      ],
+      "notes": "Five pre-Abrahamic patriarchs from Gen 11:10-26. Note Σαλά here = Shelah (Gen 10:24, Arphaxad's son) — distinct individual from Σαλά in v.32 (Salmon, Boaz's father). Thai uses different spellings: เชลา (Shelah) here vs. สัลโม (Salmon) in v.32. Φάλεκ (Peleg) means 'division' — per Gen 10:25, 'in his days the earth was divided,' possibly referencing Tower-of-Babel scattering. ADDED TO NT_OT_CITATIONS: LUK 3:35 direct_citation of GEN 11:10-26 (post-flood Semitic genealogy)."
+    }
+  },
+  {
+    "reference": "Luke 3:36",
+    "chapter": 3,
+    "verse": 36,
+    "greek": "τοῦ Καϊνὰμ τοῦ Ἀρφαξὰδ τοῦ Σὴμ τοῦ Νῶε τοῦ Λάμεχ",
+    "bsb_english": "the son of Cainan, the son of Arphaxad, the son of Shem, the son of Noah, the son of Lamech,",
+    "translation": {
+      "thai": "บุตรของไคนาน บุตรของอารฟาซาด บุตรของเชม บุตรของโนอาห์ บุตรของลาเมค",
+      "thai_literal": null,
+      "thai_summary": "ข้อ 36-38 ย้อนไปจนถึงกำเนิดของมนุษยชาติ — โนอาห์ (ผู้รอดจากน้ำท่วมโลก) เสท (บุตรที่พระเจ้าประทานแก่อาดัมแทนอาเบล) อาดัม (มนุษย์คนแรก) และในที่สุด «พระเจ้า» เป็นจุดสิ้นสุด (หรือจุดเริ่มต้น!) ของลำดับวงศ์ ลูกาแสดงว่าพระเยซูทรงเป็นพระผู้ช่วยให้รอดของมนุษย์ทุกคน ไม่ใช่เฉพาะลูกหลานอับราฮัม เพราะพระองค์สืบเชื้อสายถึงอาดัม «บุตรของพระเจ้า»",
+      "key_decisions": [
+        {"greek": "τοῦ Καϊνὰμ τοῦ Ἀρφαξὰδ τοῦ Σὴμ τοῦ Νῶε τοῦ Λάμεχ", "thai": "บุตรของไคนาน บุตรของอารฟาซาด บุตรของเชม บุตรของโนอาห์ บุตรของลาเมค", "rationale": "THREE HAPAX IN LUKE: Ἀρφαξάδ, Σήμ, Λάμεχ (though all OT-known). Καϊνάμ → ไคนาน (Cainan, per LXX Gen 10:24; 11:12 — Cainan between Arphaxad and Shelah, present in LXX but NOT in Masoretic Hebrew Gen 11:12. Luke follows LXX). Ἀρφαξάδ → อารฟาซาด (Arphaxad, Gen 10:22, 11:10, standard Thai OT). Σήμ → เชม (Shem, Noah's son, Gen 10:21, standard Thai OT). Νῶε → โนอาห์ (Noah, glossary-established MAT 24:37). Λάμεχ → ลาเมค (Lamech, Noah's father, Gen 5:28-29, standard Thai OT). Per uW translate-names LUK 3:36: 'The man whom Luke calls Arphaxad here, spelling his name the way it sounds in Greek, is the same man whose Hebrew name is Arpachshad' — note acknowledged in Thai spelling consistency"}
+      ],
+      "notes": "LXX-vs-MT textual divergence: Καϊνάμ (Cainan) appears in Luke's genealogy as Arphaxad's son and Shelah's father — this matches LXX-Genesis 11:12 (καὶ ἔζησεν Αρφαξαδ ἑκατὸν τριάκοντα πέντε ἔτη καὶ ἐγέννησεν τὸν Καϊναν) but is ABSENT from the Masoretic Hebrew text of Gen 11:12 (MT: Arphaxad → Shelah directly). Luke quotes from LXX here, which preserves a name MT does not. Evangelical scholarship discusses: (a) LXX preserves an original reading that MT later dropped; (b) LXX inserted Cainan by transposition from 10:22 where another Cainan appears; (c) Luke (or his source) is using an intertestamental Jewish genealogical tradition. No harmonization crisis — this is a textual/transmission variant, and Luke's use of LXX as source is well-established throughout his gospel. THREE HAPAX IN LUKE: Ἀρφαξάδ, Σήμ, Λάμεχ. ADDED TO NT_OT_CITATIONS: LUK 3:36 direct_citation of GEN-LXX 11:10-13 (with Cainan-variant) + GEN 5:28-29 (Lamech-Noah)."
+    }
+  },
+  {
+    "reference": "Luke 3:37",
+    "chapter": 3,
+    "verse": 37,
+    "greek": "τοῦ Μαθουσαλὰ τοῦ Ἑνὼχ τοῦ Ἰάρετ τοῦ Μαλελεὴλ τοῦ Καϊνὰμ",
+    "bsb_english": "the son of Methuselah, the son of Enoch, the son of Jared, the son of Mahalalel, the son of Cainan,",
+    "translation": {
+      "thai": "บุตรของเมธูเซลาห์ บุตรของเอโนค บุตรของยาเรด บุตรของมาหะลาเลเอล บุตรของไคนาน",
+      "thai_literal": null,
+      "thai_summary": "เอโนคเป็นที่รู้จักในฐานะผู้ที่ «ดำเนินกับพระเจ้า และพระเจ้ารับเขาไป» (ปฐมกาล 5:24) — ในประเพณีของชาวยิวโบราณ ท่านถือเป็นหนึ่งในสองคนที่ถูกรับขึ้นไปสวรรค์โดยไม่ต้องตาย (อีกคนคือเอลียาห์) เมธูเซลาห์บุตรของเอโนคเป็นผู้มีอายุยืนที่สุดในพระคัมภีร์ (969 ปี ปฐมกาล 5:27)",
+      "key_decisions": [
+        {"greek": "τοῦ Μαθουσαλὰ τοῦ Ἑνὼχ τοῦ Ἰάρετ τοῦ Μαλελεὴλ τοῦ Καϊνὰμ", "thai": "บุตรของเมธูเซลาห์ บุตรของเอโนค บุตรของยาเรด บุตรของมาหะลาเลเอล บุตรของไคนาน", "rationale": "THREE HAPAX IN LUKE: Μαθουσαλά, Ἰάρετ, Μαλελεήλ (all OT-known). Ἑνώχ (appears also HEB 11:5, JUD 14) → เอโนค (standard Thai OT, Gen 5:18-24). Μαθουσαλά → เมธูเซลาห์ (Methuselah, Gen 5:25-27, standard Thai OT). Ἰάρετ → ยาเรด (Jared, Gen 5:15-20, standard Thai OT). Μαλελεήλ → มาหะลาเลเอล (Mahalalel, Gen 5:12-17, standard Thai OT). Καϊνάμ (2nd occurrence, different person from v.36) → ไคนาน (Cainan son of Enosh per Gen 5:9-14, different from the Cainan son of Arphaxad in v.36)"}
+      ],
+      "notes": "Five pre-flood patriarchs from Gen 5. Enoch (Ἑνώχ) is theologically significant — per Gen 5:24 'walked with God and was not, for God took him'; referenced in Heb 11:5 (faith that pleased God) and Jude 14 (prophet of judgment). Methuselah lived 969 years (Gen 5:27). Καϊνάμ here = Cainan son of Enosh (Gen 5:9-14), a different Cainan from v.36's Cainan son of Arphaxad — this repetition/duplication is part of the reason some scholars debate LXX's v.36 Cainan as possible textual doubling. ADDED TO NT_OT_CITATIONS: LUK 3:37 direct_citation of GEN 5:9-27 (pre-flood genealogy from Cainan to Methuselah)."
+    }
+  },
+  {
+    "reference": "Luke 3:38",
+    "chapter": 3,
+    "verse": 38,
+    "greek": "τοῦ Ἐνὼς τοῦ Σὴθ τοῦ Ἀδὰμ τοῦ θεοῦ.",
+    "bsb_english": "the son of Enosh, the son of Seth, the son of Adam, the son of God.",
+    "translation": {
+      "thai": "บุตรของเอโนช บุตรของเสท บุตรของอาดัม ผู้เป็นบุตรของพระเจ้า",
+      "thai_literal": null,
+      "thai_summary": "จุดจบของลำดับวงศ์ที่น่าตกตะลึง — ลูการะบุว่าอาดัมเป็น «บุตรของพระเจ้า» การที่พระเยซูสืบเชื้อสายผ่านอาดัมถึงพระเจ้ามีความหมายลึกซึ้งทางเทววิทยา: (1) พระเยซูทรงเป็นพระผู้ช่วยให้รอดของมนุษย์ทุกคน ไม่ใช่เฉพาะลูกหลานอับราฮัม (เทียบ ข้อ 6 «มนุษย์ทุกคนจะเห็นความรอดของพระเจ้า»); (2) พระเยซูทรงเป็น «อาดัมใหม่» ที่จะนำมนุษย์กลับคืนสู่ความสัมพันธ์กับพระเจ้า (เทียบ โรม 5:12-19; 1 โครินธ์ 15:22, 45); (3) การประกาศของพระบิดาในข้อ 22 ว่า «เจ้าคือบุตรของเรา» ได้รับการยืนยันด้วยการย้อนลำดับวงศ์ถึงพระเจ้าเอง ลูกาปิดท้ายลำดับวงศ์ด้วยการเน้นธรรมชาติแห่งสากลของข่าวประเสริฐ",
+      "key_decisions": [
+        {"greek": "τοῦ Ἐνὼς τοῦ Σὴθ τοῦ Ἀδὰμ", "thai": "บุตรของเอโนช บุตรของเสท บุตรของอาดัม", "rationale": "TWO HAPAX IN LUKE: Ἐνώς, Σήθ (both OT-known). Ἐνώς → เอโนช (Enosh, Gen 5:6-11, standard Thai OT — name means 'mortal man,' linked to the beginning of worship of YHWH per Gen 4:26). Σήθ → เสท (Seth, Gen 4:25, 5:3-8, standard Thai OT). Ἀδάμ → อาดัม (Adam, first man, glossary-established ROM 5:14)"},
+        {"greek": "τοῦ θεοῦ", "thai": "ผู้เป็นบุตรของพระเจ้า", "rationale": "CRITICAL terminating phrase: the genealogy's 'son-of-X' pattern finally reaches τοῦ θεοῦ 'of God.' This applies to Adam (Adam as son of God by creation, per Gen 1:27 'image of God'). Per uW alt translation: 'son of Adam, whom God created' OR 'son of Adam, who was in a sense the son of God.' Preserving the literal genealogical form: Thai 'ผู้เป็นบุตรของพระเจ้า' (who-was-son-of-God) with 'ผู้เป็น' clarifying Adam-as-referent not Jesus. This ties back inclusively to v.22 where God declares Jesus 'my Son' — Luke's genealogy frames Jesus's divine sonship against Adam's creation sonship"}
+      ],
+      "notes": "CULMINATION OF THE GENEALOGY. Luke closes with τοῦ θεοῦ 'of God' — declaring Adam as God's son by creation (Gen 1:27, 2:7 imago Dei), and thus Jesus (as descendant) connected to God through the entire human family. Theological weight: (1) universal scope of Jesus's salvation (not Jewish-exclusive); (2) Adam-Christ typology (Rom 5:12-21; 1 Cor 15:22, 45 'last Adam'); (3) inclusio with v.22 voice 'you are my beloved Son' — the divine-Sonship declared there is deeper than the creation-sonship of Adam. Luke's genealogy is the ONLY NT genealogy reaching back to Adam; Matthew stops at Abraham (particular-Jewish horizon), Luke reaches the whole human family (universal horizon). TWO HAPAX IN LUKE: Ἐνώς, Σήθ. Closes the chapter. ADDED TO NT_OT_CITATIONS: LUK 3:38 direct_citation of GEN 4:25-5:6 (Adam-Seth-Enosh) + GEN 1:26-27 (Adam as imago Dei, son of God by creation); thematic_allusion to ROM 5:14 (Adam-Christ typology, completed-in-NT-theology)."
+    }
+  }
+]
