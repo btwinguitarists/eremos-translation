@@ -1,0 +1,55 @@
+{
+  "book": "luke",
+  "chapter": 8,
+  "checks": [
+    {
+      "name": "Key-term consistency",
+      "exit_code": 0,
+      "report": "key_term_consistency_luke_08.md",
+      "notes": "",
+      "status": "clean"
+    },
+    {
+      "name": "TNBT structural comparison",
+      "exit_code": 0,
+      "report": "tnbt_comparison_luke_08.md",
+      "notes": "",
+      "status": "clean"
+    },
+    {
+      "name": "OT citation acknowledgment",
+      "exit_code": 0,
+      "report": "ot_citations_luke_08.md",
+      "notes": "",
+      "status": "clean"
+    },
+    {
+      "name": "Synoptic parallels",
+      "exit_code": 0,
+      "report": "parallel_passages.md",
+      "notes": "",
+      "status": "clean"
+    },
+    {
+      "name": "Back-translation",
+      "exit_code": 0,
+      "report": "back_translation_luke_08.md",
+      "notes": "",
+      "status": "clean"
+    },
+    {
+      "name": "Thai-summary coverage (info)",
+      "exit_code": 0,
+      "report": "summary_coverage_luke_08.md",
+      "notes": "informational only — not a ship gate",
+      "status": "clean"
+    },
+    {
+      "name": "Claim consistency (hallucination)",
+      "exit_code": 0,
+      "report": "claim_consistency_luke_08.md",
+      "notes": "",
+      "status": "clean"
+    }
+  ]
+}
