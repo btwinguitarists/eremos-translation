@@ -2,11 +2,11 @@
 
 Mode: in-chat (Claude-produced back-translations) | Threshold: 0.35
 
-- Verses checked: 39
+- Verses checked: 38
 - Missing back-translations: **0**
 - Flagged (low similarity AND no rationale): **0**
 - Low similarity but with rationale: 1
-- Acceptable similarity: 38
+- Acceptable similarity: 37
 
 ## ℹ Low similarity — rationale documented (intentional divergence)
 
@@ -17,4 +17,4 @@ Mode: in-chat (Claude-produced back-translations) | Threshold: 0.35
 
 ## Acceptable
 
-38 verses passed the similarity threshold without issue.
+37 verses passed the similarity threshold without issue.

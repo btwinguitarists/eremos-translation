@@ -125,23 +125,60 @@ Every verse translation must include explicit entries for:
 - **Gendered/socially-contested language** — flag interpretive decisions where scholarly opinion is split (e.g., γυναῖκας in 1 Tim 3:11)
 - **Technical or cultural terms** that don't have direct Thai equivalents
 
-### Bracket convention for inclusion variants (added 2026-04-18)
+### Inclusion-variant convention (revised 2026-04-20 — Path A lock)
 
-When SBLGNT's apparatus flags an **inclusion variant** — words SBLGNT's main text omits but mainstream traditions (NA28, BSB, NIV, ESV, THSV) include — render the words in **single Thai brackets `[...]`** in the `thai` field, and explain the convention in the verse's `thai_summary`.
+When SBLGNT's apparatus flags an **inclusion variant** — text SBLGNT's main text omits but other manuscript traditions (TR/Byz, NA28-margin, KJV/THKJV, sometimes THSV) include — three tiers apply, matching what BSB / ESV / NIV / CSB do for the critical-text English market.
 
-Reader-trust rationale: if Thai readers expect the words from THSV / NTV / their childhood Bible and we silently omit, they read the omission as our editorial overreach. Brackets honestly signal "these words appear in many manuscripts and translations; our base text doesn't print them in the main line." This is the NA28 / NRSV-Updated / NET convention.
+**Reader-trust rationale:** if Thai readers expect text from THSV / THKJV / their childhood Bible and we silently omit, they read the omission as our editorial overreach. Each tier surfaces the contested text honestly, in the form most appropriate to its scale and manuscript weight.
 
-**Scope:**
-- Applies only to inclusion variants (we omit, mainstream includes), not to word-choice variants (we picked word A, mainstream picked word B — those go in `thai_summary` only).
-- Not for cases where modern critical-text consensus matches our practice (e.g. Mark 7:16, 9:44, 9:46, 9:49 longer reading — modern evangelical Bibles all skip these too; no reader confusion).
-- Not for the longer ending of Mark 16:9-20, which uses ⟦double-brackets⟧ as a larger-block stylistic distinction.
+#### Tier 1 — Short-phrase inclusion variants → single Thai brackets `[...]`
 
-**Currently bracketed (Mark first-pass audit, 2026-04-18):**
+For inline phrase-level variants where the verse itself exists in all traditions but a short phrase is contested. Render the phrase in single Thai brackets in the `thai` field, with the rationale in the verse's `thai_summary` and `key_decisions`.
+
+Currently bracketed:
 - Mark 1:1 — `[พระบุตรของพระเจ้า]`
 - Mark 3:14 — `[ซึ่งพระองค์ทรงเรียกว่าอัครทูตด้วย]`
 - Mark 9:29 — `[และการอดอาหาร]`
 
-**For future books:** run `scripts/audit_inclusion_variants.py` on each new book to surface candidate verses; apply brackets only after confirming each one is an inclusion variant (not word-choice) and that mainstream traditions do include the words.
+#### Tier 2 — Whole-verse inclusion variants → chapter footer note
+
+For whole-verse variants where SBLGNT/NA28 omits the verse entirely but TR/Byz includes it. The verse number does not appear in the main verse-by-verse flow. A chapter-footer note (`### หมายเหตุด้านต้นฉบับ`) renders:
+- The Thai equivalent of the TR/Byz reading
+- Manuscript witnesses (include + omit lists)
+- A short Thai explanation of the omission
+
+Source of truth: `output/textual_variants/<slug>_NN.json` per chapter (one entry per absent verse). The renderer (`scripts/render_reader.py`) loads these alongside the per-chapter translation JSON and renders the footer.
+
+This matches mainstream critical-text English-Bible practice (BSB, ESV, NIV, CSB all footnote whole-verse variants like Matt 17:21, 18:11, 23:14 rather than printing them in main text).
+
+Currently footer-noted:
+- Matt 17:21
+- Matt 18:11
+- Matt 23:14 (migrated from Tier 1 short-phrase bracket-include treatment, 2026-04-20)
+
+Future verses likely in this tier: Acts 8:37, Acts 15:34, Acts 24:6b–8a, Acts 28:29, Romans 16:24, **1 John 5:7b–8a (the Johannine Comma)**.
+
+#### Tier 3 — Large-block transmissions → ⟦double brackets⟧
+
+For substantial-length transmitted-but-textually-doubtful blocks where the content is too large to relegate to a footer note and where exclusion would surprise readers more than inclusion. Render in main text with `⟦...⟧` double brackets, with an extended note explaining the textual situation.
+
+Currently:
+- Mark 16:9–20 (longer ending)
+- John 7:53–8:11 (pericope adulterae) — when reached
+
+#### Decision matrix
+
+| Variant type | Treatment | Examples |
+|---|---|---|
+| Phrase within an existing verse | Single brackets `[...]` in main text | Mark 1:1, 3:14, 9:29 |
+| Whole verse SBLGNT omits | Chapter footer note (no verse number in main flow) | Matt 17:21, 18:11, 23:14; Acts 8:37; Comma |
+| Large multi-verse block | Double brackets `⟦...⟧` in main text + extended note | Mark 16:9–20, John 7:53–8:11 |
+
+**Not in scope** (handled elsewhere):
+- Word-choice variants (we picked word A, mainstream picked word B) — go in `thai_summary` only.
+- Variants where modern critical-text consensus matches our practice (e.g., Mark 7:16, 9:44, 9:46) — silent omission with no surprise to mainstream readers; no special treatment needed.
+
+**For future books:** run `scripts/audit_inclusion_variants.py` to surface candidate verses; assign each to the correct tier based on (a) phrase vs. whole-verse vs. large-block, (b) manuscript weight, (c) what THSV/THKJV/mainstream Thai Bibles do.
 
 ---
 

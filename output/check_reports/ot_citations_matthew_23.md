@@ -1,6 +1,6 @@
 # OT citation check — matthew ch. 23
 
-NT-to-OT links found: **8** / 39 verses
+NT-to-OT links found: **8** / 38 verses
 
 ## ✅ Acknowledged in verse notes: 8
 

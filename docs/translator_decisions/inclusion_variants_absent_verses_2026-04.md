@@ -1,128 +1,114 @@
-# Inclusion variants — silent omission vs. bracketed inclusion
+# Inclusion variants — three-tier policy (LOCKED)
 
-**Status:** **POLICY-PENDING.** This doc records the inconsistency surfaced in the Matthew end-of-book review (`docs/MAT_END_OF_BOOK_REVIEW_2026-04-19.md` §14) and presents the options. The actual policy choice is Ben's call before `book-matthew-v1` is tagged.
+**Status:** **LOCKED 2026-04-20** as **Path A** after end-of-book editorial review of Matthew + external AI sanity-checks (Gemini, Claude, Grok). Implements the convention canonized in `RULES.md §5`.
 
-**Scope:** Whole-verse and large-fragment inclusion variants — readings where mainstream traditions (NA28, BSB, NIV, ESV, THSV) include text that SBLGNT/NA28 critical text omits. Distinct from word-choice variants and from short-phrase inclusion variants (which RULES.md §5 already handles via single-bracket convention `[...]`).
-
-**Decided:** Pending. Drafted 2026-04-20 during Matthew end-of-book review action items.
+**Scope:** Whole-verse and large-fragment inclusion variants — readings where mainstream traditions (TR, Byz, KJV, sometimes THSV) include text that SBLGNT/NA28/UBS5 critical text omits. Distinct from word-choice variants (handled in `thai_summary` only).
 
 ---
 
-## The inconsistency
+## The locked rule
 
-Matthew currently treats whole-verse inclusion variants two different ways:
+Inclusion variants are handled at three tiers, matching what BSB / ESV / NIV / CSB do for the critical-text English-Bible market:
 
-| Verse | Source | Mainstream | Our treatment | Reader sees |
-|-------|--------|------------|---------------|-------------|
-| 17:21 (καὶ νηστείᾳ — fasting saying) | SBLGNT omits | TR/Byz/KJV/NIV-margin include | **Verse absent** (no JSON entry) | Verse number 21 missing — silent jump 20 → 22 |
-| 18:11 (ἦλθεν γὰρ ὁ υἱὸς τοῦ ἀνθρώπου σῶσαι τὸ ἀπολωλός) | SBLGNT omits | TR/Byz/KJV-margin include | **Verse absent** | Verse number 11 missing — silent jump 10 → 12 |
-| 23:14 (woe re. widows' houses + long prayers) | SBLGNT omits | TR/Byz/KJV include; ordering varies | **Bracketed-included whole verse** | Reader sees the verse with brackets + variant note |
+| Tier | Variant type | Treatment | Source of truth |
+|------|--------------|-----------|-----------------|
+| **1** | Short phrase within an existing verse | Single brackets `[...]` in `thai` field; rationale in `thai_summary` + `key_decisions` | `output/translations/<slug>_NN.json` |
+| **2** | Whole verse SBLGNT omits | Verse number absent from main flow; chapter-footer note shows TR/Byz Thai + witnesses + explanation | `output/textual_variants/<slug>_NN.json` |
+| **3** | Large multi-verse block | `⟦double brackets⟧` in main text + extended verse note | `output/translations/<slug>_NN.json` (the verses themselves) |
 
-Plus partial cases:
-| 16:2b–3 (red-sky pericope) | SBLGNT includes (with apparatus) | NA28 includes (with apparatus) | **Included unmarked** | Reader sees plainly |
-| 21:44 (stone grinds saying) | SBLGNT includes | D, OL omit | **Included unmarked** | Reader sees plainly |
-| 23:14 | (above) | (above) | bracketed | (above) |
+**Reader-trust rationale carries through all three tiers:** Thai readers cross-checking with THSV/THKJV/their childhood Bible see *something* surfacing the omitted text — never a silent jump in verse numbers without explanation.
 
-## The principle from RULES.md §5
+---
 
-> When SBLGNT flags an inclusion variant where mainstream traditions include the words, render the words in single Thai brackets `[คำ]` in the `thai` field.
+## Why Path A (over Options B and C considered earlier)
 
-This was articulated for short-phrase inclusion variants (e.g., Mark 1:1 [พระบุตรของพระเจ้า], Mark 9:29 [และการอดอาหาร]). It was not explicitly extended to whole-verse cases. The Matthean practice has drifted three different directions for whole-verse inclusion-variant treatment.
+Three options were on the table after the end-of-book review surfaced the inconsistency at MAT 17:21 / 18:11 (silent-skip) vs. MAT 23:14 (Tier 1 single-bracket). Three external AI reviewers split:
 
-The §5 rationale is reader-trust: "silent omission reads as editorial overreach if the reader sees TR/KJV/THSV including the words." That argument applies *more* strongly to whole-verse omissions than to short phrases — a missing verse number is more visible than a missing phrase.
+- **Option B** (Grok): bracket-include all whole-verse variants in main text, including future Johannine Comma. **Rejected** because (a) commits us to printing the Comma in brackets in 1 John 5:7b–8a — a theological signal not supported by the project's text-critical position; (b) requires translating from a non-base-text manuscript tradition for low-attestation insertions; (c) flattens real text-critical differences between strong-MS-supported variants (23:14 Byz) and late-Byz/TR-only insertions (Comma).
 
-## Options
+- **Option C — tiered, my earlier draft** (Claude session A): bracket-include for strong-MS variants (23:14), footer-note for late-Byz/TR (17:21, 18:11), double-brackets for large blocks. **Rejected as overly complex** once the Grok-pulled BSB/ESV data showed mainstream critical-text translations don't actually make the Tier-1-strong-MS / Tier-2-late-Byz split — they uniformly footnote whole-verse variants regardless of MS weight.
 
-### Option A — Silent-skip everywhere (consistency-by-omission)
+- **Option A (chosen, here named "Path A")**: pure BSB/ESV/NIV/CSB pattern. Whole-verse variants → footer note, regardless of MS weight. Single-brackets reserved for inline phrase-level variants (where the verse exists). Double-brackets reserved for large-block transmissions. **Chosen** because:
+  1. Matches the dominant convention in modern critical-text translations (BSB, ESV, NIV, CSB, NRSV-Updated all do this).
+  2. THSV (Thai Standard Version) follows critical text — Thai readers cross-checking will recognize the convention.
+  3. One unified rule per tier — no per-verse adjudication of "is this Byz weight strong enough."
+  4. Doesn't pre-commit us to bracket-printing the Johannine Comma. The Comma will be Tier 2 (footer note), correctly signaling "scholarly consensus omits" without main-text appearance.
+  5. Methodologically clean: we never translate from a different manuscript tradition into our main verse-by-verse text. Footer-note Thai is provided as a reader aid, clearly demarcated as TR/Byz reading.
 
-Treat every inclusion variant uniformly: omit. Roll back 23:14 to verse-absent treatment. Apply consistently to 17:21, 18:11, future cases.
+---
 
-**Pros:**
-- Maximum textual fidelity to SBLGNT.
-- Consistent across the corpus.
-- Matches NA28 critical-text presentation for these specific verses.
+## Implementation (2026-04-20)
 
-**Cons:**
-- Reader sees verse numbers skip with no explanation.
-- THSV / KJV-using readers cross-checking will think the Thai is corrupt.
-- Contradicts the RULES.md §5 reader-trust rationale at the whole-verse scale.
+**JSON shape (Tier 2):**
 
-### Option B — Bracketed-include everywhere (consistency-by-inclusion) — **RECOMMENDED**
+`output/textual_variants/<slug>_NN.json` — list of inclusion-variant footer entries for that chapter:
 
-Apply 23:14's treatment to 17:21 and 18:11. Both verses appear in the JSON and Thai output, in single brackets, with notes explaining the inclusion-variant status.
+```json
+[
+  {
+    "verse": 21,
+    "type": "inclusion_variant_absent",
+    "tr_byz_greek": "<Greek text from TR/Byz>",
+    "tr_byz_thai": "<Thai rendering of the TR/Byz text — for footer display>",
+    "bsb_english_equivalent": "<short English gloss>",
+    "witnesses_include": "<MS list — e.g. TR, Byz, KJV, THKJV>",
+    "witnesses_omit": "<MS list — e.g. SBLGNT, NA28, ℵ, B; ESV, NIV, BSB, THSV>",
+    "explanation_thai": "<short Thai explanation of the textual situation>",
+    "cross_reference": "<parallel verse where same content is undisputed, if applicable>"
+  }
+]
+```
 
-**Pros:**
-- Consistent with RULES.md §5 reader-trust rationale.
-- Matches the pattern already established for short-phrase variants (Mark 1:1, Mark 9:29).
-- Reader sees the contested text + the editorial signal.
-- Preserves SBLGNT's textual judgment by bracketing rather than endorsing.
-- Sets a clean precedent for Acts 8:37, Acts 15:34, Romans 16:24, 1 John 5:7–8 (Johannine Comma) — major upcoming inclusion variants.
+**Renderer (`scripts/render_reader.py`):**
 
-**Cons:**
-- Adds verses our base text does not have. Could be read as "translating from TR through the back door."
-- Each bracketed verse needs new translation work + back-translation + checks.
-- Thai readers unfamiliar with the bracket convention may misread (mitigated by clear bracket-convention note in `docs/READER_NOTES.md` or in-app help).
+After rendering all main-flow verses for a chapter, if `output/textual_variants/<slug>_NN.json` exists, append a `### หมายเหตุด้านต้นฉบับ` section with one block per absent verse: verse number, the TR/Byz Thai rendering (in blockquote), the explanation (italic), then witness lists.
 
-### Option C — Hybrid (verse-by-verse case-by-case)
+**Bundle (`scripts/build_eremos_bundle.py`):**
 
-Treat each variant on its individual textual-critical merits. Brackets where the inclusion has substantial Greek manuscript support (23:14 — Byz strong); silent-skip where the inclusion is clearly secondary harmonization (17:21 — likely harmonization to Mark 9:29 [longer form]).
+Currently the bundle exports only verses (no footer notes). Tier 2 entries do NOT appear in the iOS app's verse popup until the app's data layer learns to consume `output/textual_variants/`. This is **acceptable lag** — the reader doc on github.com is the immediate audience for footer notes; the app surfaces notes when its UI catches up. Tracked as future work.
 
-**Pros:**
-- Theologically/text-critically defensible per verse.
-- Matches scholarly editing practice.
+**Migration of MAT 23:14 (2026-04-20):**
 
-**Cons:**
-- No clean rule; every future case needs adjudication.
-- Hard for downstream translators (Acts, Paulines) to follow without re-litigating each variant.
-- Reader-facing inconsistency continues.
+23:14 was previously Tier 1 (bracket-include in `output/translations/matthew_23.json` per the 2026-04-18 short-phrase convention extended to whole-verse). Migrated to Tier 2 (footer note in `output/textual_variants/matthew_23.json`) under Path A. The verse no longer appears in the main verse list of `matthew_23.json` (39 → 38 verses). Bundle change ships with this commit. Net app effect: 23:14 verse-popup disappears until app learns Tier 2 rendering.
 
-## Recommendation
+---
 
-**Option B**, with a corpus-wide retro pass to add 17:21 + 18:11 as bracketed-included verses before `book-matthew-v1` is tagged. This:
+## Implementation status
 
-1. Aligns the whole-verse cases with the short-phrase-variant treatment already locked.
-2. Honors the RULES.md §5 reader-trust principle at all scales.
-3. Establishes the policy for the major inclusion variants in Acts + Pauline + Johannine epistles before they become live questions.
+**Locked + implemented (2026-04-20):**
+- ✅ MAT 17:21 → Tier 2 footer note (`output/textual_variants/matthew_17.json`)
+- ✅ MAT 18:11 → Tier 2 footer note (`output/textual_variants/matthew_18.json`)
+- ✅ MAT 23:14 → migrated from Tier 1 to Tier 2 (`output/textual_variants/matthew_23.json`)
+- ✅ Renderer updated (`scripts/render_reader.py`)
+- ✅ `RULES.md §5` updated with the three-tier convention
+- ✅ Mark 1:1, 3:14, 9:29 retained as Tier 1 (correct per new policy)
+- ✅ Mark 16:9–20 retained as Tier 3 (⟦double brackets⟧, no change)
 
-Action if Option B is adopted:
-- Translate 17:21 and 18:11 into Thai (in brackets), with full key_decisions + notes documenting the inclusion-variant status, the manuscripts that include vs. omit, and Matthew's likely editorial intent.
-- Update `RULES.md` §5 to extend the bracket convention explicitly to whole-verse inclusion variants.
-- Re-render Matthew reader doc + rebuild Eremos bundle + update HASHES.
+**Future work:**
+- Bundle / iOS app: learn to consume `output/textual_variants/` and render footer notes in chapter view (Phase 2; not blocking this lock).
+- 16:2b–3 and 21:44 (in Matthew): both currently included unmarked. Per Path A, since they ARE in our SBLGNT base, no Tier 2 treatment is needed. They sit outside the inclusion-variant policy entirely. (These would be handled at the level of *exclusion* variants — different convention, not in scope here.)
+- Future Acts 8:37, 15:34, Romans 16:24 → Tier 2 footer notes when those chapters are translated.
+- Future Johannine Comma (1 John 5:7b–8a) → Tier 2 footer note when 1 John is translated.
+- Future John 7:53–8:11 (pericope adulterae) → Tier 3 ⟦double brackets⟧ when John is translated.
 
-If Option B *not* adopted (i.e., Option A or C chosen):
-- Document the chosen policy in `RULES.md` §5.
-- For Option A: revert 23:14 to verse-absent, update reader doc + bundle.
-- For Option C: case-by-case decisions, with text-critical reasoning recorded per verse.
+---
 
-## Forward variants (not exhaustive)
+## Why this matters going forward
 
-If Option B is adopted, these will receive bracketed-include treatment:
-- **Mark 16:9–20** — already done as `⟦double-brackets⟧` (longer-ending, larger block — distinct treatment per existing precedent).
-- **Acts 8:37** (Ethiopian eunuch's confession) — major TR/KJV addition.
-- **Acts 15:34** (Silas remained at Antioch).
-- **Acts 24:6b–8a** — minor.
-- **Acts 28:29** — Jews disputing among themselves.
-- **Romans 16:24** — closing benediction repetition.
-- **1 John 5:7b–8a** (Johannine Comma) — most famous TR addition.
-- **John 5:3b–4** (angel troubling water at Bethesda) — already a candidate.
-- **John 7:53–8:11** (pericope adulterae) — special case; precedent likely follows Mark 16:9–20 with `⟦double-brackets⟧`.
+Locking Path A before Acts and the Pauline epistles avoids:
+- Re-litigating each variant individually
+- Drifting into bracketed-Comma territory
+- Synthesizing a Greek text that doesn't exist in any single MS tradition
+- Mismatching our Thai reader's expectations from THSV cross-checking
 
-## Alternatives considered
+The three-tier policy gives translators a clear, unambiguous decision tree for every inclusion-variant case they'll encounter for the rest of the NT.
 
-See Options A / B / C above.
-
-## When to revisit
-
-- After Ben's policy decision (this is policy-pending).
-- If a future textual edition (e.g., ECM Acts) revises the apparatus on any of the listed verses.
-- If a Thai theological reviewer flags reader-confusion about brackets.
-- When the first major Acts/Pauline/Johannine inclusion variant is encountered (decision will already be in force, but verse-level review may surface refinements).
+---
 
 ## Cross-reference
 
 - `docs/MAT_END_OF_BOOK_REVIEW_2026-04-19.md` §14 — review that surfaced the inconsistency.
-- `RULES.md` §5 — current bracket-convention policy.
-- `output/translations/matthew_17.json` — currently verse-absent at 17:21.
-- `output/translations/matthew_18.json` — currently verse-absent at 18:11.
-- `output/translations/matthew_23.json` — currently bracketed-included at 23:14.
-- Earlier short-phrase precedents: `output/translations/mark_01.json` (1:1 brackets), `output/translations/mark_09.json` (9:29 brackets).
+- `RULES.md §5` — the canonical rules statement.
+- External-AI review feedback (Gemini, Claude session A, Grok, 2026-04-20).
+- `output/textual_variants/matthew_{17,18,23}.json` — first three Tier 2 entries.
+- `scripts/render_reader.py` — Tier 2 rendering implementation.

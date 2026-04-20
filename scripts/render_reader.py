@@ -33,6 +33,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 TRANSLATIONS = ROOT / "output" / "translations"
+TEXTUAL_VARIANTS = ROOT / "output" / "textual_variants"
 READER_DIR = ROOT / "output" / "reader"
 
 sys.path.insert(0, str(ROOT / "scripts"))
@@ -79,7 +80,7 @@ def chapter_files_for(slug: str) -> list[Path]:
     return [p for _, p in sorted(matched)]
 
 
-def render_chapter(verses: list[dict], chapter_num: int) -> str:
+def render_chapter(verses: list[dict], chapter_num: int, variants: list[dict] | None = None) -> str:
     lines = [f"## บทที่ {chapter_num}", ""]
     for v in verses:
         n = v["verse"]
@@ -94,7 +95,47 @@ def render_chapter(verses: list[dict], chapter_num: int) -> str:
             # mirrors the in-app popup's "บริบท · Context" header.
             lines.append(f"> _บริบท: {summary.strip()}_")
         lines.append("")
+
+    # Path A inclusion-variant footer (per RULES §5 + docs/translator_decisions/
+    # inclusion_variants_absent_verses_2026-04.md). For each whole-verse
+    # inclusion variant absent from the SBLGNT base text, surface the TR/Byz
+    # Thai rendering + manuscript witnesses so readers cross-checking with
+    # THSV/THKJV can see what those traditions read instead of seeing a
+    # silent verse-number jump.
+    if variants:
+        lines.append("---")
+        lines.append("")
+        lines.append("### หมายเหตุด้านต้นฉบับ")
+        lines.append("")
+        for var in variants:
+            verse_num = var.get("verse")
+            tr_thai = var.get("tr_byz_thai", "")
+            include = var.get("witnesses_include", "")
+            omit = var.get("witnesses_omit", "")
+            explanation = var.get("explanation_thai", "")
+            lines.append(f"**ข้อ {verse_num}** — ขาดในต้นฉบับวิจารณ์ (SBLGNT)")
+            lines.append("")
+            if tr_thai:
+                lines.append(f"> {tr_thai}")
+                lines.append("")
+            if explanation:
+                lines.append(f"_{explanation}_")
+                lines.append("")
+            if include or omit:
+                lines.append("ต้นฉบับที่รวมไว้: " + (include or "-"))
+                lines.append("")
+                lines.append("ต้นฉบับที่ละไว้: " + (omit or "-"))
+                lines.append("")
+        lines.append("")
     return "\n".join(lines)
+
+
+def load_textual_variants(slug: str, chapter_num: int) -> list[dict]:
+    """Load chapter-level inclusion-variant footer notes if present."""
+    fp = TEXTUAL_VARIANTS / f"{slug}_{chapter_num:02d}.json"
+    if not fp.exists():
+        return []
+    return json.loads(fp.read_text(encoding="utf-8"))
 
 
 def render_book(book_code: str) -> Path | None:
@@ -130,7 +171,8 @@ def render_book(book_code: str) -> Path | None:
     for chapter_path in chapters:
         chapter_num = int(re.search(r"_(\d+)\.json$", chapter_path.name).group(1))
         verses = json.loads(chapter_path.read_text(encoding="utf-8"))
-        parts.append(render_chapter(verses, chapter_num))
+        variants = load_textual_variants(slug, chapter_num)
+        parts.append(render_chapter(verses, chapter_num, variants))
         parts.append("---")
         parts.append("")
         chapter_hashes.append((chapter_path.name, file_sha256(chapter_path)))
