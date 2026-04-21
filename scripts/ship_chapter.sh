@@ -157,8 +157,11 @@ python3 "$THAI_BIBLE_AI/scripts/render_reader.py" --book "$BOOK_CODE" 2>&1 | tai
     git add "output/check_reports/ot_citations_${SLUG}_${CHAPTER_PADDED}.md" 2>/dev/null || true
     git add "output/check_reports/tnbt_comparison_${SLUG}_${CHAPTER_PADDED}.md" 2>/dev/null || true
     git add "output/check_reports/summary_coverage_${SLUG}_${CHAPTER_PADDED}.md" 2>/dev/null || true
-    # Cumulative state updated by checks (glossary growth, OT citation registry)
+    git add "output/check_reports/greek_field_integrity_${SLUG}_${CHAPTER_PADDED}.md" 2>/dev/null || true
+    # Cumulative state updated by checks (glossary growth, OT citation registry,
+    # synoptic parallels regenerated across all books on every ship)
     git add HASHES.md output/reader/ glossary.json data/nt_ot_citations.json 2>/dev/null || true
+    git add output/check_reports/parallel_passages.md 2>/dev/null || true
 
     if ! git diff --cached --quiet 2>/dev/null; then
         git commit -q -m "feat(${BOOK_CODE} ${CHAPTER}): source + checks + reader doc + bundle hashes" 2>&1 | tail -2 || true
