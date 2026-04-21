@@ -4906,6 +4906,43 @@
       "source": "JOB 39:27-30",
       "greek_matches": "thematic-proverbial",
       "notes": "The proverb ὅπου τὸ σῶμα, ἐκεῖ καὶ οἱ ἀετοὶ ἐπισυναχθήσονται echoes the Job 39:27-30 LXX description of the eagle/vulture: where the slain are, there it is (ἐν δὲ χώρᾳ οὗ ἂν ὦσι τεθνηκότες παραχρῆμα εὑρίσκονται — LXX Job 39:30). The imagery is proverbial rather than direct-quotation. Synoptic-parallel: Matt 24:28 uses identical saying. The vulture-gathering becomes a Jewish-apocalyptic motif (cf. Ezek 39:4, 17-20 for eschatological feast-of-birds after divine-judgment)."
+    },
+    "LUK 18:7": {
+      "type": "allusion",
+      "sources": [
+        "PSA 22:2",
+        "PSA 88:1"
+      ],
+      "greek_matches": "thematic-echo",
+      "notes": "'Cry out day and night' (βοώντων αὐτῷ ἡμέρας καὶ νυκτός) echoes the lament-prayer posture of Ps 22:2 (MT 22:3 כָּל־הַיּוֹם ... וְלַיְלָה — 'all the day ... and night') and especially Ps 88:1 LXX 87:2 (ἡμέρας ἐκέκραξα καὶ ἐν νυκτὶ ἐναντίον σου — 'day I cried out and by night before you'). The day-and-night-crying-to-God motif is a stock lament-psalm feature (cf. Ps 42:3; 77:2; Lam 2:18) — not a specific quotation but a deliberate invocation of the persecuted-righteous-petitioner tradition. The parable's ἐκλεκτοί (elect) are placed in the same posture as the lament-psalmist."
+    },
+    "LUK 18:20": {
+      "type": "composite_citation",
+      "sources": [
+        "EXO 20:12",
+        "EXO 20:13",
+        "EXO 20:14",
+        "EXO 20:15",
+        "EXO 20:16",
+        "DEU 5:16",
+        "DEU 5:17",
+        "DEU 5:18",
+        "DEU 5:19",
+        "DEU 5:20"
+      ],
+      "greek_matches": "LXX verbatim (Decalogue 5-9)",
+      "notes": "DIRECT citation of the second-table Decalogue: adultery (Exod 20:14 / Deut 5:18), murder (Exod 20:13 / Deut 5:17), theft (Exod 20:15 / Deut 5:19), false-witness (Exod 20:16 / Deut 5:20), honor-parents (Exod 20:12 / Deut 5:16). Luke's order (adultery-murder-steal-witness-honor) matches LXX-B Deuteronomy order and Matt 19:18 (vs MT-Exod order murder-adultery-steal). Luke, like Mark 10:19 and Matt 19:18, omits the 10th commandment (do-not-covet) — which would have cut directly to the rich ruler's failure. Luke does NOT include Mark's added μὴ ἀποστερήσῃς (do-not-defraud) nor Matthew's added Lev 19:18 love-neighbor command. Luke's list is the shortest synoptic form — pure second-table-harm-prohibitions + parent-honor."
+    },
+    "LUK 18:31": {
+      "type": "fulfillment_allusion",
+      "sources": [
+        "ISA 53:1-12",
+        "PSA 22:1-31",
+        "ZEC 12:10",
+        "DAN 7:13-14"
+      ],
+      "greek_matches": "thematic-fulfillment",
+      "notes": "'Everything written by the prophets about the Son of Man will be fulfilled' (τελεσθήσεται πάντα τὰ γεγραμμένα διὰ τῶν προφητῶν) — Luke's third passion-prediction (cf. LUK 9:22, 9:44) makes explicit the prophetic-fulfillment framework. This is a META-CLAIM over a corpus of prophetic texts, not a single-verse citation: (1) Isa 52:13-53:12 (suffering-servant, delivered over, pierced, vindicated on the third day via Hos 6:2); (2) Ps 22 (mockery, spitting, piercing); (3) Zech 12:10 (pierced one); (4) Dan 7:13-14 (Son-of-Man coming with authority). Luke reinforces this claim post-resurrection at 24:25-27 and 24:44-47 ('everything written about me in the Law of Moses and the Prophets and the Psalms'). Classified as fulfillment_allusion since it invokes a prophetic complex rather than quoting any single text."
     }
   }
 }

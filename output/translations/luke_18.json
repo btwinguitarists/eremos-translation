@@ -1,0 +1,783 @@
+[
+  {
+    "reference": "Luke 18:1",
+    "chapter": 18,
+    "verse": 1,
+    "greek": "Ἔλεγεν δὲ παραβολὴν αὐτοῖς πρὸς τὸ δεῖν πάντοτε προσεύχεσθαι αὐτοὺς καὶ μὴ ἐγκακεῖν,",
+    "bsb_english": "Then Jesus told them a parable about their need to pray at all times and not lose heart:",
+    "translation": {
+      "thai": "แล้วพระเยซูตรัสคำอุปมาเรื่องหนึ่งแก่พวกเขา เพื่อสอนว่าพวกเขาควรอธิษฐานอยู่เสมอและไม่ย่อท้อ",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "ἔλεγεν", "thai": "พระเยซูตรัส", "rationale": "Imperfect 'was saying/kept saying' but in narrative introduction functions as simple past. Divine subject → ตรัส (royal register per RULES.md §3). Subject made explicit (พระเยซู) for clarity since the previous chapter's final referent was ambiguous."},
+        {"greek": "ἐγκακεῖν", "thai": "ไม่ย่อท้อ", "rationale": "ἐγκακέω 'lose heart / grow weary in doing' (6× NT; Luke's only use). Thai ย่อท้อ captures compound sense of losing spirit + giving up in prayer, standard Thai Christian register."},
+        {"greek": "πρὸς τὸ δεῖν πάντοτε προσεύχεσθαι", "thai": "เพื่อสอนว่าพวกเขาควรอธิษฐานอยู่เสมอ", "rationale": "πρὸς τὸ + articular-infinitive δεῖν 'in view of the necessity to...' — Luke's purpose-clause framing. Thai เพื่อสอนว่า...ควร captures the didactic purpose. πάντοτε 'always/continually' → อยู่เสมอ emphasizes perseverance central to the parable."}
+      ],
+      "notes": "Luke 18 opens with its most distinctive structural feature — Luke alone among the Synoptics frames this parable with an explicit purpose-statement (πρὸς τὸ δεῖν). The framing verses 1 and 8 form an inclusio: the parable teaches persistent prayer, and v.8 asks whether the Son of Man will find such persevering faith on earth. ἐγκακέω picks up Pauline usage (2 Cor 4:1,16; Gal 6:9; Eph 3:13; 2 Thess 3:13) of not losing heart in ministry/faith."
+    }
+  },
+  {
+    "reference": "Luke 18:2",
+    "chapter": 18,
+    "verse": 2,
+    "greek": "λέγων·Κριτής τις ἦν ἔν τινι πόλει τὸν θεὸν μὴ φοβούμενος καὶ ἄνθρωπον μὴ ἐντρεπόμενος.",
+    "bsb_english": "\"In a certain town there was a judge who neither feared God nor respected men.",
+    "translation": {
+      "thai": "พระองค์ตรัสว่า «ในเมืองหนึ่ง มีผู้พิพากษาคนหนึ่งซึ่งไม่ยำเกรงพระเจ้าและไม่เกรงใจมนุษย์เลย",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "Κριτής", "thai": "ผู้พิพากษา", "rationale": "κριτής in civil/legal-court sense → ผู้พิพากษา (consistent with LUK 12:14, 12:58 where Jesus uses κριτής in legal-court contexts). ผู้ตัดสิน reserved for non-court metaphorical judgment (LUK 11:19 exorcism context, MAT 12:27). NEW: κριτής (civil-judge) → ผู้พิพากษา."},
+        {"greek": "τὸν θεὸν μὴ φοβούμενος", "thai": "ไม่ยำเกรงพระเจ้า", "rationale": "φοβέομαι of reverent fear toward God → ยำเกรง (glossary-established LUK 1:50, 12:5). Distinguished from φοβέομαι as fear-of-harm (กลัว)."},
+        {"greek": "ἄνθρωπον μὴ ἐντρεπόμενος", "thai": "ไม่เกรงใจมนุษย์", "rationale": "ἐντρέπω 'turn-toward, give-regard-to' → ไม่เกรงใจ captures 'having no regard for.' Per uW figs-gendernotations ἄνθρωπον is generic 'people' → มนุษย์ (Thai generic noun)."}
+      ],
+      "notes": "Introduces the unjust-judge character. The double negative (neither God-fearing nor man-respecting) is a legal-character caricature of the worst-possible judge — no vertical accountability (θεόν) and no horizontal accountability (ἄνθρωπον). Jewish legal expectation (Deut 16:18-20; 2 Chr 19:6-7) was that a judge must fear God and respect the parties; this judge embodies the opposite."
+    }
+  },
+  {
+    "reference": "Luke 18:3",
+    "chapter": 18,
+    "verse": 3,
+    "greek": "χήρα δὲ ἦν ἐν τῇ πόλει ἐκείνῃ καὶ ἤρχετο πρὸς αὐτὸν λέγουσα·Ἐκδίκησόν με ἀπὸ τοῦ ἀντιδίκου μου.",
+    "bsb_english": "And there was a widow in that town who kept appealing to him, 'Give me justice against my adversary.'",
+    "translation": {
+      "thai": "ในเมืองนั้นมีหญิงม่ายคนหนึ่ง นางมาหาเขาเรื่อย ๆ วิงวอนว่า ‹ขอโปรดให้ความยุติธรรมแก่ข้าพเจ้าต่อคู่ความของข้าพเจ้าเถิด›",
+      "thai_literal": null,
+      "thai_summary": "หญิงม่ายในสังคมศตวรรษที่หนึ่งไม่มีสามีปกป้องและไม่มีอำนาจในศาล จึงเป็นภาพของผู้อ่อนแอที่สุดซึ่งธรรมบัญญัติของโมเสสสั่งให้ปกป้อง (อพย 22:22; ฉธบ 10:18) ความเสียเปรียบของนางทำให้ความจำเป็นในการยืนหยัดต่อผู้พิพากษาที่ไม่ยำเกรงพระเจ้าเป็นภาพของคำอธิษฐานที่ไม่ย่อท้อของผู้เชื่อในโลกที่ไม่เป็นธรรม",
+      "key_decisions": [
+        {"greek": "χήρα", "thai": "หญิงม่าย", "rationale": "χήρα → หญิงม่าย (glossary-established LUK 2:37, 4:25-26, 7:12, 20:47, 21:2-3, MRK 12:40-43, MAT 23:14)."},
+        {"greek": "ἤρχετο", "thai": "มาหาเขาเรื่อย ๆ", "rationale": "Imperfect indicates repeated/continual action per uW note ('she kept coming'). Thai เรื่อย ๆ captures the iterative aspect crucial to the parable's point about persistence."},
+        {"greek": "Ἐκδίκησόν με", "thai": "ขอโปรดให้ความยุติธรรมแก่ข้าพเจ้า", "rationale": "ἐκδικέω aor-imp 2sg 'vindicate / give-justice-to' in legal context. Per uW figs-imperative: widow not in position to command, render as polite petition. Thai ขอโปรด + ข้าพเจ้า + ...เถิด triple-marks humility."},
+        {"greek": "ἀντιδίκου", "thai": "คู่ความ", "rationale": "ἀντίδικος = legal adversary / opposing-party-in-lawsuit. Per LUK 12:58 glossary-established คู่ความ (legal opponent in court proceedings). Preserves specifically-legal vs. general-enemy sense."}
+      ],
+      "notes": "Widow as paradigmatic vulnerable-plaintiff. Torah background: widows, orphans, and foreigners are the three categories protected by Mosaic law (Ex 22:22-24; Deut 10:18, 24:17-21; Isa 1:17). The judge's refusal to hear her case violates Torah (Deut 1:17 — judges must not favor the strong over the weak). ἤρχετο imperfect = kept coming — the repeated visits parallel the persistent prayer the parable teaches (cf. LUK 11:5-10)."
+    }
+  },
+  {
+    "reference": "Luke 18:4",
+    "chapter": 18,
+    "verse": 4,
+    "greek": "καὶ οὐκ ἤθελεν ἐπὶ χρόνον,μετὰ ταῦτα δὲ εἶπεν ἐν ἑαυτῷ·Εἰ καὶ τὸν θεὸν οὐ φοβοῦμαι οὐδὲ ἄνθρωπον ἐντρέπομαι,",
+    "bsb_english": "For a while he refused, but later he said to himself, 'Though I neither fear God nor respect men,",
+    "translation": {
+      "thai": "เขาไม่ยอมทำตามอยู่ชั่วระยะหนึ่ง แต่ภายหลังเขาคิดในใจว่า ‹แม้ข้าไม่ยำเกรงพระเจ้าและไม่เกรงใจมนุษย์ก็ตาม",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "οὐκ ἤθελεν ἐπὶ χρόνον", "thai": "ไม่ยอมทำตามอยู่ชั่วระยะหนึ่ง", "rationale": "ἤθελεν imperfect 'was not willing' over an extended period. Thai ไม่ยอม + ชั่วระยะหนึ่ง captures sustained unwillingness."},
+        {"greek": "εἶπεν ἐν ἑαυτῷ", "thai": "คิดในใจว่า", "rationale": "Hebraism / Septuagintism 'said within himself' = internal deliberation. Thai คิดในใจ is the natural equivalent (cf. LUK 7:39 ὁ Φαρισαῖος... εἶπεν ἐν ἑαυτῷ)."},
+        {"greek": "Εἰ καὶ", "thai": "แม้...ก็ตาม", "rationale": "Per uW grammar-connect-condition-fact: concessive not hypothetical — judge states real fact about himself. Thai แม้...ก็ตาม preserves concessive force."}
+      ],
+      "notes": "The judge's self-admission that he neither fears God nor respects people confirms v.2's narrator-characterization. Internal monologue structure mirrors LUK 12:17, 16:3 — a Lucan signature technique for revealing character-motive in parables."
+    }
+  },
+  {
+    "reference": "Luke 18:5",
+    "chapter": 18,
+    "verse": 5,
+    "greek": "διά γε τὸ παρέχειν μοι κόπον τὴν χήραν ταύτην ἐκδικήσω αὐτήν ἵνα μὴ εἰς τέλος ἐρχομένη ὑπωπιάζῃ με.",
+    "bsb_english": "yet because this widow keeps pestering me, I will give her justice. Otherwise, she will wear me out with her perpetual requests.'\"",
+    "translation": {
+      "thai": "แต่เพราะหญิงม่ายผู้นี้รบกวนข้า ข้าจะให้ความยุติธรรมแก่นาง เพื่อนางจะไม่มากวนข้าอยู่ร่ำไปจนทำให้ข้าหมดแรง›»",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "τὸ παρέχειν μοι κόπον", "thai": "รบกวนข้า", "rationale": "παρέχω + κόπος 'cause trouble / weariness to' (idiom). Thai รบกวน captures 'trouble/bother' register. Natural colloquial Thai without forcing lexical equivalence."},
+        {"greek": "εἰς τέλος", "thai": "อยู่ร่ำไป", "rationale": "Per uW figs-idiom: εἰς τέλος = 'perpetually / forever' (idiom). Thai อยู่ร่ำไป = 'continually/endlessly' matches the 'incessantly/forever' idiom."},
+        {"greek": "ὑπωπιάζῃ με", "thai": "ทำให้ข้าหมดแรง", "rationale": "Per uW figs-metaphor: ὑπωπιάζω (lit. 'strike under the eye' / give a black eye) used metaphorically 'wear out / beat down.' The literal pugilistic sense (boxing term — to bruise) is rare outside 1 Cor 9:27. Thai ทำให้หมดแรง preserves the 'wear out' sense without overstating the physical metaphor."},
+        {"greek": "ἐκδικήσω αὐτήν", "thai": "ข้าจะให้ความยุติธรรมแก่นาง", "rationale": "ἐκδικέω fut-ind-1sg 'I will vindicate / give justice to.' Consistent with v.3's ἐκδίκησον rendering — 'ให้ความยุติธรรม' throughout vv.3, 5, 7, 8 for lemma consistency."}
+      ],
+      "notes": "Non-honorific register throughout judge's speech — ข้า (not ข้าพเจ้า) for self-reference, consistent with his own self-description as godless and disrespectful. ὑπωπιάζω is suggestively comedic — the powerful judge imagines the widow literally punching him in the face. Paul uses the same verb 1 Cor 9:27 of disciplining one's body. Hapax-adjacent: ὑπωπιάζω appears only 2× NT."
+    }
+  },
+  {
+    "reference": "Luke 18:6",
+    "chapter": 18,
+    "verse": 6,
+    "greek": "εἶπεν δὲ ὁ κύριος·Ἀκούσατε τί ὁ κριτὴς τῆς ἀδικίας λέγει·",
+    "bsb_english": "And the Lord said, \"Listen to the words of the unjust judge.",
+    "translation": {
+      "thai": "แล้วองค์พระผู้เป็นเจ้าตรัสว่า «จงฟังคำที่ผู้พิพากษาอธรรมได้กล่าวนั้น",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "ὁ κύριος", "thai": "องค์พระผู้เป็นเจ้า", "rationale": "Per uW note: Luke refers to Jesus as ὁ κύριος. Thai องค์พระผู้เป็นเจ้า (glossary-established from RULES.md §4 κύριος for divine title). Luke uses this absolute ὁ κύριος 24× of Jesus — a deliberate narrative confession of Jesus' lordship."},
+        {"greek": "Ἀκούσατε", "thai": "จงฟัง", "rationale": "Per uW figs-idiom: ἀκούω here = 'think about / reflect on' (not new report). But retained imperative as 'จงฟัง' since Thai จงฟังคำที่... naturally means 'consider what [he] said' in context."},
+        {"greek": "ὁ κριτὴς τῆς ἀδικίας", "thai": "ผู้พิพากษาอธรรม", "rationale": "Hebrew-style genitive of quality: 'judge of injustice' = unjust judge. ἀδικία → อธรรม (Thai compound 'non-righteousness'), more natural than literal 'ผู้พิพากษาของความไม่ชอบธรรม.' Standard Thai Christian rendering for καὶ ἀδικίας-type constructions (cf. LUK 16:8 'οἰκονόμος τῆς ἀδικίας' = unjust steward)."}
+      ],
+      "notes": "Jesus' transition from parable to application. The qal-vahomer (lesser-to-greater) argument: if even the unjust judge eventually acts, how much more will the righteous God answer his elect?"
+    }
+  },
+  {
+    "reference": "Luke 18:7",
+    "chapter": 18,
+    "verse": 7,
+    "greek": "ὁ δὲ θεὸς οὐ μὴ ποιήσῃ τὴν ἐκδίκησιν τῶν ἐκλεκτῶν αὐτοῦ τῶν βοώντων αὐτῷ ἡμέρας καὶ νυκτός,καὶ μακροθυμεῖ ἐπ’αὐτοῖς;",
+    "bsb_english": "Will not God bring about justice for His elect who cry out to Him day and night? Will He delay in helping them?",
+    "translation": {
+      "thai": "แล้วพระเจ้าจะไม่ทรงให้ความยุติธรรมแก่ผู้ที่ทรงเลือกสรรไว้ของพระองค์ ซึ่งร้องทูลพระองค์ทั้งกลางวันและกลางคืนหรือ? พระองค์จะทรงผัดผ่อนต่อเขาทั้งหลายหรือ?",
+      "thai_literal": null,
+      "thai_summary": "«ผู้ที่ทรงเลือกสรร» หมายถึงประชากรของพระเจ้าที่พระองค์เรียกให้มาเป็นของพระองค์ ภาพของผู้ร้องทุกข์ «ทั้งกลางวันและกลางคืน» เป็นการเปรียบเทียบจากเพลงสดุดี (สดด 22:2; 88:1) ที่บรรยายถึงผู้ทุกข์ใจวิงวอนพระเจ้าอย่างต่อเนื่อง คำสอนคือพระเจ้าทรงฟังและจะทรงตอบ — แม้การตอบอาจช้าในสายตาของมนุษย์ แต่ในความเป็นจริงพระองค์มิได้ทรงเพิกเฉย",
+      "key_decisions": [
+        {"greek": "ὁ δὲ θεὸς οὐ μὴ ποιήσῃ τὴν ἐκδίκησιν", "thai": "แล้วพระเจ้าจะไม่ทรงให้ความยุติธรรม...หรือ?", "rationale": "Per uW figs-rquestion: rhetorical question expecting 'yes, he certainly will.' Thai จะไม่...หรือ? preserves the expected-positive rhetorical form. ทรง-prefix on ทรงให้ for divine subject (RULES.md §3). ποιεῖν τὴν ἐκδίκησιν = idiomatic 'execute justice / do-justice' → ให้ความยุติธรรม."},
+        {"greek": "τῶν ἐκλεκτῶν αὐτοῦ", "thai": "ผู้ที่ทรงเลือกสรรไว้ของพระองค์", "rationale": "ἐκλεκτός = chosen/elect — per LUK 9:35 ὁ ἐκλελεγμένος 'ผู้ที่เราทรงเลือกสรรไว้' (of the Son) and standard NT usage of 'the elect.' Per uW figs-nominaladj: adjective-as-noun → noun phrase ผู้ที่ทรงเลือกสรรไว้. NEW: οἱ ἐκλεκτοί → ผู้ที่ทรงเลือกสรรไว้."},
+        {"greek": "βοώντων αὐτῷ ἡμέρας καὶ νυκτός", "thai": "ร้องทูลพระองค์ทั้งกลางวันและกลางคืน", "rationale": "Per uW figs-merism: 'day and night' = all the time. Thai ทั้งกลางวันและกลางคืน preserves the merism idiom (Thai readers will understand the 'continuously' sense). βοάω pres-act-ptc 'cry out' → ร้องทูล (speech-act toward divine addressee uses ทูล)."},
+        {"greek": "καὶ μακροθυμεῖ ἐπ’αὐτοῖς", "thai": "พระองค์จะทรงผัดผ่อนต่อเขาทั้งหลายหรือ?", "rationale": "Difficult crux. Per uW figs-idiom: καὶ may be idiomatic 'even if' OR continuation-of-rhetorical-question. Following BSB/ESV evangelical mainstream: render as second rhetorical question continuing the first (expecting 'no, he will not delay'). μακροθυμέω here = 'delay / be slow to act' (not 'be patient with' as positive attribute — that's μακροθυμία as virtue). Thai ผัดผ่อน captures 'putting off / delaying.'"}
+      ],
+      "notes": "CONTESTED SYNTAX: καὶ μακροθυμεῖ ἐπ’ αὐτοῖς can be read as (a) continuing rhetorical question ('will he delay?' — BSB, ESV); (b) contrastive independent clause ('though he delays...' — NRSV); (c) concessive subordinate ('even if he takes long' — NIV). We follow (a) per BSB/evangelical-mainstream. The textual challenge is real — Greek syntax admits all three readings. OT ALLUSION: 'cry out day and night' echoes Ps 22:2 (כָּל־הַיּוֹם וְלַיְלָה) and Ps 88:1 (LXX 87:1 ἡμέρας ἐκέκραξα καὶ ἐν νυκτὶ ἐναντίον σου), the classic lament-prayer posture — but this is allusion/echo not citation, so no nt_ot_citations.json entry. μακροθυμέω: 10× NT. In Pauline usage = 'be patient' (virtue); in synoptic/Petrine = 'delay / hold back' (Matt 18:26,29; 2 Pet 3:9)."
+    }
+  },
+  {
+    "reference": "Luke 18:8",
+    "chapter": 18,
+    "verse": 8,
+    "greek": "λέγω ὑμῖν ὅτι ποιήσει τὴν ἐκδίκησιν αὐτῶν ἐν τάχει.πλὴν ὁ υἱὸς τοῦ ἀνθρώπου ἐλθὼν ἆρα εὑρήσει τὴν πίστιν ἐπὶ τῆς γῆς;",
+    "bsb_english": "I tell you, He will promptly carry out justice on their behalf. Nevertheless, when the Son of Man comes, will He find faith on earth?\"",
+    "translation": {
+      "thai": "เราบอกพวกท่านว่า พระองค์จะทรงให้ความยุติธรรมแก่เขาทั้งหลายโดยเร็ว แต่กระนั้น เมื่อบุตรมนุษย์เสด็จมา พระองค์จะพบความเชื่อบนแผ่นดินโลกหรือ?»",
+      "thai_literal": null,
+      "thai_summary": "คำถามสุดท้ายของคำอุปมาพลิกน้ำหนักจากพระเจ้าที่ซื่อสัตย์ไปสู่ความไม่แน่นอนของมนุษย์ — พระเจ้าจะทรงตอบอย่างแน่นอน แต่เมื่อบุตรมนุษย์เสด็จกลับมา จะทรงพบมนุษย์ที่ยังคงอธิษฐานด้วยความเชื่อต่อไปหรือไม่ ประเด็นคำถามไม่ได้อยู่ที่ความเชื่อถือได้ของพระเจ้า แต่อยู่ที่ความอดทนยืนหยัดของผู้เชื่อในช่วงที่พระองค์ดูเหมือนเงียบ",
+      "key_decisions": [
+        {"greek": "ἐν τάχει", "thai": "โดยเร็ว", "rationale": "'Swiftly / soon.' Per uW figs-explicit: apparent tension with the parable's 'persist-because-delay' theme; implication is God begins acting immediately even if results take time. Thai โดยเร็ว preserves the literal sense; the tension is interpretive (surfaced in notes)."},
+        {"greek": "πλὴν", "thai": "แต่กระนั้น", "rationale": "πλήν adversative 'nevertheless/however' — Per uW figs-explicit: marks a turn from God's faithfulness to the human-side uncertainty. Thai แต่กระนั้น preserves the contrastive-pivot force."},
+        {"greek": "ὁ υἱὸς τοῦ ἀνθρώπου", "thai": "บุตรมนุษย์", "rationale": "Son of Man title — glossary-established บุตรมนุษย์ (LUK 5:24, 6:5, 9:22, 9:26, 9:44, 9:58, 11:30, 12:8, 12:10, 12:40, 17:22, 17:24, 17:26, 17:30 + MRK/MAT corpus)."},
+        {"greek": "ἆρα εὑρήσει τὴν πίστιν", "thai": "พระองค์จะพบความเชื่อ...หรือ?", "rationale": "Per uW figs-rquestion: ἆρα + question = anticipates negative answer ('will he, really?' implying doubt). Thai จะ...หรือ? preserves the dubious-rhetorical tone without forcing a negative English gloss."}
+      ],
+      "notes": "Parable's closing tension — God is faithful (certainly answers), but will humans be faithful? ἐν τάχει ('swiftly/soon') + the Son-of-Man return creates eschatological horizon. πίστις here is per uW figs-explicit = 'the persevering trust that keeps praying when answer delays' (contextual sense, connecting back to v.1's μὴ ἐγκακεῖν). This is the parable's real punchline: the question is not whether God will act but whether his people will still be waiting in faith when he does."
+    }
+  },
+  {
+    "reference": "Luke 18:9",
+    "chapter": 18,
+    "verse": 9,
+    "greek": "Εἶπεν δὲ καὶ πρός τινας τοὺς πεποιθότας ἐφ’ἑαυτοῖς ὅτι εἰσὶν δίκαιοι καὶ ἐξουθενοῦντας τοὺς λοιποὺς τὴν παραβολὴν ταύτην·",
+    "bsb_english": "To some who trusted in their own righteousness and viewed others with contempt, He also told this parable:",
+    "translation": {
+      "thai": "พระองค์ยังตรัสคำอุปมาเรื่องนี้แก่บางคนที่มั่นใจในตนเองว่าเป็นคนชอบธรรมและดูหมิ่นผู้อื่นว่า",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "πεποιθότας ἐφ’ἑαυτοῖς", "thai": "มั่นใจในตนเอง", "rationale": "πείθω perf-act-ptc + ἐπί 'having put-trust in' → มั่นใจใน (established Thai 'confident-in / trust-in'). Reflexive ἑαυτοῖς → ตนเอง."},
+        {"greek": "δίκαιοι", "thai": "คนชอบธรรม", "rationale": "δίκαιος → ชอบธรรม (glossary-established, used throughout corpus)."},
+        {"greek": "ἐξουθενοῦντας τοὺς λοιποὺς", "thai": "ดูหมิ่นผู้อื่น", "rationale": "ἐξουθενέω 'despise / treat with contempt' (11× NT). Thai ดูหมิ่น is the standard 'despise' verb, captures the social-contempt register. τοὺς λοιπούς = 'the rest / others' → ผู้อื่น."}
+      ],
+      "notes": "Per uW writing-participants: τινας introduces new unspecified addressees — likely Pharisees (the story's anti-model is a Pharisee). Luke positions this parable as pastoral correction rather than public teaching. ἐξουθενέω appears 6× in Luke-Acts (more than any other NT corpus) — Luke's signature word for social-religious contempt."
+    }
+  },
+  {
+    "reference": "Luke 18:10",
+    "chapter": 18,
+    "verse": 10,
+    "greek": "Ἄνθρωποι δύο ἀνέβησαν εἰς τὸ ἱερὸν προσεύξασθαι,ὁ εἷς Φαρισαῖος καὶ ὁ ἕτερος τελώνης.",
+    "bsb_english": "\"Two men went up to the temple to pray. One was a Pharisee and the other a tax collector.",
+    "translation": {
+      "thai": "«ชายสองคนขึ้นไปยังพระวิหารเพื่ออธิษฐาน คนหนึ่งเป็นฟาริสีและอีกคนหนึ่งเป็นคนเก็บภาษี",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "ἀνέβησαν εἰς τὸ ἱερὸν", "thai": "ขึ้นไปยังพระวิหาร", "rationale": "Per uW figs-idiom: ἀναβαίνω of traveling to Jerusalem (elevation-idiom because city is on a mountain). Thai ขึ้นไปยัง preserves the up-going sense. ἱερόν here = temple-courtyard (per uW figs-synecdoche); Thai พระวิหาร standard."},
+        {"greek": "Φαρισαῖος", "thai": "ฟาริสี", "rationale": "Φαρισαῖος → ฟาริสี (glossary-established throughout corpus — MRK 2:16, MAT 3:7, LUK 5:17 etc.)."},
+        {"greek": "τελώνης", "thai": "คนเก็บภาษี", "rationale": "τελώνης → คนเก็บภาษี (glossary-established Matt 5:46, MRK 2:15-16, LUK 3:12, 5:27-29 etc.)."}
+      ],
+      "notes": "The parable's paired-opposition setup: Pharisee (religious-elite insider) vs. tax collector (socially-reviled Roman collaborator). Jewish expectation would have been that the Pharisee's prayer is heard and the tax collector's is not — the parable's inversion is the entire rhetorical payload."
+    }
+  },
+  {
+    "reference": "Luke 18:11",
+    "chapter": 18,
+    "verse": 11,
+    "greek": "ὁ Φαρισαῖος σταθεὶς πρὸς ἑαυτὸν ταῦτα προσηύχετο·Ὁ θεός,εὐχαριστῶ σοι ὅτι οὐκ εἰμὶ ὥσπερ οἱ λοιποὶ τῶν ἀνθρώπων,ἅρπαγες,ἄδικοι,μοιχοί,ἢ καὶ ὡς οὗτος ὁ τελώνης·",
+    "bsb_english": "The Pharisee stood by himself and prayed, 'God, I thank You that I am not like other men—swindlers, evildoers, adulterers—or even like this tax collector.",
+    "translation": {
+      "thai": "ฟาริสีผู้นั้นยืนขึ้นอธิษฐานในใจตนเองว่า ‹ข้าแต่พระเจ้า ข้าพระองค์ขอบพระคุณพระองค์ที่ข้าพระองค์ไม่เหมือนคนอื่น ๆ ซึ่งเป็นพวกฉ้อฉน ผู้อยุติธรรม คนเล่นชู้ หรือแม้แต่เหมือนคนเก็บภาษีผู้นี้",
+      "thai_literal": null,
+      "thai_summary": "คำอธิษฐานของฟาริสีเปิดเผยความผิดพลาดหลัก — เขา «ขอบพระคุณ» พระเจ้า แต่ใจทั้งหมดของคำอธิษฐานเป็นเรื่องของตนเองและการเปรียบเทียบกับผู้อื่น เขาอธิษฐาน «ในใจตนเอง» (πρὸς ἑαυτὸν) ซึ่งบ่งบอกว่าคำอธิษฐานนี้ไปไม่ถึงพระเจ้าจริง ๆ แต่เป็นเพียงการยกย่องตนเองโดยใช้ภาษาแห่งการอธิษฐาน",
+      "key_decisions": [
+        {"greek": "σταθεὶς πρὸς ἑαυτὸν", "thai": "ยืนขึ้นอธิษฐานในใจตนเอง", "rationale": "Ambiguous syntax: πρὸς ἑαυτόν can modify σταθείς ('stood by himself') OR προσηύχετο ('prayed to himself / inwardly'). Most modern translators (including BSB, NIV) take the latter — praying to/about himself. Thai ในใจตนเอง captures the inward-directedness; Greek word order supports connecting πρὸς ἑαυτὸν with προσηύχετο."},
+        {"greek": "Ὁ θεός", "thai": "ข้าแต่พระเจ้า", "rationale": "Vocative/nominative-for-vocative 'O God.' Thai ข้าแต่พระเจ้า is the standard Thai Christian prayer-opening."},
+        {"greek": "εὐχαριστῶ σοι", "thai": "ข้าพระองค์ขอบพระคุณพระองค์", "rationale": "εὐχαριστέω pres-act-1sg 'I-give-thanks' — Thai ขอบพระคุณ + ข้าพระองค์/พระองค์ (highest humble register, human addressing God per RULES.md §3)."},
+        {"greek": "ἅρπαγες, ἄδικοι, μοιχοί", "thai": "พวกฉ้อฉน ผู้อยุติธรรม คนเล่นชู้", "rationale": "Three-term vice list. ἅρπαξ 'robber/extortioner' (per uW translate-unknown 'bandits') → ฉ้อฉน 'cheat/defraud.' ἄδικος 'unrighteous' → ผู้อยุติธรรม (non-righteous one). μοιχός 'adulterer' → คนเล่นชู้ (glossary-standard cf LUK 16:18 μοιχᾶται glossary-lineage; MRK 10:19, MAT 19:18 'ล่วงประเวณี' for μοιχεύω verb — adulterer-noun rendered คนเล่นชู้ consistently in prior Luke material)."}
+      ],
+      "notes": "The Pharisee's prayer structure — thanksgiving that masks self-praise — is ironic. Per uW note: πρὸς ἑαυτόν ambiguous ('stood by himself' vs 'prayed to/about himself'). Both readings converge on isolation theme. The vice-list (ἅρπαγες, ἄδικοι, μοιχοί) is not the standard Pauline type but a caricature-list — the Pharisee names the 'obvious sinners' categories to exclude himself from. οὗτος ὁ τελώνης ('this tax collector') is pejorative — uses the indefinite-demonstrative to distance himself from the man beside him."
+    }
+  },
+  {
+    "reference": "Luke 18:12",
+    "chapter": 18,
+    "verse": 12,
+    "greek": "νηστεύω δὶς τοῦ σαββάτου,ἀποδεκατῶ πάντα ὅσα κτῶμαι.",
+    "bsb_english": "I fast twice a week and pay tithes of all that I acquire.'",
+    "translation": {
+      "thai": "ข้าพระองค์อดอาหารสัปดาห์ละสองวัน ข้าพระองค์ถวายสิบชักหนึ่งของทุกสิ่งที่ข้าพระองค์หามาได้›",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "νηστεύω δὶς τοῦ σαββάτου", "thai": "ข้าพระองค์อดอาหารสัปดาห์ละสองวัน", "rationale": "σάββατον here = 'week' (common Semitism, cf. LUK 24:1 μία τῶν σαββάτων 'first day of the week'). Thai สัปดาห์ละสองวัน = 'two days per week.' The Pharisee's extra-Torah piety — Torah requires only Yom Kippur fasting; Pharisaic custom added Mondays and Thursdays."},
+        {"greek": "ἀποδεκατῶ", "thai": "ถวายสิบชักหนึ่ง", "rationale": "ἀποδεκατόω 'pay tithes of' → ถวายสิบชักหนึ่ง (glossary-established LUK 11:42; MAT 23:23)."},
+        {"greek": "ὅσα κτῶμαι", "thai": "ของทุกสิ่งที่ข้าพระองค์หามาได้", "rationale": "κτάομαι 'acquire, gain, earn' → หามาได้ (natural Thai 'get/earn'). The boast extends beyond Torah requirement (tithing all income, not just the produce-categories Torah specifies)."}
+      ],
+      "notes": "The Pharisee lists supererogatory practices (beyond-Torah piety): fasting twice weekly (not Torah-required) and tithing ALL income (Torah required tithing of produce, firstborn, firstfruits — not universal income). His prayer moves from negative 'I am not like...' to positive 'I do...' — both forms self-congratulatory. No OT-citation entry needed; these are legal-observance claims not OT quotations."
+    }
+  },
+  {
+    "reference": "Luke 18:13",
+    "chapter": 18,
+    "verse": 13,
+    "greek": "ὁ δὲ τελώνης μακρόθεν ἑστὼς οὐκ ἤθελεν οὐδὲ τοὺς ὀφθαλμοὺς ἐπᾶραι εἰς τὸν οὐρανόν,ἀλλ’ἔτυπτε τὸ στῆθος αὐτοῦ λέγων·Ὁ θεός,ἱλάσθητί μοι τῷ ἁμαρτωλῷ.",
+    "bsb_english": "But the tax collector stood at a distance, unwilling even to lift up his eyes to heaven. Instead, he beat his breast and said, 'God, have mercy on me, a sinner!'",
+    "translation": {
+      "thai": "ส่วนคนเก็บภาษียืนอยู่ห่าง ๆ ไม่กล้าแม้แต่จะเงยหน้าขึ้นดูฟ้าสวรรค์ แต่ตีอกของตนแล้วกล่าวว่า ‹ข้าแต่พระเจ้า ขอทรงพระเมตตาต่อข้าพระองค์ผู้เป็นคนบาปด้วยเถิด›",
+      "thai_literal": null,
+      "thai_summary": "ท่าทางทั้งสามของคนเก็บภาษี — ยืนห่าง ๆ ไม่กล้าเงยหน้า และตีอก — เป็นสัญลักษณ์ของการถ่อมใจและการกลับใจในวัฒนธรรมยิวศตวรรษที่หนึ่ง การตีอกเป็นท่าทางของความเสียใจอย่างสุดซึ้งต่อบาปของตน คำอธิษฐานของเขา «ขอทรงพระเมตตาต่อข้าพระองค์ผู้เป็นคนบาป» ใช้คำเฉพาะที่หมายถึง «ทรงลบล้างบาป» ซึ่งเป็นคำของพิธีกรรมในพระวิหาร — เขาขอความรอดไม่ใช่จากความดีของตน แต่จากพระคุณของพระเจ้า",
+      "key_decisions": [
+        {"greek": "μακρόθεν ἑστὼς", "thai": "ยืนอยู่ห่าง ๆ", "rationale": "Per uW translate-symaction: sign of humility — did not feel worthy to be near the Pharisee. Thai ยืนอยู่ห่าง ๆ captures the distanced-positioning."},
+        {"greek": "οὐκ ἤθελεν οὐδὲ τοὺς ὀφθαλμοὺς ἐπᾶραι", "thai": "ไม่กล้าแม้แต่จะเงยหน้าขึ้นดู", "rationale": "Per uW figs-idiom: 'lift up eyes' = 'look at.' Thai เงยหน้าขึ้นดู is the natural idiom for 'raise face to look up.' ἤθελεν + negation → ไม่กล้า (was not willing + humility-inflection)."},
+        {"greek": "ἔτυπτε τὸ στῆθος αὐτοῦ", "thai": "ตีอกของตน", "rationale": "Per uW translate-symaction: physical expression of sorrow, demonstrating repentance/humility. Thai ตีอก is the established Thai idiom for this gesture (used in funeral/repentance contexts)."},
+        {"greek": "ἱλάσθητί μοι τῷ ἁμαρτωλῷ", "thai": "ขอทรงพระเมตตาต่อข้าพระองค์ผู้เป็นคนบาปด้วยเถิด", "rationale": "ἱλάσκομαι aor-imp-pass 'be propitiated / show mercy (toward).' Significant lexical choice: not generic ἐλέησον (which the blind man later uses, v.38) but the temple-sacrifice-related term for propitiation/atonement (cognate with ἱλαστήριον 'mercy seat' Heb 9:5; Rom 3:25). Per uW figs-imperative: render as polite petition. Thai ขอทรงพระเมตตา + ด้วยเถิด captures the humble-petition register. The definite article τῷ ἁμαρτωλῷ ('THE sinner') suggests 'me, the [quintessential] sinner' — self-identification as sinner-par-excellence, not merely 'a sinner.'"},
+        {"greek": "ἁμαρτωλῷ", "thai": "คนบาป", "rationale": "ἁμαρτωλός → คนบาป (RULES.md §4 non-negotiable, glossary-established)."}
+      ],
+      "notes": "Three symbolic actions (distance, downcast eyes, breast-beating) each mark humility/repentance in first-century Jewish culture. LEXICAL CRUX: ἱλάσθητι (from ἱλάσκομαι) is not the common ἐλέησον — it carries temple-atonement overtones ('be propitiated toward me'). This is the same word-family as ἱλαστήριον (Rom 3:25 mercy-seat), evoking the Day-of-Atonement ritual. The tax collector's prayer implicitly requests what the Pharisee stood AT the temple without thinking to ask for. ἱλάσκομαι only 2× NT (Luke 18:13; Heb 2:17). Not an OT citation but the language is temple-sacrificial."
+    }
+  },
+  {
+    "reference": "Luke 18:14",
+    "chapter": 18,
+    "verse": 14,
+    "greek": "λέγω ὑμῖν,κατέβη οὗτος δεδικαιωμένος εἰς τὸν οἶκον αὐτοῦ παρ’ἐκεῖνον·ὅτι πᾶς ὁ ὑψῶν ἑαυτὸν ταπεινωθήσεται,ὁ δὲ ταπεινῶν ἑαυτὸν ὑψωθήσεται.",
+    "bsb_english": "I tell you, this man, rather than the Pharisee, went home justified. For everyone who exalts himself will be humbled, but the one who humbles himself will be exalted.\"",
+    "translation": {
+      "thai": "เราบอกพวกท่านว่า ชายผู้นี้กลับไปยังบ้านของตนโดยที่พระเจ้าทรงชำระเขาให้เป็นผู้ชอบธรรม ไม่ใช่ฟาริสีผู้นั้น เพราะทุกคนที่ยกตนเองขึ้นจะถูกทำให้ต่ำลง แต่คนที่ถ่อมตนลงจะได้รับการยกขึ้น»",
+      "thai_literal": null,
+      "thai_summary": "«ทรงชำระให้เป็นผู้ชอบธรรม» (ดิไคโอโอ) เป็นคำที่เปาโลใช้ในจดหมายของท่านเพื่ออธิบายพระคุณของพระเจ้า — การที่พระเจ้าทรงประกาศผู้ที่เชื่อให้เป็นผู้ไร้ข้อกล่าวหา ที่สำคัญคือคนเก็บภาษีไม่ได้ทำอะไรเลยเพื่อให้ชอบธรรม นอกจากยอมรับความผิดของตนและขอพระเมตตา นี่คือหลักการพื้นฐานของข่าวประเสริฐ: ความชอบธรรมเป็นของขวัญจากพระเจ้า ไม่ใช่รางวัลของการปฏิบัติ",
+      "key_decisions": [
+        {"greek": "κατέβη εἰς τὸν οἶκον αὐτοῦ", "thai": "กลับไปยังบ้านของตน", "rationale": "Per uW figs-idiom: 'went down' = returned home from Jerusalem (descent-idiom because Jerusalem is on a mountain). Thai กลับไปยังบ้าน captures the return-home sense; the elevation aspect is implicit."},
+        {"greek": "δεδικαιωμένος", "thai": "โดยที่พระเจ้าทรงชำระเขาให้เป็นผู้ชอบธรรม", "rationale": "δικαιόω perf-pass-ptc 'having been declared-righteous.' Per uW figs-activepassive: divine passive — God is the implied agent. Thai makes this explicit: พระเจ้าทรงชำระ (God cleanses/justifies). This Pauline/Lukan key term for imputed righteousness = ชำระให้เป็นผู้ชอบธรรม preserves both the legal-declarative aspect ('declared righteous') and theological weight ('made right with God')."},
+        {"greek": "παρ’ἐκεῖνον", "thai": "ไม่ใช่ฟาริสีผู้นั้น", "rationale": "παρά + acc in comparative sense = 'rather than / in contrast to.' ἐκεῖνος 'that one' (distant demonstrative) — refers back to the Pharisee. Per uW figs-explicit: implication is the Pharisee was NOT justified; Thai ไม่ใช่ฟาริสีผู้นั้น makes this explicit."},
+        {"greek": "ὑψῶν ἑαυτὸν ταπεινωθήσεται", "thai": "ยกตนเองขึ้นจะถูกทำให้ต่ำลง", "rationale": "Per uW figs-metaphor + figs-activepassive: spatial metaphor for honor (high) vs humiliation (low); divine passive — God will humble/exalt. Thai ยกตนเองขึ้น vs ทำให้ต่ำลง preserves the vertical metaphor. ὑψωθήσεται → ได้รับการยกขึ้น (passive: will be exalted-by-God)."}
+      ],
+      "notes": "CORE LUKAN THEOLOGY: The justification-by-humility principle echoes across Luke — cf. 1:52 (Magnificat), 14:11 (parable of chief seats). The reversal theme is Lukan signature. THEOLOGICAL KEY TERM: δικαιόω in passive here is one of only a handful of Lucan uses of this Pauline-central verb — Luke typically uses it of human self-justification (10:29, 16:15), but here of divine justification. The tax collector's δικαιόω-state comes purely from petition + repentance, not from fasting/tithing/Torah-obedience. The ending-aphorism πᾶς ὁ ὑψῶν ἑαυτὸν ταπεινωθήσεται is a recurring Lukan logion (14:11; cf. MAT 23:12)."
+    }
+  },
+  {
+    "reference": "Luke 18:15",
+    "chapter": 18,
+    "verse": 15,
+    "greek": "Προσέφερον δὲ αὐτῷ καὶ τὰ βρέφη ἵνα αὐτῶν ἅπτηται·ἰδόντες δὲ οἱ μαθηταὶ ἐπετίμων αὐτοῖς.",
+    "bsb_english": "Now people were even bringing their babies to Jesus for Him to place His hands on them. And when the disciples saw this, they rebuked those who brought them.",
+    "translation": {
+      "thai": "ประชาชนยังนำทารกของตนมาเฝ้าพระองค์ เพื่อให้พระองค์ทรงสัมผัสเด็กเหล่านั้น แต่เมื่อเหล่าสาวกเห็นเช่นนั้นก็ตำหนิพวกเขา",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "τὰ βρέφη", "thai": "ทารก", "rationale": "βρέφος → ทารก (glossary-established LUK 1:41,44 - in-utero; 2:12,16 - newborn Jesus; 1 Pet 2:2). Luke's specific choice of βρέφη (infants) rather than synoptic παιδία (children, MRK 10:13) emphasizes the very-young age."},
+        {"greek": "ἅπτηται", "thai": "ทรงสัมผัส", "rationale": "ἅπτω mid 'touch.' Per uW translate-symaction: touching babies conveys God's blessing. Thai ทรงสัมผัส (royal register for divine subject, RULES.md §3)."},
+        {"greek": "ἐπετίμων", "thai": "ตำหนิ", "rationale": "ἐπιτιμάω impf 'rebuke, scold.' Per uW figs-explicit: disciples tried to stop the parents. Thai ตำหนิ (scold/reproach) captures the disciples' gatekeeping stance."}
+      ],
+      "notes": "PARALLEL: MRK 10:13-16 || MAT 19:13-15. Luke's βρέφη (babies/infants) is distinctive vs. Mark's παιδία (children). This specifies very young — emphasizing Luke's point about dependent helplessness as entry to kingdom. ἐπιτιμάω is the same verb used of rebuking demons (LUK 4:35,41, 9:42) — disciples apply demon-silencing authority to children, showing the misplaced-authority problem."
+    }
+  },
+  {
+    "reference": "Luke 18:16",
+    "chapter": 18,
+    "verse": 16,
+    "greek": "ὁ δὲ Ἰησοῦς προσεκαλέσατο αὐτὰ λέγων·Ἄφετε τὰ παιδία ἔρχεσθαι πρός με καὶ μὴ κωλύετε αὐτά,τῶν γὰρ τοιούτων ἐστὶν ἡ βασιλεία τοῦ θεοῦ.",
+    "bsb_english": "But Jesus called the children to Him and said, \"Let the little children come to Me, and do not hinder them! For the kingdom of God belongs to such as these.",
+    "translation": {
+      "thai": "แต่พระเยซูทรงเรียกเด็กเหล่านั้นมาและตรัสว่า «จงยอมให้เด็กเล็ก ๆ มาหาเราเถิด อย่าห้ามพวกเขาเลย เพราะอาณาจักรของพระเจ้าเป็นของคนเช่นนี้แหละ",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "προσεκαλέσατο αὐτὰ", "thai": "ทรงเรียกเด็กเหล่านั้นมา", "rationale": "προσκαλέομαι aor-mid 'call-to-oneself.' Per uW writing-pronouns: αὐτά refers to the children — but per the ambiguity, the calling may be addressed to the disciples (telling them to allow the children). Thai ทรงเรียก...มา accommodates both."},
+        {"greek": "Ἄφετε τὰ παιδία", "thai": "จงยอมให้เด็กเล็ก ๆ มาหาเราเถิด", "rationale": "ἀφίημι aor-imp 'permit/let.' Per uW figs-verbs: the first verb indicates one-time-action ('allow'), second indicates ongoing ('never forbid'). Thai จงยอมให้...มา preserves the permissive imperative."},
+        {"greek": "τὰ παιδία", "thai": "เด็กเล็ก ๆ", "rationale": "παιδίον diminutive 'little child' (distinct from v.15's βρέφος 'infant'). Thai เด็กเล็ก ๆ (reduplication for smallness/endearment). Jesus' generic term covers both babies (v.15) and older children."},
+        {"greek": "τῶν γὰρ τοιούτων ἐστὶν ἡ βασιλεία τοῦ θεοῦ", "thai": "เพราะอาณาจักรของพระเจ้าเป็นของคนเช่นนี้แหละ", "rationale": "βασιλεία τοῦ θεοῦ → อาณาจักรของพระเจ้า (RULES.md §4). τῶν τοιούτων 'of such-kind-ones' — per uW figs-simile: v.17 makes explicit this is simile ('whoever does not receive AS a child'). Thai คนเช่นนี้แหละ ('those-of-such-kind') preserves the open-reference (the kingdom belongs to child-like-ones)."}
+      ],
+      "notes": "PARALLEL: MRK 10:14 || MAT 19:14. Lexical shift within the episode: Luke uses βρέφη (v.15, infants) → παιδία (vv.16-17, children) — Jesus generalizes from babies to all children in the kingdom-saying. The kingdom belongs not to children per se but to those like-children in trust/dependence (made explicit v.17)."
+    }
+  },
+  {
+    "reference": "Luke 18:17",
+    "chapter": 18,
+    "verse": 17,
+    "greek": "ἀμὴν λέγω ὑμῖν,ὃς ἂν μὴ δέξηται τὴν βασιλείαν τοῦ θεοῦ ὡς παιδίον,οὐ μὴ εἰσέλθῃ εἰς αὐτήν.",
+    "bsb_english": "Truly I tell you, anyone who does not receive the kingdom of God like a little child will never enter it.\"",
+    "translation": {
+      "thai": "เราบอกความจริงแก่พวกท่านว่า ผู้ใดไม่รับอาณาจักรของพระเจ้าเหมือนอย่างเด็กเล็ก ๆ ผู้นั้นจะไม่มีวันเข้าในอาณาจักรนั้นเลย»",
+      "thai_literal": null,
+      "thai_summary": "การ «รับอาณาจักร» เหมือนเด็กไม่ได้หมายถึงไร้เดียงสา แต่หมายถึงท่าทีของการยอมรับของขวัญโดยไม่เรียกร้องสิทธิ์ เด็กในวัฒนธรรมปาเลสไตน์โบราณไม่มีอำนาจต่อรอง ไม่มีสถานะ และพึ่งพาผู้อื่นอย่างสิ้นเชิง — นี่คือท่าทีที่พระเยซูทรงสอนว่าเป็นประตูเข้าสู่อาณาจักรของพระเจ้า ซึ่งตรงกันข้ามกับความมั่นใจในตนเองของฟาริสีในคำอุปมาก่อนหน้า",
+      "key_decisions": [
+        {"greek": "ἀμὴν λέγω ὑμῖν", "thai": "เราบอกความจริงแก่พวกท่านว่า", "rationale": "Jesus' solemn-asseveration formula. ἀμὴν 'truly' transliterated from Hebrew אָמֵן. Thai 'เราบอกความจริง' is glossary-established (LUK 4:24, 12:37, 18:29 etc.; MRK 10:15 parallel)."},
+        {"greek": "ὡς παιδίον", "thai": "เหมือนอย่างเด็กเล็ก ๆ", "rationale": "Per uW figs-simile: the comparison can be drawn out explicitly (cf. LUK 18:17 UST 'with trust and humility as a child'). Thai เหมือนอย่างเด็กเล็ก ๆ preserves the simile without exegetical expansion (the point is made in the parable-context not in over-literalizing)."},
+        {"greek": "οὐ μὴ εἰσέλθῃ", "thai": "จะไม่มีวันเข้า...เลย", "rationale": "οὐ μή + aor-subj = emphatic future negation 'will certainly not.' Thai จะไม่มีวัน...เลย triple-marks the emphatic negation."}
+      ],
+      "notes": "PARALLEL: MRK 10:15. The kingdom-entry-as-reception principle flips the expected religious-achievement model (which the rich ruler in vv.18-23 will embody). Children receive without presuming to deserve — the same structure as the tax collector's reception (v.14)."
+    }
+  },
+  {
+    "reference": "Luke 18:18",
+    "chapter": 18,
+    "verse": 18,
+    "greek": "Καὶ ἐπηρώτησέν τις αὐτὸν ἄρχων λέγων·Διδάσκαλε ἀγαθέ,τί ποιήσας ζωὴν αἰώνιον κληρονομήσω;",
+    "bsb_english": "Then a certain ruler asked Him, \"Good Teacher, what must I do to inherit eternal life?\"",
+    "translation": {
+      "thai": "ขุนนางผู้หนึ่งทูลถามพระองค์ว่า «ท่านอาจารย์ผู้ประเสริฐ ข้าพเจ้าจะต้องทำสิ่งใดจึงจะได้รับชีวิตนิรันดร์เป็นมรดก?»",
+      "thai_literal": null,
+      "thai_summary": "คำถามของขุนนางคล้ายคำถามของผู้เชี่ยวชาญทางบัญญัติใน ลก 10:25 — แต่ขุนนางผู้นี้เป็นผู้ปกครองทางศาสนาในยิว ซึ่งมีอำนาจในการตัดสินศาสนา คำว่า «ได้รับเป็นมรดก» เป็นภาษาของพันธสัญญาเดิมเกี่ยวกับแผ่นดินคานาอัน (ฉธบ 1:38-39) — ขุนนางคิดว่าชีวิตนิรันดร์เป็นสิ่งที่ได้มาด้วยการกระทำ เช่นเดียวกับแผ่นดินคานาอันที่ได้มาโดยการสืบทอด",
+      "key_decisions": [
+        {"greek": "ἄρχων", "thai": "ขุนนาง", "rationale": "ἄρχων 'ruler, chief' — here a Jewish leader per uW writing-participants. Thai ขุนนาง ('noble/aristocrat') captures the social rank without over-specifying as synagogue-ruler or Sanhedrin-member (the Greek leaves this open). NEW: ἄρχων (as Jewish leader, LUK 18:18) → ขุนนาง."},
+        {"greek": "Διδάσκαλε ἀγαθέ", "thai": "ท่านอาจารย์ผู้ประเสริฐ", "rationale": "Vocative address. Thai ท่านอาจารย์ (respectful teacher) + ผู้ประเสริฐ (excellent/good). Matches MRK 10:17 'ท่านอาจารย์ผู้ประเสริฐ.' ἀγαθός here carries the special sense the next verse will interrogate."},
+        {"greek": "ζωὴν αἰώνιον κληρονομήσω", "thai": "ได้รับชีวิตนิรันดร์เป็นมรดก", "rationale": "ζωὴ αἰώνιος → ชีวิตนิรันดร์ (glossary-established LUK 10:25). Per uW figs-metaphor: κληρονομέω 'inherit' used figuratively for 'obtain/acquire.' Thai ได้รับ...เป็นมรดก preserves the inheritance-language that carries OT-covenant overtones."}
+      ],
+      "notes": "PARALLEL: MRK 10:17 || MAT 19:16. Luke alone calls him ἄρχων; Matthew calls him 'young,' Mark has no title — they likely harmonize to 'rich young ruler' in popular imagination. Connection to vv.15-17: immediately after teaching that the kingdom belongs to those who receive-like-children, Luke presents a ruler who assumes kingdom-entry is earned-by-works. The inheritance-language (κληρονομέω) echoes OT covenantal entry into the Promised Land — the ruler thinks of eternal life in those terms."
+    }
+  },
+  {
+    "reference": "Luke 18:19",
+    "chapter": 18,
+    "verse": 19,
+    "greek": "εἶπεν δὲ αὐτῷ ὁ Ἰησοῦς·Τί με λέγεις ἀγαθόν;οὐδεὶς ἀγαθὸς εἰ μὴ εἷς ὁ θεός.",
+    "bsb_english": "\"Why do you call Me good?\" Jesus replied. \"No one is good except God alone.",
+    "translation": {
+      "thai": "พระเยซูตรัสกับเขาว่า «เหตุใดท่านจึงเรียกเราว่าผู้ประเสริฐ? ไม่มีใครประเสริฐเลย นอกจากพระเจ้าองค์เดียว",
+      "thai_literal": null,
+      "thai_summary": "พระเยซูทรงไม่ได้ปฏิเสธว่าพระองค์เป็นพระเจ้า แต่ทรงใช้คำถามให้ขุนนางได้คิดใหม่ว่าเขาใช้คำว่า «ประเสริฐ» อย่างไร ในพระคัมภีร์เดิม «ดี» คือคุณลักษณะเฉพาะของพระเจ้า (สดด 34:8; 118:1) — ถ้าขุนนางยอมรับว่าพระเยซูทรงเป็นผู้ประเสริฐจริง ๆ เขาต้องยอมรับว่าพระองค์ทรงเป็นมากกว่ามนุษย์",
+      "key_decisions": [
+        {"greek": "Τί με λέγεις ἀγαθόν", "thai": "เหตุใดท่านจึงเรียกเราว่าผู้ประเสริฐ?", "rationale": "Per uW figs-rquestion: Jesus uses question-form as teaching tool — not denying his goodness but challenging the ruler's casual use of the term. Thai เหตุใด...จึง...? preserves the rhetorical-probing tone."},
+        {"greek": "οὐδεὶς ἀγαθὸς εἰ μὴ εἷς ὁ θεός", "thai": "ไม่มีใครประเสริฐเลย นอกจากพระเจ้าองค์เดียว", "rationale": "Absolute statement. εἷς 'one' here intensifies = 'God alone / one and only.' Thai พระเจ้าองค์เดียว captures the 'God alone' sense. ἀγαθός → ประเสริฐ (matches v.18's Διδάσκαλε ἀγαθέ)."}
+      ],
+      "notes": "PARALLEL: MRK 10:18 || MAT 19:17 (MAT rephrases). The saying has two standard interpretive paths: (1) Jesus distances himself from the 'good' descriptor to redirect attention to God (humility); (2) Jesus is inviting the ruler to think through the implication — if Jesus is indeed 'good' and only God is good, therefore... The uW note explicitly states Jesus is 'not denying that he is God.' Our translation preserves the Greek without forcing an interpretation. Conceptual OT background: Ps 34:8 (גְּעַמ ְוּרְאוּ כִּי־טוֹב יהוה) and Ps 118:1 (כִּי־טוֹב) associate goodness specifically with God."
+    }
+  },
+  {
+    "reference": "Luke 18:20",
+    "chapter": 18,
+    "verse": 20,
+    "greek": "τὰς ἐντολὰς οἶδας·Μὴ μοιχεύσῃς,Μὴ φονεύσῃς,Μὴ κλέψῃς,Μὴ ψευδομαρτυρήσῃς,Τίμα τὸν πατέρα σου καὶ τὴν μητέρα.",
+    "bsb_english": "You know the commandments: 'Do not commit adultery, do not murder, do not steal, do not bear false witness, honor your father and mother.'\"",
+    "translation": {
+      "thai": "ท่านรู้จักพระบัญญัติทั้งหลายอยู่แล้ว คือ ‹อย่าล่วงประเวณี อย่าฆ่าคน อย่าลักทรัพย์ อย่าเป็นพยานเท็จ จงให้เกียรติบิดาและมารดาของเจ้า›",
+      "thai_literal": null,
+      "thai_summary": "OT CITATION: พระเยซูทรงอ้างพระบัญญัติสิบประการ (อพย 20:12-16; ฉธบ 5:16-20) แต่ทรงยกเพียงครึ่งหลังที่เกี่ยวข้องกับความสัมพันธ์ระหว่างมนุษย์ — ไม่ใช่ครึ่งแรกที่เกี่ยวกับการนับถือพระเจ้า น่าสังเกตคือลำดับของพระเยซูต่างจากฉบับฮีบรูเล็กน้อย (ล่วงประเวณีมาก่อนฆ่าคน) ซึ่งตรงกับฉบับ LXX ในบางต้นฉบับ และพระองค์ไม่ได้ยกข้อ «อย่าโลภ» — เรื่องที่จะกลายเป็นหัวใจของการสนทนาต่อไป",
+      "key_decisions": [
+        {"greek": "τὰς ἐντολὰς", "thai": "พระบัญญัติทั้งหลาย", "rationale": "ἐντολή → พระบัญญัติ (glossary-established for Decalogue/Torah commandments; the พระ-prefix marks divine origin)."},
+        {"greek": "Μὴ μοιχεύσῃς", "thai": "อย่าล่วงประเวณี", "rationale": "μοιχεύω → ล่วงประเวณี (glossary-established MRK 10:19, MAT 19:18 — Thai Christian standard for 'commit adultery' in Decalogue context)."},
+        {"greek": "Μὴ φονεύσῃς", "thai": "อย่าฆ่าคน", "rationale": "φονεύω → ฆ่าคน (glossary-established MRK 10:19, MAT 19:18, MAT 5:21)."},
+        {"greek": "Μὴ κλέψῃς", "thai": "อย่าลักทรัพย์", "rationale": "κλέπτω → ลักทรัพย์ (glossary-established MRK 10:19, MAT 19:18)."},
+        {"greek": "Μὴ ψευδομαρτυρήσῃς", "thai": "อย่าเป็นพยานเท็จ", "rationale": "ψευδομαρτυρέω → เป็นพยานเท็จ (glossary-established MRK 10:19, MAT 19:18)."},
+        {"greek": "Τίμα τὸν πατέρα σου καὶ τὴν μητέρα", "thai": "จงให้เกียรติบิดาและมารดาของเจ้า", "rationale": "τιμάω → ให้เกียรติ (glossary-established MRK 10:19 and MAT 15:4 for parent-honor context). σου singular per uW figs-youcrowd — preserve singular เจ้า since Moses addressed Israelites individually."}
+      ],
+      "notes": "OT CITATION: Exodus 20:12-16 || Deuteronomy 5:16-20 — the second-table Decalogue (human-horizontal commandments). Significant selection: Jesus quotes only the second table (commandments 6-9 + commandment 5 at the end), omitting the first-table commandments about God-relationship AND crucially omitting commandment 10 (οὐκ ἐπιθυμήσεις — 'do not covet') which would have cut directly to the ruler's coming-failure around wealth. The order (adultery-murder-steal-witness-honor) matches B LXX Deut 5 and some Nash Papyrus traditions, vs. MT order (murder-adultery-steal). ADDED TO NT_OT_CITATIONS: Luke 18:20 quotes Ex 20:12-16 / Deut 5:16-20 (second-table Decalogue)."
+    }
+  },
+  {
+    "reference": "Luke 18:21",
+    "chapter": 18,
+    "verse": 21,
+    "greek": "ὁ δὲ εἶπεν·Ταῦτα πάντα ἐφύλαξα ἐκ νεότητος μου.",
+    "bsb_english": "\"All these I have kept from my youth,\" he said.",
+    "translation": {
+      "thai": "แต่เขาทูลว่า «ทั้งหมดนี้ข้าพเจ้าได้ถือรักษามาตั้งแต่เยาว์วัย»",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "ἐφύλαξα", "thai": "ได้ถือรักษา", "rationale": "φυλάσσω aor 'keep, guard, observe (laws).' Thai ถือรักษา (hold+maintain) is the standard Thai Christian rendering for law-keeping (matches MRK 10:20 'ได้ถือรักษา')."},
+        {"greek": "ἐκ νεότητος μου", "thai": "ตั้งแต่เยาว์วัย", "rationale": "νεότης 'youth' — Per uW figs-abstractnouns: abstract-noun renderable as adjective. Thai เยาว์วัย (classical/formal register for 'young age') matches the ruler's formal self-presentation."}
+      ],
+      "notes": "The ruler's self-assessment is confident but partial — as Jesus' selection of commandments in v.20 implied, he's being tested only on the second-table Decalogue. His confidence about keeping these since youth sets up the trap Jesus will spring in v.22."
+    }
+  },
+  {
+    "reference": "Luke 18:22",
+    "chapter": 18,
+    "verse": 22,
+    "greek": "ἀκούσας δὲ ὁ Ἰησοῦς εἶπεν αὐτῷ·Ἔτι ἕν σοι λείπει·πάντα ὅσα ἔχεις πώλησον καὶ διάδος πτωχοῖς,καὶ ἕξεις θησαυρὸν ἐν οὐρανοῖς,καὶ δεῦρο ἀκολούθει μοι.",
+    "bsb_english": "On hearing this, Jesus told him, \"You still lack one thing: Sell everything you own and give to the poor, and you will have treasure in heaven. Then come, follow Me.\"",
+    "translation": {
+      "thai": "เมื่อพระเยซูทรงได้ยินเช่นนั้น ตรัสกับเขาว่า «ท่านยังขาดสิ่งหนึ่ง จงไปขายทุกสิ่งที่ท่านมีและแจกจ่ายแก่คนยากจน แล้วท่านจะมีทรัพย์สมบัติในสวรรค์ จากนั้นจงมาติดตามเรา»",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "Ἔτι ἕν σοι λείπει", "thai": "ท่านยังขาดสิ่งหนึ่ง", "rationale": "λείπω pres 'lack, be missing.' Thai ยังขาด + สิ่งหนึ่ง preserves the 'still missing one thing' force. Matches MRK 10:21 'ท่านยังขาดอยู่สิ่งหนึ่ง.'"},
+        {"greek": "πάντα ὅσα ἔχεις πώλησον", "thai": "จงไปขายทุกสิ่งที่ท่านมี", "rationale": "πωλέω aor-imp 'sell.' πάντα ὅσα ἔχεις 'all-that you-have' → ทุกสิ่งที่ท่านมี. Matches MRK 10:21 'จงไปขายทุกสิ่งที่ท่านมี' exactly for synoptic consistency."},
+        {"greek": "διάδος πτωχοῖς", "thai": "แจกจ่ายแก่คนยากจน", "rationale": "διαδίδωμι aor-imp 'distribute.' πτωχός → คนยากจน (glossary-established LUK 4:18, 6:20, 14:13, 21:3, MRK 10:21 pattern)."},
+        {"greek": "θησαυρὸν ἐν οὐρανοῖς", "thai": "ทรัพย์สมบัติในสวรรค์", "rationale": "θησαυρός → ทรัพย์สมบัติ (glossary-established LUK 12:33, 12:34; matches MRK 10:21 'ทรัพย์สมบัติในสวรรค์'). The plural οὐρανοῖς is Semitic idiom → singular สวรรค์ in Thai."},
+        {"greek": "δεῦρο ἀκολούθει μοι", "thai": "จงมาติดตามเรา", "rationale": "Per uW figs-metaphor: ἀκολουθέω of discipleship 'follow as disciple' (LUK 5:27 precedent). Thai จงมาติดตามเรา — discipleship-call formula throughout corpus."}
+      ],
+      "notes": "PARALLEL: MRK 10:21 || MAT 19:21. Mark adds ἠγάπησεν αὐτόν ('he loved him') which Luke and Matthew both omit — Luke's version is spare/direct. The call has three parts: (1) divest (sell+give), (2) invest (heavenly treasure), (3) apprentice (follow). The sequence is theological — discipleship is preceded by de-possession."
+    }
+  },
+  {
+    "reference": "Luke 18:23",
+    "chapter": 18,
+    "verse": 23,
+    "greek": "ὁ δὲ ἀκούσας ταῦτα περίλυπος ἐγενήθη,ἦν γὰρ πλούσιος σφόδρα.",
+    "bsb_english": "But when the ruler heard this, he became very sad, because he was extremely wealthy.",
+    "translation": {
+      "thai": "แต่เมื่อเขาได้ยินเช่นนั้น ก็เป็นทุกข์อย่างยิ่ง เพราะเขาเป็นคนมั่งมีมาก",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "περίλυπος ἐγενήθη", "thai": "เป็นทุกข์อย่างยิ่ง", "rationale": "περίλυπος 'very-sorrowful' (compound περί + λύπη intensifying). Thai เป็นทุกข์อย่างยิ่ง captures 'deeply-sorrowful.' Same word used of Jesus at Gethsemane (MRK 14:34 / MAT 26:38) — the intensity matters."},
+        {"greek": "πλούσιος σφόδρα", "thai": "คนมั่งมีมาก", "rationale": "πλούσιος → คนมั่งมี (glossary-established LUK 6:24, 16:1, 16:19, 21:1; matches MRK 10:22 'ทรัพย์สมบัติมากมาย' pattern but Luke uses πλούσιος adjective). σφόδρα 'exceedingly' → มาก."}
+      ],
+      "notes": "Luke's ἐγενήθη (became) vs MRK's aorist-middle ἀπῆλθεν λυπούμενος ('went away grieving') + MAT's aorist-pass ἀπῆλθεν λυπούμενος. Luke is unique in that he doesn't explicitly say the ruler 'went away' — leaving the scene unfinished. This is a Lukan signature — the ruler's response is paused mid-sadness, and Jesus' commentary to the disciples (vv.24-30) continues as if the ruler may still be within earshot."
+    }
+  },
+  {
+    "reference": "Luke 18:24",
+    "chapter": 18,
+    "verse": 24,
+    "greek": "Ἰδὼν δὲ αὐτὸν ὁ Ἰησοῦς εἶπεν·Πῶς δυσκόλως οἱ τὰ χρήματα ἔχοντες εἰς τὴν βασιλείαν τοῦ θεοῦ εἰσπορεύονται·",
+    "bsb_english": "Seeing the man's sadness, Jesus said, \"How hard it is for the rich to enter the kingdom of God!",
+    "translation": {
+      "thai": "พระเยซูทอดพระเนตรเห็นเขาแล้วตรัสว่า «คนที่มีทรัพย์สมบัติจะเข้าในอาณาจักรของพระเจ้ายากเย็นเพียงใด!",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "Ἰδὼν δὲ αὐτὸν ὁ Ἰησοῦς", "thai": "พระเยซูทอดพระเนตรเห็นเขา", "rationale": "TEXTUAL VARIANT: Per uW translate-textvariants: many manuscripts add περίλυπον γενόμενον ('having-become-sad') here → 'seeing him having become sad.' SBLGNT omits (following א B L). BSB 'Seeing the man's sadness' translates the longer reading; we follow SBLGNT's shorter reading. The context (v.23) already establishes his sadness, so nothing significant is lost."},
+        {"greek": "Πῶς δυσκόλως ... εἰσπορεύονται", "thai": "จะเข้า...ยากเย็นเพียงใด!", "rationale": "Per uW figs-exclamations: πῶς δυσκόλως = exclamation not question ('how-difficultly!'). Thai ยากเย็นเพียงใด! preserves the exclamatory intensity. Matches MRK 10:23 style."},
+        {"greek": "οἱ τὰ χρήματα ἔχοντες", "thai": "คนที่มีทรัพย์สมบัติ", "rationale": "χρήματα 'money/possessions/wealth' (plural substantive). Thai ทรัพย์สมบัติ consistent with v.22 θησαυρόν rendering and with MRK 10:23 'คนมั่งมี' pattern."}
+      ],
+      "notes": "TEXTUAL VARIANT: SBLGNT omits περίλυπον γενόμενον (Byz/some Alex add); we follow SBLGNT. This is not a translation-meaning-affecting variant (the sadness is already in v.23) but worth flagging. PARALLEL: MRK 10:23 || MAT 19:23. Jesus' commentary picks up the earlier reversal-principle (v.14) in concrete form: wealth creates entry-barrier to kingdom."
+    }
+  },
+  {
+    "reference": "Luke 18:25",
+    "chapter": 18,
+    "verse": 25,
+    "greek": "εὐκοπώτερον γάρ ἐστιν κάμηλον διὰ τρήματος βελόνης εἰσελθεῖν ἢ πλούσιον εἰς τὴν βασιλείαν τοῦ θεοῦ εἰσελθεῖν.",
+    "bsb_english": "Indeed, it is easier for a camel to pass through the eye of a needle than for a rich man to enter the kingdom of God.\"",
+    "translation": {
+      "thai": "เพราะอูฐลอดรูเข็มก็ยังง่ายกว่าที่คนมั่งมีจะเข้าในอาณาจักรของพระเจ้า»",
+      "thai_literal": null,
+      "thai_summary": "คำพูดนี้เป็นการพูดเกินจริง (ไฮเปอร์โบเล) ในรูปแบบของแรบไบ เพื่อเน้นความเป็นไปไม่ได้อย่างสิ้นเชิง ไม่ใช่คำอธิบายเกี่ยวกับประตูเล็กในกรุงเยรูซาเล็มที่เรียกว่า «ประตูเข็ม» (นั่นเป็นเรื่องเล่าที่สร้างขึ้นในยุคกลาง ไม่มีหลักฐานในศตวรรษที่หนึ่ง) ประเด็นคือ: ด้วยตัวของคนรวยเอง การเข้าอาณาจักรพระเจ้าเป็นไปไม่ได้ — เหมือนอูฐลอดรูเข็มจริง ๆ",
+      "key_decisions": [
+        {"greek": "κάμηλον", "thai": "อูฐ", "rationale": "κάμηλος → อูฐ (glossary-established MRK 10:25, MAT 19:24, MAT 23:24; camel hyperbole-image). Per uW translate-unknown: if audience unfamiliar, substitute large-beast-of-burden — but Thai readers know อูฐ."},
+        {"greek": "τρήματος βελόνης", "thai": "รูเข็ม", "rationale": "HAPAX-DOUBLE: τρῆμα (NT hapax, Luke only) + βελόνη (NT hapax — Luke's medical term; MRK/MAT use rarer ῥαφίς). Thai รูเข็ม ('hole of needle') glossary-established MRK 10:25, MAT 19:24. The hapax doubling is Luke's distinctive lexical choice — Luke the physician uses the medical-instrument term βελόνη rather than the sewing ῥαφίς. HAPAX NOTE: τρῆμα + βελόνη mark Luke's physician's vocabulary."},
+        {"greek": "εὐκοπώτερον γάρ ἐστιν", "thai": "เพราะ...ก็ยังง่ายกว่า", "rationale": "εὐκοπώτερον comparative of εὔκοπος 'easy.' Per uW figs-hyperbole: extreme comparison. Thai ก็ยังง่ายกว่า preserves the comparative hyperbole."}
+      ],
+      "notes": "HAPAX-DOUBLE: τρῆμα + βελόνη are both NT-hapax, specific to Luke's version. τρῆμα 'hole/perforation' from τιτράω 'to bore.' βελόνη 'needle' = medical/surgical-needle (Luke's physician vocabulary) vs MRK/MAT ῥαφίς 'sewing-needle.' PARALLEL: MRK 10:25 || MAT 19:24. The medieval 'Needle Gate in Jerusalem' etymology (a small gate camels must stoop through) has no first-century evidence — it is a 9th-century exegetical harmonization. The saying is hyperbole for impossibility (made explicit by v.27)."
+    }
+  },
+  {
+    "reference": "Luke 18:26",
+    "chapter": 18,
+    "verse": 26,
+    "greek": "Εἶπαν δὲ οἱ ἀκούσαντες·Καὶ τίς δύναται σωθῆναι;",
+    "bsb_english": "Those who heard this asked, \"Who then can be saved?\"",
+    "translation": {
+      "thai": "ผู้ที่ได้ยินจึงถามว่า «ถ้าเช่นนั้น ใครจะรอดได้?»",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "Καὶ τίς δύναται σωθῆναι", "thai": "ถ้าเช่นนั้น ใครจะรอดได้?", "rationale": "Per uW figs-rquestion: likely rhetorical-exclamation expressing surprise rather than genuine question. Thai ถ้าเช่นนั้น...? captures the 'in-that-case-who-possibly?' force. Matches MRK 10:26 'ถ้าเช่นนั้นใครจะรอดได้.' σώζω → รอด (glossary-standard)."}
+      ],
+      "notes": "PARALLEL: MRK 10:26 || MAT 19:25. The disciples' surprise reflects the Jewish cultural assumption that wealth = divine blessing (Deut 28). If even the blessed-rich can't enter, who can? — the question exposes the works-based framework that Jesus is dismantling."
+    }
+  },
+  {
+    "reference": "Luke 18:27",
+    "chapter": 18,
+    "verse": 27,
+    "greek": "ὁ δὲ εἶπεν·Τὰ ἀδύνατα παρὰ ἀνθρώποις δυνατὰ παρὰ τῷ θεῷ ἐστιν.",
+    "bsb_english": "But Jesus said, \"What is impossible with man is possible with God.\"",
+    "translation": {
+      "thai": "พระองค์ตรัสว่า «สิ่งที่เป็นไปไม่ได้สำหรับมนุษย์นั้น เป็นไปได้สำหรับพระเจ้า»",
+      "thai_literal": null,
+      "thai_summary": "พระเยซูทรงสรุปว่าความรอดไม่ใช่ผลของความพยายามของมนุษย์ — ไม่ว่าจะเป็นการรักษาพระบัญญัติ การบริจาค หรือการถวายตัว ความรอดเป็นพระราชกิจของพระเจ้าเพียงผู้เดียว การที่คนมั่งมีจะละทิ้งทรัพย์สมบัติและเข้าอาณาจักรเป็นเรื่องเป็นไปไม่ได้หากพิจารณาจากธรรมชาติมนุษย์ แต่เมื่อพระเจ้าทรงทำงานในใจของผู้คน สิ่งที่ดูเป็นไปไม่ได้ก็เกิดขึ้นได้",
+      "key_decisions": [
+        {"greek": "Τὰ ἀδύνατα παρὰ ἀνθρώποις", "thai": "สิ่งที่เป็นไปไม่ได้สำหรับมนุษย์", "rationale": "Per uW figs-nominaladj: ἀδύνατα 'impossible-things' (neuter plural substantive). Thai สิ่งที่เป็นไปไม่ได้ preserves the substantive-adjectival force. παρά + dat 'with/for/in the view of' → สำหรับ."},
+        {"greek": "δυνατὰ παρὰ τῷ θεῷ", "thai": "เป็นไปได้สำหรับพระเจ้า", "rationale": "Parallel structure to first clause. Thai maintains parallelism. Matches MRK 10:27 'เป็นไปได้สำหรับพระเจ้า' pattern."}
+      ],
+      "notes": "PARALLEL: MRK 10:27 || MAT 19:26. The aphorism connects back to the Annunciation (LUK 1:37 'οὐκ ἀδυνατήσει παρὰ τοῦ θεοῦ πᾶν ῥῆμα' — nothing will be impossible with God). Luke's theological inclusio: what God did at Incarnation (impossible-virgin-birth) he does at salvation (impossible-rich-entering-kingdom). OT background possibly: Gen 18:14 (הֲיִפָּלֵא מֵיהוָה דָּבָר)."
+    }
+  },
+  {
+    "reference": "Luke 18:28",
+    "chapter": 18,
+    "verse": 28,
+    "greek": "Εἶπεν δὲ ὁ Πέτρος·Ἰδοὺ ἡμεῖς ἀφέντες τὰ ἴδια ἠκολουθήσαμέν σοι.",
+    "bsb_english": "\"Look,\" said Peter, \"we have left all we had to follow You.\"",
+    "translation": {
+      "thai": "เปโตรทูลว่า «ดูเถิด พวกข้าพระองค์ได้ละทิ้งสิ่งของของตนและได้ติดตามพระองค์»",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "Ἰδοὺ", "thai": "ดูเถิด", "rationale": "Per uW figs-metaphor: ἰδού 'behold!' attention-getter. Thai ดูเถิด (glossary-standard for ἰδού)."},
+        {"greek": "ἡμεῖς ἀφέντες τὰ ἴδια", "thai": "พวกข้าพระองค์ได้ละทิ้งสิ่งของของตน", "rationale": "TEXTUAL VARIANT: SBLGNT/NA28 read τὰ ἴδια ('one's own [things]'); Byzantine/TR read πάντα ('everything') — ULT follows the πάντα reading with footnote. BSB renders 'all we had' (reading-ambiguous, but defensible for τὰ ἴδια 'our-own-things'). We follow SBLGNT τὰ ἴδια. Thai สิ่งของของตน ('things of [our] own') preserves the possessive-specific reading. Per uW figs-exclusive: ἡμεῖς excludes Jesus from reference — Thai พวกข้าพระองค์ (1st-pl humble register, disciples addressing Lord) naturally excludes."},
+        {"greek": "ἠκολουθήσαμέν σοι", "thai": "ได้ติดตามพระองค์", "rationale": "Per uW figs-metaphor: follow = become disciple. Thai ได้ติดตามพระองค์ (glossary-standard for ἀκολουθέω-as-discipleship)."}
+      ],
+      "notes": "PARALLEL: MRK 10:28 || MAT 19:27. TEXTUAL VARIANT: SBLGNT τὰ ἴδια vs Byz πάντα. We follow SBLGNT/NA28 shorter reading. The difference is theological-pragmatic: τὰ ἴδια ('our own') emphasizes that they left what was theirs — personally and individually — while πάντα ('everything') is more absolute. Both preserve the sacrificial-abandonment point. Per uW note: Peter and the disciples did in fact leave everything; no hyperbole either way."
+    }
+  },
+  {
+    "reference": "Luke 18:29",
+    "chapter": 18,
+    "verse": 29,
+    "greek": "ὁ δὲ εἶπεν αὐτοῖς·Ἀμὴν λέγω ὑμῖν ὅτι οὐδείς ἐστιν ὃς ἀφῆκεν οἰκίαν ἢ γυναῖκα ἢ ἀδελφοὺς ἢ γονεῖς ἢ τέκνα ἕνεκεν τῆς βασιλείας τοῦ θεοῦ,",
+    "bsb_english": "\"Truly I tell you,\" Jesus replied, \"no one who has left home or wife or brothers or parents or children for the sake of the kingdom of God",
+    "translation": {
+      "thai": "พระองค์ตรัสกับพวกเขาว่า «เราบอกความจริงแก่พวกท่านว่า ไม่มีผู้ใดที่ได้ละทิ้งบ้านเรือน ภรรยา พี่น้อง บิดามารดา หรือบุตร เพราะเห็นแก่อาณาจักรของพระเจ้า",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "οὐδείς ἐστιν ὃς ἀφῆκεν", "thai": "ไม่มีผู้ใดที่ได้ละทิ้ง", "rationale": "Per uW figs-doublenegatives: double-negative statement spanning v.29-30. We render in Thai as negative + positive-conclusion form (ไม่มี ... ที่จะไม่ได้รับ = 'there is no one ... who will not receive'), preserving the biblical emphatic-double-negative. ἀφίημι aor-act 'leave, forsake' → ได้ละทิ้ง."},
+        {"greek": "οἰκίαν ἢ γυναῖκα ἢ ἀδελφοὺς ἢ γονεῖς ἢ τέκνα", "thai": "บ้านเรือน ภรรยา พี่น้อง บิดามารดา หรือบุตร", "rationale": "List of abandoned attachments. Luke's list distinctive: includes γυναῖκα (wife, absent in MRK 10:29, MAT 19:29) + γονεῖς 'parents' (MRK/MAT split to πατέρα/μητέρα). Thai preserves the exact Lucan list. Note: Matt 19:29 and Mark 10:29 list 'sisters' too, which Luke compresses to 'brothers' only (ἀδελφούς, masc-plural could include sisters in generic masc)."},
+        {"greek": "ἕνεκεν τῆς βασιλείας τοῦ θεοῦ", "thai": "เพราะเห็นแก่อาณาจักรของพระเจ้า", "rationale": "ἕνεκεν + gen 'for the sake of.' Luke: 'kingdom of God' motive; MRK: 'for my-sake and the gospel's' (MRK 10:29); MAT: 'for my name's sake' (MAT 19:29). Each evangelist's phrasing marks their Christology. Thai เพราะเห็นแก่ preserves the causal-purpose force."}
+      ],
+      "notes": "PARALLEL: MRK 10:29 || MAT 19:29. Luke's list-variations: (a) includes γυναῖκα (wife) uniquely — controversial; some harmonize with 1 Cor 9:5's 'right to take along a sister-wife'; others read it as Luke's emphasis on discipleship-overriding-marriage (cf. LUK 14:26); (b) uses γονεῖς (parents) compressed. Luke's 'kingdom of God' motivation vs MRK's 'gospel'/MAT's 'my name' — three gospels, three Christologies of the motive-ground for discipleship-sacrifice."
+    }
+  },
+  {
+    "reference": "Luke 18:30",
+    "chapter": 18,
+    "verse": 30,
+    "greek": "ὃς οὐχὶ μὴ ἀπολάβῃ πολλαπλασίονα ἐν τῷ καιρῷ τούτῳ καὶ ἐν τῷ αἰῶνι τῷ ἐρχομένῳ ζωὴν αἰώνιον.",
+    "bsb_english": "will fail to receive many times more in this age—and in the age to come, eternal life.\"",
+    "translation": {
+      "thai": "ที่จะไม่ได้รับมากหลายเท่าในยุคนี้ และในยุคที่จะมาถึงจะได้รับชีวิตนิรันดร์»",
+      "thai_literal": null,
+      "thai_summary": "คำสอนของพระเยซูเกี่ยวกับรางวัลของผู้ติดตามพระองค์นำเสนอสองมิติ — «ยุคนี้» (ปัจจุบัน) และ «ยุคที่จะมาถึง» (อนาคต) เมื่อพระเจ้าทรงครอบครอง การได้รับ «มากหลายเท่า» ในยุคนี้หมายถึงการมีครอบครัวฝ่ายจิตวิญญาณ — ชุมชนของผู้เชื่อที่เข้ามาแทนครอบครัวทางเนื้อหนังที่ละทิ้ง ไม่ใช่ทรัพย์สมบัติเนื้อหนังที่เพิ่มพูนขึ้น",
+      "key_decisions": [
+        {"greek": "ὃς οὐχὶ μὴ ἀπολάβῃ", "thai": "ที่จะไม่ได้รับ", "rationale": "Per uW figs-doublenegatives: completion of the double-negative from v.29. οὐχὶ μή + aor-subj emphatic-negation — but the whole sentence (v.29 negative + v.30 negative) yields positive meaning ('everyone who leaves ... will receive'). Thai ที่จะไม่ได้รับ preserves the emphatic-negation that completes the double-negation positively."},
+        {"greek": "πολλαπλασίονα", "thai": "มากหลายเท่า", "rationale": "HAPAX: πολλαπλασίων (NT-hapax, Luke only) 'many-times-over / manifold.' MRK 10:30 uses ἑκατονταπλασίονα ('hundredfold'), MAT 19:29 uses πολλαπλασίονα (also, some manuscripts ἑκατονταπλασίονα). Luke's word is the less-specific 'many-fold' without the hundredfold specificity. Thai มากหลายเท่า preserves the indefinite-multiplicity sense. HAPAX NOTE: πολλαπλασίων (NT-hapax Luke 18:30)."},
+        {"greek": "ἐν τῷ καιρῷ τούτῳ ... ἐν τῷ αἰῶνι τῷ ἐρχομένῳ", "thai": "ในยุคนี้ ... ในยุคที่จะมาถึง", "rationale": "Per uW figs-metonymy: both καιρός and αἰών here = 'age / world-period.' Thai ยุค covers both without over-distinguishing. The two-ages scheme is classic Jewish apocalyptic (העוֹלָם הַזֶּה vs הָעוֹלָם הַבָּא)."},
+        {"greek": "ζωὴν αἰώνιον", "thai": "ชีวิตนิรันดร์", "rationale": "ζωὴ αἰώνιος → ชีวิตนิรันดร์ (glossary-established, matches v.18's rendering)."}
+      ],
+      "notes": "HAPAX: πολλαπλασίων is NT-hapax (only here). PARALLEL: MRK 10:30 || MAT 19:29. Luke's πολλαπλασίων 'manifold' avoids MRK's specific ἑκατονταπλασίονα 'hundredfold' — softer, less specific. MRK 10:30 unique mention of 'with persecutions' (Luke/Matt omit). Two-ages scheme: καιρός τούτος / αἰὼν ὁ ἐρχόμενος (cf. LUK 16:8 discussion of αἰών; LUK 20:34-35 'sons of this age'/'age to come')."
+    }
+  },
+  {
+    "reference": "Luke 18:31",
+    "chapter": 18,
+    "verse": 31,
+    "greek": "Παραλαβὼν δὲ τοὺς δώδεκα εἶπεν πρὸς αὐτούς·Ἰδοὺ ἀναβαίνομεν εἰς Ἰερουσαλήμ,καὶ τελεσθήσεται πάντα τὰ γεγραμμένα διὰ τῶν προφητῶν τῷ υἱῷ τοῦ ἀνθρώπου·",
+    "bsb_english": "Then Jesus took the Twelve aside and said to them, \"Look, we are going up to Jerusalem, and everything the prophets have written about the Son of Man will be fulfilled.",
+    "translation": {
+      "thai": "พระเยซูทรงนำสาวกทั้งสิบสองไปข้างเดียวและตรัสกับพวกเขาว่า «ดูเถิด พวกเรากำลังขึ้นไปยังกรุงเยรูซาเล็ม และทุกสิ่งที่พวกผู้เผยพระวจนะได้เขียนเกี่ยวกับบุตรมนุษย์จะสำเร็จ",
+      "thai_literal": null,
+      "thai_summary": "นี่คือคำทำนายความทุกข์ทรมานครั้งที่สามของพระเยซู (ดู ลก 9:22; 9:44) แต่ครั้งนี้ชัดเจนและรายละเอียดที่สุด พระองค์ทรงเน้นว่าความตายของพระองค์ไม่ใช่เหตุการณ์ที่บังเอิญ แต่เป็นการสำเร็จของคำทำนายในพันธสัญญาเดิม (เช่น อสย 53; สดด 22; เศค 12:10) กรุงเยรูซาเล็มกลายเป็นเป้าหมายของการเดินทางยาวของพระองค์จาก ลก 9:51",
+      "key_decisions": [
+        {"greek": "Παραλαβὼν τοὺς δώδεκα", "thai": "ทรงนำสาวกทั้งสิบสองไปข้างเดียว", "rationale": "παραλαμβάνω 'take aside.' Per uW alt-translation: 'took to a place away from other people where they would be alone.' τοὺς δώδεκα = the-Twelve — Per uW figs-nominaladj: substantive-adjective for apostolic group. Thai สาวกทั้งสิบสอง (glossary-established)."},
+        {"greek": "Ἰδοὺ ἀναβαίνομεν εἰς Ἰερουσαλήμ", "thai": "ดูเถิด พวกเรากำลังขึ้นไปยังกรุงเยรูซาเล็ม", "rationale": "ἀναβαίνω 'go up' — elevation idiom (Jerusalem is on mountain). Ἰερουσαλήμ → กรุงเยรูซาเล็ม (glossary-established). The ἀναβαίνομεν (present-indicative 1pl) marks the imminent arrival — Luke's travel narrative climax."},
+        {"greek": "τελεσθήσεται πάντα τὰ γεγραμμένα διὰ τῶν προφητῶν", "thai": "ทุกสิ่งที่พวกผู้เผยพระวจนะได้เขียน ... จะสำเร็จ", "rationale": "Per uW figs-activepassive: both passives (τελεσθήσεται + γεγραμμένα). τελέω fut-pass 'be-fulfilled/completed.' Thai สำเร็จ standard for prophetic-fulfillment. προφήτης → ผู้เผยพระวจนะ (glossary-established). γέγραπται/γεγραμμένα rendered with ได้เขียน (written-as-done)."}
+      ],
+      "notes": "THIRD PASSION PREDICTION (Luke): following LUK 9:22 (first, general) and LUK 9:44 (second, brief), now the most detailed. Luke 9:51 began the travel narrative to Jerusalem; here, at ch.18, the destination becomes explicit and imminent. PROPHETIC FULFILLMENT: 'everything written by the prophets' — OT texts typically invoked: Isa 53 (suffering servant), Pss 22, 69 (rejection/mocking/death), Zech 12:10, 13:7. This is a collective-fulfillment claim, not a single-text citation. No specific nt_ot_citations.json entry — the claim is general/fulfillment-principle, not a quoted OT verse."
+    }
+  },
+  {
+    "reference": "Luke 18:32",
+    "chapter": 18,
+    "verse": 32,
+    "greek": "παραδοθήσεται γὰρ τοῖς ἔθνεσιν καὶ ἐμπαιχθήσεται καὶ ὑβρισθήσεται καὶ ἐμπτυσθήσεται,",
+    "bsb_english": "He will be delivered over to the Gentiles and will be mocked and insulted and spit upon.",
+    "translation": {
+      "thai": "เพราะพระองค์จะทรงถูกมอบไว้กับคนต่างชาติ จะถูกเยาะเย้ย ถูกดูหมิ่น และถูกถ่มน้ำลายรด",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "παραδοθήσεται τοῖς ἔθνεσιν", "thai": "จะทรงถูกมอบไว้กับคนต่างชาติ", "rationale": "Per uW figs-activepassive: passive of παραδίδωμι 'hand over / deliver over' — established LUK 9:44 'จะต้องถูกมอบไว้ในมือมนุษย์' pattern. Per uW figs-metonymy: ἔθνεσιν = Roman authorities (Gentile court). Thai คนต่างชาติ is the glossary-established rendering of ἔθνη for non-Jewish groups. ทรง-prefix for divine subject (RULES.md §3)."},
+        {"greek": "ἐμπαιχθήσεται", "thai": "ถูกเยาะเย้ย", "rationale": "ἐμπαίζω fut-pass 'be mocked.' Thai ถูกเยาะเย้ย (glossary-established MRK 10:34, 15:20)."},
+        {"greek": "ὑβρισθήσεται", "thai": "ถูกดูหมิ่น", "rationale": "ὑβρίζω fut-pass 'be insulted/treated with contempt.' Thai ถูกดูหมิ่น distinguished from ถูกเยาะเย้ย — different act (contempt-treatment vs. mocking-speech). Luke-distinctive: MRK 10:34 omits ὑβρισθήσεται."},
+        {"greek": "ἐμπτυσθήσεται", "thai": "ถูกถ่มน้ำลายรด", "rationale": "ἐμπτύω fut-pass 'be spat upon.' Thai ถูกถ่มน้ำลายรด (glossary-established MRK 10:34, 14:65, 15:19)."}
+      ],
+      "notes": "Luke-distinctive inclusion of ὑβρισθήσεται (MRK omits). Luke's triplet (mock-insult-spit) emphasizes the public-shaming aspect of the passion — shame-honor culture dimension. PARALLEL: MRK 10:33-34 || MAT 20:18-19."
+    }
+  },
+  {
+    "reference": "Luke 18:33",
+    "chapter": 18,
+    "verse": 33,
+    "greek": "καὶ μαστιγώσαντες ἀποκτενοῦσιν αὐτόν,καὶ τῇ ἡμέρᾳ τῇ τρίτῃ ἀναστήσεται.",
+    "bsb_english": "They will flog Him and kill Him, and on the third day He will rise again.\"",
+    "translation": {
+      "thai": "พวกเขาจะโบยพระองค์แล้วฆ่าพระองค์ และในวันที่สามพระองค์จะทรงเป็นขึ้นมาใหม่»",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "μαστιγώσαντες", "thai": "โบย", "rationale": "μαστιγόω aor-ptc 'scourge/flog.' Thai โบย (glossary-established MRK 10:34, MAT 20:19)."},
+        {"greek": "ἀποκτενοῦσιν αὐτόν", "thai": "ฆ่าพระองค์", "rationale": "ἀποκτείνω fut 'kill.' Thai ฆ่า (standard). ทรง- not applied to the object of killing (pronoun αὐτόν = Him — the honorific is marked by 'พระองค์' itself)."},
+        {"greek": "τῇ ἡμέρᾳ τῇ τρίτῃ ἀναστήσεται", "thai": "ในวันที่สามพระองค์จะทรงเป็นขึ้นมาใหม่", "rationale": "Per uW figs-metonymy: ἀνίστημι 'rise up' = come back to life. Thai ทรงเป็นขึ้นมาใหม่ (divine subject + resurrection idiom; glossary-established MRK 10:34, LUK 9:22)."}
+      ],
+      "notes": "PARALLEL: MRK 10:34 || MAT 20:19. Luke preserves the Semitic idiom 'on the third day' (inclusive counting: Friday-Saturday-Sunday = three days per first-century Jewish reckoning). Per uW translate-ordinal: some languages may need cardinal adaptation — Thai วันที่สาม preserves ordinal without ambiguity."
+    }
+  },
+  {
+    "reference": "Luke 18:34",
+    "chapter": 18,
+    "verse": 34,
+    "greek": "καὶ αὐτοὶ οὐδὲν τούτων συνῆκαν,καὶ ἦν τὸ ῥῆμα τοῦτο κεκρυμμένον ἀπ’αὐτῶν,καὶ οὐκ ἐγίνωσκον τὰ λεγόμενα.",
+    "bsb_english": "But the disciples did not understand any of these things. The meaning was hidden from them, and they did not comprehend what He was saying.",
+    "translation": {
+      "thai": "แต่พวกเขาไม่เข้าใจสิ่งเหล่านี้เลย คำนี้ถูกซ่อนไว้จากพวกเขา และเขาทั้งหลายไม่รู้ความหมายของสิ่งที่พระองค์ตรัส",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "οὐδὲν τούτων συνῆκαν", "thai": "ไม่เข้าใจสิ่งเหล่านี้เลย", "rationale": "συνίημι aor 'understand, comprehend.' Double negation structure (οὐδέν + neg-reinforcement). Thai ไม่เข้าใจ...เลย triple-marks total lack of comprehension."},
+        {"greek": "ἦν τὸ ῥῆμα τοῦτο κεκρυμμένον ἀπ’αὐτῶν", "thai": "คำนี้ถูกซ่อนไว้จากพวกเขา", "rationale": "Per uW figs-activepassive: passive (divine-passive implied — God as hiding-agent). Thai ถูกซ่อนไว้ preserves passive voice; the divine-agent is contextually inferred but not made explicit (following Luke's narrative mystery)."},
+        {"greek": "τὸ ῥῆμα τοῦτο", "thai": "คำนี้", "rationale": "Per uW note: ῥῆμα here = 'saying, utterance' (specific sense). Thai คำ captures the saying-sense."},
+        {"greek": "τὰ λεγόμενα", "thai": "ความหมายของสิ่งที่พระองค์ตรัส", "rationale": "Per uW figs-activepassive: τὰ λεγόμενα 'the things being said' (pres-pass-ptc-substantive). Thai expanded to สิ่งที่พระองค์ตรัส + ความหมาย (what was said + meaning-thereof) to preserve the 'not comprehending the meaning' sense."}
+      ],
+      "notes": "Triple restatement (did not understand + hidden + did not comprehend) emphasizes the disciples' total failure of comprehension. Luke-distinctive: MRK omits this, MAT 20:17-19 is briefer. The disciples' incomprehension is a Lucan theme (cf. LUK 9:45 same trope after second prediction). The divine-passive κεκρυμμένον suggests intentional-divine-veiling until the resurrection (cf. LUK 24:25-27, where Jesus post-resurrection opens scripture to them)."
+    }
+  },
+  {
+    "reference": "Luke 18:35",
+    "chapter": 18,
+    "verse": 35,
+    "greek": "Ἐγένετο δὲ ἐν τῷ ἐγγίζειν αὐτὸν εἰς Ἰεριχὼ τυφλός τις ἐκάθητο παρὰ τὴν ὁδὸν ἐπαιτῶν.",
+    "bsb_english": "As Jesus drew near to Jericho, a blind man was sitting beside the road, begging.",
+    "translation": {
+      "thai": "เมื่อพระเยซูเสด็จเข้าใกล้เมืองเยรีโค มีชายตาบอดคนหนึ่งนั่งขอทานอยู่ริมทาง",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "Ἐγένετο δὲ ἐν τῷ ἐγγίζειν αὐτὸν", "thai": "เมื่อพระเยซูเสด็จเข้าใกล้", "rationale": "Classic Lucan ἐγένετο-in-articular-inf construction (Septuagintism, Luke's narrative signature). Per uW writing-newevent: event-introducer. Thai เมื่อ + เสด็จ (divine-subject motion verb). Named subject (พระเยซู) for clarity since αὐτόν pronoun refers back."},
+        {"greek": "Ἰεριχὼ", "thai": "เมืองเยรีโค", "rationale": "Ἰεριχώ → เมืองเยรีโค (glossary-established LUK 10:30, MRK 10:46)."},
+        {"greek": "τυφλός τις", "thai": "ชายตาบอดคนหนึ่ง", "rationale": "Per uW writing-participants: introduces new character. τυφλός → ตาบอด (glossary-established throughout corpus). τις indefinite → คนหนึ่ง."},
+        {"greek": "ἐπαιτῶν", "thai": "ขอทาน", "rationale": "ἐπαιτέω 'beg' — rare (LUK 18:35; 16:3). Thai ขอทาน (natural Thai for begging)."}
+      ],
+      "notes": "PARALLEL: MRK 10:46 || MAT 20:29-34 (Matthew doubles to two blind men). LOCATION DISCREPANCY: Luke says 'as Jesus drew near to Jericho'; Mark/Matthew say 'as they were leaving Jericho.' Classic Synoptic crux — possible resolutions: (1) Old-Jericho + New-Jericho (two nearby sites); (2) Luke telescopes narrative (healing on approach, healing summary as leaving); (3) different event than Bartimaeus. We translate Luke's text as-given without harmonization. Luke omits the name Bartimaeus (MRK 10:46) — typical Luke reducing specific-naming."
+    }
+  },
+  {
+    "reference": "Luke 18:36",
+    "chapter": 18,
+    "verse": 36,
+    "greek": "ἀκούσας δὲ ὄχλου διαπορευομένου ἐπυνθάνετο τί εἴη τοῦτο·",
+    "bsb_english": "When he heard the crowd going by, he asked what was happening.",
+    "translation": {
+      "thai": "เมื่อเขาได้ยินเสียงฝูงชนเดินผ่านมา เขาจึงถามว่าเกิดอะไรขึ้น",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "ὄχλου διαπορευομένου", "thai": "เสียงฝูงชนเดินผ่านมา", "rationale": "ὄχλος → ฝูงชน (glossary-standard). διαπορεύομαι 'pass through/by' → เดินผ่านมา. Added เสียง (sound) since the blind man perceives the crowd by ear, implicit but helpful for Thai readers."},
+        {"greek": "ἐπυνθάνετο τί εἴη τοῦτο", "thai": "เขาจึงถามว่าเกิดอะไรขึ้น", "rationale": "Per uW alt: 'what was happening.' πυνθάνομαι 'inquire' → ถาม. Optative εἴη in indirect question preserved in Thai as naturally-phrased question-embedded statement."}
+      ],
+      "notes": "The blind man's awareness of crowd-commotion by ear (sensorium reversal — he cannot see but can hear) is the narrative setup for his faith-through-hearing response."
+    }
+  },
+  {
+    "reference": "Luke 18:37",
+    "chapter": 18,
+    "verse": 37,
+    "greek": "ἀπήγγειλαν δὲ αὐτῷ ὅτι Ἰησοῦς ὁ Ναζωραῖος παρέρχεται.",
+    "bsb_english": "\"Jesus of Nazareth is passing by,\" they told him.",
+    "translation": {
+      "thai": "พวกเขาบอกเขาว่า «พระเยซูชาวนาซาเร็ธกำลังเสด็จผ่านมา»",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "Ἰησοῦς ὁ Ναζωραῖος", "thai": "พระเยซูชาวนาซาเร็ธ", "rationale": "Ναζωραῖος → ชาวนาซาเร็ธ (glossary-established LUK 4:34, MRK 10:47 — Thai Christian standard for Nazarene epithet). Per uW translate-names."},
+        {"greek": "παρέρχεται", "thai": "กำลังเสด็จผ่านมา", "rationale": "παρέρχομαι pres 'pass by.' เสด็จ (divine motion) per RULES.md §3."}
+      ],
+      "notes": "Ναζωραῖος vs Ναζαρηνός: Luke uses both (Ναζαρηνός at LUK 4:34, 24:19; Ναζωραῖος here at 18:37). Most scholarly analysis treats them as variant adjective-forms with the same referent (from Nazareth), though some argue Ναζωραῖος may carry messianic-nazir overtones (cf. Matt 2:23 citation debate). Thai ชาวนาซาเร็ธ covers both forms."
+    }
+  },
+  {
+    "reference": "Luke 18:38",
+    "chapter": 18,
+    "verse": 38,
+    "greek": "καὶ ἐβόησεν λέγων·Ἰησοῦ υἱὲ Δαυίδ,ἐλέησόν με.",
+    "bsb_english": "So he called out, \"Jesus, Son of David, have mercy on me!\"",
+    "translation": {
+      "thai": "เขาจึงร้องขึ้นว่า «พระเยซู บุตรดาวิด ขอทรงพระเมตตาข้าพระองค์เถิด»",
+      "thai_literal": null,
+      "thai_summary": "«บุตรดาวิด» เป็นตำแหน่งของพระเมสสิยาห์ตามพันธสัญญาของพระเจ้าที่ให้แก่ดาวิด (2 ซมอ 7:12-16; อสย 11:1; ยรม 23:5) — พระเจ้าทรงสัญญาว่าจะมีเชื้อสายของดาวิดที่จะปกครองตลอดไป ชายตาบอดผู้นี้ แม้จะมองไม่เห็นด้วยตาเนื้อ แต่มองเห็นพระเยซูด้วยตาใจว่าทรงเป็นพระเมสสิยาห์ ซึ่งเป็นเรื่องน่าขัดแย้งกับขุนนางผู้มั่งมี (ข้อ 18-23) ที่มีตาแต่มองไม่เห็น",
+      "key_decisions": [
+        {"greek": "υἱὲ Δαυίδ", "thai": "บุตรดาวิด", "rationale": "Per uW figs-metaphor: υἱός here = 'descendant' of David. Per uW figs-explicit: implicit messianic title (God promised a son-of-David who would be the Messiah). Thai บุตรดาวิด (glossary-established MRK 10:47, MAT 9:27, 20:30 etc.). Δαυίδ → ดาวิด (glossary-established)."},
+        {"greek": "ἐλέησόν με", "thai": "ขอทรงพระเมตตาข้าพระองค์เถิด", "rationale": "ἐλεέω aor-imp 'have mercy.' Per uW figs-imperative: render as polite request (ขอ... เถิด). Per uW figs-explicit: implicitly requesting healing. Thai ขอทรงพระเมตตา + ข้าพระองค์ (humble-register addressing divine-authority; matches MRK 10:47 'โปรดเมตตาข้าพระองค์เถิด' pattern). ทรง- applied to divine addressee."}
+      ],
+      "notes": "FIRST MESSIANIC CONFESSION in Luke's narrative by a non-disciple. The blind man's Christological insight — calling Jesus υἱὲ Δαυίδ — contrasts ironically with both (a) the sighted disciples who don't understand (v.34), and (b) the rich ruler who had moral-vision-without-spiritual-vision (vv.18-23). The blind man's physical blindness and spiritual sight mirror each other inversely. PARALLEL: MRK 10:47 || MAT 20:30. OT BACKGROUND for 'Son of David' = 2 Sam 7:12-16 (Davidic covenant), Isa 11:1-5 (Branch of Jesse), Jer 23:5 (righteous-Branch of David). Not a quotation — conceptual/titular allusion."
+    }
+  },
+  {
+    "reference": "Luke 18:39",
+    "chapter": 18,
+    "verse": 39,
+    "greek": "καὶ οἱ προάγοντες ἐπετίμων αὐτῷ ἵνα σιγήσῃ·αὐτὸς δὲ πολλῷ μᾶλλον ἔκραζεν·Υἱὲ Δαυίδ,ἐλέησόν με.",
+    "bsb_english": "Those who led the way admonished him to be silent, but he cried out all the louder, \"Son of David, have mercy on me!\"",
+    "translation": {
+      "thai": "ผู้ที่เดินนำหน้าห้ามเขาให้เงียบ แต่เขายิ่งร้องเสียงดังขึ้นอีกว่า «บุตรดาวิด ขอทรงพระเมตตาข้าพระองค์เถิด»",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "οἱ προάγοντες", "thai": "ผู้ที่เดินนำหน้า", "rationale": "προάγω pres-ptc 'go ahead of.' Thai ผู้ที่เดินนำหน้า captures 'those walking ahead.'"},
+        {"greek": "ἐπετίμων αὐτῷ ἵνα σιγήσῃ", "thai": "ห้ามเขาให้เงียบ", "rationale": "Per uW alt: 'kept telling him not to shout.' ἐπιτιμάω impf 'rebuked' + ἵνα + aor-subj purpose 'so that he would be silent.' Thai ห้าม...ให้เงียบ."},
+        {"greek": "πολλῷ μᾶλλον ἔκραζεν", "thai": "ยิ่งร้องเสียงดังขึ้นอีก", "rationale": "Per uW: could be (1) 'shouted louder' (2) 'called more persistently.' Thai ยิ่ง...ขึ้นอีก captures the intensifying response without forcing a single interpretation — volume + persistence both implied."}
+      ],
+      "notes": "The crowd's silencing is another instance of Lukan ἐπιτιμάω-gatekeeping (cf. v.15 — disciples rebuking those bringing children). In both cases, Jesus overrides the gatekeepers."
+    }
+  },
+  {
+    "reference": "Luke 18:40",
+    "chapter": 18,
+    "verse": 40,
+    "greek": "σταθεὶς δὲ ὁ Ἰησοῦς ἐκέλευσεν αὐτὸν ἀχθῆναι πρὸς αὐτόν.ἐγγίσαντος δὲ αὐτοῦ ἐπηρώτησεν αὐτόν·",
+    "bsb_english": "Jesus stopped and directed that the man be brought to Him. When he had come near, Jesus asked him,",
+    "translation": {
+      "thai": "พระเยซูทรงหยุดและตรัสสั่งให้พาชายนั้นมาหาพระองค์ เมื่อเขาเข้ามาใกล้แล้ว พระองค์ตรัสถามเขาว่า",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "σταθεὶς", "thai": "ทรงหยุด", "rationale": "ἵστημι aor-pass-ptc 'having stopped/stood.' Thai ทรงหยุด (royal-register motion verb)."},
+        {"greek": "ἐκέλευσεν αὐτὸν ἀχθῆναι πρὸς αὐτόν", "thai": "ตรัสสั่งให้พาชายนั้นมาหาพระองค์", "rationale": "κελεύω aor + aor-pass-inf (passive construction: 'commanded him to be brought'). Per uW figs-activepassive: can render active 'people to bring him.' Thai ตรัสสั่งให้พา...มา natural Thai handling of causative-command."}
+      ],
+      "notes": "Jesus' σταθείς (stopped) in the middle of a forward-moving crowd is dramatically weighted — the travel narrative pauses for this encounter. The Jerusalem-bound Messiah stops for one blind beggar."
+    }
+  },
+  {
+    "reference": "Luke 18:41",
+    "chapter": 18,
+    "verse": 41,
+    "greek": "Τί σοι θέλεις ποιήσω;ὁ δὲ εἶπεν·Κύριε,ἵνα ἀναβλέψω.",
+    "bsb_english": "\"What do you want Me to do for you?\" \"Lord,\" he said, \"let me see again.\"",
+    "translation": {
+      "thai": "«เจ้าต้องการให้เราทำสิ่งใดให้เจ้า?» ชายนั้นทูลว่า «องค์พระผู้เป็นเจ้า ขอให้ข้าพระองค์กลับมองเห็นเถิด»",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "Τί σοι θέλεις ποιήσω", "thai": "เจ้าต้องการให้เราทำสิ่งใดให้เจ้า?", "rationale": "Jesus-to-human register (เจ้า for singular human addressee). ποιήσω subjunctive 'should-I-do.' Thai ให้เราทำ preserves the causative 'for-me-to-do-for-you' structure."},
+        {"greek": "Κύριε", "thai": "องค์พระผู้เป็นเจ้า", "rationale": "κύριε vocative of κύριος — RULES.md §4 κύριος of Jesus → องค์พระผู้เป็นเจ้า. The blind man's address elevates from v.38's 'Son of David' to κύριε (Lord) — a confessional intensification."},
+        {"greek": "ἵνα ἀναβλέψω", "thai": "ขอให้ข้าพระองค์กลับมองเห็นเถิด", "rationale": "Per uW alt: 'I want to be able to see again' / 'I want you to restore my sight.' ἀναβλέπω 'look up/regain sight' — ἀνά prefix carries 'again' for previously-sighted. Per uW background: either he was born blind or lost sight. Thai กลับมองเห็น preserves the ἀνά-regaining sense."}
+      ],
+      "notes": "PARALLEL: MRK 10:51 (ῥαββουνι 'Rabboni'), MAT 20:33 ('Lord, that our eyes be opened'). Each gospel has a different vocative — Luke's Κύριε is highest confession. The ἀνα- in ἀναβλέψω suggests prior sight (loss-restoration) more than congenital blindness."
+    }
+  },
+  {
+    "reference": "Luke 18:42",
+    "chapter": 18,
+    "verse": 42,
+    "greek": "καὶ ὁ Ἰησοῦς εἶπεν αὐτῷ·Ἀνάβλεψον·ἡ πίστις σου σέσωκέν σε.",
+    "bsb_english": "\"Receive your sight!\" Jesus replied. \"Your faith has healed you.\"",
+    "translation": {
+      "thai": "พระเยซูตรัสกับเขาว่า «จงมองเห็นเถิด ความเชื่อของเจ้าได้ช่วยเจ้าให้รอดแล้ว»",
+      "thai_literal": null,
+      "thai_summary": "คำว่า «ได้ช่วยเจ้าให้รอดแล้ว» (เซโซเคน) ใช้คำเดียวกับ «ได้รับความรอด» ในแง่ของวิญญาณ — การรักษาของพระเยซูไม่ใช่เพียงการคืนสายตาทางกายภาพ แต่เป็นการเผยให้เห็นถึงความรอดที่ใหญ่กว่าที่มาพร้อมกับการมาของพระเมสสิยาห์ ความเชื่อของชายตาบอด — ที่กล้าร้องเรียกพระเยซูว่าบุตรดาวิดและไม่ยอมเงียบ — เป็นช่องทางที่พระเจ้าทรงประทานทั้งการรักษาและความรอดให้",
+      "key_decisions": [
+        {"greek": "Ἀνάβλεψον", "thai": "จงมองเห็นเถิด", "rationale": "Per uW figs-imperative: not a command the man could obey, but performative-command that accomplishes itself. Thai จงมองเห็นเถิด preserves the imperative-form; context makes clear this is a healing-word not a request."},
+        {"greek": "ἡ πίστις σου σέσωκέν σε", "thai": "ความเชื่อของเจ้าได้ช่วยเจ้าให้รอดแล้ว", "rationale": "Per uW figs-abstractnouns + personification: πίστις (faith) 'actively saved you' — theological language. Per uW: σῴζω here = 'healed,' but with theological overtones of salvation-through-faith. Thai ได้ช่วยเจ้าให้รอดแล้ว preserves both senses (cf. MRK 10:52 identical rendering; LUK 7:50, 8:48, 17:19). πίστις → ความเชื่อ (glossary-established)."}
+      ],
+      "notes": "PARALLEL: MRK 10:52 (identical Greek) || MAT 20:34 (Matthew doesn't include the faith-saved formula — just compassion-touch-healing). Luke's retention of the faith-saved formula ties this healing to the larger Lucan theme (cf. LUK 7:50 of the sinful woman, 8:48 of the hemorrhaging woman, 17:19 of the Samaritan leper). σέσωκεν (perfect) marks already-accomplished-state — the healing is treated as already-achieved the moment Jesus speaks."
+    }
+  },
+  {
+    "reference": "Luke 18:43",
+    "chapter": 18,
+    "verse": 43,
+    "greek": "καὶ παραχρῆμα ἀνέβλεψεν,καὶ ἠκολούθει αὐτῷ δοξάζων τὸν θεόν.καὶ πᾶς ὁ λαὸς ἰδὼν ἔδωκεν αἶνον τῷ θεῷ.",
+    "bsb_english": "Immediately he received his sight and followed Jesus, glorifying God. And all the people, when they saw it, gave praise to God.",
+    "translation": {
+      "thai": "ทันใดนั้นเขาก็กลับมองเห็น และเขาติดตามพระองค์ไปพร้อมกับสรรเสริญพระเจ้า และประชาชนทั้งหมดที่เห็นเหตุการณ์นั้นก็ร่วมกันสรรเสริญพระเจ้าด้วย",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {"greek": "παραχρῆμα", "thai": "ทันใดนั้น", "rationale": "παραχρῆμα 'immediately/at-once' — Luke's signature adverb (10× Luke-Acts out of 18× NT). Thai ทันใดนั้น (glossary-established LUK 1:64, 4:39, 5:25, 8:44, 47, 13:13, 19:11, 22:60)."},
+        {"greek": "ἠκολούθει αὐτῷ δοξάζων τὸν θεόν", "thai": "เขาติดตามพระองค์ไปพร้อมกับสรรเสริญพระเจ้า", "rationale": "Per uW note: here ἀκολουθέω may carry literal 'following-in-road' sense more than discipleship-metaphor — but the concurrent δοξάζων (glorifying) reads as discipleship-behavior. Thai preserves both readings. δοξάζω → สรรเสริญ (glossary-established)."},
+        {"greek": "πᾶς ὁ λαὸς ἰδὼν ἔδωκεν αἶνον", "thai": "ประชาชนทั้งหมดที่เห็นเหตุการณ์นั้นก็ร่วมกันสรรเสริญ", "rationale": "λαός 'people' (in Luke often = God's people Israel) → ประชาชน. αἶνος 'praise' → สรรเสริญ. δίδωμι + αἶνον 'give praise' — Thai ร่วมกันสรรเสริญ captures the communal response. NEW: αἶνος → สรรเสริญ (same rendering as δοξάζω; both =praise in Thai)."}
+      ],
+      "notes": "PARALLEL: MRK 10:52 || MAT 20:34. Luke-distinctive: (a) λαός rather than ὄχλος for the witnessing-crowd — Luke's theological-Israel terminology; (b) explicit mention of crowd-response praising God. The chapter closes with a praise-inclusio matching the chapter's opening command to prayer (v.1). παραχρῆμα mirrors LUK 5:25 (paralytic) and 17:14 (lepers) — Luke's healing-immediacy signature. This healing closes the Lucan travel-narrative's 'responding to Jesus' section (begun at 17:11) before the Zacchaeus episode (ch.19) and entry to Jerusalem."
+    }
+  }
+]
