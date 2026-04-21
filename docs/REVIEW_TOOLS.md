@@ -123,10 +123,31 @@ For the pilot phase (Mark 1, 1 Tim 3), Ben is the reviewer. Scale the workflow a
 |------|-------------|----------|
 | unfoldingWord TN | ✅ Auto-enriched per chapter (`enrich_with_uw.py`) | Done |
 | unfoldingWord TW glossary | ⚠ Cloned at `sources/en_tw/`, not yet parsed into our glossary | Medium |
-| Paratext | ❌ Not yet. Requires access approval. | **Apply now** |
-| Scripture Forge | ❌ Not yet. Use after 5-10 chapters. | Medium |
+| Paratext | ✅ USFM export ready (`scripts/export_to_usfm.py`); registration code on file; install + first-run pending | **Install when reviewer is ready** |
+| Scripture Forge | ❌ Not yet. Web-based companion; setup once Paratext project exists and is pushed to DBL. | Medium |
 | SIL AQuA | ❌ Depends on Paratext access. | Low |
 | Avodah Connect | N/A (inaccessible) | None |
+
+### Paratext import procedure (when ready)
+
+1. **Install Paratext 9** on the Mac from https://paratext.org/download. Enter the registration code on first run.
+2. **Create a new Paratext project** — Language: Thai, License: CC0, Canon: NT (27 books), Project name: "Eremos Translation" (or similar).
+3. **Regenerate the USFM export** from our pipeline:
+   ```bash
+   cd ~/thai-bible-ai
+   python3 scripts/export_to_usfm.py --all
+   ```
+   Writes per-book `.SFM` files to `output/paratext/`. Includes Tier 2 textual-variant chapter footers (Matt 17:21, 18:11, 23:14, etc.) as `\rem` markers.
+4. **Import into Paratext**: File → Import USFM → select `output/paratext/` → pick books to import.
+5. **Enable Send/Receive** to push the project to DBL if you want consultants or Scripture Forge reviewers to access it remotely.
+
+The export is deterministic — re-run anytime a chapter ships, re-import into Paratext to refresh. Paratext's built-in diff view will show what changed.
+
+### What's exported vs. what stays in the source repo
+
+**Exported to USFM** (reader-facing text): verse-by-verse Thai translation, chapter markers, textual-variant chapter footers, book metadata (Thai title, running header, TOC).
+
+**Stays in `output/translations/*.json`** (translator/scholar apparatus): `key_decisions`, `notes`, `thai_summary`, `thai_literal`, `bsb_english`. These are not published Bible text — they're our translation audit trail — and live in the open-source GitHub repo for transparency.
 
 ---
 
