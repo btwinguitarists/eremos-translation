@@ -209,6 +209,8 @@ Verses with no meaningful interpretive decisions may have empty `key_decisions: 
 
 **Schema requirement (strict):** every verse's `translation` object MUST contain the keys `thai`, `thai_literal`, `thai_summary`, `key_decisions`, and `notes`. If a field has no content, write the explicit null (`"notes": null`, `"thai_literal": null`, `"thai_summary": null`) or empty list (`"key_decisions": []`). **Never omit the key itself.** Check scripts use `.get()` defensively, but an absent key still signals schema drift and will be backfilled by `scripts/backfill_notes_null.py` at the next audit. This rule was tightened on 2026-04-17 after Gemini's cross-AI review flagged 69 verses missing the `notes` key.
 
+**Schema requirement — `key_decisions[].greek` content (added 2026-04-21):** the `greek` field of a key_decisions entry MUST contain the Greek source phrase as it appears in the verse, OR an explicit reference to a textual variant / classical usage / LXX reading / hapax etymology / morphological annotation that the rationale itself identifies (with a recognizable keyword like "variant", "mss", "classical", "lxx", "hapax", "morphology", "2sg", etc.). **Thai characters, mixed-script tokens, or fabricated Greek-looking strings are schema violations** and will fail `scripts/check_greek_field_integrity.py`. For Thai editorial decisions (register/honorific choices, pronoun selection) where no Greek word in the verse is the direct source, either use the Greek verb whose morphology encodes the person/number, or fold the decision into an existing entry's rationale. This rule was added after LUK 13/14 shipped with fabricated or Thai-polluted `greek` fields (see `docs/LUKE_DRIFT_2026-04-21.md`).
+
 ### `thai_summary` — reader-facing layer (added 2026-04-17)
 
 The `thai_summary` field serves a **different audience** from `key_decisions` and `notes`:
@@ -339,5 +341,6 @@ Exception: if rapidly translating sequential chapters in one sitting (e.g., Mark
 
 - **v0.1** (2026-04-16) — Initial rules drafted from Mark 1 experience + SIL/Wycliffe/UBS research synthesis. Applies going forward starting with 1 Timothy 3 pilot.
 - **v0.2** (2026-04-17) — §11 model recommendations made version-agnostic ("latest Opus / Sonnet" instead of "4.6"). Added Claude Code CLI notes: default is 4.7, `/fast` toggles to 4.6 for budget-sensitive runs.
+- **v0.3** (2026-04-21) — §6 adds schema rule on `key_decisions[].greek` contents + enforcement via `scripts/check_greek_field_integrity.py`. Triggered by LUK 13/14 metadata drift (fabricated/mixed-script Greek tokens). Full remediation in `docs/LUKE_DRIFT_2026-04-21.md`.
 
 Future revisions tracked here with date + summary.

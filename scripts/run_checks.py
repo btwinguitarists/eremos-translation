@@ -87,26 +87,26 @@ def main():
     print(f"\n=== Running checks on {slug} ch. {args.chapter} ===\n")
 
     # 1. Rebuild glossary & run key-term consistency
-    print("[1/6] Key-term consistency...")
+    print("[1/8] Key-term consistency...")
     run([sys.executable, str(SCRIPTS / "build_glossary.py")])
     code, _ = run([sys.executable, str(SCRIPTS / "check_key_term_consistency.py"),
                    "--book", slug, "--chapter", str(args.chapter)])
     record("Key-term consistency", code, f"key_term_consistency_{slug}_{args.chapter:02d}.md")
 
     # 2. TNBT structural comparison
-    print("[2/6] TNBT structural comparison...")
+    print("[2/8] TNBT structural comparison...")
     code, _ = run([sys.executable, str(SCRIPTS / "check_against_tnbt.py"),
                    "--book", slug, "--chapter", str(args.chapter)])
     record("TNBT structural comparison", code, f"tnbt_comparison_{slug}_{args.chapter:02d}.md")
 
     # 3. OT citation check
-    print("[3/6] OT citation check...")
+    print("[3/8] OT citation check...")
     code, _ = run([sys.executable, str(SCRIPTS / "check_ot_citations.py"),
                    "--book", slug, "--chapter", str(args.chapter)])
     record("OT citation acknowledgment", code, f"ot_citations_{slug}_{args.chapter:02d}.md")
 
     # 4. Parallel-passage check
-    print("[4/6] Synoptic parallel-passage check...")
+    print("[4/8] Synoptic parallel-passage check...")
     code, _ = run([sys.executable, str(SCRIPTS / "check_parallel_passages.py")])
     record("Synoptic parallels", code, "parallel_passages.md")
 
@@ -117,10 +117,10 @@ def main():
     # chapters silently ship without back-translation through 2026-04-18.
     # Hardened 2026-04-19; pass exit code through directly.
     if args.skip_back_translation:
-        print("[5/6] Back-translation — skipped per flag")
+        print("[5/8] Back-translation — skipped per flag")
         record("Back-translation", 0, "(skipped)", "skipped via --skip-back-translation")
     else:
-        print("[5/6] Back-translation...")
+        print("[5/8] Back-translation...")
         code, out = run([sys.executable, str(SCRIPTS / "check_back_translation.py"),
                         "--book", slug, "--chapter", str(args.chapter)])
         bt_file = ROOT / "output" / "back_translations" / f"{slug}_{args.chapter:02d}.json"
@@ -135,7 +135,7 @@ def main():
     # Surfaces verses that warrant a thai_summary but don't have one. Existing
     # chapters (Mark 1-8, 1 Tim 3) translated before this field existed will
     # show warranted-but-missing; that's expected and OK — not a ship gate.
-    print("[6/7] Thai-summary coverage (informational)...")
+    print("[6/8] Thai-summary coverage (informational)...")
     code, _ = run([sys.executable, str(SCRIPTS / "check_summary_coverage.py"),
                    "--book", slug, "--chapter", str(args.chapter)])
     record("Thai-summary coverage (info)", 0,  # always status "clean" — informational
@@ -147,11 +147,25 @@ def main():
     # (glossary updated, nt_ot_citations entry added, etc.) that didn't
     # actually happen. Introduced 2026-04-17 after Opus 4.7 was observed
     # claiming "Added to nt_ot_citations.json" without performing the action.
-    print("[7/7] Claim-consistency (hallucination check)...")
+    print("[7/8] Claim-consistency (hallucination check)...")
     code, _ = run([sys.executable, str(SCRIPTS / "check_claim_consistency.py"),
                    "--book", slug, "--chapter", str(args.chapter)])
     record("Claim consistency (hallucination)", code,
            f"claim_consistency_{slug}_{args.chapter:02d}.md")
+
+    # 8. Greek-field integrity check (schema/metadata hallucination detector)
+    # Fails ship if key_decisions[].greek contains Thai characters (schema
+    # violation) or Greek tokens that don't appear in the verse's source
+    # without a scholarly excuse (variant/classical/LXX/hapax/morphology).
+    # Introduced 2026-04-21 after LUK 13/14 shipped with fabricated Greek
+    # tokens ("ἐσδέจ" mixed-script) and Thai pronouns stuffed into the
+    # greek slot. All seven prior checks passed green on that content.
+    # See docs/LUKE_DRIFT_2026-04-21.md.
+    print("[8/8] Greek-field integrity (metadata hallucination check)...")
+    code, _ = run([sys.executable, str(SCRIPTS / "check_greek_field_integrity.py"),
+                   "--book", slug, "--chapter", str(args.chapter), "--quiet"])
+    record("Greek-field integrity", code,
+           f"greek_field_integrity_{slug}_{args.chapter:02d}.md")
 
     # Aggregate report
     review_lines = [

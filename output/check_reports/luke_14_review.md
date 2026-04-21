@@ -9,6 +9,7 @@
 | Back-translation | ✅ clean | [back_translation_luke_14.md](back_translation_luke_14.md) |
 | Thai-summary coverage (info) | ✅ clean | [summary_coverage_luke_14.md](summary_coverage_luke_14.md) |
 | Claim consistency (hallucination) | ✅ clean | [claim_consistency_luke_14.md](claim_consistency_luke_14.md) |
+| Greek-field integrity | ✅ clean | [greek_field_integrity_luke_14.md](greek_field_integrity_luke_14.md) |
 
 ## Ship criterion
 
