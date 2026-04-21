@@ -128,20 +128,30 @@ For the pilot phase (Mark 1, 1 Tim 3), Ben is the reviewer. Scale the workflow a
 | SIL AQuA | ❌ Depends on Paratext access. | Low |
 | Avodah Connect | N/A (inaccessible) | None |
 
-### Paratext import procedure (when ready)
+### Platform reality check (2026-04)
 
-1. **Install Paratext 9** on the Mac from https://paratext.org/download. Enter the registration code on first run.
-2. **Create a new Paratext project** — Language: Thai, License: CC0, Canon: NT (27 books), Project name: "Eremos Translation" (or similar).
-3. **Regenerate the USFM export** from our pipeline:
+Paratext **desktop has no macOS build** — supported platforms are Windows (current), Linux x86_64 (deprecated, "not currently supported" per paratext.org), and Paratext Lite for Android (limited subset). There is no ARM build, so the Raspberry Pi is also not viable. For Mac-only translators, the practical options are:
+
+- **(A) Scripture Forge web only** — `scriptureforge.org`, browser-based, works on any OS. Requires a Paratext project to "connect to" — i.e., a project still has to be created in Paratext desktop *somewhere* upstream, but ongoing translation/review can be browser-only.
+- **(B) Windows VM on the Mac** for the one-time project creation — UTM (free, Apple Silicon supported) + Windows 11 ARM evaluation ISO (downloaded via CrystalFetch). After project creation + DBL push, switch to Scripture Forge web.
+- **(C) Ask the SIL EITL team** (`help@scriptureforge.org`) to create the project on your behalf. They do this for partner projects.
+- **(D) Defer entirely**: skip Paratext until a Thai reviewer is actually committed to engaging. Until then, `output/paratext/*.SFM` sits in the repo, ready to hand to anyone with Paratext access.
+
+Recommended for this project: **(D) until a reviewer is engaged**, then **(B) or (C)** to bootstrap the project, then **(A)** for ongoing work.
+
+### Paratext / Scripture Forge import procedure (when a project exists)
+
+1. **Project must exist** in Paratext desktop somewhere — created by you (via Windows VM), by the EITL team, or by a collaborator with Paratext access. Settings: Language: Thai, License: CC0 (or "Public Domain" if CC0 isn't a dropdown option), Canon: NT (27 books), Project name: "Eremos Translation" (or similar).
+2. **Regenerate the USFM export** from our pipeline:
    ```bash
    cd ~/thai-bible-ai
    python3 scripts/export_to_usfm.py --all
    ```
    Writes per-book `.SFM` files to `output/paratext/`. Includes Tier 2 textual-variant chapter footers (Matt 17:21, 18:11, 23:14, etc.) as `\rem` markers.
-4. **Import into Paratext**: File → Import USFM → select `output/paratext/` → pick books to import.
-5. **Enable Send/Receive** to push the project to DBL if you want consultants or Scripture Forge reviewers to access it remotely.
+3. **Import the SFMs into Paratext** (File → Import USFM → point at the `output/paratext/` directory). Or, if working entirely through Scripture Forge web, use Scripture Forge's "Manage books → Import books" flow with the same SFM files.
+4. **Enable Send/Receive** in Paratext to push the project to DBL so Scripture Forge web reviewers can access it.
 
-The export is deterministic — re-run anytime a chapter ships, re-import into Paratext to refresh. Paratext's built-in diff view will show what changed.
+The export is deterministic — re-run anytime a chapter ships, re-import to refresh.
 
 ### What's exported vs. what stays in the source repo
 
