@@ -24,9 +24,24 @@ Thai vocative rendering of Κύριε and Διδάσκαλε **varies by speaker
 
 | Speaker class | Thai vocative | Examples |
 |---|---|---|
-| Neutral-polite individual inquirers | **ท่านอาจารย์** (6) | tax collectors 3:12; Simon the Pharisee 7:40; father of epileptic 9:38; lawyer 10:25; lawyer 11:45; rich ruler 18:18 |
+| Neutral-polite individual inquirers (incl. probing-but-not-hostile) | **ท่านอาจารย์** (6) | tax collectors 3:12; Simon the Pharisee 7:40; father of epileptic 9:38; **lawyer 10:25 (ἐκπειράζων — probing-inquiry)**; lawyer 11:45; rich ruler 18:18 |
 | Crowd + sympathetic Pharisee register | **พระอาจารย์** (2) | crowd 12:13; sympathetic Pharisee 19:39 |
-| Testing / disputing speakers (Jerusalem temple sequence) | **อาจารย์เจ้าข้า** (4) | spies 20:21; Sadducees 20:28; scribes 20:39; disciples w/ temple question 21:7 |
+| Hostile testing / disputing speakers (Jerusalem temple sequence) | **อาจารย์เจ้าข้า** (4) | spies 20:21; Sadducees 20:28; scribes 20:39; disciples w/ temple question 21:7 |
+
+### πειράζω / ἐκπειράζω — probing-inquiry vs. hostile-testing
+
+The Greek verbs πειράζω and ἐκπειράζω both translate as "test / put to the test." Not every instance is hostile — the verb covers a spectrum from legitimate inquiry ("seeing how he would answer") to overt entrapment ("laying a snare to catch him in his words"). Register follows the **narrative signal**, not the verb alone.
+
+| Test type | Narrative signal | Register → |
+|---|---|---|
+| Probing-inquiry | Verb alone, no ulterior-motive commentary in the verse or immediately adjacent context; question is a legitimate legal / exegetical probe; Jesus responds pastorally | **ท่านอาจารย์** (neutral-polite) |
+| Hostile-testing | Explicit ἐγκάθετοι ("spies"), παρατηρέω ("watch closely to catch"), συμβούλιον ("conspiracy-council"), or Jesus responds with rebuke/woe | **อาจารย์เจ้าข้า** (testing-address) |
+
+**Worked: LUK 10:25** — νομικός... ἐκπειράζων αὐτόν — the verb is there, but the narrative frame is probing-inquiry: the lawyer is testing Jesus's exegesis of the Shema, Jesus answers pastorally (engages the question, commends the answer, extends to parable). Register → **ท่านอาจารย์** (NOT อาจารย์เจ้าข้า).
+
+**Worked: LUK 20:21** — ἐγκαθέτους ὑποκρινομένους ἑαυτοὺς δικαίους εἶναι... ἠρώτησαν αὐτὸν λέγοντες — "spies, feigning themselves to be just, asked him." Narrative frame is hostile-trap; Jesus rebukes in v.23 (ἐπιγνοὺς τὴν πανουργίαν). Register → **อาจารย์เจ้าข้า**.
+
+**Guiding principle:** The vocative is a *social-register* choice, not a *Greek-verb* choice. Look at the surrounding verses, not just the lexical trigger.
 
 ## Why not flatten to a single rendering
 

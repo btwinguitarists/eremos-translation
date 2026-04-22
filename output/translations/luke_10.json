@@ -521,7 +521,7 @@
     "greek": "Ὑπέστρεψαν δὲ οἱ ἑβδομήκοντα δύο μετὰ χαρᾶς λέγοντες·Κύριε,καὶ τὰ δαιμόνια ὑποτάσσεται ἡμῖν ἐν τῷ ὀνόματί σου.",
     "bsb_english": "The seventy-two returned with joy and said, \"Lord, even the demons submit to us in Your name.\"",
     "translation": {
-      "thai": "สาวกเจ็ดสิบสองคนกลับมาด้วยความยินดี และทูลว่า «พระองค์เจ้าข้า แม้แต่ผีก็ยังยอมอยู่ใต้บังคับของพวกข้าพระองค์ โดยพระนามของพระองค์»",
+      "thai": "สาวกเจ็ดสิบสองคนกลับมาด้วยความยินดี และทูลว่า «องค์พระผู้เป็นเจ้า แม้แต่ผีก็ยังยอมอยู่ใต้บังคับของพวกข้าพระองค์ โดยพระนามของพระองค์»",
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
@@ -532,8 +532,8 @@
         },
         {
           "greek": "Κύριε",
-          "thai": "พระองค์เจ้าข้า",
-          "rationale": "Vocative address to Jesus from disciples — humble-to-divine register (RULES §3). Thai 'พระองค์เจ้าข้า' is the most common disciple-to-Jesus vocative in Thai NT. Note: could also use 'องค์พระผู้เป็นเจ้า' but vocative form in direct-address uses 'พระองค์เจ้าข้า.'"
+          "thai": "องค์พระผู้เป็นเจ้า",
+          "rationale": "Disciple-voice vocative to Jesus → องค์พระผู้เป็นเจ้า per docs/translator_decisions/vocative_kyrie_didaskale_register_2026-04.md (disciples/confessing believers → องค์พระผู้เป็นเจ้า; humble intimates like centurion/Martha → พระองค์เจ้าข้า). The 72 are commissioned disciples (ἕτεροι sent out ahead of Jesus, 10:1); returning joyfully from successful mission is disciple-register, not humble-intimate. Earlier draft used พระองค์เจ้าข้า; normalized 2026-04-23 after Claude external-review flagged the drift."
         },
         {
           "greek": "τὰ δαιμόνια ὑποτάσσεται ἡμῖν",
@@ -631,7 +631,7 @@
     "greek": "πλὴν ἐν τούτῳ μὴ χαίρετε ὅτι τὰ πνεύματα ὑμῖν ὑποτάσσεται,χαίρετε δὲ ὅτι τὰ ὀνόματα ὑμῶν ἐγγέγραπται ἐν τοῖς οὐρανοῖς.",
     "bsb_english": "Nevertheless, do not rejoice that the spirits submit to you, but rejoice that your names are written in heaven.\"",
     "translation": {
-      "thai": "อย่างไรก็ตาม อย่ายินดีเพียงเพราะผีอยู่ใต้บังคับของพวกท่าน แต่จงยินดีที่ชื่อของพวกท่านได้รับการจารึกไว้ในฟ้าสวรรค์",
+      "thai": "อย่างไรก็ตาม อย่ายินดีเพียงเพราะผีอยู่ใต้บังคับของพวกท่าน แต่จงยินดีที่ชื่อของพวกท่านได้รับการจารึกไว้ในสวรรค์",
       "thai_literal": null,
       "thai_summary": "พระเยซูทรงเปลี่ยนทิศทางความยินดีของสาวก ไม่ให้เน้นฤทธานุภาพในการรับใช้ แต่ให้เน้นความรอดนิรันดร์ของตนเอง ภาพ «ชื่อที่ถูกจารึกในฟ้าสวรรค์» มีรากมาจากพระคัมภีร์เดิม (อพยพ 32:32, ดาเนียล 12:1, มาลาคี 3:16) ที่พระเจ้าทรงมีบันทึกของผู้ที่เป็นของพระองค์ ภาพนี้ปรากฏเด่นในพระธรรมวิวรณ์ในรูปของ «หนังสือแห่งชีวิต»",
       "key_decisions": [
@@ -647,8 +647,8 @@
         },
         {
           "greek": "τὰ ὀνόματα ὑμῶν ἐγγέγραπται ἐν τοῖς οὐρανοῖς",
-          "thai": "ชื่อของพวกท่านได้รับการจารึกไว้ในฟ้าสวรรค์",
-          "rationale": "ἐγγράφω perf-pass 'have-been-written' (lasting-state). Per uW figs-activepassive + figs-explicit: God has written down names; = 'God knows you belong to him.' Thai 'ได้รับการจารึก' preserves passive-with-agent-implied. ἐν τοῖς οὐρανοῖς plural 'heavens' → ฟ้าสวรรค์ (Thai collapses plural)."
+          "thai": "ชื่อของพวกท่านได้รับการจารึกไว้ในสวรรค์",
+          "rationale": "ἐγγράφω perf-pass 'have-been-written' (lasting-state). Per uW figs-activepassive + figs-explicit: God has written down names; = 'God knows you belong to him.' Thai 'ได้รับการจารึก' preserves passive-with-agent-implied. ἐν τοῖς οὐρανοῖς plural 'heavens' → ฟ้าสวรรค์ (Thai collapses plural). [2026-04-23 NORMALIZATION: ฟ้าสวรรค์ → สวรรค์ per docs/translator_decisions/ouranos_heaven_rendering_2026-04.md — \"names in heaven\" (locative εν heaven) parallels LUK 18:22 \"treasure in heaven\" (also สวรรค์). Corpus-consistency lock.]"
         }
       ],
       "notes": "**OT ECHO — BOOK-OF-LIFE TRADITION.** Exod 32:32 (Moses: 'blot me out of your book'); Ps 69:28 ('blotted out of the book of the living'); Dan 12:1 ('everyone whose name is found written in the book'); Mal 3:16 ('a book of remembrance was written before him'); Rev 3:5, 13:8, 20:12-15, 21:27 (the-Lamb's book-of-life); Phil 4:3 ('names are in the book of life'). Jesus redirects: exorcistic-power is ministry-reality, but eschatological-security is the deeper joy. The hyperbolic 'do not rejoice...rejoice' is Semitic-comparative-idiom (cf. Hos 6:6 'I desire mercy not sacrifice' — prioritization, not absolute-negation). This verse is a pastoral warning against identifying with ministry-success rather than with Christ. ADDED TO NT_OT_CITATIONS: Luke 10:20 → Exod 32:32 / Dan 12:1 / Mal 3:16 book-of-life echo."

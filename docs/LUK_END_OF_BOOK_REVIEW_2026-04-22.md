@@ -6,12 +6,13 @@
 
 ## Summary
 
-- **16 cross-cutting items reviewed** — 15 from internal review (2026-04-22) + 4 Gemini-flagged items (2026-04-23), with overlap folded in.
-- **6 new decision docs written** across both passes (see §§1, 2, 6, 16).
-- **1 translation spot-revision** (LUK 10:13 μετανοέω drift fix) — see §16 Flag 3.
+- **22 cross-cutting items reviewed** — 15 from internal review (2026-04-22) + 4 Gemini-flagged items (2026-04-23) + 6 Claude-flagged items (2026-04-23), with overlap folded in.
+- **9 new decision docs written** across three passes (see §§1, 2, 6, 16, 17).
+- **4 translation spot-revisions**: LUK 10:13 (μετανοέω), LUK 1:77 (ἄφεσις), LUK 10:17 (Κύριε vocative), LUK 10:20 (οὐρανός parallelism).
+- **1 RULES.md update** — §5 Luke 24 WNI enumeration (v0.4).
 - **8 items stable / already documented** — no corpus-level change needed.
 - **4 items flagged for Ben's attention** (see final section).
-- **Mechanical items (§1 of checklist): all pass** — 24/24 green review reports, 24/24 back-translations, `check_key_term_consistency.py` clean across 69 chapters (0 violations, 0 undocumented multi-renderings), `git status output/` clean. Post-revision re-check of LUK 10 `check_greek_field_integrity.py`: 0 hard fails, 0 warnings.
+- **Mechanical items (§1 of checklist): all pass** post-revision — 0 key-term-consistency violations, 0 Greek-field-integrity hard fails on touched chapters (LUK 1, 10), `git status output/` tracks only the expected edits.
 
 Status codes: **LOCKED** (stable + corpus-doc). **STABLE** (uniform + rationale implicit at verse-level; documented here). **REVIEW** (worth Ben's confirmation). **DECIDE** (Ben choice needed).
 
@@ -230,6 +231,91 @@ From external AI review (2026-04-23):
 ### Translation spot-revision (1 verse)
 
 - `output/translations/luke_10.json` — LUK 10:13 "กลับใจใหม่" → "กลับใจ" to maintain RULES §4 lock. Key_decision rationale updated.
+
+---
+
+## 17. External AI review outcomes — pass 2 (Claude Opus, 2026-04-23)
+
+Second external-review pass. Claude returned 6 flags — more surgical than Gemini's pass, catching corpus-level patterns Gemini missed and confirming items Gemini had affirmed stable. Each flag verified against actual JSONs before acting.
+
+### Flag A1 — ἄφεσις ἁμαρτιῶν split (HIGHEST priority, Acts-forward) — **LOCKED + 1 spot-revision**
+
+Verified: LUK 1:77 renders ἐν ἀφέσει ἁμαρτιῶν as "โดยการอภัยบาป" (การอภัย), while LUK 3:3 (John-Baptist) and LUK 24:47 (Great Commission) both use "การยกโทษบาป" (การยกโทษ). Two per-verse rationales independently claimed RULES §4 "locked" different renderings. RULES §4 in fact lists both as options with "Document choice" instruction.
+
+**Action:**
+- Wrote `docs/translator_decisions/aphesis_forgiveness_of_sins_2026-04.md` locking ἄφεσις ἁμαρτιῶν → **การยกโทษบาป** corpus-wide. Chose การยกโทษ over การอภัย for the judicial-release precision that matters in Pauline atonement + Hebrews 9:22 / 10:18.
+- **Spot-revised LUK 1:77**: "โดยการอภัยบาป" → "โดยการยกโทษบาป" + updated key_decision rationale.
+- Benedictus (1:77) ↔ Great Commission (24:47) inclusio now consistent.
+- 5 Acts sermons (2:38, 5:31, 10:43, 13:38, 26:18) inherit the lock.
+
+### Flag A2 — οὐρανός alternation (ฟ้าสวรรค์ / สวรรค์) — **DOCUMENTED + 1 spot-revision**
+
+Verified: full Luke audit shows genuine drift. 15 verses use ฟ้าสวรรค์, 7 use สวรรค์, 2 use ท้องฟ้า (meteorological), 5 are rephrased. The clearest parallelism violation: LUK 10:20 "names in heaven" → ฟ้าสวรรค์ vs. LUK 18:22 "treasure in heaven" → สวรรค์ (identical locative construction, different Thai).
+
+**Action:**
+- Wrote `docs/translator_decisions/ouranos_heaven_rendering_2026-04.md` with principled guidelines: **สวรรค์** default for locative + theological-abode; **ฟ้าสวรรค์** reserved for cosmic-emphatic ("heaven and earth" pair, apocalyptic imagery); **ท้องฟ้า** for sky-as-meteorological-object.
+- **Spot-revised LUK 10:20**: ฟ้าสวรรค์ → สวรรค์ (parallelism with 18:22).
+- **Deliberate conservative approach on retrospective revision**: shipped Luke drift not fully normalized (15+ verses would cascade into back-translation + check regeneration). Flagged for systematic John-era sweep across MAT + MRK + LUK + ACT.
+- **Acts 1:10–11 Ascension** locked to **สวรรค์** (matches LUK 24:51).
+
+### Flag A3 — LUK 10:17 vocative Κύριε outlier — **SPOT-REVISED**
+
+Verified: LUK 10:17 (the 72 returning from mission) renders Κύριε as **พระองค์เจ้าข้า** (humble-intimate register), but the vocative lock (doc #13) routes disciples → **องค์พระผู้เป็นเจ้า**. The per-verse rationale calls the category "disciple-to-Jesus vocative" — exactly what the lock routes to องค์พระผู้เป็นเจ้า. Text was rendered before the 2026-04-22 lock doc was written.
+
+**Action:**
+- **Spot-revised LUK 10:17**: «พระองค์เจ้าข้า → «องค์พระผู้เป็นเจ้า». Key_decision rationale updated with reference to the lock doc.
+- No doc changes needed beyond the rationale update.
+
+### Flag A4 — Praise-verb collapse (δοξάζω + εὐλογέω + αἰνέω + αἶνον δίδωμι → สรรเสริญ) — **DOCUMENTED**
+
+Verified: principled-but-undocumented corpus-wide collapse. Per-verse rationales already explain ("εὐλογέω when object-is-God → สรรเสริญ more-natural than อวยพร"; "αἶνος → สรรเสริญ, same rendering as δοξάζω; both = praise in Thai"). The collapse is defensible on Thai-naturalness grounds but deserves corpus-level documentation before Acts's heavy doxological vocabulary (~25 praise-verb occurrences with God as object across Acts).
+
+**Action:**
+- Wrote `docs/translator_decisions/divine_object_praise_verbs_2026-04.md` documenting the collapse + the exceptions (μεγαλύνω, ὑψόω, προσκυνέω kept distinct; εὐλογέω on non-divine object stays อวยพร).
+- No translation changes.
+
+### Flag A5 — RULES §5 undercounted Luke 24 WNIs — **RULES.md UPDATED**
+
+Verified: RULES §5 stated "two Western non-interpolations in Luke 24." Traditional Westcott-Hort count is 7 (24:3, 24:6, 24:12, 24:36, 24:40, 24:51, 24:52). All verses follow SBLGNT's text; the "two" count was referring to text-omissions (24:3 phrase + 24:36 phrase) but was undercounting for WNI-enumeration purposes.
+
+**Action:**
+- Updated `RULES.md` §5 with enumerated table listing all 7 Luke 24 WNIs + SBLGNT disposition per verse. RULES version bumped to v0.4.
+- No translation changes.
+
+### Flag A6 — LUK 10:25 Διδάσκαλε (lawyer testing Jesus) — **VOCATIVE DOC AMENDED**
+
+Verified: LUK 10:25 renders Διδάσκαλε as **ท่านอาจารย์** (neutral-polite), but the vocative lock's "testing" category routes to **อาจารย์เจ้าข้า**. The Greek ἐκπειράζων supports "testing," but the narrative signal at 10:25 is probing-inquiry (legal-exegetical probe), not hostile-trap — Jesus responds pastorally. The current rendering is defensible; the lock doc just needs to clarify the probe-vs-hostile distinction.
+
+**Action:**
+- Amended `docs/translator_decisions/vocative_kyrie_didaskale_register_2026-04.md` with a new sub-section: "πειράζω / ἐκπειράζω — probing-inquiry vs. hostile-testing." Rule: register follows narrative signal (ἐγκάθετοι / συμβούλιον / rebuke-response), not the lexical trigger alone.
+- LUK 10:25 stays ท่านอาจารย์ as documented probing-inquiry case.
+- LUK 20:21–21:7 stays อาจารย์เจ้าข้า as documented hostile-testing sequence.
+- No translation changes.
+
+### Claude §C — Acts-forward preparatory notes
+
+Claude flagged 8 Acts-forward items (most overlap with decisions already locked). Non-duplicative:
+
+- **Proper-noun sweep for Acts** (Παῦλος / Βαρναβᾶς / Σαῦλος / Σιλᾶς / Ἀπολλῶς) — already handled per glossary convention; run `scripts/check_key_term_consistency.py` batch-audit before Acts 13 ships.
+- **"We-passages" narrator voice** (Acts 16:10–17 etc.) — note for Acts 16 translator: natural Thai first-person-plural; no register-marking needed.
+- **Pentecost glossolalia** (Acts 2:4–11: λαλεῖν ἑτέραις γλώσσαις + διαλέκτῳ) — lock before Acts 2 ships. Doctrinally sensitive for evangelical-Protestant framing. **Candidate rendering:** พูดภาษาอื่น + ภาษาประจำของตน, but confirm at Acts 2 session.
+- **ἀδελφοί vocative in sermons** (~20 occurrences in Acts) — decide "brothers" vs. "brothers and sisters" vs. context-adapted. Lock before Acts 1:16 ships. **Candidate rendering:** พี่น้องทั้งหลาย (gender-neutral in Thai usage); confirm at Acts 1 session.
+- **καταγγέλλω** (new in Acts, ~11 occurrences) — lock before Acts 13. Candidate rendering: ป่าวประกาศ / ป่าวร้องประกาศ (strong-public proclamation); distinguish from ประกาศ (κηρύσσω) + ประกาศข่าวประเสริฐ (εὐαγγελίζομαι) already established.
+
+### Claude §D — observations affirmed as wins (no action)
+
+- Benedictus / Magnificat elevated register reads as intentional and OT-allusion-dense.
+- OT-citation guillemet «...» consistent; may need nested-mark convention for Acts 7 (Stephen quoting OT within Luke narrator quoting Stephen).
+- LUK 24:32 "ใจของเราร้อนรุ่มอยู่ภายใน" — micro-elaboration ภายใน for figurative καρδία clarification; fine per uW guidance.
+- Luke 24 WNI handling "exactly right" — follow SBLGNT, note the tradition, don't moralize. Will pay compound dividends in Acts's variant-dense Petrine speeches.
+
+---
+
+## External-review result
+
+After **two independent external AI reviews** (Gemini 2.5 Pro + Claude), all catastrophic corpus-level risks caught and remediated. The ἄφεσις lock (Flag A1) is the most load-bearing outcome — would have compounded across 5 Acts sermons if unaddressed.
+
+Attempted review with Grok and GPT free-tiers: both hit character-limit caps on the paste-packet. No response gathered from those platforms; two substantive responses (Gemini + Claude) meets the §3 checklist criterion of "at least one external review."
 
 ## Pre-existing docs affirmed / unchanged
 
