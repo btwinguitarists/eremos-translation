@@ -1,0 +1,470 @@
+[
+  {
+    "reference": "Acts 1:1",
+    "chapter": 1,
+    "verse": 1,
+    "greek": "Τὸν μὲν πρῶτον λόγον ἐποιησάμην περὶ πάντων,ὦ Θεόφιλε,ὧν ἤρξατο ὁ Ἰησοῦς ποιεῖν τε καὶ διδάσκειν",
+    "bsb_english": "In my first book, O Theophilus, I wrote about all that Jesus began to do and to teach,",
+    "translation": {
+      "thai": "ท่านธีโอฟีลัส ในหนังสือเล่มแรก ข้าพเจ้าได้เขียนถึงทุกสิ่งที่พระเยซูทรงเริ่มกระทำและทรงเริ่มสั่งสอน",
+      "thai_literal": null,
+      "thai_summary": "ลูกาเปิดหนังสือกิจการด้วยการอ้างถึง «หนังสือเล่มแรก» (คือพระกิตติคุณลูกา) และถวายหนังสือนี้แด่ท่านธีโอฟีลัสคนเดิมกับที่ได้รับพระกิตติคุณ (ลูกา 1:3) ต่างกันตรงที่ที่นี่ไม่ใช้คำว่า «ผู้ทรงเกียรติ» (กราติสเต) สะท้อนว่าความสัมพันธ์ของทั้งสองคนได้ใกล้ชิดขึ้นแล้ว คำว่า «ทรงเริ่มกระทำและทรงเริ่มสั่งสอน» บอกเป็นนัยว่าหนังสือกิจการเป็นภาค «ที่พระเยซูทรงกระทำต่อไป» ผ่านทางพระวิญญาณในคริสตจักร",
+      "key_decisions": [
+        { "greek": "Τὸν μὲν πρῶτον λόγον ἐποιησάμην", "thai": "ในหนังสือเล่มแรก ข้าพเจ้าได้เขียน", "rationale": "μέν signals an implicit contrast (Luke's 'first book' vs. this 'second book'). λόγος here = 'treatise/account/volume' (BDAG 3, classical sense for literary composition — same nuance as Josephus Ag. Ap. 1.1). Thai 'หนังสือเล่มแรก' renders the volume-relation naturally; 'ข้าพเจ้าได้เขียน' renders the aorist middle ἐποιησάμην 'I composed' in plain prose." },
+        { "greek": "ὦ Θεόφιλε", "thai": "ท่านธีโอฟีลัส", "rationale": "Same addressee as Luke 1:3, but the κράτιστε ('most excellent') honorific is dropped here. Thai echoes that: Luke 1:3 renders 'ท่านธีโอฟีลัสผู้ทรงเกียรติ'; here we drop ผู้ทรงเกียรติ to preserve the Greek register shift. ὦ is a classical Greek interjection; Thai narrative prose doesn't need it. Fronting the address (Thai epistolary convention) matches UST's 'Dear Theophilus' pattern." },
+        { "greek": "ἤρξατο ὁ Ἰησοῦς ποιεῖν τε καὶ διδάσκειν", "thai": "พระเยซูทรงเริ่มกระทำและทรงเริ่มสั่งสอน", "rationale": "ἄρχομαι + infinitive can be a semitic-idiom inchoative meaning 'began to X' ≈ 'did X' (cf. Mark 1:45; Luke 3:23). But here in Luke's careful Greek, the 'began' has programmatic force — the Gospel narrates what Jesus BEGAN; Acts narrates what Jesus CONTINUES through the Spirit. We preserve 'ทรงเริ่ม' because the programmatic reading is theologically significant and defensible from the Greek." }
+      ],
+      "notes": "Opening of the second Lucan volume (Acts 1:1–2:47 is Luke's transition from Gospel to church). Structural note: Acts 1:1–3 is a single long Greek sentence (27 words in SBLGNT) — classical Hellenistic prologue style (cf. Luke 1:1–4, Josephus prologues). Thai breaks it into several sentences for readability per RULES §1 naturalness pillar. The μέν here (with no answering δέ in the sentence) is anaphoric-contrastive, pointing back to Luke's Gospel; we render via word choice ('หนังสือเล่มแรก') rather than a discrete particle, since Thai doesn't have a μέν/δέ mirror."
+    }
+  },
+  {
+    "reference": "Acts 1:2",
+    "chapter": 1,
+    "verse": 2,
+    "greek": "ἄχρι ἧς ἡμέρας ἐντειλάμενος τοῖς ἀποστόλοις διὰ πνεύματος ἁγίου οὓς ἐξελέξατο ἀνελήμφθη·",
+    "bsb_english": "until the day He was taken up to heaven, after giving instructions through the Holy Spirit to the apostles He had chosen.",
+    "translation": {
+      "thai": "จนถึงวันที่พระองค์ทรงถูกรับขึ้น หลังจากได้ทรงมอบพระบัญชาแก่บรรดาอัครทูตที่พระองค์ทรงเลือกไว้โดยทางพระวิญญาณบริสุทธิ์",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "ἀνελήμφθη", "thai": "พระองค์ทรงถูกรับขึ้น", "rationale": "Aorist passive indicative 3sg of ἀναλαμβάνω 'take up'. Theological passive — God lifts Jesus up. This is the same verb Luke 9:51 uses of the upcoming passion/ascension ('τῆς ἀναλήμψεως αὐτοῦ') and matches Acts 1:11, 1:22. Thai passive 'ทรงถูกรับขึ้น' preserves divine-agent-implicit structure, consistent with Luke 24:51 pattern 'ถูกรับขึ้นสู่สวรรค์'." },
+        { "greek": "ἐντειλάμενος ... διὰ πνεύματος ἁγίου", "thai": "ได้ทรงมอบพระบัญชา ... โดยทางพระวิญญาณบริสุทธิ์", "rationale": "Word-order question: 'through the Holy Spirit' can modify (a) ἐντειλάμενος 'gave orders through the Spirit' (Jesus' post-resurrection commands were pneumatologically charged) or (b) ἐξελέξατο 'chose through the Spirit' (Jesus chose the Twelve through the Spirit — echoing Luke 6:12–13 prayerful selection). Majority of translations and uW TN take option (a). We follow." }
+      ],
+      "notes": "The verb 'was taken up' (ἀνελήμφθη) appears four times in this chapter (vv. 2, 11, 22; cf. 1:9 ἐπήρθη) — Luke frames the whole opening around the Ascension. No textual variant here."
+    }
+  },
+  {
+    "reference": "Acts 1:3",
+    "chapter": 1,
+    "verse": 3,
+    "greek": "οἷς καὶ παρέστησεν ἑαυτὸν ζῶντα μετὰ τὸ παθεῖν αὐτὸν ἐν πολλοῖς τεκμηρίοις,δι’ἡμερῶν τεσσεράκοντα ὀπτανόμενος αὐτοῖς καὶ λέγων τὰ περὶ τῆς βασιλείας τοῦ θεοῦ·",
+    "bsb_english": "After His suffering, He presented Himself to them with many convincing proofs that He was alive. He appeared to them over a span of forty days and spoke about the kingdom of God.",
+    "translation": {
+      "thai": "หลังจากที่พระองค์ทรงทนทุกข์ทรมานแล้ว พระองค์ทรงสำแดงพระองค์ว่าทรงพระชนม์อยู่แก่พวกเขาด้วยหลักฐานยืนยันมากมาย ทรงปรากฏแก่พวกเขาตลอดสี่สิบวัน และตรัสถึงเรื่องราวเกี่ยวกับอาณาจักรของพระเจ้า",
+      "thai_literal": null,
+      "thai_summary": "ช่วงสี่สิบวันระหว่างอีสเตอร์กับการเสด็จขึ้นสู่สวรรค์เป็นช่วงเวลาสำคัญที่พระเยซูทรงสอนสาวกเรื่อง «อาณาจักรของพระเจ้า» — หัวข้อเดียวกับที่พระองค์ทรงเทศนาเป็นแก่นตลอดพระกิตติคุณ (ลูกา 4:43; 8:1; 9:11) แต่บัดนี้ในมุมมองใหม่ที่ผ่านการสิ้นพระชนม์และการคืนพระชนม์มาแล้ว การปรากฏหลายครั้งและหลักฐานยืนยันมากมายเป็นเหตุผลหลักที่ทำให้พยานในพันธสัญญาใหม่สามารถยืนยันการคืนพระชนม์ของพระคริสต์ได้ด้วยความมั่นใจ (1 โครินธ์ 15:3–8)",
+      "key_decisions": [
+        { "greek": "ἐν πολλοῖς τεκμηρίοις (hapax)", "thai": "ด้วยหลักฐานยืนยันมากมาย", "rationale": "τεκμήριον (NT hapax) is a classical technical term for decisive/conclusive proof — used in Aristotle Rhet. 1.2.16 to distinguish 'necessary proof' (τεκμήριον) from weaker evidence (σημεῖον). Luke, as an educated Hellenistic author, deliberately chose this precise term. 'หลักฐานยืนยัน' renders both 'evidence' and 'conclusive' layers; 'มากมาย' renders πολλοῖς. Rejected: bare 'หลักฐาน' loses the decisive-proof nuance." },
+        { "greek": "ὀπτανόμενος (hapax)", "thai": "ทรงปรากฏ", "rationale": "NT hapax, present middle participle of ὀπτάνομαι — a rare late-Greek form (LXX 1 Kings 8:8; Tobit 12:19) meaning 'to appear / become visible'. The iterative/durative present participle indicates repeated appearances over the forty days, not a single event. Standard Thai Christian rendering 'ทรงปรากฏ' captures the divine-manifestation register." },
+        { "greek": "τὰ περὶ τῆς βασιλείας τοῦ θεοῦ", "thai": "เรื่องราวเกี่ยวกับอาณาจักรของพระเจ้า", "rationale": "Per RULES §4 and 'basileia_kingdom_rendering_2026-04' decision: βασιλεία τοῦ θεοῦ → อาณาจักรของพระเจ้า (corpus-standard). The article + substantive τὰ περί marks 'the things concerning' — abstractive plural rendered naturally as 'เรื่องราวเกี่ยวกับ'." }
+      ],
+      "notes": "Two hapax legomena in this verse: τεκμήριον (classical-philosophical 'decisive proof') and ὀπτάνομαι (LXX-influenced 'appear'). The forty-day motif (δι' ἡμερῶν τεσσεράκοντα) is Luke's distinctive data — not found in other Gospels' resurrection accounts — and deliberately echoes Moses on Sinai (Ex 24:18; 34:28), Elijah at Horeb (1 Kgs 19:8), Jesus in the wilderness (Luke 4:2). The post-resurrection teaching on βασιλεία τοῦ θεοῦ sets up the question of v. 6. μετὰ τὸ παθεῖν is a Lucan euphemism for the crucifixion (cf. Luke 22:15, 24:26, 24:46; Acts 3:18, 17:3)."
+    }
+  },
+  {
+    "reference": "Acts 1:4",
+    "chapter": 1,
+    "verse": 4,
+    "greek": "καὶ συναλιζόμενος παρήγγειλεν αὐτοῖς ἀπὸ Ἱεροσολύμων μὴ χωρίζεσθαι,ἀλλὰ περιμένειν τὴν ἐπαγγελίαν τοῦ πατρὸς ἣν ἠκούσατέ μου·",
+    "bsb_english": "And while they were gathered together, He commanded them: “Do not leave Jerusalem, but wait for the gift the Father promised, which you have heard Me discuss.",
+    "translation": {
+      "thai": "ขณะที่ทรงอยู่ร่วมกับพวกเขา พระองค์ทรงบัญชาพวกเขาว่า «อย่าออกไปจากกรุงเยรูซาเล็ม แต่จงคอยท่าพระสัญญาของพระบิดาซึ่งพวกท่านได้ยินจากเรา»",
+      "thai_literal": null,
+      "thai_summary": "«พระสัญญาของพระบิดา» หมายถึงพระวิญญาณบริสุทธิ์ ซึ่งทั้งพระคัมภีร์เดิม (โยเอล 2:28–32; เอเสเคียล 36:26–27; อิสยาห์ 44:3) และพระเยซูเองในพระกิตติคุณลูกา (ลูกา 24:49) ได้สัญญาไว้ว่าจะประทานแก่ประชากรของพระเจ้า เปโตรจะอ้างโยเอล 2 ในเทศนาวันเพ็นเทคอสต์ (กิจการ 2:17–21) คำสั่งให้ «อย่าออกไปจากกรุงเยรูซาเล็ม» สำคัญมาก — เพราะพระประสงค์ของพระเจ้าคือการสถาปนาคริสตจักรในเยรูซาเล็มก่อนจะแผ่ขยายออกไป (กิจการ 1:8)",
+      "key_decisions": [
+        { "greek": "συναλιζόμενος (hapax)", "thai": "ขณะที่ทรงอยู่ร่วมกับพวกเขา", "rationale": "NT hapax. Etymology disputed: (a) συν-ἁλς 'salt together' → 'eat with/share a meal' (Chrysostom, Vulgate convescens, KJV/NIV/ESV 'eating with'); (b) συν-ἀλίζω 'gather together' (BDAG, NA28 critical apparatus, BSB 'gathered together'). Both readings imply close fellowship. Thai 'ขณะที่ทรงอยู่ร่วมกับพวกเขา' preserves the fellowship semantics while leaving table/gathering ambiguity unresolved — matches BSB's conservative choice. Luke 24:41–43 portrays the risen Jesus eating fish with the disciples, so 'shared meal' is narratively supported." },
+        { "greek": "μὴ χωρίζεσθαι", "thai": "อย่าออกไปจาก", "rationale": "Greek double-negative 'not to separate from' (χωρίζω 'separate/depart'). Thai renders the positive command-equivalent 'อย่าออกไปจาก' — natural Thai, preserves meaning without double-negative awkwardness. Per uW TN figs-doublenegatives." },
+        { "greek": "περιμένειν τὴν ἐπαγγελίαν τοῦ πατρὸς (περιμένω hapax)", "thai": "จงคอยท่าพระสัญญาของพระบิดา", "rationale": "περιμένω (NT hapax) intensifies μένω — 'wait for expectantly'. Thai 'คอยท่า' captures expectant waiting; 'รอ' alone would be too flat. ἐπαγγελία = 'promise'; Luke consistently uses it of God's eschatological Spirit-promise (Luke 24:49; Acts 2:33, 2:39). πατήρ referring to God → พระบิดา (ราชาศัพท์)." }
+      ],
+      "notes": "Two hapax legomena: συναλίζομαι (contested etymology — 'eat with' or 'gather with'; most recent lexicographical consensus slightly favors 'gather', but UBS/NET retain 'eat with'); περιμένω ('wait expectantly'). The Greek shifts mid-sentence from indirect to direct speech ('which you have heard [indirect] from me' → 'which YOU heard [direct] from me') — a common Lucan stylistic device (cf. Luke 5:14). We preserve the direct address in Thai. Cross-reference: τὴν ἐπαγγελίαν τοῦ πατρός in Acts 2:33, 2:39 refers back to this verse."
+    }
+  },
+  {
+    "reference": "Acts 1:5",
+    "chapter": 1,
+    "verse": 5,
+    "greek": "ὅτι Ἰωάννης μὲν ἐβάπτισεν ὕδατι,ὑμεῖς δὲ ἐν πνεύματι βαπτισθήσεσθε ἁγίῳ οὐ μετὰ πολλὰς ταύτας ἡμέρας.",
+    "bsb_english": "For John baptized with water, but in a few days you will be baptized with the Holy Spirit.”",
+    "translation": {
+      "thai": "«เพราะยอห์นให้รับบัพติศมาด้วยน้ำ แต่พวกท่านจะรับบัพติศมาด้วยพระวิญญาณบริสุทธิ์ในอีกไม่กี่วันข้างหน้านี้»",
+      "thai_literal": null,
+      "thai_summary": "พระเยซูทรงเปรียบเทียบบัพติศมาของยอห์น (ภายนอก การกลับใจ ด้วยน้ำ) กับบัพติศมาแห่งพระวิญญาณบริสุทธิ์ที่จะเกิดในวันเพ็นเทคอสต์ (ภายใน การชำระเปลี่ยนใหม่ ด้วยพระวิญญาณ) คำสัญญานี้สะท้อนคำพยากรณ์ของยอห์นเอง (ลูกา 3:16 — «ท่านจะให้รับบัพติศมาด้วยพระวิญญาณบริสุทธิ์และด้วยไฟ») และจะเกิดขึ้นอย่างแน่นอนในกิจการ 2",
+      "key_decisions": [
+        { "greek": "ἐβάπτισεν ὕδατι ... βαπτισθήσεσθε", "thai": "ให้รับบัพติศมา ... จะรับบัพติศมา", "rationale": "Per RULES §4 key-term: βαπτίζω → บัพติศมา (established Thai Christian transliteration, avoiding Buddhist-register 'พิธีมุดน้ำ' used by TNBT). Active 'ให้รับบัพติศมา' for John as agent; future passive 'จะรับบัพติศมา' for the disciples as recipients — the divine agent (God / Holy Spirit) is theologically implicit." },
+        { "greek": "οὐ μετὰ πολλὰς ταύτας ἡμέρας (litotes)", "thai": "ในอีกไม่กี่วันข้างหน้านี้", "rationale": "Litotes ('not after many days') = 'a few days from now'. Thai rendering converts to the positive form 'อีกไม่กี่วันข้างหน้า' for natural readability, matching uW figs-litotes note. Historically fulfilled ten days later at Pentecost (Lev 23:15–16 fifty-day count from First Fruits)." }
+      ],
+      "notes": "The μέν ... δέ contrast (John vs. you) is the classical antithetical construction — Thai renders via 'เพราะ ... แต่'. Luke's deliberate parallel: John literal water-baptism vs. Spirit-baptism (metaphor). uW TN notes this is Luke's only use of 'baptize' in the metaphorical sense (cf. 11:16 which re-quotes this verse); the next parallel 'filled with the Spirit' (πίμπλημι Πνεύματος) appears in Acts 2:4. No textual variant."
+    }
+  },
+  {
+    "reference": "Acts 1:6",
+    "chapter": 1,
+    "verse": 6,
+    "greek": "Οἱ μὲν οὖν συνελθόντες ἠρώτων αὐτὸν λέγοντες·Κύριε,εἰ ἐν τῷ χρόνῳ τούτῳ ἀποκαθιστάνεις τὴν βασιλείαν τῷ Ἰσραήλ;",
+    "bsb_english": "So when they came together, they asked Him, “Lord, will You at this time restore the kingdom to Israel?”",
+    "translation": {
+      "thai": "ฝ่ายพวกเขาเมื่อมาประชุมพร้อมกัน ก็ทูลถามพระองค์ว่า «องค์พระผู้เป็นเจ้า พระองค์ทรงจะฟื้นฟูอาณาจักรให้แก่อิสราเอลในเวลานี้หรือ»",
+      "thai_literal": null,
+      "thai_summary": "คำถามของเหล่าอัครทูตสะท้อนความคาดหวังทางการเมืองแบบยิวในยุคนั้น — ว่าพระเมสสิยาห์จะขับไล่โรมันและฟื้นฟูราชอาณาจักรดาวิดให้กลับมายิ่งใหญ่ทางการเมือง คำว่า «ฟื้นฟู» (อโปกาธิสตานีส) ใช้คำเดียวกับคำพยากรณ์มาลาคี 4:5–6 LXX เกี่ยวกับเอลียาห์ที่จะมา «ฟื้นฟูทุกสิ่ง» พระเยซูไม่ทรงปฏิเสธว่าจะไม่มีการฟื้นฟู แต่ทรงเปลี่ยนทิศทาง — กลายเป็นการเรียกร้องให้พวกเขามองพันธกิจข้างหน้า (ข้อ 8)",
+      "key_decisions": [
+        { "greek": "Κύριε (vocative, disciples to Jesus)", "thai": "องค์พระผู้เป็นเจ้า", "rationale": "Per 'vocative_kyrie_didaskale_register_2026-04' decision: disciples/believers addressing Jesus with vocative Κύριε → องค์พระผู้เป็นเจ้า (divine-sovereign register). This locks with 17 Lukan parallels (5:8, 9:54, 9:59, 9:61, 11:1, 12:41, 18:41, 19:8, 22:33, etc.)." },
+        { "greek": "ἀποκαθιστάνεις (pres. ind.)", "thai": "พระองค์ทรงจะฟื้นฟู", "rationale": "Present tense with incipient/futuristic force in a conditional question ('will you now restore'). The verb ἀποκαθίστημι = 'restore to former state' — same word LXX uses in Mal 3:23 (Eng 4:5) of Elijah's eschatological restoration. Thai 'ฟื้นฟู' captures 'restore to proper state'. ทรงจะ = future-marker with royal register. Retain question form matching Greek εἰ-question." },
+        { "greek": "τὴν βασιλείαν τῷ Ἰσραήλ", "thai": "อาณาจักรให้แก่อิสราเอล", "rationale": "βασιλεία here is political-national ('the kingdom [to] Israel') rather than the eschatological βασιλεία τοῦ θεοῦ. But the lexeme is still 'อาณาจักร' — context disambiguates referent. The dative τῷ Ἰσραήλ is indirect object 'to Israel' = 'ให้แก่อิสราเอล'." }
+      ],
+      "notes": "οὖν ('therefore/so') introduces a consequent question from Jesus' just-delivered Spirit-baptism promise (v. 5). The disciples interpret 'promise of the Father' and 'Spirit-baptism' through the lens of OT restoration prophecies (Isa 49:6; Ezek 36; Joel 2). Jesus' answer (vv. 7–8) will redirect — not denying the kingdom's coming but reframing its shape and timing. This verse closes off the disciples' political-Messianic expectation as the dominant Acts-narrative frame."
+    }
+  },
+  {
+    "reference": "Acts 1:7",
+    "chapter": 1,
+    "verse": 7,
+    "greek": "εἶπεν δὲ πρὸς αὐτούς·Οὐχ ὑμῶν ἐστιν γνῶναι χρόνους ἢ καιροὺς οὓς ὁ πατὴρ ἔθετο ἐν τῇ ἰδίᾳ ἐξουσίᾳ,",
+    "bsb_english": "Jesus replied, “It is not for you to know times or seasons that the Father has fixed by His own authority.",
+    "translation": {
+      "thai": "พระองค์ตรัสกับพวกเขาว่า «ไม่ใช่ธุระของพวกท่านที่จะรู้วาระหรือกำหนดเวลาต่างๆ ซึ่งพระบิดาทรงกำหนดไว้โดยสิทธิอำนาจของพระองค์เอง",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "Οὐχ ὑμῶν ἐστιν γνῶναι", "thai": "ไม่ใช่ธุระของพวกท่านที่จะรู้", "rationale": "Greek idiom 'not of you is it to know' = 'not for you to know' / 'not your business to know'. Thai 'ไม่ใช่ธุระของพวกท่าน' captures the idiomatic 'not your concern' sense naturally, rather than a stilted literal gloss." },
+        { "greek": "χρόνους ἢ καιροὺς (doublet)", "thai": "วาระหรือกำหนดเวลาต่างๆ", "rationale": "Classical doublet. χρόνος = chronological duration/period; καιρός = opportune moment / appointed time. Interpretive options per uW TN: (a) distinct senses, (b) doublet for emphasis. We preserve distinction: 'วาระ' (opportune/significant time, matching καιρός) 'หรือกำหนดเวลา' (fixed duration, matching χρόνος). Plural rendered as 'ต่างๆ'." },
+        { "greek": "ὁ πατὴρ ἔθετο ἐν τῇ ἰδίᾳ ἐξουσίᾳ", "thai": "พระบิดาทรงกำหนดไว้โดยสิทธิอำนาจของพระองค์เอง", "rationale": "Divine subject (πατήρ) → ราชาศัพท์ (ทรง). τίθημι in the middle sense here = 'appoint/set'. ἰδία ἐξουσία = 'his own authority' — emphasizes Father's sovereignty over eschatological timing. Thai 'โดยสิทธิอำนาจของพระองค์เอง' preserves the emphatic ἰδία ('his own')." }
+      ],
+      "notes": "Jesus' answer redirects without denying. He accepts the premise that there IS a kingdom-restoration; he denies the disciples' need to know WHEN. Pastoral application: the 'when' of eschatology remains in the Father's hand; the 'what-to-do-meanwhile' is spelled out in v. 8. No textual variant."
+    }
+  },
+  {
+    "reference": "Acts 1:8",
+    "chapter": 1,
+    "verse": 8,
+    "greek": "ἀλλὰ λήμψεσθε δύναμιν ἐπελθόντος τοῦ ἁγίου πνεύματος ἐφ’ὑμᾶς,καὶ ἔσεσθέ μου μάρτυρες ἔν τε Ἰερουσαλὴμ καὶ ἐν πάσῃ τῇ Ἰουδαίᾳ καὶ Σαμαρείᾳ καὶ ἕως ἐσχάτου τῆς γῆς.",
+    "bsb_english": "But you will receive power when the Holy Spirit comes upon you, and you will be My witnesses in Jerusalem, and in all Judea and Samaria, and to the ends of the earth.”",
+    "translation": {
+      "thai": "แต่พวกท่านจะได้รับฤทธิ์เดช เมื่อพระวิญญาณบริสุทธิ์เสด็จลงมาเหนือพวกท่าน และพวกท่านจะเป็นพยานของเราในกรุงเยรูซาเล็ม ทั่วแคว้นยูเดียและสะมาเรีย จนถึงที่สุดปลายแผ่นดินโลก»",
+      "thai_literal": null,
+      "thai_summary": "ข้อนี้เป็นโครงสร้างหลักของหนังสือกิจการทั้งเล่ม — ข่าวประเสริฐจะแผ่ขยายเป็นวงกลมที่ขยายออก: เริ่มต้นที่เยรูซาเล็ม (บทที่ 1–7) → ยูเดียและสะมาเรีย (บทที่ 8–12) → จนถึงที่สุดปลายแผ่นดินโลก (บทที่ 13–28 คือพันธกิจของเปาโลไปยังโรม) พระเยซูไม่ทรงตอบคำถามเรื่องเวลา (ข้อ 7) แต่ทรงเปลี่ยนโฟกัสให้เป็นเรื่องพันธกิจแทน พระวิญญาณบริสุทธิ์คือผู้ประทานฤทธิ์อำนาจสำหรับการเป็นพยาน ไม่ใช่การปลอบใจส่วนตัวเท่านั้น",
+      "key_decisions": [
+        { "greek": "λήμψεσθε δύναμιν", "thai": "จะได้รับฤทธิ์เดช", "rationale": "δύναμις = 'power / might / miraculous ability'. 'ฤทธิ์เดช' is the established Thai rendering (matches Luke 24:49 'ฤทธิ์เดชจากเบื้องบน' and numerous prior chapters). 'ฤทธานุภาพ' is a variant used for God's own power; 'ฤทธิ์เดช' better fits a power received from Him." },
+        { "greek": "ἐπελθόντος τοῦ ἁγίου πνεύματος (gen. abs.)", "thai": "เมื่อพระวิญญาณบริสุทธิ์เสด็จลงมาเหนือพวกท่าน", "rationale": "Genitive absolute with temporal/causal force. ἐπέρχομαι 'come upon' is the same verb Luke 1:35 uses of the Spirit's overshadowing of Mary — a deliberate Lucan-theological link between Annunciation and Pentecost. Divine subject → ราชาศัพท์ (เสด็จลงมา). πνεῦμα ἅγιον → พระวิญญาณบริสุทธิ์ (RULES §4 standard)." },
+        { "greek": "ἔσεσθέ μου μάρτυρες", "thai": "พวกท่านจะเป็นพยานของเรา", "rationale": "Future indicative + predicate noun. μάρτυς = 'witness' (legal/testimonial sense). Thai 'พยาน' carries the same legal-witness sense. The possessive μου ('my witnesses') emphasizes that the content of witness is Jesus himself." },
+        { "greek": "ἕως ἐσχάτου τῆς γῆς", "thai": "จนถึงที่สุดปลายแผ่นดินโลก", "rationale": "LXX echo: Isa 49:6 ἕως ἐσχάτου τῆς γῆς (Servant bringing salvation to the ends of the earth). Luke will cite this same phrase at Acts 13:47 when Paul and Barnabas turn to the Gentiles. Spatial-not-temporal per uW TN. Thai 'ที่สุดปลายแผ่นดินโลก' is standard Thai Christian rendering (matches Luke 24:47's context)." }
+      ],
+      "notes": "OT ALLUSION: ἕως ἐσχάτου τῆς γῆς → Isa 49:6 LXX — this is a programmatic Lucan echo. The Servant in Isaiah is sent as 'a light to the nations, to bring salvation to the ends of the earth.' Jesus applies that Servant-mission now to the disciples as his witnesses. Paul will explicitly quote the same line at Acts 13:47. This is the book's master-outline verse: Jerusalem (chs. 1–7) → Judea/Samaria (chs. 8–12) → 'ends of the earth' (chs. 13–28, culminating in Paul at Rome). ADDED TO NT_OT_CITATIONS for Isa 49:6 allusion."
+    }
+  },
+  {
+    "reference": "Acts 1:9",
+    "chapter": 1,
+    "verse": 9,
+    "greek": "καὶ ταῦτα εἰπὼν βλεπόντων αὐτῶν ἐπήρθη καὶ νεφέλη ὑπέλαβεν αὐτὸν ἀπὸ τῶν ὀφθαλμῶν αὐτῶν.",
+    "bsb_english": "After He had said this, they watched as He was taken up, and a cloud hid Him from their sight.",
+    "translation": {
+      "thai": "เมื่อตรัสคำเหล่านี้แล้ว ขณะที่พวกเขากำลังจ้องมองอยู่ พระองค์ก็ทรงถูกรับขึ้นไป และมีเมฆรับพระองค์ไปพ้นสายตาของพวกเขา",
+      "thai_literal": null,
+      "thai_summary": "การเสด็จขึ้นสู่สวรรค์ของพระเยซูในมุมมองของกิจการ — เน้นเมฆที่รับพระองค์ไป ซึ่งเป็นภาพเดียวกับดาเนียล 7:13 («บุตรมนุษย์ท่านหนึ่งมาพร้อมกับเมฆแห่งท้องฟ้า») เมฆในพระคัมภีร์เดิมเป็นสัญลักษณ์ของการประทับของพระเจ้า (อพยพ 13:21–22; อพยพ 40:34–38; 1 พงศ์กษัตริย์ 8:10–11) การเสด็จขึ้นจึงไม่ใช่แค่การจากไป แต่เป็นการขึ้นครองบัลลังก์ในที่ประทับเบื้องสวรรค์",
+      "key_decisions": [
+        { "greek": "ἐπήρθη", "thai": "พระองค์ก็ทรงถูกรับขึ้นไป", "rationale": "Aorist passive of ἐπαίρω 'lift up'. Related but not identical to ἀνελήμφθη (v. 2, 11, 22, using ἀναλαμβάνω). Both are theological passives (God as agent). Thai 'ทรงถูกรับขึ้นไป' preserves passive form with royal register for Jesus-as-recipient." },
+        { "greek": "νεφέλη ὑπέλαβεν αὐτὸν", "thai": "มีเมฆรับพระองค์ไป", "rationale": "ὑπολαμβάνω 'receive up / take under' — the cloud is the subject of active verb. Luke presents the cloud not as concealment but as divine vehicle (cf. OT cloud-theophany pattern). 'รับพระองค์ไป' captures the receiving action without reducing to mere visual obstruction." },
+        { "greek": "ἀπὸ τῶν ὀφθαλμῶν αὐτῶν (metonymy)", "thai": "พ้นสายตาของพวกเขา", "rationale": "Greek metonymy 'from their eyes' = 'from their sight'. Thai idiomatic 'พ้นสายตา' = 'beyond sight' — same metonymy native to Thai. Per uW TN figs-metonymy." }
+      ],
+      "notes": "OT ALLUSION: the cloud at the Ascension echoes Dan 7:13 LXX (ἰδοὺ μετὰ τῶν νεφελῶν τοῦ οὐρανοῦ ὡς υἱὸς ἀνθρώπου ἐρχόμενος — 'one like a son of man coming with the clouds of heaven') — in Daniel, the cloud-borne Son of Man ascends TO the Ancient of Days. Luke frames Jesus' ascension as fulfillment of that cloud-enthronement vision. Cf. Luke 21:27 already echoes Dan 7. ADDED TO NT_OT_CITATIONS for Dan 7:13 allusion."
+    }
+  },
+  {
+    "reference": "Acts 1:10",
+    "chapter": 1,
+    "verse": 10,
+    "greek": "καὶ ὡς ἀτενίζοντες ἦσαν εἰς τὸν οὐρανὸν πορευομένου αὐτοῦ,καὶ ἰδοὺ ἄνδρες δύο παρειστήκεισαν αὐτοῖς ἐν ἐσθήσεσι λευκαῖς,",
+    "bsb_english": "They were looking intently into the sky as He was going, when suddenly two men dressed in white stood beside them.",
+    "translation": {
+      "thai": "ขณะที่พวกเขากำลังจ้องมองท้องฟ้าดูพระองค์เสด็จไปนั้น ดูเถิด มีชายสองคนสวมเสื้อผ้าสีขาวมายืนอยู่ข้างๆ พวกเขา",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "ἀτενίζοντες", "thai": "จ้องมอง", "rationale": "ἀτενίζω = 'gaze intently / fix one's eyes on' — a Lucan favorite (appears 10× in Luke-Acts, not in other NT). Thai 'จ้องมอง' captures fixed attentive gaze." },
+        { "greek": "εἰς τὸν οὐρανὸν (first instance)", "thai": "ท้องฟ้า", "rationale": "οὐρανός has double sense: 'sky' (visible heavens) or 'heaven' (God's dwelling). Per uW TN, here (with cloud blocking view) the sense is 'sky' — the disciples are looking at the physical sky. Thai 'ท้องฟ้า' = 'sky'. Second occurrence in v.11 may be 'heaven' proper; see v.11 note." },
+        { "greek": "ἄνδρες δύο ... ἐν ἐσθήσεσι λευκαῖς", "thai": "ชายสองคนสวมเสื้อผ้าสีขาว", "rationale": "Per uW TN: these are angels described in human form ('men'). White garments are the Lucan signature of angelic/resurrection messengers (cf. Luke 24:4 'two men in dazzling clothes' at the empty tomb — deliberate echo). Rendering 'ชายสองคน' preserves Luke's narrative angle (what the disciples saw) rather than naming them 'ทูตสวรรค์' overtly. λευκαῖς = 'white' in both common and radiant senses." }
+      ],
+      "notes": "Structural echo: Luke 24:4 (empty tomb) also had 'two men in dazzling/shining garments'; now at the Ascension, two again. This is Luke's literary framing — the resurrection-appearance cycle opens and closes with 'two men' angelic witnesses. ἰδού ('behold') is Lucan narrative marker for a sudden shift (uW figs-metaphor). The imperfect periphrastic ἀτενίζοντες ἦσαν + gen. abs. πορευομένου emphasizes the duration of their upward gaze."
+    }
+  },
+  {
+    "reference": "Acts 1:11",
+    "chapter": 1,
+    "verse": 11,
+    "greek": "οἳ καὶ εἶπαν·Ἄνδρες Γαλιλαῖοι,τί ἑστήκατε βλέποντες εἰς τὸν οὐρανόν;οὗτος ὁ Ἰησοῦς ὁ ἀναλημφθεὶς ἀφ’ὑμῶν εἰς τὸν οὐρανὸν οὕτως ἐλεύσεται ὃν τρόπον ἐθεάσασθε αὐτὸν πορευόμενον εἰς τὸν οὐρανόν.",
+    "bsb_english": "“Men of Galilee,” they said, “why do you stand here looking into the sky? This same Jesus, who has been taken from you into heaven, will come back in the same way you have seen Him go into heaven.”",
+    "translation": {
+      "thai": "ทั้งสองกล่าวว่า «ชาวกาลิลีเอ๋ย เหตุใดพวกท่านจึงยืนจ้องดูท้องฟ้าอยู่เล่า พระเยซูองค์นี้ที่ทรงถูกรับจากพวกท่านขึ้นไปสู่สวรรค์ จะเสด็จกลับมาในลักษณะเดียวกันกับที่พวกท่านได้เห็นพระองค์เสด็จขึ้นไปสู่สวรรค์»",
+      "thai_literal": null,
+      "thai_summary": "คำประกาศของทูตสวรรค์สองตนเป็นคำสัญญาเรื่องการเสด็จกลับมาของพระคริสต์ (Second Coming) ครั้งแรกในพันธสัญญาใหม่หลังการเสด็จขึ้นสู่สวรรค์ — «ในลักษณะเดียวกัน» หมายถึงเสด็จกลับมาพร้อมกับเมฆอย่างเปิดเผย (ดาเนียล 7:13; มัทธิว 24:30; 1 เธสะโลนิกา 4:17; วิวรณ์ 1:7) ทูตสวรรค์ขัดการจ้องมองของสาวก — ภารกิจของพวกเขาไม่ใช่การรอคอยแบบเฉื่อยชา แต่คือการเริ่มลงมือเป็นพยาน (ข้อ 8)",
+      "key_decisions": [
+        { "greek": "Ἄνδρες Γαλιλαῖοι (vocative idiom)", "thai": "ชาวกาลิลีเอ๋ย", "rationale": "Greek idiomatic vocative 'Men, Galileans' = ethnic-identificatory address. Thai 'ชาวกาลิลี' + vocative particle 'เอ๋ย' naturally captures the attention-getting idiom. Per uW figs-idiom." },
+        { "greek": "τί ἑστήκατε βλέποντες (rhetorical)", "thai": "เหตุใดพวกท่านจึงยืนจ้องดู ... อยู่เล่า", "rationale": "Rhetorical question per uW figs-rquestion — angels aren't asking for information. Thai question particle 'เล่า' carries the mild rebuke tone. We retain question form (not declarative/exclamatory) since Thai questions can carry the same rhetorical weight as Greek." },
+        { "greek": "εἰς τὸν οὐρανόν (two instances in v.11)", "thai": "สู่สวรรค์ (both instances)", "rationale": "Per uW TN, the first οὐρανόν here may mean 'heaven' proper (Jesus has been taken to God's presence) while the second may shift to 'sky' (the visible ascending motion). However, Thai Christian translation convention renders both as 'สวรรค์' in parallel clauses — and the angels' theological point is precisely that the PHYSICAL going-into-the-sky signifies the REAL going-into-heaven. Preserving 'สวรรค์' for both echoes Thai liturgical register and does not mislead. Rejected: rendering first as 'ท้องฟ้า' would flatten the angels' theological assertion." },
+        { "greek": "ὁ ἀναλημφθεὶς (aor. pass. ptc.)", "thai": "ทรงถูกรับ ... ขึ้นไป", "rationale": "Articular passive participle — matches v. 2, v. 22 lexically, preserving the four-fold Lucan drumbeat of 'taken up' in this chapter. Divine agent implicit (God takes Jesus up)." },
+        { "greek": "οὕτως ἐλεύσεται ὃν τρόπον", "thai": "จะเสด็จกลับมาในลักษณะเดียวกันกับที่", "rationale": "Correlative 'in this way ... in the manner which'. Thai 'ในลักษณะเดียวกันกับที่' captures the point of correspondence. Divine subject → เสด็จ (ราชาศัพท์)." }
+      ],
+      "notes": "First explicit Second-Coming prophecy post-Ascension in the NT narrative. ὃν τρόπον ἐθεάσασθε ('in the manner you saw') invites a literal correspondence — bodily, visible, cloud-accompanied. The οὐρανός double-sense question per uW is preserved in notes but rendered uniformly in Thai main text. No textual variant."
+    }
+  },
+  {
+    "reference": "Acts 1:12",
+    "chapter": 1,
+    "verse": 12,
+    "greek": "Τότε ὑπέστρεψαν εἰς Ἰερουσαλὴμ ἀπὸ ὄρους τοῦ καλουμένου Ἐλαιῶνος,ὅ ἐστιν ἐγγὺς Ἰερουσαλὴμ σαββάτου ἔχον ὁδόν.",
+    "bsb_english": "Then they returned to Jerusalem from the Mount of Olives, which is near the city, a Sabbath day’s journey away.",
+    "translation": {
+      "thai": "แล้วพวกเขาจึงกลับไปยังกรุงเยรูซาเล็มจากภูเขาที่เรียกว่ามะกอกเทศ ซึ่งอยู่ใกล้กรุงเยรูซาเล็ม ห่างออกไปเป็นระยะทางที่เดินได้ในวันสะบาโต",
+      "thai_literal": null,
+      "thai_summary": "«ระยะทางเดินวันสะบาโต» ประมาณ 1 กิโลเมตร (2,000 คิวบิท) — เป็นระยะทางที่กฎของรับบีในยุคพระวิหารที่สองอนุญาตให้เดินได้ในวันสะบาโตโดยไม่ถือเป็นการทำงาน ภูเขามะกอกเทศเป็นสถานที่ที่พระเยซูทรงรักเสด็จไปอธิษฐาน (ลูกา 22:39) และเป็นสถานที่เดียวกับที่ทรงขึ้นครองม้าเข้ากรุงเยรูซาเล็มอย่างผู้ชนะ (ลูกา 19:29) บัดนี้เป็นสถานที่แห่งการเสด็จขึ้นสู่สวรรค์",
+      "key_decisions": [
+        { "greek": "ὄρους τοῦ καλουμένου Ἐλαιῶνος (ἐλαιών hapax in this form)", "thai": "ภูเขาที่เรียกว่ามะกอกเทศ", "rationale": "Ἐλαιών 'olive-grove' as proper-noun form of Mt of Olives — here transliterated-named. Luke 19:29 and 21:37 used τὸ ὄρος τὸ καλούμενον Ἐλαιῶν with identical 'ภูเขามะกอกเทศ' rendering; we lock the same. 'มะกอก' = 'olive' + 'เทศ' = 'foreign/-grove' compound standard in Thai Christian Bible tradition." },
+        { "greek": "σαββάτου ἔχον ὁδόν (idiom)", "thai": "ห่างออกไปเป็นระยะทางที่เดินได้ในวันสะบาโต", "rationale": "Rabbinic-halakhic expression 'having a Sabbath-day's journey' = a prescribed walkable distance (~2000 cubits / ~1km) not counted as 'work'. Thai 'ระยะทางที่เดินได้ในวันสะบาโต' retains the legal-religious specificity. Rejected: converting to modern units loses the Jewish-context detail." }
+      ],
+      "notes": "The hapax ἐλαιών (noun form) here vs. the genitive plural ἐλαιῶν 'of olives' elsewhere — same place, different lexical form. Rendering is consistent across Luke-Acts. 'Sabbath day's journey' is an intra-Jewish halakhic detail that Luke preserves for his (partially Gentile) audience — showing his careful preservation of Jewish cultural context. No textual variant."
+    }
+  },
+  {
+    "reference": "Acts 1:13",
+    "chapter": 1,
+    "verse": 13,
+    "greek": "καὶ ὅτε εἰσῆλθον,εἰς τὸ ὑπερῷον ἀνέβησαν οὗ ἦσαν καταμένοντες,ὅ τε Πέτρος καὶ Ἰωάννης καὶ Ἰάκωβος καὶ Ἀνδρέας,Φίλιππος καὶ Θωμᾶς,Βαρθολομαῖος καὶ Μαθθαῖος,Ἰάκωβος Ἁλφαίου καὶ Σίμων ὁ ζηλωτὴς καὶ Ἰούδας Ἰακώβου.",
+    "bsb_english": "When they arrived, they went to the upper room where they were staying: Peter and John, James and Andrew, Philip and Thomas, Bartholomew and Matthew, James son of Alphaeus, Simon the Zealot, and Judas son of James.",
+    "translation": {
+      "thai": "เมื่อเข้าไปในเมืองแล้ว พวกเขาก็ขึ้นไปยังห้องชั้นบนซึ่งเป็นที่พักของพวกเขา คือ เปโตร ยอห์น ยากอบ อันดรูว์ ฟีลิป โธมัส บารโธโลมิว มัทธิว ยากอบบุตรอัลเฟอัส ซีโมนเศโลเท และยูดาสบุตรยากอบ",
+      "thai_literal": null,
+      "thai_summary": "รายชื่ออัครทูตสิบเอ็ดคน (ไม่รวมยูดาสอิสคาริโอทที่ตายแล้ว) เปรียบเทียบกับรายชื่อในมัทธิว 10:2–4 และมาระโก 3:16–19 มีความต่างเพียงข้อเดียว — ลูกาเรียก «ยูดาสบุตรยากอบ» ขณะที่มัทธิว/มาระโกเรียก «ธัดดาอัส» ซึ่งน่าจะเป็นคนเดียวกันในคนละชื่อ การลำดับอัครทูตสามคนแรก (เปโตร ยอห์น ยากอบ) แตกต่างจากพระกิตติคุณอื่นๆ — ลูกาจัดยอห์นไว้เป็นที่สองสะท้อนบทบาทของยอห์นในกิจการบทแรกๆ (กิจการ 3:1; 4:13; 8:14)",
+      "key_decisions": [
+        { "greek": "καταμένοντες (hapax, pres. ptc.)", "thai": "เป็นที่พักของพวกเขา", "rationale": "NT hapax κατα- + μένω intensifies 'remain/stay'. Imperfect periphrastic ἦσαν + ptc. indicates ongoing residence — they lived there during this period. 'ที่พัก' captures the extended-stay sense; fuller paraphrase 'เป็นที่พักของพวกเขา' naturalizes." },
+        { "greek": "Σίμων ὁ ζηλωτὴς", "thai": "ซีโมนเศโลเท", "rationale": "ζηλωτής = 'zealot' — either (a) affiliation with the Zealot political-revolutionary movement (Josephus' term), or (b) 'one who is zealous' for the Law. Ambiguity in Greek. Thai Christian convention transliterates as 'เศโลเท' following THSV pattern, preserving Greek term without forcing an interpretive choice. 'ซีโมนผู้กระตือรือร้น' and 'ซีโมนพรรคชาตินิยม' are alternatives but less recognizable to Thai Christian readers." },
+        { "greek": "Ἰάκωβος Ἁλφαίου / Ἰούδας Ἰακώβου (patronymic idiom)", "thai": "ยากอบบุตรอัลเฟอัส / ยูดาสบุตรยากอบ", "rationale": "Greek genitive for 'son of X' (name in gen. case alone, without υἱός). Thai adds explicit 'บุตร' per standard Thai Christian naming convention. Per uW figs-idiom." }
+      ],
+      "notes": "Transliterations locked per Thai Christian convention (verified against Matthew translations already shipped): เปโตร (Πέτρος), ยอห์น (Ἰωάννης), ยากอบ (Ἰάκωβος), อันดรูว์ (Ἀνδρέας), ฟีลิป (Φίλιππος), โธมัส (Θωμᾶς), บารโธโลมิว (Βαρθολομαῖος), มัทธิว (Μαθθαῖος), อัลเฟอัส (Ἁλφαῖος), ซีโมน (Σίμων), ยูดาส (Ἰούδας). The missing 12th = Judas Iscariot, replaced by Matthias later in the chapter. Difference from Matthew/Mark lists (Thaddeus vs. Judas son of James) is a data divergence uW discusses; we let Luke tell it his way per uW translation-issues guidance."
+    }
+  },
+  {
+    "reference": "Acts 1:14",
+    "chapter": 1,
+    "verse": 14,
+    "greek": "οὗτοι πάντες ἦσαν προσκαρτεροῦντες ὁμοθυμαδὸν τῇ προσευχῇ σὺν γυναιξὶν καὶ Μαριὰμ τῇ μητρὶ τοῦ Ἰησοῦ καὶ σὺν τοῖς ἀδελφοῖς αὐτοῦ.",
+    "bsb_english": "With one accord they all continued in prayer, along with the women and Mary the mother of Jesus, and with His brothers.",
+    "translation": {
+      "thai": "คนเหล่านี้ทุกคนร่วมใจกันอุทิศตัวในการอธิษฐาน พร้อมกับพวกผู้หญิง มารีย์มารดาของพระเยซู และกับบรรดาน้องชายของพระองค์",
+      "thai_literal": null,
+      "thai_summary": "คำว่า «เป็นน้ำหนึ่งใจเดียวกัน» (โฮโมธูมาดอน) เป็นคำเด่นประจำหนังสือกิจการ ปรากฏ 10 ครั้งในกิจการ และปรากฏเพียงครั้งเดียวนอกกิจการในพันธสัญญาใหม่ — แสดงความเป็นหนึ่งเดียวของคริสตจักรยุคแรก มารีย์มารดาของพระเยซูปรากฏในพันธสัญญาใหม่เป็นครั้งสุดท้ายในข้อนี้ น่าสังเกตว่า «น้องชาย» ของพระเยซูซึ่งไม่เชื่อในช่วงพันธกิจ (ยอห์น 7:5) บัดนี้ได้อยู่ท่ามกลางผู้เชื่อแล้ว — รวมทั้งยากอบที่จะกลายเป็นผู้นำคริสตจักรเยรูซาเล็ม (กิจการ 15)",
+      "key_decisions": [
+        { "greek": "ὁμοθυμαδὸν", "thai": "ร่วมใจกัน", "rationale": "Acts-signature word (10× in Acts, 1× elsewhere in NT). Compound of ὁμός 'same' + θυμός 'spirit/passion' = 'with one passion/mind'. Thai 'ร่วมใจกัน' (lit. 'joined-heart together') captures the unified-spirit sense. Alternative 'เป็นน้ำหนึ่งใจเดียวกัน' (4 syllables longer) is used idiomatically in the summary but compact 'ร่วมใจกัน' better fits verse prose. Lock for corpus consistency going forward." },
+        { "greek": "προσκαρτεροῦντες ... τῇ προσευχῇ", "thai": "อุทิศตัวในการอธิษฐาน", "rationale": "προσκαρτερέω 'persist in / devote oneself to'. Periphrastic imperf. indicates sustained action. Thai 'อุทิศตัวใน' conveys devoted persistence." },
+        { "greek": "σὺν γυναιξὶν", "thai": "พร้อมกับพวกผู้หญิง", "rationale": "Per uW TN: Luke assumes readers know these are the women who traveled with Jesus (cf. Luke 8:2–3; 23:49; 24:10). 'พวกผู้หญิง' preserves the generic definite-anaphora sense. Not wives-of-apostles specifically; broader group." },
+        { "greek": "τοῖς ἀδελφοῖς αὐτοῦ", "thai": "บรรดาน้องชายของพระองค์", "rationale": "Jesus' physical younger brothers (Matt 13:55 names James, Joses, Simon, Judas). Per uW translate-kinship: younger-brother form available in Thai = 'น้องชาย'. Contrast with theological use of ἀδελφοί = 'fellow believers' in v. 15, 16." }
+      ],
+      "notes": "Final NT mention of Mary the mother of Jesus — a narrative closing. The presence of Jesus' 'brothers' here (previously unbelievers per John 7:5; Mark 3:21) signals their post-resurrection conversion — James will become Jerusalem church head (Acts 15; Gal 1:19) and write the Epistle of James. The prayer-together-in-one-place frame sets up Pentecost (2:1)."
+    }
+  },
+  {
+    "reference": "Acts 1:15",
+    "chapter": 1,
+    "verse": 15,
+    "greek": "Καὶ ἐν ταῖς ἡμέραις ταύταις ἀναστὰς Πέτρος ἐν μέσῳ τῶν ἀδελφῶν εἶπεν ἦν τε ὄχλος ὀνομάτων ἐπὶ τὸ αὐτὸ ὡς ἑκατὸν εἴκοσι·",
+    "bsb_english": "In those days Peter stood up among the brothers (a gathering of about a hundred and twenty) and said,",
+    "translation": {
+      "thai": "ในวันเหล่านั้น เปโตรยืนขึ้นท่ามกลางหมู่พี่น้อง (ซึ่งเป็นฝูงชนรวมกันประมาณหนึ่งร้อยยี่สิบคน) แล้วกล่าวว่า",
+      "thai_literal": null,
+      "thai_summary": "จำนวน 120 คนมีความหมายในบริบทยิว — กฎรับบีกำหนดว่าชุมชนยิวต้องมีสมาชิกอย่างน้อย 120 คนจึงจะตั้งสภาซันเฮดรินท้องถิ่น (เบราค็อต 17b) ลูกาอาจจะแสดงเป็นนัยว่าคริสตจักรเยรูซาเล็มยุคแรกมีขนาดที่เหมาะสมจะเป็น «ชุมนุมชนของพระเจ้า» ที่ถูกต้องตามกฎ เปโตรในฐานะผู้นำกลุ่มอัครทูตเริ่มพูดเป็นครั้งแรก",
+      "key_decisions": [
+        { "greek": "τῶν ἀδελφῶν", "thai": "หมู่พี่น้อง", "rationale": "ἀδελφοί here = fellow believers (per uW figs-metaphor + figs-gendernotations), not biological brothers. Thai 'พี่น้อง' already includes mixed-gender believers idiomatically in Christian usage (contrast with v.14 biological 'น้องชาย'). This matches the uW 'brothers and sisters' generic-sense note." },
+        { "greek": "ἐπὶ τὸ αὐτὸ (ambiguous)", "thai": "รวมกัน", "rationale": "Lucan idiom meaning either 'in the same place' or 'in one accord' (see uW book intro section on this phrase — occurs 5× in Acts with shifting nuance). In v.15, clearly spatial-numerical context ('there was a crowd of names in the same place about 120') — Thai 'รวมกัน' captures 'gathered together'. Forward instances (2:1, 2:44, 2:47, 4:26) will be re-assessed per context." },
+        { "greek": "ὄχλος ὀνομάτων (metonymy)", "thai": "ฝูงชน ... คน", "rationale": "Per uW figs-metonymy: 'crowd of names' = 'crowd of people' — names used for persons. Thai 'ฝูงชน ... คน' renders natural person-count without the metonymic literalism." }
+      ],
+      "notes": "The parenthetical size-count is Lucan background-information technique (uW writing-background). 120 people is tangibly small — a quorum-sized gathering; the Spirit's Pentecost expansion (3,000 in one day — 2:41) makes the contrast stark. ἀναστὰς ('standing up') is per uW translate-symaction a gesture of taking the floor to speak."
+    }
+  },
+  {
+    "reference": "Acts 1:16",
+    "chapter": 1,
+    "verse": 16,
+    "greek": "Ἄνδρες ἀδελφοί,ἔδει πληρωθῆναι τὴν γραφὴν ἣν προεῖπε τὸ πνεῦμα τὸ ἅγιον διὰ στόματος Δαυὶδ περὶ Ἰούδα τοῦ γενομένου ὁδηγοῦ τοῖς συλλαβοῦσιν Ἰησοῦν,",
+    "bsb_english": "“Brothers, the Scripture had to be fulfilled that the Holy Spirit foretold through the mouth of David concerning Judas, who became a guide for those who arrested Jesus.",
+    "translation": {
+      "thai": "«ท่านพี่น้องทั้งหลาย พระคัมภีร์ข้อซึ่งพระวิญญาณบริสุทธิ์ได้ตรัสไว้ล่วงหน้าโดยปากของดาวิดเกี่ยวกับยูดาสผู้เป็นคนนำทางแก่คนที่มาจับพระเยซูจำต้องสำเร็จ",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "Ἄνδρες ἀδελφοί (vocative idiom)", "thai": "ท่านพี่น้องทั้งหลาย", "rationale": "Classical Greek vocative idiom 'Men, brothers' = 'My brothers/fellow believers' (uW figs-idiom + figs-metaphor). Lock for Acts going forward — Peter/Paul open many speeches this way (2:29; 2:37; 7:2; 13:15, 26, 38; 22:1; 23:1, 6; 28:17)." },
+        { "greek": "ἔδει πληρωθῆναι τὴν γραφὴν", "thai": "พระคัมภีร์ ... จำต้องสำเร็จ", "rationale": "δεῖ + aor. pass. inf. = divine-necessity formula ('it was necessary that Scripture be fulfilled'). Lucan signature pattern (cf. Luke 22:37, 24:44, 24:46). Thai 'จำต้องสำเร็จ' renders the divine-necessity. Passive 'be fulfilled' — God is agent of fulfillment." },
+        { "greek": "διὰ στόματος Δαυὶδ (metonymy)", "thai": "โดยปากของดาวิด", "rationale": "Per uW figs-metonymy: 'mouth of David' = the words David wrote/sang. Thai 'โดยปากของดาวิด' preserves the biblical-Hebraic idiom (cf. OT 'by the mouth of the prophets'), which Thai readers familiar with Psalms will recognize." },
+        { "greek": "ὁδηγοῦ τοῖς συλλαβοῦσιν Ἰησοῦν (synecdoche)", "thai": "คนนำทางแก่คนที่มาจับพระเยซู", "rationale": "Per uW figs-synecdoche: 'guide to those arresting' represents the full range of Judas's betrayal acts. Thai 'คนนำทาง' captures the specific historical role (John 18:2–3 — Judas led the arresting party to Gethsemane), letting the broader betrayal remain implied. Rejected: paraphrasing to 'ผู้ทรยศ' (betrayer) would flatten Peter's specific citation." }
+      ],
+      "notes": "Peter establishes the Scriptural framework for the replacement of Judas before quoting Psalms (v. 20). The Holy Spirit is the ultimate author, David the human instrument — a Lucan pneumatological-inspiration framework (cf. Luke 1:70; Acts 4:25; 28:25). No textual variant."
+    }
+  },
+  {
+    "reference": "Acts 1:17",
+    "chapter": 1,
+    "verse": 17,
+    "greek": "ὅτι κατηριθμημένος ἦν ἐν ἡμῖν καὶ ἔλαχεν τὸν κλῆρον τῆς διακονίας ταύτης.",
+    "bsb_english": "He was one of our number and shared in this ministry.”",
+    "translation": {
+      "thai": "เพราะเขาเคยถูกนับรวมอยู่กับพวกเรา และได้รับส่วนแบ่งในพันธกิจนี้»",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "κατηριθμημένος ἦν (periphrastic pf. pass., hapax)", "thai": "เคยถูกนับรวมอยู่กับพวกเรา", "rationale": "NT hapax καταριθμέω 'to number/count among'. Perfect periphrastic passive = 'he had been counted (in the past, with present result)'. Thai 'เคยถูกนับ' carries 'formerly counted' with the nuance that Judas's status has now ended. Parallel form συγκαταψηφίζομαι (NT hapax) reappears in v. 26 for Matthias's inclusion — deliberate Lucan verb-pairing around Judas→Matthias transition." },
+        { "greek": "ἔλαχεν τὸν κλῆρον τῆς διακονίας", "thai": "ได้รับส่วนแบ่งในพันธกิจ", "rationale": "λαγχάνω 'to obtain by lot / receive as one's share'. κλῆρος 'lot/share/portion' — foreshadows v. 26 literal lot-casting (deliberate ring-composition). διακονία 'service/ministry'. 'ส่วนแบ่งในพันธกิจ' captures both the apportionment-by-lot sense and the ministerial content." }
+      ],
+      "notes": "Hapax legomenon: καταριθμέω. Forms a verbal pair with συγκαταψηφίζομαι (v. 26) — Peter's speech forms an inclusio: Judas 'was counted among' (v.17) … Matthias 'was counted with the eleven' (v.26). The word κλῆρος (appears here and 3× in v. 26) ties Peter's theological framing ('his share of this ministry') to the concrete lot-casting act. No textual variant."
+    }
+  },
+  {
+    "reference": "Acts 1:18",
+    "chapter": 1,
+    "verse": 18,
+    "greek": "Οὗτος μὲν οὖν ἐκτήσατο χωρίον ἐκ μισθοῦ τῆς ἀδικίας,καὶ πρηνὴς γενόμενος ἐλάκησεν μέσος,καὶ ἐξεχύθη πάντα τὰ σπλάγχνα αὐτοῦ.",
+    "bsb_english": "(Now with the reward for his wickedness Judas bought a field; there he fell headlong and burst open in the middle, and all his intestines spilled out.",
+    "translation": {
+      "thai": "(คนนี้ได้เอาค่าจ้างแห่งความชั่วของเขาไปซื้อที่ดินผืนหนึ่ง แล้วล้มคะมำลง ตัวก็แตกออกตรงกลาง ไส้พุงทั้งหมดก็ทะลักออกมา",
+      "thai_literal": null,
+      "thai_summary": "ลูกาเล่าเรื่องการตายของยูดาสแตกต่างจากมัทธิว 27:3–10 มัทธิวเล่าว่ายูดาสคืนเงินให้หัวหน้าปุโรหิต แล้วแขวนคอตาย และหัวหน้าปุโรหิตใช้เงินซื้อ «ทุ่งช่างหม้อ» มาฝังศพคนต่างด้าว ลูกาเล่าว่ายูดาสเอาเงินไปซื้อทุ่งเอง แล้วล้มลงแตก วิธีหนึ่งที่นักวิชาการประนีประนอมได้คือ ยูดาสแขวนคอก่อน เชือกขาดหรือร่างกายเน่า ร่างจึงล้มลงแตก และเงินที่หัวหน้าปุโรหิตใช้ซื้อที่ดินถือว่าเป็น «เงินของยูดาส» เพราะพวกเขาไม่ยอมรับเงินคืน คำแนะนำของ uW คือให้แต่ละผู้เล่าบรรยายตามแบบของตนเอง โดยไม่พยายามประนีประนอมในการแปล",
+      "key_decisions": [
+        { "greek": "ἐκτήσατο χωρίον ἐκ μισθοῦ τῆς ἀδικίας", "thai": "เอาค่าจ้างแห่งความชั่ว ... ไปซื้อที่ดิน", "rationale": "ἐκ μισθοῦ 'from/out of the reward' = instrumental 'by means of the reward'. μισθὸς τῆς ἀδικίας (gen.) 'reward of unrighteousness' = 'reward for doing wrong' (attributive gen., per uW figs-metonymy). Thai 'ค่าจ้างแห่งความชั่ว' preserves both the payment-nuance and the moral-qualification." },
+        { "greek": "πρηνὴς γενόμενος ἐλάκησεν μέσος (two hapax)", "thai": "ล้มคะมำลง ตัวก็แตกออกตรงกลาง", "rationale": "Two hapax in one phrase. πρηνής 'headlong / prostrate / face-down' — classical medical term (Hippocrates uses it of corpses). λακάω 'burst open' — rare onomatopoetic verb. Thai 'ล้มคะมำ' = 'fall headlong'; 'แตกออกตรงกลาง' captures the violent splitting. We retain the graphic detail — Luke's careful medical vocabulary (he was a physician, Col 4:14) preserves the stark realism." },
+        { "greek": "ἐξεχύθη πάντα τὰ σπλάγχνα", "thai": "ไส้พุงทั้งหมด ... ทะลักออกมา", "rationale": "σπλάγχνα 'inner organs / guts / entrails' (in figurative sense also 'deep compassion'; here purely literal). ἐκχέω 'pour out' in aor. passive. Thai 'ไส้พุง ... ทะลัก' captures the graphic medical detail." }
+      ],
+      "notes": "Two hapax legomena: πρηνής and λακάω. Parenthetical narrator-insert by Luke (vv. 18–19) interrupting Peter's speech (which resumes v. 20 γέγραπται γάρ). uW writing-background notes the parenthesis convention. Per uW chapter intro on 'details of the death of Judas': Luke's account differs from Matt 27:3–10. We do NOT attempt to harmonize in translation — each Gospel's account stands on its own. Cross-reference to 'ทุ่งโลหิต' (Akeldama) in v. 19 is Luke's specific tradition. This is the most graphic death-description in the NT."
+    }
+  },
+  {
+    "reference": "Acts 1:19",
+    "chapter": 1,
+    "verse": 19,
+    "greek": "καὶ γνωστὸν ἐγένετο πᾶσι τοῖς κατοικοῦσιν Ἰερουσαλήμ,ὥστε κληθῆναι τὸ χωρίον ἐκεῖνο τῇ ἰδίᾳ διαλέκτῳ αὐτῶν Ἁκελδαμάχ,τοῦτ’ἔστιν Χωρίον Αἵματος.",
+    "bsb_english": "This became known to all who lived in Jerusalem, so they called that field in their own language Akeldama, that is, Field of Blood.)",
+    "translation": {
+      "thai": "เรื่องนี้เป็นที่รู้กันในหมู่ทุกคนที่อาศัยอยู่ในกรุงเยรูซาเล็ม จนที่ดินผืนนั้นถูกเรียกในภาษาของพวกเขาเองว่า «อาเคลดามา» ซึ่งแปลว่า «ทุ่งโลหิต»)",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "Ἁκελδαμάχ (Aramaic transliteration, hapax)", "thai": "อาเคลดามา", "rationale": "Aramaic חֲקֵל דְּמָא 'Field of Blood' transliterated into Greek letters. NT hapax. Luke preserves the Aramaic sound then translates it — Mark's strategy with ταλιθα κουμ (Mark 5:41) and Ἐφφαθα (7:34). Thai 'อาเคลดามา' follows sound preservation with minor terminal simplification (Greek final χ is a transliteration tail not required in Thai)." },
+        { "greek": "τῇ ἰδίᾳ διαλέκτῳ αὐτῶν", "thai": "ในภาษาของพวกเขาเอง", "rationale": "διάλεκτος = 'local dialect / native tongue'. Jerusalem's 'own language' here = Aramaic (the vernacular of first-century Judea; Hebrew was liturgical). Thai 'ภาษาของพวกเขาเอง' preserves the native-tongue sense." },
+        { "greek": "Χωρίον Αἵματος", "thai": "ทุ่งโลหิต", "rationale": "'Field of Blood' — Luke's translation of the Aramaic. 'ทุ่ง' = 'field', 'โลหิต' = 'blood' (elevated/biblical register vs. colloquial 'เลือด')." }
+      ],
+      "notes": "Aramaic transliteration preserved per RULES §4 proper-noun practice. Luke's 'their own language' markers are culturally significant for a partially-Gentile readership — he assumes some readers don't know Aramaic. This naming story differs from Matt 27:6–10 (where the chief priests, not Judas, buy the field with the returned money; its name is 'field of blood' because purchased with blood-money, not because Judas died bloodily there). Both traditions associate the field with Judas's death-money; the etymology differs."
+    }
+  },
+  {
+    "reference": "Acts 1:20",
+    "chapter": 1,
+    "verse": 20,
+    "greek": "γέγραπται γὰρ ἐν βίβλῳ ψαλμῶν·Γενηθήτω ἡ ἔπαυλις αὐτοῦ ἔρημος καὶ μὴ ἔστω ὁ κατοικῶν ἐν αὐτῇ,καί·Τὴν ἐπισκοπὴν αὐτοῦ λαβέτω ἕτερος.",
+    "bsb_english": "“For it is written in the book of Psalms: ‘May his place be deserted; let there be no one to dwell in it,’ and, ‘May another take his position.’",
+    "translation": {
+      "thai": "เพราะมีเขียนไว้ในหนังสือสดุดีว่า «ขอให้ที่อยู่ของเขาร้างเปล่า และขออย่าให้มีใครอาศัยอยู่ในที่นั่น» และว่า «ขอให้คนอื่นรับตำแหน่งผู้ปกครองดูแลของเขาไป»",
+      "thai_literal": null,
+      "thai_summary": "เปโตรอ้างสดุดีสองบทมารวมกันเพื่อสนับสนุนความจำเป็นในการเลือกคนแทนยูดาส บทแรก สดุดี 69:25 เป็นคำอธิษฐานของดาวิดเกี่ยวกับศัตรูของผู้ชอบธรรมที่ถูกเรียงลำดับใหม่ให้ประยุกต์กับยูดาส บทที่สอง สดุดี 109:8 เป็นคำอธิษฐานขอให้คนอื่นรับตำแหน่งการปกครองของคนชั่ว — เปโตรใช้เป็นฐานพระคัมภีร์ว่าคริสตจักรต้องเลือกคนที่สิบสองมาแทน",
+      "key_decisions": [
+        { "greek": "γέγραπται γὰρ ἐν βίβλῳ ψαλμῶν", "thai": "เพราะมีเขียนไว้ในหนังสือสดุดี", "rationale": "Peter resumes his speech after the vv. 18–19 parenthesis. γὰρ connects back to 'must be fulfilled' of v. 16. Standard Lucan quotation-formula." },
+        { "greek": "Γενηθήτω ἡ ἔπαυλις αὐτοῦ ἔρημος ... (Ps 69:25 LXX quotation)", "thai": "ขอให้ที่อยู่ของเขาร้างเปล่า", "rationale": "Direct LXX quotation (Ps 68:26 LXX = Ps 69:25 MT/Eng). Luke follows LXX reading 'his' (singular); MT has 'their' (plural). Luke's selection of the singular ('αὐτοῦ') allows direct application to Judas alone. ἔπαυλις (NT hapax) = 'homestead/farmstead/dwelling' — likely metaphor for family-line per uW figs-metaphor. We render literal 'ที่อยู่' and note the metaphor option." },
+        { "greek": "Τὴν ἐπισκοπὴν αὐτοῦ λαβέτω ἕτερος (Ps 109:8 LXX quotation)", "thai": "ขอให้คนอื่นรับตำแหน่งผู้ปกครองดูแลของเขาไป", "rationale": "Direct LXX quotation of Ps 108:8 LXX = Ps 109:8 MT/Eng. ἐπισκοπή = 'position of oversight/office' — the same lexeme renders 1 Tim 3:1 as 'ตำแหน่งผู้ปกครองดูแล' (locked decision). We apply consistent rendering. This is the key word Peter builds on — Judas's office (ἐπισκοπή) must pass to another (ἕτερος). Foundational NT text for apostolic succession / church office." }
+      ],
+      "notes": "TWO OT CITATIONS in this verse — both direct LXX quotations: (1) Ps 69:25 LXX (ἔπαυλις hapax); (2) Ps 109:8 LXX. Peter blends two psalms via καί (the Jewish exegetical technique גזרה שוה gezerah shavah — catchword linking). Psalm 69 is heavily messianic in NT use (69:9 at John 2:17 and Rom 15:3; 69:21 at Matt 27:34, 48; 69:22–23 at Rom 11:9–10); Psalm 109 is David's imprecation against a treacherous companion (traditionally read messianically). Both are typologically applied to Judas. OT CITATION DB ENTRIES REQUIRED: Acts 1:20a→Ps 69:25 LXX; Acts 1:20b→Ps 109:8 LXX. Both are formula-introduced direct citations; both LXX-aligned. Hapax: ἔπαυλις."
+    }
+  },
+  {
+    "reference": "Acts 1:21",
+    "chapter": 1,
+    "verse": 21,
+    "greek": "δεῖ οὖν τῶν συνελθόντων ἡμῖν ἀνδρῶν ἐν παντὶ χρόνῳ ᾧ εἰσῆλθεν καὶ ἐξῆλθεν ἐφ’ἡμᾶς ὁ κύριος Ἰησοῦς,",
+    "bsb_english": "Therefore it is necessary to choose one of the men who have accompanied us the whole time the Lord Jesus went in and out among us,",
+    "translation": {
+      "thai": "เพราะฉะนั้น ในบรรดาผู้ชายที่เคยอยู่ร่วมกับพวกเราตลอดเวลาที่พระเยซูเจ้าเสด็จเข้าและออกท่ามกลางพวกเรานั้น",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "ὁ κύριος Ἰησοῦς (titulary)", "thai": "พระเยซูเจ้า", "rationale": "Titulary construction ὁ κύριος + Ἰησοῦς (article + title + name). This is distinct from bare narrator-voice ὁ κύριος (per 'kyrios_narrator_voice_luke_acts_2026-04' which is for bare narrator ὁ κύριος → องค์พระผู้เป็นเจ้า). Here character-voice (Peter speaking) uses the compact Thai Christian titulary 'พระเยซูเจ้า' ('Lord Jesus'). Rejected: 'องค์พระผู้เป็นเจ้าพระเยซู' would be expansively correct but stilted in Peter's speech. Standard Thai Christian practice, especially in Acts/Pauline corpus for κύριος Ἰησοῦς titulary." },
+        { "greek": "εἰσῆλθεν καὶ ἐξῆλθεν ἐφ’ἡμᾶς (idiom)", "thai": "เสด็จเข้าและออกท่ามกลางพวกเรา", "rationale": "Semitic idiom 'went in and went out' = 'lived/conducted activity among' (per uW figs-idiom; cf. Deut 31:2; 2 Sam 3:25; 1 Sam 29:6). Thai 'เสด็จเข้าและออกท่ามกลาง' preserves the Hebraic-idiomatic flavor; divine subject → เสด็จ." }
+      ],
+      "notes": "First of three verses (21–22) giving apostolic qualification criteria: (a) accompanied the apostles throughout Jesus' ministry; (b) beginning from John's baptism; (c) witness of the resurrection. This sets the canonical definition of 'apostle' — why Matthias fits but, e.g., James the Just (Jesus' brother) is not numbered with the Twelve. Paul's later self-defense as an apostle (1 Cor 9:1; 15:8) will adjust criterion (c) — 'last of all, as to one untimely born, he appeared also to me'."
+    }
+  },
+  {
+    "reference": "Acts 1:22",
+    "chapter": 1,
+    "verse": 22,
+    "greek": "ἀρξάμενος ἀπὸ τοῦ βαπτίσματος Ἰωάννου ἕως τῆς ἡμέρας ἧς ἀνελήμφθη ἀφ’ἡμῶν,μάρτυρα τῆς ἀναστάσεως αὐτοῦ σὺν ἡμῖν γενέσθαι ἕνα τούτων.",
+    "bsb_english": "beginning from John’s baptism until the day Jesus was taken up from us. For one of these must become a witness with us of His resurrection.”",
+    "translation": {
+      "thai": "ตั้งแต่การบัพติศมาของยอห์นจนถึงวันที่พระองค์ทรงถูกรับขึ้นไปจากพวกเรา ต้องมีคนหนึ่งในพวกนั้นมาเป็นพยานกับพวกเราถึงการคืนพระชนม์ของพระองค์»",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "ἀρξάμενος", "thai": "ตั้งแต่ ... เริ่ม", "rationale": "Aor. middle ptc., agreeing with χρόνῳ (v. 21). Thai 'ตั้งแต่ ... ' handles the time-starting. Function as participle-modifying-time-span clause." },
+        { "greek": "ἀνελήμφθη ἀφ’ἡμῶν", "thai": "ทรงถูกรับขึ้นไปจากพวกเรา", "rationale": "Same aorist passive of ἀναλαμβάνω as v. 2, v. 11. Maintains the chapter's four-fold drumbeat. ἀφ’ἡμῶν 'from us' — pastoral/relational angle, the departure-from-fellowship aspect." },
+        { "greek": "μάρτυρα τῆς ἀναστάσεως αὐτοῦ", "thai": "เป็นพยาน ... ถึงการคืนพระชนม์ของพระองค์", "rationale": "Predicate accusative construction 'to become witness of his resurrection'. μάρτυς same lexeme as v. 8. ἀνάστασις 'resurrection' → การคืนพระชนม์ (standard Thai Christian; royal-register for resurrection of Christ specifically). The genitive αὐτοῦ = of Jesus." }
+      ],
+      "notes": "Defining 'apostle' = bodily eyewitness of Jesus' earthly ministry from John's baptism (start) to Ascension (end), PLUS specifically a witness of the Resurrection. John's baptism as the start-point echoes Luke 3's framing of John as prophetic-transition; Mark 1:1 and Peter's Cornelius-speech (Acts 10:37) use the same baptism-as-starting-point marker. Fourth use of ἀνελήμφθη / ἀναλαμβάνω in this chapter (2, 11, 22, cf. 9 ἐπήρθη). No textual variant."
+    }
+  },
+  {
+    "reference": "Acts 1:23",
+    "chapter": 1,
+    "verse": 23,
+    "greek": "καὶ ἔστησαν δύο,Ἰωσὴφ τὸν καλούμενον Βαρσαββᾶν,ὃς ἐπεκλήθη Ἰοῦστος,καὶ Μαθθίαν.",
+    "bsb_english": "So they proposed two men: Joseph called Barsabbas (also known as Justus) and Matthias.",
+    "translation": {
+      "thai": "แล้วพวกเขาเสนอชายสองคน คือโยเซฟผู้ถูกเรียกว่าบารซับบัส ซึ่งมีฉายาว่ายุสทัส กับมัทธีอัส",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "ἔστησαν (aor. act.)", "thai": "เสนอ", "rationale": "ἵστημι in transitive-active aorist = 'set/cause to stand' — idiomatic for 'propose/present as candidates' (uW translate-symaction). They 'stood them up' before the assembly as nominees. Thai 'เสนอ' = 'propose/submit' captures the nominating-as-candidate sense naturally." },
+        { "greek": "Ἰωσὴφ τὸν καλούμενον Βαρσαββᾶν, ὃς ἐπεκλήθη Ἰοῦστος", "thai": "โยเซฟผู้ถูกเรียกว่าบารซับบัส ซึ่งมีฉายาว่ายุสทัส", "rationale": "Three-name identification — common in the Hellenized Jewish world: Hebrew/Aramaic name (Joseph), patronymic/family-designation (Barsabbas = 'son of Sabbas' per uW — probably indicating his father), and Roman/Latin cognomen (Justus) for interactions with Roman officialdom (like Saul/Paul). Thai rendering distinguishes 'ผู้ถูกเรียกว่า' (called) from 'ฉายา' (nickname/epithet) to preserve both registers." },
+        { "greek": "Μαθθίαν", "thai": "มัทธีอัส", "rationale": "Μαθθίας — Hebrew מתתיהו 'Mattityahu = gift of YHWH', Hellenized. Thai transliteration 'มัทธีอัส' distinguishes from Μαθθαῖος (Matthew) 'มัทธิว' in v. 13 — two separate figures, similar Greek/Hebrew etymology (both from 'gift')." }
+      ],
+      "notes": "Transliterations new to corpus: โยเซฟ (Ἰωσήφ — already in Luke 1-2 Joseph of Nazareth; reused for Joseph Barsabbas), บารซับบัส (Βαρσαββᾶς), ยุสทัส (Ἰοῦστος, Latin Justus), มัทธีอัส (Μαθθίας). Matthias is distinct from Matthew (มัทธิว) despite etymological overlap — crucial to preserve distinction in Thai spelling."
+    }
+  },
+  {
+    "reference": "Acts 1:24",
+    "chapter": 1,
+    "verse": 24,
+    "greek": "καὶ προσευξάμενοι εἶπαν Σὺ κύριε καρδιογνῶστα πάντων,ἀνάδειξον ὃν ἐξελέξω,ἐκ τούτων τῶν δύο ἕνα,",
+    "bsb_english": "And they prayed, “Lord, You know everyone’s heart. Show us which of these two You have chosen",
+    "translation": {
+      "thai": "แล้วพวกเขาอธิษฐานว่า «องค์พระผู้เป็นเจ้า พระองค์ผู้ทรงทราบจิตใจของคนทั้งปวง ขอทรงสำแดงว่าพระองค์ทรงเลือกผู้ใดในสองคนนี้",
+      "thai_literal": null,
+      "thai_summary": "คำอธิษฐานนี้มีประเด็นที่ถกเถียงกัน — «องค์พระผู้เป็นเจ้า» ทูลถึงผู้ใด? พระบิดา หรือพระเยซู? บริบทที่ใกล้ที่สุด (ข้อ 21 «พระเยซูเจ้าเสด็จเข้าและออก») ประกอบกับข้อเท็จจริงที่ว่าพระเยซูทรงเลือกสาวกสิบสองคนเดิม (ลูกา 6:13; กิจการ 1:2) — โน้มเอียงให้เข้าใจว่าคือพระเยซู พวกเขาขอให้องค์ผู้ซึ่งเคยเลือกมาแต่เดิมเลือกอีกครั้งหนึ่ง คำว่า «ผู้ทรงทราบจิตใจ» (คาร์ดิโอกโนสเตส) เป็นคุณลักษณะที่ 1 ซามูเอล 16:7 ให้แก่พระเจ้า — แต่พันธสัญญาใหม่ขยายคุณลักษณะนี้ไปถึงพระเยซูในฐานะพระบุตรที่ทรงทราบจิตใจของคน (ยอห์น 2:25)",
+      "key_decisions": [
+        { "greek": "Σὺ κύριε (vocative, prayer)", "thai": "องค์พระผู้เป็นเจ้า", "rationale": "Per 'vocative_kyrie_didaskale_register_2026-04' decision, forward-implication section: 'Vocative prayer to the risen Jesus (Paul on Damascus road, Acts 9:5, 22:8, 26:15): องค์พระผู้เป็นเจ้า — divine-sovereign register'. Even where referent-ambiguity (God vs. Jesus), องค์พระผู้เป็นเจ้า is the correct divine-register rendering. We keep this without forcing referent disambiguation in the verse itself — the summary discusses the ambiguity." },
+        { "greek": "καρδιογνῶστα πάντων", "thai": "ผู้ทรงทราบจิตใจของคนทั้งปวง", "rationale": "καρδιογνώστης 'heart-knower' — rare compound, appears only here and Acts 15:8 (both NT instances are Lucan). καρδία in NT = inner self, thoughts-and-motives (per uW figs-metaphor). 'ผู้ทรงทราบจิตใจ' = 'who knows the heart/mind'; 'คนทั้งปวง' = 'of all' (gen. pl.). Royal register (ทรง) for divine attribute." },
+        { "greek": "ἀνάδειξον ὃν ἐξελέξω", "thai": "ขอทรงสำแดงว่าพระองค์ทรงเลือก", "rationale": "ἀναδείκνυμι 'show forth / indicate / designate' — aor. imper. 'Show'. ἐξελέξω 2sg. aor. mid. 'you chose' (Luke-Acts favorite for divine election — Luke 6:13; Acts 1:2). Thai 'ขอทรงสำแดง' = 'please reveal/show' in prayer register; 'ทรงเลือก' for divine subject choosing." }
+      ],
+      "notes": "Theologically loaded verse. Referent of κύριε is debated: (1) to Jesus (majority view — contextually, v. 21 κύριος Ἰησοῦς; Jesus chose the Twelve originally per Acts 1:2 ἐξελέξατο, and they ask κύριε who ἐξελέξω 'you chose'; same verb root); (2) to God the Father (minority — καρδιογνώστης parallels 1 Sam 16:7 divine-knowledge attribute). We render องค์พระผู้เป็นเจ้า per vocative-decision doc and leave the referent ambiguity for scholarly notes. καρδιογνώστης reappears Acts 15:8 for God the Father — Luke uses the same term for both, suggesting functional-ascription to either as contextually appropriate. No textual variant."
+    }
+  },
+  {
+    "reference": "Acts 1:25",
+    "chapter": 1,
+    "verse": 25,
+    "greek": "λαβεῖν τὸν τόπον τῆς διακονίας ταύτης καὶ ἀποστολῆς,ἀφ’ἧς παρέβη Ἰούδας πορευθῆναι εἰς τὸν τόπον τὸν ἴδιον.",
+    "bsb_english": "to take up this ministry and apostleship, which Judas abandoned to go to his rightful place.”",
+    "translation": {
+      "thai": "ให้เข้ารับตำแหน่งของพันธกิจและการเป็นอัครทูตนี้ ซึ่งยูดาสได้ละทิ้งไปยังที่ของตนเอง»",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "τὸν τόπον τῆς διακονίας ταύτης καὶ ἀποστολῆς (hendiadys)", "thai": "ตำแหน่งของพันธกิจและการเป็นอัครทูตนี้", "rationale": "Per uW figs-hendiadys: διακονία + ἀποστολή connected by καί expressing a single idea — 'this apostolic ministry' / 'ministry that is apostleship'. We preserve both nouns coordinately in Thai ('พันธกิจและการเป็นอัครทูต') rather than collapsing, which allows the Thai reader to hear both nuances. 'ตำแหน่ง' for τόπον captures the office/position sense here (lit. 'place', but contextually = 'role/position')." },
+        { "greek": "παρέβη Ἰούδας", "thai": "ยูดาสได้ละทิ้งไป", "rationale": "παραβαίνω 'step aside / transgress / abandon' (per uW figs-metaphor). Thai 'ละทิ้ง' = 'forsake/abandon' captures the turning-aside motion." },
+        { "greek": "πορευθῆναι εἰς τὸν τόπον τὸν ἴδιον (euphemism)", "thai": "ไปยังที่ของตนเอง", "rationale": "Per uW figs-euphemism: 'to go to his own place' is a mild euphemism for Judas's death and consequent post-mortem fate. Thai 'ที่ของตนเอง' preserves the euphemism — literal rendering matches Greek's restrained speech about judgment. Patristic reading (Chrysostom, Bede): Judas's 'own place' = the place his betrayal earned him. We preserve euphemistic restraint rather than spelling out 'under judgment'." }
+      ],
+      "notes": "Ring-composition with v. 17: Judas 'received his share of this ministry (κλῆρον τῆς διακονίας)' → 'this ministry and apostleship' — Peter's speech closes on the same lexical note. The euphemism 'his own place' is deliberately opaque; Luke does not theologize Judas's fate explicitly. We preserve that restraint. No textual variant."
+    }
+  },
+  {
+    "reference": "Acts 1:26",
+    "chapter": 1,
+    "verse": 26,
+    "greek": "καὶ ἔδωκαν κλήρους αὐτοῖς,καὶ ἔπεσεν ὁ κλῆρος ἐπὶ Μαθθίαν,καὶ συγκατεψηφίσθη μετὰ τῶν ἕνδεκα ἀποστόλων.",
+    "bsb_english": "Then they cast lots, and the lot fell to Matthias. So he was added to the eleven apostles.",
+    "translation": {
+      "thai": "แล้วพวกเขาจับสลากให้ทั้งสองคน สลากก็ตกแก่มัทธีอัส และเขาก็ถูกนับเข้ากับอัครทูตสิบเอ็ดคน",
+      "thai_literal": null,
+      "thai_summary": "การจับสลาก (คลาโรส) เป็นวิธีดั้งเดิมในพันธสัญญาเดิมที่ขอคำตอบของพระเจ้าในเรื่องต่างๆ เช่น การแบ่งมรดก (โยชูวา 14–19) การเลือกกษัตริย์ซาอูล (1 ซามูเอล 10:20–21) การกำหนดหน้าที่ปุโรหิต (1 พงศาวดาร 24–25) สุภาษิต 16:33 กล่าวว่า «สลากทอดอยู่ในตัก แต่การตัดสินทั้งสิ้นเป็นมาจากพระเจ้า» นี่เป็นครั้งสุดท้ายที่จับสลากในพระคัมภีร์ — หลังจากวันเพ็นเทคอสต์ พระวิญญาณบริสุทธิ์ทรงเป็นผู้นำทางตัดสินใจของคริสตจักรโดยตรง (กิจการ 13:2–4; 15:28; 16:6–10) มัทธีอัสจึงได้เข้าร่วมอัครทูตสิบสอง — ครบจำนวนสำหรับการเป็นตัวแทนของอิสราเอลสิบสองเผ่า (ลูกา 22:30)",
+      "key_decisions": [
+        { "greek": "ἔδωκαν κλήρους αὐτοῖς (idiom)", "thai": "จับสลากให้ทั้งสองคน", "rationale": "δίδωμι κλήρους 'give/cast lots' — Septuagintal idiom (cf. Lev 16:8; 1 Chr 24:31). The lots were marked stones/objects dropped or drawn. Thai 'จับสลาก' is the standard cultural-functional equivalent." },
+        { "greek": "ἔπεσεν ὁ κλῆρος ἐπὶ Μαθθίαν (idiom)", "thai": "สลากก็ตกแก่มัทธีอัส", "rationale": "Per uW figs-idiom: 'the lot fell upon' = was selected. LXX-idiom (e.g., Jonah 1:7 ἔπεσεν ὁ κλῆρος ἐπὶ Ἰωνᾶν). Thai 'สลากตกแก่' preserves the Hebraic/Septuagintal idiom familiar to Thai Christian readers." },
+        { "greek": "συγκατεψηφίσθη (NT hapax)", "thai": "เขาก็ถูกนับเข้ากับ", "rationale": "NT hapax συγκαταψηφίζομαι — compound of συν- (with) + κατα- (down) + ψηφίζω (vote with a pebble/ψῆφος). Literally 'was voted-with / tallied-with'. Intentional Lucan inclusio with v. 17 κατηριθμημένος ἦν 'had been numbered' — Peter's speech opens with Judas 'having been counted' and Matthias now 'counted with the eleven' (both hapax verbs, both meaning 'enumerate with'). Thai 'ถูกนับเข้ากับ' preserves the 'counted-in' sense while natural in prose." }
+      ],
+      "notes": "NT HAPAX: συγκαταψηφίζομαι — only NT occurrence. Verbal inclusio with v. 17 καταριθμέω. Both hapax verbs describe inclusion-in-the-apostolic-group. Theological note: this is the last act of lot-casting in Scripture; after Pentecost, the Spirit guides the church's decisions directly (Acts 13:2; 15:28; 16:6–7). Some interpreters argue Peter acted prematurely (the Spirit's promised arrival was a week away) and that Paul was God's chosen twelfth apostle; but the text does not fault the election, and Matthias is included with 'the twelve' going forward (implicit in 2:14 'Peter standing with the eleven' = Matthias is in). No textual variant."
+    }
+  }
+]
