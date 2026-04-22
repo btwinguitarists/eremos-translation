@@ -6,11 +6,12 @@
 
 ## Summary
 
-- **15 cross-cutting items reviewed.**
-- **3 new decision docs written** during this review (see §§1, 2, 6).
+- **16 cross-cutting items reviewed** — 15 from internal review (2026-04-22) + 4 Gemini-flagged items (2026-04-23), with overlap folded in.
+- **6 new decision docs written** across both passes (see §§1, 2, 6, 16).
+- **1 translation spot-revision** (LUK 10:13 μετανοέω drift fix) — see §16 Flag 3.
 - **8 items stable / already documented** — no corpus-level change needed.
 - **4 items flagged for Ben's attention** (see final section).
-- **Mechanical items (§1 of checklist): all pass** — 24/24 green review reports, 24/24 back-translations, `check_key_term_consistency.py` clean across 69 chapters (0 violations, 0 undocumented multi-renderings), `git status output/` clean.
+- **Mechanical items (§1 of checklist): all pass** — 24/24 green review reports, 24/24 back-translations, `check_key_term_consistency.py` clean across 69 chapters (0 violations, 0 undocumented multi-renderings), `git status output/` clean. Post-revision re-check of LUK 10 `check_greek_field_integrity.py`: 0 hard fails, 0 warnings.
 
 Status codes: **LOCKED** (stable + corpus-doc). **STABLE** (uniform + rationale implicit at verse-level; documented here). **REVIEW** (worth Ben's confirmation). **DECIDE** (Ben choice needed).
 
@@ -181,11 +182,54 @@ Per the memory, these don't block Luke tagging but are worth closing before `boo
 
 ---
 
+## 16. External AI review outcomes (Gemini 2.5 Pro, 2026-04-23)
+
+Per checklist §3, submitted the 6-chapter packet (`docs/external_review_packet_LUK_2026-04-23.md`) to Gemini 2.5 Pro. Returned 4 corpus-level flags. All verified against the actual translation JSONs before acting.
+
+### Flag 1 — Narrator's ทูล verb for adversary speech (LUK 4:3, 4:6, 4:9) — **DOCUMENTED (no translation change)**
+Verified: all three verses use ทูลพระองค์ว่า when the narrator introduces Satan's temptation dialogue. Per-verse rationale at 4:3 already documents this as a principled cross-gospel convention (cf. MAT 4:3 parallel): ทูล is addressee-marking (the divine Jesus), not speaker-marking. Thai readers parse it this way. Gemini's concern (that ทูล grants the Devil "a posture of legitimate submission") is real but overridden by the cross-gospel lock. **Action:** wrote `docs/translator_decisions/speech_verbs_adversaries_addressing_divine_2026-04.md` to lock the convention corpus-wide and make the two-axis model explicit (outer-axis = narrator verb tracks addressee-rank; inner-axis = speaker pronouns track speaker-stance).
+
+### Flag 2 — ψυχή vs. πνεῦμα anthropological distinction — **DOCUMENTED (no translation change)**
+Verified: the Luke corpus *does* preserve the Hebraic-parallel distinction where it matters — LUK 1:46 ψυχή → จิตวิญญาณ, LUK 1:47 πνεῦμα → **จิต** (with explicit per-verse rationale calling out the distinction). Gemini over-reads as "merging"; what actually happens is ψυχή stays at จิตวิญญาณ, and πνεῦμα pivots between จิต (in parallel with ψυχή) and จิตวิญญาณ (standalone). The Acts-forward concern is legitimate — 1 Thess 5:23 and Heb 4:12 will force the distinction. **Action:** wrote `docs/translator_decisions/psyche_vs_pneuma_anthropological_2026-04.md` locking the pattern for all future books; the non-negotiable rule: "never render a parallelism's two halves with the same Thai word."
+
+### Flag 3 — μετανοέω drift at LUK 10:13 — **SPOT-REVISED (translation changed)**
+Verified real drift: 10:13's "คงจะกลับใจใหม่ตั้งแต่นานแล้ว" added "ใหม่" to the RULES §4 locked term. The per-verse rationale acknowledged the deviation ("adding 'ใหม่' for naturalness"). Other Luke μετανοέω occurrences (15:7, 15:10, 24:47) all use plain กลับใจ — this was a single-verse slip. **Action:** revised LUK 10:13 to "คงจะกลับใจตั้งแต่นานแล้ว" (removed ใหม่); updated the key_decision rationale to reflect the normalization. `check_key_term_consistency.py` + `check_greek_field_integrity.py` both still clean post-revision.
+
+### Flag 4 — Parabolic God-figures receive human register — **DOCUMENTED (no translation change)**
+Verified: the prodigal's father (LUK 15:11–32), the nobleman/king (LUK 19:11–27), the persistent-widow's judge (LUK 18:1–8), and all other parabolic God-figures across MRK/MAT/LUK consistently receive standard Thai human register (no ราชาศัพท์), preserving the parabolic indirection. This is a corpus-wide pattern that Gemini correctly noted had no formal doc. **Action:** wrote `docs/translator_decisions/parabolic_god_figures_human_register_2026-04.md` formalizing the rule and addressing the borderline case of MAT 25:31–46 (apocalyptic, not parable — divine register applies).
+
+### Gemini §C — Acts-forward preparatory recommendations
+
+Gemini flagged two Acts-forward items worth noting (not blocking Luke tag):
+1. **"Breaking of bread" (κλάσις τοῦ ἄρτου)** at LUK 24:30/35 → "หักขนมปัง". In Acts 2:42, 20:7 this becomes a technical early-Eucharistic term. Already in glossary effectively; monitor at Acts 2:42 translation session.
+2. **"The Eleven" / "The Twelve" as collective nouns** — LUK 24:9/33 rendered "สาวกสิบเอ็ดคน". As the apostolic band transitions in Acts 1–2, the group should function as an official collective. Already using "อัครทูต" in Acts 1:26 (matthias election) — pattern carries.
+
+Neither required new docs or spot-revisions; flagging for the Acts translator's attention.
+
+### Gemini §D — observations affirmed as wins (no action)
+
+- HAPAX handling: "ชั่วขณะเดียว" for ἐν στιγμῇ χρόνου (LUK 4:5); "สภาพเกือบตาย" for ἡμιθανῆ (LUK 10:30).
+- Semantic precision at LUK 15:12/13 (βίος vs οὐσία distinction).
+- Prayer register at LUK 10:21 (Jesus's Father-address, high-priestly-prayer template).
+
+---
+
 ## New documents written during this review
 
+From internal end-of-book editorial review (2026-04-22):
 1. `docs/translator_decisions/kyrios_narrator_voice_luke_acts_2026-04.md`
 2. `docs/translator_decisions/basileia_kingdom_rendering_2026-04.md`
 3. `docs/translator_decisions/vocative_kyrie_didaskale_register_2026-04.md`
+
+From external AI review (2026-04-23):
+
+4. `docs/translator_decisions/speech_verbs_adversaries_addressing_divine_2026-04.md`
+5. `docs/translator_decisions/psyche_vs_pneuma_anthropological_2026-04.md`
+6. `docs/translator_decisions/parabolic_god_figures_human_register_2026-04.md`
+
+### Translation spot-revision (1 verse)
+
+- `output/translations/luke_10.json` — LUK 10:13 "กลับใจใหม่" → "กลับใจ" to maintain RULES §4 lock. Key_decision rationale updated.
 
 ## Pre-existing docs affirmed / unchanged
 
