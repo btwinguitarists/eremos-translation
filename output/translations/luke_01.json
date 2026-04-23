@@ -2248,7 +2248,7 @@
         {
           "greek": "ἐν ἀφέσει ἁμαρτιῶν αὐτῶν",
           "thai": "โดยการยกโทษบาปของพวกเขา",
-          "rationale": "ἐν ἀφέσει ἁμαρτιῶν → **การยกโทษบาป** per docs/translator_decisions/aphesis_forgiveness_of_sins_2026-04.md. Normalized 2026-04-23; preserves Benedictus-Commission inclusio with LUK 3:3, 24:47. (Also present in PR #30; duplicated here for branch coherence with MAT 26:28 + MRK 3:29 + ACT 2:38 retag.)"
+          "rationale": "ἐν ἀφέσει ἁμαρτιῶν 'by forgiveness of their sins' — ἄφεσις ἁμαρτιῶν → **การยกโทษบาป** per corpus lock (see docs/translator_decisions/aphesis_forgiveness_of_sins_2026-04.md). Matches LUK 3:3 (John-Baptist programmatic) and LUK 24:47 (Great Commission), forming the Benedictus-Commission inclusio. An earlier draft used การอภัย; normalized 2026-04-23 after Claude external-review flagged the cross-chapter drift. Acts 2:38, 5:31, 10:43, 13:38, 26:18 will inherit the lock."
         }
       ],
       "notes": "KEY THEOLOGICAL VERSE. Zechariah identifies John's mission: not merely announcing political-liberation (as v.71, 74 might suggest), but preparing-people-to-receive-the-forgiveness-of-sins in the Messiah. This reframes the salvation-hope spiritually — the ultimate enemies are sin (not Rome), and the ultimate deliverance is forgiveness (not political-liberation). Luke-Acts consistently develops this: forgiveness-of-sins is the core-message (Luke 24:47; Acts 2:38; 10:43; 13:38; 26:18). The ἄφεσις-theme brackets Luke-Acts — from John's preaching of baptism-for-ἄφεσις (Luke 3:3) to Paul's declaration of ἄφεσις-through-Christ (Acts 13:38). ADDED TO NT_OT_CITATIONS: LUK 1:77 thematic_allusion to JER 31:34 (new-covenant forgiveness-of-sins); ISA 53:11 (servant makes many righteous)."
