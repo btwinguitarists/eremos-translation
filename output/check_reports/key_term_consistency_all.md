@@ -3,7 +3,7 @@
 - Rule violations: **0**
 - Undocumented multi-renderings: **0**
 - Documented multi-renderings: 327
-- Consistent single renderings: 7757
+- Consistent single renderings: 7834
 
 ## ✅ Documented multi-renderings (contextual variance)
 
@@ -19,7 +19,7 @@
 - **Θυγάτηρ** — บุตรหญิงเอ๋ย (1x), ลูกหญิงเอ๋ย (1x)
 - **Καὶ** — ในขณะนั้น (1x), [implicit narrative onset] (1x)
 - **Καὶ ἐγένετο ὅτε ἐτέλεσεν ὁ Ἰησοῦς τοὺς λόγους τούτους** — เมื่อพระเยซูตรัสถ้อยคำเหล่านี้จบแล้ว (1x), และต่อมา เมื่อพระเยซูตรัสถ้อยคำเหล่านี้จบแล้ว (1x)
-- **Κύριε** — องค์พระผู้เป็นเจ้า (12x), พระองค์เจ้าข้า (7x), นายท่าน (2x), นายเจ้าข้า (3x), จริงเจ้าข้า (1x), นายขอรับ (1x)
+- **Κύριε** — องค์พระผู้เป็นเจ้า (14x), พระองค์เจ้าข้า (6x), นายท่าน (2x), นายเจ้าข้า (3x), จริงเจ้าข้า (1x), นายขอรับ (1x)
 - **Κύριε κύριε** — ‹องค์พระผู้เป็นเจ้า องค์พระผู้เป็นเจ้า› (1x), ‹องค์พระผู้เป็นเจ้า องค์พระผู้เป็นเจ้า (1x), นายเจ้าข้า นายเจ้าข้า (1x)
 - **Μήτι ἐγώ εἰμι** — ไม่ใช่ข้าพระองค์ใช่ไหม (1x), ไม่ใช่ข้าพเจ้าใช่ไหม (1x)
 - **Μωϋσῆς ἔγραψεν ἡμῖν** — โมเสสได้เขียนสั่งพวกเราไว้ (1x), โมเสสได้เขียนสั่งเราไว้ (1x)
@@ -337,4 +337,4 @@
 
 ## ✅ Single-rendering lemmas
 
-7757 lemmas each translated consistently across every occurrence. See `glossary.json` for the full list.
+7834 lemmas each translated consistently across every occurrence. See `glossary.json` for the full list.
