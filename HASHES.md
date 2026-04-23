@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-04-23 22:08:52 UTC_
-_Total chapters: 75 · Total verses: 3099_
+_Generated: 2026-04-23 23:14:28 UTC_
+_Total chapters: 76 · Total verses: 3159_
 
 ## How to verify a chapter
 
@@ -25,7 +25,8 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/acts_03.json` | 26 | `079d29f993b59ba06cecddb189dac628876cfa54d7dfa7f6523ad897a8fc525c` | `2fe413c` |
 | `output/translations/acts_04.json` | 37 | `7436991d7b742ee64064fe8f18c3b68f0660eaf0e184577b639d727d916e3ab1` | `10d6960` |
 | `output/translations/acts_05.json` | 42 | `195f4c756cdfa46c2bb4b554621f95c527db52122206e04cd11c042d9a7f2079` | `4bff605` |
-| `output/translations/acts_06.json` | 15 | `a5becb0be3f3453eacffd23f12b1cc88f931bfe9e3fe18a05e37735d48b10388` | `—` |
+| `output/translations/acts_06.json` | 15 | `a5becb0be3f3453eacffd23f12b1cc88f931bfe9e3fe18a05e37735d48b10388` | `2190c19` |
+| `output/translations/acts_07.json` | 60 | `01365f34ecf7651dbf849d49d3baa0360b39a93741dc8ffaca3827eb8abb04b9` | `—` |
 | `output/translations/luke_01.json` | 80 | `4599f18b5580e9626ee55a25f352e3fdd5d81eb680e36dcee241fd63fcf05a26` | `69843ff` |
 | `output/translations/luke_02.json` | 52 | `814870d15ca1db04347a6b7a7e3965cdcbd094d522e1ff0fd84101cec32004bf` | `256d60f` |
 | `output/translations/luke_03.json` | 38 | `4d2a0c73362590f1062edeaa2e96f2d152f559a523182da27fe0e1c837a7a247` | `131e97b` |
