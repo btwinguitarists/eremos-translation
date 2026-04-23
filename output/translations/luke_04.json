@@ -716,14 +716,14 @@
     "greek": "εἶπεν δέ· Ἀμὴν λέγω ὑμῖν ὅτι οὐδεὶς προφήτης δεκτός ἐστιν ἐν τῇ πατρίδι αὐτοῦ.",
     "bsb_english": "Then He added, \"Truly I tell you, no prophet is accepted in his hometown.",
     "translation": {
-      "thai": "พระองค์ตรัสต่อไปว่า «เราบอกความจริงแก่ท่านทั้งหลายว่า ไม่มีผู้เผยพระวจนะคนใดเป็นที่ยอมรับในบ้านเกิดของตน",
+      "thai": "พระองค์ตรัสต่อไปว่า «เราบอกความจริงแก่พวกท่านว่า ไม่มีผู้เผยพระวจนะคนใดเป็นที่ยอมรับในบ้านเกิดของตน",
       "thai_literal": "แต่ ได้ตรัส «อาเมน เราบอก แก่พวกท่าน ว่า ไม่มี ผู้เผยพระวจนะ เป็นที่ยอมรับ ใน บ้านเกิด ของตน",
       "thai_summary": null,
       "key_decisions": [
         {
           "greek": "Ἀμὴν λέγω ὑμῖν",
-          "thai": "เราบอกความจริงแก่ท่านทั้งหลายว่า",
-          "rationale": "ἀμήν (Hebrew loanword 'truly') as introductory formula = 'I am about to say something solemnly true.' Distinctive Jesus-speech-marker (76x in Synoptics). Thai «เราบอกความจริงแก่...ว่า» (RULES.md/glossary-consistent rendering established in earlier chapters)."
+          "thai": "เราบอกความจริงแก่พวกท่านว่า",
+          "rationale": "ἀμὴν λέγω ὑμῖν → **เราบอกความจริงแก่พวกท่านว่า** per docs/translator_decisions/amen_saying_formula_2026-04.md. Earlier draft used a variant (ท่านทั้งหลาย or กับพวกท่าน); normalized 2026-04-23 to the corpus-locked form. Phrase-consistency checker (new 2026-04-23) surfaced this drift."
         },
         {
           "greek": "οὐδεὶς προφήτης δεκτός ἐστιν ἐν τῇ πατρίδι αὐτοῦ",

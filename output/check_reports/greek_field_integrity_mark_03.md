@@ -1,16 +1,8 @@
 # Greek-field integrity check — mark ch. 3
 
 - key_decisions entries scanned: **141**
-- Hard fails: **1**
+- Hard fails: **0**
 - Warnings: 5
-
-## ❌ Hard fails
-
-### Mark 3:26  (GREEK_NOT_IN_VERSE)
-- `greek` field: `εἰ + aor. ind. (switched from ἐάν)`
-- `thai` field: `ถ้า`
-- Greek tokens checked: ['ἐάν']
-- Why flagged: Greek token(s) not in the verse's source text (normalized for case/accents), and rationale doesn't flag it as variant/classical/LXX/hapax/morphological.
 
 ## ⚠ Warnings (non-blocking)
 

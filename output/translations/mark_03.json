@@ -1014,7 +1014,7 @@
     "greek": "ὃς δ' ἂν βλασφημήσῃ εἰς τὸ πνεῦμα τὸ ἅγιον, οὐκ ἔχει ἄφεσιν εἰς τὸν αἰῶνα, ἀλλὰ ἔνοχός ἐστιν αἰωνίου ἁμαρτήματος.",
     "bsb_english": "But whoever blasphemes against the Holy Spirit will never be forgiven; he is guilty of eternal sin.\"",
     "translation": {
-      "thai": "แต่ผู้ใดก็ตามที่หมิ่นประมาทพระวิญญาณบริสุทธิ์ จะไม่ได้รับการอภัยเลยตลอดกาล แต่มีความผิดต่อบาปอันเป็นนิรันดร์",
+      "thai": "แต่ผู้ใดก็ตามที่หมิ่นประมาทพระวิญญาณบริสุทธิ์ จะไม่ได้รับการยกโทษเลยตลอดกาล แต่มีความผิดต่อบาปอันเป็นนิรันดร์",
       "key_decisions": [
         {
           "greek": "πνεῦμα τὸ ἅγιον",
@@ -1023,8 +1023,8 @@
         },
         {
           "greek": "οὐκ ἔχει ἄφεσιν εἰς τὸν αἰῶνα",
-          "thai": "จะไม่ได้รับการอภัยเลยตลอดกาล",
-          "rationale": "εἰς τὸν αἰῶνα = 'into the age / forever' (Hebraism). 'Never' per uW. Thai 'ตลอดกาล' (for all time / forever) standard."
+          "thai": "จะไม่ได้รับการยกโทษเลยตลอดกาล",
+          "rationale": "οὐκ ἔχει ἄφεσιν εἰς τὸν αἰῶνα 'has no forgiveness forever' — standalone ἄφεσις with ἁμαρτήματος ('sin') in the immediate context of the same verse (βλασφημήσῃ εἰς τὸ πνεῦμα...ἔνοχός ἐστιν αἰωνίου ἁμαρτήματος). Applied ἄφεσις(-ἁμαρτιῶν) lock → **การยกโทษ** per docs/translator_decisions/aphesis_forgiveness_of_sins_2026-04.md. An earlier draft used การอภัย; normalized 2026-04-23 as part of the corpus-wide lock applied after Luke end-of-book review. This verse is part of the book-mark-v2 retag. MRK 1:4 already uses การยกโทษ; this normalization brings 3:29 into line. εἰς τὸν αἰῶνα → ตลอดกาล (eternal/forever) preserved."
         },
         {
           "greek": "ἔνοχός ἐστιν αἰωνίου ἁμαρτήματος",

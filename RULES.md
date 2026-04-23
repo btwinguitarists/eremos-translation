@@ -180,6 +180,22 @@ Currently:
 
 **For future books:** run `scripts/audit_inclusion_variants.py` to surface candidate verses; assign each to the correct tier based on (a) phrase vs. whole-verse vs. large-block, (b) manuscript weight, (c) what THSV/THKJV/mainstream Thai Bibles do.
 
+#### Luke 24 Western non-interpolations (documentation, 2026-04-23)
+
+Luke 24 contains the traditional cluster of **Westcott-Hort's "Western non-interpolations"** — the seven (sometimes nine) Lukan 24 readings that the Western text omits but Alexandrian/majority-text witnesses include. Our project follows SBLGNT's critical-text editorial decisions on each; the Greek-text column reflects what SBLGNT prints.
+
+| Verse | SBLGNT contains text? | Our disposition | Verse-level note |
+|-------|----------------------|-----------------|------------------|
+| 24:3 (τοῦ κυρίου Ἰησοῦ) | OMITS phrase | Thai omits, per-verse WNI note | See `output/translations/luke_24.json` v.3 |
+| 24:6 (οὐκ ἔστιν ὧδε, ἀλλὰ ἠγέρθη) | INCLUDES | Thai includes | Canonical-tradition retention |
+| 24:12 (the Peter-ran-to-tomb verse) | INCLUDES | Thai includes, per-verse WNI note | Western-omission flagged in notes |
+| 24:36 (καὶ λέγει αὐτοῖς· Εἰρήνη ὑμῖν) | OMITS phrase | Thai omits, per-verse WNI note | See v.36 |
+| 24:40 (showing hands and feet) | INCLUDES | Thai includes, per-verse WNI note | Western-omission flagged in notes |
+| 24:51 (καὶ ἀνεφέρετο εἰς τὸν οὐρανόν) | INCLUDES | Thai includes, per-verse WNI note | Ascension-clause Western-omission flagged |
+| 24:52 (προσκυνήσαντες αὐτὸν) | INCLUDES | Thai includes | Canonical-tradition retention |
+
+**Summary of translation actions:** 2 text-omissions (24:3 phrase; 24:36 phrase), both with SBLGNT; 5 text-inclusions with per-verse documentation of the Western-omission tradition. All fully compliant with RULES §0 (evangelical-Protestant SBLGNT alignment). This enumeration resolves a documentation gap flagged in the Claude external-review (2026-04-23).
+
 ---
 
 ## 6. Verse-level output shape
@@ -342,5 +358,7 @@ Exception: if rapidly translating sequential chapters in one sitting (e.g., Mark
 - **v0.1** (2026-04-16) — Initial rules drafted from Mark 1 experience + SIL/Wycliffe/UBS research synthesis. Applies going forward starting with 1 Timothy 3 pilot.
 - **v0.2** (2026-04-17) — §11 model recommendations made version-agnostic ("latest Opus / Sonnet" instead of "4.6"). Added Claude Code CLI notes: default is 4.7, `/fast` toggles to 4.6 for budget-sensitive runs.
 - **v0.3** (2026-04-21) — §6 adds schema rule on `key_decisions[].greek` contents + enforcement via `scripts/check_greek_field_integrity.py`. Triggered by LUK 13/14 metadata drift (fabricated/mixed-script Greek tokens). Full remediation in `docs/LUKE_DRIFT_2026-04-21.md`.
+- **v0.4** (2026-04-23) — §5 adds enumerated Luke 24 Western-non-interpolation table documenting all 7 traditional WNIs with SBLGNT disposition. Triggered by Claude external-review of Luke 24 flagging the RULES undercount ("two WNIs" → actually 7). No translation changes; documentation-only fix.
+- **v0.5** (2026-04-23) — §7 check cadence grows to 9 steps with `scripts/check_phrase_consistency.py`. Multi-word Greek phrase lock enforcement (ἄφεσις ἁμαρτιῶν, βασιλεία τοῦ θεοῦ, ἀμὴν λέγω ὑμῖν, etc.). Added after ἄφεσις drift at MAT 26:28 slipped through the per-lemma checker. Triggered the `book-matthew-v2` / `book-mark-v2` retag that applied the ἄφεσις lock retroactively to 3 verses (MAT 26:28, MRK 3:29, plus normalization of LUK 1:77 and 3 amen-formula drift verses).
 
 Future revisions tracked here with date + summary.
