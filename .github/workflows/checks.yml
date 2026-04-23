@@ -1,0 +1,85 @@
+name: Translation checks
+
+on:
+  pull_request:
+    paths:
+      - 'output/translations/**'
+      - 'docs/translator_decisions/**'
+      - 'scripts/check_*.py'
+      - 'glossary.json'
+      - 'RULES.md'
+      - 'data/**'
+      - '.github/workflows/checks.yml'
+  push:
+    branches:
+      - main
+
+jobs:
+  corpus-checks:
+    # Fast, no-API checks that run across the full corpus. These catch
+    # most drift classes the pipeline has encountered: per-lemma drift,
+    # multi-word phrase drift, greek-field schema violations, parallel-
+    # passage synoptic drift.
+    #
+    # Back-translation is NOT run here — it needs an API key and is better
+    # done at chapter ship-time in the dev loop (see scripts/run_checks.py).
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Key-term consistency (book-wide)
+        run: python3 scripts/check_key_term_consistency.py
+        # Exit code 1 if any undocumented lemma drift. Blocks merge.
+
+      - name: Phrase consistency (corpus-wide)
+        run: python3 scripts/check_phrase_consistency.py
+        # Exit code 1 if any locked multi-word phrase drifts without a
+        # documented per-verse exception. Blocks merge.
+
+      - name: Greek-field integrity (all chapters)
+        run: python3 scripts/check_greek_field_integrity.py --all
+        # Exit code 1 if any key_decisions[].greek has schema drift
+        # (Thai characters, fabricated Greek tokens). Blocks merge.
+
+      - name: Synoptic parallel-passage check
+        run: python3 scripts/check_parallel_passages.py
+        # Flags divergent renderings of the same saying across synoptics.
+
+  per-chapter-claim-checks:
+    # Per-chapter checks that compare translation-content against the
+    # project data files (nt_ot_citations.json, etc.). Run across all
+    # shipped chapters.
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: OT citation acknowledgment (all chapters)
+        run: |
+          for f in output/translations/*.json; do
+            base=$(basename "$f" .json)
+            book="${base%_*}"
+            chapter="${base##*_}"
+            # skip leading-zero-stripped chapter number
+            chapter_num=$((10#$chapter))
+            python3 scripts/check_ot_citations.py --book "$book" --chapter "$chapter_num" || exit 1
+          done
+
+      - name: Claim-consistency / hallucination (all chapters)
+        run: |
+          for f in output/translations/*.json; do
+            base=$(basename "$f" .json)
+            book="${base%_*}"
+            chapter="${base##*_}"
+            chapter_num=$((10#$chapter))
+            python3 scripts/check_claim_consistency.py --book "$book" --chapter "$chapter_num" || exit 1
+          done
