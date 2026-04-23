@@ -8,6 +8,10 @@ Executes in order:
   3. OT citation acknowledgment check
   4. Parallel-passage check (synoptics)
   5. Back-translation check (requires ANTHROPIC_API_KEY)
+  6. Thai-summary coverage (informational)
+  7. Claim-consistency (hallucination detector)
+  8. Greek-field integrity (schema hallucination detector)
+  9. Phrase-consistency audit (corpus-wide; catches cross-book drift)
 
 Aggregates into a single review report at
   output/check_reports/<book>_<NN>_review.md
@@ -161,11 +165,25 @@ def main():
     # tokens ("ἐσδέจ" mixed-script) and Thai pronouns stuffed into the
     # greek slot. All seven prior checks passed green on that content.
     # See docs/LUKE_DRIFT_2026-04-21.md.
-    print("[8/8] Greek-field integrity (metadata hallucination check)...")
+    print("[8/9] Greek-field integrity (metadata hallucination check)...")
     code, _ = run([sys.executable, str(SCRIPTS / "check_greek_field_integrity.py"),
                    "--book", slug, "--chapter", str(args.chapter), "--quiet"])
     record("Greek-field integrity", code,
            f"greek_field_integrity_{slug}_{args.chapter:02d}.md")
+
+    # 9. Phrase-consistency audit (CORPUS-WIDE; catches cross-book drift)
+    # Extends key-term consistency to multi-word Greek phrases that carry
+    # corpus-level theological weight (ἄφεσις ἁμαρτιῶν, βασιλεία τοῦ θεοῦ,
+    # ἀμὴν λέγω ὑμῖν, etc.). Each phrase is tied to a translator_decisions
+    # doc. Added 2026-04-23 after Claude external-review surfaced ἄφεσις drift
+    # (MAT 26:28 vs. LUK 24:47) that the per-lemma checker missed because
+    # it treated ἄφεσις as a single token rather than as part of the locked
+    # phrase ἄφεσις ἁμαρτιῶν.
+    # This is a CORPUS check — it re-scans all books on each invocation
+    # but fast (< 1s on 2900+ verses). Blocks ship if corpus drift detected.
+    print("[9/9] Phrase-consistency audit (corpus-wide)...")
+    code, _ = run([sys.executable, str(SCRIPTS / "check_phrase_consistency.py")])
+    record("Phrase consistency (corpus-wide)", code, "phrase_consistency.md")
 
     # Aggregate report
     review_lines = [
