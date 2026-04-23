@@ -25,16 +25,18 @@ That's the minimum reviewer package. You can stop there or go deeper.
 
 ---
 
-## What's been translated (as of 2026-04-18)
+## What's been translated (as of 2026-04-23)
 
-**Gospel of Mark — COMPLETE** (16 chapters, 603 verses) · **Matthew** in progress · **1 Timothy 3** (16 verses).
+**Three Synoptic Gospels — COMPLETE**: Matthew (28 ch, 1,068 verses) · Mark (16 ch, 673 verses) · Luke (24 ch, 1,149 verses). **Acts** in progress (ch 1–4, 136 verses). **1 Timothy 3** pilot (16 verses). **Corpus total: 3,042 verses across 74 chapters — roughly 38% of the New Testament.**
 
 📖 **Read it:**
-- Mark: [`output/reader/mark.md`](output/reader/mark.md) — full Gospel in Thai with inline context (บริบท)
-- Matthew (in progress): [`output/reader/matthew.md`](output/reader/matthew.md)
+- Matthew: [`output/reader/matthew.md`](output/reader/matthew.md) — full Gospel in Thai with inline context (บริบท)
+- Mark: [`output/reader/mark.md`](output/reader/mark.md) — full Gospel in Thai
+- Luke: [`output/reader/luke.md`](output/reader/luke.md) — full Gospel in Thai
+- Acts (in progress): [`output/reader/acts.md`](output/reader/acts.md)
 - 1 Timothy 3: [`output/reader/1timothy.md`](output/reader/1timothy.md)
 
-All chapters pass the full 7-check ship gate (key-term consistency, TNBT structural, OT citation acknowledgment, synoptic parallels, back-translation, thai_summary coverage, claim-consistency / hallucination detector). 288 reader-facing Thai context summaries across the corpus (43% coverage, aligned with the 30–50% target in `docs/THAI_SUMMARY_STYLE.md`). 104 curated NT→OT citations in `data/nt_ot_citations.json`. Every commit GPG-signed; every translation file SHA-256 fingerprinted in `HASHES.md`.
+All chapters pass the full 8-check ship gate (key-term consistency, TNBT structural, OT citation acknowledgment, synoptic parallels, back-translation, thai_summary coverage, claim-consistency / hallucination detector, Greek-field integrity). 1,717 reader-facing Thai context summaries across the corpus (56% coverage, aligned with the 30–50%+ target in `docs/THAI_SUMMARY_STYLE.md`). 719 curated NT→OT citations in `data/nt_ot_citations.json`. Every commit GPG-signed; every translation file SHA-256 fingerprinted in `HASHES.md`.
 
 ### Why does our Mark 1:1 differ from the BSB?
 
@@ -44,19 +46,16 @@ The BSB — which we use only as an English reference bridge, **not** as a sourc
 
 Our approach: **translate from SBLGNT as stated, and document every divergence from other major traditions in the verse's notes.** Our Mark 1:1 note records the manuscript evidence explicitly. This same editorial principle handles every contested passage — Mark 1:41 (ὀργισθείς vs σπλαγχνισθείς), Mark 9:29 (with-or-without "and fasting"), Mark 14:24 (with-or-without "new"), and the ⟦double-bracketed⟧ longer ending of Mark 16:9-20.
 
-### Chapter highlights
+### Book highlights
 
-| Book / chapter | Verses | Notable features |
-|----------------|--------|------------------|
-| Mark 1 | 45 | Pilot; SBLGNT omits "Son of God" at 1:1; ὀργισθείς/σπλαγχνισθείς variant at 1:41 |
-| Mark 2 | 28 | บุตรมนุษย์ for "Son of Man"; Abiathar/Ahimelech crux at 2:26 |
-| Mark 3 | 35 | συλλυπέομαι hapax; Aramaic transliteration "ชาวคานาอัน" |
-| Mark 4 | 41 | Isa 6:9-10 citation tracks Targum Jonathan, not LXX; cosmic-tree allusion at 4:32 |
-| Mark 5 | 43 | Gerasene demoniac + Jairus/hemorrhaging-woman intercalation; Aramaic "ทาลิธา คูม" |
-| Mark 6 | 56 | ἐγώ εἰμι/Exod 3:14 echo; eucharistic four-verb sequence; Pharaoh-hardening |
-| Mark 7 | 36 | Isa 29:13 LXX-dependence; Decapolis healing as Isa 35 messianic restoration; "ἐφφαθά" |
-| 1 Timothy 3 | 16 | ὃς/Θεὸς textual variant at 3:16; γυναῖκας crux at 3:11 |
-| **Total** | **300** | of NT (260 chapters total in production order, 7/16 of Mark done) |
+| Book | Status | Verses | Notable features |
+|------|--------|-------:|------------------|
+| Matthew | ✅ complete | 1,068 | Royal-register (ราชาศัพท์) policy throughout; Sermon on the Mount (ch 5–7); Olivet Discourse (ch 24–25); Passion + Resurrection (ch 26–28) |
+| Mark | ✅ complete | 673 | Pilot book; SBLGNT-omitted "Son of God" at 1:1 bracketed; ὀργισθείς/σπλαγχνισθείς at 1:41; ⟦double-bracketed⟧ longer ending 16:9–20 |
+| Luke | ✅ complete | 1,149 | Magnificat (1:46–55) + Benedictus (1:68–79) + Nunc Dimittis (2:29–32); Parable-dense chs 10–19; Emmaus road (24:13–35); end-of-book external Gemini + Claude review pass |
+| Acts | 🔄 in progress (1–4) | 136 | Ascension + Matthias (ch 1); Pentecost with 21 OT citations (ch 2); early-church sermons drawing heavily on Ps 16, Ps 110, Joel 2, Isa 53 |
+| 1 Timothy 3 | ✅ pilot | 16 | ὃς/Θεὸς textual variant at 3:16; γυναῖκας crux at 3:11 |
+| **Total** | | **3,042** | **74 of ~260 NT chapters — ~38% of the NT** |
 
 Each translation lives at `output/translations/<book-slug>_<NN>.json` with full Greek source, BSB English reference, Thai rendering, key decisions with rationale, and notes on textual variants / hapax legomena / OT citations.
 
@@ -82,7 +81,7 @@ Each translation lives at `output/translations/<book-slug>_<NN>.json` with full 
 4. Read prior chapter output for style continuity
 5. Translate from Greek with verse-by-verse rationale
 6. Back-translate Thai → English in-chat for self-consistency check
-7. Run 7 automated checks (`scripts/run_checks.py`):
+7. Run 8 automated checks (`scripts/run_checks.py`):
    - Key-term consistency across the whole corpus
    - TNBT structural comparison
    - OT citation acknowledgment + DB drift detector (fails ship if notes claim a citation that isn't recorded in `data/nt_ot_citations.json`)
@@ -90,6 +89,7 @@ Each translation lives at `output/translations/<book-slug>_<NN>.json` with full 
    - Back-translation diff against BSB
    - Thai-summary coverage (informational, not blocking)
    - Claim-consistency / hallucination detector (fails ship when notes claim a pipeline side-effect that didn't happen — e.g., "added to glossary" when glossary is unchanged)
+   - Greek-field integrity (catches Thai or fabricated Greek tokens stuffed into the `key_decisions[].greek` slot — introduced 2026-04-21 after LUK 13/14 metadata drift; see `docs/LUKE_DRIFT_2026-04-21.md`)
 8. Auto-ship via `scripts/ship_chapter.sh` — bundles, branches, PRs, auto-merges, bumps iOS, builds web, uploads TestFlight
 
 ---
@@ -170,7 +170,7 @@ If you're qualified to give technical feedback, these are the dimensions that ma
 
 **Public** (as of 2026-04-17, when the Gospel of Mark reached first-draft completion). The CC0 license applies to all output in `output/translations/`. Source material under `sources/` is git-ignored — each source has its own license and must be cloned separately from upstream (see `ATTRIBUTIONS.md`).
 
-**Pre-v1.0.** The Mark corpus has passed all automated checks and is ready for human review (whole-book readthrough, exegetical spot-check on high-stakes verses, Thai-native-speaker naturalness review). Release-notes for `mark-v1.0` will land once those stages complete. Until then, expect verse-level revisions.
+**Pre-v1.0.** The Synoptic corpus (Matthew + Mark + Luke) has passed all 8 automated checks and is ready for human review (whole-book readthrough, exegetical spot-check on high-stakes verses, Thai-native-speaker naturalness review). Acts is in active first-draft translation. Release-notes for per-book `v1.0` tags will land once human-review stages complete. Until then, expect verse-level revisions.
 
 Companion app: [Eremos](https://github.com/btwinguitarists/EremosVercel2) — surfaces the translation in a Thai Bible reader with a "Translation Notes" popup showing rationale and a one-tap "Flag error" feedback button.
 
