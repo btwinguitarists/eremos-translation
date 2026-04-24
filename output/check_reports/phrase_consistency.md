@@ -3,8 +3,8 @@
 ## ἄφεσις ἁμαρτιῶν
 **Doc:** `aphesis_forgiveness_of_sins_2026-04.md`  
 **Expected Thai contains:** `ยกโทษ`  
-**Total matching verses:** 8  
-**OK:** 8 · **Excepted:** 0 · **Violations:** 0
+**Total matching verses:** 9  
+**OK:** 9 · **Excepted:** 0 · **Violations:** 0
 
 ### Documented exceptions (not violations)
 - **Luke 4:18** — Isa 61:1 citation; ἄφεσις = Jubilee-release of captives, not forgiveness-of-sins; correctly rendered ปลดปล่อย
@@ -46,8 +46,8 @@
 ## πνεῦμα ἅγιον
 **Doc:** `RULES.md §4 + glossary`  
 **Expected Thai contains:** `พระวิญญาณบริสุทธิ์`  
-**Total matching verses:** 26  
-**OK:** 26 · **Excepted:** 0 · **Violations:** 0
+**Total matching verses:** 28  
+**OK:** 28 · **Excepted:** 0 · **Violations:** 0
 
 ## ἐκκλησία (Christian community sense)
 **Doc:** `ekklesia_2026-04.md`  
