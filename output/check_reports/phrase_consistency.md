@@ -46,14 +46,14 @@
 ## πνεῦμα ἅγιον
 **Doc:** `RULES.md §4 + glossary`  
 **Expected Thai contains:** `พระวิญญาณบริสุทธิ์`  
-**Total matching verses:** 33  
-**OK:** 33 · **Excepted:** 0 · **Violations:** 0
+**Total matching verses:** 34  
+**OK:** 34 · **Excepted:** 0 · **Violations:** 0
 
 ## ἐκκλησία (Christian community sense)
 **Doc:** `ekklesia_2026-04.md`  
 **Expected Thai contains:** `คริสตจักร`  
-**Total matching verses:** 20  
-**OK:** 19 · **Excepted:** 1 · **Violations:** 0
+**Total matching verses:** 21  
+**OK:** 20 · **Excepted:** 1 · **Violations:** 0
 
 ### Documented exceptions (not violations)
 - **Acts 7:38** — OT/LXX assembly-of-Israel; use ที่ประชุม per ekklesia doc exception
