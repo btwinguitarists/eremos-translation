@@ -36,10 +36,20 @@ jobs:
         run: python3 scripts/check_key_term_consistency.py
         # Exit code 1 if any undocumented lemma drift. Blocks merge.
 
+      - name: Key-term report freshness
+        run: |
+          git diff --exit-code output/check_reports/key_term_consistency_all.md \
+            || { echo "::error::key_term_consistency_all.md is stale — run scripts/check_key_term_consistency.py and commit the result"; exit 1; }
+
       - name: Phrase consistency (corpus-wide)
         run: python3 scripts/check_phrase_consistency.py
         # Exit code 1 if any locked multi-word phrase drifts without a
         # documented per-verse exception. Blocks merge.
+
+      - name: Phrase-consistency report freshness
+        run: |
+          git diff --exit-code output/check_reports/phrase_consistency.md \
+            || { echo "::error::phrase_consistency.md is stale — run scripts/check_phrase_consistency.py and commit the result"; exit 1; }
 
       - name: Greek-field integrity (all chapters)
         run: python3 scripts/check_greek_field_integrity.py --all
