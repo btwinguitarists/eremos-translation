@@ -3,8 +3,8 @@
 ## ἄφεσις ἁμαρτιῶν
 **Doc:** `aphesis_forgiveness_of_sins_2026-04.md`  
 **Expected Thai contains:** `ยกโทษ`  
-**Total matching verses:** 7  
-**OK:** 7 · **Excepted:** 0 · **Violations:** 0
+**Total matching verses:** 8  
+**OK:** 8 · **Excepted:** 0 · **Violations:** 0
 
 ### Documented exceptions (not violations)
 - **Luke 4:18** — Isa 61:1 citation; ἄφεσις = Jubilee-release of captives, not forgiveness-of-sins; correctly rendered ปลดปล่อย
@@ -12,8 +12,8 @@
 ## βασιλεία τοῦ θεοῦ
 **Doc:** `basileia_kingdom_rendering_2026-04.md`  
 **Expected Thai contains:** `อาณาจักรของพระเจ้า`  
-**Total matching verses:** 50  
-**OK:** 50 · **Excepted:** 0 · **Violations:** 0
+**Total matching verses:** 51  
+**OK:** 51 · **Excepted:** 0 · **Violations:** 0
 
 ## βασιλεία τῶν οὐρανῶν (Matthew)
 **Doc:** `basileia_kingdom_rendering_2026-04.md`  
@@ -37,8 +37,8 @@
 ## ὁ υἱὸς τοῦ ἀνθρώπου (Christological title)
 **Doc:** `son_of_man_disambiguation_2026-04.md`  
 **Expected Thai contains:** `บุตรมนุษย์`  
-**Total matching verses:** 61  
-**OK:** 61 · **Excepted:** 0 · **Violations:** 0
+**Total matching verses:** 62  
+**OK:** 62 · **Excepted:** 0 · **Violations:** 0
 
 ### Documented exceptions (not violations)
 - **Hebrews 2:6** — Ps 8:4 LXX citation; generic υἱὸς ἀνθρώπου, not Christological title — expected to render differently; documented per son_of_man_disambiguation doc
@@ -46,14 +46,14 @@
 ## πνεῦμα ἅγιον
 **Doc:** `RULES.md §4 + glossary`  
 **Expected Thai contains:** `พระวิญญาณบริสุทธิ์`  
-**Total matching verses:** 16  
-**OK:** 16 · **Excepted:** 0 · **Violations:** 0
+**Total matching verses:** 24  
+**OK:** 24 · **Excepted:** 0 · **Violations:** 0
 
 ## ἐκκλησία (Christian community sense)
 **Doc:** `ekklesia_2026-04.md`  
 **Expected Thai contains:** `คริสตจักร`  
-**Total matching verses:** 4  
-**OK:** 4 · **Excepted:** 0 · **Violations:** 0
+**Total matching verses:** 8  
+**OK:** 7 · **Excepted:** 1 · **Violations:** 0
 
 ### Documented exceptions (not violations)
 - **Acts 7:38** — OT/LXX assembly-of-Israel; use ที่ประชุม per ekklesia doc exception
