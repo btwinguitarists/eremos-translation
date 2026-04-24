@@ -12,8 +12,8 @@
 ## βασιλεία τοῦ θεοῦ
 **Doc:** `basileia_kingdom_rendering_2026-04.md`  
 **Expected Thai contains:** `อาณาจักรของพระเจ้า`  
-**Total matching verses:** 51  
-**OK:** 51 · **Excepted:** 0 · **Violations:** 0
+**Total matching verses:** 52  
+**OK:** 52 · **Excepted:** 0 · **Violations:** 0
 
 ## βασιλεία τῶν οὐρανῶν (Matthew)
 **Doc:** `basileia_kingdom_rendering_2026-04.md`  
@@ -52,8 +52,8 @@
 ## ἐκκλησία (Christian community sense)
 **Doc:** `ekklesia_2026-04.md`  
 **Expected Thai contains:** `คริสตจักร`  
-**Total matching verses:** 14  
-**OK:** 13 · **Excepted:** 1 · **Violations:** 0
+**Total matching verses:** 16  
+**OK:** 15 · **Excepted:** 1 · **Violations:** 0
 
 ### Documented exceptions (not violations)
 - **Acts 7:38** — OT/LXX assembly-of-Israel; use ที่ประชุม per ekklesia doc exception
