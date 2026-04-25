@@ -16,7 +16,7 @@ Apply when:
 - Includes proleptic uses (Jesus speaking about a future church before Pentecost, as at Matt 16:18 / 18:17).
 
 **Do NOT apply when:**
-- ἐκκλησία refers to a secular Greek civic assembly (e.g., Acts 19:32, 19:39, 19:41 — the Ephesian riot uses ἐκκλησία in its non-Christian original sense). In those cases use **ที่ประชุม** or **การชุมนุม** with a verse-level note explaining the disambiguation.
+- ἐκκλησία refers to a secular Greek civic assembly (e.g., Acts 19:32, 19:39, 19:40 (SBLGNT combines TR v.40+41) — the Ephesian riot uses ἐκκλησία in its non-Christian original sense). In those cases use **ที่ประชุม** or **การชุมนุม** with a verse-level note explaining the disambiguation.
 - ἐκκλησία refers to the OT/LXX assembly of Israel (Acts 7:38 — Stephen's reference to Moses ἐν τῇ ἐκκλησίᾳ ἐν τῇ ἐρήμῳ). Use **ที่ประชุม** + note.
 
 ## Why คริสตจักร and not ที่ประชุม / ชุมนุม
@@ -54,7 +54,7 @@ Considered. Rejected:
 ## Forward implications
 
 This lock determines:
-- **Acts** (~23×): ἐκκλησία ἐν Ἱεροσολύμοις (5:11, 8:1, 11:22), αἱ ἐκκλησίαι (15:41, 16:5), τὴν ἐκκλησίαν τοῦ θεοῦ (20:28). All → คริสตจักร except secular-civic uses (19:32, 19:39, 19:41).
+- **Acts** (~23×): ἐκκλησία ἐν Ἱεροσολύμοις (5:11, 8:1, 11:22), αἱ ἐκκλησίαι (15:41, 16:5), τὴν ἐκκλησίαν τοῦ θεοῦ (20:28). All → คริสตจักร except secular-civic uses (19:32, 19:39, 19:40).
 - **Pauline corpus** (~60×): including ἐκκλησίᾳ θεοῦ (1 Cor 1:2, 2 Cor 1:1), αἱ ἐκκλησίαι τῶν ἐθνῶν (Rom 16:4), αἱ ἐκκλησίαι πᾶσαι τοῦ Χριστοῦ (Rom 16:16). All → คริสตจักร.
 - **Pastorals + Hebrews + James + 1 Peter** — same.
 - **Revelation 2–3 letters**: ταῖς ἑπτὰ ἐκκλησίαις (1:4) and the seven address-formulas (2:1, 2:8, 2:12, 2:18, 3:1, 3:7, 3:14). All → คริสตจักร.

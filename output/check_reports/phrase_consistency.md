@@ -12,8 +12,8 @@
 ## βασιλεία τοῦ θεοῦ
 **Doc:** `basileia_kingdom_rendering_2026-04.md`  
 **Expected Thai contains:** `อาณาจักรของพระเจ้า`  
-**Total matching verses:** 52  
-**OK:** 52 · **Excepted:** 0 · **Violations:** 0
+**Total matching verses:** 53  
+**OK:** 53 · **Excepted:** 0 · **Violations:** 0
 
 ## βασιλεία τῶν οὐρανῶν (Matthew)
 **Doc:** `basileia_kingdom_rendering_2026-04.md`  
@@ -46,17 +46,17 @@
 ## πνεῦμα ἅγιον
 **Doc:** `RULES.md §4 + glossary`  
 **Expected Thai contains:** `พระวิญญาณบริสุทธิ์`  
-**Total matching verses:** 34  
-**OK:** 34 · **Excepted:** 0 · **Violations:** 0
+**Total matching verses:** 35  
+**OK:** 35 · **Excepted:** 0 · **Violations:** 0
 
 ## ἐκκλησία (Christian community sense)
 **Doc:** `ekklesia_2026-04.md`  
 **Expected Thai contains:** `คริสตจักร`  
-**Total matching verses:** 22  
-**OK:** 21 · **Excepted:** 1 · **Violations:** 0
+**Total matching verses:** 25  
+**OK:** 21 · **Excepted:** 4 · **Violations:** 0
 
 ### Documented exceptions (not violations)
 - **Acts 7:38** — OT/LXX assembly-of-Israel; use ที่ประชุม per ekklesia doc exception
 - **Acts 19:32** — secular civic Greek assembly; use ที่ประชุม/การชุมนุม
 - **Acts 19:39** — secular civic Greek assembly; use ที่ประชุม/การชุมนุม
-- **Acts 19:41** — secular civic Greek assembly; use ที่ประชุม/การชุมนุม
+- **Acts 19:40** — secular civic Greek assembly; use ที่ประชุม/การชุมนุม (SBLGNT combines TR v.40+41)

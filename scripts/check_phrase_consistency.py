@@ -168,11 +168,11 @@ PHRASE_LOCKS = [
         "expected_thai_contains": "คริสตจักร",
         "must_not_contain": [],
         "exceptions": {
-            # Acts 7:38 (LXX assembly-of-Israel) + Acts 19:32/39/41 (secular civic)
+            # Acts 7:38 (LXX assembly-of-Israel) + Acts 19:32/39/40 (secular civic — SBLGNT combines TR v.40+41 into v.40)
             "Acts 7:38": "OT/LXX assembly-of-Israel; use ที่ประชุม per ekklesia doc exception",
             "Acts 19:32": "secular civic Greek assembly; use ที่ประชุม/การชุมนุม",
             "Acts 19:39": "secular civic Greek assembly; use ที่ประชุม/การชุมนุม",
-            "Acts 19:41": "secular civic Greek assembly; use ที่ประชุม/การชุมนุม",
+            "Acts 19:40": "secular civic Greek assembly; use ที่ประชุม/การชุมนุม (SBLGNT combines TR v.40+41)",
         },
     },
 ]
