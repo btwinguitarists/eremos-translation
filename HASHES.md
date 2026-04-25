@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-04-24 11:20:58 UTC_
-_Total chapters: 81 · Total verses: 3344_
+_Generated: 2026-04-25 05:50:11 UTC_
+_Total chapters: 90 · Total verses: 3684_
 
 ## How to verify a chapter
 
@@ -31,7 +31,16 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/acts_09.json` | 43 | `63246a2cd4fdce1713dc4acc6ed2236f748384ca2f43ffe133f4e8b1ae860464` | `f22d9c7` |
 | `output/translations/acts_10.json` | 48 | `a72bc476a683a3e35450c1b93f811e97d6a5e4a2db3561d5996e7daa75c890b1` | `853ffc4` |
 | `output/translations/acts_11.json` | 30 | `c440a02b6c0fef2274234b9753c83b78218147ca9e54b42015affe65417b2824` | `21ccaa8` |
-| `output/translations/acts_12.json` | 25 | `363d8e8d3d6805e229ce0eb29d8b1dcdf8f70a9444824819df45f25135c2e8b7` | `—` |
+| `output/translations/acts_12.json` | 25 | `363d8e8d3d6805e229ce0eb29d8b1dcdf8f70a9444824819df45f25135c2e8b7` | `02b906a` |
+| `output/translations/acts_13.json` | 52 | `116deb9b7a29f7edd802c73209bfcfb21f4946854e13b3a502c7813c3848fac8` | `45009db` |
+| `output/translations/acts_14.json` | 28 | `d3fc8fd9a9f513a9f42df5ff3b232f666f1d615fe1300e04d557229b752f413c` | `ae8e87e` |
+| `output/translations/acts_15.json` | 40 | `ee956d8b4e1b17b2f3bc5e1a81e74a5fb4a67808e81e0b54f829c75a58c6c9a7` | `110ee2c` |
+| `output/translations/acts_16.json` | 40 | `8d9639fd4d99452cbaa32ea7a007fd78907cc0f1cb727ed75fc1a2df4c294d52` | `170208d` |
+| `output/translations/acts_17.json` | 34 | `d5e20786e177982ff5b9d7f7eb3e4b157c1b858ffe0359f4b6420ebb8e830d6c` | `bc7472f` |
+| `output/translations/acts_18.json` | 28 | `589f6a318f14fe6d0769a83c40cbaff4d78438fc2d8137f158371db3c4a249eb` | `895c7c5` |
+| `output/translations/acts_19.json` | 40 | `08c51cc4fe314a601063d99d15ab8adac3f27f5778f3d7a371afc717da348818` | `66824a1` |
+| `output/translations/acts_20.json` | 38 | `714ada0661dd8162653467035089d2ef8be0c58b4002549f443ba46ef6c791a7` | `07baa17` |
+| `output/translations/acts_21.json` | 40 | `4fc22b11999b1762ff9a5c690186dd353e8f1b96f2e1852db928a4cf4804b773` | `—` |
 | `output/translations/luke_01.json` | 80 | `4599f18b5580e9626ee55a25f352e3fdd5d81eb680e36dcee241fd63fcf05a26` | `69843ff` |
 | `output/translations/luke_02.json` | 52 | `814870d15ca1db04347a6b7a7e3965cdcbd094d522e1ff0fd84101cec32004bf` | `256d60f` |
 | `output/translations/luke_03.json` | 38 | `4d2a0c73362590f1062edeaa2e96f2d152f559a523182da27fe0e1c837a7a247` | `131e97b` |
