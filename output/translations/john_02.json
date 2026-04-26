@@ -1,0 +1,787 @@
+[
+  {
+    "reference": "John 2:1",
+    "chapter": 2,
+    "verse": 1,
+    "greek": "Καὶ τῇ ἡμέρᾳ τῇ τρίτῃ γάμος ἐγένετο ἐν Κανὰ τῆς Γαλιλαίας,καὶ ἦν ἡ μήτηρ τοῦ Ἰησοῦ ἐκεῖ·",
+    "bsb_english": "On the third day a wedding took place at Cana in Galilee. Jesus’ mother was there,",
+    "translation": {
+      "thai": "ในวันที่สามมีงานวิวาห์ที่เมืองคานาในแคว้นกาลิลี และมารดาของพระเยซูอยู่ที่นั่น",
+      "thai_literal": "และในวันที่สามนั้นได้บังเกิดงานวิวาห์ในเมืองคานาแห่งกาลิลี และมารดาของพระเยซูอยู่ที่นั่น",
+      "thai_summary": "หลังจากที่พระเยซูทรงเรียกฟีลิปและนาธานาเอลให้ติดตามพระองค์ (1:43-51) เพียงสองสามวัน พระองค์ก็ทรงเริ่มการสำแดงพระสิริผ่านหมายสำคัญแรก ณ งานเลี้ยงสมรสในเมืองเล็กๆ ในแคว้นกาลิลี — ไม่ใช่ที่กรุงเยรูซาเล็มหรือพระวิหาร แต่ในเหตุการณ์ครอบครัวธรรมดาๆ ในยุคของยอห์น งานวิวาห์ของชาวยิวอาจกินเวลาหนึ่งสัปดาห์ การที่เหล้าองุ่นหมดจึงเป็นเรื่องน่าอับอายอย่างยิ่งสำหรับเจ้าภาพ",
+      "key_decisions": [
+        {
+          "greek": "τῇ ἡμέρᾳ τῇ τρίτῃ",
+          "thai": "ในวันที่สาม",
+          "rationale": "Per uW writing-newevent: introduces a new event. The 'third day' likely counts inclusively from Jesus' calling Philip and Nathanael in 1:43 (Jewish inclusive reckoning). Thai 'ในวันที่สาม' preserves the literal-numeric phrasing without resolving the ambiguity (could be 2 days or 3 days later)."
+        },
+        {
+          "greek": "γάμος",
+          "thai": "งานวิวาห์",
+          "rationale": "γάμος = wedding/wedding feast. Thai 'งานวิวาห์' (formal Sanskritic 'wedding-event') is the standard biblical-register Thai for the marriage celebration; preferred over the colloquial 'งานแต่งงาน' for the elevated narrative tone of Scripture. NEW KEY-TERM LOCK for Johannine corpus: γάμος → งานวิวาห์ (also Jn 2:2)."
+        },
+        {
+          "greek": "Κανὰ τῆς Γαλιλαίας",
+          "thai": "เมืองคานาในแคว้นกาลิลี",
+          "rationale": "Proper-noun lock: Κανά → คานา (standard Thai Christian transliteration; first occurrence in our corpus). Γαλιλαία → กาลิลี (already established, e.g., Acts 1:11 'ชาวกาลิลี'). Thai 'เมือง' (town) + 'แคว้น' (region) supplies natural geographical-classifier framing. Genitive τῆς Γαλιλαίας = 'of Galilee' (origin/region) → 'ใน' (in)."
+        },
+        {
+          "greek": "ἡ μήτηρ τοῦ Ἰησοῦ",
+          "thai": "มารดาของพระเยซู",
+          "rationale": "John never names Mary in his Gospel — she is always 'the mother of Jesus' (also 2:3, 5; 19:25-27). Per uW writing-background: this verse gives setting. Thai 'มารดา' (formal mother) maintains the elevated narrative register and matches Acts 1:14 'มารีย์มารดาของพระเยซู' precedent. We deliberately do NOT add 'มารีย์' (Mary's name) since the Greek does not — preserving John's authorial choice."
+        },
+        {
+          "greek": "ἦν",
+          "thai": "อยู่",
+          "rationale": "Imperfect of εἰμί — durative 'was-being-there'. Background tense (per uW writing-background) for narrative setup. Thai 'อยู่' (present-state copula) reads naturally in Thai narrative; the durative aspect is implicit in Thai stative usage."
+        }
+      ],
+      "notes": "OPENING OF THE FIRST CANA SIGN (2:1-12). Setting: a wedding in Cana, a small Galilean village (~9 miles north of Nazareth). FUNCTION: introduces the first of seven Johannine 'signs' (σημεῖα) that structure 2:1-12:50 — see RULES.md §5 hapax/key-decisions and Johannine theme of σημεῖον. THIRD DAY: ambiguous reference (per uW), counting inclusively from 1:43; some commentators see a deliberate week-of-creation/new-creation echo (cf. 1:29 'next day', 1:35 'next day', 1:43 'next day' = days 1-4; 'third day' here could be days 5-7, completing a Genesis-1-style creation week). MARY'S PRESENCE: prepares for vv.3-5; she has standing as a guest/family-friend, hence she notices the wine running out and intervenes. NO NAME FOR MARY: Johannine convention (cf. 19:25-27) — 'the mother of Jesus' throughout."
+    }
+  },
+  {
+    "reference": "John 2:2",
+    "chapter": 2,
+    "verse": 2,
+    "greek": "ἐκλήθη δὲ καὶ ὁ Ἰησοῦς καὶ οἱ μαθηταὶ αὐτοῦ εἰς τὸν γάμον.",
+    "bsb_english": "and Jesus and His disciples had also been invited to the wedding.",
+    "translation": {
+      "thai": "พระเยซูและพวกสาวกของพระองค์ก็ได้รับเชิญมาในงานวิวาห์นั้นด้วย",
+      "thai_literal": "ได้รับเชิญแล้วทั้งพระเยซูและสาวกของพระองค์เข้าสู่งานวิวาห์",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ἐκλήθη",
+          "thai": "ได้รับเชิญ",
+          "rationale": "Aorist passive of καλέω (here = 'invite' to a feast, not 'name/call'). Per uW figs-activepassive: may be rendered actively. Thai 'ได้รับเชิญ' (received invitation) is the natural Thai way to express the passive 'was invited' without specifying the host as agent — fits the Greek's reticence."
+        },
+        {
+          "greek": "οἱ μαθηταὶ αὐτοῦ",
+          "thai": "พวกสาวกของพระองค์",
+          "rationale": "μαθητής = disciple/learner. At this point only the first five are called (1:35-51: Andrew, the unnamed second [trad. John], Simon Peter, Philip, Nathanael). Thai 'สาวก' is the locked-rendering across our corpus (Mark/Acts precedent). พระองค์ = honorific 3sg for Jesus."
+        }
+      ],
+      "notes": "Background-establishing complement to v.1. The disciples' inclusion at this small village wedding suggests they are now Jesus' traveling-companions — a new social-unit publicly tied to him. SCHOLARLY OBSERVATION: only five disciples have been called by 2:2 (Andrew, the unnamed [trad. John], Peter, Philip, Nathanael). 'His disciples' as a corporate entity emerges immediately after the call narratives of ch.1. The wedding host(s) are unidentified — possibly Mary's relatives (her standing in vv.3-5 suggests family connection)."
+    }
+  },
+  {
+    "reference": "John 2:3",
+    "chapter": 2,
+    "verse": 3,
+    "greek": "καὶ ὑστερήσαντος οἴνου λέγει ἡ μήτηρ τοῦ Ἰησοῦ πρὸς αὐτόν·Οἶνον οὐκ ἔχουσιν.",
+    "bsb_english": "When the wine ran out, Jesus’ mother said to Him, “They have no more wine.”",
+    "translation": {
+      "thai": "เมื่อเหล้าองุ่นหมดลง มารดาของพระเยซูก็ทูลพระองค์ว่า «พวกเขาไม่มีเหล้าองุ่นแล้ว»",
+      "thai_literal": "และเมื่อเหล้าองุ่นได้พร่องลง มารดาของพระเยซูก็กล่าวต่อพระองค์ว่า «เหล้าองุ่นพวกเขาไม่มี»",
+      "thai_summary": "ในวัฒนธรรมยิวศตวรรษที่หนึ่ง การที่เหล้าองุ่นหมดในงานวิวาห์เป็นความอัปยศต่อเจ้าภาพ — แสดงถึงการเตรียมการที่ขาดความรอบคอบและขาดความเคารพต่อแขก มารดาของพระเยซูไม่ได้ขอตรงๆ แต่ใช้ถ้อยคำเหมือนเป็นเพียงข้อสังเกต เพื่อเปิดทางให้พระเยซูทรงตัดสินใจเอง — เป็นรูปแบบการขอแบบอ้อมๆ ที่ตามมารยาทชาวยิว",
+      "key_decisions": [
+        {
+          "greek": "ὑστερήσαντος οἴνου",
+          "thai": "เมื่อเหล้าองุ่นหมดลง",
+          "rationale": "ὑστερέω genitive absolute = 'with wine having run short.' Thai 'เมื่อ ... หมดลง' (when ... ran out) is the natural temporal-clause rendering. The genitive absolute in Greek often becomes a Thai 'เมื่อ' clause."
+        },
+        {
+          "greek": "Οἶνον",
+          "thai": "เหล้าองุ่น",
+          "rationale": "Οἶνον = wine, accusative-singular of lemma οἶνος (also genitive οἴνου earlier in verse). Standard Mediterranean fermented-grape product. Thai 'เหล้าองุ่น' (lit. 'liquor of grape') is the established Thai Christian rendering for biblical wine — distinguishes it from 'น้ำองุ่น' (grape juice, non-fermented) which is theologically/historically anachronistic. NEW KEY-TERM LOCK for Johannine corpus: lemma οἶνος → เหล้าองุ่น (also vv.9, 10)."
+        },
+        {
+          "greek": "λέγει ... πρὸς αὐτόν",
+          "thai": "ทูลพระองค์ว่า",
+          "rationale": "Per uW figs-pastforfuture: λέγει historic-present in past narration calls attention to a development. Thai narrative uses past-tense by default; the developmental force is preserved by the dialogue marker 'ก็ ... ว่า'. ทูล (humble register) — Mary speaks to Jesus the Logos-Christ; per RULES §3 humans-to-Christ use humble forms. The choice of ทูล (rather than กล่าว) reflects John's prologue Christology (1:1-18) where the Logos is divine; even Mary's address acknowledges this dignity."
+        },
+        {
+          "greek": "Οἶνον οὐκ ἔχουσιν",
+          "thai": "พวกเขาไม่มีเหล้าองุ่นแล้ว",
+          "rationale": "Per uW figs-declarative: Mary uses a declarative statement as an indirect request. We preserve the declarative form (not converting to a request) since Thai readers also recognize statement-as-implicit-request through context. Adding 'แล้ว' (already) makes the depletion-aspect natural in Thai (= 'they have no wine left'). Subject 'they' = the hosts; left implicit, as in Greek (3pl verb)."
+        }
+      ],
+      "notes": "MARY'S INDIRECT REQUEST. Per uW, this is a declarative-as-request — culturally typical of Jewish (and Thai) social discourse where direct demands would be unseemly. Mary brings the problem to Jesus expecting him to act, but does not specify what he should do — leaving room for his sovereign timing. WINE IN JEWISH WEDDING CULTURE: drinking wine at meals and feasts was normal and not sinful (see uW chapter intro §Religious and Cultural Concepts). RUNNING OUT was a social disaster — a host's failure of hospitality. KEY-TERM LOCK οἶνος → เหล้าองุ่น (this chapter, then Johannine corpus)."
+    }
+  },
+  {
+    "reference": "John 2:4",
+    "chapter": 2,
+    "verse": 4,
+    "greek": "καὶ λέγει αὐτῇ ὁ Ἰησοῦς·Τί ἐμοὶ καὶ σοί,γύναι;οὔπω ἥκει ἡ ὥρα μου.",
+    "bsb_english": "“Woman, what is that to you and to Me?” Jesus replied. “My hour has not yet come.”",
+    "translation": {
+      "thai": "พระเยซูตรัสตอบมารดาของพระองค์ว่า «หญิงเอ๋ย เรื่องนี้เกี่ยวอะไรกับเราและกับท่านเล่า เวลาของเรายังไม่มาถึง»",
+      "thai_literal": "และพระเยซูตรัสกับนางว่า «อะไรแก่เราและแก่ท่าน หญิงเอ๋ย เวลาของเรายังไม่ได้มาถึง»",
+      "thai_summary": "พระเยซูทรงสร้างระยะห่างเล็กน้อยจากความเป็นมารดา-บุตรในเรื่องนี้ ทรงใช้คำว่า «หญิงเอ๋ย» (แทนที่จะเป็น «แม่») ไม่ใช่เพราะไม่เคารพ แต่เพื่อแสดงว่าตอนนี้พระองค์ทรงดำเนินการตามแผนงานของพระบิดามากกว่าตามคำขอของครอบครัว «เวลาของเรา» เป็นแก่นเรื่องสำคัญตลอดทั้งพระกิตติคุณยอห์น (7:30; 8:20; 12:23, 27; 13:1; 17:1) ซึ่งหมายถึงเวลาที่ทรงถูกถวายเป็นเครื่องบูชาและทรงได้รับการยกขึ้นเข้าสู่พระสิริ",
+      "key_decisions": [
+        {
+          "greek": "γύναι",
+          "thai": "หญิงเอ๋ย",
+          "rationale": "Vocative of γυνή ('woman'). Per uW figs-explicit: this is not impolite in Greek (cf. Jn 4:21 to Samaritan woman; 19:26 to Mary at the cross; 20:15 to Mary Magdalene), but it IS distancing — a son does not normally address his mother as γύναι. Thai 'หญิงเอ๋ย' (with vocative-particle เอ๋ย) is the standard biblical-register rendering (cf. THSV1971 traditional). It preserves the slight formality without being rude. We deliberately do NOT use 'แม่' (mom) since that would erase the deliberate distancing. The notes flag the interpretive crux."
+        },
+        {
+          "greek": "Τί ἐμοὶ καὶ σοί",
+          "thai": "เรื่องนี้เกี่ยวอะไรกับเราและกับท่านเล่า",
+          "rationale": "Hebraicism — מה לי ולך / τί ἐμοὶ καὶ σοί ('what to me and to you?') — biblical-Greek idiom (LXX Judg 11:12; 2 Sam 16:10; 1 Kings 17:18; 2 Kings 3:13; 2 Chron 35:21). Per uW figs-rquestion: rhetorical question, not a literal information-seek. Force ranges from disclaiming-shared-concern ('this is not our shared problem') to mild-rebuke ('do not draw me into this'). Thai 'เรื่องนี้เกี่ยวอะไรกับเราและกับท่านเล่า' preserves the Hebraic idiom and the question form. ADDITIONAL: 'เล่า' is a Thai sentence-final particle for rhetorical questions, marking emphasis."
+        },
+        {
+          "greek": "οὔπω ἥκει ἡ ὥρα μου",
+          "thai": "เวลาของเรายังไม่มาถึง",
+          "rationale": "JOHANNINE THEOLOGICAL TERM. ἡ ὥρα μου ('my hour') = the appointed time of Jesus' glorification through cross-resurrection-ascension (cf. 7:30; 8:20; 12:23; 13:1; 17:1). Per uW figs-metonymy: 'hour' refers metonymously to the right occasion. NEW KEY-TERM LOCK for Johannine corpus: ἡ ὥρα (theologically 'Jesus' hour') → เวลา (with 'ของเรา/พระองค์' for possession). Thai 'ยังไม่มาถึง' (has not yet come) preserves the οὔπω + perfect-of-arrival sense. We deliberately keep 'เวลา' (time/hour) rather than translating away to 'right moment' so that Thai readers can track the recurring Johannine motif."
+        }
+      ],
+      "notes": "FIRST OCCURRENCE OF JOHANNINE 'HOUR' MOTIF. ἡ ὥρα = the appointed time of Christ's glorification (passion-resurrection-ascension) — recurs at 7:30, 8:20, 12:23, 12:27, 13:1, 17:1. Even at this early stage Jesus is consciously aligning his actions with his Father's timetable, not with family-pressure or social-crisis-pressure. WOMAN: γύναι is not pejorative in Greek but IS distancing for a son addressing his mother. Per uW: 'if it is impolite for a son to call his mother woman in your language, you can use another word that is polite, or leave it out.' Thai 'หญิงเอ๋ย' preserves the distancing while remaining respectful. The distancing prepares for Mary's instruction to the servants in v.5: she now defers to Jesus' authority, no longer giving him directives. RHETORICAL QUESTION: 'Τί ἐμοὶ καὶ σοί' is a Hebraicism (LXX Judg 11:12 etc.) — not a literal question but an idiomatic disengagement-formula."
+    }
+  },
+  {
+    "reference": "John 2:5",
+    "chapter": 2,
+    "verse": 5,
+    "greek": "λέγει ἡ μήτηρ αὐτοῦ τοῖς διακόνοις·Ὅ τι ἂν λέγῃ ὑμῖν ποιήσατε.",
+    "bsb_english": "His mother said to the servants, “Do whatever He tells you.”",
+    "translation": {
+      "thai": "มารดาของพระองค์กล่าวกับพวกคนรับใช้ว่า «ท่านสั่งพวกท่านอย่างไร ก็จงทำอย่างนั้น»",
+      "thai_literal": "มารดาของพระองค์กล่าวกับพวกคนรับใช้ว่า «สิ่งใดก็ตามที่ท่านบอกท่านทั้งหลาย จงกระทำเถิด»",
+      "thai_summary": "ถึงแม้ว่าพระเยซูจะทรงตอบมารดาของพระองค์ในข้อ 4 ด้วยถ้อยคำเชิงปฏิเสธ มารดาก็ยังคงไว้วางใจ — นางสั่งพวกคนรับใช้ให้ทำตามที่พระองค์บอก ไม่ใช่บอกพระองค์ว่าควรทำอะไร นางได้ถ่ายโอนการตัดสินใจให้กับพระเยซูแล้ว เป็นแบบอย่างของความเชื่อที่แท้จริง — ฟังและทำตามคำของพระองค์",
+      "key_decisions": [
+        {
+          "greek": "διακόνοις",
+          "thai": "พวกคนรับใช้",
+          "rationale": "διάκονος (here, dative plural) = servant/attendant at the wedding feast. NOT yet the technical Christian-office sense ('deacon') that emerges in Acts 6 / Phil 1:1 / 1 Tim 3. Thai 'คนรับใช้' is the natural lay rendering for hired/household help; พวก (plural marker) for clarity."
+        },
+        {
+          "greek": "Ὅ τι ἂν λέγῃ ὑμῖν ποιήσατε",
+          "thai": "ท่านสั่งพวกท่านอย่างไร ก็จงทำอย่างนั้น",
+          "rationale": "Indefinite relative clause (ὅ τι ἂν + subjunctive) = 'whatever he might say.' Thai 'อย่างไร ก็ ... อย่างนั้น' preserves the indefinite-relative force naturally. ποιήσατε = aorist imperative 2pl; Thai 'จงทำ' is the imperative form. Mary's reference to Jesus uses 'ท่าน' (respectful third-person) — capturing her recognition of his authority while not breaking out of motherly relationship. The pattern matches THSV traditional rendering."
+        },
+        {
+          "greek": "λέγει ἡ μήτηρ αὐτοῦ",
+          "thai": "มารดาของพระองค์กล่าวกับ",
+          "rationale": "Per uW figs-pastforfuture: historic present marks development. Mary now addresses servants (peers/below in social rank); Thai uses neutral 'กล่าว' (rather than ทูล as in v.3 where she addressed Jesus). The register-shift is significant — Mary's verbal posture changes between speaking to Jesus and speaking to servants."
+        }
+      ],
+      "notes": "MARY'S TRUST DESPITE THE APPARENT REBUFF. After v.4's distancing-response, Mary does not retract her implicit-request; instead she defers entirely to Jesus, instructing the servants to do whatever he tells them. This reverses the usual mother-son authority-direction: Mary is now positioned as a model-disciple who hears-and-obeys rather than commands. She does not know what Jesus will do, but trusts that he will act. PARALLEL to wider biblical pattern: 'whatever the Lord says, do' (Exod 19:8 'all that the LORD has spoken we will do'; Deut 26:16; Josh 1:7). Mary may consciously echo this covenantal-response language. REGISTER-SHIFT: Mary uses ทูล (humble) for Jesus in v.3, but กล่าว (peer) for servants here; her referent for Jesus shifts to ท่าน (respectful third-person) — capturing the evolving recognition of Jesus' authority."
+    }
+  },
+  {
+    "reference": "John 2:6",
+    "chapter": 2,
+    "verse": 6,
+    "greek": "ἦσαν δὲ ἐκεῖ λίθιναι ὑδρίαι ἓξ κατὰ τὸν καθαρισμὸν τῶν Ἰουδαίων κείμεναι,χωροῦσαι ἀνὰ μετρητὰς δύο ἢ τρεῖς.",
+    "bsb_english": "Now six stone water jars had been set there for the Jewish rites of purification. Each could hold from twenty to thirty gallons.",
+    "translation": {
+      "thai": "ที่นั่นมีโอ่งหินอยู่หกใบ ตั้งไว้สำหรับการชำระตามธรรมเนียมของชาวยิว ใบหนึ่งบรรจุน้ำได้ประมาณสองหรือสามเมเตรเตส (ราว 80 ถึง 120 ลิตร)",
+      "thai_literal": "และที่นั่นมีโอ่งหินอยู่หกใบ ตั้งวางอยู่ตามการชำระของพวกยิว แต่ละใบบรรจุน้ำได้ประมาณสองหรือสามเมเตรเตส",
+      "thai_summary": "โอ่งหิน (ตรงข้ามกับโอ่งดินเผา) ถูกใช้เพราะตามกฎรับบีเชื่อว่าหินไม่อาจกลายเป็นมลทินตามพิธีกรรม การชำระของชาวยิวรวมถึงการล้างมือก่อนรับประทานอาหาร และการล้างเครื่องครัวระหว่างมื้ออาหารตามพระบัญญัติฝ่ายพิธีกรรม การที่พระเยซูทรงเปลี่ยนน้ำชำระเป็นเหล้าองุ่นเป็นภาพที่ทรงพลัง — พระองค์ทรงเปลี่ยนระบบเก่าของการชำระภายนอกเป็นความบริบูรณ์แห่งพระคุณใหม่ในพระองค์เอง",
+      "key_decisions": [
+        {
+          "greek": "λίθιναι ὑδρίαι ἓξ",
+          "thai": "โอ่งหินอยู่หกใบ",
+          "rationale": "λίθινος = made of stone (adjective from λίθος). Stone vessels were used by Jews because rabbinic halakhah held that stone (unlike pottery) could not contract ritual impurity (m.Kelim 10:1). Thai 'โอ่งหิน' (stone water-jar) preserves the material distinction. ὑδρία = water-jar (large vessel); 'โอ่ง' is the Thai for the household stoneware/clay water-storage vessel — culturally familiar."
+        },
+        {
+          "greek": "κατὰ τὸν καθαρισμὸν τῶν Ἰουδαίων",
+          "thai": "สำหรับการชำระตามธรรมเนียมของชาวยิว",
+          "rationale": "καθαρισμός = ritual purification/cleansing (cf. Lev 14:32 LXX, Mark 1:44, Lk 5:14). κατὰ + accusative = 'according to / for the purpose of.' Thai 'การชำระ' captures the ritual-purification sense without false-friend overlap with Christian sanctification (sometimes 'การชำระให้บริสุทธิ์'). 'ตามธรรมเนียม' (according to the custom) makes the purpose-clause natural in Thai. NEW KEY-TERM LOCK: καθαρισμός (ritual purification) → การชำระ in this context."
+        },
+        {
+          "greek": "χωροῦσαι ἀνὰ μετρητὰς δύο ἢ τρεῖς",
+          "thai": "ใบหนึ่งบรรจุน้ำได้ประมาณสองหรือสามเมเตรเตส (ราว 80 ถึง 120 ลิตร)",
+          "rationale": "χωρέω = hold/contain (capacity). ἀνά + accusative numeric = distributive ('apiece/each'). μετρητής (HAPAX in NT) = a Greek liquid measure ≈ 39-40 liters; per uW translate-bvolume: '~40 liters per metretes.' We TRANSLITERATE 'เมเตรเตส' (preserving the ancient unit for scholarly accuracy) AND give the modern equivalent in parentheses (per uW recommendation: 'express the amount using the ancient measurement and explain the equivalent in modern measurements'). This serves both reader-comprehension and historical-fidelity. 80-120L per jar × 6 jars = 480-720 liters of water (later wine) — emphasizing the abundance of the sign."
+        }
+      ],
+      "notes": "HAPAX: μετρητής (NT-only-occurrence here) — Greek liquid-volume unit ≈ 39-40L. We preserve the unit name with a modern-equivalent gloss in parentheses. STONE JARS: theologically loaded — λίθινος (stone) was used by Jews because rabbinic halakhah held stone vessels could not contract ritual impurity (m.Kelim 10:1). Six jars × 80-120L = 480-720L total — extravagant abundance for the wedding's already-passed peak. JEWISH PURIFICATION RITES: hand-washing before meals (cf. Mark 7:3-4) and vessel-washing between courses; broad ritual context for ceremonial-purity laws (Lev 11-15). SYMBOLISM: turning the water-of-purification into wine of the new covenant — the OT sacramental system being filled with christological content. This is a deliberate Johannine theological signal (cf. 4:21-24 'true worship in spirit and truth'). The number 6 (one short of 7-perfection) may symbolize OT-incomplete-purification awaiting fulfillment in Christ. KEY-TERM LOCK: καθαρισμός (ritual purification) → การชำระ (ตามธรรมเนียม)."
+    }
+  },
+  {
+    "reference": "John 2:7",
+    "chapter": 2,
+    "verse": 7,
+    "greek": "λέγει αὐτοῖς ὁ Ἰησοῦς·Γεμίσατε τὰς ὑδρίας ὕδατος·καὶ ἐγέμισαν αὐτὰς ἕως ἄνω.",
+    "bsb_english": "Jesus told the servants, “Fill the jars with water.” So they filled them to the brim.",
+    "translation": {
+      "thai": "พระเยซูตรัสกับพวกเขาว่า «จงเติมน้ำให้เต็มโอ่งเหล่านี้» พวกเขาก็เติมน้ำจนเต็มถึงปากโอ่ง",
+      "thai_literal": "พระเยซูตรัสกับพวกเขาว่า «จงเติมโอ่งทั้งหลายให้เต็มด้วยน้ำ» และพวกเขาก็เติมจนถึงข้างบน",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "αὐτοῖς",
+          "thai": "พวกเขา",
+          "rationale": "Per uW writing-pronouns: 'them' refers to the servants (διάκονοι) of v.5. Thai context-resolution preserves 'พวกเขา' since the antecedent is unambiguous in flow."
+        },
+        {
+          "greek": "Γεμίσατε ... ὕδατος",
+          "thai": "จงเติมน้ำให้เต็ม",
+          "rationale": "γεμίζω = fill up. Aorist imperative 2pl. Thai 'จงเติม ... ให้เต็ม' captures the imperative 'fill-up-completely.' Thai naturally phrases 'fill X with Y' as 'เติม Y ให้ X เต็ม' — the order differs from English/Greek but is idiomatic Thai."
+        },
+        {
+          "greek": "ἕως ἄνω",
+          "thai": "จนเต็มถึงปากโอ่ง",
+          "rationale": "Per uW: 'the brim is the top edge of the water pot.' Thai 'ปากโอ่ง' (mouth-of-jar = brim) is the standard Thai for the top-edge of a water-jar — culturally precise. The 'completely-filled' detail emphasizes the totality of the miracle: nothing was left for additives or dilution. Independent literary witness."
+        }
+      ],
+      "notes": "FIRST WORD OF JESUS to the servants — calm, terse, with no fanfare or formula. The contrast with later miracle-narratives in synoptic tradition (no incantation, no public demonstration) prepares for the Johannine theme of σημεῖον as quiet-disclosure-of-glory rather than public-spectacle. FILLING TO THE BRIM (ἕως ἄνω): emphasizes fullness — leaves no room for dilution or additive — establishes the integrity of the miracle (servants and head-waiter both vouch for the source-water). Some commentators read symbolic over-abundance: the 'old wine' of OT religion is utterly displaced and replaced by Christ's new wine, with no admixture."
+    }
+  },
+  {
+    "reference": "John 2:8",
+    "chapter": 2,
+    "verse": 8,
+    "greek": "καὶ λέγει αὐτοῖς·Ἀντλήσατε νῦν καὶ φέρετε τῷ ἀρχιτρικλίνῳ·οἱ δὲ ἤνεγκαν.",
+    "bsb_english": "“Now draw some out,” He said, “and take it to the master of the banquet.” They did so,",
+    "translation": {
+      "thai": "พระองค์ตรัสกับพวกเขาว่า «บัดนี้จงตักออกมาและนำไปให้แก่ผู้ดูแลงานเลี้ยง» พวกเขาก็นำไปให้",
+      "thai_literal": "และพระองค์ตรัสกับพวกเขาว่า «จงตักบัดนี้และนำไปแก่หัวหน้างานเลี้ยง» พวกเขาก็ได้นำไปแล้ว",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "Ἀντλήσατε",
+          "thai": "จงตักออกมา",
+          "rationale": "ἀντλέω = draw (water, from a well or jar) — used at Jn 4:7, 4:15 of Samaritan-woman drawing from Jacob's well. Aorist imperative 2pl. Thai 'จงตัก' (draw-water with a ladle/dipper) is the standard Thai action-verb for scooping water from a stored vessel."
+        },
+        {
+          "greek": "ἀρχιτρικλίνῳ",
+          "thai": "ผู้ดูแลงานเลี้ยง",
+          "rationale": "ἀρχιτρίκλινος (lit. 'chief of the three-couch dining-room' = head waiter / master of ceremonies / chief steward at a feast) — first attestation in Greek literature here (Heliodorus 7.27 etc. later). Per uW: 'the person in charge of the servants who served the food and drink at meals and feasts.' Thai 'ผู้ดูแลงานเลี้ยง' (the-person-supervising-the-feast) preserves the supervisory role without committing to a Western-monocultural equivalent. NEW KEY-TERM LOCK for Johannine corpus: ἀρχιτρίκλινος → ผู้ดูแลงานเลี้ยง (also vv.9 [twice]). We deliberately do NOT use 'เจ้าภาพ' (host) — that role belongs to the bridegroom (cf. v.9b)."
+        },
+        {
+          "greek": "ἤνεγκαν",
+          "thai": "นำไปให้",
+          "rationale": "ἤνεγκαν = aorist of φέρω (carry, bring). Thai 'นำไปให้' (took-to-give) preserves the action and recipient direction. Per uW writing-pronouns: 'they' = the servants; preserved in Thai context."
+        }
+      ],
+      "notes": "JESUS' SECOND COMMAND. The instruction is itself an act of faith — the servants would have to draw and serve water, trusting that something has changed. The miracle happens between filling and pouring — narratively withheld from explicit description. JOHANNINE STYLE: 'no waving-of-hands, no formula, no spectacle.' The wedding-master's role is to verify quality without knowing the source — establishing the miracle's veracity through impartial-witness. KEY-TERM LOCK: ἀρχιτρίκλινος → ผู้ดูแลงานเลี้ยง."
+    }
+  },
+  {
+    "reference": "John 2:9",
+    "chapter": 2,
+    "verse": 9,
+    "greek": "ὡς δὲ ἐγεύσατο ὁ ἀρχιτρίκλινος τὸ ὕδωρ οἶνον γεγενημένον,καὶ οὐκ ᾔδει πόθεν ἐστίν,οἱ δὲ διάκονοι ᾔδεισαν οἱ ἠντληκότες τὸ ὕδωρ,φωνεῖ τὸν νυμφίον ὁ ἀρχιτρίκλινος",
+    "bsb_english": "and the master of the banquet tasted the water that had been turned into wine. He did not know where it was from, but the servants who had drawn the water knew. Then he called the bridegroom aside",
+    "translation": {
+      "thai": "เมื่อผู้ดูแลงานเลี้ยงได้ชิมน้ำที่กลายเป็นเหล้าองุ่นแล้ว และเขาไม่ทราบว่ามาจากไหน แต่พวกคนรับใช้ที่ตักน้ำนั้นทราบ ผู้ดูแลงานเลี้ยงจึงเรียกเจ้าบ่าวมา",
+      "thai_literal": "และเมื่อผู้ดูแลงานเลี้ยงได้ชิมน้ำซึ่งได้กลายเป็นเหล้าองุ่นแล้ว และไม่รู้ว่ามาจากที่ใด แต่พวกคนรับใช้ผู้ที่ตักน้ำนั้นรู้อยู่ ผู้ดูแลงานเลี้ยงเรียกเจ้าบ่าว",
+      "thai_summary": "ยอห์นใส่รายละเอียดที่ลึกซึ้ง — ผู้ดูแลงานเลี้ยงไม่ทราบที่มาของเหล้าองุ่น แต่พวกคนรับใช้ที่ตักน้ำนั้นทราบ ผู้พิสูจน์คุณภาพของเหล้าองุ่น (ผู้ดูแลที่ไม่ลำเอียง) แยกออกจากผู้รู้ที่มา (พวกคนรับใช้ที่เห็นการอัศจรรย์) — สร้างหลักฐานยืนยันความจริงของหมายสำคัญนี้ผ่านพยานหลายฝ่าย",
+      "key_decisions": [
+        {
+          "greek": "τὸ ὕδωρ οἶνον γεγενημένον",
+          "thai": "น้ำที่กลายเป็นเหล้าองุ่นแล้ว",
+          "rationale": "γεγενημένον = perfect passive participle of γίνομαι ('having become/been-made'). Thai 'ที่กลายเป็น ... แล้ว' captures the perfect-aspect: the transformation is complete and the result endures. The author's narrative reveal — this is the moment we as readers are told that the water has become wine."
+        },
+        {
+          "greek": "οὐκ ᾔδει ... οἱ δὲ διάκονοι ᾔδεισαν",
+          "thai": "เขาไม่ทราบ ... แต่พวกคนรับใช้ ... ทราบ",
+          "rationale": "ᾔδει / ᾔδεισαν = pluperfects of οἶδα ('knew' — pluperfect of οἶδα has imperfect/simple-past force). Per uW writing-background: this provides background information establishing the miracle's veracity. Two-witness contrast (the master not knowing, the servants knowing) authenticates the source."
+        },
+        {
+          "greek": "φωνεῖ",
+          "thai": "เรียก ... มา",
+          "rationale": "φωνέω = call out / summon. Per uW figs-pastforfuture: historic present marks development in narrative. The master calls the bridegroom aside (privately), preparing for the public-but-puzzled remark of v.10."
+        },
+        {
+          "greek": "τὸν νυμφίον",
+          "thai": "เจ้าบ่าว",
+          "rationale": "νυμφίος = bridegroom. Thai 'เจ้าบ่าว' is the standard Thai-Christian rendering for biblical bridegroom. Note: at this wedding the bridegroom is the host responsible for the banquet's wine-supply, hence the master's complaint to him. NEW KEY-TERM LOCK for Johannine corpus: νυμφίος → เจ้าบ่าว (recurs in 3:29 thrice, where John the Baptist applies the bridegroom-image to Jesus; the lock-rendering ensures the resonance is preserved)."
+        }
+      ],
+      "notes": "AUTHENTICATION OF THE MIRACLE through asymmetric-knowledge: the master tasted the wine without knowing the source, while the servants knew the source without (yet) knowing the master's reaction. This split-knowledge structure, per uW writing-background, emphasizes the miracle's veracity by routing the verification through an impartial professional. NARRATOR'S ASIDE: the parenthetical 'but the servants who drew the water knew' is a deliberate authorial intervention to forestall any reader-suspicion of trickery. KEY-TERM LOCK: νυμφίος → เจ้าบ่าว (Johannine corpus, including 3:29's bridegroom-Christology)."
+    }
+  },
+  {
+    "reference": "John 2:10",
+    "chapter": 2,
+    "verse": 10,
+    "greek": "καὶ λέγει αὐτῷ·Πᾶς ἄνθρωπος πρῶτον τὸν καλὸν οἶνον τίθησιν,καὶ ὅταν μεθυσθῶσιν τὸν ἐλάσσω·σὺ τετήρηκας τὸν καλὸν οἶνον ἕως ἄρτι.",
+    "bsb_english": "and said, “Everyone serves the fine wine first, and then the cheap wine after the guests are drunk. But you have saved the fine wine until now!”",
+    "translation": {
+      "thai": "และกล่าวกับเขาว่า «ทุกคนนำเหล้าองุ่นชั้นดีออกมาก่อน และเมื่อแขกเมาแล้ว จึงนำเหล้าองุ่นที่ด้อยกว่าออกมา แต่ท่านได้เก็บเหล้าองุ่นชั้นดีไว้จนถึงบัดนี้»",
+      "thai_literal": "และกล่าวกับเขาว่า «ทุกคนวางเหล้าองุ่นที่ดีก่อน และเมื่อพวกเขาเมาแล้วจึงวางเหล้าองุ่นที่ด้อยกว่า แต่ท่านได้เก็บรักษาเหล้าองุ่นที่ดีไว้จนถึงเดี๋ยวนี้»",
+      "thai_summary": "คำพูดของผู้ดูแลงานเลี้ยงเป็นคำชมเชยที่ไม่รู้ตัวต่อพระเยซู โดยปกติแล้วเจ้าภาพจะใช้เหล้าองุ่นชั้นดีก่อนตอนที่แขกยังตื่นรู้ แล้วใช้เหล้าที่ด้อยกว่าหลังจากแขกเมาแล้ว แต่พระเยซูทรงทำตรงกันข้าม — ทรงเก็บสิ่งที่ดีที่สุดไว้ทีหลัง เป็นภาพของยุคพระเมสสิยาห์ที่จะมาถึง — สิ่งที่ดีที่สุดของพระเจ้าได้ถูกเก็บไว้สำหรับเวลานี้",
+      "key_decisions": [
+        {
+          "greek": "Πᾶς ἄνθρωπος",
+          "thai": "ทุกคน",
+          "rationale": "Per uW figs-hyperbole + figs-gendernotations: 'every man' is hyperbolic-generic for 'everyone customarily.' Thai 'ทุกคน' is gender-neutral and registers the generalization without need for further softening — Thai readers recognize the customary-practice register."
+        },
+        {
+          "greek": "τὸν καλὸν οἶνον",
+          "thai": "เหล้าองุ่นชั้นดี",
+          "rationale": "καλός = good (in quality), excellent. Thai 'เหล้าองุ่นชั้นดี' (lit. 'class-good wine') uses the natural Thai grading-marker 'ชั้นดี' for quality-tier. Reads idiomatically as 'fine/quality wine.'"
+        },
+        {
+          "greek": "ὅταν μεθυσθῶσιν",
+          "thai": "เมื่อแขกเมาแล้ว",
+          "rationale": "Per uW figs-explicit: the implicit reasoning is that drunken guests cannot taste wine quality. We preserve the explicit 'when they have become drunk' rather than soften ('after they've drunk much'); Thai 'เมาแล้ว' (already-drunk) carries the perfect-aspect of the aorist subjunctive. We supply 'แขก' (guests) as a contextually-resolved subject (Greek's 3pl is people-in-general)."
+        },
+        {
+          "greek": "τὸν ἐλάσσω",
+          "thai": "เหล้าองุ่นที่ด้อยกว่า",
+          "rationale": "ἐλάσσων (comparative of μικρός) = lesser/inferior — substantivized neuter accusative '[wine] that is inferior.' Thai 'ที่ด้อยกว่า' (which is inferior-than) is the natural comparative-adjective phrase."
+        },
+        {
+          "greek": "τετήρηκας",
+          "thai": "ท่านได้เก็บ ... ไว้",
+          "rationale": "Perfect indicative of τηρέω = 'have kept/saved' — perfective with continuing-result. Thai 'ได้ ... ไว้' captures the perfect-aspect (have-kept-and-the-state-continues). 'ท่าน' (you, respectful) — the master addresses the bridegroom, who outranks him as the host."
+        }
+      ],
+      "notes": "THE WEDDING-MASTER'S UNWITTING CHRISTOLOGICAL TESTIMONY. Standard custom (per uW figs-explicit): the host pours fine wine first when palates are sharp, then cheaper wine after drunkenness has dulled discrimination. Jesus inverts this — the best wine comes LAST, after guests can no longer distinguish. SYMBOLISM: messianic/eschatological 'best wine kept for the end' — the new covenant superseding the old; the kingdom-feast surpassing the preliminary celebrations. Cf. Isa 25:6-9 (eschatological-banquet imagery, 'on this mountain the LORD of hosts will make for all peoples a feast of rich food, a feast of well-aged wines'); Mark 2:22 (new wine in new wineskins). The bridegroom receives the credit; only the servants and Mary (and the disciples, v.11) know the truth."
+    }
+  },
+  {
+    "reference": "John 2:11",
+    "chapter": 2,
+    "verse": 11,
+    "greek": "ταύτην ἐποίησεν ἀρχὴν τῶν σημείων ὁ Ἰησοῦς ἐν Κανὰ τῆς Γαλιλαίας καὶ ἐφανέρωσεν τὴν δόξαν αὐτοῦ,καὶ ἐπίστευσαν εἰς αὐτὸν οἱ μαθηταὶ αὐτοῦ.",
+    "bsb_english": "Jesus performed this, the first of His signs, at Cana in Galilee. He thus revealed His glory, and His disciples believed in Him.",
+    "translation": {
+      "thai": "พระเยซูทรงกระทำหมายสำคัญนี้เป็นการเริ่มต้นแห่งหมายสำคัญทั้งหลายที่เมืองคานาในแคว้นกาลิลี และทรงสำแดงพระสิริของพระองค์ และพวกสาวกของพระองค์ก็เชื่อในพระองค์",
+      "thai_literal": "พระเยซูได้ทรงกระทำสิ่งนี้เป็นการเริ่มต้นแห่งหมายสำคัญทั้งหลายในเมืองคานาแห่งกาลิลี และทรงสำแดงพระสิริของพระองค์ และพวกสาวกของพระองค์เชื่อในพระองค์",
+      "thai_summary": "ยอห์นบันทึกหมายสำคัญเจ็ดประการตลอดทั้งพระกิตติคุณของท่าน (2:1-11; 4:46-54; 5:1-15; 6:1-15; 6:16-21; 9:1-7; 11:1-44) ทุกประการชี้ไปที่ตัวพระเยซูเอง — พระองค์เป็นใคร และพระองค์มาทำอะไร พระสิริที่สำแดงในงานวิวาห์ที่คานาคือพระสิริที่บรรดาสาวกได้เห็นแต่เริ่มแรก (1:14) และจะค่อยๆ เปิดเผยอย่างเต็มที่จนถึงไม้กางเขนและการคืนพระชนม์ ความเชื่อของพวกสาวกเริ่มต้นที่นี่และเติบโตขึ้นตลอดทั้งพระกิตติคุณ",
+      "key_decisions": [
+        {
+          "greek": "ἀρχὴν τῶν σημείων",
+          "thai": "การเริ่มต้นแห่งหมายสำคัญทั้งหลาย",
+          "rationale": "Per uW figs-explicit: the first of John's seven signs. ἀρχή = beginning (cf. 1:1 ἐν ἀρχῇ — same noun, deliberate echo). Thai 'การเริ่มต้น' captures the inauguration sense; 'แห่งหมายสำคัญทั้งหลาย' (of-all-the-signs) makes the partitive-genitive natural. KEY-TERM LOCK (already established in synoptic translations): σημεῖον → หมายสำคัญ — preserved here in its Johannine signature use. The deliberate ἀρχή echo of 1:1 is theologically significant: as the Word was 'in the beginning' of creation, so this is the 'beginning' of the new-creation signs."
+        },
+        {
+          "greek": "ἐφανέρωσεν τὴν δόξαν αὐτοῦ",
+          "thai": "ทรงสำแดงพระสิริของพระองค์",
+          "rationale": "φανερόω = make manifest, reveal. δόξα = glory (cf. 1:14 'we have seen his glory' — same noun, inclusio with the Prologue). Per uW figs-abstractnouns: 'glory' refers to Jesus' mighty divine power-and-presence; we keep the abstract noun 'พระสิริ' since it preserves the Johannine theological term. KEY-TERM LOCK established at 1:14: δόξα → พระสิริ. ทรง- (royal honorific verb-prefix, RULES §3) on both verbs since Jesus is the divine subject. ทรงสำแดง = revealed/manifested (royal); ของพระองค์ = his (royal)."
+        },
+        {
+          "greek": "ἐπίστευσαν εἰς αὐτὸν",
+          "thai": "เชื่อในพระองค์",
+          "rationale": "πιστεύω εἰς (with εἰς + accusative) = 'believe into him' — Johannine signature construction (over 30x in John) for personal faith-trust-commitment, distinct from πιστεύω + dative ('believe a statement') or accusative ('believe a fact'). Thai 'เชื่อในพระองค์' (believe-in-him) preserves the relational-trust force naturally; matches Acts 16:31 precedent. NEW KEY-TERM LOCK for Johannine corpus: πιστεύω εἰς (αὐτόν / τὸ ὄνομα αὐτοῦ etc.) → เชื่อใน + (พระองค์ / พระนามพระองค์)."
+        }
+      ],
+      "notes": "PROGRAMMATIC SUMMARY OF JOHANNINE SIGN-THEOLOGY. Three claims in one verse: (1) this is the FIRST of Jesus' signs (ἀρχήν τῶν σημείων) — implying a series; John will give us six more (4:46-54 nobleman's son; 5:1-15 lame man; 6:1-15 feeding 5000; 6:16-21 walking on water; 9:1-7 blind man; 11:1-44 Lazarus). The total of seven is structurally significant (perfection/completion). (2) MANIFESTATION OF GLORY: ἐφανέρωσεν τὴν δόξαν AUTOῦ — inclusio with 1:14 'we have seen his glory.' Glory previously veiled is now disclosed in the act of sign. (3) FAITH-RESPONSE: 'his disciples believed in him' — the Johannine πιστεύω εἰς ('believe into') signature construction for relational-trust. The disciples already followed (1:35-51) but their believing-faith deepens here, prefiguring 20:30-31 ('these are written that you may believe'). KEY-TERM LOCK: σημεῖον → หมายสำคัญ; δόξα → พระสิริ; πιστεύω εἰς → เชื่อใน. ECHOING ARCHĒ: the noun ἀρχή ties this verse back to 1:1 (ἐν ἀρχῇ ἦν ὁ λόγος) and forward to John's larger new-creation theology."
+    }
+  },
+  {
+    "reference": "John 2:12",
+    "chapter": 2,
+    "verse": 12,
+    "greek": "Μετὰ τοῦτο κατέβη εἰς Καφαρναοὺμ αὐτὸς καὶ ἡ μήτηρ αὐτοῦ καὶ οἱ ἀδελφοὶ καὶ οἱ μαθηταὶ αὐτοῦ,καὶ ἐκεῖ ἔμειναν οὐ πολλὰς ἡμέρας.",
+    "bsb_english": "After this, He went down to Capernaum with His mother and brothers and His disciples, and they stayed there a few days.",
+    "translation": {
+      "thai": "ภายหลังเหตุการณ์นี้ พระองค์เสด็จลงไปยังเมืองคาเปอรนาอุม พร้อมด้วยมารดา พวกน้องชาย และพวกสาวกของพระองค์ และพักอยู่ที่นั่นไม่กี่วัน",
+      "thai_literal": "หลังจากนี้พระองค์ได้เสด็จลงไปยังคาเปอรนาอุม ทั้งพระองค์เองและมารดาของพระองค์และพวกพี่น้องและพวกสาวกของพระองค์ และพวกเขาพักอยู่ที่นั่นไม่หลายวัน",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "Μετὰ τοῦτο",
+          "thai": "ภายหลังเหตุการณ์นี้",
+          "rationale": "Per uW writing-newevent + figs-explicit: 'After this' refers back to the Cana sign (vv.1-11). Thai 'ภายหลังเหตุการณ์นี้' (after-this-event) is the standard Johannine narrative-bridge formula in our corpus."
+        },
+        {
+          "greek": "κατέβη",
+          "thai": "เสด็จลงไป",
+          "rationale": "Per uW: 'they went from a higher place to a lower place. Capernaum is at a lower elevation than Cana.' Thai 'เสด็จลงไป' (royal-honorific เสด็จ + ลง 'down' + ไป 'go') preserves the literal-and-geographical descent. The royal honorific เสด็จ applies to Jesus (RULES §3); the verb extends naturally to the company traveling with him. Note the contrast with v.13's ἀνέβη (went up to Jerusalem)."
+        },
+        {
+          "greek": "Καφαρναοὺμ",
+          "thai": "เมืองคาเปอรนาอุม",
+          "rationale": "Proper-noun lock: Καφαρναούμ → คาเปอรนาอุม (standard Thai Christian transliteration, matching THSV1971 and the broader Thai NT tradition). First occurrence in our corpus — establishes the rendering. 'เมือง' (town) supplies the natural geographical-classifier."
+        },
+        {
+          "greek": "οἱ ἀδελφοὶ",
+          "thai": "พวกน้องชาย",
+          "rationale": "ἀδελφός = brother. The identity of Jesus' 'brothers' is theologically contested — Helvidian view (younger sons of Mary and Joseph), Epiphanian view (older sons of Joseph from a previous marriage), Hieronymian view (cousins). The Greek term itself is unspecific. Thai 'พวกน้องชาย' (younger-brothers, plural) matches the natural reading of the Greek without resolving the doctrinal-historical question — though it leans Helvidian by suggesting younger; broader 'พี่น้อง' would be more neutral. Acts 1:14 corpus precedent uses 'น้องชาย' (younger brothers); we maintain consistency. The four brothers are named at Mark 6:3 / Matt 13:55 (James, Joses/Joseph, Simon, Judas)."
+        },
+        {
+          "greek": "ἔμειναν",
+          "thai": "พักอยู่",
+          "rationale": "μένω = remain, stay, abide — Johannine signature term (40+ occurrences, theological richness in 6:56, 15:4-7 etc.). Here in literal-narrative sense ('stayed/lodged'). Thai 'พักอยู่' (stayed-temporarily) fits the qualifier 'οὐ πολλὰς ἡμέρας' (not many days)."
+        }
+      ],
+      "notes": "GEOGRAPHICAL TRANSITION from Cana to Capernaum (lower elevation, on the Sea of Galilee). Capernaum will become Jesus' Galilean ministry-headquarters in the synoptics (Matt 4:13 'leaving Nazareth he went and lived in Capernaum'). For John, this is a brief stop before going up to Jerusalem for Passover (v.13). The mention of Jesus' MOTHER, BROTHERS, AND DISCIPLES together suggests an extended-family-and-followers itinerary — a moving social-unit. Jesus' brothers at this stage are not yet believers (cf. 7:5 'not even his brothers believed in him'); their inclusion here is geographical/familial, not theological. After the resurrection they do believe (Acts 1:14, where Mary and the brothers are with the apostles in Jerusalem)."
+    }
+  },
+  {
+    "reference": "John 2:13",
+    "chapter": 2,
+    "verse": 13,
+    "greek": "Καὶ ἐγγὺς ἦν τὸ πάσχα τῶν Ἰουδαίων,καὶ ἀνέβη εἰς Ἱεροσόλυμα ὁ Ἰησοῦς.",
+    "bsb_english": "When the Jewish Passover was near, Jesus went up to Jerusalem.",
+    "translation": {
+      "thai": "ขณะนั้นเทศกาลปัสกาของชาวยิวใกล้เข้ามา พระเยซูจึงเสด็จขึ้นไปยังกรุงเยรูซาเล็ม",
+      "thai_literal": "และเทศกาลปัสกาของพวกยิวใกล้เข้ามาแล้ว และพระเยซูได้เสด็จขึ้นไปยังกรุงเยรูซาเล็ม",
+      "thai_summary": "ปัสกาเป็นเทศกาลแห่งการรำลึกถึงการที่พระเจ้าทรงปลดปล่อยอิสราเอลออกจากการเป็นทาสในอียิปต์ (อพยพ 12) ผู้ชายชาวยิวทุกคนต้องเดินทางไปยังพระวิหารในกรุงเยรูซาเล็มเพื่อร่วมเทศกาล (อพยพ 23:14-17) ยอห์นบันทึกปัสกาสามครั้งในพันธกิจของพระเยซู (2:13; 6:4; 11:55) — ครั้งสุดท้ายเป็นปัสกาแห่งการสิ้นพระชนม์ของพระองค์ ที่ซึ่งพระองค์เองทรงเป็นลูกแกะปัสกาที่ถูกถวาย",
+      "key_decisions": [
+        {
+          "greek": "ἐγγὺς ἦν τὸ πάσχα",
+          "thai": "เทศกาลปัสกา ... ใกล้เข้ามา",
+          "rationale": "ἐγγύς = near (in time or space). Thai 'ใกล้เข้ามา' (close-coming-near) renders the temporal-proximity naturally. NEW KEY-TERM LOCK for Johannine corpus: πάσχα → ปัสกา (transliteration; standard Thai Christian). 'เทศกาลปัสกา' (festival of Passover) makes the festival-status explicit, matching uW best-practice. The genitive 'τῶν Ἰουδαίων' (of the Jews) → 'ของชาวยิว' — Johannine convention identifies the festival with the Jewish people."
+        },
+        {
+          "greek": "ἀνέβη εἰς Ἱεροσόλυμα",
+          "thai": "เสด็จขึ้นไปยังกรุงเยรูซาเล็ม",
+          "rationale": "Per uW: 'this indicates that Jesus went from a lower place to a higher place. Jerusalem is built on a hill.' Thai 'เสด็จขึ้นไป' (royal-honorific เสด็จ + ขึ้น 'up' + ไป 'go') preserves the literal-and-geographical ascent. Direct contrast with v.12's κατέβη (descended to Capernaum). Ἱεροσόλυμα = Hellenistic-Greek form of Jerusalem (vs. Hebraic Ἰερουσαλήμ); both forms appear in NT. Thai 'กรุงเยรูซาเล็ม' (city-of-Jerusalem) is the standard rendering; the underlying Greek-form distinction is not lexicalized in Thai."
+        }
+      ],
+      "notes": "JERUSALEM AT PASSOVER. πάσχα (transliteration of Hebrew פסח) — the Festival of Unleavened Bread (Lev 23:5-8) commemorating Israel's exodus deliverance (Exod 12). All adult Jewish males were required to make pilgrimage to Jerusalem (Exod 23:14-17, Deut 16:1-8). John records THREE Passovers in Jesus' ministry (2:13; 6:4; 11:55-12:1) — the basis for the traditional 3-year ministry chronology (vs. the synoptics' single Passover). 'GOING UP' (ἀνέβη): both literal (Jerusalem on Mount Zion, ~750m elevation) and idiomatic (the standard verb for pilgrimage to Jerusalem, used 16x in John; cf. ἀναβαίνω of Jewish festal-pilgrimage in 7:8, 7:10, 11:55, 12:20). KEY-TERM LOCK: πάσχα → ปัสกา."
+    }
+  },
+  {
+    "reference": "John 2:14",
+    "chapter": 2,
+    "verse": 14,
+    "greek": "καὶ εὗρεν ἐν τῷ ἱερῷ τοὺς πωλοῦντας βόας καὶ πρόβατα καὶ περιστερὰς καὶ τοὺς κερματιστὰς καθημένους,",
+    "bsb_english": "In the temple courts He found men selling cattle, sheep, and doves, and money changers seated at their tables.",
+    "translation": {
+      "thai": "ในบริเวณพระวิหารพระองค์ทรงพบคนขายวัว แกะ และนกพิราบ และคนรับแลกเงินนั่งอยู่",
+      "thai_literal": "และทรงพบในบริเวณพระวิหารพวกที่ขายวัวและแกะและนกพิราบและพวกคนรับแลกเงินนั่งอยู่",
+      "thai_summary": "บริเวณพระวิหารที่อ้างถึงนี้คือลานคนต่างชาติ (Court of the Gentiles) ที่อยู่นอกตัวพระสถานกลาง สัตว์เหล่านี้ถูกขายเพื่อเป็นเครื่องบูชาในพระวิหาร — วัวสำหรับเครื่องเผาบูชา แกะสำหรับเครื่องบูชาทั่วไป นกพิราบสำหรับคนยากจน (เลวีนิติ 12:8) ส่วนคนรับแลกเงินคือผู้ที่แลกเหรียญต่างชาติ (มีรูปจักรพรรดิ ถือเป็นการบูชารูปเคารพ) เป็นเหรียญเชเขลของพระวิหารเพื่อชำระภาษีพระวิหารประจำปี (อพยพ 30:13)",
+      "key_decisions": [
+        {
+          "greek": "ἐν τῷ ἱερῷ",
+          "thai": "ในบริเวณพระวิหาร",
+          "rationale": "ἱερόν = the whole temple complex (broader than ναός = sanctuary proper). Per uW figs-explicit: this refers to the temple courts intended for worship, not for commerce. The contrast with ναός in vv.19-21 is theologically significant (see those verses' notes). Thai 'บริเวณพระวิหาร' (temple-precincts/area) preserves the courtyard sense. NEW KEY-TERM LOCK for Johannine corpus: ἱερόν (whole-temple-complex) → บริเวณพระวิหาร; ναός (sanctuary-proper) → พระวิหาร (locked at v.19)."
+        },
+        {
+          "greek": "τοὺς πωλοῦντας βόας καὶ πρόβατα καὶ περιστερὰς",
+          "thai": "คนขายวัว แกะ และนกพิราบ",
+          "rationale": "βοῦς = ox/cattle; πρόβατον = sheep; περιστερά = dove. Per uW figs-explicit: these animals were used for temple sacrifices (Lev 1-7); doves were the offering of the poor (Lev 5:7, 12:8) — the very offering Mary brought at Jesus' presentation (Lk 2:24). Thai 'วัว/แกะ/นกพิราบ' are the standard Thai-Christian renderings; locked across the corpus for sacrificial-context terms."
+        },
+        {
+          "greek": "κερματιστὰς",
+          "thai": "คนรับแลกเงิน",
+          "rationale": "κερματιστής (HAPAX in NT; from κέρμα 'small change') = money-changer. Per uW figs-explicit: Jewish authorities required worshipers to pay the temple-tax (Exod 30:13; Mt 17:24-27) in 'sanctuary shekels' (Tyrian shekels by Jesus' time), not in foreign coins bearing pagan/imperial images (regarded as idolatrous). Money-changers exchanged foreign currency for the approved coinage. Thai 'คนรับแลกเงิน' (money-exchanging-person) is a transparent compound. Synonym κολλυβιστής appears at v.15 — same role, different lexeme; rendered identically."
+        }
+      ],
+      "notes": "HAPAX: κερματιστής (NT-only-occurrence). The temple economy: pilgrims arrived at Passover with foreign coinage and either no sacrificial-animal or one too lame/blemished to pass priestly inspection (Lev 22:17-25). Money-changers and animal-sellers met legitimate logistical needs — but the COMMERCE inside the temple-precinct (court of the Gentiles) was a corruption of the worship-space. Per uW, the 'temple courtyard ... was intended for worship and not for commerce.' This sets up the cleansing in vv.15-16. SYNOPTIC PARALLEL ISSUE: the Synoptics place a temple-cleansing in Passion Week (Mt 21:12-13; Mk 11:15-17; Lk 19:45-46). John places this one at the start of Jesus' ministry. Two views: (1) two distinct cleansings; (2) one cleansing, with John using thematic-not-chronological placement to inaugurate the ministry-as-temple-confrontation. We do not resolve here; preserve the Johannine narrative-position. KEY-TERM LOCK ἱερόν → บริเวณพระวิหาร; reserve พระวิหาร for ναός (v.19+)."
+    }
+  },
+  {
+    "reference": "John 2:15",
+    "chapter": 2,
+    "verse": 15,
+    "greek": "καὶ ποιήσας φραγέλλιον ἐκ σχοινίων πάντας ἐξέβαλεν ἐκ τοῦ ἱεροῦ τά τε πρόβατα καὶ τοὺς βόας,καὶ τῶν κολλυβιστῶν ἐξέχεεν τὰ κέρματα καὶ τὰς τραπέζας ἀνέστρεψεν,",
+    "bsb_english": "So He made a whip out of cords and drove all from the temple courts, both sheep and cattle. He poured out the coins of the money changers and overturned their tables.",
+    "translation": {
+      "thai": "พระองค์ทรงนำเชือกมาทำเป็นแส้ และทรงไล่ทุกคนออกไปจากบริเวณพระวิหาร ทั้งฝูงแกะและฝูงวัว ทรงเทเหรียญเงินของคนรับแลกเงินกระจาย และทรงคว่ำโต๊ะของพวกเขา",
+      "thai_literal": "และเมื่อทรงทำแส้จากเชือกแล้ว ทรงขับไล่ทั้งหมดออกจากบริเวณพระวิหาร ทั้งฝูงแกะและฝูงวัว และทรงเทเหรียญของพวกคนรับแลกเงินออก และคว่ำโต๊ะทั้งหลาย",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "φραγέλλιον ἐκ σχοινίων",
+          "thai": "เชือกมาทำเป็นแส้",
+          "rationale": "φραγέλλιον (HAPAX in NT, Latinism from flagellum) = whip. σχοινία = ropes/cords (probably the materials lying around used to lead and tie animals). Thai 'แส้' is the standard rendering for a herding/driving whip; 'เชือก' for cord/rope. The detail emphasizes Jesus' improvisation — he did not arrive with a weapon but fashioned one on the spot."
+        },
+        {
+          "greek": "πάντας ἐξέβαλεν",
+          "thai": "ทรงไล่ทุกคนออกไป",
+          "rationale": "ἐκβάλλω = drive out, expel. Per uW writing-pronouns: 'them all' refers to the people selling animals AND the money-changers (the people; the animals are added in apposition with τά τε ... καὶ ...). Some commentators argue πάντας is masculine and refers only to people (with animals appended); others read πάντας as inclusive ('drove all out, both animals and people'). Thai 'ทรงไล่ทุกคนออกไป' (drove all-people out) takes the people-focused reading; the animals are added by apposition 'ทั้งฝูงแกะและฝูงวัว.' The royal-honorific ทรง applies."
+        },
+        {
+          "greek": "κολλυβιστῶν",
+          "thai": "คนรับแลกเงิน",
+          "rationale": "κολλυβιστής = money-changer (synonym of κερματιστής v.14). Same Thai rendering ('คนรับแลกเงิน') for consistency — Greek varies the lexeme but the role is identical. Note: κερματιστής is NT-hapax; κολλυβιστής occurs at the synoptic temple-cleansings (Mt 21:12, Mk 11:15) — Greek-internal variation."
+        },
+        {
+          "greek": "τὰ κέρματα ... τὰς τραπέζας ἀνέστρεψεν",
+          "thai": "เหรียญเงิน ... ทรงคว่ำโต๊ะ",
+          "rationale": "κέρμα (HAPAX in NT) = small coin / change. τράπεζα = table (here, money-changing table). ἀναστρέφω = turn over, overturn. Thai 'เหรียญเงิน' (silver coins) for κέρμα; 'ทรงคว่ำ' (royal-honorific overturn) for ἀνέστρεψεν. Concrete vivid action verbs preserved."
+        }
+      ],
+      "notes": "TWO HAPAX LEGOMENA in this verse: φραγέλλιον (whip) and κέρμα (coin). Both are vivid concrete-action vocabulary, suggesting eyewitness reportage. The whip-from-cords detail is unique to John (the synoptic accounts mention only the overturning of tables, not the whip). PROPHETIC ACT: Jesus' actions echo OT prophetic sign-acts — Jeremiah breaking the potter's vessel (Jer 19), Ezekiel's symbolic siege (Ezek 4) — disruptive performances that enact rather than merely describe a coming judgment. The cleansing prefigures the eschatological-purification of God's house promised in Mal 3:1-4 ('the Lord whom you seek will suddenly come to his temple'); cf. Zech 14:21 'no trader in the house of the LORD of hosts.' Jesus is enacting Mal 3 in real time."
+    }
+  },
+  {
+    "reference": "John 2:16",
+    "chapter": 2,
+    "verse": 16,
+    "greek": "καὶ τοῖς τὰς περιστερὰς πωλοῦσιν εἶπεν·Ἄρατε ταῦτα ἐντεῦθεν,μὴ ποιεῖτε τὸν οἶκον τοῦ πατρός μου οἶκον ἐμπορίου.",
+    "bsb_english": "To those selling doves He said, “Get these out of here! How dare you turn My Father’s house into a marketplace!”",
+    "translation": {
+      "thai": "พระองค์ตรัสกับคนขายนกพิราบว่า «จงเอาสิ่งเหล่านี้ออกไปจากที่นี่ อย่าทำให้พระนิเวศของพระบิดาของเราเป็นที่ค้าขาย»",
+      "thai_literal": "และพระองค์ตรัสกับคนขายนกพิราบว่า «จงยกสิ่งเหล่านี้ออกไปจากที่นี่ อย่ากระทำพระนิเวศของพระบิดาของเราเป็นพระนิเวศแห่งการค้า»",
+      "thai_summary": "พระเยซูทรงเรียกพระวิหารว่า «พระนิเวศของพระบิดาของเรา» — เป็นการประกาศความสัมพันธ์อันใกล้ชิดเฉพาะระหว่างพระบุตรและพระบิดา ในขณะที่ชาวยิวจะเรียกว่า «บ้านของพระเจ้า» พระเยซูทรงยืนยันสิทธิ์ของพระองค์เองในการชำระล้างสถานที่นี้ — สถานที่นี้ไม่ใช่บ้านของชาวยิว แต่เป็นบ้านของพระบิดาของพระองค์",
+      "key_decisions": [
+        {
+          "greek": "τοῖς τὰς περιστερὰς πωλοῦσιν",
+          "thai": "คนขายนกพิราบ",
+          "rationale": "Substantivized participle phrase 'to-those selling-the doves.' Doves were the sacrifice of the poor (Lev 12:8, 5:7) — Jesus addresses these sellers separately, perhaps because doves require their cages be carried (you cannot drive caged-birds out with a whip). Thai 'คนขายนกพิราบ' is direct."
+        },
+        {
+          "greek": "Ἄρατε ταῦτα ἐντεῦθεν",
+          "thai": "จงเอาสิ่งเหล่านี้ออกไปจากที่นี่",
+          "rationale": "αἴρω = take away, lift, remove. Aorist imperative 2pl. Thai 'จงเอา ... ออกไปจากที่นี่' is the natural Thai imperative for removal-from-location."
+        },
+        {
+          "greek": "τὸν οἶκον τοῦ πατρός μου",
+          "thai": "พระนิเวศของพระบิดาของเรา",
+          "rationale": "οἶκος = house. Per uW guidelines-sonofgodprinciples: 'Father is an important title for God' — must be preserved as a divine title. Thai 'พระนิเวศ' (royal-residence/dwelling, Sanskritic) is the standard biblical-register Thai for God's house/temple — preferred over the literal 'บ้าน' for the elevated context. KEY-TERM LOCK: πατήρ (theological, of the Father in relation to the Son) → พระบิดา (already established corpus-wide); royal-honorific พระ-prefix essential. 'ของเรา' = 'my' (Jesus speaking). NEW KEY-TERM LOCK for Johannine corpus: οἶκος τοῦ πατρός / οἶκος τοῦ θεοῦ (theological 'house of God') → พระนิเวศของพระบิดา/ของพระเจ้า (recurs 14:2 'in my Father's house are many mansions')."
+        },
+        {
+          "greek": "οἶκον ἐμπορίου",
+          "thai": "ที่ค้าขาย",
+          "rationale": "ἐμπόριον (HAPAX in NT) = marketplace, place of commerce. Thai 'ที่ค้าขาย' (place-of-trading) is direct. We do NOT use 'พระนิเวศ' here — the contrast is between the holy 'พระนิเวศ' (God's house) and the secular 'ที่ค้าขาย' (commerce-place). The asymmetry preserves the sacrilege Jesus is denouncing. ALLUSION: the wording 'house of merchandise' echoes Zech 14:21 LXX οὐκ ἔσται Χαναναῖος (Canaanite=trader) ἔτι ἐν τῷ οἴκῳ κυρίου παντοκράτορος ('there shall no longer be a trader in the house of the LORD of hosts')."
+        }
+      ],
+      "notes": "HAPAX: ἐμπόριον (NT-only-occurrence) = marketplace. JESUS' SELF-IDENTIFICATION as the Son: 'house of MY FATHER' — implicit but unmistakable Christological claim. Per uW guidelines-sonofgodprinciples: Father is the irreducible divine title; we preserve it without paraphrase. KEY-TERM LOCK: πατήρ → พระบิดา (royal honorific essential). OT BACKGROUND: Jesus' wording recalls Zech 14:21 LXX 'no Canaanite [= merchant] in the house of the LORD'; cf. also Mal 3:1-4 the Lord coming to his temple to purify. SONS-OF-GOD-PRINCIPLES: this is Jesus' first explicit reference to God as 'my Father' in John (1:14, 1:18 had it as the narrator's framing); from here on it becomes a programmatic Johannine motif (5:17, 6:32, 8:54 etc.)."
+    }
+  },
+  {
+    "reference": "John 2:17",
+    "chapter": 2,
+    "verse": 17,
+    "greek": "ἐμνήσθησαν οἱ μαθηταὶ αὐτοῦ ὅτι γεγραμμένον ἐστίν·Ὁ ζῆλος τοῦ οἴκου σου καταφάγεταί με.",
+    "bsb_english": "His disciples remembered that it is written: “Zeal for Your house will consume Me.”",
+    "translation": {
+      "thai": "พวกสาวกของพระองค์ระลึกขึ้นได้ว่ามีคำเขียนไว้ว่า «ความเร่าร้อนเพื่อพระนิเวศของพระองค์จะเผาผลาญข้าพระองค์»",
+      "thai_literal": "พวกสาวกของพระองค์ได้ระลึกได้ว่าได้มีเขียนไว้ว่า «ความเร่าร้อนแห่งพระนิเวศของพระองค์จะกินข้าพระองค์เสีย»",
+      "thai_summary": "ข้อนี้คือคำอ้างจากสดุดี 69:9 บทสดุดีของดาวิดที่กล่าวถึงผู้ชอบธรรมที่ทนทุกข์เพราะเขารักพระเจ้าและพระวิหาร พวกสาวกระลึกข้อนี้ขึ้นมาเมื่อเห็นการกระทำของพระเยซู — แต่พวกเขายังไม่เข้าใจอย่างเต็มที่จนกว่าจะหลังจากการคืนพระชนม์ (ข้อ 22) สดุดีบทนี้เป็นสดุดีพระเมสสิยาห์ที่ถูกอ้างหลายครั้งในพันธสัญญาใหม่ (ยอห์น 15:25; 19:28-29; โรม 11:9-10; 15:3) — ความเร่าร้อนเพื่อพระเจ้านำพระคริสต์ไปสู่ไม้กางเขนในที่สุด",
+      "key_decisions": [
+        {
+          "greek": "ἐμνήσθησαν",
+          "thai": "ระลึกขึ้นได้",
+          "rationale": "Aorist passive of μιμνῄσκομαι ('be reminded / remember'). Thai 'ระลึกขึ้นได้' (recalled/came-to-mind) captures the inceptive 'remembering came to them' sense. The remembering is contemporaneous with the cleansing (vs. v.22's delayed-remembering after the resurrection — different cognitive event)."
+        },
+        {
+          "greek": "γεγραμμένον ἐστίν",
+          "thai": "มีคำเขียนไว้ว่า",
+          "rationale": "Per uW writing-quotations: 'it is written' is a standard formula introducing a Scripture quotation. Per uW figs-activepassive: render actively if needed. Thai 'มีคำเขียนไว้ว่า' (there-is-written-down-saying) is the standard Thai-Christian formula for OT quotation introduction; matches Acts/Mark precedent. The perfect-passive emphasizes the abiding-authority of the written text."
+        },
+        {
+          "greek": "Ὁ ζῆλος τοῦ οἴκου σου καταφάγεταί με",
+          "thai": "ความเร่าร้อนเพื่อพระนิเวศของพระองค์จะเผาผลาญข้าพระองค์",
+          "rationale": "Quotation from Psalm 69:9 (LXX 68:10). LXX matches Hebrew MT (קנאת ביתך אכלתני) closely — the only divergence is tense: LXX/John use future καταφάγεται (will consume); MT has perfect אכלתני (has consumed). John may be following an existing LXX-style future-tense reading reflected in the Greek scriptural tradition, or shifting to future to match the prospective sense of Jesus' coming passion. ζῆλος = zeal, fervor (cf. Phinehas in Num 25:11 LXX); Thai 'ความเร่าร้อน' (hot-feeling) is the standard biblical-register rendering. Per uW figs-metaphor on καταφάγεται: 'consume' as if a fire that burns within him; Thai 'เผาผลาญ' (burn-consume) preserves the fire-imagery without becoming a simile. KEY-TERM LOCK: οἶκος (in OT-citation context, of God's house/temple) → พระนิเวศ. σου (your, addressing God) → ของพระองค์ (royal-honorific 2sg). με (me, the speaker = the Davidic-Messianic figure) → ข้าพระองค์ (humble 1sg, addressing God). Per uW figs-yousingular: 'your' is singular, addressing God."
+        }
+      ],
+      "notes": "OT CITATION: PSALM 69:9 (LXX 68:10). Direct quotation. ADDED TO NT_OT_CITATIONS. Greek matches LXX with the future-tense verb (LXX 68:10 ὁ ζῆλος τοῦ οἴκου σου κατέφαγέν με — actually LXX has aorist; John adapts to future καταφάγεται to match the prospective sense — this is a known interpretive crux; some MSS of Psalms have future). MT 69:10 reads perfect (אכלתני 'has consumed me'). PSALM 69 is one of the most-cited OT psalms in the NT — multiple verses applied to Christ (Jn 15:25 quotes 69:4; Jn 19:28-29 alludes to 69:21; Rom 11:9-10 quotes 69:22-23; Rom 15:3 quotes 69:9; cf. Acts 1:20 quoting 69:25). Treated as a programmatically-Messianic psalm in the early church. THE DISCIPLES' DUAL REMEMBERING: this verse and v.22 frame the temple-cleansing with two acts of remembrance — IMMEDIATE (here, recalling Ps 69:9 as they observe Jesus' zeal) and DELAYED (v.22, post-resurrection understanding of the body-temple metaphor). Per uW intro: 'John used this phrase to stop telling the main historical narrative.' KEY-TERM LOCK: οἶκος (theological house-of-God in OT-citation) → พระนิเวศ; addressing-God 1sg → ข้าพระองค์, 2sg → ของพระองค์."
+    }
+  },
+  {
+    "reference": "John 2:18",
+    "chapter": 2,
+    "verse": 18,
+    "greek": "ἀπεκρίθησαν οὖν οἱ Ἰουδαῖοι καὶ εἶπαν αὐτῷ·Τί σημεῖον δεικνύεις ἡμῖν,ὅτι ταῦτα ποιεῖς;",
+    "bsb_english": "On account of this, the Jews demanded, “What sign can You show us to prove Your authority to do these things?”",
+    "translation": {
+      "thai": "เพราะเหตุการณ์นี้ ชาวยิวจึงตอบและกล่าวกับพระองค์ว่า «ท่านจะแสดงหมายสำคัญอะไรให้พวกเราดูได้บ้าง ที่ท่านกระทำสิ่งเหล่านี้»",
+      "thai_literal": "พวกยิวจึงตอบและกล่าวแก่พระองค์ว่า «หมายสำคัญใดที่ท่านจะสำแดงแก่พวกเรา ที่ท่านกระทำสิ่งเหล่านี้»",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ἀπεκρίθησαν οὖν",
+          "thai": "เพราะเหตุการณ์นี้ ... จึงตอบ",
+          "rationale": "ἀποκρίνομαι = answer/respond. οὖν (here = inferential 'consequently/therefore') refers back to the cleansing act. Per uW figs-explicit (v.18a): 'these things' = Jesus' disruptive actions in the temple. Thai 'เพราะเหตุการณ์นี้ ... จึงตอบ' makes the causal connection explicit and natural in Thai."
+        },
+        {
+          "greek": "οἱ Ἰουδαῖοι",
+          "thai": "ชาวยิว",
+          "rationale": "Ἰουδαῖος = Jew/Judean. In John's Gospel, οἱ Ἰουδαῖοι frequently denotes the Jewish religious-leadership/authorities (cf. uW chapter intro 'Jewish authorities' here = the temple-precinct supervisors who would have the standing to challenge Jesus' actions). Thai 'ชาวยิว' is the standard rendering — already established corpus-wide (Acts, etc.). We resist over-narrowing to 'ผู้นำชาวยิว' since the Greek is broader; readers can infer the leadership-implication from context. Per RULES.md §0 / §10b: avoid theologically-prejudicial paraphrase."
+        },
+        {
+          "greek": "Τί σημεῖον δεικνύεις ἡμῖν",
+          "thai": "ท่านจะแสดงหมายสำคัญอะไรให้พวกเราดูได้บ้าง",
+          "rationale": "δείκνυμι = show, demonstrate. The Jewish authorities are demanding a confirming-sign that Jesus has divine authority for his actions (typical messianic-credential question; cf. 6:30, Mt 12:38, 16:1). KEY-TERM LOCK: σημεῖον → หมายสำคัญ. The address 'ท่าน' (respectful 2sg) — adversaries/peers, not servile worshippers. Their addressing Jesus uses neutral-respectful 'ท่าน,' not the divine-honorific that would acknowledge his Christological identity."
+        }
+      ],
+      "notes": "JEWISH-AUTHORITIES' SIGN-DEMAND. Their question is in effect: 'What proof of divine commissioning authorizes you to interrupt the temple commerce?' The sign-demand is a recurring Johannine theme (4:48, 6:30) — it presupposes that miraculous-display would legitimate prophetic-action. JESUS' RESPONSE (vv.19-21) deliberately RE-FRAMES the demand: he gives them a sign in advance — his own death and resurrection — but couches it in a riddle they cannot decode until later. IRONY: they ask for a sign; he refers them to the supreme sign (the resurrection). The cleansing itself was a sign in the prophetic-act sense (cf. Mal 3:1) but the Jews do not recognize it. KEY-TERM LOCK σημεῖον → หมายสำคัญ; Ἰουδαῖοι (Johannine generic) → ชาวยิว."
+    }
+  },
+  {
+    "reference": "John 2:19",
+    "chapter": 2,
+    "verse": 19,
+    "greek": "ἀπεκρίθη Ἰησοῦς καὶ εἶπεν αὐτοῖς·Λύσατε τὸν ναὸν τοῦτον καὶ ἐν τρισὶν ἡμέραις ἐγερῶ αὐτόν.",
+    "bsb_english": "Jesus answered, “Destroy this temple, and in three days I will raise it up again.”",
+    "translation": {
+      "thai": "พระเยซูตรัสตอบพวกเขาว่า «จงทำลายพระวิหารนี้ลง และในสามวัน เราจะยกขึ้นใหม่»",
+      "thai_literal": "พระเยซูได้ทรงตอบและตรัสกับพวกเขาว่า «จงทำลายพระวิหารนี้ และในสามวันเราจะยกมันขึ้น»",
+      "thai_summary": "พระเยซูตรัสด้วยภาพอุปมาที่พวกเขาไม่อาจเข้าใจได้ในขณะนั้น พระวิหารที่พระองค์ตรัสถึงไม่ใช่อาคารหินที่อยู่ตรงหน้า แต่เป็นพระกายของพระองค์เอง (ข้อ 21) คำสั่งให้ทำลายไม่ใช่คำเชิญแต่เป็นการทำนายว่าพวกเขาจะทำเช่นนั้นจริง — และเมื่อเขากระทำ พระบิดาจะทรงให้พระองค์เป็นขึ้นจากความตายในวันที่สาม นี่คือ «หมายสำคัญแห่งโยนาห์» (มัทธิว 12:39-40) — หมายสำคัญสูงสุดที่พระเยซูทรงประทานให้แก่ชนชาวยิว",
+      "key_decisions": [
+        {
+          "greek": "Λύσατε τὸν ναὸν τοῦτον",
+          "thai": "จงทำลายพระวิหารนี้ลง",
+          "rationale": "λύω = loose/destroy/dissolve. Per uW figs-imperative + figs-extrainfo: imperative form but functions as conditional/hypothetical ('if you were to destroy...'). However: per uW figs-extrainfo, John records Jesus using 'destroy' and 'raise' as a figure for his death and resurrection — and 'Jesus does not explain the metaphor to them.' We preserve the imperative-form (jussive force is preserved in 'จง' in Thai) since it is a deliberate riddle. ναός (sanctuary proper, distinct from ἱερόν=whole-precinct of v.14-15) → 'พระวิหาร' here. KEY-TERM LOCK: ναός → พระวิหาร (sanctuary/dwelling-place-of-God; in v.21 will be applied to Jesus' body). The Greek's deliberate ναός (not ἱερόν) is theologically loaded — sanctuary, not courts."
+        },
+        {
+          "greek": "ἐν τρισὶν ἡμέραις",
+          "thai": "ในสามวัน",
+          "rationale": "Direct rendering of the time-phrase. The 'three days' detail is the proleptic Easter-reference; corresponds to 'on the third day' in the resurrection-formula (1 Cor 15:4, Lk 24:7, 1 Pet 1:21 etc.) and to v.1's 'on the third day' (a possible inclusio in the Johannine narrative-frame, though scholars debate). Thai 'ในสามวัน' is direct; the Christological force surfaces only after the resurrection (v.22)."
+        },
+        {
+          "greek": "ἐγερῶ αὐτόν",
+          "thai": "เราจะยกขึ้นใหม่",
+          "rationale": "ἐγείρω = raise up. Future active 1sg — significantly, JESUS HIMSELF raises the temple (his body); cf. 10:18 'I have authority to lay it down and authority to take it up.' Elsewhere the resurrection is attributed to the Father (Acts 2:24, 32 etc.) or to the Spirit (Rom 8:11). John preserves both — in v.22 the resurrection is presented in the divine-passive ('he was raised'). The 1sg here makes the Johannine high-Christology programmatic. Thai 'เราจะยกขึ้น' (we [royal-1sg-Jesus] will raise [it] up) preserves the active-1sg force."
+        }
+      ],
+      "notes": "DELIBERATE DOUBLE-MEANING. At surface, Jesus says 'destroy this sanctuary [pointing toward the Herodian temple] and I will rebuild it in three days' — an absurd-sounding boast. The Jewish authorities take it literally (v.20). But Jesus is speaking of his BODY (v.21 — explicit narratorial gloss) and the CRUCIFIXION/RESURRECTION (v.22 — disciples' post-Easter understanding). PER UW FIGS-IMPERATIVE: imperative form, hypothetical-conditional force. Per uW figs-extrainfo: 'Jesus does not explain the metaphor to them. Therefore, you do not need to explain its meaning further here.' We preserve the riddle and let v.21's narratorial gloss do the explaining. NAOΣ DELIBERATE: Jesus shifts from ἱερόν (v.14, the temple-complex he just cleansed) to ναός (the sanctuary/dwelling-place where God's presence resides). The ναός is what scripture calls the dwelling of God's name (Deut 12:5, 1 Kings 8:29) — and Jesus is identifying his BODY as the new ναός, the new dwelling-place of God's presence. SYNOPTIC RESONANCE: at Jesus' trial, false witnesses cite this saying (Mt 26:61, Mk 14:58) and at the cross mockers throw it back (Mt 27:40, Mk 15:29). KEY-TERM LOCK: ναός → พระวิหาร (sanctuary-proper); ἱερόν → บริเวณพระวิหาร (temple-precincts) — the Greek-internal distinction is preserved across the chapter."
+    }
+  },
+  {
+    "reference": "John 2:20",
+    "chapter": 2,
+    "verse": 20,
+    "greek": "εἶπαν οὖν οἱ Ἰουδαῖοι·Τεσσεράκοντα καὶ ἓξ ἔτεσιν οἰκοδομήθη ὁ ναὸς οὗτος,καὶ σὺ ἐν τρισὶν ἡμέραις ἐγερεῖς αὐτόν;",
+    "bsb_english": "“This temple took forty-six years to build,” the Jews replied, “and You are going to raise it up in three days?”",
+    "translation": {
+      "thai": "ชาวยิวจึงกล่าวว่า «พระวิหารนี้สร้างมาสี่สิบหกปี และท่านจะยกขึ้นในสามวันหรือ»",
+      "thai_literal": "พวกยิวจึงกล่าวว่า «สี่สิบหกปีพระวิหารนี้ได้ถูกสร้างแล้ว และท่านในสามวันจะยกมันขึ้นหรือ»",
+      "thai_summary": "เฮโรดมหาราชเริ่มก่อสร้างใหม่พระวิหารหลังที่สอง (ที่เซรุบบาเบลสร้างหลังการเป็นเชลยที่บาบิโลน) ในปี 20-19 ก่อนคริสตกาล สี่สิบหกปีต่อมาคือประมาณคริสตศักราช 27-28 ซึ่งสอดคล้องกับช่วงเริ่มต้นพันธกิจของพระเยซูตามการคำนวณตามประวัติศาสตร์ การก่อสร้างยังไม่เสร็จสมบูรณ์จนกระทั่ง ค.ศ. 64 เพียงไม่กี่ปีก่อนถูกชาวโรมทำลายในปี ค.ศ. 70",
+      "key_decisions": [
+        {
+          "greek": "Τεσσεράκοντα καὶ ἓξ ἔτεσιν",
+          "thai": "สี่สิบหกปี",
+          "rationale": "Direct rendering of the time-span. Historical detail: Herod's expansion of the Second Temple began c.20-19 BC (Josephus, Antiquities 15.380), so 46 years later places this Passover in c.AD 27-28 — among the earliest reasonable dates for Jesus' ministry inauguration."
+        },
+        {
+          "greek": "οἰκοδομήθη",
+          "thai": "สร้างมา",
+          "rationale": "Aorist passive of οἰκοδομέω = 'was built/has been built.' Some commentators read aorist as constative ('it took 46 years'); others as still-being-built ('it has been being built for 46 years' — plausible since Herod's project continued until AD 64). Thai 'สร้างมา' (has-been-being-built) preserves the durative-perfective ambiguity naturally."
+        },
+        {
+          "greek": "σὺ ἐν τρισὶν ἡμέραις ἐγερεῖς αὐτόν",
+          "thai": "ท่านจะยกขึ้นในสามวันหรือ",
+          "rationale": "Per uW figs-rquestion: rhetorical-question expressing incredulity. Thai 'หรือ' (final question particle) preserves the rhetorical-skeptical force. The 2sg-pronoun 'ท่าน' addresses Jesus (peer-respectful). The contrast '46 years vs. 3 days' is rhetorical mockery."
+        }
+      ],
+      "notes": "HISTORICAL CHRONOLOGY DATAPOINT: 46 years of construction, beginning c.20-19 BC (Josephus, Antiquities 15.380, BJ 1.401). Places this Passover in c.AD 27-28 — useful in dating Jesus' public ministry. Construction continued until AD 64 — the temple was destroyed by Rome in AD 70, only six years after completion. RHETORICAL INCREDULITY: per uW figs-rquestion, the Jewish-authorities' question expresses disbelief, not request for information. They take Jesus' words literally — a misunderstanding John exploits to set up his post-resurrection insight in v.22."
+    }
+  },
+  {
+    "reference": "John 2:21",
+    "chapter": 2,
+    "verse": 21,
+    "greek": "ἐκεῖνος δὲ ἔλεγεν περὶ τοῦ ναοῦ τοῦ σώματος αὐτοῦ.",
+    "bsb_english": "But Jesus was speaking about the temple of His body.",
+    "translation": {
+      "thai": "แต่พระองค์ทรงตรัสถึงพระวิหารแห่งพระกายของพระองค์เอง",
+      "thai_literal": "แต่พระองค์นั้นได้ตรัสถึงพระวิหารแห่งพระกายของพระองค์",
+      "thai_summary": "ยอห์นในฐานะผู้นิพนธ์เปิดเผยสิ่งที่ผู้ฟังเดิม (ทั้งชาวยิวและพวกสาวก) ไม่เข้าใจในขณะนั้น — พระเยซูทรงเป็นพระวิหารใหม่ — สถานที่ที่พระเจ้าทรงสถิตอยู่ในความเต็มเปี่ยม (โคโลสี 2:9) เป็นภาพล่วงหน้าว่าคริสตจักรในพันธสัญญาใหม่จะนมัสการ «ในจิตวิญญาณและความจริง» (ยอห์น 4:23) ไม่ผูกติดกับสถานที่ใดสถานที่หนึ่ง พระเยซูเองทรงเป็นจุดบรรจบของพระเจ้าและมนุษย์",
+      "key_decisions": [
+        {
+          "greek": "ἐκεῖνος",
+          "thai": "พระองค์",
+          "rationale": "Per uW writing-pronouns: 'that one' = Jesus; 'state explicitly' if helpful. ἐκεῖνος (demonstrative-emphatic 'that very one') marks a contrastive shift to make Jesus the explicit subject after 'οἱ Ἰουδαῖοι' v.20. Thai 'พระองค์' (royal-honorific 3sg) suffices since the antecedent is unambiguous in Thai narrative-flow."
+        },
+        {
+          "greek": "περὶ τοῦ ναοῦ τοῦ σώματος αὐτοῦ",
+          "thai": "พระวิหารแห่งพระกายของพระองค์เอง",
+          "rationale": "The genitive τοῦ σώματος αὐτοῦ is appositional/epexegetical: 'the sanctuary, namely, his body' = 'the sanctuary which is his body.' Thai 'พระวิหารแห่งพระกาย' renders this naturally — แห่ง marks the appositional-genitive. KEY-TERM LOCK: ναός → พระวิหาร (preserved). σῶμα = body; Thai 'พระกาย' (royal-honorific body, of Christ — RULES §3) is the standard biblical-register Thai for Christ's body."
+        }
+      ],
+      "notes": "NARRATORIAL GLOSS. The author intervenes to disambiguate v.19's riddle: Jesus' ναός = his body. This is one of John's signature moves — the narrator providing a post-Easter interpretive layer that the in-story characters cannot have (cf. 12:16, 18:32, 21:23). THEOLOGICAL CLAIM: Jesus' body is the new locus of divine indwelling — superseding the Herodian temple. Connects to 1:14 ἐσκήνωσεν ('tabernacled among us') and the broader Johannine theme that worship will no longer be at this mountain or Jerusalem (4:21-24). The body-as-temple Christology will recur in Pauline thought (Col 2:9 'in him the whole fullness of deity dwells bodily') and ecclesiological extension (1 Cor 6:19 the Christian's body is a temple; Eph 2:21 the church is a holy temple). KEY-TERM LOCK: σῶμα (of Christ) → พระกาย (royal-honorific)."
+    }
+  },
+  {
+    "reference": "John 2:22",
+    "chapter": 2,
+    "verse": 22,
+    "greek": "ὅτε οὖν ἠγέρθη ἐκ νεκρῶν,ἐμνήσθησαν οἱ μαθηταὶ αὐτοῦ ὅτι τοῦτο ἔλεγεν,καὶ ἐπίστευσαν τῇ γραφῇ καὶ τῷ λόγῳ ὃν εἶπεν ὁ Ἰησοῦς.",
+    "bsb_english": "After He was raised from the dead, His disciples remembered that He had said this. Then they believed the Scripture and the word that Jesus had spoken.",
+    "translation": {
+      "thai": "เพราะฉะนั้นเมื่อพระองค์ทรงเป็นขึ้นจากความตายแล้ว พวกสาวกของพระองค์ระลึกได้ว่าทรงเคยตรัสเช่นนี้ และพวกเขาก็เชื่อพระคัมภีร์และพระดำรัสที่พระเยซูทรงตรัสไว้",
+      "thai_literal": "เมื่อพระองค์ทรงถูกยกขึ้นจากความตายแล้ว พวกสาวกของพระองค์ได้ระลึกได้ว่าพระองค์ได้ทรงตรัสสิ่งนี้ และพวกเขาก็ได้เชื่อพระคัมภีร์และพระดำรัสที่พระเยซูได้ตรัสแล้ว",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ἠγέρθη ἐκ νεκρῶν",
+          "thai": "ทรงเป็นขึ้นจากความตาย",
+          "rationale": "ἠγέρθη = aorist passive of ἐγείρω. Per uW figs-activepassive: 'God raised him from the dead.' Divine passive (ho theos implied). Thai 'ทรงเป็นขึ้น' (royal-honorific + arose) is the established biblical-register rendering for the resurrection — preserves the action while letting the divine-agent be implicit. NEW KEY-TERM LOCK for Johannine corpus: ἐγείρω ἐκ νεκρῶν / ἀνάστασις (resurrection) → ทรงเป็นขึ้นจากความตาย (to be locked across all 21 chapters). 'ความตาย' = death (abstract noun)."
+        },
+        {
+          "greek": "ἐμνήσθησαν",
+          "thai": "ระลึกได้",
+          "rationale": "Same verb as v.17. Here, however, the remembering is POST-RESURRECTION — a delayed-comprehension. Per uW writing-endofstory: 'John is speaking about something that happened long after the event described in the previous verses.' The disciples did not understand at the time (v.17 was their puzzled-Scripture-recall); only after the resurrection did the body=temple riddle resolve. Thai uses the same 'ระลึกได้' for cognitive consistency."
+        },
+        {
+          "greek": "ἐπίστευσαν τῇ γραφῇ καὶ τῷ λόγῳ",
+          "thai": "เชื่อพระคัมภีร์และพระดำรัส",
+          "rationale": "Per uW figs-genericnoun: 'the Scripture' = scripture-in-general, not one particular OT book. Specifically what scripture is in view? Likely the Psalm 16:10 / 22 / 110 / 118 cluster that the early church read as resurrection-prophecy (cf. Acts 2:25-31, 13:35; Lk 24:25-27, 44-49). Thai 'พระคัมภีร์' (royal-honorific scripture, Sanskritic) is the standard. λόγος here = 'the word/utterance Jesus spoke' (specifically v.19) — Thai 'พระดำรัส' (royal-honorific utterance, of God or king) is the biblical-register rendering for Christ's speech-as-event. This use of λόγος is the ordinary-narrative sense, distinct from 1:1's Christological-title (which we render พระวาทะ)."
+        }
+      ],
+      "notes": "POST-EASTER UNDERSTANDING. The disciples' delayed comprehension is a recurring Johannine motif (cf. 12:16, 13:7, 14:26, 16:13). Three steps: (1) Jesus speaks a saying that is opaque to its hearers; (2) the Spirit + the resurrection illumine the meaning; (3) the disciples come to faith in both Jesus' word AND the OT scripture's witness to him. PER UW WRITING-ENDOFSTORY: vv.21-22 are John's narratorial commentary attached to the temple-cleansing event — not part of the original temporal sequence. WHAT SCRIPTURE? Multiple candidates: the resurrection-Psalms (Ps 16:10, 110:1, 118:22); the Suffering-Servant prophecies (Isa 52:13-53:12); the eschatological-temple texts (Ezek 40-48). John leaves it generic. λόγος here is ordinary-narrative ('utterance/saying'), NOT the Christological-title from 1:1, 1:14 — different sense; rendered พระดำรัส (utterance) rather than พระวาทะ (Logos-title). KEY-TERM LOCK: ἐγείρω ἐκ νεκρῶν → ทรงเป็นขึ้นจากความตาย; γραφή (Scripture-as-canon) → พระคัมภีร์."
+    }
+  },
+  {
+    "reference": "John 2:23",
+    "chapter": 2,
+    "verse": 23,
+    "greek": "Ὡς δὲ ἦν ἐν τοῖς Ἱεροσολύμοις ἐν τῷ πάσχα ἐν τῇ ἑορτῇ,πολλοὶ ἐπίστευσαν εἰς τὸ ὄνομα αὐτοῦ,θεωροῦντες αὐτοῦ τὰ σημεῖα ἃ ἐποίει·",
+    "bsb_english": "While He was in Jerusalem at the Passover Feast, many people saw the signs He was doing and believed in His name.",
+    "translation": {
+      "thai": "เมื่อพระองค์ประทับอยู่ในกรุงเยรูซาเล็มในเทศกาลปัสกานั้น คนเป็นอันมากเชื่อในพระนามของพระองค์เพราะเห็นหมายสำคัญที่พระองค์ทรงกระทำ",
+      "thai_literal": "และเมื่อพระองค์อยู่ในกรุงเยรูซาเล็มในเทศกาลปัสกาในงานเลี้ยงนั้น คนเป็นอันมากได้เชื่อในพระนามของพระองค์ เพราะเห็นหมายสำคัญทั้งหลายของพระองค์ที่ทรงกระทำอยู่",
+      "thai_summary": "ยอห์นวาดภาพความเชื่อในระดับผิวเผิน — คนจำนวนมากเชื่อ «เพราะเห็นหมายสำคัญ» แต่พระเยซูเองไม่ทรงไว้ใจพวกเขา (ข้อ 24) เป็นภาพที่จะปรากฏซ้ำตลอดทั้งพระกิตติคุณ — ความเชื่อที่อาศัยเพียงปาฏิหาริย์โดยไม่เข้าใจว่าพระเยซูเป็นใคร ไม่ใช่ความเชื่อที่ช่วยให้รอด (เปรียบเทียบ 6:14-15 ที่หลังจากเห็นหมายสำคัญการเลี้ยงคนห้าพัน ฝูงชนต้องการบังคับพระองค์ให้เป็นกษัตริย์ — เป็นการเข้าใจผิดอย่างร้ายแรง)",
+      "key_decisions": [
+        {
+          "greek": "Ὡς δὲ ἦν ἐν τοῖς Ἱεροσολύμοις",
+          "thai": "เมื่อพระองค์ประทับอยู่ในกรุงเยรูซาเล็ม",
+          "rationale": "Per uW writing-newevent: 'now' introduces a new event after the temple incident. Thai 'เมื่อ ... ประทับอยู่' (royal-honorific 'while-residing') for Jesus' presence — ประทับ is the divine-honorific verb-of-being-present (RULES §3). 'นั้น' (this/that) supplies anaphoric closure."
+        },
+        {
+          "greek": "ἐν τῷ πάσχα ἐν τῇ ἑορτῇ",
+          "thai": "ในเทศกาลปัสกานั้น",
+          "rationale": "Per uW: two readings — (1) Passover proper + the week-long Festival of Unleavened Bread; (2) just 'the Passover festival' (the two phrases as redundant doublet). We adopt reading (2) for simpler Thai flow: 'เทศกาลปัสกานั้น' (the Passover festival), letting the doublet collapse into the natural Thai festival-name. The reading (1) interpretation could equivalently render 'ในเทศกาลปัสกา ในงานเลี้ยงสัปดาห์ขนมปังไร้เชื้อ' but adds clutter unnecessary for the verse's main point."
+        },
+        {
+          "greek": "ἐπίστευσαν εἰς τὸ ὄνομα αὐτοῦ",
+          "thai": "เชื่อในพระนามของพระองค์",
+          "rationale": "Per uW figs-metonymy: 'name represents the person of Jesus.' Thai 'เชื่อในพระนามของพระองค์' (believe-in-his-Name) preserves the Hebraic-metonymy-of-name without converting to 'believed in him' (which Greek would express as εἰς αὐτόν). The εἰς-name construction is Johannine signature (1:12 'who believed in his name'; 3:18 'has not believed in the name of the only Son of God'). KEY-TERM LOCK: ὄνομα (theological, in 'believing in his name' constructions) → พระนาม (royal-honorific). πιστεύω εἰς (already locked v.11) → เชื่อใน."
+        },
+        {
+          "greek": "θεωροῦντες αὐτοῦ τὰ σημεῖα ἃ ἐποίει",
+          "thai": "เพราะเห็นหมายสำคัญที่พระองค์ทรงกระทำ",
+          "rationale": "Per uW grammar-connect-logic-result: the participle θεωροῦντες indicates the reason for believing ('seeing his signs'). Thai 'เพราะเห็น' (because-seeing) makes the causal-relation explicit. The imperfect ἐποίει (was doing) is iterative — Jesus was performing multiple signs over the festival. KEY-TERM LOCK: σημεῖον → หมายสำคัญ. ทรงกระทำ — royal-honorific (RULES §3)."
+        }
+      ],
+      "notes": "TRANSITION TO PROBLEM-OF-SHALLOW-FAITH. John signals trouble with this 'belief': it is sign-driven, not person-driven. The very next verse (v.24) has Jesus 'not entrusting himself to them' — the same verb πιστεύω used for them ('they believed') and for him ('did not entrust') sets up the paradox. PER UW: 'these people were only believing in Jesus because of the miracles he performed.' This kind of sign-faith reappears at 6:14-15 (the multitude wants to make him king after the bread-multiplication, a fundamental mis-categorization), 6:26 ('you seek me not because you saw signs but because you ate the loaves'), and 12:42-43 (rulers who believed but did not confess). KEY-TERM LOCK: ὄνομα (theological) → พระนาม. UNNAMED SIGNS: only one Jerusalem sign is recorded (the cleansing — v.14-16), but v.23 implies more were performed during the festival; John records only selected signs (cf. 20:30 'many other signs Jesus did ... not written in this book')."
+    }
+  },
+  {
+    "reference": "John 2:24",
+    "chapter": 2,
+    "verse": 24,
+    "greek": "αὐτὸς δὲ Ἰησοῦς οὐκ ἐπίστευεν αὑτὸν αὐτοῖς διὰ τὸ αὐτὸν γινώσκειν πάντας",
+    "bsb_english": "But Jesus did not entrust Himself to them, for He knew them all.",
+    "translation": {
+      "thai": "แต่พระเยซูเองไม่ทรงมอบความไว้วางใจในพระองค์เองแก่พวกเขา เพราะพระองค์ทรงรู้จักทุกคน",
+      "thai_literal": "แต่พระเยซูเองไม่ได้ทรงเชื่อพระองค์เองให้แก่พวกเขา เพราะการที่พระองค์ทรงรู้จักทุกคน",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "οὐκ ἐπίστευεν αὑτὸν αὐτοῖς",
+          "thai": "ไม่ทรงมอบความไว้วางใจในพระองค์เองแก่พวกเขา",
+          "rationale": "πιστεύω + accusative-of-thing + dative-of-person = 'entrust X to Y' (cf. Lk 16:11 'who will entrust to you the true wealth'; 1 Cor 9:17 'a stewardship has been entrusted to me'). Different sense from πιστεύω εἰς (v.11, v.23 'believe in'). The wordplay is deliberate — same verb, different syntactic-construction, opposite direction (they-believed-into-him vs. he-did-not-entrust-himself-to-them). Thai 'ไม่ทรงมอบความไว้วางใจในพระองค์เองแก่พวกเขา' captures the entrusting sense; preserves the reflexive (αὑτόν 'himself') with พระองค์เอง. The ทรง royal-honorific applies."
+        },
+        {
+          "greek": "διὰ τὸ αὐτὸν γινώσκειν πάντας",
+          "thai": "เพราะพระองค์ทรงรู้จักทุกคน",
+          "rationale": "διά + articular-infinitive (causal). αὐτόν = subject-of-the-infinitive (Jesus). γινώσκω = know (in the relational-personal sense, not merely cognitive). Per uW figs-gendernotations: πάντας = 'all (people),' gender-inclusive. Thai 'พระองค์ทรงรู้จักทุกคน' renders the causal-knowledge naturally. The verb 'รู้จัก' (know-by-acquaintance) preserves the relational-personal force of γινώσκω vs. cognitive-fact-knowledge."
+        }
+      ],
+      "notes": "JOHANNINE WORDPLAY ON πιστεύω. v.23 πολλοὶ ἐπίστευσαν εἰς τὸ ὄνομα αὐτοῦ ('many believed in his name'); v.24 αὐτὸς δὲ Ἰησοῦς οὐκ ἐπίστευεν αὑτὸν αὐτοῖς ('but Jesus did not entrust himself to them'). The same verb πιστεύω governs both directions of the relationship — they 'believed-into' him; he 'did not entrust' himself to them. The chiasmus exposes the asymmetry: shallow sign-faith does not warrant Jesus' confidence. PER UW: 'their belief was superficial and only lasted as long as he performed miracles for them. Therefore, he did not trust them the way he trusted his true disciples.' DIVINE INSIGHT: Jesus' knowing 'them all' anticipates 4:17-18 (the Samaritan woman's marital history), 6:64 ('Jesus knew from the beginning who would not believe and who would betray him'), 13:11 ('he knew who was to betray him'). This omniscience is the supernatural-insight grounded in his being the Son of God and Son of Man (uW chapter intro)."
+    }
+  },
+  {
+    "reference": "John 2:25",
+    "chapter": 2,
+    "verse": 25,
+    "greek": "καὶ ὅτι οὐ χρείαν εἶχεν ἵνα τις μαρτυρήσῃ περὶ τοῦ ἀνθρώπου,αὐτὸς γὰρ ἐγίνωσκεν τί ἦν ἐν τῷ ἀνθρώπῳ.",
+    "bsb_english": "He did not need any testimony about man, for He knew what was in a man.",
+    "translation": {
+      "thai": "และไม่ทรงจำต้องให้ใครเป็นพยานเรื่องมนุษย์ เพราะพระองค์ทรงทราบเองว่าอะไรอยู่ในใจมนุษย์",
+      "thai_literal": "และเพราะพระองค์ไม่ทรงมีความจำเป็นที่จะให้ผู้ใดเป็นพยานเกี่ยวกับมนุษย์ เพราะพระองค์เองทรงทราบว่ามีอะไรในมนุษย์",
+      "thai_summary": "ข้อนี้ปิดฉากบทที่ 2 ด้วยข้อสังเกตว่าพระเยซูทรงทราบความคิดและจิตใจของมนุษย์โดยตรง ไม่ต้องอาศัยข้อมูลจากใคร — เป็นคุณลักษณะของพระเจ้า (1 ซามูเอล 16:7 «พระเจ้าทอดพระเนตรที่จิตใจ»; 1 พงศ์กษัตริย์ 8:39; เยเรมีย์ 17:10) สิทธิอำนาจเหนือธรรมชาตินี้ (ทั้งในการกระทำหมายสำคัญและในความรู้เกี่ยวกับใจมนุษย์) เป็นพื้นฐานสำหรับการสนทนากับนิโคเดมัสในบทที่ 3 และกับหญิงสะมาเรียในบทที่ 4 ที่จะตามมา",
+      "key_decisions": [
+        {
+          "greek": "οὐ χρείαν εἶχεν ἵνα τις μαρτυρήσῃ",
+          "thai": "ไม่ทรงจำต้องให้ใครเป็นพยาน",
+          "rationale": "χρείαν ἔχω + ἵνα-clause = 'have need that...' Thai 'จำต้องให้ ... เป็นพยาน' captures the need-for-testimony naturally. ทรง — royal honorific (RULES §3). μαρτυρέω = bear witness, testify; in John this is a programmatic theme (1:7-8, 1:15, 1:32, 1:34, 5:31-39 etc.) — the entire Gospel is about WITNESSES to Jesus. Here Jesus paradoxically does not need WITNESSES regarding humanity — because his divine knowledge is direct."
+        },
+        {
+          "greek": "περὶ τοῦ ἀνθρώπου ... ἐν τῷ ἀνθρώπῳ",
+          "thai": "เรื่องมนุษย์ ... ในใจมนุษย์",
+          "rationale": "Per uW figs-gendernotations: ἄνθρωπος here is generic ('humankind'). Thai 'มนุษย์' is the standard gender-inclusive Thai rendering. Per uW figs-explicit (v.25 second clause): 'this refers to the inner thoughts and desires of people, which some cultures refer to as the heart.' Thai 'ในใจมนุษย์' (in-the-heart-of-humankind) makes the inner-disposition explicit, matching uW's recommendation while preserving the Greek's literal phrasing. We avoid 'ในมนุษย์' alone (too anatomical-literal); 'ในใจมนุษย์' grounds the meaning in the standard biblical-Hebrew anthropology of לֵב heart-as-seat-of-thought-will-affection."
+        },
+        {
+          "greek": "αὐτὸς γὰρ ἐγίνωσκεν",
+          "thai": "เพราะพระองค์ทรงทราบเอง",
+          "rationale": "γινώσκω here in the supernatural-knowledge sense (cf. v.24). Imperfect ἐγίνωσκεν = ongoing/habitual knowledge. Thai 'พระองค์ทรงทราบเอง' (he-himself royal-honorific knew) captures the self-grounded direct knowledge. ทราบ (royal-register Thai for 'know') is preferred over the lower-register 'รู้' for divine knowledge. RULES §3 royal-register: divine subjects get ทราบ over รู้, ตรัส over พูด, etc."
+        }
+      ],
+      "notes": "DIVINE OMNISCIENCE. Jesus' knowing-the-heart is a divine-prerogative claim — in OT, it is YHWH alone who 'searches all hearts' (1 Sam 16:7; 1 Kings 8:39; Ps 7:9; Jer 17:10; cf. Heb 4:13 'no creature is hidden from his sight'). John positions Jesus' ministry from the start as exercising this divine-omniscience. The point closes 2:13-25 (Jerusalem section) and prepares for the Nicodemus dialogue (3:1-21), where Jesus knows precisely what Nicodemus needs to hear, and the Samaritan-woman dialogue (4:1-42), where Jesus knows her marital history without being told. ROYAL REGISTER (RULES §3): ทราบ > รู้ for divine subjects."
+    }
+  }
+]
