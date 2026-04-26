@@ -3,8 +3,8 @@
 ## ἄφεσις ἁμαρτιῶν
 **Doc:** `aphesis_forgiveness_of_sins_2026-04.md`  
 **Expected Thai contains:** `ยกโทษ`  
-**Total matching verses:** 10  
-**OK:** 10 · **Excepted:** 0 · **Violations:** 0
+**Total matching verses:** 11  
+**OK:** 11 · **Excepted:** 0 · **Violations:** 0
 
 ### Documented exceptions (not violations)
 - **Luke 4:18** — Isa 61:1 citation; ἄφεσις = Jubilee-release of captives, not forgiveness-of-sins; correctly rendered ปลดปล่อย
@@ -12,8 +12,8 @@
 ## βασιλεία τοῦ θεοῦ
 **Doc:** `basileia_kingdom_rendering_2026-04.md`  
 **Expected Thai contains:** `อาณาจักรของพระเจ้า`  
-**Total matching verses:** 53  
-**OK:** 53 · **Excepted:** 0 · **Violations:** 0
+**Total matching verses:** 55  
+**OK:** 55 · **Excepted:** 0 · **Violations:** 0
 
 ## βασιλεία τῶν οὐρανῶν (Matthew)
 **Doc:** `basileia_kingdom_rendering_2026-04.md`  
