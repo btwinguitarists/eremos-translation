@@ -4,7 +4,7 @@
 
 **Purpose**: catch corpus-level editorial decisions and quality gaps that per-chapter checks can't see. Per-chapter automated checks catch lemma consistency and saying-level synoptic alignment, but they don't catch editorial *why* decisions. End-of-book is the natural moment to lock in choices before they compound across books (e.g., ἐκκλησία in Matthew sets the precedent for Acts + the Pauline epistles).
 
-This checklist is informational. Nothing in the codebase enforces running it — but `MEMORY.md` has a project-memory entry pointing here, so any Claude session shipping the last chapter of a book will be reminded to check.
+This checklist is informational. Nothing in the codebase enforces running it — by convention, run it after shipping the last chapter of a NT book and before tagging `book-{slug}-v1`. (The maintainer's Claude auto-memory has an entry pointing here, so an interactive Claude session shipping the last chapter is reminded automatically; a contributor without that memory should rely on this checklist directly.)
 
 ---
 
@@ -21,25 +21,40 @@ Spawn a fresh Claude session with this prompt template:
 
 > Eremos translation: end-of-book review for **{BOOK}**. Read all **{N}** translations + `glossary.json`. Identify cross-cutting editorial decisions worth deliberate revisit — e.g., ἐκκλησία → คริสตจักร vs. ที่ประชุม, βασιλεία → อาณาจักร, talent units, honorific patterns for non-divine figures (kings, masters, etc.), translation of culturally-loaded terms (γέεννα, σάρξ, παρουσία). For each cross-cutting choice: is the rationale documented at verse-level (key_decisions/notes) or in `docs/translator_decisions/`, or did it drift into convention? Surface findings for Ben's decision. Do NOT change any translations — assess only.
 
-For each editorial decision flagged:
+The output is a `docs/{BOOK}_END_OF_BOOK_REVIEW_{YYYY-MM-DD}.md` audit doc following the structure of `MAT_END_OF_BOOK_REVIEW_2026-04-19.md` / `LUK_END_OF_BOOK_REVIEW_2026-04-22.md` / `ACT_END_OF_BOOK_REVIEW_2026-04-26.md`.
+
+For each editorial decision flagged in the audit:
 - **Rationale already documented at verse-level** → keep as-is, no action needed
 - **Not documented** → write `docs/translator_decisions/{topic}_{YYYY-MM}.md` recording the choice + reasoning + alternatives considered
 - **Rationale now questioned** → Ben decides whether to revise the corpus
 
-## 3. External review (do at least one)
+## 3. External AI review
 
-- [ ] At least one external AI review (Grok, ChatGPT, Gemini, etc.) — paste chapter JSONs, surface concerns, cross-check against `RULES.md`. Past pattern: external AIs frequently restate things the project already does, but occasionally surface a real corpus-level question (see MAT 18 ἐκκλησία flagging in this session).
-- [ ] Native-speaker Thai review on selected chapters (per `RULES.md §7`)
-- [ ] Theological reviewer review (per `RULES.md §7`)
+For end-of-book external review by Grok / ChatGPT / Gemini / Claude:
 
-## 4. Lock the book
+- [ ] Distill the audit's REVIEW / DECIDE items into a handwritten `docs/external_review_items_{BOOK}.md` (one `## Item A — ...` block per item, with verse evidence inline; see `docs/external_review_items_ACT.md` for shape).
+- [ ] Run: `python3 scripts/build_external_review_packet.py {BOOK} --items docs/external_review_items_{BOOK}.md` — produces `docs/external_review_packet_{BOOK}_{YYYY-MM-DD}.md` sized for free-tier AI ceilings (~20K chars).
+- [ ] Paste the generated packet into Grok and at least one other AI (ChatGPT / Gemini / Claude) — copy responses back to the project session for cross-checking.
+- [ ] AI findings: cross-check verse claims against translation JSONs (AIs occasionally hallucinate verse content); spot-revise where warranted; update the audit doc with verified flags.
+
+The external AI review surfaces items the per-chapter automated checks can't see (corpus-level drift, undocumented rationale, forward-compounding risk). Pattern from prior books: AIs frequently restate things the project already does, but occasionally surface a real corpus-level question (e.g., MAT 18 ἐκκλησία).
+
+## 4. Reviewer hand-off (Thai readers + theological reviewers)
+
+- [ ] Run: `python3 scripts/build_consolidated_reviewer_packet.py {COMPLETED_BOOKS} --lang en` — produces a self-contained English packet of project context + locked decisions + per-book audit summaries for Greek / theological scholars.
+- [ ] Run: `python3 scripts/build_consolidated_reviewer_packet.py {COMPLETED_BOOKS} --lang th` — produces a Thai-language reviewer FAQ stub. **Editorial pass required** before sharing — the AI-generated Thai prose needs the maintainer's review for register and naturalness.
+- [ ] Native-speaker Thai review on selected chapters (per `RULES.md §7`).
+- [ ] Theological reviewer review (per `RULES.md §7`).
+
+## 5. Lock the book
 
 When all of the above is reviewed and any decisions logged:
 
-- [ ] Update `RULES.md` if a corpus-level decision warrants documentation in the canonical rules
-- [ ] Update `glossary.json` if any term renderings were corrected
-- [ ] Tag the commit: `git tag book-{slug}-v1 && git push --tags` (e.g., `book-matthew-v1`)
-- [ ] If editorial-decision docs were written, ensure they're committed under `docs/translator_decisions/`
+- [ ] Update `RULES.md` if a corpus-level decision warrants documentation in the canonical rules.
+- [ ] Update `glossary.json` if any term renderings were corrected.
+- [ ] Update `docs/translator_decisions/README.md` if new decision docs were added.
+- [ ] Tag the commit: `git tag book-{slug}-v1 && git push --tags` (e.g., `book-matthew-v1`).
+- [ ] If editorial-decision docs were written, ensure they're committed under `docs/translator_decisions/`.
 
 ---
 

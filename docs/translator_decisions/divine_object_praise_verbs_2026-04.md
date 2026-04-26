@@ -76,10 +76,26 @@ NOT praise proper — distinct semantic field (confession of faith or sin). Sepa
 
 - **Acts 2:47** (αἰνοῦντες τὸν θεόν): **สรรเสริญพระเจ้า**
 - **Acts 3:8–9** (ἁλλόμενος καὶ αἰνῶν τὸν θεόν... εἶδεν... αὐτὸν... αἰνοῦντα τὸν θεόν): **สรรเสริญพระเจ้า** (twice, with per-verse rephrasing for variation)
-- **Acts 4:21** (ἐδόξαζον τὸν θεόν): **สรรเสริญพระเจ้า**
+- **Acts 4:21, 11:18, 21:20** (ἐδόξαζον τὸν θεόν, narrator-doxological corporate-acclamation contexts): **ถวายเกียรติแด่พระเจ้า** — see "δοξάζω narrator sub-rule" below
 - **Acts 10:46, 19:17** (μεγαλυνόντων τὸν θεόν): **สรรเสริญ** or **เทิดทูน** per register-context
-- **Acts 11:18, 13:48, 21:20** (ἐδόξαζον τὸν θεόν): **สรรเสริญพระเจ้า**
+- **Acts 13:48** (ἐδόξαζον τὸν λόγον τοῦ κυρίου — object is "the word," not "God"): **เทิดทูน** (extends the doxological register to the divine λόγος; per-verse decision, not corpus-default)
 - **Acts 28:15** (εὐχαρίστησεν τῷ θεῷ — thanksgiving, not praise per se): **ขอบพระคุณพระเจ้า** (thanks) — see εὐχαριστέω glossary entry; not this doc.
+
+### δοξάζω narrator sub-rule (added 2026-04-26)
+
+**Sub-rule:** When δοξάζω appears in narrator voice as a corporate-acclamation-after-salvific-event ("they glorified God"), default to **ถวายเกียรติแด่พระเจ้า** rather than สรรเสริญพระเจ้า. The ถวาย-verb register more closely tracks the Greek δοξάζω's "ascribe-glory-to" sense in formal-public contexts.
+
+**Conditions:** narrator voice + corporate subject (πάντες / οἱ ἀκούσαντες / ὁ ὄχλος) + post-event acclamation contour. Verse-by-verse confirmation of conditions:
+- **Acts 4:21** — Sanhedrin can't punish apostles because πάντες ἐδόξαζον τὸν θεόν (corporate-public)
+- **Acts 11:18** — Jerusalem-believers ἡσύχασαν καὶ ἐδόξασαν τὸν θεὸν (corporate-formal-deliberation)
+- **Acts 21:20** — James + elders οἱ ἀκούσαντες ἐδόξαζον τὸν θεόν (corporate-formal-report-reception)
+
+**When NOT to apply (default to สรรเสริญ):**
+- Single-subject δοξάζω (individual praise: Luke 5:25, 7:16, 17:15, 18:43, 23:47 — all individual healed people praising God in narrative; one-on-one acclamation register).
+- Imperatival or hortatory δοξάζω in direct speech (e.g., 1 Pet 4:16 ἐν τῷ ὀνόματι τούτῳ δοξαζέτω τὸν θεόν → สรรเสริญ + imperative).
+- δοξάζω with non-God object (Acts 13:48 ἐδόξαζον τὸν λόγον — see "Forward implications" above for the doxological-register extension).
+
+**Decided 2026-04-26** during Acts external AI review (Gemini + ChatGPT both verdict FINE on the existing pattern; recommended documenting it as a sub-rule rather than normalizing to flat สรรเสริญ default).
 
 ### Pauline corpus
 
