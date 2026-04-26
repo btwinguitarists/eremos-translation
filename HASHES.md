@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-04-26 02:53:14 UTC_
-_Total chapters: 97 · Total verses: 3908_
+_Generated: 2026-04-26 13:32:16 UTC_
+_Total chapters: 98 · Total verses: 3959_
 
 ## How to verify a chapter
 
@@ -23,7 +23,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/acts_01.json` | 26 | `960a8f1fda4c3779ac2729b908b072d2d9136bf783fb45c431a94f80f3e7da31` | `73258b2` |
 | `output/translations/acts_02.json` | 47 | `fde49353fec5c03e0a1dd20530afeb2320fa6763ad32ff32e931ba964fc26298` | `93c9245` |
 | `output/translations/acts_03.json` | 26 | `079d29f993b59ba06cecddb189dac628876cfa54d7dfa7f6523ad897a8fc525c` | `2fe413c` |
-| `output/translations/acts_04.json` | 37 | `7436991d7b742ee64064fe8f18c3b68f0660eaf0e184577b639d727d916e3ab1` | `10d6960` |
+| `output/translations/acts_04.json` | 37 | `75da518de34abca51ae2425c994d73fd91e495386e09ed826af3ebc452f1813a` | `71fc426` |
 | `output/translations/acts_05.json` | 42 | `195f4c756cdfa46c2bb4b554621f95c527db52122206e04cd11c042d9a7f2079` | `4bff605` |
 | `output/translations/acts_06.json` | 15 | `a5becb0be3f3453eacffd23f12b1cc88f931bfe9e3fe18a05e37735d48b10388` | `2190c19` |
 | `output/translations/acts_07.json` | 60 | `01365f34ecf7651dbf849d49d3baa0360b39a93741dc8ffaca3827eb8abb04b9` | `85f6552` |
@@ -33,21 +33,22 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/acts_11.json` | 30 | `c440a02b6c0fef2274234b9753c83b78218147ca9e54b42015affe65417b2824` | `21ccaa8` |
 | `output/translations/acts_12.json` | 25 | `363d8e8d3d6805e229ce0eb29d8b1dcdf8f70a9444824819df45f25135c2e8b7` | `02b906a` |
 | `output/translations/acts_13.json` | 52 | `116deb9b7a29f7edd802c73209bfcfb21f4946854e13b3a502c7813c3848fac8` | `1080fbd` |
-| `output/translations/acts_14.json` | 28 | `d3fc8fd9a9f513a9f42df5ff3b232f666f1d615fe1300e04d557229b752f413c` | `1080fbd` |
+| `output/translations/acts_14.json` | 28 | `f9e6b7fc1e149ead43d295e2f24b0376a70b07d54121ad4b9ef8b26d86b280f6` | `71fc426` |
 | `output/translations/acts_15.json` | 40 | `ee956d8b4e1b17b2f3bc5e1a81e74a5fb4a67808e81e0b54f829c75a58c6c9a7` | `1080fbd` |
 | `output/translations/acts_16.json` | 40 | `8d9639fd4d99452cbaa32ea7a007fd78907cc0f1cb727ed75fc1a2df4c294d52` | `1080fbd` |
 | `output/translations/acts_17.json` | 34 | `d5e20786e177982ff5b9d7f7eb3e4b157c1b858ffe0359f4b6420ebb8e830d6c` | `1080fbd` |
-| `output/translations/acts_18.json` | 28 | `589f6a318f14fe6d0769a83c40cbaff4d78438fc2d8137f158371db3c4a249eb` | `1080fbd` |
-| `output/translations/acts_19.json` | 40 | `08c51cc4fe314a601063d99d15ab8adac3f27f5778f3d7a371afc717da348818` | `1080fbd` |
+| `output/translations/acts_18.json` | 28 | `56aa3e99bb42de4e8cca2eb279dc4c4ee48dd2e644b5485f32b6a870d34d4115` | `71fc426` |
+| `output/translations/acts_19.json` | 40 | `f5c2e80e211f18cdec827595a44efdd19d1d1cc2aeb3268b7d68c622482a4e4c` | `71fc426` |
 | `output/translations/acts_20.json` | 38 | `714ada0661dd8162653467035089d2ef8be0c58b4002549f443ba46ef6c791a7` | `1080fbd` |
-| `output/translations/acts_21.json` | 40 | `4fc22b11999b1762ff9a5c690186dd353e8f1b96f2e1852db928a4cf4804b773` | `1080fbd` |
+| `output/translations/acts_21.json` | 40 | `346d2d55d943792b4c55567b5e7ab99706d6813687fb71037a8a0d00cdc4b4a1` | `71fc426` |
 | `output/translations/acts_22.json` | 30 | `773cfb98fc9568ae526a2b0a61de891cba4d03eb811809ae7e2b658d74118ee4` | `6da4534` |
 | `output/translations/acts_23.json` | 35 | `c8e7bbb1b25893cbc3a9dd2886bce32f273b3d5f577fe143601a07fc22ca5101` | `219924c` |
 | `output/translations/acts_24.json` | 26 | `2f7f5d3d9b84103b436f5fd447852d10a87774c37052961e969347d3f249bb07` | `284a123` |
 | `output/translations/acts_25.json` | 27 | `bd8931e619931f9d630a8fb712844e33b003181b34fe8dbdb6185a78fab8bca3` | `fd331b0` |
 | `output/translations/acts_26.json` | 32 | `3a9f1a7faae533dcaf0efbdd6382f27038f55b1ae09807a63defdea51f470056` | `ea5afd7` |
 | `output/translations/acts_27.json` | 44 | `f6c2f9ea202de754615858327072584a79ee704ecdcba91470f1e5c83a6264f5` | `6c4c9cf` |
-| `output/translations/acts_28.json` | 30 | `8c8900803f96b8ec89b98a6bd9a1095639bd95595a1f7fa36eb5dd4928acb447` | `—` |
+| `output/translations/acts_28.json` | 30 | `8c8900803f96b8ec89b98a6bd9a1095639bd95595a1f7fa36eb5dd4928acb447` | `e9ffbd7` |
+| `output/translations/john_01.json` | 51 | `a739bf3c2087252bc013e961ba3d3e5cd933eb44528a325feb58ed2dfcddefb7` | `—` |
 | `output/translations/luke_01.json` | 80 | `4599f18b5580e9626ee55a25f352e3fdd5d81eb680e36dcee241fd63fcf05a26` | `69843ff` |
 | `output/translations/luke_02.json` | 52 | `814870d15ca1db04347a6b7a7e3965cdcbd094d522e1ff0fd84101cec32004bf` | `256d60f` |
 | `output/translations/luke_03.json` | 38 | `4d2a0c73362590f1062edeaa2e96f2d152f559a523182da27fe0e1c837a7a247` | `131e97b` |

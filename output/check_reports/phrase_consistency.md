@@ -24,8 +24,8 @@
 ## ἀμὴν λέγω ὑμῖν
 **Doc:** `amen_saying_formula_2026-04.md`  
 **Expected Thai contains:** `เราบอกความจริง`  
-**Total matching verses:** 41  
-**OK:** 39 · **Excepted:** 2 · **Violations:** 0
+**Total matching verses:** 42  
+**OK:** 40 · **Excepted:** 2 · **Violations:** 0
 
 ### Documented exceptions (not violations)
 - **Matthew 25:12** — bridegroom to excluded foolish virgins; พวกเจ้า = downward-distancing register, documented per-verse as principled variation
@@ -37,8 +37,8 @@
 ## ὁ υἱὸς τοῦ ἀνθρώπου (Christological title)
 **Doc:** `son_of_man_disambiguation_2026-04.md`  
 **Expected Thai contains:** `บุตรมนุษย์`  
-**Total matching verses:** 62  
-**OK:** 62 · **Excepted:** 0 · **Violations:** 0
+**Total matching verses:** 63  
+**OK:** 63 · **Excepted:** 0 · **Violations:** 0
 
 ### Documented exceptions (not violations)
 - **Hebrews 2:6** — Ps 8:4 LXX citation; generic υἱὸς ἀνθρώπου, not Christological title — expected to render differently; documented per son_of_man_disambiguation doc
@@ -46,8 +46,8 @@
 ## πνεῦμα ἅγιον
 **Doc:** `RULES.md §4 + glossary`  
 **Expected Thai contains:** `พระวิญญาณบริสุทธิ์`  
-**Total matching verses:** 35  
-**OK:** 35 · **Excepted:** 0 · **Violations:** 0
+**Total matching verses:** 36  
+**OK:** 36 · **Excepted:** 0 · **Violations:** 0
 
 ## ἐκκλησία (Christian community sense)
 **Doc:** `ekklesia_2026-04.md`  
