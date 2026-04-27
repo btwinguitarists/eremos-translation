@@ -12,8 +12,8 @@
 ## βασιλεία τοῦ θεοῦ
 **Doc:** `basileia_kingdom_rendering_2026-04.md`  
 **Expected Thai contains:** `อาณาจักรของพระเจ้า`  
-**Total matching verses:** 55  
-**OK:** 55 · **Excepted:** 0 · **Violations:** 0
+**Total matching verses:** 57  
+**OK:** 57 · **Excepted:** 0 · **Violations:** 0
 
 ## βασιλεία τῶν οὐρανῶν (Matthew)
 **Doc:** `basileia_kingdom_rendering_2026-04.md`  
@@ -21,11 +21,11 @@
 **Total matching verses:** 31  
 **OK:** 31 · **Excepted:** 0 · **Violations:** 0
 
-## ἀμὴν λέγω ὑμῖν
+## ἀμὴν λέγω ὑμῖν (Synoptic single)
 **Doc:** `amen_saying_formula_2026-04.md`  
 **Expected Thai contains:** `เราบอกความจริง`  
-**Total matching verses:** 42  
-**OK:** 40 · **Excepted:** 2 · **Violations:** 0
+**Total matching verses:** 41  
+**OK:** 39 · **Excepted:** 2 · **Violations:** 0
 
 ### Documented exceptions (not violations)
 - **Matthew 25:12** — bridegroom to excluded foolish virgins; พวกเจ้า = downward-distancing register, documented per-verse as principled variation
@@ -34,11 +34,17 @@
 - **Matthew 5:26** — σοι singular; different formula
 - **Matthew 13:17** — pending normalization per MAT end-of-book review
 
+## ἀμὴν ἀμὴν λέγω ὑμῖν (Johannine doubled)
+**Doc:** `johannine_doubled_amen_2026-04.md`  
+**Expected Thai contains:** `อาเมน อาเมน`  
+**Total matching verses:** 1  
+**OK:** 1 · **Excepted:** 0 · **Violations:** 0
+
 ## ὁ υἱὸς τοῦ ἀνθρώπου (Christological title)
 **Doc:** `son_of_man_disambiguation_2026-04.md`  
 **Expected Thai contains:** `บุตรมนุษย์`  
-**Total matching verses:** 63  
-**OK:** 63 · **Excepted:** 0 · **Violations:** 0
+**Total matching verses:** 65  
+**OK:** 65 · **Excepted:** 0 · **Violations:** 0
 
 ### Documented exceptions (not violations)
 - **Hebrews 2:6** — Ps 8:4 LXX citation; generic υἱὸς ἀνθρώπου, not Christological title — expected to render differently; documented per son_of_man_disambiguation doc

@@ -96,18 +96,20 @@ PHRASE_LOCKS = [
         "exceptions": {},
     },
 
-    # amen_saying_formula_2026-04.md
+    # amen_saying_formula_2026-04.md (Synoptic single-amen)
     # Matches the distinctive prefix "เราบอกความจริง"; the pronoun can vary by
     # register (พวกท่าน default; พวกเจ้า in principled downward-address contexts
     # like parable-judgment scenes; ท่านทั้งหลาย as an earlier Markan form).
     # The core lock is the "เราบอกความจริง" stem; downstream pronoun/preposition
     # variations are either documented exceptions or pending normalization.
+    # Negative lookbehind excludes Johannine doubled-amen (handled by the next
+    # lock).
     {
         "doc": "amen_saying_formula_2026-04.md",
-        "label": "ἀμὴν λέγω ὑμῖν",
+        "label": "ἀμὴν λέγω ὑμῖν (Synoptic single)",
         "greek_patterns": [
-            r"ἀμὴν\s+λέγω\s+ὑμῖν",
-            r"Ἀμὴν\s+λέγω\s+ὑμῖν",
+            r"(?<!ἀμὴν\s)(?<!Ἀμὴν\s)ἀμὴν\s+λέγω\s+ὑμῖν",
+            r"(?<!ἀμὴν\s)(?<!Ἀμὴν\s)Ἀμὴν\s+λέγω\s+ὑμῖν",
         ],
         "expected_thai_contains": "เราบอกความจริง",
         "must_not_contain": [],
@@ -120,6 +122,22 @@ PHRASE_LOCKS = [
             "Matthew 5:26": "σοι singular; different formula",
             "Matthew 13:17": "pending normalization per MAT end-of-book review",
         },
+    },
+
+    # johannine_doubled_amen_2026-04.md (John only — Aramaic-embed treatment)
+    # Distinct from the Synoptic single-amen lock above. The doubled form
+    # appears 25× in John and renders "อาเมน อาเมน" preserving the Aramaic
+    # word as embed (consistent with aramaic_transliterations_2026-04.md).
+    {
+        "doc": "johannine_doubled_amen_2026-04.md",
+        "label": "ἀμὴν ἀμὴν λέγω ὑμῖν (Johannine doubled)",
+        "greek_patterns": [
+            r"ἀμὴν\s+ἀμὴν\s+λέγω\s+ὑμῖν",
+            r"Ἀμὴν\s+ἀμὴν\s+λέγω\s+ὑμῖν",
+        ],
+        "expected_thai_contains": "อาเมน อาเมน",
+        "must_not_contain": [],
+        "exceptions": {},
     },
 
     # son_of_man_disambiguation_2026-04.md

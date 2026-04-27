@@ -38,7 +38,9 @@ The drafting process reads SBLGNT + MACULA morph + BSB English (sanity check, ne
 - ψυχή → จิตวิญญาณ / ชีวิต (context); πνεῦμα (anthropological) → จิต — distinct from πνεῦμα ἅγιον → พระวิญญาณบริสุทธิ์
 - ὁ υἱὸς τοῦ ἀνθρώπου (Christological title) → บุตรมนุษย์; υἱοὶ τῶν ἀνθρώπων (humanity) → บุตรของมนุษย์
 - Greek historic-present verbs → Thai past tense
-- ἀμὴν λέγω ὑμῖν → เราบอกความจริงแก่พวกท่าน(ว่า)
+- ἀμὴν λέγω ὑμῖν (Synoptic single) → เราบอกความจริงแก่พวกท่าน(ว่า)
+- ἀμὴν ἀμὴν λέγω ὑμῖν (Johannine doubled, 25× in John) → อาเมน อาเมน เราบอกแก่พวกท่านว่า (Aramaic-embed treatment)
+- μονογενὴς θεὸς (JHN 1:18) → พระบุตรองค์เดียวผู้ทรงเป็นพระเจ้าด้วย (exception to standard μονογενής → องค์เดียว lock for the compound)
 - Aramaic embeds (Talitha cumi, Ephphatha, Abba, etc.) → preserve transliteration AND Greek translation
 - Inclusion-variant Path A: Tier 1 short-phrase `[...]`; Tier 2 whole-verse footer note; Tier 3 large blocks `⟦...⟧`
 - Parable characters representing God → human register, never ราชาศัพท์

@@ -41,7 +41,8 @@ When writing a new doc, follow the existing structure: title with Greek + Thai g
 |---|---|---|
 | [historic_present](historic_present_2026-04.md) | Greek historic-present verbs (mid-narrative present-tense) render as Thai past tense; do not preserve present morphology | Mark end-of-book |
 | [markan_euthys_immediately](markan_euthys_immediately_2026-04.md) | εὐθύς / εὐθέως: context-sensitive choice from a small consistent set (ทันใดนั้น / ในทันใด / และก็); not a single locked rendering | Mark end-of-book |
-| [amen_saying_formula](amen_saying_formula_2026-04.md) | ἀμὴν λέγω ὑμῖν → "เราบอกความจริงแก่พวกท่าน(ว่า)" — uniform across all dominical solemn pronouncements | Mark end-of-book |
+| [amen_saying_formula](amen_saying_formula_2026-04.md) | ἀμὴν λέγω ὑμῖν (Synoptic single) → "เราบอกความจริงแก่พวกท่าน(ว่า)" | Mark end-of-book |
+| [johannine_doubled_amen](johannine_doubled_amen_2026-04.md) | ἀμὴν ἀμὴν λέγω ὑμῖν (Johannine doubled, 25× in John) → "อาเมน อาเมน เราบอกแก่พวกท่านว่า" — Aramaic-embed treatment | John 1 spot-review |
 | [aramaic_transliterations](aramaic_transliterations_2026-04.md) | Aramaic words Mark embeds (Talitha cumi, Ephphatha, Abba, etc.) — preserve Thai-script transliteration AND Mark's own Greek translation | Mark end-of-book |
 
 ## Textual variants (how SBLGNT-omitted readings appear in the Thai text)
