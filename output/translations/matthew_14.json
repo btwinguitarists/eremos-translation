@@ -8,11 +8,23 @@
     "translation": {
       "thai": "ในเวลานั้น เฮโรดเจ้าผู้ครองแคว้นได้ยินเรื่องราวเกี่ยวกับพระเยซู",
       "thai_literal": "ใน นั้น เวลา ได้ยิน เฮโรด ผู้ เจ้าเมืองส่วนที่สี่ ข่าว เกี่ยวกับพระเยซู",
-      "thai_summary": "มัทธิวเริ่มฉากใหม่ต่อจากการที่พระเยซูถูกปฏิเสธที่นาซาเร็ธ (13:53-58) โดยย้อนไปถึงเฮโรดอันทิปาส (ลูกชายเฮโรดมหาราชใน มธ 2) ผู้ปกครองแคว้นกาลิลีและเปเรียในสมัยพระเยซู คำ «เจ้าผู้ครองแคว้น» (τετραάρχης) หมายถึงผู้ปกครองส่วนหนึ่งในสี่ของอาณาจักรเดิมของบิดา",
+      "thai_summary": "มัทธิวเริ่มฉากใหม่ต่อจากการที่พระเยซูถูกปฏิเสธที่นาซาเร็ธ (13:53-58) โดยย้อนไปถึงเฮโรดอันทิปาส (ลูกชายเฮโรดมหาราชใน มธ 2) ผู้ปกครองแคว้นกาลิลีและเปเรียในสมัยพระเยซู คำ “เจ้าผู้ครองแคว้น” (τετραάρχης) หมายถึงผู้ปกครองส่วนหนึ่งในสี่ของอาณาจักรเดิมของบิดา",
       "key_decisions": [
-        {"greek": "Ἐν ἐκείνῳ τῷ καιρῷ", "thai": "ในเวลานั้น", "rationale": "Per uW writing-newevent: Matthean new-event marker introducing next major event. καιρός (period/season) vs. χρόνος (chronological time) — here discourse-pivoting temporal frame. Same pattern as MT 11:25, 12:1. Standard Thai 'ในเวลานั้น'."},
-        {"greek": "Ἡρῴδης ὁ τετραάρχης", "thai": "เฮโรดเจ้าผู้ครองแคว้น", "rationale": "Herod Antipas, son of Herod the Great (MT 2). τετραάρχης literally 'ruler of a fourth' (of the tetrarchy into which Herod the Great's kingdom was divided). Thai 'เจ้าผู้ครองแคว้น' = 'regional lord/ruler' — captures administrative authority over a division without requiring obscure 'ส่วนที่สี่' literalism. Verse 9 will call him βασιλεύς (กษัตริย์) as courtesy title. NEW GLOSSARY: Ἡρῴδης → เฮโรด; τετραάρχης → เจ้าผู้ครองแคว้น."},
-        {"greek": "τὴν ἀκοὴν Ἰησοῦ", "thai": "เรื่องราวเกี่ยวกับพระเยซู", "rationale": "ἀκοή here = 'report/news heard.' Matches Mark 6:14 glossary pattern 'ได้ยินเรื่องของพระเยซู'. Objective genitive Ἰησοῦ 'about Jesus.'"}
+        {
+          "greek": "Ἐν ἐκείνῳ τῷ καιρῷ",
+          "thai": "ในเวลานั้น",
+          "rationale": "Per uW writing-newevent: Matthean new-event marker introducing next major event. καιρός (period/season) vs. χρόνος (chronological time) — here discourse-pivoting temporal frame. Same pattern as MT 11:25, 12:1. Standard Thai 'ในเวลานั้น'."
+        },
+        {
+          "greek": "Ἡρῴδης ὁ τετραάρχης",
+          "thai": "เฮโรดเจ้าผู้ครองแคว้น",
+          "rationale": "Herod Antipas, son of Herod the Great (MT 2). τετραάρχης literally 'ruler of a fourth' (of the tetrarchy into which Herod the Great's kingdom was divided). Thai 'เจ้าผู้ครองแคว้น' = 'regional lord/ruler' — captures administrative authority over a division without requiring obscure 'ส่วนที่สี่' literalism. Verse 9 will call him βασιλεύς (กษัตริย์) as courtesy title. NEW GLOSSARY: Ἡρῴδης → เฮโรด; τετραάρχης → เจ้าผู้ครองแคว้น."
+        },
+        {
+          "greek": "τὴν ἀκοὴν Ἰησοῦ",
+          "thai": "เรื่องราวเกี่ยวกับพระเยซู",
+          "rationale": "ἀκοή here = 'report/news heard.' Matches Mark 6:14 glossary pattern 'ได้ยินเรื่องของพระเยซู'. Objective genitive Ἰησοῦ 'about Jesus.'"
+        }
       ],
       "notes": "NO HAPAX. Matthew uses this brief Herod-frame (14:1-2) to trigger the flashback of John's execution (14:3-12). Historical context: Herod Antipas ruled Galilee and Perea 4 BC - AD 39. ἀκοή appears as the content-of-what-was-heard (cf. MT 4:24 similar usage)."
     }
@@ -24,14 +36,30 @@
     "greek": "καὶ εἶπεν τοῖς παισὶν αὐτοῦ·Οὗτός ἐστιν Ἰωάννης ὁ βαπτιστής·αὐτὸς ἠγέρθη ἀπὸ τῶν νεκρῶν,καὶ διὰ τοῦτο αἱ δυνάμεις ἐνεργοῦσιν ἐν αὐτῷ.",
     "bsb_english": "and said to his servants, \"This is John the Baptist; he has risen from the dead! That is why miraculous powers are at work in him.\"",
     "translation": {
-      "thai": "แล้วกล่าวกับข้าราชบริพารของตนว่า «ผู้นี้คือยอห์นผู้ให้บัพติศมา เขาฟื้นขึ้นจากความตายแล้ว เพราะเหตุนี้ฤทธิ์อำนาจต่าง ๆ จึงสำแดงออกทางเขา»",
+      "thai": "แล้วกล่าวกับข้าราชบริพารของตนว่า “ผู้นี้คือยอห์นผู้ให้บัพติศมา เขาฟื้นขึ้นจากความตายแล้ว เพราะเหตุนี้ฤทธิ์อำนาจต่าง ๆ จึงสำแดงออกทางเขา”",
       "thai_literal": "และ กล่าว แก่ บรรดาข้าราช ของเขา ผู้นี้ คือ ยอห์น ผู้ ให้บัพติศมา เขา ถูกทำให้ฟื้น จาก บรรดาผู้ตาย และ เพราะ นี้ บรรดาฤทธิ์ ทำงาน ใน เขา",
       "thai_summary": "เฮโรดรู้สึกผิดฝังใจ — เขาสั่งตัดศีรษะยอห์น แล้วตอนนี้ได้ยินถึงการอัศจรรย์ของพระเยซู จึงเข้าใจผิดคิดว่ายอห์นฟื้นคืนชีพมาเล่นงานตน ความเชื่อเรื่องบุคคลฟื้นคืนชีพก่อนวันพิพากษาไม่ใช่แนวคิดปกติของยิว เฮโรดพูดด้วยความกลัวมากกว่าด้วยความเข้าใจทางศาสนา",
       "key_decisions": [
-        {"greek": "τοῖς παισὶν αὐτοῦ", "thai": "ข้าราชบริพารของตน", "rationale": "παῖς here = 'court attendant/servant of a ruler' (not 'child'). Since Herod is a ruler, Thai 'ข้าราชบริพาร' (courtly retinue) captures the administrative-personal context better than generic 'คนรับใช้'. NEW GLOSSARY: παῖς (of a ruler) → ข้าราชบริพาร."},
-        {"greek": "Οὗτός ἐστιν Ἰωάννης ὁ βαπτιστής", "thai": "ผู้นี้คือยอห์นผู้ให้บัพติศมา", "rationale": "Per uW writing-pronouns: Οὗτος refers to Jesus (Herod speaks). 'ผู้นี้' = 'this person.' ὁ βαπτιστής 'the Baptist' per glossary = 'ผู้ให้บัพติศมา' (lit. 'one who gives baptism') — established in Mark 6. NEW GLOSSARY: Ἰωάννης → ยอห์น; βαπτιστής → ผู้ให้บัพติศมา."},
-        {"greek": "αὐτὸς ἠγέρθη ἀπὸ τῶν νεκρῶν", "thai": "เขาฟื้นขึ้นจากความตายแล้ว", "rationale": "Per uW figs-idiom + figs-activepassive: passive-resurrection idiom. Thai 'ฟื้นขึ้นจากความตาย' standard Thai Christian resurrection-phrase. Plain 'เขา' for John — not divine register (Herod's register about whom he thinks Jesus is). ἀπὸ τῶν νεκρῶν 'from the dead ones' substantival adjective."},
-        {"greek": "αἱ δυνάμεις ἐνεργοῦσιν ἐν αὐτῷ", "thai": "ฤทธิ์อำนาจต่าง ๆ จึงสำแดงออกทางเขา", "rationale": "Per uW figs-personification: δυνάμεις 'powers' (plural, miraculous powers) speaking as if they 'work' in Jesus. ἐνεργέω 'to be at work, operate.' Thai 'ฤทธิ์อำนาจสำแดงออก' captures the active-manifestation sense. Divine register withheld because Herod speaks — but 'ทางเขา' (through him) not divine-'ผ่านพระองค์' since Herod doesn't acknowledge divinity. Cf. δυνάμεις rendered 'การอัศจรรย์/ฤทธานุภาพ' at MT 13:54, 58. NEW GLOSSARY: δυνάμεις (miraculous powers, plural) → ฤทธิ์อำนาจ."}
+        {
+          "greek": "τοῖς παισὶν αὐτοῦ",
+          "thai": "ข้าราชบริพารของตน",
+          "rationale": "παῖς here = 'court attendant/servant of a ruler' (not 'child'). Since Herod is a ruler, Thai 'ข้าราชบริพาร' (courtly retinue) captures the administrative-personal context better than generic 'คนรับใช้'. NEW GLOSSARY: παῖς (of a ruler) → ข้าราชบริพาร."
+        },
+        {
+          "greek": "Οὗτός ἐστιν Ἰωάννης ὁ βαπτιστής",
+          "thai": "ผู้นี้คือยอห์นผู้ให้บัพติศมา",
+          "rationale": "Per uW writing-pronouns: Οὗτος refers to Jesus (Herod speaks). 'ผู้นี้' = 'this person.' ὁ βαπτιστής 'the Baptist' per glossary = 'ผู้ให้บัพติศมา' (lit. 'one who gives baptism') — established in Mark 6. NEW GLOSSARY: Ἰωάννης → ยอห์น; βαπτιστής → ผู้ให้บัพติศมา."
+        },
+        {
+          "greek": "αὐτὸς ἠγέρθη ἀπὸ τῶν νεκρῶν",
+          "thai": "เขาฟื้นขึ้นจากความตายแล้ว",
+          "rationale": "Per uW figs-idiom + figs-activepassive: passive-resurrection idiom. Thai 'ฟื้นขึ้นจากความตาย' standard Thai Christian resurrection-phrase. Plain 'เขา' for John — not divine register (Herod's register about whom he thinks Jesus is). ἀπὸ τῶν νεκρῶν 'from the dead ones' substantival adjective."
+        },
+        {
+          "greek": "αἱ δυνάμεις ἐνεργοῦσιν ἐν αὐτῷ",
+          "thai": "ฤทธิ์อำนาจต่าง ๆ จึงสำแดงออกทางเขา",
+          "rationale": "Per uW figs-personification: δυνάμεις 'powers' (plural, miraculous powers) speaking as if they 'work' in Jesus. ἐνεργέω 'to be at work, operate.' Thai 'ฤทธิ์อำนาจสำแดงออก' captures the active-manifestation sense. Divine register withheld because Herod speaks — but 'ทางเขา' (through him) not divine-'ผ่านพระองค์' since Herod doesn't acknowledge divinity. Cf. δυνάμεις rendered 'การอัศจรรย์/ฤทธานุภาพ' at MT 13:54, 58. NEW GLOSSARY: δυνάμεις (miraculous powers, plural) → ฤทธิ์อำนาจ."
+        }
       ],
       "notes": "Register note: Herod is the speaker; he does NOT recognize Jesus as divine. Translation deliberately uses plain 'เขา' not divine 'พระองค์/ทรง-' in Herod's direct speech about Jesus. This matches RULES.md §3 (register tracks speaker's perspective). NO HAPAX. Mark 6:14 parallel uses similar δυνάμεις-language."
     }
@@ -47,9 +75,21 @@
       "thai_literal": "เพราะ เฮโรด จับ ยอห์น ผูกมัด เขา และ ใน เรือนจำ ใส่ไว้ เพราะเหตุ เฮโรเดียส ภรรยา ฟีลิป น้องชาย ของเขา",
       "thai_summary": "มัทธิวเริ่ม flashback อธิบายที่มาที่เฮโรดสั่งตายยอห์น เหตุผลคือเรื่องชู้สาว: เฮโรดอันทิปาสหย่าภรรยาเดิมแล้วแต่งงานกับเฮโรเดียส ภรรยาของฟีลิปน้องชายของตนเอง (ซึ่งก็หย่ากับฟีลิปเช่นกัน) ยอห์นชี้ว่าผิดต่อธรรมบัญญัติใน ลนต 20:21 ที่ห้ามสมรสกับภรรยาของน้องชายหรือพี่ชายที่ยังมีชีวิตอยู่",
       "key_decisions": [
-        {"greek": "Ὁ γὰρ Ἡρῴδης", "thai": "เพราะก่อนหน้านี้ เฮโรด", "rationale": "Per uW writing-background: γάρ introduces flashback (14:3-12). Thai needs explicit temporal-frame marker 'ก่อนหน้านี้' to signal flashback since Thai lacks the same background-γάρ convention. Per uW alternate: 'Now sometime earlier.'"},
-        {"greek": "κρατήσας τὸν Ἰωάννην ἔδησεν αὐτὸν καὶ ἐν φυλακῇ ἀπέθετο", "thai": "ได้สั่งจับยอห์น จองจำเขาและขังไว้ในเรือนจำ", "rationale": "Per uW figs-explicit: Herod sent soldiers; he didn't personally arrest. Thai 'สั่งจับ' (ordered-arrest) captures causative. κρατέω 'seize' + ἔδησεν 'bound' + ἐν φυλακῇ ἀπέθετο 'put in prison' = three-fold legal sequence. Thai 'จองจำ' (confine-by-binding) + 'ขัง...ในเรือนจำ' preserves the sequence without over-translation."},
-        {"greek": "διὰ Ἡρῳδιάδα τὴν γυναῖκα Φιλίππου τοῦ ἀδελφοῦ αὐτοῦ", "thai": "เนื่องด้วยนางเฮโรเดียสภรรยาของฟีลิปน้องชายของตน", "rationale": "Per glossary (MRK 6:17): 'เพราะเหตุนางเฮโรเดียส ภรรยาของฟีลิปน้องชายของตน.' Preserving established renderings: Ἡρῳδιάς → นางเฮโรเดียส; Φίλιππος → ฟีลิป (glossary). ἀδελφός 'brother' ambiguous on age — uW notes 'slightly more likely Philip was older' but Mark glossary uses 'น้องชาย' (younger). Retaining Mark pattern for glossary consistency; age-ambiguity documented here. NEW GLOSSARY: Ἡρῳδιάς → นางเฮโรเดียส; κρατέω → สั่งจับ (of a ruler); φυλακή → เรือนจำ."}
+        {
+          "greek": "Ὁ γὰρ Ἡρῴδης",
+          "thai": "เพราะก่อนหน้านี้ เฮโรด",
+          "rationale": "Per uW writing-background: γάρ introduces flashback (14:3-12). Thai needs explicit temporal-frame marker 'ก่อนหน้านี้' to signal flashback since Thai lacks the same background-γάρ convention. Per uW alternate: 'Now sometime earlier.'"
+        },
+        {
+          "greek": "κρατήσας τὸν Ἰωάννην ἔδησεν αὐτὸν καὶ ἐν φυλακῇ ἀπέθετο",
+          "thai": "ได้สั่งจับยอห์น จองจำเขาและขังไว้ในเรือนจำ",
+          "rationale": "Per uW figs-explicit: Herod sent soldiers; he didn't personally arrest. Thai 'สั่งจับ' (ordered-arrest) captures causative. κρατέω 'seize' + ἔδησεν 'bound' + ἐν φυλακῇ ἀπέθετο 'put in prison' = three-fold legal sequence. Thai 'จองจำ' (confine-by-binding) + 'ขัง...ในเรือนจำ' preserves the sequence without over-translation."
+        },
+        {
+          "greek": "διὰ Ἡρῳδιάδα τὴν γυναῖκα Φιλίππου τοῦ ἀδελφοῦ αὐτοῦ",
+          "thai": "เนื่องด้วยนางเฮโรเดียสภรรยาของฟีลิปน้องชายของตน",
+          "rationale": "Per glossary (MRK 6:17): 'เพราะเหตุนางเฮโรเดียส ภรรยาของฟีลิปน้องชายของตน.' Preserving established renderings: Ἡρῳδιάς → นางเฮโรเดียส; Φίλιππος → ฟีลิป (glossary). ἀδελφός 'brother' ambiguous on age — uW notes 'slightly more likely Philip was older' but Mark glossary uses 'น้องชาย' (younger). Retaining Mark pattern for glossary consistency; age-ambiguity documented here. NEW GLOSSARY: Ἡρῳδιάς → นางเฮโรเดียส; κρατέω → สั่งจับ (of a ruler); φυλακή → เรือนจำ."
+        }
       ],
       "notes": "BACKGROUND/FLASHBACK opens (14:3-12). Per uW writing-background, the γάρ-clause explains what Herod's current fear (v.2) arose from. ADDED TO NT_OT_CITATIONS: possible allusion to Lev 20:21 prohibition — see v.4 notes. Parallel: Mark 6:17-29 (longer Markan account). ἀδελφός age-ambiguity: uW leans older, Mark glossary pattern uses 'น้องชาย'; documented choice for continuity."
     }
@@ -61,12 +101,20 @@
     "greek": "ἔλεγεν γὰρ αὐτῷ ὁ Ἰωάννης·Οὐκ ἔξεστίν σοι ἔχειν αὐτήν·",
     "bsb_english": "because John had been telling him, \"It is not lawful for you to have her.\"",
     "translation": {
-      "thai": "เพราะยอห์นเคยกล่าวกับเฮโรดว่า «เป็นการไม่ชอบด้วยธรรมบัญญัติที่ท่านจะได้นางเป็นภรรยา»",
+      "thai": "เพราะยอห์นเคยกล่าวกับเฮโรดว่า “เป็นการไม่ชอบด้วยธรรมบัญญัติที่ท่านจะได้นางเป็นภรรยา”",
       "thai_literal": "เพราะ กล่าว แก่ เขา ยอห์น ไม่ ได้รับอนุญาต แก่ท่าน ที่จะมี นาง",
-      "thai_summary": "ยอห์นผู้ให้บัพติศมาต่อต้านการสมรสของเฮโรดอย่างต่อเนื่อง (imperfect ἔλεγεν «เคยกล่าว» ซ้ำ ๆ) อ้างธรรมบัญญัติในเลวีนิติ 20:21 ที่ห้ามสมรสกับภรรยาของน้องชายขณะน้องชายยังมีชีวิตอยู่ การที่ยอห์นยืนหยัดสะท้อนลักษณะผู้เผยพระวจนะในแบบอย่างเอลียาห์ที่กล้าเผชิญกษัตริย์",
+      "thai_summary": "ยอห์นผู้ให้บัพติศมาต่อต้านการสมรสของเฮโรดอย่างต่อเนื่อง (imperfect ἔλεγεν “เคยกล่าว” ซ้ำ ๆ) อ้างธรรมบัญญัติในเลวีนิติ 20:21 ที่ห้ามสมรสกับภรรยาของน้องชายขณะน้องชายยังมีชีวิตอยู่ การที่ยอห์นยืนหยัดสะท้อนลักษณะผู้เผยพระวจนะในแบบอย่างเอลียาห์ที่กล้าเผชิญกษัตริย์",
       "key_decisions": [
-        {"greek": "ἔλεγεν γὰρ αὐτῷ", "thai": "เพราะยอห์นเคยกล่าวกับเฮโรด", "rationale": "Per uW writing-pronouns: αὐτῷ = Herod, not John. Explicit naming of Herod in Thai for clarity. ἔλεγεν imperfect = habitual/repeated past — Thai 'เคยกล่าว' captures habitual-past better than aorist 'กล่าว'."},
-        {"greek": "Οὐκ ἔξεστίν σοι ἔχειν αὐτήν", "thai": "เป็นการไม่ชอบด้วยธรรมบัญญัติที่ท่านจะได้นางเป็นภรรยา", "rationale": "Per uW figs-quotations: direct quotation. ἔξεστιν = 'it is lawful/permitted' in the specifically-Torah sense (cf. LXX Lev usage). Thai 'ไม่ชอบด้วยธรรมบัญญัติ' = 'against the Torah/Mosaic Law' — culturally precise for Jewish legal-religious context. Plain 'ท่าน' (not humble-register) — John speaks as prophet to ruler, formal but not subservient. ἔχειν αὐτήν idiomatic 'have her (as wife).' NEW GLOSSARY: οὐκ ἔξεστιν (Torah-context) → ไม่ชอบด้วยธรรมบัญญัติ."}
+        {
+          "greek": "ἔλεγεν γὰρ αὐτῷ",
+          "thai": "เพราะยอห์นเคยกล่าวกับเฮโรด",
+          "rationale": "Per uW writing-pronouns: αὐτῷ = Herod, not John. Explicit naming of Herod in Thai for clarity. ἔλεγεν imperfect = habitual/repeated past — Thai 'เคยกล่าว' captures habitual-past better than aorist 'กล่าว'."
+        },
+        {
+          "greek": "Οὐκ ἔξεστίν σοι ἔχειν αὐτήν",
+          "thai": "เป็นการไม่ชอบด้วยธรรมบัญญัติที่ท่านจะได้นางเป็นภรรยา",
+          "rationale": "Per uW figs-quotations: direct quotation. ἔξεστιν = 'it is lawful/permitted' in the specifically-Torah sense (cf. LXX Lev usage). Thai 'ไม่ชอบด้วยธรรมบัญญัติ' = 'against the Torah/Mosaic Law' — culturally precise for Jewish legal-religious context. Plain 'ท่าน' (not humble-register) — John speaks as prophet to ruler, formal but not subservient. ἔχειν αὐτήν idiomatic 'have her (as wife).' NEW GLOSSARY: οὐκ ἔξεστιν (Torah-context) → ไม่ชอบด้วยธรรมบัญญัติ."
+        }
       ],
       "notes": "OT ALLUSION to Lev 20:21 (prohibition on taking brother's wife while brother lives). ADDED TO NT_OT_CITATIONS. John's rebuke follows the prophetic-confrontation pattern of Elijah vs. Ahab (1 Kings 21) and Nathan vs. David (2 Sam 12). imperfect-tense ἔλεγεν signals repeated rebuke, not one-time statement. NO HAPAX."
     }
@@ -82,9 +130,21 @@
       "thai_literal": "และ ต้องการ เขา ที่จะฆ่า กลัว ฝูงชน เพราะ อย่าง ผู้เผยพระวจนะ เขา ถือไว้",
       "thai_summary": null,
       "key_decisions": [
-        {"greek": "θέλων αὐτὸν ἀποκτεῖναι", "thai": "แม้เฮโรดอยากฆ่ายอห์น", "rationale": "Per uW grammar-connect-logic-contrast: participle θέλων introduces contrast — 'wanting but not doing.' Thai 'แม้' (although) + explicit subject 'เฮโรด' for clarity since αὐτόν = John (different referent). NEW GLOSSARY: ἀποκτείνω → ฆ่า."},
-        {"greek": "ἐφοβήθη τὸν ὄχλον", "thai": "แต่ก็กลัวฝูงชน", "rationale": "Per uW figs-explicit: means Herod didn't kill John because he feared crowd-reaction (riot). Thai concise 'กลัวฝูงชน' with implied consequence preserved from context. Glossary ὄχλος → ฝูงชน."},
-        {"greek": "ὡς προφήτην αὐτὸν εἶχον", "thai": "พวกเขานับถือยอห์นว่าเป็นผู้เผยพระวจนะ", "rationale": "ἔχω + ὡς = 'regard as, consider as.' Thai 'นับถือ...ว่าเป็น...' standard. Glossary προφήτης → ผู้เผยพระวจนะ (established Mark 6). Explicit 'ยอห์น' for αὐτόν for Thai pronoun-clarity."}
+        {
+          "greek": "θέλων αὐτὸν ἀποκτεῖναι",
+          "thai": "แม้เฮโรดอยากฆ่ายอห์น",
+          "rationale": "Per uW grammar-connect-logic-contrast: participle θέλων introduces contrast — 'wanting but not doing.' Thai 'แม้' (although) + explicit subject 'เฮโรด' for clarity since αὐτόν = John (different referent). NEW GLOSSARY: ἀποκτείνω → ฆ่า."
+        },
+        {
+          "greek": "ἐφοβήθη τὸν ὄχλον",
+          "thai": "แต่ก็กลัวฝูงชน",
+          "rationale": "Per uW figs-explicit: means Herod didn't kill John because he feared crowd-reaction (riot). Thai concise 'กลัวฝูงชน' with implied consequence preserved from context. Glossary ὄχλος → ฝูงชน."
+        },
+        {
+          "greek": "ὡς προφήτην αὐτὸν εἶχον",
+          "thai": "พวกเขานับถือยอห์นว่าเป็นผู้เผยพระวจนะ",
+          "rationale": "ἔχω + ὡς = 'regard as, consider as.' Thai 'นับถือ...ว่าเป็น...' standard. Glossary προφήτης → ผู้เผยพระวจนะ (established Mark 6). Explicit 'ยอห์น' for αὐτόν for Thai pronoun-clarity."
+        }
       ],
       "notes": "NO HAPAX. Simple narrative setup for the birthday-banquet scene. No summary needed — pure narrative with no interpretive payload."
     }
@@ -100,10 +160,26 @@
       "thai_literal": "แต่ งานวันเกิด เมื่อเกิดขึ้น ของ เฮโรด เต้นรำ บุตรสาว ของ เฮโรเดียส ใน กลาง และ เป็นที่พอใจ แก่ เฮโรด",
       "thai_summary": "งานเลี้ยงวันเกิดของผู้ปกครองในสมัยโรมันเป็นโอกาสสำคัญที่ต้อนรับขุนนางและเจ้าหน้าที่ชั้นสูง บุตรสาวของเฮโรเดียส (ตามประวัติศาสตร์คือซาโลเม) คงจะยังเป็นวัยรุ่น การเต้นรำต่อหน้าแขกทั้งหมด (ส่วนใหญ่เป็นชาย) ในวัฒนธรรมยิวถือเป็นพฤติกรรมไม่เหมาะสมสำหรับหญิงจากราชวงศ์ แสดงถึงความเสื่อมของราชสำนักของเฮโรด",
       "key_decisions": [
-        {"greek": "γενεσίοις γενομένοις τοῦ Ἡρῴδου", "thai": "เมื่อถึงวันคล้ายวันเกิดของเฮโรด", "rationale": "Per glossary (MRK 6:21): 'τοῖς γενεσίοις αὐτοῦ' → 'วันคล้ายวันเกิด.' Per uW translate-unknown: γενέσια = birthday celebration. Dative-absolute 'with-birthday-having-come' temporal = Thai 'เมื่อถึง...'. NEW GLOSSARY: γενέσια → วันคล้ายวันเกิด."},
-        {"greek": "ὠρχήσατο ἡ θυγάτηρ τῆς Ἡρῳδιάδος", "thai": "บุตรสาวของนางเฮโรเดียสเต้นรำ", "rationale": "Per uW translate-kinship: daughter of Herodias by previous husband Philip, not daughter of Herod (stepdaughter). ὀρχέομαι 'dance' per glossary 'เต้นรำ.' NEW GLOSSARY: ὀρχέομαι → เต้นรำ; θυγάτηρ → บุตรสาว."},
-        {"greek": "ἐν τῷ μέσῳ", "thai": "ต่อหน้าแขกเหรื่อ", "rationale": "Per uW figs-explicit: 'in the midst' = danced so Herod and all guests could see her. Thai 'ต่อหน้าแขกเหรื่อ' (before all the guests) captures the social-display context better than literal 'ในท่ามกลาง'."},
-        {"greek": "ἤρεσεν τῷ Ἡρῴδῃ", "thai": "เป็นที่พอใจของเฮโรด", "rationale": "Per glossary (MRK 6:22): 'καὶ ἀρεσάσης τῷ Ἡρῴδῃ' → 'เป็นที่พอพระทัยเฮโรด.' Here plain 'พอใจ' without royal since glossary parallel used πῃ์ (royal-heart) for an earlier Mark text; for Matthew-simplicity, plain 'พอใจ.' NEW GLOSSARY: ἀρέσκω → พอใจ / เป็นที่พอใจ."}
+        {
+          "greek": "γενεσίοις γενομένοις τοῦ Ἡρῴδου",
+          "thai": "เมื่อถึงวันคล้ายวันเกิดของเฮโรด",
+          "rationale": "Per glossary (MRK 6:21): 'τοῖς γενεσίοις αὐτοῦ' → 'วันคล้ายวันเกิด.' Per uW translate-unknown: γενέσια = birthday celebration. Dative-absolute 'with-birthday-having-come' temporal = Thai 'เมื่อถึง...'. NEW GLOSSARY: γενέσια → วันคล้ายวันเกิด."
+        },
+        {
+          "greek": "ὠρχήσατο ἡ θυγάτηρ τῆς Ἡρῳδιάδος",
+          "thai": "บุตรสาวของนางเฮโรเดียสเต้นรำ",
+          "rationale": "Per uW translate-kinship: daughter of Herodias by previous husband Philip, not daughter of Herod (stepdaughter). ὀρχέομαι 'dance' per glossary 'เต้นรำ.' NEW GLOSSARY: ὀρχέομαι → เต้นรำ; θυγάτηρ → บุตรสาว."
+        },
+        {
+          "greek": "ἐν τῷ μέσῳ",
+          "thai": "ต่อหน้าแขกเหรื่อ",
+          "rationale": "Per uW figs-explicit: 'in the midst' = danced so Herod and all guests could see her. Thai 'ต่อหน้าแขกเหรื่อ' (before all the guests) captures the social-display context better than literal 'ในท่ามกลาง'."
+        },
+        {
+          "greek": "ἤρεσεν τῷ Ἡρῴδῃ",
+          "thai": "เป็นที่พอใจของเฮโรด",
+          "rationale": "Per glossary (MRK 6:22): 'καὶ ἀρεσάσης τῷ Ἡρῴδῃ' → 'เป็นที่พอพระทัยเฮโรด.' Here plain 'พอใจ' without royal since glossary parallel used πῃ์ (royal-heart) for an earlier Mark text; for Matthew-simplicity, plain 'พอใจ.' NEW GLOSSARY: ἀρέσκω → พอใจ / เป็นที่พอใจ."
+        }
       ],
       "notes": "NO HAPAX. Historical daughter according to Josephus (Ant. 18.5.4) is Salome. Matthew names only as 'daughter of Herodias' — narrative focus on Herodias's manipulation. Parallel Mark 6:21-22."
     }
@@ -119,9 +195,21 @@
       "thai_literal": "ซึ่ง ด้วย คำสาบาน สัญญา แก่ นาง ที่จะให้ สิ่งใด ถ้า นาง ขอ",
       "thai_summary": null,
       "key_decisions": [
-        {"greek": "ὅθεν", "thai": "ด้วยเหตุนั้น", "rationale": "Per uW grammar-connect-logic-result: ὅθεν 'because of which' introduces result of her dance pleasing him. Thai 'ด้วยเหตุนั้น' (for this reason) standard."},
-        {"greek": "μετὰ ὅρκου ὡμολόγησεν", "thai": "สัญญา...พร้อมคำสาบาน", "rationale": "ὁμολογέω 'promise, confess' + μετὰ ὅρκου 'with an oath.' Thai 'สัญญา...พร้อมคำสาบาน' preserves the formal-binding nature of the oath-backed promise. NEW GLOSSARY: ὅρκος → คำสาบาน; ὁμολογέω (promise-with-oath) → สัญญา."},
-        {"greek": "ὃ ἐὰν αἰτήσηται", "thai": "ทุกสิ่งที่นางขอ", "rationale": "Subjunctive-indefinite 'whatever she might ask.' Thai 'ทุกสิ่งที่นางขอ' (everything she asks). αἰτέω here contextually 'request from a superior.'"}
+        {
+          "greek": "ὅθεν",
+          "thai": "ด้วยเหตุนั้น",
+          "rationale": "Per uW grammar-connect-logic-result: ὅθεν 'because of which' introduces result of her dance pleasing him. Thai 'ด้วยเหตุนั้น' (for this reason) standard."
+        },
+        {
+          "greek": "μετὰ ὅρκου ὡμολόγησεν",
+          "thai": "สัญญา...พร้อมคำสาบาน",
+          "rationale": "ὁμολογέω 'promise, confess' + μετὰ ὅρκου 'with an oath.' Thai 'สัญญา...พร้อมคำสาบาน' preserves the formal-binding nature of the oath-backed promise. NEW GLOSSARY: ὅρκος → คำสาบาน; ὁμολογέω (promise-with-oath) → สัญญา."
+        },
+        {
+          "greek": "ὃ ἐὰν αἰτήσηται",
+          "thai": "ทุกสิ่งที่นางขอ",
+          "rationale": "Subjunctive-indefinite 'whatever she might ask.' Thai 'ทุกสิ่งที่นางขอ' (everything she asks). αἰτέω here contextually 'request from a superior.'"
+        }
       ],
       "notes": "NO HAPAX. Foreshadows the moral trap: open-ended vow = no escape when she asks for John's head. Narrative buildup."
     }
@@ -133,12 +221,20 @@
     "greek": "ἡ δὲ προβιβασθεῖσα ὑπὸ τῆς μητρὸς αὐτῆς·Δός μοι,φησίν,ὧδε ἐπὶ πίνακι τὴν κεφαλὴν Ἰωάννου τοῦ βαπτιστοῦ.",
     "bsb_english": "Prompted by her mother, she said, \"Give me here on a platter the head of John the Baptist.\"",
     "translation": {
-      "thai": "นางถูกมารดาเสี้ยมสอนไว้ล่วงหน้าแล้ว จึงทูลว่า «ขอประทานศีรษะของยอห์นผู้ให้บัพติศมาใส่ถาดให้หม่อมฉันที่นี่เถิด»",
+      "thai": "นางถูกมารดาเสี้ยมสอนไว้ล่วงหน้าแล้ว จึงทูลว่า “ขอประทานศีรษะของยอห์นผู้ให้บัพติศมาใส่ถาดให้หม่อมฉันที่นี่เถิด”",
       "thai_literal": "แต่ นาง ถูกเสี้ยมสอนไว้ล่วงหน้า โดย มารดา ของนาง จงให้ แก่หม่อมฉัน นาง กล่าว ที่นี่ บน ถาด ศีรษะ ของยอห์น ผู้ให้บัพติศมา",
-      "thai_summary": "แม่ของหญิงสาวเตรียมเธอไว้ล่วงหน้าว่าจะขออะไรถ้าเฮโรดสัญญา — แผนนี้คิดมาก่อน การที่หญิงสาวพูดในราชสำนักใช้ราชาศัพท์ «หม่อมฉัน» และ «ขอประทาน» ต่อเฮโรดในฐานะกษัตริย์ (ดู ข้อ 9 ที่เรียกว่า «กษัตริย์»)",
+      "thai_summary": "แม่ของหญิงสาวเตรียมเธอไว้ล่วงหน้าว่าจะขออะไรถ้าเฮโรดสัญญา — แผนนี้คิดมาก่อน การที่หญิงสาวพูดในราชสำนักใช้ราชาศัพท์ “หม่อมฉัน” และ “ขอประทาน” ต่อเฮโรดในฐานะกษัตริย์ (ดู ข้อ 9 ที่เรียกว่า “กษัตริย์”)",
       "key_decisions": [
-        {"greek": "προβιβασθεῖσα ὑπὸ τῆς μητρὸς αὐτῆς", "thai": "นางถูกมารดาเสี้ยมสอนไว้ล่วงหน้าแล้ว", "rationale": "HAPAX: προβιβάζω appears only here in NT. Classical/LXX sense: 'to lead forward, push ahead, prompt, incite in advance.' BDAG: 'to put forward toward a certain procedure, prompt, induce.' Per uW figs-explicit: mother had pre-instructed her. Thai 'เสี้ยมสอนไว้ล่วงหน้า' captures the pre-meditated-prompting sense better than simple 'ชักชวน' — this was a plan, not improvised. NEW GLOSSARY: προβιβάζω (hapax) → เสี้ยมสอนไว้ล่วงหน้า."},
-        {"greek": "Δός μοι φησίν ὧδε ἐπὶ πίνακι τὴν κεφαλὴν Ἰωάννου τοῦ βαπτιστοῦ", "thai": "ขอประทานศีรษะของยอห์นผู้ให้บัพติศมาใส่ถาดให้หม่อมฉันที่นี่เถิด", "rationale": "Per glossary (MRK 6:25): 'Θέλω ἵνα ἐξαυτῆς δῷς μοι ἐπὶ πίνακι τὴν κεφαλὴν Ἰωάννου τοῦ βαπτιστοῦ' → 'หม่อมฉันขอประทาน ขอพระองค์ทรงประทานศีรษะของยอห์นผู้ให้บัพติศมาใส่ถาดให้แก่หม่อมฉันในบัดเดี๋ยวนี้.' Royal-speech register: หม่อมฉัน (court speech for 'I' addressing a king) + ประทาน (royal 'give'). Matthew's request is more terse than Mark's (no θέλω ἵνα), so Thai adapts: 'ขอประทาน...ให้หม่อมฉัน' without the 'ในบัดเดี๋ยวนี้' intensifier. πίνακι → ถาด (glossary). NEW GLOSSARY: πίναξ → ถาด; κεφαλή → ศีรษะ."}
+        {
+          "greek": "προβιβασθεῖσα ὑπὸ τῆς μητρὸς αὐτῆς",
+          "thai": "นางถูกมารดาเสี้ยมสอนไว้ล่วงหน้าแล้ว",
+          "rationale": "HAPAX: προβιβάζω appears only here in NT. Classical/LXX sense: 'to lead forward, push ahead, prompt, incite in advance.' BDAG: 'to put forward toward a certain procedure, prompt, induce.' Per uW figs-explicit: mother had pre-instructed her. Thai 'เสี้ยมสอนไว้ล่วงหน้า' captures the pre-meditated-prompting sense better than simple 'ชักชวน' — this was a plan, not improvised. NEW GLOSSARY: προβιβάζω (hapax) → เสี้ยมสอนไว้ล่วงหน้า."
+        },
+        {
+          "greek": "Δός μοι φησίν ὧδε ἐπὶ πίνακι τὴν κεφαλὴν Ἰωάννου τοῦ βαπτιστοῦ",
+          "thai": "ขอประทานศีรษะของยอห์นผู้ให้บัพติศมาใส่ถาดให้หม่อมฉันที่นี่เถิด",
+          "rationale": "Per glossary (MRK 6:25): 'Θέλω ἵνα ἐξαυτῆς δῷς μοι ἐπὶ πίνακι τὴν κεφαλὴν Ἰωάννου τοῦ βαπτιστοῦ' → 'หม่อมฉันขอประทาน ขอพระองค์ทรงประทานศีรษะของยอห์นผู้ให้บัพติศมาใส่ถาดให้แก่หม่อมฉันในบัดเดี๋ยวนี้.' Royal-speech register: หม่อมฉัน (court speech for 'I' addressing a king) + ประทาน (royal 'give'). Matthew's request is more terse than Mark's (no θέλω ἵνα), so Thai adapts: 'ขอประทาน...ให้หม่อมฉัน' without the 'ในบัดเดี๋ยวนี้' intensifier. πίνακι → ถาด (glossary). NEW GLOSSARY: πίναξ → ถาด; κεφαλή → ศีรษะ."
+        }
       ],
       "notes": "HAPAX LEGOMENON: προβιβάζω (Matt 14:8 only in NT). From προ- 'forward' + βιβάζω 'cause to go.' LXX usage (Deut 6:7, Ex 35:34) suggests 'teach/instruct' sense. BDAG entry confirms 'prompt, induce (by prior instruction).' Thai rendering 'เสี้ยมสอนไว้ล่วงหน้า' chosen over 'ชักชวน' (persuade) to capture pre-meditation. Register: royal court speech (หม่อมฉัน, ประทาน) since daughter addresses Herod as king-host."
     }
@@ -152,11 +248,23 @@
     "translation": {
       "thai": "กษัตริย์รู้สึกโทมนัส แต่ด้วยเห็นแก่คำสาบานและบรรดาแขกร่วมโต๊ะ จึงสั่งให้กระทำตามที่นางขอ",
       "thai_literal": "และ ถูกทำให้เสียใจ กษัตริย์ เพราะ บรรดาคำสาบาน และ บรรดาผู้ร่วมเอน สั่ง ที่จะให้",
-      "thai_summary": "มัทธิวเรียกเฮโรดว่า «กษัตริย์» (บาซิลเออส) ตามธรรมเนียมความเคารพและสถานะของผู้ปกครอง แม้จริงๆ เป็น «เจ้าผู้ครองแคว้น» (ข้อ 1) เฮโรดตกอยู่ในกับดักของเกียรติยศแบบโรมัน-เฮลเลนิสติก: การผิดสัตย์ต่อหน้าแขกผู้มีเกียรติเป็นการสูญเสียหน้ามากกว่าการประหารผู้บริสุทธิ์ ความเสื่อมของจิตใจที่แท้จริง",
+      "thai_summary": "มัทธิวเรียกเฮโรดว่า “กษัตริย์” (บาซิลเออส) ตามธรรมเนียมความเคารพและสถานะของผู้ปกครอง แม้จริงๆ เป็น “เจ้าผู้ครองแคว้น” (ข้อ 1) เฮโรดตกอยู่ในกับดักของเกียรติยศแบบโรมัน-เฮลเลนิสติก: การผิดสัตย์ต่อหน้าแขกผู้มีเกียรติเป็นการสูญเสียหน้ามากกว่าการประหารผู้บริสุทธิ์ ความเสื่อมของจิตใจที่แท้จริง",
       "key_decisions": [
-        {"greek": "λυπηθεὶς ὁ βασιλεὺς", "thai": "กษัตริย์รู้สึกโทมนัส", "rationale": "Per uW figs-activepassive: passive participle 'having been grieved' — Thai active 'รู้สึกโทมนัส' natural. βασιλεύς 'king' here — courtesy title for a tetrarch, per glossary (MRK 6:14) 'กษัตริย์เฮโรด.' Note register-shift from v.1 τετραάρχης to v.9 βασιλεύς intentional in Greek. NEW GLOSSARY: βασιλεύς (of Herod Antipas) → กษัตริย์; λυπέω → โทมนัส."},
-        {"greek": "διὰ τοὺς ὅρκους καὶ τοὺς συνανακειμένους", "thai": "ด้วยเห็นแก่คำสาบานและบรรดาแขกร่วมโต๊ะ", "rationale": "Per uW figs-explicit: two reasons — oaths + shame before dinner-guests. Thai 'เห็นแก่' (out of concern for) captures social-pressure. συνανακείμενοι → แขกร่วมโต๊ะ (per glossary MRK 6:22 pattern). NEW GLOSSARY: συνανακείμενοι → แขกร่วมโต๊ะ."},
-        {"greek": "ἐκέλευσεν δοθῆναι", "thai": "สั่งให้กระทำตามที่นางขอ", "rationale": "Per uW figs-activepassive + figs-explicit: Herod commanded someone (a soldier) to fulfill her request. Thai 'สั่งให้กระทำตามที่นางขอ' supplies the implicit object 'what she asked' for clarity. κελεύω → สั่ง (plain, non-divine)."}
+        {
+          "greek": "λυπηθεὶς ὁ βασιλεὺς",
+          "thai": "กษัตริย์รู้สึกโทมนัส",
+          "rationale": "Per uW figs-activepassive: passive participle 'having been grieved' — Thai active 'รู้สึกโทมนัส' natural. βασιλεύς 'king' here — courtesy title for a tetrarch, per glossary (MRK 6:14) 'กษัตริย์เฮโรด.' Note register-shift from v.1 τετραάρχης to v.9 βασιλεύς intentional in Greek. NEW GLOSSARY: βασιλεύς (of Herod Antipas) → กษัตริย์; λυπέω → โทมนัส."
+        },
+        {
+          "greek": "διὰ τοὺς ὅρκους καὶ τοὺς συνανακειμένους",
+          "thai": "ด้วยเห็นแก่คำสาบานและบรรดาแขกร่วมโต๊ะ",
+          "rationale": "Per uW figs-explicit: two reasons — oaths + shame before dinner-guests. Thai 'เห็นแก่' (out of concern for) captures social-pressure. συνανακείμενοι → แขกร่วมโต๊ะ (per glossary MRK 6:22 pattern). NEW GLOSSARY: συνανακείμενοι → แขกร่วมโต๊ะ."
+        },
+        {
+          "greek": "ἐκέλευσεν δοθῆναι",
+          "thai": "สั่งให้กระทำตามที่นางขอ",
+          "rationale": "Per uW figs-activepassive + figs-explicit: Herod commanded someone (a soldier) to fulfill her request. Thai 'สั่งให้กระทำตามที่นางขอ' supplies the implicit object 'what she asked' for clarity. κελεύω → สั่ง (plain, non-divine)."
+        }
       ],
       "notes": "NO HAPAX. βασιλεύς/τετραάρχης Matthean register-shift: Matthew uses 'king' colloquially here despite Antipas technically being a tetrarch. Cf. Mark 6:14 uses βασιλεύς throughout. Herod's grief is real but insufficient to break the social-honor trap. Parallel Mark 6:26."
     }
@@ -172,7 +280,11 @@
       "thai_literal": "และ ส่งไป ตัดศีรษะ ยอห์น ใน เรือนจำ",
       "thai_summary": null,
       "key_decisions": [
-        {"greek": "πέμψας ἀπεκεφάλισεν", "thai": "ใช้คนไปตัดศีรษะ", "rationale": "Per uW figs-explicit: Herod sent a soldier — Herod didn't personally behead. Thai 'ใช้คนไป' (sent someone) + 'ตัดศีรษะ' captures causative-executive. πέμψας aor-ppl 'having sent' + ἀπεκεφάλισεν aor-indicative 'beheaded' — Thai sequences them naturally. NEW GLOSSARY: ἀποκεφαλίζω → ตัดศีรษะ; πέμπω (send-agent) → ใช้คนไป."}
+        {
+          "greek": "πέμψας ἀπεκεφάλισεν",
+          "thai": "ใช้คนไปตัดศีรษะ",
+          "rationale": "Per uW figs-explicit: Herod sent a soldier — Herod didn't personally behead. Thai 'ใช้คนไป' (sent someone) + 'ตัดศีรษะ' captures causative-executive. πέμψας aor-ppl 'having sent' + ἀπεκεφάλισεν aor-indicative 'beheaded' — Thai sequences them naturally. NEW GLOSSARY: ἀποκεφαλίζω → ตัดศีรษะ; πέμπω (send-agent) → ใช้คนไป."
+        }
       ],
       "notes": "NO HAPAX. Brevity of Matthew vs. Mark 6:27-28 (longer sequence). According to Josephus (Ant. 18.5.2), John was executed at Machaerus fortress, east of Dead Sea. Matthew says only 'in the prison' without location specificity. No summary — terse narrative with no new interpretive load."
     }
@@ -188,9 +300,21 @@
       "thai_literal": "และ ถูกนำ ศีรษะ ของเขา บน ถาด และ ถูกให้ แก่ หญิงสาว และ นาง นำไป แก่ มารดา ของนาง",
       "thai_summary": null,
       "key_decisions": [
-        {"greek": "ἠνέχθη ... καὶ ἐδόθη τῷ κορασίῳ", "thai": "ถูกนำใส่ถาดและส่งให้แก่หญิงสาว", "rationale": "Per uW figs-activepassive: double-passive chain. Thai first passive 'ถูกนำ' + second active-natural 'ส่งให้' to avoid stilted Thai passive-repetition."},
-        {"greek": "τῷ κορασίῳ", "thai": "หญิงสาว", "rationale": "Per uW translate-unknown: κοράσιον 'young woman past puberty, 12-20 yrs.' Thai 'หญิงสาว' (young unmarried woman) fits age-range. Glossary (MRK 5:41) used 'แม่หนู' for much younger girl (~12); here older daughter of Herodias is 'หญิงสาว.' NEW GLOSSARY: κοράσιον (teenage-young-woman) → หญิงสาว."},
-        {"greek": "ἤνεγκεν τῇ μητρὶ αὐτῆς", "thai": "นางจึงนำไปให้มารดาของตน", "rationale": "φέρω aor 'carried, brought.' Thai 'นำไปให้' standard. μήτηρ → มารดา."}
+        {
+          "greek": "ἠνέχθη ... καὶ ἐδόθη τῷ κορασίῳ",
+          "thai": "ถูกนำใส่ถาดและส่งให้แก่หญิงสาว",
+          "rationale": "Per uW figs-activepassive: double-passive chain. Thai first passive 'ถูกนำ' + second active-natural 'ส่งให้' to avoid stilted Thai passive-repetition."
+        },
+        {
+          "greek": "τῷ κορασίῳ",
+          "thai": "หญิงสาว",
+          "rationale": "Per uW translate-unknown: κοράσιον 'young woman past puberty, 12-20 yrs.' Thai 'หญิงสาว' (young unmarried woman) fits age-range. Glossary (MRK 5:41) used 'แม่หนู' for much younger girl (~12); here older daughter of Herodias is 'หญิงสาว.' NEW GLOSSARY: κοράσιον (teenage-young-woman) → หญิงสาว."
+        },
+        {
+          "greek": "ἤνεγκεν τῇ μητρὶ αὐτῆς",
+          "thai": "นางจึงนำไปให้มารดาของตน",
+          "rationale": "φέρω aor 'carried, brought.' Thai 'นำไปให้' standard. μήτηρ → มารดา."
+        }
       ],
       "notes": "NO HAPAX. Grotesque sequence concluding John's martyrdom. The passive chain emphasizes the mechanical progression of the vow's fulfillment — no agent is named except the girl who hands it on. Parallel Mark 6:28."
     }
@@ -206,9 +330,21 @@
       "thai_literal": "และ มา บรรดาสาวก ของเขา ยกขึ้น ศพ และ ฝัง เขา และ มา รายงาน แก่ พระเยซู",
       "thai_summary": "มัทธิวเชื่อมสองเรื่องเข้าด้วยกัน: การตายของยอห์นและการตอบสนองของพระเยซู (ข้อ 13) เหล่าสาวกของยอห์น—ผู้ซึ่งเคยเป็นสาวกของยอห์น—เริ่มเปลี่ยนมาติดตามพระเยซู (ยน 1:35-37) การที่พวกเขามารายงานชี้ถึงความสัมพันธ์ระหว่างขบวนการของยอห์นและของพระเยซู",
       "key_decisions": [
-        {"greek": "οἱ μαθηταὶ αὐτοῦ", "thai": "เหล่าสาวกของยอห์น", "rationale": "Per uW writing-pronouns: αὐτοῦ = John (not Jesus, despite προσέρχομαι typically towards Jesus). Explicit 'ยอห์น' in Thai for disambiguation. Glossary μαθηταί → เหล่าสาวก / พวกสาวก."},
-        {"greek": "ἦραν τὸ πτῶμα καὶ ἔθαψαν αὐτόν", "thai": "มารับศพไปฝัง", "rationale": "Per uW figs-explicit: πτῶμα = John's corpse. Thai 'ศพ' (human corpse) neutral register (not พระศพ reserved for divine). ἔθαψαν → ฝัง. Thai condenses two verbs 'ยกขึ้น + ฝัง' into 'มารับ...ไปฝัง' for natural flow. NEW GLOSSARY: πτῶμα (of John) → ศพ; θάπτω → ฝัง."},
-        {"greek": "ἀπήγγειλαν τῷ Ἰησοῦ", "thai": "ไปแจ้งให้พระเยซูทรงทราบ", "rationale": "Per uW figs-explicit: they reported John's execution to Jesus. ἀπαγγέλλω 'report.' Divine addressee — Thai 'แจ้งให้...ทรงทราบ' with 'ทรงทราบ' = royal knowing (RULES.md §3). NEW GLOSSARY: ἀπαγγέλλω (to Jesus) → แจ้งให้ทรงทราบ."}
+        {
+          "greek": "οἱ μαθηταὶ αὐτοῦ",
+          "thai": "เหล่าสาวกของยอห์น",
+          "rationale": "Per uW writing-pronouns: αὐτοῦ = John (not Jesus, despite προσέρχομαι typically towards Jesus). Explicit 'ยอห์น' in Thai for disambiguation. Glossary μαθηταί → เหล่าสาวก / พวกสาวก."
+        },
+        {
+          "greek": "ἦραν τὸ πτῶμα καὶ ἔθαψαν αὐτόν",
+          "thai": "มารับศพไปฝัง",
+          "rationale": "Per uW figs-explicit: πτῶμα = John's corpse. Thai 'ศพ' (human corpse) neutral register (not พระศพ reserved for divine). ἔθαψαν → ฝัง. Thai condenses two verbs 'ยกขึ้น + ฝัง' into 'มารับ...ไปฝัง' for natural flow. NEW GLOSSARY: πτῶμα (of John) → ศพ; θάπτω → ฝัง."
+        },
+        {
+          "greek": "ἀπήγγειλαν τῷ Ἰησοῦ",
+          "thai": "ไปแจ้งให้พระเยซูทรงทราบ",
+          "rationale": "Per uW figs-explicit: they reported John's execution to Jesus. ἀπαγγέλλω 'report.' Divine addressee — Thai 'แจ้งให้...ทรงทราบ' with 'ทรงทราบ' = royal knowing (RULES.md §3). NEW GLOSSARY: ἀπαγγέλλω (to Jesus) → แจ้งให้ทรงทราบ."
+        }
       ],
       "notes": "NO HAPAX. End of flashback (14:3-12). Verse 13 returns to main narrative. John's disciples are proto-Christian community — many followed Jesus (John 1:35-37). Burial-of-martyr theme: honoring the body even of the executed. Parallel Mark 6:29."
     }
@@ -224,9 +360,21 @@
       "thai_literal": "เมื่อได้ยิน พระเยซู เสด็จออก จากที่นั่น ใน เรือ สู่ ที่ เปลี่ยว ตามลำพัง และ เมื่อได้ยิน บรรดาฝูงชน ติดตาม พระองค์ ทางบก จาก บรรดาเมือง",
       "thai_summary": "พระเยซูทรงสดับข่าวการตายของยอห์นและปลีกพระองค์ไป อาจเพื่อโศกเศร้าและอธิษฐาน หรือเพื่อหลีกเลี่ยงความสนใจของเฮโรดซึ่งกลัวว่าพระองค์เป็นยอห์นคืนชีพ (ข้อ 2) แม้พระองค์ต้องการอยู่ตามลำพัง ฝูงชนยังติดตามมาอย่างเต็มกำลังใจ แสดงความกระหายการสอนและการรักษาของพระองค์",
       "key_decisions": [
-        {"greek": "Ἀκούσας δὲ ὁ Ἰησοῦς", "thai": "เมื่อพระเยซูทรงสดับ", "rationale": "Per uW figs-explicit: could refer to (1) John's death news from disciples, or (2) Herod's speculation. uW leaves ambiguous. Divine register: ทรงสดับ (royal 'hear') for Jesus-subject."},
-        {"greek": "ἀνεχώρησεν ἐκεῖθεν ἐν πλοίῳ εἰς ἔρημον τόπον κατ’ἰδίαν", "thai": "เสด็จออกจากที่นั่นโดยเรือไปยังที่เปลี่ยวเป็นส่วนตัว", "rationale": "Per RULES.md §4: ἔρημος τόπος → ที่เปลี่ยว (as distinct from ἔρημος 'wilderness' → ถิ่นทุรกันดาร). Divine movement: เสด็จ (royal 'go'). κατ' ἰδίαν 'privately' — per uW includes disciples, so 'เป็นส่วนตัว' not 'เพียงพระองค์เดียว.' NEW GLOSSARY: ἔρημος τόπος → ที่เปลี่ยว; ἀναχωρέω (divine) → เสด็จออก; κατ’ ἰδίαν → เป็นส่วนตัว / ตามลำพัง."},
-        {"greek": "ἠκολούθησαν αὐτῷ πεζῇ ἀπὸ τῶν πόλεων", "thai": "ตามพระองค์ไปทางบกจากบรรดาหัวเมือง", "rationale": "Per uW figs-idiom + figs-explicit: πεζῇ 'on foot' + 'cities near Sea of Galilee.' Plain verb 'ตาม' for crowd-subject (not divine). Per glossary (MRK 6:33): 'πεζῇ' → 'ทางบก'. NEW GLOSSARY: πεζῇ → ทางบก; ἀκολουθέω → ติดตาม/ตาม."}
+        {
+          "greek": "Ἀκούσας δὲ ὁ Ἰησοῦς",
+          "thai": "เมื่อพระเยซูทรงสดับ",
+          "rationale": "Per uW figs-explicit: could refer to (1) John's death news from disciples, or (2) Herod's speculation. uW leaves ambiguous. Divine register: ทรงสดับ (royal 'hear') for Jesus-subject."
+        },
+        {
+          "greek": "ἀνεχώρησεν ἐκεῖθεν ἐν πλοίῳ εἰς ἔρημον τόπον κατ’ἰδίαν",
+          "thai": "เสด็จออกจากที่นั่นโดยเรือไปยังที่เปลี่ยวเป็นส่วนตัว",
+          "rationale": "Per RULES.md §4: ἔρημος τόπος → ที่เปลี่ยว (as distinct from ἔρημος 'wilderness' → ถิ่นทุรกันดาร). Divine movement: เสด็จ (royal 'go'). κατ' ἰδίαν 'privately' — per uW includes disciples, so 'เป็นส่วนตัว' not 'เพียงพระองค์เดียว.' NEW GLOSSARY: ἔρημος τόπος → ที่เปลี่ยว; ἀναχωρέω (divine) → เสด็จออก; κατ’ ἰδίαν → เป็นส่วนตัว / ตามลำพัง."
+        },
+        {
+          "greek": "ἠκολούθησαν αὐτῷ πεζῇ ἀπὸ τῶν πόλεων",
+          "thai": "ตามพระองค์ไปทางบกจากบรรดาหัวเมือง",
+          "rationale": "Per uW figs-idiom + figs-explicit: πεζῇ 'on foot' + 'cities near Sea of Galilee.' Plain verb 'ตาม' for crowd-subject (not divine). Per glossary (MRK 6:33): 'πεζῇ' → 'ทางบก'. NEW GLOSSARY: πεζῇ → ทางบก; ἀκολουθέω → ติดตาม/ตาม."
+        }
       ],
       "notes": "NO HAPAX. Main narrative resumes after flashback. Jesus's withdrawal pattern: same word ἀναχωρέω used at MT 2:14, 2:22, 4:12, 12:15 — Matthean theme of Jesus retreating from hostile or crisis situations. Parallel Mark 6:31-33."
     }
@@ -242,10 +390,26 @@
       "thai_literal": "และ ออกมา เห็น มากมาย ฝูงชน และ มีความเมตตา แก่ พวกเขา และ รักษา บรรดาผู้ป่วย ของพวกเขา",
       "thai_summary": "พระเยซูเหนื่อยล้าและโศกเศร้า แต่ความเมตตา (σπλαγχνίζομαι — ความรู้สึกลึกถึงในอวัยวะภายใน) ต่อฝูงชนที่ต้องการพระองค์ชนะความปรารถนาจะพักผ่อนเป็นส่วนตัว คำนี้ใช้ 5 ครั้งในมัทธิวเสมอเฉพาะกับพระเยซู สะท้อนถึงพระทัยของพระเจ้าที่เมตตาประชากรของพระองค์ (อพย 34:6; สดด 103:13)",
       "key_decisions": [
-        {"greek": "ἐξελθὼν", "thai": "เสด็จขึ้นฝั่ง", "rationale": "Per uW figs-explicit option 1: Jesus comes out of the boat. Divine movement: เสด็จ."},
-        {"greek": "εἶδεν πολὺν ὄχλον", "thai": "ทอดพระเนตรเห็นฝูงชนมากมาย", "rationale": "Per RULES.md §3: divine 'see' → ทอดพระเนตร (royal)."},
-        {"greek": "ἐσπλαγχνίσθη ἐπ’αὐτοῖς", "thai": "ทรงมีพระทัยเมตตาสงสาร", "rationale": "Per glossary: 'σπλαγχνίζομαι' → 'มีความเมตตาสงสาร.' Divine subject: 'ทรงมีพระทัยเมตตาสงสาร' (royal heart + compassion). Matthew uses this verb 5x of Jesus (9:36, 14:14, 15:32, 18:27, 20:34) — compassion is a theologically-loaded term. NEW GLOSSARY: σπλαγχνίζομαι (of Jesus) → ทรงมีพระทัยเมตตาสงสาร."},
-        {"greek": "ἐθεράπευσεν τοὺς ἀρρώστους αὐτῶν", "thai": "ทรงรักษาคนป่วยของพวกเขาให้หาย", "rationale": "Per glossary: ἐθεράπευσεν → ทรงรักษา...ให้หาย. Per uW figs-nominaladj: ἀρρώστους adjectival-noun = 'sick people.' NEW GLOSSARY: ἄρρωστος → คนป่วย; θεραπεύω → ทรงรักษา...ให้หาย."}
+        {
+          "greek": "ἐξελθὼν",
+          "thai": "เสด็จขึ้นฝั่ง",
+          "rationale": "Per uW figs-explicit option 1: Jesus comes out of the boat. Divine movement: เสด็จ."
+        },
+        {
+          "greek": "εἶδεν πολὺν ὄχλον",
+          "thai": "ทอดพระเนตรเห็นฝูงชนมากมาย",
+          "rationale": "Per RULES.md §3: divine 'see' → ทอดพระเนตร (royal)."
+        },
+        {
+          "greek": "ἐσπλαγχνίσθη ἐπ’αὐτοῖς",
+          "thai": "ทรงมีพระทัยเมตตาสงสาร",
+          "rationale": "Per glossary: 'σπλαγχνίζομαι' → 'มีความเมตตาสงสาร.' Divine subject: 'ทรงมีพระทัยเมตตาสงสาร' (royal heart + compassion). Matthew uses this verb 5x of Jesus (9:36, 14:14, 15:32, 18:27, 20:34) — compassion is a theologically-loaded term. NEW GLOSSARY: σπλαγχνίζομαι (of Jesus) → ทรงมีพระทัยเมตตาสงสาร."
+        },
+        {
+          "greek": "ἐθεράπευσεν τοὺς ἀρρώστους αὐτῶν",
+          "thai": "ทรงรักษาคนป่วยของพวกเขาให้หาย",
+          "rationale": "Per glossary: ἐθεράπευσεν → ทรงรักษา...ให้หาย. Per uW figs-nominaladj: ἀρρώστους adjectival-noun = 'sick people.' NEW GLOSSARY: ἄρρωστος → คนป่วย; θεραπεύω → ทรงรักษา...ให้หาย."
+        }
       ],
       "notes": "NO HAPAX. Setup for feeding-miracle. Jesus's pattern: retreat-interrupted-by-need, compassion, healing. σπλαγχνίζομαι carries visceral 'gut-moved' force — not tepid sympathy. OT ECHO: compassion of YHWH in Ex 34:6, Ps 103:13 (shepherd-compassion) — Matthew 9:36 explicitly links to Num 27:17 shepherd-less sheep. Parallel Mark 6:34."
     }
@@ -257,16 +421,40 @@
     "greek": "ὀψίας δὲ γενομένης προσῆλθον αὐτῷ οἱ μαθηταὶ λέγοντες·Ἔρημός ἐστιν ὁ τόπος καὶ ἡ ὥρα ἤδη παρῆλθεν·ἀπόλυσον τοὺς ὄχλους,ἵνα ἀπελθόντες εἰς τὰς κώμας ἀγοράσωσιν ἑαυτοῖς βρώματα.",
     "bsb_english": "When evening came, the disciples came to Him and said, \"This is a desolate place, and the hour is already late. Dismiss the crowds so they can go to the villages and buy themselves some food.\"",
     "translation": {
-      "thai": "เมื่อตกเย็น เหล่าสาวกเข้ามาทูลพระองค์ว่า «ที่นี่เป็นที่เปลี่ยว และเวลาก็ล่วงมากแล้ว ขอทรงให้ฝูงชนกลับไปเถิด เพื่อพวกเขาจะได้ไปซื้ออาหารตามหมู่บ้านสำหรับตนเอง»",
+      "thai": "เมื่อตกเย็น เหล่าสาวกเข้ามาทูลพระองค์ว่า “ที่นี่เป็นที่เปลี่ยว และเวลาก็ล่วงมากแล้ว ขอทรงให้ฝูงชนกลับไปเถิด เพื่อพวกเขาจะได้ไปซื้ออาหารตามหมู่บ้านสำหรับตนเอง”",
       "thai_literal": "แต่ เย็น เมื่อมาถึง เข้ามา แก่พระองค์ เหล่าสาวก กล่าว เปลี่ยว เป็น ที่ และ ชั่วโมง แล้ว ผ่านไป จงปล่อย บรรดาฝูงชน เพื่อ ไป สู่ บรรดาหมู่บ้าน ซื้อ สำหรับตนเอง อาหาร",
       "thai_summary": null,
       "key_decisions": [
-        {"greek": "ὀψίας γενομένης", "thai": "เมื่อตกเย็น", "rationale": "Genitive-absolute temporal. Thai 'เมื่อตกเย็น' (when evening came) standard. Per uW v.23 note: this is early evening; v.23 will be later evening."},
-        {"greek": "προσῆλθον αὐτῷ οἱ μαθηταί", "thai": "เหล่าสาวกเข้ามาทูลพระองค์", "rationale": "Divine addressee: ทูล (humble-speak). Plain verb 'เข้ามา' for disciple-subject."},
-        {"greek": "Ἔρημός ἐστιν ὁ τόπος", "thai": "ที่นี่เป็นที่เปลี่ยว", "rationale": "Nominative predicate. Thai 'ที่นี่' + 'ที่เปลี่ยว' consistent with v.13 ἔρημος τόπος."},
-        {"greek": "ἡ ὥρα ἤδη παρῆλθεν", "thai": "เวลาก็ล่วงมากแล้ว", "rationale": "Per uW figs-idiom: 'hour already passed' = 'late in the day, sun setting.' Thai 'เวลาล่วงมากแล้ว' (time already passed much) natural idiom. NEW GLOSSARY: ἡ ὥρα ἤδη παρῆλθεν → เวลาก็ล่วงมากแล้ว."},
-        {"greek": "ἀπόλυσον τοὺς ὄχλους", "thai": "ขอทรงให้ฝูงชนกลับไปเถิด", "rationale": "Per uW figs-imperative: polite request not command. To divine addressee + polite 'please' → 'ขอทรง' + 'เถิด.' NEW GLOSSARY: ἀπολύω (to Jesus, polite) → ขอทรงให้...กลับไป."},
-        {"greek": "ἵνα ... ἀγοράσωσιν ... βρώματα", "thai": "เพื่อพวกเขาจะได้ไปซื้ออาหาร", "rationale": "Purpose clause. NEW GLOSSARY: κώμη → หมู่บ้าน; ἀγοράζω → ซื้อ; βρῶμα → อาหาร."}
+        {
+          "greek": "ὀψίας γενομένης",
+          "thai": "เมื่อตกเย็น",
+          "rationale": "Genitive-absolute temporal. Thai 'เมื่อตกเย็น' (when evening came) standard. Per uW v.23 note: this is early evening; v.23 will be later evening."
+        },
+        {
+          "greek": "προσῆλθον αὐτῷ οἱ μαθηταί",
+          "thai": "เหล่าสาวกเข้ามาทูลพระองค์",
+          "rationale": "Divine addressee: ทูล (humble-speak). Plain verb 'เข้ามา' for disciple-subject."
+        },
+        {
+          "greek": "Ἔρημός ἐστιν ὁ τόπος",
+          "thai": "ที่นี่เป็นที่เปลี่ยว",
+          "rationale": "Nominative predicate. Thai 'ที่นี่' + 'ที่เปลี่ยว' consistent with v.13 ἔρημος τόπος."
+        },
+        {
+          "greek": "ἡ ὥρα ἤδη παρῆλθεν",
+          "thai": "เวลาก็ล่วงมากแล้ว",
+          "rationale": "Per uW figs-idiom: 'hour already passed' = 'late in the day, sun setting.' Thai 'เวลาล่วงมากแล้ว' (time already passed much) natural idiom. NEW GLOSSARY: ἡ ὥρα ἤδη παρῆλθεν → เวลาก็ล่วงมากแล้ว."
+        },
+        {
+          "greek": "ἀπόλυσον τοὺς ὄχλους",
+          "thai": "ขอทรงให้ฝูงชนกลับไปเถิด",
+          "rationale": "Per uW figs-imperative: polite request not command. To divine addressee + polite 'please' → 'ขอทรง' + 'เถิด.' NEW GLOSSARY: ἀπολύω (to Jesus, polite) → ขอทรงให้...กลับไป."
+        },
+        {
+          "greek": "ἵνα ... ἀγοράσωσιν ... βρώματα",
+          "thai": "เพื่อพวกเขาจะได้ไปซื้ออาหาร",
+          "rationale": "Purpose clause. NEW GLOSSARY: κώμη → หมู่บ้าน; ἀγοράζω → ซื้อ; βρῶμα → อาหาร."
+        }
       ],
       "notes": "NO HAPAX. Disciples' practical concern sets up Jesus's miraculous response. No summary — narrative setup for the miracle follows."
     }
@@ -278,12 +466,20 @@
     "greek": "ὁ δὲ Ἰησοῦς εἶπεν αὐτοῖς·Οὐ χρείαν ἔχουσιν ἀπελθεῖν·δότε αὐτοῖς ὑμεῖς φαγεῖν.",
     "bsb_english": "\"They do not need to go away,\" Jesus replied. \"You give them something to eat.\"",
     "translation": {
-      "thai": "พระเยซูตรัสตอบพวกเขาว่า «พวกเขาไม่จำเป็นต้องไปที่ไหน พวกท่านนี่แหละ จงให้อาหารพวกเขากินเถิด»",
+      "thai": "พระเยซูตรัสตอบพวกเขาว่า “พวกเขาไม่จำเป็นต้องไปที่ไหน พวกท่านนี่แหละ จงให้อาหารพวกเขากินเถิด”",
       "thai_literal": "และ พระเยซู กล่าว แก่ พวกเขา ไม่ ความจำเป็น มี ที่จะไป จงให้ แก่ พวกเขา พวกท่าน ที่จะกิน",
-      "thai_summary": "พระเยซูทรงท้าทายสาวกให้ก้าวข้ามทางแก้ปัญหาแบบมนุษย์ «พวกท่านนี่แหละ จงให้» เน้นด้วยคำสรรพนาม ὑμεῖς (emphatic «you»; พหุพจน์) เชิญชวนสาวกเข้ามีส่วนในพันธกิจแห่งการเลี้ยงดู ก่อนที่พระองค์จะกระทำอัศจรรย์ ฉากนี้สอนเรื่องการไว้วางใจในพระเจ้าเมื่อทรัพยากรดูเหมือนไม่พอ",
+      "thai_summary": "พระเยซูทรงท้าทายสาวกให้ก้าวข้ามทางแก้ปัญหาแบบมนุษย์ “พวกท่านนี่แหละ จงให้” เน้นด้วยคำสรรพนาม ὑμεῖς (emphatic “you”; พหุพจน์) เชิญชวนสาวกเข้ามีส่วนในพันธกิจแห่งการเลี้ยงดู ก่อนที่พระองค์จะกระทำอัศจรรย์ ฉากนี้สอนเรื่องการไว้วางใจในพระเจ้าเมื่อทรัพยากรดูเหมือนไม่พอ",
       "key_decisions": [
-        {"greek": "Οὐ χρείαν ἔχουσιν ἀπελθεῖν", "thai": "พวกเขาไม่จำเป็นต้องไปที่ไหน", "rationale": "χρείαν ἔχω 'have need' + infinitive = 'need to.' Thai 'ไม่จำเป็นต้องไป' natural."},
-        {"greek": "δότε αὐτοῖς ὑμεῖς φαγεῖν", "thai": "พวกท่านนี่แหละ จงให้อาหารพวกเขากินเถิด", "rationale": "Per uW figs-yousingular (plural) + figs-explicit: emphatic ὑμεῖς 'you-yourselves.' Thai 'พวกท่านนี่แหละ' captures the emphatic-personal-pronoun. Implied object 'อาหาร' supplied for natural Thai. Divine-speaker imperative 'จงให้...เถิด.'"}
+        {
+          "greek": "Οὐ χρείαν ἔχουσιν ἀπελθεῖν",
+          "thai": "พวกเขาไม่จำเป็นต้องไปที่ไหน",
+          "rationale": "χρείαν ἔχω 'have need' + infinitive = 'need to.' Thai 'ไม่จำเป็นต้องไป' natural."
+        },
+        {
+          "greek": "δότε αὐτοῖς ὑμεῖς φαγεῖν",
+          "thai": "พวกท่านนี่แหละ จงให้อาหารพวกเขากินเถิด",
+          "rationale": "Per uW figs-yousingular (plural) + figs-explicit: emphatic ὑμεῖς 'you-yourselves.' Thai 'พวกท่านนี่แหละ' captures the emphatic-personal-pronoun. Implied object 'อาหาร' supplied for natural Thai. Divine-speaker imperative 'จงให้...เถิด.'"
+        }
       ],
       "notes": "NO HAPAX. The emphatic ὑμεῖς is the theological crux — Jesus shifts the problem from them-solving-it to you-provide. Anticipates the disciples' participation in the multiplication (they distribute). Parallel Mark 6:37."
     }
@@ -295,13 +491,25 @@
     "greek": "οἱ δὲ λέγουσιν αὐτῷ·Οὐκ ἔχομεν ὧδε εἰ μὴ πέντε ἄρτους καὶ δύο ἰχθύας.",
     "bsb_english": "\"We have here only five loaves of bread and two fish,\" they answered.",
     "translation": {
-      "thai": "เขาทูลพระองค์ว่า «ที่นี่พวกเรามีเพียงขนมปังห้าก้อนกับปลาสองตัว»",
+      "thai": "เขาทูลพระองค์ว่า “ที่นี่พวกเรามีเพียงขนมปังห้าก้อนกับปลาสองตัว”",
       "thai_literal": "และ พวกเขา กล่าว แก่พระองค์ ไม่ มี ที่นี่ ถ้า ไม่ ห้า ขนมปัง และ สอง ปลา",
       "thai_summary": null,
       "key_decisions": [
-        {"greek": "λέγουσιν", "thai": "ทูล", "rationale": "Per uW translate-tense: historical present → Thai past. Divine addressee: ทูล."},
-        {"greek": "Οὐκ ἔχομεν ὧδε εἰ μὴ", "thai": "ที่นี่พวกเรามีเพียง", "rationale": "Per uW grammar-connect-exceptions: Thai rephrases to avoid stilted 'not...except' — 'we have only' natural."},
-        {"greek": "πέντε ἄρτους καὶ δύο ἰχθύας", "thai": "ขนมปังห้าก้อนกับปลาสองตัว", "rationale": "Per glossary (MRK 6:38, 41): 'ἄρτους' → 'ขนมปัง'; 'ἰχθύας' → 'ปลา.' Classifier 'ก้อน' for loaves (standard Thai) and 'ตัว' for fish. NEW GLOSSARY: ἄρτος → ขนมปัง (ก้อน classifier); ἰχθύς → ปลา (ตัว classifier)."}
+        {
+          "greek": "λέγουσιν",
+          "thai": "ทูล",
+          "rationale": "Per uW translate-tense: historical present → Thai past. Divine addressee: ทูล."
+        },
+        {
+          "greek": "Οὐκ ἔχομεν ὧδε εἰ μὴ",
+          "thai": "ที่นี่พวกเรามีเพียง",
+          "rationale": "Per uW grammar-connect-exceptions: Thai rephrases to avoid stilted 'not...except' — 'we have only' natural."
+        },
+        {
+          "greek": "πέντε ἄρτους καὶ δύο ἰχθύας",
+          "thai": "ขนมปังห้าก้อนกับปลาสองตัว",
+          "rationale": "Per glossary (MRK 6:38, 41): 'ἄρτους' → 'ขนมปัง'; 'ἰχθύας' → 'ปลา.' Classifier 'ก้อน' for loaves (standard Thai) and 'ตัว' for fish. NEW GLOSSARY: ἄρτος → ขนมปัง (ก้อน classifier); ἰχθύς → ปลา (ตัว classifier)."
+        }
       ],
       "notes": "NO HAPAX. The five loaves + two fish becomes the iconic count. John 6:9 adds that these came from a boy in the crowd. No summary — narrative inventory."
     }
@@ -313,11 +521,15 @@
     "greek": "ὁ δὲ εἶπεν·Φέρετέ μοι ὧδε αὐτούς.",
     "bsb_english": "\"Bring them here to Me,\" Jesus said.",
     "translation": {
-      "thai": "พระองค์ตรัสว่า «จงนำสิ่งเหล่านั้นมาให้เราที่นี่เถิด»",
+      "thai": "พระองค์ตรัสว่า “จงนำสิ่งเหล่านั้นมาให้เราที่นี่เถิด”",
       "thai_literal": "และ พระองค์ กล่าว จงนำ แก่เรา ที่นี่ พวกเขา",
       "thai_summary": null,
       "key_decisions": [
-        {"greek": "Φέρετε μοι ὧδε αὐτούς", "thai": "จงนำสิ่งเหล่านั้นมาให้เราที่นี่เถิด", "rationale": "Plural imperative per uW figs-yousingular. 'จงนำ...มา' natural command. αὐτούς 'them' = loaves and fish; explicit 'สิ่งเหล่านั้น' for Thai pronoun-clarity."}
+        {
+          "greek": "Φέρετε μοι ὧδε αὐτούς",
+          "thai": "จงนำสิ่งเหล่านั้นมาให้เราที่นี่เถิด",
+          "rationale": "Plural imperative per uW figs-yousingular. 'จงนำ...มา' natural command. αὐτούς 'them' = loaves and fish; explicit 'สิ่งเหล่านั้น' for Thai pronoun-clarity."
+        }
       ],
       "notes": "NO HAPAX. Brief command. Sets up the miracle-preparation sequence."
     }
@@ -331,13 +543,33 @@
     "translation": {
       "thai": "พระองค์ทรงสั่งให้ฝูงชนนั่งลงบนหญ้า แล้วทรงหยิบขนมปังห้าก้อนกับปลาสองตัว ทรงเงยพระพักตร์ขึ้นดูฟ้าสวรรค์ กล่าวขอบพระคุณ ทรงหักขนมปังส่งให้เหล่าสาวก และเหล่าสาวกก็แจกแก่ฝูงชน",
       "thai_literal": "และ สั่ง บรรดาฝูงชน ที่จะนั่งลง บน หญ้า รับ ห้า ขนมปัง และ สอง ปลา มองขึ้น สู่ ฟ้า อวยพร และ หัก ให้ แก่ บรรดาสาวก บรรดาขนมปัง และ บรรดาสาวก แก่ บรรดาฝูงชน",
-      "thai_summary": "ลำดับกริยา 5 ตัว — สั่ง-นั่ง, หยิบ, มองขึ้นฟ้า, อวยพร, หัก — ตามพิธีอาหารยิวและสะท้อนในพิธีมหาสนิทที่ 26:26 การ «มองขึ้นดูฟ้าสวรรค์» เป็นท่าอธิษฐาน การ «อวยพร» (εὐλόγησεν) ตามธรรมเนียมยิวคือขอบพระคุณพระเจ้าก่อนรับประทาน (ברכת המוציא เบราคาห์-ฮาโมทซี์) ภาพรวมสะท้อนพระเจ้าเลี้ยงอิสราเอลด้วยมานา (อพย 16) และเอลีชาเลี้ยงคน 100 คน (2 พกษ 4:42-44)",
+      "thai_summary": "ลำดับกริยา 5 ตัว — สั่ง-นั่ง, หยิบ, มองขึ้นฟ้า, อวยพร, หัก — ตามพิธีอาหารยิวและสะท้อนในพิธีมหาสนิทที่ 26:26 การ “มองขึ้นดูฟ้าสวรรค์” เป็นท่าอธิษฐาน การ “อวยพร” (εὐλόγησεν) ตามธรรมเนียมยิวคือขอบพระคุณพระเจ้าก่อนรับประทาน (ברכת המוציא เบราคาห์-ฮาโมทซี์) ภาพรวมสะท้อนพระเจ้าเลี้ยงอิสราเอลด้วยมานา (อพย 16) และเอลีชาเลี้ยงคน 100 คน (2 พกษ 4:42-44)",
       "key_decisions": [
-        {"greek": "κελεύσας τοὺς ὄχλους ἀνακλιθῆναι ἐπὶ τοῦ χόρτου", "thai": "ทรงสั่งให้ฝูงชนนั่งลงบนหญ้า", "rationale": "Per uW figs-explicit: 'recline' = sit-to-eat position in 1st-c culture. Natural Thai 'นั่งลง' captures the action without forcing 'เอน' (recline) which sounds unnatural. Divine: ทรงสั่ง. NEW GLOSSARY: κελεύω (Jesus) → ทรงสั่ง; ἀνακλίνω → นั่งลง; χόρτος → หญ้า."},
-        {"greek": "λαβὼν τοὺς πέντε ἄρτους καὶ τοὺς δύο ἰχθύας", "thai": "ทรงหยิบขนมปังห้าก้อนกับปลาสองตัว", "rationale": "Per glossary (MRK 6:41) pattern. Divine: ทรงหยิบ."},
-        {"greek": "ἀναβλέψας εἰς τὸν οὐρανὸν εὐλόγησεν", "thai": "ทรงเงยพระพักตร์ขึ้นดูฟ้าสวรรค์ กล่าวขอบพระคุณ", "rationale": "Per uW translate-symaction: prayer-posture. 'พระพักตร์' royal-face. Per glossary (MRK 6:41): 'εὐλόγησεν' → 'ทรงกล่าวขอบพระคุณ' — per uW option (1) he blessed God (Jewish table blessing). NEW GLOSSARY: ἀναβλέπω (Jesus) → ทรงเงยพระพักตร์ขึ้นดู; εὐλογέω (at meal) → ทรงกล่าวขอบพระคุณ."},
-        {"greek": "κλάσας ἔδωκεν τοῖς μαθηταῖς τοὺς ἄρτους", "thai": "ทรงหักขนมปังส่งให้เหล่าสาวก", "rationale": "Per uW figs-explicit: broke loaves into servings. Thai 'ทรงหัก' (royal break) + 'ส่งให้.' NEW GLOSSARY: κλάω (Jesus) → ทรงหัก."},
-        {"greek": "οἱ δὲ μαθηταὶ τοῖς ὄχλοις", "thai": "และเหล่าสาวกก็แจกแก่ฝูงชน", "rationale": "Per uW figs-ellipsis: verb 'gave' ellipted from prior clause. Thai supplies 'แจก' (distribute) for natural flow."}
+        {
+          "greek": "κελεύσας τοὺς ὄχλους ἀνακλιθῆναι ἐπὶ τοῦ χόρτου",
+          "thai": "ทรงสั่งให้ฝูงชนนั่งลงบนหญ้า",
+          "rationale": "Per uW figs-explicit: 'recline' = sit-to-eat position in 1st-c culture. Natural Thai 'นั่งลง' captures the action without forcing 'เอน' (recline) which sounds unnatural. Divine: ทรงสั่ง. NEW GLOSSARY: κελεύω (Jesus) → ทรงสั่ง; ἀνακλίνω → นั่งลง; χόρτος → หญ้า."
+        },
+        {
+          "greek": "λαβὼν τοὺς πέντε ἄρτους καὶ τοὺς δύο ἰχθύας",
+          "thai": "ทรงหยิบขนมปังห้าก้อนกับปลาสองตัว",
+          "rationale": "Per glossary (MRK 6:41) pattern. Divine: ทรงหยิบ."
+        },
+        {
+          "greek": "ἀναβλέψας εἰς τὸν οὐρανὸν εὐλόγησεν",
+          "thai": "ทรงเงยพระพักตร์ขึ้นดูฟ้าสวรรค์ กล่าวขอบพระคุณ",
+          "rationale": "Per uW translate-symaction: prayer-posture. 'พระพักตร์' royal-face. Per glossary (MRK 6:41): 'εὐλόγησεν' → 'ทรงกล่าวขอบพระคุณ' — per uW option (1) he blessed God (Jewish table blessing). NEW GLOSSARY: ἀναβλέπω (Jesus) → ทรงเงยพระพักตร์ขึ้นดู; εὐλογέω (at meal) → ทรงกล่าวขอบพระคุณ."
+        },
+        {
+          "greek": "κλάσας ἔδωκεν τοῖς μαθηταῖς τοὺς ἄρτους",
+          "thai": "ทรงหักขนมปังส่งให้เหล่าสาวก",
+          "rationale": "Per uW figs-explicit: broke loaves into servings. Thai 'ทรงหัก' (royal break) + 'ส่งให้.' NEW GLOSSARY: κλάω (Jesus) → ทรงหัก."
+        },
+        {
+          "greek": "οἱ δὲ μαθηταὶ τοῖς ὄχλοις",
+          "thai": "และเหล่าสาวกก็แจกแก่ฝูงชน",
+          "rationale": "Per uW figs-ellipsis: verb 'gave' ellipted from prior clause. Thai supplies 'แจก' (distribute) for natural flow."
+        }
       ],
       "notes": "NO HAPAX. Five-verb ritual sequence (directed-sit / took / looked-up / blessed / broke) parallels Last Supper (Matt 26:26). Eucharistic foreshadowing clear in Matthew. OT echoes: Ex 16 (manna provision), 2 Kings 4:42-44 (Elisha feeding 100 with 20 loaves + leftover), Ps 23:5 ('You prepare a table before me'). ADDED TO NT_OT_CITATIONS: allusion to 2 Kings 4:42-44 (Elisha feeding). Parallel Mark 6:41."
     }
@@ -351,11 +583,23 @@
     "translation": {
       "thai": "ทุกคนได้กินจนอิ่ม แล้วเหล่าสาวกก็เก็บเศษขนมปังที่เหลือได้ถึงสิบสองตะกร้าเต็ม",
       "thai_literal": "และ พวกเขา กิน ทั้งหมด และ อิ่ม และ ยกขึ้น ที่เหลือ ของ บรรดาเศษ สิบสอง ตะกร้า เต็ม",
-      "thai_summary": "จำนวน «สิบสองตะกร้า» เต็มไปด้วยความหมาย — สิบสองเผ่าของอิสราเอลได้รับการเลี้ยงอาหารอย่างบริบูรณ์ สะท้อนคำสัญญาของพระเจ้าใน อสค 34 ที่ทรงเป็นผู้เลี้ยงประชากรของพระองค์ การที่เหลือมากกว่าที่เริ่มต้น (5 ก้อน + 2 ตัว → 12 ตะกร้า) ยืนยันว่าพระเยซูทรงเป็นพระเมสสิยาห์ผู้เลี้ยงที่พระเจ้าทรงสัญญาไว้ และเป็นภาพลางของเลี้ยงอาหารของชาวต่างชาติใน มธ 15:32-39",
+      "thai_summary": "จำนวน “สิบสองตะกร้า” เต็มไปด้วยความหมาย — สิบสองเผ่าของอิสราเอลได้รับการเลี้ยงอาหารอย่างบริบูรณ์ สะท้อนคำสัญญาของพระเจ้าใน อสค 34 ที่ทรงเป็นผู้เลี้ยงประชากรของพระองค์ การที่เหลือมากกว่าที่เริ่มต้น (5 ก้อน + 2 ตัว → 12 ตะกร้า) ยืนยันว่าพระเยซูทรงเป็นพระเมสสิยาห์ผู้เลี้ยงที่พระเจ้าทรงสัญญาไว้ และเป็นภาพลางของเลี้ยงอาหารของชาวต่างชาติใน มธ 15:32-39",
       "key_decisions": [
-        {"greek": "ἔφαγον πάντες καὶ ἐχορτάσθησαν", "thai": "ทุกคนได้กินจนอิ่ม", "rationale": "Per uW figs-activepassive: ἐχορτάσθησαν pass 'were filled/satisfied.' Thai active-natural 'จนอิ่ม' (until full). Per glossary (MRK 6:42): 'ἐχορτάσθησαν' → pattern 'อิ่ม.' NEW GLOSSARY: χορτάζω (pass.) → อิ่ม."},
-        {"greek": "ἦραν τὸ περισσεῦον τῶν κλασμάτων", "thai": "เหล่าสาวกก็เก็บเศษขนมปังที่เหลือ", "rationale": "Per uW writing-pronouns: 'they took up' = disciples (not the crowd). Explicit 'เหล่าสาวก' for Thai clarity. Per uW figs-idiom: τὸ περισσεῦον 'the remaining.' NEW GLOSSARY: κλάσμα → เศษ; περισσεύω (as participle-noun) → ที่เหลือ."},
-        {"greek": "δώδεκα κοφίνους πλήρεις", "thai": "สิบสองตะกร้าเต็ม", "rationale": "Per uW translate-unknown: κόφινος = lightweight circular container. Per glossary (MRK 6:43 pattern): κόφινος → ตะกร้า. NEW GLOSSARY: κόφινος → ตะกร้า (พหุพจน์ ตะกร้าทั้งหลาย); πλήρης → เต็ม."}
+        {
+          "greek": "ἔφαγον πάντες καὶ ἐχορτάσθησαν",
+          "thai": "ทุกคนได้กินจนอิ่ม",
+          "rationale": "Per uW figs-activepassive: ἐχορτάσθησαν pass 'were filled/satisfied.' Thai active-natural 'จนอิ่ม' (until full). Per glossary (MRK 6:42): 'ἐχορτάσθησαν' → pattern 'อิ่ม.' NEW GLOSSARY: χορτάζω (pass.) → อิ่ม."
+        },
+        {
+          "greek": "ἦραν τὸ περισσεῦον τῶν κλασμάτων",
+          "thai": "เหล่าสาวกก็เก็บเศษขนมปังที่เหลือ",
+          "rationale": "Per uW writing-pronouns: 'they took up' = disciples (not the crowd). Explicit 'เหล่าสาวก' for Thai clarity. Per uW figs-idiom: τὸ περισσεῦον 'the remaining.' NEW GLOSSARY: κλάσμα → เศษ; περισσεύω (as participle-noun) → ที่เหลือ."
+        },
+        {
+          "greek": "δώδεκα κοφίνους πλήρεις",
+          "thai": "สิบสองตะกร้าเต็ม",
+          "rationale": "Per uW translate-unknown: κόφινος = lightweight circular container. Per glossary (MRK 6:43 pattern): κόφινος → ตะกร้า. NEW GLOSSARY: κόφινος → ตะกร้า (พหุพจน์ ตะกร้าทั้งหลาย); πλήρης → เต็ม."
+        }
       ],
       "notes": "NO HAPAX. Twelve baskets = 12 tribes symbolism (cf. Matt 15:37 where 7 baskets for Gentile-feeding suggests 70 nations). Matthew's deliberate numerical theology. Parallel Mark 6:42-43."
     }
@@ -369,10 +613,18 @@
     "translation": {
       "thai": "ส่วนคนที่กินนั้นเป็นผู้ชายประมาณห้าพันคน ไม่นับผู้หญิงและเด็ก",
       "thai_literal": "ส่วน บรรดาผู้กำลังกิน เป็น ผู้ชาย ประมาณ ห้าพัน ไม่นับ ผู้หญิงทั้งหลาย และ เด็กทั้งหลาย",
-      "thai_summary": "มัทธิวเพิ่มรายละเอียด «ไม่นับผู้หญิงและเด็ก» ต่างจากมาระโกและลูกา ชี้ว่าผู้รับประทานจริงอาจเป็น 10,000-20,000 คน การนับเฉพาะผู้ชายเป็นประเพณีการสำรวจของโบราณ (กดว 1:2-3) การเพิ่มข้อมูลนี้เสริมขนาดอัศจรรย์และเชื่อมกับตำนานการจัดขบวนของอิสราเอลในถิ่นทุรกันดาร",
+      "thai_summary": "มัทธิวเพิ่มรายละเอียด “ไม่นับผู้หญิงและเด็ก” ต่างจากมาระโกและลูกา ชี้ว่าผู้รับประทานจริงอาจเป็น 10,000-20,000 คน การนับเฉพาะผู้ชายเป็นประเพณีการสำรวจของโบราณ (กดว 1:2-3) การเพิ่มข้อมูลนี้เสริมขนาดอัศจรรย์และเชื่อมกับตำนานการจัดขบวนของอิสราเอลในถิ่นทุรกันดาร",
       "key_decisions": [
-        {"greek": "ἄνδρες ὡσεὶ πεντακισχίλιοι", "thai": "ผู้ชายประมาณห้าพันคน", "rationale": "ἀνήρ here specifically male adult (not human-generic). Matthew's uniqueness: χωρίς γυναικῶν καὶ παιδίων added only by Matthew. ὡσεί 'about.' NEW GLOSSARY: ἀνήρ (male-specific) → ผู้ชาย; ὡσεί → ประมาณ; πεντακισχίλιοι → ห้าพัน."},
-        {"greek": "χωρὶς γυναικῶν καὶ παιδίων", "thai": "ไม่นับผู้หญิงและเด็ก", "rationale": "Per uW figs-explicit: total excludes women and children. Thai 'ไม่นับ' (not counting). NEW GLOSSARY: γυνή → ผู้หญิง / ภรรยา (context); παιδίον → เด็ก; χωρίς → ไม่นับ / นอกจาก."}
+        {
+          "greek": "ἄνδρες ὡσεὶ πεντακισχίλιοι",
+          "thai": "ผู้ชายประมาณห้าพันคน",
+          "rationale": "ἀνήρ here specifically male adult (not human-generic). Matthew's uniqueness: χωρίς γυναικῶν καὶ παιδίων added only by Matthew. ὡσεί 'about.' NEW GLOSSARY: ἀνήρ (male-specific) → ผู้ชาย; ὡσεί → ประมาณ; πεντακισχίλιοι → ห้าพัน."
+        },
+        {
+          "greek": "χωρὶς γυναικῶν καὶ παιδίων",
+          "thai": "ไม่นับผู้หญิงและเด็ก",
+          "rationale": "Per uW figs-explicit: total excludes women and children. Thai 'ไม่นับ' (not counting). NEW GLOSSARY: γυνή → ผู้หญิง / ภรรยา (context); παιδίον → เด็ก; χωρίς → ไม่นับ / นอกจาก."
+        }
       ],
       "notes": "NO HAPAX. Matthew's distinctive addition of 'besides women and children' triples or quadruples the implied miracle scale. This is background-information style (per uW writing-background on δέ). Parallel Mark 6:44 (which says just '5000 men')."
     }
@@ -388,9 +640,21 @@
       "thai_literal": "และ ทันที บีบบังคับ บรรดาสาวก ที่จะลง สู่ เรือ และ ที่จะล่วงหน้า พระองค์ สู่ อีกฟาก จนกว่า จะปล่อย บรรดาฝูงชน",
       "thai_summary": null,
       "key_decisions": [
-        {"greek": "εὐθέως ἠνάγκασεν τοὺς μαθητὰς ἐμβῆναι εἰς πλοῖον", "thai": "ทันใดนั้น พระองค์ทรงเร่งให้เหล่าสาวกลงเรือ", "rationale": "Per glossary (MRK 6:45): 'Καὶ εὐθὺς ἠνάγκασεν τοὺς μαθητὰς αὐτοῦ' → 'ทันใดนั้น พระองค์ทรงเร่งให้พวกสาวก.' Same Greek verb in Mark parallel — preserve glossary rendering. ἀναγκάζω 'compel, urge strongly' here 'ทรงเร่ง.' NEW GLOSSARY: ἀναγκάζω (Jesus, mild) → ทรงเร่งให้; ἐμβαίνω → ลงเรือ; πλοῖον → เรือ."},
-        {"greek": "προάγειν αὐτὸν εἰς τὸ πέραν", "thai": "ล่วงหน้าพระองค์ไปยังอีกฟากหนึ่ง", "rationale": "Per uW figs-explicit: 'to the other side of the Sea of Galilee.' προάγω 'go before.' Thai 'ล่วงหน้าพระองค์' (go ahead of him) + 'อีกฟากหนึ่ง.' NEW GLOSSARY: προάγω → ล่วงหน้า; πέραν → อีกฟาก."},
-        {"greek": "ἕως οὗ ἀπολύσῃ τοὺς ὄχλους", "thai": "ในขณะที่พระองค์ทรงให้ฝูงชนกลับไป", "rationale": "ἕως οὗ + subjunctive 'until/while.' Thai 'ในขณะที่' (while) captures simultaneity better than 'จนกว่า' (until) since the dismissal and boat-departure are concurrent."}
+        {
+          "greek": "εὐθέως ἠνάγκασεν τοὺς μαθητὰς ἐμβῆναι εἰς πλοῖον",
+          "thai": "ทันใดนั้น พระองค์ทรงเร่งให้เหล่าสาวกลงเรือ",
+          "rationale": "Per glossary (MRK 6:45): 'Καὶ εὐθὺς ἠνάγκασεν τοὺς μαθητὰς αὐτοῦ' → 'ทันใดนั้น พระองค์ทรงเร่งให้พวกสาวก.' Same Greek verb in Mark parallel — preserve glossary rendering. ἀναγκάζω 'compel, urge strongly' here 'ทรงเร่ง.' NEW GLOSSARY: ἀναγκάζω (Jesus, mild) → ทรงเร่งให้; ἐμβαίνω → ลงเรือ; πλοῖον → เรือ."
+        },
+        {
+          "greek": "προάγειν αὐτὸν εἰς τὸ πέραν",
+          "thai": "ล่วงหน้าพระองค์ไปยังอีกฟากหนึ่ง",
+          "rationale": "Per uW figs-explicit: 'to the other side of the Sea of Galilee.' προάγω 'go before.' Thai 'ล่วงหน้าพระองค์' (go ahead of him) + 'อีกฟากหนึ่ง.' NEW GLOSSARY: προάγω → ล่วงหน้า; πέραν → อีกฟาก."
+        },
+        {
+          "greek": "ἕως οὗ ἀπολύσῃ τοὺς ὄχλους",
+          "thai": "ในขณะที่พระองค์ทรงให้ฝูงชนกลับไป",
+          "rationale": "ἕως οὗ + subjunctive 'until/while.' Thai 'ในขณะที่' (while) captures simultaneity better than 'จนกว่า' (until) since the dismissal and boat-departure are concurrent."
+        }
       ],
       "notes": "NO HAPAX. Jesus deliberately separates from disciples for solitary prayer (v.23). The ἠνάγκασεν 'compelled' hints disciples resisted leaving without him. Parallel Mark 6:45."
     }
@@ -406,9 +670,21 @@
       "thai_literal": "และ ปล่อย บรรดาฝูงชน ขึ้นไป สู่ ภูเขา ตามลำพัง ที่จะอธิษฐาน เย็น เมื่อมาถึง เพียงลำพัง ทรงเป็น ที่นั่น",
       "thai_summary": "พระเยซูทรงแสวงหาเวลาอธิษฐานตามลำพังในช่วงสำคัญของชีวิต (เช่น มก 1:35; ลก 6:12 ก่อนเลือกอัครทูต 12; มธ 26:36 เกทเสมนี) ภาพพระองค์บนภูเขาอธิษฐานสะท้อนโมเสสบนภูเขาซีนาย (อพย 24) และเอลียาห์บนภูเขาโฮเรบ (1 พกษ 19) — ฉากสำคัญของการพบพระเจ้า",
       "key_decisions": [
-        {"greek": "ἀπολύσας τοὺς ὄχλους", "thai": "ทรงให้ฝูงชนกลับไป", "rationale": "Divine: ทรงให้...กลับไป. Consistent with v.15 & v.22."},
-        {"greek": "ἀνέβη εἰς τὸ ὄρος κατ’ἰδίαν προσεύξασθαι", "thai": "เสด็จขึ้นไปบนภูเขาลำพังเพื่อทรงอธิษฐาน", "rationale": "Per uW figs-extrainfo: τὸ ὄρος unspecified mountain — 'ภูเขา' generic. Per glossary (MRK 6:46 pattern): 'ἀνέβη εἰς τὸ ὄρος' → 'เสด็จขึ้นไปบนภูเขา.' κατ' ἰδίαν → ลำพัง. Divine: เสด็จ, ทรงอธิษฐาน. NEW GLOSSARY: ἀναβαίνω εἰς τὸ ὄρος (Jesus) → เสด็จขึ้นไปบนภูเขา; προσεύχομαι (Jesus) → ทรงอธิษฐาน; ὄρος → ภูเขา."},
-        {"greek": "ὀψίας δὲ γενομένης μόνος ἦν ἐκεῖ", "thai": "เมื่อค่ำลง พระองค์ทรงอยู่ที่นั่นเพียงลำพัง", "rationale": "Per uW figs-explicit: later evening than v.15 — Thai 'ค่ำลง' (night-falling) captures later-than-early-evening. μόνος 'alone.' Divine ทรงอยู่."}
+        {
+          "greek": "ἀπολύσας τοὺς ὄχλους",
+          "thai": "ทรงให้ฝูงชนกลับไป",
+          "rationale": "Divine: ทรงให้...กลับไป. Consistent with v.15 & v.22."
+        },
+        {
+          "greek": "ἀνέβη εἰς τὸ ὄρος κατ’ἰδίαν προσεύξασθαι",
+          "thai": "เสด็จขึ้นไปบนภูเขาลำพังเพื่อทรงอธิษฐาน",
+          "rationale": "Per uW figs-extrainfo: τὸ ὄρος unspecified mountain — 'ภูเขา' generic. Per glossary (MRK 6:46 pattern): 'ἀνέβη εἰς τὸ ὄρος' → 'เสด็จขึ้นไปบนภูเขา.' κατ' ἰδίαν → ลำพัง. Divine: เสด็จ, ทรงอธิษฐาน. NEW GLOSSARY: ἀναβαίνω εἰς τὸ ὄρος (Jesus) → เสด็จขึ้นไปบนภูเขา; προσεύχομαι (Jesus) → ทรงอธิษฐาน; ὄρος → ภูเขา."
+        },
+        {
+          "greek": "ὀψίας δὲ γενομένης μόνος ἦν ἐκεῖ",
+          "thai": "เมื่อค่ำลง พระองค์ทรงอยู่ที่นั่นเพียงลำพัง",
+          "rationale": "Per uW figs-explicit: later evening than v.15 — Thai 'ค่ำลง' (night-falling) captures later-than-early-evening. μόνος 'alone.' Divine ทรงอยู่."
+        }
       ],
       "notes": "NO HAPAX. OT ECHO: Moses on Sinai (Ex 24:15-18), Elijah on Horeb (1 Kings 19) — mountain-prayer is paradigmatic Israelite encounter with God. Matthean pattern: prayer precedes miraculous demonstrations (cf. 17:1 Transfiguration mountain). Parallel Mark 6:46-47."
     }
@@ -422,11 +698,23 @@
     "translation": {
       "thai": "ส่วนเรือก็ห่างจากฝั่งไปหลายสตาเดียแล้ว ถูกคลื่นซัดรุนแรงเพราะลมพัดสวนทางอยู่",
       "thai_literal": "ส่วน เรือ แล้ว สตาเดีย หลาย จาก แผ่นดิน อยู่ห่าง ถูกทำให้เจ็บปวด โดย บรรดาคลื่น เป็น เพราะ ตรงข้าม ลม",
-      "thai_summary": "ข้อนี้มีตัวแปรข้อความ: SBLGNT อ่านว่า «ห่างจากฝั่งไปหลายสตาเดีย» (1 สตาเดีย = 185 เมตร จึงราว 4-5 กม.จากฝั่ง) ต้นฉบับอื่นบางฉบับ (NA28, ULT) อ่านว่า «อยู่กลางทะเลแล้ว» การแปลของเรายึด SBLGNT ตรงกับ BSB, ESV, NIV สถานการณ์ทั้งสองชี้ตรงกันว่าสาวกอยู่ในพายุห่างจากฝั่ง",
+      "thai_summary": "ข้อนี้มีตัวแปรข้อความ: SBLGNT อ่านว่า “ห่างจากฝั่งไปหลายสตาเดีย” (1 สตาเดีย = 185 เมตร จึงราว 4-5 กม.จากฝั่ง) ต้นฉบับอื่นบางฉบับ (NA28, ULT) อ่านว่า “อยู่กลางทะเลแล้ว” การแปลของเรายึด SBLGNT ตรงกับ BSB, ESV, NIV สถานการณ์ทั้งสองชี้ตรงกันว่าสาวกอยู่ในพายุห่างจากฝั่ง",
       "key_decisions": [
-        {"greek": "τὸ πλοῖον ἤδη σταδίους πολλοὺς ἀπὸ τῆς γῆς ἀπεῖχεν", "thai": "เรือก็ห่างจากฝั่งไปหลายสตาเดียแล้ว", "rationale": "TEXTUAL VARIANT: SBLGNT σταδίους πολλοὺς ἀπὸ τῆς γῆς 'many stadia from land'; some mss (cf. ULT) read μέσον τῆς θαλάσσης 'in the middle of the sea.' We follow SBLGNT per RULES.md §0 (SBLGNT = base text). BSB, ESV, NIV all follow SBLGNT reading. σταδίους accusative-of-extent; stadion ≈ 185m. Thai 'สตาเดีย' transliterated (technical unit); 'หลาย' = 'many.' Not an inclusion-variant so no brackets per RULES §5. γῆ here = 'land' (from sea) → ฝั่ง (shore). NEW GLOSSARY: στάδιον → สตาเดีย; γῆ (shore-context) → ฝั่ง."},
-        {"greek": "βασανιζόμενον ὑπὸ τῶν κυμάτων", "thai": "ถูกคลื่นซัดรุนแรง", "rationale": "Per uW figs-personification: waves 'tormenting' the boat. βασανίζω 'torture, torment, batter.' Per glossary (MRK 4:37 pattern): 'τὰ κύματα ἐπέβαλλεν' → 'คลื่น...ซัดเข้ามา.' Thai 'ถูกคลื่นซัดรุนแรง' (battered hard by waves). NEW GLOSSARY: βασανίζω (of boat) → ถูก...ซัดรุนแรง; κῦμα → คลื่น."},
-        {"greek": "ἦν γὰρ ἐναντίος ὁ ἄνεμος", "thai": "เพราะลมพัดสวนทางอยู่", "rationale": "Per uW figs-explicit: wind blowing opposite direction boat was sailing. Thai 'ลมพัดสวนทาง' (wind-blows-counter-direction) idiomatic. NEW GLOSSARY: ἄνεμος → ลม; ἐναντίος (ἄνεμος) → สวนทาง."}
+        {
+          "greek": "τὸ πλοῖον ἤδη σταδίους πολλοὺς ἀπὸ τῆς γῆς ἀπεῖχεν",
+          "thai": "เรือก็ห่างจากฝั่งไปหลายสตาเดียแล้ว",
+          "rationale": "TEXTUAL VARIANT: SBLGNT σταδίους πολλοὺς ἀπὸ τῆς γῆς 'many stadia from land'; some mss (cf. ULT) read μέσον τῆς θαλάσσης 'in the middle of the sea.' We follow SBLGNT per RULES.md §0 (SBLGNT = base text). BSB, ESV, NIV all follow SBLGNT reading. σταδίους accusative-of-extent; stadion ≈ 185m. Thai 'สตาเดีย' transliterated (technical unit); 'หลาย' = 'many.' Not an inclusion-variant so no brackets per RULES §5. γῆ here = 'land' (from sea) → ฝั่ง (shore). NEW GLOSSARY: στάδιον → สตาเดีย; γῆ (shore-context) → ฝั่ง."
+        },
+        {
+          "greek": "βασανιζόμενον ὑπὸ τῶν κυμάτων",
+          "thai": "ถูกคลื่นซัดรุนแรง",
+          "rationale": "Per uW figs-personification: waves 'tormenting' the boat. βασανίζω 'torture, torment, batter.' Per glossary (MRK 4:37 pattern): 'τὰ κύματα ἐπέβαλλεν' → 'คลื่น...ซัดเข้ามา.' Thai 'ถูกคลื่นซัดรุนแรง' (battered hard by waves). NEW GLOSSARY: βασανίζω (of boat) → ถูก...ซัดรุนแรง; κῦμα → คลื่น."
+        },
+        {
+          "greek": "ἦν γὰρ ἐναντίος ὁ ἄνεμος",
+          "thai": "เพราะลมพัดสวนทางอยู่",
+          "rationale": "Per uW figs-explicit: wind blowing opposite direction boat was sailing. Thai 'ลมพัดสวนทาง' (wind-blows-counter-direction) idiomatic. NEW GLOSSARY: ἄνεμος → ลม; ἐναντίος (ἄνεμος) → สวนทาง."
+        }
       ],
       "notes": "TEXTUAL VARIANT: SBLGNT σταδίους πολλοὺς ἀπὸ τῆς γῆς vs. variant μέσον τῆς θαλάσσης. We follow SBLGNT (word-choice variant, not inclusion-variant, so no bracketing per RULES §5). BSB/ESV/NIV also follow SBLGNT. Not doctrinally consequential — both readings describe boat in storm far from shore. NO HAPAX."
     }
@@ -440,11 +728,23 @@
     "translation": {
       "thai": "ครั้นเวลายามที่สี่ของคืนนั้น พระเยซูเสด็จมาหาพวกเขา ทรงดำเนินอยู่บนพื้นทะเล",
       "thai_literal": "และ ที่สี่ ยาม ของ คืน เสด็จมา สู่ พวกเขา กำลังดำเนิน บน ทะเล",
-      "thai_summary": "«ยามที่สี่» ของคืน คือช่วง 03:00-06:00 น. ก่อนรุ่งสาง ชาวยิวเดิมแบ่งคืนเป็นสามยาม ระบบสี่ยามเป็นแบบโรมันที่มัทธิวใช้ แสดงว่าสาวกต่อสู้อยู่ในเรือทั้งคืน การเดินบนทะเลสะท้อน โยบ 9:8 «พระเจ้าผู้ทรงเดินบนคลื่นในทะเล» และ สดด 77:19 «ทางของพระองค์อยู่ในทะเลใหญ่ บาทาของพระองค์ในน้ำอันมากหลาย» — การสำแดงความเป็นพระเจ้าของพระเยซู",
+      "thai_summary": "“ยามที่สี่” ของคืน คือช่วง 03:00-06:00 น. ก่อนรุ่งสาง ชาวยิวเดิมแบ่งคืนเป็นสามยาม ระบบสี่ยามเป็นแบบโรมันที่มัทธิวใช้ แสดงว่าสาวกต่อสู้อยู่ในเรือทั้งคืน การเดินบนทะเลสะท้อน โยบ 9:8 “พระเจ้าผู้ทรงเดินบนคลื่นในทะเล” และ สดด 77:19 “ทางของพระองค์อยู่ในทะเลใหญ่ บาทาของพระองค์ในน้ำอันมากหลาย” — การสำแดงความเป็นพระเจ้าของพระเยซู",
       "key_decisions": [
-        {"greek": "τετάρτῃ φυλακῇ τῆς νυκτός", "thai": "เวลายามที่สี่ของคืนนั้น", "rationale": "Per uW translate-unknown: 3-6 AM Roman time-division. Thai 'ยามที่สี่' literal + 'ของคืน.' NEW GLOSSARY: φυλακή (night-watch) → ยาม."},
-        {"greek": "ἦλθεν πρὸς αὐτοὺς", "thai": "พระเยซูเสด็จมาหาพวกเขา", "rationale": "Per uW writing-pronouns: subject = Jesus (explicit in Thai for clarity since prior subject was τὸ πλοῖον). Divine: เสด็จมา."},
-        {"greek": "περιπατῶν ἐπὶ τὴν θάλασσαν", "thai": "ทรงดำเนินอยู่บนพื้นทะเล", "rationale": "Per uW figs-explicit: miraculously on surface. Present participle 'walking.' Divine register: ทรงดำเนิน (royal 'walk'). Thai 'บนพื้นทะเล' (on the surface of the sea) makes surface-walking explicit vs. plain 'บนทะเล' which could mean 'over the sea (by boat).' NEW GLOSSARY: περιπατέω (Jesus, miraculous) → ทรงดำเนิน; θάλασσα (Galilee) → ทะเล."}
+        {
+          "greek": "τετάρτῃ φυλακῇ τῆς νυκτός",
+          "thai": "เวลายามที่สี่ของคืนนั้น",
+          "rationale": "Per uW translate-unknown: 3-6 AM Roman time-division. Thai 'ยามที่สี่' literal + 'ของคืน.' NEW GLOSSARY: φυλακή (night-watch) → ยาม."
+        },
+        {
+          "greek": "ἦλθεν πρὸς αὐτοὺς",
+          "thai": "พระเยซูเสด็จมาหาพวกเขา",
+          "rationale": "Per uW writing-pronouns: subject = Jesus (explicit in Thai for clarity since prior subject was τὸ πλοῖον). Divine: เสด็จมา."
+        },
+        {
+          "greek": "περιπατῶν ἐπὶ τὴν θάλασσαν",
+          "thai": "ทรงดำเนินอยู่บนพื้นทะเล",
+          "rationale": "Per uW figs-explicit: miraculously on surface. Present participle 'walking.' Divine register: ทรงดำเนิน (royal 'walk'). Thai 'บนพื้นทะเล' (on the surface of the sea) makes surface-walking explicit vs. plain 'บนทะเล' which could mean 'over the sea (by boat).' NEW GLOSSARY: περιπατέω (Jesus, miraculous) → ทรงดำเนิน; θάλασσα (Galilee) → ทะเล."
+        }
       ],
       "notes": "NO HAPAX. OT ALLUSION: Job 9:8 LXX 'περιπατῶν ἐπὶ θαλάσσης' (God walking on the sea) — same phrase. Ps 77:19 (path through sea). ADDED TO NT_OT_CITATIONS: allusion to Job 9:8 (divine epiphany on sea). Theophany: walking-on-water is divine prerogative. Parallel Mark 6:48."
     }
@@ -456,14 +756,30 @@
     "greek": "οἱ δὲ μαθηταὶ ἰδόντες αὐτὸν ἐπὶ τῆς θαλάσσης περιπατοῦντα ἐταράχθησαν λέγοντες ὅτι Φάντασμά ἐστιν,καὶ ἀπὸ τοῦ φόβου ἔκραξαν.",
     "bsb_english": "When the disciples saw Him walking on the sea, they were terrified. \"It's a ghost!\" they said, and cried out in fear.",
     "translation": {
-      "thai": "เมื่อเหล่าสาวกเห็นพระองค์ทรงดำเนินบนทะเลก็ตกใจวุ่นวาย พูดกันว่า «ผี!» แล้วร้องออกมาด้วยความกลัว",
+      "thai": "เมื่อเหล่าสาวกเห็นพระองค์ทรงดำเนินบนทะเลก็ตกใจวุ่นวาย พูดกันว่า “ผี!” แล้วร้องออกมาด้วยความกลัว",
       "thai_literal": "และ บรรดาสาวก เห็น พระองค์ บน ทะเล กำลังดำเนิน ถูกทำให้วุ่นวาย กล่าว ว่า ผี เป็น และ จาก ความกลัว ร้อง",
       "thai_summary": null,
       "key_decisions": [
-        {"greek": "ἰδόντες αὐτὸν ... περιπατοῦντα", "thai": "เห็นพระองค์ทรงดำเนิน", "rationale": "Plain 'เห็น' (disciples subject) + divine περιπατοῦντα 'ทรงดำเนิน' (Jesus walking)."},
-        {"greek": "ἐταράχθησαν", "thai": "ตกใจวุ่นวาย", "rationale": "Per uW figs-activepassive: aor pass 'were disturbed/terrified.' Thai 'ตกใจวุ่นวาย' (startled-agitated) captures the panic better than single 'ตกใจ.' NEW GLOSSARY: ταράσσω (pass.) → ตกใจวุ่นวาย."},
-        {"greek": "λέγοντες ὅτι Φάντασμά ἐστιν", "thai": "พูดกันว่า «ผี!»", "rationale": "Per uW translate-unknown: φάντασμα 'ghost/apparition' — supernatural being culturally associated with bad omen. Per glossary (MRK 6:49): 'ἔδοξαν ὅτι φάντασμά ἐστιν' → 'ก็คิดว่าเป็นผี.' Thai 'ผี' standard. Exclamatory punctuation for their terror. NEW GLOSSARY: φάντασμα → ผี."},
-        {"greek": "ἀπὸ τοῦ φόβου ἔκραξαν", "thai": "ร้องออกมาด้วยความกลัว", "rationale": "Per uW figs-abstractnouns. 'ร้องออกมาด้วยความกลัว' standard. NEW GLOSSARY: φόβος → ความกลัว; κράζω (of fear) → ร้อง."}
+        {
+          "greek": "ἰδόντες αὐτὸν ... περιπατοῦντα",
+          "thai": "เห็นพระองค์ทรงดำเนิน",
+          "rationale": "Plain 'เห็น' (disciples subject) + divine περιπατοῦντα 'ทรงดำเนิน' (Jesus walking)."
+        },
+        {
+          "greek": "ἐταράχθησαν",
+          "thai": "ตกใจวุ่นวาย",
+          "rationale": "Per uW figs-activepassive: aor pass 'were disturbed/terrified.' Thai 'ตกใจวุ่นวาย' (startled-agitated) captures the panic better than single 'ตกใจ.' NEW GLOSSARY: ταράσσω (pass.) → ตกใจวุ่นวาย."
+        },
+        {
+          "greek": "λέγοντες ὅτι Φάντασμά ἐστιν",
+          "thai": "พูดกันว่า “ผี!”",
+          "rationale": "Per uW translate-unknown: φάντασμα 'ghost/apparition' — supernatural being culturally associated with bad omen. Per glossary (MRK 6:49): 'ἔδοξαν ὅτι φάντασμά ἐστιν' → 'ก็คิดว่าเป็นผี.' Thai 'ผี' standard. Exclamatory punctuation for their terror. NEW GLOSSARY: φάντασμα → ผี."
+        },
+        {
+          "greek": "ἀπὸ τοῦ φόβου ἔκραξαν",
+          "thai": "ร้องออกมาด้วยความกลัว",
+          "rationale": "Per uW figs-abstractnouns. 'ร้องออกมาด้วยความกลัว' standard. NEW GLOSSARY: φόβος → ความกลัว; κράζω (of fear) → ร้อง."
+        }
       ],
       "notes": "NO HAPAX. Disciples misidentify the theophany as demonic — inverted from reality. Matthean theme: human fear obscures divine presence. Parallel Mark 6:49."
     }
@@ -475,14 +791,30 @@
     "greek": "εὐθὺς δὲ ἐλάλησεν αὐτοῖς ὁ Ἰησοῦς λέγων·Θαρσεῖτε,ἐγώ εἰμι·μὴ φοβεῖσθε.",
     "bsb_english": "But Jesus spoke up at once: \"Take courage! It is I. Do not be afraid.\"",
     "translation": {
-      "thai": "แต่ทันใดนั้น พระเยซูตรัสกับพวกเขาว่า «จงชื่นใจเถิด เราเอง อย่ากลัวเลย»",
+      "thai": "แต่ทันใดนั้น พระเยซูตรัสกับพวกเขาว่า “จงชื่นใจเถิด เราเอง อย่ากลัวเลย”",
       "thai_literal": "แต่ ทันที กล่าว แก่ พวกเขา พระเยซู กล่าว จงกล้าหาญ เรา เป็น อย่ากลัว",
-      "thai_summary": "«เราเอง» (ἐγώ εἰμι) คือถ้อยคำที่พระเจ้าทรงใช้ตรัสกับโมเสสที่พุ่มไม้ไฟ «เราเป็นผู้ซึ่งเป็น» (אהיה אשר אהיה อพย 3:14) และใน อิสยาห์ 43:10-13 ในระดับผิวคือ «นี่เราเอง» แต่ในบริบทการเดินบนทะเล + การสงบพายุ เป็นการสำแดงความเป็นพระเจ้าอย่างเป็นนัย สาวกยังไม่เข้าใจเต็มที่ แต่ในข้อ 33 พวกเขาจะกราบนมัสการและประกาศว่าพระองค์ทรงเป็นพระบุตรของพระเจ้า",
+      "thai_summary": "“เราเอง” (ἐγώ εἰμι) คือถ้อยคำที่พระเจ้าทรงใช้ตรัสกับโมเสสที่พุ่มไม้ไฟ “เราเป็นผู้ซึ่งเป็น” (אהיה אשר אהיה อพย 3:14) และใน อิสยาห์ 43:10-13 ในระดับผิวคือ “นี่เราเอง” แต่ในบริบทการเดินบนทะเล + การสงบพายุ เป็นการสำแดงความเป็นพระเจ้าอย่างเป็นนัย สาวกยังไม่เข้าใจเต็มที่ แต่ในข้อ 33 พวกเขาจะกราบนมัสการและประกาศว่าพระองค์ทรงเป็นพระบุตรของพระเจ้า",
       "key_decisions": [
-        {"greek": "εὐθὺς δὲ ἐλάλησεν αὐτοῖς ὁ Ἰησοῦς λέγων", "thai": "แต่ทันใดนั้น พระเยซูตรัสกับพวกเขาว่า", "rationale": "εὐθύς 'immediately.' Divine speech: ตรัส. 'ทันใดนั้น' standard."},
-        {"greek": "Θαρσεῖτε", "thai": "จงชื่นใจเถิด", "rationale": "Per uW figs-yousingular (plural) + figs-abstractnouns. Imperative plural 'take courage.' Thai 'จงชื่นใจเถิด' (be cheerful/encouraged — formula used in Thai Bible for θαρσέω). Alternative 'จงกล้าหาญ' (be brave) also possible but 'ชื่นใจ' captures the encourage-comfort tone better. NEW GLOSSARY: θαρσέω → จงชื่นใจ."},
-        {"greek": "ἐγώ εἰμι", "thai": "เราเอง", "rationale": "SURFACE MEANING: simple self-identification 'it is I / it's me.' DEEPER ECHO: LXX divine formula (Ex 3:14 ἐγώ εἰμι ὁ ὤν; Is 43:10 ἐγὼ εἰμί; cf. John's usage in John 6:20, 8:58). Thai 'เราเอง' (it is I) preserves surface + leaves theological echo to thai_summary + notes. Not forcing 'เราเป็นผู้ที่เป็น' (which would over-theologize surface-level). NEW GLOSSARY: ἐγώ εἰμι (Jesus, self-id) → เราเอง."},
-        {"greek": "μὴ φοβεῖσθε", "thai": "อย่ากลัวเลย", "rationale": "Present imperative plural negative. Thai 'อย่ากลัวเลย' with softening 'เลย' natural."}
+        {
+          "greek": "εὐθὺς δὲ ἐλάλησεν αὐτοῖς ὁ Ἰησοῦς λέγων",
+          "thai": "แต่ทันใดนั้น พระเยซูตรัสกับพวกเขาว่า",
+          "rationale": "εὐθύς 'immediately.' Divine speech: ตรัส. 'ทันใดนั้น' standard."
+        },
+        {
+          "greek": "Θαρσεῖτε",
+          "thai": "จงชื่นใจเถิด",
+          "rationale": "Per uW figs-yousingular (plural) + figs-abstractnouns. Imperative plural 'take courage.' Thai 'จงชื่นใจเถิด' (be cheerful/encouraged — formula used in Thai Bible for θαρσέω). Alternative 'จงกล้าหาญ' (be brave) also possible but 'ชื่นใจ' captures the encourage-comfort tone better. NEW GLOSSARY: θαρσέω → จงชื่นใจ."
+        },
+        {
+          "greek": "ἐγώ εἰμι",
+          "thai": "เราเอง",
+          "rationale": "SURFACE MEANING: simple self-identification 'it is I / it's me.' DEEPER ECHO: LXX divine formula (Ex 3:14 ἐγώ εἰμι ὁ ὤν; Is 43:10 ἐγὼ εἰμί; cf. John's usage in John 6:20, 8:58). Thai 'เราเอง' (it is I) preserves surface + leaves theological echo to thai_summary + notes. Not forcing 'เราเป็นผู้ที่เป็น' (which would over-theologize surface-level). NEW GLOSSARY: ἐγώ εἰμι (Jesus, self-id) → เราเอง."
+        },
+        {
+          "greek": "μὴ φοβεῖσθε",
+          "thai": "อย่ากลัวเลย",
+          "rationale": "Present imperative plural negative. Thai 'อย่ากลัวเลย' with softening 'เลย' natural."
+        }
       ],
       "notes": "OT ALLUSION: Ex 3:14 + Is 43:10, 13 — divine ἐγώ εἰμι self-identification. In context of walking-on-water theophany and storm-stilling (v.32), this is a theologically-charged statement, not just 'it's me.' Matthew's readers would catch the LXX echo. ADDED TO NT_OT_CITATIONS: allusion to Ex 3:14 / Is 43:10 (divine self-identification). Parallel Mark 6:50."
     }
@@ -494,14 +826,30 @@
     "greek": "Ἀποκριθεὶς δὲ αὐτῷ ὁ Πέτρος εἶπεν·Κύριε,εἰ σὺ εἶ,κέλευσόν με ἐλθεῖν πρὸς σὲ ἐπὶ τὰ ὕδατα·",
     "bsb_english": "\"Lord, if it is You,\" Peter replied, \"command me to come to You on the water.\"",
     "translation": {
-      "thai": "เปโตรทูลตอบพระองค์ว่า «พระองค์เจ้าข้า ถ้าเป็นพระองค์จริง ขอทรงบัญชาให้ข้าพระองค์เดินบนน้ำมาหาพระองค์เถิด»",
+      "thai": "เปโตรทูลตอบพระองค์ว่า “พระองค์เจ้าข้า ถ้าเป็นพระองค์จริง ขอทรงบัญชาให้ข้าพระองค์เดินบนน้ำมาหาพระองค์เถิด”",
       "thai_literal": "ตอบ แก่พระองค์ เปโตร กล่าว องค์พระผู้เป็นเจ้า ถ้า ท่าน เป็น จงบัญชา ข้าพระองค์ ที่จะมา สู่ ท่าน บน บรรดาน้ำ",
-      "thai_summary": "เหตุการณ์นี้เป็นเหตุการณ์เฉพาะในมัทธิว (ไม่มีในมาระโกและยอห์น) การเรียก «พระองค์เจ้าข้า» (κύριε) แสดงว่าเปโตรเริ่มรับรู้ว่าผู้ที่เดินบนทะเลคือองค์ศักดิ์สิทธิ์ คำขอของเปโตรสะท้อนทั้งความเชื่อ (ต้องการแบ่งปันการอัศจรรย์ของพระองค์) และการทดสอบ («ถ้าเป็นพระองค์จริง») ลักษณะเด่นของเปโตรทั้งร้อนรนและขาดความมั่นคง",
+      "thai_summary": "เหตุการณ์นี้เป็นเหตุการณ์เฉพาะในมัทธิว (ไม่มีในมาระโกและยอห์น) การเรียก “พระองค์เจ้าข้า” (κύριε) แสดงว่าเปโตรเริ่มรับรู้ว่าผู้ที่เดินบนทะเลคือองค์ศักดิ์สิทธิ์ คำขอของเปโตรสะท้อนทั้งความเชื่อ (ต้องการแบ่งปันการอัศจรรย์ของพระองค์) และการทดสอบ (“ถ้าเป็นพระองค์จริง”) ลักษณะเด่นของเปโตรทั้งร้อนรนและขาดความมั่นคง",
       "key_decisions": [
-        {"greek": "Ἀποκριθεὶς ... ὁ Πέτρος εἶπεν", "thai": "เปโตรทูลตอบพระองค์", "rationale": "Divine addressee: ทูลตอบ (humble-speech respond). Per glossary (MT 10:2): Πέτρος → เปโตร. NEW GLOSSARY: Πέτρος → เปโตร; ἀποκρίνομαι (to Jesus) → ทูลตอบ."},
-        {"greek": "Κύριε", "thai": "พระองค์เจ้าข้า", "rationale": "Per glossary (MT 8:25 storm-context): 'Κύριε' (disciples to Jesus in sea-crisis) → 'พระองค์เจ้าข้า.' Peter recognizes divine authority; same storm-context as MT 8. NEW GLOSSARY: κύριε (disciples to Jesus) → พระองค์เจ้าข้า."},
-        {"greek": "εἰ σὺ εἶ", "thai": "ถ้าเป็นพระองค์จริง", "rationale": "Per uW grammar-connect-condition-hypothetical: per uW option (1) — Peter unsure/testing. Thai 'ถ้าเป็นพระองค์จริง' (if it is truly you) captures the testing-nuance. Divine address: พระองค์."},
-        {"greek": "κέλευσόν με ἐλθεῖν πρὸς σὲ ἐπὶ τὰ ὕδατα", "thai": "ขอทรงบัญชาให้ข้าพระองค์เดินบนน้ำมาหาพระองค์เถิด", "rationale": "Per uW figs-imperative: polite request. Divine imperative: ขอทรง...เถิด. Humble-I: ข้าพระองค์. Per uW figs-explicit: Peter wants to walk miraculously on water. Thai inserts 'เดิน' (walk) for clarity. ἐπὶ τὰ ὕδατα 'on the waters' → 'บนน้ำ.' NEW GLOSSARY: κελεύω (to Jesus, request) → ขอทรงบัญชา; ὕδωρ → น้ำ."}
+        {
+          "greek": "Ἀποκριθεὶς ... ὁ Πέτρος εἶπεν",
+          "thai": "เปโตรทูลตอบพระองค์",
+          "rationale": "Divine addressee: ทูลตอบ (humble-speech respond). Per glossary (MT 10:2): Πέτρος → เปโตร. NEW GLOSSARY: Πέτρος → เปโตร; ἀποκρίνομαι (to Jesus) → ทูลตอบ."
+        },
+        {
+          "greek": "Κύριε",
+          "thai": "พระองค์เจ้าข้า",
+          "rationale": "Per glossary (MT 8:25 storm-context): 'Κύριε' (disciples to Jesus in sea-crisis) → 'พระองค์เจ้าข้า.' Peter recognizes divine authority; same storm-context as MT 8. NEW GLOSSARY: κύριε (disciples to Jesus) → พระองค์เจ้าข้า."
+        },
+        {
+          "greek": "εἰ σὺ εἶ",
+          "thai": "ถ้าเป็นพระองค์จริง",
+          "rationale": "Per uW grammar-connect-condition-hypothetical: per uW option (1) — Peter unsure/testing. Thai 'ถ้าเป็นพระองค์จริง' (if it is truly you) captures the testing-nuance. Divine address: พระองค์."
+        },
+        {
+          "greek": "κέλευσόν με ἐλθεῖν πρὸς σὲ ἐπὶ τὰ ὕδατα",
+          "thai": "ขอทรงบัญชาให้ข้าพระองค์เดินบนน้ำมาหาพระองค์เถิด",
+          "rationale": "Per uW figs-imperative: polite request. Divine imperative: ขอทรง...เถิด. Humble-I: ข้าพระองค์. Per uW figs-explicit: Peter wants to walk miraculously on water. Thai inserts 'เดิน' (walk) for clarity. ἐπὶ τὰ ὕδατα 'on the waters' → 'บนน้ำ.' NEW GLOSSARY: κελεύω (to Jesus, request) → ขอทรงบัญชา; ὕδωρ → น้ำ."
+        }
       ],
       "notes": "MATTHEW UNIQUE: this Peter-walking-on-water episode (vv.28-31) not in Mark 6, John 6. Matthew's focus: Peter as paradigmatic disciple — faith rising, faith faltering. Theologically: Jesus's divine authority extends to empowering others for supernatural acts. NO HAPAX."
     }
@@ -513,13 +861,25 @@
     "greek": "ὁ δὲ εἶπεν·Ἐλθέ.καὶ καταβὰς ἀπὸ τοῦ πλοίου Πέτρος περιεπάτησεν ἐπὶ τὰ ὕδατα καὶ ἦλθεν πρὸς τὸν Ἰησοῦν.",
     "bsb_english": "\"Come,\" said Jesus. Then Peter got down out of the boat, walked on the water, and came toward Jesus.",
     "translation": {
-      "thai": "พระองค์ตรัสว่า «จงมาเถิด» เปโตรจึงลงจากเรือ เดินบนน้ำไปหาพระเยซู",
+      "thai": "พระองค์ตรัสว่า “จงมาเถิด” เปโตรจึงลงจากเรือ เดินบนน้ำไปหาพระเยซู",
       "thai_literal": "และ กล่าว จงมา และ ลงไป จาก เรือ เปโตร เดิน บน บรรดาน้ำ และ มา สู่ พระเยซู",
       "thai_summary": null,
       "key_decisions": [
-        {"greek": "εἶπεν ... Ἐλθέ", "thai": "ตรัสว่า «จงมาเถิด»", "rationale": "Divine speech: ตรัส. Imperative: จงมาเถิด (with softening 'เถิด' for invitation-not-compulsion)."},
-        {"greek": "καταβὰς ἀπὸ τοῦ πλοίου Πέτρος περιεπάτησεν ἐπὶ τὰ ὕδατα", "thai": "เปโตรจึงลงจากเรือ เดินบนน้ำ", "rationale": "Plain verbs for Peter (not divine): ลงจาก, เดิน. Simple narrative sequence."},
-        {"greek": "ἦλθεν πρὸς τὸν Ἰησοῦν", "thai": "ไปหาพระเยซู", "rationale": "Peter-subject plain 'ไปหา.' Explicit 'พระเยซู' for clarity."}
+        {
+          "greek": "εἶπεν ... Ἐλθέ",
+          "thai": "ตรัสว่า “จงมาเถิด”",
+          "rationale": "Divine speech: ตรัส. Imperative: จงมาเถิด (with softening 'เถิด' for invitation-not-compulsion)."
+        },
+        {
+          "greek": "καταβὰς ἀπὸ τοῦ πλοίου Πέτρος περιεπάτησεν ἐπὶ τὰ ὕδατα",
+          "thai": "เปโตรจึงลงจากเรือ เดินบนน้ำ",
+          "rationale": "Plain verbs for Peter (not divine): ลงจาก, เดิน. Simple narrative sequence."
+        },
+        {
+          "greek": "ἦλθεν πρὸς τὸν Ἰησοῦν",
+          "thai": "ไปหาพระเยซู",
+          "rationale": "Peter-subject plain 'ไปหา.' Explicit 'พระเยซู' for clarity."
+        }
       ],
       "notes": "NO HAPAX. Peter's brief successful walking (supernatural gift, mediated by Jesus's command) — the moment of faith. Contrast with v.30 where he sinks."
     }
@@ -531,14 +891,30 @@
     "greek": "βλέπων δὲ τὸν ἄνεμον ἰσχυρὸν ἐφοβήθη,καὶ ἀρξάμενος καταποντίζεσθαι ἔκραξεν λέγων·Κύριε,σῶσόν με.",
     "bsb_english": "But when he saw the strength of the wind, he was afraid and, beginning to sink, cried out, \"Lord, save me!\"",
     "translation": {
-      "thai": "แต่เมื่อเปโตรเห็นลมพัดรุนแรงก็กลัว พอเริ่มจะจมน้ำก็ร้องทูลว่า «พระองค์เจ้าข้า ขอทรงช่วยข้าพระองค์ให้รอดเถิด»",
+      "thai": "แต่เมื่อเปโตรเห็นลมพัดรุนแรงก็กลัว พอเริ่มจะจมน้ำก็ร้องทูลว่า “พระองค์เจ้าข้า ขอทรงช่วยข้าพระองค์ให้รอดเถิด”",
       "thai_literal": "แต่ เห็น ลม รุนแรง กลัว และ เริ่มต้น ที่จะจมน้ำ ร้อง กล่าว องค์พระผู้เป็นเจ้า จงช่วย ข้าพระองค์",
-      "thai_summary": "«เห็นลมพัดรุนแรง» — เปโตรเปลี่ยนโฟกัสจากพระเยซูมาที่สถานการณ์ ความเชื่อลดลงเมื่อสายตามองที่อุปสรรคแทนที่จะมองที่พระเจ้า (ฮบ 12:2) เสียงร้องทูล «ขอทรงช่วย» ({σῶσον με}) เป็นคำเดียวกับในคำอธิษฐานของสาวกในพายุที่ มธ 8:25 และในสดุดีหลายบท (สดด 22:19, 109:26) — เสียงของวิกฤตผู้ที่ไว้วางใจในพระเจ้า",
+      "thai_summary": "“เห็นลมพัดรุนแรง” — เปโตรเปลี่ยนโฟกัสจากพระเยซูมาที่สถานการณ์ ความเชื่อลดลงเมื่อสายตามองที่อุปสรรคแทนที่จะมองที่พระเจ้า (ฮบ 12:2) เสียงร้องทูล “ขอทรงช่วย” ({σῶσον με}) เป็นคำเดียวกับในคำอธิษฐานของสาวกในพายุที่ มธ 8:25 และในสดุดีหลายบท (สดด 22:19, 109:26) — เสียงของวิกฤตผู้ที่ไว้วางใจในพระเจ้า",
       "key_decisions": [
-        {"greek": "βλέπων δὲ τὸν ἄνεμον ἰσχυρὸν", "thai": "เมื่อเปโตรเห็นลมพัดรุนแรง", "rationale": "Per uW figs-metonymy: could mean seeing-effects (waves) or feeling-experiencing wind. Thai 'ลมพัดรุนแรง' (wind blowing hard) handles both senses. Explicit 'เปโตร' for clarity. NEW GLOSSARY: ἰσχυρός (of wind) → รุนแรง."},
-        {"greek": "ἐφοβήθη", "thai": "ก็กลัว", "rationale": "Per uW figs-explicit from context: fear at seeing danger."},
-        {"greek": "ἀρξάμενος καταποντίζεσθαι", "thai": "พอเริ่มจะจมน้ำ", "rationale": "Per uW figs-explicit: sinking into the sea. 'พอเริ่มจะจมน้ำ' (as he started to sink) natural Thai sequential. NEW GLOSSARY: καταποντίζομαι → จมน้ำ."},
-        {"greek": "ἔκραξεν λέγων·Κύριε,σῶσόν με", "thai": "ก็ร้องทูลว่า «พระองค์เจ้าข้า ขอทรงช่วยข้าพระองค์ให้รอดเถิด»", "rationale": "Per glossary (MT 8:25): 'σῶσον ... ἀπολλύμεθα' → 'ขอทรงช่วย ... พวกข้าพระองค์กำลังจะพินาศ.' Pattern: polite imperative ขอทรง + humble ข้าพระองค์. σῷζω here 'save from drowning' → 'ช่วย...ให้รอด.' NEW GLOSSARY: σῷζω (drowning-rescue) → ช่วย...ให้รอด."}
+        {
+          "greek": "βλέπων δὲ τὸν ἄνεμον ἰσχυρὸν",
+          "thai": "เมื่อเปโตรเห็นลมพัดรุนแรง",
+          "rationale": "Per uW figs-metonymy: could mean seeing-effects (waves) or feeling-experiencing wind. Thai 'ลมพัดรุนแรง' (wind blowing hard) handles both senses. Explicit 'เปโตร' for clarity. NEW GLOSSARY: ἰσχυρός (of wind) → รุนแรง."
+        },
+        {
+          "greek": "ἐφοβήθη",
+          "thai": "ก็กลัว",
+          "rationale": "Per uW figs-explicit from context: fear at seeing danger."
+        },
+        {
+          "greek": "ἀρξάμενος καταποντίζεσθαι",
+          "thai": "พอเริ่มจะจมน้ำ",
+          "rationale": "Per uW figs-explicit: sinking into the sea. 'พอเริ่มจะจมน้ำ' (as he started to sink) natural Thai sequential. NEW GLOSSARY: καταποντίζομαι → จมน้ำ."
+        },
+        {
+          "greek": "ἔκραξεν λέγων·Κύριε,σῶσόν με",
+          "thai": "ก็ร้องทูลว่า “พระองค์เจ้าข้า ขอทรงช่วยข้าพระองค์ให้รอดเถิด”",
+          "rationale": "Per glossary (MT 8:25): 'σῶσον ... ἀπολλύμεθα' → 'ขอทรงช่วย ... พวกข้าพระองค์กำลังจะพินาศ.' Pattern: polite imperative ขอทรง + humble ข้าพระองค์. σῷζω here 'save from drowning' → 'ช่วย...ให้รอด.' NEW GLOSSARY: σῷζω (drowning-rescue) → ช่วย...ให้รอด."
+        }
       ],
       "notes": "NO HAPAX. OT ECHO: Ps 69:1-2, Ps 18:16 (God drawing from deep waters) — Peter's cry fits the psalm-of-distress pattern. ADDED TO NT_OT_CITATIONS: allusion to Ps 69:1-2 / Ps 18:16 (rescue from deep waters)."
     }
@@ -550,15 +926,35 @@
     "greek": "εὐθέως δὲ ὁ Ἰησοῦς ἐκτείνας τὴν χεῖρα ἐπελάβετο αὐτοῦ καὶ λέγει αὐτῷ·Ὀλιγόπιστε,εἰς τί ἐδίστασας;",
     "bsb_english": "Immediately Jesus reached out His hand and took hold of Peter. \"You of little faith,\" He said, \"why did you doubt?\"",
     "translation": {
-      "thai": "ทันใดนั้น พระเยซูทรงยื่นพระหัตถ์คว้าเปโตรไว้ แล้วตรัสกับเขาว่า «ผู้มีความเชื่อน้อยเอ๋ย เหตุใดท่านจึงสงสัย?»",
+      "thai": "ทันใดนั้น พระเยซูทรงยื่นพระหัตถ์คว้าเปโตรไว้ แล้วตรัสกับเขาว่า “ผู้มีความเชื่อน้อยเอ๋ย เหตุใดท่านจึงสงสัย?”",
       "thai_literal": "และ ทันที พระเยซู ยื่น มือ จับ เขา และ กล่าว แก่เขา ผู้มีความเชื่อน้อย เพื่อ อะไร ท่านสงสัย",
-      "thai_summary": "«ผู้มีความเชื่อน้อย» (ὀλιγόπιστος) เป็นคำเฉพาะของมัทธิวที่ใช้กับสาวก 5 ครั้ง (6:30; 8:26; 14:31; 16:8; 17:20) ชี้ว่าความเชื่อของสาวกมีจริงแต่ยังไม่แข็งแกร่งพอ — ไม่ใช่การตำหนิรุนแรงแต่เป็นคำเตือนอย่างอ่อนโยน สะท้อนว่าพระเจ้าไม่เรียกร้องความเชื่อสมบูรณ์แต่ความเชื่อที่เติบโตได้",
+      "thai_summary": "“ผู้มีความเชื่อน้อย” (ὀλιγόπιστος) เป็นคำเฉพาะของมัทธิวที่ใช้กับสาวก 5 ครั้ง (6:30; 8:26; 14:31; 16:8; 17:20) ชี้ว่าความเชื่อของสาวกมีจริงแต่ยังไม่แข็งแกร่งพอ — ไม่ใช่การตำหนิรุนแรงแต่เป็นคำเตือนอย่างอ่อนโยน สะท้อนว่าพระเจ้าไม่เรียกร้องความเชื่อสมบูรณ์แต่ความเชื่อที่เติบโตได้",
       "key_decisions": [
-        {"greek": "εὐθέως δὲ ὁ Ἰησοῦς ἐκτείνας τὴν χεῖρα", "thai": "ทันใดนั้น พระเยซูทรงยื่นพระหัตถ์", "rationale": "Per RULES.md §3: 'hand' of Christ → พระหัตถ์ (royal). Divine: ทรงยื่น. NEW GLOSSARY: ἐκτείνω τὴν χεῖρα (Jesus) → ทรงยื่นพระหัตถ์."},
-        {"greek": "ἐπελάβετο αὐτοῦ", "thai": "คว้าเปโตรไว้", "rationale": "Per uW figs-explicit: grabbed and lifted up. ἐπιλαμβάνομαι aor mid 'took hold of.' Thai 'คว้า...ไว้' (grab-and-hold) natural. Explicit 'เปโตร' for pronoun-clarity. NEW GLOSSARY: ἐπιλαμβάνομαι (of rescue) → คว้า...ไว้."},
-        {"greek": "λέγει αὐτῷ", "thai": "ตรัสกับเขา", "rationale": "Per uW translate-tense: historical present → Thai past. Divine: ตรัส."},
-        {"greek": "Ὀλιγόπιστε", "thai": "ผู้มีความเชื่อน้อยเอ๋ย", "rationale": "Per glossary (MT 8:26): 'ὀλιγόπιστοι' → 'ผู้มีความเชื่อน้อยเอ๋ย.' Vocative singular here with 'เอ๋ย' vocative particle. Matthew-unique term (5x). NEW GLOSSARY: ὀλιγόπιστος → ผู้มีความเชื่อน้อย (vocative: + เอ๋ย)."},
-        {"greek": "εἰς τί ἐδίστασας", "thai": "เหตุใดท่านจึงสงสัย?", "rationale": "Per uW figs-rquestion + figs-explicit: rhetorical rebuke; implicit 'doubt that I could keep you from sinking.' Thai 'เหตุใด...จึง...สงสัย?' standard interrogative. NEW GLOSSARY: διστάζω → สงสัย."}
+        {
+          "greek": "εὐθέως δὲ ὁ Ἰησοῦς ἐκτείνας τὴν χεῖρα",
+          "thai": "ทันใดนั้น พระเยซูทรงยื่นพระหัตถ์",
+          "rationale": "Per RULES.md §3: 'hand' of Christ → พระหัตถ์ (royal). Divine: ทรงยื่น. NEW GLOSSARY: ἐκτείνω τὴν χεῖρα (Jesus) → ทรงยื่นพระหัตถ์."
+        },
+        {
+          "greek": "ἐπελάβετο αὐτοῦ",
+          "thai": "คว้าเปโตรไว้",
+          "rationale": "Per uW figs-explicit: grabbed and lifted up. ἐπιλαμβάνομαι aor mid 'took hold of.' Thai 'คว้า...ไว้' (grab-and-hold) natural. Explicit 'เปโตร' for pronoun-clarity. NEW GLOSSARY: ἐπιλαμβάνομαι (of rescue) → คว้า...ไว้."
+        },
+        {
+          "greek": "λέγει αὐτῷ",
+          "thai": "ตรัสกับเขา",
+          "rationale": "Per uW translate-tense: historical present → Thai past. Divine: ตรัส."
+        },
+        {
+          "greek": "Ὀλιγόπιστε",
+          "thai": "ผู้มีความเชื่อน้อยเอ๋ย",
+          "rationale": "Per glossary (MT 8:26): 'ὀλιγόπιστοι' → 'ผู้มีความเชื่อน้อยเอ๋ย.' Vocative singular here with 'เอ๋ย' vocative particle. Matthew-unique term (5x). NEW GLOSSARY: ὀλιγόπιστος → ผู้มีความเชื่อน้อย (vocative: + เอ๋ย)."
+        },
+        {
+          "greek": "εἰς τί ἐδίστασας",
+          "thai": "เหตุใดท่านจึงสงสัย?",
+          "rationale": "Per uW figs-rquestion + figs-explicit: rhetorical rebuke; implicit 'doubt that I could keep you from sinking.' Thai 'เหตุใด...จึง...สงสัย?' standard interrogative. NEW GLOSSARY: διστάζω → สงสัย."
+        }
       ],
       "notes": "NO HAPAX. διστάζω appears only twice in NT (here and 28:17 — disciples worshiping but doubting after resurrection). Matthean discipleship motif: doubt coexists with faith, and Jesus graciously corrects."
     }
@@ -574,8 +970,16 @@
       "thai_literal": "และ ขึ้น ของพวกเขา สู่ เรือ หยุด ลม",
       "thai_summary": null,
       "key_decisions": [
-        {"greek": "ἀναβάντων αὐτῶν εἰς τὸ πλοῖον", "thai": "เมื่อพระองค์กับเปโตรขึ้นเรือแล้ว", "rationale": "Per uW writing-pronouns: 'they' = Jesus + Peter. Mixed divine/human subject — Thai conventional avoids mandatory royal-movement here (focus is logistical boarding). Explicit 'พระองค์กับเปโตร' for clarity. Plain 'ขึ้นเรือ' for joint action."},
-        {"greek": "ἐκόπασεν ὁ ἄνεμος", "thai": "ลมก็สงบลง", "rationale": "κοπάζω 'grow weary, cease, die down.' Thai 'สงบลง' standard for wind-stilling. NEW GLOSSARY: κοπάζω (of wind) → สงบลง."}
+        {
+          "greek": "ἀναβάντων αὐτῶν εἰς τὸ πλοῖον",
+          "thai": "เมื่อพระองค์กับเปโตรขึ้นเรือแล้ว",
+          "rationale": "Per uW writing-pronouns: 'they' = Jesus + Peter. Mixed divine/human subject — Thai conventional avoids mandatory royal-movement here (focus is logistical boarding). Explicit 'พระองค์กับเปโตร' for clarity. Plain 'ขึ้นเรือ' for joint action."
+        },
+        {
+          "greek": "ἐκόπασεν ὁ ἄνεμος",
+          "thai": "ลมก็สงบลง",
+          "rationale": "κοπάζω 'grow weary, cease, die down.' Thai 'สงบลง' standard for wind-stilling. NEW GLOSSARY: κοπάζω (of wind) → สงบลง."
+        }
       ],
       "notes": "NO HAPAX. Wind-stilling as Jesus boards — second storm-stilling in Matthew (cf. 8:23-27). OT ECHO: Ps 107:29 'He made the storm be still, and the waves of the sea were hushed' — divine-prerogative. ADDED TO NT_OT_CITATIONS: allusion to Ps 107:29. Parallel Mark 6:51."
     }
@@ -587,13 +991,25 @@
     "greek": "οἱ δὲ ἐν τῷ πλοίῳ προσεκύνησαν αὐτῷ λέγοντες·Ἀληθῶς θεοῦ υἱὸς εἶ.",
     "bsb_english": "Then those who were in the boat worshiped Him, saying, \"Truly You are the Son of God!\"",
     "translation": {
-      "thai": "บรรดาคนที่อยู่ในเรือก็กราบนมัสการพระองค์ ทูลว่า «แท้จริงพระองค์ทรงเป็นพระบุตรของพระเจ้า»",
+      "thai": "บรรดาคนที่อยู่ในเรือก็กราบนมัสการพระองค์ ทูลว่า “แท้จริงพระองค์ทรงเป็นพระบุตรของพระเจ้า”",
       "thai_literal": "และ บรรดาผู้ ใน เรือ กราบนมัสการ แก่พระองค์ กล่าว แท้จริง ของพระเจ้า บุตร ท่านเป็น",
-      "thai_summary": "นี่คือการประกาศครั้งแรกในมัทธิวที่สาวกยอมรับพระเยซูว่าทรงเป็น «พระบุตรของพระเจ้า» — ก่อนการประกาศอย่างเป็นทางการของเปโตรที่ซีซารียาฟิลิปปี (16:16) ตำแหน่ง «พระบุตรของพระเจ้า» ใน สดด 2:7 อ้างถึงกษัตริย์ดาวิดและพระเมสสิยาห์ แต่ในบริบทนี้ — การเดินบนทะเล, คำ «เราเอง», การสงบลมพายุ — พระเยซูทรงสำแดงพระองค์เองในระดับที่สูงกว่าพระเมสสิยาห์มนุษย์ การ «กราบนมัสการ» ({προσκυνέω}) แสดงการยอมรับความเป็นพระเจ้า",
+      "thai_summary": "นี่คือการประกาศครั้งแรกในมัทธิวที่สาวกยอมรับพระเยซูว่าทรงเป็น “พระบุตรของพระเจ้า” — ก่อนการประกาศอย่างเป็นทางการของเปโตรที่ซีซารียาฟิลิปปี (16:16) ตำแหน่ง “พระบุตรของพระเจ้า” ใน สดด 2:7 อ้างถึงกษัตริย์ดาวิดและพระเมสสิยาห์ แต่ในบริบทนี้ — การเดินบนทะเล, คำ “เราเอง”, การสงบลมพายุ — พระเยซูทรงสำแดงพระองค์เองในระดับที่สูงกว่าพระเมสสิยาห์มนุษย์ การ “กราบนมัสการ” ({προσκυνέω}) แสดงการยอมรับความเป็นพระเจ้า",
       "key_decisions": [
-        {"greek": "οἱ ἐν τῷ πλοίῳ", "thai": "บรรดาคนที่อยู่ในเรือ", "rationale": "Per uW figs-explicit: refers to disciples. Thai 'บรรดาคนที่อยู่ในเรือ' (those in the boat) matches Greek exactly without over-specifying."},
-        {"greek": "προσεκύνησαν αὐτῷ", "thai": "กราบนมัสการพระองค์", "rationale": "Per glossary: προσκυνέω → นมัสการ. Here + กราบ (physical prostration) for full worship. Divine: พระองค์. NEW GLOSSARY: προσκυνέω (of Jesus) → กราบนมัสการ."},
-        {"greek": "Ἀληθῶς θεοῦ υἱὸς εἶ", "thai": "แท้จริงพระองค์ทรงเป็นพระบุตรของพระเจ้า", "rationale": "Per glossary (MRK 15:39): 'Ἀληθῶς οὗτος ὁ ἄνθρωπος υἱὸς θεοῦ ἦν' → 'แท้จริง ท่านผู้นี้เป็นพระบุตรของพระเจ้า.' Here the disciples address Jesus directly (2nd person) — divine register: พระองค์ทรงเป็น. Per uW guidelines-sonofgodprinciples: 'Son of God' is an important title describing Jesus's relationship to the Father. Formal Thai Christian phrase: 'พระบุตรของพระเจ้า.' NEW GLOSSARY: ἀληθῶς → แท้จริง; θεοῦ υἱός → พระบุตรของพระเจ้า."}
+        {
+          "greek": "οἱ ἐν τῷ πλοίῳ",
+          "thai": "บรรดาคนที่อยู่ในเรือ",
+          "rationale": "Per uW figs-explicit: refers to disciples. Thai 'บรรดาคนที่อยู่ในเรือ' (those in the boat) matches Greek exactly without over-specifying."
+        },
+        {
+          "greek": "προσεκύνησαν αὐτῷ",
+          "thai": "กราบนมัสการพระองค์",
+          "rationale": "Per glossary: προσκυνέω → นมัสการ. Here + กราบ (physical prostration) for full worship. Divine: พระองค์. NEW GLOSSARY: προσκυνέω (of Jesus) → กราบนมัสการ."
+        },
+        {
+          "greek": "Ἀληθῶς θεοῦ υἱὸς εἶ",
+          "thai": "แท้จริงพระองค์ทรงเป็นพระบุตรของพระเจ้า",
+          "rationale": "Per glossary (MRK 15:39): 'Ἀληθῶς οὗτος ὁ ἄνθρωπος υἱὸς θεοῦ ἦν' → 'แท้จริง ท่านผู้นี้เป็นพระบุตรของพระเจ้า.' Here the disciples address Jesus directly (2nd person) — divine register: พระองค์ทรงเป็น. Per uW guidelines-sonofgodprinciples: 'Son of God' is an important title describing Jesus's relationship to the Father. Formal Thai Christian phrase: 'พระบุตรของพระเจ้า.' NEW GLOSSARY: ἀληθῶς → แท้จริง; θεοῦ υἱός → พระบุตรของพระเจ้า."
+        }
       ],
       "notes": "PIVOT VERSE for Matthew's Christology. First disciple-confession of Jesus as θεοῦ υἱός. Compare: 3:17 Father's declaration at baptism; 16:16 Peter's Caesarea Philippi confession; 27:54 centurion at cross. Each confession-point corresponds to revelatory action. Worship (προσκυνέω) at Matt only here prior to resurrection-worship (28:9, 17). NO HAPAX."
     }
@@ -609,8 +1025,16 @@
       "thai_literal": "และ ข้ามฟาก มา บน แผ่นดิน สู่ เยนเนซาเรท",
       "thai_summary": null,
       "key_decisions": [
-        {"greek": "διαπεράσαντες", "thai": "เมื่อข้ามฟากแล้ว", "rationale": "Per uW figs-explicit: crossed Sea of Galilee. διαπεράω 'cross over.' Thai 'ข้ามฟาก' standard. NEW GLOSSARY: διαπεράω → ข้ามฟาก."},
-        {"greek": "ἦλθον ἐπὶ τὴν γῆν εἰς Γεννησαρέτ", "thai": "พวกเขามาถึงแผ่นดินในแคว้นเยนเนซาเรท", "rationale": "Per glossary (MRK 6:53): 'ἦλθον εἰς Γεννησαρὲτ' → 'พวกเขามาถึงแคว้นเยนเนซาเรท.' Per uW translate-names: Γεννησαρέτ could be region or small town — we follow Mark-glossary precedent 'แคว้น' (region). Plural mixed-subject with Jesus — plain 'มาถึง' for joint-arrival focus. NEW GLOSSARY: Γεννησαρέτ → เยนเนซาเรท."}
+        {
+          "greek": "διαπεράσαντες",
+          "thai": "เมื่อข้ามฟากแล้ว",
+          "rationale": "Per uW figs-explicit: crossed Sea of Galilee. διαπεράω 'cross over.' Thai 'ข้ามฟาก' standard. NEW GLOSSARY: διαπεράω → ข้ามฟาก."
+        },
+        {
+          "greek": "ἦλθον ἐπὶ τὴν γῆν εἰς Γεννησαρέτ",
+          "thai": "พวกเขามาถึงแผ่นดินในแคว้นเยนเนซาเรท",
+          "rationale": "Per glossary (MRK 6:53): 'ἦλθον εἰς Γεννησαρὲτ' → 'พวกเขามาถึงแคว้นเยนเนซาเรท.' Per uW translate-names: Γεννησαρέτ could be region or small town — we follow Mark-glossary precedent 'แคว้น' (region). Plural mixed-subject with Jesus — plain 'มาถึง' for joint-arrival focus. NEW GLOSSARY: Γεννησαρέτ → เยนเนซาเรท."
+        }
       ],
       "notes": "NO HAPAX. Gennesaret = fertile region on NW shore of Sea of Galilee. Josephus (War 3.10.8) describes its agricultural richness. Parallel Mark 6:53."
     }
@@ -626,9 +1050,21 @@
       "thai_literal": "และ รู้จัก พระองค์ บรรดาผู้ชาย ของ ที่ นั้น ส่ง สู่ ทั้งหมด บริเวณโดยรอบ นั้น และ นำมา แก่พระองค์ ทั้งหมด บรรดาผู้มี อย่างเลว",
       "thai_summary": null,
       "key_decisions": [
-        {"greek": "ἐπιγνόντες αὐτὸν οἱ ἄνδρες τοῦ τόπου ἐκείνου", "thai": "เมื่อชาวเมืองแถบนั้นจำพระองค์ได้", "rationale": "Per uW figs-gendernotations: ἄνδρες here generic 'people' (gender not important). Thai 'ชาวเมือง' (townspeople, gender-neutral). Per glossary (MT 7:16-20 pattern) ἐπιγινώσκω → รู้จัก/จำได้. NEW GLOSSARY: ἐπιγινώσκω (of recognizing Jesus) → จำ...ได้."},
-        {"greek": "ἀπέστειλαν εἰς ὅλην τὴν περίχωρον ἐκείνην", "thai": "ส่งข่าวไปทั่วภูมิภาคโดยรอบ", "rationale": "Per uW figs-explicit: sent word/messengers. Thai 'ส่งข่าวไป' explicit object. NEW GLOSSARY: περίχωρος → ภูมิภาคโดยรอบ; ἀποστέλλω (send-word) → ส่งข่าวไป."},
-        {"greek": "προσήνεγκαν αὐτῷ πάντας τοὺς κακῶς ἔχοντας", "thai": "พากันพาคนป่วยทั้งหมดมาหาพระองค์", "rationale": "Per uW figs-hyperbole: πάντας generalization for emphasis — keep 'ทั้งหมด' (matches Greek emphasis). κακῶς ἔχοντας 'those having badly' = sick people. Per glossary (MRK pattern) κακῶς ἔχοντες → คนป่วย. NEW GLOSSARY: προσφέρω (bring-for-healing) → พาไป/พามา; κακῶς ἔχων → คนป่วย."}
+        {
+          "greek": "ἐπιγνόντες αὐτὸν οἱ ἄνδρες τοῦ τόπου ἐκείνου",
+          "thai": "เมื่อชาวเมืองแถบนั้นจำพระองค์ได้",
+          "rationale": "Per uW figs-gendernotations: ἄνδρες here generic 'people' (gender not important). Thai 'ชาวเมือง' (townspeople, gender-neutral). Per glossary (MT 7:16-20 pattern) ἐπιγινώσκω → รู้จัก/จำได้. NEW GLOSSARY: ἐπιγινώσκω (of recognizing Jesus) → จำ...ได้."
+        },
+        {
+          "greek": "ἀπέστειλαν εἰς ὅλην τὴν περίχωρον ἐκείνην",
+          "thai": "ส่งข่าวไปทั่วภูมิภาคโดยรอบ",
+          "rationale": "Per uW figs-explicit: sent word/messengers. Thai 'ส่งข่าวไป' explicit object. NEW GLOSSARY: περίχωρος → ภูมิภาคโดยรอบ; ἀποστέλλω (send-word) → ส่งข่าวไป."
+        },
+        {
+          "greek": "προσήνεγκαν αὐτῷ πάντας τοὺς κακῶς ἔχοντας",
+          "thai": "พากันพาคนป่วยทั้งหมดมาหาพระองค์",
+          "rationale": "Per uW figs-hyperbole: πάντας generalization for emphasis — keep 'ทั้งหมด' (matches Greek emphasis). κακῶς ἔχοντας 'those having badly' = sick people. Per glossary (MRK pattern) κακῶς ἔχοντες → คนป่วย. NEW GLOSSARY: προσφέρω (bring-for-healing) → พาไป/พามา; κακῶς ἔχων → คนป่วย."
+        }
       ],
       "notes": "NO HAPAX. Gennesaret's response contrasts with Nazareth rejection (13:53-58) — regional receptiveness varied. Healing-ministry pattern intensifies after walking-on-water revelation. Parallel Mark 6:54-55."
     }
@@ -642,11 +1078,23 @@
     "translation": {
       "thai": "พวกเขาวิงวอนให้พระองค์ทรงอนุญาตเพียงให้แตะชายฉลองพระองค์ และทุกคนที่ได้แตะก็หายโรค",
       "thai_literal": "และ พวกเขา วิงวอน พระองค์ เพื่อ เพียง ที่จะแตะ ของ ชาย ของ เสื้อ ของพระองค์ และ เท่าใด ก็ตาม แตะ ก็ถูกช่วยให้รอด",
-      "thai_summary": "«ชายฉลองพระองค์» ({κράσπεδον}) หมายถึง «พู่» ({ציצית tzitzit}) ที่ชายเสื้อของชายยิวผู้เคร่งศาสนาตามคำสั่งใน กดว 15:38-40 และ ฉธบ 22:12 เป็นเครื่องเตือนใจให้ระลึกถึงพระบัญญัติของพระเจ้า การที่ผู้ป่วยต้องการแตะเพียงพู่แสดงถึงความเชื่อที่ลึก และความเข้าใจว่าฤทธิ์การรักษาของพระเจ้าปรากฏอยู่กับพระเยซู เปรียบเทียบกับหญิงที่เลือดตกใน มธ 9:20-22",
+      "thai_summary": "“ชายฉลองพระองค์” ({κράσπεδον}) หมายถึง “พู่” ({ציצית tzitzit}) ที่ชายเสื้อของชายยิวผู้เคร่งศาสนาตามคำสั่งใน กดว 15:38-40 และ ฉธบ 22:12 เป็นเครื่องเตือนใจให้ระลึกถึงพระบัญญัติของพระเจ้า การที่ผู้ป่วยต้องการแตะเพียงพู่แสดงถึงความเชื่อที่ลึก และความเข้าใจว่าฤทธิ์การรักษาของพระเจ้าปรากฏอยู่กับพระเยซู เปรียบเทียบกับหญิงที่เลือดตกใน มธ 9:20-22",
       "key_decisions": [
-        {"greek": "παρεκάλουν αὐτὸν", "thai": "พวกเขาวิงวอนให้พระองค์", "rationale": "Per glossary: παρακαλέω → วิงวอน. Divine addressee: ให้พระองค์. imperfect 'were begging' — continuous. NEW GLOSSARY: παρακαλέω (to Jesus, request) → วิงวอน."},
-        {"greek": "ἵνα μόνον ἅψωνται τοῦ κρασπέδου τοῦ ἱματίου αὐτοῦ", "thai": "ทรงอนุญาตเพียงให้แตะชายฉลองพระองค์", "rationale": "Per uW figs-explicit on μόνον: they believed even a touch of his garment would suffice. κράσπεδον 'fringe/tassel' (Num 15:38 tzitzit). ἱμάτιον 'outer garment/cloak.' Thai 'ชายฉลองพระองค์' — 'ฉลองพระองค์' = royal-clothing (ราชาศัพท์ for Christ's garment), 'ชาย' = edge/fringe. NEW GLOSSARY: κράσπεδον → ชาย (ของฉลองพระองค์); ἱμάτιον (of Christ) → ฉลองพระองค์; ἅπτομαι → แตะ."},
-        {"greek": "ὅσοι ἥψαντο διεσώθησαν", "thai": "ทุกคนที่ได้แตะก็หายโรค", "rationale": "Per uW figs-activepassive + figs-explicit: 'were healed' (pass.) — agent is God/Jesus. Thai active 'หายโรค' (become-healed-from-illness) idiomatic. διασῷζω 'save through' here = 'healed completely.' NEW GLOSSARY: διασῷζω (of healing) → หายโรค."}
+        {
+          "greek": "παρεκάλουν αὐτὸν",
+          "thai": "พวกเขาวิงวอนให้พระองค์",
+          "rationale": "Per glossary: παρακαλέω → วิงวอน. Divine addressee: ให้พระองค์. imperfect 'were begging' — continuous. NEW GLOSSARY: παρακαλέω (to Jesus, request) → วิงวอน."
+        },
+        {
+          "greek": "ἵνα μόνον ἅψωνται τοῦ κρασπέδου τοῦ ἱματίου αὐτοῦ",
+          "thai": "ทรงอนุญาตเพียงให้แตะชายฉลองพระองค์",
+          "rationale": "Per uW figs-explicit on μόνον: they believed even a touch of his garment would suffice. κράσπεδον 'fringe/tassel' (Num 15:38 tzitzit). ἱμάτιον 'outer garment/cloak.' Thai 'ชายฉลองพระองค์' — 'ฉลองพระองค์' = royal-clothing (ราชาศัพท์ for Christ's garment), 'ชาย' = edge/fringe. NEW GLOSSARY: κράσπεδον → ชาย (ของฉลองพระองค์); ἱμάτιον (of Christ) → ฉลองพระองค์; ἅπτομαι → แตะ."
+        },
+        {
+          "greek": "ὅσοι ἥψαντο διεσώθησαν",
+          "thai": "ทุกคนที่ได้แตะก็หายโรค",
+          "rationale": "Per uW figs-activepassive + figs-explicit: 'were healed' (pass.) — agent is God/Jesus. Thai active 'หายโรค' (become-healed-from-illness) idiomatic. διασῷζω 'save through' here = 'healed completely.' NEW GLOSSARY: διασῷζω (of healing) → หายโรค."
+        }
       ],
       "notes": "OT BACKGROUND: κράσπεδον in LXX = ציצית tzitzit (Num 15:38-40, Deut 22:12) — prayer-tassels on four corners of a Jewish man's garment, reminders of Torah. Touching the fringe = touching the Torah-faithfulness of Jesus. Parallels: MT 9:20-22 (bleeding woman), LUK 8:43-48. ADDED TO NT_OT_CITATIONS: allusion to Num 15:38-40 (fringe/tassel background). Chapter closes with a healing-summary typical of Matthew's transitional sections. NO HAPAX."
     }

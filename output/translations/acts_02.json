@@ -8,11 +8,23 @@
     "translation": {
       "thai": "เมื่อวันเพ็นเทคอสต์มาถึง พวกเขาทั้งหมดอยู่พร้อมกัน ณ ที่เดียวกัน",
       "thai_literal": null,
-      "thai_summary": "เพ็นเทคอสต์คือเทศกาลเก็บเกี่ยวของชาวยิวที่นับจากวันปัสกาไปห้าสิบวัน (เลวีนิติ 23:15-16; เฉลยธรรมบัญญัติ 16:9-10) เรียกอีกว่า «เทศกาลสัปดาห์» (ชาวูโอท) พระเจ้าทรงเลือกวันนี้เป็นวันประทานพระวิญญาณบริสุทธิ์ — ขณะที่คนยิวจากทั่วจักรวรรดิกำลังรวมตัวกันที่เยรูซาเล็มเพื่อเทศกาล ทำให้ข่าวประเสริฐได้รับการประกาศแก่ทุกชนชาติในวันเดียว ผลแรกแห่งการเก็บเกี่ยวของพระวิญญาณคือคริสตจักรสากลที่จะแผ่ขยายไปทั่วโลก",
+      "thai_summary": "เพ็นเทคอสต์คือเทศกาลเก็บเกี่ยวของชาวยิวที่นับจากวันปัสกาไปห้าสิบวัน (เลวีนิติ 23:15-16; เฉลยธรรมบัญญัติ 16:9-10) เรียกอีกว่า “เทศกาลสัปดาห์” (ชาวูโอท) พระเจ้าทรงเลือกวันนี้เป็นวันประทานพระวิญญาณบริสุทธิ์ — ขณะที่คนยิวจากทั่วจักรวรรดิกำลังรวมตัวกันที่เยรูซาเล็มเพื่อเทศกาล ทำให้ข่าวประเสริฐได้รับการประกาศแก่ทุกชนชาติในวันเดียว ผลแรกแห่งการเก็บเกี่ยวของพระวิญญาณคือคริสตจักรสากลที่จะแผ่ขยายไปทั่วโลก",
       "key_decisions": [
-        { "greek": "ἐν τῷ συμπληροῦσθαι τὴν ἡμέραν", "thai": "เมื่อวัน ... มาถึง", "rationale": "Infinitival construction with συμπληρόω 'to be completed/fulfilled'. The Lukan idiom 'in the fulfilling of the day' means 'when the day had come / arrived'. Thai 'เมื่อ ... มาถึง' is the natural equivalent (same pattern as Luke 9:51 ἐν τῷ συμπληροῦσθαι τὰς ἡμέρας → 'เมื่อเวลาที่ ... มาถึง'). Preserves the temporal-ingressive semantics without forcing a stilted 'fulfilled' rendering." },
-        { "greek": "τῆς πεντηκοστῆς", "thai": "วันเพ็นเทคอสต์", "rationale": "Πεντηκοστή = 'fiftieth (day)'. Greek loanword for the Jewish Feast of Weeks (Shavuot), counted 50 days after Passover (Lev 23:15-16). Transliteration 'เพ็นเทคอสต์' is standard Thai Christian usage — matches church calendar practice and signals the technical festal term. Rejected: translating as 'วันที่ห้าสิบ' (loses cultural-festal register) or 'วันเทศกาลสัปดาห์' (conflates with Shavuot terminology without preserving the Greek sight-tag)." },
-        { "greek": "ἐπὶ τὸ αὐτό", "thai": "ณ ที่เดียวกัน", "rationale": "Lucan signature phrase (Acts 1:15, 2:1, 2:44, 2:47, 4:26). Ambiguous per uW TN — could mean 'in the same place' or 'in one accord' or 'as a group/fellowship'. Here in 2:1, the spatial sense dominates (the Spirit descends on a physical room). Thai 'ณ ที่เดียวกัน' carries the locative sense; later occurrences may require register-shift per context." }
+        {
+          "greek": "ἐν τῷ συμπληροῦσθαι τὴν ἡμέραν",
+          "thai": "เมื่อวัน ... มาถึง",
+          "rationale": "Infinitival construction with συμπληρόω 'to be completed/fulfilled'. The Lukan idiom 'in the fulfilling of the day' means 'when the day had come / arrived'. Thai 'เมื่อ ... มาถึง' is the natural equivalent (same pattern as Luke 9:51 ἐν τῷ συμπληροῦσθαι τὰς ἡμέρας → 'เมื่อเวลาที่ ... มาถึง'). Preserves the temporal-ingressive semantics without forcing a stilted 'fulfilled' rendering."
+        },
+        {
+          "greek": "τῆς πεντηκοστῆς",
+          "thai": "วันเพ็นเทคอสต์",
+          "rationale": "Πεντηκοστή = 'fiftieth (day)'. Greek loanword for the Jewish Feast of Weeks (Shavuot), counted 50 days after Passover (Lev 23:15-16). Transliteration 'เพ็นเทคอสต์' is standard Thai Christian usage — matches church calendar practice and signals the technical festal term. Rejected: translating as 'วันที่ห้าสิบ' (loses cultural-festal register) or 'วันเทศกาลสัปดาห์' (conflates with Shavuot terminology without preserving the Greek sight-tag)."
+        },
+        {
+          "greek": "ἐπὶ τὸ αὐτό",
+          "thai": "ณ ที่เดียวกัน",
+          "rationale": "Lucan signature phrase (Acts 1:15, 2:1, 2:44, 2:47, 4:26). Ambiguous per uW TN — could mean 'in the same place' or 'in one accord' or 'as a group/fellowship'. Here in 2:1, the spatial sense dominates (the Spirit descends on a physical room). Thai 'ณ ที่เดียวกัน' carries the locative sense; later occurrences may require register-shift per context."
+        }
       ],
       "notes": "Opening of the Pentecost narrative. συμπληρόω (cf. Luke 9:51 of Jesus' ἀνάλημψις-time) signals fulfillment-of-appointed-time — Luke frames Pentecost as the kairos-moment the Father 'ἔθετο ἐν τῇ ἰδίᾳ ἐξουσίᾳ' (Acts 1:7). The phrase ἐπὶ τὸ αὐτό will recur 4× in this chapter (vv. 1, 44, 47) and once at 1:15, framing the Pentecost pericope with its characteristic 'together' marker. No textual variant."
     }
@@ -26,11 +38,23 @@
     "translation": {
       "thai": "ทันใดนั้น ก็มีเสียงจากฟ้าเหมือนเสียงพายุกล้าพัดโหมกระหน่ำ ดังก้องทั่วบ้านที่พวกเขานั่งอยู่",
       "thai_literal": null,
-      "thai_summary": "«เสียงจากฟ้า» สะท้อนการประทับของพระเจ้าในพันธสัญญาเดิม — โดยเฉพาะเสียงที่ภูเขาซีนายเมื่อพระเจ้าประทานบัญญัติสิบประการ (อพยพ 19:16-19) และลม (รูอาห์/นูมา) ก็เป็นสัญลักษณ์สากลของพระวิญญาณในพระคัมภีร์ (ปฐมกาล 1:2; เอเสเคียล 37:9-14; ยอห์น 3:8) เสียงลมอันทรงพลังนี้ประกาศการเสด็จมาของพระวิญญาณว่าเป็นเหตุการณ์ที่พระเจ้าทรงริเริ่มเอง ไม่ใช่ของมนุษย์ใดๆ",
+      "thai_summary": "“เสียงจากฟ้า” สะท้อนการประทับของพระเจ้าในพันธสัญญาเดิม — โดยเฉพาะเสียงที่ภูเขาซีนายเมื่อพระเจ้าประทานบัญญัติสิบประการ (อพยพ 19:16-19) และลม (รูอาห์/นูมา) ก็เป็นสัญลักษณ์สากลของพระวิญญาณในพระคัมภีร์ (ปฐมกาล 1:2; เอเสเคียล 37:9-14; ยอห์น 3:8) เสียงลมอันทรงพลังนี้ประกาศการเสด็จมาของพระวิญญาณว่าเป็นเหตุการณ์ที่พระเจ้าทรงริเริ่มเอง ไม่ใช่ของมนุษย์ใดๆ",
       "key_decisions": [
-        { "greek": "ἐκ τοῦ οὐρανοῦ", "thai": "จากฟ้า", "rationale": "οὐρανός here per uW TN can mean 'sky' (the physical source of the sound) or 'heaven' (God's dwelling-origin). Thai 'ฟ้า' (vs. 'สวรรค์') captures the physical-sky reading while remaining open to the theological overtone — which is precisely Luke's ambiguity. Same choice as Acts 1:10 (first instance). The directional force is 'from above'; Thai readers understand 'จากฟ้า' to carry both 'from the sky' and 'from heaven' registers." },
-        { "greek": "ὥσπερ φερομένης πνοῆς βιαίας (βίαιος hapax)", "thai": "เหมือนเสียงพายุกล้าพัดโหมกระหน่ำ", "rationale": "Simile 'as of a rushing violent breath/wind' — πνοή is the breath-wind word (not the more common ἄνεμος), deliberately evoking Gen 2:7 LXX πνοὴν ζωῆς (God breathing life into Adam). βίαιος (NT hapax) = 'violent/forceful' — classical term for natural-force intensity. φερομένης (pres. pass. ptc. of φέρω) = 'being borne along' per uW TN metaphor note — suggesting the wind as propelled by an unseen agent. Thai 'พายุกล้าพัดโหมกระหน่ำ' conveys the triple force (βίαιος + φερομένης + sound-as-wind). Rejected: 'ลมแรง' (flat, loses the violent-rushing quality)." },
-        { "greek": "ἐπλήρωσεν ὅλον τὸν οἶκον", "thai": "ดังก้องทั่วบ้าน", "rationale": "Per uW TN figs-metaphor: ἐπλήρωσεν 'filled' here means the sound 'could be heard throughout the house' — Luke speaks of the sound as if it filled the house. Thai 'ดังก้องทั่วบ้าน' renders the aural-filling naturally (same metaphor structure in Thai). Literal 'เติมเต็ม' would mislead by suggesting the sound was a physical substance." }
+        {
+          "greek": "ἐκ τοῦ οὐρανοῦ",
+          "thai": "จากฟ้า",
+          "rationale": "οὐρανός here per uW TN can mean 'sky' (the physical source of the sound) or 'heaven' (God's dwelling-origin). Thai 'ฟ้า' (vs. 'สวรรค์') captures the physical-sky reading while remaining open to the theological overtone — which is precisely Luke's ambiguity. Same choice as Acts 1:10 (first instance). The directional force is 'from above'; Thai readers understand 'จากฟ้า' to carry both 'from the sky' and 'from heaven' registers."
+        },
+        {
+          "greek": "ὥσπερ φερομένης πνοῆς βιαίας (βίαιος hapax)",
+          "thai": "เหมือนเสียงพายุกล้าพัดโหมกระหน่ำ",
+          "rationale": "Simile 'as of a rushing violent breath/wind' — πνοή is the breath-wind word (not the more common ἄνεμος), deliberately evoking Gen 2:7 LXX πνοὴν ζωῆς (God breathing life into Adam). βίαιος (NT hapax) = 'violent/forceful' — classical term for natural-force intensity. φερομένης (pres. pass. ptc. of φέρω) = 'being borne along' per uW TN metaphor note — suggesting the wind as propelled by an unseen agent. Thai 'พายุกล้าพัดโหมกระหน่ำ' conveys the triple force (βίαιος + φερομένης + sound-as-wind). Rejected: 'ลมแรง' (flat, loses the violent-rushing quality)."
+        },
+        {
+          "greek": "ἐπλήρωσεν ὅλον τὸν οἶκον",
+          "thai": "ดังก้องทั่วบ้าน",
+          "rationale": "Per uW TN figs-metaphor: ἐπλήρωσεν 'filled' here means the sound 'could be heard throughout the house' — Luke speaks of the sound as if it filled the house. Thai 'ดังก้องทั่วบ้าน' renders the aural-filling naturally (same metaphor structure in Thai). Literal 'เติมเต็ม' would mislead by suggesting the sound was a physical substance."
+        }
       ],
       "notes": "HAPAX: βίαιος. Sinai-theophany echoes: the sound/wind parallels Ex 19:16-19 at the giving of the Law — Pentecost as the New-Covenant Sinai. Luke's deliberate wording with πνοή (not ἄνεμος) also echoes Ezek 37:9 LXX (ἐκ τῶν τεσσάρων πνευμάτων ἐλθὲ καὶ ἐμφύσησον) — the Spirit-breath bringing dry bones to life. οἶκος is ambiguous (private home vs. larger building) per uW TN; Thai 'บ้าน' preserves this ambiguity without forcing a choice. OT ALLUSION: Ex 19:16-19 Sinai theophany + Ezek 37:9 Spirit-breath + Gen 2:7 creation-breath (composite allusion, thematic). ADDED TO NT_OT_CITATIONS."
     }
@@ -44,11 +68,23 @@
     "translation": {
       "thai": "มีบางสิ่งปรากฏแก่พวกเขาคล้ายเปลวไฟเป็นลิ้น แยกกระจายออกไปสถิตบนแต่ละคน",
       "thai_literal": null,
-      "thai_summary": "«ลิ้นเหมือนไฟ» ไม่ใช่ภาษาเปรียบเทียบธรรมดา แต่เป็นการสำแดงของพระเจ้าที่เห็นได้ด้วยตา ไฟเป็นสัญลักษณ์พระคัมภีร์เดิมแห่งการประทับของพระเจ้า (พุ่มไม้ไหม้ อพยพ 3:2; เสาไฟ อพยพ 13:21; ไฟบนภูเขาซีนาย อพยพ 19:18) ยอห์นผู้ให้บัพติศมาเคยประกาศว่าพระเมสสิยาห์จะให้บัพติศมา «ด้วยพระวิญญาณบริสุทธิ์และด้วยไฟ» (ลูกา 3:16) — คำพยากรณ์นั้นสำเร็จในวันนี้ ไฟที่แยกและสถิตบนแต่ละคนประกาศว่าของขวัญนี้ไม่ใช่เพื่อกลุ่มผู้นำเท่านั้น แต่เพื่อทุกคนในพระกายของพระคริสต์",
+      "thai_summary": "“ลิ้นเหมือนไฟ” ไม่ใช่ภาษาเปรียบเทียบธรรมดา แต่เป็นการสำแดงของพระเจ้าที่เห็นได้ด้วยตา ไฟเป็นสัญลักษณ์พระคัมภีร์เดิมแห่งการประทับของพระเจ้า (พุ่มไม้ไหม้ อพยพ 3:2; เสาไฟ อพยพ 13:21; ไฟบนภูเขาซีนาย อพยพ 19:18) ยอห์นผู้ให้บัพติศมาเคยประกาศว่าพระเมสสิยาห์จะให้บัพติศมา “ด้วยพระวิญญาณบริสุทธิ์และด้วยไฟ” (ลูกา 3:16) — คำพยากรณ์นั้นสำเร็จในวันนี้ ไฟที่แยกและสถิตบนแต่ละคนประกาศว่าของขวัญนี้ไม่ใช่เพื่อกลุ่มผู้นำเท่านั้น แต่เพื่อทุกคนในพระกายของพระคริสต์",
       "key_decisions": [
-        { "greek": "γλῶσσαι ὡσεὶ πυρός", "thai": "คล้ายเปลวไฟเป็นลิ้น", "rationale": "Per uW TN: this is a descriptive (not simile) — γλῶσσα + πυρός means 'tongue/flame of fire' (as in Isa 5:24 LXX); a 'tongue of fire' = 'a flame of fire'. ὡσεὶ ('like/as if') shows the visible form resembled flames but was something uncanny. Thai 'เปลวไฟเป็นลิ้น' captures the tongue-shaped flame imagery. The deliberate lexical link to γλώσσαις in v.4 (the languages/tongues spoken) is preserved: 'ลิ้น' in v.3 and 'ภาษา' in v.4 both derive from the same Greek γλῶσσα, which Thai cannot mirror with a single word; verse-level note preserves the connection." },
-        { "greek": "ὤφθησαν (aor. pass. 3pl)", "thai": "มีบางสิ่งปรากฏ", "rationale": "ὁράω aor.pass. = 'appeared / were seen'. Standard Greek idiom for theophanic or supernatural appearances (cf. Luke 1:11 ὤφθη of the angel). Thai 'ปรากฏ' carries the same divine-manifestation register used throughout Luke-Acts for supernatural appearances." },
-        { "greek": "διαμεριζόμεναι ... ἐκάθισεν ἐφ’ἕνα ἕκαστον", "thai": "แยกกระจายออกไปสถิตบนแต่ละคน", "rationale": "διαμερίζω pres. mid. ptc. = 'being distributed/divided up'. Per uW TN: the flames spread out so that there was one on each person. ἐκάθισεν aor. 3sg (not 3pl despite plural subject) — the flames collectively 'settled' one each. Thai 'สถิต' carries the divine-resting-upon register natural in Christian Thai for Spirit-manifestation. Rejected: 'นั่งลง' (too literal; sounds comical)." }
+        {
+          "greek": "γλῶσσαι ὡσεὶ πυρός",
+          "thai": "คล้ายเปลวไฟเป็นลิ้น",
+          "rationale": "Per uW TN: this is a descriptive (not simile) — γλῶσσα + πυρός means 'tongue/flame of fire' (as in Isa 5:24 LXX); a 'tongue of fire' = 'a flame of fire'. ὡσεὶ ('like/as if') shows the visible form resembled flames but was something uncanny. Thai 'เปลวไฟเป็นลิ้น' captures the tongue-shaped flame imagery. The deliberate lexical link to γλώσσαις in v.4 (the languages/tongues spoken) is preserved: 'ลิ้น' in v.3 and 'ภาษา' in v.4 both derive from the same Greek γλῶσσα, which Thai cannot mirror with a single word; verse-level note preserves the connection."
+        },
+        {
+          "greek": "ὤφθησαν (aor. pass. 3pl)",
+          "thai": "มีบางสิ่งปรากฏ",
+          "rationale": "ὁράω aor.pass. = 'appeared / were seen'. Standard Greek idiom for theophanic or supernatural appearances (cf. Luke 1:11 ὤφθη of the angel). Thai 'ปรากฏ' carries the same divine-manifestation register used throughout Luke-Acts for supernatural appearances."
+        },
+        {
+          "greek": "διαμεριζόμεναι ... ἐκάθισεν ἐφ’ἕνα ἕκαστον",
+          "thai": "แยกกระจายออกไปสถิตบนแต่ละคน",
+          "rationale": "διαμερίζω pres. mid. ptc. = 'being distributed/divided up'. Per uW TN: the flames spread out so that there was one on each person. ἐκάθισεν aor. 3sg (not 3pl despite plural subject) — the flames collectively 'settled' one each. Thai 'สถิต' carries the divine-resting-upon register natural in Christian Thai for Spirit-manifestation. Rejected: 'นั่งลง' (too literal; sounds comical)."
+        }
       ],
       "notes": "Deliberate γλῶσσα-wordplay: γλῶσσα in v.3 = 'tongue/flame' (descriptive); in v.4 = 'tongue/language' (functional). Thai split ('ลิ้น' vs 'ภาษา') loses the verbal unity but preserves meaning. The triple-theophany cluster — (1) sound from heaven (v.2), (2) wind (v.2), (3) fire (v.3) — all three are classical OT signals of divine presence (Sinai: Ex 19:16-19 thunder + wind + fire; Ezek 1 chariot theophany; 1 Kgs 19:11-12 Elijah theophany-inversion). Luke 3:16 πνεύματι ἁγίῳ καὶ πυρί (John the Baptist's prediction) is realized here. OT ALLUSION: Isa 5:24 LXX γλῶσσα πυρός 'tongue of fire' (established biblical-Hebrew idiom). ADDED TO NT_OT_CITATIONS (thematic composite with v.2)."
     }
@@ -62,11 +98,23 @@
     "translation": {
       "thai": "ทุกคนก็เต็มเปี่ยมด้วยพระวิญญาณบริสุทธิ์ และเริ่มพูดภาษาต่างๆ ตามที่พระวิญญาณทรงโปรดให้พวกเขาพูดออกมา",
       "thai_literal": null,
-      "thai_summary": "คำพยากรณ์ของพระเยซูในกิจการ 1:5 («พวกท่านจะรับบัพติศมาด้วยพระวิญญาณบริสุทธิ์ในอีกไม่กี่วัน») สำเร็จ ณ เวลานี้ ลูกาใช้ภาษาการเต็มเปี่ยม (ปลีโธ) — ไม่ใช่การลงหรือแค่การสถิตแบบชั่วคราว แต่เป็นการครอบครองทั้งคนในของผู้เชื่อ ของประทาน «ภาษาต่างๆ» ที่นี่เป็นภาษาต่างประเทศจริง (เห็นได้จากข้อ 6-11 ที่คนต่างชาติเข้าใจ) ไม่ใช่ภาษาทูตสวรรค์แบบที่เปาโลจะกล่าวถึงใน 1 โครินธ์ 14",
+      "thai_summary": "คำพยากรณ์ของพระเยซูในกิจการ 1:5 (“พวกท่านจะรับบัพติศมาด้วยพระวิญญาณบริสุทธิ์ในอีกไม่กี่วัน”) สำเร็จ ณ เวลานี้ ลูกาใช้ภาษาการเต็มเปี่ยม (ปลีโธ) — ไม่ใช่การลงหรือแค่การสถิตแบบชั่วคราว แต่เป็นการครอบครองทั้งคนในของผู้เชื่อ ของประทาน “ภาษาต่างๆ” ที่นี่เป็นภาษาต่างประเทศจริง (เห็นได้จากข้อ 6-11 ที่คนต่างชาติเข้าใจ) ไม่ใช่ภาษาทูตสวรรค์แบบที่เปาโลจะกล่าวถึงใน 1 โครินธ์ 14",
       "key_decisions": [
-        { "greek": "ἐπλήσθησαν ... πνεύματος ἁγίου", "thai": "เต็มเปี่ยมด้วยพระวิญญาณบริสุทธิ์", "rationale": "πίμπλημι aor. pass. = 'were filled'. Per uW TN figs-metaphor: Luke speaks of believers as containers. Thai 'เต็มเปี่ยม' preserves the filling-metaphor naturally (same Thai construction as Luke 1:15, 1:41, 1:67). RULES §4 key-term: πνεῦμα ἅγιον → พระวิญญาณบริสุทธิ์." },
-        { "greek": "ἤρξαντο λαλεῖν ἑτέραις γλώσσαις", "thai": "เริ่มพูดภาษาต่างๆ", "rationale": "ἄρχομαι + inf. = inchoative 'began to'. ἕτερος ('other/different') rather than ἄλλος (simple 'other') implies 'of a different kind'. Per uW TN figs-explicit: the implication (from vv. 6-11) is languages the disciples did not know. Thai 'ภาษาต่างๆ' preserves the plurality and foreignness without overspecifying. Rejected: 'ภาษาแปลก' (sounds pejorative); 'ภาษาต่างประเทศ' (too specific for this narrative moment — Luke holds that explicitation for vv. 6-11)." },
-        { "greek": "ἀποφθέγγεσθαι (inf.)", "thai": "พูดออกมา", "rationale": "Rare verb ἀποφθέγγομαι = 'to speak out / utter plainly / declare forth' (classical for oracular/solemn declaration). Recurs at v.14 (Peter) and 26:25 (Paul to Festus) — always Luke's marker for prophetic-weighty speech. Thai 'พูดออกมา' with context of 'ทรงโปรดให้' (divine enabling) captures both the forthtelling and the Spirit-empowered register. ἐδίδου impf. (iterative) — the Spirit was giving continuously as each one spoke." }
+        {
+          "greek": "ἐπλήσθησαν ... πνεύματος ἁγίου",
+          "thai": "เต็มเปี่ยมด้วยพระวิญญาณบริสุทธิ์",
+          "rationale": "πίμπλημι aor. pass. = 'were filled'. Per uW TN figs-metaphor: Luke speaks of believers as containers. Thai 'เต็มเปี่ยม' preserves the filling-metaphor naturally (same Thai construction as Luke 1:15, 1:41, 1:67). RULES §4 key-term: πνεῦμα ἅγιον → พระวิญญาณบริสุทธิ์."
+        },
+        {
+          "greek": "ἤρξαντο λαλεῖν ἑτέραις γλώσσαις",
+          "thai": "เริ่มพูดภาษาต่างๆ",
+          "rationale": "ἄρχομαι + inf. = inchoative 'began to'. ἕτερος ('other/different') rather than ἄλλος (simple 'other') implies 'of a different kind'. Per uW TN figs-explicit: the implication (from vv. 6-11) is languages the disciples did not know. Thai 'ภาษาต่างๆ' preserves the plurality and foreignness without overspecifying. Rejected: 'ภาษาแปลก' (sounds pejorative); 'ภาษาต่างประเทศ' (too specific for this narrative moment — Luke holds that explicitation for vv. 6-11)."
+        },
+        {
+          "greek": "ἀποφθέγγεσθαι (inf.)",
+          "thai": "พูดออกมา",
+          "rationale": "Rare verb ἀποφθέγγομαι = 'to speak out / utter plainly / declare forth' (classical for oracular/solemn declaration). Recurs at v.14 (Peter) and 26:25 (Paul to Festus) — always Luke's marker for prophetic-weighty speech. Thai 'พูดออกมา' with context of 'ทรงโปรดให้' (divine enabling) captures both the forthtelling and the Spirit-empowered register. ἐδίδου impf. (iterative) — the Spirit was giving continuously as each one spoke."
+        }
       ],
       "notes": "The fulfillment verse — Acts 1:5 promise ('you will be baptized in the Holy Spirit') and Acts 1:8 promise ('you will receive power') both realized here. πίμπλημι-Spirit language parallels Luke 1:15 (John the Baptist), 1:41 (Elizabeth), 1:67 (Zechariah) — Luke's signature for Spirit-endowment, distinct from the more permanent πληρόω used for post-Pentecost standing-state (cf. Acts 6:3, 7:55, 11:24). No textual variant."
     }
@@ -82,9 +130,21 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "κατοικοῦντες", "thai": "อาศัยอยู่", "rationale": "κατοικέω = 'dwell / reside' (longer-term residence, vs. παροικέω 'sojourn'). These are Diaspora Jews who have taken up residence in Jerusalem (some permanently, some for pilgrim-festivals of extended stay). Thai 'อาศัยอยู่' captures the settled residence sense." },
-        { "greek": "ἄνδρες εὐλαβεῖς", "thai": "ผู้ยำเกรงพระเจ้า", "rationale": "εὐλαβής = 'devout / god-fearing / religiously scrupulous'. Per uW TN figs-gendernotations: ἄνδρες here is generic 'people' (the crowd of vv. 6-12 includes women's hearing perspective in v.8 ἡμεῖς). Thai 'ผู้ยำเกรงพระเจ้า' captures the religious-devotion sense; gender-inclusive wording 'ผู้' rather than 'ชาย' handles the generic force. Rejected: literal 'ชายผู้' would misfit the subsequent context." },
-        { "greek": "ἀπὸ παντὸς ἔθνους τῶν ὑπὸ τὸν οὐρανόν", "thai": "มาจากทุกประชาชาติใต้ฟ้า", "rationale": "Per uW TN figs-hyperbole + figs-idiom: 'every nation' is a generalization; 'under heaven' is OT idiom for 'on earth' (Deut 2:25; 4:19). Thai 'ทุกประชาชาติใต้ฟ้า' preserves the hyperbolic universalism and the OT-idiomatic flavor — same idiom native in Thai Bible register ('ทั่วทุกหนแห่งใต้ฟ้า'). ἔθνος here = 'ethnic nation' (not Gentiles), so 'ประชาชาติ' fits (matches Luke 24:47)." }
+        {
+          "greek": "κατοικοῦντες",
+          "thai": "อาศัยอยู่",
+          "rationale": "κατοικέω = 'dwell / reside' (longer-term residence, vs. παροικέω 'sojourn'). These are Diaspora Jews who have taken up residence in Jerusalem (some permanently, some for pilgrim-festivals of extended stay). Thai 'อาศัยอยู่' captures the settled residence sense."
+        },
+        {
+          "greek": "ἄνδρες εὐλαβεῖς",
+          "thai": "ผู้ยำเกรงพระเจ้า",
+          "rationale": "εὐλαβής = 'devout / god-fearing / religiously scrupulous'. Per uW TN figs-gendernotations: ἄνδρες here is generic 'people' (the crowd of vv. 6-12 includes women's hearing perspective in v.8 ἡμεῖς). Thai 'ผู้ยำเกรงพระเจ้า' captures the religious-devotion sense; gender-inclusive wording 'ผู้' rather than 'ชาย' handles the generic force. Rejected: literal 'ชายผู้' would misfit the subsequent context."
+        },
+        {
+          "greek": "ἀπὸ παντὸς ἔθνους τῶν ὑπὸ τὸν οὐρανόν",
+          "thai": "มาจากทุกประชาชาติใต้ฟ้า",
+          "rationale": "Per uW TN figs-hyperbole + figs-idiom: 'every nation' is a generalization; 'under heaven' is OT idiom for 'on earth' (Deut 2:25; 4:19). Thai 'ทุกประชาชาติใต้ฟ้า' preserves the hyperbolic universalism and the OT-idiomatic flavor — same idiom native in Thai Bible register ('ทั่วทุกหนแห่งใต้ฟ้า'). ἔθνος here = 'ethnic nation' (not Gentiles), so 'ประชาชาติ' fits (matches Luke 24:47)."
+        }
       ],
       "notes": "δὲ marks background information (per uW grammar-connect-time-background). Luke sets the scene for the multi-lingual miracle: Diaspora Jews already in Jerusalem, who will hear their native languages spoken by Galilean peasants. ἔθνος is used in its common OT-Jewish sense of 'nation/people-group', not yet the Gentile-specific sense that will emerge in Acts 10."
     }
@@ -100,9 +160,21 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "τῆς φωνῆς ταύτης", "thai": "เสียงนั้น", "rationale": "φωνή = 'sound / voice'. Ambiguous reference: either (a) the sound of the wind (v.2 ἦχος) or (b) the multilingual speaking itself (the verse's concluding explanation suggests b — 'because each heard them speaking'). Most commentators and uW TN implicitly favor (b). Thai 'เสียงนั้น' is equally ambiguous, preserving the Greek." },
-        { "greek": "συνεχύθη (aor. pass. 3sg)", "thai": "งุนงงสงสัย", "rationale": "συγχέω (pass.) = 'be confounded / bewildered / thrown into confusion'. Classical term used in LXX Gen 11:7-9 for the Babel confounding — Luke may be signaling reversed-Babel typology (Babel: one language scattered; Pentecost: many languages united). Thai 'งุนงงสงสัย' renders the bewilderment naturally without forcing the Babel allusion overtly; noted in verse-notes." },
-        { "greek": "τῇ ἰδίᾳ διαλέκτῳ", "thai": "ภาษาของตนเอง", "rationale": "διάλεκτος = 'language/dialect'. ἴδιος = 'one's own'. Per uW TN figs-reflexive (implicit): each person heard in the language of his birthplace. Thai 'ภาษาของตนเอง' captures the 'own-language' reflexive naturally." }
+        {
+          "greek": "τῆς φωνῆς ταύτης",
+          "thai": "เสียงนั้น",
+          "rationale": "φωνή = 'sound / voice'. Ambiguous reference: either (a) the sound of the wind (v.2 ἦχος) or (b) the multilingual speaking itself (the verse's concluding explanation suggests b — 'because each heard them speaking'). Most commentators and uW TN implicitly favor (b). Thai 'เสียงนั้น' is equally ambiguous, preserving the Greek."
+        },
+        {
+          "greek": "συνεχύθη (aor. pass. 3sg)",
+          "thai": "งุนงงสงสัย",
+          "rationale": "συγχέω (pass.) = 'be confounded / bewildered / thrown into confusion'. Classical term used in LXX Gen 11:7-9 for the Babel confounding — Luke may be signaling reversed-Babel typology (Babel: one language scattered; Pentecost: many languages united). Thai 'งุนงงสงสัย' renders the bewilderment naturally without forcing the Babel allusion overtly; noted in verse-notes."
+        },
+        {
+          "greek": "τῇ ἰδίᾳ διαλέκτῳ",
+          "thai": "ภาษาของตนเอง",
+          "rationale": "διάλεκτος = 'language/dialect'. ἴδιος = 'one's own'. Per uW TN figs-reflexive (implicit): each person heard in the language of his birthplace. Thai 'ภาษาของตนเอง' captures the 'own-language' reflexive naturally."
+        }
       ],
       "notes": "BABEL ECHO: συγχέω is the LXX word at Gen 11:7-9 (συγχέωμεν αὐτῶν τὴν γλῶσσαν / καὶ συνέχεε κύριος ἐκεῖ τὴν γλῶσσαν πάσης τῆς γῆς). Luke deploys the same verb at the Pentecost crowd-reaction — deliberate typological inversion: Babel scattered the nations via confused-language; Pentecost regathers them via Spirit-given many-language unity. The fact that each hears in his own language (not that all speak one language) means the nations are not homogenized but incorporated in their diversity — the Spirit creates unity-in-diversity. OT ALLUSION: Gen 11:7-9 Babel reversal (typological). ADDED TO NT_OT_CITATIONS."
     }
@@ -114,13 +186,25 @@
     "greek": "ἐξίσταντο δὲ καὶ ἐθαύμαζον λέγοντες·Οὐχ ἰδοὺ πάντες οὗτοί εἰσιν οἱ λαλοῦντες Γαλιλαῖοι;",
     "bsb_english": "Astounded and amazed, they asked, \"Are not all these who are speaking Galileans?",
     "translation": {
-      "thai": "พวกเขาตื่นตะลึงและอัศจรรย์ใจ จึงกล่าวว่า «ดูเถิด คนเหล่านี้ที่กำลังพูดอยู่ล้วนเป็นชาวกาลิลีทั้งนั้นไม่ใช่หรือ",
+      "thai": "พวกเขาตื่นตะลึงและอัศจรรย์ใจ จึงกล่าวว่า “ดูเถิด คนเหล่านี้ที่กำลังพูดอยู่ล้วนเป็นชาวกาลิลีทั้งนั้นไม่ใช่หรือ",
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἐξίσταντο ... καὶ ἐθαύμαζον (doublet)", "thai": "ตื่นตะลึงและอัศจรรย์ใจ", "rationale": "Per uW TN figs-doublet: ἐξίστημι + θαυμάζω are near-synonyms used together for intensification. Thai preserves the doublet structure ('ตื่นตะลึง' + 'อัศจรรย์ใจ') rather than collapsing — matches Mark 6:51 / Luke 24:22 diction already established in corpus." },
-        { "greek": "Οὐχ ἰδοὺ ... Γαλιλαῖοι (rhetorical question)", "thai": "ดูเถิด ... ไม่ใช่หรือ", "rationale": "Per uW TN figs-rquestion: the οὐχ-fronted question expresses amazement, not information-seeking. Thai 'ไม่ใช่หรือ' at the end carries the rhetorical-amazement register naturally. 'ดูเถิด' for ἰδού marks the attention-focusing interjection (same choice as Acts 1:10)." },
-        { "greek": "Γαλιλαῖοι", "thai": "ชาวกาลิลี", "rationale": "The point of the question — Galileans were reputed to have a provincial, grammatically deficient Aramaic dialect (cf. the 'your accent gives you away' in Mark 14:70). For them to be speaking a dozen foreign languages was the astonishment. Thai 'ชาวกาลิลี' matches Acts 1:11 (ἄνδρες Γαλιλαῖοι)." }
+        {
+          "greek": "ἐξίσταντο ... καὶ ἐθαύμαζον (doublet)",
+          "thai": "ตื่นตะลึงและอัศจรรย์ใจ",
+          "rationale": "Per uW TN figs-doublet: ἐξίστημι + θαυμάζω are near-synonyms used together for intensification. Thai preserves the doublet structure ('ตื่นตะลึง' + 'อัศจรรย์ใจ') rather than collapsing — matches Mark 6:51 / Luke 24:22 diction already established in corpus."
+        },
+        {
+          "greek": "Οὐχ ἰδοὺ ... Γαλιλαῖοι (rhetorical question)",
+          "thai": "ดูเถิด ... ไม่ใช่หรือ",
+          "rationale": "Per uW TN figs-rquestion: the οὐχ-fronted question expresses amazement, not information-seeking. Thai 'ไม่ใช่หรือ' at the end carries the rhetorical-amazement register naturally. 'ดูเถิด' for ἰδού marks the attention-focusing interjection (same choice as Acts 1:10)."
+        },
+        {
+          "greek": "Γαλιλαῖοι",
+          "thai": "ชาวกาลิลี",
+          "rationale": "The point of the question — Galileans were reputed to have a provincial, grammatically deficient Aramaic dialect (cf. the 'your accent gives you away' in Mark 14:70). For them to be speaking a dozen foreign languages was the astonishment. Thai 'ชาวกาลิลี' matches Acts 1:11 (ἄνδρες Γαλιλαῖοι)."
+        }
       ],
       "notes": "Galileans were known for distinctive provincial Aramaic — Peter's accent betrayed him in Mark 14:70. The crowd's astonishment rests on the cultural-linguistic expectation: these unlearned fishermen can't speak Parthian/Elamite/Egyptian by natural means. Luke sets up the miracle as obvious-to-the-crowd-itself. No textual variant."
     }
@@ -136,9 +220,21 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "πῶς ... ἀκούομεν (rhetorical)", "thai": "เหตุใด ... จึงได้ยิน", "rationale": "Per uW TN figs-rquestion: rhetorical question continuing the amazement from v.7. Thai 'เหตุใด ... จึง' preserves the question-as-exclamation force." },
-        { "greek": "ἐν ᾗ ἐγεννήθημεν (metaphor)", "thai": "ที่เราเรียนมาตั้งแต่เกิด", "rationale": "Per uW TN figs-metaphor + figs-activepassive: 'in which we were born' = 'that we learned from birth' — a native-language idiom. Literal passive 'ที่เราถูกให้กำเนิดใน' would be Thai-unnatural; the metaphoric-to-meaningful equivalent 'ที่เราเรียนมาตั้งแต่เกิด' makes the sense plain. Rejected: 'ตั้งแต่เกิด' alone is too brief; 'เรียนมา' (learned) articulates the birth-language relationship." },
-        { "greek": "ἡμεῖς ... ἡμῶν (inclusive)", "thai": "พวกเรา", "rationale": "Per uW TN figs-exclusive note: the speakers use inclusive 'we' referring to themselves AND their co-listeners in the crowd (not contrasting with the disciples). Thai 'พวกเรา' is naturally inclusive." }
+        {
+          "greek": "πῶς ... ἀκούομεν (rhetorical)",
+          "thai": "เหตุใด ... จึงได้ยิน",
+          "rationale": "Per uW TN figs-rquestion: rhetorical question continuing the amazement from v.7. Thai 'เหตุใด ... จึง' preserves the question-as-exclamation force."
+        },
+        {
+          "greek": "ἐν ᾗ ἐγεννήθημεν (metaphor)",
+          "thai": "ที่เราเรียนมาตั้งแต่เกิด",
+          "rationale": "Per uW TN figs-metaphor + figs-activepassive: 'in which we were born' = 'that we learned from birth' — a native-language idiom. Literal passive 'ที่เราถูกให้กำเนิดใน' would be Thai-unnatural; the metaphoric-to-meaningful equivalent 'ที่เราเรียนมาตั้งแต่เกิด' makes the sense plain. Rejected: 'ตั้งแต่เกิด' alone is too brief; 'เรียนมา' (learned) articulates the birth-language relationship."
+        },
+        {
+          "greek": "ἡμεῖς ... ἡμῶν (inclusive)",
+          "thai": "พวกเรา",
+          "rationale": "Per uW TN figs-exclusive note: the speakers use inclusive 'we' referring to themselves AND their co-listeners in the crowd (not contrasting with the disciples). Thai 'พวกเรา' is naturally inclusive."
+        }
       ],
       "notes": "Paired with v.7 as the crowd's double-rhetorical-question reaction. The 'own language we were born in' idiom emphasizes that this is not a learned-language phenomenon; Luke is underlining the miraculous nature (not just bilingual disciples)."
     }
@@ -154,9 +250,21 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "Πάρθοι (hapax) ... Μῆδοι (hapax) ... Ἐλαμῖται (hapax)", "thai": "ชาวปารเธีย ชาวมีเดีย ชาวเอลาม", "rationale": "Three Iranian-plateau ethnonyms, all NT hapax. Parthians were the great eastern imperial rival of Rome; Medes and Elamites were ancient peoples of Persia (biblical: Isa 21:2; Dan 8:2). Transliteration follows OT-established Thai names (Daniel uses 'มีเดีย' for Media). 'ชาว' prefix = ethnic-people marker in Thai. Per uW TN translate-names: these are people-group names." },
-        { "greek": "τὴν Μεσοποταμίαν ... Ἰουδαίαν ... Καππαδοκίαν,Πόντον ... τὴν Ἀσίαν", "thai": "เมโสโปเตเมีย ยูเดีย คัปปาโดเซีย ปอนทัส แคว้นเอเชีย", "rationale": "Five geographic regions (Rom provinces / historical territories). Per uW TN translate-names. 'แคว้นเอเชีย' disambiguates from modern continental 'Asia' — this is the Roman province of Asia (western Anatolia). Rejected: 'เอเชีย' alone would mislead modern Thai readers into thinking of Asia as a continent." },
-        { "greek": "Ἰουδαίαν", "thai": "ยูเดีย", "rationale": "Judea is included in the list — somewhat puzzling since Judeans already speak Aramaic, not a foreign language. Scholars offer several explanations: (1) the list represents a geographical sweep from east-to-west; (2) Ἰουδαίαν might be a textual gloss or refer to the expanded Davidic-kingdom region. We preserve the SBLGNT reading without emendation." }
+        {
+          "greek": "Πάρθοι (hapax) ... Μῆδοι (hapax) ... Ἐλαμῖται (hapax)",
+          "thai": "ชาวปารเธีย ชาวมีเดีย ชาวเอลาม",
+          "rationale": "Three Iranian-plateau ethnonyms, all NT hapax. Parthians were the great eastern imperial rival of Rome; Medes and Elamites were ancient peoples of Persia (biblical: Isa 21:2; Dan 8:2). Transliteration follows OT-established Thai names (Daniel uses 'มีเดีย' for Media). 'ชาว' prefix = ethnic-people marker in Thai. Per uW TN translate-names: these are people-group names."
+        },
+        {
+          "greek": "τὴν Μεσοποταμίαν ... Ἰουδαίαν ... Καππαδοκίαν,Πόντον ... τὴν Ἀσίαν",
+          "thai": "เมโสโปเตเมีย ยูเดีย คัปปาโดเซีย ปอนทัส แคว้นเอเชีย",
+          "rationale": "Five geographic regions (Rom provinces / historical territories). Per uW TN translate-names. 'แคว้นเอเชีย' disambiguates from modern continental 'Asia' — this is the Roman province of Asia (western Anatolia). Rejected: 'เอเชีย' alone would mislead modern Thai readers into thinking of Asia as a continent."
+        },
+        {
+          "greek": "Ἰουδαίαν",
+          "thai": "ยูเดีย",
+          "rationale": "Judea is included in the list — somewhat puzzling since Judeans already speak Aramaic, not a foreign language. Scholars offer several explanations: (1) the list represents a geographical sweep from east-to-west; (2) Ἰουδαίαν might be a textual gloss or refer to the expanded Davidic-kingdom region. We preserve the SBLGNT reading without emendation."
+        }
       ],
       "notes": "Three NT hapax ethnonyms (Parthians, Medes, Elamites) — all classical Persian-region peoples. This begins Luke's 15-item nations-list (Acts 2:9-11), a table-of-nations deliberately evoking Gen 10 (LXX Table of Nations) and Isa 66:18-20 (eschatological nations-pilgrimage). The list moves roughly east-to-west: east (Parthia/Media/Elam) → Mesopotamia → Judea → central Anatolia (Cappadocia, Pontus, Asia) → continuing in vv. 10-11. Deliberately comprehensive: Luke shows that Pentecost reaches the geographic breadth of known-world Jewish diaspora. No textual variant."
     }
@@ -172,9 +280,21 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "Φρυγίαν ... Παμφυλίαν,Αἴγυπτον", "thai": "ฟรีเจีย ปัมฟีเลีย อียิปต์", "rationale": "Anatolian regions (Phrygia, Pamphylia) and Egypt. Transliterations follow Thai Christian convention. Per uW TN translate-names." },
-        { "greek": "τῆς Λιβύης (hapax) τῆς κατὰ Κυρήνην (hapax)", "thai": "แถบลิบยาใกล้เมืองไซรีน", "rationale": "Both NT hapax. Libya (north Africa) + Cyrene (major Greek-Jewish city in Libya, home of Simon of Cyrene who carried Jesus' cross — Luke 23:26). 'แถบ ... ใกล้เมือง' renders τὰ μέρη + κατά ('the parts near') naturally. Transliterations follow Thai Christian use: 'ลิบยา' and 'ไซรีน' (ไซรีน more standard than 'คีรีน')." },
-        { "greek": "οἱ ἐπιδημοῦντες Ῥωμαῖοι", "thai": "ผู้มาเยือนจากกรุงโรม", "rationale": "ἐπιδημέω = 'sojourn / be a visitor' — short-term residents (not permanent settlers). Ῥωμαῖοι could be 'Romans' (ethnic) or 'residents of Rome' (which includes Jewish Romans); context (v.11 'both Jews and proselytes') suggests Roman Jews + proselytes on pilgrimage. Thai 'ผู้มาเยือนจากกรุงโรม' captures the visitor-from-Rome semantics. 'กรุงโรม' (capital city) vs 'โรม' — using 'กรุง' elevates to proper Roman imperial register." }
+        {
+          "greek": "Φρυγίαν ... Παμφυλίαν,Αἴγυπτον",
+          "thai": "ฟรีเจีย ปัมฟีเลีย อียิปต์",
+          "rationale": "Anatolian regions (Phrygia, Pamphylia) and Egypt. Transliterations follow Thai Christian convention. Per uW TN translate-names."
+        },
+        {
+          "greek": "τῆς Λιβύης (hapax) τῆς κατὰ Κυρήνην (hapax)",
+          "thai": "แถบลิบยาใกล้เมืองไซรีน",
+          "rationale": "Both NT hapax. Libya (north Africa) + Cyrene (major Greek-Jewish city in Libya, home of Simon of Cyrene who carried Jesus' cross — Luke 23:26). 'แถบ ... ใกล้เมือง' renders τὰ μέρη + κατά ('the parts near') naturally. Transliterations follow Thai Christian use: 'ลิบยา' and 'ไซรีน' (ไซรีน more standard than 'คีรีน')."
+        },
+        {
+          "greek": "οἱ ἐπιδημοῦντες Ῥωμαῖοι",
+          "thai": "ผู้มาเยือนจากกรุงโรม",
+          "rationale": "ἐπιδημέω = 'sojourn / be a visitor' — short-term residents (not permanent settlers). Ῥωμαῖοι could be 'Romans' (ethnic) or 'residents of Rome' (which includes Jewish Romans); context (v.11 'both Jews and proselytes') suggests Roman Jews + proselytes on pilgrimage. Thai 'ผู้มาเยือนจากกรุงโรม' captures the visitor-from-Rome semantics. 'กรุงโรม' (capital city) vs 'โรม' — using 'กรุง' elevates to proper Roman imperial register."
+        }
       ],
       "notes": "TWO HAPAX: Λιβύη, Κυρήνη (both proper nouns of geographic features). The west-sweep continues: Anatolia → Egypt → Libya → Rome. Cyrene is significant beyond this verse: Simon of Cyrene carried Jesus' cross (Luke 23:26), and Cyrenian Jews appear at Stephen's synagogue (Acts 6:9) and at Antioch's first Gentile mission (Acts 11:20, 13:1). Luke is quietly seeding future-Acts characters. The Rome visitors (Ῥωμαῖοι) preview the book's final destination (Acts 28). No textual variant."
     }
@@ -186,13 +306,25 @@
     "greek": "Ἰουδαῖοί τε καὶ προσήλυτοι,Κρῆτες καὶ Ἄραβες,ἀκούομεν λαλούντων αὐτῶν ταῖς ἡμετέραις γλώσσαις τὰ μεγαλεῖα τοῦ θεοῦ.",
     "bsb_english": "both Jews and converts to Judaism; Cretans and Arabs—we hear them declaring the wonders of God in our own tongues!\"",
     "translation": {
-      "thai": "ทั้งชาวยิวและผู้เปลี่ยนศาสนามาเข้าจารีตยิว ชาวครีตและชาวอาหรับ พวกเราได้ยินพวกเขาประกาศพระราชกิจอันยิ่งใหญ่ของพระเจ้าเป็นภาษาของเราเอง»",
+      "thai": "ทั้งชาวยิวและผู้เปลี่ยนศาสนามาเข้าจารีตยิว ชาวครีตและชาวอาหรับ พวกเราได้ยินพวกเขาประกาศพระราชกิจอันยิ่งใหญ่ของพระเจ้าเป็นภาษาของเราเอง”",
       "thai_literal": null,
-      "thai_summary": "พระราชกิจอันยิ่งใหญ่ (เมกาเลอา — ภาษาเฉพาะของพระคัมภีร์เดิม) คือชื่อมาตรฐานสำหรับกิจที่พระเจ้าทรงสำแดงฤทธานุภาพ เช่น การปลดปล่อยจากอียิปต์ (อพยพ 15:11 LXX; สดุดี 71:19 LXX) และการฟื้นฟูอิสราเอล ในบริบทของพันธสัญญาใหม่ หมายถึงการสิ้นพระชนม์ การคืนพระชนม์ และการเสด็จขึ้นของพระเยซู — การปลดปล่อยแห่งการเอ็กโซดัสใหม่ การที่ผู้เชื่อชาวกาลิลีประกาศเรื่องนี้ด้วยภาษาของทุกประชาชาติเป็นสัญลักษณ์ว่าข่าวประเสริฐจะไปถึง «ที่สุดปลายแผ่นดินโลก» (กิจการ 1:8)",
+      "thai_summary": "พระราชกิจอันยิ่งใหญ่ (เมกาเลอา — ภาษาเฉพาะของพระคัมภีร์เดิม) คือชื่อมาตรฐานสำหรับกิจที่พระเจ้าทรงสำแดงฤทธานุภาพ เช่น การปลดปล่อยจากอียิปต์ (อพยพ 15:11 LXX; สดุดี 71:19 LXX) และการฟื้นฟูอิสราเอล ในบริบทของพันธสัญญาใหม่ หมายถึงการสิ้นพระชนม์ การคืนพระชนม์ และการเสด็จขึ้นของพระเยซู — การปลดปล่อยแห่งการเอ็กโซดัสใหม่ การที่ผู้เชื่อชาวกาลิลีประกาศเรื่องนี้ด้วยภาษาของทุกประชาชาติเป็นสัญลักษณ์ว่าข่าวประเสริฐจะไปถึง “ที่สุดปลายแผ่นดินโลก” (กิจการ 1:8)",
       "key_decisions": [
-        { "greek": "Ἰουδαῖοί τε καὶ προσήλυτοι", "thai": "ทั้งชาวยิวและผู้เปลี่ยนศาสนามาเข้าจารีตยิว", "rationale": "προσήλυτος = 'convert / proselyte' — specifically Gentile converts to Judaism. Per uW TN. Thai 'ผู้เปลี่ยนศาสนามาเข้าจารีตยิว' captures the conversion-to-Judaism sense. Transliteration 'โปรเซไลต์' considered and rejected (unfamiliar)." },
-        { "greek": "Κρῆτες καὶ Ἄραβες (Ἄραψ hapax)", "thai": "ชาวครีตและชาวอาหรับ", "rationale": "Two final ethnonyms completing the list. Ἄραψ is NT hapax (only occurrence). 'ครีต' for Crete (Aegean island) and 'อาหรับ' (established Thai for Arabs) — both are standard Thai transliterations. Per uW TN translate-names." },
-        { "greek": "τὰ μεγαλεῖα τοῦ θεοῦ (μεγαλεῖος hapax)", "thai": "พระราชกิจอันยิ่งใหญ่ของพระเจ้า", "rationale": "μεγαλεῖα (NT hapax as noun) = 'great things / mighty deeds'. LXX technical term for God's saving acts (Deut 11:2; Ps 71:19 LXX; Sir 17:8). Thai 'พระราชกิจอันยิ่งใหญ่' (royal-register 'great deeds') captures the divine-mighty-acts register. Per uW TN figs-nominaladj: Greek uses the adjective as a noun ('the great [things]'). 'พระราชกิจ' adds the royal-action sense appropriate for divine subject." }
+        {
+          "greek": "Ἰουδαῖοί τε καὶ προσήλυτοι",
+          "thai": "ทั้งชาวยิวและผู้เปลี่ยนศาสนามาเข้าจารีตยิว",
+          "rationale": "προσήλυτος = 'convert / proselyte' — specifically Gentile converts to Judaism. Per uW TN. Thai 'ผู้เปลี่ยนศาสนามาเข้าจารีตยิว' captures the conversion-to-Judaism sense. Transliteration 'โปรเซไลต์' considered and rejected (unfamiliar)."
+        },
+        {
+          "greek": "Κρῆτες καὶ Ἄραβες (Ἄραψ hapax)",
+          "thai": "ชาวครีตและชาวอาหรับ",
+          "rationale": "Two final ethnonyms completing the list. Ἄραψ is NT hapax (only occurrence). 'ครีต' for Crete (Aegean island) and 'อาหรับ' (established Thai for Arabs) — both are standard Thai transliterations. Per uW TN translate-names."
+        },
+        {
+          "greek": "τὰ μεγαλεῖα τοῦ θεοῦ (μεγαλεῖος hapax)",
+          "thai": "พระราชกิจอันยิ่งใหญ่ของพระเจ้า",
+          "rationale": "μεγαλεῖα (NT hapax as noun) = 'great things / mighty deeds'. LXX technical term for God's saving acts (Deut 11:2; Ps 71:19 LXX; Sir 17:8). Thai 'พระราชกิจอันยิ่งใหญ่' (royal-register 'great deeds') captures the divine-mighty-acts register. Per uW TN figs-nominaladj: Greek uses the adjective as a noun ('the great [things]'). 'พระราชกิจ' adds the royal-action sense appropriate for divine subject."
+        }
       ],
       "notes": "TWO HAPAX: Ἄραψ, μεγαλεῖος. Completion of the 15-item nations-list (vv. 9-11). τὰ μεγαλεῖα is LXX-coded language — same word used for God's saving acts in the Exodus (Ex 15:11 LXX τὰ μεγαλεῖα) and Psalm 71:19 LXX (τὰ μεγαλεῖα σου). The disciples are proclaiming the New-Exodus mighty-acts (cross/resurrection/ascension) in all known-world languages — a Pentecost-fulfillment of Ps 117:1 LXX (πάντα τὰ ἔθνη αἰνεῖτε τὸν κύριον). OT ALLUSION: τὰ μεγαλεῖα as LXX-echo of Ex 15:11 / Ps 71:19. ADDED TO NT_OT_CITATIONS."
     }
@@ -204,12 +336,20 @@
     "greek": "ἐξίσταντο δὲ πάντες καὶ διηπόρουν,ἄλλος πρὸς ἄλλον λέγοντες·Τί θέλει τοῦτο εἶναι;",
     "bsb_english": "Astounded and perplexed, they asked one another, \"What does this mean?\"",
     "translation": {
-      "thai": "ทุกคนตื่นตะลึงและฉงนสนเท่ห์ จึงถามกันเองว่า «นี่หมายความว่าอย่างไร»",
+      "thai": "ทุกคนตื่นตะลึงและฉงนสนเท่ห์ จึงถามกันเองว่า “นี่หมายความว่าอย่างไร”",
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἐξίσταντο ... καὶ διηπόρουν (doublet)", "thai": "ตื่นตะลึงและฉงนสนเท่ห์", "rationale": "Per uW TN figs-doublet: ἐξίστημι + διαπορέω ('be amazed' + 'be perplexed'). διαπορέω is stronger than θαυμάζω from v.7 — the amazement has deepened into thorough bewilderment. Thai 'ฉงนสนเท่ห์' is stronger than 'อัศจรรย์ใจ' (v.7), preserving the Greek intensification. Repetition of ἐξίσταντο from v.7 frames the pericope (inclusio)." },
-        { "greek": "Τί θέλει τοῦτο εἶναι;", "thai": "นี่หมายความว่าอย่างไร", "rationale": "Per uW TN figs-idiom: 'What does this want to be?' is Greek idiom for 'what does this mean?' Thai 'นี่หมายความว่าอย่างไร' renders plainly. Literal 'นี่ต้องการจะเป็นอะไร' would be nonsensical in Thai." }
+        {
+          "greek": "ἐξίσταντο ... καὶ διηπόρουν (doublet)",
+          "thai": "ตื่นตะลึงและฉงนสนเท่ห์",
+          "rationale": "Per uW TN figs-doublet: ἐξίστημι + διαπορέω ('be amazed' + 'be perplexed'). διαπορέω is stronger than θαυμάζω from v.7 — the amazement has deepened into thorough bewilderment. Thai 'ฉงนสนเท่ห์' is stronger than 'อัศจรรย์ใจ' (v.7), preserving the Greek intensification. Repetition of ἐξίσταντο from v.7 frames the pericope (inclusio)."
+        },
+        {
+          "greek": "Τί θέλει τοῦτο εἶναι;",
+          "thai": "นี่หมายความว่าอย่างไร",
+          "rationale": "Per uW TN figs-idiom: 'What does this want to be?' is Greek idiom for 'what does this mean?' Thai 'นี่หมายความว่าอย่างไร' renders plainly. Literal 'นี่ต้องการจะเป็นอะไร' would be nonsensical in Thai."
+        }
       ],
       "notes": "The question-frame of the pericope: v.12 asks 'what does this mean?' and Peter's sermon (vv. 14-36) answers. Luke structures narratives with question-and-answer frames (cf. Luke 1:66 'what will this child be?' answered by the rest of Luke 1-2). No textual variant."
     }
@@ -221,12 +361,20 @@
     "greek": "ἕτεροι δὲ διαχλευάζοντες ἔλεγον ὅτι Γλεύκους μεμεστωμένοι εἰσίν.",
     "bsb_english": "But others mocked them and said, \"They are drunk on new wine!\"",
     "translation": {
-      "thai": "แต่คนอื่นๆ เยาะเย้ยว่า «พวกนี้เมาเหล้าองุ่นใหม่ต่างหาก»",
+      "thai": "แต่คนอื่นๆ เยาะเย้ยว่า “พวกนี้เมาเหล้าองุ่นใหม่ต่างหาก”",
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "διαχλευάζοντες (hapax)", "thai": "เยาะเย้ย", "rationale": "διαχλευάζω (NT hapax, intensive compound of χλευάζω) = 'to mock thoroughly / scoff at'. The διά-prefix intensifies the base mocking-verb. Thai 'เยาะเย้ย' captures the mocking register with natural force; the intensification is implicit in Thai's monosyllabic-reduplication 'เยาะเย้ย' pattern." },
-        { "greek": "Γλεύκους (hapax) μεμεστωμένοι (hapax) εἰσίν", "thai": "เมาเหล้าองุ่นใหม่", "rationale": "TWO HAPAX in one phrase: γλεῦκος (sweet unfermented must / new wine) + μεστόω (be full of). Per uW TN translate-unknown: γλεῦκος refers to wine thicker and more intoxicating than ordinary — early-fermentation stage, considered especially potent. Thai 'เหล้าองุ่นใหม่' preserves the 'new wine' sense. The mockery is doubly-ridiculous: Peter will point out in v.15 that it's only 9 AM — too early for drunkenness." }
+        {
+          "greek": "διαχλευάζοντες (hapax)",
+          "thai": "เยาะเย้ย",
+          "rationale": "διαχλευάζω (NT hapax, intensive compound of χλευάζω) = 'to mock thoroughly / scoff at'. The διά-prefix intensifies the base mocking-verb. Thai 'เยาะเย้ย' captures the mocking register with natural force; the intensification is implicit in Thai's monosyllabic-reduplication 'เยาะเย้ย' pattern."
+        },
+        {
+          "greek": "Γλεύκους (hapax) μεμεστωμένοι (hapax) εἰσίν",
+          "thai": "เมาเหล้าองุ่นใหม่",
+          "rationale": "TWO HAPAX in one phrase: γλεῦκος (sweet unfermented must / new wine) + μεστόω (be full of). Per uW TN translate-unknown: γλεῦκος refers to wine thicker and more intoxicating than ordinary — early-fermentation stage, considered especially potent. Thai 'เหล้าองุ่นใหม่' preserves the 'new wine' sense. The mockery is doubly-ridiculous: Peter will point out in v.15 that it's only 9 AM — too early for drunkenness."
+        }
       ],
       "notes": "THREE HAPAX: διαχλευάζω, γλεῦκος, μεστόω. The mockery sets up Peter's opening defense in v.15 ('these men are not drunk, for it is the third hour'). Luke records both the sincere question (v.12) and the dismissive mockery (v.13) — the sermon must address both. The mockers are presumably Aramaic-speaking locals who don't hear the foreign-languages phenomenon clearly and interpret ecstatic-sounding speech as drunken-babbling. No textual variant."
     }
@@ -238,14 +386,30 @@
     "greek": "Σταθεὶς δὲ ὁ Πέτρος σὺν τοῖς ἕνδεκα ἐπῆρεν τὴν φωνὴν αὐτοῦ καὶ ἀπεφθέγξατο αὐτοῖς·Ἄνδρες Ἰουδαῖοι καὶ οἱ κατοικοῦντες Ἰερουσαλὴμ πάντες,τοῦτο ὑμῖν γνωστὸν ἔστω καὶ ἐνωτίσασθε τὰ ῥήματά μου.",
     "bsb_english": "Then Peter stood up with the Eleven, lifted up his voice, and addressed the crowd: \"Men of Judea and all who dwell in Jerusalem, let this be known to you, and listen carefully to my words.",
     "translation": {
-      "thai": "เปโตรยืนขึ้นพร้อมกับอัครทูตอีกสิบเอ็ดคน เปล่งเสียงกล่าวแก่พวกเขาว่า «พี่น้องชาวยูเดียและทุกท่านที่อาศัยอยู่ในกรุงเยรูซาเล็มเอ๋ย ขอให้ทราบสิ่งนี้ และจงเงี่ยหูฟังคำของข้าพเจ้า",
+      "thai": "เปโตรยืนขึ้นพร้อมกับอัครทูตอีกสิบเอ็ดคน เปล่งเสียงกล่าวแก่พวกเขาว่า “พี่น้องชาวยูเดียและทุกท่านที่อาศัยอยู่ในกรุงเยรูซาเล็มเอ๋ย ขอให้ทราบสิ่งนี้ และจงเงี่ยหูฟังคำของข้าพเจ้า",
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "Σταθεὶς ... ἐπῆρεν τὴν φωνὴν (symbolic action)", "thai": "ยืนขึ้น ... เปล่งเสียง", "rationale": "Per uW TN translate-symaction: Peter's standing signals formal authoritative speech; the Eleven standing with him signals corporate-apostolic support. ἐπαίρω τὴν φωνὴν is idiomatic for 'speak loudly/publicly'. Thai 'เปล่งเสียง' captures the lifted-voice register naturally (higher register than 'พูดเสียงดัง')." },
-        { "greek": "ἀπεφθέγξατο (link to v.4 ἀποφθέγγεσθαι)", "thai": "กล่าวแก่พวกเขา", "rationale": "Deliberate lexical link: Luke uses the same rare ἀποφθέγγομαι from v.4 (Spirit-enabled utterance) — signaling Peter's sermon is itself Spirit-prompted prophetic-solemn speech. Thai 'กล่าว' with the weightier formal-address context carries it; the lexical tie is preserved in notes rather than via a single-word gloss that would flatten." },
-        { "greek": "Ἄνδρες Ἰουδαῖοι καὶ οἱ κατοικοῦντες Ἰερουσαλὴμ πάντες", "thai": "พี่น้องชาวยูเดียและทุกท่านที่อาศัยอยู่ในกรุงเยรูซาเล็มเอ๋ย", "rationale": "Per uW TN figs-idiom + figs-gendernotations: 'Ἄνδρες + ethnicity' = formal-address idiom 'My fellow X' (not specifically-male). 'พี่น้องชาวยูเดีย' captures the fraternal formal-address; 'เอ๋ย' vocative-particle at end for attention-getting. Acts 2:22, 2:29, 2:37 will reuse the Ἄνδρες + noun vocative — establishing Peter's rhetorical rhythm." },
-        { "greek": "ἐνωτίσασθε (hapax) τὰ ῥήματά μου", "thai": "จงเงี่ยหูฟังคำของข้าพเจ้า", "rationale": "ἐνωτίζομαι (NT hapax, from ἐν + οὖς 'in/into the ear') = 'take into the ear / give heed to'. LXX-frequent (Job, Psalms) in the formula 'give ear to my words' — Peter's phrasing ἐνωτίσασθε τὰ ῥήματά μου directly echoes Joel 1:2, Job 32:11, Ps 48:2 LXX. Thai 'เงี่ยหูฟัง' preserves the ear-inclination metaphor naturally. Per uW TN figs-metonymy (implicit)." }
+        {
+          "greek": "Σταθεὶς ... ἐπῆρεν τὴν φωνὴν (symbolic action)",
+          "thai": "ยืนขึ้น ... เปล่งเสียง",
+          "rationale": "Per uW TN translate-symaction: Peter's standing signals formal authoritative speech; the Eleven standing with him signals corporate-apostolic support. ἐπαίρω τὴν φωνὴν is idiomatic for 'speak loudly/publicly'. Thai 'เปล่งเสียง' captures the lifted-voice register naturally (higher register than 'พูดเสียงดัง')."
+        },
+        {
+          "greek": "ἀπεφθέγξατο (link to v.4 ἀποφθέγγεσθαι)",
+          "thai": "กล่าวแก่พวกเขา",
+          "rationale": "Deliberate lexical link: Luke uses the same rare ἀποφθέγγομαι from v.4 (Spirit-enabled utterance) — signaling Peter's sermon is itself Spirit-prompted prophetic-solemn speech. Thai 'กล่าว' with the weightier formal-address context carries it; the lexical tie is preserved in notes rather than via a single-word gloss that would flatten."
+        },
+        {
+          "greek": "Ἄνδρες Ἰουδαῖοι καὶ οἱ κατοικοῦντες Ἰερουσαλὴμ πάντες",
+          "thai": "พี่น้องชาวยูเดียและทุกท่านที่อาศัยอยู่ในกรุงเยรูซาเล็มเอ๋ย",
+          "rationale": "Per uW TN figs-idiom + figs-gendernotations: 'Ἄνδρες + ethnicity' = formal-address idiom 'My fellow X' (not specifically-male). 'พี่น้องชาวยูเดีย' captures the fraternal formal-address; 'เอ๋ย' vocative-particle at end for attention-getting. Acts 2:22, 2:29, 2:37 will reuse the Ἄνδρες + noun vocative — establishing Peter's rhetorical rhythm."
+        },
+        {
+          "greek": "ἐνωτίσασθε (hapax) τὰ ῥήματά μου",
+          "thai": "จงเงี่ยหูฟังคำของข้าพเจ้า",
+          "rationale": "ἐνωτίζομαι (NT hapax, from ἐν + οὖς 'in/into the ear') = 'take into the ear / give heed to'. LXX-frequent (Job, Psalms) in the formula 'give ear to my words' — Peter's phrasing ἐνωτίσασθε τὰ ῥήματά μου directly echoes Joel 1:2, Job 32:11, Ps 48:2 LXX. Thai 'เงี่ยหูฟัง' preserves the ear-inclination metaphor naturally. Per uW TN figs-metonymy (implicit)."
+        }
       ],
       "notes": "HAPAX: ἐνωτίζομαι. Peter's sermon opens with LXX-prophetic formal diction: ἐνωτίσασθε + τὰ ῥήματά echoes prophetic speech-openings (Joel 1:2 'ἐνωτίσασθε ... οἱ κατοικοῦντες τὴν γῆν'; Isa 1:2 LXX; Deut 32:1 LXX). Luke shows Peter — the unschooled Galilean — now speaking in the prophetic LXX register, a Spirit-empowered transformation. The αν (Ἕνδεκα) refers to the Twelve minus Judas minus Peter = the remaining 11 (Matthias already co-opted at 1:26 technically makes 12 again, but Luke here uses 'Eleven' formally — likely counting Peter as the lead-speaker plus the 11 standing with him). OT ALLUSION: ἐνωτίσασθε idiom echoes Joel 1:2 (programmatic — Peter is about to cite Joel in v.16ff). ADDED TO NT_OT_CITATIONS."
     }
@@ -261,8 +425,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ὡς ὑμεῖς ὑπολαμβάνετε", "thai": "อย่างที่พวกท่านคิด", "rationale": "ὑπολαμβάνω here = 'suppose / take up the thought'. Peter directly addresses the mockery of v.13. Thai 'อย่างที่พวกท่านคิด' is natural conversational idiom." },
-        { "greek": "ὥρα τρίτη τῆς ἡμέρας", "thai": "โมงที่สามของวัน", "rationale": "Per uW TN: Jewish/Roman hour-reckoning starts at daybreak (~6 AM) = 1st hour; third hour = 9 AM. We preserve Luke's Biblical-time reckoning rather than modernizing to '9 โมงเช้า' — Thai readers of Scripture expect the ancient-hour convention ('โมงที่สาม'), and the point (it's too early to be drunk) is preserved either way. Rejected: '9 โมงเช้า' (anachronistic modernization)." }
+        {
+          "greek": "ὡς ὑμεῖς ὑπολαμβάνετε",
+          "thai": "อย่างที่พวกท่านคิด",
+          "rationale": "ὑπολαμβάνω here = 'suppose / take up the thought'. Peter directly addresses the mockery of v.13. Thai 'อย่างที่พวกท่านคิด' is natural conversational idiom."
+        },
+        {
+          "greek": "ὥρα τρίτη τῆς ἡμέρας",
+          "thai": "โมงที่สามของวัน",
+          "rationale": "Per uW TN: Jewish/Roman hour-reckoning starts at daybreak (~6 AM) = 1st hour; third hour = 9 AM. We preserve Luke's Biblical-time reckoning rather than modernizing to '9 โมงเช้า' — Thai readers of Scripture expect the ancient-hour convention ('โมงที่สาม'), and the point (it's too early to be drunk) is preserved either way. Rejected: '9 โมงเช้า' (anachronistic modernization)."
+        }
       ],
       "notes": "Peter's opening argument is simple: it's 9 AM, nobody gets drunk this early. The crowd's alternative explanation (drunken babble) is dismissed on practical grounds, opening the way for the real explanation (Joel's prophecy). This is Peter's sermon-logic: rule out the false, then present the true."
     }
@@ -278,8 +450,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "τοῦτό ἐστιν τὸ εἰρημένον (pf. pass. ptc.)", "thai": "เหตุการณ์นี้คือสิ่งที่พระเจ้าตรัสไว้", "rationale": "Per uW TN figs-activepassive + figs-explicit: the theological passive 'what was spoken' implies divine agent. We make the agent explicit ('พระเจ้าตรัสไว้') to match Thai stylistic preference and the sentence's rhetorical force. διά + gen. = instrumental ('through the prophet Joel'). Thai 'โดยทาง' for διά is standard RULES-level convention. Royal register 'ตรัส' for divine speech." },
-        { "greek": "Ἰωήλ (hapax, proper name)", "thai": "โยเอล", "rationale": "NT hapax. Joel the OT prophet (book of Joel). Standard Thai biblical transliteration 'โยเอล'." }
+        {
+          "greek": "τοῦτό ἐστιν τὸ εἰρημένον (pf. pass. ptc.)",
+          "thai": "เหตุการณ์นี้คือสิ่งที่พระเจ้าตรัสไว้",
+          "rationale": "Per uW TN figs-activepassive + figs-explicit: the theological passive 'what was spoken' implies divine agent. We make the agent explicit ('พระเจ้าตรัสไว้') to match Thai stylistic preference and the sentence's rhetorical force. διά + gen. = instrumental ('through the prophet Joel'). Thai 'โดยทาง' for διά is standard RULES-level convention. Royal register 'ตรัส' for divine speech."
+        },
+        {
+          "greek": "Ἰωήλ (hapax, proper name)",
+          "thai": "โยเอล",
+          "rationale": "NT hapax. Joel the OT prophet (book of Joel). Standard Thai biblical transliteration 'โยเอล'."
+        }
       ],
       "notes": "HAPAX: Ἰωήλ. Peter's fulfillment-formula: τοῦτό ἐστιν τὸ εἰρημένον = 'this is what-was-spoken'. Standard Lukan pesher-formula (cf. Luke 24:44 'δεῖ πληρωθῆναι πάντα τὰ γεγραμμένα'). Peter identifies Pentecost as the Joel-prophecy fulfillment. Joel 2:28-32 (Heb; LXX Joel 3:1-5) is about to be cited. Peter's reading is inclusionary — the 'last days' have begun with Pentecost (inaugurated eschatology)."
     }
@@ -291,15 +471,35 @@
     "greek": "Καὶ ἔσται ἐν ταῖς ἐσχάταις ἡμέραις,λέγει ὁ θεός,ἐκχεῶ ἀπὸ τοῦ πνεύματός μου ἐπὶ πᾶσαν σάρκα,καὶ προφητεύσουσιν οἱ υἱοὶ ὑμῶν καὶ αἱ θυγατέρες ὑμῶν,καὶ οἱ νεανίσκοι ὑμῶν ὁράσεις ὄψονται,καὶ οἱ πρεσβύτεροι ὑμῶν ἐνυπνίοις ἐνυπνιασθήσονται·",
     "bsb_english": "'In the last days, God says, I will pour out My Spirit on all people. Your sons and daughters will prophesy, your young men will see visions, your old men will dream dreams.",
     "translation": {
-      "thai": "‹ในยุคสุดท้ายพระเจ้าตรัสว่า เราจะเทพระวิญญาณของเราลงเหนือมนุษย์ทุกคน บุตรชายและบุตรสาวของพวกเจ้าจะเผยพระวจนะ คนหนุ่มของพวกเจ้าจะเห็นนิมิต คนชราของพวกเจ้าจะฝันเห็น",
+      "thai": "‘ในยุคสุดท้ายพระเจ้าตรัสว่า เราจะเทพระวิญญาณของเราลงเหนือมนุษย์ทุกคน บุตรชายและบุตรสาวของพวกเจ้าจะเผยพระวจนะ คนหนุ่มของพวกเจ้าจะเห็นนิมิต คนชราของพวกเจ้าจะฝันเห็น",
       "thai_literal": null,
-      "thai_summary": "คำพยากรณ์ของโยเอล 2:28-32 (LXX โยเอล 3:1-5) ประกาศว่าในยุคสุดท้าย พระวิญญาณของพระเจ้าจะประทานแก่ประชากรทุกคน — ไม่ใช่เฉพาะศาสดาพยากรณ์ ปุโรหิต หรือกษัตริย์ที่ได้รับการเจิมเท่านั้นเหมือนในยุคพันธสัญญาเดิม แต่ทั้งหญิงและชาย ทั้งคนหนุ่มและคนแก่ ทั้งทาสและไท การทำลายกำแพงระหว่างคนที่มีสิทธิเข้าถึงพระเจ้ากับคนที่ไม่มีเป็นแก่นของพันธสัญญาใหม่ เปโตรประกาศว่า «ยุคสุดท้าย» ได้เริ่มต้นแล้วในวันเพ็นเทคอสต์นี้",
+      "thai_summary": "คำพยากรณ์ของโยเอล 2:28-32 (LXX โยเอล 3:1-5) ประกาศว่าในยุคสุดท้าย พระวิญญาณของพระเจ้าจะประทานแก่ประชากรทุกคน — ไม่ใช่เฉพาะศาสดาพยากรณ์ ปุโรหิต หรือกษัตริย์ที่ได้รับการเจิมเท่านั้นเหมือนในยุคพันธสัญญาเดิม แต่ทั้งหญิงและชาย ทั้งคนหนุ่มและคนแก่ ทั้งทาสและไท การทำลายกำแพงระหว่างคนที่มีสิทธิเข้าถึงพระเจ้ากับคนที่ไม่มีเป็นแก่นของพันธสัญญาใหม่ เปโตรประกาศว่า “ยุคสุดท้าย” ได้เริ่มต้นแล้วในวันเพ็นเทคอสต์นี้",
       "key_decisions": [
-        { "greek": "ἐν ταῖς ἐσχάταις ἡμέραις", "thai": "ในยุคสุดท้าย", "rationale": "LXX Joel 3:1 reads μετὰ ταῦτα ('after these things'); Peter's rendition ἐν ταῖς ἐσχάταις ἡμέραις ('in the last days') is an interpretive expansion aligning Joel with Isa 2:2 / Mic 4:1 eschatological frame. Per uW TN: deliberately retained without interpretive gloss — the phrase can mean 'end-times future' or 'present age' depending on reader's eschatology. Thai 'ยุคสุดท้าย' preserves the ambiguity. Rejected: 'วันสุดท้าย' (too temporal-punctual); 'ยุคนี้' (loses eschatological register)." },
-        { "greek": "ἐκχεῶ ἀπὸ τοῦ πνεύματός μου", "thai": "เราจะเทพระวิญญาณของเราลง", "rationale": "Per uW TN figs-metaphor: God 'pouring out' the Spirit as if a liquid — generous abundance. The ἀπό + gen. is partitive ('from / of my Spirit') — Joel/LXX idiom; we render as 'เท ... ลง' ('pour down') without forcing a partitive 'บางส่วนของ' which would be linguistically awkward. Thai 'เท ... ลง' is the established rendering in Thai Christian hymnody and liturgy for Joel's prophecy." },
-        { "greek": "ἐπὶ πᾶσαν σάρκα", "thai": "เหนือมนุษย์ทุกคน", "rationale": "Per uW TN figs-metonymy: σάρξ here = 'human beings / humankind' (Hebrew bsr → 'flesh' = 'all living humans'). Thai 'มนุษย์ทุกคน' makes the metonymy plain — literal 'เนื้อหนังทุกชนิด' would mislead into animal-flesh register." },
-        { "greek": "προφητεύσουσιν", "thai": "เผยพระวจนะ", "rationale": "Standard Thai rendering for προφητεύω. 'เผยพระวจนะ' (reveal/proclaim divine word) matches Thai Christian liturgical diction and established corpus-translations across LUK + MAT." },
-        { "greek": "ὁράσεις ὄψονται ... ἐνυπνίοις (hapax) ἐνυπνιασθήσονται (cognate pair)", "thai": "เห็นนิมิต ... ฝันเห็น", "rationale": "Two Hebrew-style figura etymologica constructions: ὁράσεις + ὄψονται ('visions they will see') and ἐνυπνίοις + ἐνυπνιασθήσονται ('dreams they will dream'). ἐνύπνιον (NT hapax as noun, though verb ἐνυπνιάζομαι recurs). Thai renders the second cognate-pair naturally as 'ฝันเห็น' (dream-see); first as 'เห็นนิมิต'. The young-men/old-men contrast is parallel with sons/daughters (gender) — the Spirit is for every category." }
+        {
+          "greek": "ἐν ταῖς ἐσχάταις ἡμέραις",
+          "thai": "ในยุคสุดท้าย",
+          "rationale": "LXX Joel 3:1 reads μετὰ ταῦτα ('after these things'); Peter's rendition ἐν ταῖς ἐσχάταις ἡμέραις ('in the last days') is an interpretive expansion aligning Joel with Isa 2:2 / Mic 4:1 eschatological frame. Per uW TN: deliberately retained without interpretive gloss — the phrase can mean 'end-times future' or 'present age' depending on reader's eschatology. Thai 'ยุคสุดท้าย' preserves the ambiguity. Rejected: 'วันสุดท้าย' (too temporal-punctual); 'ยุคนี้' (loses eschatological register)."
+        },
+        {
+          "greek": "ἐκχεῶ ἀπὸ τοῦ πνεύματός μου",
+          "thai": "เราจะเทพระวิญญาณของเราลง",
+          "rationale": "Per uW TN figs-metaphor: God 'pouring out' the Spirit as if a liquid — generous abundance. The ἀπό + gen. is partitive ('from / of my Spirit') — Joel/LXX idiom; we render as 'เท ... ลง' ('pour down') without forcing a partitive 'บางส่วนของ' which would be linguistically awkward. Thai 'เท ... ลง' is the established rendering in Thai Christian hymnody and liturgy for Joel's prophecy."
+        },
+        {
+          "greek": "ἐπὶ πᾶσαν σάρκα",
+          "thai": "เหนือมนุษย์ทุกคน",
+          "rationale": "Per uW TN figs-metonymy: σάρξ here = 'human beings / humankind' (Hebrew bsr → 'flesh' = 'all living humans'). Thai 'มนุษย์ทุกคน' makes the metonymy plain — literal 'เนื้อหนังทุกชนิด' would mislead into animal-flesh register."
+        },
+        {
+          "greek": "προφητεύσουσιν",
+          "thai": "เผยพระวจนะ",
+          "rationale": "Standard Thai rendering for προφητεύω. 'เผยพระวจนะ' (reveal/proclaim divine word) matches Thai Christian liturgical diction and established corpus-translations across LUK + MAT."
+        },
+        {
+          "greek": "ὁράσεις ὄψονται ... ἐνυπνίοις (hapax) ἐνυπνιασθήσονται (cognate pair)",
+          "thai": "เห็นนิมิต ... ฝันเห็น",
+          "rationale": "Two Hebrew-style figura etymologica constructions: ὁράσεις + ὄψονται ('visions they will see') and ἐνυπνίοις + ἐνυπνιασθήσονται ('dreams they will dream'). ἐνύπνιον (NT hapax as noun, though verb ἐνυπνιάζομαι recurs). Thai renders the second cognate-pair naturally as 'ฝันเห็น' (dream-see); first as 'เห็นนิมิต'. The young-men/old-men contrast is parallel with sons/daughters (gender) — the Spirit is for every category."
+        }
       ],
       "notes": "HAPAX: ἐνύπνιον (NT). OT CITATION: Joel 2:28-29 MT / Joel 3:1-2 LXX. Peter's quotation matches LXX Joel closely but adds ἐν ταῖς ἐσχάταις ἡμέραις (LXX: μετὰ ταῦτα) and the editorial λέγει ὁ θεός. The young-men/old-men and sons/daughters parallelism breaks the age, gender, and social-class barriers of OT prophetic access — universalized Spirit. Peter's interpretation: Pentecost inaugurates the eschatological Spirit-outpouring. ADDED TO NT_OT_CITATIONS for Joel 2:28 / Joel 3:1 LXX (direct quotation)."
     }
@@ -311,13 +511,25 @@
     "greek": "καί γε ἐπὶ τοὺς δούλους μου καὶ ἐπὶ τὰς δούλας μου ἐν ταῖς ἡμέραις ἐκείναις ἐκχεῶ ἀπὸ τοῦ πνεύματός μου,καὶ προφητεύσουσιν.",
     "bsb_english": "Even on My menservants and maidservants I will pour out My Spirit in those days, and they will prophesy.",
     "translation": {
-      "thai": "แม้ทาสชายและทาสหญิงของเรา ในวันเหล่านั้นเราก็จะเทพระวิญญาณของเราลงเหนือเขา และเขาจะเผยพระวจนะ›",
+      "thai": "แม้ทาสชายและทาสหญิงของเรา ในวันเหล่านั้นเราก็จะเทพระวิญญาณของเราลงเหนือเขา และเขาจะเผยพระวจนะ’",
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "καί γε", "thai": "แม้", "rationale": "Emphatic particle combination 'even / indeed also'. Thai 'แม้' carries the emphatic-inclusive force — extending the Spirit's outpouring to the lowest social class." },
-        { "greek": "ἐπὶ τοὺς δούλους μου καὶ ἐπὶ τὰς δούλας μου", "thai": "ทาสชายและทาสหญิงของเรา", "rationale": "Per uW TN: explicit gender-pair parallel. In LXX Joel the corresponding Hebrew is simply על עבדים ('on servants'); the Greek makes gender-inclusion explicit (add also female servants). Thai preserves the pair — 'ทาสชาย' and 'ทาสหญิง'. The possessive μου ('my servants') — in Joel, these are God's servants (the pious). Peter's broader reading may include all who receive the Spirit." },
-        { "greek": "προφητεύσουσιν", "thai": "เผยพระวจนะ", "rationale": "Consistent with v.17 rendering." }
+        {
+          "greek": "καί γε",
+          "thai": "แม้",
+          "rationale": "Emphatic particle combination 'even / indeed also'. Thai 'แม้' carries the emphatic-inclusive force — extending the Spirit's outpouring to the lowest social class."
+        },
+        {
+          "greek": "ἐπὶ τοὺς δούλους μου καὶ ἐπὶ τὰς δούλας μου",
+          "thai": "ทาสชายและทาสหญิงของเรา",
+          "rationale": "Per uW TN: explicit gender-pair parallel. In LXX Joel the corresponding Hebrew is simply על עבדים ('on servants'); the Greek makes gender-inclusion explicit (add also female servants). Thai preserves the pair — 'ทาสชาย' and 'ทาสหญิง'. The possessive μου ('my servants') — in Joel, these are God's servants (the pious). Peter's broader reading may include all who receive the Spirit."
+        },
+        {
+          "greek": "προφητεύσουσιν",
+          "thai": "เผยพระวจนะ",
+          "rationale": "Consistent with v.17 rendering."
+        }
       ],
       "notes": "OT CITATION continues Joel 2:29 MT / Joel 3:2 LXX. Peter's citation adds προφητεύσουσιν (not in LXX Joel 3:2) — a deliberate editorial addition to underscore the prophetic-speech dimension of Pentecost (the disciples are right now 'prophesying' in the crowd's view). Note also Peter's ἐν ταῖς ἡμέραις ἐκείναις ('in those days') matches LXX; the 'pour out from my Spirit' is repeated for emphasis. The servant-class inclusion is theologically weighty — Paul will build on this at Gal 3:28 (δοῦλος-ἐλεύθερος). ADDED TO NT_OT_CITATIONS for Joel 2:29 / Joel 3:2 LXX."
     }
@@ -329,13 +541,25 @@
     "greek": "καὶ δώσω τέρατα ἐν τῷ οὐρανῷ ἄνω καὶ σημεῖα ἐπὶ τῆς γῆς κάτω,αἷμα καὶ πῦρ καὶ ἀτμίδα καπνοῦ·",
     "bsb_english": "I will show wonders in the heavens above and signs on the earth below, blood and fire and billows of smoke.",
     "translation": {
-      "thai": "‹เราจะสำแดงการอัศจรรย์ในท้องฟ้าเบื้องบน และหมายสำคัญบนแผ่นดินเบื้องล่าง เลือด ไฟ และกลุ่มควัน",
+      "thai": "‘เราจะสำแดงการอัศจรรย์ในท้องฟ้าเบื้องบน และหมายสำคัญบนแผ่นดินเบื้องล่าง เลือด ไฟ และกลุ่มควัน",
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "τέρατα ... σημεῖα", "thai": "การอัศจรรย์ ... หมายสำคัญ", "rationale": "Per uW TN: standard Lucan 'wonders and signs' word-pair. τέρας = supernatural marvel; σημεῖον = sign pointing-to-something. Peter will redeploy these same two words at v.22 for Jesus' ministry and v.43 for apostolic ministry — deliberate lexical threading. Thai 'การอัศจรรย์' (miraculous-event) and 'หมายสำคัญ' (significant-sign) maintain the distinction." },
-        { "greek": "ἐν τῷ οὐρανῷ ἄνω ... ἐπὶ τῆς γῆς κάτω", "thai": "ในท้องฟ้าเบื้องบน ... บนแผ่นดินเบื้องล่าง", "rationale": "Per uW TN: here οὐρανῷ = 'sky' (given v.20 sun/moon specification — physical-cosmic signs). Thai 'ท้องฟ้า' (sky) + 'แผ่นดิน' (earth/land) preserves the cosmic up/down parallelism." },
-        { "greek": "αἷμα καὶ πῦρ καὶ ἀτμίδα καπνοῦ", "thai": "เลือด ไฟ และกลุ่มควัน", "rationale": "Apocalyptic triad. Per uW TN figs-possession: ἀτμίς καπνοῦ = 'vapor that is smoky / full of smoke'. Thai 'กลุ่มควัน' (columns/pillars of smoke) captures the plural-mass sense naturally. The imagery evokes war/judgment scenes (Exodus plagues, theophany, or eschatological battle)." }
+        {
+          "greek": "τέρατα ... σημεῖα",
+          "thai": "การอัศจรรย์ ... หมายสำคัญ",
+          "rationale": "Per uW TN: standard Lucan 'wonders and signs' word-pair. τέρας = supernatural marvel; σημεῖον = sign pointing-to-something. Peter will redeploy these same two words at v.22 for Jesus' ministry and v.43 for apostolic ministry — deliberate lexical threading. Thai 'การอัศจรรย์' (miraculous-event) and 'หมายสำคัญ' (significant-sign) maintain the distinction."
+        },
+        {
+          "greek": "ἐν τῷ οὐρανῷ ἄνω ... ἐπὶ τῆς γῆς κάτω",
+          "thai": "ในท้องฟ้าเบื้องบน ... บนแผ่นดินเบื้องล่าง",
+          "rationale": "Per uW TN: here οὐρανῷ = 'sky' (given v.20 sun/moon specification — physical-cosmic signs). Thai 'ท้องฟ้า' (sky) + 'แผ่นดิน' (earth/land) preserves the cosmic up/down parallelism."
+        },
+        {
+          "greek": "αἷμα καὶ πῦρ καὶ ἀτμίδα καπνοῦ",
+          "thai": "เลือด ไฟ และกลุ่มควัน",
+          "rationale": "Apocalyptic triad. Per uW TN figs-possession: ἀτμίς καπνοῦ = 'vapor that is smoky / full of smoke'. Thai 'กลุ่มควัน' (columns/pillars of smoke) captures the plural-mass sense naturally. The imagery evokes war/judgment scenes (Exodus plagues, theophany, or eschatological battle)."
+        }
       ],
       "notes": "OT CITATION Joel 2:30 MT / Joel 3:3 LXX. The verse adds apocalyptic signs from the Joel oracle — not yet visible at Pentecost, but part of Peter's quotation because Joel frames Pentecost's Spirit-outpouring as the first wave of 'the Day of the Lord' (v.20). Luke preserves the full Joel context because Peter's argument runs all the way through v.21 ('everyone who calls on the name of the Lord will be saved'). ADDED TO NT_OT_CITATIONS for Joel 2:30 / Joel 3:3 LXX."
     }
@@ -351,9 +575,21 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "μεταστραφήσεται ... εἰς", "thai": "กลายเป็น", "rationale": "Per uW TN figs-metaphor: 'turned to' is transformation-metaphor — not literal conversion but eschatological disruption. Thai 'กลายเป็น' preserves the transformation register naturally." },
-        { "greek": "ἡμέραν κυρίου τὴν μεγάλην καὶ ἐπιφανῆ (ἐπιφανής hapax)", "thai": "วันแห่งองค์พระผู้เป็นเจ้าอันยิ่งใหญ่และรุ่งโรจน์", "rationale": "'The great and epiphanes day of the Lord'. ἐπιφανής (NT hapax; LXX frequent: Joel 2:31 LXX, Mal 4:5 LXX) = 'manifest / resplendent / renowned'. Here translates MT הגדול והנורא ('great and dreadful') — LXX softens to 'manifest/illustrious', a text-critical detail preserved because Peter is citing LXX. Thai 'รุ่งโรจน์' captures the manifest-glorious register. Κύριος here = YHWH (OT quotation context) → 'องค์พระผู้เป็นเจ้า' per RULES §4 key-term + 'kyrios_narrator_voice' decision (OT-quotation rule)." },
-        { "greek": "ἡμέραν κυρίου (Day of the Lord)", "thai": "วันแห่งองค์พระผู้เป็นเจ้า", "rationale": "Technical prophetic term 'Day of the Lord' (יום יהוה) — eschatological-judgment day. Per uW TN figs-idiom: the time when God judges and punishes. Thai 'วันแห่งองค์พระผู้เป็นเจ้า' is the established Thai biblical rendering, preserving the technical-prophetic register." }
+        {
+          "greek": "μεταστραφήσεται ... εἰς",
+          "thai": "กลายเป็น",
+          "rationale": "Per uW TN figs-metaphor: 'turned to' is transformation-metaphor — not literal conversion but eschatological disruption. Thai 'กลายเป็น' preserves the transformation register naturally."
+        },
+        {
+          "greek": "ἡμέραν κυρίου τὴν μεγάλην καὶ ἐπιφανῆ (ἐπιφανής hapax)",
+          "thai": "วันแห่งองค์พระผู้เป็นเจ้าอันยิ่งใหญ่และรุ่งโรจน์",
+          "rationale": "'The great and epiphanes day of the Lord'. ἐπιφανής (NT hapax; LXX frequent: Joel 2:31 LXX, Mal 4:5 LXX) = 'manifest / resplendent / renowned'. Here translates MT הגדול והנורא ('great and dreadful') — LXX softens to 'manifest/illustrious', a text-critical detail preserved because Peter is citing LXX. Thai 'รุ่งโรจน์' captures the manifest-glorious register. Κύριος here = YHWH (OT quotation context) → 'องค์พระผู้เป็นเจ้า' per RULES §4 key-term + 'kyrios_narrator_voice' decision (OT-quotation rule)."
+        },
+        {
+          "greek": "ἡμέραν κυρίου (Day of the Lord)",
+          "thai": "วันแห่งองค์พระผู้เป็นเจ้า",
+          "rationale": "Technical prophetic term 'Day of the Lord' (יום יהוה) — eschatological-judgment day. Per uW TN figs-idiom: the time when God judges and punishes. Thai 'วันแห่งองค์พระผู้เป็นเจ้า' is the established Thai biblical rendering, preserving the technical-prophetic register."
+        }
       ],
       "notes": "HAPAX: ἐπιφανής. OT CITATION Joel 2:31 MT / Joel 3:4 LXX. Textual point: LXX ἐπιφανῆ (manifest) differs from MT הנורא (dreadful) — Peter follows LXX. Apocalyptic signs of 'Day of the Lord' — sun/moon darkening echoes broader prophetic-apocalyptic tradition (Isa 13:10; Joel 2:10, 3:15; Ezek 32:7-8; Amos 8:9). Peter's framing: the Spirit-outpouring is the first wave, the cosmic signs will come at the consummation — so 'last days' stretches from Pentecost to Parousia. Κύριος in OT-citation context = YHWH → องค์พระผู้เป็นเจ้า per kyrios_narrator_voice decision. ADDED TO NT_OT_CITATIONS for Joel 2:31 / Joel 3:4 LXX."
     }
@@ -365,12 +601,20 @@
     "greek": "καὶ ἔσται πᾶς ὃς ἐὰν ἐπικαλέσηται τὸ ὄνομα κυρίου σωθήσεται.",
     "bsb_english": "And everyone who calls on the name of the Lord will be saved.'",
     "translation": {
-      "thai": "และทุกคนที่ร้องออกพระนามขององค์พระผู้เป็นเจ้าจะได้รับความรอด›",
+      "thai": "และทุกคนที่ร้องออกพระนามขององค์พระผู้เป็นเจ้าจะได้รับความรอด’",
       "thai_literal": null,
-      "thai_summary": "ข้อนี้เป็นหัวใจของเทศนาวันเพ็นเทคอสต์ของเปโตร «องค์พระผู้เป็นเจ้า» ในโยเอลหมายถึงยาห์เวห์ แต่ในการประกาศของเปโตร พระนามนี้ถูกนำมาใช้กับพระเยซู (กิจการ 2:36 «พระเจ้าทรงแต่งตั้งพระเยซูองค์นี้ ... เป็นทั้งองค์พระผู้เป็นเจ้าและพระคริสต์») — นี่คือการยืนยันสภาพพระเจ้าของพระคริสต์อย่างเปิดเผย ทุกคนที่ร้องออกพระนามของพระเยซูจะได้รับความรอด ไม่จำกัดเฉพาะชนชาติยิวเท่านั้น เปาโลจะอ้างข้อนี้ในโรม 10:13 ในการประกาศความรอดถึงคนต่างชาติ",
+      "thai_summary": "ข้อนี้เป็นหัวใจของเทศนาวันเพ็นเทคอสต์ของเปโตร “องค์พระผู้เป็นเจ้า” ในโยเอลหมายถึงยาห์เวห์ แต่ในการประกาศของเปโตร พระนามนี้ถูกนำมาใช้กับพระเยซู (กิจการ 2:36 “พระเจ้าทรงแต่งตั้งพระเยซูองค์นี้ ... เป็นทั้งองค์พระผู้เป็นเจ้าและพระคริสต์”) — นี่คือการยืนยันสภาพพระเจ้าของพระคริสต์อย่างเปิดเผย ทุกคนที่ร้องออกพระนามของพระเยซูจะได้รับความรอด ไม่จำกัดเฉพาะชนชาติยิวเท่านั้น เปาโลจะอ้างข้อนี้ในโรม 10:13 ในการประกาศความรอดถึงคนต่างชาติ",
       "key_decisions": [
-        { "greek": "ἐπικαλέσηται τὸ ὄνομα κυρίου", "thai": "ร้องออกพระนามขององค์พระผู้เป็นเจ้า", "rationale": "Per uW TN figs-idiom + figs-metonymy: 'call upon the name' = 'appeal to / invoke'. Thai 'ร้องออกพระนาม' (call forth the name) preserves the invocation-register natural in Thai Christian prayer-language. Κύριος in OT-quotation = YHWH → องค์พระผู้เป็นเจ้า. This becomes theologically seismic when Peter applies κύριος to Jesus at v.36." },
-        { "greek": "σωθήσεται", "thai": "จะได้รับความรอด", "rationale": "σῴζω future passive = 'will be saved'. Thai 'จะได้รับความรอด' standardly renders the passive-reception of salvation — agent (God) implicit. Standard Thai Christian rendering preserved across corpus." }
+        {
+          "greek": "ἐπικαλέσηται τὸ ὄνομα κυρίου",
+          "thai": "ร้องออกพระนามขององค์พระผู้เป็นเจ้า",
+          "rationale": "Per uW TN figs-idiom + figs-metonymy: 'call upon the name' = 'appeal to / invoke'. Thai 'ร้องออกพระนาม' (call forth the name) preserves the invocation-register natural in Thai Christian prayer-language. Κύριος in OT-quotation = YHWH → องค์พระผู้เป็นเจ้า. This becomes theologically seismic when Peter applies κύριος to Jesus at v.36."
+        },
+        {
+          "greek": "σωθήσεται",
+          "thai": "จะได้รับความรอด",
+          "rationale": "σῴζω future passive = 'will be saved'. Thai 'จะได้รับความรอด' standardly renders the passive-reception of salvation — agent (God) implicit. Standard Thai Christian rendering preserved across corpus."
+        }
       ],
       "notes": "OT CITATION climax — Joel 2:32a MT / Joel 3:5a LXX. End of the Joel quotation. This verse is the hermeneutical key to Peter's sermon: 'everyone who calls on the name of YHWH will be saved' — and Peter is about to argue (vv. 22-36) that Jesus IS that κύριος. Paul will cite the identical verse at Rom 10:13 (πᾶς γὰρ ὃς ἂν ἐπικαλέσηται τὸ ὄνομα κυρίου σωθήσεται) as the universal-Gentile salvation promise. The 'everyone' (πᾶς) anticipates v.39 ('the promise is for you and your children and all who are far off'). ADDED TO NT_OT_CITATIONS for Joel 2:32 / Joel 3:5 LXX."
     }
@@ -386,10 +630,26 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "Ἄνδρες Ἰσραηλῖται (vocative idiom)", "thai": "พี่น้องชาวอิสราเอลเอ๋ย", "rationale": "Second vocative address (after v.14). Per uW TN figs-idiom + figs-gendernotations: formal-fraternal address. 'พี่น้อง' captures the fellow-Israelite fraternal register; 'เอ๋ย' for vocative-attention." },
-        { "greek": "Ἰησοῦν τὸν Ναζωραῖον", "thai": "พระเยซูชาวนาซาเร็ธ", "rationale": "Ναζωραῖος (not Ναζαρηνός) — the 'from Nazareth' gentilic form preferred in Matthew/John/Acts (vs. Mark's Ναζαρηνός). Same person; the lexical variant is preserved in notes but Thai rendering 'ชาวนาซาเร็ธ' consistent with Matthean corpus. πρῶ prefix rendered as title." },
-        { "greek": "ἀποδεδειγμένον (pf. pass. ptc.) ἀπὸ τοῦ θεοῦ", "thai": "พระเจ้าทรงรับรอง", "rationale": "ἀποδείκνυμι = 'demonstrate / prove / certify'. Pf. pass. 'having been demonstrated by God'. Per uW TN figs-activepassive: active rendering ('whom God proved') makes the divine agency explicit. Thai 'พระเจ้าทรงรับรอง' (royal register + certify) renders naturally. The term is quasi-legal — God has publicly attested Jesus through the miracles." },
-        { "greek": "δυνάμεσι καὶ τέρασι καὶ σημείοις (triple)", "thai": "การอัศจรรย์อันทรงฤทธิ์ หมายสำคัญต่างๆ", "rationale": "Per uW TN figs-doublet/triplet: synonymous cluster for emphasis. δύναμις ('mighty-work / act of power') + τέρας ('wonder') + σημεῖον ('sign'). Luke uses the triplet for Jesus' ministry here, and will reuse at v.43 for apostolic ministry — deliberate mirroring. Rather than three separate Thai nouns (which would sound listy and flat), we use 'การอัศจรรย์อันทรงฤทธิ์' (combining δύναμις + τέρας senses) + 'หมายสำคัญต่างๆ' (σημεῖον). The 'ต่างๆ' marks plurality." }
+        {
+          "greek": "Ἄνδρες Ἰσραηλῖται (vocative idiom)",
+          "thai": "พี่น้องชาวอิสราเอลเอ๋ย",
+          "rationale": "Second vocative address (after v.14). Per uW TN figs-idiom + figs-gendernotations: formal-fraternal address. 'พี่น้อง' captures the fellow-Israelite fraternal register; 'เอ๋ย' for vocative-attention."
+        },
+        {
+          "greek": "Ἰησοῦν τὸν Ναζωραῖον",
+          "thai": "พระเยซูชาวนาซาเร็ธ",
+          "rationale": "Ναζωραῖος (not Ναζαρηνός) — the 'from Nazareth' gentilic form preferred in Matthew/John/Acts (vs. Mark's Ναζαρηνός). Same person; the lexical variant is preserved in notes but Thai rendering 'ชาวนาซาเร็ธ' consistent with Matthean corpus. πρῶ prefix rendered as title."
+        },
+        {
+          "greek": "ἀποδεδειγμένον (pf. pass. ptc.) ἀπὸ τοῦ θεοῦ",
+          "thai": "พระเจ้าทรงรับรอง",
+          "rationale": "ἀποδείκνυμι = 'demonstrate / prove / certify'. Pf. pass. 'having been demonstrated by God'. Per uW TN figs-activepassive: active rendering ('whom God proved') makes the divine agency explicit. Thai 'พระเจ้าทรงรับรอง' (royal register + certify) renders naturally. The term is quasi-legal — God has publicly attested Jesus through the miracles."
+        },
+        {
+          "greek": "δυνάμεσι καὶ τέρασι καὶ σημείοις (triple)",
+          "thai": "การอัศจรรย์อันทรงฤทธิ์ หมายสำคัญต่างๆ",
+          "rationale": "Per uW TN figs-doublet/triplet: synonymous cluster for emphasis. δύναμις ('mighty-work / act of power') + τέρας ('wonder') + σημεῖον ('sign'). Luke uses the triplet for Jesus' ministry here, and will reuse at v.43 for apostolic ministry — deliberate mirroring. Rather than three separate Thai nouns (which would sound listy and flat), we use 'การอัศจรรย์อันทรงฤทธิ์' (combining δύναμις + τέρας senses) + 'หมายสำคัญต่างๆ' (σημεῖον). The 'ต่างๆ' marks plurality."
+        }
       ],
       "notes": "Peter shifts from the Joel prophecy (vv. 17-21) to the Christological kerygma (vv. 22-36). The 'as you yourselves know' (καθὼς αὐτοὶ οἴδατε) is a rhetorical appeal to common knowledge — Jesus' miracles were public and undisputed. Peter's argument-strategy: start with what the crowd cannot deny (the miracles), then establish the God-sent-Jesus interpretation. No textual variant."
     }
@@ -403,12 +663,28 @@
     "translation": {
       "thai": "พระองค์ผู้นี้ถูกมอบไว้ตามแผนการอันกำหนดไว้แน่นอนและการทรงล่วงรู้ของพระเจ้า พวกท่านได้ตรึงและประหารพระองค์โดยมือคนอธรรม",
       "thai_literal": null,
-      "thai_summary": "ข้อที่สะเทือนใจที่สุดในเทศนา — เปโตรกล่าวอย่างตรงไปตรงมาว่าชาวยิวที่ฟังอยู่มีส่วนรับผิดชอบต่อการสิ้นพระชนม์ของพระเยซู ถึงแม้ชาวโรมันจะเป็นผู้ลงมือสุดท้าย แต่ในตอนเดียวกัน เปโตรก็ยืนยันว่าเหตุการณ์นี้เป็นไปตาม «แผนการอันกำหนดไว้แน่นอนและการทรงล่วงรู้ของพระเจ้า» — การสิ้นพระชนม์ของพระคริสต์ไม่ใช่อุบัติเหตุหรือความพ่ายแพ้ แต่เป็นการสำเร็จตามแผนไถ่ถอนของพระเจ้าที่ได้เตรียมไว้ตั้งแต่ก่อนสร้างโลก (1 เปโตร 1:20)",
+      "thai_summary": "ข้อที่สะเทือนใจที่สุดในเทศนา — เปโตรกล่าวอย่างตรงไปตรงมาว่าชาวยิวที่ฟังอยู่มีส่วนรับผิดชอบต่อการสิ้นพระชนม์ของพระเยซู ถึงแม้ชาวโรมันจะเป็นผู้ลงมือสุดท้าย แต่ในตอนเดียวกัน เปโตรก็ยืนยันว่าเหตุการณ์นี้เป็นไปตาม “แผนการอันกำหนดไว้แน่นอนและการทรงล่วงรู้ของพระเจ้า” — การสิ้นพระชนม์ของพระคริสต์ไม่ใช่อุบัติเหตุหรือความพ่ายแพ้ แต่เป็นการสำเร็จตามแผนไถ่ถอนของพระเจ้าที่ได้เตรียมไว้ตั้งแต่ก่อนสร้างโลก (1 เปโตร 1:20)",
       "key_decisions": [
-        { "greek": "τῇ ὡρισμένῃ βουλῇ καὶ προγνώσει τοῦ θεοῦ", "thai": "ตามแผนการอันกำหนดไว้แน่นอนและการทรงล่วงรู้ของพระเจ้า", "rationale": "Per uW TN figs-abstractnouns: 'determined counsel and foreknowledge' — double-abstract for divine providence. ὁρίζω = 'mark out / determine'; βουλή = 'counsel / plan'; πρόγνωσις = 'foreknowledge'. Thai preserves the double-phrase structure: 'แผนการอันกำหนดไว้แน่นอน' (determined plan) + 'การทรงล่วงรู้' (foreknowledge). Royal register 'ทรง' for divine subject." },
-        { "greek": "ἔκδοτον (hapax)", "thai": "ถูกมอบไว้", "rationale": "ἔκδοτος (NT hapax, adjective) = 'given up / handed over'. Per uW TN figs-activepassive: adjective but verbally-functioning. Thai passive 'ถูกมอบไว้' captures the divine-passive sense (God gave Him up) while also allowing the human-action (betrayal) secondary reading. Deliberate Lukan ambiguity." },
-        { "greek": "διὰ χειρὸς ἀνόμων", "thai": "โดยมือคนอธรรม", "rationale": "Per uW TN figs-metonymy + figs-nominaladj: 'by the hand of lawless (ones)' — χείρ metonymy for 'action/agency'; ἄνομος as nominalized adjective. Per uW TN, 'lawless' here = Gentiles (those-without-the-Torah = Romans). Thai 'คนอธรรม' (lawless people) preserves the generic-lawless sense; noted in verse-notes that the referent is specifically the Romans who carried out the crucifixion. 'โดยมือ' preserves the metonymy." },
-        { "greek": "προσπήξαντες (hapax) ἀνείλατε", "thai": "ตรึงและประหารพระองค์", "rationale": "TWO verbs, one hapax. προσπήγνυμι (NT hapax) = 'nail to / affix' — specifically the crucifixion-nailing. ἀναιρέω = 'kill / put to death'. Per uW TN figs-synecdoche: 'you killed Him' — the Jewish crowd did not directly crucify but is morally implicated. Thai 'ตรึงและประหาร' renders both verbs naturally (ตรึง = nail/crucify, standard Thai Christian term; ประหาร = put to death)." }
+        {
+          "greek": "τῇ ὡρισμένῃ βουλῇ καὶ προγνώσει τοῦ θεοῦ",
+          "thai": "ตามแผนการอันกำหนดไว้แน่นอนและการทรงล่วงรู้ของพระเจ้า",
+          "rationale": "Per uW TN figs-abstractnouns: 'determined counsel and foreknowledge' — double-abstract for divine providence. ὁρίζω = 'mark out / determine'; βουλή = 'counsel / plan'; πρόγνωσις = 'foreknowledge'. Thai preserves the double-phrase structure: 'แผนการอันกำหนดไว้แน่นอน' (determined plan) + 'การทรงล่วงรู้' (foreknowledge). Royal register 'ทรง' for divine subject."
+        },
+        {
+          "greek": "ἔκδοτον (hapax)",
+          "thai": "ถูกมอบไว้",
+          "rationale": "ἔκδοτος (NT hapax, adjective) = 'given up / handed over'. Per uW TN figs-activepassive: adjective but verbally-functioning. Thai passive 'ถูกมอบไว้' captures the divine-passive sense (God gave Him up) while also allowing the human-action (betrayal) secondary reading. Deliberate Lukan ambiguity."
+        },
+        {
+          "greek": "διὰ χειρὸς ἀνόμων",
+          "thai": "โดยมือคนอธรรม",
+          "rationale": "Per uW TN figs-metonymy + figs-nominaladj: 'by the hand of lawless (ones)' — χείρ metonymy for 'action/agency'; ἄνομος as nominalized adjective. Per uW TN, 'lawless' here = Gentiles (those-without-the-Torah = Romans). Thai 'คนอธรรม' (lawless people) preserves the generic-lawless sense; noted in verse-notes that the referent is specifically the Romans who carried out the crucifixion. 'โดยมือ' preserves the metonymy."
+        },
+        {
+          "greek": "προσπήξαντες (hapax) ἀνείλατε",
+          "thai": "ตรึงและประหารพระองค์",
+          "rationale": "TWO verbs, one hapax. προσπήγνυμι (NT hapax) = 'nail to / affix' — specifically the crucifixion-nailing. ἀναιρέω = 'kill / put to death'. Per uW TN figs-synecdoche: 'you killed Him' — the Jewish crowd did not directly crucify but is morally implicated. Thai 'ตรึงและประหาร' renders both verbs naturally (ตรึง = nail/crucify, standard Thai Christian term; ประหาร = put to death)."
+        }
       ],
       "notes": "TWO HAPAX: ἔκδοτος, προσπήγνυμι. Peter's use of ἀνείλατε ('you killed') has sometimes been read as a charge of Jewish deicide. Per uW TN figs-synecdoche and the broader Acts context, Peter is addressing the Jewish crowd that demanded Pilate crucify Jesus (Luke 23:13-25) — the moral-accusation is contextual, not ethnic-blanket. Peter will call for repentance (v.38), not retaliation. The twin emphasis — divine predestination (ὁρίζω + πρόγνωσις) AND human culpability (ἀνείλατε) — is a classic Lukan theological both-and (cf. Acts 4:27-28). No textual variant."
     }
@@ -424,9 +700,21 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ὁ θεὸς ἀνέστησεν", "thai": "พระเจ้าทรงให้พระองค์คืนพระชนม์", "rationale": "Per uW TN figs-idiom: 'raised up' means brought back to life. God as subject-agent. Thai 'ทรงให้ ... คืนพระชนม์' captures the active-raising from God's side, royal register for divine subject + royal register for Jesus as recipient ('พระชนม์')." },
-        { "greek": "λύσας τὰς ὠδῖνας τοῦ θανάτου", "thai": "ทรงปลดปล่อยพระองค์จากความเจ็บปวดแห่งความตาย", "rationale": "Per uW TN figs-metaphor: ὠδῖνες 'birth-pangs/agonies' — metaphor of death as binding-cords (LXX Ps 17:5-6 / 18:4-5 translates Hebrew חבלי־שאול 'cords of Sheol' as ὠδῖνες θανάτου — the LXX translator rendered Hebrew חבל 'cord' as if Hebrew חבל 'birth-pang'; Luke follows LXX). λύω = 'loose / untie'. Thai 'ทรงปลดปล่อย ... จากความเจ็บปวด' preserves the loosing-from-pain metaphor. The 'birth-pangs' sense has a suggestive resurrection-as-birth connotation (Luke may be exploiting the ambiguity)." },
-        { "greek": "οὐκ ἦν δυνατὸν κρατεῖσθαι αὐτὸν ὑπ’αὐτοῦ", "thai": "ความตายไม่อาจกักขังพระองค์ไว้ได้", "rationale": "Per uW TN figs-personification + figs-activepassive: death personified as captor. 'Impossible to be held by it'. Thai 'ความตายไม่อาจกักขังพระองค์' personifies death and renders the passive actively. The ontological-impossibility logic: Jesus IS life (per Peter's developing Christology), so death cannot hold Him." }
+        {
+          "greek": "ὁ θεὸς ἀνέστησεν",
+          "thai": "พระเจ้าทรงให้พระองค์คืนพระชนม์",
+          "rationale": "Per uW TN figs-idiom: 'raised up' means brought back to life. God as subject-agent. Thai 'ทรงให้ ... คืนพระชนม์' captures the active-raising from God's side, royal register for divine subject + royal register for Jesus as recipient ('พระชนม์')."
+        },
+        {
+          "greek": "λύσας τὰς ὠδῖνας τοῦ θανάτου",
+          "thai": "ทรงปลดปล่อยพระองค์จากความเจ็บปวดแห่งความตาย",
+          "rationale": "Per uW TN figs-metaphor: ὠδῖνες 'birth-pangs/agonies' — metaphor of death as binding-cords (LXX Ps 17:5-6 / 18:4-5 translates Hebrew חבלי־שאול 'cords of Sheol' as ὠδῖνες θανάτου — the LXX translator rendered Hebrew חבל 'cord' as if Hebrew חבל 'birth-pang'; Luke follows LXX). λύω = 'loose / untie'. Thai 'ทรงปลดปล่อย ... จากความเจ็บปวด' preserves the loosing-from-pain metaphor. The 'birth-pangs' sense has a suggestive resurrection-as-birth connotation (Luke may be exploiting the ambiguity)."
+        },
+        {
+          "greek": "οὐκ ἦν δυνατὸν κρατεῖσθαι αὐτὸν ὑπ’αὐτοῦ",
+          "thai": "ความตายไม่อาจกักขังพระองค์ไว้ได้",
+          "rationale": "Per uW TN figs-personification + figs-activepassive: death personified as captor. 'Impossible to be held by it'. Thai 'ความตายไม่อาจกักขังพระองค์' personifies death and renders the passive actively. The ontological-impossibility logic: Jesus IS life (per Peter's developing Christology), so death cannot hold Him."
+        }
       ],
       "notes": "ἀνέστησεν + προγνώσει from v.23 create Luke's resurrection-theology cluster. OT ALLUSION: ὠδῖνας τοῦ θανάτου directly echoes LXX Ps 17:5-6 (MT 18:4-5) — the LXX-Hebrew translation curiosity (חבלי = 'cords' misread as 'pangs') gives Luke a phrase the LXX already used of divine deliverance from death. Peter is about to cite Ps 16:8-11 (vv. 25-28) as the scriptural warrant for the resurrection. ADDED TO NT_OT_CITATIONS for Ps 18:4-5 / Ps 17:5-6 LXX allusion (thematic)."
     }
@@ -438,14 +726,30 @@
     "greek": "Δαυὶδ γὰρ λέγει εἰς αὐτόν·Προορώμην τὸν κύριον ἐνώπιόν μου διὰ παντός,ὅτι ἐκ δεξιῶν μού ἐστιν ἵνα μὴ σαλευθῶ.",
     "bsb_english": "David says about Him: 'I saw the Lord always before me; because He is at my right hand, I will not be shaken.",
     "translation": {
-      "thai": "เพราะดาวิดได้กล่าวเกี่ยวกับพระองค์ว่า ‹ข้าพเจ้าเห็นองค์พระผู้เป็นเจ้าอยู่ต่อหน้าข้าพเจ้าเสมอ พระองค์ทรงสถิต ณ เบื้องขวาของข้าพเจ้า เพื่อข้าพเจ้าจะไม่หวั่นไหว",
+      "thai": "เพราะดาวิดได้กล่าวเกี่ยวกับพระองค์ว่า ‘ข้าพเจ้าเห็นองค์พระผู้เป็นเจ้าอยู่ต่อหน้าข้าพเจ้าเสมอ พระองค์ทรงสถิต ณ เบื้องขวาของข้าพเจ้า เพื่อข้าพเจ้าจะไม่หวั่นไหว",
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "Δαυὶδ γὰρ λέγει εἰς αὐτόν", "thai": "เพราะดาวิดได้กล่าวเกี่ยวกับพระองค์ว่า", "rationale": "Per uW TN writing-pronouns: εἰς αὐτόν ('about Him') — Peter's hermeneutical claim: Psalm 16 is really about the Messiah, not David. γάρ signals the evidence-for-claim that follows. Thai preserves the causal connector and the prophetic-reference semantics." },
-        { "greek": "Προορώμην τὸν κύριον ἐνώπιόν μου", "thai": "ข้าพเจ้าเห็นองค์พระผู้เป็นเจ้าอยู่ต่อหน้าข้าพเจ้า", "rationale": "προοράω impf.mid. = 'I was foreseeing / keeping in view'. LXX Ps 15:8 reading. Κύριος here (in OT-quote context, LXX = YHWH) → องค์พระผู้เป็นเจ้า per kyrios_narrator_voice decision (OT-citation rule). The speaker is David/Messiah speaking to/about God the Father. Note: the Thai voice is human-to-divine register — David addressing God — so humble pronoun 'ข้าพเจ้า' (humble first-person) is appropriate." },
-        { "greek": "ἐκ δεξιῶν μού ἐστιν", "thai": "พระองค์ทรงสถิต ณ เบื้องขวาของข้าพเจ้า", "rationale": "Per uW TN figs-metaphor: 'at my right hand' = position of helper/sustainer (not the royal-enthronement sense — that's reversed in Ps 110). Here God is at David's right, supporting him. Thai 'ทรงสถิต ณ เบื้องขวา' (royal register presence + right-side) matches the divine-support semantics." },
-        { "greek": "ἵνα μὴ σαλευθῶ", "thai": "เพื่อข้าพเจ้าจะไม่หวั่นไหว", "rationale": "Per uW TN figs-metaphor: σαλεύω (shake/move) metaphor for 'be harmed / displaced'. Thai 'หวั่นไหว' carries the shaken-stability register natural in Thai." }
+        {
+          "greek": "Δαυὶδ γὰρ λέγει εἰς αὐτόν",
+          "thai": "เพราะดาวิดได้กล่าวเกี่ยวกับพระองค์ว่า",
+          "rationale": "Per uW TN writing-pronouns: εἰς αὐτόν ('about Him') — Peter's hermeneutical claim: Psalm 16 is really about the Messiah, not David. γάρ signals the evidence-for-claim that follows. Thai preserves the causal connector and the prophetic-reference semantics."
+        },
+        {
+          "greek": "Προορώμην τὸν κύριον ἐνώπιόν μου",
+          "thai": "ข้าพเจ้าเห็นองค์พระผู้เป็นเจ้าอยู่ต่อหน้าข้าพเจ้า",
+          "rationale": "προοράω impf.mid. = 'I was foreseeing / keeping in view'. LXX Ps 15:8 reading. Κύριος here (in OT-quote context, LXX = YHWH) → องค์พระผู้เป็นเจ้า per kyrios_narrator_voice decision (OT-citation rule). The speaker is David/Messiah speaking to/about God the Father. Note: the Thai voice is human-to-divine register — David addressing God — so humble pronoun 'ข้าพเจ้า' (humble first-person) is appropriate."
+        },
+        {
+          "greek": "ἐκ δεξιῶν μού ἐστιν",
+          "thai": "พระองค์ทรงสถิต ณ เบื้องขวาของข้าพเจ้า",
+          "rationale": "Per uW TN figs-metaphor: 'at my right hand' = position of helper/sustainer (not the royal-enthronement sense — that's reversed in Ps 110). Here God is at David's right, supporting him. Thai 'ทรงสถิต ณ เบื้องขวา' (royal register presence + right-side) matches the divine-support semantics."
+        },
+        {
+          "greek": "ἵνα μὴ σαλευθῶ",
+          "thai": "เพื่อข้าพเจ้าจะไม่หวั่นไหว",
+          "rationale": "Per uW TN figs-metaphor: σαλεύω (shake/move) metaphor for 'be harmed / displaced'. Thai 'หวั่นไหว' carries the shaken-stability register natural in Thai."
+        }
       ],
       "notes": "OT CITATION begins: Psalm 16:8-11 MT / Psalm 15:8-11 LXX. Peter quotes the LXX. Peter's claim: David, as prophet (v.30), spoke these words about the Messiah (v.25 εἰς αὐτόν). The 'I will not be shaken' in Ps 16:8 grounds the 'death could not hold Him' claim of v.24. ADDED TO NT_OT_CITATIONS for Ps 16:8 / Ps 15:8 LXX (direct citation)."
     }
@@ -461,9 +765,21 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ηὐφράνθη ἡ καρδία μου", "thai": "จิตใจของข้าพเจ้าจึงชื่นชมยินดี", "rationale": "Per uW TN figs-metaphor: καρδία 'heart' as seat of emotion. Thai 'จิตใจ' captures the inner-emotion metaphor idiomatically. εὐφραίνομαι aor. = 'was glad / rejoiced'." },
-        { "greek": "ἠγαλλιάσατο ἡ γλῶσσά μου", "thai": "ลิ้นของข้าพเจ้าเปรมปรีดิ์", "rationale": "Per uW TN figs-metonymy: γλῶσσα 'tongue' metonymy for speech/capacity-to-speak. Thai 'ลิ้น ... เปรมปรีดิ์' preserves the metonymy; meaning: 'I spoke joyful things / exulted in speech'. ἀγαλλιάομαι = intense exultation." },
-        { "greek": "ἔτι δὲ καὶ ἡ σάρξ μου κατασκηνώσει ἐπ’ἐλπίδι", "thai": "ยิ่งกว่านั้น เนื้อหนังของข้าพเจ้าก็จะพำนักในความหวัง", "rationale": "κατασκηνόω = 'dwell / pitch tent'. σάρξ here = 'body/flesh' (per uW TN figs-metonymy). ἐπ’ἐλπίδι = 'in hope'. Thai 'เนื้อหนัง' preserves the body-metonymy; 'พำนัก' captures the dwelling-camping register. The 'in hope' eschatological sense is preserved as 'ในความหวัง' (standard Thai Christian). In context: David's body will rest in the tomb-hope of resurrection." }
+        {
+          "greek": "ηὐφράνθη ἡ καρδία μου",
+          "thai": "จิตใจของข้าพเจ้าจึงชื่นชมยินดี",
+          "rationale": "Per uW TN figs-metaphor: καρδία 'heart' as seat of emotion. Thai 'จิตใจ' captures the inner-emotion metaphor idiomatically. εὐφραίνομαι aor. = 'was glad / rejoiced'."
+        },
+        {
+          "greek": "ἠγαλλιάσατο ἡ γλῶσσά μου",
+          "thai": "ลิ้นของข้าพเจ้าเปรมปรีดิ์",
+          "rationale": "Per uW TN figs-metonymy: γλῶσσα 'tongue' metonymy for speech/capacity-to-speak. Thai 'ลิ้น ... เปรมปรีดิ์' preserves the metonymy; meaning: 'I spoke joyful things / exulted in speech'. ἀγαλλιάομαι = intense exultation."
+        },
+        {
+          "greek": "ἔτι δὲ καὶ ἡ σάρξ μου κατασκηνώσει ἐπ’ἐλπίδι",
+          "thai": "ยิ่งกว่านั้น เนื้อหนังของข้าพเจ้าก็จะพำนักในความหวัง",
+          "rationale": "κατασκηνόω = 'dwell / pitch tent'. σάρξ here = 'body/flesh' (per uW TN figs-metonymy). ἐπ’ἐλπίδι = 'in hope'. Thai 'เนื้อหนัง' preserves the body-metonymy; 'พำนัก' captures the dwelling-camping register. The 'in hope' eschatological sense is preserved as 'ในความหวัง' (standard Thai Christian). In context: David's body will rest in the tomb-hope of resurrection."
+        }
       ],
       "notes": "OT CITATION continues Ps 16:9 MT / Ps 15:9 LXX. The three-fold parallelism (heart / tongue / flesh) is Hebrew-poetic. Peter will exegete this in vv. 29-32: David's 'flesh dwelling in hope' could not refer to David himself (who died and decayed, v.29), so must refer to the Messiah's body resting in confident resurrection-hope. ADDED TO NT_OT_CITATIONS for Ps 16:9 / Ps 15:9 LXX (direct citation, part of v.25-28 block)."
     }
@@ -479,9 +795,21 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "οὐκ ἐγκαταλείψεις τὴν ψυχήν μου εἰς ᾅδην", "thai": "พระองค์จะไม่ทรงละทิ้งวิญญาณของข้าพระองค์ไว้ในแดนมรณา", "rationale": "Per uW TN figs-synecdoche: ψυχή 'soul/life' for whole person. ᾅδης = Hades, the abode of the dead — Thai 'แดนมรณา' (realm of death) is the established Christian Thai rendering (matches Luke 16:23, Matt 11:23, Matt 16:18). Royal register 'ทรง' + humble pronoun 'ข้าพระองค์' for human-to-divine register per RULES §3 (David/Messiah speaking to God the Father)." },
-        { "greek": "οὐδὲ δώσεις τὸν ὅσιόν σου ἰδεῖν διαφθοράν", "thai": "และจะไม่ทรงยอมให้ผู้บริสุทธิ์ของพระองค์ประสบความเปื่อยเน่า", "rationale": "ὅσιος = 'holy one / devout one'. Per uW TN figs-explicit: the title 'Holy One' refers (messianically) to the Messiah; David (Peter argues in v.31) was prophesying about Christ. Thai 'ผู้บริสุทธิ์ของพระองค์' preserves the titular-holy-one register. ἰδεῖν διαφθοράν = 'see corruption' — per uW TN figs-idiom, 'see' = 'experience'. Thai 'ประสบความเปื่อยเน่า' (experience decay/rot) renders the idiom + meaning plainly." },
-        { "greek": "οὐκ ἐγκαταλείψεις ... οὐδὲ δώσεις (parallelism)", "thai": "พระองค์จะไม่ทรงละทิ้ง ... และจะไม่ทรงยอมให้", "rationale": "Per uW TN figs-parallelism: Hebrew synonymous parallelism preserved in LXX. Thai keeps both clauses parallel (repeating 'จะไม่ทรง') rather than collapsing into one statement." }
+        {
+          "greek": "οὐκ ἐγκαταλείψεις τὴν ψυχήν μου εἰς ᾅδην",
+          "thai": "พระองค์จะไม่ทรงละทิ้งวิญญาณของข้าพระองค์ไว้ในแดนมรณา",
+          "rationale": "Per uW TN figs-synecdoche: ψυχή 'soul/life' for whole person. ᾅδης = Hades, the abode of the dead — Thai 'แดนมรณา' (realm of death) is the established Christian Thai rendering (matches Luke 16:23, Matt 11:23, Matt 16:18). Royal register 'ทรง' + humble pronoun 'ข้าพระองค์' for human-to-divine register per RULES §3 (David/Messiah speaking to God the Father)."
+        },
+        {
+          "greek": "οὐδὲ δώσεις τὸν ὅσιόν σου ἰδεῖν διαφθοράν",
+          "thai": "และจะไม่ทรงยอมให้ผู้บริสุทธิ์ของพระองค์ประสบความเปื่อยเน่า",
+          "rationale": "ὅσιος = 'holy one / devout one'. Per uW TN figs-explicit: the title 'Holy One' refers (messianically) to the Messiah; David (Peter argues in v.31) was prophesying about Christ. Thai 'ผู้บริสุทธิ์ของพระองค์' preserves the titular-holy-one register. ἰδεῖν διαφθοράν = 'see corruption' — per uW TN figs-idiom, 'see' = 'experience'. Thai 'ประสบความเปื่อยเน่า' (experience decay/rot) renders the idiom + meaning plainly."
+        },
+        {
+          "greek": "οὐκ ἐγκαταλείψεις ... οὐδὲ δώσεις (parallelism)",
+          "thai": "พระองค์จะไม่ทรงละทิ้ง ... และจะไม่ทรงยอมให้",
+          "rationale": "Per uW TN figs-parallelism: Hebrew synonymous parallelism preserved in LXX. Thai keeps both clauses parallel (repeating 'จะไม่ทรง') rather than collapsing into one statement."
+        }
       ],
       "notes": "OT CITATION Ps 16:10 MT / Ps 15:10 LXX — the verse that will be Peter's hermeneutical key at v.31. The LXX διαφθοράν ('corruption') translates MT שחת which can mean 'pit' or 'corruption' — the LXX reading 'corruption' is essential for Peter's resurrection argument (David DID see the pit; only the Messiah avoided corruption). Textual note: if MT-reading 'pit' were followed, Peter's argument dissolves. Peter is doing pesher-exegesis on LXX text. ADDED TO NT_OT_CITATIONS for Ps 16:10 / Ps 15:10 LXX (direct citation)."
     }
@@ -493,13 +821,25 @@
     "greek": "ἐγνώρισάς μοι ὁδοὺς ζωῆς,πληρώσεις με εὐφροσύνης μετὰ τοῦ προσώπου σου.",
     "bsb_english": "You have made known to me the paths of life; You will fill me with joy in Your presence.'",
     "translation": {
-      "thai": "พระองค์ได้ทรงสำแดงทางแห่งชีวิตแก่ข้าพระองค์ ทรงให้ข้าพระองค์เปี่ยมด้วยความยินดีเมื่ออยู่ต่อพระพักตร์ของพระองค์›",
+      "thai": "พระองค์ได้ทรงสำแดงทางแห่งชีวิตแก่ข้าพระองค์ ทรงให้ข้าพระองค์เปี่ยมด้วยความยินดีเมื่ออยู่ต่อพระพักตร์ของพระองค์’",
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἐγνώρισάς μοι ὁδοὺς ζωῆς", "thai": "พระองค์ได้ทรงสำแดงทางแห่งชีวิตแก่ข้าพระองค์", "rationale": "Per uW TN figs-metaphor: ὁδοὶ ζωῆς 'paths of life' — life as a journey-with-directions. Thai 'ทางแห่งชีวิต' preserves the path-of-life metaphor (established Thai Christian usage, matches Ps 16:11 LXX liturgical tradition). γνωρίζω 'make known' → 'ทรงสำแดง' (royal-register reveal)." },
-        { "greek": "πληρώσεις με εὐφροσύνης", "thai": "ทรงให้ข้าพระองค์เปี่ยมด้วยความยินดี", "rationale": "Per uW TN figs-metaphor: God as filler, speaker as container. Thai 'เปี่ยมด้วย' (fill/be full-of) preserves the container-filling metaphor." },
-        { "greek": "μετὰ τοῦ προσώπου σου", "thai": "เมื่ออยู่ต่อพระพักตร์ของพระองค์", "rationale": "Per uW TN figs-metaphor: πρόσωπον 'face' metonymy for 'presence'. Thai 'พระพักตร์' (royal-register face) + 'ต่อ' (before) preserves both the idiom and the royal register appropriate for God's presence. 'ต่อพระพักตร์' is the established Thai biblical idiom for divine presence." }
+        {
+          "greek": "ἐγνώρισάς μοι ὁδοὺς ζωῆς",
+          "thai": "พระองค์ได้ทรงสำแดงทางแห่งชีวิตแก่ข้าพระองค์",
+          "rationale": "Per uW TN figs-metaphor: ὁδοὶ ζωῆς 'paths of life' — life as a journey-with-directions. Thai 'ทางแห่งชีวิต' preserves the path-of-life metaphor (established Thai Christian usage, matches Ps 16:11 LXX liturgical tradition). γνωρίζω 'make known' → 'ทรงสำแดง' (royal-register reveal)."
+        },
+        {
+          "greek": "πληρώσεις με εὐφροσύνης",
+          "thai": "ทรงให้ข้าพระองค์เปี่ยมด้วยความยินดี",
+          "rationale": "Per uW TN figs-metaphor: God as filler, speaker as container. Thai 'เปี่ยมด้วย' (fill/be full-of) preserves the container-filling metaphor."
+        },
+        {
+          "greek": "μετὰ τοῦ προσώπου σου",
+          "thai": "เมื่ออยู่ต่อพระพักตร์ของพระองค์",
+          "rationale": "Per uW TN figs-metaphor: πρόσωπον 'face' metonymy for 'presence'. Thai 'พระพักตร์' (royal-register face) + 'ต่อ' (before) preserves both the idiom and the royal register appropriate for God's presence. 'ต่อพระพักตร์' is the established Thai biblical idiom for divine presence."
+        }
       ],
       "notes": "OT CITATION concludes Ps 16:11 MT / Ps 15:11 LXX. End of the Davidic citation block. The resurrection-implication: God revealing 'paths of life' to the Holy One whose flesh rests in hope without seeing corruption = resurrection from death. Peter will make this explicit in vv. 29-32. ADDED TO NT_OT_CITATIONS for Ps 16:11 / Ps 15:11 LXX (direct citation, final verse of 25-28 block)."
     }
@@ -515,10 +855,26 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "Ἄνδρες ἀδελφοί (vocative idiom)", "thai": "พี่น้องทั้งหลาย", "rationale": "Per uW TN figs-idiom + figs-metaphor: 'Men, brothers' — formal vocative. In this context (Peter addressing fellow Jews who are not-yet-believers-in-Jesus) ἀδελφοί means fellow-Israelites/fellow-God-fearers (not fellow-Christians). Thai 'พี่น้อง' carries the appropriate fraternal-inclusive register without over-specifying." },
-        { "greek": "μετὰ παρρησίας", "thai": "อย่างกล้าหาญ", "rationale": "παρρησία = 'frankness / boldness / outspokenness'. Thai 'อย่างกล้าหาญ' (boldly/courageously) — standard Thai Christian rendering, matching Acts-corpus pattern for Peter/apostolic παρρησία-speech." },
-        { "greek": "τοῦ πατριάρχου Δαυὶδ", "thai": "ดาวิดบรรพบุรุษของเรา", "rationale": "Per uW TN figs-metaphor: πατριάρχης literally = 'father-ruler' of a clan; here Peter uses it for David as founder of the Davidic dynasty. Thai 'บรรพบุรุษ' (ancestor/forefather) captures the founder-ancestor sense; 'ของเรา' makes the inclusive relationship explicit. Peter invokes shared ethnic-religious heritage." },
-        { "greek": "τὸ μνῆμα αὐτοῦ ἔστιν ἐν ἡμῖν", "thai": "อุโมงค์ของท่านก็ยังคงอยู่กับเรา", "rationale": "μνῆμα = 'tomb/memorial'. Thai 'อุโมงค์' (tomb-cave) is established Thai biblical rendering for tomb — first-century Jewish tombs were rock-cut chambers. The 'still with us to this day' is Peter's rhetorical appeal to empirical verifiability — David's tomb was a known pilgrimage site in Jerusalem." }
+        {
+          "greek": "Ἄνδρες ἀδελφοί (vocative idiom)",
+          "thai": "พี่น้องทั้งหลาย",
+          "rationale": "Per uW TN figs-idiom + figs-metaphor: 'Men, brothers' — formal vocative. In this context (Peter addressing fellow Jews who are not-yet-believers-in-Jesus) ἀδελφοί means fellow-Israelites/fellow-God-fearers (not fellow-Christians). Thai 'พี่น้อง' carries the appropriate fraternal-inclusive register without over-specifying."
+        },
+        {
+          "greek": "μετὰ παρρησίας",
+          "thai": "อย่างกล้าหาญ",
+          "rationale": "παρρησία = 'frankness / boldness / outspokenness'. Thai 'อย่างกล้าหาญ' (boldly/courageously) — standard Thai Christian rendering, matching Acts-corpus pattern for Peter/apostolic παρρησία-speech."
+        },
+        {
+          "greek": "τοῦ πατριάρχου Δαυὶδ",
+          "thai": "ดาวิดบรรพบุรุษของเรา",
+          "rationale": "Per uW TN figs-metaphor: πατριάρχης literally = 'father-ruler' of a clan; here Peter uses it for David as founder of the Davidic dynasty. Thai 'บรรพบุรุษ' (ancestor/forefather) captures the founder-ancestor sense; 'ของเรา' makes the inclusive relationship explicit. Peter invokes shared ethnic-religious heritage."
+        },
+        {
+          "greek": "τὸ μνῆμα αὐτοῦ ἔστιν ἐν ἡμῖν",
+          "thai": "อุโมงค์ของท่านก็ยังคงอยู่กับเรา",
+          "rationale": "μνῆμα = 'tomb/memorial'. Thai 'อุโมงค์' (tomb-cave) is established Thai biblical rendering for tomb — first-century Jewish tombs were rock-cut chambers. The 'still with us to this day' is Peter's rhetorical appeal to empirical verifiability — David's tomb was a known pilgrimage site in Jerusalem."
+        }
       ],
       "notes": "Peter's argumentative turn: the Ps 16 prophecy cannot be about David himself (David died, was buried, his tomb is visible) — so it must be about someone else. This is a pesher-style exegesis move — identify the limit of the speaker's self-reference, then find the surplus referent elsewhere. The 'patriarch David' sets up v.30: 'being a prophet'."
     }
@@ -534,9 +890,21 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "προφήτης οὖν ὑπάρχων", "thai": "แต่ดาวิดเป็นผู้เผยพระวจนะ", "rationale": "Per uW TN figs-explicit: 'being a prophet' — Peter identifies David (not conventionally a 'prophet' in the classical sense, but the NT-Christian reading treats the Psalms as prophetic). Thai 'ผู้เผยพระวจนะ' consistent with corpus translation of προφήτης." },
-        { "greek": "ὅρκῳ ὤμοσεν αὐτῷ ὁ θεὸς", "thai": "พระเจ้าได้ทรงสาบานไว้กับท่าน", "rationale": "Cognate-accusative 'swore with an oath'. Thai 'ทรงสาบาน' (royal-register swear-an-oath) — the divine-oath semantics. Alluding to 2 Sam 7:12-13 / Ps 132:11 Davidic covenant. Royal register 'ทรง' for divine subject." },
-        { "greek": "ἐκ καρποῦ τῆς ὀσφύος αὐτοῦ ... ἐπὶ τὸν θρόνον αὐτοῦ", "thai": "จะทรงตั้งเชื้อสายของท่านองค์หนึ่งให้นั่งบนบัลลังก์ของท่าน", "rationale": "Per uW TN figs-metonymy + figs-synecdoche: ὀσφύς 'loins' metonymy for reproductive capacity → 'descendants'; καρπός 'fruit' broad-sense for offspring. 'Set on his throne' = dynastic succession (synecdoche for kingship). Thai 'เชื้อสายของท่านองค์หนึ่ง ... นั่งบนบัลลังก์' renders both metonymies plainly (avoiding the 'fruit of loins' literal awkwardness in Thai) while preserving the throne-enthronement register. 'องค์' classifier signals royal individual." }
+        {
+          "greek": "προφήτης οὖν ὑπάρχων",
+          "thai": "แต่ดาวิดเป็นผู้เผยพระวจนะ",
+          "rationale": "Per uW TN figs-explicit: 'being a prophet' — Peter identifies David (not conventionally a 'prophet' in the classical sense, but the NT-Christian reading treats the Psalms as prophetic). Thai 'ผู้เผยพระวจนะ' consistent with corpus translation of προφήτης."
+        },
+        {
+          "greek": "ὅρκῳ ὤμοσεν αὐτῷ ὁ θεὸς",
+          "thai": "พระเจ้าได้ทรงสาบานไว้กับท่าน",
+          "rationale": "Cognate-accusative 'swore with an oath'. Thai 'ทรงสาบาน' (royal-register swear-an-oath) — the divine-oath semantics. Alluding to 2 Sam 7:12-13 / Ps 132:11 Davidic covenant. Royal register 'ทรง' for divine subject."
+        },
+        {
+          "greek": "ἐκ καρποῦ τῆς ὀσφύος αὐτοῦ ... ἐπὶ τὸν θρόνον αὐτοῦ",
+          "thai": "จะทรงตั้งเชื้อสายของท่านองค์หนึ่งให้นั่งบนบัลลังก์ของท่าน",
+          "rationale": "Per uW TN figs-metonymy + figs-synecdoche: ὀσφύς 'loins' metonymy for reproductive capacity → 'descendants'; καρπός 'fruit' broad-sense for offspring. 'Set on his throne' = dynastic succession (synecdoche for kingship). Thai 'เชื้อสายของท่านองค์หนึ่ง ... นั่งบนบัลลังก์' renders both metonymies plainly (avoiding the 'fruit of loins' literal awkwardness in Thai) while preserving the throne-enthronement register. 'องค์' classifier signals royal individual."
+        }
       ],
       "notes": "OT ALLUSION: composite echo of 2 Sam 7:12-13 (Nathan's oracle, Davidic dynasty promise) + Ps 132:11 LXX (Ps 131:11 LXX: 'ὤμοσεν κύριος τῷ Δαυὶδ ... ἐκ καρποῦ τῆς κοιλίας σου θήσομαι ἐπὶ τὸν θρόνον σου'). The phrase ἐκ καρποῦ τῆς ὀσφύος directly echoes Ps 131:11 LXX. Peter is weaving multiple OT texts into a single argument — the Davidic-dynastic oath is fulfilled in the Messiah's enthronement-through-resurrection. ADDED TO NT_OT_CITATIONS for Ps 132:11 / Ps 131:11 LXX + 2 Sam 7:12-13 (composite allusion)."
     }
@@ -552,9 +920,21 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "προϊδὼν (aor. act. ptc.)", "thai": "เห็นล่วงหน้า", "rationale": "προοράω aor. ptc. 'having seen beforehand/foreseen'. Prophetic-foresight register. Thai 'เห็นล่วงหน้า' preserves the foresight-reading natural in Thai prophetic-speech context." },
-        { "greek": "τῆς ἀναστάσεως τοῦ χριστοῦ", "thai": "การคืนพระชนม์ของพระคริสต์", "rationale": "ἀνάστασις 'resurrection' — standard Thai 'การคืนพระชนม์' (royal-register rising-to-life). χριστός → พระคริสต์ per RULES §4. Peter's interpretive claim: David's Ps 16 spoke about the Christ's resurrection." },
-        { "greek": "οὔτε ἐγκατελείφθη εἰς ᾅδην οὔτε ἡ σὰρξ αὐτοῦ εἶδεν διαφθοράν", "thai": "พระองค์มิได้ถูกละทิ้งไว้ในแดนมรณา และเนื้อหนังของพระองค์ก็มิได้ประสบความเปื่อยเน่า", "rationale": "Direct re-citation of v.27 (Ps 16:10 LXX). Per uW TN writing-pronouns: third-person reading of the Ps 16 first-person — Peter shifts from David's 'I' to Christ's 'He'. Thai preserves the Ps 16:10 wording consistently with v.27 — 'แดนมรณา' for Hades, 'เปื่อยเน่า' for corruption — maintaining the intertextual echo." }
+        {
+          "greek": "προϊδὼν (aor. act. ptc.)",
+          "thai": "เห็นล่วงหน้า",
+          "rationale": "προοράω aor. ptc. 'having seen beforehand/foreseen'. Prophetic-foresight register. Thai 'เห็นล่วงหน้า' preserves the foresight-reading natural in Thai prophetic-speech context."
+        },
+        {
+          "greek": "τῆς ἀναστάσεως τοῦ χριστοῦ",
+          "thai": "การคืนพระชนม์ของพระคริสต์",
+          "rationale": "ἀνάστασις 'resurrection' — standard Thai 'การคืนพระชนม์' (royal-register rising-to-life). χριστός → พระคริสต์ per RULES §4. Peter's interpretive claim: David's Ps 16 spoke about the Christ's resurrection."
+        },
+        {
+          "greek": "οὔτε ἐγκατελείφθη εἰς ᾅδην οὔτε ἡ σὰρξ αὐτοῦ εἶδεν διαφθοράν",
+          "thai": "พระองค์มิได้ถูกละทิ้งไว้ในแดนมรณา และเนื้อหนังของพระองค์ก็มิได้ประสบความเปื่อยเน่า",
+          "rationale": "Direct re-citation of v.27 (Ps 16:10 LXX). Per uW TN writing-pronouns: third-person reading of the Ps 16 first-person — Peter shifts from David's 'I' to Christ's 'He'. Thai preserves the Ps 16:10 wording consistently with v.27 — 'แดนมรณา' for Hades, 'เปื่อยเน่า' for corruption — maintaining the intertextual echo."
+        }
       ],
       "notes": "Peter completes the Ps 16 argument. The structure: (a) David spoke these words (vv. 25-28), (b) David himself died and decayed (v.29), (c) therefore as a prophet he was speaking of the Messiah (vv. 30-31). The 'flesh did not see corruption' is the crux — Jesus' body did not decay because it was raised; David's did decay because it wasn't. The empirically-verifiable tomb of David (v.29) serves as the reductio ad absurdum: if Ps 16 refers to David alone, the prophecy failed. RE-CITATION of Ps 16:10 / Ps 15:10 LXX — already in NT_OT_CITATIONS for v.27."
     }
@@ -570,8 +950,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "τοῦτον τὸν Ἰησοῦν ἀνέστησεν ὁ θεός", "thai": "พระเจ้าทรงให้พระเยซูองค์นี้คืนพระชนม์", "rationale": "Peter's kerygmatic core: God raised 'this Jesus' — the same Jesus the crowd crucified (v.23). 'องค์นี้' classifier-demonstrative carries the emphatic-specific force. Royal register 'ทรง' for divine subject + 'คืนพระชนม์' for Jesus' resurrection (established corpus rendering)." },
-        { "greek": "οὗ πάντες ἡμεῖς ἐσμεν μάρτυρες", "thai": "ซึ่งข้าพเจ้าทั้งหลายเป็นพยาน", "rationale": "Per uW TN figs-exclusive: ἡμεῖς here refers to Peter and the other apostles (exclusive — not including the crowd). Thai 'ข้าพเจ้าทั้งหลาย' preserves the speakers'-group reference. μάρτυς 'witness' → 'พยาน' — matches Acts 1:8 corpus." }
+        {
+          "greek": "τοῦτον τὸν Ἰησοῦν ἀνέστησεν ὁ θεός",
+          "thai": "พระเจ้าทรงให้พระเยซูองค์นี้คืนพระชนม์",
+          "rationale": "Peter's kerygmatic core: God raised 'this Jesus' — the same Jesus the crowd crucified (v.23). 'องค์นี้' classifier-demonstrative carries the emphatic-specific force. Royal register 'ทรง' for divine subject + 'คืนพระชนม์' for Jesus' resurrection (established corpus rendering)."
+        },
+        {
+          "greek": "οὗ πάντες ἡμεῖς ἐσμεν μάρτυρες",
+          "thai": "ซึ่งข้าพเจ้าทั้งหลายเป็นพยาน",
+          "rationale": "Per uW TN figs-exclusive: ἡμεῖς here refers to Peter and the other apostles (exclusive — not including the crowd). Thai 'ข้าพเจ้าทั้งหลาย' preserves the speakers'-group reference. μάρτυς 'witness' → 'พยาน' — matches Acts 1:8 corpus."
+        }
       ],
       "notes": "Peter's fulfillment-claim + apostolic witness formula. The 'witness' language recalls Acts 1:8 (ἔσεσθέ μου μάρτυρες) and 1:22 (the apostolic-qualification: witness to the resurrection). Peter is exercising the witness-role described in Acts 1. The apostles are not speculating about resurrection — they're testifying as eye-witnesses. No textual variant."
     }
@@ -585,12 +973,28 @@
     "translation": {
       "thai": "เพราะฉะนั้น เมื่อพระองค์ทรงได้รับการยกขึ้นสู่เบื้องขวาของพระเจ้าแล้ว และได้รับพระวิญญาณบริสุทธิ์ตามพระสัญญาจากพระบิดา พระองค์ก็ทรงเทพระวิญญาณลงมาตามที่พวกท่านเห็นและได้ยินอยู่นี้",
       "thai_literal": null,
-      "thai_summary": "เปโตรสรุปข้อสำคัญ — ปรากฏการณ์เพ็นเทคอสต์ที่ฝูงชนเห็นและได้ยินอยู่นี้เป็นหลักฐานว่าพระเยซูไม่ได้เสด็จสู่สวรรค์ในฐานะผู้พ่ายแพ้ แต่ในฐานะองค์พระผู้เป็นเจ้าผู้ทรงครอบครอง พระองค์ได้รับพระวิญญาณ «ตามพระสัญญาจากพระบิดา» (เชื่อมกับกิจการ 1:4; ลูกา 24:49) และบัดนี้ได้เทพระวิญญาณลงมา การเทพระวิญญาณเป็นสัญลักษณ์ของการครองราชย์ของพระเจ้าแล้ว พระเยซูทรงอยู่ในฐานะกษัตริย์ที่แต่งตั้งให้พวกเราได้รับพระวิญญาณ",
+      "thai_summary": "เปโตรสรุปข้อสำคัญ — ปรากฏการณ์เพ็นเทคอสต์ที่ฝูงชนเห็นและได้ยินอยู่นี้เป็นหลักฐานว่าพระเยซูไม่ได้เสด็จสู่สวรรค์ในฐานะผู้พ่ายแพ้ แต่ในฐานะองค์พระผู้เป็นเจ้าผู้ทรงครอบครอง พระองค์ได้รับพระวิญญาณ “ตามพระสัญญาจากพระบิดา” (เชื่อมกับกิจการ 1:4; ลูกา 24:49) และบัดนี้ได้เทพระวิญญาณลงมา การเทพระวิญญาณเป็นสัญลักษณ์ของการครองราชย์ของพระเจ้าแล้ว พระเยซูทรงอยู่ในฐานะกษัตริย์ที่แต่งตั้งให้พวกเราได้รับพระวิญญาณ",
       "key_decisions": [
-        { "greek": "τῇ δεξιᾷ οὖν τοῦ θεοῦ ὑψωθεὶς", "thai": "เมื่อพระองค์ทรงได้รับการยกขึ้นสู่เบื้องขวาของพระเจ้า", "rationale": "Per uW TN figs-nominaladj + figs-explicit: 'having been exalted to the right [side] of God'. The right-hand position = position of honor/authority. Passive (divine agent implicit). Thai 'ได้รับการยกขึ้น' renders the theological passive; 'เบื้องขวา' preserves the right-hand metaphor. This verse grounds the OT-quotation argument to come in v.34 (Ps 110:1 — 'sit at my right hand')." },
-        { "greek": "τήν ... ἐπαγγελίαν τοῦ πνεύματος τοῦ ἁγίου", "thai": "พระวิญญาณบริสุทธิ์ตามพระสัญญา", "rationale": "Per uW TN figs-possession: 'the promise of the Holy Spirit' = 'the promised Holy Spirit' — genitive of apposition. Thai 'พระวิญญาณบริสุทธิ์ตามพระสัญญา' preserves the promise-substance structure (Spirit AS the promise). Links back to Acts 1:4 'τὴν ἐπαγγελίαν τοῦ πατρός'." },
-        { "greek": "παρὰ τοῦ πατρὸς", "thai": "จากพระบิดา", "rationale": "Per uW TN guidelines-sonofgodprinciples: 'Father' is a divine title. Thai 'พระบิดา' (royal-register Father) standard throughout corpus for God the Father." },
-        { "greek": "ἐξέχεεν τοῦτο ὃ ὑμεῖς βλέπετε καὶ ἀκούετε", "thai": "ทรงเทพระวิญญาณลงมาตามที่พวกท่านเห็นและได้ยินอยู่นี้", "rationale": "ἐκχέω 'pour out' — direct echo of v.17 (Joel's ἐκχεῶ). Per uW TN figs-metaphor: the Spirit-as-liquid metaphor echoes Joel. Thai 'ทรงเทพระวิญญาณลงมา' mirrors the Joel-v.17 rendering — deliberate lexical threading. 'ที่พวกท่านเห็นและได้ยิน' captures the sensory-evidence argument." }
+        {
+          "greek": "τῇ δεξιᾷ οὖν τοῦ θεοῦ ὑψωθεὶς",
+          "thai": "เมื่อพระองค์ทรงได้รับการยกขึ้นสู่เบื้องขวาของพระเจ้า",
+          "rationale": "Per uW TN figs-nominaladj + figs-explicit: 'having been exalted to the right [side] of God'. The right-hand position = position of honor/authority. Passive (divine agent implicit). Thai 'ได้รับการยกขึ้น' renders the theological passive; 'เบื้องขวา' preserves the right-hand metaphor. This verse grounds the OT-quotation argument to come in v.34 (Ps 110:1 — 'sit at my right hand')."
+        },
+        {
+          "greek": "τήν ... ἐπαγγελίαν τοῦ πνεύματος τοῦ ἁγίου",
+          "thai": "พระวิญญาณบริสุทธิ์ตามพระสัญญา",
+          "rationale": "Per uW TN figs-possession: 'the promise of the Holy Spirit' = 'the promised Holy Spirit' — genitive of apposition. Thai 'พระวิญญาณบริสุทธิ์ตามพระสัญญา' preserves the promise-substance structure (Spirit AS the promise). Links back to Acts 1:4 'τὴν ἐπαγγελίαν τοῦ πατρός'."
+        },
+        {
+          "greek": "παρὰ τοῦ πατρὸς",
+          "thai": "จากพระบิดา",
+          "rationale": "Per uW TN guidelines-sonofgodprinciples: 'Father' is a divine title. Thai 'พระบิดา' (royal-register Father) standard throughout corpus for God the Father."
+        },
+        {
+          "greek": "ἐξέχεεν τοῦτο ὃ ὑμεῖς βλέπετε καὶ ἀκούετε",
+          "thai": "ทรงเทพระวิญญาณลงมาตามที่พวกท่านเห็นและได้ยินอยู่นี้",
+          "rationale": "ἐκχέω 'pour out' — direct echo of v.17 (Joel's ἐκχεῶ). Per uW TN figs-metaphor: the Spirit-as-liquid metaphor echoes Joel. Thai 'ทรงเทพระวิญญาณลงมา' mirrors the Joel-v.17 rendering — deliberate lexical threading. 'ที่พวกท่านเห็นและได้ยิน' captures the sensory-evidence argument."
+        }
       ],
       "notes": "The Christological climax-in-progress: Jesus is the one who received the Spirit-promise from the Father and has poured it out. This is a trinitarian-shape: Father sends Spirit through the exalted Son. 'Right hand of God' sets up the Ps 110:1 citation (v.34). No textual variant."
     }
@@ -602,13 +1006,25 @@
     "greek": "οὐ γὰρ Δαυὶδ ἀνέβη εἰς τοὺς οὐρανούς,λέγει δὲ αὐτός·Εἶπεν ὁ κύριος τῷ κυρίῳ μου·Κάθου ἐκ δεξιῶν μου,",
     "bsb_english": "For David did not ascend into heaven, but he himself says: 'The Lord said to my Lord, \"Sit at My right hand",
     "translation": {
-      "thai": "เพราะดาวิดไม่ได้ขึ้นสู่สวรรค์ แต่ท่านเองกล่าวว่า ‹องค์พระผู้เป็นเจ้าตรัสกับองค์พระผู้เป็นเจ้าของข้าพเจ้าว่า จงนั่ง ณ เบื้องขวาของเรา",
+      "thai": "เพราะดาวิดไม่ได้ขึ้นสู่สวรรค์ แต่ท่านเองกล่าวว่า ‘องค์พระผู้เป็นเจ้าตรัสกับองค์พระผู้เป็นเจ้าของข้าพเจ้าว่า จงนั่ง ณ เบื้องขวาของเรา",
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "οὐ γὰρ Δαυὶδ ἀνέβη εἰς τοὺς οὐρανούς", "thai": "เพราะดาวิดไม่ได้ขึ้นสู่สวรรค์", "rationale": "Same reductio move as v.29 — the Ps 110 prophecy cannot be about David himself since David didn't ascend. Sets up the Ps 110 messianic reading. Thai 'ไม่ได้ขึ้นสู่สวรรค์' plain-direct (no royal register — neutral David-reference)." },
-        { "greek": "Εἶπεν ὁ κύριος τῷ κυρίῳ μου", "thai": "องค์พระผู้เป็นเจ้าตรัสกับองค์พระผู้เป็นเจ้าของข้าพเจ้า", "rationale": "Per uW TN figs-explicit: the first κύριος = God (YHWH); the second κυρίῳ μου = the Messiah. Both rendered as 'องค์พระผู้เป็นเจ้า' consistent with kyrios_narrator_voice decision (OT-citation rule + narrator-Jesus rule converge here). 'ของข้าพเจ้า' distinguishes the two referents (the second is David's Lord). This preserves the LXX Ps 110:1 parallelism and the Christological identity-implication. Royal register 'ตรัส' for divine speech." },
-        { "greek": "Κάθου ἐκ δεξιῶν μου", "thai": "จงนั่ง ณ เบื้องขวาของเรา", "rationale": "Per uW TN figs-nominaladj: 'at my right [side]' — honor-position metaphor. Thai 'ณ เบื้องขวา' parallel with v.33 rendering. 'จงนั่ง' imperative-enthronement. 'ของเรา' — God the Father speaking, uses plain first-person (royal-subject-speech-register)." }
+        {
+          "greek": "οὐ γὰρ Δαυὶδ ἀνέβη εἰς τοὺς οὐρανούς",
+          "thai": "เพราะดาวิดไม่ได้ขึ้นสู่สวรรค์",
+          "rationale": "Same reductio move as v.29 — the Ps 110 prophecy cannot be about David himself since David didn't ascend. Sets up the Ps 110 messianic reading. Thai 'ไม่ได้ขึ้นสู่สวรรค์' plain-direct (no royal register — neutral David-reference)."
+        },
+        {
+          "greek": "Εἶπεν ὁ κύριος τῷ κυρίῳ μου",
+          "thai": "องค์พระผู้เป็นเจ้าตรัสกับองค์พระผู้เป็นเจ้าของข้าพเจ้า",
+          "rationale": "Per uW TN figs-explicit: the first κύριος = God (YHWH); the second κυρίῳ μου = the Messiah. Both rendered as 'องค์พระผู้เป็นเจ้า' consistent with kyrios_narrator_voice decision (OT-citation rule + narrator-Jesus rule converge here). 'ของข้าพเจ้า' distinguishes the two referents (the second is David's Lord). This preserves the LXX Ps 110:1 parallelism and the Christological identity-implication. Royal register 'ตรัส' for divine speech."
+        },
+        {
+          "greek": "Κάθου ἐκ δεξιῶν μου",
+          "thai": "จงนั่ง ณ เบื้องขวาของเรา",
+          "rationale": "Per uW TN figs-nominaladj: 'at my right [side]' — honor-position metaphor. Thai 'ณ เบื้องขวา' parallel with v.33 rendering. 'จงนั่ง' imperative-enthronement. 'ของเรา' — God the Father speaking, uses plain first-person (royal-subject-speech-register)."
+        }
       ],
       "notes": "OT CITATION Ps 110:1 MT / Ps 109:1 LXX. This is one of the most-cited OT verses in the NT (Matt 22:44, Mark 12:36, Luke 20:42-43, Heb 1:13, 1 Cor 15:25, Eph 1:20, Col 3:1, 1 Pet 3:22). Peter's argument: David calls the Messiah 'my Lord', implying the Messiah is greater than David, implying the Messiah is divine. The verse's two-κύριος structure lets Peter's sermon land the v.36 climax: Jesus is κύριος alongside God, so Joel 2:32's 'call on the name of the Lord' applies to Jesus. ADDED TO NT_OT_CITATIONS for Ps 110:1 / Ps 109:1 LXX (direct citation)."
     }
@@ -620,11 +1036,15 @@
     "greek": "ἕως ἂν θῶ τοὺς ἐχθρούς σου ὑποπόδιον τῶν ποδῶν σου.",
     "bsb_english": "until I make Your enemies a footstool for Your feet.\"'",
     "translation": {
-      "thai": "จนกว่าเราจะทำให้ศัตรูของเจ้าเป็นที่รองเท้าของเจ้า›",
+      "thai": "จนกว่าเราจะทำให้ศัตรูของเจ้าเป็นที่รองเท้าของเจ้า’",
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἕως ἂν θῶ τοὺς ἐχθρούς σου ὑποπόδιον τῶν ποδῶν σου", "thai": "จนกว่าเราจะทำให้ศัตรูของเจ้าเป็นที่รองเท้าของเจ้า", "rationale": "Per uW TN figs-metaphor: 'enemies as footstool' = complete subjugation/victory metaphor. Thai 'ศัตรู ... เป็นที่รองเท้า' preserves the footstool-under-feet imagery (established in Psalm 110 Thai translation tradition). God speaks to the Messiah — ชาติพันธุ์-register 'เจ้า' is acceptable (intimate Father-Son direct address per RULES §3 'God addressing the Son: เจ้า is acceptable')." }
+        {
+          "greek": "ἕως ἂν θῶ τοὺς ἐχθρούς σου ὑποπόδιον τῶν ποδῶν σου",
+          "thai": "จนกว่าเราจะทำให้ศัตรูของเจ้าเป็นที่รองเท้าของเจ้า",
+          "rationale": "Per uW TN figs-metaphor: 'enemies as footstool' = complete subjugation/victory metaphor. Thai 'ศัตรู ... เป็นที่รองเท้า' preserves the footstool-under-feet imagery (established in Psalm 110 Thai translation tradition). God speaks to the Messiah — ชาติพันธุ์-register 'เจ้า' is acceptable (intimate Father-Son direct address per RULES §3 'God addressing the Son: เจ้า is acceptable')."
+        }
       ],
       "notes": "OT CITATION continues Ps 110:1 MT / Ps 109:1 LXX. The eschatological-until clause: Jesus reigns from God's right hand UNTIL enemies are subjugated. 1 Cor 15:25-28 elaborates this as the Son's mediatorial reign until the final enemy (death) is defeated. RE-CITATION of Ps 110:1 — already in NT_OT_CITATIONS for v.34 (paired citation 34-35)."
     }
@@ -636,13 +1056,25 @@
     "greek": "ἀσφαλῶς οὖν γινωσκέτω πᾶς οἶκος Ἰσραὴλ ὅτι καὶ κύριον αὐτὸν καὶ χριστὸν ἐποίησεν ὁ θεός,τοῦτον τὸν Ἰησοῦν ὃν ὑμεῖς ἐσταυρώσατε.",
     "bsb_english": "Therefore let all Israel know with certainty that God has made this Jesus, whom you crucified, both Lord and Christ!\"",
     "translation": {
-      "thai": "เพราะฉะนั้น ให้พงศ์พันธุ์อิสราเอลทั้งสิ้นทราบแน่ชัดเถิดว่า พระเจ้าได้ทรงตั้งพระเยซูผู้ที่พวกท่านได้ตรึงกางเขนนี้ ให้เป็นทั้งองค์พระผู้เป็นเจ้าและพระคริสต์»",
+      "thai": "เพราะฉะนั้น ให้พงศ์พันธุ์อิสราเอลทั้งสิ้นทราบแน่ชัดเถิดว่า พระเจ้าได้ทรงตั้งพระเยซูผู้ที่พวกท่านได้ตรึงกางเขนนี้ ให้เป็นทั้งองค์พระผู้เป็นเจ้าและพระคริสต์”",
       "thai_literal": null,
-      "thai_summary": "ข้อสรุปของเทศนา — บรรทัดเดียวที่ประมวลทั้งการตำหนิและการประกาศพระกิตติคุณ «ผู้ที่พวกท่านได้ตรึงกางเขน» คือคำตำหนิตรงไปตรงมา แต่ «พระเจ้าทรงตั้ง ... ให้เป็นทั้งองค์พระผู้เป็นเจ้าและพระคริสต์» คือคำประกาศความจริงของพระเจ้าในใจกลางของความผิดนั้น พระเจ้าทรงพลิกโศกนาฏกรรมการตรึงกางเขนให้กลายเป็นชัยชนะของการคืนพระชนม์และการขึ้นครองราชย์ การร้องออกพระนามของพระเยซู (ข้อ 21) จึงเท่ากับการร้องออกพระนามขององค์พระผู้เป็นเจ้า",
+      "thai_summary": "ข้อสรุปของเทศนา — บรรทัดเดียวที่ประมวลทั้งการตำหนิและการประกาศพระกิตติคุณ “ผู้ที่พวกท่านได้ตรึงกางเขน” คือคำตำหนิตรงไปตรงมา แต่ “พระเจ้าทรงตั้ง ... ให้เป็นทั้งองค์พระผู้เป็นเจ้าและพระคริสต์” คือคำประกาศความจริงของพระเจ้าในใจกลางของความผิดนั้น พระเจ้าทรงพลิกโศกนาฏกรรมการตรึงกางเขนให้กลายเป็นชัยชนะของการคืนพระชนม์และการขึ้นครองราชย์ การร้องออกพระนามของพระเยซู (ข้อ 21) จึงเท่ากับการร้องออกพระนามขององค์พระผู้เป็นเจ้า",
       "key_decisions": [
-        { "greek": "ἀσφαλῶς ... γινωσκέτω πᾶς οἶκος Ἰσραὴλ", "thai": "ให้พงศ์พันธุ์อิสราเอลทั้งสิ้นทราบแน่ชัดเถิด", "rationale": "Per uW TN figs-imperative3p + figs-metaphor: 3rd-person imperative 'let [them] know'. πᾶς οἶκος Ἰσραὴλ 'all the house of Israel' = the whole nation (metaphor — household imagery for descendants of Jacob/Israel). Thai 'พงศ์พันธุ์อิสราเอลทั้งสิ้น' (all the descendants/lineage of Israel) preserves the house-as-descendants metonymy naturally. 'ทราบแน่ชัดเถิด' renders the 3rd-person imperative with emphatic certainty ('let them know with certainty')." },
-        { "greek": "καὶ κύριον αὐτὸν καὶ χριστὸν ἐποίησεν ὁ θεός", "thai": "พระเจ้าได้ทรงตั้ง ... ให้เป็นทั้งองค์พระผู้เป็นเจ้าและพระคริสต์", "rationale": "The climactic Christological claim. 'Both Lord and Christ' — two titles made of Jesus. Κύριος here is predicate-accusative: Jesus IS declared to be κύριος. Per kyrios_narrator_voice decision + the OT-Joel-κύριος echo (v.21), this rendering as องค์พระผู้เป็นเจ้า is deliberate — Peter collapses the 'name of the Lord' of Joel onto the name of Jesus. χριστόν → พระคริสต์ per RULES §4. The kerygmatic shape 'Lord and Christ' (both titles) appears ~20× in Acts." },
-        { "greek": "τοῦτον τὸν Ἰησοῦν ὃν ὑμεῖς ἐσταυρώσατε", "thai": "พระเยซูผู้ที่พวกท่านได้ตรึงกางเขนนี้", "rationale": "Peter repeats the 'whom you crucified' accusation — this time placed in apposition to the glorified-Lord claim for maximum rhetorical force. The same Jesus: crucified by you AND made Lord by God. Thai 'ตรึงกางเขน' (crucify-on-cross) established corpus term. 'พระเยซู ... นี้' demonstrative specifics." }
+        {
+          "greek": "ἀσφαλῶς ... γινωσκέτω πᾶς οἶκος Ἰσραὴλ",
+          "thai": "ให้พงศ์พันธุ์อิสราเอลทั้งสิ้นทราบแน่ชัดเถิด",
+          "rationale": "Per uW TN figs-imperative3p + figs-metaphor: 3rd-person imperative 'let [them] know'. πᾶς οἶκος Ἰσραὴλ 'all the house of Israel' = the whole nation (metaphor — household imagery for descendants of Jacob/Israel). Thai 'พงศ์พันธุ์อิสราเอลทั้งสิ้น' (all the descendants/lineage of Israel) preserves the house-as-descendants metonymy naturally. 'ทราบแน่ชัดเถิด' renders the 3rd-person imperative with emphatic certainty ('let them know with certainty')."
+        },
+        {
+          "greek": "καὶ κύριον αὐτὸν καὶ χριστὸν ἐποίησεν ὁ θεός",
+          "thai": "พระเจ้าได้ทรงตั้ง ... ให้เป็นทั้งองค์พระผู้เป็นเจ้าและพระคริสต์",
+          "rationale": "The climactic Christological claim. 'Both Lord and Christ' — two titles made of Jesus. Κύριος here is predicate-accusative: Jesus IS declared to be κύριος. Per kyrios_narrator_voice decision + the OT-Joel-κύριος echo (v.21), this rendering as องค์พระผู้เป็นเจ้า is deliberate — Peter collapses the 'name of the Lord' of Joel onto the name of Jesus. χριστόν → พระคริสต์ per RULES §4. The kerygmatic shape 'Lord and Christ' (both titles) appears ~20× in Acts."
+        },
+        {
+          "greek": "τοῦτον τὸν Ἰησοῦν ὃν ὑμεῖς ἐσταυρώσατε",
+          "thai": "พระเยซูผู้ที่พวกท่านได้ตรึงกางเขนนี้",
+          "rationale": "Peter repeats the 'whom you crucified' accusation — this time placed in apposition to the glorified-Lord claim for maximum rhetorical force. The same Jesus: crucified by you AND made Lord by God. Thai 'ตรึงกางเขน' (crucify-on-cross) established corpus term. 'พระเยซู ... นี้' demonstrative specifics."
+        }
       ],
       "notes": "Sermon climax. The title-cluster 'Lord and Christ' (κύριος + χριστός) — Peter loads both the divine-sovereignty title (κύριος = YHWH-name in Joel citation) and the messianic title (χριστός = anointed-one) onto Jesus. This is the resurrection-as-enthronement moment in Peter's theology. The crowd's guilt (ἐσταυρώσατε 2nd-pl aor.) is paired with God's vindication (ἐποίησεν) — setting up the call to repentance in v.38. No textual variant."
     }
@@ -654,12 +1086,20 @@
     "greek": "Ἀκούσαντες δὲ κατενύγησαν τὴν καρδίαν,εἶπόν τε πρὸς τὸν Πέτρον καὶ τοὺς λοιποὺς ἀποστόλους·Τί ποιήσωμεν,ἄνδρες ἀδελφοί;",
     "bsb_english": "When the people heard this, they were cut to the heart and asked Peter and the other apostles, \"Brothers, what shall we do?\"",
     "translation": {
-      "thai": "เมื่อพวกเขาได้ยินดังนั้นก็รู้สึกเสียดแทงใจ จึงกล่าวแก่เปโตรและอัครทูตคนอื่นๆ ว่า «พี่น้องเอ๋ย พวกเราจะทำอย่างไรดี»",
+      "thai": "เมื่อพวกเขาได้ยินดังนั้นก็รู้สึกเสียดแทงใจ จึงกล่าวแก่เปโตรและอัครทูตคนอื่นๆ ว่า “พี่น้องเอ๋ย พวกเราจะทำอย่างไรดี”",
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "κατενύγησαν (hapax) τὴν καρδίαν", "thai": "รู้สึกเสียดแทงใจ", "rationale": "κατανύσσομαι (NT hapax) = 'be pierced / cut deeply / stabbed through'. Per uW TN figs-metaphor: not literally pierced — means 'they felt guilty and became very sad'. Thai 'เสียดแทงใจ' (stabbing-pain in heart) preserves the metaphor while making the inner-emotion sense vivid. Accusative of respect τὴν καρδίαν ('pierced in-respect-to-the-heart') — Thai 'แทงใจ' naturally integrates." },
-        { "greek": "Τί ποιήσωμεν,ἄνδρες ἀδελφοί (deliberative subjunctive + vocative)", "thai": "พี่น้องเอ๋ย พวกเราจะทำอย่างไรดี", "rationale": "Per uW TN figs-exclusive: ποιήσωμεν exclusive 'we' (the crowd asking about themselves, not about the apostles). Per uW TN figs-idiom: ἄνδρες ἀδελφοί same vocative formula as v.29 but now turned back at Peter — the crowd uses the same 'brothers' address Peter used. Thai 'พี่น้องเอ๋ย ... พวกเราจะทำอย่างไรดี' captures both the vocative reciprocation and the seeking-counsel register." }
+        {
+          "greek": "κατενύγησαν (hapax) τὴν καρδίαν",
+          "thai": "รู้สึกเสียดแทงใจ",
+          "rationale": "κατανύσσομαι (NT hapax) = 'be pierced / cut deeply / stabbed through'. Per uW TN figs-metaphor: not literally pierced — means 'they felt guilty and became very sad'. Thai 'เสียดแทงใจ' (stabbing-pain in heart) preserves the metaphor while making the inner-emotion sense vivid. Accusative of respect τὴν καρδίαν ('pierced in-respect-to-the-heart') — Thai 'แทงใจ' naturally integrates."
+        },
+        {
+          "greek": "Τί ποιήσωμεν,ἄνδρες ἀδελφοί (deliberative subjunctive + vocative)",
+          "thai": "พี่น้องเอ๋ย พวกเราจะทำอย่างไรดี",
+          "rationale": "Per uW TN figs-exclusive: ποιήσωμεν exclusive 'we' (the crowd asking about themselves, not about the apostles). Per uW TN figs-idiom: ἄνδρες ἀδελφοί same vocative formula as v.29 but now turned back at Peter — the crowd uses the same 'brothers' address Peter used. Thai 'พี่น้องเอ๋ย ... พวกเราจะทำอย่างไรดี' captures both the vocative reciprocation and the seeking-counsel register."
+        }
       ],
       "notes": "HAPAX: κατανύσσομαι. The Pentecost sermon's effect: the crowd moves from mocking (v.13) and puzzlement (v.12) to conviction. The 'what shall we do' is the seeker's question — Luke will repeat the pattern in Philip's encounter with the eunuch (Acts 8:36), Saul (9:6), and the Philippian jailer (16:30). Peter's answer follows immediately in v.38. No textual variant."
     }
@@ -671,15 +1111,35 @@
     "greek": "Πέτρος δὲ πρὸς αὐτούς·Μετανοήσατε,καὶ βαπτισθήτω ἕκαστος ὑμῶν ἐπὶ τῷ ὀνόματι Ἰησοῦ Χριστοῦ εἰς ἄφεσιν τῶν ἁμαρτιῶν ὑμῶν,καὶ λήμψεσθε τὴν δωρεὰν τοῦ ἁγίου πνεύματος·",
     "bsb_english": "Peter replied, \"Repent and be baptized, every one of you, in the name of Jesus Christ for the forgiveness of your sins, and you will receive the gift of the Holy Spirit.",
     "translation": {
-      "thai": "เปโตรจึงกล่าวแก่พวกเขาว่า «จงกลับใจใหม่เถิด และท่านแต่ละคนจงรับบัพติศมาในพระนามของพระเยซูคริสต์เพื่อจะทรงยกโทษบาปของพวกท่าน แล้วพวกท่านจะได้รับพระวิญญาณบริสุทธิ์เป็นของประทาน",
+      "thai": "เปโตรจึงกล่าวแก่พวกเขาว่า “จงกลับใจใหม่เถิด และท่านแต่ละคนจงรับบัพติศมาในพระนามของพระเยซูคริสต์เพื่อจะทรงยกโทษบาปของพวกท่าน แล้วพวกท่านจะได้รับพระวิญญาณบริสุทธิ์เป็นของประทาน",
       "thai_literal": null,
-      "thai_summary": "คำสั่งของเปโตรกลายเป็นสูตรสำคัญของคริสตจักรตั้งแต่วันนั้นมา — กลับใจ รับบัพติศมาในพระนามของพระเยซูคริสต์ ได้รับการยกโทษบาป และของประทานแห่งพระวิญญาณบริสุทธิ์ «ในพระนามของพระเยซูคริสต์» หมายถึงยอมจำนนต่อพระองค์ในฐานะองค์พระผู้เป็นเจ้า พระวิญญาณไม่ใช่รางวัลของผู้ชอบธรรม แต่เป็น «ของประทาน» (โดเรอา) คือสิ่งที่พระเจ้าทรงประทานแก่ผู้ที่กลับใจอย่างไม่จำกัด",
+      "thai_summary": "คำสั่งของเปโตรกลายเป็นสูตรสำคัญของคริสตจักรตั้งแต่วันนั้นมา — กลับใจ รับบัพติศมาในพระนามของพระเยซูคริสต์ ได้รับการยกโทษบาป และของประทานแห่งพระวิญญาณบริสุทธิ์ “ในพระนามของพระเยซูคริสต์” หมายถึงยอมจำนนต่อพระองค์ในฐานะองค์พระผู้เป็นเจ้า พระวิญญาณไม่ใช่รางวัลของผู้ชอบธรรม แต่เป็น “ของประทาน” (โดเรอา) คือสิ่งที่พระเจ้าทรงประทานแก่ผู้ที่กลับใจอย่างไม่จำกัด",
       "key_decisions": [
-        { "greek": "Μετανοήσατε", "thai": "จงกลับใจใหม่เถิด", "rationale": "RULES §4 key-term: μετανοέω → กลับใจ. Established corpus rendering — standard in Luke 3:3, 3:8, 5:32, etc. 'จงกลับใจใหม่เถิด' with imperative-particle 'เถิด' provides the urging register." },
-        { "greek": "βαπτισθήτω ἕκαστος ὑμῶν (imperative sg. + 'each')", "thai": "ท่านแต่ละคนจงรับบัพติศมา", "rationale": "Per uW TN figs-you: the main imperatives are plural but the middle 'be-baptized' is singular because subject = 'each'. 3rd-person imperative passive. Thai 'ท่านแต่ละคน จงรับบัพติศมา' preserves both the each-individually and the passive-reception. RULES §4 key-term: βαπτίζω → บัพติศมา (not the Buddhist-register 'พิธีมุดน้ำ')." },
-        { "greek": "ἐπὶ τῷ ὀνόματι Ἰησοῦ Χριστοῦ", "thai": "ในพระนามของพระเยซูคริสต์", "rationale": "Per uW TN figs-metonymy: 'on the name of Jesus Christ' = 'under his authority / expressing allegiance to him'. Thai 'ในพระนามของ' is the standard biblical idiom — preserves the 'name as authority/identity' metonymy. Ἰησοῦς Χριστός = พระเยซูคริสต์ (fixed-pair-titular form, no article in Greek)." },
-        { "greek": "εἰς ἄφεσιν τῶν ἁμαρτιῶν ὑμῶν", "thai": "เพื่อจะทรงยกโทษบาปของพวกท่าน", "rationale": "Per uW TN figs-abstractnouns: 'for forgiveness of your sins'. RULES §4 key-term: ἄφεσις → การยกโทษ. Thai 'เพื่อจะทรงยกโทษ' — 'ทรง' royal-register implies divine agency (God forgives). ἁμαρτία → บาป per RULES §4." },
-        { "greek": "τὴν δωρεὰν τοῦ ἁγίου πνεύματος", "thai": "พระวิญญาณบริสุทธิ์เป็นของประทาน", "rationale": "δωρεά = 'gift'. The genitive here is appositional ('the gift which is the Holy Spirit'). Thai 'พระวิญญาณบริสุทธิ์เป็นของประทาน' preserves the gift-substance relation. 'ของประทาน' (royal-register gift) — given by God." }
+        {
+          "greek": "Μετανοήσατε",
+          "thai": "จงกลับใจใหม่เถิด",
+          "rationale": "RULES §4 key-term: μετανοέω → กลับใจ. Established corpus rendering — standard in Luke 3:3, 3:8, 5:32, etc. 'จงกลับใจใหม่เถิด' with imperative-particle 'เถิด' provides the urging register."
+        },
+        {
+          "greek": "βαπτισθήτω ἕκαστος ὑμῶν (imperative sg. + 'each')",
+          "thai": "ท่านแต่ละคนจงรับบัพติศมา",
+          "rationale": "Per uW TN figs-you: the main imperatives are plural but the middle 'be-baptized' is singular because subject = 'each'. 3rd-person imperative passive. Thai 'ท่านแต่ละคน จงรับบัพติศมา' preserves both the each-individually and the passive-reception. RULES §4 key-term: βαπτίζω → บัพติศมา (not the Buddhist-register 'พิธีมุดน้ำ')."
+        },
+        {
+          "greek": "ἐπὶ τῷ ὀνόματι Ἰησοῦ Χριστοῦ",
+          "thai": "ในพระนามของพระเยซูคริสต์",
+          "rationale": "Per uW TN figs-metonymy: 'on the name of Jesus Christ' = 'under his authority / expressing allegiance to him'. Thai 'ในพระนามของ' is the standard biblical idiom — preserves the 'name as authority/identity' metonymy. Ἰησοῦς Χριστός = พระเยซูคริสต์ (fixed-pair-titular form, no article in Greek)."
+        },
+        {
+          "greek": "εἰς ἄφεσιν τῶν ἁμαρτιῶν ὑμῶν",
+          "thai": "เพื่อจะทรงยกโทษบาปของพวกท่าน",
+          "rationale": "Per uW TN figs-abstractnouns: 'for forgiveness of your sins'. RULES §4 key-term: ἄφεσις → การยกโทษ. Thai 'เพื่อจะทรงยกโทษ' — 'ทรง' royal-register implies divine agency (God forgives). ἁμαρτία → บาป per RULES §4."
+        },
+        {
+          "greek": "τὴν δωρεὰν τοῦ ἁγίου πνεύματος",
+          "thai": "พระวิญญาณบริสุทธิ์เป็นของประทาน",
+          "rationale": "δωρεά = 'gift'. The genitive here is appositional ('the gift which is the Holy Spirit'). Thai 'พระวิญญาณบริสุทธิ์เป็นของประทาน' preserves the gift-substance relation. 'ของประทาน' (royal-register gift) — given by God."
+        }
       ],
       "notes": "The paradigmatic Pentecost-conversion formula. Four elements: (1) repent, (2) be baptized in Jesus' name, (3) receive forgiveness of sins, (4) receive the Spirit. The text-historical question of baptismal-regeneration reading (εἰς indicating purpose/result) is preserved as-is — Thai 'เพื่อจะ' carries the same purposive-result ambiguity. Jewish-Christian baptism in Jesus' name distinguishes this from John's baptism (v.22; 1:5). No textual variant."
     }
@@ -691,14 +1151,30 @@
     "greek": "ὑμῖν γάρ ἐστιν ἡ ἐπαγγελία καὶ τοῖς τέκνοις ὑμῶν καὶ πᾶσι τοῖς εἰς μακρὰν ὅσους ἂν προσκαλέσηται κύριος ὁ θεὸς ἡμῶν.",
     "bsb_english": "This promise belongs to you and your children and to all who are far off—to all whom the Lord our God will call to Himself.\"",
     "translation": {
-      "thai": "เพราะพระสัญญานี้เป็นของพวกท่านและลูกหลานของพวกท่าน และของทุกคนที่อยู่ไกล คือทุกคนที่องค์พระผู้เป็นเจ้าพระเจ้าของเราจะทรงเรียกมาหาพระองค์»",
+      "thai": "เพราะพระสัญญานี้เป็นของพวกท่านและลูกหลานของพวกท่าน และของทุกคนที่อยู่ไกล คือทุกคนที่องค์พระผู้เป็นเจ้าพระเจ้าของเราจะทรงเรียกมาหาพระองค์”",
       "thai_literal": null,
-      "thai_summary": "ข้อนี้เปิดประตูไปยังคนต่างชาติอย่างแน่นอน «ทุกคนที่อยู่ไกล» สะท้อนคำพยากรณ์ของอิสยาห์ 57:19 ที่ประกาศสันติสุขแก่ «ผู้ที่อยู่ไกล» ในบริบทที่พระเจ้าทรงรวบรวมคนทุกชนชาติมาหาพระองค์ เปโตรในขณะนั้นอาจจะยังไม่เข้าใจเต็มที่ว่าคำเหล่านี้จะรวมคนต่างชาติด้วย (ต้องรอนิมิตที่คอร์เนลิอัสในกิจการ 10) แต่การเลือกคำของลูกาจงใจให้ข้อนี้เปิดเผยพันธกิจต่อโลกทั้งใบ",
+      "thai_summary": "ข้อนี้เปิดประตูไปยังคนต่างชาติอย่างแน่นอน “ทุกคนที่อยู่ไกล” สะท้อนคำพยากรณ์ของอิสยาห์ 57:19 ที่ประกาศสันติสุขแก่ “ผู้ที่อยู่ไกล” ในบริบทที่พระเจ้าทรงรวบรวมคนทุกชนชาติมาหาพระองค์ เปโตรในขณะนั้นอาจจะยังไม่เข้าใจเต็มที่ว่าคำเหล่านี้จะรวมคนต่างชาติด้วย (ต้องรอนิมิตที่คอร์เนลิอัสในกิจการ 10) แต่การเลือกคำของลูกาจงใจให้ข้อนี้เปิดเผยพันธกิจต่อโลกทั้งใบ",
       "key_decisions": [
-        { "greek": "ἡ ἐπαγγελία", "thai": "พระสัญญานี้", "rationale": "Same lexeme as v.33 (τὴν ἐπαγγελίαν τοῦ πνεύματος). Thai 'พระสัญญา' (royal-register promise) — God's promise. Referent: the Spirit-gift of v.38. Peter extends the promise to the crowd and beyond." },
-        { "greek": "καὶ τοῖς τέκνοις ὑμῶν", "thai": "และลูกหลานของพวกท่าน", "rationale": "Per uW TN figs-explicit/figs-metaphor: τέκνα = literal 'children' OR figurative 'descendants'. Ambiguous; Peter may mean both. Thai 'ลูกหลาน' (children-descendants) preserves the ambiguity — carries both 'literal offspring' and 'descendants' senses naturally." },
-        { "greek": "πᾶσι τοῖς εἰς μακρὰν", "thai": "ทุกคนที่อยู่ไกล", "rationale": "Per uW TN figs-explicit: could mean 'Diaspora Jews in far places' OR 'Gentiles' (the fuller-meaning in retrospect). Thai 'ทุกคนที่อยู่ไกล' preserves the spatial-idiomatic ambiguity. OT echo: Isa 57:19 (εἰρήνη εἰρήνη τοῖς μακρὰν καὶ τοῖς ἐγγύς) — peace to those far and near. Paul picks this up at Eph 2:13, 17 as explicit Jew/Gentile-reconciliation verse." },
-        { "greek": "κύριος ὁ θεὸς ἡμῶν", "thai": "องค์พระผู้เป็นเจ้าพระเจ้าของเรา", "rationale": "LXX-formulaic 'YHWH our God' (cf. Deut 6:4 LXX). Peter's final verse echoes Joel 2:32 (quoted in v.21) and Isa 57:19 — a composite OT-echo at the sermon's closing. Κύριος = YHWH in OT-quotation context → องค์พระผู้เป็นเจ้า. Per uW TN figs-exclusive: ἡμῶν inclusive 'our' (Peter + crowd + apostles — all share Israel's God). Thai 'ของเรา' naturally inclusive." }
+        {
+          "greek": "ἡ ἐπαγγελία",
+          "thai": "พระสัญญานี้",
+          "rationale": "Same lexeme as v.33 (τὴν ἐπαγγελίαν τοῦ πνεύματος). Thai 'พระสัญญา' (royal-register promise) — God's promise. Referent: the Spirit-gift of v.38. Peter extends the promise to the crowd and beyond."
+        },
+        {
+          "greek": "καὶ τοῖς τέκνοις ὑμῶν",
+          "thai": "และลูกหลานของพวกท่าน",
+          "rationale": "Per uW TN figs-explicit/figs-metaphor: τέκνα = literal 'children' OR figurative 'descendants'. Ambiguous; Peter may mean both. Thai 'ลูกหลาน' (children-descendants) preserves the ambiguity — carries both 'literal offspring' and 'descendants' senses naturally."
+        },
+        {
+          "greek": "πᾶσι τοῖς εἰς μακρὰν",
+          "thai": "ทุกคนที่อยู่ไกล",
+          "rationale": "Per uW TN figs-explicit: could mean 'Diaspora Jews in far places' OR 'Gentiles' (the fuller-meaning in retrospect). Thai 'ทุกคนที่อยู่ไกล' preserves the spatial-idiomatic ambiguity. OT echo: Isa 57:19 (εἰρήνη εἰρήνη τοῖς μακρὰν καὶ τοῖς ἐγγύς) — peace to those far and near. Paul picks this up at Eph 2:13, 17 as explicit Jew/Gentile-reconciliation verse."
+        },
+        {
+          "greek": "κύριος ὁ θεὸς ἡμῶν",
+          "thai": "องค์พระผู้เป็นเจ้าพระเจ้าของเรา",
+          "rationale": "LXX-formulaic 'YHWH our God' (cf. Deut 6:4 LXX). Peter's final verse echoes Joel 2:32 (quoted in v.21) and Isa 57:19 — a composite OT-echo at the sermon's closing. Κύριος = YHWH in OT-quotation context → องค์พระผู้เป็นเจ้า. Per uW TN figs-exclusive: ἡμῶν inclusive 'our' (Peter + crowd + apostles — all share Israel's God). Thai 'ของเรา' naturally inclusive."
+        }
       ],
       "notes": "OT ALLUSION: Isa 57:19 (τοῖς μακρὰν καὶ τοῖς ἐγγύς 'to the far and to the near' — LXX) + Joel 2:32b continuation ('whom the Lord our God calls'). The 'far off' language becomes theologically pivotal — Paul will develop it as the Jew/Gentile reconciliation framework at Eph 2:13-17. Peter, at this moment, likely understood 'far' primarily as Diaspora Jews; Luke, writing with Acts 10's retrospect, lets the language do double-duty. ADDED TO NT_OT_CITATIONS for Isa 57:19 + Joel 2:32b composite allusion."
     }
@@ -710,13 +1186,25 @@
     "greek": "ἑτέροις τε λόγοις πλείοσιν διεμαρτύρατο,καὶ παρεκάλει αὐτοὺς λέγων·Σώθητε ἀπὸ τῆς γενεᾶς τῆς σκολιᾶς ταύτης.",
     "bsb_english": "With many other words he testified, and he urged them, \"Be saved from this corrupt generation.\"",
     "translation": {
-      "thai": "เปโตรยังได้เป็นพยานยืนยันและเร่งเร้าพวกเขาด้วยถ้อยคำอื่นอีกเป็นอันมาก กล่าวว่า «จงรับการช่วยให้พ้นจากคนยุคที่คดเคี้ยวนี้เถิด»",
+      "thai": "เปโตรยังได้เป็นพยานยืนยันและเร่งเร้าพวกเขาด้วยถ้อยคำอื่นอีกเป็นอันมาก กล่าวว่า “จงรับการช่วยให้พ้นจากคนยุคที่คดเคี้ยวนี้เถิด”",
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "διεμαρτύρατο καὶ παρεκάλει αὐτοὺς (hendiadys)", "thai": "ได้เป็นพยานยืนยันและเร่งเร้าพวกเขา", "rationale": "Per uW TN figs-hendiadys: two verbs expressing one intensified idea ('he testified urgently/earnestly'). However, the two verbs each carry distinct nuance: διαμαρτύρομαι 'testify solemnly' + παρακαλέω 'urge/exhort'. Thai preserves the pair ('เป็นพยานยืนยัน' + 'เร่งเร้า') rather than collapsing — the double-verb captures both the content-witness and the exhortation-dimension." },
-        { "greek": "Σώθητε (aor. pass. imp.)", "thai": "จงรับการช่วยให้พ้น", "rationale": "Per uW TN figs-activepassive: aorist passive imperative 'be saved' — agent (God) implicit. Thai 'จงรับการช่วยให้พ้น' (receive the saving / be delivered) preserves the receptive-passive register. Alternative 'จงได้รับความรอด' considered; chose 'ช่วยให้พ้น' to emphasize the deliverance-from-judgment sense in this specific context (salvation-from-generation)." },
-        { "greek": "ἀπὸ τῆς γενεᾶς τῆς σκολιᾶς ταύτης", "thai": "จากคนยุคที่คดเคี้ยวนี้", "rationale": "Per uW TN figs-explicit: σκολιός 'crooked / perverse' — describes moral twistedness. OT echo: Deut 32:5 (γενεὰ σκολιὰ καὶ διεστραμμένη 'crooked and perverse generation' — LXX); Ps 78:8 LXX. Thai 'คดเคี้ยว' (crooked/winding) preserves the moral-metaphor; 'คนยุค' renders γενεά (generation/age) naturally." }
+        {
+          "greek": "διεμαρτύρατο καὶ παρεκάλει αὐτοὺς (hendiadys)",
+          "thai": "ได้เป็นพยานยืนยันและเร่งเร้าพวกเขา",
+          "rationale": "Per uW TN figs-hendiadys: two verbs expressing one intensified idea ('he testified urgently/earnestly'). However, the two verbs each carry distinct nuance: διαμαρτύρομαι 'testify solemnly' + παρακαλέω 'urge/exhort'. Thai preserves the pair ('เป็นพยานยืนยัน' + 'เร่งเร้า') rather than collapsing — the double-verb captures both the content-witness and the exhortation-dimension."
+        },
+        {
+          "greek": "Σώθητε (aor. pass. imp.)",
+          "thai": "จงรับการช่วยให้พ้น",
+          "rationale": "Per uW TN figs-activepassive: aorist passive imperative 'be saved' — agent (God) implicit. Thai 'จงรับการช่วยให้พ้น' (receive the saving / be delivered) preserves the receptive-passive register. Alternative 'จงได้รับความรอด' considered; chose 'ช่วยให้พ้น' to emphasize the deliverance-from-judgment sense in this specific context (salvation-from-generation)."
+        },
+        {
+          "greek": "ἀπὸ τῆς γενεᾶς τῆς σκολιᾶς ταύτης",
+          "thai": "จากคนยุคที่คดเคี้ยวนี้",
+          "rationale": "Per uW TN figs-explicit: σκολιός 'crooked / perverse' — describes moral twistedness. OT echo: Deut 32:5 (γενεὰ σκολιὰ καὶ διεστραμμένη 'crooked and perverse generation' — LXX); Ps 78:8 LXX. Thai 'คดเคี้ยว' (crooked/winding) preserves the moral-metaphor; 'คนยุค' renders γενεά (generation/age) naturally."
+        }
       ],
       "notes": "OT ALLUSION: Deut 32:5 LXX γενεὰ σκολιὰ — Moses' song about the perverse generation. Peter frames the current unbelieving-Israel as analogous to the exodus-era rebels. Paul will echo this at Phil 2:15 (ἐν μέσῳ γενεᾶς σκολιᾶς καὶ διεστραμμένης). The urgent tone ('be saved FROM this generation') signals eschatological urgency — the coming judgment of v.20. ADDED TO NT_OT_CITATIONS for Deut 32:5 LXX allusion."
     }
@@ -732,9 +1220,21 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἀποδεξάμενοι τὸν λόγον αὐτοῦ", "thai": "รับคำของเปโตร", "rationale": "Per uW TN figs-idiom + figs-metonymy: ἀποδέχομαι 'receive/welcome' + λόγον 'word/message'. The received-as-true idiom. Thai 'รับคำ' natural idiom for 'receive and accept what someone said'. 'ของเปโตร' makes the speaker explicit (Greek's αὐτοῦ is contextually Peter)." },
-        { "greek": "ἐβαπτίσθησαν (aor. pass. 3pl)", "thai": "ก็รับบัพติศมา", "rationale": "Per uW TN figs-activepassive: passive but agent could be Peter + apostles + potentially other believers (given the 3000 count). Thai 'รับบัพติศมา' (receive baptism) captures the receptive-passive side; agent implicit." },
-        { "greek": "προσετέθησαν ... ψυχαὶ ὡσεὶ τρισχίλιαι (τρισχίλιοι hapax)", "thai": "มีคนเข้ามาร่วมด้วยประมาณสามพันคน", "rationale": "τρισχίλιοι NT hapax (only here) = 'three thousand'. Per uW TN figs-synecdoche: ψυχαί 'souls' for people. προστίθημι pass. = 'were added' — to the believing community. Thai 'คน' (people) naturally renders the soul-for-person synecdoche; 'เข้ามาร่วมด้วย' captures the added-to-community sense without requiring the 'church' noun to be explicit. ὡσεί 'about' → 'ประมาณ'. 'สามพันคน' — numerical precision." }
+        {
+          "greek": "ἀποδεξάμενοι τὸν λόγον αὐτοῦ",
+          "thai": "รับคำของเปโตร",
+          "rationale": "Per uW TN figs-idiom + figs-metonymy: ἀποδέχομαι 'receive/welcome' + λόγον 'word/message'. The received-as-true idiom. Thai 'รับคำ' natural idiom for 'receive and accept what someone said'. 'ของเปโตร' makes the speaker explicit (Greek's αὐτοῦ is contextually Peter)."
+        },
+        {
+          "greek": "ἐβαπτίσθησαν (aor. pass. 3pl)",
+          "thai": "ก็รับบัพติศมา",
+          "rationale": "Per uW TN figs-activepassive: passive but agent could be Peter + apostles + potentially other believers (given the 3000 count). Thai 'รับบัพติศมา' (receive baptism) captures the receptive-passive side; agent implicit."
+        },
+        {
+          "greek": "προσετέθησαν ... ψυχαὶ ὡσεὶ τρισχίλιαι (τρισχίλιοι hapax)",
+          "thai": "มีคนเข้ามาร่วมด้วยประมาณสามพันคน",
+          "rationale": "τρισχίλιοι NT hapax (only here) = 'three thousand'. Per uW TN figs-synecdoche: ψυχαί 'souls' for people. προστίθημι pass. = 'were added' — to the believing community. Thai 'คน' (people) naturally renders the soul-for-person synecdoche; 'เข้ามาร่วมด้วย' captures the added-to-community sense without requiring the 'church' noun to be explicit. ὡσεί 'about' → 'ประมาณ'. 'สามพันคน' — numerical precision."
+        }
       ],
       "notes": "HAPAX: τρισχίλιοι. The Pentecost harvest: 3000 added in one day. Luke's numerical-tracking will continue through Acts (4:4 = 5000; 5:14, 6:7, 9:31, 11:21, 21:20 etc.). The lexical 'were added' (προσετέθησαν) will be echoed at v.47 ('the Lord added to them daily') — forming the inclusio of the Pentecost-church pericope. No textual variant."
     }
@@ -750,11 +1250,31 @@
       "thai_literal": null,
       "thai_summary": "ข้อนี้เป็นภาพรวมสั้นๆ ของชีวิตคริสตจักรยุคแรกตั้งแต่วันเพ็นเทคอสต์ — กิจสี่อย่างที่ผู้เชื่อใหม่ทั้งสามพันคนและเหล่าอัครทูตทำร่วมกันอย่างสม่ำเสมอ คำสั่งสอนของเหล่าอัครทูต (หลักข้อเชื่อและคำสอนของพระเยซู) การสามัคคีธรรม (ความสัมพันธ์ในพระคริสต์) การหักขนมปัง (อาหารร่วมและ/หรือพิธีระลึกพระกายพระโลหิต) และการอธิษฐาน (ทั้งร่วมกันและส่วนตัว) สี่สิ่งนี้กลายเป็นต้นแบบของคริสตจักรตลอดสองพันปีที่ผ่านมา",
       "key_decisions": [
-        { "greek": "ἦσαν προσκαρτεροῦντες (periphrastic impf.)", "thai": "อุทิศตน", "rationale": "προσκαρτερέω = 'persist in / devote oneself to'. Periphrastic imperfect emphasizes ongoing dedication. Thai 'อุทิศตน' (devote oneself) carries the continuous-commitment register. Repeats in v.46 with ὁμοθυμαδόν for emphasis." },
-        { "greek": "τῇ διδαχῇ τῶν ἀποστόλων", "thai": "คำสั่งสอนของเหล่าอัครทูต", "rationale": "Per uW TN figs-abstractnouns: διδαχή 'teaching' — the body of apostolic instruction (eventually crystallizing into NT writings). Thai 'คำสั่งสอน' standard Thai biblical rendering." },
-        { "greek": "τῇ κοινωνίᾳ", "thai": "การสามัคคีธรรม", "rationale": "κοινωνία = 'fellowship / sharing / communion'. Thai 'สามัคคีธรรม' is the established Thai Christian term — combines 'unity' + 'dharma/teaching' for Christian-fellowship register." },
-        { "greek": "τῇ κλάσει τοῦ ἄρτου", "thai": "การหักขนมปัง", "rationale": "Per uW TN figs-synecdoche + figs-explicit: 'breaking of bread' — could mean (a) sharing meals, (b) Lord's Supper. Ambiguous. Thai 'การหักขนมปัง' literal-faithful rendering preserves the ambiguity — Thai Christians also read the phrase with both senses. Note: THSV and NTV render similarly." },
-        { "greek": "ταῖς προσευχαῖς", "thai": "การอธิษฐาน", "rationale": "προσευχή 'prayer' → 'การอธิษฐาน' standard Thai Christian rendering. Plural ταῖς προσευχαῖς likely reflects the set-daily-prayer-times of Jewish piety (cf. Acts 3:1); Thai preserves without over-specifying." }
+        {
+          "greek": "ἦσαν προσκαρτεροῦντες (periphrastic impf.)",
+          "thai": "อุทิศตน",
+          "rationale": "προσκαρτερέω = 'persist in / devote oneself to'. Periphrastic imperfect emphasizes ongoing dedication. Thai 'อุทิศตน' (devote oneself) carries the continuous-commitment register. Repeats in v.46 with ὁμοθυμαδόν for emphasis."
+        },
+        {
+          "greek": "τῇ διδαχῇ τῶν ἀποστόλων",
+          "thai": "คำสั่งสอนของเหล่าอัครทูต",
+          "rationale": "Per uW TN figs-abstractnouns: διδαχή 'teaching' — the body of apostolic instruction (eventually crystallizing into NT writings). Thai 'คำสั่งสอน' standard Thai biblical rendering."
+        },
+        {
+          "greek": "τῇ κοινωνίᾳ",
+          "thai": "การสามัคคีธรรม",
+          "rationale": "κοινωνία = 'fellowship / sharing / communion'. Thai 'สามัคคีธรรม' is the established Thai Christian term — combines 'unity' + 'dharma/teaching' for Christian-fellowship register."
+        },
+        {
+          "greek": "τῇ κλάσει τοῦ ἄρτου",
+          "thai": "การหักขนมปัง",
+          "rationale": "Per uW TN figs-synecdoche + figs-explicit: 'breaking of bread' — could mean (a) sharing meals, (b) Lord's Supper. Ambiguous. Thai 'การหักขนมปัง' literal-faithful rendering preserves the ambiguity — Thai Christians also read the phrase with both senses. Note: THSV and NTV render similarly."
+        },
+        {
+          "greek": "ταῖς προσευχαῖς",
+          "thai": "การอธิษฐาน",
+          "rationale": "προσευχή 'prayer' → 'การอธิษฐาน' standard Thai Christian rendering. Plural ταῖς προσευχαῖς likely reflects the set-daily-prayer-times of Jewish piety (cf. Acts 3:1); Thai preserves without over-specifying."
+        }
       ],
       "notes": "Classic four-fold summary of early-church practice — cited frequently in ecclesiology discussions. The verse marks the transition from Pentecost-event (vv. 1-41) to church-life summary (vv. 42-47). Luke will repeat the pattern at Acts 4:32-35 and 5:12-16 — his narrative-summary style."
     }
@@ -770,8 +1290,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἐγίνετο ... πάσῃ ψυχῇ φόβος", "thai": "ทุกคนต่างเกิดความเกรงกลัว", "rationale": "Per uW TN figs-personification + figs-synecdoche + figs-hyperbole: φόβος personified as coming-upon; ψυχή synecdoche for person; πᾶς hyperbolic generalization. Thai 'ทุกคนต่างเกิดความเกรงกลัว' naturalizes all three figures into plain Thai. φόβος here = reverential awe (not fear of harm) — context specifies this is response to divine-presence signs. 'เกรงกลัว' captures the reverence-awe register." },
-        { "greek": "πολλά ... τέρατα καὶ σημεῖα διὰ τῶν ἀποστόλων ἐγίνετο", "thai": "มีการอัศจรรย์กับหมายสำคัญมากมายที่เกิดขึ้นโดยเหล่าอัครทูต", "rationale": "Per uW TN figs-explicit + figs-doublet: 'through the apostles' implies God as ultimate agent; wonders+signs doublet mirrors v.22. Thai 'การอัศจรรย์กับหมายสำคัญ' parallels v.22 rendering (continuity). Passive 'เกิดขึ้นโดย' preserves the divine-agency implication without forcing 'God did' surface-language." }
+        {
+          "greek": "ἐγίνετο ... πάσῃ ψυχῇ φόβος",
+          "thai": "ทุกคนต่างเกิดความเกรงกลัว",
+          "rationale": "Per uW TN figs-personification + figs-synecdoche + figs-hyperbole: φόβος personified as coming-upon; ψυχή synecdoche for person; πᾶς hyperbolic generalization. Thai 'ทุกคนต่างเกิดความเกรงกลัว' naturalizes all three figures into plain Thai. φόβος here = reverential awe (not fear of harm) — context specifies this is response to divine-presence signs. 'เกรงกลัว' captures the reverence-awe register."
+        },
+        {
+          "greek": "πολλά ... τέρατα καὶ σημεῖα διὰ τῶν ἀποστόλων ἐγίνετο",
+          "thai": "มีการอัศจรรย์กับหมายสำคัญมากมายที่เกิดขึ้นโดยเหล่าอัครทูต",
+          "rationale": "Per uW TN figs-explicit + figs-doublet: 'through the apostles' implies God as ultimate agent; wonders+signs doublet mirrors v.22. Thai 'การอัศจรรย์กับหมายสำคัญ' parallels v.22 rendering (continuity). Passive 'เกิดขึ้นโดย' preserves the divine-agency implication without forcing 'God did' surface-language."
+        }
       ],
       "notes": "Luke's deliberate lexical mirroring: the same τέρατα καὶ σημεῖα that attested Jesus in v.22 now attest the apostles. The apostolic era continues Jesus' ministry (cf. Acts 1:1 'what Jesus BEGAN to do'). The communal awe (φόβος) is a Lucan-favorite response-to-divine-presence marker (Luke 1:12, 1:65, 5:26, 7:16, 8:25, 8:35, 8:37; Acts 5:5, 5:11)."
     }
@@ -787,8 +1315,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἐπὶ τὸ αὐτὸ", "thai": "อยู่ร่วมกัน", "rationale": "Recurring Lucan phrase (vv. 1, 44, 47). Here in 2:44 per uW TN the sense shifts slightly toward fellowship/accord rather than purely spatial — 'united in Christian fellowship' per Acts-Introduction Pt. 3. Thai 'อยู่ร่วมกัน' (be together) retains the core togetherness while being flexible enough for both 'in the same place' and 'in accord' senses." },
-        { "greek": "εἶχον ἅπαντα κοινά", "thai": "แบ่งปันทุกสิ่งแก่กันและกัน", "rationale": "Per uW TN figs-hyperbole: 'all things common' is hyperbolic for 'generously shared'. Literal 'มีทุกสิ่งร่วมกัน' could mislead into communist-reading; Thai 'แบ่งปัน ... แก่กันและกัน' captures the sharing-practice without erasing the generosity-idiom. V.45 elaborates the specific practice." }
+        {
+          "greek": "ἐπὶ τὸ αὐτὸ",
+          "thai": "อยู่ร่วมกัน",
+          "rationale": "Recurring Lucan phrase (vv. 1, 44, 47). Here in 2:44 per uW TN the sense shifts slightly toward fellowship/accord rather than purely spatial — 'united in Christian fellowship' per Acts-Introduction Pt. 3. Thai 'อยู่ร่วมกัน' (be together) retains the core togetherness while being flexible enough for both 'in the same place' and 'in accord' senses."
+        },
+        {
+          "greek": "εἶχον ἅπαντα κοινά",
+          "thai": "แบ่งปันทุกสิ่งแก่กันและกัน",
+          "rationale": "Per uW TN figs-hyperbole: 'all things common' is hyperbolic for 'generously shared'. Literal 'มีทุกสิ่งร่วมกัน' could mislead into communist-reading; Thai 'แบ่งปัน ... แก่กันและกัน' captures the sharing-practice without erasing the generosity-idiom. V.45 elaborates the specific practice."
+        }
       ],
       "notes": "The communal-goods summary (elaborated in 4:32-35). Luke presents this as post-Pentecost Spirit-filled generosity — not forced-communism but voluntary-radical-generosity. No textual variant."
     }
@@ -804,9 +1340,21 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "τὰ κτήματα καὶ τὰς ὑπάρξεις (doublet)", "thai": "ทรัพย์สินและข้าวของ", "rationale": "Per uW TN figs-doublet: κτῆμα + ὕπαρξις near-synonyms for 'property/possessions'. κτῆμα often land/real-estate; ὕπαρξις movable goods. Thai 'ทรัพย์สิน' (wealth-property) + 'ข้าวของ' (goods-belongings) preserves the doublet with distinct nuances. Rejected: collapsing into 'ทรัพย์สมบัติ' (flattens the distinction)." },
-        { "greek": "διεμέριζον αὐτὰ πᾶσιν (iterative impf.)", "thai": "แบ่งให้ทุกคน", "rationale": "Per uW TN writing-pronouns: αὐτά refers to the money received from sales (not the possessions themselves). But διεμέριζον + 'to everyone' can naturally refer to either — Thai 'แบ่งให้' is flexible. Iterative imperfect signals habitual distribution, not one-time act." },
-        { "greek": "καθότι ἄν τις χρείαν εἶχεν", "thai": "ตามที่แต่ละคนต้องการ", "rationale": "'According as anyone had need' — distributive-by-need formula. Marx's later 'to each according to his need' is a direct echo of this Greek construction. Thai 'ตามที่แต่ละคนต้องการ' captures the proportional-by-need principle naturally. Per uW TN." }
+        {
+          "greek": "τὰ κτήματα καὶ τὰς ὑπάρξεις (doublet)",
+          "thai": "ทรัพย์สินและข้าวของ",
+          "rationale": "Per uW TN figs-doublet: κτῆμα + ὕπαρξις near-synonyms for 'property/possessions'. κτῆμα often land/real-estate; ὕπαρξις movable goods. Thai 'ทรัพย์สิน' (wealth-property) + 'ข้าวของ' (goods-belongings) preserves the doublet with distinct nuances. Rejected: collapsing into 'ทรัพย์สมบัติ' (flattens the distinction)."
+        },
+        {
+          "greek": "διεμέριζον αὐτὰ πᾶσιν (iterative impf.)",
+          "thai": "แบ่งให้ทุกคน",
+          "rationale": "Per uW TN writing-pronouns: αὐτά refers to the money received from sales (not the possessions themselves). But διεμέριζον + 'to everyone' can naturally refer to either — Thai 'แบ่งให้' is flexible. Iterative imperfect signals habitual distribution, not one-time act."
+        },
+        {
+          "greek": "καθότι ἄν τις χρείαν εἶχεν",
+          "thai": "ตามที่แต่ละคนต้องการ",
+          "rationale": "'According as anyone had need' — distributive-by-need formula. Marx's later 'to each according to his need' is a direct echo of this Greek construction. Thai 'ตามที่แต่ละคนต้องการ' captures the proportional-by-need principle naturally. Per uW TN."
+        }
       ],
       "notes": "The iterative imperfects (ἐπίπρασκον, διεμέριζον) describe ongoing practice rather than a one-time event — periodic sale and distribution as needs arose. Luke's portrait: generous, need-responsive, Spirit-filled. No textual variant."
     }
@@ -822,10 +1370,26 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ὁμοθυμαδόν", "thai": "พร้อมใจกัน", "rationale": "ὁμοθυμαδόν = 'with one accord / unanimously'. Lucan Acts favorite (10× in Acts). Thai 'พร้อมใจกัน' (with-together-hearts) captures the one-accord register naturally. Same rendering at Acts 1:14." },
-        { "greek": "ἐν τῷ ἱερῷ", "thai": "ที่พระวิหาร", "rationale": "Per uW TN figs-metonymy: 'the temple' = temple courtyard (not the inner sanctuary; only priests could enter). Thai 'พระวิหาร' — the royal-register temple is understood in Thai Christianity as the temple-complex including courtyards, so the metonymy carries. Rejected: 'บริเวณพระวิหาร' (over-specifies; adds commentary-text into translation)." },
-        { "greek": "κλῶντές ... κατ’οἶκον ἄρτον", "thai": "หักขนมปังตามบ้านต่างๆ", "rationale": "Per uW TN figs-synecdoche: 'breaking bread' here seems to mean sharing meals (less liturgical-Eucharistic than v.42, given the κατ’οἶκον 'from house to house' domestic setting). Thai 'หักขนมปังตามบ้านต่างๆ' preserves the ambiguity." },
-        { "greek": "ἐν ἀγαλλιάσει καὶ ἀφελότητι (ἀφελότης hapax) καρδίας", "thai": "ด้วยความชื่นชมยินดีและด้วยใจจริง", "rationale": "ἀφελότης (NT hapax) = 'simplicity / sincerity / singleness of heart'. Per uW TN figs-metaphor + figs-abstractnouns: καρδία metaphor for emotions; abstract-nouns rendered as adverbs in Thai. 'ความชื่นชมยินดี' for ἀγαλλίασις (exultation); 'ด้วยใจจริง' for ἀφελότης καρδίας (sincerity-of-heart) — 'ใจจริง' captures the single-hearted sincerity register." }
+        {
+          "greek": "ὁμοθυμαδόν",
+          "thai": "พร้อมใจกัน",
+          "rationale": "ὁμοθυμαδόν = 'with one accord / unanimously'. Lucan Acts favorite (10× in Acts). Thai 'พร้อมใจกัน' (with-together-hearts) captures the one-accord register naturally. Same rendering at Acts 1:14."
+        },
+        {
+          "greek": "ἐν τῷ ἱερῷ",
+          "thai": "ที่พระวิหาร",
+          "rationale": "Per uW TN figs-metonymy: 'the temple' = temple courtyard (not the inner sanctuary; only priests could enter). Thai 'พระวิหาร' — the royal-register temple is understood in Thai Christianity as the temple-complex including courtyards, so the metonymy carries. Rejected: 'บริเวณพระวิหาร' (over-specifies; adds commentary-text into translation)."
+        },
+        {
+          "greek": "κλῶντές ... κατ’οἶκον ἄρτον",
+          "thai": "หักขนมปังตามบ้านต่างๆ",
+          "rationale": "Per uW TN figs-synecdoche: 'breaking bread' here seems to mean sharing meals (less liturgical-Eucharistic than v.42, given the κατ’οἶκον 'from house to house' domestic setting). Thai 'หักขนมปังตามบ้านต่างๆ' preserves the ambiguity."
+        },
+        {
+          "greek": "ἐν ἀγαλλιάσει καὶ ἀφελότητι (ἀφελότης hapax) καρδίας",
+          "thai": "ด้วยความชื่นชมยินดีและด้วยใจจริง",
+          "rationale": "ἀφελότης (NT hapax) = 'simplicity / sincerity / singleness of heart'. Per uW TN figs-metaphor + figs-abstractnouns: καρδία metaphor for emotions; abstract-nouns rendered as adverbs in Thai. 'ความชื่นชมยินดี' for ἀγαλλίασις (exultation); 'ด้วยใจจริง' for ἀφελότης καρδίας (sincerity-of-heart) — 'ใจจริง' captures the single-hearted sincerity register."
+        }
       ],
       "notes": "HAPAX: ἀφελότης. The two-location ministry — public (temple courtyard) + private (house-to-house) — becomes the apostolic Acts-pattern (cf. Acts 5:42). Thai 'ทุกๆ วัน' (every day) preserves the καθ’ἡμέραν distributive sense. The combination of Jewish-temple practice + Christian-home fellowship reflects the early Jerusalem community's pre-separation period."
     }
@@ -839,12 +1403,28 @@
     "translation": {
       "thai": "สรรเสริญพระเจ้า และเป็นที่ชื่นชอบของประชาชนทั้งปวง องค์พระผู้เป็นเจ้าก็ทรงเพิ่มผู้ที่กำลังได้รับความรอดเข้ามาร่วมกับพวกเขาทุกวัน",
       "thai_literal": null,
-      "thai_summary": "ข้อปิดท้ายของบทนี้สรุปว่าการเติบโตของคริสตจักรเป็นงานของพระเจ้า ไม่ใช่ของมนุษย์ «องค์พระผู้เป็นเจ้าก็ทรงเพิ่ม» — เปโตรและเหล่าอัครทูตประกาศข่าวประเสริฐ แต่การที่คนจะเชื่อและรอดเป็นงานของพระเจ้าเอง ลูกาจะใช้ถ้อยคำทำนองนี้ซ้ำหลายครั้งในกิจการ (6:7; 9:31; 12:24; 19:20) เป็นเหมือนเครื่องหมายวัดการเติบโตของคริสตจักรในแต่ละช่วงของเรื่อง ทุกวันมีคนใหม่เพิ่มเข้ามา — พระเจ้าทรงประทานความรอดตามพระสัญญาในข้อ 21 และ 39",
+      "thai_summary": "ข้อปิดท้ายของบทนี้สรุปว่าการเติบโตของคริสตจักรเป็นงานของพระเจ้า ไม่ใช่ของมนุษย์ “องค์พระผู้เป็นเจ้าก็ทรงเพิ่ม” — เปโตรและเหล่าอัครทูตประกาศข่าวประเสริฐ แต่การที่คนจะเชื่อและรอดเป็นงานของพระเจ้าเอง ลูกาจะใช้ถ้อยคำทำนองนี้ซ้ำหลายครั้งในกิจการ (6:7; 9:31; 12:24; 19:20) เป็นเหมือนเครื่องหมายวัดการเติบโตของคริสตจักรในแต่ละช่วงของเรื่อง ทุกวันมีคนใหม่เพิ่มเข้ามา — พระเจ้าทรงประทานความรอดตามพระสัญญาในข้อ 21 และ 39",
       "key_decisions": [
-        { "greek": "αἰνοῦντες τὸν θεὸν καὶ ἔχοντες χάριν πρὸς ὅλον τὸν λαόν", "thai": "สรรเสริญพระเจ้า และเป็นที่ชื่นชอบของประชาชนทั้งปวง", "rationale": "Per uW TN figs-hyperbole: 'the whole people' = generalization for widely-favored. Thai 'สรรเสริญพระเจ้า' (standard praise) + 'เป็นที่ชื่นชอบของประชาชน' captures the favor-with-people register. χάριν here = 'favor / goodwill'." },
-        { "greek": "ὁ δὲ κύριος προσετίθει", "thai": "องค์พระผู้เป็นเจ้าก็ทรงเพิ่ม", "rationale": "Narrator-voice κύριος referring to Jesus — per kyrios_narrator_voice_luke_acts decision → องค์พระผู้เป็นเจ้า. The exalted Jesus (vv. 33, 36) is the active-subject adding new believers. Iterative imperfect προσετίθει ('was adding') → 'ทรงเพิ่ม' royal-register. Thai preserves the Christological reading: the risen Lord himself builds the church." },
-        { "greek": "τοὺς σῳζομένους (pres. pass. ptc.)", "thai": "ผู้ที่กำลังได้รับความรอด", "rationale": "Per uW TN figs-activepassive: pres. passive participle 'those being saved'. Agent implicit (God saves). The present tense emphasizes the ongoing process — not yet-fully-saved but in-the-process-of-being-saved. Thai 'ผู้ที่กำลังได้รับความรอด' preserves the progressive-passive. Rejected: 'คนรอด' (flattens the process) or 'ผู้ที่จะได้รับความรอด' (shifts to future)." },
-        { "greek": "ἐπὶ τὸ αὐτό", "thai": "เข้ามาร่วมกับพวกเขา", "rationale": "Fourth occurrence of the Lucan ἐπὶ τὸ αὐτό phrase (cf. vv. 1, 44). Per uW TN Acts-Introduction Pt. 3: here the sense is 'to their Christian fellowship / to their group'. Thai 'เข้ามาร่วมกับพวกเขา' captures the joining-the-group sense naturally — community-addition rather than mere spatial." }
+        {
+          "greek": "αἰνοῦντες τὸν θεὸν καὶ ἔχοντες χάριν πρὸς ὅλον τὸν λαόν",
+          "thai": "สรรเสริญพระเจ้า และเป็นที่ชื่นชอบของประชาชนทั้งปวง",
+          "rationale": "Per uW TN figs-hyperbole: 'the whole people' = generalization for widely-favored. Thai 'สรรเสริญพระเจ้า' (standard praise) + 'เป็นที่ชื่นชอบของประชาชน' captures the favor-with-people register. χάριν here = 'favor / goodwill'."
+        },
+        {
+          "greek": "ὁ δὲ κύριος προσετίθει",
+          "thai": "องค์พระผู้เป็นเจ้าก็ทรงเพิ่ม",
+          "rationale": "Narrator-voice κύριος referring to Jesus — per kyrios_narrator_voice_luke_acts decision → องค์พระผู้เป็นเจ้า. The exalted Jesus (vv. 33, 36) is the active-subject adding new believers. Iterative imperfect προσετίθει ('was adding') → 'ทรงเพิ่ม' royal-register. Thai preserves the Christological reading: the risen Lord himself builds the church."
+        },
+        {
+          "greek": "τοὺς σῳζομένους (pres. pass. ptc.)",
+          "thai": "ผู้ที่กำลังได้รับความรอด",
+          "rationale": "Per uW TN figs-activepassive: pres. passive participle 'those being saved'. Agent implicit (God saves). The present tense emphasizes the ongoing process — not yet-fully-saved but in-the-process-of-being-saved. Thai 'ผู้ที่กำลังได้รับความรอด' preserves the progressive-passive. Rejected: 'คนรอด' (flattens the process) or 'ผู้ที่จะได้รับความรอด' (shifts to future)."
+        },
+        {
+          "greek": "ἐπὶ τὸ αὐτό",
+          "thai": "เข้ามาร่วมกับพวกเขา",
+          "rationale": "Fourth occurrence of the Lucan ἐπὶ τὸ αὐτό phrase (cf. vv. 1, 44). Per uW TN Acts-Introduction Pt. 3: here the sense is 'to their Christian fellowship / to their group'. Thai 'เข้ามาร่วมกับพวกเขา' captures the joining-the-group sense naturally — community-addition rather than mere spatial."
+        }
       ],
       "notes": "Chapter-closing summary-verse. The 'Lord adding' motif becomes a Lucan narrative refrain (Acts 5:14, 11:24). Luke emphasizes divine agency in church-growth — preaching and repentance are visible; but the ultimate agent of inclusion is the risen Lord himself. The inclusio with v.41 (3000 added on day one) and v.47 (daily addition) frames the Pentecost-pericope with the growth-through-divine-initiative theme. Narrator-voice κύριος = Jesus → องค์พระผู้เป็นเจ้า per the Luke-Acts corpus decision. No textual variant. [Chapter closes.]"
     }

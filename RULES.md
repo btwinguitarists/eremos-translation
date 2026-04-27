@@ -198,6 +198,28 @@ Luke 24 contains the traditional cluster of **Westcott-Hort's "Western non-inter
 
 ---
 
+## 5b. Punctuation conventions (locked 2026-04-27)
+
+**Quotation marks (Thai-language fields only):**
+
+- **Outer / direct speech**: `“…”` (U+201C / U+201D — curly double quotes)
+- **Nested / inner / quote-within-quote**: `‘…’` (U+2018 / U+2019 — curly single quotes)
+- **Apply to**: `translation.thai`, `translation.thai_literal`, `translation.thai_summary`, `translation.key_decisions[].thai`.
+- **Do NOT apply to**: `greek`, `bsb_english`, `reference` (source fields stay pristine).
+- For mixed-language fields (`translation.notes`, `translation.key_decisions[].rationale`, `translation.key_decisions[].greek`): use the same convention for any Thai content; preserve real English apostrophes (`it's`, `don't`) as straight `'`.
+
+This matches modern Thai publishing convention (TNCV, NTV) and what an educated Thai reader expects in a polished biblical text.
+
+**Why this is the convention** (added 2026-04-27): the corpus drifted into three inconsistent quote conventions across its first 100 chapters — guillemets `«»` / `‹›` in Matthew/Luke/John/Acts/1 Timothy, straight `'` outer + `"` nested in Mark 1–7, and straight `"` outer + `'` nested in Mark 8+. PR #51 unified the entire corpus to curly `“”` / `‘’` via mechanical conversion + per-chapter detection of Mark's drifting outer character. Going forward, all new chapters must use this convention from the start.
+
+**Other punctuation:**
+
+- **Inclusion-variant brackets**: `[…]` Tier 1 short-phrase, `⟦…⟧` Tier 3 large-block (per §5).
+- **Em-dashes**: `—` (U+2014). Use for parenthetical asides, abrupt direction-shifts, and where a Thai sentence break would be too hard. Don't use `--` (double hyphen) or `-` (single hyphen) for this purpose.
+- **Question marks** for direct rhetorical questions in dialog use Thai-style placement (no space before `?`).
+
+---
+
 ## 6. Verse-level output shape
 
 Every verse in `output/translations/<book>_<NN>.json` must have:

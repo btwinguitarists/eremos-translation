@@ -8,12 +8,28 @@
     "translation": {
       "thai": "อยู่มาในคราวนั้น มีพระราชโองการจากจักรพรรดิซีซาร์ออกัสตัสประกาศออกไป ให้มีการจดทะเบียนสำมะโนประชากรทั่วทั้งจักรวรรดิ",
       "thai_literal": null,
-      "thai_summary": "ลูกาเชื่อมโยงการประสูติของพระเยซูกับประวัติศาสตร์โลก «จักรพรรดิซีซาร์ออกัสตัส» (ออกเตเวียน หลานเลี้ยงของจูเลียส ซีซาร์) ครองราชย์ 27 ก่อนคริสตกาล ถึง ค.ศ. 14 เป็นจักรพรรดิโรมันองค์แรก คำว่า «โอกูโซ» ในภาษากรีกคือคำยกย่อง แปลว่า «ผู้ประเสริฐ» — ชาวโรมันถวายแก่จักรพรรดิเยี่ยงเทพ แต่ลูกาใช้การสำมะโนของออกัสตัสเพียงเป็นฉากหลังให้การประสูติของ «พระผู้ช่วยให้รอด» ที่แท้จริง",
+      "thai_summary": "ลูกาเชื่อมโยงการประสูติของพระเยซูกับประวัติศาสตร์โลก “จักรพรรดิซีซาร์ออกัสตัส” (ออกเตเวียน หลานเลี้ยงของจูเลียส ซีซาร์) ครองราชย์ 27 ก่อนคริสตกาล ถึง ค.ศ. 14 เป็นจักรพรรดิโรมันองค์แรก คำว่า “โอกูโซ” ในภาษากรีกคือคำยกย่อง แปลว่า “ผู้ประเสริฐ” — ชาวโรมันถวายแก่จักรพรรดิเยี่ยงเทพ แต่ลูกาใช้การสำมะโนของออกัสตัสเพียงเป็นฉากหลังให้การประสูติของ “พระผู้ช่วยให้รอด” ที่แท้จริง",
       "key_decisions": [
-        {"greek": "Ἐγένετο δὲ ἐν ταῖς ἡμέραις ἐκείναις", "thai": "อยู่มาในคราวนั้น", "rationale": "LXX-Hebraic narrative opener (וַיְהִי בַּיָּמִים הָהֵם), per uW writing-newevent. Same pattern as LUK 1:5 Ἐγένετο ἐν ταῖς ἡμέραις. Thai อยู่มาในคราวนั้น preserves the formal biblical-narrative flavor without the awkwardness of a literal 'it came to pass'"},
-        {"greek": "δόγμα", "thai": "พระราชโองการ", "rationale": "δόγμα (NT freq 5) = imperial decree/edict. Thai พระราชโองการ uses royal register (พระราช-) appropriate for an imperial edict. Matches LXX Dan 2:13; 6:9 usage"},
-        {"greek": "Καίσαρος Αὐγούστου", "thai": "จักรพรรดิซีซาร์ออกัสตัส", "rationale": "HAPAX: Αὐγοῦστος — the honorific title 'August/Revered' taken by Octavian 27 BC. Per uW writing-participants + translate-names. Thai จักรพรรดิ makes the imperial office explicit (uW suggestion); ซีซาร์ is the title; ออกัสตัส transliterated from Greek. Standard Thai Christian usage"},
-        {"greek": "ἀπογράφεσθαι πᾶσαν τὴν οἰκουμένην", "thai": "ให้มีการจดทะเบียนสำมะโนประชากรทั่วทั้งจักรวรรดิ", "rationale": "ἀπογράφω (NT freq 4) = register/enroll, technical term for census/tax-registration. Per uW figs-explicit: for tax purposes. Per uW figs-metonymy: οἰκουμένη 'inhabited world' = the Roman Empire specifically. Thai จดทะเบียนสำมะโนประชากร captures the census-registration sense; จักรวรรดิ = empire"}
+        {
+          "greek": "Ἐγένετο δὲ ἐν ταῖς ἡμέραις ἐκείναις",
+          "thai": "อยู่มาในคราวนั้น",
+          "rationale": "LXX-Hebraic narrative opener (וַיְהִי בַּיָּמִים הָהֵם), per uW writing-newevent. Same pattern as LUK 1:5 Ἐγένετο ἐν ταῖς ἡμέραις. Thai อยู่มาในคราวนั้น preserves the formal biblical-narrative flavor without the awkwardness of a literal 'it came to pass'"
+        },
+        {
+          "greek": "δόγμα",
+          "thai": "พระราชโองการ",
+          "rationale": "δόγμα (NT freq 5) = imperial decree/edict. Thai พระราชโองการ uses royal register (พระราช-) appropriate for an imperial edict. Matches LXX Dan 2:13; 6:9 usage"
+        },
+        {
+          "greek": "Καίσαρος Αὐγούστου",
+          "thai": "จักรพรรดิซีซาร์ออกัสตัส",
+          "rationale": "HAPAX: Αὐγοῦστος — the honorific title 'August/Revered' taken by Octavian 27 BC. Per uW writing-participants + translate-names. Thai จักรพรรดิ makes the imperial office explicit (uW suggestion); ซีซาร์ is the title; ออกัสตัส transliterated from Greek. Standard Thai Christian usage"
+        },
+        {
+          "greek": "ἀπογράφεσθαι πᾶσαν τὴν οἰκουμένην",
+          "thai": "ให้มีการจดทะเบียนสำมะโนประชากรทั่วทั้งจักรวรรดิ",
+          "rationale": "ἀπογράφω (NT freq 4) = register/enroll, technical term for census/tax-registration. Per uW figs-explicit: for tax purposes. Per uW figs-metonymy: οἰκουμένη 'inhabited world' = the Roman Empire specifically. Thai จดทะเบียนสำมะโนประชากร captures the census-registration sense; จักรวรรดิ = empire"
+        }
       ],
       "notes": "HAPAX: Αὐγοῦστος (only here in NT). ἀπογράφω + ἀπογραφή appear only in this Lukan narrative (4x total in NT, all here and Acts 5:37). Historical context: Augustus reigned 27 BC-AD 14. Luke roots the nativity in imperial-Roman time — a literary move characteristic of his historiographical method (cf. LUK 3:1 which similarly dates John's ministry by Tiberius, Pilate, Herod, etc.). LXX-Hebraic opener Ἐγένετο δὲ resumes the style of LUK 1:5 after the Hellenistic prologue of 1:1-4."
     }
@@ -27,10 +43,18 @@
     "translation": {
       "thai": "(นี่เป็นการสำมะโนประชากรครั้งแรก ทำขึ้นเมื่อคีรีนิอัสเป็นผู้ว่าราชการแคว้นซีเรีย)",
       "thai_literal": null,
-      "thai_summary": "ข้อนี้เป็นปมประวัติศาสตร์ที่ถกเถียงกัน เพราะปูบลิอัส ซุลปิชิอัส คีรีนิอัส เป็นผู้ว่าราชการซีเรียในปี ค.ศ. 6 ซึ่งเป็นหลังเฮโรดมหาราชสิ้นพระชนม์ (4 ก่อนคริสตกาล) มีสามทางออกที่นักวิชาการเสนอ: (1) คำว่า «ครั้งแรก» (โปรเต) อาจแปลว่า «ก่อน» — คือ «การสำมะโนนี้เกิดขึ้นก่อนที่คีรีนิอัสจะเป็นผู้ว่าราชการ», (2) คีรีนิอัสอาจมีอำนาจในภูมิภาคนี้ก่อนที่จะดำรงตำแหน่งผู้ว่าราชการอย่างเป็นทางการ, (3) อาจมีการสำมะโนครั้งแรกที่ไม่ได้บันทึกในเอกสารโรมันที่ตกมาถึงเรา",
+      "thai_summary": "ข้อนี้เป็นปมประวัติศาสตร์ที่ถกเถียงกัน เพราะปูบลิอัส ซุลปิชิอัส คีรีนิอัส เป็นผู้ว่าราชการซีเรียในปี ค.ศ. 6 ซึ่งเป็นหลังเฮโรดมหาราชสิ้นพระชนม์ (4 ก่อนคริสตกาล) มีสามทางออกที่นักวิชาการเสนอ: (1) คำว่า “ครั้งแรก” (โปรเต) อาจแปลว่า “ก่อน” — คือ “การสำมะโนนี้เกิดขึ้นก่อนที่คีรีนิอัสจะเป็นผู้ว่าราชการ”, (2) คีรีนิอัสอาจมีอำนาจในภูมิภาคนี้ก่อนที่จะดำรงตำแหน่งผู้ว่าราชการอย่างเป็นทางการ, (3) อาจมีการสำมะโนครั้งแรกที่ไม่ได้บันทึกในเอกสารโรมันที่ตกมาถึงเรา",
       "key_decisions": [
-        {"greek": "ἀπογραφὴ πρώτη", "thai": "การสำมะโนประชากรครั้งแรก", "rationale": "ἀπογραφή (NT freq 2) cognate of v.1 verb. πρώτη can mean 'first' or (adverbially) 'before.' Preserving 'first' as the natural reading; historical puzzle is documented in thai_summary + notes"},
-        {"greek": "ἡγεμονεύοντος τῆς Συρίας Κυρηνίου", "thai": "เมื่อคีรีนิอัสเป็นผู้ว่าราชการแคว้นซีเรีย", "rationale": "HAPAX: Κυρήνιος (Latin Quirinius). ἡγεμονεύω (NT freq 2) = govern. Thai ผู้ว่าราชการ = provincial governor. คีรีนิอัส standard Thai Christian transliteration of Latin Quirinius (via Greek Κυρήνιος). Συρία → ซีเรีย standard. Genitive-absolute construction preserved as Thai temporal clause"}
+        {
+          "greek": "ἀπογραφὴ πρώτη",
+          "thai": "การสำมะโนประชากรครั้งแรก",
+          "rationale": "ἀπογραφή (NT freq 2) cognate of v.1 verb. πρώτη can mean 'first' or (adverbially) 'before.' Preserving 'first' as the natural reading; historical puzzle is documented in thai_summary + notes"
+        },
+        {
+          "greek": "ἡγεμονεύοντος τῆς Συρίας Κυρηνίου",
+          "thai": "เมื่อคีรีนิอัสเป็นผู้ว่าราชการแคว้นซีเรีย",
+          "rationale": "HAPAX: Κυρήνιος (Latin Quirinius). ἡγεμονεύω (NT freq 2) = govern. Thai ผู้ว่าราชการ = provincial governor. คีรีนิอัส standard Thai Christian transliteration of Latin Quirinius (via Greek Κυρήνιος). Συρία → ซีเรีย standard. Genitive-absolute construction preserved as Thai temporal clause"
+        }
       ],
       "notes": "HISTORICAL CRUX: Publius Sulpicius Quirinius served as legate of Syria AD 6, recorded in Josephus (Ant. 18.1.1) as conducting the census that caused Judas of Galilee's revolt (cf. Acts 5:37). But Herod the Great died 4 BC. Options: (1) πρώτη as 'before' (πρώτη + gen can be comparative; cf. JHN 1:15 πρῶτός μου = 'before me'); (2) an earlier census under Quirinius in a prior regional appointment (some evidence Quirinius had military command in the East c. 12-2 BC, including the Homonadensian war); (3) 'first' modifies the aux 'took place,' i.e. 'this was the census that first took place under Quirinius' — distinguishing Luke's context from the later AD 6 census Josephus describes. Evangelical consensus (Marshall, Bock, Carson-Moo, Nolland) favors option 1 or 2. Not a contradiction with Matthew, whose nativity also fits under Herod."
     }
@@ -46,7 +70,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        {"greek": "εἰς τὴν ἑαυτοῦ πόλιν", "thai": "ไปยังเมืองของตน", "rationale": "Per uW figs-explicit: 'his own city' = ancestral hometown, not residence. Thai เมืองของตน captures the ancestral-hometown sense naturally"}
+        {
+          "greek": "εἰς τὴν ἑαυτοῦ πόλιν",
+          "thai": "ไปยังเมืองของตน",
+          "rationale": "Per uW figs-explicit: 'his own city' = ancestral hometown, not residence. Thai เมืองของตน captures the ancestral-hometown sense naturally"
+        }
       ],
       "notes": "Roman Egyptian census documents (e.g., P.Lond. 904) confirm the practice of returning to a home-district (idia) for registration. Luke's detail fits documented 1st-century census procedure."
     }
@@ -60,11 +88,23 @@
     "translation": {
       "thai": "โยเซฟจึงออกจากเมืองนาซาเร็ธในแคว้นกาลิลี ขึ้นไปยังแคว้นยูเดีย สู่เมืองของดาวิดที่เรียกว่าเบธเลเฮม เพราะท่านเป็นเชื้อสายและวงศ์ตระกูลของดาวิด",
       "thai_literal": null,
-      "thai_summary": "เบธเลเฮมถูกเรียกว่า «เมืองของดาวิด» เพราะกษัตริย์ดาวิดมาจากที่นั่น (1 ซามูเอล 16:1, 17:12) ลูการะบุว่าโยเซฟเป็นเชื้อสายดาวิดเพื่อทำให้ผู้อ่านเข้าใจว่า การประสูติในเบธเลเฮมเป็นไปตามพระธรรมมีคาห์ 5:2 ที่ว่าพระเมสสิยาห์จะประสูติในเบธเลเฮม — ลูกาไม่ได้อ้างข้อนั้นตรง ๆ (เหมือนที่มัทธิว 2:6 อ้าง) แต่บอกรายละเอียดให้ผู้อ่านเชื่อมโยงเอง",
+      "thai_summary": "เบธเลเฮมถูกเรียกว่า “เมืองของดาวิด” เพราะกษัตริย์ดาวิดมาจากที่นั่น (1 ซามูเอล 16:1, 17:12) ลูการะบุว่าโยเซฟเป็นเชื้อสายดาวิดเพื่อทำให้ผู้อ่านเข้าใจว่า การประสูติในเบธเลเฮมเป็นไปตามพระธรรมมีคาห์ 5:2 ที่ว่าพระเมสสิยาห์จะประสูติในเบธเลเฮม — ลูกาไม่ได้อ้างข้อนั้นตรง ๆ (เหมือนที่มัทธิว 2:6 อ้าง) แต่บอกรายละเอียดให้ผู้อ่านเชื่อมโยงเอง",
       "key_decisions": [
-        {"greek": "Ἀνέβη", "thai": "ขึ้นไป", "rationale": "Per uW figs-idiom: lit. 'went up' — geographically accurate because Judea is higher elevation, and Jerusalem was customarily the direction one 'went up' to (though technically Bethlehem is south of Nazareth). Preserving ขึ้นไป since the Thai idiom is the same (ขึ้นกรุงเทพ etc.)"},
-        {"greek": "πόλιν Δαυὶδ ἥτις καλεῖται Βηθλέεμ", "thai": "เมืองของดาวิด ที่เรียกว่าเบธเลเฮม", "rationale": "Per uW figs-explicit: Bethlehem known as 'city of David' because David's ancestral home. Thai เมืองของดาวิด preserves the genitive-of-origin appositive. Δαυίδ → ดาวิด established (cf. MAT 1). Βηθλέεμ → เบธเลเฮม standard Thai Christian transliteration"},
-        {"greek": "ἐξ οἴκου καὶ πατριᾶς Δαυίδ", "thai": "เป็นเชื้อสายและวงศ์ตระกูลของดาวิด", "rationale": "Per uW figs-hendiadys: 'house and family-line' single concept = royal descent. Following LUK 1:27 style, I preserve the doublet (เชื้อสาย + วงศ์ตระกูล) rather than collapse, reflecting Hebraic pair-style. οἶκος as dynastic house; πατριά (NT freq 3) = paternal clan/lineage"}
+        {
+          "greek": "Ἀνέβη",
+          "thai": "ขึ้นไป",
+          "rationale": "Per uW figs-idiom: lit. 'went up' — geographically accurate because Judea is higher elevation, and Jerusalem was customarily the direction one 'went up' to (though technically Bethlehem is south of Nazareth). Preserving ขึ้นไป since the Thai idiom is the same (ขึ้นกรุงเทพ etc.)"
+        },
+        {
+          "greek": "πόλιν Δαυὶδ ἥτις καλεῖται Βηθλέεμ",
+          "thai": "เมืองของดาวิด ที่เรียกว่าเบธเลเฮม",
+          "rationale": "Per uW figs-explicit: Bethlehem known as 'city of David' because David's ancestral home. Thai เมืองของดาวิด preserves the genitive-of-origin appositive. Δαυίδ → ดาวิด established (cf. MAT 1). Βηθλέεμ → เบธเลเฮม standard Thai Christian transliteration"
+        },
+        {
+          "greek": "ἐξ οἴκου καὶ πατριᾶς Δαυίδ",
+          "thai": "เป็นเชื้อสายและวงศ์ตระกูลของดาวิด",
+          "rationale": "Per uW figs-hendiadys: 'house and family-line' single concept = royal descent. Following LUK 1:27 style, I preserve the doublet (เชื้อสาย + วงศ์ตระกูล) rather than collapse, reflecting Hebraic pair-style. οἶκος as dynastic house; πατριά (NT freq 3) = paternal clan/lineage"
+        }
       ],
       "notes": "Micah 5:2 prophecy of Messianic birth in Bethlehem hovers behind the narrative without explicit citation — Luke prefers to let the informed reader connect. οἶκος + πατριά doublet reinforces Davidic legitimacy: any child of Joseph is a legal Davidic heir via adoption. πατριά (LXX common for mishpachah 'clan') adds the tribal-subdivision precision beyond οἶκος alone. ADDED TO NT_OT_CITATIONS: LUK 2:4 thematic_allusion to MIC 5:2 (Messianic birth in Bethlehem)."
     }
@@ -80,8 +120,16 @@
       "thai_literal": null,
       "thai_summary": "ในวัฒนธรรมชาวยิวศตวรรษแรก การหมั้น (เอรูซิน) ถือเป็นข้อผูกพันทางกฎหมายเทียบเท่ากับการสมรสแล้ว — ต้องมีการหย่าอย่างเป็นทางการเพื่อยกเลิก (มัทธิว 1:19) แม้ยังไม่ได้อยู่กินด้วยกัน โยเซฟและมารีย์เดินทางราว 150 กิโลเมตรจากนาซาเร็ธถึงเบธเลเฮม ขณะที่มารีย์ใกล้คลอด ซึ่งเป็นการเดินทางที่ยากลำบากอย่างยิ่ง",
       "key_decisions": [
-        {"greek": "τῇ ἐμνηστευμένῃ αὐτῷ", "thai": "คู่หมั้นของท่าน", "rationale": "μνηστεύω perfect passive = 'betrothed.' Per uW figs-explicit + figs-activepassive: betrothal was legally binding, functionally equivalent to married. Following LUK 1:27 with คู่หมั้น (established glossary). Thai captures the legal-bond sense without over-explicating"},
-        {"greek": "οὔσῃ ἐγκύῳ", "thai": "ซึ่งกำลังตั้งครรภ์อยู่", "rationale": "HAPAX: ἔγκυος (only here in NT) — 'with child, pregnant.' Thai ตั้งครรภ์ standard. Luke handles Mary's pregnancy with dignified restraint — no explicit comment on the virginal conception here; LUK 1:26-38 has already established the miracle"}
+        {
+          "greek": "τῇ ἐμνηστευμένῃ αὐτῷ",
+          "thai": "คู่หมั้นของท่าน",
+          "rationale": "μνηστεύω perfect passive = 'betrothed.' Per uW figs-explicit + figs-activepassive: betrothal was legally binding, functionally equivalent to married. Following LUK 1:27 with คู่หมั้น (established glossary). Thai captures the legal-bond sense without over-explicating"
+        },
+        {
+          "greek": "οὔσῃ ἐγκύῳ",
+          "thai": "ซึ่งกำลังตั้งครรภ์อยู่",
+          "rationale": "HAPAX: ἔγκυος (only here in NT) — 'with child, pregnant.' Thai ตั้งครรภ์ standard. Luke handles Mary's pregnancy with dignified restraint — no explicit comment on the virginal conception here; LUK 1:26-38 has already established the miracle"
+        }
       ],
       "notes": "HAPAX: ἔγκυος (only occurrence in NT). Luke's restrained reporting of Mary's pregnancy is characteristic — the virgin-birth theological claim was established in 1:34-35 and is simply assumed here. The betrothal (ἐρρηνευμένη) in Second Temple Judaism was legally marriage-equivalent (t.Ketub. 1.4 — requires divorce to terminate); only physical cohabitation was delayed until the nissu'in wedding ceremony."
     }
@@ -97,7 +145,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        {"greek": "ἐπλήσθησαν αἱ ἡμέραι τοῦ τεκεῖν αὐτήν", "thai": "ถึงเวลาที่นางจะประสูติพระกุมาร", "rationale": "Per uW figs-activepassive + figs-idiom: 'the days were fulfilled for her to give birth' — Hebraic idiom 'days were completed.' Thai ถึงเวลา + ประสูติ (royal-register for divine birth, cf. LUK 1:31, 1:57). Using พระกุมาร as honorific for the divine infant, though strictly it's Mary's action (τεκεῖν αὐτήν) — object-insertion clarifies for Thai"}
+        {
+          "greek": "ἐπλήσθησαν αἱ ἡμέραι τοῦ τεκεῖν αὐτήν",
+          "thai": "ถึงเวลาที่นางจะประสูติพระกุมาร",
+          "rationale": "Per uW figs-activepassive + figs-idiom: 'the days were fulfilled for her to give birth' — Hebraic idiom 'days were completed.' Thai ถึงเวลา + ประสูติ (royal-register for divine birth, cf. LUK 1:31, 1:57). Using พระกุมาร as honorific for the divine infant, though strictly it's Mary's action (τεκεῖν αὐτήν) — object-insertion clarifies for Thai"
+        }
       ],
       "notes": "Ἐγένετο δὲ narrative-marker resumes the LXX-Hebraic style. The passive ἐπλήσθησαν is a divine-passive echo — the appointed fullness of time (cf. Gal 4:4 πλήρωμα τοῦ χρόνου)."
     }
@@ -111,12 +163,28 @@
     "translation": {
       "thai": "นางก็ประสูติพระบุตรหัวปี ทรงห่อพระกุมารด้วยผ้าอ้อม แล้ววางพระองค์ไว้ในรางหญ้า เพราะไม่มีที่พักสำหรับพวกเขา",
       "thai_literal": null,
-      "thai_summary": "คำว่า «ที่พัก» (กะตะลือมา) อาจหมายถึงห้องรับแขกในบ้านของญาติ ไม่ใช่โรงแรม — ลูกาใช้คำเดียวกันนี้ในบทที่ 22:11 สำหรับห้องรับแขกที่พระเยซูทรงเลี้ยงปัสกา หากเป็นโรงแรม ลูกาจะใช้คำ «ปันโดเคออน» (ดู 10:34 เรื่องชาวสะมาเรียใจดี) บ้านหลายหลังในปาเลสไตน์สมัยนั้นมีพื้นที่ชั้นล่างสำหรับสัตว์เลี้ยง ซึ่งมีรางหญ้าตั้งอยู่ — อาจเป็นที่โยเซฟและมารีย์พักแรมเพราะห้องรับแขกเต็ม คำว่า «หัวปี» (โพรโทโทคอส) ไม่ได้หมายความว่ามารีย์มีบุตรหลายคนเสมอไป — แต่เป็นคำทางกฎหมายในวัฒนธรรมชาวยิวที่หมายถึงบุตรชายคนแรกผู้ได้รับมรดกพิเศษและต้องถวายแด่พระเจ้า (อพยพ 13:2)",
+      "thai_summary": "คำว่า “ที่พัก” (กะตะลือมา) อาจหมายถึงห้องรับแขกในบ้านของญาติ ไม่ใช่โรงแรม — ลูกาใช้คำเดียวกันนี้ในบทที่ 22:11 สำหรับห้องรับแขกที่พระเยซูทรงเลี้ยงปัสกา หากเป็นโรงแรม ลูกาจะใช้คำ “ปันโดเคออน” (ดู 10:34 เรื่องชาวสะมาเรียใจดี) บ้านหลายหลังในปาเลสไตน์สมัยนั้นมีพื้นที่ชั้นล่างสำหรับสัตว์เลี้ยง ซึ่งมีรางหญ้าตั้งอยู่ — อาจเป็นที่โยเซฟและมารีย์พักแรมเพราะห้องรับแขกเต็ม คำว่า “หัวปี” (โพรโทโทคอส) ไม่ได้หมายความว่ามารีย์มีบุตรหลายคนเสมอไป — แต่เป็นคำทางกฎหมายในวัฒนธรรมชาวยิวที่หมายถึงบุตรชายคนแรกผู้ได้รับมรดกพิเศษและต้องถวายแด่พระเจ้า (อพยพ 13:2)",
       "key_decisions": [
-        {"greek": "τὸν υἱὸν αὐτῆς τὸν πρωτότοκον", "thai": "พระบุตรหัวปี", "rationale": "πρωτότοκος (NT freq 8) = firstborn — technical term. Thai หัวปี standard + พระบุตร (royal-register Son). The word carries legal weight (firstborn's consecration in Exod 13:2, fulfilled in v.22-23 here). Does NOT imply Mary had other children afterward (contra perpetual-virginity debate); merely identifies Jesus as firstborn-legally. That is a wider theological debate to be handled book-wide, but the lexical meaning is simply 'firstborn'"},
-        {"greek": "ἐσπαργάνωσεν αὐτὸν", "thai": "ทรงห่อพระกุมารด้วยผ้าอ้อม", "rationale": "σπαργανόω (NT freq 2, here and v.12) = swaddle, wrap tightly in cloth bands. Standard ancient Near-Eastern infant care. Per uW figs-explicit: comforts infant. Thai ห่อพระกุมารด้วยผ้าอ้อม uses royal pregnant form พระกุมาร for the divine infant. ทรง- is subject-Mary respectful-toward-Jesus action"},
-        {"greek": "ἀνέκλινεν αὐτὸν ἐν φάτνῃ", "thai": "วางพระองค์ไว้ในรางหญ้า", "rationale": "ἀνακλίνω (NT freq 6) = lay down, recline. φάτνη (NT freq 4) = manger/feeding-trough. Per uW translate-unknown: a feed-box for animals, typically stone or wood. Thai รางหญ้า (lit. 'hay-trough') standard established Thai Christian term"},
-        {"greek": "οὐκ ἦν αὐτοῖς τόπος ἐν τῷ καταλύματι", "thai": "ไม่มีที่พักสำหรับพวกเขา", "rationale": "κατάλυμα (NT freq 3: here, LUK 22:11, MRK 14:14) — significantly, at LUK 22:11 + MRK 14:14 it denotes the 'guest room' for the Last Supper, NOT a commercial inn. Per uW translate-unknown: likely 'guest room' rather than 'inn'; Luke uses πανδοχεῖον (LUK 10:34) when he means commercial inn. Thai ที่พัก is ambiguous enough to cover both; main-text stays readable, notes document the scholarly preference for 'guest room'"}
+        {
+          "greek": "τὸν υἱὸν αὐτῆς τὸν πρωτότοκον",
+          "thai": "พระบุตรหัวปี",
+          "rationale": "πρωτότοκος (NT freq 8) = firstborn — technical term. Thai หัวปี standard + พระบุตร (royal-register Son). The word carries legal weight (firstborn's consecration in Exod 13:2, fulfilled in v.22-23 here). Does NOT imply Mary had other children afterward (contra perpetual-virginity debate); merely identifies Jesus as firstborn-legally. That is a wider theological debate to be handled book-wide, but the lexical meaning is simply 'firstborn'"
+        },
+        {
+          "greek": "ἐσπαργάνωσεν αὐτὸν",
+          "thai": "ทรงห่อพระกุมารด้วยผ้าอ้อม",
+          "rationale": "σπαργανόω (NT freq 2, here and v.12) = swaddle, wrap tightly in cloth bands. Standard ancient Near-Eastern infant care. Per uW figs-explicit: comforts infant. Thai ห่อพระกุมารด้วยผ้าอ้อม uses royal pregnant form พระกุมาร for the divine infant. ทรง- is subject-Mary respectful-toward-Jesus action"
+        },
+        {
+          "greek": "ἀνέκλινεν αὐτὸν ἐν φάτνῃ",
+          "thai": "วางพระองค์ไว้ในรางหญ้า",
+          "rationale": "ἀνακλίνω (NT freq 6) = lay down, recline. φάτνη (NT freq 4) = manger/feeding-trough. Per uW translate-unknown: a feed-box for animals, typically stone or wood. Thai รางหญ้า (lit. 'hay-trough') standard established Thai Christian term"
+        },
+        {
+          "greek": "οὐκ ἦν αὐτοῖς τόπος ἐν τῷ καταλύματι",
+          "thai": "ไม่มีที่พักสำหรับพวกเขา",
+          "rationale": "κατάλυμα (NT freq 3: here, LUK 22:11, MRK 14:14) — significantly, at LUK 22:11 + MRK 14:14 it denotes the 'guest room' for the Last Supper, NOT a commercial inn. Per uW translate-unknown: likely 'guest room' rather than 'inn'; Luke uses πανδοχεῖον (LUK 10:34) when he means commercial inn. Thai ที่พัก is ambiguous enough to cover both; main-text stays readable, notes document the scholarly preference for 'guest room'"
+        }
       ],
       "notes": "κατάλυμα interpretation: uW, Bailey (2008 Jesus Through Middle Eastern Eyes), and most recent scholarship argue this was a guest-room in a private home, not a commercial inn. Luke uses πανδοχεῖον for commercial inn (LUK 10:34 Good Samaritan). First-century Palestinian peasant homes typically had a family-level living space + a lower-level animal-shelter area containing a manger (φάτνη) — Mary-Joseph likely displaced to the animal-shelter area when the guest room filled. Rustic but not the bleak no-shelter scene of traditional Western iconography. HAPAX-SENSE: σπαργανόω only here and v.12, emphasizing the 'sign' character of the swaddling detail. πρωτότοκος — theologically important; firstborn consecration (Exod 13:2, 15; Num 3:12-13) sets up v.22-23. ADDED TO NT_OT_CITATIONS: LUK 2:7 thematic_allusion to EXO 13:2 (firstborn consecration — anticipates vv.22-23)."
     }
@@ -130,11 +198,23 @@
     "translation": {
       "thai": "ในแถบนั้นมีคนเลี้ยงแกะพักอยู่กลางทุ่ง ผลัดเวรเฝ้าฝูงแกะของตนในเวลากลางคืน",
       "thai_literal": null,
-      "thai_summary": "คนเลี้ยงแกะในอิสราเอลโบราณถูกมองว่ามีสถานะทางสังคมต่ำและมักไม่น่าเชื่อถือในฐานะพยานตามกฎหมาย แต่ลูกาเน้นว่าพระเจ้าทรงเลือกคนเหล่านี้เป็นผู้รับข่าวประเสริฐเป็นกลุ่มแรก — เป็นลักษณะเด่นของลูกาที่แสดงให้เห็นว่าพระเมสสิยาห์เสด็จมาเพื่อคนชายขอบและคนที่ถูกมองข้าม (เทียบ 1:52 «พระองค์ทรงยกชูผู้ต่ำต้อยขึ้น») นอกจากนี้ ฝูงแกะในเขตเบธเลเฮมบางส่วนอาจเป็นแกะที่เลี้ยงสำหรับถวายในพระวิหาร ซึ่งก็เป็นภาพที่น่าคิดว่าพระเมษโปดกของพระเจ้าประสูติท่ามกลางแกะเหล่านี้",
+      "thai_summary": "คนเลี้ยงแกะในอิสราเอลโบราณถูกมองว่ามีสถานะทางสังคมต่ำและมักไม่น่าเชื่อถือในฐานะพยานตามกฎหมาย แต่ลูกาเน้นว่าพระเจ้าทรงเลือกคนเหล่านี้เป็นผู้รับข่าวประเสริฐเป็นกลุ่มแรก — เป็นลักษณะเด่นของลูกาที่แสดงให้เห็นว่าพระเมสสิยาห์เสด็จมาเพื่อคนชายขอบและคนที่ถูกมองข้าม (เทียบ 1:52 “พระองค์ทรงยกชูผู้ต่ำต้อยขึ้น”) นอกจากนี้ ฝูงแกะในเขตเบธเลเฮมบางส่วนอาจเป็นแกะที่เลี้ยงสำหรับถวายในพระวิหาร ซึ่งก็เป็นภาพที่น่าคิดว่าพระเมษโปดกของพระเจ้าประสูติท่ามกลางแกะเหล่านี้",
       "key_decisions": [
-        {"greek": "ποιμένες", "thai": "คนเลี้ยงแกะ", "rationale": "ποιμήν standard Thai biblical คนเลี้ยงแกะ. Important socio-theological marker: Luke's inclusion of lowly shepherds as first evangelists-hearers aligns with the Magnificat's reversal theme (LUK 1:51-53)"},
-        {"greek": "ἀγραυλοῦντες", "thai": "พักอยู่กลางทุ่ง", "rationale": "HAPAX: ἀγραυλέω (only here in NT) — 'field-dwell,' be outdoors in the fields, camp out. From ἀγρός 'field' + αὐλή 'courtyard/dwelling.' Thai พักอยู่กลางทุ่ง captures the open-air-camping sense"},
-        {"greek": "φυλάσσοντες φυλακὰς", "thai": "ผลัดเวรเฝ้า", "rationale": "Cognate-accusative idiom (φυλάσσω + φυλακή) — characteristic Hebraic emphasis. 'Keeping watches' implies rotating night watches (φυλακή can mean watch-shift, cf. MRK 6:48). Thai ผลัดเวรเฝ้า captures the rotating-watch sense"}
+        {
+          "greek": "ποιμένες",
+          "thai": "คนเลี้ยงแกะ",
+          "rationale": "ποιμήν standard Thai biblical คนเลี้ยงแกะ. Important socio-theological marker: Luke's inclusion of lowly shepherds as first evangelists-hearers aligns with the Magnificat's reversal theme (LUK 1:51-53)"
+        },
+        {
+          "greek": "ἀγραυλοῦντες",
+          "thai": "พักอยู่กลางทุ่ง",
+          "rationale": "HAPAX: ἀγραυλέω (only here in NT) — 'field-dwell,' be outdoors in the fields, camp out. From ἀγρός 'field' + αὐλή 'courtyard/dwelling.' Thai พักอยู่กลางทุ่ง captures the open-air-camping sense"
+        },
+        {
+          "greek": "φυλάσσοντες φυλακὰς",
+          "thai": "ผลัดเวรเฝ้า",
+          "rationale": "Cognate-accusative idiom (φυλάσσω + φυλακή) — characteristic Hebraic emphasis. 'Keeping watches' implies rotating night watches (φυλακή can mean watch-shift, cf. MRK 6:48). Thai ผลัดเวรเฝ้า captures the rotating-watch sense"
+        }
       ],
       "notes": "HAPAX: ἀγραυλέω (only here in NT). Cognate-accusative 'keeping watches' (φυλάσσοντες φυλακάς) is a Hebraism echoing LXX Num 1:53; 3:7-8. Tradition holds these were shepherds near Migdal Eder ('Tower of the Flock' — Mic 4:8 messianic overtone) tending lambs destined for temple sacrifice, given Bethlehem's proximity to Jerusalem and the priestly economy; while this is not stated by Luke, the intertextual resonance with Mic 4:8 + the lamb-of-God motif is suggestive. Luke's social-reversal theme: angels announce Messiah to lowly shepherds before kings or scholars. ADDED TO NT_OT_CITATIONS: LUK 2:8 thematic_allusion to MIC 4:8 (Tower of the Flock / messianic shepherd-locale)."
     }
@@ -148,11 +228,23 @@
     "translation": {
       "thai": "ทูตสวรรค์องค์หนึ่งขององค์พระผู้เป็นเจ้าปรากฏแก่พวกเขา และพระสิริขององค์พระผู้เป็นเจ้าส่องสว่างล้อมรอบพวกเขา พวกเขาจึงกลัวจนตัวสั่น",
       "thai_literal": null,
-      "thai_summary": "«พระสิริขององค์พระผู้เป็นเจ้า» (โดซา คีริอู) เป็นคำในพระคัมภีร์เดิมที่ใช้อธิบายการสถิตของพระเจ้า — เสาเมฆในถิ่นทุรกันดาร (อพยพ 16:10), ในพลับพลา (อพยพ 40:34), ที่พระวิหาร (1 พงศ์กษัตริย์ 8:11), ในนิมิตของเอเสเคียล (เอเสเคียล 1:28) การที่พระสิริส่องสว่างล้อมคนเลี้ยงแกะในทุ่งบอกให้รู้ว่าข่าวนี้ไม่ใช่แค่การประกาศธรรมดาของทูตสวรรค์ แต่เป็นการสำแดงพระองค์ของพระเจ้าเองที่มาประทับอยู่ท่ามกลางมนุษย์",
+      "thai_summary": "“พระสิริขององค์พระผู้เป็นเจ้า” (โดซา คีริอู) เป็นคำในพระคัมภีร์เดิมที่ใช้อธิบายการสถิตของพระเจ้า — เสาเมฆในถิ่นทุรกันดาร (อพยพ 16:10), ในพลับพลา (อพยพ 40:34), ที่พระวิหาร (1 พงศ์กษัตริย์ 8:11), ในนิมิตของเอเสเคียล (เอเสเคียล 1:28) การที่พระสิริส่องสว่างล้อมคนเลี้ยงแกะในทุ่งบอกให้รู้ว่าข่าวนี้ไม่ใช่แค่การประกาศธรรมดาของทูตสวรรค์ แต่เป็นการสำแดงพระองค์ของพระเจ้าเองที่มาประทับอยู่ท่ามกลางมนุษย์",
       "key_decisions": [
-        {"greek": "ἄγγελος κυρίου", "thai": "ทูตสวรรค์องค์หนึ่งขององค์พระผู้เป็นเจ้า", "rationale": "Standard OT formula מַלְאַךְ יְהוָה Malʾak YHWH (LXX ἄγγελος κυρίου). κύριος here = YHWH per RULES.md §4 → องค์พระผู้เป็นเจ้า. Thai ทูตสวรรค์องค์หนึ่ง with royal classifier องค์. Established style per LUK 1:11"},
-        {"greek": "δόξα κυρίου περιέλαμψεν αὐτούς", "thai": "พระสิริขององค์พระผู้เป็นเจ้าส่องสว่างล้อมรอบพวกเขา", "rationale": "περιλάμπω (NT freq 2) = shine around. δόξα κυρίου = kavod YHWH, the visible manifestation of God's presence (Exod 24:16; 40:34-35; 1 Kgs 8:11; Ezek 1:28; Isa 60:1). Per uW figs-explicit: this is the theophanic Shekinah. Thai พระสิริ standard glossary for δόξα; ทรง- omitted here because δόξα is the subject, not a divine verb"},
-        {"greek": "ἐφοβήθησαν φόβον μέγαν", "thai": "กลัวจนตัวสั่น", "rationale": "Per uW figs-idiom: Hebraic cognate-accusative 'feared a great fear' = were terrified. Thai กลัวจนตัวสั่น captures intensity idiomatically. Echoes LXX usage (Gen 27:33 ἐφοβήθη...φόβον μέγαν, Jonah 1:10)"}
+        {
+          "greek": "ἄγγελος κυρίου",
+          "thai": "ทูตสวรรค์องค์หนึ่งขององค์พระผู้เป็นเจ้า",
+          "rationale": "Standard OT formula מַלְאַךְ יְהוָה Malʾak YHWH (LXX ἄγγελος κυρίου). κύριος here = YHWH per RULES.md §4 → องค์พระผู้เป็นเจ้า. Thai ทูตสวรรค์องค์หนึ่ง with royal classifier องค์. Established style per LUK 1:11"
+        },
+        {
+          "greek": "δόξα κυρίου περιέλαμψεν αὐτούς",
+          "thai": "พระสิริขององค์พระผู้เป็นเจ้าส่องสว่างล้อมรอบพวกเขา",
+          "rationale": "περιλάμπω (NT freq 2) = shine around. δόξα κυρίου = kavod YHWH, the visible manifestation of God's presence (Exod 24:16; 40:34-35; 1 Kgs 8:11; Ezek 1:28; Isa 60:1). Per uW figs-explicit: this is the theophanic Shekinah. Thai พระสิริ standard glossary for δόξα; ทรง- omitted here because δόξα is the subject, not a divine verb"
+        },
+        {
+          "greek": "ἐφοβήθησαν φόβον μέγαν",
+          "thai": "กลัวจนตัวสั่น",
+          "rationale": "Per uW figs-idiom: Hebraic cognate-accusative 'feared a great fear' = were terrified. Thai กลัวจนตัวสั่น captures intensity idiomatically. Echoes LXX usage (Gen 27:33 ἐφοβήθη...φόβον μέγαν, Jonah 1:10)"
+        }
       ],
       "notes": "δόξα κυρίου (kavod YHWH) is major OT theophanic language: Exod 16:10 cloud in wilderness, Exod 24:16-17 at Sinai, Exod 40:34-35 filling tabernacle, 1 Kgs 8:11 filling temple, Ezek 1:28 + 10 in prophet's visions, Isa 60:1-2 eschatological. Luke signals that the incarnation's announcement is a theophany on a par with Sinai and the tabernacle-filling — the kavod has returned to Israel. Cognate-accusative ἐφοβήθησαν φόβον μέγαν is Hebraic/LXX pattern (φοβέομαι φόβον is standard LXX rendering of Hebrew יָרֵא יִרְאָה). ADDED TO NT_OT_CITATIONS: LUK 2:9 thematic_allusion to EXO 40:34-35 (kavod filling tabernacle); ISA 60:1-2 (light/glory returning)."
     }
@@ -166,11 +258,23 @@
     "translation": {
       "thai": "ทูตสวรรค์จึงกล่าวแก่พวกเขาว่า อย่ากลัวเลย ดูเถิด เราประกาศข่าวประเสริฐอันเป็นที่ยินดียิ่งแก่ท่านทั้งหลาย ซึ่งจะเป็นความยินดีแก่ประชาชนทั้งปวง",
       "thai_literal": null,
-      "thai_summary": "คำว่า «ข่าวประเสริฐ» (ยูอังเกลิซอมัย) เป็นคำภาษากรีกที่ใช้ในการประกาศชัยชนะของจักรพรรดิ — เหรียญและจารึกในจักรวรรดิโรมันในยุคนั้นใช้คำนี้สำหรับ «ข่าวดี» เกี่ยวกับการประสูติ การขึ้นครองราชย์ หรือชัยชนะของจักรพรรดิออกัสตัสเอง ลูกากำลังประกาศว่าพระเยซู — ไม่ใช่ออกัสตัส — คือจักรพรรดิที่แท้จริงที่ทรงนำข่าวประเสริฐแก่โลก",
+      "thai_summary": "คำว่า “ข่าวประเสริฐ” (ยูอังเกลิซอมัย) เป็นคำภาษากรีกที่ใช้ในการประกาศชัยชนะของจักรพรรดิ — เหรียญและจารึกในจักรวรรดิโรมันในยุคนั้นใช้คำนี้สำหรับ “ข่าวดี” เกี่ยวกับการประสูติ การขึ้นครองราชย์ หรือชัยชนะของจักรพรรดิออกัสตัสเอง ลูกากำลังประกาศว่าพระเยซู — ไม่ใช่ออกัสตัส — คือจักรพรรดิที่แท้จริงที่ทรงนำข่าวประเสริฐแก่โลก",
       "key_decisions": [
-        {"greek": "Μὴ φοβεῖσθε", "thai": "อย่ากลัวเลย", "rationale": "Per uW figs-imperative: while grammatically imperative, angel is comforting not commanding. Thai อย่ากลัวเลย (with softening เลย) captures reassurance. Standard angelic-appearance formula (LUK 1:13, 1:30; cf. Gen 15:1, Dan 10:12)"},
-        {"greek": "εὐαγγελίζομαι", "thai": "ประกาศข่าวประเสริฐ", "rationale": "εὐαγγελίζω verb cognate of εὐαγγέλιον (RULES.md §4 → ข่าวประเสริฐ). Thai ประกาศข่าวประเสริฐ standard. Historically loaded: εὐαγγέλιον appears on Augustus-era imperial inscriptions (Priene calendar inscription 9 BC) for the 'good news' of Augustus's birthday — Luke uses the same term now for the true Savior"},
-        {"greek": "παντὶ τῷ λαῷ", "thai": "ประชาชนทั้งปวง", "rationale": "Per uW figs-hyperbole: λαός typically = Israel specifically, but the broader sweep of Luke (esp. 2:32) makes clear salvation extends to all peoples. Preserving inclusive ประชาชนทั้งปวง; παντὶ suggests the universal scope Luke develops in Simeon's canticle and in Acts"}
+        {
+          "greek": "Μὴ φοβεῖσθε",
+          "thai": "อย่ากลัวเลย",
+          "rationale": "Per uW figs-imperative: while grammatically imperative, angel is comforting not commanding. Thai อย่ากลัวเลย (with softening เลย) captures reassurance. Standard angelic-appearance formula (LUK 1:13, 1:30; cf. Gen 15:1, Dan 10:12)"
+        },
+        {
+          "greek": "εὐαγγελίζομαι",
+          "thai": "ประกาศข่าวประเสริฐ",
+          "rationale": "εὐαγγελίζω verb cognate of εὐαγγέλιον (RULES.md §4 → ข่าวประเสริฐ). Thai ประกาศข่าวประเสริฐ standard. Historically loaded: εὐαγγέλιον appears on Augustus-era imperial inscriptions (Priene calendar inscription 9 BC) for the 'good news' of Augustus's birthday — Luke uses the same term now for the true Savior"
+        },
+        {
+          "greek": "παντὶ τῷ λαῷ",
+          "thai": "ประชาชนทั้งปวง",
+          "rationale": "Per uW figs-hyperbole: λαός typically = Israel specifically, but the broader sweep of Luke (esp. 2:32) makes clear salvation extends to all peoples. Preserving inclusive ประชาชนทั้งปวง; παντὶ suggests the universal scope Luke develops in Simeon's canticle and in Acts"
+        }
       ],
       "notes": "εὐαγγελίζομαι carries imperial-political weight in Luke's 1st-century Greco-Roman context. The Priene calendar inscription (9 BC, OGIS 458) announced Augustus's birthday as 'good news' (εὐαγγέλιον) for the world. Luke's angelic εὐαγγελίζομαι for Jesus is a pointed counter-claim: the true emperor has been born. Angelic 'do not fear' follows the theophanic formula common across OT + NT (Gen 15:1 Abraham, Dan 10:12 Daniel, LUK 1:13 Zechariah, LUK 1:30 Mary, MAT 28:5 women at tomb)."
     }
@@ -184,11 +288,23 @@
     "translation": {
       "thai": "ในวันนี้ พระผู้ช่วยให้รอดได้ประสูติแล้วเพื่อท่านทั้งหลาย ในเมืองของดาวิด พระองค์คือพระคริสต์เจ้า",
       "thai_literal": null,
-      "thai_summary": "ข้อนี้เป็นการประกาศที่รวมสามตำแหน่งไว้ด้วยกัน: พระผู้ช่วยให้รอด (โซเทร์), พระคริสต์ (คริสตอส = ผู้ถูกเจิม = พระเมสสิยาห์), องค์พระผู้เป็นเจ้า (คีริออส) — ในพระคัมภีร์เดิมฉบับแปลกรีก (เซปทัวจินต์) คำว่า «คีริออส» ใช้แปลพระนามของพระเจ้า «ยาห์เวห์» ดังนั้นการที่ทูตสวรรค์เรียกทารกนี้ว่า «คีริออส» จึงเท่ากับประกาศความเป็นพระเจ้าของพระเยซูตั้งแต่เริ่มเกิด ในจักรวรรดิโรมันคำว่า «คีริออส» (Lord/Dominus) ยังใช้เรียกจักรพรรดิด้วย — ลูกาจึงท้าทายผู้อ่านให้เลือกระหว่างออกัสตัสในกรุงโรมกับทารกในเบธเลเฮม",
+      "thai_summary": "ข้อนี้เป็นการประกาศที่รวมสามตำแหน่งไว้ด้วยกัน: พระผู้ช่วยให้รอด (โซเทร์), พระคริสต์ (คริสตอส = ผู้ถูกเจิม = พระเมสสิยาห์), องค์พระผู้เป็นเจ้า (คีริออส) — ในพระคัมภีร์เดิมฉบับแปลกรีก (เซปทัวจินต์) คำว่า “คีริออส” ใช้แปลพระนามของพระเจ้า “ยาห์เวห์” ดังนั้นการที่ทูตสวรรค์เรียกทารกนี้ว่า “คีริออส” จึงเท่ากับประกาศความเป็นพระเจ้าของพระเยซูตั้งแต่เริ่มเกิด ในจักรวรรดิโรมันคำว่า “คีริออส” (Lord/Dominus) ยังใช้เรียกจักรพรรดิด้วย — ลูกาจึงท้าทายผู้อ่านให้เลือกระหว่างออกัสตัสในกรุงโรมกับทารกในเบธเลเฮม",
       "key_decisions": [
-        {"greek": "ἐτέχθη...σωτήρ", "thai": "พระผู้ช่วยให้รอดได้ประสูติ", "rationale": "σωτήρ (NT freq 24) = savior/rescuer. Per uW figs-activepassive: divine-passive + born-for-you. Thai พระผู้ช่วยให้รอด standard (เทียบ LUK 1:47 where Mary calls God σωτήρ). ประสูติ royal-register birth for divine child"},
-        {"greek": "χριστὸς κύριος", "thai": "พระคริสต์เจ้า", "rationale": "Critical titular combination — either 'Christ (who is) Lord' or 'Christ-Lord' compound. Per uW figs-explicit: χριστός = Messiah. κύριος here functions as divine title (LXX standard for YHWH). Thai พระคริสต์เจ้า compactly renders: พระคริสต์ = Christ (glossary); เจ้า absorbs κύριος as an attributive honorific. Preserves the unique titular-stacking"},
-        {"greek": "ἐν πόλει Δαυίδ", "thai": "ในเมืองของดาวิด", "rationale": "Per uW figs-explicit: = Bethlehem. Cross-links with v.4. Thai เมืองของดาวิด preserves the Davidic-messianic motif"}
+        {
+          "greek": "ἐτέχθη...σωτήρ",
+          "thai": "พระผู้ช่วยให้รอดได้ประสูติ",
+          "rationale": "σωτήρ (NT freq 24) = savior/rescuer. Per uW figs-activepassive: divine-passive + born-for-you. Thai พระผู้ช่วยให้รอด standard (เทียบ LUK 1:47 where Mary calls God σωτήρ). ประสูติ royal-register birth for divine child"
+        },
+        {
+          "greek": "χριστὸς κύριος",
+          "thai": "พระคริสต์เจ้า",
+          "rationale": "Critical titular combination — either 'Christ (who is) Lord' or 'Christ-Lord' compound. Per uW figs-explicit: χριστός = Messiah. κύριος here functions as divine title (LXX standard for YHWH). Thai พระคริสต์เจ้า compactly renders: พระคริสต์ = Christ (glossary); เจ้า absorbs κύριος as an attributive honorific. Preserves the unique titular-stacking"
+        },
+        {
+          "greek": "ἐν πόλει Δαυίδ",
+          "thai": "ในเมืองของดาวิด",
+          "rationale": "Per uW figs-explicit: = Bethlehem. Cross-links with v.4. Thai เมืองของดาวิด preserves the Davidic-messianic motif"
+        }
       ],
       "notes": "THREE MAJOR TITLES STACKED: σωτήρ, χριστός, κύριος. In imperial-Roman context (Priene-Halicarnassus-Myra inscriptions) all three titles were used of emperors — Augustus specifically called σωτὴρ τοῦ κόσμου 'savior of the world' on the Myra inscription, and divus Augustus received κύριος. Luke's parallel construction subverts imperial theology: the true Savior-Christ-Lord is the infant in Bethlehem, not the emperor in Rome. χριστὸς κύριος as a nominal stack appears only here in the NT (cf. Pss. Sol. 17:32 — a pre-Christian Jewish Messianic hymn with the same phrasing, suggesting Luke knows the Messianic-titular tradition). ADDED TO NT_OT_CITATIONS: LUK 2:11 thematic_allusion to 2 SAM 7:12-13 (Davidic covenant — Messiah from David's line); PSS 17:32 PSEUDEPIGRAPHAL (Psalms of Solomon — Messianic titular background, not OT strict)."
     }
@@ -202,11 +318,23 @@
     "translation": {
       "thai": "นี่จะเป็นเครื่องหมายแก่ท่านทั้งหลาย คือท่านจะพบทารกห่อผ้าอ้อม นอนอยู่ในรางหญ้า",
       "thai_literal": null,
-      "thai_summary": "คำว่า «เครื่องหมาย» (เซเมออน) ไม่ใช่หลักฐานพิสูจน์ แต่เป็นจุดระบุตัว — คนเลี้ยงแกะจะรู้ว่าพบพระเมสสิยาห์ที่ถูกต้องเพราะสภาพที่ไม่คาดคิดนี้เอง: พระผู้ช่วยให้รอดในรางหญ้า ขัดแย้งกับพระราชวังของออกัสตัส",
+      "thai_summary": "คำว่า “เครื่องหมาย” (เซเมออน) ไม่ใช่หลักฐานพิสูจน์ แต่เป็นจุดระบุตัว — คนเลี้ยงแกะจะรู้ว่าพบพระเมสสิยาห์ที่ถูกต้องเพราะสภาพที่ไม่คาดคิดนี้เอง: พระผู้ช่วยให้รอดในรางหญ้า ขัดแย้งกับพระราชวังของออกัสตัส",
       "key_decisions": [
-        {"greek": "τοῦτο ὑμῖν τὸ σημεῖον", "thai": "นี่จะเป็นเครื่องหมายแก่ท่านทั้งหลาย", "rationale": "σημεῖον = sign — not proof but identifying marker. Thai เครื่องหมาย standard. Per uW figs-explicit: God-given sign to identify the newborn"},
-        {"greek": "βρέφος", "thai": "ทารก", "rationale": "βρέφος (NT freq 8) = newborn, infant — more specific than παιδίον (young child). Thai ทารก standard"},
-        {"greek": "ἐσπαργανωμένον καὶ κείμενον ἐν φάτνῃ", "thai": "ห่อผ้าอ้อม นอนอยู่ในรางหญ้า", "rationale": "Repetition of v.7 details as recognition-sign. σπαργανόω perfect passive ptc = already-swaddled. κείμενον = lying. Thai mirrors v.7 rendering for consistency"}
+        {
+          "greek": "τοῦτο ὑμῖν τὸ σημεῖον",
+          "thai": "นี่จะเป็นเครื่องหมายแก่ท่านทั้งหลาย",
+          "rationale": "σημεῖον = sign — not proof but identifying marker. Thai เครื่องหมาย standard. Per uW figs-explicit: God-given sign to identify the newborn"
+        },
+        {
+          "greek": "βρέφος",
+          "thai": "ทารก",
+          "rationale": "βρέφος (NT freq 8) = newborn, infant — more specific than παιδίον (young child). Thai ทารก standard"
+        },
+        {
+          "greek": "ἐσπαργανωμένον καὶ κείμενον ἐν φάτνῃ",
+          "thai": "ห่อผ้าอ้อม นอนอยู่ในรางหญ้า",
+          "rationale": "Repetition of v.7 details as recognition-sign. σπαργανόω perfect passive ptc = already-swaddled. κείμενον = lying. Thai mirrors v.7 rendering for consistency"
+        }
       ],
       "notes": "The 'sign' is counter-intuitive: the Savior, Christ, Lord is identified not by royal trappings but by a manger (φάτνη — a feed-trough!). Luke's deliberate contrast intensifies the reversal-theme. σπαργανόω (only 2x NT, here + v.7) functions as the identifying sensory detail."
     }
@@ -220,11 +348,23 @@
     "translation": {
       "thai": "ทันใดนั้น มีหมู่ทัพสวรรค์มากมายปรากฏพร้อมกับทูตสวรรค์องค์นั้น ร่วมกันสรรเสริญพระเจ้าว่า",
       "thai_literal": null,
-      "thai_summary": "«หมู่ทัพสวรรค์» (สตราติอัส อูรานิอู) เป็นสำนวนที่พระคัมภีร์เดิมใช้สำหรับกองทัพของทูตสวรรค์ที่รายล้อมพระบัลลังก์พระเจ้า (1 พงศ์กษัตริย์ 22:19, สดุดี 103:21, ดาเนียล 7:10) ในพระคัมภีร์เดิมมักเชื่อมโยงกับสงคราม — แต่ที่นี่หมู่ทัพสวรรค์มาประกาศสันติสุข ไม่ใช่การศึก",
+      "thai_summary": "“หมู่ทัพสวรรค์” (สตราติอัส อูรานิอู) เป็นสำนวนที่พระคัมภีร์เดิมใช้สำหรับกองทัพของทูตสวรรค์ที่รายล้อมพระบัลลังก์พระเจ้า (1 พงศ์กษัตริย์ 22:19, สดุดี 103:21, ดาเนียล 7:10) ในพระคัมภีร์เดิมมักเชื่อมโยงกับสงคราม — แต่ที่นี่หมู่ทัพสวรรค์มาประกาศสันติสุข ไม่ใช่การศึก",
       "key_decisions": [
-        {"greek": "ἐξαίφνης", "thai": "ทันใดนั้น", "rationale": "ἐξαίφνης (NT freq 5) = suddenly. Thai ทันใดนั้น standard"},
-        {"greek": "πλῆθος στρατιᾶς οὐρανίου", "thai": "หมู่ทัพสวรรค์มากมาย", "rationale": "στρατιά (NT freq 2) = army/host. οὐράνιος (NT freq 9) = heavenly. Per uW figs-metaphor: could be literal army or large organized group. LXX pattern 'host of heaven' = צבא השמים tsebaʾ haššāmayim. Thai หมู่ทัพสวรรค์ captures military-sacred register"},
-        {"greek": "αἰνούντων τὸν θεὸν", "thai": "ร่วมกันสรรเสริญพระเจ้า", "rationale": "αἰνέω (NT freq 8) = praise (intensive/formal). Distinct from δοξάζω (glorify). Thai สรรเสริญ standard"}
+        {
+          "greek": "ἐξαίφνης",
+          "thai": "ทันใดนั้น",
+          "rationale": "ἐξαίφνης (NT freq 5) = suddenly. Thai ทันใดนั้น standard"
+        },
+        {
+          "greek": "πλῆθος στρατιᾶς οὐρανίου",
+          "thai": "หมู่ทัพสวรรค์มากมาย",
+          "rationale": "στρατιά (NT freq 2) = army/host. οὐράνιος (NT freq 9) = heavenly. Per uW figs-metaphor: could be literal army or large organized group. LXX pattern 'host of heaven' = צבא השמים tsebaʾ haššāmayim. Thai หมู่ทัพสวรรค์ captures military-sacred register"
+        },
+        {
+          "greek": "αἰνούντων τὸν θεὸν",
+          "thai": "ร่วมกันสรรเสริญพระเจ้า",
+          "rationale": "αἰνέω (NT freq 8) = praise (intensive/formal). Distinct from δοξάζω (glorify). Thai สรรเสริญ standard"
+        }
       ],
       "notes": "'Host of heaven' (στρατιὰ οὐράνιος) echoes OT imagery of God surrounded by angelic armies: 1 Kgs 22:19 Micaiah's vision, Ps 103:21 LXX, Dan 7:10 '10,000 × 10,000 stood before him,' 2 Chr 18:18. Ironic contextual reversal: typically associated with judgment/battle (Joel 3:11, Rev 19:14), here the heavenly army announces peace. ADDED TO NT_OT_CITATIONS: LUK 2:13 thematic_allusion to 1 KGS 22:19 (host of heaven); PSA 103:21 (angelic praise)."
     }
@@ -238,10 +378,18 @@
     "translation": {
       "thai": "พระสิริสูงสุดจงมีแด่พระเจ้า และสันติสุขบนแผ่นดินโลกจงมีแก่มนุษย์ผู้เป็นที่พอพระทัยของพระองค์",
       "thai_literal": null,
-      "thai_summary": "บทเพลงของทูตสวรรค์ (Gloria in Excelsis) เป็นโคลงคู่ขนานแบบฮีบรู: บนสูง–บนแผ่นดินโลก, พระสิริ–สันติสุข, แด่พระเจ้า–แก่มนุษย์ ฉบับภาษากรีกที่เก่าแก่ที่สุด (โคเด็กซ์ไซนายติกัส วาติกานัส อเล็กซานดรินัส) อ่านว่า «ยูโดเกียส» (กรรม — «ของผู้เป็นที่พอพระทัย») ซึ่งหมายความว่า สันติสุขมีแก่คนที่พระเจ้าทรงพอพระทัย ไม่ใช่สันติสุขกระจายไปทั่วโดยไม่มีเงื่อนไข ฉบับเบซันไทน์ (และ KJV) อ่าน «ยูโดเกีย» (ประธาน — «ความพอพระทัย») ซึ่งแปลว่า «ความปรารถนาดีต่อมนุษย์» เราตามฉบับซับไลยีเอ็นทีและฉบับวิจารณ์สมัยใหม่ทั้งหมด (NA28, BSB, ESV, NIV, CSB)",
+      "thai_summary": "บทเพลงของทูตสวรรค์ (Gloria in Excelsis) เป็นโคลงคู่ขนานแบบฮีบรู: บนสูง–บนแผ่นดินโลก, พระสิริ–สันติสุข, แด่พระเจ้า–แก่มนุษย์ ฉบับภาษากรีกที่เก่าแก่ที่สุด (โคเด็กซ์ไซนายติกัส วาติกานัส อเล็กซานดรินัส) อ่านว่า “ยูโดเกียส” (กรรม — “ของผู้เป็นที่พอพระทัย”) ซึ่งหมายความว่า สันติสุขมีแก่คนที่พระเจ้าทรงพอพระทัย ไม่ใช่สันติสุขกระจายไปทั่วโดยไม่มีเงื่อนไข ฉบับเบซันไทน์ (และ KJV) อ่าน “ยูโดเกีย” (ประธาน — “ความพอพระทัย”) ซึ่งแปลว่า “ความปรารถนาดีต่อมนุษย์” เราตามฉบับซับไลยีเอ็นทีและฉบับวิจารณ์สมัยใหม่ทั้งหมด (NA28, BSB, ESV, NIV, CSB)",
       "key_decisions": [
-        {"greek": "Δόξα ἐν ὑψίστοις θεῷ", "thai": "พระสิริสูงสุดจงมีแด่พระเจ้า", "rationale": "Per uW options: ὑψίστοις can be locative ('in the highest [place] = heaven,' parallel to 'on earth') or qualitative ('highest honor'). Reading 1 (locative) fits Hebrew-parallelism — preferred by most scholars. Thai พระสิริสูงสุด (highest glory) can fold both (place + intensity)"},
-        {"greek": "ἐν ἀνθρώποις εὐδοκίας", "thai": "แก่มนุษย์ผู้เป็นที่พอพระทัยของพระองค์", "rationale": "TEXTUAL VARIANT: SBLGNT/NA28/critical-text read εὐδοκίας (genitive, 'of-good-pleasure' = 'men of [divine] good pleasure' = those on whom God's favor rests). Byz/TR read εὐδοκία (nominative, 'good-pleasure' = general goodwill on earth to men). Our SBLGNT-based reading interprets εὐδοκία as divine favor, not human goodwill. Qumran parallels (1QH 4:32-33, 1QH 11:9 בני רצון 'sons of favor') support the divine-favor reading. BSB, ESV, NIV, CSB all adopt this. Thai ผู้เป็นที่พอพระทัยของพระองค์ preserves divine-subject of the favoring"}
+        {
+          "greek": "Δόξα ἐν ὑψίστοις θεῷ",
+          "thai": "พระสิริสูงสุดจงมีแด่พระเจ้า",
+          "rationale": "Per uW options: ὑψίστοις can be locative ('in the highest [place] = heaven,' parallel to 'on earth') or qualitative ('highest honor'). Reading 1 (locative) fits Hebrew-parallelism — preferred by most scholars. Thai พระสิริสูงสุด (highest glory) can fold both (place + intensity)"
+        },
+        {
+          "greek": "ἐν ἀνθρώποις εὐδοκίας",
+          "thai": "แก่มนุษย์ผู้เป็นที่พอพระทัยของพระองค์",
+          "rationale": "TEXTUAL VARIANT: SBLGNT/NA28/critical-text read εὐδοκίας (genitive, 'of-good-pleasure' = 'men of [divine] good pleasure' = those on whom God's favor rests). Byz/TR read εὐδοκία (nominative, 'good-pleasure' = general goodwill on earth to men). Our SBLGNT-based reading interprets εὐδοκία as divine favor, not human goodwill. Qumran parallels (1QH 4:32-33, 1QH 11:9 בני רצון 'sons of favor') support the divine-favor reading. BSB, ESV, NIV, CSB all adopt this. Thai ผู้เป็นที่พอพระทัยของพระองค์ preserves divine-subject of the favoring"
+        }
       ],
       "notes": "TEXTUAL VARIANT (Gloria v.14): critical-text εὐδοκίας (ℵ* A B D W — 'good-pleasure-of') vs Byz εὐδοκία (ℵ² L 1 33 Byz — 'good-pleasure'). Single-letter difference but meaning diverges. SBLGNT prints εὐδοκίας with the earliest Alexandrian + Western witnesses. Strengthening evidence from Qumran: 1QH 4:32-33 and other Hebrew Qumran texts use בני רצון 'sons of (divine) favor/good-pleasure' — same concept. The Byz reading (as in KJV 'good will toward men') understands peace-AND-goodwill as two things announced; the SBLGNT reading limits peace to those with whom God is pleased — the elect. English major evangelical translations (ESV, NIV, CSB, BSB) all follow SBLGNT/NA28. HEBREW-PARALLEL STRUCTURE: A (glory/highest/God) :: B (peace/earth/people-of-favor). Classical ABCBA-like chiastic praise-structure. ADDED TO NT_OT_CITATIONS: LUK 2:14 thematic_allusion to ISA 9:6-7 (Prince of Peace); ISA 57:19 (peace, peace); PSA 85:10 (mercy and truth meet, righteousness and peace kiss)."
     }
@@ -257,9 +405,21 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        {"greek": "Διέλθωμεν δὴ", "thai": "ให้เราไป...กันเถิด", "rationale": "Per uW figs-exclusive: hortatory subjunctive + δή particle = strong exhortation among the speakers themselves (inclusive we). Thai เถิด standard hortatory particle"},
-        {"greek": "τὸ ῥῆμα τοῦτο τὸ γεγονὸς", "thai": "เหตุการณ์ที่เกิดขึ้น", "rationale": "ῥῆμα here in Hebraism sense of דָּבָר dabar = 'thing/event' (not just 'word') — LXX common usage. Thai เหตุการณ์ captures the event-sense"},
-        {"greek": "ὁ κύριος ἐγνώρισεν ἡμῖν", "thai": "องค์พระผู้เป็นเจ้าได้ทรงแจ้งแก่เรา", "rationale": "γνωρίζω = make known. κύριος = YHWH-God (message came via angel but source is God). Thai ทรงแจ้ง uses royal-register ทรง- for divine action"}
+        {
+          "greek": "Διέλθωμεν δὴ",
+          "thai": "ให้เราไป...กันเถิด",
+          "rationale": "Per uW figs-exclusive: hortatory subjunctive + δή particle = strong exhortation among the speakers themselves (inclusive we). Thai เถิด standard hortatory particle"
+        },
+        {
+          "greek": "τὸ ῥῆμα τοῦτο τὸ γεγονὸς",
+          "thai": "เหตุการณ์ที่เกิดขึ้น",
+          "rationale": "ῥῆμα here in Hebraism sense of דָּבָר dabar = 'thing/event' (not just 'word') — LXX common usage. Thai เหตุการณ์ captures the event-sense"
+        },
+        {
+          "greek": "ὁ κύριος ἐγνώρισεν ἡμῖν",
+          "thai": "องค์พระผู้เป็นเจ้าได้ทรงแจ้งแก่เรา",
+          "rationale": "γνωρίζω = make known. κύριος = YHWH-God (message came via angel but source is God). Thai ทรงแจ้ง uses royal-register ทรง- for divine action"
+        }
       ],
       "notes": "ῥῆμα in the Hebraic-LXX sense = dabar 'matter/thing,' not narrow 'word' — cf. LUK 1:37 (ῥῆμα 'nothing will be impossible'), 1:65 (all these matters), 2:19, 2:51. Characteristic Septuagintal idiom."
     }
@@ -275,9 +435,21 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        {"greek": "ἦλθαν σπεύσαντες", "thai": "รีบไป", "rationale": "Per uW figs-hendiadys: 'went hurrying' = went quickly. Aorist ptc σπεύσαντες modifies ἦλθαν. Thai รีบไป combines both naturally"},
-        {"greek": "ἀνεῦραν", "thai": "พบ", "rationale": "ἀνευρίσκω (NT freq 2) = find after search (intensified ἀν-). Thai พบ sufficient; the searching is contextually implied"},
-        {"greek": "τὸ βρέφος", "thai": "ทารกน้อย", "rationale": "βρέφος = infant (diminutive feel). Thai ทารกน้อย adds น้อย for the diminutive tenderness"}
+        {
+          "greek": "ἦλθαν σπεύσαντες",
+          "thai": "รีบไป",
+          "rationale": "Per uW figs-hendiadys: 'went hurrying' = went quickly. Aorist ptc σπεύσαντες modifies ἦλθαν. Thai รีบไป combines both naturally"
+        },
+        {
+          "greek": "ἀνεῦραν",
+          "thai": "พบ",
+          "rationale": "ἀνευρίσκω (NT freq 2) = find after search (intensified ἀν-). Thai พบ sufficient; the searching is contextually implied"
+        },
+        {
+          "greek": "τὸ βρέφος",
+          "thai": "ทารกน้อย",
+          "rationale": "βρέφος = infant (diminutive feel). Thai ทารกน้อย adds น้อย for the diminutive tenderness"
+        }
       ],
       "notes": null
     }
@@ -293,9 +465,21 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        {"greek": "ἐγνώρισαν", "thai": "บอกเล่า", "rationale": "γνωρίζω here (vs. v.15 'made known' divine→human) = shepherds 'made known' to others = publicized. Thai บอกเล่า captures the human-to-human disclosure"},
-        {"greek": "τοῦ ῥήματος τοῦ λαληθέντος αὐτοῖς", "thai": "ถ้อยคำที่ทูตสวรรค์ได้กล่าวแก่พวกเขา", "rationale": "Per uW figs-activepassive: passive ἐλαλήθη → active 'the angels said.' Subject inserted for Thai clarity. ῥήματα here = the angelic speech, not abstract 'thing'"},
-        {"greek": "τοῦ παιδίου τούτου", "thai": "พระกุมารนั้น", "rationale": "παιδίον = young child; Thai พระกุมาร royal-register for divine child"}
+        {
+          "greek": "ἐγνώρισαν",
+          "thai": "บอกเล่า",
+          "rationale": "γνωρίζω here (vs. v.15 'made known' divine→human) = shepherds 'made known' to others = publicized. Thai บอกเล่า captures the human-to-human disclosure"
+        },
+        {
+          "greek": "τοῦ ῥήματος τοῦ λαληθέντος αὐτοῖς",
+          "thai": "ถ้อยคำที่ทูตสวรรค์ได้กล่าวแก่พวกเขา",
+          "rationale": "Per uW figs-activepassive: passive ἐλαλήθη → active 'the angels said.' Subject inserted for Thai clarity. ῥήματα here = the angelic speech, not abstract 'thing'"
+        },
+        {
+          "greek": "τοῦ παιδίου τούτου",
+          "thai": "พระกุมารนั้น",
+          "rationale": "παιδίον = young child; Thai พระกุมาร royal-register for divine child"
+        }
       ],
       "notes": null
     }
@@ -311,7 +495,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        {"greek": "ἐθαύμασαν", "thai": "ประหลาดใจ", "rationale": "θαυμάζω = wonder, marvel. Thai ประหลาดใจ standard"}
+        {
+          "greek": "ἐθαύμασαν",
+          "thai": "ประหลาดใจ",
+          "rationale": "θαυμάζω = wonder, marvel. Thai ประหลาดใจ standard"
+        }
       ],
       "notes": null
     }
@@ -325,11 +513,23 @@
     "translation": {
       "thai": "ส่วนมารีย์เก็บเหตุการณ์ทั้งหมดเหล่านี้ไว้ไตร่ตรองในใจของนาง",
       "thai_literal": null,
-      "thai_summary": "ลูการะบุถึงการ «เก็บไว้ใคร่ครวญในใจ» ของมารีย์สองครั้ง ที่นี่และข้อ 51 — อาจเป็นการบอกใบ้ว่ามารีย์เองเป็นแหล่งข้อมูลของเรื่องเล่านี้สำหรับลูกา การที่นางเก็บเรื่องราวเหล่านี้ตลอดหลายสิบปีจนกระทั่งลูกาสัมภาษณ์นางหลังการฟื้นคืนพระชนม์ เป็นสิ่งที่ลูกาน่าจะต้องการสื่อในฐานะนักประวัติศาสตร์",
+      "thai_summary": "ลูการะบุถึงการ “เก็บไว้ใคร่ครวญในใจ” ของมารีย์สองครั้ง ที่นี่และข้อ 51 — อาจเป็นการบอกใบ้ว่ามารีย์เองเป็นแหล่งข้อมูลของเรื่องเล่านี้สำหรับลูกา การที่นางเก็บเรื่องราวเหล่านี้ตลอดหลายสิบปีจนกระทั่งลูกาสัมภาษณ์นางหลังการฟื้นคืนพระชนม์ เป็นสิ่งที่ลูกาน่าจะต้องการสื่อในฐานะนักประวัติศาสตร์",
       "key_decisions": [
-        {"greek": "συνετήρει...συμβάλλουσα", "thai": "เก็บ...ไว้ไตร่ตรอง", "rationale": "συντηρέω (NT freq 3) = preserve/keep together. συμβάλλω (NT freq 6) literal 'throw together' = compare/consider/ponder. Per uW figs-metaphor: heart = thoughts + emotions. Thai เก็บ...ไว้ไตร่ตรอง captures both the preserving and the reflective-comparing"},
-        {"greek": "τὰ ῥήματα ταῦτα", "thai": "เหตุการณ์ทั้งหมดเหล่านี้", "rationale": "ῥήματα here in Hebraic 'matters/events' sense (as v.15). Thai เหตุการณ์ (events) rather than 'words' better captures Luke's Hebraic usage"},
-        {"greek": "ἐν τῇ καρδίᾳ αὐτῆς", "thai": "ในใจของนาง", "rationale": "Per uW figs-metaphor: Hebraic 'heart' = inner person, thoughts, emotions. Thai ใจ standard"}
+        {
+          "greek": "συνετήρει...συμβάλλουσα",
+          "thai": "เก็บ...ไว้ไตร่ตรอง",
+          "rationale": "συντηρέω (NT freq 3) = preserve/keep together. συμβάλλω (NT freq 6) literal 'throw together' = compare/consider/ponder. Per uW figs-metaphor: heart = thoughts + emotions. Thai เก็บ...ไว้ไตร่ตรอง captures both the preserving and the reflective-comparing"
+        },
+        {
+          "greek": "τὰ ῥήματα ταῦτα",
+          "thai": "เหตุการณ์ทั้งหมดเหล่านี้",
+          "rationale": "ῥήματα here in Hebraic 'matters/events' sense (as v.15). Thai เหตุการณ์ (events) rather than 'words' better captures Luke's Hebraic usage"
+        },
+        {
+          "greek": "ἐν τῇ καρδίᾳ αὐτῆς",
+          "thai": "ในใจของนาง",
+          "rationale": "Per uW figs-metaphor: Hebraic 'heart' = inner person, thoughts, emotions. Thai ใจ standard"
+        }
       ],
       "notes": "Luke's narrative-voice detail about Mary's interior life (repeated at 2:51, and thematically at 1:29) functions as a historiographical marker — Luke likely indicates Mary herself as a source for the infancy narrative. Patristic tradition (Eusebius Hist. eccl. 3.23) holds Mary lived into Luke's research period."
     }
@@ -345,8 +545,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        {"greek": "δοξάζοντες καὶ αἰνοῦντες", "thai": "ถวายพระสิริและสรรเสริญ", "rationale": "Per uW figs-doublet: similar terms paired for emphasis. uW suggests combining, but preserving both preserves the Lukan praise-language richness. δοξάζω → ถวายพระสิริ (glossary); αἰνέω → สรรเสริญ. This doublet recurs in LUK 2:13 + 2:20 bookending the shepherds' episode"},
-        {"greek": "καθὼς ἐλαλήθη πρὸς αὐτούς", "thai": "ดังที่ทูตสวรรค์ได้บอกแก่พวกเขา", "rationale": "Per uW figs-activepassive: passive → active with subject (angel) supplied"}
+        {
+          "greek": "δοξάζοντες καὶ αἰνοῦντες",
+          "thai": "ถวายพระสิริและสรรเสริญ",
+          "rationale": "Per uW figs-doublet: similar terms paired for emphasis. uW suggests combining, but preserving both preserves the Lukan praise-language richness. δοξάζω → ถวายพระสิริ (glossary); αἰνέω → สรรเสริญ. This doublet recurs in LUK 2:13 + 2:20 bookending the shepherds' episode"
+        },
+        {
+          "greek": "καθὼς ἐλαλήθη πρὸς αὐτούς",
+          "thai": "ดังที่ทูตสวรรค์ได้บอกแก่พวกเขา",
+          "rationale": "Per uW figs-activepassive: passive → active with subject (angel) supplied"
+        }
       ],
       "notes": "The shepherds' praise bookends the angel's praise (v.13-14 angels praise :: v.20 shepherds praise) — literary inclusio showing the heavenly-earthly worship continuity."
     }
@@ -360,11 +568,23 @@
     "translation": {
       "thai": "เมื่อครบแปดวันที่พระกุมารต้องเข้าสุหนัต ก็มีการตั้งพระนามของพระองค์ว่า เยซู ตามพระนามที่ทูตสวรรค์ได้บอกไว้ก่อนที่พระองค์จะทรงปฏิสนธิในครรภ์",
       "thai_literal": null,
-      "thai_summary": "การเข้าสุหนัตวันที่แปดเป็นพระบัญชาของพระเจ้าที่ประทานแก่อับราฮัม (ปฐมกาล 17:12) เป็นเครื่องหมายแห่งพันธสัญญาของพระเจ้ากับชาติอิสราเอล พระนาม «เยซู» (กรีก อีเอซู) เป็นรูปภาษากรีกของชื่อฮีบรู «เยโฮชูวา» หรือ «เยชูวา» แปลว่า «ยาห์เวห์ทรงช่วยให้รอด» — ทูตสวรรค์กาเบรียลได้บอกชื่อนี้แก่มารีย์ล่วงหน้า (1:31) ชื่อจึงยืนยันภารกิจ: พระเยซูเสด็จมาเพื่อช่วยประชากรของพระองค์ให้พ้นบาป (มัทธิว 1:21)",
+      "thai_summary": "การเข้าสุหนัตวันที่แปดเป็นพระบัญชาของพระเจ้าที่ประทานแก่อับราฮัม (ปฐมกาล 17:12) เป็นเครื่องหมายแห่งพันธสัญญาของพระเจ้ากับชาติอิสราเอล พระนาม “เยซู” (กรีก อีเอซู) เป็นรูปภาษากรีกของชื่อฮีบรู “เยโฮชูวา” หรือ “เยชูวา” แปลว่า “ยาห์เวห์ทรงช่วยให้รอด” — ทูตสวรรค์กาเบรียลได้บอกชื่อนี้แก่มารีย์ล่วงหน้า (1:31) ชื่อจึงยืนยันภารกิจ: พระเยซูเสด็จมาเพื่อช่วยประชากรของพระองค์ให้พ้นบาป (มัทธิว 1:21)",
       "key_decisions": [
-        {"greek": "ἐπλήσθησαν ἡμέραι ὀκτὼ τοῦ περιτεμεῖν αὐτόν", "thai": "ครบแปดวันที่พระกุมารต้องเข้าสุหนัต", "rationale": "Per uW figs-explicit: circumcision on 8th day per Lev 12:3, inherited from Gen 17:12. Thai เข้าสุหนัต standard Thai Christian expression (modifying LUK 1:59's ทำพิธีสุหนัต — this variant with เข้า is common too). Both acceptable. ห LUK 1:59 established ทำพิธีสุหนัต; switching here to เข้าสุหนัต for naturalness — documenting the variant"},
-        {"greek": "ἐκλήθη τὸ ὄνομα αὐτοῦ Ἰησοῦς", "thai": "ตั้งพระนามของพระองค์ว่า เยซู", "rationale": "Per uW figs-idiom + figs-activepassive: 'to call a name' is Hebraic idiom = 'to give a name.' Passive → active. Ἰησοῦς → เยซู. Note: Thai Christian standard is เยซู (not เยซัส) for Jesus in most contexts; when combined with the divine honorific it becomes พระเยซู. Here in the naming-narrative moment it makes sense to give the bare name เยซู"},
-        {"greek": "συλλημφθῆναι αὐτὸν ἐν τῇ κοιλίᾳ", "thai": "ปฏิสนธิในครรภ์", "rationale": "Per uW figs-explicitinfo: 'conceived in the womb' can be condensed. συλλαμβάνω = conceive. Thai ปฏิสนธิ (Pali-Sanskrit origin, formal-religious register for conception)"}
+        {
+          "greek": "ἐπλήσθησαν ἡμέραι ὀκτὼ τοῦ περιτεμεῖν αὐτόν",
+          "thai": "ครบแปดวันที่พระกุมารต้องเข้าสุหนัต",
+          "rationale": "Per uW figs-explicit: circumcision on 8th day per Lev 12:3, inherited from Gen 17:12. Thai เข้าสุหนัต standard Thai Christian expression (modifying LUK 1:59's ทำพิธีสุหนัต — this variant with เข้า is common too). Both acceptable. ห LUK 1:59 established ทำพิธีสุหนัต; switching here to เข้าสุหนัต for naturalness — documenting the variant"
+        },
+        {
+          "greek": "ἐκλήθη τὸ ὄνομα αὐτοῦ Ἰησοῦς",
+          "thai": "ตั้งพระนามของพระองค์ว่า เยซู",
+          "rationale": "Per uW figs-idiom + figs-activepassive: 'to call a name' is Hebraic idiom = 'to give a name.' Passive → active. Ἰησοῦς → เยซู. Note: Thai Christian standard is เยซู (not เยซัส) for Jesus in most contexts; when combined with the divine honorific it becomes พระเยซู. Here in the naming-narrative moment it makes sense to give the bare name เยซู"
+        },
+        {
+          "greek": "συλλημφθῆναι αὐτὸν ἐν τῇ κοιλίᾳ",
+          "thai": "ปฏิสนธิในครรภ์",
+          "rationale": "Per uW figs-explicitinfo: 'conceived in the womb' can be condensed. συλλαμβάνω = conceive. Thai ปฏิสนธิ (Pali-Sanskrit origin, formal-religious register for conception)"
+        }
       ],
       "notes": "Circumcision on 8th day = Gen 17:12 (Abrahamic covenant sign, per Lev 12:3). 'Jesus' = Greek Ἰησοῦς = Hebrew ישוע Yeshuaʿ (late form of יהושע Yehoshua) = 'YHWH saves.' The naming theologically binds Jesus to his salvation-mission (cf. MAT 1:21 'he will save his people from their sins'). GLOSSARY CONSISTENCY NOTE: at LUK 1:59 I used ทำพิธีสุหนัต for περιτεμεῖν; here เข้าสุหนัต. Both are valid Thai; เข้าสุหนัต is more concise + natural. Either is acceptable; the circumcision check-term lemma should accept both Thai renderings as dialectal variants of the same lexical choice. ADDED TO NT_OT_CITATIONS: LUK 2:21 thematic_allusion to GEN 17:12 + LEV 12:3 (8th-day circumcision)."
     }
@@ -378,11 +598,23 @@
     "translation": {
       "thai": "เมื่อครบวันที่ต้องชำระตามธรรมบัญญัติของโมเสสแล้ว โยเซฟกับมารีย์ก็นำพระกุมารขึ้นไปยังกรุงเยรูซาเล็ม เพื่อถวายพระองค์แด่องค์พระผู้เป็นเจ้า",
       "thai_literal": null,
-      "thai_summary": "ตามธรรมบัญญัติของโมเสส (เลวีนิติ 12:1-8) หลังคลอดบุตรชาย มารดาจะถือว่า «ไม่สะอาดตามพิธี» เป็นเวลา 40 วัน (สำหรับลูกชาย; 80 วันสำหรับลูกสาว) หลังจากนั้นต้องถวายเครื่องบูชา โยเซฟและมารีย์ยังถวายพระกุมารเยซูแด่พระเจ้าตามกฎของบุตรหัวปี (อพยพ 13:2, 12) การปฏิบัติตามธรรมบัญญัติในครอบครัวผู้ยากไร้นี้แสดงให้เห็นว่าพระเยซู — พระบุตรของพระเจ้า — เกิดใต้ธรรมบัญญัติ (กาลาเทีย 4:4) และทรงไถ่ผู้ที่อยู่ใต้ธรรมบัญญัติ",
+      "thai_summary": "ตามธรรมบัญญัติของโมเสส (เลวีนิติ 12:1-8) หลังคลอดบุตรชาย มารดาจะถือว่า “ไม่สะอาดตามพิธี” เป็นเวลา 40 วัน (สำหรับลูกชาย; 80 วันสำหรับลูกสาว) หลังจากนั้นต้องถวายเครื่องบูชา โยเซฟและมารีย์ยังถวายพระกุมารเยซูแด่พระเจ้าตามกฎของบุตรหัวปี (อพยพ 13:2, 12) การปฏิบัติตามธรรมบัญญัติในครอบครัวผู้ยากไร้นี้แสดงให้เห็นว่าพระเยซู — พระบุตรของพระเจ้า — เกิดใต้ธรรมบัญญัติ (กาลาเทีย 4:4) และทรงไถ่ผู้ที่อยู่ใต้ธรรมบัญญัติ",
       "key_decisions": [
-        {"greek": "τοῦ καθαρισμοῦ αὐτῶν", "thai": "ชำระ", "rationale": "καθαρισμός (NT freq 7) = purification/cleansing. αὐτῶν 'their' (plural) is interesting — strictly only Mary needed purification (Lev 12); Luke's plural may include Joseph ceremonially or be broader 'their family's purification rite.' Per uW figs-explicit: Mosaic law 33 days post-circumcision (40 total). Thai ชำระ captures ritual-cleansing sense; omitting 'their' explicit to avoid theological confusion"},
-        {"greek": "ἀνήγαγον αὐτὸν εἰς Ἱεροσόλυμα", "thai": "นำพระกุมารขึ้นไปยังกรุงเยรูซาเล็ม", "rationale": "Per uW figs-idiom: 'up to Jerusalem' — standard idiom because Jerusalem on mountain. Thai ขึ้นไปยังกรุงเยรูซาเล็ม preserves the idiom natural in Thai too. Subject 'Joseph & Mary' made explicit per uW writing-pronouns"},
-        {"greek": "παραστῆσαι τῷ κυρίῳ", "thai": "ถวายพระองค์แด่องค์พระผู้เป็นเจ้า", "rationale": "παρίστημι = present/offer. Per uW figs-explicit: dedication ceremony for firstborn male (Exod 13:2, 12-16, Num 3:47-48). Thai ถวาย = offer/present (royal-religious register). Follows vv.23-24 elaboration"}
+        {
+          "greek": "τοῦ καθαρισμοῦ αὐτῶν",
+          "thai": "ชำระ",
+          "rationale": "καθαρισμός (NT freq 7) = purification/cleansing. αὐτῶν 'their' (plural) is interesting — strictly only Mary needed purification (Lev 12); Luke's plural may include Joseph ceremonially or be broader 'their family's purification rite.' Per uW figs-explicit: Mosaic law 33 days post-circumcision (40 total). Thai ชำระ captures ritual-cleansing sense; omitting 'their' explicit to avoid theological confusion"
+        },
+        {
+          "greek": "ἀνήγαγον αὐτὸν εἰς Ἱεροσόλυμα",
+          "thai": "นำพระกุมารขึ้นไปยังกรุงเยรูซาเล็ม",
+          "rationale": "Per uW figs-idiom: 'up to Jerusalem' — standard idiom because Jerusalem on mountain. Thai ขึ้นไปยังกรุงเยรูซาเล็ม preserves the idiom natural in Thai too. Subject 'Joseph & Mary' made explicit per uW writing-pronouns"
+        },
+        {
+          "greek": "παραστῆσαι τῷ κυρίῳ",
+          "thai": "ถวายพระองค์แด่องค์พระผู้เป็นเจ้า",
+          "rationale": "παρίστημι = present/offer. Per uW figs-explicit: dedication ceremony for firstborn male (Exod 13:2, 12-16, Num 3:47-48). Thai ถวาย = offer/present (royal-religious register). Follows vv.23-24 elaboration"
+        }
       ],
       "notes": "Two Mosaic rites compress into one Jerusalem trip: (1) Mary's post-partum purification (Lev 12:1-8) — 40 days for a male child; (2) Jesus's firstborn-redemption presentation (Exod 13:2, 12; Num 18:15-16). Luke's emphasis on Torah-observance (Christ born under the Law, cf. Gal 4:4-5) establishes Jesus's Jewish piety from infancy. The 'their' (αὐτῶν) purification — strictly only the mother was unclean — either reflects popular practice or is a generalization. Some manuscripts read αὐτῆς (feminine 'her') or αὐτοῦ ('his'), but SBLGNT and NA28 retain the plural αὐτῶν as the best-attested reading. ADDED TO NT_OT_CITATIONS: LUK 2:22 thematic_allusion to LEV 12:1-8 (purification); EXO 13:2 (firstborn)."
     }
@@ -394,13 +626,25 @@
     "greek": "καθὼς γέγραπται ἐν νόμῳ κυρίου ὅτι Πᾶν ἄρσεν διανοῖγον μήτραν ἅγιον τῷ κυρίῳ κληθήσεται,",
     "bsb_english": "(as it is written in the Law of the Lord: “Every firstborn male shall be consecrated to the Lord”),",
     "translation": {
-      "thai": "(ตามที่มีเขียนไว้ในธรรมบัญญัติขององค์พระผู้เป็นเจ้าว่า «บุตรชายหัวปีทุกคนที่เปิดครรภ์มารดา จะได้รับการถวายเป็นผู้บริสุทธิ์แด่องค์พระผู้เป็นเจ้า»)",
+      "thai": "(ตามที่มีเขียนไว้ในธรรมบัญญัติขององค์พระผู้เป็นเจ้าว่า “บุตรชายหัวปีทุกคนที่เปิดครรภ์มารดา จะได้รับการถวายเป็นผู้บริสุทธิ์แด่องค์พระผู้เป็นเจ้า”)",
       "thai_literal": null,
       "thai_summary": "ลูกาอ้างถึงพระธรรมอพยพ 13:2, 12, 15 โดยสังเคราะห์จากหลายข้อ ไม่ได้อ้างตรง ๆ พระบัญชานี้มีพื้นฐานในเหตุการณ์ปัสกา (อพยพ 12-13) — พระเจ้าทรงช่วยบุตรหัวปีอิสราเอลจากภัยพิบัติในอียิปต์ ดังนั้นบุตรหัวปีจึงเป็นของพระเจ้า การที่พระเยซูในฐานะบุตรหัวปีถูกถวายแด่พระเจ้า ตอกย้ำบทบาทของพระองค์ในฐานะผู้ไถ่ที่แท้จริง",
       "key_decisions": [
-        {"greek": "καθὼς γέγραπται ἐν νόμῳ κυρίου", "thai": "ตามที่มีเขียนไว้ในธรรมบัญญัติขององค์พระผู้เป็นเจ้า", "rationale": "Per uW figs-activepassive: γέγραπται = 'it is/stands written' (standard Jewish/NT citation formula; LXX of Deut 30:10 etc.). Thai มีเขียนไว้ standard. Preserves the Scripture-citation weight"},
-        {"greek": "Πᾶν ἄρσεν διανοῖγον μήτραν", "thai": "บุตรชายหัวปีทุกคนที่เปิดครรภ์มารดา", "rationale": "LXX of Exod 13:2 with compression from 13:12, 15. διανοίγω (NT freq 8) + μήτρα (NT freq 2) = 'opening the womb' — Hebrew פֶּטֶר רֶחֶם peter rechem technical-legal term for firstborn-male. Per uW figs-idiom: firstborn who comes out first. Thai บุตรชายหัวปีที่เปิดครรภ์มารดา preserves the legal-technical phrasing"},
-        {"greek": "ἅγιον τῷ κυρίῳ κληθήσεται", "thai": "จะได้รับการถวายเป็นผู้บริสุทธิ์แด่องค์พระผู้เป็นเจ้า", "rationale": "Per uW figs-idiom + figs-declarative: 'to be called holy' = to be declared/set apart as holy. Future statement = command in Torah style. Thai จะได้รับการถวายเป็นผู้บริสุทธิ์ combines the setting-apart and the consecration"}
+        {
+          "greek": "καθὼς γέγραπται ἐν νόμῳ κυρίου",
+          "thai": "ตามที่มีเขียนไว้ในธรรมบัญญัติขององค์พระผู้เป็นเจ้า",
+          "rationale": "Per uW figs-activepassive: γέγραπται = 'it is/stands written' (standard Jewish/NT citation formula; LXX of Deut 30:10 etc.). Thai มีเขียนไว้ standard. Preserves the Scripture-citation weight"
+        },
+        {
+          "greek": "Πᾶν ἄρσεν διανοῖγον μήτραν",
+          "thai": "บุตรชายหัวปีทุกคนที่เปิดครรภ์มารดา",
+          "rationale": "LXX of Exod 13:2 with compression from 13:12, 15. διανοίγω (NT freq 8) + μήτρα (NT freq 2) = 'opening the womb' — Hebrew פֶּטֶר רֶחֶם peter rechem technical-legal term for firstborn-male. Per uW figs-idiom: firstborn who comes out first. Thai บุตรชายหัวปีที่เปิดครรภ์มารดา preserves the legal-technical phrasing"
+        },
+        {
+          "greek": "ἅγιον τῷ κυρίῳ κληθήσεται",
+          "thai": "จะได้รับการถวายเป็นผู้บริสุทธิ์แด่องค์พระผู้เป็นเจ้า",
+          "rationale": "Per uW figs-idiom + figs-declarative: 'to be called holy' = to be declared/set apart as holy. Future statement = command in Torah style. Thai จะได้รับการถวายเป็นผู้บริสุทธิ์ combines the setting-apart and the consecration"
+        }
       ],
       "notes": "OT CITATION: Luke cites Exod 13:2 fused with 13:12 and 13:15 (composite-citation pattern common in rabbinic + early Christian writing). The LXX readings are condensed: Luke's πᾶν ἄρσεν διανοῖγον μήτραν ἅγιον τῷ κυρίῳ κληθήσεται = free summary of πᾶν διανοῖγον μήτραν ἀρσενικόν ἁγιάσεις τῷ κυρίῳ (Exod 13:12 LXX) + πᾶν ἀρσενικόν διανοῖγον μήτραν ἅγιον τῷ κυρίῳ (13:2 LXX). The theological frame is Passover deliverance of Egyptian firstborn (Exod 11-12). ADDED TO NT_OT_CITATIONS: LUK 2:23 composite_citation of EXO 13:2 + EXO 13:12 + EXO 13:15 (firstborn-male consecration)."
     }
@@ -412,11 +656,15 @@
     "greek": "καὶ τοῦ δοῦναι θυσίαν κατὰ τὸ εἰρημένον ἐν τῷ νόμῳ κυρίου, ζεῦγος τρυγόνων ἢ δύο νοσσοὺς περιστερῶν.",
     "bsb_english": "and to offer the sacrifice specified in the Law of the Lord: “A pair of turtledoves or two young pigeons.”",
     "translation": {
-      "thai": "และเพื่อถวายเครื่องบูชาตามที่กล่าวไว้ในธรรมบัญญัติขององค์พระผู้เป็นเจ้า คือ «นกเขาคู่หนึ่ง หรือลูกนกพิราบสองตัว»",
+      "thai": "และเพื่อถวายเครื่องบูชาตามที่กล่าวไว้ในธรรมบัญญัติขององค์พระผู้เป็นเจ้า คือ “นกเขาคู่หนึ่ง หรือลูกนกพิราบสองตัว”",
       "thai_literal": null,
       "thai_summary": "เครื่องบูชาที่ถวายเปิดเผยฐานะความเป็นอยู่ของครอบครัว ตามเลวีนิติ 12:6-8 ผู้หญิงที่ชำระตนต้องถวายลูกแกะหนึ่งตัว แต่ถ้าเธอยากจนเกินไป สามารถถวายนกเขาสองตัวหรือนกพิราบสองตัวแทนได้ ลูกาเลือกอ้างคำพระบัญชาในรูปของคนยากจน — บอกให้รู้ว่าโยเซฟและมารีย์เป็นคนยากจน พระผู้ช่วยให้รอดของโลกเสด็จมาในครอบครัวที่มีฐานะต่ำต้อย",
       "key_decisions": [
-        {"greek": "ζεῦγος τρυγόνων ἢ δύο νοσσοὺς περιστερῶν", "thai": "นกเขาคู่หนึ่ง หรือลูกนกพิราบสองตัว", "rationale": "TWO HAPAX: τρυγών (only here in NT) + νοσσός (only here). ζεῦγος (NT freq 2) = pair/yoke. περιστερά (NT freq 10) = dove/pigeon. Direct LXX citation of Lev 12:8. Thai นกเขา (turtledove — small migratory dove) + ลูกนกพิราบ (young pigeon/squab). Preserving the 'or' alternative is important — it's the poor-person's alternative"}
+        {
+          "greek": "ζεῦγος τρυγόνων ἢ δύο νοσσοὺς περιστερῶν",
+          "thai": "นกเขาคู่หนึ่ง หรือลูกนกพิราบสองตัว",
+          "rationale": "TWO HAPAX: τρυγών (only here in NT) + νοσσός (only here). ζεῦγος (NT freq 2) = pair/yoke. περιστερά (NT freq 10) = dove/pigeon. Direct LXX citation of Lev 12:8. Thai นกเขา (turtledove — small migratory dove) + ลูกนกพิราบ (young pigeon/squab). Preserving the 'or' alternative is important — it's the poor-person's alternative"
+        }
       ],
       "notes": "TWO HAPAX in one verse: τρυγών (turtledove, Streptopelia turtur, migratory) and νοσσός (young bird, nestling). Direct citation of LXX Lev 12:8 (in full: ἐὰν δὲ μὴ εὑρίσκῃ ἡ χεὶρ αὐτῆς τὸ ἱκανὸν εἰς πρόβατον καὶ λήμψεται δύο τρυγόνας ἢ δύο νεοσσοὺς περιστερῶν — 'if her hand does not find enough for a lamb, she shall take two turtledoves or two young pigeons'). Lev 12:6 requires a lamb + pigeon/turtledove for the ordinary offering; 12:8 gives the poverty alternative. Luke selects the poverty alternative, signaling Joseph-Mary's economic status. This resonates with LUK 1:48 (Mary's 'low estate') and LUK 1:52 ('brought down the mighty'). Theological move: the true King is born to the materially poor. ADDED TO NT_OT_CITATIONS: LUK 2:24 direct_LXX_citation of LEV 12:8 (poor-mother's purification offering)."
     }
@@ -430,13 +678,33 @@
     "translation": {
       "thai": "ดูเถิด มีชายคนหนึ่งในกรุงเยรูซาเล็มชื่อสิเมโอน เป็นคนชอบธรรมและยำเกรงพระเจ้า เฝ้าคอยการปลอบประโลมของชาติอิสราเอลอยู่ และพระวิญญาณบริสุทธิ์สถิตกับท่าน",
       "thai_literal": null,
-      "thai_summary": "«การปลอบประโลมของอิสราเอล» (ปาราคเลซิส อิสราเอล) เป็นสำนวนทางเทคนิคในศาสนายิวแรบบินิกสำหรับพระเมสสิยาห์ — สัมพันธ์กับคำพยากรณ์ของอิสยาห์ที่ว่า «จงปลอบประโลม จงปลอบประโลมชนชาติของเรา» (อิสยาห์ 40:1) ชาวยิวที่เคร่งครัดบางคนใช้คำว่า «ปล่อยให้ข้าพเจ้าเห็นการปลอบประโลมของอิสราเอล» เป็นคำสาบาน สิเมโอนเป็นตัวอย่างของอิสราเอลที่เฝ้าคอยพระเมสสิยาห์ — เช่นเดียวกับเศคาริยาห์ เอลีซาเบธ และมารีย์",
+      "thai_summary": "“การปลอบประโลมของอิสราเอล” (ปาราคเลซิส อิสราเอล) เป็นสำนวนทางเทคนิคในศาสนายิวแรบบินิกสำหรับพระเมสสิยาห์ — สัมพันธ์กับคำพยากรณ์ของอิสยาห์ที่ว่า “จงปลอบประโลม จงปลอบประโลมชนชาติของเรา” (อิสยาห์ 40:1) ชาวยิวที่เคร่งครัดบางคนใช้คำว่า “ปล่อยให้ข้าพเจ้าเห็นการปลอบประโลมของอิสราเอล” เป็นคำสาบาน สิเมโอนเป็นตัวอย่างของอิสราเอลที่เฝ้าคอยพระเมสสิยาห์ — เช่นเดียวกับเศคาริยาห์ เอลีซาเบธ และมารีย์",
       "key_decisions": [
-        {"greek": "Καὶ ἰδοὺ", "thai": "ดูเถิด", "rationale": "Per uW figs-metaphor: attention-focusing marker. Hebraic הִנֵּה hinneh. Thai ดูเถิด standard biblical formula"},
-        {"greek": "Συμεών", "thai": "สิเมโอน", "rationale": "Συμεών Greek of שִׁמְעוֹן Shimeon = 'heard' (God has heard). Thai สิเมโอน standard Thai Christian transliteration"},
-        {"greek": "δίκαιος καὶ εὐλαβής", "thai": "ชอบธรรมและยำเกรงพระเจ้า", "rationale": "Per uW figs-doublet: similar terms; uW suggests combining to 'godly.' Preserving doublet for Lukan emphasis. δίκαιος → ชอบธรรม (glossary). εὐλαβής (NT freq 4) = devout/reverent; Thai ยำเกรงพระเจ้า (fear-of-God devout) captures the reverent-piety sense. Note: doublet construction echoes LUK 1:6 δίκαιοι ἀμφότεροι...ἄμεμπτοι for Zechariah-Elizabeth"},
-        {"greek": "προσδεχόμενος παράκλησιν τοῦ Ἰσραήλ", "thai": "เฝ้าคอยการปลอบประโลมของชาติอิสราเอล", "rationale": "Per uW figs-idiom: προσδέχομαι 'eagerly anticipate' (not passive wait). Per uW figs-metonymy + figs-explicit: 'consolation of Israel' = messianic-hope technical phrase. Thai เฝ้าคอย active-eager waiting; การปลอบประโลม direct rendering of παράκλησις (vs. abstract 'salvation'). Messianic reference preserved by keeping the Isa-40 echo intact rather than replacing with 'Messiah'"},
-        {"greek": "πνεῦμα ἦν ἅγιον ἐπ’ αὐτόν", "thai": "พระวิญญาณบริสุทธิ์สถิตกับท่าน", "rationale": "Per uW figs-metaphor: ἐπί 'upon' = in a special empowering way. πνεῦμα ἅγιον → พระวิญญาณบริสุทธิ์ (glossary). Thai สถิตกับ uses royal-religious register สถิต (divine indwelling)"}
+        {
+          "greek": "Καὶ ἰδοὺ",
+          "thai": "ดูเถิด",
+          "rationale": "Per uW figs-metaphor: attention-focusing marker. Hebraic הִנֵּה hinneh. Thai ดูเถิด standard biblical formula"
+        },
+        {
+          "greek": "Συμεών",
+          "thai": "สิเมโอน",
+          "rationale": "Συμεών Greek of שִׁמְעוֹן Shimeon = 'heard' (God has heard). Thai สิเมโอน standard Thai Christian transliteration"
+        },
+        {
+          "greek": "δίκαιος καὶ εὐλαβής",
+          "thai": "ชอบธรรมและยำเกรงพระเจ้า",
+          "rationale": "Per uW figs-doublet: similar terms; uW suggests combining to 'godly.' Preserving doublet for Lukan emphasis. δίκαιος → ชอบธรรม (glossary). εὐλαβής (NT freq 4) = devout/reverent; Thai ยำเกรงพระเจ้า (fear-of-God devout) captures the reverent-piety sense. Note: doublet construction echoes LUK 1:6 δίκαιοι ἀμφότεροι...ἄμεμπτοι for Zechariah-Elizabeth"
+        },
+        {
+          "greek": "προσδεχόμενος παράκλησιν τοῦ Ἰσραήλ",
+          "thai": "เฝ้าคอยการปลอบประโลมของชาติอิสราเอล",
+          "rationale": "Per uW figs-idiom: προσδέχομαι 'eagerly anticipate' (not passive wait). Per uW figs-metonymy + figs-explicit: 'consolation of Israel' = messianic-hope technical phrase. Thai เฝ้าคอย active-eager waiting; การปลอบประโลม direct rendering of παράκλησις (vs. abstract 'salvation'). Messianic reference preserved by keeping the Isa-40 echo intact rather than replacing with 'Messiah'"
+        },
+        {
+          "greek": "πνεῦμα ἦν ἅγιον ἐπ’ αὐτόν",
+          "thai": "พระวิญญาณบริสุทธิ์สถิตกับท่าน",
+          "rationale": "Per uW figs-metaphor: ἐπί 'upon' = in a special empowering way. πνεῦμα ἅγιον → พระวิญญาณบริสุทธิ์ (glossary). Thai สถิตกับ uses royal-religious register สถิต (divine indwelling)"
+        }
       ],
       "notes": "'Consolation of Israel' (παράκλησις τοῦ Ἰσραήλ) — technical rabbinic Messianic expression, tied to Isa 40:1 (παρακαλεῖτε παρακαλεῖτε τὸν λαόν μου 'comfort, comfort my people'), 49:13, 51:3. Some Jewish sources use the formulaic oath 'may I see the consolation of Israel' (m. Berak., t. Berak.). Simeon's characterization as righteous-devout-Spirit-filled-messianic-expectant makes him a model of OT piety encountering its fulfillment. This echoes structurally the Zechariah/Elizabeth/Mary/Anna set of pious OT-continuity figures that opens Luke. ADDED TO NT_OT_CITATIONS: LUK 2:25 thematic_allusion to ISA 40:1 (comfort my people); ISA 49:13; ISA 51:3 (consolation of Zion)."
     }
@@ -450,11 +718,23 @@
     "translation": {
       "thai": "พระวิญญาณบริสุทธิ์ได้ทรงเปิดเผยแก่ท่านว่า ท่านจะไม่สิ้นชีวิตจนกว่าจะได้เห็นพระคริสต์ขององค์พระผู้เป็นเจ้า",
       "thai_literal": null,
-      "thai_summary": "สำนวน «เห็นความตาย» เป็นสำนวนชาวยิวที่หมายถึง «ตาย» — เช่นเดียวกันกับในฮีบรู 11:5 ที่ใช้กับเอโนคที่ไม่ได้เห็นความตาย คำพยากรณ์นี้สร้างความตึงเครียดในเรื่อง — สิเมโอนมีอายุมากแล้ว (อาจเกินวัยปกติ) ทำให้การเห็นพระเมสสิยาห์ต้องเกิดขึ้นในเร็ววัน",
+      "thai_summary": "สำนวน “เห็นความตาย” เป็นสำนวนชาวยิวที่หมายถึง “ตาย” — เช่นเดียวกันกับในฮีบรู 11:5 ที่ใช้กับเอโนคที่ไม่ได้เห็นความตาย คำพยากรณ์นี้สร้างความตึงเครียดในเรื่อง — สิเมโอนมีอายุมากแล้ว (อาจเกินวัยปกติ) ทำให้การเห็นพระเมสสิยาห์ต้องเกิดขึ้นในเร็ววัน",
       "key_decisions": [
-        {"greek": "κεχρηματισμένον ὑπὸ τοῦ πνεύματος τοῦ ἁγίου", "thai": "พระวิญญาณบริสุทธิ์ได้ทรงเปิดเผยแก่ท่าน", "rationale": "Per uW figs-activepassive. χρηματίζω (NT freq 9) = 'to give divine instruction/oracle' — semi-technical. Perfect passive ptc = 'had been oracularly-told.' Thai ทรงเปิดเผย with royal-register ทรง-. Subject inversion for Thai naturalness"},
-        {"greek": "μὴ ἰδεῖν θάνατον", "thai": "จะไม่สิ้นชีวิต", "rationale": "Per uW figs-idiom + figs-litotes: 'to see death' = to die (Heb 11:5 LXX echo). Per uW also figs-litotes but I collapse the double-negative into natural Thai positive phrasing"},
-        {"greek": "τὸν χριστὸν κυρίου", "thai": "พระคริสต์ขององค์พระผู้เป็นเจ้า", "rationale": "MESSIANIC TECHNICAL TITLE: 'the Lord's Anointed' = משיח יהוה mashiach YHWH (1 Sam 24:6, 10; 26:9, 11, 16, 23; 2 Sam 1:14, 16; Pss 2:2; 20:7; 28:8; 84:10). Perfect Davidic-Messianic title. Thai พระคริสต์ขององค์พระผู้เป็นเจ้า preserves the possessive-covenantal construction"}
+        {
+          "greek": "κεχρηματισμένον ὑπὸ τοῦ πνεύματος τοῦ ἁγίου",
+          "thai": "พระวิญญาณบริสุทธิ์ได้ทรงเปิดเผยแก่ท่าน",
+          "rationale": "Per uW figs-activepassive. χρηματίζω (NT freq 9) = 'to give divine instruction/oracle' — semi-technical. Perfect passive ptc = 'had been oracularly-told.' Thai ทรงเปิดเผย with royal-register ทรง-. Subject inversion for Thai naturalness"
+        },
+        {
+          "greek": "μὴ ἰδεῖν θάνατον",
+          "thai": "จะไม่สิ้นชีวิต",
+          "rationale": "Per uW figs-idiom + figs-litotes: 'to see death' = to die (Heb 11:5 LXX echo). Per uW also figs-litotes but I collapse the double-negative into natural Thai positive phrasing"
+        },
+        {
+          "greek": "τὸν χριστὸν κυρίου",
+          "thai": "พระคริสต์ขององค์พระผู้เป็นเจ้า",
+          "rationale": "MESSIANIC TECHNICAL TITLE: 'the Lord's Anointed' = משיח יהוה mashiach YHWH (1 Sam 24:6, 10; 26:9, 11, 16, 23; 2 Sam 1:14, 16; Pss 2:2; 20:7; 28:8; 84:10). Perfect Davidic-Messianic title. Thai พระคริสต์ขององค์พระผู้เป็นเจ้า preserves the possessive-covenantal construction"
+        }
       ],
       "notes": "'To see death' idiom = to die (cf. JHN 8:51 οὐ μὴ θεωρήσῃ θάνατον, HEB 11:5 μὴ ἰδεῖν θάνατον of Enoch, PSA 89:48 LXX ποῦ ἐστιν ἄνθρωπος ὃς οὐκ ὄψεται θάνατον). χριστὸς κυρίου 'Lord's Anointed' = HEB mashiach YHWH, especially of Davidic king (1 Sam 24:6, 10; Ps 2:2). Luke deliberately deploys this royal-Messianic title. χρηματίζω often carries a technical-oracular sense (cf. MAT 2:12, 22 divine warning; ACT 10:22, HEB 8:5 divine instruction; 11:7 Noah warned). ADDED TO NT_OT_CITATIONS: LUK 2:26 thematic_allusion to PSA 2:2 (Lord's Anointed); 1 SAM 24:6 (mashiach YHWH)."
     }
@@ -470,9 +750,21 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        {"greek": "ἦλθεν ἐν τῷ πνεύματι", "thai": "ได้รับการทรงนำโดยพระวิญญาณ", "rationale": "Per uW figs-idiom: ἐν τῷ πνεύματι = 'in/by the Spirit' — guided/led. Thai ทรงนำโดยพระวิญญาณ captures divine-guidance sense"},
-        {"greek": "εἰς τὸ ἱερόν", "thai": "เข้าไปในบริเวณพระวิหาร", "rationale": "Per uW figs-synecdoche: ἱερόν = whole temple-complex (vs. ναός = inner sanctuary, priest-only). Simeon as layman could enter only the outer courts. Thai บริเวณพระวิหาร preserves the 'temple-grounds/courts' sense"},
-        {"greek": "τὸ εἰθισμένον τοῦ νόμου", "thai": "ธรรมเนียมแห่งธรรมบัญญัติ", "rationale": "HAPAX: ἐθίζω (only here in NT) — 'make customary.' Perfect passive ptc = 'that which has been made customary.' Thai ธรรมเนียมแห่งธรรมบัญญัติ 'custom-of-the-Law'"}
+        {
+          "greek": "ἦλθεν ἐν τῷ πνεύματι",
+          "thai": "ได้รับการทรงนำโดยพระวิญญาณ",
+          "rationale": "Per uW figs-idiom: ἐν τῷ πνεύματι = 'in/by the Spirit' — guided/led. Thai ทรงนำโดยพระวิญญาณ captures divine-guidance sense"
+        },
+        {
+          "greek": "εἰς τὸ ἱερόν",
+          "thai": "เข้าไปในบริเวณพระวิหาร",
+          "rationale": "Per uW figs-synecdoche: ἱερόν = whole temple-complex (vs. ναός = inner sanctuary, priest-only). Simeon as layman could enter only the outer courts. Thai บริเวณพระวิหาร preserves the 'temple-grounds/courts' sense"
+        },
+        {
+          "greek": "τὸ εἰθισμένον τοῦ νόμου",
+          "thai": "ธรรมเนียมแห่งธรรมบัญญัติ",
+          "rationale": "HAPAX: ἐθίζω (only here in NT) — 'make customary.' Perfect passive ptc = 'that which has been made customary.' Thai ธรรมเนียมแห่งธรรมบัญญัติ 'custom-of-the-Law'"
+        }
       ],
       "notes": "HAPAX: ἐθίζω (only here in NT). Cognate ἔθος 'custom' is more common. Simeon's Spirit-led entry into the temple court at the precise moment of Jesus's presentation is Luke's narrative art: the old-covenant saint meets the new-covenant Christ at the old-covenant holy place."
     }
@@ -488,8 +780,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        {"greek": "αὐτὸς ἐδέξατο αὐτὸ εἰς τὰς ἀγκάλας", "thai": "สิเมโอนก็รับพระกุมารขึ้นอุ้มไว้ในอ้อมแขน", "rationale": "Per uW writing-pronouns: specify Simeon + Jesus. HAPAX: ἀγκάλη (only here in NT) — 'the bent-arm, crook-of-the-arm' — specifically for cradling. Thai อ้อมแขน captures the curve-of-the-arm embrace"},
-        {"greek": "εὐλόγησεν τὸν θεὸν", "thai": "สรรเสริญพระเจ้า", "rationale": "εὐλογέω + God as direct object = 'bless God' in the Hebraic sense = praise. Thai สรรเสริญ natural; alternative ถวายพระพร too high-register here"}
+        {
+          "greek": "αὐτὸς ἐδέξατο αὐτὸ εἰς τὰς ἀγκάλας",
+          "thai": "สิเมโอนก็รับพระกุมารขึ้นอุ้มไว้ในอ้อมแขน",
+          "rationale": "Per uW writing-pronouns: specify Simeon + Jesus. HAPAX: ἀγκάλη (only here in NT) — 'the bent-arm, crook-of-the-arm' — specifically for cradling. Thai อ้อมแขน captures the curve-of-the-arm embrace"
+        },
+        {
+          "greek": "εὐλόγησεν τὸν θεὸν",
+          "thai": "สรรเสริญพระเจ้า",
+          "rationale": "εὐλογέω + God as direct object = 'bless God' in the Hebraic sense = praise. Thai สรรเสริญ natural; alternative ถวายพระพร too high-register here"
+        }
       ],
       "notes": "HAPAX: ἀγκάλη (only here in NT) — specifies the cradling-arm position. Simeon's physical holding of the Christ-child sets up the Nunc Dimittis (v.29-32), the climactic moment of his life of waiting."
     }
@@ -503,12 +803,28 @@
     "translation": {
       "thai": "ข้าแต่องค์พระเจ้าผู้ทรงอำนาจ บัดนี้ขอทรงปล่อยผู้รับใช้ของพระองค์ไปเป็นสุข ตามพระดำรัสของพระองค์",
       "thai_literal": null,
-      "thai_summary": "บทเพลงของสิเมโอน (เรียกตามภาษาลาตินว่า «นุงก์ ดิมิททิส» — «บัดนี้ ขอปล่อย») เป็นบทเพลงที่คริสตจักรได้สวดในการนมัสการภาคค่ำมาตั้งแต่ศตวรรษที่ 4 บทเพลงนี้สะท้อนสัญญาของพระเจ้าต่ออับราฮัม (ปฐมกาล 15:15 «เจ้าจะไปยังบรรพบุรุษของเจ้าในความสงบสุข») คำว่า «ปล่อย» (อโปลือโอ) เป็นสำนวนที่ใช้เมื่อปล่อยทาสให้เป็นอิสระ หรือปล่อยทหารจากประจำการ สิเมโอนในฐานะทาสของพระเจ้าที่ปฏิบัติหน้าที่เฝ้ารอคอยแล้ว บัดนี้ขอลาจากโลกอย่างสงบ",
+      "thai_summary": "บทเพลงของสิเมโอน (เรียกตามภาษาลาตินว่า “นุงก์ ดิมิททิส” — “บัดนี้ ขอปล่อย”) เป็นบทเพลงที่คริสตจักรได้สวดในการนมัสการภาคค่ำมาตั้งแต่ศตวรรษที่ 4 บทเพลงนี้สะท้อนสัญญาของพระเจ้าต่ออับราฮัม (ปฐมกาล 15:15 “เจ้าจะไปยังบรรพบุรุษของเจ้าในความสงบสุข”) คำว่า “ปล่อย” (อโปลือโอ) เป็นสำนวนที่ใช้เมื่อปล่อยทาสให้เป็นอิสระ หรือปล่อยทหารจากประจำการ สิเมโอนในฐานะทาสของพระเจ้าที่ปฏิบัติหน้าที่เฝ้ารอคอยแล้ว บัดนี้ขอลาจากโลกอย่างสงบ",
       "key_decisions": [
-        {"greek": "Νῦν ἀπολύεις τὸν δοῦλόν σου", "thai": "บัดนี้ขอทรงปล่อยผู้รับใช้ของพระองค์", "rationale": "Per uW figs-declarative + figs-123person + figs-euphemism: statement-as-request; Simeon = δοῦλος humble self-reference; 'dismiss' = euphemism for dying. Present-tense ἀπολύεις can be declarative-performative ('you are now dismissing') or prayer-request ('please dismiss'). Thai ขอทรงปล่อย captures the prayer-request flavor; royal ทรง- since addressee is God. ผู้รับใช้ for δοῦλος (rather than ทาส which carries harsher connotation in Thai modern). 3rd-person self-reference preserved"},
-        {"greek": "δέσποτα", "thai": "องค์พระเจ้าผู้ทรงอำนาจ", "rationale": "δέσποτα (NT freq 10) = 'Sovereign Master' — distinct from κύριος. Carries absolute-authority sense, master-over-slave. Thai องค์พระเจ้าผู้ทรงอำนาจ preserves the sovereign-absolute flavor; the combination with δοῦλος 'slave' intensifies the subordination. Glossary entry: δέσπότης → องค์พระเจ้าผู้ทรงอำนาจ (distinct from κύριος → องค์พระผู้เป็นเจ้า)"},
-        {"greek": "κατὰ τὸ ῥῆμά σου", "thai": "ตามพระดำรัสของพระองค์", "rationale": "Per uW figs-metonymy: 'your word' = your promise (v.26 oracle). Thai พระดำรัส royal-speech register"},
-        {"greek": "ἐν εἰρήνῃ", "thai": "เป็นสุข", "rationale": "Echoes LXX Gen 15:15 Abraham 'depart to your fathers in peace' (ἀπελεύσῃ πρὸς τοὺς πατέρας σου μετ' εἰρήνης). Thai เป็นสุข captures the peaceful-departure sense"}
+        {
+          "greek": "Νῦν ἀπολύεις τὸν δοῦλόν σου",
+          "thai": "บัดนี้ขอทรงปล่อยผู้รับใช้ของพระองค์",
+          "rationale": "Per uW figs-declarative + figs-123person + figs-euphemism: statement-as-request; Simeon = δοῦλος humble self-reference; 'dismiss' = euphemism for dying. Present-tense ἀπολύεις can be declarative-performative ('you are now dismissing') or prayer-request ('please dismiss'). Thai ขอทรงปล่อย captures the prayer-request flavor; royal ทรง- since addressee is God. ผู้รับใช้ for δοῦλος (rather than ทาส which carries harsher connotation in Thai modern). 3rd-person self-reference preserved"
+        },
+        {
+          "greek": "δέσποτα",
+          "thai": "องค์พระเจ้าผู้ทรงอำนาจ",
+          "rationale": "δέσποτα (NT freq 10) = 'Sovereign Master' — distinct from κύριος. Carries absolute-authority sense, master-over-slave. Thai องค์พระเจ้าผู้ทรงอำนาจ preserves the sovereign-absolute flavor; the combination with δοῦλος 'slave' intensifies the subordination. Glossary entry: δέσπότης → องค์พระเจ้าผู้ทรงอำนาจ (distinct from κύριος → องค์พระผู้เป็นเจ้า)"
+        },
+        {
+          "greek": "κατὰ τὸ ῥῆμά σου",
+          "thai": "ตามพระดำรัสของพระองค์",
+          "rationale": "Per uW figs-metonymy: 'your word' = your promise (v.26 oracle). Thai พระดำรัส royal-speech register"
+        },
+        {
+          "greek": "ἐν εἰρήνῃ",
+          "thai": "เป็นสุข",
+          "rationale": "Echoes LXX Gen 15:15 Abraham 'depart to your fathers in peace' (ἀπελεύσῃ πρὸς τοὺς πατέρας σου μετ' εἰρήνης). Thai เป็นสุข captures the peaceful-departure sense"
+        }
       ],
       "notes": "NUNC DIMITTIS begins (vv.29-32). Ancient church hymn (Compline, Night Prayer). OT echoes pile up: 'depart in peace' = LXX Gen 15:15 (God to Abraham). δέσπότης for God is LXX usage (Gen 15:2, Josh 5:14 Lord of hosts). The slave-master motif implicit in δοῦλος/δέσπότης casts Simeon as a faithful watchman now released from duty. δέσπότης (NT 10x) vs κύριος distinction: δέσπότης emphasizes absolute ownership; κύριος emphasizes authority/lordship. At 2 PET 2:1, JUD 4 δέσπότης of Christ (redemptive-ownership). ADDED TO NT_OT_CITATIONS: LUK 2:29 thematic_allusion to GEN 15:15 (depart in peace to your fathers)."
     }
@@ -524,8 +840,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        {"greek": "εἶδον οἱ ὀφθαλμοί μου", "thai": "นัยน์ตาของข้าพระองค์ได้เห็น", "rationale": "Per uW figs-synecdoche: eyes = whole person in the act of seeing. Thai preserves idiom naturally; ข้าพระองค์ humble-to-God first person per RULES.md §3"},
-        {"greek": "τὸ σωτήριόν σου", "thai": "ความรอดของพระองค์", "rationale": "σωτήριον (NT freq 5) = neuter 'salvation' — here metonymic for 'the Savior' (= the infant Simeon is holding). Per uW figs-metonymy. Thai ความรอด (abstract 'salvation'); metonymic layer documented in notes. The abstract-through-concrete (Simeon sees σωτήριον = sees this baby = sees salvation personified) captured by keeping abstract noun"}
+        {
+          "greek": "εἶδον οἱ ὀφθαλμοί μου",
+          "thai": "นัยน์ตาของข้าพระองค์ได้เห็น",
+          "rationale": "Per uW figs-synecdoche: eyes = whole person in the act of seeing. Thai preserves idiom naturally; ข้าพระองค์ humble-to-God first person per RULES.md §3"
+        },
+        {
+          "greek": "τὸ σωτήριόν σου",
+          "thai": "ความรอดของพระองค์",
+          "rationale": "σωτήριον (NT freq 5) = neuter 'salvation' — here metonymic for 'the Savior' (= the infant Simeon is holding). Per uW figs-metonymy. Thai ความรอด (abstract 'salvation'); metonymic layer documented in notes. The abstract-through-concrete (Simeon sees σωτήριον = sees this baby = sees salvation personified) captured by keeping abstract noun"
+        }
       ],
       "notes": "DIRECT LXX ECHO: ISA 52:10 πᾶσα ἡ γῆ ὄψονται τὴν σωτηρίαν ('all the earth shall see the salvation'). ISA 40:5 LXX καὶ ὄψεται πᾶσα σὰρξ τὸ σωτήριον τοῦ θεοῦ ('all flesh shall see the salvation of God') — σωτήριον + genitive of God, exact parallel. Simeon is seeing with his own eyes what Isaiah prophesied all flesh would see. ADDED TO NT_OT_CITATIONS: LUK 2:30 direct_LXX_echo of ISA 40:5 (all flesh will see the salvation of God); ISA 52:10 (all the earth sees salvation)."
     }
@@ -541,8 +865,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        {"greek": "ἡτοίμασας", "thai": "ทรงจัดเตรียม", "rationale": "Divine-subject aorist: royal-register ทรง- for God's action"},
-        {"greek": "κατὰ πρόσωπον πάντων τῶν λαῶν", "thai": "ต่อหน้าปวงชนทั้งหลาย", "rationale": "Per uW figs-metaphor + figs-explicit: πρόσωπον = face = presence; πάντων τῶν λαῶν = all peoples (plural — Jewish + Gentile). Thai ต่อหน้าปวงชนทั้งหลาย preserves both the spatial-presence metaphor and the universal plural. Important setup for v.32's explicit Gentile reference"}
+        {
+          "greek": "ἡτοίμασας",
+          "thai": "ทรงจัดเตรียม",
+          "rationale": "Divine-subject aorist: royal-register ทรง- for God's action"
+        },
+        {
+          "greek": "κατὰ πρόσωπον πάντων τῶν λαῶν",
+          "thai": "ต่อหน้าปวงชนทั้งหลาย",
+          "rationale": "Per uW figs-metaphor + figs-explicit: πρόσωπον = face = presence; πάντων τῶν λαῶν = all peoples (plural — Jewish + Gentile). Thai ต่อหน้าปวงชนทั้งหลาย preserves both the spatial-presence metaphor and the universal plural. Important setup for v.32's explicit Gentile reference"
+        }
       ],
       "notes": "πάντων τῶν λαῶν (plural 'peoples') — deliberate plural anticipating Gentile inclusion. Single λαός usually = Israel; plural λαοί broadens to nations. Echoes Ps 98:2-3 LXX 'all the ends of the earth have seen the salvation of our God.' ADDED TO NT_OT_CITATIONS: LUK 2:31 thematic_allusion to PSA 98:2-3 (all ends of earth seeing God's salvation)."
     }
@@ -556,10 +888,18 @@
     "translation": {
       "thai": "เป็นความสว่างที่เปิดเผยแก่คนต่างชาติ และเป็นพระเกียรติสิริของอิสราเอลประชากรของพระองค์",
       "thai_literal": null,
-      "thai_summary": "บทสรุปของบทเพลงสิเมโอน ประกาศพระพันธกิจสากลของพระเมสสิยาห์ — ทั้งแก่คนต่างชาติและแก่อิสราเอล สะท้อนคำพยากรณ์ของอิสยาห์ที่กล่าวถึง «ผู้รับใช้» ที่จะเป็น «ความสว่างแก่ประชาชาติ» (อิสยาห์ 42:6; 49:6) นี่เป็นครั้งแรกในพระกิตติคุณลูกาที่คนต่างชาติถูกกล่าวถึงในฐานะผู้รับพระพร เป็นธีมที่จะพัฒนาต่อเนื่องไปในกิจการของอัครทูต",
+      "thai_summary": "บทสรุปของบทเพลงสิเมโอน ประกาศพระพันธกิจสากลของพระเมสสิยาห์ — ทั้งแก่คนต่างชาติและแก่อิสราเอล สะท้อนคำพยากรณ์ของอิสยาห์ที่กล่าวถึง “ผู้รับใช้” ที่จะเป็น “ความสว่างแก่ประชาชาติ” (อิสยาห์ 42:6; 49:6) นี่เป็นครั้งแรกในพระกิตติคุณลูกาที่คนต่างชาติถูกกล่าวถึงในฐานะผู้รับพระพร เป็นธีมที่จะพัฒนาต่อเนื่องไปในกิจการของอัครทูต",
       "key_decisions": [
-        {"greek": "φῶς εἰς ἀποκάλυψιν ἐθνῶν", "thai": "ความสว่างที่เปิดเผยแก่คนต่างชาติ", "rationale": "Per uW figs-metaphor + figs-explicit: light-of-revelation: Jesus enables Gentiles to understand what God wills. Direct echo of ISA 49:6 δέδωκά σε εἰς φῶς ἐθνῶν ('I have given you as light to the nations'). ἔθνη = Gentiles (non-Jews). Thai คนต่างชาติ standard. ความสว่างที่เปิดเผย preserves 'light-for-revelation' construct"},
-        {"greek": "δόξαν λαοῦ σου Ἰσραήλ", "thai": "พระเกียรติสิริของอิสราเอลประชากรของพระองค์", "rationale": "δόξα here = 'glory/honor' in the sense that Messiah brings honor to his people. Thai พระเกียรติสิริ (royal-register, glory-honor). Note: LUK 2:9 translated δόξα as พระสิริ (theophanic glory); here the sense is different (derivative-glory for Israel through Messiah) — so พระเกียรติสิริ fits better, documented variant"}
+        {
+          "greek": "φῶς εἰς ἀποκάλυψιν ἐθνῶν",
+          "thai": "ความสว่างที่เปิดเผยแก่คนต่างชาติ",
+          "rationale": "Per uW figs-metaphor + figs-explicit: light-of-revelation: Jesus enables Gentiles to understand what God wills. Direct echo of ISA 49:6 δέδωκά σε εἰς φῶς ἐθνῶν ('I have given you as light to the nations'). ἔθνη = Gentiles (non-Jews). Thai คนต่างชาติ standard. ความสว่างที่เปิดเผย preserves 'light-for-revelation' construct"
+        },
+        {
+          "greek": "δόξαν λαοῦ σου Ἰσραήλ",
+          "thai": "พระเกียรติสิริของอิสราเอลประชากรของพระองค์",
+          "rationale": "δόξα here = 'glory/honor' in the sense that Messiah brings honor to his people. Thai พระเกียรติสิริ (royal-register, glory-honor). Note: LUK 2:9 translated δόξα as พระสิริ (theophanic glory); here the sense is different (derivative-glory for Israel through Messiah) — so พระเกียรติสิริ fits better, documented variant"
+        }
       ],
       "notes": "NUNC DIMITTIS climax. Direct echo of ISAIAH'S SERVANT SONGS: ISA 49:6 LXX ἰδοὺ δέδωκά σε εἰς διαθήκην γένους, εἰς φῶς ἐθνῶν τοῦ εἶναί σε εἰς σωτηρίαν ἕως ἐσχάτου τῆς γῆς ('behold I have given you as a covenant of a generation, as a light of nations, for you to be for salvation to the ends of the earth'). ISA 42:6 ἔδωκά σε εἰς διαθήκην γένους εἰς φῶς ἐθνῶν. ISA 46:13 LXX ἔδωκα ἐν Σιων σωτηρίαν...δόξαν Ἰσραήλ ('I have given salvation in Zion...glory to Israel'). Luke compresses the whole Isaianic servant-motif complex into one couplet. Gentile-inclusion is programmatic in Luke-Acts (LUK 24:47; ACT 1:8; 13:47 explicitly cites ISA 49:6). δόξα GLOSSARY VARIANT: τranslated พระสิริ in LUK 2:9 (theophanic); here พระเกียรติสิริ (derivative honor brought to Israel) — documented contextual variant, not drift. ADDED TO NT_OT_CITATIONS: LUK 2:32 direct_LXX_echo of ISA 42:6 + ISA 49:6 (light to the nations) + ISA 46:13 (glory to Israel)."
     }
@@ -573,10 +913,18 @@
     "translation": {
       "thai": "บิดาและมารดาของพระกุมารต่างอัศจรรย์ใจในถ้อยคำที่กล่าวเกี่ยวกับพระองค์",
       "thai_literal": null,
-      "thai_summary": "ฉบับแปลยุคเก่า (KJV, THKJV) แปลว่า «โยเซฟและมารดาของพระองค์» ตามการอ่านของต้นฉบับเบซันไทน์ แต่ต้นฉบับกรีกที่เก่าแก่ที่สุดและดีที่สุด (ไซนายติกัส วาติกานัส) อ่านว่า «บิดาและมารดาของพระองค์» ลูกาใช้คำว่า «บิดา» ในความหมายทางกฎหมาย/ครอบครัว — โยเซฟเป็นบิดาบุญธรรมตามกฎหมาย แม้ไม่ใช่บิดาทางสายเลือด (เช่นเดียวกับ 2:48 ที่มารีย์เรียกโยเซฟว่า «บิดาของเจ้า») ฉบับวิจารณ์สมัยใหม่ (SBLGNT, NA28, BSB, ESV, NIV, CSB) อ่านว่า «บิดา» ทั้งหมด",
+      "thai_summary": "ฉบับแปลยุคเก่า (KJV, THKJV) แปลว่า “โยเซฟและมารดาของพระองค์” ตามการอ่านของต้นฉบับเบซันไทน์ แต่ต้นฉบับกรีกที่เก่าแก่ที่สุดและดีที่สุด (ไซนายติกัส วาติกานัส) อ่านว่า “บิดาและมารดาของพระองค์” ลูกาใช้คำว่า “บิดา” ในความหมายทางกฎหมาย/ครอบครัว — โยเซฟเป็นบิดาบุญธรรมตามกฎหมาย แม้ไม่ใช่บิดาทางสายเลือด (เช่นเดียวกับ 2:48 ที่มารีย์เรียกโยเซฟว่า “บิดาของเจ้า”) ฉบับวิจารณ์สมัยใหม่ (SBLGNT, NA28, BSB, ESV, NIV, CSB) อ่านว่า “บิดา” ทั้งหมด",
       "key_decisions": [
-        {"greek": "ὁ πατὴρ αὐτοῦ καὶ ἡ μήτηρ", "thai": "บิดาและมารดาของพระกุมาร", "rationale": "TEXTUAL VARIANT: SBLGNT/NA28/critical-text read ὁ πατὴρ αὐτοῦ καὶ ἡ μήτηρ ('his father and mother'). Byz/TR read Ἰωσὴφ καὶ ἡ μήτηρ αὐτοῦ ('Joseph and his mother'). Following SBLGNT per RULES.md §0. 'Father' here refers to Joseph as legal/adoptive father (not biological) — consistent with v.48 where Mary herself calls Joseph 'your father' to Jesus. No theological contradiction with virginal conception (LUK 1:34-35). Critical-text reading attested by ℵ B D W L Θ and earliest versions; Byz reading is a pious-scribal attempt to avoid apparent conflict with the virgin birth"},
-        {"greek": "θαυμάζοντες ἐπὶ τοῖς λαλουμένοις περὶ αὐτοῦ", "thai": "อัศจรรย์ใจในถ้อยคำที่กล่าวเกี่ยวกับพระองค์", "rationale": "Per uW figs-activepassive: passive participle → 'things spoken.' Imperfect periphrastic ἦν...θαυμάζοντες = 'they were marveling.' Thai อัศจรรย์ใจ standard"}
+        {
+          "greek": "ὁ πατὴρ αὐτοῦ καὶ ἡ μήτηρ",
+          "thai": "บิดาและมารดาของพระกุมาร",
+          "rationale": "TEXTUAL VARIANT: SBLGNT/NA28/critical-text read ὁ πατὴρ αὐτοῦ καὶ ἡ μήτηρ ('his father and mother'). Byz/TR read Ἰωσὴφ καὶ ἡ μήτηρ αὐτοῦ ('Joseph and his mother'). Following SBLGNT per RULES.md §0. 'Father' here refers to Joseph as legal/adoptive father (not biological) — consistent with v.48 where Mary herself calls Joseph 'your father' to Jesus. No theological contradiction with virginal conception (LUK 1:34-35). Critical-text reading attested by ℵ B D W L Θ and earliest versions; Byz reading is a pious-scribal attempt to avoid apparent conflict with the virgin birth"
+        },
+        {
+          "greek": "θαυμάζοντες ἐπὶ τοῖς λαλουμένοις περὶ αὐτοῦ",
+          "thai": "อัศจรรย์ใจในถ้อยคำที่กล่าวเกี่ยวกับพระองค์",
+          "rationale": "Per uW figs-activepassive: passive participle → 'things spoken.' Imperfect periphrastic ἦν...θαυμάζοντες = 'they were marveling.' Thai อัศจรรย์ใจ standard"
+        }
       ],
       "notes": "TEXTUAL VARIANT at v.33: SBLGNT/NA28 'his father and his mother' vs. Byz/TR 'Joseph and his mother.' Evidence strongly favors SBLGNT: ℵ, B, D, L, W, Θ, 1, 33, latt syr^cur sa^mss bo. Byz reading is a theologically-motivated smoothing to avoid calling Joseph 'father' after LUK 1:34-35's virginal-conception narrative. But Luke-the-author has no difficulty calling Joseph 'father' in the legal/adoptive sense (v.48 ὁ πατήρ σου by Mary herself). All major critical-text English Bibles (ESV, NIV, CSB, NRSV, BSB) follow this reading. Mary-Joseph are marveling at Simeon's prophetic declaration — especially the Gentile-light theme which goes beyond Gabriel's prior word to Mary (LUK 1:32-33, which was Israel-focused)."
     }
@@ -590,11 +938,23 @@
     "translation": {
       "thai": "สิเมโอนก็อวยพรแก่พวกเขา และกล่าวแก่มารีย์มารดาของพระกุมารว่า ดูเถิด พระกุมารนี้ถูกกำหนดไว้ให้คนเป็นอันมากในอิสราเอลต้องล้มลงและลุกขึ้น และให้เป็นหมายสำคัญที่จะถูกคัดค้าน",
       "thai_literal": null,
-      "thai_summary": "สิเมโอนเปลี่ยนจากการสรรเสริญเป็นคำพยากรณ์ที่หนักหน่วง — พระเยซูจะเป็นเหตุแห่งการแบ่งแยก ไม่ใช่เพียงแค่การปลอบประโลม สำนวน «การล้มและลุกขึ้น» สะท้อนอิสยาห์ 8:14-15 ที่ว่าพระเจ้าจะเป็น «หินสะดุด» และ «ศิลาล้มลง» ให้บางคน แต่เป็น «ที่ลี้ภัย» สำหรับผู้ที่วางใจ พระเยซูไม่ใช่เพียงสัญลักษณ์ของความหวัง แต่เป็นจุดวิกฤตแห่งการตัดสินใจ — คนไม่สามารถเป็นกลางต่อพระองค์ได้",
+      "thai_summary": "สิเมโอนเปลี่ยนจากการสรรเสริญเป็นคำพยากรณ์ที่หนักหน่วง — พระเยซูจะเป็นเหตุแห่งการแบ่งแยก ไม่ใช่เพียงแค่การปลอบประโลม สำนวน “การล้มและลุกขึ้น” สะท้อนอิสยาห์ 8:14-15 ที่ว่าพระเจ้าจะเป็น “หินสะดุด” และ “ศิลาล้มลง” ให้บางคน แต่เป็น “ที่ลี้ภัย” สำหรับผู้ที่วางใจ พระเยซูไม่ใช่เพียงสัญลักษณ์ของความหวัง แต่เป็นจุดวิกฤตแห่งการตัดสินใจ — คนไม่สามารถเป็นกลางต่อพระองค์ได้",
       "key_decisions": [
-        {"greek": "εὐλόγησεν αὐτοὺς", "thai": "อวยพรแก่พวกเขา", "rationale": "εὐλογέω + human accusative = bless (priestly-style). Thai อวยพร standard"},
-        {"greek": "οὗτος κεῖται εἰς πτῶσιν καὶ ἀνάστασιν πολλῶν", "thai": "พระกุมารนี้ถูกกำหนดไว้ให้คนเป็นอันมาก...ต้องล้มลงและลุกขึ้น", "rationale": "Per uW figs-activepassive + figs-metonymy: κεῖται = 'is appointed/set' (divine-passive implied); πτῶσις + ἀνάστασις = falling + rising, metaphor for people's responsive division. Thai ถูกกำหนดไว้ captures 'set/appointed.' Preserving both 'fall' and 'rise' — the order matters (fall first, then rise — either falling-of-some + rising-of-others, or a two-stage pattern of many individuals first falling then rising through Jesus). Documented both readings in notes"},
-        {"greek": "σημεῖον ἀντιλεγόμενον", "thai": "หมายสำคัญที่จะถูกคัดค้าน", "rationale": "Per uW figs-activepassive + figs-metonymy: 'spoken against' = opposed. σημεῖον = sign (God's activity-marker). Thai หมายสำคัญ (glossary). ถูกคัดค้าน passive-opposed"}
+        {
+          "greek": "εὐλόγησεν αὐτοὺς",
+          "thai": "อวยพรแก่พวกเขา",
+          "rationale": "εὐλογέω + human accusative = bless (priestly-style). Thai อวยพร standard"
+        },
+        {
+          "greek": "οὗτος κεῖται εἰς πτῶσιν καὶ ἀνάστασιν πολλῶν",
+          "thai": "พระกุมารนี้ถูกกำหนดไว้ให้คนเป็นอันมาก...ต้องล้มลงและลุกขึ้น",
+          "rationale": "Per uW figs-activepassive + figs-metonymy: κεῖται = 'is appointed/set' (divine-passive implied); πτῶσις + ἀνάστασις = falling + rising, metaphor for people's responsive division. Thai ถูกกำหนดไว้ captures 'set/appointed.' Preserving both 'fall' and 'rise' — the order matters (fall first, then rise — either falling-of-some + rising-of-others, or a two-stage pattern of many individuals first falling then rising through Jesus). Documented both readings in notes"
+        },
+        {
+          "greek": "σημεῖον ἀντιλεγόμενον",
+          "thai": "หมายสำคัญที่จะถูกคัดค้าน",
+          "rationale": "Per uW figs-activepassive + figs-metonymy: 'spoken against' = opposed. σημεῖον = sign (God's activity-marker). Thai หมายสำคัญ (glossary). ถูกคัดค้าน passive-opposed"
+        }
       ],
       "notes": "Key interpretive: πτῶσις (NT 2, here + MAT 7:27) + ἀνάστασις + πολλῶν. Two main readings: (A) 'many will fall, many will rise' — division, distinguishing two groups; (B) 'many will fall and (then the same ones) rise' — Christocentric pattern of dying-to-self, rising in Christ. (A) is the majority exegesis (Marshall, Bock, Nolland, Fitzmyer) and fits Isa 8:14-15 allusion. (B) is less attested but has patristic support. OT ALLUSION: ISA 8:14-15 λίθον προσκόμματος ('stone of stumbling') — the same stone/sign causes some to fall and trip and others to take refuge. Also ISA 28:16 (cornerstone) used messianically. σημεῖον ἀντιλεγόμενον — 'sign spoken against' — anticipates the crucifixion opposition. Verse 34 starts the shift from Nunc Dimittis praise to darker prophetic word; v.35 intensifies. ADDED TO NT_OT_CITATIONS: LUK 2:34 thematic_allusion to ISA 8:14-15 (stone of stumbling for Israel); ISA 28:16 (cornerstone)."
     }
@@ -608,10 +968,18 @@
     "translation": {
       "thai": "แม้กระทั่งดาบเล่มหนึ่งก็จะแทงทะลุจิตใจของเธอด้วย เพื่อว่าความคิดในใจของคนเป็นอันมากจะถูกเปิดเผย",
       "thai_literal": null,
-      "thai_summary": "คำพยากรณ์ถึงมารีย์โดยตรง «ดาบ» (รอมไฟอา) เป็นดาบใหญ่สองคม — ภาพของความทุกข์ที่แทงทะลุจิตวิญญาณของเธอเอง ธรรมเนียมคริสเตียนมองว่านี่เป็นการบอกล่วงหน้าถึงความเจ็บปวดของมารีย์เมื่อเห็นพระบุตรของเธอถูกตรึงที่กางเขน (ยอห์น 19:25-27) แต่ภาพกว้างกว่านั้น — ความเจ็บปวดของมารีย์สะท้อนถึงความเจ็บปวดของอิสราเอลและทั่วโลกที่ต้องเผชิญการเลือกตอบสนองต่อพระเมสสิยาห์",
+      "thai_summary": "คำพยากรณ์ถึงมารีย์โดยตรง “ดาบ” (รอมไฟอา) เป็นดาบใหญ่สองคม — ภาพของความทุกข์ที่แทงทะลุจิตวิญญาณของเธอเอง ธรรมเนียมคริสเตียนมองว่านี่เป็นการบอกล่วงหน้าถึงความเจ็บปวดของมารีย์เมื่อเห็นพระบุตรของเธอถูกตรึงที่กางเขน (ยอห์น 19:25-27) แต่ภาพกว้างกว่านั้น — ความเจ็บปวดของมารีย์สะท้อนถึงความเจ็บปวดของอิสราเอลและทั่วโลกที่ต้องเผชิญการเลือกตอบสนองต่อพระเมสสิยาห์",
       "key_decisions": [
-        {"greek": "σοῦ δὲ αὐτῆς τὴν ψυχὴν διελεύσεται ῥομφαία", "thai": "ดาบเล่มหนึ่งก็จะแทงทะลุจิตใจของเธอด้วย", "rationale": "Per uW figs-metaphor: bitter grief as a sword piercing the inner being. ῥομφαία (NT 7, especially Rev) = large two-edged sword (vs. μάχαιρα dagger). Thai ดาบเล่มหนึ่ง...แทงทะลุจิตใจ preserves the vivid sword-through-soul metaphor. Note: Greek word-order places 'you, yourself' (σοῦ...αὐτῆς) emphatically — 'even you yourself'"},
-        {"greek": "ὅπως ἂν ἀποκαλυφθῶσιν ἐκ πολλῶν καρδιῶν διαλογισμοί", "thai": "เพื่อว่าความคิดในใจของคนเป็นอันมากจะถูกเปิดเผย", "rationale": "Per uW figs-activepassive + figs-metaphor: 'hearts' = inner thoughts; passive → divine-passive 'be revealed.' Thai ความคิดในใจ (thought-in-heart) captures both. The clause is purpose — Jesus's challenging presence tests and reveals the true orientation of people's hearts"}
+        {
+          "greek": "σοῦ δὲ αὐτῆς τὴν ψυχὴν διελεύσεται ῥομφαία",
+          "thai": "ดาบเล่มหนึ่งก็จะแทงทะลุจิตใจของเธอด้วย",
+          "rationale": "Per uW figs-metaphor: bitter grief as a sword piercing the inner being. ῥομφαία (NT 7, especially Rev) = large two-edged sword (vs. μάχαιρα dagger). Thai ดาบเล่มหนึ่ง...แทงทะลุจิตใจ preserves the vivid sword-through-soul metaphor. Note: Greek word-order places 'you, yourself' (σοῦ...αὐτῆς) emphatically — 'even you yourself'"
+        },
+        {
+          "greek": "ὅπως ἂν ἀποκαλυφθῶσιν ἐκ πολλῶν καρδιῶν διαλογισμοί",
+          "thai": "เพื่อว่าความคิดในใจของคนเป็นอันมากจะถูกเปิดเผย",
+          "rationale": "Per uW figs-activepassive + figs-metaphor: 'hearts' = inner thoughts; passive → divine-passive 'be revealed.' Thai ความคิดในใจ (thought-in-heart) captures both. The clause is purpose — Jesus's challenging presence tests and reveals the true orientation of people's hearts"
+        }
       ],
       "notes": "Word-order ambiguity: the final ὅπως-clause could attach primarily to v.34's 'sign spoken against' (the sign's opposition reveals hearts) OR to the immediate sword-phrase (Mary's grief, paired with the hearts-revealed). Greek-word order and ποιμέν-reading suggest primary attachment to Jesus's broader mission, with Mary's experience as an embedded aside (hence the word-order inversion — 'and a sword too through your very soul — [purpose:] that thoughts may be revealed'). Translation preserves this with the 'as well' + purpose-clause order. ῥομφαία use: LXX Ezek 14:17 has ῥομφαία διέλθῃ ἐπὶ τὴν γῆν — sword of judgment passing through the land; psychological internalization here. Luke's sole use of ῥομφαία in a prophetic-grief context anticipates Mary's presence at the cross (JHN 19:25-27)."
     }
@@ -625,13 +993,33 @@
     "translation": {
       "thai": "มีหญิงผู้เผยพระวจนะคนหนึ่งชื่ออันนา เป็นบุตรสาวของฟานูเอล เผ่าอาเชอร์ นางมีอายุชรามาก หลังออกเรือนแล้วได้อยู่กินกับสามีเป็นเวลาเจ็ดปี",
       "thai_literal": null,
-      "thai_summary": "อันนามาจากเผ่าอาเชอร์ ซึ่งเป็นหนึ่งใน «เผ่าสูญหาย» ในประเทศทางเหนือของอาณาจักรอิสราเอล — แต่สมาชิกของเผ่าเหล่านี้ก็ยังรักษาเอกลักษณ์ของตนไว้ได้ การปรากฏของคู่พยานชายหญิง (สิเมโอนและอันนา) รับรองเหตุการณ์ตามธรรมเนียมกฎหมายยิว (เฉลยธรรมบัญญัติ 19:15) ที่ต้องมีพยานสองคนขึ้นไป ลูกายังเน้นการยกย่องสตรีที่เคร่งครัดในความเชื่อตลอดพระกิตติคุณ — มารีย์ เอลีซาเบธ อันนา",
+      "thai_summary": "อันนามาจากเผ่าอาเชอร์ ซึ่งเป็นหนึ่งใน “เผ่าสูญหาย” ในประเทศทางเหนือของอาณาจักรอิสราเอล — แต่สมาชิกของเผ่าเหล่านี้ก็ยังรักษาเอกลักษณ์ของตนไว้ได้ การปรากฏของคู่พยานชายหญิง (สิเมโอนและอันนา) รับรองเหตุการณ์ตามธรรมเนียมกฎหมายยิว (เฉลยธรรมบัญญัติ 19:15) ที่ต้องมีพยานสองคนขึ้นไป ลูกายังเน้นการยกย่องสตรีที่เคร่งครัดในความเชื่อตลอดพระกิตติคุณ — มารีย์ เอลีซาเบธ อันนา",
       "key_decisions": [
-        {"greek": "Ἅννα προφῆτις", "thai": "หญิงผู้เผยพระวจนะคนหนึ่งชื่ออันนา", "rationale": "HAPAX: Ἅννα (only here in NT; Hebrew חַנָּה Hannah = 'grace'). HAPAX: προφῆτις (NT 2, here + Rev 2:20 negative) — feminine of προφήτης. Per uW writing-participants. Thai หญิงผู้เผยพระวจนะ (female-prophet). อันนา standard Thai Christian transliteration"},
-        {"greek": "Φανουήλ", "thai": "ฟานูเอล", "rationale": "HAPAX: Φανουήλ (only here in NT). From Hebrew פְּנוּאֵל Penuel = 'face of God' (cf. Gen 32:30 Jacob's wrestling site). Thai ฟานูเอล via Greek transliteration"},
-        {"greek": "ἐκ φυλῆς Ἀσήρ", "thai": "เผ่าอาเชอร์", "rationale": "Asher = one of the northern 'lost tribes' (cf. 2 Kgs 17). That Anna traces to Asher is notable — genealogical continuity preserved. Thai อาเชอร์ standard Thai Christian form"},
-        {"greek": "προβεβηκυῖα ἐν ἡμέραις πολλαῖς", "thai": "มีอายุชรามาก", "rationale": "Per uW figs-idiom: Hebraic 'advanced in days' = aged. Same idiom as LUK 1:7 of Elizabeth/Zechariah (which I translated มีอายุล่วงเข้าสู่วัยชรา). Here compressed to มีอายุชรามาก for narrative pace"},
-        {"greek": "ζήσασα μετὰ ἀνδρὸς ἔτη ἑπτὰ ἀπὸ τῆς παρθενίας αὐτῆς", "thai": "หลังออกเรือนแล้วได้อยู่กินกับสามีเป็นเวลาเจ็ดปี", "rationale": "HAPAX: παρθενία (only here in NT) — 'virginity/maidenhood.' Per uW figs-idiom: 'from her virginity' = 'from her marriage' (the custom mark). Thai หลังออกเรือน (traditional expression 'after leaving home' = after marriage). อยู่กินกับสามี = lived with husband"}
+        {
+          "greek": "Ἅννα προφῆτις",
+          "thai": "หญิงผู้เผยพระวจนะคนหนึ่งชื่ออันนา",
+          "rationale": "HAPAX: Ἅννα (only here in NT; Hebrew חַנָּה Hannah = 'grace'). HAPAX: προφῆτις (NT 2, here + Rev 2:20 negative) — feminine of προφήτης. Per uW writing-participants. Thai หญิงผู้เผยพระวจนะ (female-prophet). อันนา standard Thai Christian transliteration"
+        },
+        {
+          "greek": "Φανουήλ",
+          "thai": "ฟานูเอล",
+          "rationale": "HAPAX: Φανουήλ (only here in NT). From Hebrew פְּנוּאֵל Penuel = 'face of God' (cf. Gen 32:30 Jacob's wrestling site). Thai ฟานูเอล via Greek transliteration"
+        },
+        {
+          "greek": "ἐκ φυλῆς Ἀσήρ",
+          "thai": "เผ่าอาเชอร์",
+          "rationale": "Asher = one of the northern 'lost tribes' (cf. 2 Kgs 17). That Anna traces to Asher is notable — genealogical continuity preserved. Thai อาเชอร์ standard Thai Christian form"
+        },
+        {
+          "greek": "προβεβηκυῖα ἐν ἡμέραις πολλαῖς",
+          "thai": "มีอายุชรามาก",
+          "rationale": "Per uW figs-idiom: Hebraic 'advanced in days' = aged. Same idiom as LUK 1:7 of Elizabeth/Zechariah (which I translated มีอายุล่วงเข้าสู่วัยชรา). Here compressed to มีอายุชรามาก for narrative pace"
+        },
+        {
+          "greek": "ζήσασα μετὰ ἀνδρὸς ἔτη ἑπτὰ ἀπὸ τῆς παρθενίας αὐτῆς",
+          "thai": "หลังออกเรือนแล้วได้อยู่กินกับสามีเป็นเวลาเจ็ดปี",
+          "rationale": "HAPAX: παρθενία (only here in NT) — 'virginity/maidenhood.' Per uW figs-idiom: 'from her virginity' = 'from her marriage' (the custom mark). Thai หลังออกเรือน (traditional expression 'after leaving home' = after marriage). อยู่กินกับสามี = lived with husband"
+        }
       ],
       "notes": "THREE HAPAX: Ἅννα, Φανουήλ, παρθενία. Also προφῆτις (2x NT). Anna's tribal identification (Asher — northern, 'lost' tribe) underscores Luke's theme that genealogical Israel persists and awaits Messiah in all quarters. Paired male/female witness (Simeon + Anna) fulfills Deut 19:15 two-witness requirement for legal testimony. Further feminist-inclusive: Luke repeatedly pairs male-female witnesses (Zechariah/Mary; Simeon/Anna; in Acts, Peter/Tabitha). ADDED TO NT_OT_CITATIONS: LUK 2:36 thematic_allusion to DEU 19:15 (two-witness rule)."
     }
@@ -645,11 +1033,23 @@
     "translation": {
       "thai": "แล้วเป็นหม้ายจนถึงอายุแปดสิบสี่ปี นางไม่เคยห่างจากพระวิหาร แต่ปรนนิบัติพระเจ้าทั้งกลางคืนกลางวันด้วยการอดอาหารและอธิษฐาน",
       "thai_literal": null,
-      "thai_summary": "ข้อนี้อาจแปลได้ว่านาง «เป็นหม้ายจนถึงอายุแปดสิบสี่ปี» (ดังนั้นนางอายุ 84 ปี) หรือ «เป็นหม้าย 84 ปี» (ดังนั้นหากแต่งงานตอนอายุ 14 และเป็นหม้ายหลังจาก 7 ปี นางน่าจะอายุประมาณ 105 ปี — ใกล้เคียงกับอายุของยูดิธในฉบับนอกสารบบ ยูดิธ 16:23 ซึ่งเสียชีวิตเมื่ออายุ 105 ปี) อายุที่สูงผิดปกติเน้นความเคร่งครัดและพันธกิจการเผยพระวจนะของนางที่ยั่งยืน",
+      "thai_summary": "ข้อนี้อาจแปลได้ว่านาง “เป็นหม้ายจนถึงอายุแปดสิบสี่ปี” (ดังนั้นนางอายุ 84 ปี) หรือ “เป็นหม้าย 84 ปี” (ดังนั้นหากแต่งงานตอนอายุ 14 และเป็นหม้ายหลังจาก 7 ปี นางน่าจะอายุประมาณ 105 ปี — ใกล้เคียงกับอายุของยูดิธในฉบับนอกสารบบ ยูดิธ 16:23 ซึ่งเสียชีวิตเมื่ออายุ 105 ปี) อายุที่สูงผิดปกติเน้นความเคร่งครัดและพันธกิจการเผยพระวจนะของนางที่ยั่งยืน",
       "key_decisions": [
-        {"greek": "αὐτὴ χήρα ἕως ἐτῶν ὀγδοήκοντα τεσσάρων", "thai": "เป็นหม้ายจนถึงอายุแปดสิบสี่ปี", "rationale": "AMBIGUITY: can mean (a) 'widowed to age 84' (Anna now 84) or (b) 'widowed for 84 years' (Anna ~105, married at ~14 + 7 years + 84 years widowhood). Per uW options. Thai จนถึงอายุแปดสิบสี่ปี preserves reading (a) which is the more natural Greek (a temporal 'until age X' sense). The 84-years-widowhood reading is documented in thai_summary"},
-        {"greek": "οὐκ ἀφίστατο τοῦ ἱεροῦ", "thai": "ไม่เคยห่างจากพระวิหาร", "rationale": "Per uW figs-litotes + figs-hyperbole: positive through double-negative; hyperbolic 'never left' = 'was always there.' Thai ไม่เคยห่างจากพระวิหาร preserves litotes naturally in Thai"},
-        {"greek": "νηστείαις καὶ δεήσεσιν λατρεύουσα νύκτα καὶ ἡμέραν", "thai": "ปรนนิบัติพระเจ้าทั้งกลางคืนกลางวันด้วยการอดอาหารและอธิษฐาน", "rationale": "Per uW figs-idiom + figs-merism: λατρεύω = 'serve/worship' idiomatically; 'night and day' = all the time (merism). Thai ปรนนิบัติพระเจ้า preserves the cultic-service flavor (vs. mere prayer). กลางคืนกลางวัน standard Thai merism for 'all the time'"}
+        {
+          "greek": "αὐτὴ χήρα ἕως ἐτῶν ὀγδοήκοντα τεσσάρων",
+          "thai": "เป็นหม้ายจนถึงอายุแปดสิบสี่ปี",
+          "rationale": "AMBIGUITY: can mean (a) 'widowed to age 84' (Anna now 84) or (b) 'widowed for 84 years' (Anna ~105, married at ~14 + 7 years + 84 years widowhood). Per uW options. Thai จนถึงอายุแปดสิบสี่ปี preserves reading (a) which is the more natural Greek (a temporal 'until age X' sense). The 84-years-widowhood reading is documented in thai_summary"
+        },
+        {
+          "greek": "οὐκ ἀφίστατο τοῦ ἱεροῦ",
+          "thai": "ไม่เคยห่างจากพระวิหาร",
+          "rationale": "Per uW figs-litotes + figs-hyperbole: positive through double-negative; hyperbolic 'never left' = 'was always there.' Thai ไม่เคยห่างจากพระวิหาร preserves litotes naturally in Thai"
+        },
+        {
+          "greek": "νηστείαις καὶ δεήσεσιν λατρεύουσα νύκτα καὶ ἡμέραν",
+          "thai": "ปรนนิบัติพระเจ้าทั้งกลางคืนกลางวันด้วยการอดอาหารและอธิษฐาน",
+          "rationale": "Per uW figs-idiom + figs-merism: λατρεύω = 'serve/worship' idiomatically; 'night and day' = all the time (merism). Thai ปรนนิบัติพระเจ้า preserves the cultic-service flavor (vs. mere prayer). กลางคืนกลางวัน standard Thai merism for 'all the time'"
+        }
       ],
       "notes": "Anna's age-ambiguity: 'widow to age 84' (majority) vs 'widowed 84 years' (=~105 total, echoing JUDITH 16:23 LXX in the Apocrypha, where Judith lived to 105). The higher age strengthens the Judith-echo (widow + piety + liberation-of-Israel theme). νηστεία and δέησις both appear in 1 TIM 5:5 describing the ideal widow — possibly Pauline code referring back to this pattern. ADDED TO NT_OT_CITATIONS: LUK 2:37 thematic_allusion to ANNA/HANNAH (1 SAM 1-2) — implicit namesake parallel, no direct citation."
     }
@@ -663,11 +1063,23 @@
     "translation": {
       "thai": "ในเวลานั้นเองนางเข้ามาใกล้ โมทนาขอบพระคุณพระเจ้า และพูดถึงพระกุมารแก่ทุกคนที่เฝ้าคอยการไถ่กรุงเยรูซาเล็ม",
       "thai_literal": null,
-      "thai_summary": "«การไถ่กรุงเยรูซาเล็ม» (ลิทโรซิส อิเอรูซาเลม) เป็นสำนวนเมสสิยาห์ ขนานกับ «การปลอบประโลมของอิสราเอล» ที่สิเมโอนเฝ้ารอ (ข้อ 25) — ทั้งสองคำสะท้อนความหวังของชาวยิวที่แท้จริงในยุคสมัยของลูกา คำว่า «ไถ่» (ลิทโรซิส) เตือนใจให้นึกถึงการไถ่ของพระเจ้าในการปลดปล่อยจากอียิปต์ (อพยพ 6:6) และคำสัญญาในอิสยาห์ 52:9 ที่ว่า «องค์พระผู้เป็นเจ้าทรงปลอบประโลมประชากรของพระองค์ พระองค์ทรงไถ่เยรูซาเล็ม»",
+      "thai_summary": "“การไถ่กรุงเยรูซาเล็ม” (ลิทโรซิส อิเอรูซาเลม) เป็นสำนวนเมสสิยาห์ ขนานกับ “การปลอบประโลมของอิสราเอล” ที่สิเมโอนเฝ้ารอ (ข้อ 25) — ทั้งสองคำสะท้อนความหวังของชาวยิวที่แท้จริงในยุคสมัยของลูกา คำว่า “ไถ่” (ลิทโรซิส) เตือนใจให้นึกถึงการไถ่ของพระเจ้าในการปลดปล่อยจากอียิปต์ (อพยพ 6:6) และคำสัญญาในอิสยาห์ 52:9 ที่ว่า “องค์พระผู้เป็นเจ้าทรงปลอบประโลมประชากรของพระองค์ พระองค์ทรงไถ่เยรูซาเล็ม”",
       "key_decisions": [
-        {"greek": "αὐτῇ τῇ ὥρᾳ ἐπιστᾶσα", "thai": "ในเวลานั้นเองนางเข้ามาใกล้", "rationale": "Per uW figs-idiom: 'at that very hour' = at that very moment. Per uW: ἐπιστᾶσα = 'coming up to (Mary, Joseph, Jesus).' Thai ในเวลานั้นเอง + เข้ามาใกล้"},
-        {"greek": "ἀνθωμολογεῖτο τῷ θεῷ", "thai": "โมทนาขอบพระคุณพระเจ้า", "rationale": "HAPAX: ἀνθομολογέομαι (only here in NT) — compound verb, 'give thanks/praise in return' or 'confess in response.' LXX frequent in Pss & 1/2 Chr for thanksgiving. Thai โมทนาขอบพระคุณ standard formal thanksgiving"},
-        {"greek": "τοῖς προσδεχομένοις λύτρωσιν Ἰερουσαλήμ", "thai": "ทุกคนที่เฝ้าคอยการไถ่กรุงเยรูซาเล็ม", "rationale": "Per uW figs-metonymy x2: λύτρωσις (NT freq 3) = 'redemption' — metonymic for 'the Redeemer.' Ἰερουσαλήμ = all people of Israel. Thai การไถ่กรุงเยรูซาเล็ม preserves the literal expression; metonymic layer noted. προσδέχομαι same active-waiting verb as v.25 Simeon"}
+        {
+          "greek": "αὐτῇ τῇ ὥρᾳ ἐπιστᾶσα",
+          "thai": "ในเวลานั้นเองนางเข้ามาใกล้",
+          "rationale": "Per uW figs-idiom: 'at that very hour' = at that very moment. Per uW: ἐπιστᾶσα = 'coming up to (Mary, Joseph, Jesus).' Thai ในเวลานั้นเอง + เข้ามาใกล้"
+        },
+        {
+          "greek": "ἀνθωμολογεῖτο τῷ θεῷ",
+          "thai": "โมทนาขอบพระคุณพระเจ้า",
+          "rationale": "HAPAX: ἀνθομολογέομαι (only here in NT) — compound verb, 'give thanks/praise in return' or 'confess in response.' LXX frequent in Pss & 1/2 Chr for thanksgiving. Thai โมทนาขอบพระคุณ standard formal thanksgiving"
+        },
+        {
+          "greek": "τοῖς προσδεχομένοις λύτρωσιν Ἰερουσαλήμ",
+          "thai": "ทุกคนที่เฝ้าคอยการไถ่กรุงเยรูซาเล็ม",
+          "rationale": "Per uW figs-metonymy x2: λύτρωσις (NT freq 3) = 'redemption' — metonymic for 'the Redeemer.' Ἰερουσαλήμ = all people of Israel. Thai การไถ่กรุงเยรูซาเล็ม preserves the literal expression; metonymic layer noted. προσδέχομαι same active-waiting verb as v.25 Simeon"
+        }
       ],
       "notes": "HAPAX: ἀνθομολογέομαι (only here in NT; LXX common). 'Redemption of Jerusalem' is Simeon's 'consolation of Israel' equivalent-phrase — both are OT-Messianic-expectation idioms. ISA 52:9 'the Lord has comforted his people, he has redeemed Jerusalem' explicitly pairs the two. ISA 63:4 'year of my redemption (λυτρώσεως)' eschatological. Anna's ministry completes the twin male-female witness theme (vv.25-38). ADDED TO NT_OT_CITATIONS: LUK 2:38 direct_lexical_echo of ISA 52:9 (παρακαλέω + λυτρόω paired re Jerusalem)."
     }
@@ -683,8 +1095,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        {"greek": "πάντα τὰ κατὰ τὸν νόμον κυρίου", "thai": "ทุกสิ่งครบถ้วนตามธรรมบัญญัติขององค์พระผู้เป็นเจ้า", "rationale": "Summary clause — everything the Law required. Thai ครบถ้วน captures completion sense"},
-        {"greek": "ἐπέστρεψαν εἰς τὴν Γαλιλαίαν εἰς πόλιν ἑαυτῶν Ναζαρέθ", "thai": "กลับไปยังแคว้นกาลิลี ถึงเมืองนาซาเร็ธเมืองของตน", "rationale": "Subject (Joseph + Mary) supplied for Thai clarity. Place-names per established glossary: Γαλιλαία → กาลิลี, Ναζαρέθ → นาซาเร็ธ"}
+        {
+          "greek": "πάντα τὰ κατὰ τὸν νόμον κυρίου",
+          "thai": "ทุกสิ่งครบถ้วนตามธรรมบัญญัติขององค์พระผู้เป็นเจ้า",
+          "rationale": "Summary clause — everything the Law required. Thai ครบถ้วน captures completion sense"
+        },
+        {
+          "greek": "ἐπέστρεψαν εἰς τὴν Γαλιλαίαν εἰς πόλιν ἑαυτῶν Ναζαρέθ",
+          "thai": "กลับไปยังแคว้นกาลิลี ถึงเมืองนาซาเร็ธเมืองของตน",
+          "rationale": "Subject (Joseph + Mary) supplied for Thai clarity. Place-names per established glossary: Γαλιλαία → กาลิลี, Ναζαρέθ → นาซาเร็ธ"
+        }
       ],
       "notes": "Luke omits the flight-to-Egypt sequence (MAT 2:13-23) and moves directly from Jerusalem to Nazareth. Harmonization: the Egyptian sojourn likely fits between v.38 and v.39, or between the dedication and some earlier Jerusalem moment; Luke and Matthew select different events and the two accounts are complementary, not contradictory."
     }
@@ -698,11 +1118,23 @@
     "translation": {
       "thai": "พระกุมารก็ทรงเจริญวัยและมีกำลังเข้มแข็งขึ้น เปี่ยมด้วยปัญญา และพระคุณของพระเจ้าอยู่กับพระองค์",
       "thai_literal": null,
-      "thai_summary": "ข้อนี้สะท้อนคำบรรยายการเจริญเติบโตของซามูเอลใน 1 ซามูเอล 2:26 อย่างใกล้ชิด — «เด็กซามูเอลก็ยิ่งเจริญเติบโตขึ้น เป็นที่ชื่นชอบของพระยาห์เวห์และของมนุษย์» ลูกาจงใจวาดภาพพระเยซูในแบบซามูเอล ผู้เผยพระวจนะและผู้เจิมกษัตริย์ ที่เติบโตใกล้ชิดกับพระเจ้าในพระวิหาร แต่พระเยซูมีมากกว่าซามูเอล — พระองค์ไม่เพียงแค่ «ชื่นชอบ» แต่ «เปี่ยมด้วยปัญญา»",
+      "thai_summary": "ข้อนี้สะท้อนคำบรรยายการเจริญเติบโตของซามูเอลใน 1 ซามูเอล 2:26 อย่างใกล้ชิด — “เด็กซามูเอลก็ยิ่งเจริญเติบโตขึ้น เป็นที่ชื่นชอบของพระยาห์เวห์และของมนุษย์” ลูกาจงใจวาดภาพพระเยซูในแบบซามูเอล ผู้เผยพระวจนะและผู้เจิมกษัตริย์ ที่เติบโตใกล้ชิดกับพระเจ้าในพระวิหาร แต่พระเยซูมีมากกว่าซามูเอล — พระองค์ไม่เพียงแค่ “ชื่นชอบ” แต่ “เปี่ยมด้วยปัญญา”",
       "key_decisions": [
-        {"greek": "ηὔξανεν καὶ ἐκραταιοῦτο", "thai": "ทรงเจริญวัยและมีกำลังเข้มแข็งขึ้น", "rationale": "αὐξάνω = grow. κραταιόομαι (NT freq 4) = become strong. Per uW figs-activepassive. Thai ทรงเจริญวัย (royal-register growth) + มีกำลังเข้มแข็งขึ้น — direct echoes LXX 1 SAM 2:21, 2:26 of Samuel"},
-        {"greek": "πληρούμενον σοφίᾳ", "thai": "เปี่ยมด้วยปัญญา", "rationale": "Per uW figs-activepassive: present passive ptc = 'being filled.' Thai เปี่ยมด้วยปัญญา"},
-        {"greek": "χάρις θεοῦ ἦν ἐπ’ αὐτό", "thai": "พระคุณของพระเจ้าอยู่กับพระองค์", "rationale": "Per uW figs-metaphor: ἐπί 'upon' = with him in a special way. Thai อยู่กับพระองค์ natural. Echo of LUK 1:30 χάρις...παρὰ τῷ θεῷ (Mary's favor with God)"}
+        {
+          "greek": "ηὔξανεν καὶ ἐκραταιοῦτο",
+          "thai": "ทรงเจริญวัยและมีกำลังเข้มแข็งขึ้น",
+          "rationale": "αὐξάνω = grow. κραταιόομαι (NT freq 4) = become strong. Per uW figs-activepassive. Thai ทรงเจริญวัย (royal-register growth) + มีกำลังเข้มแข็งขึ้น — direct echoes LXX 1 SAM 2:21, 2:26 of Samuel"
+        },
+        {
+          "greek": "πληρούμενον σοφίᾳ",
+          "thai": "เปี่ยมด้วยปัญญา",
+          "rationale": "Per uW figs-activepassive: present passive ptc = 'being filled.' Thai เปี่ยมด้วยปัญญา"
+        },
+        {
+          "greek": "χάρις θεοῦ ἦν ἐπ’ αὐτό",
+          "thai": "พระคุณของพระเจ้าอยู่กับพระองค์",
+          "rationale": "Per uW figs-metaphor: ἐπί 'upon' = with him in a special way. Thai อยู่กับพระองค์ natural. Echo of LUK 1:30 χάρις...παρὰ τῷ θεῷ (Mary's favor with God)"
+        }
       ],
       "notes": "MAJOR OT ECHO: 1 SAM 2:26 LXX καὶ τὸ παιδάριον Σαμουὴλ ἐπορεύετο καὶ ἐμεγαλύνετο καὶ ἀγαθὸν καὶ μετὰ κυρίου καὶ μετὰ ἀνθρώπων ('the boy Samuel walked and was growing and was good with both the Lord and with people'). 1 SAM 2:21 (LXX) ηὔξανεν τὸ παιδάριον Σαμουήλ παρὰ κυρίῳ. Luke deliberately patterns Jesus's growth after Samuel — positioning Jesus as the New Samuel: prophet, kingmaker, temple-child. v.40 previews v.52 which makes the 1 Sam echo explicit. ADDED TO NT_OT_CITATIONS: LUK 2:40 direct_LXX_echo of 1 SAM 2:21 + 1 SAM 2:26 (Samuel's growth)."
     }
@@ -718,8 +1150,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        {"greek": "κατ’ ἔτος", "thai": "ทุกปี", "rationale": "Distributive κατά + accusative = 'each year.' Thai ทุกปี"},
-        {"greek": "τῇ ἑορτῇ τοῦ πάσχα", "thai": "ในเทศกาลปัสกา", "rationale": "πάσχα (Hebrew פֶּסַח Pesach) = Passover. Thai เทศกาลปัสกา standard Thai Christian term. One of the three pilgrimage festivals required annually per Deut 16:16"}
+        {
+          "greek": "κατ’ ἔτος",
+          "thai": "ทุกปี",
+          "rationale": "Distributive κατά + accusative = 'each year.' Thai ทุกปี"
+        },
+        {
+          "greek": "τῇ ἑορτῇ τοῦ πάσχα",
+          "thai": "ในเทศกาลปัสกา",
+          "rationale": "πάσχα (Hebrew פֶּסַח Pesach) = Passover. Thai เทศกาลปัสกา standard Thai Christian term. One of the three pilgrimage festivals required annually per Deut 16:16"
+        }
       ],
       "notes": "Joseph-Mary's annual Passover pilgrimage establishes Jesus's Torah-observant upbringing. Deut 16:16 requires three pilgrimage festivals; Passover is the pre-eminent. ADDED TO NT_OT_CITATIONS: LUK 2:41 thematic_allusion to DEU 16:16 (pilgrimage festival requirement); EXO 12 (Passover institution)."
     }
@@ -733,10 +1173,18 @@
     "translation": {
       "thai": "เมื่อพระองค์มีพระชนมายุสิบสองพรรษา พวกเขาก็ขึ้นไปตามธรรมเนียมของเทศกาล",
       "thai_literal": null,
-      "thai_summary": "อายุสิบสองปีเป็นช่วงเปลี่ยนผ่านในวัฒนธรรมยิว — เด็กชายจะเริ่มเรียนรู้การปฏิบัติพระบัญญัติเต็มที่ แม้ว่าพิธี «บาร์มิตซวาห์» อย่างเป็นทางการจะพัฒนาในยุคหลัง (ประมาณ ค.ศ. 500) แต่แนวคิดที่ว่าอายุ 12-13 ปีเป็นจุดเปลี่ยนทางศาสนาก็มีรากฐานตั้งแต่ยุคพระคัมภีร์แล้ว (เทียบม. นิดดาห์ 5.6)",
+      "thai_summary": "อายุสิบสองปีเป็นช่วงเปลี่ยนผ่านในวัฒนธรรมยิว — เด็กชายจะเริ่มเรียนรู้การปฏิบัติพระบัญญัติเต็มที่ แม้ว่าพิธี “บาร์มิตซวาห์” อย่างเป็นทางการจะพัฒนาในยุคหลัง (ประมาณ ค.ศ. 500) แต่แนวคิดที่ว่าอายุ 12-13 ปีเป็นจุดเปลี่ยนทางศาสนาก็มีรากฐานตั้งแต่ยุคพระคัมภีร์แล้ว (เทียบม. นิดดาห์ 5.6)",
       "key_decisions": [
-        {"greek": "ἐτῶν δώδεκα", "thai": "มีพระชนมายุสิบสองพรรษา", "rationale": "Thai uses royal register for divine child: พระชนมายุ (royal age) + พรรษา (royal 'year'). Standard for Christ's ages in Thai Christian texts"},
-        {"greek": "ἀναβαινόντων αὐτῶν", "thai": "พวกเขาก็ขึ้นไป", "rationale": "Per uW figs-idiom: customary 'going up' to Jerusalem"}
+        {
+          "greek": "ἐτῶν δώδεκα",
+          "thai": "มีพระชนมายุสิบสองพรรษา",
+          "rationale": "Thai uses royal register for divine child: พระชนมายุ (royal age) + พรรษา (royal 'year'). Standard for Christ's ages in Thai Christian texts"
+        },
+        {
+          "greek": "ἀναβαινόντων αὐτῶν",
+          "thai": "พวกเขาก็ขึ้นไป",
+          "rationale": "Per uW figs-idiom: customary 'going up' to Jerusalem"
+        }
       ],
       "notes": "Age 12 is pre-bar-mitzvah (formalized ~500 AD) but corresponds to traditional pre-accountability transition (m. Niddah 5.6 — boys become legally responsible at 13). Jesus at 12 is on the threshold of religious-adulthood in his community's perception. Only NT-canonical glimpse of Jesus between infancy and the baptism — hence the narrative's importance."
     }
@@ -752,8 +1200,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        {"greek": "τελειωσάντων τὰς ἡμέρας", "thai": "สิ้นเทศกาลแล้ว", "rationale": "Per uW figs-activepassive: days-being-completed = festival ended. Passover week was 7 days (Exod 12:15-20)"},
-        {"greek": "ὑπέμεινεν Ἰησοῦς ὁ παῖς", "thai": "พระกุมารเยซูยังคงค้างอยู่", "rationale": "ὑπομένω = remain behind. παῖς here = 'boy/lad' (vs. παιδίον 'young child'). Thai พระกุมารเยซู retains royal register even for the 12-year-old. ยังคงค้างอยู่ standard"}
+        {
+          "greek": "τελειωσάντων τὰς ἡμέρας",
+          "thai": "สิ้นเทศกาลแล้ว",
+          "rationale": "Per uW figs-activepassive: days-being-completed = festival ended. Passover week was 7 days (Exod 12:15-20)"
+        },
+        {
+          "greek": "ὑπέμεινεν Ἰησοῦς ὁ παῖς",
+          "thai": "พระกุมารเยซูยังคงค้างอยู่",
+          "rationale": "ὑπομένω = remain behind. παῖς here = 'boy/lad' (vs. παιδίον 'young child'). Thai พระกุมารเยซู retains royal register even for the 12-year-old. ยังคงค้างอยู่ standard"
+        }
       ],
       "notes": null
     }
@@ -769,9 +1225,21 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        {"greek": "ἐν τῇ συνοδίᾳ", "thai": "ในหมู่คณะเดินทาง", "rationale": "HAPAX: συνοδία (only here in NT) — 'traveling company, caravan.' Per uW figs-explicit: pilgrim caravan traveling together. Thai หมู่คณะเดินทาง captures caravan-company sense"},
-        {"greek": "ἡμέρας ὁδὸν", "thai": "หนึ่งวันทาง", "rationale": "Acc. of extent = 'a day's journey.' Thai หนึ่งวันทาง standard"},
-        {"greek": "τοῖς συγγενεῦσιν καὶ τοῖς γνωστοῖς", "thai": "ญาติและคนคุ้นเคย", "rationale": "συγγενής = kinsman; γνωστός = acquaintance. Thai ญาติและคนคุ้นเคย natural pairing"}
+        {
+          "greek": "ἐν τῇ συνοδίᾳ",
+          "thai": "ในหมู่คณะเดินทาง",
+          "rationale": "HAPAX: συνοδία (only here in NT) — 'traveling company, caravan.' Per uW figs-explicit: pilgrim caravan traveling together. Thai หมู่คณะเดินทาง captures caravan-company sense"
+        },
+        {
+          "greek": "ἡμέρας ὁδὸν",
+          "thai": "หนึ่งวันทาง",
+          "rationale": "Acc. of extent = 'a day's journey.' Thai หนึ่งวันทาง standard"
+        },
+        {
+          "greek": "τοῖς συγγενεῦσιν καὶ τοῖς γνωστοῖς",
+          "thai": "ญาติและคนคุ้นเคย",
+          "rationale": "συγγενής = kinsman; γνωστός = acquaintance. Thai ญาติและคนคุ้นเคย natural pairing"
+        }
       ],
       "notes": "HAPAX: συνοδία (only here in NT). Pilgrim-caravan context: Galilean families traveled in village-groups for safety on the 3-day trip from Jerusalem back north. Women + children often walked together, men separately — Mary assumed Jesus was with Joseph; Joseph assumed with Mary. Natural parental-logistics error given the caravan custom."
     }
@@ -799,12 +1267,28 @@
     "translation": {
       "thai": "หลังจากสามวัน ก็พบพระองค์ในบริเวณพระวิหาร ประทับอยู่ท่ามกลางบรรดาอาจารย์ ทรงฟังและไต่ถามพวกเขา",
       "thai_literal": null,
-      "thai_summary": "«สามวัน» น่าจะรวมวันเดินทางหนึ่งวันออก หนึ่งวันกลับ และหนึ่งวันค้นหาในกรุงเยรูซาเล็ม — บางคนมองว่านี่เป็นการบอกล่วงหน้าถึงการฟื้นคืนพระชนม์ในวันที่สาม «อาจารย์» (ดิดัสคาโล) หมายถึงรับบีที่สอนในบริเวณพระวิหาร — ในสมัยพระเยซูน่าจะเป็นผู้ใหญ่เช่น ฮิลเลลและชัมมัย",
+      "thai_summary": "“สามวัน” น่าจะรวมวันเดินทางหนึ่งวันออก หนึ่งวันกลับ และหนึ่งวันค้นหาในกรุงเยรูซาเล็ม — บางคนมองว่านี่เป็นการบอกล่วงหน้าถึงการฟื้นคืนพระชนม์ในวันที่สาม “อาจารย์” (ดิดัสคาโล) หมายถึงรับบีที่สอนในบริเวณพระวิหาร — ในสมัยพระเยซูน่าจะเป็นผู้ใหญ่เช่น ฮิลเลลและชัมมัย",
       "key_decisions": [
-        {"greek": "μετὰ ἡμέρας τρεῖς", "thai": "หลังจากสามวัน", "rationale": "'Three days' — likely inclusive: 1 day outward + 1 day return + 1 day searching. Some see foreshadowing of the resurrection-on-3rd-day; narrative-primary reading is chronological"},
-        {"greek": "ἐν τῷ ἱερῷ", "thai": "ในบริเวณพระวิหาร", "rationale": "Per uW figs-synecdoche: 'temple' = temple-complex courts (Jesus as 12-year-old could not enter ναός = inner-sanctuary). Thai บริเวณพระวิหาร specifies courts"},
-        {"greek": "καθεζόμενον ἐν μέσῳ τῶν διδασκάλων", "thai": "ประทับอยู่ท่ามกลางบรรดาอาจารย์", "rationale": "καθέζομαι (NT 7) = sit. Per uW: traditional Jewish teaching-sitting. διδάσκαλος = teacher/rabbi. Thai ประทับ (royal-sit for divine child) + บรรดาอาจารย์ (rabbinic teachers). First-century temple-teachers would include elders like Hillel the Elder or Shammai (traditional dating)"},
-        {"greek": "ἀκούοντα αὐτῶν καὶ ἐπερωτῶντα αὐτούς", "thai": "ทรงฟังและไต่ถามพวกเขา", "rationale": "Rabbinic-dialogue style: listen + probe-question (standard method in 2nd Temple rabbinics). ทรงฟัง royal-register verb for divine child. ไต่ถาม active-probing question"}
+        {
+          "greek": "μετὰ ἡμέρας τρεῖς",
+          "thai": "หลังจากสามวัน",
+          "rationale": "'Three days' — likely inclusive: 1 day outward + 1 day return + 1 day searching. Some see foreshadowing of the resurrection-on-3rd-day; narrative-primary reading is chronological"
+        },
+        {
+          "greek": "ἐν τῷ ἱερῷ",
+          "thai": "ในบริเวณพระวิหาร",
+          "rationale": "Per uW figs-synecdoche: 'temple' = temple-complex courts (Jesus as 12-year-old could not enter ναός = inner-sanctuary). Thai บริเวณพระวิหาร specifies courts"
+        },
+        {
+          "greek": "καθεζόμενον ἐν μέσῳ τῶν διδασκάλων",
+          "thai": "ประทับอยู่ท่ามกลางบรรดาอาจารย์",
+          "rationale": "καθέζομαι (NT 7) = sit. Per uW: traditional Jewish teaching-sitting. διδάσκαλος = teacher/rabbi. Thai ประทับ (royal-sit for divine child) + บรรดาอาจารย์ (rabbinic teachers). First-century temple-teachers would include elders like Hillel the Elder or Shammai (traditional dating)"
+        },
+        {
+          "greek": "ἀκούοντα αὐτῶν καὶ ἐπερωτῶντα αὐτούς",
+          "thai": "ทรงฟังและไต่ถามพวกเขา",
+          "rationale": "Rabbinic-dialogue style: listen + probe-question (standard method in 2nd Temple rabbinics). ทรงฟัง royal-register verb for divine child. ไต่ถาม active-probing question"
+        }
       ],
       "notes": "'Three days' Greek μετὰ ἡμέρας τρεῖς — the same phrase Luke uses at 9:22 for the resurrection timing ('on the third day'). Some see foreshadowing; narrative-primary reading is logistical (outward day + return + search in Jerusalem). Temple-teachers: Jewish tradition places Hillel's teaching career 30 BC-AD 10 and Shammai's overlap; plausible Jesus-at-12 (~AD 6-7) encountered their school. Luke's point is Jesus's precocious engagement with authoritative teachers, not a credentials-bid."
     }
@@ -820,8 +1304,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        {"greek": "ἐξίσταντο", "thai": "อัศจรรย์ใจ", "rationale": "ἐξίστημι = be amazed/astonished (lit. 'be displaced'). Thai อัศจรรย์ใจ standard"},
-        {"greek": "τῇ συνέσει καὶ ταῖς ἀποκρίσεσιν αὐτοῦ", "thai": "ความเข้าใจและคำตอบของพระองค์", "rationale": "Per uW figs-hendiadys: 'understanding and answers' possibly = 'wise answers.' Preserving doublet for Lukan emphasis. σύνεσις (NT 7) = insight/understanding; ἀπόκρισις (NT 4) = answer/response. Standard Thai"}
+        {
+          "greek": "ἐξίσταντο",
+          "thai": "อัศจรรย์ใจ",
+          "rationale": "ἐξίστημι = be amazed/astonished (lit. 'be displaced'). Thai อัศจรรย์ใจ standard"
+        },
+        {
+          "greek": "τῇ συνέσει καὶ ταῖς ἀποκρίσεσιν αὐτοῦ",
+          "thai": "ความเข้าใจและคำตอบของพระองค์",
+          "rationale": "Per uW figs-hendiadys: 'understanding and answers' possibly = 'wise answers.' Preserving doublet for Lukan emphasis. σύνεσις (NT 7) = insight/understanding; ἀπόκρισις (NT 4) = answer/response. Standard Thai"
+        }
       ],
       "notes": "ἐξίσταντο repeats in v.48 with parents — Luke's twin-amazement structure: teachers astonished (religious insight) + parents astonished (family context). σύνεσις LXX Prov 1:2; Wis 7:7; Dan 1:17 — biblical wisdom-vocabulary. ADDED TO NT_OT_CITATIONS: LUK 2:47 thematic_allusion to ISA 11:2 (spirit of wisdom and understanding rests on Messiah)."
     }
@@ -835,12 +1327,28 @@
     "translation": {
       "thai": "เมื่อบิดามารดาเห็นพระองค์ก็ประหลาดใจ มารดาของพระองค์กล่าวว่า ลูกเอ๋ย ทำไมจึงทำอย่างนี้กับเราเล่า ดูเถิด บิดาของเจ้ากับแม่ตามหาเจ้าอยู่ด้วยความกังวลใจ",
       "thai_literal": null,
-      "thai_summary": "มารีย์เรียกโยเซฟว่า «บิดาของเจ้า» — ใช้ในความหมายทางกฎหมาย/สังคมเพราะโยเซฟเป็นบิดาบุญธรรม การที่ลูกาบันทึกคำพูดนี้ของมารีย์สนับสนุนการอ่าน «บิดาและมารดาของพระองค์» ในข้อ 33",
+      "thai_summary": "มารีย์เรียกโยเซฟว่า “บิดาของเจ้า” — ใช้ในความหมายทางกฎหมาย/สังคมเพราะโยเซฟเป็นบิดาบุญธรรม การที่ลูกาบันทึกคำพูดนี้ของมารีย์สนับสนุนการอ่าน “บิดาและมารดาของพระองค์” ในข้อ 33",
       "key_decisions": [
-        {"greek": "Τέκνον", "thai": "ลูกเอ๋ย", "rationale": "Affectionate address — 'child' with familial warmth. Thai ลูกเอ๋ย Thai-vocative parental tenderness (not a rebuke). Mary keeps some honorifics toward Jesus in other contexts but here addresses him as mother-to-son"},
-        {"greek": "τί ἐποίησας ἡμῖν οὕτως", "thai": "ทำไมจึงทำอย่างนี้กับเราเล่า", "rationale": "Per uW figs-rquestion: interrogative-with-rebuke-sense. Thai เล่า softens to maternal concern-question (not harsh rebuke)"},
-        {"greek": "ὁ πατήρ σου", "thai": "บิดาของเจ้า", "rationale": "Mary calls Joseph 'your father' — legal/adoptive usage, supporting the critical-text reading at v.33. Thai บิดาของเจ้า natural"},
-        {"greek": "ὀδυνώμενοι", "thai": "ด้วยความกังวลใจ", "rationale": "Per uW figs-activepassive: passive ptc 'being tormented/anguished.' ὀδυνάομαι (NT 4) = be in mental anguish. Thai ความกังวลใจ (anxious anguish)"}
+        {
+          "greek": "Τέκνον",
+          "thai": "ลูกเอ๋ย",
+          "rationale": "Affectionate address — 'child' with familial warmth. Thai ลูกเอ๋ย Thai-vocative parental tenderness (not a rebuke). Mary keeps some honorifics toward Jesus in other contexts but here addresses him as mother-to-son"
+        },
+        {
+          "greek": "τί ἐποίησας ἡμῖν οὕτως",
+          "thai": "ทำไมจึงทำอย่างนี้กับเราเล่า",
+          "rationale": "Per uW figs-rquestion: interrogative-with-rebuke-sense. Thai เล่า softens to maternal concern-question (not harsh rebuke)"
+        },
+        {
+          "greek": "ὁ πατήρ σου",
+          "thai": "บิดาของเจ้า",
+          "rationale": "Mary calls Joseph 'your father' — legal/adoptive usage, supporting the critical-text reading at v.33. Thai บิดาของเจ้า natural"
+        },
+        {
+          "greek": "ὀδυνώμενοι",
+          "thai": "ด้วยความกังวลใจ",
+          "rationale": "Per uW figs-activepassive: passive ptc 'being tormented/anguished.' ὀδυνάομαι (NT 4) = be in mental anguish. Thai ความกังวลใจ (anxious anguish)"
+        }
       ],
       "notes": "Mary's calling Joseph 'your father' confirms the v.33 critical-text reading. The anguish ὀδυνώμενοι foreshadows Simeon's sword-prophecy (v.35) — this is the first, minor piercing. ἐζητοῦμεν imperfect = 'we were searching.'"
     }
@@ -854,10 +1362,18 @@
     "translation": {
       "thai": "พระองค์ตรัสตอบว่า เหตุใดพวกท่านจึงตามหาเรา ท่านไม่ทราบหรือว่า เราต้องอยู่ในพระนิเวศของพระบิดาของเรา",
       "thai_literal": "เหตุใดพวกท่านจึงตามหาเรา ท่านไม่ทราบหรือว่า เราต้องอยู่ในกิจของพระบิดาของเรา",
-      "thai_summary": "นี่คือถ้อยคำแรกของพระเยซูที่บันทึกไว้ในพระคัมภีร์ และเป็นคำประกาศความสัมพันธ์พิเศษกับพระเจ้าในฐานะพระบิดา สำนวน «ในสิ่งของพระบิดาของเรา» (เอน ทอยส์ ตู ปัตรอส มู) ในภาษากรีกเป็นสำนวนที่ไม่มีคำนาม — แปลได้ทั้ง «ในพระนิเวศของพระบิดา» (คือพระวิหาร — บริบทชัดเจนที่นี่) หรือ «ในพระราชกิจของพระบิดา» (คือ ภารกิจของพระเจ้า) ฉบับแปลหลักในภาษาอังกฤษส่วนมาก (BSB, NIV, ESV) ใช้ «house» การที่พระเยซูเรียกพระเจ้าว่า «พระบิดาของเรา» (ไม่ใช่ «พระบิดาของเรา [ทุกคน]») บ่งชี้ความเป็นพระบุตรของพระองค์ — เป็นการประกาศอัตลักษณ์ครั้งแรก",
+      "thai_summary": "นี่คือถ้อยคำแรกของพระเยซูที่บันทึกไว้ในพระคัมภีร์ และเป็นคำประกาศความสัมพันธ์พิเศษกับพระเจ้าในฐานะพระบิดา สำนวน “ในสิ่งของพระบิดาของเรา” (เอน ทอยส์ ตู ปัตรอส มู) ในภาษากรีกเป็นสำนวนที่ไม่มีคำนาม — แปลได้ทั้ง “ในพระนิเวศของพระบิดา” (คือพระวิหาร — บริบทชัดเจนที่นี่) หรือ “ในพระราชกิจของพระบิดา” (คือ ภารกิจของพระเจ้า) ฉบับแปลหลักในภาษาอังกฤษส่วนมาก (BSB, NIV, ESV) ใช้ “house” การที่พระเยซูเรียกพระเจ้าว่า “พระบิดาของเรา” (ไม่ใช่ “พระบิดาของเรา [ทุกคน]”) บ่งชี้ความเป็นพระบุตรของพระองค์ — เป็นการประกาศอัตลักษณ์ครั้งแรก",
       "key_decisions": [
-        {"greek": "Τί ὅτι ἐζητεῖτέ με", "thai": "เหตุใดพวกท่านจึงตามหาเรา", "rationale": "Per uW figs-rquestion: statement-as-question. Jesus using respectful self-reference 'we' (เรา) as the divine-child's elevated first-person"},
-        {"greek": "ἐν τοῖς τοῦ πατρός μου", "thai": "ในพระนิเวศของพระบิดาของเรา", "rationale": "AMBIGUOUS: ἐν τοῖς τοῦ (plural neuter article) + genitive can mean: (1) 'in the [things] of my Father' = Father's business/affairs; (2) 'in the [house] of my Father' = Father's house/temple. Per uW options. BSB/NIV/ESV all render 'house' (context = temple). Going with พระนิเวศ (Father's house/temple) as main; alternative 'พระราชกิจ' (Father's work) documented in thai_literal + thai_summary. Either way, the phrase announces Jesus's unique Sonship awareness"}
+        {
+          "greek": "Τί ὅτι ἐζητεῖτέ με",
+          "thai": "เหตุใดพวกท่านจึงตามหาเรา",
+          "rationale": "Per uW figs-rquestion: statement-as-question. Jesus using respectful self-reference 'we' (เรา) as the divine-child's elevated first-person"
+        },
+        {
+          "greek": "ἐν τοῖς τοῦ πατρός μου",
+          "thai": "ในพระนิเวศของพระบิดาของเรา",
+          "rationale": "AMBIGUOUS: ἐν τοῖς τοῦ (plural neuter article) + genitive can mean: (1) 'in the [things] of my Father' = Father's business/affairs; (2) 'in the [house] of my Father' = Father's house/temple. Per uW options. BSB/NIV/ESV all render 'house' (context = temple). Going with พระนิเวศ (Father's house/temple) as main; alternative 'พระราชกิจ' (Father's work) documented in thai_literal + thai_summary. Either way, the phrase announces Jesus's unique Sonship awareness"
+        }
       ],
       "notes": "JESUS'S FIRST RECORDED WORDS. Key interpretive ambiguity: ἐν τοῖς τοῦ πατρός μου (lit. 'in the-things of-the-Father of-me') has no explicit noun. Two main readings: (A) 'my Father's house' = the temple, supported by narrative context + BSB/ESV/NIV/CSB English tradition; (B) 'my Father's business/affairs' = Messianic mission, supported by Syriac Peshitta + some patristic writers. Both readings communicate Jesus's awareness of a unique Father-Son relationship with God (vs. generic Israelite-God-as-Father). The phrase πατρός μου ('MY Father') vs πατρὸς ἡμῶν ('our Father') is significant — Jesus claims a relation-of-his-own, not the congregational 'our Father' of Israel's prayer-life. First public self-identification moment in Luke's account. ADDED TO NT_OT_CITATIONS: none directly, but PSA 2:7 'you are my son' themely underlies."
     }
@@ -873,8 +1389,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        {"greek": "οὐ συνῆκαν", "thai": "ไม่เข้าใจ", "rationale": "συνίημι = understand, comprehend. Thai ไม่เข้าใจ"},
-        {"greek": "τὸ ῥῆμα", "thai": "ถ้อยคำ", "rationale": "Per uW figs-metonymy: here ῥῆμα = Jesus's actual utterance (not Hebraic 'matter/event' as vv.15,19). Thai ถ้อยคำ"}
+        {
+          "greek": "οὐ συνῆκαν",
+          "thai": "ไม่เข้าใจ",
+          "rationale": "συνίημι = understand, comprehend. Thai ไม่เข้าใจ"
+        },
+        {
+          "greek": "τὸ ῥῆμα",
+          "thai": "ถ้อยคำ",
+          "rationale": "Per uW figs-metonymy: here ῥῆμα = Jesus's actual utterance (not Hebraic 'matter/event' as vv.15,19). Thai ถ้อยคำ"
+        }
       ],
       "notes": "Even Mary-Joseph don't grasp the full messianic significance of Jesus's 'My Father' declaration. Theological point: full understanding of Jesus's identity unfolds gradually even for those closest to him. v.51 Mary 'treasures' rather than immediately understands — consistent with v.19 pattern."
     }
@@ -890,9 +1414,21 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        {"greek": "κατέβη μετ’ αὐτῶν", "thai": "เสด็จลงไปกับบิดามารดา", "rationale": "Per uW figs-idiom: 'went down' — Jerusalem on mountain. เสด็จ royal-movement verb for divine subject. Thai เสด็จลงไป natural"},
-        {"greek": "ἦν ὑποτασσόμενος αὐτοῖς", "thai": "ทรงอยู่ใต้บังคับของท่านทั้งสอง", "rationale": "Per uW figs-activepassive: present-periphrastic continuous = 'was submitting.' ὑποτάσσω middle/passive = be subject to. Thai อยู่ใต้บังคับของ (be under-authority-of) captures submission. ทรง royal-register. Theologically striking: the divine Son submits to human parents — the paradox of incarnation"},
-        {"greek": "διετήρει πάντα τὰ ῥήματα ταῦτα ἐν τῇ καρδίᾳ αὐτῆς", "thai": "เก็บเหตุการณ์ทั้งหมดเหล่านี้ไว้ในใจของนาง", "rationale": "διατηρέω (NT 2) = preserve, keep carefully. Echoes v.19 συνετήρει — but with intensified δια- prefix. Thai matches v.19 pattern for consistency"}
+        {
+          "greek": "κατέβη μετ’ αὐτῶν",
+          "thai": "เสด็จลงไปกับบิดามารดา",
+          "rationale": "Per uW figs-idiom: 'went down' — Jerusalem on mountain. เสด็จ royal-movement verb for divine subject. Thai เสด็จลงไป natural"
+        },
+        {
+          "greek": "ἦν ὑποτασσόμενος αὐτοῖς",
+          "thai": "ทรงอยู่ใต้บังคับของท่านทั้งสอง",
+          "rationale": "Per uW figs-activepassive: present-periphrastic continuous = 'was submitting.' ὑποτάσσω middle/passive = be subject to. Thai อยู่ใต้บังคับของ (be under-authority-of) captures submission. ทรง royal-register. Theologically striking: the divine Son submits to human parents — the paradox of incarnation"
+        },
+        {
+          "greek": "διετήρει πάντα τὰ ῥήματα ταῦτα ἐν τῇ καρδίᾳ αὐτῆς",
+          "thai": "เก็บเหตุการณ์ทั้งหมดเหล่านี้ไว้ในใจของนาง",
+          "rationale": "διατηρέω (NT 2) = preserve, keep carefully. Echoes v.19 συνετήρει — but with intensified δια- prefix. Thai matches v.19 pattern for consistency"
+        }
       ],
       "notes": "ECHO of v.19: Mary 'treasures' again, forming a frame around the infancy narrative (vv.19 shepherds' visit → v.51 12-year-old temple episode). διατηρέω is the intensive form of συντηρέω (v.19) — 'thoroughly keeping.' The hidden-years-narrative-source function of Mary the tradent is signaled twice. ὑποτασσόμενος: the incarnational paradox — the one whose identity is 'in my Father's' gives human parental submission. Jesus's submission-to-parents is theologically important (cf. Phil 2:6-8 kenosis)."
     }
@@ -906,10 +1442,18 @@
     "translation": {
       "thai": "พระเยซูทรงเจริญขึ้นทั้งในด้านปัญญาและพระชนมายุ เป็นที่ทรงโปรดปรานของพระเจ้าและของมนุษย์",
       "thai_literal": null,
-      "thai_summary": "ข้อสรุปของบทที่ 2 เป็นการอ้างถึง 1 ซามูเอล 2:26 อย่างชัดเจน — «เด็กซามูเอลก็ยิ่งเจริญเติบโตขึ้น เป็นที่ชื่นชอบของพระเจ้าและของมนุษย์ทั้งหลาย» ลูกาทำซ้ำสูตรนี้สำหรับพระเยซู เป็นการบอกว่าพระเยซูคือซามูเอลคนใหม่ — ผู้เผยพระวจนะที่เติบโตในพระวิหาร ผู้เจิมกษัตริย์ของพระเจ้า แต่ยิ่งไปกว่านั้นอีก ลูกาเน้นการเจริญเติบโต «ในด้านปัญญา» — ไม่ใช่แค่ในความเป็นที่โปรดปราน — เป็นการแสดงว่าพระเยซูทรงเพิ่มพูนทั้งในเชิงสติปัญญาและเชิงความสัมพันธ์",
+      "thai_summary": "ข้อสรุปของบทที่ 2 เป็นการอ้างถึง 1 ซามูเอล 2:26 อย่างชัดเจน — “เด็กซามูเอลก็ยิ่งเจริญเติบโตขึ้น เป็นที่ชื่นชอบของพระเจ้าและของมนุษย์ทั้งหลาย” ลูกาทำซ้ำสูตรนี้สำหรับพระเยซู เป็นการบอกว่าพระเยซูคือซามูเอลคนใหม่ — ผู้เผยพระวจนะที่เติบโตในพระวิหาร ผู้เจิมกษัตริย์ของพระเจ้า แต่ยิ่งไปกว่านั้นอีก ลูกาเน้นการเจริญเติบโต “ในด้านปัญญา” — ไม่ใช่แค่ในความเป็นที่โปรดปราน — เป็นการแสดงว่าพระเยซูทรงเพิ่มพูนทั้งในเชิงสติปัญญาและเชิงความสัมพันธ์",
       "key_decisions": [
-        {"greek": "προέκοπτεν σοφίᾳ καὶ ἡλικίᾳ", "thai": "ทรงเจริญขึ้นทั้งในด้านปัญญาและพระชนมายุ", "rationale": "προκόπτω (NT 6) = advance, progress. Imperfect = continuous growth. Per uW figs-abstractnouns: σοφία + ἡλικία can be 'mental and physical.' ἡλικία (NT 8) = either 'age' or 'stature' — both physical growth senses. Thai พระชนมายุ (royal age) covers both. ทรงเจริญ royal-register growth"},
-        {"greek": "χάριτι παρὰ θεῷ καὶ ἀνθρώποις", "thai": "เป็นที่ทรงโปรดปรานของพระเจ้าและของมนุษย์", "rationale": "Per uW figs-abstractnouns: χάρις can be 'favor' = verbal 'was favored.' Echo of 1 SAM 2:26 LXX ἀγαθὸν...μετὰ κυρίου καὶ μετὰ ἀνθρώπων. Thai ทรงโปรดปราน royal-register for divine subject"}
+        {
+          "greek": "προέκοπτεν σοφίᾳ καὶ ἡλικίᾳ",
+          "thai": "ทรงเจริญขึ้นทั้งในด้านปัญญาและพระชนมายุ",
+          "rationale": "προκόπτω (NT 6) = advance, progress. Imperfect = continuous growth. Per uW figs-abstractnouns: σοφία + ἡλικία can be 'mental and physical.' ἡλικία (NT 8) = either 'age' or 'stature' — both physical growth senses. Thai พระชนมายุ (royal age) covers both. ทรงเจริญ royal-register growth"
+        },
+        {
+          "greek": "χάριτι παρὰ θεῷ καὶ ἀνθρώποις",
+          "thai": "เป็นที่ทรงโปรดปรานของพระเจ้าและของมนุษย์",
+          "rationale": "Per uW figs-abstractnouns: χάρις can be 'favor' = verbal 'was favored.' Echo of 1 SAM 2:26 LXX ἀγαθὸν...μετὰ κυρίου καὶ μετὰ ἀνθρώπων. Thai ทรงโปรดปราน royal-register for divine subject"
+        }
       ],
       "notes": "DIRECT ECHO of 1 SAM 2:26 LXX: καὶ τὸ παιδάριον Σαμουὴλ ἐπορεύετο καὶ ἐμεγαλύνετο καὶ ἀγαθὸν καὶ μετὰ κυρίου καὶ μετὰ ἀνθρώπων ('and the boy Samuel kept advancing and growing, and was good with both the Lord and people'). Luke closes the infancy narrative by explicitly patterning Jesus on Samuel: both temple-children, both prophet-kingmakers, both in favor with God and people. PROV 3:4 'find favor and good understanding in the sight of God and man' echoes too. Chapter-closing coda matches v.40 coda for the infancy sub-section — ABCBA narrative structure: birth (1-20) / circumcision & dedication (21-40) / temple episode (41-52), with the 'growth' formula as the connective refrain. ADDED TO NT_OT_CITATIONS: LUK 2:52 direct_LXX_echo of 1 SAM 2:26 (Samuel's growth pattern); thematic_allusion to PROV 3:4 (favor with God and men)."
     }
