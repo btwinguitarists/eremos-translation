@@ -62,6 +62,8 @@ def main():
     parser.add_argument("--chapter", type=int, required=True)
     parser.add_argument("--skip-back-translation", action="store_true",
                         help="Skip Claude API back-translation check")
+    parser.add_argument("--skip-external-review", action="store_true",
+                        help="Skip Gemini API per-chapter external review (informational only)")
     args = parser.parse_args()
 
     slug = resolve_book_slug(args.book)
@@ -181,9 +183,40 @@ def main():
     # phrase ἄφεσις ἁμαρτιῶν.
     # This is a CORPUS check — it re-scans all books on each invocation
     # but fast (< 1s on 2900+ verses). Blocks ship if corpus drift detected.
-    print("[9/9] Phrase-consistency audit (corpus-wide)...")
+    print("[9/10] Phrase-consistency audit (corpus-wide)...")
     code, _ = run([sys.executable, str(SCRIPTS / "check_phrase_consistency.py")])
     record("Phrase consistency (corpus-wide)", code, "phrase_consistency.md")
+
+    # 10. External AI review via Gemini (informational; non-blocking)
+    # Sends the chapter through Gemini for a per-chapter spot-review using
+    # the docs/CHAPTER_REVIEW_PROMPT.md template. Surfaces concerns the
+    # mechanical checks 1-9 can't see (Greek-Thai phrase-coverage gaps,
+    # narrative-register drift, theological-nuance loss) — exactly the
+    # class of issue that JHN 1's missing ὃ γέγονεν was. Added 2026-04-27
+    # after that bug shipped past all 9 checks but was caught by Gemini.
+    # Skipped gracefully if GEMINI_API_KEY not set; never blocks ship.
+    print("[10/10] External AI review (Gemini, informational)...")
+    if args.skip_external_review:
+        record("External AI review (Gemini)", 0, "(skipped)",
+               "skipped via --skip-external-review")
+    elif not os.environ.get("GEMINI_API_KEY"):
+        record("External AI review (Gemini)", 0, "(skipped)",
+               "GEMINI_API_KEY not set — get key at https://aistudio.google.com/app/apikey")
+    else:
+        code, out = run([sys.executable, str(SCRIPTS / "run_external_review.py"),
+                         args.book.upper(), str(args.chapter),
+                         "--model", "gemini-2.5-flash"])
+        report_file = f"{slug}_{args.chapter:02d}_external_review.md"
+        # Use exit code as truth (file may exist from prior run).
+        # Informational: never blocks ship even on Gemini error.
+        if code == 0 and (REPORTS / report_file).exists():
+            record("External AI review (Gemini)", 0, report_file,
+                   "informational only — review findings; do not auto-ship blockers")
+        else:
+            tail = out.strip().splitlines()[-3:] if out.strip() else []
+            record("External AI review (Gemini)", 0, "(error)",
+                   f"Gemini call failed (exit={code}): {' | '.join(tail)[:300]}")
+            print(f"  WARNING: Gemini call exit={code}; output tail: {' | '.join(tail)[:200]}")
 
     # Aggregate report
     review_lines = [
