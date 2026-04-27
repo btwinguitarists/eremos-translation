@@ -2,7 +2,7 @@
 
 _The Gospel of Matthew — 28 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
 
-_This reader edition shows only the Thai translation and the contextual summary (บริบท) where one is provided. For the underlying Greek, English (BSB) reference, and translator decisions per verse, see the per-chapter review documents at `docs/matthew_NN_review.md` or the source JSON at `output/translations/`._
+_This reader edition shows the Thai translation and the contextual summary (บริบท) where one is provided. The contextual summaries are AI-generated editorial commentary, not part of the biblical text. For a plain verses-only edition (recommended for scholarly review), see `output/plain/matthew.md`. For the underlying Greek, English (BSB) reference, and translator decisions per verse, see the per-chapter review reports at `output/check_reports/matthew_NN_review.md` or the source JSON at `output/translations/`._
 
 ---
 
@@ -3383,7 +3383,7 @@ _ข้อ 14 ขาดในต้นฉบับภาษากรีกที
 
 **27** แล้วพระองค์ทรงหยิบถ้วย ทรงขอบพระคุณ และประทานให้พวกเขา ตรัสว่า «พวกท่านจงดื่มจากถ้วยนี้ทุกคน
 
-**28** เพราะนี่เป็นโลหิตแห่งพันธสัญญาของเรา ที่หลั่งออกเพื่อคนเป็นอันมากให้ได้รับการอภัยบาป
+**28** เพราะนี่เป็นโลหิตแห่งพันธสัญญาของเรา ที่หลั่งออกเพื่อคนเป็นอันมากให้ได้รับการยกโทษบาป
 
 > _บริบท: การกล่าว «โลหิตแห่งพันธสัญญา» ชวนนึกถึงอพย 24:8 ที่โมเสสพรมเลือดบนประชาชนเพื่อประทับตราพันธสัญญาที่ภูเขาซีนาย พระเยซูทรงประกาศว่าการสิ้นพระชนม์ของพระองค์กำลังสถาปนาพันธสัญญาใหม่ที่ผ่านการยกโทษบาป (เทียบ ยรม 31:31-34) — จุดเด่นที่ไม่มีในมาระโกคือ «เพื่อให้ได้รับการอภัยบาป»_
 
@@ -3805,7 +3805,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/matthew_02.json` | `b3674b7c9de203439950d2f3851812453c12e89225e53557aeca953f72339ca1` |
 | `output/translations/matthew_03.json` | `1dfd21a1d878d5708930371dcfbb40cf1bb48731192c64f694f3cc43ce84a13c` |
 | `output/translations/matthew_04.json` | `f878b309236557271227da3654aee599d24e34ddfb7a5fb8f1842ac5f6737263` |
-| `output/translations/matthew_05.json` | `9311a08f7427a6c1c5b1b07a8f81ba37103d746d08ef33d79f91457a198aa2f5` |
+| `output/translations/matthew_05.json` | `84815c21c79bb10efeb31ef337fe142a7c5ac7e07f4e018dbcbe33e7ea369573` |
 | `output/translations/matthew_06.json` | `fd7e379d7f4d86b284273a6ca171e0c9e67a26688f09962207b4b2cb5567b1b5` |
 | `output/translations/matthew_07.json` | `fc0afcdecf47e6798c9779066029654d65e02b13bc8ab3a8629f1d19638b6b46` |
 | `output/translations/matthew_08.json` | `b3f4b4a40d6300d5a39e308537b2ad20a8d5768ab11f6b58b2d0df3789bc0a23` |
@@ -3826,7 +3826,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/matthew_23.json` | `86958b9fb680e9e5a2c2dcae9e999ead15e3f050694561f9e721b6f6cca6fff4` |
 | `output/translations/matthew_24.json` | `d035cc005cdb9b8359e9ace942b04af544c4854a7479f32f0ba578ac44cd67d5` |
 | `output/translations/matthew_25.json` | `42bea62f8d91f4561bc93cade1aae79de270300efe03f55ecf10cd0b4c34ccad` |
-| `output/translations/matthew_26.json` | `090f901cf43981dca228a89cd45b38551091d20523af5ffa6eb7ddaecd19fd55` |
+| `output/translations/matthew_26.json` | `2021fcbb560dea2c24f5006087b4889a8d2e713293475fb5c6823916d564312e` |
 | `output/translations/matthew_27.json` | `a4dffbd2ad0300652826de66a1ca8c1282a8a9752bd53645cd528d70e33428ac` |
 | `output/translations/matthew_28.json` | `46d01c9527b9e4c6130a5fcaba4500559385dc87269e16575d664ea09120887c` |
 
