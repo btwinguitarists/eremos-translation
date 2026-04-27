@@ -1,8 +1,8 @@
 # 1 ทิโมธี
 
-_The Gospel of 1 Timothy — 1 chapter, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
+_1 Timothy — 1 chapter, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
 
-_This reader edition shows only the Thai translation and the contextual summary (บริบท) where one is provided. For the underlying Greek, English (BSB) reference, and translator decisions per verse, see the per-chapter review documents at `docs/1timothy_NN_review.md` or the source JSON at `output/translations/`._
+_This reader edition shows the Thai translation and the contextual summary (บริบท) where one is provided. The contextual summaries are AI-generated editorial commentary, not part of the biblical text. For a plain verses-only edition (recommended for scholarly review), see `output/plain/1timothy.md`. For the underlying Greek, English (BSB) reference, and translator decisions per verse, see the per-chapter review reports at `output/check_reports/1timothy_NN_review.md` or the source JSON at `output/translations/`._
 
 ---
 
