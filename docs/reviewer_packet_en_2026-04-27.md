@@ -4,6 +4,10 @@
 
 This packet consolidates everything a Greek scholar, theological reviewer, or AI reviewer needs to evaluate the Matthew + Mark + Luke + Acts translation. The translation itself lives in `output/reader/<slug>.md` (full Thai text) and `output/translations/<slug>_*.json` (per-verse Greek + Thai + rationale + notes). This packet documents the decisions behind those files.
 
+> **A note on `<slug>` and `<book>` in file paths:** `<slug>` means the lowercase no-spaces book name — `matthew` for Matthew, `mark` for Mark, `luke` for Luke, `acts` for Acts. `<BOOK>` means the three-letter uppercase book code (MAT, MRK, LUK, JHN, ACT, etc.). When a path says `output/reader/<slug>.md`, you read it as `output/reader/luke.md` for Luke, and so on.
+
+**To give us feedback, see §11 (Reviewer Feedback Worksheet) at the end of this packet.** It's the single place to fill in your responses; you can answer at any scope (one chapter, one book, or the whole corpus).
+
 For an external AI sanity-check (Grok / ChatGPT / Gemini scale), see the per-book `docs/end_of_book/<book>/external_review_packet_<BOOK>_*.md` files — those are scoped and sized for free-tier AI ceilings. **This packet is full-content for human reviewers.**
 
 ---
@@ -217,21 +221,106 @@ Status codes: **LOCKED** — stable + corpus-doc exists. **STABLE** — uniform 
 
 ## 10. How to give feedback
 
-If you find a passage that you believe is mistranslated, register-inappropriate, or theologically off, please:
+The structured way: **fill in §11 (Reviewer Feedback Worksheet) below.** It's set up for any reviewer scope — one chapter, one book, or the whole corpus. Open this file in a text editor or upload to Google Docs, type under each prompt, save, send back.
 
-1. Identify the verse(s) — book, chapter, verse.
-2. Cite the Greek lemma or phrase you're concerned about.
-3. State the issue (mistranslation / register / theology / clarity / Thai naturalness).
-4. Suggest an alternative if you have one.
-5. Cite any source supporting your alternative (a published translation, a lexicon, a commentary).
+For ad-hoc feedback outside the worksheet (a single verse you noticed in passing): identify the verse (book, chapter, verse), cite the Greek lemma or phrase, state the issue (mistranslation / register / theology / clarity / Thai naturalness), suggest an alternative if you have one, and cite any source supporting your alternative.
 
 Submit via:
-- GitHub issue on the repo (preferred for trackability), OR
+- The completed worksheet (preferred — single artifact, easy to process), OR
+- GitHub issue on the repo (good for tracking individual verses), OR
 - Direct contact with the maintainer (Ben Van Scyoc — benvanscyoc@gmail.com).
 
 For Thai naturalness feedback specifically, native-speaker corrections are weighted heavily. The maintainer is not a native Thai speaker; the AI-generated draft may carry subtle register or idiom errors that an educated native ear catches.
 
 For theological / editorial feedback, please indicate your tradition (evangelical Protestant / Catholic / Orthodox / academic) so the maintainer can weigh the feedback against the project's evangelical-Protestant editorial frame (§2). The license is CC0 and welcomes use in any tradition; the editorial decisions are not ecumenical and won't be adjusted for tradition-fit.
+
+---
+
+## 11. Reviewer Feedback Worksheet
+
+> **How to use this section:** open this file in any text editor (TextEdit, VS Code, Notepad) or upload to Google Docs. Type your answers under each prompt — the `___` lines are placeholders. Skip any prompt you can't answer with confidence; an empty answer is more useful than a guessed one. When done, save the file (or share the doc) and send it back to the maintainer.
+>
+> **You don't have to answer everything.** This worksheet covers single-chapter reviewers, single-book reviewers, and multi-book reviewers. Fill in the sections that match your scope and skip the rest.
+
+### Section A — answer if you've read at least one chapter
+
+**Which chapter(s) did you read?**
+   ___
+
+**A1. Thai naturalness.** Where does the Thai read like a translation rather than native Thai? List specific verse references (book, chapter, verse) and what feels off.
+   ___
+
+**A2. Register fit (ราชาศัพท์).** Does the divine-vs-human register feel right where Jesus speaks, the Father is addressed, or human authorities (kings, governors, centurions) are introduced? Flag verses where it sounded off.
+   ___
+
+**A3. Clarity.** Any verses where you had to re-read to understand what was being said? List with reference.
+   ___
+
+**A4. Surprises.** Anything that struck you positively, or any rendering choice you'd want explained?
+   ___
+
+### Section B — answer if you read at least one full book
+
+**Which book(s)?**
+   ___
+
+**B1. Cross-cutting decisions in this book.** Are there terms or patterns that seem forced or imposed where context would suggest a different rendering? Reference + reasoning.
+   ___
+
+**B2. Audit revisits.** Reading the linked end-of-book audit (§8 above), are there items where you'd push back on the verdict, or items the audit missed?
+   ___
+
+**B3. Hapax / textual variants.** Any place we made a notable choice on a hapax legomenon or a textual variant where you'd argue differently? Reference + reasoning.
+   ___
+
+**B4. Synoptic alignment** (Mark / Matthew / Luke only). Parallel passages where our renderings diverge across gospels and you think they shouldn't (or should diverge more). Reference both gospels.
+   ___
+
+### Section C — answer if you've read multiple books or the whole corpus
+
+**C1. Cross-book consistency.** Terms or decisions that drifted across books in ways that feel unintended.
+   ___
+
+**C2. Locked corpus-level decisions** (§7 above). Any locked decision you'd revisit? Cite the doc and your reasoning.
+   ___
+
+**C3. Theological frame fit.** Does the editorial voice feel evangelical Protestant in the right way (§2), or does it tilt elsewhere?
+   ___
+
+**C4. Source discipline** (§4). Do you see places where the Thai mirrors a specific English version rather than reading from the Greek?
+   ___
+
+### Section D — about you (helps us weight your feedback)
+
+**D1.** Tradition (evangelical Protestant / Catholic / Orthodox / academic / other):
+   ___
+
+**D2.** Greek background (none / NT survey / seminary / advanced / academic):
+   ___
+
+**D3.** Thai exposure (none / conversational / fluent non-native / native / scholarly Thai):
+   ___
+
+**D4.** Approximate hours spent on this packet:
+   ___
+
+**D5.** Would you be willing to look at later books or post-revision drafts?
+   ___
+
+### Section E — free-form
+
+**E1.** Anything we didn't ask about that you want to flag:
+   ___
+
+**E2.** Specific encouragements (we read these, even when the rest of the feedback is negative):
+   ___
+
+**E3.** Resources you'd recommend (lexicon, commentary, prior translation we should consult):
+   ___
+
+---
+
+**When you're done:** save this file (or your Google Doc copy) and send it to the maintainer. Reference the date at the top of this packet so we know which corpus state you reviewed against.
 
 ---
 
