@@ -10,10 +10,26 @@
       "thai_literal": null,
       "thai_summary": "กลุ่มสามฝ่ายที่เผชิญหน้าพระเยซูในข้อนี้ (หัวหน้าปุโรหิต ธรรมาจารย์ และผู้ใหญ่) คือองค์ประกอบของสภาซันเฮดริน สภาสูงสุดของชาวยิวในกรุงเยรูซาเล็มที่มีอำนาจทั้งด้านศาสนาและด้านพลเรือน การที่พวกเขามาพร้อมกันเป็นสัญญาณว่าการเผชิญหน้านี้เป็นการสอบสวนอย่างเป็นทางการ ไม่ใช่การซักถามแบบธรรมดา พระเยซูเคยพยากรณ์ไว้ในลูกา 9:22 ว่าพระองค์จะถูกสามกลุ่มนี้ปฏิเสธ บัดนี้คำพยากรณ์นั้นเริ่มปรากฏเป็นจริง",
       "key_decisions": [
-        {"greek": "ἐγένετο ἐν μιᾷ τῶν ἡμερῶν", "thai": "อยู่มาวันหนึ่ง", "rationale": "Per uW writing-newevent: standard Lukan new-event introducer. Thai อยู่มาวันหนึ่ง is the natural Thai narrative-opener (glossary-established across Luke, e.g., LUK 5:17, 8:22, 9:37)."},
-        {"greek": "ἐν τῷ ἱερῷ", "thai": "ในลานพระวิหาร", "rationale": "Per uW figs-synecdoche: only priests entered the temple-building itself; Luke means the courtyard open to the public. Thai ลานพระวิหาร (glossary-established across Luke, e.g., LUK 2:27, 2:46, 19:45, 19:47) captures the courtyard-location."},
-        {"greek": "εὐαγγελιζομένου", "thai": "ประกาศข่าวประเสริฐ", "rationale": "εὐαγγελίζω → ประกาศข่าวประเสริฐ (RULES.md §4 standard; cognate with εὐαγγέλιον = ข่าวประเสริฐ). Luke-distinctive verb appearing 10× in Luke (vs. 1× in Matt, 0× in Mark). Present-ptc = ongoing-action concurrent with διδάσκοντος."},
-        {"greek": "ἐπέστησαν οἱ ἀρχιερεῖς καὶ οἱ γραμματεῖς σὺν τοῖς πρεσβυτέροις", "thai": "พวกหัวหน้าปุโรหิต พวกธรรมาจารย์ พร้อมกับพวกผู้ใหญ่ก็เข้ามาหาพระองค์", "rationale": "Per uW writing-participants: reintroduces the opponents from 19:47-48. Three-group Sanhedrin-coalition. ἀρχιερεύς → หัวหน้าปุโรหิต (glossary-established Luke 9:22, 19:47, Mark 11:27 synoptic-parallel). γραμματεύς → ธรรมาจารย์ (glossary-established). πρεσβύτερος → ผู้ใหญ่ (Luke-internal establishment: LUK 7:3 πρεσβυτέρους τῶν Ἰουδαίων; LUK 9:22 πρεσβυτέρων-Sanhedrin context; matches Mark 11:27 synoptic-parallel's structural sense). ἐπέστησαν aor 'came up to' — abrupt/confrontational nuance preserved via ก็เข้ามาหา."}
+        {
+          "greek": "ἐγένετο ἐν μιᾷ τῶν ἡμερῶν",
+          "thai": "อยู่มาวันหนึ่ง",
+          "rationale": "Per uW writing-newevent: standard Lukan new-event introducer. Thai อยู่มาวันหนึ่ง is the natural Thai narrative-opener (glossary-established across Luke, e.g., LUK 5:17, 8:22, 9:37)."
+        },
+        {
+          "greek": "ἐν τῷ ἱερῷ",
+          "thai": "ในลานพระวิหาร",
+          "rationale": "Per uW figs-synecdoche: only priests entered the temple-building itself; Luke means the courtyard open to the public. Thai ลานพระวิหาร (glossary-established across Luke, e.g., LUK 2:27, 2:46, 19:45, 19:47) captures the courtyard-location."
+        },
+        {
+          "greek": "εὐαγγελιζομένου",
+          "thai": "ประกาศข่าวประเสริฐ",
+          "rationale": "εὐαγγελίζω → ประกาศข่าวประเสริฐ (RULES.md §4 standard; cognate with εὐαγγέλιον = ข่าวประเสริฐ). Luke-distinctive verb appearing 10× in Luke (vs. 1× in Matt, 0× in Mark). Present-ptc = ongoing-action concurrent with διδάσκοντος."
+        },
+        {
+          "greek": "ἐπέστησαν οἱ ἀρχιερεῖς καὶ οἱ γραμματεῖς σὺν τοῖς πρεσβυτέροις",
+          "thai": "พวกหัวหน้าปุโรหิต พวกธรรมาจารย์ พร้อมกับพวกผู้ใหญ่ก็เข้ามาหาพระองค์",
+          "rationale": "Per uW writing-participants: reintroduces the opponents from 19:47-48. Three-group Sanhedrin-coalition. ἀρχιερεύς → หัวหน้าปุโรหิต (glossary-established Luke 9:22, 19:47, Mark 11:27 synoptic-parallel). γραμματεύς → ธรรมาจารย์ (glossary-established). πρεσβύτερος → ผู้ใหญ่ (Luke-internal establishment: LUK 7:3 πρεσβυτέρους τῶν Ἰουδαίων; LUK 9:22 πρεσβυτέρων-Sanhedrin context; matches Mark 11:27 synoptic-parallel's structural sense). ἐπέστησαν aor 'came up to' — abrupt/confrontational nuance preserved via ก็เข้ามาหา."
+        }
       ],
       "notes": "SANHEDRIN-COMPOSITION: the three groups (ἀρχιερεῖς + γραμματεῖς + πρεσβύτεροι) together identify the Great Sanhedrin — the 71-member Jewish high council that held both religious and civil authority under Roman occupation. Their formal-delegation-approach signals that this is not casual inquiry but official challenge to Jesus' authority. Luke's συν-construction (σὺν τοῖς πρεσβυτέροις) subtly distinguishes elders as coordinate-partners rather than subordinate-group. Links back to Luke 9:22 passion-prediction and forward to Luke 22:66 Sanhedrin-trial."
     }
@@ -25,14 +41,30 @@
     "greek": "καὶ εἶπαν λέγοντες πρὸς αὐτόν·Εἰπὸν ἡμῖν ἐν ποίᾳ ἐξουσίᾳ ταῦτα ποιεῖς,ἢ τίς ἐστιν ὁ δούς σοι τὴν ἐξουσίαν ταύτην;",
     "bsb_english": "\"Tell us,\" they said, \"by what authority are You doing these things, and who gave You this authority?\"",
     "translation": {
-      "thai": "พวกเขาทูลพระองค์ว่า «ขอบอกเราเถิดว่า ท่านทำสิ่งเหล่านี้โดยสิทธิอำนาจใด? หรือใครเป็นผู้ให้สิทธิอำนาจนี้แก่ท่าน?»",
+      "thai": "พวกเขาทูลพระองค์ว่า “ขอบอกเราเถิดว่า ท่านทำสิ่งเหล่านี้โดยสิทธิอำนาจใด? หรือใครเป็นผู้ให้สิทธิอำนาจนี้แก่ท่าน?”",
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        {"greek": "εἶπαν λέγοντες", "thai": "ทูลพระองค์ว่า", "rationale": "Per uW figs-hendiadys-like: εἶπαν + λέγοντες ptc is Semitic-influenced redundancy. Thai collapses to single ทูล (humble-speech to divine addressee per RULES.md §3)."},
-        {"greek": "Εἰπὸν ἡμῖν", "thai": "ขอบอกเราเถิด", "rationale": "Per uW figs-imperative: aor-imp 2sg 'tell us.' Opponent-to-Jesus register: use มนุษย์-ท่าน (not divine-honorific), but polite-request-form with ขอ...เถิด since framed as a deferential inquiry (before the attack emerges). The Sanhedrin is feigning respectful inquiry."},
-        {"greek": "ἐν ποίᾳ ἐξουσίᾳ ταῦτα ποιεῖς", "thai": "ท่านทำสิ่งเหล่านี้โดยสิทธิอำนาจใด", "rationale": "ἐξουσία → สิทธิอำนาจ (glossary-established MRK 11:28 synoptic-parallel; LUK 4:36, 9:1, 10:19 Luke-internal). ταῦτα 'these things' = Jesus' cleansing of the temple (19:45-46) + public teaching. Word-order preserves the διδάσκω/εὐαγγελίζω → 'authority for this?' flow."},
-        {"greek": "τίς ἐστιν ὁ δούς σοι τὴν ἐξουσίαν ταύτην", "thai": "ใครเป็นผู้ให้สิทธิอำนาจนี้แก่ท่าน", "rationale": "Second question = authorization-source inquiry. Implied dichotomy: human rabbinic-succession vs. direct-divine-commission. Matches Mark 11:28 synoptic parallel rendering."}
+        {
+          "greek": "εἶπαν λέγοντες",
+          "thai": "ทูลพระองค์ว่า",
+          "rationale": "Per uW figs-hendiadys-like: εἶπαν + λέγοντες ptc is Semitic-influenced redundancy. Thai collapses to single ทูล (humble-speech to divine addressee per RULES.md §3)."
+        },
+        {
+          "greek": "Εἰπὸν ἡμῖν",
+          "thai": "ขอบอกเราเถิด",
+          "rationale": "Per uW figs-imperative: aor-imp 2sg 'tell us.' Opponent-to-Jesus register: use มนุษย์-ท่าน (not divine-honorific), but polite-request-form with ขอ...เถิด since framed as a deferential inquiry (before the attack emerges). The Sanhedrin is feigning respectful inquiry."
+        },
+        {
+          "greek": "ἐν ποίᾳ ἐξουσίᾳ ταῦτα ποιεῖς",
+          "thai": "ท่านทำสิ่งเหล่านี้โดยสิทธิอำนาจใด",
+          "rationale": "ἐξουσία → สิทธิอำนาจ (glossary-established MRK 11:28 synoptic-parallel; LUK 4:36, 9:1, 10:19 Luke-internal). ταῦτα 'these things' = Jesus' cleansing of the temple (19:45-46) + public teaching. Word-order preserves the διδάσκω/εὐαγγελίζω → 'authority for this?' flow."
+        },
+        {
+          "greek": "τίς ἐστιν ὁ δούς σοι τὴν ἐξουσίαν ταύτην",
+          "thai": "ใครเป็นผู้ให้สิทธิอำนาจนี้แก่ท่าน",
+          "rationale": "Second question = authorization-source inquiry. Implied dichotomy: human rabbinic-succession vs. direct-divine-commission. Matches Mark 11:28 synoptic parallel rendering."
+        }
       ],
       "notes": "TWO-PART CHALLENGE: (1) nature of authority, (2) source of authorization. The Sanhedrin believed they were the exclusive source of legitimate religious authority in Jerusalem. By asking 'who gave you?' they were demanding Jesus produce a rabbinic-chain-of-authorization (סמיכה / semikhah) they had not themselves conferred. Jesus' counter-question (v.3-4) about John's baptism is not evasion but logically binding — John too had no rabbinic-authorization, yet popularly recognized as a prophet."
     }
@@ -44,13 +76,25 @@
     "greek": "ἀποκριθεὶς δὲ εἶπεν πρὸς αὐτούς·Ἐρωτήσω ὑμᾶς κἀγὼ λόγον,καὶ εἴπατέ μοι·",
     "bsb_english": "\"I will also ask you a question,\" Jesus replied. \"Tell Me:",
     "translation": {
-      "thai": "พระองค์ตรัสตอบพวกเขาว่า «เราจะถามพวกท่านสักข้อหนึ่งเหมือนกัน จงตอบเรา",
+      "thai": "พระองค์ตรัสตอบพวกเขาว่า “เราจะถามพวกท่านสักข้อหนึ่งเหมือนกัน จงตอบเรา",
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        {"greek": "ἀποκριθεὶς...εἶπεν", "thai": "ตรัสตอบ", "rationale": "Per uW figs-hendiadys: ptc + finite-verb = single-speech-act. Thai ตรัสตอบ collapses naturally (royal ตรัส per RULES.md §3 for divine subject)."},
-        {"greek": "Ἐρωτήσω ὑμᾶς κἀγὼ λόγον", "thai": "เราจะถามพวกท่านสักข้อหนึ่งเหมือนกัน", "rationale": "κἀγώ 'I also' signals tit-for-tat logic: 'you asked me, so I ask you.' λόγον here = 'question' (per uW semantic-range note). Thai ข้อ (classifier for item/question) + เหมือนกัน captures the reciprocal force. Jesus-to-Sanhedrin register: เรา (divine-speaker self-ref, not royal-human-pronoun ข้าพเจ้า) + พวกท่าน (respectful-equal-to-opponent)."},
-        {"greek": "εἴπατέ μοι", "thai": "จงตอบเรา", "rationale": "Aor-imp 2pl 'tell me.' Thai จงตอบ imperative-form. Preserves the tit-for-tat: as they demanded εἰπόν ἡμῖν v.2 'tell us', Jesus demands εἴπατέ μοι 'you tell me.'"}
+        {
+          "greek": "ἀποκριθεὶς...εἶπεν",
+          "thai": "ตรัสตอบ",
+          "rationale": "Per uW figs-hendiadys: ptc + finite-verb = single-speech-act. Thai ตรัสตอบ collapses naturally (royal ตรัส per RULES.md §3 for divine subject)."
+        },
+        {
+          "greek": "Ἐρωτήσω ὑμᾶς κἀγὼ λόγον",
+          "thai": "เราจะถามพวกท่านสักข้อหนึ่งเหมือนกัน",
+          "rationale": "κἀγώ 'I also' signals tit-for-tat logic: 'you asked me, so I ask you.' λόγον here = 'question' (per uW semantic-range note). Thai ข้อ (classifier for item/question) + เหมือนกัน captures the reciprocal force. Jesus-to-Sanhedrin register: เรา (divine-speaker self-ref, not royal-human-pronoun ข้าพเจ้า) + พวกท่าน (respectful-equal-to-opponent)."
+        },
+        {
+          "greek": "εἴπατέ μοι",
+          "thai": "จงตอบเรา",
+          "rationale": "Aor-imp 2pl 'tell me.' Thai จงตอบ imperative-form. Preserves the tit-for-tat: as they demanded εἰπόν ἡμῖν v.2 'tell us', Jesus demands εἴπατέ μοι 'you tell me.'"
+        }
       ],
       "notes": "RABBINIC-DEBATE-PATTERN: answering question-with-question was accepted Jewish pedagogical technique (cf. m. Avot 1:6). Jesus is not evading but employing a formally-legitimate counter-move that exposes the contradiction in their position. They claim exclusive authority-to-authorize, but publicly acknowledge John the Baptist as God-sent — which means prophetic-authority does operate outside their institutional control."
     }
@@ -62,13 +106,25 @@
     "greek": "Τὸ βάπτισμα Ἰωάννου ἐξ οὐρανοῦ ἦν ἢ ἐξ ἀνθρώπων;",
     "bsb_english": "John's baptism—was it from heaven, or from men?\"",
     "translation": {
-      "thai": "บัพติศมาของยอห์นมาจากสวรรค์หรือมาจากมนุษย์?»",
+      "thai": "บัพติศมาของยอห์นมาจากสวรรค์หรือมาจากมนุษย์?”",
       "thai_literal": null,
-      "thai_summary": "«จากสวรรค์» ในภาษากรีกเป็นสำนวนยิวที่ใช้เลี่ยงการเอ่ยพระนามพระเจ้าโดยตรง หมายความว่า «มาจากพระเจ้า» คำถามของพระเยซูเป็นกับดักที่พลิกกลับการสอบสวนของพวกเขา — ถ้ายอห์นมีอำนาจจากพระเจ้าโดยไม่ผ่านทางซันเฮดริน พระเยซูก็ย่อมมีได้เช่นเดียวกัน ยอห์นได้รับรองพระเยซูอย่างเปิดเผย (ลูกา 3:16-22) ดังนั้นการยอมรับอำนาจของยอห์นคือการยอมรับอำนาจของพระเยซู",
+      "thai_summary": "“จากสวรรค์” ในภาษากรีกเป็นสำนวนยิวที่ใช้เลี่ยงการเอ่ยพระนามพระเจ้าโดยตรง หมายความว่า “มาจากพระเจ้า” คำถามของพระเยซูเป็นกับดักที่พลิกกลับการสอบสวนของพวกเขา — ถ้ายอห์นมีอำนาจจากพระเจ้าโดยไม่ผ่านทางซันเฮดริน พระเยซูก็ย่อมมีได้เช่นเดียวกัน ยอห์นได้รับรองพระเยซูอย่างเปิดเผย (ลูกา 3:16-22) ดังนั้นการยอมรับอำนาจของยอห์นคือการยอมรับอำนาจของพระเยซู",
       "key_decisions": [
-        {"greek": "Τὸ βάπτισμα Ἰωάννου", "thai": "บัพติศมาของยอห์น", "rationale": "βάπτισμα → บัพติศมา (RULES.md §4 non-negotiable standard, transliteration). Ἰωάννης → ยอห์น (glossary-established Thai Christian standard throughout Luke)."},
-        {"greek": "ἐξ οὐρανοῦ", "thai": "จากสวรรค์", "rationale": "Per uW figs-euphemism: reverent Jewish circumlocution for 'from God' (avoids uttering divine name). Thai preserves the euphemism จากสวรรค์ rather than explicating to 'from God' — keeps Jesus' question operating in their idiom. Matches MRK 11:30 synoptic-parallel rendering."},
-        {"greek": "ἐξ ἀνθρώπων", "thai": "จากมนุษย์", "rationale": "Per uW figs-gendernotations: generic masculine = 'from human beings.' Thai มนุษย์ = gender-inclusive default (synoptic-parallel-consistent MRK 11:30)."}
+        {
+          "greek": "Τὸ βάπτισμα Ἰωάννου",
+          "thai": "บัพติศมาของยอห์น",
+          "rationale": "βάπτισμα → บัพติศมา (RULES.md §4 non-negotiable standard, transliteration). Ἰωάννης → ยอห์น (glossary-established Thai Christian standard throughout Luke)."
+        },
+        {
+          "greek": "ἐξ οὐρανοῦ",
+          "thai": "จากสวรรค์",
+          "rationale": "Per uW figs-euphemism: reverent Jewish circumlocution for 'from God' (avoids uttering divine name). Thai preserves the euphemism จากสวรรค์ rather than explicating to 'from God' — keeps Jesus' question operating in their idiom. Matches MRK 11:30 synoptic-parallel rendering."
+        },
+        {
+          "greek": "ἐξ ἀνθρώπων",
+          "thai": "จากมนุษย์",
+          "rationale": "Per uW figs-gendernotations: generic masculine = 'from human beings.' Thai มนุษย์ = gender-inclusive default (synoptic-parallel-consistent MRK 11:30)."
+        }
       ],
       "notes": "STRATEGIC-COUNTER-QUESTION: the dilemma Jesus forces is not hypothetical — he knows John's baptism was divinely-authorized. The Sanhedrin publicly-refused-John's-baptism (LUK 7:30: οἱ Φαρισαῖοι καὶ οἱ νομικοί...ἠθέτησαν εἰς ἑαυτούς), so answering 'from heaven' would indict their own rejection. The euphemism οὐρανός-for-God appears also at LUK 15:18, 15:21 (Prodigal's confession 'εἰς τὸν οὐρανόν')."
     }
@@ -80,13 +136,25 @@
     "greek": "οἱ δὲ συνελογίσαντο πρὸς ἑαυτοὺς λέγοντες ὅτι Ἐὰν εἴπωμεν·Ἐξ οὐρανοῦ,ἐρεῖ·Διὰ τί οὐκ ἐπιστεύσατε αὐτῷ;",
     "bsb_english": "They deliberated among themselves and said, \"If we say, 'From heaven,' He will ask, 'Why did you not believe him?'",
     "translation": {
-      "thai": "พวกเขาปรึกษาหารือกันเองว่า «ถ้าเราพูดว่า ‹มาจากสวรรค์› เขาก็จะถามว่า ‹ทำไมพวกท่านจึงไม่เชื่อยอห์น?›",
+      "thai": "พวกเขาปรึกษาหารือกันเองว่า “ถ้าเราพูดว่า ‘มาจากสวรรค์’ เขาก็จะถามว่า ‘ทำไมพวกท่านจึงไม่เชื่อยอห์น?’",
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        {"greek": "συνελογίσαντο πρὸς ἑαυτοὺς", "thai": "ปรึกษาหารือกันเอง", "rationale": "HAPAX: συλλογίζομαι 'reason together, confer' — only here in NT. Classical Attic usage (Plato, Aristotle) for deliberative-reasoning. Thai ปรึกษาหารือ captures the mutual-deliberation-sense; กันเอง closes the reflexive πρὸς ἑαυτούς 'with themselves.' Synoptic-parallel MRK 11:31 uses διαλογίζομαι (rendered ปรึกษาหารือ) — Luke's σύν-compound intensifies the internal-consultation nuance; Thai preserves the natural equivalence."},
-        {"greek": "Ἐὰν εἴπωμεν", "thai": "ถ้าเราพูดว่า", "rationale": "Per uW figs-hypo: subjunctive hypothetical. Thai ถ้าเราพูดว่า standard hypothetical-construction. พวกเรา among themselves (not the humble-before-divine register; they're speaking to each other in-group)."},
-        {"greek": "ἐρεῖ·Διὰ τί οὐκ ἐπιστεύσατε αὐτῷ", "thai": "เขาก็จะถามว่า ‹ทำไมพวกท่านจึงไม่เชื่อยอห์น?›", "rationale": "Per uW figs-quotesinquotes: direct-speech-within-direct-speech; Thai preserves with nested ‹...› brackets. Fut-ind ἐρεῖ 'he will say' → จะถามว่า since the content is accusatory-interrogative. The subject αὐτῷ 'him' = John, restored to 'ยอห์น' per uW figs-ellipsis to disambiguate from Jesus (αὐτόν in chain-reference)."}
+        {
+          "greek": "συνελογίσαντο πρὸς ἑαυτοὺς",
+          "thai": "ปรึกษาหารือกันเอง",
+          "rationale": "HAPAX: συλλογίζομαι 'reason together, confer' — only here in NT. Classical Attic usage (Plato, Aristotle) for deliberative-reasoning. Thai ปรึกษาหารือ captures the mutual-deliberation-sense; กันเอง closes the reflexive πρὸς ἑαυτούς 'with themselves.' Synoptic-parallel MRK 11:31 uses διαλογίζομαι (rendered ปรึกษาหารือ) — Luke's σύν-compound intensifies the internal-consultation nuance; Thai preserves the natural equivalence."
+        },
+        {
+          "greek": "Ἐὰν εἴπωμεν",
+          "thai": "ถ้าเราพูดว่า",
+          "rationale": "Per uW figs-hypo: subjunctive hypothetical. Thai ถ้าเราพูดว่า standard hypothetical-construction. พวกเรา among themselves (not the humble-before-divine register; they're speaking to each other in-group)."
+        },
+        {
+          "greek": "ἐρεῖ·Διὰ τί οὐκ ἐπιστεύσατε αὐτῷ",
+          "thai": "เขาก็จะถามว่า ‘ทำไมพวกท่านจึงไม่เชื่อยอห์น?’",
+          "rationale": "Per uW figs-quotesinquotes: direct-speech-within-direct-speech; Thai preserves with nested ‘...’ brackets. Fut-ind ἐρεῖ 'he will say' → จะถามว่า since the content is accusatory-interrogative. The subject αὐτῷ 'him' = John, restored to 'ยอห์น' per uW figs-ellipsis to disambiguate from Jesus (αὐτόν in chain-reference)."
+        }
       ],
       "notes": "HAPAX: συλλογίζομαι — Luke's characteristic literary-Greek word-choice (vs. Mark's more-common διαλογίζομαι). The internal-council of the leaders exposes their calculation: their answer is determined by consequences, not truth. Luke's narrative-irony: Jesus' counter-question has trapped them exactly as their τί ποιήσω-question was trying to trap him. The answer Jesus anticipates — 'why did you not believe' — is exactly Luke's 7:30 indictment."
     }
@@ -98,13 +166,25 @@
     "greek": "ἐὰν δὲ εἴπωμεν·Ἐξ ἀνθρώπων,ὁ λαὸς ἅπας καταλιθάσει ἡμᾶς,πεπεισμένος γάρ ἐστιν Ἰωάννην προφήτην εἶναι·",
     "bsb_english": "But if we say, 'From men,' all the people will stone us, for they are convinced that John was a prophet.\"",
     "translation": {
-      "thai": "แต่ถ้าเราพูดว่า ‹มาจากมนุษย์› ประชาชนทั้งหมดก็จะเอาหินขว้างเรา เพราะพวกเขาเชื่อมั่นว่ายอห์นเป็นผู้เผยพระวจนะ»",
+      "thai": "แต่ถ้าเราพูดว่า ‘มาจากมนุษย์’ ประชาชนทั้งหมดก็จะเอาหินขว้างเรา เพราะพวกเขาเชื่อมั่นว่ายอห์นเป็นผู้เผยพระวจนะ”",
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        {"greek": "ὁ λαὸς ἅπας", "thai": "ประชาชนทั้งหมด", "rationale": "Per uW figs-hyperbole + figs-idiom: 'all the people' — customary way of speaking of 'the Jewish-nation-in-general.' Thai ประชาชนทั้งหมด preserves the emphatic-generalization (not literal-every-individual). λαός → ประชาชน (glossary-established across Luke)."},
-        {"greek": "καταλιθάσει ἡμᾶς", "thai": "จะเอาหินขว้างเรา", "rationale": "HAPAX: καταλιθάζω 'stone-down' (κατα-intensive + λιθάζω 'stone'). The κατα- prefix implies stoning-to-death (not mere pelting). Thai เอาหินขว้าง is the standard Thai Christian phrase for stoning. Per uW figs-explicit: implied as punishment for blasphemy (denying God's prophet's authority). Classical Greek parallels: LXX Exod 17:4, Num 14:10 for people-threat-to-stone leaders."},
-        {"greek": "πεπεισμένος γάρ ἐστιν Ἰωάννην προφήτην εἶναι", "thai": "เพราะพวกเขาเชื่อมั่นว่ายอห์นเป็นผู้เผยพระวจนะ", "rationale": "Per uW figs-activepassive: perf-pass-ptc πεπεισμένος + ἐστιν = periphrastic perf-pass 'they-have-been-persuaded-and-remain-convinced.' Thai เชื่อมั่น captures the settled-conviction-sense. προφήτης → ผู้เผยพระวจนะ (glossary-established; Thai Christian standard). Singular-verb-with-collective λαός per Greek; Thai uses plural พวกเขา since λαός was rendered ประชาชน."}
+        {
+          "greek": "ὁ λαὸς ἅπας",
+          "thai": "ประชาชนทั้งหมด",
+          "rationale": "Per uW figs-hyperbole + figs-idiom: 'all the people' — customary way of speaking of 'the Jewish-nation-in-general.' Thai ประชาชนทั้งหมด preserves the emphatic-generalization (not literal-every-individual). λαός → ประชาชน (glossary-established across Luke)."
+        },
+        {
+          "greek": "καταλιθάσει ἡμᾶς",
+          "thai": "จะเอาหินขว้างเรา",
+          "rationale": "HAPAX: καταλιθάζω 'stone-down' (κατα-intensive + λιθάζω 'stone'). The κατα- prefix implies stoning-to-death (not mere pelting). Thai เอาหินขว้าง is the standard Thai Christian phrase for stoning. Per uW figs-explicit: implied as punishment for blasphemy (denying God's prophet's authority). Classical Greek parallels: LXX Exod 17:4, Num 14:10 for people-threat-to-stone leaders."
+        },
+        {
+          "greek": "πεπεισμένος γάρ ἐστιν Ἰωάννην προφήτην εἶναι",
+          "thai": "เพราะพวกเขาเชื่อมั่นว่ายอห์นเป็นผู้เผยพระวจนะ",
+          "rationale": "Per uW figs-activepassive: perf-pass-ptc πεπεισμένος + ἐστιν = periphrastic perf-pass 'they-have-been-persuaded-and-remain-convinced.' Thai เชื่อมั่น captures the settled-conviction-sense. προφήτης → ผู้เผยพระวจนะ (glossary-established; Thai Christian standard). Singular-verb-with-collective λαός per Greek; Thai uses plural พวกเขา since λαός was rendered ประชาชน."
+        }
       ],
       "notes": "HAPAX: καταλιθάζω — only here in NT. The κατα- compound signals execution-by-stoning rather than casual stoning. The Sanhedrin fears mob-violence because denying John's prophethood would be denying God-in-John. Notable inversion: these same leaders would shortly incite the crowd to demand Jesus' crucifixion (LUK 23:18-23) — they fear the crowd now, but will manipulate it within days. Their calculation is pragmatic, not theological."
     }
@@ -120,8 +200,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        {"greek": "καὶ", "thai": "จึง", "rationale": "Per uW grammar-connect-logic-result: καί here introduces the result of the internal-deliberation. Thai จึง preserves the logical-consequent force."},
-        {"greek": "ἀπεκρίθησαν μὴ εἰδέναι πόθεν", "thai": "ตอบว่าไม่ทราบว่ามาจากไหน", "rationale": "Per uW figs-quotations + figs-ellipsis: indirect-discourse with οἶδα inf 'not to know.' Thai ตอบว่าไม่ทราบ preserves the indirect-speech. πόθεν 'from where' — subject elided (John's baptism) is supplied by Thai flow: 'from-where' = 'มาจากไหน.' Opponent-speaking register: ไม่ทราบ (polite/formal, appropriate for Sanhedrin)."}
+        {
+          "greek": "καὶ",
+          "thai": "จึง",
+          "rationale": "Per uW grammar-connect-logic-result: καί here introduces the result of the internal-deliberation. Thai จึง preserves the logical-consequent force."
+        },
+        {
+          "greek": "ἀπεκρίθησαν μὴ εἰδέναι πόθεν",
+          "thai": "ตอบว่าไม่ทราบว่ามาจากไหน",
+          "rationale": "Per uW figs-quotations + figs-ellipsis: indirect-discourse with οἶδα inf 'not to know.' Thai ตอบว่าไม่ทราบ preserves the indirect-speech. πόθεν 'from where' — subject elided (John's baptism) is supplied by Thai flow: 'from-where' = 'มาจากไหน.' Opponent-speaking register: ไม่ทราบ (polite/formal, appropriate for Sanhedrin)."
+        }
       ],
       "notes": "FALSE-IGNORANCE PLOY: the Sanhedrin's 'we don't know' is a deliberate dodge — they know exactly what to think, but either answer costs them. Rabbinic-debate rules permit 'don't know' as a concession, but in this context it amounts to public-admission of incompetence-or-cowardice. By their own criterion (v.2: you must have authorization-source), they have just forfeited their standing to demand Jesus justify his authority."
     }
@@ -133,13 +221,25 @@
     "greek": "καὶ ὁ Ἰησοῦς εἶπεν αὐτοῖς·Οὐδὲ ἐγὼ λέγω ὑμῖν ἐν ποίᾳ ἐξουσίᾳ ταῦτα ποιῶ.",
     "bsb_english": "And Jesus replied, \"Neither will I tell you by what authority I am doing these things.\"",
     "translation": {
-      "thai": "พระเยซูจึงตรัสกับเขาว่า «เราก็จะไม่บอกพวกท่านเช่นกันว่าเราทำสิ่งเหล่านี้โดยสิทธิอำนาจใด»",
+      "thai": "พระเยซูจึงตรัสกับเขาว่า “เราก็จะไม่บอกพวกท่านเช่นกันว่าเราทำสิ่งเหล่านี้โดยสิทธิอำนาจใด”",
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        {"greek": "καὶ", "thai": "จึง", "rationale": "Per uW grammar-connect-logic-result: Jesus' reply is the result of their evasion."},
-        {"greek": "Οὐδὲ ἐγὼ λέγω ὑμῖν", "thai": "เราก็จะไม่บอกพวกท่านเช่นกัน", "rationale": "Per uW grammar-connect-logic-result: οὐδέ 'not-even/neither' — reciprocal-refusal response. Thai เช่นกัน captures the 'likewise/same-treatment' force. Emphatic ἐγώ preserved via เรา (Jesus-to-opponent first-person). Pres-tense λέγω 'I-am-telling' preserved via จะบอก (imminent-refusal)."},
-        {"greek": "ἐν ποίᾳ ἐξουσίᾳ ταῦτα ποιῶ", "thai": "ว่าเราทำสิ่งเหล่านี้โดยสิทธิอำนาจใด", "rationale": "Echoes v.2 verbatim (ἐν ποίᾳ ἐξουσίᾳ ταῦτα ποιεῖς) — Jesus' reply mirrors their question. Thai identical to v.2 phrasing (โดยสิทธิอำนาจใด) preserves the verbal-echo."}
+        {
+          "greek": "καὶ",
+          "thai": "จึง",
+          "rationale": "Per uW grammar-connect-logic-result: Jesus' reply is the result of their evasion."
+        },
+        {
+          "greek": "Οὐδὲ ἐγὼ λέγω ὑμῖν",
+          "thai": "เราก็จะไม่บอกพวกท่านเช่นกัน",
+          "rationale": "Per uW grammar-connect-logic-result: οὐδέ 'not-even/neither' — reciprocal-refusal response. Thai เช่นกัน captures the 'likewise/same-treatment' force. Emphatic ἐγώ preserved via เรา (Jesus-to-opponent first-person). Pres-tense λέγω 'I-am-telling' preserved via จะบอก (imminent-refusal)."
+        },
+        {
+          "greek": "ἐν ποίᾳ ἐξουσίᾳ ταῦτα ποιῶ",
+          "thai": "ว่าเราทำสิ่งเหล่านี้โดยสิทธิอำนาจใด",
+          "rationale": "Echoes v.2 verbatim (ἐν ποίᾳ ἐξουσίᾳ ταῦτα ποιεῖς) — Jesus' reply mirrors their question. Thai identical to v.2 phrasing (โดยสิทธิอำนาจใด) preserves the verbal-echo."
+        }
       ],
       "notes": "JUDGMENT-BY-WITHHOLDING: Jesus' refusal is itself a verdict. The Sanhedrin's failure to identify John's source of authority demonstrates their inability to rightly discern divine-authority-claims; therefore they lack standing to receive the self-attestation they demand. Parallel-structure to LUK 22:67-68 trial: 'If I tell you, you will not believe; and if I question you, you will not answer.' The refusal echoes forward to Passion week."
     }
@@ -151,15 +251,35 @@
     "greek": "Ἤρξατο δὲ πρὸς τὸν λαὸν λέγειν τὴν παραβολὴν ταύτην·Ἄνθρωπος ἐφύτευσεν ἀμπελῶνα,καὶ ἐξέδετο αὐτὸν γεωργοῖς,καὶ ἀπεδήμησεν χρόνους ἱκανούς.",
     "bsb_english": "Then He proceeded to tell the people this parable: \"A man planted a vineyard, rented it out to some tenants, and went away for a long time.",
     "translation": {
-      "thai": "แล้วพระองค์ทรงเริ่มตรัสคำอุปมานี้แก่ประชาชนว่า «ชายคนหนึ่งปลูกสวนองุ่น ให้คนทำสวนเช่า แล้วออกเดินทางไปต่างแดนเป็นเวลานาน",
+      "thai": "แล้วพระองค์ทรงเริ่มตรัสคำอุปมานี้แก่ประชาชนว่า “ชายคนหนึ่งปลูกสวนองุ่น ให้คนทำสวนเช่า แล้วออกเดินทางไปต่างแดนเป็นเวลานาน",
       "thai_literal": null,
-      "thai_summary": "คำอุปมาเรื่องสวนองุ่นนี้สะท้อนภาพในอิสยาห์ 5:1-7 ที่เรียกอิสราเอลว่า «สวนองุ่นของพระเจ้า» ผู้ฟังยุคพระเยซูคุ้นเคยกับภาพนี้ทันทีว่าหมายถึงอิสราเอล «เจ้าของ» คือพระเจ้า «คนทำสวนเช่า» คือผู้นำศาสนาของอิสราเอล «ทาส» ที่ถูกส่งมาคือเหล่าผู้เผยพระวจนะในพันธสัญญาเดิม และ «บุตรที่รัก» คือพระเยซูเอง คำอุปมานี้จึงเป็นคำพยากรณ์ล่วงหน้าของการสิ้นพระชนม์ของพระคริสต์และการพิพากษาที่จะตามมา",
+      "thai_summary": "คำอุปมาเรื่องสวนองุ่นนี้สะท้อนภาพในอิสยาห์ 5:1-7 ที่เรียกอิสราเอลว่า “สวนองุ่นของพระเจ้า” ผู้ฟังยุคพระเยซูคุ้นเคยกับภาพนี้ทันทีว่าหมายถึงอิสราเอล “เจ้าของ” คือพระเจ้า “คนทำสวนเช่า” คือผู้นำศาสนาของอิสราเอล “ทาส” ที่ถูกส่งมาคือเหล่าผู้เผยพระวจนะในพันธสัญญาเดิม และ “บุตรที่รัก” คือพระเยซูเอง คำอุปมานี้จึงเป็นคำพยากรณ์ล่วงหน้าของการสิ้นพระชนม์ของพระคริสต์และการพิพากษาที่จะตามมา",
       "key_decisions": [
-        {"greek": "Ἤρξατο δὲ πρὸς τὸν λαὸν λέγειν", "thai": "ทรงเริ่มตรัส...แก่ประชาชน", "rationale": "Ἤρξατο + inf is common NT narrative-inceptive; often redundant in translation but Luke's distinction here (πρὸς τὸν λαόν — to the people, not merely to the leaders) is meaningful: Jesus continues to speak to the crowd while the Sanhedrin stands by. Thai tense-verbal ทรงเริ่มตรัส preserves the initiation-moment + divine-royal register. Audience-shift marker."},
-        {"greek": "τὴν παραβολὴν ταύτην", "thai": "คำอุปมานี้", "rationale": "παραβολή → คำอุปมา (glossary-established Luke-corpus, MRK 4:2, MAT 13:3). Standard Thai Christian."},
-        {"greek": "Ἄνθρωπος ἐφύτευσεν ἀμπελῶνα", "thai": "ชายคนหนึ่งปลูกสวนองุ่น", "rationale": "Per uW writing-participants: story-opener. ἀμπελών → สวนองุ่น (glossary-established MRK 12:1, MAT 21:33 synoptic-parallels). Matches MRK 12:1 rendering verbatim. Luke abbreviates vs. Mark's fence/pit/tower details (Matt 21:33 ≈ Mark); Luke omits these to focus on the tenant-conflict."},
-        {"greek": "ἐξέδετο αὐτὸν γεωργοῖς", "thai": "ให้คนทำสวนเช่า", "rationale": "Per uW translate-unknown: share-cropping arrangement, not cash-rent (v.10 shows harvest-share collection). γεωργοί → คนทำสวน (glossary-established MRK 12:1 synoptic-parallel rendering). Matches MRK 12:1 verbatim."},
-        {"greek": "ἀπεδήμησεν χρόνους ἱκανούς", "thai": "ออกเดินทางไปต่างแดนเป็นเวลานาน", "rationale": "ἀποδημέω 'go-abroad/travel-far' → ออกเดินทางไปต่างแดน (natural Thai). Luke-distinctive χρόνους ἱκανούς 'considerable times' — Luke adds this detail vs. Mark/Matthew to emphasize the long-patience of the owner before judgment (allegorically: God's long-suffering with Israel's leadership). Thai เป็นเวลานาน preserves the duration-extension."}
+        {
+          "greek": "Ἤρξατο δὲ πρὸς τὸν λαὸν λέγειν",
+          "thai": "ทรงเริ่มตรัส...แก่ประชาชน",
+          "rationale": "Ἤρξατο + inf is common NT narrative-inceptive; often redundant in translation but Luke's distinction here (πρὸς τὸν λαόν — to the people, not merely to the leaders) is meaningful: Jesus continues to speak to the crowd while the Sanhedrin stands by. Thai tense-verbal ทรงเริ่มตรัส preserves the initiation-moment + divine-royal register. Audience-shift marker."
+        },
+        {
+          "greek": "τὴν παραβολὴν ταύτην",
+          "thai": "คำอุปมานี้",
+          "rationale": "παραβολή → คำอุปมา (glossary-established Luke-corpus, MRK 4:2, MAT 13:3). Standard Thai Christian."
+        },
+        {
+          "greek": "Ἄνθρωπος ἐφύτευσεν ἀμπελῶνα",
+          "thai": "ชายคนหนึ่งปลูกสวนองุ่น",
+          "rationale": "Per uW writing-participants: story-opener. ἀμπελών → สวนองุ่น (glossary-established MRK 12:1, MAT 21:33 synoptic-parallels). Matches MRK 12:1 rendering verbatim. Luke abbreviates vs. Mark's fence/pit/tower details (Matt 21:33 ≈ Mark); Luke omits these to focus on the tenant-conflict."
+        },
+        {
+          "greek": "ἐξέδετο αὐτὸν γεωργοῖς",
+          "thai": "ให้คนทำสวนเช่า",
+          "rationale": "Per uW translate-unknown: share-cropping arrangement, not cash-rent (v.10 shows harvest-share collection). γεωργοί → คนทำสวน (glossary-established MRK 12:1 synoptic-parallel rendering). Matches MRK 12:1 verbatim."
+        },
+        {
+          "greek": "ἀπεδήμησεν χρόνους ἱκανούς",
+          "thai": "ออกเดินทางไปต่างแดนเป็นเวลานาน",
+          "rationale": "ἀποδημέω 'go-abroad/travel-far' → ออกเดินทางไปต่างแดน (natural Thai). Luke-distinctive χρόνους ἱκανούς 'considerable times' — Luke adds this detail vs. Mark/Matthew to emphasize the long-patience of the owner before judgment (allegorically: God's long-suffering with Israel's leadership). Thai เป็นเวลานาน preserves the duration-extension."
+        }
       ],
       "notes": "OT ALLUSION: Isaiah 5:1-7 (LXX ἀμπελών-vocabulary cluster) — the Song of the Vineyard casts Israel as God's vineyard, which the tenant-leadership fails to manage. Jesus' audience would recognize the Isaianic-allegorical-framework immediately. Luke-distinctive χρόνους ἱκανούς (vs. Mark ἀπεδήμησεν-simpliciter) emphasizes divine-forbearance theme central to Luke-Acts salvation-history. ADDED TO NT_OT_CITATIONS: LUK 20:9 allusion to ISA 5:1-7."
     }
@@ -175,10 +295,26 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        {"greek": "καιρῷ", "thai": "พอถึงเวลาเก็บเกี่ยวผล", "rationale": "Per uW figs-explicit: dative-of-time 'at the appointed-time' = harvest-season when share was due. Thai เวลาเก็บเกี่ยวผล supplies the implied-harvest-context."},
-        {"greek": "δοῦλον", "thai": "ทาสคนหนึ่ง", "rationale": "δοῦλος → ทาส (glossary-established Luke-corpus, e.g., LUK 17:7-10, 19:13-17). Singular-indefinite 'a servant.'"},
-        {"greek": "ἵνα ἀπὸ τοῦ καρποῦ τοῦ ἀμπελῶνος δώσουσιν αὐτῷ", "thai": "เพื่อรับส่วนแบ่งจากผลของสวนองุ่น", "rationale": "Per uW figs-metaphor: καρπός could be literal-grapes or figurative-share-of-harvest-value. We render ส่วนแบ่งจากผล preserving both-literal-and-share-sense. ἵνα δώσουσιν fut-ind + ἵνα = later-NT-Greek purpose-construction. δίδωμι → ให้/มอบ → อยู่ในรูปการรับส่วนแบ่งจากฝั่งผู้ส่งทาส."},
-        {"greek": "δείραντες κενόν", "thai": "เฆี่ยนทาสและไล่ส่งกลับไปมือเปล่า", "rationale": "Per uW figs-metaphor: ἐξαπέστειλαν αὐτόν...κενόν 'sent-him-away empty' — Jesus speaks of servant as empty-container. Thai มือเปล่า (Thai-natural-idiom for 'empty-handed'). δέρω 'beat/flog' → เฆี่ยน (Luke LXX-vocabulary; glossary LUK 12:47-48)."}
+        {
+          "greek": "καιρῷ",
+          "thai": "พอถึงเวลาเก็บเกี่ยวผล",
+          "rationale": "Per uW figs-explicit: dative-of-time 'at the appointed-time' = harvest-season when share was due. Thai เวลาเก็บเกี่ยวผล supplies the implied-harvest-context."
+        },
+        {
+          "greek": "δοῦλον",
+          "thai": "ทาสคนหนึ่ง",
+          "rationale": "δοῦλος → ทาส (glossary-established Luke-corpus, e.g., LUK 17:7-10, 19:13-17). Singular-indefinite 'a servant.'"
+        },
+        {
+          "greek": "ἵνα ἀπὸ τοῦ καρποῦ τοῦ ἀμπελῶνος δώσουσιν αὐτῷ",
+          "thai": "เพื่อรับส่วนแบ่งจากผลของสวนองุ่น",
+          "rationale": "Per uW figs-metaphor: καρπός could be literal-grapes or figurative-share-of-harvest-value. We render ส่วนแบ่งจากผล preserving both-literal-and-share-sense. ἵνα δώσουσιν fut-ind + ἵνα = later-NT-Greek purpose-construction. δίδωμι → ให้/มอบ → อยู่ในรูปการรับส่วนแบ่งจากฝั่งผู้ส่งทาส."
+        },
+        {
+          "greek": "δείραντες κενόν",
+          "thai": "เฆี่ยนทาสและไล่ส่งกลับไปมือเปล่า",
+          "rationale": "Per uW figs-metaphor: ἐξαπέστειλαν αὐτόν...κενόν 'sent-him-away empty' — Jesus speaks of servant as empty-container. Thai มือเปล่า (Thai-natural-idiom for 'empty-handed'). δέρω 'beat/flog' → เฆี่ยน (Luke LXX-vocabulary; glossary LUK 12:47-48)."
+        }
       ],
       "notes": "ALLEGORICAL-KEY: the servants = OT prophets; their mistreatment = Israel-leadership's rejection of prophets (cf. 2 Chron 36:15-16; Neh 9:26; LUK 11:47-51 'the blood of all the prophets'). Luke's three-servant-sequence (vs. Mark's additional-many-servants series at 12:4-5) compresses but preserves the escalating-violence pattern. δέρω + ἐξαπέστειλαν κενόν = shame + deprivation: physical-beating + refusal-of-contractual-due."
     }
@@ -194,9 +330,21 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        {"greek": "προσέθετο ἕτερον πέμψαι δοῦλον", "thai": "ใช้ทาสอีกคนหนึ่งไป", "rationale": "προστίθημι + inf = 'proceeded to / added to-send' (Hebraism, LXX-style; cf. LUK 19:11 προσθείς). Thai อีกคนหนึ่ง captures the iterative-addition. The semitic-idiom flattens naturally into Thai 'another.'"},
-        {"greek": "ἀτιμάσαντες", "thai": "ทำให้เขาได้รับความอัปยศ", "rationale": "ἀτιμάζω 'dishonor/shame' — uW: 'humiliating him.' In honor-shame culture, shaming-treatment may have exceeded the physical-blow in damage. Thai ทำให้...ได้รับความอัปยศ makes the shaming-action explicit (Thai-natural-idiom). NEW key-term: ἀτιμάζω → ทำให้ได้รับความอัปยศ."},
-        {"greek": "κἀκεῖνον...ἐξαπέστειλαν κενόν", "thai": "ไล่ส่งกลับไปมือเปล่า", "rationale": "Per uW figs-metaphor: same empty-container metaphor as v.10. Thai identical rendering preserves the refrain."}
+        {
+          "greek": "προσέθετο ἕτερον πέμψαι δοῦλον",
+          "thai": "ใช้ทาสอีกคนหนึ่งไป",
+          "rationale": "προστίθημι + inf = 'proceeded to / added to-send' (Hebraism, LXX-style; cf. LUK 19:11 προσθείς). Thai อีกคนหนึ่ง captures the iterative-addition. The semitic-idiom flattens naturally into Thai 'another.'"
+        },
+        {
+          "greek": "ἀτιμάσαντες",
+          "thai": "ทำให้เขาได้รับความอัปยศ",
+          "rationale": "ἀτιμάζω 'dishonor/shame' — uW: 'humiliating him.' In honor-shame culture, shaming-treatment may have exceeded the physical-blow in damage. Thai ทำให้...ได้รับความอัปยศ makes the shaming-action explicit (Thai-natural-idiom). NEW key-term: ἀτιμάζω → ทำให้ได้รับความอัปยศ."
+        },
+        {
+          "greek": "κἀκεῖνον...ἐξαπέστειλαν κενόν",
+          "thai": "ไล่ส่งกลับไปมือเปล่า",
+          "rationale": "Per uW figs-metaphor: same empty-container metaphor as v.10. Thai identical rendering preserves the refrain."
+        }
       ],
       "notes": "ESCALATION-ONE: the second servant is beaten AND publicly-shamed. Luke's narrative adds the shame-dimension (ἀτιμάσαντες) on top of beating — signaling that mistreatment of God's messengers has a moral-escalation pattern. OT prophet-mistreatment examples span from beating (Jer 20:2 Pashhur+Jeremiah) to public-mockery (2 Kgs 2:23 Elisha, 2 Chron 36:16)."
     }
@@ -212,9 +360,21 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        {"greek": "προσέθετο τρίτον πέμψαι", "thai": "ใช้คนที่สามไปอีก", "rationale": "HAPAX-context: τρίτον as nominalized-adjective 'a third servant' (per uW figs-nominaladj). Note: the lemma τρίτος appears many times NT-wide, but τρίτον in this substantival-sense is rare. Thai คนที่สาม ordinal supplied naturally."},
-        {"greek": "τραυματίσαντες", "thai": "ทำให้คนนี้บาดเจ็บ", "rationale": "τραυματίζω 'wound, injure' (aor-ptc) — ESCALATION-TWO: from beating to serious-wounding. Thai ทำให้บาดเจ็บ captures the injury-action. NEW key-term: τραυματίζω → ทำให้บาดเจ็บ."},
-        {"greek": "ἐξέβαλον", "thai": "ขับออกไปด้วย", "rationale": "Per uW figs-metaphor: 'threw out' = 'chased off.' Not literal hurling; means forced-off-property. Thai ขับออก (natural-idiom) for 'drive out/expel.' ด้วย preserves the καί-preceding 'also this one.'"}
+        {
+          "greek": "προσέθετο τρίτον πέμψαι",
+          "thai": "ใช้คนที่สามไปอีก",
+          "rationale": "HAPAX-context: τρίτον as nominalized-adjective 'a third servant' (per uW figs-nominaladj). Note: the lemma τρίτος appears many times NT-wide, but τρίτον in this substantival-sense is rare. Thai คนที่สาม ordinal supplied naturally."
+        },
+        {
+          "greek": "τραυματίσαντες",
+          "thai": "ทำให้คนนี้บาดเจ็บ",
+          "rationale": "τραυματίζω 'wound, injure' (aor-ptc) — ESCALATION-TWO: from beating to serious-wounding. Thai ทำให้บาดเจ็บ captures the injury-action. NEW key-term: τραυματίζω → ทำให้บาดเจ็บ."
+        },
+        {
+          "greek": "ἐξέβαλον",
+          "thai": "ขับออกไปด้วย",
+          "rationale": "Per uW figs-metaphor: 'threw out' = 'chased off.' Not literal hurling; means forced-off-property. Thai ขับออก (natural-idiom) for 'drive out/expel.' ด้วย preserves the καί-preceding 'also this one.'"
+        }
       ],
       "notes": "ESCALATION-TWO: the third servant is wounded (more severe than beaten) AND ejected from the vineyard — now actively-excluded-from-the-property. Allegorically: the tenant-leadership is no longer merely refusing to pay but physically attacking God's messengers to drive them out of God's vineyard (Israel)."
     }
@@ -226,14 +386,30 @@
     "greek": "εἶπεν δὲ ὁ κύριος τοῦ ἀμπελῶνος·Τί ποιήσω;πέμψω τὸν υἱόν μου τὸν ἀγαπητόν·ἴσως τοῦτον ἐντραπήσονται.",
     "bsb_english": "'What shall I do?' asked the owner of the vineyard. 'I will send my beloved son. Perhaps they will respect him.'",
     "translation": {
-      "thai": "เจ้าของสวนองุ่นจึงพูดว่า ‹เราจะทำอย่างไรดี? เราจะส่งบุตรที่รักของเราไป บางทีเขาจะเคารพบุตรของเรา›",
+      "thai": "เจ้าของสวนองุ่นจึงพูดว่า ‘เราจะทำอย่างไรดี? เราจะส่งบุตรที่รักของเราไป บางทีเขาจะเคารพบุตรของเรา’",
       "thai_literal": null,
-      "thai_summary": "«บุตรที่รัก» (ที่พระเจ้าตรัสถึง «บุตรที่รัก» สามครั้งในลูกา 3:22, 9:35, และที่นี่) เป็นคำที่สะท้อนเสียงจากฟ้าสวรรค์ในการรับบัพติศมาและการจำแลงพระกายของพระเยซู ผู้ฟังที่ตั้งใจฟังจะเข้าใจว่าคำอุปมานี้ไม่ใช่เพียงเรื่องเล่า แต่เป็นการประกาศตัวของพระเยซูว่าพระองค์เป็นพระบุตรของพระเจ้า",
+      "thai_summary": "“บุตรที่รัก” (ที่พระเจ้าตรัสถึง “บุตรที่รัก” สามครั้งในลูกา 3:22, 9:35, และที่นี่) เป็นคำที่สะท้อนเสียงจากฟ้าสวรรค์ในการรับบัพติศมาและการจำแลงพระกายของพระเยซู ผู้ฟังที่ตั้งใจฟังจะเข้าใจว่าคำอุปมานี้ไม่ใช่เพียงเรื่องเล่า แต่เป็นการประกาศตัวของพระเยซูว่าพระองค์เป็นพระบุตรของพระเจ้า",
       "key_decisions": [
-        {"greek": "ὁ κύριος τοῦ ἀμπελῶνος", "thai": "เจ้าของสวนองุ่น", "rationale": "Per uW: κύριος here = 'owner/lord of property.' Thai เจ้าของสวนองุ่น (MRK 12:9 synoptic-parallel; standard Thai rendering for human-owner κύριος, distinct from divine κύριος → องค์พระผู้เป็นเจ้า per RULES.md §4)."},
-        {"greek": "Τί ποιήσω", "thai": "เราจะทำอย่างไรดี", "rationale": "Deliberative-subjunctive 'what-shall-I-do?' — soliloquy style. Thai เราจะทำอย่างไรดี preserves the deliberation. Owner-speaker first-person เรา (neutral Thai human-speaker-self-ref)."},
-        {"greek": "τὸν υἱόν μου τὸν ἀγαπητόν", "thai": "บุตรที่รักของเรา", "rationale": "ἀγαπητός → ที่รัก (RULES.md §4 glossary-established). The phrase υἱός ἀγαπητός echoes LUK 3:22 (baptism: Σὺ εἶ ὁ υἱός μου ὁ ἀγαπητός) and LUK 9:35 (transfiguration). Messianic-self-designation-signal visible to any attentive audience-member. Thai บุตรที่รัก preserves the title-formula exactly."},
-        {"greek": "ἴσως τοῦτον ἐντραπήσονται", "thai": "บางทีเขาจะเคารพบุตรของเรา", "rationale": "HAPAX: ἴσως 'perhaps, maybe' — only here in NT. Per uW note: 'not merely perhaps but something expected.' Thai บางทีจะ captures the tentative-expectation. ἐντρέπω mid 'respect/feel-shame-before' — here positive 'show-respect.' Thai เคารพ natural. Owner's delusion-about-tenants continues even here; Jesus' audience knows this last-resort will fail."}
+        {
+          "greek": "ὁ κύριος τοῦ ἀμπελῶνος",
+          "thai": "เจ้าของสวนองุ่น",
+          "rationale": "Per uW: κύριος here = 'owner/lord of property.' Thai เจ้าของสวนองุ่น (MRK 12:9 synoptic-parallel; standard Thai rendering for human-owner κύριος, distinct from divine κύριος → องค์พระผู้เป็นเจ้า per RULES.md §4)."
+        },
+        {
+          "greek": "Τί ποιήσω",
+          "thai": "เราจะทำอย่างไรดี",
+          "rationale": "Deliberative-subjunctive 'what-shall-I-do?' — soliloquy style. Thai เราจะทำอย่างไรดี preserves the deliberation. Owner-speaker first-person เรา (neutral Thai human-speaker-self-ref)."
+        },
+        {
+          "greek": "τὸν υἱόν μου τὸν ἀγαπητόν",
+          "thai": "บุตรที่รักของเรา",
+          "rationale": "ἀγαπητός → ที่รัก (RULES.md §4 glossary-established). The phrase υἱός ἀγαπητός echoes LUK 3:22 (baptism: Σὺ εἶ ὁ υἱός μου ὁ ἀγαπητός) and LUK 9:35 (transfiguration). Messianic-self-designation-signal visible to any attentive audience-member. Thai บุตรที่รัก preserves the title-formula exactly."
+        },
+        {
+          "greek": "ἴσως τοῦτον ἐντραπήσονται",
+          "thai": "บางทีเขาจะเคารพบุตรของเรา",
+          "rationale": "HAPAX: ἴσως 'perhaps, maybe' — only here in NT. Per uW note: 'not merely perhaps but something expected.' Thai บางทีจะ captures the tentative-expectation. ἐντρέπω mid 'respect/feel-shame-before' — here positive 'show-respect.' Thai เคารพ natural. Owner's delusion-about-tenants continues even here; Jesus' audience knows this last-resort will fail."
+        }
       ],
       "notes": "HAPAX: ἴσως — only here in NT. MESSIANIC-SIGNAL: 'my beloved son' is a direct echo of LUK 3:22 baptism-voice and LUK 9:35 transfiguration-voice — God the Father's designation of Jesus. Within the parable, the owner's misplaced-hope ('perhaps they will respect') is tragic-irony: the Sanhedrin-audience KNOWS the outcome (v.14-15) because they are already planning exactly what the parable depicts. Jesus is telling them, to their faces, what they are about to do, using the Father-Son framework of his own divine-identity."
     }
@@ -245,14 +421,30 @@
     "greek": "ἰδόντες δὲ αὐτὸν οἱ γεωργοὶ διελογίζοντο πρὸς ἀλλήλους λέγοντες·Οὗτός ἐστιν ὁ κληρονόμος·ἀποκτείνωμεν αὐτόν,ἵνα ἡμῶν γένηται ἡ κληρονομία·",
     "bsb_english": "But when the tenants saw the son, they discussed it among themselves and said, 'This is the heir. Let us kill him, and the inheritance will be ours.'",
     "translation": {
-      "thai": "แต่เมื่อคนทำสวนเห็นบุตรนั้น พวกเขาก็ปรึกษากันเองว่า ‹ผู้นี้เป็นทายาท ให้เราฆ่าเขาเสีย มรดกจะได้ตกเป็นของเรา›",
+      "thai": "แต่เมื่อคนทำสวนเห็นบุตรนั้น พวกเขาก็ปรึกษากันเองว่า ‘ผู้นี้เป็นทายาท ให้เราฆ่าเขาเสีย มรดกจะได้ตกเป็นของเรา’",
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        {"greek": "διελογίζοντο πρὸς ἀλλήλους", "thai": "ปรึกษากันเอง", "rationale": "διαλογίζομαι 'discuss/reason together' — impf-tense ongoing-deliberation. Thai ปรึกษากันเอง captures the mutual-consultation (πρὸς ἀλλήλους reciprocal)."},
-        {"greek": "Οὗτός ἐστιν ὁ κληρονόμος", "thai": "ผู้นี้เป็นทายาท", "rationale": "κληρονόμος → ทายาท (standard Thai legal/Christian term). The tenants' identification is itself damning: they recognize the son-qua-heir yet decide to kill him — proves their rebellion is witting, not ignorant."},
-        {"greek": "ἀποκτείνωμεν αὐτόν", "thai": "ให้เราฆ่าเขาเสีย", "rationale": "Hortatory-subjunctive 'let us kill.' Thai ให้เราฆ่า (natural-hortatory) + เสีย (decisive-completion-particle). ἀποκτείνω → ฆ่า (standard; glossary-established)."},
-        {"greek": "ἵνα ἡμῶν γένηται ἡ κληρονομία", "thai": "มรดกจะได้ตกเป็นของเรา", "rationale": "Per uW figs-metonymy: κληρονομία = the vineyard-itself-which-will-be-inherited, not the abstract-inheritance. Thai มรดก + ตกเป็นของเรา captures both the legal-inheritance-concept and the possessive-goal-clause ἵνα...γένηται."}
+        {
+          "greek": "διελογίζοντο πρὸς ἀλλήλους",
+          "thai": "ปรึกษากันเอง",
+          "rationale": "διαλογίζομαι 'discuss/reason together' — impf-tense ongoing-deliberation. Thai ปรึกษากันเอง captures the mutual-consultation (πρὸς ἀλλήλους reciprocal)."
+        },
+        {
+          "greek": "Οὗτός ἐστιν ὁ κληρονόμος",
+          "thai": "ผู้นี้เป็นทายาท",
+          "rationale": "κληρονόμος → ทายาท (standard Thai legal/Christian term). The tenants' identification is itself damning: they recognize the son-qua-heir yet decide to kill him — proves their rebellion is witting, not ignorant."
+        },
+        {
+          "greek": "ἀποκτείνωμεν αὐτόν",
+          "thai": "ให้เราฆ่าเขาเสีย",
+          "rationale": "Hortatory-subjunctive 'let us kill.' Thai ให้เราฆ่า (natural-hortatory) + เสีย (decisive-completion-particle). ἀποκτείνω → ฆ่า (standard; glossary-established)."
+        },
+        {
+          "greek": "ἵνα ἡμῶν γένηται ἡ κληρονομία",
+          "thai": "มรดกจะได้ตกเป็นของเรา",
+          "rationale": "Per uW figs-metonymy: κληρονομία = the vineyard-itself-which-will-be-inherited, not the abstract-inheritance. Thai มรดก + ตกเป็นของเรา captures both the legal-inheritance-concept and the possessive-goal-clause ἵνα...γένηται."
+        }
       ],
       "notes": "HISTORICAL-LEGAL-CONTEXT: first-century Jewish law under Roman-jurisdiction held that if an heirless-landowner died, tenants-in-long-possession could claim the land by adverse-possession or ownerless-claim. The tenants' reasoning presupposes that the father's sending-of-son with no other heir implies the father has died or is about to; killing the heir then leaves no valid claim against them. Their legal-calculation is as venal as their moral-rebellion is blatant. ALLEGORICAL-PUNCH: they recognize Jesus as the messianic-heir and plot his death for precisely that reason — the parable indicts their knowing-rejection, not mere-failure-to-recognize."
     }
@@ -266,10 +458,18 @@
     "translation": {
       "thai": "พวกเขาจึงขับเขาออกไปนอกสวนองุ่นและฆ่าเขาเสีย เจ้าของสวนองุ่นจะทำอย่างไรกับคนเหล่านั้น?",
       "thai_literal": null,
-      "thai_summary": "รายละเอียด «นอกสวนองุ่น» สะท้อนล่วงหน้าถึงการสิ้นพระชนม์ของพระเยซู — ผู้เขียนฮีบรู 13:12 กล่าวว่าพระเยซู «ทนทุกข์นอกประตูเมือง» และการตรึงกางเขนเกิดขึ้นที่โกลโกธาซึ่งอยู่นอกกำแพงเยรูซาเล็ม คำอุปมานี้จึงเป็นคำพยากรณ์ที่ละเอียดอย่างน่าอัศจรรย์",
+      "thai_summary": "รายละเอียด “นอกสวนองุ่น” สะท้อนล่วงหน้าถึงการสิ้นพระชนม์ของพระเยซู — ผู้เขียนฮีบรู 13:12 กล่าวว่าพระเยซู “ทนทุกข์นอกประตูเมือง” และการตรึงกางเขนเกิดขึ้นที่โกลโกธาซึ่งอยู่นอกกำแพงเยรูซาเล็ม คำอุปมานี้จึงเป็นคำพยากรณ์ที่ละเอียดอย่างน่าอัศจรรย์",
       "key_decisions": [
-        {"greek": "ἐκβαλόντες αὐτὸν ἔξω τοῦ ἀμπελῶνος ἀπέκτειναν", "thai": "ขับเขาออกไปนอกสวนองุ่นและฆ่าเขาเสีย", "rationale": "Per uW grammar-connect-logic-result + figs-metaphor: καί here = 'so'; ἐκβάλλω again is forced-out not literal-throwing. Luke's sequence ἐκβαλόντες...ἀπέκτειναν (expelled-first, killed-next) is reverse of Mark's ἀπέκτειναν καὶ ἐξέβαλον (12:8) — Luke's order matches the historical-Crucifixion-outside-the-city (Heb 13:12-13)."},
-        {"greek": "τί οὖν ποιήσει αὐτοῖς ὁ κύριος τοῦ ἀμπελῶνος", "thai": "เจ้าของสวนองุ่นจะทำอย่างไรกับคนเหล่านั้น", "rationale": "Per uW figs-rquestion: rhetorical 'listen-to-what-I'll-tell-you.' But we preserve question-form as uW recommends here for Jesus' parabolic-pedagogy. Matches MRK 12:9 synoptic-parallel rendering."}
+        {
+          "greek": "ἐκβαλόντες αὐτὸν ἔξω τοῦ ἀμπελῶνος ἀπέκτειναν",
+          "thai": "ขับเขาออกไปนอกสวนองุ่นและฆ่าเขาเสีย",
+          "rationale": "Per uW grammar-connect-logic-result + figs-metaphor: καί here = 'so'; ἐκβάλλω again is forced-out not literal-throwing. Luke's sequence ἐκβαλόντες...ἀπέκτειναν (expelled-first, killed-next) is reverse of Mark's ἀπέκτειναν καὶ ἐξέβαλον (12:8) — Luke's order matches the historical-Crucifixion-outside-the-city (Heb 13:12-13)."
+        },
+        {
+          "greek": "τί οὖν ποιήσει αὐτοῖς ὁ κύριος τοῦ ἀμπελῶνος",
+          "thai": "เจ้าของสวนองุ่นจะทำอย่างไรกับคนเหล่านั้น",
+          "rationale": "Per uW figs-rquestion: rhetorical 'listen-to-what-I'll-tell-you.' But we preserve question-form as uW recommends here for Jesus' parabolic-pedagogy. Matches MRK 12:9 synoptic-parallel rendering."
+        }
       ],
       "notes": "CRUCIFIXION-PROLEPSIS: Luke's distinctive ordering ἐκβαλόντες-then-ἀπέκτειναν (vs. Mark's ἀπέκτειναν-then-ἐκβάλλω) mirrors the historical Crucifixion outside Jerusalem's walls (cf. Heb 13:11-13 citing Lev 16:27 sin-offering-burned-outside). Luke's sequence also fits Jericho-area precedent where rejected-heirs were killed outside property to avoid property-contamination. The parable-vineyard-framework (Isaianic-origin) is cited at v.9's database entry rather than per-verse across the pericope."
     }
@@ -281,13 +481,25 @@
     "greek": "ἐλεύσεται καὶ ἀπολέσει τοὺς γεωργοὺς τούτους,καὶ δώσει τὸν ἀμπελῶνα ἄλλοις.ἀκούσαντες δὲ εἶπαν·Μὴ γένοιτο.",
     "bsb_english": "He will come and kill those tenants and give the vineyard to others.\" And when the people heard this, they said, \"May such a thing never happen!\"",
     "translation": {
-      "thai": "เขาจะมาและทำลายคนทำสวนเหล่านั้น แล้วจะยกสวนองุ่นให้แก่คนอื่น» เมื่อได้ยินอย่างนี้ พวกเขาพูดว่า «ขออย่าให้เป็นเช่นนั้นเลย»",
+      "thai": "เขาจะมาและทำลายคนทำสวนเหล่านั้น แล้วจะยกสวนองุ่นให้แก่คนอื่น” เมื่อได้ยินอย่างนี้ พวกเขาพูดว่า “ขออย่าให้เป็นเช่นนั้นเลย”",
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        {"greek": "ἐλεύσεται καὶ ἀπολέσει", "thai": "จะมาและทำลาย", "rationale": "Jesus himself answers his rhetorical-question. Fut ἐλεύσεται + ἀπολέσει. ἀπόλλυμι → ทำลาย (glossary-established; strong-destruction not mere-kill). Matches MRK 12:9 rendering verbatim."},
-        {"greek": "δώσει τὸν ἀμπελῶνα ἄλλοις", "thai": "จะยกสวนองุ่นให้แก่คนอื่น", "rationale": "Per uW translate-unknown: same share-cropping-rental implied. Thai ยก...ให้ (transfer-of-stewardship). Matches MRK 12:9 rendering verbatim. Allegorical-upshot: transfer-of-vineyard-management = transfer of kingdom-stewardship (cf. MAT 21:43 βασιλεία-transfer-explicit; Luke's restraint leaves the allegory to emerge from Ps 118:22)."},
-        {"greek": "Μὴ γένοιτο", "thai": "ขออย่าให้เป็นเช่นนั้นเลย", "rationale": "Per uW figs-exclamations: aor-mid-opt 'may-it-not-happen.' Rare-NT-construction (Paul uses 14× in Romans; only here in Gospels). Thai ขออย่าให้เป็นเช่นนั้นเลย preserves the strong-negative-wish. NEW key-term: μὴ γένοιτο → ขออย่าให้เป็นเช่นนั้นเลย. The crowd's reaction reveals they HAVE understood the allegory — they protest because Jesus' implied judgment on their leaders horrifies them."}
+        {
+          "greek": "ἐλεύσεται καὶ ἀπολέσει",
+          "thai": "จะมาและทำลาย",
+          "rationale": "Jesus himself answers his rhetorical-question. Fut ἐλεύσεται + ἀπολέσει. ἀπόλλυμι → ทำลาย (glossary-established; strong-destruction not mere-kill). Matches MRK 12:9 rendering verbatim."
+        },
+        {
+          "greek": "δώσει τὸν ἀμπελῶνα ἄλλοις",
+          "thai": "จะยกสวนองุ่นให้แก่คนอื่น",
+          "rationale": "Per uW translate-unknown: same share-cropping-rental implied. Thai ยก...ให้ (transfer-of-stewardship). Matches MRK 12:9 rendering verbatim. Allegorical-upshot: transfer-of-vineyard-management = transfer of kingdom-stewardship (cf. MAT 21:43 βασιλεία-transfer-explicit; Luke's restraint leaves the allegory to emerge from Ps 118:22)."
+        },
+        {
+          "greek": "Μὴ γένοιτο",
+          "thai": "ขออย่าให้เป็นเช่นนั้นเลย",
+          "rationale": "Per uW figs-exclamations: aor-mid-opt 'may-it-not-happen.' Rare-NT-construction (Paul uses 14× in Romans; only here in Gospels). Thai ขออย่าให้เป็นเช่นนั้นเลย preserves the strong-negative-wish. NEW key-term: μὴ γένοιτο → ขออย่าให้เป็นเช่นนั้นเลย. The crowd's reaction reveals they HAVE understood the allegory — they protest because Jesus' implied judgment on their leaders horrifies them."
+        }
       ],
       "notes": "CROWD-REACTION: Μὴ γένοιτο shows they understood. They may be shocked-at-the-severity or protesting-the-allegory's-implication, but either way they reject the outcome. Their horror sets up v.17's sharper application via Ps 118:22. Luke-distinctive: the crowd's protest is absent from Mark/Matthew parallels (their audiences-reactions come later). Luke foregrounds audience-moral-engagement throughout (cf. LUK 13:17, 18:43, 19:48)."
     }
@@ -299,13 +511,25 @@
     "greek": "ὁ δὲ ἐμβλέψας αὐτοῖς εἶπεν·Τί οὖν ἐστιν τὸ γεγραμμένον τοῦτο·Λίθον ὃν ἀπεδοκίμασαν οἱ οἰκοδομοῦντες,οὗτος ἐγενήθη εἰς κεφαλὴν γωνίας;",
     "bsb_english": "But Jesus looked directly at them and said, \"Then what is the meaning of that which is written: 'The stone the builders rejected has become the cornerstone'?",
     "translation": {
-      "thai": "แต่พระเยซูทรงทอดพระเนตรพวกเขาและตรัสว่า «ถ้าอย่างนั้น ข้อพระคัมภีร์นี้หมายความว่าอย่างไร ‹ศิลาซึ่งช่างก่อสร้างทั้งหลายทิ้งเสียแล้วนั้น กลับกลายเป็นศิลามุมเอก›?",
+      "thai": "แต่พระเยซูทรงทอดพระเนตรพวกเขาและตรัสว่า “ถ้าอย่างนั้น ข้อพระคัมภีร์นี้หมายความว่าอย่างไร ‘ศิลาซึ่งช่างก่อสร้างทั้งหลายทิ้งเสียแล้วนั้น กลับกลายเป็นศิลามุมเอก’?",
       "thai_literal": null,
-      "thai_summary": "ข้อความนี้ยกมาจากสดุดี 118:22 ซึ่งเป็นสดุดีที่ชาวยิวร้องในเทศกาลปัสกาและเทศกาลอยู่เพิงเก็บเกี่ยว ผู้ฟังจึงรู้จักเพลงนี้อย่างดี «ศิลามุมเอก» คือหินก้อนใหญ่ที่ช่างก่อสร้างวางก่อนเพื่อกำหนดทิศทางและระดับของกำแพงทั้งหลัง ในยุคของพระเยซู การตีความยิวดั้งเดิม (เช่น ทาร์กัม ชาลมุด) ได้เชื่อมโยงข้อนี้กับพระเมสสิยาห์แล้ว",
+      "thai_summary": "ข้อความนี้ยกมาจากสดุดี 118:22 ซึ่งเป็นสดุดีที่ชาวยิวร้องในเทศกาลปัสกาและเทศกาลอยู่เพิงเก็บเกี่ยว ผู้ฟังจึงรู้จักเพลงนี้อย่างดี “ศิลามุมเอก” คือหินก้อนใหญ่ที่ช่างก่อสร้างวางก่อนเพื่อกำหนดทิศทางและระดับของกำแพงทั้งหลัง ในยุคของพระเยซู การตีความยิวดั้งเดิม (เช่น ทาร์กัม ชาลมุด) ได้เชื่อมโยงข้อนี้กับพระเมสสิยาห์แล้ว",
       "key_decisions": [
-        {"greek": "ἐμβλέψας αὐτοῖς", "thai": "ทรงทอดพระเนตรพวกเขา", "rationale": "Per uW translate-symaction: ἐμβλέπω 'look-intently-at' = holding-accountable gaze. Thai ทรงทอดพระเนตร (royal register per RULES.md §3) preserves divine-subject + intense-gaze (cf. LUK 22:61 ἐμβλέψας-to-Peter after denial — same intense-gaze-word)."},
-        {"greek": "Τί οὖν ἐστιν τὸ γεγραμμένον τοῦτο", "thai": "ถ้าอย่างนั้น ข้อพระคัมภีร์นี้หมายความว่าอย่างไร", "rationale": "Per uW figs-rquestion + figs-activepassive: rhet-qn 'what-then-is-this-written.' Thai ข้อพระคัมภีร์ (Thai Christian term for Scripture-passage) + หมายความว่าอย่างไร preserves interpretive-question form. Jesus forces them from 'μὴ γένοιτο / may it not be' back to the written text that says it IS happening."},
-        {"greek": "Λίθον ὃν ἀπεδοκίμασαν οἱ οἰκοδομοῦντες,οὗτος ἐγενήθη εἰς κεφαλὴν γωνίας", "thai": "‹ศิลาซึ่งช่างก่อสร้างทั้งหลายทิ้งเสียแล้วนั้น กลับกลายเป็นศิลามุมเอก›", "rationale": "Direct LXX-citation of Ps 118:22 (LXX: λίθον ὃν ἀπεδοκίμασαν οἱ οἰκοδομοῦντες οὗτος ἐγενήθη εἰς κεφαλὴν γωνίας — verbatim match except accusative-to-nominative shift from Hebrew-syntax). Matches MRK 12:10 synoptic-parallel rendering exactly. κεφαλὴ γωνίας → ศิลามุมเอก per uW figs-idiom: 'head of the corner' = large-foundation-stone placed first to orient all wall-alignment."}
+        {
+          "greek": "ἐμβλέψας αὐτοῖς",
+          "thai": "ทรงทอดพระเนตรพวกเขา",
+          "rationale": "Per uW translate-symaction: ἐμβλέπω 'look-intently-at' = holding-accountable gaze. Thai ทรงทอดพระเนตร (royal register per RULES.md §3) preserves divine-subject + intense-gaze (cf. LUK 22:61 ἐμβλέψας-to-Peter after denial — same intense-gaze-word)."
+        },
+        {
+          "greek": "Τί οὖν ἐστιν τὸ γεγραμμένον τοῦτο",
+          "thai": "ถ้าอย่างนั้น ข้อพระคัมภีร์นี้หมายความว่าอย่างไร",
+          "rationale": "Per uW figs-rquestion + figs-activepassive: rhet-qn 'what-then-is-this-written.' Thai ข้อพระคัมภีร์ (Thai Christian term for Scripture-passage) + หมายความว่าอย่างไร preserves interpretive-question form. Jesus forces them from 'μὴ γένοιτο / may it not be' back to the written text that says it IS happening."
+        },
+        {
+          "greek": "Λίθον ὃν ἀπεδοκίμασαν οἱ οἰκοδομοῦντες,οὗτος ἐγενήθη εἰς κεφαλὴν γωνίας",
+          "thai": "‘ศิลาซึ่งช่างก่อสร้างทั้งหลายทิ้งเสียแล้วนั้น กลับกลายเป็นศิลามุมเอก’",
+          "rationale": "Direct LXX-citation of Ps 118:22 (LXX: λίθον ὃν ἀπεδοκίμασαν οἱ οἰκοδομοῦντες οὗτος ἐγενήθη εἰς κεφαλὴν γωνίας — verbatim match except accusative-to-nominative shift from Hebrew-syntax). Matches MRK 12:10 synoptic-parallel rendering exactly. κεφαλὴ γωνίας → ศิลามุมเอก per uW figs-idiom: 'head of the corner' = large-foundation-stone placed first to orient all wall-alignment."
+        }
       ],
       "notes": "OT CITATION: Psalm 118:22 (direct-quotation from LXX). Psalm 118 is the final Hallel-psalm sung at Passover + Tabernacles; Jesus cites the one line all his hearers knew. Messianic-interpretation of Ps 118:22 predates Jesus (cf. Targum Ps 118:22 identifying the stone with David/Messiah; Acts 4:11, 1 Pet 2:7 apply it to Jesus; Rom 9:33 + 1 Pet 2:6-8 combine with Isa 28:16 + Isa 8:14 in a stone-testimonia collection). ADDED TO NT_OT_CITATIONS: LUK 20:17 direct_quotation PSA 118:22."
     }
@@ -319,10 +543,18 @@
     "translation": {
       "thai": "ทุกคนที่ล้มทับศิลานั้นจะแตกเป็นชิ้น ๆ แต่ศิลานั้นล้มทับผู้ใด ก็จะบดขยี้ผู้นั้นจนเป็นผุยผง",
       "thai_literal": null,
-      "thai_summary": "ข้อนี้รวมภาพสองภาพจากพันธสัญญาเดิม — อิสยาห์ 8:14-15 ที่พระเจ้าทรงเป็น «ศิลาที่ทำให้สะดุดและหกล้ม» และดาเนียล 2:34-35, 44-45 ที่ศิลาจากภูเขา (อาณาจักรของพระเจ้า) ตกลงมาทับและบดขยี้รูปปั้นของอาณาจักรโลก พระเยซูทรงเปิดเผยว่าพระองค์เองเป็นศิลานั้น — คนที่ต่อต้านจะถูกพิพากษาในรูปแบบใดรูปแบบหนึ่ง ไม่หลุดพ้น",
+      "thai_summary": "ข้อนี้รวมภาพสองภาพจากพันธสัญญาเดิม — อิสยาห์ 8:14-15 ที่พระเจ้าทรงเป็น “ศิลาที่ทำให้สะดุดและหกล้ม” และดาเนียล 2:34-35, 44-45 ที่ศิลาจากภูเขา (อาณาจักรของพระเจ้า) ตกลงมาทับและบดขยี้รูปปั้นของอาณาจักรโลก พระเยซูทรงเปิดเผยว่าพระองค์เองเป็นศิลานั้น — คนที่ต่อต้านจะถูกพิพากษาในรูปแบบใดรูปแบบหนึ่ง ไม่หลุดพ้น",
       "key_decisions": [
-        {"greek": "πᾶς ὁ πεσὼν ἐπ’ἐκεῖνον τὸν λίθον συνθλασθήσεται", "thai": "ทุกคนที่ล้มทับศิลานั้นจะแตกเป็นชิ้น ๆ", "rationale": "Per uW figs-metaphor + figs-activepassive: Jesus extends the Ps-118 stone-image. συνθλάω 'crush/shatter-together' — fut-pass 'will-be-broken.' Thai แตกเป็นชิ้น ๆ (natural 'shattered-into-pieces'). The person-who-stumbles-over-the-stone is broken; Isaianic-echo (Isa 8:14-15)."},
-        {"greek": "ἐφ’ὃν δ’ἂν πέσῃ,λικμήσει αὐτόν", "thai": "ศิลานั้นล้มทับผู้ใด ก็จะบดขยี้ผู้นั้นจนเป็นผุยผง", "rationale": "Per uW figs-metaphor: 'on whomever it falls, it will winnow him.' λικμάω 'winnow, scatter-like-chaff' — Danielic-echo (Dan 2:34-35,44-45 LXX λικμᾶν of kingdom-statue being ground-to-dust-and-scattered). Thai บดขยี้...จนเป็นผุยผง captures both crush-and-scatter force. Ps 118 + Isa 8 + Dan 2 = the stone-testimonia chain."}
+        {
+          "greek": "πᾶς ὁ πεσὼν ἐπ’ἐκεῖνον τὸν λίθον συνθλασθήσεται",
+          "thai": "ทุกคนที่ล้มทับศิลานั้นจะแตกเป็นชิ้น ๆ",
+          "rationale": "Per uW figs-metaphor + figs-activepassive: Jesus extends the Ps-118 stone-image. συνθλάω 'crush/shatter-together' — fut-pass 'will-be-broken.' Thai แตกเป็นชิ้น ๆ (natural 'shattered-into-pieces'). The person-who-stumbles-over-the-stone is broken; Isaianic-echo (Isa 8:14-15)."
+        },
+        {
+          "greek": "ἐφ’ὃν δ’ἂν πέσῃ,λικμήσει αὐτόν",
+          "thai": "ศิลานั้นล้มทับผู้ใด ก็จะบดขยี้ผู้นั้นจนเป็นผุยผง",
+          "rationale": "Per uW figs-metaphor: 'on whomever it falls, it will winnow him.' λικμάω 'winnow, scatter-like-chaff' — Danielic-echo (Dan 2:34-35,44-45 LXX λικμᾶν of kingdom-statue being ground-to-dust-and-scattered). Thai บดขยี้...จนเป็นผุยผง captures both crush-and-scatter force. Ps 118 + Isa 8 + Dan 2 = the stone-testimonia chain."
+        }
       ],
       "notes": "COMPOSITE-OT ALLUSION: (1) Isa 8:14-15 — 'stone of stumbling and rock of offense' that makes many fall; (2) Dan 2:34-35, 44-45 — stone cut without hands that pulverizes earthly-kingdoms (λικμάω in LXX). Jesus combines the two to show dual-effect of rejecting-the-messianic-stone: falling-on-it = shattered (Isaiah); being-fallen-on-by-it = pulverized (Daniel). BOTH outcomes = judgment, differing only in the active/passive orientation of rejection. The leaders stumble over him now; ultimately the stone will fall on unbelieving nations at eschaton. ADDED TO NT_OT_CITATIONS: LUK 20:18 composite_allusion ISA 8:14-15 + DAN 2:34-35,44-45."
     }
@@ -338,10 +570,26 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        {"greek": "ἐπιβαλεῖν ἐπ’αὐτὸν τὰς χεῖρας", "thai": "จะจับกุมพระองค์", "rationale": "Per uW figs-metonymy: 'to lay hands on' = to arrest. Thai จับกุม natural-idiom for arrest. The literal 'lay-hands' is set aside as the metonymy is opaque in Thai; alternate-rendering would be ลงมือจับ — but จับกุม is cleanest."},
-        {"greek": "ἐν αὐτῇ τῇ ὥρᾳ", "thai": "ในเวลานั้นเอง", "rationale": "Per uW figs-idiom: ὥρα here = 'specific-moment/right-now.' Thai ในเวลานั้นเอง preserves the immediacy-emphasis."},
-        {"greek": "ἐφοβήθησαν τὸν λαόν", "thai": "แต่พวกเขากลัวประชาชน", "rationale": "Per uW grammar-connect-logic-contrast: καί here introduces contrast to their desire-to-arrest. Thai แต่ preserves the adversative. Singular-object τὸν λαόν acc = 'feared the people' (Greek accusative-of-fear-object)."},
-        {"greek": "ἔγνωσαν γὰρ ὅτι πρὸς αὐτοὺς εἶπεν", "thai": "เพราะรู้อยู่ว่าพระองค์ตรัสคำอุปมานี้กระทบพวกเขา", "rationale": "πρὸς αὐτοὺς here = 'against-them/directed-at-them' (hostile πρός, not merely dative-of-audience). Thai กระทบพวกเขา captures the allegorical-target-hit (the parable is about them). ἔγνωσαν aor 'they-came-to-realize.'"}
+        {
+          "greek": "ἐπιβαλεῖν ἐπ’αὐτὸν τὰς χεῖρας",
+          "thai": "จะจับกุมพระองค์",
+          "rationale": "Per uW figs-metonymy: 'to lay hands on' = to arrest. Thai จับกุม natural-idiom for arrest. The literal 'lay-hands' is set aside as the metonymy is opaque in Thai; alternate-rendering would be ลงมือจับ — but จับกุม is cleanest."
+        },
+        {
+          "greek": "ἐν αὐτῇ τῇ ὥρᾳ",
+          "thai": "ในเวลานั้นเอง",
+          "rationale": "Per uW figs-idiom: ὥρα here = 'specific-moment/right-now.' Thai ในเวลานั้นเอง preserves the immediacy-emphasis."
+        },
+        {
+          "greek": "ἐφοβήθησαν τὸν λαόν",
+          "thai": "แต่พวกเขากลัวประชาชน",
+          "rationale": "Per uW grammar-connect-logic-contrast: καί here introduces contrast to their desire-to-arrest. Thai แต่ preserves the adversative. Singular-object τὸν λαόν acc = 'feared the people' (Greek accusative-of-fear-object)."
+        },
+        {
+          "greek": "ἔγνωσαν γὰρ ὅτι πρὸς αὐτοὺς εἶπεν",
+          "thai": "เพราะรู้อยู่ว่าพระองค์ตรัสคำอุปมานี้กระทบพวกเขา",
+          "rationale": "πρὸς αὐτοὺς here = 'against-them/directed-at-them' (hostile πρός, not merely dative-of-audience). Thai กระทบพวกเขา captures the allegorical-target-hit (the parable is about them). ἔγνωσαν aor 'they-came-to-realize.'"
+        }
       ],
       "notes": "SANDWICH-STRUCTURE: Luke brackets the parable with identical opposition-groups (vv.1 + 19), showing the Sanhedrin now understands the parable was self-identifying. Fear-of-people (not moral-restraint) is the only thing staying their hand — they will wait for nighttime-opportunity (LUK 22:53 'the power of darkness') rather than crowd-visibility. Luke's γραμματεῖς-first word-order (vs. v.1 ἀρχιερεῖς-first) may reflect scribes-as-interpreters-of-parables taking the lead in recognizing the allegory; or may be mere Lukan-variation."
     }
@@ -355,13 +603,33 @@
     "translation": {
       "thai": "พวกเขาจึงคอยจ้องดูพระองค์และส่งคนสอดแนมที่แกล้งทำเป็นคนชอบธรรม เพื่อจะจับผิดคำพูดของพระองค์ แล้วจะได้มอบพระองค์ไว้ในอำนาจของผู้ว่าราชการ",
       "thai_literal": null,
-      "thai_summary": "ในช่วงเทศกาลปัสกา ผู้ว่าราชการโรมัน (ปอนทิอัส ปีลาตในขณะนั้น) มักเดินทางจากซีซาเรียมายังเยรูซาเล็มเพื่อดูแลฝูงชน พวกสายลับที่ถูกส่งมาจึงมีเป้าหมายเฉพาะ — หาถ้อยคำของพระเยซูที่สามารถฟ้องได้ว่าพระองค์ขัดกฎหมายโรมัน (เช่น การยุยงไม่ให้จ่ายภาษี) เพื่อให้ปีลาตมีเหตุประหารพระองค์ ความจริงเรื่องนี้ไม่ไร้เหตุผล — ในลูกา 23:2 คำกล่าวหาที่นำพระเยซูไปยืนต่อหน้าปีลาตคือ «ยุยงมิให้จ่ายภาษีแด่ซีซาร์»",
+      "thai_summary": "ในช่วงเทศกาลปัสกา ผู้ว่าราชการโรมัน (ปอนทิอัส ปีลาตในขณะนั้น) มักเดินทางจากซีซาเรียมายังเยรูซาเล็มเพื่อดูแลฝูงชน พวกสายลับที่ถูกส่งมาจึงมีเป้าหมายเฉพาะ — หาถ้อยคำของพระเยซูที่สามารถฟ้องได้ว่าพระองค์ขัดกฎหมายโรมัน (เช่น การยุยงไม่ให้จ่ายภาษี) เพื่อให้ปีลาตมีเหตุประหารพระองค์ ความจริงเรื่องนี้ไม่ไร้เหตุผล — ในลูกา 23:2 คำกล่าวหาที่นำพระเยซูไปยืนต่อหน้าปีลาตคือ “ยุยงมิให้จ่ายภาษีแด่ซีซาร์”",
       "key_decisions": [
-        {"greek": "παρατηρήσαντες", "thai": "คอยจ้องดูพระองค์", "rationale": "παρατηρέω 'watch-closely, lie-in-wait' — aor-ptc 'having-spied/watched.' Thai คอยจ้องดู captures the surveillance-intent. Luke-distinctive lexeme (LUK 6:7, 14:1 same surveillance-verb of religious-opponents)."},
-        {"greek": "ἐγκαθέτους", "thai": "คนสอดแนม", "rationale": "HAPAX: ἐγκάθετος (only here in NT) — literally 'one-sent-down-in-secret' (ἐν-καθίημι root); classical Greek = 'planted-agent, spy, infiltrator.' Thai คนสอดแนม (Thai standard for spy/infiltrator). NEW key-term: ἐγκάθετος → คนสอดแนม."},
-        {"greek": "ὑποκρινομένους ἑαυτοὺς δικαίους εἶναι", "thai": "ที่แกล้งทำเป็นคนชอบธรรม", "rationale": "HAPAX: ὑποκρίνομαι 'pretend-to-be, act-the-part' (hapax-verb; but cognate ὑποκριτής 'hypocrite' appears 17× NT). Thai แกล้งทำเป็น captures the dissembling-pretense. δίκαιος → ชอบธรรม (glossary-established). NEW key-term: ὑποκρίνομαι → แกล้งทำเป็น. Distinct from cognate ὑποκριτής → คนหน้าซื่อใจคด (noun-form addressing the person, not the performance)."},
-        {"greek": "ἐπιλάβωνται αὐτοῦ λόγου", "thai": "จะจับผิดคำพูดของพระองค์", "rationale": "Per uW figs-metaphor + figs-metonymy: ἐπιλαμβάνομαι 'take-hold-of' — here 'catch-on-a-slip-of-speech.' λόγος → คำพูด (speech-content). Thai จับผิดคำพูด (natural-Thai-idiom for 'catch-someone-in-their-speech'). MAT 22:15 parallel used similar 'จับผิดคำพูด.'"},
-        {"greek": "παραδοῦναι αὐτὸν τῇ ἀρχῇ καὶ τῇ ἐξουσίᾳ τοῦ ἡγεμόνος", "thai": "มอบพระองค์ไว้ในอำนาจของผู้ว่าราชการ", "rationale": "Per uW figs-doublet: ἀρχή + ἐξουσία near-synonyms — both 'authority/rule.' Thai collapses to single อำนาจ per uW recommendation. ἡγεμών → ผู้ว่าราชการ (standard Thai Christian for Roman-provincial-governor; glossary LUK 3:1, 21:12)."}
+        {
+          "greek": "παρατηρήσαντες",
+          "thai": "คอยจ้องดูพระองค์",
+          "rationale": "παρατηρέω 'watch-closely, lie-in-wait' — aor-ptc 'having-spied/watched.' Thai คอยจ้องดู captures the surveillance-intent. Luke-distinctive lexeme (LUK 6:7, 14:1 same surveillance-verb of religious-opponents)."
+        },
+        {
+          "greek": "ἐγκαθέτους",
+          "thai": "คนสอดแนม",
+          "rationale": "HAPAX: ἐγκάθετος (only here in NT) — literally 'one-sent-down-in-secret' (ἐν-καθίημι root); classical Greek = 'planted-agent, spy, infiltrator.' Thai คนสอดแนม (Thai standard for spy/infiltrator). NEW key-term: ἐγκάθετος → คนสอดแนม."
+        },
+        {
+          "greek": "ὑποκρινομένους ἑαυτοὺς δικαίους εἶναι",
+          "thai": "ที่แกล้งทำเป็นคนชอบธรรม",
+          "rationale": "HAPAX: ὑποκρίνομαι 'pretend-to-be, act-the-part' (hapax-verb; but cognate ὑποκριτής 'hypocrite' appears 17× NT). Thai แกล้งทำเป็น captures the dissembling-pretense. δίκαιος → ชอบธรรม (glossary-established). NEW key-term: ὑποκρίνομαι → แกล้งทำเป็น. Distinct from cognate ὑποκριτής → คนหน้าซื่อใจคด (noun-form addressing the person, not the performance)."
+        },
+        {
+          "greek": "ἐπιλάβωνται αὐτοῦ λόγου",
+          "thai": "จะจับผิดคำพูดของพระองค์",
+          "rationale": "Per uW figs-metaphor + figs-metonymy: ἐπιλαμβάνομαι 'take-hold-of' — here 'catch-on-a-slip-of-speech.' λόγος → คำพูด (speech-content). Thai จับผิดคำพูด (natural-Thai-idiom for 'catch-someone-in-their-speech'). MAT 22:15 parallel used similar 'จับผิดคำพูด.'"
+        },
+        {
+          "greek": "παραδοῦναι αὐτὸν τῇ ἀρχῇ καὶ τῇ ἐξουσίᾳ τοῦ ἡγεμόνος",
+          "thai": "มอบพระองค์ไว้ในอำนาจของผู้ว่าราชการ",
+          "rationale": "Per uW figs-doublet: ἀρχή + ἐξουσία near-synonyms — both 'authority/rule.' Thai collapses to single อำนาจ per uW recommendation. ἡγεμών → ผู้ว่าราชการ (standard Thai Christian for Roman-provincial-governor; glossary LUK 3:1, 21:12)."
+        }
       ],
       "notes": "TWO HAPAX: ἐγκάθετος + ὑποκρίνομαι. Luke's vocabulary-richness in this verse signals the narrative-gravity — this is the beginning of the entrapment-proper that will culminate in crucifixion. PASSOVER-CONTEXT: the ἡγεμών is Pontius Pilate who came up from Caesarea for the festival; the trap-question about taxes (v.22) is calibrated precisely for Pilate's jurisdiction (tax-sedition = Roman-offense) since the Sanhedrin cannot legally execute without Roman-concurrence (JHN 18:31)."
     }
@@ -373,15 +641,35 @@
     "greek": "καὶ ἐπηρώτησαν αὐτὸν λέγοντες·Διδάσκαλε,οἴδαμεν ὅτι ὀρθῶς λέγεις καὶ διδάσκεις καὶ οὐ λαμβάνεις πρόσωπον,ἀλλ’ἐπ’ἀληθείας τὴν ὁδὸν τοῦ θεοῦ διδάσκεις·",
     "bsb_english": "\"Teacher,\" they inquired, \"we know that You speak and teach correctly. You show no partiality but teach the way of God in accordance with the truth.",
     "translation": {
-      "thai": "พวกสายลับจึงทูลถามพระองค์ว่า «อาจารย์เจ้าข้า พวกเราทราบว่าท่านกล่าวและสั่งสอนอย่างถูกต้อง ไม่เห็นแก่หน้าผู้ใด แต่สั่งสอนทางของพระเจ้าตามความจริง",
+      "thai": "พวกสายลับจึงทูลถามพระองค์ว่า “อาจารย์เจ้าข้า พวกเราทราบว่าท่านกล่าวและสั่งสอนอย่างถูกต้อง ไม่เห็นแก่หน้าผู้ใด แต่สั่งสอนทางของพระเจ้าตามความจริง",
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        {"greek": "ἐπηρώτησαν αὐτὸν λέγοντες", "thai": "ทูลถามพระองค์ว่า", "rationale": "Per uW figs-explicit + figs-synecdoche: the spies (v.20) come to Jesus; uW notes this may mean one spoke for the group. We preserve plural per Greek; 'พวกสายลับ' supplied for clarity since paragraph-break from v.20. ทูลถาม uses polite-to-addressee speech (they're feigning respect)."},
-        {"greek": "Διδάσκαλε", "thai": "อาจารย์เจ้าข้า", "rationale": "Per uW: Διδάσκαλε is respectful-vocative. Thai อาจารย์เจ้าข้า (glossary-established across Luke, e.g., LUK 7:40, 10:25, 19:39 — aorist-vocative-respectful form for addressing Jesus-as-teacher). เจ้าข้า adds the feigned-deference appropriate to their disguise."},
-        {"greek": "οἴδαμεν ὅτι", "thai": "พวกเราทราบว่า", "rationale": "Per uW figs-exclusive: 'we' = exclusive (them speaking about themselves, not including Jesus). Thai พวกเรา (ambiguous in Thai for incl/excl). ทราบ captures polite-confident-claim-to-know."},
-        {"greek": "οὐ λαμβάνεις πρόσωπον", "thai": "ไม่เห็นแก่หน้าผู้ใด", "rationale": "Per uW figs-metonymy: Semitic-idiom πρόσωπον λαμβάνω 'lift-the-face' = show-partiality (LXX Lev 19:15, 2 Sam 14:14; cognate with Heb nāśāʾ pānîm). Thai ไม่เห็นแก่หน้า (natural Thai-idiom for 'impartial'). Classical flattery-phrasing."},
-        {"greek": "ἐπ’ἀληθείας τὴν ὁδὸν τοῦ θεοῦ διδάσκεις", "thai": "แต่สั่งสอนทางของพระเจ้าตามความจริง", "rationale": "Per uW figs-metaphor: 'the-way-of-God' = the-God-ordained-path-of-life (Hebraic derek-YHWH). Thai ทางของพระเจ้า (glossary-established LUK 1:79, 3:4, 13:24 Luke-path-metaphor usage). ἐπ’ἀληθείας 'upon-truth' = 'according-to-truth' → ตามความจริง."}
+        {
+          "greek": "ἐπηρώτησαν αὐτὸν λέγοντες",
+          "thai": "ทูลถามพระองค์ว่า",
+          "rationale": "Per uW figs-explicit + figs-synecdoche: the spies (v.20) come to Jesus; uW notes this may mean one spoke for the group. We preserve plural per Greek; 'พวกสายลับ' supplied for clarity since paragraph-break from v.20. ทูลถาม uses polite-to-addressee speech (they're feigning respect)."
+        },
+        {
+          "greek": "Διδάσκαλε",
+          "thai": "อาจารย์เจ้าข้า",
+          "rationale": "Per uW: Διδάσκαλε is respectful-vocative. Thai อาจารย์เจ้าข้า (glossary-established across Luke, e.g., LUK 7:40, 10:25, 19:39 — aorist-vocative-respectful form for addressing Jesus-as-teacher). เจ้าข้า adds the feigned-deference appropriate to their disguise."
+        },
+        {
+          "greek": "οἴδαμεν ὅτι",
+          "thai": "พวกเราทราบว่า",
+          "rationale": "Per uW figs-exclusive: 'we' = exclusive (them speaking about themselves, not including Jesus). Thai พวกเรา (ambiguous in Thai for incl/excl). ทราบ captures polite-confident-claim-to-know."
+        },
+        {
+          "greek": "οὐ λαμβάνεις πρόσωπον",
+          "thai": "ไม่เห็นแก่หน้าผู้ใด",
+          "rationale": "Per uW figs-metonymy: Semitic-idiom πρόσωπον λαμβάνω 'lift-the-face' = show-partiality (LXX Lev 19:15, 2 Sam 14:14; cognate with Heb nāśāʾ pānîm). Thai ไม่เห็นแก่หน้า (natural Thai-idiom for 'impartial'). Classical flattery-phrasing."
+        },
+        {
+          "greek": "ἐπ’ἀληθείας τὴν ὁδὸν τοῦ θεοῦ διδάσκεις",
+          "thai": "แต่สั่งสอนทางของพระเจ้าตามความจริง",
+          "rationale": "Per uW figs-metaphor: 'the-way-of-God' = the-God-ordained-path-of-life (Hebraic derek-YHWH). Thai ทางของพระเจ้า (glossary-established LUK 1:79, 3:4, 13:24 Luke-path-metaphor usage). ἐπ’ἀληθείας 'upon-truth' = 'according-to-truth' → ตามความจริง."
+        }
       ],
       "notes": "FLATTERY-PRELUDE: the spies' five-fold-praise (orthos, ou lambaneis prosopon, ep' aletheias, ten hodon tou Theou, didaskeis) is calibrated to box Jesus in. If he is impartial and speaks truth, he must answer their coming tax-question truthfully regardless of consequences. But every sentence they say is true (!) — Jesus IS impartial and truth-speaking; their flattery is weaponized-truth deployed as trap. Luke's lexical precision: ὀρθῶς + ἀληθεία double-axis-of-correctness parallels their intent to find ANY divergence for prosecution."
     }
@@ -393,12 +681,20 @@
     "greek": "ἔξεστιν ἡμᾶς Καίσαρι φόρον δοῦναι ἢ οὔ;",
     "bsb_english": "Is it lawful for us to pay taxes to Caesar or not?\"",
     "translation": {
-      "thai": "ถูกต้องตามบัญญัติของพระเจ้าหรือไม่ที่พวกเราจะเสียภาษีแก่ซีซาร์?»",
+      "thai": "ถูกต้องตามบัญญัติของพระเจ้าหรือไม่ที่พวกเราจะเสียภาษีแก่ซีซาร์?”",
       "thai_literal": null,
-      "thai_summary": "ภาษีที่กล่าวถึง (φόρος) คือภาษีประจำปีที่โรมันเก็บจากพลเมืองในอาณานิคม โดยต้องจ่ายเป็นเหรียญเงินเดนาริอุสที่มีรูปจักรพรรดิซีซาร์พร้อมคำจารึกอ้างว่าเป็นเทพ ซึ่งในสายตาของยิวที่เคร่งศาสนาเป็นการละเมิดพระบัญญัติข้อที่ 1-2 อย่างร้ายแรง คำถามนี้จึงเป็นกับดักสองทาง: ถ้าพระเยซูตอบ «ต้องจ่าย» จะสูญเสียความเชื่อถือจากประชาชนยิวที่เกลียดภาษีโรมัน ถ้าตอบ «ไม่ต้องจ่าย» จะถูกกล่าวหาว่าเป็นผู้ก่อการกบฏต่อโรม",
+      "thai_summary": "ภาษีที่กล่าวถึง (φόρος) คือภาษีประจำปีที่โรมันเก็บจากพลเมืองในอาณานิคม โดยต้องจ่ายเป็นเหรียญเงินเดนาริอุสที่มีรูปจักรพรรดิซีซาร์พร้อมคำจารึกอ้างว่าเป็นเทพ ซึ่งในสายตาของยิวที่เคร่งศาสนาเป็นการละเมิดพระบัญญัติข้อที่ 1-2 อย่างร้ายแรง คำถามนี้จึงเป็นกับดักสองทาง: ถ้าพระเยซูตอบ “ต้องจ่าย” จะสูญเสียความเชื่อถือจากประชาชนยิวที่เกลียดภาษีโรมัน ถ้าตอบ “ไม่ต้องจ่าย” จะถูกกล่าวหาว่าเป็นผู้ก่อการกบฏต่อโรม",
       "key_decisions": [
-        {"greek": "ἔξεστιν", "thai": "ถูกต้องตามบัญญัติของพระเจ้าหรือไม่", "rationale": "Per uW figs-explicit: ἔξεστιν here = 'is-it-lawful-under-Mosaic-law' (not Roman-law). uW-alt: 'Does God's law permit.' Thai ถูกต้องตามบัญญัติ captures the legal-religious force; ของพระเจ้า supplied per uW-explicit to prevent 'lawful under Roman law' misreading."},
-        {"greek": "Καίσαρι φόρον δοῦναι", "thai": "เสียภาษีแก่ซีซาร์", "rationale": "φόρος → ภาษี (standard Thai Christian). NEW key-term (vs. MAT 22:17 which used 'ภาษีส่วย' κῆνσος). Luke's Greek uses φόρος (broader 'tribute-to-sovereign') while Mat uses κῆνσος (specific 'poll-tax'). Both refer to same-Roman-imperial-tax but Luke's lexical-choice is generic 'tribute.' Καίσαρ → ซีซาρ (glossary-established). Per uW figs-metonymy: 'Caesar' = the Roman government/state by the-ruler's-name."}
+        {
+          "greek": "ἔξεστιν",
+          "thai": "ถูกต้องตามบัญญัติของพระเจ้าหรือไม่",
+          "rationale": "Per uW figs-explicit: ἔξεστιν here = 'is-it-lawful-under-Mosaic-law' (not Roman-law). uW-alt: 'Does God's law permit.' Thai ถูกต้องตามบัญญัติ captures the legal-religious force; ของพระเจ้า supplied per uW-explicit to prevent 'lawful under Roman law' misreading."
+        },
+        {
+          "greek": "Καίσαρι φόρον δοῦναι",
+          "thai": "เสียภาษีแก่ซีซาร์",
+          "rationale": "φόρος → ภาษี (standard Thai Christian). NEW key-term (vs. MAT 22:17 which used 'ภาษีส่วย' κῆνσος). Luke's Greek uses φόρος (broader 'tribute-to-sovereign') while Mat uses κῆνσος (specific 'poll-tax'). Both refer to same-Roman-imperial-tax but Luke's lexical-choice is generic 'tribute.' Καίσαρ → ซีซาρ (glossary-established). Per uW figs-metonymy: 'Caesar' = the Roman government/state by the-ruler's-name."
+        }
       ],
       "notes": "TAX-CONTEXT: the annual-tribute to Rome (tributum capitis + tributum soli), hated by Jewish-zealots who saw it as idolatrous-submission to pagan-overlord. Paid in denarii bearing emperor's image + divine-titles (Tiberius-denarius: TI CAESAR DIVI AVG F AVGVSTVS / 'Tiberius Caesar Augustus, son of the divine Augustus' — precisely the iconography Jesus exploits in v.24-25). Tax-sedition was the specific charge brought at LUK 23:2 — the spies wanted to establish the precedent-statement."
     }
@@ -414,8 +710,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        {"greek": "κατανοήσας...τὴν πανουργίαν", "thai": "ทรงรู้เท่าทันอุบาย", "rationale": "κατανοέω 'perceive-fully/understand-through' — aor-ptc divine-perception. πανουργία 'cunning-trickery, craftiness' (classically = negative-wisdom). Thai รู้เท่าทันอุบาย (Thai-natural-idiom 'sees-through-a-scheme'). ทรง preserves divine-royal register. NEW key-term: πανουργία → อุบาย."},
-        {"greek": "εἶπεν πρὸς αὐτούς", "thai": "จึงตรัสกับพวกเขาว่า", "rationale": "Standard narration. ตรัส royal register."}
+        {
+          "greek": "κατανοήσας...τὴν πανουργίαν",
+          "thai": "ทรงรู้เท่าทันอุบาย",
+          "rationale": "κατανοέω 'perceive-fully/understand-through' — aor-ptc divine-perception. πανουργία 'cunning-trickery, craftiness' (classically = negative-wisdom). Thai รู้เท่าทันอุบาย (Thai-natural-idiom 'sees-through-a-scheme'). ทรง preserves divine-royal register. NEW key-term: πανουργία → อุบาย."
+        },
+        {
+          "greek": "εἶπεν πρὸς αὐτούς",
+          "thai": "จึงตรัสกับพวกเขาว่า",
+          "rationale": "Standard narration. ตรัส royal register."
+        }
       ],
       "notes": "DIVINE-OMNISCIENCE-MARKER: κατανοήσας...πανουργίαν is one of Luke's many indicators that Jesus perceives thought/intent beyond surface-speech (cf. LUK 5:22, 6:8, 9:47, 11:17 — Luke's 'knowing-their-thoughts' motif). The reader is shown that the entrapment never had a chance: Jesus already sees the trap before it closes."
     }
@@ -427,13 +731,25 @@
     "greek": "Δείξατέ μοι δηνάριον·τίνος ἔχει εἰκόνα καὶ ἐπιγραφήν;ἀποκριθέντες δὲ εἶπαν·Καίσαρος.",
     "bsb_english": "\"Show Me a denarius. Whose image and inscription are on it?\" \"Caesar's,\" they answered.",
     "translation": {
-      "thai": "«จงเอาเหรียญเดนาริอุสให้เราดู เหรียญนี้มีรูปและคำจารึกของผู้ใด?» พวกเขาทูลตอบว่า «ของซีซาร์»",
+      "thai": "“จงเอาเหรียญเดนาริอุสให้เราดู เหรียญนี้มีรูปและคำจารึกของผู้ใด?” พวกเขาทูลตอบว่า “ของซีซาร์”",
       "thai_literal": null,
-      "thai_summary": "เหรียญเดนาริอุสเงินที่ใช้ในยุคนั้นมีรูปจักรพรรดิไทบีเรียส (ค.ศ. 14-37) พร้อมคำจารึกอ้างว่าเป็น «บุตรของเทพออกัสตัส» ซึ่งแต่ละเหรียญจึงเป็นการละเมิดพระบัญญัติข้อที่หนึ่ง (ห้ามมีพระอื่น) และข้อที่สอง (ห้ามทำรูปเคารพ) ในสายตาของยิว การที่พวกเขาสามารถหยิบเหรียญมาให้พระเยซูได้แสดงว่าพวกเขาเองก็ใช้เหรียญนี้แล้ว จึงได้ยอมรับระบบของโรมันอยู่โดยปริยาย",
+      "thai_summary": "เหรียญเดนาริอุสเงินที่ใช้ในยุคนั้นมีรูปจักรพรรดิไทบีเรียส (ค.ศ. 14-37) พร้อมคำจารึกอ้างว่าเป็น “บุตรของเทพออกัสตัส” ซึ่งแต่ละเหรียญจึงเป็นการละเมิดพระบัญญัติข้อที่หนึ่ง (ห้ามมีพระอื่น) และข้อที่สอง (ห้ามทำรูปเคารพ) ในสายตาของยิว การที่พวกเขาสามารถหยิบเหรียญมาให้พระเยซูได้แสดงว่าพวกเขาเองก็ใช้เหรียญนี้แล้ว จึงได้ยอมรับระบบของโรมันอยู่โดยปริยาย",
       "key_decisions": [
-        {"greek": "Δείξατέ μοι δηνάριον", "thai": "จงเอาเหรียญเดนาริอุสให้เราดู", "rationale": "δηνάριον → เหรียญเดนาริอุส (glossary-established LUK 7:41, 10:35, MRK 6:37 — transliteration-plus-เหรียญ-classifier). Per uW translate-bmoney: keeping the Roman-coin-name preserves historical-specificity. Aor-imp 2pl."},
-        {"greek": "τίνος ἔχει εἰκόνα καὶ ἐπιγραφήν", "thai": "เหรียญนี้มีรูปและคำจารึกของผู้ใด", "rationale": "Per uW figs-metonymy: ἐπιγραφή 'inscription' = the legend-including-name engraved on the coin. Thai คำจารึก captures engraved-inscription. εἰκών → รูป (natural Thai). The gen τίνος governs both nouns — 'whose image and inscription.'"},
-        {"greek": "Καίσαρος", "thai": "ของซีซาร์", "rationale": "Gen-of-possession 'Caesar's.' Thai ของซีซาร์ (matches MRK 12:16 synoptic-parallel rendering)."}
+        {
+          "greek": "Δείξατέ μοι δηνάριον",
+          "thai": "จงเอาเหรียญเดนาริอุสให้เราดู",
+          "rationale": "δηνάριον → เหรียญเดนาริอุส (glossary-established LUK 7:41, 10:35, MRK 6:37 — transliteration-plus-เหรียญ-classifier). Per uW translate-bmoney: keeping the Roman-coin-name preserves historical-specificity. Aor-imp 2pl."
+        },
+        {
+          "greek": "τίνος ἔχει εἰκόνα καὶ ἐπιγραφήν",
+          "thai": "เหรียญนี้มีรูปและคำจารึกของผู้ใด",
+          "rationale": "Per uW figs-metonymy: ἐπιγραφή 'inscription' = the legend-including-name engraved on the coin. Thai คำจารึก captures engraved-inscription. εἰκών → รูป (natural Thai). The gen τίνος governs both nouns — 'whose image and inscription.'"
+        },
+        {
+          "greek": "Καίσαρος",
+          "thai": "ของซีซาร์",
+          "rationale": "Gen-of-possession 'Caesar's.' Thai ของซีซาร์ (matches MRK 12:16 synoptic-parallel rendering)."
+        }
       ],
       "notes": "COIN-ICONOGRAPHY: Tiberius-denarius (standard Roman-silver-coin AD 14-37) bore (a) emperor's head with laurel-crown (divine-iconography), (b) obverse-legend TI CAESAR DIVI AVG F AVGVSTVS, and (c) reverse PONTIF MAXIM with seated female-figure (possibly Livia as Pax). Every handling of the coin was, to a strict-Jew, a violation of Exod 20:4 second-commandment (no-graven-images). Jesus' demand 'show me one' forces them to publicly-produce the idolatrous-object they had been tacitly-using — silencing their claim to religious-superiority before they can even close the trap."
     }
@@ -445,12 +761,20 @@
     "greek": "ὁ δὲ εἶπεν πρὸς αὐτούς·Τοίνυν ἀπόδοτε τὰ Καίσαρος Καίσαρι καὶ τὰ τοῦ θεοῦ τῷ θεῷ.",
     "bsb_english": "So Jesus told them, \"Give to Caesar what is Caesar's, and to God what is God's.\"",
     "translation": {
-      "thai": "พระองค์จึงตรัสกับพวกเขาว่า «ถ้าอย่างนั้น ของของซีซาร์ จงถวายแด่ซีซาร์ และของของพระเจ้า จงถวายแด่พระเจ้า»",
+      "thai": "พระองค์จึงตรัสกับพวกเขาว่า “ถ้าอย่างนั้น ของของซีซาร์ จงถวายแด่ซีซาร์ และของของพระเจ้า จงถวายแด่พระเจ้า”",
       "thai_literal": null,
-      "thai_summary": "คำตอบของพระเยซูสร้างกรอบสองขอบเขตที่ไม่ขัดกัน ประชาชนมีหน้าที่ต่อซีซาร์ในด้านพลเมือง (จ่ายภาษี รักษากฎหมายเมือง) แต่ก็มีหน้าที่สูงกว่าต่อพระเจ้า — และสิ่งที่เป็น «ของพระเจ้า» คือทุกสิ่งของชีวิต (รวมทั้งตัวมนุษย์เองที่ถูกสร้างตามพระฉายของพระเจ้า ปฐมกาล 1:27) เปรียบเทียบกับเหรียญที่มีรูปซีซาร์ พระเยซูทรงบอกอย่างแยบยลว่า «เหรียญมีรูปของซีซาร์จึงคืนให้ซีซาร์ แต่เจ้าเองมีรูปของพระเจ้าจงถวายทั้งชีวิตแด่พระเจ้า»",
+      "thai_summary": "คำตอบของพระเยซูสร้างกรอบสองขอบเขตที่ไม่ขัดกัน ประชาชนมีหน้าที่ต่อซีซาร์ในด้านพลเมือง (จ่ายภาษี รักษากฎหมายเมือง) แต่ก็มีหน้าที่สูงกว่าต่อพระเจ้า — และสิ่งที่เป็น “ของพระเจ้า” คือทุกสิ่งของชีวิต (รวมทั้งตัวมนุษย์เองที่ถูกสร้างตามพระฉายของพระเจ้า ปฐมกาล 1:27) เปรียบเทียบกับเหรียญที่มีรูปซีซาร์ พระเยซูทรงบอกอย่างแยบยลว่า “เหรียญมีรูปของซีซาร์จึงคืนให้ซีซาร์ แต่เจ้าเองมีรูปของพระเจ้าจงถวายทั้งชีวิตแด่พระเจ้า”",
       "key_decisions": [
-        {"greek": "Τοίνυν", "thai": "ถ้าอย่างนั้น", "rationale": "τοίνυν 'therefore, accordingly' — inferential-particle. Thai ถ้าอย่างนั้น captures the 'well-then, given-that' force (the coin bears Caesar's image, so...)."},
-        {"greek": "ἀπόδοτε τὰ Καίσαρος Καίσαρι καὶ τὰ τοῦ θεοῦ τῷ θεῷ", "thai": "ของของซีซาร์ จงถวายแด่ซีซาร์ และของของพระเจ้า จงถวายแด่พระเจ้า", "rationale": "Per uW figs-metonymy + figs-ellipsis: ἀποδίδωμι 'give-back, pay-back' (not neutral 'give' — the 'back' implies rightful-return to owner). Thai ถวาย used for both because the parallel-symmetry is the point (τὰ τοῦ θεοῦ — all-that-belongs-to-God requires the reverent ถวาย per RULES.md §3). Matches MRK 12:17 synoptic-parallel rendering verbatim."}
+        {
+          "greek": "Τοίνυν",
+          "thai": "ถ้าอย่างนั้น",
+          "rationale": "τοίνυν 'therefore, accordingly' — inferential-particle. Thai ถ้าอย่างนั้น captures the 'well-then, given-that' force (the coin bears Caesar's image, so...)."
+        },
+        {
+          "greek": "ἀπόδοτε τὰ Καίσαρος Καίσαρι καὶ τὰ τοῦ θεοῦ τῷ θεῷ",
+          "thai": "ของของซีซาร์ จงถวายแด่ซีซาร์ และของของพระเจ้า จงถวายแด่พระเจ้า",
+          "rationale": "Per uW figs-metonymy + figs-ellipsis: ἀποδίδωμι 'give-back, pay-back' (not neutral 'give' — the 'back' implies rightful-return to owner). Thai ถวาย used for both because the parallel-symmetry is the point (τὰ τοῦ θεοῦ — all-that-belongs-to-God requires the reverent ถวาย per RULES.md §3). Matches MRK 12:17 synoptic-parallel rendering verbatim."
+        }
       ],
       "notes": "TWO-KINGDOMS-NOT-TWO-COMPARTMENTS: Jesus' answer does not merely distribute-spheres but subordinates-Caesar-to-God. The coin belongs to Caesar because it bears his image; but humans bear GOD's image (Gen 1:27), so all humans belong to God. The reply escapes the trap (pay-taxes = yes; the coin is Caesar's) while reframing the deeper-question (the ultimate-claim is God's, not Caesar's). Patristic tradition (Tertullian, De Idololatria 15) reads this as the foundation-stone of Christian two-powers-political-theology."
     }
@@ -466,9 +790,21 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        {"greek": "οὐκ ἴσχυσαν ἐπιλαβέσθαι τοῦ ῥήματος", "thai": "ไม่สามารถจับผิดคำพูดของพระองค์", "rationale": "Per uW figs-metaphor: 'take-hold-of-the-saying' = 'catch-someone-in-their-words' (cf. v.20). ἴσχύω 'be-able, have-power' — Thai ไม่สามารถ captures 'unable-to.' ῥῆμα → คำพูด (speech-item, not logos-abstract)."},
-        {"greek": "ἐναντίον τοῦ λαοῦ", "thai": "ต่อหน้าประชาชน", "rationale": "Per uW figs-metaphor: ἐναντίον 'in-front-of' = 'in-public-view.' Thai ต่อหน้าประชาชน preserves the public-venue."},
-        {"greek": "θαυμάσαντες ἐπὶ τῇ ἀποκρίσει αὐτοῦ ἐσίγησαν", "thai": "จึงประหลาดใจในคำตอบของพระองค์และนิ่งเงียบไป", "rationale": "θαυμάζω → ประหลาดใจ/อัศจรรย์ใจ (glossary-established across Luke). σιγάω → นิ่งเงียบ. Double-action: amazement + silence (the crowd sees the trap sprung in reverse)."}
+        {
+          "greek": "οὐκ ἴσχυσαν ἐπιλαβέσθαι τοῦ ῥήματος",
+          "thai": "ไม่สามารถจับผิดคำพูดของพระองค์",
+          "rationale": "Per uW figs-metaphor: 'take-hold-of-the-saying' = 'catch-someone-in-their-words' (cf. v.20). ἴσχύω 'be-able, have-power' — Thai ไม่สามารถ captures 'unable-to.' ῥῆμα → คำพูด (speech-item, not logos-abstract)."
+        },
+        {
+          "greek": "ἐναντίον τοῦ λαοῦ",
+          "thai": "ต่อหน้าประชาชน",
+          "rationale": "Per uW figs-metaphor: ἐναντίον 'in-front-of' = 'in-public-view.' Thai ต่อหน้าประชาชน preserves the public-venue."
+        },
+        {
+          "greek": "θαυμάσαντες ἐπὶ τῇ ἀποκρίσει αὐτοῦ ἐσίγησαν",
+          "thai": "จึงประหลาดใจในคำตอบของพระองค์และนิ่งเงียบไป",
+          "rationale": "θαυμάζω → ประหลาดใจ/อัศจรรย์ใจ (glossary-established across Luke). σιγάω → นิ่งเงียบ. Double-action: amazement + silence (the crowd sees the trap sprung in reverse)."
+        }
       ],
       "notes": "TRAP-INVERSION: the spies designed to 'catch-his-words'; instead they are-caught-in-silence by his words. Luke's ἐναντίον τοῦ λαοῦ emphasizes public-theater-of-debate: the crowd witnesses the spy-tactic-fail. ἐσίγησαν closes this pericope; next the Sadducees will try a different angle (v.27). The escalation-pattern: Sanhedrin-formal-authority-question fails → scribe/priest spies-flattery-tax-trap fails → Sadducee resurrection-trap next."
     }
@@ -484,9 +820,21 @@
       "thai_literal": null,
       "thai_summary": "พวกสะดูสีเป็นกลุ่มชนชั้นสูงของยิวส่วนใหญ่เป็นปุโรหิตและขุนนาง พวกเขายอมรับเฉพาะพระธรรมห้าเล่มของโมเสสเป็นพระคัมภีร์ที่มีอำนาจ และปฏิเสธความเชื่อเรื่องการเป็นขึ้นจากตาย เทวดา และวิญญาณ (กิจการ 23:8) ต่างจากพวกฟาริสีซึ่งเชื่อเรื่องเหล่านี้ทั้งหมด คำถามที่พวกเขามาถามพระเยซูไม่ใช่เพื่อเรียนรู้ แต่เพื่อทำให้การเป็นขึ้นจากตายดูเป็นเรื่องตลกไร้สาระ",
       "key_decisions": [
-        {"greek": "τινες τῶν Σαδδουκαίων", "thai": "พวกสะดูสีบางคน", "rationale": "Per uW writing-participants: introducing new opposition-group. Σαδδουκαῖοι → พวกสะดูสี (glossary-established MRK 12:18 synoptic-parallel + MAT 22:23). Standard Thai Christian transliteration."},
-        {"greek": "οἱ ἀντιλέγοντες ἀνάστασιν μὴ εἶναι", "thai": "ซึ่งกล่าวปฏิเสธว่าไม่มีการเป็นขึ้นจากตาย", "rationale": "Per uW figs-distinguish: identifying-clause characterizing all-Sadducees-as-a-group (not distinguishing these-from-other-Sadducees). ἀντιλέγω 'speak-against, contradict' — Luke's distinctive word-choice (vs. Mark's simpler λέγοντες μή εἶναι MRK 12:18) sharpens their denial-stance. Thai กล่าวปฏิเสธ captures the contradict-sense. ἀνάστασις → การเป็นขึ้นจากตาย (glossary-established; synoptic-parallel MRK 12:18)."},
-        {"greek": "ἐπηρώτησαν αὐτὸν", "thai": "เข้ามาหาพระองค์และทูลถาม", "rationale": "Προσελθόντες...ἐπηρώτησαν 'having-approached...questioned' — Thai combines to 'เข้ามาหา...ทูลถาม.'"}
+        {
+          "greek": "τινες τῶν Σαδδουκαίων",
+          "thai": "พวกสะดูสีบางคน",
+          "rationale": "Per uW writing-participants: introducing new opposition-group. Σαδδουκαῖοι → พวกสะดูสี (glossary-established MRK 12:18 synoptic-parallel + MAT 22:23). Standard Thai Christian transliteration."
+        },
+        {
+          "greek": "οἱ ἀντιλέγοντες ἀνάστασιν μὴ εἶναι",
+          "thai": "ซึ่งกล่าวปฏิเสธว่าไม่มีการเป็นขึ้นจากตาย",
+          "rationale": "Per uW figs-distinguish: identifying-clause characterizing all-Sadducees-as-a-group (not distinguishing these-from-other-Sadducees). ἀντιλέγω 'speak-against, contradict' — Luke's distinctive word-choice (vs. Mark's simpler λέγοντες μή εἶναι MRK 12:18) sharpens their denial-stance. Thai กล่าวปฏิเสธ captures the contradict-sense. ἀνάστασις → การเป็นขึ้นจากตาย (glossary-established; synoptic-parallel MRK 12:18)."
+        },
+        {
+          "greek": "ἐπηρώτησαν αὐτὸν",
+          "thai": "เข้ามาหาพระองค์และทูลถาม",
+          "rationale": "Προσελθόντες...ἐπηρώτησαν 'having-approached...questioned' — Thai combines to 'เข้ามาหา...ทูลถาม.'"
+        }
       ],
       "notes": "SADDUCEES-THEOLOGY: priest-aristocracy group that accepted only the Pentateuch as fully-binding Scripture; denied resurrection, angels, spirits (ACT 23:8; Josephus, Ant. 18.16). Their strategy in v.28-33 will be to argue from Deut 25:5-6 (Levirate-law) that resurrection creates absurdity — requiring Jesus to either abandon resurrection or reinterpret Mosaic law. Their failure to anticipate Jesus' EXODUS-based reply (v.37 — citing Pentateuch itself) reveals their trap was never theologically-robust."
     }
@@ -498,13 +846,25 @@
     "greek": "λέγοντες·Διδάσκαλε,Μωϋσῆς ἔγραψεν ἡμῖν,ἐάν τινος ἀδελφὸς ἀποθάνῃ ἔχων γυναῖκα,καὶ οὗτος ἄτεκνος ᾖ,ἵνα λάβῃ ὁ ἀδελφὸς αὐτοῦ τὴν γυναῖκα καὶ ἐξαναστήσῃ σπέρμα τῷ ἀδελφῷ αὐτοῦ.",
     "bsb_english": "\"Teacher,\" they said, \"Moses wrote for us that if a man's brother dies and leaves a wife but no children, the man is to marry his brother's widow and raise up offspring for him.",
     "translation": {
-      "thai": "ว่า «อาจารย์เจ้าข้า โมเสสได้เขียนสั่งพวกเราไว้ว่า ‹ถ้าพี่ชายของผู้ใดตายและมีภรรยาอยู่ แต่ไม่มีบุตร ก็ให้น้องชายของผู้ตายรับภรรยานั้นมาเป็นภรรยาของตน และมีบุตรสืบสกุลให้แก่พี่ชาย›",
+      "thai": "ว่า “อาจารย์เจ้าข้า โมเสสได้เขียนสั่งพวกเราไว้ว่า ‘ถ้าพี่ชายของผู้ใดตายและมีภรรยาอยู่ แต่ไม่มีบุตร ก็ให้น้องชายของผู้ตายรับภรรยานั้นมาเป็นภรรยาของตน และมีบุตรสืบสกุลให้แก่พี่ชาย’",
       "thai_literal": null,
       "thai_summary": "กฎหมายที่พวกสะดูสีอ้างอิงมาจากเฉลยธรรมบัญญัติ 25:5-6 (กฎการแต่งงานแทนพี่น้อง หรือ Levirate Marriage) ซึ่งบัญญัติไว้เพื่อไม่ให้สายตระกูลของพี่ชายที่ตายขาดสูญ และเพื่อรักษามรดกที่ดินไว้ในครอบครัวเดิม ในวัฒนธรรมยิวโบราณ การมีบุตรสืบสกุลเป็นสิ่งสำคัญที่สุดอย่างหนึ่งในการคงสายสืบตระกูล กฎนี้จึงเป็นการรักษาทั้งด้านเศรษฐกิจและด้านสังคมสำหรับหญิงม่าย",
       "key_decisions": [
-        {"greek": "Μωϋσῆς ἔγραψεν ἡμῖν", "thai": "โมเสสได้เขียนสั่งพวกเราไว้", "rationale": "Per uW figs-metonymy + figs-exclusive: 'Moses wrote for us' = 'Moses wrote as instruction (LXX Deut 25:5-6).' ἡμῖν 'inclusive-we' (Sadducees + Jesus = both Jews). Thai สั่งพวกเรา supplies the instructional-force (uW note: 'Moses instructed us in the law'). Μωϋσῆς → โมเสส (glossary-established)."},
-        {"greek": "ἐάν τινος ἀδελφὸς ἀποθάνῃ ἔχων γυναῖκα,καὶ οὗτος ἄτεκνος ᾖ", "thai": "ถ้าพี่ชายของผู้ใดตายและมีภรรยาอยู่ แต่ไม่มีบุตร", "rationale": "Per uW figs-hypo: hypothetical-conditional clause. ἄτεκνος 'childless' → ไม่มีบุตร. NOTE: Greek has 'his brother dies' (of-someone) = interpreted as 'elder-brother dies' per Levirate-law context (younger-surviving-brother marries widow). Thai พี่ชาย...น้องชาย (elder/younger-brother distinction) makes the Levirate-pattern explicit, matching MRK 12:19 synoptic-parallel rendering."},
-        {"greek": "ἵνα λάβῃ ὁ ἀδελφὸς αὐτοῦ τὴν γυναῖκα καὶ ἐξαναστήσῃ σπέρμα τῷ ἀδελφῷ αὐτοῦ", "thai": "ก็ให้น้องชายของผู้ตายรับภรรยานั้นมาเป็นภรรยาของตน และมีบุตรสืบสกุลให้แก่พี่ชาย", "rationale": "Per uW figs-metaphor + figs-explicit: σπέρμα 'seed' → บุตรสืบสกุล (genealogical-continuation, not biological 'seed'; LUK 1:55 σπέρμα → ลูกหลาน similarly). ἐξανίστημι 'raise-up' 3-sg-aor-subj in ἵνα = 'that-he-should-raise-up.' The Levirate-purpose: preserving the deceased-elder-brother's line."}
+        {
+          "greek": "Μωϋσῆς ἔγραψεν ἡμῖν",
+          "thai": "โมเสสได้เขียนสั่งพวกเราไว้",
+          "rationale": "Per uW figs-metonymy + figs-exclusive: 'Moses wrote for us' = 'Moses wrote as instruction (LXX Deut 25:5-6).' ἡμῖν 'inclusive-we' (Sadducees + Jesus = both Jews). Thai สั่งพวกเรา supplies the instructional-force (uW note: 'Moses instructed us in the law'). Μωϋσῆς → โมเสส (glossary-established)."
+        },
+        {
+          "greek": "ἐάν τινος ἀδελφὸς ἀποθάνῃ ἔχων γυναῖκα,καὶ οὗτος ἄτεκνος ᾖ",
+          "thai": "ถ้าพี่ชายของผู้ใดตายและมีภรรยาอยู่ แต่ไม่มีบุตร",
+          "rationale": "Per uW figs-hypo: hypothetical-conditional clause. ἄτεκνος 'childless' → ไม่มีบุตร. NOTE: Greek has 'his brother dies' (of-someone) = interpreted as 'elder-brother dies' per Levirate-law context (younger-surviving-brother marries widow). Thai พี่ชาย...น้องชาย (elder/younger-brother distinction) makes the Levirate-pattern explicit, matching MRK 12:19 synoptic-parallel rendering."
+        },
+        {
+          "greek": "ἵνα λάβῃ ὁ ἀδελφὸς αὐτοῦ τὴν γυναῖκα καὶ ἐξαναστήσῃ σπέρμα τῷ ἀδελφῷ αὐτοῦ",
+          "thai": "ก็ให้น้องชายของผู้ตายรับภรรยานั้นมาเป็นภรรยาของตน และมีบุตรสืบสกุลให้แก่พี่ชาย",
+          "rationale": "Per uW figs-metaphor + figs-explicit: σπέρμα 'seed' → บุตรสืบสกุล (genealogical-continuation, not biological 'seed'; LUK 1:55 σπέρμα → ลูกหลาน similarly). ἐξανίστημι 'raise-up' 3-sg-aor-subj in ἵνα = 'that-he-should-raise-up.' The Levirate-purpose: preserving the deceased-elder-brother's line."
+        }
       ],
       "notes": "OT CITATION: Deuteronomy 25:5-6 (Levirate marriage law — yibbum). Paraphrase-citation, not verbatim LXX. Sadducee-strategy: they cite Pentateuch (their accepted-canon) to construct a case whose resolution-requires resurrection, then claim the resurrection-leads-to-absurdity, thereby 'refuting' resurrection. The tactic presupposes that if Mosaic-law creates an impossible-situation in-the-resurrection, then resurrection must be false (since Moses must be consistent). Jesus will dismantle this by showing resurrection-life is not same-kind as earthly-life (vv.34-36). ADDED TO NT_OT_CITATIONS: LUK 20:28 citation DEU 25:5-6."
     }
@@ -520,8 +880,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        {"greek": "ἑπτὰ οὖν ἀδελφοὶ ἦσαν", "thai": "สมมุติว่ามีพี่น้องเจ็ดคน", "rationale": "Per uW figs-hypo + grammar-connect-condition-hypothetical: οὖν here not logical-inference but lead-in to hypothetical scenario; uW suggests 'Suppose there were seven brothers.' Thai สมมุติว่า (standard Thai 'suppose'). Matches MRK 12:20 rendering."},
-        {"greek": "ὁ πρῶτος λαβὼν γυναῖκα ἀπέθανεν ἄτεκνος", "thai": "คนที่หนึ่งรับภรรยาแล้วตายโดยไม่มีบุตร", "rationale": "Per uW figs-nominaladj + translate-ordinal: ὁ πρῶτος as substantival-adj 'the-first-one' = 'first-brother.' Thai คนที่หนึ่ง preserves ordinal-person. λαμβάνω γυναῖκα 'take-a-wife' → รับภรรยา (standard Thai idiom). Matches MRK 12:20 synoptic-parallel rendering."}
+        {
+          "greek": "ἑπτὰ οὖν ἀδελφοὶ ἦσαν",
+          "thai": "สมมุติว่ามีพี่น้องเจ็ดคน",
+          "rationale": "Per uW figs-hypo + grammar-connect-condition-hypothetical: οὖν here not logical-inference but lead-in to hypothetical scenario; uW suggests 'Suppose there were seven brothers.' Thai สมมุติว่า (standard Thai 'suppose'). Matches MRK 12:20 rendering."
+        },
+        {
+          "greek": "ὁ πρῶτος λαβὼν γυναῖκα ἀπέθανεν ἄτεκνος",
+          "thai": "คนที่หนึ่งรับภรรยาแล้วตายโดยไม่มีบุตร",
+          "rationale": "Per uW figs-nominaladj + translate-ordinal: ὁ πρῶτος as substantival-adj 'the-first-one' = 'first-brother.' Thai คนที่หนึ่ง preserves ordinal-person. λαμβάνω γυναῖκα 'take-a-wife' → รับภรรยา (standard Thai idiom). Matches MRK 12:20 synoptic-parallel rendering."
+        }
       ],
       "notes": "HYPOTHETICAL-SCENARIO begins. Seven-brothers is a common-Jewish narrative-construction (cf. 2 Macc 7 seven-brothers-martyrdom) designed to exhaust the case: with seven repetitions of Levirate-law, the absurdity-of-multi-husband in resurrection is maximized. Luke-compact narration (vs. Mark's verbose v.20-22) trims details while preserving logical-force."
     }
@@ -537,7 +905,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        {"greek": "καὶ ὁ δεύτερος", "thai": "คนที่สองก็เช่นกัน", "rationale": "Per uW figs-hypo + figs-ellipsis: verse-break creates an ellipsis not present in Greek; verb λαβών αὐτήν must be supplied from v.31 (καὶ ὁ τρίτος ἔλαβεν αὐτήν). Per uW alt: 'And suppose that the second brother then married her.' Thai ก็เช่นกัน (supplies 'did-likewise') preserves the elliptical-brevity while making Thai-sense stand-alone. ὁ δεύτερος → คนที่สอง (ordinal-person)."}
+        {
+          "greek": "καὶ ὁ δεύτερος",
+          "thai": "คนที่สองก็เช่นกัน",
+          "rationale": "Per uW figs-hypo + figs-ellipsis: verse-break creates an ellipsis not present in Greek; verb λαβών αὐτήν must be supplied from v.31 (καὶ ὁ τρίτος ἔλαβεν αὐτήν). Per uW alt: 'And suppose that the second brother then married her.' Thai ก็เช่นกัน (supplies 'did-likewise') preserves the elliptical-brevity while making Thai-sense stand-alone. ὁ δεύτερος → คนที่สอง (ordinal-person)."
+        }
       ],
       "notes": "VERSE-STRUCTURE-NOTE: SBLGNT preserves the two-word-verse καὶ ὁ δεύτερος (per NA28 + majority-mss). The verse-division creates a syntactic-ellipsis; v.31 continues καὶ ὁ τρίτος ἔλαβεν αὐτήν ('the third took her'), with the verb-phrase retrospectively-applying to v.30's subject. Thai rendering ก็เช่นกัน makes the clause self-contained since Thai cannot easily leave a verse dangling-without-verb."
     }
@@ -553,8 +925,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        {"greek": "ὁ τρίτος ἔλαβεν αὐτήν", "thai": "คนที่สามก็รับภรรยานั้น", "rationale": "Per uW figs-nominaladj + figs-explicit: third-brother-married-widow. Thai คนที่สาม...รับภรรยานั้น restores the full verb-phrase that v.30 elided. Implicit: he also died without children."},
-        {"greek": "ὡσαύτως δὲ καὶ οἱ ἑπτὰ οὐ κατέλιπον τέκνα καὶ ἀπέθανον", "thai": "และทั้งเจ็ดคนก็เป็นเช่นเดียวกัน คือตายไปโดยไม่มีบุตรสืบสกุล", "rationale": "Per uW figs-explicit: 'in the same way all seven...did not leave children and died.' Thai ทั้งเจ็ดคน...เป็นเช่นเดียวกัน + ตายไปโดยไม่มีบุตรสืบสกุล. καταλείπω τέκνα 'leave children' = 'leave offspring to continue the line' → ไม่มีบุตรสืบสกุล (preserving the genealogical-continuation-concern from v.28). Matches MRK 12:22 synoptic-parallel pattern."}
+        {
+          "greek": "ὁ τρίτος ἔλαβεν αὐτήν",
+          "thai": "คนที่สามก็รับภรรยานั้น",
+          "rationale": "Per uW figs-nominaladj + figs-explicit: third-brother-married-widow. Thai คนที่สาม...รับภรรยานั้น restores the full verb-phrase that v.30 elided. Implicit: he also died without children."
+        },
+        {
+          "greek": "ὡσαύτως δὲ καὶ οἱ ἑπτὰ οὐ κατέλιπον τέκνα καὶ ἀπέθανον",
+          "thai": "และทั้งเจ็ดคนก็เป็นเช่นเดียวกัน คือตายไปโดยไม่มีบุตรสืบสกุล",
+          "rationale": "Per uW figs-explicit: 'in the same way all seven...did not leave children and died.' Thai ทั้งเจ็ดคน...เป็นเช่นเดียวกัน + ตายไปโดยไม่มีบุตรสืบสกุล. καταλείπω τέκνα 'leave children' = 'leave offspring to continue the line' → ไม่มีบุตรสืบสกุล (preserving the genealogical-continuation-concern from v.28). Matches MRK 12:22 synoptic-parallel pattern."
+        }
       ],
       "notes": "SEVEN-FOLD-REPETITION condensed. The point of seven: exhaust the Levirate-logic so that in the hypothetical-resurrection the widow has legitimate-husband-claims from seven men. Jewish-law and resurrection together (on Sadducee assumptions) produce polyandrous-confusion. Luke compresses vs. Mark's extended narration — rhetorical-effect is the same."
     }
@@ -570,8 +950,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        {"greek": "ὕστερον", "thai": "ภายหลัง", "rationale": "ὕστερον adverb 'finally, afterwards' — Thai ภายหลัง (natural)."},
-        {"greek": "καὶ ἡ γυνὴ ἀπέθανεν", "thai": "หญิงนั้นก็ตายด้วย", "rationale": "γυνή → หญิง (general 'woman' here; not 'ภรรยา/wife' since her seven-husbands-status is being summarized). Thai ก็...ด้วย preserves the καί-addition 'also, she too.'"}
+        {
+          "greek": "ὕστερον",
+          "thai": "ภายหลัง",
+          "rationale": "ὕστερον adverb 'finally, afterwards' — Thai ภายหลัง (natural)."
+        },
+        {
+          "greek": "καὶ ἡ γυνὴ ἀπέθανεν",
+          "thai": "หญิงนั้นก็ตายด้วย",
+          "rationale": "γυνή → หญิง (general 'woman' here; not 'ภรรยา/wife' since her seven-husbands-status is being summarized). Thai ก็...ด้วย preserves the καί-addition 'also, she too.'"
+        }
       ],
       "notes": "CLOSING-CLAUSE of hypothetical — all eight people in the story are now dead; the stage is set for the resurrection-question (v.33). Luke's ὕστερον is the moment when the Sadducees believe their trap springs."
     }
@@ -583,13 +971,25 @@
     "greek": "ἡ γυνὴ οὖν ἐν τῇ ἀναστάσει τίνος αὐτῶν γίνεται γυνή;οἱ γὰρ ἑπτὰ ἔσχον αὐτὴν γυναῖκα.",
     "bsb_english": "So then, in the resurrection, whose wife will she be? For all seven were married to her.\"",
     "translation": {
-      "thai": "ในเมื่อเป็นอย่างนี้แล้ว เมื่อเป็นขึ้นจากตาย นางจะเป็นภรรยาของคนไหนในพวกเขา? เพราะว่าทั้งเจ็ดคนได้รับนางเป็นภรรยามาแล้ว»",
+      "thai": "ในเมื่อเป็นอย่างนี้แล้ว เมื่อเป็นขึ้นจากตาย นางจะเป็นภรรยาของคนไหนในพวกเขา? เพราะว่าทั้งเจ็ดคนได้รับนางเป็นภรรยามาแล้ว”",
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        {"greek": "ἡ γυνὴ οὖν ἐν τῇ ἀναστάσει", "thai": "ในเมื่อเป็นอย่างนี้แล้ว เมื่อเป็นขึ้นจากตาย", "rationale": "Per uW figs-hypo: οὖν links the hypothetical-setup to the question. Per uW: Sadducees 'did not actually believe there would be a resurrection'; some translations add 'supposed resurrection' to mark their skepticism. We keep neutral การเป็นขึ้นจากตาย (synoptic-parallel MRK 12:23 rendering) without explicit-skepticism-gloss — Luke's narrative has already identified them as disbelievers in v.27."},
-        {"greek": "τίνος αὐτῶν γίνεται γυνή", "thai": "นางจะเป็นภรรยาของคนไหนในพวกเขา", "rationale": "Pres-ind γίνεται 'becomes' — futurist-present 'will-become' in this context. Thai จะเป็น (future). τίνος αὐτῶν 'of-whom-of-them' → ของคนไหนในพวกเขา."},
-        {"greek": "οἱ γὰρ ἑπτὰ ἔσχον αὐτὴν γυναῖκα", "thai": "เพราะว่าทั้งเจ็ดคนได้รับนางเป็นภรรยามาแล้ว", "rationale": "ἔσχον aor 'had' — 'took-her-as-wife' (serial-possession). Thai ได้รับ...เป็นภรรยามาแล้ว captures the accumulated-claim. Matches MRK 12:23 synoptic-parallel rendering."}
+        {
+          "greek": "ἡ γυνὴ οὖν ἐν τῇ ἀναστάσει",
+          "thai": "ในเมื่อเป็นอย่างนี้แล้ว เมื่อเป็นขึ้นจากตาย",
+          "rationale": "Per uW figs-hypo: οὖν links the hypothetical-setup to the question. Per uW: Sadducees 'did not actually believe there would be a resurrection'; some translations add 'supposed resurrection' to mark their skepticism. We keep neutral การเป็นขึ้นจากตาย (synoptic-parallel MRK 12:23 rendering) without explicit-skepticism-gloss — Luke's narrative has already identified them as disbelievers in v.27."
+        },
+        {
+          "greek": "τίνος αὐτῶν γίνεται γυνή",
+          "thai": "นางจะเป็นภรรยาของคนไหนในพวกเขา",
+          "rationale": "Pres-ind γίνεται 'becomes' — futurist-present 'will-become' in this context. Thai จะเป็น (future). τίνος αὐτῶν 'of-whom-of-them' → ของคนไหนในพวกเขา."
+        },
+        {
+          "greek": "οἱ γὰρ ἑπτὰ ἔσχον αὐτὴν γυναῖκα",
+          "thai": "เพราะว่าทั้งเจ็ดคนได้รับนางเป็นภรรยามาแล้ว",
+          "rationale": "ἔσχον aor 'had' — 'took-her-as-wife' (serial-possession). Thai ได้รับ...เป็นภรรยามาแล้ว captures the accumulated-claim. Matches MRK 12:23 synoptic-parallel rendering."
+        }
       ],
       "notes": "THE TRAP-QUESTION: Sadducees assume resurrection-life preserves marriage-structures, producing polyandrous-absurdity. Jesus' answer (vv.34-36) will deny that presupposition: resurrection-life is categorically-different. The Sadducees' trap depends on an anthropological-error (resurrection = earthly-life-extended-infinitely), which Jesus' response exposes."
     }
@@ -601,12 +1001,20 @@
     "greek": "Καὶ εἶπεν αὐτοῖς ὁ Ἰησοῦς·Οἱ υἱοὶ τοῦ αἰῶνος τούτου γαμοῦσιν καὶ γαμίσκονται,",
     "bsb_english": "Jesus answered, \"The sons of this age marry and are given in marriage.",
     "translation": {
-      "thai": "พระเยซูตรัสกับพวกเขาว่า «บุตรของยุคนี้ก็แต่งงานกันและถูกยกให้แต่งงาน",
+      "thai": "พระเยซูตรัสกับพวกเขาว่า “บุตรของยุคนี้ก็แต่งงานกันและถูกยกให้แต่งงาน",
       "thai_literal": null,
-      "thai_summary": "คำว่า «ยุค» (αἰών) ในพันธสัญญาใหม่ไม่ได้หมายถึงแค่ช่วงเวลา แต่หมายถึงโลกแห่งยุคนี้กับโลกแห่งยุคหน้าที่พระเจ้าจะทรงสร้างใหม่ — สองโลกที่แตกต่างกันในเรื่องความเป็นจริง «บุตรของยุคนี้» คือคนในโลกปัจจุบัน ซึ่งมีชีวิตที่ต้องแต่งงานเพื่อสืบพันธุ์และเอาชนะความตาย แต่ในยุคหน้าไม่จำเป็นต้องเป็นเช่นนั้นอีก",
+      "thai_summary": "คำว่า “ยุค” (αἰών) ในพันธสัญญาใหม่ไม่ได้หมายถึงแค่ช่วงเวลา แต่หมายถึงโลกแห่งยุคนี้กับโลกแห่งยุคหน้าที่พระเจ้าจะทรงสร้างใหม่ — สองโลกที่แตกต่างกันในเรื่องความเป็นจริง “บุตรของยุคนี้” คือคนในโลกปัจจุบัน ซึ่งมีชีวิตที่ต้องแต่งงานเพื่อสืบพันธุ์และเอาชนะความตาย แต่ในยุคหน้าไม่จำเป็นต้องเป็นเช่นนั้นอีก",
       "key_decisions": [
-        {"greek": "Οἱ υἱοὶ τοῦ αἰῶνος τούτου", "thai": "บุตรของยุคนี้", "rationale": "Per uW figs-idiom + figs-gendernotations + figs-metonymy: 'sons of this age' = Hebraic-idiom 'people-belonging-to-this-present-world.' Thai บุตรของยุคนี้ preserves the Semitic-idiom (consistent with LUK 16:8 'οἱ υἱοὶ τοῦ αἰῶνος τούτου' → บุตรของยุคนี้ already established). αἰών → ยุค (glossary-established). Rendering υἱοί literally as บุตร (rather than flattening to คน 'people') preserves the theological-sonship-motif that Jesus develops at v.36 (υἱοὶ θεοῦ / υἱοὶ τῆς ἀναστάσεως) — the literal-sonship-language is load-bearing."},
-        {"greek": "γαμοῦσιν καὶ γαμίσκονται", "thai": "แต่งงานกันและถูกยกให้แต่งงาน", "rationale": "Per uW figs-idiom + figs-activepassive: γαμέω (act) 'marry' (of men, traditional) + γαμίσκω (pass) 'be-given-in-marriage' (of women, traditional). Thai แต่งงานกัน (mutual-marry) + ถูกยกให้แต่งงาน (passively-given-in-marriage) preserves both voice-distinction and cultural-idiom. HAPAX: γαμίσκω (active) only here NT — variant of γαμίζω (v.35). Matches MAT 22:30 + MRK 12:25 synoptic-parallel patterns."}
+        {
+          "greek": "Οἱ υἱοὶ τοῦ αἰῶνος τούτου",
+          "thai": "บุตรของยุคนี้",
+          "rationale": "Per uW figs-idiom + figs-gendernotations + figs-metonymy: 'sons of this age' = Hebraic-idiom 'people-belonging-to-this-present-world.' Thai บุตรของยุคนี้ preserves the Semitic-idiom (consistent with LUK 16:8 'οἱ υἱοὶ τοῦ αἰῶνος τούτου' → บุตรของยุคนี้ already established). αἰών → ยุค (glossary-established). Rendering υἱοί literally as บุตร (rather than flattening to คน 'people') preserves the theological-sonship-motif that Jesus develops at v.36 (υἱοὶ θεοῦ / υἱοὶ τῆς ἀναστάσεως) — the literal-sonship-language is load-bearing."
+        },
+        {
+          "greek": "γαμοῦσιν καὶ γαμίσκονται",
+          "thai": "แต่งงานกันและถูกยกให้แต่งงาน",
+          "rationale": "Per uW figs-idiom + figs-activepassive: γαμέω (act) 'marry' (of men, traditional) + γαμίσκω (pass) 'be-given-in-marriage' (of women, traditional). Thai แต่งงานกัน (mutual-marry) + ถูกยกให้แต่งงาน (passively-given-in-marriage) preserves both voice-distinction and cultural-idiom. HAPAX: γαμίσκω (active) only here NT — variant of γαμίζω (v.35). Matches MAT 22:30 + MRK 12:25 synoptic-parallel patterns."
+        }
       ],
       "notes": "HAPAX: γαμίσκω (v.34) — distinct variant from γαμίζω (v.35); SBLGNT preserves the mss-divergence within two consecutive verses. Both verbs mean 'be-given-in-marriage' (passive); the active/stative semantics align with first-century Jewish marriage-customs where men act and women are acted upon. Thai idiom แต่งงานกัน/ถูกยกให้แต่งงาน captures this cultural-asymmetry without excluding women. LUKE-DISTINCTIVE vs. Synoptic-parallels: Luke's vv.34-38 adds material absent from Mark/Matthew (the 'worthy of the age to come', ἰσάγγελοι, πάντες αὐτῷ ζῶσιν), sharpening the Now/Age-to-Come theological-dualism central to Lukan eschatology."
     }
@@ -620,12 +1028,28 @@
     "translation": {
       "thai": "แต่ผู้ที่ทรงนับว่าสมควรได้มีส่วนในยุคหน้าและในการเป็นขึ้นจากตาย จะไม่แต่งงานกันและไม่ถูกยกให้แต่งงาน",
       "thai_literal": null,
-      "thai_summary": "«ยุคหน้า» ที่พระเยซูตรัสถึงไม่ใช่สวรรค์ที่เป็นเพียงวิญญาณล้วน ๆ แต่เป็นยุคที่พระเจ้าทรงเริ่มใหม่หลังจากการพิพากษาครั้งสุดท้าย เมื่อผู้ชอบธรรมเป็นขึ้นจากตายพร้อมกับร่างกายที่เปลี่ยนแปลงใหม่ (เทียบ 1 โครินธ์ 15) ในยุคนั้นความตายไม่มีอำนาจอีกต่อไป จึงไม่จำเป็นต้องแต่งงานเพื่อสืบพันธุ์ — นี่เป็นคำตอบที่รื้อถอนสมมติฐานของพวกสะดูสีว่า «การเป็นขึ้นจากตาย = ชีวิตในโลกนี้ที่ยืดออกไป»",
+      "thai_summary": "“ยุคหน้า” ที่พระเยซูตรัสถึงไม่ใช่สวรรค์ที่เป็นเพียงวิญญาณล้วน ๆ แต่เป็นยุคที่พระเจ้าทรงเริ่มใหม่หลังจากการพิพากษาครั้งสุดท้าย เมื่อผู้ชอบธรรมเป็นขึ้นจากตายพร้อมกับร่างกายที่เปลี่ยนแปลงใหม่ (เทียบ 1 โครินธ์ 15) ในยุคนั้นความตายไม่มีอำนาจอีกต่อไป จึงไม่จำเป็นต้องแต่งงานเพื่อสืบพันธุ์ — นี่เป็นคำตอบที่รื้อถอนสมมติฐานของพวกสะดูสีว่า “การเป็นขึ้นจากตาย = ชีวิตในโลกนี้ที่ยืดออกไป”",
       "key_decisions": [
-        {"greek": "οἱ...καταξιωθέντες", "thai": "ผู้ที่ทรงนับว่าสมควร", "rationale": "Per uW figs-activepassive: καταξιόω 'deem-worthy' aor-pass-ptc 'those-having-been-deemed-worthy.' Thai-active construction ทรงนับว่าสมควร with implied-divine-agent (ทรง royal-prefix flags God as the assessor). NEW key-term: καταξιόω → ทรงนับว่าสมควร. Luke-distinctive verb (only LUK 20:35, 21:36; ACT 5:41; 2TH 1:5)."},
-        {"greek": "τοῦ αἰῶνος ἐκείνου τυχεῖν", "thai": "ได้มีส่วนในยุคหน้า", "rationale": "Per uW figs-metonymy: αἰὼν ἐκεῖνος = 'that-age' = the age-to-come-after-this-present-world. Parallel to LUK 18:30 αἰών ὁ ἐρχόμενος. Thai ยุคหน้า (natural 'coming-age'). τυγχάνω + gen 'attain-to' → ได้มีส่วน."},
-        {"greek": "τῆς ἀναστάσεως τῆς ἐκ νεκρῶν", "thai": "ในการเป็นขึ้นจากตาย", "rationale": "Per uW figs-abstractnouns + figs-nominaladj: 'resurrection of-the out-of-dead-ones.' The ἐκ νεκρῶν phrase specifies resurrection-from-among-the-dead (Pauline technical term for first-resurrection, cf. PHP 3:11). Thai การเป็นขึ้นจากตาย matches LUK 20:33 + synoptic-parallels. Full construction emphasizes the age-to-come and its resurrection-component are coordinate-privileges both requiring worthiness."},
-        {"greek": "οὔτε γαμοῦσιν οὔτε γαμίζονται", "thai": "จะไม่แต่งงานกันและไม่ถูกยกให้แต่งงาน", "rationale": "Per uW figs-idiom + figs-activepassive: mirror of v.34 in negative — 'neither marry nor are given.' Thai ไม่แต่งงาน...ไม่ถูกยกให้แต่งงาน preserves both-voices-negated. γαμίζω (v.35) distinct from γαμίσκω (v.34) — same Thai rendering since meaning identical."}
+        {
+          "greek": "οἱ...καταξιωθέντες",
+          "thai": "ผู้ที่ทรงนับว่าสมควร",
+          "rationale": "Per uW figs-activepassive: καταξιόω 'deem-worthy' aor-pass-ptc 'those-having-been-deemed-worthy.' Thai-active construction ทรงนับว่าสมควร with implied-divine-agent (ทรง royal-prefix flags God as the assessor). NEW key-term: καταξιόω → ทรงนับว่าสมควร. Luke-distinctive verb (only LUK 20:35, 21:36; ACT 5:41; 2TH 1:5)."
+        },
+        {
+          "greek": "τοῦ αἰῶνος ἐκείνου τυχεῖν",
+          "thai": "ได้มีส่วนในยุคหน้า",
+          "rationale": "Per uW figs-metonymy: αἰὼν ἐκεῖνος = 'that-age' = the age-to-come-after-this-present-world. Parallel to LUK 18:30 αἰών ὁ ἐρχόμενος. Thai ยุคหน้า (natural 'coming-age'). τυγχάνω + gen 'attain-to' → ได้มีส่วน."
+        },
+        {
+          "greek": "τῆς ἀναστάσεως τῆς ἐκ νεκρῶν",
+          "thai": "ในการเป็นขึ้นจากตาย",
+          "rationale": "Per uW figs-abstractnouns + figs-nominaladj: 'resurrection of-the out-of-dead-ones.' The ἐκ νεκρῶν phrase specifies resurrection-from-among-the-dead (Pauline technical term for first-resurrection, cf. PHP 3:11). Thai การเป็นขึ้นจากตาย matches LUK 20:33 + synoptic-parallels. Full construction emphasizes the age-to-come and its resurrection-component are coordinate-privileges both requiring worthiness."
+        },
+        {
+          "greek": "οὔτε γαμοῦσιν οὔτε γαμίζονται",
+          "thai": "จะไม่แต่งงานกันและไม่ถูกยกให้แต่งงาน",
+          "rationale": "Per uW figs-idiom + figs-activepassive: mirror of v.34 in negative — 'neither marry nor are given.' Thai ไม่แต่งงาน...ไม่ถูกยกให้แต่งงาน preserves both-voices-negated. γαμίζω (v.35) distinct from γαμίσκω (v.34) — same Thai rendering since meaning identical."
+        }
       ],
       "notes": "LUKE-DISTINCTIVE: vv.35-36 contains material absent from Mark/Matthew parallels. καταξιωθέντες 'considered-worthy' introduces a conditional-participation-in-resurrection notion — not all universally-resurrect to the-age-to-come, only those-deemed-worthy (resurrection-of-the-righteous, cf. LUK 14:14 ἀνάστασις τῶν δικαίων; ACT 24:15). This is not universalism-denied but stage-distinction (cf. JHN 5:29 two-resurrections). The theological-payoff will emerge at v.36 (ἰσάγγελοι + υἱοὶ θεοῦ). TEXTUAL-NOTE: NA28 reads γαμίζονται (passive of γαμίζω); SBLGNT concurs."
     }
@@ -639,11 +1063,23 @@
     "translation": {
       "thai": "เพราะว่าพวกเขาจะไม่ตายอีกเลย เพราะเขาเทียบเท่าทูตสวรรค์และเป็นบุตรของพระเจ้า ด้วยว่าเป็นบุตรแห่งการเป็นขึ้นจากตาย",
       "thai_literal": null,
-      "thai_summary": "«เทียบเท่าทูตสวรรค์» ไม่ได้หมายความว่าคนที่เป็นขึ้นจะกลายเป็นทูตสวรรค์หรือไม่มีร่างกาย แต่หมายเฉพาะจุดเดียวคือ «ไม่ตายอีกต่อไป» เพราะทูตสวรรค์ในความเชื่อยิวคือสิ่งมีชีวิตอมตะ «บุตรแห่งการเป็นขึ้นจากตาย» เป็นสำนวนยิวที่หมายถึง «คนที่ได้ลักษณะของการเป็นขึ้นจากตาย» — กล่าวคือเป็นผู้ที่พระเจ้าทรงนำให้มีชีวิตนิรันดร์ใหม่ ข้อนี้มีสามชื่อที่ให้ผู้ที่เป็นขึ้นจากตาย: เทียบเท่าทูตสวรรค์ / บุตรของพระเจ้า / บุตรแห่งการเป็นขึ้นจากตาย",
+      "thai_summary": "“เทียบเท่าทูตสวรรค์” ไม่ได้หมายความว่าคนที่เป็นขึ้นจะกลายเป็นทูตสวรรค์หรือไม่มีร่างกาย แต่หมายเฉพาะจุดเดียวคือ “ไม่ตายอีกต่อไป” เพราะทูตสวรรค์ในความเชื่อยิวคือสิ่งมีชีวิตอมตะ “บุตรแห่งการเป็นขึ้นจากตาย” เป็นสำนวนยิวที่หมายถึง “คนที่ได้ลักษณะของการเป็นขึ้นจากตาย” — กล่าวคือเป็นผู้ที่พระเจ้าทรงนำให้มีชีวิตนิรันดร์ใหม่ ข้อนี้มีสามชื่อที่ให้ผู้ที่เป็นขึ้นจากตาย: เทียบเท่าทูตสวรรค์ / บุตรของพระเจ้า / บุตรแห่งการเป็นขึ้นจากตาย",
       "key_decisions": [
-        {"greek": "οὐδὲ γὰρ ἀποθανεῖν ἔτι δύνανται", "thai": "เพราะว่าพวกเขาจะไม่ตายอีกเลย", "rationale": "Per uW figs-explicit: 'they can no longer die' — explanation of why no marriage (no need to reproduce). Thai ไม่ตายอีกเลย captures the永-not-ever immortality. γάρ causal 'because-indeed.'"},
-        {"greek": "ἰσάγγελοι γάρ εἰσιν", "thai": "เพราะเขาเทียบเท่าทูตสวรรค์", "rationale": "HAPAX: ἰσάγγελος (only here NT) 'equal-to-angels' (ἴσος 'equal' + ἄγγελος 'angel'). Per uW figs-explicit: implied = 'angels don't die.' Thai เทียบเท่าทูตสวรรค์ (standard Thai comparative). NEW key-term: ἰσάγγελος → เทียบเท่าทูตสวรรค์. The specific point of comparison is immortality, not physical/angelic-transformation (cf. MAT 22:30 + MRK 12:25 ὡς ἄγγελοι — 'like angels' — Luke sharpens with ἰσ-compound)."},
-        {"greek": "υἱοί εἰσιν θεοῦ τῆς ἀναστάσεως υἱοὶ ὄντες", "thai": "เป็นบุตรของพระเจ้า ด้วยว่าเป็นบุตรแห่งการเป็นขึ้นจากตาย", "rationale": "Per uW figs-gendernotations + figs-idiom: υἱοί-twice — first literal 'sons-of-God' = children-adopted-into-divine-family, second idiomatic 'sons-of-the-resurrection' = 'those-sharing-in-resurrection-quality.' Thai บุตรของพระเจ้า + บุตรแห่งการเป็นขึ้นจากตาย preserves both theological-senses. ὄντες ptc = 'being/since-they-are' → ด้วยว่าเป็น (causal-connection)."}
+        {
+          "greek": "οὐδὲ γὰρ ἀποθανεῖν ἔτι δύνανται",
+          "thai": "เพราะว่าพวกเขาจะไม่ตายอีกเลย",
+          "rationale": "Per uW figs-explicit: 'they can no longer die' — explanation of why no marriage (no need to reproduce). Thai ไม่ตายอีกเลย captures the永-not-ever immortality. γάρ causal 'because-indeed.'"
+        },
+        {
+          "greek": "ἰσάγγελοι γάρ εἰσιν",
+          "thai": "เพราะเขาเทียบเท่าทูตสวรรค์",
+          "rationale": "HAPAX: ἰσάγγελος (only here NT) 'equal-to-angels' (ἴσος 'equal' + ἄγγελος 'angel'). Per uW figs-explicit: implied = 'angels don't die.' Thai เทียบเท่าทูตสวรรค์ (standard Thai comparative). NEW key-term: ἰσάγγελος → เทียบเท่าทูตสวรรค์. The specific point of comparison is immortality, not physical/angelic-transformation (cf. MAT 22:30 + MRK 12:25 ὡς ἄγγελοι — 'like angels' — Luke sharpens with ἰσ-compound)."
+        },
+        {
+          "greek": "υἱοί εἰσιν θεοῦ τῆς ἀναστάσεως υἱοὶ ὄντες",
+          "thai": "เป็นบุตรของพระเจ้า ด้วยว่าเป็นบุตรแห่งการเป็นขึ้นจากตาย",
+          "rationale": "Per uW figs-gendernotations + figs-idiom: υἱοί-twice — first literal 'sons-of-God' = children-adopted-into-divine-family, second idiomatic 'sons-of-the-resurrection' = 'those-sharing-in-resurrection-quality.' Thai บุตรของพระเจ้า + บุตรแห่งการเป็นขึ้นจากตาย preserves both theological-senses. ὄντες ptc = 'being/since-they-are' → ด้วยว่าเป็น (causal-connection)."
+        }
       ],
       "notes": "HAPAX: ἰσάγγελος — only here in NT. Jesus answers the Sadducees on their own terms: since they deny angels (ACT 23:8), Jesus invokes angels to establish immortality — a double-rebuke. NOTE on Sadducee-denial: although popularly held, first-hand Josephus-testimony (Wars 2.165; Ant. 18.16) primarily emphasizes Sadducees denying after-life-of-soul rather than specifically-angels; but ACT 23:8 Lukan-testimony does include angels. THREE-FOLD IDENTITY: the resurrected-saints are (1) ἰσάγγελοι — immortal like angels; (2) υἱοὶ θεοῦ — adoptively sons of God; (3) υἱοὶ τῆς ἀναστάσεως — defined-by-their-participation-in-resurrection. The threefold-title gives the Sadducees a complete theological-framework, grounded in their own Torah-only canon (since God's sons-language + resurrection are Pentateuchal, see v.37)."
     }
@@ -655,14 +1091,30 @@
     "greek": "ὅτι δὲ ἐγείρονται οἱ νεκροὶ καὶ Μωϋσῆς ἐμήνυσεν ἐπὶ τῆς βάτου,ὡς λέγει κύριον τὸν θεὸν Ἀβραὰμ καὶ θεὸν Ἰσαὰκ καὶ θεὸν Ἰακώβ·",
     "bsb_english": "Even Moses demonstrates that the dead are raised, in the passage about the burning bush. For he calls the Lord 'the God of Abraham, the God of Isaac, and the God of Jacob.'",
     "translation": {
-      "thai": "ส่วนข้อที่ว่าคนตายจะเป็นขึ้นมา แม้แต่โมเสสเองก็ได้แสดงให้เห็นตอนเรื่องพุ่มไม้ที่ลุกไหม้ ซึ่งท่านเรียกองค์พระผู้เป็นเจ้าว่า ‹พระเจ้าของอับราฮัม พระเจ้าของอิสอัค และพระเจ้าของยาโคบ›",
+      "thai": "ส่วนข้อที่ว่าคนตายจะเป็นขึ้นมา แม้แต่โมเสสเองก็ได้แสดงให้เห็นตอนเรื่องพุ่มไม้ที่ลุกไหม้ ซึ่งท่านเรียกองค์พระผู้เป็นเจ้าว่า ‘พระเจ้าของอับราฮัม พระเจ้าของอิสอัค และพระเจ้าของยาโคบ’",
       "thai_literal": null,
-      "thai_summary": "พระเยซูทรงยกพระคัมภีร์ที่พวกสะดูสียอมรับว่ามีอำนาจ — คือเฉลยธรรมบัญญัติห้าเล่มของโมเสส — โดยเฉพาะอพยพ 3:6 ที่พระเจ้าทรงตรัสกับโมเสสที่พุ่มไม้ลุกไหม้ อาศัยเหตุผลที่เรียกว่า «argument from the tense of the verb» พระองค์ทรงชี้ว่าเมื่อพระเจ้าตรัสขณะนั้น (ประมาณ 400 ปีหลังยุคของอับราฮัม) ว่า «เราเป็นพระเจ้าของอับราฮัม» แสดงว่าอับราฮัมยังมีชีวิตอยู่ในฐานะเป็นเป้าหมายของความสัมพันธ์ — ดังนั้นจึงต้องมีการเป็นขึ้นจากตาย",
+      "thai_summary": "พระเยซูทรงยกพระคัมภีร์ที่พวกสะดูสียอมรับว่ามีอำนาจ — คือเฉลยธรรมบัญญัติห้าเล่มของโมเสส — โดยเฉพาะอพยพ 3:6 ที่พระเจ้าทรงตรัสกับโมเสสที่พุ่มไม้ลุกไหม้ อาศัยเหตุผลที่เรียกว่า “argument from the tense of the verb” พระองค์ทรงชี้ว่าเมื่อพระเจ้าตรัสขณะนั้น (ประมาณ 400 ปีหลังยุคของอับราฮัม) ว่า “เราเป็นพระเจ้าของอับราฮัม” แสดงว่าอับราฮัมยังมีชีวิตอยู่ในฐานะเป็นเป้าหมายของความสัมพันธ์ — ดังนั้นจึงต้องมีการเป็นขึ้นจากตาย",
       "key_decisions": [
-        {"greek": "ἐγείρονται οἱ νεκροὶ", "thai": "คนตายจะเป็นขึ้นมา", "rationale": "Per uW figs-activepassive + figs-nominaladj: pass 'the-dead-are-raised' = Pass-divine-agent. Thai คนตายจะเป็นขึ้นมา (active-Thai-form; implicit divine-agent)."},
-        {"greek": "καὶ Μωϋσῆς ἐμήνυσεν", "thai": "แม้แต่โมเสสเองก็ได้แสดงให้เห็น", "rationale": "καί here = 'even' for emphasis (uW figs-explicit). μηνύω 'disclose, reveal, show' — Lukan-literary word; aor 'indicated.' Thai แสดงให้เห็น (show-indicate). แม้แต่...เอง captures 'even-Moses-himself' — since Sadducees honor Moses-primarily, Jesus-cites-Moses as authoritative. Argumentum-a-fortiori."},
-        {"greek": "ἐπὶ τῆς βάτου", "thai": "ตอนเรื่องพุ่มไม้ที่ลุกไหม้", "rationale": "Per uW figs-explicit + figs-metonymy: 'at the bush' = 'in-the-passage-about-the-burning-bush' (Exod 3). Thai ตอนเรื่องพุ่มไม้ที่ลุกไหม้ matches MRK 12:26 rendering (พุ่มไม้) with added ลุกไหม้ for explicitness. βάτος = 'bramble-bush' (specific-plant); Thai พุ่มไม้ general, with ลุกไหม้ identifying which-bush."},
-        {"greek": "ὡς λέγει κύριον τὸν θεὸν Ἀβραὰμ καὶ θεὸν Ἰσαὰκ καὶ θεὸν Ἰακώβ", "thai": "ซึ่งท่านเรียกองค์พระผู้เป็นเจ้าว่า ‹พระเจ้าของอับราฮัม พระเจ้าของอิสอัค และพระเจ้าของยาโคบ›", "rationale": "Direct-citation of Exod 3:6 (LXX: ἐγώ εἰμι ὁ θεὸς τοῦ πατρός σου, θεὸς Ἀβραάμ καὶ θεὸς Ἰσαάκ καὶ θεὸς Ἰακώβ). Jesus adapts with κύριον (Lord = Yahweh). Per uW figs-verbs: pres λέγει for narrative-description. κύριος here = Yahweh → องค์พระผู้เป็นเจ้า per RULES.md §4. Matches MRK 12:26 synoptic-parallel rendering verbatim for the names. Ἀβραάμ → อับราฮัม, Ἰσαάκ → อิสอัค, Ἰακώβ → ยาโคบ (glossary-established Thai Christian transliterations)."}
+        {
+          "greek": "ἐγείρονται οἱ νεκροὶ",
+          "thai": "คนตายจะเป็นขึ้นมา",
+          "rationale": "Per uW figs-activepassive + figs-nominaladj: pass 'the-dead-are-raised' = Pass-divine-agent. Thai คนตายจะเป็นขึ้นมา (active-Thai-form; implicit divine-agent)."
+        },
+        {
+          "greek": "καὶ Μωϋσῆς ἐμήνυσεν",
+          "thai": "แม้แต่โมเสสเองก็ได้แสดงให้เห็น",
+          "rationale": "καί here = 'even' for emphasis (uW figs-explicit). μηνύω 'disclose, reveal, show' — Lukan-literary word; aor 'indicated.' Thai แสดงให้เห็น (show-indicate). แม้แต่...เอง captures 'even-Moses-himself' — since Sadducees honor Moses-primarily, Jesus-cites-Moses as authoritative. Argumentum-a-fortiori."
+        },
+        {
+          "greek": "ἐπὶ τῆς βάτου",
+          "thai": "ตอนเรื่องพุ่มไม้ที่ลุกไหม้",
+          "rationale": "Per uW figs-explicit + figs-metonymy: 'at the bush' = 'in-the-passage-about-the-burning-bush' (Exod 3). Thai ตอนเรื่องพุ่มไม้ที่ลุกไหม้ matches MRK 12:26 rendering (พุ่มไม้) with added ลุกไหม้ for explicitness. βάτος = 'bramble-bush' (specific-plant); Thai พุ่มไม้ general, with ลุกไหม้ identifying which-bush."
+        },
+        {
+          "greek": "ὡς λέγει κύριον τὸν θεὸν Ἀβραὰμ καὶ θεὸν Ἰσαὰκ καὶ θεὸν Ἰακώβ",
+          "thai": "ซึ่งท่านเรียกองค์พระผู้เป็นเจ้าว่า ‘พระเจ้าของอับราฮัม พระเจ้าของอิสอัค และพระเจ้าของยาโคบ’",
+          "rationale": "Direct-citation of Exod 3:6 (LXX: ἐγώ εἰμι ὁ θεὸς τοῦ πατρός σου, θεὸς Ἀβραάμ καὶ θεὸς Ἰσαάκ καὶ θεὸς Ἰακώβ). Jesus adapts with κύριον (Lord = Yahweh). Per uW figs-verbs: pres λέγει for narrative-description. κύριος here = Yahweh → องค์พระผู้เป็นเจ้า per RULES.md §4. Matches MRK 12:26 synoptic-parallel rendering verbatim for the names. Ἀβραάμ → อับราฮัม, Ἰσαάκ → อิสอัค, Ἰακώβ → ยาโคบ (glossary-established Thai Christian transliterations)."
+        }
       ],
       "notes": "OT CITATION: Exodus 3:6 (burning-bush theophany). Jesus' argument is grammatical-theological: God in the Exodus-present-tense says 'I AM the God of Abraham' (not 'I WAS'). Since God would not be-in-present-covenant-relationship with non-existent-beings (a relation requires living relata), the patriarchs must be alive in some sense — presupposing resurrection. Rabbinic-precedent: this type of kal-wa-homer-inference from verb-tense was a legitimate Second-Temple exegetical method (cf. Mekhilta Shemot 12:41; m. Sanhedrin 10:1). ADDED TO NT_OT_CITATIONS: LUK 20:37 citation EXO 3:6."
     }
@@ -674,12 +1126,20 @@
     "greek": "θεὸς δὲ οὐκ ἔστιν νεκρῶν ἀλλὰ ζώντων,πάντες γὰρ αὐτῷ ζῶσιν.",
     "bsb_english": "He is not the God of the dead, but of the living, for to Him all are alive.\"",
     "translation": {
-      "thai": "พระองค์ไม่ใช่พระเจ้าของคนตาย แต่เป็นพระเจ้าของคนเป็น เพราะว่าทุกคนเป็นอยู่ต่อพระองค์»",
+      "thai": "พระองค์ไม่ใช่พระเจ้าของคนตาย แต่เป็นพระเจ้าของคนเป็น เพราะว่าทุกคนเป็นอยู่ต่อพระองค์”",
       "thai_literal": null,
-      "thai_summary": "ข้อนี้เป็นคำเพิ่มเติมที่ลูกาใส่ไว้ต่างจากมาระโก 12:27 และมัทธิว 22:32 — «ทุกคนเป็นอยู่ต่อพระองค์» เป็นหลักคำสอนที่ลึกซึ้งยิ่งว่าในสายตาของพระเจ้าผู้ทรงเป็นนิรันดร์ ผู้ที่ตายแล้วก็ยังเป็นอยู่ เพราะวิญญาณของพวกเขายังคงอยู่หลังความตาย และในที่สุดจะได้กายใหม่ในวันที่เป็นขึ้นจากตาย",
+      "thai_summary": "ข้อนี้เป็นคำเพิ่มเติมที่ลูกาใส่ไว้ต่างจากมาระโก 12:27 และมัทธิว 22:32 — “ทุกคนเป็นอยู่ต่อพระองค์” เป็นหลักคำสอนที่ลึกซึ้งยิ่งว่าในสายตาของพระเจ้าผู้ทรงเป็นนิรันดร์ ผู้ที่ตายแล้วก็ยังเป็นอยู่ เพราะวิญญาณของพวกเขายังคงอยู่หลังความตาย และในที่สุดจะได้กายใหม่ในวันที่เป็นขึ้นจากตาย",
       "key_decisions": [
-        {"greek": "θεὸς δὲ οὐκ ἔστιν νεκρῶν ἀλλὰ ζώντων", "thai": "พระองค์ไม่ใช่พระเจ้าของคนตาย แต่เป็นพระเจ้าของคนเป็น", "rationale": "Per uW figs-parallelism + figs-nominaladj: exact synoptic-parallel phrasing (MRK 12:27). Thai preserves the parallelism คนตาย/คนเป็น + not-but structure."},
-        {"greek": "πάντες γὰρ αὐτῷ ζῶσιν", "thai": "เพราะว่าทุกคนเป็นอยู่ต่อพระองค์", "rationale": "Per uW figs-explicit: 'for to him all live.' Luke-distinctive addition (absent in Mark/Matthew). Theological-payoff: God's-perspective is the-referent for reality; all persons ever created continue-to-live in God's eschatological-knowledge-and-care. Thai ทุกคนเป็นอยู่ต่อพระองค์ preserves both 'to-him-as-reference-point' + 'continually-alive' (pres-tense ζῶσιν). αὐτῷ dative-of-reference = 'with-reference-to-him.'"}
+        {
+          "greek": "θεὸς δὲ οὐκ ἔστιν νεκρῶν ἀλλὰ ζώντων",
+          "thai": "พระองค์ไม่ใช่พระเจ้าของคนตาย แต่เป็นพระเจ้าของคนเป็น",
+          "rationale": "Per uW figs-parallelism + figs-nominaladj: exact synoptic-parallel phrasing (MRK 12:27). Thai preserves the parallelism คนตาย/คนเป็น + not-but structure."
+        },
+        {
+          "greek": "πάντες γὰρ αὐτῷ ζῶσιν",
+          "thai": "เพราะว่าทุกคนเป็นอยู่ต่อพระองค์",
+          "rationale": "Per uW figs-explicit: 'for to him all live.' Luke-distinctive addition (absent in Mark/Matthew). Theological-payoff: God's-perspective is the-referent for reality; all persons ever created continue-to-live in God's eschatological-knowledge-and-care. Thai ทุกคนเป็นอยู่ต่อพระองค์ preserves both 'to-him-as-reference-point' + 'continually-alive' (pres-tense ζῶσιν). αὐτῷ dative-of-reference = 'with-reference-to-him.'"
+        }
       ],
       "notes": "LUKE-DISTINCTIVE ADDITION: πάντες γὰρ αὐτῷ ζῶσιν ('for all live to him') is absent from Mark/Matthew parallels. The phrase has received multiple-interpretations: (1) general-metaphysical: to God who is beyond time, all persons ever-existent remain 'alive' in his perception; (2) intermediate-state: persons-after-death survive as conscious-souls in God's presence, awaiting bodily-resurrection; (3) covenantal: God's covenant-relationship with his people transcends their death. uW prefers (2); we leave the Thai open (เป็นอยู่ต่อพระองค์ supports both 1 and 2). This addition sharpens Luke's resurrection-apologetic."
     }
@@ -691,12 +1151,20 @@
     "greek": "ἀποκριθέντες δέ τινες τῶν γραμματέων εἶπαν·Διδάσκαλε,καλῶς εἶπας·",
     "bsb_english": "Some of the scribes answered, \"Teacher, You have spoken well!\"",
     "translation": {
-      "thai": "ธรรมาจารย์บางคนจึงทูลตอบว่า «อาจารย์เจ้าข้า ท่านตอบได้ดีแล้ว»",
+      "thai": "ธรรมาจารย์บางคนจึงทูลตอบว่า “อาจารย์เจ้าข้า ท่านตอบได้ดีแล้ว”",
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        {"greek": "ἀποκριθέντες...τινες τῶν γραμματέων εἶπαν", "thai": "ธรรมาจารย์บางคนจึงทูลตอบว่า", "rationale": "Per uW writing-participants + figs-hendiadys: 'some of the scribes answered and said' — Thai collapses to ทูลตอบ. γραμματεύς → ธรรมาจารย์ (glossary-established). These are Pharisee-aligned scribes (who affirmed resurrection), pleased that Jesus refuted the Sadducees (their rivals)."},
-        {"greek": "Διδάσκαλε,καλῶς εἶπας", "thai": "อาจารย์เจ้าข้า ท่านตอบได้ดีแล้ว", "rationale": "Διδάσκαλε standard respectful-vocative → อาจารย์เจ้าข้า. καλῶς εἶπας aor 'you-said-well' → ตอบได้ดีแล้ว (Thai-natural; preserves the performative 'well-done-answering'). Note the irony — the same scribes who will condemn Jesus in days now commend his reasoning."}
+        {
+          "greek": "ἀποκριθέντες...τινες τῶν γραμματέων εἶπαν",
+          "thai": "ธรรมาจารย์บางคนจึงทูลตอบว่า",
+          "rationale": "Per uW writing-participants + figs-hendiadys: 'some of the scribes answered and said' — Thai collapses to ทูลตอบ. γραμματεύς → ธรรมาจารย์ (glossary-established). These are Pharisee-aligned scribes (who affirmed resurrection), pleased that Jesus refuted the Sadducees (their rivals)."
+        },
+        {
+          "greek": "Διδάσκαλε,καλῶς εἶπας",
+          "thai": "อาจารย์เจ้าข้า ท่านตอบได้ดีแล้ว",
+          "rationale": "Διδάσκαλε standard respectful-vocative → อาจารย์เจ้าข้า. καλῶς εἶπας aor 'you-said-well' → ตอบได้ดีแล้ว (Thai-natural; preserves the performative 'well-done-answering'). Note the irony — the same scribes who will condemn Jesus in days now commend his reasoning."
+        }
       ],
       "notes": "STRATEGIC-COMMENDATION: the scribes here are Pharisee-aligned (the Pharisees held resurrection, angels, spirits — ACT 23:8); they applaud Jesus because his answer vindicates their theological-position against the Sadducees. But this is a tactical-alliance, not genuine-discipleship. Luke's narrative-irony: moments earlier (v.19) scribes sought to arrest Jesus; now some of them commend him — showing the inter-sectarian rivalries exploited by Jesus' teaching. The scribes' praise sets up v.40 (no-one-dared-question-further) and v.41 (Jesus's counter-offensive: David's Lord)."
     }
@@ -712,7 +1180,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        {"greek": "οὐκέτι...ἐτόλμων ἐπερωτᾶν αὐτὸν οὐδέν", "thai": "ไม่กล้าถามพระองค์ด้วยเรื่องใด ๆ อีกต่อไป", "rationale": "Per uW figs-doublenegatives + figs-explicit: double-negative οὐκέτι + οὐδέν intensifies 'no-longer-any-thing-at-all.' Thai ไม่กล้า...ด้วยเรื่องใด ๆ อีก preserves the emphatic-double-negative. τολμάω 'dare/have-courage' impf 'they-kept-daring-not.' Per uW writing-pronouns: subject 'they' is indefinite — 'Jesus' enemies' at large, not only one group."}
+        {
+          "greek": "οὐκέτι...ἐτόλμων ἐπερωτᾶν αὐτὸν οὐδέν",
+          "thai": "ไม่กล้าถามพระองค์ด้วยเรื่องใด ๆ อีกต่อไป",
+          "rationale": "Per uW figs-doublenegatives + figs-explicit: double-negative οὐκέτι + οὐδέν intensifies 'no-longer-any-thing-at-all.' Thai ไม่กล้า...ด้วยเรื่องใด ๆ อีก preserves the emphatic-double-negative. τολμάω 'dare/have-courage' impf 'they-kept-daring-not.' Per uW writing-pronouns: subject 'they' is indefinite — 'Jesus' enemies' at large, not only one group."
+        }
       ],
       "notes": "TRANSITION-VERSE. The three-rounds-of-interrogation pericope (authority vv.1-8, taxes vv.20-26, resurrection vv.27-38) closes with opposition silenced. Luke then reverses the dynamic: Jesus goes on-offense (v.41 πῶς λέγουσιν...). This structural-pivot mirrors Luke's broader pattern: Jesus always has the last word, and his counter-questions define the frame for his accusers."
     }
@@ -724,12 +1196,20 @@
     "greek": "Εἶπεν δὲ πρὸς αὐτούς·Πῶς λέγουσιν τὸν χριστὸν εἶναι Δαυὶδ υἱόν;",
     "bsb_english": "Then Jesus declared, \"How can it be said that the Christ is the Son of David?",
     "translation": {
-      "thai": "แล้วพระองค์ตรัสกับพวกเขาว่า «เหตุใดจึงกล่าวกันว่าพระคริสต์เป็นบุตรของดาวิด?",
+      "thai": "แล้วพระองค์ตรัสกับพวกเขาว่า “เหตุใดจึงกล่าวกันว่าพระคริสต์เป็นบุตรของดาวิด?",
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        {"greek": "πρὸς αὐτούς", "thai": "กับพวกเขา", "rationale": "Per uW writing-pronouns: ambiguous 'them' — may be the scribes who commended (v.39), or the broader opposition. Thai พวกเขา preserves the ambiguity."},
-        {"greek": "Πῶς λέγουσιν τὸν χριστὸν εἶναι Δαυὶδ υἱόν", "thai": "เหตุใดจึงกล่าวกันว่าพระคริสต์เป็นบุตรของดาวิด", "rationale": "Per uW figs-rquestion + writing-pronouns: 'how-do-they-say' — impersonal-plural = 'how-is-it-said.' Thai เหตุใดจึงกล่าวกันว่า (natural-Thai impersonal-'is-said'). χριστός → พระคริสต์ (RULES.md §4 non-negotiable title, not proper-name). Δαυίδ → ดาวิด (glossary-established). Per uW: question is genuine-probing, not rhetorical — Jesus invites reflection."}
+        {
+          "greek": "πρὸς αὐτούς",
+          "thai": "กับพวกเขา",
+          "rationale": "Per uW writing-pronouns: ambiguous 'them' — may be the scribes who commended (v.39), or the broader opposition. Thai พวกเขา preserves the ambiguity."
+        },
+        {
+          "greek": "Πῶς λέγουσιν τὸν χριστὸν εἶναι Δαυὶδ υἱόν",
+          "thai": "เหตุใดจึงกล่าวกันว่าพระคริสต์เป็นบุตรของดาวิด",
+          "rationale": "Per uW figs-rquestion + writing-pronouns: 'how-do-they-say' — impersonal-plural = 'how-is-it-said.' Thai เหตุใดจึงกล่าวกันว่า (natural-Thai impersonal-'is-said'). χριστός → พระคริสต์ (RULES.md §4 non-negotiable title, not proper-name). Δαυίδ → ดาวิด (glossary-established). Per uW: question is genuine-probing, not rhetorical — Jesus invites reflection."
+        }
       ],
       "notes": "MESSIANIC-QUESTION begins. Jesus' strategy: affirm messianic-Davidic-sonship (which they already hold) then show its inadequacy — the Messiah must be MORE than merely Davidic-descendant. This sets up Ps 110:1 as the key proof-text establishing pre-Davidic-Lordship. Rabbinic-tradition ALREADY interpreted Ps 110:1 messianically (cf. b. Sanhedrin 38b, b. Nedarim 32b), so Jesus appeals to consensus-interpretation to raise the deeper-point about Messiah's divine-identity."
     }
@@ -741,13 +1221,25 @@
     "greek": "αὐτὸς γὰρ Δαυὶδ λέγει ἐν βίβλῳ ψαλμῶν·Εἶπεν κύριος τῷ κυρίῳ μου·Κάθου ἐκ δεξιῶν μου",
     "bsb_english": "For David himself says in the book of Psalms: 'The Lord said to my Lord, \"Sit at My right hand",
     "translation": {
-      "thai": "ด้วยว่าดาวิดเองได้กล่าวไว้ในหนังสือสดุดีว่า ‹องค์พระผู้เป็นเจ้าตรัสกับองค์พระผู้เป็นเจ้าของข้าพเจ้าว่า จงนั่งที่ขวามือของเรา",
+      "thai": "ด้วยว่าดาวิดเองได้กล่าวไว้ในหนังสือสดุดีว่า ‘องค์พระผู้เป็นเจ้าตรัสกับองค์พระผู้เป็นเจ้าของข้าพเจ้าว่า จงนั่งที่ขวามือของเรา",
       "thai_literal": null,
-      "thai_summary": "สดุดี 110:1 เป็นพระคัมภีร์ที่ถูกอ้างอิงในพันธสัญญาใหม่บ่อยที่สุด (ประมาณ 25 ครั้ง) สะท้อนความสำคัญในคริสตวิทยา ดาวิดเขียนสดุดีนี้เพื่อถวายเกียรติ «เจ้านายของข้าพเจ้า» ซึ่งเป็นบุคคลที่ใหญ่กว่าดาวิดเอง คำถามของพระเยซูคือ — ในวัฒนธรรมยิวที่ถือว่าบรรพบุรุษใหญ่กว่าลูกหลาน อย่างไรจึงเรียกลูกหลานของตนเองว่า «เจ้านาย»? คำตอบที่พระเยซูทรงชี้โดยอ้อมคือ พระเมสสิยาห์เป็นมากกว่าลูกหลานของดาวิด พระองค์ทรงเป็นพระเจ้าที่ลงมาเกิด",
+      "thai_summary": "สดุดี 110:1 เป็นพระคัมภีร์ที่ถูกอ้างอิงในพันธสัญญาใหม่บ่อยที่สุด (ประมาณ 25 ครั้ง) สะท้อนความสำคัญในคริสตวิทยา ดาวิดเขียนสดุดีนี้เพื่อถวายเกียรติ “เจ้านายของข้าพเจ้า” ซึ่งเป็นบุคคลที่ใหญ่กว่าดาวิดเอง คำถามของพระเยซูคือ — ในวัฒนธรรมยิวที่ถือว่าบรรพบุรุษใหญ่กว่าลูกหลาน อย่างไรจึงเรียกลูกหลานของตนเองว่า “เจ้านาย”? คำตอบที่พระเยซูทรงชี้โดยอ้อมคือ พระเมสสิยาห์เป็นมากกว่าลูกหลานของดาวิด พระองค์ทรงเป็นพระเจ้าที่ลงมาเกิด",
       "key_decisions": [
-        {"greek": "αὐτὸς γὰρ Δαυὶδ λέγει", "thai": "ด้วยว่าดาวิดเองได้กล่าวไว้", "rationale": "Per uW figs-rpronouns + grammar-connect-logic-result: emphatic αὐτός 'himself.' Thai ดาวิดเอง preserves emphasis. γάρ 'for' = reason-connection → ด้วยว่า (matches MRK 12:36 synoptic-parallel connector). Pres-tense λέγει for 'says-in-writing' per uW figs-verbs (Thai ได้กล่าวไว้ preserves written-record-force)."},
-        {"greek": "ἐν βίβλῳ ψαλμῶν", "thai": "ในหนังสือสดุดี", "rationale": "βίβλος ψαλμῶν 'book-of-psalms' → หนังสือสดุดี (standard Thai Christian term for the Psalter). Specifies the OT-book-name for reader-reference."},
-        {"greek": "Εἶπεν κύριος τῷ κυρίῳ μου·Κάθου ἐκ δεξιῶν μου", "thai": "‹องค์พระผู้เป็นเจ้าตรัสกับองค์พระผู้เป็นเจ้าของข้าพเจ้าว่า จงนั่งที่ขวามือของเรา", "rationale": "Direct-LXX-citation of Ps 110:1 (LXX 109:1: εἶπεν ὁ κύριος τῷ κυρίῳ μου κάθου ἐκ δεξιῶν μου). Per uW figs-euphemism: first κύριος = YHWH (Jewish-reverent-circumlocution), second κύριος = 'my Master' (Messiah). Both rendered องค์พระผู้เป็นเจ้า per RULES.md §4 (for κύριος = YHWH-in-OT-citation). Matches MRK 12:36 + MAT 22:44 synoptic-parallel rendering of the Ps 110:1 citation. Speaker David uses human-to-divine register ข้าพเจ้า humble-before-divine-addressee per RULES.md §3."}
+        {
+          "greek": "αὐτὸς γὰρ Δαυὶδ λέγει",
+          "thai": "ด้วยว่าดาวิดเองได้กล่าวไว้",
+          "rationale": "Per uW figs-rpronouns + grammar-connect-logic-result: emphatic αὐτός 'himself.' Thai ดาวิดเอง preserves emphasis. γάρ 'for' = reason-connection → ด้วยว่า (matches MRK 12:36 synoptic-parallel connector). Pres-tense λέγει for 'says-in-writing' per uW figs-verbs (Thai ได้กล่าวไว้ preserves written-record-force)."
+        },
+        {
+          "greek": "ἐν βίβλῳ ψαλμῶν",
+          "thai": "ในหนังสือสดุดี",
+          "rationale": "βίβλος ψαλμῶν 'book-of-psalms' → หนังสือสดุดี (standard Thai Christian term for the Psalter). Specifies the OT-book-name for reader-reference."
+        },
+        {
+          "greek": "Εἶπεν κύριος τῷ κυρίῳ μου·Κάθου ἐκ δεξιῶν μου",
+          "thai": "‘องค์พระผู้เป็นเจ้าตรัสกับองค์พระผู้เป็นเจ้าของข้าพเจ้าว่า จงนั่งที่ขวามือของเรา",
+          "rationale": "Direct-LXX-citation of Ps 110:1 (LXX 109:1: εἶπεν ὁ κύριος τῷ κυρίῳ μου κάθου ἐκ δεξιῶν μου). Per uW figs-euphemism: first κύριος = YHWH (Jewish-reverent-circumlocution), second κύριος = 'my Master' (Messiah). Both rendered องค์พระผู้เป็นเจ้า per RULES.md §4 (for κύριος = YHWH-in-OT-citation). Matches MRK 12:36 + MAT 22:44 synoptic-parallel rendering of the Ps 110:1 citation. Speaker David uses human-to-divine register ข้าพเจ้า humble-before-divine-addressee per RULES.md §3."
+        }
       ],
       "notes": "OT CITATION: Psalm 110:1 (LXX 109:1) — the most-frequently-cited OT passage in NT (~25×: Matt 22:44; 26:64; Mark 12:36; 14:62; 16:19; Luke 20:42-43; 22:69; Acts 2:34-35; 5:31; 7:55-56; Rom 8:34; 1 Cor 15:25; Eph 1:20; Col 3:1; Heb 1:3, 13; 8:1; 10:12-13; 12:2; 1 Pet 3:22; Rev 3:21). Christology-foundation. ADDED TO NT_OT_CITATIONS: LUK 20:42 direct_quotation PSA 110:1a. Per RULES.md §6, verse continues in v.43."
     }
@@ -759,11 +1251,15 @@
     "greek": "ἕως ἂν θῶ τοὺς ἐχθρούς σου ὑποπόδιον τῶν ποδῶν σου.",
     "bsb_english": "until I make Your enemies a footstool for Your feet.\"'",
     "translation": {
-      "thai": "จนกว่าเราจะทำให้ศัตรูของเจ้าเป็นที่รองเท้าของเจ้า›",
+      "thai": "จนกว่าเราจะทำให้ศัตรูของเจ้าเป็นที่รองเท้าของเจ้า’",
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        {"greek": "ἕως ἂν θῶ τοὺς ἐχθρούς σου ὑποπόδιον τῶν ποδῶν σου", "thai": "จนกว่าเราจะทำให้ศัตรูของเจ้าเป็นที่รองเท้าของเจ้า", "rationale": "Per uW figs-metaphor + figs-quotesinquotes: continuation of Ps 110:1 quote. ὑποπόδιον 'footstool' (literal) — per uW note if readers unfamiliar use 'something-to-rest-feet-on.' Thai ที่รองเท้า natural for footstool/foot-rest. ἐχθροί → ศัตรู (standard). Second-person-sg σοῦ — Yahweh-to-Messiah address (God-to-Son-of-Man), uses เจ้า (permissible per RULES.md §3 for Father-to-Son intimate register) and เรา (first-person-emphatic for God-speaker)."}
+        {
+          "greek": "ἕως ἂν θῶ τοὺς ἐχθρούς σου ὑποπόδιον τῶν ποδῶν σου",
+          "thai": "จนกว่าเราจะทำให้ศัตรูของเจ้าเป็นที่รองเท้าของเจ้า",
+          "rationale": "Per uW figs-metaphor + figs-quotesinquotes: continuation of Ps 110:1 quote. ὑποπόδιον 'footstool' (literal) — per uW note if readers unfamiliar use 'something-to-rest-feet-on.' Thai ที่รองเท้า natural for footstool/foot-rest. ἐχθροί → ศัตรู (standard). Second-person-sg σοῦ — Yahweh-to-Messiah address (God-to-Son-of-Man), uses เจ้า (permissible per RULES.md §3 for Father-to-Son intimate register) and เรา (first-person-emphatic for God-speaker)."
+        }
       ],
       "notes": "PSALM 110:1 CONTINUATION. The footstool-image signifies total subjection of enemies (ancient Near Eastern royal iconography, e.g., Egyptian pharaohs depicted with feet on enemy-necks). The 'until' (ἕως ἂν) marks the enthronement-reign culminating in eschatological victory — precisely the messianic-framework Jesus' question exploits. Footstool-motif recurs in NT christology at 1 Cor 15:25, Heb 1:13, 10:13. ADDED TO NT_OT_CITATIONS: LUK 20:43 continues PSA 110:1b."
     }
@@ -775,12 +1271,20 @@
     "greek": "Δαυὶδ οὖν αὐτὸν κύριον καλεῖ,καὶ πῶς αὐτοῦ υἱός ἐστιν;",
     "bsb_english": "Thus David calls Him 'Lord.' So how can He be David's son?\"",
     "translation": {
-      "thai": "เพราะฉะนั้นดาวิดจึงเรียกท่านผู้นั้นว่าองค์พระผู้เป็นเจ้า แล้วท่านผู้นั้นจะเป็นบุตรของดาวิดได้อย่างไร?»",
+      "thai": "เพราะฉะนั้นดาวิดจึงเรียกท่านผู้นั้นว่าองค์พระผู้เป็นเจ้า แล้วท่านผู้นั้นจะเป็นบุตรของดาวิดได้อย่างไร?”",
       "thai_literal": null,
       "thai_summary": "ปริศนา (paradox) ที่พระเยซูทรงตั้งไว้ไม่ได้ปฏิเสธความเป็นบุตรของดาวิด แต่ทรงประกาศว่าพระเมสสิยาห์เป็นมากกว่านั้น — พระองค์ทรงเป็นทั้งลูกหลานของดาวิด (ในฐานะมนุษย์ที่เกิดจากสายตระกูลดาวิด) และเจ้านายของดาวิด (ในฐานะพระเจ้าผู้อยู่ก่อนดาวิด) ปริศนานี้จะคลี่คลายในภายหลัง — พระเยซูทรงเป็นพระเจ้าที่กลายเป็นมนุษย์ นี่คือหลักคำสอนเรื่องการรวมเป็นหนึ่งในพระคริสต์ (ฮีบรู 1:3, 8-13; โรม 1:3-4)",
       "key_decisions": [
-        {"greek": "Δαυὶδ οὖν αὐτὸν κύριον καλεῖ", "thai": "เพราะฉะนั้นดาวิดจึงเรียกท่านผู้นั้นว่าองค์พระผู้เป็นเจ้า", "rationale": "Per uW figs-explicit: Jesus concludes the argument. Thai เพราะฉะนั้น (therefore-emphatic). 'Him' = the Messiah (αὐτόν from v.41 context). κύριον in the Davidic-confession — capitalized in NT-tradition since it refers to Messiah-as-Lord; Thai องค์พระผู้เป็นเจ้า per RULES.md §4."},
-        {"greek": "καὶ πῶς αὐτοῦ υἱός ἐστιν", "thai": "แล้วท่านผู้นั้นจะเป็นบุตรของดาวิดได้อย่างไร", "rationale": "Per uW figs-rquestion: not mere-rhetorical-statement but genuine-puzzle-question Jesus invites reflection on. Thai preserves question-form. Per uW figs-metaphor: υἱός here = 'descendant' (not merely biological-son); Thai บุตร preserves Semitic-father/son-descent-idiom."}
+        {
+          "greek": "Δαυὶδ οὖν αὐτὸν κύριον καλεῖ",
+          "thai": "เพราะฉะนั้นดาวิดจึงเรียกท่านผู้นั้นว่าองค์พระผู้เป็นเจ้า",
+          "rationale": "Per uW figs-explicit: Jesus concludes the argument. Thai เพราะฉะนั้น (therefore-emphatic). 'Him' = the Messiah (αὐτόν from v.41 context). κύριον in the Davidic-confession — capitalized in NT-tradition since it refers to Messiah-as-Lord; Thai องค์พระผู้เป็นเจ้า per RULES.md §4."
+        },
+        {
+          "greek": "καὶ πῶς αὐτοῦ υἱός ἐστιν",
+          "thai": "แล้วท่านผู้นั้นจะเป็นบุตรของดาวิดได้อย่างไร",
+          "rationale": "Per uW figs-rquestion: not mere-rhetorical-statement but genuine-puzzle-question Jesus invites reflection on. Thai preserves question-form. Per uW figs-metaphor: υἱός here = 'descendant' (not merely biological-son); Thai บุตร preserves Semitic-father/son-descent-idiom."
+        }
       ],
       "notes": "PARADOX-RESOLUTION: the chapter-intro of uW notes this is a deliberate paradox (two apparently-incompatible statements that are both true). Jesus exposes the limitation of merely-Davidic messianism. The Messiah is indeed David's descendant (Matt 1:1, Rom 1:3) AND David's Lord (Rom 1:4). The tension resolves in Jesus' divine-incarnation — he is pre-existent-divine-Lord who became-flesh-as-David's-biological-descendant. Luke leaves the resolution unstated; the listener is invited to discover it."
     }
@@ -796,8 +1300,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        {"greek": "Ἀκούοντος δὲ παντὸς τοῦ λαοῦ", "thai": "ขณะที่ประชาชนทั้งหมดกำลังฟังอยู่", "rationale": "Per uW grammar-connect-time-sequential + figs-hyperbole: gen-abs with ongoing-pres-ptc 'while-all-the-people-were-listening.' Thai ขณะที่...กำลังฟังอยู่ (natural continuous). πᾶς ὁ λαός per uW is generalizing = 'everyone-there-present'; Thai ประชาชนทั้งหมด preserves hyperbolic-all-inclusive but reader-understood-contextual."},
-        {"greek": "εἶπεν τοῖς μαθηταῖς", "thai": "ตรัสกับบรรดาสาวกของพระองค์", "rationale": "μαθητής → สาวก (glossary-established standard Thai Christian). บรรดา captures plural-collective. Address-to-disciples-in-public-crowd-hearing is a deliberate rhetorical-device: teaching disciples but letting the crowd overhear = public-rebuke-of-scribes indirectly."}
+        {
+          "greek": "Ἀκούοντος δὲ παντὸς τοῦ λαοῦ",
+          "thai": "ขณะที่ประชาชนทั้งหมดกำลังฟังอยู่",
+          "rationale": "Per uW grammar-connect-time-sequential + figs-hyperbole: gen-abs with ongoing-pres-ptc 'while-all-the-people-were-listening.' Thai ขณะที่...กำลังฟังอยู่ (natural continuous). πᾶς ὁ λαός per uW is generalizing = 'everyone-there-present'; Thai ประชาชนทั้งหมด preserves hyperbolic-all-inclusive but reader-understood-contextual."
+        },
+        {
+          "greek": "εἶπεν τοῖς μαθηταῖς",
+          "thai": "ตรัสกับบรรดาสาวกของพระองค์",
+          "rationale": "μαθητής → สาวก (glossary-established standard Thai Christian). บรรดา captures plural-collective. Address-to-disciples-in-public-crowd-hearing is a deliberate rhetorical-device: teaching disciples but letting the crowd overhear = public-rebuke-of-scribes indirectly."
+        }
       ],
       "notes": "AUDIENCE-SHIFT TRANSITION. Jesus addresses his disciples directly, but the crowd-including-opponents hears. This is Lukan-distinctive staging (vs. Mark 12:38 introduces 'and in his teaching he said'; Matthew 23:1 'then Jesus said to the crowds and to his disciples'). Luke's version puts disciples as primary-addressees with crowd-as-overhearers — warnings-about-scribes are PEDAGOGY, not polemic, for Luke."
     }
@@ -809,15 +1321,35 @@
     "greek": "Προσέχετε ἀπὸ τῶν γραμματέων τῶν θελόντων περιπατεῖν ἐν στολαῖς καὶ φιλούντων ἀσπασμοὺς ἐν ταῖς ἀγοραῖς καὶ πρωτοκαθεδρίας ἐν ταῖς συναγωγαῖς καὶ πρωτοκλισίας ἐν τοῖς δείπνοις,",
     "bsb_english": "\"Beware of the scribes. They like to walk around in long robes, and they love the greetings in the marketplaces, the chief seats in the synagogues, and the places of honor at banquets.",
     "translation": {
-      "thai": "«จงระวังพวกธรรมาจารย์ให้ดี เพราะเขาชอบสวมเสื้อคลุมยาวเดินไปมา ชอบการคำนับในตลาด ชอบที่นั่งเอกในธรรมศาลา และชอบที่นั่งเอกในการเลี้ยง",
+      "thai": "“จงระวังพวกธรรมาจารย์ให้ดี เพราะเขาชอบสวมเสื้อคลุมยาวเดินไปมา ชอบการคำนับในตลาด ชอบที่นั่งเอกในธรรมศาลา และชอบที่นั่งเอกในการเลี้ยง",
       "thai_literal": null,
-      "thai_summary": "«เสื้อคลุมยาว» (στολή) เป็นเครื่องแต่งกายทางการที่ชาวยิวสวมในเทศกาลหรือโอกาสพิเศษ — ชนชั้นสูงและผู้นำศาสนาสวมเป็นประจำเพื่อแสดงความมีเกียรติ «ที่นั่งเอก» ในธรรมศาลาคือที่นั่งหันหน้าออกไปยังที่ประชุม ซึ่งเห็นได้ชัดจากทุกคน และในการเลี้ยงของชาวโรมัน-ยิวในยุคนั้น ที่นั่งจะจัดตามระดับเกียรติยศของแขก «ที่นั่งเอก» คือที่นั่งใกล้เจ้าภาพและเป็นตำแหน่งของเกียรติสูงสุด พระเยซูทรงเปิดเผยว่าธรรมาจารย์ใช้ศาสนาเพื่อแสวงหาเกียรติส่วนตัวจากมนุษย์ — ไม่ใช่เพื่อถวายเกียรติแด่พระเจ้า",
+      "thai_summary": "“เสื้อคลุมยาว” (στολή) เป็นเครื่องแต่งกายทางการที่ชาวยิวสวมในเทศกาลหรือโอกาสพิเศษ — ชนชั้นสูงและผู้นำศาสนาสวมเป็นประจำเพื่อแสดงความมีเกียรติ “ที่นั่งเอก” ในธรรมศาลาคือที่นั่งหันหน้าออกไปยังที่ประชุม ซึ่งเห็นได้ชัดจากทุกคน และในการเลี้ยงของชาวโรมัน-ยิวในยุคนั้น ที่นั่งจะจัดตามระดับเกียรติยศของแขก “ที่นั่งเอก” คือที่นั่งใกล้เจ้าภาพและเป็นตำแหน่งของเกียรติสูงสุด พระเยซูทรงเปิดเผยว่าธรรมาจารย์ใช้ศาสนาเพื่อแสวงหาเกียรติส่วนตัวจากมนุษย์ — ไม่ใช่เพื่อถวายเกียรติแด่พระเจ้า",
       "key_decisions": [
-        {"greek": "Προσέχετε ἀπὸ τῶν γραμματέων", "thai": "จงระวังพวกธรรมาจารย์ให้ดี", "rationale": "Per uW figs-metonymy: 'beware of...' = 'don't-follow-example-of.' Not-physically-dangerous but spiritually-contagious. Thai จงระวัง...ให้ดี captures the careful-avoidance. γραμματεύς → ธรรมาจารย์ (glossary-established). Matches MRK 12:38 synoptic-parallel rendering."},
-        {"greek": "τῶν θελόντων περιπατεῖν ἐν στολαῖς", "thai": "ชอบสวมเสื้อคลุมยาวเดินไปมา", "rationale": "Per uW translate-symaction: στολή = ceremonial-long-robe, status-symbol. περιπατέω 'walk-around' = parading-for-visibility. Thai สวมเสื้อคลุมยาวเดินไปมา (matches MRK 12:38 rendering). θέλω + inf → ชอบ (preference/delight)."},
-        {"greek": "φιλούντων ἀσπασμοὺς ἐν ταῖς ἀγοραῖς", "thai": "ชอบการคำนับในตลาด", "rationale": "Per uW figs-explicit: respectful-greetings with honorific-titles. Thai การคำนับในตลาด (matches MRK 12:38 synoptic-parallel). ἀγορά → ตลาด (glossary-established)."},
-        {"greek": "πρωτοκαθεδρίας ἐν ταῖς συναγωγαῖς", "thai": "ที่นั่งเอกในธรรมศาลา", "rationale": "Per uW figs-metaphor: πρῶτος here = 'chief/best.' συναγωγή → ธรรมศาลา (glossary-established). πρωτοκαθεδρία → ที่นั่งเอก (matches MRK 12:39 synoptic-parallel rendering; in synagogues the front-facing seats near Torah-ark reserved for elders)."},
-        {"greek": "πρωτοκλισίας ἐν τοῖς δείπνοις", "thai": "ที่นั่งเอกในการเลี้ยง", "rationale": "Per uW figs-metaphor: πρωτοκλισία 'first-reclining-place' at banquet = head-of-table near host. Thai ที่นั่งเอกในการเลี้ยง (matches MRK 12:39 synoptic-parallel). Already established at LUK 14:7-8 where Jesus taught against seeking such places."}
+        {
+          "greek": "Προσέχετε ἀπὸ τῶν γραμματέων",
+          "thai": "จงระวังพวกธรรมาจารย์ให้ดี",
+          "rationale": "Per uW figs-metonymy: 'beware of...' = 'don't-follow-example-of.' Not-physically-dangerous but spiritually-contagious. Thai จงระวัง...ให้ดี captures the careful-avoidance. γραμματεύς → ธรรมาจารย์ (glossary-established). Matches MRK 12:38 synoptic-parallel rendering."
+        },
+        {
+          "greek": "τῶν θελόντων περιπατεῖν ἐν στολαῖς",
+          "thai": "ชอบสวมเสื้อคลุมยาวเดินไปมา",
+          "rationale": "Per uW translate-symaction: στολή = ceremonial-long-robe, status-symbol. περιπατέω 'walk-around' = parading-for-visibility. Thai สวมเสื้อคลุมยาวเดินไปมา (matches MRK 12:38 rendering). θέλω + inf → ชอบ (preference/delight)."
+        },
+        {
+          "greek": "φιλούντων ἀσπασμοὺς ἐν ταῖς ἀγοραῖς",
+          "thai": "ชอบการคำนับในตลาด",
+          "rationale": "Per uW figs-explicit: respectful-greetings with honorific-titles. Thai การคำนับในตลาด (matches MRK 12:38 synoptic-parallel). ἀγορά → ตลาด (glossary-established)."
+        },
+        {
+          "greek": "πρωτοκαθεδρίας ἐν ταῖς συναγωγαῖς",
+          "thai": "ที่นั่งเอกในธรรมศาลา",
+          "rationale": "Per uW figs-metaphor: πρῶτος here = 'chief/best.' συναγωγή → ธรรมศาลา (glossary-established). πρωτοκαθεδρία → ที่นั่งเอก (matches MRK 12:39 synoptic-parallel rendering; in synagogues the front-facing seats near Torah-ark reserved for elders)."
+        },
+        {
+          "greek": "πρωτοκλισίας ἐν τοῖς δείπνοις",
+          "thai": "ที่นั่งเอกในการเลี้ยง",
+          "rationale": "Per uW figs-metaphor: πρωτοκλισία 'first-reclining-place' at banquet = head-of-table near host. Thai ที่นั่งเอกในการเลี้ยง (matches MRK 12:39 synoptic-parallel). Already established at LUK 14:7-8 where Jesus taught against seeking such places."
+        }
       ],
       "notes": "FOUR-VICE-CATALOG: Jesus names four specific displays of pride: (1) ostentatious dress; (2) public flattery-seeking; (3) religious-front-seats; (4) social-honor-seats. Each is a manifestation of using religion for ego-elevation. Luke's version matches Mark 12:38-39 closely; Matt 23 expands to seven-woes. The four items progress from visual-dress to public-status-markers to religious-authority to social-hierarchy — a complete inventory of performative piety. Consistency-check: Luke 11:43 previously warned of the same behaviors (οὐαὶ ὑμῖν τοῖς Φαρισαίοις, ὅτι ἀγαπᾶτε τὴν πρωτοκαθεδρίαν ἐν ταῖς συναγωγαῖς)."
     }
@@ -829,13 +1361,25 @@
     "greek": "οἳ κατεσθίουσιν τὰς οἰκίας τῶν χηρῶν καὶ προφάσει μακρὰ προσεύχονται·οὗτοι λήμψονται περισσότερον κρίμα.",
     "bsb_english": "They defraud widows of their houses, and for a show make lengthy prayers. These men will receive greater condemnation.\"",
     "translation": {
-      "thai": "เขาเป็นผู้กลืนเรือนของหญิงม่าย และอธิษฐานยืดยาวเพื่อบังหน้า คนเหล่านี้จะได้รับโทษหนักยิ่งกว่า»",
+      "thai": "เขาเป็นผู้กลืนเรือนของหญิงม่าย และอธิษฐานยืดยาวเพื่อบังหน้า คนเหล่านี้จะได้รับโทษหนักยิ่งกว่า”",
       "thai_literal": null,
       "thai_summary": "ในยุคนั้น หญิงม่ายที่ไม่มีลูกชายเลี้ยงดูจะต้องพึ่งที่ปรึกษาทางกฎหมาย และธรรมาจารย์บางคนอาจเข้ามาจัดการมรดกของหญิงม่ายโดยคิดค่าธรรมเนียมสูงเกินควร หรือหลอกเอาทรัพย์สินของเธอ — โดยอ้างชื่อของความเป็นผู้นำศาสนาเป็นเครื่องมือแสวงหาประโยชน์ พระเยซูทรงเห็นความขัดแย้งชัดเจนระหว่างการอธิษฐานยาวต่อสาธารณะกับการทำร้ายหญิงม่ายที่อ่อนแอในทางเศรษฐกิจ — นี่เป็นการใช้ศาสนาเป็นเครื่องอำพรางความโลภ ดังนั้นโทษของคนเหล่านี้จึงหนักเป็นพิเศษ เพราะเขาใช้สิ่งศักดิ์สิทธิ์ปกปิดการกระทำที่ชั่วร้าย",
       "key_decisions": [
-        {"greek": "οἳ κατεσθίουσιν τὰς οἰκίας τῶν χηρῶν", "thai": "เขาเป็นผู้กลืนเรือนของหญิงม่าย", "rationale": "Per uW figs-metonymy + figs-metaphor: κατεσθίω 'devour, eat-up-completely' → กลืน (preserves the consumptive-imagery). οἰκίας here metonymy for widows' wealth/possessions. χήρα → หญิงม่าย (glossary-established). Thai เรือนของหญิงม่าย preserves the Greek metonymy-literal (houses-standing-for-property) so the reader encounters the same Semitic-metaphor; matches MRK 12:40 synoptic-parallel rendering verbatim."},
-        {"greek": "προφάσει μακρὰ προσεύχονται", "thai": "อธิษฐานยืดยาวเพื่อบังหน้า", "rationale": "Per uW: πρόφασις 'pretext, pretense' = to-appear-a-certain-way. Thai เพื่อบังหน้า (Thai-natural 'as a façade/cover'). μακρὰ προσεύχονται 'pray-at-length' → อธิษฐานยืดยาว (matches MRK 12:40 synoptic-parallel rendering verbatim). Adverbial-dat προφάσει."},
-        {"greek": "οὗτοι λήμψονται περισσότερον κρίμα", "thai": "คนเหล่านี้จะได้รับโทษหนักยิ่งกว่า", "rationale": "Per uW figs-metonymy + figs-explicit: κρίμα 'condemnation' → the-resulting-punishment-after-being-condemned. περισσότερον comparative 'greater' (than what would-have-been without the religious-pretense). Thai โทษหนักยิ่งกว่า (matches MRK 12:40 synoptic-parallel rendering verbatim). Divine-agent implied (God-as-judge)."}
+        {
+          "greek": "οἳ κατεσθίουσιν τὰς οἰκίας τῶν χηρῶν",
+          "thai": "เขาเป็นผู้กลืนเรือนของหญิงม่าย",
+          "rationale": "Per uW figs-metonymy + figs-metaphor: κατεσθίω 'devour, eat-up-completely' → กลืน (preserves the consumptive-imagery). οἰκίας here metonymy for widows' wealth/possessions. χήρα → หญิงม่าย (glossary-established). Thai เรือนของหญิงม่าย preserves the Greek metonymy-literal (houses-standing-for-property) so the reader encounters the same Semitic-metaphor; matches MRK 12:40 synoptic-parallel rendering verbatim."
+        },
+        {
+          "greek": "προφάσει μακρὰ προσεύχονται",
+          "thai": "อธิษฐานยืดยาวเพื่อบังหน้า",
+          "rationale": "Per uW: πρόφασις 'pretext, pretense' = to-appear-a-certain-way. Thai เพื่อบังหน้า (Thai-natural 'as a façade/cover'). μακρὰ προσεύχονται 'pray-at-length' → อธิษฐานยืดยาว (matches MRK 12:40 synoptic-parallel rendering verbatim). Adverbial-dat προφάσει."
+        },
+        {
+          "greek": "οὗτοι λήμψονται περισσότερον κρίμα",
+          "thai": "คนเหล่านี้จะได้รับโทษหนักยิ่งกว่า",
+          "rationale": "Per uW figs-metonymy + figs-explicit: κρίμα 'condemnation' → the-resulting-punishment-after-being-condemned. περισσότερον comparative 'greater' (than what would-have-been without the religious-pretense). Thai โทษหนักยิ่งกว่า (matches MRK 12:40 synoptic-parallel rendering verbatim). Divine-agent implied (God-as-judge)."
+        }
       ],
       "notes": "ECONOMIC-EXPLOITATION THEMATIC: the scribes 'devour widows' houses' while performing piety — a Luke-recurrent concern (widows appear at LUK 2:37, 4:25-26, 7:12, 18:3-5, 21:2-3). The immediate-next scene (LUK 21:1-4) shows a poor-widow giving all she has — exactly the person being exploited by the religious-leaders. Luke's narrative-juxtaposition of vv.46-47 with 21:1-4 is deliberate: the poor-widow's two-lepta exemplifies the faithful-remnant while the wealthy-scribes defraud her peers. GREATER-CONDEMNATION-LOGIC: religious pretense compounds judgment because it co-opts God's name to do evil (cf. JAS 3:1 for teachers receiving stricter judgment). Chapter closes on this grim indictment — transitioning to temple-destruction prophecy in ch. 21."
     }

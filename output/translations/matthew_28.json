@@ -8,12 +8,28 @@
     "translation": {
       "thai": "เมื่อวันสะบาโตล่วงไปแล้ว ในเวลาย่ำรุ่งของวันต้นสัปดาห์ มารีย์ชาวมักดาลาและมารีย์อีกคนหนึ่งได้มาดูอุโมงค์ฝังศพ",
       "thai_literal": null,
-      "thai_summary": "สตรีสองคนนี้คือผู้ที่เฝ้าดูการฝังศพในบทที่ 27:61 และมาดูอุโมงค์เดียวกันซึ่งถูกผนึกด้วยตรา มีทหารเฝ้าอยู่ «วันต้นสัปดาห์» (มีอาน ซับบาตอน) คือวันอาทิตย์ตามที่มาระโก 16:2 และลูกา 24:1 ยืนยัน",
+      "thai_summary": "สตรีสองคนนี้คือผู้ที่เฝ้าดูการฝังศพในบทที่ 27:61 และมาดูอุโมงค์เดียวกันซึ่งถูกผนึกด้วยตรา มีทหารเฝ้าอยู่ “วันต้นสัปดาห์” (มีอาน ซับบาตอน) คือวันอาทิตย์ตามที่มาระโก 16:2 และลูกา 24:1 ยืนยัน",
       "key_decisions": [
-        {"greek": "Ὀψὲ δὲ σαββάτων", "thai": "เมื่อวันสะบาโตล่วงไปแล้ว", "rationale": "Ὀψέ (NT freq 4) + gen. σαββάτων = 'late of/after the Sabbath.' Per uW FRONT translation-issue: ambiguous between 'late-Saturday-into-dusk' and 'after-the-Sabbath-ended.' Following uW recommendation (option 1) and synoptic parallels (Mark 16:1 διαγενομένου τοῦ σαββάτου = 'when Sabbath had passed'), Thai ล่วงไปแล้ว = 'had passed/elapsed.' σάββατον → วันสะบาโต per established glossary"},
-        {"greek": "τῇ ἐπιφωσκούσῃ εἰς μίαν σαββάτων", "thai": "ในเวลาย่ำรุ่งของวันต้นสัปดาห์", "rationale": "ἐπιφώσκω (NT freq 2, only here + Luke 23:54) = 'to dawn / grow toward dawn.' Per uW figs-explicit: early Sunday morning. τῇ μιᾷ τῶν σαββάτων is Hebraic calque 'day-one of the week' — matches Mark 16:2 glossary rendering วันต้นสัปดาห์. Thai ย่ำรุ่ง = dawn/first-light, preserves the early-morning sense"},
-        {"greek": "ἦλθεν...Μαριὰμ ἡ Μαγδαληνὴ καὶ ἡ ἄλλη Μαρία", "thai": "มารีย์ชาวมักดาลาและมารีย์อีกคนหนึ่งได้มา", "rationale": "Singular ἦλθεν with compound subject is standard Koine syllepsis (verb agrees with nearer subject). Thai renders as implicit plural. Μαριὰμ (Hebraic form here, vs Μαρία at 27:56). 'The other Mary' = Mary mother of James and Joseph (27:56) — same pair kept vigil at tomb in 27:61. Established glossary: มารีย์ชาวมักดาลาและมารีย์อีกคนหนึ่ง (27:61)"},
-        {"greek": "θεωρῆσαι τὸν τάφον", "thai": "มาดูอุโมงค์ฝังศพ", "rationale": "θεωρέω = 'to gaze at, inspect' — stronger than simple 'see.' τάφος established in MAT 27:61, 27:64, 27:66 as อุโมงค์ฝังศพ. Matthew (unlike Mark 16:1) does not say the women came to anoint the body — the tomb was sealed and guarded (27:62-66); they could only come to watch/contemplate"}
+        {
+          "greek": "Ὀψὲ δὲ σαββάτων",
+          "thai": "เมื่อวันสะบาโตล่วงไปแล้ว",
+          "rationale": "Ὀψέ (NT freq 4) + gen. σαββάτων = 'late of/after the Sabbath.' Per uW FRONT translation-issue: ambiguous between 'late-Saturday-into-dusk' and 'after-the-Sabbath-ended.' Following uW recommendation (option 1) and synoptic parallels (Mark 16:1 διαγενομένου τοῦ σαββάτου = 'when Sabbath had passed'), Thai ล่วงไปแล้ว = 'had passed/elapsed.' σάββατον → วันสะบาโต per established glossary"
+        },
+        {
+          "greek": "τῇ ἐπιφωσκούσῃ εἰς μίαν σαββάτων",
+          "thai": "ในเวลาย่ำรุ่งของวันต้นสัปดาห์",
+          "rationale": "ἐπιφώσκω (NT freq 2, only here + Luke 23:54) = 'to dawn / grow toward dawn.' Per uW figs-explicit: early Sunday morning. τῇ μιᾷ τῶν σαββάτων is Hebraic calque 'day-one of the week' — matches Mark 16:2 glossary rendering วันต้นสัปดาห์. Thai ย่ำรุ่ง = dawn/first-light, preserves the early-morning sense"
+        },
+        {
+          "greek": "ἦλθεν...Μαριὰμ ἡ Μαγδαληνὴ καὶ ἡ ἄλλη Μαρία",
+          "thai": "มารีย์ชาวมักดาลาและมารีย์อีกคนหนึ่งได้มา",
+          "rationale": "Singular ἦλθεν with compound subject is standard Koine syllepsis (verb agrees with nearer subject). Thai renders as implicit plural. Μαριὰμ (Hebraic form here, vs Μαρία at 27:56). 'The other Mary' = Mary mother of James and Joseph (27:56) — same pair kept vigil at tomb in 27:61. Established glossary: มารีย์ชาวมักดาลาและมารีย์อีกคนหนึ่ง (27:61)"
+        },
+        {
+          "greek": "θεωρῆσαι τὸν τάφον",
+          "thai": "มาดูอุโมงค์ฝังศพ",
+          "rationale": "θεωρέω = 'to gaze at, inspect' — stronger than simple 'see.' τάφος established in MAT 27:61, 27:64, 27:66 as อุโมงค์ฝังศพ. Matthew (unlike Mark 16:1) does not say the women came to anoint the body — the tomb was sealed and guarded (27:62-66); they could only come to watch/contemplate"
+        }
       ],
       "notes": "Matthew's opening of the resurrection scene deliberately ties back to 27:61 (same two Marys, same tomb). The silent all-night vigil of these women — from Friday dusk (27:55-56, 61) through Saturday — is the narrative bridge across the Sabbath. Matthew alone notes they came θεωρῆσαι ('to gaze/inspect') rather than to anoint (contrast Mark 16:1, Luke 24:1); they knew the tomb was sealed. The dual-meaning of Ὀψὲ σαββάτων creates interpretive option: either (a) early Sunday morning, or (b) late Saturday at sunset-which-begins-Sunday in Jewish reckoning. We follow option (a) per uW FRONT and synoptic parallel convergence."
     }
@@ -29,12 +45,36 @@
       "thai_literal": null,
       "thai_summary": "ทูตสวรรค์ไม่ได้กลิ้งหินออกเพื่อปล่อยพระเยซู — พระองค์ทรงเป็นขึ้นมาแล้วก่อนหน้านี้ (ข้อ 6) หินถูกกลิ้งออกเพื่อให้พยานเข้ามาเห็นอุโมงค์ว่าง แผ่นดินไหวเป็นสัญญาณของการประทับของพระเจ้าในพระคัมภีร์เดิม (อพยพ 19:18 ภูเขาซีนาย อิสยาห์ 29:6) มัทธิวเป็นผู้เดียวที่บันทึกทั้งแผ่นดินไหวและทูตสวรรค์ในการเป็นขึ้นมา",
       "key_decisions": [
-        {"greek": "καὶ ἰδοὺ", "thai": "และดูเถิด", "rationale": "Matthean signature formula — attention-grabbing opener. Consistent throughout MAT (cf. 1:20, 2:13, 3:16, 27:51 preceding resurrection earthquake-parallel). Thai ดูเถิด captures the 'behold' attention-call"},
-        {"greek": "σεισμὸς...μέγας", "thai": "แผ่นดินไหวครั้งใหญ่", "rationale": "σεισμός = earthquake. Matthew uniquely pairs this with the resurrection (cf. σεισμός also at 27:51 at the moment of Jesus's death — inclusio around the cross). Standard Thai แผ่นดินไหว"},
-        {"greek": "ἄγγελος...κυρίου", "thai": "ทูตสวรรค์ขององค์พระผู้เป็นเจ้า", "rationale": "Established Matthean glossary (1:20, 1:24, 2:13, 2:19). LXX-calque for מלאך יהוה. κύριος here = YHWH per RULES.md §4 OT-calque rule → องค์พระผู้เป็นเจ้า"},
-        {"greek": "καταβὰς ἐξ οὐρανοῦ", "thai": "เสด็จลงมาจากฟ้าสวรรค์", "rationale": "καταβαίνω aor.act.ptc. Royal verb เสด็จ per RULES.md §3 for divine/divinely-commissioned subject. Angels of the Lord receive royal register throughout Matthew. ἐξ οὐρανοῦ → จากฟ้าสวรรค์ (consistent with MAT glossary; οὐρανός single = 'heaven' — Matthew elsewhere pluralizes 'heavens' for the kingdom-phrase, but singular here for simple source)"},
-        {"greek": "ἀπεκύλισε τὸν λίθον", "thai": "กลิ้งหินออก", "rationale": "ἀποκυλίω (NT freq 4, always in resurrection accounts: Matt 28:2, Mark 16:3-4, Luke 24:2). Sets up the massive-stone from 27:60. Mark 16:3-4 parallel uses same verb; Mark 16 translates กลิ้ง...ออก. Consistent rendering"},
-        {"greek": "ἐκάθητο ἐπάνω αὐτοῦ", "thai": "นั่งอยู่บนหินนั้น", "rationale": "Imperfect ἐκάθητο = continuing posture. The angel's sitting-on-the-stone is a posture of triumph/declaration — the removed barrier becomes a throne. Thai นั่งอยู่บนหินนั้น straightforward"}
+        {
+          "greek": "καὶ ἰδοὺ",
+          "thai": "และดูเถิด",
+          "rationale": "Matthean signature formula — attention-grabbing opener. Consistent throughout MAT (cf. 1:20, 2:13, 3:16, 27:51 preceding resurrection earthquake-parallel). Thai ดูเถิด captures the 'behold' attention-call"
+        },
+        {
+          "greek": "σεισμὸς...μέγας",
+          "thai": "แผ่นดินไหวครั้งใหญ่",
+          "rationale": "σεισμός = earthquake. Matthew uniquely pairs this with the resurrection (cf. σεισμός also at 27:51 at the moment of Jesus's death — inclusio around the cross). Standard Thai แผ่นดินไหว"
+        },
+        {
+          "greek": "ἄγγελος...κυρίου",
+          "thai": "ทูตสวรรค์ขององค์พระผู้เป็นเจ้า",
+          "rationale": "Established Matthean glossary (1:20, 1:24, 2:13, 2:19). LXX-calque for מלאך יהוה. κύριος here = YHWH per RULES.md §4 OT-calque rule → องค์พระผู้เป็นเจ้า"
+        },
+        {
+          "greek": "καταβὰς ἐξ οὐρανοῦ",
+          "thai": "เสด็จลงมาจากฟ้าสวรรค์",
+          "rationale": "καταβαίνω aor.act.ptc. Royal verb เสด็จ per RULES.md §3 for divine/divinely-commissioned subject. Angels of the Lord receive royal register throughout Matthew. ἐξ οὐρανοῦ → จากฟ้าสวรรค์ (consistent with MAT glossary; οὐρανός single = 'heaven' — Matthew elsewhere pluralizes 'heavens' for the kingdom-phrase, but singular here for simple source)"
+        },
+        {
+          "greek": "ἀπεκύλισε τὸν λίθον",
+          "thai": "กลิ้งหินออก",
+          "rationale": "ἀποκυλίω (NT freq 4, always in resurrection accounts: Matt 28:2, Mark 16:3-4, Luke 24:2). Sets up the massive-stone from 27:60. Mark 16:3-4 parallel uses same verb; Mark 16 translates กลิ้ง...ออก. Consistent rendering"
+        },
+        {
+          "greek": "ἐκάθητο ἐπάνω αὐτοῦ",
+          "thai": "นั่งอยู่บนหินนั้น",
+          "rationale": "Imperfect ἐκάθητο = continuing posture. The angel's sitting-on-the-stone is a posture of triumph/declaration — the removed barrier becomes a throne. Thai นั่งอยู่บนหินนั้น straightforward"
+        }
       ],
       "notes": "Matthew is the only Gospel to narrate (a) the earthquake at the resurrection and (b) the angel actively rolling away the stone in the women's presence. The other Gospels present the stone already rolled when the women arrive. Matthew's narrative sequence makes the resurrection a cosmic-public event: seismic disturbance + angelic descent + stone-rolling. The earthquake forms inclusio with 27:51 (earthquake at Jesus's death), framing the cross-and-resurrection as a single apocalyptic moment of cosmic realignment. Theologically critical: the stone is rolled for the witnesses, not for Jesus — the resurrection itself (v.6 ἠγέρθη) has already happened by the time the angel arrives. OT resonance with theophanic earthquakes: Exod 19:18 (Sinai), Judg 5:4, Ps 68:8, Isa 29:6 — the God who shakes earth is active here."
     }
@@ -50,9 +90,21 @@
       "thai_literal": null,
       "thai_summary": "คำบรรยายสายฟ้าแลบและเสื้อขาวราวหิมะสะท้อนภาพนิมิตในดาเนียล 7:9 (ผู้ทรงพระชนม์อยู่ตั้งแต่ดึกดำบรรพ์ ฉลองพระองค์ขาวเหมือนหิมะ) และดาเนียล 10:6 (หน้าดั่งสายฟ้าแลบ) เป็นภาพทั่วไปของการปรากฏของสิ่งศักดิ์สิทธิ์ในพระคัมภีร์เดิม",
       "key_decisions": [
-        {"greek": "εἰδέα", "thai": "ลักษณะ", "rationale": "HAPAX in NT (εἰδέα occurs only here). From ἰδεῖν 'to see' — 'appearance, visible form.' Cognate with classical idea/form concept. Thai ลักษณะ captures the 'visible appearance' sense without importing philosophical baggage"},
-        {"greek": "ἀστραπὴ", "thai": "สายฟ้าแลบ", "rationale": "ἀστραπή = lightning / flash. Standard Thai สายฟ้าแลบ (lightning-flash). Theophanic imagery — cf. Dan 10:6 'his face like the appearance of lightning'"},
-        {"greek": "τὸ ἔνδυμα αὐτοῦ λευκὸν ὡς χιών", "thai": "เสื้อผ้าของท่านขาวราวกับหิมะ", "rationale": "χιών (NT freq 2, here + Rev 1:14) = snow. Per uW translate-unknown: snow may be unfamiliar to some audiences, but Thai readers understand หิมะ (northern mountain contexts + cultural-global knowledge). Echoes Dan 7:9 LXX (τὸ ἔνδυμα αὐτοῦ ὡσεὶ χιὼν λευκόν) — the Ancient of Days vision. Thai ราวกับ = 'just as / like' — preserves the simile"}
+        {
+          "greek": "εἰδέα",
+          "thai": "ลักษณะ",
+          "rationale": "HAPAX in NT (εἰδέα occurs only here). From ἰδεῖν 'to see' — 'appearance, visible form.' Cognate with classical idea/form concept. Thai ลักษณะ captures the 'visible appearance' sense without importing philosophical baggage"
+        },
+        {
+          "greek": "ἀστραπὴ",
+          "thai": "สายฟ้าแลบ",
+          "rationale": "ἀστραπή = lightning / flash. Standard Thai สายฟ้าแลบ (lightning-flash). Theophanic imagery — cf. Dan 10:6 'his face like the appearance of lightning'"
+        },
+        {
+          "greek": "τὸ ἔνδυμα αὐτοῦ λευκὸν ὡς χιών",
+          "thai": "เสื้อผ้าของท่านขาวราวกับหิมะ",
+          "rationale": "χιών (NT freq 2, here + Rev 1:14) = snow. Per uW translate-unknown: snow may be unfamiliar to some audiences, but Thai readers understand หิมะ (northern mountain contexts + cultural-global knowledge). Echoes Dan 7:9 LXX (τὸ ἔνδυμα αὐτοῦ ὡσεὶ χιὼν λευκόν) — the Ancient of Days vision. Thai ราวกับ = 'just as / like' — preserves the simile"
+        }
       ],
       "notes": "NT HAPAX: εἰδέα ('appearance') occurs only here in the NT. MAJOR OT ALLUSION: the lightning-appearance and snow-white clothing combines two Danielic theophany images: (a) Dan 7:9 LXX — the Ancient of Days' throne-vision, 'his clothing was white as snow' (τὸ ἔνδυμα αὐτοῦ ὡσεὶ χιὼν λευκόν), describing divine sovereignty; (b) Dan 10:6 — Daniel's vision of a heavenly figure whose 'face was like the appearance of lightning.' Matthew draws the angel in Daniel's theophanic color-palette, marking this messenger as drawn from the same cosmic-sovereignty register as the resurrection he announces. ADDED TO NT_OT_CITATIONS: MAT 28:3 allusion to DAN 7:9 + DAN 10:6 (theophanic imagery). The same color-imagery also recurs at the Transfiguration (17:2 — 'his garments became white as the light')."
     }
@@ -68,9 +120,21 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        {"greek": "ἀπὸ τοῦ φόβου αὐτοῦ", "thai": "เพราะความกลัวทูตสวรรค์นั้น", "rationale": "ἀπό + gen = causal 'from/because of' per uW figs-abstractnouns. αὐτοῦ objective genitive = 'fear of him' (fear whose object is the angel). Thai เพราะความกลัว...นั้น preserves the causal relation"},
-        {"greek": "ἐσείσθησαν οἱ τηροῦντες", "thai": "พวกทหารที่รักษาการณ์อยู่ก็ตัวสั่น", "rationale": "Aorist passive of σείω (same root as σεισμός v.2) = 'were shaken / trembled.' Wordplay: the earthquake shook the earth (σεισμός), now fear shakes the guards (ἐσείσθησαν). Per uW figs-explicit: οἱ τηροῦντες = the Roman guards posted at 27:66. พวกทหารที่รักษาการณ์ consistent with กองทหารรักษาการณ์ glossary from 27:65-66"},
-        {"greek": "ἐγενήθησαν ὡς νεκροί", "thai": "กลายเป็นเหมือนคนตาย", "rationale": "Per uW figs-simile: not literally dead but motionless from terror — fainted/paralyzed. νεκροί plural nominal = 'dead people.' Thai คนตาย = dead persons. Ironic: they were stationed to prevent a fake resurrection, but the real one renders them death-like"}
+        {
+          "greek": "ἀπὸ τοῦ φόβου αὐτοῦ",
+          "thai": "เพราะความกลัวทูตสวรรค์นั้น",
+          "rationale": "ἀπό + gen = causal 'from/because of' per uW figs-abstractnouns. αὐτοῦ objective genitive = 'fear of him' (fear whose object is the angel). Thai เพราะความกลัว...นั้น preserves the causal relation"
+        },
+        {
+          "greek": "ἐσείσθησαν οἱ τηροῦντες",
+          "thai": "พวกทหารที่รักษาการณ์อยู่ก็ตัวสั่น",
+          "rationale": "Aorist passive of σείω (same root as σεισμός v.2) = 'were shaken / trembled.' Wordplay: the earthquake shook the earth (σεισμός), now fear shakes the guards (ἐσείσθησαν). Per uW figs-explicit: οἱ τηροῦντες = the Roman guards posted at 27:66. พวกทหารที่รักษาการณ์ consistent with กองทหารรักษาการณ์ glossary from 27:65-66"
+        },
+        {
+          "greek": "ἐγενήθησαν ὡς νεκροί",
+          "thai": "กลายเป็นเหมือนคนตาย",
+          "rationale": "Per uW figs-simile: not literally dead but motionless from terror — fainted/paralyzed. νεκροί plural nominal = 'dead people.' Thai คนตาย = dead persons. Ironic: they were stationed to prevent a fake resurrection, but the real one renders them death-like"
+        }
       ],
       "notes": "Sharp Matthean irony: the guards posted to prevent disciple-theft and guarantee Jesus stays dead become themselves 'like dead men' at the moment of the resurrection. The verbal echo σεισμός (v.2) → ἐσείσθησαν (v.4) links cosmic-earthquake and human-fear-trembling. This same detail (guards' terror) is what the chief priests will later bribe them to conceal (28:11-15). The guards' experience — they saw the angel, they saw the stone roll, they fell senseless — is narratively decisive: the resurrection had eyewitnesses other than the disciples, and those witnesses were official Roman personnel hostile to the Jesus-movement."
     }
@@ -82,15 +146,35 @@
     "greek": "ἀποκριθεὶς δὲ ὁ ἄγγελος εἶπεν ταῖς γυναιξίν·Μὴ φοβεῖσθε ὑμεῖς,οἶδα γὰρ ὅτι Ἰησοῦν τὸν ἐσταυρωμένον ζητεῖτε·",
     "bsb_english": "But the angel said to the women, “Do not be afraid, for I know that you are looking for Jesus, who was crucified.",
     "translation": {
-      "thai": "แต่ทูตสวรรค์นั้นกล่าวแก่พวกผู้หญิงว่า «พวกท่านอย่ากลัวเลย เพราะเรารู้ว่าพวกท่านกำลังหาพระเยซูผู้ถูกตรึงที่กางเขนอยู่",
+      "thai": "แต่ทูตสวรรค์นั้นกล่าวแก่พวกผู้หญิงว่า “พวกท่านอย่ากลัวเลย เพราะเรารู้ว่าพวกท่านกำลังหาพระเยซูผู้ถูกตรึงที่กางเขนอยู่",
       "thai_literal": null,
-      "thai_summary": "สรรพนาม «พวกท่าน» (ฮูเมอิส) ในต้นฉบับเป็นรูปเน้น — ตรงข้ามกับพวกทหารที่ตกใจกลัว ทูตสวรรค์แยกแยะอย่างชัดเจนระหว่างผู้หญิงที่มาด้วยความรักกับทหารที่มาด้วยการรักษาการณ์ — คนกลุ่มแรกได้ยินข่าวดี คนกลุ่มหลังกลายเป็นเหมือนศพ",
+      "thai_summary": "สรรพนาม “พวกท่าน” (ฮูเมอิส) ในต้นฉบับเป็นรูปเน้น — ตรงข้ามกับพวกทหารที่ตกใจกลัว ทูตสวรรค์แยกแยะอย่างชัดเจนระหว่างผู้หญิงที่มาด้วยความรักกับทหารที่มาด้วยการรักษาการณ์ — คนกลุ่มแรกได้ยินข่าวดี คนกลุ่มหลังกลายเป็นเหมือนศพ",
       "key_decisions": [
-        {"greek": "ἀποκριθεὶς", "thai": "กล่าวแก่", "rationale": "Per uW figs-explicit: the angel 'answers' the situation, not a specific question. This is LXX-style idiom (cf. Hebrew ענה = 'respond/speak up in response to'). Thai กล่าวแก่ is natural — avoids forcing 'answered' which implies a prior question"},
-        {"greek": "ταῖς γυναιξίν", "thai": "พวกผู้หญิง", "rationale": "Per uW figs-explicit: refers to the two Marys from v.1. γυνή plural = women. Thai ผู้หญิง (neutral, not ภรรยา 'wife'). Consistent with MAT 27:55 form"},
-        {"greek": "Μὴ φοβεῖσθε ὑμεῖς", "thai": "พวกท่านอย่ากลัวเลย", "rationale": "Emphatic ὑμεῖς — distinguishes the women from the guards who had good reason to fear. Per uW: all 'you' in this chapter are plural. Thai พวกท่าน (plural, respectful). อย่ากลัวเลย is the standard formula (cf. MAT 1:20, 14:27)"},
-        {"greek": "Ἰησοῦν τὸν ἐσταυρωμένον", "thai": "พระเยซูผู้ถูกตรึงที่กางเขน", "rationale": "Perfect passive participle — 'the-one-having-been-crucified' as enduring identity. Per uW figs-activepassive: implied agent is Pilate's soldiers. The perfect tense is significant — the crucifixion-identity is preserved even post-resurrection. Same construction as 1 Cor 2:2, Gal 3:1. Thai ผู้ถูกตรึงที่กางเขน preserves the perfect-passive enduring-state"},
-        {"greek": "ζητεῖτε", "thai": "กำลังหา...อยู่", "rationale": "Present continuous. The women's seeking is ongoing. Thai กำลัง...อยู่ preserves the present-progressive"}
+        {
+          "greek": "ἀποκριθεὶς",
+          "thai": "กล่าวแก่",
+          "rationale": "Per uW figs-explicit: the angel 'answers' the situation, not a specific question. This is LXX-style idiom (cf. Hebrew ענה = 'respond/speak up in response to'). Thai กล่าวแก่ is natural — avoids forcing 'answered' which implies a prior question"
+        },
+        {
+          "greek": "ταῖς γυναιξίν",
+          "thai": "พวกผู้หญิง",
+          "rationale": "Per uW figs-explicit: refers to the two Marys from v.1. γυνή plural = women. Thai ผู้หญิง (neutral, not ภรรยา 'wife'). Consistent with MAT 27:55 form"
+        },
+        {
+          "greek": "Μὴ φοβεῖσθε ὑμεῖς",
+          "thai": "พวกท่านอย่ากลัวเลย",
+          "rationale": "Emphatic ὑμεῖς — distinguishes the women from the guards who had good reason to fear. Per uW: all 'you' in this chapter are plural. Thai พวกท่าน (plural, respectful). อย่ากลัวเลย is the standard formula (cf. MAT 1:20, 14:27)"
+        },
+        {
+          "greek": "Ἰησοῦν τὸν ἐσταυρωμένον",
+          "thai": "พระเยซูผู้ถูกตรึงที่กางเขน",
+          "rationale": "Perfect passive participle — 'the-one-having-been-crucified' as enduring identity. Per uW figs-activepassive: implied agent is Pilate's soldiers. The perfect tense is significant — the crucifixion-identity is preserved even post-resurrection. Same construction as 1 Cor 2:2, Gal 3:1. Thai ผู้ถูกตรึงที่กางเขน preserves the perfect-passive enduring-state"
+        },
+        {
+          "greek": "ζητεῖτε",
+          "thai": "กำลังหา...อยู่",
+          "rationale": "Present continuous. The women's seeking is ongoing. Thai กำลัง...อยู่ preserves the present-progressive"
+        }
       ],
       "notes": "The angel's first word to the women — 'do not be afraid' — contrasts sharply with the guards' terror in v.4. The emphatic ὑμεῖς distinguishes the faithful-women-audience from the hostile-guard-audience: you (not they) have no reason to fear. The title 'Jesus the crucified' (perfect passive) is striking — the resurrected Christ retains the identity 'the crucified one.' This is the enduring Christian confession: 1 Cor 2:2 (Paul determined to know nothing but 'Jesus Christ and him crucified'), Gal 3:1, Rev 5:6 (the Lamb 'as though slain'). The cross-identity is not erased by resurrection but transfigured into eternal glory."
     }
@@ -104,13 +188,33 @@
     "translation": {
       "thai": "พระองค์ไม่ได้อยู่ที่นี่ เพราะพระองค์ทรงเป็นขึ้นมาแล้วตามที่ได้ตรัสไว้ จงมาดูที่ซึ่งพระองค์เคยทรงถูกวางไว้",
       "thai_literal": null,
-      "thai_summary": "«ตามที่ได้ตรัสไว้» อ้างถึงคำทำนายสามครั้งของพระเยซูเกี่ยวกับการเป็นขึ้นมาจากตาย (มัทธิว 16:21, 17:23, 20:19) เหล่าสาวกไม่เคยเข้าใจคำทำนายนั้นเลย แต่พวกผู้นำศาสนากลับจำได้ (มัทธิว 27:63) ทูตสวรรค์เชิญให้สตรีเข้าไปตรวจสอบด้วยตาของตนเอง — การเป็นขึ้นจากตายเริ่มต้นด้วยพยานเห็นอุโมงค์ว่างก่อน แล้วจึงเห็นพระเยซู",
+      "thai_summary": "“ตามที่ได้ตรัสไว้” อ้างถึงคำทำนายสามครั้งของพระเยซูเกี่ยวกับการเป็นขึ้นมาจากตาย (มัทธิว 16:21, 17:23, 20:19) เหล่าสาวกไม่เคยเข้าใจคำทำนายนั้นเลย แต่พวกผู้นำศาสนากลับจำได้ (มัทธิว 27:63) ทูตสวรรค์เชิญให้สตรีเข้าไปตรวจสอบด้วยตาของตนเอง — การเป็นขึ้นจากตายเริ่มต้นด้วยพยานเห็นอุโมงค์ว่างก่อน แล้วจึงเห็นพระเยซู",
       "key_decisions": [
-        {"greek": "οὐκ ἔστιν ὧδε", "thai": "พระองค์ไม่ได้อยู่ที่นี่", "rationale": "Direct. Royal subject-particle implicit per established ราชาศัพท์; subject 'he' refers to Jesus so Thai พระองค์ (honorific 3rd)"},
-        {"greek": "ἠγέρθη", "thai": "ทรงเป็นขึ้นมาแล้ว", "rationale": "Aorist passive of ἐγείρω — divine passive ('God raised him'). Royal verb ทรง + 'เป็นขึ้น' established Mark 16:6 glossary for same verb. Consistent synoptic rendering. The passive preserves the theological point: Jesus was raised by God (cf. v.2 angel acts on God's behalf; Acts 2:24, Rom 10:9 'God raised him')"},
-        {"greek": "καθὼς εἶπεν", "thai": "ตามที่ได้ตรัสไว้", "rationale": "Royal verb ตรัส (speech of Jesus) per §3. References Jesus's three passion-predictions: MAT 16:21, 17:23, 20:19. Thai ตามที่ (just as) + ได้...ไว้ (perfective past)"},
-        {"greek": "δεῦτε ἴδετε τὸν τόπον", "thai": "จงมาดูที่ซึ่ง", "rationale": "δεῦτε = 'come!' (plural imperative of δεῦρο). δεῦτε + ἴδετε double imperative. Thai จงมาดู is standard biblical imperative formula"},
-        {"greek": "ὅπου ἔκειτο", "thai": "พระองค์เคยทรงถูกวางไว้", "rationale": "κεῖμαι imperfect = 'was lying / had been placed.' Per uW figs-activepassive: the body was placed there by Joseph (27:59-60). Royal-passive ทรงถูกวาง preserves divine register even in the humiliation of burial. เคย...ไว้ marks completed-past state"}
+        {
+          "greek": "οὐκ ἔστιν ὧδε",
+          "thai": "พระองค์ไม่ได้อยู่ที่นี่",
+          "rationale": "Direct. Royal subject-particle implicit per established ราชาศัพท์; subject 'he' refers to Jesus so Thai พระองค์ (honorific 3rd)"
+        },
+        {
+          "greek": "ἠγέρθη",
+          "thai": "ทรงเป็นขึ้นมาแล้ว",
+          "rationale": "Aorist passive of ἐγείρω — divine passive ('God raised him'). Royal verb ทรง + 'เป็นขึ้น' established Mark 16:6 glossary for same verb. Consistent synoptic rendering. The passive preserves the theological point: Jesus was raised by God (cf. v.2 angel acts on God's behalf; Acts 2:24, Rom 10:9 'God raised him')"
+        },
+        {
+          "greek": "καθὼς εἶπεν",
+          "thai": "ตามที่ได้ตรัสไว้",
+          "rationale": "Royal verb ตรัส (speech of Jesus) per §3. References Jesus's three passion-predictions: MAT 16:21, 17:23, 20:19. Thai ตามที่ (just as) + ได้...ไว้ (perfective past)"
+        },
+        {
+          "greek": "δεῦτε ἴδετε τὸν τόπον",
+          "thai": "จงมาดูที่ซึ่ง",
+          "rationale": "δεῦτε = 'come!' (plural imperative of δεῦρο). δεῦτε + ἴδετε double imperative. Thai จงมาดู is standard biblical imperative formula"
+        },
+        {
+          "greek": "ὅπου ἔκειτο",
+          "thai": "พระองค์เคยทรงถูกวางไว้",
+          "rationale": "κεῖμαι imperfect = 'was lying / had been placed.' Per uW figs-activepassive: the body was placed there by Joseph (27:59-60). Royal-passive ทรงถูกวาง preserves divine register even in the humiliation of burial. เคย...ไว้ marks completed-past state"
+        }
       ],
       "notes": "The angel's proclamation 'he has been raised just as he said' validates Jesus's own prophetic self-disclosure. Matthew records three explicit resurrection-predictions (16:21 'on the third day be raised,' 17:23 'the third day he will be raised,' 20:19 'on the third day he will be raised'). The angel's invitation to see 'the place where he lay' is evidentiary: the women verify the empty tomb before meeting Jesus. Apologetic resonance: the resurrection narrative begins with empty-tomb inspection by women, who by Jewish legal convention were not valid witnesses — precisely the opposite of a fabricated account (which would use authoritative male witnesses). Synoptic parallel: Mark 16:6, Luke 24:5-6."
     }
@@ -122,15 +226,35 @@
     "greek": "καὶ ταχὺ πορευθεῖσαι εἴπατε τοῖς μαθηταῖς αὐτοῦ ὅτι Ἠγέρθη ἀπὸ τῶν νεκρῶν,καὶ ἰδοὺ προάγει ὑμᾶς εἰς τὴν Γαλιλαίαν,ἐκεῖ αὐτὸν ὄψεσθε·ἰδοὺ εἶπον ὑμῖν.",
     "bsb_english": "Then go quickly and tell His disciples, ‘He has risen from the dead and is going ahead of you into Galilee. There you will see Him.’ See, I have told you.”",
     "translation": {
-      "thai": "บัดนี้จงรีบไปบอกเหล่าสาวกของพระองค์ว่า ‹พระองค์ทรงเป็นขึ้นมาจากความตายแล้ว และดูเถิด พระองค์ทรงเสด็จล่วงหน้าพวกท่านไปยังแคว้นกาลิลี ที่นั่นพวกท่านจะได้เห็นพระองค์› ดูเถิด เราได้บอกพวกท่านแล้ว»",
+      "thai": "บัดนี้จงรีบไปบอกเหล่าสาวกของพระองค์ว่า ‘พระองค์ทรงเป็นขึ้นมาจากความตายแล้ว และดูเถิด พระองค์ทรงเสด็จล่วงหน้าพวกท่านไปยังแคว้นกาลิลี ที่นั่นพวกท่านจะได้เห็นพระองค์’ ดูเถิด เราได้บอกพวกท่านแล้ว”",
       "thai_literal": null,
-      "thai_summary": "การพบพระคริสต์ในแคว้นกาลิลีเป็นการสำเร็จตามที่พระเยซูตรัสไว้ในมัทธิว 26:32 («หลังจากที่เราเป็นขึ้นแล้ว เราจะเสด็จล่วงหน้าพวกท่านไปยังกาลิลี») แคว้นกาลิลีเป็นจุดเริ่มต้นของพันธกิจพระเยซูและบ้านของเหล่าสาวกส่วนใหญ่ เป็น «แคว้นกาลิลีของชนต่างชาติ» (มัทธิว 4:15) ที่บัดนี้จะเป็นสถานที่ส่งสาวกออกไปยังบรรดาประชาชาติ (ข้อ 19)",
+      "thai_summary": "การพบพระคริสต์ในแคว้นกาลิลีเป็นการสำเร็จตามที่พระเยซูตรัสไว้ในมัทธิว 26:32 (“หลังจากที่เราเป็นขึ้นแล้ว เราจะเสด็จล่วงหน้าพวกท่านไปยังกาลิลี”) แคว้นกาลิลีเป็นจุดเริ่มต้นของพันธกิจพระเยซูและบ้านของเหล่าสาวกส่วนใหญ่ เป็น “แคว้นกาลิลีของชนต่างชาติ” (มัทธิว 4:15) ที่บัดนี้จะเป็นสถานที่ส่งสาวกออกไปยังบรรดาประชาชาติ (ข้อ 19)",
       "key_decisions": [
-        {"greek": "ταχὺ πορευθεῖσαι εἴπατε", "thai": "จงรีบไปบอก", "rationale": "Aor.ptc. + aor.impv = attendant-circumstance; both actions together 'go quickly and tell.' Matches Mark 16:7 glossary จงไปบอก. Thai บัดนี้ for urgency-marker"},
-        {"greek": "Ἠγέρθη ἀπὸ τῶν νεκρῶν", "thai": "พระองค์ทรงเป็นขึ้นมาจากความตายแล้ว", "rationale": "Per uW figs-nominaladj: τῶν νεκρῶν 'from the dead' = plural adjective substantive. Thai ความตาย (abstract 'death') is more natural than คนตาย (dead-persons) here — captures the dominion-of-death aspect. Royal verb ทรงเป็นขึ้นมา consistent with v.6"},
-        {"greek": "καὶ ἰδοὺ προάγει ὑμᾶς εἰς τὴν Γαλιλαίαν", "thai": "และดูเถิด พระองค์ทรงเสด็จล่วงหน้าพวกท่านไปยังแคว้นกาลิลี", "rationale": "προάγω = 'go ahead of / lead ahead.' Royal verb ทรงเสด็จล่วงหน้า consistent with Mark 16:7 glossary. Thai แคว้นกาลิลี — region-classifier + established transliteration (from MAT 4:15 glossary)"},
-        {"greek": "ἐκεῖ αὐτὸν ὄψεσθε", "thai": "ที่นั่นพวกท่านจะได้เห็นพระองค์", "rationale": "Future middle of ὁράω. Thai จะได้เห็น (future-resultative). Consistent with Mark 16:7 glossary"},
-        {"greek": "ἰδοὺ εἶπον ὑμῖν", "thai": "ดูเถิด เราได้บอกพวกท่านแล้ว", "rationale": "Per uW figs-explicit: the angel marks the completion of the message — 'I have given you the full-and-authoritative word to relay.' Thai เราได้บอก...แล้ว emphasizes completion"}
+        {
+          "greek": "ταχὺ πορευθεῖσαι εἴπατε",
+          "thai": "จงรีบไปบอก",
+          "rationale": "Aor.ptc. + aor.impv = attendant-circumstance; both actions together 'go quickly and tell.' Matches Mark 16:7 glossary จงไปบอก. Thai บัดนี้ for urgency-marker"
+        },
+        {
+          "greek": "Ἠγέρθη ἀπὸ τῶν νεκρῶν",
+          "thai": "พระองค์ทรงเป็นขึ้นมาจากความตายแล้ว",
+          "rationale": "Per uW figs-nominaladj: τῶν νεκρῶν 'from the dead' = plural adjective substantive. Thai ความตาย (abstract 'death') is more natural than คนตาย (dead-persons) here — captures the dominion-of-death aspect. Royal verb ทรงเป็นขึ้นมา consistent with v.6"
+        },
+        {
+          "greek": "καὶ ἰδοὺ προάγει ὑμᾶς εἰς τὴν Γαλιλαίαν",
+          "thai": "และดูเถิด พระองค์ทรงเสด็จล่วงหน้าพวกท่านไปยังแคว้นกาลิลี",
+          "rationale": "προάγω = 'go ahead of / lead ahead.' Royal verb ทรงเสด็จล่วงหน้า consistent with Mark 16:7 glossary. Thai แคว้นกาลิลี — region-classifier + established transliteration (from MAT 4:15 glossary)"
+        },
+        {
+          "greek": "ἐκεῖ αὐτὸν ὄψεσθε",
+          "thai": "ที่นั่นพวกท่านจะได้เห็นพระองค์",
+          "rationale": "Future middle of ὁράω. Thai จะได้เห็น (future-resultative). Consistent with Mark 16:7 glossary"
+        },
+        {
+          "greek": "ἰδοὺ εἶπον ὑμῖν",
+          "thai": "ดูเถิด เราได้บอกพวกท่านแล้ว",
+          "rationale": "Per uW figs-explicit: the angel marks the completion of the message — 'I have given you the full-and-authoritative word to relay.' Thai เราได้บอก...แล้ว emphasizes completion"
+        }
       ],
       "notes": "MATTHEAN UNIQUE: only Matthew and Mark specify the Galilee-appearance; Luke places the risen Jesus entirely in Jerusalem. This fulfills Jesus's own promise at 26:32 ('after I am raised, I will go before you to Galilee'). Matthew's Galilee-theology is thematic: his Gospel begins (4:12-16 with Isa 9:1-2 citation, 'Galilee of the Gentiles') and ends (28:16-20, from a Galilean mountain) with Galilee as the frontier-location where Israel meets the nations. The Great Commission flows narratively from this geographic choice — sending out from the Gentile-adjacent region to all nations. The triple ἰδού in this verse (v.7 opener, 'behold he goes before you,' 'behold I have told you') marks the angel's prophetic authority and solemnity."
     }
@@ -144,12 +268,28 @@
     "translation": {
       "thai": "พวกนางจึงรีบออกจากอุโมงค์ฝังศพด้วยความกลัวและความยินดีอันยิ่งใหญ่ วิ่งไปเพื่อบอกข่าวนี้แก่เหล่าสาวกของพระองค์",
       "thai_literal": null,
-      "thai_summary": "«ความกลัวและความยินดี» เกิดขึ้นพร้อมกัน เป็นปฏิกิริยาตามธรรมชาติต่อการพบสิ่งเหนือธรรมชาติ ต่างจากมาระโก 16:8 ที่จบลงด้วยความกลัวและความเงียบ มัทธิวเน้นว่าสตรีเหล่านี้เป็นคนแรกที่ประกาศข่าวการเป็นขึ้น — กลายเป็นอัครสาวกของอัครสาวก",
+      "thai_summary": "“ความกลัวและความยินดี” เกิดขึ้นพร้อมกัน เป็นปฏิกิริยาตามธรรมชาติต่อการพบสิ่งเหนือธรรมชาติ ต่างจากมาระโก 16:8 ที่จบลงด้วยความกลัวและความเงียบ มัทธิวเน้นว่าสตรีเหล่านี้เป็นคนแรกที่ประกาศข่าวการเป็นขึ้น — กลายเป็นอัครสาวกของอัครสาวก",
       "key_decisions": [
-        {"greek": "ἀπὸ τοῦ μνημείου", "thai": "ออกจากอุโมงค์ฝังศพ", "rationale": "μνημεῖον here (v.8) vs τάφος (v.1) — both = tomb; Matthean free-variation. Thai อุโมงค์ฝังศพ consistent glossary across MAT 27-28"},
-        {"greek": "μετὰ φόβου καὶ χαρᾶς μεγάλης", "thai": "ด้วยความกลัวและความยินดีอันยิ่งใหญ่", "rationale": "Per uW figs-abstractnouns: dual emotion preserved. μεγάλης modifies both nouns in Greek apposition or only χαρᾶς (debated). Thai natural to render both with อันยิ่งใหญ่ or attach to ยินดี alone — I attach to ยินดี (nearest noun, most natural Thai). φόβος = awe/holy-fear here, not terror"},
-        {"greek": "ἔδραμον ἀπαγγεῖλαι", "thai": "วิ่งไปเพื่อบอกข่าวนี้", "rationale": "ἔδραμον aor of τρέχω = ran. ἀπαγγέλλω inf = 'to report back.' Thai เพื่อบอก = purpose-infinitive. ข่าวนี้ explicates the implicit content-object of 'report'"},
-        {"greek": "τοῖς μαθηταῖς αὐτοῦ", "thai": "เหล่าสาวกของพระองค์", "rationale": "Established MAT glossary — เหล่าสาวก"}
+        {
+          "greek": "ἀπὸ τοῦ μνημείου",
+          "thai": "ออกจากอุโมงค์ฝังศพ",
+          "rationale": "μνημεῖον here (v.8) vs τάφος (v.1) — both = tomb; Matthean free-variation. Thai อุโมงค์ฝังศพ consistent glossary across MAT 27-28"
+        },
+        {
+          "greek": "μετὰ φόβου καὶ χαρᾶς μεγάλης",
+          "thai": "ด้วยความกลัวและความยินดีอันยิ่งใหญ่",
+          "rationale": "Per uW figs-abstractnouns: dual emotion preserved. μεγάλης modifies both nouns in Greek apposition or only χαρᾶς (debated). Thai natural to render both with อันยิ่งใหญ่ or attach to ยินดี alone — I attach to ยินดี (nearest noun, most natural Thai). φόβος = awe/holy-fear here, not terror"
+        },
+        {
+          "greek": "ἔδραμον ἀπαγγεῖλαι",
+          "thai": "วิ่งไปเพื่อบอกข่าวนี้",
+          "rationale": "ἔδραμον aor of τρέχω = ran. ἀπαγγέλλω inf = 'to report back.' Thai เพื่อบอก = purpose-infinitive. ข่าวนี้ explicates the implicit content-object of 'report'"
+        },
+        {
+          "greek": "τοῖς μαθηταῖς αὐτοῦ",
+          "thai": "เหล่าสาวกของพระองค์",
+          "rationale": "Established MAT glossary — เหล่าสาวก"
+        }
       ],
       "notes": "STRIKING CONTRAST with Mark 16:8 synoptic parallel: Mark's women 'said nothing to anyone, for they were afraid' — Matthew's women 'ran to tell his disciples.' The difference is real, not contradictory: Mark ends abruptly (likely intentional literary silence); Matthew narrates through to the resolution. Matthew's women are the first resurrection-preachers — Augustine and later tradition would call Mary Magdalene apostola apostolorum ('apostle to the apostles'). Φόβος + χαρά together is spiritually-accurate: the numinous encounter produces both reactions simultaneously, not sequentially."
     }
@@ -161,15 +301,35 @@
     "greek": "καὶ ἰδοὺ Ἰησοῦς ὑπήντησεν αὐταῖς λέγων·Χαίρετε·αἱ δὲ προσελθοῦσαι ἐκράτησαν αὐτοῦ τοὺς πόδας καὶ προσεκύνησαν αὐτῷ.",
     "bsb_english": "Suddenly Jesus met them and said, “Greetings!” They came to Him, grasped His feet, and worshiped Him.",
     "translation": {
-      "thai": "และดูเถิด พระเยซูทรงพบพวกนาง ตรัสว่า «จงยินดีเถิด» พวกนางจึงเข้ามาทรุดตัวลงกอดพระบาทของพระองค์และนมัสการพระองค์",
+      "thai": "และดูเถิด พระเยซูทรงพบพวกนาง ตรัสว่า “จงยินดีเถิด” พวกนางจึงเข้ามาทรุดตัวลงกอดพระบาทของพระองค์และนมัสการพระองค์",
       "thai_literal": null,
-      "thai_summary": "«จงยินดีเถิด» (ไคเรเต) เป็นคำทักทายธรรมดาในภาษากรีก คล้ายกับ «สวัสดี» แต่รากศัพท์ของคำนี้คือ «ยินดี» — เหมาะเจาะกับข่าวการเป็นขึ้นมาของพระองค์ การจับพระบาทเป็นธรรมเนียมแสดงความเคารพสูงสุดในวัฒนธรรมยิว-โรมัน ในการมุ่งเคารพคนสำคัญ",
+      "thai_summary": "“จงยินดีเถิด” (ไคเรเต) เป็นคำทักทายธรรมดาในภาษากรีก คล้ายกับ “สวัสดี” แต่รากศัพท์ของคำนี้คือ “ยินดี” — เหมาะเจาะกับข่าวการเป็นขึ้นมาของพระองค์ การจับพระบาทเป็นธรรมเนียมแสดงความเคารพสูงสุดในวัฒนธรรมยิว-โรมัน ในการมุ่งเคารพคนสำคัญ",
       "key_decisions": [
-        {"greek": "ὑπήντησεν", "thai": "ทรงพบ", "rationale": "ὑπαντάω = 'meet (by coming toward).' Not a random encounter — Jesus intentionally intercepts them. Royal verb ทรงพบ per divine subject"},
-        {"greek": "Χαίρετε", "thai": "จงยินดีเถิด", "rationale": "Per uW figs-idiom: χαίρετε was a standard Greek greeting ('Greetings!') — equivalent to 'Hello.' But its lexical meaning is 'rejoice,' which acquires special resonance at resurrection. Following MAT 5:12 glossary: χαίρετε → จงยินดี. The surface-greeting carries the theological-depth of rejoicing at the resurrection. Preserves both the greeting-function and the rejoice-lexicon"},
-        {"greek": "προσελθοῦσαι", "thai": "เข้ามาทรุดตัวลง", "rationale": "προσέρχομαι aor.ptc. = approached. ทรุดตัวลง added to render the implicit kneeling/prostrating before grasping the feet (per uW translate-symaction)"},
-        {"greek": "ἐκράτησαν αὐτοῦ τοὺς πόδας", "thai": "กอดพระบาทของพระองค์", "rationale": "Per uW translate-symaction: in Jewish-Greco-Roman culture, clasping/grasping feet was a gesture of supreme honor and submission (cf. 2 Kgs 4:27 Shunammite woman; John 12:3 Mary anointing feet). Royal-body part พระบาท (feet of Jesus) per RULES.md §3. Thai กอด (embrace/clasp) captures the intensity better than จับ (grasp)"},
-        {"greek": "προσεκύνησαν αὐτῷ", "thai": "นมัสการพระองค์", "rationale": "Established Matthean glossary (2:2, 2:8, 4:9, 14:33, 15:25, 20:20) → นมัสการ. The full divine-worship sense, especially post-resurrection. Consistent with v.17 usage"}
+        {
+          "greek": "ὑπήντησεν",
+          "thai": "ทรงพบ",
+          "rationale": "ὑπαντάω = 'meet (by coming toward).' Not a random encounter — Jesus intentionally intercepts them. Royal verb ทรงพบ per divine subject"
+        },
+        {
+          "greek": "Χαίρετε",
+          "thai": "จงยินดีเถิด",
+          "rationale": "Per uW figs-idiom: χαίρετε was a standard Greek greeting ('Greetings!') — equivalent to 'Hello.' But its lexical meaning is 'rejoice,' which acquires special resonance at resurrection. Following MAT 5:12 glossary: χαίρετε → จงยินดี. The surface-greeting carries the theological-depth of rejoicing at the resurrection. Preserves both the greeting-function and the rejoice-lexicon"
+        },
+        {
+          "greek": "προσελθοῦσαι",
+          "thai": "เข้ามาทรุดตัวลง",
+          "rationale": "προσέρχομαι aor.ptc. = approached. ทรุดตัวลง added to render the implicit kneeling/prostrating before grasping the feet (per uW translate-symaction)"
+        },
+        {
+          "greek": "ἐκράτησαν αὐτοῦ τοὺς πόδας",
+          "thai": "กอดพระบาทของพระองค์",
+          "rationale": "Per uW translate-symaction: in Jewish-Greco-Roman culture, clasping/grasping feet was a gesture of supreme honor and submission (cf. 2 Kgs 4:27 Shunammite woman; John 12:3 Mary anointing feet). Royal-body part พระบาท (feet of Jesus) per RULES.md §3. Thai กอด (embrace/clasp) captures the intensity better than จับ (grasp)"
+        },
+        {
+          "greek": "προσεκύνησαν αὐτῷ",
+          "thai": "นมัสการพระองค์",
+          "rationale": "Established Matthean glossary (2:2, 2:8, 4:9, 14:33, 15:25, 20:20) → นมัสการ. The full divine-worship sense, especially post-resurrection. Consistent with v.17 usage"
+        }
       ],
       "notes": "TEXTUAL VARIANT: SBLGNT reads καὶ ἰδοὺ Ἰησοῦς ὑπήντησεν αὐταῖς. Some MSS read ὡς δὲ ἐπορεύοντο ἀπαγγεῖλαι τοῖς μαθηταῖς αὐτοῦ καὶ ἰδοὺ Ἰησοῦς ὑπήντησεν αὐταῖς ('as they were going to report to his disciples, behold Jesus met them'). SBLGNT follows the shorter reading with most modern critical editions; we follow SBLGNT. The worship (προσεκύνησαν) given to Jesus here is full divine worship — a post-resurrection confession that would have been blasphemous if directed at any merely-human rabbi. Matthew's gospel frames this worship from birth (2:2 magi, 2:11) to resurrection (28:9, 28:17) — bookending Jesus's life with the response proper to God alone. Foot-grasping: ancient gesture of supreme honor (cf. the Shunammite in 2 Kgs 4:27 LXX, where the same verb-idea appears). ADDED TO NT_OT_CITATIONS: MAT 28:9 thematic_allusion — proskynesis imagery echoes PSA 2:11-12 (worship the Son) + PSA 72:11 (all kings shall bow to him)."
     }
@@ -181,16 +341,40 @@
     "greek": "τότε λέγει αὐταῖς ὁ Ἰησοῦς·Μὴ φοβεῖσθε·ὑπάγετε ἀπαγγείλατε τοῖς ἀδελφοῖς μου ἵνα ἀπέλθωσιν εἰς τὴν Γαλιλαίαν,κἀκεῖ με ὄψονται.",
     "bsb_english": "“Do not be afraid,” said Jesus. “Go and tell My brothers to go to Galilee. There they will see Me.”",
     "translation": {
-      "thai": "ครั้งนั้น พระเยซูตรัสกับพวกนางว่า «อย่ากลัวเลย จงไปบอกพี่น้องของเราให้ไปยังแคว้นกาลิลี แล้วพวกเขาจะได้เห็นเราที่นั่น»",
+      "thai": "ครั้งนั้น พระเยซูตรัสกับพวกนางว่า “อย่ากลัวเลย จงไปบอกพี่น้องของเราให้ไปยังแคว้นกาลิลี แล้วพวกเขาจะได้เห็นเราที่นั่น”",
       "thai_literal": null,
-      "thai_summary": "พระเยซูทรงเรียกเหล่าสาวกว่า «พี่น้อง» เป็นครั้งแรก (เทียบกับ มัทธิว 12:48-50 ที่พระองค์ทรงเรียกผู้ทำตามน้ำพระทัยของพระบิดาว่าเป็นพี่น้อง) หลังจากที่พวกเขาทอดทิ้งพระองค์ในการจับกุม (มัทธิว 26:56) คำว่า «พี่น้อง» สื่อถึงการให้อภัยและการคืนสถานะ พระคริสต์ผู้ทรงฟื้นคืนพระชนม์ยังคงนับพวกเขาเป็นครอบครัว",
+      "thai_summary": "พระเยซูทรงเรียกเหล่าสาวกว่า “พี่น้อง” เป็นครั้งแรก (เทียบกับ มัทธิว 12:48-50 ที่พระองค์ทรงเรียกผู้ทำตามน้ำพระทัยของพระบิดาว่าเป็นพี่น้อง) หลังจากที่พวกเขาทอดทิ้งพระองค์ในการจับกุม (มัทธิว 26:56) คำว่า “พี่น้อง” สื่อถึงการให้อภัยและการคืนสถานะ พระคริสต์ผู้ทรงฟื้นคืนพระชนม์ยังคงนับพวกเขาเป็นครอบครัว",
       "key_decisions": [
-        {"greek": "λέγει", "thai": "ตรัสกับ", "rationale": "Present tense historical ('says'). Royal verb ตรัส for divine speaker per §3. Matthean historic-present for dramatic immediacy"},
-        {"greek": "Μὴ φοβεῖσθε", "thai": "อย่ากลัวเลย", "rationale": "Same formula as angel's at v.5. Reinforces safety-in-presence of divine"},
-        {"greek": "ὑπάγετε ἀπαγγείλατε", "thai": "จงไปบอก", "rationale": "Double imperative: go + report. Matches v.7 glossary. Thai จงไปบอก consistent"},
-        {"greek": "τοῖς ἀδελφοῖς μου", "thai": "พี่น้องของเรา", "rationale": "Per uW figs-metaphor: ἀδελφός 'brother' = fellow-disciple/family-member. Jesus elsewhere uses this of followers who do God's will (MAT 12:50, 25:40). Royal-self-reference เรา per §3. Thai พี่น้อง natural for spiritual-kinship usage. Theologically rich: post-abandonment (26:56) restoration"},
-        {"greek": "ἵνα ἀπέλθωσιν", "thai": "ให้ไป", "rationale": "ἵνα + subjunctive = purpose/command. Thai ให้ (causative-directive)"},
-        {"greek": "κἀκεῖ με ὄψονται", "thai": "แล้วพวกเขาจะได้เห็นเราที่นั่น", "rationale": "κἀκεῖ = καί + ἐκεῖ 'and there.' Future middle ὄψονται. Royal-object เรา per §3 (first-person self-reference by Jesus). Promise of Galilean meeting mirrors v.7 angel-promise"}
+        {
+          "greek": "λέγει",
+          "thai": "ตรัสกับ",
+          "rationale": "Present tense historical ('says'). Royal verb ตรัส for divine speaker per §3. Matthean historic-present for dramatic immediacy"
+        },
+        {
+          "greek": "Μὴ φοβεῖσθε",
+          "thai": "อย่ากลัวเลย",
+          "rationale": "Same formula as angel's at v.5. Reinforces safety-in-presence of divine"
+        },
+        {
+          "greek": "ὑπάγετε ἀπαγγείλατε",
+          "thai": "จงไปบอก",
+          "rationale": "Double imperative: go + report. Matches v.7 glossary. Thai จงไปบอก consistent"
+        },
+        {
+          "greek": "τοῖς ἀδελφοῖς μου",
+          "thai": "พี่น้องของเรา",
+          "rationale": "Per uW figs-metaphor: ἀδελφός 'brother' = fellow-disciple/family-member. Jesus elsewhere uses this of followers who do God's will (MAT 12:50, 25:40). Royal-self-reference เรา per §3. Thai พี่น้อง natural for spiritual-kinship usage. Theologically rich: post-abandonment (26:56) restoration"
+        },
+        {
+          "greek": "ἵνα ἀπέλθωσιν",
+          "thai": "ให้ไป",
+          "rationale": "ἵνα + subjunctive = purpose/command. Thai ให้ (causative-directive)"
+        },
+        {
+          "greek": "κἀκεῖ με ὄψονται",
+          "thai": "แล้วพวกเขาจะได้เห็นเราที่นั่น",
+          "rationale": "κἀκεῖ = καί + ἐκεῖ 'and there.' Future middle ὄψονται. Royal-object เรา per §3 (first-person self-reference by Jesus). Promise of Galilean meeting mirrors v.7 angel-promise"
+        }
       ],
       "notes": "KEY THEOLOGICAL SHIFT: Jesus calls the disciples 'my brothers' — the only place in Matthew where Jesus uses this direct kinship-address to the Twelve (parallel to Heb 2:11-12 'he is not ashamed to call them brothers'). The force is striking: the disciples abandoned him at arrest (26:56), Peter denied him three times, and yet the risen Christ reaffirms family-relationship. The resurrection restores. See also MAT 12:48-50 where Jesus defines family as those who do the Father's will. Cf. John 20:17 (risen Jesus says 'my brothers' to Mary Magdalene) — similar independent attestation of this post-resurrection kinship-theme."
     }
@@ -206,11 +390,31 @@
       "thai_literal": null,
       "thai_summary": "มัทธิวตัดฉากจากสตรีที่ไปรายงานเหล่าสาวกไปยังพวกทหารที่ไปรายงานผู้นำศาสนา เกิดเป็นสองเส้นทางข่าวคู่ขนาน — ฝ่ายหนึ่งรายงานข่าวจริง อีกฝ่ายกำลังเตรียมเรื่องโกหก ฉากนี้เป็นฉากเฉพาะของมัทธิว มาระโกและลูกาไม่บันทึกเรื่องนี้",
       "key_decisions": [
-        {"greek": "Πορευομένων...αὐτῶν", "thai": "ขณะที่พวกนางกำลังไปอยู่นั้น", "rationale": "Genitive absolute temporal. αὐτῶν refers to the women (antecedent from vv.8-10). Thai ขณะที่...กำลัง...อยู่นั้น preserves the simultaneous-action"},
-        {"greek": "τινες τῆς κουστωδίας", "thai": "บางคนในกองทหารรักษาการณ์", "rationale": "Partitive genitive. κουστωδία established MAT 27:65-66 glossary → กองทหารรักษาการณ์. Per uW grammar-collectivenouns: 'some of the guard-unit,' not all — some soldiers went, others perhaps still at the tomb or elsewhere"},
-        {"greek": "ἐλθόντες εἰς τὴν πόλιν", "thai": "ก็เข้ามาในเมือง", "rationale": "Per uW figs-explicit: 'the city' = Jerusalem. Thai เข้ามาในเมือง leaves geographical context from narrative"},
-        {"greek": "ἀπήγγειλαν τοῖς ἀρχιερεῦσιν", "thai": "รายงานแก่บรรดาหัวหน้าปุโรหิต", "rationale": "ἀπαγγέλλω aor. 'to report.' Thai รายงาน for formal report-upward. บรรดาหัวหน้าปุโรหิต established MAT glossary (2:4, 16:21, 21:15, 26:3, 27:1 etc.)"},
-        {"greek": "ἅπαντα τὰ γενόμενα", "thai": "ทุกสิ่งที่เกิดขึ้น", "rationale": "ἅπας intensive-πᾶς 'absolutely all.' Aorist middle participle γενόμενα 'the-things-having-happened.' Thai ทุกสิ่งที่เกิดขึ้น natural"}
+        {
+          "greek": "Πορευομένων...αὐτῶν",
+          "thai": "ขณะที่พวกนางกำลังไปอยู่นั้น",
+          "rationale": "Genitive absolute temporal. αὐτῶν refers to the women (antecedent from vv.8-10). Thai ขณะที่...กำลัง...อยู่นั้น preserves the simultaneous-action"
+        },
+        {
+          "greek": "τινες τῆς κουστωδίας",
+          "thai": "บางคนในกองทหารรักษาการณ์",
+          "rationale": "Partitive genitive. κουστωδία established MAT 27:65-66 glossary → กองทหารรักษาการณ์. Per uW grammar-collectivenouns: 'some of the guard-unit,' not all — some soldiers went, others perhaps still at the tomb or elsewhere"
+        },
+        {
+          "greek": "ἐλθόντες εἰς τὴν πόλιν",
+          "thai": "ก็เข้ามาในเมือง",
+          "rationale": "Per uW figs-explicit: 'the city' = Jerusalem. Thai เข้ามาในเมือง leaves geographical context from narrative"
+        },
+        {
+          "greek": "ἀπήγγειλαν τοῖς ἀρχιερεῦσιν",
+          "thai": "รายงานแก่บรรดาหัวหน้าปุโรหิต",
+          "rationale": "ἀπαγγέλλω aor. 'to report.' Thai รายงาน for formal report-upward. บรรดาหัวหน้าปุโรหิต established MAT glossary (2:4, 16:21, 21:15, 26:3, 27:1 etc.)"
+        },
+        {
+          "greek": "ἅπαντα τὰ γενόμενα",
+          "thai": "ทุกสิ่งที่เกิดขึ้น",
+          "rationale": "ἅπας intensive-πᾶς 'absolutely all.' Aorist middle participle γενόμενα 'the-things-having-happened.' Thai ทุกสิ่งที่เกิดขึ้น natural"
+        }
       ],
       "notes": "MATTHEAN UNIQUE PERICOPE: 28:11-15 is found only in Matthew. Its purpose is apologetic — Matthew addresses and rebuts the rumor current in his day (cf. v.15) that Jesus's body was stolen. The guards become reluctant witnesses of the resurrection: their report (ἀπήγγειλαν ἅπαντα τὰ γενόμενα) means the chief priests knew what had really happened. The narrative irony is thick: the women who saw the empty tomb run to tell the truth to the disciples; the guards who saw the same thing run to report it to those who then will bribe them to tell a lie. Two reports, two destinations, two kinds of power."
     }
@@ -226,11 +430,31 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        {"greek": "συναχθέντες", "thai": "ประชุม", "rationale": "συνάγω aor.pass = 'assembled themselves.' Per uW figs-activepassive: render active. Thai ประชุม = formal meeting. Matthean formula for leadership-councils (cf. 26:3, 26:57)"},
-        {"greek": "μετὰ τῶν πρεσβυτέρων", "thai": "ร่วมกับบรรดาผู้อาวุโส", "rationale": "πρεσβύτεροι = elders. Consistent with MAT 27:1 glossary พวกผู้อาวุโส / บรรดาผู้อาวุโส. Sanhedrin-leadership ranks"},
-        {"greek": "συμβούλιόν τε λαβόντες", "thai": "และเมื่อได้ปรึกษากันแล้ว", "rationale": "συμβούλιον λαμβάνω — Matthew's signature 'took counsel' idiom (12:14, 22:15, 27:1, 27:7, 28:12). Consistent rendering ปรึกษากัน across MAT. Thai เมื่อ...แล้ว preserves the participial temporal force"},
-        {"greek": "ἀργύρια ἱκανὰ", "thai": "เงินจำนวนมาก", "rationale": "ἱκανός 'considerable/sufficient' — here in intensive sense = 'a lot.' Per uW translate-bmoney: silver-coins were four-days'-wages each; ἱκανά suggests a substantial bribe. Thai เงินจำนวนมาก (a large sum of money). ἀργύριον plural = silver-pieces/money"},
-        {"greek": "τοῖς στρατιώταις", "thai": "แก่พวกทหาร", "rationale": "στρατιώτης = soldier. Consistent with MAT 8:9 ทหาร glossary. พวกทหาร plural"}
+        {
+          "greek": "συναχθέντες",
+          "thai": "ประชุม",
+          "rationale": "συνάγω aor.pass = 'assembled themselves.' Per uW figs-activepassive: render active. Thai ประชุม = formal meeting. Matthean formula for leadership-councils (cf. 26:3, 26:57)"
+        },
+        {
+          "greek": "μετὰ τῶν πρεσβυτέρων",
+          "thai": "ร่วมกับบรรดาผู้อาวุโส",
+          "rationale": "πρεσβύτεροι = elders. Consistent with MAT 27:1 glossary พวกผู้อาวุโส / บรรดาผู้อาวุโส. Sanhedrin-leadership ranks"
+        },
+        {
+          "greek": "συμβούλιόν τε λαβόντες",
+          "thai": "และเมื่อได้ปรึกษากันแล้ว",
+          "rationale": "συμβούλιον λαμβάνω — Matthew's signature 'took counsel' idiom (12:14, 22:15, 27:1, 27:7, 28:12). Consistent rendering ปรึกษากัน across MAT. Thai เมื่อ...แล้ว preserves the participial temporal force"
+        },
+        {
+          "greek": "ἀργύρια ἱκανὰ",
+          "thai": "เงินจำนวนมาก",
+          "rationale": "ἱκανός 'considerable/sufficient' — here in intensive sense = 'a lot.' Per uW translate-bmoney: silver-coins were four-days'-wages each; ἱκανά suggests a substantial bribe. Thai เงินจำนวนมาก (a large sum of money). ἀργύριον plural = silver-pieces/money"
+        },
+        {
+          "greek": "τοῖς στρατιώταις",
+          "thai": "แก่พวกทหาร",
+          "rationale": "στρατιώτης = soldier. Consistent with MAT 8:9 ทหาร glossary. พวกทหาร plural"
+        }
       ],
       "notes": "BITING MATTHEAN IRONY: the same συμβούλιον λαβόντες formula used when the priests first conspired to kill Jesus (27:1) and when they bought the potter's field with Judas's returned silver (27:7) now recurs to cover up the resurrection. The chief priests' 'taking counsel' is becoming a leitmotif of hostility-to-Christ. Second irony: Judas was paid thirty silver pieces (26:15, 27:3); now the priests pay more (ἀργύρια ἱκανά — 'a large sum') to unpaid truth. The financial machinery of the passion narrative closes with a second bribe that inverts the first. The soldiers, who in Roman discipline could face execution for falling asleep on guard duty, are buyable: money + cover = compliance."
     }
@@ -242,14 +466,30 @@
     "greek": "λέγοντες·Εἴπατε ὅτι Οἱ μαθηταὶ αὐτοῦ νυκτὸς ἐλθόντες ἔκλεψαν αὐτὸν ἡμῶν κοιμωμένων·",
     "bsb_english": "and instructed them: “You are to say, ‘His disciples came by night and stole Him away while we were asleep.’",
     "translation": {
-      "thai": "และกล่าวว่า «พวกท่านจงบอกไปว่า ‹เหล่าสาวกของเขามาในเวลากลางคืนและขโมยศพของเขาไปขณะที่พวกเรากำลังหลับอยู่›",
+      "thai": "และกล่าวว่า “พวกท่านจงบอกไปว่า ‘เหล่าสาวกของเขามาในเวลากลางคืนและขโมยศพของเขาไปขณะที่พวกเรากำลังหลับอยู่’",
       "thai_literal": null,
       "thai_summary": "เรื่องโกหกที่พวกผู้นำศาสนาเตรียมให้ทหารนี้ช่วยปกปิดอะไรได้น้อย เพราะพยานที่หลับย่อมไม่รู้ว่าเกิดอะไรขึ้น หากทหารหลับจริงๆ ย่อมไม่รู้ว่าใครเอาศพไป ข้อโต้แย้งที่มีรอยโหว่นี้แสดงให้เห็นว่าพวกผู้นำไม่มีทางออกที่ดีกว่านี้ในการอธิบายอุโมงค์ว่าง",
       "key_decisions": [
-        {"greek": "Εἴπατε ὅτι", "thai": "พวกท่านจงบอกไปว่า", "rationale": "Imperative + ὅτι-recitative introducing indirect-becoming-direct speech. Thai จงบอกไปว่า preserves command-force"},
-        {"greek": "Οἱ μαθηταὶ αὐτοῦ", "thai": "เหล่าสาวกของเขา", "rationale": "Note: the priests refer to Jesus with distancing αὐτοῦ ('his') — not named. Thai เขา (neutral 3rd) for Jesus in hostile-speech context, not พระองค์. Consistent with MAT 27:63 where priests call Jesus 'that deceiver'"},
-        {"greek": "νυκτὸς ἐλθόντες ἔκλεψαν αὐτὸν", "thai": "มาในเวลากลางคืนและขโมยศพของเขาไป", "rationale": "νυκτός = genitive-of-time 'by night.' Per uW figs-explicit: clarified by adding 'his body' (ศพของเขา) — the κλέπτω object is a corpse. κλέπτω → ขโมย standard"},
-        {"greek": "ἡμῶν κοιμωμένων", "thai": "ขณะที่พวกเรากำลังหลับอยู่", "rationale": "Genitive absolute — temporal 'while we were sleeping.' Per uW figs-exclusive: ἡμῶν = the soldiers, exclusive. Thai พวกเรา"}
+        {
+          "greek": "Εἴπατε ὅτι",
+          "thai": "พวกท่านจงบอกไปว่า",
+          "rationale": "Imperative + ὅτι-recitative introducing indirect-becoming-direct speech. Thai จงบอกไปว่า preserves command-force"
+        },
+        {
+          "greek": "Οἱ μαθηταὶ αὐτοῦ",
+          "thai": "เหล่าสาวกของเขา",
+          "rationale": "Note: the priests refer to Jesus with distancing αὐτοῦ ('his') — not named. Thai เขา (neutral 3rd) for Jesus in hostile-speech context, not พระองค์. Consistent with MAT 27:63 where priests call Jesus 'that deceiver'"
+        },
+        {
+          "greek": "νυκτὸς ἐλθόντες ἔκλεψαν αὐτὸν",
+          "thai": "มาในเวลากลางคืนและขโมยศพของเขาไป",
+          "rationale": "νυκτός = genitive-of-time 'by night.' Per uW figs-explicit: clarified by adding 'his body' (ศพของเขา) — the κλέπτω object is a corpse. κλέπτω → ขโมย standard"
+        },
+        {
+          "greek": "ἡμῶν κοιμωμένων",
+          "thai": "ขณะที่พวกเรากำลังหลับอยู่",
+          "rationale": "Genitive absolute — temporal 'while we were sleeping.' Per uW figs-exclusive: ἡμῶν = the soldiers, exclusive. Thai พวกเรา"
+        }
       ],
       "notes": "INHERENT INCOHERENCE of the cover story: if the soldiers were asleep, they could not know who took the body or how. Roman military discipline punished sleeping-on-watch severely (often by death, per Tacitus, Josephus); hence the need for the follow-up reassurance in v.14. The narrative strategy makes the priests' story visibly weak — Matthew expects his readers to see through it. Early Christian apologetic literature (Justin Martyr, Dial. 108; Tertullian, Apol. 21) shows this rumor was indeed circulating in the 2nd century, confirming v.15 'to this day.' The story the priests concoct is itself evidence that everyone agreed on the empty tomb — the only question was how it got empty. No one in the 1st century argued the tomb still contained Jesus's body."
     }
@@ -261,13 +501,25 @@
     "greek": "καὶ ἐὰν ἀκουσθῇ τοῦτο ἐπὶ τοῦ ἡγεμόνος,ἡμεῖς πείσομεν αὐτὸν καὶ ὑμᾶς ἀμερίμνους ποιήσομεν.",
     "bsb_english": "If this report reaches the governor, we will satisfy him and keep you out of trouble.”",
     "translation": {
-      "thai": "และหากเรื่องนี้ถูกรายงานถึงผู้ว่าราชการ พวกเราจะชักจูงท่านเอง และพวกเราจะทำให้พวกท่านไม่ต้องกังวล»",
+      "thai": "และหากเรื่องนี้ถูกรายงานถึงผู้ว่าราชการ พวกเราจะชักจูงท่านเอง และพวกเราจะทำให้พวกท่านไม่ต้องกังวล”",
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        {"greek": "ἐὰν ἀκουσθῇ τοῦτο ἐπὶ τοῦ ἡγεμόνος", "thai": "หากเรื่องนี้ถูกรายงานถึงผู้ว่าราชการ", "rationale": "Per uW figs-hypo: 3rd class conditional. Per uW figs-activepassive: ἀκουσθῇ aor.pass of ἀκούω = 'be heard.' ἐπί + gen. here = 'before/in the hearing of' (forensic usage). ἡγεμών → ผู้ว่าราชการ established MAT 27:2 glossary. Thai ถูกรายงานถึง preserves the official-channels sense"},
-        {"greek": "ἡμεῖς πείσομεν αὐτὸν", "thai": "พวกเราจะชักจูงท่านเอง", "rationale": "Per uW figs-explicit: 'persuade him [not to punish you].' πείθω future = shall persuade. ἡμεῖς emphatic. Per uW figs-exclusive: ἡμεῖς = chief priests, exclusive. Thai ชักจูง captures the persuading/influencing sense; ท่าน (Pilate, formal-respectful); เอง (emphatic 'ourselves'). Implied: through bribery/influence, not argument"},
-        {"greek": "ὑμᾶς ἀμερίμνους ποιήσομεν", "thai": "จะทำให้พวกท่านไม่ต้องกังวล", "rationale": "ἀμέριμνος (NT freq 2, here + 1 Cor 7:32) = 'free from care/anxiety.' Per uW figs-explicit: 'keep you free from worry about punishment.' Thai ไม่ต้องกังวล preserves the 'free-from-anxiety' sense"}
+        {
+          "greek": "ἐὰν ἀκουσθῇ τοῦτο ἐπὶ τοῦ ἡγεμόνος",
+          "thai": "หากเรื่องนี้ถูกรายงานถึงผู้ว่าราชการ",
+          "rationale": "Per uW figs-hypo: 3rd class conditional. Per uW figs-activepassive: ἀκουσθῇ aor.pass of ἀκούω = 'be heard.' ἐπί + gen. here = 'before/in the hearing of' (forensic usage). ἡγεμών → ผู้ว่าราชการ established MAT 27:2 glossary. Thai ถูกรายงานถึง preserves the official-channels sense"
+        },
+        {
+          "greek": "ἡμεῖς πείσομεν αὐτὸν",
+          "thai": "พวกเราจะชักจูงท่านเอง",
+          "rationale": "Per uW figs-explicit: 'persuade him [not to punish you].' πείθω future = shall persuade. ἡμεῖς emphatic. Per uW figs-exclusive: ἡμεῖς = chief priests, exclusive. Thai ชักจูง captures the persuading/influencing sense; ท่าน (Pilate, formal-respectful); เอง (emphatic 'ourselves'). Implied: through bribery/influence, not argument"
+        },
+        {
+          "greek": "ὑμᾶς ἀμερίμνους ποιήσομεν",
+          "thai": "จะทำให้พวกท่านไม่ต้องกังวล",
+          "rationale": "ἀμέριμνος (NT freq 2, here + 1 Cor 7:32) = 'free from care/anxiety.' Per uW figs-explicit: 'keep you free from worry about punishment.' Thai ไม่ต้องกังวล preserves the 'free-from-anxiety' sense"
+        }
       ],
       "notes": "RARE WORD: ἀμέριμνος (NT freq 2, here + 1 Cor 7:32). The priests' promise is essentially 'we'll handle Pilate so you don't get executed for dereliction.' Historically plausible: the Sanhedrin could leverage influence, bribes, or political-currency with Pilate, whose tenure (AD 26-36) was politically precarious. The entire exchange is evidence of how Roman-Jewish-leadership collaboration worked in practice at the elite level — favors, silver, mutual-insulation from official accountability. Cf. 27:65 where Pilate passed off the tomb-security problem to the chief priests — the same cooperative-distancing pattern now runs in reverse."
     }
@@ -281,13 +533,33 @@
     "translation": {
       "thai": "พวกทหารจึงรับเงินและทำตามที่ได้รับการสั่งสอน และเรื่องนี้ก็แพร่ออกไปในหมู่ชาวยิวจนถึงทุกวันนี้",
       "thai_literal": null,
-      "thai_summary": "«จนถึงทุกวันนี้» ชี้ว่าเรื่องโกหกเรื่องสาวกขโมยศพยังแพร่หลายเมื่อมัทธิวเขียนพระกิตติคุณ (ประมาณค.ศ. 70-85) เป็นเหตุผลว่าทำไมมัทธิวจึงจำเป็นต้องเล่าเรื่องนี้ — เพื่อหักล้างเรื่องเล่าทางเลือก มัทธิวใช้สูตรเดียวกัน «จนถึงทุกวันนี้» ในข้อ 27:8 (ทุ่งโลหิต) แสดงถึงผลลัพธ์ที่ยังคงอยู่ของเหตุการณ์ในการเล่าเรื่องของเขา",
+      "thai_summary": "“จนถึงทุกวันนี้” ชี้ว่าเรื่องโกหกเรื่องสาวกขโมยศพยังแพร่หลายเมื่อมัทธิวเขียนพระกิตติคุณ (ประมาณค.ศ. 70-85) เป็นเหตุผลว่าทำไมมัทธิวจึงจำเป็นต้องเล่าเรื่องนี้ — เพื่อหักล้างเรื่องเล่าทางเลือก มัทธิวใช้สูตรเดียวกัน “จนถึงทุกวันนี้” ในข้อ 27:8 (ทุ่งโลหิต) แสดงถึงผลลัพธ์ที่ยังคงอยู่ของเหตุการณ์ในการเล่าเรื่องของเขา",
       "key_decisions": [
-        {"greek": "οἱ δὲ λαβόντες", "thai": "พวกทหารจึงรับ", "rationale": "Specifying subject (the soldiers) for clarity in Thai; Greek subject is implicit from v.12"},
-        {"greek": "ἐποίησαν ὡς ἐδιδάχθησαν", "thai": "ทำตามที่ได้รับการสั่งสอน", "rationale": "Per uW figs-activepassive: ἐδιδάχθησαν passive 'they were taught.' Implied agent = the chief priests. διδάσκω glossary → สอน; passive ได้รับการสั่งสอน"},
-        {"greek": "διεφημίσθη ὁ λόγος οὗτος", "thai": "เรื่องนี้ก็แพร่ออกไป", "rationale": "διαφημίζω (NT freq 3) aor.pass = 'was spread widely / became widely known.' Per uW figs-metonymy: ὁ λόγος here = the false-story they circulated. Thai เรื่องนี้แพร่ออกไป captures the rumor-spreading sense"},
-        {"greek": "παρὰ Ἰουδαίοις", "thai": "ในหมู่ชาวยิว", "rationale": "παρά + dat. 'among.' Ἰουδαῖος plural = Jews (non-Christian contemporaries of Matthew's audience). Thai ชาวยิว standard"},
-        {"greek": "μέχρι τῆς σήμερον ἡμέρας", "thai": "จนถึงทุกวันนี้", "rationale": "Matthean narrator-aside formula; same phrase at 27:8. Indicates writing-time c. AD 70-85. Thai จนถึงทุกวันนี้ consistent glossary"}
+        {
+          "greek": "οἱ δὲ λαβόντες",
+          "thai": "พวกทหารจึงรับ",
+          "rationale": "Specifying subject (the soldiers) for clarity in Thai; Greek subject is implicit from v.12"
+        },
+        {
+          "greek": "ἐποίησαν ὡς ἐδιδάχθησαν",
+          "thai": "ทำตามที่ได้รับการสั่งสอน",
+          "rationale": "Per uW figs-activepassive: ἐδιδάχθησαν passive 'they were taught.' Implied agent = the chief priests. διδάσκω glossary → สอน; passive ได้รับการสั่งสอน"
+        },
+        {
+          "greek": "διεφημίσθη ὁ λόγος οὗτος",
+          "thai": "เรื่องนี้ก็แพร่ออกไป",
+          "rationale": "διαφημίζω (NT freq 3) aor.pass = 'was spread widely / became widely known.' Per uW figs-metonymy: ὁ λόγος here = the false-story they circulated. Thai เรื่องนี้แพร่ออกไป captures the rumor-spreading sense"
+        },
+        {
+          "greek": "παρὰ Ἰουδαίοις",
+          "thai": "ในหมู่ชาวยิว",
+          "rationale": "παρά + dat. 'among.' Ἰουδαῖος plural = Jews (non-Christian contemporaries of Matthew's audience). Thai ชาวยิว standard"
+        },
+        {
+          "greek": "μέχρι τῆς σήμερον ἡμέρας",
+          "thai": "จนถึงทุกวันนี้",
+          "rationale": "Matthean narrator-aside formula; same phrase at 27:8. Indicates writing-time c. AD 70-85. Thai จนถึงทุกวันนี้ consistent glossary"
+        }
       ],
       "notes": "MATTHEAN EDITORIAL ASIDE — pairs with 27:8 ('Field of Blood...to this day') as Matthew's two 'to this day' narrator-asides in the passion narrative. Both establish the durable real-world consequence: a named field, a persistent rumor. The rumor's persistence ('to this day') is remarkable confirmation: by the time Matthew wrote (c. AD 70-85, one generation later), the disciple-theft story was still the main Jewish alternative-explanation for the empty tomb. This means: (a) the empty tomb was never in dispute; (b) the only counter-claim was stolen-body; (c) this counter-claim required Matthew's rebuttal because it was serious enough to demand answer. Matthew's historical-apologetic function here is unmistakable. Justin Martyr (Dial. 108.2, c. AD 155) confirms this Jewish counter-story was still circulating a century later, even institutionally spread by emissaries from Jerusalem. NO OT CITATION — Matthean editorial."
     }
@@ -301,11 +573,23 @@
     "translation": {
       "thai": "ส่วนเหล่าสาวกสิบเอ็ดคนได้ไปยังแคว้นกาลิลี ยังภูเขาที่พระเยซูทรงนัดหมายพวกเขาไว้",
       "thai_literal": null,
-      "thai_summary": "«สิบเอ็ด» (แทนที่จะเป็นสิบสอง) เป็นเครื่องเตือนความจำอย่างเงียบๆ ถึงยูดาส ภูเขาในแคว้นกาลิลีเป็นสถานที่สำคัญในมัทธิว — พระเยซูทรงตรัสเทศนาบนภูเขา (บทที่ 5) ทรงแปลงพระกายบนภูเขา (17:1) และบัดนี้ประทานพระมหาบัญชาบนภูเขา สื่อถึงโมเสสที่ภูเขาซีนาย — พระคริสต์ประทานพระบัญชาใหม่จากภูเขาใหม่แก่ผู้รับใช้กลุ่มใหม่",
+      "thai_summary": "“สิบเอ็ด” (แทนที่จะเป็นสิบสอง) เป็นเครื่องเตือนความจำอย่างเงียบๆ ถึงยูดาส ภูเขาในแคว้นกาลิลีเป็นสถานที่สำคัญในมัทธิว — พระเยซูทรงตรัสเทศนาบนภูเขา (บทที่ 5) ทรงแปลงพระกายบนภูเขา (17:1) และบัดนี้ประทานพระมหาบัญชาบนภูเขา สื่อถึงโมเสสที่ภูเขาซีนาย — พระคริสต์ประทานพระบัญชาใหม่จากภูเขาใหม่แก่ผู้รับใช้กลุ่มใหม่",
       "key_decisions": [
-        {"greek": "Οἱ δὲ ἕνδεκα μαθηταὶ", "thai": "ส่วนเหล่าสาวกสิบเอ็ดคน", "rationale": "Per uW figs-explicit: the Twelve minus Judas Iscariot (27:5 suicide). ἕνδεκα 'eleven' appears only 3x in Matthew (here and in the post-resurrection-group contexts elsewhere in NT). Thai สิบเอ็ดคน (eleven persons). ส่วน (contrastive 'as for') marks the scene-shift from guards to disciples"},
-        {"greek": "εἰς τὸ ὄρος", "thai": "ยังภูเขา", "rationale": "ὄρος glossary established (4:8, 5:1, 14:23, 15:29, 17:1) → ภูเขา. Thai ยังภูเขา 'to the mountain'"},
-        {"greek": "οὗ ἐτάξατο αὐτοῖς", "thai": "ที่พระเยซูทรงนัดหมายพวกเขาไว้", "rationale": "τάσσω aor.mid. = 'appoint, arrange, set (for someone).' Middle voice — Jesus appointed it for-their-benefit. Royal verb ทรง + นัดหมาย (make an appointment) with ไว้ (perfective). Jesus's prior directive not recorded in MAT narrative but implied (cf. 26:32, reaffirmed through angel and Jesus himself in vv.7, 10). Could refer to the mountain of the Sermon (ch. 5) or of the Transfiguration (17:1) — Matthew doesn't specify, maintaining typological-ambiguity"}
+        {
+          "greek": "Οἱ δὲ ἕνδεκα μαθηταὶ",
+          "thai": "ส่วนเหล่าสาวกสิบเอ็ดคน",
+          "rationale": "Per uW figs-explicit: the Twelve minus Judas Iscariot (27:5 suicide). ἕνδεκα 'eleven' appears only 3x in Matthew (here and in the post-resurrection-group contexts elsewhere in NT). Thai สิบเอ็ดคน (eleven persons). ส่วน (contrastive 'as for') marks the scene-shift from guards to disciples"
+        },
+        {
+          "greek": "εἰς τὸ ὄρος",
+          "thai": "ยังภูเขา",
+          "rationale": "ὄρος glossary established (4:8, 5:1, 14:23, 15:29, 17:1) → ภูเขา. Thai ยังภูเขา 'to the mountain'"
+        },
+        {
+          "greek": "οὗ ἐτάξατο αὐτοῖς",
+          "thai": "ที่พระเยซูทรงนัดหมายพวกเขาไว้",
+          "rationale": "τάσσω aor.mid. = 'appoint, arrange, set (for someone).' Middle voice — Jesus appointed it for-their-benefit. Royal verb ทรง + นัดหมาย (make an appointment) with ไว้ (perfective). Jesus's prior directive not recorded in MAT narrative but implied (cf. 26:32, reaffirmed through angel and Jesus himself in vv.7, 10). Could refer to the mountain of the Sermon (ch. 5) or of the Transfiguration (17:1) — Matthew doesn't specify, maintaining typological-ambiguity"
+        }
       ],
       "notes": "NUMBER SHIFT: the Twelve becomes Eleven — silent memorial of Judas. MOUNTAIN THEOLOGY: Matthew has a sustained mountain-motif: (a) 4:8 (temptation-mountain), (b) 5:1 (Sermon-mount), (c) 14:23 (prayer-mountain), (d) 15:29 (healing-mountain), (e) 17:1 (Transfiguration-mountain), (f) 24:3 (Olivet-discourse), (g) 28:16 (Commission-mountain). The Matthean Jesus is a new-Moses whose authoritative teaching issues from a mountain, echoing Exod 19-24 (Sinai). The Commission from a Galilean mountain to 'all nations' deliberately inverts Moses's covenant-to-Israel structure: a new covenant, a new teacher, a wider scope. ἐτάξατο 'he had designated' — middle voice suggests personal appointing, for-their-benefit. ADDED TO NT_OT_CITATIONS: MAT 28:16 thematic_allusion — mountain-of-divine-revelation echoing EXO 19:20 (Sinai) + ISA 2:2-3 (mountain of the Lord to which nations will stream)."
     }
@@ -319,10 +603,18 @@
     "translation": {
       "thai": "เมื่อพวกเขาเห็นพระองค์ก็นมัสการพระองค์ แต่บางคนยังสงสัย",
       "thai_literal": null,
-      "thai_summary": "รายละเอียดที่ «บางคนยังสงสัย» เป็นเอกลักษณ์ของมัทธิวที่ไม่มีพระกิตติคุณอื่นบันทึก — เป็นหลักฐานของความซื่อสัตย์ในการเล่าเรื่อง ไม่ได้ปกปิดปฏิกิริยาแบบมนุษย์ของเหล่าสาวกแม้ในขณะพบพระคริสต์ผู้ทรงฟื้นคืนพระชนม์ การนมัสการและความสงสัยอยู่เคียงข้างกันได้ — ความเชื่อที่แท้จริงไม่ใช่การปราศจากคำถาม",
+      "thai_summary": "รายละเอียดที่ “บางคนยังสงสัย” เป็นเอกลักษณ์ของมัทธิวที่ไม่มีพระกิตติคุณอื่นบันทึก — เป็นหลักฐานของความซื่อสัตย์ในการเล่าเรื่อง ไม่ได้ปกปิดปฏิกิริยาแบบมนุษย์ของเหล่าสาวกแม้ในขณะพบพระคริสต์ผู้ทรงฟื้นคืนพระชนม์ การนมัสการและความสงสัยอยู่เคียงข้างกันได้ — ความเชื่อที่แท้จริงไม่ใช่การปราศจากคำถาม",
       "key_decisions": [
-        {"greek": "ἰδόντες αὐτὸν προσεκύνησαν", "thai": "เมื่อพวกเขาเห็นพระองค์ก็นมัสการพระองค์", "rationale": "προσκυνέω established MAT glossary → นมัสการ. First post-resurrection group-worship by the Eleven. Royal-object พระองค์ for Jesus"},
-        {"greek": "οἱ δὲ ἐδίστασαν", "thai": "แต่บางคนยังสงสัย", "rationale": "διστάζω (NT freq 2, here + Matt 14:31 'Peter, why did you doubt') = 'be of two minds, hesitate, doubt.' Per uW writing-pronouns: οἱ δὲ ambiguous — could mean (1) 'they (all) doubted' or (2) 'some (of them) doubted.' Following option (2) with majority translations. Thai บางคน (some, unspecified subset). ยังสงสัย (still had doubt) — imperfective lingering-state"}
+        {
+          "greek": "ἰδόντες αὐτὸν προσεκύνησαν",
+          "thai": "เมื่อพวกเขาเห็นพระองค์ก็นมัสการพระองค์",
+          "rationale": "προσκυνέω established MAT glossary → นมัสการ. First post-resurrection group-worship by the Eleven. Royal-object พระองค์ for Jesus"
+        },
+        {
+          "greek": "οἱ δὲ ἐδίστασαν",
+          "thai": "แต่บางคนยังสงสัย",
+          "rationale": "διστάζω (NT freq 2, here + Matt 14:31 'Peter, why did you doubt') = 'be of two minds, hesitate, doubt.' Per uW writing-pronouns: οἱ δὲ ambiguous — could mean (1) 'they (all) doubted' or (2) 'some (of them) doubted.' Following option (2) with majority translations. Thai บางคน (some, unspecified subset). ยังสงสัย (still had doubt) — imperfective lingering-state"
+        }
       ],
       "notes": "MATTHEAN UNIQUE DETAIL: only Matthew records that 'some doubted' at the resurrection-appearance. This is an evidential detail — a fabricated resurrection-narrative would not include it. The verb διστάζω is the same word used of Peter at 14:31 (sinking in the water). It implies hesitation or cognitive dissonance, not flat disbelief. Some ancient harmonizations suggest 'some (not of the eleven, but of other disciples present) doubted'; others take it at face value — even the Eleven included doubting members at the encounter. The juxtaposition of προσεκύνησαν (worshiped) and ἐδίστασαν (doubted) in the same moment is theologically profound: genuine faith coexists with genuine uncertainty. Note: διστάζω ≠ ἀπιστέω ('disbelieve'); the former is wavering, the latter is refusal. The Great Commission is given to worshipers who also doubt — grace to the imperfect."
     }
@@ -334,14 +626,30 @@
     "greek": "καὶ προσελθὼν ὁ Ἰησοῦς ἐλάλησεν αὐτοῖς λέγων·Ἐδόθη μοι πᾶσα ἐξουσία ἐν οὐρανῷ καὶ ἐπὶ τῆς γῆς·",
     "bsb_english": "Then Jesus came to them and said, “All authority in heaven and on earth has been given to Me.",
     "translation": {
-      "thai": "พระเยซูเสด็จเข้ามาและตรัสกับพวกเขาว่า «สิทธิอำนาจทั้งสิ้นในสวรรค์และบนแผ่นดินโลกได้ทรงประทานแก่เราแล้ว",
+      "thai": "พระเยซูเสด็จเข้ามาและตรัสกับพวกเขาว่า “สิทธิอำนาจทั้งสิ้นในสวรรค์และบนแผ่นดินโลกได้ทรงประทานแก่เราแล้ว",
       "thai_literal": null,
-      "thai_summary": "คำประกาศของพระเยซูสำเร็จตามนิมิตบุตรมนุษย์ในดาเนียล 7:13-14 — «มีผู้ที่เหมือนบุตรมนุษย์มา...และมีสิทธิอำนาจ ศักดิ์ศรี และอาณาจักรประทานให้แก่ท่าน เพื่อประชาชนทุกชาติ ทุกเผ่าพันธุ์ และทุกภาษาจะได้ปรนนิบัติท่าน» นี่คือพื้นฐานของพระมหาบัญชา — การออกไปสั่งสอนบรรดาประชาชาติไม่ใช่ความทะเยอทะยาน แต่เป็นการประกาศสิทธิอำนาจที่มีอยู่แล้ว",
+      "thai_summary": "คำประกาศของพระเยซูสำเร็จตามนิมิตบุตรมนุษย์ในดาเนียล 7:13-14 — “มีผู้ที่เหมือนบุตรมนุษย์มา...และมีสิทธิอำนาจ ศักดิ์ศรี และอาณาจักรประทานให้แก่ท่าน เพื่อประชาชนทุกชาติ ทุกเผ่าพันธุ์ และทุกภาษาจะได้ปรนนิบัติท่าน” นี่คือพื้นฐานของพระมหาบัญชา — การออกไปสั่งสอนบรรดาประชาชาติไม่ใช่ความทะเยอทะยาน แต่เป็นการประกาศสิทธิอำนาจที่มีอยู่แล้ว",
       "key_decisions": [
-        {"greek": "προσελθὼν ὁ Ἰησοῦς", "thai": "พระเยซูเสด็จเข้ามา", "rationale": "προσέρχομαι — same verb that has been used of disciples approaching Jesus throughout MAT; here inverted as Jesus approaches them. Royal verb เสด็จ per §3"},
-        {"greek": "ἐλάλησεν αὐτοῖς λέγων", "thai": "ตรัสกับพวกเขาว่า", "rationale": "λαλέω + λέγων pleonastic 'spoke-saying' — Semitic influence. Thai simplifies to single ตรัส (royal for Jesus). Consistent with §3"},
-        {"greek": "Ἐδόθη μοι πᾶσα ἐξουσία", "thai": "สิทธิอำนาจทั้งสิ้น...ได้ทรงประทานแก่เราแล้ว", "rationale": "ἐδόθη aor.pass of δίδωμι = divine passive ('God gave'). Royal-self-reference เรา per §3. Royal passive ได้ทรงประทานแก่เรา — the giver is God the Father (explicit in uW figs-activepassive alt). ἐξουσία glossary established (7:29, 9:6, 9:8, 10:1) → สิทธิอำนาจ. πᾶσα = all-encompassing"},
-        {"greek": "ἐν οὐρανῷ καὶ ἐπὶ τῆς γῆς", "thai": "ในสวรรค์และบนแผ่นดินโลก", "rationale": "Per uW figs-merism: 'heaven + earth' = totality of created order. Singular οὐρανός here (not Matthew's usual plural οὐρανοῖς for 'kingdom of heavens') — the simple-locative sense. Thai ในสวรรค์...บนแผ่นดินโลก preserves the merism"}
+        {
+          "greek": "προσελθὼν ὁ Ἰησοῦς",
+          "thai": "พระเยซูเสด็จเข้ามา",
+          "rationale": "προσέρχομαι — same verb that has been used of disciples approaching Jesus throughout MAT; here inverted as Jesus approaches them. Royal verb เสด็จ per §3"
+        },
+        {
+          "greek": "ἐλάλησεν αὐτοῖς λέγων",
+          "thai": "ตรัสกับพวกเขาว่า",
+          "rationale": "λαλέω + λέγων pleonastic 'spoke-saying' — Semitic influence. Thai simplifies to single ตรัส (royal for Jesus). Consistent with §3"
+        },
+        {
+          "greek": "Ἐδόθη μοι πᾶσα ἐξουσία",
+          "thai": "สิทธิอำนาจทั้งสิ้น...ได้ทรงประทานแก่เราแล้ว",
+          "rationale": "ἐδόθη aor.pass of δίδωμι = divine passive ('God gave'). Royal-self-reference เรา per §3. Royal passive ได้ทรงประทานแก่เรา — the giver is God the Father (explicit in uW figs-activepassive alt). ἐξουσία glossary established (7:29, 9:6, 9:8, 10:1) → สิทธิอำนาจ. πᾶσα = all-encompassing"
+        },
+        {
+          "greek": "ἐν οὐρανῷ καὶ ἐπὶ τῆς γῆς",
+          "thai": "ในสวรรค์และบนแผ่นดินโลก",
+          "rationale": "Per uW figs-merism: 'heaven + earth' = totality of created order. Singular οὐρανός here (not Matthew's usual plural οὐρανοῖς for 'kingdom of heavens') — the simple-locative sense. Thai ในสวรรค์...บนแผ่นดินโลก preserves the merism"
+        }
       ],
       "notes": "CENTRAL OT CITATION: this is the direct fulfillment-claim of Dan 7:13-14 LXX: 'And behold, with the clouds of heaven came one like a son of man...and to him was given dominion (ἐξουσία) and glory and a kingdom, that all peoples, nations, and languages should serve him.' Jesus's 'all authority has been given to me' is the Son-of-Man enthronement declared in first person. Matthew has been building this identification throughout the gospel (16:27-28, 24:30, 25:31, 26:64) — now Daniel's vision is self-claimed by the risen Christ. The divine passive ἐδόθη preserves the Father-gives-Son structure (Phil 2:9-11 parallels: 'therefore God highly exalted him'). This verse is the logical and theological foundation for the Commission that follows: because Jesus has ALL authority, therefore the disciples go to ALL nations. ADDED TO NT_OT_CITATIONS: MAT 28:18 citation of DAN 7:13-14 LXX (Son of Man given universal authority). The 'heaven and earth' totality also connects to Ps 2 (nations as inheritance), Ps 110 (session at God's right hand), Isa 52:7-10 (God's salvation reaching the ends of the earth)."
     }
@@ -355,13 +663,33 @@
     "translation": {
       "thai": "เหตุฉะนั้น จงออกไปสั่งสอนบรรดาประชาชาติทั้งสิ้นให้เป็นสาวกของเรา ให้บัพติศมาแก่พวกเขาในพระนามของพระบิดา พระบุตร และพระวิญญาณบริสุทธิ์",
       "thai_literal": null,
-      "thai_summary": "พระดำรัสนี้คือ «พระมหาบัญชา» ซึ่งเป็นฐานของพันธกิจคริสเตียนทั่วโลก «บรรดาประชาชาติทั้งสิ้น» รวมทั้งชาวยิวและชนต่างชาติ — เต็มเติมพระสัญญาที่ประทานแก่อับราฮัมในปฐมกาล 12:3 ที่ว่า «บรรดาเผ่าพันธุ์ทั่วโลกจะได้รับพรในเจ้า» สังเกตว่าเป็น «พระนาม» (เอกพจน์) ของสามบุคคล — ทั้งสามมีพระนามเดียวกัน สะท้อนถึงหลักคำสอนเรื่องตรีเอกภาพ",
+      "thai_summary": "พระดำรัสนี้คือ “พระมหาบัญชา” ซึ่งเป็นฐานของพันธกิจคริสเตียนทั่วโลก “บรรดาประชาชาติทั้งสิ้น” รวมทั้งชาวยิวและชนต่างชาติ — เต็มเติมพระสัญญาที่ประทานแก่อับราฮัมในปฐมกาล 12:3 ที่ว่า “บรรดาเผ่าพันธุ์ทั่วโลกจะได้รับพรในเจ้า” สังเกตว่าเป็น “พระนาม” (เอกพจน์) ของสามบุคคล — ทั้งสามมีพระนามเดียวกัน สะท้อนถึงหลักคำสอนเรื่องตรีเอกภาพ",
       "key_decisions": [
-        {"greek": "πορευθέντες οὖν", "thai": "เหตุฉะนั้น จงออกไป", "rationale": "Aorist passive deponent participle + οὖν ('therefore'). Per uW grammar-connect-logic-result: οὖν links to v.18 ('because all authority is mine...'). Grammatical debate: πορευθέντες is participle (circumstantial 'as you go' OR imperatival-attendant-circumstance 'go and'). Standard translation follows imperatival-attendant force with the main imperative μαθητεύσατε ('go and make disciples'). Thai จงออกไป preserves the imperatival force; เหตุฉะนั้น renders οὖν"},
-        {"greek": "μαθητεύσατε πάντα τὰ ἔθνη", "thai": "สั่งสอน...ทั้งสิ้นให้เป็นสาวกของเรา", "rationale": "μαθητεύω (NT freq 4) — transitive 'make [someone] a disciple.' Per uW figs-explicit: the disciples are to make all-the-nations into Jesus's disciples (of-me). πάντα τὰ ἔθνη glossary established (MAT 24:14, 25:32 บรรดาประชาชาติ). Thai สั่งสอน...ให้เป็นสาวก (teach...to become disciples) — the verb of-disciple-making in Thai. ของเรา (of-me) makes the possessive explicit: disciples of Jesus"},
-        {"greek": "βαπτίζοντες αὐτοὺς", "thai": "ให้บัพติศมาแก่พวกเขา", "rationale": "βαπτίζω present-participle — ongoing mode-of-disciple-making. Per uW figs-explicit (additional option): participle functions as (1) coordinate action ('and baptize') or (2) means/mode of disciple-making ('by baptizing'). Thai ให้บัพติศมาแก่ glossary established. We render as coordinate command; the mode-interpretation is valid but the coordinate-reading is more common"},
-        {"greek": "εἰς τὸ ὄνομα", "thai": "ในพระนาม", "rationale": "εἰς + accusative 'into.' Per uW figs-metonymy: 'name' = authority, identity, relationship. Thai ในพระนาม (in the divine-Name) — royal พระ prefix marks divine-Name. Crucial: ὄνομα is SINGULAR — one Name, three persons. This Trinitarian formula is unique in the NT (Didache 7 preserves the same formula very early)"},
-        {"greek": "τοῦ πατρὸς καὶ τοῦ υἱοῦ καὶ τοῦ ἁγίου πνεύματος", "thai": "ของพระบิดา พระบุตร และพระวิญญาณบริสุทธิ์", "rationale": "Three definite articles + three persons. Royal-names: พระบิดา (divine Father, glossary est. MAT 5:45, 6:9, etc.), พระบุตร (divine Son — not used simply as υἱός, context makes this clear), พระวิญญาณบริสุทธิ์ (Holy Spirit, glossary est.). Per uW guidelines-sonofgodprinciples: Father-Son are eternal-relational titles. Per uW figs-123person: the Son's self-reference in 3rd person — 'of me who am the Son' is an acceptable alt, but we preserve the 3rd-person formula for liturgical-fidelity"}
+        {
+          "greek": "πορευθέντες οὖν",
+          "thai": "เหตุฉะนั้น จงออกไป",
+          "rationale": "Aorist passive deponent participle + οὖν ('therefore'). Per uW grammar-connect-logic-result: οὖν links to v.18 ('because all authority is mine...'). Grammatical debate: πορευθέντες is participle (circumstantial 'as you go' OR imperatival-attendant-circumstance 'go and'). Standard translation follows imperatival-attendant force with the main imperative μαθητεύσατε ('go and make disciples'). Thai จงออกไป preserves the imperatival force; เหตุฉะนั้น renders οὖν"
+        },
+        {
+          "greek": "μαθητεύσατε πάντα τὰ ἔθνη",
+          "thai": "สั่งสอน...ทั้งสิ้นให้เป็นสาวกของเรา",
+          "rationale": "μαθητεύω (NT freq 4) — transitive 'make [someone] a disciple.' Per uW figs-explicit: the disciples are to make all-the-nations into Jesus's disciples (of-me). πάντα τὰ ἔθνη glossary established (MAT 24:14, 25:32 บรรดาประชาชาติ). Thai สั่งสอน...ให้เป็นสาวก (teach...to become disciples) — the verb of-disciple-making in Thai. ของเรา (of-me) makes the possessive explicit: disciples of Jesus"
+        },
+        {
+          "greek": "βαπτίζοντες αὐτοὺς",
+          "thai": "ให้บัพติศมาแก่พวกเขา",
+          "rationale": "βαπτίζω present-participle — ongoing mode-of-disciple-making. Per uW figs-explicit (additional option): participle functions as (1) coordinate action ('and baptize') or (2) means/mode of disciple-making ('by baptizing'). Thai ให้บัพติศมาแก่ glossary established. We render as coordinate command; the mode-interpretation is valid but the coordinate-reading is more common"
+        },
+        {
+          "greek": "εἰς τὸ ὄνομα",
+          "thai": "ในพระนาม",
+          "rationale": "εἰς + accusative 'into.' Per uW figs-metonymy: 'name' = authority, identity, relationship. Thai ในพระนาม (in the divine-Name) — royal พระ prefix marks divine-Name. Crucial: ὄνομα is SINGULAR — one Name, three persons. This Trinitarian formula is unique in the NT (Didache 7 preserves the same formula very early)"
+        },
+        {
+          "greek": "τοῦ πατρὸς καὶ τοῦ υἱοῦ καὶ τοῦ ἁγίου πνεύματος",
+          "thai": "ของพระบิดา พระบุตร และพระวิญญาณบริสุทธิ์",
+          "rationale": "Three definite articles + three persons. Royal-names: พระบิดา (divine Father, glossary est. MAT 5:45, 6:9, etc.), พระบุตร (divine Son — not used simply as υἱός, context makes this clear), พระวิญญาณบริสุทธิ์ (Holy Spirit, glossary est.). Per uW guidelines-sonofgodprinciples: Father-Son are eternal-relational titles. Per uW figs-123person: the Son's self-reference in 3rd person — 'of me who am the Son' is an acceptable alt, but we preserve the 3rd-person formula for liturgical-fidelity"
+        }
       ],
       "notes": "THE GREAT COMMISSION — fundamental mission-statement of the NT. The single-Name Trinitarian-baptismal formula (εἰς τὸ ὄνομα τοῦ πατρὸς καὶ τοῦ υἱοῦ καὶ τοῦ ἁγίου πνεύματος) is unique in the NT and one of the earliest Trinitarian-formula witnesses. Didache 7 (c. AD 80-110) reproduces this formula. Singular ὄνομα (not plural 'names') is theologically crucial: one divine Name — three Persons sharing that Name. The Matthean Jesus claims for himself, as Son, a place within the single divine Name alongside Father and Spirit — an implicit-but-emphatic deity claim. UNIVERSAL SCOPE: πάντα τὰ ἔθνη — contrast with Jesus's restricted mission during earthly ministry (MAT 10:5-6, 15:24). Post-resurrection, the Abrahamic scope (Gen 12:3 — all families blessed through Abraham's seed) reaches full flower. ADDED TO NT_OT_CITATIONS: MAT 28:19 thematic_allusion GEN 12:3 + ISA 2:2-3 + PSA 2:8 (all nations as inheritance) + DAN 7:14 (service from all peoples)."
     }
@@ -373,15 +701,35 @@
     "greek": "διδάσκοντες αὐτοὺς τηρεῖν πάντα ὅσα ἐνετειλάμην ὑμῖν·καὶ ἰδοὺ ἐγὼ μεθ’ὑμῶν εἰμι πάσας τὰς ἡμέρας ἕως τῆς συντελείας τοῦ αἰῶνος.",
     "bsb_english": "and teaching them to obey all that I have commanded you. And surely I am with you always, even to the end of the age.”",
     "translation": {
-      "thai": "สอนพวกเขาให้ถือรักษาทุกสิ่งที่เราได้สั่งพวกท่านไว้ และดูเถิด เราจะอยู่กับพวกท่านเสมอไปจนถึงยุคอวสาน»",
+      "thai": "สอนพวกเขาให้ถือรักษาทุกสิ่งที่เราได้สั่งพวกท่านไว้ และดูเถิด เราจะอยู่กับพวกท่านเสมอไปจนถึงยุคอวสาน”",
       "thai_literal": null,
-      "thai_summary": "คำสุดท้ายของพระเยซูในมัทธิว «เราจะอยู่กับพวกท่าน» สะท้อนคำเปิดของมัทธิว «อิมมานูเอล — พระเจ้าทรงสถิตกับเรา» (1:23) เปิด-ปิดพระกิตติคุณด้วยธีมเดียว พระสัญญานี้ยังเป็นการยืนยันพระสัญญาของพันธสัญญาเดิมที่พระเจ้าทรงให้แก่ประชากรของพระองค์ (ปฐมกาล 28:15 แก่ยาโคบ อพยพ 3:12 แก่โมเสส เยเรมีย์ 1:8 แก่เยเรมีย์) — พระคริสต์ผู้ทรงฟื้นคืนพระชนม์ทรงเป็นผู้สืบทอดพระสัญญาแห่งการสถิตอยู่ของพระเจ้า",
+      "thai_summary": "คำสุดท้ายของพระเยซูในมัทธิว “เราจะอยู่กับพวกท่าน” สะท้อนคำเปิดของมัทธิว “อิมมานูเอล — พระเจ้าทรงสถิตกับเรา” (1:23) เปิด-ปิดพระกิตติคุณด้วยธีมเดียว พระสัญญานี้ยังเป็นการยืนยันพระสัญญาของพันธสัญญาเดิมที่พระเจ้าทรงให้แก่ประชากรของพระองค์ (ปฐมกาล 28:15 แก่ยาโคบ อพยพ 3:12 แก่โมเสส เยเรมีย์ 1:8 แก่เยเรมีย์) — พระคริสต์ผู้ทรงฟื้นคืนพระชนม์ทรงเป็นผู้สืบทอดพระสัญญาแห่งการสถิตอยู่ของพระเจ้า",
       "key_decisions": [
-        {"greek": "διδάσκοντες αὐτοὺς τηρεῖν", "thai": "สอนพวกเขาให้ถือรักษา", "rationale": "Present participle — ongoing third-mode-of-disciple-making (alongside 'going' and 'baptizing'). διδάσκω glossary → สอน/สั่งสอน. τηρέω = 'observe, keep (commands).' Thai ถือรักษา (keep-observe) standard for keeping-commandments. Consistent with MAT 19:17 (ἐντολάς τήρησον → จงรักษาพระบัญญัติ)"},
-        {"greek": "πάντα ὅσα ἐνετειλάμην ὑμῖν", "thai": "ทุกสิ่งที่เราได้สั่งพวกท่านไว้", "rationale": "Per uW figs-explicitinfo: πάντα ὅσα 'everything, as-much-as' — pleonastic. ἐντέλλομαι aor.mid. = 'command.' Royal-self-reference เรา; royal imperfective-perfective ได้สั่ง...ไว้. Scope: all Jesus's teaching recorded in MAT, not only the Commission itself"},
-        {"greek": "καὶ ἰδοὺ ἐγὼ μεθ’ὑμῶν εἰμι", "thai": "และดูเถิด เราจะอยู่กับพวกท่าน", "rationale": "Emphatic ἐγώ. Per uW translate-tense: present εἰμι with future-durative force ('am/will-be'). Thai เราจะอยู่ — present-future royal-self-reference. μεθ᾽ὑμῶν = 'with you.' Thai กับพวกท่าน. The present-tense is theologically crucial: Christ is present NOW and will remain so"},
-        {"greek": "πάσας τὰς ἡμέρας", "thai": "เสมอไป", "rationale": "Per uW figs-idiom: 'all the days' = always. Thai เสมอไป (always, into-the-future)"},
-        {"greek": "ἕως τῆς συντελείας τοῦ αἰῶνος", "thai": "จนถึงยุคอวสาน", "rationale": "Matthean signature phrase (13:39, 13:40, 13:49, 24:3, 28:20 — five occurrences, all Matthean). συντέλεια τοῦ αἰῶνος established MAT 13:39, 24:3 glossary → ยุคอวสาน. Consistent across the Matthean corpus"}
+        {
+          "greek": "διδάσκοντες αὐτοὺς τηρεῖν",
+          "thai": "สอนพวกเขาให้ถือรักษา",
+          "rationale": "Present participle — ongoing third-mode-of-disciple-making (alongside 'going' and 'baptizing'). διδάσκω glossary → สอน/สั่งสอน. τηρέω = 'observe, keep (commands).' Thai ถือรักษา (keep-observe) standard for keeping-commandments. Consistent with MAT 19:17 (ἐντολάς τήρησον → จงรักษาพระบัญญัติ)"
+        },
+        {
+          "greek": "πάντα ὅσα ἐνετειλάμην ὑμῖν",
+          "thai": "ทุกสิ่งที่เราได้สั่งพวกท่านไว้",
+          "rationale": "Per uW figs-explicitinfo: πάντα ὅσα 'everything, as-much-as' — pleonastic. ἐντέλλομαι aor.mid. = 'command.' Royal-self-reference เรา; royal imperfective-perfective ได้สั่ง...ไว้. Scope: all Jesus's teaching recorded in MAT, not only the Commission itself"
+        },
+        {
+          "greek": "καὶ ἰδοὺ ἐγὼ μεθ’ὑμῶν εἰμι",
+          "thai": "และดูเถิด เราจะอยู่กับพวกท่าน",
+          "rationale": "Emphatic ἐγώ. Per uW translate-tense: present εἰμι with future-durative force ('am/will-be'). Thai เราจะอยู่ — present-future royal-self-reference. μεθ᾽ὑμῶν = 'with you.' Thai กับพวกท่าน. The present-tense is theologically crucial: Christ is present NOW and will remain so"
+        },
+        {
+          "greek": "πάσας τὰς ἡμέρας",
+          "thai": "เสมอไป",
+          "rationale": "Per uW figs-idiom: 'all the days' = always. Thai เสมอไป (always, into-the-future)"
+        },
+        {
+          "greek": "ἕως τῆς συντελείας τοῦ αἰῶνος",
+          "thai": "จนถึงยุคอวสาน",
+          "rationale": "Matthean signature phrase (13:39, 13:40, 13:49, 24:3, 28:20 — five occurrences, all Matthean). συντέλεια τοῦ αἰῶνος established MAT 13:39, 24:3 glossary → ยุคอวสาน. Consistent across the Matthean corpus"
+        }
       ],
       "notes": "TEXTUAL VARIANT: some MSS add ἀμήν ('Amen') after αἰῶνος. SBLGNT and most modern critical editions omit (the shorter reading is original; ἀμήν was added for liturgical-ending). We follow SBLGNT — no Amen. MATTHEAN INCLUSIO: 'I am with you always to the end of the age' echoes MAT 1:23 ('they shall call his name Emmanuel, which means God with us'). Matthew bookends his entire Gospel with the divine-presence theme: the infant Emmanuel (1:23) becomes the risen Christ (28:20) who continues to be 'with' his people. COVENANTAL PROMISE: 'I am with you' is the archetypal OT divine-presence formula — spoken to Isaac (Gen 26:3, 24), Jacob (Gen 28:15, 31:3), Moses (Exod 3:12), Joshua (Josh 1:5, 9), Gideon (Judg 6:16), David (2 Sam 7:3), Jeremiah (Jer 1:8, 19), Haggai (Hag 1:13), and eschatologically Isa 41:10, 43:5. Jesus takes this divine-prerogative-formula into his own mouth — 'I am with you' — and universalizes it to the church. ADDED TO NT_OT_CITATIONS: MAT 28:20 thematic_allusion to covenantal 'I-am-with-you' formula across OT (GEN 28:15, EXO 3:12, JER 1:8, ISA 41:10, HAG 1:13). Ends the Gospel without narrating an ascension — Matthew's Jesus remains present, not departed."
     }

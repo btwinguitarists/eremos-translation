@@ -8,12 +8,28 @@
     "translation": {
       "thai": "เมื่อเป็นอันตัดสินกันแล้วว่าพวกเราจะแล่นเรือไปยังประเทศอิตาลี เขาก็มอบเปาโลและนักโทษอื่นๆ บางคนไว้แก่นายร้อยคนหนึ่งชื่อ ยูเลียส แห่งกองทหารองค์จักรพรรดิ",
       "thai_literal": null,
-      "thai_summary": "บทที่ 27-28 เป็นบันทึกการเดินทางทางทะเลที่ละเอียดที่สุดในวรรณกรรมโบราณทั้งหมดที่เหลือถึงเรา ลูกาในฐานะแพทย์-นักเดินเรือบันทึกศัพท์เทคนิคทางการเดินเรือทุกศัพท์ได้แม่นยำ — นักประวัติศาสตร์และนักโบราณคดีใช้บทนี้เป็นแหล่งข้อมูลคลาสสิกของการเดินเรือสมัยศตวรรษแรก สรรพนาม «พวกเรา» (ตั้งแต่ ข้อ 1 ถึง 28:16) บ่งชี้ว่าลูกาอยู่กับเปาโลตลอดเส้นทาง — ทั้งสองออกเดินทางจากเมืองซีซารียา ผ่านเกาะครีต ผ่านพายุ-พังเรือที่มอลตา จนถึงกรุงโรม «กองทหารองค์จักรพรรดิ» (cohors Augusta) เป็นกองทหารโรมันชั้นสูงที่ปฏิบัติหน้าที่เกี่ยวกับการสื่อสารระหว่างจังหวัดและจักรพรรดิ — เปาโลถูกส่งไปด้วยการคุ้มกันระดับสูง สมกับฐานะนักโทษที่ถวายฎีกาต่อจักรพรรดิ",
+      "thai_summary": "บทที่ 27-28 เป็นบันทึกการเดินทางทางทะเลที่ละเอียดที่สุดในวรรณกรรมโบราณทั้งหมดที่เหลือถึงเรา ลูกาในฐานะแพทย์-นักเดินเรือบันทึกศัพท์เทคนิคทางการเดินเรือทุกศัพท์ได้แม่นยำ — นักประวัติศาสตร์และนักโบราณคดีใช้บทนี้เป็นแหล่งข้อมูลคลาสสิกของการเดินเรือสมัยศตวรรษแรก สรรพนาม “พวกเรา” (ตั้งแต่ ข้อ 1 ถึง 28:16) บ่งชี้ว่าลูกาอยู่กับเปาโลตลอดเส้นทาง — ทั้งสองออกเดินทางจากเมืองซีซารียา ผ่านเกาะครีต ผ่านพายุ-พังเรือที่มอลตา จนถึงกรุงโรม “กองทหารองค์จักรพรรดิ” (cohors Augusta) เป็นกองทหารโรมันชั้นสูงที่ปฏิบัติหน้าที่เกี่ยวกับการสื่อสารระหว่างจังหวัดและจักรพรรดิ — เปาโลถูกส่งไปด้วยการคุ้มกันระดับสูง สมกับฐานะนักโทษที่ถวายฎีกาต่อจักรพรรดิ",
       "key_decisions": [
-        { "greek": "ἐκρίθη τοῦ ἀποπλεῖν ἡμᾶς", "thai": "เมื่อเป็นอันตัดสินกันแล้วว่าพวกเราจะแล่นเรือ", "rationale": "Per uW figs-activepassive: Greek impersonal passive 'it was decided that we should sail' renders as Thai active 'เป็นอันตัดสินกันแล้ว' (formal-impersonal — the deciders are the unnamed Roman authorities, not specified). The 'we' here is the inclusive-of-Luke 'we' (writing-participants narrator-shift) per uW; Thai พวกเรา preserves the inclusive marker." },
-        { "greek": "εἰς τὴν Ἰταλίαν", "thai": "ไปยังประเทศอิตาลี", "rationale": "PROPER-NOUN LOCK: Ἰταλία → อิตาลี. Mainstream Thai Christian transliteration; ประเทศ prefix natural for country-name in Thai narrative. Continues the established pattern (e.g., 'กองอิตาลี' at ACT 10:1)." },
-        { "greek": "ἑκατοντάρχῃ ὀνόματι Ἰουλίῳ", "thai": "นายร้อยคนหนึ่งชื่อ ยูเลียส", "rationale": "ἑκατοντάρχης → นายร้อย (canonical lock per ACT 10:1, 22:25, 23:17 etc.). NEW PROPER-NOUN LOCK: Ἰούλιος → ยูเลียส (mainstream Thai Christian transliteration, matching THSV; consistent with other Latin-name Roman officials in Acts: Felix → เฟลิกส์, Festus → เฟสทัส, Cornelius → โครเนลิอัส, Claudius → คลาวดิอัส)." },
-        { "greek": "σπείρης Σεβαστῆς", "thai": "กองทหารองค์จักรพรรดิ", "rationale": "σπεῖρα = Roman cohort = กองทหาร. Σεβαστή = feminine adjective from Σεβαστός 'Augustan/Imperial' (Greek for Latin Augustus). Consistent with established lock at ACT 25:21, 25 where Σεβαστός → องค์จักρพรรดิ; render the cohort-name as 'กองทหารองค์จักรพรรดิ' (Imperial Regiment). This was likely the cohors I Augusta whose epigraphic evidence places it in Syria during the 1st century AD; the regiment-name comes from the imperial title, not a personal name." }
+        {
+          "greek": "ἐκρίθη τοῦ ἀποπλεῖν ἡμᾶς",
+          "thai": "เมื่อเป็นอันตัดสินกันแล้วว่าพวกเราจะแล่นเรือ",
+          "rationale": "Per uW figs-activepassive: Greek impersonal passive 'it was decided that we should sail' renders as Thai active 'เป็นอันตัดสินกันแล้ว' (formal-impersonal — the deciders are the unnamed Roman authorities, not specified). The 'we' here is the inclusive-of-Luke 'we' (writing-participants narrator-shift) per uW; Thai พวกเรา preserves the inclusive marker."
+        },
+        {
+          "greek": "εἰς τὴν Ἰταλίαν",
+          "thai": "ไปยังประเทศอิตาลี",
+          "rationale": "PROPER-NOUN LOCK: Ἰταλία → อิตาลี. Mainstream Thai Christian transliteration; ประเทศ prefix natural for country-name in Thai narrative. Continues the established pattern (e.g., 'กองอิตาลี' at ACT 10:1)."
+        },
+        {
+          "greek": "ἑκατοντάρχῃ ὀνόματι Ἰουλίῳ",
+          "thai": "นายร้อยคนหนึ่งชื่อ ยูเลียส",
+          "rationale": "ἑκατοντάρχης → นายร้อย (canonical lock per ACT 10:1, 22:25, 23:17 etc.). NEW PROPER-NOUN LOCK: Ἰούλιος → ยูเลียส (mainstream Thai Christian transliteration, matching THSV; consistent with other Latin-name Roman officials in Acts: Felix → เฟลิกส์, Festus → เฟสทัส, Cornelius → โครเนลิอัส, Claudius → คลาวดิอัส)."
+        },
+        {
+          "greek": "σπείρης Σεβαστῆς",
+          "thai": "กองทหารองค์จักรพรรดิ",
+          "rationale": "σπεῖρα = Roman cohort = กองทหาร. Σεβαστή = feminine adjective from Σεβαστός 'Augustan/Imperial' (Greek for Latin Augustus). Consistent with established lock at ACT 25:21, 25 where Σεβαστός → องค์จักρพรรดิ; render the cohort-name as 'กองทหารองค์จักรพรรดิ' (Imperial Regiment). This was likely the cohors I Augusta whose epigraphic evidence places it in Syria during the 1st century AD; the regiment-name comes from the imperial title, not a personal name."
+        }
       ],
       "notes": "Beginning of the 'we'-passages (continuing through ACT 28:16). Luke is present as eyewitness; the impersonal passive ἐκρίθη hides which Roman official made the deportation decision (Festus, presumably, but the passive is technical-administrative). σπείρης Σεβαστῆς = 'Augustan cohort' — likely cohors I Augusta, an auxiliary unit attested epigraphically in Syrian deployment. The regiment name uses the imperial-title form Σεβαστός (rendered องค์จักรพรรดิ at ACT 25:21, 25 for the Emperor himself); consistency dictates using the same Thai for the regiment-name."
     }
@@ -29,9 +45,21 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "πλοίῳ Ἀδραμυττηνῷ", "thai": "เรือลำหนึ่งจากเมืองอาดรามิตทิยุม", "rationale": "HAPAX Ἀδραμυττηνός (only NT occurrence) — adjective from Ἀδραμύττιον (Adramyttium), a port city on the NW coast of Mysia in Asia Minor, opposite Lesbos. NEW PROPER-NOUN LOCK: Ἀδραμύττιον → อาดรามิตทิยุม (Thai phonetic; mainstream Thai Bible practice). 'เรือลำหนึ่งจากเมืองอาดรามิตทิยุม' (a ship from the city of Adramyttium) is more natural Thai than the adjective form." },
-        { "greek": "εἰς τοὺς κατὰ τὴν Ἀσίαν τόπους", "thai": "เมืองท่าต่างๆ ตามชายฝั่งแคว้นเอเชีย", "rationale": "Per uW figs-explicit: τόπους here = port-cities along the coast (the ship's coastal-route purpose, not generic 'places'). Thai เมืองท่าต่างๆ ตามชายฝั่ง spells out the maritime sense; แคว้นเอเชีย continues established Acts rendering for Roman province of Asia (cf. ACT 2:9, 6:9, 16:6, 19:10, 19:22 etc.)." },
-        { "greek": "Ἀριστάρχου Μακεδόνος Θεσσαλονικέως", "thai": "อาริสทาร์คัส ชาวมาซิโดเนียจากเมืองเธสะโลนิกา", "rationale": "Continues established proper-noun locks: Ἀρίσταρχος → อาριστาร์คัส (ACT 19:29, 20:4); Μακεδών → ชาวมาซิโดเนีย (ACT 16:9, 19:29, 27:2); Θεσσαλονικεύς → ชาวเธสะโลนิกา (ACT 17:1, 13, 20:4, 27:2). Aristarchus appears in ACT 19:29 (seized in Ephesus riot), 20:4 (Macedonian delegate to Jerusalem), here, and Col 4:10 / Phlm 24 (Paul's 'fellow prisoner' in Rome) — all aligned." }
+        {
+          "greek": "πλοίῳ Ἀδραμυττηνῷ",
+          "thai": "เรือลำหนึ่งจากเมืองอาดรามิตทิยุม",
+          "rationale": "HAPAX Ἀδραμυττηνός (only NT occurrence) — adjective from Ἀδραμύττιον (Adramyttium), a port city on the NW coast of Mysia in Asia Minor, opposite Lesbos. NEW PROPER-NOUN LOCK: Ἀδραμύττιον → อาดรามิตทิยุม (Thai phonetic; mainstream Thai Bible practice). 'เรือลำหนึ่งจากเมืองอาดรามิตทิยุม' (a ship from the city of Adramyttium) is more natural Thai than the adjective form."
+        },
+        {
+          "greek": "εἰς τοὺς κατὰ τὴν Ἀσίαν τόπους",
+          "thai": "เมืองท่าต่างๆ ตามชายฝั่งแคว้นเอเชีย",
+          "rationale": "Per uW figs-explicit: τόπους here = port-cities along the coast (the ship's coastal-route purpose, not generic 'places'). Thai เมืองท่าต่างๆ ตามชายฝั่ง spells out the maritime sense; แคว้นเอเชีย continues established Acts rendering for Roman province of Asia (cf. ACT 2:9, 6:9, 16:6, 19:10, 19:22 etc.)."
+        },
+        {
+          "greek": "Ἀριστάρχου Μακεδόνος Θεσσαλονικέως",
+          "thai": "อาริสทาร์คัส ชาวมาซิโดเนียจากเมืองเธสะโลนิกา",
+          "rationale": "Continues established proper-noun locks: Ἀρίσταρχος → อาριστาร์คัส (ACT 19:29, 20:4); Μακεδών → ชาวมาซิโดเนีย (ACT 16:9, 19:29, 27:2); Θεσσαλονικεύς → ชาวเธสะโลนิกา (ACT 17:1, 13, 20:4, 27:2). Aristarchus appears in ACT 19:29 (seized in Ephesus riot), 20:4 (Macedonian delegate to Jerusalem), here, and Col 4:10 / Phlm 24 (Paul's 'fellow prisoner' in Rome) — all aligned."
+        }
       ],
       "notes": "HAPAX Ἀδραμυττηνός. The Adramyttian ship is heading homeward up the Aegean — Paul's party will only travel as far as Myra, where Julius transfers them (v.6) to a grain ship sailing direct to Italy. Aristarchus's presence — a faithful companion from Macedonian church-planting through Roman imprisonment — is one of Luke's quiet markers of relational continuity in Paul's mission."
     }
@@ -47,9 +75,21 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "κατήχθημεν εἰς Σιδῶνα", "thai": "ขึ้นฝั่งที่เมืองไซดอน", "rationale": "Per uW figs-idiom: κατάγομαι is the standard Greek nautical term 'to bring down [from sea to land]' = 'to land/put in at port.' Thai ขึ้นฝั่ง ('go up to shore') is the natural Thai maritime equivalent. Σιδών → เมืองไซดอน continues established lock (e.g., ACT 12:20, MAT 11:21-22, MRK 7:24, 31, LUK 6:17, 10:13-14)." },
-        { "greek": "φιλανθρώπως", "thai": "ด้วยความเมตตา", "rationale": "HAPAX φιλανθρώπως (only NT occurrence) — adverb 'humanely / kindly / with humanitarian concern.' Etymology: φίλος (loving) + ἄνθρωπος (human). Distinct from ἐλεέω (mercy/pity for the suffering) and from χάρις (grace/favor). The Stoic-philosophical sense 'with regard for shared humanity' fits Roman officer's official-but-humane treatment. Thai ด้วยความเมตตา ('with compassion/kindness') captures the relational tone without religious overload." },
-        { "greek": "ἐπιμελείας τυχεῖν", "thai": "รับการดูแล", "rationale": "HAPAX ἐπιμέλεια (only NT occurrence) 'care/attention/provision.' Per uW figs-abstractnouns: render with concrete verbal phrase. Thai รับการดูแล ('receive care') is the natural collocation; matches uW's gloss 'so that they could care for him.' Continues the φίλος-cluster: friends caring for Paul during the Caesarea-imprisonment had presumably been waiting for him." }
+        {
+          "greek": "κατήχθημεν εἰς Σιδῶνα",
+          "thai": "ขึ้นฝั่งที่เมืองไซดอน",
+          "rationale": "Per uW figs-idiom: κατάγομαι is the standard Greek nautical term 'to bring down [from sea to land]' = 'to land/put in at port.' Thai ขึ้นฝั่ง ('go up to shore') is the natural Thai maritime equivalent. Σιδών → เมืองไซดอน continues established lock (e.g., ACT 12:20, MAT 11:21-22, MRK 7:24, 31, LUK 6:17, 10:13-14)."
+        },
+        {
+          "greek": "φιλανθρώπως",
+          "thai": "ด้วยความเมตตา",
+          "rationale": "HAPAX φιλανθρώπως (only NT occurrence) — adverb 'humanely / kindly / with humanitarian concern.' Etymology: φίλος (loving) + ἄνθρωπος (human). Distinct from ἐλεέω (mercy/pity for the suffering) and from χάρις (grace/favor). The Stoic-philosophical sense 'with regard for shared humanity' fits Roman officer's official-but-humane treatment. Thai ด้วยความเมตตา ('with compassion/kindness') captures the relational tone without religious overload."
+        },
+        {
+          "greek": "ἐπιμελείας τυχεῖν",
+          "thai": "รับการดูแล",
+          "rationale": "HAPAX ἐπιμέλεια (only NT occurrence) 'care/attention/provision.' Per uW figs-abstractnouns: render with concrete verbal phrase. Thai รับการดูแล ('receive care') is the natural collocation; matches uW's gloss 'so that they could care for him.' Continues the φίλος-cluster: friends caring for Paul during the Caesarea-imprisonment had presumably been waiting for him."
+        }
       ],
       "notes": "TWO HAPAX in this verse: φιλανθρώπως 'kindly' + ἐπιμέλεια 'care.' The Sidonian Christian community, established at least since ACT 11:19 (post-Stephen-martyrdom diaspora), now cares for the imprisoned-and-traveling Paul. Julius's φιλανθρώπως treatment foreshadows his life-saving intervention in v.43 — Luke is establishing the centurion's character early."
     }
@@ -65,8 +105,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ὑπεπλεύσαμεν τὴν Κύπρον", "thai": "แล่นเรือเลียบชายฝั่งด้านเหนือของเกาะไซปรัส", "rationale": "Per uW figs-idiom: 'sailed under [the lee of]' Cyprus does NOT mean south of the island; it means the ship hugged the northern shore which sheltered them from the prevailing west-blowing winds. uW glosses: 'we stayed close to the northern shore of Cyprus.' Thai แล่นเรือเลียบชายฝั่งด้านเหนือ ('sailed along the northern coast') makes the nautical idiom plain. Κύπρος → เกาะไซปรัส (established lock per ACT 4:36, 11:19-20, 13:4, 15:39, 21:3, 21:16)." },
-        { "greek": "τοὺς ἀνέμους εἶναι ἐναντίους", "thai": "ลมพัดสวนทาง", "rationale": "Per uW figs-personification: ἐναντίος ('opposite, contrary') applied to winds — they 'opposed' the ship's intended westward course. Thai ลมพัดสวนทาง ('the winds blew opposite-direction') is the natural Thai meteorological idiom; preserves the contrary-direction sense without preserving the personification. Late summer Mediterranean: prevailing northwesterlies (Etesian winds) make a direct W course from Sidon impossible." }
+        {
+          "greek": "ὑπεπλεύσαμεν τὴν Κύπρον",
+          "thai": "แล่นเรือเลียบชายฝั่งด้านเหนือของเกาะไซปรัส",
+          "rationale": "Per uW figs-idiom: 'sailed under [the lee of]' Cyprus does NOT mean south of the island; it means the ship hugged the northern shore which sheltered them from the prevailing west-blowing winds. uW glosses: 'we stayed close to the northern shore of Cyprus.' Thai แล่นเรือเลียบชายฝั่งด้านเหนือ ('sailed along the northern coast') makes the nautical idiom plain. Κύπρος → เกาะไซปรัส (established lock per ACT 4:36, 11:19-20, 13:4, 15:39, 21:3, 21:16)."
+        },
+        {
+          "greek": "τοὺς ἀνέμους εἶναι ἐναντίους",
+          "thai": "ลมพัดสวนทาง",
+          "rationale": "Per uW figs-personification: ἐναντίος ('opposite, contrary') applied to winds — they 'opposed' the ship's intended westward course. Thai ลมพัดสวนทาง ('the winds blew opposite-direction') is the natural Thai meteorological idiom; preserves the contrary-direction sense without preserving the personification. Late summer Mediterranean: prevailing northwesterlies (Etesian winds) make a direct W course from Sidon impossible."
+        }
       ],
       "notes": "First nautical-detail of the voyage. The ship's eastern route to Myra (in southern Asia Minor) instead of the direct W open-sea crossing proves the winds were already adverse — anticipating the catastrophe to come. Captain's seamanship: hug the lee of Cyprus to break the wind-resistance."
     }
@@ -82,9 +130,21 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "τὸ πέλαγος ... διαπλεύσαντες", "thai": "แล่นเรือข้ามทะเลเปิด", "rationale": "HAPAX διαπλέω (only NT occurrence) 'sail across/through.' Compound διά + πλέω. πέλαγος = 'open/deep sea' (distinct from coastal water). Thai ทะเลเปิด ('open sea') marks the geographical-nautical specificity; ข้าม captures the διά-prefix 'across-through.' The whole phrase = the ship traversed the eastern Mediterranean basin north of Cyprus before turning into the Lycian coast." },
-        { "greek": "Κιλικίαν καὶ Παμφυλίαν", "thai": "แคว้นซิลีเซียและแคว้นปัมฟีเลีย", "rationale": "Continues established locks: Κιλικία → แคว้นซิลีเซีย (ACT 6:9, 15:23, 15:41, 21:39, 22:3, 23:34); Παμφυλία → แคว้นปัมฟีเลีย (ACT 2:10, 13:13, 14:24, 15:38). 'แคว้น' prefix consistent with corpus convention for Roman provinces/regions." },
-        { "greek": "Μύρα τῆς Λυκίας", "thai": "เมืองมิรา ในแคว้นลีเซีย", "rationale": "TWO HAPAX (proper nouns): Μύρα + Λυκία (each only NT occurrence). NEW PROPER-NOUN LOCKS: Μύρα → เมืองมิรา (Thai phonetic for Myra, the major port in Lycia of southern Asia Minor; modern Demre, Turkey); Λυκία → แคว้นลีเซีย (Thai phonetic for Lycia, the Roman province occupying the SW Asia Minor mountainous coast). Both transliterations use Thai phonetic conventions matching mainstream Christian translations." }
+        {
+          "greek": "τὸ πέλαγος ... διαπλεύσαντες",
+          "thai": "แล่นเรือข้ามทะเลเปิด",
+          "rationale": "HAPAX διαπλέω (only NT occurrence) 'sail across/through.' Compound διά + πλέω. πέλαγος = 'open/deep sea' (distinct from coastal water). Thai ทะเลเปิด ('open sea') marks the geographical-nautical specificity; ข้าม captures the διά-prefix 'across-through.' The whole phrase = the ship traversed the eastern Mediterranean basin north of Cyprus before turning into the Lycian coast."
+        },
+        {
+          "greek": "Κιλικίαν καὶ Παμφυλίαν",
+          "thai": "แคว้นซิลีเซียและแคว้นปัมฟีเลีย",
+          "rationale": "Continues established locks: Κιλικία → แคว้นซิลีเซีย (ACT 6:9, 15:23, 15:41, 21:39, 22:3, 23:34); Παμφυλία → แคว้นปัมฟีเลีย (ACT 2:10, 13:13, 14:24, 15:38). 'แคว้น' prefix consistent with corpus convention for Roman provinces/regions."
+        },
+        {
+          "greek": "Μύρα τῆς Λυκίας",
+          "thai": "เมืองมิรา ในแคว้นลีเซีย",
+          "rationale": "TWO HAPAX (proper nouns): Μύρα + Λυκία (each only NT occurrence). NEW PROPER-NOUN LOCKS: Μύρα → เมืองมิรา (Thai phonetic for Myra, the major port in Lycia of southern Asia Minor; modern Demre, Turkey); Λυκία → แคว้นลีเซีย (Thai phonetic for Lycia, the Roman province occupying the SW Asia Minor mountainous coast). Both transliterations use Thai phonetic conventions matching mainstream Christian translations."
+        }
       ],
       "notes": "HAPAX cluster: διαπλέω (verb of crossing) + Μύρα + Λυκία (place names). Myra was a major Egyptian-grain transhipment port — the Alexandrian grain ships sailing from Egypt to Rome typically routed via Myra to catch the Etesian winds. Julius's transfer at Myra (v.6) reflects standard imperial transit logistics, not happenstance."
     }
@@ -98,10 +158,18 @@
     "translation": {
       "thai": "ที่นั่นนายร้อยพบเรือลำหนึ่งจากเมืองอเล็กซานเดรีย กำลังจะแล่นไปยังประเทศอิตาลี เขาจึงให้พวกเราย้ายขึ้นเรือลำนั้น",
       "thai_literal": null,
-      "thai_summary": "เรือจากเมืองอเล็กซานเดรียที่กำลังจะแล่นไปยังกรุงโรม น่าจะเป็นหนึ่งใน «กองเรือธัญพืช» (annonae fleet) — กองเรือบรรทุกข้าวสาลีจากอียิปต์ ซึ่งเป็นยุ้งฉางหลักของจักรวรรดิโรมัน ใช้เลี้ยงประชาชนกรุงโรมราว 1 ล้านคน เรือเหล่านี้มีขนาดใหญ่กว่าเรือเดินทะเลทั่วไป (อาจรับสินค้าได้ถึง 1,200 ตัน บรรทุกผู้โดยสารได้ราว 600 คน) ลูกาบันทึกไว้ในข้อ 37 ว่ามีคนบนเรือ 276 คน — สอดคล้องกับขนาดของเรือธัญพืชแอเล็กซานเดรียในยุคโรมัน",
+      "thai_summary": "เรือจากเมืองอเล็กซานเดรียที่กำลังจะแล่นไปยังกรุงโรม น่าจะเป็นหนึ่งใน “กองเรือธัญพืช” (annonae fleet) — กองเรือบรรทุกข้าวสาลีจากอียิปต์ ซึ่งเป็นยุ้งฉางหลักของจักรวรรดิโรมัน ใช้เลี้ยงประชาชนกรุงโรมราว 1 ล้านคน เรือเหล่านี้มีขนาดใหญ่กว่าเรือเดินทะเลทั่วไป (อาจรับสินค้าได้ถึง 1,200 ตัน บรรทุกผู้โดยสารได้ราว 600 คน) ลูกาบันทึกไว้ในข้อ 37 ว่ามีคนบนเรือ 276 คน — สอดคล้องกับขนาดของเรือธัญพืชแอเล็กซานเดรียในยุคโรมัน",
       "key_decisions": [
-        { "greek": "πλοῖον Ἀλεξανδρῖνον", "thai": "เรือลำหนึ่งจากเมืองอเล็กซานเดรีย", "rationale": "Ἀλεξανδρῖνος = adjective 'Alexandrian.' Continues established Thai rendering 'ชาวอเล็กซานเดรีย' (ACT 6:9, 18:24); for ships, 'เรือ ... จากเมืองอเล็กซานเดรีย' is the natural Thai phrasing. Egyptian-Roman grain trade context (annonae fleet) makes this an Alexandria → Rome grain ship." },
-        { "greek": "ἐνεβίβασεν ἡμᾶς εἰς αὐτό", "thai": "ให้พวกเราย้ายขึ้นเรือลำนั้น", "rationale": "HAPAX ἐμβιβάζω (only NT occurrence; causal compound of βαίνω 'go') 'cause to embark.' Causative force preserved as Thai ให้พวกเราย้ายขึ้น (causative ให้ + 'transfer up onto'). The 'transfer' rather than 'first boarding' nuance matches the narrative — they had been on the Adramyttian ship; this is a transshipment." }
+        {
+          "greek": "πλοῖον Ἀλεξανδρῖνον",
+          "thai": "เรือลำหนึ่งจากเมืองอเล็กซานเดรีย",
+          "rationale": "Ἀλεξανδρῖνος = adjective 'Alexandrian.' Continues established Thai rendering 'ชาวอเล็กซานเดรีย' (ACT 6:9, 18:24); for ships, 'เรือ ... จากเมืองอเล็กซานเดรีย' is the natural Thai phrasing. Egyptian-Roman grain trade context (annonae fleet) makes this an Alexandria → Rome grain ship."
+        },
+        {
+          "greek": "ἐνεβίβασεν ἡμᾶς εἰς αὐτό",
+          "thai": "ให้พวกเราย้ายขึ้นเรือลำนั้น",
+          "rationale": "HAPAX ἐμβιβάζω (only NT occurrence; causal compound of βαίνω 'go') 'cause to embark.' Causative force preserved as Thai ให้พวกเราย้ายขึ้น (causative ให้ + 'transfer up onto'). The 'transfer' rather than 'first boarding' nuance matches the narrative — they had been on the Adramyttian ship; this is a transshipment."
+        }
       ],
       "notes": "HAPAX ἐμβιβάζω 'caused to embark.' The Alexandrian ship is Egyptian-grain-fleet bound for Rome — the ship carrying 276 souls (v.37) and substantial grain cargo (v.38). uW: 'Luke is referring to what the crew of this ship was doing by association with the ship itself' — figs-metonymy (the ship 'sailing' = the crew sailing it)."
     }
@@ -117,10 +185,26 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "βραδυπλοοῦντες", "thai": "แล่นเรืออย่างช้าๆ", "rationale": "HAPAX βραδυπλοέω (only NT occurrence) — compound βραδύς (slow) + πλέω (sail) = 'sail slowly.' Per uW figs-explicit: the slowness is because they're sailing into headwinds. Thai แล่นเรืออย่างช้าๆ ('sail slowly') is the simplest accurate gloss." },
-        { "greek": "Κνίδον", "thai": "เมืองคนีดัส", "rationale": "HAPAX Κνίδος (only NT occurrence) — Doric Greek city on the Caria-Lycia border, at the tip of a long peninsula. NEW PROPER-NOUN LOCK: Κνίδος → เมืองคนีดัส (Thai phonetic). Famous in classical antiquity for the Aphrodite-of-Cnidus statue (Praxiteles); a major Aegean port." },
-        { "greek": "μὴ προσεῶντος ἡμᾶς τοῦ ἀνέμου", "thai": "เพราะลมไม่อำนวยให้แล่นต่อไป", "rationale": "HAPAX προσεάω (only NT occurrence) — compound πρός + ἐάω 'permit/allow.' Genitive absolute: 'the wind not permitting us [to proceed].' Thai ลมไม่อำนวย ('the wind doesn't grant/favor') is the standard Thai sailing-idiom; แล่นต่อไป makes the implicit verbal complement explicit. The wind here is now blocking the W route past Cnidus." },
-        { "greek": "ὑπεπλεύσαμεν τὴν Κρήτην κατὰ Σαλμώνην", "thai": "แล่นเรือเลียบชายฝั่งด้านใต้ของเกาะครีต ตรงข้ามกับแหลมสัลโมเน", "rationale": "Same nautical idiom as v.4 (ὑποπλέω). Crete here means the south coast (sheltered from N winds). Κρήτη → เกาะครีต (established at ACT 2:11 ชาวครีต lock). HAPAX Σαλμώνη (proper noun, only NT occurrence) — NEW PROPER-NOUN LOCK: Σαλμώνη → แหลมสัลโมเน (Thai phonetic). Salmone is the eastern cape of Crete (modern Cape Sideros). 'แหลม' (cape) prefix natural for the headland-name." }
+        {
+          "greek": "βραδυπλοοῦντες",
+          "thai": "แล่นเรืออย่างช้าๆ",
+          "rationale": "HAPAX βραδυπλοέω (only NT occurrence) — compound βραδύς (slow) + πλέω (sail) = 'sail slowly.' Per uW figs-explicit: the slowness is because they're sailing into headwinds. Thai แล่นเรืออย่างช้าๆ ('sail slowly') is the simplest accurate gloss."
+        },
+        {
+          "greek": "Κνίδον",
+          "thai": "เมืองคนีดัส",
+          "rationale": "HAPAX Κνίδος (only NT occurrence) — Doric Greek city on the Caria-Lycia border, at the tip of a long peninsula. NEW PROPER-NOUN LOCK: Κνίδος → เมืองคนีดัส (Thai phonetic). Famous in classical antiquity for the Aphrodite-of-Cnidus statue (Praxiteles); a major Aegean port."
+        },
+        {
+          "greek": "μὴ προσεῶντος ἡμᾶς τοῦ ἀνέμου",
+          "thai": "เพราะลมไม่อำนวยให้แล่นต่อไป",
+          "rationale": "HAPAX προσεάω (only NT occurrence) — compound πρός + ἐάω 'permit/allow.' Genitive absolute: 'the wind not permitting us [to proceed].' Thai ลมไม่อำนวย ('the wind doesn't grant/favor') is the standard Thai sailing-idiom; แล่นต่อไป makes the implicit verbal complement explicit. The wind here is now blocking the W route past Cnidus."
+        },
+        {
+          "greek": "ὑπεπλεύσαμεν τὴν Κρήτην κατὰ Σαλμώνην",
+          "thai": "แล่นเรือเลียบชายฝั่งด้านใต้ของเกาะครีต ตรงข้ามกับแหลมสัลโมเน",
+          "rationale": "Same nautical idiom as v.4 (ὑποπλέω). Crete here means the south coast (sheltered from N winds). Κρήτη → เกาะครีต (established at ACT 2:11 ชาวครีต lock). HAPAX Σαλμώνη (proper noun, only NT occurrence) — NEW PROPER-NOUN LOCK: Σαλμώνη → แหลมสัลโมเน (Thai phonetic). Salmone is the eastern cape of Crete (modern Cape Sideros). 'แหลม' (cape) prefix natural for the headland-name."
+        }
       ],
       "notes": "FOUR HAPAX in this verse: βραδυπλοέω (slow-sailing) + Κνίδος (city) + προσεάω (allow/permit) + Σαλμώνη (cape). Luke's nautical vocabulary is Mediterranean-sailor-shop-talk. Cnidus is the last point where they could have turned NW around the Greek mainland; once the wind blocks them there, they're forced to track south to Crete and then trace the Cretan southern coast."
     }
@@ -132,13 +216,25 @@
     "greek": "μόλις τε παραλεγόμενοι αὐτὴν ἤλθομεν εἰς τόπον τινὰ καλούμενον Καλοὺς Λιμένας ᾧ ἐγγὺς ἦν πόλις Λασαία.",
     "bsb_english": "After we had moved along the coast with difficulty, we came to a place called Fair Havens, near the town of Lasea.",
     "translation": {
-      "thai": "พวกเราแล่นเรือเลียบชายฝั่งของเกาะนั้นด้วยความยากลำบาก จนมาถึงสถานที่แห่งหนึ่งที่เรียกว่า «ท่าจอดเรืองาม» ใกล้กับเมืองลาเสอา",
+      "thai": "พวกเราแล่นเรือเลียบชายฝั่งของเกาะนั้นด้วยความยากลำบาก จนมาถึงสถานที่แห่งหนึ่งที่เรียกว่า “ท่าจอดเรืองาม” ใกล้กับเมืองลาเสอา",
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "μόλις ... παραλεγόμενοι αὐτὴν", "thai": "แล่นเรือเลียบชายฝั่งของเกาะนั้นด้วยความยากลำบาก", "rationale": "Per uW figs-explicit: even sheltered, the W winds remained strong; sailing was difficult. αὐτήν refers to Crete (per uW writing-pronouns). παραλέγομαι = 'sail along/coast along' (nautical). Thai แล่นเรือเลียบชายฝั่ง preserves the coastal-coasting sense." },
-        { "greek": "Καλοὺς Λιμένας", "thai": "«ท่าจอดเรืองาม»", "rationale": "TWO HAPAX (proper noun pair): Καλός (the harbor name; the lemma is common but as place-name reference is uniquely here) + Λιμήν (the harbor noun; only NT occurrence at this proper-name use). The Greek itself is a translatable place-name 'Fair/Beautiful Harbors' — not a foreign-name to transliterate but a Greek-language descriptive name. Thai «ท่าจอดเรืองาม» ('the beautiful harbor/dock') translates the meaning per mainstream Thai Bible practice (e.g., THSV: ท่างาม). Quotation marks signal proper-name status. Located on south-central coast of Crete, near modern Kaloi Limenes." },
-        { "greek": "πόλις Λασαία", "thai": "เมืองลาเสอา", "rationale": "HAPAX Λασαία (proper noun, only NT occurrence) — NEW PROPER-NOUN LOCK: Λασαία → ลาเสอา (Thai phonetic). The town near Fair Havens, attested in ancient sources (Pliny's Lasos)." }
+        {
+          "greek": "μόλις ... παραλεγόμενοι αὐτὴν",
+          "thai": "แล่นเรือเลียบชายฝั่งของเกาะนั้นด้วยความยากลำบาก",
+          "rationale": "Per uW figs-explicit: even sheltered, the W winds remained strong; sailing was difficult. αὐτήν refers to Crete (per uW writing-pronouns). παραλέγομαι = 'sail along/coast along' (nautical). Thai แล่นเรือเลียบชายฝั่ง preserves the coastal-coasting sense."
+        },
+        {
+          "greek": "Καλοὺς Λιμένας",
+          "thai": "“ท่าจอดเรืองาม”",
+          "rationale": "TWO HAPAX (proper noun pair): Καλός (the harbor name; the lemma is common but as place-name reference is uniquely here) + Λιμήν (the harbor noun; only NT occurrence at this proper-name use). The Greek itself is a translatable place-name 'Fair/Beautiful Harbors' — not a foreign-name to transliterate but a Greek-language descriptive name. Thai “ท่าจอดเรืองาม” ('the beautiful harbor/dock') translates the meaning per mainstream Thai Bible practice (e.g., THSV: ท่างาม). Quotation marks signal proper-name status. Located on south-central coast of Crete, near modern Kaloi Limenes."
+        },
+        {
+          "greek": "πόλις Λασαία",
+          "thai": "เมืองลาเสอา",
+          "rationale": "HAPAX Λασαία (proper noun, only NT occurrence) — NEW PROPER-NOUN LOCK: Λασαία → ลาเสอา (Thai phonetic). The town near Fair Havens, attested in ancient sources (Pliny's Lasos)."
+        }
       ],
       "notes": "THREE HAPAX (treating place-names): Καλοί + Λιμένες (harbor name) + Λασαία (town). Fair Havens is genuinely a Greek-speaking-name, so we render its meaning rather than transliterate. The poor harbor (per v.12) and the town nearby suggest the ship had reached the limit of what coastal-shelter sailing could achieve in deteriorating weather."
     }
@@ -152,11 +248,23 @@
     "translation": {
       "thai": "เวลาผ่านไปนานพอสมควร ในเวลานั้นการเดินทางเริ่มเสี่ยงอันตรายแล้ว เพราะวันถืออดอาหารก็ผ่านไปแล้วด้วย เปาโลจึงเตือนพวกเขา",
       "thai_literal": null,
-      "thai_summary": "«วันถืออดอาหาร» หมายถึงวันลบมลทินบาป (Yom Kippur, ภาษาฮีบรู ‹Yom HaKippurim›) ในเดือนทิชรี (กันยายน-ตุลาคมตามปฏิทินสากล) — เป็นเทศกาลศักดิ์สิทธิ์ที่สุดในปฏิทินยิว และเป็นเครื่องหมายเวลาที่ลูกาใช้เพื่อบอกว่าฤดูเดินเรือกำลังจะปิดลง ตามธรรมเนียมโรมันโบราณ (เวเจติอุส De Re Militari 4.39) การเดินเรือในทะเลเมดิเตอร์เรเนียน «ปลอดภัย» ระหว่างปลายเดือนพฤษภาคม - กลางเดือนกันยายน «อันตราย» ระหว่างกลางเดือนกันยายน - 11 พฤศจิกายน และ «ปิดทะเล» ระหว่าง 11 พฤศจิกายน - 10 มีนาคม วันลบมลทินผ่านไปแล้ว = ขณะนี้กำลังเข้าเขต «อันตราย» อยู่ — เปาโลเตือนตามความเข้าใจของผู้เดินทางที่มีประสบการณ์ (เป็นการเดินทางครั้งที่สี่ของเปาโลทางทะเลเมดิเตอร์เรเนียน)",
+      "thai_summary": "“วันถืออดอาหาร” หมายถึงวันลบมลทินบาป (Yom Kippur, ภาษาฮีบรู ‘Yom HaKippurim’) ในเดือนทิชรี (กันยายน-ตุลาคมตามปฏิทินสากล) — เป็นเทศกาลศักดิ์สิทธิ์ที่สุดในปฏิทินยิว และเป็นเครื่องหมายเวลาที่ลูกาใช้เพื่อบอกว่าฤดูเดินเรือกำลังจะปิดลง ตามธรรมเนียมโรมันโบราณ (เวเจติอุส De Re Militari 4.39) การเดินเรือในทะเลเมดิเตอร์เรเนียน “ปลอดภัย” ระหว่างปลายเดือนพฤษภาคม - กลางเดือนกันยายน “อันตราย” ระหว่างกลางเดือนกันยายน - 11 พฤศจิกายน และ “ปิดทะเล” ระหว่าง 11 พฤศจิกายน - 10 มีนาคม วันลบมลทินผ่านไปแล้ว = ขณะนี้กำลังเข้าเขต “อันตราย” อยู่ — เปาโลเตือนตามความเข้าใจของผู้เดินทางที่มีประสบการณ์ (เป็นการเดินทางครั้งที่สี่ของเปาโลทางทะเลเมดิเตอร์เรเนียน)",
       "key_decisions": [
-        { "greek": "ἐπισφαλοῦς τοῦ πλοὸς", "thai": "การเดินทางเริ่มเสี่ยงอันตราย", "rationale": "HAPAX ἐπισφαλής (only NT occurrence) — compound ἐπί + σφαλερός 'liable to fall/slip' = 'precarious/dangerous/risky.' πλοῦς = 'voyage/sailing' (rare; usu. compound or πλοῖον). Thai เริ่มเสี่ยงอันตราย ('beginning to be at risk of danger') captures the inceptive (beginning) and the hazard sense without over-translating into specific weather threat." },
-        { "greek": "τὴν νηστείαν ... παρεληλυθέναι", "thai": "วันถืออดอาหารก็ผ่านไปแล้ว", "rationale": "Per uW figs-metonymy: ἡ νηστεία (the Fast) = the Day of Atonement (Yom Kippur, Lev 16:29-31; observed mid-Tishri = late Sept / early Oct). Thai วันถืออดอาหาร ('the day of fasting') is the natural collocation; the religious-calendar reference is preserved without exegeting in main text (handled in thai_summary). The κ aspect of καί = 'even/also the Fast' marks the time-sensitivity emphasis." },
-        { "greek": "παρῄνει ὁ Παῦλος", "thai": "เปาโลจึงเตือนพวกเขา", "rationale": "παραινέω (only here in NT and at v.22; the verb counts as freq=2). Imperfect παρῄνει = 'was advising/warning' — iterative or conative. Thai เตือน ('warn/admonish') captures the advisory-warning tone. Per uW writing-pronouns: 'them' refers to the centurion + pilot + ship-owner (as v.11 makes clear)." }
+        {
+          "greek": "ἐπισφαλοῦς τοῦ πλοὸς",
+          "thai": "การเดินทางเริ่มเสี่ยงอันตราย",
+          "rationale": "HAPAX ἐπισφαλής (only NT occurrence) — compound ἐπί + σφαλερός 'liable to fall/slip' = 'precarious/dangerous/risky.' πλοῦς = 'voyage/sailing' (rare; usu. compound or πλοῖον). Thai เริ่มเสี่ยงอันตราย ('beginning to be at risk of danger') captures the inceptive (beginning) and the hazard sense without over-translating into specific weather threat."
+        },
+        {
+          "greek": "τὴν νηστείαν ... παρεληλυθέναι",
+          "thai": "วันถืออดอาหารก็ผ่านไปแล้ว",
+          "rationale": "Per uW figs-metonymy: ἡ νηστεία (the Fast) = the Day of Atonement (Yom Kippur, Lev 16:29-31; observed mid-Tishri = late Sept / early Oct). Thai วันถืออดอาหาร ('the day of fasting') is the natural collocation; the religious-calendar reference is preserved without exegeting in main text (handled in thai_summary). The κ aspect of καί = 'even/also the Fast' marks the time-sensitivity emphasis."
+        },
+        {
+          "greek": "παρῄνει ὁ Παῦλος",
+          "thai": "เปาโลจึงเตือนพวกเขา",
+          "rationale": "παραινέω (only here in NT and at v.22; the verb counts as freq=2). Imperfect παρῄνει = 'was advising/warning' — iterative or conative. Thai เตือน ('warn/admonish') captures the advisory-warning tone. Per uW writing-pronouns: 'them' refers to the centurion + pilot + ship-owner (as v.11 makes clear)."
+        }
       ],
       "notes": "HAPAX ἐπισφαλής 'dangerous.' The Fast (Day of Atonement, Yom Kippur) in AD 59 fell on Oct 5 (calculation per Jeremias). After mid-October ancient Mediterranean sailors regarded the sea as 'dangerous'; after 11 November as 'closed' (Vegetius). Paul's warning is informed-traveler counsel, not yet prophetic revelation (the angelic vision comes at vv.23-24)."
     }
@@ -168,13 +276,25 @@
     "greek": "λέγων αὐτοῖς·Ἄνδρες,θεωρῶ ὅτι μετὰ ὕβρεως καὶ πολλῆς ζημίας οὐ μόνον τοῦ φορτίου καὶ τοῦ πλοίου ἀλλὰ καὶ τῶν ψυχῶν ἡμῶν μέλλειν ἔσεσθαι τὸν πλοῦν.",
     "bsb_english": "“Men, I can see that our voyage will be filled with disaster and great loss, not only to ship and cargo, but to our own lives as well.”",
     "translation": {
-      "thai": "กล่าวแก่พวกเขาว่า «ท่านทั้งหลาย ข้าพเจ้าเห็นว่าการเดินทางครั้งนี้จะนำมาซึ่งความเสียหายและความสูญเสียอย่างใหญ่หลวง ไม่เพียงสินค้าและเรือเท่านั้น แต่รวมถึงชีวิตของพวกเราด้วย»",
+      "thai": "กล่าวแก่พวกเขาว่า “ท่านทั้งหลาย ข้าพเจ้าเห็นว่าการเดินทางครั้งนี้จะนำมาซึ่งความเสียหายและความสูญเสียอย่างใหญ่หลวง ไม่เพียงสินค้าและเรือเท่านั้น แต่รวมถึงชีวิตของพวกเราด้วย”",
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "θεωρῶ", "thai": "ข้าพเจ้าเห็น", "rationale": "Per uW figs-metaphor: θεωρέω here = 'perceive/discern/see [with insight].' uW gives the option to render plainly as 'God has revealed to me' (interpretive); we keep the literal 'see' to preserve Paul's choice of cautious-but-firm phrasing — at this point Paul is offering experienced traveler's discernment, not yet appealing to angelic vision (which comes only at vv.23-24). Thai เห็น ('see/discern') preserves the ambiguity." },
-        { "greek": "ὕβρεως καὶ πολλῆς ζημίας", "thai": "ความเสียหายและความสูญเสียอย่างใหญ่หลวง", "rationale": "Per uW figs-doublet: ὕβρις + ζημία 'injury/disaster' + 'loss' — used together for emphasis; uW recommends rendering with a single emphatic phrase. ὕβρις in nautical context = 'damage/calamity at sea' (NOT the moral-arrogance sense); ζημία = financial/material loss. Thai ความเสียหาย + ความสูญเสีย preserves the doublet pair (Thai allows the redundant pair without sounding awkward); 'อย่างใหญ่หลวง' carries πολλῆς." },
-        { "greek": "τῶν ψυχῶν ἡμῶν", "thai": "ชีวิตของพวกเรา", "rationale": "Per uW figs-synecdoche: ψυχή here = 'life' (the whole person represented by their animating principle). Per glossary precedent ψυχή → ชีวิต (Mark 8:37 lock). Continues established Lukan use of ψυχή for biological life when contrasted with material goods (cf. LUK 12:23 'life is more than food')." }
+        {
+          "greek": "θεωρῶ",
+          "thai": "ข้าพเจ้าเห็น",
+          "rationale": "Per uW figs-metaphor: θεωρέω here = 'perceive/discern/see [with insight].' uW gives the option to render plainly as 'God has revealed to me' (interpretive); we keep the literal 'see' to preserve Paul's choice of cautious-but-firm phrasing — at this point Paul is offering experienced traveler's discernment, not yet appealing to angelic vision (which comes only at vv.23-24). Thai เห็น ('see/discern') preserves the ambiguity."
+        },
+        {
+          "greek": "ὕβρεως καὶ πολλῆς ζημίας",
+          "thai": "ความเสียหายและความสูญเสียอย่างใหญ่หลวง",
+          "rationale": "Per uW figs-doublet: ὕβρις + ζημία 'injury/disaster' + 'loss' — used together for emphasis; uW recommends rendering with a single emphatic phrase. ὕβρις in nautical context = 'damage/calamity at sea' (NOT the moral-arrogance sense); ζημία = financial/material loss. Thai ความเสียหาย + ความสูญเสีย preserves the doublet pair (Thai allows the redundant pair without sounding awkward); 'อย่างใหญ่หลวง' carries πολλῆς."
+        },
+        {
+          "greek": "τῶν ψυχῶν ἡμῶν",
+          "thai": "ชีวิตของพวกเรา",
+          "rationale": "Per uW figs-synecdoche: ψυχή here = 'life' (the whole person represented by their animating principle). Per glossary precedent ψυχή → ชีวิต (Mark 8:37 lock). Continues established Lukan use of ψυχή for biological life when contrasted with material goods (cf. LUK 12:23 'life is more than food')."
+        }
       ],
       "notes": "Paul addresses the council with experienced-sailor insight, not prophetic revelation. The triadic loss-list (cargo - ship - lives) escalates rhetorically from least to most precious. Paul's prediction is partially fulfilled (ship + cargo lost in vv.18-19, 38-41) and partially overruled by God's grace (lives spared per v.24)."
     }
@@ -190,9 +310,21 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "τῷ κυβερνήτῃ", "thai": "กัปตัน", "rationale": "κυβερνήτης (freq=2 NT; here + Rev 18:17) 'pilot/helmsman/captain.' In ancient Mediterranean shipping, the κυβερνήτης was the navigator/pilot — the technical-professional who steered. Thai กัปตัน is the standard maritime loanword (from English/French), the natural Thai term for a ship's professional commander. Distinct from ναύκληρος (next phrase) which is the owner-operator." },
-        { "greek": "τῷ ναυκλήρῳ", "thai": "เจ้าของเรือ", "rationale": "HAPAX ναύκληρος (only NT occurrence) — 'shipowner/captain-owner.' Per uW: in the Egyptian-grain-fleet context, the ship belonged to the imperial fleet, so this person is more likely the shipowner-as-commander or the contracted commercial-captain than the imperial-fleet's commander. Thai เจ้าของเรือ ('owner of the ship') matches uW's preferred reading (option 2)." },
-        { "greek": "μᾶλλον ἐπείθετο ... ἢ τοῖς ὑπὸ Παύλου λεγομένοις", "thai": "เชื่อ ... มากกว่าคำที่เปาโลกล่าว", "rationale": "Per uW figs-activepassive: passive ἐπείθετο 'was persuaded by' renders naturally as Thai active เชื่อ ('believed/trusted [in]'). Comparative μᾶλλον ... ἤ ('more than') = Thai มากกว่า. The phrase τοῖς ὑπὸ Παύλου λεγομένοις (passive participle 'the things being said by Paul') = 'what Paul was saying' = Thai คำที่เปาโลกล่าว." }
+        {
+          "greek": "τῷ κυβερνήτῃ",
+          "thai": "กัปตัน",
+          "rationale": "κυβερνήτης (freq=2 NT; here + Rev 18:17) 'pilot/helmsman/captain.' In ancient Mediterranean shipping, the κυβερνήτης was the navigator/pilot — the technical-professional who steered. Thai กัปตัน is the standard maritime loanword (from English/French), the natural Thai term for a ship's professional commander. Distinct from ναύκληρος (next phrase) which is the owner-operator."
+        },
+        {
+          "greek": "τῷ ναυκλήρῳ",
+          "thai": "เจ้าของเรือ",
+          "rationale": "HAPAX ναύκληρος (only NT occurrence) — 'shipowner/captain-owner.' Per uW: in the Egyptian-grain-fleet context, the ship belonged to the imperial fleet, so this person is more likely the shipowner-as-commander or the contracted commercial-captain than the imperial-fleet's commander. Thai เจ้าของเรือ ('owner of the ship') matches uW's preferred reading (option 2)."
+        },
+        {
+          "greek": "μᾶλλον ἐπείθετο ... ἢ τοῖς ὑπὸ Παύλου λεγομένοις",
+          "thai": "เชื่อ ... มากกว่าคำที่เปาโลกล่าว",
+          "rationale": "Per uW figs-activepassive: passive ἐπείθετο 'was persuaded by' renders naturally as Thai active เชื่อ ('believed/trusted [in]'). Comparative μᾶλλον ... ἤ ('more than') = Thai มากกว่า. The phrase τοῖς ὑπὸ Παύλου λεγομένοις (passive participle 'the things being said by Paul') = 'what Paul was saying' = Thai คำที่เปาโลกล่าว."
+        }
       ],
       "notes": "HAPAX ναύκληρος. Three voices in the council — κυβερνήτης (technical sailor), ναύκληρος (commercial owner-operator), ξένος Paul (a passenger-prisoner whose advice carries no formal weight). Predictably, Julius defers to the professional pair. The narrative-irony: the prisoner-Apostle outranks both in true authority (revelation), but lacks formal-rank authority. The centurion's preference for the professionals will be vindicated as a formal-procedural error by the storm's onset."
     }
@@ -208,10 +340,26 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἀνευθέτου ... τοῦ λιμένος", "thai": "ท่าจอดเรือนั้นไม่เหมาะ", "rationale": "HAPAX ἀνεύθετος (only NT occurrence) — alpha-privative + εὔθετος (well-placed/suitable) = 'unsuitable/ill-positioned.' The Fair Havens harbor was open to winter S-SW winds despite its name. Thai ไม่เหมาะ ('not suitable') is the clean negative-adjective rendering." },
-        { "greek": "παραχειμασίαν ... παραχειμάσαι", "thai": "ค้างฤดูหนาว", "rationale": "TWO HAPAX (the noun + verb pair): παραχειμασία (only NT occurrence) 'wintering [at a place]' + παραχειμάσαι is from παραχειμάζω which IS attested elsewhere (1 Cor 16:6, Tit 3:12, ACT 28:11), so technically only the noun is hapax in this verse. Per uW translate-unknown: render with descriptive Thai ค้างฤดูหนาว ('stay/lodge through the winter season') — accommodates Thai readers in tropical climates without a domestic 'winter' concept." },
-        { "greek": "Φοίνικα", "thai": "เมืองท่าฟีนิกซ์", "rationale": "HAPAX Φοῖνιξ (proper noun, only NT occurrence in this place-name sense) — NEW PROPER-NOUN LOCK: Φοῖνιξ (Crete port) → เมืองท่าฟีนิกซ์ (Thai phonetic). Note this is a different referent from Φοινίκη ('Phoenicia,' rendered ฟีนิเซีย). The port Phoenix was on the SW coast of Crete (modern Loutro / Phoinikas). 'เมืองท่า' (port-city) prefix consistent with maritime-context naming." },
-        { "greek": "βλέποντα κατὰ λίβα καὶ κατὰ χῶρον", "thai": "เปิดออกทางทิศตะวันตกเฉียงใต้และทิศตะวันตกเฉียงเหนือ", "rationale": "TWO HAPAX (wind-direction names): λίψ (only NT occurrence) 'southwest wind/direction' + χῶρος (only NT occurrence in directional sense) 'northwest wind/direction.' Both are Greek wind-rose terms. Per uW figs-metaphor + figs-idiom: 'looking down [the wind direction]' = the harbor mouth opens toward those directions, providing access for ships to sail in/out using those wind-tracks. Thai เปิดออกทางทิศ ... ('opens out in the direction of ...') gives the clearer-Thai meaning. Direction-pair rendered with the modern Thai compass-bearing terms (ตะวันตกเฉียงใต้ / ตะวันตกเฉียงเหนือ) for clarity, accommodating the modern-Thai-reader's compass-rose familiarity. Footnote-level archaeological dispute (whether Phoenix faces SE/NE vs SW/NW) is captured by the Greek's literal rendering, which I preserve as 'opens out toward SW and NW.'" }
+        {
+          "greek": "ἀνευθέτου ... τοῦ λιμένος",
+          "thai": "ท่าจอดเรือนั้นไม่เหมาะ",
+          "rationale": "HAPAX ἀνεύθετος (only NT occurrence) — alpha-privative + εὔθετος (well-placed/suitable) = 'unsuitable/ill-positioned.' The Fair Havens harbor was open to winter S-SW winds despite its name. Thai ไม่เหมาะ ('not suitable') is the clean negative-adjective rendering."
+        },
+        {
+          "greek": "παραχειμασίαν ... παραχειμάσαι",
+          "thai": "ค้างฤดูหนาว",
+          "rationale": "TWO HAPAX (the noun + verb pair): παραχειμασία (only NT occurrence) 'wintering [at a place]' + παραχειμάσαι is from παραχειμάζω which IS attested elsewhere (1 Cor 16:6, Tit 3:12, ACT 28:11), so technically only the noun is hapax in this verse. Per uW translate-unknown: render with descriptive Thai ค้างฤดูหนาว ('stay/lodge through the winter season') — accommodates Thai readers in tropical climates without a domestic 'winter' concept."
+        },
+        {
+          "greek": "Φοίνικα",
+          "thai": "เมืองท่าฟีนิกซ์",
+          "rationale": "HAPAX Φοῖνιξ (proper noun, only NT occurrence in this place-name sense) — NEW PROPER-NOUN LOCK: Φοῖνιξ (Crete port) → เมืองท่าฟีนิกซ์ (Thai phonetic). Note this is a different referent from Φοινίκη ('Phoenicia,' rendered ฟีนิเซีย). The port Phoenix was on the SW coast of Crete (modern Loutro / Phoinikas). 'เมืองท่า' (port-city) prefix consistent with maritime-context naming."
+        },
+        {
+          "greek": "βλέποντα κατὰ λίβα καὶ κατὰ χῶρον",
+          "thai": "เปิดออกทางทิศตะวันตกเฉียงใต้และทิศตะวันตกเฉียงเหนือ",
+          "rationale": "TWO HAPAX (wind-direction names): λίψ (only NT occurrence) 'southwest wind/direction' + χῶρος (only NT occurrence in directional sense) 'northwest wind/direction.' Both are Greek wind-rose terms. Per uW figs-metaphor + figs-idiom: 'looking down [the wind direction]' = the harbor mouth opens toward those directions, providing access for ships to sail in/out using those wind-tracks. Thai เปิดออกทางทิศ ... ('opens out in the direction of ...') gives the clearer-Thai meaning. Direction-pair rendered with the modern Thai compass-bearing terms (ตะวันตกเฉียงใต้ / ตะวันตกเฉียงเหนือ) for clarity, accommodating the modern-Thai-reader's compass-rose familiarity. Footnote-level archaeological dispute (whether Phoenix faces SE/NE vs SW/NW) is captured by the Greek's literal rendering, which I preserve as 'opens out toward SW and NW.'"
+        }
       ],
       "notes": "FOUR HAPAX in this verse: ἀνεύθετος (unsuitable) + παραχειμασία (wintering) + Φοῖνιξ (place-name) + λίψ + χῶρος (wind-direction names). Phoenix harbor identification is debated archaeologically — the Greek-rose interpretation 'looks down [along the path of] the SW and NW winds' has been read either as (a) the harbor mouth opens NE/SE (sailors-perspective, looking out) or (b) opens SW/NW (looking-down-wind-track). uW gives both options; we preserve the literal Greek geographic claim and let the archaeological footnote decide."
     }
@@ -227,10 +375,26 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "Ὑποπνεύσαντος ... νότου", "thai": "เมื่อมีลมใต้พัดเบาๆ", "rationale": "HAPAX ὑποπνέω (only NT occurrence) — compound ὑπό + πνέω 'breathe/blow underneath/gently.' The ὑπό-prefix here = 'gently/slightly' (intensity-diminutive). Thai พัดเบาๆ ('blow lightly') captures the gentle-breeze sense; ลมใต้ = 'south wind' (νότος, established directional term in Thai). Sailors interpret a southerly breeze as the perfect wind for the W coastal-track to Phoenix." },
-        { "greek": "τῆς προθέσεως κεκρατηκέναι", "thai": "ตามแผนที่ตั้งใจไว้ก็เป็นไปได้แล้ว", "rationale": "πρόθεσις 'purpose/plan/intention' + κρατέω perfect 'to have hold of / mastered.' uW gloss: 'they had their opportunity / had achieved what they set out to do.' Thai ตามแผนที่ตั้งใจไว้ก็เป็นไปได้ ('according to the plan they had set, it became possible') captures the optative-confidence and the achieve-the-purpose sense; 'แล้ว' marks the dawning realization." },
-        { "greek": "ἄραντες", "thai": "ถอนสมอออก", "rationale": "Per uW translate-unknown: ἄραντες aorist of αἴρω 'to lift/raise' here is technical sailor-speak for 'weigh anchor.' Thai ถอนสมอ ('pull up the anchor') is the standard Thai maritime term." },
-        { "greek": "ἆσσον παρελέγοντο τὴν Κρήτην", "thai": "แล่นเลียบเกาะครีตอย่างใกล้ชิด", "rationale": "HAPAX ἆσσον (only NT occurrence; comparative adverb of ἄγχι 'near') 'closer/nearer.' Thai ใกล้ชิด ('closely') as an adverb modifies 'sailed along.' Image: hugging the coast for safety/familiarity." }
+        {
+          "greek": "Ὑποπνεύσαντος ... νότου",
+          "thai": "เมื่อมีลมใต้พัดเบาๆ",
+          "rationale": "HAPAX ὑποπνέω (only NT occurrence) — compound ὑπό + πνέω 'breathe/blow underneath/gently.' The ὑπό-prefix here = 'gently/slightly' (intensity-diminutive). Thai พัดเบาๆ ('blow lightly') captures the gentle-breeze sense; ลมใต้ = 'south wind' (νότος, established directional term in Thai). Sailors interpret a southerly breeze as the perfect wind for the W coastal-track to Phoenix."
+        },
+        {
+          "greek": "τῆς προθέσεως κεκρατηκέναι",
+          "thai": "ตามแผนที่ตั้งใจไว้ก็เป็นไปได้แล้ว",
+          "rationale": "πρόθεσις 'purpose/plan/intention' + κρατέω perfect 'to have hold of / mastered.' uW gloss: 'they had their opportunity / had achieved what they set out to do.' Thai ตามแผนที่ตั้งใจไว้ก็เป็นไปได้ ('according to the plan they had set, it became possible') captures the optative-confidence and the achieve-the-purpose sense; 'แล้ว' marks the dawning realization."
+        },
+        {
+          "greek": "ἄραντες",
+          "thai": "ถอนสมอออก",
+          "rationale": "Per uW translate-unknown: ἄραντες aorist of αἴρω 'to lift/raise' here is technical sailor-speak for 'weigh anchor.' Thai ถอนสมอ ('pull up the anchor') is the standard Thai maritime term."
+        },
+        {
+          "greek": "ἆσσον παρελέγοντο τὴν Κρήτην",
+          "thai": "แล่นเลียบเกาะครีตอย่างใกล้ชิด",
+          "rationale": "HAPAX ἆσσον (only NT occurrence; comparative adverb of ἄγχι 'near') 'closer/nearer.' Thai ใกล้ชิด ('closely') as an adverb modifies 'sailed along.' Image: hugging the coast for safety/familiarity."
+        }
       ],
       "notes": "TWO HAPAX in this verse: ὑποπνέω (blow gently) + ἆσσον (more closely). The southerly breeze is a fatal-deceiving sign — the very SW wind that lets them west-track will, within hours, swing N-NE into the disaster Euraquilo of v.14. Lukan irony: 'they thought they had their opportunity' becomes the moment of greatest peril."
     }
@@ -242,13 +406,25 @@
     "greek": "μετ’οὐ πολὺ δὲ ἔβαλεν κατ’αὐτῆς ἄνεμος τυφωνικὸς ὁ καλούμενος Εὐρακύλων·",
     "bsb_english": "But it was not long before a cyclone called the Northeaster swept down across the island.",
     "translation": {
-      "thai": "แต่ไม่ช้าไม่นาน ก็มีลมพายุหมุนรุนแรงพัดลงจากเกาะ ลมนี้เรียกว่า «ลมยูราคีลอน»",
+      "thai": "แต่ไม่ช้าไม่นาน ก็มีลมพายุหมุนรุนแรงพัดลงจากเกาะ ลมนี้เรียกว่า “ลมยูราคีลอน”",
       "thai_literal": null,
-      "thai_summary": "«ลมยูราคีลอน» (Εὐρακύλων) เป็นชื่อภาษากรีก-ละตินผสม: εὖρος (ภาษากรีก ‹ลมตะวันออก›) + aquilo (ภาษาละติน ‹ลมเหนือ›) = ลมตะวันออกเฉียงเหนือ — เป็นชื่อที่กะลาสีในทะเลเมดิเตอร์เรเนียนใช้เรียกลมพายุที่พัดมาจากที่ราบสูงเกาะครีตลงสู่ทะเล ลมนี้เป็นลมตามฤดูกาล (mistral / bora ของทะเลเมดิเตอร์เรเนียนตะวันออก) ที่ก่อตัวเมื่ออากาศเย็นจากที่ราบสูงไหลลงมาแทนที่อากาศร้อนเหนือทะเล เรือใบโบราณที่ติดกับลมนี้เกือบทุกครั้งจะถูกพัดออกไปกลางทะเลในทิศตะวันตกเฉียงใต้ — ตรงกับเส้นทางที่ลูกาบันทึกไว้คือ จากเกาะครีตไปยังเกาะเกาดา และจากที่นั่นถึงเกาะมอลตา (28:1)",
+      "thai_summary": "“ลมยูราคีลอน” (Εὐρακύλων) เป็นชื่อภาษากรีก-ละตินผสม: εὖρος (ภาษากรีก ‘ลมตะวันออก’) + aquilo (ภาษาละติน ‘ลมเหนือ’) = ลมตะวันออกเฉียงเหนือ — เป็นชื่อที่กะลาสีในทะเลเมดิเตอร์เรเนียนใช้เรียกลมพายุที่พัดมาจากที่ราบสูงเกาะครีตลงสู่ทะเล ลมนี้เป็นลมตามฤดูกาล (mistral / bora ของทะเลเมดิเตอร์เรเนียนตะวันออก) ที่ก่อตัวเมื่ออากาศเย็นจากที่ราบสูงไหลลงมาแทนที่อากาศร้อนเหนือทะเล เรือใบโบราณที่ติดกับลมนี้เกือบทุกครั้งจะถูกพัดออกไปกลางทะเลในทิศตะวันตกเฉียงใต้ — ตรงกับเส้นทางที่ลูกาบันทึกไว้คือ จากเกาะครีตไปยังเกาะเกาดา และจากที่นั่นถึงเกาะมอลตา (28:1)",
       "key_decisions": [
-        { "greek": "ἄνεμος τυφωνικὸς", "thai": "ลมพายุหมุนรุนแรง", "rationale": "HAPAX τυφωνικός (only NT occurrence) — adjective from τυφών 'whirlwind/cyclone' (cognate of modern English 'typhoon' via Chinese influence on the Greek-Arabic-Portuguese-English transmission chain, originally PIE-rooted). Thai ลมพายุหมุนรุนแรง ('violent cyclonic windstorm') captures both the rotational character (พายุหมุน) and the intensity (รุนแรง)." },
-        { "greek": "Εὐρακύλων", "thai": "«ลมยูราคีลอน»", "rationale": "HAPAX Εὐρακύλων (only NT occurrence) — Greek-Latin hybrid for the NE wind: εὖρος (Greek 'east wind') + aquilo (Latin 'north wind'). Per uW translate-transliterate: Luke transliterates the sailors' folk-name with Greek letters; we transliterate again into Thai. NEW PROPER-NOUN LOCK: Εὐρακύλων → ยูราคีลอน (Thai phonetic). Quotation marks signal proper-name status. The thai_summary explains the term." },
-        { "greek": "ἔβαλεν κατ’αὐτῆς", "thai": "พัดลงจากเกาะ", "rationale": "Per uW writing-pronouns: αὐτῆς refers to Crete (the island). κατά + genitive in this nautical context = 'down from/across.' Thai พัดลงจากเกาะ ('blew down from the island') captures the storm-coming-down-from-mountain-island geography. Cretan terrain has 2,400m peaks; cold-air-rolling-down-into-sea-warmth is the meteorological mechanism for these sudden gales." }
+        {
+          "greek": "ἄνεμος τυφωνικὸς",
+          "thai": "ลมพายุหมุนรุนแรง",
+          "rationale": "HAPAX τυφωνικός (only NT occurrence) — adjective from τυφών 'whirlwind/cyclone' (cognate of modern English 'typhoon' via Chinese influence on the Greek-Arabic-Portuguese-English transmission chain, originally PIE-rooted). Thai ลมพายุหมุนรุนแรง ('violent cyclonic windstorm') captures both the rotational character (พายุหมุน) and the intensity (รุนแรง)."
+        },
+        {
+          "greek": "Εὐρακύλων",
+          "thai": "“ลมยูราคีลอน”",
+          "rationale": "HAPAX Εὐρακύλων (only NT occurrence) — Greek-Latin hybrid for the NE wind: εὖρος (Greek 'east wind') + aquilo (Latin 'north wind'). Per uW translate-transliterate: Luke transliterates the sailors' folk-name with Greek letters; we transliterate again into Thai. NEW PROPER-NOUN LOCK: Εὐρακύλων → ยูราคีลอน (Thai phonetic). Quotation marks signal proper-name status. The thai_summary explains the term."
+        },
+        {
+          "greek": "ἔβαλεν κατ’αὐτῆς",
+          "thai": "พัดลงจากเกาะ",
+          "rationale": "Per uW writing-pronouns: αὐτῆς refers to Crete (the island). κατά + genitive in this nautical context = 'down from/across.' Thai พัดลงจากเกาะ ('blew down from the island') captures the storm-coming-down-from-mountain-island geography. Cretan terrain has 2,400m peaks; cold-air-rolling-down-into-sea-warmth is the meteorological mechanism for these sudden gales."
+        }
       ],
       "notes": "TWO HAPAX in this verse: τυφωνικός (cyclonic) + Εὐρακύλων (the wind-name). Some manuscripts read Εὐροκλύδων ('east-wave-storm') instead — this is the TR/KJV reading. SBLGNT/NA28 read Εὐρακύλων ('Euraquilo' = NE wind), supported by ℵ A B 33 81 614 1175 1739 etc. plus Vulgate/Bohairic. The textual difference doesn't affect translation strategy: both name the disastrous wind. Thai transliteration preserves SBLGNT's reading."
     }
@@ -264,9 +440,21 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "συναρπασθέντος ... τοῦ πλοίου", "thai": "เรือถูกพายุพัดพาไป", "rationale": "Per uW figs-personification + figs-activepassive: συναρπάζω 'seize/snatch up' is personified-of-wind. Render Thai active with explicit subject พายุ ('the storm'). ถูก ... พัดพาไป ('was driven/carried away by') is the natural Thai passive-causative for storm-victim." },
-        { "greek": "μὴ δυναμένου ἀντοφθαλμεῖν τῷ ἀνέμῳ", "thai": "ไม่สามารถสู้แรงลมได้", "rationale": "HAPAX ἀντοφθαλμέω (only NT occurrence) — compound ἀντί + ὀφθαλμός 'eye-against' = nautical idiom 'face into the wind / look the wind in the eye.' Per uW figs-metaphor: ship-as-having-face turning toward wind. Thai สู้แรงลม ('resist/fight the wind-force') gives the meaning plainly without the metaphor (which doesn't carry over to Thai naturally)." },
-        { "greek": "ἐπιδόντες ἐφερόμεθα", "thai": "ปล่อยให้ลมพัดพาไป", "rationale": "Per uW figs-activepassive: passive ἐφερόμεθα 'we were borne/driven' renders as Thai causative-passive ลมพัดพา ('the wind drove') — the wind is the implicit-active-agent that uW recommends naming. ἐπιδόντες ('having yielded/given way') = Thai ปล่อยให้ ('let / allow'). Combined: 'we let the wind carry us' = the standard Thai surrender-to-storm idiom." }
+        {
+          "greek": "συναρπασθέντος ... τοῦ πλοίου",
+          "thai": "เรือถูกพายุพัดพาไป",
+          "rationale": "Per uW figs-personification + figs-activepassive: συναρπάζω 'seize/snatch up' is personified-of-wind. Render Thai active with explicit subject พายุ ('the storm'). ถูก ... พัดพาไป ('was driven/carried away by') is the natural Thai passive-causative for storm-victim."
+        },
+        {
+          "greek": "μὴ δυναμένου ἀντοφθαλμεῖν τῷ ἀνέμῳ",
+          "thai": "ไม่สามารถสู้แรงลมได้",
+          "rationale": "HAPAX ἀντοφθαλμέω (only NT occurrence) — compound ἀντί + ὀφθαλμός 'eye-against' = nautical idiom 'face into the wind / look the wind in the eye.' Per uW figs-metaphor: ship-as-having-face turning toward wind. Thai สู้แรงลม ('resist/fight the wind-force') gives the meaning plainly without the metaphor (which doesn't carry over to Thai naturally)."
+        },
+        {
+          "greek": "ἐπιδόντες ἐφερόμεθα",
+          "thai": "ปล่อยให้ลมพัดพาไป",
+          "rationale": "Per uW figs-activepassive: passive ἐφερόμεθα 'we were borne/driven' renders as Thai causative-passive ลมพัดพา ('the wind drove') — the wind is the implicit-active-agent that uW recommends naming. ἐπιδόντες ('having yielded/given way') = Thai ปล่อยให้ ('let / allow'). Combined: 'we let the wind carry us' = the standard Thai surrender-to-storm idiom."
+        }
       ],
       "notes": "HAPAX ἀντοφθαλμέω 'face into the wind.' Three nautical actions in this short verse: ship caught (συναρπάζω) — unable to face wind (ἀντοφθαλμέω) — yielded to drift (ἐπιδόντες ἐφερόμεθα). The narrative pace mirrors the violence: short clauses, heavy passives, the 'we' reasserting Luke's eyewitness presence."
     }
@@ -282,9 +470,21 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "νησίον δέ τι ... καλούμενον Καῦδα", "thai": "เกาะเล็กเกาะหนึ่งที่ชื่อ เกาดา", "rationale": "HAPAX νησίον (only NT occurrence) — diminutive of νῆσος (island) = 'little island.' Thai เกาะเล็ก ('small island') preserves the diminutive. HAPAX Καῦδα (proper noun, only NT occurrence) — NEW PROPER-NOUN LOCK: Καῦδα → เกาดา (Thai phonetic, matching mainstream Thai Bible practice). Cauda (modern Gavdos) is the small island ~40km SSW of Crete." },
-        { "greek": "ὑποδραμόντες", "thai": "แล่นเรือไปอยู่ใต้ลมของ", "rationale": "HAPAX ὑποτρέχω (only NT occurrence) — compound ὑπό + τρέχω 'run under.' Per uW figs-idiom: nautical = 'sail along the lee side [of an island] to break the wind' = the same maneuver as ὑποπλέω (vv.4, 7). Thai แล่นเรือไปอยู่ใต้ลมของ ('sailed to be under-the-wind of') makes the sheltering-from-wind sense plain." },
-        { "greek": "ἰσχύσαμεν μόλις περικρατεῖς γενέσθαι τῆς σκάφης", "thai": "พอที่จะยึดเรือชูชีพไว้ได้อย่างยากลำบาก", "rationale": "HAPAX περικρατής (only NT occurrence) — adjective 'master-of, having control over.' σκάφη (freq=3, all in this chapter — vv.16, 30, 32) 'lifeboat / dinghy / smaller utility boat towed behind the ship.' Per uW translate-unknown: render σκάφη as เรือชูชีพ ('rescue/lifeboat') for Thai-reader clarity. ἰσχύσαμεν μόλις = 'we barely managed' = พอที่จะ ... ได้อย่างยากลำบาก (Thai natural construction)." }
+        {
+          "greek": "νησίον δέ τι ... καλούμενον Καῦδα",
+          "thai": "เกาะเล็กเกาะหนึ่งที่ชื่อ เกาดา",
+          "rationale": "HAPAX νησίον (only NT occurrence) — diminutive of νῆσος (island) = 'little island.' Thai เกาะเล็ก ('small island') preserves the diminutive. HAPAX Καῦδα (proper noun, only NT occurrence) — NEW PROPER-NOUN LOCK: Καῦδα → เกาดา (Thai phonetic, matching mainstream Thai Bible practice). Cauda (modern Gavdos) is the small island ~40km SSW of Crete."
+        },
+        {
+          "greek": "ὑποδραμόντες",
+          "thai": "แล่นเรือไปอยู่ใต้ลมของ",
+          "rationale": "HAPAX ὑποτρέχω (only NT occurrence) — compound ὑπό + τρέχω 'run under.' Per uW figs-idiom: nautical = 'sail along the lee side [of an island] to break the wind' = the same maneuver as ὑποπλέω (vv.4, 7). Thai แล่นเรือไปอยู่ใต้ลมของ ('sailed to be under-the-wind of') makes the sheltering-from-wind sense plain."
+        },
+        {
+          "greek": "ἰσχύσαμεν μόλις περικρατεῖς γενέσθαι τῆς σκάφης",
+          "thai": "พอที่จะยึดเรือชูชีพไว้ได้อย่างยากลำบาก",
+          "rationale": "HAPAX περικρατής (only NT occurrence) — adjective 'master-of, having control over.' σκάφη (freq=3, all in this chapter — vv.16, 30, 32) 'lifeboat / dinghy / smaller utility boat towed behind the ship.' Per uW translate-unknown: render σκάφη as เรือชูชีพ ('rescue/lifeboat') for Thai-reader clarity. ἰσχύσαμεν μόλις = 'we barely managed' = พอที่จะ ... ได้อย่างยากลำบาก (Thai natural construction)."
+        }
       ],
       "notes": "FOUR HAPAX in this verse: νησίον + Καῦδα + ὑποτρέχω + περικρατής. The σκάφη is the lifeboat that becomes pivotal in vv.30-32 (sailors' attempted desertion using this boat). Securing it now is critical maritime safety; the swamping seas under storm conditions would normally tear a towed boat off, leading to loss of the rescue option later."
     }
@@ -300,10 +500,26 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "βοηθείαις ἐχρῶντο ὑποζωννύντες τὸ πλοῖον", "thai": "ใช้เชือกผูกพันรอบลำเรือไว้", "rationale": "HAPAX ὑποζώννυμι (only NT occurrence) — compound ὑπό + ζώννυμι 'gird-under/around the bottom of.' Per uW figs-idiom: nautical = 'frapping' the hull — running ropes/cables under the keel and around the entire ship to hold it together against storm-flexing. βοηθείαι 'helps' here = the ropes themselves (technical sailor-jargon). Thai เชือกผูกพันรอบลำเรือ ('ropes binding around the hull') gives the action plainly without the technical Greek term." },
-        { "greek": "εἰς τὴν Σύρτιν ἐκπέσωσιν", "thai": "ถูกลมพัดเข้าไปติดในแผ่นทรายเหลวซีรทิส", "rationale": "HAPAX Σύρτις (only NT occurrence). NEW PROPER-NOUN LOCK: Σύρτις → ซีรทิส (Thai phonetic). The Syrtis is the dangerous quicksand-shoals off the N African coast (modern Gulf of Sidra/Sirte off Libya). Per uW figs-idiom + translate-unknown: ἐκπίπτω = 'fall into' = nautical 'become stuck-in/aground.' Thai พัดเข้าไปติด ('be blown into / get stuck in'); แผ่นทรายเหลว ('sheets/zones of liquid sand') describes quicksand for Thai readers unfamiliar with Mediterranean shoal-geography." },
-        { "greek": "χαλάσαντες τὸ σκεῦος", "thai": "ลดสมอทะเลลง", "rationale": "Per uW translate-unknown: σκεῦος ('gear/equipment') here is ambiguous — could mean (1) the sails (lowering them so the ship drifts under bare poles) or (2) a sea anchor (drogue, dragged behind to slow the ship). uW gives both options; option 2 (sea anchor) makes more nautical sense in this context — the sailors fear running on Syrtis, so they want to slow the ship's drift, not stop sailing entirely. Thai สมอทะเล ('sea anchor') matches option 2; this is also the reading favored by most modern English Bibles (NIV: 'sea anchor'; ESV: 'gear' — leaving ambiguous; CSB: 'sea anchor')." },
-        { "greek": "ἐφέροντο", "thai": "ปล่อยให้ลมพัดพาไป", "rationale": "Per uW figs-activepassive: same passive-of-being-driven as v.15 (ἐφερόμεθα). Continues the Lukan motif of helpless-drift under the wind's agency." }
+        {
+          "greek": "βοηθείαις ἐχρῶντο ὑποζωννύντες τὸ πλοῖον",
+          "thai": "ใช้เชือกผูกพันรอบลำเรือไว้",
+          "rationale": "HAPAX ὑποζώννυμι (only NT occurrence) — compound ὑπό + ζώννυμι 'gird-under/around the bottom of.' Per uW figs-idiom: nautical = 'frapping' the hull — running ropes/cables under the keel and around the entire ship to hold it together against storm-flexing. βοηθείαι 'helps' here = the ropes themselves (technical sailor-jargon). Thai เชือกผูกพันรอบลำเรือ ('ropes binding around the hull') gives the action plainly without the technical Greek term."
+        },
+        {
+          "greek": "εἰς τὴν Σύρτιν ἐκπέσωσιν",
+          "thai": "ถูกลมพัดเข้าไปติดในแผ่นทรายเหลวซีรทิส",
+          "rationale": "HAPAX Σύρτις (only NT occurrence). NEW PROPER-NOUN LOCK: Σύρτις → ซีรทิส (Thai phonetic). The Syrtis is the dangerous quicksand-shoals off the N African coast (modern Gulf of Sidra/Sirte off Libya). Per uW figs-idiom + translate-unknown: ἐκπίπτω = 'fall into' = nautical 'become stuck-in/aground.' Thai พัดเข้าไปติด ('be blown into / get stuck in'); แผ่นทรายเหลว ('sheets/zones of liquid sand') describes quicksand for Thai readers unfamiliar with Mediterranean shoal-geography."
+        },
+        {
+          "greek": "χαλάσαντες τὸ σκεῦος",
+          "thai": "ลดสมอทะเลลง",
+          "rationale": "Per uW translate-unknown: σκεῦος ('gear/equipment') here is ambiguous — could mean (1) the sails (lowering them so the ship drifts under bare poles) or (2) a sea anchor (drogue, dragged behind to slow the ship). uW gives both options; option 2 (sea anchor) makes more nautical sense in this context — the sailors fear running on Syrtis, so they want to slow the ship's drift, not stop sailing entirely. Thai สมอทะเล ('sea anchor') matches option 2; this is also the reading favored by most modern English Bibles (NIV: 'sea anchor'; ESV: 'gear' — leaving ambiguous; CSB: 'sea anchor')."
+        },
+        {
+          "greek": "ἐφέροντο",
+          "thai": "ปล่อยให้ลมพัดพาไป",
+          "rationale": "Per uW figs-activepassive: same passive-of-being-driven as v.15 (ἐφερόμεθα). Continues the Lukan motif of helpless-drift under the wind's agency."
+        }
       ],
       "notes": "TWO HAPAX in this verse: ὑποζώννυμι (frap the hull) + Σύρτις (Libyan shoals). The threat sequence is geographically meaningful: from Crete, an unchecked NE wind drives a ship SSW directly toward the African coast — Syrtis Major is the deadly shoal that any Mediterranean sailor feared. Frapping the hull was a desperation measure to keep the storm-stressed ship from breaking up; lowering a drogue was a desperation measure to slow the drift toward the shoals."
     }
@@ -319,8 +535,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "σφοδρῶς ... χειμαζομένων ἡμῶν", "thai": "พายุยังซัดพวกเราอย่างรุนแรง", "rationale": "HAPAX σφοδρῶς (only NT occurrence) 'violently/exceedingly.' HAPAX χειμάζομαι (only NT occurrence in passive sense; the lemma χειμάζω) 'be storm-tossed.' Per uW figs-activepassive: render with explicit subject พายุ ('the storm') as agent, since the passive-with-storm-agent is more natural in Thai. Thai พายุ ... ซัด อย่างรุนแรง ('the storm violently struck/battered') captures the intensity; ยัง ('still/continuingly') marks the imperfective/genitive-absolute progressive aspect." },
-        { "greek": "ἐκβολὴν ἐποιοῦντο", "thai": "เริ่มทิ้งสินค้าลงในทะเล", "rationale": "HAPAX ἐκβολή (only NT occurrence in this nautical sense) 'jettison/throwing-overboard.' Per uW figs-idiom + translate-unknown: nautical = throwing the cargo into the sea to lighten the ship. Thai ทิ้งสินค้าลงในทะเล ('throw cargo down into the sea') gives the action plainly. The imperfect ἐποιοῦντο ('they began to / were doing') captures the inceptive-iterative aspect = Thai 'เริ่ม' ('began')." }
+        {
+          "greek": "σφοδρῶς ... χειμαζομένων ἡμῶν",
+          "thai": "พายุยังซัดพวกเราอย่างรุนแรง",
+          "rationale": "HAPAX σφοδρῶς (only NT occurrence) 'violently/exceedingly.' HAPAX χειμάζομαι (only NT occurrence in passive sense; the lemma χειμάζω) 'be storm-tossed.' Per uW figs-activepassive: render with explicit subject พายุ ('the storm') as agent, since the passive-with-storm-agent is more natural in Thai. Thai พายุ ... ซัด อย่างรุนแรง ('the storm violently struck/battered') captures the intensity; ยัง ('still/continuingly') marks the imperfective/genitive-absolute progressive aspect."
+        },
+        {
+          "greek": "ἐκβολὴν ἐποιοῦντο",
+          "thai": "เริ่มทิ้งสินค้าลงในทะเล",
+          "rationale": "HAPAX ἐκβολή (only NT occurrence in this nautical sense) 'jettison/throwing-overboard.' Per uW figs-idiom + translate-unknown: nautical = throwing the cargo into the sea to lighten the ship. Thai ทิ้งสินค้าลงในทะเล ('throw cargo down into the sea') gives the action plainly. The imperfect ἐποιοῦντο ('they began to / were doing') captures the inceptive-iterative aspect = Thai 'เริ่ม' ('began')."
+        }
       ],
       "notes": "THREE HAPAX in this single verse: σφοδρῶς (violently) + χειμάζομαι (storm-tossed) + ἐκβολή (jettison). Lukan vocabulary density at the storm's peak — every available descriptor of storm-misery. Cargo-jettison is the next-to-last desperate act of any storm-crew (followed only by cutting the masts). The fact that the cargo, presumably grain (cf. v.38), is thrown into the sea on day-2 of the storm shows how dire the situation was."
     }
@@ -336,9 +560,21 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "τῇ τρίτῃ", "thai": "ในวันที่สาม", "rationale": "Per uW figs-idiom + translate-ordinal: 'the third day' in this culture = two days after the cargo-jettison and three days after the storm onset. Thai วันที่สาม preserves the ordinal; ในวันที่สาม ('on the third day') is the natural Thai temporal phrase. Following the ancient idiom rather than translate-ordinal's modern alternative ('day 3') because the Bible's narrative-sequence follows a Hebraic-Greek inclusive day-counting convention." },
-        { "greek": "αὐτόχειρες ... ἔρριψαν", "thai": "โยน ... ด้วยมือของพวกเขาเอง", "rationale": "HAPAX αὐτόχειρ (only NT occurrence) — adjective 'with-one's-own-hand' (αὐτός + χείρ). Per uW figs-synecdoche: 'hands' = the whole sailors' active personal involvement. Thai ด้วยมือของพวกเขาเอง ('with their own hands') preserves the synecdoche literally because Thai accommodates this idiom naturally. The emphasis: not just throwing things overboard via order, but the crew themselves doing it with their own hands — desperation." },
-        { "greek": "τὴν σκευὴν τοῦ πλοίου", "thai": "เครื่องอุปกรณ์ของเรือ", "rationale": "HAPAX σκευή (only NT occurrence; cognate σκεῦος is more common) 'tackle/equipment/gear.' Per uW figs-explicit: refers to everything needed to sail the ship — sails, rigging, blocks, ropes, beams — the active sailing-equipment. The throwing-overboard of σκευή = giving up on sailing the ship at all, hoping just to survive. Thai เครื่องอุปกรณ์ของเรือ ('the ship's equipment/gear') captures this." }
+        {
+          "greek": "τῇ τρίτῃ",
+          "thai": "ในวันที่สาม",
+          "rationale": "Per uW figs-idiom + translate-ordinal: 'the third day' in this culture = two days after the cargo-jettison and three days after the storm onset. Thai วันที่สาม preserves the ordinal; ในวันที่สาม ('on the third day') is the natural Thai temporal phrase. Following the ancient idiom rather than translate-ordinal's modern alternative ('day 3') because the Bible's narrative-sequence follows a Hebraic-Greek inclusive day-counting convention."
+        },
+        {
+          "greek": "αὐτόχειρες ... ἔρριψαν",
+          "thai": "โยน ... ด้วยมือของพวกเขาเอง",
+          "rationale": "HAPAX αὐτόχειρ (only NT occurrence) — adjective 'with-one's-own-hand' (αὐτός + χείρ). Per uW figs-synecdoche: 'hands' = the whole sailors' active personal involvement. Thai ด้วยมือของพวกเขาเอง ('with their own hands') preserves the synecdoche literally because Thai accommodates this idiom naturally. The emphasis: not just throwing things overboard via order, but the crew themselves doing it with their own hands — desperation."
+        },
+        {
+          "greek": "τὴν σκευὴν τοῦ πλοίου",
+          "thai": "เครื่องอุปกรณ์ของเรือ",
+          "rationale": "HAPAX σκευή (only NT occurrence; cognate σκεῦος is more common) 'tackle/equipment/gear.' Per uW figs-explicit: refers to everything needed to sail the ship — sails, rigging, blocks, ropes, beams — the active sailing-equipment. The throwing-overboard of σκευή = giving up on sailing the ship at all, hoping just to survive. Thai เครื่องอุปกรณ์ของเรือ ('the ship's equipment/gear') captures this."
+        }
       ],
       "notes": "TWO HAPAX in this verse: αὐτόχειρες (with-own-hands) + σκευή (tackle/equipment). The αὐτόχειρες emphasis underscores the desperation: cargo-jettison (v.18) was crew-task-ordered-by-authorities; σκευή-jettison (v.19) is sailors-themselves-throwing-by-hand the very tools of their trade. They have given up sailing as a choice and are now in pure-survival mode."
     }
@@ -352,11 +588,23 @@
     "translation": {
       "thai": "เมื่อทั้งดวงอาทิตย์และดวงดาวมิได้ส่องสว่างให้เห็นเป็นเวลาหลายวัน และพายุใหญ่ยังคงโหมกระหน่ำไม่หยุด ในที่สุดความหวังที่จะรอดชีวิตของพวกเราก็หมดสิ้นลง",
       "thai_literal": null,
-      "thai_summary": "การที่กะลาสีไม่อาจเห็นดวงอาทิตย์หรือดวงดาวเป็นเวลาหลายวันมีนัยสำคัญทางการเดินเรือสมัยโบราณ — กะลาสีโรมันใช้ดวงอาทิตย์ในเวลากลางวันและดวงดาว (โดยเฉพาะดาวเหนือ) ในเวลากลางคืนเพื่อคำนวณตำแหน่งและทิศทาง การไม่เห็นทั้งสองสิ่งนี้หมายความว่า (1) เมฆพายุปกคลุมท้องฟ้าทั้งกลางวันและกลางคืน (2) เรือไม่สามารถระบุตำแหน่งของตนเองหรือทิศทางที่กำลังแล่นไป (3) เรือกำลังลอยพเนจรอยู่อย่างไร้ทิศทาง ทำให้ความเสี่ยงที่จะกระแทกชายฝั่งหรือแผ่นทรายเหลวซีรทิสเพิ่มขึ้นเรื่อยๆ — «ความหวังที่จะรอดชีวิตหมดสิ้นลง» เป็นการประเมินที่สมจริงตามสภาพการณ์ ไม่ใช่ความวิตกกังวลเกินจริง",
+      "thai_summary": "การที่กะลาสีไม่อาจเห็นดวงอาทิตย์หรือดวงดาวเป็นเวลาหลายวันมีนัยสำคัญทางการเดินเรือสมัยโบราณ — กะลาสีโรมันใช้ดวงอาทิตย์ในเวลากลางวันและดวงดาว (โดยเฉพาะดาวเหนือ) ในเวลากลางคืนเพื่อคำนวณตำแหน่งและทิศทาง การไม่เห็นทั้งสองสิ่งนี้หมายความว่า (1) เมฆพายุปกคลุมท้องฟ้าทั้งกลางวันและกลางคืน (2) เรือไม่สามารถระบุตำแหน่งของตนเองหรือทิศทางที่กำลังแล่นไป (3) เรือกำลังลอยพเนจรอยู่อย่างไร้ทิศทาง ทำให้ความเสี่ยงที่จะกระแทกชายฝั่งหรือแผ่นทรายเหลวซีรทิสเพิ่มขึ้นเรื่อยๆ — “ความหวังที่จะรอดชีวิตหมดสิ้นลง” เป็นการประเมินที่สมจริงตามสภาพการณ์ ไม่ใช่ความวิตกกังวลเกินจริง",
       "key_decisions": [
-        { "greek": "μήτε ἡλίου μήτε ἄστρων ἐπιφαινόντων", "thai": "ทั้งดวงอาทิตย์และดวงดาวมิได้ส่องสว่างให้เห็น", "rationale": "Per uW figs-explicit: storm clouds obscured sun + stars, preventing celestial navigation. Thai มิได้ส่องสว่างให้เห็น ('did not shine to be seen') captures the not-appearing sense. The thai_summary expounds the navigational consequences." },
-        { "greek": "χειμῶνός τε οὐκ ὀλίγου ἐπικειμένου", "thai": "พายุใหญ่ยังคงโหมกระหน่ำไม่หยุด", "rationale": "Per uW figs-litotes: 'no small storm' (negation + opposite) = 'a great storm' (uW alternate gloss). Per uW figs-personification: 'lying upon' the ship = 'continually battering / not letting up.' Thai พายุใหญ่ยังคงโหมกระหน่ำไม่หยุด ('the great storm continued to batter without stopping') gives the meaning plainly with the litotes resolved into positive emphasis (พายุใหญ่ ='great storm') + the persistence (ยังคง ... ไม่หยุด)." },
-        { "greek": "περιῃρεῖτο ἐλπὶς πᾶσα τοῦ σῴζεσθαι ἡμᾶς", "thai": "ความหวังที่จะรอดชีวิตของพวกเราก็หมดสิ้นลง", "rationale": "Per uW figs-activepassive + figs-abstractnouns + figs-hyperbole: passive 'all hope was being taken away' + abstract 'hope' + 'all' as hyperbole. Render Thai active: ความหวัง ... ก็หมดสิ้นลง ('hope ran out / disappeared'). σῴζω here = 'save/preserve [physical] life' (NOT theological soteriology); Thai รอดชีวิต ('survive / preserve life') captures the secular-survival sense. πᾶσα-as-hyperbolic-emphasis preserved by 'หมดสิ้นลง' ('utterly/completely ran out')." }
+        {
+          "greek": "μήτε ἡλίου μήτε ἄστρων ἐπιφαινόντων",
+          "thai": "ทั้งดวงอาทิตย์และดวงดาวมิได้ส่องสว่างให้เห็น",
+          "rationale": "Per uW figs-explicit: storm clouds obscured sun + stars, preventing celestial navigation. Thai มิได้ส่องสว่างให้เห็น ('did not shine to be seen') captures the not-appearing sense. The thai_summary expounds the navigational consequences."
+        },
+        {
+          "greek": "χειμῶνός τε οὐκ ὀλίγου ἐπικειμένου",
+          "thai": "พายุใหญ่ยังคงโหมกระหน่ำไม่หยุด",
+          "rationale": "Per uW figs-litotes: 'no small storm' (negation + opposite) = 'a great storm' (uW alternate gloss). Per uW figs-personification: 'lying upon' the ship = 'continually battering / not letting up.' Thai พายุใหญ่ยังคงโหมกระหน่ำไม่หยุด ('the great storm continued to batter without stopping') gives the meaning plainly with the litotes resolved into positive emphasis (พายุใหญ่ ='great storm') + the persistence (ยังคง ... ไม่หยุด)."
+        },
+        {
+          "greek": "περιῃρεῖτο ἐλπὶς πᾶσα τοῦ σῴζεσθαι ἡμᾶς",
+          "thai": "ความหวังที่จะรอดชีวิตของพวกเราก็หมดสิ้นลง",
+          "rationale": "Per uW figs-activepassive + figs-abstractnouns + figs-hyperbole: passive 'all hope was being taken away' + abstract 'hope' + 'all' as hyperbole. Render Thai active: ความหวัง ... ก็หมดสิ้นลง ('hope ran out / disappeared'). σῴζω here = 'save/preserve [physical] life' (NOT theological soteriology); Thai รอดชีวิต ('survive / preserve life') captures the secular-survival sense. πᾶσα-as-hyperbolic-emphasis preserved by 'หมดสิ้นลง' ('utterly/completely ran out')."
+        }
       ],
       "notes": "Climax of Lukan storm-narrative: lost navigation, lost cargo, lost equipment, lost hope. The verse uses three figures of speech in sequence (litotes + personification + hyperbole), each intensifying the despair. σῴζω is the keyword that will be transvalued in vv.31, 34, 43, 44 — first secular-survival, then by Paul's mediation theological-and-physical survival, then by God's grace all-survive. Lukan inclusio: 'all hope of being saved' (v.20) → 'all were brought safely to land' (v.44, διασῴζω)."
     }
@@ -368,14 +616,30 @@
     "greek": "Πολλῆς τε ἀσιτίας ὑπαρχούσης τότε σταθεὶς ὁ Παῦλος ἐν μέσῳ αὐτῶν εἶπεν·Ἔδει μέν,ὦ ἄνδρες,πειθαρχήσαντάς μοι μὴ ἀνάγεσθαι ἀπὸ τῆς Κρήτης κερδῆσαί τε τὴν ὕβριν ταύτην καὶ τὴν ζημίαν.",
     "bsb_english": "After the men had gone a long time without food, Paul stood up among them and said, “Men, you should have followed my advice not to sail from Crete. Then you would have averted this disaster and loss.",
     "translation": {
-      "thai": "เมื่อพวกเขาขาดอาหารมานานแล้ว เปาโลจึงลุกขึ้นยืนกลางท่ามกลางพวกเขาและกล่าวว่า «ท่านทั้งหลาย น่าจะเชื่อฟังข้าพเจ้าและไม่ออกเรือจากเกาะครีต ก็จะได้หลีกเลี่ยงความเสียหายและความสูญเสียครั้งใหญ่นี้",
+      "thai": "เมื่อพวกเขาขาดอาหารมานานแล้ว เปาโลจึงลุกขึ้นยืนกลางท่ามกลางพวกเขาและกล่าวว่า “ท่านทั้งหลาย น่าจะเชื่อฟังข้าพเจ้าและไม่ออกเรือจากเกาะครีต ก็จะได้หลีกเลี่ยงความเสียหายและความสูญเสียครั้งใหญ่นี้",
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "Πολλῆς ... ἀσιτίας ὑπαρχούσης", "thai": "พวกเขาขาดอาหารมานานแล้ว", "rationale": "HAPAX ἀσιτία (only NT occurrence) — alpha-privative + σῖτος (food/grain) = 'foodlessness/abstinence-from-food.' Per uW figs-abstractnouns: render verbally. Thai ขาดอาหารมานานแล้ว ('have-lacked-food for a long time now') gives the abstract noun + duration as concrete verbal phrase. The reason for fasting was likely a combination of seasickness + storm-disruption + dwindling/spoiled provisions, not religious fasting." },
-        { "greek": "σταθεὶς ὁ Παῦλος ἐν μέσῳ αὐτῶν", "thai": "เปาโลจึงลุกขึ้นยืนกลางท่ามกลางพวกเขา", "rationale": "Per uW translate-symaction: standing-up to address a group is the conventional speech-opening posture (cf. ACT 1:15, 2:14, 17:22, 26:1). Thai ลุกขึ้นยืน (compound 'rise-up-stand') is natural; กลางท่ามกลาง ('in-among') captures ἐν μέσῳ." },
-        { "greek": "Ἔδει μέν ... πειθαρχήσαντάς μοι μὴ ἀνάγεσθαι", "thai": "น่าจะเชื่อฟังข้าพเจ้าและไม่ออกเรือ", "rationale": "Counterfactual ἔδει + aorist participle 'you should have obeyed me [and] not have set sail.' Thai น่าจะเชื่อฟัง ('should-have obeyed') is the natural Thai counterfactual. πειθαρχέω 'obey [an authority figure]' (only here in NT and at ACT 5:29, 32; Tit 3:1) → เชื่อฟัง (canonical key-term). ἀνάγεσθαι 'put out to sea' = ออกเรือ ('sail out')." },
-        { "greek": "κερδῆσαί τε τὴν ὕβριν ταύτην καὶ τὴν ζημίαν", "thai": "ก็จะได้หลีกเลี่ยงความเสียหายและความสูญเสียครั้งใหญ่นี้", "rationale": "κερδαίνω 'gain' here in the negative-sense idiom 'gain [by avoiding]' = 'avert/avoid.' Per uW figs-doublet: ὕβρις + ζημία same doublet pair as v.10, recommended by uW to render as a single emphatic phrase. Thai ก็จะได้หลีกเลี่ยงความเสียหายและความสูญเสีย ('would have been able to avoid the damage and loss') resolves the κερδαίνω-as-avoid idiom while preserving the doublet for emphasis. ครั้งใหญ่นี้ ('this great event') intensifies for the storm-magnitude reference." }
+        {
+          "greek": "Πολλῆς ... ἀσιτίας ὑπαρχούσης",
+          "thai": "พวกเขาขาดอาหารมานานแล้ว",
+          "rationale": "HAPAX ἀσιτία (only NT occurrence) — alpha-privative + σῖτος (food/grain) = 'foodlessness/abstinence-from-food.' Per uW figs-abstractnouns: render verbally. Thai ขาดอาหารมานานแล้ว ('have-lacked-food for a long time now') gives the abstract noun + duration as concrete verbal phrase. The reason for fasting was likely a combination of seasickness + storm-disruption + dwindling/spoiled provisions, not religious fasting."
+        },
+        {
+          "greek": "σταθεὶς ὁ Παῦλος ἐν μέσῳ αὐτῶν",
+          "thai": "เปาโลจึงลุกขึ้นยืนกลางท่ามกลางพวกเขา",
+          "rationale": "Per uW translate-symaction: standing-up to address a group is the conventional speech-opening posture (cf. ACT 1:15, 2:14, 17:22, 26:1). Thai ลุกขึ้นยืน (compound 'rise-up-stand') is natural; กลางท่ามกลาง ('in-among') captures ἐν μέσῳ."
+        },
+        {
+          "greek": "Ἔδει μέν ... πειθαρχήσαντάς μοι μὴ ἀνάγεσθαι",
+          "thai": "น่าจะเชื่อฟังข้าพเจ้าและไม่ออกเรือ",
+          "rationale": "Counterfactual ἔδει + aorist participle 'you should have obeyed me [and] not have set sail.' Thai น่าจะเชื่อฟัง ('should-have obeyed') is the natural Thai counterfactual. πειθαρχέω 'obey [an authority figure]' (only here in NT and at ACT 5:29, 32; Tit 3:1) → เชื่อฟัง (canonical key-term). ἀνάγεσθαι 'put out to sea' = ออกเรือ ('sail out')."
+        },
+        {
+          "greek": "κερδῆσαί τε τὴν ὕβριν ταύτην καὶ τὴν ζημίαν",
+          "thai": "ก็จะได้หลีกเลี่ยงความเสียหายและความสูญเสียครั้งใหญ่นี้",
+          "rationale": "κερδαίνω 'gain' here in the negative-sense idiom 'gain [by avoiding]' = 'avert/avoid.' Per uW figs-doublet: ὕβρις + ζημία same doublet pair as v.10, recommended by uW to render as a single emphatic phrase. Thai ก็จะได้หลีกเลี่ยงความเสียหายและความสูญเสีย ('would have been able to avoid the damage and loss') resolves the κερδαίνω-as-avoid idiom while preserving the doublet for emphasis. ครั้งใหญ่นี้ ('this great event') intensifies for the storm-magnitude reference."
+        }
       ],
       "notes": "HAPAX ἀσιτία (foodlessness). Paul's 'I told you so' is gentle: he opens with the counterfactual reproach but moves immediately to encouragement (vv.22-26). Note Paul's σταθεὶς ἐν μέσῳ (standing-among-them) parallels ACT 17:22 (Athens speech σταθεὶς ἐν μέσῳ τοῦ Ἀρείου Πάγου) — the Lukan rhetorical-orator opening. Even on the brink of shipwreck, Paul speaks with the confidence of a man who has stood before kings."
     }
@@ -391,9 +655,21 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "παραινῶ ὑμᾶς εὐθυμεῖν", "thai": "ขอเตือนพวกท่านให้มีกำลังใจขึ้น", "rationale": "παραινέω 'advise / urge' (same verb as v.9) but here the content is encouragement, not warning — the inversion of v.9. Thai เตือน ('admonish/encourage') carries both directions; ขอ ('please/entreat') marks the politeness softening. εὐθυμεῖν 'be of good cheer / have courage' → มีกำลังใจขึ้น ('have heart-strength/raise spirits')." },
-        { "greek": "ἀποβολὴ γὰρ ψυχῆς οὐδεμία ἔσται", "thai": "จะไม่มีผู้ใดในพวกท่านต้องเสียชีวิต", "rationale": "Per uW figs-ellipsis: Greek omits 'among you' but supplies it from 'except the ship' contrast — uW recommends supplying. Per uW figs-synecdoche on ψυχή = life (continued from v.10). Thai ไม่มีผู้ใด ... ต้องเสียชีวิต ('no one ... will lose life') is natural Thai; preserves the negation + life-as-loseable construction. Continues the σῴζω/ψυχή/ζημία motif-cluster: contrast with v.20 'all hope of being saved abandoned' — Paul now reverses it." },
-        { "greek": "πλὴν τοῦ πλοίου", "thai": "จะสูญเสียก็เพียงเรือเท่านั้น", "rationale": "Per uW figs-ellipsis: supplied verbal element. πλήν 'except' = Thai 'เพียง ... เท่านั้น' ('only ... that's all'). Confirms Paul's earlier prediction (v.10) that 'cargo and ship' would be lost; reverses the prediction's third element ('lives')." }
+        {
+          "greek": "παραινῶ ὑμᾶς εὐθυμεῖν",
+          "thai": "ขอเตือนพวกท่านให้มีกำลังใจขึ้น",
+          "rationale": "παραινέω 'advise / urge' (same verb as v.9) but here the content is encouragement, not warning — the inversion of v.9. Thai เตือน ('admonish/encourage') carries both directions; ขอ ('please/entreat') marks the politeness softening. εὐθυμεῖν 'be of good cheer / have courage' → มีกำลังใจขึ้น ('have heart-strength/raise spirits')."
+        },
+        {
+          "greek": "ἀποβολὴ γὰρ ψυχῆς οὐδεμία ἔσται",
+          "thai": "จะไม่มีผู้ใดในพวกท่านต้องเสียชีวิต",
+          "rationale": "Per uW figs-ellipsis: Greek omits 'among you' but supplies it from 'except the ship' contrast — uW recommends supplying. Per uW figs-synecdoche on ψυχή = life (continued from v.10). Thai ไม่มีผู้ใด ... ต้องเสียชีวิต ('no one ... will lose life') is natural Thai; preserves the negation + life-as-loseable construction. Continues the σῴζω/ψυχή/ζημία motif-cluster: contrast with v.20 'all hope of being saved abandoned' — Paul now reverses it."
+        },
+        {
+          "greek": "πλὴν τοῦ πλοίου",
+          "thai": "จะสูญเสียก็เพียงเรือเท่านั้น",
+          "rationale": "Per uW figs-ellipsis: supplied verbal element. πλήν 'except' = Thai 'เพียง ... เท่านั้น' ('only ... that's all'). Confirms Paul's earlier prediction (v.10) that 'cargo and ship' would be lost; reverses the prediction's third element ('lives')."
+        }
       ],
       "notes": "The pivot of the speech: from reproach (v.21) to encouragement (vv.22-26). The 'no loss of life' promise is breathtakingly counterfactual at this point — 276 souls on a foundering ship. Paul's confidence is grounded in the angelic vision he is about to recount (vv.23-24)."
     }
@@ -407,11 +683,23 @@
     "translation": {
       "thai": "เพราะคืนนี้เอง ทูตสวรรค์องค์หนึ่งของพระเจ้าผู้ที่ข้าพเจ้าเป็นข้าและปรนนิบัติพระองค์ ได้มายืนอยู่ข้างข้าพเจ้า",
       "thai_literal": null,
-      "thai_summary": "เปาโลใช้ความสัมพันธ์ของท่านกับพระเจ้าเพื่อสร้างความน่าเชื่อถือต่อหน้าผู้ฟังที่หลากหลาย — ท่านยืนยันว่าตนเป็น «ของพระเจ้า» (สถานะ-ฐานะ) และ «ปรนนิบัติพระองค์» (กิจกรรม-อุทิศตน) สองวลีนี้คู่กันเป็นการกล่าวอ้างอย่างถ่อมตนแต่หนักแน่น เป็นการประกาศพระเจ้าของอิสราเอลแก่ผู้ฟังที่ส่วนใหญ่เป็นชาวกรีก-โรมันในหลักความเชื่อพหุเทวนิยม — เปาโลไม่กล่าวว่า «พระเจ้าของข้าพเจ้า» แต่ใช้ตำแหน่งสมพันธ์ที่ใหญ่กว่าตนเอง การปรากฏของทูตสวรรค์ต่อเปาโลในโอกาสวิกฤติเป็นแบบฉบับลูกานิยม (เทียบ 23:11 «องค์พระผู้เป็นเจ้าทรงมายืนข้างเปาโล» และ 18:9-10 ในเมืองโครินธ์)",
+      "thai_summary": "เปาโลใช้ความสัมพันธ์ของท่านกับพระเจ้าเพื่อสร้างความน่าเชื่อถือต่อหน้าผู้ฟังที่หลากหลาย — ท่านยืนยันว่าตนเป็น “ของพระเจ้า” (สถานะ-ฐานะ) และ “ปรนนิบัติพระองค์” (กิจกรรม-อุทิศตน) สองวลีนี้คู่กันเป็นการกล่าวอ้างอย่างถ่อมตนแต่หนักแน่น เป็นการประกาศพระเจ้าของอิสราเอลแก่ผู้ฟังที่ส่วนใหญ่เป็นชาวกรีก-โรมันในหลักความเชื่อพหุเทวนิยม — เปาโลไม่กล่าวว่า “พระเจ้าของข้าพเจ้า” แต่ใช้ตำแหน่งสมพันธ์ที่ใหญ่กว่าตนเอง การปรากฏของทูตสวรรค์ต่อเปาโลในโอกาสวิกฤติเป็นแบบฉบับลูกานิยม (เทียบ 23:11 “องค์พระผู้เป็นเจ้าทรงมายืนข้างเปาโล” และ 18:9-10 ในเมืองโครินธ์)",
       "key_decisions": [
-        { "greek": "παρέστη ... ἄγγελος", "thai": "ทูตสวรรค์องค์หนึ่ง ... ได้มายืนอยู่ข้างข้าพเจ้า", "rationale": "παρίστημι 'stand beside / present oneself.' ἄγγελος = 'messenger / angel'; Thai ทูตสวรรค์ ('heavenly messenger') is the canonical Thai Christian rendering, established throughout Acts (e.g., ACT 5:19, 7:30, 8:26, 10:3, 12:7, 23). 'องค์' (counter-honorific for sacred beings) is the standard Thai counter for ทูตสวรรค์." },
-        { "greek": "τοῦ θεοῦ,οὗ εἰμι,ᾧ καὶ λατρεύω", "thai": "พระเจ้าผู้ที่ข้าพเจ้าเป็นข้าและปรนนิบัติพระองค์", "rationale": "Per uW figs-parallelism: 'whose I am' (οὗ εἰμι) + 'whom I serve' (ᾧ καὶ λατρεύω) = parallel construction for emphasis. uW recommends combining as 'the God I worship' if needed for clarity, but I preserve the parallelism because Thai accommodates it naturally and the doubled humility is rhetorically important — Paul addresses a polytheistic audience and asserts both his belonging-to and active-service-of the one God of Israel. λατρεύω → ปรนนิบัติ continues the canonical lock (ACT 7:7, 24:14, 26:7)." },
-        { "greek": "οὗ εἰμι", "thai": "ข้าพเจ้าเป็นข้า", "rationale": "Genitive of belonging 'whose I am' — Thai ข้าพเจ้าเป็นข้า ('I am [his] servant') uses the natural Thai self-deprecating + servant-of construction. Distinct from a possessive 'God is mine' (which would reverse the relational direction); preserves Paul's-side-of-the-relationship as servant-not-owner. Note: 'ข้า' here is the noun ('servant/slave'), not the pronoun." }
+        {
+          "greek": "παρέστη ... ἄγγελος",
+          "thai": "ทูตสวรรค์องค์หนึ่ง ... ได้มายืนอยู่ข้างข้าพเจ้า",
+          "rationale": "παρίστημι 'stand beside / present oneself.' ἄγγελος = 'messenger / angel'; Thai ทูตสวรรค์ ('heavenly messenger') is the canonical Thai Christian rendering, established throughout Acts (e.g., ACT 5:19, 7:30, 8:26, 10:3, 12:7, 23). 'องค์' (counter-honorific for sacred beings) is the standard Thai counter for ทูตสวรรค์."
+        },
+        {
+          "greek": "τοῦ θεοῦ,οὗ εἰμι,ᾧ καὶ λατρεύω",
+          "thai": "พระเจ้าผู้ที่ข้าพเจ้าเป็นข้าและปรนนิบัติพระองค์",
+          "rationale": "Per uW figs-parallelism: 'whose I am' (οὗ εἰμι) + 'whom I serve' (ᾧ καὶ λατρεύω) = parallel construction for emphasis. uW recommends combining as 'the God I worship' if needed for clarity, but I preserve the parallelism because Thai accommodates it naturally and the doubled humility is rhetorically important — Paul addresses a polytheistic audience and asserts both his belonging-to and active-service-of the one God of Israel. λατρεύω → ปรนนิบัติ continues the canonical lock (ACT 7:7, 24:14, 26:7)."
+        },
+        {
+          "greek": "οὗ εἰμι",
+          "thai": "ข้าพเจ้าเป็นข้า",
+          "rationale": "Genitive of belonging 'whose I am' — Thai ข้าพเจ้าเป็นข้า ('I am [his] servant') uses the natural Thai self-deprecating + servant-of construction. Distinct from a possessive 'God is mine' (which would reverse the relational direction); preserves Paul's-side-of-the-relationship as servant-not-owner. Note: 'ข้า' here is the noun ('servant/slave'), not the pronoun."
+        }
       ],
       "notes": "παρίστημι 'stood beside me' parallels ACT 23:11 ἐπιστὰς ('the Lord standing by') and 22:13 ἐπιστὰς-Ananias. Lukan motif: divine messenger appears at moments of testing-or-decision. Paul's θεοῦ οὗ εἰμι, ᾧ καὶ λατρεύω is among the densest pieces of Pauline self-identification in Acts: he is bonded (οὗ εἰμι, genitive of belonging) and active (ᾧ καὶ λατρεύω, dative of relation + service-verb)."
     }
@@ -423,14 +711,30 @@
     "greek": "λέγων·Μὴ φοβοῦ,Παῦλε·Καίσαρί σε δεῖ παραστῆναι,καὶ ἰδοὺ κεχάρισταί σοι ὁ θεὸς πάντας τοὺς πλέοντας μετὰ σοῦ.",
     "bsb_english": "and said, ‘Do not be afraid, Paul; you must stand before Caesar. And look, God has granted you the lives of all who sail with you.’",
     "translation": {
-      "thai": "ทูตสวรรค์กล่าวว่า ‹อย่ากลัวเลยเปาโล เจ้าจะต้องไปยืนต่อหน้าซีซาร์ และจงดูเถิด พระเจ้าทรงประทานชีวิตของบรรดาผู้ที่แล่นเรือไปกับเจ้าทั้งหมดให้แก่เจ้าแล้ว›",
+      "thai": "ทูตสวรรค์กล่าวว่า ‘อย่ากลัวเลยเปาโล เจ้าจะต้องไปยืนต่อหน้าซีซาร์ และจงดูเถิด พระเจ้าทรงประทานชีวิตของบรรดาผู้ที่แล่นเรือไปกับเจ้าทั้งหมดให้แก่เจ้าแล้ว’",
       "thai_literal": null,
-      "thai_summary": "คำว่า «พระเจ้าทรงประทานชีวิตของผู้ที่แล่นเรือไปกับเจ้าทั้งหมดให้แก่เจ้า» (κεχάρισταί σοι ... πάντας) บ่งบอกถึงหลักการสำคัญทางเทววิทยา — พระเจ้าทรงสามารถใช้คำอธิษฐานและการปรนนิบัติของผู้ชอบธรรมหนึ่งคนเป็นเหตุให้ผู้คนรอดชีวิตเป็นหมู่คณะ (เทียบ ปฐม. 18:23-32 อับราฮัมต่อรองเพื่อโสโดม; ยรม. 5:1 เพื่อกรุงเยรูซาเล็ม) ความรอดของลูกเรือทั้ง 276 คนเชื่อมโยงโดยตรงกับการปรากฏและการประทานพระสัญญาของพระเจ้าแก่เปาโล — เป็นภาพสะท้อนของพระคริสต์ที่ความรอดของทุกชาติเชื่อมโยงกับท่านเอง คำว่า «จะต้องไปยืนต่อหน้าซีซาร์» (δεῖ) เป็นคำเดียวกับที่พระเยซูทรงใช้กับการทนทุกข์และฟื้นคืนพระชนม์ของพระองค์ (ลก. 9:22, 24:7, 26) — เป็น «จะต้อง» แห่งพระประสงค์ของพระเจ้าที่หลีกเลี่ยงไม่ได้",
+      "thai_summary": "คำว่า “พระเจ้าทรงประทานชีวิตของผู้ที่แล่นเรือไปกับเจ้าทั้งหมดให้แก่เจ้า” (κεχάρισταί σοι ... πάντας) บ่งบอกถึงหลักการสำคัญทางเทววิทยา — พระเจ้าทรงสามารถใช้คำอธิษฐานและการปรนนิบัติของผู้ชอบธรรมหนึ่งคนเป็นเหตุให้ผู้คนรอดชีวิตเป็นหมู่คณะ (เทียบ ปฐม. 18:23-32 อับราฮัมต่อรองเพื่อโสโดม; ยรม. 5:1 เพื่อกรุงเยรูซาเล็ม) ความรอดของลูกเรือทั้ง 276 คนเชื่อมโยงโดยตรงกับการปรากฏและการประทานพระสัญญาของพระเจ้าแก่เปาโล — เป็นภาพสะท้อนของพระคริสต์ที่ความรอดของทุกชาติเชื่อมโยงกับท่านเอง คำว่า “จะต้องไปยืนต่อหน้าซีซาร์” (δεῖ) เป็นคำเดียวกับที่พระเยซูทรงใช้กับการทนทุกข์และฟื้นคืนพระชนม์ของพระองค์ (ลก. 9:22, 24:7, 26) — เป็น “จะต้อง” แห่งพระประสงค์ของพระเจ้าที่หลีกเลี่ยงไม่ได้",
       "key_decisions": [
-        { "greek": "Μὴ φοβοῦ,Παῦλε", "thai": "อย่ากลัวเลยเปาโล", "rationale": "Standard divine-encouragement formula μὴ φοβοῦ ('fear not') — appears in LXX, Lukan annunciation (LUK 1:13, 30, 2:10), and to Paul at ACT 18:9-10. Thai อย่ากลัวเลย ('do not fear') is the canonical Thai. Vocative Παῦλε = 'Paul' (familiar/personal); the angel addresses Paul by name, as the Lord did at ACT 9:4, 22:7, 26:14 — divine messenger uses Paul's birth-name for direct address." },
-        { "greek": "Καίσαρί σε δεῖ παραστῆναι", "thai": "เจ้าจะต้องไปยืนต่อหน้าซีซาร์", "rationale": "Per uW figs-synecdoche: 'stand before Caesar' = the entire trial process (uW alternative: 'You must appear in Caesar's court'). I preserve the literal 'stand before' because the παρίστημι/παρέστη verb-cluster echoes v.23 (the angel 'stood beside' Paul; Paul 'must stand before' Caesar) — preserving the Greek's verb-cluster preserves the Lukan parallelism. Καίσαρ → ซีซาρ์ (canonical lock). δεῖ → จะต้อง (canonical lock for divine-necessity δεῖ in Lukan corpus, e.g., LUK 9:22, 24:7, 26)." },
-        { "greek": "ἰδοὺ κεχάρισταί σοι ὁ θεὸς πάντας τοὺς πλέοντας μετὰ σοῦ", "thai": "จงดูเถิด พระเจ้าทรงประทานชีวิตของบรรดาผู้ที่แล่นเรือไปกับเจ้าทั้งหมดให้แก่เจ้าแล้ว", "rationale": "Per uW figs-metaphor on ἰδού (focus-attention marker) → จงดูเถิด (canonical formal-attention particle). κεχάρισταί perfect = 'has-graciously-granted [as a completed gift].' Divine subject ὁ θεός → ทรง-prefix on giving verb: ทรงประทาน. χαρίζομαι 'graciously give' contrasts with simple δίδωμι — a gift bestowed from grace, often as petition-answer. Per uW figs-explicit: 'all sailing with you' = the lives of all sailors/passengers. Thai ชีวิตของบรรดาผู้ที่แล่นเรือไปกับเจ้าทั้งหมด ('the lives of all those sailing with you') makes the gift-content explicit per uW." },
-        { "greek": "σε / σοι / σου (singular ‘you’ to Paul)", "thai": "เจ้า", "rationale": "Per RULES §3 — divine messenger addressing a human: standard Lukan-Acts pattern uses เจ้า for the human addressee (cf. ACT 9:4-6 εจ้าก็ขอจะให้ข้าพระองค์ทำอย่างไร?, ACT 23:11 เจ้าได้เป็นพยาน, ACT 22:18 เจ้าจงรีบไป). Maintains established register for divine-to-human direct address." }
+        {
+          "greek": "Μὴ φοβοῦ,Παῦλε",
+          "thai": "อย่ากลัวเลยเปาโล",
+          "rationale": "Standard divine-encouragement formula μὴ φοβοῦ ('fear not') — appears in LXX, Lukan annunciation (LUK 1:13, 30, 2:10), and to Paul at ACT 18:9-10. Thai อย่ากลัวเลย ('do not fear') is the canonical Thai. Vocative Παῦλε = 'Paul' (familiar/personal); the angel addresses Paul by name, as the Lord did at ACT 9:4, 22:7, 26:14 — divine messenger uses Paul's birth-name for direct address."
+        },
+        {
+          "greek": "Καίσαρί σε δεῖ παραστῆναι",
+          "thai": "เจ้าจะต้องไปยืนต่อหน้าซีซาร์",
+          "rationale": "Per uW figs-synecdoche: 'stand before Caesar' = the entire trial process (uW alternative: 'You must appear in Caesar's court'). I preserve the literal 'stand before' because the παρίστημι/παρέστη verb-cluster echoes v.23 (the angel 'stood beside' Paul; Paul 'must stand before' Caesar) — preserving the Greek's verb-cluster preserves the Lukan parallelism. Καίσαρ → ซีซาρ์ (canonical lock). δεῖ → จะต้อง (canonical lock for divine-necessity δεῖ in Lukan corpus, e.g., LUK 9:22, 24:7, 26)."
+        },
+        {
+          "greek": "ἰδοὺ κεχάρισταί σοι ὁ θεὸς πάντας τοὺς πλέοντας μετὰ σοῦ",
+          "thai": "จงดูเถิด พระเจ้าทรงประทานชีวิตของบรรดาผู้ที่แล่นเรือไปกับเจ้าทั้งหมดให้แก่เจ้าแล้ว",
+          "rationale": "Per uW figs-metaphor on ἰδού (focus-attention marker) → จงดูเถิด (canonical formal-attention particle). κεχάρισταί perfect = 'has-graciously-granted [as a completed gift].' Divine subject ὁ θεός → ทรง-prefix on giving verb: ทรงประทาน. χαρίζομαι 'graciously give' contrasts with simple δίδωμι — a gift bestowed from grace, often as petition-answer. Per uW figs-explicit: 'all sailing with you' = the lives of all sailors/passengers. Thai ชีวิตของบรรดาผู้ที่แล่นเรือไปกับเจ้าทั้งหมด ('the lives of all those sailing with you') makes the gift-content explicit per uW."
+        },
+        {
+          "greek": "σε / σοι / σου (singular ‘you’ to Paul)",
+          "thai": "เจ้า",
+          "rationale": "Per RULES §3 — divine messenger addressing a human: standard Lukan-Acts pattern uses เจ้า for the human addressee (cf. ACT 9:4-6 εจ้าก็ขอจะให้ข้าพระองค์ทำอย่างไร?, ACT 23:11 เจ้าได้เป็นพยาน, ACT 22:18 เจ้าจงรีบไป). Maintains established register for divine-to-human direct address."
+        }
       ],
       "notes": "The vision's content is the theological center of Acts 27. Three divine claims: (1) Paul will reach Caesar (anchoring 23:11's promise: 'You must testify in Rome'); (2) all who sail with Paul are 'granted' to him by God's grace; (3) the implied corollary — Paul's faithful witness functions as the means by which 275 other souls are preserved. The theological chain: divine election + apostolic faithfulness + corporate-physical-deliverance. Compare LUK 17:33 / Mark 8:35: he who loses his life saves; here, the apostle's faithfulness saves others' lives."
     }
@@ -446,9 +750,21 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "διὸ εὐθυμεῖτε", "thai": "เพราะฉะนั้น ... จงมีกำลังใจเถิด", "rationale": "Inferential διό 'therefore/wherefore.' εὐθυμεῖτε imperative 'be of good cheer' — same verb as v.22 (εὐθυμεῖν infinitive). Thai จงมีกำลังใจเถิด preserves the imperative + the courage-content; เพราะฉะนั้น ('therefore') marks the inference-from-vision." },
-        { "greek": "πιστεύω γὰρ τῷ θεῷ", "thai": "ข้าพเจ้าเชื่อพระเจ้า", "rationale": "πιστεύω + dative = 'trust/believe [a person].' Thai เชื่อ ('believe/trust') + indirect object พระเจ้า. NOTE: this is faith-IN-God's-words, faith-as-trust-in-promise; not faith-INTO-Christ-for-salvation. The Thai เชื่อ accommodates both senses, but the context (immediately + οὕτως ἔσται) anchors it to confidence-in-God's-just-spoken-promise." },
-        { "greek": "λελάληταί μοι", "thai": "พระองค์ทรงตรัสแก่ข้าพเจ้า", "rationale": "Per uW figs-activepassive: passive perfect 'has been spoken to me' — uW recommends rendering as Thai active with explicit divine subject. Divine subject (the God speaking through the angel = ultimately God speaking) → ทรง-prefix on speech-verb: ทรงตรัส (canonical royal-speech, RULES §3). Note the angel speaks, but Paul attributes it to God ('what was spoken' is God's word via the angel)." }
+        {
+          "greek": "διὸ εὐθυμεῖτε",
+          "thai": "เพราะฉะนั้น ... จงมีกำลังใจเถิด",
+          "rationale": "Inferential διό 'therefore/wherefore.' εὐθυμεῖτε imperative 'be of good cheer' — same verb as v.22 (εὐθυμεῖν infinitive). Thai จงมีกำลังใจเถิด preserves the imperative + the courage-content; เพราะฉะนั้น ('therefore') marks the inference-from-vision."
+        },
+        {
+          "greek": "πιστεύω γὰρ τῷ θεῷ",
+          "thai": "ข้าพเจ้าเชื่อพระเจ้า",
+          "rationale": "πιστεύω + dative = 'trust/believe [a person].' Thai เชื่อ ('believe/trust') + indirect object พระเจ้า. NOTE: this is faith-IN-God's-words, faith-as-trust-in-promise; not faith-INTO-Christ-for-salvation. The Thai เชื่อ accommodates both senses, but the context (immediately + οὕτως ἔσται) anchors it to confidence-in-God's-just-spoken-promise."
+        },
+        {
+          "greek": "λελάληταί μοι",
+          "thai": "พระองค์ทรงตรัสแก่ข้าพเจ้า",
+          "rationale": "Per uW figs-activepassive: passive perfect 'has been spoken to me' — uW recommends rendering as Thai active with explicit divine subject. Divine subject (the God speaking through the angel = ultimately God speaking) → ทรง-prefix on speech-verb: ทรงตรัส (canonical royal-speech, RULES §3). Note the angel speaks, but Paul attributes it to God ('what was spoken' is God's word via the angel)."
+        }
       ],
       "notes": "Paul's confidence-formula. πιστεύω τῷ θεῷ (with dative) is the Septuagintal echo of Gen 15:6 LXX (Abraham believing-God) — Paul aligns himself with the patriarchal trust-in-promise. The verbal structure mirrors LUK 1:45 (Mary blessing-formula: 'blessed is she who believed there will be a fulfillment of what was spoken to her by the Lord'). Mary's trust → Paul's trust → both at moments where the promise seems impossible."
     }
@@ -460,12 +776,20 @@
     "greek": "εἰς νῆσον δέ τινα δεῖ ἡμᾶς ἐκπεσεῖν.",
     "bsb_english": "However, we must run aground on some island.",
     "translation": {
-      "thai": "แต่พวกเราจะต้องเข้าเกยตื้นที่เกาะแห่งหนึ่ง»",
+      "thai": "แต่พวกเราจะต้องเข้าเกยตื้นที่เกาะแห่งหนึ่ง”",
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "εἰς νῆσον ... ἐκπεσεῖν", "thai": "เข้าเกยตื้นที่เกาะ", "rationale": "Per uW figs-idiom: ἐκπίπτω 'fall upon' here is the nautical idiom 'run aground.' Same idiom as vv.17, 29, 32 with different prepositions. Thai เกยตื้น ('go aground / strike-shoal') is the standard Thai maritime term. εἰς + accusative (ηῆσον) = 'onto an island'; เข้า ... ที่เกาะ ('enter at an island') captures the destination." },
-        { "greek": "δεῖ ἡμᾶς", "thai": "พวกเราจะต้อง", "rationale": "δεῖ 'it is necessary' — divine necessity, same as v.24's δεῖ (Paul-must-stand-before-Caesar). The grounding is part of the divine plan, not just an unfortunate consequence. Thai จะต้อง ('must / will-have-to') captures the divine-imperative force." }
+        {
+          "greek": "εἰς νῆσον ... ἐκπεσεῖν",
+          "thai": "เข้าเกยตื้นที่เกาะ",
+          "rationale": "Per uW figs-idiom: ἐκπίπτω 'fall upon' here is the nautical idiom 'run aground.' Same idiom as vv.17, 29, 32 with different prepositions. Thai เกยตื้น ('go aground / strike-shoal') is the standard Thai maritime term. εἰς + accusative (ηῆσον) = 'onto an island'; เข้า ... ที่เกาะ ('enter at an island') captures the destination."
+        },
+        {
+          "greek": "δεῖ ἡμᾶς",
+          "thai": "พวกเราจะต้อง",
+          "rationale": "δεῖ 'it is necessary' — divine necessity, same as v.24's δεῖ (Paul-must-stand-before-Caesar). The grounding is part of the divine plan, not just an unfortunate consequence. Thai จะต้อง ('must / will-have-to') captures the divine-imperative force."
+        }
       ],
       "notes": "The end of Paul's mid-storm speech. The δεῖ here echoes the δεῖ of v.24 (you must stand before Caesar) — both divine necessities. The grounding-on-island is presented not as a setback to the mission but as part of the providential geography that gets Paul to Rome. The unnamed island will be revealed as Malta (28:1)."
     }
@@ -479,11 +803,23 @@
     "translation": {
       "thai": "ครั้นถึงคืนที่สิบสี่ ขณะที่พวกเรายังคงถูกพัดพาไปในทะเลอาเดรีย ราวเที่ยงคืน พวกกะลาสีเริ่มสำเหนียกว่าใกล้ถึงแผ่นดินเข้าไปแล้ว",
       "thai_literal": null,
-      "thai_summary": "«ทะเลอาเดรีย» (Ἀδρίας) ในที่นี้ไม่ใช่ทะเลเอเดรียติกที่อยู่ระหว่างอิตาลีกับยุโรปตะวันออก-กลาง (ตามความหมายปัจจุบัน) แต่เป็นชื่อที่ชาวกรีก-โรมันสมัยศตวรรษที่ 1 ใช้เรียกทะเลเมดิเตอร์เรเนียนตอนกลางทั้งหมด — รวมถึงน่านน้ำระหว่างอิตาลี-มอลตา-ครีต-กรีซ ความรู้ทางภูมิศาสตร์ของลูกาสอดคล้องกับการใช้ภาษาในศตวรรษที่ 1 — ปโตเลมี (Geography 3.4 และ 3.17) และพลินีผู้อาวุโส (Natural History 3.5) ใช้คำเดียวกันสำหรับน่านน้ำเดียวกัน ระยะทางจากเกาะครีต (Καλοὺς Λιμένας) ถึงเกาะมอลตา ราว 1,000 กิโลเมตร ในเวลา 14 วันที่ถูกลมพัดที่ความเร็วเฉลี่ย 1.5 ไมล์ทะเลต่อชั่วโมง = ตรงกับที่ลูกาบันทึกไว้พอดี — เป็นการคำนวณทางการเดินเรือสมัยใหม่ที่ยืนยันความถูกต้องของการบันทึก",
+      "thai_summary": "“ทะเลอาเดรีย” (Ἀδρίας) ในที่นี้ไม่ใช่ทะเลเอเดรียติกที่อยู่ระหว่างอิตาลีกับยุโรปตะวันออก-กลาง (ตามความหมายปัจจุบัน) แต่เป็นชื่อที่ชาวกรีก-โรมันสมัยศตวรรษที่ 1 ใช้เรียกทะเลเมดิเตอร์เรเนียนตอนกลางทั้งหมด — รวมถึงน่านน้ำระหว่างอิตาลี-มอลตา-ครีต-กรีซ ความรู้ทางภูมิศาสตร์ของลูกาสอดคล้องกับการใช้ภาษาในศตวรรษที่ 1 — ปโตเลมี (Geography 3.4 และ 3.17) และพลินีผู้อาวุโส (Natural History 3.5) ใช้คำเดียวกันสำหรับน่านน้ำเดียวกัน ระยะทางจากเกาะครีต (Καλοὺς Λιμένας) ถึงเกาะมอลตา ราว 1,000 กิโลเมตร ในเวลา 14 วันที่ถูกลมพัดที่ความเร็วเฉลี่ย 1.5 ไมล์ทะเลต่อชั่วโมง = ตรงกับที่ลูกาบันทึกไว้พอดี — เป็นการคำนวณทางการเดินเรือสมัยใหม่ที่ยืนยันความถูกต้องของการบันทึก",
       "key_decisions": [
-        { "greek": "τεσσαρεσκαιδεκάτη νὺξ", "thai": "คืนที่สิบสี่", "rationale": "Per uW translate-ordinal: literal ordinal preserved. Thai คืนที่สิบสี่ ('night the fourteenth') is the natural Thai ordinal-construction. The 14-day reckoning matches modern nautical calculations of the storm's drift from Crete to Malta (see thai_summary)." },
-        { "greek": "διαφερομένων ἡμῶν ἐν τῷ Ἀδρίᾳ", "thai": "พวกเรายังคงถูกพัดพาไปในทะเลอาเดรีย", "rationale": "HAPAX Ἀδρίας (proper noun, only NT occurrence). NEW PROPER-NOUN LOCK: Ἀδρίας → ทะเลอาเดรีย (Thai phonetic, with ทะเล 'sea' prefix for the body-of-water context). Per uW translate-names + the historical-geographical scope: in the 1st century AD, Ἀδρίας was the central Mediterranean basin including Italy-Malta-Greece-Crete, NOT the modern Adriatic between Italy and the Balkans. The thai_summary explains this. διαφέρομαι (passive) 'be carried about/drift' = ถูกพัดพาไป (continued passive-of-storm-driven from vv.15, 17)." },
-        { "greek": "ὑπενόουν οἱ ναῦται προσάγειν τινὰ αὐτοῖς χώραν", "thai": "พวกกะลาสีเริ่มสำเหนียกว่าใกล้ถึงแผ่นดินเข้าไปแล้ว", "rationale": "Per uW figs-personification on προσάγειν: 'land approaching them' — uW recommends rendering plainly as 'they were approaching land.' Thai ใกล้ถึงแผ่นดิน ('nearing land') reverses the personification correctly. ὑπονοέω (freq=3 NT) 'suspect/sense' → สำเหนียก ('perceive/sense'). Imperfect ὑπενόουν = 'began-to-perceive / were-perceiving' = Thai เริ่มสำเหนียก. ναύτης 'sailor' → กะลาสี (Thai standard term)." }
+        {
+          "greek": "τεσσαρεσκαιδεκάτη νὺξ",
+          "thai": "คืนที่สิบสี่",
+          "rationale": "Per uW translate-ordinal: literal ordinal preserved. Thai คืนที่สิบสี่ ('night the fourteenth') is the natural Thai ordinal-construction. The 14-day reckoning matches modern nautical calculations of the storm's drift from Crete to Malta (see thai_summary)."
+        },
+        {
+          "greek": "διαφερομένων ἡμῶν ἐν τῷ Ἀδρίᾳ",
+          "thai": "พวกเรายังคงถูกพัดพาไปในทะเลอาเดรีย",
+          "rationale": "HAPAX Ἀδρίας (proper noun, only NT occurrence). NEW PROPER-NOUN LOCK: Ἀδρίας → ทะเลอาเดรีย (Thai phonetic, with ทะเล 'sea' prefix for the body-of-water context). Per uW translate-names + the historical-geographical scope: in the 1st century AD, Ἀδρίας was the central Mediterranean basin including Italy-Malta-Greece-Crete, NOT the modern Adriatic between Italy and the Balkans. The thai_summary explains this. διαφέρομαι (passive) 'be carried about/drift' = ถูกพัดพาไป (continued passive-of-storm-driven from vv.15, 17)."
+        },
+        {
+          "greek": "ὑπενόουν οἱ ναῦται προσάγειν τινὰ αὐτοῖς χώραν",
+          "thai": "พวกกะลาสีเริ่มสำเหนียกว่าใกล้ถึงแผ่นดินเข้าไปแล้ว",
+          "rationale": "Per uW figs-personification on προσάγειν: 'land approaching them' — uW recommends rendering plainly as 'they were approaching land.' Thai ใกล้ถึงแผ่นดิน ('nearing land') reverses the personification correctly. ὑπονοέω (freq=3 NT) 'suspect/sense' → สำเหนียก ('perceive/sense'). Imperfect ὑπενόουν = 'began-to-perceive / were-perceiving' = Thai เริ่มสำเหนียก. ναύτης 'sailor' → กะลาสี (Thai standard term)."
+        }
       ],
       "notes": "HAPAX Ἀδρίας. The 14th-night specification + midnight is precise eyewitness detail — Lukan documentary-narrative at its best. The sailors' sensing-land (probably from sound of distant breakers) precedes the soundings of v.28."
     }
@@ -499,8 +835,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "βολίσαντες", "thai": "หยั่งความลึกของน้ำ", "rationale": "Per uW figs-idiom + translate-unknown: βολίζω (freq=2 NT, both here) 'take a sounding' = drop a marked weighted line to measure water depth. Thai หยั่งความลึกของน้ำ ('measure-down the depth of the water') gives the action plainly for Thai readers." },
-        { "greek": "ὀργυιὰς εἴκοσι ... ὀργυιὰς δεκαπέντε", "thai": "ลึกยี่สิบวา ... ลึกสิบห้าวา", "rationale": "Per uW translate-numbers: ὀργυιά 'fathom' = ~1.8m / 6ft, the distance from fingertip to fingertip with arms outstretched. Thai วา is the traditional Thai length-measure ≈ 2m = 4 ศอก, almost exactly equivalent to a fathom. Using วา is more natural-cultural for Thai readers than transliterating the Greek-fathom or converting to meters; the equivalence is close enough that the navigational meaning is preserved (twenty fathoms = ~36m; ยี่สิบวา = ~40m — same scale)." }
+        {
+          "greek": "βολίσαντες",
+          "thai": "หยั่งความลึกของน้ำ",
+          "rationale": "Per uW figs-idiom + translate-unknown: βολίζω (freq=2 NT, both here) 'take a sounding' = drop a marked weighted line to measure water depth. Thai หยั่งความลึกของน้ำ ('measure-down the depth of the water') gives the action plainly for Thai readers."
+        },
+        {
+          "greek": "ὀργυιὰς εἴκοσι ... ὀργυιὰς δεκαπέντε",
+          "thai": "ลึกยี่สิบวา ... ลึกสิบห้าวา",
+          "rationale": "Per uW translate-numbers: ὀργυιά 'fathom' = ~1.8m / 6ft, the distance from fingertip to fingertip with arms outstretched. Thai วา is the traditional Thai length-measure ≈ 2m = 4 ศอก, almost exactly equivalent to a fathom. Using วา is more natural-cultural for Thai readers than transliterating the Greek-fathom or converting to meters; the equivalence is close enough that the navigational meaning is preserved (twenty fathoms = ~36m; ยี่สิบวา = ~40m — same scale)."
+        }
       ],
       "notes": "Soundings drop from 20 fathoms (~36m) to 15 fathoms (~27m) over a short distance — the seafloor is shoaling rapidly. Standard sailing practice when nearing unfamiliar coasts; the rate of change confirms imminent grounding. Lukan documentary precision — this is technical-nautical reporting."
     }
@@ -516,9 +860,21 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "κατὰ τραχεῖς τόπους ἐκπέσωμεν", "thai": "เรือจะกระแทกเข้ากับโขดหิน", "rationale": "Per uW figs-idiom: ἐκπίπτω 'fall upon' nautical = 'run aground on.' τραχεῖς τόποι 'rugged/rocky places.' Thai กระแทกเข้ากับโขดหิน ('strike-into-rocks') gives the impact-on-rocky-shore sense. The fear is run-aground in darkness, where the unsighted rocks would tear the hull." },
-        { "greek": "ἐκ πρύμνης ῥίψαντες ἀγκύρας τέσσαρας", "thai": "ทอดสมอสี่ตัวจากท้ายเรือ", "rationale": "Per uW figs-idiom: πρύμνη 'stern' (back of ship) — Thai ท้ายเรือ (canonical maritime term). Anchoring from the stern (rather than the conventional bow) keeps the ship pointing toward the shore — when daylight comes, they can hoist anchor + sail toward the shore directly. Standard 1st-century storm-survival technique. ἀγκύρας τέσσαρας → สมอสี่ตัว ('four anchors')." },
-        { "greek": "ηὔχοντο ἡμέραν γενέσθαι", "thai": "อธิษฐานขอให้รุ่งสางมาถึงโดยเร็ว", "rationale": "εὔχομαι 'pray/wish.' ἡμέραν γενέσθαι 'day to come.' Thai อธิษฐาน ('pray') + ขอให้รุ่งสาง ('that dawn-come'). Imperfect ηὔχοντο = continuing prayer. Whether this is religious-prayer or sailor's desperate wish is left ambiguous; the verse's positioning between sailor-fear (κατὰ τραχεῖς) and Paul's exhortation (vv.31-36) suggests sailor-language-of-pious-wish, not specifically Christian prayer." }
+        {
+          "greek": "κατὰ τραχεῖς τόπους ἐκπέσωμεν",
+          "thai": "เรือจะกระแทกเข้ากับโขดหิน",
+          "rationale": "Per uW figs-idiom: ἐκπίπτω 'fall upon' nautical = 'run aground on.' τραχεῖς τόποι 'rugged/rocky places.' Thai กระแทกเข้ากับโขดหิน ('strike-into-rocks') gives the impact-on-rocky-shore sense. The fear is run-aground in darkness, where the unsighted rocks would tear the hull."
+        },
+        {
+          "greek": "ἐκ πρύμνης ῥίψαντες ἀγκύρας τέσσαρας",
+          "thai": "ทอดสมอสี่ตัวจากท้ายเรือ",
+          "rationale": "Per uW figs-idiom: πρύμνη 'stern' (back of ship) — Thai ท้ายเรือ (canonical maritime term). Anchoring from the stern (rather than the conventional bow) keeps the ship pointing toward the shore — when daylight comes, they can hoist anchor + sail toward the shore directly. Standard 1st-century storm-survival technique. ἀγκύρας τέσσαρας → สมอสี่ตัว ('four anchors')."
+        },
+        {
+          "greek": "ηὔχοντο ἡμέραν γενέσθαι",
+          "thai": "อธิษฐานขอให้รุ่งสางมาถึงโดยเร็ว",
+          "rationale": "εὔχομαι 'pray/wish.' ἡμέραν γενέσθαι 'day to come.' Thai อธิษฐาน ('pray') + ขอให้รุ่งสาง ('that dawn-come'). Imperfect ηὔχοντο = continuing prayer. Whether this is religious-prayer or sailor's desperate wish is left ambiguous; the verse's positioning between sailor-fear (κατὰ τραχεῖς) and Paul's exhortation (vv.31-36) suggests sailor-language-of-pious-wish, not specifically Christian prayer."
+        }
       ],
       "notes": "Stern-anchoring is the technical-nautical climax of the storm-narrative. Four anchors at the stern = maximum holding power against onshore wind; bow-pointing-to-shore = ready-to-beach configuration when light comes. This is professional seamanship at its most desperate."
     }
@@ -534,9 +890,21 @@
       "thai_literal": null,
       "thai_summary": "การพยายามหนีของพวกกะลาสีเป็นการละทิ้งหน้าที่อย่างชัดเจน — กะลาสีรู้ดีกว่าใครว่าผู้โดยสารและทหารโรมันบนเรือไม่มีทักษะการเดินเรือ ขนาดเล็กของเรือชูชีพ (อาจรับได้ราว 30-40 คน จาก 276 คน) บ่งบอกว่ากะลาสีตั้งใจจะรักษาตนเองและทิ้งคนอื่นๆ ให้พังเรือ — ตามขนบของยุคนั้น เป็นการกระทำที่น่ารังเกียจอย่างยิ่งสำหรับชาวกรีก-โรมัน ลูกาบันทึกการกระทำนี้ไว้เพื่อแสดงให้เห็นความแตกต่างระหว่างความเห็นแก่ตัวของกะลาสีกับความรับผิดชอบของเปาโลที่จะรักษาทุกคน — เปาโลใช้ของขวัญที่พระเจ้าทรงประทานให้ (ชีวิตของผู้แล่นเรือทุกคน ข้อ 24) เพื่อยืนหยัดให้ทุกคนรอด",
       "key_decisions": [
-        { "greek": "ζητούντων φυγεῖν ἐκ τοῦ πλοίου", "thai": "พยายามจะหนีออกจากเรือ", "rationale": "ζητέω + infinitive 'seek to do' = 'try to / attempt to.' Thai พยายามจะ ('try to / attempt to') is the standard Thai conative. φυγεῖν 'flee/escape' → หนี." },
-        { "greek": "χαλασάντων τὴν σκάφην εἰς τὴν θάλασσαν", "thai": "หย่อนเรือชูชีพลงสู่ทะเล", "rationale": "χαλάω 'let down/lower' (cf. ACT 9:25 of Paul let down in basket; LUK 5:4 nets) → หย่อน. σκάφη → เรือชูชีพ (continued lock from v.16). The sailors lower the boat into the water, ostensibly for anchor-deployment but actually for desertion-via-rowing-to-shore." },
-        { "greek": "προφάσει ὡς ἐκ πρῴρης ἀγκύρας μελλόντων ἐκτείνειν", "thai": "โดยแสร้งทำเป็นว่าจะทอดสมอจากหัวเรือ", "rationale": "Per uW figs-idiom: πρῷρα 'bow' (front) — Thai หัวเรือ (canonical maritime term, contrasting with ท้ายเรือ in v.29). προφάσει 'under pretext' = แสร้งทำเป็น ('feign / pretend'). The ruse: pretending to extend anchor-cables from the bow (which would require the lifeboat to be in the water, paying out the line). The sailors needed a believable excuse to launch the σκάφη in the middle of the night." }
+        {
+          "greek": "ζητούντων φυγεῖν ἐκ τοῦ πλοίου",
+          "thai": "พยายามจะหนีออกจากเรือ",
+          "rationale": "ζητέω + infinitive 'seek to do' = 'try to / attempt to.' Thai พยายามจะ ('try to / attempt to') is the standard Thai conative. φυγεῖν 'flee/escape' → หนี."
+        },
+        {
+          "greek": "χαλασάντων τὴν σκάφην εἰς τὴν θάλασσαν",
+          "thai": "หย่อนเรือชูชีพลงสู่ทะเล",
+          "rationale": "χαλάω 'let down/lower' (cf. ACT 9:25 of Paul let down in basket; LUK 5:4 nets) → หย่อน. σκάφη → เรือชูชีพ (continued lock from v.16). The sailors lower the boat into the water, ostensibly for anchor-deployment but actually for desertion-via-rowing-to-shore."
+        },
+        {
+          "greek": "προφάσει ὡς ἐκ πρῴρης ἀγκύρας μελλόντων ἐκτείνειν",
+          "thai": "โดยแสร้งทำเป็นว่าจะทอดสมอจากหัวเรือ",
+          "rationale": "Per uW figs-idiom: πρῷρα 'bow' (front) — Thai หัวเรือ (canonical maritime term, contrasting with ท้ายเรือ in v.29). προφάσει 'under pretext' = แสร้งทำเป็น ('feign / pretend'). The ruse: pretending to extend anchor-cables from the bow (which would require the lifeboat to be in the water, paying out the line). The sailors needed a believable excuse to launch the σκάφη in the middle of the night."
+        }
       ],
       "notes": "The sailors' desertion-attempt is the ethical-narrative crisis of the chapter. They have professional knowledge that the others lack (boats, navigation, beaching). Their attempt to escape would have left the ship — and 270+ untrained survivors — to founder. Paul's intervention (v.31) is the moral-critical moment that fulfills the angel's promise: 'God has granted you all those sailing with you' (v.24) requires Paul's active mediation, not passive expectation."
     }
@@ -548,12 +916,20 @@
     "greek": "εἶπεν ὁ Παῦλος τῷ ἑκατοντάρχῃ καὶ τοῖς στρατιώταις·Ἐὰν μὴ οὗτοι μείνωσιν ἐν τῷ πλοίῳ,ὑμεῖς σωθῆναι οὐ δύνασθε.",
     "bsb_english": "But Paul said to the centurion and the soldiers, “Unless these men remain with the ship, you cannot be saved.”",
     "translation": {
-      "thai": "เปาโลจึงกล่าวแก่นายร้อยและบรรดาทหารว่า «ถ้าคนเหล่านี้ไม่อยู่ในเรือ พวกท่านก็ไม่อาจรอดชีวิตได้»",
+      "thai": "เปาโลจึงกล่าวแก่นายร้อยและบรรดาทหารว่า “ถ้าคนเหล่านี้ไม่อยู่ในเรือ พวกท่านก็ไม่อาจรอดชีวิตได้”",
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "Ἐὰν μὴ οὗτοι μείνωσιν ἐν τῷ πλοίῳ", "thai": "ถ้าคนเหล่านี้ไม่อยู่ในเรือ", "rationale": "ἐὰν μή + subjunctive 'unless' = Thai ถ้า ... ไม่. οὗτοι 'these [men]' = the sailors of v.30. The conditional preserves the precise causal-link Paul is asserting: sailors are the necessary means to the survival of all." },
-        { "greek": "ὑμεῖς σωθῆναι οὐ δύνασθε", "thai": "พวกท่านก็ไม่อาจรอดชีวิตได้", "rationale": "Per uW figs-activepassive: σωθῆναι passive 'be saved' = ESCAPE/SURVIVE the storm. uW recommends Thai active form 'save yourselves.' I render รอดชีวิตได้ ('be able to survive'); ไม่อาจ ... ได้ ('cannot ... be able to') is the natural Thai construction. σῴζω here is secular-survival (continued from v.20, 31, 34, 43), not theological-salvation; Thai รอดชีวิต ('survive / preserve life') accommodates both senses but anchors to the secular-survival. The 2nd-person plural ὑμεῖς (centurion + soldiers) emphasizes that THEY too will perish, not just the rest of the passengers." }
+        {
+          "greek": "Ἐὰν μὴ οὗτοι μείνωσιν ἐν τῷ πλοίῳ",
+          "thai": "ถ้าคนเหล่านี้ไม่อยู่ในเรือ",
+          "rationale": "ἐὰν μή + subjunctive 'unless' = Thai ถ้า ... ไม่. οὗτοι 'these [men]' = the sailors of v.30. The conditional preserves the precise causal-link Paul is asserting: sailors are the necessary means to the survival of all."
+        },
+        {
+          "greek": "ὑμεῖς σωθῆναι οὐ δύνασθε",
+          "thai": "พวกท่านก็ไม่อาจรอดชีวิตได้",
+          "rationale": "Per uW figs-activepassive: σωθῆναι passive 'be saved' = ESCAPE/SURVIVE the storm. uW recommends Thai active form 'save yourselves.' I render รอดชีวิตได้ ('be able to survive'); ไม่อาจ ... ได้ ('cannot ... be able to') is the natural Thai construction. σῴζω here is secular-survival (continued from v.20, 31, 34, 43), not theological-salvation; Thai รอดชีวิต ('survive / preserve life') accommodates both senses but anchors to the secular-survival. The 2nd-person plural ὑμεῖς (centurion + soldiers) emphasizes that THEY too will perish, not just the rest of the passengers."
+        }
       ],
       "notes": "Paul's tactical insight: God's promise (v.24) is mediated through human agency. The angel said 'all who sail with you,' but this is conditional on Paul's active prevention of their dispersal. Sovereign-providence + apostolic-action work together. Compare LUK 22:31-32 (Satan asked to sift Peter; Jesus prayed; Peter must strengthen brothers) — divine guarantee + human responsibility, not either/or."
     }
@@ -569,8 +945,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἀπέκοψαν ... τὰ σχοινία τῆς σκάφης", "thai": "ตัดเชือกที่ผูกเรือชูชีพ", "rationale": "ἀποκόπτω 'cut off' → ตัด (Thai standard verb). σχοινία 'ropes/cords' → เชือก (Thai standard). σκάφη → เรือชูชีพ (continued lock from vv.16, 30). 'ที่ผูก' ('that-tied') makes the relational sense explicit for Thai naturalness." },
-        { "greek": "εἴασαν αὐτὴν ἐκπεσεῖν", "thai": "ปล่อยให้มันลอยหลุดไป", "rationale": "Per uW figs-idiom: ἐκπίπτω here in nautical sense — uW gives two options: (1) 'fall into the water' [boat falls in, lost — meaning the soldiers cut the ropes and let it drop into the water where sailors couldn't reach it]; (2) 'drift away' [boat already in water — soldiers cut to let it drift]. Either way, the sailors lose access to the boat. Thai ลอยหลุดไป ('float-loose-away') accommodates either reading; ปล่อยให้ ('let / allow') captures the εἰάω permissive." }
+        {
+          "greek": "ἀπέκοψαν ... τὰ σχοινία τῆς σκάφης",
+          "thai": "ตัดเชือกที่ผูกเรือชูชีพ",
+          "rationale": "ἀποκόπτω 'cut off' → ตัด (Thai standard verb). σχοινία 'ropes/cords' → เชือก (Thai standard). σκάφη → เรือชูชีพ (continued lock from vv.16, 30). 'ที่ผูก' ('that-tied') makes the relational sense explicit for Thai naturalness."
+        },
+        {
+          "greek": "εἴασαν αὐτὴν ἐκπεσεῖν",
+          "thai": "ปล่อยให้มันลอยหลุดไป",
+          "rationale": "Per uW figs-idiom: ἐκπίπτω here in nautical sense — uW gives two options: (1) 'fall into the water' [boat falls in, lost — meaning the soldiers cut the ropes and let it drop into the water where sailors couldn't reach it]; (2) 'drift away' [boat already in water — soldiers cut to let it drift]. Either way, the sailors lose access to the boat. Thai ลอยหลุดไป ('float-loose-away') accommodates either reading; ปล่อยให้ ('let / allow') captures the εἰάω permissive."
+        }
       ],
       "notes": "Drastic action — the soldiers cut their own escape route too. From this moment, fate is collective: ALL on the ship will live or die together. Paul's faith-statement of v.22 ('no loss of life') is now operationally locked in. The soldiers' action eliminates the alternative-individual-escape option for every person on board."
     }
@@ -582,12 +966,20 @@
     "greek": "Ἄχρι δὲ οὗ ἡμέρα ἤμελλεν γίνεσθαι παρεκάλει ὁ Παῦλος ἅπαντας μεταλαβεῖν τροφῆς λέγων·Τεσσαρεσκαιδεκάτην σήμερον ἡμέραν προσδοκῶντες ἄσιτοι διατελεῖτε,μηθὲν προσλαβόμενοι·",
     "bsb_english": "Right up to daybreak, Paul kept urging them all to eat: “Today is your fourteenth day in constant suspense, without taking any food.",
     "translation": {
-      "thai": "จนกระทั่งใกล้รุ่งสาง เปาโลยังคงเชิญชวนทุกคนให้รับประทานอาหาร โดยกล่าวว่า «วันนี้เป็นวันที่สิบสี่ที่พวกท่านเฝ้ารอด้วยความวิตกกังวล โดยไม่ได้รับประทานสิ่งใดเลย",
+      "thai": "จนกระทั่งใกล้รุ่งสาง เปาโลยังคงเชิญชวนทุกคนให้รับประทานอาหาร โดยกล่าวว่า “วันนี้เป็นวันที่สิบสี่ที่พวกท่านเฝ้ารอด้วยความวิตกกังวล โดยไม่ได้รับประทานสิ่งใดเลย",
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "παρεκάλει ... ἅπαντας μεταλαβεῖν τροφῆς", "thai": "ยังคงเชิญชวนทุกคนให้รับประทานอาหาร", "rationale": "παρακαλέω here in 'urge/encourage' sense (not 'comfort/exhort' theological sense — context is practical encouragement to eat). Imperfect παρεκάλει = continuous-iterative 'kept urging/encouraging.' Thai ยังคงเชิญชวน ('was-still inviting/urging') captures the persistence; เชิญชวน ('invite/encourage') is the practical-relational tone, not the formal παρακάλημα-call." },
-        { "greek": "Τεσσαρεσκαιδεκάτην σήμερον ἡμέραν προσδοκῶντες ἄσιτοι διατελεῖτε,μηθὲν προσλαβόμενοι", "thai": "วันนี้เป็นวันที่สิบสี่ที่พวกท่านเฝ้ารอด้วยความวิตกกังวล โดยไม่ได้รับประทานสิ่งใดเลย", "rationale": "Per uW translate-ordinal: keep ordinal day-14. Per uW figs-doublet: ἄσιτοι ('fasting/foodless') + μηθὲν προσλαβόμενοι ('having taken nothing') = pair for emphasis; uW recommends single-phrase rendering, but Thai accommodates both for emphasis (โดยไม่ได้รับประทานสิ่งใดเลย — 'not having eaten anything at all'). HAPAX ἄσιτος (only NT occurrence; cognate of ἀσιτία v.21) — alpha-privative + σῖτος = 'foodless.' HAPAX διατελέω (only NT occurrence) 'continue/persevere' (διά + τέλος, 'through-to-end') — Thai เฝ้ารอ ('keep-watching-and-waiting'). προσδοκῶντες 'expecting' here = anxious anticipation = ด้วยความวิตกกังวล ('with anxious-worry')." }
+        {
+          "greek": "παρεκάλει ... ἅπαντας μεταλαβεῖν τροφῆς",
+          "thai": "ยังคงเชิญชวนทุกคนให้รับประทานอาหาร",
+          "rationale": "παρακαλέω here in 'urge/encourage' sense (not 'comfort/exhort' theological sense — context is practical encouragement to eat). Imperfect παρεκάλει = continuous-iterative 'kept urging/encouraging.' Thai ยังคงเชิญชวน ('was-still inviting/urging') captures the persistence; เชิญชวน ('invite/encourage') is the practical-relational tone, not the formal παρακάλημα-call."
+        },
+        {
+          "greek": "Τεσσαρεσκαιδεκάτην σήμερον ἡμέραν προσδοκῶντες ἄσιτοι διατελεῖτε,μηθὲν προσλαβόμενοι",
+          "thai": "วันนี้เป็นวันที่สิบสี่ที่พวกท่านเฝ้ารอด้วยความวิตกกังวล โดยไม่ได้รับประทานสิ่งใดเลย",
+          "rationale": "Per uW translate-ordinal: keep ordinal day-14. Per uW figs-doublet: ἄσιτοι ('fasting/foodless') + μηθὲν προσλαβόμενοι ('having taken nothing') = pair for emphasis; uW recommends single-phrase rendering, but Thai accommodates both for emphasis (โดยไม่ได้รับประทานสิ่งใดเลย — 'not having eaten anything at all'). HAPAX ἄσιτος (only NT occurrence; cognate of ἀσιτία v.21) — alpha-privative + σῖτος = 'foodless.' HAPAX διατελέω (only NT occurrence) 'continue/persevere' (διά + τέλος, 'through-to-end') — Thai เฝ้ารอ ('keep-watching-and-waiting'). προσδοκῶντες 'expecting' here = anxious anticipation = ด้วยความวิตกกังวล ('with anxious-worry')."
+        }
       ],
       "notes": "TWO HAPAX in this verse: ἄσιτος (foodless) + διατελέω (persist). Paul takes pastoral leadership — he calculates the food-fast period (probably accurate: storm-onset → ship-stabilizing rituals → cargo-jettison → tackle-jettison → continuous storm = 14 days where eating was deprioritized + likely many were seasick). Now is the eat-and-recover-strength moment before the dawn-beaching. Paul as practical-pastor."
     }
@@ -599,12 +991,20 @@
     "greek": "διὸ παρακαλῶ ὑμᾶς μεταλαβεῖν τροφῆς,τοῦτο γὰρ πρὸς τῆς ὑμετέρας σωτηρίας ὑπάρχει·οὐδενὸς γὰρ ὑμῶν θρὶξ ἀπὸ τῆς κεφαλῆς ἀπολεῖται.",
     "bsb_english": "So for your own preservation, I urge you to eat something, because not a single hair of your head will be lost.",
     "translation": {
-      "thai": "เพราะฉะนั้น ข้าพเจ้าจึงเชิญชวนพวกท่านให้รับประทานอาหารบ้าง เพราะการนี้จะช่วยให้พวกท่านอยู่รอด เนื่องด้วยจะไม่มีผมแม้แต่เส้นเดียวจากศีรษะของพวกท่านที่จะร่วงไป»",
+      "thai": "เพราะฉะนั้น ข้าพเจ้าจึงเชิญชวนพวกท่านให้รับประทานอาหารบ้าง เพราะการนี้จะช่วยให้พวกท่านอยู่รอด เนื่องด้วยจะไม่มีผมแม้แต่เส้นเดียวจากศีรษะของพวกท่านที่จะร่วงไป”",
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "πρὸς τῆς ὑμετέρας σωτηρίας ὑπάρχει", "thai": "จะช่วยให้พวกท่านอยู่รอด", "rationale": "Per uW figs-abstractnouns: σωτηρία 'salvation/preservation' here = SECULAR survival (food → strength → ability-to-swim/beach). Thai ช่วยให้ ... อยู่รอด ('help to survive') gives the meaning concretely. Continues the σῴζω/σωτηρία motif-cluster anchored to physical-survival in this chapter (vv.20, 31, 34, 43, 44)." },
-        { "greek": "οὐδενὸς γὰρ ὑμῶν θρὶξ ἀπὸ τῆς κεφαλῆς ἀπολεῖται", "thai": "จะไม่มีผมแม้แต่เส้นเดียวจากศีรษะของพวกท่านที่จะร่วงไป", "rationale": "Per uW figs-synecdoche: 'a hair from your head' = the smallest part = entire person uninjured. uW alternative: 'each of you will survive without suffering harm.' I PRESERVE the literal idiom because it is a direct echo of LUK 21:18 (Jesus's promise to disciples in persecution: 'not a hair of your head will perish') and 1 Sam 14:45 (Saul's oath about Jonathan). Thai accommodates the idiom naturally; ผมแม้แต่เส้นเดียว ('not even a single hair') preserves the synecdoche-of-smallest-part. The intertextual resonance is part of Luke's theological framing — Paul speaks the very promise of Jesus (LUK 21:18) over a multi-ethnic shipload, fulfilling the Christ's-protection-extends-through-the-apostle theme." }
+        {
+          "greek": "πρὸς τῆς ὑμετέρας σωτηρίας ὑπάρχει",
+          "thai": "จะช่วยให้พวกท่านอยู่รอด",
+          "rationale": "Per uW figs-abstractnouns: σωτηρία 'salvation/preservation' here = SECULAR survival (food → strength → ability-to-swim/beach). Thai ช่วยให้ ... อยู่รอด ('help to survive') gives the meaning concretely. Continues the σῴζω/σωτηρία motif-cluster anchored to physical-survival in this chapter (vv.20, 31, 34, 43, 44)."
+        },
+        {
+          "greek": "οὐδενὸς γὰρ ὑμῶν θρὶξ ἀπὸ τῆς κεφαλῆς ἀπολεῖται",
+          "thai": "จะไม่มีผมแม้แต่เส้นเดียวจากศีรษะของพวกท่านที่จะร่วงไป",
+          "rationale": "Per uW figs-synecdoche: 'a hair from your head' = the smallest part = entire person uninjured. uW alternative: 'each of you will survive without suffering harm.' I PRESERVE the literal idiom because it is a direct echo of LUK 21:18 (Jesus's promise to disciples in persecution: 'not a hair of your head will perish') and 1 Sam 14:45 (Saul's oath about Jonathan). Thai accommodates the idiom naturally; ผมแม้แต่เส้นเดียว ('not even a single hair') preserves the synecdoche-of-smallest-part. The intertextual resonance is part of Luke's theological framing — Paul speaks the very promise of Jesus (LUK 21:18) over a multi-ethnic shipload, fulfilling the Christ's-protection-extends-through-the-apostle theme."
+        }
       ],
       "notes": "The intertextual hair-of-the-head idiom links four texts: 1 Sam 14:45 (Saul-Jonathan) → 2 Sam 14:11 (David-Tekoa-woman) → LUK 21:18 (Jesus-disciples-promise) → ACT 27:34 (Paul-shipboard). Paul deliberately deploys the Jesus-saying (LUK 21:18 in his own voice) over a non-Christian audience, applying Christ's protection-promise to all on the boat through Paul's own faith-mediation. σωτηρία here oscillates between physical (food → strength → survival) and something theologically-loaded (the sentence echoes Jesus's promise that goes well beyond food)."
     }
@@ -620,9 +1020,21 @@
       "thai_literal": null,
       "thai_summary": "การที่เปาโลหยิบขนมปัง ขอบพระคุณ หัก และรับประทาน เลียนแบบสำนวนการเลี้ยงพระเยซูครั้งสุดท้ายอย่างชัดเจน (ลก. 22:19; 24:30 การหักขนมปังที่เอมมาอูส; กจ. 2:42, 46 พิธีหักขนมปังของคริสตจักรยุคแรก) แต่เนื่องจากบนเรือมีทั้งคริสเตียน ยิว ทาส ทหารโรมันที่ส่วนใหญ่นับถือพหุเทวนิยม นี่จึงไม่ใช่การฉลองศีลมหาสนิท (ตามคำเตือนของบันทึก unfoldingWord ที่ลูกาตั้งใจไม่ให้สับสน) — แต่เป็นการขอบพระคุณตามแบบยิว-คริสเตียนสำหรับอาหารธรรมดา (เทียบ ลก. 9:16 พระเยซูทรงขอบพระคุณก่อนเลี้ยงคน 5,000 คน) อย่างไรก็ตาม การที่ลูกาเลือกใช้สำนวนเดียวกันโดยไม่บังเอิญ — เป็นภาพสะท้อนทางวรรณกรรมของพระคริสต์ที่ผ่านอัครทูต ความรอดที่พระเจ้าทรงประทานผ่านขนมปัง-การขอบพระคุณ-การหัก ในวิกฤติแห่งความตาย",
       "key_decisions": [
-        { "greek": "λαβὼν ἄρτον εὐχαρίστησεν τῷ θεῷ", "thai": "หยิบขนมปังขึ้น ขอบพระคุณพระเจ้า", "rationale": "Per uW chapter-intro warning: this echoes the Last Supper formula (LUK 22:19) but is NOT a Eucharistic celebration — most on the ship are non-Christian. εὐχαριστέω 'give thanks' → ขอบพระคุณ (canonical Thai Christian rendering). Continues established Lukan-Acts pattern (LUK 9:16, 22:19, 24:30; ACT 2:42, 46) where the give-thanks-and-break-bread sequence frames meals — both ordinary and Eucharistic." },
-        { "greek": "ἐνώπιον πάντων", "thai": "ต่อหน้าทุกคน", "rationale": "Public visibility-of-thanksgiving. Paul models pious-eating before a non-Christian shipload — the act of public thanksgiving makes a witness without proselytizing-words." },
-        { "greek": "κλάσας ἤρξατο ἐσθίειν", "thai": "หักและเริ่มรับประทาน", "rationale": "κλάω 'break' (the canonical bread-breaking verb of LUK 24:30, ACT 2:42, 46, 20:7, 11) → หัก (the canonical Thai verb). ἤρξατο 'began' = เริ่ม. The literal action sequence preserved: break-then-eat (echoing the four-fold Eucharistic-formula 'took-thanked-broke-ate')." }
+        {
+          "greek": "λαβὼν ἄρτον εὐχαρίστησεν τῷ θεῷ",
+          "thai": "หยิบขนมปังขึ้น ขอบพระคุณพระเจ้า",
+          "rationale": "Per uW chapter-intro warning: this echoes the Last Supper formula (LUK 22:19) but is NOT a Eucharistic celebration — most on the ship are non-Christian. εὐχαριστέω 'give thanks' → ขอบพระคุณ (canonical Thai Christian rendering). Continues established Lukan-Acts pattern (LUK 9:16, 22:19, 24:30; ACT 2:42, 46) where the give-thanks-and-break-bread sequence frames meals — both ordinary and Eucharistic."
+        },
+        {
+          "greek": "ἐνώπιον πάντων",
+          "thai": "ต่อหน้าทุกคน",
+          "rationale": "Public visibility-of-thanksgiving. Paul models pious-eating before a non-Christian shipload — the act of public thanksgiving makes a witness without proselytizing-words."
+        },
+        {
+          "greek": "κλάσας ἤρξατο ἐσθίειν",
+          "thai": "หักและเริ่มรับประทาน",
+          "rationale": "κλάω 'break' (the canonical bread-breaking verb of LUK 24:30, ACT 2:42, 46, 20:7, 11) → หัก (the canonical Thai verb). ἤρξατο 'began' = เริ่ม. The literal action sequence preserved: break-then-eat (echoing the four-fold Eucharistic-formula 'took-thanked-broke-ate')."
+        }
       ],
       "notes": "The four-fold formula (took-bread + gave-thanks + broke + ate) is the canonical Lukan Eucharistic-shape. uW chapter-intro warns against rendering this as a religious-celebration scene; we follow that warning in the main translation but preserve the literary echo because Luke deliberately deploys the formula. Paul as priestly-figure shipboard — the apostolic Christ-image extending pastoral care beyond the believing community."
     }
@@ -638,8 +1050,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "εὔθυμοι ... γενόμενοι πάντες", "thai": "ทุกคนต่างมีกำลังใจขึ้น", "rationale": "HAPAX εὔθυμος (only NT occurrence; cognate verb εὐθυμέω at vv.22, 25) — adjective 'of-good-cheer / encouraged.' Per uW figs-activepassive: passive in English ('were encouraged') is actually adjective-form in Greek; uW recommends rendering active. Thai มีกำลังใจขึ้น ('have-courage-rising') is the natural Thai active equivalent of the adjective-state. Closes the εὐθυμ-cluster of vv.22, 25 (Paul commanded courage; now they have it)." },
-        { "greek": "καὶ αὐτοὶ προσελάβοντο τροφῆς", "thai": "พากันรับประทานอาหารด้วย", "rationale": "καί ... αὐτοί 'they themselves also' — emphatic following-Paul's-example. Thai พากัน ('go-together') captures the collective-following; ด้วย ('also') captures the και-emphatic." }
+        {
+          "greek": "εὔθυμοι ... γενόμενοι πάντες",
+          "thai": "ทุกคนต่างมีกำลังใจขึ้น",
+          "rationale": "HAPAX εὔθυμος (only NT occurrence; cognate verb εὐθυμέω at vv.22, 25) — adjective 'of-good-cheer / encouraged.' Per uW figs-activepassive: passive in English ('were encouraged') is actually adjective-form in Greek; uW recommends rendering active. Thai มีกำลังใจขึ้น ('have-courage-rising') is the natural Thai active equivalent of the adjective-state. Closes the εὐθυμ-cluster of vv.22, 25 (Paul commanded courage; now they have it)."
+        },
+        {
+          "greek": "καὶ αὐτοὶ προσελάβοντο τροφῆς",
+          "thai": "พากันรับประทานอาหารด้วย",
+          "rationale": "καί ... αὐτοί 'they themselves also' — emphatic following-Paul's-example. Thai พากัน ('go-together') captures the collective-following; ด้วย ('also') captures the και-emphatic."
+        }
       ],
       "notes": "HAPAX εὔθυμος. Paul's example transforms the shipboard mood. The εὐθυμ-vocabulary cluster (vv.22 εὐθυμεῖν infinitive; v.25 εὐθυμεῖτε imperative; v.36 εὔθυμοι adjective) traces an arc: Paul orders courage → restates promise → exemplifies it → all become courageous. Pastoral leadership at its most concrete."
     }
@@ -655,8 +1075,16 @@
       "thai_literal": null,
       "thai_summary": "ตัวเลข 276 คน เป็นข้อมูลที่นักประวัติศาสตร์ใช้ยืนยันความถูกต้องของบันทึกของลูกา — ขนาดของเรือธัญพืชแอเล็กซานเดรียในศตวรรษที่ 1 (จากบันทึกของยอเซฟัส, Vita 15 และ Lucian, Navigium 5) ได้บรรจุผู้โดยสารและลูกเรือได้ราว 600 คน ตัวเลข 276 จึงสมเหตุสมผลโดยสมบูรณ์ ลูกาบันทึกข้อมูลพื้นหลังนี้ในรูปประโยคพื้นฐาน (writing-background) เพื่อให้ผู้อ่านเข้าใจขอบเขตของเหตุการณ์ — 276 ชีวิตทั้งหมดที่จะรอดมาตามคำสัญญาของพระเจ้าแก่เปาโล (ข้อ 24)",
       "key_decisions": [
-        { "greek": "αἱ πᾶσαι ψυχαὶ", "thai": "พวกเรารวมกันทั้งหมด ... คน", "rationale": "Per uW figs-synecdoche: ψυχή (souls) here = 'people' (the whole person represented by the soul-as-life-principle). uW recommends Thai 'the people'/'persons.' Distinct from vv.10, 22 where ψυχῶν = 'lives' (loseable physical life) → ชีวิต. Here in v.37 ψυχαί is enumerative-nominal ('276 souls' = '276 persons'), so Thai คน ('persons') is the more natural rendering — and uW explicitly recommends this for the synecdoche-resolution. Matches glossary: ψυχή → ชีวิต as primary, but documented contextual variant for synecdochic-counting use." },
-        { "greek": "διακόσιαι ἑβδομήκοντα ἕξ", "thai": "สองร้อยเจ็ดสิบหก", "rationale": "Per uW translate-numbers: literal numeral preserved. Thai สองร้อยเจ็ดสิบหก (200+70+6) is the natural compound numeral." }
+        {
+          "greek": "αἱ πᾶσαι ψυχαὶ",
+          "thai": "พวกเรารวมกันทั้งหมด ... คน",
+          "rationale": "Per uW figs-synecdoche: ψυχή (souls) here = 'people' (the whole person represented by the soul-as-life-principle). uW recommends Thai 'the people'/'persons.' Distinct from vv.10, 22 where ψυχῶν = 'lives' (loseable physical life) → ชีวิต. Here in v.37 ψυχαί is enumerative-nominal ('276 souls' = '276 persons'), so Thai คน ('persons') is the more natural rendering — and uW explicitly recommends this for the synecdoche-resolution. Matches glossary: ψυχή → ชีวิต as primary, but documented contextual variant for synecdochic-counting use."
+        },
+        {
+          "greek": "διακόσιαι ἑβδομήκοντα ἕξ",
+          "thai": "สองร้อยเจ็ดสิบหก",
+          "rationale": "Per uW translate-numbers: literal numeral preserved. Thai สองร้อยเจ็ดสิบหก (200+70+6) is the natural compound numeral."
+        }
       ],
       "notes": "Per uW writing-background: this is parenthetical background information about the scale of the rescue. The 276 figure is preserved by the major manuscripts (some Western witnesses give 76 or 270, but SBLGNT/NA28 read 276 with ℵ A B C P 33 81 614 1739). The number-of-souls precision is Lukan-historiographic style (cf. ACT 1:15 'about 120'; 2:41 'about 3,000'; 4:4 'about 5,000')."
     }
@@ -672,8 +1100,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "κορεσθέντες ... τροφῆς", "thai": "พวกเขาอิ่มจากอาหาร", "rationale": "Per uW figs-activepassive: passive 'having been satiated [with food]' = Thai active อิ่ม ('be full/satiated'). κορέννυμι 'satiate, fill.' Continues the eating-restoration narrative." },
-        { "greek": "ἐκούφιζον τὸ πλοῖον ἐκβαλλόμενοι τὸν σῖτον", "thai": "ทำให้เรือเบาขึ้นโดยทิ้งข้าวสาลี", "rationale": "HAPAX κουφίζω (only NT occurrence) 'lighten/make light.' Imperfect ἐκούφιζον = 'began to lighten / were lightening.' σῖτος here = 'grain/wheat' (specifically — this is an Egyptian grain ship; cf. v.6). Thai ข้าวสาลี ('wheat') is the standard grain for this Mediterranean context. Earlier (v.18) the cargo-jettison used the generic ἐκβολή noun ('jettisoning'); here the specific grain-throwing is named — perhaps because (a) earlier-jettisoned cargo was OTHER cargo and the grain was preserved as fuel; or (b) earlier verses describe the ineffectual jettison, while this final pre-beaching grain-jettison is the maximal hull-lift-for-shallow-grounding action." }
+        {
+          "greek": "κορεσθέντες ... τροφῆς",
+          "thai": "พวกเขาอิ่มจากอาหาร",
+          "rationale": "Per uW figs-activepassive: passive 'having been satiated [with food]' = Thai active อิ่ม ('be full/satiated'). κορέννυμι 'satiate, fill.' Continues the eating-restoration narrative."
+        },
+        {
+          "greek": "ἐκούφιζον τὸ πλοῖον ἐκβαλλόμενοι τὸν σῖτον",
+          "thai": "ทำให้เรือเบาขึ้นโดยทิ้งข้าวสาลี",
+          "rationale": "HAPAX κουφίζω (only NT occurrence) 'lighten/make light.' Imperfect ἐκούφιζον = 'began to lighten / were lightening.' σῖτος here = 'grain/wheat' (specifically — this is an Egyptian grain ship; cf. v.6). Thai ข้าวสาลี ('wheat') is the standard grain for this Mediterranean context. Earlier (v.18) the cargo-jettison used the generic ἐκβολή noun ('jettisoning'); here the specific grain-throwing is named — perhaps because (a) earlier-jettisoned cargo was OTHER cargo and the grain was preserved as fuel; or (b) earlier verses describe the ineffectual jettison, while this final pre-beaching grain-jettison is the maximal hull-lift-for-shallow-grounding action."
+        }
       ],
       "notes": "HAPAX κουφίζω 'lighten.' Pre-beaching maneuver: lightening the ship raises it in the water, allowing it to ground in shallower water (ideally on sand) before reaching dangerous shore-rocks. The jettisoned grain represents the imperial-supply-loss — Rome's annonae fleet has lost its cargo; the Empire's bread-supply takes a small hit. Lukan ironies: (a) Paul-the-prisoner saves the ship by his prayers + practical-counsel; (b) the Empire's grain is sacrificed to save the Empire's prisoners."
     }
@@ -689,9 +1125,21 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "τὴν γῆν οὐκ ἐπεγίνωσκον", "thai": "พวกกะลาสีจำแผ่นดินไม่ได้", "rationale": "Per uW writing-pronouns: implicit subject = sailors (per ναῦται of v.27 + αὐτοί of vv.30-32). Thai พวกกะลาสี ('the sailors') makes the subject explicit per uW. ἐπιγινώσκω 'recognize' — the imperfect ἐπεγίνωσκον = 'were-recognizing' as iterative-conative ('they did not recognize / could not place'). Thai จำ ... ไม่ได้ ('cannot recognize') is the natural Thai." },
-        { "greek": "κόλπον ... ἔχοντα αἰγιαλὸν", "thai": "อ่าวหนึ่งซึ่งมีหาดทราย", "rationale": "Per uW translate-unknown on κόλπος: 'bay/inlet/cove' — Thai อ่าว (canonical maritime term). αἰγιαλός 'beach/shore' — Thai หาดทราย ('sand beach') is the specific-sandy-shore sense the participle ἔχοντα + the running-aground purpose imply (sand allows beaching; rock would tear the hull). The bay turns out to be St Paul's Bay on the NE coast of Malta (28:1 identifies the island)." },
-        { "greek": "ἐβουλεύοντο εἰ δύναιντο ἐξῶσαι τὸ πλοῖον", "thai": "ตกลงกันว่าหากเป็นไปได้ จะนำเรือเข้าเกยฝั่งที่นั่น", "rationale": "βουλεύομαι 'plan/take counsel' = ตกลงกัน ('agree-together / decide collectively'). ἐξωθέω 'thrust out / drive ashore' = นำเรือเข้าเกยฝั่ง ('bring the ship in to ground/strand'). The conditional εἰ δύναιντο 'if they were able' = หากเป็นไปได้ (Thai conditional)." }
+        {
+          "greek": "τὴν γῆν οὐκ ἐπεγίνωσκον",
+          "thai": "พวกกะลาสีจำแผ่นดินไม่ได้",
+          "rationale": "Per uW writing-pronouns: implicit subject = sailors (per ναῦται of v.27 + αὐτοί of vv.30-32). Thai พวกกะลาสี ('the sailors') makes the subject explicit per uW. ἐπιγινώσκω 'recognize' — the imperfect ἐπεγίνωσκον = 'were-recognizing' as iterative-conative ('they did not recognize / could not place'). Thai จำ ... ไม่ได้ ('cannot recognize') is the natural Thai."
+        },
+        {
+          "greek": "κόλπον ... ἔχοντα αἰγιαλὸν",
+          "thai": "อ่าวหนึ่งซึ่งมีหาดทราย",
+          "rationale": "Per uW translate-unknown on κόλπος: 'bay/inlet/cove' — Thai อ่าว (canonical maritime term). αἰγιαλός 'beach/shore' — Thai หาดทราย ('sand beach') is the specific-sandy-shore sense the participle ἔχοντα + the running-aground purpose imply (sand allows beaching; rock would tear the hull). The bay turns out to be St Paul's Bay on the NE coast of Malta (28:1 identifies the island)."
+        },
+        {
+          "greek": "ἐβουλεύοντο εἰ δύναιντο ἐξῶσαι τὸ πλοῖον",
+          "thai": "ตกลงกันว่าหากเป็นไปได้ จะนำเรือเข้าเกยฝั่งที่นั่น",
+          "rationale": "βουλεύομαι 'plan/take counsel' = ตกลงกัน ('agree-together / decide collectively'). ἐξωθέω 'thrust out / drive ashore' = นำเรือเข้าเกยฝั่ง ('bring the ship in to ground/strand'). The conditional εἰ δύναιντο 'if they were able' = หากเป็นไปได้ (Thai conditional)."
+        }
       ],
       "notes": "First daylight after 14 storm-days. The sailors are professional Mediterranean mariners; if they don't recognize the coastline, the storm has driven the ship considerably off any commonly-traveled route. Modern identification: St Paul's Bay on Malta — the bay opens N-E and has a sand-beach southwestern arm, matching the description."
     }
@@ -707,10 +1155,26 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "τὰς ἀγκύρας περιελόντες εἴων εἰς τὴν θάλασσαν", "thai": "ถอนสมอทิ้งไว้ในทะเล", "rationale": "περιαιρέω 'remove from around / cut away' (here cutting the cables holding the four stern anchors of v.29). 'Cutting' rather than 'weighing' the anchors is the implicit nautical decision — they sacrifice the anchors to gain a quick start toward the beach. Thai ถอน ... ทิ้งไว้ ('pull-and-leave-behind') captures the abandonment. The 'leaving' ηίαω is the cut-and-let-fall action." },
-        { "greek": "ἀνέντες τὰς ζευκτηρίας τῶν πηδαλίων", "thai": "คลายเชือกที่ผูกหางเสือ", "rationale": "TWO HAPAX: ζευκτηρία (only NT occurrence) 'binding/lashing/yoking-rope' + πηδάλιον (rare, also Jas 3:4) 'rudder.' Per uW figs-idiom: πηδάλια 'rudders' (note plural — ancient ships had paired side-mounted steering oars at the stern, not a single central rudder); ζευκτηρίαι 'lashings/cables' that secured the rudders raised-out-of-water during anchorage (so the anchors could hold, not the rudders). Thai หางเสือ (canonical maritime term for rudder); คลายเชือกที่ผูก ('loosen the ropes that bind') describes the action of un-lashing for active-steering use during the beach-run." },
-        { "greek": "ἐπάραντες τὸν ἀρτέμωνα", "thai": "ชักใบเรือหัวขึ้น", "rationale": "HAPAX ἀρτέμων (only NT occurrence) 'foresail / bow-mounted sail' (some interpret as 'topsail'; uW gives 'topsail' as primary). Per uW translate-unknown: Thai ใบเรือหัว ('bow-sail / front-sail') is more nautically accurate for ancient Mediterranean rigging — the ἀρτέμων was the small bow-section sail used for steerage when the mainsail was struck. Modern English Bibles split: ESV/NIV 'foresail'; KJV/NASB 'mainsail'; CSB 'foresail.' I follow the foresail-of-bow reading (Greek ἀρτέμων is etymologically uncertain; the foresail interpretation matches 1st-century rigging archaeology better than topsail)." },
-        { "greek": "τῇ πνεούσῃ κατεῖχον εἰς τὸν αἰγιαλόν", "thai": "รับลมที่กำลังพัด มุ่งตรงไปยังหาดทราย", "rationale": "Per uW figs-idiom: κατέχω in nautical context = 'head/steer-toward.' πνεούσῃ articular present participle 'the [wind] now blowing.' Thai รับลม ('catch the wind') + มุ่งตรงไปยัง ('head straight toward') captures both the wind-catching and the directional-action." }
+        {
+          "greek": "τὰς ἀγκύρας περιελόντες εἴων εἰς τὴν θάλασσαν",
+          "thai": "ถอนสมอทิ้งไว้ในทะเล",
+          "rationale": "περιαιρέω 'remove from around / cut away' (here cutting the cables holding the four stern anchors of v.29). 'Cutting' rather than 'weighing' the anchors is the implicit nautical decision — they sacrifice the anchors to gain a quick start toward the beach. Thai ถอน ... ทิ้งไว้ ('pull-and-leave-behind') captures the abandonment. The 'leaving' ηίαω is the cut-and-let-fall action."
+        },
+        {
+          "greek": "ἀνέντες τὰς ζευκτηρίας τῶν πηδαλίων",
+          "thai": "คลายเชือกที่ผูกหางเสือ",
+          "rationale": "TWO HAPAX: ζευκτηρία (only NT occurrence) 'binding/lashing/yoking-rope' + πηδάλιον (rare, also Jas 3:4) 'rudder.' Per uW figs-idiom: πηδάλια 'rudders' (note plural — ancient ships had paired side-mounted steering oars at the stern, not a single central rudder); ζευκτηρίαι 'lashings/cables' that secured the rudders raised-out-of-water during anchorage (so the anchors could hold, not the rudders). Thai หางเสือ (canonical maritime term for rudder); คลายเชือกที่ผูก ('loosen the ropes that bind') describes the action of un-lashing for active-steering use during the beach-run."
+        },
+        {
+          "greek": "ἐπάραντες τὸν ἀρτέμωνα",
+          "thai": "ชักใบเรือหัวขึ้น",
+          "rationale": "HAPAX ἀρτέμων (only NT occurrence) 'foresail / bow-mounted sail' (some interpret as 'topsail'; uW gives 'topsail' as primary). Per uW translate-unknown: Thai ใบเรือหัว ('bow-sail / front-sail') is more nautically accurate for ancient Mediterranean rigging — the ἀρτέμων was the small bow-section sail used for steerage when the mainsail was struck. Modern English Bibles split: ESV/NIV 'foresail'; KJV/NASB 'mainsail'; CSB 'foresail.' I follow the foresail-of-bow reading (Greek ἀρτέμων is etymologically uncertain; the foresail interpretation matches 1st-century rigging archaeology better than topsail)."
+        },
+        {
+          "greek": "τῇ πνεούσῃ κατεῖχον εἰς τὸν αἰγιαλόν",
+          "thai": "รับลมที่กำลังพัด มุ่งตรงไปยังหาดทราย",
+          "rationale": "Per uW figs-idiom: κατέχω in nautical context = 'head/steer-toward.' πνεούσῃ articular present participle 'the [wind] now blowing.' Thai รับลม ('catch the wind') + มุ่งตรงไปยัง ('head straight toward') captures both the wind-catching and the directional-action."
+        }
       ],
       "notes": "TWO HAPAX in this verse: ζευκτηρία (rudder-lashings) + ἀρτέμων (foresail). Highly technical sailor's-terminology — Luke is reporting what the sailors did, in their own technical vocabulary. The five-action sequence in this verse (cut anchors / un-lash rudders / hoist foresail / catch wind / head-for-beach) is a precise reconstruction of the run-aground maneuver."
     }
@@ -724,12 +1188,28 @@
     "translation": {
       "thai": "แต่เรือกระแทกเข้ากับสันดอนที่อยู่ระหว่างกระแสน้ำสองสาย จึงเกยตื้นอยู่ที่นั่น หัวเรือฝังแน่นอยู่กับที่ ส่วนท้ายเรือถูกคลื่นทำให้แตกออกเป็นเสี่ยงๆ",
       "thai_literal": null,
-      "thai_summary": "«ที่ระหว่างกระแสน้ำสองสาย» (τόπον διθάλασσον) เป็นศัพท์เทคนิคทางการเดินเรือ หมายถึงสันดอนทรายที่ก่อตัวขึ้นเมื่อกระแสน้ำสองสายมาบรรจบกัน ทำให้ทรายใต้น้ำสะสมตัวเป็นแนวคล้ายเขื่อน บนเกาะมอลตา จุดที่ระบุได้คือสันดอนระหว่างเกาะมอลตากับเกาะ Salmunetta ในอ่าว St Paul's Bay — ตำแหน่งที่นักโบราณคดีระบุได้ตรงกับการบรรยายของลูกาทุกประการ การที่หัวเรือฝังแน่น (ในทรายของสันดอน) ขณะที่ท้ายเรือถูกคลื่นเปิด (ในน้ำลึกหลังสันดอน) เป็นปรากฏการณ์ที่เกิดขึ้นเฉพาะกับเรือที่กระแทกสันดอนแบบนี้ — ความถูกต้องทางภูมิศาสตร์เป็นพยานว่าผู้เขียนบันทึกอยู่ในเหตุการณ์จริง",
+      "thai_summary": "“ที่ระหว่างกระแสน้ำสองสาย” (τόπον διθάλασσον) เป็นศัพท์เทคนิคทางการเดินเรือ หมายถึงสันดอนทรายที่ก่อตัวขึ้นเมื่อกระแสน้ำสองสายมาบรรจบกัน ทำให้ทรายใต้น้ำสะสมตัวเป็นแนวคล้ายเขื่อน บนเกาะมอลตา จุดที่ระบุได้คือสันดอนระหว่างเกาะมอลตากับเกาะ Salmunetta ในอ่าว St Paul‘s Bay — ตำแหน่งที่นักโบราณคดีระบุได้ตรงกับการบรรยายของลูกาทุกประการ การที่หัวเรือฝังแน่น (ในทรายของสันดอน) ขณะที่ท้ายเรือถูกคลื่นเปิด (ในน้ำลึกหลังสันดอน) เป็นปรากฏการณ์ที่เกิดขึ้นเฉพาะกับเรือที่กระแทกสันดอนแบบนี้ — ความถูกต้องทางภูมิศาสตร์เป็นพยานว่าผู้เขียนบันทึกอยู่ในเหตุการณ์จริง",
       "key_decisions": [
-        { "greek": "περιπεσόντες ... εἰς τόπον διθάλασσον", "thai": "เรือกระแทกเข้ากับสันดอนที่อยู่ระหว่างกระแสน้ำสองสาย", "rationale": "Per uW figs-idiom: περιπίπτω here in nautical 'fall-into / strike upon' sense; HAPAX διθάλασσος (only NT occurrence; the lemma; etymologically 'two-seas') — Per uW figs-idiom: 'a place between two seas' = a sandbar where two currents meet, building up underwater sand. Thai สันดอนที่อยู่ระหว่างกระแสน้ำสองสาย ('a sandbar that is between two water-currents') gives the precise geological-nautical meaning. The thai_summary explains the Maltese geography." },
-        { "greek": "ἐπέκειλαν τὴν ναῦν", "thai": "เกยตื้นอยู่ที่นั่น", "rationale": "TWO HAPAX: ἐπικέλλω (only NT occurrence) 'run-aground' + ναῦς (only NT occurrence; only here in NT! — the standard Greek word for 'ship' is replaced everywhere else by πλοῖον). The ναῦς-here-only is striking — perhaps Lukan stylistic variation, perhaps a technical maritime register signaling the vessel-as-vessel-stranded. Thai เกยตื้น ('go-aground') matches ἐπικέλλω. The ναῦς-vs-πλοῖον distinction does not survive translation; both = เรือ in Thai." },
-        { "greek": "ἡ μὲν πρῷρα ἐρείσασα ἔμεινεν ἀσάλευτος", "thai": "หัวเรือฝังแน่นอยู่กับที่", "rationale": "HAPAX ἐρείδω (only NT occurrence) 'stick fast / press firmly.' πρῷρα 'bow' (continued from v.30) → หัวเรือ. ἀσάλευτος 'unmoved/immovable.' Thai ฝังแน่นอยู่กับที่ ('embedded-fast in place') captures both the stuck-in-sand sense and the immovability. μέν ... δέ contrast with v.41b." },
-        { "greek": "ἡ δὲ πρύμνα ἐλύετο ὑπὸ τῆς βίας", "thai": "ส่วนท้ายเรือถูกคลื่นทำให้แตกออกเป็นเสี่ยงๆ", "rationale": "Per uW figs-activepassive + figs-explicit + figs-abstractnouns: passive 'was being broken-up by the violence [of the waves].' βία 'violence' here = wave-violence per uW figs-explicit. Thai ถูกคลื่นทำให้แตกออกเป็นเสี่ยงๆ ('was-by-the-waves caused-to-break-into-pieces') gives explicit subject (คลื่น = waves), abstract noun resolved (the violence = the action of waves), and the breaking-up consequence. πρύμνα 'stern' (continued from v.29) → ท้ายเรือ." }
+        {
+          "greek": "περιπεσόντες ... εἰς τόπον διθάλασσον",
+          "thai": "เรือกระแทกเข้ากับสันดอนที่อยู่ระหว่างกระแสน้ำสองสาย",
+          "rationale": "Per uW figs-idiom: περιπίπτω here in nautical 'fall-into / strike upon' sense; HAPAX διθάλασσος (only NT occurrence; the lemma; etymologically 'two-seas') — Per uW figs-idiom: 'a place between two seas' = a sandbar where two currents meet, building up underwater sand. Thai สันดอนที่อยู่ระหว่างกระแสน้ำสองสาย ('a sandbar that is between two water-currents') gives the precise geological-nautical meaning. The thai_summary explains the Maltese geography."
+        },
+        {
+          "greek": "ἐπέκειλαν τὴν ναῦν",
+          "thai": "เกยตื้นอยู่ที่นั่น",
+          "rationale": "TWO HAPAX: ἐπικέλλω (only NT occurrence) 'run-aground' + ναῦς (only NT occurrence; only here in NT! — the standard Greek word for 'ship' is replaced everywhere else by πλοῖον). The ναῦς-here-only is striking — perhaps Lukan stylistic variation, perhaps a technical maritime register signaling the vessel-as-vessel-stranded. Thai เกยตื้น ('go-aground') matches ἐπικέλλω. The ναῦς-vs-πλοῖον distinction does not survive translation; both = เรือ in Thai."
+        },
+        {
+          "greek": "ἡ μὲν πρῷρα ἐρείσασα ἔμεινεν ἀσάλευτος",
+          "thai": "หัวเรือฝังแน่นอยู่กับที่",
+          "rationale": "HAPAX ἐρείδω (only NT occurrence) 'stick fast / press firmly.' πρῷρα 'bow' (continued from v.30) → หัวเรือ. ἀσάλευτος 'unmoved/immovable.' Thai ฝังแน่นอยู่กับที่ ('embedded-fast in place') captures both the stuck-in-sand sense and the immovability. μέν ... δέ contrast with v.41b."
+        },
+        {
+          "greek": "ἡ δὲ πρύμνα ἐλύετο ὑπὸ τῆς βίας",
+          "thai": "ส่วนท้ายเรือถูกคลื่นทำให้แตกออกเป็นเสี่ยงๆ",
+          "rationale": "Per uW figs-activepassive + figs-explicit + figs-abstractnouns: passive 'was being broken-up by the violence [of the waves].' βία 'violence' here = wave-violence per uW figs-explicit. Thai ถูกคลื่นทำให้แตกออกเป็นเสี่ยงๆ ('was-by-the-waves caused-to-break-into-pieces') gives explicit subject (คลื่น = waves), abstract noun resolved (the violence = the action of waves), and the breaking-up consequence. πρύμνα 'stern' (continued from v.29) → ท้ายเรือ."
+        }
       ],
       "notes": "FOUR HAPAX in this verse: διθάλασσος (between-two-seas) + ἐπικέλλω (run aground) + ναῦς (ship-vessel) + ἐρείδω (stick-fast). The technical-nautical density of Luke's vocabulary peaks here at the moment of grounding. The bow-stuck/stern-breaking dynamic is standard sandbar-grounding physics: the bow grounds first, then waves pound the stern free of the hull. Survival now depends on rapid abandonment of the breaking-apart vessel."
     }
@@ -745,8 +1225,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "τῶν δὲ στρατιωτῶν βουλὴ ἐγένετο", "thai": "เหล่าทหารคิด", "rationale": "βουλή 'plan/counsel/intention' + ἐγένετο 'arose/came-about' = 'a plan arose among the soldiers' = Thai 'เหล่าทหารคิด' ('the soldiers planned'). The Roman-military-law context: soldiers were liable to receive the prisoner's sentence if a prisoner escaped — hence the kill-rather-than-risk-escape calculation." },
-        { "greek": "ἐκκολυμβήσας διαφύγῃ", "thai": "ว่ายน้ำหนีไปได้", "rationale": "TWO HAPAX: ἐκκολυμβάω (only NT occurrence) 'swim out/swim-away' + διαφεύγω (only NT occurrence) 'escape thoroughly.' Both rendered with the natural Thai compound ว่ายน้ำหนีไป ('swim-flee-away') — Thai accommodates the compound action without preserving the Greek prefix-pair." }
+        {
+          "greek": "τῶν δὲ στρατιωτῶν βουλὴ ἐγένετο",
+          "thai": "เหล่าทหารคิด",
+          "rationale": "βουλή 'plan/counsel/intention' + ἐγένετο 'arose/came-about' = 'a plan arose among the soldiers' = Thai 'เหล่าทหารคิด' ('the soldiers planned'). The Roman-military-law context: soldiers were liable to receive the prisoner's sentence if a prisoner escaped — hence the kill-rather-than-risk-escape calculation."
+        },
+        {
+          "greek": "ἐκκολυμβήσας διαφύγῃ",
+          "thai": "ว่ายน้ำหนีไปได้",
+          "rationale": "TWO HAPAX: ἐκκολυμβάω (only NT occurrence) 'swim out/swim-away' + διαφεύγω (only NT occurrence) 'escape thoroughly.' Both rendered with the natural Thai compound ว่ายน้ำหนีไป ('swim-flee-away') — Thai accommodates the compound action without preserving the Greek prefix-pair."
+        }
       ],
       "notes": "TWO HAPAX in this verse: ἐκκολυμβάω + διαφεύγω (both swim/escape verbs). Roman military-law context: under Justinian's Digest later codified what was already practice — a guard who lost a prisoner could be subject to the prisoner's penalty (cf. ACT 12:19 Herod executes Peter's escaped-from guards; ACT 16:27 Philippian jailer about to suicide-after-perceived-escape). The soldiers' kill-the-prisoners plan is grim self-preservation, not malice. Their intervention by the centurion in v.43 is the moral-narrative climax, fulfilling the angelic promise of v.24 and Paul's intercession."
     }
@@ -762,8 +1250,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "βουλόμενος διασῶσαι τὸν Παῦλον", "thai": "อยากจะรักษาชีวิตเปาโลไว้", "rationale": "διασῴζω 'save through / bring safely through' (compound διά + σῴζω) — the same verb that closes the chapter at v.44 (ἐγένετο πάντας διασωθῆναι). Thai รักษาชีวิต ... ไว้ ('preserve life') is the secular-survival rendering matching σωτηρία/σῴζω throughout the chapter. Continues Lukan-irony pattern: the centurion's commitment to saving Paul (φιλανθρώπως, v.3) now culminates in saving everyone — Paul's faithful witness has won the centurion." },
-        { "greek": "ἀπορίψαντας πρώτους ἐπὶ τὴν γῆν ἐξιέναι", "thai": "กระโดดลงน้ำก่อน เพื่อขึ้นฝั่งให้ได้", "rationale": "TWO HAPAX: κολυμβάω (only NT occurrence) 'swim' + ἀπορίπτω (only NT occurrence) 'throw-off/cast-overboard.' Thai กระโดดลงน้ำ ('jump down into water') — Thai naturally combines the throw-overboard-self action; ก่อน ('first') captures πρώτους. ἐξιέναι ἐπὶ τὴν γῆν 'go-out onto the land' = ขึ้นฝั่ง ('go up to shore'). The two-stage rescue: swimmers first, planks-and-debris second (v.44)." }
+        {
+          "greek": "βουλόμενος διασῶσαι τὸν Παῦλον",
+          "thai": "อยากจะรักษาชีวิตเปาโลไว้",
+          "rationale": "διασῴζω 'save through / bring safely through' (compound διά + σῴζω) — the same verb that closes the chapter at v.44 (ἐγένετο πάντας διασωθῆναι). Thai รักษาชีวิต ... ไว้ ('preserve life') is the secular-survival rendering matching σωτηρία/σῴζω throughout the chapter. Continues Lukan-irony pattern: the centurion's commitment to saving Paul (φιλανθρώπως, v.3) now culminates in saving everyone — Paul's faithful witness has won the centurion."
+        },
+        {
+          "greek": "ἀπορίψαντας πρώτους ἐπὶ τὴν γῆν ἐξιέναι",
+          "thai": "กระโดดลงน้ำก่อน เพื่อขึ้นฝั่งให้ได้",
+          "rationale": "TWO HAPAX: κολυμβάω (only NT occurrence) 'swim' + ἀπορίπτω (only NT occurrence) 'throw-off/cast-overboard.' Thai กระโดดลงน้ำ ('jump down into water') — Thai naturally combines the throw-overboard-self action; ก่อน ('first') captures πρώτους. ἐξιέναι ἐπὶ τὴν γῆν 'go-out onto the land' = ขึ้นฝั่ง ('go up to shore'). The two-stage rescue: swimmers first, planks-and-debris second (v.44)."
+        }
       ],
       "notes": "TWO HAPAX in this verse: κολυμβάω + ἀπορίπτω (both swim/jump verbs). Julius's intervention parallels the Sidon-stop kindness of v.3 — bookending the journey with the centurion's φιλανθρωπία toward Paul. By preserving Paul, Julius preserves all 276; by being won-over by Paul through the journey, Julius becomes the human-instrument of the angel's promise (v.24). Lukan theological-narrative: pagan officials regularly become unwitting cooperators with God's plan when they encounter Paul (cf. Sergius Paulus, ACT 13:7-12; the Philippian jailer, ACT 16:25-34; here Julius)."
     }
@@ -777,10 +1273,18 @@
     "translation": {
       "thai": "ส่วนคนที่เหลือก็ให้ตามไป บางคนเกาะแผ่นไม้ บางคนเกาะส่วนต่างๆ ของเรือ ดังนี้ทุกคนจึงรอดถึงแผ่นดินอย่างปลอดภัย",
       "thai_literal": null,
-      "thai_summary": "บทนี้จบลงด้วยการสำเร็จของพระสัญญาที่พระเจ้าทรงประทานแก่เปาโลในข้อ 24 — «พระเจ้าทรงประทานชีวิตของผู้ที่แล่นเรือไปกับเจ้าทั้งหมดให้แก่เจ้า» — สิทธิ์ในการรอดชีวิตของทั้ง 276 คนเชื่อมโยงเข้ากับการเชื่อฟังของอัครทูตหนึ่งคน คำว่า «รอด» (διασῴζω, ข้อ 43, 44) เป็นคำเดียวกับที่ผู้บัญชาการกองพันโรมันใช้ในการรายงานการเดินทางของเปาโลไปถึงเฟลิกส์ในข้อ 23:24 («เพื่อจะนำเขาไปยังเฟลิกส์ผู้ว่าราชการ ‹อย่างปลอดภัย›») พระเจ้าทรงควบคุมผลลัพธ์ทุกขั้นตอน — ตั้งแต่การจับกุมที่กรุงเยรูซาเล็ม การพาท่านลงเรือ พายุที่จะทำให้ทุกคนหายนะ ทุกอย่างนำพาเปาโลไปถึงกรุงโรมตามพระประสงค์ของพระเจ้า (ข้อ 24, เทียบ 23:11)",
+      "thai_summary": "บทนี้จบลงด้วยการสำเร็จของพระสัญญาที่พระเจ้าทรงประทานแก่เปาโลในข้อ 24 — “พระเจ้าทรงประทานชีวิตของผู้ที่แล่นเรือไปกับเจ้าทั้งหมดให้แก่เจ้า” — สิทธิ์ในการรอดชีวิตของทั้ง 276 คนเชื่อมโยงเข้ากับการเชื่อฟังของอัครทูตหนึ่งคน คำว่า “รอด” (διασῴζω, ข้อ 43, 44) เป็นคำเดียวกับที่ผู้บัญชาการกองพันโรมันใช้ในการรายงานการเดินทางของเปาโลไปถึงเฟลิกส์ในข้อ 23:24 (“เพื่อจะนำเขาไปยังเฟลิกส์ผู้ว่าราชการ ‘อย่างปลอดภัย’”) พระเจ้าทรงควบคุมผลลัพธ์ทุกขั้นตอน — ตั้งแต่การจับกุมที่กรุงเยรูซาเล็ม การพาท่านลงเรือ พายุที่จะทำให้ทุกคนหายนะ ทุกอย่างนำพาเปาโลไปถึงกรุงโรมตามพระประสงค์ของพระเจ้า (ข้อ 24, เทียบ 23:11)",
       "key_decisions": [
-        { "greek": "οὓς μὲν ἐπὶ σανίσιν οὓς δὲ ἐπί τινων τῶν ἀπὸ τοῦ πλοίου", "thai": "บางคนเกาะแผ่นไม้ บางคนเกาะส่วนต่างๆ ของเรือ", "rationale": "Per uW figs-ellipsis: 'and the rest [were to escape], some on planks, others on parts of the ship.' HAPAX σανίς (only NT occurrence) 'plank/board.' Thai แผ่นไม้ ('wooden plank'); ส่วนต่างๆ ของเรือ ('various parts of the ship') for the unnamed-debris. The escape-by-clinging-to-floating-debris is the ancient shipwreck-survival mode for non-swimmers — accommodates the 270+ non-sailors on board." },
-        { "greek": "οὕτως ἐγένετο πάντας διασωθῆναι ἐπὶ τὴν γῆν", "thai": "ดังนี้ทุกคนจึงรอดถึงแผ่นดินอย่างปลอดภัย", "rationale": "Per uW figs-activepassive: passive infinitive 'all to be brought-safely-through.' Thai รอด ... อย่างปลอดภัย ('survive ... safely') captures both the διά-prefix (through) and the σώζω-stem (saved/preserved) for natural Thai phrasing. ἐπὶ τὴν γῆν → ถึงแผ่นดิน ('reach the land'). The verse closes the σώζω/σωτηρία motif-chain of the chapter (vv.20, 31, 34, 43, 44): 'all hope of being saved abandoned' (v.20, hopelessness) → 'unless these stay you cannot be saved' (v.31, conditional) → 'this will lead to your survival' (v.34, encouragement) → 'wanting to save Paul' (v.43, centurion's love) → 'all brought safely through' (v.44, fulfillment)." }
+        {
+          "greek": "οὓς μὲν ἐπὶ σανίσιν οὓς δὲ ἐπί τινων τῶν ἀπὸ τοῦ πλοίου",
+          "thai": "บางคนเกาะแผ่นไม้ บางคนเกาะส่วนต่างๆ ของเรือ",
+          "rationale": "Per uW figs-ellipsis: 'and the rest [were to escape], some on planks, others on parts of the ship.' HAPAX σανίς (only NT occurrence) 'plank/board.' Thai แผ่นไม้ ('wooden plank'); ส่วนต่างๆ ของเรือ ('various parts of the ship') for the unnamed-debris. The escape-by-clinging-to-floating-debris is the ancient shipwreck-survival mode for non-swimmers — accommodates the 270+ non-sailors on board."
+        },
+        {
+          "greek": "οὕτως ἐγένετο πάντας διασωθῆναι ἐπὶ τὴν γῆν",
+          "thai": "ดังนี้ทุกคนจึงรอดถึงแผ่นดินอย่างปลอดภัย",
+          "rationale": "Per uW figs-activepassive: passive infinitive 'all to be brought-safely-through.' Thai รอด ... อย่างปลอดภัย ('survive ... safely') captures both the διά-prefix (through) and the σώζω-stem (saved/preserved) for natural Thai phrasing. ἐπὶ τὴν γῆν → ถึงแผ่นดิน ('reach the land'). The verse closes the σώζω/σωτηρία motif-chain of the chapter (vv.20, 31, 34, 43, 44): 'all hope of being saved abandoned' (v.20, hopelessness) → 'unless these stay you cannot be saved' (v.31, conditional) → 'this will lead to your survival' (v.34, encouragement) → 'wanting to save Paul' (v.43, centurion's love) → 'all brought safely through' (v.44, fulfillment)."
+        }
       ],
       "notes": "HAPAX σανίς 'plank.' The chapter closes by enacting the angelic promise (v.24) and reverses the despair of v.20. διασωθῆναι (passive infinitive of διασῴζω) appears here for the second time in the chapter (v.43, v.44) — a small Lukan inclusio: 'wanting to save Paul' (centurion's choice) → 'all were saved' (God's outcome). The 276-soul precision of v.37 is now fulfilled — 276 people on the boat, 276 to land. Lukan documentary-precision serves theological-claim: 'God-saves-all-promised' is countable, verifiable, eyewitnessed."
     }

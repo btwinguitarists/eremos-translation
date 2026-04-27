@@ -40,9 +40,9 @@ The boundary is preserved across all four Acts pagan-religious episodes (Lystra 
 | Μολόχ | personal proper-name (LXX of Amos 5:26) | **โมเลค** (transliteration) | 7:43 |
 | Ῥαιφάν | personal proper-name (LXX of Amos 5:26) | **เรฟาน** (transliteration) | 7:43 |
 | ἡ Δίκη | personified abstract attribute (Justice) | **เทพีแห่งความยุติธรรม** (descriptive) | 28:4 |
-| ὁ ἄγνωστος θεός | inscription's own claim | **«แด่พระเจ้าที่ไม่รู้จัก»** (translated phrase, in inscription-quotation marks) | 17:23 |
+| ὁ ἄγνωστος θεός | inscription's own claim | **“แด่พระเจ้าที่ไม่รู้จัก”** (translated phrase, in inscription-quotation marks) | 17:23 |
 
-**Note on 17:23:** The Athenian altar inscription Ἀγνώστῳ θεῷ uses "θεῷ" in its own pagan-Athenian sense — "to a god (whose name we don't know)." Thai uses พระเจ้า here in the **inscription's own voice** because Paul's rhetorical move appropriates the inscription to point to the biblical God ("what you worship in ignorance, this I proclaim to you"). The inscription's pagan-θεῷ becomes the entry point to the Christian-พระเจ้า. The boundary is preserved by guillemets «...» marking the inscription as cited material.
+**Note on 17:23:** The Athenian altar inscription Ἀγνώστῳ θεῷ uses "θεῷ" in its own pagan-Athenian sense — "to a god (whose name we don't know)." Thai uses พระเจ้า here in the **inscription's own voice** because Paul's rhetorical move appropriates the inscription to point to the biblical God ("what you worship in ignorance, this I proclaim to you"). The inscription's pagan-θεῷ becomes the entry point to the Christian-พระเจ้า. The boundary is preserved by guillemets “...” marking the inscription as cited material.
 
 ## Why Greek-source transliteration over Latin equivalents
 
