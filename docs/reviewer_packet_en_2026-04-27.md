@@ -1,10 +1,10 @@
 # Eremos Translation — Consolidated Reviewer Packet
-**Date assembled: 2026-04-26**
+**Date assembled: 2026-04-27**
 **Books covered: Matthew, Mark, Luke, Acts**
 
 This packet consolidates everything a Greek scholar, theological reviewer, or AI reviewer needs to evaluate the Matthew + Mark + Luke + Acts translation. The translation itself lives in `output/reader/<slug>.md` (full Thai text) and `output/translations/<slug>_*.json` (per-verse Greek + Thai + rationale + notes). This packet documents the decisions behind those files.
 
-For an external AI sanity-check (Grok / ChatGPT / Gemini scale), see the per-book `external_review_packet_<BOOK>_*.md` files — those are scoped and sized for free-tier AI ceilings. **This packet is full-content for human reviewers.**
+For an external AI sanity-check (Grok / ChatGPT / Gemini scale), see the per-book `docs/end_of_book/<book>/external_review_packet_<BOOK>_*.md` files — those are scoped and sized for free-tier AI ceilings. **This packet is full-content for human reviewers.**
 
 ---
 
@@ -121,6 +121,7 @@ Each linked doc records: scope, evidence base, the rule, alternatives considered
 - **[Historic present → Thai past tense](translator_decisions/historic_present_2026-04.md)** — Greek historic-present verbs (narrative verbs in present indicative with past-time reference, e.g., λέγει "he says" mid-story) are systematically rendered in Thai past tense.
 - **[Honorifics for non-divine human authorities](translator_decisions/honorifics_non_divine_authorities_2026-04.md)** — Herod Antipas, Pontius Pilate, Roman centurions, Jewish-Sanhedrin leaders, and other human rulers who appear as secondary characters in the gospel narrative.
 - **[Inclusion variants — three-tier policy (LOCKED)](translator_decisions/inclusion_variants_absent_verses_2026-04.md)** — Whole-verse and large-fragment inclusion variants — readings where mainstream traditions (TR, Byz, KJV, sometimes THSV) include text that SBLGNT/NA28/UBS5 critical text omits. Distinct from word-ch...
+- **[Johannine doubled-amen (`ἀμὴν ἀμὴν λέγω ὑμῖν`) → อาเมน อาเมน เราบอกแก่พวกท่านว่า](translator_decisions/johannine_doubled_amen_2026-04.md)** — The Johannine doubled-amen formula `ἀμὴν ἀμὴν λέγω ὑμῖν`. Appears 25× in John (only NT book with the doubled form): 1:51, 3:3, 3:5, 3:11, 5:19, 5:24, 5:25, 6:26, 6:32, 6:47, 6:53, 8:34, 8:51, 8:58,...
 - **[ὁ κύριος (narrator voice, referring to Jesus) → องค์พระผู้เป็นเจ้า](translator_decisions/kyrios_narrator_voice_luke_acts_2026-04.md)** — Narrator-voice uses of ὁ κύριος where the referent is Jesus (not the Father, not a human master). A Lukan-Acts signature — Luke is the only evangelist who calls Jesus "the Lord" in his own narratio...
 - **[Markan εὐθύς ("immediately") — context-sensitive rendering](translator_decisions/markan_euthys_immediately_2026-04.md)** — εὐθύς / εὐθέως, Mark's signature pacing adverb. Occurs 42× in Mark (more than all other NT books combined for this Markan-dominant word).
 - **[μετανοέω vs. μεταμέλομαι — Thai distinction lock](translator_decisions/metanoeo_vs_metamelomai_2026-04.md)** — The two Greek "change-of-mind" verbs that the NT carefully distinguishes. μετανοέω (~34× NT) carries salvific-conversion weight; μεταμέλομαι (6× NT) is narrower — remorse, regret, reconsidering — w...
@@ -144,7 +145,7 @@ Each completed book gets an end-of-book audit (per `END_OF_BOOK_CHECKLIST.md`) r
 
 ### Matthew
 
-Full audit: [MAT_END_OF_BOOK_REVIEW_2026-04-19.md](MAT_END_OF_BOOK_REVIEW_2026-04-19.md)
+Full audit: [MAT_END_OF_BOOK_REVIEW_2026-04-19.md](end_of_book/matthew/MAT_END_OF_BOOK_REVIEW_2026-04-19.md)
 
 - **16 cross-cutting items reviewed.**
 - **6 flagged** for Ben's attention: ἐκκλησία, μεταμέλομαι vs. μετανοέω, amen-formula drift, Σὺ λέγεις micro-drift, inclusion-variant treatment of 17:21/18:11, and `thai_summary` coverage variance.
@@ -157,7 +158,7 @@ Status codes below: **LOCKED** (stable + corpus-doc or unambiguous), **STABLE/UN
 
 ### Mark
 
-Full audit: [MRK_END_OF_BOOK_REVIEW_2026-04-26.md](MRK_END_OF_BOOK_REVIEW_2026-04-26.md)
+Full audit: [MRK_END_OF_BOOK_REVIEW_2026-04-26.md](end_of_book/mark/MRK_END_OF_BOOK_REVIEW_2026-04-26.md)
 
 - **12 cross-cutting items consolidated.**
 - **7 decision docs originated from Mark's retrospective review** (amen_saying_formula, aramaic_transliterations, historic_present, markan_euthys_immediately, narrator_vs_character_voice, son_of_man_disambiguation, honorifics_non_divine_authorities). All seven are LOCKED.
@@ -171,7 +172,7 @@ Status codes: **LOCKED** — stable + corpus-doc exists. **STABLE** — uniform 
 
 ### Luke
 
-Full audit: [LUK_END_OF_BOOK_REVIEW_2026-04-22.md](LUK_END_OF_BOOK_REVIEW_2026-04-22.md)
+Full audit: [LUK_END_OF_BOOK_REVIEW_2026-04-22.md](end_of_book/luke/LUK_END_OF_BOOK_REVIEW_2026-04-22.md)
 
 - **22 cross-cutting items reviewed** — 15 from internal review (2026-04-22) + 4 Gemini-flagged items (2026-04-23) + 6 Claude-flagged items (2026-04-23), with overlap folded in.
 - **9 new decision docs written** across three passes (see §§1, 2, 6, 16, 17).
@@ -187,7 +188,7 @@ Status codes: **LOCKED** (stable + corpus-doc). **STABLE** (uniform + rationale 
 
 ### Acts
 
-Full audit: [ACT_END_OF_BOOK_REVIEW_2026-04-26.md](ACT_END_OF_BOOK_REVIEW_2026-04-26.md)
+Full audit: [ACT_END_OF_BOOK_REVIEW_2026-04-26.md](end_of_book/acts/ACT_END_OF_BOOK_REVIEW_2026-04-26.md)
 
 - **15 cross-cutting items reviewed.** Mechanical gates (§1) all pass: 28/28 chapters have green per-chapter reports + back-translations; `check_key_term_consistency.py` clean (0 rule violations, 0 undocumented multi-renderings); `git status output/` clean; main branch up to date with origin.
 - **8 inherited Luke-era locks verified compliant** in Acts (ἐκκλησία, ἄφεσις, narrator-κύριος, βασιλεία, οὐρανός-Ascension, παρρησία, divine-praise default, vocative Κύριε).
@@ -210,7 +211,7 @@ Status codes: **LOCKED** — stable + corpus-doc exists. **STABLE** — uniform 
 - **Read the per-chapter check report:** `output/check_reports/<slug>_NN_review.md` — automated checks across 8 dimensions.
 - **Read the corpus rules:** `RULES.md`.
 - **Browse decisions:** `docs/translator_decisions/` (start with `README.md`).
-- **Browse end-of-book audits:** `docs/<BOOK>_END_OF_BOOK_REVIEW_*.md`.
+- **Browse end-of-book audits:** `docs/end_of_book/<book>/<BOOK>_END_OF_BOOK_REVIEW_*.md`.
 
 ---
 

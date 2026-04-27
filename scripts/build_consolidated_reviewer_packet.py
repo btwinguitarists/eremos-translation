@@ -65,7 +65,10 @@ BOOKS = {
 
 def find_audit(book_code):
     """Return (Path, summary_text) for a book's end-of-book audit, or (None, None)."""
-    matches = sorted(DOCS.glob(f"{book_code}_END_OF_BOOK_REVIEW_*.md"), reverse=True)
+    matches = sorted(DOCS.glob(f"end_of_book/*/{book_code}_END_OF_BOOK_REVIEW_*.md"), reverse=True)
+    if not matches:
+        # Fallback to legacy flat docs/ layout for any pre-reorg audits.
+        matches = sorted(DOCS.glob(f"{book_code}_END_OF_BOOK_REVIEW_*.md"), reverse=True)
     if not matches:
         return None, None
     audit_path = matches[0]
@@ -120,9 +123,10 @@ def build_english(book_codes):
         slug, name, _ = book_metadata(code)
         audit_path, summary = find_audit(code)
         if audit_path:
+            rel_path = audit_path.relative_to(DOCS)
             audit_sections.append(
                 f"### {name}\n\n"
-                f"Full audit: [{audit_path.name}]({audit_path.name})\n\n"
+                f"Full audit: [{audit_path.name}]({rel_path})\n\n"
                 f"{summary}\n"
             )
         else:
@@ -137,7 +141,7 @@ def build_english(book_codes):
 
 This packet consolidates everything a Greek scholar, theological reviewer, or AI reviewer needs to evaluate the {book_list} translation. The translation itself lives in `output/reader/<slug>.md` (full Thai text) and `output/translations/<slug>_*.json` (per-verse Greek + Thai + rationale + notes). This packet documents the decisions behind those files.
 
-For an external AI sanity-check (Grok / ChatGPT / Gemini scale), see the per-book `external_review_packet_<BOOK>_*.md` files — those are scoped and sized for free-tier AI ceilings. **This packet is full-content for human reviewers.**
+For an external AI sanity-check (Grok / ChatGPT / Gemini scale), see the per-book `docs/end_of_book/<book>/external_review_packet_<BOOK>_*.md` files — those are scoped and sized for free-tier AI ceilings. **This packet is full-content for human reviewers.**
 
 ---
 
@@ -262,7 +266,7 @@ Each completed book gets an end-of-book audit (per `END_OF_BOOK_CHECKLIST.md`) r
 - **Read the per-chapter check report:** `output/check_reports/<slug>_NN_review.md` — automated checks across 8 dimensions.
 - **Read the corpus rules:** `RULES.md`.
 - **Browse decisions:** `docs/translator_decisions/` (start with `README.md`).
-- **Browse end-of-book audits:** `docs/<BOOK>_END_OF_BOOK_REVIEW_*.md`.
+- **Browse end-of-book audits:** `docs/end_of_book/<book>/<BOOK>_END_OF_BOOK_REVIEW_*.md`.
 
 ---
 
