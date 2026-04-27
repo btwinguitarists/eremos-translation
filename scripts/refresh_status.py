@@ -171,7 +171,8 @@ These rolling artifacts on Desktop are the working buffer between the maintainer
 
 | Audience | File you send |
 |---|---|
-| **The actual translation** to a Thai reviewer or scholar (verses only, no commentary) | `output/plain/<slug>.md` |
+| **Per-verse review by a Thai reader / scholar / pastor** (each verse has a `> ___` block to type comments into; bilingual TH/EN instructions at the top) | `output/feedback/<slug>.md` |
+| Verses-only edition for impressionistic / scholarly reading (no comment blocks) | `output/plain/<slug>.md` |
 | Annotated reading edition (verses + AI-generated บริบท commentary, for end users / app readers) | `output/reader/<slug>.md` |
 | External AI, per-chapter spot-check | `docs/CHAPTER_REVIEW_PROMPT.md` + paste chapter JSON |
 | External AI, end-of-book review | `docs/end_of_book/<book>/external_review_packet_<BOOK>_*.md` |
@@ -187,8 +188,8 @@ These rolling artifacts on Desktop are the working buffer between the maintainer
 | Ship a chapter (full pipeline) | `bash scripts/ship_chapter.sh <BOOK> <N>` |
 | Web-only ship (skip TestFlight) | `bash scripts/ship_chapter.sh <BOOK> <N> --skip-testflight` |
 | Refresh this STATUS.md | `python3 scripts/refresh_status.py` |
-| Regenerate reader + plain markdown (all books) | `python3 scripts/render_reader.py` |
-| Regenerate plain only (one book) | `python3 scripts/render_reader.py --book <BOOK> --mode plain` |
+| Regenerate reader + plain + feedback markdown (all books, all modes) | `python3 scripts/render_reader.py` |
+| Regenerate one mode for one book | `python3 scripts/render_reader.py --book <BOOK> --mode <plain\\|feedback\\|reader>` |
 | Build reviewer packet (EN) | `python3 scripts/build_consolidated_reviewer_packet.py MAT MRK LUK ACT --lang en` |
 | Build reviewer packet (TH) | `python3 scripts/build_consolidated_reviewer_packet.py MAT MRK LUK ACT --lang th` |
 | Build per-book external AI packet | `python3 scripts/build_external_review_packet.py <BOOK> --items docs/end_of_book/<book>/external_review_items_<BOOK>.md` |
