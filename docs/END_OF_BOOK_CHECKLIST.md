@@ -21,7 +21,7 @@ Spawn a fresh Claude session with this prompt template:
 
 > Eremos translation: end-of-book review for **{BOOK}**. Read all **{N}** translations + `glossary.json`. Identify cross-cutting editorial decisions worth deliberate revisit — e.g., ἐκκλησία → คริสตจักร vs. ที่ประชุม, βασιλεία → อาณาจักร, talent units, honorific patterns for non-divine figures (kings, masters, etc.), translation of culturally-loaded terms (γέεννα, σάρξ, παρουσία). For each cross-cutting choice: is the rationale documented at verse-level (key_decisions/notes) or in `docs/translator_decisions/`, or did it drift into convention? Surface findings for Ben's decision. Do NOT change any translations — assess only.
 
-The output is a `docs/{BOOK}_END_OF_BOOK_REVIEW_{YYYY-MM-DD}.md` audit doc following the structure of `MAT_END_OF_BOOK_REVIEW_2026-04-19.md` / `LUK_END_OF_BOOK_REVIEW_2026-04-22.md` / `ACT_END_OF_BOOK_REVIEW_2026-04-26.md`.
+The output is a `docs/end_of_book/{book}/{BOOK}_END_OF_BOOK_REVIEW_{YYYY-MM-DD}.md` audit doc following the structure of the existing per-book audits under `docs/end_of_book/` (matthew, mark, luke, acts).
 
 For each editorial decision flagged in the audit:
 - **Rationale already documented at verse-level** → keep as-is, no action needed
@@ -32,8 +32,8 @@ For each editorial decision flagged in the audit:
 
 For end-of-book external review by Grok / ChatGPT / Gemini / Claude:
 
-- [ ] Distill the audit's REVIEW / DECIDE items into a handwritten `docs/external_review_items_{BOOK}.md` (one `## Item A — ...` block per item, with verse evidence inline; see `docs/external_review_items_ACT.md` for shape).
-- [ ] Run: `python3 scripts/build_external_review_packet.py {BOOK} --items docs/external_review_items_{BOOK}.md` — produces `docs/external_review_packet_{BOOK}_{YYYY-MM-DD}.md` sized for free-tier AI ceilings (~20K chars).
+- [ ] Distill the audit's REVIEW / DECIDE items into a handwritten `docs/end_of_book/{book}/external_review_items_{BOOK}.md` (one `## Item A — ...` block per item, with verse evidence inline; see `docs/end_of_book/acts/external_review_items_ACT.md` for shape).
+- [ ] Run: `python3 scripts/build_external_review_packet.py {BOOK} --items docs/end_of_book/{book}/external_review_items_{BOOK}.md` — produces `docs/end_of_book/{book}/external_review_packet_{BOOK}_{YYYY-MM-DD}.md` sized for free-tier AI ceilings (~20K chars).
 - [ ] Paste the generated packet into Grok and at least one other AI (ChatGPT / Gemini / Claude) — copy responses back to the project session for cross-checking.
 - [ ] AI findings: cross-check verse claims against translation JSONs (AIs occasionally hallucinate verse content); spot-revise where warranted; update the audit doc with verified flags.
 
@@ -41,8 +41,8 @@ The external AI review surfaces items the per-chapter automated checks can't see
 
 ## 4. Reviewer hand-off (Thai readers + theological reviewers)
 
-- [ ] Run: `python3 scripts/build_consolidated_reviewer_packet.py {COMPLETED_BOOKS} --lang en` — produces a self-contained English packet of project context + locked decisions + per-book audit summaries for Greek / theological scholars.
-- [ ] Run: `python3 scripts/build_consolidated_reviewer_packet.py {COMPLETED_BOOKS} --lang th` — produces a Thai-language reviewer FAQ stub. **Editorial pass required** before sharing — the AI-generated Thai prose needs the maintainer's review for register and naturalness.
+- [ ] Run: `python3 scripts/build_consolidated_reviewer_packet.py {COMPLETED_BOOKS} --lang en` — produces a self-contained English packet at `docs/reviewer_packet_en_{YYYY-MM-DD}.md` for Greek / theological scholars.
+- [ ] Run: `python3 scripts/build_consolidated_reviewer_packet.py {COMPLETED_BOOKS} --lang th` — produces `docs/reviewer_packet_th_{YYYY-MM-DD}.md` (Thai believer FAQ stub). **Editorial pass required** before sharing — the AI-generated Thai prose needs the maintainer's review for register and naturalness.
 - [ ] Native-speaker Thai review on selected chapters (per `RULES.md §7`).
 - [ ] Theological reviewer review (per `RULES.md §7`).
 

@@ -16,7 +16,7 @@ Usage:
   BOOK     three-letter book code (MAT, MRK, LUK, ACT, 1TI, ...)
   --items  path to a markdown file containing the handwritten items section
            (one ## Item A — ... block per item, see existing packets for shape)
-  --out    output path; default docs/external_review_packet_<BOOK>_<YYYY-MM-DD>.md
+  --out    output path; default docs/end_of_book/<book>/external_review_packet_<BOOK>_<YYYY-MM-DD>.md
 
 The handwritten items file should contain ONLY the items themselves — the script
 wraps them with the title, paste-instructions, prompt, locked-decisions list,
@@ -24,7 +24,7 @@ output format, and footer.
 
 Example:
   python3 scripts/build_external_review_packet.py ACT \\
-    --items docs/external_review_items_ACT.md
+    --items docs/end_of_book/acts/external_review_items_ACT.md
 """
 import argparse
 import json
@@ -245,7 +245,7 @@ def main():
     )
     parser.add_argument(
         "--out",
-        help="output path (default: docs/external_review_packet_<BOOK>_<DATE>.md)",
+        help="output path (default: docs/end_of_book/<book>/external_review_packet_<BOOK>_<DATE>.md)",
     )
     args = parser.parse_args()
 
@@ -260,7 +260,8 @@ def main():
     if args.out:
         out_path = Path(args.out)
     else:
-        out_path = DOCS / f"external_review_packet_{book_code}_{date.today().isoformat()}.md"
+        slug = BOOKS[book_code][0]
+        out_path = DOCS / "end_of_book" / slug / f"external_review_packet_{book_code}_{date.today().isoformat()}.md"
     out_path.parent.mkdir(parents=True, exist_ok=True)
     out_path.write_text(packet)
 
