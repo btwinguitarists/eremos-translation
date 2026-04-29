@@ -86,7 +86,7 @@ def upsert_doc(drive, parent_id: str, doc_name: str, source_path: Path) -> tuple
     return created["id"], "created"
 
 
-def sync_directory(drive, repo_root: Path, source_rel: Path, drive_root_id: str) -> list[str]:
+def sync_directory(drive, repo_root: Path, source_rel: Path, drive_root_id: str, skip_files: set[str]) -> list[str]:
     """Walk repo_root/source_rel, mirror folder structure under drive_root_id, upsert .md files."""
     log: list[str] = []
     src = repo_root / source_rel
@@ -102,6 +102,10 @@ def sync_directory(drive, repo_root: Path, source_rel: Path, drive_root_id: str)
 
     # For each .md file in source_rel (recursive), mirror its directory and upsert the doc
     for md in sorted(src.rglob("*.md")):
+        rel_to_repo = md.relative_to(repo_root).as_posix()
+        if rel_to_repo in skip_files:
+            log.append(f"  skipped (in SKIP_FILES): {rel_to_repo}")
+            continue
         rel_to_src = md.relative_to(src)
         # Walk subdirectories within source_rel
         sub_parent = parent_id
@@ -124,6 +128,8 @@ def main() -> int:
     source_roots = os.environ.get("SOURCE_ROOTS", "output/reader").split(",")
     source_roots = [s.strip() for s in source_roots if s.strip()]
 
+    skip_files = {s.strip() for s in os.environ.get("SKIP_FILES", "").split(",") if s.strip()}
+
     repo_root = Path(__file__).resolve().parent.parent
     creds = load_credentials()
     drive = build("drive", "v3", credentials=creds)
@@ -131,11 +137,13 @@ def main() -> int:
     # Sanity-check the root folder is reachable
     folder = drive.files().get(fileId=folder_id, fields="id,name").execute()
     print(f"Syncing into Drive folder: {folder['name']} ({folder['id']})")
+    if skip_files:
+        print(f"Skipping: {sorted(skip_files)}")
 
     all_log: list[str] = []
     for sr in source_roots:
         print(f"\nSource: {sr}")
-        log = sync_directory(drive, repo_root, Path(sr), folder_id)
+        log = sync_directory(drive, repo_root, Path(sr), folder_id, skip_files)
         for line in log:
             print(line)
         all_log.extend(log)
