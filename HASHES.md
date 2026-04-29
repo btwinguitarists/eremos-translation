@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-04-29 12:31:09 UTC_
-_Total chapters: 111 · Total verses: 4562_
+_Generated: 2026-04-29 15:26:17 UTC_
+_Total chapters: 112 · Total verses: 4589_
 
 ## How to verify a chapter
 
@@ -56,12 +56,13 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/john_06.json` | 71 | `b2cfb7d7d638ffd6f50000f4ddf1614c5cb1a7938801fb835c5c8d5266a68f42` | `d89775b` |
 | `output/translations/john_07.json` | 53 | `66e87878cb656b8e068b55b5fd3dd8edfa6ae8c392405399d6013e31614f84b9` | `df0dbcf` |
 | `output/translations/john_08.json` | 59 | `2944198e8d3bdc4640fea51bb681566fe7539d6d3acc1433638d68d5496db94e` | `95821c9` |
-| `output/translations/john_09.json` | 41 | `e767016d7768c526aadcba4f56d981dbd9c062660c43289cfed3defd1769a1eb` | `d4325e1` |
-| `output/translations/john_10.json` | 42 | `7200511b65ee167fffd96739eaf07266138eb506d77346ead59284c335371732` | `e7e837f` |
-| `output/translations/john_11.json` | 57 | `802307daef42c006363138cc706ee8895d81529e6b93a107cd6ca923244d78b8` | `3ecda57` |
-| `output/translations/john_12.json` | 50 | `0dcb9ccbb848b2e6a1992bcaa69266aa517bde0a28a69cf8a199bc28f1b54baf` | `3b3396f` |
-| `output/translations/john_13.json` | 38 | `98aa0eb1d3f2a26ce64e378207b0c6e5b5e38122682b687241ee9c6026e9799d` | `4cab521` |
-| `output/translations/john_14.json` | 31 | `55fdabb7f746f31aba8c258cdbd7f78e7969a0a04b36d9b42b527870ea71e749` | `—` |
+| `output/translations/john_09.json` | 41 | `e767016d7768c526aadcba4f56d981dbd9c062660c43289cfed3defd1769a1eb` | `15e1acd` |
+| `output/translations/john_10.json` | 42 | `7200511b65ee167fffd96739eaf07266138eb506d77346ead59284c335371732` | `2ce3b18` |
+| `output/translations/john_11.json` | 57 | `802307daef42c006363138cc706ee8895d81529e6b93a107cd6ca923244d78b8` | `fa37a27` |
+| `output/translations/john_12.json` | 50 | `0dcb9ccbb848b2e6a1992bcaa69266aa517bde0a28a69cf8a199bc28f1b54baf` | `d5ea167` |
+| `output/translations/john_13.json` | 38 | `98aa0eb1d3f2a26ce64e378207b0c6e5b5e38122682b687241ee9c6026e9799d` | `65e37c0` |
+| `output/translations/john_14.json` | 31 | `55fdabb7f746f31aba8c258cdbd7f78e7969a0a04b36d9b42b527870ea71e749` | `edf0128` |
+| `output/translations/john_15.json` | 27 | `641e087ca5ac31a961ebf3cc3fe22a309dc65f57f8e7c0b13d9281bc7b62c790` | `—` |
 | `output/translations/luke_01.json` | 80 | `9657c5dc2a1c8cd7011dc699ee3e084d8f3d1380b649f5afbf2b0346250a9c5c` | `6d15bb1` |
 | `output/translations/luke_02.json` | 52 | `e50197772258e55fe3d51fecd922cfd83f9ab5ed2b2727d61038dfd9bdce5e03` | `6d15bb1` |
 | `output/translations/luke_03.json` | 38 | `a783de0c4b34da34985a62445df9229241b8083fddffd79540c317a30999962a` | `6d15bb1` |

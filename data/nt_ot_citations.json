@@ -1263,6 +1263,127 @@
       "greek_matches": "LXX-formula",
       "notes": "Ἐγώ εἰμι Ἰησοῦς — Jesus self-identification formula. The absolute \"I am\" construction (ἐγώ εἰμι + predicate) echoes the LXX Exo 3:14 divine-self-identification (ἐγώ εἰμι ὁ ὤν \"I am the existing-one\"). This is the same formula used by the Johannine-Jesus for his absolute \"I AM\" sayings (JHN 6:35, 8:58, 10:11, etc.). Luke is not directly quoting LXX Exo 3:14 here; rather, the ἐγώ εἰμι self-disclosure pattern is intertextually charged — the risen Christ identifies himself with the ἐγώ εἰμι formula that LXX Exo 3:14 uses for YHWH himself. Allusion rather than citation; the theological freight is Christological-identity."
     },
+    "JHN 10:11": {
+      "type": "composite_allusion",
+      "sources": [
+        "EZE 34:11-16",
+        "EZE 34:23-24",
+        "PSA 23:1"
+      ],
+      "greek_matches": "thematic",
+      "notes": "'I am the good shepherd' echoes the OT messianic-shepherd promise (EZE 34:11-16, 23-24 'I will set up over them one shepherd, my servant David'; PSA 23 'YHWH is my shepherd'). Strong allusion-cluster, not direct citation. Jesus's claim weaponizes the EZE 34 indictment of corrupt Israelite shepherds against the present religious leadership."
+    },
+    "JHN 10:16": {
+      "type": "allusion",
+      "sources": [
+        "EZE 34:23",
+        "EZE 37:24"
+      ],
+      "greek_matches": "thematic",
+      "notes": "'There will be one flock and one shepherd' near-quotes EZE 37:24 'David my servant shall be king over them, and they shall all have one shepherd' (cf. EZE 34:23 same theme). The ἄλλα πρόβατα ('other sheep not of this fold') extends the promise beyond ethnic Israel — Gentile inclusion in messianic-flock prophecy."
+    },
+    "JHN 10:34": {
+      "type": "citation",
+      "source": "PSA 82:6",
+      "greek_matches": "LXX",
+      "notes": "ἐγὼ εἶπα Θεοί ἐστε — direct quotation of LXX PSA 81:6 (= MT 82:6) 'I have said, you are gods, sons of the Most High, all of you.' Jesus uses this in qal-vahomer argument: if Scripture calls human judges 'gods,' the Father-sanctified-and-sent Son can certainly be called Son-of-God without blasphemy."
+    },
+    "JHN 10:36": {
+      "type": "typological_allusion",
+      "sources": [
+        "EXO 28:41",
+        "JER 1:5"
+      ],
+      "greek_matches": "thematic",
+      "notes": "ἡγίασεν ('sanctified, set apart') of the Father's act toward Jesus echoes priestly-consecration patterns: EXO 28:41 (Aaron and his sons consecrated to priesthood); JER 1:5 ('before I formed you in the womb I sanctified you, I appointed you a prophet to the nations'). Jesus's sanctified-and-sent designation patterns the OT consecration-for-divine-mission motif while transcending it (Father-Son sanctification rather than human priest/prophet)."
+    },
+    "JHN 11:27": {
+      "type": "allusion",
+      "source": "DEU 18:15",
+      "greek_matches": "thematic",
+      "notes": "ὁ εἰς τὸν κόσμον ἐρχόμενος ('the One coming into the world') in Martha's confession echoes the prophet-like-Moses promise of DEU 18:15 'I will raise up for them a prophet like you from among their brothers ... and put my words in his mouth.' Standard 1st-cent. Jewish messianic expectation; cf. JHN 6:14 ('the prophet who is to come into the world'); JHN 1:21 (questioning of John the Baptist about 'the Prophet')."
+    },
+    "JHN 11:52": {
+      "type": "composite_allusion",
+      "sources": [
+        "EZE 36:24",
+        "DEU 30:3-5",
+        "ISA 11:12"
+      ],
+      "greek_matches": "thematic",
+      "notes": "'Scattered children of God gathered into one' echoes the OT regathering-from-exile motif: EZE 36:24 ('I will take you from the nations and gather you'); DEU 30:3-5 (regathering-of-the-dispersed promise); ISA 11:12 ('he shall assemble the dispersed of Israel'). The Johannine extension: the regathering scope is universalized to include Gentiles ('children of God' = broader than ethnic Israel) — the atonement scope is universal-yet-particular."
+    },
+    "JHN 12:13": {
+      "type": "citation",
+      "source": "PSA 118:25-26",
+      "greek_matches": "LXX",
+      "notes": "ὡσαννά + εὐλογημένος ὁ ἐρχόμενος ἐν ὀνόματι κυρίου — direct citation of PSA 118:25-26 (the Hallel psalm, recited at Passover). 'Hosanna' = Hebrew הוֹשִׁיעָה־נָּא 'save-please now'. The crowd's triumphal-entry acclamation. Same citation appears at MRK 11:9-10, MAT 21:9, LUK 19:38 (Synoptic parallels)."
+    },
+    "JHN 12:15": {
+      "type": "composite_citation",
+      "sources": [
+        "ZEC 9:9",
+        "ZEP 3:16"
+      ],
+      "greek_matches": "paraphrase",
+      "notes": "Μὴ φοβοῦ θυγάτηρ Σιών (ZEP 3:16 'do not fear, Zion') + ὁ βασιλεύς σου ἔρχεται καθήμενος ἐπὶ πῶλον ὄνου (ZEC 9:9 'your king comes ... humble and mounted on a donkey'). John gives the gist of ZEC 9:9 rather than verbatim. The peaceful-king-on-donkey deliberately contrasts with Maccabean victory-warrior expectations."
+    },
+    "JHN 12:38": {
+      "type": "citation",
+      "source": "ISA 53:1",
+      "greek_matches": "LXX",
+      "notes": "Κύριε τίς ἐπίστευσεν τῇ ἀκοῇ ἡμῶν — direct LXX citation of ISA 53:1 (opening of the Suffering Servant chapter). Same verse cited at ROM 10:16. John's contextual application: the unbelief of Israel was prophesied; Jesus's rejection fits the Servant-Messiah pattern."
+    },
+    "JHN 12:40": {
+      "type": "citation",
+      "source": "ISA 6:10",
+      "greek_matches": "paraphrase",
+      "notes": "Τετύφλωκεν αὐτῶν τοὺς ὀφθαλμοὺς ... ἐπώρωσεν αὐτῶν τὴν καρδίαν — paraphrastic citation of ISA 6:10 (the hardening-prophecy from Isaiah's commission). Same verse cited variously at MRK 4:12, MAT 13:14-15, LUK 8:10, ACT 28:26-27. The Johannine version is closer to the MT than the LXX in some details. Theologically grounds the unbelief-of-Israel pattern."
+    },
+    "JHN 13:18": {
+      "type": "citation",
+      "source": "PSA 41:9",
+      "greek_matches": "LXX",
+      "notes": "ὁ τρώγων μου τὸν ἄρτον ἐπῆρεν ἐπ’ἐμὲ τὴν πτέρναν αὐτοῦ — citation of LXX PSA 40:10 (= MT 41:9). David's psalm of betrayal by an intimate friend (traditionally Ahithophel, 2 SAM 15-17). Two compressed idioms: 'eating my bread' = covenant-friendship; 'lifted up his heel' = enmity / treachery. Jesus applies the typological pattern: as David was betrayed by his close-table-companion, so Jesus by Judas."
+    },
+    "JHN 13:19": {
+      "type": "allusion",
+      "sources": [
+        "EXO 3:14",
+        "ISA 43:10"
+      ],
+      "greek_matches": "thematic",
+      "notes": "ἐγώ εἰμι (absolute, no predicate) — Jesus's signature divine-self-identification echoing EXO 3:14 LXX 'ἐγώ εἰμι ὁ ὤν' (the divine name revealed to Moses) and ISA 43:10 'ἐγώ εἰμι' (the prophetic absolute-I-AM cluster). Same formula at JHN 4:26, 6:20, 8:24, 8:28, 8:58, 18:5-8."
+    },
+    "JHN 14:27": {
+      "type": "thematic_echo",
+      "source": "NUM 6:24-26",
+      "greek_matches": "thematic",
+      "notes": "'Peace I leave with you' echoes the Aaronic priestly-blessing of NUM 6:24-26 ('the LORD bless you and keep you ... and give you peace'). Christ as the eternal high-priest dispenses the priestly-blessing-peace. Also prefigures the resurrection-greeting 'εἰρήνη ὑμῖν' (JHN 20:19, 21, 26)."
+    },
+    "JHN 14:8": {
+      "type": "allusion",
+      "source": "EXO 33:18",
+      "greek_matches": "thematic",
+      "notes": "Philip's request 'show us the Father' echoes Moses's theophany-petition in EXO 33:18 ('show me your glory'). The OT pattern of seeking-divine-vision is fulfilled in Christ — the Father is being seen in the Son's face (per v.9). Implicit-allusion that orients Philip's request as a continuation of OT theophany-petitions."
+    },
+    "JHN 15:25": {
+      "type": "direct_citation",
+      "sources": [
+        "PSA 35:19",
+        "PSA 69:4"
+      ],
+      "greek_matches": "LXX-near-verbatim",
+      "notes": "DIRECT CITATION of PSA 35:19 LXX (= LXX 34:19) or PSA 69:5 LXX (= LXX 68:5). Both psalms contain the phrase οἱ μισοῦντές με δωρεάν 'those who hate me without cause' verbatim — Davidic righteous-sufferer laments. Jesus quotes loosely with finite ἐμίσησάν (3pl.aor.indicative 'they hated') vs. the LXX's participial μισοῦντες ('hating'). Either psalm works as the source; both are righteous-sufferer typologies that Christ identifies himself with. Per uW figs-synecdoche: 'their law' (νόμῳ) here = entire-Hebrew-Scriptures (Tanakh-as-a-whole), not strictly Pentateuch — paralleling JHN 10:34 where 'law' cites Psalm 82."
+    },
+    "JHN 15:3": {
+      "type": "allusion",
+      "sources": [
+        "PSA 119:9"
+      ],
+      "greek_matches": "thematic",
+      "notes": "Allusion to PSA 119:9 ('How can a young man keep his way pure? By guarding it according to your word') — cleansing-via-word theme. Christ's word as the means by which the disciples are 'already clean' parallels the Psalm's word-as-purifier. Echoes also EPH 5:26 'washing of water with the word' (NT-internal, not OT-claim)."
+    },
     "JHN 1:11": {
       "type": "allusion",
       "sources": [
@@ -1835,110 +1956,6 @@
       "source": "DAN 7:13",
       "greek_matches": "LXX",
       "notes": "Jesus's signature self-designation 'Son of Man' (ὁ υἱὸς τοῦ ἀνθρώπου) systematically echoes DAN 7:13 LXX 'ὡς υἱὸς ἀνθρώπου ἐρχόμενος' — the apocalyptic divine-human authority figure who receives dominion from the Ancient of Days. This Johannine instance, like the rest in John (1:51, 3:13-14, 5:27, 6:27, 6:53, 6:62, 8:28, 12:23, 12:34, 13:31), draws its weight from the Daniel 7 echo."
-    },
-    "JHN 10:11": {
-      "type": "composite_allusion",
-      "sources": [
-        "EZE 34:11-16",
-        "EZE 34:23-24",
-        "PSA 23:1"
-      ],
-      "greek_matches": "thematic",
-      "notes": "'I am the good shepherd' echoes the OT messianic-shepherd promise (EZE 34:11-16, 23-24 'I will set up over them one shepherd, my servant David'; PSA 23 'YHWH is my shepherd'). Strong allusion-cluster, not direct citation. Jesus's claim weaponizes the EZE 34 indictment of corrupt Israelite shepherds against the present religious leadership."
-    },
-    "JHN 10:16": {
-      "type": "allusion",
-      "sources": [
-        "EZE 34:23",
-        "EZE 37:24"
-      ],
-      "greek_matches": "thematic",
-      "notes": "'There will be one flock and one shepherd' near-quotes EZE 37:24 'David my servant shall be king over them, and they shall all have one shepherd' (cf. EZE 34:23 same theme). The ἄλλα πρόβατα ('other sheep not of this fold') extends the promise beyond ethnic Israel — Gentile inclusion in messianic-flock prophecy."
-    },
-    "JHN 10:34": {
-      "type": "citation",
-      "source": "PSA 82:6",
-      "greek_matches": "LXX",
-      "notes": "ἐγὼ εἶπα Θεοί ἐστε — direct quotation of LXX PSA 81:6 (= MT 82:6) 'I have said, you are gods, sons of the Most High, all of you.' Jesus uses this in qal-vahomer argument: if Scripture calls human judges 'gods,' the Father-sanctified-and-sent Son can certainly be called Son-of-God without blasphemy."
-    },
-    "JHN 10:36": {
-      "type": "typological_allusion",
-      "sources": [
-        "EXO 28:41",
-        "JER 1:5"
-      ],
-      "greek_matches": "thematic",
-      "notes": "ἡγίασεν ('sanctified, set apart') of the Father's act toward Jesus echoes priestly-consecration patterns: EXO 28:41 (Aaron and his sons consecrated to priesthood); JER 1:5 ('before I formed you in the womb I sanctified you, I appointed you a prophet to the nations'). Jesus's sanctified-and-sent designation patterns the OT consecration-for-divine-mission motif while transcending it (Father-Son sanctification rather than human priest/prophet)."
-    },
-    "JHN 11:27": {
-      "type": "allusion",
-      "source": "DEU 18:15",
-      "greek_matches": "thematic",
-      "notes": "ὁ εἰς τὸν κόσμον ἐρχόμενος ('the One coming into the world') in Martha's confession echoes the prophet-like-Moses promise of DEU 18:15 'I will raise up for them a prophet like you from among their brothers ... and put my words in his mouth.' Standard 1st-cent. Jewish messianic expectation; cf. JHN 6:14 ('the prophet who is to come into the world'); JHN 1:21 (questioning of John the Baptist about 'the Prophet')."
-    },
-    "JHN 11:52": {
-      "type": "composite_allusion",
-      "sources": [
-        "EZE 36:24",
-        "DEU 30:3-5",
-        "ISA 11:12"
-      ],
-      "greek_matches": "thematic",
-      "notes": "'Scattered children of God gathered into one' echoes the OT regathering-from-exile motif: EZE 36:24 ('I will take you from the nations and gather you'); DEU 30:3-5 (regathering-of-the-dispersed promise); ISA 11:12 ('he shall assemble the dispersed of Israel'). The Johannine extension: the regathering scope is universalized to include Gentiles ('children of God' = broader than ethnic Israel) — the atonement scope is universal-yet-particular."
-    },
-    "JHN 12:13": {
-      "type": "citation",
-      "source": "PSA 118:25-26",
-      "greek_matches": "LXX",
-      "notes": "ὡσαννά + εὐλογημένος ὁ ἐρχόμενος ἐν ὀνόματι κυρίου — direct citation of PSA 118:25-26 (the Hallel psalm, recited at Passover). 'Hosanna' = Hebrew הוֹשִׁיעָה־נָּא 'save-please now'. The crowd's triumphal-entry acclamation. Same citation appears at MRK 11:9-10, MAT 21:9, LUK 19:38 (Synoptic parallels)."
-    },
-    "JHN 12:15": {
-      "type": "composite_citation",
-      "sources": [
-        "ZEC 9:9",
-        "ZEP 3:16"
-      ],
-      "greek_matches": "paraphrase",
-      "notes": "Μὴ φοβοῦ θυγάτηρ Σιών (ZEP 3:16 'do not fear, Zion') + ὁ βασιλεύς σου ἔρχεται καθήμενος ἐπὶ πῶλον ὄνου (ZEC 9:9 'your king comes ... humble and mounted on a donkey'). John gives the gist of ZEC 9:9 rather than verbatim. The peaceful-king-on-donkey deliberately contrasts with Maccabean victory-warrior expectations."
-    },
-    "JHN 12:38": {
-      "type": "citation",
-      "source": "ISA 53:1",
-      "greek_matches": "LXX",
-      "notes": "Κύριε τίς ἐπίστευσεν τῇ ἀκοῇ ἡμῶν — direct LXX citation of ISA 53:1 (opening of the Suffering Servant chapter). Same verse cited at ROM 10:16. John's contextual application: the unbelief of Israel was prophesied; Jesus's rejection fits the Servant-Messiah pattern."
-    },
-    "JHN 12:40": {
-      "type": "citation",
-      "source": "ISA 6:10",
-      "greek_matches": "paraphrase",
-      "notes": "Τετύφλωκεν αὐτῶν τοὺς ὀφθαλμοὺς ... ἐπώρωσεν αὐτῶν τὴν καρδίαν — paraphrastic citation of ISA 6:10 (the hardening-prophecy from Isaiah's commission). Same verse cited variously at MRK 4:12, MAT 13:14-15, LUK 8:10, ACT 28:26-27. The Johannine version is closer to the MT than the LXX in some details. Theologically grounds the unbelief-of-Israel pattern."
-    },
-    "JHN 13:18": {
-      "type": "citation",
-      "source": "PSA 41:9",
-      "greek_matches": "LXX",
-      "notes": "ὁ τρώγων μου τὸν ἄρτον ἐπῆρεν ἐπ’ἐμὲ τὴν πτέρναν αὐτοῦ — citation of LXX PSA 40:10 (= MT 41:9). David's psalm of betrayal by an intimate friend (traditionally Ahithophel, 2 SAM 15-17). Two compressed idioms: 'eating my bread' = covenant-friendship; 'lifted up his heel' = enmity / treachery. Jesus applies the typological pattern: as David was betrayed by his close-table-companion, so Jesus by Judas."
-    },
-    "JHN 13:19": {
-      "type": "allusion",
-      "sources": [
-        "EXO 3:14",
-        "ISA 43:10"
-      ],
-      "greek_matches": "thematic",
-      "notes": "ἐγώ εἰμι (absolute, no predicate) — Jesus's signature divine-self-identification echoing EXO 3:14 LXX 'ἐγώ εἰμι ὁ ὤν' (the divine name revealed to Moses) and ISA 43:10 'ἐγώ εἰμι' (the prophetic absolute-I-AM cluster). Same formula at JHN 4:26, 6:20, 8:24, 8:28, 8:58, 18:5-8."
-    },
-    "JHN 14:8": {
-      "type": "allusion",
-      "source": "EXO 33:18",
-      "greek_matches": "thematic",
-      "notes": "Philip's request 'show us the Father' echoes Moses's theophany-petition in EXO 33:18 ('show me your glory'). The OT pattern of seeking-divine-vision is fulfilled in Christ — the Father is being seen in the Son's face (per v.9). Implicit-allusion that orients Philip's request as a continuation of OT theophany-petitions."
-    },
-    "JHN 14:27": {
-      "type": "thematic_echo",
-      "source": "NUM 6:24-26",
-      "greek_matches": "thematic",
-      "notes": "'Peace I leave with you' echoes the Aaronic priestly-blessing of NUM 6:24-26 ('the LORD bless you and keep you ... and give you peace'). Christ as the eternal high-priest dispenses the priestly-blessing-peace. Also prefigures the resurrection-greeting 'εἰρήνη ὑμῖν' (JHN 20:19, 21, 26)."
     },
     "LUK 10:1": {
       "type": "typological_allusion",
