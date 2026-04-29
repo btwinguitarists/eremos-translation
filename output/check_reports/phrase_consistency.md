@@ -37,14 +37,14 @@
 ## ἀμὴν ἀμὴν λέγω ὑμῖν (Johannine doubled)
 **Doc:** `johannine_doubled_amen_2026-04.md`  
 **Expected Thai contains:** `อาเมน อาเมน`  
-**Total matching verses:** 8  
-**OK:** 8 · **Excepted:** 0 · **Violations:** 0
+**Total matching verses:** 20  
+**OK:** 20 · **Excepted:** 0 · **Violations:** 0
 
 ## ὁ υἱὸς τοῦ ἀνθρώπου (Christological title)
 **Doc:** `son_of_man_disambiguation_2026-04.md`  
 **Expected Thai contains:** `บุตรมนุษย์`  
-**Total matching verses:** 68  
-**OK:** 68 · **Excepted:** 0 · **Violations:** 0
+**Total matching verses:** 73  
+**OK:** 73 · **Excepted:** 0 · **Violations:** 0
 
 ### Documented exceptions (not violations)
 - **Hebrews 2:6** — Ps 8:4 LXX citation; generic υἱὸς ἀνθρώπου, not Christological title — expected to render differently; documented per son_of_man_disambiguation doc
@@ -52,8 +52,8 @@
 ## πνεῦμα ἅγιον
 **Doc:** `RULES.md §4 + glossary`  
 **Expected Thai contains:** `พระวิญญาณบริสุทธิ์`  
-**Total matching verses:** 36  
-**OK:** 36 · **Excepted:** 0 · **Violations:** 0
+**Total matching verses:** 37  
+**OK:** 37 · **Excepted:** 0 · **Violations:** 0
 
 ## ἐκκλησία (Christian community sense)
 **Doc:** `ekklesia_2026-04.md`  
