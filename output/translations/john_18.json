@@ -1,0 +1,690 @@
+[
+  {
+    "reference": "John 18:1",
+    "chapter": 18,
+    "verse": 1,
+    "greek": "Ταῦτα εἰπὼν Ἰησοῦς ἐξῆλθεν σὺν τοῖς μαθηταῖς αὐτοῦ πέραν τοῦ χειμάρρου τοῦ Κεδρὼν ὅπου ἦν κῆπος,εἰς ὃν εἰσῆλθεν αὐτὸς καὶ οἱ μαθηταὶ αὐτοῦ.",
+    "bsb_english": "After Jesus had spoken these words, He went out with His disciples across the Kidron Valley, where they entered a garden.",
+    "translation": {
+      "thai": "เมื่อพระเยซูตรัสสิ่งเหล่านี้เสร็จแล้ว พระองค์เสด็จออกไปพร้อมกับเหล่าสาวกข้ามลำธารคิดโรน ที่นั่นมีสวนแห่งหนึ่ง พระองค์และเหล่าสาวกได้เสด็จเข้าไป",
+      "thai_literal": null,
+      "thai_summary": "“ลำธารคิดโรน” เป็นหุบเขาในกรุงเยรูซาเล็มที่อยู่ระหว่างพระวิหารกับภูเขามะกอกเทศ “สวน” ที่กล่าวถึงในข้อนี้คือสวนเกทเสมนีตามที่บันทึกในข่าวประเสริฐมัทธิว 26:36 และมาระโก 14:32 — เป็นสวนต้นมะกอกเทศที่พระเยซูทรงคุ้นเคยกับการอธิษฐานอยู่บ่อยครั้ง (ข้อ 2) ยอห์นไม่ได้บันทึกการอธิษฐานในเกทเสมนี (อยู่ในข่าวประเสริฐมัทธิว มาระโก ลูกา) แต่เน้นที่การจับกุม",
+      "key_decisions": [
+        { "greek": "Ταῦτα εἰπὼν Ἰησοῦς ἐξῆλθεν", "thai": "เมื่อพระเยซูตรัสสิ่งเหล่านี้เสร็จแล้ว พระองค์เสด็จออกไป", "rationale": "Per uW writing-newevent: scene-transition marker. Ταῦτα refers back to JHN 17 (the high-priestly prayer just-completed). Royal ตรัส + เสด็จออกไป (royal-speak + royal-go-out) per RULES §3 since divine subject (Christ)." },
+        { "greek": "πέραν τοῦ χειμάρρου τοῦ Κεδρὼν", "thai": "ข้ามลำธารคิดโรน", "rationale": "HAPAX: χείμαρρος (winter-stream / brook); HAPAX-PROPER-NOUN: Κεδρών (Kidron). NEW CORPUS-LOCK: χείμαρρος → ลำธาร (brook/winter-flowing-stream). NEW PROPER-NOUN-LOCK: Κεδρών → คิดโรน (Kidron; standard Christian-Thai transliteration). Per uW translate-names: a valley between Temple Mount and Mount of Olives." },
+        { "greek": "ὅπου ἦν κῆπος", "thai": "ที่นั่นมีสวนแห่งหนึ่ง", "rationale": "Per uW figs-explicit: κῆπος (garden/grove) refers to Gethsemane (synoptic-parallel MAT 26:36, MRK 14:32). Translation preserves ‘สวน’ (garden) — Thai readers in Christian-context can hear the Gethsemane reference from the broader narrative-frame. Will recur vv.26 (Peter's-denial-context). The thai_summary surfaces the synoptic-parallel for general readers." }
+      ],
+      "notes": "Per uW writing-newevent + figs-explicit + figs-possession + translate-names: chapter-and-section-opening — arrest narrative begins. The Kidron-crossing fulfills Davidic-fugitive typology (cf. 2 SAM 15:23 David-crosses-Kidron-fleeing-Absalom — Christ-as-Davidic-king now-going-to-be-betrayed). HAPAX cluster: χείμαρρος + Κεδρών. Quote-block from JHN 17 closed at 17:26's ”; JHN 18 begins narrative-mode without open-quote until v.4."
+    }
+  },
+  {
+    "reference": "John 18:2",
+    "chapter": 18,
+    "verse": 2,
+    "greek": "ᾔδει δὲ καὶ Ἰούδας ὁ παραδιδοὺς αὐτὸν τὸν τόπον,ὅτι πολλάκις συνήχθη Ἰησοῦς ἐκεῖ μετὰ τῶν μαθητῶν αὐτοῦ.",
+    "bsb_english": "Now Judas His betrayer also knew the place, because Jesus had often met there with His disciples.",
+    "translation": {
+      "thai": "ยูดาสผู้ทรยศพระองค์ก็รู้จักที่นั่นเช่นกัน เพราะพระเยซูทรงพบกับเหล่าสาวกของพระองค์ที่นั่นบ่อยครั้ง",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "Ἰούδας ὁ παραδιδοὺς αὐτὸν", "thai": "ยูดาสผู้ทรยศพระองค์", "rationale": "PHRASE-LOCK with JHN 6:71, 12:4, 13:2, 13:11: Judas Iscariot named-by-betrayal-action (not full name here). NEW CORPUS-LOCK: ὁ παραδιδοὺς (the-one-betraying) → ผู้ทรยศ (the-betrayer). Will recur v.5. The present-participle ‘the-one-betraying’ marks the in-process-betrayal-act." },
+        { "greek": "πολλάκις συνήχθη Ἰησοῦς ἐκεῖ μετὰ τῶν μαθικτῶν αὐτοῦ", "thai": "พระเยซูทรงพบกับเหล่าสาวกของพระองค์ที่นั่นบ่อยครั้ง", "rationale": "Per uW writing-background: explanatory-flashback explaining how-Judas-knew-the-place. Aor.passive συνήχθη (‘was-gathered-together’) rendered as Thai active ‘ทรงพบ’ (royal-meet) for natural narrative-flow." }
+      ],
+      "notes": "Per uW writing-background: background-info on Judas's-knowledge of the meeting-place. The present-participle ‘the-one-betraying’ adds dramatic-irony — Judas is currently-in-the-act-of-betraying. The vulnerable-pattern: Christ's-known-prayer-spot becomes the betrayer's-target."
+    }
+  },
+  {
+    "reference": "John 18:3",
+    "chapter": 18,
+    "verse": 3,
+    "greek": "ὁ οὖν Ἰούδας λαβὼν τὴν σπεῖραν καὶ ἐκ τῶν ἀρχιερέων καὶ ἐκ τῶν Φαρισαίων ὑπηρέτας ἔρχεται ἐκεῖ μετὰ φανῶν καὶ λαμπάδων καὶ ὅπλων.",
+    "bsb_english": "So Judas brought a band of soldiers and officers from the chief priests and Pharisees. They arrived at the garden carrying lanterns, torches, and weapons.",
+    "translation": {
+      "thai": "ดังนั้นยูดาสจึงนำกองทหารและเจ้าหน้าที่จากพวกหัวหน้าปุโรหิตและพวกฟาริสีมาที่นั่น พร้อมด้วยโคมไฟ คบเพลิง และอาวุธ",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "τὴν σπεῖραν", "thai": "กองทหาร", "rationale": "PHRASE-LOCK with ACT 10:1: σπεῖρα → กองทหาร (Roman cohort/military-band). σπεῖρα technically a Roman cohort (~600 men) or detachment-thereof. Translation preserves the military-formation sense." },
+        { "greek": "ἐκ τῶν ἀρχιερέων ... ὑπηρέτας", "thai": "เจ้าหน้าที่จากพวกหัวหน้าปุโรหิต", "rationale": "ἀρχιερεῖς (plural) here = chief-priests / Sadducean priestly aristocracy (members of Sanhedrin). Distinct from the singular ἀρχιερεύς (the high priest). NEW CORPUS-LOCK: ἀρχιερεῖς (plural collective) → พวกหัวหน้าปุโรหิต (chief-priests). NEW CORPUS-LOCK: ὑπηρέτης (temple-court officers) → เจ้าหน้าที่ (officers/officials). PHRASE-LOCK: Φαρισαῖοι → พวกฟาริสี (Pharisees; standard)." },
+        { "greek": "μετὰ φανῶν καὶ λαμπάδων καὶ ὅπλων", "thai": "พร้อมด้วยโคมไฟ คบเพลิง และอาวุธ", "rationale": "HAPAX: φανός (lantern; NT-only-occurrence). NEW CORPUS-LOCK: φανός → โคมไฟ (lantern; standard Thai). NEW CORPUS-LOCK: λαμπάς → คบเพลิง (torch). NEW CORPUS-LOCK: ὅπλον → อาวุธ (weapon). The triad-of-equipment marks the ironic-overpreparation for arresting one-unarmed-man." }
+      ],
+      "notes": "Per uW figs-pastforfuture: present ἔρχεται in past-narration marks story-development. HAPAX: φανός. The sandwich-arrest-force: Roman σπεῖρα + Jewish-temple-officers — combined Roman-Sanhedrin authority arrayed against one-unarmed-Christ. Theological-irony: lights-and-torches against the-Light-of-the-World."
+    }
+  },
+  {
+    "reference": "John 18:4",
+    "chapter": 18,
+    "verse": 4,
+    "greek": "Ἰησοῦς οὖν εἰδὼς πάντα τὰ ἐρχόμενα ἐπ’αὐτὸν ἐξῆλθεν,καὶ λέγει αὐτοῖς·Τίνα ζητεῖτε;",
+    "bsb_english": "Jesus, knowing all that was coming upon Him, stepped forward and asked them, “Whom are you seeking?”",
+    "translation": {
+      "thai": "พระเยซูทรงทราบทุกสิ่งที่กำลังจะเกิดขึ้นกับพระองค์ จึงเสด็จออกไปและตรัสกับพวกเขาว่า “พวกท่านมาหาใคร?”",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "εἰδὼς πάντα τὰ ἐρχόμενα ἐπ’αὐτὸν", "thai": "ทรงทราบทุกสิ่งที่กำลังจะเกิดขึ้นกับพระองค์", "rationale": "Per uW grammar-connect-logic-result: aor.participle εἰδώς grounds the active-stepping-forward of Christ. Royal ทรงทราบ (royal-know) since divine-subject. Christological-omniscience-motif (cf. JHN 13:1, 13:3, 16:19, 19:28) — Christ's-self-aware approach-to-passion." },
+        { "greek": "Τίνα ζητεῖτε;", "thai": "พวกท่านมาหาใคร?", "rationale": "Christ's first-words to arrest-party — direct simple-question, not defensive. Thai ‘พวกท่านมาหาใคร?’ (whom-are-you-coming-to-find) preserves the deliberate-confrontation-via-question form. Christ uses พวกท่าน (formal-plural-polite) — even to enemies, not lower register." }
+      ],
+      "notes": "Per uW grammar-connect-logic-result: Christ's-stepping-forward is voluntary, not surprised. The εἰδώς-pattern: Christ acts FROM-knowledge-of-the-coming-passion, not in spite of-or-blind-to-it. PHRASE-LOCK with the broader-Johannine-volitional-passion-theme: ‘no one takes my life from me, I lay it down of my own accord’ (JHN 10:18)."
+    }
+  },
+  {
+    "reference": "John 18:5",
+    "chapter": 18,
+    "verse": 5,
+    "greek": "ἀπεκρίθησαν αὐτῷ·Ἰησοῦν τὸν Ναζωραῖον.λέγει αὐτοῖς·Ἐγώ εἰμι.εἱστήκει δὲ καὶ Ἰούδας ὁ παραδιδοὺς αὐτὸν μετ’αὐτῶν.",
+    "bsb_english": "“Jesus of Nazareth,” they answered. Jesus said, “I am He.” And Judas His betrayer was standing there with them.",
+    "translation": {
+      "thai": "พวกเขาทูลตอบพระองค์ว่า “พระเยซูชาวนาซาเร็ธ” พระองค์ตรัสว่า “เราคือผู้นั้น” ยูดาสผู้ทรยศพระองค์ก็ยืนอยู่กับพวกเขาด้วย",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "Ἰησοῦν τὸν Ναζωραῖον", "thai": "พระเยซูชาวนาซาเร็ธ", "rationale": "Per uW translate-names: Ναζωραῖος = ‘the-one-from-Nazareth’ (Jesus's hometown identifier). NEW CORPUS-LOCK: Ναζωραῖος → ชาวนาซาเร็ธ (man-of-Nazareth; standard Christian-Thai). Continuing JHN 1:46 Nazareth-reference. Will recur v.7." },
+        { "greek": "Ἐγώ εἰμι", "thai": "เราคือผู้นั้น", "rationale": "Per uW figs-ellipsis: ἐγώ εἰμι could mean (1) simple ‘I am he’ (response to question) OR (2) ‘I AM’ — divine self-identification echoing EXO 3:14 LXX ἐγώ εἰμι ὁ ὤν. The drawing-back-and-falling in v.6 strongly suggests theophanic-undertone is in view. Thai ‘เราคือผู้นั้น’ (I am the-one — natural-answer reading) preserves both senses: ‘ผู้นั้น’ allows the open ‘the-one (you-seek) / the-One (Yahweh-self-identification).’ The thai_summary at v.6 will surface the I-AM theophanic possibility." },
+        { "greek": "εἱστήκει δὲ καὶ Ἰούδας ὁ παραδιδοὺς αὐτὸν μετ’αὐτῶν", "thai": "ยูดาสผู้ทรยศพระองค์ก็ยืนอยู่กับพวกเขาด้วย", "rationale": "Per uW writing-background: background-clause inserting Judas's-position. The damning-detail — Judas-the-disciple-now-standing-with-arrest-party. PHRASE-LOCK with v.2: ὁ παραδιδοὺς → ผู้ทรยศ (lock)." }
+      ],
+      "notes": "Per uW figs-ellipsis + writing-background: ‘I am’ is the chapter's-most-loaded phrase. Per uW alt-meanings (1) simple-answer, (2) Yahweh-self-identification (cf. EXO 3:14 LXX, JHN 8:24, 8:28, 8:58). The arrest-party's drawing-back-and-falling in v.6 strongly favors theophanic-undertone — but translation preserves the open-multivalence."
+    }
+  },
+  {
+    "reference": "John 18:6",
+    "chapter": 18,
+    "verse": 6,
+    "greek": "ὡς οὖν εἶπεν αὐτοῖς·Ἐγώ εἰμι,ἀπῆλθον εἰς τὰ ὀπίσω καὶ ἔπεσαν χαμαί.",
+    "bsb_english": "When Jesus said, “I am He,” they drew back and fell to the ground.",
+    "translation": {
+      "thai": "เมื่อพระองค์ตรัสว่า “เราคือผู้นั้น” พวกเขาก็ถอยหลังและล้มลงที่พื้น",
+      "thai_literal": null,
+      "thai_summary": "การ “ถอยหลังและล้มลงที่พื้น” ในข้อนี้เป็นเครื่องบ่งชี้ว่า “เราคือผู้นั้น” (Ἐγώ εἰμι) ของพระเยซูไม่ใช่เพียงคำตอบธรรมดา แต่เป็นการประกาศพระนามแห่งพระเจ้า — “เราเป็นผู้ทรงดำรงอยู่” (อพยพ 3:14) ที่พระเจ้าทรงเปิดเผยแก่โมเสส ผู้คนล้มลงเพราะฤทธิ์อำนาจของพระคริสต์ที่ทรงสำแดงพระองค์ในชั่วขณะนั้น แม้ในเวลาที่ทรงถูกจับ พระคริสต์ก็ยังทรงสำแดงพระองค์ว่าเป็นใคร",
+      "key_decisions": [
+        { "greek": "ἀπῆλθον εἰς τὰ ὀπίσω καὶ ἔπεσαν χαμαί", "thai": "พวกเขาก็ถอยหลังและล้มลงที่พื้น", "rationale": "Per uW figs-explicit: the falling-down was involuntary-power-effect of Christ's-self-identification. NEW CORPUS-LOCK: εἰς τὰ ὀπίσω (idiom: backwards) → ถอยหลัง (move-backward). χαμαί ‘to-the-ground’ → ที่พื้น. The collapse-of-arrest-party at the ἐγώ εἰμι is one of the chapter's-most-theologically-loaded narrative-moments." }
+      ],
+      "notes": "Per uW figs-explicit: the involuntary-falling reveals Christ's-divine-power. Theological-pattern: even in the moment-of-arrest, Christ's-divine-identity manifests — those-who-came-to-take-him-by-force are first-laid-prostrate-by-his-word. The arrest-proceeds only-by-Christ's-permission (v.4 ‘knowing all coming-upon-him’ + v.8 ‘let these go’). PHRASE-LOCK with ἐγώ εἰμι v.5."
+    }
+  },
+  {
+    "reference": "John 18:7",
+    "chapter": 18,
+    "verse": 7,
+    "greek": "πάλιν οὖν ἐπηρώτησεν αὐτούς·Τίνα ζητεῖτε;οἱ δὲ εἶπαν·Ἰησοῦν τὸν Ναζωραῖον.",
+    "bsb_english": "So He asked them again, “Whom are you seeking?” “Jesus of Nazareth,” they answered.",
+    "translation": {
+      "thai": "พระองค์จึงตรัสถามพวกเขาอีกครั้งว่า “พวกท่านมาหาใคร?” พวกเขาตอบว่า “พระเยซูชาวนาซาเร็ธ”",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "πάλιν ... ἐπηρώτησεν ... Τίνα ζητεῖτε;", "thai": "ตรัสถามพวกเขาอีกครั้งว่า ‘พวกท่านมาหาใคร?’", "rationale": "PHRASE-LOCK with v.4 same question. The repetition reinforces Christ's-control-of-the-encounter — he-questions-them-again after their collapse, repeating the inquiry until they articulate-the-answer needed for v.8's ‘let these go’ deal." }
+      ],
+      "notes": "PHRASE-LOCK with v.4: same question Τίνα ζητεῖτε; The threefold sequence (question → ‘Jesus of Nazareth’ → ‘I am’ → fall) repeats, this time without the falling — Christ has-made-his-point about who-he-is, now uses the iteration to establish the basis for v.8's disciple-release."
+    }
+  },
+  {
+    "reference": "John 18:8",
+    "chapter": 18,
+    "verse": 8,
+    "greek": "ἀπεκρίθη Ἰησοῦς·Εἶπον ὑμῖν ὅτι ἐγώ εἰμι·εἰ οὖν ἐμὲ ζητεῖτε,ἄφετε τούτους ὑπάγειν·",
+    "bsb_english": "“I told you that I am He,” Jesus replied. “So if you are looking for Me, let these men go.”",
+    "translation": {
+      "thai": "พระเยซูตรัสตอบว่า “เราได้บอกพวกท่านแล้วว่าเราคือผู้นั้น ถ้าพวกท่านมาหาเรา ก็จงปล่อยคนเหล่านี้ไปเถิด”",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "ἄφετε τούτους ὑπάγειν", "thai": "จงปล่อยคนเหล่านี้ไปเถิด", "rationale": "Per uW figs-explicit: imperative ἄφετε commands the arrest-party. Christ's-pastoral-protection of disciples in the moment-of-arrest. PHRASE-LOCK with the protect-the-given-disciples theme of JHN 17:12." }
+      ],
+      "notes": "Per uW figs-explicit + figs-ellipsis: Christ's-substitutionary-pattern in narrative-form — ‘take me, let-them-go.’ The verbal-protect-the-disciples completes the protect-pattern of JHN 17:12. The disciples' release-by-arrest-party-acknowledgment establishes the v.9 fulfillment-claim."
+    }
+  },
+  {
+    "reference": "John 18:9",
+    "chapter": 18,
+    "verse": 9,
+    "greek": "ἵνα πληρωθῇ ὁ λόγος ὃν εἶπεν ὅτι Οὓς δέδωκάς μοι οὐκ ἀπώλεσα ἐξ αὐτῶν οὐδένα.",
+    "bsb_english": "This was to fulfill the word He had spoken: “I have not lost one of those You have given Me.”",
+    "translation": {
+      "thai": "ทั้งนี้เพื่อให้ถ้อยคำที่พระองค์ตรัสไว้นั้นสำเร็จ คือ ‘ในบรรดาผู้ที่พระองค์ทรงประทานแก่ข้าพระองค์ ข้าพระองค์มิได้สูญเสียผู้ใดเลย’",
+      "thai_literal": null,
+      "thai_summary": "ข้อนี้น่าสนใจเพราะใช้คำว่า “สำเร็จ” กับคำพูดของพระเยซูเอง (ไม่ใช่พระคัมภีร์เดิม) — ยอห์นเห็นว่าคำพูดของพระคริสต์มีอำนาจเทียบเท่ากับพระคำของพระเจ้าในฐานะที่เป็นพระวจนะที่ต้องสำเร็จ คำที่ถูกอ้างถึงคือ ยน. 6:39 และ ยน. 17:12 ซึ่งพระเยซูทรงสัญญาว่าพระองค์จะปกป้องสาวกที่พระบิดาทรงประทานแก่พระองค์ การที่พระองค์ทรงให้สาวกไปอย่างปลอดภัยที่นี่จึงเป็นการทำให้สัญญานั้นสำเร็จ",
+      "key_decisions": [
+        { "greek": "ἵνα πληρωθῇ ὁ λόγος ὃν εἶπεν", "thai": "ทั้งนี้เพื่อให้ถ้อยคำที่พระองค์ตรัสไว้นั้นสำเร็จ", "rationale": "Per uW writing-background + figs-activepassive: NOT an OT-fulfillment formula but a Christ's-own-word-fulfillment formula. The fulfilled-word refers to JHN 6:39 ‘that I lose nothing of all that he gave me’ + JHN 17:12 ‘not one of them was lost except the son of destruction.’ Per uW figs-metonymy: ὁ λόγος here = the-word-Christ-spoke-in-prayer." },
+        { "greek": "Οὓς δέδωκάς μοι οὐκ ἀπώλεσα ἐξ αὐτῶν οὐδένα", "thai": "‘ในบรรดาผู้ที่พระองค์ทรงประทานแก่ข้าพระองค์ ข้าพระองค์มิได้สูญเสียผู้ใดเลย’", "rationale": "Per uW figs-quotesinquotes: nested quote of Christ's-prior-prayer-saying. Curly-single-quotes ‘…’ per RULES §5b. Christ's prior-prayer-words echo with humble divine-Son register: ‘ข้าพระองค์’ (humble-I addressing-the-Father; matching JHN 17 high-priestly-prayer register). Royal ทรงประทาน (Father-giving)." }
+      ],
+      "notes": "Per uW writing-background + figs-activepassive + figs-metonymy + figs-quotesinquotes: NOT an OT-citation but inner-Johannine-fulfillment of Christ's-own-prior-words (JHN 6:39, 17:12). The ‘word-fulfilled’ formula applied to Christ's-own-speech parallels-the-OT-fulfillment formula — Christ's-words have the same authority-and-binding-character as Scripture. NOTE: this is NT-internal-fulfillment-of-Christ's-word, not OT-citation, hence no DB entry needed."
+    }
+  },
+  {
+    "reference": "John 18:10",
+    "chapter": 18,
+    "verse": 10,
+    "greek": "Σίμων οὖν Πέτρος ἔχων μάχαιραν εἵλκυσεν αὐτὴν καὶ ἔπαισεν τὸν τοῦ ἀρχιερέως δοῦλον καὶ ἀπέκοψεν αὐτοῦ τὸ ὠτάριον τὸ δεξιόν.ἦν δὲ ὄνομα τῷ δούλῳ Μάλχος.",
+    "bsb_english": "Then Simon Peter drew his sword and struck the servant of the high priest, cutting off his right ear. The servant’s name was Malchus.",
+    "translation": {
+      "thai": "ซีโมนเปโตรมีดาบเล่มหนึ่ง จึงชักออกมาฟันทาสของมหาปุโรหิต และตัดหูข้างขวาของเขาขาด ทาสคนนั้นชื่อมัลคัส",
+      "thai_literal": null,
+      "thai_summary": "เหตุการณ์นี้บันทึกในข่าวประเสริฐทั้งสี่เล่ม (มัทธิว 26:51, มาระโก 14:47, ลูกา 22:50, ยอห์น 18:10) — แต่มีเพียงยอห์นเท่านั้นที่ระบุชื่อ “ซีโมนเปโตร” และ “มัลคัส” มัลคัสเป็นชื่อที่พบบ่อยในสมัยนั้นในเขตพาลไมราและนาบาเทีย — เป็นไปได้ว่าผู้เขียนข่าวประเสริฐยอห์นรู้จักครอบครัวของมหาปุโรหิตเป็นการส่วนตัว (เปรียบเทียบ ข้อ 15-16) จึงรู้ชื่อทาสคนนี้",
+      "key_decisions": [
+        { "greek": "ἔχων μάχαιραν εἵλκυσεν αὐτὴν καὶ ἔπαισεν", "thai": "มีดาบเล่มหนึ่ง จึงชักออกมาฟัน", "rationale": "NEW CORPUS-LOCK: μάχαιρα → ดาบ (sword; specifically dagger/short-sword per uW figs-explicit). Per uW alt: ‘dagger’ — the small-sword of personal-defense. Translation preserves ‘ดาบ’ (sword) without forcing dagger-specific reading." },
+        { "greek": "ἀπέκοψεν αὐτοῦ τὸ ὠτάριον τὸ δεξιόν", "thai": "ตัดหูข้างขวาของเขาขาด", "rationale": "NEW CORPUS-LOCK: ὠτάριον (and ὠτίον at v.26) → หู (ear; Thai uses same word for both diminutive forms). The ‘right-ear’ specificity preserved (only Luke + John specify right; Matthew + Mark generic). ἀπέκοψεν aor.indicative ‘cut-off-completely’ → ‘ตัด ... ขาด’ (cut-it-off-completely)." },
+        { "greek": "ἦν δὲ ὄνομα τῷ δούλῳ Μάλχος", "thai": "ทาสคนนั้นชื่อมัลคัส", "rationale": "HAPAX-PROPER-NOUN: Μάλχος (Malchus). NEW PROPER-NOUN-LOCK: Μάλχος → มัลคัส (Malchus; standard Christian-Thai transliteration). Only-John-of-the-Synoptics names the servant — possible-eyewitness-detail of the apostle-author who knew the high-priest's-household (cf. v.15-16)." }
+      ],
+      "notes": "Per uW figs-explicit + translate-names: synoptic-parallel — only-John names Simon-Peter and Malchus among the Gospels. Theological-pattern: Peter's-violent-defense will-be-rebuked in v.11; Christ's-non-resistant-passion-pattern reasserted. HAPAX-PROPER-NOUN: Μάλχος. Luke alone records the healing of the ear (LUK 22:51) — John only narrates the strike."
+    }
+  },
+  {
+    "reference": "John 18:11",
+    "chapter": 18,
+    "verse": 11,
+    "greek": "εἶπεν οὖν ὁ Ἰησοῦς τῷ Πέτρῳ·Βάλε τὴν μάχαιραν εἰς τὴν θήκην·τὸ ποτήριον ὃ δέδωκέν μοι ὁ πατὴρ οὐ μὴ πίω αὐτό;",
+    "bsb_english": "“Put your sword back in its sheath!” Jesus said to Peter. “Shall I not drink the cup the Father has given Me?”",
+    "translation": {
+      "thai": "พระเยซูจึงตรัสกับเปโตรว่า “จงเก็บดาบใส่ฝัก ถ้วยที่พระบิดาทรงประทานแก่เรา เราจะไม่ดื่มหรือ?”",
+      "thai_literal": null,
+      "thai_summary": "“ถ้วย” เป็นภาพในพระคัมภีร์เดิมแทนการพิพากษาของพระเจ้าที่จะถูกเทลงบน (เปรียบเทียบ อิสยาห์ 51:17 “ถ้วยแห่งพระพิโรธของพระยาห์เวห์” เยเรมีย์ 25:15 “ถ้วยน้ำองุ่นแห่งความพิโรธ”) ที่นี่หมายถึงความทุกข์ทรมานบนกางเขนที่พระบิดาทรงให้แก่พระบุตรเพื่อรับโทษบาปแทนเรา ในเกทเสมนีพระเยซูทรงอธิษฐานก่อนหน้านี้ว่า “ขอให้ถ้วยนี้ผ่านพ้นไป ... ถึงกระนั้นอย่าให้เป็นไปตามใจของข้าพระองค์” (มัทธิว 26:39) บัดนี้พระองค์ทรงรับคำตอบของพระบิดาด้วยความเต็มใจ",
+      "key_decisions": [
+        { "greek": "Βάλε τὴν μάχαιραν εἰς τὴν θήκην", "thai": "จงเก็บดาบใส่ฝัก", "rationale": "HAPAX: θήκη (sheath; NT-only-occurrence). NEW CORPUS-LOCK: θήκη → ฝัก (sheath/scabbard; standard Thai for sword-case). Christ's-rebuke of armed-resistance grounds Christian-non-violence-tradition (cf. MAT 26:52-54)." },
+        { "greek": "τὸ ποτήριον ὃ δέδωκέν μοι ὁ πατὴρ οὐ μὴ πίω αὐτό", "thai": "ถ้วยที่พระบิดาทรงประทานแก่เรา เราจะไม่ดื่มหรือ?", "rationale": "Per uW figs-rquestion + figs-metaphor: rhetorical-question form for emphatic-affirmation (‘I shall certainly drink it’). NEW CORPUS-LOCK: τὸ ποτήριον (the-cup-of-suffering metaphor) → ถ้วย (cup). Per uW figs-metaphor: cup = bitter-suffering-given-by-the-Father (OT-imagery from ISA 51:17, JER 25:15-17, LAM 4:21, EZE 23:31-34, PSA 75:8). Royal ทรงประทาน on Father-giving-cup." }
+      ],
+      "notes": "Per uW figs-rquestion + figs-metaphor + guidelines-sonofgodprinciples: HAPAX θήκη + the cup-metaphor. The cup-of-the-Father = the wrath-bearing-suffering-cup of OT-judgment-imagery. Christ's-acceptance-of-the-cup is the obedient-Son-pattern that JHN 17 prayed-into-action. PHRASE-LOCK with synoptic Gethsemane-prayer (MAT 26:39, MRK 14:36, LUK 22:42) which-John-omits but-here-references-via-the-cup-imagery."
+    }
+  },
+  {
+    "reference": "John 18:12",
+    "chapter": 18,
+    "verse": 12,
+    "greek": "Ἡ οὖν σπεῖρα καὶ ὁ χιλίαρχος καὶ οἱ ὑπηρέται τῶν Ἰουδαίων συνέλαβον τὸν Ἰησοῦν καὶ ἔδησαν αὐτὸν",
+    "bsb_english": "Then the band of soldiers, with its commander and the officers of the Jews, arrested Jesus and bound Him.",
+    "translation": {
+      "thai": "ดังนั้นกองทหาร นายพัน และเจ้าหน้าที่ของพวกยิวจึงจับพระเยซูและมัดพระองค์ไว้",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "ὁ χιλίαρχος", "thai": "นายพัน", "rationale": "NEW CORPUS-LOCK: χιλίαρχος → นายพัน (commander-of-a-thousand / military-tribune). Standard Christian-Thai for the Roman-officer-rank. Will recur ACT 21-25 (Paul's-arrest passages)." },
+        { "greek": "οἱ ὑπηρέται τῶν Ἰουδαίων", "thai": "เจ้าหน้าที่ของพวกยิว", "rationale": "Per uW figs-synecdoche: τῶν Ἰουδαίων here = Jewish-leaders (not Jews-in-general). Translation preserves ‘พวกยิว’ literally — Thai readers in religious-context recognize the Jewish-authorities sense from the broader-narrative (chief priests + Pharisees v.3). Lock established at JHN 1:19 + many subsequent." },
+        { "greek": "συνέλαβον τὸν Ἰησοῦν καὶ ἔδησαν αὐτὸν", "thai": "จึงจับพระเยซูและมัดพระองค์ไว้", "rationale": "NEW CORPUS-LOCK: δέω (binding-prisoner) → มัด (tie/bind). Per uW figs-explicit: bound-his-hands-to-prevent-escape. The arrest-completion." }
+      ],
+      "notes": "Per uW figs-synecdoche + figs-explicit: arrest-completed. The Roman-Jewish combined-arrest-force binds Christ. The binding-image will continue (v.24 ‘still bound’ to Caiaphas) — physical-bondage of the One-who-came-to-set-prisoners-free (cf. ISA 61:1, LUK 4:18)."
+    }
+  },
+  {
+    "reference": "John 18:13",
+    "chapter": 18,
+    "verse": 13,
+    "greek": "καὶ ἤγαγον πρὸς Ἅνναν πρῶτον·ἦν γὰρ πενθερὸς τοῦ Καϊάφα,ὃς ἦν ἀρχιερεὺς τοῦ ἐνιαυτοῦ ἐκείνου·",
+    "bsb_english": "They brought Him first to Annas, who was the father-in-law of Caiaphas, the high priest that year.",
+    "translation": {
+      "thai": "พวกเขาพาพระองค์ไปหาอันนาสก่อน เพราะอันนาสเป็นพ่อตาของคายาฟาส ซึ่งเป็นมหาปุโรหิตในปีนั้น",
+      "thai_literal": null,
+      "thai_summary": "ในเวลานั้นการเมืองของตำแหน่งมหาปุโรหิตซับซ้อน — ฝ่ายโรมันได้ปลดอันนาสในปี ค.ศ. 15 และแต่งตั้งคายาฟาสซึ่งเป็นบุตรเขย แต่ชาวยิวยังถือว่าอันนาสเป็นมหาปุโรหิตที่แท้จริงตามธรรมบัญญัติ ดังนั้นจึงพาพระเยซูไปหาเขาก่อน อันนาสและคายาฟาสจึงถือเป็นมหาปุโรหิตทั้งคู่ในเวลาเดียวกัน — สถานการณ์ทางการเมืองที่ผิดปกติ",
+      "key_decisions": [
+        { "greek": "Ἅννας", "thai": "อันนาส", "rationale": "NEW PROPER-NOUN-LOCK: Ἅννας → อันนาส (Annas; standard Christian-Thai transliteration). Will recur v.24. Cf. LUK 3:2, ACT 4:6." },
+        { "greek": "Καϊάφα", "thai": "คายาฟาส", "rationale": "NEW PROPER-NOUN-LOCK: Καϊάφας (lemma; here genitive Καϊάφα) → คายาฟาส (Caiaphas; standard Christian-Thai transliteration). PHRASE-LOCK with JHN 11:49 (where Caiaphas first appears as the year's-high-priest who prophesied)." },
+        { "greek": "πενθερὸς τοῦ Καϊάφα", "thai": "พ่อตาของคายาฟาส", "rationale": "HAPAX: πενθερός (father-in-law; NT-only-occurrence as masculine). NEW CORPUS-LOCK: πενθερός → พ่อตา (father-of-wife; standard Thai). Family-relationship explained per uW figs-explicit." },
+        { "greek": "ἀρχιερεὺς τοῦ ἐνιαυτοῦ ἐκείνου", "thai": "มหาปุโรหิตในปีนั้น", "rationale": "NEW CORPUS-LOCK: ἀρχιερεύς (singular, official-title) → มหาปุโรหิต (high-priest; standard Christian-Thai). Distinct from plural ἀρχιερεῖς → พวกหัวหน้าปุโรหิต (chief-priests-collective)." }
+      ],
+      "notes": "Per uW figs-explicit + translate-names: HAPAX πενθερός + new-proper-nouns Ἅννας + Καϊάφας. Politically-complex period: Romans had-deposed-Annas (ca. AD 15) and appointed Caiaphas (his son-in-law); Jews still considered Annas the legitimate-high-priest. Hence the trial-before-Annas-first pattern. JHN 18 vv.15-23 will detail the Annas-interrogation; v.24 sends Christ to Caiaphas."
+    }
+  },
+  {
+    "reference": "John 18:14",
+    "chapter": 18,
+    "verse": 14,
+    "greek": "ἦν δὲ Καϊάφας ὁ συμβουλεύσας τοῖς Ἰουδαίοις ὅτι συμφέρει ἕνα ἄνθρωπον ἀποθανεῖν ὑπὲρ τοῦ λαοῦ.",
+    "bsb_english": "Caiaphas was the one who had advised the Jews that it would be better if one man died for the people.",
+    "translation": {
+      "thai": "คายาฟาสเป็นผู้ที่แนะนำพวกยิวว่า จะเป็นการดีกว่าถ้าคนหนึ่งตายแทนประชาชน",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "συμφέρει ἕνα ἄνθρωπον ἀποθανεῖν ὑπὲρ τοῦ λαοῦ", "thai": "จะเป็นการดีกว่าถ้าคนหนึ่งตายแทนประชาชน", "rationale": "PHRASE-LOCK with JHN 11:50: same-Caiaphas-saying (now-back-referenced). Per uW figs-ellipsis: alt-completion ‘than-let-the-Romans-kill-all.’ Translation preserves the literal saying with implicit-‘แทน’ (in-place-of) — the unwitting-prophecy of substitutionary-atonement." }
+      ],
+      "notes": "Per uW writing-background + figs-ellipsis: PHRASE-LOCK with JHN 11:49-52 (Caiaphas's-unwitting-prophecy). Background-info on Caiaphas — prophesied-without-knowing the substitutionary-meaning of Christ's-death. Theological-irony: the high-priest's-political-calculation becomes-the-prophecy of redemption-theology."
+    }
+  },
+  {
+    "reference": "John 18:15",
+    "chapter": 18,
+    "verse": 15,
+    "greek": "Ἠκολούθει δὲ τῷ Ἰησοῦ Σίμων Πέτρος καὶ ἄλλος μαθητής.ὁ δὲ μαθητὴς ἐκεῖνος ἦν γνωστὸς τῷ ἀρχιερεῖ καὶ συνεισῆλθεν τῷ Ἰησοῦ εἰς τὴν αὐλὴν τοῦ ἀρχιερέως,",
+    "bsb_english": "Now Simon Peter and another disciple were following Jesus. Since that disciple was known to the high priest, he also went with Jesus into the courtyard of the high priest.",
+    "translation": {
+      "thai": "ซีโมนเปโตรกับสาวกอีกคนหนึ่งติดตามพระเยซูไป สาวกคนนั้นเป็นที่รู้จักของมหาปุโรหิต จึงเข้าไปกับพระเยซูในลานบ้านของมหาปุโรหิต",
+      "thai_literal": null,
+      "thai_summary": "“สาวกอีกคนหนึ่ง” ตามการตีความหลักของคริสตจักรมีน่าจะเป็นยอห์นอัครทูตเอง ผู้เขียนข่าวประเสริฐนี้ — เปรียบเทียบกับ “สาวกผู้ที่พระเยซูทรงรัก” ที่ปรากฏในยน. 13:23, 19:26, 20:2 ยอห์นถ่อมตนไม่ระบุชื่อตัวเอง แต่ระบุรายละเอียดที่เพียงเท่าผู้เห็นเหตุการณ์เท่านั้นจึงรู้ — เช่น การรู้จักครอบครัวของมหาปุโรหิตและรู้ชื่อทาสมัลคัสในข้อ 10",
+      "key_decisions": [
+        { "greek": "ἄλλος μαθητής", "thai": "สาวกอีกคนหนึ่ง", "rationale": "Per uW figs-explicit: alt-meanings — (1) the apostle John (the-disciple-whom-Jesus-loved tradition), (2) an unknown-disciple. Translation preserves the open ‘สาวกอีกคนหนึ่ง’ (another-disciple). Mainstream-evangelical-reading (1): the John-the-author humbly self-references." },
+        { "greek": "ἦν γνωστὸς τῷ ἀρχιερεῖ", "thai": "เป็นที่รู้จักของมหาปุโรหิต", "rationale": "Per uW figs-explicit: ‘the high priest’ here per uW vv.15-23 = Annas (per v.13 + v.24). The disciple's-acquaintance-with-Annas's-household is the entry-point that allows Peter-to-be-brought-into-the-courtyard." },
+        { "greek": "εἰς τὴν αὐλὴν τοῦ ἀρχιερέως", "thai": "ในลานบ้านของมหาปุโรหิต", "rationale": "NEW CORPUS-LOCK: αὐλή → ลานบ้าน (courtyard; standard Thai for outdoor-enclosed-area-of-house). Distinct from οἶκος (house-as-building) and from ἱερόν (temple-precincts)." }
+      ],
+      "notes": "Per uW figs-explicit + figs-activepassive: the disciple-of-position (likely-John-the-apostle per Christian-tradition) gains-access-via-acquaintance. The detail-of-knowing-the-high-priest's-household supports John-authorship-tradition. NEW CORPUS-LOCK: αὐλή → ลานบ้าน."
+    }
+  },
+  {
+    "reference": "John 18:16",
+    "chapter": 18,
+    "verse": 16,
+    "greek": "ὁ δὲ Πέτρος εἱστήκει πρὸς τῇ θύρᾳ ἔξω.ἐξῆλθεν οὖν ὁ μαθητὴς ὁ ἄλλος ὁ γνωστὸς τοῦ ἀρχιερέως καὶ εἶπεν τῇ θυρωρῷ καὶ εἰσήγαγεν τὸν Πέτρον.",
+    "bsb_english": "But Peter stood outside at the door. Then the disciple who was known to the high priest went out and spoke to the doorkeeper, and brought Peter in.",
+    "translation": {
+      "thai": "แต่เปโตรยืนอยู่ข้างนอกที่ประตู สาวกอีกคนหนึ่งซึ่งเป็นที่รู้จักของมหาปุโรหิตจึงออกมาพูดกับหญิงผู้เฝ้าประตู แล้วพาเปโตรเข้ามา",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "πρὸς τῇ θύρᾳ ἔξω", "thai": "ข้างนอกที่ประตู", "rationale": "θύρα → ประตู (door; standard). Peter at-the-courtyard-entrance — outside-the-action initially." },
+        { "greek": "ἐξῆλθεν ... καὶ εἶπεν τῇ θυρωρῷ καὶ εἰσήγαγεν τὸν Πέτρον", "thai": "ออกมาพูดกับหญิงผู้เฝ้าประตู แล้วพาเปโตรเข้ามา", "rationale": "NEW CORPUS-LOCK: θυρωρός (feminine here, hence ‘doorkeeper-woman’) → หญิงผู้เฝ้าประตู (woman-door-watcher). The other-disciple's-intervention sets-up Peter's-vulnerable-position-by-the-fire." }
+      ],
+      "notes": "Per uW figs-explicit: the other-disciple's-mediation. The doorkeeper is feminine — same-woman who-will-question-Peter in v.17. Theological-pattern: Peter's-entry-into-the-trap is itself-via-disciple-help — irony that the disciple-network leads-to-the-denial-context."
+    }
+  },
+  {
+    "reference": "John 18:17",
+    "chapter": 18,
+    "verse": 17,
+    "greek": "λέγει οὖν τῷ Πέτρῳ ἡ παιδίσκη ἡ θυρωρός·Μὴ καὶ σὺ ἐκ τῶν μαθητῶν εἶ τοῦ ἀνθρώπου τούτου;λέγει ἐκεῖνος·Οὐκ εἰμί.",
+    "bsb_english": "At this, the servant girl watching the door said to Peter, “Aren’t you also one of this man’s disciples?” “I am not,” he answered.",
+    "translation": {
+      "thai": "หญิงสาวใช้ผู้เฝ้าประตูจึงถามเปโตรว่า “ท่านก็เป็นสาวกของชายคนนี้ด้วยมิใช่หรือ?” เปโตรตอบว่า “ข้าไม่ได้เป็น”",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "ἡ παιδίσκη ἡ θυρωρός", "thai": "หญิงสาวใช้ผู้เฝ้าประตู", "rationale": "NEW CORPUS-LOCK: παιδίσκη → สาวใช้ (servant-girl; female-slave). Combined-with θυρωρός: ‘หญิงสาวใช้ผู้เฝ้าประตู’ (woman-servant-girl who-watches-the-door)." },
+        { "greek": "Μὴ καὶ σὺ ἐκ τῶν μαθητῶν εἶ τοῦ ἀνθρώπου τούτου;", "thai": "ท่านก็เป็นสาวกของชายคนนี้ด้วยมิใช่หรือ?", "rationale": "Per uW figs-rquestion: rhetorical-question with μή (expecting negative-answer) — ‘surely you are not also...?’ But Peter's-answer ‘ข้าไม่ได้เป็น’ confirms the denial. Thai ‘มิใช่หรือ?’ tag preserves the rhetorical-question expectation." },
+        { "greek": "Οὐκ εἰμί", "thai": "ข้าไม่ได้เป็น", "rationale": "Per uW figs-explicit: Peter's first-denial. Bare ‘ข้า’ (lower-register-1st-person; for Peter speaking-to-servant-girl in casual/defensive register) — NOT the high-register ‘ข้าพระองค์’ Peter would-use addressing-Christ. The bare-low-register marks Peter's-unguarded-denial." }
+      ],
+      "notes": "Per uW figs-rquestion + figs-explicit: Peter's-first-denial fulfills Christ's-prediction (JHN 13:38 ‘before the rooster crows you will deny me three times’). The casual-low-register ‘ข้าไม่ได้เป็น’ contrasts ironically with Peter's-earlier-elevated-confessions (JHN 6:68 ‘to whom shall we go?’ + JHN 13:37 ‘I will lay down my life for you’)."
+    }
+  },
+  {
+    "reference": "John 18:18",
+    "chapter": 18,
+    "verse": 18,
+    "greek": "εἱστήκεισαν δὲ οἱ δοῦλοι καὶ οἱ ὑπηρέται ἀνθρακιὰν πεποιηκότες,ὅτι ψῦχος ἦν,καὶ ἐθερμαίνοντο·ἦν δὲ καὶ ὁ Πέτρος μετ’αὐτῶν ἑστὼς καὶ θερμαινόμενος.",
+    "bsb_english": "Because it was cold, the servants and officers were standing around a charcoal fire they had made to keep warm. And Peter was also standing with them, warming himself.",
+    "translation": {
+      "thai": "เนื่องจากอากาศหนาว พวกทาสและเจ้าหน้าที่จึงก่อกองไฟถ่านและยืนผิงไฟอยู่ และเปโตรก็ยืนอยู่กับพวกเขาและผิงไฟด้วย",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "ἀνθρακιὰν πεποιηκότες", "thai": "ก่อกองไฟถ่าน", "rationale": "NEW CORPUS-LOCK: ἀνθρακιά → กองไฟถ่าน (charcoal-fire; specific Greek-term distinct from generic πῦρ ‘fire’). Will recur uniquely-paired at JHN 21:9 (post-resurrection breakfast on the beach — only-NT recurrence, deliberate Johannine-bookend echoing this denial-fire)." },
+        { "greek": "ψῦχος ἦν,καὶ ἐθερμαίνοντο", "thai": "อากาศหนาว ... ผิงไฟอยู่", "rationale": "NEW CORPUS-LOCKS: ψῦχος → อากาศหนาว (cold-weather); θερμαίνομαι → ผิงไฟ (warm-self-by-fire). The cold-night detail anchors the historicity — Passover-season Jerusalem-spring-nights are cold." }
+      ],
+      "notes": "Per uW writing-background + figs-infostructure: cold-night-detail. The ἀνθρακιά (‘charcoal-fire’) is a Johannine-bookend — the SAME Greek-word recurs only-once-more in NT, at JHN 21:9 (post-resurrection breakfast on the beach), where the SAME Peter who-denied-by-this-fire will-be-restored-by-that-fire. NEW CORPUS-LOCKS: ἀνθρακιά, ψῦχος, θερμαίνομαι."
+    }
+  },
+  {
+    "reference": "John 18:19",
+    "chapter": 18,
+    "verse": 19,
+    "greek": "Ὁ οὖν ἀρχιερεὺς ἠρώτησεν τὸν Ἰησοῦν περὶ τῶν μαθητῶν αὐτοῦ καὶ περὶ τῆς διδαχῆς αὐτοῦ.",
+    "bsb_english": "Meanwhile, the high priest questioned Jesus about His disciples and His teaching.",
+    "translation": {
+      "thai": "ขณะนั้นมหาปุโรหิตได้ซักถามพระเยซูเกี่ยวกับเหล่าสาวกและคำสอนของพระองค์",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "ὁ ἀρχιερεὺς", "thai": "มหาปุโรหิต", "rationale": "Per uW figs-explicit: per v.13 + v.24 this ἀρχιερεύς in vv.15-23 = Annas. Translation preserves bare ‘มหาปุโรหิต’ — Thai readers in narrative-context can hear Annas-context from v.13's mention." },
+        { "greek": "περὶ τῶν μαθητῶν αὐτοῦ καὶ περὶ τῆς διδαχῆς αὐτοῦ", "thai": "เกี่ยวกับเหล่าสาวกและคำสอนของพระองค์", "rationale": "NEW CORPUS-LOCK: διδαχή → คำสอน (teaching; doctrine; standard Christian-Thai). Two-fold-interrogation focuses: (1) the followers, (2) the message — political-investigation pattern." }
+      ],
+      "notes": "Per uW figs-explicit: Annas's-interrogation begins. The two-fold-question (disciples + teaching) probes for sedition-evidence — cult-leader looking-for-political-charge."
+    }
+  },
+  {
+    "reference": "John 18:20",
+    "chapter": 18,
+    "verse": 20,
+    "greek": "ἀπεκρίθη αὐτῷ Ἰησοῦς·Ἐγὼ παρρησίᾳ λελάληκα τῷ κόσμῳ·ἐγὼ πάντοτε ἐδίδαξα ἐν συναγωγῇ καὶ ἐν τῷ ἱερῷ,ὅπου πάντες οἱ Ἰουδαῖοι συνέρχονται,καὶ ἐν κρυπτῷ ἐλάλησα οὐδέν·",
+    "bsb_english": "“I have spoken openly to the world,” Jesus answered. “I always taught in the synagogues and at the temple, where all the Jews come together. I said nothing in secret.",
+    "translation": {
+      "thai": "พระเยซูตรัสตอบว่า “เราได้กล่าวต่อชาวโลกอย่างเปิดเผย เราสอนในธรรมศาลาและในพระวิหารตลอดมา ที่ซึ่งชาวยิวทั้งหลายมาประชุมกัน เราไม่ได้กล่าวสิ่งใดในที่ลับเลย",
+      "thai_literal": null,
+      "thai_summary": "พระเยซูทรงปฏิเสธข้อกล่าวหาว่าเป็นผู้นำลัทธิลับ — คำสอนของพระองค์ทุกประการเปิดเผยในธรรมศาลาและพระวิหาร ในที่สาธารณะที่สุดของกรุงเยรูซาเล็ม การที่อันนาสซักถามถึง “คำสอน” ของพระองค์ในห้องส่วนตัวลับ ๆ ขัดกับธรรมบัญญัติยิวที่เรียกร้องให้สอบถามพยานก่อน (เปรียบเทียบ ฉธบ. 19:15) พระเยซูทรงเรียกร้องกระบวนการที่ถูกต้องตามธรรมบัญญัติ — “จงถามผู้ที่ได้ยิน”",
+      "key_decisions": [
+        { "greek": "παρρησίᾳ λελάληκα τῷ κόσμῳ", "thai": "เราได้กล่าวต่อชาวโลกอย่างเปิดเผย", "rationale": "PHRASE-LOCK with JHN 16:25, 16:29: παρρησία → อย่างเปิดเผย (openly). Per uW figs-hyperbole: ‘to the world’ = ‘publicly to all-people.’ Thai ‘ชาวโลก’ (people-of-the-world) preserves the wide-public-audience scope." },
+        { "greek": "ἐν συναγωγῇ καὶ ἐν τῷ ἱερῷ", "thai": "ในธรรมศาลาและในพระวิหาร", "rationale": "Per uW figs-genericnoun + figs-hyperbole: συναγωγή (generic) and ἱερόν (specific Jerusalem-temple). PHRASE-LOCK: συναγωγή → ธรรมศาลา (RULES §4); ἱερόν → พระวิหาร (royal-temple-precincts; lock from synoptic). The two-locus-of-Jewish-public-discourse — Jesus-as-public-rabbi, not secret-society leader." },
+        { "greek": "ἐν κρυπτῷ ἐλάλησα οὐδέν", "thai": "เราไม่ได้กล่าวสิ่งใดในที่ลับเลย", "rationale": "NEW CORPUS-LOCK: ἐν κρυπτῷ → ในที่ลับ (in secret). Christ's-public-ministry contra Annas's-implied-suspicion-of-secret-conspiracy." }
+      ],
+      "notes": "Per uW figs-metonymy + figs-hyperbole + figs-genericnoun + figs-explicit: Christ's-defense of his open-public-ministry. The implicit-rebuke: ‘you are violating Jewish-procedure by interrogating-me-secretly when-my-ministry-was-public; ask-the-witnesses.’ Theological-pattern: Christ-the-defendant invokes-the-rule-of-law against-the-irregular-tribunal."
+    }
+  },
+  {
+    "reference": "John 18:21",
+    "chapter": 18,
+    "verse": 21,
+    "greek": "τί με ἐρωτᾷς;ἐρώτησον τοὺς ἀκηκοότας τί ἐλάλησα αὐτοῖς·ἴδε οὗτοι οἴδασιν ἃ εἶπον ἐγώ.",
+    "bsb_english": "Why are you asking Me? Ask those who heard My message. Surely they know what I said.",
+    "translation": {
+      "thai": "ทำไมท่านถึงซักถามเรา? จงถามผู้ที่ได้ยินสิ่งที่เรากล่าวกับพวกเขา ดูเถิด คนเหล่านั้นรู้ว่าเราได้กล่าวอะไร",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "τί με ἐρωτᾷς;", "thai": "ทำไมท่านถึงซักถามเรา?", "rationale": "Per uW figs-rquestion: rhetorical-question rebuking the-improper-interrogation. Christ addresses Annas as ‘ท่าน’ (formal-2nd-person) — appropriate-respectful register even toward hostile-interrogator." },
+        { "greek": "ἐρώτησον τοὺς ἀκηκοότας", "thai": "จงถามผู้ที่ได้ยิน", "rationale": "Imperative ‘ask-the-hearers’ — invocation of proper-Jewish-judicial-procedure (witnesses-first per DEU 19:15). Christ-the-defendant takes-the-procedural-high-ground." },
+        { "greek": "ἴδε", "thai": "ดูเถิด", "rationale": "Per uW figs-metaphor: ἴδε attention-marker. Standard Christian-Thai ‘ดูเถิด’ (behold; take-notice)." }
+      ],
+      "notes": "Per uW figs-rquestion + figs-metaphor: Christ-invokes-Jewish-judicial-procedure. The principle (DEU 19:15 ‘by mouth of two or three witnesses’) requires-witnesses-not-defendant-self-incrimination. Implicit-rebuke of irregular-tribunal that-seeks confession-from-defendant rather than testimony-from-witnesses."
+    }
+  },
+  {
+    "reference": "John 18:22",
+    "chapter": 18,
+    "verse": 22,
+    "greek": "ταῦτα δὲ αὐτοῦ εἰπόντος εἷς παρεστηκὼς τῶν ὑπηρετῶν ἔδωκεν ῥάπισμα τῷ Ἰησοῦ εἰπών·Οὕτως ἀποκρίνῃ τῷ ἀρχιερεῖ;",
+    "bsb_english": "When Jesus had said this, one of the officers standing nearby slapped Him in the face and said, “Is this how You answer the high priest?”",
+    "translation": {
+      "thai": "เมื่อพระองค์ตรัสดังนี้ เจ้าหน้าที่คนหนึ่งที่ยืนอยู่ใกล้ก็ตบพระพักตร์ของพระเยซูและกล่าวว่า “นี่หรือคือวิธีที่ท่านตอบมหาปุโรหิต?”",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "ἔδωκεν ῥάπισμα τῷ Ἰησοῦ", "thai": "ตบพระพักตร์ของพระเยซู", "rationale": "NEW CORPUS-LOCK: ῥάπισμα (slap-on-the-face) → ตบพระพักตร์ (royal-slap-on-face). Royal พระพักตร์ (royal-face) since divine subject. The face-slap is the ultimate-insult in Mediterranean honor-shame culture." },
+        { "greek": "Οὕτως ἀποκρίνῃ τῷ ἀρχιερεῖ;", "thai": "นี่หรือคือวิธีที่ท่านตอบมหาปุโรหิต?", "rationale": "Per uW figs-rquestion: rhetorical-question rebuke from-the-officer. The officer's question-form preserves the indignation-tone." }
+      ],
+      "notes": "Per uW figs-rquestion + writing-quotations: the unjust-physical-violence against-defendant-during-questioning. Christ's-procedural-rebuke (v.21) provokes-physical-retaliation. Pattern: irregular-tribunal + face-slap = clear-violation-of-Jewish-judicial-norms (Tractate Sanhedrin)."
+    }
+  },
+  {
+    "reference": "John 18:23",
+    "chapter": 18,
+    "verse": 23,
+    "greek": "ἀπεκρίθη αὐτῷ Ἰησοῦς·Εἰ κακῶς ἐλάλησα,μαρτύρησον περὶ τοῦ κακοῦ·εἰ δὲ καλῶς,τί με δέρεις;",
+    "bsb_english": "Jesus replied, “If I said something wrong, testify as to what was wrong. But if I spoke correctly, why did you strike Me?”",
+    "translation": {
+      "thai": "พระเยซูตรัสตอบเขาว่า “ถ้าเราพูดผิด จงเป็นพยานถึงสิ่งที่ผิดนั้น แต่ถ้าเราพูดถูก ทำไมท่านจึงตีเรา?”",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "Εἰ κακῶς ἐλάλησα,μαρτύρησον περὶ τοῦ κακοῦ·εἰ δὲ καλῶς,τί με δέρεις;", "thai": "ถ้าเราพูดผิด จงเป็นพยานถึงสิ่งที่ผิดนั้น แต่ถ้าเราพูดถูก ทำไมท่านจึงตีเรา?", "rationale": "Per uW figs-rquestion: dual-rhetorical-construction. Christ's-response-to-violence is dignified-procedural — calling-for-testimony-of-wrong rather than retaliating. NEW CORPUS-LOCK: δέρω (strike/beat) → ตี (strike). Translation preserves the Christian-non-retaliation pattern (cf. 1 PET 2:23 ‘when reviled, he did not revile in return’)." }
+      ],
+      "notes": "Per uW figs-rquestion: model-of-non-retaliation. Christ's-procedural-response after-being-struck preserves the rule-of-law pattern. Theological-pattern: 1 PET 2:21-23's Christ-as-suffering-servant-model rooted-here. The trial-irregularity becomes-clearer through Christ's-procedural-objections."
+    }
+  },
+  {
+    "reference": "John 18:24",
+    "chapter": 18,
+    "verse": 24,
+    "greek": "ἀπέστειλεν οὖν αὐτὸν ὁ Ἅννας δεδεμένον πρὸς Καϊάφαν τὸν ἀρχιερέα.",
+    "bsb_english": "Then Annas sent Him, still bound, to Caiaphas the high priest.",
+    "translation": {
+      "thai": "อันนาสจึงส่งพระองค์ที่ยังถูกมัดอยู่ไปยังคายาฟาสมหาปุโรหิต",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "ἀπέστειλεν ... αὐτὸν ὁ Ἅννας δεδεμένον πρὸς Καϊάφαν", "thai": "อันนาสจึงส่งพระองค์ที่ยังถูกมัดอยู่ไปยังคายาฟาส", "rationale": "Annas-to-Caiaphas transfer. The δεδεμένον (perfect-passive participle ‘still-bound’) preserves the continuous-bondage from v.12. Two-stage trial: Annas (informal preliminary) → Caiaphas (formal Sanhedrin). Translation preserves the still-bound state and proper-name transitions." }
+      ],
+      "notes": "Per uW figs-explicit: Annas-Caiaphas transfer. JHN omits the formal-Sanhedrin-trial-before-Caiaphas (covered in synoptics MAT 26:57-68, MRK 14:53-65, LUK 22:54-71) and skips-directly-to Pilate in v.28. The still-bound state continues from v.12 to v.28."
+    }
+  },
+  {
+    "reference": "John 18:25",
+    "chapter": 18,
+    "verse": 25,
+    "greek": "Ἦν δὲ Σίμων Πέτρος ἑστὼς καὶ θερμαινόμενος.εἶπον οὖν αὐτῷ·Μὴ καὶ σὺ ἐκ τῶν μαθητῶν αὐτοῦ εἶ;ἠρνήσατο ἐκεῖνος καὶ εἶπεν·Οὐκ εἰμί.",
+    "bsb_english": "Simon Peter was still standing and warming himself. So they asked him, “Aren’t you also one of His disciples?” He denied it and said, “I am not.”",
+    "translation": {
+      "thai": "ส่วนซีโมนเปโตรยังคงยืนผิงไฟอยู่ พวกเขาจึงถามเขาว่า “ท่านก็เป็นสาวกของเขาด้วยมิใช่หรือ?” เปโตรปฏิเสธและกล่าวว่า “ข้าไม่ได้เป็น”",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "ἠρνήσατο ἐκεῖνος καὶ εἶπεν", "thai": "เปโตรปฏิเสธและกล่าวว่า", "rationale": "NEW CORPUS-LOCK: ἀρνέομαι → ปฏิเสธ (deny; standard). Will recur v.27. The aor.indicative ἠρνήσατο marks the second-denial-event." },
+        { "greek": "Μὴ καὶ σὺ ἐκ τῶν μαθητῶν αὐτοῦ εἶ;", "thai": "ท่านก็เป็นสาวกของเขาด้วยมิใช่หรือ?", "rationale": "PHRASE-LOCK with v.17 (same form, different speaker). Per uW figs-rquestion: rhetorical-question expecting-yes." }
+      ],
+      "notes": "Per uW grammar-connect-time-simultaneous + figs-rquestion: time-shift back-to-Peter-in-courtyard (parallel-to-Annas-interrogation). Second-denial. Identity-question repeats from v.17."
+    }
+  },
+  {
+    "reference": "John 18:26",
+    "chapter": 18,
+    "verse": 26,
+    "greek": "λέγει εἷς ἐκ τῶν δούλων τοῦ ἀρχιερέως,συγγενὴς ὢν οὗ ἀπέκοψεν Πέτρος τὸ ὠτίον·Οὐκ ἐγώ σε εἶδον ἐν τῷ κήπῳ μετ’αὐτοῦ;",
+    "bsb_english": "One of the high priest’s servants, a relative of the man whose ear Peter had cut off, asked, “Didn’t I see you with Him in the garden?”",
+    "translation": {
+      "thai": "ทาสคนหนึ่งของมหาปุโรหิต ซึ่งเป็นญาติของคนที่เปโตรตัดหู ถามว่า “ข้าเห็นท่านอยู่กับเขาในสวนนั้นมิใช่หรือ?”",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "συγγενὴς ὢν οὗ ἀπέκοψεν Πέτρος τὸ ὠτίον", "thai": "ญาติของคนที่เปโตรตัดหู", "rationale": "NEW CORPUS-LOCK: συγγενής → ญาติ (relative). The Malchus-relative — the questioner has personal-grudge against Peter." },
+        { "greek": "Οὐκ ἐγώ σε εἶδον ἐν τῷ κήπῳ μετ’αὐτοῦ;", "thai": "ข้าเห็นท่านอยู่กับเขาในสวนนั้นมิใช่หรือ?", "rationale": "Per uW figs-rquestion: eyewitness-claim in question-form (‘surely-I-saw-you-with-him’). The Malchus-relative recognizes-Peter from the garden-scene. Most-dangerous of the three interrogators." }
+      ],
+      "notes": "Per uW figs-rquestion + figs-pastforfuture: eyewitness-questioner from-Malchus's-family. The most-circumstantially-dangerous question — eyewitness-identification with personal-grievance. Sets up the third-and-final denial."
+    }
+  },
+  {
+    "reference": "John 18:27",
+    "chapter": 18,
+    "verse": 27,
+    "greek": "πάλιν οὖν ἠρνήσατο Πέτρος·καὶ εὐθέως ἀλέκτωρ ἐφώνησεν.",
+    "bsb_english": "Peter denied it once more, and immediately a rooster crowed.",
+    "translation": {
+      "thai": "เปโตรจึงปฏิเสธอีกครั้ง และทันใดนั้นไก่ก็ขัน",
+      "thai_literal": null,
+      "thai_summary": "เปโตรปฏิเสธพระเยซูสามครั้ง สำเร็จตามคำพยากรณ์ของพระเยซูใน ยน. 13:38 (เปรียบเทียบ มัทธิว 26:34, มาระโก 14:30, ลูกา 22:34) ใน ยน. ผู้บันทึกเล่าเหตุการณ์ของเปโตรสลับกับเหตุการณ์การไต่สวนพระเยซู — แสดงภาพตัดสลับที่กินใจ คือ พระคริสต์ทรงสารภาพความจริงในขณะที่เปโตรปฏิเสธ ในข่าวประเสริฐยอห์นไม่ได้บันทึกการกลับใจร้องไห้ของเปโตรที่นี่ (อยู่ในข่าวประเสริฐมัทธิว ลูกา) แต่จะเก็บไว้สำหรับฉากบทที่ 21 — กองไฟถ่านอีกกองหนึ่งและการฟื้นฟูเปโตรโดยตรงจากพระคริสต์",
+      "key_decisions": [
+        { "greek": "πάλιν οὖν ἠρνήσατο Πέτρος", "thai": "เปโตรจึงปฏิเสธอีกครั้ง", "rationale": "Third-denial completes the prediction-fulfillment from JHN 13:38. PHRASE-LOCK: ἀρνέομαι → ปฏิเสธ (lock from v.25)." },
+        { "greek": "εὐθέως ἀλέκτωρ ἐφώνησεν", "thai": "ทันใดนั้นไก่ก็ขัน", "rationale": "NEW CORPUS-LOCKS: ἀλέκτωρ → ไก่ (rooster); φωνέω (rooster-crowing) → ขัน (crow). PHRASE-LOCK with JHN 13:38 ‘the rooster will not crow until you have denied me three times.’ Christ's-prediction-fulfilled-instantly." }
+      ],
+      "notes": "Per uW figs-explicit + translate-unknown: denial-prediction fulfilled. PHRASE-LOCK with JHN 13:38, MAT 26:34, 26:74-75, MRK 14:30, 14:72, LUK 22:34, 22:60-61. JHN 18 omits Peter's-weeping-and-repentance (covered in synoptics). The bookend ἀνθρακιά (‘charcoal-fire’ — only 2 NT occurrences) at JHN 18:18 + JHN 21:9 frames the denial-and-restoration pattern."
+    }
+  },
+  {
+    "reference": "John 18:28",
+    "chapter": 18,
+    "verse": 28,
+    "greek": "Ἄγουσιν οὖν τὸν Ἰησοῦν ἀπὸ τοῦ Καϊάφα εἰς τὸ πραιτώριον·ἦν δὲ πρωΐ·καὶ αὐτοὶ οὐκ εἰσῆλθον εἰς τὸ πραιτώριον,ἵνα μὴ μιανθῶσιν ἀλλὰ φάγωσιν τὸ πάσχα.",
+    "bsb_english": "Then they led Jesus away from Caiaphas into the Praetorium. By now it was early morning, and the Jews did not enter the Praetorium, to avoid being defiled and unable to eat the Passover.",
+    "translation": {
+      "thai": "พวกเขาจึงพาพระเยซูจากที่อยู่ของคายาฟาสไปยังกองบัญชาการของผู้ว่าราชการ ขณะนั้นเป็นเวลาเช้าตรู่ พวกเขาไม่ได้เข้าไปในกองบัญชาการ เพื่อไม่ให้เป็นมลทิน แต่จะได้กินเทศกาลปัสกา",
+      "thai_literal": null,
+      "thai_summary": "ข้อนี้แสดงความขัดแย้งทางจริยธรรมที่กินใจ — พวกหัวหน้าปุโรหิตยิวระมัดระวังการเป็นมลทินทางพิธีกรรม (ที่จะทำให้กินปัสกาไม่ได้) ในขณะที่กำลังจัดให้ฆ่าพระเมษโปดกของพระเจ้าเพื่อกำจัดบาปโลก (ยน. 1:29) การเล็งเห็นถึงรายละเอียดเล็ก ๆ ของพิธีกรรมในขณะที่ละเลยความยุติธรรมระดับสูงเป็นรูปแบบที่พระเยซูเคยตำหนิไว้ (มัทธิว 23:23) คายาฟาสในเวลานี้กลายเป็นพยานปฏิเสธโดยไม่รู้ตัวของการที่พวกเขาผิดศาสนาแท้",
+      "key_decisions": [
+        { "greek": "εἰς τὸ πραιτώριον", "thai": "ไปยังกองบัญชาการของผู้ว่าราชการ", "rationale": "NEW CORPUS-LOCK: πραιτώριον → กองบัญชาการของผู้ว่าราชการ (Praetorium / governor's-headquarters). Per uW figs-explicit: refers to Roman-governor's-headquarters in Jerusalem. The next-verse names Pilate as the governor." },
+        { "greek": "ἦν δὲ πρωΐ", "thai": "ขณะนั้นเป็นเวลาเช้าตรู่", "rationale": "πρωΐ → เช้าตรู่ (early-morning). The pre-dawn-arrest-trial timeline — Roman officials began-business-at-dawn." },
+        { "greek": "ἵνα μὴ μιανθῶσιν ἀλλὰ φάγωσιν τὸ πάσχα", "thai": "เพื่อไม่ให้เป็นมลทิน แต่จะได้กินเทศกาลปัสกา", "rationale": "NEW CORPUS-LOCK: μιαίνω → เป็นมลทิน (be-defiled / become-ritually-impure). Per uW figs-doublenegatives: ‘not-defiled-so-as-to-eat-Passover.’ The ritual-purity-rules forbade-Jews from-entering-Gentile-houses pre-Passover. KEY-TERM-LOCK: πάσχα → ปัสกา (Passover; transliteration; standard from synoptic)." }
+      ],
+      "notes": "Per uW writing-background + figs-doublenegatives + figs-explicit + figs-metonymy: scene-shift from Caiaphas's-house to Praetorium. The ironic-juxtaposition: ritual-purity-care while-orchestrating-execution-of-the-true-Passover-Lamb (cf. 1 COR 5:7). NEW CORPUS-LOCKS: πραιτώριον, μιαίνω."
+    }
+  },
+  {
+    "reference": "John 18:29",
+    "chapter": 18,
+    "verse": 29,
+    "greek": "ἐξῆλθεν οὖν ὁ Πιλᾶτος ἔξω πρὸς αὐτοὺς καὶ φησίν·Τίνα κατηγορίαν φέρετε κατὰ τοῦ ἀνθρώπου τούτου;",
+    "bsb_english": "So Pilate went out to them and asked, “What accusation are you bringing against this man?”",
+    "translation": {
+      "thai": "ปีลาตจึงออกมาหาพวกเขาและถามว่า “พวกท่านมีข้อกล่าวหาอะไรต่อชายผู้นี้?”",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "ὁ Πιλᾶτος", "thai": "ปีลาต", "rationale": "PHRASE-LOCK: Πιλᾶτος → ปีลาต (Pilate; standard Christian-Thai from synoptic-corpus, e.g., LUK 13:1, MAT 27, MRK 15)." },
+        { "greek": "Τίνα κατηγορίαν φέρετε κατὰ τοῦ ἀνθρώπου τούτου;", "thai": "พวกท่านมีข้อกล่าวหาอะไรต่อชายผู้นี้?", "rationale": "Per uW figs-abstractnouns: NEW CORPUS-LOCK: κατηγορία → ข้อกล่าวหา (accusation/charge). Pilate's-formal-procedural opening-question of Roman-trial." }
+      ],
+      "notes": "Per uW figs-abstractnouns: Roman-procedural opening — Pilate-asks for-the-formal-charge. Roman law required-specific-charge before-judgment. NEW CORPUS-LOCK: κατηγορία → ข้อกล่าวหา."
+    }
+  },
+  {
+    "reference": "John 18:30",
+    "chapter": 18,
+    "verse": 30,
+    "greek": "ἀπεκρίθησαν καὶ εἶπαν αὐτῷ·Εἰ μὴ ἦν οὗτος κακὸν ποιῶν,οὐκ ἄν σοι παρεδώκαμεν αὐτόν.",
+    "bsb_english": "“If He were not a criminal,” they replied, “we would not have handed Him over to you.”",
+    "translation": {
+      "thai": "พวกเขาตอบว่า “ถ้าชายผู้นี้มิใช่ผู้กระทำความชั่ว เราคงไม่มอบเขาไว้กับท่าน”",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "Εἰ μὴ ἦν οὗτος κακὸν ποιῶν,οὐκ ἄν σοι παρεδώκαμεν αὐτόν", "thai": "ถ้าชายผู้นี้มิใช่ผู้กระทำความชั่ว เราคงไม่มอบเขาไว้กับท่าน", "rationale": "Per uW grammar-connect-condition-contrary + figs-doublenegatives: contrary-to-fact-presented-as-fact (‘he-IS-an-evildoer-by-our-judgment, hence-we-handed-him-over’). Translation preserves the conditional-form ‘ถ้า ... คงไม่’ — the tacit-evasion is the bare-implication-not-the-charge. Pilate's-question wasn't-answered-substantively." }
+      ],
+      "notes": "Per uW grammar-connect-condition-contrary + figs-doublenegatives + figs-explicit: the-leaders-evade-the-charge-question. Per uW: ‘this-one’ disrespectful-reference. The leaders-have-no-Roman-actionable-charge — they want execution-without-trial. Pilate's-procedural-pushback in v.31 forces-them-to-choose."
+    }
+  },
+  {
+    "reference": "John 18:31",
+    "chapter": 18,
+    "verse": 31,
+    "greek": "εἶπεν οὖν αὐτοῖς ὁ Πιλᾶτος·Λάβετε αὐτὸν ὑμεῖς,καὶ κατὰ τὸν νόμον ὑμῶν κρίνατε αὐτόν.εἶπον αὐτῷ οἱ Ἰουδαῖοι·Ἡμῖν οὐκ ἔξεστιν ἀποκτεῖναι οὐδένα·",
+    "bsb_english": "“You take Him and judge Him by your own law,” Pilate told them. “We are not permitted to execute anyone,” the Jews replied.",
+    "translation": {
+      "thai": "ปีลาตจึงกล่าวกับพวกเขาว่า “พวกท่านจงเอาตัวเขาไปและตัดสินตามกฎหมายของพวกท่านเองเถิด” พวกยิวจึงตอบเขาว่า “พวกเราไม่ได้รับอนุญาตให้ประหารชีวิตผู้ใด”",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "Λάβετε αὐτὸν ὑμεῖς,καὶ κατὰ τὸν νόμον ὑμῶν κρίνατε αὐτόν", "thai": "พวกท่านจงเอาตัวเขาไปและตัดสินตามกฎหมายของพวกท่านเองเถิด", "rationale": "Pilate's-procedural-pushback: ‘if-it's-religious, judge-him-yourselves-under-Jewish-law.’ NEW CORPUS-LOCK: κρίνω (judicial-judgment) → ตัดสิน (judge/decide; legal register). Distinct from κρίνω-eschatological-judgment which uses ‘พิพากษา.’" },
+        { "greek": "Ἡμῖν οὐκ ἔξεστιν ἀποκτεῖναι οὐδένα", "thai": "พวกเราไม่ได้รับอนุญาตให้ประหารชีวิตผู้ใด", "rationale": "Per uW figs-explicit: Roman-law restricted-Jews from-capital-punishment in-this-period. Translation makes-implicit-Roman-restriction explicit via ‘ไม่ได้รับอนุญาต’ (not-permitted)." }
+      ],
+      "notes": "Per uW figs-synecdoche + figs-explicit: the-leaders-want-Roman-execution because-Jewish-execution-was-banned by-Roman-law. The forced-clarification reveals the death-penalty-objective — which now-requires Roman-investigation. Sets-up v.32 (the kind-of-death-Christ-predicted)."
+    }
+  },
+  {
+    "reference": "John 18:32",
+    "chapter": 18,
+    "verse": 32,
+    "greek": "ἵνα ὁ λόγος τοῦ Ἰησοῦ πληρωθῇ ὃν εἶπεν σημαίνων ποίῳ θανάτῳ ἤμελλεν ἀποθνῄσκειν.",
+    "bsb_english": "This was to fulfill the word that Jesus had spoken to indicate the kind of death He was going to die.",
+    "translation": {
+      "thai": "ทั้งนี้เพื่อให้ถ้อยคำของพระเยซูสำเร็จ คือคำที่พระองค์ตรัสบ่งบอกว่าพระองค์จะสิ้นพระชนม์ด้วยลักษณะใด",
+      "thai_literal": null,
+      "thai_summary": "“ลักษณะการตาย” ที่พระเยซูตรัสล่วงหน้าคือการถูกตรึงกางเขนแบบโรมัน ซึ่งพระองค์ทรงทำนายไว้ใน ยน. 3:14 “บุตรมนุษย์ก็จะต้องถูกยกขึ้น” และยน. 12:32-33 “เราจะดึงดูดทุกคนมาหาเรา” พระองค์ตรัสคำนี้เพื่อบ่งชี้ลักษณะการตายของพระองค์ ถ้าชาวยิวประหารพระองค์เองตามธรรมบัญญัติของพวกเขา จะเป็นการขว้างด้วยหิน (เปรียบเทียบ ฉธบ. 22:23-24) ไม่ใช่การตรึงกางเขน — แต่เพราะพวกเขาส่งให้ฝ่ายโรมัน การตายโดยการถูกยกขึ้น-บนกางเขนจึงสำเร็จ",
+      "key_decisions": [
+        { "greek": "ἵνα ὁ λόγος τοῦ Ἰησοῦ πληρωθῇ", "thai": "เพื่อให้ถ้อยคำของพระเยซูสำเร็จ", "rationale": "PHRASE-LOCK with v.9: same-Christ-word-fulfillment formula. The fulfilled-word here = JHN 3:14, 8:28, 12:32-33 (the lifting-up-on-the-cross sayings predicting Roman-crucifixion-form-of-death)." },
+        { "greek": "σημαίνων ποίῳ θανάτῳ ἤμελλεν ἀποθνῄσκειν", "thai": "คำที่พระองค์ตรัสบ่งบอกว่าพระองค์จะสิ้นพระชนม์ด้วยลักษณะใด", "rationale": "Per uW figs-explicit: the kind-of-death = Roman-crucifixion-by-being-lifted-up. ‘ลักษณะ’ (manner/kind) preserves the qualitative-not-just-fact reading. Royal สิ้นพระชนม์ (royal-die) since divine subject." }
+      ],
+      "notes": "Per uW writing-background + figs-activepassive + figs-explicit: NOT-OT-citation but inner-Johannine-fulfillment of Christ's-own-prior-sayings (JHN 3:14, 8:28, 12:32-33 ‘when I am lifted up’). The fulfillment-via-circumstance: Jewish-execution would-be-stoning; Roman-execution is-crucifixion (lifting-up); the leaders-refuse-Jewish-judgment forces-the-Roman-crucifixion-pattern that-Christ-predicted. NOTE: NOT-OT-fulfillment, NOT-added-to-DB."
+    }
+  },
+  {
+    "reference": "John 18:33",
+    "chapter": 18,
+    "verse": 33,
+    "greek": "Εἰσῆλθεν οὖν πάλιν εἰς τὸ πραιτώριον ὁ Πιλᾶτος καὶ ἐφώνησεν τὸν Ἰησοῦν καὶ εἶπεν αὐτῷ·Σὺ εἶ ὁ βασιλεὺς τῶν Ἰουδαίων;",
+    "bsb_english": "Pilate went back into the Praetorium, summoned Jesus, and asked Him, “Are You the King of the Jews?”",
+    "translation": {
+      "thai": "ปีลาตจึงกลับเข้าไปในกองบัญชาการอีก เรียกพระเยซูมาและถามพระองค์ว่า “ท่านเป็นกษัตริย์ของชาวยิวหรือ?”",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "Σὺ εἶ ὁ βασιλεὺς τῶν Ἰουδαίων;", "thai": "ท่านเป็นกษัตริย์ของชาวยิวหรือ?", "rationale": "PHRASE-LOCK with synoptic-trial-question (MAT 27:11, MRK 15:2, LUK 23:3). NEW CORPUS-LOCK: βασιλεὺς τῶν Ἰουδαίων → กษัตริย์ของชาวยิว (King-of-the-Jews; standard Christian-Thai for the title-of-the-trial-and-cross-inscription). Pilate uses ‘ท่าน’ (formal-2nd) — neutral-Roman-court register, not honorific to-Christ since Pilate doesn't-recognize-divine-status." }
+      ],
+      "notes": "Per uW figs-explicit: Pilate's-political-question. ‘King of the Jews’ from Roman-perspective = political-pretender / messianic-claimant who would-threaten-Roman-rule. The title will-recur in trial-flow (vv.37, 39) and on-the-cross-inscription (JHN 19:19-22)."
+    }
+  },
+  {
+    "reference": "John 18:34",
+    "chapter": 18,
+    "verse": 34,
+    "greek": "ἀπεκρίθη Ἰησοῦς·Ἀπὸ σεαυτοῦ σὺ τοῦτο λέγεις ἢ ἄλλοι εἶπόν σοι περὶ ἐμοῦ;",
+    "bsb_english": "“Are you saying this on your own,” Jesus asked, “or did others tell you about Me?”",
+    "translation": {
+      "thai": "พระเยซูตรัสตอบว่า “ท่านพูดสิ่งนี้ด้วยความคิดของตนเองหรือ หรือคนอื่นบอกท่านเรื่องเรา?”",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "Ἀπὸ σεαυτοῦ σὺ τοῦτο λέγεις ἢ ἄλλοι εἶπόν σοι περὶ ἐμοῦ;", "thai": "ท่านพูดสิ่งนี้ด้วยความคิดของตนเองหรือ หรือคนอื่นบอกท่านเรื่องเรา?", "rationale": "Per uW figs-explicit: Christ probes Pilate's-question-source. Jewish-political-charge or Roman-genuine-suspicion? The answer determines the meaning-of-‘king’ (Jewish-messianic-king vs. political-pretender). Christ-the-defendant turns-judge — the question-as-judicial-clarification." }
+      ],
+      "notes": "Per uW figs-explicit: Christ's-counter-question. Establishes the source-of-the-charge — important because-the-meaning-of-‘king’ depends on whose-vocabulary it-comes-from. Christ-as-procedural-precise."
+    }
+  },
+  {
+    "reference": "John 18:35",
+    "chapter": 18,
+    "verse": 35,
+    "greek": "ἀπεκρίθη ὁ Πιλᾶτος·Μήτι ἐγὼ Ἰουδαῖός εἰμι;τὸ ἔθνος τὸ σὸν καὶ οἱ ἀρχιερεῖς παρέδωκάν σε ἐμοί·τί ἐποίησας;",
+    "bsb_english": "“Am I a Jew?” Pilate replied. “Your own people and chief priests handed You over to me. What have You done?”",
+    "translation": {
+      "thai": "ปีลาตตอบว่า “ข้าเป็นยิวหรือ? ชนชาติของท่านและพวกหัวหน้าปุโรหิตได้มอบท่านไว้กับข้า ท่านได้ทำอะไรลงไป?”",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "Μήτι ἐγὼ Ἰουδαῖός εἰμι;", "thai": "ข้าเป็นยิวหรือ?", "rationale": "Per uW figs-rquestion: Pilate's-rhetorical-question dismissing-Jewish-internal-religious-disputes. Pilate's-self-reference uses ‘ข้า’ (lower-mid register) — Roman-governor confident-but-not-formal-court-register here. The disdain-for-Jewish-affairs preserved." },
+        { "greek": "τὸ ἔθνος τὸ σὸν καὶ οἱ ἀρχιερεῖς παρέδωκάν σε ἐμοί", "thai": "ชนชาติของท่านและพวกหัวหน้าปุโรหิตได้มอบท่านไว้กับข้า", "rationale": "Per uW figs-metonymy: ‘nation’ = Jewish-people. NEW CORPUS-LOCK: τὸ ἔθνος (in nation-of-Jews context) → ชนชาติ (people-as-nation; standard Thai). The double-source: nation + chief-priests." }
+      ],
+      "notes": "Per uW figs-rquestion + figs-metonymy: Pilate's-disinterest in-Jewish-religious-disputes. The political-pragmatic-Roman administrator probing-for-Roman-actionable-charge. NEW CORPUS-LOCKS: τὸ ἔθνος → ชนชาติ."
+    }
+  },
+  {
+    "reference": "John 18:36",
+    "chapter": 18,
+    "verse": 36,
+    "greek": "ἀπεκρίθη Ἰησοῦς·Ἡ βασιλεία ἡ ἐμὴ οὐκ ἔστιν ἐκ τοῦ κόσμου τούτου·εἰ ἐκ τοῦ κόσμου τούτου ἦν ἡ βασιλεία ἡ ἐμή,οἱ ὑπηρέται οἱ ἐμοὶ ἠγωνίζοντο ἄν,ἵνα μὴ παραδοθῶ τοῖς Ἰουδαίοις·νῦν δὲ ἡ βασιλεία ἡ ἐμὴ οὐκ ἔστιν ἐντεῦθεν.",
+    "bsb_english": "Jesus answered, “My kingdom is not of this world; if it were, My servants would fight to prevent My arrest by the Jews. But now My kingdom is not of this realm.”",
+    "translation": {
+      "thai": "พระเยซูตรัสตอบว่า “อาณาจักรของเรามิใช่ของโลกนี้ ถ้าอาณาจักรของเราเป็นของโลกนี้ ข้าราชการของเราคงจะต่อสู้เพื่อมิให้เราถูกมอบไว้กับพวกยิว แต่บัดนี้อาณาจักรของเรามิใช่มาจากที่นี่”",
+      "thai_literal": null,
+      "thai_summary": "“อาณาจักรของเรามิใช่ของโลกนี้” เป็นรากฐานของเทววิทยาการเมืองคริสเตียน — ไม่ได้หมายความว่าอาณาจักรของพระคริสต์อยู่ในสวรรค์เท่านั้นและไม่เกี่ยวข้องกับโลกนี้ แต่หมายความว่าอาณาจักรนี้ไม่ได้มีต้นกำเนิด อำนาจ หรือวิธีการแบบโลกนี้ คริสเตียนจึงไม่ใช้ดาบเพื่อสถาปนาอาณาจักรของพระคริสต์ — แต่ใช้พยานความจริงและความรัก ในประเทศไทยที่ส่วนใหญ่ไม่ใช่คริสเตียน คำสอนนี้ปกป้องไม่ให้คริสตจักรเป็นเครื่องมือทางการเมืองหรือใช้กำลังบังคับ",
+      "key_decisions": [
+        { "greek": "Ἡ βασιλεία ἡ ἐμὴ οὐκ ἔστιν ἐκ τοῦ κόσμου τούτου", "thai": "อาณาจักรของเรามิใช่ของโลกนี้", "rationale": "NEW CORPUS-LOCK: ἡ βασιλεία ἡ ἐμή (Christ's kingdom in Pilate-trial context) → อาณาจักรของเรา (the-kingdom-of-mine; royal-kingdom). Distinct from ἡ βασιλεία τοῦ θεοῦ → อาณาจักรของพระเจ้า (kingdom-of-God) — same lemma, contextual variant. Christ as 1st-person possessor uses ‘ของเรา’ (no ทรง for Christ-1st-person)." },
+        { "greek": "εἰ ἐκ τοῦ κόσμου τούτου ἦν ... οἱ ὑπηρέται οἱ ἐμοὶ ἠγωνίζοντο ἄν", "thai": "ถ้าอาณาจักรของเราเป็นของโลกนี้ ข้าราชการของเราคงจะต่อสู้", "rationale": "Per uW grammar-connect-condition-contrary: contrary-to-fact ‘if ... but-it-is-not.’ NEW CORPUS-LOCK: οἱ ὑπηρέται (in royal-court context) → ข้าราชการ (royal-servants/officials; political-register). Distinct from JHN 7:32, 18:3's ὑπηρέτης = เจ้าหน้าที่ (temple-officers) — same lemma, contextual variants." },
+        { "greek": "νῦν δὲ ἡ βασιλεία ἡ ἐμὴ οὐκ ἔστιν ἐντεῦθεν", "thai": "แต่บัดนี้อาณาจักรของเรามิใช่มาจากที่นี่", "rationale": "Per uW figs-metonymy: ‘from here / from this place’ — the realm-of-this-world. Translation preserves the literal ‘มาจากที่นี่’ — emphasizing origin/source rather than realm-of-existence." }
+      ],
+      "notes": "Per uW grammar-connect-condition-contrary + figs-explicit + figs-metonymy: the most-quoted Johannine political-theology verse. Christ's-kingdom is OF (origin/character) not-of-this-world but-IS in-this-world for-its-mission. The non-violent-establishment of-the-kingdom is the explicit-claim. NEW CORPUS-LOCKS: ἡ βασιλεία ἡ ἐμή → อาณาจักรของเรา; οἱ ὑπηρέται οἱ ἐμοί → ข้าราชการของเรา."
+    }
+  },
+  {
+    "reference": "John 18:37",
+    "chapter": 18,
+    "verse": 37,
+    "greek": "εἶπεν οὖν αὐτῷ ὁ Πιλᾶτος·Οὐκοῦν βασιλεὺς εἶ σύ;ἀπεκρίθη ὁ Ἰησοῦς·Σὺ λέγεις ὅτι βασιλεύς εἰμι.ἐγὼ εἰς τοῦτο γεγέννημαι καὶ εἰς τοῦτο ἐλήλυθα εἰς τὸν κόσμον ἵνα μαρτυρήσω τῇ ἀληθείᾳ·πᾶς ὁ ὢν ἐκ τῆς ἀληθείας ἀκούει μου τῆς φωνῆς.",
+    "bsb_english": "“Then You are a king!” Pilate said. “You say that I am a king,” Jesus answered. “For this reason I was born and have come into the world, to testify to the truth. Everyone who belongs to the truth listens to My voice.”",
+    "translation": {
+      "thai": "ปีลาตจึงกล่าวกับพระองค์ว่า “เช่นนั้นท่านก็เป็นกษัตริย์ใช่หรือไม่?” พระเยซูตรัสตอบว่า “ท่านพูดเองว่าเราเป็นกษัตริย์ เพราะเหตุนี้เราจึงบังเกิดมา และเพราะเหตุนี้เราจึงเข้ามาในโลก คือเพื่อเป็นพยานถึงความจริง ทุกคนที่อยู่ฝ่ายความจริงย่อมฟังเสียงของเรา”",
+      "thai_literal": null,
+      "thai_summary": "ข้อนี้กำหนดพันธกิจของพระคริสต์ในประโยคเดียว — เพื่อเป็นพยานถึงความจริง “บังเกิดมา” อ้างถึงการจุติของพระบุตรเป็นมนุษย์ ส่วน “เข้ามาในโลก” อ้างถึงการเสด็จลงมาจากสวรรค์ ทั้งสองชั้นรวมกันเป็นการสำแดงเต็มของคริสตวิทยา “ทุกคนที่อยู่ฝ่ายความจริงย่อมฟังเสียงของเรา” เป็นการกำหนดความเป็นสาวก — ไม่ใช่ความสามารถของผู้ฟัง แต่ความผูกพันกับความจริงเองที่ทำให้คนฟังพระคริสต์",
+      "key_decisions": [
+        { "greek": "Οὐκοῦν βασιλεὺς εἶ σύ;", "thai": "เช่นนั้นท่านก็เป็นกษัตริย์ใช่หรือไม่?", "rationale": "HAPAX: οὐκοῦν (NT-only-occurrence; ‘then-so’ inferential particle). NEW CORPUS-LOCK: οὐκοῦν → เช่นนั้น...ใช่หรือไม่? (so-then ... is-it-the-case-or-not). Pilate's-deductive question after-Christ's-kingdom-statement." },
+        { "greek": "Σὺ λέγεις ὅτι βασιλεύς εἰμι", "thai": "ท่านพูดเองว่าเราเป็นกษัตริย์", "rationale": "Per uW figs-extrainfo: probably-affirmative — Christ-affirms-implicitly without-clear-‘yes-I-am-a-king’ statement. Translation preserves the open ‘ท่านพูดเองว่า’ (you-yourself-say-that)." },
+        { "greek": "ἐγὼ εἰς τοῦτο γεγέννημαι καὶ εἰς τοῦτο ἐλήλυθα εἰς τὸν κόσμον ἵνα μαρτυρήσω τῇ ἀληθείᾳ", "thai": "เพราะเหตุนี้เราจึงบังเกิดมา และเพราะเหตุนี้เราจึงเข้ามาในโลก คือเพื่อเป็นพยานถึงความจริง", "rationale": "Per uW figs-parallelism: doublet ‘born-into-world / came-into-world.’ Per uW alt: alt-rendering combines into one. Translation preserves the doublet — Christ's-incarnation (birth) + mission-from-heaven (coming) — both lead-to truth-witness mission. PHRASE-LOCK: μαρτυρέω → เป็นพยาน (lock from JHN 15:26)." },
+        { "greek": "πᾶς ὁ ὢν ἐκ τῆς ἀληθείας ἀκούει μου τῆς φωνῆς", "thai": "ทุกคนที่อยู่ฝ่ายความจริงย่อมฟังเสียงของเรา", "rationale": "Per uW figs-idiom + figs-metaphor + figs-synecdoche: ‘being-of-truth’ = belonging-to-truth-as-source. ‘Hearing voice’ = heeding-and-obeying. Translation ‘อยู่ฝ่ายความจริง’ (be-on-the-side-of-truth) preserves the belonging-to sense; ‘ฟังเสียง’ preserves the literal hearing-voice idiom." }
+      ],
+      "notes": "Per uW figs-extrainfo + figs-parallelism + figs-idiom + figs-metaphor + figs-synecdoche: HAPAX οὐκοῦν. The mission-of-Christ defined as truth-witness. The hearing-voice idiom anticipates JHN 10:3-5, 16, 27 (sheep-hear-shepherd's-voice) — implicit recall of the Good-Shepherd discourse. NEW CORPUS-LOCK: οὐκοῦν → เช่นนั้น...ใช่หรือไม่."
+    }
+  },
+  {
+    "reference": "John 18:38",
+    "chapter": 18,
+    "verse": 38,
+    "greek": "λέγει αὐτῷ ὁ Πιλᾶτος·Τί ἐστιν ἀλήθεια;Καὶ τοῦτο εἰπὼν πάλιν ἐξῆλθεν πρὸς τοὺς Ἰουδαίους,καὶ λέγει αὐτοῖς·Ἐγὼ οὐδεμίαν εὑρίσκω ἐν αὐτῷ αἰτίαν·",
+    "bsb_english": "“What is truth?” Pilate asked. And having said this, he went out again to the Jews and told them, “I find no basis for a charge against Him.",
+    "translation": {
+      "thai": "ปีลาตกล่าวกับพระองค์ว่า “ความจริงคืออะไร?” เมื่อพูดดังนี้แล้วเขาก็ออกไปหาพวกยิวอีกครั้งและกล่าวแก่พวกเขาว่า “เราไม่พบความผิดในตัวเขาเลย”",
+      "thai_literal": null,
+      "thai_summary": "“ความจริงคืออะไร?” ของปีลาตเป็นหนึ่งในคำถามที่โด่งดังที่สุดในวรรณคดีโลก — สะท้อนความคิดเชิงสัมพัทธ์ของผู้ปกครองโรมันที่ปฏิเสธว่ามีความจริงสากล แต่ในข่าวประเสริฐยอห์น คำถามนี้กลายเป็นการเย้ยตน — ปีลาตยืนตรงหน้า “ความจริง” ที่เป็นบุคคล (พระคริสต์ผู้ตรัสว่า “เราเป็นทาง ความจริง และชีวิต” ในยน. 14:6) แต่กลับมองข้ามไป",
+      "key_decisions": [
+        { "greek": "Τί ἐστιν ἀλήθεια;", "thai": "ความจริงคืออะไร?", "rationale": "Per uW figs-rquestion + figs-abstractnouns: rhetorical-skepticism-or-genuine-question. Translation preserves the simple-direct-question — Thai readers can hear either skeptical-dismissal or genuine-inquiry. The famous-question of Western-philosophy." },
+        { "greek": "Ἐγὼ οὐδεμίαν εὑρίσκω ἐν αὐτῷ αἰτίαν", "thai": "เราไม่พบความผิดในตัวเขาเลย", "rationale": "Per uW figs-metaphor: ‘guilt-as-object-found-in-person.’ NEW CORPUS-LOCK: αἰτία (in trial-context) → ความผิด (guilt; charge-of-wrong). Pilate's-first-of-three not-guilty verdicts (also vv.19:4, 19:6). Translation makes-implicit-‘ผิด’ (guilt/wrong) explicit." }
+      ],
+      "notes": "Per uW figs-rquestion + figs-abstractnouns + figs-synecdoche + figs-metaphor: Pilate's-skeptical-dismissal followed by-the-not-guilty-finding. Pilate's-question (‘what is truth?’) marks his philosophical-disengagement; his-finding (‘no charge’) marks his-judicial-honesty. The contradiction-between-finding and-eventual-execution will be the central-Pilate-tragedy of JHN 19. NEW CORPUS-LOCK: αἰτία → ความผิด."
+    }
+  },
+  {
+    "reference": "John 18:39",
+    "chapter": 18,
+    "verse": 39,
+    "greek": "ἔστιν δὲ συνήθεια ὑμῖν ἵνα ἕνα ἀπολύσω ὑμῖν ἐν τῷ πάσχα·βούλεσθε οὖν ἀπολύσω ὑμῖν τὸν βασιλέα τῶν Ἰουδαίων;",
+    "bsb_english": "But it is your custom that I release to you one prisoner at the Passover. So then, do you want me to release to you the King of the Jews?”",
+    "translation": {
+      "thai": "แต่พวกท่านมีธรรมเนียมว่า ในเทศกาลปัสกาเราจะปล่อยนักโทษคนหนึ่งให้พวกท่าน ดังนั้นพวกท่านต้องการให้เราปล่อยกษัตริย์ของชาวยิวให้พวกท่านหรือ?”",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "ἔστιν δὲ συνήθεια ὑμῖν", "thai": "พวกท่านมีธรรมเนียมว่า", "rationale": "NEW CORPUS-LOCK: συνήθεια → ธรรมเนียม (custom; tradition; standard Christian-Thai). The Passover-prisoner-release precedent that-Pilate-uses-as-procedural-out." },
+        { "greek": "ἀπολύσω", "thai": "ปล่อย", "rationale": "NEW CORPUS-LOCK: ἀπολύω → ปล่อย (release; standard). Will recur v.40 + JHN 19. The release-question is the Pilate-pragmatic-attempt to-avoid-condemning-an-innocent-man." },
+        { "greek": "τὸν βασιλέα τῶν Ἰουδαίων", "thai": "กษัตริย์ของชาวยิว", "rationale": "PHRASE-LOCK with v.33: title now used-mockingly by Pilate. Per uW figs-irony: Pilate's-mocking use offers-the-Jews their-own-king-back-to-them, sarcasm-of-Roman-disdain." }
+      ],
+      "notes": "Per uW figs-explicit + figs-irony: Pilate's-procedural-out via-Passover-amnesty + his-sarcastic ‘the king of-the-Jews’ — mocking-the-Jewish-leaders + mocking-Christ. NEW CORPUS-LOCKS: συνήθεια, ἀπολύω."
+    }
+  },
+  {
+    "reference": "John 18:40",
+    "chapter": 18,
+    "verse": 40,
+    "greek": "ἐκραύγασαν οὖν πάλιν λέγοντες·Μὴ τοῦτον ἀλλὰ τὸν Βαραββᾶν.ἦν δὲ ὁ Βαραββᾶς λῃστής.",
+    "bsb_english": "“Not this man,” they shouted, “but Barabbas!” (Now Barabbas was an insurrectionist.)",
+    "translation": {
+      "thai": "พวกเขาจึงตะโกนตอบอีกครั้งว่า “อย่าปล่อยคนนี้ แต่ปล่อยบารับบัส” บารับบัสนั้นเป็นโจรกบฏ",
+      "thai_literal": null,
+      "thai_summary": "การเลือกบารับบัสแทนพระเยซูเป็นการพลิกผันที่กินใจ — ชื่อ “บารับบัส” ในภาษาอราเมอิกหมายถึง “บุตรของบิดา” (บาร์-อับบา) ดังนั้นชาวยิวจึงเลือก “บุตรของบิดา” คนหนึ่ง (กบฏที่ใช้ความรุนแรง) แทน “พระบุตรของพระบิดา” แท้จริง (พระเยซู) ที่จะเสด็จมา “อย่างพระเมษโปดก” (ยน. 1:29) นี่เป็นภาพแสดงการเลือกของมนุษย์ที่ปฏิเสธพระคริสต์เพื่อเลือกผู้ที่นำความรุนแรงและความดื้อต่อพระเจ้า",
+      "key_decisions": [
+        { "greek": "ἐκραύγασαν", "thai": "ตะโกน", "rationale": "NEW CORPUS-LOCK: κραυγάζω → ตะโกน (cry-out / shout). Will recur JHN 19 of crowd-shouts." },
+        { "greek": "Βαραββᾶς", "thai": "บารับบัส", "rationale": "NEW PROPER-NOUN-LOCK: Βαραββᾶς → บารับบัส (Barabbas; standard Christian-Thai transliteration). Aramaic etymology bar-Abba ‘son-of-the-father’ — Johannine-irony-detail (see thai_summary)." },
+        { "greek": "ὁ Βαραββᾶς λῃστής", "thai": "บารับบัสนั้นเป็นโจรกบฏ", "rationale": "Per uW alt-translation: λῃστής could mean (1) robber, (2) insurrectionist (per MRK 15:7 same-Barabbas-as-insurrectionist). Translation preserves both via-‘โจรกบฏ’ (robber-insurrectionist; standard Thai for the political-criminal sense)." }
+      ],
+      "notes": "Per uW writing-quotations + figs-ellipsis + figs-explicit + writing-background: chapter-closing — Barabbas chosen-over-Christ. PHRASE-LOCK with synoptic-parallel (MAT 27:15-26, MRK 15:6-15, LUK 23:18-25). The ironic-substitution: violent-revolutionary-‘son-of-the-father’ chosen-over peaceful-eternal-Son-of-the-Father. NEW CORPUS-LOCKS: κραυγάζω → ตะโกน; Βαραββᾶς → บารับบัส; λῃστής → โจรกบฏ. Chapter ends mid-narrative; JHN 19 continues with flogging + crucifixion."
+    }
+  }
+]
