@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - 'output/reader/**'
+      - 'docs/**'
       - 'scripts/sync_to_gdocs.py'
       - '.github/workflows/sync-gdocs.yml'
   workflow_dispatch:
@@ -24,8 +25,9 @@ jobs:
       - name: Install Google API clients
         run: pip install --quiet google-api-python-client google-auth
 
-      - name: Sync output/reader/ to Drive
+      - name: Sync reader edition + translator depth docs to Drive
         env:
           OAUTH_TOKEN_JSON: ${{ secrets.OAUTH_TOKEN_JSON }}
           DRIVE_FOLDER_ID: ${{ secrets.DRIVE_FOLDER_ID }}
+          SOURCE_ROOTS: output/reader,docs
         run: python3 scripts/sync_to_gdocs.py
