@@ -1,0 +1,1932 @@
+[
+  {
+    "reference": "John 6:1",
+    "chapter": 6,
+    "verse": 1,
+    "greek": "Μετὰ ταῦτα ἀπῆλθεν ὁ Ἰησοῦς πέραν τῆς θαλάσσης τῆς Γαλιλαίας τῆς Τιβεριάδος.",
+    "bsb_english": "After this, Jesus crossed to the other side of the Sea of Galilee (that is, the Sea of Tiberias).",
+    "translation": {
+      "thai": "หลังจากเหตุการณ์เหล่านี้ พระเยซูเสด็จข้ามทะเลกาลิลี (คือทะเลทิเบเรียส) ไปยังอีกฟากหนึ่ง",
+      "thai_literal": "ภายหลังสิ่งเหล่านี้ พระเยซูได้เสด็จไปยังอีกฟากของทะเลของกาลิลีของทิเบเรียส",
+      "thai_summary": "ทะเลกาลิลีคือทะเลสาบน้ำจืดทางเหนือของอิสราเอล รู้จักในหลายชื่อ — ในพันธสัญญาเดิมเรียก “ทะเลคินเนเรท” ในเวลาต่อมาเรียก “ทะเลทิเบเรียส” ตามชื่อเมืองที่จักรพรรดิติเบเรียสสร้างขึ้นบนชายฝั่งทางตะวันตกราว ค.ศ. 20 ยอห์นใส่ชื่อทั้งสองเพื่อช่วยผู้อ่านในต่างแดนที่อาจไม่คุ้นกับชื่อชาวยิวดั้งเดิม",
+      "key_decisions": [
+        {
+          "greek": "Μετὰ ταῦτα",
+          "thai": "หลังจากเหตุการณ์เหล่านี้",
+          "rationale": "Per uW writing-newevent: Johannine transition-marker (cf. JHN 3:22, 5:1, 7:1) introducing a new event some unspecified time later. Locked rendering matches JHN 5:1."
+        },
+        {
+          "greek": "ἀπῆλθεν ὁ Ἰησοῦς πέραν τῆς θαλάσσης",
+          "thai": "พระเยซูเสด็จข้าม...ไปยังอีกฟากหนึ่ง",
+          "rationale": "ἀπῆλθεν = aorist 'went away.' πέραν + gen. = 'to the other side of.' Royal เสด็จ for divine motion (RULES §3). Thai 'ข้าม...ไปยังอีกฟาก' renders the spatial sense naturally."
+        },
+        {
+          "greek": "τῆς θαλάσσης τῆς Γαλιλαίας τῆς Τιβεριάδος",
+          "thai": "ทะเลกาลิลี (คือทะเลทิเบเรียส)",
+          "rationale": "Per uW figs-explicit: dual-name construction may confuse readers; UST adds clarifying gloss. Thai uses parenthetical (คือทะเลทิเบเรียส) following Johannine narrative-clarification convention. NEW PROPER-NOUN LOCK: Τιβεριάς → ทิเบเรียส (recurs v.23)."
+        }
+      ],
+      "notes": "GEOGRAPHY: the Sea of Galilee (~21km × ~13km) had three Jewish names (Kinneret/Gennesaret/Sea of Galilee) plus the Roman 'Sea of Tiberias' after Tiberias was founded ~AD 20. John's dual-naming reflects writing for a wider Greco-Roman audience. NEW PROPER-NOUN LOCK: Τιβεριάς → ทิเบเรียส (recurs v.23, and likely JHN 21:1)."
+    }
+  },
+  {
+    "reference": "John 6:2",
+    "chapter": 6,
+    "verse": 2,
+    "greek": "ἠκολούθει δὲ αὐτῷ ὄχλος πολύς,ὅτι ἐθεώρουν τὰ σημεῖα ἃ ἐποίει ἐπὶ τῶν ἀσθενούντων.",
+    "bsb_english": "A large crowd followed Him because they saw the signs He was performing on the sick.",
+    "translation": {
+      "thai": "ฝูงชนจำนวนมากติดตามพระองค์ไป เพราะได้เห็นหมายสำคัญที่ทรงกระทำกับคนเจ็บป่วย",
+      "thai_literal": "และฝูงชนจำนวนมากได้ติดตามพระองค์ เพราะพวกเขาเห็นหมายสำคัญทั้งหลายที่พระองค์ทรงกระทำต่อบรรดาคนเจ็บป่วย",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ἠκολούθει & ἐθεώρουν & ἐποίει",
+          "thai": "ติดตาม & ได้เห็น & ทรงกระทำ",
+          "rationale": "Three imperfect verbs render durative/iterative action: the crowd was continually following, repeatedly seeing, and Jesus was repeatedly performing signs. Thai default past-narrative absorbs the imperfectness."
+        },
+        {
+          "greek": "ὄχλος πολύς",
+          "thai": "ฝูงชนจำนวนมาก",
+          "rationale": "Per uW grammar-collectivenouns: 'large crowd' as collective. Thai 'ฝูงชนจำนวนมาก' (corpus-locked, MAT/MRK/LUK pattern)."
+        },
+        {
+          "greek": "τὰ σημεῖα",
+          "thai": "หมายสำคัญ",
+          "rationale": "KEY-TERM LOCK: σημεῖον → หมายสำคัญ (corpus, glossary). In John, 'sign' = revelatory miracle pointing beyond itself to Jesus' identity. Per uW: 'significant miracles.' Per RULES §0 the sign-cluster is a Johannine-distinctive theological category."
+        },
+        {
+          "greek": "τῶν ἀσθενούντων",
+          "thai": "คนเจ็บป่วย",
+          "rationale": "Present-active-participle of ἀσθενέω = 'be sick/weak,' substantival 'those who are sick.' KEY-TERM LOCK from JHN 5:3."
+        }
+      ],
+      "notes": "Imperfect-verb stack (ἠκολούθει + ἐθεώρουν + ἐποίει) is a Johannine narrative summary — habitual action. The 'signs' here echo the chapter-5 healing at Bethesda; the crowd's faith is sign-driven, which Jesus will critique at v.26."
+    }
+  },
+  {
+    "reference": "John 6:3",
+    "chapter": 6,
+    "verse": 3,
+    "greek": "ἀνῆλθεν δὲ εἰς τὸ ὄρος Ἰησοῦς,καὶ ἐκεῖ ἐκάθητο μετὰ τῶν μαθητῶν αὐτοῦ.",
+    "bsb_english": "Then Jesus went up on the mountain and sat down with His disciples.",
+    "translation": {
+      "thai": "พระเยซูจึงเสด็จขึ้นไปบนภูเขาและประทับอยู่ที่นั่นกับเหล่าสาวกของพระองค์",
+      "thai_literal": "และพระเยซูได้เสด็จขึ้นไปบนภูเขา และทรงประทับที่นั่นกับเหล่าสาวกของพระองค์",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ἀνῆλθεν & ἐκάθητο",
+          "thai": "เสด็จขึ้นไป & ประทับอยู่",
+          "rationale": "ἀνῆλθεν = aorist 'went up'; ἐκάθητο = imperfect 'was sitting.' Royal เสด็จ for divine motion + ประทับ for divine 'sit' (RULES §3 honorifics)."
+        },
+        {
+          "greek": "εἰς τὸ ὄρος",
+          "thai": "บนภูเขา",
+          "rationale": "Per uW: a hillside/mountain east of Galilee — likely the Golan area near Bethsaida, per the synoptic parallel (Luke 9:10). The article suggests a known/specific elevated area. Thai 'บนภูเขา' (locked corpus rendering)."
+        }
+      ],
+      "notes": "MOUNTAIN-MOTIF: John frames this with the new-Moses typology — Moses ascending Sinai parallels Jesus ascending the mountain before giving 'bread from heaven' (vv.31-35). The Passover-context (v.4) reinforces the new-Exodus reading."
+    }
+  },
+  {
+    "reference": "John 6:4",
+    "chapter": 6,
+    "verse": 4,
+    "greek": "ἦν δὲ ἐγγὺς τὸ πάσχα,ἡ ἑορτὴ τῶν Ἰουδαίων.",
+    "bsb_english": "Now the Jewish Feast of the Passover was near.",
+    "translation": {
+      "thai": "ขณะนั้นเทศกาลปัสกา ซึ่งเป็นเทศกาลของชาวยิวใกล้เข้ามาแล้ว",
+      "thai_literal": "และเทศกาลปัสกาซึ่งเป็นเทศกาลของชาวยิวอยู่ใกล้",
+      "thai_summary": "ปัสกาคือเทศกาลที่ชาวยิวเฉลิมฉลองการไถ่ออกจากอียิปต์ (อพย. 12) ยอห์นใส่รายละเอียดนี้ไม่ใช่เพื่อบอกเวลาเท่านั้น แต่เพื่อชี้ว่าเหตุการณ์ที่ตามมาควรอ่านในแสงของปัสกา — ลูกแกะ ขนมปัง การหลุดพ้น ภายในไม่กี่ข้อ พระเยซูจะตรัสว่า เนื้อของพระองค์คือขนมปังที่ประทานเพื่อชีวิตของโลก ผู้อ่านควรได้ยินเสียงสะท้อนของลูกแกะปัสกา",
+      "key_decisions": [
+        {
+          "greek": "ἦν & ἐγγὺς τὸ πάσχα",
+          "thai": "เทศกาลปัสกา...ใกล้เข้ามาแล้ว",
+          "rationale": "Per uW writing-background: John pauses narrative for background timing-info. Thai 'ขณะนั้น...ใกล้เข้ามาแล้ว' renders the parenthetical-background sense."
+        },
+        {
+          "greek": "τὸ πάσχα,ἡ ἑορτὴ τῶν Ἰουδαίων",
+          "thai": "เทศกาลปัสกา ซึ่งเป็นเทศกาลของชาวยิว",
+          "rationale": "πάσχα = transliteration of Aramaic פסחא, anglicized as 'Passover.' KEY-TERM LOCK: πάσχα → ปัสกา (locked corpus, JHN 2:13, 11:55, MAT 26:2 etc.). The clarifying apposition 'feast of the Jews' is Johannine narrator-explanation for non-Jewish readers — Thai standard 'ซึ่งเป็น...' apposition."
+        }
+      ],
+      "notes": "JOHN'S PASSOVER-CYCLE: this is the second of three Passovers in John's Gospel (2:13 first; 6:4 second; 11:55-12:1 third = Crucifixion). The Passover-frame is theologically loaded: Jesus is preparing to declare himself the bread-from-heaven and ultimately the Passover-Lamb whose flesh is given for the life of the world (v.51). Per RULES §5 OT-citation handling: this is Passover-allusion frame, not direct OT-citation. Adding to nt_ot_citations as thematic_allusion → Exod 12 (Passover institution)."
+    }
+  },
+  {
+    "reference": "John 6:5",
+    "chapter": 6,
+    "verse": 5,
+    "greek": "ἐπάρας οὖν τοὺς ὀφθαλμοὺς ὁ Ἰησοῦς καὶ θεασάμενος ὅτι πολὺς ὄχλος ἔρχεται πρὸς αὐτὸν λέγει πρὸς Φίλιππον·Πόθεν ἀγοράσωμεν ἄρτους ἵνα φάγωσιν οὗτοι;",
+    "bsb_english": "When Jesus looked up and saw a large crowd coming toward Him, He said to Philip, “Where can we buy bread for these people to eat?”",
+    "translation": {
+      "thai": "เมื่อพระเยซูทรงเงยพระเนตรขึ้นและทอดพระเนตรเห็นฝูงชนจำนวนมากกำลังมาหาพระองค์ จึงตรัสกับฟีลิปว่า “เราจะซื้อขนมปังจากที่ไหนให้คนเหล่านี้กิน?”",
+      "thai_literal": "เมื่อพระเยซูทรงยกพระเนตรขึ้น และทรงเห็นว่าฝูงชนจำนวนมากกำลังมาหาพระองค์ ตรัสกับฟีลิปว่า “จากไหนเราจะซื้อขนมปังเพื่อคนเหล่านี้จะได้กิน?”",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ἐπάρας τοὺς ὀφθαλμοὺς",
+          "thai": "ทรงเงยพระเนตรขึ้น",
+          "rationale": "Per uW figs-idiom: 'lifted up his eyes' = idiom for looking up. Royal honorific พระเนตร for divine 'eyes' (RULES §3). Thai 'ทรงเงยพระเนตรขึ้น' matches JHN 4:35 and 11:41 corpus pattern."
+        },
+        {
+          "greek": "θεασάμενος",
+          "thai": "ทอดพระเนตรเห็น",
+          "rationale": "θεάομαι = aorist-mid-deponent 'see/behold/observe.' Royal ทอดพระเนตร for divine 'see' (RULES §3, locked from JHN 5:6)."
+        },
+        {
+          "greek": "λέγει πρὸς Φίλιππον",
+          "thai": "ตรัสกับฟีลิปว่า",
+          "rationale": "Per uW figs-pastforfuture: historic-present λέγει in Greek narration = past-narrative in Thai. Royal ตรัส (RULES §3). Φίλιππος → ฟีลิป (corpus-locked, JHN 1:43)."
+        },
+        {
+          "greek": "Πόθεν ἀγοράσωμεν ἄρτους ἵνα φάγωσιν οὗτοι",
+          "thai": "เราจะซื้อขนมปังจากที่ไหนให้คนเหล่านี้กิน?",
+          "rationale": "ἀγοράσωμεν = aorist-subjunctive deliberative 'should we buy?' Hortatory plural ('we' includes Philip). KEY-TERM LOCK: ἄρτος → ขนมปัง (corpus, glossary)."
+        }
+      ],
+      "notes": "JOHANNINE GENRE-NOTE: the test-question (v.6 reveals Jesus 'knew what he was about to do') frames the feeding as a deliberate sign with pedagogical intent toward the disciples. Cf. synoptic versions where the disciples raise the food-shortage themselves; in John, Jesus initiates."
+    }
+  },
+  {
+    "reference": "John 6:6",
+    "chapter": 6,
+    "verse": 6,
+    "greek": "τοῦτο δὲ ἔλεγεν πειράζων αὐτόν,αὐτὸς γὰρ ᾔδει τί ἔμελλεν ποιεῖν.",
+    "bsb_english": "But He was asking this to test him, for He knew what He was about to do.",
+    "translation": {
+      "thai": "ที่ตรัสเช่นนี้ก็เพื่อจะทดสอบฟีลิป เพราะพระองค์ทรงทราบอยู่แล้วว่าจะทรงกระทำสิ่งใด",
+      "thai_literal": "พระองค์ตรัสสิ่งนี้เพื่อทดสอบเขา เพราะพระองค์เองทรงทราบว่าทรงจะทำอะไร",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "τοῦτο δὲ ἔλεγεν πειράζων αὐτόν",
+          "thai": "ที่ตรัสเช่นนี้ก็เพื่อจะทดสอบฟีลิป",
+          "rationale": "Per uW writing-background + grammar-connect-logic-goal: parenthetical purpose-clause; πειράζων = present-active-participle of purpose 'to test.' Per uW writing-pronouns: αὐτόν = Philip (made explicit in Thai for clarity). 'ทดสอบ' = neutral 'test/probe' (not the negative 'tempt' sense — context determines)."
+        },
+        {
+          "greek": "αὐτὸς γὰρ ᾔδει",
+          "thai": "เพราะพระองค์ทรงทราบอยู่แล้ว",
+          "rationale": "Per uW figs-rpronouns: emphatic αὐτὸς ('Jesus himself'). ᾔδει = pluperfect 'had known/knew already.' Royal ทรงทราบ for divine knowledge (RULES §3, locked from JHN 5:6). Thai 'อยู่แล้ว' renders the pluperfect-anteriority."
+        }
+      ],
+      "notes": "JOHANNINE OMNISCIENCE motif: fourth gospel repeatedly emphasizes Jesus' supernatural foreknowledge (cf. 1:48, 2:24-25, 4:17-18, 5:6, 13:1, 18:4, 19:28). Here it grounds the disciples' coming surprise as a pedagogical 'sign.'"
+    }
+  },
+  {
+    "reference": "John 6:7",
+    "chapter": 6,
+    "verse": 7,
+    "greek": "ἀπεκρίθη αὐτῷ Φίλιππος·Διακοσίων δηναρίων ἄρτοι οὐκ ἀρκοῦσιν αὐτοῖς ἵνα ἕκαστος βραχύ τι λάβῃ.",
+    "bsb_english": "Philip answered, “Two hundred denarii would not buy enough bread for each of them to have a small piece.”",
+    "translation": {
+      "thai": "ฟีลิปทูลตอบพระองค์ว่า “ขนมปังสองร้อยเดนาริอันก็ยังไม่พอให้ทุกคนได้กินแม้เพียงคนละนิด”",
+      "thai_literal": "ฟีลิปได้ตอบพระองค์ว่า “ขนมปังราคาสองร้อยเดนาริอันยังไม่พอแก่พวกเขาเพื่อแต่ละคนจะได้รับสิ่งเล็กน้อย”",
+      "thai_summary": "หนึ่งเดนาริอันคือค่าจ้างแรงงานหนึ่งวัน สองร้อยเดนาริอันจึงราวค่าแรงเจ็ดเดือน — เป็นจำนวนเงินที่กลุ่มสาวกไม่มี และคำตอบของฟีลิปก็ชี้ให้เห็นว่าปัญหานี้เกินความสามารถของมนุษย์",
+      "key_decisions": [
+        {
+          "greek": "Διακοσίων δηναρίων ἄρτοι",
+          "thai": "ขนมปังสองร้อยเดนาริอัน",
+          "rationale": "Per uW translate-bmoney: δηνάριον = Roman silver coin, one day's wage for a laborer. KEY-TERM LOCK: δηνάριον → เดนาริอัน (corpus-locked, MAT 18:28, 20:2 etc., glossary-confirmed). The thai_summary explains the magnitude."
+        },
+        {
+          "greek": "οὐκ ἀρκοῦσιν...ἵνα ἕκαστος βραχύ τι λάβῃ",
+          "thai": "ยังไม่พอให้ทุกคนได้กินแม้เพียงคนละนิด",
+          "rationale": "ἀρκέω = 'be sufficient'; βραχύ τι = 'a little something/small piece.' Thai idiom 'แม้เพียงคนละนิด' captures the rhetorical force of Philip's despair."
+        }
+      ],
+      "notes": "ECONOMIC SCALE: 200 denarii = ~6-7 months' wages for an unskilled laborer. The figure is realistic for feeding 5,000+ people (~14 talents of grain at retail). Mark 6:37 records the same figure in the synoptic parallel — likely a remembered detail of apostolic memory."
+    }
+  },
+  {
+    "reference": "John 6:8",
+    "chapter": 6,
+    "verse": 8,
+    "greek": "λέγει αὐτῷ εἷς ἐκ τῶν μαθητῶν αὐτοῦ,Ἀνδρέας ὁ ἀδελφὸς Σίμωνος Πέτρου·",
+    "bsb_english": "One of His disciples, Andrew, Simon Peter’s brother, said to Him,",
+    "translation": {
+      "thai": "อันดรูว์ น้องชายของซีโมน เปโตร ซึ่งเป็นสาวกคนหนึ่งของพระองค์ ทูลพระองค์ว่า",
+      "thai_literal": "สาวกคนหนึ่งของพระองค์ชื่ออันดรูว์ น้องชายของซีโมน เปโตร พูดกับพระองค์ว่า",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "Ἀνδρέας ὁ ἀδελφὸς Σίμωνος Πέτρου",
+          "thai": "อันดรูว์ น้องชายของซีโมน เปโตร",
+          "rationale": "Per uW translate-names: standard intro of Andrew via his more-prominent brother. PROPER-NOUN LOCKS: Ἀνδρέας → อันดรูว์ (corpus, JHN 1:40 etc.); Σίμων Πέτρος → ซีโมน เปโตร (corpus). 'น้องชาย' (younger-brother) reflects the standard order in Thai NT — Greek ἀδελφός is gender-only, but Andrew's secondary mention reflects junior status."
+        },
+        {
+          "greek": "λέγει",
+          "thai": "ทูล",
+          "rationale": "Per uW figs-pastforfuture: historic-present in narration = Thai past-narrative. Andrew addressing Jesus → use humble 'ทูล' (speak to a superior — RULES §3 dialogue register)."
+        }
+      ],
+      "notes": "ANDREW-PATTERN: John consistently presents Andrew as a 'bringer-to-Jesus' figure (1:41-42 Simon, 6:8-9 boy with bread, 12:22 Greek inquirers). Lower-profile but structurally significant in John's narrative."
+    }
+  },
+  {
+    "reference": "John 6:9",
+    "chapter": 6,
+    "verse": 9,
+    "greek": "Ἔστιν παιδάριον ὧδε ὃς ἔχει πέντε ἄρτους κριθίνους καὶ δύο ὀψάρια·ἀλλὰ ταῦτα τί ἐστιν εἰς τοσούτους;",
+    "bsb_english": "“Here is a boy with five barley loaves and two small fish. But what difference will these make among so many?”",
+    "translation": {
+      "thai": "“ที่นี่มีเด็กชายคนหนึ่งมีขนมปังข้าวบาร์เลย์ห้าก้อนและปลาเล็กสองตัว แต่จะพอเลี้ยงคนมากมายขนาดนี้ได้อย่างไร?”",
+      "thai_literal": "“มีเด็กชายคนหนึ่งที่นี่ ผู้มีขนมปังข้าวบาร์เลย์ห้าก้อนและปลาตัวเล็กสองตัว แต่สิ่งเหล่านี้จะเป็นอะไรสำหรับคนเช่นนี้?”",
+      "thai_summary": "ขนมปังข้าวบาร์เลย์เป็นอาหารคนยากในยุคนั้น ราคาถูกกว่าข้าวสาลีประมาณสามเท่า และปลาเล็กก็เป็นอาหารพื้นบ้านของชาวประมงรอบทะเลกาลิลี รายละเอียดที่ไม่งดงามนี้ตอกย้ำความขัดแย้งของหมายสำคัญ — สิ่งเล็กน้อยและต่ำต้อยในมือพระเยซู กลายเป็นอาหารเลี้ยงคนทั้งฝูง",
+      "key_decisions": [
+        {
+          "greek": "παιδάριον",
+          "thai": "เด็กชาย",
+          "rationale": "HAPAX (NT-only). Diminutive of παῖς 'child' — specifically a young male, perhaps a serving-boy or youth. Thai 'เด็กชาย' (boy) is the natural rendering; 'คนหนึ่ง' added for indefinite-article force."
+        },
+        {
+          "greek": "πέντε ἄρτους κριθίνους",
+          "thai": "ขนมปังข้าวบาร์เลย์ห้าก้อน",
+          "rationale": "Per uW translate-unknown: barley = cheap grain, food of the poor (~1/3 the price of wheat). κρίθινος → ข้าวบาร์เลย์ (NEW KEY-TERM LOCK for NT corpus, recurs v.13). 'ก้อน' = classifier for round bread. Thai-Christian convention is to retain the barley-detail (vs. genericizing to 'bread') because the cheap-grain detail is theologically significant."
+        },
+        {
+          "greek": "δύο ὀψάρια",
+          "thai": "ปลาเล็กสองตัว",
+          "rationale": "ὀψάριον = diminutive of ὄψον 'cooked food/relish'; in Hellenistic Greek specifically 'small fish, esp. dried/salted.' Thai 'ปลาเล็ก' captures the diminutive force. NEW KEY-TERM LOCK for NT corpus: ὀψάριον → ปลาเล็ก (recurs vv.11, JHN 21:9-13)."
+        },
+        {
+          "greek": "ταῦτα τί ἐστιν εἰς τοσούτους",
+          "thai": "จะพอเลี้ยงคนมากมายขนาดนี้ได้อย่างไร?",
+          "rationale": "Per uW figs-rquestion: rhetorical question expressing inadequacy. Thai 'จะพอ...ได้อย่างไร?' renders the rhetorical force more naturally than the literal 'these — what are they for so many?'"
+        }
+      ],
+      "notes": "HAPAX: παιδάριον (NT-only). NEW KEY-TERM LOCKS for NT corpus: κρίθινος → ข้าวบาร์เลย์; ὀψάριον → ปลาเล็ก. OT BACKGROUND: Andrew's 'five barley loaves and two fish' echoes 2 Kgs 4:42-44 (Elisha multiplies twenty barley loaves to feed 100). Same cheap-bread detail. ADDED TO NT_OT_CITATIONS: JHN 6:9 narrative_typology → 2KI 4:42-44 (Elisha-feeding pattern; barley + multiplication + leftovers)."
+    }
+  },
+  {
+    "reference": "John 6:10",
+    "chapter": 6,
+    "verse": 10,
+    "greek": "εἶπεν ὁ Ἰησοῦς·Ποιήσατε τοὺς ἀνθρώπους ἀναπεσεῖν.ἦν δὲ χόρτος πολὺς ἐν τῷ τόπῳ.ἀνέπεσαν οὖν οἱ ἄνδρες τὸν ἀριθμὸν ὡς πεντακισχίλιοι.",
+    "bsb_english": "“Have the people sit down,” Jesus said. Now there was plenty of grass in that place, so the men sat down, about five thousand of them.",
+    "translation": {
+      "thai": "พระเยซูตรัสว่า “จงให้คนทั้งหลายนั่งลง” ที่นั่นมีหญ้ามากมาย พวกผู้ชายจึงนั่งลง นับจำนวนได้ประมาณห้าพันคน",
+      "thai_literal": "พระเยซูตรัสว่า “จงทำให้คนเหล่านั้นเอนกายลง” มีหญ้ามากในที่นั้น พวกผู้ชายจึงเอนกายลง จำนวนประมาณห้าพันคน",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "Ποιήσατε τοὺς ἀνθρώπους ἀναπεσεῖν",
+          "thai": "จงให้คนทั้งหลายนั่งลง",
+          "rationale": "Per uW figs-quotations: direct quote retained in Thai. ἀναπεσεῖν = aorist-infinitive of ἀναπίπτω 'recline' (the Greco-Roman dining posture). Per uW figs-gendernotations: τοὺς ἀνθρώπους here is generic 'the people' (men+women+children), distinguished from οἱ ἄνδρες in next clause = adult males specifically. Thai 'คนทั้งหลาย' (gender-neutral)."
+        },
+        {
+          "greek": "ἦν δὲ χόρτος πολὺς ἐν τῷ τόπῳ",
+          "thai": "ที่นั่นมีหญ้ามากมาย",
+          "rationale": "Per uW writing-background: parenthetical setting-detail. The plentiful-grass datum confirms spring-Passover season (v.4) — Galilean grass is green and abundant in March-April. Eyewitness-detail strengthening Johannine historicity."
+        },
+        {
+          "greek": "ἀνέπεσαν οὖν οἱ ἄνδρες",
+          "thai": "พวกผู้ชายจึงนั่งลง",
+          "rationale": "Per uW infostructure: shift from generic-people to ἄνδρες (adult males specifically) — the count is men only, women and children additional (cf. MAT 14:21 explicit). Thai 'พวกผู้ชาย' (the men)."
+        },
+        {
+          "greek": "τὸν ἀριθμὸν ὡς πεντακισχίλιοι",
+          "thai": "นับจำนวนได้ประมาณห้าพันคน",
+          "rationale": "πεντακισχίλιοι = 'five thousand.' ὡς = 'about, approximately.' Thai 'ประมาณห้าพันคน' (locked corpus pattern, MAT 14:21, MRK 6:44, LUK 9:14)."
+        }
+      ],
+      "notes": "GENDER-COUNT detail: only men numbered; cf. MAT 14:21 'besides women and children' — total likely 10,000-15,000. The grass-detail (PASSOVER timing, v.4) is a Johannine eyewitness-marker. Reclining posture = formal dining (kataklinō / anapiptō), evoking the messianic-banquet motif of Isa 25:6 and 1QSa 2:11-22 (Qumran banquet liturgy). NEW KEY-TERM LOCK for NT corpus: ἀναπίπτω → นั่งลง / เอนกายลง."
+    }
+  },
+  {
+    "reference": "John 6:11",
+    "chapter": 6,
+    "verse": 11,
+    "greek": "ἔλαβεν οὖν τοὺς ἄρτους ὁ Ἰησοῦς καὶ εὐχαριστήσας διέδωκεν τοῖς ἀνακειμένοις,ὁμοίως καὶ ἐκ τῶν ὀψαρίων ὅσον ἤθελον.",
+    "bsb_english": "Then Jesus took the loaves and the fish, gave thanks, and distributed to those who were seated as much as they wanted.",
+    "translation": {
+      "thai": "พระเยซูจึงทรงหยิบขนมปัง ทรงขอบพระคุณแล้วประทานแก่บรรดาคนที่นั่งอยู่ และทรงแจกปลาเล็กให้ตามที่พวกเขาต้องการเช่นเดียวกัน",
+      "thai_literal": "ดังนั้นพระเยซูทรงหยิบขนมปังเหล่านั้น และเมื่อทรงขอบพระคุณแล้ว ก็ทรงแจกแก่คนทั้งหลายที่เอนกายอยู่ และในทำนองเดียวกันก็ทรงแจกจากปลาเล็กตามที่พวกเขาประสงค์",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ἔλαβεν & εὐχαριστήσας & διέδωκεν",
+          "thai": "ทรงหยิบ & ทรงขอบพระคุณ & ประทาน...ทรงแจก",
+          "rationale": "Three royal-prefix verbs: take, give-thanks, distribute. Pattern matches Last-Supper liturgy (ἔλαβεν...εὐχαριστήσας...ἔδωκεν, MAT 26:26, MRK 14:22, LUK 22:19) — John's Bread-of-Life sign deliberately prefigures the Eucharist. εὐχαριστήσας → ทรงขอบพระคุณ (locked corpus, JHN 11:41 etc.)."
+        },
+        {
+          "greek": "τοῖς ἀνακειμένοις",
+          "thai": "บรรดาคนที่นั่งอยู่",
+          "rationale": "ἀνακειμένοις = present-mid-participle of ἀνάκειμαι 'recline at table.' Same dining-posture as v.10 ἀναπίπτω. Thai 'นั่งอยู่' for naturalness; literal 'เอนกาย' kept in thai_literal."
+        },
+        {
+          "greek": "ἐκ τῶν ὀψαρίων ὅσον ἤθελον",
+          "thai": "ปลาเล็กให้ตามที่พวกเขาต้องการ",
+          "rationale": "Per uW figs-explicit: ὀψαρίων = the same two fish from v.9. 'ὅσον ἤθελον' = 'as much as they wanted' — emphasizing the abundance of the multiplication. KEY-TERM LOCK from v.9: ὀψάριον → ปลาเล็ก."
+        }
+      ],
+      "notes": "EUCHARISTIC FORESHADOWING: the take-bless-distribute sequence intentionally pre-echoes the Last Supper liturgy. John omits the institution narrative in chs.13-17, but the bread-of-life discourse + this feeding-sign carry the eucharistic theology. ABUNDANCE-MOTIF (ὅσον ἤθελον): contrast with manna's strict daily-ration (Exod 16:16-18); the messianic Age provides without measure (Isa 25:6-8 banquet-of-rich-foods)."
+    }
+  },
+  {
+    "reference": "John 6:12",
+    "chapter": 6,
+    "verse": 12,
+    "greek": "ὡς δὲ ἐνεπλήσθησαν λέγει τοῖς μαθηταῖς αὐτοῦ·Συναγάγετε τὰ περισσεύσαντα κλάσματα,ἵνα μή τι ἀπόληται.",
+    "bsb_english": "And when everyone was full, He said to His disciples, “Gather the pieces that are left over, so that nothing will be wasted.”",
+    "translation": {
+      "thai": "เมื่อทุกคนอิ่มแล้ว พระองค์ตรัสกับเหล่าสาวกของพระองค์ว่า “จงเก็บเศษที่เหลือไว้ อย่าให้สูญเสียแม้แต่นิดเดียว”",
+      "thai_literal": "เมื่อพวกเขาอิ่มแล้ว พระองค์ตรัสกับสาวกของพระองค์ว่า “จงรวบรวมเศษที่เหลือเพื่อจะไม่มีสิ่งใดสูญหายไป”",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ἐνεπλήσθησαν",
+          "thai": "อิ่มแล้ว",
+          "rationale": "Per uW figs-activepassive: aorist-passive of ἐμπίμπλημι 'fill, satisfy.' Thai active 'อิ่ม' (be full, satisfied) renders the result-state naturally."
+        },
+        {
+          "greek": "Συναγάγετε τὰ περισσεύσαντα κλάσματα",
+          "thai": "จงเก็บเศษที่เหลือไว้",
+          "rationale": "συνάγω = 'gather/collect' (cf. ACT 11:26 'church'). κλάσμα = 'broken piece, fragment.' NEW KEY-TERM LOCK: κλάσμα → เศษ (recurs v.13). Imperative addressed to disciples."
+        },
+        {
+          "greek": "ἵνα μή τι ἀπόληται",
+          "thai": "อย่าให้สูญเสียแม้แต่นิดเดียว",
+          "rationale": "ἀπόλλυμι = 'lose, destroy.' The same lemma will resurface theologically at vv.39 ('lose nothing of all the Father has given') — verbal link signaling: the leftover-bread economy mirrors the Son's care for all the Father has given. Thai 'อย่าให้สูญเสียแม้แต่นิดเดียว' captures the no-waste ethic."
+        }
+      ],
+      "notes": "THEOLOGICAL VERBAL-ECHO: ἀπόληται here (v.12) and ἀπολέσω (v.39 'lose nothing') link the leftover-bread sign to Jesus' soteriological commitment. The disciples' job of gathering fragments-without-loss prefigures Jesus' eschatological gathering of the elect. NEW KEY-TERM LOCK: κλάσμα → เศษ."
+    }
+  },
+  {
+    "reference": "John 6:13",
+    "chapter": 6,
+    "verse": 13,
+    "greek": "συνήγαγον οὖν,καὶ ἐγέμισαν δώδεκα κοφίνους κλασμάτων ἐκ τῶν πέντε ἄρτων τῶν κριθίνων ἃ ἐπερίσσευσαν τοῖς βεβρωκόσιν.",
+    "bsb_english": "So they collected them and filled twelve baskets with the pieces of the five barley loaves left over by those who had eaten.",
+    "translation": {
+      "thai": "พวกเขาจึงเก็บรวบรวม และได้เศษขนมปังข้าวบาร์เลย์ห้าก้อนที่คนเหล่านั้นกินเหลือ ใส่กระบุงเต็มสิบสองกระบุง",
+      "thai_literal": "เขาจึงรวบรวม และได้บรรจุเศษจากขนมปังข้าวบาร์เลย์ห้าก้อนที่เหลือสำหรับคนที่ได้กินแล้ว เต็มสิบสองกระบุง",
+      "thai_summary": "เลขสิบสองที่นี่อาจไม่ใช่เรื่องบังเอิญ — มีกระบุงสำหรับสาวกแต่ละคน หรืออาจเป็นภาพของอิสราเอลสิบสองเผ่าที่ได้รับการเลี้ยงดูใหม่ในสมัยพระเมสสิยาห์ และจำนวนเศษที่เหลือกลับมากกว่าจุดเริ่มต้น — เป็นภาพของความบริบูรณ์ของพระคุณ",
+      "key_decisions": [
+        {
+          "greek": "συνήγαγον...καὶ ἐγέμισαν δώδεκα κοφίνους",
+          "thai": "เก็บรวบรวม...ใส่กระบุงเต็มสิบสองกระบุง",
+          "rationale": "Per uW translate-unknown: κόφινος = a large traveling basket, distinct from σπυρίς (4,000-feeding's basket type, MAT 15:37). Thai 'กระบุง' (large woven basket) renders this. NEW KEY-TERM LOCK: κόφινος → กระบุง (recurs MAT 14:20, MRK 6:43, LUK 9:17 retroactively — all already use compatible Thai)."
+        },
+        {
+          "greek": "ἐπερίσσευσαν τοῖς βεβρωκόσιν",
+          "thai": "ที่คนเหล่านั้นกินเหลือ",
+          "rationale": "βεβρωκόσιν = perfect-active-participle of βιβρώσκω 'eat' (HAPAX in NT, perfect-tense form unique). Standard koine 'eat' = ἐσθίω; βιβρώσκω here is poetic-archaic. The perfect tense indicates completed-action with continuing state ('those who had eaten and were now full'). Thai 'กินเหลือ' compresses naturally."
+        }
+      ],
+      "notes": "HAPAX: βιβρώσκω (perfect-active-participle, NT-only at this verse). The lemma is more common in classical/LXX Greek for ritual 'eat/consume.' SYMBOLIC NUMBER: twelve baskets = either one per disciple or echo of twelve tribes (the messianic-feeding restores Israel). MORE-AFTER-THAN-BEFORE: the leftover (12 baskets) exceeds the input (5 loaves) — sign-language for divine abundance vs. human scarcity. NEW KEY-TERM LOCK: κόφινος → กระบุง."
+    }
+  },
+  {
+    "reference": "John 6:14",
+    "chapter": 6,
+    "verse": 14,
+    "greek": "οἱ οὖν ἄνθρωποι ἰδόντες ὃ ἐποίησεν σημεῖον ἔλεγον ὅτι Οὗτός ἐστιν ἀληθῶς ὁ προφήτης ὁ ἐρχόμενος εἰς τὸν κόσμον.",
+    "bsb_english": "When the people saw the sign that Jesus had performed, they began to say, “Truly this is the Prophet who is to come into the world.”",
+    "translation": {
+      "thai": "เมื่อคนทั้งหลายเห็นหมายสำคัญที่พระองค์ทรงกระทำ พวกเขาพูดกันว่า “แท้จริงท่านผู้นี้คือผู้เผยพระวจนะที่ทรงสัญญาว่าจะเสด็จมาในโลก”",
+      "thai_literal": "เมื่อคนทั้งหลายเห็นหมายสำคัญที่พระองค์ได้ทรงกระทำ พวกเขาพูดว่า “ผู้นี้คือผู้เผยพระวจนะผู้กำลังจะมาในโลกอย่างแท้จริง”",
+      "thai_summary": "“ผู้เผยพระวจนะ” ที่ฝูงชนกล่าวถึงนี้ คือผู้เผยพระวจนะ “เหมือนโมเสส” ที่พระเจ้าทรงสัญญาผ่านโมเสสใน ฉธบ. 18:15 หมายสำคัญแห่งขนมปัง (เหมือนมานา) บวกกับการอยู่บนภูเขา ทำให้ฝูงชนเชื่อมโยงพระเยซูกับโมเสสคนใหม่ — แต่พวกเขาเข้าใจตำแหน่งนี้ผิด ดังที่ข้อ 15 จะแสดงให้เห็น",
+      "key_decisions": [
+        {
+          "greek": "ὁ προφήτης ὁ ἐρχόμενος εἰς τὸν κόσμον",
+          "thai": "ผู้เผยพระวจนะที่ทรงสัญญาว่าจะเสด็จมาในโลก",
+          "rationale": "Per uW figs-explicit: 'the Prophet' = the eschatological Mosaic-prophet of Deut 18:15-19. The article ὁ + present-participle ἐρχόμενος = a known anticipated figure. Thai 'ที่ทรงสัญญาว่าจะเสด็จมา' supplies the OT-promise frame for clarity. προφήτης → ผู้เผยพระวจนะ (corpus-locked). The royal เสด็จ + พระวจนะ-prefix is appropriate even before the crowd's misidentification."
+        },
+        {
+          "greek": "ἀληθῶς",
+          "thai": "แท้จริง",
+          "rationale": "ἀληθῶς = adverb 'truly, in truth.' Thai 'แท้จริง' (locked corpus pattern, JHN 1:47, 4:42, 7:26 etc.)."
+        }
+      ],
+      "notes": "OT CITATION: 'the Prophet' = Deut 18:15 (a prophet like Moses from your brothers). The crowd correctly identifies the Mosaic-prophet category but (per v.15) misreads it politically. Manna+mountain combination triggers the Moses-typology. ADDED TO NT_OT_CITATIONS: JHN 6:14 thematic_citation → DEU 18:15-19."
+    }
+  },
+  {
+    "reference": "John 6:15",
+    "chapter": 6,
+    "verse": 15,
+    "greek": "Ἰησοῦς οὖν γνοὺς ὅτι μέλλουσιν ἔρχεσθαι καὶ ἁρπάζειν αὐτὸν ἵνα ποιήσωσιν βασιλέα ἀνεχώρησεν πάλιν εἰς τὸ ὄρος αὐτὸς μόνος.",
+    "bsb_english": "Then Jesus, realizing that they were about to come and make Him king by force, withdrew again to a mountain by Himself.",
+    "translation": {
+      "thai": "พระเยซูทรงทราบว่าคนเหล่านั้นกำลังจะมาบังคับนำพระองค์ไปตั้งเป็นกษัตริย์ พระองค์จึงเสด็จเลี่ยงไปบนภูเขาตามลำพังพระองค์อีก",
+      "thai_literal": "ดังนั้นพระเยซูทรงทราบว่าพวกเขากำลังจะมาและจะฉุดพระองค์ไปเพื่อจะตั้งให้พระองค์เป็นกษัตริย์ จึงทรงปลีกพระองค์ขึ้นไปบนภูเขาตามลำพังพระองค์อีกครั้ง",
+      "thai_summary": "ฝูงชนยอมรับว่าพระเยซูเป็นพระเมสสิยาห์ แต่ยอมรับในแบบที่ผิด — พวกเขาต้องการกษัตริย์ทางการเมืองที่จะปลดแอกอิสราเอลจากโรม พระเยซูปฏิเสธอำนาจที่มาด้วยกำลัง เพราะแผ่นดินของพระองค์ไม่ใช่ของโลกนี้ (ยน. 18:36) นี่เป็นความขัดแย้งที่จะดำเนินต่อตลอดเรื่อง — ผู้คนอยากได้พระเมสสิยาห์ที่ตรงกับความคาดหวังของตนเอง ไม่ใช่ตามที่พระเจ้าทรงสัญญา",
+      "key_decisions": [
+        {
+          "greek": "γνοὺς",
+          "thai": "ทรงทราบ",
+          "rationale": "γνούς = aorist-active-participle of γινώσκω 'know.' Royal ทรงทราบ for divine knowledge (RULES §3, locked from JHN 5:6, 6:6)."
+        },
+        {
+          "greek": "ἁρπάζειν αὐτὸν ἵνα ποιήσωσιν βασιλέα",
+          "thai": "บังคับนำพระองค์ไปตั้งเป็นกษัตริย์",
+          "rationale": "ἁρπάζω = 'seize, snatch by force' (also at JHN 10:12, 28-29). The verb is violent — the crowd's intent was forcible coronation. Thai 'บังคับนำ...ไปตั้งเป็น' captures both the violence and the coronation purpose. βασιλεύς → กษัตริย์ (corpus-locked)."
+        },
+        {
+          "greek": "ἀνεχώρησεν πάλιν εἰς τὸ ὄρος αὐτὸς μόνος",
+          "thai": "เสด็จเลี่ยงไปบนภูเขาตามลำพังพระองค์อีก",
+          "rationale": "Per uW figs-rpronouns: emphatic αὐτὸς μόνος 'himself alone.' ἀναχωρέω = 'withdraw, retire.' Royal เสด็จ for divine motion. Thai 'ตามลำพังพระองค์' renders the deliberate-aloneness."
+        }
+      ],
+      "notes": "POLITICAL-MESSIANISM rejected: the crowd's identification as 'the Prophet' (v.14) shades into nationalist coronation-attempt. Jesus' withdrawal echoes both the temptation-narrative (MAT 4:8-10 / LUK 4:5-8 — Satan offers political kingdom) and JHN 18:36 ('my kingdom is not of this world'). The chapter's central tension begins here: bread = political commodity vs. bread = Christ's body sacrificed."
+    }
+  },
+  {
+    "reference": "John 6:16",
+    "chapter": 6,
+    "verse": 16,
+    "greek": "Ὡς δὲ ὀψία ἐγένετο κατέβησαν οἱ μαθηταὶ αὐτοῦ ἐπὶ τὴν θάλασσαν,",
+    "bsb_english": "When evening came, His disciples went down to the sea,",
+    "translation": {
+      "thai": "เมื่อเวลาเย็นมาถึง เหล่าสาวกของพระองค์ลงไปยังทะเล",
+      "thai_literal": "เมื่อตอนเย็นเกิดขึ้น เหล่าสาวกของพระองค์ลงไปยังทะเล",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "Ὡς δὲ ὀψία ἐγένετο",
+          "thai": "เมื่อเวลาเย็นมาถึง",
+          "rationale": "Per uW writing-newevent: time-marker introducing a new scene. ὀψία = 'evening' (substantival fem.). Thai 'เวลาเย็นมาถึง' (corpus-pattern, MAT 14:23, 8:16 etc.)."
+        },
+        {
+          "greek": "ἐπὶ τὴν θάλασσαν",
+          "thai": "ยังทะเล",
+          "rationale": "Per uW figs-explicit: 'sea' here and throughout the chapter = Sea of Galilee. Thai 'ทะเล' (corpus-locked) is sufficient — the Galilee context already established at v.1. No need to over-explicate."
+        }
+      ],
+      "notes": "TIME-SEQUENCE: evening of the same day as the feeding. The disciples descend from the eastern hillside (where the sign occurred) to the lakeshore."
+    }
+  },
+  {
+    "reference": "John 6:17",
+    "chapter": 6,
+    "verse": 17,
+    "greek": "καὶ ἐμβάντες εἰς πλοῖον ἤρχοντο πέραν τῆς θαλάσσης εἰς Καφαρναούμ.καὶ σκοτία ἤδη ἐγεγόνει καὶ οὔπω ἐληλύθει πρὸς αὐτοὺς ὁ Ἰησοῦς,",
+    "bsb_english": "got into a boat, and started across the sea to Capernaum. It was already dark, and Jesus had not yet gone out to them.",
+    "translation": {
+      "thai": "และลงเรือมุ่งหน้าข้ามทะเลไปยังเมืองคาเปอรนาอุม ขณะนั้นมืดแล้ว และพระเยซูยังไม่ได้เสด็จมาหาพวกเขา",
+      "thai_literal": "และเมื่อขึ้นเรือแล้ว พวกเขามุ่งหน้าไปยังอีกฟากของทะเลที่เมืองคาเปอรนาอุม และมืดแล้ว และพระเยซูยังไม่ได้เสด็จมาถึงพวกเขา",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ἐμβάντες εἰς πλοῖον",
+          "thai": "ลงเรือ",
+          "rationale": "ἐμβαίνω = 'embark, get into.' πλοῖον → เรือ (corpus-locked). Thai 'ลงเรือ' is the standard Thai-Christian rendering."
+        },
+        {
+          "greek": "Καφαρναούμ",
+          "thai": "เมืองคาเปอรนาอุม",
+          "rationale": "PROPER-NOUN LOCK: Καφαρναούμ → คาเปอรนาอุม (corpus-locked, JHN 2:12, 4:46, MAT 4:13 etc.). 'เมือง' prefix is standard Thai for foreign town-names on first/disambiguating mention."
+        },
+        {
+          "greek": "σκοτία ἤδη ἐγεγόνει & οὔπω ἐληλύθει",
+          "thai": "ขณะนั้นมืดแล้ว & ยังไม่ได้เสด็จมา",
+          "rationale": "Per uW writing-background: two pluperfects giving background-state. ἐγεγόνει pluperfect of γίνομαι 'had become'; ἐληλύθει pluperfect of ἔρχομαι 'had come.' Thai 'แล้ว/ยังไม่...' renders the sequenced anteriority."
+        }
+      ],
+      "notes": "JOHANNINE LIGHT/DARKNESS motif: σκοτία 'darkness' triggers the chapter-1 light/darkness frame (1:5). The disciples row in darkness, fearing the storm — and Jesus comes to them as light-on-water. The Jesus-comes-to-disciples-in-distress pattern is chapter-1 redemption-imagery enacted."
+    }
+  },
+  {
+    "reference": "John 6:18",
+    "chapter": 6,
+    "verse": 18,
+    "greek": "ἥ τε θάλασσα ἀνέμου μεγάλου πνέοντος διεγείρετο.",
+    "bsb_english": "A strong wind was blowing, and the sea grew agitated.",
+    "translation": {
+      "thai": "ทะเลก็ปั่นป่วนเพราะลมพัดแรง",
+      "thai_literal": "และทะเลถูกทำให้คลื่นแรงเพราะลมใหญ่ที่กำลังพัดอยู่",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ἀνέμου μεγάλου πνέοντος διεγείρετο",
+          "thai": "ปั่นป่วนเพราะลมพัดแรง",
+          "rationale": "Per uW grammar-connect-logic-result + figs-activepassive: genitive-absolute (wind blowing) is the cause of διεγείρετο (impf.passive 'was being aroused/stirred'). Thai 'ปั่นป่วน' = natural intransitive 'be churned/turbulent.' 'ลมพัดแรง' = natural-Thai for 'a strong wind was blowing.'"
+        }
+      ],
+      "notes": "GEOGRAPHICAL REALISM: the Sea of Galilee, ~209m below sea level, is famously prone to sudden katabatic windstorms when cool air from the Golan Heights descends into the warm lake-basin. Same phenomenon in MRK 4:37 and MAT 14:24."
+    }
+  },
+  {
+    "reference": "John 6:19",
+    "chapter": 6,
+    "verse": 19,
+    "greek": "ἐληλακότες οὖν ὡς σταδίους εἴκοσι πέντε ἢ τριάκοντα θεωροῦσιν τὸν Ἰησοῦν περιπατοῦντα ἐπὶ τῆς θαλάσσης καὶ ἐγγὺς τοῦ πλοίου γινόμενον,καὶ ἐφοβήθησαν.",
+    "bsb_english": "When they had rowed about three or four miles, they saw Jesus approaching the boat, walking on the sea—and they were terrified.",
+    "translation": {
+      "thai": "เมื่อพายเรือไปได้ประมาณยี่สิบห้าหรือสามสิบสตาดิออน พวกเขาเห็นพระเยซูเสด็จดำเนินบนทะเลเข้ามาใกล้เรือ พวกเขาจึงตกใจกลัว",
+      "thai_literal": "เมื่อพวกเขาได้พายเรือมาประมาณยี่สิบห้าหรือสามสิบสตาดิออน พวกเขาเห็นพระเยซูกำลังเดินบนทะเล และเข้ามาใกล้เรือ และพวกเขาก็กลัว",
+      "thai_summary": "หนึ่งสตาดิออนคือประมาณ 185 เมตร — ดังนั้นเรือพายไปได้ราว 4.6-5.5 กิโลเมตร ซึ่งใกล้กึ่งกลางของทะเลกาลิลี (กว้างประมาณ 13 กม.) พระเยซูทรงดำเนินบนผิวน้ำอันเดือดของทะเลที่กำลังคลื่น — เป็นหมายสำคัญที่ห้าในพระกิตติคุณยอห์น แสดงสิทธิอำนาจของพระองค์เหนือพายุและน้ำ ดังที่พระเจ้าตรัสในโยบ 9:8 ว่า “พระองค์เพียงผู้เดียวทรงดำเนินบนทะเล”",
+      "key_decisions": [
+        {
+          "greek": "ἐληλακότες & σταδίους εἴκοσι πέντε ἢ τριάκοντα",
+          "thai": "พายเรือ & ยี่สิบห้าหรือสามสิบสตาดิออน",
+          "rationale": "Per uW translate-unknown + translate-bdistance: ἐλαύνω = 'drive, propel by oars.' στάδιον = Roman measurement, ~185m or ~600 ft. Thai-Christian convention retains the Greek unit 'สตาดิออน' rather than converting to km/miles in the main text — the thai_summary supplies the modern equivalence."
+        },
+        {
+          "greek": "θεωροῦσιν τὸν Ἰησοῦν περιπατοῦντα ἐπὶ τῆς θαλάσσης",
+          "thai": "เห็นพระเยซูเสด็จดำเนินบนทะเล",
+          "rationale": "Per uW figs-pastforfuture: historic-present θεωροῦσιν → Thai past-narrative 'เห็น.' περιπατέω = 'walk around.' Royal เสด็จดำเนิน for divine walking (RULES §3, recurring-pattern from JHN narratives)."
+        },
+        {
+          "greek": "ἐφοβήθησαν",
+          "thai": "ตกใจกลัว",
+          "rationale": "Aorist-passive of φοβέω = 'be afraid.' Thai 'ตกใจกลัว' (corpus pattern, MAT 14:26, MRK 6:50)."
+        }
+      ],
+      "notes": "FIFTH JOHANNINE SIGN. OT BACKGROUND: God-walks-on-sea is a uniquely-divine prerogative. Job 9:8 LXX: 'ὁ τανύσας τὸν οὐρανὸν μόνος καὶ περιπατῶν ὡς ἐπ' ἐδάφους ἐπὶ θαλάσσης' (the one who alone stretched out heaven and walks as on the ground over the sea). Ps 77:19, Hab 3:15 also describe YHWH's path-through-the-sea. The act is identity-declarative. ADDED TO NT_OT_CITATIONS: JHN 6:19 thematic_allusion → JOB 9:8, PSA 77:19, HAB 3:15."
+    }
+  },
+  {
+    "reference": "John 6:20",
+    "chapter": 6,
+    "verse": 20,
+    "greek": "ὁ δὲ λέγει αὐτοῖς·Ἐγώ εἰμι,μὴ φοβεῖσθε.",
+    "bsb_english": "But Jesus spoke up: “It is I; do not be afraid.”",
+    "translation": {
+      "thai": "พระองค์ตรัสกับพวกเขาว่า “นี่เราเอง อย่ากลัวเลย”",
+      "thai_literal": "แต่พระองค์ตรัสกับพวกเขาว่า “เราคือผู้นั้น อย่ากลัว”",
+      "thai_summary": "“นี่เราเอง” (Ἐγώ εἰμι) เป็นวลีเดียวกับที่พระเจ้าตรัสกับโมเสสในอพย. 3:14 LXX (“เราคือผู้ที่เป็น”) ยอห์นใช้วลีนี้บ่อยในพระกิตติคุณ — ในข้อนี้และที่อื่นในบท 6 (ข้อ 35, 41, 48, 51) ผู้อ่านที่คุ้นกับฉบับ LXX ได้ยินเสียงสะท้อนของพระนามอันศักดิ์สิทธิ์ พระเยซูทรงเปิดเผยตัวตนกลางพายุ — ผู้ทรงดำเนินบนทะเลคือผู้ที่ตรัสว่า “เราเป็น”",
+      "key_decisions": [
+        {
+          "greek": "Ἐγώ εἰμι",
+          "thai": "นี่เราเอง",
+          "rationale": "Critical Johannine phrase. Surface meaning: 'It's me' (identifying himself to terrified disciples). Theological undercurrent: LXX-aligned echo of YHWH's ἐγώ εἰμι in Exod 3:14 (אהיה אשר אהיה / ἐγώ εἰμι ὁ ὤν), Isa 41:4 (ἐγώ εἰμι ὁ ἐγὼ ὢν αὐτὸς), Isa 43:10 (ἐγώ εἰμι), Isa 51:12. Thai 'นี่เราเอง' preserves the surface 'it's me' force; the thai_summary unpacks the LXX-allusion. Cf. JHN 4:26 'Ἐγώ εἰμι, ὁ λαλῶν σοι' rendered 'เราที่กำลังพูดกับท่านอยู่นี้คือผู้นั้นเอง' — same lemma, different surface meaning. Pattern: render contextually but flag the I-AM thread."
+        },
+        {
+          "greek": "μὴ φοβεῖσθε",
+          "thai": "อย่ากลัวเลย",
+          "rationale": "Present-imperative-prohibitive 'stop being afraid / do not continue to fear.' Thai 'อย่ากลัวเลย' (corpus-locked, MAT 14:27 'θαρσεῖτε ἐγώ εἰμι μὴ φοβεῖσθε' parallel)."
+        }
+      ],
+      "notes": "I-AM ECHO: this is the first absolute (predicate-less) ἐγώ εἰμι in JHN. Surface = self-identification; theological = YHWH-name allusion (Exod 3:14, Isa 41:4, 43:10, 51:12). The placement (post-storm, post-walking-on-water) makes the divine-allusion deliberate. Synoptic parallel: MAT 14:27, MRK 6:50 same words — but John highlights the theme more explicitly through the bread-of-life I-AM cluster (vv.35, 41, 48, 51). ADDED TO NT_OT_CITATIONS: JHN 6:20 thematic_allusion → EXO 3:14, ISA 41:4 (divine 'ἐγώ εἰμι' formula)."
+    }
+  },
+  {
+    "reference": "John 6:21",
+    "chapter": 6,
+    "verse": 21,
+    "greek": "ἤθελον οὖν λαβεῖν αὐτὸν εἰς τὸ πλοῖον,καὶ εὐθέως ἐγένετο τὸ πλοῖον ἐπὶ τῆς γῆς εἰς ἣν ὑπῆγον.",
+    "bsb_english": "Then they were willing to take Him into the boat, and at once the boat reached the shore where they were heading.",
+    "translation": {
+      "thai": "พวกเขาจึงยินดีที่จะรับพระองค์ขึ้นเรือ และในทันใดนั้นเรือก็ถึงฝั่งที่พวกเขามุ่งไป",
+      "thai_literal": "พวกเขาจึงต้องการรับพระองค์เข้าในเรือ และทันใดนั้นเรือก็มาถึงแผ่นดินที่พวกเขามุ่งหน้าไป",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ἤθελον...λαβεῖν αὐτὸν εἰς τὸ πλοῖον",
+          "thai": "ยินดีที่จะรับพระองค์ขึ้นเรือ",
+          "rationale": "Per uW figs-explicit: it is implied that Jesus did get into the boat (the imperfect ἤθελον + result-clause structure). Thai 'ยินดี' = willingly receive (from earlier fear)."
+        },
+        {
+          "greek": "εὐθέως ἐγένετο τὸ πλοῖον ἐπὶ τῆς γῆς εἰς ἣν ὑπῆγον",
+          "thai": "ในทันใดนั้นเรือก็ถึงฝั่งที่พวกเขามุ่งไป",
+          "rationale": "εὐθέως = 'at once.' γῆ here = 'land, shore' (not 'earth' generically). The instant-arrival is presented as a sixth implicit sign — boat traverses remaining distance miraculously. Thai 'ในทันใดนั้น...ก็ถึงฝั่ง' renders the suddenness."
+        }
+      ],
+      "notes": "INSTANT-ARRIVAL: εὐθέως (at once) suggests a miraculous compression of the remaining ~5km voyage. Some commentators count this as a sixth Johannine sign (Boismard, Brown). Others treat it as narrative compression. The Thai preserves the suddenness without forcing the sign-interpretation."
+    }
+  },
+  {
+    "reference": "John 6:22",
+    "chapter": 6,
+    "verse": 22,
+    "greek": "Τῇ ἐπαύριον ὁ ὄχλος ὁ ἑστηκὼς πέραν τῆς θαλάσσης εἶδον ὅτι πλοιάριον ἄλλο οὐκ ἦν ἐκεῖ εἰ μὴ ἕν,καὶ ὅτι οὐ συνεισῆλθεν τοῖς μαθηταῖς αὐτοῦ ὁ Ἰησοῦς εἰς τὸ πλοῖον ἀλλὰ μόνοι οἱ μαθηταὶ αὐτοῦ ἀπῆλθον·",
+    "bsb_english": "The next day, the crowd that had remained on the other side of the sea realized that only one boat had been there, and that Jesus had not boarded it with His disciples, but they had gone away alone.",
+    "translation": {
+      "thai": "ในวันรุ่งขึ้น ฝูงชนที่ยังคงอยู่อีกฟากของทะเลเห็นว่ามีเรือลำเล็กอยู่ที่นั่นเพียงลำเดียว และเห็นว่าพระเยซูไม่ได้เสด็จขึ้นเรือไปกับเหล่าสาวกของพระองค์ แต่เหล่าสาวกได้ไปแต่ลำพัง",
+      "thai_literal": "ในวันรุ่งขึ้น ฝูงชนที่ยืนอยู่อีกฟากของทะเลเห็นว่าไม่มีเรือลำเล็กอื่นอยู่ที่นั่น เว้นแต่ลำเดียว และเห็นว่าพระเยซูไม่ได้ลงเรือไปด้วยกันกับสาวกของพระองค์ แต่สาวกของพระองค์ได้ไปแต่ลำพัง",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "Τῇ ἐπαύριον",
+          "thai": "ในวันรุ่งขึ้น",
+          "rationale": "ἐπαύριον = 'on the next day' (locative-temporal article+adverb). NEW KEY-TERM LOCK for NT corpus: ἐπαύριον → ในวันรุ่งขึ้น (recurs JHN 1:29, 1:35, 1:43, 12:12 already in corpus — confirming consistent rendering)."
+        },
+        {
+          "greek": "πλοιάριον ἄλλο οὐκ ἦν ἐκεῖ εἰ μὴ ἕν",
+          "thai": "มีเรือลำเล็กอยู่ที่นั่นเพียงลำเดียว",
+          "rationale": "Per uW figs-explicit: 'one' = the boat the disciples took. πλοιάριον = diminutive 'small boat' (vs. πλοῖον in vv.17, 21). KEY-TERM LOCK: πλοιάριον → เรือลำเล็ก (glossary-confirmed)."
+        },
+        {
+          "greek": "οὐ συνεισῆλθεν...ἀλλὰ μόνοι οἱ μαθηταὶ αὐτοῦ ἀπῆλθον",
+          "thai": "พระเยซูไม่ได้เสด็จขึ้นเรือไปกับเหล่าสาวก...แต่เหล่าสาวกได้ไปแต่ลำพัง",
+          "rationale": "συνεισέρχομαι = 'enter together with' (JHN 18:15). Crowd's logical inference: only one boat departed, with disciples only — so where did Jesus go? Setup for v.25's question 'when did you get here?' Royal เสด็จ for divine motion."
+        }
+      ],
+      "notes": "NARRATIVE-LOGIC verse: the crowd's reasoning is laid out so the reader follows their puzzlement. Sets up the chase to Capernaum and the dialogue that follows."
+    }
+  },
+  {
+    "reference": "John 6:23",
+    "chapter": 6,
+    "verse": 23,
+    "greek": "ἀλλὰ ἦλθεν πλοιάρια ἐκ Τιβεριάδος ἐγγὺς τοῦ τόπου ὅπου ἔφαγον τὸν ἄρτον εὐχαριστήσαντος τοῦ κυρίου.",
+    "bsb_english": "However, some boats from Tiberias landed near the place where the people had eaten the bread after the Lord had given thanks.",
+    "translation": {
+      "thai": "แต่มีเรือลำเล็กหลายลำมาจากเมืองทิเบเรียส มาถึงใกล้สถานที่ที่ฝูงชนได้กินขนมปังหลังจากที่องค์พระผู้เป็นเจ้าทรงขอบพระคุณแล้ว",
+      "thai_literal": "แต่มีเรือลำเล็กหลายลำมาจากทิเบเรียส ใกล้ที่ซึ่งพวกเขากินขนมปังหลังจากที่องค์พระผู้เป็นเจ้าทรงขอบพระคุณแล้ว",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "πλοιάρια ἐκ Τιβεριάδος",
+          "thai": "เรือลำเล็กหลายลำมาจากเมืองทิเบเรียส",
+          "rationale": "Per uW writing-background: parenthetical detail explaining how the crowd later got across. πλοιάρια = nominative-plural diminutive. Τιβεριάς → ทิเบเรียส (locked from v.1). 'เมือง' prefix for clarity since this is the city, not the lake."
+        },
+        {
+          "greek": "εὐχαριστήσαντος τοῦ κυρίου",
+          "thai": "องค์พระผู้เป็นเจ้าทรงขอบพระคุณแล้ว",
+          "rationale": "Per uW figs-explicit + figs-ellipsis: τοῦ κυρίου = Jesus (not God the Father). Genitive-absolute 'after the Lord gave thanks.' RULES §4 corpus-locked: κύριος (as Jesus) → องค์พระผู้เป็นเจ้า — using full form here because the narrator is naming Jesus by his post-resurrection title (this is one of the rare Johannine narrator-uses of κύριος for Jesus pre-passion; emphasizing reverence). Royal ทรงขอบพระคุณ (RULES §3)."
+        }
+      ],
+      "notes": "NARRATOR-PERSPECTIVE: the post-resurrection title κύριος applied to Jesus during his ministry-narrative (rare for John pre-ch.20) reflects the Evangelist's confessional-vantage looking back. The eucharistic-overtone of εὐχαριστήσαντος in the narrator's framing reinforces the bread-of-life liturgical reading."
+    }
+  },
+  {
+    "reference": "John 6:24",
+    "chapter": 6,
+    "verse": 24,
+    "greek": "ὅτε οὖν εἶδεν ὁ ὄχλος ὅτι Ἰησοῦς οὐκ ἔστιν ἐκεῖ οὐδὲ οἱ μαθηταὶ αὐτοῦ,ἐνέβησαν αὐτοὶ εἰς τὰ πλοιάρια καὶ ἦλθον εἰς Καφαρναοὺμ ζητοῦντες τὸν Ἰησοῦν.",
+    "bsb_english": "So when the crowd saw that neither Jesus nor His disciples were there, they got into the boats and went to Capernaum to look for Him.",
+    "translation": {
+      "thai": "ดังนั้นเมื่อฝูงชนเห็นว่าพระเยซูและเหล่าสาวกไม่ได้อยู่ที่นั่น พวกเขาจึงลงเรือลำเล็กเหล่านั้นและไปยังเมืองคาเปอรนาอุมเพื่อตามหาพระเยซู",
+      "thai_literal": "ดังนั้นเมื่อฝูงชนเห็นว่าพระเยซูไม่ได้อยู่ที่นั่น และสาวกของพระองค์ก็ไม่ได้อยู่ ด้วย พวกเขาเองจึงลงเรือลำเล็กและไปยังคาเปอรนาอุมโดยเสาะหาพระเยซู",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ὅτε οὖν εἶδεν",
+          "thai": "ดังนั้นเมื่อ...เห็น",
+          "rationale": "Per uW grammar-connect-logic-result: οὖν resumes the narrative interrupted by v.23's background. Thai 'ดังนั้นเมื่อ' connects the resumed action."
+        },
+        {
+          "greek": "ζητοῦντες τὸν Ἰησοῦν",
+          "thai": "เพื่อตามหาพระเยซู",
+          "rationale": "Per uW grammar-connect-logic-goal: ζητοῦντες = present-active-participle of purpose 'in order to seek.' KEY-TERM LOCK: ζητέω → ตามหา / แสวงหา (corpus pattern). Thai 'เพื่อตามหา' renders the purpose-clause."
+        }
+      ],
+      "notes": "FORESHADOWING: the same lemma ζητέω returns at v.26 (Jesus' critique 'you seek me not because you saw signs but because you ate'). The crowd's seeking is sign-driven and bread-driven, which Jesus immediately exposes."
+    }
+  },
+  {
+    "reference": "John 6:25",
+    "chapter": 6,
+    "verse": 25,
+    "greek": "Καὶ εὑρόντες αὐτὸν πέραν τῆς θαλάσσης εἶπον αὐτῷ·Ῥαββί,πότε ὧδε γέγονας;",
+    "bsb_english": "When they found Him on the other side of the sea, they asked Him, “Rabbi, when did You get here?”",
+    "translation": {
+      "thai": "เมื่อพบพระองค์ที่อีกฟากของทะเลแล้ว พวกเขาทูลถามว่า “รับบี พระองค์เสด็จมาถึงที่นี่เมื่อใด?”",
+      "thai_literal": "และเมื่อพวกเขาพบพระองค์ที่อีกฟากของทะเล ก็ทูลถามพระองค์ว่า “รับบี เมื่อใดพระองค์ได้มาถึงที่นี่?”",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "πέραν τῆς θαλάσσης",
+          "thai": "ที่อีกฟากของทะเล",
+          "rationale": "Per uW figs-explicit: here 'the other side' = the Capernaum side (opposite the feeding-side). Same phrase had different reference at v.1 (the crossing-direction was reversed there). Thai is literal; the context disambiguates."
+        },
+        {
+          "greek": "Ῥαββί",
+          "thai": "รับบี",
+          "rationale": "Aramaic transliteration. Crowd addresses Jesus as a respected teacher — Hebrew רַבִּי 'my great one.' KEY-TERM LOCK: ῥαββί → รับบี (corpus-locked, JHN 1:38 'Ῥαββί' explicitly glossed in same verse, JHN 1:49, 3:2, 4:31, 9:2, 11:8). Thai-Christian convention retains transliteration."
+        },
+        {
+          "greek": "πότε ὧδε γέγονας",
+          "thai": "พระองค์เสด็จมาถึงที่นี่เมื่อใด?",
+          "rationale": "γέγονας = perfect-active-2sg of γίνομαι 'have come to be / have arrived.' Royal เสด็จมา for divine motion. Thai question-particle suffices."
+        }
+      ],
+      "notes": "TITLE-ESCALATION: crowd uses 'Rabbi' = polite-respectful but not yet messianic-confessional (cf. v.14's 'the Prophet' which they did use). After Jesus' coming bread-of-life teaching, many will defect (v.66). Peter alone confesses 'Holy One of God' (v.69)."
+    }
+  },
+  {
+    "reference": "John 6:26",
+    "chapter": 6,
+    "verse": 26,
+    "greek": "ἀπεκρίθη αὐτοῖς ὁ Ἰησοῦς καὶ εἶπεν·Ἀμὴν ἀμὴν λέγω ὑμῖν,ζητεῖτέ με οὐχ ὅτι εἴδετε σημεῖα ἀλλ’ὅτι ἐφάγετε ἐκ τῶν ἄρτων καὶ ἐχορτάσθητε·",
+    "bsb_english": "Jesus replied, “Truly, truly, I tell you, it is not because you saw these signs that you are looking for Me, but because you ate the loaves and had your fill.",
+    "translation": {
+      "thai": "พระเยซูตรัสตอบพวกเขาว่า “อาเมน อาเมน เราบอกแก่พวกท่านว่า พวกท่านตามหาเราไม่ใช่เพราะเห็นหมายสำคัญ แต่เพราะได้กินขนมปังจนอิ่ม",
+      "thai_literal": "พระเยซูตรัสตอบและกล่าวแก่พวกเขาว่า “อาเมน อาเมน เราบอกพวกท่านว่า พวกท่านแสวงหาเราไม่ใช่เพราะพวกท่านเห็นหมายสำคัญ แต่เพราะพวกท่านได้กินจากขนมปังและอิ่มแล้ว",
+      "thai_summary": "พระเยซูทรงเปิดใจของฝูงชนตรงๆ — พวกเขาตามหาพระองค์ ไม่ใช่เพราะเข้าใจว่าหมายสำคัญชี้ให้เห็นตัวตนของพระองค์ แต่เพราะอยากได้ขนมปังฟรีอีก พระเยซูทรงเริ่มหันคำสนทนาจากอาหารที่เน่าเปื่อย ไปสู่อาหารที่คงอยู่ตลอดไป",
+      "key_decisions": [
+        {
+          "greek": "Ἀμὴν ἀμὴν λέγω ὑμῖν",
+          "thai": "อาเมน อาเมน เราบอกแก่พวกท่านว่า",
+          "rationale": "Per uW figs-doublet: Johannine doubled-amen formula (cf. JHN 1:51, 3:3, 5:19, 24, 25, 6:32, 47, 53). Thai 'อาเมน อาเมน เราบอกแก่พวกท่านว่า' (locked from JHN 1:51, 5:19, 5:24-25). RULES §0 + corpus phrase-consistency lock."
+        },
+        {
+          "greek": "ζητεῖτέ με...ἀλλ' ὅτι ἐφάγετε ἐκ τῶν ἄρτων καὶ ἐχορτάσθητε",
+          "thai": "พวกท่านตามหาเรา...แต่เพราะได้กินขนมปังจนอิ่ม",
+          "rationale": "ἐχορτάσθητε = aorist-passive of χορτάζω 'fill, satisfy.' Per uW figs-activepassive: 'were filled' → Thai active 'อิ่ม.' Verbal-link ζητέω from v.24, exposing the crowd's bread-driven motive."
+        }
+      ],
+      "notes": "DISCOURSE PIVOT: Jesus moves from physical-sign to spiritual-meaning. The bread-multiplication itself was the sign; eating-and-being-filled was its mere physical-consequence. The crowd has confused effect for cause. Doubled-amen-locked formula matches RULES §0 phrase-consistency."
+    }
+  },
+  {
+    "reference": "John 6:27",
+    "chapter": 6,
+    "verse": 27,
+    "greek": "ἐργάζεσθε μὴ τὴν βρῶσιν τὴν ἀπολλυμένην ἀλλὰ τὴν βρῶσιν τὴν μένουσαν εἰς ζωὴν αἰώνιον,ἣν ὁ υἱὸς τοῦ ἀνθρώπου ὑμῖν δώσει,τοῦτον γὰρ ὁ πατὴρ ἐσφράγισεν ὁ θεός.",
+    "bsb_english": "Do not work for food that perishes, but for food that endures to eternal life, which the Son of Man will give you. For on Him God the Father has placed His seal of approval.”",
+    "translation": {
+      "thai": "อย่าทำงานเพื่ออาหารที่เน่าเปื่อย แต่จงทำงานเพื่ออาหารที่ดำรงอยู่จนถึงชีวิตนิรันดร์ ซึ่งบุตรมนุษย์จะประทานแก่พวกท่าน เพราะพระเจ้าผู้ทรงเป็นพระบิดาได้ทรงประทับตรารับรองพระองค์ไว้แล้ว”",
+      "thai_literal": "จงทำงานไม่ใช่เพื่ออาหารที่กำลังเสื่อมสูญ แต่เพื่ออาหารที่คงอยู่จนถึงชีวิตนิรันดร์ ซึ่งบุตรมนุษย์จะประทานแก่พวกท่าน เพราะพระเจ้าพระบิดาได้ทรงประทับตราผู้นี้ไว้แล้ว”",
+      "thai_summary": "“ประทับตรา” (σφραγίζω) เป็นการกระทำของผู้มีอำนาจที่รับรองความถูกต้องและความเป็นเจ้าของของสิ่งหรือบุคคล พระบิดาทรงประทับตรารับรองว่าพระบุตรเป็นทูตที่ส่งมาจริง — เป็นภาพของการแต่งตั้งและความยินยอมเต็มที่ในกิจของพระบุตร อาหารฝ่ายวิญญาณที่พระเยซูทรงประทานจึงไม่ใช่เรื่องที่พระองค์อ้างเอง แต่เป็นพันธกิจที่พระบิดาทรงรับรองด้วยพระองค์เอง",
+      "key_decisions": [
+        {
+          "greek": "τὴν βρῶσιν τὴν ἀπολλυμένην",
+          "thai": "อาหารที่เน่าเปื่อย",
+          "rationale": "βρῶσις = 'food, eating' (vs. ἄρτος 'bread'). Present-mid-participle ἀπολλυμένην 'perishing.' NEW KEY-TERM LOCK: βρῶσις → อาหาร (recurs vv.27a, 27b, 55). Thai 'เน่าเปื่อย' captures the ongoing-decay sense."
+        },
+        {
+          "greek": "τὴν βρῶσιν τὴν μένουσαν εἰς ζωὴν αἰώνιον",
+          "thai": "อาหารที่ดำรงอยู่จนถึงชีวิตนิรันดร์",
+          "rationale": "Per uW figs-extrainfo: Jesus uses 'food' to refer to himself, but does not say so plainly here. μένουσαν = present-act-participle of μένω 'remain, abide' — a Johannine theme-word (ABIDE). Thai 'ดำรงอยู่' captures this. ζωὴν αἰώνιον → ชีวิตนิรันดร์ (corpus-locked)."
+        },
+        {
+          "greek": "ἣν ὁ υἱὸς τοῦ ἀνθρώπου ὑμῖν δώσει",
+          "thai": "ซึ่งบุตรมนุษย์จะประทานแก่พวกท่าน",
+          "rationale": "Per uW figs-123person + guidelines-sonofgodprinciples: 'Son of Man' = self-reference. Translation retains third-person form per RULES §3 (avoid first-person reformatting; let the title carry weight). KEY-TERM LOCK: υἱὸς τοῦ ἀνθρώπου → บุตรมนุษย์ (corpus, glossary-implicit)."
+        },
+        {
+          "greek": "τοῦτον γὰρ ὁ πατὴρ ἐσφράγισεν ὁ θεός",
+          "thai": "เพราะพระเจ้าผู้ทรงเป็นพระบิดาได้ทรงประทับตรารับรองพระองค์ไว้แล้ว",
+          "rationale": "Per uW figs-idiom: σφραγίζω = 'set a seal on' = certify, authorize. Thai 'ทรงประทับตรารับรอง' renders the authentication-act. The thai_summary unpacks the cultural/legal force. NEW KEY-TERM LOCK: σφραγίζω → ประทับตรา (recurs JHN 3:33 already in corpus)."
+        }
+      ],
+      "notes": "WORK-METAPHOR: Jesus picks up the crowd's labor-language (200 denarii etc.) and redirects it. ἐργάζεσθε imperative (positive command) tied to spiritual food. Verse 29 will redefine 'work' = belief itself. NEW KEY-TERM LOCKS: βρῶσις → อาหาร; σφραγίζω → ประทับตรา."
+    }
+  },
+  {
+    "reference": "John 6:28",
+    "chapter": 6,
+    "verse": 28,
+    "greek": "εἶπον οὖν πρὸς αὐτόν·Τί ποιῶμεν ἵνα ἐργαζώμεθα τὰ ἔργα τοῦ θεοῦ;",
+    "bsb_english": "Then they inquired, “What must we do to perform the works of God?”",
+    "translation": {
+      "thai": "พวกเขาจึงทูลถามพระองค์ว่า “เราทั้งหลายต้องทำอย่างไรจึงจะทำงานของพระเจ้าได้?”",
+      "thai_literal": "ดังนั้นพวกเขาจึงพูดกับพระองค์ว่า “เราจะทำอะไรเพื่อจะทำงานทั้งหลายของพระเจ้า?”",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "Τί ποιῶμεν ἵνα ἐργαζώμεθα τὰ ἔργα τοῦ θεοῦ",
+          "thai": "เราทั้งหลายต้องทำอย่างไรจึงจะทำงานของพระเจ้าได้?",
+          "rationale": "Deliberative subjunctive ποιῶμεν 'should we do.' The crowd takes Jesus' ἐργάζεσθε at face value as imperative — they ask for the to-do list. Verse 29 will subvert this. 'งานของพระเจ้า' = works that God requires (objective genitive)."
+        }
+      ],
+      "notes": "THE QUESTION misreads the offer. The crowd hears 'work' as Torah-obedience or supererogatory labor. Jesus will reframe 'the work of God' = singular act of believing in the Sent One. This is one of John's clearest works/faith-of-the-gospel articulations."
+    }
+  },
+  {
+    "reference": "John 6:29",
+    "chapter": 6,
+    "verse": 29,
+    "greek": "ἀπεκρίθη ὁ Ἰησοῦς καὶ εἶπεν αὐτοῖς·Τοῦτό ἐστιν τὸ ἔργον τοῦ θεοῦ ἵνα πιστεύητε εἰς ὃν ἀπέστειλεν ἐκεῖνος.",
+    "bsb_english": "Jesus replied, “The work of God is this: to believe in the One He has sent.”",
+    "translation": {
+      "thai": "พระเยซูตรัสตอบพวกเขาว่า “งานของพระเจ้าก็คือสิ่งนี้ — ให้พวกท่านเชื่อในผู้ที่พระองค์ทรงใช้มา”",
+      "thai_literal": "พระเยซูตรัสตอบและกล่าวแก่พวกเขาว่า “นี่คืองานของพระเจ้า เพื่อพวกท่านจะเชื่อในผู้ที่พระองค์ทรงส่งมา”",
+      "thai_summary": "ในข้อนี้พระเยซูทรงสรุปข่าวประเสริฐเหลือเพียงคำเดียว — เชื่อ การ “เชื่อ” ของยอห์นไม่ใช่เพียงการเห็นด้วยทางความคิด แต่เป็นการมอบชีวิตทั้งสิ้นแก่พระเยซูในฐานะพระบุตรที่พระบิดาทรงส่งมา “งาน” ที่พระเจ้าทรงเรียกร้องจากเรา จึงไม่ใช่กิจการ แต่เป็นความวางใจ — ของขวัญที่พระองค์ทรงเปิดทางให้เป็นไปได้",
+      "key_decisions": [
+        {
+          "greek": "Τοῦτό ἐστιν τὸ ἔργον τοῦ θεοῦ",
+          "thai": "งานของพระเจ้าก็คือสิ่งนี้",
+          "rationale": "Per uW figs-explicit: τὸ ἔργον (singular!) — Jesus reduces the plural ἔργα of v.28 to one work. The redefinition is theological: not many works, but one — believing. Thai 'งานของพระเจ้าก็คือสิ่งนี้' preserves the singular emphatic-declarative."
+        },
+        {
+          "greek": "ἵνα πιστεύητε εἰς ὃν ἀπέστειλεν ἐκεῖνος",
+          "thai": "ให้พวกท่านเชื่อในผู้ที่พระองค์ทรงใช้มา",
+          "rationale": "πιστεύω εἰς + acc. = the Johannine confessional 'believe into / trust into' — total commitment, not mere intellectual assent. Per uW writing-pronouns: ἐκεῖνος = God the Father. ἀπέστειλεν → ทรงใช้มา (apostle-language; corpus-locked, MAT 10:5, JHN 3:17, 5:36 etc.)."
+        }
+      ],
+      "notes": "WORKS/FAITH AXIS: this verse is the Johannine equivalent of Pauline sola-fide — the singular 'work of God' is faith-in-the-Son. Cf. Eph 2:8-9 (gift, not works); Rom 4:5 (faith reckoned as righteousness). Reformed and confessional-evangelical reading is foundational here per RULES §0."
+    }
+  },
+  {
+    "reference": "John 6:30",
+    "chapter": 6,
+    "verse": 30,
+    "greek": "εἶπον οὖν αὐτῷ·Τί οὖν ποιεῖς σὺ σημεῖον,ἵνα ἴδωμεν καὶ πιστεύσωμέν σοι;τί ἐργάζῃ;",
+    "bsb_english": "So they asked Him, “What sign then will You perform, so that we may see it and believe You? What will You do?",
+    "translation": {
+      "thai": "พวกเขาจึงทูลพระองค์ว่า “ถ้าเช่นนั้นพระองค์ทรงกระทำหมายสำคัญอะไรให้เราเห็นและเชื่อพระองค์ได้? พระองค์ทรงทำอะไรอยู่?",
+      "thai_literal": "พวกเขาจึงพูดกับพระองค์ว่า “แล้วท่านทำหมายสำคัญอะไร เพื่อเราจะเห็นและเชื่อท่าน? ท่านทำงานอะไร?",
+      "thai_summary": "คำถามของพวกเขาแสดงให้เห็นความเข้าใจผิดอันลึกซึ้ง — เพิ่งได้กินขนมปังที่พระองค์ทรงเลี้ยงห้าพันคนเมื่อวานนี้ พวกเขายังขอให้ทรงแสดงหมายสำคัญใหญ่กว่านั้น พวกเขาคิดถึงมานาในถิ่นทุรกันดารที่ทรงเลี้ยงคนทั้งชาติทุกวันนานสี่สิบปี — ขนาดของขนมปังหนึ่งวันยังไม่พอเทียบกับสิ่งที่โมเสสทรงทำ ในหัวใจของพวกเขา พระเยซูยังต้องพิสูจน์ตัวเอง",
+      "key_decisions": [
+        {
+          "greek": "Τί οὖν ποιεῖς σὺ σημεῖον",
+          "thai": "ถ้าเช่นนั้นพระองค์ทรงกระทำหมายสำคัญอะไรให้เราเห็น",
+          "rationale": "Emphatic σὺ ('you' personal pronoun unnecessary unless emphatic). The crowd's challenge is 'YOU — what sign?' implying inadequacy of yesterday's feeding. Thai 'พระองค์' carries the emphasis."
+        },
+        {
+          "greek": "ἵνα ἴδωμεν καὶ πιστεύσωμέν σοι",
+          "thai": "ให้เราเห็นและเชื่อพระองค์ได้",
+          "rationale": "Notice the shift: πιστεύσωμέν σοι (dative — 'believe you' = trust your claims) vs v.29 πιστεύητε εἰς (acc. — 'believe into him' = give yourself to him). The crowd hasn't grasped Jesus' soteriological-grade πιστεύω εἰς."
+        },
+        {
+          "greek": "Pronouns: address-form",
+          "thai": "ทรง...พระองค์...พระองค์",
+          "rationale": "Crowd addresses Jesus respectfully — but with skepticism. RULES §3 dialogue: human-to-Jesus uses ทรง + พระองค์ even when adversarial, since the narrator-frame still attributes divinity. Compare to demons in MAR 1:24 'ข้า/ท่าน' (no honorifics). Crowd is human, so honorifics retained."
+        }
+      ],
+      "notes": "ESCALATION-DEMAND: 'show us a bigger sign' — the chain from yesterday's bread to demanded-manna at v.31. The skepticism reveals what Jesus diagnosed at v.26: their seeking is sign-driven, and signs that don't match their political-messiah expectations are insufficient."
+    }
+  },
+  {
+    "reference": "John 6:31",
+    "chapter": 6,
+    "verse": 31,
+    "greek": "οἱ πατέρες ἡμῶν τὸ μάννα ἔφαγον ἐν τῇ ἐρήμῳ,καθώς ἐστιν γεγραμμένον·Ἄρτον ἐκ τοῦ οὐρανοῦ ἔδωκεν αὐτοῖς φαγεῖν.",
+    "bsb_english": "Our fathers ate the manna in the wilderness, as it is written: ‘He gave them bread from heaven to eat.’”",
+    "translation": {
+      "thai": "บรรพบุรุษของเราได้กินมานาในถิ่นทุรกันดาร ตามที่มีคำเขียนไว้ว่า ‘พระองค์ประทานขนมปังจากสวรรค์ให้พวกเขากิน’”",
+      "thai_literal": "บรรพบุรุษของพวกเรากินมานาในถิ่นทุรกันดาร ดังที่ได้มีเขียนไว้ว่า ‘พระองค์ประทานขนมปังจากสวรรค์ให้พวกเขากิน’”",
+      "thai_summary": "ข้อความที่ฝูงชนยกมานี้ใกล้เคียงกับสดด. 78:24 (และอาจรวม อพย. 16:4, 15 และ สดด. 105:40 ด้วย) ในมุมมองของพวกเขา โมเสสคือผู้ให้มานา ดังนั้นพระเมสสิยาห์ใหม่ที่อ้างว่ามาแทนต้องทำสิ่งที่เทียบเท่าหรือยิ่งใหญ่กว่า แต่ในข้อต่อไปพระเยซูจะแก้ความเข้าใจของพวกเขา — มานาไม่ได้มาจากโมเสส แต่มาจากพระบิดา และมานาที่แท้จริงคือพระบุตรเอง",
+      "key_decisions": [
+        {
+          "greek": "οἱ πατέρες ἡμῶν τὸ μάννα ἔφαγον ἐν τῇ ἐρήμῳ",
+          "thai": "บรรพบุรุษของเราได้กินมานาในถิ่นทุรกันดาร",
+          "rationale": "Per uW figs-explicit + figs-metaphor: πατέρες = 'forefathers/ancestors' (not biological fathers). KEY-TERM LOCK: μάννα → มานา (corpus); πατέρες (ancestral) → บรรพบุรุษ (corpus, MAT 23:30, ACT 7:11 etc.); ἔρημος → ถิ่นทุรกันดาร (RULES §4 wilderness-rendering)."
+        },
+        {
+          "greek": "καθώς ἐστιν γεγραμμένον",
+          "thai": "ตามที่มีคำเขียนไว้ว่า",
+          "rationale": "Per uW figs-activepassive + writing-quotations: standard formula introducing OT-citation. Perfect-passive 'has been written / it stands written.' Thai 'ตามที่มีคำเขียนไว้ว่า' (corpus pattern, MAT 4:4, MRK 1:2 etc.)."
+        },
+        {
+          "greek": "Ἄρτον ἐκ τοῦ οὐρανοῦ ἔδωκεν αὐτοῖς φαγεῖν",
+          "thai": "พระองค์ประทานขนมปังจากสวรรค์ให้พวกเขากิน",
+          "rationale": "Per uW figs-quotesinquotes: quote within quote. The crowd's citation closely matches Ps 78:24 LXX (ἄρτον οὐρανοῦ ἔδωκεν αὐτοῖς) with conflation from Exod 16:4, 15. Thai uses single Thai brackets ‘…’ for the inner quote (RULES §5b). 'พระองค์' here is ambiguous in Thai per the Greek's αὐτοῖς (referent unclear: God or Moses, per uW writing-pronouns) — Thai pronoun is generic-divine, allowing Jesus' v.32 correction to land."
+        }
+      ],
+      "notes": "OT CITATION: closest match is Ps 78:24 (LXX 77:24): 'ἄρτον οὐρανοῦ ἔδωκεν αὐτοῖς.' Likely composite with Exod 16:4 ('I am about to rain bread from heaven') and possibly Ps 105:40, Neh 9:15. The crowd's understanding: Moses gave bread (per popular tradition — though Exod 16:15 attributes it to YHWH). Jesus will correct in v.32. ADDED TO NT_OT_CITATIONS: JHN 6:31 citation (composite) → PSA 78:24, EXO 16:4, 16:15. PUNCTUATION per RULES §5b: outer ‘…’ for direct speech (not present here — already inside Jesus' speech), inner ‘…’ for inner-quote (used here)."
+    }
+  },
+  {
+    "reference": "John 6:32",
+    "chapter": 6,
+    "verse": 32,
+    "greek": "εἶπεν οὖν αὐτοῖς ὁ Ἰησοῦς·Ἀμὴν ἀμὴν λέγω ὑμῖν,οὐ Μωϋσῆς δέδωκεν ὑμῖν τὸν ἄρτον ἐκ τοῦ οὐρανοῦ,ἀλλ’ὁ πατήρ μου δίδωσιν ὑμῖν τὸν ἄρτον ἐκ τοῦ οὐρανοῦ τὸν ἀληθινόν·",
+    "bsb_english": "Jesus said to them, “Truly, truly, I tell you, it was not Moses who gave you the bread from heaven, but it is My Father who gives you the true bread from heaven.",
+    "translation": {
+      "thai": "พระเยซูจึงตรัสกับพวกเขาว่า “อาเมน อาเมน เราบอกแก่พวกท่านว่า ไม่ใช่โมเสสที่ให้ขนมปังจากสวรรค์แก่พวกท่าน แต่พระบิดาของเราต่างหากที่กำลังประทานขนมปังที่แท้จากสวรรค์แก่พวกท่าน",
+      "thai_literal": "ดังนั้นพระเยซูจึงตรัสกับพวกเขาว่า “อาเมน อาเมน เราบอกแก่พวกท่าน ไม่ใช่โมเสสที่ได้ให้ขนมปังจากสวรรค์แก่พวกท่าน แต่พระบิดาของเราเป็นผู้ที่ประทานขนมปังจากสวรรค์ที่แท้จริงแก่พวกท่าน",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "οὐ Μωϋσῆς δέδωκεν...ἀλλ' ὁ πατήρ μου δίδωσιν",
+          "thai": "ไม่ใช่โมเสสที่ให้...แต่พระบิดาของเราต่างหากที่กำลังประทาน",
+          "rationale": "Per uW: emphatic οὐ...ἀλλ' negative-positive contrast. Note also the tense-shift: perfect δέδωκεν (Moses 'has given' — completed) vs. present δίδωσιν (Father 'is giving' — present-continuing). Per uW figs-explicit: the Father not only gave manna in the past but is GIVING the true bread NOW. Thai 'ต่างหาก...กำลังประทาน' captures both the contrast and the present-giving."
+        },
+        {
+          "greek": "τὸν ἄρτον ἐκ τοῦ οὐρανοῦ τὸν ἀληθινόν",
+          "thai": "ขนมปังที่แท้จากสวรรค์",
+          "rationale": "Per uW figs-extrainfo: the 'true bread' refers to Jesus himself, but he doesn't say so plainly until v.35. Translation preserves the metaphor without flattening. ἀληθινός (corpus-locked = แท้/แท้จริง, JHN 1:9, 4:23, 15:1) — choice 'แท้' here for shorter natural-Thai flow."
+        },
+        {
+          "greek": "ὁ πατήρ μου",
+          "thai": "พระบิดาของเรา",
+          "rationale": "Per uW guidelines-sonofgodprinciples: 'Father' as title of God carries Christological weight. KEY-TERM LOCK: ὁ πατήρ μου → พระบิดาของเรา (corpus, JHN 5:17 etc.)."
+        }
+      ],
+      "notes": "TWO CORRECTIONS embedded: (1) attribution — Moses didn't give, the Father did; (2) tense — the Father IS giving (present-continuing), not just past-historical manna. The 'true bread' (ἀληθινός) sets up v.35's I-AM declaration."
+    }
+  },
+  {
+    "reference": "John 6:33",
+    "chapter": 6,
+    "verse": 33,
+    "greek": "ὁ γὰρ ἄρτος τοῦ θεοῦ ἐστιν ὁ καταβαίνων ἐκ τοῦ οὐρανοῦ καὶ ζωὴν διδοὺς τῷ κόσμῳ.",
+    "bsb_english": "For the bread of God is He who comes down from heaven and gives life to the world.”",
+    "translation": {
+      "thai": "เพราะขนมปังของพระเจ้าคือผู้ที่ลงมาจากสวรรค์และประทานชีวิตแก่โลก”",
+      "thai_literal": "เพราะขนมปังของพระเจ้าคือผู้ซึ่งกำลังลงมาจากสวรรค์และให้ชีวิตแก่โลก",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ὁ καταβαίνων ἐκ τοῦ οὐρανοῦ",
+          "thai": "ผู้ที่ลงมาจากสวรรค์",
+          "rationale": "Per uW figs-extrainfo: present-active-participle masc-sg 'he who comes down.' The participle is masculine (Jesus referent) not neuter (would be 'that which'); the grammar already identifies the bread as a person. Thai 'ผู้ที่ลงมาจากสวรรค์' (gendered-personal) preserves this. καταβαίνω → ลงมา (corpus pattern, JHN 1:32, 3:13)."
+        },
+        {
+          "greek": "ζωὴν διδοὺς τῷ κόσμῳ",
+          "thai": "ประทานชีวิตแก่โลก",
+          "rationale": "Per uW figs-explicit: ζωή here = eternal life. Per uW figs-metonymy: τῷ κόσμῳ = the people in the world. KEY-TERM LOCKS: ζωή → ชีวิต (corpus); κόσμος → โลก (corpus, JHN 1:9, 3:16, 6:51 etc.). Thai is direct."
+        }
+      ],
+      "notes": "INCARNATION-LANGUAGE: 'comes down from heaven' will be picked up by hostile listeners at v.42 ('how can he say I came down from heaven?'). The Logos-becoming-flesh of JHN 1:14 is now applied to bread-typology — Christ's incarnation as the heavenly food. Universalist-sounding 'gives life to the world' (κόσμος here = inhabited-creation as the scope of redemptive offer, not soteriological universalism)."
+    }
+  },
+  {
+    "reference": "John 6:34",
+    "chapter": 6,
+    "verse": 34,
+    "greek": "εἶπον οὖν πρὸς αὐτόν·Κύριε,πάντοτε δὸς ἡμῖν τὸν ἄρτον τοῦτον.",
+    "bsb_english": "“Sir,” they said, “give us this bread at all times.”",
+    "translation": {
+      "thai": "พวกเขาจึงทูลพระองค์ว่า “ท่านเจ้าข้า ขอประทานขนมปังนี้แก่พวกเราทุกเวลาเถิด”",
+      "thai_literal": "ดังนั้นพวกเขาจึงพูดกับพระองค์ว่า “นายเจ้าข้า ขอท่านประทานขนมปังนี้แก่พวกเราเสมอ",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "Κύριε",
+          "thai": "ท่านเจ้าข้า",
+          "rationale": "Per uW: 'Sir' as polite human address. The crowd doesn't yet recognize Jesus' divinity. Thai 'ท่านเจ้าข้า' = polite-respectful address (locked from JHN 5:7 same κύριε-as-polite-Sir). Distinct from divine 'องค์พระผู้เป็นเจ้า.'"
+        },
+        {
+          "greek": "πάντοτε δὸς ἡμῖν τὸν ἄρτον τοῦτον",
+          "thai": "ขอประทานขนมปังนี้แก่พวกเราทุกเวลาเถิด",
+          "rationale": "Per uW figs-synecdoche: 'bread' could mean (1) food in general (Samaritan-woman-style misunderstanding cf. JHN 4:15 'give me this water'); (2) some heavenly gift. The crowd's request parallels the Samaritan woman's at JHN 4:15 — the same misunderstanding-pattern. Thai 'ทุกเวลา' = πάντοτε 'always.'"
+        }
+      ],
+      "notes": "JOHANNINE MISUNDERSTANDING-PATTERN: like the Samaritan woman at JHN 4:15 ('give me this water so I won't be thirsty'), the crowd materializes the metaphor. This sets up Jesus' explicit declaration at v.35. Cf. Nicodemus on rebirth (3:4), the disciples on food (4:33), Martha on resurrection (11:24)."
+    }
+  },
+  {
+    "reference": "John 6:35",
+    "chapter": 6,
+    "verse": 35,
+    "greek": "Εἶπεν αὐτοῖς ὁ Ἰησοῦς·Ἐγώ εἰμι ὁ ἄρτος τῆς ζωῆς·ὁ ἐρχόμενος πρὸς ἐμὲ οὐ μὴ πεινάσῃ,καὶ ὁ πιστεύων εἰς ἐμὲ οὐ μὴ διψήσει πώποτε.",
+    "bsb_english": "Jesus answered, “I am the bread of life. Whoever comes to Me will never hunger, and whoever believes in Me will never thirst.",
+    "translation": {
+      "thai": "พระเยซูตรัสกับพวกเขาว่า “เราเป็นขนมปังแห่งชีวิต ผู้ที่มาหาเราจะไม่หิวเลย และผู้ที่เชื่อในเราจะไม่กระหายอีกเลย",
+      "thai_literal": "พระเยซูตรัสกับพวกเขาว่า “เราคือขนมปังแห่งชีวิต ผู้ที่กำลังมาหาเราจะไม่หิวเลย และผู้ที่เชื่อในเราจะไม่กระหายเลยตลอดไป",
+      "thai_summary": "“เราเป็น” (Ἐγώ εἰμι) ในข้อนี้คือคำประกาศ “เราเป็น” ครั้งแรกของพระเยซูในยอห์น ที่มีคำขยายตามมา (มีอีก 6 ครั้ง — แสงของโลก ประตู ผู้เลี้ยงที่ดี การฟื้นคืนพระชนม์ ทาง-ความจริง-ชีวิต และเถาองุ่นแท้) วลีนี้สะท้อนพระนาม “เราเป็น” ของพระเจ้าใน อพย. 3:14 พระเยซูทรงเป็นทั้งของกำนัล (ขนมปังที่พระบิดาประทาน) และเป็นพระเจ้าผู้ประทานในเวลาเดียวกัน",
+      "key_decisions": [
+        {
+          "greek": "Ἐγώ εἰμι ὁ ἄρτος τῆς ζωῆς",
+          "thai": "เราเป็นขนมปังแห่งชีวิต",
+          "rationale": "FIRST PREDICATIVE I-AM in John (with 6 more: 8:12 light, 10:7,9 door, 10:11,14 good shepherd, 11:25 resurrection, 14:6 way/truth/life, 15:1,5 vine). Echoes Exod 3:14 LXX. Per uW figs-exmetaphor: bread-metaphor extended throughout the discourse. 'เป็น' (Thai copula) for the predicative I-AM (vs. v.20's absolute Ἐγώ εἰμι rendered 'นี่เราเอง'). NEW LOCK pattern: 'เราเป็น...' for predicative I-AM, recurring vv.41, 48, 51 etc."
+        },
+        {
+          "greek": "ὁ ἐρχόμενος πρὸς ἐμὲ",
+          "thai": "ผู้ที่มาหาเรา",
+          "rationale": "Per uW figs-explicit: 'coming' = becoming a disciple, not physical-coming. Thai 'มาหาเรา' is sufficiently natural; the spiritual-meaning is unpacked in thai_summary at strategic verses."
+        },
+        {
+          "greek": "οὐ μὴ πεινάσῃ...οὐ μὴ διψήσει πώποτε",
+          "thai": "จะไม่หิวเลย...จะไม่กระหายอีกเลย",
+          "rationale": "Per uW figs-litotes + figs-doublet: emphatic-double-negative οὐ μή + aorist-subjunctive 'will certainly never.' Hunger-thirst doublet emphasizes complete spiritual satisfaction. Thai 'จะไม่...เลย' renders the strong negation; 'อีกเลย' adds the never-again sense for διψήσει πώποτε."
+        }
+      ],
+      "notes": "THE FIRST 'I AM + predicate' declaration of John's Gospel. ADDED TO NT_OT_CITATIONS: JHN 6:35 thematic_allusion → ISA 49:10 (eschatological 'they shall not hunger or thirst,' Servant-Song imagery), ISA 55:1-3 (covenantal-banquet invitation 'come, eat and drink'). RULES §0 — Reformed-evangelical reading sees this as Christ the sufficient saviour."
+    }
+  },
+  {
+    "reference": "John 6:36",
+    "chapter": 6,
+    "verse": 36,
+    "greek": "ἀλλ’εἶπον ὑμῖν ὅτι καὶ ἑωράκατέ με καὶ οὐ πιστεύετε.",
+    "bsb_english": "But as I stated, you have seen Me and still you do not believe.",
+    "translation": {
+      "thai": "แต่ตามที่เราได้บอกพวกท่านแล้ว แม้พวกท่านได้เห็นเรา พวกท่านก็ยังไม่เชื่อ",
+      "thai_literal": "แต่เราได้กล่าวแก่พวกท่านแล้วว่า ทั้งที่พวกท่านได้เห็นเราแล้ว พวกท่านก็ไม่เชื่อ",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "εἶπον ὑμῖν ὅτι",
+          "thai": "ตามที่เราได้บอกพวกท่านแล้ว",
+          "rationale": "Aorist 'I told you.' The reference is unclear in the chapter — possibly v.26's diagnosis ('you seek me not because of signs') or earlier teaching not recorded. Thai 'ตามที่...แล้ว' renders the 'as I stated' sense without forcing identification."
+        },
+        {
+          "greek": "καὶ ἑωράκατέ με καὶ οὐ πιστεύετε",
+          "thai": "แม้พวกท่านได้เห็นเรา พวกท่านก็ยังไม่เชื่อ",
+          "rationale": "καί...καί construction = 'both...and' with concessive force here. Perfect-active ἑωράκατε 'you have seen' + present οὐ πιστεύετε 'you do not believe.' Thai 'แม้...ก็ยัง' (concession + persistence)."
+        }
+      ],
+      "notes": "JOHANNINE INVERSION: signs → faith is not automatic. Seeing without believing is the chapter's grim refrain (vv.36, 64). Sets up v.37 (only those given by the Father will come)."
+    }
+  },
+  {
+    "reference": "John 6:37",
+    "chapter": 6,
+    "verse": 37,
+    "greek": "πᾶν ὃ δίδωσίν μοι ὁ πατὴρ πρὸς ἐμὲ ἥξει,καὶ τὸν ἐρχόμενον πρός με οὐ μὴ ἐκβάλω ἔξω,",
+    "bsb_english": "Everyone the Father gives Me will come to Me, and the one who comes to Me I will never drive away.",
+    "translation": {
+      "thai": "ทุกคนที่พระบิดาประทานให้แก่เราจะมาหาเรา และผู้ที่มาหาเรา เราจะไม่มีวันขับไล่ออกไปเลย",
+      "thai_literal": "ทุกคนที่พระบิดาประทานแก่เราจะมายังเรา และผู้ที่มาหาเราเราจะไม่ขับออกไปข้างนอกอย่างแน่นอน",
+      "thai_summary": "ในข้อนี้พระเยซูทรงเปิดเผยด้านที่ลึกของการช่วยให้รอด — มีกระบวนการของพระบิดาที่ทรงกำลังประทานคนของพระองค์ให้แก่พระบุตร (ข้อ 44 ขยายความนี้) แต่ในขณะเดียวกัน ทุกคนที่มาหาพระคริสต์จะได้รับการต้อนรับอย่างแน่นอน — ไม่มีใครที่มาแล้วถูกปฏิเสธ ทั้งสองด้านนี้คือพระคุณของพระเจ้าและความรับผิดชอบของมนุษย์ ซึ่งทำงานร่วมกันในการช่วยให้รอด",
+      "key_decisions": [
+        {
+          "greek": "πᾶν ὃ δίδωσίν μοι ὁ πατὴρ",
+          "thai": "ทุกคนที่พระบิดาประทานให้แก่เรา",
+          "rationale": "Per uW writing-pronouns + figs-explicit: πᾶν (neuter-singular substantive) refers to the believing community as a unified whole; rendered in Thai as 'ทุกคน' (each-one) since Thai grammar handles the collective-individuated relation more naturally. ὁ πατήρ → พระบิดา (corpus-locked, RULES §3 honorific)."
+        },
+        {
+          "greek": "τὸν ἐρχόμενον πρός με οὐ μὴ ἐκβάλω ἔξω",
+          "thai": "ผู้ที่มาหาเรา เราจะไม่มีวันขับไล่ออกไปเลย",
+          "rationale": "Per uW figs-litotes: emphatic double-negative οὐ μὴ ἐκβάλω ἔξω 'will absolutely not cast out.' Thai 'ไม่มีวัน...เลย' renders the strong-negation. Per uW figs-explicit: 'come' = come to be a disciple, but the surface 'come to me' is sufficient in Thai given the context."
+        }
+      ],
+      "notes": "ELECTION + SECURITY: this verse holds together divine sovereignty (Father's giving) and human invitation (whoever comes). Per RULES §0 evangelical-Protestant — reformed-Augustinian reading is consistent with the verse's grammar; v.44 will reinforce the divine-drawing. The 'no rejection' clause is gospel-warrant for all who come."
+    }
+  },
+  {
+    "reference": "John 6:38",
+    "chapter": 6,
+    "verse": 38,
+    "greek": "ὅτι καταβέβηκα ἀπὸ τοῦ οὐρανοῦ οὐχ ἵνα ποιῶ τὸ θέλημα τὸ ἐμὸν ἀλλὰ τὸ θέλημα τοῦ πέμψαντός με·",
+    "bsb_english": "For I have come down from heaven, not to do My own will, but to do the will of Him who sent Me.",
+    "translation": {
+      "thai": "เพราะเราลงมาจากสวรรค์ไม่ใช่เพื่อทำตามน้ำพระทัยของเรา แต่เพื่อทำตามน้ำพระทัยของผู้ที่ทรงใช้เรามา",
+      "thai_literal": "เพราะเราได้ลงมาจากสวรรค์ ไม่ใช่เพื่อจะทำตามใจของเราเอง แต่เพื่อทำตามน้ำพระทัยของผู้ที่ส่งเรามา",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "καταβέβηκα ἀπὸ τοῦ οὐρανοῦ",
+          "thai": "เราลงมาจากสวรรค์",
+          "rationale": "Per uW grammar-connect-logic-result: ὅτι 'for/because' grounds v.37's promise. Perfect καταβέβηκα 'have come down' (completed action with continuing state). 'เราลงมา' for natural Thai. Note: the Son speaking — first-person 'เรา' for Jesus (RULES §3 self-reference)."
+        },
+        {
+          "greek": "τὸ θέλημα τοῦ πέμψαντός με",
+          "thai": "น้ำพระทัยของผู้ที่ทรงใช้เรามา",
+          "rationale": "θέλημα → น้ำพระทัย (corpus-locked, royal-honorific MAT 6:10 etc.). 'ผู้ที่ทรงใช้เรามา' = 'the one who sent me' = the Father (uW figs-explicit, locked from JHN 4:34, 5:23, 5:30, 5:37 etc.). 'ทรงใช้' = royal/honorific 'sent.'"
+        }
+      ],
+      "notes": "THE INCARNATIONAL OBEDIENCE: the Son's coming is purposive — to do the Father's will. This is the Reformed kenosis (Phil 2:5-8) tracked in Johannine framework. Sets up v.39's specification of that will."
+    }
+  },
+  {
+    "reference": "John 6:39",
+    "chapter": 6,
+    "verse": 39,
+    "greek": "τοῦτο δέ ἐστιν τὸ θέλημα τοῦ πέμψαντός με ἵνα πᾶν ὃ δέδωκέν μοι μὴ ἀπολέσω ἐξ αὐτοῦ ἀλλὰ ἀναστήσω αὐτὸ τῇ ἐσχάτῃ ἡμέρᾳ.",
+    "bsb_english": "And this is the will of Him who sent Me, that I shall lose none of those He has given Me, but raise them up at the last day.",
+    "translation": {
+      "thai": "และน้ำพระทัยของผู้ที่ทรงใช้เรามาก็คือสิ่งนี้ — เราจะไม่ให้ผู้ใดที่พระองค์ประทานแก่เราหายไปแม้แต่คนเดียว แต่จะทำให้พวกเขาเป็นขึ้นมาในวันสุดท้าย",
+      "thai_literal": "และนี่คือน้ำพระทัยของผู้ที่ส่งเรามา เพื่อทุกสิ่งที่พระองค์ได้ประทานแก่เรา เราจะไม่ให้สูญเสียจากนั้นไป แต่จะให้ฟื้นขึ้นในวันสุดท้าย",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "πᾶν ὃ δέδωκέν μοι μὴ ἀπολέσω ἐξ αὐτοῦ",
+          "thai": "เราจะไม่ให้ผู้ใดที่พระองค์ประทานแก่เราหายไปแม้แต่คนเดียว",
+          "rationale": "Per uW figs-litotes + writing-pronouns: πᾶν (neuter-collective referring to believers) + αὐτό (pronoun referring back to the group). The litotes 'lose none' = 'preserve all.' Thai 'ไม่ให้ผู้ใด...หายไปแม้แต่คนเดียว' (positive equivalent + emphatic 'แม้แต่คนเดียว'). VERBAL-LINK with v.12 ἀπόληται (none of the leftover bread should be lost) — the bread sign embodies this soteriological non-loss."
+        },
+        {
+          "greek": "ἀναστήσω αὐτὸ τῇ ἐσχάτῃ ἡμέρᾳ",
+          "thai": "จะทำให้พวกเขาเป็นขึ้นมาในวันสุดท้าย",
+          "rationale": "Per uW figs-idiom: ἀνίστημι = 'raise up,' specifically resurrection-from-dead. Thai 'ทำให้เป็นขึ้นมา' (corpus pattern for resurrection language, MAT 22:31, MRK 12:25). ἐσχάτη ἡμέρα = the eschatological 'Day of the Lord' (uW figs-explicit). KEY-TERM LOCK: ἐσχάτη ἡμέρα → วันสุดท้าย (corpus-locked, repeats vv.40, 44, 54)."
+        }
+      ],
+      "notes": "PERSEVERANCE-OF-THE-SAINTS: the Son commits to lose none of those given by the Father, AND to raise them at the last day. Eternal security + bodily resurrection in one verse. Reformed reading: an unbreakable salvific commitment from both Father (election) and Son (preservation). KEY-TERM LOCK: ἐσχάτη ἡμέρα → วันสุดท้าย."
+    }
+  },
+  {
+    "reference": "John 6:40",
+    "chapter": 6,
+    "verse": 40,
+    "greek": "τοῦτο γάρ ἐστιν τὸ θέλημα τοῦ πατρός μου ἵνα πᾶς ὁ θεωρῶν τὸν υἱὸν καὶ πιστεύων εἰς αὐτὸν ἔχῃ ζωὴν αἰώνιον,καὶ ἀναστήσω αὐτὸν ἐγὼ τῇ ἐσχάτῃ ἡμέρᾳ.",
+    "bsb_english": "For it is My Father’s will that everyone who looks to the Son and believes in Him shall have eternal life, and I will raise him up at the last day.”",
+    "translation": {
+      "thai": "เพราะน้ำพระทัยของพระบิดาของเราคือสิ่งนี้ — ให้ทุกคนที่มองดูพระบุตรและเชื่อในพระองค์มีชีวิตนิรันดร์ และเราจะทำให้คนนั้นเป็นขึ้นมาในวันสุดท้าย”",
+      "thai_literal": "เพราะนี่คือน้ำพระทัยของพระบิดาของเรา เพื่อทุกคนที่กำลังเห็นพระบุตรและกำลังเชื่อในพระองค์จะมีชีวิตนิรันดร์ และเราจะให้คนนั้นเป็นขึ้นมาในวันสุดท้าย",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "πᾶς ὁ θεωρῶν τὸν υἱὸν καὶ πιστεύων εἰς αὐτὸν",
+          "thai": "ทุกคนที่มองดูพระบุตรและเชื่อในพระองค์",
+          "rationale": "Per uW figs-metaphor: θεωρέω 'see/perceive/contemplate' here implies understanding/recognizing, not mere physical-vision. Two participles linked: 'see' + 'believe' = the responsive-recognition of faith. Thai 'มองดู' captures contemplative-seeing without flattening to mere belief. Cf. JHN 3:14-15 bronze-serpent typology (look + live)."
+        },
+        {
+          "greek": "ἔχῃ ζωὴν αἰώνιον",
+          "thai": "มีชีวิตนิรันดร์",
+          "rationale": "Present-active-subjunctive 'might have / have-as-present-possession.' KEY-TERM LOCK: ζωὴ αἰώνιος → ชีวิตนิรันดร์ (corpus, JHN 3:15-16, 5:24 etc.). Eternal life as already-possessed in the present, not merely future-anticipated — the Johannine realized-eschatology."
+        }
+      ],
+      "notes": "FATHER+SON-COORDINATION: vv.39-40 are a couplet — same will of the Father, expressed first as Son's preservation (v.39), then as believer's salvation+resurrection (v.40). Same outcome from both vantages. JHN 3:14-15 echo (the looking-and-living language traces back to the bronze-serpent typology)."
+    }
+  },
+  {
+    "reference": "John 6:41",
+    "chapter": 6,
+    "verse": 41,
+    "greek": "Ἐγόγγυζον οὖν οἱ Ἰουδαῖοι περὶ αὐτοῦ ὅτι εἶπεν·Ἐγώ εἰμι ὁ ἄρτος ὁ καταβὰς ἐκ τοῦ οὐρανοῦ,",
+    "bsb_english": "At this, the Jews began to grumble about Jesus because He had said, “I am the bread that came down from heaven.”",
+    "translation": {
+      "thai": "ผู้นำชาวยิวจึงเริ่มบ่นเกี่ยวกับพระองค์ เพราะที่ตรัสว่า “เราเป็นขนมปังที่ลงมาจากสวรรค์”",
+      "thai_literal": "ดังนั้นพวกยิวจึงบ่นเกี่ยวกับพระองค์ เพราะพระองค์ตรัสว่า “เราเป็นขนมปังที่ลงมาจากสวรรค์”",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "οἱ Ἰουδαῖοι",
+          "thai": "ผู้นำชาวยิว",
+          "rationale": "Per uW figs-synecdoche: 'from here to the end of the chapter, refers to the Jewish leaders' (not Jews-as-ethnic-group). Thai 'ผู้นำชาวยิว' (Jewish leaders) prevents anti-Jewish misreading — same Johannine pattern as JHN 1:19, 5:10, 7:1, 9:22 already in corpus. Note: this is SHIFT from ὄχλος (vv.22, 24) — the same crowd is now categorized by John as 'the Jewish leaders/authorities' for theological-narrative purposes."
+        },
+        {
+          "greek": "Ἐγόγγυζον",
+          "thai": "เริ่มบ่น",
+          "rationale": "Imperfect-active 'were grumbling/complaining.' γογγύζω → บ่น. NEW KEY-TERM LOCK for NT corpus: γογγύζω → บ่น (recurs vv.43, 61). The verb echoes Israel's wilderness-grumbling against Moses (Exod 16:2, 8 LXX uses γογγύζω). Per uW lexical use: deliberate Exodus-typology — these 'Jewish leaders' replay the wilderness-rebellion against the manna-giver."
+        },
+        {
+          "greek": "ὁ ἄρτος ὁ καταβὰς ἐκ τοῦ οὐρανοῦ",
+          "thai": "ขนมปังที่ลงมาจากสวรรค์",
+          "rationale": "Per uW figs-metaphor: paraphrase of v.33. Aorist participle ὁ καταβάς ('that came down') vs. v.33's present ὁ καταβαίνων ('coming down'). The shift may signal completed-incarnation in retrospective view. Thai is identical surface — 'ขนมปังที่ลงมาจากสวรรค์.' Quotation marks per RULES §5b inner ‘…’ within Jesus' speech... but this is direct narrator-quote of Jesus, so use outer “…”."
+        }
+      ],
+      "notes": "EXODUS-TYPOLOGY: γογγύζω deliberately echoes the wilderness-grumbling lexicon (Exod 16:2-12 LXX). Just as Israel grumbled at the manna provision (Exod 16) the Jewish leaders now grumble at the true-bread offer. ADDED TO NT_OT_CITATIONS: JHN 6:41 lexical_allusion → EXO 16:2-12 (γογγύζω wilderness-grumbling). NEW KEY-TERM LOCK: γογγύζω → บ่น."
+    }
+  },
+  {
+    "reference": "John 6:42",
+    "chapter": 6,
+    "verse": 42,
+    "greek": "καὶ ἔλεγον·Οὐχ οὗτός ἐστιν Ἰησοῦς ὁ υἱὸς Ἰωσήφ,οὗ ἡμεῖς οἴδαμεν τὸν πατέρα καὶ τὴν μητέρα;πῶς νῦν λέγει ὅτι Ἐκ τοῦ οὐρανοῦ καταβέβηκα;",
+    "bsb_english": "They were asking, “Is this not Jesus, the son of Joseph, whose father and mother we know? How then can He say, ‘I have come down from heaven’?”",
+    "translation": {
+      "thai": "พวกเขาพูดว่า “คนนี้ไม่ใช่เยซู ลูกของโยเซฟ ผู้ที่เรารู้จักทั้งบิดาและมารดาของเขาหรือ? เหตุใดเดี๋ยวนี้จึงพูดว่า ‘เราลงมาจากสวรรค์’?”",
+      "thai_literal": "และพวกเขาพูดว่า “คนนี้ไม่ใช่เยซูลูกของโยเซฟผู้ที่เรารู้จักบิดาและมารดาของเขาหรือ? เหตุใดบัดนี้เขาจึงพูดว่า ‘ฉันได้ลงมาจากสวรรค์?’”",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "Οὐχ οὗτός ἐστιν Ἰησοῦς ὁ υἱὸς Ἰωσήφ",
+          "thai": "คนนี้ไม่ใช่เยซู ลูกของโยเซฟ",
+          "rationale": "Per uW figs-rquestion: dismissive rhetorical question — 'isn't this just so-and-so?' The leaders use Jesus' bare name (without honorific 'พระเยซู') to belittle. Thai 'เยซู' without พระ-prefix renders this contempt-marker — speakers within narrative do not always honor (cf. demons in MRK 1:24). PROPER-NOUN LOCK: Ἰωσήφ → โยเซฟ (corpus)."
+        },
+        {
+          "greek": "οὗ ἡμεῖς οἴδαμεν τὸν πατέρα καὶ τὴν μητέρα",
+          "thai": "ผู้ที่เรารู้จักทั้งบิดาและมารดาของเขา",
+          "rationale": "Emphatic ἡμεῖς ('we ourselves know'). Thai 'เรารู้จัก' suffices; 'ทั้ง...และ' renders the doubled-known-quantity argument."
+        },
+        {
+          "greek": "πῶς νῦν λέγει ὅτι Ἐκ τοῦ οὐρανοῦ καταβέβηκα",
+          "thai": "เหตุใดเดี๋ยวนี้จึงพูดว่า ‘เราลงมาจากสวรรค์’?",
+          "rationale": "Per uW figs-rquestion + figs-quotesinquotes: rhetorical 'how/why now?' + nested quote of Jesus' words. Inner ‘…’ Thai single curly per RULES §5b. The leaders take Jesus' v.38, 41 words ('I have come down from heaven') as paraphrased here. Verb 'พูด' (not ตรัส) — the leaders speak about Jesus skeptically; they don't use royal-register because they reject his divinity."
+        }
+      ],
+      "notes": "JOHANNINE IRONY: the leaders 'know' Jesus' parentage and conclude he can't be heavenly. They miss the virgin-birth tradition (which John doesn't narrate but assumes — JHN 1:13-14 incarnation). The leaders' 'we know' (οἴδαμεν) prefigures their fatal 'we know this man is a sinner' at JHN 9:24 — Johannine 'knowing' that misses the truth. Speech-register: 'พูด' not ตรัส for the leaders' dismissive talk; quotes within speech use single ‘…’ per RULES §5b."
+    }
+  },
+  {
+    "reference": "John 6:43",
+    "chapter": 6,
+    "verse": 43,
+    "greek": "ἀπεκρίθη Ἰησοῦς καὶ εἶπεν αὐτοῖς·Μὴ γογγύζετε μετ’ἀλλήλων.",
+    "bsb_english": "“Stop grumbling among yourselves,” Jesus replied.",
+    "translation": {
+      "thai": "พระเยซูตรัสตอบพวกเขาว่า “จงเลิกบ่นกันเองเสีย",
+      "thai_literal": "พระเยซูตรัสตอบและกล่าวแก่พวกเขาว่า “อย่าบ่นต่อกันและกัน",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "Μὴ γογγύζετε μετ' ἀλλήλων",
+          "thai": "จงเลิกบ่นกันเองเสีย",
+          "rationale": "Present-imperative + μή = prohibition of ongoing-action 'stop grumbling' (not 'do not begin'). Thai 'จงเลิก...เสีย' renders the cessation-command. γογγύζω → บ่น (locked from v.41). μετ' ἀλλήλων = 'among yourselves / with one another.'"
+        }
+      ],
+      "notes": "Jesus pivots from rebuttal to deeper teaching. The vv.44-45 explanation is theological (only those drawn by the Father come) — pastoral, not defensive."
+    }
+  },
+  {
+    "reference": "John 6:44",
+    "chapter": 6,
+    "verse": 44,
+    "greek": "οὐδεὶς δύναται ἐλθεῖν πρός με ἐὰν μὴ ὁ πατὴρ ὁ πέμψας με ἑλκύσῃ αὐτόν,κἀγὼ ἀναστήσω αὐτὸν ἐν τῇ ἐσχάτῃ ἡμέρᾳ.",
+    "bsb_english": "“No one can come to Me unless the Father who sent Me draws him, and I will raise him up at the last day.",
+    "translation": {
+      "thai": "ไม่มีผู้ใดมาหาเราได้ ถ้าพระบิดาผู้ทรงใช้เรามาไม่ได้ทรงดึงเขามา และเราจะทำให้คนนั้นเป็นขึ้นมาในวันสุดท้าย",
+      "thai_literal": "ไม่มีผู้ใดสามารถมายังเราได้ เว้นแต่พระบิดาผู้ที่ส่งเรามาจะทรงดึงเขา และเราเองจะให้เขาเป็นขึ้นมาในวันสุดท้าย",
+      "thai_summary": "“ดึง” (ἑλκύω) ไม่ใช่การบังคับฝืนใจ — แต่เป็นการชักนำที่มีพลัง เหมือนแม่เหล็กที่ดึงเหล็ก หรือเหมือนคนรักที่ดึงคนรักเข้าหา (เปรียบเทียบ ปฐก. 19:16 ที่ทูตสวรรค์ “ดึง” โลทออกจากโสโดมเพราะพระเมตตา) นี่คือสิ่งที่ปฏิรูปศาสตร์เรียกว่า “พระคุณที่ขับเคลื่อนได้แน่” (effectual grace) — งานของพระบิดาในจิตใจที่นำคนมาหาพระคริสต์อย่างปราศจากการบีบบังคับ แต่อย่างมีประสิทธิภาพ",
+      "key_decisions": [
+        {
+          "greek": "ἑλκύσῃ",
+          "thai": "ทรงดึง",
+          "rationale": "Per uW: 'draw' or 'pull/drag' (BDAG: 'attract by inward power, lead, impel'). Aorist-active-subjunctive of ἑλκύω. Royal ทรงดึง for divine action (RULES §3). KEY-TERM LOCK: ἑลκύω (divine drawing) → ทรงดึง (recurs JHN 12:32 'when I am lifted up I will draw all'). Same lemma in JHN 12 already rendered ดึง — verifying corpus consistency."
+        },
+        {
+          "greek": "οὐδεὶς δύναται ἐλθεῖν πρός με ἐὰν μὴ",
+          "thai": "ไม่มีผู้ใดมาหาเราได้ ถ้า...ไม่",
+          "rationale": "Negated condition with ἐὰν μή 'unless' — Thai 'ถ้า...ไม่' (locked corpus pattern). 'มาหาเรา' (come to me) per uW = come to be a disciple, but surface-translation suffices."
+        },
+        {
+          "greek": "κἀγὼ ἀναστήσω αὐτὸν ἐν τῇ ἐσχάτῃ ἡμέρᾳ",
+          "thai": "เราจะทำให้คนนั้นเป็นขึ้นมาในวันสุดท้าย",
+          "rationale": "Repetition from v.39-40. ἐσχάτη ἡμέρα → วันสุดท้าย (locked v.39)."
+        }
+      ],
+      "notes": "REFORMED LOCUS CLASSICUS: this verse anchors the doctrine of effectual calling. The Father's drawing is not coercion but the merciful awakening of dead-in-sins to faith (Eph 2:1-8). Pre-mortem-Augustinian, locked-down-Augustinian, and Reformed traditions all rest interpretive weight here. Per RULES §0 evangelical-Protestant: this is read as gracious-and-effectual, not synergistic-cooperative. The thai_summary captures this without overdeterminist flattening."
+    }
+  },
+  {
+    "reference": "John 6:45",
+    "chapter": 6,
+    "verse": 45,
+    "greek": "ἔστιν γεγραμμένον ἐν τοῖς προφήταις·Καὶ ἔσονται πάντες διδακτοὶ θεοῦ·πᾶς ὁ ἀκούσας παρὰ τοῦ πατρὸς καὶ μαθὼν ἔρχεται πρὸς ἐμέ.",
+    "bsb_english": "It is written in the Prophets: ‘And they will all be taught by God.’ Everyone who has heard the Father and learned from Him comes to Me—",
+    "translation": {
+      "thai": "มีคำเขียนไว้ในหนังสือผู้เผยพระวจนะว่า ‘ทุกคนจะรับการสอนจากพระเจ้า’ ทุกคนที่ฟังจากพระบิดาและได้เรียนรู้แล้วก็มาหาเรา",
+      "thai_literal": "มีเขียนไว้ในผู้เผยพระวจนะทั้งหลายว่า ‘และพวกเขาทุกคนจะถูกพระเจ้าสอน’ ทุกคนที่ได้ฟังจากพระบิดาและได้เรียนรู้ ก็มายังเรา",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ἔστιν γεγραμμένον ἐν τοῖς προφήταις",
+          "thai": "มีคำเขียนไว้ในหนังสือผู้เผยพระวจนะ",
+          "rationale": "Per uW figs-activepassive + writing-quotations: standard formula 'it stands written.' 'ในหนังสือผู้เผยพระวจนะ' = 'in the (book of the) Prophets' — the second division of the Hebrew canon. Thai supplied 'หนังสือ' for clarity that this is a scriptural-corpus reference, not just 'the prophets' as persons."
+        },
+        {
+          "greek": "Καὶ ἔσονται πάντες διδακτοὶ θεοῦ",
+          "thai": "ทุกคนจะรับการสอนจากพระเจ้า",
+          "rationale": "Per uW figs-quotesinquotes + figs-activepassive: quote-in-quote → inner ‘…’ Thai single curly per RULES §5b. διδακτοὶ θεοῦ = 'taught-of-God' (verbal-adj. + gen. of agent). Active rendering 'รับการสอนจากพระเจ้า' = 'receive teaching from God.' Direct LXX-aligned quotation of ISA 54:13 (LXX: καὶ θήσω πάντας τοὺς υἱούς σου διδακτοὺς θεοῦ; Jesus' shortened form drops 'sons')."
+        },
+        {
+          "greek": "πᾶς ὁ ἀκούσας παρὰ τοῦ πατρὸς καὶ μαθὼν ἔρχεται πρὸς ἐμέ",
+          "thai": "ทุกคนที่ฟังจากพระบิดาและได้เรียนรู้แล้วก็มาหาเรา",
+          "rationale": "Two aorist-participles: ἀκούσας ('having heard'), μαθὼν ('having learned'). Sequence is hear → learn → come. Thai aspectual 'ได้ฟัง...ได้เรียนรู้แล้วก็มา' renders the sequence."
+        }
+      ],
+      "notes": "OT CITATION: ISA 54:13 (LXX). Direct quotation in shorter form. Per RULES §5: chapter-level OT citation flagged. ADDED TO NT_OT_CITATIONS: JHN 6:45 citation_lxx → ISA 54:13 (greek_matches: lxx_aligned_partial). Theological force: in the new-covenant order, all the chosen are taught by God himself (cf. Jer 31:33-34 'all shall know me'). Jesus reads his messianic-mission as the fulfilment of this prophetic-promise."
+    }
+  },
+  {
+    "reference": "John 6:46",
+    "chapter": 6,
+    "verse": 46,
+    "greek": "οὐχ ὅτι τὸν πατέρα ἑώρακέν τις εἰ μὴ ὁ ὢν παρὰ τοῦ θεοῦ,οὗτος ἑώρακεν τὸν πατέρα.",
+    "bsb_english": "not that anyone has seen the Father except the One who is from God; only He has seen the Father.",
+    "translation": {
+      "thai": "ไม่ใช่ว่ามีผู้ใดได้เห็นพระบิดา เว้นแต่ผู้ที่มาจากพระเจ้าเท่านั้น ผู้นี้ได้เห็นพระบิดาแล้ว",
+      "thai_literal": "ไม่ใช่ว่ามีผู้ใดได้เห็นพระบิดา เว้นแต่ผู้ซึ่งเป็นจากพระเจ้า ผู้นี้ได้เห็นพระบิดาแล้ว",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "οὐχ ὅτι τὸν πατέρα ἑώρακέν τις",
+          "thai": "ไม่ใช่ว่ามีผู้ใดได้เห็นพระบิดา",
+          "rationale": "Per uW figs-explicit: clarifying clause — 'I don't mean anyone has seen God directly.' Perfect ἑώρακεν 'has seen.' Thai 'ไม่ใช่ว่า...' renders the explicative-negation."
+        },
+        {
+          "greek": "ὁ ὢν παρὰ τοῦ θεοῦ",
+          "thai": "ผู้ที่มาจากพระเจ้า",
+          "rationale": "Per uW figs-123person: Jesus refers to himself in third person. Substantival participle 'the one who is from beside God.' παρά + gen. = source/origin 'from-the-presence-of.' Thai 'ผู้ที่มาจากพระเจ้า' (locked corpus self-reference pattern, JHN 7:29, 9:33, 16:27)."
+        },
+        {
+          "greek": "οὗτος ἑώρακεν τὸν πατέρα",
+          "thai": "ผู้นี้ได้เห็นพระบิดาแล้ว",
+          "rationale": "Demonstrative οὗτος pointing back to 'the one from God' = Jesus. Perfect 'has seen' (JHN 1:18 echo: 'no one has ever seen God; the only Son... has made him known'). Thai 'ผู้นี้' (this one) preserves the third-person form per RULES §3."
+        }
+      ],
+      "notes": "JHN 1:18 ECHO: 'no one has ever seen God; the only Son... has made him known.' Jesus' uniqueness as the only direct-revealer of the Father underwrites his teaching authority. The 'hearing-and-learning from the Father' of v.45 happens through the Son's revelatory ministry."
+    }
+  },
+  {
+    "reference": "John 6:47",
+    "chapter": 6,
+    "verse": 47,
+    "greek": "ἀμὴν ἀμὴν λέγω ὑμῖν,ὁ πιστεύων ἔχει ζωὴν αἰώνιον.",
+    "bsb_english": "Truly, truly, I tell you, he who believes has eternal life.",
+    "translation": {
+      "thai": "อาเมน อาเมน เราบอกแก่พวกท่านว่า ผู้ที่เชื่อก็มีชีวิตนิรันดร์",
+      "thai_literal": "อาเมน อาเมน เราบอกแก่พวกท่าน ผู้ที่กำลังเชื่อก็มีชีวิตนิรันดร์",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ἀμὴν ἀμὴν λέγω ὑμῖν",
+          "thai": "อาเมน อาเมน เราบอกแก่พวกท่านว่า",
+          "rationale": "Doubled-amen formula (RULES §0 phrase-consistency lock). Same as v.26, 32, 53."
+        },
+        {
+          "greek": "ὁ πιστεύων",
+          "thai": "ผู้ที่เชื่อ",
+          "rationale": "Per uW figs-ellipsis: object of 'believing' is implicit but obvious from context (= believing in Jesus). Thai 'ผู้ที่เชื่อ' (substantival present-participle) is sufficient — the Johannine framework makes the object clear. πιστεύων absolute use is also pattern at JHN 3:15-18."
+        },
+        {
+          "greek": "ἔχει ζωὴν αἰώνιον",
+          "thai": "ก็มีชีวิตนิรันดร์",
+          "rationale": "Present 'has' = realized-eschatology, eternal life as already-possessed. Locked from v.40."
+        }
+      ],
+      "notes": "GOSPEL CRYSTALLIZED: faith → eternal life, present-tense possession. Echoes JHN 3:15-16, 5:24. Verbatim brevity matches the gospel's offer."
+    }
+  },
+  {
+    "reference": "John 6:48",
+    "chapter": 6,
+    "verse": 48,
+    "greek": "ἐγώ εἰμι ὁ ἄρτος τῆς ζωῆς·",
+    "bsb_english": "I am the bread of life.",
+    "translation": {
+      "thai": "เราเป็นขนมปังแห่งชีวิต",
+      "thai_literal": "เราคือขนมปังแห่งชีวิต",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ἐγώ εἰμι ὁ ἄρτος τῆς ζωῆς",
+          "thai": "เราเป็นขนมปังแห่งชีวิต",
+          "rationale": "Repetition of v.35 — second iteration of the I-AM. Resumptive after vv.36-47 doctrinal aside. Phrase-lock match v.35."
+        }
+      ],
+      "notes": "Resumptive I-AM. The repetition signals Jesus is now turning to the bread-eating implications which the next verses explore in escalating provocation."
+    }
+  },
+  {
+    "reference": "John 6:49",
+    "chapter": 6,
+    "verse": 49,
+    "greek": "οἱ πατέρες ὑμῶν ἔφαγον ἐν τῇ ἐρήμῳ τὸ μάννα καὶ ἀπέθανον·",
+    "bsb_english": "Your fathers ate the manna in the wilderness, yet they died.",
+    "translation": {
+      "thai": "บรรพบุรุษของพวกท่านได้กินมานาในถิ่นทุรกันดาร แต่ก็ยังตาย",
+      "thai_literal": "บรรพบุรุษของพวกท่านได้กินมานาในถิ่นทุรกันดาร และพวกเขาตาย",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "οἱ πατέρες ὑμῶν",
+          "thai": "บรรพบุรุษของพวกท่าน",
+          "rationale": "Note shift from v.31 πατέρες ἡμῶν ('our fathers' — crowd self-identifying) to πατέρες ὑμῶν ('YOUR fathers' — Jesus distancing). Subtle but pointed: Jesus is not in the same Israel-line of failure-by-eating-manna-and-dying. The wilderness-generation's fate proves manna couldn't deliver."
+        },
+        {
+          "greek": "ἔφαγον...καὶ ἀπέθανον",
+          "thai": "ได้กิน...แต่ก็ยังตาย",
+          "rationale": "Aorist-aorist sequence. The καί here has adversative force ('and yet') — Thai 'แต่ก็ยัง' captures this."
+        }
+      ],
+      "notes": "OT-PRECEDENT NEUTRALIZED: the wilderness-generation ate manna and died (Num 14, Heb 3:16-19). Manna-as-life-giving is decisively undermined; only the true bread (Christ) gives life that doesn't end."
+    }
+  },
+  {
+    "reference": "John 6:50",
+    "chapter": 6,
+    "verse": 50,
+    "greek": "οὗτός ἐστιν ὁ ἄρτος ὁ ἐκ τοῦ οὐρανοῦ καταβαίνων ἵνα τις ἐξ αὐτοῦ φάγῃ καὶ μὴ ἀποθάνῃ·",
+    "bsb_english": "This is the bread that comes down from heaven, so that anyone may eat of it and not die.",
+    "translation": {
+      "thai": "นี่คือขนมปังที่ลงมาจากสวรรค์ เพื่อใครก็ตามที่กินขนมปังนี้จะไม่ตาย",
+      "thai_literal": "นี่คือขนมปังที่กำลังลงมาจากสวรรค์ เพื่อใครก็ตามที่จะได้กินจากขนมปังนี้และไม่ตาย",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "οὗτός ἐστιν...ἐξ αὐτοῦ",
+          "thai": "นี่คือ...ขนมปังนี้",
+          "rationale": "Per uW figs-123person: third-person reference to himself. Per uW figs-exmetaphor: bread metaphor extended. Demonstrative 'นี่คือ' (this is) preserved in Thai."
+        },
+        {
+          "greek": "ἵνα τις ἐξ αὐτοῦ φάγῃ καὶ μὴ ἀποθάνῃ",
+          "thai": "เพื่อใครก็ตามที่กินขนมปังนี้จะไม่ตาย",
+          "rationale": "Per uW figs-metaphor: 'eat' = believe in Jesus for salvation; 'die' = spiritual/eternal death. Translation preserves the metaphor without flattening (per uW: 'you do not need to explain its meaning further here'). Thai 'ใครก็ตามที่กิน...จะไม่ตาย' (corpus pattern). The metaphor's resolution (eat = believe) is taught at v.47 already."
+        }
+      ],
+      "notes": "CONTRAST set up: wilderness-manna → death (v.49); true bread → life (v.50). Sets up v.51's intensification: 'the bread which I will give is my flesh.'"
+    }
+  },
+  {
+    "reference": "John 6:51",
+    "chapter": 6,
+    "verse": 51,
+    "greek": "ἐγώ εἰμι ὁ ἄρτος ὁ ζῶν ὁ ἐκ τοῦ οὐρανοῦ καταβάς·ἐάν τις φάγῃ ἐκ τούτου τοῦ ἄρτου ζήσει εἰς τὸν αἰῶνα,καὶ ὁ ἄρτος δὲ ὃν ἐγὼ δώσω ἡ σάρξ μού ἐστιν ὑπὲρ τῆς τοῦ κόσμου ζωῆς.",
+    "bsb_english": "I am the living bread that came down from heaven. If anyone eats of this bread, he will live forever. And this bread, which I will give for the life of the world, is My flesh.”",
+    "translation": {
+      "thai": "เราเป็นขนมปังที่มีชีวิตซึ่งลงมาจากสวรรค์ ถ้าผู้ใดกินขนมปังนี้ ผู้นั้นจะมีชีวิตอยู่เป็นนิตย์ และขนมปังที่เราจะให้นั้นคือเนื้อของเราซึ่งให้ไว้เพื่อชีวิตของโลก”",
+      "thai_literal": "เราเองคือขนมปังที่มีชีวิตซึ่งได้ลงมาจากสวรรค์ ถ้าใครจะกินจากขนมปังนี้ เขาจะมีชีวิตอยู่ตลอดนิรันดร์ และขนมปังที่เราจะให้นั้น คือเนื้อของเราเพื่อชีวิตของโลก",
+      "thai_summary": "ในข้อนี้พระเยซูทรงเปิดเผยอย่างชัดเจนว่าขนมปังที่ทรงประทานคือเนื้อของพระองค์เอง — ร่างกายของพระองค์ที่จะถวายบนกางเขนเพื่อช่วยโลกให้รอด ในกรอบของเทศกาลปัสกา (ข้อ 4) นี่คือภาพของลูกแกะปัสกาที่ถวายเพื่อปลดปล่อยประชากรของพระเจ้า — แต่ปัสกาใหม่นี้ครอบคลุมไม่ใช่แค่อิสราเอล แต่ทั้งโลก ผู้ฟังในยุคนั้นได้ยินคำนี้แล้วตกใจ ดังที่ข้อ 52 จะแสดง",
+      "key_decisions": [
+        {
+          "greek": "ἐγώ εἰμι ὁ ἄρτος ὁ ζῶν",
+          "thai": "เราเป็นขนมปังที่มีชีวิต",
+          "rationale": "Per uW figs-explicit: 'living bread' ≈ 'bread of life' (v.35 ὁ ἄρτος τῆς ζωῆς), but with a participial form emphasizing the bread itself is alive (not merely 'gives life'). Thai 'ที่มีชีวิต' (that has life) preserves the participial-active sense, distinct from 'แห่งชีวิต' (of life) used in vv.35, 48. NEW LOCK: ὁ ἄρτος ὁ ζῶν → ขนมปังที่มีชีวิต (recurs structurally at v.57 ὁ ζῶν πατήρ, ὁ τρώγων με)."
+        },
+        {
+          "greek": "ζήσει εἰς τὸν αἰῶνα",
+          "thai": "จะมีชีวิตอยู่เป็นนิตย์",
+          "rationale": "Future indicative + εἰς τὸν αἰῶνα 'forever' (locked corpus pattern, JHN 4:14, 8:51, 11:26). Thai 'เป็นนิตย์' (locked, JHN 4:14)."
+        },
+        {
+          "greek": "ὁ ἄρτος...ἡ σάρξ μού ἐστιν",
+          "thai": "ขนมปังที่เราจะให้นั้นคือเนื้อของเรา",
+          "rationale": "Per uW figs-metonymy: σάρξ here = 'whole physical body' as offered-up. Per uW figs-extrainfo: bread-metaphor here specifically refers to the cross-sacrifice. KEY-TERM LOCK: σάρξ → เนื้อ (corpus, vs. σῶμα = กาย used in synoptic Last Supper). Distinct vocabulary preserved per RULES §4."
+        },
+        {
+          "greek": "ὑπὲρ τῆς τοῦ κόσμου ζωῆς",
+          "thai": "เพื่อชีวิตของโลก",
+          "rationale": "Per uW figs-metonymy: 'world' = people-of-the-world. ὑπέρ + gen. = 'on behalf of' (substitutionary). Thai 'เพื่อ' renders the substitutionary force. KEY-TERM LOCK: κόσμος → โลก."
+        }
+      ],
+      "notes": "EUCHARISTIC + ATONEMENT KERYGMA. The 'I will give' is FUTURE (δώσω) — pointing to the cross. ἡ σάρξ μου anticipates the substitutionary-atonement of JHN 1:29 ('Lamb of God who takes away sin of the world'), Heb 10:5-10 ('a body you have prepared for me'), 1 Pet 2:24 ('he himself bore our sins in his body on the tree'). The ὑπέρ-formula is Pauline-confessional language (1 Cor 11:24 'this is my body which is given for you'; 1 Cor 5:7 'Christ our Passover lamb is sacrificed for us'). RULES §0: read this as substitutionary-penal atonement, not symbolic-only Eucharist."
+    }
+  },
+  {
+    "reference": "John 6:52",
+    "chapter": 6,
+    "verse": 52,
+    "greek": "Ἐμάχοντο οὖν πρὸς ἀλλήλους οἱ Ἰουδαῖοι λέγοντες·Πῶς δύναται οὗτος ἡμῖν δοῦναι τὴν σάρκα αὐτοῦ φαγεῖν;",
+    "bsb_english": "At this, the Jews began to argue among themselves, “How can this man give us His flesh to eat?”",
+    "translation": {
+      "thai": "ผู้นำชาวยิวจึงเริ่มเถียงกันเองว่า “คนนี้จะเอาเนื้อของตนให้เรากินได้อย่างไร?”",
+      "thai_literal": "ดังนั้นพวกยิวจึงต่อล้อต่อเถียงกันและกันว่า “ผู้นี้จะให้เนื้อของเขาแก่พวกเรากินได้อย่างไร?”",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "Ἐμάχοντο οὖν πρὸς ἀλλήλους οἱ Ἰουδαῖοι",
+          "thai": "ผู้นำชาวยิวจึงเริ่มเถียงกันเอง",
+          "rationale": "Per uW figs-synecdoche: οἱ Ἰουδαῖοι = Jewish leaders (locked v.41). μάχομαι = 'fight, contend, dispute' — a verbal-skirmish. Imperfect 'were arguing.' Thai 'เริ่มเถียงกัน' renders the inception-imperfect."
+        },
+        {
+          "greek": "Πῶς δύναται οὗτος ἡμῖν δοῦναι τὴν σάρκα αὐτοῦ φαγεῖν",
+          "thai": "คนนี้จะเอาเนื้อของตนให้เรากินได้อย่างไร?",
+          "rationale": "Per uW figs-rquestion + figs-metonymy: rhetorical/incredulous 'how can?' σάρξ → เนื้อ (lock). 'คนนี้' (without honorific พระองค์) preserves the leaders' contemptuous distancing — same pattern as v.42."
+        }
+      ],
+      "notes": "MISUNDERSTANDING-PATTERN escalating: as the Samaritan woman misunderstood water (4:15), and the crowd misunderstood bread (6:34), now the leaders misunderstand flesh — taking it crudely-literally. Jesus does NOT clarify with metaphor-disclaimer; instead (vv.53-58) he intensifies, forcing the audience to either persevere or fall away."
+    }
+  },
+  {
+    "reference": "John 6:53",
+    "chapter": 6,
+    "verse": 53,
+    "greek": "εἶπεν οὖν αὐτοῖς ὁ Ἰησοῦς·Ἀμὴν ἀμὴν λέγω ὑμῖν,ἐὰν μὴ φάγητε τὴν σάρκα τοῦ υἱοῦ τοῦ ἀνθρώπου καὶ πίητε αὐτοῦ τὸ αἷμα,οὐκ ἔχετε ζωὴν ἐν ἑαυτοῖς.",
+    "bsb_english": "So Jesus said to them, “Truly, truly, I tell you, unless you eat the flesh and drink the blood of the Son of Man, you have no life in you.",
+    "translation": {
+      "thai": "พระเยซูจึงตรัสกับพวกเขาว่า “อาเมน อาเมน เราบอกแก่พวกท่านว่า ถ้าพวกท่านไม่กินเนื้อของบุตรมนุษย์และไม่ดื่มโลหิตของท่าน พวกท่านก็ไม่มีชีวิตในตัวเอง",
+      "thai_literal": "ดังนั้นพระเยซูจึงตรัสกับพวกเขาว่า “อาเมน อาเมน เราบอกแก่พวกท่าน ถ้าพวกท่านไม่กินเนื้อของบุตรมนุษย์และดื่มโลหิตของเขา พวกท่านก็ไม่มีชีวิตในตัวเอง",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "Ἀμὴν ἀμὴν λέγω ὑμῖν",
+          "thai": "อาเมน อาเมน เราบอกแก่พวกท่านว่า",
+          "rationale": "Doubled-amen formula (RULES §0)."
+        },
+        {
+          "greek": "φάγητε τὴν σάρκα τοῦ υἱοῦ τοῦ ἀνθρώπου καὶ πίητε αὐτοῦ τὸ αἷμα",
+          "thai": "กินเนื้อของบุตรมนุษย์และไม่ดื่มโลหิตของท่าน",
+          "rationale": "Per uW figs-doublet + figs-extrainfo: eat-flesh + drink-blood is doublet-for-emphasis. Per uW: 'do not combine them; flesh and blood are important concepts.' KEY-TERM LOCKS: σάρξ → เนื้อ; αἷμα → โลหิต (corpus from Last Supper synoptics). 'บุตรมนุษย์' = υἱὸς ἀνθρώπου (corpus-locked). Thai pronoun 'ของท่าน' refers to the Son of Man, third-person honorific from the leaders' perspective."
+        },
+        {
+          "greek": "οὐκ ἔχετε ζωὴν ἐν ἑαυτοῖς",
+          "thai": "พวกท่านก็ไม่มีชีวิตในตัวเอง",
+          "rationale": "Per uW figs-explicit: 'life' = eternal life. 'ในตัวเอง' = ἐν ἑαυτοῖς 'in yourselves' (reflexive). Thai literal preserves the locative-internal sense — life-as-internal-possession."
+        }
+      ],
+      "notes": "INTENSIFICATION: Jesus does not retreat from the offending image but redoubles it (eat-flesh AND drink-blood — TWO offenses against Jewish kosher-laws against blood). For first-century Jews, drinking blood was Levitical-anathema (Lev 17:10-14, Deut 12:23). Jesus deliberately frames the salvific-appropriation in the most provocative terms possible, ensuring the disciples must wrestle with the spiritual-meaning. Per uW: 'flesh' and 'drink blood' = trust Jesus for eternal life, especially through his sacrificial death."
+    }
+  },
+  {
+    "reference": "John 6:54",
+    "chapter": 6,
+    "verse": 54,
+    "greek": "ὁ τρώγων μου τὴν σάρκα καὶ πίνων μου τὸ αἷμα ἔχει ζωὴν αἰώνιον,κἀγὼ ἀναστήσω αὐτὸν τῇ ἐσχάτῃ ἡμέρᾳ.",
+    "bsb_english": "Whoever eats My flesh and drinks My blood has eternal life, and I will raise him up at the last day.",
+    "translation": {
+      "thai": "ผู้ที่กินเนื้อของเราและดื่มโลหิตของเรา ก็มีชีวิตนิรันดร์ และเราจะทำให้เขาเป็นขึ้นมาในวันสุดท้าย",
+      "thai_literal": "ผู้ที่กำลังเคี้ยวกินเนื้อของเราและดื่มโลหิตของเรา ก็มีชีวิตนิรันดร์ และเราเองจะให้เขาเป็นขึ้นมาในวันสุดท้าย",
+      "thai_summary": "คำกริยา “กิน” ในข้อ 54-58 ในภาษากรีกคือคำที่ต่างจากข้อก่อนหน้า — เปลี่ยนจาก ἐσθίω เป็น τρώγω ที่หมายถึง “เคี้ยว” อย่างเป็นรูปธรรม นักวิชาการบางท่านมองว่าพระเยซูทรงใช้คำที่หยาบและตรงไปตรงมานี้เพื่อยิ่งเพิ่มความขัดแย้ง ป้องกันการเข้าใจเชิงอุปมาเท่านั้น แต่ขณะเดียวกัน ในข้อ 63 ก็จะทำให้เห็นว่าทั้งหมดต้องเข้าใจในแสงของพระวิญญาณ — ไม่ใช่เนื้อหนังตามตัวอักษร",
+      "key_decisions": [
+        {
+          "greek": "ὁ τρώγων",
+          "thai": "ผู้ที่กิน",
+          "rationale": "Per uW figs-extrainfo: τρώγω is a more visceral 'munch, chew' (vs. ἐσθίω 'eat'). The lexical shift in vv.54, 56, 57, 58 is deliberate — heightening the realism of the image even as v.63 spiritualizes it. Thai 'กิน' is the natural word; the literal-version 'เคี้ยวกิน' (chew-eat) preserved in thai_literal to honor the lexical force, with the thai_summary noting the shift."
+        },
+        {
+          "greek": "ἔχει ζωὴν αἰώνιον,κἀγὼ ἀναστήσω αὐτὸν τῇ ἐσχάτῃ ἡμέρᾳ",
+          "thai": "ก็มีชีวิตนิรันดร์ และเราจะทำให้เขาเป็นขึ้นมาในวันสุดท้าย",
+          "rationale": "Verbatim repetition of v.40 second clause + v.39 fourth clause. Phrase-locked from earlier."
+        }
+      ],
+      "notes": "TROGO-SHIFT: Greek lexical change ἐσθίω (vv.49-53) → τρώγω (vv.54-58). The 'chewing' language intensifies. Some sacramentalist-readers (Catholic, Lutheran) emphasize this as eucharistic-realism; Reformed-evangelical readers note v.63 ('the flesh profits nothing; the words I have spoken are spirit and life') as the interpretive key — the eating is appropriation-by-faith of Christ's sacrificial-death, with the Eucharist as a sacrament-sign-and-seal of that union (Calvin's view). Per RULES §0 the translation preserves the literal Greek without forcing either eucharistic-only or symbolic-only readings; lets the discourse's full arc clarify."
+    }
+  },
+  {
+    "reference": "John 6:55",
+    "chapter": 6,
+    "verse": 55,
+    "greek": "ἡ γὰρ σάρξ μου ἀληθής ἐστι βρῶσις,καὶ τὸ αἷμά μου ἀληθής ἐστι πόσις.",
+    "bsb_english": "For My flesh is real food, and My blood is real drink.",
+    "translation": {
+      "thai": "เพราะเนื้อของเราเป็นอาหารแท้ และโลหิตของเราเป็นเครื่องดื่มแท้",
+      "thai_literal": "เพราะเนื้อของเราเป็นอาหารที่แท้จริง และโลหิตของเราเป็นเครื่องดื่มที่แท้จริง",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ἡ σάρξ μου ἀληθής ἐστι βρῶσις",
+          "thai": "เนื้อของเราเป็นอาหารแท้",
+          "rationale": "Per uW figs-extrainfo + figs-doublet: σάρξ + βρῶσις parallel to αἷμα + πόσις. ἀληθής = 'true, real, genuine.' βρῶσις → อาหาร (locked v.27). NEW KEY-TERM LOCK: πόσις → เครื่องดื่ม (NT-rare; cf. ROM 14:17, COL 2:16). Thai 'แท้' = ἀληθής (locked, RULES §4)."
+        }
+      ],
+      "notes": "ANTICIPATING THE OBJECTION: 'food/drink' for σάρξ/αἷμα is interpretive-claim — Jesus' flesh and blood ARE the true food and drink (in the spiritual order); the manna and material bread were merely τύπος. NEW KEY-TERM LOCK: πόσις → เครื่องดื่ม."
+    }
+  },
+  {
+    "reference": "John 6:56",
+    "chapter": 6,
+    "verse": 56,
+    "greek": "ὁ τρώγων μου τὴν σάρκα καὶ πίνων μου τὸ αἷμα ἐν ἐμοὶ μένει κἀγὼ ἐν αὐτῷ.",
+    "bsb_english": "Whoever eats My flesh and drinks My blood remains in Me, and I in him.",
+    "translation": {
+      "thai": "ผู้ที่กินเนื้อของเราและดื่มโลหิตของเรา ย่อมดำรงอยู่ในเรา และเราก็อยู่ในเขา",
+      "thai_literal": "ผู้ที่กำลังเคี้ยวกินเนื้อของเราและดื่มโลหิตของเรา ย่อมคงอยู่ในเรา และเราอยู่ในเขา",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ἐν ἐμοὶ μένει κἀγὼ ἐν αὐτῷ",
+          "thai": "ย่อมดำรงอยู่ในเรา และเราก็อยู่ในเขา",
+          "rationale": "Per uW figs-explicit + book-intro: μένω = 'remain/abide' is a Johannine theme-word (cf. JHN 15:4-10 the vine and branches). Per uW: 'remains in' indicates 'being united in a continuous personal relationship.' Thai 'ดำรงอยู่ใน' (corpus pattern, JHN 8:31, 14:10, 15:4-10 ดำรง / อยู่). Mutual-indwelling formula κἀγὼ ἐν αὐτῷ supplied for natural Thai sentence-flow ('และเราก็อยู่ในเขา')."
+        }
+      ],
+      "notes": "MUTUAL INDWELLING — anticipates the upper-room discourse (chs.14-17). The Christological-mystical reciprocity of remaining-in-and-with Christ is grounded soteriologically in eating-and-drinking him by faith. Per RULES §0 evangelical-Protestant: the 'remaining' is unio mystica — not metaphysical-fusion but covenantal-personal union by the Spirit (cf. v.63)."
+    }
+  },
+  {
+    "reference": "John 6:57",
+    "chapter": 6,
+    "verse": 57,
+    "greek": "καθὼς ἀπέστειλέν με ὁ ζῶν πατὴρ κἀγὼ ζῶ διὰ τὸν πατέρα,καὶ ὁ τρώγων με κἀκεῖνος ζήσει δι’ἐμέ.",
+    "bsb_english": "Just as the living Father sent Me and I live because of the Father, so also the one who feeds on Me will live because of Me.",
+    "translation": {
+      "thai": "เช่นเดียวกับที่พระบิดาผู้ทรงพระชนม์อยู่ทรงใช้เรามาและเรามีชีวิตอยู่เพราะพระบิดาฉันใด ผู้ที่กินเราก็จะมีชีวิตอยู่เพราะเราฉันนั้น",
+      "thai_literal": "ดังที่พระบิดาผู้ทรงพระชนม์ทรงส่งเรามา และเราเองมีชีวิตเพราะพระบิดา ผู้ที่กำลังเคี้ยวกินเรา ผู้นั้นก็จะมีชีวิตเพราะเรา",
+      "thai_summary": "ในข้อนี้ พระเยซูทรงสร้างห่วงโซ่แห่งชีวิตที่ลึกซึ้ง — พระบิดาทรงพระชนม์อยู่ พระบุตรมีชีวิตเพราะพระบิดา และผู้เชื่อมีชีวิตเพราะพระบุตร เป็นเหมือนสายธารที่ไหลจากแหล่งกำเนิดของชีวิตเอง ผู้ที่ “กิน” พระคริสต์ — คือเชื่อในพระองค์ และรับอาหารฝ่ายวิญญาณจากพระองค์ — ก็เข้าร่วมในชีวิตของตรีเอกภาพเอง",
+      "key_decisions": [
+        {
+          "greek": "ὁ ζῶν πατὴρ",
+          "thai": "พระบิดาผู้ทรงพระชนม์อยู่",
+          "rationale": "Per uW figs-explicit: 'living' here = source-of-life (cf. v.51). Thai 'ผู้ทรงพระชนม์อยู่' (royal-honorific 'who has divine-life'). Locked corpus pattern (JHN 5:26, 11:25, REV 1:18). NEW LOCK: ὁ ζῶν πατὴρ → พระบิดาผู้ทรงพระชนม์อยู่."
+        },
+        {
+          "greek": "ζῶ διὰ τὸν πατέρα",
+          "thai": "มีชีวิตอยู่เพราะพระบิดา",
+          "rationale": "Per uW figs-explicit: 'live because of' = source/cause. Greek διά + acc. = causal/instrumental 'because of, by means of.' Thai 'เพราะ' renders the causal sense."
+        },
+        {
+          "greek": "ὁ τρώγων με κἀκεῖνος ζήσει δι' ἐμέ",
+          "thai": "ผู้ที่กินเราก็จะมีชีวิตอยู่เพราะเราฉันนั้น",
+          "rationale": "Parallelism preserved: as Father→Son, so Son→believer. Per uW figs-explicit: 'live' here = eternal life. Verbatim parallelism in Thai 'เพราะ...เพราะ' matches Greek διά...διά."
+        }
+      ],
+      "notes": "TRINITARIAN LIFE-CHAIN: Father is source-of-life; Son lives because of Father; believer lives because of Son. Per RULES §0: this grounds 2 Pet 1:4 'partakers of the divine nature' in covenantal-personal union, not metaphysical-fusion. The Eucharistic-overtone is real but the meaning runs through faith, not material-substance."
+    }
+  },
+  {
+    "reference": "John 6:58",
+    "chapter": 6,
+    "verse": 58,
+    "greek": "οὗτός ἐστιν ὁ ἄρτος ὁ ἐξ οὐρανοῦ καταβάς,οὐ καθὼς ἔφαγον οἱ πατέρες καὶ ἀπέθανον·ὁ τρώγων τοῦτον τὸν ἄρτον ζήσει εἰς τὸν αἰῶνα.",
+    "bsb_english": "This is the bread that came down from heaven. Unlike your fathers, who ate the manna and died, the one who eats this bread will live forever.”",
+    "translation": {
+      "thai": "นี่คือขนมปังที่ลงมาจากสวรรค์ ไม่เหมือนกับที่บรรพบุรุษของพวกท่านได้กินแล้วก็ยังตาย ผู้ที่กินขนมปังนี้จะมีชีวิตอยู่เป็นนิตย์”",
+      "thai_literal": "นี่คือขนมปังที่ได้ลงมาจากสวรรค์ ไม่ใช่อย่างที่บรรพบุรุษกินและพวกเขาก็ตาย ผู้ที่กำลังเคี้ยวกินขนมปังนี้จะมีชีวิตอยู่ตลอดนิรันดร์”",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "οὗτός ἐστιν ὁ ἄρτος ὁ ἐξ οὐρανοῦ καταβάς",
+          "thai": "นี่คือขนมปังที่ลงมาจากสวรรค์",
+          "rationale": "Per uW figs-123person + figs-extrainfo: third-person self-reference; bread-metaphor extended. Demonstrative 'นี่คือ' preserved (cf. v.50). Aorist participle ὁ καταβάς (completed coming-down)."
+        },
+        {
+          "greek": "οὐ καθὼς ἔφαγον οἱ πατέρες καὶ ἀπέθανον",
+          "thai": "ไม่เหมือนกับที่บรรพบุรุษของพวกท่านได้กินแล้วก็ยังตาย",
+          "rationale": "Per uW figs-ellipsis + figs-explicit: comparative-clause supplies elliptical 'this bread is not just-as-the-bread-the-fathers-ate-and-died.' Thai 'ไม่เหมือนกับที่...ได้กินแล้วก็ยังตาย' fills the ellipsis naturally."
+        },
+        {
+          "greek": "ὁ τρώγων τοῦτον τὸν ἄρτον ζήσει εἰς τὸν αἰῶνα",
+          "thai": "ผู้ที่กินขนมปังนี้จะมีชีวิตอยู่เป็นนิตย์",
+          "rationale": "Closing-summary verbatim with v.51 final-clause. Phrase-lock."
+        }
+      ],
+      "notes": "INCLUSIO close: this verse loops back to v.51 (and v.50), bracketing the eat-flesh discourse. The Capernaum-synagogue setting (v.59) ends here."
+    }
+  },
+  {
+    "reference": "John 6:59",
+    "chapter": 6,
+    "verse": 59,
+    "greek": "ταῦτα εἶπεν ἐν συναγωγῇ διδάσκων ἐν Καφαρναούμ.",
+    "bsb_english": "Jesus said this while teaching in the synagogue in Capernaum.",
+    "translation": {
+      "thai": "พระองค์ตรัสสิ่งเหล่านี้ขณะทรงสั่งสอนในธรรมศาลาที่เมืองคาเปอรนาอุม",
+      "thai_literal": "พระองค์ได้ตรัสสิ่งเหล่านี้ในธรรมศาลาขณะที่ทรงสั่งสอนในคาเปอรนาอุม",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ἐν συναγωγῇ διδάσκων ἐν Καφαρναούμ",
+          "thai": "ในธรรมศาลาที่เมืองคาเปอรนาอุม",
+          "rationale": "Per uW writing-background: parenthetical setting-confirmation. συναγωγή → ธรรมศาลา (corpus, RULES §4). Καφαρναούμ → คาเปอรนาอุม (locked v.17). διδάσκων = present-active-participle 'while teaching.' Royal ทรงสั่งสอน (RULES §3)."
+        }
+      ],
+      "notes": "ARCHAEOLOGICAL CONTEXT: the basalt-stone foundation of the 1st-century synagogue at Capernaum has been excavated under the 4th-century white-limestone synagogue ruin still visible today. Jesus' teaching here is given in the same physical-space where the early Capernaum-Jewish community gathered."
+    }
+  },
+  {
+    "reference": "John 6:60",
+    "chapter": 6,
+    "verse": 60,
+    "greek": "Πολλοὶ οὖν ἀκούσαντες ἐκ τῶν μαθητῶν αὐτοῦ εἶπαν·Σκληρός ἐστιν ὁ λόγος οὗτος·τίς δύναται αὐτοῦ ἀκούειν;",
+    "bsb_english": "On hearing it, many of His disciples said, “This is a difficult teaching. Who can accept it?”",
+    "translation": {
+      "thai": "เมื่อได้ยินคำสอนเหล่านี้แล้ว สาวกของพระองค์หลายคนพูดว่า “คำสอนนี้รับฟังยากเหลือเกิน ใครจะรับฟังได้?”",
+      "thai_literal": "ดังนั้นเมื่อสาวกของพระองค์หลายคนได้ยินก็พูดว่า “คำนี้แข็งกระด้างนัก ใครจะสามารถฟังคำนี้ได้?”",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ἐκ τῶν μαθητῶν αὐτοῦ",
+          "thai": "สาวกของพระองค์",
+          "rationale": "Note: 'disciples' here is BROADER than the Twelve — includes the wider circle of followers. Vv.66-67 will distinguish: many leave, the Twelve remain. Thai 'สาวก' (corpus-locked, μαθητής)."
+        },
+        {
+          "greek": "Σκληρός ἐστιν ὁ λόγος οὗτος",
+          "thai": "คำสอนนี้รับฟังยากเหลือเกิน",
+          "rationale": "Per uW figs-explicit: σκληρός here = 'hard to accept' (offensive, harsh) NOT 'hard to understand.' Thai 'รับฟังยาก' (acceptable + receptable) captures the offendedness. Alternative 'แข็งกระด้าง' (the literal-rendering, in thai_literal) would skew toward 'difficult content.' λόγος → คำสอน (rather than พระวจนะ — these speakers are dismissive)."
+        },
+        {
+          "greek": "τίς δύναται αὐτοῦ ἀκούειν",
+          "thai": "ใครจะรับฟังได้?",
+          "rationale": "Per uW figs-rquestion: rhetorical = 'no one can listen!' Thai 'ใครจะรับฟังได้?' renders the rhetorical-incredulity. αὐτοῦ ἀκούειν = 'listen to it' (genitive of person/thing-listened-to)."
+        }
+      ],
+      "notes": "TURNING-POINT: many disciples find the teaching too offensive to accept. σκληρός is the same Greek root as English 'sclerotic' — calcified, unyielding. The teaching's offense is its claim on absolute-allegiance via mortal-flesh-and-blood appropriation. Pre-Reformation reception-history shows this verse used by both Eucharistic-realist and symbolist parties; Calvin: 'they thought it absurd that they should chew his flesh.'"
+    }
+  },
+  {
+    "reference": "John 6:61",
+    "chapter": 6,
+    "verse": 61,
+    "greek": "εἰδὼς δὲ ὁ Ἰησοῦς ἐν ἑαυτῷ ὅτι γογγύζουσιν περὶ τούτου οἱ μαθηταὶ αὐτοῦ εἶπεν αὐτοῖς·Τοῦτο ὑμᾶς σκανδαλίζει;",
+    "bsb_english": "Aware that His disciples were grumbling about this teaching, Jesus asked them, “Does this offend you?",
+    "translation": {
+      "thai": "พระเยซูทรงทราบในพระองค์ว่าเหล่าสาวกของพระองค์กำลังบ่นเรื่องนี้ จึงตรัสกับพวกเขาว่า “สิ่งนี้ทำให้พวกท่านสะดุดหรือ?",
+      "thai_literal": "เมื่อพระเยซูทรงทราบในพระองค์ว่าสาวกของพระองค์บ่นเกี่ยวกับสิ่งนี้ ตรัสกับพวกเขาว่า “สิ่งนี้ทำให้พวกท่านสะดุดหรือ?",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "εἰδὼς δὲ ὁ Ἰησοῦς ἐν ἑαυτῷ",
+          "thai": "พระเยซูทรงทราบในพระองค์",
+          "rationale": "Per uW figs-explicit: supernatural-knowledge motif (cf. v.6 etc.). εἰδώς = perfect-active-participle of οἶδα 'know.' ἐν ἑαυτῷ = 'within himself' — without external information. Royal ทรงทราบ (RULES §3, locked from JHN 5:6, 6:6, 6:15)."
+        },
+        {
+          "greek": "γογγύζουσιν περὶ τούτου",
+          "thai": "กำลังบ่นเรื่องนี้",
+          "rationale": "γογγύζω → บ่น (locked v.41). Note: now even disciples grumble — the Exodus-typology has spread from leaders to followers."
+        },
+        {
+          "greek": "Τοῦτο ὑμᾶς σκανδαλίζει",
+          "thai": "สิ่งนี้ทำให้พวกท่านสะดุดหรือ?",
+          "rationale": "σκανδαλίζω = 'cause to stumble/fall away' — the question-form anticipates v.66's defection. KEY-TERM LOCK: σκανδαλίζω → สะดุด (locked corpus, MAT 11:6, 13:21, etc.). Thai 'ทำให้พวกท่านสะดุด' renders the active-causation."
+        }
+      ],
+      "notes": "DIVINE-FORE-KNOWLEDGE motif again. The σκανδαλίζω-question anticipates the disciple-defection of v.66."
+    }
+  },
+  {
+    "reference": "John 6:62",
+    "chapter": 6,
+    "verse": 62,
+    "greek": "ἐὰν οὖν θεωρῆτε τὸν υἱὸν τοῦ ἀνθρώπου ἀναβαίνοντα ὅπου ἦν τὸ πρότερον;",
+    "bsb_english": "Then what will happen if you see the Son of Man ascend to where He was before?",
+    "translation": {
+      "thai": "ถ้าพวกท่านจะเห็นบุตรมนุษย์เสด็จขึ้นไปยังที่ที่เคยอยู่มาก่อนเล่า?",
+      "thai_literal": "ถ้าพวกท่านจะเห็นบุตรมนุษย์กำลังเสด็จขึ้นไปยังที่ซึ่งเคยอยู่มาก่อน?",
+      "thai_summary": "ข้อนี้เป็นประโยคเงื่อนไขที่ขาดส่วน “ผล” — ราวกับว่า “ถ้าพวกท่านสะดุดเรื่องเนื้อและโลหิตแล้ว ถ้าได้เห็นเราเสด็จขึ้นสวรรค์ พวกท่านจะสะดุดยิ่งกว่านั้นเพียงใด?” พระเยซูทรงชี้ให้เห็นว่าการเสด็จขึ้นสวรรค์ของพระองค์ (กิจการ 1:9-11) จะเป็นบทพิสูจน์ขั้นสุดท้ายของการเสด็จลงมาจากสวรรค์ (ข้อ 38, 51, 58)",
+      "key_decisions": [
+        {
+          "greek": "ἐὰν οὖν θεωρῆτε...ἀναβαίνοντα ὅπου ἦν τὸ πρότερον",
+          "thai": "ถ้าพวกท่านจะเห็น...เสด็จขึ้นไปยังที่ที่เคยอยู่มาก่อน",
+          "rationale": "Per uW figs-ellipsis: incomplete conditional — the apodosis ('would it offend you more?') is suppressed for emphasis. Per uW figs-explicit: 'where he was before' = heaven. Per uW figs-123person: 'Son of Man' = self-reference. Royal เสด็จขึ้น for divine ascension (RULES §3). Thai question-particle 'เล่า?' renders the rhetorical incomplete-conditional."
+        }
+      ],
+      "notes": "ASCENSION-FORESHADOW: verse points beyond crucifixion to ascension (Acts 1:9-11). The pre-existence of the Son ('where he was before') is a strong Christological-claim (cf. JHN 1:1, 3:13, 17:5). The Greek incomplete-conditional creates suspense — exactly what John intends pastorally."
+    }
+  },
+  {
+    "reference": "John 6:63",
+    "chapter": 6,
+    "verse": 63,
+    "greek": "τὸ πνεῦμά ἐστιν τὸ ζῳοποιοῦν,ἡ σὰρξ οὐκ ὠφελεῖ οὐδέν·τὰ ῥήματα ἃ ἐγὼ λελάληκα ὑμῖν πνεῦμά ἐστιν καὶ ζωή ἐστιν.",
+    "bsb_english": "The Spirit gives life; the flesh profits nothing. The words I have spoken to you are spirit and they are life.",
+    "translation": {
+      "thai": "พระวิญญาณคือผู้ทรงให้ชีวิต ส่วนเนื้อหนังนั้นไม่มีประโยชน์อันใดเลย ถ้อยคำที่เราได้กล่าวแก่พวกท่านนั้นคือพระวิญญาณและคือชีวิต",
+      "thai_literal": "พระวิญญาณคือผู้ที่ให้ชีวิต เนื้อหนังไม่ช่วยอะไรเลย ถ้อยคำทั้งหลายที่เราได้พูดแก่พวกท่านเป็นวิญญาณและเป็นชีวิต",
+      "thai_summary": "นี่คือกุญแจไขประตูบทที่ 6 ทั้งหมด — พระเยซูตรัสชัดเจนว่า การ “กิน” ของพระองค์ไม่ได้หมายถึงการเอาเนื้อหนังมาเคี้ยวจริงๆ แต่หมายถึงการรับเอาถ้อยคำของพระองค์ด้วยความเชื่อในพระวิญญาณ พระวิญญาณคือผู้ทรงให้ชีวิต — เนื้อหนังตามตัวอักษรไม่ช่วยอะไร นี่คือเหตุผลที่ผู้เชื่อตามแนวอีแวนเจลิคัลเข้าใจว่าศีลมหาสนิทเป็นเครื่องหมายและตราประทับของการเป็นหนึ่งกับพระคริสต์โดยความเชื่อ ไม่ใช่การเปลี่ยนสภาพของเนื้อหนังตามวัตถุ",
+      "key_decisions": [
+        {
+          "greek": "τὸ πνεῦμά ἐστιν τὸ ζῳοποιοῦν",
+          "thai": "พระวิญญาณคือผู้ทรงให้ชีวิต",
+          "rationale": "Per uW figs-explicit: 'making alive' = giving eternal life (not physical life). Royal ทรง for the divine Spirit (RULES §3). NEW KEY-TERM LOCK: ζῳοποιέω → ทรงให้ชีวิต (cf. JHN 5:21 already in corpus). πνεῦμα with article-of-eminence + Johannine-context = the Holy Spirit, capitalized 'พระวิญญาณ'."
+        },
+        {
+          "greek": "ἡ σὰρξ οὐκ ὠφελεῖ οὐδέν",
+          "thai": "เนื้อหนังนั้นไม่มีประโยชน์อันใดเลย",
+          "rationale": "Per uW figs-explicit: 'the flesh' here = either (1) human nature (UST), (2) Jesus' physical body considered apart-from-faith, or (3) both. Translation choice: σάρξ here is anthropological 'human nature/flesh' — distinct from σάρξ-Christological in vv.51-56. NEW LEXICAL DISTINCTION: σάρξ → เนื้อหนัง (when anthropological-flesh, v.63) vs. เนื้อ (when Christological-flesh, vv.51-56). The two meanings are deliberately the same lemma in Greek; Thai retains the wordplay link via shared root 'เนื้อ.' This v.63 usage clarifies vv.51-56: the eating-of-flesh is not material-flesh-consumption (which 'profits nothing') but spiritual-appropriation."
+        },
+        {
+          "greek": "τὰ ῥήματα...πνεῦμά ἐστιν καὶ ζωή ἐστιν",
+          "thai": "ถ้อยคำที่เราได้กล่าวแก่พวกท่านนั้นคือพระวิญญาณและคือชีวิต",
+          "rationale": "Per uW figs-metonymy: 'words' = the teachings of vv.26-58. ῥῆμα → ถ้อยคำ (corpus, locked from JHN 5:47). Two predicates 'spirit' + 'life' — the Spirit-given words are the means by which life is conveyed. Thai preserves the doubled equation."
+        }
+      ],
+      "notes": "INTERPRETIVE-KEY for the chapter. Per RULES §0 evangelical-Protestant reading: Jesus rejects materialist-Eucharistic-realism (chewing-bodily-flesh-saves) and explicitly redirects to Spirit-mediated faithful-appropriation. Calvin (Inst. IV.17): the Spirit is the bond by which Christ effectually unites us to himself; the believer truly partakes of Christ in the Supper but spiritually, not corporeally. NEW LEXICAL LOCKS: ζῳοποιέω → ทรงให้ชีวิต; σάρξ-anthropological → เนื้อหนัง (vs. σάρξ-Christological → เนื้อ in vv.51-56)."
+    }
+  },
+  {
+    "reference": "John 6:64",
+    "chapter": 6,
+    "verse": 64,
+    "greek": "ἀλλὰ εἰσὶν ἐξ ὑμῶν τινες οἳ οὐ πιστεύουσιν.ᾔδει γὰρ ἐξ ἀρχῆς ὁ Ἰησοῦς τίνες εἰσὶν οἱ μὴ πιστεύοντες καὶ τίς ἐστιν ὁ παραδώσων αὐτόν.",
+    "bsb_english": "However, there are some of you who do not believe.” (For Jesus had known from the beginning which of them did not believe and who would betray Him.)",
+    "translation": {
+      "thai": "แต่มีบางคนในพวกท่านที่ไม่เชื่อ” (เพราะพระเยซูทรงทราบตั้งแต่แรกแล้วว่าใครคือผู้ที่ไม่เชื่อ และใครคือผู้ที่จะทรยศพระองค์)",
+      "thai_literal": "แต่ในพวกท่านมีบางคนที่ไม่เชื่อ (เพราะพระเยซูทรงทราบตั้งแต่เริ่มแรกว่าใครเป็นคนเหล่าที่ไม่เชื่อ และใครเป็นผู้ที่จะมอบพระองค์ไว้)",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "εἰσὶν ἐξ ὑμῶν τινες οἳ οὐ πιστεύουσιν",
+          "thai": "มีบางคนในพวกท่านที่ไม่เชื่อ",
+          "rationale": "Per uW figs-explicit: object of 'believe' = Jesus or his teaching. Thai is direct."
+        },
+        {
+          "greek": "ᾔδει γὰρ ἐξ ἀρχῆς ὁ Ἰησοῦς",
+          "thai": "เพราะพระเยซูทรงทราบตั้งแต่แรกแล้ว",
+          "rationale": "Per uW writing-background: parenthetical narrator-explanation. Pluperfect ᾔδει 'had known.' ἐξ ἀρχῆς = 'from the beginning.' Thai parenthetical with ()."
+        },
+        {
+          "greek": "ὁ παραδώσων αὐτόν",
+          "thai": "ผู้ที่จะทรยศพระองค์",
+          "rationale": "Future-active-participle of παραδίδωμι 'hand over, betray.' KEY-TERM LOCK: παραδίδωμι (Judas-betrayal sense) → ทรยศ (corpus, MAT 26:21-25, MRK 14:21, LUK 22:21-22 etc.)."
+        }
+      ],
+      "notes": "FIRST EXPLICIT JUDAS-FORESHADOW in JHN. The narrator's 'from the beginning' (ἐξ ἀρχῆς) — Jesus knew Judas' character before calling him. This raises difficult theological questions (compatibilist-providence per Acts 2:23 'delivered up by the definite plan and foreknowledge of God')."
+    }
+  },
+  {
+    "reference": "John 6:65",
+    "chapter": 6,
+    "verse": 65,
+    "greek": "καὶ ἔλεγεν·Διὰ τοῦτο εἴρηκα ὑμῖν ὅτι οὐδεὶς δύναται ἐλθεῖν πρός με ἐὰν μὴ ᾖ δεδομένον αὐτῷ ἐκ τοῦ πατρός.",
+    "bsb_english": "Then Jesus said, “This is why I told you that no one can come to Me unless the Father has granted it to him.”",
+    "translation": {
+      "thai": "พระองค์ยังตรัสต่อไปว่า “เพราะเหตุนี้เราจึงได้บอกพวกท่านว่า ไม่มีผู้ใดมาหาเราได้ เว้นแต่พระบิดาทรงโปรดประทานให้เขา”",
+      "thai_literal": "และพระองค์ตรัสว่า “เพราะเหตุนี้เราได้บอกพวกท่านแล้วว่า ไม่มีผู้ใดสามารถมายังเราได้ เว้นแต่ทรงประทานให้เขาจากพระบิดา",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "Διὰ τοῦτο εἴρηκα ὑμῖν",
+          "thai": "เพราะเหตุนี้เราจึงได้บอกพวกท่านว่า",
+          "rationale": "Per uW figs-explicit: 'this' = the disbelief just diagnosed. Perfect εἴρηκα 'I have said' (referring back to v.44). Thai 'เพราะเหตุนี้เราจึงได้บอก' renders the connective + perfect."
+        },
+        {
+          "greek": "ἐὰν μὴ ᾖ δεδομένον αὐτῷ ἐκ τοῦ πατρός",
+          "thai": "เว้นแต่พระบิดาทรงโปรดประทานให้เขา",
+          "rationale": "Per uW figs-activepassive + writing-pronouns: passive-perfect ᾖ δεδομένον 'has been given' — Thai active 'พระบิดาทรงโปรดประทาน' (the Father graciously gives). Royal ทรงโปรดประทาน (RULES §3) — the giving is gracious-divine. The pronoun 'it' (the ability to come, per uW) is naturalized in Thai."
+        }
+      ],
+      "notes": "v.44 RESTATED: divine drawing → effectual call. Per RULES §0: this verse is the Reformed reading-key for the chapter. The defection of vv.66 follows naturally — those not given by the Father do not persevere."
+    }
+  },
+  {
+    "reference": "John 6:66",
+    "chapter": 6,
+    "verse": 66,
+    "greek": "Ἐκ τούτου πολλοὶ ἐκ τῶν μαθητῶν αὐτοῦ ἀπῆλθον εἰς τὰ ὀπίσω καὶ οὐκέτι μετ’αὐτοῦ περιεπάτουν.",
+    "bsb_english": "From that time on many of His disciples turned back and no longer walked with Him.",
+    "translation": {
+      "thai": "ตั้งแต่นั้นมา สาวกของพระองค์หลายคนก็หันกลับไปสู่ทางเดิม และไม่ติดตามพระองค์อีกต่อไป",
+      "thai_literal": "ตั้งแต่นั้น สาวกของพระองค์หลายคนได้กลับหลังกลับไปและไม่เดินกับพระองค์อีกต่อไป",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "Ἐκ τούτου",
+          "thai": "ตั้งแต่นั้นมา",
+          "rationale": "Temporal/causal idiom = 'from this (point/cause).' Thai 'ตั้งแต่นั้นมา' renders the temporal-marker."
+        },
+        {
+          "greek": "ἀπῆλθον εἰς τὰ ὀπίσω",
+          "thai": "หันกลับไปสู่ทางเดิม",
+          "rationale": "Per uW figs-idiom: 'go away to the things behind' = idiom for returning to former life. Thai 'หันกลับไปสู่ทางเดิม' renders the apostasy-into-former-state idiom."
+        },
+        {
+          "greek": "οὐκέτι μετ' αὐτοῦ περιεπάτουν",
+          "thai": "และไม่ติดตามพระองค์อีกต่อไป",
+          "rationale": "Per uW figs-metaphor: 'walking with' = discipleship-life. Imperfect 'they were no longer walking with him.' Thai 'ไม่ติดตาม...อีกต่อไป' renders the discipleship-cessation."
+        }
+      ],
+      "notes": "MASS DEFECTION. Reformed reading: those who depart never had been truly born again (1 John 2:19 'they went out from us, but they were not really of us'). The teaching of vv.32-58 acted as a sieve, sorting nominal-followers from true-believers. The remaining loyalty of the Twelve (v.67-69) shines against this background of defection."
+    }
+  },
+  {
+    "reference": "John 6:67",
+    "chapter": 6,
+    "verse": 67,
+    "greek": "εἶπεν οὖν ὁ Ἰησοῦς τοῖς δώδεκα·Μὴ καὶ ὑμεῖς θέλετε ὑπάγειν;",
+    "bsb_english": "So Jesus asked the Twelve, “Do you want to leave too?”",
+    "translation": {
+      "thai": "พระเยซูจึงตรัสกับสาวกสิบสองคนว่า “พวกท่านก็ต้องการจะจากไปด้วยหรือ?”",
+      "thai_literal": "พระเยซูจึงตรัสกับสาวกสิบสองคนว่า “พวกท่านไม่ต้องการจะไปด้วยหรือ?",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "τοῖς δώδεκα",
+          "thai": "สาวกสิบสองคน",
+          "rationale": "Per uW figs-nominaladj + translate-names: 'the Twelve' = the chosen apostles, used adjectivally as a group-title. KEY-TERM LOCK: τοῖς δώδεκα → สาวกสิบสองคน (corpus, MAT 10:1, MRK 3:14 etc.). Thai-Christian convention does not capitalize as a proper-name."
+        },
+        {
+          "greek": "Μὴ καὶ ὑμεῖς θέλετε ὑπάγειν",
+          "thai": "พวกท่านก็ต้องการจะจากไปด้วยหรือ?",
+          "rationale": "Per uW figs-explicit: μή with the question expects negative response 'you don't want to go too, do you?' Thai 'พวกท่านก็...ด้วยหรือ?' carries the contrast-with-many-departing tone naturally; explicit-negation is unnecessary in Thai given the rhetorical setup."
+        }
+      ],
+      "notes": "PIVOT QUESTION: Jesus does not pursue the departing crowd; he directly asks the Twelve. The grammar of μή-question expects 'no,' inviting Peter's confessional-affirmation. This narrative structurally parallels MAT 16:13-20 (Caesarea Philippi) — the I-AM-Bread-of-Life crisis is John's equivalent of the Petrine confession."
+    }
+  },
+  {
+    "reference": "John 6:68",
+    "chapter": 6,
+    "verse": 68,
+    "greek": "ἀπεκρίθη αὐτῷ Σίμων Πέτρος·Κύριε,πρὸς τίνα ἀπελευσόμεθα;ῥήματα ζωῆς αἰωνίου ἔχεις,",
+    "bsb_english": "Simon Peter replied, “Lord, to whom would we go? You have the words of eternal life.",
+    "translation": {
+      "thai": "ซีโมน เปโตร ทูลตอบพระองค์ว่า “องค์พระผู้เป็นเจ้า เราจะไปหาผู้ใดเล่า? พระองค์ทรงมีถ้อยคำแห่งชีวิตนิรันดร์",
+      "thai_literal": "ซีโมน เปโตรตอบพระองค์ว่า “องค์พระผู้เป็นเจ้า เราจะไปยังใคร? พระองค์ทรงมีถ้อยคำแห่งชีวิตนิรันดร์",
+      "thai_summary": "การสารภาพของเปโตรเป็นการตอบของผู้เชื่อแท้ — ไม่ใช่ว่าเขาเข้าใจคำสอนของพระเยซูทั้งหมด แต่เขารู้ว่าไม่มีที่อื่นจะไป พระเยซูคือแหล่งของถ้อยคำที่ให้ชีวิตนิรันดร์ — ความรู้นี้ผูกพันใจของสาวกแท้ไว้กับพระคริสต์ แม้ในยามที่คำสอนยากจะรับ",
+      "key_decisions": [
+        {
+          "greek": "Σίμων Πέτρος",
+          "thai": "ซีโมน เปโตร",
+          "rationale": "PROPER-NOUN LOCK (corpus, JHN 1:40, 1:42, 6:8 etc.)."
+        },
+        {
+          "greek": "Κύριε,πρὸς τίνα ἀπελευσόμεθα",
+          "thai": "องค์พระผู้เป็นเจ้า เราจะไปหาผู้ใดเล่า?",
+          "rationale": "Per uW figs-rquestion: rhetorical 'we could never follow anyone but you.' Note KEY DIFFERENCE: Peter's κύριε here = full divine 'Lord' (vs. v.34 polite 'Sir'). RULES §4: κύριος (Christological) → องค์พระผู้เป็นเจ้า. Peter has progressed past the v.25 'Rabbi' to confessional 'Lord.' Thai question-particle 'เล่า?' renders the rhetorical force."
+        },
+        {
+          "greek": "ῥήματα ζωῆς αἰωνίου ἔχεις",
+          "thai": "พระองค์ทรงมีถ้อยคำแห่งชีวิตนิรันดร์",
+          "rationale": "Per uW figs-possession + figs-metonymy: ῥήματα ζωῆς αἰωνίου = 'words pertaining to / giving eternal life.' ῥῆμα → ถ้อยคำ (corpus from v.63). Royal 'ทรงมี' (RULES §3)."
+        }
+      ],
+      "notes": "PETER'S CONFESSION (Johannine version): not 'You are the Christ, Son of the living God' (MAT 16:16) but 'You have words of eternal life' — the same recognition of Jesus' unique-soteriological identity, framed by John's bread-of-life discourse keywords. Note the title-progression: rabbi (v.25) → sir (v.34) → Lord (v.68)."
+    }
+  },
+  {
+    "reference": "John 6:69",
+    "chapter": 6,
+    "verse": 69,
+    "greek": "καὶ ἡμεῖς πεπιστεύκαμεν καὶ ἐγνώκαμεν ὅτι σὺ εἶ ὁ ἅγιος τοῦ θεοῦ.",
+    "bsb_english": "We believe and know that You are the Holy One of God.”",
+    "translation": {
+      "thai": "เราทั้งหลายได้เชื่อและรู้แล้วว่าพระองค์คือองค์บริสุทธิ์ของพระเจ้า”",
+      "thai_literal": "และเราเองได้เชื่อและรู้แล้วว่าพระองค์คือองค์บริสุทธิ์ของพระเจ้า",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ἡμεῖς πεπιστεύκαμεν καὶ ἐγνώκαμεν",
+          "thai": "เราทั้งหลายได้เชื่อและรู้แล้ว",
+          "rationale": "Per uW figs-exclusive: 'we' here = Peter speaking for the Twelve, exclusive (not including the audience-readers). Two perfects: 'have believed and have come to know' — completed-actions with present-result. Thai 'ได้เชื่อและรู้แล้ว' renders the perfect-aspect. Order is significant: belief precedes the knowledge — Johannine epistemology (cf. JHN 7:17, 8:32)."
+        },
+        {
+          "greek": "σὺ εἶ ὁ ἅγιος τοῦ θεοῦ",
+          "thai": "พระองค์คือองค์บริสุทธิ์ของพระเจ้า",
+          "rationale": "Per uW figs-possession: ὁ ἅγιος τοῦ θεοῦ = the unique Holy One belonging to God. KEY-TERM LOCK: ὁ ἅγιος τοῦ θεοῦ → องค์บริสุทธิ์ของพระเจ้า (corpus, MRK 1:24 — Holy-One title used by demon, here by Peter; locked rendering)."
+        }
+      ],
+      "notes": "TITLE: 'the Holy One of God' (MRK 1:24, LUK 4:34) is a messianic-divine title. The same title used confessionally by Peter here in John parallels the demonic-recognition in Mark — narrative-irony showing both demonic and apostolic Christologies converge on Jesus' divine-identity. Title-locked from MRK 1:24 (corpus)."
+    }
+  },
+  {
+    "reference": "John 6:70",
+    "chapter": 6,
+    "verse": 70,
+    "greek": "ἀπεκρίθη αὐτοῖς ὁ Ἰησοῦς·Οὐκ ἐγὼ ὑμᾶς τοὺς δώδεκα ἐξελεξάμην;καὶ ἐξ ὑμῶν εἷς διάβολός ἐστιν.",
+    "bsb_english": "Jesus answered them, “Have I not chosen you, the Twelve? Yet one of you is a devil!”",
+    "translation": {
+      "thai": "พระเยซูตรัสตอบพวกเขาว่า “เราเองมิใช่หรือที่ได้เลือกพวกท่านสิบสองคน? และในพวกท่านมีคนหนึ่งเป็นมาร”",
+      "thai_literal": "พระเยซูตรัสตอบพวกเขาว่า “เราเองได้เลือกพวกท่านสิบสองคนมิใช่หรือ? และในพวกท่านคนหนึ่งเป็นมาร",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "Οὐκ ἐγὼ ὑμᾶς τοὺς δώδεκα ἐξελεξάμην",
+          "thai": "เราเองมิใช่หรือที่ได้เลือกพวกท่านสิบสองคน?",
+          "rationale": "Per uW figs-rquestion: rhetorical = 'I myself chose you twelve.' Aorist-mid ἐξελεξάμην 'I chose for myself.' Thai 'เราเองมิใช่หรือ' renders the rhetorical-emphatic-self-reference."
+        },
+        {
+          "greek": "ἐξ ὑμῶν εἷς διάβολός ἐστιν",
+          "thai": "ในพวกท่านมีคนหนึ่งเป็นมาร",
+          "rationale": "Per uW figs-explicit: διάβολος could mean (1) wicked one resembling/influenced by the devil, (2) 'slanderer' (literal etymology). uW lists option (1) primary. KEY-TERM LOCK: διάβολος → มาร (corpus, MAT 4:1, JHN 8:44, 13:2 etc.). Greek does not say 'IS the devil' as a person but 'is a devil/diabolic-one' (anarthrous predicate). Thai 'เป็นมาร' carries the diabolic-character force."
+        }
+      ],
+      "notes": "SOVEREIGN CHOICE + ANTHROPOLOGICAL EVIL: Jesus chose the Twelve, including Judas. The verse holds together divine-election and eventual betrayal — same compatibilist tension as 6:64. ELECTION HERE is corporate/historical (chose the Twelve as apostles) not necessarily salvific (Judas was chosen-apostle but not chosen-elect-believer per Reformed reading; cf. JHN 17:12 'son of perdition'). Jesus' rhetorical question affirms his sovereign-choice over the Twelve's being-with-him; the betrayal is permitted within that providential-frame."
+    }
+  },
+  {
+    "reference": "John 6:71",
+    "chapter": 6,
+    "verse": 71,
+    "greek": "ἔλεγεν δὲ τὸν Ἰούδαν Σίμωνος Ἰσκαριώτου·οὗτος γὰρ ἔμελλεν παραδιδόναι αὐτόν,εἷς ἐκ τῶν δώδεκα.",
+    "bsb_english": "He was speaking about Judas, the son of Simon Iscariot. For although Judas was one of the Twelve, he was later to betray Jesus.",
+    "translation": {
+      "thai": "พระองค์ตรัสถึงยูดาส บุตรของซีโมนชาวอิสคาริโอท เพราะถึงแม้ยูดาสจะเป็นหนึ่งในสาวกสิบสองคน แต่เขาก็จะเป็นผู้ทรยศพระองค์",
+      "thai_literal": "พระองค์ตรัสถึงยูดาสบุตรของซีโมนอิสคาริโอท เพราะคนนี้กำลังจะมอบพระองค์ไว้ คือคนหนึ่งจากสิบสองคน",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "τὸν Ἰούδαν Σίμωνος Ἰσκαριώτου",
+          "thai": "ยูดาส บุตรของซีโมนชาวอิสคาริโอท",
+          "rationale": "Per uW translate-names: Judas son of Simon Iscariot — both the father and son were Iscariot (= 'man from Kerioth,' a town in Judea). PROPER-NOUN LOCKS: Ἰούδας → ยูดาส (corpus, MAT 10:4, 26:14 etc.); Ἰσκαριώτης → อิสคาริโอท (corpus, MAT 10:4, MRK 3:19, LUK 6:16). 'ชาว' = 'man-of/from' for the place-of-origin epithet."
+        },
+        {
+          "greek": "οὗτος γὰρ ἔμελλεν παραδιδόναι αὐτόν,εἷς ἐκ τῶν δώδεκα",
+          "thai": "เพราะถึงแม้ยูดาสจะเป็นหนึ่งในสาวกสิบสองคน แต่เขาก็จะเป็นผู้ทรยศพระองค์",
+          "rationale": "Per uW writing-background: closing-narrator-explanation. ἔμελλεν παραδιδόναι = imperfect of μέλλω + present infinitive 'was about to be betraying / was destined to betray.' The εἷς ἐκ τῶν δώδεκα ('one of the Twelve') is appositional shock — the betrayer is from the inner circle. Thai 'ถึงแม้...แต่เขาก็จะ...' (concessive-adversative) captures the shock-explicit force."
+        }
+      ],
+      "notes": "JOHN'S NARRATIVE-CLOSURE: chapter 6 ends with the dual-revelation that the inner-circle has both a confessor (Peter) and a future-betrayer (Judas). The chapter-arc is complete: from feeding-the-multitudes (vv.1-15) through political-coronation-attempt (v.15) through I-AM-Bread-of-Life-discourse (vv.22-58) through mass-defection (v.66) to faithful-Twelve-but-with-betrayer (vv.67-71). PROPER-NOUN LOCKS confirmed: Ἰούδας → ยูดาส; Ἰσκαριώτης → อิสคาริโอท."
+    }
+  }
+]
