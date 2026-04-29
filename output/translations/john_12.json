@@ -1,0 +1,844 @@
+[
+  {
+    "reference": "John 12:1",
+    "chapter": 12,
+    "verse": 1,
+    "greek": "Ὁ οὖν Ἰησοῦς πρὸ ἓξ ἡμερῶν τοῦ πάσχα ἦλθεν εἰς Βηθανίαν,ὅπου ἦν Λάζαρος,ὃν ἤγειρεν ἐκ νεκρῶν Ἰησοῦς.",
+    "bsb_english": "Six days before the Passover, Jesus came to Bethany, where Lazarus lived, whom Jesus had raised from the dead.",
+    "translation": {
+      "thai": "หกวันก่อนเทศกาลปัสกา พระเยซูเสด็จมายังหมู่บ้านเบธานี อันเป็นที่ลาซารัสอาศัยอยู่ ซึ่งเป็นผู้ที่พระเยซูทรงทำให้เป็นขึ้นมาจากความตาย",
+      "thai_literal": null,
+      "thai_summary": "บทที่ 12 เป็นบทสุดท้ายของส่วน “หมายสำคัญ” ในข่าวประเสริฐยอห์น และเป็นการเตรียมพร้อมก่อนสัปดาห์แห่งพระมหาทรมาน เริ่มต้นที่เบธานีหกวันก่อนปัสกา (ประมาณวันเสาร์) ครอบคลุมการชโลม การเสด็จเข้ากรุงเยรูซาเล็มอย่างผู้พิชิต การมาของชาวกรีก คำพยากรณ์ของพระเยซูเรื่องการสิ้นพระชนม์ และคำอธิบายของยอห์นเรื่องการไม่เชื่อของคนส่วนใหญ่",
+      "key_decisions": [
+        { "greek": "πρὸ ἓξ ἡμερῶν τοῦ πάσχα", "thai": "หกวันก่อนเทศกาลปัสκา", "rationale": "Per uW writing-newevent: introduces a new event with time-marker. Six days before Passover = approximately Saturday before the climactic week (Passover that year on Friday-Saturday). KEY-TERM LOCK: πάσχα → เทศกาลปัสกา (cf. JHN 11:55, established corpus-wide)." },
+        { "greek": "ἤγειρεν ἐκ νεκρῶν", "thai": "ทรงทำให้เป็นขึ้นมาจากความตาย", "rationale": "Per uW figs-idiom: ἐγείρω ἐκ νεκρῶν = 'raise from the dead' (idiomatic resurrection-language). Royal ทรง- on divine action; PHRASE-LOCK 'เป็นขึ้นมาจากความตาย' (cf. JHN 11:23, MRK 8:31 lock)." }
+      ],
+      "notes": "Per uW writing-newevent: chapter-opening time-marker. Bethany = Lazarus's home (per JHN 11). The 'six days before Passover' specification establishes the chronological frame for the rest of the chapter and the upcoming Passion Week."
+    }
+  },
+  {
+    "reference": "John 12:2",
+    "chapter": 12,
+    "verse": 2,
+    "greek": "ἐποίησαν οὖν αὐτῷ δεῖπνον ἐκεῖ,καὶ ἡ Μάρθα διηκόνει,ὁ δὲ Λάζαρος εἷς ἦν ἐκ τῶν ἀνακειμένων σὺν αὐτῷ·",
+    "bsb_english": "So they hosted a dinner for Jesus there. Martha served, and Lazarus was among those reclining at the table with Him.",
+    "translation": {
+      "thai": "พวกเขาจึงจัดอาหารเย็นเลี้ยงพระองค์ที่นั่น มารธาเป็นผู้ปรนนิบัติ ส่วนลาซารัสเป็นหนึ่งในผู้ที่นั่งร่วมโต๊ะกับพระองค์",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "διηκόνει", "thai": "เป็นผู้ปรนนิบัติ", "rationale": "διακονέω imperfect = 'was serving / kept serving' (durative). Thai 'เป็นผู้ปรนนิบัติ' (be the server/attendant) is the natural rendering — captures the hospitable hostess role. Echoes LUK 10:40 (Martha 'distracted with much serving'); same character-portrait." },
+        { "greek": "τῶν ἀνακειμένων", "thai": "ผู้ที่นั่งร่วมโต๊ะ", "rationale": "Per uW translate-unknown: ἀνακείμενος = lying/reclining at table (1st-cent. Greco-Roman triclinium custom — guests reclined on couches around a low table). Thai 'นั่งร่วมโต๊ะ' (sit together at table) renders the meal-fellowship custom in modern Thai terms; the recline-couch detail isn't culturally meaningful in Thai context, so we use 'นั่ง' (sit) as the natural meal-equivalent." }
+      ],
+      "notes": "Per uW translate-unknown: ancient meal-posture. The dinner echoes the Synoptic anointing-meal (MAT 26:6-13, MRK 14:3-9 at Simon-the-leper's house, possibly the same event from a different angle — scholarly debate). Lazarus's presence at table = visible-public testimony to the resurrection-miracle."
+    }
+  },
+  {
+    "reference": "John 12:3",
+    "chapter": 12,
+    "verse": 3,
+    "greek": "ἡ οὖν Μαριὰμ λαβοῦσα λίτραν μύρου νάρδου πιστικῆς πολυτίμου ἤλειψεν τοὺς πόδας τοῦ Ἰησοῦ καὶ ἐξέμαξεν ταῖς θριξὶν αὐτῆς τοὺς πόδας αὐτοῦ·ἡ δὲ οἰκία ἐπληρώθη ἐκ τῆς ὀσμῆς τοῦ μύρου.",
+    "bsb_english": "Then Mary took about a pint of expensive perfume, made of pure nard, and she anointed Jesus’ feet and wiped them with her hair. And the house was filled with the fragrance of the perfume.",
+    "translation": {
+      "thai": "มารีย์จึงเอาน้ำมันหอมแท้ของสมุนไพรนาร์ดที่มีค่ามากประมาณครึ่งลิตร ชโลมที่พระบาทของพระเยซู และเช็ดพระบาทของพระองค์ด้วยผมของนาง ทั่วทั้งบ้านอบอวลไปด้วยกลิ่นหอมของน้ำมันนั้น",
+      "thai_literal": null,
+      "thai_summary": "การชโลมเท้าด้วยน้ำมันหอมเป็นการกระทำที่ผิดปกติทางวัฒนธรรม — ในยุคนั้น ตามปกติจะชโลมศีรษะหรือชโลมร่างกายของผู้ตายก่อนฝังเท่านั้น ไม่ชโลมเท้า เพราะถือว่าเป็นส่วนสกปรก การที่มารีย์เลือกชโลมพระบาทและเช็ดด้วยผม เป็นการแสดงความถ่อมตนสูงสุด และยังเป็นการเตรียมการฝังพระศพล่วงหน้าตามที่พระเยซูจะทรงตีความในข้อ 7",
+      "key_decisions": [
+        { "greek": "λίτραν", "thai": "ประมาณครึ่งลิตร", "rationale": "Per uW translate-bweight: λίτρα = Roman pound (≈327 g, or about half a liter for liquid by volume). Thai standard practice — convert to metric for reader comprehension. 'ประมาณครึ่งลิตร' (about half a liter) is the volume equivalent uW recommends for liquid measure." },
+        { "greek": "νάρδου πιστικῆς πολυτίμου", "thai": "นาร์ดที่มีค่ามาก", "rationale": "Per uW translate-unknown: nard = aromatic plant (Nardostachys jatamansi) from the Himalayas; the oil from its roots was a luxury import. πιστική = 'pure/genuine' (or possibly the place-name 'pistic' — debated). πολύτιμος = 'precious/very-expensive.' Thai 'นาร์ด' (transliteration) preserves the species-name; 'มีค่ามาก' (very valuable) renders the price-tag. The annual-wage cost (per v.5) makes the act extraordinarily lavish." },
+        { "greek": "ἤλειψεν τοὺς πόδας τοῦ Ἰησοῦ", "thai": "ชโลมที่พระบาทของพระเยซู", "rationale": "Per uW: anointing-the-feet was culturally unusual (head or full-body anointing was standard). Royal พระบาท (royal-foot) per RULES §3 for divine subject. KEY-TERM LOCK: ἀλείφω → ชโลม (anoint with oil); cf. JHN 11:2 anticipation." }
+      ],
+      "notes": "Per uW translate-unknown + figs-activepassive: nard = expensive Indian-Himalayan aromatic; pistike possibly = 'pure/genuine' or 'pistic' (place-name uncertain). The act is lavish (cost ≈ year's wages, per v.5) and culturally unusual (feet, not head). Foreshadows burial-anointing (per Jesus's interpretation in v.7) — Mary intuitively prepares Jesus for what is coming."
+    }
+  },
+  {
+    "reference": "John 12:4",
+    "chapter": 12,
+    "verse": 4,
+    "greek": "λέγει δὲ Ἰούδας ὁ Ἰσκαριώτης εἷς τῶν μαθητῶν αὐτοῦ,ὁ μέλλων αὐτὸν παραδιδόναι·",
+    "bsb_english": "But one of His disciples, Judas Iscariot, who was going to betray Him, asked,",
+    "translation": {
+      "thai": "แต่ยูดาสอิสคาริโอท หนึ่งในเหล่าสาวกของพระองค์ ผู้ซึ่งจะทรยศพระองค์ในภายหลัง พูดว่า",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "Ἰούδας ὁ Ἰσκαριώτης", "thai": "ยูดาสอิสคาริโอท", "rationale": "KEY-TERM LOCK: Ἰούδας Ἰσκαριώτης → ยูดาส อิสคาริโอท (cf. JHN 6:71, LUK 6:16, MAT 26:14, etc.). Standard Christian-Thai transliteration." },
+        { "greek": "ὁ μέλλων αὐτὸν παραδιδόναι", "thai": "ผู้ซึ่งจะทรยศพระองค์ในภายหลัง", "rationale": "Per uW figs-pastforfuture context: future-from-narrative-time reference. παραδίδωμι in Judas-context = 'betray/hand over.' Thai 'จะทรยศพระองค์ในภายหลัง' (will betray-the-divine in the future) preserves the proleptic narrator-aside." }
+      ],
+      "notes": "Per uW: narrator-aside identifying Judas with proleptic reference to the betrayal. Standard Johannine pattern — Judas is consistently named with the betrayer-tag (cf. JHN 6:71, 13:2, 18:2)."
+    }
+  },
+  {
+    "reference": "John 12:5",
+    "chapter": 12,
+    "verse": 5,
+    "greek": "Διὰ τί τοῦτο τὸ μύρον οὐκ ἐπράθη τριακοσίων δηναρίων καὶ ἐδόθη πτωχοῖς;",
+    "bsb_english": "“Why wasn’t this perfume sold for three hundred denarii and the money given to the poor?”",
+    "translation": {
+      "thai": "“ทำไมจึงไม่ขายน้ำมันหอมนี้ในราคาสามร้อยเดนาริอัน แล้วเอาเงินไปแจกคนยากจน?”",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "τριακοσίων δηναρίων", "thai": "สามร้อยเดนาริอัน", "rationale": "Per uW translate-bmoney: δηνάριον = Roman silver coin = one day's wages for a laborer. KEY-TERM LOCK: δηνάριον → เดนาริอัน (transliteration, cf. LUK 7:41, MRK 12:15 etc.). 300 denarii ≈ a year's wages for an ordinary worker (excluding sabbaths and feast days)." },
+        { "greek": "Διὰ τί ... οὐκ ἐπράθη ... καὶ ἐδόθη", "thai": "ทำไมจึงไม่ขาย ... แล้วเอาเงินไปแจก", "rationale": "Per uW figs-rquestion: rhetorical question — Judas's complaint, not genuine inquiry. Thai preserves the question form which carries the same indirect-criticism force." }
+      ],
+      "notes": "Per uW figs-rquestion + translate-bmoney: 300 denarii ≈ annual wage for a day-laborer. Judas's complaint frames Mary's act as economically irresponsible. The narrator's v.6 commentary will reveal the hypocritical motive."
+    }
+  },
+  {
+    "reference": "John 12:6",
+    "chapter": 12,
+    "verse": 6,
+    "greek": "εἶπεν δὲ τοῦτο οὐχ ὅτι περὶ τῶν πτωχῶν ἔμελεν αὐτῷ,ἀλλ’ὅτι κλέπτης ἦν καὶ τὸ γλωσσόκομον ἔχων τὰ βαλλόμενα ἐβάσταζεν.",
+    "bsb_english": "Judas did not say this because he cared about the poor, but because he was a thief; as keeper of the money bag, he used to take from what was put into it.",
+    "translation": {
+      "thai": "ยูดาสพูดเช่นนี้มิใช่เพราะห่วงใยคนยากจน แต่เพราะเขาเป็นขโมย เขาเป็นคนถือถุงเงินและคอยยักยอกเงินที่ใส่ลงไปในนั้น",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "κλέπτης ἦν", "thai": "เขาเป็นขโมย", "rationale": "KEY-TERM LOCK: κλέπτης → ขโมย (consistent with JHN 10:1, 10:8, 10:10). Translation preserves the harsh judgment without softening." },
+        { "greek": "τὸ γλωσσόκομον", "thai": "ถุงเงิน", "rationale": "γλωσσόκομον (originally 'tongue-case' for storing reeds, came to mean money-pouch in Hellenistic period) = the disciples' common purse. Thai 'ถุงเงิน' (money bag) is the natural rendering. The same vessel reappears at JHN 13:29." },
+        { "greek": "τὰ βαλλόμενα ἐβάσταζεν", "thai": "คอยยักยอกเงินที่ใส่ลงไปในนั้น", "rationale": "Per uW figs-activepassive: 'what was being put in' rendered actively. βαστάζω here in pejorative sense = 'carry off, pilfer' (not the neutral 'carry'). Thai 'ยักยอก' (embezzle/pilfer) captures the dishonest-taking sense; alternative neutral 'carry' would lose the narrative-judgment." }
+      ],
+      "notes": "Per uW writing-background + figs-activepassive: narrator's interruption to expose Judas's hypocrisy. βαστάζω in this context is pejorative ('to pilfer, abscond with'). The kept-the-purse-but-stole-from-it character is consistent with later JHN 13:29 (Judas held the common purse for the band)."
+    }
+  },
+  {
+    "reference": "John 12:7",
+    "chapter": 12,
+    "verse": 7,
+    "greek": "εἶπεν οὖν ὁ Ἰησοῦς·Ἄφες αὐτήν,ἵνα εἰς τὴν ἡμέραν τοῦ ἐνταφιασμοῦ μου τηρήσῃ αὐτό·",
+    "bsb_english": "“Leave her alone,” Jesus replied. “She has kept this perfume in preparation for the day of My burial.",
+    "translation": {
+      "thai": "พระเยซูตรัสว่า “จงปล่อยนางไว้เถิด นางได้เก็บน้ำมันหอมนี้ไว้สำหรับวันเตรียมพระศพของเรา",
+      "thai_literal": null,
+      "thai_summary": "พระเยซูทรงตีความการกระทำของมารีย์ว่าเป็นการเตรียมการสำหรับการสิ้นพระชนม์และการฝังของพระองค์ที่กำลังจะมาถึง — มารีย์อาจไม่รู้ตัวว่ากำลังทำพิธีล่วงหน้า แต่พระเยซูทรงเห็นความหมายลึกซึ้งในนิมิตของพระองค์",
+      "key_decisions": [
+        { "greek": "Ἄφες αὐτήν", "thai": "จงปล่อยนางไว้เถิด", "rationale": "Aor.act.imv. ἀφίημι = 'leave alone, let be.' Thai 'จงปล่อย ... ไว้เถิด' (let ... be) is the natural rendering." },
+        { "greek": "εἰς τὴν ἡμέραν τοῦ ἐνταφιασμοῦ μου τηρήσῃ αὐτό", "thai": "นางได้เก็บน้ำมันหอมนี้ไว้สำหรับวันเตรียมพระศพของเรา", "rationale": "Per uW figs-ellipsis + figs-explicit: two readings (1) Mary purposefully kept it for burial-prep; (2) some leftover for later. Translation goes with reading (1) — matches BSB and majority commentary, treating the act as already-burial-prep. ἐνταφιασμός = 'preparation for burial / embalming.' Thai 'วันเตรียมพระศพ' (the day of preparing the royal-body for burial) preserves both the burial-rite sense and the royal register on Jesus's body. Royal พระศพ (royal-corpse, used for kings/divine subjects in Thai) per RULES §3." }
+      ],
+      "notes": "Per uW figs-ellipsis: scholarly debate about whether Mary saved some for the actual burial-day or anointed-for-burial here. Translation follows the BSB/majority reading: Mary's act IS the burial-anointing, even if she doesn't fully know it. Theological depth: she instinctively does what would have been done at the formal burial (cf. MRK 16:1, LUK 23:56-24:1 — the women came AFTER his death intending to anoint, only to find an empty tomb). Mary effectively anoints him while he is still alive — the only burial-anointing he actually receives."
+    }
+  },
+  {
+    "reference": "John 12:8",
+    "chapter": 12,
+    "verse": 8,
+    "greek": "τοὺς πτωχοὺς γὰρ πάντοτε ἔχετε μεθ’ἑαυτῶν,ἐμὲ δὲ οὐ πάντοτε ἔχετε.",
+    "bsb_english": "The poor you will always have with you, but you will not always have Me.”",
+    "translation": {
+      "thai": "พวกท่านมีคนยากจนอยู่ด้วยเสมอ แต่พวกท่านจะไม่มีเราอยู่ด้วยเสมอไป”",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "ἐμὲ δὲ οὐ πάντοτε ἔχετε", "thai": "พวกท่านจะไม่มีเราอยู่ด้วยเสมอไป", "rationale": "Per uW figs-explicit: implicit 'because I will die.' Translation preserves the literal future-implication without flattening to 'because I will die.' The 'พวกท่านจะไม่มี ... เสมอไป' (you-pl will not have ... forever) carries the impending-departure meaning naturally." }
+      ],
+      "notes": "Per uW figs-explicit + figs-you: Jesus is not dismissing concern for the poor; the principle is event-prioritization (this is the unique window for THIS act of devotion). Echoes DEU 15:11 ('the poor you will always have with you in the land') — implicit OT-allusion that Jesus's hearers would catch."
+    }
+  },
+  {
+    "reference": "John 12:9",
+    "chapter": 12,
+    "verse": 9,
+    "greek": "Ἔγνω οὖν ὄχλος πολὺς ἐκ τῶν Ἰουδαίων ὅτι ἐκεῖ ἐστιν,καὶ ἦλθον οὐ διὰ τὸν Ἰησοῦν μόνον,ἀλλ’ἵνα καὶ τὸν Λάζαρον ἴδωσιν ὃν ἤγειρεν ἐκ νεκρῶν.",
+    "bsb_english": "Meanwhile, a large crowd of Jews learned that Jesus was there. And they came not only because of Him, but also to see Lazarus, whom He had raised from the dead.",
+    "translation": {
+      "thai": "ฝูงชนชาวยิวจำนวนมากทราบว่าพระเยซูประทับอยู่ที่นั่น พวกเขาจึงพากันมา ไม่เพียงเพราะพระเยซูเท่านั้น แต่ยังมาเพื่อจะได้เห็นลาซารัสที่พระองค์ทรงทำให้เป็นขึ้นมาจากความตายด้วย",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "ἐκ τῶν Ἰουδαίων", "thai": "ชาวยิว", "rationale": "Per uW chapter intro: 'the Jews' here = Judean people from Jerusalem (since Bethany is near Jerusalem) — neutral-broad sense, NOT the leadership-opposition sense. Thai 'ชาวยิว' (Jewish people)." }
+      ],
+      "notes": "Per uW writing-background + figs-synecdoche: 'the Jews' here = Judean people (third uses-pattern in the chapter — broader Jewish population, not the leadership). Lazarus has become a tourist-attraction — visible-living-witness to Jesus's resurrection-power."
+    }
+  },
+  {
+    "reference": "John 12:10",
+    "chapter": 12,
+    "verse": 10,
+    "greek": "ἐβουλεύσαντο δὲ οἱ ἀρχιερεῖς ἵνα καὶ τὸν Λάζαρον ἀποκτείνωσιν,",
+    "bsb_english": "So the chief priests resolved to kill Lazarus as well,",
+    "translation": {
+      "thai": "พวกหัวหน้าปุโรหิตจึงวางแผนที่จะฆ่าลาซารัสด้วย",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "ἐβουλεύσαντο", "thai": "วางแผน", "rationale": "PHRASE-LOCK with JHN 11:53: ἐβουλεύσαντο → วางแผน." },
+        { "greek": "ἵνα καὶ τὸν Λάζαρον ἀποκτείνωσιν", "thai": "ที่จะฆ่าลาซารัสด้วย", "rationale": "Per uW figs-explicit: 'also/in addition to Jesus' implicit. Thai 'ด้วย' (also) preserves the addition-to-Jesus implication." }
+      ],
+      "notes": "Per uW figs-explicit: the leadership now expands the death-conspiracy to include Lazarus — the visible proof of Jesus's power must also be eliminated. Note the absurdity: they would kill the man Jesus already raised once."
+    }
+  },
+  {
+    "reference": "John 12:11",
+    "chapter": 12,
+    "verse": 11,
+    "greek": "ὅτι πολλοὶ δι’αὐτὸν ὑπῆγον τῶν Ἰουδαίων καὶ ἐπίστευον εἰς τὸν Ἰησοῦν.",
+    "bsb_english": "because on account of him many of the Jews were deserting them and believing in Jesus.",
+    "translation": {
+      "thai": "เพราะเหตุของลาซารัสนั้น ชาวยิวจำนวนมากได้หันไปจากพวกเขา และเชื่อในพระเยซู",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "ὑπῆγον", "thai": "หันไปจากพวกเขา", "rationale": "Per uW figs-explicit: ὑπάγω here = 'depart/go away (from the Jewish leadership)' — i.e., abandon their teaching authority. Thai 'หันไปจาก' (turn-away from) makes the desertion-from-leadership explicit." }
+      ],
+      "notes": "Per uW figs-explicit: 'went away' = stopped following the religious leadership, started following Jesus. This is the sociological threat the leadership perceives — loss of authority over their people."
+    }
+  },
+  {
+    "reference": "John 12:12",
+    "chapter": 12,
+    "verse": 12,
+    "greek": "Τῇ ἐπαύριον ὁ ὄχλος πολὺς ὁ ἐλθὼν εἰς τὴν ἑορτήν,ἀκούσαντες ὅτι ἔρχεται ὁ Ἰησοῦς εἰς Ἱεροσόλυμα,",
+    "bsb_english": "The next day the great crowd that had come to the feast heard that Jesus was on His way to Jerusalem.",
+    "translation": {
+      "thai": "วันรุ่งขึ้น ฝูงชนจำนวนมากที่มาในเทศกาลปัสกาได้ยินว่าพระเยซูกำลังเสด็จมายังกรุงเยรูซาเล็ม",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "Τῇ ἐπαύριον", "thai": "วันรุ่งขึ้น", "rationale": "Per uW writing-newevent: time-marker introducing the next day (= the day after the Bethany dinner = Sunday, the traditional Palm Sunday). Thai 'วันรุ่งขึ้น' (the next day) is the standard rendering." },
+        { "greek": "τὴν ἑορτήν", "thai": "ในเทศกาลปัสกา", "rationale": "Per uW figs-explicit: 'the festival' = Passover specifically. Thai 'เทศกาลปัสกา' (Passover festival) supplies the specific festival name." }
+      ],
+      "notes": "Per uW writing-newevent: scene-shift to triumphal entry. 'The next day' = traditional Palm Sunday. The 'great crowd that had come to the feast' = pilgrim crowd swelling Jerusalem for Passover (estimates ~200,000-300,000+ pilgrims at peak Second-Temple-period Passovers)."
+    }
+  },
+  {
+    "reference": "John 12:13",
+    "chapter": 12,
+    "verse": 13,
+    "greek": "ἔλαβον τὰ βαΐα τῶν φοινίκων καὶ ἐξῆλθον εἰς ὑπάντησιν αὐτῷ,καὶ ἐκραύγαζον·Ὡσαννά,εὐλογημένος ὁ ἐρχόμενος ἐν ὀνόματι κυρίου,καὶ ὁ βασιλεὺς τοῦ Ἰσραήλ.",
+    "bsb_english": "So they took palm branches and went out to meet Him, shouting: “Hosanna! Blessed is He who comes in the name of the Lord! Blessed is the King of Israel!”",
+    "translation": {
+      "thai": "พวกเขาจึงถือกิ่งอินทผลัมออกไปต้อนรับพระองค์ และร้องว่า “โฮซันนา! ‘ขอให้ผู้ที่เสด็จมาในพระนามขององค์พระผู้เป็นเจ้าได้รับพระพร!’ และให้พระราชาแห่งอิสราเอลได้รับพระพรด้วย!”",
+      "thai_literal": null,
+      "thai_summary": "ฝูงชนใช้กิ่งอินทผลัมเป็นสัญลักษณ์ของชัยชนะ (ตามแบบฝ่ายชาวยิวสมัยมัคคาบีเมื่อสามารถยึดพระวิหารคืนได้) และตะโกนคำจากสดุดี 118:25-26 ซึ่งเป็นบทเพลงสวดที่ชาวยิวร้องในเทศกาลปัสกา “โฮซันนา” แปลว่า “โปรดช่วยให้รอด” พวกเขาเข้าใจพระเยซูว่าเป็นพระคริสต์ผู้ปลดปล่อยอิสราเอลจากโรม — ความเข้าใจที่ถูกต้องในทางหนึ่ง แต่ผิดพลาดในแง่ของวิธีการ",
+      "key_decisions": [
+        { "greek": "τὰ βαΐα τῶν φοινίκων", "thai": "กิ่งอินทผลัม", "rationale": "HAPAX: βαΐον (NT-only-occurrence here). Per uW figs-explicit: palm branches were Jewish national-symbol of victory (cf. 1 Macc 13:51; 2 Macc 10:7 — Maccabean retaking-of-temple). Thai 'กิ่งอินทผลัม' (date-palm branches) is the natural rendering — date-palm being the NT-Greek phoenix/palm tree." },
+        { "greek": "Ὡσαννά", "thai": "โฮซันนา", "rationale": "PHRASE-LOCK with MRK 11:9-10, MAT 21:9, 15: Ὡσαννά → โฮซันนา (Aramaic-embed transliteration). Per uW figs-explicit: Hebrew הוֹשִׁיעָה־נָּא 'save-please now!' — citation from PSA 118:25." },
+        { "greek": "εὐλογημένος ὁ ἐρχόμενος ἐν ὀνόματι κυρίου", "thai": "‘ขอให้ผู้ที่เสด็จมาในพระนามขององค์พระผู้เป็นเจ้าได้รับพระพร!’", "rationale": "Direct quotation of PSA 118:26 LXX. KEY-TERM LOCK: κύριος = YHWH-citation context → องค์พระผู้เป็นเจ้า (RULES §4 OT-citation register). PHRASE-LOCK with MRK 11:9 / MAT 21:9 same OT citation. Royal เสด็จ (royal-coming) for the divine subject. Thai-style nested single quotes ‘…’ per RULES §5b — marks the Psalm-citation embedded in the crowd's direct speech. ADDED TO NT_OT_CITATIONS: JHN 12:13 → PSA 118:25-26." },
+        { "greek": "ὁ βασιλεὺς τοῦ Ἰσραήλ", "thai": "พระราชาแห่งอิสราเอล", "rationale": "Per uW: Johannine addition to the Synoptic 'Hosanna' — 'King of Israel' is unique to John's account. Thai 'พระราชาแห่งอิสราเอล' (royal-king of Israel) preserves the messianic-political identification the crowd is making. The Maccabean palm-branch + king-of-Israel acclamation = clear messianic-political assertion." }
+      ],
+      "notes": "HAPAX: βαΐον. OT CITATION: JHN 12:13 → PSA 118:25-26 (Hallel psalm, recited at Passover). ADDED TO NT_OT_CITATIONS. Per uW: palm branches were Jewish nationalist victory-symbol (Maccabean tradition). The crowd's Hosanna + King-of-Israel together = messianic-political acclamation — they expect Roman-throwing-out-Messiah, which colors the upcoming dramatic-irony when Jesus reveals a different kingship-mode."
+    }
+  },
+  {
+    "reference": "John 12:14",
+    "chapter": 12,
+    "verse": 14,
+    "greek": "εὑρὼν δὲ ὁ Ἰησοῦς ὀνάριον ἐκάθισεν ἐπ’αὐτό,καθώς ἐστιν γεγραμμένον·",
+    "bsb_english": "Finding a young donkey, Jesus sat on it, as it is written:",
+    "translation": {
+      "thai": "พระเยซูทรงพบลูกลาตัวหนึ่งและทรงประทับบนนั้น ตามที่มีเขียนไว้ว่า",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "ὀνάριον", "thai": "ลูกลา", "rationale": "HAPAX: ὀνάριον (NT-only-occurrence here). Diminutive of ὄνος = 'young donkey/colt.' Thai 'ลูกลา' (young-donkey, lit. 'child of donkey') is the natural rendering." },
+        { "greek": "καθώς ἐστιν γεγραμμένον", "thai": "ตามที่มีเขียนไว้ว่า", "rationale": "Per uW writing-quotations + figs-activepassive: standard formula introducing OT citation. Thai 'ตามที่มีเขียนไว้ว่า' (as it has been written that) is the corpus-locked rendering." }
+      ],
+      "notes": "HAPAX: ὀνάριον. Per uW writing-background: vv.14-16 are narrator-aside explaining the OT-fulfillment dimension. Riding a donkey (vs. a war-horse) = humble/peaceful kingship-symbol — inverts the Maccabean political-messianic expectation the crowd has."
+    }
+  },
+  {
+    "reference": "John 12:15",
+    "chapter": 12,
+    "verse": 15,
+    "greek": "Μὴ φοβοῦ,θυγάτηρ Σιών·ἰδοὺ ὁ βασιλεύς σου ἔρχεται,καθήμενος ἐπὶ πῶλον ὄνου.",
+    "bsb_english": "“Do not be afraid, O Daughter of Zion. See, your King is coming, seated on the colt of a donkey.”",
+    "translation": {
+      "thai": "‘อย่ากลัวเลย ธิดาแห่งศิโยน ดูเถิด พระราชาของเจ้ากำลังเสด็จมา ประทับบนลูกลา’",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "θυγάτηρ Σιών", "thai": "ธิดาแห่งศิโยน", "rationale": "Per uW figs-metonymy: 'daughter of Zion' = poetic personification of Jerusalem/Israel. KEY-TERM LOCK: Σιών → ศิโยν (transliteration). Thai 'ธิดาแห่งศิโยน' (daughter of Zion) preserves the poetic-prophetic personification." },
+        { "greek": "πῶλον ὄνου", "thai": "ลูกลา", "rationale": "πῶλος ὄνου = 'colt of a donkey.' Per uW: same animal as v.14's ὀνάριον. Thai 'ลูกลα' uniformly across vv.14-15 for consistency. Direct quotation from ZEC 9:9 LXX." }
+      ],
+      "notes": "OT CITATION: JHN 12:15 → ZEC 9:9 (combined with phrase from ZEP 3:16 'do not be afraid'). The Zechariah quotation is paraphrased rather than verbatim — John gives the gist rather than full quote. Per uW figs-metonymy: 'daughter of Zion' = Jerusalem/Israel personified. The peaceful-king-on-donkey deliberately contrasts with the Maccabean victory-warrior expectation. ADDED TO NT_OT_CITATIONS: JHN 12:15 → ZEC 9:9 (with ZEP 3:16 framing). Single Thai-style quotes ‘…’ per RULES §5b for embedded OT-citation."
+    }
+  },
+  {
+    "reference": "John 12:16",
+    "chapter": 12,
+    "verse": 16,
+    "greek": "ταῦτα οὐκ ἔγνωσαν αὐτοῦ οἱ μαθηταὶ τὸ πρῶτον,ἀλλ’ὅτε ἐδοξάσθη Ἰησοῦς τότε ἐμνήσθησαν ὅτι ταῦτα ἦν ἐπ’αὐτῷ γεγραμμένα καὶ ταῦτα ἐποίησαν αὐτῷ.",
+    "bsb_english": "At first His disciples did not understand all this. But after Jesus was glorified, they realized that these things had been written about Him, and that they had done these things to Him.",
+    "translation": {
+      "thai": "ในตอนแรกเหล่าสาวกของพระองค์ยังไม่เข้าใจเรื่องเหล่านี้ แต่เมื่อพระเยซูได้รับพระสิริแล้ว พวกเขาก็ระลึกได้ว่าสิ่งเหล่านี้ได้มีเขียนเกี่ยวกับพระองค์ และพวกเขาได้กระทำสิ่งเหล่านี้แก่พระองค์",
+      "thai_literal": null,
+      "thai_summary": "ยอห์นบอกผู้อ่านว่าความเข้าใจเต็มของเหล่าสาวกในเรื่อง “พระเยซูคือพระคริสต์ตามคำพยากรณ์เก่า” มาภายหลังการคืนพระชนม์เท่านั้น — เป็นรูปแบบการเขียนของยอห์นที่จะแสดงทั้งเหตุการณ์และความหมายเชิงเทววิทยาของมันที่ค่อยๆ เปิดเผยตามเวลา",
+      "key_decisions": [
+        { "greek": "ὅτε ἐδοξάσθη Ἰησοῦς", "thai": "เมื่อพระเยซูได้รับพระสิริ", "rationale": "Per uW figs-activepassive + figs-explicit: 'glorified' = either (a) resurrection; (b) ascension; (c) both. Translation preserves the open-ended 'ได้รับพระสิริ' (received glory) — Thai readers can hear all three readings. Royal register implicit since the divine subject. KEY-TERM LOCK: δόξα → พระสิริ." }
+      ],
+      "notes": "Per uW writing-background + figs-activepassive: narrator's commentary on disciple-comprehension. 'Glorified' = the post-resurrection cluster (death+resurrection+ascension+session). Johannine epistemic pattern: full understanding of Jesus's identity comes only after resurrection (cf. JHN 2:22, 14:26). Per uW figs-explicit ambiguity: glory could refer to any of the resurrection/ascension/return-to-heaven complex."
+    }
+  },
+  {
+    "reference": "John 12:17",
+    "chapter": 12,
+    "verse": 17,
+    "greek": "ἐμαρτύρει οὖν ὁ ὄχλος ὁ ὢν μετ’αὐτοῦ ὅτε τὸν Λάζαρον ἐφώνησεν ἐκ τοῦ μνημείου καὶ ἤγειρεν αὐτὸν ἐκ νεκρῶν.",
+    "bsb_english": "Meanwhile, many people continued to testify that they had been with Him when He called Lazarus out of the tomb and raised him from the dead.",
+    "translation": {
+      "thai": "ฝูงชนที่อยู่กับพระองค์เมื่อพระองค์ทรงเรียกลาซารัสออกมาจากอุโมงค์และทำให้เขาเป็นขึ้นมาจากความตายนั้น เป็นพยานเรื่องนี้",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "ὁ ὄχλος ὁ ὢν μετ’αὐτοῦ", "thai": "ฝูงชนที่อยู่กับพระองค์", "rationale": "Per uW figs-explicit: 'the crowd that was with him' = the Bethany witnesses from JHN 11. Distinct from the larger pilgrim crowd of v.18. Translation preserves the literal phrasing; the distinction is documented in commentary." }
+      ],
+      "notes": "Per uW figs-explicit: this is the Bethany-witnesses subset who saw the raising of Lazarus (per JHN 11:31, 33, 45). Their continuous testifying drives the broader crowd's interest in v.18. Two distinct crowds in vv.17-18: the eyewitnesses + the pilgrims who hear of it."
+    }
+  },
+  {
+    "reference": "John 12:18",
+    "chapter": 12,
+    "verse": 18,
+    "greek": "διὰ τοῦτο καὶ ὑπήντησεν αὐτῷ ὁ ὄχλος ὅτι ἤκουσαν τοῦτο αὐτὸν πεποιηκέναι τὸ σημεῖον.",
+    "bsb_english": "That is also why the crowd went out to meet Him, because they heard that He had performed this sign.",
+    "translation": {
+      "thai": "เพราะเหตุนี้ ฝูงชนอีกพวกหนึ่งจึงออกไปต้อนรับพระองค์ เพราะได้ยินว่าพระองค์ทรงกระทำหมายสำคัญนี้",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "ὁ ὄχλος", "thai": "ฝูงชนอีกพวกหนึ่ง", "rationale": "Per uW figs-explicit: this is the second crowd (the pilgrim/festival crowd, distinct from v.17's eyewitness-crowd). Translation supplies 'อีกพวกหนึ่ง' (another group) to disambiguate." },
+        { "greek": "τὸ σημεῖον", "thai": "หมายสำคัญ", "rationale": "PHRASE-LOCK from JHN 2:11 onward: σημεῖον → หมายสำคัญ (RULES §4 + corpus precedent)." }
+      ],
+      "notes": "Per uW figs-explicit: the pilgrim-crowd's meeting Jesus is motivated specifically by the Lazarus-sign report. The triumphal-entry energy is the result of compounded eyewitness-testimony + pilgrim-curiosity."
+    }
+  },
+  {
+    "reference": "John 12:19",
+    "chapter": 12,
+    "verse": 19,
+    "greek": "οἱ οὖν Φαρισαῖοι εἶπαν πρὸς ἑαυτούς·Θεωρεῖτε ὅτι οὐκ ὠφελεῖτε οὐδέν·ἴδε ὁ κόσμος ὀπίσω αὐτοῦ ἀπῆλθεν.",
+    "bsb_english": "Then the Pharisees said to one another, “You can see that this is doing no good. Look how the whole world has gone after Him!”",
+    "translation": {
+      "thai": "พวกฟาริสีจึงพูดกันเองว่า “ดูเถิด เราทำอะไรไม่สำเร็จเลย ดูเถิด คนทั้งโลกก็ติดตามเขาไปหมดแล้ว”",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "ὁ κόσμος ὀπίσω αὐτοῦ ἀπῆλθεν", "thai": "คนทั้งโลกก็ติดตามเขาไปหมดแล้ว", "rationale": "Per uW figs-hyperbole + figs-metonymy: 'the world' = the people (metonymy), 'all gone after him' = exaggeration expressing alarm. Thai 'คนทั้งโลก ... ไปหมดแล้ว' (the whole-world people ... all gone) preserves both the metonymy and the hyperbole. The Pharisees' statement is unwittingly prophetic — the Gentile-mission of v.20-22 (Greeks seeking Jesus) is about to begin." }
+      ],
+      "notes": "Per uW figs-hyperbole + figs-metonymy: 'the world has gone after him' is the Pharisees' frustrated exaggeration, but unwittingly prophetic — the very next scene (v.20-22) introduces Greeks (= Gentile world) seeking Jesus. The Pharisees describe their fear; John layers it with theological-irony."
+    }
+  },
+  {
+    "reference": "John 12:20",
+    "chapter": 12,
+    "verse": 20,
+    "greek": "Ἦσαν δὲ Ἕλληνές τινες ἐκ τῶν ἀναβαινόντων ἵνα προσκυνήσωσιν ἐν τῇ ἑορτῇ·",
+    "bsb_english": "Now there were some Greeks among those who went up to worship at the feast.",
+    "translation": {
+      "thai": "มีชาวกรีกบางคนในกลุ่มผู้ที่ขึ้นไปนมัสการในเทศกาลนั้น",
+      "thai_literal": null,
+      "thai_summary": "ชาวกรีกในที่นี้คือคนต่างชาติที่นับถือพระเจ้าของอิสราเอล (ที่เรียกว่า “ผู้เกรงกลัวพระเจ้า” หรือ God-fearers ในกิจการ 10:2) ไม่ใช่ชาวยิวเชื้อสายกรีก พวกเขาเข้าพระวิหารได้ในลานคนต่างชาติเท่านั้น การที่พวกเขาแสวงหาพระเยซูเป็นเครื่องหมายว่าพันธกิจของพระคริสต์เริ่มจะขยายออกไปสู่ประชาชาติแล้ว",
+      "key_decisions": [
+        { "greek": "Ἕλληνές", "thai": "ชาวกรีก", "rationale": "Per uW figs-explicit: Ἕλληνες here = Greeks-by-religious-affiliation (Gentile God-fearers attending Passover), not necessarily ethnic Greeks. Standard Christian-Thai 'ชาวกรีก' (Greek people) preserves the literal term; the Gentile/God-fearer interpretation is documented in thai_summary. Same lock-form as ACT 16:1, ACT 17:4 (Ἕλληνες as Gentile-affiliated worshipers)." },
+        { "greek": "προσκυνήσωσιν", "thai": "นมัสการ", "rationale": "PHRASE-LOCK: προσκυνέω → นมัสการ (RULES §4, corpus-locked at JHN 4:20-24, JHN 9:38)." }
+      ],
+      "notes": "Per uW figs-explicit: 'Greeks' here = Gentile God-fearers (cf. ACT 10:2 Cornelius pattern). They were permitted in the outer Court of the Gentiles in the Temple. Their seeking Jesus opens the Gentile-mission theme — fulfilling the JHN 10:16 'other sheep' promise and the v.19 unwitting-Pharisaic prophecy ('the world has gone after him')."
+    }
+  },
+  {
+    "reference": "John 12:21",
+    "chapter": 12,
+    "verse": 21,
+    "greek": "οὗτοι οὖν προσῆλθον Φιλίππῳ τῷ ἀπὸ Βηθσαϊδὰ τῆς Γαλιλαίας,καὶ ἠρώτων αὐτὸν λέγοντες·Κύριε,θέλομεν τὸν Ἰησοῦν ἰδεῖν.",
+    "bsb_english": "They came to Philip, who was from Bethsaida in Galilee, and they began asking him, “Sir, we want to see Jesus.”",
+    "translation": {
+      "thai": "พวกเขาจึงมาหาฟีลิป ซึ่งมาจากเบธไซดาในแคว้นกาลิลี และอ้อนวอนท่านว่า “ท่านเจ้าข้า พวกเราอยากพบพระเยซู”",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "Φιλίππῳ τῷ ἀπὸ Βηθσαϊδά", "thai": "ฟีลิป ... จากเบธไซดา", "rationale": "PHRASE-LOCK: Φίλιππος → ฟีลิป (corpus-locked); Βηθσαϊδά → เบธไซดา (cf. JHN 1:44). The Greeks may have approached Philip because his name is Greek ('lover of horses') and Bethsaida had Hellenistic associations." },
+        { "greek": "Κύριε", "thai": "ท่านเจ้าข้า", "rationale": "Per uW: vocative κύριε to a human (Philip, not Jesus) = polite respectful 'sir.' PHRASE-LOCK with JHN 9:36 same human-non-divine vocative pattern: ท่านเจ้าข้α (esteemed sir, not divine-Lord)." },
+        { "greek": "θέλομεν τὸν Ἰησοῦν ἰδεῖν", "thai": "พวกเราอยากพบพระเยซู", "rationale": "Per uW figs-declarative: statement-form indirect-request. Thai 'อยากพบ' (would like to meet) preserves the polite-request form." }
+      ],
+      "notes": "Per uW figs-declarative: the Greeks make their request indirectly. Why approach Philip? Possibly his Greek name + Galilean-Hellenistic-cultural-mixed background made him a natural intermediary. The Gentile-seeking-Jesus motif begins the climactic-glorification arc Jesus is about to articulate (v.23 'the hour has come')."
+    }
+  },
+  {
+    "reference": "John 12:22",
+    "chapter": 12,
+    "verse": 22,
+    "greek": "ἔρχεται ὁ Φίλιππος καὶ λέγει τῷ Ἀνδρέᾳ·ἔρχεται Ἀνδρέας καὶ Φίλιππος καὶ λέγουσιν τῷ Ἰησοῦ.",
+    "bsb_english": "Philip went to tell Andrew, and Andrew and Philip in turn told Jesus.",
+    "translation": {
+      "thai": "ฟีลิปจึงไปบอกอันดรูว์ แล้วอันดรูว์กับฟีลิปก็มาทูลพระเยซู",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "Ἀνδρέᾳ ... Ἀνδρέας", "thai": "อันดรูว์", "rationale": "PHRASE-LOCK: Ἀνδρέας → อันดรูว์ (cf. JHN 1:40, 6:8). Standard Christian-Thai transliteration. Andrew + Philip pairing recurs in John (cf. JHN 1:40-44, 6:7-8)." }
+      ],
+      "notes": "Per uW figs-pastforfuture: present tense in past narration. Andrew + Philip team-up for receiving Greek inquirers — possibly because Andrew, with his Greek name, was also culturally bridging."
+    }
+  },
+  {
+    "reference": "John 12:23",
+    "chapter": 12,
+    "verse": 23,
+    "greek": "ὁ δὲ Ἰησοῦς ἀποκρίνεται αὐτοῖς λέγων·Ἐλήλυθεν ἡ ὥρα ἵνα δοξασθῇ ὁ υἱὸς τοῦ ἀνθρώπου.",
+    "bsb_english": "But Jesus replied, “The hour has come for the Son of Man to be glorified.",
+    "translation": {
+      "thai": "พระเยซูทรงตอบพวกเขาว่า “เวลานั้นมาถึงแล้ว ที่บุตรมนุษย์จะได้รับพระสิริ",
+      "thai_literal": null,
+      "thai_summary": "นี่เป็นจุดเปลี่ยนสำคัญในข่าวประเสริฐยอห์น — ก่อนหน้านี้พระเยซูทรงตรัสซ้ำๆ ว่า “เวลาของเรายังไม่ถึง” (2:4, 7:30, 8:20) แต่ตอนนี้ทรงประกาศว่า “เวลานั้นมาถึงแล้ว” การมาของชาวกรีกผู้แสวงหาพระองค์เป็นสัญญาณ — พันธกิจที่จะลามไปสู่ประชาชาติเริ่มต้นแล้ว และจะนำไปสู่จุดสุดยอดของการสิ้นพระชนม์และการคืนพระชนม์ของพระองค์",
+      "key_decisions": [
+        { "greek": "Ἐλήλυθεν ἡ ὥρα", "thai": "เวลานั้นมาถึงแล้ว", "rationale": "Per uW figs-metonymy: 'the hour' = 'the destined-time of crucifixion-resurrection.' Perfect tense ἐλήλυθεν = 'has-come-and-is-now-here.' PIVOTAL JOHANNINE PHRASE — until now Jesus said 'my hour has not yet come' (2:4, 7:30, 8:20); now arrived. Thai 'เวลานั้นมาถึงแล้ว' (the time has arrived) preserves the perfect-of-arrival force." },
+        { "greek": "δοξασθῇ ὁ υἱὸς τοῦ ἀνθρώπου", "thai": "บุตรมนุษย์จะได้รับพระสิริ", "rationale": "Per uW figs-explicit + figs-activepassive: glorification = death-resurrection-ascension cluster. KEY-TERM LOCK: ὁ υἱὸς τοῦ ἀνθρώπου → บุตรมนุษย์ (RULES §4, established corpus-wide). δόξα → พระสิริ. The aorist passive 'might-be-glorified' is rendered actively in Thai as 'จะได้รับพระสิริ' (will receive royal-glory) — natural Thai." }
+      ],
+      "notes": "PIVOTAL VERSE in Johannine narrative arc: 'the hour has come.' From this point until JHN 17, the trajectory is the Hour. The Greek-seekers (v.20-22) trigger the announcement — the Gentile-inclusion is integral to the glorification. Per uW figs-explicit: glorification = death + resurrection + ascension; Johannine 'lifted up' takes both crucifixion-and-exaltation senses (cf. v.32-34)."
+    }
+  },
+  {
+    "reference": "John 12:24",
+    "chapter": 12,
+    "verse": 24,
+    "greek": "ἀμὴν ἀμὴν λέγω ὑμῖν,ἐὰν μὴ ὁ κόκκος τοῦ σίτου πεσὼν εἰς τὴν γῆν ἀποθάνῃ,αὐτὸς μόνος μένει·ἐὰν δὲ ἀποθάνῃ,πολὺν καρπὸν φέρει.",
+    "bsb_english": "Truly, truly, I tell you, unless a kernel of wheat falls to the ground and dies, it remains by itself. But if it dies, it bears much fruit.",
+    "translation": {
+      "thai": "อาเมน อาเมน เราบอกแก่พวกท่านว่า ถ้าเมล็ดข้าวสาลีไม่ตกลงในดินและตายเสียก่อน ก็จะคงอยู่เพียงเมล็ดเดียว แต่ถ้ามันตาย ก็จะเกิดผลมาก",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "ἀμὴν ἀμὴν λέγω ὑμῖν", "thai": "อาเมน อาเมน เราบอกแก่พวกท่านว่า", "rationale": "PHRASE-LOCK: Johannine doubled-amen formula (lock established at JHN 1:51, applied corpus-wide)." },
+        { "greek": "ὁ κόκκος τοῦ σίτου", "thai": "เมล็ดข้าวสาลี", "rationale": "Per uW figs-metaphor: grain-of-wheat = Jesus himself; death-and-fruit = death-and-resurrection-with-many-followers. Thai 'เมล็ดข้าวสาลี' (grain of wheat) preserves the agricultural-metaphor literally." },
+        { "greek": "πολὺν καρπὸν φέρει", "thai": "เกิดผลมาก", "rationale": "Translation preserves the natural Thai agricultural-metaphor 'เกิดผล' (bear fruit) — universally understood. The metaphor of seed-dying-then-multiplying drives Pauline theology too (cf. 1 COR 15:36-38)." }
+      ],
+      "notes": "Per uW figs-metaphor: agricultural metaphor for the death-and-fruitfulness pattern. Jesus's death will produce 'much fruit' (= many believers, including the Greeks who just sought him). The metaphor governs both his own death and the disciple-pattern (v.25 immediately follows)."
+    }
+  },
+  {
+    "reference": "John 12:25",
+    "chapter": 12,
+    "verse": 25,
+    "greek": "ὁ φιλῶν τὴν ψυχὴν αὐτοῦ ἀπολλύει αὐτήν,καὶ ὁ μισῶν τὴν ψυχὴν αὐτοῦ ἐν τῷ κόσμῳ τούτῳ εἰς ζωὴν αἰώνιον φυλάξει αὐτήν.",
+    "bsb_english": "Whoever loves his life will lose it, but whoever hates his life in this world will keep it for eternal life.",
+    "translation": {
+      "thai": "ผู้ใดรักชีวิตของตน จะสูญเสียชีวิตนั้น แต่ผู้ใดเกลียดชีวิตของตนในโลกนี้ จะรักษาชีวิตนั้นไว้สู่ชีวิตนิรันดร์",
+      "thai_literal": null,
+      "thai_summary": "คำขัดแย้งของพระเยซู — “รักชีวิต = สูญเสียชีวิต / เกลียดชีวิต = ได้ชีวิตนิรันดร์” คำว่า “เกลียด” ในที่นี้ไม่ได้หมายถึงความรู้สึกในใจ แต่เป็นสำนวนเซมิติกที่หมายถึง “ให้ความสำคัญน้อยกว่า” (เปรียบเทียบ ลูกา 14:26) ผู้ที่ติดอยู่กับชีวิตปัจจุบันมากเกินไปจะสูญเสียทุกสิ่ง ผู้ที่ยอมสละชีวิตเพื่อพระคริสต์จะได้ชีวิตที่แท้จริง",
+      "key_decisions": [
+        { "greek": "ψυχὴν ... ψυχὴν", "thai": "ชีวิต ... ชีวิต", "rationale": "Per uW figs-idiom: ψυχή here = 'life' (one's own physical life as treasured-thing), not 'soul' in the spiritual sense. Thai 'ชีวิต' (life) is the right rendering for both occurrences. Distinct from v.27's 'ψυχή' (Jesus's troubled inner self) which uses 'พระทัย'." },
+        { "greek": "ὁ μισῶν τὴν ψυχὴν αὐτοῦ", "thai": "ผู้ใดเกลียดชีวิตของตน", "rationale": "Per uW figs-idiom: 'hates his life' = Semitic idiom for 'values less than' (cf. LUK 14:26; comparable to 'love' / 'hate' as preference-language). Translation preserves the literal 'เกลียด' (hate) — the paradoxical force is the point; the thai_summary explains the idiomatic meaning. Flattening to 'มีค่าน้อยกว่า' (values-less) would lose the deliberate-shock the saying makes." },
+        { "greek": "εἰς ζωὴν αἰώνιον φυλάξει αὐτήν", "thai": "จะรักษาชีวิตนั้นไว้สู่ชีวิตนิรันดร์", "rationale": "PHRASE-LOCK: ζωὴν αἰώνιον → ชีวิตนิรันดร์ (Johannine corpus-wide). Per uW grammar-connect-logic-result: εἰς ('for/unto') marks result. Thai 'สู่ชีวิตนิรันดร์' (unto eternal life) preserves the directional-result." }
+      ],
+      "notes": "Per uW figs-idiom: paradoxical saying — same theme as the Synoptic 'whoever wants to save his life will lose it' (MAT 16:25, MRK 8:35, LUK 9:24, 17:33). Hebraic-style intensified-comparative ('hate' = 'love-less-than'). The disciple-application of the v.24 grain-of-wheat principle: dying-to-self produces eternal-life-fruit."
+    }
+  },
+  {
+    "reference": "John 12:26",
+    "chapter": 12,
+    "verse": 26,
+    "greek": "ἐὰν ἐμοί τις διακονῇ ἐμοὶ ἀκολουθείτω,καὶ ὅπου εἰμὶ ἐγὼ ἐκεῖ καὶ ὁ διάκονος ὁ ἐμὸς ἔσται·ἐάν τις ἐμοὶ διακονῇ τιμήσει αὐτὸν ὁ πατήρ.",
+    "bsb_english": "If anyone serves Me, he must follow Me; and where I am, My servant also will be. If anyone serves Me, the Father will honor him.",
+    "translation": {
+      "thai": "ถ้าผู้ใดปรนนิบัติเรา ก็ให้ผู้นั้นตามเรามา และที่ใดที่เราอยู่ ผู้ปรนนิบัติของเราก็จะอยู่ที่นั่นด้วย ถ้าผู้ใดปรนนิบัติเรา พระบิดาจะทรงให้เกียรติแก่ผู้นั้น",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "ἐμοὶ ἀκολουθείτω", "thai": "ก็ให้ผู้นั้นตามเรามา", "rationale": "Per uW figs-idiom: ἀκολουθέω here = 'be a disciple of.' KEY-TERM LOCK from JHN 1:43, 8:12 onward: ἀκολουθέω → ตามมา (follow) for discipleship-language." },
+        { "greek": "ὁ διάκονος ὁ ἐμὸς", "thai": "ผู้ปรนนิบัติของเรา", "rationale": "διάκονος = servant (cognate with διηκόνει of Martha at v.2). Thai 'ผู้ปรนนิβัติ' (the-one-who-serves) is the natural rendering — links forward to the διάκονος = early-church 'deacon' technical sense (1 TIM 3:8 etc.)." },
+        { "greek": "τιμήσει αὐτὸν ὁ πατήρ", "thai": "พระบิดาจะทรงให้เกียรติแก่ผู้นั้น", "rationale": "τιμάω = 'honor.' Thai 'ทรงให้เกียรติ' (royally bestow honor) — royal ทรง- on the Father's act per RULES §3." }
+      ],
+      "notes": "Per uW figs-explicit: 'where I am' = heaven/glory. The discipleship-promise: serve me + follow me + be where I am + receive Father's honor. The pattern matches the v.24 grain-of-wheat principle applied to disciples."
+    }
+  },
+  {
+    "reference": "John 12:27",
+    "chapter": 12,
+    "verse": 27,
+    "greek": "Νῦν ἡ ψυχή μου τετάρακται,καὶ τί εἴπω;πάτερ,σῶσόν με ἐκ τῆς ὥρας ταύτης.ἀλλὰ διὰ τοῦτο ἦλθον εἰς τὴν ὥραν ταύτην.",
+    "bsb_english": "Now My soul is troubled, and what shall I say? ‘Father, save Me from this hour’? No, it was for this purpose that I came to this hour.",
+    "translation": {
+      "thai": "บัดนี้พระทัยของเราเป็นทุกข์ และเราจะกล่าวอย่างไร? ‘พระบิดาเจ้าข้า ขอทรงช่วยข้าพระองค์ให้พ้นจากเวลานี้’ หรือ? ไม่ใช่เลย เพราะเหตุนี้เองที่เราจึงมาถึงเวลานี้",
+      "thai_literal": null,
+      "thai_summary": "ข้อนี้เป็นช่วงโล่งของยอห์นที่ใกล้เคียงกับการอธิษฐานในเกทเสมนีในข่าวประเสริฐสามฉบับแรก พระเยซูทรงเปิดเผยความทุกข์ภายในของพระองค์เอง — “พระทัยเป็นทุกข์” แต่ก็ทรงปฏิเสธคำอธิษฐานที่จะหนีจากการสิ้นพระชนม์ เพราะการสิ้นพระชนม์เองคือเหตุผลที่ทรงมา",
+      "key_decisions": [
+        { "greek": "ἡ ψυχή μου τετάρακται", "thai": "พระทัยของเราเป็นทุกข์", "rationale": "Per uW figs-explicit: ψυχή here = inner-self / soul (Jesus's inner emotional state), distinct from v.25's ψυχή = physical-life. ταράσσω = 'be troubled, agitated' — same verb as JHN 11:33 (Jesus troubled at Lazarus's tomb), JHN 13:21 (troubled at predicting betrayal). Royal register: 'พระทัย' (royal-mind/heart) — same lock as JHN 11:33's πνεῦμα → พระทัย — the Christian-Thai standard for Jesus's inner emotional state." },
+        { "greek": "πάτερ,σῶσόν με ἐκ τῆς ὥρας ταύτης", "thai": "‘พระบิดาเจ้าข้า ขอทรงช่วยข้าพระองค์ให้พ้นจากเวลานี้’", "rationale": "Per uW figs-rquestion: rhetorical — Jesus rejects this prayer-form rather than uttering it. Thai-style nested single quotes per RULES §5b. Royal register: 'พระบิดาเจ้าข้า' (full divine-vocative for Father), 'ข้าพระองค์' (humble-self to Father), 'ทรงช่วย' (royal-helping)." }
+      ],
+      "notes": "Per uW figs-rquestion: this is the Johannine analog to the Synoptic Gethsemane prayer (MAT 26:39, MRK 14:36, LUK 22:42). Jesus rhetorically considers asking to be spared, then rejects it because the suffering IS the purpose. Theologically dense: shows full-humanity (genuine emotional anguish) + full-obedience (chosen submission to Father's will). Significant for Christology: Jesus is not a Stoic-impassible being; he genuinely shrinks from the cross while still choosing it."
+    }
+  },
+  {
+    "reference": "John 12:28",
+    "chapter": 12,
+    "verse": 28,
+    "greek": "πάτερ,δόξασόν σου τὸ ὄνομα.ἦλθεν οὖν φωνὴ ἐκ τοῦ οὐρανοῦ·Καὶ ἐδόξασα καὶ πάλιν δοξάσω.",
+    "bsb_english": "Father, glorify Your name!” Then a voice came from heaven: “I have glorified it, and I will glorify it again.”",
+    "translation": {
+      "thai": "พระบิดาเจ้าข้า ขอทรงทำให้พระนามของพระองค์ได้รับพระสิริเถิด” ขณะนั้นมีเสียงจากสวรรค์ดังมาว่า “เราได้ทำให้ได้รับพระสิริแล้ว และจะทำให้ได้รับพระสิริอีก”",
+      "thai_literal": null,
+      "thai_summary": "เสียงจากสวรรค์เป็นหนึ่งในสามเสียงที่พระเจ้าทรงตรัสจากฟ้าในข่าวประเสริฐ (ครั้งที่หนึ่งที่บัพติศมา ครั้งที่สองที่การจำแลงพระวรกาย ครั้งที่สามที่นี่) — เป็นการยืนยันจากพระบิดาว่าทุกสิ่งกำลังดำเนินไปตามแผนการ — “ได้ทำให้ได้รับพระสิริแล้ว” (ในการรักษาและการสอนของพระเยซู) “และจะทำให้ได้รับพระสิริอีก” (ในการสิ้นพระชนม์และคืนพระชนม์)",
+      "key_decisions": [
+        { "greek": "δόξασόν σου τὸ ὄνομα", "thai": "ขอทรงทำให้พระนามของพระองค์ได้รับพระสิริเถิด", "rationale": "Per uW figs-metonymy: 'glorify your name' = 'glorify yourself' (name = self-revelation/identity). Translation preserves the literal 'พระนาม' (royal-name) because the name-as-self idiom operates similarly in Thai religious discourse. Royal ทรง- on the divine action." },
+        { "greek": "ἦλθεν φωνὴ ἐκ τοῦ οὐρανοῦ", "thai": "มีเสียงจากสวรรค์ดังมา", "rationale": "Per uW figs-metaphor: 'voice came' personifies-via-motion-language; literally 'God spoke from heaven.' Thai 'มีเสียง ... ดังมา' (a voice ... came) preserves the literal-personification — Thai readers hear it naturally." },
+        { "greek": "ἐδόξασα ... δοξάσω", "thai": "ได้ทำให้ได้รับพระสิริแล้ว ... จะทำให้ได้รับพระสิริอีก", "rationale": "Aorist + future. Past glorification = the signs-and-revelations of Jesus's ministry; future glorification = the cross-resurrection-ascension complex. Thai preserves the aorist/future distinction with 'ได้ ... แล้ว / จะ ... อีก'." }
+      ],
+      "notes": "Per uW figs-metaphor + figs-metonymy: divine-voice from heaven — the third such voice in the Synoptics-plus-John tradition (1) baptism, (2) transfiguration, (3) here. Theologically rich: the Father's affirmation that the cross IS the glorification, not despite it. The aorist-future pair creates a glorification-arc spanning Jesus's ministry-into-cross."
+    }
+  },
+  {
+    "reference": "John 12:29",
+    "chapter": 12,
+    "verse": 29,
+    "greek": "ὁ οὖν ὄχλος ὁ ἑστὼς καὶ ἀκούσας ἔλεγεν βροντὴν γεγονέναι·ἄλλοι ἔλεγον·Ἄγγελος αὐτῷ λελάληκεν.",
+    "bsb_english": "The crowd standing there heard it and said that it had thundered. Others said that an angel had spoken to Him.",
+    "translation": {
+      "thai": "ฝูงชนที่ยืนอยู่และได้ยินก็พูดว่า เป็นเสียงฟ้าร้อง คนอื่นๆ พูดว่า มีทูตสวรรค์ตรัสกับพระองค์",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "βροντὴν γεγονέναι", "thai": "เป็นเสียงฟ้าร้อง", "rationale": "βροντή = thunder. Thai 'ฟ้าร้อง' (thunder, lit. 'sky-roar') is the natural rendering. The crowd's natural-phenomenon explanation — they hear sound but not articulate words." },
+        { "greek": "Ἄγγελος αὐτῷ λελάληκεν", "thai": "มีทูตสวรรค์ตรัสกับพระองค์", "rationale": "Per uW: an angel-mediator interpretation — the more spiritually-aware subset hears it as articulate divine speech via angel. KEY-TERM LOCK: ἄγγελος → ทูตสวรรค์. Royal ตรัส for divine-speech-act." }
+      ],
+      "notes": "Per uW: the crowd's split response (thunder vs. angel) parallels the two-perception of the Damascus-road voice in ACT 9 / 22 / 26 — those nearby heard sound but couldn't make out the words. Demonstrates that the divine-voice has both a discernible-content-for-Jesus and a more general-audible-presence for others."
+    }
+  },
+  {
+    "reference": "John 12:30",
+    "chapter": 12,
+    "verse": 30,
+    "greek": "ἀπεκρίθη Ἰησοῦς καὶ εἶπεν·Οὐ δι’ἐμὲ ἡ φωνὴ αὕτη γέγονεν ἀλλὰ δι’ὑμᾶς.",
+    "bsb_english": "In response, Jesus said, “This voice was not for My benefit, but yours.",
+    "translation": {
+      "thai": "พระเยซูตรัสตอบว่า “เสียงนี้ไม่ได้มาเพราะเราเอง แต่เพราะพวกท่าน",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": "Per uW figs-metonymy: same logic as JHN 11:42 (Jesus's prayer was for the crowd's benefit, not informational). The Father-Son intimacy is constant; the audible-voice serves the audience's faith-formation."
+    }
+  },
+  {
+    "reference": "John 12:31",
+    "chapter": 12,
+    "verse": 31,
+    "greek": "νῦν κρίσις ἐστὶν τοῦ κόσμου τούτου,νῦν ὁ ἄρχων τοῦ κόσμου τούτου ἐκβληθήσεται ἔξω·",
+    "bsb_english": "Now is the time for judgment on this world; now the prince of this world will be cast out.",
+    "translation": {
+      "thai": "บัดนี้เป็นเวลาแห่งการพิพากษาของโลกนี้ บัดนี้ผู้ครองโลกนี้จะถูกขับออกไป",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "ὁ ἄρχων τοῦ κόσμου τούτου", "thai": "ผู้ครองโลกนี้", "rationale": "Per uW figs-explicit: 'ruler of this world' = Satan (the term recurs at JHN 14:30, 16:11; cf. 2 COR 4:4 'god of this age,' EPH 2:2). Thai 'ผู้ครองโลกนี้' (the-one-who-rules this world) preserves the literal-but-clear designation. The Christological-victory motif: Jesus's death-cross is paradoxically Satan's defeat." },
+        { "greek": "κρίσις ἐστὶν τοῦ κόσμου τούτου", "thai": "การพิพากษาของโลกนี้", "rationale": "Per uW figs-abstractnouns: κρίσις = 'judgment, verdict.' Thai 'การพิพากษา' (judicial-judgment) is the standard rendering. The 'judgment of the world' here = the cross-event as cosmic-verdict-on-evil." }
+      ],
+      "notes": "Per uW figs-explicit: 'ruler of this world' = Satan. The cross-event is, paradoxically, Satan's expulsion — a Johannine Christus-Victor theme (cf. COL 2:15 disarming-the-powers, HEB 2:14 destroying-the-one-with-power-of-death)."
+    }
+  },
+  {
+    "reference": "John 12:32",
+    "chapter": 12,
+    "verse": 32,
+    "greek": "κἀγὼ ἐὰν ὑψωθῶ ἐκ τῆς γῆς,πάντας ἑλκύσω πρὸς ἐμαυτόν.",
+    "bsb_english": "And I, when I am lifted up from the earth, will draw everyone to Myself.”",
+    "translation": {
+      "thai": "และเรานั้น เมื่อเราถูกยกขึ้นจากแผ่นดินแล้ว เราจะดึงทุกคนเข้ามาหาเรา”",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "ὑψωθῶ ἐκ τῆς γῆς", "thai": "ถูกยกขึ้นจากแผ่นดิน", "rationale": "PHRASE-LOCK with JHN 3:14, 8:28: ὑψόω → ยกขึ้น (Johannine double-meaning crucifixion + glorification). Per uW figs-explicit: 'lifted up' carries both the crucifixion (lifted up on the cross) and the exaltation (lifted up to glory) senses — preserved in Thai 'ถูกยกขึ้น' (passive-raised)." },
+        { "greek": "πάντας ἑλκύσω πρὸς ἐμαυτόν", "thai": "เราจะดึงทุกคนเข้ามาหาเรา", "rationale": "Per uW figs-hyperbole: 'all/everyone' = all peoples (Jews + Gentiles), not literally every individual. PHRASE-LOCK with JHN 6:44 ἑλκύω → ดึง. Thai 'ทุกคน' (everyone) preserves the universal-scope; the all-peoples (vs. all-individuals) reading is documented in commentary, not forced into translation." }
+      ],
+      "notes": "Per uW figs-hyperbole + figs-explicit: 'lifted up' = double-entendre crucifixion + exaltation. 'All' = all-peoples (universal-scope), driven by the Greek-seekers context (v.20-22). The verse anticipates the Gentile mission while also forecasting the cross."
+    }
+  },
+  {
+    "reference": "John 12:33",
+    "chapter": 12,
+    "verse": 33,
+    "greek": "τοῦτο δὲ ἔλεγεν σημαίνων ποίῳ θανάτῳ ἤμελλεν ἀποθνῄσκειν.",
+    "bsb_english": "He said this to indicate the kind of death He was going to die.",
+    "translation": {
+      "thai": "พระองค์ตรัสเช่นนี้เพื่อบ่งชี้ว่าพระองค์จะสิ้นพระชนม์ด้วยวิธีใด",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "σημαίνων ποίῳ θανάτῳ", "thai": "เพื่อบ่งชี้ว่า ... จะสิ้นพระชนม์ด้วยวิธีใด", "rationale": "Narrator's clarifying aside. σημαίνω = 'signify, indicate.' Thai 'บ่งชี้' (indicate/point-out) is the natural rendering. Royal สิ้นพระชนม์ for divine-death." }
+      ],
+      "notes": "Per uW writing-background: narrator interrupts to clarify Jesus's words refer to crucifixion specifically. Crucifixion = elevation-on-cross, hence the 'lifted up' double-meaning. Romans crucified non-Roman criminals; Jewish stoning would not have raised the body."
+    }
+  },
+  {
+    "reference": "John 12:34",
+    "chapter": 12,
+    "verse": 34,
+    "greek": "ἀπεκρίθη οὖν αὐτῷ ὁ ὄχλος·Ἡμεῖς ἠκούσαμεν ἐκ τοῦ νόμου ὅτι ὁ χριστὸς μένει εἰς τὸν αἰῶνα,καὶ πῶς λέγεις σὺ ὅτι δεῖ ὑψωθῆναι τὸν υἱὸν τοῦ ἀνθρώπου;τίς ἐστιν οὗτος ὁ υἱὸς τοῦ ἀνθρώπου;",
+    "bsb_english": "The crowd replied, “We have heard from the Law that the Christ will remain forever. So how can You say that the Son of Man must be lifted up? Who is this Son of Man?”",
+    "translation": {
+      "thai": "ฝูงชนจึงทูลพระองค์ว่า “พวกเราได้ยินจากธรรมบัญญัติว่าพระคริสต์ทรงดำรงอยู่เป็นนิตย์ แล้วเหตุใดท่านจึงพูดว่า ‘บุตรมนุษย์จะต้องถูกยกขึ้น’? บุตรมนุษย์ผู้นี้คือใคร?”",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "ἐκ τοῦ νόμου", "thai": "จากธรรมบัญญัติ", "rationale": "Per uW figs-synecdoche: 'the Law' = the whole OT (cf. JHN 10:34 same usage). PHRASE-LOCK: νόμος → ธรรมบัญญัติ. The crowd is recalling messianic-permanence prophecies (e.g., PSA 89:35-37 'his throne shall endure forever'; ISA 9:7; DAN 7:14)." },
+        { "greek": "ὁ χριστὸς μένει εἰς τὸν αἰῶνα", "thai": "พระคริสต์ทรงดำรงอยู่เป็นนิตย์", "rationale": "PHRASE-LOCK: χριστός → พระคริสต์ (RULES §4). μένει εἰς τὸν αἰῶνα = 'remains forever.' Thai 'ทรงดำรงอยู่เป็นนิตย์' (royally-abide forever) preserves the eternal-permanence claim." },
+        { "greek": "δεῖ ὑψωθῆναι τὸν υἱὸν τοῦ ἀνθρώπου", "thai": "‘บุตรมนุษย์จะต้องถูกยกขึ้น’", "rationale": "Per uW figs-explicit: 'must be lifted up' = 'must be crucified' (as v.33 explained). Thai-style nested quotes ‘…’ for the embedded crowd-quote-of-Jesus's words." }
+      ],
+      "notes": "Per uW figs-synecdoche + figs-explicit: the crowd's puzzlement — they expect a permanent-Davidic-Messiah (per OT prophecies), not a dying-and-lifted-up Son-of-Man. The two messianic strands (suffering-servant ISA 53 vs. eternal-king DAN 7) didn't fully integrate in 1st-cent. Jewish messianic expectation; Jesus combines them. The crowd's question 'who is this Son of Man?' marks their confusion."
+    }
+  },
+  {
+    "reference": "John 12:35",
+    "chapter": 12,
+    "verse": 35,
+    "greek": "εἶπεν οὖν αὐτοῖς ὁ Ἰησοῦς·Ἔτι μικρὸν χρόνον τὸ φῶς ἐν ὑμῖν ἐστιν.περιπατεῖτε ὡς τὸ φῶς ἔχετε,ἵνα μὴ σκοτία ὑμᾶς καταλάβῃ·καὶ ὁ περιπατῶν ἐν τῇ σκοτίᾳ οὐκ οἶδεν ποῦ ὑπάγει.",
+    "bsb_english": "Then Jesus told them, “For a little while longer, the Light will be among you. Walk while you have the Light, so that darkness will not overtake you. The one who walks in the darkness does not know where he is going.",
+    "translation": {
+      "thai": "พระเยซูจึงตรัสกับพวกเขาว่า “ความสว่างยังอยู่กับพวกท่านอีกเพียงช่วงสั้นๆ จงเดินขณะที่พวกท่านยังมีความสว่าง เพื่อความมืดจะไม่ครอบงำพวกท่าน ผู้ที่เดินในความมืดย่อมไม่รู้ว่าตนกำลังไปที่ไหน",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "τὸ φῶς ... σκοτία", "thai": "ความสว่าง ... ความมืด", "rationale": "Per uW figs-metaphor: light=Jesus + truth/goodness; darkness=falsehood/evil. PHRASE-LOCK with JHN 1:5, 8:12, 9:5, 11:9-10. Thai 'ความสว่าง' / 'ความมืด' is the standard corpus rendering." },
+        { "greek": "ἵνα μὴ σκοτία ὑμᾶς καταλάβῃ", "thai": "เพื่อความมืดจะไม่ครอบงำพวกท่าน", "rationale": "Per uW figs-personification: darkness as agent overtaking. Thai 'ครอบงำ' (overcome/dominate) preserves the personification-active-overtake sense." }
+      ],
+      "notes": "Per uW figs-metaphor + figs-personification: light/darkness extended-metaphor closing Jesus's public ministry. The 'a little while longer' marks the imminent withdrawal (v.36 will say Jesus departed and hid). Pastoral urgency: walk while you have the light = align yourself with Christ before opportunity passes."
+    }
+  },
+  {
+    "reference": "John 12:36",
+    "chapter": 12,
+    "verse": 36,
+    "greek": "ὡς τὸ φῶς ἔχετε,πιστεύετε εἰς τὸ φῶς,ἵνα υἱοὶ φωτὸς γένησθε.Ταῦτα ἐλάλησεν Ἰησοῦς,καὶ ἀπελθὼν ἐκρύβη ἀπ’αὐτῶν.",
+    "bsb_english": "While you have the Light, believe in the Light, so that you may become sons of light.” After Jesus had spoken these things, He went away and was hidden from them.",
+    "translation": {
+      "thai": "ขณะที่พวกท่านยังมีความสว่าง จงเชื่อในความสว่างเถิด เพื่อพวกท่านจะได้เป็นบุตรแห่งความสว่าง” เมื่อพระเยซูตรัสสิ่งเหล่านี้แล้ว พระองค์ก็เสด็จออกไปและซ่อนพระองค์ไว้จากพวกเขา",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "υἱοὶ φωτὸς", "thai": "บุตรแห่งความสว่าง", "rationale": "Per uW figs-idiom: 'sons of light' = Hebraic idiom for those who participate-in (cf. LUK 16:8, 1 THES 5:5, EPH 5:8). Thai 'บุตรแห่งความสว่าง' (sons of light) preserves the idiom literally — Thai readers will hear the participation-language." },
+        { "greek": "ἀπελθὼν ἐκρύβη ἀπ’αὐτῶν", "thai": "เสด็จออกไปและซ่อนพระองค์ไว้จากพวกเขา", "rationale": "Royal เสด็จ for divine-departure. ἐκρύβη aor.pass. = 'was hidden / hid himself.' Translation 'ซ่อนพระองค์ไว้' (hid the divine-self) preserves the royal-self-hiding. Marks the end of Jesus's public ministry — vv.37-50 are John's narrator-summary, not new public discourse." }
+      ],
+      "notes": "Per uW figs-idiom: 'sons of light' = Hebraism. KEY NARRATIVE TRANSITION: this verse marks the END of Jesus's public ministry in John's gospel. The remaining material (vv.37-50) is narrator-summary + recap; chapters 13-17 are private-discourse to disciples. After v.36, no more public-teaching scenes appear in the gospel."
+    }
+  },
+  {
+    "reference": "John 12:37",
+    "chapter": 12,
+    "verse": 37,
+    "greek": "τοσαῦτα δὲ αὐτοῦ σημεῖα πεποιηκότος ἔμπροσθεν αὐτῶν οὐκ ἐπίστευον εἰς αὐτόν,",
+    "bsb_english": "Although Jesus had performed so many signs in their presence, they still did not believe in Him.",
+    "translation": {
+      "thai": "แม้ว่าพระเยซูจะทรงกระทำหมายสำคัญมากมายต่อหน้าพวกเขา พวกเขาก็ยังไม่เชื่อในพระองค์",
+      "thai_literal": null,
+      "thai_summary": "ยอห์นสรุปสาระของพันธกิจสาธารณะของพระเยซู — แม้จะมีหมายสำคัญที่ชัดเจนหลายอย่าง คนส่วนใหญ่ก็ปฏิเสธ ในข้อต่อไปยอห์นจะอ้างอิสยาห์เพื่อแสดงว่าการไม่เชื่อนี้ไม่ได้น่าประหลาดใจ — เป็นไปตามคำพยากรณ์ของพระคัมภีร์เดิม",
+      "key_decisions": [
+        { "greek": "τοσαῦτα ... σημεῖα πεποιηκότος", "thai": "แม้ว่า ... จะทรงกระทำหมายสำคัญมากมาย", "rationale": "PHRASE-LOCK: σημεῖον → หมายสำคัญ. Concessive clause-structure 'although ... still not.' Thai 'แม้ว่า ... ก็ยังไม่' preserves the concessive-yet relationship." }
+      ],
+      "notes": "Per uW writing-background: vv.37-43 are narrator's theological summary explaining Jewish unbelief by reference to Isaiah. Hardening-of-Israel motif also at MRK 4:12 / MAT 13:14-15 / ACT 28:26-27 / ROM 11:7-8 — common NT framework using ISA 6:9-10."
+    }
+  },
+  {
+    "reference": "John 12:38",
+    "chapter": 12,
+    "verse": 38,
+    "greek": "ἵνα ὁ λόγος Ἠσαΐου τοῦ προφήτου πληρωθῇ ὃν εἶπεν·Κύριε,τίς ἐπίστευσεν τῇ ἀκοῇ ἡμῶν;καὶ ὁ βραχίων κυρίου τίνι ἀπεκαλύφθη;",
+    "bsb_english": "This was to fulfill the word of Isaiah the prophet: “Lord, who has believed our message? To whom has the arm of the Lord been revealed?”",
+    "translation": {
+      "thai": "เพื่อจะสำเร็จตามถ้อยคำที่อิสยาห์ผู้เผยพระวจนะได้กล่าวไว้ว่า ‘องค์พระผู้เป็นเจ้า มีผู้ใดเชื่อสารของเราบ้างเล่า? และพระหัตถ์ขององค์พระผู้เป็นเจ้าได้ทรงสำแดงแก่ผู้ใดเล่า?’",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "Κύριε,τίς ἐπίστευσεν τῇ ἀκοῇ ἡμῶν", "thai": "‘องค์พระผู้เป็นเจ้า มีผู้ใดเชื่อสารของเราบ้างเล่า?’", "rationale": "Direct citation of ISA 53:1 LXX. Per uW figs-rquestion + writing-quotations: rhetorical question expressing dismay at unbelief. KEY-TERM LOCK: κύριος = YHWH-citation context → องค์พระผู้เป็นเจ้า (RULES §4). Thai-style nested single quotes per RULES §5b. ADDED TO NT_OT_CITATIONS: JHN 12:38 → ISA 53:1." },
+        { "greek": "ὁ βραχίων κυρίου", "thai": "พระหัตถ์ขององค์พระผู้เป็นเจ้า", "rationale": "Per uW figs-metaphor: 'arm of the Lord' = the LORD's power/saving-action. Thai 'พระหัตถ์' (royal-hand) — somewhat broader than 'arm' but the same anthropomorphic metaphor; established Christian-Thai for the divine-hand-of-power. Some Thai translations use 'พระอาภัสร์' (royal-arm) more literally — but 'พระหัตถ์' is the corpus-locked rendering for divine-action-metaphor." }
+      ],
+      "notes": "OT CITATION: JHN 12:38 → ISA 53:1 (the Suffering-Servant chapter's opening line). ADDED TO NT_OT_CITATIONS. Same verse cited at ROM 10:16. Significant: John connects the unbelief-of-Israel to the Suffering-Servant context (Isa 53), implying Jesus as Servant-Messiah whose rejection was prophesied."
+    }
+  },
+  {
+    "reference": "John 12:39",
+    "chapter": 12,
+    "verse": 39,
+    "greek": "διὰ τοῦτο οὐκ ἠδύναντο πιστεύειν ὅτι πάλιν εἶπεν Ἠσαΐας·",
+    "bsb_english": "For this reason they were unable to believe. Because, as Isaiah says elsewhere:",
+    "translation": {
+      "thai": "ด้วยเหตุนี้พวกเขาจึงไม่สามารถเชื่อได้ เพราะอิสยาห์ได้กล่าวไว้อีกตอนหนึ่งว่า",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "οὐκ ἠδύναντο πιστεύειν", "thai": "จึงไม่สามารถเชื่อได้", "rationale": "Imperfect ἠδύναντο = 'were unable.' Theologically charged: literal 'could not.' Translation preserves the literal modal-impossibility — the hardening-language is what John intends. Whether this implies divine-causation or natural-consequence-of-rejection is a theological-debate the translation does not resolve." }
+      ],
+      "notes": "Per uW + Johannine theology: 'could not believe' = the hardening principle from ISA 6 (cited next). Theological depth: scholarly division on whether the hardening is judicial (divinely-decreed retribution for prior rejection — Calvin / Reformed) or descriptive (the practical-consequence of rejection — Wesleyan / Arminian). Translation preserves the original 'could not' without theological smoothing."
+    }
+  },
+  {
+    "reference": "John 12:40",
+    "chapter": 12,
+    "verse": 40,
+    "greek": "Τετύφλωκεν αὐτῶν τοὺς ὀφθαλμοὺς καὶ ἐπώρωσεν αὐτῶν τὴν καρδίαν,ἵνα μὴ ἴδωσιν τοῖς ὀφθαλμοῖς καὶ νοήσωσιν τῇ καρδίᾳ καὶ στραφῶσιν,καὶ ἰάσομαι αὐτούς.",
+    "bsb_english": "“He has blinded their eyes and hardened their hearts, so that they cannot see with their eyes, and understand with their hearts, and turn, and I would heal them.”",
+    "translation": {
+      "thai": "‘พระองค์ได้ทรงทำให้ตาของพวกเขามืดบอด และทำให้ใจของพวกเขาแข็งกระด้าง เพื่อพวกเขาจะมองด้วยตาและเข้าใจด้วยใจไม่ได้ และจะหันกลับมาไม่ได้ มิฉะนั้นเราจะรักษาพวกเขาให้หาย’",
+      "thai_literal": null,
+      "thai_summary": "การที่ยอห์นอ้างอิสยาห์ 6:10 เป็นการสรุปการตอบสนองของชาวยิวต่อพระเยซู — เป็นไปตามแบบที่อิสยาห์เผชิญในศตวรรษที่แปดก่อนคริสตกาล การอ้างนี้ไม่ใช่การยกโทษพวกเขา แต่เป็นการกล่าวว่าการปฏิเสธของพวกเขาเป็นเรื่องที่ทรงคาดการณ์ไว้แล้วในแผนการของพระเจ้า",
+      "key_decisions": [
+        { "greek": "Τετύφλωκεν ... ἐπώρωσεν", "thai": "พระองค์ได้ทรงทำให้ตา ... มืดบอด ... ทำให้ใจ ... แข็งกระด้าง", "rationale": "Per uW figs-metaphor: 'blinded eyes' = caused not-to-understand; 'hardened heart' = caused stubbornness. Translation preserves the Hebrew/Greek metaphor literally — Thai readers recognize 'มืดบอด' (blind-darkness) and 'แข็งกระด้าง' (hard-stiff) as standard idioms for spiritual-perceptual-failure. Royal ทรง- on the divine subject (as the citation reads with God as agent)." },
+        { "greek": "καὶ ἰάσομαι αὐτούς", "thai": "มิฉะนั้นเราจะรักษาพวกเขาให้หาย", "rationale": "Per uW figs-metaphor: 'heal' = forgive sins (medical-metaphor for spiritual restoration). Translation preserves the literal 'รักษา ... ให้หาย' (heal ... to recovery) — Thai readers can hear the spiritual-application; making it explicit (as 'forgive') would over-translate." }
+      ],
+      "notes": "OT CITATION: JHN 12:40 → ISA 6:10. ADDED TO NT_OT_CITATIONS. Per uW figs-metaphor: blinding-eyes / hardening-heart cluster from ISA 6:10. Same verse cited at MRK 4:12, MAT 13:14-15, LUK 8:10, ACT 28:26-27. The hardening-paradigm: God's just response to sustained rejection — judicial-hardening as a category of divine action throughout the OT and NT (cf. EXO 9:12 Pharaoh; ISA 6:9-13; ROM 9-11)."
+    }
+  },
+  {
+    "reference": "John 12:41",
+    "chapter": 12,
+    "verse": 41,
+    "greek": "ταῦτα εἶπεν Ἠσαΐας ὅτι εἶδεν τὴν δόξαν αὐτοῦ,καὶ ἐλάλησεν περὶ αὐτοῦ.",
+    "bsb_english": "Isaiah said these things because he saw Jesus’ glory and spoke about Him.",
+    "translation": {
+      "thai": "อิสยาห์ได้กล่าวเช่นนี้เพราะท่านได้เห็นพระสิริของพระองค์ และได้กล่าวถึงพระองค์",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "εἶδεν τὴν δόξαν αὐτοῦ", "thai": "ท่านได้เห็นพระสิริของพระองค์", "rationale": "Per uW figs-abstractnouns: δόξα = 'glory.' Theologically loaded: John reads ISA 6 (Isaiah's vision of YHWH on the throne) AS A VISION OF THE PRE-INCARNATE CHRIST. Thai 'พระสิริของพระองค์' (His glory) preserves the implicit-Christological reading; 'พระองค์' is deliberately ambiguous (could refer to YHWH or Christ — the point is John identifies them in the Isaiah-vision)." }
+      ],
+      "notes": "Per uW + theology: explosive Christological claim — Isaiah's throne-vision (ISA 6) is identified as a vision of CHRIST'S glory. John reads the OT theophanies as Christ-encounters. Same Christological hermeneutic at JHN 8:56 (Abraham saw my day), 1 COR 10:4 (the rock was Christ), HEB 11:26 (Moses chose disgrace for the sake of Christ). Pre-incarnate Christ identified with the OT divine-encounter."
+    }
+  },
+  {
+    "reference": "John 12:42",
+    "chapter": 12,
+    "verse": 42,
+    "greek": "ὅμως μέντοι καὶ ἐκ τῶν ἀρχόντων πολλοὶ ἐπίστευσαν εἰς αὐτόν,ἀλλὰ διὰ τοὺς Φαρισαίους οὐχ ὡμολόγουν ἵνα μὴ ἀποσυνάγωγοι γένωνται·",
+    "bsb_english": "Nevertheless, many of the leaders believed in Him. But because of the Pharisees they did not confess Him, for fear that they would be put out of the synagogue.",
+    "translation": {
+      "thai": "อย่างไรก็ตาม ผู้นำชาวยิวจำนวนมากก็ได้เชื่อในพระองค์ แต่เพราะกลัวพวกฟาริสี พวกเขาจึงไม่กล้ายอมรับพระองค์อย่างเปิดเผย เพื่อจะไม่ถูกขับออกจากธรรมศาลา",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "ἐκ τῶν ἀρχόντων", "thai": "ผู้นำชาวยิว", "rationale": "Per uW figs-explicit: 'rulers' = members of the Sanhedrin. Thai 'ผู้นำชาวยิว' (Jewish leaders) is consistent with corpus locks. Distinct from 'หัวหน้าปุโρหิต' (chief priests) — broader Sanhedrin membership including non-priestly elders." },
+        { "greek": "ἀποσυνάγωγοι", "thai": "ถูกขับออกจากธรรมศาลา", "rationale": "PHRASE-LOCK with JHN 9:22 + 16:2: ἀποσυνάγωγος → ขับออกจากธรรมศาลา. The same threat-formula that motivated the formerly-blind-man's parents in JHN 9:22 here motivates secret-believers among the leadership." }
+      ],
+      "notes": "Per uW: hidden/secret-believer phenomenon at the highest levels. Possible references: Nicodemus (cf. JHN 3, 7:50, 19:39), Joseph of Arimathea (JHN 19:38-42). The synagogue-ban threat is the same one from JHN 9:22 — the Pharisees enforcing social-religious cost on confessing Jesus."
+    }
+  },
+  {
+    "reference": "John 12:43",
+    "chapter": 12,
+    "verse": 43,
+    "greek": "ἠγάπησαν γὰρ τὴν δόξαν τῶν ἀνθρώπων μᾶλλον ἤπερ τὴν δόξαν τοῦ θεοῦ.",
+    "bsb_english": "For they loved praise from men more than praise from God.",
+    "translation": {
+      "thai": "เพราะพวกเขารักเกียรติจากมนุษย์มากกว่าเกียรติจากพระเจ้า",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "ἤπερ", "thai": "มากกว่า", "rationale": "HAPAX: ἤπερ (NT-only-occurrence here). Comparative particle 'rather than / more than.' Thai 'มากกว่า' (more than) is the natural rendering. The hapax marks the heightening of John's pointed condemnation." },
+        { "greek": "τὴν δόξαν τῶν ἀνθρώπων ... τὴν δόξαν τοῦ θεοῦ", "thai": "เกียรติจากมนุษย์ ... เกียρติจากพระเจ้า", "rationale": "Per uW figs-possession: subjective genitive — glory FROM men / FROM God (not OF men/God). Translation 'เกียรติจาก' (honor-from) makes the source-not-recipient sense explicit. δόξα here in the social-honor sense rather than divine-glory sense — Thai 'เกียรติ' (honor/prestige) is right; using 'พระสิริ' would force the divine-glory sense incorrectly." }
+      ],
+      "notes": "HAPAX: ἤπερ. Per uW figs-explicit + figs-possession: damning narrator-judgment on the secret-believer leadership. δόξα here = social-honor-prestige (not divine-glory) — translation uses 'เกียรติ' rather than 'พระสิริ' for the lower social-register sense. Echoes JHN 5:44 ('how can you believe, who receive glory from one another and do not seek the glory from God?')."
+    }
+  },
+  {
+    "reference": "John 12:44",
+    "chapter": 12,
+    "verse": 44,
+    "greek": "Ἰησοῦς δὲ ἔκραξεν καὶ εἶπεν·Ὁ πιστεύων εἰς ἐμὲ οὐ πιστεύει εἰς ἐμὲ ἀλλὰ εἰς τὸν πέμψαντά με,",
+    "bsb_english": "Then Jesus cried out, “Whoever believes in Me does not believe in Me alone, but in the One who sent Me.",
+    "translation": {
+      "thai": "พระเยซูทรงเปล่งพระสุรเสียงว่า “ผู้ที่เชื่อในเรา ไม่ได้เชื่อในเราเท่านั้น แต่เชื่อในผู้ทรงใช้เรามาด้วย",
+      "thai_literal": null,
+      "thai_summary": "ข้อ 44-50 เป็นการสรุปสาธารณะครั้งสุดท้ายของพระเยซูในข่าวประเสริฐยอห์น — ก่อนที่จะเข้าสู่ห้องเลี้ยงพระกระยาหารกับเหล่าสาวก (บทที่ 13) เนื้อหาทั้งหมดทบทวนหลักการของพันธกิจของพระองค์: เอกภาพกับพระบิดา การส่งมาจากพระบิดา ความสว่างเหนือความมืด การพิพากษาในวันสุดท้าย และพระบัญญัติของพระบิดา",
+      "key_decisions": [
+        { "greek": "Ἰησοῦς δὲ ἔκραξεν", "thai": "พระเยซูทรงเปล่งพระสุรเสียง", "rationale": "Per uW figs-explicit + writing-newevent: ἔκραξεν 'cried out (loudly)' — public-loud-proclamation. Thai 'ทรงเปล่งพระสุรเสียง' (royally-uttered the royal-voice) preserves the loud-public force with full royal register. Per uW: this introduces a new event (some time after vv.20-36)." }
+      ],
+      "notes": "Per uW writing-newevent: chronological-shift — vv.44-50 are a separate public-discourse occasion, perhaps before the Passover meal. The verse opens Jesus's last public summary: not 'I-am-X' claims but 'whoever-believes-in-me' summary-of-the-mission."
+    }
+  },
+  {
+    "reference": "John 12:45",
+    "chapter": 12,
+    "verse": 45,
+    "greek": "καὶ ὁ θεωρῶν ἐμὲ θεωρεῖ τὸν πέμψαντά με.",
+    "bsb_english": "And whoever sees Me sees the One who sent Me.",
+    "translation": {
+      "thai": "และผู้ที่เห็นเรา ก็เห็นผู้ทรงใช้เรามา",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "ὁ θεωρῶν ἐμὲ θεωρεῖ τὸν πέμψαντά με", "thai": "ผู้ที่เห็นเรา ก็เห็นผู้ทรงใช้เรามา", "rationale": "PHRASE-LOCK with JHN 14:9 ('whoever has seen me has seen the Father'). Translation preserves the literal-equivalence — seeing-Jesus = seeing-the-Father. Sets up trinitarian-revelatory theology." }
+      ],
+      "notes": "Father-Son visibility-equivalence — the central Johannine claim. Compare JHN 14:9 ('whoever has seen me has seen the Father'). The implicit-claim: Jesus is the visible-Father, the perfect-revelation."
+    }
+  },
+  {
+    "reference": "John 12:46",
+    "chapter": 12,
+    "verse": 46,
+    "greek": "ἐγὼ φῶς εἰς τὸν κόσμον ἐλήλυθα,ἵνα πᾶς ὁ πιστεύων εἰς ἐμὲ ἐν τῇ σκοτίᾳ μὴ μείνῃ.",
+    "bsb_english": "I have come into the world as a light, so that no one who believes in Me should remain in darkness.",
+    "translation": {
+      "thai": "เราเข้ามาในโลกในฐานะความสว่าง เพื่อทุกคนที่เชื่อในเราจะไม่อยู่ในความมืดอีกต่อไป",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "ἐγὼ φῶς εἰς τὸν κόσμον ἐλήλυθα", "thai": "เราเข้ามาในโลกในฐานะความสว่าง", "rationale": "Compressed restatement of the I-am-light claim from JHN 8:12, 9:5, 12:35-36. Note the construction without article (φῶς not τὸ φῶς) — 'as light' qualitative. Thai 'ในฐานะความสว่าง' (as/in-the-position-of light) preserves the qualitative force." }
+      ],
+      "notes": "Compressed light-of-the-world saying. The ἵνα-clause makes the mission's purpose explicit: rescue from darkness via belief."
+    }
+  },
+  {
+    "reference": "John 12:47",
+    "chapter": 12,
+    "verse": 47,
+    "greek": "καὶ ἐάν τίς μου ἀκούσῃ τῶν ῥημάτων καὶ μὴ φυλάξῃ,ἐγὼ οὐ κρίνω αὐτόν,οὐ γὰρ ἦλθον ἵνα κρίνω τὸν κόσμον ἀλλ’ἵνα σώσω τὸν κόσμον.",
+    "bsb_english": "As for the one who hears My words and does not keep them, I do not judge him. For I have not come to judge the world, but to save the world.",
+    "translation": {
+      "thai": "ถ้าผู้ใดได้ยินถ้อยคำของเราและไม่รักษาไว้ เราไม่ได้พิพากษาเขา เพราะเราไม่ได้มาเพื่อจะพิพากษาโลก แต่มาเพื่อจะช่วยโลกให้รอด",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "οὐ κρίνω ... κρίνω", "thai": "ไม่ได้พิพากษา ... พิพากษา", "rationale": "Per uW figs-explicit: κρίνω here = 'condemn' (judicial-condemnation sense, not neutral 'judge'). Translation preserves 'พิพากษา' (judicial-judgment) — Thai readers recognize this in religious contexts as 'condemn.' Echoes JHN 3:17 ('God did not send the Son into the world to condemn the world')." },
+        { "greek": "σώσω τὸν κόσμον", "thai": "ช่วยโลกให้รอด", "rationale": "PHRASE-LOCK with JHN 3:17, 4:42, 1 JN 4:14. σῴζω → ช่วย ... ให้รอด (save). Thai 'ช่วยโลกให้รอด' (save the world) is the standard Johannine soteriological rendering." }
+      ],
+      "notes": "Per uW figs-explicit: κρίνω here = condemn (judicial sense). PHRASE-LOCK with JHN 3:17. The judgment-deferral is not absolute (cf. v.48 — the words themselves judge); rather Jesus's mission-purpose at first-coming is salvific, with judgment as its inverse-side."
+    }
+  },
+  {
+    "reference": "John 12:48",
+    "chapter": 12,
+    "verse": 48,
+    "greek": "ὁ ἀθετῶν ἐμὲ καὶ μὴ λαμβάνων τὰ ῥήματά μου ἔχει τὸν κρίνοντα αὐτόν·ὁ λόγος ὃν ἐλάλησα ἐκεῖνος κρινεῖ αὐτὸν ἐν τῇ ἐσχάτῃ ἡμέρᾳ.",
+    "bsb_english": "There is a judge for the one who rejects Me and does not receive My words: The word that I have spoken will judge him on the last day.",
+    "translation": {
+      "thai": "ผู้ที่ปฏิเสธเราและไม่รับถ้อยคำของเรา ก็มีผู้ที่จะพิพากษาเขา คือถ้อยคำที่เราได้กล่าวนั้น จะเป็นผู้พิพากษาเขาในวันสุดท้าย",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "ὁ λόγος ὃν ἐλάλησα ἐκεῖνος κρινεῖ αὐτὸν", "thai": "ถ้อยคำที่เราได้กล่าวนั้น จะเป็นผู้พิพากษาเขา", "rationale": "Per uW figs-personification: the spoken-word personified as judge. Thai 'ถ้อยคำ ... จะเป็นผู้พิพากษา' (the words ... will be the judge) preserves the personification." },
+        { "greek": "ἐν τῇ ἐσχάτῃ ἡμέρᾳ", "thai": "ในวันสุดท้าย", "rationale": "PHRASE-LOCK: ἐσχάτη ἡμέρα → วันสุดท้าย (eschatological 'last day'; cf. JHN 6:39, 6:40, 6:44, 6:54, 11:24)." }
+      ],
+      "notes": "Per uW figs-personification: Jesus's words function as the eschatological-criterion. Theologically: those rejected the gospel-call do not escape judgment; the very message they refused condemns them at the last day."
+    }
+  },
+  {
+    "reference": "John 12:49",
+    "chapter": 12,
+    "verse": 49,
+    "greek": "ὅτι ἐγὼ ἐξ ἐμαυτοῦ οὐκ ἐλάλησα,ἀλλ’ὁ πέμψας με πατὴρ αὐτός μοι ἐντολὴν δέδωκεν τί εἴπω καὶ τί λαλήσω.",
+    "bsb_english": "I have not spoken on My own, but the Father who sent Me has commanded Me what to say and how to say it.",
+    "translation": {
+      "thai": "เพราะเราไม่ได้พูดด้วยตัวของเราเอง แต่พระบิดาผู้ทรงใช้เรามาทรงบัญชาเราว่าจะพูดอะไร และจะกล่าวอย่างไร",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "τί εἴπω καὶ τί λαλήσω", "thai": "จะพูดอะไร และจะกล่าวอย่างไร", "rationale": "Per uW figs-doublet: εἴπω + λαλήσω — possibly synonymous-doublet OR content-vs-manner distinction. Translation chooses the manner-distinction reading: 'พูดอะไร' (what to say) + 'กล่าวอย่างไร' (how to say). This matches uW alternative reading (1) — content + manner together." }
+      ],
+      "notes": "Per uW figs-doublet: doublet for emphasis OR distinction (content + manner). Translation goes with the latter reading — slight nuance preserved. The Father-Son speech-mediation is foundational: Jesus's words ARE the Father's words."
+    }
+  },
+  {
+    "reference": "John 12:50",
+    "chapter": 12,
+    "verse": 50,
+    "greek": "καὶ οἶδα ὅτι ἡ ἐντολὴ αὐτοῦ ζωὴ αἰώνιός ἐστιν.ἃ οὖν ἐγὼ λαλῶ,καθὼς εἴρηκέν μοι ὁ πατήρ,οὕτως λαλῶ.",
+    "bsb_english": "And I know that His command leads to eternal life. So I speak exactly what the Father has told Me to say.”",
+    "translation": {
+      "thai": "และเรารู้ว่าพระบัญชาของพระองค์คือชีวิตนิรันดร์ เราจึงพูดสิ่งใด ก็พูดตามที่พระบิดาตรัสกับเรา”",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "ἡ ἐντολὴ αὐτοῦ ζωὴ αἰώνιός ἐστιν", "thai": "พระบัญชาของพระองค์คือชีวิตนิรันดร์", "rationale": "Per uW figs-explicit: 'his command IS eternal life' = 'his command gives/leads-to eternal life.' Translation preserves the literal equation 'คือ' (is) — Thai readers can hear the gives/produces sense; flattening to 'นำไปสู่' (leads-to) would over-translate." },
+        { "greek": "καθὼς εἴρηκέν μοι ὁ πατήρ", "thai": "ตามที่พระบิดาตรัสกับเรา", "rationale": "Closing summary: Father-mediated speech. Royal ตรัส (divine speech-act). Thai 'ตามที่ ... ตรัส' (according-to what ... has said) preserves the speech-from-Father pattern." }
+      ],
+      "notes": "Closes Jesus's last public-discourse summary (and effectively his public ministry). The Father-as-source-of-speech motif (vv.49-50) ties back to JHN 1:1 (the Word as eternal-Logos). From this point forward in John, Jesus speaks only privately to disciples (chapters 13-17)."
+    }
+  }
+]
