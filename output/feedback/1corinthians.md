@@ -1,6 +1,6 @@
 # 1 โครินธ์
 
-_1 Corinthians — 7 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
+_1 Corinthians — 8 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
 
 _This **feedback edition** is the plain Thai translation with a `>` placeholder block under each verse for reviewer comments. **See the instructions immediately below before reading.** For the annotated edition (with contextual summaries), see `output/reader/1corinthians.md`; for the verses-only edition (no comment blocks), see `output/plain/1corinthians.md`._
 
@@ -712,6 +712,62 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 ---
 
+## บทที่ 8
+
+**1** บัดนี้เรื่องของอาหารที่ถวายแก่รูปเคารพ — เรารู้ว่า “เราทุกคนล้วนมีความรู้” แต่ความรู้ทำให้ลำพอง ส่วนความรักนั้นสร้างกันขึ้น
+
+> ___
+
+**2** ถ้าผู้ใดคิดว่าตนรู้สิ่งใดสิ่งหนึ่งแล้ว ผู้นั้นยังไม่รู้อย่างที่ควรจะรู้
+
+> ___
+
+**3** แต่ถ้าผู้ใดรักพระเจ้า ผู้นั้นก็ได้รับการทรงรู้จักจากพระเจ้า
+
+> ___
+
+**4** ดังนั้นเรื่องการกินอาหารที่ถวายแก่รูปเคารพ — เรารู้ว่า “รูปเคารพไม่ใช่อะไรเลยในโลกนี้” และว่า “ไม่มีพระเจ้าอื่นใดเลย นอกจากพระเจ้าองค์เดียว”
+
+> ___
+
+**5** เพราะแม้ว่าจะมีสิ่งที่เรียกกันว่าพระเจ้า ไม่ว่าจะอยู่ในฟ้าสวรรค์หรือบนแผ่นดินโลก (ดังที่มีเทพเจ้ามากมายและเจ้าทั้งหลายมากมาย)
+
+> ___
+
+**6** แต่สำหรับเรา มีพระเจ้าองค์เดียว คือพระบิดา ผู้ทรงเป็นที่มาของทุกสิ่ง และเราดำรงอยู่เพื่อพระองค์ และมีองค์พระผู้เป็นเจ้าองค์เดียว คือพระเยซูคริสต์ ผู้ที่ทุกสิ่งดำรงอยู่โดยทาง และเราดำรงอยู่โดยทางพระองค์
+
+> ___
+
+**7** แต่ไม่ใช่ทุกคนที่มีความรู้นี้ บางคนเนื่องจากความคุ้นเคยกับรูปเคารพมาจนถึงปัจจุบัน ก็กินอาหารนั้นในฐานะที่เป็นของถวายแก่รูปเคารพ และมโนธรรมของพวกเขาที่อ่อนแอก็เป็นมลทินไป
+
+> ___
+
+**8** อาหารไม่ได้นำเราเข้าใกล้พระเจ้า ถ้าเรากิน เราก็ไม่ได้ดีขึ้น และถ้าเราไม่กิน เราก็ไม่ได้แย่ลง
+
+> ___
+
+**9** แต่จงระวังให้ดี อย่าให้สิทธิของพวกท่านนี้กลายเป็นเหตุสะดุดสำหรับผู้ที่อ่อนแอ
+
+> ___
+
+**10** เพราะถ้าผู้ใดเห็นท่านที่มีความรู้กำลังนั่งรับประทานในวิหารของรูปเคารพ มโนธรรมของผู้ที่อ่อนแอนั้นจะไม่ถูกชักจูงให้กล้ากินอาหารที่ถวายแก่รูปเคารพหรือ?
+
+> ___
+
+**11** เพราะผู้ที่อ่อนแอ คือพี่น้องที่พระคริสต์ได้สิ้นพระชนม์เพื่อเขา ก็พินาศไปเพราะความรู้ของท่าน
+
+> ___
+
+**12** เมื่อพวกท่านทำบาปต่อพี่น้องเช่นนี้ และทำร้ายมโนธรรมที่อ่อนแอของพวกเขา ก็เท่ากับพวกท่านทำบาปต่อพระคริสต์
+
+> ___
+
+**13** ดังนั้น ถ้าอาหารทำให้พี่น้องของข้าพเจ้าสะดุด ข้าพเจ้าจะไม่กินเนื้อสัตว์อีกตลอดไป เพื่อข้าพเจ้าจะไม่ทำให้พี่น้องของข้าพเจ้าสะดุด
+
+> ___
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -725,4 +781,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/1corinthians_05.json` | `ad3a9c33a2b75b6ce694c824542ee985de70b3c11c511a55d18d414d6b1e25f3` |
 | `output/translations/1corinthians_06.json` | `99110afdd6229e47f5ac26188551852d4db158c07382dab619ee9a4833d85a24` |
 | `output/translations/1corinthians_07.json` | `a18184144cf306a2513a9615e492c70faf8cc6a3871d4dc79eee730d3b80ca2c` |
+| `output/translations/1corinthians_08.json` | `815df54bc66f78e92fb31021830cc9ae82929d6e06046ae72ce1e62002ef9067` |
 
