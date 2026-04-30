@@ -1,6 +1,6 @@
 # 1 โครินธ์
 
-_1 Corinthians — 12 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
+_1 Corinthians — 13 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
 
 _This **feedback edition** is the plain Thai translation with a `>` placeholder block under each verse for reviewer comments. **See the instructions immediately below before reading.** For the annotated edition (with contextual summaries), see `output/reader/1corinthians.md`; for the verses-only edition (no comment blocks), see `output/plain/1corinthians.md`._
 
@@ -1284,6 +1284,62 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 ---
 
+## บทที่ 13
+
+**1** ถ้าข้าพเจ้าพูดภาษาของมนุษย์และของทูตสวรรค์ได้ แต่ไม่มีความรัก ข้าพเจ้าก็เป็นเหมือนฆ้องที่ส่งเสียงดัง หรือฉาบที่ส่งเสียงกึกก้อง
+
+> ___
+
+**2** และถ้าข้าพเจ้ามีของประทานในการพยากรณ์ และเข้าใจความล้ำลึกทุกอย่างและความรู้ทุกอย่าง และถ้าข้าพเจ้ามีความเชื่ออย่างเต็มเปี่ยมจนเคลื่อนภูเขาได้ แต่ไม่มีความรัก ข้าพเจ้าก็เป็นเพียงสิ่งที่ไม่มีค่าเลย
+
+> ___
+
+**3** และถ้าข้าพเจ้าให้ของทั้งหมดของข้าพเจ้าเลี้ยงดูคนยากจน และถ้าข้าพเจ้ามอบกายของข้าพเจ้าเพื่อจะถูกเผา แต่ไม่มีความรัก ข้าพเจ้าก็ไม่ได้รับประโยชน์อะไรเลย
+
+> ___
+
+**4** ความรักนั้นอดทนนาน ความรักประพฤติด้วยใจเอื้อเฟื้อ ความรักไม่อิจฉา ไม่อวด ไม่ลำพอง
+
+> ___
+
+**5** ไม่ทำสิ่งที่ไม่เหมาะสม ไม่แสวงหาประโยชน์ของตนเอง ไม่ถูกยั่วให้โกรธโดยง่าย ไม่จดจำความผิดของผู้อื่น
+
+> ___
+
+**6** ไม่ยินดีในความอธรรม แต่ชื่นชมยินดีในความจริง
+
+> ___
+
+**7** ปกป้องทุกสิ่ง เชื่อทุกสิ่ง หวังทุกสิ่ง อดทนต่อทุกสิ่ง
+
+> ___
+
+**8** ความรักไม่มีวันล้มเหลว แต่ถ้าเป็นการพยากรณ์ ก็จะสิ้นสุดลง ถ้าเป็นภาษาต่างๆ ก็จะหยุดลง ถ้าเป็นความรู้ ก็จะถูกทำให้สิ้นสภาพ
+
+> ___
+
+**9** เพราะเรารู้แต่เพียงเป็นบางส่วน และเราพยากรณ์แต่เพียงเป็นบางส่วน
+
+> ___
+
+**10** แต่เมื่อสิ่งที่สมบูรณ์มาถึง สิ่งที่เป็นเพียงบางส่วนก็จะถูกทำให้สิ้นสภาพ
+
+> ___
+
+**11** เมื่อข้าพเจ้ายังเป็นเด็ก ข้าพเจ้าก็พูดอย่างเด็ก คิดอย่างเด็ก ใช้เหตุผลอย่างเด็ก เมื่อข้าพเจ้าเป็นผู้ใหญ่แล้ว ข้าพเจ้าก็ละทิ้งสิ่งที่เป็นของเด็ก
+
+> ___
+
+**12** เพราะบัดนี้เรามองเห็นเหมือนภาพมัวๆ ในกระจก แต่ในเวลานั้นเราจะเห็นต่อหน้ากันจริงๆ บัดนี้ข้าพเจ้ารู้แต่เพียงเป็นบางส่วน แต่ในเวลานั้นข้าพเจ้าจะรู้อย่างสมบูรณ์ เหมือนที่ข้าพเจ้าก็ได้รับการรู้จักด้วยเช่นกัน
+
+> ___
+
+**13** บัดนี้ ความเชื่อ ความหวัง และความรัก สามสิ่งนี้ยังคงอยู่ แต่ในบรรดาสามสิ่งนี้ ความรักเป็นสิ่งที่ยิ่งใหญ่ที่สุด
+
+> ___
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -1302,4 +1358,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/1corinthians_10.json` | `dcf3c08e0e124449388cb0f93ebd135349f366f1f9153ec40cfaad2fb2443da6` |
 | `output/translations/1corinthians_11.json` | `14a09f51ad1a77051da207babc580a347cf2eda4247295ba19d7bf36fb45a487` |
 | `output/translations/1corinthians_12.json` | `95bf5fd6626e97fa31d8f3180c4f6294c1bd3f81742ebd863e2b56c59012d3d5` |
+| `output/translations/1corinthians_13.json` | `66c21bd57cb79fc964478ccf1f6f0c5a382777f96e49be32fb50666a66bbb27e` |
 
