@@ -17,11 +17,34 @@ This checklist is informational. Nothing in the codebase enforces running it —
 
 ## 2. Editorial review (the substantive part)
 
-Spawn a fresh Claude session with this prompt template:
+### Automated audit launch (preferred path — added 2026-04-30)
+
+`scripts/detect_book_complete.py` runs at the end of every chapter ship. When
+the just-shipped chapter is the last chapter of a NT book it writes
+`output/.book_complete_audit_prompt.md` — a self-contained audit prompt sized
+for a fresh Claude session. To kick off the §2 + §3 work:
+
+```
+bash scripts/run_end_of_book_audit.sh <BOOK_CODE>
+# or pipe manually:
+claude < output/.book_complete_audit_prompt.md
+# or for routine / unattended:
+bash scripts/run_end_of_book_audit.sh <BOOK_CODE> --print
+```
+
+The auto-prompt embeds: working-dir conventions, mechanical-gate commands,
+expected output paths and shapes, status-code legend (LOCKED/STABLE/REVIEW/
+DECIDE), branch + PR conventions, and the read-only constraints from
+`feedback_translation_instructions_readonly.md`. When the agent finishes,
+it opens a PR on a `end-of-book-review-{slug}-audit` branch.
+
+### Manual fallback prompt template
+
+If the auto-prompt was lost or you want to spawn the audit by hand:
 
 > Eremos translation: end-of-book review for **{BOOK}**. Read all **{N}** translations + `glossary.json`. Identify cross-cutting editorial decisions worth deliberate revisit — e.g., ἐκκλησία → คริสตจักร vs. ที่ประชุม, βασιλεία → อาณาจักร, talent units, honorific patterns for non-divine figures (kings, masters, etc.), translation of culturally-loaded terms (γέεννα, σάρξ, παρουσία). For each cross-cutting choice: is the rationale documented at verse-level (key_decisions/notes) or in `docs/translator_decisions/`, or did it drift into convention? Surface findings for Ben's decision. Do NOT change any translations — assess only.
 
-The output is a `docs/end_of_book/{book}/{BOOK}_END_OF_BOOK_REVIEW_{YYYY-MM-DD}.md` audit doc following the structure of the existing per-book audits under `docs/end_of_book/` (matthew, mark, luke, acts).
+The output is a `docs/end_of_book/{book}/{BOOK}_END_OF_BOOK_REVIEW_{YYYY-MM-DD}.md` audit doc following the structure of the existing per-book audits under `docs/end_of_book/` (matthew, mark, luke, acts, john, galatians, 1thessalonians).
 
 For each editorial decision flagged in the audit:
 - **Rationale already documented at verse-level** → keep as-is, no action needed

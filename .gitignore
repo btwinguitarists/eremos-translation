@@ -46,3 +46,8 @@ output/back_translations/*_PROMPT.md
 
 # Loop output
 logs/
+
+# Runtime markers written by detect_book_complete.py (consumed by ship loop +
+# scripts/run_end_of_book_audit.sh; regenerated each ship; not source-of-truth)
+output/.book_complete_signal
+output/.book_complete_audit_prompt.md
