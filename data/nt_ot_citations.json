@@ -2,6 +2,18 @@
   "_note": "Major NT→OT citations and allusions with source identification. Curated. Expand as chapters are added. Format: { 'MRK 1:2': { 'type': 'citation'|'allusion', 'source': 'MAL 3:1', 'greek_matches': 'LXX'|'MT'|'paraphrase', 'notes': '...' }}",
   "_source": "NA28 marginal references + scholarly consensus (Beale & Carson NT Use of the OT, UBS GNT apparatus).",
   "citations": {
+    "1TH 5:3": {
+      "type": "allusion",
+      "source": "JER 6:14, 8:11; EZK 13:10",
+      "greek_matches": "paraphrase",
+      "notes": "Echo of OT prophetic critique of false prophets who proclaim ‘peace, peace’ (LXX Jer 6:14, 8:11 ‘εἰρήνη εἰρήνη, καὶ ποῦ ἐστιν εἰρήνη’; Ezek 13:10 ‘λέγοντες· εἰρήνη, καὶ οὐκ ἦν εἰρήνη’). Paul applies the prophetic indictment to those who trust the imperial Pax-et-Securitas slogan rather than Christ. Composite allusion; no single direct quotation."
+    },
+    "1TH 5:8": {
+      "type": "allusion",
+      "source": "ISA 59:17",
+      "greek_matches": "LXX",
+      "notes": "Lexical echo of LXX Isa 59:17 (καὶ ἐνεδύσατο δικαιοσύνην ὡς θώρακα καὶ περικεφαλαίαν σωτηρίου): θώρακα + περικεφαλαίαν + σωτηρ-stem all preserved. Paul substitutes faith/love for righteousness, hope-of-salvation for helmet-of-salvation, and casts the believer (rather than YHWH) as the one armoring up. Cf. Eph 6:14-17 for Paul's expanded armor metaphor."
+    },
     "1TI 2:13": {
       "type": "allusion",
       "source": "GEN 2:7, 21-22",
