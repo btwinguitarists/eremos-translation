@@ -1,6 +1,6 @@
 # 1 เธสะโลนิกา
 
-_1 Thessalonians — 2 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
+_1 Thessalonians — 3 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
 
 _This **plain edition** shows only the Thai translation — no commentary, no Greek, no English. Intended for Thai scholars and theological reviewers evaluating the translation on its own terms. For the annotated edition with contextual summaries (บริบท), see `output/reader/1thessalonians.md`. For the underlying Greek, English (BSB) reference, and translator decisions per verse, see the per-chapter review reports at `output/check_reports/1thessalonians_NN_review.md` or the source JSON at `output/translations/`._
 
@@ -74,6 +74,36 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 ---
 
+## บทที่ 3
+
+**1** เพราะฉะนั้นเมื่อเราทนต่อไปไม่ไหวอีก เราจึงตัดสินใจยอมที่จะถูกทิ้งให้อยู่ที่กรุงเอเธนส์เพียงลำพัง
+
+**2** และเราได้ส่งทิโมธี พี่น้องของพวกเรา และผู้ร่วมงานของพระเจ้าในข่าวประเสริฐของพระคริสต์ ไปเพื่อเสริมกำลังและหนุนใจพวกท่านในเรื่องความเชื่อของพวกท่าน
+
+**3** เพื่อจะไม่มีผู้ใดหวั่นไหวเพราะการทุกข์ลำบากเหล่านี้ เพราะพวกท่านเองทราบดีว่าเราถูกกำหนดไว้สำหรับเรื่องนี้
+
+**4** เพราะแม้ตอนที่เรายังอยู่กับพวกท่าน เราก็ได้บอกพวกท่านล่วงหน้าว่าเราจะต้องเผชิญการทุกข์ลำบาก ซึ่งก็ได้เกิดขึ้นจริงดังที่พวกท่านทราบดี
+
+**5** เพราะเหตุนี้เมื่อข้าพเจ้าเองทนต่อไปไม่ไหวอีก จึงได้ส่ง [ทิโมธี] ไปเพื่อจะได้ทราบเรื่องความเชื่อของพวกท่าน เกรงว่าผู้ทดลองอาจได้ทดลองพวกท่าน และการตรากตรำของพวกเราจะกลายเป็นสิ่งสูญเปล่า
+
+**6** แต่บัดนี้ทิโมธีเพิ่งกลับมาหาเราจากพวกท่าน และนำข่าวดีมาบอกเราเรื่องความเชื่อและความรักของพวกท่าน และว่าท่านยังคงระลึกถึงเราในทางดีเสมอ และโหยหาที่จะได้พบเรา เช่นเดียวกับที่เราโหยหาที่จะได้พบพวกท่าน
+
+**7** พี่น้องทั้งหลาย เพราะเหตุนี้พวกเราจึงได้รับการปลอบโยนเกี่ยวกับพวกท่าน ท่ามกลางความขัดสนและความทุกข์ลำบากทั้งสิ้นของเรา เพราะความเชื่อของพวกท่าน
+
+**8** เพราะบัดนี้เราจึงมีชีวิตอยู่ได้ ตราบใดที่พวกท่านยืนหยัดมั่นคงอยู่ในองค์พระผู้เป็นเจ้า
+
+**9** เพราะการขอบพระคุณอันใดเล่าที่เราจะถวายตอบแทนแด่พระเจ้าได้ เกี่ยวกับพวกท่านและสำหรับความยินดีทั้งสิ้นที่เรามีต่อพระพักตร์พระเจ้าของเราเพราะพวกท่าน
+
+**10** ทั้งกลางคืนและกลางวันเราอธิษฐานอย่างจริงจังที่สุด เพื่อจะได้พบหน้าพวกท่าน และจะได้ช่วยเสริมสิ่งที่ยังขาดอยู่ในความเชื่อของพวกท่าน
+
+**11** ขอพระเจ้าและพระบิดาของเราเอง และพระเยซูองค์พระผู้เป็นเจ้าของเรา ทรงนำทางของเราตรงไปยังพวกท่าน
+
+**12** ขอองค์พระผู้เป็นเจ้าทรงทำให้พวกท่านเจริญขึ้นและล้นเหลือด้วยความรักต่อกันและกัน และต่อคนทั้งปวง เช่นเดียวกับที่เรามีต่อพวกท่าน
+
+**13** เพื่อพระองค์จะทรงเสริมกำลังจิตใจของพวกท่านให้ไม่มีตำหนิในความบริสุทธิ์ ต่อพระพักตร์พระเจ้าและพระบิดาของเรา ในการเสด็จมาของพระเยซูองค์พระผู้เป็นเจ้าของเรา พร้อมกับวิสุทธิชนทุกคนของพระองค์
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -82,4 +112,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 |---|---|
 | `output/translations/1thessalonians_01.json` | `fdc756d6679cb22854a22c4d222c372bfcc5c37c81ce7855e059b8b2e389675e` |
 | `output/translations/1thessalonians_02.json` | `1c39af3e0fd06a32906b8256dc93b5fdcc8e3038e39c1b2a388ea3ca11b593d2` |
+| `output/translations/1thessalonians_03.json` | `146c909d79330914cf346e125c70616a69070674e6428b291932917c3e7ef0b5` |
 
