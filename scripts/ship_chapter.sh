@@ -82,6 +82,68 @@ CHAPTER_PADDED=$(printf "%02d" "$CHAPTER")
 BRANCH="feat/eremos-translation-${SLUG}-${CHAPTER}"
 PR_TITLE="feat: Eremos Translation — ${BOOK_CODE} ${CHAPTER}"
 
+# Per-ship-pipeline SHA tracking, used by assert_chapter_commits_on_origin_main
+# to verify both repos' chapter commits actually reached origin/main. Empty
+# when the ship is a no-op (e.g., bundle unchanged) or when commits are
+# skipped — the assertion treats empty as "nothing to verify".
+TBA_SOURCE_SHA=""        # thai-bible-ai source-artifact commit SHA
+EREMOS_CHAPTER_SHA=""    # EremosVercel2 chapter-bundle commit SHA (PR-merged)
+EREMOS_BUMP_SHA=""       # EremosVercel2 iOS-bump commit SHA (direct-to-main)
+
+# Final pipeline assertion — added 2026-04-30 after the GAL+1TH incident
+# where 20 chapter source commits silently piled up on a feature branch
+# instead of landing on main per-chapter (PRs #60/#61 had to batch-merge
+# them). Runs before any "ship complete" message so we fail loud rather
+# than declaring success and continuing the loop on stale state.
+assert_chapter_commits_on_origin_main() {
+    local failed=0
+    echo
+    echo "[assert] Chapter commits on origin/main..."
+
+    # Refresh remote refs to be sure origin/main is current.
+    git -C "$THAI_BIBLE_AI" fetch origin main --quiet 2>/dev/null || true
+    git -C "$EREMOS_REPO" fetch origin main --quiet 2>/dev/null || true
+
+    if [ -n "$TBA_SOURCE_SHA" ]; then
+        if git -C "$THAI_BIBLE_AI" merge-base --is-ancestor "$TBA_SOURCE_SHA" origin/main 2>/dev/null; then
+            echo "    ✓ thai-bible-ai source ${TBA_SOURCE_SHA:0:7} on origin/main"
+        else
+            echo "    ✗ thai-bible-ai source ${TBA_SOURCE_SHA:0:7} NOT on origin/main"
+            echo "       origin/main: $(git -C "$THAI_BIBLE_AI" rev-parse origin/main 2>/dev/null)"
+            echo "       branch:      $(git -C "$THAI_BIBLE_AI" branch --show-current 2>/dev/null)"
+            failed=1
+        fi
+    fi
+
+    if [ -n "$EREMOS_CHAPTER_SHA" ]; then
+        if git -C "$EREMOS_REPO" merge-base --is-ancestor "$EREMOS_CHAPTER_SHA" origin/main 2>/dev/null; then
+            echo "    ✓ EremosVercel2 chapter ${EREMOS_CHAPTER_SHA:0:7} reachable from origin/main"
+        else
+            echo "    ✗ EremosVercel2 chapter ${EREMOS_CHAPTER_SHA:0:7} NOT reachable from origin/main"
+            echo "       origin/main: $(git -C "$EREMOS_REPO" rev-parse origin/main 2>/dev/null)"
+            failed=1
+        fi
+    fi
+
+    if [ -n "$EREMOS_BUMP_SHA" ]; then
+        if git -C "$EREMOS_REPO" merge-base --is-ancestor "$EREMOS_BUMP_SHA" origin/main 2>/dev/null; then
+            echo "    ✓ EremosVercel2 iOS bump ${EREMOS_BUMP_SHA:0:7} on origin/main"
+        else
+            echo "    ✗ EremosVercel2 iOS bump ${EREMOS_BUMP_SHA:0:7} NOT on origin/main"
+            failed=1
+        fi
+    fi
+
+    if [ $failed -ne 0 ]; then
+        echo
+        echo "✗✗✗ Chapter shipped but not on origin/main — investigate."
+        echo "     PR #60/#61 incident pattern (2026-04-30): silent push to wrong branch."
+        echo "     Likely causes: (a) wrong-branch checkout, (b) push rejected,"
+        echo "     (c) merge skipped/squashed differently than expected."
+        exit 1
+    fi
+}
+
 echo "=== Ship pipeline: ${BOOK_CODE} ${CHAPTER} (slug=${SLUG}) ==="
 echo
 
@@ -115,6 +177,27 @@ if [ -d "$THAI_BIBLE_AI/output" ]; then
         echo "         Review with: (cd $THAI_BIBLE_AI && git status --short output/)"
     fi
 fi
+
+# Pre-flight: thai-bible-ai MUST be on main before we commit source artifacts.
+# Added 2026-04-30 after the GAL+1TH incident: a prior Claude session left
+# the repo on `end-of-book-review-galatians`, ship_chapter.sh dutifully
+# committed source to that branch (no pre-check), and 20 accumulated commits
+# had to be batch-merged via PRs #60/#61 instead of landing per-chapter on
+# main. Hard-gate prevents recurrence.
+echo "[gate] Verifying thai-bible-ai is on main..."
+TBA_BRANCH=$(git -C "$THAI_BIBLE_AI" branch --show-current 2>/dev/null || echo "")
+if [ "$TBA_BRANCH" != "main" ]; then
+    echo
+    echo "✗ SHIP BLOCKED — thai-bible-ai is on '$TBA_BRANCH', not main."
+    echo "  Source commits would land on the wrong branch (PR #60/#61 incident, 2026-04-30)."
+    echo "  Fix:"
+    echo "    cd $THAI_BIBLE_AI && git status   # confirm tree is clean"
+    echo "    git checkout main && git pull"
+    echo "  Then re-run this script."
+    exit 1
+fi
+git -C "$THAI_BIBLE_AI" pull origin main 2>&1 | tail -1
+echo "    ✓ thai-bible-ai on main, synced."
 echo
 
 # --- 1. Pull latest main ---
@@ -164,13 +247,37 @@ python3 "$THAI_BIBLE_AI/scripts/render_reader.py" --book "$BOOK_CODE" 2>&1 | tai
     git add output/check_reports/parallel_passages.md 2>/dev/null || true
 
     if ! git diff --cached --quiet 2>/dev/null; then
-        git commit -q -m "feat(${BOOK_CODE} ${CHAPTER}): source + checks + reader doc + bundle hashes" 2>&1 | tail -2 || true
-        git push 2>&1 | tail -1 || true
+        # Hard-fail on commit/push errors (was `|| true` pre-2026-04-30 — that
+        # masked the GAL/1TH wrong-branch bug). The pre-flight gate above
+        # ensures we're on main, so a commit-or-push failure now is real.
+        if ! git commit -q -m "feat(${BOOK_CODE} ${CHAPTER}): source + checks + reader doc + bundle hashes"; then
+            echo "✗ thai-bible-ai source commit failed for ${BOOK_CODE} ${CHAPTER}" >&2
+            exit 1
+        fi
+        # Save the new SHA for the post-ship assertion
+        git rev-parse HEAD > /tmp/ship_${SLUG}_${CHAPTER_PADDED}_tba_sha
+        PUSH_OUT=$(git push origin main 2>&1)
+        PUSH_EXIT=$?
+        echo "$PUSH_OUT" | tail -1
+        if [ $PUSH_EXIT -ne 0 ]; then
+            echo "✗ thai-bible-ai push to origin/main failed (exit $PUSH_EXIT):" >&2
+            echo "$PUSH_OUT" >&2
+            exit 1
+        fi
     fi
-)
+) || exit 1
+
+# Pull the SHA back from the temp file (subshell var doesn't propagate)
+if [ -f "/tmp/ship_${SLUG}_${CHAPTER_PADDED}_tba_sha" ]; then
+    TBA_SOURCE_SHA=$(cat "/tmp/ship_${SLUG}_${CHAPTER_PADDED}_tba_sha")
+    rm -f "/tmp/ship_${SLUG}_${CHAPTER_PADDED}_tba_sha"
+fi
 
 # Check if bundle changed
 if git diff --quiet server/data/eremos_translation.json; then
+    # Source-only ship (e.g., re-run after a bundle no-op); still verify the
+    # thai-bible-ai source commit reached origin/main.
+    assert_chapter_commits_on_origin_main
     echo
     echo "✓ Bundle has no changes — nothing to ship. Exiting."
     exit 0
@@ -185,7 +292,18 @@ git commit -q -m "feat: add ${BOOK_CODE} ${CHAPTER} to Eremos Translation bundle
 Auto-shipped by ship_chapter.sh after translation + checks passed.
 
 Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>"
-git push -u origin "$BRANCH" 2>&1 | tail -1
+
+# Save chapter-bundle SHA for the post-ship origin/main assertion
+EREMOS_CHAPTER_SHA=$(git rev-parse HEAD)
+
+PUSH_OUT=$(git push -u origin "$BRANCH" 2>&1)
+PUSH_EXIT=$?
+echo "$PUSH_OUT" | tail -1
+if [ $PUSH_EXIT -ne 0 ]; then
+    echo "✗ EremosVercel2 branch push failed (exit $PUSH_EXIT):"
+    echo "$PUSH_OUT"
+    exit 1
+fi
 
 PR_BODY="Adds ${BOOK_CODE} chapter ${CHAPTER} to the Eremos Translation bundle.
 
@@ -193,10 +311,21 @@ Translated and checked via the thai-bible-ai pipeline (RULES.md compliance: key-
 
 Auto-shipped via \`ship_chapter.sh\`."
 
-PR_URL=$(gh pr create --title "$PR_TITLE" --body "$PR_BODY" --base main --head "$BRANCH" 2>&1 | tail -1)
+PR_CREATE_OUT=$(gh pr create --title "$PR_TITLE" --body "$PR_BODY" --base main --head "$BRANCH" 2>&1)
+PR_CREATE_EXIT=$?
+PR_URL=$(echo "$PR_CREATE_OUT" | tail -1)
 echo "    PR: $PR_URL"
+if [ $PR_CREATE_EXIT -ne 0 ]; then
+    echo "✗ gh pr create failed (exit $PR_CREATE_EXIT):"
+    echo "$PR_CREATE_OUT"
+    exit 1
+fi
 
 if [ $SKIP_MERGE -eq 1 ]; then
+    # PR is open but not merged; chapter commit lives on $BRANCH only. Still
+    # assert that the thai-bible-ai source push reached origin/main.
+    EREMOS_CHAPTER_SHA=""  # unset — chapter commit is not on main yet
+    assert_chapter_commits_on_origin_main
     echo "    --skip-merge set; PR open for manual review."
     echo
     echo "Stopped before TestFlight (--skip-merge implies --skip-testflight)."
@@ -205,13 +334,23 @@ fi
 
 echo "[4/7] Auto-merge PR..."
 sleep 3
-gh pr merge "$BRANCH" --merge --delete-branch 2>&1 | tail -2
+PR_MERGE_OUT=$(gh pr merge "$BRANCH" --merge --delete-branch 2>&1)
+PR_MERGE_EXIT=$?
+echo "$PR_MERGE_OUT" | tail -2
+if [ $PR_MERGE_EXIT -ne 0 ]; then
+    echo "✗ gh pr merge failed (exit $PR_MERGE_EXIT) — PR remains open."
+    echo "$PR_MERGE_OUT"
+    echo "  Common causes: required-status-check pending, merge conflict,"
+    echo "  branch protection blocking auto-merge."
+    exit 1
+fi
 
 # Sync local main
 git checkout main >/dev/null 2>&1
 git pull origin main 2>&1 | tail -1
 
 if [ $SKIP_TESTFLIGHT -eq 1 ]; then
+    assert_chapter_commits_on_origin_main
     echo
     echo "✓ Vercel ship complete (${PR_URL}). --skip-testflight set; iOS build skipped."
     exit 0
@@ -261,7 +400,18 @@ git commit -q -m "chore: bump iOS build to ${NEW_VERSION}
 Eremos Translation chapter ${BOOK_CODE} ${CHAPTER} added in PR ${PR_URL}.
 
 Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>"
-git push origin main 2>&1 | tail -1
+EREMOS_BUMP_SHA=$(git rev-parse HEAD)
+
+PUSH_OUT=$(git push origin main 2>&1)
+PUSH_EXIT=$?
+echo "$PUSH_OUT" | tail -1
+if [ $PUSH_EXIT -ne 0 ]; then
+    echo "✗ EremosVercel2 iOS-bump push failed (exit $PUSH_EXIT):"
+    echo "$PUSH_OUT"
+    exit 1
+fi
+
+assert_chapter_commits_on_origin_main
 
 echo
 echo "=== Ship complete ==="
