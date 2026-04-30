@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-04-30 06:08:03 UTC_
-_Total chapters: 124 · Total verses: 4935_
+_Generated: 2026-04-30 06:24:36 UTC_
+_Total chapters: 125 · Total verses: 4945_
 
 ## How to verify a chapter
 
@@ -19,6 +19,7 @@ shasum -a 256 output/translations/mark_06.json
 
 | File | Verses | SHA-256 | Last commit |
 |------|--------|---------|-------------|
+| `output/translations/1thessalonians_01.json` | 10 | `fdc756d6679cb22854a22c4d222c372bfcc5c37c81ce7855e059b8b2e389675e` | `—` |
 | `output/translations/1timothy_03.json` | 16 | `53c0e7becdd329cd61c2322e3fe86ddba55536b4f09f04edeb0bcde83568973b` | `6d15bb1` |
 | `output/translations/acts_01.json` | 26 | `cc3574d90c4b6f71f2a97f982172d02369ddd0697eaa00d9c567c986e4bd99a0` | `6d15bb1` |
 | `output/translations/acts_02.json` | 47 | `485a725007196c655728072e5c85870a24b27507f6cf498c4c7e7a5e5c14398c` | `6d15bb1` |
@@ -53,7 +54,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/galatians_03.json` | 29 | `f801401758fdf4a581484ea509024725a3a4242acb42624cac27a998b6894fa4` | `fcff53c` |
 | `output/translations/galatians_04.json` | 31 | `f753b984c0762e951c870ceda85b392f7da899250a8536b5fe9c8a8783ba6d06` | `21e2a9f` |
 | `output/translations/galatians_05.json` | 26 | `8c554130d8819be2bff95cf6657734f4da7ec53e27845623688ad63407121424` | `3881232` |
-| `output/translations/galatians_06.json` | 18 | `6b1196188415fcfeb00baf3fd3ac4b622583f39c874fc47c056b72ac7c584e91` | `—` |
+| `output/translations/galatians_06.json` | 18 | `6b1196188415fcfeb00baf3fd3ac4b622583f39c874fc47c056b72ac7c584e91` | `ad0138c` |
 | `output/translations/john_01.json` | 51 | `7f15dbc113251a1965b754979fbb170c43be250e96f26efe0f2f6fecd4e95d34` | `6d15bb1` |
 | `output/translations/john_02.json` | 25 | `17d2cbdb34d12e45434c7d927d17a2bf26d97dcbbd9f23081f054ad9c1abee8f` | `6d15bb1` |
 | `output/translations/john_03.json` | 36 | `7f6c67669e93cbbb2a2df3a1df23d33c50ffc109a98ccc3097bd55594c07cf4c` | `6d15bb1` |
