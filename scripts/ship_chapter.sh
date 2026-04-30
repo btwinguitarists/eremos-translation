@@ -269,3 +269,19 @@ echo "  PR:        ${PR_URL} (merged)"
 echo "  TestFlight: build ${NEW_VERSION} uploaded"
 echo "  Vercel:     auto-deploys from main (~2 min)"
 echo "  iOS:        TestFlight processing (~10-15 min)"
+
+# --- 8. End-of-book detection ---
+# If this chapter is the LAST in its book, halt with exit 1 so the /loop
+# wrapper detects failure and stops before drafting the next chapter.
+# Per docs/END_OF_BOOK_CHECKLIST.md, an editorial review must run before
+# starting the next book — it produces translator_decisions docs that the
+# next book's chapters will load at draft-time.
+echo
+echo "[end-of-book check] $BOOK_CODE $CHAPTER..."
+set +e
+python3 "$THAI_BIBLE_AI/scripts/detect_book_complete.py" "$BOOK_CODE" "$CHAPTER"
+DETECT_EXIT=$?
+set -e
+if [ $DETECT_EXIT -eq 1 ]; then
+    exit 1
+fi
