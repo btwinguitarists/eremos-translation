@@ -206,7 +206,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**13** เพื่อพระองค์จะทรงเสริมกำลังจิตใจของพวกท่านให้ไม่มีตำหนิในความบริสุทธิ์ ต่อพระพักตร์พระเจ้าและพระบิดาของเรา ในการเสด็จมาของพระเยซูองค์พระผู้เป็นเจ้าของเรา พร้อมกับวิสุทธิชนทุกคนของพระองค์
+**13** เพื่อพระองค์จะทรงเสริมกำลังจิตใจของพวกท่านให้ไม่มีตำหนิในความบริสุทธิ์ ต่อพระพักตร์พระเจ้าและพระบิดาของเรา ในการเสด็จมาของพระเยซูองค์พระผู้เป็นเจ้าของเรา พร้อมกับบรรดาผู้บริสุทธิ์ทุกคนของพระองค์
 
 > ___
 
@@ -278,7 +278,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**17** หลังจากนั้น เราทั้งหลายที่ยังเป็นอยู่และเหลืออยู่ จะถูกรับขึ้นไปพร้อมกับพวกเขาในเมฆ เพื่อพบกับองค์พระผู้เป็นเจ้าในฟากฟ้า และเช่นนั้นเราจะอยู่กับองค์พระผู้เป็นเจ้าตลอดไปเป็นนิตย์
+**17** หลังจากนั้น เราทั้งหลายที่ยังเป็นอยู่และเหลืออยู่ จะถูกรับขึ้นไปพร้อมกับพวกเขาในเมฆ เพื่อต้อนรับองค์พระผู้เป็นเจ้าในฟากฟ้า และเช่นนั้นเราจะอยู่กับองค์พระผู้เป็นเจ้าตลอดไปเป็นนิตย์
 
 > ___
 
@@ -412,7 +412,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 |---|---|
 | `output/translations/1thessalonians_01.json` | `fdc756d6679cb22854a22c4d222c372bfcc5c37c81ce7855e059b8b2e389675e` |
 | `output/translations/1thessalonians_02.json` | `1c39af3e0fd06a32906b8256dc93b5fdcc8e3038e39c1b2a388ea3ca11b593d2` |
-| `output/translations/1thessalonians_03.json` | `146c909d79330914cf346e125c70616a69070674e6428b291932917c3e7ef0b5` |
-| `output/translations/1thessalonians_04.json` | `533818e9643c2168b1bc9b5170680d982bb932aa3e3743748f1a38c52e5622df` |
+| `output/translations/1thessalonians_03.json` | `d09d3e84833d019877b79139018fb0e5a8cb4fc87ea6b5d18580ba86614aaf99` |
+| `output/translations/1thessalonians_04.json` | `88f0d93d9ea68a0ed7ad19ff2ee9046d2d76791baa379c08416d968924dab0e8` |
 | `output/translations/1thessalonians_05.json` | `dc6a690fc17f545cf6780440d68f1d0ba0f0504bc37d57285f190e83cd3ab25d` |
 
