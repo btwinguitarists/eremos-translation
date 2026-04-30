@@ -46,3 +46,7 @@ output/back_translations/*_PROMPT.md
 
 # Loop output
 logs/
+
+# Audit-items-to-YAML output dirs (temp; copied to EremosVercel2/shared/review-questions/
+# by the audit agent — not source-of-truth on this side)
+output/review_questions_*/
