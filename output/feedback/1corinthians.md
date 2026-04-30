@@ -1,6 +1,6 @@
 # 1 โครินธ์
 
-_1 Corinthians — 4 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
+_1 Corinthians — 5 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
 
 _This **feedback edition** is the plain Thai translation with a `>` placeholder block under each verse for reviewer comments. **See the instructions immediately below before reading.** For the annotated edition (with contextual summaries), see `output/reader/1corinthians.md`; for the verses-only edition (no comment blocks), see `output/plain/1corinthians.md`._
 
@@ -408,6 +408,62 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 ---
 
+## บทที่ 5
+
+**1** เป็นที่ได้ยินกันโดยทั่วไปว่ามีการล่วงประเวณีในหมู่พวกท่าน และเป็นการล่วงประเวณีอย่างที่แม้แต่ในหมู่คนต่างชาติก็ไม่มี คือผู้ชายคนหนึ่งได้ภรรยาของบิดาของเขา
+
+> ___
+
+**2** และพวกท่านยังลำพองตัวอยู่อีก! ทำไมพวกท่านจึงไม่โศกเศร้ามากกว่านั้น เพื่อผู้ที่กระทำการนี้จะถูกขับออกจากท่ามกลางพวกท่าน?
+
+> ___
+
+**3** เพราะส่วนข้าพเจ้านั้น แม้ไม่ได้อยู่ด้วยทางกาย แต่อยู่ด้วยทางใจ ข้าพเจ้าได้ตัดสินผู้ที่กระทำสิ่งเช่นนี้แล้ว เหมือนกับว่าข้าพเจ้าอยู่ด้วยจริง ๆ
+
+> ___
+
+**4** ในพระนามของพระเยซูคริสต์องค์พระผู้เป็นเจ้าของเรา เมื่อพวกท่านชุมนุมกันพร้อมกับใจของข้าพเจ้า โดยมีฤทธิ์อำนาจของพระเยซูองค์พระผู้เป็นเจ้าของเราอยู่ด้วย
+
+> ___
+
+**5** ก็คือการมอบคนเช่นนี้ไว้แก่ซาตานเพื่อให้เนื้อหนังพินาศ เพื่อจิตวิญญาณจะได้รับความรอดในวันแห่งองค์พระผู้เป็นเจ้า
+
+> ___
+
+**6** การอวดของพวกท่านไม่ใช่สิ่งดี พวกท่านไม่รู้หรือว่าเชื้อเพียงเล็กน้อยก็ทำให้แป้งทั้งก้อนฟูขึ้น?
+
+> ___
+
+**7** จงกวาดล้างเชื้อเก่าออกไป เพื่อพวกท่านจะเป็นแป้งก้อนใหม่ตามที่พวกท่านเป็นอยู่จริง คือปราศจากเชื้อ เพราะพระคริสต์ผู้ทรงเป็นปัสกาของเราได้ถูกถวายเป็นเครื่องบูชาแล้ว
+
+> ___
+
+**8** ดังนั้น ให้เราทั้งหลายฉลองเทศกาล ไม่ใช่ด้วยเชื้อเก่า หรือด้วยเชื้อแห่งความชั่วร้ายและความชั่วช้า แต่ด้วยขนมปังไร้เชื้อแห่งความจริงใจและความจริง
+
+> ___
+
+**9** ข้าพเจ้าได้เขียนถึงพวกท่านในจดหมายฉบับก่อนแล้วว่า อย่าคบหากับคนล่วงประเวณี
+
+> ___
+
+**10** ข้าพเจ้าไม่ได้หมายถึงคนล่วงประเวณีในโลกนี้ทั่วไป หรือคนละโมบและคนปล้นชิง หรือคนกราบไหว้รูปเคารพ มิฉะนั้นพวกท่านก็ต้องออกไปจากโลกนี้เสียเลย
+
+> ___
+
+**11** แต่บัดนี้ข้าพเจ้าเขียนถึงพวกท่านว่าอย่าคบหา ถ้ามีผู้ใดที่ได้ชื่อว่าเป็นพี่น้อง แต่เป็นคนล่วงประเวณี หรือคนละโมบ หรือคนกราบไหว้รูปเคารพ หรือคนด่าหยาบ หรือคนขี้เมา หรือคนปล้นชิง อย่าแม้กระทั่งกินด้วยกันกับคนเช่นนั้น
+
+> ___
+
+**12** เพราะข้าพเจ้าจะมีอะไรเกี่ยวข้องกับการพิพากษาคนภายนอกเล่า? พวกท่านไม่ใช่ผู้ที่ต้องพิพากษาคนภายในหรือ?
+
+> ___
+
+**13** ส่วนคนภายนอกนั้น พระเจ้าจะทรงพิพากษา จงกำจัดคนชั่วร้ายออกจากหมู่พวกท่าน
+
+> ___
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -418,4 +474,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/1corinthians_02.json` | `f89965365f3b0cad6b1261fe5cd39b2da70105281caa91fd248c10286a72374d` |
 | `output/translations/1corinthians_03.json` | `74a50d950382fd67d2e3f8e9044d8d062469aa8709ac575b4f019132624afc9e` |
 | `output/translations/1corinthians_04.json` | `60c21ddc5b146a28b71701b71923742b5fb9361f6bd057e5daf2f163c2ca09a3` |
+| `output/translations/1corinthians_05.json` | `ad3a9c33a2b75b6ce694c824542ee985de70b3c11c511a55d18d414d6b1e25f3` |
 
