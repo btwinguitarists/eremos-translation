@@ -29,6 +29,12 @@
       "greek_matches": "paraphrase",
       "notes": "'Brought nothing in, take nothing out' echoes Job."
     },
+    "2TH 1:9": {
+      "type": "allusion",
+      "source": "ISA 2:10",
+      "greek_matches": "LXX",
+      "notes": "ἀπὸ προσώπου τοῦ κυρίου echoes LXX Isa 2:10, 19, 21 (ἀπὸ προσώπου τοῦ φόβου κυρίου 'from the face of the fear of the Lord'). Same prepositional construction. The Isaiah parallel-context is theophanic-judgment (people hiding 'from the face of the Lord'), supporting the SEPARATION reading of ἀπό at 2 Thess 1:9 (vs. SOURCE reading)."
+    },
     "ACT 10:12": {
       "type": "allusion",
       "source": "LEV 11:1-47",
@@ -1262,6 +1268,102 @@
       "source": "EXO 3:14",
       "greek_matches": "LXX-formula",
       "notes": "Ἐγώ εἰμι Ἰησοῦς — Jesus self-identification formula. The absolute \"I am\" construction (ἐγώ εἰμι + predicate) echoes the LXX Exo 3:14 divine-self-identification (ἐγώ εἰμι ὁ ὤν \"I am the existing-one\"). This is the same formula used by the Johannine-Jesus for his absolute \"I AM\" sayings (JHN 6:35, 8:58, 10:11, etc.). Luke is not directly quoting LXX Exo 3:14 here; rather, the ἐγώ εἰμι self-disclosure pattern is intertextually charged — the risen Christ identifies himself with the ἐγώ εἰμι formula that LXX Exo 3:14 uses for YHWH himself. Allusion rather than citation; the theological freight is Christological-identity."
+    },
+    "GAL 1:15": {
+      "type": "allusion",
+      "source": "JER 1:5; ISA 49:1",
+      "greek_matches": "paraphrase",
+      "notes": "Paul echoes the prophetic-call language of Jeremiah (called from the womb to be a prophet to the nations) and Isaiah 49 (Servant called from mother's womb). Frames his apostleship as divinely-foreordained from before birth, in line with OT prophetic vocations. ADDED TO NT_OT_CITATIONS for GAL 1."
+    },
+    "GAL 2:16": {
+      "type": "allusion",
+      "source": "PSA 143:2",
+      "greek_matches": "paraphrase",
+      "notes": "Paul echoes Psalm 143:2 LXX (οὐ δικαιωθήσεται ἐνώπιόν σου πᾶς ζῶν / no one living shall be justified before you), changing πᾶς ζῶν to πᾶσα σάρξ and adding ἐξ ἔργων νόμου to apply the universal-no-justification statement to the law-works question. Same allusion recurs Rom 3:20."
+    },
+    "GAL 3:10": {
+      "type": "citation",
+      "source": "DEU 27:26",
+      "greek_matches": "LXX",
+      "notes": "Paul cites the curse-formula from the Mt. Ebal covenant-renewal ceremony. Argument: the law itself pronounces curse on anyone failing to keep ALL commands continuously. Since perfect law-keeping is impossible, all who depend on law-works are by definition under the law's own curse."
+    },
+    "GAL 3:11": {
+      "type": "citation",
+      "source": "HAB 2:4",
+      "greek_matches": "LXX_modified",
+      "notes": "Paul omits μου from LXX (HOI dikaios ek pisteos mou zēsetai) → ho dikaios ek pisteos zēsetai. Same citation: Rom 1:17; Heb 10:38. The thesis-verse of Pauline justification doctrine."
+    },
+    "GAL 3:12": {
+      "type": "citation",
+      "source": "LEV 18:5",
+      "greek_matches": "LXX",
+      "notes": "Polemical-counterpoint to Hab 2:4 in v.11. Where Hab 2:4 = righteous live by FAITH, Lev 18:5 = doer lives by [the commands]. The two principles are mutually exclusive. Paul exploits Lev 18:5 as Torah's OWN witness against Torah-righteousness as a salvation system. Same citation: Rom 10:5."
+    },
+    "GAL 3:13": {
+      "type": "citation",
+      "source": "DEU 21:23",
+      "greek_matches": "LXX_modified",
+      "notes": "Paul changes LXX kekatēramenos hupo theou pas kremamenos epi xulou → epikataratos pas ho kremamenos epi xulou (matches v.10 epikataratos for cognate-echo; drops hupo theou). Applied to Christ's crucifixion: he bore the law's curse-pronouncement substitutionarily."
+    },
+    "GAL 3:16": {
+      "type": "allusion",
+      "source": "GEN 13:15; GEN 17:7-8; GEN 22:18",
+      "greek_matches": "paraphrase",
+      "notes": "Composite-promise reference exploiting the SINGULAR form of σπέρμα (sperma) across the Abrahamic-promise texts. Paul's christotypological hermeneutic reads the singular as referring to Christ as the one ultimate descendant in whom the promises culminate."
+    },
+    "GAL 3:20": {
+      "type": "allusion",
+      "source": "DEU 6:4",
+      "greek_matches": "lexical_echo",
+      "notes": "theos heis estin echoes the Shema (Deut 6:4 LXX kurios ho theos hēmōn kurios heis estin). Paul applies the monotheistic confession not as polemic against polytheism but as supporting argument: God acting alone (without mediator) — as in the Abraham promise — implies one-party-divine-guarantee, contrast with the two-party Sinai covenant (which required mediator)."
+    },
+    "GAL 3:28": {
+      "type": "allusion",
+      "source": "GEN 1:27",
+      "greek_matches": "lexical_echo",
+      "notes": "arsen kai thēlu (male AND female; using kai not oude as in pairs 1-2) consciously echoes Gen 1:27 LXX (arsen kai thēlu epoiēsen autous). Suggests new-creation reality where created-distinctions are transcended in Christ, not abolished."
+    },
+    "GAL 3:6": {
+      "type": "citation",
+      "source": "GEN 15:6",
+      "greek_matches": "LXX",
+      "notes": "Foundation text of Pauline justification-by-faith doctrine. Paul cites Gen 15:6 LXX verbatim except conjunction order. Same citation: Rom 4:3, 9, 22; Jas 2:23. Argument: Abraham was declared righteous BEFORE he was circumcised (Gen 17), so circumcision/law cannot be the basis of righteousness."
+    },
+    "GAL 3:8": {
+      "type": "citation",
+      "source": "GEN 12:3; GEN 18:18",
+      "greek_matches": "LXX",
+      "notes": "Composite citation blending Gen 12:3 (en soi blessed) and Gen 18:18 (panta ta ethnē = all the nations). Paul preserves the universalist phrasing of 18:18 with the en soi of 12:3. The Abrahamic blessing-of-the-nations IS the gospel preached in advance (proeuangelizomai HAPAX)."
+    },
+    "GAL 4:22": {
+      "type": "allusion",
+      "source": "GEN 16; GEN 17; GEN 21",
+      "greek_matches": "paraphrase",
+      "notes": "Summary reference to the Hagar/Sarah / Ishmael/Isaac narrative complex. Paul does not quote a specific verse; he summarizes the well-known Genesis story for the allegorical typology of vv.22-31."
+    },
+    "GAL 4:27": {
+      "type": "citation",
+      "source": "ISA 54:1",
+      "greek_matches": "LXX",
+      "notes": "Verbatim LXX citation. Isaiah 54:1 originally addressed exiled-Israel (the desolate-Jerusalem) with promise of post-exilic flourishing. Paul re-applies it to the new-covenant Sarah-equivalent: heavenly-Jerusalem-mother will have more children (Gentiles + Jews believing) than earthly-Jerusalem-mother."
+    },
+    "GAL 4:30": {
+      "type": "citation",
+      "source": "GEN 21:10",
+      "greek_matches": "LXX_modified",
+      "notes": "Sarah's words to Abraham. Paul drops Sarah's tauto and changes meta tou huiou mou Isaak to meta tou huiou tēs eleutheras to fit the allegorical-categorical structure. Polemical conclusion to Hagar-Sarah allegory: law-bound (slave-children) cannot share inheritance with faith-promise (free-children)."
+    },
+    "GAL 5:14": {
+      "type": "citation",
+      "source": "LEV 19:18",
+      "greek_matches": "LXX",
+      "notes": "Verbatim LXX (kai dropped). One of the most-cited OT verses in NT (Matt 22:39; Mark 12:31; Luke 10:27; Rom 13:9; Jas 2:8; here). Paul's thesis: the entire Mosaic-Torah is fulfilled in this single command. Reduces law to love-as-fulfilling-essence."
+    },
+    "GAL 6:7": {
+      "type": "allusion",
+      "source": "JOB 4:8; PRO 22:8; HOS 8:7; HOS 10:12-13",
+      "greek_matches": "paraphrase",
+      "notes": "Sowing-and-reaping proverbial-formula echoing OT wisdom-tradition. Job 4:8 (those who sow trouble reap the same), Prov 22:8 (sows injustice reaps calamity), Hos 8:7 (sows the wind reaps the whirlwind), Hos 10:12-13 (sow righteousness, reap steadfast love). Paul applies the universalizing-moral-axiom to flesh-vs-Spirit sowing in v.8."
     },
     "JHN 10:11": {
       "type": "composite_allusion",

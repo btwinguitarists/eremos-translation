@@ -1,0 +1,812 @@
+[
+  {
+    "reference": "Galatians 1:1",
+    "chapter": 1,
+    "verse": 1,
+    "greek": "Παῦλος ἀπόστολος,οὐκ ἀπ’ἀνθρώπων οὐδὲ δι’ἀνθρώπου ἀλλὰ διὰ Ἰησοῦ Χριστοῦ καὶ θεοῦ πατρὸς τοῦ ἐγείραντος αὐτὸν ἐκ νεκρῶν,",
+    "bsb_english": "Paul, an apostle—sent not from men nor by man, but by Jesus Christ and God the Father, who raised Him from the dead—",
+    "translation": {
+      "thai": "เปาโล อัครทูต—ผู้ที่ไม่ได้รับการแต่งตั้งจากมนุษย์หรือผ่านมนุษย์ แต่โดยพระเยซูคริสต์และพระเจ้าพระบิดา ผู้ทรงให้พระองค์เป็นขึ้นจากความตาย—",
+      "thai_literal": null,
+      "thai_summary": "เปาโลเริ่มจดหมายฉบับนี้ต่างจากจดหมายฉบับอื่น ๆ ของท่าน—ท่านยืนยันในประโยคแรกเลยว่า การเป็นอัครทูตของท่านมาจากพระเจ้าโดยตรง ไม่ได้มาจากมนุษย์ เพราะพวกครูสอนเท็จในกาลาเทียพยายามทำลายอำนาจของท่าน",
+      "key_decisions": [
+        {
+          "greek": "ἀπόστολος",
+          "thai": "อัครทูต",
+          "rationale": "Standard Thai Christian rendering for ἀπόστολος (one sent with authority). Maintains continuity with synoptic + Acts usage in our corpus."
+        },
+        {
+          "greek": "οὐκ ἀπ’ ἀνθρώπων οὐδὲ δι’ ἀνθρώπου",
+          "thai": "ไม่ได้รับการแต่งตั้งจากมนุษย์หรือผ่านมนุษย์",
+          "rationale": "Paul's polemical double-negative establishes both source (ἀπό) and agency (διά). 'From men' = ultimate source; 'through man' = intermediate agent. Both denied. Adding 'รับการแต่งตั้ง' (was appointed) makes the elliptical clause complete in Thai while preserving the source/agency distinction. The two prepositions are intentionally different in Greek and Thai must clarify."
+        },
+        {
+          "greek": "διὰ Ἰησοῦ Χριστοῦ καὶ θεοῦ πατρὸς",
+          "thai": "โดยพระเยซูคริสต์และพระเจ้าพระบิดา",
+          "rationale": "Single διά governs both Jesus Christ AND God the Father — a striking grammatical move that puts the Son alongside the Father as co-agent of Paul's commissioning. โดย preserves the agency. พระบิดา = the Father (with พระ honorific divine prefix)."
+        },
+        {
+          "greek": "τοῦ ἐγείραντος αὐτὸν ἐκ νεκρῶν (aor. act. ptcp gen.)",
+          "thai": "ผู้ทรงให้พระองค์เป็นขึ้นจากความตาย",
+          "rationale": "Substantival participle modifying θεοῦ πατρός — 'the one having raised him.' Resurrection-confession formula characteristic of Paul (cf. Rom 4:24; 8:11; 10:9; 2 Cor 4:14; Col 2:12; 1 Thess 1:10). ทรงให้ ... เป็นขึ้นจากความตาย uses ราชาศัพท์ (ทรง) since God is the agent acting on the divine Christ. Standard Thai resurrection idiom."
+        }
+      ],
+      "notes": "POLEMICAL OPENING: Paul departs from his usual greeting formula by inserting an apostolic-credentials clause directly into the salutation. This anticipates the entire argument of chapters 1–2: his apostleship is divinely sourced, not derived from the Jerusalem leadership or any other human channel. The double-negative 'not from men nor through man' rules out both ultimate source and intermediate human agency. RESURRECTION: The participial clause links the Father to the resurrection, which is Paul's standard way of identifying God in his salutations and the foundation of his apostolic commissioning (Damascus-road encounter with the risen Christ). REGISTER: Christ and the Father both receive ราชาศัพท์ honorifics (พระ-prefix, ทรง). Paul speaks in ข้าพเจ้า/ท่าน register (formal humble — author to addressees)."
+    }
+  },
+  {
+    "reference": "Galatians 1:2",
+    "chapter": 1,
+    "verse": 2,
+    "greek": "καὶ οἱ σὺν ἐμοὶ πάντες ἀδελφοί,ταῖς ἐκκλησίαις τῆς Γαλατίας·",
+    "bsb_english": "and all the brothers with me, To the churches of Galatia:",
+    "translation": {
+      "thai": "และพี่น้องทุกคนที่อยู่กับข้าพเจ้า เรียน คริสตจักรทั้งหลายในแคว้นกาลาเทีย",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "οἱ σὺν ἐμοὶ πάντες ἀδελφοί",
+          "thai": "พี่น้องทุกคนที่อยู่กับข้าพเจ้า",
+          "rationale": "ἀδελφοί here generic-inclusive (members of the believing community traveling with Paul). พี่น้อง = brothers and sisters — the standard inclusive Thai Christian rendering, consistent with our prior NT corpus. Paul co-signs unusually — most letters name a single co-sender; here 'all the brothers' lends collective weight against the Galatian opponents."
+        },
+        {
+          "greek": "ταῖς ἐκκλησίαις τῆς Γαλατίας",
+          "thai": "คริสตจักรทั้งหลายในแคว้นกาลาเทีย",
+          "rationale": "Plural ἐκκλησίαις — multiple congregations across the region (NOT a single citywide church). Galatia could refer to (1) the Roman political province, (2) the older ethnic region in central Asia Minor; the dispute does not affect the Thai rendering. แคว้นกาลาเทีย = the region/province of Galatia, consistent with Acts 16:6, 18:23 (where we used แคว้นกาลาเทีย)."
+        },
+        {
+          "greek": "ταῖς ἐκκλησίαις",
+          "thai": "เรียน คริสตจักรทั้งหลาย",
+          "rationale": "Dative of address opens the salutation proper. Thai inserts the standard letter-opening particle เรียน (formal 'to:') to mark the addressee, mirroring Thai epistolary convention. This makes the salutation feel like an actual letter rather than a free-floating dative."
+        }
+      ],
+      "notes": "CO-SENDERS: Paul's unusual phrasing 'all the brothers with me' (rather than naming a specific co-sender like Sosthenes or Timothy) underscores that this letter speaks not just for Paul individually but for the whole Pauline mission team. NORTH/SOUTH GALATIA QUESTION: A long-standing scholarly debate (north Galatia = ethnic region, south Galatia = Roman province including Pisidian Antioch, Iconium, Lystra, Derbe — places Paul evangelized in Acts 13–14). The Thai rendering is neutral on this question."
+    }
+  },
+  {
+    "reference": "Galatians 1:3",
+    "chapter": 1,
+    "verse": 3,
+    "greek": "χάρις ὑμῖν καὶ εἰρήνη ἀπὸ θεοῦ πατρὸς ⸀ἡμῶν καὶ κυρίου Ἰησοῦ Χριστοῦ,",
+    "bsb_english": "Grace and peace to you from God our Father and the Lord Jesus Christ,",
+    "translation": {
+      "thai": "ขอพระคุณและสันติสุขจากพระเจ้าพระบิดาของเรา และจากพระเยซูคริสต์องค์พระผู้เป็นเจ้า จงดำรงอยู่กับท่านทั้งหลาย",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "χάρις ὑμῖν καὶ εἰρήνη",
+          "thai": "ขอพระคุณและสันติสุข ... จงดำรงอยู่กับท่านทั้งหลาย",
+          "rationale": "Standard Pauline opening blessing combining the Greek χαίρειν-greeting (transformed into χάρις, 'grace') with the Hebrew shalom-greeting (εἰρήνη, 'peace'). พระคุณ = standard Thai Christian for χάρις (divine favor); สันติสุข = peace (divine wholeness, not merely absence of conflict). Thai needs an explicit verb for the optative-blessing force — ขอ ... จงดำรงอยู่ supplies the implicit 'may [grace and peace] be [with you].'"
+        },
+        {
+          "greek": "ἀπὸ θεοῦ πατρὸς ἡμῶν καὶ κυρίου Ἰησοῦ Χριστοῦ",
+          "thai": "จากพระเจ้าพระบิดาของเรา และจากพระเยซูคริสต์องค์พระผู้เป็นเจ้า",
+          "rationale": "Single ἀπό governs both nouns — God and Christ as joint source of grace and peace, a high-Christology marker. Thai repeats จาก for clarity. องค์พระผู้เป็นเจ้า = Lord (the standard Thai Christian rendering for Christ as κύριος, with full honorific weight). Word order in Thai placed after the name (พระเยซูคริสต์องค์พระผู้เป็นเจ้า) follows established Thai Christian convention for 'the Lord Jesus Christ.'"
+        },
+        {
+          "greek": "ἡμῶν",
+          "thai": "ของเรา",
+          "rationale": "1pl 'our' — inclusive (Paul + the Galatians + all believers, not exclusive 'my-team-only'). ของเรา preserves inclusivity in Thai (no exclusive/inclusive distinction needed). The text-critical placement of ἡμῶν (after πατρός vs. after κυρίου) does not affect the Thai rendering."
+        }
+      ],
+      "notes": "TEXTUAL VARIANT: SBLGNT places ἡμῶν after πατρός ('God our Father, and the Lord Jesus Christ'); a strong alternative reading places ἡμῶν after κυρίου ('God the Father, and our Lord Jesus Christ' — TR/Byz, p46, א, A, P). Neither reading affects Thai meaning. SBLGNT's order is followed. HIGH CHRISTOLOGY: A single preposition ἀπό governing both 'God the Father' and 'the Lord Jesus Christ' identifies them as joint-source of divine grace — characteristic Pauline binitarian formula in salutations (Rom 1:7; 1 Cor 1:3; etc.)."
+    }
+  },
+  {
+    "reference": "Galatians 1:4",
+    "chapter": 1,
+    "verse": 4,
+    "greek": "τοῦ δόντος ἑαυτὸν ⸀ὑπὲρ τῶν ἁμαρτιῶν ἡμῶν ὅπως ἐξέληται ἡμᾶς ἐκ τοῦ ⸂αἰῶνος τοῦ ἐνεστῶτος πονηροῦ⸃ κατὰ τὸ θέλημα τοῦ θεοῦ καὶ πατρὸς ἡμῶν,",
+    "bsb_english": "who gave Himself for our sins to rescue us from the present evil age, according to the will of our God and Father,",
+    "translation": {
+      "thai": "ผู้ทรงสละพระองค์เองเพื่อบาปทั้งหลายของเรา เพื่อทรงช่วยเราให้พ้นจากยุคชั่วร้ายในปัจจุบัน ตามพระประสงค์ของพระเจ้าและพระบิดาของเรา",
+      "thai_literal": null,
+      "thai_summary": "ข้อนี้สรุปสาระหลักของข่าวประเสริฐที่เปาโลปกป้องในจดหมายฉบับนี้ คริสต์ทรงสละพระองค์เองอย่างสมัครใจ ‘เพื่อบาปของเรา’ มิใช่เพื่อให้เราอยู่ในระบบเก่าของธรรมบัญญัติ แต่เพื่อปลดปล่อยเราจาก ‘ยุคชั่วร้ายในปัจจุบัน’—มุมมองทางโลกสองยุคที่เป็นแบบของยิวโบราณ",
+      "key_decisions": [
+        {
+          "greek": "τοῦ δόντος ἑαυτὸν",
+          "thai": "ผู้ทรงสละพระองค์เอง",
+          "rationale": "Aorist active participle — the historical, completed self-giving (the cross). δίδωμι ἑαυτόν = self-surrender, voluntary offering (cf. Eph 5:2, 25; Tit 2:14; 1 Tim 2:6). ทรงสละพระองค์เอง = 'gave up himself' (royal verb สละ in honorific construction with ทรง). Christ is subject."
+        },
+        {
+          "greek": "ὑπὲρ τῶν ἁμαρτιῶν ἡμῶν",
+          "thai": "เพื่อบาปทั้งหลายของเรา",
+          "rationale": "TEXTUAL VARIANT: SBLGNT and most majuscules read ὑπέρ; some witnesses (e.g., p46, א, A, D, F, G) read περί. Both prepositions express substitutionary/representative purpose; the difference is largely stylistic. ὑπέρ slightly emphasizes 'on behalf of/for the sake of'; περί 'concerning/with respect to.' Following SBLGNT (ὑπέρ). Thai เพื่อ covers both senses. ἁμαρτιῶν plural — preserved as บาปทั้งหลาย."
+        },
+        {
+          "greek": "ὅπως ἐξέληται ἡμᾶς",
+          "thai": "เพื่อทรงช่วยเราให้พ้น",
+          "rationale": "ὅπως + aor. mid. subjunctive = purpose clause. ἐξαιρέω middle = take out for oneself, rescue, deliver. The middle voice carries personal involvement of the deliverer (he rescues for himself). ทรงช่วย ... ให้พ้น = 'rescue / deliver out [from]' — preserves the spatial/extractive force of ἐξαιρέω."
+        },
+        {
+          "greek": "ἐκ τοῦ αἰῶνος τοῦ ἐνεστῶτος πονηροῦ",
+          "thai": "จากยุคชั่วร้ายในปัจจุบัน",
+          "rationale": "TWO-AGES SCHEMA. αἰών here = age, era (not 'world' as κόσμος). ἐνεστώς (perf. ptcp from ἐνίστημι) = present, currently standing. πονηροῦ (gen.) = evil. Reflects the apocalyptic Jewish two-ages framework: the present evil age vs. the age to come (cf. Eph 1:21; Heb 6:5). Christ rescues believers ALREADY out of the present evil age (eschatological-already). ยุคชั่วร้ายในปัจจุบัน captures all three elements. Word order in Greek is [age][present][evil] — Thai natural order [present][evil][age]."
+        },
+        {
+          "greek": "κατὰ τὸ θέλημα τοῦ θεοῦ καὶ πατρὸς ἡμῶν",
+          "thai": "ตามพระประสงค์ของพระเจ้าและพระบิดาของเรา",
+          "rationale": "θέλημα = will, purpose. The single article τοῦ governs both θεοῦ and πατρός — 'our God-and-Father' as a single referent (Granville Sharp construction). พระประสงค์ = divine will (royal noun). พระเจ้าและพระบิดา = God and Father (apposition, both referring to the same person). The Father's sovereign will is the ultimate context of Christ's self-giving — anticipates the foreordination motif of Galatians."
+        }
+      ],
+      "notes": "TEXTUAL VARIANT (ὑπέρ vs. περί): substantial early-witness divergence (e.g., p46 has περί). Both are theologically equivalent here; following SBLGNT. APOCALYPTIC TWO-AGES: 'the present evil age' is shorthand for the Jewish-apocalyptic worldview Paul shared, in which the present age is dominated by sin/evil powers, and the age to come is the kingdom of God. The startling claim is that Christ ALREADY rescues us from the present age — eschatological-already alongside the not-yet of bodily resurrection. GRANVILLE SHARP CONSTRUCTION: τοῦ θεοῦ καὶ πατρός — one article, two nouns, same referent (God = the Father). Preserved in Thai by treating พระเจ้าและพระบิดา as appositional. SUMMARY-OF-GOSPEL: This verse compresses Paul's gospel into a single sentence: Christ's self-giving + atoning death + apocalyptic deliverance + Father's will. It anticipates the doctrinal arguments of chapters 2–4 about justification and freedom."
+    }
+  },
+  {
+    "reference": "Galatians 1:5",
+    "chapter": 1,
+    "verse": 5,
+    "greek": "ᾧ ἡ δόξα εἰς τοὺς αἰῶνας τῶν αἰώνων· ἀμήν.",
+    "bsb_english": "to whom be glory forever and ever. Amen.",
+    "translation": {
+      "thai": "ขอพระสิริจงมีแด่พระองค์ตลอดไปเป็นนิตย์ อาเมน",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ᾧ ἡ δόξα",
+          "thai": "ขอพระสิริจงมีแด่พระองค์",
+          "rationale": "DOXOLOGY. Dative of possession ᾧ (relative — referring back to God the Father, possibly also Christ). ἡ δόξα with article = 'the glory' (the glory that is His). Paul interrupts the salutation with a doxology (unusual at this point — most letters reserve doxology for the closing). พระสิริ = divine glory (with พระ honorific). Thai imperative blessing form ขอ ... จงมีแด่ supplies the implicit verb."
+        },
+        {
+          "greek": "εἰς τοὺς αἰῶνας τῶν αἰώνων",
+          "thai": "ตลอดไปเป็นนิตย์",
+          "rationale": "'Unto the ages of the ages' — Hebraic idiom for unending eternity (cf. Rev passim; Heb 13:21; 1 Pet 4:11). ตลอดไปเป็นนิตย์ = 'forever and ever / for all eternity' — standard Thai Christian doxological close."
+        },
+        {
+          "greek": "ἀμήν",
+          "thai": "อาเมน",
+          "rationale": "Hebrew transliteration אָמֵן (verily, so be it). อาเมน = standard Thai Christian transliteration, identical Hebrew/Aramaic origin preserved across all NT corpus chapters."
+        }
+      ],
+      "notes": "EARLY DOXOLOGY: Most Pauline letters place doxologies near the close (e.g., Rom 16:27; Phil 4:20). The placement here in the salutation is highly unusual and reflects either Paul's heightened emotion in this letter (he is alarmed enough to short-circuit normal letter conventions) or — possibly — that vv. 3–5 reproduce a known liturgical formula. Either way, the doxology emphasizes that the gospel Paul will defend in this letter is grounded in the Father's eternal glory."
+    }
+  },
+  {
+    "reference": "Galatians 1:6",
+    "chapter": 1,
+    "verse": 6,
+    "greek": "Θαυμάζω ὅτι οὕτως ταχέως μετατίθεσθε ἀπὸ τοῦ καλέσαντος ὑμᾶς ἐν χάριτι Χριστοῦ εἰς ἕτερον εὐαγγέλιον,",
+    "bsb_english": "I am amazed how quickly you are deserting the One who called you by the grace of Christ, and are turning to a different gospel—",
+    "translation": {
+      "thai": "ข้าพเจ้าประหลาดใจที่พวกท่านกำลังหันเหไปจากพระองค์ผู้ทรงเรียกท่านโดยพระคุณของพระคริสต์อย่างรวดเร็วเช่นนี้ ไปสู่ข่าวประเสริฐอย่างอื่น",
+      "thai_literal": null,
+      "thai_summary": "เปาโลข้ามการกล่าวขอบคุณตามธรรมเนียมในจดหมายของท่าน (ทุกฉบับอื่นเริ่มด้วย ‘ข้าพเจ้าขอบคุณพระเจ้าเสมอ’) แล้วเข้าตรงประเด็นทันที—สัญญาณว่าสถานการณ์ในกาลาเทียร้ายแรงมาก ‘ข่าวประเสริฐอย่างอื่น’ ของพวกครูสอนเท็จคือ ‘พระคริสต์ + ธรรมบัญญัติ’ ซึ่งเปาโลถือว่าไม่ใช่ข่าวประเสริฐที่แท้จริงเลย",
+      "key_decisions": [
+        {
+          "greek": "Θαυμάζω",
+          "thai": "ประหลาดใจ",
+          "rationale": "θαυμάζω = wonder, marvel, be astonished. Here with negative-emotional connotation (shocked dismay), not positive admiration. Ancient Greek epistolary convention sometimes used a 'wonder-formula' as a polite way to register reproach (cf. P.Oxy. papyri letters). Thai ประหลาดใจ = 'marvel / be astonished' — preserves the emotional tension without overstating into 'angry.'"
+        },
+        {
+          "greek": "οὕτως ταχέως μετατίθεσθε",
+          "thai": "กำลังหันเหไป ... อย่างรวดเร็วเช่นนี้",
+          "rationale": "μετατίθημι middle = transfer one's allegiance, change sides, defect. PRESENT TENSE in Greek = action in process, NOT yet completed. This is critical to Paul's pastoral move — the Galatians are 'turning' but the turn is not final, hence the urgency of the letter. หันเหไป = 'turn aside / shift away' (active-voice in Thai; the middle force is captured by emphasis on personal action). กำลัง... = present-progressive marker preserves the in-process force. ταχέως = quickly — likely temporal (so soon after their conversion) more than 'easily.'"
+        },
+        {
+          "greek": "ἀπὸ τοῦ καλέσαντος ὑμᾶς",
+          "thai": "จากพระองค์ผู้ทรงเรียกท่าน",
+          "rationale": "Substantival aorist participle — 'the one who called you.' Most likely refers to GOD as the one who called (cf. Pauline usage Rom 8:30, 9:24; 1 Cor 1:9; 1 Thess 2:12 — the Father is the standard subject of καλέω in Paul). Some commentators argue it refers to Christ here (parallel with Christ as preceding context). Thai พระองค์ผู้ทรง... is ambiguous-honorific-divine, deliberately preserving the same ambiguity. ทรงเรียก = royal verb (called)."
+        },
+        {
+          "greek": "ἐν χάριτι Χριστοῦ",
+          "thai": "โดยพระคุณของพระคริสต์",
+          "rationale": "ἐν here instrumental — by/through grace (means of calling). Could also mean 'into the sphere of Christ's grace' but the means-reading is more natural with the calling-verb. โดย = 'by/through' (means). พระคุณของพระคริสต์ = 'the grace of Christ' — possessive: grace whose source/ground is Christ (subjective genitive, the more common Pauline pattern)."
+        },
+        {
+          "greek": "εἰς ἕτερον εὐαγγέλιον",
+          "thai": "ไปสู่ข่าวประเสริฐอย่างอื่น",
+          "rationale": "ἕτερος vs. ἄλλος: classical Greek distinguished ἕτερος = 'other of a different kind' from ἄλλος = 'other of the same kind' (though Koine often blurs this). Paul exploits the distinction in vv. 6–7: he calls the false teaching ἕτερον (different in kind), then immediately denies it is a real ἄλλο (one-more-of-the-same). ข่าวประเสริฐอย่างอื่น = 'another kind of gospel.' The Thai 'อย่างอื่น' carries the 'different-kind' force more clearly than just 'อีกอย่าง.'"
+        }
+      ],
+      "notes": "MISSING THANKSGIVING: Every other authentic Pauline letter (Romans, 1–2 Corinthians, Philippians, Colossians, 1 Thessalonians, 2 Thessalonians, Philemon — even the disputed Pastorals open with a thanksgiving for the recipient) contains a thanksgiving paragraph between the salutation and the body. Galatians does NOT. Paul's omission of the thanksgiving is a sharp pastoral signal that something is gravely wrong. Going straight from doxology to 'I marvel' is shocking ancient-letter form. ἕτερος VS. ἄλλος: Paul carefully exploits the lexical distinction here vs. v. 7, accepting the situation as a 'different-kind' (ἕτερον in v. 6) but denying any real second-of-the-same (οὐκ ... ἄλλο in v. 7). Some commentators (BDAG) caution that the Koine distinction may be blurred; even so, Paul's contrastive juxtaposition signals deliberate exploitation. SUBJECT OF καλέω: Probably God-the-Father per standard Pauline pattern (Rom 8:30 etc.); a minority view that Christ is in view here is grammatically possible but pastorally less likely (Christ has just been named in the χάρις-phrase as the source of grace, not the caller). Thai พระองค์ left ambiguous-divine."
+    }
+  },
+  {
+    "reference": "Galatians 1:7",
+    "chapter": 1,
+    "verse": 7,
+    "greek": "ὃ οὐκ ἔστιν ἄλλο· εἰ μή τινές εἰσιν οἱ ταράσσοντες ὑμᾶς καὶ θέλοντες μεταστρέψαι τὸ εὐαγγέλιον τοῦ Χριστοῦ.",
+    "bsb_english": "which is not even a gospel. Evidently some people are troubling you and trying to distort the gospel of Christ.",
+    "translation": {
+      "thai": "ซึ่งความจริงแล้วก็ไม่ใช่ข่าวประเสริฐอีกอย่างหนึ่ง เป็นแต่เพียงว่ามีบางคนที่กำลังก่อกวนพวกท่าน และต้องการบิดเบือนข่าวประเสริฐของพระคริสต์",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ὃ οὐκ ἔστιν ἄλλο",
+          "thai": "ซึ่งความจริงแล้วก็ไม่ใช่ข่าวประเสริฐอีกอย่างหนึ่ง",
+          "rationale": "Paul completes the ἕτερος/ἄλλος rhetorical move from v.6: 'a different (ἕτερον) gospel — which is not really another (ἄλλο) [gospel].' Translation: there is only one true gospel; what they are turning to is not really 'another option' — it is no gospel at all. Thai ความจริงแล้ว = 'in actual reality' supplies the corrective force. ก็ไม่ใช่ข่าวประเสริฐอีกอย่างหนึ่ง = 'is not in fact another gospel.'"
+        },
+        {
+          "greek": "εἰ μή",
+          "thai": "เป็นแต่เพียงว่า",
+          "rationale": "EXCEPTION CLAUSE: εἰ μή literally 'except that.' Here the exception explains why anyone could mistake the false teaching for a gospel — because troublemakers are actively distorting the real one. Translating εἰ μή literally as 'except' would feel awkward ('which is not another, except some are troubling you'); idiomatic Thai 'เป็นแต่เพียงว่า' = 'it is only that ...' — preserves the explanatory-corrective force without contradicting the prior negation."
+        },
+        {
+          "greek": "οἱ ταράσσοντες ὑμᾶς",
+          "thai": "บางคนที่กำลังก่อกวนพวกท่าน",
+          "rationale": "ταράσσω = stir up, agitate, throw into confusion (cf. John 14:1; Acts 15:24, 17:8 — same verb of social/spiritual disturbance caused by religious controversy). Present participle = ongoing action. ก่อกวน = 'cause disturbance / stir up trouble' — captures the active-disruption sense. The grammatical construction τινές ... οἱ ταράσσοντες (an indefinite subject with a definite participle) = 'certain ones who are [identifiably] troubling you' — Paul's opponents are anonymous-but-identifiable to the Galatian audience."
+        },
+        {
+          "greek": "θέλοντες μεταστρέψαι",
+          "thai": "ต้องการบิดเบือน",
+          "rationale": "μεταστρέφω (only 2x NT — here and Acts 2:20 in a different sense) = turn around, twist, pervert. Aorist infinitive after θέλω = 'want to twist.' Note: NEAR-RARE WORD (2x NT). Classical Greek confirms the 'invert/distort' sense. บิดเบือน = 'twist / distort / misrepresent' — exact Thai semantic match for perverting a message."
+        },
+        {
+          "greek": "τὸ εὐαγγέλιον τοῦ Χριστοῦ",
+          "thai": "ข่าวประเสริฐของพระคริสต์",
+          "rationale": "Genitive τοῦ Χριστοῦ probably both objective (the gospel ABOUT Christ — its content) and subjective (the gospel that COMES FROM Christ — its source). Paul does not need to disambiguate; both senses are operative. ข่าวประเสริฐของพระคริสต์ preserves the same ambiguity in Thai (the genitive ของ holds both senses)."
+        }
+      ],
+      "notes": "RARE WORD: μεταστρέφω (only Acts 2:20 [LXX-quotation, different sense] and here in NT). Meaning secure from classical/LXX usage (turn around, twist, distort). RHETORICAL MOVE: vv. 6–7 use the ἕτερος/ἄλλος distinction polemically. Paul's argument: the false teachers' 'gospel' is ἕτερον (different-in-kind) and therefore NOT a real ἄλλο (alternative-of-the-same-kind) — there is only ONE gospel; any 'other' is by definition perversion, not alternative. IDENTITY OF OPPONENTS: Paul never names them. Reconstructions (Judaizers requiring circumcision + Torah-observance for Gentile Christians) come from the chapters that follow, esp. 2:11–14 (Antioch incident), 5:2 (circumcision), 6:12 (those who 'compel you to be circumcised')."
+    }
+  },
+  {
+    "reference": "Galatians 1:8",
+    "chapter": 1,
+    "verse": 8,
+    "greek": "ἀλλὰ καὶ ἐὰν ἡμεῖς ἢ ἄγγελος ἐξ οὐρανοῦ ⸀εὐαγγελίζηται ⸀ὑμῖν παρ’ὃ εὐηγγελισάμεθα ὑμῖν,ἀνάθεμα ἔστω.",
+    "bsb_english": "But even if we or an angel from heaven should preach a gospel contrary to the one we preached to you, let him be under a curse!",
+    "translation": {
+      "thai": "แต่ถึงแม้ว่าพวกเราเอง หรือทูตสวรรค์จากฟ้าจะมาประกาศข่าวประเสริฐแก่พวกท่านที่ผิดไปจากข่าวประเสริฐซึ่งเราได้ประกาศแก่ท่านแล้ว ก็ให้ผู้นั้นถูกสาปแช่ง",
+      "thai_literal": null,
+      "thai_summary": "เปาโลใช้ภาษาที่รุนแรงที่สุด—แม้แต่ทูตสวรรค์ก็ไม่มีอำนาจเหนือข่าวประเสริฐแท้ ‘ถูกสาปแช่ง’ (ἀνάθεμα) เป็นคำที่หมายถึงการอุทิศบางสิ่งบางอย่างให้ถูกทำลายอย่างสิ้นเชิง—คำในพันธสัญญาเดิมเกี่ยวกับสิ่งที่ต้องห้ามหรือสิ่งที่อยู่ภายใต้การพิพากษาของพระเจ้า",
+      "key_decisions": [
+        {
+          "greek": "ἀλλὰ καὶ ἐὰν",
+          "thai": "แต่ถึงแม้ว่า",
+          "rationale": "Strong adversative + concessive conditional: 'But even if.' Sets up a hypothetical extreme case to make the categorical point about gospel-faithfulness. แต่ถึงแม้ว่า = standard Thai concessive. The combination ἀλλὰ καὶ intensifies — not 'or' but 'and even.'"
+        },
+        {
+          "greek": "ἡμεῖς ἢ ἄγγελος ἐξ οὐρανοῦ",
+          "thai": "พวกเราเอง หรือทูตสวรรค์จากฟ้า",
+          "rationale": "ἡμεῖς is exclusive (= Paul + his missionary team, not including the Galatians; cf. v.2). EMPHATIC SELF-INCLUSION: Paul includes himself in the curse if he should ever preach a different gospel — extraordinary rhetorical move emphasizing that the gospel itself, not the messenger, is the standard. ทูตสวรรค์จากฟ้า = 'angel from heaven' (the highest possible non-divine messenger). พวกเราเอง = 'we ourselves' (emphatic self-reference)."
+        },
+        {
+          "greek": "εὐαγγελίζηται ... παρ’ ὃ εὐηγγελισάμεθα",
+          "thai": "ประกาศข่าวประเสริฐ ... ที่ผิดไปจากข่าวประเสริฐซึ่งเราได้ประกาศ",
+          "rationale": "εὐαγγελίζομαι present subjunctive (of hypothetical preacher) vs. εὐηγγελισάμεθα aorist indicative (of Paul's prior preaching) — the contrast between hypothetical-future-deviation and actual-past-foundation. παρά + accusative = 'beside, contrary to, alongside (in opposition).' ผิดไปจาก = 'differs from / runs contrary to' — captures the contrastive-deviation sense. ข่าวประเสริฐ for both ground-and-test as in our standard glossary."
+        },
+        {
+          "greek": "ἀνάθεμα ἔστω",
+          "thai": "ก็ให้ผู้นั้นถูกสาปแช่ง",
+          "rationale": "ἀνάθεμα (LXX rendering of Hebrew חֵרֶם, ḥērem) = something devoted to destruction, set under God's irrevocable judgment (cf. Josh 6:17–18; Lev 27:28–29; Acts 23:14; Rom 9:3; 1 Cor 12:3, 16:22). NOT mere 'cursed' in a popular sense — it is the strongest possible religious anathema, identifying the person as removed from God's covenant blessing. ἔστω = third-person imperative 'let [him] be.' ก็ให้ ... ถูกสาปแช่ง = 'let [him] be cursed' (imperative force preserved). Note: ANATHEMA-TERM ESTABLISHED for Pauline corpus — same Thai rendering will be used for Rom 9:3, 1 Cor 12:3, 16:22, and v.9 below."
+        }
+      ],
+      "notes": "ANATHEMA: ἀνάθεμα has technical force from LXX/Jewish-religious context. It is a covenant-judicial pronouncement, not casual cursing. Anyone who preaches a different gospel is, in Paul's strongest language, placed under divine condemnation — even if Paul himself were the offender. The radical egalitarianism (no one is above the gospel, not even the apostles, not even angels) is a permanent boundary-marker for Christian doctrinal authority. KEY-TERM: this verse establishes ἀνάθεμα → ถูกสาปแช่ง as the corpus-wide rendering. Future Pauline occurrences (Rom 9:3; 1 Cor 12:3; 16:22) should use the same. EMPHATIC SELF-INCLUSION: Paul placing himself under hypothetical anathema (ἡμεῖς first in the list, before angels) demonstrates that the apostolic authority is derivative from the gospel, not vice versa."
+    }
+  },
+  {
+    "reference": "Galatians 1:9",
+    "chapter": 1,
+    "verse": 9,
+    "greek": "ὡς προειρήκαμεν,καὶ ἄρτι πάλιν λέγω,εἴ τις ὑμᾶς εὐαγγελίζεται παρ’ὃ παρελάβετε,ἀνάθεμα ἔστω.",
+    "bsb_english": "As we have said before, so now I say again: If anyone is preaching to you a gospel contrary to the one you received, let him be under a curse!",
+    "translation": {
+      "thai": "ดังที่เราได้กล่าวไว้ก่อนหน้านี้ บัดนี้ข้าพเจ้าขอกล่าวอีกครั้งว่า ถ้าผู้ใดประกาศข่าวประเสริฐแก่ท่านที่ผิดไปจากที่ท่านได้รับมา ก็ให้ผู้นั้นถูกสาปแช่ง",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ὡς προειρήκαμεν",
+          "thai": "ดังที่เราได้กล่าวไว้ก่อนหน้านี้",
+          "rationale": "προλέγω in perfect = 'we have previously said.' Two readings: (a) backward to v.8 — 'as we just said' (the immediately preceding hypothetical anathema); (b) backward to a prior visit/letter — 'as we have warned you before' (during my earlier visit/teaching). Both readings work; (b) better explains the past-action force of perfect tense. Thai ก่อนหน้านี้ = 'previously' — preserves both readings."
+        },
+        {
+          "greek": "καὶ ἄρτι πάλιν λέγω",
+          "thai": "บัดนี้ข้าพเจ้าขอกล่าวอีกครั้งว่า",
+          "rationale": "ἄρτι = 'just now, presently'; πάλιν = 'again.' Note the SHIFT FROM 1PL προειρήκαμεν TO 1SG λέγω — Paul moves from corporate testimony to personal-apostolic asseveration. Thai ข้าพเจ้า preserves the singular. ขอกล่าวอีกครั้ง = 'I now say again' — the doubling-down rhetorical force. Note this verse INTENSIFIES v.8 by making the hypothetical real and personal."
+        },
+        {
+          "greek": "εἴ τις ὑμᾶς εὐαγγελίζεται",
+          "thai": "ถ้าผู้ใดประกาศข่าวประเสริฐแก่ท่าน",
+          "rationale": "Conditional with εἰ + present indicative — assumes the situation is currently real (vs. v.8's ἐάν + subjunctive which is hypothetical). The shift from hypothetical (v.8 'even if we or an angel') to real (v.9 'if anyone — and here they are') is decisive. The opponents are present in Galatia preaching now. ถ้าผู้ใด = 'if anyone.' Present-tense Thai ประกาศ matches the realis aspect."
+        },
+        {
+          "greek": "παρ’ ὃ παρελάβετε",
+          "thai": "ที่ผิดไปจากที่ท่านได้รับมา",
+          "rationale": "παραλαμβάνω aorist = 'you received' — past-completed reception. Same lexical pair Paul uses for tradition-transmission (1 Cor 15:1, 3; 11:23). What the Galatians 'received' is the apostolic gospel; what they would now receive is its perversion. ได้รับมา = 'received [in the past].' Same structural template as v.8 with shift from 'we preached' (apostolic source) to 'you received' (recipient perspective)."
+        },
+        {
+          "greek": "ἀνάθεμα ἔστω",
+          "thai": "ก็ให้ผู้นั้นถูกสาปแช่ง",
+          "rationale": "Identical formula to v.8. Paul's repetition is rhetorical doubling for emphasis — 'I say it twice so you will not mistake it.'"
+        }
+      ],
+      "notes": "RHETORICAL DOUBLING: vv.8–9 form a deliberate parallel — v.8 hypothetical (ἐάν + subjunctive, even apostles or angels), v.9 actualized (εἰ + present indicative, anyone preaching now). Together they form a binding oath-formula structure: pronouncing the same anathema twice intensifies its force. Paul rarely repeats himself; the doubling here signals maximum severity. NUMBER-SHIFT: v.8 'we' (Paul + missionary team), v.9 'I' (Paul personally). The shift from team to personal voice is a typical Pauline rhetorical move when applying a general principle to the immediate moment."
+    }
+  },
+  {
+    "reference": "Galatians 1:10",
+    "chapter": 1,
+    "verse": 10,
+    "greek": "Ἄρτι γὰρ ἀνθρώπους πείθω ἢ τὸν θεόν;ἢ ζητῶ ἀνθρώποις ἀρέσκειν;⸀εἰ ἔτι ἀνθρώποις ἤρεσκον,Χριστοῦ δοῦλος οὐκ ἂν ἤμην.",
+    "bsb_english": "Am I now seeking the favor of men, or of God? Or am I striving to please men? If I were still trying to please men, I would not be a servant of Christ.",
+    "translation": {
+      "thai": "เพราะบัดนี้ข้าพเจ้าแสวงหาความเห็นชอบจากมนุษย์หรือจากพระเจ้า? หรือข้าพเจ้ามุ่งหวังที่จะเอาใจมนุษย์? ถ้าข้าพเจ้ายังเอาใจมนุษย์อยู่ ข้าพเจ้าก็คงไม่ใช่บ่าวของพระคริสต์",
+      "thai_literal": null,
+      "thai_summary": "เปาโลตอบข้อกล่าวหาว่าท่านปรับข่าวประเสริฐให้ถูกใจคน—การประกาศข่าวประเสริฐที่ปลดปล่อยจากธรรมบัญญัติ (ไม่ต้องเข้าสุหนัตหรือถือพิธีกรรม) เป็นเรื่องที่ทำให้คนยิวขุ่นเคืองอย่างมาก ดังนั้นการที่เปาโลยึดมั่นในคำสอนนี้ พิสูจน์ว่าท่านมุ่งจะถวายเกียรติพระเจ้า ไม่ใช่เอาใจมนุษย์",
+      "key_decisions": [
+        {
+          "greek": "Ἄρτι γὰρ ἀνθρώπους πείθω ἢ τὸν θεόν",
+          "thai": "เพราะบัดนี้ข้าพเจ้าแสวงหาความเห็นชอบจากมนุษย์หรือจากพระเจ้า",
+          "rationale": "πείθω = persuade, win over, seek the approval of (rare absolute use here). Some commentators read 'persuade men or God [of something]' (information transfer); majority reading: 'seek the favor / approval of men or God' — i.e., who is Paul trying to satisfy? Paul anticipates and refutes a charge: 'You're a people-pleaser / political operator.' แสวงหาความเห็นชอบจาก = 'seek approval from' — captures the social-political-flattery sense. ἀνθρώπους ... θεόν fronted before the verb = emphatic contrast."
+        },
+        {
+          "greek": "ζητῶ ἀνθρώποις ἀρέσκειν",
+          "thai": "ข้าพเจ้ามุ่งหวังที่จะเอาใจมนุษย์",
+          "rationale": "ἀρέσκω = please. ζητέω + infinitive = 'seek to do.' มุ่งหวังที่จะเอาใจ = 'aim/aspire to please' — preserves the active-pursuit sense. Note: this is the second of two rhetorical questions; both expect 'NO!' as the answer."
+        },
+        {
+          "greek": "εἰ ἔτι ἀνθρώποις ἤρεσκον",
+          "thai": "ถ้าข้าพเจ้ายังเอาใจมนุษย์อยู่",
+          "rationale": "Second-class conditional (contrary to fact in present time): εἰ + imperfect indicative ... ἂν + imperfect = 'if I were still pleasing ... I would not be.' The ἔτι ('still') implies Paul USED to (in his pre-conversion Pharisaic days) please men by zealous Torah-observance, but no longer. Thai ยัง ... อยู่ = 'still ... [continuing]' captures the contrary-to-fact 'were still.'"
+        },
+        {
+          "greek": "Χριστοῦ δοῦλος",
+          "thai": "บ่าวของพระคริสต์",
+          "rationale": "δοῦλος = slave, bondservant. Rendered บ่าว consistently across our Pauline translations — ทาส (slave, raw) is technically more accurate to the social-status reality but feels harsh in Thai religious register; บ่าว (servant/bondsman) is the standard Thai biblical equivalent (literally 'attendant of a noble' — captures the honorific service Paul intends). Paul's primary self-description: he is Christ's δοῦλος, not anyone's pleaser."
+        }
+      ],
+      "notes": "CHARGE-AND-REBUTTAL: This verse signals that Paul is responding to an actual charge from his opponents — that he is a people-pleaser who watered down the gospel (e.g., dropping circumcision requirements) to make it more palatable to Gentiles. Paul's response: my message is unpopular, sometimes hated; the proof I am not pleasing men is that I am still preaching it. CONNECTION TO V.11–12: this verse functions as the hinge to the autobiographical narrative that follows. Paul will now show through his life-history that his gospel is divinely sourced (and therefore not the product of human accommodation). δοῦλος-RENDERING: บ่าว consistent with our prior Pauline + Acts use (Pauline self-description Rom 1:1, 2 Cor 4:5 will use the same)."
+    }
+  },
+  {
+    "reference": "Galatians 1:11",
+    "chapter": 1,
+    "verse": 11,
+    "greek": "Γνωρίζω ⸀γὰρ ὑμῖν,ἀδελφοί,τὸ εὐαγγέλιον τὸ εὐαγγελισθὲν ὑπ’ἐμοῦ ὅτι οὐκ ἔστιν κατὰ ἄνθρωπον·",
+    "bsb_english": "For I certify to you, brothers, that the gospel I preached was not devised by man.",
+    "translation": {
+      "thai": "พี่น้องทั้งหลาย ข้าพเจ้าขอให้ท่านทราบว่า ข่าวประเสริฐที่ข้าพเจ้าได้ประกาศนั้นไม่ได้มาจากมนุษย์",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "Γνωρίζω ... ὑμῖν",
+          "thai": "ข้าพเจ้าขอให้ท่านทราบ",
+          "rationale": "γνωρίζω = make known, declare formally. Quasi-technical formula introducing important information (cf. 1 Cor 12:3, 15:1, 2 Cor 8:1). ขอให้ท่านทราบ = 'I want you to know / I make known to you' — formal-declarative force preserved."
+        },
+        {
+          "greek": "γὰρ",
+          "thai": "[absorbed into transition]",
+          "rationale": "TEXTUAL VARIANT: SBLGNT reads γάρ; some witnesses (incl. p46, אc) read δέ. Both are mild connectives here; γάρ explanatory ('for [as I will now show]') vs. δέ transitional ('now / and'). Thai sentence flow naturally absorbs the connective without needing a separate word — the rhetorical pivot from charge-rebuttal (v.10) to autobiographical evidence (vv.11–24) is conveyed by the shift in subject matter."
+        },
+        {
+          "greek": "ἀδελφοί",
+          "thai": "พี่น้องทั้งหลาย",
+          "rationale": "Address-vocative, generic-inclusive. Thai พี่น้องทั้งหลาย = 'brothers and sisters all' — standard inclusive Christian Thai address. Note: this is the FIRST time Paul addresses them as ἀδελφοί in this letter — the warm address, after the sharp opening, signals a tonal shift toward pastoral persuasion."
+        },
+        {
+          "greek": "τὸ εὐαγγέλιον τὸ εὐαγγελισθὲν ὑπ’ ἐμοῦ",
+          "thai": "ข่าวประเสริฐที่ข้าพเจ้าได้ประกาศ",
+          "rationale": "Cognate construction: 'the gospel that was gospel-preached by me' — characteristic Pauline accumulation. Aorist passive participle εὐαγγελισθέν = was-evangelized (perfect aspect of completed proclamation). ที่ข้าพเจ้าได้ประกาศ = 'that I [past-perfective] proclaimed.' The ὑπό + genitive of agent is preserved as 'by me' (active in Thai)."
+        },
+        {
+          "greek": "οὐκ ἔστιν κατὰ ἄνθρωπον",
+          "thai": "ไม่ได้มาจากมนุษย์",
+          "rationale": "κατὰ + accusative here = 'in accordance with / after the pattern of / from a human source.' BSB: 'devised by man' (paraphrastic). The Thai ไม่ได้มาจากมนุษย์ = 'does not come from man' — emphasizes source-of-origin (matching the polemical thrust of vv.1, 12). The κατά could also be read as 'according to a human standard / not a human invention'; both senses cohere with Paul's argument that the gospel originated divinely."
+        }
+      ],
+      "notes": "AUTOBIOGRAPHICAL NARRATIVE OPENS: vv. 11–24 + ch. 2 are an extended apostolic-credentials narrative — Paul recounts his Damascus-road conversion, his independence from Jerusalem authorities, his three-year sojourn in Arabia, his eventual Jerusalem visit only after maturity, his later confrontation with Peter at Antioch. The narrative is itself the argument: my gospel cannot be a human invention because the historical timeline rules out human teachers. WARM ADDRESS: ἀδελφοί here is the first since v.2 — Paul shifts from accusatory tone to pastoral persuasion, even while continuing the polemical content."
+    }
+  },
+  {
+    "reference": "Galatians 1:12",
+    "chapter": 1,
+    "verse": 12,
+    "greek": "οὐδὲ γὰρ ἐγὼ παρὰ ἀνθρώπου παρέλαβον αὐτό,⸀οὔτε ἐδιδάχθην,ἀλλὰ δι’ἀποκαλύψεως Ἰησοῦ Χριστοῦ.",
+    "bsb_english": "I did not receive it from any man, nor was I taught it; rather, I received it by revelation from Jesus Christ.",
+    "translation": {
+      "thai": "เพราะข้าพเจ้าไม่ได้รับข่าวประเสริฐนั้นจากมนุษย์คนใด และไม่มีใครสอนข้าพเจ้า แต่ได้รับโดยการเปิดเผยจากพระเยซูคริสต์",
+      "thai_literal": null,
+      "thai_summary": "เปาโลปฏิเสธทั้งสองทางที่ครูปกติจะได้รับความรู้ในโลกโบราณ—การ ‘รับ’ (παραλαμβάνω) จากการสืบทอดประเพณี และการ ‘ถูกสอน’ (διδάσκω) ในห้องเรียนของรับบี ข่าวประเสริฐของท่านมาโดยตรงจากพระเยซูคริสต์เอง คือ ‘การเปิดเผย’ ที่ดามัสกัส (กิจการ 9)",
+      "key_decisions": [
+        {
+          "greek": "οὐδὲ γὰρ ἐγὼ παρὰ ἀνθρώπου παρέλαβον αὐτό",
+          "thai": "เพราะข้าพเจ้าไม่ได้รับข่าวประเสริฐนั้นจากมนุษย์คนใด",
+          "rationale": "παραλαμβάνω = 'receive' (technical term for tradition-reception, the standard rabbinic word for receiving teaching from a teacher; cf. 1 Cor 15:3 'I delivered to you what I also received'). EMPHATIC ἐγώ pronoun preserves the personal denial. Thai ข้าพเจ้า + the explicit 'ข่าวประเสริฐนั้น' restored from context (the αὐτό 'it' refers back to v.11 εὐαγγέλιον). จากมนุษย์คนใด = 'from any human being.'"
+        },
+        {
+          "greek": "οὔτε ἐδιδάχθην",
+          "thai": "และไม่มีใครสอนข้าพเจ้า",
+          "rationale": "διδάσκω aorist passive = 'I was [not] taught.' Pairs with παρέλαβον — Paul denies BOTH modes by which one normally acquires religious teaching: tradition-reception AND classroom-instruction. TEXTUAL VARIANT: SBLGNT reads οὔτε; some witnesses (incl. some Byzantine) read οὐδέ. Both are 'nor.' Following SBLGNT. Thai recasts as active-with-impersonal-subject ('no one taught me') for natural Thai flow — semantically identical."
+        },
+        {
+          "greek": "δι’ ἀποκαλύψεως Ἰησοῦ Χριστοῦ",
+          "thai": "โดยการเปิดเผยจากพระเยซูคริสต์",
+          "rationale": "INTERPRETIVE CRUX: ἀποκάλυψις Ἰησοῦ Χριστοῦ — ambiguous genitive: (a) SUBJECTIVE — 'a revelation FROM Jesus Christ' (Christ as the revealer; cf. v.16 'reveal his Son'), (b) OBJECTIVE — 'a revelation OF Jesus Christ' (Christ as the content revealed), (c) BOTH. Modern majority view: subjective with objective overtones — Christ is BOTH the agent of the revelation AND its content. Thai โดยการเปิดเผยจาก = 'by the revelation from' tilts toward the subjective reading without excluding the objective. (See discussion under translator_decisions if a future doc is added on Pauline ἀποκάλυψις.)"
+        }
+      ],
+      "notes": "TWO-MODE DENIAL: 'I did not receive it from anyone, nor was I taught it' rules out both (a) tradition-transmission (παραλαμβάνω is the technical term, cf. 1 Cor 15:3, 11:23 — tradition-chains traceable to apostolic eyewitnesses) AND (b) didactic instruction (διδάσκω — formal teacher-student transmission). Paul rules out the two normal channels of religious authority in his world. INTERPRETIVE CRUX (genitive of ἀποκάλυψις Ἰησοῦ Χριστοῦ): subjective genitive (Christ as revealer) is the majority view, supported by the parallel in v.16 (God reveals his Son in/to Paul). Thai preserves the subjective reading without excluding the objective. KEY-TERM ESTABLISHED: ἀποκάλυψις → การเปิดเผย (Pauline corpus standard). Will recur Rom 2:5; 8:19; 16:25; 1 Cor 1:7; 14:6, 26; 2 Cor 12:1, 7; Gal 2:2; Eph 1:17; 3:3; 2 Thess 1:7."
+    }
+  },
+  {
+    "reference": "Galatians 1:13",
+    "chapter": 1,
+    "verse": 13,
+    "greek": "Ἠκούσατε γὰρ τὴν ἐμὴν ἀναστροφήν ποτε ἐν τῷ Ἰουδαϊσμῷ,ὅτι καθ’ὑπερβολὴν ἐδίωκον τὴν ἐκκλησίαν τοῦ θεοῦ καὶ ἐπόρθουν αὐτήν,",
+    "bsb_english": "For you have heard of my former way of life in Judaism, how severely I persecuted the church of God and tried to destroy it.",
+    "translation": {
+      "thai": "พวกท่านได้ยินถึงวิถีชีวิตในอดีตของข้าพเจ้าเมื่อยังถือศาสนายูดาห์ว่า ข้าพเจ้าได้ข่มเหงคริสตจักรของพระเจ้าอย่างเหลือล้น และพยายามทำลายคริสตจักรนั้น",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "τὴν ἐμὴν ἀναστροφήν",
+          "thai": "วิถีชีวิตของข้าพเจ้า",
+          "rationale": "ἀναστροφή = manner of life, conduct, way of living (literally 'turning oneself this-way-and-that' through life). Standard Hellenistic-Jewish term for moral-religious lifestyle. วิถีชีวิต = 'way / path of life' — natural Thai for a comprehensive life-pattern. Paul places ἐμήν 'my' in possessive-emphatic position before the noun."
+        },
+        {
+          "greek": "ποτε ἐν τῷ Ἰουδαϊσμῷ",
+          "thai": "เมื่อยังถือศาสนายูดาห์",
+          "rationale": "ποτέ = formerly, at one time. Ἰουδαϊσμός is RARE — only here and v.14 in NT (also a few times in 2-4 Maccabees in LXX/deuterocanonical). It denotes Judaism as a comprehensive religio-cultural system, not just ethnic Jewishness. ศาสนายูดาห์ = 'religion-of-Judah / Judaism' (the standard modern Thai religious-studies term). Thai เมื่อยัง... = 'when [I was] still' captures the ποτέ adverbial force. The เมื่อยังถือ ('when [I] still observed/practiced') makes the active-religious sense explicit."
+        },
+        {
+          "greek": "καθ’ ὑπερβολὴν",
+          "thai": "อย่างเหลือล้น",
+          "rationale": "καθ' ὑπερβολήν = idiom for 'beyond measure / excessively / to an extreme' (cf. Rom 7:13; 1 Cor 12:31; 2 Cor 1:8; 4:7, 17). อย่างเหลือล้น = 'overflowingly / beyond measure' — natural Thai intensifier, captures the excess-of-zeal."
+        },
+        {
+          "greek": "ἐδίωκον τὴν ἐκκλησίαν τοῦ θεοῦ",
+          "thai": "ข่มเหงคริสตจักรของพระเจ้า",
+          "rationale": "διώκω imperfect = ongoing/repeated persecution (not a single event). Same word Paul uses of his pre-conversion activity in 1 Cor 15:9, Phil 3:6, 1 Tim 1:13. ข่มเหง = 'persecute / harass / oppress' (standard Thai for religious persecution; same rendering as Acts διώκω passages). คริสตจักรของพระเจ้า = 'church of God' (consistent with 1 Tim 3:5, 15)."
+        },
+        {
+          "greek": "ἐπόρθουν αὐτήν",
+          "thai": "พยายามทำลายคริสตจักรนั้น",
+          "rationale": "πορθέω (3x NT — v.13, v.23, Acts 9:21, all of Paul's pre-conversion violence) = ravage, destroy, devastate. RARE WORD with classical military overtones (sacking a city). Imperfect tense = was-trying-to / kept-attempting. พยายามทำลาย = 'tried to destroy' — the conative-imperfect force preserved (his project was destruction, even if he did not fully succeed). Note the verbal pair ἐδίωκον ... ἐπόρθουν: the persecution was overt action; the destruction was its goal."
+        }
+      ],
+      "notes": "RARE WORD: πορθέω (3x NT, all of Paul's pre-conversion activity — Acts 9:21; Gal 1:13, 23). Classical Greek = ravage, sack, devastate (military/political violence). Hardly ever used metaphorically — its use here underscores the violent literalness of Paul's pre-conversion campaign. SEMANTIC-FIELD MARKER: this verse establishes Ἰουδαϊσμός → ศาสนายูดาห์ (will recur in v.14). The single Pauline term for the religious system Paul left behind — distinct from 'the Jews' (Ἰουδαῖοι, ethnic-people-marker) and 'Israel' (Ἰσραήλ, covenant-name). RHETORICAL FUNCTION: by appealing to what the Galatians have already heard ('you have heard'), Paul cites public testimony as evidence — his pre-conversion violence is undisputed historical fact, well-known across the early Christian movement (cf. Acts 9:13–14, 21, 26). This makes his transformation into a gospel-preacher all the more strikingly attributable to divine intervention."
+    }
+  },
+  {
+    "reference": "Galatians 1:14",
+    "chapter": 1,
+    "verse": 14,
+    "greek": "καὶ προέκοπτον ἐν τῷ Ἰουδαϊσμῷ ὑπὲρ πολλοὺς συνηλικιώτας ἐν τῷ γένει μου,περισσοτέρως ζηλωτὴς ὑπάρχων τῶν πατρικῶν μου παραδόσεων.",
+    "bsb_english": "I was advancing in Judaism beyond many of my contemporaries and was extremely zealous for the traditions of my fathers.",
+    "translation": {
+      "thai": "ข้าพเจ้าก้าวหน้าในศาสนายูดาห์เหนือเพื่อนรุ่นเดียวกันหลายคนในชนชาติของข้าพเจ้า เพราะมีใจเคร่งครัดในธรรมเนียมของบรรพบุรุษของข้าพเจ้าอย่างยิ่ง",
+      "thai_literal": null,
+      "thai_summary": "เปาโลไม่ใช่ยิวธรรมดา—ท่านเป็นรับบีหนุ่มที่ก้าวหน้าเร็วที่สุดในรุ่นเดียวกัน เคร่งครัดในธรรมบัญญัติยิ่งกว่าใคร ๆ การที่คนแบบนี้กลับใจมาประกาศข่าวประเสริฐที่ปลดปล่อยจากธรรมบัญญัติ จึงเป็นพยานที่ทรงพลังว่ามีบางสิ่งบางอย่างที่ทรงพลังมากกว่าธรรมบัญญัติได้ทรงเปลี่ยนแปลงท่าน",
+      "key_decisions": [
+        {
+          "greek": "προέκοπτον",
+          "thai": "ก้าวหน้า",
+          "rationale": "προκόπτω imperfect = was-progressing, advancing (originally a metallurgical term: hammering metal forward, then metaphorical 'making progress'). Imperfect tense = ongoing past — Paul WAS climbing the religious-academic ladder. ก้าวหน้า = 'advance / progress' (standard Thai for academic-vocational advancement)."
+        },
+        {
+          "greek": "ὑπὲρ πολλοὺς συνηλικιώτας",
+          "thai": "เหนือเพื่อนรุ่นเดียวกันหลายคน",
+          "rationale": "ὑπέρ + accusative = 'beyond / above / surpassing.' συνηλικιώτης (HAPAX in NT) = compound σύν (with) + ἡλικιώτης (one of the same age) = 'contemporary, peer, age-mate.' Classical Greek confirms the meaning. เหนือเพื่อนรุ่นเดียวกัน = 'above contemporaries / age-peers' — natural Thai for academic-cohort framing."
+        },
+        {
+          "greek": "ἐν τῷ γένει μου",
+          "thai": "ในชนชาติของข้าพเจ้า",
+          "rationale": "γένος = race, nation, people (here = the Jewish people). 'In my own people-group' marks Paul's social-ethnic context. ชนชาติของข้าพเจ้า = 'my people / nation' (Thai standard for ethnos-people-group)."
+        },
+        {
+          "greek": "περισσοτέρως ζηλωτὴς ὑπάρχων",
+          "thai": "เพราะมีใจเคร่งครัด ... อย่างยิ่ง",
+          "rationale": "Causal participle (ὑπάρχων present): 'being more abundantly a zealot.' ζηλωτής = zealot — but here NOT the political-revolutionary movement (the Zealot party of Acts 1:13; Luke 6:15 sense); rather a generalized 'zealous-for-the-traditions' devotee. Same Thai rendering as Acts 22:3 — มีใจเคร่งครัด ('have a strict/zealous heart'). περισσοτέρως comparative = 'more exceedingly' — อย่างยิ่ง captures the intensifier. เพราะ supplies the causal sense of the participle."
+        },
+        {
+          "greek": "τῶν πατρικῶν μου παραδόσεων",
+          "thai": "ธรรมเนียมของบรรพบุรุษของข้าพเจ้า",
+          "rationale": "πατρικός (HAPAX in NT) = 'of-the-fathers, ancestral, paternal.' Adjective from πατήρ. Distinguished from πατρῷος (Acts 22:3, 24:14, 28:17) which means basically the same thing. παράδοσις = tradition (cf. Mark 7:3, 5, 8, 9, 13; Matt 15:2, 3, 6 — same lexical pair, where Jesus criticizes the παράδοσιν τῶν πρεσβυτέρων). Paul's pre-conversion devotion: not just to Torah, but to the rabbinic-Pharisaic tradition surrounding it. ธรรมเนียมของบรรพบุรุษ = 'tradition of ancestors' (consistent with Mark 7 / Matt 15)."
+        }
+      ],
+      "notes": "TWO HAPAX LEGOMENA: (1) συνηλικιώτης 'contemporary/peer' (compound σύν + ἡλικιώτης) — meaning secure from classical Greek (Polybius, Josephus). (2) πατρικός 'ancestral / of the fathers' (adjective from πατήρ) — meaning secure; alternative πατρῷος is the more common NT word for 'ancestral.' BIOGRAPHICAL CONTEXT: cf. Phil 3:5–6 — Paul as 'Hebrew of Hebrews, as to the law a Pharisee, as to zeal a persecutor of the church.' This verse picks up that pre-conversion identity precisely. ZEALOTISM (general not party): ζηλωτής here is generalized fervor (cf. Acts 21:20 'all zealous for the law'), not membership in the political Zealot movement (which crystallized in the 60s CE — too late for Paul's pre-conversion days)."
+    }
+  },
+  {
+    "reference": "Galatians 1:15",
+    "chapter": 1,
+    "verse": 15,
+    "greek": "ὅτε δὲ ⸀εὐδόκησεν ὁ ἀφορίσας με ἐκ κοιλίας μητρός μου καὶ καλέσας διὰ τῆς χάριτος αὐτοῦ",
+    "bsb_english": "But when God, who set me apart from my mother’s womb and called me by His grace, was pleased",
+    "translation": {
+      "thai": "แต่เมื่อพระเจ้า ผู้ทรงแยกข้าพเจ้าออกไว้ตั้งแต่อยู่ในครรภ์มารดาของข้าพเจ้า และทรงเรียกข้าพเจ้าโดยพระคุณของพระองค์ ทรงพอพระทัยที่จะ",
+      "thai_literal": null,
+      "thai_summary": "ภาษาที่เปาโลใช้ในข้อนี้ดึงมาจากการเรียกของผู้เผยพระวจนะในพันธสัญญาเดิม—‘แยกข้าพเจ้าออกตั้งแต่อยู่ในครรภ์’ สะท้อนเอเรมีย์ 1:5 (‘ก่อนที่เจ้าจะออกจากครรภ์ เราได้แยกเจ้าไว้แล้ว’) และอิสยาห์ 49:1 (‘องค์พระผู้เป็นเจ้าทรงเรียกข้าพเจ้าจากครรภ์มารดา’) เปาโลกำลังนำเสนอตัวเองว่าเป็นผู้รับใช้แบบผู้เผยพระวจนะ ซึ่งพระเจ้าทรงเลือกไว้ก่อนเกิด",
+      "key_decisions": [
+        {
+          "greek": "ὅτε δὲ εὐδόκησεν",
+          "thai": "แต่เมื่อ ... ทรงพอพระทัยที่จะ",
+          "rationale": "TEXTUAL VARIANT: SBLGNT reads simply εὐδόκησεν; some witnesses (incl. א, A, P, Byz) add ὁ θεός explicitly — 'when GOD was pleased.' SBLGNT's shorter reading is preserved; θεός is implied from context (the substantival participle 'the one who set me apart from the womb' clearly refers to God). Thai inserts 'พระเจ้า' explicitly to maintain the implicit-divine-subject clear in Thai (the substantival participle structure does not transfer cleanly without an explicit subject). δέ = transition into the divine-action contrast with v.13–14's autobiography. ทรงพอพระทัย = 'was pleased' (royal verb; standard for divine εὐδοκέω rendering)."
+        },
+        {
+          "greek": "ὁ ἀφορίσας με ἐκ κοιλίας μητρός μου",
+          "thai": "ผู้ทรงแยกข้าพเจ้าออกไว้ตั้งแต่อยู่ในครรภ์มารดาของข้าพเจ้า",
+          "rationale": "ἀφορίζω = set apart, separate, designate (cf. Rom 1:1 'set apart for the gospel of God'; Acts 13:2 'set apart for me Barnabas and Saul'). ἐκ κοιλίας μητρός = 'from the mother's womb' — Hebraic idiom (cf. Jer 1:5 LXX πρὸ τοῦ με πλάσαι σε ἐν κοιλίᾳ ἐπίσταμαί σε; Isa 49:1 LXX ἐκ κοιλίας μητρός μου ἐκάλεσε τὸ ὄνομά μου). ทรงแยก ... ออกไว้ตั้งแต่อยู่ในครรภ์ = 'set apart from being-in-the-womb' — preserves the prenatal-designation force. Note: ทรง honorific for divine action."
+        },
+        {
+          "greek": "καὶ καλέσας διὰ τῆς χάριτος αὐτοῦ",
+          "thai": "และทรงเรียกข้าพเจ้าโดยพระคุณของพระองค์",
+          "rationale": "Aorist participle parallel to ἀφορίσας — same divine-historic-action mode. καλέω with divine subject = vocational-effective call (cf. Rom 8:30; 1 Cor 1:9; Gal 5:13). διὰ + genitive = 'through / by means of' — grace as the instrument of calling. ทรงเรียก ... โดยพระคุณ = 'called by grace' (royal verb)."
+        }
+      ],
+      "notes": "OT ALLUSION: Two clear OT echoes: (1) Jeremiah 1:5 (LXX πρὸ τοῦ με πλάσαι σε ἐν κοιλίᾳ ἐπίσταμαί σε καὶ πρὸ τοῦ σε ἐξελθεῖν ἐκ μήτρας ἡγίακά σε, προφήτην εἰς ἔθνη τέθεικά σε) — God's call of Jeremiah from the womb to be a prophet to the nations. (2) Isaiah 49:1 (LXX ἐκ κοιλίας μητρός μου ἐκάλεσε τὸ ὄνομά μου) — the Servant Song where the Servant is called from the womb. Paul deliberately frames his apostolic call in the language of the Servant-prophet OT call narratives. ADDED TO NT_OT_CITATIONS: GAL 1:15 → JER 1:5; ISA 49:1 (both allusions, paraphrastic). TEXTUAL VARIANT: TR/Byz add ὁ θεός after εὐδόκησεν (so KJV 'when it pleased God'); SBLGNT, NA28, modern critical editions read without ὁ θεός. Thai supplies 'พระเจ้า' for clarity (the substantival participle requires an explicit antecedent in Thai). PROPHETIC-VOCATION FRAME: by drawing on Jeremiah/Isaiah call-narrative language, Paul places his apostleship in the same divinely-foreordained category as the OT prophets — a strong claim against opponents who would treat it as derivative from human authorities."
+    }
+  },
+  {
+    "reference": "Galatians 1:16",
+    "chapter": 1,
+    "verse": 16,
+    "greek": "ἀποκαλύψαι τὸν υἱὸν αὐτοῦ ἐν ἐμοὶ ἵνα εὐαγγελίζωμαι αὐτὸν ἐν τοῖς ἔθνεσιν,εὐθέως οὐ προσανεθέμην σαρκὶ καὶ αἵματι,",
+    "bsb_english": "to reveal His Son in me so that I might preach Him among the Gentiles, I did not rush to consult with flesh and blood,",
+    "translation": {
+      "thai": "ทรงสำแดงพระบุตรของพระองค์ในตัวข้าพเจ้า เพื่อข้าพเจ้าจะได้ประกาศพระบุตรนั้นในหมู่คนต่างชาติ ข้าพเจ้าก็ไม่ได้ปรึกษากับเนื้อหนังและเลือดทันที",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ἀποκαλύψαι τὸν υἱὸν αὐτοῦ",
+          "thai": "ทรงสำแดงพระบุตรของพระองค์",
+          "rationale": "ἀποκαλύπτω aorist active infinitive (completing v.15's εὐδόκησεν 'was pleased to reveal'). The cognate noun ἀποκάλυψις was just used in v.12; here the verb form. ทรงสำแดง = 'reveal / make-manifest' (royal verb; consistent with our Pauline rendering of revelation-vocabulary). พระบุตร = 'the Son' (with พระ honorific divine prefix)."
+        },
+        {
+          "greek": "ἐν ἐμοί",
+          "thai": "ในตัวข้าพเจ้า",
+          "rationale": "INTERPRETIVE CRUX: ἐν + dative = 'in me' or 'to me' or 'through me.' Three live readings: (a) INTERIOR — inward revelation, God revealed his Son to Paul's inner-self / consciousness; (b) DATIVE-OF-RECIPIENT — 'to me' (treating ἐν as functionally equivalent to dative without preposition); (c) INSTRUMENTAL/THROUGH-ME — God revealed his Son through Paul's apostolic ministry to others. Majority view: (a) interior revelation (consistent with v.12 personal-revelation context). The (c) reading does not exclude (a); both can coexist (revelation IN Paul → revelation THROUGH Paul). Thai ในตัวข้าพเจ้า = 'in me / inside myself' preserves the interior reading without ruling out instrumental."
+        },
+        {
+          "greek": "ἵνα εὐαγγελίζωμαι αὐτὸν ἐν τοῖς ἔθνεσιν",
+          "thai": "เพื่อข้าพเจ้าจะได้ประกาศพระบุตรนั้นในหมู่คนต่างชาติ",
+          "rationale": "Purpose clause ἵνα + present subjunctive: ongoing/continuous preaching is the purpose of the revelation. αὐτόν = 'him' refers to the Son (object of preaching is Christ himself). ἐν τοῖς ἔθνεσιν = 'among the Gentiles/nations' — Paul's apostolic identity as the apostle to the Gentiles (cf. Rom 11:13; Gal 2:7–9). ในหมู่คนต่างชาติ = 'among the Gentiles' (consistent Thai rendering across Acts/Pauline corpus)."
+        },
+        {
+          "greek": "εὐθέως οὐ προσανεθέμην σαρκὶ καὶ αἵματι",
+          "thai": "ข้าพเจ้าก็ไม่ได้ปรึกษากับเนื้อหนังและเลือดทันที",
+          "rationale": "εὐθέως = immediately. προσανατίθημι middle (RARE — only here and Gal 2:6 in NT) = consult with, lay something before someone for advice/approval. The middle voice = consult-for-oneself, take counsel with. σὰρξ καὶ αἷμα = 'flesh and blood' = standard Hebraic-Jewish idiom for human beings as opposed to God/spirit (cf. Matt 16:17; 1 Cor 15:50; Eph 6:12; Heb 2:14 — variant orderings). Thai เนื้อหนังและเลือด = 'flesh and blood' (literal preservation of the idiom; consistent with our Matt 16:17 rendering). ปรึกษา = 'consult with' (captures the προσανατίθημι middle force). Note: 'εὐθέως οὐ' reads as 'I did not, [as one might expect] immediately ... ' — the not-immediate force is what Paul emphasizes."
+        }
+      ],
+      "notes": "RARE WORD: προσανατίθημι (only Gal 1:16 and Gal 2:6 in NT — both in Paul's autobiographical defense of apostolic independence). Meaning secure from classical Greek (consult with, refer to). The middle voice carries the 'take counsel with someone for one's own benefit' nuance. INTERPRETIVE CRUX (ἐν ἐμοί): three live interpretive options for the prepositional phrase. The inward-revelation reading is dominant; the through-me-as-vehicle reading is supported by the parallel purpose clause about preaching the Son to the nations. Thai preserves the interior reading while allowing the secondary instrumental sense. SEMITISM: σὰρξ καὶ αἷμα = standard Hebraic idiom for 'human being' as the limited counterpart to God. Paul's denial 'I did not consult flesh-and-blood' = 'I did not seek any human's permission or guidance' — sharpens his prior denial that the gospel came from any human source (vv. 11–12). KEY-TERM: σὰρξ καὶ αἷμα → เนื้อหนังและเลือด (consistent with Matt 16:17 lexicon entry)."
+    }
+  },
+  {
+    "reference": "Galatians 1:17",
+    "chapter": 1,
+    "verse": 17,
+    "greek": "οὐδὲ ἀνῆλθον εἰς Ἱεροσόλυμα πρὸς τοὺς πρὸ ἐμοῦ ἀποστόλους,ἀλλὰ ἀπῆλθον εἰς Ἀραβίαν,καὶ πάλιν ὑπέστρεψα εἰς Δαμασκόν.",
+    "bsb_english": "nor did I go up to Jerusalem to those who were apostles before me, but I went into Arabia and later returned to Damascus.",
+    "translation": {
+      "thai": "ทั้งไม่ได้ขึ้นไปยังกรุงเยรูซาเล็มเพื่อพบกับบรรดาอัครทูตที่อยู่มาก่อนข้าพเจ้า แต่ข้าพเจ้าได้ออกไปยังแคว้นอาระเบีย และกลับมายังเมืองดามัสกัสอีกครั้ง",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "οὐδὲ ἀνῆλθον εἰς Ἱεροσόλυμα",
+          "thai": "ทั้งไม่ได้ขึ้นไปยังกรุงเยรูซาเล็ม",
+          "rationale": "ἀνέρχομαι (3x NT — v.17, v.18, John 6:3) = go up. Standard biblical idiom for Jerusalem-bound travel (Jerusalem on a high mountain → 'going up' from any direction). ขึ้นไป = 'go up' (consistent with Thai 'going up to Jerusalem' renderings throughout the Gospels and Acts). กรุงเยรูซาเล็ม = standard Thai biblical rendering (กรุง = capital-city honorific)."
+        },
+        {
+          "greek": "πρὸς τοὺς πρὸ ἐμοῦ ἀποστόλους",
+          "thai": "เพื่อพบกับบรรดาอัครทูตที่อยู่มาก่อนข้าพเจ้า",
+          "rationale": "πρὸ ἐμοῦ ἀποστόλους = 'apostles [who were such] before me' — temporal priority acknowledged but not authoritative-priority. Paul accepts the Jerusalem apostles' chronological priority while denying any derivative-authority relationship. เพื่อพบกับ = 'to meet with' (πρός + accusative = 'to / facing'); บรรดาอัครทูตที่อยู่มาก่อนข้าพเจ้า = 'the apostles who existed before me.'"
+        },
+        {
+          "greek": "ἀλλὰ ἀπῆλθον εἰς Ἀραβίαν",
+          "thai": "แต่ข้าพเจ้าได้ออกไปยังแคว้นอาระเบีย",
+          "rationale": "ἀπέρχομαι aorist = went away (departed, with motion-away emphasis). Ἀραβία (NT only here and Gal 4:25) = the Arabian region, almost certainly the Nabatean kingdom (the territory east and south of Damascus, capital Petra). The PURPOSE of Paul's Arabian sojourn is unknown — silent meditation? immediate Gentile-mission exploration? The Bible does not say. แคว้นอาระเบีย = 'the region of Arabia' (with แคว้น region-prefix consistent with our Pauline geography — cf. Acts use of แคว้นซีเรีย, แคว้นซิลีเซีย). ออกไป = 'departed / went out' (preserves the motion-away)."
+        },
+        {
+          "greek": "καὶ πάλιν ὑπέστρεψα εἰς Δαμασκόν",
+          "thai": "และกลับมายังเมืองดามัสกัสอีกครั้ง",
+          "rationale": "ὑποστρέφω = return. πάλιν = again. The 'again' implies that Paul was previously in Damascus (consistent with Acts 9 — Damascus is where Paul's initial conversion encounter and baptism occurred). Δαμασκός = standard Thai เมืองดามัสกัส (with เมือง city-prefix, consistent with Acts 9 rendering). กลับมา ... อีกครั้ง = 'returned ... again.'"
+        }
+      ],
+      "notes": "ARABIA-SOJOURN: not mentioned in Acts (Acts 9 jumps from Paul's Damascus baptism directly to his preaching in Damascus and then to his first Jerusalem visit). The duration is implied by v.18 ('after three years' = three years from the Damascus-road encounter). The purpose remains a matter of speculation: silent retreat, prayer, exegetical reworking of OT in light of Christ, beginning Gentile mission in Nabatean territory? Paul's silence on the purpose suggests the sojourn was deliberately private — not a teaching encounter or human-derived training. RARE WORD: ἀνέρχομαι (3x NT) — meaning secure (go up). KEY-TERM: Ἀραβία → แคว้นอาระเบีย (first Pauline corpus occurrence; will recur in Gal 4:25 = Mt. Sinai-as-Arabian-mountain rendering)."
+    }
+  },
+  {
+    "reference": "Galatians 1:18",
+    "chapter": 1,
+    "verse": 18,
+    "greek": "Ἔπειτα μετὰ ⸂ἔτη τρία⸃ ἀνῆλθον εἰς Ἱεροσόλυμα ἱστορῆσαι ⸀Κηφᾶν,καὶ ἐπέμεινα πρὸς αὐτὸν ἡμέρας δεκαπέντε·",
+    "bsb_english": "Only after three years did I go up to Jerusalem to confer with Cephas, and I stayed with him fifteen days.",
+    "translation": {
+      "thai": "ครั้นต่อมาอีกสามปี ข้าพเจ้าจึงขึ้นไปยังกรุงเยรูซาเล็ม เพื่อทำความรู้จักกับเคฟาส และได้พักอยู่กับท่านสิบห้าวัน",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "Ἔπειτα μετὰ ἔτη τρία",
+          "thai": "ครั้นต่อมาอีกสามปี",
+          "rationale": "ἔπειτα = then, next (sequence-marker). μετὰ + accusative = after. THREE-YEAR INTERVAL counted from either (a) the Damascus-road conversion or (b) the return from Arabia. (a) is the more natural reading and the standard interpretation. ครั้นต่อมา = 'then, after that' (sequential marker); อีกสามปี = 'three more years' supplies the temporal-interval."
+        },
+        {
+          "greek": "ἀνῆλθον εἰς Ἱεροσόλυμα",
+          "thai": "ขึ้นไปยังกรุงเยรูซาเล็ม",
+          "rationale": "Same verb and idiom as v.17. Consistent rendering."
+        },
+        {
+          "greek": "ἱστορῆσαι Κηφᾶν",
+          "thai": "เพื่อทำความรู้จักกับเคฟาส",
+          "rationale": "ἱστορέω (HAPAX in NT) = 'visit (a person) to make acquaintance / get to know.' Classical Greek = inquire of, learn from, visit-to-investigate. Crucially NOT 'to be taught by' (in which case Paul would use μαθητεύω or διδάσκω) but to make acquaintance — Paul's careful word-choice underscores the social-not-pedagogical nature of the visit. ทำความรู้จักกับ = 'make acquaintance with' — preserves the social-introductory force without implying pedagogical subordination. TEXTUAL VARIANT: SBLGNT reads Κηφᾶν (Cephas, the Aramaic name); some witnesses (incl. א, A, K, P, Byz) read Πέτρον (Peter, the Greek name). Same person; SBLGNT's Aramaic is preserved as เคฟาส (Cephas — Aramaic-original honored, distinguishes the verse from later 1Cor passages where Paul uses both names interchangeably)."
+        },
+        {
+          "greek": "καὶ ἐπέμεινα πρὸς αὐτὸν ἡμέρας δεκαπέντε",
+          "thai": "และได้พักอยู่กับท่านสิบห้าวัน",
+          "rationale": "ἐπιμένω = remain, stay (with intensification of the ἐπί prefix = 'stay-on, abide-with'). δεκαπέντε (3x NT — v.18, John 11:18, Acts 27:28) = fifteen. The fifteen-day duration is precise — long enough for personal acquaintance, far too short for a discipleship apprenticeship. Paul's specificity functions polemically: there was no time for me to receive my gospel from Peter. พักอยู่กับ = 'stayed with / lodged with' — captures the social-residence sense."
+        }
+      ],
+      "notes": "HAPAX: ἱστορέω (NT only here). Classical-attested meaning 'visit to inquire / get to know personally.' Paul's word-choice is crucial — he carefully avoids any verb that would imply pedagogical relationship with Peter. The visit is social-introductory, not a teaching apprenticeship. CHRONOLOGY: 'After three years' (most likely from the Damascus-road encounter) → first Jerusalem visit. This corresponds to Acts 9:26–30, which describes Paul's first Jerusalem visit as ending in his Tarsus-bound departure due to a Hellenistic-Jewish murder plot. The fifteen-day duration here matches the brief, threatened-life-cut-short visit of Acts 9. NAME-CHOICE Κηφᾶς (vs. Πέτρος): SBLGNT's Aramaic name is preserved. Paul uses both Κηφᾶς (Gal 1:18; 2:9, 11, 14; 1 Cor 1:12; 3:22; 9:5; 15:5) and Πέτρος (Gal 2:7, 8). The Aramaic preference here may underscore Peter's identity as a Jewish-apostle from Galilee — Paul's polemical use of the Semitic name to keep the cultural-historical horizon visible. Thai เคฟาส (Cephas) consistent with John 1:42 rendering of σὺ κληθήσῃ Κηφᾶς. KEY-TERM: this verse establishes the Cephas-rendering for future Pauline occurrences."
+    }
+  },
+  {
+    "reference": "Galatians 1:19",
+    "chapter": 1,
+    "verse": 19,
+    "greek": "ἕτερον δὲ τῶν ἀποστόλων οὐκ εἶδον,εἰ μὴ Ἰάκωβον τὸν ἀδελφὸν τοῦ κυρίου.",
+    "bsb_english": "But I saw none of the other apostles except James, the Lord’s brother.",
+    "translation": {
+      "thai": "แต่ข้าพเจ้าไม่ได้พบกับอัครทูตคนอื่นเลย นอกจากยากอบ น้องชายขององค์พระผู้เป็นเจ้า",
+      "thai_literal": null,
+      "thai_summary": "ในการเยี่ยมกรุงเยรูซาเล็มครั้งแรกของเปาโล ท่านพบเพียงสองคน—เคฟาส (เปโตร) และยากอบ น้องชายขององค์พระเยซูคริสต์ ยากอบคนนี้ไม่ใช่หนึ่งในสิบสองคน แต่เป็นน้องชายแท้ของพระเยซู ผู้ที่ภายหลังกลายเป็นผู้นำของคริสตจักรในกรุงเยรูซาเล็ม (กิจการ 12:17, 15:13, 21:18)",
+      "key_decisions": [
+        {
+          "greek": "ἕτερον δὲ τῶν ἀποστόλων οὐκ εἶδον",
+          "thai": "แต่ข้าพเจ้าไม่ได้พบกับอัครทูตคนอื่นเลย",
+          "rationale": "ἕτερον (sing. accusative) = 'another / [any] other one.' Note: SAME WORD ἕτερος as in v.6's 'different gospel' but here clearly a generic 'other' rather than a different-in-kind contrast. Paul's grammar: 'another of the apostles I did not see.' ไม่ได้พบกับ ... คนอื่นเลย = 'did not meet any other one.' Adding เลย ('at all') intensifies the negation, capturing the οὐκ + ἕτερον force."
+        },
+        {
+          "greek": "εἰ μὴ Ἰάκωβον τὸν ἀδελφὸν τοῦ κυρίου",
+          "thai": "นอกจากยากอบ น้องชายขององค์พระผู้เป็นเจ้า",
+          "rationale": "εἰ μή = except. Ἰάκωβος = standard Thai ยากอบ (with consistent transliteration across our corpus). τὸν ἀδελφὸν τοῦ κυρίου = 'the brother of the Lord' — the Jacobean James (NOT James son of Zebedee, who was already martyred or possibly still alive; NOT James son of Alphaeus). This is JAMES THE BROTHER OF JESUS, who became the leading elder of the Jerusalem church (Acts 12:17; 15:13; 21:18). น้องชาย = 'younger brother' (Thai default for אַחֲ siblings — unless older context overrides; here younger is the historical default since Mary's firstborn was Jesus). องค์พระผู้เป็นเจ้า = 'the Lord' (consistent rendering). PERPETUAL-VIRGINITY note: some traditions (Roman Catholic, Eastern Orthodox) interpret 'brothers' as cousins or stepbrothers (children of Joseph from a prior marriage) to preserve Mary's perpetual virginity; Protestant tradition reads as biological half-brothers. RULES §0 evangelical-Protestant alignment supports the half-brother reading. น้องชาย defaults to biological."
+        }
+      ],
+      "notes": "JAMES IDENTITY: 'James the brother of the Lord' = James the brother (or step-brother in some traditions) of Jesus. He was NOT one of the original Twelve (he is distinct from James son of Zebedee and James son of Alphaeus). Initially skeptical of Jesus during the earthly ministry (John 7:5), James was converted by a post-resurrection appearance (1 Cor 15:7) and rose to leadership in the Jerusalem church (Acts 12:17; 15:13; 21:18). PROTESTANT EVANGELICAL ALIGNMENT (RULES §0): Thai น้องชาย defaults to biological-brother reading consistent with the Protestant interpretive tradition. Roman Catholic / Eastern Orthodox traditions (perpetual virginity of Mary) interpret ἀδελφός as cousin or step-sibling. The Protestant reading does not deny Mary's virginity at conception of Jesus, only her perpetual virginity afterwards. CHRONOLOGY: this puts JAMES into the same first-Jerusalem-visit as Cephas — Paul met only these two leaders. The implication: Paul's gospel was already mature and independent before this first encounter."
+    }
+  },
+  {
+    "reference": "Galatians 1:20",
+    "chapter": 1,
+    "verse": 20,
+    "greek": "ἃ δὲ γράφω ὑμῖν,ἰδοὺ ἐνώπιον τοῦ θεοῦ ὅτι οὐ ψεύδομαι.",
+    "bsb_english": "I assure you before God that what I am writing you is no lie.",
+    "translation": {
+      "thai": "ในเรื่องที่ข้าพเจ้าเขียนถึงพวกท่านนี้ ดูเถิด ข้าพเจ้าไม่ได้พูดเท็จต่อพระพักตร์พระเจ้า",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ἃ δὲ γράφω ὑμῖν",
+          "thai": "ในเรื่องที่ข้าพเจ้าเขียนถึงพวกท่านนี้",
+          "rationale": "Neuter plural relative ἅ = 'the things which.' Standard 'concerning what I write to you ...' — refers to the autobiographical-historical claims Paul has just made (vv.13–19) which would need to be VERIFIABLE (they are matters of recent history accessible to anyone in Jerusalem). ในเรื่องที่ ... = 'in the matter that ...' supplies the topical-frame in Thai."
+        },
+        {
+          "greek": "ἰδοὺ",
+          "thai": "ดูเถิด",
+          "rationale": "ἰδού = behold, see, lo (attention-marker). Standard biblical interjection. ดูเถิด = 'behold' (consistent Thai biblical rendering)."
+        },
+        {
+          "greek": "ἐνώπιον τοῦ θεοῦ",
+          "thai": "ต่อพระพักตร์พระเจ้า",
+          "rationale": "ἐνώπιον τοῦ θεοῦ = 'in the presence/sight of God' = solemn-oath formula (cf. 1 Tim 5:21; 6:13; 2 Tim 4:1). ต่อพระพักตร์พระเจ้า = 'before the divine countenance' (royal noun พระพักตร์ for divine 'face/presence'). Standard Thai oath-formula rendering, consistent with our Pauline pastorals (1 Tim, 2 Tim) corpus."
+        },
+        {
+          "greek": "ὅτι οὐ ψεύδομαι",
+          "thai": "ข้าพเจ้าไม่ได้พูดเท็จ",
+          "rationale": "ψεύδομαι = lie, speak falsely. ὅτι introduces the content of the oath — what is being sworn to. ไม่ได้พูดเท็จ = 'do not speak falsely.' Note: this is NOT a casual aside but a LITOTES (negative-form positive assertion: 'I-am-not-lying' = 'I-am-telling-the-strict-truth')."
+        }
+      ],
+      "notes": "OATH-FORMULA: Paul interrupts his historical narrative with a solemn before-God oath. The unusual force suggests that some of the historical claims (the brevity of his Jerusalem visit; his isolation from the apostles) were either disputed or unfamiliar to the Galatians, and Paul knows that opponents might challenge them. Comparable Pauline oath-formulae: Rom 9:1 ('I am speaking the truth in Christ — I am not lying'); 2 Cor 1:23; 11:31. LITOTES: 'I am not lying' (negative form for emphatic positive assertion of truthfulness)."
+    }
+  },
+  {
+    "reference": "Galatians 1:21",
+    "chapter": 1,
+    "verse": 21,
+    "greek": "ἔπειτα ἦλθον εἰς τὰ κλίματα τῆς Συρίας καὶ τῆς Κιλικίας.",
+    "bsb_english": "Later, I went to the regions of Syria and Cilicia.",
+    "translation": {
+      "thai": "ครั้นต่อมา ข้าพเจ้าได้ไปยังเขตแคว้นซีเรียและแคว้นซิลีเซีย",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ἔπειτα",
+          "thai": "ครั้นต่อมา",
+          "rationale": "Same sequence-marker as v.18 ἔπειτα. Same Thai rendering for consistency."
+        },
+        {
+          "greek": "εἰς τὰ κλίματα τῆς Συρίας καὶ τῆς Κιλικίας",
+          "thai": "ยังเขตแคว้นซีเรียและแคว้นซิลีเซีย",
+          "rationale": "κλίμα = region, district, climate-zone (originally a geographical-meteorological term for a 'belt' or 'inclination'). τὰ κλίματα = the regions. Cf. 2 Cor 11:10 same word. เขต = 'zone / district' (Thai geographical). แคว้นซีเรีย / แคว้นซิลีเซีย = consistent with our Acts renderings (Acts 15:23, 41 etc.). Thai พระนิรนาม pluralizes naturally without need for marker. This corresponds to Paul's Tarsus-Antioch ministry of Acts 9:30 → 11:25-26."
+        }
+      ],
+      "notes": "GEOGRAPHY: Syria + Cilicia = the area where Paul ministered after his first Jerusalem visit (Acts 9:30 — Paul sent to Tarsus in Cilicia; Acts 11:25-26 — Barnabas brings him from Tarsus to Antioch in Syria, where they minister for a year). The 'regions of Syria and Cilicia' identifies this as Paul's pre-Jerusalem-Council ministry phase (before Acts 15)."
+    }
+  },
+  {
+    "reference": "Galatians 1:22",
+    "chapter": 1,
+    "verse": 22,
+    "greek": "ἤμην δὲ ἀγνοούμενος τῷ προσώπῳ ταῖς ἐκκλησίαις τῆς Ἰουδαίας ταῖς ἐν Χριστῷ,",
+    "bsb_english": "I was personally unknown, however, to the churches of Judea that are in Christ.",
+    "translation": {
+      "thai": "แต่คริสตจักรในแคว้นยูเดียซึ่งอยู่ในพระคริสต์นั้น ยังไม่รู้จักหน้าตาของข้าพเจ้า",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ἤμην ... ἀγνοούμενος τῷ προσώπῳ",
+          "thai": "ยังไม่รู้จักหน้าตาของข้าพเจ้า",
+          "rationale": "Periphrastic imperfect (ἤμην + present passive participle) = 'I was being-unknown / continuing-to-be-unknown' — durative force. ἀγνοέω passive = be unknown to. τῷ προσώπῳ = 'in / by the face' (dative of respect — synecdoche: face = whole person, but specifically the visual-recognition aspect; cf. Col 2:1 'as many as have not seen my face in the flesh'). Thai re-frames ACTIVELY: 'churches did not yet recognize my face/appearance' — natural Thai for the periphrastic-passive. ยังไม่รู้จักหน้าตา = 'did not yet know [my] face/appearance' — the synecdoche preserved (face = visual identity)."
+        },
+        {
+          "greek": "ταῖς ἐκκλησίαις τῆς Ἰουδαίας ταῖς ἐν Χριστῷ",
+          "thai": "คริสตจักรในแคว้นยูเดียซึ่งอยู่ในพระคริสต์",
+          "rationale": "QUALIFIER ταῖς ἐν Χριστῷ ('the [ones] in Christ') distinguishes the Christian assemblies from ordinary Jewish synagogues — both could be called ἐκκλησία in Greek civic usage. Paul specifies that he is referring to the CHRISTIAN congregations of Judea. แคว้นยูเดีย = 'region of Judea' (consistent rendering). ซึ่งอยู่ในพระคริสต์ = 'which are in Christ' (ἐν Χριστῷ = the iconic Pauline-Johannine spatial-mystical metaphor for union with Christ; rendered consistently with our prior corpus)."
+        }
+      ],
+      "notes": "JUDEAN CHURCHES: distinct from the Jerusalem congregation (which Paul HAD visited in v.18). The Judean churches outside Jerusalem (Bethlehem, Caesarea, Joppa, Lydda — cf. Acts 9:32-43) had not seen Paul personally. This continues the autobiographical argument: Paul was geographically separated from the heartland of the early Christian movement during the years that mattered, ruling out any human transmission of his gospel from those communities. ἐν Χριστῷ: iconic Pauline-Johannine mystical-union locative metaphor (cf. uW Galatians intro Part 3). Standard rendering อยู่ในพระคริสต์ preserves the spatial metaphor without overspecifying its meaning."
+    }
+  },
+  {
+    "reference": "Galatians 1:23",
+    "chapter": 1,
+    "verse": 23,
+    "greek": "μόνον δὲ ἀκούοντες ἦσαν ὅτι Ὁ διώκων ἡμᾶς ποτε νῦν εὐαγγελίζεται τὴν πίστιν ἥν ποτε ἐπόρθει,",
+    "bsb_english": "They only heard the account: “The man who formerly persecuted us is now preaching the faith he once tried to destroy.”",
+    "translation": {
+      "thai": "พวกเขาเพียงแต่ได้ยินคำกล่าวว่า “คนที่เคยข่มเหงเรา บัดนี้กำลังประกาศความเชื่อที่เขาเคยพยายามทำลายนั้น”",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "μόνον δὲ ἀκούοντες ἦσαν",
+          "thai": "พวกเขาเพียงแต่ได้ยินคำกล่าวว่า",
+          "rationale": "μόνον (adverb) = only. Periphrastic imperfect (ἀκούοντες ἦσαν) = were-hearing / kept-hearing — durative ongoing reports over time, not a single notification. The Judean Christians knew Paul only by REPUTATION-OVER-TIME, not personal encounter. เพียงแต่ได้ยิน = 'only heard' captures the limited-channel sense. คำกล่าว added to introduce the direct quotation that follows (Greek ὅτι is recitative-introducing-direct-discourse here)."
+        },
+        {
+          "greek": "Ὁ διώκων ἡμᾶς ποτε",
+          "thai": "คนที่เคยข่มเหงเรา",
+          "rationale": "Substantival present participle as referent — 'the [man] formerly persecuting us.' ποτέ (formerly) modifies διώκων. เคย = 'used to / formerly' (temporal-marker for past habitual action). The 'us' (1pl) is the Judean Christians' first-person — they include themselves as the object of Paul's pre-conversion violence. ข่มเหง consistent with v.13 rendering."
+        },
+        {
+          "greek": "νῦν εὐαγγελίζεται τὴν πίστιν",
+          "thai": "บัดนี้กำลังประกาศความเชื่อ",
+          "rationale": "νῦν (now) contrasts dramatically with ποτέ (formerly). εὐαγγελίζεται present middle = is-preaching (ongoing). τὴν πίστιν = 'the faith' (here = the Christian faith as a body of belief, not the subjective act of trusting; cf. Gal 3:23, 25 'before faith came / now faith has come' — same objective sense). บัดนี้ = 'now' (vivid temporal-shift). กำลังประกาศ = 'is currently proclaiming'; ความเชื่อ = 'the faith' (rendered objectively, captures the body-of-belief sense)."
+        },
+        {
+          "greek": "ἥν ποτε ἐπόρθει",
+          "thai": "ที่เขาเคยพยายามทำลายนั้น",
+          "rationale": "Same verb πορθέω as v.13 (3x NT, all of Paul's pre-conversion). ποτέ (formerly) again. Imperfect ἐπόρθει = was-trying-to-destroy (conative imperfect). พยายามทำลาย consistent with v.13 rendering. The relative clause modifies τὴν πίστιν — the same faith that he tried to destroy. The reversal-of-vocation is the punchline of the citation."
+        }
+      ],
+      "notes": "CITATION OF JUDEAN-CHRISTIAN REPORT: Paul quotes (in indirect-shifted-to-direct discourse) what the Judean Christians were saying about him. The quotation has a balanced ποτέ ... νῦν / ποτέ ('formerly ... now ... formerly') structure that highlights the dramatic reversal of his vocation. RHETORICAL FUNCTION: by appealing to what 'they were saying' (i.e., independent witnesses), Paul corroborates his autobiographical narrative — even his absence from Judea is testified-to by people who had no incentive to misrepresent. πορθέω repeats from v.13 — the lexical recurrence underscores the reversal motif (he used to destroy what he now preaches)."
+    }
+  },
+  {
+    "reference": "Galatians 1:24",
+    "chapter": 1,
+    "verse": 24,
+    "greek": "καὶ ἐδόξαζον ἐν ἐμοὶ τὸν θεόν.",
+    "bsb_english": "And they glorified God because of me.",
+    "translation": {
+      "thai": "และพวกเขาก็ถวายพระเกียรติแด่พระเจ้าเพราะข้าพเจ้า",
+      "thai_literal": null,
+      "thai_summary": "บทแรกของกาลาเทียจบลงด้วยภาพของคริสตจักรในยูเดียที่สรรเสริญพระเจ้าเพราะการกลับใจของเปาโล—ผู้ข่มเหงที่กลายมาเป็นผู้ประกาศ ข้อนี้ปิดข้อโต้แย้งของเปาโลในบทที่ 1: ข่าวประเสริฐของท่านมาจากพระเจ้าโดยตรง ไม่ใช่จากมนุษย์ และคริสตจักรในยูเดียทั้งหลายก็เป็นพยาน",
+      "key_decisions": [
+        {
+          "greek": "ἐδόξαζον ... τὸν θεόν",
+          "thai": "ถวายพระเกียรติแด่พระเจ้า",
+          "rationale": "δοξάζω imperfect = were-glorifying (durative, ongoing — sustained praise as the news spread). The Judean Christians' response to Paul's transformation was sustained doxology. ถวายพระเกียรติแด่พระเจ้า = 'offered glory to God' — uses ราชาศัพท์ ถวาย (royal verb 'offer to a deity / sovereign') for the act of offering glory to God. Consistent with our standard δοξάζω-rendering across the corpus."
+        },
+        {
+          "greek": "ἐν ἐμοί",
+          "thai": "เพราะข้าพเจ้า",
+          "rationale": "ἐν + dative = causal-instrumental here ('because of me / on account of me'). The Judean Christians' glorifying-of-God was triggered by news about Paul. เพราะ = 'because of' captures the causal sense in Thai. (Compare with v.16's ἐν ἐμοί which carries different sense — 'in me' interior. Same preposition can have different functions; context-dependent.)"
+        }
+      ],
+      "notes": "CHAPTER CLIMAX: the chapter ends with the Judean Christians glorifying God — Paul's transformation is itself doxological-evidence. This closing image functions polemically: even the Judean churches (whom Paul's opponents might claim as their authority-source) glorified God for Paul's apostolic ministry. There is no second tier of authority above Paul to which the opponents could appeal. ἐν ἐμοί CONTRAST WITH V.16: v.16 ἐν ἐμοί (interior revelation), v.24 ἐν ἐμοί (causal — because of me). Same preposition, different function. Thai context-dependent rendering preserves the difference (ในตัวข้าพเจ้า v.16; เพราะข้าพเจ้า v.24)."
+    }
+  }
+]
