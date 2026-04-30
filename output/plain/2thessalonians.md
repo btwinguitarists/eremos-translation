@@ -52,7 +52,7 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **8** และเมื่อนั้น คนอธรรมจะถูกเปิดเผย ผู้ซึ่งพระเยซูองค์พระผู้เป็นเจ้าจะทรงประหารด้วยลมพระโอษฐ์ของพระองค์ และจะทรงทำลายให้สิ้นซากด้วยการปรากฏแห่งการเสด็จมาของพระองค์
 
-**9** การมาของเขานั้นเป็นไปตามการดำเนินงานของซาตาน ด้วยฤทธิ์เดช หมายสำคัญ และการอัศจรรย์อันเป็นเท็จทุกอย่าง
+**9** การมาถึงของเขานั้นเป็นไปตามการดำเนินงานของซาตาน ด้วยฤทธิ์เดช หมายสำคัญ และการอัศจรรย์อันเป็นเท็จทุกอย่าง
 
 **10** และด้วยการล่อลวงแห่งความอธรรมทุกอย่างต่อผู้ที่กำลังพินาศ เพราะพวกเขาไม่ยอมรับความรักในความจริง อันจะเป็นเหตุให้พวกเขาได้รอด
 
@@ -119,6 +119,6 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | Chapter file | SHA-256 |
 |---|---|
 | `output/translations/2thessalonians_01.json` | `b71a33acccab25376e35421cea474fc17a09765405522424f14f9e1336419ca8` |
-| `output/translations/2thessalonians_02.json` | `c368bf58ac608684250ed2263318ad09b73e3231fad7b3a3b75978d2532aa086` |
+| `output/translations/2thessalonians_02.json` | `13f197ee426a703f768bdced0a890241ad195c99c2d2cb064cdaa8bdcecd893f` |
 | `output/translations/2thessalonians_03.json` | `93383ef8a258d9ca44a236f8ecb545155a9a638f4be659a176067d9100be4bde` |
 
