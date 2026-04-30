@@ -1,6 +1,6 @@
 # 2 เธสะโลนิกา
 
-_2 Thessalonians — 2 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
+_2 Thessalonians — 3 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
 
 _This **plain edition** shows only the Thai translation — no commentary, no Greek, no English. Intended for Thai scholars and theological reviewers evaluating the translation on its own terms. For the annotated edition with contextual summaries (บริบท), see `output/reader/2thessalonians.md`. For the underlying Greek, English (BSB) reference, and translator decisions per verse, see the per-chapter review reports at `output/check_reports/2thessalonians_NN_review.md` or the source JSON at `output/translations/`._
 
@@ -72,6 +72,46 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 ---
 
+## บทที่ 3
+
+**1** ในที่สุด พี่น้องทั้งหลาย จงอธิษฐานเพื่อพวกเรา ขอให้พระวจนะขององค์พระผู้เป็นเจ้าแพร่ไปอย่างรวดเร็วและได้รับเกียรติ เช่นเดียวกับที่เป็นไปในพวกท่าน
+
+**2** และขอให้เราได้รับการช่วยกู้จากคนนอกธรรมและคนชั่วร้าย เพราะไม่ใช่ทุกคนที่มีความเชื่อ
+
+**3** แต่องค์พระผู้เป็นเจ้าทรงสัตย์ซื่อ พระองค์จะทรงเสริมกำลังพวกท่าน และจะทรงคุ้มครองพวกท่านให้พ้นจากมารร้าย
+
+**4** และพวกเรามั่นใจในองค์พระผู้เป็นเจ้าเกี่ยวกับพวกท่านว่า สิ่งที่เรากำชับนั้น พวกท่านได้ปฏิบัติอยู่และจะปฏิบัติต่อไป
+
+**5** ขอองค์พระผู้เป็นเจ้าทรงนำจิตใจของพวกท่านให้เข้าสู่ความรักของพระเจ้า และเข้าสู่ความอดทนของพระคริสต์
+
+**6** พี่น้องทั้งหลาย เราขอกำชับพวกท่านในพระนามของพระเยซูคริสต์องค์พระผู้เป็นเจ้าของเรา ให้พวกท่านปลีกตัวออกจากพี่น้องทุกคนที่ดำเนินชีวิตอย่างไม่เป็นระเบียบ และไม่ดำเนินตามคำสอนที่ส่งทอดมา ซึ่งพวกเขาได้รับจากพวกเรา
+
+**7** เพราะพวกท่านเองก็รู้แล้วว่าควรทำตามอย่างพวกเราอย่างไร เพราะว่าพวกเราไม่ได้เกียจคร้านขณะที่อยู่กับพวกท่าน
+
+**8** เราไม่ได้กินอาหารของผู้ใดฟรี ๆ แต่ทำงานด้วยความลำบากตรากตรำ ทั้งกลางคืนและกลางวัน เพื่อจะไม่เป็นภาระแก่ใครในพวกท่าน
+
+**9** ไม่ใช่เพราะเราไม่มีสิทธิ์ที่จะรับ แต่เพื่อที่จะทำตัวเราเองให้เป็นแบบอย่างแก่พวกท่าน เพื่อพวกท่านจะได้ทำตามอย่างพวกเรา
+
+**10** เพราะแม้ในขณะที่เรายังอยู่กับพวกท่าน เราก็ได้กำชับพวกท่านอย่างนี้ว่า “ถ้าผู้ใดไม่ยอมทำงาน ก็อย่าให้ผู้นั้นกิน”
+
+**11** เพราะเราได้ยินว่ามีบางคนในพวกท่านที่ดำเนินชีวิตอย่างไม่เป็นระเบียบ ไม่ทำงานเลย แต่กลับไปยุ่งวุ่นวายในเรื่องของคนอื่น
+
+**12** แต่คนเช่นนั้น เราขอกำชับและขอวิงวอนในพระเยซูคริสต์องค์พระผู้เป็นเจ้าว่า ขอให้พวกเขาทำงานอย่างสงบและกินอาหารของตนเอง
+
+**13** ส่วนพวกท่าน พี่น้องทั้งหลาย อย่าท้อใจในการทำดี
+
+**14** ถ้ามีผู้ใดไม่เชื่อฟังคำของเราที่มีอยู่ในจดหมายฉบับนี้ จงสังเกตจดจำคนนั้นไว้ และอย่าคบหากับเขา เพื่อเขาจะได้ละอายใจ
+
+**15** และอย่าถือว่าเขาเป็นศัตรู แต่จงตักเตือนเขาเหมือนเป็นพี่น้อง
+
+**16** ขอองค์พระผู้เป็นเจ้าแห่งสันติสุขเองทรงประทานสันติสุขแก่พวกท่านในทุกเวลาและในทุกวิถีทาง ขอองค์พระผู้เป็นเจ้าทรงสถิตอยู่กับพวกท่านทุกคน
+
+**17** คำทักทายนี้เป็นลายมือของข้าพเจ้าเอง — เปาโล ซึ่งเป็นเครื่องหมายของจดหมายทุกฉบับของข้าพเจ้า ข้าพเจ้าเขียนเช่นนี้
+
+**18** ขอพระคุณของพระเยซูคริสต์องค์พระผู้เป็นเจ้าของเรา จงดำรงอยู่กับพวกท่านทุกคน
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -80,4 +120,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 |---|---|
 | `output/translations/2thessalonians_01.json` | `b71a33acccab25376e35421cea474fc17a09765405522424f14f9e1336419ca8` |
 | `output/translations/2thessalonians_02.json` | `c368bf58ac608684250ed2263318ad09b73e3231fad7b3a3b75978d2532aa086` |
+| `output/translations/2thessalonians_03.json` | `93383ef8a258d9ca44a236f8ecb545155a9a638f4be659a176067d9100be4bde` |
 
