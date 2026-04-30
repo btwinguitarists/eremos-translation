@@ -1,6 +1,6 @@
 # กาลาเทีย
 
-_Galatians — 5 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
+_Galatians — 6 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
 
 _This **plain edition** shows only the Thai translation — no commentary, no Greek, no English. Intended for Thai scholars and theological reviewers evaluating the translation on its own terms. For the annotated edition with contextual summaries (บริบท), see `output/reader/galatians.md`. For the underlying Greek, English (BSB) reference, and translator decisions per verse, see the per-chapter review reports at `output/check_reports/galatians_NN_review.md` or the source JSON at `output/translations/`._
 
@@ -288,6 +288,46 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 ---
 
+## บทที่ 6
+
+**1** พี่น้องทั้งหลาย ถ้าผู้ใดถูกพบว่ามีการล่วงละเมิดในเรื่องใด ท่านที่เป็นผู้มีจิตวิญญาณก็จงฟื้นฟูคนเช่นนั้นด้วยน้ำใจสุภาพอ่อนโยน โดยที่ท่านเองก็จงระวังตน เกรงว่าท่านจะถูกทดลองเช่นกัน
+
+**2** จงแบกภาระของกันและกัน ดังนั้นพวกท่านก็จะทำให้ธรรมบัญญัติของพระคริสต์สำเร็จลุล่วง
+
+**3** เพราะถ้าผู้ใดคิดว่าตนเองเป็นคนสำคัญทั้ง ๆ ที่ไม่ได้เป็นอะไรเลย เขาก็หลอกลวงตนเอง
+
+**4** แต่ขอให้แต่ละคนตรวจสอบการกระทำของตนเอง แล้วเขาจะมีเหตุภูมิใจในตนเองเพียงผู้เดียว ไม่ใช่ในการเปรียบเทียบกับผู้อื่น
+
+**5** เพราะแต่ละคนจะต้องแบกภาระของตนเอง
+
+**6** ผู้ที่ได้รับการสอนพระวจนะก็จงร่วมแบ่งปันในสิ่งดีทั้งปวงกับผู้สอนนั้น
+
+**7** อย่าหลงผิดเลย พระเจ้าไม่ทรงให้ใครเย้ยหยันได้ เพราะมนุษย์หว่านสิ่งใด ก็จะเก็บเกี่ยวสิ่งนั้น
+
+**8** เพราะผู้ที่หว่านลงในเนื้อหนังของตน ก็จะเก็บเกี่ยวความเสื่อมสลายจากเนื้อหนังนั้น แต่ผู้ที่หว่านลงในพระวิญญาณ ก็จะเก็บเกี่ยวชีวิตนิรันดร์จากพระวิญญาณนั้น
+
+**9** อย่าให้พวกเราเหนื่อยล้าในการทำสิ่งที่ดี เพราะถ้าเราไม่ท้อถอย เราก็จะได้เก็บเกี่ยวในเวลาอันสมควร
+
+**10** ดังนั้น เมื่อเรามีโอกาส ก็ขอให้พวกเรากระทำดีต่อทุกคน โดยเฉพาะอย่างยิ่งต่อครอบครัวของความเชื่อ
+
+**11** ดูเถิด ข้าพเจ้าได้เขียนถึงพวกท่านด้วยตัวอักษรขนาดใหญ่เพียงใดด้วยมือของข้าพเจ้าเอง
+
+**12** บรรดาผู้ที่ต้องการสร้างภาพที่ดูดีตามเนื้อหนัง ก็พยายามบังคับพวกท่านให้เข้าสุหนัต เพียงเพื่อจะไม่ถูกข่มเหงเพราะกางเขนของพระคริสต์
+
+**13** เพราะแม้แต่พวกที่เข้าสุหนัตเองก็ไม่ได้ถือรักษาธรรมบัญญัติ แต่พวกเขาต้องการให้พวกท่านเข้าสุหนัต เพื่อจะได้อวดในเนื้อหนังของพวกท่าน
+
+**14** แต่ขอข้าพเจ้าไม่มีทางอวดในสิ่งใดเลย นอกจากในกางเขนของพระเยซูคริสต์องค์พระผู้เป็นเจ้าของเรา โดยทางกางเขนนั้น โลกได้ถูกตรึงไว้แก่ข้าพเจ้า และข้าพเจ้าก็ถูกตรึงไว้แก่โลกแล้ว
+
+**15** เพราะการเข้าสุหนัตหรือการไม่ได้เข้าสุหนัตก็ไม่มีคุณค่าใด ๆ มีแต่การทรงสร้างใหม่เท่านั้น
+
+**16** และทุกคนที่ดำเนินตามมาตรฐานนี้ ขอสันติสุขและพระเมตตาจงมีแก่พวกเขา และแก่อิสราเอลของพระเจ้า
+
+**17** ตั้งแต่นี้ไป ขออย่าให้ผู้ใดมาก่อความลำบากแก่ข้าพเจ้าอีกเลย เพราะข้าพเจ้าแบกรอยตราของพระเยซูไว้ในกายของข้าพเจ้าแล้ว
+
+**18** พี่น้องทั้งหลาย ขอพระคุณของพระเยซูคริสต์องค์พระผู้เป็นเจ้าของเราจงดำรงอยู่กับจิตวิญญาณของพวกท่านเทอญ อาเมน
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -299,4 +339,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/galatians_03.json` | `f801401758fdf4a581484ea509024725a3a4242acb42624cac27a998b6894fa4` |
 | `output/translations/galatians_04.json` | `f753b984c0762e951c870ceda85b392f7da899250a8536b5fe9c8a8783ba6d06` |
 | `output/translations/galatians_05.json` | `8c554130d8819be2bff95cf6657734f4da7ec53e27845623688ad63407121424` |
+| `output/translations/galatians_06.json` | `6b1196188415fcfeb00baf3fd3ac4b622583f39c874fc47c056b72ac7c584e91` |
 
