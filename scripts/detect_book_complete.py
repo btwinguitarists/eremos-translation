@@ -126,6 +126,35 @@ This produces `docs/end_of_book/__SLUG__/external_review_packet___BOOK_____TODAY
 sized for free-tier AI ceilings (~20K chars). Verify it built; do not commit
 the packet if the items doc is empty.
 
+### 4. YAML reviewer-question PR
+
+After the items doc is finalized:
+
+```
+python3 scripts/audit_items_to_yaml.py __BOOK__
+```
+
+Emits one `output/review_questions___SLUG__/<id>.yml` per item, matching the
+schema EremosVercel2's `shared/review-questions/` consumes. Every Thai field
+is `__TODO_TH__` — fill those in (translate topic / question / text_prompt /
+body to Thai) before copying to EremosVercel2.
+
+Then in `~/EremosVercel2`:
+
+```
+git checkout main && git pull
+git checkout -b feat/review-questions-__SLUG__-audit
+cp ~/thai-bible-ai/output/review_questions___SLUG__/*.yml shared/review-questions/
+git add shared/review-questions/
+git commit -m "feat: add review questions from __BOOK__ end-of-book audit"
+git push -u origin feat/review-questions-__SLUG__-audit
+gh pr create --title "feat: add review questions from __BOOK__ end-of-book audit"
+```
+
+The PR body should list each new question id + tier + topic. The build-time
+generator (`script/build-review-questions.ts`) regenerates
+`shared/review-questions-generated.ts` on `npm run check` / `npm run build`.
+
 ## Branch + PR convention
 
 1. `git checkout -b end-of-book-review-__SLUG__-audit` (note the `-audit` suffix —
