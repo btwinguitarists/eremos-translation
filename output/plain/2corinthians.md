@@ -1,6 +1,6 @@
 # 2 โครินธ์
 
-_2 Corinthians — 12 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
+_2 Corinthians — 13 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
 
 _This **plain edition** shows only the Thai translation — no commentary, no Greek, no English. Intended for Thai scholars and theological reviewers evaluating the translation on its own terms. For the annotated edition with contextual summaries (บริบท), see `output/reader/2corinthians.md`. For the underlying Greek, English (BSB) reference, and translator decisions per verse, see the per-chapter review reports at `output/check_reports/2corinthians_NN_review.md` or the source JSON at `output/translations/`._
 
@@ -540,6 +540,36 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 ---
 
+## บทที่ 13
+
+**1** นี่เป็นครั้งที่สามที่ข้าพเจ้ามาหาพวกท่าน ‘ทุกเรื่องจะตั้งมั่นโดยปากของพยานสองหรือสามคน’
+
+**2** ข้าพเจ้าได้กล่าวไว้ก่อนแล้วและกล่าวอีกครั้ง — เหมือนเมื่อข้าพเจ้ามาเยี่ยมครั้งที่สอง และบัดนี้แม้ไม่อยู่ — ต่อบรรดาผู้ที่ได้ทำบาปมาก่อน และต่อทุกคนที่เหลือ ว่าเมื่อข้าพเจ้ามาอีก ข้าพเจ้าจะไม่ละเว้น
+
+**3** เนื่องจากพวกท่านแสวงหาบทพิสูจน์ว่าพระคริสต์ทรงตรัสในตัวข้าพเจ้า พระองค์ไม่ได้ทรงอ่อนแอในการเผชิญกับพวกท่าน แต่ทรงพลังในหมู่พวกท่าน
+
+**4** เพราะพระองค์ทรงถูกตรึงด้วยความอ่อนแอ แต่ทรงพระชนม์อยู่โดยฤทธิ์อำนาจของพระเจ้า และเราเองก็อ่อนแอในพระองค์ แต่เราจะมีชีวิตอยู่ร่วมกับพระองค์โดยฤทธิ์อำนาจของพระเจ้าในการมีต่อพวกท่าน
+
+**5** จงตรวจสอบตัวเองว่าพวกท่านอยู่ในความเชื่อหรือไม่ จงทดสอบตัวเอง หรือพวกท่านไม่เข้าใจตัวเองหรือว่าพระเยซูคริสต์ทรงสถิตอยู่ในพวกท่าน — เว้นแต่พวกท่านสอบไม่ผ่าน
+
+**6** ข้าพเจ้าหวังว่าพวกท่านจะรู้ว่าเราไม่ได้สอบไม่ผ่าน
+
+**7** เราอธิษฐานต่อพระเจ้าให้พวกท่านไม่ทำสิ่งใดที่ชั่วเลย ไม่ใช่เพื่อเราจะปรากฏว่าผ่านการทดสอบ แต่เพื่อพวกท่านจะทำสิ่งที่ดี แม้ว่าเราจะปรากฏเหมือนสอบไม่ผ่านก็ตาม
+
+**8** เพราะเราไม่สามารถทำสิ่งใดต่อต้านความจริง แต่ทำได้แต่เพื่อความจริงเท่านั้น
+
+**9** เพราะเราชื่นชมยินดีเมื่อเราอ่อนแอแต่พวกท่านเข้มแข็ง สิ่งนี้เองที่เราอธิษฐานขอ คือการเสริมสร้างพวกท่านให้สมบูรณ์
+
+**10** เพราะเหตุนี้ ข้าพเจ้าจึงเขียนสิ่งเหล่านี้ขณะที่ไม่อยู่ด้วย เพื่อเมื่อข้าพเจ้ามาแล้ว ข้าพเจ้าจะไม่ต้องใช้สิทธิอำนาจอย่างเข้มงวด — สิทธิอำนาจที่องค์พระผู้เป็นเจ้าทรงประทานแก่ข้าพเจ้าเพื่อการเสริมสร้าง ไม่ใช่เพื่อการทำลาย
+
+**11** ในที่สุด พี่น้องทั้งหลาย จงชื่นชมยินดี จงเสริมสร้างตนเองให้สมบูรณ์ จงให้กำลังใจกัน จงเป็นน้ำหนึ่งใจเดียวกัน จงอยู่อย่างสันติ และพระเจ้าแห่งความรักและสันติสุขจะสถิตอยู่กับพวกท่าน
+
+**12** จงทักทายกันด้วยจูบอันบริสุทธิ์ ธรรมิกชนทุกคนฝากความระลึกถึงพวกท่าน
+
+**13** ขอพระคุณของพระเยซูคริสต์องค์พระผู้เป็นเจ้า ความรักของพระเจ้า และการมีส่วนร่วมในพระวิญญาณบริสุทธิ์ จงดำรงอยู่กับพวกท่านทุกคน
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -558,4 +588,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/2corinthians_10.json` | `2cabc3aa510e54379db35f1ffe2ff1b0515f3816e9c5d56fc0fdc84055a1d7d7` |
 | `output/translations/2corinthians_11.json` | `361ad566cf0762163d43235ab35118aac7774c92c5cc11e491bd8d409437adc7` |
 | `output/translations/2corinthians_12.json` | `2fd245afd4eec451f0dfd7c426412722ade00b4c6895c31576a66ba418479c35` |
+| `output/translations/2corinthians_13.json` | `b0c5e4132dbc04fb915d467195ff6a6fa4a887593f6a3492056cde5e3d9f14dd` |
 
