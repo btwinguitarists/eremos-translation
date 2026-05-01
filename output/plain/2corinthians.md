@@ -1,6 +1,6 @@
 # 2 โครินธ์
 
-_2 Corinthians — 3 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
+_2 Corinthians — 4 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
 
 _This **plain edition** shows only the Thai translation — no commentary, no Greek, no English. Intended for Thai scholars and theological reviewers evaluating the translation on its own terms. For the annotated edition with contextual summaries (บริบท), see `output/reader/2corinthians.md`. For the underlying Greek, English (BSB) reference, and translator decisions per verse, see the per-chapter review reports at `output/check_reports/2corinthians_NN_review.md` or the source JSON at `output/translations/`._
 
@@ -136,6 +136,46 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 ---
 
+## บทที่ 4
+
+**1** ดังนั้น เนื่องจากเรามีพันธกิจนี้ตามที่ได้รับพระเมตตา เราจึงไม่ท้อใจ
+
+**2** ตรงกันข้าม เราได้ละทิ้งวิถีทางลับๆ ที่น่าอับอาย ไม่ดำเนินด้วยเล่ห์เหลี่ยม และไม่บิดเบือนพระวจนะของพระเจ้า แต่ด้วยการสำแดงความจริงอย่างเปิดเผย เราแนะนำตัวเองต่อมโนธรรมของทุกคน ต่อพระพักตร์พระเจ้า
+
+**3** และถ้าหากข่าวประเสริฐของเราถูกคลุมไว้ ก็ถูกคลุมไว้สำหรับผู้ที่กำลังพินาศ
+
+**4** ในพวกเขานั้น เทพเจ้าแห่งยุคนี้ได้ทำให้ความคิดของผู้ที่ไม่เชื่อตาบอด เพื่อไม่ให้พวกเขาเห็นความสว่างแห่งข่าวประเสริฐเรื่องพระเกียรติของพระคริสต์ ผู้ทรงเป็นพระฉายาของพระเจ้า
+
+**5** เพราะเราไม่ได้ประกาศตัวเอง แต่ประกาศพระเยซูคริสต์ในฐานะองค์พระผู้เป็นเจ้า และตัวเราเองในฐานะทาสรับใช้ของพวกท่านโดยเห็นแก่พระเยซู
+
+**6** เพราะพระเจ้าผู้ตรัสว่า ‘ความสว่างจะส่องออกจากความมืด’ พระองค์เองทรงส่องสว่างในใจของเรา เพื่อให้เกิดความสว่างแห่งการรู้จักพระเกียรติของพระเจ้าในพระพักตร์ของพระคริสต์
+
+**7** บัดนี้ เรามีทรัพย์สมบัตินี้อยู่ในภาชนะดินเผา เพื่อให้ฤทธิ์อำนาจอันยิ่งใหญ่นี้เป็นของพระเจ้า ไม่ใช่ของเรา
+
+**8** เราถูกบีบคั้นในทุกด้าน แต่ก็ไม่ถูกบีบจนหมดทางออก เราจนปัญญา แต่ก็ไม่สิ้นหวัง
+
+**9** เราถูกข่มเหง แต่ไม่ถูกทอดทิ้ง เราถูกล้มลง แต่ไม่ถูกทำลาย
+
+**10** เราแบกความตายของพระเยซูไว้ในร่างกายของเราเสมอ เพื่อให้ชีวิตของพระเยซูปรากฏในร่างกายของเราด้วย
+
+**11** เพราะเราซึ่งยังมีชีวิตอยู่นั้น ถูกมอบไว้แก่ความตายเสมอเพราะเห็นแก่พระเยซู เพื่อให้ชีวิตของพระเยซูปรากฏในเนื้อหนังที่ตายได้ของเราด้วย
+
+**12** ดังนั้น ความตายก็ทำงานอยู่ในเรา แต่ชีวิตก็ทำงานอยู่ในพวกท่าน
+
+**13** และเรามีจิตวิญญาณแห่งความเชื่อแบบเดียวกัน ตามที่มีคำเขียนไว้ว่า ‘ข้าพเจ้าเชื่อ ดังนั้นข้าพเจ้าจึงพูด’ เราเองก็เชื่อ ดังนั้นเราจึงพูด
+
+**14** เพราะเรารู้ว่าพระองค์ผู้ทรงให้พระเยซูเป็นขึ้นนั้น จะทรงให้เราเป็นขึ้นพร้อมกับพระเยซูด้วย และจะทรงนำเสนอเราพร้อมกับพวกท่าน
+
+**15** เพราะทุกสิ่งเหล่านี้เป็นไปเพื่อพวกท่าน เพื่อพระคุณที่ทวีขึ้นโดยทางคนเป็นจำนวนมาก จะทำให้การขอบพระคุณล้นเหลือไปเพื่อพระเกียรติของพระเจ้า
+
+**16** ดังนั้น เราจึงไม่ท้อใจ แม้ว่ามนุษย์ภายนอกของเรากำลังเสื่อมสลาย แต่มนุษย์ภายในของเราก็กำลังถูกทำให้กลับเป็นใหม่ทุกวัน
+
+**17** เพราะความทุกข์ลำบากชั่วครู่ที่เบาของเรานี้ กำลังก่อให้เกิดภาระแห่งพระเกียรตินิรันดร์อย่างยิ่งใหญ่เกินกว่าจะเปรียบได้สำหรับเรา
+
+**18** เพราะเราไม่เพ่งดูสิ่งที่มองเห็น แต่เพ่งดูสิ่งที่มองไม่เห็น เพราะสิ่งที่มองเห็นเป็นของชั่วคราว แต่สิ่งที่มองไม่เห็นเป็นนิรันดร์
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -145,4 +185,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/2corinthians_01.json` | `0bdb01cc4d34c181b2c55ab2a1fcf862957d116d8a957c226e6bb445aba355d2` |
 | `output/translations/2corinthians_02.json` | `fc4e8cce6b3956ad5e201ca9f3e8f7903274a2ad0ce24abb6f340f74da42022e` |
 | `output/translations/2corinthians_03.json` | `f39356dd147c3a5a9f71664b936b0bad91ce475792bebe5917947e33dd75d9ed` |
+| `output/translations/2corinthians_04.json` | `70c27953757a7a6fee2af1e37e0eb6197f6e09ec86f8803273ae2695cb2fb24e` |
 
