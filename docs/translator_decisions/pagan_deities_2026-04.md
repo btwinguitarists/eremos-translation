@@ -4,15 +4,17 @@
 
 **Decided:** 2026-04 during Acts end-of-book review (see `docs/ACT_END_OF_BOOK_REVIEW_2026-04-26.md` §3). Confirmed by Gemini 2.5 Pro + ChatGPT external review (Gemini: "Lock as-is — Greek-source fidelity"; ChatGPT: "register distinction sound; doc required").
 
+**Amended:** 2026-05-01 during 2 Corinthians end-of-book review (see `docs/end_of_book/2corinthians/2CO_END_OF_BOOK_REVIEW_2026-05-01.md` §4 Item B). Scope clarified to distinguish **literal pagan deities** (เทพเจ้า) from **Pauline polemical-metaphorical θεός attributions** (พระเจ้า + qualifying genitive). Confirmed 3/3 by Gemini + Grok + ChatGPT external review.
+
 **Evidence base (Acts):** 7:43 (Moloch + Rephan); 12:22 (Herod's death — "voice of a god"); 14:11–13 (Lystra: Zeus + Hermes); 17:16–34 (Athens Areopagus: εἴδωλα, βωμός, ἄγνωστος θεός, σεβάσματα, δαιμόνια, τὸ θεῖον); 19:24–35 (Ephesus: Artemis, ναοί, θεά, νεωκόρος, διοπετές); 28:4–6 (Malta: Δίκη, αὐτὸν εἶναι θεόν); 28:11 (Διόσκουροι).
 
 ---
 
-## Two principled rules
+## Three principled rules
 
-### Rule 1 — Register
+### Rule 1 — Register for LITERAL pagan deities
 
-**Pagan deities, in any voice, never receive the divine register reserved for the biblical God.**
+**Literal pagan deities, in any voice, never receive the divine register reserved for the biblical God.**
 
 | Thai term | Use case |
 |---|---|
@@ -20,13 +22,32 @@
 | **เทพี** (goddess, fem.) | individual female pagan deity (Artemis, Δίκη) |
 | **เทพเจ้า** (deity, generic) | "a god" / one of the gods (Acts 12:22, 28:6); also pagan deities collectively in narrator voice |
 | **เหล่าทวยเทพ** (host of deities) | polytheistic plural in pagan speech (Acts 14:11) |
-| **ไม่ใช่ พระเจ้า** | **never** for pagan deities — พระเจ้า is reserved for the biblical God only |
+| **ไม่ใช่ พระเจ้า** | **never** for literal pagan deities — พระเจ้า is reserved for the biblical God only |
 
 **Theological rationale:** The Thai NT must mark the Christian/pagan boundary lexically. When the Lystra crowd says οἱ θεοί (Acts 14:11), the Thai must not say พระเจ้า — that would import the Christian referent into the pagan crowd's speech. Conversely, when Paul says "θεὸν ζῶντα" (the living God, Acts 14:15), the Thai must say พระเจ้าผู้ทรงพระชนม์ — the biblical-God register.
 
 The boundary is preserved across all four Acts pagan-religious episodes (Lystra ch.14, Athens ch.17, Ephesus ch.19, Malta ch.28).
 
-### Rule 2 — Transliteration vs. descriptive
+### Rule 1b — Pauline polemical/metaphorical θεός attributions
+
+**Distinct from literal pagan deities. Render with the supreme title พระเจ้า + a qualifying genitive that exposes the usurpation.**
+
+This rule exists because Paul (and other NT writers) deliberately apply the SUPREME divine title ὁ θεός to figures other than the true God in polemical contexts — Satan, the belly, the man of lawlessness — using a temporal/object-genitive limiter to expose the absurdity or usurpation. The Greek's rhetorical move is: take the highest title, then puncture it with what it's "god of." The Thai must mirror this — not redirect Greek θεός to pagan-deity-class, which would flatten Paul's rhetorical inversion.
+
+| Verse | Greek | Thai | Note |
+|---|---|---|---|
+| 2 Cor 4:4 | ὁ θεὸς τοῦ αἰῶνος τούτου (Satan) | **พระเจ้าแห่งยุคนี้** | Mirrors THSV/TNCV majority Thai-tradition; preserves v.4/v.6 contrast |
+| Phil 3:19 (forward) | ὁ θεὸς ἡ κοιλία (the belly) | **พระเจ้าของเขาคือท้อง** (or similar) | Apply same pattern when shipped |
+| 2 Th 2:4 (already shipped) | ὑπεραιρόμενος ἐπὶ πάντα λεγόμενον θεόν (man of lawlessness) | check current rendering on next pass | Verify pattern alignment |
+
+**Distinguishing test:** Is the referent a literal pagan deity in pagan speech, or is the NT author polemically/metaphorically attributing θεός to a non-divine figure to expose usurpation? The first → Rule 1 (เทพเจ้า). The second → Rule 1b (พระเจ้า + genitive limiter).
+
+**External AI consensus (3/3 — Gemini + Grok + ChatGPT, 2026-05-01):**
+- Gemini: "...the traditional Thai พระเจ้าแห่งยุคนี้ perfectly mirrors this grammatical move..."
+- Grok: "...keep contrast clear via context...amend pagan_deities to distinguish literal from NT polemical/metaphorical..."
+- ChatGPT: "พระเจ้า → default for the true God AND metaphorical/polemical attributions; เทพเจ้า → restricted to literal polytheistic deities..."
+
+### Rule 2 — Transliteration vs. descriptive (literal pagan deities)
 
 **Personal-proper-name deities** receive **transliteration** (Greek source preferred over Latin equivalent).
 **Abstract/personified-attribute deities** receive **descriptive translation**.
@@ -79,8 +100,11 @@ This is theologically load-bearing. The crowd's confused worship of Herod is the
 **Pauline corpus:**
 - **1 Cor 8:5–6** (λεγόμενοι θεοί + πολλοὶ θεοί): "so-called gods + many gods" → so-called เทพเจ้า + many เทพ. Crucial distinction from "ἡμῖν εἷς θεὸς ὁ πατήρ" (for us one God the Father) → พระเจ้า.
 - **1 Cor 10:14–21** (εἰδωλόθυτα + δαιμόνια): idol-food + demons. εἴδωλον → รูปเคารพ; δαιμόνια here is NT-Christian sense (demonic-spiritual reality behind idols) → ผีร้าย / มาร depending on register.
-- **Romans 1:18–25** (ἤλλαξαν τὴν δόξαν τοῦ ἀφθάρτου θεοῦ ἐν ὁμοιώματι): the great anti-idol polemic. Maintain πพระเจ้า / รูปเคารพ distinction strictly.
-- **Galatians 4:8–9** (φύσει μὴ οὖσιν θεοῖς): "those who by nature are not gods" → เทพที่ไม่ได้เป็นพระเจ้าโดยสภาพ.
+- **2 Cor 4:4** (ὁ θεὸς τοῦ αἰῶνος τούτου, of Satan): Pauline-polemical-metaphor → **พระเจ้าแห่งยุคนี้** per Rule 1b. NOT เทพเจ้า — Paul deliberately uses the SUPREME divine title to expose Satan's usurpation; preserves THSV/TNCV majority Thai-tradition. Locked 2026-05-01 per 3/3 external-AI consensus.
+- **Romans 1:18–25** (ἤλλαξαν τὴν δόξαν τοῦ ἀφθάρτου θεοῦ ἐν ὁμοιώματι): the great anti-idol polemic. Maintain พระเจ้า / รูปเคารพ distinction strictly.
+- **Galatians 4:8–9** (φύσει μὴ οὖσιν θεοῖς): "those who by nature are not gods" → เทพที่ไม่ได้เป็นพระเจ้าโดยสภาพ. Rule 1 (literal-pagan-deity rejection).
+- **Phil 3:19** (forward) (ὁ θεὸς ἡ κοιλία, "their god is their belly"): Pauline-polemical-metaphor → **พระเจ้าของเขาคือท้อง** per Rule 1b. Apply same pattern as 2 Cor 4:4.
+- **2 Th 2:4** (already shipped) (ὑπεραιρόμενος ἐπὶ πάντα λεγόμενον θεόν, the man of lawlessness): polemical-metaphor — verify current rendering aligns with Rule 1b on next end-of-book pass.
 - **Eph 6:12** (πρὸς τὰ πνευματικὰ τῆς πονηρίας ἐν τοῖς ἐπουρανίοις): demonic-spiritual hierarchy → mara / ผี ranks; NOT เทพ-register (these are demonic, not pagan-deity).
 
 **Revelation:** the apocalyptic deity-figures (the dragon, the beasts) are demonic-cosmic — สัตว์ร้าย / มังกร / มาร, not เทพ (which would inappropriately elevate the demonic).
