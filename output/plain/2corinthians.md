@@ -1,6 +1,6 @@
 # 2 โครินธ์
 
-_2 Corinthians — 8 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
+_2 Corinthians — 9 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
 
 _This **plain edition** shows only the Thai translation — no commentary, no Greek, no English. Intended for Thai scholars and theological reviewers evaluating the translation on its own terms. For the annotated edition with contextual summaries (บริบท), see `output/reader/2corinthians.md`. For the underlying Greek, English (BSB) reference, and translator decisions per verse, see the per-chapter review reports at `output/check_reports/2corinthians_NN_review.md` or the source JSON at `output/translations/`._
 
@@ -350,6 +350,40 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 ---
 
+## บทที่ 9
+
+**1** ที่จริง เกี่ยวกับการรับใช้ธรรมิกชนนั้น เป็นการเกินจำเป็นที่ข้าพเจ้าจะเขียนถึงพวกท่าน
+
+**2** เพราะข้าพเจ้ารู้ถึงความตั้งใจของพวกท่าน ซึ่งข้าพเจ้าได้ภาคภูมิใจกับชาวมาซิโดเนียในเรื่องของพวกท่านว่า แคว้นอาคายาได้เตรียมพร้อมตั้งแต่ปีที่แล้ว และความกระตือรือร้นของพวกท่านได้กระตุ้นคนส่วนใหญ่ให้ลุกขึ้น
+
+**3** แต่ข้าพเจ้าได้ส่งพี่น้องเหล่านั้นมา เพื่อความภาคภูมิใจของเราเกี่ยวกับพวกท่านในเรื่องนี้จะไม่กลายเป็นเปล่า แต่เพื่อพวกท่านจะได้เตรียมพร้อมตามที่ข้าพเจ้าได้กล่าวไว้
+
+**4** เกรงว่าถ้าชาวมาซิโดเนียมาพร้อมกับข้าพเจ้า และพบว่าพวกท่านยังไม่พร้อม เราจะอับอาย — ไม่ต้องพูดถึงพวกท่านเลย — ในความมั่นใจนี้
+
+**5** ดังนั้น ข้าพเจ้าจึงเห็นว่าจำเป็นต้องขอร้องพี่น้องเหล่านั้นให้ไปหาพวกท่านล่วงหน้า เพื่อจัดเตรียมพระพรที่พวกท่านได้สัญญาไว้ก่อน เพื่อให้พระพรนี้พร้อมในลักษณะของพระพร ไม่ใช่ในลักษณะของการบีบบังคับเพราะใจโลภ
+
+**6** นี่เป็นเรื่องที่พึงระลึก คือ ผู้ที่หว่านอย่างเสียดายก็จะเกี่ยวอย่างเสียดายเช่นกัน และผู้ที่หว่านอย่างเอื้อเฟื้อก็จะเกี่ยวอย่างเอื้อเฟื้อเช่นกัน
+
+**7** ขอให้แต่ละคนกระทำตามที่เขาได้ตั้งใจไว้ในใจ ไม่ใช่ด้วยความเสียใจหรือด้วยการถูกบีบบังคับ เพราะพระเจ้าทรงรักผู้ให้ที่ใจยินดี
+
+**8** และพระเจ้าทรงสามารถทำให้พระคุณทุกประการล้นเหลือมาถึงพวกท่าน เพื่อในทุกเรื่อง ทุกเวลา พวกท่านจะมีความพอเพียงทุกประการ และล้นเหลือในการกระทำดีทุกอย่าง
+
+**9** ตามที่มีคำเขียนไว้ว่า ‘เขาได้แจกจ่าย เขาได้ให้แก่คนยากจน ความชอบธรรมของเขาดำรงอยู่ตลอดกาล’
+
+**10** พระองค์ผู้ทรงประทานเมล็ดพันธุ์แก่ผู้หว่าน และขนมปังเพื่อเป็นอาหาร จะทรงประทานและเพิ่มพูนเมล็ดพันธุ์ของพวกท่าน และจะทรงทำให้ผลผลิตแห่งความชอบธรรมของพวกท่านเจริญเติบโต
+
+**11** พวกท่านจะได้รับความมั่งคั่งในทุกประการ เพื่อแสดงความเอื้อเฟื้อในทุกโอกาส ซึ่งโดยทางเรา ความเอื้อเฟื้อนี้ก็ก่อให้เกิดการขอบพระคุณพระเจ้า
+
+**12** เพราะการรับใช้ในพันธกิจนี้ ไม่เพียงแต่เพิ่มเติมให้เต็มในความขัดสนของธรรมิกชน แต่ยังล้นเหลือออกไปด้วยการขอบพระคุณพระเจ้าจากคนเป็นจำนวนมาก
+
+**13** โดยบทพิสูจน์ของการรับใช้นี้ พวกเขาจะถวายเกียรติแด่พระเจ้า เพราะการเชื่อฟังในการกล่าวยอมรับข่าวประเสริฐของพระคริสต์ของพวกท่าน และเพราะความเอื้อเฟื้อในการมีส่วนร่วมของพวกท่านต่อพวกเขาและต่อทุกคน
+
+**14** และพวกเขาจะวิงวอนเพื่อพวกท่านในคำอธิษฐาน ปรารถนาอย่างยิ่งในพวกท่าน เพราะพระคุณอันยิ่งใหญ่ของพระเจ้าที่อยู่บนพวกท่าน
+
+**15** ขอขอบพระคุณพระเจ้าสำหรับของประทานของพระองค์ที่ไม่อาจพรรณนาได้
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -364,4 +398,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/2corinthians_06.json` | `51551f17000c4dacfd86b2382f66efe75e1337893b8148a4909f5adbaf0e2aa9` |
 | `output/translations/2corinthians_07.json` | `c0680d8f92009ae4f8be49887e3ab547ed669885b59bc864482c1a5da7f06f02` |
 | `output/translations/2corinthians_08.json` | `7c35093f4abe5361a7366929e6585fa153bac646c4844cab2ac0b47ed60e1067` |
+| `output/translations/2corinthians_09.json` | `f6297c97403d2b361a3638fe62e982f7bb01db716d5f0ccc348f6240d464e15d` |
 
