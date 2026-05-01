@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-05-01 11:58:49 UTC_
-_Total chapters: 165 · Total verses: 5881_
+_Generated: 2026-05-01 12:35:28 UTC_
+_Total chapters: 166 · Total verses: 5902_
 
 ## How to verify a chapter
 
@@ -91,13 +91,13 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/galatians_04.json` | 31 | `f753b984c0762e951c870ceda85b392f7da899250a8536b5fe9c8a8783ba6d06` | `21e2a9f` |
 | `output/translations/galatians_05.json` | 26 | `8c554130d8819be2bff95cf6657734f4da7ec53e27845623688ad63407121424` | `3881232` |
 | `output/translations/galatians_06.json` | 18 | `6b1196188415fcfeb00baf3fd3ac4b622583f39c874fc47c056b72ac7c584e91` | `ad0138c` |
-| `output/translations/john_01.json` | 51 | `7f15dbc113251a1965b754979fbb170c43be250e96f26efe0f2f6fecd4e95d34` | `6d15bb1` |
+| `output/translations/john_01.json` | 51 | `87503f5b34ea02b4df7f9436ac01830c95bffe1978e8fbf1792bf6f8a82d5de9` | `b5f5203` |
 | `output/translations/john_02.json` | 25 | `17d2cbdb34d12e45434c7d927d17a2bf26d97dcbbd9f23081f054ad9c1abee8f` | `6d15bb1` |
-| `output/translations/john_03.json` | 36 | `7f6c67669e93cbbb2a2df3a1df23d33c50ffc109a98ccc3097bd55594c07cf4c` | `6d15bb1` |
+| `output/translations/john_03.json` | 36 | `67cac9dbad485158ad8be9ca5ed4da02d8827414b0af163f8e13117351572ff1` | `b5f5203` |
 | `output/translations/john_04.json` | 54 | `ac68b9b9597f16ba1579f99296b52ce1b6244ba2281c876697d92d6a871bd314` | `20499a4` |
-| `output/translations/john_05.json` | 46 | `289c0f976993cabf330e74ac6b4371e8f642f3e200dd2cf5548a04e57d641b0f` | `420aeef` |
+| `output/translations/john_05.json` | 46 | `3dcf163bf98abf0d4c8d7c1a92679aef5193e2ea4bcbe891347de9f87fad1ea1` | `b5f5203` |
 | `output/translations/john_06.json` | 71 | `b2cfb7d7d638ffd6f50000f4ddf1614c5cb1a7938801fb835c5c8d5266a68f42` | `d89775b` |
-| `output/translations/john_07.json` | 53 | `66e87878cb656b8e068b55b5fd3dd8edfa6ae8c392405399d6013e31614f84b9` | `df0dbcf` |
+| `output/translations/john_07.json` | 53 | `23d4b26441f12d6e6070f9178c39c7920b669215fe7f322b738bc175a31acf5a` | `b5f5203` |
 | `output/translations/john_08.json` | 59 | `2944198e8d3bdc4640fea51bb681566fe7539d6d3acc1433638d68d5496db94e` | `95821c9` |
 | `output/translations/john_09.json` | 41 | `e767016d7768c526aadcba4f56d981dbd9c062660c43289cfed3defd1769a1eb` | `15e1acd` |
 | `output/translations/john_10.json` | 42 | `7200511b65ee167fffd96739eaf07266138eb506d77346ead59284c335371732` | `2ce3b18` |
@@ -112,10 +112,10 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/john_19.json` | 42 | `8e4895ec0fbb4fd94b0ede36df69d79e83b272ae2eeb426ed471339559654f34` | `c23d3a4` |
 | `output/translations/john_20.json` | 31 | `55797ecc906f40e0b686ab1d811b473751a9370d705d7a6910ea9c06165e00c0` | `68ee1df` |
 | `output/translations/john_21.json` | 25 | `f6ec05b4ae5b48057f80c04030f55924ebe6ee76b8e1c67e44139b4e04ba859e` | `d50cea8` |
-| `output/translations/luke_01.json` | 80 | `9657c5dc2a1c8cd7011dc699ee3e084d8f3d1380b649f5afbf2b0346250a9c5c` | `6d15bb1` |
+| `output/translations/luke_01.json` | 80 | `69ceecef9eb92a4f8f94165520214feb6410f3477e0c960da749ab0905431fa4` | `1f0d7ba` |
 | `output/translations/luke_02.json` | 52 | `e50197772258e55fe3d51fecd922cfd83f9ab5ed2b2727d61038dfd9bdce5e03` | `6d15bb1` |
 | `output/translations/luke_03.json` | 38 | `a783de0c4b34da34985a62445df9229241b8083fddffd79540c317a30999962a` | `6d15bb1` |
-| `output/translations/luke_04.json` | 44 | `03ce284a4f04977ea896abe0e026d6e3e9b4219d01d56b24f69e687afe5a7f05` | `6d15bb1` |
+| `output/translations/luke_04.json` | 44 | `7a53fcae5bcead4afeaa50289d69366f3d995f195549882083e7ec4257135cfa` | `1f0d7ba` |
 | `output/translations/luke_05.json` | 39 | `b91da001a794caf5dc19533eaf62a19e8d891868b1b80a67979e25ea17c828a0` | `6d15bb1` |
 | `output/translations/luke_06.json` | 49 | `ea27bc590ee936a3141bdbc84bc381a5e5c14de97c34d1fd148eeccb15d5c9cc` | `6d15bb1` |
 | `output/translations/luke_07.json` | 50 | `a44d72c84bbb1f509835d898c5e6c22fdf7a23e4e48db3e2fb15ff04c2c94982` | `6d15bb1` |
@@ -183,7 +183,8 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/romans_01.json` | 32 | `c87b2112628b417478cc0beebb101b81b21b70b76106579044da66b1f0181824` | `7b84f42` |
 | `output/translations/romans_02.json` | 29 | `8126391464b74dc72a5ccd0314177c88d312bfe0d12391ed4e253fc84a7dd595` | `d2be6b6` |
 | `output/translations/romans_03.json` | 31 | `9b6a783783aecc2b3130422449f7869eee187c0636be8cf319f5d4819c79202f` | `7723063` |
-| `output/translations/romans_04.json` | 25 | `f6210d043ab875ceff249e921727f5edfa5dd08ea14f3192b938880b33bacaf6` | `—` |
+| `output/translations/romans_04.json` | 25 | `f6210d043ab875ceff249e921727f5edfa5dd08ea14f3192b938880b33bacaf6` | `6d1c952` |
+| `output/translations/romans_05.json` | 21 | `22a1c5a3863ad8d656fa94ca272fc6e1e20b2fe60ba3acf056002c97f9140487` | `—` |
 
 ---
 
