@@ -1,0 +1,446 @@
+[
+  {
+    "reference": "2 Corinthians 1:1",
+    "chapter": 1,
+    "verse": 1,
+    "greek": "Παῦλος ἀπόστολος Χριστοῦ Ἰησοῦ διὰ θελήματος θεοῦ καὶ Τιμόθεος ὁ ἀδελφὸς τῇ ἐκκλησίᾳ τοῦ θεοῦ τῇ οὔσῃ ἐν Κορίνθῳ,σὺν τοῖς ἁγίοις πᾶσιν τοῖς οὖσιν ἐν ὅλῃ τῇ Ἀχαΐᾳ·",
+    "bsb_english": "Paul, an apostle of Christ Jesus by the will of God, and Timothy our brother, To the church of God in Corinth, together with all the saints throughout Achaia:",
+    "translation": {
+      "thai": "เปาโล อัครทูตของพระเยซูคริสต์โดยพระประสงค์ของพระเจ้า และทิโมธีพี่น้องของเรา เรียน คริสตจักรของพระเจ้าซึ่งอยู่ในเมืองโครินธ์ พร้อมด้วยธรรมิกชนทั้งสิ้นที่อยู่ทั่วแคว้นอาคายา",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "Παῦλος ἀπόστολος Χριστοῦ Ἰησοῦ", "thai": "เปาโล อัครทูตของพระเยซูคริสต์", "rationale": "Pauline letter-opening lock: Παῦλος → เปาโล (proper-noun corpus default). ἀπόστολος → อัครทูต (Pauline Thai standard, 1 Co 1:1, Gal 1:1). Note 2 Cor lacks κλητός (called) before ἀπόστολος, unlike 1 Co 1:1 — so render the bare title, matching Gal 1:1's pattern rather than 1 Co 1:1's expanded 'ผู้ได้รับการทรงเรียกให้เป็น'." },
+        { "greek": "διὰ θελήματος θεοῦ", "thai": "โดยพระประสงค์ของพระเจ้า", "rationale": "Locked Pauline phrase per 1 Co 1:1 — 'พระประสงค์' for divine will, naturally in Thai with the genitive ของพระเจ้า." },
+        { "greek": "Τιμόθεος ὁ ἀδελφὸς", "thai": "ทิโมธีพี่น้องของเรา", "rationale": "Τιμόθεος → ทิโมธี (corpus lock; 1 Th 1:1, 2 Th 1:1, 1 Ti). ὁ ἀδελφός literal = 'the brother' but Pauline letter-conventions add the implicit 'our' (per uW figs-exclusive — the Corinthians knew Timothy too). Render 'พี่น้องของเรา' to capture inclusive ὁ ἀδελφός in Thai." },
+        { "greek": "τῇ ἐκκλησίᾳ τοῦ θεοῦ τῇ οὔσῃ ἐν Κορίνθῳ", "thai": "เรียน คริสตจักรของพระเจ้าซึ่งอยู่ในเมืองโครินธ์", "rationale": "Exact reuse of the 1 Co 1:2 opening lock — cross-letter consistency: ἐκκλησία → คริσตจักร (corpus default, audited 1 Co end-of-book), Κόρινθος → เมืองโครินธ์." },
+        { "greek": "τοῖς ἁγίοις πᾶσιν", "thai": "ธรรมิกชนทั้งสิ้น", "rationale": "ἅγιοι plural = 'saints' in Pauline corpus → ธรรมิกชน (locked from 1 Co 1:2 — 'ทรงเรียกให้เป็นธรรมิกชน'). Standard Thai-Christian rendering for Pauline 'saints' (consecrated members of the body)." },
+        { "greek": "ἐν ὅλῃ τῇ Ἀχαΐᾳ", "thai": "ทั่วแคว้นอาคายา", "rationale": "Ἀχαΐα → แคว้นอาคายα (locked from Acts 18, 19). ὅλη + ἐν (geographic distribution) → 'ทั่ว...' captures comprehensive geographic scope." }
+      ],
+      "notes": "Letter opening: 'Paul to church + saints in region.' Achaia is the Roman province of southern Greece (uW translate-names). Co-sender Timothy parallels 1 Th 1:1, 2 Th 1:1, Phil 1:1 — but 1 Co 1:1 had Sosthenes as co-sender; 2 Co reverts to Timothy because Titus (the natural pairing) was still en route from Corinth back to Paul (uW book-intro)."
+    }
+  },
+  {
+    "reference": "2 Corinthians 1:2",
+    "chapter": 1,
+    "verse": 2,
+    "greek": "χάρις ὑμῖν καὶ εἰρήνη ἀπὸ θεοῦ πατρὸς ἡμῶν καὶ κυρίου Ἰησοῦ Χριστοῦ.",
+    "bsb_english": "Grace and peace to you from God our Father and the Lord Jesus Christ.",
+    "translation": {
+      "thai": "ขอพระคุณและสันติสุขจากพระเจ้าพระบิดาของเรา และจากพระเยซูคริสต์องค์พระผู้เป็นเจ้า จงดำรงอยู่กับพวกท่านทั้งหลาย",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "χάρις ὑμῖν καὶ εἰρήνη", "thai": "ขอพระคุณและสันติสุข...จงดำรงอยู่กับพวกท่านทั้งหลาย", "rationale": "Pauline letter greeting — exact corpus lock from 1 Co 1:3, Gal 1:3, 2 Th 1:2: χάρις → พระคุณ, εἰρήνη → สันติสุข. Greek elliptical (no verb) → Thai supplies 'ขอ...จงดำรงอยู่' jussive blessing-form (per uW translate-blessing — render as a recognizable Thai blessing)." },
+        { "greek": "ἀπὸ θεοῦ πατρὸς ἡμῶν καὶ κυρίου Ἰησοῦ Χριστοῦ", "thai": "จากพระเจ้าพระบิดาของเรา และจากพระเยซูคริสต์องค์พระผู้เป็นเจ้า", "rationale": "Repeating ἀπό in Thai ('จาก...และจาก...') makes the dual source explicit; preserves the binitarian-grammar that puts κύριος Ἰησοῦς Χριστός in syntactic parallel with God-the-Father (a Pauline christological feature). κύριος → องค์พระผู้เป็นเจ้α (corpus lock for Christ-title)." }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "2 Corinthians 1:3",
+    "chapter": 1,
+    "verse": 3,
+    "greek": "Εὐλογητὸς ὁ θεὸς καὶ πατὴρ τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ,ὁ πατὴρ τῶν οἰκτιρμῶν καὶ θεὸς πάσης παρακλήσεως,",
+    "bsb_english": "Blessed be the God and Father of our Lord Jesus Christ, the Father of compassion and the God of all comfort,",
+    "translation": {
+      "thai": "ขอถวายพระพรแด่พระเจ้าและพระบิดาแห่งพระเยซูคริสต์องค์พระผู้เป็นเจ้าของเรา ผู้ทรงเป็นพระบิดาแห่งบรรดาพระเมตตาและพระเจ้าแห่งการหนุนใจทั้งสิ้น",
+      "thai_literal": null,
+      "thai_summary": "ข้อ 3-7 เป็นบทสรรเสริญที่เปาโลเริ่มจดหมาย แตกต่างจาก 1 โครินธ์ที่เริ่มด้วยการขอบพระคุณ — ในที่นี้เปาโลได้รับการปลอบโยนจากพระเจ้าท่ามกลางความทุกข์ที่หนักหน่วง จึงเริ่มด้วยการสรรเสริญพระเจ้าผู้ทรงเป็น 'พระบิดาแห่งบรรดาพระเมตตา' การหนุนใจที่เปาโลได้รับนั้นสามารถส่งต่อไปยังคริสเตียนที่กำลังเผชิญความทุกข์ลำบากได้ (รูปแบบเดียวกันปรากฏในเอเฟซัส 1:3 และ 1 เปโตร 1:3)",
+      "key_decisions": [
+        { "greek": "Εὐλογητὸς ὁ θεός", "thai": "ขอถวายพระพรแด่พระเจ้า", "rationale": "First NT-doxology occurrence of εὐλογητός in our corpus (Mark 14:61 used it as a substantival circumlocution for God = 'พระผู้ทรงพระพรยิ่ง'). Here it functions as a predicate-doxology ('Blessed [be] the God...'). Thai 'ขอถวายพระพรแด่พระเจ้า' preserves the พระพร-root (consistency with Mark 14:61 lemma-lock) while choosing the natural Thai blessing-formula for an opening doxology. Locks the Pauline-doxology pattern for Eph 1:3, 1 Pet 1:3." },
+        { "greek": "πατὴρ τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ", "thai": "พระบิดาแห่งพระเยซูคริสต์องค์พระผู้เป็นเจ้าของเรα", "rationale": "Sonship-language (uW guidelines-sonofgodprinciples). Paul applies God's title 'Father' first to Christ, then (next clause) to believers — establishes the christocentric basis for divine fatherhood. Thai 'พระบิดาแห่ง...' preserves the personal-relational sense better than 'ของ...'." },
+        { "greek": "ὁ πατὴρ τῶν οἰκτιρμῶν", "thai": "พระบิดาแห่งบรรดาพระเมตตα", "rationale": "οἰκτιρμός (NT freq=5) plural οἰκτιρμῶν is a Hebraism — the plural emphasizes abundance/concrete instances (LXX rendering of רַחֲמִים rachamim, the 'compassions' of God). Thai 'บรรดาพระเมตตา' preserves the plural; 'พระเมตตα' takes ราชาศัπτ์ (divine attribute, per RULES §3). Aligns with Luke 6:36's 'ทรงพระเมตตากρุณα' for the cognate adjective οἰκτίρμων. Genitive of source/quality: God is the SOURCE of all mercies." },
+        { "greek": "θεὸς πάσης παρακλήσεως", "thai": "พระเจ้าแห่งการหนุนใจทั้งสิ้น", "rationale": "παράκλησις (NT freq=29) — first NT occurrence in our corpus translates to 'การหนυนใจ', matching the Pauline-corpus pattern (1 Th 2:3, 1 Co 14:3, 2 Th 2:16 all use 'การหนυนใจ' / 'คำหนυνใจ'). Recurs ~10x in this chapter alone — locking 'การหนυνใจ' as the corpus default. πᾶς + abstract noun → 'ทั้งสิ้น' for comprehensiveness (per uW: could be 'all-time' or 'all-quantity' — Thai 'ทั้งสิ้น' covers both naturally)." }
+      ],
+      "notes": "OPENING DOXOLOGY (no thanksgiving formula here, contra most Pauline letters — Paul moves directly to blessing-of-God in light of his recent rescue). The Greek εὐλογητός as a doxological predicate echoes the Hebrew בָּרוּךְ baruch berakhah-formula ('Blessed [be] the LORD God of Israel') — same form opens the Benedictus (Luke 1:68). KEY-TERM FIRST OCCURRENCES locked here: εὐλογητός (predicate-doxology) → 'ขอถวายพระพร'; οἰκτιρμός → 'พระเมตตα'; παράκλησις → 'การหนυνใจ' (these locks will govern the rest of the corpus, especially Eph 1:3 / 1 Pet 1:3 / Rom 12:1)."
+    }
+  },
+  {
+    "reference": "2 Corinthians 1:4",
+    "chapter": 1,
+    "verse": 4,
+    "greek": "ὁ παρακαλῶν ἡμᾶς ἐπὶ πάσῃ τῇ θλίψει ἡμῶν,εἰς τὸ δύνασθαι ἡμᾶς παρακαλεῖν τοὺς ἐν πάσῃ θλίψει διὰ τῆς παρακλήσεως ἧς παρακαλούμεθα αὐτοὶ ὑπὸ τοῦ θεοῦ.",
+    "bsb_english": "who comforts us in all our troubles, so that we can comfort those in any trouble with the comfort we ourselves have received from God.",
+    "translation": {
+      "thai": "ผู้ทรงหนุนใจเราในความทุกข์ลำบากทั้งสิ้นของเรา เพื่อให้เราสามารถหนุนใจคนทั้งหลายที่อยู่ในความทุกข์ลำบากนานาประการ ด้วยการหนุนใจที่เราเองได้รับจากพระเจ้า",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "ὁ παρακαλῶν ἡμᾶς", "thai": "ผู้ทρงหนυνใจเรα", "rationale": "παρακαλέω with God as subject (present-active participle) takes ราชาศัπτ์ — 'ทρง' prefix (RULES §3). The verb-form of παράκλησις: God is the one who actively comforts. Pauline-corpus consistency: 1 Th 2:12 'หนυνใจ', 1 Co 14:31 'ได้รับการหนυνใจ'." },
+        { "greek": "ἐπὶ πάσῃ τῇ θλίψει", "thai": "ในความทυกข์ลำบากทั้งสิ้น", "rationale": "θλῖψις → 'ความทυกข์ลำบาก' (corpus lock from 1 Th 1:6, 3:3, 3:4, 3:7, 2 Th 1:4, 1:6 — fully locked across Thessalonian corpus). πᾶς + θλῖψις → 'ทั้งสิ้น' (every kind, all instances)." },
+        { "greek": "εἰς τὸ δύνασθαι ἡμᾶς παρακαλεῖν", "thai": "เพื่อให้เรαสามารถหนυνใจ", "rationale": "εἰς τό + infinitive = purpose construction (per uW grammar-connect-logic-goal). Thai 'เพื่อให้...สามารถ...' renders the purpose-result chain naturally. παρακαλέω (humans comforting humans, no ทρง prefix)." },
+        { "greek": "τοὺς ἐν πάσῃ θλίψει", "thai": "คนทั้งหลายที่อยู่ในความทυกข์ลำบากนานาประการ", "rationale": "Substantival participle τούς = 'those (people)' → 'คนทั้งหลายที่...'. 'นานาประการ' chosen for stylistic variation from preceding 'ทั้งสิ้น' (the same Greek πάς twice — Thai prefers slight variation for naturalness; both render the Greek faithfully)." },
+        { "greek": "διὰ τῆς παρακλήσεως ἧς παρακαλούμεθα αὐτοί", "thai": "ด้วยการหนυνใจที่เรαเองได้รับ", "rationale": "Cognate-noun + cognate-passive verb (παράκλησις + παρακαλέω) — Thai's natural rendering 'ด้วยการหนυνใจที่...ได้รับ' uses the noun form once (per uW figs-explicitinfo, idiom-natural in Thai). αὐτοί reflexive emphatic 'we ourselves' → 'เรαเอง'." }
+      ],
+      "notes": "Theological structure: God's comfort is transitive — he gives so we can pass it on. Pronouns 'we/us/our' here probably include the Corinthians (uW figs-exclusive)."
+    }
+  },
+  {
+    "reference": "2 Corinthians 1:5",
+    "chapter": 1,
+    "verse": 5,
+    "greek": "ὅτι καθὼς περισσεύει τὰ παθήματα τοῦ Χριστοῦ εἰς ἡμᾶς,οὕτως διὰ τοῦ Χριστοῦ περισσεύει καὶ ἡ παράκλησις ἡμῶν.",
+    "bsb_english": "For just as the sufferings of Christ overflow to us, so also through Christ our comfort overflows.",
+    "translation": {
+      "thai": "เพราะเช่นเดียวกับที่ความทุกข์ของพระคริสต์ล้นเหลือมาถึงเรา การหนุนใจของเราก็ล้นเหลือเช่นเดียวกันโดยทางพระคริสต์",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "τὰ παθήματα τοῦ Χριστοῦ", "thai": "ความทυกข์ของพระคριสต์", "rationale": "πάθημα plural here = 'sufferings' (NT freq=16). Genitive-of-relation: 'Christ's sufferings' could mean (a) sufferings Christ endured (now extending to his Body), (b) sufferings on behalf of Christ. Paul's view fuses both — believers' suffering is participation-in-Christ's-suffering (cf. Phil 3:10, Col 1:24). Thai 'ความทυกข์ของพระคριสต์' preserves the genitival ambiguity as the Greek does. Distinct from θλῖψις 'oppression-from-outside' — πάθημα is the experiential side." },
+        { "greek": "περισσεύει ... εἰς ἡμᾶς", "thai": "ล้นเหลือมาถึงเรα", "rationale": "περισσεύω = 'overflow / abound' (uW figs-metaphor: sufferings as objects that increase and move toward Paul). Thai 'ล้นเหลือมαถึง' preserves the metaphorical 'overflow toward' image rather than flattening to 'increase'." },
+        { "greek": "διὰ τοῦ Χριστοῦ", "thai": "โดยทางพระคρισต์", "rationale": "διά + genitive = agency/instrumentality. Comfort flows from God-the-Father (v.3) THROUGH Christ to believers — Trinitarian-by-implication. 'โดยทาง' explicitly marks the channel. The same person (Christ) is both the locus of suffering AND the channel of comfort — Paul's deep christological point." }
+      ],
+      "notes": "πάθημα (suffering) cluster — first occurrence in corpus. Distinguishes from θλῖψις (affliction) and πάσχω (general 'experience/suffer'). Paul's pattern in this chapter: θλῖψις-language (vv.4, 6, 8) for external pressure; πάθημα-language (vv.5, 6, 7) for participatory-suffering of Christ. Both render in Thai with 'ความทυκข์' family but distinguished by collocation."
+    }
+  },
+  {
+    "reference": "2 Corinthians 1:6",
+    "chapter": 1,
+    "verse": 6,
+    "greek": "εἴτε δὲ θλιβόμεθα,ὑπὲρ τῆς ὑμῶν παρακλήσεως καὶ σωτηρίας·εἴτε παρακαλούμεθα,ὑπὲρ τῆς ὑμῶν παρακλήσεως τῆς ἐνεργουμένης ἐν ὑπομονῇ τῶν αὐτῶν παθημάτων ὧν καὶ ἡμεῖς πάσχομεν,",
+    "bsb_english": "If we are afflicted, it is for your comfort and salvation; if we are comforted, it is for your comfort, which accomplishes in you patient endurance of the same sufferings we experience.",
+    "translation": {
+      "thai": "หากเราถูกบีบคั้นด้วยความทุกข์ลำบาก ก็เป็นไปเพื่อการหนุนใจและความรอดของพวกท่าน หากเราได้รับการหนุนใจ ก็เป็นไปเพื่อการหนุนใจของพวกท่าน ซึ่งเกิดผลในการอดทนต่อความทุกข์เดียวกันที่เราเองก็ทนรับ",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "εἴτε δὲ θλιβόμεθα", "thai": "หากเรαถูกบีบคั้นด้วยความทυκข์ลำบาก", "rationale": "θλίβω passive = 'be pressed/afflicted'. Per uW grammar-connect-condition-fact, the condition is presented as hypothetical but is in fact the case — Thai 'หาก...' preserves the conditional surface while remaining truthful. 'ถูกบีบคั้น' captures the pressure-metaphor of θλίβω literally; 'ด้วยความทυκข์ลำบาก' specifies the abstract substantive (matches the noun-form θλῖψις used elsewhere in chapter)." },
+        { "greek": "ὑπὲρ τῆς ὑμῶν παρακλήσεως καὶ σωτηρίας", "thai": "เพื่อการหนυνใจและความรอดของพวกท่าน", "rationale": "ὑπέρ + genitive = 'on behalf of / for the benefit of'. Pauline-vicarious-suffering pattern: Paul's afflictions become salvific for the Corinthians. σωτηρία → 'ความรอด' (corpus lock, 1 Th 5:8-9, 2 Th 2:13)." },
+        { "greek": "τῆς ἐνεργουμένης", "thai": "ซึ่งเกิดผล", "rationale": "ἐνεργέω middle participle = 'be at work / produce-effect / accomplish'. Pauline favorite verb (16x). Thai 'เกิดผล' captures the 'effective working-out' sense — the comfort is dynamically active, not static." },
+        { "greek": "ἐν ὑπομονῇ τῶν αὐτῶν παθημάτων", "thai": "ในการอดทนต่อความทυκข์เดียวกัน", "rationale": "ὑπομονή → 'การอดทน' (corpus lock from 1 Th 1:3, 2 Th 1:4 'ความอดทน'); using 'การ' here for the verbal-action sense fits the syntactic context (object of ἐνεργέω). 'ความทυκข์เดียวกัน' renders τῶν αὐτῶν παθημάτων (same πάθημα Paul mentioned in v.5)." }
+      ],
+      "notes": "Greek text-flow: 'If A → for-purpose-X / If B → for-purpose-Y'. The main thought is single (Paul's experience-vicarious-of-Christ benefits Corinthians) split into two parallel conditional clauses. Pronoun shift: per uW figs-exclusive, 'we' from here through v.21 first half refers to Paul + Timothy (not the Corinthians)."
+    }
+  },
+  {
+    "reference": "2 Corinthians 1:7",
+    "chapter": 1,
+    "verse": 7,
+    "greek": "καὶ ἡ ἐλπὶς ἡμῶν βεβαία ὑπὲρ ὑμῶν·εἰδότες ὅτι ὡς κοινωνοί ἐστε τῶν παθημάτων,οὕτως καὶ τῆς παρακλήσεως.",
+    "bsb_english": "And our hope for you is sure, because we know that just as you share in our sufferings, so also you will share in our comfort.",
+    "translation": {
+      "thai": "และความหวังของเราเกี่ยวกับพวกท่านก็มั่นคง เพราะเรารู้ว่าตามที่พวกท่านมีส่วนร่วมในความทุกข์ทั้งหลาย พวกท่านก็จะมีส่วนร่วมในการหนุนใจเช่นเดียวกัน",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "ἡ ἐλπὶς ἡμῶν βεβαία", "thai": "ความหวังของเรา...ก็มั่นคง", "rationale": "ἐλπίς → 'ความหวัง' (corpus standard). βέβαιος → 'มั่นคง' (NT freq=8 — the cognate of βεβαιόω 'establish' which appears in v.21; Thai mirrors the cognate by using 'มั่นคง'). Per uW grammar-connect-logic-result: option to reverse clause order, but Thai keeps the Greek order naturally." },
+        { "greek": "κοινωνοί ἐστε τῶν παθημάτων", "thai": "พวกท่านมีส่วนร่วมในความทυκข์ทั้งหลาย", "rationale": "κοινωνός (noun, 'partner/sharer', NT freq=10) → 'ผู้มีส่วนร่วม' / 'มีส่วนร่วม' verbal in Thai. Same πάθημα cluster from v.5-6 — 'ความทυκข์' family." },
+        { "greek": "οὕτως καὶ τῆς παρακλήσεως", "thai": "พวกท่านก็จะมีส่วนร่วมในการหนυνใจเช่นเดียวกัน", "rationale": "Per uW figs-ellipsis, the elliptical phrase needs supplied content from the prior clause for Thai clarity — added 'พวกท่านก็จะมีส่วนร่วมใน' to complete the parallel. The future implication is captured by 'ก็จะ...' (uW reads this as future hope)." }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "2 Corinthians 1:8",
+    "chapter": 1,
+    "verse": 8,
+    "greek": "Οὐ γὰρ θέλομεν ὑμᾶς ἀγνοεῖν,ἀδελφοί,ὑπὲρ τῆς θλίψεως ἡμῶν τῆς γενομένης ἐν τῇ Ἀσίᾳ,ὅτι καθ’ὑπερβολὴν ὑπὲρ δύναμιν ἐβαρήθημεν,ὥστε ἐξαπορηθῆναι ἡμᾶς καὶ τοῦ ζῆν·",
+    "bsb_english": "We do not want you to be unaware, brothers, of the hardships we encountered in the province of Asia. We were under a burden far beyond our ability to endure, so that we despaired even of life.",
+    "translation": {
+      "thai": "พี่น้องทั้งหลาย เราไม่อยากให้พวกท่านไม่ทราบเรื่องความทุกข์ลำบากที่เราประสบในแคว้นเอเชีย ว่าเราถูกกดทับอย่างหนักเกินกำลังที่จะทนได้ จนเราถึงกับสิ้นหวังแม้แต่ในการมีชีวิตอยู่",
+      "thai_literal": null,
+      "thai_summary": "เปาโลเล่าถึงเหตุการณ์ที่เกือบเสียชีวิตในแคว้นเอเชีย — น่าจะอ้างถึงเหตุการณ์รุนแรงในเมืองเอเฟซัสที่บันทึกไว้ในกิจการ 19 (การจลาจลของช่างเงิน) หรืออีกเหตุการณ์ที่ไม่ได้บันทึก ความทุกข์นั้นหนักหน่วงจนเปาโลและทิโมธีคิดว่าจะไม่รอด เป็นพื้นฐานของบทสรรเสริญในข้อ 3-7 ซึ่งเปาโลเขียนหลังจากได้รับการช่วยกู้",
+      "key_decisions": [
+        { "greek": "Οὐ γὰρ θέλομεν ὑμᾶς ἀγνοεῖν", "thai": "เราไม่อยากให้พวกท่านไม่ทราบ", "rationale": "Pauline disclosure-formula (Rom 1:13, 11:25, 1 Co 10:1, 12:1, 1 Th 4:13). Per uW figs-doublenegatives, could become positive 'we want you to know' — but Thai 'ไม่อยาก...ไม่ทราบ' preserves the Greek emphasis (the negative is rhetorically weighty, signaling 'don't miss this')." },
+        { "greek": "ἀδελφοί", "thai": "พี่น้องทั้งหลาย", "rationale": "Vocative direct-address; corpus lock for Pauline ἀδελφοί → 'พี่น้องทั้งหลาย' (1 Th 2:1, 4:1, 4:13, 5:1; 1 Co 1:10 etc.)." },
+        { "greek": "ἐν τῇ Ἀσίᾳ", "thai": "ในแคว้นเอเชีย", "rationale": "Ἀσία → 'แคว้นเอเชีย' (corpus lock from Acts 19, 20, 21). Roman provincia-Asia, the western region of modern Anatolia where Ephesus was the capital." },
+        { "greek": "καθ’ὑπερβολὴν ὑπὲρ δύναμιν ἐβαρήθημεν", "thai": "เราถูกกดทับอย่างหนักเกินกำลังที่จะทนได้", "rationale": "ὑπερβολή (NT freq=8) 'beyond-throwing' = excess; βαρέω (NT freq=6) passive 'be burdened'. Per uW figs-metaphor, the affliction is a heavy weight crushing them. Thai 'ถูกกดทับ' preserves the weight-metaphor; 'อย่างหนักเกินกำลัง' captures καθ’ὑπερβολὴν ὑπὲρ δύναμιν." },
+        { "greek": "ἐξαπορηθῆναι ἡμᾶς καὶ τοῦ ζῆν", "thai": "เราถึงกับสิ้นหวังแม้แต่ในการมีชีวิตอยู่", "rationale": "ἐξαπορέομαι (NT freq=2, near-hapax — only here and 4:8) intensified-form of ἀπορέω (be at a loss): 'utterly despair'. Thai 'ถึงกับสิ้นหวัง' captures the intensifier ἐξ-. καί + τοῦ ζῆν = 'even of (continued) life'." }
+      ],
+      "notes": "ἐξαπορέομαι is rare (NT freq=2). The 'tribulation in Asia' is Paul's narrative-setup for the doxology of vv.3-7 — historians debate whether this refers to (a) the Ephesus riot (Acts 19:23-41), (b) imprisonment hinted at in 1 Co 15:32 'fought with wild beasts at Ephesus', (c) an unrecorded sickness/persecution. uW notes lean toward unspecified."
+    }
+  },
+  {
+    "reference": "2 Corinthians 1:9",
+    "chapter": 1,
+    "verse": 9,
+    "greek": "ἀλλὰ αὐτοὶ ἐν ἑαυτοῖς τὸ ἀπόκριμα τοῦ θανάτου ἐσχήκαμεν,ἵνα μὴ πεποιθότες ὦμεν ἐφ’ἑαυτοῖς ἀλλ’ἐπὶ τῷ θεῷ τῷ ἐγείροντι τοὺς νεκρούς·",
+    "bsb_english": "Indeed, we felt we were under the sentence of death, in order that we would not trust in ourselves, but in God, who raises the dead.",
+    "translation": {
+      "thai": "แท้จริงแล้วในตัวเราเองนั้น เราได้รับคำตัดสินถึงความตาย เพื่อเราจะไม่วางใจในตนเอง แต่วางใจในพระเจ้าผู้ทรงให้คนตายเป็นขึ้น",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "τὸ ἀπόκριμα τοῦ θανάτου ἐσχήκαμεν", "thai": "เราได้รับคำตัดสินถึงความตาย", "rationale": "ἀπόκριμα NT-HAPAX (freq=1, only here). Classical Greek: 'official decision/verdict/answer'. Per uW figs-metaphor: judicial language — like a condemned-to-die sentence. Thai 'คำตัดสินถึงความตาย' preserves the legal-formal force of ἀπόκριμα (not a casual 'death-feeling' but a formal verdict). ἐσχήκαμεν perfect-active 'have-had/have-received-and-still-feel' → Thai 'ได้รับ' (settled past with continuing relevance)." },
+        { "greek": "ἵνα μὴ πεποιθότες ὦμεν ἐφ’ἑαυτοῖς ἀλλ’ἐπὶ τῷ θεῷ", "thai": "เพื่อเรαจะไม่วางใจในตนเอง แต่วางใจในพระเจ้α", "rationale": "πείθω perfect-participle πεποιθώς = 'have-confidence-in / trust-in'. Pauline divine-pedagogy theme: human helplessness drives trust to God alone. Thai 'วางใจ' (place trust) captures perfect-state. Repeated for clarity per uW figs-ellipsis." },
+        { "greek": "τῷ ἐγείροντι τοὺς νεκρούς", "thai": "ผู้ทρงให้คนตายเป็นขึ้น", "rationale": "ἐγείρω present-participle of God = 'the-one-who-raises'. Per uW figs-idiom: 'raising the dead' is a Hebraic-divine title (cf. בָרוּךְ אַתָּה ה' מְחַיֶּה הַמֵּתִים from synagogue Amidah). Pauline-resurrection-vocabulary cluster — confirmed in 1 Co 15. Thai 'ทρงให้คนตายเป็นขึ้น' takes ราชาศัπτ์ (divine subject); locks the participial 'ทρงให้...เป็นขึ้น' formula for raising-the-dead theme." }
+      ],
+      "notes": "ἀπόκριμα = NT HAPAX (freq=1). Theological setup for vv.10-11: God who raises the dead is the basis of Paul's deliverance-hope. Echoes 1 Co 15 resurrection chapter — the ground of all hope is the resurrection-of-the-dead doctrine."
+    }
+  },
+  {
+    "reference": "2 Corinthians 1:10",
+    "chapter": 1,
+    "verse": 10,
+    "greek": "ὃς ἐκ τηλικούτου θανάτου ἐρρύσατο ἡμᾶς καὶ ῥύσεται,εἰς ὃν ἠλπίκαμεν ὅτι καὶ ἔτι ῥύσεται,",
+    "bsb_english": "He has delivered us from such a deadly peril, and He will deliver us. In Him we have placed our hope that He will yet again deliver us,",
+    "translation": {
+      "thai": "พระองค์ทรงช่วยเราให้พ้นจากภัยถึงตายอันใหญ่หลวงเช่นนี้ และจะทรงช่วยเราต่อไป เราได้วางความหวังในพระองค์ว่าพระองค์จะทรงช่วยเราอีก",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "ἐκ τηλικούτου θανάτου", "thai": "จากภัยถึงตายอันใหญ่หลวงเช่นนี้", "rationale": "τηλικοῦτος (NT freq=4) = 'so great / so tremendous'. Per uW figs-metonymy: 'such a great death' represents the deadly peril (death personified as the threat). Thai 'ภัยถึงตายอันใหญ่หลวง' renders the metonymy plainly while keeping the intensity-marker 'อันใหญ่หลวง' (= τηλικοῦτος)." },
+        { "greek": "ἐρρύσατο ἡμᾶς καὶ ῥύσεται", "thai": "ทρงช่วยเรα...และจะทρงช่วยเรαต่อไป", "rationale": "ῥύομαι aorist + future = 'has rescued and will rescue.' Standard Pauline Thai for divine deliverance: 'ทρงช่วย...ให้พ้น' (cf. Gal 1:4 'ทρงช่วยเรαให้พ้น'). Past-then-future temporal marking matches the Greek's confident projection. ทρง takes ราชาศัπτ์ for divine subject." },
+        { "greek": "εἰς ὃν ἠλπίκαμεν", "thai": "เรαได้วางความหวังในพระองค์", "rationale": "ἐλπίζω perfect-active = 'have-set-our-hope-and-still-do.' Per uW figs-abstractnouns option: could verbalize as 'we trust' but Thai 'วางความหวัง' is just as natural and preserves the noun ἐλπίς (consistency with v.7 'ความหวัง' lock)." }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "2 Corinthians 1:11",
+    "chapter": 1,
+    "verse": 11,
+    "greek": "συνυπουργούντων καὶ ὑμῶν ὑπὲρ ἡμῶν τῇ δεήσει,ἵνα ἐκ πολλῶν προσώπων τὸ εἰς ἡμᾶς χάρισμα διὰ πολλῶν εὐχαριστηθῇ ὑπὲρ ἡμῶν.",
+    "bsb_english": "as you help us by your prayers. Then many will give thanks on our behalf for the favor shown us in answer to their prayers.",
+    "translation": {
+      "thai": "โดยที่พวกท่านก็ร่วมกันช่วยเราด้วยคำอธิษฐาน เพื่อว่าของประทานแห่งพระคุณซึ่งประทานแก่เราโดยอาศัยคำอธิษฐานของคนเป็นจำนวนมาก จะเป็นเหตุให้คนหลายคนถวายขอบพระคุณเพื่อพวกเรา",
+      "thai_literal": null,
+      "thai_summary": "เปาโลขอให้คริสเตียนชาวโครินธ์ร่วมอธิษฐานเพื่อท่าน — และเชื่อว่าคำอธิษฐานของพวกเขาเป็นเครื่องมือที่พระเจ้าใช้ในการประทานพระคุณ เป็นการสะท้อนหลักการสำคัญของพันธกิจ คือ คริสเตียนทั้งคริสตจักรมีส่วนร่วมในงานของพระเจ้าผ่านการอธิษฐาน",
+      "key_decisions": [
+        { "greek": "συνυπουργούντων καὶ ὑμῶν ὑπὲρ ἡμῶν τῇ δεήσει", "thai": "โดยที่พวกท่านก็ร่วมกันช่วยเราด้วยคำอธิษฐาน", "rationale": "συνυπουργέω NT-HAPAX (freq=1). Triple-compound: σύν+ὑπό+ἔργον — 'work-under-together / cooperate-by-serving'. Genitive-absolute participle providing the means of God's continued rescue. Thai 'ร่วมกันช่วย...ด้วย...' captures the σύν 'together' + 'help' core. δέησις → 'คำอธิษฐาν' (Pauline standard for petitionary prayer; 1 Th 5:17 family)." },
+        { "greek": "τὸ εἰς ἡμᾶς χάρισμα", "thai": "ของประทานแห่งพระคุณซึ่งประทานแก่เรα", "rationale": "χάρισμα here = 'favor/gracious-gift' — God's act-of-rescue itself viewed as a grace-gift (per uW: 'something God will do for Paul...in answer to many people's prayers'). Different sense from χάρισμα = 'spiritual gift' (1 Co 12). Thai 'ของประทานแห่งพระคุณ' captures this rescue-as-grace; lock for the broader χάρισμα-cluster (will be revisited at 1 Co 12 / Rom 12 spiritual-gifts). Note 1 Co 7:7 used 'ของประทานเฉพาะของตนจากพระเจ้า' — same head-noun, similar Thai render. εἰς ἡμᾶς dative-direction → 'แก่เรα'." },
+        { "greek": "ἐκ πολλῶν προσώπων ... διὰ πολλῶν", "thai": "โดยอาศัยคำอธิษฐานของคนเป็นจำนวนมาก ... คนหลายคน", "rationale": "Per uW figs-synecdoche, πρόσωπον 'face' here represents whole persons — Thai uses 'คน' directly (idiom 'face' for person doesn't work in Thai). Per uW figs-ellipsis, διὰ πολλῶν (lit. 'through many') is supplied with 'อธิษฐาν' from the prior clause for clarity ('through many [prayers/people]')." },
+        { "greek": "εὐχαριστηθῇ ὑπὲρ ἡμῶν", "thai": "ถวายขอบพระคุณเพื่อพวกเรα", "rationale": "εὐχαριστέω passive subjunctive — passive form is awkward in Thai; restructure to active with 'people' as subject: 'คน...ถวายขอบพระคุณ' (per uW figs-activepassive). 'ถวาย' takes the directional-towards-God register (humble offering)." }
+      ],
+      "notes": "συνυπουργέω = NT HAPAX. Pauline-cooperative-prayer doctrine: the saints' intercession is the channel of God's continued grace to Paul (cf. Rom 15:30, Phil 1:19, Phlm 22). χάρισμα here NOT the spiritual-gift sense (1 Co 12) — it's the rescue-act-as-gracious-gift."
+    }
+  },
+  {
+    "reference": "2 Corinthians 1:12",
+    "chapter": 1,
+    "verse": 12,
+    "greek": "Ἡ γὰρ καύχησις ἡμῶν αὕτη ἐστίν,τὸ μαρτύριον τῆς συνειδήσεως ἡμῶν,ὅτι ἐν ἁγιότητι καὶ εἰλικρινείᾳ τοῦ θεοῦ,οὐκ ἐν σοφίᾳ σαρκικῇ ἀλλ’ἐν χάριτι θεοῦ,ἀνεστράφημεν ἐν τῷ κόσμῳ,περισσοτέρως δὲ πρὸς ὑμᾶς·",
+    "bsb_english": "For this is our boast: Our conscience testifies that we have conducted ourselves in the world, and especially in relation to you, in the holiness and sincerity that are from God—not in worldly wisdom, but in the grace of God.",
+    "translation": {
+      "thai": "เพราะว่าสิ่งที่เราภาคภูมิใจคือสิ่งนี้ คือคำพยานของมโนธรรมของเรา ที่ว่าเราได้ดำเนินชีวิตในโลก โดยเฉพาะอย่างยิ่งต่อพวกท่าน ด้วยความบริสุทธิ์และความจริงใจที่มาจากพระเจ้า ไม่ใช่ด้วยสติปัญญาฝ่ายเนื้อหนัง แต่ด้วยพระคุณของพระเจ้า",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "Ἡ γὰρ καύχησις ἡμῶν", "thai": "สิ่งที่เรαภาคภูมิใจ", "rationale": "καύχησις (NT freq=11) here in positive-sense (per uW: 'feelings of great satisfaction and joy in doing something well'). Pauline-good-boasting concept (developed throughout 2 Cor — see uW book-intro Part 3). Thai 'ภาคภูมิใจ' / 'สิ่งที่...ภาคภูมิใจ' captures positive-pride. Distinguishes from negative καύχημα at 1 Co 5:6 ('การอวด' negative connotation) — here positive Pauline confidence. Will recur in v.14 (καύχημα) — same conceptual cluster." },
+        { "greek": "τὸ μαρτύριον τῆς συνειδήσεως ἡμῶν", "thai": "คำพยานของมโนธρρμของเรα", "rationale": "συνείδησις → 'มโนธρρμ' (corpus lock from 1 Co 8:7, 8:10, 8:12, 10:25, 10:27, 10:28). Per uW figs-personification: conscience testifies as a witness — Thai 'คำพยานของมโนธρρม' preserves the legal-witness imagery." },
+        { "greek": "ἐν ἁγιότητι καὶ εἰλικρινείᾳ τοῦ θεοῦ", "thai": "ด้วยความบริสุทธิ์และความจริงใจที่มาจากพระเจ้α", "rationale": "TEXTUAL VARIANT: SBLGNT/NA28 reads ἁγιότητι ('holiness'); some MSS (Western) read ἁπλότητι ('simplicity/sincerity'). Following SBLGNT. ἁγιότης (NT freq=2) → 'ความบริσุทธิ์' (Thai-Christian standard for ἁγι- root); εἰλικρίνεια (NT freq=3) → 'ความจริงใจ' (sun-tested-purity → genuineness/transparency). Distinct Thai words to preserve the doublet's two-prong force." },
+        { "greek": "οὐκ ἐν σοφίᾳ σαρκικῇ", "thai": "ไม่ใช่ด้วยสติปัญญาฝ่ายเนื้อหนัง", "rationale": "σαρκικός (NT freq=7) → 'ฝ่ายเนื้อหนัง' (corpus lock); contrast with πνευματικός 'ฝ่ายวิญญาณ' from 1 Co. σοφία 'wisdom' here qualified by 'fleshly' = natural-human-cunning vs. divine-grace-led conduct (uW figs-metonymy)." },
+        { "greek": "ἀνεστράφημεν ἐν τῷ κόσμῳ", "thai": "เรαได้ดำเนินชีวิตในโลก", "rationale": "ἀναστρέφω (NT freq=10) middle/passive 'conduct-oneself / live'. Thai 'ดำเนินชีวิต' is the standard for general-conduct verbs (cf. 1 Th 4:1 'ดำเนินชีวิต'). κόσμος here = sphere of human-life (not negative 'world-system')." }
+      ],
+      "notes": "TEXTUAL VARIANT v.12 — SBLGNT ἁγιότητι 'holiness' (uW: 'in some ancient manuscripts: in sincerity'). NA28 agrees with SBLGNT. Critical-text consensus retained. Major Thai term-introductions: ἁγιότης (holiness, freq=2), εἰλικρίνεια (sincerity, freq=3) both first-occurrences in corpus."
+    }
+  },
+  {
+    "reference": "2 Corinthians 1:13",
+    "chapter": 1,
+    "verse": 13,
+    "greek": "οὐ γὰρ ἄλλα γράφομεν ὑμῖν ἀλλ’ἢ ἃ ἀναγινώσκετε ἢ καὶ ἐπιγινώσκετε,ἐλπίζω δὲ ὅτι ἕως τέλους ἐπιγνώσεσθε,",
+    "bsb_english": "For we do not write you anything that is beyond your ability to read and understand. And I hope that you will understand us completely,",
+    "translation": {
+      "thai": "เพราะเราไม่ได้เขียนสิ่งใดถึงพวกท่านนอกจากสิ่งที่พวกท่านอ่านและเข้าใจได้ และข้าพเจ้าหวังว่าพวกท่านจะเข้าใจอย่างครบถ้วนจนถึงที่สุด",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "οὐ γὰρ ἄλλα γράφομεν ὑμῖν ἀλλ’ἢ", "thai": "เรαไม่ได้เขียนสิ่งใดถึงพวกท่านนอกจาก", "rationale": "Greek double-negative ἀλλ’ ἤ ('but-than') after οὐ + ἄλλα = 'no other...except'. Per uW figs-doublenegatives, the natural Thai is positive-equivalent 'ไม่ได้...นอกจาก...' (preserves the rhetorical force without artificial Greek-mimicking)." },
+        { "greek": "ἐπιγινώσκετε ... ἐπιγνώσεσθε", "thai": "เข้าใจ ... จะเข้าใจ", "rationale": "ἐπιγινώσκω 'know-fully / recognize' (intensified γινώσκω). Repeated with present + future — locks 'เข้าใจ' as the lemma rendering. Thai naturally distinguishes time via 'จะ' future-marker." },
+        { "greek": "ἕως τέλους", "thai": "จนถึงที่สุด", "rationale": "Per uW figs-idiom: ambiguous between (a) 'all of it / fully' and (b) 'until the end (= until Christ returns)'. Thai 'จนถึงที่สุด' preserves the same ambiguity (could be temporal or completeness). v.14's 'in the day of our Lord Jesus' may favor the eschatological reading — but the ambiguity is intentional." }
+      ],
+      "notes": "Pauline transparency-defense: 'no hidden meanings behind the writing.' Plural 'we write' may include Timothy or be epistolary plural for Paul alone (per uW writing-politeness)."
+    }
+  },
+  {
+    "reference": "2 Corinthians 1:14",
+    "chapter": 1,
+    "verse": 14,
+    "greek": "καθὼς καὶ ἐπέγνωτε ἡμᾶς ἀπὸ μέρους,ὅτι καύχημα ὑμῶν ἐσμεν καθάπερ καὶ ὑμεῖς ἡμῶν ἐν τῇ ἡμέρᾳ τοῦ κυρίου ἡμῶν Ἰησοῦ.",
+    "bsb_english": "as you have already understood us in part, that you may boast of us just as we will boast of you in the day of our Lord Jesus.",
+    "translation": {
+      "thai": "เช่นเดียวกับที่พวกท่านได้เข้าใจเราอยู่บ้างแล้วว่า เราเป็นเหตุที่พวกท่านภูมิใจ และพวกท่านก็เป็นเหตุที่เราภูมิใจในวันแห่งพระเยซูองค์พระผู้เป็นเจ้าของเรา",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "ἀπὸ μέρους", "thai": "อยู่บ้างแล้ว", "rationale": "ἀπὸ μέρους = 'in part / partially' (Pauline idiom, 1 Co 13:9-12). Thai 'อยู่บ้าง' captures the partial-but-real sense. Sets up the antithesis with v.13's 'จนถึงที่สุด' (full-future-understanding)." },
+        { "greek": "καύχημα ὑμῶν ἐσμεν", "thai": "เรαเป็นเหตุที่พวกท่านภูมิใจ", "rationale": "καύχημα (NT freq=11) here positive-sense per uW figs-explicit: 'source of boasting / source of pride / source of joy.' Same root as καύχησις v.12 — Thai consistency: 'ภูมิใจ' positive-pride. 1 Co 5:6 used 'การอวด' (negative); here positive context calls for 'เหตุที่...ภูมิใจ'. Pauline mutual-pride between apostle and church will reach climax at 1 Th 2:19-20." },
+        { "greek": "ἐν τῇ ἡμέρᾳ τοῦ κυρίου ἡμῶν Ἰησοῦ", "thai": "ในวันแห่งพระเยซูองค์พระผู้เป็นเจ้าของเรα", "rationale": "Eschatological 'Day of the Lord' formula — corpus lock from 1 Co 1:8 ('วันแห่งพระเยซูคริสต์'), 1 Th 5:2 ('วันขององค์พระผู้เป็นเจ้า'). Thai 'วันแห่งพระเยซู' captures the parousia-judgment context." }
+      ],
+      "notes": "Mutual-boasting motif: Paul's apostolic-pride in the Corinthians and theirs in him will be vindicated at the Day-of-the-Lord. Same concept reappears with greater force at 2 Cor 5:12, 7:14, 8:24, 9:2-3."
+    }
+  },
+  {
+    "reference": "2 Corinthians 1:15",
+    "chapter": 1,
+    "verse": 15,
+    "greek": "Καὶ ταύτῃ τῇ πεποιθήσει ἐβουλόμην πρότερον πρὸς ὑμᾶς ἐλθεῖν,ἵνα δευτέραν χάριν σχῆτε,",
+    "bsb_english": "Confident of this, I planned to visit you first, so that you might receive a double blessing.",
+    "translation": {
+      "thai": "และด้วยความมั่นใจนี้ ข้าพเจ้าตั้งใจไว้ก่อนแล้วว่าจะมาหาพวกท่าน เพื่อพวกท่านจะได้รับพระคุณเป็นครั้งที่สอง",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "ταύτῃ τῇ πεποιθήσει", "thai": "ด้วยความมั่นใจนี้", "rationale": "πεποίθησις (NT freq=6, all Pauline — 5 of 6 in 2 Cor!) → 'ความมั่นใจ' (corpus lock from 2 Th 3:4 'พวกเรามั่นใจ'). 'นี้' refers back to vv.13-14 (Paul's confidence in mutual understanding). Per uW writing-pronouns option; per uW figs-abstractnouns alternative also OK but Thai noun-form is natural here." },
+        { "greek": "πρότερον πρὸς ὑμᾶς ἐλθεῖν", "thai": "ตั้งใจไว้ก่อนแล้วว่าจะมาหาพวกท่าน", "rationale": "πρότερον per uW figs-explicit: ambiguous — (1) 'before going to Macedonia' (temporal-priority among destinations), or (2) 'originally / at first' (before plan-change). Thai 'ก่อนแล้ว' is similarly ambiguous (covers both readings); v.16's elaboration (Macedonia route) supports (1) without forcing it." },
+        { "greek": "ἵνα δευτέραν χάριν σχῆτε", "thai": "เพื่อพวกท่านจะได้รับพระคุณเป็นครั้งที่สอง", "rationale": "TEXTUAL VARIANT: SBLGNT/NA28 reads χάριν ('grace'); some MSS read χαράν ('joy'). Following SBLGNT. χάρις 'grace/favor/blessing' here metonymy for 'a beneficial visit-occasion' — the planned-double-visit would be a double-grace. Thai 'พระคุณเป็นครั้งที่สอง' preserves χάρις (= the benefit of his presence). 'พระคุณ' = corpus lock for χάρις." }
+      ],
+      "notes": "TEXTUAL VARIANT v.15 — SBLGNT χάριν (uW: 'in some ancient manuscripts: a second joy'). NA28 agrees. Pauline-context favors χάρις (the benefit of Paul's presence + ministry, not just emotional joy). πεποίθησις-density: 5 of NT's 6 occurrences are in 2 Cor (here, 3:4, 7:4, 8:22, 10:2)."
+    }
+  },
+  {
+    "reference": "2 Corinthians 1:16",
+    "chapter": 1,
+    "verse": 16,
+    "greek": "καὶ δι’ὑμῶν διελθεῖν εἰς Μακεδονίαν,καὶ πάλιν ἀπὸ Μακεδονίας ἐλθεῖν πρὸς ὑμᾶς καὶ ὑφ’ὑμῶν προπεμφθῆναι εἰς τὴν Ἰουδαίαν.",
+    "bsb_english": "I wanted to visit you on my way to Macedonia, and to return to you from Macedonia, and then to have you help me on my way to Judea.",
+    "translation": {
+      "thai": "คือผ่านพวกท่านไปยังแคว้นมาซิโดเนีย แล้วกลับจากแคว้นมาซิโดเนียมาหาพวกท่านอีก แล้วให้พวกท่านส่งข้าพเจ้าต่อไปยังแคว้นยูเดีย",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "δι’ὑμῶν διελθεῖν", "thai": "ผ่านพวกท่านไป", "rationale": "Per uW figs-metonymy: 'through you' means 'through the place where you live (Corinth).' Thai 'ผ่านพวกท่าน' preserves the metonymy in natural Thai (a Thai reader understands 'through you/your area' as a transit-route)." },
+        { "greek": "Μακεδονίαν ... Ἰουδαίαν", "thai": "แคว้นมαซิโดเนีย ... แคว้นยูเดีย", "rationale": "Proper-noun region locks: Μακεδονία → 'แคว้นมαซิโดเนีย' (corpus lock from Acts), Ἰουδαία → 'แคว้นยูเดีย' (corpus lock from Acts, Matthew, Luke)." },
+        { "greek": "ὑφ’ὑμῶν προπεμφθῆναι", "thai": "ให้พวกท่านส่งข้าพเจ้าต่อไป", "rationale": "προπέμπω passive-infinitive 'be sent-on-the-way / be helped-with-supplies-for-journey.' Per uW figs-euphemism, this is Pauline-polite-shorthand for material support (food, money, lodging for the trip — cf. Rom 15:24, Tit 3:13, 3 Jn 6). Thai 'ส่ง...ต่อไป' preserves the literal sense; the material-support implication is left implicit (Thai readers don't have a direct equivalent euphemism, but 'ส่งต่อ' is read as 'help on the way')." }
+      ],
+      "notes": "Paul's revised plan vs. original: he originally planned Corinth → Macedonia → Corinth → Judea (a 'double-grace' visit per v.15). The chapter then explains why he did NOT execute this — vv.23-2:1 reveal the change-of-plans was protective (sparing Corinthians a painful visit)."
+    }
+  },
+  {
+    "reference": "2 Corinthians 1:17",
+    "chapter": 1,
+    "verse": 17,
+    "greek": "τοῦτο οὖν βουλόμενος μήτι ἄρα τῇ ἐλαφρίᾳ ἐχρησάμην;ἢ ἃ βουλεύομαι κατὰ σάρκα βουλεύομαι,ἵνα ᾖ παρ’ἐμοὶ τὸ Ναὶ ναὶ καὶ τὸ Οὒ οὔ;",
+    "bsb_english": "When I planned this, did I do it carelessly? Or do I make my plans by human standards, so as to say “Yes, yes” and also “No, no”?",
+    "translation": {
+      "thai": "ดังนั้น เมื่อข้าพเจ้าตั้งใจเช่นนี้ ข้าพเจ้าได้กระทำอย่างเลื่อนลอยหรือ? หรือว่าสิ่งที่ข้าพเจ้าวางแผนนั้น ข้าพเจ้าวางแผนตามเนื้อหนัง จนกระทั่งในตัวข้าพเจ้ามีทั้ง ‘ใช่ ใช่’ และ ‘ไม่ ไม่’?",
+      "thai_literal": null,
+      "thai_summary": "ข้อ 17-22 เป็นการป้องกันตัวของเปาโลต่อข้อกล่าวหาว่าท่านพูดอย่างทำอย่าง — เปลี่ยนแผนเดินทางอย่างไม่จริงจัง เปาโลใช้คำถามเชิงโวหารสองข้อแล้วชี้ว่าข่าวสารของท่านสะท้อนความสัตย์ซื่อของพระเจ้าเอง — เพราะพระเยซูคริสต์ทรงเป็น ‘ใช่’ ที่สำเร็จในพระสัญญาทั้งสิ้นของพระเจ้า เปาโลที่รับใช้พระคริสต์จึงไม่อาจเป็นทั้ง ‘ใช่’ และ ‘ไม่’ พร้อมกัน",
+      "key_decisions": [
+        { "greek": "μήτι ἄρα τῇ ἐλαφρίᾳ ἐχρησάμην", "thai": "ข้าพเจ้αได้กระทำอย่างเลื่อนลอยหρือ?", "rationale": "ἐλαφρία = NT-HAPAX (freq=1, only here). Lit. 'lightness/levity/fickleness'. Per uW figs-rquestion: rhetorical question expecting 'no.' Thai preserves question-form (RULES §5b: Thai question-mark, no space). 'อย่างเลื่อนลอย' captures 'unanchored / flighty / capricious' — the accusation is that Paul was unreliable. μήτι = negative-expecting interrogative particle." },
+        { "greek": "κατὰ σάρκα βουλεύομαι", "thai": "วางแผนตามเนื้อหนัง", "rationale": "σάρξ → 'เนื้อหนัง' (corpus lock); κατὰ σάρκα is Pauline-pejorative idiom = 'according-to-changeable-human-desires' (per uW figs-idiom, contrasted with πνεῦμα-led conduct). Thai 'ตามเนื้อหนัง' preserves the Pauline anti-σάρξ register (1 Co 3:3, Rom 8:4-13, Gal 5:16-17 future-cluster)." },
+        { "greek": "ἵνα ᾖ παρ’ἐμοὶ τὸ Ναὶ ναὶ καὶ τὸ Οὒ οὔ", "thai": "จนกระทั่งในตัวข้าพเจ้αมีทั้ง ‘ใช่ ใช่’ และ ‘ไม่ ไม่’", "rationale": "ναί + ναί doubled and οὔ + οὔ doubled, in same person, simultaneously — the accusation. Per uW figs-doublet: doubled for emphasis on duplicity. Per uW figs-explicit: 'I would say both Yes-I-will-visit AND No-I-will-not-visit at the same time.' Thai uses curly single quotes per RULES §5b (matches Mat 5:37 'ใช่ก็ว่าใช่ ไม่ก็ว่าไม่' precedent for embedded yes/no idioms). The repetition preserved literally." }
+      ],
+      "notes": "ἐλαφρία = NT HAPAX. Two rhetorical questions (uW figs-rquestion) — both expect 'no' as answer. The metaphorical 'Yes/No' continues through vv.18-20 building to the christological climax (Christ as the 'Yes' to all God's promises)."
+    }
+  },
+  {
+    "reference": "2 Corinthians 1:18",
+    "chapter": 1,
+    "verse": 18,
+    "greek": "πιστὸς δὲ ὁ θεὸς ὅτι ὁ λόγος ἡμῶν ὁ πρὸς ὑμᾶς οὐκ ἔστιν Ναὶ καὶ Οὔ.",
+    "bsb_english": "But as surely as God is faithful, our message to you is not “Yes” and “No.”",
+    "translation": {
+      "thai": "แต่ตามที่พระเจ้าทรงสัตย์ซื่อนั้น ถ้อยคำของเราที่ถึงพวกท่านไม่ใช่ทั้ง ‘ใช่’ และ ‘ไม่’ ในคราวเดียวกัน",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "πιστὸς δὲ ὁ θεός", "thai": "แต่ตามที่พระเจ้αทρงสัตย์ซื่อนั้น", "rationale": "πιστός (of God as subject) → 'ทρงสัตย์ซื่อ' (corpus lock from 1 Th 5:24 'ผู้ทρงเรียกพวกท่านนั้นทρงสัตย์ซื่อ'). Greek phrase 'πιστὸς δὲ ὁ θεός' is a Pauline oath-formula (cf. 1 Co 1:9, 10:13, 1 Th 5:24, 2 Th 3:3) — God's faithfulness undergirds Paul's truthfulness. Thai 'ตามที่...' reflects the formula's grounding-function." },
+        { "greek": "ὁ λόγος ἡμῶν ὁ πρὸς ὑμᾶς", "thai": "ถ้อยคำของเรαที่ถึงพวกท่าน", "rationale": "λόγος here per uW figs-metonymy = 'message / what we said.' Includes both the spoken-gospel-proclamation AND Paul's plan-promises. Thai 'ถ้อยคำ' covers both senses." },
+        { "greek": "οὐκ ἔστιν Ναὶ καὶ Οὔ", "thai": "ไม่ใช่ทั้ง ‘ใช่’ และ ‘ไม่’ ในคราวเดียวกัน", "rationale": "Per uW figs-idiom: 'Yes and No' = contradictory speech, double-tongued. Added 'ในคราวเดียวกัน' for clarity (Greek presupposes simultaneity; Thai needs to spell it out, otherwise sequence-not-contradiction reading slips in)." }
+      ],
+      "notes": "Pauline-oath-formula 'πιστὸς ὁ θεός' guarantees the assertion — God's faithful character is the warrant for Paul's truthful word. Theological transition into vv.19-20 (Christ as the 'Yes')."
+    }
+  },
+  {
+    "reference": "2 Corinthians 1:19",
+    "chapter": 1,
+    "verse": 19,
+    "greek": "ὁ τοῦ θεοῦ γὰρ υἱὸς Ἰησοῦς Χριστὸς ὁ ἐν ὑμῖν δι’ἡμῶν κηρυχθείς,δι’ἐμοῦ καὶ Σιλουανοῦ καὶ Τιμοθέου,οὐκ ἐγένετο Ναὶ καὶ Οὒ,ἀλλὰ Ναὶ ἐν αὐτῷ γέγονεν·",
+    "bsb_english": "For the Son of God, Jesus Christ, who was proclaimed among you by me and Silvanus and Timothy, was not “Yes” and “No,” but in Him it has always been “Yes.”",
+    "translation": {
+      "thai": "เพราะพระบุตรของพระเจ้า คือพระเยซูคริสต์ ผู้ซึ่งข้าพเจ้า สิลวานัส และทิโมธี ได้ประกาศท่ามกลางพวกท่านนั้น มิได้ทรงเป็นทั้ง ‘ใช่’ และ ‘ไม่’ แต่ ‘ใช่’ ได้สำเร็จในพระองค์",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "ὁ τοῦ θεοῦ ... υἱὸς Ἰησοῦς Χριστός", "thai": "พระบุตρของพระเจ้α คือพระเยซูคριสต์", "rationale": "uW guidelines-sonofgodprinciples: 'Son of God' is an important title for Jesus describing his relationship to God. Thai 'พระบุตρ' takes the royal-honorific prefix (locked from Mark, Matthew, Luke, John corpus). 'Son of God' = christological title here, emphasizing Christ's role-as-fulfillment of God's promises." },
+        { "greek": "Σιλουανοῦ", "thai": "สิลวานัส", "rationale": "Σιλουανός → 'สิลวานัς' (corpus lock from 1 Th 1:1, 2 Th 1:1). Per uW translate-names: same person as 'Silas' (Σιλᾶς) in Acts; we keep 'สิลวานัส' for the longer-form, footnoting/aligning with Acts 'สิลาส' as already locked." },
+        { "greek": "οὐκ ἐγένετο Ναὶ καὶ Οὔ", "thai": "มิได้ทρงเป็นทั้ง ‘ใช่’ และ ‘ไม่’", "rationale": "'มิได้' formal-divine register (Christ is the subject); 'ทρงเป็น' takes ราชาศัπτ์. Same idiom-handling as v.17-18 with curly single quotes (RULES §5b)." },
+        { "greek": "ἀλλὰ Ναὶ ἐν αὐτῷ γέγονεν", "thai": "แต่ ‘ใช่’ ได้สำเร็จในพระองค์", "rationale": "γίνομαι perfect 'has become / has-come-to-be' — Pauline christological-perfect. Per uW writing-pronouns: subject-of-γέγονεν could be the proclamation, Jesus, or reality-in-general — Thai 'ได้สำเร็จ' captures 'has-been-made-to-stand-as-Yes' which works for all three readings (Christ IS the actualized Yes; the proclamation HAS BEEN consistently Yes). v.20's elaboration ('all God's promises are Yes in him') confirms the Christ-reading." }
+      ],
+      "notes": "Christological climax of the chapter: Christ as the embodied 'Yes' of God's faithfulness. Co-preachers Silvanus and Timothy attested as eyewitnesses to Paul's consistent message. Setup for v.20 universal claim."
+    }
+  },
+  {
+    "reference": "2 Corinthians 1:20",
+    "chapter": 1,
+    "verse": 20,
+    "greek": "ὅσαι γὰρ ἐπαγγελίαι θεοῦ,ἐν αὐτῷ τὸ Ναί·διὸ καὶ δι’αὐτοῦ τὸ Ἀμὴν τῷ θεῷ πρὸς δόξαν δι’ἡμῶν.",
+    "bsb_english": "For all the promises of God are “Yes” in Christ. And so through Him, our “Amen” is spoken to the glory of God.",
+    "translation": {
+      "thai": "เพราะบรรดาพระสัญญาของพระเจ้านั้น ‘ใช่’ ในพระองค์ ดังนั้น โดยพระองค์เราจึงกล่าว ‘อาเมน’ แด่พระเจ้าเพื่อพระเกียรติสิริของพระองค์",
+      "thai_literal": null,
+      "thai_summary": "ข้อนี้เป็นหนึ่งในข้อพระคัมภีร์ที่สำคัญที่สุดเกี่ยวกับพระคริสต์ — บรรดาพระสัญญาทั้งสิ้นของพระเจ้าตั้งแต่ปฐมกาลถึงผู้เผยพระวจนะ ได้สำเร็จและกลายเป็น ‘ใช่’ ในพระเยซูคริสต์ คำว่า ‘อาเมน’ (เป็นคำฮีบรู แปลว่า ‘ขอให้เป็นเช่นนั้น’ / ‘แน่นอน’) เป็นการตอบรับของคริสตจักรต่อความสัตย์ซื่อของพระเจ้า — ทุกคำอธิษฐาน ทุกการนมัสการ ‘อาเมน’ ของเรานั้นกล่าวผ่านพระคริสต์",
+      "key_decisions": [
+        { "greek": "ὅσαι γὰρ ἐπαγγελίαι θεοῦ", "thai": "บρρดาพระสัญญาของพระเจ้α", "rationale": "ὅσος (correlative) + plural ἐπαγγελίαι = 'as-many-as / all'. ἐπαγγελία → 'พระสัญญา' (corpus standard; takes royal-prefix พระ for divine promise). 'บρρดα' captures the comprehensive 'as-many-as' sense." },
+        { "greek": "ἐν αὐτῷ τὸ Ναί", "thai": "‘ใช่’ ในพระองค์", "rationale": "Per uW figs-idiom: 'Jesus makes all God's promises come to pass; he guarantees them.' Thai preserves the laconic Pauline structure ('Yes in him') with curly single quotes for the quoted-yes (RULES §5b). Christological-fulfillment-of-Hebrew-Bible motif (cf. Luke 24:44, Acts 13:32-33, Rom 1:1-3, 15:8)." },
+        { "greek": "τὸ Ἀμὴν τῷ θεῷ", "thai": "‘อαเมน’ แด่พระเจ้α", "rationale": "Aramaic-Hebrew transliteration אָמֵן āmēn → 'อαเมน' (corpus lock from gospel + 1 Co liturgical use). Pauline link: as Christ is Yes to God's promises, the believing community responds with Amen — connects to liturgical-amen practice (1 Co 14:16). 'แด่พระเจ้α' directional-honorific; 'แด่' is the formal-respectful 'to/for' particle for divine recipient." },
+        { "greek": "πρὸς δόξαν δι’ἡμῶν", "thai": "เพื่อพระเกียρติสิρิของพระองค์", "rationale": "δόξα → 'พระเกียρติสิρι' (corpus standard for divine glory; matches 1 Co 10:31 'เพื่อพระเกียρติของพระเจ้α'). 'πρὸς δόξαν' = 'toward/unto glory' purpose-construction. δι’ἡμῶν 'through us' — implicit in Thai by context (the saying 'amen' is BY us); could be made explicit but the focus stays on God's-glory-as-purpose." }
+      ],
+      "notes": "Major theological climax: Christ as the YES, church's AMEN as response. δόξα → 'พระเกียρติสิρι' lock. Aramaic ἀμήν (not transliterated as English 'amen' but as Thai 'อαเมน') consistent with 1 Co liturgical references."
+    }
+  },
+  {
+    "reference": "2 Corinthians 1:21",
+    "chapter": 1,
+    "verse": 21,
+    "greek": "ὁ δὲ βεβαιῶν ἡμᾶς σὺν ὑμῖν εἰς Χριστὸν καὶ χρίσας ἡμᾶς θεός,",
+    "bsb_english": "Now it is God who establishes both us and you in Christ. He anointed us,",
+    "translation": {
+      "thai": "พระเจ้าผู้ทรงทำให้เราพร้อมกับพวกท่านมั่นคงในพระคริสต์ และทรงเจิมเราไว้",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "ὁ ... βεβαιῶν ἡμᾶς ... εἰς Χριστόν", "thai": "ผู้ทρงทำให้เรα...มั่นคงในพระคริสต์", "rationale": "βεβαιόω (NT freq=8) divine-subject → ทρง prefix; 'ทำให้มั่นคง' echoes 1 Co 1:8 lock ('พระองค์จะทρงทำให้พวกท่านมั่นคง'). Cognate of βέβαιος v.7 ('มั่นคง') — Thai mirrors the cognate. εἰς Χριστόν 'into Christ' per uW figs-metaphor 'in close relationship with Christ' — Thai 'ในพระคริสต์' (locative sphere)." },
+        { "greek": "σὺν ὑμῖν", "thai": "พร้อมกับพวกท่าน", "rationale": "σύν + dative = 'together-with' (joint-relation). Thai 'พร้อมกับ' captures the inclusive-together sense. Pronoun-shift: from v.21 'we' begins to include the Corinthians (per uW figs-exclusive)." },
+        { "greek": "χρίσας ἡμᾶς", "thai": "ทρงเจิมเราไว้", "rationale": "χρίω (NT freq=5) — first occurrence in our corpus as the verb 'anoint.' Per uW figs-explicit: God anoints believers with the Holy Spirit. Same root as Χριστός (the Anointed One) — a sacramental-typology connection (Christ-anointed → believers-anointed-in-Christ). Thai 'เจิม' is the standard Christian rendering (oil-anointing); 'ทρง' royal prefix; 'ไว้' completed-action particle preserves aorist." }
+      ],
+      "notes": "FIRST OCCURRENCE in corpus of χρίω (anoint, freq=5) and βεβαιόω (establish, freq=8) as participles describing God's establishing-and-anointing action. Sacramental-typology setup for v.22's ἀρραβών."
+    }
+  },
+  {
+    "reference": "2 Corinthians 1:22",
+    "chapter": 1,
+    "verse": 22,
+    "greek": "ὁ καὶ σφραγισάμενος ἡμᾶς καὶ δοὺς τὸν ἀρραβῶνα τοῦ πνεύματος ἐν ταῖς καρδίαις ἡμῶν.",
+    "bsb_english": "placed His seal on us, and put His Spirit in our hearts as a pledge of what is to come.",
+    "translation": {
+      "thai": "พระองค์ได้ทรงประทับตราเราไว้ และทรงประทานพระวิญญาณเป็นมัดจำในใจของเรา",
+      "thai_literal": null,
+      "thai_summary": "เปาโลใช้สามคำที่มีความหมายเชิงพันธสัญญา — เจิม ประทับตรา และมัดจำ — เพื่อบรรยายถึงสิ่งที่พระเจ้าทรงทำในชีวิตคริสเตียน คำว่า ‘มัดจำ’ (อรอราบอน) มาจากคำในวงการธุรกิจสมัยกรีก-โรมัน หมายถึงเงินที่จ่ายล่วงหน้าเพื่อค้ำประกันการชำระเต็มจำนวนในอนาคต พระวิญญาณบริสุทธิ์ที่คริสเตียนได้รับในปัจจุบัน จึงเป็น ‘เงินดาวน์’ ที่พระเจ้าทรงประทานให้เพื่อค้ำประกันว่าพระสัญญาทั้งหมดจะสำเร็จในอนาคต (เปรียบเทียบ เอเฟซัส 1:13-14)",
+      "key_decisions": [
+        { "greek": "σφραγισάμενος ἡμᾶς", "thai": "ทρงประทับตραเรαไว้", "rationale": "σφραγίζω middle/aorist → divine-subject takes ทρง royal prefix. Per uW figs-metaphor: God marks ownership on us. Thai 'ประทับตρα' (stamp-with-seal) standard Christian rendering — locked from 1 Co 9:2's noun-form σφραγίς ('ตραประทับ'). Verb form here mirrors with consistent ตρα-root." },
+        { "greek": "τὸν ἀρραβῶνα τοῦ πνεύματος", "thai": "พระวิญญาณเป็นมัดจำ", "rationale": "ἀρραβών (NT freq=3 — only 2 Co 1:22, 5:5, Eph 1:14, all Pauline) — FIRST OCCURRENCE in corpus, locks the rendering. Greek-loanword from Semitic (Hebrew עֵרָבוֹן ‘ērāvôn) = 'down-payment / earnest / first-installment-guaranteeing-the-rest'. Per uW figs-metaphor: a partial payment with promise of full payment. Thai 'มัดจำ' captures the commercial-metaphor (Thai 'มัดจำ' is the modern commercial 'deposit' in Thai banking/contracts — exact semantic equivalent). Genitive τοῦ πνεύματος = appositive ('the down-payment, namely the Spirit') — Thai 'พระวิญญาณเป็นมัดจำ' captures the apposition. CORPUS LOCK for ἀρραβών — will govern Eph 1:14 + 2 Co 5:5." },
+        { "greek": "ἐν ταῖς καρδίαις ἡμῶν", "thai": "ในใจของเรα", "rationale": "καρδία → 'ใจ' (corpus standard); per uW figs-metonymy 'hearts' = innermost-being. The Spirit dwells in our innermost-self — Pauline-Gal 4:6 / Rom 5:5 / Rom 8:14-16 cluster of Spirit-in-hearts." }
+      ],
+      "notes": "ἀρραβών CORPUS LOCK (3 NT occurrences, all Pauline: 2 Co 1:22, 2 Co 5:5, Eph 1:14) → 'มัดจำ'. Triple-soteriological-imagery: anointed (priestly/royal) + sealed (ownership) + down-payment (eschatological-pledge) — the Spirit functions all three ways. Strong Pauline-pneumatology condensed."
+    }
+  },
+  {
+    "reference": "2 Corinthians 1:23",
+    "chapter": 1,
+    "verse": 23,
+    "greek": "Ἐγὼ δὲ μάρτυρα τὸν θεὸν ἐπικαλοῦμαι ἐπὶ τὴν ἐμὴν ψυχήν,ὅτι φειδόμενος ὑμῶν οὐκέτι ἦλθον εἰς Κόρινθον.",
+    "bsb_english": "I call God as my witness that it was in order to spare you that I did not return to Corinth.",
+    "translation": {
+      "thai": "ส่วนข้าพเจ้าขอเรียกพระเจ้าเป็นพยานต่อชีวิตของข้าพเจ้าว่า เพราะปรารถนาจะไว้ชีวิตพวกท่าน ข้าพเจ้าจึงยังไม่ได้กลับไปยังเมืองโครินธ์",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "μάρτυρα τὸν θεὸν ἐπικαλοῦμαι ἐπὶ τὴν ἐμὴν ψυχήν", "thai": "ขอเรียกพระเจ้αเป็นพยานต่อชีวิตของข้าพเจ้α", "rationale": "Per uW writing-oathformula: this is an oath-formula. Per uW figs-metonymy: ψυχή 'soul' represents 'life' here (oath-of-life — 'may God take my life if I lie'). Thai 'ต่อชีวิตของข้าพเจ้α' captures the metonymic 'soul→life' move (more natural Thai than 'จิตวิญญาณ' which would feel less idiomatic in oath-context)." },
+        { "greek": "φειδόμενος ὑμῶν", "thai": "ปραρถนาจะไว้ชีวิตพวกท่าน", "rationale": "φείδομαι (NT freq=10) = 'spare / refrain-from-harming.' Pauline-pastoral context: sparing-from-pain/grief. Thai 'ปραρถนาจะไว้ชีวิต' captures the protective-restraint sense; 'ไว้ชีวิต' (spare-the-life) is the natural Thai idiom for 'spare' (with the implicit pastoral-extension from 'spare from death' to 'spare from grief'). Echo carries forward to 2:1's explanation: he didn't want to come 'in sorrow' / cause grief." }
+      ],
+      "notes": "Pauline-oath-formula. φείδομαι is the verb-key — its negative-implication (NOT to harm) is the bridge to 2:1's positive-explanation (NOT to grieve them). The Greek ψυχή here is a non-tripartite oath-idiom, distinct from the ψυχή/πνεῦμα contrast at 1 Co 15:45 (where it has resurrection-anthropology weight)."
+    }
+  },
+  {
+    "reference": "2 Corinthians 1:24",
+    "chapter": 1,
+    "verse": 24,
+    "greek": "οὐχ ὅτι κυριεύομεν ὑμῶν τῆς πίστεως,ἀλλὰ συνεργοί ἐσμεν τῆς χαρᾶς ὑμῶν,τῇ γὰρ πίστει ἑστήκατε.",
+    "bsb_english": "Not that we lord it over your faith, but we are fellow workers with you for your joy, because it is by faith that you stand firm.",
+    "translation": {
+      "thai": "ไม่ใช่ว่าเราเป็นนายเหนือความเชื่อของพวกท่าน แต่เราเป็นผู้ร่วมงานเพื่อความปีติยินดีของพวกท่าน เพราะพวกท่านยืนหยัดมั่นคงด้วยความเชื่อ",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        { "greek": "οὐχ ὅτι κυριεύομεν ὑμῶν τῆς πίστεως", "thai": "ไม่ใช่ว่าเราเป็นนายเหนือความเชื่อของพวกท่าน", "rationale": "κυριεύω (NT freq=7) = 'lord-over / dominate.' Per uW figs-idiom: 'lord it over' = 'act-like-the-masters-of.' Thai 'เป็นนายเหนือ' captures the domineering sense (cognate of κύριος 'lord' in pejorative posture). πίστις → 'ความเชื่อ' (corpus lock — both Pauline 'subjective faith' and 'content-of-faith' senses)." },
+        { "greek": "συνεργοί ἐσμεν τῆς χαρᾶς ὑμῶν", "thai": "เรαเป็นผู้ร่วมงานเพื่อความปีติยินดีของพวกท่าน", "rationale": "συνεργός → 'ผู้ร่วมงาν' (corpus lock from 1 Th 3:2 'ผู้ร่วมงานของพระเจ้α'). Pauline-ministry-collegiality. χαρά → 'ความปีติยินดี' (corpus standard). Per uW figs-exclusive: 'we' here probably excludes Corinthians (recommended by uW)." },
+        { "greek": "τῇ γὰρ πίστει ἑστήκατε", "thai": "เพραะพวกท่านยืนหยัดมั่นคงด้วยความเชื่อ", "rationale": "ἵστημι perfect = 'have-stood-firm-and-still-do.' Per uW figs-idiom: 'stand firm' = be-resolute / well-established. Thai 'ยืนหยัดมั่นคง' double-up captures both 'stand' physical posture + 'firm' stability (consistent with v.7 βεβαία 'มั่นคง' — 'firm/stable' theme runs through chapter). τῇ πίστει dative-of-means = 'by-faith.'" }
+      ],
+      "notes": "Closing statement of chapter 1; sets up 2:1 explanation. Pauline-pastoral-balance: spiritual authority (teaching, oversight) WITHOUT lording-over (no Catholic-style temporal-domination) — authority-as-service, not authority-as-rule."
+    }
+  }
+]
