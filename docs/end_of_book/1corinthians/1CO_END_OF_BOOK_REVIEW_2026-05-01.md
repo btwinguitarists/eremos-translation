@@ -15,7 +15,7 @@
   - **Body-of-Christ ecclesiology** (ch 12): σῶμα Χριστοῦ + μέλη + βάπτισμα ἐν πνεύματι metaphor cluster
   - **Idol-meat / pagan-table polemic** (chs 8–10): εἰδωλόθυτα, εἴδωλον, τράπεζα δαιμονίων / κυρίου
   - **Marriage / celibacy vocabulary** (ch 7): γαμέω, παρθένος, ἁγία, ἄγαμος, χωρίζω + ἀφίημι divorce-vocabulary
-- **Inherited locks verified compliant:** ἁγιασμός cluster from 1 Thess (1:30, 6:11); παρουσία (15:23, 16:17 — Christ-subject, royal เสด็จมα retained); σημεῖον = หมายสำคัญ (1:22 — corpus default, miracle-sense); ἀπαρχή = ผลแรก (15:20, 15:23, 16:15 — confirms 2 Th 2:13 lock); ἀπώλεια (1:18 → ความพินาศ); ἀδικία = อธรรม; πορνεία = การล่วงประเวณี (5–6 cluster); μυστήριον = ความล้ำลึก (2:1, 2:7, 4:1, 13:2, 14:2, 15:51).
+- **Inherited locks verified compliant:** ἁγιασμός cluster from 1 Thess (1:30, 6:11); παρουσία (15:23, 16:17 — Christ-subject, royal เสด็จมา retained); σημεῖον = หมายสำคัญ (1:22 — corpus default, miracle-sense); ἀπαρχή = ผลแรก (15:20, 15:23, 16:15 — confirms 2 Th 2:13 lock); ἀπώλεια (1:18 → ความพินาศ); ἀδικία = อธรรม; πορνεία = การล่วงประเวณี (5–6 cluster); μυστήριον = ความล้ำลึก (2:1, 2:7, 4:1, 13:2, 14:2, 15:51).
 - **Major textual variant treated:** 11:24 omits κλώμενον "broken" per SBLGNT/NA28 (vs TR/Byz/KJV which include) — followed; no chapter-footer note attached. 14:34–35 retained in-place per SBLGNT/NA28 (vs Western-MSS displacement) — no note attached.
 - **External AI cross-review (§3) PENDING.** Items doc + packet ready: paste `docs/end_of_book/1corinthians/external_review_packet_1CO_2026-05-01.md` into Gemini / Grok / ChatGPT / Claude.
 
@@ -53,7 +53,7 @@ SBLGNT followed (omits κλώμενον). ἀνάμνησις → **ระลึ
 
 ## 8. Marana tha at 16:22 — **STABLE**
 
-Aramaic-embed treatment per RULES §10b: **มาราน-อาธา** transliterated + parenthetical Thai gloss "องค์พระผู้เป็นเจ้าของเราเอ๋ย ขอเสด็จมาเถิด" (royal-เสด็จมα consistent with παρουσία corpus-lock). See **Item H**.
+Aramaic-embed treatment per RULES §10b: **มาราน-อาธา** transliterated + parenthetical Thai gloss "องค์พระผู้เป็นเจ้าของเราเอ๋ย ขอเสด็จมาเถิด" (royal-เสด็จมา consistent with παρουσία corpus-lock). See **Item H**.
 
 ---
 
@@ -62,9 +62,9 @@ Aramaic-embed treatment per RULES §10b: **มาราน-อาธา** transl
 Carrying forward from 2 Thessalonians audit, plus new from 1 Corinthians:
 
 1. `docs/translator_decisions/parousia_register_2026-04.md` — Christ-เสด็จมา / adversary-มาถึง split. (Carried over.)
-2. `docs/translator_decisions/anomia_lawlessness_2026-04.md` — ความอธρρม / คนอธρρม. (Carried over.)
+2. `docs/translator_decisions/anomia_lawlessness_2026-04.md` — ความอธรรม / คนอธรรม. (Carried over.)
 3. `docs/translator_decisions/aparche_firstfruits_2026-04.md` — ผลแรก. **Confirmed by 1 Cor 15:20, 23, 16:15.** (Carried over; ready to write.)
-4. `docs/translator_decisions/paradosis_synoptic_pauline_split_2026-04.md` — Synoptic ธρρมเนียม / Pauline คำสอนที่ส่งทอดมα + Col 2:8 caveat. (Carried over.)
+4. `docs/translator_decisions/paradosis_synoptic_pauline_split_2026-04.md` — Synoptic ธรรมเนียม / Pauline คำสอนที่ส่งทอดมา + Col 2:8 caveat. (Carried over.)
 5. `docs/translator_decisions/semeion_three_senses_2026-04.md` — miracle / authentication-mark / signal. **Confirmed by 1 Cor 1:22 (miracle sense locked).** (Carried over.)
 6. **NEW** `docs/translator_decisions/glossolalia_languages_2026-05.md` — γλῶσσαι → ภาษา / ภาษาต่างๆ uniform rendering. **Trigger book:** any forward use; immediate.
 7. **NEW** `docs/translator_decisions/eidolothyta_idol_meat_2026-05.md` — εἰδωλόθυτος → อาหารที่ถวายแก่รูปเคารพ; εἴδωλον → รูปเคารπ. **Trigger book:** Revelation 2.

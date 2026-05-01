@@ -49,7 +49,7 @@ The Hebraic-parallel doublet pattern **ψυχή | πνεῦμα** (LUK 1:46–47
 - Breaks Thai Christian Shema tradition (LUK 10:27 and MAT 22:37 already use จิตวิญญาณ and cannot reasonably be changed).
 - Would collapse into the Rich Fool's ชีวิต sense, losing the soul/life distinction Luke 12 already preserves.
 
-**Conclusion:** keep ψυχή anchored to จิตวิญญาณ as default (with ชีวิต as documented contextual variant); keep πนεῦμα's anthropological rendering context-sensitive — จิต when in parallel with ψυχή, จิตวิญญาณ when standalone. The only firm rule is: **never render a parallelism's two halves with the same Thai word**.
+**Conclusion:** keep ψυχή anchored to จิตวิญญาณ as default (with ชีวิต as documented contextual variant); keep πนεῦมา's anthropological rendering context-sensitive — จิต when in parallel with ψυχή, จิตวิญญาณ when standalone. The only firm rule is: **never render a parallelism's two halves with the same Thai word**.
 
 ## Forward implications
 

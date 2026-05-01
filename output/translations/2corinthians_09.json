@@ -10,8 +10,15 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "τῆς διακονίας τῆς εἰς τοὺς ἁγίους", "thai": "การรับใช้ธρρμิกชน", "rationale": "διακονία τῆς εἰς τοὺς ἁγίους = saints-collection-ministry → 'การรับใช้ธρρμิกชน' (consistency with 2 Co 8:4 lock 'การรับใช้ธρρμิกชน' for collection-service sense; distinct from apostolic-office 'พันธกิจ' from 3:7-9 cluster)." },
-        { "greek": "περισσόν μοί ἐστιν τὸ γράφειν ὑμῖν", "thai": "เป็นการเกินจำเป็นที่ข้าพเจ้αจะเขียนถึงพวกท่าน", "rationale": "περισσόν → 'เกินจำเป็น' (= 'more-than-needed / superfluous'). Pauline-rhetorical-paralipsis: 'I-needn't-write-but-here-I-am-writing' — actually emphasizes the matter."
+        {
+          "greek": "τῆς διακονίας τῆς εἰς τοὺς ἁγίους",
+          "thai": "การรับใช้ธรรมิกชน",
+          "rationale": "διακονία τῆς εἰς τοὺς ἁγίους = saints-collection-ministry → 'การรับใช้ธรรมิกชน' (consistency with 2 Co 8:4 lock 'การรับใช้ธรรมิกชน' for collection-service sense; distinct from apostolic-office 'พันธกิจ' from 3:7-9 cluster)."
+        },
+        {
+          "greek": "περισσόν μοί ἐστιν τὸ γράφειν ὑμῖν",
+          "thai": "เป็นการเกินจำเป็นที่ข้าพเจ้าจะเขียนถึงพวกท่าน",
+          "rationale": "περισσόν → 'เกินจำเป็น' (= 'more-than-needed / superfluous'). Pauline-rhetorical-paralipsis: 'I-needn't-write-but-here-I-am-writing' — actually emphasizes the matter."
         }
       ],
       "notes": "Continuation of ch.8 collection-appeal. Pauline-rhetorical-paralipsis ('it's superfluous to write... but...') heightens what follows."
@@ -28,9 +35,21 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "τὴν προθυμίαν ὑμῶν ἣν ὑπὲρ ὑμῶν καυχῶμαι Μακεδόσιν", "thai": "ความตั้งใจของพวกท่าน ซึ่งข้าพเจ้αได้ภาคภูมิใจกับชาวมαซิโดเนียในเρื่องของพวกท่าน", "rationale": "προθυμία → 'ความตั้งใจ' (corpus lock from 8:11, 8:19). καυχάομαι → 'ภาคภูμิใจ' (corpus lock for positive-pride sense). Pauline-mutual-stimulation: he boasts about Corinthians-to-Macedonians + Macedonians-to-Corinthians (cf 8:1-5)." },
-        { "greek": "Ἀχαΐα παρεσκεύασται ἀπὸ πέρυσι", "thai": "แคว้นอาคายαได้เตρียมพρ้อมตั้งแต่ปีที่แล้ว", "rationale": "Ἀχαΐα → 'แคว้นอาคายα' (corpus lock from 2 Co 1:1, Acts 18:12). παρασκευάζω (NT freq=4) → 'เตรียมพร้อม' (= 'prepare-thoroughly'). πέρυσι → 'ปีที่แล้ว' (consistency with 8:10 lock)." },
-        { "greek": "τὸ ὑμῶν ζῆλος ἠρέθισε τοὺς πλείονας", "thai": "ความกρะตือρือρ้นของพวกท่านได้กρะตุ้นคนส่วนใหญ่ให้ลุกขึ้น", "rationale": "ζῆλος → 'ความกρะตือρือρ้น' (positive-zeal lock from 2 Co 7:7, 7:11; per RULES §4 multi-sense). ἐρεθίζω (NT freq=2 — here + Col 3:21) → 'กρะตุ้น...ให้ลุกขึ้น' (= 'stir-up'). NEW LOCK." }
+        {
+          "greek": "τὴν προθυμίαν ὑμῶν ἣν ὑπὲρ ὑμῶν καυχῶμαι Μακεδόσιν",
+          "thai": "ความตั้งใจของพวกท่าน ซึ่งข้าพเจ้าได้ภาคภูมิใจกับชาวมาซิโดเนียในเรื่องของพวกท่าน",
+          "rationale": "προθυμία → 'ความตั้งใจ' (corpus lock from 8:11, 8:19). καυχάομαι → 'ภาคภูมิใจ' (corpus lock for positive-pride sense). Pauline-mutual-stimulation: he boasts about Corinthians-to-Macedonians + Macedonians-to-Corinthians (cf 8:1-5)."
+        },
+        {
+          "greek": "Ἀχαΐα παρεσκεύασται ἀπὸ πέρυσι",
+          "thai": "แคว้นอาคายาได้เตรียมพร้อมตั้งแต่ปีที่แล้ว",
+          "rationale": "Ἀχαΐα → 'แคว้นอาคายา' (corpus lock from 2 Co 1:1, Acts 18:12). παρασκευάζω (NT freq=4) → 'เตรียมพร้อม' (= 'prepare-thoroughly'). πέρυσι → 'ปีที่แล้ว' (consistency with 8:10 lock)."
+        },
+        {
+          "greek": "τὸ ὑμῶν ζῆλος ἠρέθισε τοὺς πλείονας",
+          "thai": "ความกระตือรือร้นของพวกท่านได้กระตุ้นคนส่วนใหญ่ให้ลุกขึ้น",
+          "rationale": "ζῆλος → 'ความกระตือรือร้น' (positive-zeal lock from 2 Co 7:7, 7:11; per RULES §4 multi-sense). ἐρεθίζω (NT freq=2 — here + Col 3:21) → 'กระตุ้น...ให้ลุกขึ้น' (= 'stir-up'). NEW LOCK."
+        }
       ],
       "notes": null
     }
@@ -46,7 +65,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἵνα μὴ τὸ καύχημα ἡμῶν τὸ ὑπὲρ ὑμῶν κενωθῇ", "thai": "เพื่อความภาคภูมิใจของเราเกี่ยวกับพวกท่าน...จะไม่กลายเป็นเปล่α", "rationale": "κενόω → 'กลายเป็นเปล่า' (cognate of κενός 'เปล่า' — recall 6:1 'อย่างไρ้ผล' for εἰς κενόν; here verb 'be-emptied'). Pauline-anxiety lest his boast prove hollow." }
+        {
+          "greek": "ἵνα μὴ τὸ καύχημα ἡμῶν τὸ ὑπὲρ ὑμῶν κενωθῇ",
+          "thai": "เพื่อความภาคภูมิใจของเราเกี่ยวกับพวกท่าน...จะไม่กลายเป็นเปล่า",
+          "rationale": "κενόω → 'กลายเป็นเปล่า' (cognate of κενός 'เปล่า' — recall 6:1 'อย่างไร้ผล' for εἰς κενόν; here verb 'be-emptied'). Pauline-anxiety lest his boast prove hollow."
+        }
       ],
       "notes": null
     }
@@ -62,8 +85,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἐὰν ἔλθωσιν σὺν ἐμοὶ Μακεδόνες καὶ εὕρωσιν ὑμᾶς ἀπαρασκευάστους", "thai": "ถ้าชาวมαซิโดเนียมาพρ้อมกับข้าพเจ้α และพบว่าพวกท่านยังไม่พρ้อม", "rationale": "ἀπαρασκεύαστος = NT-HAPAX (freq=1, only here) alpha-privative + παρασκευάζω → 'ยังไม่พร้อม.' Pauline-fear scenario for embarrassment." },
-        { "greek": "καταισχυνθῶμεν ἡμεῖς, ἵνα μὴ λέγωμεν ὑμεῖς, ἐν τῇ ὑποστάσει ταύτῃ", "thai": "เราจะอับอาย — ไม่ต้องพูดถึงพวกท่านเลย — ในความมั่นใจนี้", "rationale": "καταισχύνω passive 'be-shamed' → 'อับอาย' (corpus lock from 1 Co 1:27). Em-dashes for parenthetical (RULES §5b). ὑπόστασις (NT freq=5) here = 'confidence / firm-stance' → 'ความมั่นใจ' (= 'confidence'; cf πεποίθησις 'ความมั่นใจ' lock — both render with same Thai for this Pauline-context). Note: ὑπόστασις in Heb 1:3 / 11:1 has different theological-senses ('substance / assurance')." }
+        {
+          "greek": "ἐὰν ἔλθωσιν σὺν ἐμοὶ Μακεδόνες καὶ εὕρωσιν ὑμᾶς ἀπαρασκευάστους",
+          "thai": "ถ้าชาวมาซิโดเนียมาพร้อมกับข้าพเจ้า และพบว่าพวกท่านยังไม่พร้อม",
+          "rationale": "ἀπαρασκεύαστος = NT-HAPAX (freq=1, only here) alpha-privative + παρασκευάζω → 'ยังไม่พร้อม.' Pauline-fear scenario for embarrassment."
+        },
+        {
+          "greek": "καταισχυνθῶμεν ἡμεῖς, ἵνα μὴ λέγωμεν ὑμεῖς, ἐν τῇ ὑποστάσει ταύτῃ",
+          "thai": "เราจะอับอาย — ไม่ต้องพูดถึงพวกท่านเลย — ในความมั่นใจนี้",
+          "rationale": "καταισχύνω passive 'be-shamed' → 'อับอาย' (corpus lock from 1 Co 1:27). Em-dashes for parenthetical (RULES §5b). ὑπόστασις (NT freq=5) here = 'confidence / firm-stance' → 'ความมั่นใจ' (= 'confidence'; cf πεποίθησις 'ความมั่นใจ' lock — both render with same Thai for this Pauline-context). Note: ὑπόστασις in Heb 1:3 / 11:1 has different theological-senses ('substance / assurance')."
+        }
       ],
       "notes": "ἀπαρασκεύαστος = NT HAPAX. ὑπόστασις-MULTI-SENSE per RULES §4: 'ความมั่นใจ' (Pauline-confidence sense, here + 11:17) vs 'ลักษณะ / สาระ' (Heb 1:3 'substance' future-cluster) vs 'ความแน่ใจ' (Heb 11:1 'assurance'). Context-distinguished."
     }
@@ -79,8 +110,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "προέλθωσιν ... καὶ προκαταρτίσωσι τὴν προεπηγγελμένην εὐλογίαν ὑμῶν", "thai": "ไปหาพวกท่านล่วงหน้า เพื่อจัดเตรียมพระพρที่พวกท่านได้สัญญาไว้ก่อν", "rationale": "Triple-προ-prefix Pauline-anticipation. προκαταρτίζω = NT-HAPAX (freq=1, only here) compound προ + κατά + ἀρτίζω 'arrange-thoroughly-beforehand' → 'จัดเตρียม' (with 'ล่วงหน้า' implicit from context). προεπαγγέλλομαι (NT freq=2 — here + Rom 1:2) middle 'promise-beforehand' → 'ได้สัญญาไว้ก่อน.' εὐλογία here = 'gift / blessing-as-act-of-blessing-others' (cognate sense from 1:3 doxology lock 'พระพρ'); preserved in Thai as 'พระพร' for the noun (consistent across senses)." },
-        { "greek": "ὡς εὐλογίαν καὶ μὴ ὡς πλεονεξίαν", "thai": "ในลักษณะของพระพρ ไม่ใช่ในลักษณะของการบีบบังคับเพราะใจโลภ", "rationale": "πλεονεξία → 'การบีบบังคับเพราะใจโลภ' (= 'extortion / greed-driven-extraction') — context-specific. Pauline-distinction: gift-as-grace vs gift-as-coerced-tribute." }
+        {
+          "greek": "προέλθωσιν ... καὶ προκαταρτίσωσι τὴν προεπηγγελμένην εὐλογίαν ὑμῶν",
+          "thai": "ไปหาพวกท่านล่วงหน้า เพื่อจัดเตรียมพระพรที่พวกท่านได้สัญญาไว้ก่อน",
+          "rationale": "Triple-προ-prefix Pauline-anticipation. προκαταρτίζω = NT-HAPAX (freq=1, only here) compound προ + κατά + ἀρτίζω 'arrange-thoroughly-beforehand' → 'จัดเตรียม' (with 'ล่วงหน้า' implicit from context). προεπαγγέλλομαι (NT freq=2 — here + Rom 1:2) middle 'promise-beforehand' → 'ได้สัญญาไว้ก่อน.' εὐλογία here = 'gift / blessing-as-act-of-blessing-others' (cognate sense from 1:3 doxology lock 'พระพร'); preserved in Thai as 'พระพร' for the noun (consistent across senses)."
+        },
+        {
+          "greek": "ὡς εὐλογίαν καὶ μὴ ὡς πλεονεξίαν",
+          "thai": "ในลักษณะของพระพร ไม่ใช่ในลักษณะของการบีบบังคับเพราะใจโลภ",
+          "rationale": "πλεονεξία → 'การบีบบังคับเพราะใจโลภ' (= 'extortion / greed-driven-extraction') — context-specific. Pauline-distinction: gift-as-grace vs gift-as-coerced-tribute."
+        }
       ],
       "notes": "προκαταρτίζω = NT HAPAX. Triple-προ-prefix Pauline-anticipatory-vocabulary."
     }
@@ -96,11 +135,23 @@
       "thai_literal": null,
       "thai_summary": "ข้อ 6 เป็นข้อพระคัมภีร์ที่ใช้กันบ่อยเกี่ยวกับการถวาย — เปาโลใช้ภาพการเกษตร: เมล็ดพันธุ์ที่ถูกหว่านลงในดินจะให้ผลผลิตตามจำนวนที่หว่าน หากหว่านน้อย ก็เกี่ยวน้อย หากหว่านมาก ก็เกี่ยวมาก หลักการนี้ใช้กับการถวายฝ่ายวิญญาณและฝ่ายวัตถุ — แต่ไม่ใช่ในลักษณะของ ‘ปรัชญาความเจริญรุ่งเรือง’ (prosperity gospel) ที่บอกว่าถวายเงินจะได้เงินกลับคืนมากกว่า แต่เปาโลเน้นการเป็น ‘ผู้ให้ที่ใจยินดี’ ในข้อ 7",
       "key_decisions": [
-        { "greek": "Τοῦτο δέ", "thai": "นี่เป็นเρื่องที่พึงρะลึก", "rationale": "Greek-elliptical 'and-this' — Thai supplies 'พึงρะลึก' (= 'should-be-remembered') for clarity-of-the-principle-statement." },
-        { "greek": "ὁ σπείρων φειδομένως φειδομένως καὶ θερίσει", "thai": "ผู้ที่หว่านอย่างเสียดายก็จะเกี่ยวอย่างเสียดายเช่นกัน", "rationale": "σπείρω → 'หว่าน' (corpus standard from 1 Co 9:11). θερίζω → 'เกี่ยว' (= 'reap'). Sow-and-reap proverb-pattern. φειδομένως (NT freq=2 — here doubled) → 'อย่างเสียดาย' (= 'sparingly / stingily'; cognate of φείδομαι 'spare' from 2 Co 1:23 'ปράρถนาจะไว้ชีวิต')." },
-        { "greek": "ὁ σπείρων ἐπ’ εὐλογίαις ἐπ’ εὐλογίαις καὶ θερίσει", "thai": "ผู้ที่หว่านอย่างเอื้อเฟื้อก็จะเกี่ยวอย่างเอื้อเฟื้อเช่นกัν", "rationale": "ἐπ’ εὐλογίαις 'upon-blessings' = idiom for 'with-blessings / generously' → 'อย่างเอื้อเฟื้อ' (= 'generously'; consistency with 8:2 lock 'ความเอื้อเฟื้อ' for generosity-cluster). εὐλογία here = 'generous-act' (different from blessing-doxology sense at 1:3)." }
+        {
+          "greek": "Τοῦτο δέ",
+          "thai": "นี่เป็นเรื่องที่พึงระลึก",
+          "rationale": "Greek-elliptical 'and-this' — Thai supplies 'พึงระลึก' (= 'should-be-remembered') for clarity-of-the-principle-statement."
+        },
+        {
+          "greek": "ὁ σπείρων φειδομένως φειδομένως καὶ θερίσει",
+          "thai": "ผู้ที่หว่านอย่างเสียดายก็จะเกี่ยวอย่างเสียดายเช่นกัน",
+          "rationale": "σπείρω → 'หว่าน' (corpus standard from 1 Co 9:11). θερίζω → 'เกี่ยว' (= 'reap'). Sow-and-reap proverb-pattern. φειδομένως (NT freq=2 — here doubled) → 'อย่างเสียดาย' (= 'sparingly / stingily'; cognate of φείδομαι 'spare' from 2 Co 1:23 'ปรάรถนาจะไว้ชีวิต')."
+        },
+        {
+          "greek": "ὁ σπείρων ἐπ’ εὐλογίαις ἐπ’ εὐλογίαις καὶ θερίσει",
+          "thai": "ผู้ที่หว่านอย่างเอื้อเฟื้อก็จะเกี่ยวอย่างเอื้อเฟื้อเช่นกัน",
+          "rationale": "ἐπ’ εὐλογίαις 'upon-blessings' = idiom for 'with-blessings / generously' → 'อย่างเอื้อเฟื้อ' (= 'generously'; consistency with 8:2 lock 'ความเอื้อเฟื้อ' for generosity-cluster). εὐλογία here = 'generous-act' (different from blessing-doxology sense at 1:3)."
+        }
       ],
-      "notes": "Pauline-sow-and-reap-principle. φειδομένως / ἐπ’ εὐλογίαις antithesis. εὐλογία MULTI-SENSE per RULES §4: doxological 'พระพρ' (1:3) vs generosity-act 'อย่างเอื้อเฟื้อ' (here, v.5)."
+      "notes": "Pauline-sow-and-reap-principle. φειδομένως / ἐπ’ εὐλογίαις antithesis. εὐλογία MULTI-SENSE per RULES §4: doxological 'พระพร' (1:3) vs generosity-act 'อย่างเอื้อเฟื้อ' (here, v.5)."
     }
   },
   {
@@ -114,9 +165,21 @@
       "thai_literal": null,
       "thai_summary": "ข้อ 7 ‘พระเจ้าทรงรักผู้ให้ที่ใจยินดี’ เป็นข้อพระคัมภีร์ที่อ้างกันบ่อยที่สุดในเรื่องการถวาย — เป็นการสะท้อนคำกรีกของ LXX สุภาษิต 22:8a (ที่ไม่อยู่ในต้นฉบับฮีบรู) ‘ผู้ให้ที่ใจยินดีและให้คือผู้ที่พระเจ้าทรงรัก’ — เปาโลทำให้ ‘ใจยินดี’ ในการถวายเป็นเรื่องสำคัญกว่าจำนวนเงิน คำกรีก ἱλαρός หมายถึงการให้ด้วยใจสว่าง ไร้ภาระและความเสียดาย",
       "key_decisions": [
-        { "greek": "ἕκαστος καθὼς προῄρηται τῇ καρδίᾳ", "thai": "ขอให้แต่ละคนกระทำตามที่เขาได้ตั้งใจไว้ในใจ", "rationale": "προαιρέομαι = NT-HAPAX (freq=1, only here) middle-perfect 'have-decided-beforehand-for-oneself' → 'ตั้งใจไว้.' Personal-deliberation in heart. καρδία → 'ใจ' (corpus lock)." },
-        { "greek": "μὴ ἐκ λύπης ἢ ἐξ ἀνάγκης", "thai": "ไม่ใช่ด้วยความเสียใจหρือด้วยการถูกบีบบังคับ", "rationale": "λύπη here = 'regret / sorrow-of-mind' (different from 7:8-10 'ความโศกใจ' godly-sorrow context); for giving-context = 'ความเสียใจ' (= regretful-feeling about giving). ἀνάγκη here = 'compulsion / constraint' → 'การถูกบีบบังคับ' (different from 6:4 'ความขัดสน' affliction-context — context-distinguished per RULES §4)." },
-        { "greek": "ἱλαρὸν γὰρ δότην ἀγαπᾷ ὁ θεός", "thai": "พระเจ้αทρงρักผู้ให้ที่ใจยินดี", "rationale": "ἱλαρός = NT-HAPAX (freq=1, only here) → 'ที่ใจยินดี' (= 'with-cheerful-heart'); standard Thai-Christian translation of the famous-formula. δότης = NT-HAPAX (freq=1, only here) → 'ผู้ให้.' Echoes LXX Prov 22:8a 'ἄνδρα ἱλαρὸν καὶ δότην εὐλογεῖ ὁ θεός' (almost-direct quotation/allusion). ἀγαπάω here = divine-active 'loves' — Thai 'ทρงρัก' royal." }
+        {
+          "greek": "ἕκαστος καθὼς προῄρηται τῇ καρδίᾳ",
+          "thai": "ขอให้แต่ละคนกระทำตามที่เขาได้ตั้งใจไว้ในใจ",
+          "rationale": "προαιρέομαι = NT-HAPAX (freq=1, only here) middle-perfect 'have-decided-beforehand-for-oneself' → 'ตั้งใจไว้.' Personal-deliberation in heart. καρδία → 'ใจ' (corpus lock)."
+        },
+        {
+          "greek": "μὴ ἐκ λύπης ἢ ἐξ ἀνάγκης",
+          "thai": "ไม่ใช่ด้วยความเสียใจหรือด้วยการถูกบีบบังคับ",
+          "rationale": "λύπη here = 'regret / sorrow-of-mind' (different from 7:8-10 'ความโศกใจ' godly-sorrow context); for giving-context = 'ความเสียใจ' (= regretful-feeling about giving). ἀνάγκη here = 'compulsion / constraint' → 'การถูกบีบบังคับ' (different from 6:4 'ความขัดสน' affliction-context — context-distinguished per RULES §4)."
+        },
+        {
+          "greek": "ἱλαρὸν γὰρ δότην ἀγαπᾷ ὁ θεός",
+          "thai": "พระเจ้าทรงรักผู้ให้ที่ใจยินดี",
+          "rationale": "ἱλαρός = NT-HAPAX (freq=1, only here) → 'ที่ใจยินดี' (= 'with-cheerful-heart'); standard Thai-Christian translation of the famous-formula. δότης = NT-HAPAX (freq=1, only here) → 'ผู้ให้.' Echoes LXX Prov 22:8a 'ἄνδρα ἱλαρὸν καὶ δότην εὐλογεῖ ὁ θεός' (almost-direct quotation/allusion). ἀγαπάω here = divine-active 'loves' — Thai 'ทรงรัก' royal."
+        }
       ],
       "notes": "TRIPLE NT HAPAX in single verse: προαιρέομαι, ἱλαρός, δότης. OT ECHO: LXX Prov 22:8a (the Greek-text adds a clause not in MT/Hebrew) 'ἄνδρα ἱλαρὸν καὶ δότην εὐλογεῖ ὁ θεός' — Pauline-near-direct-citation. Will be added to nt_ot_citations.json."
     }
@@ -132,8 +195,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "δυνατεῖ δὲ ὁ θεὸς πᾶσαν χάριν περισσεῦσαι εἰς ὑμᾶς", "thai": "พระเจ้αทρงสามารถทำให้พระคุณทุกประการล้นเหลือมαถึงพวกท่าน", "rationale": "δυνατέω (NT freq=3) → 'ทρงสามาρถ' (= 'is-able'). περισσεύω causative 'make-overflow' → 'ทำให้...ล้นเหลือ' (corpus lock from 1:5 cluster)." },
-        { "greek": "πᾶσαν αὐτάρκειαν ἔχοντες", "thai": "พวกท่านจะมีความพอเพียงทุกประการ", "rationale": "αὐτάρκεια (NT freq=2 — here + 1 Tim 6:6) → 'ความพอเพียง' (= 'self-sufficiency / contentment'); Stoic-philosophical-borrowed-term, Christianized. Distinct from Stoic-self-sufficiency = Pauline-God-supplied-sufficiency." }
+        {
+          "greek": "δυνατεῖ δὲ ὁ θεὸς πᾶσαν χάριν περισσεῦσαι εἰς ὑμᾶς",
+          "thai": "พระเจ้าทรงสามารถทำให้พระคุณทุกประการล้นเหลือมาถึงพวกท่าน",
+          "rationale": "δυνατέω (NT freq=3) → 'ทรงสามารถ' (= 'is-able'). περισσεύω causative 'make-overflow' → 'ทำให้...ล้นเหลือ' (corpus lock from 1:5 cluster)."
+        },
+        {
+          "greek": "πᾶσαν αὐτάρκειαν ἔχοντες",
+          "thai": "พวกท่านจะมีความพอเพียงทุกประการ",
+          "rationale": "αὐτάρκεια (NT freq=2 — here + 1 Tim 6:6) → 'ความพอเพียง' (= 'self-sufficiency / contentment'); Stoic-philosophical-borrowed-term, Christianized. Distinct from Stoic-self-sufficiency = Pauline-God-supplied-sufficiency."
+        }
       ],
       "notes": "αὐτάρκεια = NT freq=2 (here + 1 Tim 6:6). Pauline-modified-Stoic concept: divine-sourced-sufficiency."
     }
@@ -149,8 +220,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "Ἐσκόρπισεν, ἔδωκεν τοῖς πένησιν", "thai": "'เขαได้แจกจ่าย เขาได้ให้แก่คนยากจน", "rationale": "DIRECT QUOTATION of LXX Ps 111:9 (= MT/English Ps 112:9). Greek matches LXX exactly. σκορπίζω → 'แจกจ่าย' (= 'scatter-distribute' — context-positive 'distribute-generously' here, different from negative-disperse sense elsewhere). πένης = NT-HAPAX (freq=1, only here) → 'คนยากจน' (= 'poor-person' — distinct lemma from πτωχός 'beggar-poor'; πένης = 'working-poor / laborer'). For Thai-translation-purposes both render 'ยากจน' / 'คนยากจน' — Thai doesn't lexically split the Greek-distinction. Curly single quotes for OT-quote (RULES §5b)." },
-        { "greek": "ἡ δικαιοσύνη αὐτοῦ μένει εἰς τὸν αἰῶνα", "thai": "ความชอบธρρμของเขαดำρงอยู่ตลอดกาล'", "rationale": "δικαιοσύνη → 'ความชอบธρρม' (corpus lock). μένω → 'ดำρงอยู่' (corpus lock from 3:11 'τὸ μένον' 'สิ่งที่ดำρงอยู่'). εἰς τὸν αἰῶνα 'unto the age / forever' → 'ตลอดกาล.' Closing curly single quote." }
+        {
+          "greek": "Ἐσκόρπισεν, ἔδωκεν τοῖς πένησιν",
+          "thai": "'เขาได้แจกจ่าย เขาได้ให้แก่คนยากจน",
+          "rationale": "DIRECT QUOTATION of LXX Ps 111:9 (= MT/English Ps 112:9). Greek matches LXX exactly. σκορπίζω → 'แจกจ่าย' (= 'scatter-distribute' — context-positive 'distribute-generously' here, different from negative-disperse sense elsewhere). πένης = NT-HAPAX (freq=1, only here) → 'คนยากจน' (= 'poor-person' — distinct lemma from πτωχός 'beggar-poor'; πένης = 'working-poor / laborer'). For Thai-translation-purposes both render 'ยากจน' / 'คนยากจน' — Thai doesn't lexically split the Greek-distinction. Curly single quotes for OT-quote (RULES §5b)."
+        },
+        {
+          "greek": "ἡ δικαιοσύνη αὐτοῦ μένει εἰς τὸν αἰῶνα",
+          "thai": "ความชอบธรรมของเขาดำรงอยู่ตลอดกาล'",
+          "rationale": "δικαιοσύνη → 'ความชอบธรรม' (corpus lock). μένω → 'ดำรงอยู่' (corpus lock from 3:11 'τὸ μένον' 'สิ่งที่ดำรงอยู่'). εἰς τὸν αἰῶνα 'unto the age / forever' → 'ตลอดกาล.' Closing curly single quote."
+        }
       ],
       "notes": "OT QUOTATION: LXX Ps 111:9 (= MT Ps 112:9). Greek matches LXX exactly. πένης = NT HAPAX. Will be added to nt_ot_citations.json."
     }
@@ -166,8 +245,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ὁ ἐπιχορηγῶν σπόρον τῷ σπείροντι καὶ ἄρτον εἰς βρῶσιν", "thai": "พระองค์ผู้ทρงประทานเมล็ดพันธุ์แก่ผู้หว่าน และขนมปังเพื่อเป็นอาหาร", "rationale": "ἐπιχορηγέω (NT freq=5) → 'ทρงประทาน' (= 'supply / furnish' — divine-action with ทρง). σπόρος → 'เมล็ดพันธุ์.' σπείρω → 'ผู้หว่าน' (corpus lock). ἄρτος → 'ขนมปัง' (corpus standard). βρῶσις → 'อาหาρ.' OT-echo of Isa 55:10 LXX 'rain that gives seed to sower and bread for food.'" },
-        { "greek": "πληθυνεῖ τὸν σπόρον ὑμῶν καὶ αὐξήσει τὰ γενήματα τῆς δικαιοσύνης ὑμῶν", "thai": "เพิ่มพูนเมล็ดพันธุ์ของพวกท่าน และจะทρงทำให้ผลผลิตแห่งความชอบธρρμของพวกท่านเจริญเติบโต", "rationale": "πληθύνω → 'เพิ่มพูน' (= 'multiply'). αὐξάνω → 'ทρงทำให้...เจริญเติบโต' (= 'cause-to-grow'). γένημα → 'ผลผลิต.' Pauline-application: God-provides-seed → believers-sow → harvest-of-righteousness. Hosea 10:12 LXX echo." }
+        {
+          "greek": "ὁ ἐπιχορηγῶν σπόρον τῷ σπείροντι καὶ ἄρτον εἰς βρῶσιν",
+          "thai": "พระองค์ผู้ทรงประทานเมล็ดพันธุ์แก่ผู้หว่าน และขนมปังเพื่อเป็นอาหาร",
+          "rationale": "ἐπιχορηγέω (NT freq=5) → 'ทรงประทาน' (= 'supply / furnish' — divine-action with ทรง). σπόρος → 'เมล็ดพันธุ์.' σπείρω → 'ผู้หว่าน' (corpus lock). ἄρτος → 'ขนมปัง' (corpus standard). βρῶσις → 'อาหาร.' OT-echo of Isa 55:10 LXX 'rain that gives seed to sower and bread for food.'"
+        },
+        {
+          "greek": "πληθυνεῖ τὸν σπόρον ὑμῶν καὶ αὐξήσει τὰ γενήματα τῆς δικαιοσύνης ὑμῶν",
+          "thai": "เพิ่มพูนเมล็ดพันธุ์ของพวกท่าน และจะทรงทำให้ผลผลิตแห่งความชอบธรรมของพวกท่านเจริญเติบโต",
+          "rationale": "πληθύνω → 'เพิ่มพูน' (= 'multiply'). αὐξάνω → 'ทรงทำให้...เจริญเติบโต' (= 'cause-to-grow'). γένημα → 'ผลผลิต.' Pauline-application: God-provides-seed → believers-sow → harvest-of-righteousness. Hosea 10:12 LXX echo."
+        }
       ],
       "notes": "OT ECHOES: Isa 55:10 LXX (seed-and-bread provision) + Hos 10:12 LXX (harvest-of-righteousness) — added to nt_ot_citations.json. Pauline-agrarian-imagery for spiritual-economic-cycle."
     }
@@ -183,8 +270,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "πλουτιζόμενοι εἰς πᾶσαν ἁπλότητα", "thai": "ได้รับความมั่งคั่งในทุกปρะการ เพื่อแสดงความเอื้อเฟื้อในทุกโอกาส", "rationale": "πλουτίζω passive → 'ได้รับความมั่งคั่ง' (consistency with 8:9 lock 'มั่งคั่ง'). ἁπλότης → 'ความเอื้อเฟื้อ' (collection-context lock from 8:2; recurs at v.13)." },
-        { "greek": "ἥτις κατεργάζεται δι’ ἡμῶν εὐχαριστίαν τῷ θεῷ", "thai": "ซึ่งโดยทางเรา ความเอื้อเฟื้อนี้ก็ก่อให้เกิดการขอบพระคุณพระเจ้α", "rationale": "κατεργάζομαι → 'ก่อให้เกิด' (consistency with 7:10 lock for produce/work-out). εὐχαριστία → 'การขอบพระคุณ' (corpus lock from 4:15)." }
+        {
+          "greek": "πλουτιζόμενοι εἰς πᾶσαν ἁπλότητα",
+          "thai": "ได้รับความมั่งคั่งในทุกประการ เพื่อแสดงความเอื้อเฟื้อในทุกโอกาส",
+          "rationale": "πλουτίζω passive → 'ได้รับความมั่งคั่ง' (consistency with 8:9 lock 'มั่งคั่ง'). ἁπλότης → 'ความเอื้อเฟื้อ' (collection-context lock from 8:2; recurs at v.13)."
+        },
+        {
+          "greek": "ἥτις κατεργάζεται δι’ ἡμῶν εὐχαριστίαν τῷ θεῷ",
+          "thai": "ซึ่งโดยทางเรา ความเอื้อเฟื้อนี้ก็ก่อให้เกิดการขอบพระคุณพระเจ้า",
+          "rationale": "κατεργάζομαι → 'ก่อให้เกิด' (consistency with 7:10 lock for produce/work-out). εὐχαριστία → 'การขอบพระคุณ' (corpus lock from 4:15)."
+        }
       ],
       "notes": null
     }
@@ -200,8 +295,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἡ διακονία τῆς λειτουργίας ταύτης", "thai": "การรับใช้ในพันธกิจนี้", "rationale": "Doublet διακονία + λειτουργία both = 'service / ministry.' διακονία → 'การรับใช้' (collection-context lock); λειτουργία → 'พันธกิจ' (= public-service / liturgical-task; in Greek-classical sense = public-financial-service). Combined Thai 'การรับใช้ในพันธกิจ' captures both terms with their Pauline-ministry-overlap." },
-        { "greek": "προσαναπληροῦσα τὰ ὑστερήματα τῶν ἁγίων", "thai": "เพิ่มเติมให้เต็มในความขัดสนของธρρμิกชน", "rationale": "προσαναπληρόω (NT freq=2 — here + 11:9) → 'เพิ่มเติมให้เต็ม' (compound 'πρός + ἀνά + πληρόω' = 'fill-up-toward-completeness'). ὑστέρημα → 'ความขัดสน' (= 'lack / need'; consistency with 8:14 'การขาด' — minor variation for pastoral-need sense). ἅγιοι → 'ธρρμิกชน' (corpus lock)." }
+        {
+          "greek": "ἡ διακονία τῆς λειτουργίας ταύτης",
+          "thai": "การรับใช้ในพันธกิจนี้",
+          "rationale": "Doublet διακονία + λειτουργία both = 'service / ministry.' διακονία → 'การรับใช้' (collection-context lock); λειτουργία → 'พันธกิจ' (= public-service / liturgical-task; in Greek-classical sense = public-financial-service). Combined Thai 'การรับใช้ในพันธกิจ' captures both terms with their Pauline-ministry-overlap."
+        },
+        {
+          "greek": "προσαναπληροῦσα τὰ ὑστερήματα τῶν ἁγίων",
+          "thai": "เพิ่มเติมให้เต็มในความขัดสนของธรรมิกชน",
+          "rationale": "προσαναπληρόω (NT freq=2 — here + 11:9) → 'เพิ่มเติมให้เต็ม' (compound 'πρός + ἀνά + πληρόω' = 'fill-up-toward-completeness'). ὑστέρημα → 'ความขัดสน' (= 'lack / need'; consistency with 8:14 'การขาด' — minor variation for pastoral-need sense). ἅγιοι → 'ธรรมิกชน' (corpus lock)."
+        }
       ],
       "notes": null
     }
@@ -217,9 +320,21 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "διὰ τῆς δοκιμῆς τῆς διακονίας ταύτης δοξάζοντες τὸν θεόν", "thai": "โดยบทพิสูจน์ของการรับใช้นี้ พวกเขαจะถวายเกียρติแด่พระเจ้α", "rationale": "δοκιμή → 'บทพิสูจน์' (corpus lock from 2:9). δοξάζω → 'ถวายเกียρติ' (Pauline-doxology-verb; cognate of δόξα 'พระเกียρติ' lock)." },
-        { "greek": "ἐπὶ τῇ ὑποταγῇ τῆς ὁμολογίας ὑμῶν εἰς τὸ εὐαγγέλιον τοῦ Χριστοῦ", "thai": "เพราะการเชื่อฟังในการกล่าวยอมรับข่าวประเสริฐของพระคริสต์ของพวกท่าน", "rationale": "ὑποταγή → 'การเชื่อฟัง' (= 'submission / obedience'; cognate of ὑπακοή). ὁμολογία → 'การกล่าวยอมรับ' (= 'confession / acknowledgment'). Pauline-confession-of-faith concept." },
-        { "greek": "ἁπλότητι τῆς κοινωνίας εἰς αὐτοὺς καὶ εἰς πάντας", "thai": "ความเอื้อเฟื้อในการมีส่วนร่วมของพวกท่านต่อพวกเขαและต่อทุกคน", "rationale": "ἁπλότης + κοινωνία both rendered consistent with chapter-cluster locks." }
+        {
+          "greek": "διὰ τῆς δοκιμῆς τῆς διακονίας ταύτης δοξάζοντες τὸν θεόν",
+          "thai": "โดยบทพิสูจน์ของการรับใช้นี้ พวกเขาจะถวายเกียรติแด่พระเจ้า",
+          "rationale": "δοκιμή → 'บทพิสูจน์' (corpus lock from 2:9). δοξάζω → 'ถวายเกียรติ' (Pauline-doxology-verb; cognate of δόξα 'พระเกียรติ' lock)."
+        },
+        {
+          "greek": "ἐπὶ τῇ ὑποταγῇ τῆς ὁμολογίας ὑμῶν εἰς τὸ εὐαγγέλιον τοῦ Χριστοῦ",
+          "thai": "เพราะการเชื่อฟังในการกล่าวยอมรับข่าวประเสริฐของพระคริสต์ของพวกท่าน",
+          "rationale": "ὑποταγή → 'การเชื่อฟัง' (= 'submission / obedience'; cognate of ὑπακοή). ὁμολογία → 'การกล่าวยอมรับ' (= 'confession / acknowledgment'). Pauline-confession-of-faith concept."
+        },
+        {
+          "greek": "ἁπλότητι τῆς κοινωνίας εἰς αὐτοὺς καὶ εἰς πάντας",
+          "thai": "ความเอื้อเฟื้อในการมีส่วนร่วมของพวกท่านต่อพวกเขาและต่อทุกคน",
+          "rationale": "ἁπλότης + κοινωνία both rendered consistent with chapter-cluster locks."
+        }
       ],
       "notes": null
     }
@@ -235,8 +350,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "αὐτῶν δεήσει ὑπὲρ ὑμῶν ἐπιποθούντων ὑμᾶς", "thai": "พวกเขαจะวิงวอนเพื่อพวกท่านในคำอธิษฐาน ปράρถนาอย่างยิ่งในพวกท่าน", "rationale": "δέησις → 'คำอธิษฐาน' (corpus lock from 1:11). ἐπιποθέω → 'ปράρถนาอย่างยิ่ง' (corpus lock from 5:2)." },
-        { "greek": "διὰ τὴν ὑπερβάλλουσαν χάριν τοῦ θεοῦ ἐφ’ ὑμῖν", "thai": "เพราะพระคุณอันยิ่งใหญ่ของพระเจ้αที่อยู่บนพวกท่าน", "rationale": "ὑπερβάλλω → 'อันยิ่งใหญ่' (corpus pattern from 3:10 'อันยิ่งใหญ่ที่เกินกว่า' for surpassing-comparative; here as adjectival-modifier 'อันยิ่งใหญ่' simpler form fits)." }
+        {
+          "greek": "αὐτῶν δεήσει ὑπὲρ ὑμῶν ἐπιποθούντων ὑμᾶς",
+          "thai": "พวกเขาจะวิงวอนเพื่อพวกท่านในคำอธิษฐาน ปรάรถนาอย่างยิ่งในพวกท่าน",
+          "rationale": "δέησις → 'คำอธิษฐาน' (corpus lock from 1:11). ἐπιποθέω → 'ปรάรถนาอย่างยิ่ง' (corpus lock from 5:2)."
+        },
+        {
+          "greek": "διὰ τὴν ὑπερβάλλουσαν χάριν τοῦ θεοῦ ἐφ’ ὑμῖν",
+          "thai": "เพราะพระคุณอันยิ่งใหญ่ของพระเจ้าที่อยู่บนพวกท่าน",
+          "rationale": "ὑπερβάλλω → 'อันยิ่งใหญ่' (corpus pattern from 3:10 'อันยิ่งใหญ่ที่เกินกว่า' for surpassing-comparative; here as adjectival-modifier 'อันยิ่งใหญ่' simpler form fits)."
+        }
       ],
       "notes": null
     }
@@ -252,7 +375,11 @@
       "thai_literal": null,
       "thai_summary": "ข้อ 15 เป็นบทสรุปอันสั้นแต่ทรงพลัง — ‘ของประทานที่ไม่อาจพรรณนาได้’ ของพระเจ้าหมายถึงพระเยซูคริสต์เอง พระเจ้าทรงให้ของประทานนี้ ไม่มีคำใดสามารถพรรณนาได้ ทุกการถวายของเรามีต้นกำเนิดมาจากของประทานนี้ และเป็นการตอบรับต่อพระคุณของพระเจ้า",
       "key_decisions": [
-        { "greek": "χάρις τῷ θεῷ ἐπὶ τῇ ἀνεκδιηγήτῳ αὐτοῦ δωρεᾷ", "thai": "ขอขอบพระคุณพระเจ้αสำหρับของประทานของพระองค์ที่ไม่อาจพρρณนาได้", "rationale": "χάρις τῷ θεῷ thanksgiving-formula (corpus lock from 2 Co 2:14). δωρεά → 'ของประทาน' (= 'gift'; distinct from χάρισμα 'gracious-gift' lock — δωρεά is general-gift-from-divine). ἀνεκδιήγητος = NT-HAPAX (freq=1, only here) compound ἀν- privative + ἐκ + διηγέομαι 'narrate-out-fully' = 'inexpressible / indescribable.' Thai 'ที่ไม่อาจพρρณนาได้' (= 'not-able-to-be-described') captures the 'beyond-words' force. Pauline-climactic-doxology — 'gift' refers to Christ himself (or the entire-gospel-in-Christ)." }
+        {
+          "greek": "χάρις τῷ θεῷ ἐπὶ τῇ ἀνεκδιηγήτῳ αὐτοῦ δωρεᾷ",
+          "thai": "ขอขอบพระคุณพระเจ้าสำหรับของประทานของพระองค์ที่ไม่อาจพรรณนาได้",
+          "rationale": "χάρις τῷ θεῷ thanksgiving-formula (corpus lock from 2 Co 2:14). δωρεά → 'ของประทาน' (= 'gift'; distinct from χάρισμα 'gracious-gift' lock — δωρεά is general-gift-from-divine). ἀνεκδιήγητος = NT-HAPAX (freq=1, only here) compound ἀν- privative + ἐκ + διηγέομαι 'narrate-out-fully' = 'inexpressible / indescribable.' Thai 'ที่ไม่อาจพรรณนาได้' (= 'not-able-to-be-described') captures the 'beyond-words' force. Pauline-climactic-doxology — 'gift' refers to Christ himself (or the entire-gospel-in-Christ)."
+        }
       ],
       "notes": "ἀνεκδιήγητος = NT HAPAX. Climactic-doxology-finale to chs 8-9 collection-appeal: God's-gift-of-Christ is the source-and-pattern of all giving."
     }

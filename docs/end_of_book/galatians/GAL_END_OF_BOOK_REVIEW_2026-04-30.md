@@ -146,7 +146,7 @@ Compliance with `narrator_vs_character_voice_2026-04.md`:
 - Human-paternal πατήρ in analogical-context (4:2 the Greco-Roman household head) → **บิดา** (plain register, no royal prefix).
 - Human-ancestral πατρικός (1:14 adjective for Pharisaic ancestral tradition) → **บรรพบุรุษ** (different lemma — the noun for "ancestors"; Thai natural-equivalent of the πατρικός adjective).
 
-**Editorial assessment:** The plain-vs-royal split tracks the divine/human reference perfectly. The 4:2 plain-register **บิดา** is correct — the analogy is to a normal Greco-Roman father setting a date in a will, not to the Father of the Trinity. The 4:6 **อับบα พระบิดα** preserves the Aramaic transliteration + royal-Greek apposition exactly per the `aramaic_transliterations_2026-04.md` lock.
+**Editorial assessment:** The plain-vs-royal split tracks the divine/human reference perfectly. The 4:2 plain-register **บิดา** is correct — the analogy is to a normal Greco-Roman father setting a date in a will, not to the Father of the Trinity. The 4:6 **อับบา พระบิดา** preserves the Aramaic transliteration + royal-Greek apposition exactly per the `aramaic_transliterations_2026-04.md` lock.
 
 **STABLE — no new doc needed.** Existing `narrator_vs_character_voice_2026-04.md` covers the principle. Worth a one-line cross-reference noting Pauline confirmation.
 
@@ -239,7 +239,7 @@ Thai renders **การทรงสร้างใหม่** — uses the divi
 
 GAL 4:6 κρᾶζον· Αββα ὁ πατήρ → **ทรงร้องว่า 'อับบา พระบิดา'**
 
-Per `aramaic_transliterations_2026-04.md`: Aramaic embeds preserve **transliteration AND Greek translation**. The Thai correctly preserves both: **อับบา** (Aramaic transliteration) + **พระบิδα** (Thai for ὁ πατήρ — royal divine-Father register).
+Per `aramaic_transliterations_2026-04.md`: Aramaic embeds preserve **transliteration AND Greek translation**. The Thai correctly preserves both: **อับบา** (Aramaic transliteration) + **พระบิδา** (Thai for ὁ πατήρ — royal divine-Father register).
 
 The Mark 14:36 + Rom 8:15 parallels are noted in the 4:6 KD. The Greek itself preserves the bilingual formula (αββα is Aramaic; ὁ πατήρ is the Greek translator's gloss). Thai preserves the same bilingual structure.
 
@@ -285,7 +285,7 @@ GAL has the rare lemma **Ἰουδαϊσμός** (only here in NT — 1:13, 1:14
 | Ἰουδαῖοι by birth (Paul + Peter + Jewish-Christians) | **ชาวยิว** | 2:15 |
 | Ἰουδαῖος in the racial-theological abolition formula | **ชาวยิว** | 3:28 |
 
-**Editorial assessment:** The split is principled. **ศาสνายูดาห์** for the comprehensive religio-cultural system (Ἰουδαϊσμός) is the standard modern Thai religious-studies term and exactly captures the rare lemma. **ชาวยิว** uniformly for Ἰουδαῖος-as-ethnic — different from the JHN four-way split (which had ผู้นำชาวยิว for the religious-political leadership). Pauline GAL Ἰουδαῖος is consistently ETHNIC-IDENTITY (vs. Johannine adversarial-leadership); the single rendering ชาวยิว is correct here.
+**Editorial assessment:** The split is principled. **ศาสนายูดาห์** for the comprehensive religio-cultural system (Ἰουδαϊσμός) is the standard modern Thai religious-studies term and exactly captures the rare lemma. **ชาวยิว** uniformly for Ἰουδαῖος-as-ethnic — different from the JHN four-way split (which had ผู้นำชาวยิว for the religious-political leadership). Pauline GAL Ἰουδαῖος is consistently ETHNIC-IDENTITY (vs. Johannine adversarial-leadership); the single rendering ชาวยิว is correct here.
 
 **Cross-cutting note (from JHN audit):** The JHN end-of-book audit recommended a corpus doc `ioudaioi_johannine_2026-04.md` for the four-way split (ผู้นำชาวยิว / ชาวยิว / ยิว / [drift: พวกผู้นำยิว]). GAL's usage is RESTRICTED to **ชาวยิว** (ethnic-identity sense only) — which is itself the second category in the JHN four-way. The forward-doc should LOCK both:
 - Johannine 4-way split (per JHN audit §1)
@@ -303,7 +303,7 @@ GAL 1:14 includes the **πατρικῶν παραδόσεων** ("ancestral tra
 
 | Lemma | GAL evidence | Status |
 |---|---|---|
-| ἐκκλησία (3 verses, Christian community) | 1:2 (ταῖς ἐκκλησίαις τῆς Γαλατίας → **คริสตจักรทั้งหลายในแคว้นกาλาเทีย**); 1:13 (ἐδίωκον τὴν ἐκκλησίαν τοῦ θεοῦ → **ข้าพเจ้าได้ข่มเหงคริสตจักρของพระเจ้า**); 1:22 (ταῖς ἐκκλησίαις τῆς Ἰουδαίας ταῖς ἐν Χριστῷ → **คริสตจักรในแคว้นยูเดียซึ่งอยู่ในพระคริสต์**) — uniform. | **LOCKED** per `ekklesia_2026-04.md` |
+| ἐκκλησία (3 verses, Christian community) | 1:2 (ταῖς ἐκκλησίαις τῆς Γαλατίας → **คริสตจักรทั้งหลายในแคว้นกาλาเทีย**); 1:13 (ἐδίωκον τὴν ἐκκλησίαν τοῦ θεοῦ → **ข้าพเจ้าได้ข่มเหงคริสตจักรของพระเจ้า**); 1:22 (ταῖς ἐκκλησίαις τῆς Ἰουδαίας ταῖς ἐν Χριστῷ → **คริสตจักรในแคว้นยูเดียซึ่งอยู่ในพระคริสต์**) — uniform. | **LOCKED** per `ekklesia_2026-04.md` |
 | ἀπόστολος (4 verses) | 1:1 (Παῦλος ἀπόστολος → **เปาโล อัครทูต**); 1:17 (πρὸ ἐμοῦ ἀποστόλους → **อัครทูตก่อนข้าพเจ้า**); 1:19 (τῶν ἀποστόλων οὐκ εἶδον → **อัครทูตคนอื่น**); 2:8 (ἀποστολὴν τῆς περιτομῆς → **ตำแหน่งอัครทูตของคนที่เข้าสุหนัต**) — uniform **อัครทูต**. | **LOCKED** (Synoptic-Acts pattern) |
 | ἀδελφοί (Pauline vocative — 11 verses) | 1:2, 1:11, 4:12, 4:28, 4:31, 5:11, 5:13, 6:1, 6:18 + 1:19 (Lord's brother), 2:4 (false brothers) — uniform **พี่น้อง**. The 1:19 + 2:4 senses (literal kinship + figurative "false brothers") use the same word but disambiguated by context, exactly like Greek. | **LOCKED** |
 
@@ -344,7 +344,7 @@ Galatians has **7+ formal OT citations + multiple allusions** — Paul's most de
 | `vocative_kyrie_didaskale_register_2026-04.md` | N/A in GAL — no vocative κύριε in this letter (it's a polemical-doctrinal letter, not narrative). | **LOCKED (N/A)** |
 | `divine_object_praise_verbs_2026-04.md` | GAL 1:24 ἐδόξαζον ... τὸν θεόν → **ถวายพระเกียรติแด่พระเจ้า** (the narrator-doxological-formal ถวายเกียรติ rendering). Compliant per the Acts-sub-rule. | **LOCKED** |
 | `honorifics_non_divine_authorities_2026-04.md` | GAL has minimal non-divine authority figures. James is referred to with **น้องชายขององค์พระผู้เป็นเจ้า** (Lord's brother) — plain register for James himself. Peter (Cephas) — plain register throughout (vv. 2:11-14 confrontation). Compliant. | **LOCKED** |
-| `narrator_vs_character_voice_2026-04.md` | Royal register on God + Christ throughout (พระเจ้า ทรง-, ตรัส-equivalent in apostolic 1pl voice). Plain register for human authorities (Peter, Barnabas, James, the Galatian agitators). GAL 1:24 ถวายพระเกียρติ for the Judean-Christians' doxological response — narrator-formal-doxological register. Compliant. | **LOCKED** |
+| `narrator_vs_character_voice_2026-04.md` | Royal register on God + Christ throughout (พระเจ้า ทรง-, ตรัส-equivalent in apostolic 1pl voice). Plain register for human authorities (Peter, Barnabas, James, the Galatian agitators). GAL 1:24 ถวายพระเกียรติ for the Judean-Christians' doxological response — narrator-formal-doxological register. Compliant. | **LOCKED** |
 | `aramaic_transliterations_2026-04.md` | GAL 4:6 Αββα → **อับบา** + ὁ πατήρ → **พระบิดา** (Aramaic transliteration + Greek translation, per Mark-pattern). | **LOCKED** |
 | `inclusion_variants_absent_verses_2026-04.md` | **N/A in GAL** — no Tier 1/2/3 inclusion variants in Galatians (per `output/textual_variants/` absence + per my full-text scan for `[`/`⟦` markers). Several text-critical Notes (1:3 ἡμῶν position; 1:4 ὑπέρ vs. περί; 2:5 negation; 4:6 ἡμῶν vs. ὑμῶν; 4:14 ὑμῶν vs. μου) are **micro-variants** not affecting Thai meaning + handled in verse Notes per RULES §0. No inclusion-bracket policy needed. | **LOCKED (N/A)** |
 | `historic_present_2026-04.md` | N/A — Galatians is a doctrinal-polemical letter, not narrative; no historic-present pattern to test. | **LOCKED (N/A)** |
@@ -356,7 +356,7 @@ Galatians has **7+ formal OT citations + multiple allusions** — Paul's most de
 | `markan_euthys_immediately_2026-04.md` | N/A — Mark-specific. | **LOCKED (N/A)** |
 | `son_of_man_disambiguation_2026-04.md` | N/A — υἱὸς τοῦ ἀνθρώπου absent from GAL. | **LOCKED (N/A)** |
 | `psyche_vs_pneuma_anthropological_2026-04.md` | πνεῦμα ἅγιον (16 occurrences) → **พระวิญญาณ** uniform. ψυχή absent from GAL. The 6:18 "with your spirit" closing benediction uses **กับจิตวิญญาณของพวกท่าน** (the Pauline 1pl πνεύματος ὑμῶν → "your inner spiritual self"; with the standard Pauline-corpus rendering of corporate-believer-spirit). Compliant. | **LOCKED** |
-| `johannine_doubled_amen_2026-04.md` | N/A — GAL is Pauline, not Johannine. The single ἀμήν at 6:18 → **อาเมν** (the standard chapter-closing acclamation). | **LOCKED (N/A)** |
+| `johannine_doubled_amen_2026-04.md` | N/A — GAL is Pauline, not Johannine. The single ἀμήν at 6:18 → **อาเมน** (the standard chapter-closing acclamation). | **LOCKED (N/A)** |
 | `amen_saying_formula_2026-04.md` | N/A — Synoptic-saying-formula doesn't apply (no Jesus-direct-discourse in GAL). | **LOCKED (N/A)** |
 | `speech_verbs_adversaries_addressing_divine_2026-04.md` | N/A — no narrative-speech-verbs-by-adversaries-addressing-divine in GAL. | **LOCKED (N/A)** |
 | `basileia_kingdom_rendering_2026-04.md` | GAL 5:21 βασιλείαν θεοῦ οὐ κληρονομήσουσιν → **อาณาจักรของพระเจ้า** (consistent with the Synoptic-Acts lock). 1 verse only; compliant. | **LOCKED** |

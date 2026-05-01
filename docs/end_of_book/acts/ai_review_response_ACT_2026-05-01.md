@@ -34,9 +34,9 @@ This doc records the disposition of each AI-flagged item. One spot-revision impl
 
 ---
 
-## Item D — Pagan-deity proper-noun policy (ดิออสคูρี at Acts 28:11)
+## Item D — Pagan-deity proper-noun policy (ดิออสคูรี at Acts 28:11)
 
-**Both AIs FINE.** Both affirm the Greek-source-fidelity choice (ดิออสคูρี vs Latin "Castor and Pollux") + the εꞵพ/พระเจ้า boundary preservation.
+**Both AIs FINE.** Both affirm the Greek-source-fidelity choice (ดิออสคูรี vs Latin "Castor and Pollux") + the εꞵพ/พระเจ้า boundary preservation.
 
 **Disposition:** **LOCK as-is.** Existing `pagan_deities_2026-04.md` already covers this; amended 2026-05-01 with Rule 1b (literal pagan vs Pauline polemical-metaphorical θεός) per 2 CO end-of-book review.
 
@@ -44,9 +44,9 @@ This doc records the disposition of each AI-flagged item. One spot-revision impl
 
 ## Item E — δοξάζω narrator-doxology sub-rule (royal-prefix inconsistency)
 
-**Mixed:** ChatGPT FINE; Gemini CONCERN — flagged that Acts 4:21 uses `ถวายพระเกียρติ` (royal-prefix) while Acts 11:18 + 21:20 dropped it to `ถวายเกียρติ`. Recommended: harmonize.
+**Mixed:** ChatGPT FINE; Gemini CONCERN — flagged that Acts 4:21 uses `ถวายพระเกียรติ` (royal-prefix) while Acts 11:18 + 21:20 dropped it to `ถวายเกียรติ`. Recommended: harmonize.
 
-**Disposition:** **REVISED.** Acts 11:18 + 21:20: `ถวายเกียρติแด่พระเจ้า` → `ถวายพระเกียρติแด่พระเจ้α`. All three narrator-δοξάζω-doxology contexts now uniform with royal-prefix per RULES §3 ราชาศัπต์.
+**Disposition:** **REVISED.** Acts 11:18 + 21:20: `ถวายเกียรติแด่พระเจ้า` → `ถวายพระเกียรติแด่พระเจ้า`. All three narrator-δοξάζω-doxology contexts now uniform with royal-prefix per RULES §3 ราชาศัπต์.
 
 **Doc action:** Existing `divine_object_praise_verbs_2026-04.md` to be amended with the explicit sub-rule (queued).
 
@@ -54,7 +54,7 @@ This doc records the disposition of each AI-flagged item. One spot-revision impl
 
 ## Item F — σωτήριον τοῦ θεοῦ Lukan two-volume inclusio (Luke 3:6 / Acts 28:28)
 
-**Both AIs FINE.** Both affirm the existing rendering `ความรอดของพระเจ้α` perfectly bridges Luke 3:6 + Acts 28:28; Luke 2:30's `ความรอดของพระองค์` (direct address to God) preserves the conceptual-link.
+**Both AIs FINE.** Both affirm the existing rendering `ความรอดของพระเจ้า` perfectly bridges Luke 3:6 + Acts 28:28; Luke 2:30's `ความรอดของพระองค์` (direct address to God) preserves the conceptual-link.
 
 **Disposition:** **LOCK as-is.** No revision.
 
@@ -68,7 +68,7 @@ This doc records the disposition of each AI-flagged item. One spot-revision impl
 | B ἔθνος drift | Both flagged | Verified already-correct (stale packet) | ✅ no action |
 | C ἀνθύπατος drift | Both flagged | Verified already-correct (stale packet) | ✅ no action |
 | D Pagan-deity policy | Both FINE | Lock as-is | ✅ no revision |
-| E δοξάζω royal-prefix | Mixed | **Harmonized 11:18 + 21:20 to ถวายพระเกียρติ** | ✅ done |
+| E δοξάζω royal-prefix | Mixed | **Harmonized 11:18 + 21:20 to ถวายพระเกียรติ** | ✅ done |
 | F σωτήριον inclusio | Both FINE | Lock as-is | ✅ no revision |
 
 ---

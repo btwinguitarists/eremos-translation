@@ -22,9 +22,9 @@ This doc records the disposition of each of the 8 items (A–H) and §Z. Items r
 
 ## Item B — 15:44–45 σῶμα ψυχικόν / πνευματικόν + ψυχή/πνεῦμα
 
-**Verdict (15:44):** FINE. Lock as-is — `กายตามธรรมชาติ / กายฝ่ายวิญญαณ` matches mainstream English-translation tradition.
+**Verdict (15:44):** FINE. Lock as-is — `กายตามธรรมชาติ / กายฝ่ายวิญญาณ` matches mainstream English-translation tradition.
 
-**Verdict (15:45):** CONCERN — both AIs flag the prior collapse of ψυχή + πνεῦμα to `วิญญαณ` as obscuring the Adam/Christ typology. Mainstream translations preserve "living being / living soul / living person" for ψυχήν ζῶσαν, distinct from "life-giving spirit" for πνεῦμα ζῳοποιοῦν.
+**Verdict (15:45):** CONCERN — both AIs flag the prior collapse of ψυχή + πνεῦμα to `วิญญาณ` as obscuring the Adam/Christ typology. Mainstream translations preserve "living being / living soul / living person" for ψυχήν ζῶσαν, distinct from "life-giving spirit" for πνεῦμα ζῳοποιοῦν.
 
 **Disposition:** **REVISED.** Spot-revised 1 Cor 15:45:
 - ψυχήν ζῶσαν: `วิญญาณที่มีชีวิต` → **`สิ่งมีชีวิต`** (preserves Hebrew nephesh-chayyah / LXX ψυχὴ ζῶσα tradition)
@@ -112,7 +112,7 @@ ChatGPT: "No additional corpus-level concerns beyond B, E, and G." Gemini concur
 |---|---|---|---|
 | A γλῶσσαι | FINE | Lock as-is | ✅ no revision |
 | B 15:44 σῶμα ψυχικόν | FINE | Lock as-is | ✅ no revision |
-| B 15:45 ψυχή/πνεῦμα | CONCERN | **Revised** (สิ่งมีชีวิต / วิญญαณผู้ให้ชีวิต) | ✅ done |
+| B 15:45 ψυχή/πνεῦμα | CONCERN | **Revised** (สิ่งมีชีวิต / วิญญาณผู้ให้ชีวิต) | ✅ done |
 | C Corinthian-slogan quotes | FINE | Lock; doc queued | ✅ no revision |
 | D 11:24 variant | FINE | Lock as-is | ✅ no revision |
 | E 14:34-35 textual + xref | CONCERN | **Strengthened cross-references + textual note** | ✅ done |

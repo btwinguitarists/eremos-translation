@@ -25,7 +25,7 @@ The translator-note at 4:3 had appealed to MAT 4 as precedent — but MAT 4 actu
 
 **ChatGPT flag (Gemini did not flag).** πνεῦμα at 1:17 refers to Elijah's prophetic-spirit/disposition, not πνεῦμα ἅγιον. The locked Holy-Spirit rendering `พระวิญญาณ` was being used for a non-Holy-Spirit referent, blurring the semantic boundary critical for Acts.
 
-**Disposition:** **REVISED.** Luke 1:17: `ด้วยพระวิญญαณและฤทธิ์เดชของเอลียาห์` → `ด้วยจิตวิญญαณและฤทธิ์เดชของเอลียาห์` (lowercase anthropological-spirit register, consistent with 1 Th 5:23 lock for human-πνεῦμα). Key-decision rationale updated.
+**Disposition:** **REVISED.** Luke 1:17: `ด้วยพระวิญญาณและฤทธิ์เดชของเอลียาห์` → `ด้วยจิตวิญญาณและฤทธิ์เดชของเอลียาห์` (lowercase anthropological-spirit register, consistent with 1 Th 5:23 lock for human-πνεῦμα). Key-decision rationale updated.
 
 ---
 
@@ -40,9 +40,9 @@ ChatGPT flagged 2 specific verses based on packet-text excerpts that did not mat
 
 ---
 
-## Item 4 — Luke 18:14 δικαιόω family — `ทรงชำระ...ให้เป็นผู้ชอบธρρμ`
+## Item 4 — Luke 18:14 δικαιόω family — `ทรงชำระ...ให้เป็นผู้ชอบธรรม`
 
-**ChatGPT flagged** as Pauline-forward-risk: `ทรงชำρะ` ("purify") may obscure the forensic-declarative force of δικαιόω in Romans/Galatians.
+**ChatGPT flagged** as Pauline-forward-risk: `ทรงชำระ` ("purify") may obscure the forensic-declarative force of δικαιόω in Romans/Galatians.
 
 **Disposition:** **DEFERRED.** Verified Luke 18:14 is acceptable in-context per ChatGPT's own assessment ("probably acceptable in Luke by itself, but it becomes high-risk once Romans/Galatians arrive"). NOT a Luke-blocker.
 
@@ -82,7 +82,7 @@ ChatGPT flagged 2 specific verses based on packet-text excerpts that did not mat
 
 ## Item 8 — Hilaskomai / hilasterion / atonement vocabulary
 
-**ChatGPT flagged** Luke 18:13 `ขอทρงพระเมตตα` for ἱλάσθητί as potentially flat for Romans 3:25 / Hebrews. Acceptable in Luke context.
+**ChatGPT flagged** Luke 18:13 `ขอทรงพระเมตตา` for ἱλάσθητί as potentially flat for Romans 3:25 / Hebrews. Acceptable in Luke context.
 
 **Disposition:** **DEFERRED.** Pre-Romans-3 / pre-Hebrews lock-in. NOT a Luke-blocker.
 
@@ -92,7 +92,7 @@ ChatGPT flagged 2 specific verses based on packet-text excerpts that did not mat
 
 **Gemini A2: OT-citation LXX-vs-MT alignment (whole-Bible philosophy).** This is a project-philosophy question for OT-translation-phase. NOT a Luke-blocker. Documented in `RULES.md` §0 stance (NT quotes the LXX faithfully; OT will be translated from MT-Hebrew). Gemini's concern is that future OT-Deut 6 will read differently from Luke 4:8's quote-of-LXX-Deut-6:13 — this is intentional and standard NT-translation practice.
 
-**Gemini A3: pneumatology filling-vs-fullness lock.** πίμπλημι πνεύματος (`เต็มเปี่ยมด้วย`) vs πλήρης πνεύματος (`บριบูρณ์ด้วย`). Gemini affirms the current distinction is "excellent and nuanced" — recommends formal lock-doc for Acts-forward. **DEFERRED** — queued for pre-Acts-2.
+**Gemini A3: pneumatology filling-vs-fullness lock.** πίμπλημι πνεύματος (`เต็มเปี่ยมด้วย`) vs πλήρης πνεύματος (`บรιบูรณ์ด้วย`). Gemini affirms the current distinction is "excellent and nuanced" — recommends formal lock-doc for Acts-forward. **DEFERRED** — queued for pre-Acts-2.
 
 **Gemini's Acts-forward prep items** (Name-formulas, "the Way", Ascension vocabulary): all deferred to Acts-prep, not Luke-blockers.
 
@@ -103,7 +103,7 @@ ChatGPT flagged 2 specific verses based on packet-text excerpts that did not mat
 | Item | Source | Verdict | Action | Status |
 |---|---|---|---|---|
 | Luke 4 adversary `ทูล` | Both AIs | RULES §3 violation | **Revised + corpus doc locked** | ✅ done |
-| Luke 1:17 πνεῦμα Elijah | ChatGPT | Holy-Spirit blur | **Revised** (พระวิญญαณ → จิตวิญญαณ) | ✅ done |
+| Luke 1:17 πνεῦμα Elijah | ChatGPT | Holy-Spirit blur | **Revised** (พระวิญญาณ → จิตวิญญาณ) | ✅ done |
 | Luke 1:77 / 10:13 drift | ChatGPT | Stale source-text | Already correct | ✅ no action |
 | Luke 18:14 δικαιόω | ChatGPT | Pre-Romans risk | Deferred + stub doc queued | 🟡 pre-Romans |
 | ἄφεσις family | ChatGPT | Misread | Already principled | ✅ no action |

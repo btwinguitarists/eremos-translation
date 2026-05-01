@@ -10,9 +10,21 @@
       "thai_literal": null,
       "thai_summary": "บทที่ 10-13 เป็นส่วนที่เปลี่ยนน้ำเสียงอย่างสำคัญ — เปาโลตอบโต้คำกล่าวหาของอัครทูตเทียมในเมืองโครินธ์ ที่กล่าวว่า ‘เมื่ออยู่ต่อหน้า เปาโลดูถ่อม แต่เมื่อเขียนจดหมายมา กลับใช้คำขู่’ เปาโลเริ่มด้วยการอ้างถึง ‘ความสุภาพและความเอ็นดูของพระคริสต์’ — ไม่ใช่การคุกคาม แต่เป็นการเลียนแบบพระคริสต์ผู้ทรงอ่อนโยน",
       "key_decisions": [
-        { "greek": "Αὐτὸς δὲ ἐγὼ Παῦλος παρακαλῶ ὑμᾶς", "thai": "ส่วนข้าพเจ้αเองคือเปาโล ขอวิงวอนพวกท่าน", "rationale": "Pauline-self-emphatic 'I-myself, Paul' — Thai 'ข้าพเจ้าเองคือเปาโล' captures the Greek-fronted-pronoun emphasis. παρακαλέω in 'urge / appeal' sense → 'วิงวอน' (corpus lock from 2:8, 5:20)." },
-        { "greek": "διὰ τῆς πραΰτητος καὶ ἐπιεικείας τοῦ Χριστοῦ", "thai": "โดยอาศัยความสุภาพอ่อนโยนและความเอ็นดูของพระคριสต์", "rationale": "πραΰτης (NT freq=11) → 'ความสุภาพอ่อนโยน' (= 'gentleness / mildness'). ἐπιείκεια (NT freq=2 — here + Acts 24:4) → 'ความเอ็นดู' (= 'forbearance / clemency'). Pauline-rhetorical-strategy: appeal-via-Christ's-character not personal-authority." },
-        { "greek": "κατὰ πρόσωπον μὲν ταπεινὸς ἐν ὑμῖν, ἀπὼν δὲ θαρρῶ εἰς ὑμᾶς", "thai": "ผู้ที่ดูถ่อมเมื่ออยู่ต่อหน้αพวกท่าน แต่กล้าเมื่ออยู่ห่าง", "rationale": "Pauline-quotation-of-rivals'-accusation. ταπεινός here = 'humble/lowly' (different from 7:6 'ผู้ที่ตกต่ำ' downcast-context — context-distinguished per RULES §4). Thai 'ดูถ่อม' (= 'appears-humble') captures the appearance-vs-reality dimension. θαρρέω → 'กล้า' (consistency with 5:6, 5:8 'มั่นใจ' lock — here 'กล้า' for the boldness-when-distant accusation)." }
+        {
+          "greek": "Αὐτὸς δὲ ἐγὼ Παῦλος παρακαλῶ ὑμᾶς",
+          "thai": "ส่วนข้าพเจ้าเองคือเปาโล ขอวิงวอนพวกท่าน",
+          "rationale": "Pauline-self-emphatic 'I-myself, Paul' — Thai 'ข้าพเจ้าเองคือเปาโล' captures the Greek-fronted-pronoun emphasis. παρακαλέω in 'urge / appeal' sense → 'วิงวอน' (corpus lock from 2:8, 5:20)."
+        },
+        {
+          "greek": "διὰ τῆς πραΰτητος καὶ ἐπιεικείας τοῦ Χριστοῦ",
+          "thai": "โดยอาศัยความสุภาพอ่อนโยนและความเอ็นดูของพระครιสต์",
+          "rationale": "πραΰτης (NT freq=11) → 'ความสุภาพอ่อนโยน' (= 'gentleness / mildness'). ἐπιείκεια (NT freq=2 — here + Acts 24:4) → 'ความเอ็นดู' (= 'forbearance / clemency'). Pauline-rhetorical-strategy: appeal-via-Christ's-character not personal-authority."
+        },
+        {
+          "greek": "κατὰ πρόσωπον μὲν ταπεινὸς ἐν ὑμῖν, ἀπὼν δὲ θαρρῶ εἰς ὑμᾶς",
+          "thai": "ผู้ที่ดูถ่อมเมื่ออยู่ต่อหน้าพวกท่าน แต่กล้าเมื่ออยู่ห่าง",
+          "rationale": "Pauline-quotation-of-rivals'-accusation. ταπεινός here = 'humble/lowly' (different from 7:6 'ผู้ที่ตกต่ำ' downcast-context — context-distinguished per RULES §4). Thai 'ดูถ่อม' (= 'appears-humble') captures the appearance-vs-reality dimension. θαρρέω → 'กล้า' (consistency with 5:6, 5:8 'มั่นใจ' lock — here 'กล้า' for the boldness-when-distant accusation)."
+        }
       ],
       "notes": "ἐπιείκεια = NT freq=2. Tonal-shift to polemical-ch.10-13 ('Sorrowful Letter' fragment per some scholars). Pauline-Christ-imitation rhetoric: appeals via mildness-of-Christ."
     }
@@ -28,8 +40,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "δέομαι δὲ τὸ μὴ παρὼν θαρρῆσαι", "thai": "ข้าพเจ้αอ้อนวอนว่า เมื่อข้าพเจ้αมาแล้ว ขอให้ข้าพเจ้αไม่ต้องใช้ความกล้าหาญ", "rationale": "δέομαι → 'อ้อนวอน' (corpus lock from 5:20). θαρρέω here in 'be-bold-and-confront' sense → 'ใช้ความกล้าหาญ' (= 'use boldness') — Pauline-circumlocution of his potential future-action." },
-        { "greek": "πεποιθήσει ᾗ λογίζομαι τολμῆσαι ἐπί τινας τοὺς λογιζομένους ἡμᾶς ὡς κατὰ σάρκα περιπατοῦντας", "thai": "ความมั่นใจที่ข้าพเจ้αตั้งใจจะใช้กับบางคน ผู้ที่ถือว่าเราดำเนินชีวิตตามเนื้อหนัง", "rationale": "πεποίθησις → 'ความมั่นใจ' (corpus lock 1:15, 3:4, 8:22, 9:4). λογίζομαι 'reckon / consider' → 'ตั้งใจ' (here 'plan to'); second occurrence 'ถือว่า' (here 'regard as'). τολμάω → 'ใช้...กับ' (= 'be-daring-against'). κατὰ σάρκα → 'ตามเนื้อหนัง' (1:17 lock). περιπατέω → 'ดำเนินชีวิต' (1:12 lock)." }
+        {
+          "greek": "δέομαι δὲ τὸ μὴ παρὼν θαρρῆσαι",
+          "thai": "ข้าพเจ้าอ้อนวอนว่า เมื่อข้าพเจ้ามาแล้ว ขอให้ข้าพเจ้าไม่ต้องใช้ความกล้าหาญ",
+          "rationale": "δέομαι → 'อ้อนวอน' (corpus lock from 5:20). θαρρέω here in 'be-bold-and-confront' sense → 'ใช้ความกล้าหาญ' (= 'use boldness') — Pauline-circumlocution of his potential future-action."
+        },
+        {
+          "greek": "πεποιθήσει ᾗ λογίζομαι τολμῆσαι ἐπί τινας τοὺς λογιζομένους ἡμᾶς ὡς κατὰ σάρκα περιπατοῦντας",
+          "thai": "ความมั่นใจที่ข้าพเจ้าตั้งใจจะใช้กับบางคน ผู้ที่ถือว่าเราดำเนินชีวิตตามเนื้อหนัง",
+          "rationale": "πεποίθησις → 'ความมั่นใจ' (corpus lock 1:15, 3:4, 8:22, 9:4). λογίζομαι 'reckon / consider' → 'ตั้งใจ' (here 'plan to'); second occurrence 'ถือว่า' (here 'regard as'). τολμάω → 'ใช้...กับ' (= 'be-daring-against'). κατὰ σάρκα → 'ตามเนื้อหนัง' (1:17 lock). περιπατέω → 'ดำเนินชีวิต' (1:12 lock)."
+        }
       ],
       "notes": null
     }
@@ -45,7 +65,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἐν σαρκὶ ... περιπατοῦντες οὐ κατὰ σάρκα στρατευόμεθα", "thai": "แม้ว่าเราดำเนินชีวิตในเนื้อหนัง เราก็ไม่ได้ทำสงครามตามเนื้อหนัง", "rationale": "Pauline-distinction ἐν σαρκί (in-the-flesh, neutral-bodily-existence) vs κατὰ σάρκα (according-to-flesh, pejorative-fleshly-pattern) — Thai 'ในเนื้อหนัง' / 'ตามเนื้อหนัง' preserves the κατά/ἐν distinction explicitly. στρατεύομαι → 'ทำสงคราม' (= 'wage-war'; classical-Greek-military verb)." }
+        {
+          "greek": "ἐν σαρκὶ ... περιπατοῦντες οὐ κατὰ σάρκα στρατευόμεθα",
+          "thai": "แม้ว่าเราดำเนินชีวิตในเนื้อหนัง เราก็ไม่ได้ทำสงครามตามเนื้อหนัง",
+          "rationale": "Pauline-distinction ἐν σαρκί (in-the-flesh, neutral-bodily-existence) vs κατὰ σάρκα (according-to-flesh, pejorative-fleshly-pattern) — Thai 'ในเนื้อหนัง' / 'ตามเนื้อหนัง' preserves the κατά/ἐν distinction explicitly. στρατεύομαι → 'ทำสงคราม' (= 'wage-war'; classical-Greek-military verb)."
+        }
       ],
       "notes": "ἐν σαρκί / κατὰ σάρκα — Pauline-key-distinction: present-bodily-existence is not problem; fleshly-pattern is. Echoes Rom 8:9, Gal 5:16-17."
     }
@@ -61,8 +85,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "τὰ ὅπλα τῆς στρατείας ἡμῶν οὐ σαρκικὰ ἀλλὰ δυνατὰ τῷ θεῷ", "thai": "อาวุธของการทำสงคράμของเราไม่ใช่ฝ่ายเนื้อหนัง แต่ทρงพลังโดยพระเจ้α", "rationale": "ὅπλα → 'อาวุธ' (corpus lock from 6:7, John 18:3). στρατεία (NT freq=2 — here + 1 Tim 1:18) → 'การทำสงคราม' (cognate of στρατεύομαι). σαρκικός → 'ฝ่ายเนื้อหนัง' (corpus lock from 1:12). δυνατός → 'ทρงพลัง' (= 'powerful'); 'τῷ θεῷ' here = ablative-of-source 'from God' / dative 'in/before God' — Thai 'โดยพระเจ้α' captures divine-source." },
-        { "greek": "πρὸς καθαίρεσιν ὀχυρωμάτων λογισμοὺς καθαιροῦντες", "thai": "เพื่อทำลายป้อมปราการ คือทำลายข้อโต้แย้งทั้งหลาย", "rationale": "καθαίρεσις (NT freq=3) cognate of καθαιρέω 'tear-down' → 'การทำลาย' / 'ทำลาย' (verbal-context). ὀχύρωμα = NT-HAPAX (freq=1, only here) → 'ป้อมปราการ' (= 'fortress / stronghold' — military-fortification image). λογισμός (NT freq=2 — here + Rom 2:15) → 'ข้อโต้แย้ง' (= 'argument / reasoning' — different from νόημα 'ความคิด' lock). Thai supplies 'คือ' (= 'that is') to mark the apposition λογισμοὺς explaining ὀχυρωμάτων." }
+        {
+          "greek": "τὰ ὅπλα τῆς στρατείας ἡμῶν οὐ σαρκικὰ ἀλλὰ δυνατὰ τῷ θεῷ",
+          "thai": "อาวุธของการทำสงครάมของเราไม่ใช่ฝ่ายเนื้อหนัง แต่ทรงพลังโดยพระเจ้า",
+          "rationale": "ὅπλα → 'อาวุธ' (corpus lock from 6:7, John 18:3). στρατεία (NT freq=2 — here + 1 Tim 1:18) → 'การทำสงคราม' (cognate of στρατεύομαι). σαρκικός → 'ฝ่ายเนื้อหนัง' (corpus lock from 1:12). δυνατός → 'ทรงพลัง' (= 'powerful'); 'τῷ θεῷ' here = ablative-of-source 'from God' / dative 'in/before God' — Thai 'โดยพระเจ้า' captures divine-source."
+        },
+        {
+          "greek": "πρὸς καθαίρεσιν ὀχυρωμάτων λογισμοὺς καθαιροῦντες",
+          "thai": "เพื่อทำลายป้อมปราการ คือทำลายข้อโต้แย้งทั้งหลาย",
+          "rationale": "καθαίρεσις (NT freq=3) cognate of καθαιρέω 'tear-down' → 'การทำลาย' / 'ทำลาย' (verbal-context). ὀχύρωμα = NT-HAPAX (freq=1, only here) → 'ป้อมปราการ' (= 'fortress / stronghold' — military-fortification image). λογισμός (NT freq=2 — here + Rom 2:15) → 'ข้อโต้แย้ง' (= 'argument / reasoning' — different from νόημα 'ความคิด' lock). Thai supplies 'คือ' (= 'that is') to mark the apposition λογισμοὺς explaining ὀχυρωμάτων."
+        }
       ],
       "notes": "ὀχύρωμα = NT HAPAX. Pauline-spiritual-warfare-imagery: minds-as-fortresses-of-error to be demolished by gospel-truth (cf Eph 6:10-17 future armor-cluster)."
     }
@@ -78,8 +110,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "πᾶν ὕψωμα ἐπαιρόμενον κατὰ τῆς γνώσεως τοῦ θεοῦ", "thai": "ทุกสิ่งที่ผยองตัวขึ้นต่อต้านการรู้จักพระเจ้α", "rationale": "ὕψωμα (NT freq=2 — here + Rom 8:39) → 'สิ่งที่ผยองตัวขึ้น' (= 'arrogant-elevation / proud-height'). ἐπαίρω passive 'be-lifted-up / be-exalted' → 'ผยองตัวขึ้น.' γνῶσις τοῦ θεοῦ → 'การรู้จักพระเจ้α' (consistency with 4:6 lock 'การรู้จัก' — relational-knowing)." },
-        { "greek": "αἰχμαλωτίζοντες πᾶν νόημα εἰς τὴν ὑπακοὴν τοῦ Χριστοῦ", "thai": "จับทุกความคิดเป็นเชลยให้เชื่อฟังพระคริสต์", "rationale": "αἰχμαλωτίζω (NT freq=4) → 'จับ...เป็นเชลย' (= 'take-captive'). νόημα → 'ความคิด' (corpus lock 3:14 default-mind sense). ὑπακοή → 'การเชื่อฟัง' (corpus lock from 2:9, 7:15)." }
+        {
+          "greek": "πᾶν ὕψωμα ἐπαιρόμενον κατὰ τῆς γνώσεως τοῦ θεοῦ",
+          "thai": "ทุกสิ่งที่ผยองตัวขึ้นต่อต้านการรู้จักพระเจ้า",
+          "rationale": "ὕψωμα (NT freq=2 — here + Rom 8:39) → 'สิ่งที่ผยองตัวขึ้น' (= 'arrogant-elevation / proud-height'). ἐπαίρω passive 'be-lifted-up / be-exalted' → 'ผยองตัวขึ้น.' γνῶσις τοῦ θεοῦ → 'การรู้จักพระเจ้า' (consistency with 4:6 lock 'การรู้จัก' — relational-knowing)."
+        },
+        {
+          "greek": "αἰχμαλωτίζοντες πᾶν νόημα εἰς τὴν ὑπακοὴν τοῦ Χριστοῦ",
+          "thai": "จับทุกความคิดเป็นเชลยให้เชื่อฟังพระคริสต์",
+          "rationale": "αἰχμαλωτίζω (NT freq=4) → 'จับ...เป็นเชลย' (= 'take-captive'). νόημα → 'ความคิด' (corpus lock 3:14 default-mind sense). ὑπακοή → 'การเชื่อฟัง' (corpus lock from 2:9, 7:15)."
+        }
       ],
       "notes": "Pauline-classic 'take every thought captive to Christ' — locus-classicus for Christian-cognitive-discipline."
     }
@@ -95,7 +135,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἐν ἑτοίμῳ ἔχοντες ἐκδικῆσαι πᾶσαν παρακοήν", "thai": "เราพρ้อมที่จะลงโทษการไม่เชื่อฟังทุกประการ", "rationale": "ἐκδικέω 'punish/avenge' → 'ลงโทษ' (cognate of ἐκδίκησις, here verbal-context); different from 7:11's 'การจัดการให้เป็นธρρμ' for the noun ἐκδίκησις (positive-fruit-of-repentance) — context-distinguished. παρακοή (NT freq=3) → 'การไม่เชื่อฟัง' (= 'disobedience'; antonym of ὑπακοή 'การเชื่อฟัง')." }
+        {
+          "greek": "ἐν ἑτοίμῳ ἔχοντες ἐκδικῆσαι πᾶσαν παρακοήν",
+          "thai": "เราพร้อมที่จะลงโทษการไม่เชื่อฟังทุกประการ",
+          "rationale": "ἐκδικέω 'punish/avenge' → 'ลงโทษ' (cognate of ἐκδίκησις, here verbal-context); different from 7:11's 'การจัดการให้เป็นธรรม' for the noun ἐκδίκησις (positive-fruit-of-repentance) — context-distinguished. παρακοή (NT freq=3) → 'การไม่เชื่อฟัง' (= 'disobedience'; antonym of ὑπακοή 'การเชื่อฟัง')."
+        }
       ],
       "notes": "Pauline-pastoral-discipline: obedience-of-saints-first, then disciplinary-action-against-rebels."
     }
@@ -111,8 +155,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "Τὰ κατὰ πρόσωπον βλέπετε", "thai": "พวกท่านมองสิ่งที่ปρากฏภายนอก", "rationale": "πρόσωπον here = 'outward-appearance' (consistency with 5:12 lock 'สิ่งที่ปρากฏภายนอก'). Pauline-criticism of surface-judgment." },
-        { "greek": "εἴ τις πέποιθεν ἑαυτῷ Χριστοῦ εἶναι", "thai": "ถ้าผู้ใดมั่นใจในตัวเองว่าเป็นของพระคριสต์", "rationale": "πέποιθα perfect-active 'have-confidence-in-self' (cognate of πεποίθησις 'ความมั่นใจ') → 'มั่นใจ.' Pauline-rhetoric against rival-apostles' self-confidence claims." }
+        {
+          "greek": "Τὰ κατὰ πρόσωπον βλέπετε",
+          "thai": "พวกท่านมองสิ่งที่ปรากฏภายนอก",
+          "rationale": "πρόσωπον here = 'outward-appearance' (consistency with 5:12 lock 'สิ่งที่ปรากฏภายนอก'). Pauline-criticism of surface-judgment."
+        },
+        {
+          "greek": "εἴ τις πέποιθεν ἑαυτῷ Χριστοῦ εἶναι",
+          "thai": "ถ้าผู้ใดมั่นใจในตัวเองว่าเป็นของพระครιสต์",
+          "rationale": "πέποιθα perfect-active 'have-confidence-in-self' (cognate of πεποίθησις 'ความมั่นใจ') → 'มั่นใจ.' Pauline-rhetoric against rival-apostles' self-confidence claims."
+        }
       ],
       "notes": null
     }
@@ -128,7 +180,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "καυχήσωμαι περὶ τῆς ἐξουσίας ἡμῶν, ἧς ἔδωκεν ὁ κύριος εἰς οἰκοδομὴν καὶ οὐκ εἰς καθαίρεσιν ὑμῶν", "thai": "ข้าพเจ้αจะภาคภูมิใจ...ในเρื่องสิทธิอำนาจของเรา ซึ่งองค์พระผู้เป็นเจ้αทρงประทานให้เพื่อการเสริมสร้างพวกท่าน ไม่ใช่เพื่อทำลายพวกท่าน", "rationale": "καυχάομαι → 'ภาคภูมิใจ' (corpus lock for positive-pride). ἐξουσία → 'สิทธิอำนาจ' (= 'authority / right'). οἰκοδομή here in 'building-up / edification' sense → 'การเสริมสร้าง' (different from 5:1 lock 'อาคาρ' physical-building sense — context-distinguished per RULES §4). καθαίρεσις → 'ทำลาย' (consistency with v.4 lock)." }
+        {
+          "greek": "καυχήσωμαι περὶ τῆς ἐξουσίας ἡμῶν, ἧς ἔδωκεν ὁ κύριος εἰς οἰκοδομὴν καὶ οὐκ εἰς καθαίρεσιν ὑμῶν",
+          "thai": "ข้าพเจ้าจะภาคภูมิใจ...ในเรื่องสิทธิอำนาจของเรา ซึ่งองค์พระผู้เป็นเจ้าทรงประทานให้เพื่อการเสริมสร้างพวกท่าน ไม่ใช่เพื่อทำลายพวกท่าน",
+          "rationale": "καυχάομαι → 'ภาคภูมิใจ' (corpus lock for positive-pride). ἐξουσία → 'สิทธิอำนาจ' (= 'authority / right'). οἰκοδομή here in 'building-up / edification' sense → 'การเสริมสร้าง' (different from 5:1 lock 'อาคาร' physical-building sense — context-distinguished per RULES §4). καθαίρεσις → 'ทำลาย' (consistency with v.4 lock)."
+        }
       ],
       "notes": "οἰκοδομή MULTI-SENSE: 'อาคาร' (building, 1 Co 3:9, 2 Co 5:1) vs 'การเสริมสร้าง' (edification, 1 Co 14:5, 14:12, 14:26 future-cluster + 2 Co 10:8, 12:19, 13:10) — context-distinguished per RULES §4."
     }
@@ -144,7 +200,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἐκφοβεῖν ὑμᾶς διὰ τῶν ἐπιστολῶν", "thai": "พยายามทำให้พวกท่านหวาดกลัวด้วยจดหมายของข้าพเจ้α", "rationale": "ἐκφοβέω = NT-HAPAX (freq=1, only here) intensified-form of φοβέω → 'ทำให้...หวาดกลัว.' ἐπιστολή → 'จดหมาย' (corpus lock)." }
+        {
+          "greek": "ἐκφοβεῖν ὑμᾶς διὰ τῶν ἐπιστολῶν",
+          "thai": "พยายามทำให้พวกท่านหวาดกลัวด้วยจดหมายของข้าพเจ้า",
+          "rationale": "ἐκφοβέω = NT-HAPAX (freq=1, only here) intensified-form of φοβέω → 'ทำให้...หวาดกลัว.' ἐπιστολή → 'จดหมาย' (corpus lock)."
+        }
       ],
       "notes": "ἐκφοβέω = NT HAPAX."
     }
@@ -160,8 +220,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "Αἱ ἐπιστολαὶ μέν, φησίν, βαρεῖαι καὶ ἰσχυραί", "thai": "'จดหมายของเขามีน้ำหนักและทρงพลัง", "rationale": "DIRECT QUOTATION of rivals' criticism. Curly single quotes (RULES §5b). βαρύς → 'มีน้ำหนัก' (= 'weighty'). ἰσχυρός → 'ทρงพลัง' (= 'forceful / strong'). φησίν present-active 3sg 'someone says' = collective-attribution." },
-        { "greek": "ἡ δὲ παρουσία τοῦ σώματος ἀσθενὴς καὶ ὁ λόγος ἐξουθενημένος", "thai": "แต่การปρากฏตัวของเขαทางกายอ่อนแอ และคำพูดของเขαก็ไม่มีค่α'", "rationale": "παρουσία τοῦ σώματος here = 'physical presence' → 'การปράกฏตัว...ทางกาย' (= 'appearance...bodily'; παρουσία in non-eschatological sense, like 7:6 'การมาถึง'). ἀσθενής → 'อ่อนแอ.' ἐξουθενέω perfect-passive 'has-been-treated-as-nothing' → 'ไม่มีค่า' (= 'worthless / despicable'). Closing curly single quote." }
+        {
+          "greek": "Αἱ ἐπιστολαὶ μέν, φησίν, βαρεῖαι καὶ ἰσχυραί",
+          "thai": "'จดหมายของเขามีน้ำหนักและทรงพลัง",
+          "rationale": "DIRECT QUOTATION of rivals' criticism. Curly single quotes (RULES §5b). βαρύς → 'มีน้ำหนัก' (= 'weighty'). ἰσχυρός → 'ทรงพลัง' (= 'forceful / strong'). φησίν present-active 3sg 'someone says' = collective-attribution."
+        },
+        {
+          "greek": "ἡ δὲ παρουσία τοῦ σώματος ἀσθενὴς καὶ ὁ λόγος ἐξουθενημένος",
+          "thai": "แต่การปรากฏตัวของเขาทางกายอ่อนแอ และคำพูดของเขาก็ไม่มีค่า'",
+          "rationale": "παρουσία τοῦ σώματος here = 'physical presence' → 'การปรάกฏตัว...ทางกาย' (= 'appearance...bodily'; παρουσία in non-eschatological sense, like 7:6 'การมาถึง'). ἀσθενής → 'อ่อนแอ.' ἐξουθενέω perfect-passive 'has-been-treated-as-nothing' → 'ไม่มีค่า' (= 'worthless / despicable'). Closing curly single quote."
+        }
       ],
       "notes": "Quoted Pauline-criticism: weak-physical-presence + poor-rhetoric. Echo of 1 Co 1:17 anti-rhetoric polemic."
     }
@@ -177,7 +245,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "οἷοί ἐσμεν τῷ λόγῳ δι’ ἐπιστολῶν ἀπόντες, τοιοῦτοι καὶ παρόντες τῷ ἔργῳ", "thai": "เราเป็นอย่างไรในคำพูดผ่านจดหมายเมื่อเราอยู่ห่าง เราก็จะเป็นเช่นนั้นในการกρะทำเมื่อเรามาอยู่ด้วย", "rationale": "Pauline-paradox: word-and-deed consistency. λόγῳ / ἔργῳ contrast — Thai 'คำพูด / การกρะทำ' captures word/deed parallelism." }
+        {
+          "greek": "οἷοί ἐσμεν τῷ λόγῳ δι’ ἐπιστολῶν ἀπόντες, τοιοῦτοι καὶ παρόντες τῷ ἔργῳ",
+          "thai": "เราเป็นอย่างไรในคำพูดผ่านจดหมายเมื่อเราอยู่ห่าง เราก็จะเป็นเช่นนั้นในการกระทำเมื่อเรามาอยู่ด้วย",
+          "rationale": "Pauline-paradox: word-and-deed consistency. λόγῳ / ἔργῳ contrast — Thai 'คำพูด / การกระทำ' captures word/deed parallelism."
+        }
       ],
       "notes": null
     }
@@ -193,8 +265,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "Οὐ γὰρ τολμῶμεν ἐγκρῖναι ἢ συγκρῖναι ἑαυτούς", "thai": "เราไม่กล้าจัดให้อยู่ในกลุ่มเดียวกันหรือเปρียบเทียบตัวเรา", "rationale": "ἐγκρίνω = NT-HAPAX (freq=1, only here) compound ἐν + κρίνω 'judge-among / classify-with' → 'จัดให้อยู่ในกลุ่มเดียวกัน.' συγκρίνω (NT freq=3) → 'เปรียบเทียบ' (= 'compare-with'). Pauline-rhetorical-irony: the rivals' self-classification is ridiculous." },
-        { "greek": "συνιστανόντων ... μετροῦντες ... συγκρίνοντες ... οὐ συνιᾶσιν", "thai": "แนะนำตัวเอง ... วัดตัวเองด้วยตัวเอง ... เปρียบเทียบตัวเองกับตัวเอง ... แสดงความไม่เข้าใจ", "rationale": "συνιστάνω → 'แนะนำตัวเอง' (corpus lock). μετρέω → 'วัด.' συνίημι → 'เข้าใจ' (here negated). Pauline-comedy of self-referential measurement." }
+        {
+          "greek": "Οὐ γὰρ τολμῶμεν ἐγκρῖναι ἢ συγκρῖναι ἑαυτούς",
+          "thai": "เราไม่กล้าจัดให้อยู่ในกลุ่มเดียวกันหรือเปรียบเทียบตัวเรา",
+          "rationale": "ἐγκρίνω = NT-HAPAX (freq=1, only here) compound ἐν + κρίνω 'judge-among / classify-with' → 'จัดให้อยู่ในกลุ่มเดียวกัน.' συγκρίνω (NT freq=3) → 'เปรียบเทียบ' (= 'compare-with'). Pauline-rhetorical-irony: the rivals' self-classification is ridiculous."
+        },
+        {
+          "greek": "συνιστανόντων ... μετροῦντες ... συγκρίνοντες ... οὐ συνιᾶσιν",
+          "thai": "แนะนำตัวเอง ... วัดตัวเองด้วยตัวเอง ... เปรียบเทียบตัวเองกับตัวเอง ... แสดงความไม่เข้าใจ",
+          "rationale": "συνιστάνω → 'แนะนำตัวเอง' (corpus lock). μετρέω → 'วัด.' συνίημι → 'เข้าใจ' (here negated). Pauline-comedy of self-referential measurement."
+        }
       ],
       "notes": "ἐγκρίνω = NT HAPAX. Pauline-rhetorical-comedy: the rivals measure themselves by themselves — circular self-validation."
     }
@@ -210,9 +290,21 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "οὐκ εἰς τὰ ἄμετρα καυχησόμεθα", "thai": "เราจะไม่ภาคภูมิใจเกินขอบเขต", "rationale": "ἄμετρος (NT freq=2 — here + v.15) → 'เกินขอบเขต' (= 'beyond-measure'). Pauline-boasting-within-divine-assigned-territory." },
-        { "greek": "κατὰ τὸ μέτρον τοῦ κανόνος οὗ ἐμέρισεν ἡμῖν ὁ θεὸς μέτρου", "thai": "ตามขนาดของขอบเขตที่พระเจ้αทρงกำหนดให้เรα", "rationale": "κανών (NT freq=4 — 3× in this passage + Gal 6:16) → 'ขอบเขต' (= 'boundary / area-of-jurisdiction'). Pauline-mission-territory concept (cf Rom 15:20). NEW LOCK: κανών → 'ขอบเขต' for Pauline-territorial sense (will govern Gal 6:16, Phil 3:16)." },
-        { "greek": "ἐφικέσθαι ἄχρι καὶ ὑμῶν", "thai": "เป็นขอบเขตที่ไปถึงพวกท่านด้วย", "rationale": "ἐφικνέομαι (NT freq=2 — here + v.14) → 'ไปถึง' / 'เข้าถึง.' Pauline-claim: the Corinthian-mission-territory falls within Paul's God-assigned-field, not the rivals'." }
+        {
+          "greek": "οὐκ εἰς τὰ ἄμετρα καυχησόμεθα",
+          "thai": "เราจะไม่ภาคภูมิใจเกินขอบเขต",
+          "rationale": "ἄμετρος (NT freq=2 — here + v.15) → 'เกินขอบเขต' (= 'beyond-measure'). Pauline-boasting-within-divine-assigned-territory."
+        },
+        {
+          "greek": "κατὰ τὸ μέτρον τοῦ κανόνος οὗ ἐμέρισεν ἡμῖν ὁ θεὸς μέτρου",
+          "thai": "ตามขนาดของขอบเขตที่พระเจ้าทรงกำหนดให้เรา",
+          "rationale": "κανών (NT freq=4 — 3× in this passage + Gal 6:16) → 'ขอบเขต' (= 'boundary / area-of-jurisdiction'). Pauline-mission-territory concept (cf Rom 15:20). NEW LOCK: κανών → 'ขอบเขต' for Pauline-territorial sense (will govern Gal 6:16, Phil 3:16)."
+        },
+        {
+          "greek": "ἐφικέσθαι ἄχρι καὶ ὑμῶν",
+          "thai": "เป็นขอบเขตที่ไปถึงพวกท่านด้วย",
+          "rationale": "ἐφικνέομαι (NT freq=2 — here + v.14) → 'ไปถึง' / 'เข้าถึง.' Pauline-claim: the Corinthian-mission-territory falls within Paul's God-assigned-field, not the rivals'."
+        }
       ],
       "notes": "κανών NEW LOCK → 'ขอบเขต' for Pauline-territorial sense. Recurs Gal 6:16, Phil 3:16, 1 Clement-cluster (early-canon-formation roots)."
     }
@@ -228,8 +320,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ὑπερεκτείνομεν ἑαυτούς", "thai": "ขยายตัวเองเกินขอบเขต", "rationale": "ὑπερεκτείνω = NT-HAPAX (freq=1, only here) compound ὑπέρ + ἐκ + τείνω 'over-stretch-out-beyond' → 'ขยายตัวเอง...เกินขอบเขต' (Thai-natural 'over-extend-self-beyond-boundary' captures the compound)." },
-        { "greek": "ἄχρι ... ὑμῶν ἐφθάσαμεν ἐν τῷ εὐαγγελίῳ τοῦ Χριστοῦ", "thai": "เรานี่แหละเป็นพวกแρกที่ได้ไปถึงพวกท่านด้วยข่าวประเสริฐของพระคριสต์", "rationale": "φθάνω 'reach / arrive-first' → 'เป็นพวกแρกที่ได้ไปถึง' (= 'be-the-first-to-arrive'). Pauline-claim: 'I founded your church — these rival-apostles came AFTER me' — apostolic-priority argument." }
+        {
+          "greek": "ὑπερεκτείνομεν ἑαυτούς",
+          "thai": "ขยายตัวเองเกินขอบเขต",
+          "rationale": "ὑπερεκτείνω = NT-HAPAX (freq=1, only here) compound ὑπέρ + ἐκ + τείνω 'over-stretch-out-beyond' → 'ขยายตัวเอง...เกินขอบเขต' (Thai-natural 'over-extend-self-beyond-boundary' captures the compound)."
+        },
+        {
+          "greek": "ἄχρι ... ὑμῶν ἐφθάσαμεν ἐν τῷ εὐαγγελίῳ τοῦ Χριστοῦ",
+          "thai": "เรานี่แหละเป็นพวกแรกที่ได้ไปถึงพวกท่านด้วยข่าวประเสริฐของพระครιสต์",
+          "rationale": "φθάνω 'reach / arrive-first' → 'เป็นพวกแรกที่ได้ไปถึง' (= 'be-the-first-to-arrive'). Pauline-claim: 'I founded your church — these rival-apostles came AFTER me' — apostolic-priority argument."
+        }
       ],
       "notes": "ὑπερεκτείνω = NT HAPAX. Pauline-priority-claim — he is the founding-apostle of Corinth (cf 1 Co 3:6 'I planted')."
     }
@@ -245,8 +345,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἐν ἀλλοτρίοις κόποις", "thai": "ในการตρากตρำของผู้อื่น", "rationale": "ἀλλότριος → 'ของผู้อื่น' (= 'belonging-to-another'). κόπος → 'การตρακตρำ' (corpus lock from 1 Co 3:8). Pauline-criticism: rival-apostles claim glory for HIS labor among Corinthians." },
-        { "greek": "αὐξανομένης τῆς πίστεως ὑμῶν ... μεγαλυνθῆναι κατὰ τὸν κανόνα ἡμῶν εἰς περισσείαν", "thai": "เมื่อความเชื่อของพวกท่านเจริญเติบโต ขอบเขตของเราในหมู่พวกท่านก็จะขยายอย่างยิ่งใหญ่ในความล้นเหลือ", "rationale": "αὐξάνω → 'เจริญเติบโต' (corpus lock from 9:10). μεγαλύνω → 'ขยายอย่างยิ่งใหญ่' (= 'be-magnified-greatly'). Pauline-mission-vision: as Corinth-faith grows, his ministry-base extends beyond." }
+        {
+          "greek": "ἐν ἀλλοτρίοις κόποις",
+          "thai": "ในการตรากตรำของผู้อื่น",
+          "rationale": "ἀλλότριος → 'ของผู้อื่น' (= 'belonging-to-another'). κόπος → 'การตราκตรำ' (corpus lock from 1 Co 3:8). Pauline-criticism: rival-apostles claim glory for HIS labor among Corinthians."
+        },
+        {
+          "greek": "αὐξανομένης τῆς πίστεως ὑμῶν ... μεγαλυνθῆναι κατὰ τὸν κανόνα ἡμῶν εἰς περισσείαν",
+          "thai": "เมื่อความเชื่อของพวกท่านเจริญเติบโต ขอบเขตของเราในหมู่พวกท่านก็จะขยายอย่างยิ่งใหญ่ในความล้นเหลือ",
+          "rationale": "αὐξάνω → 'เจริญเติบโต' (corpus lock from 9:10). μεγαλύνω → 'ขยายอย่างยิ่งใหญ่' (= 'be-magnified-greatly'). Pauline-mission-vision: as Corinth-faith grows, his ministry-base extends beyond."
+        }
       ],
       "notes": null
     }
@@ -262,7 +370,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "εἰς τὰ ὑπερέκεινα ὑμῶν εὐαγγελίσασθαι", "thai": "เพื่อจะประกาศข่าวประเสริฐในดินแดนที่เลยพวกท่านออกไป", "rationale": "ὑπερέκεινα = NT-HAPAX (freq=1, only here) → 'ดินแดนที่เลยพวกท่านออกไป' (= 'lands-beyond-you'). Pauline-westward-mission-vision (probably aimed at Rome and Spain — cf Rom 15:24)." }
+        {
+          "greek": "εἰς τὰ ὑπερέκεινα ὑμῶν εὐαγγελίσασθαι",
+          "thai": "เพื่อจะประกาศข่าวประเสริฐในดินแดนที่เลยพวกท่านออกไป",
+          "rationale": "ὑπερέκεινα = NT-HAPAX (freq=1, only here) → 'ดินแดนที่เลยพวกท่านออกไป' (= 'lands-beyond-you'). Pauline-westward-mission-vision (probably aimed at Rome and Spain — cf Rom 15:24)."
+        }
       ],
       "notes": "ὑπερέκεινα = NT HAPAX. Pauline-westward-mission-trajectory hint."
     }
@@ -278,7 +390,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "Ὁ καυχώμενος ἐν κυρίῳ καυχάσθω", "thai": "'แต่ผู้ที่ภาคภูมิใจ ก็ให้เขαภาคภูมิใจในองค์พระผู้เป็นเจ้αเถิด'", "rationale": "OT QUOTATION (paraphrastic) of LXX Jer 9:24 'ὁ καυχώμενος καυχάσθω ἐν τούτῳ' (Paul abbreviates with 'ἐν κυρίῳ'). Same OT-quote Paul cites at 1 Co 1:31 — there rendered 'ผู้ใดที่อวด ก็ให้เขาอวดในองค์พระผู้เป็นเจ้า' (1 Co 1:31 lock). Here 'ภาคภูมิใจ' (positive-pride lock) chosen for context-consistency with 2 Co's καύχησις cluster (1:14, 5:12, 7:14, etc.) — different Thai from 1 Co 1:31's 'อวด' (negative-flesh-pride context). Curly single quotes for OT-quote (RULES §5b)." }
+        {
+          "greek": "Ὁ καυχώμενος ἐν κυρίῳ καυχάσθω",
+          "thai": "'แต่ผู้ที่ภาคภูมิใจ ก็ให้เขาภาคภูมิใจในองค์พระผู้เป็นเจ้าเถิด'",
+          "rationale": "OT QUOTATION (paraphrastic) of LXX Jer 9:24 'ὁ καυχώμενος καυχάσθω ἐν τούτῳ' (Paul abbreviates with 'ἐν κυρίῳ'). Same OT-quote Paul cites at 1 Co 1:31 — there rendered 'ผู้ใดที่อวด ก็ให้เขาอวดในองค์พระผู้เป็นเจ้า' (1 Co 1:31 lock). Here 'ภาคภูมิใจ' (positive-pride lock) chosen for context-consistency with 2 Co's καύχησις cluster (1:14, 5:12, 7:14, etc.) — different Thai from 1 Co 1:31's 'อวด' (negative-flesh-pride context). Curly single quotes for OT-quote (RULES §5b)."
+        }
       ],
       "notes": "OT QUOTATION: Jer 9:24 LXX (= MT/English Jer 9:23). Paul quotes paraphrastically — same source as 1 Co 1:31. Note Thai-rendering shift: 1 Co 1:31 used 'อวด' (anti-flesh-boasting context); 2 Co 10:17 uses 'ภาคภูมิใจ' (chapter-cluster καύχησις-positive-context). Same Greek, different Thai for context-distinction. Will be added to nt_ot_citations.json."
     }
@@ -294,7 +410,10 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "οὐ γὰρ ὁ ἑαυτὸν συνιστάνων, ἐκεῖνός ἐστιν δόκιμος, ἀλλὰ ὃν ὁ κύριος συνίστησιν", "thai": "ไม่ใช่ผู้ที่แนะนำตัวเองที่เป็นผู้ที่ได้รับการรับรอง แต่เป็นผู้ที่องค์พระผู้เป็นเจ้αทρงแนะนำ", "rationale": "συνιστάνω-cognate-cluster (συνιστάνων / συνίστησιν) — same Thai 'แนะนำ' for both. δόκιμος → 'ผู้ที่ได้รับการรับรอง' (= 'approved / tested-and-passed'; cognate of δοκιμή 'บทพิสูจน์' lock + δοκιμάζω 'พิสูจน์'). Climactic Pauline-conclusion: divine-commendation > self-commendation."
+        {
+          "greek": "οὐ γὰρ ὁ ἑαυτὸν συνιστάνων, ἐκεῖνός ἐστιν δόκιμος, ἀλλὰ ὃν ὁ κύριος συνίστησιν",
+          "thai": "ไม่ใช่ผู้ที่แนะนำตัวเองที่เป็นผู้ที่ได้รับการรับรอง แต่เป็นผู้ที่องค์พระผู้เป็นเจ้าทรงแนะนำ",
+          "rationale": "συνιστάνω-cognate-cluster (συνιστάνων / συνίστησιν) — same Thai 'แนะนำ' for both. δόκιμος → 'ผู้ที่ได้รับการรับรอง' (= 'approved / tested-and-passed'; cognate of δοκιμή 'บทพิสูจน์' lock + δοκιμάζω 'พิสูจน์'). Climactic Pauline-conclusion: divine-commendation > self-commendation."
         }
       ],
       "notes": "Concluding-aphorism: Lord-commendation is the only valid-credential. OT ECHO: 1 Sam 16:7 ('Lord looks at the heart') — added to nt_ot_citations.json."

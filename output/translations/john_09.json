@@ -10,9 +10,21 @@
       "thai_literal": null,
       "thai_summary": "บทที่ 9 เป็นภาคต่อโดยตรงจากบทที่ 8: พระเยซูเพิ่งทรงประกาศว่า “เราเป็นความสว่างของโลก” (8:12) และในบทนี้พระองค์ทรงสำแดงความจริงนั้นโดยประทานสายตาทั้งฝ่ายกายและฝ่ายวิญญาณแก่ชายตาบอดมาแต่กำเนิด เป็นหมายสำคัญที่หกในข่าวประเสริฐของยอห์น",
       "key_decisions": [
-        { "greek": "παράγων", "thai": "เสด็จผ่านไป", "rationale": "Royal register for divine subject's movement (RULES §3): เสด็จ + ผ่านไป. Present participle = ongoing action 'as he was passing by'." },
-        { "greek": "εἶδεν", "thai": "ทอดพระเนตรเห็น", "rationale": "Royal register for divine subject's perception (RULES §3): ทอดพระเนตร is the standard ราชาศัพท์ for the divine 'see'. Aorist indicative — definite single act of seeing." },
-        { "greek": "ἐκ γενετῆς", "thai": "ตาบอดมาตั้งแต่กำเนิด", "rationale": "HAPAX: γενετή occurs only here in NT. Classical/LXX usage = 'birth, origin'. The phrase 'blind from birth' becomes the structural pivot of the whole chapter — both physical and theological. Thai 'ตั้งแต่กำเนิด' captures the from-birth temporal anchor naturally." }
+        {
+          "greek": "παράγων",
+          "thai": "เสด็จผ่านไป",
+          "rationale": "Royal register for divine subject's movement (RULES §3): เสด็จ + ผ่านไป. Present participle = ongoing action 'as he was passing by'."
+        },
+        {
+          "greek": "εἶδεν",
+          "thai": "ทอดพระเนตรเห็น",
+          "rationale": "Royal register for divine subject's perception (RULES §3): ทอดพระเนตร is the standard ราชาศัพท์ for the divine 'see'. Aorist indicative — definite single act of seeing."
+        },
+        {
+          "greek": "ἐκ γενετῆς",
+          "thai": "ตาบอดมาตั้งแต่กำเนิด",
+          "rationale": "HAPAX: γενετή occurs only here in NT. Classical/LXX usage = 'birth, origin'. The phrase 'blind from birth' becomes the structural pivot of the whole chapter — both physical and theological. Thai 'ตั้งแต่กำเนิด' captures the from-birth temporal anchor naturally."
+        }
       ],
       "notes": "HAPAX: γενετή (NT-only-occurrence here). Pivot scene of the sixth Johannine sign. The καί opening links to JHN 8 ('I am the light of the world,' v.12) — Jesus demonstrates that claim by giving sight. Per uW chapter intro: 'blind from birth' is unique among gospel healings — no other healing features congenital condition, which makes the cure unprecedented (cf. v.32)."
     }
@@ -28,10 +40,26 @@
       "thai_literal": null,
       "thai_summary": "คำถามของสาวกสะท้อนความเชื่อของชาวยิวในยุคนั้นว่า ความพิการหรือโรคภัยเป็นผลจากบาป — ของผู้นั้นเอง (โดยทำบาปขณะอยู่ในครรภ์ ตามคำสอนของบรรดารับบีบางคน) หรือของบิดามารดา (ตามอพยพ 20:5) ทว่ามุมมองนี้ขัดกับบทเรียนในพระธรรมโยบ ซึ่งทรงปฏิเสธสมการ บาป=ความทุกข์",
       "key_decisions": [
-        { "greek": "Ῥαββί", "thai": "รับบี", "rationale": "KEY-TERM LOCK: Ῥαββί → รับบี (transliteration, established at JHN 1:38, 1:49, 3:2, 3:26, 4:31, 6:25). Vocative honorific from disciples to Jesus." },
-        { "greek": "ἠρώτησαν", "thai": "ทูลถาม", "rationale": "Disciples-to-Jesus deferential register: ทูล (humble speech-verb to a divine/royal addressee) + ถาม (ask). The honorific ทูล is the standard for human-to-divine speech per RULES §3." },
-        { "greek": "ἥμαρτεν", "thai": "ทำบาป", "rationale": "ἁμαρτάνω aor.3sg = 'sinned' (committed sin). KEY-TERM LOCK: ἁμαρτία family → บาป (RULES §4). The verb form 'ทำบาป' is the natural Thai for committing sin." },
-        { "greek": "ἵνα τυφλὸς γεννηθῇ", "thai": "เขาจึงเกิดมาตาบอด", "rationale": "ἵνα + aor.pass.subj γεννηθῇ — purpose/result clause. Per uW figs-activepassive: 'so that he might be born blind' rendered as natural Thai active 'เขาจึงเกิดมาตาบอด' (so he was born blind). The disciples are asking which sin caused this outcome." }
+        {
+          "greek": "Ῥαββί",
+          "thai": "รับบี",
+          "rationale": "KEY-TERM LOCK: Ῥαββί → รับบี (transliteration, established at JHN 1:38, 1:49, 3:2, 3:26, 4:31, 6:25). Vocative honorific from disciples to Jesus."
+        },
+        {
+          "greek": "ἠρώτησαν",
+          "thai": "ทูลถาม",
+          "rationale": "Disciples-to-Jesus deferential register: ทูล (humble speech-verb to a divine/royal addressee) + ถาม (ask). The honorific ทูล is the standard for human-to-divine speech per RULES §3."
+        },
+        {
+          "greek": "ἥμαρτεν",
+          "thai": "ทำบาป",
+          "rationale": "ἁμαρτάνω aor.3sg = 'sinned' (committed sin). KEY-TERM LOCK: ἁμαρτία family → บาป (RULES §4). The verb form 'ทำบาป' is the natural Thai for committing sin."
+        },
+        {
+          "greek": "ἵνα τυφλὸς γεννηθῇ",
+          "thai": "เขาจึงเกิดมาตาบอด",
+          "rationale": "ἵνα + aor.pass.subj γεννηθῇ — purpose/result clause. Per uW figs-activepassive: 'so that he might be born blind' rendered as natural Thai active 'เขาจึงเกิดมาตาบอด' (so he was born blind). The disciples are asking which sin caused this outcome."
+        }
       ],
       "notes": "Per uW chapter intro: many 1st-cent. Jews believed disability = retribution for sin (one's own or parents'); some rabbis even taught a fetus could sin in the womb. The Mosaic law itself does not teach this directly — Job is the canonical counter-witness. The disciples' question presupposes the popular belief; Jesus's answer (v.3) overturns it."
     }
@@ -47,9 +75,21 @@
       "thai_literal": null,
       "thai_summary": "พระเยซูทรงปฏิเสธข้อสันนิษฐานในคำถามของสาวกที่ว่า ความพิการต้องมีต้นเหตุจากบาปเฉพาะตัว ทรงเปลี่ยนกรอบจาก “ใครเป็นต้นเหตุ?” มาเป็น “เพื่อจุดประสงค์อะไร?” — ความทุกข์ของชายผู้นี้ไม่ได้ปิดท้ายเรื่อง แต่เป็นเวทีสำหรับสำแดงพระราชกิจของพระเจ้า",
       "key_decisions": [
-        { "greek": "ἀπεκρίθη Ἰησοῦς", "thai": "พระเยซูตรัสตอบ", "rationale": "Royal register: ตรัส (divine speech-verb) + ตอบ (answer) per RULES §3." },
-        { "greek": "ἵνα φανερωθῇ τὰ ἔργα τοῦ θεοῦ", "thai": "เพื่อให้พระราชกิจของพระเจ้าได้ปรากฏ", "rationale": "ἵνα + aor.pass.subj. The clause is purpose/result, not strict cause. Per uW figs-ellipsis: this clause leaves implicit 'he was born blind' from v.2. Per uW figs-possession: 'works of God' = works God performs. Thai 'พระราชกิจของพระเจ้า' (the royal work of God) preserves the divine-honorific possessive (พระราช-) in keeping with RULES §3 register; Christian-Thai standard for τὰ ἔργα τοῦ θεοῦ in this and similar Johannine contexts (cf. JHN 4:34, 5:36, 6:28-29)." },
-        { "greek": "ἐν αὐτῷ", "thai": "ในตัวเขา", "rationale": "Per uW writing-pronouns: ἐν αὐτῷ could refer to the man's body (especially eyes) or to body+spirit. Translation deliberately keeps the ambiguity by rendering 'ในตัวเขา' (in him/in his person) — the chapter resolves both senses by the end (physical sight v.7; spiritual sight v.38)." }
+        {
+          "greek": "ἀπεκρίθη Ἰησοῦς",
+          "thai": "พระเยซูตรัสตอบ",
+          "rationale": "Royal register: ตรัส (divine speech-verb) + ตอบ (answer) per RULES §3."
+        },
+        {
+          "greek": "ἵνα φανερωθῇ τὰ ἔργα τοῦ θεοῦ",
+          "thai": "เพื่อให้พระราชกิจของพระเจ้าได้ปรากฏ",
+          "rationale": "ἵνα + aor.pass.subj. The clause is purpose/result, not strict cause. Per uW figs-ellipsis: this clause leaves implicit 'he was born blind' from v.2. Per uW figs-possession: 'works of God' = works God performs. Thai 'พระราชกิจของพระเจ้า' (the royal work of God) preserves the divine-honorific possessive (พระราช-) in keeping with RULES §3 register; Christian-Thai standard for τὰ ἔργα τοῦ θεοῦ in this and similar Johannine contexts (cf. JHN 4:34, 5:36, 6:28-29)."
+        },
+        {
+          "greek": "ἐν αὐτῷ",
+          "thai": "ในตัวเขา",
+          "rationale": "Per uW writing-pronouns: ἐν αὐτῷ could refer to the man's body (especially eyes) or to body+spirit. Translation deliberately keeps the ambiguity by rendering 'ในตัวเขา' (in him/in his person) — the chapter resolves both senses by the end (physical sight v.7; spiritual sight v.38)."
+        }
       ],
       "notes": "Theologically pivotal: Jesus refuses the retribution-paradigm. The Greek ἵνα φανερωθῇ does not mean God caused his blindness expressly to demonstrate something later — Greek ἵνα can mark purpose, result, or simply 'the upshot is that.' The translation preserves the ambiguity rather than forcing the harder predestinarian reading. Compare Job 1-2 framework: God permits suffering whose meaning is revealed only later. The 'works of God' include both the physical healing (v.6-7) and the man's progressive coming-to-faith (v.11, 17, 33, 38)."
     }
@@ -65,10 +105,26 @@
       "thai_literal": null,
       "thai_summary": "พระเยซูทรงรวมเหล่าสาวกเข้ากับพระองค์ในภารกิจของพระบิดา (“พวกเรา” ครอบคลุมทั้งพระองค์และเหล่าสาวก) “กลางวัน” คือช่วงที่พระองค์ยังทรงอยู่กับพวกเขา “กลางคืน” กำลังจะมาถึง — ทั้งการสิ้นพระชนม์และวันสุดท้ายเมื่อโอกาสรับใช้พระเจ้าจะปิดลง คำสอนนี้เร่งเร้าให้ทำงานในเวลาที่ยังมี",
       "key_decisions": [
-        { "greek": "ἡμᾶς", "thai": "พวกเรา", "rationale": "Per uW figs-exclusive: ἡμᾶς here is INCLUSIVE — Jesus includes himself + the disciples. Thai 'พวกเรา' is the natural inclusive 'we' (and is the unmarked default in Thai, which doesn't grammatically distinguish inclusive/exclusive). Distinction noted in commentary; no Thai marker needed since Thai treats this naturally as inclusive when context supports." },
-        { "greek": "δεῖ", "thai": "จำต้อง", "rationale": "δεῖ = impersonal 'must' / divine necessity. In Johannine usage especially, δεῖ marks Christ's obligation under the Father's plan (cf. JHN 3:14, 4:4, 10:16). Thai 'จำต้อง' (must, of necessity) carries this obligatory force more weightily than 'ต้อง' alone." },
-        { "greek": "τὰ ἔργα τοῦ πέμψαντός με", "thai": "พระราชกิจของผู้ทรงใช้เรามา", "rationale": "Per uW figs-explicit: 'the one having sent me' = God the Father; established Johannine formula (4:34, 5:23, 6:38, 6:44, 7:16, 8:16). KEY-TERM LOCK from JHN 4:34: ὁ πέμψας με → ผู้ทรงใช้เรามา (the One who sent me, with royal ทรง- on the divine sending verb)." },
-        { "greek": "ἕως ἡμέρα ἐστίν;ἔρχεται νὺξ", "thai": "ขณะที่ยังเป็นกลางวันอยู่ ... กลางคืนกำลังจะมาถึง", "rationale": "Per uW figs-metaphor: 'day' = the time Jesus and disciples can do God's work; 'night' = the time when they cannot (Jesus's death, or end-of-life more broadly). Translation preserves the metaphor literally — the contrast is preserved across cultures (daylight=working time is universal). Both readings available to the Thai reader as they are in Greek." }
+        {
+          "greek": "ἡμᾶς",
+          "thai": "พวกเรา",
+          "rationale": "Per uW figs-exclusive: ἡμᾶς here is INCLUSIVE — Jesus includes himself + the disciples. Thai 'พวกเรา' is the natural inclusive 'we' (and is the unmarked default in Thai, which doesn't grammatically distinguish inclusive/exclusive). Distinction noted in commentary; no Thai marker needed since Thai treats this naturally as inclusive when context supports."
+        },
+        {
+          "greek": "δεῖ",
+          "thai": "จำต้อง",
+          "rationale": "δεῖ = impersonal 'must' / divine necessity. In Johannine usage especially, δεῖ marks Christ's obligation under the Father's plan (cf. JHN 3:14, 4:4, 10:16). Thai 'จำต้อง' (must, of necessity) carries this obligatory force more weightily than 'ต้อง' alone."
+        },
+        {
+          "greek": "τὰ ἔργα τοῦ πέμψαντός με",
+          "thai": "พระราชกิจของผู้ทรงใช้เรามา",
+          "rationale": "Per uW figs-explicit: 'the one having sent me' = God the Father; established Johannine formula (4:34, 5:23, 6:38, 6:44, 7:16, 8:16). KEY-TERM LOCK from JHN 4:34: ὁ πέμψας με → ผู้ทรงใช้เรามา (the One who sent me, with royal ทรง- on the divine sending verb)."
+        },
+        {
+          "greek": "ἕως ἡμέρα ἐστίν;ἔρχεται νὺξ",
+          "thai": "ขณะที่ยังเป็นกลางวันอยู่ ... กลางคืนกำลังจะมาถึง",
+          "rationale": "Per uW figs-metaphor: 'day' = the time Jesus and disciples can do God's work; 'night' = the time when they cannot (Jesus's death, or end-of-life more broadly). Translation preserves the metaphor literally — the contrast is preserved across cultures (daylight=working time is universal). Both readings available to the Thai reader as they are in Greek."
+        }
       ],
       "notes": "Eschatological urgency motif. δεῖ marks divine necessity. The day/night metaphor admits two readings (per uW): (1) Jesus's earthly ministry vs. his absence; (2) lifetime vs. death. Both are theologically defensible; the translation preserves the dual-reading by translating literally."
     }
@@ -84,8 +140,16 @@
       "thai_literal": null,
       "thai_summary": "พระเยซูทรงตรัสประโยคนี้เป็นครั้งที่สอง — ที่ 8:12 ทรงประกาศว่า “เราเป็นความสว่างของโลก” อย่างเป็นนัย เรื่อง “เราเป็น” ใหญ่ในยอห์น ในที่นี้พระองค์เน้นที่ความเป็นปัจจุบันชั่วคราว — แสงนี้กำลังส่องอยู่ในขณะที่พระองค์เสด็จอยู่กับโลก",
       "key_decisions": [
-        { "greek": "φῶς εἰμι τοῦ κόσμου", "thai": "เราเป็นความสว่างของโลก", "rationale": "PHRASE-LOCK with JHN 8:12 ('Ἐγώ εἰμι τὸ φῶς τοῦ κόσμου' → 'เราเป็นความสว่างของโลก'). The two utterances form one Johannine I-am cluster: 8:12 declared, 9:5 recapitulated immediately before the demonstrating-sign. The Thai rendering is identical to preserve the cross-reference signal. Per RULES §4 phrase-lock principle." },
-        { "greek": "ὅταν ἐν τῷ κόσμῳ ὦ", "thai": "ขณะที่เรายังอยู่ในโลกนี้", "rationale": "ὅταν + present subj. = 'whenever / for as long as'. Temporal-contingent framing. Per uW figs-metonymy: 'world' = inhabited earth, not 'humanity' or 'cosmos'. Thai 'โลกนี้' (this world) preserves the inhabited-earth sense, distinct from 'จักรวาล' (cosmos)." }
+        {
+          "greek": "φῶς εἰμι τοῦ κόσμου",
+          "thai": "เราเป็นความสว่างของโลก",
+          "rationale": "PHRASE-LOCK with JHN 8:12 ('Ἐγώ εἰμι τὸ φῶς τοῦ κόσμου' → 'เราเป็นความสว่างของโลก'). The two utterances form one Johannine I-am cluster: 8:12 declared, 9:5 recapitulated immediately before the demonstrating-sign. The Thai rendering is identical to preserve the cross-reference signal. Per RULES §4 phrase-lock principle."
+        },
+        {
+          "greek": "ὅταν ἐν τῷ κόσμῳ ὦ",
+          "thai": "ขณะที่เรายังอยู่ในโลกนี้",
+          "rationale": "ὅταν + present subj. = 'whenever / for as long as'. Temporal-contingent framing. Per uW figs-metonymy: 'world' = inhabited earth, not 'humanity' or 'cosmos'. Thai 'โลกนี้' (this world) preserves the inhabited-earth sense, distinct from 'จักรวาล' (cosmos)."
+        }
       ],
       "notes": "Second I-am-light proclamation, immediately preceding the demonstrating sign of v.6-7. Phrase-locked with 8:12. Per uW: this verse is a brief restatement, not a new claim — Jesus's signature self-disclosure as φῶς. Without article (φῶς, not τὸ φῶς) the syntax is qualitative: 'I am light of the world,' but the meaning is identical to 8:12. We retain definite Thai (ความสว่างของโลก) for cross-reference consistency."
     }
@@ -101,9 +165,21 @@
       "thai_literal": null,
       "thai_summary": "การเอาน้ำลายผสมดินทำเป็นโคลนแล้วป้ายตา เป็นภาพที่เด่นชัดเชื่อมโยงกับการที่พระเจ้าทรงปั้นมนุษย์จากดินในปฐมกาล 2:7 พระเยซูทรงเป็นผู้สร้างใหม่ ไม่เพียงรักษาแต่ทรงสร้างขึ้นใหม่",
       "key_decisions": [
-        { "greek": "ἔπτυσεν & πτύσματος", "thai": "ทรงถ่มพระเขฬะ ... พระเขฬะนั้น", "rationale": "HAPAX: πτύσμα (NT-only-occurrence here). Royal register for divine bodily emission: standard Christian-Thai elevates 'น้ำลาย' (saliva) to 'พระเขฬะ' when the subject is divine — parallel to พระหัตถ์ (royal hand), พระบาท (royal foot). The verb ἔπτυσεν 'spat' becomes 'ทรงถ่มพระเขฬะ' (royally spat-out the divine-saliva). Standard rendering across Thai Christian tradition for healing-by-saliva accounts (cf. MRK 7:33, 8:23)." },
-        { "greek": "ἐποίησεν πηλὸν", "thai": "ทรงทำเป็นโคลน", "rationale": "Royal ทรง- prefix on the divine creative act; πηλός = clay/mud. Thai 'โคลน' is the natural rendering. The Genesis 2:7 echo (God forming Adam ἀπὸ τοῦ χοοῦ τῆς γῆς) is intentional in patristic and modern reception — Jesus the creator-Word literally remakes the man's eyes from dust." },
-        { "greek": "ἐπέχρισεν", "thai": "ทรงป้าย", "rationale": "ἐπιχρίω compound = 'smear/spread upon.' Thai 'ป้าย' (smear, apply lightly to a surface) captures the gentle smearing motion. Royal ทรง- prefix on the divine action." }
+        {
+          "greek": "ἔπτυσεν & πτύσματος",
+          "thai": "ทรงถ่มพระเขฬะ ... พระเขฬะนั้น",
+          "rationale": "HAPAX: πτύσμα (NT-only-occurrence here). Royal register for divine bodily emission: standard Christian-Thai elevates 'น้ำลาย' (saliva) to 'พระเขฬะ' when the subject is divine — parallel to พระหัตถ์ (royal hand), พระบาท (royal foot). The verb ἔπτυσεν 'spat' becomes 'ทรงถ่มพระเขฬะ' (royally spat-out the divine-saliva). Standard rendering across Thai Christian tradition for healing-by-saliva accounts (cf. MRK 7:33, 8:23)."
+        },
+        {
+          "greek": "ἐποίησεν πηλὸν",
+          "thai": "ทรงทำเป็นโคลน",
+          "rationale": "Royal ทรง- prefix on the divine creative act; πηλός = clay/mud. Thai 'โคลน' is the natural rendering. The Genesis 2:7 echo (God forming Adam ἀπὸ τοῦ χοοῦ τῆς γῆς) is intentional in patristic and modern reception — Jesus the creator-Word literally remakes the man's eyes from dust."
+        },
+        {
+          "greek": "ἐπέχρισεν",
+          "thai": "ทรงป้าย",
+          "rationale": "ἐπιχρίω compound = 'smear/spread upon.' Thai 'ป้าย' (smear, apply lightly to a surface) captures the gentle smearing motion. Royal ทรง- prefix on the divine action."
+        }
       ],
       "notes": "HAPAX: πτύσμα. Per uW figs-explicit: Jesus used his fingers to mix dirt and saliva. Genesis 2:7 echo (recognized in patristic tradition — Irenaeus, Adv. Haer. V.15.2, reads this as Christ the second-Adam restoring what was marred at creation). The act is theologically loaded (creator remakes) and provocatively Sabbath-violating (kneading was one of the 39 forbidden Sabbath-day labors per m.Shabbat 7:2)."
     }
@@ -119,10 +195,26 @@
       "thai_literal": null,
       "thai_summary": "ชื่อ “สิโลอัม” ในภาษาฮีบรูแปลว่า “ผู้ที่ถูกส่งมา” — ยอห์นใช้รายละเอียดทางภาษานี้เพื่อชี้ว่า การหายของชายคนนี้มาจาก “ผู้ที่ทรงถูกส่งมา” คือพระเยซู (เปรียบกับ 9:4 “ผู้ทรงใช้เรามา”) สระน้ำสิโลอัมเป็นสระน้ำในเยรูซาเล็มที่รับน้ำจากท่อใต้ดินตั้งแต่สมัยเฮเซคียาห์",
       "key_decisions": [
-        { "greek": "Σιλωάμ", "thai": "สิโลอัม", "rationale": "KEY-TERM LOCK: Σιλωάμ → สิโลอัม. Established Thai Christian transliteration (Hebrew שִׁלֹחַ Shiloaḥ, 'Siloam'); already used at LUK 13:4 (the tower of Siloam). Greek sigma → ส, iota → ิ, lambda → ล, omega → โ + อัม. Glossary entry confirmed." },
-        { "greek": "ὃ ἑρμηνεύεται, ἀπεσταλμένος", "thai": "ซึ่งแปลว่า ‘ผู้ที่ถูกใช้มา’", "rationale": "Per uW writing-background + figs-explicit: John inserts an Aramaic-to-Greek explanation for his readers. ἀπεσταλμένος (perf.pass.ptc. ἀποστέλλω) = 'one having been sent.' Echoes 9:4 (τοῦ πέμψαντός με) — Jesus = the Sent One; the very pool of healing bears the same name. Thai 'ผู้ที่ถูกใช้มา' (the one who was sent) preserves the passive-perfect sense and creates the cross-reference to 9:4. Single quotes (Thai-style nested) per RULES §5b for the gloss." },
-        { "greek": "νίψαι ... ἐνίψατο", "thai": "ไปล้าง ... ไปล้าง", "rationale": "Per uW figs-explicit: 'wash' here = wash one's eyes (off the mud), not bathe the whole body. Aor.mid.imv. and aor.mid.ind. respectively. Thai 'ล้าง' is sufficient; context (mud on eyes) makes the eye-specific sense clear." },
-        { "greek": "ἦλθεν βλέπων", "thai": "กลับมามองเห็นได้", "rationale": "Per uW figs-go: ἔρχομαι here = 'go (back home)' rather than 'come (to Jesus)' — the next verses show neighbors meeting him in his neighborhood, not Jesus. Per uW figs-explicit: βλέπων (pres.act.ptc.) = 'seeing,' implies he became able to see before/while returning. Thai 'กลับมามองเห็นได้' = 'came back able to see' captures both nuances." }
+        {
+          "greek": "Σιλωάμ",
+          "thai": "สิโลอัม",
+          "rationale": "KEY-TERM LOCK: Σιλωάμ → สิโลอัม. Established Thai Christian transliteration (Hebrew שִׁלֹחַ Shiloaḥ, 'Siloam'); already used at LUK 13:4 (the tower of Siloam). Greek sigma → ส, iota → ิ, lambda → ล, omega → โ + อัม. Glossary entry confirmed."
+        },
+        {
+          "greek": "ὃ ἑρμηνεύεται, ἀπεσταλμένος",
+          "thai": "ซึ่งแปลว่า ‘ผู้ที่ถูกใช้มา’",
+          "rationale": "Per uW writing-background + figs-explicit: John inserts an Aramaic-to-Greek explanation for his readers. ἀπεσταλμένος (perf.pass.ptc. ἀποστέλλω) = 'one having been sent.' Echoes 9:4 (τοῦ πέμψαντός με) — Jesus = the Sent One; the very pool of healing bears the same name. Thai 'ผู้ที่ถูกใช้มา' (the one who was sent) preserves the passive-perfect sense and creates the cross-reference to 9:4. Single quotes (Thai-style nested) per RULES §5b for the gloss."
+        },
+        {
+          "greek": "νίψαι ... ἐνίψατο",
+          "thai": "ไปล้าง ... ไปล้าง",
+          "rationale": "Per uW figs-explicit: 'wash' here = wash one's eyes (off the mud), not bathe the whole body. Aor.mid.imv. and aor.mid.ind. respectively. Thai 'ล้าง' is sufficient; context (mud on eyes) makes the eye-specific sense clear."
+        },
+        {
+          "greek": "ἦλθεν βλέπων",
+          "thai": "กลับมามองเห็นได้",
+          "rationale": "Per uW figs-go: ἔρχομαι here = 'go (back home)' rather than 'come (to Jesus)' — the next verses show neighbors meeting him in his neighborhood, not Jesus. Per uW figs-explicit: βλέπων (pres.act.ptc.) = 'seeing,' implies he became able to see before/while returning. Thai 'กลับมามองเห็นได้' = 'came back able to see' captures both nuances."
+        }
       ],
       "notes": "Geography: the Pool of Siloam is at the southern end of Jerusalem (excavated 2004 — large stepped reservoir from the Second-Temple period). Wordplay: שָׁלוֹחַ 'sent' echoes John's Christology (Jesus the Sent One). The man's obedience (going + washing) precedes the healing — analogous to Naaman in 2 Kgs 5:10-14, though Jesus provides immediate healing whereas Elisha demanded sevenfold dipping. uW notes: figs-go = the man went home, not to Jesus."
     }
@@ -138,8 +230,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "προσαίτης ... προσαιτῶν", "thai": "ขอทาน ... นั่งขอทาน", "rationale": "HAPAX: προσαίτης (noun, NT-only-occurrence) and προσαιτῶν (pres.act.ptc. of cognate verb προσαιτέω, also rare). Both from προσ- (toward) + αἰτέω (ask) = 'beggar / asking-toward'. Thai 'ขอทาน' is the natural rendering for both noun and participial forms — context distinguishes." },
-        { "greek": "οὐχ οὗτός ἐστιν ὁ καθήμενος καὶ προσαιτῶν;", "thai": "นี่ไม่ใช่ชายที่เคยนั่งขอทานหรือ?", "rationale": "Per uW figs-rquestion: surprised-recognition rhetorical question. 'Isn't this the one who used to sit and beg?' — translated as a Thai rhetorical question 'นี่ไม่ใช่ ... หรือ?' which preserves the surprise without needing to flatten to a statement." }
+        {
+          "greek": "προσαίτης ... προσαιτῶν",
+          "thai": "ขอทาน ... นั่งขอทาน",
+          "rationale": "HAPAX: προσαίτης (noun, NT-only-occurrence) and προσαιτῶν (pres.act.ptc. of cognate verb προσαιτέω, also rare). Both from προσ- (toward) + αἰτέω (ask) = 'beggar / asking-toward'. Thai 'ขอทาน' is the natural rendering for both noun and participial forms — context distinguishes."
+        },
+        {
+          "greek": "οὐχ οὗτός ἐστιν ὁ καθήμενος καὶ προσαιτῶν;",
+          "thai": "นี่ไม่ใช่ชายที่เคยนั่งขอทานหรือ?",
+          "rationale": "Per uW figs-rquestion: surprised-recognition rhetorical question. 'Isn't this the one who used to sit and beg?' — translated as a Thai rhetorical question 'นี่ไม่ใช่ ... หรือ?' which preserves the surprise without needing to flatten to a statement."
+        }
       ],
       "notes": "HAPAX: προσαίτης. Note ellipsis flagged by uW figs-ellipsis ('they had seen that he was a beggar' — words supplied implicitly). Begging at busy thoroughfares (especially near Temple gates, cf. ACT 3:2) was the standard livelihood for the disabled in 1st-century Jerusalem. The community recognition becomes the witness-foundation for what follows."
     }
@@ -155,8 +255,16 @@
       "thai_literal": null,
       "thai_summary": "คำว่า “เราเอง” (Ἐγώ εἰμι) ที่ชายคนนี้พูด เป็นคำเดียวกันกับที่พระเยซูใช้ในประกาศตนของพระองค์ (เช่น 8:58) ในที่นี้ใช้ในความหมายธรรมดา — “ใช่ ข้าพเจ้าเองนี่แหละ” แต่ผู้อ่านที่เฝ้าติดตามยอห์นก็ได้ยินเสียงสะท้อนของพระคำของพระเยซู ผู้ที่ทรงให้ชายคนนี้รับสายตา",
       "key_decisions": [
-        { "greek": "Ἐγώ εἰμι (man speaking)", "thai": "ข้าพเจ้าเองนี่แหละ", "rationale": "PRESERVED IRONY: ἐγώ εἰμι is Jesus's signature divine-self-identification phrase across John (8:58 etc.) — Greek-readers hear the echo when the formerly-blind man uses the same words. But here in narrative context, it is the ordinary mundane sense 'I am [the one you mean]' = 'yes it's me.' Thai 'ข้าพเจ้าเองนี่แหละ' renders the natural identifying assertion in humble first-person (ข้าพเจ้า — speaker is a beggar addressing his social superiors, the neighbors). The phrase-lock 'เราเป็น' for Jesus's divine ἐγώ εἰμι is intentionally NOT used here — to translate this man's mundane self-identification with the Christological lock would distort the narrative voice. The literary echo is preserved at the Greek level for those who can read it; Thai readers receive it via the thai_summary." },
-        { "greek": "ἔλεγεν (imperfect)", "thai": "ก็ยืนยันอยู่เสมอ", "rationale": "Imperfect ἔλεγεν = 'kept saying / was saying repeatedly' — durative force. Thai 'ก็ยืนยันอยู่เสมอ' (kept asserting) preserves the iterative/persistent quality, important because the people kept doubting." }
+        {
+          "greek": "Ἐγώ εἰμι (man speaking)",
+          "thai": "ข้าพเจ้าเองนี่แหละ",
+          "rationale": "PRESERVED IRONY: ἐγώ εἰμι is Jesus's signature divine-self-identification phrase across John (8:58 etc.) — Greek-readers hear the echo when the formerly-blind man uses the same words. But here in narrative context, it is the ordinary mundane sense 'I am [the one you mean]' = 'yes it's me.' Thai 'ข้าพเจ้าเองนี่แหละ' renders the natural identifying assertion in humble first-person (ข้าพเจ้า — speaker is a beggar addressing his social superiors, the neighbors). The phrase-lock 'เราเป็น' for Jesus's divine ἐγώ εἰμι is intentionally NOT used here — to translate this man's mundane self-identification with the Christological lock would distort the narrative voice. The literary echo is preserved at the Greek level for those who can read it; Thai readers receive it via the thai_summary."
+        },
+        {
+          "greek": "ἔλεγεν (imperfect)",
+          "thai": "ก็ยืนยันอยู่เสมอ",
+          "rationale": "Imperfect ἔλεγεν = 'kept saying / was saying repeatedly' — durative force. Thai 'ก็ยืนยันอยู่เสมอ' (kept asserting) preserves the iterative/persistent quality, important because the people kept doubting."
+        }
       ],
       "notes": "Crucial Greek-only echo: ἐγώ εἰμι in the formerly-blind man's mouth resonates with Jesus's I-am sayings throughout John (4:26, 6:35, 8:12, 8:58, 9:5 just above, etc.). The man becomes a small-scale Johannine type, anticipating his final 'πιστεύω, κύριε' + worship (v.38). Translation explicitly chooses NOT to phrase-lock this with the Christological 'เราเป็น' formula — the man is identifying himself, not making a divine claim. The thai_summary surfaces the literary echo to Thai readers."
     }
@@ -172,7 +280,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "πῶς ἠνεῴχθησάν σου οἱ ὀφθαλμοί", "thai": "แล้วดวงตาของท่านเปิดได้อย่างไร?", "rationale": "Per uW figs-activepassive + figs-metonymy: 'how were your eyes opened' uses the eyes-as-vision metonymy and a divine passive. Translation 'ดวงตา ... เปิดได้อย่างไร' preserves both the metonymy (eyes opening = ability to see) and the agent-implicit framing (someone or something opened them). Aorist passive ἠνεῴχθησάν." }
+        {
+          "greek": "πῶς ἠνεῴχθησάν σου οἱ ὀφθαλμοί",
+          "thai": "แล้วดวงตาของท่านเปิดได้อย่างไร?",
+          "rationale": "Per uW figs-activepassive + figs-metonymy: 'how were your eyes opened' uses the eyes-as-vision metonymy and a divine passive. Translation 'ดวงตา ... เปิดได้อย่างไร' preserves both the metonymy (eyes opening = ability to see) and the agent-implicit framing (someone or something opened them). Aorist passive ἠνεῴχθησάν."
+        }
       ],
       "notes": "Eye-opening idiom recurs throughout chapter (vv.10, 14, 17, 21, 26, 30, 32) — both literal and metaphorical. Thai 'ดวงตา ... เปิด' preserves the natural metonymy that operates similarly in both Greek and Thai."
     }
@@ -188,8 +300,16 @@
       "thai_literal": null,
       "thai_summary": "ในขั้นแรกชายคนนี้รู้จักพระเยซูเพียงในฐานะ “ชายผู้ที่ถูกเรียกว่าเยซู” — เขายังไม่รู้แม้ว่าผู้รักษาคือใคร นี่เป็นการเริ่มต้นการเดินทางแห่งความเข้าใจของเขาในบทนี้: จากชาย (ข้อ 11) → ผู้เผยพระวจนะ (ข้อ 17) → จากพระเจ้า (ข้อ 33) → องค์พระผู้เป็นเจ้าและที่นมัสการ (ข้อ 38)",
       "key_decisions": [
-        { "greek": "Ὁ ἄνθρωπος ὁ λεγόμενος Ἰησοῦς", "thai": "ชายผู้ที่ถูกเรียกว่าเยซู", "rationale": "Per uW figs-activepassive: 'the man called Jesus' — the man, at this point in the chapter, knows Jesus only by name and rumor. Critically, in this clause the reference IS NOT yet honorific from his perspective. Translation deliberately uses 'เยซู' WITHOUT the honorific 'พระ-' prefix — which would otherwise be the established lock. The man's growing recognition (charted in the thai_summary) is the literary arc; his first naming reflects only common-name recognition. Compare: by v.38 he uses Κύριε + worship — by which point pre-existing 'พระเยซู' lock is implicit." },
-        { "greek": "ἀπελθὼν ... νιψάμενος ἀνέβλεψα", "thai": "ข้าพเจ้าจึงไปล้าง แล้วก็มองเห็นได้", "rationale": "Per uW figs-abstractnouns: ἀνάβλεψις = 'recovery of sight' — Thai natural rendering 'มองเห็นได้' uses verbal phrase rather than abstract noun. Aorist participle chain compressed naturally in Thai." }
+        {
+          "greek": "Ὁ ἄνθρωπος ὁ λεγόμενος Ἰησοῦς",
+          "thai": "ชายผู้ที่ถูกเรียกว่าเยซู",
+          "rationale": "Per uW figs-activepassive: 'the man called Jesus' — the man, at this point in the chapter, knows Jesus only by name and rumor. Critically, in this clause the reference IS NOT yet honorific from his perspective. Translation deliberately uses 'เยซู' WITHOUT the honorific 'พระ-' prefix — which would otherwise be the established lock. The man's growing recognition (charted in the thai_summary) is the literary arc; his first naming reflects only common-name recognition. Compare: by v.38 he uses Κύριε + worship — by which point pre-existing 'พระเยซู' lock is implicit."
+        },
+        {
+          "greek": "ἀπελθὼν ... νιψάμενος ἀνέβλεψα",
+          "thai": "ข้าพเจ้าจึงไปล้าง แล้วก็มองเห็นได้",
+          "rationale": "Per uW figs-abstractnouns: ἀνάβλεψις = 'recovery of sight' — Thai natural rendering 'มองเห็นได้' uses verbal phrase rather than abstract noun. Aorist participle chain compressed naturally in Thai."
+        }
       ],
       "notes": "DRAMATIC POINT IN CHARACTERIZATION: the man identifies Jesus as 'ὁ ἄνθρωπος ὁ λεγόμενος Ἰησοῦς' — purely a name, no title. By v.17 he calls Jesus a 'prophet'; v.33 'from God'; v.38 'Lord' + worship. The translation marks this progression by withholding the honorific 'พระ-' prefix on 'เยซู' here — first deliberate non-honorific naming in the corpus's John translation. (Note: at v.14 the narrator will continue using 'พระเยซู' because the narrator's voice has full Christology.)"
     }
@@ -205,8 +325,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἐκεῖνος", "thai": "ผู้นั้น", "rationale": "Demonstrative pronoun referring to Jesus from the questioners' perspective — neutral 'that one'. Thai 'ผู้นั้น' captures the slight distancing without being disrespectful." },
-        { "greek": "οὐκ οἶδα", "thai": "ข้าพเจ้าไม่ทราบ", "rationale": "Polite first-person 'don't know' — humble register (ทราบ rather than รู้) maintained because the formerly-blind man is at the bottom of the social hierarchy speaking to neighbors who outrank him." }
+        {
+          "greek": "ἐκεῖνος",
+          "thai": "ผู้นั้น",
+          "rationale": "Demonstrative pronoun referring to Jesus from the questioners' perspective — neutral 'that one'. Thai 'ผู้นั้น' captures the slight distancing without being disrespectful."
+        },
+        {
+          "greek": "οὐκ οἶδα",
+          "thai": "ข้าพเจ้าไม่ทราบ",
+          "rationale": "Polite first-person 'don't know' — humble register (ทราบ rather than รู้) maintained because the formerly-blind man is at the bottom of the social hierarchy speaking to neighbors who outrank him."
+        }
       ],
       "notes": "Section break. The first inquiry by neighbors closes; v.13 begins the formal religious-leader inquiry."
     }
@@ -222,8 +350,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "Ἄγουσιν", "thai": "พา ... ไปหา", "rationale": "Per uW figs-pastforfuture: present tense ἄγουσιν in past narration is John's signature attention-marker (compare 9:17, 11:34, 11:44, etc.). Thai narrative grammar handles this naturally as past — no tense-marker drama needed; the focus comes from the verb being foregrounded." },
-        { "greek": "τοὺς Φαρισαίους", "thai": "พวกฟαริสี", "rationale": "KEY-TERM LOCK: Φαρισαῖοι → พวกฟาริสี (transliteration with 'พวก' for plural collective; established corpus-wide). The Pharisees (separatists, lay teachers strict on oral law) are the chapter's main opposition." }
+        {
+          "greek": "Ἄγουσιν",
+          "thai": "พา ... ไปหา",
+          "rationale": "Per uW figs-pastforfuture: present tense ἄγουσιν in past narration is John's signature attention-marker (compare 9:17, 11:34, 11:44, etc.). Thai narrative grammar handles this naturally as past — no tense-marker drama needed; the focus comes from the verb being foregrounded."
+        },
+        {
+          "greek": "τοὺς Φαρισαίους",
+          "thai": "พวกฟาริสี",
+          "rationale": "KEY-TERM LOCK: Φαρισαῖοι → พวกฟาริสี (transliteration with 'พวก' for plural collective; established corpus-wide). The Pharisees (separatists, lay teachers strict on oral law) are the chapter's main opposition."
+        }
       ],
       "notes": "Section transition — the inquiry escalates to the religious authorities. 'τόν ποτε τυφλόν' (the formerly blind one) is John's narratorial label for the man through this stretch — emphasizing the change of state."
     }
@@ -239,8 +375,16 @@
       "thai_literal": null,
       "thai_summary": "ยอห์นเปิดเผยที่นี่ว่าวันรักษาเป็นวันสะบาโต — ขัดกับการตีความของพวกฟาริสีที่ห้ามทั้งการนวด (โคลน) และการรักษาในวันสะบาโต ความขัดแย้งเรื่องสะบาโตเป็นแกนเรื่องในข่าวประเสริฐยอห์น (5:9–18) และเป็นปัจจัยจุดชนวนการสอบสวน",
       "key_decisions": [
-        { "greek": "σάββατον", "thai": "วันสะบาโต", "rationale": "KEY-TERM LOCK: σάββατον → วันสะบาโต (established Thai Christian transliteration; used corpus-wide, esp. JHN 5:9, 5:10, 5:18, 7:22, 7:23)." },
-        { "greek": "ἀνέῳξεν αὐτοῦ τοὺς ὀφθαλμούς", "thai": "เปิดดวงตาของเขา", "rationale": "Per uW figs-metonymy: 'opened his eyes' = 'caused him to see.' The Greek metonymy (eyes-opening = ability to see) is preserved literally in Thai because the same metonymy operates naturally in Thai. The narrator uses the imagery deliberately throughout the chapter." }
+        {
+          "greek": "σάββατον",
+          "thai": "วันสะบาโต",
+          "rationale": "KEY-TERM LOCK: σάββατον → วันสะบาโต (established Thai Christian transliteration; used corpus-wide, esp. JHN 5:9, 5:10, 5:18, 7:22, 7:23)."
+        },
+        {
+          "greek": "ἀνέῳξεν αὐτοῦ τοὺς ὀφθαλμούς",
+          "thai": "เปิดดวงตาของเขา",
+          "rationale": "Per uW figs-metonymy: 'opened his eyes' = 'caused him to see.' The Greek metonymy (eyes-opening = ability to see) is preserved literally in Thai because the same metonymy operates naturally in Thai. The narrator uses the imagery deliberately throughout the chapter."
+        }
       ],
       "notes": "Per uW writing-background: this verse is an aside giving background. Per uW: the Pharisees' opposition is grounded in the day being Sabbath. By Pharisaic halakah, kneading (the mud-making, v.6) was one of the 39 forbidden Sabbath labors (m.Shabbat 7:2); medical aid for non-life-threatening conditions was also forbidden. Cf. JHN 5:1-18 for the parallel Sabbath-healing controversy."
     }
@@ -256,8 +400,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "πάλιν", "thai": "อีกครั้ง", "rationale": "Per uW figs-explicit: πάλιν here means 'a second time the questioning happens (this time by Pharisees)' — not 'the Pharisees questioned again.' The implicit prior questioning was by neighbors (v.10). Thai 'อีกครั้ง' captures the iterative-questioning sense; context makes clear this is the second round (Pharisees, not neighbors)." },
-        { "greek": "ἀνέβλεψεν & βλέπω", "thai": "มองเห็นได้ ... มองเห็นได้", "rationale": "Imperfective shift: ἀνέβλεψεν (aor — gained sight) and βλέπω (pres — am seeing). The man's testimony is compressed: 'he put mud, I washed, I see.' Thai keeps the present-tense 'เดี๋ยวนี้ข้าพเจ้าก็มองเห็นได้' (and now I can see) for the punch-line force." }
+        {
+          "greek": "πάλιν",
+          "thai": "อีกครั้ง",
+          "rationale": "Per uW figs-explicit: πάλιν here means 'a second time the questioning happens (this time by Pharisees)' — not 'the Pharisees questioned again.' The implicit prior questioning was by neighbors (v.10). Thai 'อีกครั้ง' captures the iterative-questioning sense; context makes clear this is the second round (Pharisees, not neighbors)."
+        },
+        {
+          "greek": "ἀνέβλεψεν & βλέπω",
+          "thai": "มองเห็นได้ ... มองเห็นได้",
+          "rationale": "Imperfective shift: ἀνέβλεψεν (aor — gained sight) and βλέπω (pres — am seeing). The man's testimony is compressed: 'he put mud, I washed, I see.' Thai keeps the present-tense 'เดี๋ยวนี้ข้าพเจ้าก็มองเห็นได้' (and now I can see) for the punch-line force."
+        }
       ],
       "notes": "The man's reply is brisk and evidential — three short verbs (he put, I washed, I see). His clarity contrasts with the Pharisees' growing complications. Per uW: 'wash' = wash off the mud (eyes only)."
     }
@@ -273,10 +425,26 @@
       "thai_literal": null,
       "thai_summary": "ความแตกแยกในหมู่ฟาริสีเริ่มขึ้นที่นี่ — เป็นการเปิดเผยข้อแรกในยอห์นที่ผู้นำศาสนาแบ่งเป็นสองฝ่ายเรื่องพระเยซู ฝ่ายหนึ่งยึดมั่นในกฎสะบาโตที่พวกเขาตีความและตัดสินว่าพระองค์เป็นคนบาป อีกฝ่ายเห็นหมายสำคัญและเริ่มสงสัยในการตัดสินดังกล่าว",
       "key_decisions": [
-        { "greek": "οὐ τηρεῖ", "thai": "ไม่ถือ", "rationale": "τηρέω with σάββατον = 'keep, observe (a commandment)'. Per uW figs-explicit: 'keep the Sabbath' here means observing the Pharisees' added regulations (the 39 forbidden labors of m.Shabbat 7:2), not breaking the Mosaic command itself. Thai 'ถือ' (observe, hold to) is the standard rendering for keeping religious commandments." },
-        { "greek": "ἁμαρτωλὸς", "thai": "คนบาป", "rationale": "ἁμαρτωλός = 'sinner' (substantival adjective). KEY-TERM family: ἁμαρτ- → บาป (RULES §4). Standard Thai 'คนบาป' (sinner-person) — the term recurs as a polemical label in this chapter (v.24, v.31, v.34)." },
-        { "greek": "σημεῖα", "thai": "หมายสำคัญ", "rationale": "PHRASE-LOCK from JHN 2:11 onward: σημεῖον (Johannine technical term for sign-miracle that authenticates Jesus's identity) → หมายสำคัญ. Per uW: see how translated at JHN 2:11. Distinguished from 'ปาฏิหาริย์' (miracle, generic supernatural) — σημεῖον specifically signals authentication/revelation purpose." },
-        { "greek": "σχίσμα", "thai": "ความแตกแยก", "rationale": "Per uW figs-abstractnouns: σχίσμα = 'division, schism.' Thai 'ความแตกแยก' (state of breaking-apart) is the natural abstract-noun rendering. The same word recurs at JHN 7:43, 10:19 — internal Jewish division over Jesus is a Johannine motif." }
+        {
+          "greek": "οὐ τηρεῖ",
+          "thai": "ไม่ถือ",
+          "rationale": "τηρέω with σάββατον = 'keep, observe (a commandment)'. Per uW figs-explicit: 'keep the Sabbath' here means observing the Pharisees' added regulations (the 39 forbidden labors of m.Shabbat 7:2), not breaking the Mosaic command itself. Thai 'ถือ' (observe, hold to) is the standard rendering for keeping religious commandments."
+        },
+        {
+          "greek": "ἁμαρτωλὸς",
+          "thai": "คนบาป",
+          "rationale": "ἁμαρτωλός = 'sinner' (substantival adjective). KEY-TERM family: ἁμαρτ- → บาป (RULES §4). Standard Thai 'คนบาป' (sinner-person) — the term recurs as a polemical label in this chapter (v.24, v.31, v.34)."
+        },
+        {
+          "greek": "σημεῖα",
+          "thai": "หมายสำคัญ",
+          "rationale": "PHRASE-LOCK from JHN 2:11 onward: σημεῖον (Johannine technical term for sign-miracle that authenticates Jesus's identity) → หมายสำคัญ. Per uW: see how translated at JHN 2:11. Distinguished from 'ปาฏิหาริย์' (miracle, generic supernatural) — σημεῖον specifically signals authentication/revelation purpose."
+        },
+        {
+          "greek": "σχίσμα",
+          "thai": "ความแตกแยก",
+          "rationale": "Per uW figs-abstractnouns: σχίσμα = 'division, schism.' Thai 'ความแตกแยก' (state of breaking-apart) is the natural abstract-noun rendering. The same word recurs at JHN 7:43, 10:19 — internal Jewish division over Jesus is a Johannine motif."
+        }
       ],
       "notes": "First explicit division (σχίσμα) among the Pharisees over Jesus in this chapter. The dilemma: (a) Sabbath-violation = sinner (so not from God); (b) miraculous signs = not a sinner (so possibly from God). The two ethical premises (do sinners do miracles? does God's agent break the Sabbath?) cannot both stand. The σχίσμα motif anticipates JHN 7:43 (crowd division), 10:19 (post-good-shepherd division)."
     }
@@ -292,8 +460,16 @@
       "thai_literal": null,
       "thai_summary": "ชายคนนี้ก้าวสู่ขั้นที่สองในการเข้าใจพระเยซู — จาก “ชายชื่อเยซู” (ข้อ 11) เป็น “ผู้เผยพระวจนะ” คำยืนยันนี้สะท้อนสายตาฝ่ายวิญญาณที่กำลังเปิดออก คู่ขนานกับสายตาฝ่ายกายที่เพิ่งได้รับ",
       "key_decisions": [
-        { "greek": "λέγουσιν", "thai": "ถาม", "rationale": "Per uW figs-pastforfuture: present in past narrative. Thai handles past-narrative present tense as past naturally — no tense marker needed. λέγουσιν here in interrogative context = 'they ask/say'." },
-        { "greek": "Προφήτης ἐστίν", "thai": "ท่านผู้นั้นเป็นผู้เผยพระวจนะ", "rationale": "KEY-TERM LOCK: προφήτης → ผู้เผยพระวจนะ (the-one-who-speaks-forth-the-divine-word; established Thai Christian rendering). The man's identification ('a prophet') is significant — recognizing Jesus as a divinely-authorized agent, though not yet Messiah/Son of Man. Compare the Samaritan woman's progression (4:19 'a prophet,' then 4:29 'is this not the Christ?')." }
+        {
+          "greek": "λέγουσιν",
+          "thai": "ถาม",
+          "rationale": "Per uW figs-pastforfuture: present in past narrative. Thai handles past-narrative present tense as past naturally — no tense marker needed. λέγουσιν here in interrogative context = 'they ask/say'."
+        },
+        {
+          "greek": "Προφήτης ἐστίν",
+          "thai": "ท่านผู้นั้นเป็นผู้เผยพระวจนะ",
+          "rationale": "KEY-TERM LOCK: προφήτης → ผู้เผยพระวจนะ (the-one-who-speaks-forth-the-divine-word; established Thai Christian rendering). The man's identification ('a prophet') is significant — recognizing Jesus as a divinely-authorized agent, though not yet Messiah/Son of Man. Compare the Samaritan woman's progression (4:19 'a prophet,' then 4:29 'is this not the Christ?')."
+        }
       ],
       "notes": "CHARACTER DEVELOPMENT: stage 2 of the man's progression in identifying Jesus. JHN 4:19 (Samaritan woman) and JHN 6:14 (multiplication crowd) show the same intermediate Christological step. Per uW figs-pastforfuture: the present-tense λέγουσιν marks narrative pivot. The ὅτι preceding 'Προφήτης ἐστίν' is recitative (introducing direct speech), not causal."
     }
@@ -309,8 +485,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "οἱ Ἰουδαῖοι", "thai": "ผู้นำชาวยิว", "rationale": "Per uW figs-synecdoche: 'the Jews' here = the Jewish leadership (likely a faction within the Pharisees in this chapter). KEY-TERM LOCK from JHN 1:19, 5:10ff., 7:1ff., 9:22 (forthcoming): οἱ Ἰουδαῖοι in Johannine opposition-context → ผู้นำชาวยิว (the Jewish leaders). Translation deliberately specifies 'leaders' rather than the ethnically-confusing 'Jews,' which in modern Thai could read as the whole Jewish people (cf. uW translation note + corpus precedent)." },
-        { "greek": "ἀνέβλεψεν & ἀναβλέψαντος", "thai": "ได้รับสายตา ... ได้รับสายตา", "rationale": "Per uW figs-abstractnouns: ἀνάβλεψις-family carries 'recovery of sight.' Thai 'ได้รับสายตา' (received sight) is the natural rendering — establishes a verbal phrase that recurs across vv.17-21." }
+        {
+          "greek": "οἱ Ἰουδαῖοι",
+          "thai": "ผู้นำชาวยิว",
+          "rationale": "Per uW figs-synecdoche: 'the Jews' here = the Jewish leadership (likely a faction within the Pharisees in this chapter). KEY-TERM LOCK from JHN 1:19, 5:10ff., 7:1ff., 9:22 (forthcoming): οἱ Ἰουδαῖοι in Johannine opposition-context → ผู้นำชาวยิว (the Jewish leaders). Translation deliberately specifies 'leaders' rather than the ethnically-confusing 'Jews,' which in modern Thai could read as the whole Jewish people (cf. uW translation note + corpus precedent)."
+        },
+        {
+          "greek": "ἀνέβλεψεν & ἀναβλέψαντος",
+          "thai": "ได้รับสายตา ... ได้รับสายตา",
+          "rationale": "Per uW figs-abstractnouns: ἀνάβλεψις-family carries 'recovery of sight.' Thai 'ได้รับสายตา' (received sight) is the natural rendering — establishes a verbal phrase that recurs across vv.17-21."
+        }
       ],
       "notes": "οἱ Ἰουδαῖοι terminology — Johannine Christological opposition-language; Synoptic 'chief priests/scribes/elders' is the closer functional equivalent. 'Translation 'ผู้นำชาวยิว' (Jewish leaders) per established corpus convention avoids the misleading 'all Jews opposed Jesus' reading."
     }
@@ -326,7 +510,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "πῶς οὖν βλέπει ἄρτι;", "thai": "แล้วเดี๋ยวนี้เขามองเห็นได้อย่างไร?", "rationale": "ἄρτι = 'now, just now, at this moment'. Thai 'เดี๋ยวนี้' (just now / right now) preserves the present-emphatic force. Two-question structure mirrors the Greek." }
+        {
+          "greek": "πῶς οὖν βλέπει ἄρτι;",
+          "thai": "แล้วเดี๋ยวนี้เขามองเห็นได้อย่างไร?",
+          "rationale": "ἄρτι = 'now, just now, at this moment'. Thai 'เดี๋ยวนี้' (just now / right now) preserves the present-emphatic force. Two-question structure mirrors the Greek."
+        }
       ],
       "notes": "Pharisees' dual-question approach: (1) is this your son? (2) how does he now see? — they deliberately separate facts to find inconsistency. Per uW figs-activepassive: 'born blind' rendered actively as 'เกิดมาตาบอด.'"
     }
@@ -342,7 +530,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "Οἴδαμεν", "thai": "เรารู้", "rationale": "οἶδα 1pl.perf. = 'we know' (with present force). Standard rendering. Parents speak deferentially-but-not-honorifically (they are commoners addressing religious authorities)." }
+        {
+          "greek": "Οἴδαμεν",
+          "thai": "เรารู้",
+          "rationale": "οἶδα 1pl.perf. = 'we know' (with present force). Standard rendering. Parents speak deferentially-but-not-honorifically (they are commoners addressing religious authorities)."
+        }
       ],
       "notes": "Parents establish two facts (son is theirs; he was born blind) but disclaim knowledge of the third (how he sees). Calculated answer-pattern protecting them from the synagogue ban v.22 will explain."
     }
@@ -358,8 +550,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἡλικίαν ἔχει", "thai": "เขาโตเป็นผู้ใหญ่แล้ว", "rationale": "Per uW figs-explicit: ἡλικία here = 'full maturity, legal adulthood' (a person legally responsible for himself). Thai 'โตเป็นผู้ใหญ่แล้ว' (already grown to adulthood) is natural and includes the legal-responsibility implication." },
-        { "greek": "αὐτὸν ἐρωτήσατε", "thai": "จงถามเขาเองเถิด", "rationale": "Aor.act.imv. — direct command. Thai 'จงถาม...เถิด' (please ask) is the natural deferential imperative when commoners address authorities." }
+        {
+          "greek": "ἡλικίαν ἔχει",
+          "thai": "เขาโตเป็นผู้ใหญ่แล้ว",
+          "rationale": "Per uW figs-explicit: ἡλικία here = 'full maturity, legal adulthood' (a person legally responsible for himself). Thai 'โตเป็นผู้ใหญ่แล้ว' (already grown to adulthood) is natural and includes the legal-responsibility implication."
+        },
+        {
+          "greek": "αὐτὸν ἐρωτήσατε",
+          "thai": "จงถามเขาเองเถิด",
+          "rationale": "Aor.act.imv. — direct command. Thai 'จงถาม...เถิด' (please ask) is the natural deferential imperative when commoners address authorities."
+        }
       ],
       "notes": "Parental deflection: legally protects son's testimony while protecting themselves from synagogue expulsion. The triple disclaimer ('we don't know how... we don't know who... ask him') is calculated."
     }
@@ -375,8 +575,16 @@
       "thai_literal": null,
       "thai_summary": "ข้อนี้เผยให้เห็นเหตุผลของคำตอบที่ระมัดระวังของบิดามารดา — กลัวการขับออกจากธรรมศาลา ซึ่งมีผลทั้งทางสังคม (ถูกชุมชนรังเกียจ) และทางศาสนา (ห้ามนมัสการกับชุมชนยิว) นี่เป็นการตัดสินใจอย่างเป็นทางการของผู้นำต่อผู้ที่ยอมรับว่าพระเยซูเป็นพระคริสต์",
       "key_decisions": [
-        { "greek": "ὁμολογήσῃ χριστόν", "thai": "ยอมรับว่าพระเยซูเป็นพระคริสต์", "rationale": "ὁμολογέω = 'confess, acknowledge openly.' KEY-TERM LOCK: χριστός → พระคริสต์ (RULES §4). Translation supplies 'พระเยซูเป็น' explicitly to make the implicit object clear in Thai (the Greek ellipsis 'confess him Christ' is grammatically unnatural in Thai without subject-completion). Per uW: confessing Jesus as Christ = identifying him as Messiah." },
-        { "greek": "ἀποσυνάγωγος γένηται", "thai": "ถูกขับออกจากธรรมศาลา", "rationale": "Per uW figs-metaphor: 'put out of synagogue' = no longer permitted to enter or belong to synagogue community. ἀποσυνάγωγος is rare (3x NT, all in John: 9:22, 12:42, 16:2). KEY-TERM LOCK: συναγωγή → ธรรมศาลา (RULES §4). 'Synagogue ban' had social-religious-economic ramifications — the man would be cut off from worship + community + commerce." }
+        {
+          "greek": "ὁμολογήσῃ χριστόν",
+          "thai": "ยอมรับว่าพระเยซูเป็นพระคริสต์",
+          "rationale": "ὁμολογέω = 'confess, acknowledge openly.' KEY-TERM LOCK: χριστός → พระคริสต์ (RULES §4). Translation supplies 'พระเยซูเป็น' explicitly to make the implicit object clear in Thai (the Greek ellipsis 'confess him Christ' is grammatically unnatural in Thai without subject-completion). Per uW: confessing Jesus as Christ = identifying him as Messiah."
+        },
+        {
+          "greek": "ἀποσυνάγωγος γένηται",
+          "thai": "ถูกขับออกจากธรรมศาลา",
+          "rationale": "Per uW figs-metaphor: 'put out of synagogue' = no longer permitted to enter or belong to synagogue community. ἀποσυνάγωγος is rare (3x NT, all in John: 9:22, 12:42, 16:2). KEY-TERM LOCK: συναγωγή → ธรรมศาลา (RULES §4). 'Synagogue ban' had social-religious-economic ramifications — the man would be cut off from worship + community + commerce."
+        }
       ],
       "notes": "Per uW writing-background: this verse is narrator-aside explaining parents' caution. ἀποσυνάγωγος is a rare and significant term — Johannine specialty. The decree mentioned here is sometimes connected to the post-70 AD Birkat ha-Minim (the curse against heretics added to the synagogue liturgy under R. Gamaliel II at Jamnia ~85-90 AD) — a marker some scholars use to date John's composition. The Johannine community knows this exclusion-mechanism intimately."
     }
@@ -392,7 +600,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "Ἡλικίαν ἔχει", "thai": "เขาโตเป็นผู้ใหญ่แล้ว", "rationale": "PHRASE-LOCK with v.21 above. Same Greek phrase, same Thai rendering for consistency." }
+        {
+          "greek": "Ἡλικίαν ἔχει",
+          "thai": "เขาโตเป็นผู้ใหญ่แล้ว",
+          "rationale": "PHRASE-LOCK with v.21 above. Same Greek phrase, same Thai rendering for consistency."
+        }
       ],
       "notes": "Narrator's summary repetition of v.21 closing — emphasizes the parents' deflection strategy."
     }
@@ -408,7 +620,11 @@
       "thai_literal": null,
       "thai_summary": "“จงถวายเกียรติแด่พระเจ้า” เป็นสำนวนยิวโบราณที่ใช้สั่งให้บุคคลสาบานบอกความจริง (โยชูวา 7:19) ผู้นำชาวยิวกำลังเรียกร้องให้ชายคนนี้กลับคำพยานของตน — โดยใช้สำนวนที่ดูเหมือนเรียกร้องการบูชา แต่ในความหมายก็คือ “บอกความจริง โดยยอมรับว่าเยซูเป็นคนบาป”",
       "key_decisions": [
-        { "greek": "Δὸς δόξαν τῷ θεῷ", "thai": "จงถวายเกียรติแด่พระเจ้า", "rationale": "Per uW figs-idiom: OT-rooted Hebrew/Aramaic juridical idiom for 'speak the truth under oath' (cf. JOSH 7:19 LXX same phrase: δὸς δὴ δόξαν σήμερον τῷ κυρίῳ θεῷ Ισραηλ καὶ δὸς τὴν ἐξομολόγησιν). Functions as adjuration formula. Translation preserves the Greek-OT idiom literally — 'จงถวายเกียรติแด่พระเจ้า' (give glory to God) — because the wordplay between giving-glory-to-God (the formula) and the Pharisees' actual demand (denigrate Jesus) is the very irony exploited in the next verses. ADDED TO NT_OT_CITATIONS: JHN 9:24 → JOSH 7:19 (juridical adjuration formula)." }
+        {
+          "greek": "Δὸς δόξαν τῷ θεῷ",
+          "thai": "จงถวายเกียรติแด่พระเจ้า",
+          "rationale": "Per uW figs-idiom: OT-rooted Hebrew/Aramaic juridical idiom for 'speak the truth under oath' (cf. JOSH 7:19 LXX same phrase: δὸς δὴ δόξαν σήμερον τῷ κυρίῳ θεῷ Ισραηλ καὶ δὸς τὴν ἐξομολόγησιν). Functions as adjuration formula. Translation preserves the Greek-OT idiom literally — 'จงถวายเกียรติแด่พระเจ้า' (give glory to God) — because the wordplay between giving-glory-to-God (the formula) and the Pharisees' actual demand (denigrate Jesus) is the very irony exploited in the next verses. ADDED TO NT_OT_CITATIONS: JHN 9:24 → JOSH 7:19 (juridical adjuration formula)."
+        }
       ],
       "notes": "OT CITATION (idiom-citation): JHN 9:24 echoes JOSH 7:19 (Joshua adjuring Achan to confess: δὸς δὴ δόξαν σήμερον τῷ κυρίῳ). The formula commands a witness to tell the truth under oath as an act of glorifying-God. Pharisees' use is ironic: they invoke truth-telling-as-worship while demanding the man recant his testimony to suit their conclusion. ADDED TO NT_OT_CITATIONS: JHN 9:24 → JOSH 7:19 (juridical adjuration formula). Per uW: 'this man' (οὗτος ὁ ἄνθρωπος) referring to Jesus is dismissive third-person — the Pharisees avoid using Jesus's name."
     }
@@ -424,7 +640,11 @@
       "thai_literal": null,
       "thai_summary": "คำตอบที่กระชับและทรงพลัง — ชายคนนี้ปฏิเสธการเข้าสู่การถกเถียงทางเทววิทยาที่เขาไม่มีคุณสมบัติพอ แต่ยึดมั่นในข้อเท็จจริงที่เขารู้แน่ชัด: เขาเคยตาบอด เดี๋ยวนี้มองเห็นได้ ประจักษ์พยานนี้กลายเป็นถ้อยคำเด่นในประเพณีคริสเตียน — “เคยตาบอด แต่เดี๋ยวนี้เห็นได้” (cf. แอเมซิงเกรซ)",
       "key_decisions": [
-        { "greek": "τυφλὸς ὢν ἄρτι βλέπω", "thai": "ข้าพเจ้าเคยตาบอด แต่เดี๋ยวนี้ข้าพเจ้ามองเห็นได้", "rationale": "Pres.ptc. ὢν 'being' + adverb ἄρτι 'now' — the contrast hinge. Thai 'เคย ... แต่เดี๋ยวนี้' (used to be... but now) preserves the temporal pivot. The man's evidential simplicity vs. the Pharisees' theological abstraction is the argumentative move." }
+        {
+          "greek": "τυφλὸς ὢν ἄρτι βλέπω",
+          "thai": "ข้าพเจ้าเคยตาบอด แต่เดี๋ยวนี้ข้าพเจ้ามองเห็นได้",
+          "rationale": "Pres.ptc. ὢν 'being' + adverb ἄρτι 'now' — the contrast hinge. Thai 'เคย ... แต่เดี๋ยวนี้' (used to be... but now) preserves the temporal pivot. The man's evidential simplicity vs. the Pharisees' theological abstraction is the argumentative move."
+        }
       ],
       "notes": "One of the most-quoted verses in Christian devotional history; basis for the line 'I once was blind but now I see' in Newton's Amazing Grace (1779). The man's epistemological honesty (admitting what he doesn't know) + experiential certainty (insisting on what he does know) is exemplary witness."
     }
@@ -454,7 +674,11 @@
       "thai_literal": null,
       "thai_summary": "การถามแย้งของชายคนนี้เป็นการเสียดสี — เขารู้ดีว่าผู้นำชาวยิวไม่ต้องการเป็นสาวกของพระเยซู เลย คำถามนี้กลายเป็นการตอบโต้ทางวาทศิลป์: เหตุใดท่านจึงถามซ้ำ? ท่านอยากจะเป็นสาวกหรือ? — เป็นการเปิดเผยความผิดปกติของการสอบสวนเอง",
       "key_decisions": [
-        { "greek": "μὴ καὶ ὑμεῖς θέλετε αὐτοῦ μαθηταὶ γενέσθαι", "thai": "หรือพวกท่านก็อยากเป็นสาวกของท่านผู้นั้นด้วยกระมัง?", "rationale": "Per uW figs-irony: μή expects negative answer ('surely you don't...?') — the man uses irony, knowing the leaders do NOT want to become disciples. Translation 'หรือ ... ด้วยกระมัง' (or perhaps... too?) carries the ironic-rhetorical-question force in Thai. Thai 'ท่านผู้นั้น' for αὐτοῦ — slightly distancing demonstrative, fitting the man speaking of Jesus to hostile inquirers without yet declaring full devotion." }
+        {
+          "greek": "μὴ καὶ ὑμεῖς θέλετε αὐτοῦ μαθηταὶ γενέσθαι",
+          "thai": "หรือพวกท่านก็อยากเป็นสาวกของท่านผู้นั้นด้วยกระมัง?",
+          "rationale": "Per uW figs-irony: μή expects negative answer ('surely you don't...?') — the man uses irony, knowing the leaders do NOT want to become disciples. Translation 'หรือ ... ด้วยกระมัง' (or perhaps... too?) carries the ironic-rhetorical-question force in Thai. Thai 'ท่านผู้นั้น' for αὐτοῦ — slightly distancing demonstrative, fitting the man speaking of Jesus to hostile inquirers without yet declaring full devotion."
+        }
       ],
       "notes": "Per uW figs-rquestion + figs-irony: the man's wit — the increasing irritation of an ordinary person being interrogated repeatedly. The taunt 'do you want to be disciples too?' is calculated to irritate the Pharisees, anticipating their explosion in v.28."
     }
@@ -470,9 +694,21 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "Σὺ", "thai": "แก", "rationale": "REGISTER SHIFT: the Pharisees now address the man with full contempt after his ironic reply. Greek σύ here is dismissive (combined with ἐλοιδόρησαν 'they reviled'). Thai 'แก' is the lowest-register second-person pronoun — used in contempt or close intimacy; here clearly contempt. RULES §3: 'master to servant → direct'; here the Pharisees treat the man as inferior. The previous neutral 'ท่าน' (vv.10ff) shifts here to 'แก' — a marked register shift to signal escalation." },
-        { "greek": "ἐκείνου", "thai": "ผู้นั้น", "rationale": "Per uW figs-explicit: 'that one' as derogatory third-person reference avoiding Jesus's name. Thai 'ผู้นั้น' (that one) carries the distancing without translating-out the dismissiveness; alternative 'คนนั้น' would be flatter. The Pharisees deliberately do NOT use 'พระเยซู' — refusing the honorific is part of their stance." },
-        { "greek": "ἡμεῖς", "thai": "เรา", "rationale": "Per uW figs-exclusive: the Pharisees' 'we' is exclusive — 'we true Jews' in distinction from the man. Thai 'เรา' is unmarked 1pl; context makes the exclusive sense clear (us vs. you)." }
+        {
+          "greek": "Σὺ",
+          "thai": "แก",
+          "rationale": "REGISTER SHIFT: the Pharisees now address the man with full contempt after his ironic reply. Greek σύ here is dismissive (combined with ἐλοιδόρησαν 'they reviled'). Thai 'แก' is the lowest-register second-person pronoun — used in contempt or close intimacy; here clearly contempt. RULES §3: 'master to servant → direct'; here the Pharisees treat the man as inferior. The previous neutral 'ท่าน' (vv.10ff) shifts here to 'แก' — a marked register shift to signal escalation."
+        },
+        {
+          "greek": "ἐκείνου",
+          "thai": "ผู้นั้น",
+          "rationale": "Per uW figs-explicit: 'that one' as derogatory third-person reference avoiding Jesus's name. Thai 'ผู้นั้น' (that one) carries the distancing without translating-out the dismissiveness; alternative 'คนนั้น' would be flatter. The Pharisees deliberately do NOT use 'พระเยซู' — refusing the honorific is part of their stance."
+        },
+        {
+          "greek": "ἡμεῖς",
+          "thai": "เรา",
+          "rationale": "Per uW figs-exclusive: the Pharisees' 'we' is exclusive — 'we true Jews' in distinction from the man. Thai 'เรา' is unmarked 1pl; context makes the exclusive sense clear (us vs. you)."
+        }
       ],
       "notes": "Per uW figs-exclusive: ἡμεῖς is exclusive (Pharisees only, not including the man). ἐλοιδόρησαν (aor.act.ind. of λοιδορέω 'revile, abuse') — strong verb, hence the register-shift to 'แก' for σύ in translation. The Pharisees claim Mosaic discipleship as their authentication; the man's own narrative will shortly invert this (v.30-33)."
     }
@@ -488,9 +724,21 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "τοῦτον", "thai": "คนนี้", "rationale": "Per uW figs-explicit: 'this one' as derogatory reference to Jesus avoiding his name. Thai 'คนนี้' (this person) — flatter than 'ผู้นั้น' (which would be 'that one' from a distance), but the dismissive tone comes from the bare 'คน' without honorific. Combined with the contrast 'Μωϋσεῖ λελάληκεν ὁ θεός' (God spoke TO MOSES — definite, prophet-honored) vs. 'τοῦτον' (this one — undefined, no provenance)." },
-        { "greek": "λελάληκεν", "thai": "ได้ตรัส", "rationale": "Perfect tense λαλέω — past action with continuing relevance (God spoke to Moses, and that revelation still stands as authoritative). Royal register: ตรัส (divine speech-verb) per RULES §3, since the subject is God." },
-        { "greek": "πόθεν ἐστίν", "thai": "เขามาจากไหน", "rationale": "Per uW figs-explicit: 'where he is from' = where his authority originates. The leaders deny Jesus's divine origin while admitting Moses's. Thai keeps the literal 'เขามาจากไหน' (where he comes from) — the source/origin question is preserved both literally and theologically." }
+        {
+          "greek": "τοῦτον",
+          "thai": "คนนี้",
+          "rationale": "Per uW figs-explicit: 'this one' as derogatory reference to Jesus avoiding his name. Thai 'คนนี้' (this person) — flatter than 'ผู้นั้น' (which would be 'that one' from a distance), but the dismissive tone comes from the bare 'คน' without honorific. Combined with the contrast 'Μωϋσεῖ λελάληκεν ὁ θεός' (God spoke TO MOSES — definite, prophet-honored) vs. 'τοῦτον' (this one — undefined, no provenance)."
+        },
+        {
+          "greek": "λελάληκεν",
+          "thai": "ได้ตรัส",
+          "rationale": "Perfect tense λαλέω — past action with continuing relevance (God spoke to Moses, and that revelation still stands as authoritative). Royal register: ตรัส (divine speech-verb) per RULES §3, since the subject is God."
+        },
+        {
+          "greek": "πόθεν ἐστίν",
+          "thai": "เขามาจากไหน",
+          "rationale": "Per uW figs-explicit: 'where he is from' = where his authority originates. The leaders deny Jesus's divine origin while admitting Moses's. Thai keeps the literal 'เขามาจากไหน' (where he comes from) — the source/origin question is preserved both literally and theologically."
+        }
       ],
       "notes": "Per uW: 'from' = source of authority. The Pharisees frame the contrast: God-spoke-to-Moses (clear divine authority) vs. unknown-origin (no traceable authority for Jesus). Ironic — they who claim Mosaic discipleship don't recognize that Moses himself foretold Jesus (cf. JHN 5:46)."
     }
@@ -506,8 +754,16 @@
       "thai_literal": null,
       "thai_summary": "ขั้นที่สามในการถกเถียง — ชายผู้เคยตาบอดเริ่มกลายเป็นนักวิเคราะห์ทางศาสนา หักล้างผู้นำชาวยิว: หลักฐานของหมายสำคัญน่าจะเป็นเหตุผลให้ระบุที่มาของพระเยซูได้แน่นอน",
       "key_decisions": [
-        { "greek": "Ἐν τούτῳ γὰρ τὸ θαυμαστόν ἐστιν", "thai": "นี่แหละน่าประหลาดใจ", "rationale": "Per uW figs-exclamations: this can read as exclamation rather than flat statement. Thai 'นี่แหละน่าประหลาดใจ' (this is what's remarkable!) carries the exclamatory force. The man's tone shifts from defensive to assertive across vv.27-33." },
-        { "greek": "ὑμεῖς οὐκ οἴδατε", "thai": "พวกท่านไม่รู้", "rationale": "Register pivots back from the man's contemptuous 'pulling away' to the still-respectful 'พวกท่าน' (you-pl, formal-respectful) — the man does not stoop to insult the Pharisees the way they have stooped to insult him. He maintains the inferior-to-superior register even while contradicting them, which gives his rebuke moral weight." }
+        {
+          "greek": "Ἐν τούτῳ γὰρ τὸ θαυμαστόν ἐστιν",
+          "thai": "นี่แหละน่าประหลาดใจ",
+          "rationale": "Per uW figs-exclamations: this can read as exclamation rather than flat statement. Thai 'นี่แหละน่าประหลาดใจ' (this is what's remarkable!) carries the exclamatory force. The man's tone shifts from defensive to assertive across vv.27-33."
+        },
+        {
+          "greek": "ὑμεῖς οὐκ οἴδατε",
+          "thai": "พวกท่านไม่รู้",
+          "rationale": "Register pivots back from the man's contemptuous 'pulling away' to the still-respectful 'พวกท่าน' (you-pl, formal-respectful) — the man does not stoop to insult the Pharisees the way they have stooped to insult him. He maintains the inferior-to-superior register even while contradicting them, which gives his rebuke moral weight."
+        }
       ],
       "notes": "RHETORICAL TURN: the man's argumentative competence emerges. He cannot be dismissed as uneducated; his syllogism is tight (vv.30-33). Note he keeps polite-formal 'พวกท่าน' — a literary technique of moral elevation. Per uW figs-exclamations."
     }
@@ -523,9 +779,21 @@
       "thai_literal": null,
       "thai_summary": "ข้อนี้สรุปหลักการของพระคัมภีร์เดิมเรื่องการอธิษฐาน: พระเจ้าทรงฟังผู้ที่หันหลังจากบาปและรับใช้พระองค์ (สดุดี 66:18, สุภาษิต 15:8, อิสยาห์ 1:15) ชายผู้นี้กำลังใช้คำสอนของผู้นำชาวยิวเองมาหักล้างพวกเขา — พระเยซูทำหมายสำคัญได้ ซึ่งหมายความว่าพระเจ้าทรงฟังท่าน ซึ่งหมายความว่าท่านไม่ใช่คนบาป",
       "key_decisions": [
-        { "greek": "θεοσεβὴς", "thai": "ยำเกรงพระเจ้า", "rationale": "HAPAX: θεοσεβής (NT-only-occurrence here). Compound θεός + σέβομαι (revere) = 'God-revering, God-fearing'. Standard Thai Christian rendering 'ยำเกรงพระเจ้า' (fear-and-respect God) captures the LXX/Hebrew יְרֵא יְהוָה ('God-fearer') sense — a term-of-art in OT piety (cf. PROV 1:7 'fear of YHWH is beginning of wisdom'; JOB 1:1 of Job). Pairs naturally with 'ทำตามพระประสงค์' (does his will) in the verse's parallel structure." },
-        { "greek": "οὐκ ἀκούει & ἀκούει", "thai": "ไม่ทรงฟัง ... ทรงฟัง", "rationale": "Per uW figs-metaphor: 'hear' here = 'heed, respond to' rather than mere auditory perception. Royal ทรง- prefix on the divine action (RULES §3). Translation preserves the metaphor literally — ฟัง in Thai also carries the listen-and-respond sense in religious contexts (cf. 'พระเจ้าทรงฟังคำอธิษฐาน' standard Thai Christian idiom)." },
-        { "greek": "θέλημα", "thai": "พระประสงค์", "rationale": "θέλημα = 'will, purpose' (with θέλω 'wish, will'). Royal register: pre-fix พระ- because the will is divine. Thai 'พระประสงค์' (royal-will) is the standard Christian rendering for divine will — distinguished from 'ความประสงค์' (mere wish)." }
+        {
+          "greek": "θεοσεβὴς",
+          "thai": "ยำเกรงพระเจ้า",
+          "rationale": "HAPAX: θεοσεβής (NT-only-occurrence here). Compound θεός + σέβομαι (revere) = 'God-revering, God-fearing'. Standard Thai Christian rendering 'ยำเกรงพระเจ้า' (fear-and-respect God) captures the LXX/Hebrew יְרֵא יְהוָה ('God-fearer') sense — a term-of-art in OT piety (cf. PROV 1:7 'fear of YHWH is beginning of wisdom'; JOB 1:1 of Job). Pairs naturally with 'ทำตามพระประสงค์' (does his will) in the verse's parallel structure."
+        },
+        {
+          "greek": "οὐκ ἀκούει & ἀκούει",
+          "thai": "ไม่ทรงฟัง ... ทรงฟัง",
+          "rationale": "Per uW figs-metaphor: 'hear' here = 'heed, respond to' rather than mere auditory perception. Royal ทรง- prefix on the divine action (RULES §3). Translation preserves the metaphor literally — ฟัง in Thai also carries the listen-and-respond sense in religious contexts (cf. 'พระเจ้าทรงฟังคำอธิษฐาน' standard Thai Christian idiom)."
+        },
+        {
+          "greek": "θέλημα",
+          "thai": "พระประสงค์",
+          "rationale": "θέλημα = 'will, purpose' (with θέλω 'wish, will'). Royal register: pre-fix พระ- because the will is divine. Thai 'พระประสงค์' (royal-will) is the standard Christian rendering for divine will — distinguished from 'ความประสงค์' (mere wish)."
+        }
       ],
       "notes": "HAPAX: θεoσεβής. The wisdom-tradition principle that God responds to the righteous and not the wicked is summarized broadly across the OT — see Psalm 66, Proverbs 15, Isaiah 1 — but no single verse is being quoted here. Treated as theological echo without DB entry: this is a wisdom-tradition summary statement, not citation-style intertextuality. The man's syllogism: P1 God responds to non-sinners only. P2 God responded to Jesus (he performed the sign). Conclusion: Jesus is not a sinner — modus tollens applied to the Pharisees' own premise from v.16."
     }
@@ -541,8 +809,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἐκ τοῦ αἰῶνος", "thai": "ตั้งแต่โบราณกาลมา", "rationale": "ἐκ τοῦ αἰῶνος = 'from of old, from antiquity, from the age (= since the world began).' Thai 'ตั้งแต่โบราณกาลมา' (from ancient times until now) preserves the from-then-until-now temporal sweep. Hyperbolic but functionally accurate — the OT contains no precedent for healing congenital blindness." },
-        { "greek": "οὐκ ἠκούσθη", "thai": "ไม่เคยได้ยิน", "rationale": "Per uW figs-activepassive: aor.pass. 'it was not heard' rendered actively as Thai 'ไม่เคยได้ยิน' (never been heard) — natural Thai." }
+        {
+          "greek": "ἐκ τοῦ αἰῶνος",
+          "thai": "ตั้งแต่โบราณกาลมา",
+          "rationale": "ἐκ τοῦ αἰῶνος = 'from of old, from antiquity, from the age (= since the world began).' Thai 'ตั้งแต่โบราณกาลมา' (from ancient times until now) preserves the from-then-until-now temporal sweep. Hyperbolic but functionally accurate — the OT contains no precedent for healing congenital blindness."
+        },
+        {
+          "greek": "οὐκ ἠκούσθη",
+          "thai": "ไม่เคยได้ยิน",
+          "rationale": "Per uW figs-activepassive: aor.pass. 'it was not heard' rendered actively as Thai 'ไม่เคยได้ยิน' (never been heard) — natural Thai."
+        }
       ],
       "notes": "OT precedent indeed nil for congenital-blindness healing: Elisha's prayer for blinded soldiers (2 KGS 6:18-20) was for blinding/unblinding adults; no congenital-blindness cure in OT. The man's argumentative point: the unprecedented nature of the sign demands divine origin. Per uW figs-activepassive."
     }
@@ -558,9 +834,21 @@
       "thai_literal": null,
       "thai_summary": "ขั้นที่สามในการเข้าใจของชายคนนี้ — จาก “ชายชื่อเยซู” (ข้อ 11) → ผู้เผยพระวจนะ (ข้อ 17) → มาจากพระเจ้า (ข้อ 33) ตอนนี้คำให้การของเขาคือคำยืนยันที่ตรงกันข้ามกับผู้นำที่กล่าวว่าพระเยซูไม่ได้มาจากพระเจ้า (ข้อ 16)",
       "key_decisions": [
-        { "greek": "εἰ μὴ ἦν ... οὐκ ἠδύνατο ... οὐδέν", "thai": "ถ้า ... ไม่ได้ ... ก็คง ... ไม่ได้เลย", "rationale": "Per uW figs-doublenegatives + grammar-connect-condition-contrary: contrary-to-fact conditional with double negation. The man states it conditionally even though he is convinced of the positive (Jesus IS from God). Thai 'ถ้า ... ก็คง ... ไม่ได้เลย' (if ... then ... could not at all) preserves the contrary-to-fact form rhetorically — the underlying assertion is positive." },
-        { "greek": "οὐδέν", "thai": "สิ่งใดเช่นนี้", "rationale": "Per uW figs-explicit: οὐδέν here = 'anything LIKE THIS' (i.e., congenital-blindness healing), not 'anything at all.' Thai 'สิ่งใดเช่นนี้' (anything like this) preserves the contextual restriction." },
-        { "greek": "οὗτος", "thai": "ท่านผู้นี้", "rationale": "REGISTER CONTRAST with Pharisees' 'τοῦτον' v.29: same demonstrative, but the man's tone is now declarative-respectful. Thai 'ท่านผู้นี้' (this honored-one) inserts 'ท่าน' — note the man has gone from neutral 'ชายผู้ที่ถูกเรียกว่าเยซู' (v.11) to 'ผู้เผยพระวจนะ' (v.17) to honorific 'ท่านผู้นี้' here. By v.38 he will use full divine address." }
+        {
+          "greek": "εἰ μὴ ἦν ... οὐκ ἠδύνατο ... οὐδέν",
+          "thai": "ถ้า ... ไม่ได้ ... ก็คง ... ไม่ได้เลย",
+          "rationale": "Per uW figs-doublenegatives + grammar-connect-condition-contrary: contrary-to-fact conditional with double negation. The man states it conditionally even though he is convinced of the positive (Jesus IS from God). Thai 'ถ้า ... ก็คง ... ไม่ได้เลย' (if ... then ... could not at all) preserves the contrary-to-fact form rhetorically — the underlying assertion is positive."
+        },
+        {
+          "greek": "οὐδέν",
+          "thai": "สิ่งใดเช่นนี้",
+          "rationale": "Per uW figs-explicit: οὐδέν here = 'anything LIKE THIS' (i.e., congenital-blindness healing), not 'anything at all.' Thai 'สิ่งใดเช่นนี้' (anything like this) preserves the contextual restriction."
+        },
+        {
+          "greek": "οὗτος",
+          "thai": "ท่านผู้นี้",
+          "rationale": "REGISTER CONTRAST with Pharisees' 'τοῦτον' v.29: same demonstrative, but the man's tone is now declarative-respectful. Thai 'ท่านผู้นี้' (this honored-one) inserts 'ท่าน' — note the man has gone from neutral 'ชายผู้ที่ถูกเรียกว่าเยซู' (v.11) to 'ผู้เผยพระวจนะ' (v.17) to honorific 'ท่านผู้นี้' here. By v.38 he will use full divine address."
+        }
       ],
       "notes": "Stage 3 of CHARACTER DEVELOPMENT: 'from God' (παρὰ θεοῦ) — direct contradiction of v.16 'this man is not from God.' The man's three-stage syllogism (vv.30-33): if God hears non-sinners only (P1) + Jesus performed an unprecedented sign (P2) + therefore God heard him (P3) → therefore he is from God. Pharisees' own premises are turned against them."
     }
@@ -576,9 +864,21 @@
       "thai_literal": null,
       "thai_summary": "ในที่สุดผู้นำชาวยิวก็ขับชายคนนี้ออกจากธรรมศาลา — นั่นคือ ทำให้ความกลัวของบิดามารดาในข้อ 22 เกิดขึ้นจริง ในเมื่อเขาไม่ยอมกลับคำพยานของตน เขาจึงต้องสูญเสียตำแหน่งทางสังคม การนมัสการ และเครือข่ายชุมชนทั้งหมด แต่เป็นการสูญเสียที่จะกลายเป็นความได้รับในข้อต่อไป",
       "key_decisions": [
-        { "greek": "σὺ ... σὺ ... ἡμᾶς", "thai": "แก ... แก ... เรา", "rationale": "REGISTER: Pharisees use full contempt-register 'แก' for the man (continuing from v.28); 'เรา' for themselves marks the in-group/out-group divide sharply. The double σύ + emphatic placement in the Greek heightens the put-down." },
-        { "greek": "Ἐν ἁμαρτίαις σὺ ἐγεννήθης ὅλος", "thai": "แกเกิดมาในบาปทั้งตัว", "rationale": "Per uW figs-rquestion + figs-explicit: their accusation 'born in sins entirely' — they assume the disability was caused by parents' sins (returning to v.2's premise that the disciples already raised), so the man's healing doesn't redeem him from the inherent sin-status. Per uW figs-activepassive: 'born' rendered actively in Thai. ὅλος ('whole, entirely') intensifies — Thai 'ทั้งตัว' (his whole being) preserves the totalizing accusation." },
-        { "greek": "ἐξέβαλον αὐτὸν ἔξω", "thai": "ขับเขาออกไป", "rationale": "Per uW figs-metaphor: ἐκβάλλω ἔξω (reinforced 'cast out outside') = expulsion from synagogue community (parallel to ἀποσυνάγωγος v.22). The redundant ἔξω is emphatic. Thai 'ขับเขาออกไป' (drove him out) is the standard rendering for synagogue/community expulsion. The threat of v.22 becomes reality here." }
+        {
+          "greek": "σὺ ... σὺ ... ἡμᾶς",
+          "thai": "แก ... แก ... เรา",
+          "rationale": "REGISTER: Pharisees use full contempt-register 'แก' for the man (continuing from v.28); 'เรา' for themselves marks the in-group/out-group divide sharply. The double σύ + emphatic placement in the Greek heightens the put-down."
+        },
+        {
+          "greek": "Ἐν ἁμαρτίαις σὺ ἐγεννήθης ὅλος",
+          "thai": "แกเกิดมาในบาปทั้งตัว",
+          "rationale": "Per uW figs-rquestion + figs-explicit: their accusation 'born in sins entirely' — they assume the disability was caused by parents' sins (returning to v.2's premise that the disciples already raised), so the man's healing doesn't redeem him from the inherent sin-status. Per uW figs-activepassive: 'born' rendered actively in Thai. ὅλος ('whole, entirely') intensifies — Thai 'ทั้งตัว' (his whole being) preserves the totalizing accusation."
+        },
+        {
+          "greek": "ἐξέβαλον αὐτὸν ἔξω",
+          "thai": "ขับเขาออกไป",
+          "rationale": "Per uW figs-metaphor: ἐκβάλλω ἔξω (reinforced 'cast out outside') = expulsion from synagogue community (parallel to ἀποσυνάγωγος v.22). The redundant ἔξω is emphatic. Thai 'ขับเขาออกไป' (drove him out) is the standard rendering for synagogue/community expulsion. The threat of v.22 becomes reality here."
+        }
       ],
       "notes": "FULFILLMENT of v.22: the synagogue ban materializes. Per uW figs-rquestion: rhetorical insult — they cannot answer the man's argument, so they attack his standing. The expulsion is socially catastrophic but is the catalyst for v.35-38: cast out, the man is found by Jesus."
     }
@@ -594,10 +894,26 @@
       "thai_literal": null,
       "thai_summary": "พระเยซูไม่ได้รอให้ชายคนนี้กลับมาหา — พระองค์ทรงเสาะหาเขาเอง (เปรียบกับลูกแกะที่หลงในลูกา 15) เป็นเหตุการณ์ที่สำคัญทางการเลี้ยงดูในข่าวประเสริฐยอห์น: ผู้ที่ถูกขับออกจากชุมชนยิวกลับได้รับการเสาะหาโดยพระคริสต์เอง “บุตรมนุษย์” เป็นคำที่พระเยซูทรงใช้บ่อยที่สุดสำหรับพระองค์เอง (อ้างอิงดาเนียล 7:13)",
       "key_decisions": [
-        { "greek": "Ἤκουσεν", "thai": "ทรงทราบ", "rationale": "Royal register for divine-subject's hearing/knowing: ทรงทราบ (royal know) per RULES §3. The aorist marks the point at which Jesus learned of the expulsion — not a casual hearing but a deliberate awareness." },
-        { "greek": "εὑρὼν", "thai": "ทรงเสาะหาเขาจนพบ", "rationale": "Per uW figs-explicit: εὑρών (aor.act.ptc. of εὑρίσκω) implies prior searching — Jesus did not happen upon the man accidentally; he sought him. Thai 'เสาะหาเขาจนพบ' (sought-and-found him) makes the explicit prior-searching sense clear, as uW recommends. Royal ทรง- on the divine action." },
-        { "greek": "τὸν υἱὸν τοῦ ἀνθρώπου", "thai": "บุตรมนุษย์", "rationale": "KEY-TERM LOCK: ὁ υἱὸς τοῦ ἀνθρώπου → บุตรมนุษย์. Established Christian-Thai rendering of Jesus's signature self-designation across the gospels (cf. JHN 1:51, 3:13, 3:14, 5:27, 6:27, 6:53, 6:62, 8:28, 12:23, 12:34, 13:31). Echoes DAN 7:13 LXX 'ὡς υἱὸς ἀνθρώπου ἐρχόμενος' — the apocalyptic divine-human authority figure." },
-        { "greek": "Σὺ πιστεύεις εἰς", "thai": "เจ้าเชื่อใน", "rationale": "Jesus addresses the man with divine-to-human pronoun 'เจ้า' per RULES §3 (continuing the pattern: Mark 2:5, 5:34 etc.). The construction πιστεύω εἰς + accusative is John's signature 'believe-INTO' (not just 'believe that') — directional faith-commitment toward a person. Thai 'เชื่อใน' (believe-in) is the standard Christian rendering preserving this." }
+        {
+          "greek": "Ἤκουσεν",
+          "thai": "ทรงทราบ",
+          "rationale": "Royal register for divine-subject's hearing/knowing: ทรงทราบ (royal know) per RULES §3. The aorist marks the point at which Jesus learned of the expulsion — not a casual hearing but a deliberate awareness."
+        },
+        {
+          "greek": "εὑρὼν",
+          "thai": "ทรงเสาะหาเขาจนพบ",
+          "rationale": "Per uW figs-explicit: εὑρών (aor.act.ptc. of εὑρίσκω) implies prior searching — Jesus did not happen upon the man accidentally; he sought him. Thai 'เสาะหาเขาจนพบ' (sought-and-found him) makes the explicit prior-searching sense clear, as uW recommends. Royal ทรง- on the divine action."
+        },
+        {
+          "greek": "τὸν υἱὸν τοῦ ἀνθρώπου",
+          "thai": "บุตรมนุษย์",
+          "rationale": "KEY-TERM LOCK: ὁ υἱὸς τοῦ ἀνθρώπου → บุตรมนุษย์. Established Christian-Thai rendering of Jesus's signature self-designation across the gospels (cf. JHN 1:51, 3:13, 3:14, 5:27, 6:27, 6:53, 6:62, 8:28, 12:23, 12:34, 13:31). Echoes DAN 7:13 LXX 'ὡς υἱὸς ἀνθρώπου ἐρχόμενος' — the apocalyptic divine-human authority figure."
+        },
+        {
+          "greek": "Σὺ πιστεύεις εἰς",
+          "thai": "เจ้าเชื่อใน",
+          "rationale": "Jesus addresses the man with divine-to-human pronoun 'เจ้า' per RULES §3 (continuing the pattern: Mark 2:5, 5:34 etc.). The construction πιστεύω εἰς + accusative is John's signature 'believe-INTO' (not just 'believe that') — directional faith-commitment toward a person. Thai 'เชื่อใน' (believe-in) is the standard Christian rendering preserving this."
+        }
       ],
       "notes": "TEXTUAL VARIANT (significant): SBLGNT, NA28, BSB, ESV, NIV, CSB read τὸν υἱὸν τοῦ ἀνθρώπου ('Son of Man'); Byzantine Majority Text + TR + KJV/THKJV read τὸν υἱὸν τοῦ θεοῦ ('Son of God'). Manuscript witnesses for Son of Man: 𝔓⁶⁶ 𝔓⁷⁵ ℵ B D W. For Son of God: A K Δ Ψ etc. Modern critical-text consensus + SBLGNT prefer Son of Man (lectio difficilior — 'Son of God' looks like assimilation to a more confessionally-natural title for John). We follow SBLGNT — Son of Man — but flag the variant. The man's confusion in v.36 ('who is he?') better fits 'Son of Man' (a less-immediately-recognizable title than 'Son of God')."
     }
@@ -613,7 +929,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "κύριε (pre-recognition)", "thai": "ท่านเจ้าข้า", "rationale": "REGISTER NUANCE: per uW note, κύριε here is 'sir / honored one' — politeness-respect, not yet divine-recognition. The man does not yet know Jesus is the Lord (he has not seen the Son of Man identity revealed). Thai 'ท่านเจ้าข้า' (esteemed sir, high-respect-but-not-divine) marks the polite-but-not-confessional address. Compare v.38 where the same κύριε flips to full divine 'Κύριε' after recognition + worship — Thai will use 'พระองค์เจ้าข้า' there. The intentional Thai-register progression mirrors the Greek narrative arc, even though Greek κύριε is morphologically identical in both verses." }
+        {
+          "greek": "κύριε (pre-recognition)",
+          "thai": "ท่านเจ้าข้า",
+          "rationale": "REGISTER NUANCE: per uW note, κύριε here is 'sir / honored one' — politeness-respect, not yet divine-recognition. The man does not yet know Jesus is the Lord (he has not seen the Son of Man identity revealed). Thai 'ท่านเจ้าข้า' (esteemed sir, high-respect-but-not-divine) marks the polite-but-not-confessional address. Compare v.38 where the same κύριε flips to full divine 'Κύριε' after recognition + worship — Thai will use 'พระองค์เจ้าข้า' there. The intentional Thai-register progression mirrors the Greek narrative arc, even though Greek κύριε is morphologically identical in both verses."
+        }
       ],
       "notes": "Per uW: κύριε here = politeness ('sir'), not yet 'Lord.' The man's reply is genuine inquiry — he does not yet know Jesus's identity for confession. The translation marks this with 'ท่านเจ้าข้า' (high-respect non-divine) — to be paired with v.38's escalation to 'พระองค์เจ้าข้า' (divine-Lord)."
     }
@@ -629,8 +949,16 @@
       "thai_literal": null,
       "thai_summary": "พระเยซูทรงเปิดเผยตัวเองด้วยรูปแบบเฉพาะของยอห์น: ผ่านการกล่าวซ้อน — “เจ้าได้เห็น ... ผู้ที่พูดกับเจ้านี้คือผู้นั้น” คล้ายกับการเปิดเผยพระองค์เองต่อหญิงชาวสะมาเรียในยอห์น 4:26 (“เราที่กำลังพูดกับเจ้านี่แหละคือผู้นั้น”) ลำดับการเห็น (ฝ่ายกาย → ฝ่ายวิญญาณ) ก็ครบสมบูรณ์ในข้อต่อไป",
       "key_decisions": [
-        { "greek": "ὁ λαλῶν μετὰ σοῦ ἐκεῖνός ἐστιν", "thai": "ผู้ที่กำลังพูดกับเจ้าอยู่นี้ก็คือท่านผู้นั้นเอง", "rationale": "Per uW figs-123person: Jesus refers to himself in third person ('that one is the one speaking with you'). Thai grammar handles this naturally — 'ผู้ที่ ... ก็คือท่านผู้นั้นเอง' (the one speaking ... that very one is). Echoes JHN 4:26 self-revelation pattern. Royal register on the divine speaker: ตรัส (v.37 opening)." },
-        { "greek": "ἑώρακας", "thai": "ได้เห็น", "rationale": "Perf.act.ind. of ὁράω = 'you have seen.' The man received physical sight in v.7 — now he literally has SEEN Jesus (compare v.11 'told me'). The perfect tense marks the present-state-resulting-from-past-action; Thai 'ได้เห็น' (have seen) preserves this." }
+        {
+          "greek": "ὁ λαλῶν μετὰ σοῦ ἐκεῖνός ἐστιν",
+          "thai": "ผู้ที่กำลังพูดกับเจ้าอยู่นี้ก็คือท่านผู้นั้นเอง",
+          "rationale": "Per uW figs-123person: Jesus refers to himself in third person ('that one is the one speaking with you'). Thai grammar handles this naturally — 'ผู้ที่ ... ก็คือท่านผู้นั้นเอง' (the one speaking ... that very one is). Echoes JHN 4:26 self-revelation pattern. Royal register on the divine speaker: ตรัส (v.37 opening)."
+        },
+        {
+          "greek": "ἑώρακας",
+          "thai": "ได้เห็น",
+          "rationale": "Perf.act.ind. of ὁράω = 'you have seen.' The man received physical sight in v.7 — now he literally has SEEN Jesus (compare v.11 'told me'). The perfect tense marks the present-state-resulting-from-past-action; Thai 'ได้เห็น' (have seen) preserves this."
+        }
       ],
       "notes": "Self-revelation pattern parallels JHN 4:26 (Samaritan woman: 'Ἐγώ εἰμι, ὁ λαλῶν σοι' — 'I-AM, the one speaking with you'). Both are direct first-person divine-self-disclosures to socially marginal individuals (Samaritan woman, expelled blind beggar). The man literally sees Jesus's face for the first time in this scene."
     }
@@ -646,10 +974,26 @@
       "thai_literal": null,
       "thai_summary": "นี่คือยอดบรรพ์ทั้งของบทนี้และของการเดินทางแห่งความเข้าใจของชายคนนี้ — จากตาบอดสู่การมองเห็น จาก “ชายชื่อเยซู” (ข้อ 11) สู่การยอมรับองค์พระผู้เป็นเจ้าและการนมัสการ คำว่า “นมัสการ” (โพรสกูเนโอ) ในยอห์นถูกใช้เฉพาะกับการนมัสการพระเจ้า ในการที่ชายคนนี้นมัสการพระเยซู ยอห์นกำลังประกาศว่าพระเยซูทรงเป็นพระเจ้าอย่างชัดแจ้ง",
       "key_decisions": [
-        { "greek": "Κύριε (post-recognition)", "thai": "พระองค์เจ้าข้า", "rationale": "REGISTER ESCALATION from v.36: same Greek κύριε, but the man now KNOWS who Jesus is — having seen + having heard the self-revelation in v.37. The vocative becomes full divine-Lord-address. Thai 'พระองค์เจ้าข้า' (พระองค์ = divine-pronoun, เจ้าข้า = humble vocative-suffix) — the highest humble register for human-to-divine address per RULES §3. Combined with προσεκύνησεν (worship), the phrase functions as confessional creed." },
-        { "greek": "Πιστεύω", "thai": "ข้าพระองค์เชื่อ", "rationale": "Per uW figs-ellipsis: 'I believe' is elliptical — completed by 'in the Son of Man' from v.36. The man's first-person profession uses humble-divine register: ข้าพระองค์ (humble 'I' addressed to divine) rather than ordinary 'ข้าพเจ้า'. RULES §3: 'Humans addressing Christ/God use the lowest humble register: ข้าพระองค์ or ข้า for I.' The pronoun shift from 'ข้าพเจ้า' (vv.11, 25, 30, 36) to 'ข้าพระองค์' here is the marker of confessional recognition." },
-        { "greek": "προσεκύνησεν αὐτῷ", "thai": "นมัสการพระองค์", "rationale": "KEY-TERM LOCK: προσκυνέω → นมัสการ (established at JHN 4:20-24 cluster). Critical theological note: in John, προσκυνέω is reserved for worship of God (4:20-24 explicit) — never used of mere veneration. The fact that Jesus does not refuse this worship (compare REV 19:10, 22:9 where angels refuse προσκύνησις) is John's Christological climax. Thai 'นมัสการพระองค์' (worship the divine-one) preserves this — note the divine-pronoun พระองค์ as object, marking Jesus as worship-recipient." },
-        { "greek": "ἔφη", "thai": "ทูล", "rationale": "Now that the man recognizes Jesus's divinity, his speech-verb shifts from neutral 'ตอบ / พูด' (vv.11, 25, 30) to 'ทูล' — the humble-to-divine speech-verb (RULES §3). Linguistic mirror of the recognition-event." }
+        {
+          "greek": "Κύριε (post-recognition)",
+          "thai": "พระองค์เจ้าข้า",
+          "rationale": "REGISTER ESCALATION from v.36: same Greek κύριε, but the man now KNOWS who Jesus is — having seen + having heard the self-revelation in v.37. The vocative becomes full divine-Lord-address. Thai 'พระองค์เจ้าข้า' (พระองค์ = divine-pronoun, เจ้าข้า = humble vocative-suffix) — the highest humble register for human-to-divine address per RULES §3. Combined with προσεκύνησεν (worship), the phrase functions as confessional creed."
+        },
+        {
+          "greek": "Πιστεύω",
+          "thai": "ข้าพระองค์เชื่อ",
+          "rationale": "Per uW figs-ellipsis: 'I believe' is elliptical — completed by 'in the Son of Man' from v.36. The man's first-person profession uses humble-divine register: ข้าพระองค์ (humble 'I' addressed to divine) rather than ordinary 'ข้าพเจ้า'. RULES §3: 'Humans addressing Christ/God use the lowest humble register: ข้าพระองค์ or ข้า for I.' The pronoun shift from 'ข้าพเจ้า' (vv.11, 25, 30, 36) to 'ข้าพระองค์' here is the marker of confessional recognition."
+        },
+        {
+          "greek": "προσεκύνησεν αὐτῷ",
+          "thai": "นมัสการพระองค์",
+          "rationale": "KEY-TERM LOCK: προσκυνέω → นมัสการ (established at JHN 4:20-24 cluster). Critical theological note: in John, προσκυνέω is reserved for worship of God (4:20-24 explicit) — never used of mere veneration. The fact that Jesus does not refuse this worship (compare REV 19:10, 22:9 where angels refuse προσκύνησις) is John's Christological climax. Thai 'นมัสการพระองค์' (worship the divine-one) preserves this — note the divine-pronoun พระองค์ as object, marking Jesus as worship-recipient."
+        },
+        {
+          "greek": "ἔφη",
+          "thai": "ทูล",
+          "rationale": "Now that the man recognizes Jesus's divinity, his speech-verb shifts from neutral 'ตอบ / พูด' (vv.11, 25, 30) to 'ทูล' — the humble-to-divine speech-verb (RULES §3). Linguistic mirror of the recognition-event."
+        }
       ],
       "notes": "CHRISTOLOGICAL CLIMAX of the chapter. προσκυνέω in John (4:20-24, 9:38, 12:20) is reserved for divine worship. By accepting it (and not refusing as angels in REV 19:10 do), Jesus validates the man's Christological inference. CHARACTER ARC RESOLUTION: stage 1 'ชายชื่อเยซู' → 2 'ผู้เผยพระวจนะ' → 3 'มาจากพระเจ้า' → 4 'พระองค์เจ้าข้า + นมัสการ.' TEXTUAL VARIANT: a small group of important early witnesses (𝔓⁷⁵ ℵ* W b l copbo) omit v.38 + 'καὶ εἶπεν ὁ Ἰησοῦς' at start of v.39. Their absence may be due to homoeoteleuton (similar endings in copying). NA28 places v.38 + initial words of v.39 in single brackets indicating textual doubt; SBLGNT main text retains them without brackets. Most modern scholars accept the verses as original (consistent with Johannine vocabulary, theology, and narrative climax). We follow SBLGNT — print in main text. The variant does not affect Christological reading; even without v.38, John's worship-of-Jesus theme stands."
     }
@@ -665,9 +1009,21 @@
       "thai_literal": null,
       "thai_summary": "“การพิพากษา” ในที่นี้ไม่ได้หมายถึงการตัดสินโทษโดยตรง แต่เป็นกระบวนการแยกแยะ ที่เกิดขึ้นเองในการเผชิญพระคริสต์ — ผู้ที่รู้ว่าตนตาบอดฝ่ายวิญญาณก็ได้รับการรักษา ผู้ที่ดูถูกตนเองว่ามองเห็นแล้วก็ตาบอดต่อความจริง ความหมายเชิงเปรียบเทียบขนานกับเรื่องราวจริงของชายตาบอดเทียบกับฟาริสีในบทนี้",
       "key_decisions": [
-        { "greek": "κρίμα", "thai": "การพิพากษา", "rationale": "Per uW figs-abstractnouns: κρίμα = 'judgment, decision, verdict.' Thai 'การพิพากษา' (judicial-judgment, verdict) is the standard Christian rendering. Not exclusively condemnatory — the κρίσις in John has both salvific and condemnatory poles (cf. JHN 3:17-19, 5:22-30). Here it functions as discrimination-event: the Christ-encounter sorts those-who-see from those-who-don't." },
-        { "greek": "οἱ μὴ βλέποντες & οἱ βλέποντες", "thai": "คนที่ไม่เห็น ... คนที่เห็น", "rationale": "Per uW figs-metaphor: physical-blindness/sight as metaphor for spiritual condition. The chapter's whole arc — physical blindness healed (man, vv.6-7) and spiritual blindness exposed (Pharisees, v.40-41) — is summarized here. Translation preserves the surface-level vision-language ('คนที่ไม่เห็น ... คนที่เห็น') because the metaphor operates the same way in Thai; making it explicit ('spiritually blind') would over-translate the deliberately-double-edged saying." },
-        { "greek": "εἰς τὸν κόσμον τοῦτον ἦλθον", "thai": "เราเข้ามาในโลกนี้", "rationale": "Johannine signature: Christ's coming-into-world (cf. JHN 1:9, 3:17, 12:46, 18:37). Thai 'เราเข้ามาในโลกนี้' (we came into this world) preserves the directional incarnational language. 'เรา' for Jesus's first-person divine self-reference per Markan-corpus established pattern." }
+        {
+          "greek": "κρίμα",
+          "thai": "การพิพากษา",
+          "rationale": "Per uW figs-abstractnouns: κρίμα = 'judgment, decision, verdict.' Thai 'การพิพากษา' (judicial-judgment, verdict) is the standard Christian rendering. Not exclusively condemnatory — the κρίσις in John has both salvific and condemnatory poles (cf. JHN 3:17-19, 5:22-30). Here it functions as discrimination-event: the Christ-encounter sorts those-who-see from those-who-don't."
+        },
+        {
+          "greek": "οἱ μὴ βλέποντες & οἱ βλέποντες",
+          "thai": "คนที่ไม่เห็น ... คนที่เห็น",
+          "rationale": "Per uW figs-metaphor: physical-blindness/sight as metaphor for spiritual condition. The chapter's whole arc — physical blindness healed (man, vv.6-7) and spiritual blindness exposed (Pharisees, v.40-41) — is summarized here. Translation preserves the surface-level vision-language ('คนที่ไม่เห็น ... คนที่เห็น') because the metaphor operates the same way in Thai; making it explicit ('spiritually blind') would over-translate the deliberately-double-edged saying."
+        },
+        {
+          "greek": "εἰς τὸν κόσμον τοῦτον ἦλθον",
+          "thai": "เราเข้ามาในโลกนี้",
+          "rationale": "Johannine signature: Christ's coming-into-world (cf. JHN 1:9, 3:17, 12:46, 18:37). Thai 'เราเข้ามาในโลกนี้' (we came into this world) preserves the directional incarnational language. 'เรา' for Jesus's first-person divine self-reference per Markan-corpus established pattern."
+        }
       ],
       "notes": "Verse 39 turns the chapter's narrative into theological summary. The chapter's physical/spiritual chiasmus — the literal-blind man gains sight, then spiritual sight; the Pharisees with literal sight reveal themselves spiritually blind. Per uW grammar-connect-logic-result: ἵνα can introduce result OR explanation of the κρίμα. Translation preserves the natural-Thai purpose-clause without forcing the disambiguation."
     }
@@ -683,8 +1039,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "Μὴ καὶ ἡμεῖς τυφλοί ἐσμεν", "thai": "พวกเราก็ตาบอดด้วยหรือ?", "rationale": "Per uW figs-rquestion: μή expects 'no' answer ('surely we aren't blind too?') — a defensive rhetorical question. The Pharisees grasp the figurative thrust but expect Jesus to exempt them. Thai 'พวกเราก็ตาบอดด้วยหรือ?' (are we also blind?) preserves the incredulous tone; Jesus's reply (v.41) refuses to grant the exemption." },
-        { "greek": "οἱ μετ’ αὐτοῦ ὄντες", "thai": "ที่อยู่กับพระองค์", "rationale": "Per uW: implies these Pharisees were physically present with Jesus during the v.39 declaration. Some manuscripts soften to 'who heard him,' but the SBLGNT 'who were with him' suggests an entourage-of-curious-Pharisees, possibly the same divided-group of v.16. Thai 'ที่อยู่กับพระองค์' (those-being-with-him) preserves the locative-companionship sense without resolving whether they were friendly or hostile." }
+        {
+          "greek": "Μὴ καὶ ἡμεῖς τυφλοί ἐσμεν",
+          "thai": "พวกเราก็ตาบอดด้วยหรือ?",
+          "rationale": "Per uW figs-rquestion: μή expects 'no' answer ('surely we aren't blind too?') — a defensive rhetorical question. The Pharisees grasp the figurative thrust but expect Jesus to exempt them. Thai 'พวกเราก็ตาบอดด้วยหรือ?' (are we also blind?) preserves the incredulous tone; Jesus's reply (v.41) refuses to grant the exemption."
+        },
+        {
+          "greek": "οἱ μετ’ αὐτοῦ ὄντες",
+          "thai": "ที่อยู่กับพระองค์",
+          "rationale": "Per uW: implies these Pharisees were physically present with Jesus during the v.39 declaration. Some manuscripts soften to 'who heard him,' but the SBLGNT 'who were with him' suggests an entourage-of-curious-Pharisees, possibly the same divided-group of v.16. Thai 'ที่อยู่กับพระองค์' (those-being-with-him) preserves the locative-companionship sense without resolving whether they were friendly or hostile."
+        }
       ],
       "notes": "The Pharisees use ironic-defensive rhetorical question (per uW figs-rquestion + figs-metaphor). They have understood the spiritual-blindness metaphor but assume their religious-credentials exempt them. Jesus's reply will deny the exemption — confessing one's blindness is the prerequisite for receiving sight."
     }
@@ -700,9 +1064,21 @@
       "thai_literal": null,
       "thai_summary": "บทสรุปที่หนักแน่น: หากผู้นำชาวยิวยอมรับว่าตนตาบอดฝ่ายวิญญาณ พระเยซูก็จะทรงรักษาให้ดังที่ทรงรักษาชายคนนั้น แต่ในเมื่อพวกเขายืนกรานว่า “เราเห็น” พวกเขาก็ปิดตัวเองจากการรักษา หลักการของพระคัมภีร์: การยอมรับความจำเป็นของตนคือเงื่อนไขแรกของการได้รับพระคุณ",
       "key_decisions": [
-        { "greek": "Εἰ τυφλοὶ ἦτε ... οὐκ ἂν εἴχετε ἁμαρτίαν", "thai": "ถ้าพวกท่านตาบอด พวกท่านก็จะไม่มีบาป", "rationale": "Per uW figs-metaphor: 'blind' here = 'not knowing God's truth' — same metaphor as v.39. Contrary-to-fact conditional 'if you WERE blind, you WOULD have no sin.' Thai 'ถ้า ... ก็จะไม่มีบาป' preserves the contrary-to-fact (because they DO claim to see)." },
-        { "greek": "λέγετε ὅτι Βλέπομεν", "thai": "พวกท่านกล่าวว่า ‘เราเห็น’", "rationale": "Per uW figs-quotesinquotes: direct quotation embedded. Thai-style nested single quotes '...' per RULES §5b for inner quote. The Pharisees' self-claim (1pl 'we see') sets the trap they walked into. Thai 'เรา' for the embedded 1pl-Pharisee voice (not the outer Jesus 'we' would use) — preserves the speaker-shift." },
-        { "greek": "ἡ ἁμαρτία ὑμῶν μένει", "thai": "บาปของพวกท่านก็ยังคงอยู่", "rationale": "Per uW figs-metaphor: 'sin remaining/abiding' as if it were an object that abides. Pres.act.ind. μένει — sin in present persistent state. Thai 'บาปของพวกท่านก็ยังคงอยู่' (your sin remains) preserves the durative-present 'still abiding' sense. Closes the chapter on the unhealed-spiritual-blindness verdict." }
+        {
+          "greek": "Εἰ τυφλοὶ ἦτε ... οὐκ ἂν εἴχετε ἁμαρτίαν",
+          "thai": "ถ้าพวกท่านตาบอด พวกท่านก็จะไม่มีบาป",
+          "rationale": "Per uW figs-metaphor: 'blind' here = 'not knowing God's truth' — same metaphor as v.39. Contrary-to-fact conditional 'if you WERE blind, you WOULD have no sin.' Thai 'ถ้า ... ก็จะไม่มีบาป' preserves the contrary-to-fact (because they DO claim to see)."
+        },
+        {
+          "greek": "λέγετε ὅτι Βλέπομεν",
+          "thai": "พวกท่านกล่าวว่า ‘เราเห็น’",
+          "rationale": "Per uW figs-quotesinquotes: direct quotation embedded. Thai-style nested single quotes '...' per RULES §5b for inner quote. The Pharisees' self-claim (1pl 'we see') sets the trap they walked into. Thai 'เรา' for the embedded 1pl-Pharisee voice (not the outer Jesus 'we' would use) — preserves the speaker-shift."
+        },
+        {
+          "greek": "ἡ ἁμαρτία ὑμῶν μένει",
+          "thai": "บาปของพวกท่านก็ยังคงอยู่",
+          "rationale": "Per uW figs-metaphor: 'sin remaining/abiding' as if it were an object that abides. Pres.act.ind. μένει — sin in present persistent state. Thai 'บาปของพวกท่านก็ยังคงอยู่' (your sin remains) preserves the durative-present 'still abiding' sense. Closes the chapter on the unhealed-spiritual-blindness verdict."
+        }
       ],
       "notes": "Chapter ends on the Pharisees' unhealed condition — sharp inversion of the man's narrative arc. The principle: confessing one's blindness is the prerequisite for receiving sight (cf. MAT 9:12 'those who are well have no need of a physician'). Per uW figs-quotesinquotes: nested quotation for the Pharisees' self-claim. The forensic/gracious paradox of κρίμα v.39 plays out here — the same verdict-event that gave the man sight leaves the Pharisees in their blindness, BY THEIR OWN CHOICE TO CLAIM SIGHT."
     }

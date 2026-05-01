@@ -10,8 +10,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἔκρινα γὰρ ἐμαυτῷ τοῦτο", "thai": "ข้าพเจ้าได้ตัดสินใจในตัวเอง", "rationale": "κρίνω + dative reflexive = 'decide for oneself / judge in one's own mind' (per uW figs-explicit: 'on my own / in my own mind' — Paul's autonomous decision, not coerced). γάρ connects back to 1:23's reason-for-not-coming, per uW grammar-connect-words-phrases. Thai 'ตัดสินใจในตัวเอง' captures the reflexive 'self-decision'." },
-        { "greek": "τὸ μὴ πάλιν ἐν λύπῃ ... ἐλθεῖν", "thai": "จะไม่กลับมาหาพวกท่านอีกในความทุกข์โศก", "rationale": "λύπη NEW LEMMA in our corpus — first occurrence as the 'sorrow/grief' cluster that runs through 2:1-7. Thai 'ความทุกข์โศก' captures the relational-emotional-pain sense (uW: 'people who are close friends grieve each other by what they say and do' — emotional, not physical). LOCKS the λυπ-root rendering for the chapter. πάλιν 'again' implies prior 'painful visit' (uW figs-explicit) — Thai 'อีก' captures the recurrence." }
+        {
+          "greek": "ἔκρινα γὰρ ἐμαυτῷ τοῦτο",
+          "thai": "ข้าพเจ้าได้ตัดสินใจในตัวเอง",
+          "rationale": "κρίνω + dative reflexive = 'decide for oneself / judge in one's own mind' (per uW figs-explicit: 'on my own / in my own mind' — Paul's autonomous decision, not coerced). γάρ connects back to 1:23's reason-for-not-coming, per uW grammar-connect-words-phrases. Thai 'ตัดสินใจในตัวเอง' captures the reflexive 'self-decision'."
+        },
+        {
+          "greek": "τὸ μὴ πάλιν ἐν λύπῃ ... ἐλθεῖν",
+          "thai": "จะไม่กลับมาหาพวกท่านอีกในความทุกข์โศก",
+          "rationale": "λύπη NEW LEMMA in our corpus — first occurrence as the 'sorrow/grief' cluster that runs through 2:1-7. Thai 'ความทุกข์โศก' captures the relational-emotional-pain sense (uW: 'people who are close friends grieve each other by what they say and do' — emotional, not physical). LOCKS the λυπ-root rendering for the chapter. πάλιν 'again' implies prior 'painful visit' (uW figs-explicit) — Thai 'อีก' captures the recurrence."
+        }
       ],
       "notes": "FIRST OCCURRENCE in corpus of λύπη (sorrow/grief, freq=26) — locked as ความทุกข์โศก. Will recur in 2:2-7 (cluster), 7:8-10. πάλιν implies the prior 'painful visit' Paul mentions in 12:14, 13:1-2 (the unrecorded second visit between 1 Cor and 2 Cor)."
     }
@@ -27,8 +35,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "εἰ ἐγὼ λυπῶ ὑμᾶς", "thai": "ถ้าข้าพเจ้าทำให้พวกท่านโศกใจ", "rationale": "λυπέω present-active = 'cause-grief / make-sorrowful'. Per uW grammar-connect-condition-hypothetical: hypothetical-Paul-wishes-to-prevent. Thai 'ทำให้...โศกใจ' captures the causative-emotional-grief; consistent with v.1's λύπη → 'ความทุกข์โศก' (cognate-pair preserved). Adapt to verb form: 'โศกใจ' (be grieved-in-heart)." },
-        { "greek": "τίς ὁ εὐφραίνων με εἰ μὴ ὁ λυπούμενος ἐξ ἐμοῦ", "thai": "ใครเล่าจะทำให้ข้าพเจ้าชื่นชมยินดี ถ้าไม่ใช่ผู้ที่ข้าพเจ้าได้ทำให้โศกใจ", "rationale": "Per uW figs-rquestion: rhetorical question expecting 'no one else.' εὐφραίνω → 'ทำให้...ชื่นชมยินดี' (corpus pattern from Acts 7:41 'ชื่นชมยินดี'). Per uW grammar-connect-exceptions: rephrase 'who...except' as Thai natural 'ใครเล่า...ถ้าไม่ใช่' (preserves Greek exception-clause structure naturally). Per uW figs-activepassive: λυπούμενος passive could become active 'whom I have grieved' — Thai active form 'ผู้ที่ข้าพเจ้าได้ทำให้โศกใจ' is more natural." }
+        {
+          "greek": "εἰ ἐγὼ λυπῶ ὑμᾶς",
+          "thai": "ถ้าข้าพเจ้าทำให้พวกท่านโศกใจ",
+          "rationale": "λυπέω present-active = 'cause-grief / make-sorrowful'. Per uW grammar-connect-condition-hypothetical: hypothetical-Paul-wishes-to-prevent. Thai 'ทำให้...โศกใจ' captures the causative-emotional-grief; consistent with v.1's λύπη → 'ความทุกข์โศก' (cognate-pair preserved). Adapt to verb form: 'โศกใจ' (be grieved-in-heart)."
+        },
+        {
+          "greek": "τίς ὁ εὐφραίνων με εἰ μὴ ὁ λυπούμενος ἐξ ἐμοῦ",
+          "thai": "ใครเล่าจะทำให้ข้าพเจ้าชื่นชมยินดี ถ้าไม่ใช่ผู้ที่ข้าพเจ้าได้ทำให้โศกใจ",
+          "rationale": "Per uW figs-rquestion: rhetorical question expecting 'no one else.' εὐφραίνω → 'ทำให้...ชื่นชมยินดี' (corpus pattern from Acts 7:41 'ชื่นชมยินดี'). Per uW grammar-connect-exceptions: rephrase 'who...except' as Thai natural 'ใครเล่า...ถ้าไม่ใช่' (preserves Greek exception-clause structure naturally). Per uW figs-activepassive: λυπούμενος passive could become active 'whom I have grieved' — Thai active form 'ผู้ที่ข้าพเจ้าได้ทำให้โศกใจ' is more natural."
+        }
       ],
       "notes": null
     }
@@ -44,10 +60,26 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἔγραψα τοῦτο αὐτό", "thai": "ข้าพเจ้าก็ได้เขียนเรื่องนี้เอง", "rationale": "Per uW figs-explicit: ἔγραψα refers to the previous letter (the so-called 'severe letter,' lost — see uW book-intro Part 3 / chapter 2 intro) — distinct from 1 Corinthians and from 2 Corinthians itself. τοῦτο αὐτό 'this same thing' could refer to 2:1-2 just-said OR the previous-letter-content (uW writing-pronouns ambiguous). Thai 'เรื่องนี้เอง' preserves the ambiguity." },
-        { "greek": "λύπην σχῶ", "thai": "เป็นทุกข์โศก", "rationale": "Cognate noun-form of λυπέω — λύπη → 'ทุกข์โศก' (consistency with v.1's 'ความทุกข์โศก' lock; verb form here drops 'ความ' for natural flow with 'เป็น...')." },
-        { "greek": "ἀφ’ὧν ἔδει με χαίρειν", "thai": "เพราะผู้ที่ควรจะทำให้ข้าพเจ้ายินดี", "rationale": "Per uW figs-explicit: 'from those for whom it is necessary to give me joy' — Paul's expectation is that the Corinthians SHOULD bring him joy. Thai 'ผู้ที่ควรจะทำให้...ยินดี' captures the deontic ἔδει + the source 'ἀφ’ὧν.'" },
-        { "greek": "πεποιθὼς ἐπὶ πάντας ὑμᾶς", "thai": "โดยที่ข้าพเจ้ามั่นใจในพวกท่านทุกคน", "rationale": "πέποιθα perfect 'have-confidence' — same root as πεποίθησις (1:15) → 'ความมั่นใจ' lock. Verb form here: 'มั่นใจ.' Per uW grammar-connect-logic-result: provides the reason-of-Paul's-writing." }
+        {
+          "greek": "ἔγραψα τοῦτο αὐτό",
+          "thai": "ข้าพเจ้าก็ได้เขียนเรื่องนี้เอง",
+          "rationale": "Per uW figs-explicit: ἔγραψα refers to the previous letter (the so-called 'severe letter,' lost — see uW book-intro Part 3 / chapter 2 intro) — distinct from 1 Corinthians and from 2 Corinthians itself. τοῦτο αὐτό 'this same thing' could refer to 2:1-2 just-said OR the previous-letter-content (uW writing-pronouns ambiguous). Thai 'เรื่องนี้เอง' preserves the ambiguity."
+        },
+        {
+          "greek": "λύπην σχῶ",
+          "thai": "เป็นทุกข์โศก",
+          "rationale": "Cognate noun-form of λυπέω — λύπη → 'ทุกข์โศก' (consistency with v.1's 'ความทุกข์โศก' lock; verb form here drops 'ความ' for natural flow with 'เป็น...')."
+        },
+        {
+          "greek": "ἀφ’ὧν ἔδει με χαίρειν",
+          "thai": "เพราะผู้ที่ควรจะทำให้ข้าพเจ้ายินดี",
+          "rationale": "Per uW figs-explicit: 'from those for whom it is necessary to give me joy' — Paul's expectation is that the Corinthians SHOULD bring him joy. Thai 'ผู้ที่ควรจะทำให้...ยินดี' captures the deontic ἔδει + the source 'ἀφ’ὧν.'"
+        },
+        {
+          "greek": "πεποιθὼς ἐπὶ πάντας ὑμᾶς",
+          "thai": "โดยที่ข้าพเจ้ามั่นใจในพวกท่านทุกคน",
+          "rationale": "πέποιθα perfect 'have-confidence' — same root as πεποίθησις (1:15) → 'ความมั่นใจ' lock. Verb form here: 'มั่นใจ.' Per uW grammar-connect-logic-result: provides the reason-of-Paul's-writing."
+        }
       ],
       "notes": "Paul refers to a PREVIOUS LETTER (the so-called 'severe letter'), now lost. Distinct from 1 Cor and 2 Cor. uW chapter-intro discusses; Acts/Eph readers should not confuse with 1 Cor."
     }
@@ -63,9 +95,21 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἐκ πολλῆς θλίψεως καὶ συνοχῆς καρδίας", "thai": "ด้วยความทุกข์ลำบากและความบีบคั้นในใจอันใหญ่หลวง", "rationale": "θλῖψις → 'ความทุกข์ลำบาก' (corpus lock from 1 Th + 2 Th + 2 Co 1). συνοχή (NT freq=2) NEW LEMMA — 'pressing-together / anguish.' Thai 'ความบีบคั้นในใจ' captures the squeeze-the-heart sense; per uW figs-metonymy: καρδία 'heart' = seat-of-thought-and-emotion → Thai 'ใจ' (corpus standard). Doublet θλῖψις + συνοχή amplified by πολλῆς → 'อันใหญ่หลวง' (post-positioned for Thai naturalness)." },
-        { "greek": "διὰ πολλῶν δακρύων", "thai": "พร้อมกับน้ำตาเป็นจำนวนมาก", "rationale": "Per uW figs-idiom: 'through many tears' = while-weeping. Thai 'พร้อมกับน้ำตา' (= 'with tears') is the natural Thai idiom for 'crying-while-doing.' δάκρυον → 'น้ำตα' (Thai standard)." },
-        { "greek": "τὴν ἀγάπην ἵνα γνῶτε ἣν ἔχω περισσοτέρως", "thai": "เพื่อให้พวกท่านได้รู้ถึงความรักอันท่วมท้นที่ข้าพเจ้ามี", "rationale": "ἀγάπη → 'ความรัก' (corpus lock). Per uW figs-explicit: περισσοτέρως 'more abundantly' could mean (1) 'abundant for you' or (2) 'more for you than for others' — Thai 'อันท่วมท้น' (= overflowing/abundant) preserves option (1) which is the dominant reading. Per uW figs-infostructure: Thai keeps the Greek negative-then-positive order naturally." }
+        {
+          "greek": "ἐκ πολλῆς θλίψεως καὶ συνοχῆς καρδίας",
+          "thai": "ด้วยความทุกข์ลำบากและความบีบคั้นในใจอันใหญ่หลวง",
+          "rationale": "θλῖψις → 'ความทุกข์ลำบาก' (corpus lock from 1 Th + 2 Th + 2 Co 1). συνοχή (NT freq=2) NEW LEMMA — 'pressing-together / anguish.' Thai 'ความบีบคั้นในใจ' captures the squeeze-the-heart sense; per uW figs-metonymy: καρδία 'heart' = seat-of-thought-and-emotion → Thai 'ใจ' (corpus standard). Doublet θλῖψις + συνοχή amplified by πολλῆς → 'อันใหญ่หลวง' (post-positioned for Thai naturalness)."
+        },
+        {
+          "greek": "διὰ πολλῶν δακρύων",
+          "thai": "พร้อมกับน้ำตาเป็นจำนวนมาก",
+          "rationale": "Per uW figs-idiom: 'through many tears' = while-weeping. Thai 'พร้อมกับน้ำตา' (= 'with tears') is the natural Thai idiom for 'crying-while-doing.' δάκρυον → 'น้ำตา' (Thai standard)."
+        },
+        {
+          "greek": "τὴν ἀγάπην ἵνα γνῶτε ἣν ἔχω περισσοτέρως",
+          "thai": "เพื่อให้พวกท่านได้รู้ถึงความรักอันท่วมท้นที่ข้าพเจ้ามี",
+          "rationale": "ἀγάπη → 'ความรัก' (corpus lock). Per uW figs-explicit: περισσοτέρως 'more abundantly' could mean (1) 'abundant for you' or (2) 'more for you than for others' — Thai 'อันท่วมท้น' (= overflowing/abundant) preserves option (1) which is the dominant reading. Per uW figs-infostructure: Thai keeps the Greek negative-then-positive order naturally."
+        }
       ],
       "notes": "συνοχή = NT freq=2 (cognate of συνέχω 'hold-together'). θλῖψις + συνοχή doublet captures Paul's deep anguish in writing the previous (severe) letter."
     }
@@ -81,9 +125,21 @@
       "thai_literal": null,
       "thai_summary": "ข้อ 5-11 เป็นเรื่องของบุคคลที่ทำให้คริสตจักรโครินธ์เป็นทุกข์ — เปาโลไม่ระบุชื่อหรือลักษณะของความผิด (อาจเป็นกรณีที่บันทึกใน 1 โครินธ์ 5 หรืออีกกรณีที่ไม่ได้บันทึก) บัดนี้บุคคลนั้นได้รับการลงโทษจากคริสตจักรแล้ว เปาโลขอให้คริสตจักรให้อภัยและรับเขากลับคืนมา ป้องกันไม่ให้ซาตานใช้ความขมขื่นและการลงโทษที่มากเกินไปเพื่อทำลายเขา",
       "key_decisions": [
-        { "greek": "Εἰ δέ τις λελύπηκεν", "thai": "แต่ถ้ามีผู้ใดได้ทำให้คนอื่นโศกใจ", "rationale": "Per uW grammar-connect-condition-fact: hypothetical-but-actually-true. Thai 'ถ้า' preserves conditional-surface; the perfect λελύπηκεν indicates settled past with continuing relevance. Per uW figs-abstractnouns option to verbalize: Thai 'ทำให้...โศกใจ' (consistent with v.2)." },
-        { "greek": "οὐκ ἐμὲ λελύπηκεν, ἀλλὰ ἀπὸ μέρους ... πάντας ὑμᾶς", "thai": "เขาไม่ได้ทำให้ข้าพเจ้าโศกใจคนเดียว แต่ทำให้พวกท่านทุกคนเป็นทุกข์อยู่บ้าง", "rationale": "Per uW figs-explicit: Paul's 'has not grieved me but [grieved] you' is delicate-rhetorical. Three readings (uW): (1) Paul not grieved at all, only Corinthians; (2) Paul grieved-some, mostly Corinthians; (3) primarily community-grief. Thai 'ไม่...คนเดียว' (= 'not...alone') preserves the 'me-too-but-community-mainly' reading without forcing one. ἀπὸ μέρους per uW figs-explicit: could refer to (a) 'some of you' or (b) 'partially'; Thai 'อยู่บ้าง' covers both — 'somewhat.'" },
-        { "greek": "ἵνα μὴ ἐπιβαρῶ πάντας ὑμᾶς", "thai": "ข้าพเจ้าพูดเช่นนี้เพื่อจะไม่กล่าวเกินเลยไป", "rationale": "ἐπιβαρέω (NT freq=3) per uW figs-metaphor — 'place-burden-upon.' Two readings (uW): (1) Paul moderates his words ('not exaggerate'); (2) Paul avoids burdening Corinthians. Per uW figs-infostructure option (1) — Paul's parenthetical-rhetorical-restraint. Thai 'พูดเช่นนี้เพื่อจะไม่กล่าวเกินเลยไป' (= 'I say this so as not to overstate') captures the moderation-rhetoric. Em-dash signals parenthesis (RULES §5b)." }
+        {
+          "greek": "Εἰ δέ τις λελύπηκεν",
+          "thai": "แต่ถ้ามีผู้ใดได้ทำให้คนอื่นโศกใจ",
+          "rationale": "Per uW grammar-connect-condition-fact: hypothetical-but-actually-true. Thai 'ถ้า' preserves conditional-surface; the perfect λελύπηκεν indicates settled past with continuing relevance. Per uW figs-abstractnouns option to verbalize: Thai 'ทำให้...โศกใจ' (consistent with v.2)."
+        },
+        {
+          "greek": "οὐκ ἐμὲ λελύπηκεν, ἀλλὰ ἀπὸ μέρους ... πάντας ὑμᾶς",
+          "thai": "เขาไม่ได้ทำให้ข้าพเจ้าโศกใจคนเดียว แต่ทำให้พวกท่านทุกคนเป็นทุกข์อยู่บ้าง",
+          "rationale": "Per uW figs-explicit: Paul's 'has not grieved me but [grieved] you' is delicate-rhetorical. Three readings (uW): (1) Paul not grieved at all, only Corinthians; (2) Paul grieved-some, mostly Corinthians; (3) primarily community-grief. Thai 'ไม่...คนเดียว' (= 'not...alone') preserves the 'me-too-but-community-mainly' reading without forcing one. ἀπὸ μέρους per uW figs-explicit: could refer to (a) 'some of you' or (b) 'partially'; Thai 'อยู่บ้าง' covers both — 'somewhat.'"
+        },
+        {
+          "greek": "ἵνα μὴ ἐπιβαρῶ πάντας ὑμᾶς",
+          "thai": "ข้าพเจ้าพูดเช่นนี้เพื่อจะไม่กล่าวเกินเลยไป",
+          "rationale": "ἐπιβαρέω (NT freq=3) per uW figs-metaphor — 'place-burden-upon.' Two readings (uW): (1) Paul moderates his words ('not exaggerate'); (2) Paul avoids burdening Corinthians. Per uW figs-infostructure option (1) — Paul's parenthetical-rhetorical-restraint. Thai 'พูดเช่นนี้เพื่อจะไม่กล่าวเกินเลยไป' (= 'I say this so as not to overstate') captures the moderation-rhetoric. Em-dash signals parenthesis (RULES §5b)."
+        }
       ],
       "notes": "uW notes flag THE PERSON: an unnamed individual whose specific offense Paul also leaves unspecified (likely sexual sin, financial wrongdoing, or open-opposition-to-Paul's-authority — uW chapter-intro). Most older commentators identified this person with the incestuous-man of 1 Cor 5:1-5; modern scholarship leans toward a separate personal-attack on Paul during the 'painful visit.' Translation deliberately keeps GENERAL terms (per uW request)."
     }
@@ -99,9 +155,21 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἡ ἐπιτιμία αὕτη", "thai": "บทลงโทษ", "rationale": "ἐπιτιμία = NT-HAPAX (freq=1, only here). Cognate of ἐπιτιμάω 'rebuke' but as noun = 'penalty / disciplinary-action.' Thai 'บทลงโทษ' (= 'punishment / disciplinary-measure') captures the institutional-disciplinary force (cf. modern Thai legal/educational discipline). Per uW figs-extrainfo: Paul deliberately keeps general — Thai matches by avoiding specific disciplinary-form." },
-        { "greek": "τῷ τοιούτῳ", "thai": "คนเช่นนั้น", "rationale": "Per uW writing-pronouns: τοιοῦτος refers specifically to the offender of v.5. Thai 'คนเช่นนั้น' preserves the discreet anaphoric reference — same person, generally referenced." },
-        { "greek": "ἱκανόν ... ὑπὸ τῶν πλειόνων", "thai": "เพียงพอแล้ว ... โดยคนส่วนใหญ่", "rationale": "Per uW figs-explicit: ἱκανόν 'sufficient' could mean (1) severe-enough or (2) lasted-long-enough. Thai 'เพียงพอแล้ว' (with completed-particle 'แล้ว') captures both — completion-of-adequate-discipline. πλείων comparative-as-superlative 'the-majority' (uW figs-extrainfo: implies a minority dissenter-group). Thai 'คนส่วนใหญ่' standard." }
+        {
+          "greek": "ἡ ἐπιτιμία αὕτη",
+          "thai": "บทลงโทษ",
+          "rationale": "ἐπιτιμία = NT-HAPAX (freq=1, only here). Cognate of ἐπιτιμάω 'rebuke' but as noun = 'penalty / disciplinary-action.' Thai 'บทลงโทษ' (= 'punishment / disciplinary-measure') captures the institutional-disciplinary force (cf. modern Thai legal/educational discipline). Per uW figs-extrainfo: Paul deliberately keeps general — Thai matches by avoiding specific disciplinary-form."
+        },
+        {
+          "greek": "τῷ τοιούτῳ",
+          "thai": "คนเช่นนั้น",
+          "rationale": "Per uW writing-pronouns: τοιοῦτος refers specifically to the offender of v.5. Thai 'คนเช่นนั้น' preserves the discreet anaphoric reference — same person, generally referenced."
+        },
+        {
+          "greek": "ἱκανόν ... ὑπὸ τῶν πλειόνων",
+          "thai": "เพียงพอแล้ว ... โดยคนส่วนใหญ่",
+          "rationale": "Per uW figs-explicit: ἱκανόν 'sufficient' could mean (1) severe-enough or (2) lasted-long-enough. Thai 'เพียงพอแล้ว' (with completed-particle 'แล้ว') captures both — completion-of-adequate-discipline. πλείων comparative-as-superlative 'the-majority' (uW figs-extrainfo: implies a minority dissenter-group). Thai 'คนส่วนใหญ่' standard."
+        }
       ],
       "notes": "ἐπιτιμία = NT HAPAX (freq=1). The 'majority' implies a minority of Corinthians who didn't agree with the discipline (uW figs-extrainfo) — Paul does not pursue that detail."
     }
@@ -117,9 +185,21 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "τοὐναντίον μᾶλλον ὑμᾶς χαρίσασθαι", "thai": "ในทางกลับกัน พวกท่านควรให้อภัย", "rationale": "τοὐναντίον (NT freq=3) = 'on-the-contrary' (crasis of τὸ ἐναντίον). Thai 'ในทางกลับกัน' standard. χαρίζομαι (NT freq=23) here = 'forgive' (cognate of χάρις 'grace' — 'give-grace-to' = 'forgive'). Distinct from χάρις ('พระคุณ' lock) — for the verb of granting-pardon: 'ให้อภัย.' LOCKS χαρίζομαι (forgive-sense) → 'ให้อภัย' for corpus consistency (recurs at v.10 four times). Note: Acts 25:16 used 'มอบ' for χαρίζομαι in 'hand-over'-sense (different lexical-context); here forgiveness-sense calls for 'ให้อภัย.'" },
-        { "greek": "παρακαλέσαι", "thai": "หนุนใจ", "rationale": "παρακαλέω (corpus lock from 2 Co 1) → 'หนุนใจ.' Same lemma; same Thai." },
-        { "greek": "μή πως τῇ περισσοτέρᾳ λύπῃ καταποθῇ ὁ τοιοῦτος", "thai": "เพื่อคนเช่นนั้นจะไม่ถูกความทุกข์โศกที่มากเกินไปท่วมท้นจนหมดกำลังใจ", "rationale": "καταπίνω (NT freq=7) = 'swallow-down / overwhelm' — per uW figs-metaphor: a person can be swallowed-up-by-sorrow-and-destroyed. Per uW figs-activepassive: passive subjunctive — Thai 'ถูก...ท่วมท้น' (be-overwhelmed) captures the passive metaphor; 'จนหมดกำลังใจ' (until-loses-all-courage) makes uW's 'destroyed by sorrow' sense explicit-but-natural. λύπη + περισσότερος → 'ความทุกข์โศกที่มากเกินไป' (consistent with v.1, v.2, v.3 lock + 'excessive')." }
+        {
+          "greek": "τοὐναντίον μᾶλλον ὑμᾶς χαρίσασθαι",
+          "thai": "ในทางกลับกัน พวกท่านควรให้อภัย",
+          "rationale": "τοὐναντίον (NT freq=3) = 'on-the-contrary' (crasis of τὸ ἐναντίον). Thai 'ในทางกลับกัน' standard. χαρίζομαι (NT freq=23) here = 'forgive' (cognate of χάρις 'grace' — 'give-grace-to' = 'forgive'). Distinct from χάρις ('พระคุณ' lock) — for the verb of granting-pardon: 'ให้อภัย.' LOCKS χαρίζομαι (forgive-sense) → 'ให้อภัย' for corpus consistency (recurs at v.10 four times). Note: Acts 25:16 used 'มอบ' for χαρίζομαι in 'hand-over'-sense (different lexical-context); here forgiveness-sense calls for 'ให้อภัย.'"
+        },
+        {
+          "greek": "παρακαλέσαι",
+          "thai": "หนุนใจ",
+          "rationale": "παρακαλέω (corpus lock from 2 Co 1) → 'หนุนใจ.' Same lemma; same Thai."
+        },
+        {
+          "greek": "μή πως τῇ περισσοτέρᾳ λύπῃ καταποθῇ ὁ τοιοῦτος",
+          "thai": "เพื่อคนเช่นนั้นจะไม่ถูกความทุกข์โศกที่มากเกินไปท่วมท้นจนหมดกำลังใจ",
+          "rationale": "καταπίνω (NT freq=7) = 'swallow-down / overwhelm' — per uW figs-metaphor: a person can be swallowed-up-by-sorrow-and-destroyed. Per uW figs-activepassive: passive subjunctive — Thai 'ถูก...ท่วมท้น' (be-overwhelmed) captures the passive metaphor; 'จนหมดกำลังใจ' (until-loses-all-courage) makes uW's 'destroyed by sorrow' sense explicit-but-natural. λύπη + περισσότερος → 'ความทุกข์โศกที่มากเกินไป' (consistent with v.1, v.2, v.3 lock + 'excessive')."
+        }
       ],
       "notes": "Pauline pastoral-discipline-theology: discipline must always aim at restoration, not destruction. Same principle in 1 Cor 5:5 (handing-over-to-Satan to save-the-spirit), Gal 6:1-2 (restore in spirit-of-gentleness)."
     }
@@ -135,8 +215,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "παρακαλῶ ὑμᾶς", "thai": "ข้าพเจ้าจึงวิงวอนพวกท่าน", "rationale": "Pauline-exhortation παρακαλέω here = 'urge / exhort / entreat' (different sense from 2:7's 'comfort'). Thai 'วิงวอน' (corpus pattern from 1 Co 4:16, 1 Th 4:1) captures the urgency-of-apostolic-appeal. Same lemma but context-distinguished sense — multi-sense lemma documented in glossary practice (RULES §4)." },
-        { "greek": "κυρῶσαι εἰς αὐτὸν ἀγάπην", "thai": "ให้ยืนยันความรักที่มีต่อเขา", "rationale": "κυρόω (NT freq=2) = 'ratify / make-valid / reaffirm.' In Greco-Roman legal contexts κυρόω = formally-validate-an-agreement. Pauline-pastoral use: communal reaffirmation of brotherly-love. Thai 'ยืนยัน' (= 'affirm / confirm') captures the formal-public-reaffirmation force. Per uW figs-infostructure: εἰς αὐτόν 'for him' attaches to ἀγάπην or κυρῶσαι — Thai 'ความรักที่มีต่อเขา' attaches to ἀγάπη naturally." }
+        {
+          "greek": "παρακαλῶ ὑμᾶς",
+          "thai": "ข้าพเจ้าจึงวิงวอนพวกท่าน",
+          "rationale": "Pauline-exhortation παρακαλέω here = 'urge / exhort / entreat' (different sense from 2:7's 'comfort'). Thai 'วิงวอน' (corpus pattern from 1 Co 4:16, 1 Th 4:1) captures the urgency-of-apostolic-appeal. Same lemma but context-distinguished sense — multi-sense lemma documented in glossary practice (RULES §4)."
+        },
+        {
+          "greek": "κυρῶσαι εἰς αὐτὸν ἀγάπην",
+          "thai": "ให้ยืนยันความรักที่มีต่อเขา",
+          "rationale": "κυρόω (NT freq=2) = 'ratify / make-valid / reaffirm.' In Greco-Roman legal contexts κυρόω = formally-validate-an-agreement. Pauline-pastoral use: communal reaffirmation of brotherly-love. Thai 'ยืนยัน' (= 'affirm / confirm') captures the formal-public-reaffirmation force. Per uW figs-infostructure: εἰς αὐτόν 'for him' attaches to ἀγάπην or κυρῶσαι — Thai 'ความรักที่มีต่อเขา' attaches to ἀγάπη naturally."
+        }
       ],
       "notes": "κυρόω = NT freq=2. Formal-public-reaffirmation-of-love → restoration of the disciplined member. Pauline-restorative-discipline complete."
     }
@@ -152,9 +240,21 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "εἰς τοῦτο γὰρ καὶ ἔγραψα ἵνα γνῶ", "thai": "ข้าพเจ้าก็ได้เขียนไปก็เพื่อเหตุนี้ คือเพื่อจะรู้", "rationale": "ἔγραψα again refers to the previous (severe) letter (per uW figs-explicit, same as v.3-4). εἰς τοῦτο + ἵνα = doublet purpose-construction (uW figs-doublet). Thai 'เพื่อเหตุนี้ คือเพื่อจะรู้' preserves the emphatic doubling without forcing artificial Thai." },
-        { "greek": "τὴν δοκιμὴν ὑμῶν", "thai": "บทพิสูจน์ของพวกท่าน", "rationale": "δοκιμή (NT freq=7) per uW figs-explicit: 'results-of-a-test / character-as-tested.' Thai 'บทพิสูจน์' (= 'proof / test-result') captures the tested-and-validated sense. Cognate of δοκιμάζω 'test/approve' (1 Th 2:4 'ได้รับการรับรอง')." },
-        { "greek": "εἰ εἰς πάντα ὑπήκοοί ἐστε", "thai": "ว่าพวกท่านเชื่อฟังในทุกสิ่งหรือไม่", "rationale": "ὑπήκοος (NT freq=3) = 'obedient.' Per uW figs-explicit: obedience-to-whom unstated — could be Paul-as-apostle or God. Thai 'เชื่อฟัง' standard; the implicit-recipient stays implicit (Thai readers can infer)." }
+        {
+          "greek": "εἰς τοῦτο γὰρ καὶ ἔγραψα ἵνα γνῶ",
+          "thai": "ข้าพเจ้าก็ได้เขียนไปก็เพื่อเหตุนี้ คือเพื่อจะรู้",
+          "rationale": "ἔγραψα again refers to the previous (severe) letter (per uW figs-explicit, same as v.3-4). εἰς τοῦτο + ἵνα = doublet purpose-construction (uW figs-doublet). Thai 'เพื่อเหตุนี้ คือเพื่อจะรู้' preserves the emphatic doubling without forcing artificial Thai."
+        },
+        {
+          "greek": "τὴν δοκιμὴν ὑμῶν",
+          "thai": "บทพิสูจน์ของพวกท่าน",
+          "rationale": "δοκιμή (NT freq=7) per uW figs-explicit: 'results-of-a-test / character-as-tested.' Thai 'บทพิสูจน์' (= 'proof / test-result') captures the tested-and-validated sense. Cognate of δοκιμάζω 'test/approve' (1 Th 2:4 'ได้รับการรับรอง')."
+        },
+        {
+          "greek": "εἰ εἰς πάντα ὑπήκοοί ἐστε",
+          "thai": "ว่าพวกท่านเชื่อฟังในทุกสิ่งหรือไม่",
+          "rationale": "ὑπήκοος (NT freq=3) = 'obedient.' Per uW figs-explicit: obedience-to-whom unstated — could be Paul-as-apostle or God. Thai 'เชื่อฟัง' standard; the implicit-recipient stays implicit (Thai readers can infer)."
+        }
       ],
       "notes": null
     }
@@ -170,9 +270,21 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ᾧ δέ τι χαρίζεσθε, κἀγώ", "thai": "ผู้ใดที่พวกท่านให้อภัย ข้าพเจ้าก็ให้อภัยเช่นกัน", "rationale": "Per uW figs-ellipsis: 'I-also' is elliptical; supply 'forgive him' for clarity. Thai 'ก็ให้อภัยเช่นกัน' (= 'also-forgive likewise'). χαρίζομαι corpus lock from v.7 → 'ให้อภัย.' Repeats 4x in this verse — maintaining one Thai rendering for consistency." },
-        { "greek": "καὶ γὰρ ἐγὼ ὃ κεχάρισμαι, εἴ τι κεχάρισμαι, δι’ ὑμᾶς", "thai": "เพราะที่ข้าพเจ้าได้ให้อภัยแล้ว — ถ้าข้าพเจ้ามีอะไรต้องให้อภัย — ก็เพื่อพวกท่าน", "rationale": "Per uW figs-infostructure: parenthetical 'if I have forgiven anything' interrupts main thought. Thai uses em-dashes for parenthetical insertion (RULES §5b). Per uW figs-explicit: 'if anything to forgive' acknowledges Paul personally was barely-grieved. δι’ ὑμᾶς per uW figs-explicit — 'for your sake / for your benefit' — Thai 'เพื่อพวกท่าน' covers both readings." },
-        { "greek": "ἐν προσώπῳ Χριστοῦ", "thai": "ต่อพระพักตร์พระคριสต์", "rationale": "πρόσωπον = 'face / presence' (different sense from 1:11's synecdoche-for-people). Per uW figs-explicit: three readings — (1) with Christ-watching, (2) with Christ-as-witness, (3) as Christ-representative. Thai 'ต่อพระพักตร์' = 'before-the-divine-face' — formal-honorific Thai-Christian idiom (preserves all three reading-options; defaults to before-Christ-witnessing-presence). 'พระพักตร์' takes ราชาศัπτ์." }
+        {
+          "greek": "ᾧ δέ τι χαρίζεσθε, κἀγώ",
+          "thai": "ผู้ใดที่พวกท่านให้อภัย ข้าพเจ้าก็ให้อภัยเช่นกัน",
+          "rationale": "Per uW figs-ellipsis: 'I-also' is elliptical; supply 'forgive him' for clarity. Thai 'ก็ให้อภัยเช่นกัน' (= 'also-forgive likewise'). χαρίζομαι corpus lock from v.7 → 'ให้อภัย.' Repeats 4x in this verse — maintaining one Thai rendering for consistency."
+        },
+        {
+          "greek": "καὶ γὰρ ἐγὼ ὃ κεχάρισμαι, εἴ τι κεχάρισμαι, δι’ ὑμᾶς",
+          "thai": "เพราะที่ข้าพเจ้าได้ให้อภัยแล้ว — ถ้าข้าพเจ้ามีอะไรต้องให้อภัย — ก็เพื่อพวกท่าน",
+          "rationale": "Per uW figs-infostructure: parenthetical 'if I have forgiven anything' interrupts main thought. Thai uses em-dashes for parenthetical insertion (RULES §5b). Per uW figs-explicit: 'if anything to forgive' acknowledges Paul personally was barely-grieved. δι’ ὑμᾶς per uW figs-explicit — 'for your sake / for your benefit' — Thai 'เพื่อพวกท่าน' covers both readings."
+        },
+        {
+          "greek": "ἐν προσώπῳ Χριστοῦ",
+          "thai": "ต่อพระพักตร์พระครιสต์",
+          "rationale": "πρόσωπον = 'face / presence' (different sense from 1:11's synecdoche-for-people). Per uW figs-explicit: three readings — (1) with Christ-watching, (2) with Christ-as-witness, (3) as Christ-representative. Thai 'ต่อพระพักตร์' = 'before-the-divine-face' — formal-honorific Thai-Christian idiom (preserves all three reading-options; defaults to before-Christ-witnessing-presence). 'พระพักตร์' takes ราชาศัπτ์."
+        }
       ],
       "notes": "χαρίζομαι 4x in this verse — repetition emphasized in Greek; preserved in Thai with single rendering 'ให้อภัย.' πρόσωπον here = 'presence' (different from 1:11 synecdoche); Thai distinguishes contextually."
     }
@@ -188,10 +300,18 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἵνα μὴ πλεονεκτηθῶμεν ὑπὸ τοῦ Σατανᾶ", "thai": "เพื่อจะไม่ให้ซาตานเอาเปรียบเรา", "rationale": "πλεονεκτέω (NT freq=5) → 'เอาเปรียบ' (corpus lock from 1 Th 4:6 'เอาเปρียบ'). Per uW figs-activepassive: passive 'we be-taken-advantage-of by Satan' → Thai active 'ซαตαนเอาเปรียบเรา.' Σατανᾶς → 'ซαตαน' (RULES §4 lock). Pronoun 'we' here per uW figs-exclusive includes the Corinthians — only place in 2:1-13 where 'we' is inclusive (see uW chapter-intro Pauline-pronouns)." },
-        { "greek": "οὐ γὰρ αὐτοῦ τὰ νοήματα ἀγνοοῦμεν", "thai": "เพราะเราไม่ได้ไม่รู้กลอุβายของมัน", "rationale": "νόημα (NT freq=6, all in 2 Co + Phil 4:7) = 'mind / thought / scheme.' Here in pejorative-Satan-context = 'schemes / devices.' Thai 'กลอุบาย' (= 'tricks / schemes') captures the deceptive-strategic sense. Per uW figs-litotes: double-negative 'not-unaware' = strong-positive 'fully-aware.' Thai preserves the rhetorical double-negative force ('ไม่ได้ไม่รู้') for emphasis — this is a Pauline-rhetorical-feature deliberately retained. Per uW figs-doublenegatives, could go positive ('we know full well') but Thai negative-double works literarily. Pronoun 'มัน' for Satan (low-register, distancing — RULES §3 'demons or adversaries use neutral/distancing register, never honorifics')." }
+        {
+          "greek": "ἵνα μὴ πλεονεκτηθῶμεν ὑπὸ τοῦ Σατανᾶ",
+          "thai": "เพื่อจะไม่ให้ซาตานเอาเปรียบเรา",
+          "rationale": "πλεονεκτέω (NT freq=5) → 'เอาเปรียบ' (corpus lock from 1 Th 4:6 'เอาเปรียบ'). Per uW figs-activepassive: passive 'we be-taken-advantage-of by Satan' → Thai active 'ซาตานเอาเปรียบเรา.' Σατανᾶς → 'ซาตาน' (RULES §4 lock). Pronoun 'we' here per uW figs-exclusive includes the Corinthians — only place in 2:1-13 where 'we' is inclusive (see uW chapter-intro Pauline-pronouns)."
+        },
+        {
+          "greek": "οὐ γὰρ αὐτοῦ τὰ νοήματα ἀγνοοῦμεν",
+          "thai": "เพราะเราไม่ได้ไม่รู้กลอุบายของมัน",
+          "rationale": "νόημα (NT freq=6, all in 2 Co + Phil 4:7) = 'mind / thought / scheme.' Here in pejorative-Satan-context = 'schemes / devices.' Thai 'กลอุบาย' (= 'tricks / schemes') captures the deceptive-strategic sense. Per uW figs-litotes: double-negative 'not-unaware' = strong-positive 'fully-aware.' Thai preserves the rhetorical double-negative force ('ไม่ได้ไม่รู้') for emphasis — this is a Pauline-rhetorical-feature deliberately retained. Per uW figs-doublenegatives, could go positive ('we know full well') but Thai negative-double works literarily. Pronoun 'มัน' for Satan (low-register, distancing — RULES §3 'demons or adversaries use neutral/distancing register, never honorifics')."
+        }
       ],
-      "notes": "νόημα LOCKED here as 'กลอุβาย' (in Satan-scheme contexts); recurs 2 Co 3:14, 4:4, 10:5, 11:3 — all need consistent Thai. RULES §3 register-distinction: Satan uses non-honorific 'มัน' (corpus-locked from gospels' Satan-references)."
+      "notes": "νόημα LOCKED here as 'กลอุบาย' (in Satan-scheme contexts); recurs 2 Co 3:14, 4:4, 10:5, 11:3 — all need consistent Thai. RULES §3 register-distinction: Satan uses non-honorific 'มัน' (corpus-locked from gospels' Satan-references)."
     }
   },
   {
@@ -205,11 +325,23 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "Τρῳάδα", "thai": "เมืองโตρอัส", "rationale": "Τρῳάς → 'เมืองโตρอัส' — port city on the west coast of modern Turkey, north of Ephesus (uW chapter-intro: 'a city on the west coast of what is now Turkey'). Standard Thai-Christian transliteration. NEW PROPER-NOUN LOCK; will recur Acts 16:8, 16:11, 20:5-6, 2 Tim 4:13." },
-        { "greek": "εἰς τὸ εὐαγγέλιον τοῦ Χριστοῦ", "thai": "เพื่อประกαศข่าวประเสริฐของพระคριสต์", "rationale": "Per uW figs-possession: 'gospel-of-Christ' could mean (1) about-Christ, (2) belonging-to-Christ. Thai 'ของพระคริสต์' preserves both. εὐαγγέλιον → 'ข่าวประเสริฐ' (RULES §4 NON-NEGOTIABLE lock). Implicit infinitive-of-purpose 'for the gospel' = 'to preach' — Thai supplies 'เพื่อประกαศ' for naturalness." },
-        { "greek": "θύρας μοι ἀνεῳγμένης ἐν κυρίῳ", "thai": "มีประตูเปิดให้แก่ข้าพเจ้αในองค์พระผู้เป็นเจ้า", "rationale": "Per uW figs-metaphor: 'door opened for me' = opportunity for ministry. Thai 'มีประตูเปิดให้' preserves the Pauline-open-door metaphor (already locked from 1 Co 16:9 'ประตูใหญ่และเปิดสำหรับการงาน'). Per uW figs-activepassive: passive could become active 'the Lord opened.' ἐν κυρίῳ per uW figs-metaphor = union-with-Christ — Thai 'ในองค์พระผู้เป็นเจ้า' standard locative; per uW figs-explicit κυρίῳ here = Jesus." }
+        {
+          "greek": "Τρῳάδα",
+          "thai": "เมืองโตรอัส",
+          "rationale": "Τρῳάς → 'เมืองโตรอัส' — port city on the west coast of modern Turkey, north of Ephesus (uW chapter-intro: 'a city on the west coast of what is now Turkey'). Standard Thai-Christian transliteration. NEW PROPER-NOUN LOCK; will recur Acts 16:8, 16:11, 20:5-6, 2 Tim 4:13."
+        },
+        {
+          "greek": "εἰς τὸ εὐαγγέλιον τοῦ Χριστοῦ",
+          "thai": "เพื่อประกาศข่าวประเสริฐของพระครιสต์",
+          "rationale": "Per uW figs-possession: 'gospel-of-Christ' could mean (1) about-Christ, (2) belonging-to-Christ. Thai 'ของพระคริสต์' preserves both. εὐαγγέλιον → 'ข่าวประเสริฐ' (RULES §4 NON-NEGOTIABLE lock). Implicit infinitive-of-purpose 'for the gospel' = 'to preach' — Thai supplies 'เพื่อประกาศ' for naturalness."
+        },
+        {
+          "greek": "θύρας μοι ἀνεῳγμένης ἐν κυρίῳ",
+          "thai": "มีประตูเปิดให้แก่ข้าพเจ้าในองค์พระผู้เป็นเจ้า",
+          "rationale": "Per uW figs-metaphor: 'door opened for me' = opportunity for ministry. Thai 'มีประตูเปิดให้' preserves the Pauline-open-door metaphor (already locked from 1 Co 16:9 'ประตูใหญ่และเปิดสำหรับการงาน'). Per uW figs-activepassive: passive could become active 'the Lord opened.' ἐν κυρίῳ per uW figs-metaphor = union-with-Christ — Thai 'ในองค์พระผู้เป็นเจ้า' standard locative; per uW figs-explicit κυρίῳ here = Jesus."
+        }
       ],
-      "notes": "Τρῳάς → เมืองโตρอัส (NEW PROPER-NOUN LOCK). Pauline-open-door metaphor (1 Co 16:9 already locked) preserved in Thai."
+      "notes": "Τρῳάς → เมืองโตรอัส (NEW PROPER-NOUN LOCK). Pauline-open-door metaphor (1 Co 16:9 already locked) preserved in Thai."
     }
   },
   {
@@ -223,9 +355,21 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "οὐκ ἔσχηκα ἄνεσιν τῷ πνεύματί μου", "thai": "ข้าพเจ้αก็ไม่มีความสบายในจิตวิญญาณของข้าพเจ้α", "rationale": "ἄνεσις (NT freq=5) — corpus lock from 2 Th 1:7 'การบรรเทาทุกข์' (relief-from-suffering). Here different idiomatic context (no-peace-of-mind, per uW figs-idiom = 'anxious / concerned'). Thai 'ไม่มีความสบายใน...' (= 'no comfort/ease in...') captures the ill-at-ease idiom. πνεῦμα τῷ μου here is the inner-self / anthropological-spirit — same Greek lemma as 1 Th 5:23 πνεῦμα 'จิตวิญญαณ' lock; consistency-driven. Idiomatic-but-still-anthropological-spirit-locus, so Thai 'จิตวิญญาณ' fits." },
-        { "greek": "τῷ μὴ εὑρεῖν με Τίτον τὸν ἀδελφόν μου", "thai": "เพราะข้าพเจ้αไม่พบทิตัสพี่น้องของข้าพเจ้αที่นั่น", "rationale": "Τίτος → 'ทิตัส' (corpus lock from Gal 2:1, 2:3). Per uW figs-explicit: 'didn't find' = 'wasn't there' — Thai 'ไม่พบ...ที่นั่น' (= 'didn't find...there') makes the location-implication explicit. Per uW figs-metaphor: ἀδελφός 'brother' as fellow-believer/intimate-co-worker — Thai 'พี่น้อง' standard." },
-        { "greek": "ἀποταξάμενος αὐτοῖς ἐξῆλθον", "thai": "เมื่อข้าพเจ้าได้อำลาพวกเขาแล้ว ก็เดินทางต่อไป", "rationale": "ἀποτάσσομαι (NT freq=6) middle = 'take-leave / say-farewell.' Per uW figs-explicit: includes physical-departure. Thai 'อำลา' (= 'take-leave / say-farewell') natural Thai equivalent. Aorist participle = anteriority; Thai 'เมื่อ...แล้ว' marks past-completion-before-main-verb." }
+        {
+          "greek": "οὐκ ἔσχηκα ἄνεσιν τῷ πνεύματί μου",
+          "thai": "ข้าพเจ้าก็ไม่มีความสบายในจิตวิญญาณของข้าพเจ้า",
+          "rationale": "ἄνεσις (NT freq=5) — corpus lock from 2 Th 1:7 'การบรรเทาทุกข์' (relief-from-suffering). Here different idiomatic context (no-peace-of-mind, per uW figs-idiom = 'anxious / concerned'). Thai 'ไม่มีความสบายใน...' (= 'no comfort/ease in...') captures the ill-at-ease idiom. πνεῦμα τῷ μου here is the inner-self / anthropological-spirit — same Greek lemma as 1 Th 5:23 πνεῦμα 'จิตวิญญาณ' lock; consistency-driven. Idiomatic-but-still-anthropological-spirit-locus, so Thai 'จิตวิญญาณ' fits."
+        },
+        {
+          "greek": "τῷ μὴ εὑρεῖν με Τίτον τὸν ἀδελφόν μου",
+          "thai": "เพราะข้าพเจ้าไม่พบทิตัสพี่น้องของข้าพเจ้าที่นั่น",
+          "rationale": "Τίτος → 'ทิตัส' (corpus lock from Gal 2:1, 2:3). Per uW figs-explicit: 'didn't find' = 'wasn't there' — Thai 'ไม่พบ...ที่นั่น' (= 'didn't find...there') makes the location-implication explicit. Per uW figs-metaphor: ἀδελφός 'brother' as fellow-believer/intimate-co-worker — Thai 'พี่น้อง' standard."
+        },
+        {
+          "greek": "ἀποταξάμενος αὐτοῖς ἐξῆλθον",
+          "thai": "เมื่อข้าพเจ้าได้อำลาพวกเขาแล้ว ก็เดินทางต่อไป",
+          "rationale": "ἀποτάσσομαι (NT freq=6) middle = 'take-leave / say-farewell.' Per uW figs-explicit: includes physical-departure. Thai 'อำลา' (= 'take-leave / say-farewell') natural Thai equivalent. Aorist participle = anteriority; Thai 'เมื่อ...แล้ว' marks past-completion-before-main-verb."
+        }
       ],
       "notes": "Τίτος → ทิตัς (already locked, Gal 2:1, 2:3). Paul's anxious-search for Titus continues at 7:5-7 (10-chapter-narrative-suspense). The Macedonia visit will be elaborated in 7:5+."
     }
@@ -241,9 +385,21 @@
       "thai_literal": null,
       "thai_summary": "ข้อ 14-16 ใช้ภาพของขบวนแห่งชัยชนะแบบโรมัน — เมื่อแม่ทัพชนะสงคราม ก็มีขบวนพาเหรดในกรุงโรมพร้อมกับการเผาเครื่องหอมและการนำเชลย เปาโลใช้ภาพนี้สองทาง: เราเป็นเหมือนเชลยของพระคริสต์ที่ถูกนำไปในชัยชนะของพระองค์ และเรายังเป็นเหมือนกลิ่นหอมที่ลอยไปทั่ว — สำหรับผู้ที่กำลังพินาศก็เป็นกลิ่นแห่งความตาย แต่สำหรับผู้ที่กำลังได้รับความรอดก็เป็นกลิ่นหอมแห่งชีวิต",
       "key_decisions": [
-        { "greek": "Τῷ δὲ θεῷ χάρις", "thai": "แต่ขอขอบพระคุณพระเจ้α", "rationale": "Pauline thanksgiving-formula — exclamation per uW figs-exclamations. Thai 'ขอขอบพระคุณ...' standard formula (cf. 1 Co 15:57 'ขอบพระคุณพระเจ้า'). δέ marks transition into new section (2:14-7:4 'Paul's ministry')." },
-        { "greek": "τῷ πάντοτε θριαμβεύοντι ἡμᾶς ἐν τῷ Χριστῷ", "thai": "ผู้ทρงนำเรαในขบวนแห่งชัยชนะในพระคριสต์เสมอ", "rationale": "θριαμβεύω (NT freq=2, here + Col 2:15) — Roman triumphal-procession metaphor (uW figs-metaphor). Two readings (uW): (1) Paul as conquered-captive paraded; (2) Paul as victorious-soldier celebrating. The verb's normal Greek meaning is option (1) — Paul as captive-of-Christ being-led-in-Christ's-triumph. Thai 'นำ...ในขบวนแห่งชัยชนะ' (= 'lead...in-the-procession-of-victory') preserves the metaphor without forcing one reading; the captive/celebrant ambiguity stays. ทρง for divine subject. NEW LOCK: θριαμβεύω → 'นำ...ในขบวนแห่งชัยชนะ' (will recur Col 2:15). ἐν τῷ Χριστῷ → 'ในพระคριสต์' (Pauline-union-locative)." },
-        { "greek": "τὴν ὀσμὴν τῆς γνώσεως αὐτοῦ φανεροῦντι δι’ ἡμῶν ἐν παντὶ τόπῳ", "thai": "ทρงสำแดงกลิ่นหอมแห่งการรู้จักพระองค์ผ่านเราในทุกสถานที่", "rationale": "ὀσμή 'aroma/smell' (NT freq=6) → 'กลิ่นหอม' (preserves the positive-aroma sense in this verse — the contrast with negative comes at v.16). γνῶσις → 'การรู้จัก' (verbal-noun for 'knowledge-of-relational' — fits 'knowledge of Him' personal sense better than 'ความรู้'). Per uW figs-possession: γνώσεως αὐτοῦ = 'knowing him' (relational-personal). Per uW figs-hyperbole: ἐν παντὶ τόπῳ 'in every place' — Thai 'ในทุกสถานที่' standard hyperbole-preserved. φανερόω 'reveal/manifest' → 'ทρงสำแดง.'" }
+        {
+          "greek": "Τῷ δὲ θεῷ χάρις",
+          "thai": "แต่ขอขอบพระคุณพระเจ้า",
+          "rationale": "Pauline thanksgiving-formula — exclamation per uW figs-exclamations. Thai 'ขอขอบพระคุณ...' standard formula (cf. 1 Co 15:57 'ขอบพระคุณพระเจ้า'). δέ marks transition into new section (2:14-7:4 'Paul's ministry')."
+        },
+        {
+          "greek": "τῷ πάντοτε θριαμβεύοντι ἡμᾶς ἐν τῷ Χριστῷ",
+          "thai": "ผู้ทรงนำเราในขบวนแห่งชัยชนะในพระครιสต์เสมอ",
+          "rationale": "θριαμβεύω (NT freq=2, here + Col 2:15) — Roman triumphal-procession metaphor (uW figs-metaphor). Two readings (uW): (1) Paul as conquered-captive paraded; (2) Paul as victorious-soldier celebrating. The verb's normal Greek meaning is option (1) — Paul as captive-of-Christ being-led-in-Christ's-triumph. Thai 'นำ...ในขบวนแห่งชัยชนะ' (= 'lead...in-the-procession-of-victory') preserves the metaphor without forcing one reading; the captive/celebrant ambiguity stays. ทรง for divine subject. NEW LOCK: θριαμβεύω → 'นำ...ในขบวนแห่งชัยชนะ' (will recur Col 2:15). ἐν τῷ Χριστῷ → 'ในพระครιสต์' (Pauline-union-locative)."
+        },
+        {
+          "greek": "τὴν ὀσμὴν τῆς γνώσεως αὐτοῦ φανεροῦντι δι’ ἡμῶν ἐν παντὶ τόπῳ",
+          "thai": "ทรงสำแดงกลิ่นหอมแห่งการรู้จักพระองค์ผ่านเราในทุกสถานที่",
+          "rationale": "ὀσμή 'aroma/smell' (NT freq=6) → 'กลิ่นหอม' (preserves the positive-aroma sense in this verse — the contrast with negative comes at v.16). γνῶσις → 'การรู้จัก' (verbal-noun for 'knowledge-of-relational' — fits 'knowledge of Him' personal sense better than 'ความรู้'). Per uW figs-possession: γνώσεως αὐτοῦ = 'knowing him' (relational-personal). Per uW figs-hyperbole: ἐν παντὶ τόπῳ 'in every place' — Thai 'ในทุกสถานที่' standard hyperbole-preserved. φανερόω 'reveal/manifest' → 'ทรงสำแดง.'"
+        }
       ],
       "notes": "TRANSITION TO NEW SECTION (uW chapter-intro): 2:14 begins 2:14-7:4 'Paul's ministry.' θριαμβεύω = NT freq=2 — locked here for Col 2:15 future-consistency. Roman-triumphal-procession metaphor extended through vv.14-16 (uW figs-exmetaphor)."
     }
@@ -259,8 +415,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "Χριστοῦ εὐωδία ἐσμὲν τῷ θεῷ", "thai": "เราเป็นกลิ่นหอมของพระคริสต์แด่พระเจ้α", "rationale": "εὐωδία (NT freq=3, Pauline) = 'sweet-fragrance / pleasing-aroma' — typically used in LXX for sacrifices that please God (Lev 1:9 etc.). Thai 'กลิ่นหอม' (preserved from v.14 ὀσμή; both share root in Thai 'หอม' since Thai distinguishes εὐωδία/ὀσμή less granularly than Greek — 'กลิ่นหอม' covers both fragrance-types). LOCK: εὐωδία → 'กลิ่นหอม' (will recur Eph 5:2, Phil 4:18). Per uW figs-possession: 'fragrance-of-Christ' = (1) from-Christ or (2) presented-by-Christ — Thai 'ของพระคริสต์' covers both. 'แด่พระเจ้า' formal-honorific dative-direction (sacrifice offered TO God)." },
-        { "greek": "ἐν τοῖς σῳζομένοις καὶ ἐν τοῖς ἀπολλυμένοις", "thai": "ทั้งในหมู่ผู้ที่กำลังได้รับความรอด และในหมู่ผู้ที่กำลังพินาศ", "rationale": "EXACT corpus lock from 1 Co 1:18: σῳζομένοις → 'ผู้ที่กำลังได้รับความรอด'; ἀπολλυμένοις → 'ผู้ที่กำลังพินาศ' (present-passive participles preserved as Thai verbal-nouns 'ผู้ที่กำลัง...'). Per uW figs-extrainfo: ἀπόλλυμι intentional-ambiguous-causality — Thai 'พินาศ' likewise leaves who-causes-perishing unspecified." }
+        {
+          "greek": "Χριστοῦ εὐωδία ἐσμὲν τῷ θεῷ",
+          "thai": "เราเป็นกลิ่นหอมของพระคริสต์แด่พระเจ้า",
+          "rationale": "εὐωδία (NT freq=3, Pauline) = 'sweet-fragrance / pleasing-aroma' — typically used in LXX for sacrifices that please God (Lev 1:9 etc.). Thai 'กลิ่นหอม' (preserved from v.14 ὀσμή; both share root in Thai 'หอม' since Thai distinguishes εὐωδία/ὀσμή less granularly than Greek — 'กลิ่นหอม' covers both fragrance-types). LOCK: εὐωδία → 'กลิ่นหอม' (will recur Eph 5:2, Phil 4:18). Per uW figs-possession: 'fragrance-of-Christ' = (1) from-Christ or (2) presented-by-Christ — Thai 'ของพระคริสต์' covers both. 'แด่พระเจ้า' formal-honorific dative-direction (sacrifice offered TO God)."
+        },
+        {
+          "greek": "ἐν τοῖς σῳζομένοις καὶ ἐν τοῖς ἀπολλυμένοις",
+          "thai": "ทั้งในหมู่ผู้ที่กำลังได้รับความรอด และในหมู่ผู้ที่กำลังพินาศ",
+          "rationale": "EXACT corpus lock from 1 Co 1:18: σῳζομένοις → 'ผู้ที่กำลังได้รับความรอด'; ἀπολλυμένοις → 'ผู้ที่กำลังพินาศ' (present-passive participles preserved as Thai verbal-nouns 'ผู้ที่กำลัง...'). Per uW figs-extrainfo: ἀπόλλυμι intentional-ambiguous-causality — Thai 'พินาศ' likewise leaves who-causes-perishing unspecified."
+        }
       ],
       "notes": "EXACT corpus consistency with 1 Co 1:18: σῳζομένοις = ผู้ที่กำลังได้รับความรอด, ἀπολλυμένοις = ผู้ที่กำลังพินาศ. εὐωδία LOCK established (will govern Eph 5:2 'a fragrant offering and sacrifice,' Phil 4:18 'a fragrant offering, an acceptable sacrifice')."
     }
@@ -276,9 +440,21 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "οἷς μὲν ... οἷς δέ", "thai": "สำหรับฝ่ายหนึ่ง ... แต่สำหรับอีกฝ่ายหนึ่ง", "rationale": "Per uW grammar-connect-logic-contrast: μὲν...δέ = 'on-one-hand...on-the-other-hand.' Per uW writing-pronouns: refers respectively to 'the perishing' (first) then 'the being-saved' (second) — REVERSED-ORDER from v.15 (uW figs-infostructure: deliberate-style; uW notes 'good style in his culture'). Thai 'สำหρับฝ่ายหนึ่ง...สำหρับอีกฝ่าย' captures the contrast cleanly. Order kept reversed-from-v.15 per Greek." },
-        { "greek": "ὀσμὴ ἐκ θανάτου εἰς θάνατον ... ὀσμὴ ἐκ ζωῆς εἰς ζωήν", "thai": "กลิ่นจากความตายที่นำไปสู่ความตาย ... กลิ่นจากชีวิตที่นำไปสู่ชีวิต", "rationale": "Per uW figs-explicit: ἐκ + εἰς doublet-prepositions = (1) source + effect, OR (2) intensifier 'characterized-completely.' Thai 'จาก...ที่นำไปสู่...' captures option (1) — source AND effect. Hebraic-doublet (cf. Rom 1:17 ἐκ πίστεως εἰς πίστιν). ὀσμή LOCK from v.14 → 'กลิ่น' (no 'หอม' here since this is contrast-with-positive — natural in Thai). Per uW figs-abstractnouns: noun forms preserved." },
-        { "greek": "πρὸς ταῦτα τίς ἱκανός", "thai": "ใครเล่าจะมีคุณสมบัติเหมาะสมสำหρับสิ่งเหล่านี้?", "rationale": "Per uW figs-rquestion: rhetorical question with two readings — (1) 'we are sufficient through God' OR (2) 'no one is sufficient.' Per uW writing-pronouns: ταῦτα = the apostolic-tasks of vv.14-16. ἱκανός 'sufficient/competent/qualified' — Thai 'มีคุณสมบัติเหมาะสม' (= 'have-suitable-qualifications') captures the competence-for-task sense. The rhetorical-suspense of v.16 finds its answer at 3:5 ('our sufficiency is from God')." }
+        {
+          "greek": "οἷς μὲν ... οἷς δέ",
+          "thai": "สำหรับฝ่ายหนึ่ง ... แต่สำหรับอีกฝ่ายหนึ่ง",
+          "rationale": "Per uW grammar-connect-logic-contrast: μὲν...δέ = 'on-one-hand...on-the-other-hand.' Per uW writing-pronouns: refers respectively to 'the perishing' (first) then 'the being-saved' (second) — REVERSED-ORDER from v.15 (uW figs-infostructure: deliberate-style; uW notes 'good style in his culture'). Thai 'สำหรับฝ่ายหนึ่ง...สำหรับอีกฝ่าย' captures the contrast cleanly. Order kept reversed-from-v.15 per Greek."
+        },
+        {
+          "greek": "ὀσμὴ ἐκ θανάτου εἰς θάνατον ... ὀσμὴ ἐκ ζωῆς εἰς ζωήν",
+          "thai": "กลิ่นจากความตายที่นำไปสู่ความตาย ... กลิ่นจากชีวิตที่นำไปสู่ชีวิต",
+          "rationale": "Per uW figs-explicit: ἐκ + εἰς doublet-prepositions = (1) source + effect, OR (2) intensifier 'characterized-completely.' Thai 'จาก...ที่นำไปสู่...' captures option (1) — source AND effect. Hebraic-doublet (cf. Rom 1:17 ἐκ πίστεως εἰς πίστιν). ὀσμή LOCK from v.14 → 'กลิ่น' (no 'หอม' here since this is contrast-with-positive — natural in Thai). Per uW figs-abstractnouns: noun forms preserved."
+        },
+        {
+          "greek": "πρὸς ταῦτα τίς ἱκανός",
+          "thai": "ใครเล่าจะมีคุณสมบัติเหมาะสมสำหรับสิ่งเหล่านี้?",
+          "rationale": "Per uW figs-rquestion: rhetorical question with two readings — (1) 'we are sufficient through God' OR (2) 'no one is sufficient.' Per uW writing-pronouns: ταῦτα = the apostolic-tasks of vv.14-16. ἱκανός 'sufficient/competent/qualified' — Thai 'มีคุณสมบัติเหมาะสม' (= 'have-suitable-qualifications') captures the competence-for-task sense. The rhetorical-suspense of v.16 finds its answer at 3:5 ('our sufficiency is from God')."
+        }
       ],
       "notes": "Reversed order from v.15 (perishing-first instead of saved-first) is deliberate-style per uW figs-infostructure. The rhetorical 'who is sufficient?' resolves at 3:5 — Pauline-narrative-suspense."
     }
@@ -294,9 +470,21 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "οὐ ... ἐσμεν ὡς οἱ πολλοὶ καπηλεύοντες τὸν λόγον τοῦ θεοῦ", "thai": "เราไม่เหมือนคนเป็นจำนวนมากที่เร่ขายพระวจนะของพระเจ้αเพื่อหากำไร", "rationale": "καπηλεύω = NT-HAPAX (freq=1, only here). Per uW translate-unknown: 'practice of selling-goods-as-a-trader, often for profit and sometimes deceitfully' — Greek κάπηλος is a tavern-keeper or street-peddler; pejorative connotation of cheap-profit-at-expense-of-customer. Thai 'เร่ขาย...เพื่อหากำไร' (= 'peddle...for profit') captures both the peddler-image and the profit-motive. Per uW figs-nominaladj: οἱ πολλοί 'the many' = adjective-as-noun → 'คนเป็นจำนวนมาก.' λόγος τοῦ θεοῦ → 'พระวจนะของพระเจ้α' (corpus lock for Pauline 'word-of-God')." },
-        { "greek": "ἀλλ’ ὡς ἐξ εἰλικρινείας, ἀλλ’ ὡς ἐκ θεοῦ", "thai": "แต่เรากล่าวด้วยความจริงใจ และในฐานะผู้ที่มาจากพระเจ้α", "rationale": "Per uW grammar-connect-logic-contrast: doubled ἀλλ’ ὡς for emphatic-contrast (not contrast-between-the-two). Thai 'แต่...และในฐานะผู้ที่...' preserves the cumulative-emphasis. εἰλικρίνεια → 'ความจริงใจ' (locked from 2 Co 1:12 — same chapter cluster). Per uW figs-explicit: ἐκ θεοῦ 'from God' = sent-from-God (apostolic-commission). 'ในฐานะผู้ที่มาจากพระเจ้α' (= 'as those-who-come-from-God') makes the apostolic-commission explicit per uW recommendation." },
-        { "greek": "κατέναντι θεοῦ ἐν Χριστῷ λαλοῦμεν", "thai": "เรากล่าวต่อพระพักตร์พระเจ้αในพระคริสต์", "rationale": "Per uW figs-explicit: κατέναντι θεοῦ 'in-presence-of-God' = with-God-watching/with-God-witness. Thai 'ต่อพระพักตร์พระเจ้α' (= 'before-the-divine-face') consistent with 1:23 oath-language and 2:10's ἐν προσώπῳ Χριστοῦ. Per uW figs-metaphor: ἐν Χριστῷ = union-with-Christ → 'ในพระคριสต์.' λαλοῦμεν final main verb of long sentence — Thai brings forward-supplied 'เรากล่าว' for clarity (Greek topicalization preserved)." }
+        {
+          "greek": "οὐ ... ἐσμεν ὡς οἱ πολλοὶ καπηλεύοντες τὸν λόγον τοῦ θεοῦ",
+          "thai": "เราไม่เหมือนคนเป็นจำนวนมากที่เร่ขายพระวจนะของพระเจ้าเพื่อหากำไร",
+          "rationale": "καπηλεύω = NT-HAPAX (freq=1, only here). Per uW translate-unknown: 'practice of selling-goods-as-a-trader, often for profit and sometimes deceitfully' — Greek κάπηλος is a tavern-keeper or street-peddler; pejorative connotation of cheap-profit-at-expense-of-customer. Thai 'เร่ขาย...เพื่อหากำไร' (= 'peddle...for profit') captures both the peddler-image and the profit-motive. Per uW figs-nominaladj: οἱ πολλοί 'the many' = adjective-as-noun → 'คนเป็นจำนวนมาก.' λόγος τοῦ θεοῦ → 'พระวจนะของพระเจ้า' (corpus lock for Pauline 'word-of-God')."
+        },
+        {
+          "greek": "ἀλλ’ ὡς ἐξ εἰλικρινείας, ἀλλ’ ὡς ἐκ θεοῦ",
+          "thai": "แต่เรากล่าวด้วยความจริงใจ และในฐานะผู้ที่มาจากพระเจ้า",
+          "rationale": "Per uW grammar-connect-logic-contrast: doubled ἀλλ’ ὡς for emphatic-contrast (not contrast-between-the-two). Thai 'แต่...และในฐานะผู้ที่...' preserves the cumulative-emphasis. εἰλικρίνεια → 'ความจริงใจ' (locked from 2 Co 1:12 — same chapter cluster). Per uW figs-explicit: ἐκ θεοῦ 'from God' = sent-from-God (apostolic-commission). 'ในฐานะผู้ที่มาจากพระเจ้า' (= 'as those-who-come-from-God') makes the apostolic-commission explicit per uW recommendation."
+        },
+        {
+          "greek": "κατέναντι θεοῦ ἐν Χριστῷ λαλοῦμεν",
+          "thai": "เรากล่าวต่อพระพักตร์พระเจ้าในพระคริสต์",
+          "rationale": "Per uW figs-explicit: κατέναντι θεοῦ 'in-presence-of-God' = with-God-watching/with-God-witness. Thai 'ต่อพระพักตร์พระเจ้า' (= 'before-the-divine-face') consistent with 1:23 oath-language and 2:10's ἐν προσώπῳ Χριστοῦ. Per uW figs-metaphor: ἐν Χριστῷ = union-with-Christ → 'ในพระครιสต์.' λαλοῦμεν final main verb of long sentence — Thai brings forward-supplied 'เรากล่าว' for clarity (Greek topicalization preserved)."
+        }
       ],
       "notes": "καπηλεύω = NT HAPAX. Pauline-anti-sophist polemic: the 'many' likely refers to traveling-Greek-rhetors who taught for fees (cf. 11:7, 12:13 — Paul's refusal-of-fees argument). Sets up his ministry-defense in chs. 3-7."
     }

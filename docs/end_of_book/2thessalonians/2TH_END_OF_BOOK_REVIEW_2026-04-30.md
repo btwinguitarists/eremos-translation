@@ -113,7 +113,7 @@ Both shipped via PR #408 (commit `5ec4cc1` on EremosVercel2/main); source commit
 Gemini specifically called for the following 5 docs to formalize the locked decisions surfaced in this audit:
 
 1. `docs/translator_decisions/parousia_register_2026-04.md` — Christ-เสด็จมา / adversary-มาถึง split. **Trigger book:** any (active in 2TH 2:9 already; will recur).
-2. `docs/translator_decisions/anomia_lawlessness_2026-04.md` — ἀนομία/ἄνομος cluster lock. **Trigger book:** Romans 4:7+ (LXX Ps 32 quotation), 6:19.
+2. `docs/translator_decisions/anomia_lawlessness_2026-04.md` — ἀนοมίา/ἄνομος cluster lock. **Trigger book:** Romans 4:7+ (LXX Ps 32 quotation), 6:19.
 3. `docs/translator_decisions/aparche_firstfruits_2026-04.md` — ἀπαρχή → ผลแรก lock. **Trigger book:** Romans 8:23 / 11:16, 1 Corinthians 15:20.
 4. `docs/translator_decisions/paradosis_synoptic_pauline_split_2026-04.md` — Synoptic-vs-Pauline split + **Col 2:8 → ธรรมเนียม caveat**. **Trigger book:** Colossians.
 5. `docs/translator_decisions/semeion_three_senses_2026-04.md` — miracle / authentication-mark / signal disambiguation. **Trigger book:** 1 Corinthians 1:22, 14:22.

@@ -96,40 +96,40 @@ Other 2 Cor δόξα-cluster occurrences use the noun **พระเกียร
 
 ---
 
-## Item F — καταλλαγή / καταλλάσσω at 5:18–20 → คืνดี cluster (corpus-doc lift confirmation)
+## Item F — καταλλαγή / καταλλάσσω at 5:18–20 → คืนดี cluster (corpus-doc lift confirmation)
 
 **The pattern:** The 5:18–20 cluster is the FIRST DENSE NT καταλλαγή occurrence — the Pauline locus of "ministry of reconciliation" theology:
 
 | Verse | Greek | Thai |
 |---|---|---|
-| 5:18 | τοῦ **καταλλάξαντος** ἡμᾶς ἑαυτῷ διὰ Χριστοῦ καὶ δόντος ἡμῖν τὴν διακονίαν τῆς **καταλλαγῆς** | ผู้ทรงให้เรา**คืνดี**กับพระองค์โดยทางพระคริสต์ และทรงประทานพันธกิจแห่ง**การคืνดี**ให้แก่เรา |
-| 5:19 | θεὸς ἦν ἐν Χριστῷ κόσμον **καταλλάσσων** ἑαυτῷ ... τὸν λόγον τῆς **καταλλαγῆς** | พระเจ้าได้ทรงให้โลก**คืνดี**กับพระองค์ในพระคริสต์ ... ถ้อยคำแห่ง**การคืνดี** |
-| 5:20 | **καταλλάγητε** τῷ θεῷ | จง**คืνดี**กับพระเจ้าเถิด |
+| 5:18 | τοῦ **καταλλάξαντος** ἡμᾶς ἑαυτῷ διὰ Χριστοῦ καὶ δόντος ἡμῖν τὴν διακονίαν τῆς **καταλλαγῆς** | ผู้ทรงให้เรา**คืนดี**กับพระองค์โดยทางพระคริสต์ และทรงประทานพันธกิจแห่ง**การคืนดี**ให้แก่เรา |
+| 5:19 | θεὸς ἦν ἐν Χριστῷ κόσμον **καταλλάσσων** ἑαυτῷ ... τὸν λόγον τῆς **καταλλαγῆς** | พระเจ้าได้ทรงให้โลก**คืนดี**กับพระองค์ในพระคริสต์ ... ถ้อยคำแห่ง**การคืนดี** |
+| 5:20 | **καταλλάγητε** τῷ θεῷ | จง**คืนดี**กับพระเจ้าเถิด |
 
-Verb form → **คืνดี** ("be reconciled; restore relationship"); noun form → **การคืνดี** ("the [act of] reconciliation"). **คืνดี** is the everyday Thai idiom for "make peace / restore" between estranged parties — Thai-natural, theologically-load-bearing.
+Verb form → **คืนดี** ("be reconciled; restore relationship"); noun form → **การคืนดี** ("the [act of] reconciliation"). **คืนดี** is the everyday Thai idiom for "make peace / restore" between estranged parties — Thai-natural, theologically-load-bearing.
 
 **The forward-corpus stake:** καταλλαγή / καταλλάσσω will recur densely in Rom 5:10–11 (the central "while we were still enemies" passage) and Rom 11:15 (Israel-Gentile reconciliation); ἀποκαταλλάσσω in Eph 2:16 + Col 1:20–22 (the cosmic-reconciliation passages). The 2 Cor 5:18–20 rendering effectively LOCKS the choice for the Pauline corpus.
 
-**Question:** Is **คืνดี** / **การคืνดี** the right corpus-default for the καταλλαγή cluster? The Thai-natural everyday-relational sense lands well, but it may UNDER-COMMUNICATE the theological-cosmic scope (Rom 11:15 "the reconciliation of the world"; Col 1:20 "to reconcile to himself all things"). Should the corpus-doc lock **คืνดี** uniformly, or distinguish a more-formal **การคืνดีกับพระเจ้า** for cosmic-Pauline contexts? And how should the cognate ἀποκαταλλάσσω (Col 1:20 + Eph 2:16; intensified prefix) be handled — same Thai (**คืνดี**) or marked differently (e.g., **คืνดีอย่างสมบูρณ์**)?
+**Question:** Is **คืนดี** / **การคืนดี** the right corpus-default for the καταλλαγή cluster? The Thai-natural everyday-relational sense lands well, but it may UNDER-COMMUNICATE the theological-cosmic scope (Rom 11:15 "the reconciliation of the world"; Col 1:20 "to reconcile to himself all things"). Should the corpus-doc lock **คืนดี** uniformly, or distinguish a more-formal **การคืนดีกับพระเจ้า** for cosmic-Pauline contexts? And how should the cognate ἀποκαταλλάσσω (Col 1:20 + Eph 2:16; intensified prefix) be handled — same Thai (**คืนดี**) or marked differently (e.g., **คืนดีอย่างสมบูรณ์**)?
 
 ---
 
-## Item G — διαθήκη at 3:6, 14 → พันธสัญญα + Old/New Testament canon-naming pun
+## Item G — διαθήκη at 3:6, 14 → พันธสัญญา + Old/New Testament canon-naming pun
 
 **The pattern:** 2 Cor 3:6–18 is the densest NT διαθήκη theological-cluster outside Hebrews — Paul's "ministry of the new covenant" passage with the Mosaic-veil typology:
 
 | Verse | Greek | Thai |
 |---|---|---|
-| 3:6 | διακόνους **καινῆς διαθήκης**, οὐ γράμματος ἀλλὰ πνεύματος | ผู้รับใช้แห่ง**พันธสัญญาใหม่** ไม่ใช่ของตัวอักษร แต่ของพระวิญญαณ |
+| 3:6 | διακόνους **καινῆς διαθήκης**, οὐ γράμματος ἀλλὰ πνεύματος | ผู้รับใช้แห่ง**พันธสัญญาใหม่** ไม่ใช่ของตัวอักษร แต่ของพระวิญญาณ |
 | 3:14 | ἐπὶ τῇ ἀναγνώσει **τῆς παλαιᾶς διαθήκης** | ในขณะอ่าน**พันธสัญญาเดิม** |
 
-**พันธสัญญα** ("bond / covenant") is the standard Thai Bible-tradition rendering. Cross-corpus consistent with Galatians 4:24 (δύο διαθῆκαι → **พันธสัญญαสองแบบ**).
+**พันธสัญญา** ("bond / covenant") is the standard Thai Bible-tradition rendering. Cross-corpus consistent with Galatians 4:24 (δύο διαθῆκαι → **พันธสัญญาสองแบบ**).
 
-**The deliberate pun:** **พันธสัญญαเดิม / ใหม่** are *also* the canonical Thai *names* for the Old/New Testament. Paul's covenant-theological argument in 3:14 (ἀνάγνωσις τῆς παλαιᾶς διαθήκης = "reading of the Old Covenant") becomes in Thai, by happy lexical-coincidence, also "reading of the Old Testament" — the very canon-formation conclusion the Pauline argument supports. The translator's choice preserves this *non-trivial Thai-language theological pun* by accident-or-design.
+**The deliberate pun:** **พันธสัญญาเดิม / ใหม่** are *also* the canonical Thai *names* for the Old/New Testament. Paul's covenant-theological argument in 3:14 (ἀνάγνωσις τῆς παλαιᾶς διαθήκης = "reading of the Old Covenant") becomes in Thai, by happy lexical-coincidence, also "reading of the Old Testament" — the very canon-formation conclusion the Pauline argument supports. The translator's choice preserves this *non-trivial Thai-language theological pun* by accident-or-design.
 
 **The forward-corpus stake:** Hebrews has ~17 διαθήκη occurrences; the rendering will cement the Pauline-Hebrews covenant-theology bridge. Plus μεσίτης διαθήκης ("mediator of the covenant") at Heb 8:6, 9:15, 12:24.
 
-**Question:** Is **พันธสัญญα** the right corpus-default for διαθήκη, with the **เดิม / ใหม่** modifiers preserving the Old/New Testament canon-naming pun? Should the corpus-doc explicitly note the pun as a *deliberate feature* (so future translators don't break it by varying the descriptor)? And how should μεσίτης διαθήκης (Heb 8:6, etc.) render — **คนกลางแห่งพันธสัญญα** (literal mediator) or with a more covenantal-juridical term?
+**Question:** Is **พันธสัญญา** the right corpus-default for διαθήκη, with the **เดิม / ใหม่** modifiers preserving the Old/New Testament canon-naming pun? Should the corpus-doc explicitly note the pun as a *deliberate feature* (so future translators don't break it by varying the descriptor)? And how should μεσίτης διαθήκης (Heb 8:6, etc.) render — **คนกลางแห่งพันธสัญญา** (literal mediator) or with a more covenantal-juridical term?
 
 ---
 
@@ -140,7 +140,7 @@ Verb form → **คืνดี** ("be reconciled; restore relationship"); noun f
 | Verse | Greek | Thai |
 |---|---|---|
 | 1:22 | ὁ καὶ σφραγισάμενος ἡμᾶς καὶ δοὺς τὸν **ἀρραβῶνα τοῦ πνεύματος** ἐν ταῖς καρδίαις ἡμῶν | พระองค์ได้ทรงประทับตราเราไว้ และทรงประทานพระวิญญาณเป็น**มัดจำ**ในใจของเรา |
-| 5:5 | ὁ δοὺς ἡμῖν τὸν **ἀρραβῶνα τοῦ πνεύματος** | พระองค์ทรงเป็นผู้ประทานพระวิญญาณเป็น**มัดจำ**ให้แก่เรα |
+| 5:5 | ὁ δοὺς ἡμῖν τὸν **ἀρραβῶνα τοῦ πνεύματος** | พระองค์ทรงเป็นผู้ประทานพระวิญญาณเป็น**มัดจำ**ให้แก่เรา |
 
 **มัดจำ** ("deposit, earnest, down-payment") is the Thai commercial idiom — exactly the Greek metaphor's source register. A Thai reader hears the marketplace echo (the Spirit as the "down-payment" guaranteeing the rest of the inheritance). Reads precisely.
 

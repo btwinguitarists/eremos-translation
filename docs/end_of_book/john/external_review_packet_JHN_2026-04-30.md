@@ -126,33 +126,33 @@ Then a brief **§Z: Anything else?** section if you spot a corpus-level concern 
 - JHN 4:50 GK: `ἐπίστευσεν ὁ ἄνθρωπος τῷ λόγῳ ὃν εἶπεν αὐτῷ ὁ Ἰησοῦς` → TH: `ชายผู้นั้นเชื่อ**พระดำรัส**ที่พระเยซูตรัสกับเขา`
 - JHN 5:38 GK: `τὸν λόγον αὐτοῦ οὐκ ἔχετε ἐν ὑμῖν μένοντα` → TH: `**พระดำรัส**ของพระองค์ก็ไม่ได้คงอยู่ในพวกท่าน`
 
-**POSSIBLE DRIFT — Farewell Discourse (chs 14–17) systematically uses plain คำ for Jesus's word/teaching, even where the narrator-emphasis matches the พระดำρัส pattern above:**
+**POSSIBLE DRIFT — Farewell Discourse (chs 14–17) systematically uses plain คำ for Jesus's word/teaching, even where the narrator-emphasis matches the พระดำรัส pattern above:**
 - JHN 14:23 GK: `ἐάν τις ἀγαπᾷ με τὸν λόγον μου τηρήσει` → TH: `ถ้าผู้ใดรักเรา ผู้นั้นจะรักษา**คำ**ของเรา`
 - JHN 14:24 GK: `ὁ μὴ ἀγαπῶν με τοὺς λόγους μου οὐ τηρεῖ` → TH: `ผู้ที่ไม่รักเราย่อมไม่รักษา**คำ**ของเรา`
 - JHN 15:3 GK: `ἤδη ὑμεῖς καθαροί ἐστε διὰ τὸν λόγον ὃν λελάληκα ὑμῖν` → TH: `พวกท่านสะอาดแล้วเพราะ**คำ**ที่เรากล่าวกับพวกท่าน`
 - JHN 17:20 GK: `οὐ περὶ τούτων δὲ ἐρωτῶ μόνον,ἀλλὰ καὶ περὶ τῶν πιστευόντων διὰ τοῦ λόγου αὐτῶν εἰς ἐμέ` → TH: `แต่ที่เราขอนั้น มิใช่เพื่อคนเหล่านี้เท่านั้น แต่เพื่อบรรดาผู้ที่จะเชื่อในเราเพราะ**คำ**ของพวกเขา`
 
 **Two questions:**
-1. Is the seven-way split (พระวาทะ Christological / พระวจνะ scripture / พระดำρัส narrator-emphasized speech / คำ general / คำพยาν testimony / คำสอν teaching / คำเล่าลือ rumor) sound for Johannine λόγος?
-2. Should the Farewell-Discourse คำ at 14:23, 14:24, 15:3, 17:20 be lifted to พระดำρัส for consistency with 2:22 / 4:41 / 4:50 / 5:38 narrator-emphasis pattern? Or is the Upper-Room intimacy register (Jesus speaking to disciples, not a public crowd) a principled reason to use plain คำ? This needs a corpus doc before 1 John 1:1 ("the Word of life"), Hebrews 4:12, Revelation 19:13.
+1. Is the seven-way split (พระวาทะ Christological / พระวจนะ scripture / พระดำรัส narrator-emphasized speech / คำ general / คำพยาน testimony / คำสอน teaching / คำเล่าลือ rumor) sound for Johannine λόγος?
+2. Should the Farewell-Discourse คำ at 14:23, 14:24, 15:3, 17:20 be lifted to พระดำรัส for consistency with 2:22 / 4:41 / 4:50 / 5:38 narrator-emphasis pattern? Or is the Upper-Room intimacy register (Jesus speaking to disciples, not a public crowd) a principled reason to use plain คำ? This needs a corpus doc before 1 John 1:1 ("the Word of life"), Hebrews 4:12, Revelation 19:13.
 
 ---
 
 ## Item C — JHN 3:11 ἀμὴν ἀμὴν drift (sole violation of locked formula)
 
-**The locked rule:** `johannine_doubled_amen_2026-04.md` locks the Johannine doubled-amen formula → **อาเมν อาเมν** (Aramaic-embed treatment, Mark-pattern).
+**The locked rule:** `johannine_doubled_amen_2026-04.md` locks the Johannine doubled-amen formula → **อาเมน อาเมน** (Aramaic-embed treatment, Mark-pattern).
 
 **Compliance — all other JHN occurrences (verified all 10 plural-form ὑμῖν + 2 singular-form σοι):**
-- JHN 6:47, 8:51, 12:24, 13:16, 13:20, 14:12, 16:20, 16:23: all use **อาเมν อาเมว เราบอกแก่พวกท่านว่า**
-- JHN 13:38 (singular σοι, to Peter): **อาเมν อาเมว เราบอกแก่เจ้าว่า**
-- JHN 21:18 (singular σοι, to Peter): **อาเมν อาเมว เราบอกแก่เจ้าว่า**
+- JHN 6:47, 8:51, 12:24, 13:16, 13:20, 14:12, 16:20, 16:23: all use **อาเมน อาเมว เราบอกแก่พวกท่านว่า**
+- JHN 13:38 (singular σοι, to Peter): **อาเมน อาเมว เราบอกแก่เจ้าว่า**
+- JHN 21:18 (singular σοι, to Peter): **อาเมน อาเมว เราบอกแก่เจ้าว่า**
 
 **THE ONE OUTLIER — JHN 3:11:**
 - JHN 3:11 GK: `ἀμὴν ἀμὴν λέγω σοι,ὃ οἴδαμεν λαλοῦμεν` → TH: `**ความจริง ความจริง เราบอกท่านว่า** เรากล่าวสิ่งที่เรารู้`
 
-This is the only Johannine ἀμὴν ἀμὴν that uses the older Synoptic-style **ความจริง ความจริง** rendering instead of the locked **อาเมν อาเมว**. The phrase-consistency checker missed it because the singular-σοι form `ἀμὴν ἀμὴν λέγω σοι` isn't in the script's Greek-pattern variant list (the check only audits `ἀμὴν ἀμὴν λέγω ὑμῖν` plural).
+This is the only Johannine ἀμὴν ἀμὴν that uses the older Synoptic-style **ความจริง ความจริง** rendering instead of the locked **อาเมน อาเมว**. The phrase-consistency checker missed it because the singular-σοι form `ἀμὴν ἀμὴν λέγω σοι` isn't in the script's Greek-pattern variant list (the check only audits `ἀμὴν ἀμὴν λέγω ὑμῖν` plural).
 
-**Question:** Confirm the recommended normalization: 3:11 → "อาเมν อาเมว เราบอกแก่ท่านว่า" (singular ท่าν since Nicodemus is addressed individually, mirroring the 13:38 / 21:18 σοι pattern with เจ้า). Are there contextual reasons to keep the older "ความจริง ความจริง" rendering specifically at 3:11 that I'm missing?
+**Question:** Confirm the recommended normalization: 3:11 → "อาเมน อาเมว เราบอกแก่ท่านว่า" (singular ท่าน since Nicodemus is addressed individually, mirroring the 13:38 / 21:18 σοι pattern with เจ้า). Are there contextual reasons to keep the older "ความจริง ความจริง" rendering specifically at 3:11 that I'm missing?
 
 ---
 
@@ -204,7 +204,7 @@ The Thai uses **ยังไม่** ("not yet") for both the disputed οὐκ A
 | **Climactic Christological / YHWH-echo** ("Before Abraham was, I AM") | **เราเป็น** (bare predicate) | 8:24, 8:28, 8:58, 13:19 |
 
 **The bare-เราเป็น at 8:58 (climactic):**
-- JHN 8:58 GK: `Ἀμὴν ἀμὴν λέγω ὑμῖν,πρὶν Ἀβραὰμ γενέσθαι ἐγὼ εἰμί` → TH: `อาเมν อาเมว เราบอกแก่พวกท่านว่า ก่อนที่อับราฮัมจะเกิด **เราเป็น**`
+- JHN 8:58 GK: `Ἀμὴν ἀμὴν λέγω ὑμῖν,πρὶν Ἀβραὰμ γενέσθαι ἐγὼ εἰμί` → TH: `อาเมน อาเมว เราบอกแก่พวกท่านว่า ก่อนที่อับราฮัมจะเกิด **เราเป็น**`
 
 **The dialogue gloss-extended at 4:26 (Samaritan woman):**
 - JHN 4:26 GK: `Ἐγώ εἰμι,ὁ λαλῶν σοι` → TH: `**เราที่กำลังพูดกับท่านอยู่นี้คือผู้นั้นเอง**`
@@ -218,7 +218,7 @@ The Thai uses **ยังไม่** ("not yet") for both the disputed οὐκ A
 
 ## Item G — Father↔Son glorification idiom (พระสิริ-receive/transfer, distinct from human-praise default สรรเสริญ)
 
-**The pattern:** The corpus locks **สรรเสริญ** as the default for δοξάζω + εὐλογέω + αἰνέω + αἶνον δίδωμι **when humans glorify God** (`divine_object_praise_verbs_2026-04.md`, Acts-amended with narrator-doxological **ถวายเกียρติ** sub-rule). JHN exhibits a third category not in the doc: **Father↔Son intra-Trinitarian glorification** (very dense in JHN 12 + 17), which uses **พระสิริ** (noun "glory") + receive-causative verbs:
+**The pattern:** The corpus locks **สรรเสริญ** as the default for δοξάζω + εὐλογέω + αἰνέω + αἶνον δίδωμι **when humans glorify God** (`divine_object_praise_verbs_2026-04.md`, Acts-amended with narrator-doxological **ถวายเกียรติ** sub-rule). JHN exhibits a third category not in the doc: **Father↔Son intra-Trinitarian glorification** (very dense in JHN 12 + 17), which uses **พระสิริ** (noun "glory") + receive-causative verbs:
 
 | GK | TH | Verse |
 |---|---|---|
@@ -230,16 +230,16 @@ The Thai uses **ยังไม่** ("not yet") for both the disputed οὐκ A
 | `δόξασόν με σύ,πάτερ,παρὰ σεαυτῷ` | **ขอพระองค์ทรงให้เราได้รับพระสิริต่อพระพักตร์ของพระองค์** | 17:5 |
 
 **Distinct from human-praise-of-God default:**
-- JHN 5:41 GK: `δόξαν παρὰ ἀνθρώπων οὐ λαμβάνω` → TH: `เราไม่รับ**เกียรติ**จากมนุษย์` (here δόξα = "honor" from humans, → เกียρติ — different lemma class)
+- JHN 5:41 GK: `δόξαν παρὰ ἀνθρώπων οὐ λαμβάνω` → TH: `เราไม่รับ**เกียรติ**จากมนุษย์` (here δόξα = "honor" from humans, → เกียรติ — different lemma class)
 - (No JHN human-praises-God-with-δοξάζω-verb instance to test the default; the "they glorified God" Acts-pattern doesn't appear in JHN at all.)
 
-**Question:** Is the Father↔Son glorification rendering (พระสิริ + receive-causative) the right Thai for δοξάζω when the subject AND object are both divine persons (Father/Son), as distinct from (a) human-praise-of-God default (สรรเสริญ) and (b) corporate-narrator doxological acclamation (ถวายเกียρติ)? Should `divine_object_praise_verbs_2026-04.md` be amended to add this Father↔Son sub-rule before Romans 8:30 (ἐδόξασεν), 2 Cor 3:18 (ἀπὸ δόξης εἰς δόξαν — transformative-glory), Eph 1:6/12/14 (εἰς ἔπαινον τῆς δόξης), 1 Pet 1:8, and Revelation's massive doxological-glory vocabulary?
+**Question:** Is the Father↔Son glorification rendering (พระสิริ + receive-causative) the right Thai for δοξάζω when the subject AND object are both divine persons (Father/Son), as distinct from (a) human-praise-of-God default (สรรเสริญ) and (b) corporate-narrator doxological acclamation (ถวายเกียรติ)? Should `divine_object_praise_verbs_2026-04.md` be amended to add this Father↔Son sub-rule before Romans 8:30 (ἐδόξασεν), 2 Cor 3:18 (ἀπὸ δόξης εἰς δόξαν — transformative-glory), Eph 1:6/12/14 (εἰς ἔπαινον τῆς δόξης), 1 Pet 1:8, and Revelation's massive doxological-glory vocabulary?
 
 ---
 
 ## Item H — JHN 21:15–17 ἀγαπάω/φιλέω flattening to รัก
 
-**The decision (explicit, documented at 21:15 KD):** Jesus uses **ἀγαπάω** twice (vv.15, 16) then switches to **φιλέω** in v.17; Peter answers all three with **φιλέω**. Thai renders **all six occurrences as รัก**, matching NIV/ESV/CSB (synonym-hypothesis position, widely held in modern Greek-NT scholarship). Same flattening applies corpus-wide: JHN 3:35 ἀγαπᾷ (Father loves Son) → ทρงรัก; JHN 5:20 φιλεῖ (Father loves Son) → ทρงรัก.
+**The decision (explicit, documented at 21:15 KD):** Jesus uses **ἀγαπάω** twice (vv.15, 16) then switches to **φιλέω** in v.17; Peter answers all three with **φιλέω**. Thai renders **all six occurrences as รัก**, matching NIV/ESV/CSB (synonym-hypothesis position, widely held in modern Greek-NT scholarship). Same flattening applies corpus-wide: JHN 3:35 ἀγαπᾷ (Father loves Son) → ทรงรัก; JHN 5:20 φιλεῖ (Father loves Son) → ทรงรัก.
 
 - JHN 21:15 GK: `ἀγαπᾷς με πλέον τούτων;... φιλῶ σε` → TH: `เจ้า**รัก**เรามากกว่าคนเหล่านี้หรือ ... ข้าพระองค์**รัก**พระองค์`
 - JHN 21:17 GK: `φιλεῖς με;... φιλῶ σε` → TH: `เจ้า**รัก**เราหรือ ... ข้าพระองค์**รัก**พระองค์`

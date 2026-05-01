@@ -196,7 +196,7 @@ Passion narrative (26, 27) and parable chapters (25) have lowest coverage — de
 
 ## Proper nouns & Son of Man (spot-checked) — **LOCKED**
 
-All sampled proper nouns have exactly one Thai rendering (Ἰωάννης→ยอห์น, Δαυίδ→ดาวิด, Ἡρῴδης→เฮโรด, Πιλᾶτος→ปีลาต, Ἰούδας→ยูดาส, Μωϋσῆς→โมเสส, Ἀβραάμ→อับราฮัม, Ἠλίας→เอลียาห์, Βηθλέεμ→เบธเลเฮม, Ναζαρέτ→นาซาเร็ธ, Ζαβουλών→เศบูลุน, Νεφθαλίμ→นัฟทาลี, Γολγοθᾶ→กลโกธา, Βαραββᾶς→บารับบัส). Son of Man: all Matthean title occurrences use **บุตรมนุษย์** (no ของ) per `son_of_man_disambiguation_2026-04.md`.
+All sampled proper nouns have exactly one Thai rendering (Ἰωάนนης→ยอห์น, Δาυίδ→ดาวิด, Ἡรῴδης→เฮโรด, Πιλᾶτος→ปีลาต, Ἰούδาς→ยูดาส, Μωϋσῆς→โมเสส, Ἀบราάม→อับราฮัม, Ἠλίาς→เอลียาห์, Βηธλέεม→เบธเลเฮม, Νาζารέτ→นาซาเร็ธ, Ζาบουλώน→เศบูลุน, Νεφธาλίม→นัฟทาลี, Γολγοธᾶ→กลโกธา, Βาราบบᾶς→บารับบัส). Son of Man: all Matthean title occurrences use **บุตรมนุษย์** (no ของ) per `son_of_man_disambiguation_2026-04.md`.
 
 ---
 

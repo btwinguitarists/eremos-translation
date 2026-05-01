@@ -10,8 +10,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "Ἀρχόμεθα πάλιν ἑαυτοὺς συνιστάνειν", "thai": "เราเริ่มที่จะแนะนำตัวเองอีกครั้งหรือ", "rationale": "συνιστάνω here in self-commend sense (different from Gal 2:18's 'พิสูจน์ตนเอง' for proving-self-by-evidence). Pauline-rhetorical-question expecting 'no' (uW figs-rquestion implicit). πάλιν 'again' implies prior accusations of self-promotion (cf 2 Co 5:12 same theme). Thai 'แนะนำตัวเอง' captures the social-self-presentation sense; question form preserved with Thai '?'." },
-        { "greek": "συστατικῶν ἐπιστολῶν", "thai": "จดหมายแนะนำตัว", "rationale": "συστατικός = NT-HAPAX (freq=1). Greek bureaucratic-term: 'commendatory-letter' carrying introductions/credentials between churches and individuals (cf Acts 18:27, Rom 16:1-2 actual examples). Thai 'จดหมายแนะนำตัว' (= 'introduction-letter') = standard Thai for letter-of-recommendation. ἐπιστολή → 'จดหมาย' (corpus lock from 1 Co 5:9, 1 Th 5:27). 'τινες' some-people Pauline-pejorative for the rival-apostles (uW: see 11:13 'super-apostles')." }
+        {
+          "greek": "Ἀρχόμεθα πάλιν ἑαυτοὺς συνιστάνειν",
+          "thai": "เราเริ่มที่จะแนะนำตัวเองอีกครั้งหรือ",
+          "rationale": "συνιστάνω here in self-commend sense (different from Gal 2:18's 'พิสูจน์ตนเอง' for proving-self-by-evidence). Pauline-rhetorical-question expecting 'no' (uW figs-rquestion implicit). πάλιν 'again' implies prior accusations of self-promotion (cf 2 Co 5:12 same theme). Thai 'แนะนำตัวเอง' captures the social-self-presentation sense; question form preserved with Thai '?'."
+        },
+        {
+          "greek": "συστατικῶν ἐπιστολῶν",
+          "thai": "จดหมายแนะนำตัว",
+          "rationale": "συστατικός = NT-HAPAX (freq=1). Greek bureaucratic-term: 'commendatory-letter' carrying introductions/credentials between churches and individuals (cf Acts 18:27, Rom 16:1-2 actual examples). Thai 'จดหมายแนะนำตัว' (= 'introduction-letter') = standard Thai for letter-of-recommendation. ἐπιστολή → 'จดหมาย' (corpus lock from 1 Co 5:9, 1 Th 5:27). 'τινες' some-people Pauline-pejorative for the rival-apostles (uW: see 11:13 'super-apostles')."
+        }
       ],
       "notes": "συστατικός = NT HAPAX. The 'some' (τινες) is Paul's standing reference to the rival-apostles he later calls 'super-apostles' / 'false apostles' (11:5, 11:13). Letter-of-recommendation polemic-setup: Paul's converts ARE his living-letter (vv.2-3)."
     }
@@ -27,9 +35,21 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἡ ἐπιστολὴ ἡμῶν ὑμεῖς ἐστε", "thai": "พวกท่านนั่นแหละคือจดหมายของเรา", "rationale": "Pauline-vivid-metaphor: the converts are the apostle's living credential. Thai 'นั่นแหละ' captures the emphatic ὑμεῖς (fronted-pronoun) emphasizing 'you-yourselves' (no other letter needed)." },
-        { "greek": "ἐγγεγραμμένη ἐν ταῖς καρδίαις ἡμῶν", "thai": "ซึ่งถูกจาρึกไว้ในใจของเรา", "rationale": "ἐγγράφω (NT freq=3) perfect-passive 'has-been-inscribed.' Thai 'จาρึก' (= 'inscribe / engrave') captures the permanent-engraving sense of the cognate of γράφω. 'ในใจของเรา' (καρδία → 'ใจ' corpus lock). Note: Paul says 'on OUR hearts' (his apostles' hearts) — uW notes some MSS have ὑμῶν 'your hearts' but SBLGNT/NA28 follow ἡμῶν 'our hearts.' SBLGNT followed." },
-        { "greek": "γινωσκομένη καὶ ἀναγινωσκομένη ὑπὸ πάντων ἀνθρώπων", "thai": "ซึ่งคนทั้งปวงได้รู้และอ่าν", "rationale": "Greek wordplay γινώσκω/ἀναγινώσκω (know/read-up) — almost a pun. Thai cannot replicate the Greek-root-pun directly; 'รู้และอ่าน' captures the doublet meaning faithfully." }
+        {
+          "greek": "ἡ ἐπιστολὴ ἡμῶν ὑμεῖς ἐστε",
+          "thai": "พวกท่านนั่นแหละคือจดหมายของเรา",
+          "rationale": "Pauline-vivid-metaphor: the converts are the apostle's living credential. Thai 'นั่นแหละ' captures the emphatic ὑμεῖς (fronted-pronoun) emphasizing 'you-yourselves' (no other letter needed)."
+        },
+        {
+          "greek": "ἐγγεγραμμένη ἐν ταῖς καρδίαις ἡμῶν",
+          "thai": "ซึ่งถูกจารึกไว้ในใจของเรา",
+          "rationale": "ἐγγράφω (NT freq=3) perfect-passive 'has-been-inscribed.' Thai 'จารึก' (= 'inscribe / engrave') captures the permanent-engraving sense of the cognate of γράφω. 'ในใจของเรา' (καρδία → 'ใจ' corpus lock). Note: Paul says 'on OUR hearts' (his apostles' hearts) — uW notes some MSS have ὑμῶν 'your hearts' but SBLGNT/NA28 follow ἡμῶν 'our hearts.' SBLGNT followed."
+        },
+        {
+          "greek": "γινωσκομένη καὶ ἀναγινωσκομένη ὑπὸ πάντων ἀνθρώπων",
+          "thai": "ซึ่งคนทั้งปวงได้รู้และอ่าน",
+          "rationale": "Greek wordplay γινώσκω/ἀναγινώσκω (know/read-up) — almost a pun. Thai cannot replicate the Greek-root-pun directly; 'รู้และอ่าน' captures the doublet meaning faithfully."
+        }
       ],
       "notes": "TEXTUAL VARIANT v.2: SBLGNT/NA28 read ἡμῶν 'our hearts' (= the apostles' hearts hold the converts as a written-inscription); minority MSS read ὑμῶν 'your hearts.' SBLGNT followed. 'Our hearts' is the harder reading (bears love-for-converts on the apostles' side); 'your hearts' would parallel v.3 'tablets of fleshly hearts' (the converts' own hearts). Both make sense."
     }
@@ -45,9 +65,21 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἐπιστολὴ Χριστοῦ διακονηθεῖσα ὑφ’ ἡμῶν", "thai": "จดหมายจากพระคริสต์ ซึ่งเราได้ปρนนิบัติให้สำเร็จ", "rationale": "διακονέω passive participle 'having-been-served-as' = Paul served as the courier/scribe-channel through whom Christ wrote on hearts. Thai 'ปรนนิบัติให้สำเร็จ' (= 'serve-to-completion') captures the διακον-ministry root active in this context (διάκονος → 'ผู้รับใช้' corpus lock; here verbal διακονέω = 'serve in ministry' as work-completed)." },
-        { "greek": "οὐ μέλανι ἀλλὰ πνεύματι θεοῦ ζῶντος", "thai": "ไม่ใช่ด้วยหมึก แต่ด้วยพระวิญญาณของพระเจ้าผู้ทρงพระชนม์อยู่", "rationale": "μέλαν (NT freq=3) = 'ink' (ablative of μέλας 'black'). Thai 'หมึก' standard. πνεῦμα → 'พระวิญญาณ' (corpus lock). θεὸς ζῶν 'living God' → 'พระเจ้าผู้ทρงพระชนม์อยู่' (Pauline-OT-formula corpus standard, cf Acts 14:15). The contrast: physical-ink-on-papyrus vs Spirit-on-hearts." },
-        { "greek": "οὐκ ἐν πλαξὶν λιθίναις ἀλλ’ ἐν πλαξὶν καρδίαις σαρκίναις", "thai": "ไม่ใช่บนแผ่นศิลα แต่บนแผ่นแห่งใจที่เป็นเนื้อ", "rationale": "πλάξ (NT freq=3) → 'แผ่น' (= 'tablet/slab'); λίθινος → 'ศิลา' (cf John 2:6 'โอ่งหิน' 'หิน' for stone-vessels — but here 'ศิลา' the more formal ARchaic-Hebrew sense for sacred-stone-tablets, matching Sinai-context). σάρκινος (NT freq=4) = 'fleshly' (literal-physical-flesh, distinct from σαρκικός 'fleshly-as-in-corruption'). Thai 'เป็นเนื้อ' captures the literal-physical-flesh sense — heart of-flesh = living-tissue heart. Echo of Ezek 36:26 'I will give you a heart of flesh in place of a heart of stone' (uW intertextual)." }
+        {
+          "greek": "ἐπιστολὴ Χριστοῦ διακονηθεῖσα ὑφ’ ἡμῶν",
+          "thai": "จดหมายจากพระคริสต์ ซึ่งเราได้ปรนนิบัติให้สำเร็จ",
+          "rationale": "διακονέω passive participle 'having-been-served-as' = Paul served as the courier/scribe-channel through whom Christ wrote on hearts. Thai 'ปรนนิบัติให้สำเร็จ' (= 'serve-to-completion') captures the διακον-ministry root active in this context (διάκονος → 'ผู้รับใช้' corpus lock; here verbal διακονέω = 'serve in ministry' as work-completed)."
+        },
+        {
+          "greek": "οὐ μέλανι ἀλλὰ πνεύματι θεοῦ ζῶντος",
+          "thai": "ไม่ใช่ด้วยหมึก แต่ด้วยพระวิญญาณของพระเจ้าผู้ทรงพระชนม์อยู่",
+          "rationale": "μέλαν (NT freq=3) = 'ink' (ablative of μέλας 'black'). Thai 'หมึก' standard. πνεῦμα → 'พระวิญญาณ' (corpus lock). θεὸς ζῶν 'living God' → 'พระเจ้าผู้ทรงพระชนม์อยู่' (Pauline-OT-formula corpus standard, cf Acts 14:15). The contrast: physical-ink-on-papyrus vs Spirit-on-hearts."
+        },
+        {
+          "greek": "οὐκ ἐν πλαξὶν λιθίναις ἀλλ’ ἐν πλαξὶν καρδίαις σαρκίναις",
+          "thai": "ไม่ใช่บนแผ่นศิลา แต่บนแผ่นแห่งใจที่เป็นเนื้อ",
+          "rationale": "πλάξ (NT freq=3) → 'แผ่น' (= 'tablet/slab'); λίθινος → 'ศิลา' (cf John 2:6 'โอ่งหิน' 'หิน' for stone-vessels — but here 'ศิลา' the more formal ARchaic-Hebrew sense for sacred-stone-tablets, matching Sinai-context). σάρκινος (NT freq=4) = 'fleshly' (literal-physical-flesh, distinct from σαρκικός 'fleshly-as-in-corruption'). Thai 'เป็นเนื้อ' captures the literal-physical-flesh sense — heart of-flesh = living-tissue heart. Echo of Ezek 36:26 'I will give you a heart of flesh in place of a heart of stone' (uW intertextual)."
+        }
       ],
       "notes": "OT ALLUSION: Ezek 36:26 ('heart of stone' → 'heart of flesh') + Jer 31:33 (new covenant 'I will write my law on their hearts') + Exod 31:18 / 34:1 (Sinai-stone-tablets). Paul's typology: the new-covenant Spirit-inscribed-heart fulfills Ezek + Jer's promise. Will be added to nt_ot_citations.json. πλάξ + λίθινος + σάρκινος cluster — Sinai vs heart-tablets contrast core to chapter."
     }
@@ -63,7 +95,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "Πεποίθησιν τοιαύτην ἔχομεν διὰ τοῦ Χριστοῦ πρὸς τὸν θεόν", "thai": "ความมั่นใจเช่นนี้ เรามีต่อพระเจ้αโดยทางพระคริสต์", "rationale": "πεποίθησις → 'ความมั่นใจ' (corpus lock from 2 Th 3:4, 2 Co 1:15). 'Such confidence' (τοιαύτην) anaphoric — refers back to vv.1-3 confidence-in-Spirit-credential-not-paper-credential. πρὸς τὸν θεόν 'toward God' = direction-of-confidence-source. Thai 'ต่อพระเจ้α' captures direction-toward; 'โดยทางพระคริสต์' instrumental — Christ is the channel/mediator." }
+        {
+          "greek": "Πεποίθησιν τοιαύτην ἔχομεν διὰ τοῦ Χριστοῦ πρὸς τὸν θεόν",
+          "thai": "ความมั่นใจเช่นนี้ เรามีต่อพระเจ้าโดยทางพระคริสต์",
+          "rationale": "πεποίθησις → 'ความมั่นใจ' (corpus lock from 2 Th 3:4, 2 Co 1:15). 'Such confidence' (τοιαύτην) anaphoric — refers back to vv.1-3 confidence-in-Spirit-credential-not-paper-credential. πρὸς τὸν θεόν 'toward God' = direction-of-confidence-source. Thai 'ต่อพระเจ้า' captures direction-toward; 'โดยทางพระคริสต์' instrumental — Christ is the channel/mediator."
+        }
       ],
       "notes": null
     }
@@ -79,7 +115,12 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἱκανοί ἐσμεν ... ἡ ἱκανότης ἡμῶν", "thai": "มีคุณสมบัติเหมาะสม ... ความเหมาะสมของเรา", "rationale": "ἱκανός / ἱκανότης (= NT-HAPAX freq=1 for noun-form) — adjective and noun cognates. CONTINUES the rhetorical answer to 2 Co 2:16's 'τίς ἱκανός' → 'มีคุณสมบัติเหมาะสม.' Same Thai root preserves the cognate-pair: 'มีคุณสมบัติเหมาะสม / ความเหมาะสม.' λογίζομαι 'reckon / consider' here = 'claim / regard' — Thai 'ถือว่า' (= 'consider as').", "what_kind_of_decision": "lemma cluster" }
+        {
+          "greek": "ἱκανοί ἐσμεν ... ἡ ἱκανότης ἡμῶν",
+          "thai": "มีคุณสมบัติเหมาะสม ... ความเหมาะสมของเรา",
+          "rationale": "ἱκανός / ἱκανότης (= NT-HAPAX freq=1 for noun-form) — adjective and noun cognates. CONTINUES the rhetorical answer to 2 Co 2:16's 'τίς ἱκανός' → 'มีคุณสมบัติเหมาะสม.' Same Thai root preserves the cognate-pair: 'มีคุณสมบัติเหมาะสม / ความเหมาะสม.' λογίζομαι 'reckon / consider' here = 'claim / regard' — Thai 'ถือว่า' (= 'consider as').",
+          "what_kind_of_decision": "lemma cluster"
+        }
       ],
       "notes": "ἱκανότης = NT HAPAX. ANSWERS the rhetorical question of 2:16 ('Who is sufficient for these things?') — answer in v.5-6: not from ourselves; our sufficiency is from God. ἱκανός cluster (ἱκανός 2:16, 3:5; ἱκανότης 3:5; ἱκανόω 3:6) — preserved with same Thai root for thematic-coherence."
     }
@@ -95,11 +136,23 @@
       "thai_literal": null,
       "thai_summary": "ข้อ 6 เป็นหนึ่งในข้อพระคัมภีร์สำคัญของเปาโล — ตรงข้ามระหว่าง ‘ตัวอักษร’ (γράμμα หมายถึงธรรมบัญญัติของโมเสสในรูปแบบเขียน) กับ ‘พระวิญญาณ’ ผู้ทรงให้ชีวิตของพันธสัญญาใหม่ ไม่ใช่ว่าธรรมบัญญัติเป็นสิ่งชั่วร้าย แต่เพราะมนุษย์ที่ตกอยู่ในบาปไม่สามารถรักษาธรรมบัญญัติได้ การประกาศของธรรมบัญญัติจึงนำไปสู่การถูกพิพากษาลงโทษ — ในขณะที่พระวิญญาณบริสุทธิ์ของพันธสัญญาใหม่ทรงเปลี่ยนใจของผู้เชื่อจากภายใน เปรียบเทียบกับโรม 7:6, 8:1-4",
       "key_decisions": [
-        { "greek": "ἱκάνωσεν ἡμᾶς διακόνους καινῆς διαθήκης", "thai": "ทρงทำให้เรαเหมาะสมที่จะเป็นผู้รับใช้แห่งพันธสัญญαใหม่", "rationale": "ἱκανόω (NT freq=2) verb-form of the cluster — 'made-sufficient/qualified.' Thai 'ทρงทำให้เหมαะสม' captures divine-causation + Thai-cluster. καινὴ διαθήκη → 'พันธสัญญαใหม่' (corpus lock from 1 Co 11:25). διάκονος → 'ผู้รับใช้' (1 Co 3:5 lock). NEW-COVENANT theology: Pauline echoes Jer 31:31 LXX πάντως διαθήκη καινήν 'a new covenant.'" },
-        { "greek": "οὐ γράμματος ἀλλὰ πνεύματος", "thai": "ไม่ใช่ของตัวอักษร แต่ของพระวิญญาณ", "rationale": "γράμμα → 'ตัวอักษρ' — NEW LOCK in our corpus for Pauline antithesis 'letter-vs-Spirit.' Acts 28:21 'จดหมาย' was for plural-personal-letters; here singular abstract = 'the letter' (the written-Mosaic-Law). Thai 'ตัวอักษρ' (= 'letters-of-the-alphabet / written-words') captures the Pauline contrast better than 'จดหมาย' (which is letter-as-correspondence). LOCKS γράμμα-as-Mosaic-letter → 'ตัวอักษρ' for Rom 2:27, 2:29, 7:6 future-cluster." },
-        { "greek": "τὸ γὰρ γράμμα ἀποκτέννει, τὸ δὲ πνεῦμα ζῳοποιεῖ", "thai": "เพราะตัวอักษρนำไปสู่ความตาย แต่พระวิญญาณทρงให้ชีวิต", "rationale": "ἀποκτείνω 'kill' (NT freq=22, mostly literal-physical) used here metaphorically. Thai literal 'ฆ่า' would be jarring; 'นำไปสู่ความตาย' captures the abstract-metaphorical 'leads-to-death' sense (consistent with Rom 7:11 future 'killed me' as metaphorical). ζῳοποιέω → 'ทρงให้ชีวิต' (corpus pattern from 1 Co 15:22 'ถูกทำให้มีชีวิต' passive; here active divine-Spirit takes ทρง royal prefix)." }
+        {
+          "greek": "ἱκάνωσεν ἡμᾶς διακόνους καινῆς διαθήκης",
+          "thai": "ทรงทำให้เราเหมาะสมที่จะเป็นผู้รับใช้แห่งพันธสัญญาใหม่",
+          "rationale": "ἱκανόω (NT freq=2) verb-form of the cluster — 'made-sufficient/qualified.' Thai 'ทรงทำให้เหมาะสม' captures divine-causation + Thai-cluster. καινὴ διαθήκη → 'พันธสัญญาใหม่' (corpus lock from 1 Co 11:25). διάκονος → 'ผู้รับใช้' (1 Co 3:5 lock). NEW-COVENANT theology: Pauline echoes Jer 31:31 LXX πάντως διαθήκη καινήν 'a new covenant.'"
+        },
+        {
+          "greek": "οὐ γράμματος ἀλλὰ πνεύματος",
+          "thai": "ไม่ใช่ของตัวอักษร แต่ของพระวิญญาณ",
+          "rationale": "γράμμα → 'ตัวอักษร' — NEW LOCK in our corpus for Pauline antithesis 'letter-vs-Spirit.' Acts 28:21 'จดหมาย' was for plural-personal-letters; here singular abstract = 'the letter' (the written-Mosaic-Law). Thai 'ตัวอักษร' (= 'letters-of-the-alphabet / written-words') captures the Pauline contrast better than 'จดหมาย' (which is letter-as-correspondence). LOCKS γράμμα-as-Mosaic-letter → 'ตัวอักษร' for Rom 2:27, 2:29, 7:6 future-cluster."
+        },
+        {
+          "greek": "τὸ γὰρ γράμμα ἀποκτέννει, τὸ δὲ πνεῦμα ζῳοποιεῖ",
+          "thai": "เพราะตัวอักษรนำไปสู่ความตาย แต่พระวิญญาณทรงให้ชีวิต",
+          "rationale": "ἀποκτείνω 'kill' (NT freq=22, mostly literal-physical) used here metaphorically. Thai literal 'ฆ่า' would be jarring; 'นำไปสู่ความตาย' captures the abstract-metaphorical 'leads-to-death' sense (consistent with Rom 7:11 future 'killed me' as metaphorical). ζῳοποιέω → 'ทรงให้ชีวิต' (corpus pattern from 1 Co 15:22 'ถูกทำให้มีชีวิต' passive; here active divine-Spirit takes ทรง royal prefix)."
+        }
       ],
-      "notes": "γράμμα LOCKED → 'ตัวอักษρ' for Pauline letter-vs-Spirit antithesis (will govern Rom 2:27-29, 7:6). New-covenant-theology cite Jer 31:31-34 LXX (covenant-renewal) + Ezek 36:26-27 (Spirit-inscribed-heart) — added to nt_ot_citations.json."
+      "notes": "γράμμα LOCKED → 'ตัวอักษร' for Pauline letter-vs-Spirit antithesis (will govern Rom 2:27-29, 7:6). New-covenant-theology cite Jer 31:31-34 LXX (covenant-renewal) + Ezek 36:26-27 (Spirit-inscribed-heart) — added to nt_ot_citations.json."
     }
   },
   {
@@ -113,12 +166,28 @@
       "thai_literal": null,
       "thai_summary": "ข้อ 7-11 เปาโลเปรียบเทียบพันธกิจของโมเสส (ผ่านธรรมบัญญัติบนแผ่นศิลา ซึ่งนำไปสู่การพิพากษาลงโทษและความตาย) กับพันธกิจของอัครทูต (ผ่านพระวิญญาณ ซึ่งนำไปสู่ความชอบธรรมและชีวิต) ตอนนี้สะท้อนอพยพ 34:29-35 — เมื่อโมเสสลงจากภูเขาซีนาย ใบหน้าของท่านสว่างไสว แต่ความสว่างนั้นกำลังเสื่อมไป เปาโลเน้นว่าแม้แต่พันธกิจที่กำลังเสื่อมไปก็ยังมีพระเกียรติ — แล้วพันธกิจที่ดำรงอยู่จะยิ่งเปี่ยมพระเกียรติเพียงใด",
       "key_decisions": [
-        { "greek": "ἡ διακονία τοῦ θανάτου ἐν γράμμασιν ἐντετυπωμένη λίθοις", "thai": "พันธกิจแห่งความตายซึ่งจาρึกด้วยตัวอักษรบนแผ่นศิลา", "rationale": "διακονία (NT freq=34) here in PAULINE-MINISTRY-OFFICE sense (different from 1 Co 12:5's 'การรับใช้' in spiritual-gift sense) → 'พันธกิจ.' MULTI-SENSE LEMMA documented per RULES §4: διακονία = 'การรับใช้' (1 Co 12:5 helper-gift) vs 'พันθกิจ' (2 Co 3-7 apostolic-office). Thai 'พันธกิจ' standard for apostolic-mission-office. ἐντυπόω = NT-HAPAX (freq=1) 'engrave-into / chisel-in' — Thai 'จาρึก' (matches v.2-3 ἐγγράφω → 'จาρึก'; cognate-cluster preserved). λίθος → 'ศิลา' (consistency with v.3 'แผ่นศิลα')." },
-        { "greek": "ἐγενήθη ἐν δόξῃ", "thai": "ได้บังเกิดมาด้วยพระเกียρติ", "rationale": "δόξα → 'พระเกียρติ' (corpus baseline; the longer 'พระเกียρติสิρι' from 2 Co 1:20 reserved for divine-glory-radiance-moments). Here the Mosaic-glory in the natural pattern. Will recur 8x in this chapter — locking 'พระเกียρติ' as the primary Thai for δόξα-cluster in chs 3-4." },
-        { "greek": "μὴ δύνασθαι ἀτενίσαι τοὺς υἱοὺς Ἰσραήλ", "thai": "ลูกหลานอิสราเอลไม่สามารถเพ่งดูได้", "rationale": "Hebraic-idiom υἱοὶ Ἰσραήλ 'sons of Israel' = the Israelite people. Thai 'ลูกหลานอิสραเอล' preserves the family-idiom (= 'descendants of Israel') natural Thai-Christian usage. Ἰσραήλ → 'อิสรαเอล' (corpus lock from Acts 1:6, 4:27, 5:21). ἀτενίζω → 'เพ่งดู' (corpus from Acts 1:10 'จ้องมอง'; here with Mosaic-veil context the more focused 'เพ่งดู' fits)." },
-        { "greek": "διὰ τὴν δόξαν ... τὴν καταργουμένην", "thai": "เพราะพระเกียρติ ... ที่กำลังเสื่อมไป", "rationale": "καταργέω present-passive participle 'being-rendered-inoperative / fading-away' (uW: 'fleeting-glory' BSB). Thai 'กำลังเสื่อมไป' captures the present-progressive-fading. Different sense from 1 Co 1:28 'ทำให้เป็นโมฆะ' (active-decisive-nullification by God) — here the gradual-temporal-fading. RECURS at vv.11, 13, 14 — same Thai for consistency in chapter." }
+        {
+          "greek": "ἡ διακονία τοῦ θανάτου ἐν γράμμασιν ἐντετυπωμένη λίθοις",
+          "thai": "พันธกิจแห่งความตายซึ่งจารึกด้วยตัวอักษรบนแผ่นศิลา",
+          "rationale": "διακονία (NT freq=34) here in PAULINE-MINISTRY-OFFICE sense (different from 1 Co 12:5's 'การรับใช้' in spiritual-gift sense) → 'พันธกิจ.' MULTI-SENSE LEMMA documented per RULES §4: διακονία = 'การรับใช้' (1 Co 12:5 helper-gift) vs 'พันธกิจ' (2 Co 3-7 apostolic-office). Thai 'พันธกิจ' standard for apostolic-mission-office. ἐντυπόω = NT-HAPAX (freq=1) 'engrave-into / chisel-in' — Thai 'จารึก' (matches v.2-3 ἐγγράφω → 'จารึก'; cognate-cluster preserved). λίθος → 'ศิลา' (consistency with v.3 'แผ่นศิลา')."
+        },
+        {
+          "greek": "ἐγενήθη ἐν δόξῃ",
+          "thai": "ได้บังเกิดมาด้วยพระเกียรติ",
+          "rationale": "δόξα → 'พระเกียรติ' (corpus baseline; the longer 'พระเกียรติสิรι' from 2 Co 1:20 reserved for divine-glory-radiance-moments). Here the Mosaic-glory in the natural pattern. Will recur 8x in this chapter — locking 'พระเกียรติ' as the primary Thai for δόξα-cluster in chs 3-4."
+        },
+        {
+          "greek": "μὴ δύνασθαι ἀτενίσαι τοὺς υἱοὺς Ἰσραήλ",
+          "thai": "ลูกหลานอิสราเอลไม่สามารถเพ่งดูได้",
+          "rationale": "Hebraic-idiom υἱοὶ Ἰσραήλ 'sons of Israel' = the Israelite people. Thai 'ลูกหลานอิสราเอล' preserves the family-idiom (= 'descendants of Israel') natural Thai-Christian usage. Ἰσραήλ → 'อิสราเอล' (corpus lock from Acts 1:6, 4:27, 5:21). ἀτενίζω → 'เพ่งดู' (corpus from Acts 1:10 'จ้องมอง'; here with Mosaic-veil context the more focused 'เพ่งดู' fits)."
+        },
+        {
+          "greek": "διὰ τὴν δόξαν ... τὴν καταργουμένην",
+          "thai": "เพราะพระเกียรติ ... ที่กำลังเสื่อมไป",
+          "rationale": "καταργέω present-passive participle 'being-rendered-inoperative / fading-away' (uW: 'fleeting-glory' BSB). Thai 'กำลังเสื่อมไป' captures the present-progressive-fading. Different sense from 1 Co 1:28 'ทำให้เป็นโมฆะ' (active-decisive-nullification by God) — here the gradual-temporal-fading. RECURS at vv.11, 13, 14 — same Thai for consistency in chapter."
+        }
       ],
-      "notes": "ἐντυπόω = NT HAPAX. OT ALLUSION: Exodus 34:29-35 (Moses' face shining + veil) — added to nt_ot_citations.json. διακονία MULTI-SENSE noted: 'การรับใช้' (1 Co 12:5) vs 'พันθกิจ' (2 Co 3-7) — context-distinguished per RULES §4. 'ทρง' applied: see v.3-4 (divine subject) and v.8-9 (where pattern continues)."
+      "notes": "ἐντυπόω = NT HAPAX. OT ALLUSION: Exodus 34:29-35 (Moses' face shining + veil) — added to nt_ot_citations.json. διακονία MULTI-SENSE noted: 'การรับใช้' (1 Co 12:5) vs 'พันธกิจ' (2 Co 3-7) — context-distinguished per RULES §4. 'ทรง' applied: see v.3-4 (divine subject) and v.8-9 (where pattern continues)."
     }
   },
   {
@@ -132,7 +201,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "πῶς οὐχὶ μᾶλλον ἡ διακονία τοῦ πνεύματος ἔσται ἐν δόξῃ", "thai": "พันธกิจแห่งพระวิญญาณจะไม่ยิ่งบังเกิดด้วยพระเกียρติมากกว่านั้นหρือ", "rationale": "Pauline a-fortiori 'how-not-more' = strong rhetorical-affirmative. Thai 'จะไม่ยิ่ง...มากกว่านั้นหρือ' preserves the 'will-it-not-even-more' force (rhetorical question expecting 'yes, even more' answer). διακονία τοῦ πνεύματος → 'พันธกิจแห่งพระวิญญαณ' (consistency with v.7 lock + Spirit-glossary)." }
+        {
+          "greek": "πῶς οὐχὶ μᾶλλον ἡ διακονία τοῦ πνεύματος ἔσται ἐν δόξῃ",
+          "thai": "พันธกิจแห่งพระวิญญาณจะไม่ยิ่งบังเกิดด้วยพระเกียรติมากกว่านั้นหรือ",
+          "rationale": "Pauline a-fortiori 'how-not-more' = strong rhetorical-affirmative. Thai 'จะไม่ยิ่ง...มากกว่านั้นหรือ' preserves the 'will-it-not-even-more' force (rhetorical question expecting 'yes, even more' answer). διακονία τοῦ πνεύματος → 'พันธกิจแห่งพระวิญญาณ' (consistency with v.7 lock + Spirit-glossary)."
+        }
       ],
       "notes": null
     }
@@ -148,8 +221,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "διακονίᾳ τῆς κατακρίσεως", "thai": "พันธกิจแห่งการพิพακษαลงโทษ", "rationale": "κατάκρισις (NT freq=2 — both in 2 Co: 3:9, 7:3) cognate of κατακρίνω 'condemn' / κρίσις 'judgment.' Thai 'การพิพากษาลงโทษ' captures the judicial-condemnatory force — the διακονία of the Mosaic Law functioned to PRONOUNCE the death-sentence on sinners. Distinct from κατάκριμα 'condemnation-as-result' (Rom 5:16, 8:1)." },
-        { "greek": "διακονία τῆς δικαιοσύνης δόξῃ", "thai": "พันθกิจแห่งความชอบธρρมก็ยิ่งเปี่ยมล้นด้วยพระเกียρติ", "rationale": "δικαιοσύνη → 'ความชอบธρρม' (corpus lock from Acts 10:35, 13:10). PAULINE-DOCTRINAL-CORE: ministry of new-covenant produces righteousness in believers (vs Mosaic ministry which condemned). περισσεύει 'overflows' (cf 2 Co 1:5 'ล้นเหลือมาถึง') — Thai 'เปี่ยมล้น' captures the overflowing-glory force; 'ยิ่ง...มากกว่านั้นเป็นอย่างยิ่ง' for πολλῷ μᾶλλον (= 'much more / by-much-more')." }
+        {
+          "greek": "διακονίᾳ τῆς κατακρίσεως",
+          "thai": "พันธกิจแห่งการพิพาκษาลงโทษ",
+          "rationale": "κατάκρισις (NT freq=2 — both in 2 Co: 3:9, 7:3) cognate of κατακρίνω 'condemn' / κρίσις 'judgment.' Thai 'การพิพากษาลงโทษ' captures the judicial-condemnatory force — the διακονία of the Mosaic Law functioned to PRONOUNCE the death-sentence on sinners. Distinct from κατάκριμα 'condemnation-as-result' (Rom 5:16, 8:1)."
+        },
+        {
+          "greek": "διακονία τῆς δικαιοσύνης δόξῃ",
+          "thai": "พันธกิจแห่งความชอบธรรมก็ยิ่งเปี่ยมล้นด้วยพระเกียรติ",
+          "rationale": "δικαιοσύνη → 'ความชอบธรรม' (corpus lock from Acts 10:35, 13:10). PAULINE-DOCTRINAL-CORE: ministry of new-covenant produces righteousness in believers (vs Mosaic ministry which condemned). περισσεύει 'overflows' (cf 2 Co 1:5 'ล้นเหลือมาถึง') — Thai 'เปี่ยมล้น' captures the overflowing-glory force; 'ยิ่ง...มากกว่านั้นเป็นอย่างยิ่ง' for πολλῷ μᾶλλον (= 'much more / by-much-more')."
+        }
       ],
       "notes": "Pauline-righteousness-doctrine inception in this letter (will be developed in chs 5:21, 9:9). κατάκρισις = NT freq=2."
     }
@@ -165,8 +246,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "οὐ δεδόξασται τὸ δεδοξασμένον", "thai": "สิ่งที่เคยได้รับพระเกียρติแล้ว ก็ไม่ถือว่ามีพระเกียρติเลย", "rationale": "Greek wordplay δοξάζω perfect-active negated + perfect-passive substantival ('the-having-been-glorified is-not-glorified') — Pauline-rhetorical-paradox. Thai preserves wordplay-impression with cognate-noun + verb 'ได้รับพระเกียρติ ... ไม่ถือว่ามีพระเกียρติ.' 'ในกρณีนี้' for ἐν τούτῳ τῷ μέρει = 'in this case / in this respect.' εἵνεκεν → 'เพราะ' (causation)." },
-        { "greek": "τῆς ὑπερβαλλούσης δόξης", "thai": "พระเกียρติอันยิ่งใหญ่ที่เกินกว่านั้น", "rationale": "ὑπερβάλλω present-active-participle 'surpassing / exceeding' (NT freq=5, all Pauline). Thai 'อันยิ่งใหญ่ที่เกินกว่า' captures the comparative-superior sense. Will recur at 4:7, 4:17, 9:14, Eph — locking 'อันยิ่งใหญ่...เกินกว่า' template for ὑπερβάλλω family." }
+        {
+          "greek": "οὐ δεδόξασται τὸ δεδοξασμένον",
+          "thai": "สิ่งที่เคยได้รับพระเกียรติแล้ว ก็ไม่ถือว่ามีพระเกียรติเลย",
+          "rationale": "Greek wordplay δοξάζω perfect-active negated + perfect-passive substantival ('the-having-been-glorified is-not-glorified') — Pauline-rhetorical-paradox. Thai preserves wordplay-impression with cognate-noun + verb 'ได้รับพระเกียรติ ... ไม่ถือว่ามีพระเกียรติ.' 'ในกรณีนี้' for ἐν τούτῳ τῷ μέρει = 'in this case / in this respect.' εἵνεκεν → 'เพราะ' (causation)."
+        },
+        {
+          "greek": "τῆς ὑπερβαλλούσης δόξης",
+          "thai": "พระเกียรติอันยิ่งใหญ่ที่เกินกว่านั้น",
+          "rationale": "ὑπερβάλλω present-active-participle 'surpassing / exceeding' (NT freq=5, all Pauline). Thai 'อันยิ่งใหญ่ที่เกินกว่า' captures the comparative-superior sense. Will recur at 4:7, 4:17, 9:14, Eph — locking 'อันยิ่งใหญ่...เกินกว่า' template for ὑπερβάλλω family."
+        }
       ],
       "notes": null
     }
@@ -182,7 +271,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "τὸ καταργούμενον ... τὸ μένον", "thai": "สิ่งที่กำลังเสื่อมไป ... สิ่งที่ดำρงอยู่", "rationale": "Antithesis between transient-καταργούμενον (Mosaic ministry) and permanent-μένον (new-covenant ministry). καταργέω → 'กำลังเสื่อมไป' (consistency with v.7 lock). μένω → 'ดำρงอยู่' (= 'remain / endure / abide') — Pauline-permanence-vocabulary, lock for future 1 Co 13:13 / 2 Co 9:9." }
+        {
+          "greek": "τὸ καταργούμενον ... τὸ μένον",
+          "thai": "สิ่งที่กำลังเสื่อมไป ... สิ่งที่ดำรงอยู่",
+          "rationale": "Antithesis between transient-καταργούμενον (Mosaic ministry) and permanent-μένον (new-covenant ministry). καταργέω → 'กำลังเสื่อมไป' (consistency with v.7 lock). μένω → 'ดำรงอยู่' (= 'remain / endure / abide') — Pauline-permanence-vocabulary, lock for future 1 Co 13:13 / 2 Co 9:9."
+        }
       ],
       "notes": null
     }
@@ -198,7 +291,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "πολλῇ παρρησίᾳ χρώμεθα", "thai": "เราจึงประกαศด้วยความกล้าหาญอย่างยิ่ง", "rationale": "παρρησία → 'ความกล้าหาญ' (corpus lock from 1 Th 2:2, Acts 2:29, 1 Tim 3:13). Greek παρρησία classically = 'frank-speech / boldness-in-public-speaking' — applied to apostolic-proclamation. Thai 'ประกαศด้วยความกล้าหาญ' (= 'proclaim-with-boldness') makes the proclamation-context explicit per Pauline-usage. πολλῇ → 'อย่างยิ่ง' (intensifier)." }
+        {
+          "greek": "πολλῇ παρρησίᾳ χρώμεθα",
+          "thai": "เราจึงประกาศด้วยความกล้าหาญอย่างยิ่ง",
+          "rationale": "παρρησία → 'ความกล้าหาญ' (corpus lock from 1 Th 2:2, Acts 2:29, 1 Tim 3:13). Greek παρρησία classically = 'frank-speech / boldness-in-public-speaking' — applied to apostolic-proclamation. Thai 'ประกาศด้วยความกล้าหาญ' (= 'proclaim-with-boldness') makes the proclamation-context explicit per Pauline-usage. πολλῇ → 'อย่างยิ่ง' (intensifier)."
+        }
       ],
       "notes": null
     }
@@ -214,8 +311,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "κάλυμμα ἐπὶ τὸ πρόσωπον αὐτοῦ", "thai": "ผ้าคลุมพระพักตρ์ของท่าν", "rationale": "κάλυμμα (NT freq=4 — all in this chapter cluster vv.13-16) — Greek 'covering / veil.' Thai 'ผ้าคลุม' (= 'cover-cloth') natural Thai. NEW LOCK for 2 Co 3 cluster. πρόσωπον here is Moses' face — uses 'พระพักτρ์' royal-honorific because Moses is a prophet-of-YHWH (cf Mark 9:4 lock 'โมเสส' as honored prophet). Thai 'พระพักτρ์' for prophet-honorific consistent with Mark/Luke." },
-        { "greek": "εἰς τὸ τέλος τοῦ καταργουμένου", "thai": "จุดสิ้นสุดของสิ่งที่กำลังเสื่อมไป", "rationale": "τέλος → 'จุดสิ้นสุด' (here concrete-end-point sense; corpus elsewhere 'ที่สุด' for completive sense). Per uW figs-explicit: 'end' = the final-fading-out-point of Mosaic-glory. καταργέω consistent with vv.7, 11." }
+        {
+          "greek": "κάλυμμα ἐπὶ τὸ πρόσωπον αὐτοῦ",
+          "thai": "ผ้าคลุมพระพักตร์ของท่าน",
+          "rationale": "κάλυμμα (NT freq=4 — all in this chapter cluster vv.13-16) — Greek 'covering / veil.' Thai 'ผ้าคลุม' (= 'cover-cloth') natural Thai. NEW LOCK for 2 Co 3 cluster. πρόσωπον here is Moses' face — uses 'พระพักτร์' royal-honorific because Moses is a prophet-of-YHWH (cf Mark 9:4 lock 'โมเสส' as honored prophet). Thai 'พระพักτร์' for prophet-honorific consistent with Mark/Luke."
+        },
+        {
+          "greek": "εἰς τὸ τέλος τοῦ καταργουμένου",
+          "thai": "จุดสิ้นสุดของสิ่งที่กำลังเสื่อมไป",
+          "rationale": "τέλος → 'จุดสิ้นสุด' (here concrete-end-point sense; corpus elsewhere 'ที่สุด' for completive sense). Per uW figs-explicit: 'end' = the final-fading-out-point of Mosaic-glory. καταργέω consistent with vv.7, 11."
+        }
       ],
       "notes": "Exodus 34:33-35 reference (Moses veiling face after speaking with YHWH) — added to nt_ot_citations.json."
     }
@@ -231,11 +336,23 @@
       "thai_literal": null,
       "thai_summary": "ข้อ 14-16 เปาโลใช้เรื่องผ้าคลุมหน้าของโมเสสเป็นภาพเปรียบเทียบสำหรับชาวยิวในสมัยของท่าน — เมื่ออ่านพันธสัญญาเดิม (โดยเฉพาะหนังสือของโมเสส) มีผ้าคลุมอยู่บนใจของพวกเขาที่บังไม่ให้เห็นว่าทุกสิ่งชี้มาที่พระคริสต์ ผ้าคลุมนี้จะถูกถอดออกเฉพาะเมื่อหันใจมาหาองค์พระผู้เป็นเจ้าผ่านทางความเชื่อในพระเยซูคริสต์",
       "key_decisions": [
-        { "greek": "ἐπωρώθη τὰ νοήματα αὐτῶν", "thai": "จิตใจของพวกเขαแข็งกระด้าง", "rationale": "πωρόω (NT freq=5) → 'แข็งกระด้าง' (corpus lock from Mark 3:5 'ใจที่แข็งกระด้าง', Mark 6:52 'แข็งกρะด้าง'). νόημα here in MIND-context (different sense from 2 Co 2:11's Satan-scheme = 'กลอุβาย'). MULTI-SENSE LEMMA per RULES §4: νόημα-DEFAULT → 'จิตใจ' / 'ความคิด' (mind/thought); νόημα-IN-SATAN-CONTEXT → 'กลอุβาย' (2 Co 2:11). 'จิตใจ' fits πωρόω-hardening collocation (heart/mind hardness)." },
-        { "greek": "τῇ ἀναγνώσει τῆς παλαιᾶς διαθήκης", "thai": "ในขณะอ่านพันธสัญญαเดิม", "rationale": "ἀνάγνωσις (NT freq=3) → 'การอ่าน' / 'ในขณะอ่าน' (verbal-noun-of-action). παλαιὰ διαθήκη — TECHNICAL TERM for Old Testament/Hebrew-Bible-as-document — Thai 'พันธสัญญαเดิม' (= 'old covenant') corpus lock. THIS IS THE ONLY NT-OCCURRENCE of 'old covenant' as nominal-phrase (διαθήκη corpus + παλαιά corpus from 1 Co 5:7-8). Pauline-canon-recognition for the Hebrew-scriptures." },
-        { "greek": "μένει μὴ ἀνακαλυπτόμενον, ὅτι ἐν Χριστῷ καταργεῖται", "thai": "ก็ยังคงอยู่...โดยไม่ถูกเปิดออก เพราะในพระคρισต์เท่านั้นที่ผ้าคลุมจะถูกขจัดออกไป", "rationale": "ἀνακαλύπτω (NT freq=2 — both this chapter) = 'unveil / uncover.' καταργεῖται present-passive = 'is-being-rendered-inoperative / is-removed.' Thai 'ถูกเปิดออก' for ἀνακαλύπτω; 'ถูกขจัดออกไป' for καταργεῖται (different from Mosaic-glory's 'กำลังเสื่อมไป' — here the veil is REMOVED-by-action-of-Christ, not slow-fading). Subject of καταργεῖται ambiguous: per uW could be (1) the veil OR (2) the old-covenant — most likely (1) the veil, paralleling v.16's 'veil-removed-when-turning-to-Lord.'" }
+        {
+          "greek": "ἐπωρώθη τὰ νοήματα αὐτῶν",
+          "thai": "จิตใจของพวกเขาแข็งกระด้าง",
+          "rationale": "πωρόω (NT freq=5) → 'แข็งกระด้าง' (corpus lock from Mark 3:5 'ใจที่แข็งกระด้าง', Mark 6:52 'แข็งกระด้าง'). νόημα here in MIND-context (different sense from 2 Co 2:11's Satan-scheme = 'กลอุบาย'). MULTI-SENSE LEMMA per RULES §4: νόημα-DEFAULT → 'จิตใจ' / 'ความคิด' (mind/thought); νόημα-IN-SATAN-CONTEXT → 'กลอุบาย' (2 Co 2:11). 'จิตใจ' fits πωρόω-hardening collocation (heart/mind hardness)."
+        },
+        {
+          "greek": "τῇ ἀναγνώσει τῆς παλαιᾶς διαθήκης",
+          "thai": "ในขณะอ่านพันธสัญญาเดิม",
+          "rationale": "ἀνάγνωσις (NT freq=3) → 'การอ่าน' / 'ในขณะอ่าน' (verbal-noun-of-action). παλαιὰ διαθήκη — TECHNICAL TERM for Old Testament/Hebrew-Bible-as-document — Thai 'พันธสัญญาเดิม' (= 'old covenant') corpus lock. THIS IS THE ONLY NT-OCCURRENCE of 'old covenant' as nominal-phrase (διαθήκη corpus + παλαιά corpus from 1 Co 5:7-8). Pauline-canon-recognition for the Hebrew-scriptures."
+        },
+        {
+          "greek": "μένει μὴ ἀνακαλυπτόμενον, ὅτι ἐν Χριστῷ καταργεῖται",
+          "thai": "ก็ยังคงอยู่...โดยไม่ถูกเปิดออก เพราะในพระครισต์เท่านั้นที่ผ้าคลุมจะถูกขจัดออกไป",
+          "rationale": "ἀνακαλύπτω (NT freq=2 — both this chapter) = 'unveil / uncover.' καταργεῖται present-passive = 'is-being-rendered-inoperative / is-removed.' Thai 'ถูกเปิดออก' for ἀνακαλύπτω; 'ถูกขจัดออกไป' for καταργεῖται (different from Mosaic-glory's 'กำลังเสื่อมไป' — here the veil is REMOVED-by-action-of-Christ, not slow-fading). Subject of καταργεῖται ambiguous: per uW could be (1) the veil OR (2) the old-covenant — most likely (1) the veil, paralleling v.16's 'veil-removed-when-turning-to-Lord.'"
+        }
       ],
-      "notes": "νόημα MULTI-SENSE: default 'จิตใจ/ความคิด' (mind), 2 Co 2:11 contextual variant 'กลอุβาย' (Satan-scheme). 'พันธสัญญαเดิม' = 'old covenant' = Pauline canon-term for Hebrew-Bible — hapax-as-nominal-phrase in NT."
+      "notes": "νόημα MULTI-SENSE: default 'จิตใจ/ความคิด' (mind), 2 Co 2:11 contextual variant 'กลอุบาย' (Satan-scheme). 'พันธสัญญาเดิม' = 'old covenant' = Pauline canon-term for Hebrew-Bible — hapax-as-nominal-phrase in NT."
     }
   },
   {
@@ -249,7 +366,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἡνίκα ἂν ἀναγινώσκηται Μωϋσῆς", "thai": "เมื่อใดที่อ่านโมเสส", "rationale": "ἡνίκα (NT freq=2 — both this chapter) + ἄν = 'whenever / as-often-as.' Thai 'เมื่อใดที่' captures the indefinite-temporal-recurrent. 'อ่านโมเสส' = synecdoche for reading-the-Pentateuch (uW: 'when Moses is read' = 'when the Torah is publicly read in synagogue'). Thai-Christian audience would recognize 'โมเสส' as standing-in-for the Mosaic-books." }
+        {
+          "greek": "ἡνίκα ἂν ἀναγινώσκηται Μωϋσῆς",
+          "thai": "เมื่อใดที่อ่านโมเสส",
+          "rationale": "ἡνίκα (NT freq=2 — both this chapter) + ἄν = 'whenever / as-often-as.' Thai 'เมื่อใดที่' captures the indefinite-temporal-recurrent. 'อ่านโมเสส' = synecdoche for reading-the-Pentateuch (uW: 'when Moses is read' = 'when the Torah is publicly read in synagogue'). Thai-Christian audience would recognize 'โมเสส' as standing-in-for the Mosaic-books."
+        }
       ],
       "notes": null
     }
@@ -265,8 +386,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἐὰν ἐπιστρέψῃ πρὸς κύριον", "thai": "ผู้นั้นหันกลับมาหาองค์พระผู้เป็นเจ้α", "rationale": "ἐπιστρέφω → 'หันกลับ' (towards-the-Lord sense; cf Acts 26:20 'กลับใจมาหาพระเจ้α'). Thai 'หันกลับมาหา' = 'turn-back-and-come-to' captures the conversion-direction. ECHO of Exod 34:34 (LXX): ἡνίκα δ' ἂν εἰσεπορεύετο Μωϋσῆς ἔναντι κυρίου = 'whenever Moses went-in before the Lord' (Moses-took-off-veil when going to YHWH). Pauline-application: ALL believers-in-Christ now have the Mosaic-prerogative." },
-        { "greek": "περιαιρεῖται τὸ κάλυμμα", "thai": "ผ้าคลุมก็ถูกถอดออก", "rationale": "περιαιρέω (NT freq=5) = 'take-around-and-off / strip-away.' Thai 'ถอดออก' (= 'take off / remove') natural for cloth-removal. Passive present 'is-being-removed' — ongoing Spirit-action when conversion happens." }
+        {
+          "greek": "ἐὰν ἐπιστρέψῃ πρὸς κύριον",
+          "thai": "ผู้นั้นหันกลับมาหาองค์พระผู้เป็นเจ้า",
+          "rationale": "ἐπιστρέφω → 'หันกลับ' (towards-the-Lord sense; cf Acts 26:20 'กลับใจมาหาพระเจ้า'). Thai 'หันกลับมาหา' = 'turn-back-and-come-to' captures the conversion-direction. ECHO of Exod 34:34 (LXX): ἡνίκα δ' ἂν εἰσεπορεύετο Μωϋσῆς ἔναντι κυρίου = 'whenever Moses went-in before the Lord' (Moses-took-off-veil when going to YHWH). Pauline-application: ALL believers-in-Christ now have the Mosaic-prerogative."
+        },
+        {
+          "greek": "περιαιρεῖται τὸ κάλυμμα",
+          "thai": "ผ้าคลุมก็ถูกถอดออก",
+          "rationale": "περιαιρέω (NT freq=5) = 'take-around-and-off / strip-away.' Thai 'ถอดออก' (= 'take off / remove') natural for cloth-removal. Passive present 'is-being-removed' — ongoing Spirit-action when conversion happens."
+        }
       ],
       "notes": "OT ALLUSION: Exodus 34:34 (Moses removed veil when going before YHWH) — added to nt_ot_citations.json. Pauline-application: turning-to-the-Lord-Jesus enacts the Mosaic-prerogative."
     }
@@ -282,8 +411,16 @@
       "thai_literal": null,
       "thai_summary": "ข้อ 17 เปาโลระบุว่าองค์พระผู้เป็นเจ้า (κύριος ที่อ้างถึงในอพยพ 34) นั้นคือพระวิญญาณบริสุทธิ์ของพันธสัญญาใหม่ — ไม่ใช่การยกเลิกความเป็นเอกภาพของพระตรีเอกภาพ แต่เพราะการกระทำของพระวิญญาณบริสุทธิ์ในใจของผู้เชื่อคือการกระทำขององค์พระผู้เป็นเจ้าเอง ที่นี่ ‘เสรีภาพ’ (ἐλευθερία) เป็นความเป็นไทจากการพิพากษาลงโทษของธรรมบัญญัติและการครอบงำของบาป (เปรียบเทียบ กาลาเทีย 5:1, 13)",
       "key_decisions": [
-        { "greek": "ὁ δὲ κύριος τὸ πνεῦμά ἐστιν", "thai": "องค์พระผู้เป็นเจ้านั้นคือพระวิญญาณ", "rationale": "Pauline-binitarian-pneumatology: identifies the κύριος of the Exod 34 narrative (= YHWH) functionally with the Spirit. Not modalistic-collapse — Pauline-theology is consistently Trinitarian (cf 13:14). Thai 'องค์พระผู้เป็นเจ้า...คือพระวิญญαณ' preserves the identification literally. Thai-readers familiar with Trinitarian-formulation (cf 1 Co 12:4-6) won't read modalistically." },
-        { "greek": "οὗ δὲ τὸ πνεῦμα κυρίου, ἐλευθερία", "thai": "ในที่ใดที่พระวิญญαณขององค์พระผู้เป็นเจ้αทρงสถิตอยู่ ที่นั่นก็มีเสริภาπ", "rationale": "οὗ adverb-relative 'where' — Thai 'ในที่ใดที่...ที่นั่น' captures the locative-correlative. Greek elliptical (no copula); Thai supplies 'ทρงสถิตอยู่' (= 'dwells / abides') for naturalness. ἐλευθερία → 'เสรีภาπ' (corpus lock from Gal 2:4, 5:1, 5:13). Pauline-freedom-doctrine: freedom from condemnation (Rom 8:1) + freedom from sin's dominion (Rom 6) + freedom-of-access to the Father." }
+        {
+          "greek": "ὁ δὲ κύριος τὸ πνεῦμά ἐστιν",
+          "thai": "องค์พระผู้เป็นเจ้านั้นคือพระวิญญาณ",
+          "rationale": "Pauline-binitarian-pneumatology: identifies the κύριος of the Exod 34 narrative (= YHWH) functionally with the Spirit. Not modalistic-collapse — Pauline-theology is consistently Trinitarian (cf 13:14). Thai 'องค์พระผู้เป็นเจ้า...คือพระวิญญาณ' preserves the identification literally. Thai-readers familiar with Trinitarian-formulation (cf 1 Co 12:4-6) won't read modalistically."
+        },
+        {
+          "greek": "οὗ δὲ τὸ πνεῦμα κυρίου, ἐλευθερία",
+          "thai": "ในที่ใดที่พระวิญญาณขององค์พระผู้เป็นเจ้าทรงสถิตอยู่ ที่นั่นก็มีเสริภาπ",
+          "rationale": "οὗ adverb-relative 'where' — Thai 'ในที่ใดที่...ที่นั่น' captures the locative-correlative. Greek elliptical (no copula); Thai supplies 'ทรงสถิตอยู่' (= 'dwells / abides') for naturalness. ἐλευθερία → 'เสรีภาπ' (corpus lock from Gal 2:4, 5:1, 5:13). Pauline-freedom-doctrine: freedom from condemnation (Rom 8:1) + freedom from sin's dominion (Rom 6) + freedom-of-access to the Father."
+        }
       ],
       "notes": "Pauline-pneumatology condensed: the LORD = the Spirit (functional-identification, not modalistic-collapse). ἐλευθερία cluster: Gal 5:1, 5:13, 2 Co 3:17, Rom 8:21 — Pauline-freedom-doctrine."
     }
@@ -299,11 +436,31 @@
       "thai_literal": null,
       "thai_summary": "ข้อ 18 เป็นคำสรุปของบทที่ 3 และเป็นข้อพระคัมภีร์สำคัญเรื่องการชำระให้บริสุทธิ์อย่างต่อเนื่อง — เมื่อผู้เชื่อมองดูพระเกียรติของพระเจ้าในพระคริสต์ (เหมือนการสะท้อนในกระจก ไม่ใช่การเห็นโดยตรง) พระวิญญาณบริสุทธิ์ก็ทรงเปลี่ยนแปลงพวกเขาทีละน้อยให้เป็นพระฉายาของพระคริสต์ คำว่า ‘จากพระเกียรติสู่พระเกียรติ’ บ่งชี้ความก้าวหน้าทางจิตวิญญาณตลอดชีวิต — เป็นพระราชกิจของพระเจ้า ไม่ใช่ความพยายามของมนุษย์",
       "key_decisions": [
-        { "greek": "ἀνακεκαλυμμένῳ προσώπῳ", "thai": "ด้วยใบหน้าที่ไม่มีผ้าคลุม", "rationale": "ἀνακαλύπτω perfect-passive-participle 'having-been-unveiled' (cognate of κάλυμμα 'veil' v.13-16). Thai 'ใบหน้าที่ไม่มีผ้าคลุม' (= 'face-without-cover') preserves the unveiling-imagery. πρόσωπον here is the human-believer's face (not Moses' or Christ's — 'us all') so 'ใบหน้า' (ordinary) not 'พระพักτρ์' (royal). Contrast with v.13's Mosaic-veiled-face — antithesis preserved." },
-        { "greek": "τὴν δόξαν κυρίου κατοπτριζόμενοι", "thai": "ขณะที่เραมองดูพระเกียρติขององค์พระผู้เป็นเจ้αเหมือนสะท้อนในกระจก", "rationale": "κατοπτρίζομαι = NT-HAPAX (freq=1, only here). Greek-middle-voice from κάτοπτρον 'mirror' — two readings (BSB takes 'reflect-as-mirror'; NRSV/NIV take 'see-as-in-mirror'). The MIDDLE-VOICE typically denotes 'have-something-done-to-oneself / view-for-oneself' — favors 'beholding-in-mirror' reading. Per uW + evangelical-conservative-tradition (RULES §0): the believer BEHOLDS the glory of the Lord (as-it-is-mediated through the gospel-mirror, cf 1 Cor 13:12 'see in a mirror') and is transformed by Spirit. Thai 'มองดู...เหมือนสะท้อนในกระจก' captures the mirror-mediated-vision interpretation while leaving the MORROR-of-Christ-in-gospel implicit." },
-        { "greek": "τὴν αὐτὴν εἰκόνα μεταμορφούμεθα", "thai": "กำลังถูกเปลี่ยนแปลงให้เป็นพระฉายาเดียวกันนั้น", "rationale": "εἰκών → 'พระฉายา' (corpus lock from 1 Co 15:49 'พระฉายา'). 'Same image' = the image of Christ (uW Pauline-typology — Christ is the image of God 4:4; we are conformed to Christ's image Rom 8:29). μεταμορφόομαι present-PASSIVE 'are-being-transformed' — Mark 9:2 used active-with-ทρง for Christ's transfiguration ('ทρงเปลี่ยนไป'); here PASSIVE-by-Spirit, not by-believer's-effort, so Thai 'ถูกเปลี่ยนแปลง' (passive form, no ทρง — believer is patient-not-agent of transformation). Progressive-aspect 'กำลัง' captures present-ongoing-sanctification." },
-        { "greek": "ἀπὸ δόξης εἰς δόξαν", "thai": "จากพระเกียρติสู่พระเกียρติ", "rationale": "Pauline-sanctification-formula 'from glory to glory' = progressive-stages-of-glory; could mean (1) from-Old-Cov-glory to New-Cov-glory, or (2) from-one-degree-to-greater-degree of believer's glory. Thai 'จากพระเกียρติสู่พระเκียρติ' literal preserves the ambiguity. Anaphoric to 8x δόξα-cluster in chapter." },
-        { "greek": "καθάπερ ἀπὸ κυρίου πνεύματος", "thai": "ตามที่มาจากองค์พระผู้เป็นเจ้αผู้ทρงเป็นพระวิญญαณ", "rationale": "καθάπερ 'just-as / according-as' — Thai 'ตามที่' formal-pattern. ἀπὸ κυρίου πνεύματος ambiguous: (a) 'from the Lord [who is] the Spirit' (appositive — echoes v.17), or (b) 'from the Lord-of-Spirit' (genitive-attributive). Thai 'องค์พระผู้เป็นเจ้αผู้ทρงเป็นพระวิญญาณ' favors (a) appositive — most common evangelical-conservative reading and consistent with v.17's identification." }
+        {
+          "greek": "ἀνακεκαλυμμένῳ προσώπῳ",
+          "thai": "ด้วยใบหน้าที่ไม่มีผ้าคลุม",
+          "rationale": "ἀνακαλύπτω perfect-passive-participle 'having-been-unveiled' (cognate of κάλυμμα 'veil' v.13-16). Thai 'ใบหน้าที่ไม่มีผ้าคลุม' (= 'face-without-cover') preserves the unveiling-imagery. πρόσωπον here is the human-believer's face (not Moses' or Christ's — 'us all') so 'ใบหน้า' (ordinary) not 'พระพักτร์' (royal). Contrast with v.13's Mosaic-veiled-face — antithesis preserved."
+        },
+        {
+          "greek": "τὴν δόξαν κυρίου κατοπτριζόμενοι",
+          "thai": "ขณะที่เรามองดูพระเกียรติขององค์พระผู้เป็นเจ้าเหมือนสะท้อนในกระจก",
+          "rationale": "κατοπτρίζομαι = NT-HAPAX (freq=1, only here). Greek-middle-voice from κάτοπτρον 'mirror' — two readings (BSB takes 'reflect-as-mirror'; NRSV/NIV take 'see-as-in-mirror'). The MIDDLE-VOICE typically denotes 'have-something-done-to-oneself / view-for-oneself' — favors 'beholding-in-mirror' reading. Per uW + evangelical-conservative-tradition (RULES §0): the believer BEHOLDS the glory of the Lord (as-it-is-mediated through the gospel-mirror, cf 1 Cor 13:12 'see in a mirror') and is transformed by Spirit. Thai 'มองดู...เหมือนสะท้อนในกระจก' captures the mirror-mediated-vision interpretation while leaving the MORROR-of-Christ-in-gospel implicit."
+        },
+        {
+          "greek": "τὴν αὐτὴν εἰκόνα μεταμορφούμεθα",
+          "thai": "กำลังถูกเปลี่ยนแปลงให้เป็นพระฉายาเดียวกันนั้น",
+          "rationale": "εἰκών → 'พระฉายา' (corpus lock from 1 Co 15:49 'พระฉายา'). 'Same image' = the image of Christ (uW Pauline-typology — Christ is the image of God 4:4; we are conformed to Christ's image Rom 8:29). μεταμορφόομαι present-PASSIVE 'are-being-transformed' — Mark 9:2 used active-with-ทรง for Christ's transfiguration ('ทรงเปลี่ยนไป'); here PASSIVE-by-Spirit, not by-believer's-effort, so Thai 'ถูกเปลี่ยนแปลง' (passive form, no ทรง — believer is patient-not-agent of transformation). Progressive-aspect 'กำลัง' captures present-ongoing-sanctification."
+        },
+        {
+          "greek": "ἀπὸ δόξης εἰς δόξαν",
+          "thai": "จากพระเกียรติสู่พระเกียรติ",
+          "rationale": "Pauline-sanctification-formula 'from glory to glory' = progressive-stages-of-glory; could mean (1) from-Old-Cov-glory to New-Cov-glory, or (2) from-one-degree-to-greater-degree of believer's glory. Thai 'จากพระเกียรติสู่พระเκียรติ' literal preserves the ambiguity. Anaphoric to 8x δόξα-cluster in chapter."
+        },
+        {
+          "greek": "καθάπερ ἀπὸ κυρίου πνεύματος",
+          "thai": "ตามที่มาจากองค์พระผู้เป็นเจ้าผู้ทรงเป็นพระวิญญาณ",
+          "rationale": "καθάπερ 'just-as / according-as' — Thai 'ตามที่' formal-pattern. ἀπὸ κυρίου πνεύματος ambiguous: (a) 'from the Lord [who is] the Spirit' (appositive — echoes v.17), or (b) 'from the Lord-of-Spirit' (genitive-attributive). Thai 'องค์พระผู้เป็นเจ้าผู้ทรงเป็นพระวิญญาณ' favors (a) appositive — most common evangelical-conservative reading and consistent with v.17's identification."
+        }
       ],
       "notes": "κατοπτρίζομαι = NT HAPAX. Pauline-progressive-sanctification climax. Mirror-imagery echoes 1 Cor 13:12 (νῦν βλέπομεν δι’ ἐσόπτρου). εἰκών → 'พระฉายา' (1 Co 15:49 lock); future Rom 8:29 ('conformed to the image of his Son') will use the same."
     }

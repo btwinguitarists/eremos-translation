@@ -2821,7 +2821,7 @@ Six representative Luke chapters follow, compressed format (verse reference, Gre
 - TH-summary: การปรากฏพระองค์แก่ซีโมน (เปโตร) เป็นเหตุการณ์ที่เปาโลกล่าวถึงใน 1 โครินธ์ 15:5 ด้วย ว่าพระเยซูทรงปรากฏแก่ «เคฟาส» (ซีโมนในภาษาอาราเมค) ก่อนอัครทูตสิบสอง — เป็นการปรากฏที่ไม่มีรายละเอียดในพระกิตติคุณเล่มใด แต่ถูกอ้างอิงเพื่อยืนยันว่าเปโตรเป็นพยานเห็นพระองค์โดยตรง
 - Key decisions:
   - ὄντως ἠγέρθη ὁ κύριος → องค์พระผู้เป็นเจ้าทรงเป็นขึ้นแล้วจริง ๆ — uW figs-activepassive: divine-passive ἠγέρθη. ὁ κύριος used by the-disciples for Jesus — post-resurrection-title emerging. Thai องค์พระผู้เป็นเจ้า matches glossary-standard for κύριος when divine-title (RULES §4 pre...
-  - ὤφθη Σίμωνι → ทรงปรากฏแก่ซีโμน — ὁράω aor-pass 'was-seen' = appeared-to (idiomatic-Christophany). Thai ทรงปรากฏแก่ divine-register standard. Σίμων → ซีโมน standard (LUK 4:38 + 5:3-10 + 7:40-44 + 22:31 precedent).
+  - ὤφθη Σίμωνι → ทรงปรากฏแก่ซีโมน — ὁράω aor-pass 'was-seen' = appeared-to (idiomatic-Christophany). Thai ทรงปรากฏแก่ divine-register standard. Σίμων → ซีโมน standard (LUK 4:38 + 5:3-10 + 7:40-44 + 22:31 precedent).
 - Notes: FIRST APPEARANCE TO PETER: mentioned here + at 1 Cor 15:5 ('appeared-to Cephas'). No details recorded in any gospel — private-appearance perhaps to restore Peter after the denial. This appearance preceded the Emmaus-appearance but is reported by the assembled-group AFTER the Emmaus-pair arrive — signaling Peter's-encounter was already common-k...
 
 **Luke 24:35**
@@ -2965,7 +2965,7 @@ Six representative Luke chapters follow, compressed format (verse reference, Gre
 - TH: พระองค์ทรงนำพวกเขาออกไปจนถึงหมู่บ้านเบธานี แล้วทรงยกพระหัตถ์อวยพรพวกเขา
 - TH-summary: การยกมืออวยพรเป็นท่าทีของปุโรหิตในพันธสัญญาเดิม — พระเยซูในฐานะมหาปุโรหิตองค์สุดท้าย (ฮีบรู 7) ทรงจบพันธกิจภาคพื้นโลกด้วยการอวยพรประชาชนของพระเจ้า ดุจเดียวกับอาโรนที่อวยพรอิสราเอลด้วยท่าทีเดียวกัน (กันดารวิถี 6:22-27)
 - Key decisions:
-  - Ἐξήγαγεν & αὐτοὺς ἕως πρὸς Βηθανίαν → พระองค์ทรงนำพวกเขาออกไปจนถึงหมู่บ้านเบธานี — ἐξάγω aor-act-3sg 'led-out.' Divine-register ทรงนำ. Βηθανία → หมู่บ้านเบธανี (with หมู่บ้าน村 for clarity — cf. LUK 19:29, MRK 11:1, MAT 21:17 precedent).
+  - Ἐξήγαγεν & αὐτοὺς ἕως πρὸς Βηθανίαν → พระองค์ทรงนำพวกเขาออกไปจนถึงหมู่บ้านเบธานี — ἐξάγω aor-act-3sg 'led-out.' Divine-register ทรงนำ. Βηθανία → หมู่บ้านเบธานี (with หมู่บ้าน村 for clarity — cf. LUK 19:29, MRK 11:1, MAT 21:17 precedent).
   - ἐπάρας τὰς χεῖρας αὐτοῦ εὐλόγησεν αὐτούς → ทรงยกพระหัตถ์อวยพรพวกเขา — uW translate-symaction: ἐπαίρω + χεῖρας = priestly-blessing-gesture (cf. Num 6:23-27 Aaronic benediction). Divine-register ทรงยกพระหัตถ์ (royal-hand honorific — appropriate here because blessing-gesture is royal-pri...
 - Notes: PRIESTLY-BLESSING-GESTURE: raising-hands-to-bless matches Aaronic-practice (Lev 9:22, Num 6:23-27). Jesus fulfills-the-priestly-role as he departs. Luke is framing the ascension as a temple-closing: the high-priest emerges from the holy-place to bless the people. See Heb 7 (Jesus as priest-forever after the order of Melchizedek). Bethany-locat...
 
@@ -2985,7 +2985,7 @@ Six representative Luke chapters follow, compressed format (verse reference, Gre
 - TH-summary: การนมัสการพระเยซูหลังการเสด็จขึ้นสู่สวรรค์เป็นการแสดงความเชื่อที่พัฒนาอย่างชัดเจน — ก่อนหน้านี้สาวกเคยเรียกพระเยซูว่า «อาจารย์» หรือ «พระเมสสิยาห์» แต่บัดนี้พวกเขากราบนมัสการพระองค์ในฐานะพระเจ้า
 - Key decisions:
   - αὐτοὶ προσκυνήσαντες αὐτὸν → พวกเขากราบนมัสการพระองค์ — προσκυνέω → นมัสการ glossary-standard (LUK 4:7/8 precedent). Thai กราบนมัสการ adds the kneeling-prostration dimension natural for divine-worship-Thai. Object αὐτόν → พระองค์ divine-register pronoun.
-  - ὑπέστρεψαν εἰς Ἰερουσαλὴμ μετὰ χαρᾶς μεγάλης → แล้วกลับไปยังกรุงเยρูซาเล็มด้วยความยินดีอย่างยิ่ง — ὑποστρέφω aor 'returned.' Thai กลับไปยัง natural. uW figs-abstractnouns: μετὰ χαρᾶς μεγάλης 'with great joy.' Thai ด้วยความยินดีอย่างยิ่ง preserves the intensity.
+  - ὑπέστρεψαν εἰς Ἰερουσαλὴμ μετὰ χαρᾶς μεγάλης → แล้วกลับไปยังกรุงเยรูซาเล็มด้วยความยินดีอย่างยิ่ง — ὑποστρέφω aor 'returned.' Thai กลับไปยัง natural. uW figs-abstractnouns: μετὰ χαρᾶς μεγάλης 'with great joy.' Thai ด้วยความยินดีอย่างยิ่ง preserves the intensity.
 - Notes: PROSKYNESIS of CHRIST: the disciples now worship Jesus explicitly (προσκυνέω — typically reserved-for-God in biblical-Greek). This is an implicit-high-Christology in Luke's conclusion. The same disciples who at LUK 9:19 categorized Jesus as 'prophet like Elijah' now worship him. The Lukan narrative-arc completes with apostolic-worship-of-Chris...
 
 **Luke 24:53**

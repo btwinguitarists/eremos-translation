@@ -10,9 +10,21 @@
       "thai_literal": null,
       "thai_summary": "บทที่ 11 เป็นจุดสุดยอดของหมายสำคัญในข่าวประเสริฐยอห์น — หมายสำคัญที่เจ็ดและที่ยิ่งใหญ่ที่สุด: การปลุกลาซารัสจากความตาย เป็นการประกาศที่นำไปสู่ความขัดแย้งสุดท้ายระหว่างพระเยซูและสภาแซนเฮดริน ลาซารัส มารธา และมารีย์ เป็นพี่น้องสามคนจากเบธานี ห่างจากเยรูซาเล็มไม่ถึงสามกิโลเมตร เป็นมิตรสนิทของพระเยซู",
       "key_decisions": [
-        { "greek": "Λάζαρος", "thai": "ลาซารัส", "rationale": "KEY-TERM LOCK: Λάζαρος → ลาซารัส (transliteration; established at LUK 16:20 — the rich-man-and-Lazarus parable, same Thai form for Lazarus the parable-character; this person is distinct but the lock-form carries forward by precedent)." },
-        { "greek": "Βηθανία", "thai": "เบธานี", "rationale": "KEY-TERM LOCK: Βηθανία → เบธานี (cf. JHN 1:28, MRK 11:1, LUK 19:29, 24:50, MAT 21:17, etc.). Standard Christian-Thai transliteration." },
-        { "greek": "Μαρίας καὶ Μάρθας τῆς ἀδελφῆς", "thai": "มารีย์และมารธาพี่สาวของนาง", "rationale": "KEY-TERM LOCKS: Μαρία/Μαριάμ → มารีย์ (LUK 1:27, 30, 10:39); Μάρθα → มารธα (LUK 10:38, 41). Per uW translate-kinship: Martha is older, Lazarus youngest (per the v.5 ordering). Thai 'พี่สาว' (older sister) reflects this birth-order cue, marking Martha's seniority over Mary." }
+        {
+          "greek": "Λάζαρος",
+          "thai": "ลาซารัส",
+          "rationale": "KEY-TERM LOCK: Λάζαρος → ลาซารัส (transliteration; established at LUK 16:20 — the rich-man-and-Lazarus parable, same Thai form for Lazarus the parable-character; this person is distinct but the lock-form carries forward by precedent)."
+        },
+        {
+          "greek": "Βηθανία",
+          "thai": "เบธานี",
+          "rationale": "KEY-TERM LOCK: Βηθανία → เบธานี (cf. JHN 1:28, MRK 11:1, LUK 19:29, 24:50, MAT 21:17, etc.). Standard Christian-Thai transliteration."
+        },
+        {
+          "greek": "Μαρίας καὶ Μάρθας τῆς ἀδελφῆς",
+          "thai": "มารีย์และมารธาพี่สาวของนาง",
+          "rationale": "KEY-TERM LOCKS: Μαρία/Μαριάμ → มารีย์ (LUK 1:27, 30, 10:39); Μάρθα → มารธา (LUK 10:38, 41). Per uW translate-kinship: Martha is older, Lazarus youngest (per the v.5 ordering). Thai 'พี่สาว' (older sister) reflects this birth-order cue, marking Martha's seniority over Mary."
+        }
       ],
       "notes": "Per uW writing-background: vv.1-2 supply background introducing Lazarus as new character. Per uW translate-kinship: the v.5 listing-order (Martha, sister, Lazarus) suggests Martha = oldest, Lazarus = youngest. Thai 'พี่สาว' (older sister) reflects this. Bethany is on the eastern slope of the Mount of Olives, opposite Jerusalem (~2.8 km away — see v.18)."
     }
@@ -28,9 +40,21 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἡ ἀλείψασα τὸν κύριον μύρῳ", "thai": "ผู้ที่ต่อมาได้ชโลมพระวรกายของพระเยซูเจ้าด้วยน้ำมันหอม", "rationale": "Per uW figs-events: this verse anticipates JHN 12:1-8 (the upcoming anointing) — the action has not yet happened narratively but John writes from the post-event perspective as he introduces Mary. Thai 'ผู้ที่ต่อมาได้' (who later did) supplies the future-from-narrative reference for clarity. KEY-TERM LOCK: ἀλείφω → ชโลม (anoint with oil, established Christian-Thai)." },
-        { "greek": "τὸν κύριον", "thai": "พระเยซูเจ้า", "rationale": "Narrator's reference to Jesus as 'the Lord' — Thai 'พระเยซูเจ้า' (Lord-Jesus) preserves the divine-honorific in narrator voice; alternative 'องค์พระผู้เป็นเจ้า' would be slightly higher register reserved for OT-citations and full confessional creed. The narrator-voice intermediate honorific 'พระเยซูเจ้า' fits Johannine narrator style." },
-        { "greek": "ὁ ἀδελφὸς", "thai": "น้องชาย", "rationale": "Per uW translate-kinship: per the v.5 listing-order, Lazarus is younger than Mary (and Martha). Thai 'น้องชาย' (younger brother) reflects this. Distinguishes from the generic 'พี่ชาย' (older brother) which would mis-order the family." }
+        {
+          "greek": "ἡ ἀλείψασα τὸν κύριον μύρῳ",
+          "thai": "ผู้ที่ต่อมาได้ชโลมพระวรกายของพระเยซูเจ้าด้วยน้ำมันหอม",
+          "rationale": "Per uW figs-events: this verse anticipates JHN 12:1-8 (the upcoming anointing) — the action has not yet happened narratively but John writes from the post-event perspective as he introduces Mary. Thai 'ผู้ที่ต่อมาได้' (who later did) supplies the future-from-narrative reference for clarity. KEY-TERM LOCK: ἀλείφω → ชโลม (anoint with oil, established Christian-Thai)."
+        },
+        {
+          "greek": "τὸν κύριον",
+          "thai": "พระเยซูเจ้า",
+          "rationale": "Narrator's reference to Jesus as 'the Lord' — Thai 'พระเยซูเจ้า' (Lord-Jesus) preserves the divine-honorific in narrator voice; alternative 'องค์พระผู้เป็นเจ้า' would be slightly higher register reserved for OT-citations and full confessional creed. The narrator-voice intermediate honorific 'พระเยซูเจ้า' fits Johannine narrator style."
+        },
+        {
+          "greek": "ὁ ἀδελφὸς",
+          "thai": "น้องชาย",
+          "rationale": "Per uW translate-kinship: per the v.5 listing-order, Lazarus is younger than Mary (and Martha). Thai 'น้องชาย' (younger brother) reflects this. Distinguishes from the generic 'พี่ชาย' (older brother) which would mis-order the family."
+        }
       ],
       "notes": "Per uW writing-background + figs-events: parenthetical proleptic reference to JHN 12:1-8. The mention here helps John's readers identify which Mary (this is one of multiple Marys in the gospels). Narrator-voice honorific 'พระเยซูเจ้า' for τὸν κύριον in distinction to direct-speech vocatives."
     }
@@ -46,8 +70,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "Κύριε", "thai": "พระองค์เจ้าข้า", "rationale": "Mary and Martha already know Jesus and are believers (v.27 Martha will confess full faith); their κύριε is the full divine-Lord vocative. Thai 'พระองค์เจ้าข้า' (full divine-vocative) per RULES §3 — same register as JHN 9:38 (the formerly-blind man post-recognition) and the corpus convention for confessing-disciple address." },
-        { "greek": "ὃν φιλεῖς", "thai": "ผู้ที่พระองค์ทรงรัก", "rationale": "Per uW figs-declarative: the sisters use a present statement to make an indirect request — 'the one you love is sick' = 'come heal him.' Thai preserves the indirect form; the request is implicit. Royal ทรง- on the divine love. Note: φιλέω (affection-love) here is distinct from ἀγαπάω (covenantal-love) used at v.5 — but Thai 'รัก' covers both senses; the distinction is documented in notes." }
+        {
+          "greek": "Κύριε",
+          "thai": "พระองค์เจ้าข้า",
+          "rationale": "Mary and Martha already know Jesus and are believers (v.27 Martha will confess full faith); their κύριε is the full divine-Lord vocative. Thai 'พระองค์เจ้าข้า' (full divine-vocative) per RULES §3 — same register as JHN 9:38 (the formerly-blind man post-recognition) and the corpus convention for confessing-disciple address."
+        },
+        {
+          "greek": "ὃν φιλεῖς",
+          "thai": "ผู้ที่พระองค์ทรงรัก",
+          "rationale": "Per uW figs-declarative: the sisters use a present statement to make an indirect request — 'the one you love is sick' = 'come heal him.' Thai preserves the indirect form; the request is implicit. Royal ทรง- on the divine love. Note: φιλέω (affection-love) here is distinct from ἀγαπάω (covenantal-love) used at v.5 — but Thai 'รัก' covers both senses; the distinction is documented in notes."
+        }
       ],
       "notes": "Per uW figs-declarative: indirect request — sisters trust Jesus to act on the report without explicitly asking. The lexical pair φιλέω (v.3) / ἀγαπάω (v.5) — both relational-love verbs, distinguished classical-stylistically (φιλέω = personal affection; ἀγαπάω = covenantal love) but largely overlapping in Johannine usage. Thai 'รัก' covers both."
     }
@@ -63,8 +95,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ὑπὲρ τῆς δόξης τοῦ θεοῦ", "thai": "เพื่อพระสิริของพระเจ้า", "rationale": "Per uW figs-abstractnouns: δόξα = 'glory' as abstract noun. KEY-TERM LOCK: δόξα → พระสิริ (royal-register glory; the standard Christian-Thai rendering for divine glory)." },
-        { "greek": "ὁ υἱὸς τοῦ θεοῦ", "thai": "พระบุตรของพระเจ้า", "rationale": "Per uW guidelines-sonofgodprinciples + figs-123person: Jesus refers to himself in third person; KEY-TERM LOCK: Υἱὸς τοῦ θεοῦ → พระบุตรของพระเจ้า." }
+        {
+          "greek": "ὑπὲρ τῆς δόξης τοῦ θεοῦ",
+          "thai": "เพื่อพระสิริของพระเจ้า",
+          "rationale": "Per uW figs-abstractnouns: δόξα = 'glory' as abstract noun. KEY-TERM LOCK: δόξα → พระสิริ (royal-register glory; the standard Christian-Thai rendering for divine glory)."
+        },
+        {
+          "greek": "ὁ υἱὸς τοῦ θεοῦ",
+          "thai": "พระบุตรของพระเจ้า",
+          "rationale": "Per uW guidelines-sonofgodprinciples + figs-123person: Jesus refers to himself in third person; KEY-TERM LOCK: Υἱὸς τοῦ θεοῦ → พระบุตรของพระเจ้า."
+        }
       ],
       "notes": "Per uW grammar-connect-logic-result + figs-abstractnouns: 'not to death' indicates not the FINAL outcome — Lazarus will die (v.14) but death is not the terminal state. 'For the glory of God' = the higher purpose. The ἵνα-clause naming Jesus 'Son of God' as the one glorified-through-the-sign sets up v.40's resurrection-glory-of-God connection."
     }
@@ -80,8 +120,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "τὴν ἀδελφὴν αὐτῆς", "thai": "น้องสาวของนาง", "rationale": "Per uW translate-kinship: 'her sister' = Martha's younger sister (Mary). Thai 'น้องสาว' (younger sister) reflects the birth-order convention (Martha mentioned first as elder, Mary 2nd, Lazarus 3rd as youngest)." },
-        { "greek": "ἠγάπα", "thai": "ทรงรัก", "rationale": "Imperfect ἠγάπα = 'was loving / used to love' (durative imperfect — ongoing affection). Royal ทρง- on divine love (RULES §3). ἀγαπάω (covenantal-love) vs. v.3 φιλέω (affection-love) — both translated as 'รัก' in Thai, with the distinction noted in commentary." }
+        {
+          "greek": "τὴν ἀδελφὴν αὐτῆς",
+          "thai": "น้องสาวของนาง",
+          "rationale": "Per uW translate-kinship: 'her sister' = Martha's younger sister (Mary). Thai 'น้องสาว' (younger sister) reflects the birth-order convention (Martha mentioned first as elder, Mary 2nd, Lazarus 3rd as youngest)."
+        },
+        {
+          "greek": "ἠγάπα",
+          "thai": "ทรงรัก",
+          "rationale": "Imperfect ἠγάπα = 'was loving / used to love' (durative imperfect — ongoing affection). Royal ทรง- on divine love (RULES §3). ἀγαπάω (covenantal-love) vs. v.3 φιλέω (affection-love) — both translated as 'รัก' in Thai, with the distinction noted in commentary."
+        }
       ],
       "notes": "Per uW writing-background: narrator-aside establishing Jesus's relationship with the family. Per uW grammar-connect-logic-result (regarding v.6's οὖν): 'BECAUSE he loved them, he stayed two more days' — counterintuitive but theologically meaningful: love permitting suffering for greater glory."
     }
@@ -97,7 +145,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "οὖν ... τότε μὲν", "thai": "เมื่อ ... ก็ทรงประทับอยู่ ... ต่ออีก", "rationale": "Per uW grammar-connect-logic-result: οὖν here connects v.5 (Jesus loved them) to v.6 (he stayed two days) — 'BECAUSE he loved them, therefore he stayed.' This is counterintuitive without the v.4 framing (the delay is purposive, for greater glory). Thai 'ก็ทรงประทับอยู่ ... ต่ออีก' (then he stayed ... longer) captures the deliberate-stay action." }
+        {
+          "greek": "οὖν ... τότε μὲν",
+          "thai": "เมื่อ ... ก็ทรงประทับอยู่ ... ต่ออีก",
+          "rationale": "Per uW grammar-connect-logic-result: οὖν here connects v.5 (Jesus loved them) to v.6 (he stayed two days) — 'BECAUSE he loved them, therefore he stayed.' This is counterintuitive without the v.4 framing (the delay is purposive, for greater glory). Thai 'ก็ทรงประทับอยู่ ... ต่ออีก' (then he stayed ... longer) captures the deliberate-stay action."
+        }
       ],
       "notes": "Per uW grammar-connect-logic-result: the οὖν is causal-of-love, not contrastive — Jesus delayed BECAUSE of his love and the higher purpose, not despite it. The two-day delay ensures Lazarus's death plus the four-day-in-tomb timing (v.39) — exceeding rabbinic-popular belief that the soul lingered three days then departed."
     }
@@ -113,7 +165,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "Ἄγωμεν", "thai": "ให้เรา ... กันเถิด", "rationale": "Hortatory subjunctive 1pl 'let us go.' Thai 'ให้เรา ... กันเถิด' (let's ... together) is the natural rendering for the inclusive-volitive." }
+        {
+          "greek": "Ἄγωμεν",
+          "thai": "ให้เรา ... กันเถิด",
+          "rationale": "Hortatory subjunctive 1pl 'let us go.' Thai 'ให้เรา ... กันเถิด' (let's ... together) is the natural rendering for the inclusive-volitive."
+        }
       ],
       "notes": "Per uW figs-pastforfuture: present tense λέγει in past narration is John's signature attention-marker. Returning to Judea places Jesus in mortal-danger territory (per v.8 the disciples' alarm)."
     }
@@ -129,8 +185,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "οἱ Ἰουδαῖοι", "thai": "ผู้นำชาวยิว", "rationale": "Per uW figs-synecdoche: 'the Jews' here = Jewish leaders (the JHN 10:31 stoning attempt). KEY-TERM LOCK: Johannine Christological-opposition usage → ผู้นำชาวยิว." },
-        { "greek": "πάλιν ὑπάγεις ἐκεῖ", "thai": "พระองค์จะเสด็จกลับไปที่นั่นอีกหรือ?", "rationale": "Per uW figs-rquestion: rhetorical-incredulous question expressing alarm. Thai preserves the rhetorical-question form, which carries the same incredulous force." }
+        {
+          "greek": "οἱ Ἰουδαῖοι",
+          "thai": "ผู้นำชาวยิว",
+          "rationale": "Per uW figs-synecdoche: 'the Jews' here = Jewish leaders (the JHN 10:31 stoning attempt). KEY-TERM LOCK: Johannine Christological-opposition usage → ผู้นำชาวยิว."
+        },
+        {
+          "greek": "πάλιν ὑπάγεις ἐκεῖ",
+          "thai": "พระองค์จะเสด็จกลับไปที่นั่นอีกหรือ?",
+          "rationale": "Per uW figs-rquestion: rhetorical-incredulous question expressing alarm. Thai preserves the rhetorical-question form, which carries the same incredulous force."
+        }
       ],
       "notes": "Per uW figs-rquestion: disciples' alarm is plain — they reference the JHN 10:31, 39 stoning attempts. The 'just now' (νῦν) makes the danger feel immediate. Per uW: 'Jews' here = Jewish leaders specifically (the JHN 11 chapter intro signals 'the Jews' has 3 different scopes in this chapter)."
     }
@@ -146,8 +210,16 @@
       "thai_literal": null,
       "thai_summary": "ภาพอุปมาเรื่องกลางวัน-กลางคืน เชื่อมโยงกับ ยน. 9:4 และอ้างอิงตนเองว่าเป็น “ความสว่างของโลก” (8:12, 9:5) สาวกจะปลอดภัยตราบเท่าที่ยังเดินอยู่ในช่วงเวลาที่พระเยซูทรงอยู่กับพวกเขา — “กลางวัน” ของพันธกิจของพระองค์ยังไม่จบสิ้น",
       "key_decisions": [
-        { "greek": "Οὐχὶ δώδεκα ὧραί εἰσιν τῆς ἡμέρας", "thai": "วันหนึ่งมีสิบสองชั่วโมงไม่ใช่หรือ?", "rationale": "Per uW figs-rquestion: rhetorical for emphasis — Jewish day-reckoning (sunrise to sunset = twelve hours, regardless of season). Thai 'วันหนึ่งมีสิบสองชั่วโมงไม่ใช่หรือ?' preserves the rhetorical form and the cultural-reference (Jewish solar-hour system)." },
-        { "greek": "τὸ φῶς τοῦ κόσμου τούτου", "thai": "ความสว่างของโลกนี้", "rationale": "Per uW figs-metaphor: 'light of this world' = both literal-daylight AND echoes Jesus's I-am-light claim (8:12, 9:5). Translation preserves the literal 'ความสว่างของโลกนี้' (light of this world) so the metaphor remains active for Thai readers — flattening to 'sunlight' would lose the Christological echo." }
+        {
+          "greek": "Οὐχὶ δώδεκα ὧραί εἰσιν τῆς ἡμέρας",
+          "thai": "วันหนึ่งมีสิบสองชั่วโมงไม่ใช่หรือ?",
+          "rationale": "Per uW figs-rquestion: rhetorical for emphasis — Jewish day-reckoning (sunrise to sunset = twelve hours, regardless of season). Thai 'วันหนึ่งมีสิบสองชั่วโมงไม่ใช่หรือ?' preserves the rhetorical form and the cultural-reference (Jewish solar-hour system)."
+        },
+        {
+          "greek": "τὸ φῶς τοῦ κόσμου τούτου",
+          "thai": "ความสว่างของโลกนี้",
+          "rationale": "Per uW figs-metaphor: 'light of this world' = both literal-daylight AND echoes Jesus's I-am-light claim (8:12, 9:5). Translation preserves the literal 'ความสว่างของโลกนี้' (light of this world) so the metaphor remains active for Thai readers — flattening to 'sunlight' would lose the Christological echo."
+        }
       ],
       "notes": "Per uW figs-metaphor: the day/night metaphor connects with JHN 9:4-5 (Light of the World). The 'twelve hours' is Jewish day-reckoning (sunrise to sunset divided into 12 'hours' regardless of season). Theological reading: Jesus's mission has its allotted time; while it lasts the disciples are safe; the night (his hour) is coming."
     }
@@ -163,7 +235,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "τὸ φῶς οὐκ ἔστιν ἐν αὐτῷ", "thai": "ไม่มีความสว่างในตัวเขา", "rationale": "Per uW figs-exmetaphor: 'no light in him' = walking-without-Christ as guide. Thai 'ในตัวเขา' (in him) preserves the in-dwelling sense." }
+        {
+          "greek": "τὸ φῶς οὐκ ἔστιν ἐν αὐτῷ",
+          "thai": "ไม่มีความสว่างในตัวเขา",
+          "rationale": "Per uW figs-exmetaphor: 'no light in him' = walking-without-Christ as guide. Thai 'ในตัวเขา' (in him) preserves the in-dwelling sense."
+        }
       ],
       "notes": "Per uW figs-exmetaphor: extends the metaphor of v.9. The night = the time of Jesus's absence; stumbling = failing in mission. Multiple readings possible (per uW); translation preserves the figural-language without resolving."
     }
@@ -179,8 +255,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "κεκοίμηται", "thai": "หลับไปแล้ว", "rationale": "Per uW figs-euphemism: κοιμάομαι = 'fall asleep' as polite reference to death. Perfect tense = state of having-fallen-asleep (= is dead). Thai 'หลับไปแล้ว' (has fallen asleep) preserves the euphemism — and 'หลับ' in Thai also functions euphemistically for death (cf. 'หลับชั่วนิรันดร์' = sleep eternally). The disciples' misunderstanding (v.12-13) confirms the euphemism's need for clarification." },
-        { "greek": "ἐξυπνίσω", "thai": "ปลุกเขาให้ตื่นขึ้น", "rationale": "HAPAX: ἐξυπνίζω (NT-only-occurrence here). Compound ἐκ + ὑπνίζω (cause-to-sleep) = 'wake out of sleep.' Thai 'ปลุก ... ให้ตื่นขึ้น' (wake-up to rise) is the natural rendering — preserves the figurative-but-active sense. Per uW figs-idiom: do not flatten to 'cause to be alive again' — the disciples' misunderstanding is the narrative point." }
+        {
+          "greek": "κεκοίμηται",
+          "thai": "หลับไปแล้ว",
+          "rationale": "Per uW figs-euphemism: κοιμάομαι = 'fall asleep' as polite reference to death. Perfect tense = state of having-fallen-asleep (= is dead). Thai 'หลับไปแล้ว' (has fallen asleep) preserves the euphemism — and 'หลับ' in Thai also functions euphemistically for death (cf. 'หลับชั่วนิรันดร์' = sleep eternally). The disciples' misunderstanding (v.12-13) confirms the euphemism's need for clarification."
+        },
+        {
+          "greek": "ἐξυπνίσω",
+          "thai": "ปลุกเขาให้ตื่นขึ้น",
+          "rationale": "HAPAX: ἐξυπνίζω (NT-only-occurrence here). Compound ἐκ + ὑπνίζω (cause-to-sleep) = 'wake out of sleep.' Thai 'ปลุก ... ให้ตื่นขึ้น' (wake-up to rise) is the natural rendering — preserves the figurative-but-active sense. Per uW figs-idiom: do not flatten to 'cause to be alive again' — the disciples' misunderstanding is the narrative point."
+        }
       ],
       "notes": "HAPAX: ἐξυπνίζω. Per uW figs-euphemism + figs-idiom: 'fallen asleep' is the polite NT euphemism for death (cf. ACT 7:60, 1 COR 15:6, 1 THES 4:13-15). Translation deliberately preserves the euphemism so that the disciples' confusion (v.12-13) reads naturally."
     }
@@ -196,7 +280,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "σωθήσεται", "thai": "เขาก็จะหายดี", "rationale": "σώζω here in medical context = 'be healed/recover' (a common classical/koine sense — the cognate noun σωτηρία covers both salvation and physical health-deliverance). Thai 'หายดี' (recover/get-well) is the natural rendering for the medical sense — distinct from 'รอด' (be-saved) which would force the soteriological sense the disciples don't yet have here." }
+        {
+          "greek": "σωθήσεται",
+          "thai": "เขาก็จะหายดี",
+          "rationale": "σώζω here in medical context = 'be healed/recover' (a common classical/koine sense — the cognate noun σωτηρία covers both salvation and physical health-deliverance). Thai 'หายดี' (recover/get-well) is the natural rendering for the medical sense — distinct from 'รอด' (be-saved) which would force the soteriological sense the disciples don't yet have here."
+        }
       ],
       "notes": "Disciples' literal-misunderstanding: 'if it's just sleep, recovery follows naturally — no need to risk the journey.' Their reading of κοιμάομαι is the natural sleep-sense, missing the death-euphemism."
     }
@@ -212,7 +300,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "τῆς κοιμήσεως τοῦ ὕπνου", "thai": "การหลับธรรมดา", "rationale": "HAPAX: κοίμησις (NT-only-occurrence here). Per uW figs-possession: 'sleep of slumber' = sleep that is actual sleep (not the euphemistic-death sense). Thai 'การหลับธรรมดา' (ordinary sleep) preserves the contrast that the narrator is making between the two senses of κοιμάομαι." }
+        {
+          "greek": "τῆς κοιμήσεως τοῦ ὕπνου",
+          "thai": "การหลับธรรมดา",
+          "rationale": "HAPAX: κοίμησις (NT-only-occurrence here). Per uW figs-possession: 'sleep of slumber' = sleep that is actual sleep (not the euphemistic-death sense). Thai 'การหลับธรรมดา' (ordinary sleep) preserves the contrast that the narrator is making between the two senses of κοιμάομαι."
+        }
       ],
       "notes": "HAPAX: κοίμησις. Per uW writing-background: narrator's clarification — the narrative pauses to disambiguate. The compound κοίμησις + ὕπνος essentially says 'literal-actual sleep' (slumber-of-sleep) to distinguish from death-euphemism."
     }
@@ -228,7 +320,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "παρρησίᾳ", "thai": "อย่างชัดเจน", "rationale": "παρρησία = 'plainly, openly, frankly' (cf. JHN 10:24 'tell us plainly'). Thai 'อย่างชัดเจน' (clearly) is the natural rendering for plain speech without metaphor." }
+        {
+          "greek": "παρρησίᾳ",
+          "thai": "อย่างชัดเจน",
+          "rationale": "παρρησία = 'plainly, openly, frankly' (cf. JHN 10:24 'tell us plainly'). Thai 'อย่างชัดเจน' (clearly) is the natural rendering for plain speech without metaphor."
+        }
       ],
       "notes": "Jesus drops the euphemism — second half of the disciple-misunderstanding pattern that John uses repeatedly in this gospel (cf. JHN 4:31-34, 6:60-71, etc.). 'Plainly' indicates a deliberate switch from figurative to literal language."
     }
@@ -244,8 +340,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "δι’ὑμᾶς", "thai": "เพื่อประโยชน์ของพวกท่าน", "rationale": "διά + accusative = 'for the sake of / on account of.' Thai 'เพื่อประโยชน์ของ' (for the benefit of) preserves the for-your-sake sense." },
-        { "greek": "ἵνα πιστεύσητε", "thai": "เพื่อพวกท่านจะได้เชื่อ", "rationale": "Per uW figs-ellipsis: 'so that you may believe' is incomplete — implicit 'in me / that I am Messiah' from context. Thai 'เพื่อพวกท่านจะได้เชื่อ' preserves the open-ended believing without forcing the object — Greek ambiguity preserved." }
+        {
+          "greek": "δι’ὑμᾶς",
+          "thai": "เพื่อประโยชน์ของพวกท่าน",
+          "rationale": "διά + accusative = 'for the sake of / on account of.' Thai 'เพื่อประโยชน์ของ' (for the benefit of) preserves the for-your-sake sense."
+        },
+        {
+          "greek": "ἵνα πιστεύσητε",
+          "thai": "เพื่อพวกท่านจะได้เชื่อ",
+          "rationale": "Per uW figs-ellipsis: 'so that you may believe' is incomplete — implicit 'in me / that I am Messiah' from context. Thai 'เพื่อพวกท่านจะได้เชื่อ' preserves the open-ended believing without forcing the object — Greek ambiguity preserved."
+        }
       ],
       "notes": "Theologically dense: Jesus is not merely glad — he is pedagogically glad that the timing allows for a faith-deepening sign. The χαίρω here is purposive-rejoicing (rejoicing because of the outcome), not insensitive-rejoicing about Lazarus's death."
     }
@@ -261,9 +365,21 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "Θωμᾶς ὁ λεγόμενος Δίδυμος", "thai": "โธมัสที่เรียกว่าดิดูมัส", "rationale": "Per uW translate-names: Δίδυμος = 'Twin' (Greek translation of the Aramaic Thoma 'twin'). KEY-TERM LOCK from glossary: Θωμᾶς → โธมัส; Δίδυμος → ดิดูมัส (transliteration matching the Greek upsilon-iota cluster as 'ดูม')." },
-        { "greek": "συμμαθηταῖς", "thai": "เพื่อนสาวก", "rationale": "HAPAX: συμμαθητής (NT-only-occurrence here). Compound σύν + μαθητής = 'fellow-disciple.' Thai 'เพื่อนสาวก' (friend-disciples / fellow disciples) is natural compound rendering." },
-        { "greek": "ἵνα ἀποθάνωμεν μετ’αὐτοῦ", "thai": "เพื่อจะได้ตายไปกับพระองค์", "rationale": "Thomas's pessimistic-loyal exclamation — assumes the trip will end in collective death. Thai 'จะได้ตายไปกับ' (so we may die with) preserves the resigned loyalty. Note the irony: Thomas's prediction ('die with him') will become a discipleship principle in Pauline theology (cf. ROM 6:8 'we have died with Christ')." }
+        {
+          "greek": "Θωμᾶς ὁ λεγόμενος Δίδυμος",
+          "thai": "โธมัสที่เรียกว่าดิดูมัส",
+          "rationale": "Per uW translate-names: Δίδυμος = 'Twin' (Greek translation of the Aramaic Thoma 'twin'). KEY-TERM LOCK from glossary: Θωμᾶς → โธมัส; Δίδυμος → ดิดูมัส (transliteration matching the Greek upsilon-iota cluster as 'ดูม')."
+        },
+        {
+          "greek": "συμμαθηταῖς",
+          "thai": "เพื่อนสาวก",
+          "rationale": "HAPAX: συμμαθητής (NT-only-occurrence here). Compound σύν + μαθητής = 'fellow-disciple.' Thai 'เพื่อนสาวก' (friend-disciples / fellow disciples) is natural compound rendering."
+        },
+        {
+          "greek": "ἵνα ἀποθάνωμεν μετ’αὐτοῦ",
+          "thai": "เพื่อจะได้ตายไปกับพระองค์",
+          "rationale": "Thomas's pessimistic-loyal exclamation — assumes the trip will end in collective death. Thai 'จะได้ตายไปกับ' (so we may die with) preserves the resigned loyalty. Note the irony: Thomas's prediction ('die with him') will become a discipleship principle in Pauline theology (cf. ROM 6:8 'we have died with Christ')."
+        }
       ],
       "notes": "HAPAX: συμμαθητής. Thomas's character-introduction (later JHN 14:5 'we don't know the way'; JHN 20:24-29 'unless I see'). The 'Didymus' = Twin nickname is consistently noted in the gospel (also JHN 20:24, 21:2). Tradition makes him the apostle to India."
     }
@@ -279,8 +395,16 @@
       "thai_literal": null,
       "thai_summary": "การที่ลาซารัสตายมาสี่วันแล้วเป็นรายละเอียดสำคัญ — ตามความเชื่อชาวยิวในยุคนั้น วิญญาณจะลอยอยู่บริเวณร่างเป็นเวลาสามวันก่อนจะจากไป (อ้างอิงในมิดราชและทัลมุด) สี่วันจึงเป็นจุดที่ความตายไม่อาจกลับคืนได้ในมุมมองของพวกเขา หมายสำคัญที่ตามมาจึงพิเศษมากในบริบทนั้น",
       "key_decisions": [
-        { "greek": "ἐν τῷ μνημείῳ", "thai": "ในอุโมงค์", "rationale": "KEY-TERM LOCK: μνημεῖον → อุโมงค์ (cf. MRK 5:2, 15:46, 16:2-3, LUK 23:55, 24:2, 12, MAT 27:52, 28:8, ACT 13:29, JHN 5:28). Standard Christian-Thai for ancient burial cave-tomb." },
-        { "greek": "τέσσαρας ἤδη ἡμέρας ἔχοντα", "thai": "ถูกฝังอยู่ ... มาแล้วสี่วัน", "rationale": "Per uW figs-activepassive: 'having (been put) in the tomb' rendered as Thai active-passive 'ถูกฝัง' (was buried). The 'four days' is theologically loaded — in 1st-cent. Jewish belief, the soul lingered for three days before departing (Genesis Rabbah 100:7), so by day 4 the death is irreversibly permanent in popular reckoning." }
+        {
+          "greek": "ἐν τῷ μνημείῳ",
+          "thai": "ในอุโมงค์",
+          "rationale": "KEY-TERM LOCK: μνημεῖον → อุโมงค์ (cf. MRK 5:2, 15:46, 16:2-3, LUK 23:55, 24:2, 12, MAT 27:52, 28:8, ACT 13:29, JHN 5:28). Standard Christian-Thai for ancient burial cave-tomb."
+        },
+        {
+          "greek": "τέσσαρας ἤδη ἡμέρας ἔχοντα",
+          "thai": "ถูกฝังอยู่ ... มาแล้วสี่วัน",
+          "rationale": "Per uW figs-activepassive: 'having (been put) in the tomb' rendered as Thai active-passive 'ถูกฝัง' (was buried). The 'four days' is theologically loaded — in 1st-cent. Jewish belief, the soul lingered for three days before departing (Genesis Rabbah 100:7), so by day 4 the death is irreversibly permanent in popular reckoning."
+        }
       ],
       "notes": "Per uW figs-activepassive: 'in the tomb four days' indicates Lazarus's death is publicly verified and rabbinically beyond-recovery. Cultural detail: per Jewish folk-tradition (m.Yebamot 16:3 commentary; Genesis Rabbah 100:7), the soul/spirit lingered near the body for three days before departing. The four-day specification in John eliminates any 'maybe he wasn't really dead' interpretation."
     }
@@ -296,7 +420,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "σταδίων δεκαπέντε", "thai": "ประมาณสามกิโลเมตร", "rationale": "Per uW translate-bdistance: στάδιον = Roman unit (~185m). Fifteen stadia = ~2.78 km. Thai standard practice: convert to kilometers (more meaningful to modern Thai readers than 'ฟุต' or stadia). Same convention as JHN 6:19 (stadia conversion to km). Thai 'ประมาณสามกิโลเมตร' (approximately 3 km) rounds modestly." }
+        {
+          "greek": "σταδίων δεκαπέντε",
+          "thai": "ประมาณสามกิโลเมตร",
+          "rationale": "Per uW translate-bdistance: στάδιον = Roman unit (~185m). Fifteen stadia = ~2.78 km. Thai standard practice: convert to kilometers (more meaningful to modern Thai readers than 'ฟุต' or stadia). Same convention as JHN 6:19 (stadia conversion to km). Thai 'ประมาณสามกิโลเมตร' (approximately 3 km) rounds modestly."
+        }
       ],
       "notes": "Per uW writing-background + translate-bdistance: geographic-detail aside. 15 stadia ≈ 2.78 km ≈ 1.7 miles. Translation converts to kilometers (Thai metric standard) for reader-comprehension. Bethany was on the eastern slope of the Mount of Olives, opposite Jerusalem."
     }
@@ -312,8 +440,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἐκ τῶν Ἰουδαίων", "thai": "ชาวยิว", "rationale": "REGISTER SHIFT (per uW chapter intro): in this verse onwards through v.45, οἱ Ἰουδαῖοι refers to Jewish neighbors and friends of the Bethany family — NOT the Jewish leaders. Translation deliberately uses 'ชาวยิว' (Jewish people) here rather than 'ผู้นำชาวยิว' (Jewish leaders). The chapter shifts the term's reference to Judean-people-in-general; will return to 'leaders' sense at v.46-47 onward." },
-        { "greek": "ἀδελφοῦ", "thai": "น้องชาย", "rationale": "Per uW translate-kinship: younger brother (Lazarus is youngest)." }
+        {
+          "greek": "ἐκ τῶν Ἰουδαίων",
+          "thai": "ชาวยิว",
+          "rationale": "REGISTER SHIFT (per uW chapter intro): in this verse onwards through v.45, οἱ Ἰουδαῖοι refers to Jewish neighbors and friends of the Bethany family — NOT the Jewish leaders. Translation deliberately uses 'ชาวยิว' (Jewish people) here rather than 'ผู้นำชาวยิว' (Jewish leaders). The chapter shifts the term's reference to Judean-people-in-general; will return to 'leaders' sense at v.46-47 onward."
+        },
+        {
+          "greek": "ἀδελφοῦ",
+          "thai": "น้องชาย",
+          "rationale": "Per uW translate-kinship: younger brother (Lazarus is youngest)."
+        }
       ],
       "notes": "Per uW writing-background + figs-explicit: this is the second of three uses of 'οἱ Ἰουδαῖοι' in this chapter. Here = Judean friends/neighbors, NOT the Jewish leadership. Translation uses 'ชาวยิว' (Jewish people) rather than the leadership-specific 'ผู้นำชาวยิว.' Jewish mourning customs of the period included a seven-day period (shiva) where friends and relatives gathered to support the bereaved."
     }
@@ -343,7 +479,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "εἰ ἦς ὧδε οὐκ ἂν ἀπέθανεν", "thai": "ถ้าพระองค์ทรงอยู่ที่นี่ ... คงไม่ตาย", "rationale": "Per uW grammar-connect-condition-contrary: contrary-to-fact conditional ('if you had been ... you weren't ... brother died'). Thai 'ถ้า ... ก็คง ... ไม่ ...' preserves the contrary-to-fact structure naturally — the implication that Jesus could have prevented the death is the immediate emotional content." }
+        {
+          "greek": "εἰ ἦς ὧδε οὐκ ἂν ἀπέθανεν",
+          "thai": "ถ้าพระองค์ทรงอยู่ที่นี่ ... คงไม่ตาย",
+          "rationale": "Per uW grammar-connect-condition-contrary: contrary-to-fact conditional ('if you had been ... you weren't ... brother died'). Thai 'ถ้า ... ก็คง ... ไม่ ...' preserves the contrary-to-fact structure naturally — the implication that Jesus could have prevented the death is the immediate emotional content."
+        }
       ],
       "notes": "Per uW grammar-connect-condition-contrary: contrary-to-fact conditional. Martha and Mary will both repeat this exact line (v.32) — the family-shared reaction. Mixture of faith ('you could have prevented this') and grief ('but you didn't'). Not yet resurrection-faith but well past hopelessness."
     }
@@ -359,8 +499,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "καὶ νῦν οἶδα", "thai": "แต่แม้บัดนี้ ข้าพระองค์ก็รู้", "rationale": "καί + νῦν = 'and even now / but yet now' — adversative force ('despite the death'). Thai 'แต่แม้บัดนี้' (but even now) preserves the adversative-emphatic." },
-        { "greek": "ὅσα ἂν αἰτήσῃ", "thai": "สิ่งใดที่พระองค์ทรงทูลขอ", "rationale": "Royal register: ทรงทูลขอ (royal-divine-asking-of-God; royal ทรง- on Jesus's act + ทูล as humble-toward-Father per RULES §3 register). Indefinite-relative ὅσα = 'whatever' — Thai 'สิ่งใดที่' is the natural rendering." }
+        {
+          "greek": "καὶ νῦν οἶδα",
+          "thai": "แต่แม้บัดนี้ ข้าพระองค์ก็รู้",
+          "rationale": "καί + νῦν = 'and even now / but yet now' — adversative force ('despite the death'). Thai 'แต่แม้บัดนี้' (but even now) preserves the adversative-emphatic."
+        },
+        {
+          "greek": "ὅσα ἂν αἰτήσῃ",
+          "thai": "สิ่งใดที่พระองค์ทรงทูลขอ",
+          "rationale": "Royal register: ทรงทูลขอ (royal-divine-asking-of-God; royal ทรง- on Jesus's act + ทูล as humble-toward-Father per RULES §3 register). Indefinite-relative ὅσα = 'whatever' — Thai 'สิ่งใดที่' is the natural rendering."
+        }
       ],
       "notes": "Martha's faith-statement is intermediate: she knows God hears Jesus's prayers; what she does not yet articulate is the resurrection-claim that Jesus is about to make. Sets up the I-am-resurrection self-disclosure of v.25."
     }
@@ -376,8 +524,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "Ἀναστήσεται", "thai": "จะเป็นขึ้นมาอีก", "rationale": "Per uW figs-idiom: ἀνίστημι = 'rise again' = 'become alive again' (resurrection-idiom). Future-passive form. KEY-TERM LOCK from corpus established usage: ἀνίστημι (resurrection) → เป็นขึ้นมา (cf. MRK 8:31, 9:9-10, 9:31, 10:34 'be raised up'). Thai 'จะเป็นขึ้นมาอีก' (will-become-alive-again) preserves the idiomatic resurrection-language. Martha's response (v.24) shows she takes this in the eschatological-resurrection sense (final-day general resurrection), not the immediate-this-week sense Jesus actually intends." },
-        { "greek": "σου", "thai": "เจ้า", "rationale": "Jesus to Martha: divine-to-human pronoun 'เจ้า' per RULES §3, established Markan pattern (cf. MRK 5:34 to the woman, 5:19 to demoniac). Same register Jesus uses with the formerly-blind man (JHN 9:35)." }
+        {
+          "greek": "Ἀναστήσεται",
+          "thai": "จะเป็นขึ้นมาอีก",
+          "rationale": "Per uW figs-idiom: ἀνίστημι = 'rise again' = 'become alive again' (resurrection-idiom). Future-passive form. KEY-TERM LOCK from corpus established usage: ἀνίστημι (resurrection) → เป็นขึ้นมา (cf. MRK 8:31, 9:9-10, 9:31, 10:34 'be raised up'). Thai 'จะเป็นขึ้นมาอีก' (will-become-alive-again) preserves the idiomatic resurrection-language. Martha's response (v.24) shows she takes this in the eschatological-resurrection sense (final-day general resurrection), not the immediate-this-week sense Jesus actually intends."
+        },
+        {
+          "greek": "σου",
+          "thai": "เจ้า",
+          "rationale": "Jesus to Martha: divine-to-human pronoun 'เจ้า' per RULES §3, established Markan pattern (cf. MRK 5:34 to the woman, 5:19 to demoniac). Same register Jesus uses with the formerly-blind man (JHN 9:35)."
+        }
       ],
       "notes": "Per uW figs-idiom: 'rise again' is resurrection-idiom — but deliberately ambiguous. Martha hears it eschatologically (last-day resurrection); Jesus means it concretely (today/this-week). The ambiguity drives the next exchange (v.24-26)."
     }
@@ -393,8 +549,12 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἐν τῇ ἀναστάσει ἐν τῇ ἐσχάτῃ ἡμέρᾳ", "thai": "ในการคืนพระชนม์ในวันสุดท้าย", "rationale": "Per uW figs-abstractnouns + figs-explicit: ἀνάστασις (the Resurrection) + ἐσχάτη ἡμέρα (the Last Day) = standard 1st-cent. Pharisaic eschatological hope. Thai 'การคืนพระชนม์' (royal-resurrection / coming-back-to-life) is the established Christian-Thai for general resurrection. 'วันสุดท้าย' (last day) is the standard rendering of the eschatological term (cf. JHN 6:39, 6:40, 6:44, 6:54, 12:48). Note: 'การคืนพระชนม์' uses royal-prefix because the resurrection-event is divine-mediated and Christ-centric; alternative neutral 'การฟื้นจากตาย' (rising-from-death) is acceptable but the corpus-precedent uses the royal-prefixed form for eschatological resurrection." }
-        ],
+        {
+          "greek": "ἐν τῇ ἀναστάσει ἐν τῇ ἐσχάτῃ ἡμέρᾳ",
+          "thai": "ในการคืนพระชนม์ในวันสุดท้าย",
+          "rationale": "Per uW figs-abstractnouns + figs-explicit: ἀνάστασις (the Resurrection) + ἐσχάτη ἡμέρα (the Last Day) = standard 1st-cent. Pharisaic eschatological hope. Thai 'การคืนพระชนม์' (royal-resurrection / coming-back-to-life) is the established Christian-Thai for general resurrection. 'วันสุดท้าย' (last day) is the standard rendering of the eschatological term (cf. JHN 6:39, 6:40, 6:44, 6:54, 12:48). Note: 'การคืนพระชนม์' uses royal-prefix because the resurrection-event is divine-mediated and Christ-centric; alternative neutral 'การฟื้นจากตาย' (rising-from-death) is acceptable but the corpus-precedent uses the royal-prefixed form for eschatological resurrection."
+        }
+      ],
       "notes": "Per uW figs-abstractnouns + figs-explicit: 'last day' = the day of YHWH / day of judgment / general resurrection. Standard Pharisaic eschatology Martha knew well (cf. ACT 23:8 — Pharisees believed in resurrection). The abstract 'ἐν τῇ ἀναστάσει' (in the resurrection) refers to the eschatological event, not just the abstract concept."
     }
   },
@@ -409,8 +569,16 @@
       "thai_literal": null,
       "thai_summary": "การประกาศ “เราเป็น” ครั้งที่ห้าในยอห์น (หลัง 6:35 ขนมปังแห่งชีวิต, 8:12/9:5 ความสว่างของโลก, 10:7,9 ประตู, 10:11,14 ผู้เลี้ยงแกะที่ดี) คำพระเยซูเปลี่ยนการคืนพระชนม์จาก “เหตุการณ์ในวันสุดท้าย” (ความเชื่อของมารธา) ให้เป็น “บุคคลที่ยืนอยู่ตรงหน้านาง” — ผู้ใดเชื่อในพระองค์ก็มีชีวิตเดี๋ยวนี้ ไม่ว่าจะตายไปก่อนหรือไม่",
       "key_decisions": [
-        { "greek": "Ἐγώ εἰμι ἡ ἀνάστασις καὶ ἡ ζωή", "thai": "เราเป็นการคืนพระชนม์และเป็นชีวิต", "rationale": "I-AM SAYING #5 in John. PHRASE-LOCK 'เราเป็น' + predicate. KEY-TERM LOCK: ἀνάστασις → การคืนพระชนม์ (echoing v.24); ζωή → ชีวิต. Per uW figs-explicit: Jesus identifies himself AS the resurrection (the one who causes resurrection) and AS the life (the source of eternal life)." },
-        { "greek": "ὁ πιστεύων εἰς ἐμὲ κἂν ἀποθάνῃ ζήσεται", "thai": "ผู้ที่เชื่อในเรา แม้จะตาย ก็ยังจะมีชีวิตอยู่", "rationale": "Per uW figs-explicit: 'dies' here = physical death; 'live' = eternal life. The paradox: physical-death is not the end for the believer. Thai 'แม้จะตาย ก็ยังจะมีชีวิตอยู่' (even if dies, still will be alive) preserves the paradox literally — Thai readers will hear it. The thai_summary pulls out the broader meaning." }
+        {
+          "greek": "Ἐγώ εἰμι ἡ ἀνάστασις καὶ ἡ ζωή",
+          "thai": "เราเป็นการคืนพระชนม์และเป็นชีวิต",
+          "rationale": "I-AM SAYING #5 in John. PHRASE-LOCK 'เราเป็น' + predicate. KEY-TERM LOCK: ἀνάστασις → การคืนพระชนม์ (echoing v.24); ζωή → ชีวิต. Per uW figs-explicit: Jesus identifies himself AS the resurrection (the one who causes resurrection) and AS the life (the source of eternal life)."
+        },
+        {
+          "greek": "ὁ πιστεύων εἰς ἐμὲ κἂν ἀποθάνῃ ζήσεται",
+          "thai": "ผู้ที่เชื่อในเรา แม้จะตาย ก็ยังจะมีชีวิตอยู่",
+          "rationale": "Per uW figs-explicit: 'dies' here = physical death; 'live' = eternal life. The paradox: physical-death is not the end for the believer. Thai 'แม้จะตาย ก็ยังจะมีชีวิตอยู่' (even if dies, still will be alive) preserves the paradox literally — Thai readers will hear it. The thai_summary pulls out the broader meaning."
+        }
       ],
       "notes": "I-AM SAYING #5 in John (Jesus's penultimate I-am: bread, light, gate, shepherd, resurrection-and-life; remaining: way-truth-life at 14:6, vine at 15:1). This statement transforms Martha's eschatological-future faith into a present-person faith — Jesus IS what she was waiting for at the last day."
     }
@@ -426,8 +594,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "οὐ μὴ ἀποθάνῃ εἰς τὸν αἰῶνα", "thai": "จะไม่ตายเป็นนิตย์", "rationale": "Per uW figs-explicit: 'never die' here = spiritual-death sense (eternal punishment), not physical death (which the believer DOES experience, per v.25). Per uW figs-litotes: strong-positive expressed via double-negative + opposite. Thai 'จะไม่ตายเป็นนิตย์' (will-not-die-eternally) preserves the strong-negation; the spiritual-death distinction is implicit (Thai 'ตาย' covers both like Greek θνῄσκω)." },
-        { "greek": "πιστεύεις τοῦτο;", "thai": "เจ้าเชื่อเรื่องนี้หรือไม่?", "rationale": "Direct question to Martha — the faith-test moment. Thai 'เชื่อ ... หรือไม่?' (do you believe ... or not?) preserves the binary-yes-or-no force; Martha's v.27 reply is full-confessional yes." }
+        {
+          "greek": "οὐ μὴ ἀποθάνῃ εἰς τὸν αἰῶνα",
+          "thai": "จะไม่ตายเป็นนิตย์",
+          "rationale": "Per uW figs-explicit: 'never die' here = spiritual-death sense (eternal punishment), not physical death (which the believer DOES experience, per v.25). Per uW figs-litotes: strong-positive expressed via double-negative + opposite. Thai 'จะไม่ตายเป็นนิตย์' (will-not-die-eternally) preserves the strong-negation; the spiritual-death distinction is implicit (Thai 'ตาย' covers both like Greek θνῄσκω)."
+        },
+        {
+          "greek": "πιστεύεις τοῦτο;",
+          "thai": "เจ้าเชื่อเรื่องนี้หรือไม่?",
+          "rationale": "Direct question to Martha — the faith-test moment. Thai 'เชื่อ ... หรือไม่?' (do you believe ... or not?) preserves the binary-yes-or-no force; Martha's v.27 reply is full-confessional yes."
+        }
       ],
       "notes": "Per uW figs-explicit + figs-litotes: 'never die' here = spiritual death (eternal punishment), distinct from the physical death the believer DOES still face (per v.25's 'even though he dies'). The two verses combine to teach: physical death + no spiritual death = full salvation. Jesus's personal question 'do you believe this?' calls for confession — Martha will answer in v.27."
     }
@@ -443,8 +619,16 @@
       "thai_literal": null,
       "thai_summary": "คำสารภาพของมารธาเป็นจุดสุดยอดทางคริสตวิทยาของบทนี้ — เทียบเท่ากับคำสารภาพของเปโตรในยน. 6:69 และมัทธิว 16:16 มารธาเป็นผู้หญิงคนแรกในข่าวประเสริฐยอห์นที่ประกาศพระเยซูเป็นพระคริสต์ พระบุตรของพระเจ้า ผู้ที่เสด็จมาในโลก — สามชื่อคริสตวิทยาที่รวมเข้าด้วยกัน",
       "key_decisions": [
-        { "greek": "ἐγὼ πεπίστευκα", "thai": "ข้าพระองค์เชื่อแล้ว", "rationale": "Perfect-active πεπίστευκα = 'I have believed (and continue to)' — durative-perfect. Thai 'ข้าพระองค์เชื่อแล้ว' (I have believed) preserves the perfect-aspect. Humble first-person 'ข้าพระองค์' marks Martha's reverent confession (per RULES §3, lowest-humble first-person to divine addressee — same register as JHN 9:38)." },
-        { "greek": "ὁ χριστὸς ὁ υἱὸς τοῦ θεοῦ ὁ εἰς τὸν κόσμον ἐρχόμενος", "thai": "พระคริสต์ พระบุตรของพระเจ้า ผู้ที่เสด็จเข้ามาในโลก", "rationale": "Triple Christological title. KEY-TERM LOCKS: χριστός → พระคริสต์; υἱὸς τοῦ θεοῦ → พระบุตรของพระเจ้า. The third title 'ὁ εἰς τὸν κόσμον ἐρχόμενος' = 'the One coming into the world' echoes DEU 18:15 (the prophet-like-Moses promise) per uW figs-explicit. Royal register: เสด็จเข้ามา (royal-coming-into) per RULES §3. ADDED TO NT_OT_CITATIONS: JHN 11:27 → DEU 18:15 (Mosaic-prophet typology)." }
+        {
+          "greek": "ἐγὼ πεπίστευκα",
+          "thai": "ข้าพระองค์เชื่อแล้ว",
+          "rationale": "Perfect-active πεπίστευκα = 'I have believed (and continue to)' — durative-perfect. Thai 'ข้าพระองค์เชื่อแล้ว' (I have believed) preserves the perfect-aspect. Humble first-person 'ข้าพระองค์' marks Martha's reverent confession (per RULES §3, lowest-humble first-person to divine addressee — same register as JHN 9:38)."
+        },
+        {
+          "greek": "ὁ χριστὸς ὁ υἱὸς τοῦ θεοῦ ὁ εἰς τὸν κόσμον ἐρχόμενος",
+          "thai": "พระคริสต์ พระบุตรของพระเจ้า ผู้ที่เสด็จเข้ามาในโลก",
+          "rationale": "Triple Christological title. KEY-TERM LOCKS: χριστός → พระคริสต์; υἱὸς τοῦ θεοῦ → พระบุตรของพระเจ้า. The third title 'ὁ εἰς τὸν κόσμον ἐρχόμενος' = 'the One coming into the world' echoes DEU 18:15 (the prophet-like-Moses promise) per uW figs-explicit. Royal register: เสด็จเข้ามา (royal-coming-into) per RULES §3. ADDED TO NT_OT_CITATIONS: JHN 11:27 → DEU 18:15 (Mosaic-prophet typology)."
+        }
       ],
       "notes": "MARTHA'S CONFESSION — Christological climax of the chapter. Parallels Peter's confession (MAT 16:16, MRK 8:29, LUK 9:20, JHN 6:69). Per uW figs-explicit: 'the One coming into the world' echoes DEU 18:15 (the prophet-like-Moses promise). ADDED TO NT_OT_CITATIONS: JHN 11:27 → DEU 18:15. Theologically dense: triple Christological title + perfect-tense believing = mature faith preceding the sign she's about to witness."
     }
@@ -460,8 +644,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ὁ διδάσκαλος", "thai": "พระอาจารย์", "rationale": "Per uW figs-explicit: 'the Teacher' = Jesus (intimate-circle reference among disciples/family). Thai 'พระอาจารย์' (royal-honorific Teacher) is the Christian-Thai standard for Jesus as Teacher (royal พระ- prefix). Distinct from 'รับบี' which is the more direct vocative form; 'พระอาจารย์' is referential-among-followers." },
-        { "greek": "λάθρᾳ", "thai": "เป็นการส่วนตัว", "rationale": "λάθρᾳ = 'secretly, privately, aside.' Thai 'เป็นการส่วนตัว' (privately) preserves the discretion — Martha doesn't want to alert the gathered Jewish mourners to Jesus's arrival, perhaps for safety reasons (the crowd that follows in v.31 catches up regardless)." }
+        {
+          "greek": "ὁ διδάσκαλος",
+          "thai": "พระอาจารย์",
+          "rationale": "Per uW figs-explicit: 'the Teacher' = Jesus (intimate-circle reference among disciples/family). Thai 'พระอาจารย์' (royal-honorific Teacher) is the Christian-Thai standard for Jesus as Teacher (royal พระ- prefix). Distinct from 'รับบี' which is the more direct vocative form; 'พระอาจารย์' is referential-among-followers."
+        },
+        {
+          "greek": "λάθρᾳ",
+          "thai": "เป็นการส่วนตัว",
+          "rationale": "λάθρᾳ = 'secretly, privately, aside.' Thai 'เป็นการส่วนตัว' (privately) preserves the discretion — Martha doesn't want to alert the gathered Jewish mourners to Jesus's arrival, perhaps for safety reasons (the crowd that follows in v.31 catches up regardless)."
+        }
       ],
       "notes": "Per uW figs-explicit: 'the Teacher' = an intimate-circle reference; suggests this was Jesus's known designation in the Bethany household (compare 'Rabboni' at JHN 20:16 from Mary Magdalene). The discreet calling-aside likely intended to avoid scene-making among the Jewish mourners — possibly safety-motivated given the JHN 10:39 escape."
     }
@@ -477,7 +669,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἠγέρθη ταχὺ", "thai": "ลุกขึ้นทันที", "rationale": "Adverb ταχύ = 'quickly, swiftly.' Thai 'ทันที' (immediately) preserves the urgency. Aor.pass.ind. ἠγέρθη (was-raised / got-up) used reflexively." }
+        {
+          "greek": "ἠγέρθη ταχὺ",
+          "thai": "ลุกขึ้นทันที",
+          "rationale": "Adverb ταχύ = 'quickly, swiftly.' Thai 'ทันที' (immediately) preserves the urgency. Aor.pass.ind. ἠγέρθη (was-raised / got-up) used reflexively."
+        }
       ],
       "notes": "Mary's haste contrasts with the previous 'sitting in the house' of v.20. The transition to action mirrors the chapter's overall movement from passive grief to active faith-encounter."
     }
@@ -507,8 +703,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "οἱ Ἰουδαῖοι", "thai": "ชาวยิว", "rationale": "Per uW chapter intro: continuing the v.19 sense — Judean friends/neighbors, not Jewish leaders. Thai 'ชาวยิว' (Jewish-people-in-general)." },
-        { "greek": "ἵνα κλαύσῃ ἐκεῖ", "thai": "เพื่อร้องไห้ที่นั่น", "rationale": "κλαίω = 'wail, weep loudly' — distinguished from δακρύω 'shed tears' at v.35. Thai 'ร้องไห้' covers both senses naturally; the distinction is preserved in commentary at v.35." }
+        {
+          "greek": "οἱ Ἰουδαῖοι",
+          "thai": "ชาวยิว",
+          "rationale": "Per uW chapter intro: continuing the v.19 sense — Judean friends/neighbors, not Jewish leaders. Thai 'ชาวยิว' (Jewish-people-in-general)."
+        },
+        {
+          "greek": "ἵνα κλαύσῃ ἐκεῖ",
+          "thai": "เพื่อร้องไห้ที่นั่น",
+          "rationale": "κλαίω = 'wail, weep loudly' — distinguished from δακρύω 'shed tears' at v.35. Thai 'ร้องไห้' covers both senses naturally; the distinction is preserved in commentary at v.35."
+        }
       ],
       "notes": "Per uW figs-distinguish: the qualification 'who were with her in the house consoling her' identifies the supportive subset of Jewish neighbors (vs. the v.46 informer-subset). Their mistaken assumption (going to tomb to mourn) provides narrative reason for the crowd to be present at the tomb when the sign occurs."
     }
@@ -524,8 +728,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἔπεσεν αὐτοῦ πρὸς τοὺς πόδας", "thai": "หมอบลงที่พระบาทของพระองค์", "rationale": "Per uW figs-explicit: 'fell at his feet' = voluntary prostration of respect, not stumbling/fainting. Thai 'หมอบลง' (prostrate-down) preserves the deliberate-reverent action. Royal พระบาท (royal-foot) per RULES §3." },
-        { "greek": "Κύριε,εἰ ἦς ὧδε οὐκ ἄν μου ἀπέθανεν ὁ ἀδελφός", "thai": "พระองค์เจ้าข้า ถ้าพระองค์ทรงอยู่ที่นี่ น้องชายของข้าพระองค์คงไม่ตาย", "rationale": "PHRASE-LOCK with v.21 — Mary echoes Martha's exact lament (only word-order varies in Greek). Thai uses identical rendering for the sister-shared mourning-formula. Both sisters trust Jesus's prevention-power but not yet his resurrection-power." }
+        {
+          "greek": "ἔπεσεν αὐτοῦ πρὸς τοὺς πόδας",
+          "thai": "หมอบลงที่พระบาทของพระองค์",
+          "rationale": "Per uW figs-explicit: 'fell at his feet' = voluntary prostration of respect, not stumbling/fainting. Thai 'หมอบลง' (prostrate-down) preserves the deliberate-reverent action. Royal พระบาท (royal-foot) per RULES §3."
+        },
+        {
+          "greek": "Κύριε,εἰ ἦς ὧδε οὐκ ἄν μου ἀπέθανεν ὁ ἀδελφός",
+          "thai": "พระองค์เจ้าข้า ถ้าพระองค์ทรงอยู่ที่นี่ น้องชายของข้าพระองค์คงไม่ตาย",
+          "rationale": "PHRASE-LOCK with v.21 — Mary echoes Martha's exact lament (only word-order varies in Greek). Thai uses identical rendering for the sister-shared mourning-formula. Both sisters trust Jesus's prevention-power but not yet his resurrection-power."
+        }
       ],
       "notes": "Per uW figs-explicit + writing-quotations: Mary's prostration is voluntary respect-act (the same posture-language as JHN 12:3 will use — washing his feet, anointing him). The lament-formula is shared between the sisters — domestic-grief shorthand."
     }
@@ -541,8 +753,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἐνεβριμήσατο τῷ πνεύματι καὶ ἐτάραξεν ἑαυτόν", "thai": "ทรงสะเทือนพระทัยอย่างลึกซึ้งและทรงกระวนกระวาย", "rationale": "Per uW figs-doublet + figs-explicit: ἐμβριμάομαι = 'be deeply moved' OR 'be indignant/outraged' — scholarly division. The doubled phrase ('moved in spirit AND troubled himself') intensifies. Thai 'ทรงสะเทือนพระทัยอย่างลึกซึ้ง' (deeply-shake-the-royal-mind) takes the deep-emotion reading; 'ทรงกระวนกระวาย' (royally-troubled) preserves the second verb. Royal register on divine emotional state per RULES §3. Note: the alternative reading 'indignant/outraged' (against death itself, or against the unbelief surrounding the scene) has scholarly support; we follow the deep-emotion mainstream rendering but flag in notes." },
-        { "greek": "τῷ πνεύματι", "thai": "พระทัย", "rationale": "Per uW figs-explicit: πνεῦμα here = Jesus's own spirit (inner self), NOT the Holy Spirit. Thai 'พระทัย' (royal-heart/inner-self) preserves the inner-emotional sense without theological confusion. Distinct from 'พระวิญญาณ' (royal-Spirit) which would imply the Holy Spirit." }
+        {
+          "greek": "ἐνεβριμήσατο τῷ πνεύματι καὶ ἐτάραξεν ἑαυτόν",
+          "thai": "ทรงสะเทือนพระทัยอย่างลึกซึ้งและทรงกระวนกระวาย",
+          "rationale": "Per uW figs-doublet + figs-explicit: ἐμβριμάομαι = 'be deeply moved' OR 'be indignant/outraged' — scholarly division. The doubled phrase ('moved in spirit AND troubled himself') intensifies. Thai 'ทรงสะเทือนพระทัยอย่างลึกซึ้ง' (deeply-shake-the-royal-mind) takes the deep-emotion reading; 'ทรงกระวนกระวาย' (royally-troubled) preserves the second verb. Royal register on divine emotional state per RULES §3. Note: the alternative reading 'indignant/outraged' (against death itself, or against the unbelief surrounding the scene) has scholarly support; we follow the deep-emotion mainstream rendering but flag in notes."
+        },
+        {
+          "greek": "τῷ πνεύματι",
+          "thai": "พระทัย",
+          "rationale": "Per uW figs-explicit: πνεῦμα here = Jesus's own spirit (inner self), NOT the Holy Spirit. Thai 'พระทัย' (royal-heart/inner-self) preserves the inner-emotional sense without theological confusion. Distinct from 'พระวิญญาณ' (royal-Spirit) which would imply the Holy Spirit."
+        }
       ],
       "notes": "Per uW figs-doublet + figs-explicit: ἐμβριμάομαι has lexical ambiguity. Alternative readings: (1) deep-emotional disturbance — Jesus moved by the grief (mainstream evangelical reading); (2) indignation — at unbelief or at death-itself (Calvin, Carson). Translation chooses (1) but the indignation-reading is theologically respectable and possibly closer to classical κλασσικός sense. πνεῦμα here = inner-spirit / soul-self, not the Holy Spirit (per uW figs-explicit)."
     }
@@ -558,7 +778,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "Ποῦ τεθείκατε αὐτόν", "thai": "พวกท่านวางเขาไว้ที่ไหน?", "rationale": "Per uW figs-euphemism: 'where have you laid him' = 'where have you entombed him' (laying-the-body = standard Jewish burial verb). Thai 'วางเขาไว้' (laid him) preserves the gentle-euphemistic burial-language. Tense τεθείκατε = perfect 'where have you laid' — completed-with-continuing-state." }
+        {
+          "greek": "Ποῦ τεθείκατε αὐτόν",
+          "thai": "พวกท่านวางเขาไว้ที่ไหน?",
+          "rationale": "Per uW figs-euphemism: 'where have you laid him' = 'where have you entombed him' (laying-the-body = standard Jewish burial verb). Thai 'วางเขาไว้' (laid him) preserves the gentle-euphemistic burial-language. Tense τεθείκατε = perfect 'where have you laid' — completed-with-continuing-state."
+        }
       ],
       "notes": "Per uW figs-euphemism: 'laid him' = burial-language; the body is laid on a stone shelf inside the cave-tomb. The crowd's invitation 'come and see' echoes JHN 1:39 (Jesus to first disciples) — narrative inversion with poignant resonance."
     }
@@ -574,7 +798,11 @@
       "thai_literal": null,
       "thai_summary": "ข้อที่สั้นที่สุดในพระคัมภีร์ — สามคำในภาษากรีก สามคำในภาษาไทย แสดงให้เห็นว่าพระเยซู (แม้ทรงรู้ว่าจะปลุกลาซารัส) ก็ทรงเป็นมนุษย์เต็มตัวที่ร่วมทุกข์กับผู้สูญเสีย ความเศร้าของพระองค์เป็นความเศร้าจริง — ไม่ใช่การแสร้ง",
       "key_decisions": [
-        { "greek": "ἐδάκρυσεν", "thai": "ทรงกันแสง", "rationale": "HAPAX: δακρύω (NT-only-occurrence here). Distinct from κλαίω 'wail/weep loudly' used of Mary and the crowd in vv.31, 33 — δακρύω = 'shed tears (silently)'. Per uW figs-explicit: deliberate vocabulary choice marking Jesus's quieter grief. Royal register: ทรงกันแสง — 'กันแสง' is the royal-register verb for 'weep tears' (distinct from 'ร้องไห้' loud weeping). Standard Christian-Thai for this iconic verse — preserves both the brevity and the royal register. Three Greek words (ἐδάκρυσεν ὁ Ἰησοῦς) → three Thai syllables (พระ-เยซู-ทรง-กัน-แสง = 5 syllables but stylistically equivalent to 'Jesus wept' brevity)." }
+        {
+          "greek": "ἐδάκρυσεν",
+          "thai": "ทรงกันแสง",
+          "rationale": "HAPAX: δακρύω (NT-only-occurrence here). Distinct from κλαίω 'wail/weep loudly' used of Mary and the crowd in vv.31, 33 — δακρύω = 'shed tears (silently)'. Per uW figs-explicit: deliberate vocabulary choice marking Jesus's quieter grief. Royal register: ทรงกันแสง — 'กันแสง' is the royal-register verb for 'weep tears' (distinct from 'ร้องไห้' loud weeping). Standard Christian-Thai for this iconic verse — preserves both the brevity and the royal register. Three Greek words (ἐδάκρυσεν ὁ Ἰησοῦς) → three Thai syllables (พระ-เยซู-ทรง-กัน-แสง = 5 syllables but stylistically equivalent to 'Jesus wept' brevity)."
+        }
       ],
       "notes": "HAPAX: δακρύω. Iconic verse: shortest in the Bible (KJV/most English) at 'Jesus wept' (2 words English; 3 in Greek). Per uW figs-explicit: δακρύω = silent tear-shedding, distinct from κλαίω = loud-wailing. The vocabulary distinction matters: Jesus does not match the loud-wailing of the mourners; his grief is real but distinct in expression. Theological significance: full humanity of Christ — fully knowing the resurrection-outcome, he still fully feels the grief. (Cf. PHL 2:7 kenosis.)"
     }
@@ -590,7 +818,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἐφίλει", "thai": "ทรงรัก", "rationale": "Imperfect ἐφίλει = 'used-to-love / kept-loving.' φιλέω here as v.3 = personal affection. Thai 'ทรงรัก' (royal-love) covers both ἀγαπάω and φιλέω senses; the distinction documented in v.3 commentary." }
+        {
+          "greek": "ἐφίλει",
+          "thai": "ทรงรัก",
+          "rationale": "Imperfect ἐφίλει = 'used-to-love / kept-loving.' φιλέω here as v.3 = personal affection. Thai 'ทรงรัก' (royal-love) covers both ἀγαπάω and φιλέω senses; the distinction documented in v.3 commentary."
+        }
       ],
       "notes": "The crowd's response — sympathetic-positive observation. φιλέω here matches v.3 ('the one you love is sick') — personal-affection language."
     }
@@ -606,7 +838,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "οὐκ ἐδύνατο οὗτος ὁ ἀνοίξας τοὺς ὀφθαλμοὺς τοῦ τυφλοῦ", "thai": "ผู้ที่เปิดดวงตาของคนตาบอด ... ไม่ได้หรือ?", "rationale": "Per uW figs-rquestion: rhetorical — either expressing doubt about Jesus's power OR doubt about his love (per uW two readings). Thai preserves the rhetorical-question form, leaving the ambiguity. Reference to JHN 9:6-7 'opening blind man's eyes' — explicit linking to the previous chapter's sign." }
+        {
+          "greek": "οὐκ ἐδύνατο οὗτος ὁ ἀνοίξας τοὺς ὀφθαλμοὺς τοῦ τυφλοῦ",
+          "thai": "ผู้ที่เปิดดวงตาของคนตาบอด ... ไม่ได้หรือ?",
+          "rationale": "Per uW figs-rquestion: rhetorical — either expressing doubt about Jesus's power OR doubt about his love (per uW two readings). Thai preserves the rhetorical-question form, leaving the ambiguity. Reference to JHN 9:6-7 'opening blind man's eyes' — explicit linking to the previous chapter's sign."
+        }
       ],
       "notes": "Per uW figs-rquestion + figs-metonymy: rhetorical question with two scholarly readings — (1) acknowledging Jesus's power but doubting timing; (2) doubting his love. Reference to JHN 9 healing keeps the chapter-to-chapter narrative arc tight."
     }
@@ -622,8 +858,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "πάλιν ἐμβριμώμενος ἐν ἑαυτῷ", "thai": "ทรงสะเทือนพระทัยภายในพระองค์อีกครั้ง", "rationale": "PHRASE-LOCK with v.33: ἐμβριμάομαι → ทรงสะเทือนพระทัย. Same lexical decision (deep-emotion reading); 'ภายในพระองค์' renders ἐν ἑαυτῷ (in himself / within his own person) — preserves the inwardness." },
-        { "greek": "σπήλαιον,καὶ λίθος ἐπέκειτο ἐπ’αὐτῷ", "thai": "ถ้ำที่มีก้อนหินวางปิดปากถ้ำไว้", "rationale": "Per uW translate-unknown: σπήλαιον = 'cave' — 1st-cent. tombs in Judea were typically caves cut into limestone with a stone to seal the entrance. Thai 'ถ้ำที่มีก้อนหินวางปิดปากถ้ำไว้' (a cave with a stone placed at the cave-mouth) describes the structure clearly. PHRASE-LOCK from MRK 15:46 / 16:2-3 burial-stone vocabulary." }
+        {
+          "greek": "πάλιν ἐμβριμώμενος ἐν ἑαυτῷ",
+          "thai": "ทรงสะเทือนพระทัยภายในพระองค์อีกครั้ง",
+          "rationale": "PHRASE-LOCK with v.33: ἐμβριμάομαι → ทรงสะเทือนพระทัย. Same lexical decision (deep-emotion reading); 'ภายในพระองค์' renders ἐν ἑαυτῷ (in himself / within his own person) — preserves the inwardness."
+        },
+        {
+          "greek": "σπήλαιον,καὶ λίθος ἐπέκειτο ἐπ’αὐτῷ",
+          "thai": "ถ้ำที่มีก้อนหินวางปิดปากถ้ำไว้",
+          "rationale": "Per uW translate-unknown: σπήλαιον = 'cave' — 1st-cent. tombs in Judea were typically caves cut into limestone with a stone to seal the entrance. Thai 'ถ้ำที่มีก้อนหินวางปิดปากถ้ำไว้' (a cave with a stone placed at the cave-mouth) describes the structure clearly. PHRASE-LOCK from MRK 15:46 / 16:2-3 burial-stone vocabulary."
+        }
       ],
       "notes": "Per uW writing-background + translate-unknown: cave-tomb description — typical 1st-cent. Judean kokim-tomb (rock-hewn cave with shelves for body-laying, sealed by rolling-stone or laid-stone). The same architecture as Jesus's own tomb in JHN 19-20."
     }
@@ -639,9 +883,21 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ὄζει", "thai": "เหม็น", "rationale": "HAPAX: ὄζω (NT-only-occurrence here). Verb 'to give off odor (typically bad).' Thai 'เหม็น' (stink/smell-bad) is the natural blunt rendering — preserves Martha's earthy-realistic objection. The hapax + Martha's plain language together are part of John's narrative-realism marking." },
-        { "greek": "τεταρταῖος", "thai": "ตายมาสี่วันแล้ว", "rationale": "HAPAX: τεταρταῖος (NT-only-occurrence here). Adjective 'on the fourth day / fourth-day-since.' Per uW figs-explicit: 'four days since he died' — supplied for clarity. Thai 'ตายมาสี่วันแล้ว' (has been dead four days) preserves the time-reference." },
-        { "greek": "ἡ ἀδελφὴ τοῦ τετελευτηκότος", "thai": "ผู้เป็นพี่สาวของผู้ตาย", "rationale": "Per uW translate-kinship: Martha = oldest sister of the deceased. Thai 'พี่สาว' (older sister) per the v.5 birth-order convention. τετελευτηκότος = perfect-active-participle 'having-died' = 'the deceased.'" }
+        {
+          "greek": "ὄζει",
+          "thai": "เหม็น",
+          "rationale": "HAPAX: ὄζω (NT-only-occurrence here). Verb 'to give off odor (typically bad).' Thai 'เหม็น' (stink/smell-bad) is the natural blunt rendering — preserves Martha's earthy-realistic objection. The hapax + Martha's plain language together are part of John's narrative-realism marking."
+        },
+        {
+          "greek": "τεταρταῖος",
+          "thai": "ตายมาสี่วันแล้ว",
+          "rationale": "HAPAX: τεταρταῖος (NT-only-occurrence here). Adjective 'on the fourth day / fourth-day-since.' Per uW figs-explicit: 'four days since he died' — supplied for clarity. Thai 'ตายมาสี่วันแล้ว' (has been dead four days) preserves the time-reference."
+        },
+        {
+          "greek": "ἡ ἀδελφὴ τοῦ τετελευτηκότος",
+          "thai": "ผู้เป็นพี่สาวของผู้ตาย",
+          "rationale": "Per uW translate-kinship: Martha = oldest sister of the deceased. Thai 'พี่สาว' (older sister) per the v.5 birth-order convention. τετελευτηκότος = perfect-active-participle 'having-died' = 'the deceased.'"
+        }
       ],
       "notes": "TWO HAPAXES in one verse: ὄζει + τεταρταῖος. Per uW figs-explicit + figs-pastforfuture. Martha's objection is poignantly earthy — her newly-confessed faith (v.27) does not yet extend to expecting the impossible. The stench-objection underscores how irreversibly dead Lazarus is — heightening the miracle to come."
     }
@@ -657,8 +913,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "Οὐκ εἶπόν σοι", "thai": "เราบอกเจ้าแล้วไม่ใช่หรือว่า", "rationale": "Per uW figs-rquestion: rhetorical-emphasis. Thai preserves the rhetorical-question form ('I told you, didn't I?'). The reference is back to v.4 ('this sickness ... for the glory of God') and v.23 ('your brother will rise again')." },
-        { "greek": "ἐὰν πιστεύσῃς ὄψῃ τὴν δόξαν τοῦ θεοῦ", "thai": "ถ้าเจ้าเชื่อ เจ้าจะเห็นพระสิริของพระเจ้า", "rationale": "Per uW figs-ellipsis + figs-possession: 'if you believe' is short for 'believe in me / believe what I said'; 'glory of God' = either God's glory itself or glory-from-God (translation preserves the literal Greek 'พระสิริของพระเจ้า' = glory of God, ambiguity preserved). KEY-TERM LOCK: δόξα → พระสิริ (RULES §4)." }
+        {
+          "greek": "Οὐκ εἶπόν σοι",
+          "thai": "เราบอกเจ้าแล้วไม่ใช่หรือว่า",
+          "rationale": "Per uW figs-rquestion: rhetorical-emphasis. Thai preserves the rhetorical-question form ('I told you, didn't I?'). The reference is back to v.4 ('this sickness ... for the glory of God') and v.23 ('your brother will rise again')."
+        },
+        {
+          "greek": "ἐὰν πιστεύσῃς ὄψῃ τὴν δόξαν τοῦ θεοῦ",
+          "thai": "ถ้าเจ้าเชื่อ เจ้าจะเห็นพระสิริของพระเจ้า",
+          "rationale": "Per uW figs-ellipsis + figs-possession: 'if you believe' is short for 'believe in me / believe what I said'; 'glory of God' = either God's glory itself or glory-from-God (translation preserves the literal Greek 'พระสิริของพระเจ้า' = glory of God, ambiguity preserved). KEY-TERM LOCK: δόξα → พระสิริ (RULES §4)."
+        }
       ],
       "notes": "Per uW figs-rquestion + figs-ellipsis: Jesus's rhetorical retort to Martha references his earlier words (v.4, v.23). 'Glory of God' = the divine-revelation about to occur; the resurrection-sign is the visible manifestation."
     }
@@ -674,9 +938,21 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἦρεν τοὺς ὀφθαλμοὺς ἄνω", "thai": "ทรงเงยพระพักตร์ขึ้น", "rationale": "Per uW figs-idiom: 'lifted up his eyes' = 'looked upward' (toward heaven, prayer-posture idiom). Standard rendering uses 'พระพักตร์' (royal-face) for the divine-subject — captures the posture-of-prayer naturally; 'ทรงเงย' (royally-lifted-up) per RULES §3." },
-        { "greek": "Πάτερ", "thai": "พระบิดาเจ้าข้า", "rationale": "Per uW guidelines-sonofgodprinciples: 'Father' as Christological title for God; vocative form here (Jesus directly addressing the Father). Thai 'พระบิดาเจ้าข้า' (full divine-vocative for Father) — distinguished from referential 'พระบิดา' which appears in non-vocative contexts." },
-        { "greek": "εὐχαριστῶ σοι", "thai": "ข้าพระองค์ขอบพระคุณพระองค์", "rationale": "Jesus addressing the Father: humble first-person 'ข้าพระองค์' (lowest humble per RULES §3) + royal 'ขอบพระคุณพระองค์' (royal-thanks-to-the-divine). The Son uses the same humble vocative his disciples use — the eternal Son's submission to the Father in the economy of salvation." }
+        {
+          "greek": "ἦρεν τοὺς ὀφθαλμοὺς ἄνω",
+          "thai": "ทรงเงยพระพักตร์ขึ้น",
+          "rationale": "Per uW figs-idiom: 'lifted up his eyes' = 'looked upward' (toward heaven, prayer-posture idiom). Standard rendering uses 'พระพักตร์' (royal-face) for the divine-subject — captures the posture-of-prayer naturally; 'ทรงเงย' (royally-lifted-up) per RULES §3."
+        },
+        {
+          "greek": "Πάτερ",
+          "thai": "พระบิดาเจ้าข้า",
+          "rationale": "Per uW guidelines-sonofgodprinciples: 'Father' as Christological title for God; vocative form here (Jesus directly addressing the Father). Thai 'พระบิดาเจ้าข้า' (full divine-vocative for Father) — distinguished from referential 'พระบิดา' which appears in non-vocative contexts."
+        },
+        {
+          "greek": "εὐχαριστῶ σοι",
+          "thai": "ข้าพระองค์ขอบพระคุณพระองค์",
+          "rationale": "Jesus addressing the Father: humble first-person 'ข้าพระองค์' (lowest humble per RULES §3) + royal 'ขอบพระคุณพระองค์' (royal-thanks-to-the-divine). The Son uses the same humble vocative his disciples use — the eternal Son's submission to the Father in the economy of salvation."
+        }
       ],
       "notes": "Per uW figs-idiom: 'lifted up his eyes' = looking-toward-heaven prayer-posture. Notable: the prayer is phrased as thanksgiving for an already-granted request, not petition. v.42 will explain the prayer is for the audience's benefit, not Jesus's own informational need."
     }
@@ -692,7 +968,11 @@
       "thai_literal": null,
       "thai_summary": "พระเยซูทรงเปิดเผยจุดประสงค์ของการอธิษฐานออกเสียง — ไม่ใช่เพราะพระบิดาต้องได้ยินจึงจะตอบ แต่เพื่อให้ประชาชนที่อยู่ที่นั่นได้ยินและเชื่อ การปลุกลาซารัสจะเป็นหมายสำคัญที่ยืนยันความเป็นพระบุตรของพระเจ้าและการทรงถูกส่งมาของพระองค์",
       "key_decisions": [
-        { "greek": "σύ με ἀπέστειλας", "thai": "พระองค์ทรงใช้ข้าพระองค์มา", "rationale": "PHRASE-LOCK: divine-sending formula — Father → Jesus. Established Johannine corpus rendering 'ทรงใช้ ... มา' (royally-sent ... to come). The faith-formula 'sent by the Father' is one of the central Johannine Christological tags (cf. JHN 3:17, 5:23-24, 6:29, 7:29, 8:42, 17:3, 17:8, 17:21, 17:23, 17:25)." }
+        {
+          "greek": "σύ με ἀπέστειλας",
+          "thai": "พระองค์ทรงใช้ข้าพระองค์มา",
+          "rationale": "PHRASE-LOCK: divine-sending formula — Father → Jesus. Established Johannine corpus rendering 'ทรงใช้ ... มา' (royally-sent ... to come). The faith-formula 'sent by the Father' is one of the central Johannine Christological tags (cf. JHN 3:17, 5:23-24, 6:29, 7:29, 8:42, 17:3, 17:8, 17:21, 17:23, 17:25)."
+        }
       ],
       "notes": "Theological key: Jesus's prayer is rhetorical-pedagogical (for the crowd's benefit), not informational (Father didn't need to be told). This anticipates the apostolic-period question: does the Son need to pray? John's answer: yes, for revelatory purposes — the Father-Son intimacy is constant, but the visible-prayer demonstrates that intimacy to those who can't see the inner relation."
     }
@@ -708,8 +988,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "φωνῇ μεγάλῃ ἐκραύγασεν", "thai": "ทรงเปล่งเสียงดังร้อง", "rationale": "κραυγάζω = 'cry out, shout.' Combined with φωνῇ μεγάλῃ ('with great voice') = loud public command. Thai 'ทรงเปล่งเสียงดังร้อง' (royally-uttered with loud voice) preserves both intensifications. Royal register on the divine speech-act." },
-        { "greek": "Λάζαρε,δεῦρο ἔξω", "thai": "ลาซารัสเอ๋ย จงออกมาเถิด!", "rationale": "Vocative Λάζαρε with Thai vocative-suffix 'เอ๋ย' (the affectionate-calling form). Imperative δεῦρο ἔξω = 'come out!' (lit. 'here, outside'). Thai 'จงออกมาเถิด' (please come out / come out!) preserves the imperative force. The exclamation marker '!' captures the φωνῇ μεγάλῃ public-command quality." }
+        {
+          "greek": "φωνῇ μεγάλῃ ἐκραύγασεν",
+          "thai": "ทรงเปล่งเสียงดังร้อง",
+          "rationale": "κραυγάζω = 'cry out, shout.' Combined with φωνῇ μεγάλῃ ('with great voice') = loud public command. Thai 'ทรงเปล่งเสียงดังร้อง' (royally-uttered with loud voice) preserves both intensifications. Royal register on the divine speech-act."
+        },
+        {
+          "greek": "Λάζαρε,δεῦρο ἔξω",
+          "thai": "ลาซารัสเอ๋ย จงออกมาเถิด!",
+          "rationale": "Vocative Λάζαρε with Thai vocative-suffix 'เอ๋ย' (the affectionate-calling form). Imperative δεῦρο ἔξω = 'come out!' (lit. 'here, outside'). Thai 'จงออกมาเถิด' (please come out / come out!) preserves the imperative force. The exclamation marker '!' captures the φωνῇ μεγάλῃ public-command quality."
+        }
       ],
       "notes": "The command-by-name continues the chapter's calling-by-name motif (cf. JHN 10:3 shepherd calls his own by name). Augustine famously observed that Jesus called Lazarus by name precisely because, had he not done so, all dead persons might have come out of their tombs at the universal command. The personal-call to specific-resurrection is a Johannine theological motif."
     }
@@ -725,10 +1013,26 @@
       "thai_literal": null,
       "thai_summary": "ลาซารัสออกมาจากอุโมงค์ในสภาพที่ยังพันผ้าฝังศพ — ภาพที่เน้นว่าหมายสำคัญนี้คือการคืนชีวิตที่แท้จริง ไม่ใช่การกลับฟื้นจากการสลบ ลาซารัสยังต้องตายอีกครั้งหนึ่งในอนาคต (เป็นการคืนชีวิตชั่วคราว ต่างจากการคืนพระชนม์ของพระคริสต์ที่ไม่ตายอีก) แต่หมายสำคัญนี้ก็ชี้ไปยังการคืนพระชนม์ของพระเยซูเอง",
       "key_decisions": [
-        { "greek": "κειρίαις", "thai": "ผ้าลินิน", "rationale": "HAPAX: κειρία (NT-only-occurrence here). 'Strips of cloth (for binding).' Per uW translate-unknown: standard 1st-cent. Jewish burial wrapping. PHRASE-LOCK from MRK 15:46: ผ้าลินิน (linen cloth) — the Joseph-of-Arimathea burial-strip term. Used here in plural for the multiple binding-strips around hands and feet." },
-        { "greek": "σουδαρίῳ", "thai": "ผ้าคลุมใบหน้า", "rationale": "σουδάριον (Latin loanword sudarium = sweat-cloth, kerchief) — separate face-cloth. Will recur at JHN 20:7 (the resurrection-tomb σουδάριον neatly folded). NEW CORPUS-LOCK: σουδάριον → ผ้าคลุมใบหน้า (face-covering cloth). Distinct from κειρία (binding-strips for body) — preserves the JHN 20:7 resurrection-detail vocabulary." },
-        { "greek": "περιεδέδετο", "thai": "ถูกห่อ", "rationale": "HAPAX: περιδέω (NT-only-occurrence here). Compound περί (around) + δέω (bind) = 'wrapped around.' Pluperfect-passive 'had been wrapped.' Thai 'ถูกห่อ' (was-wrapped) is the natural rendering." },
-        { "greek": "Λύσατε αὐτὸν καὶ ἄφετε αὐτὸν ὑπάγειν", "thai": "จงแก้ผ้านั้นออกและปล่อยให้เขาไปเถิด", "rationale": "Imperative pair: λύω (loose/unbind) + ἀφίημι (let go). Thai 'จงแก้ ... ออกและปล่อยให้ ... ไป' preserves the unbind-and-release pair. Theologically rich — Augustine and Aquinas read this as a pastoral-image of post-conversion 'unbinding': Jesus raises the dead but the community must remove the grave-clothes." }
+        {
+          "greek": "κειρίαις",
+          "thai": "ผ้าลินิน",
+          "rationale": "HAPAX: κειρία (NT-only-occurrence here). 'Strips of cloth (for binding).' Per uW translate-unknown: standard 1st-cent. Jewish burial wrapping. PHRASE-LOCK from MRK 15:46: ผ้าลินิน (linen cloth) — the Joseph-of-Arimathea burial-strip term. Used here in plural for the multiple binding-strips around hands and feet."
+        },
+        {
+          "greek": "σουδαρίῳ",
+          "thai": "ผ้าคลุมใบหน้า",
+          "rationale": "σουδάριον (Latin loanword sudarium = sweat-cloth, kerchief) — separate face-cloth. Will recur at JHN 20:7 (the resurrection-tomb σουδάριον neatly folded). NEW CORPUS-LOCK: σουδάριον → ผ้าคลุมใบหน้า (face-covering cloth). Distinct from κειρία (binding-strips for body) — preserves the JHN 20:7 resurrection-detail vocabulary."
+        },
+        {
+          "greek": "περιεδέδετο",
+          "thai": "ถูกห่อ",
+          "rationale": "HAPAX: περιδέω (NT-only-occurrence here). Compound περί (around) + δέω (bind) = 'wrapped around.' Pluperfect-passive 'had been wrapped.' Thai 'ถูกห่อ' (was-wrapped) is the natural rendering."
+        },
+        {
+          "greek": "Λύσατε αὐτὸν καὶ ἄφετε αὐτὸν ὑπάγειν",
+          "thai": "จงแก้ผ้านั้นออกและปล่อยให้เขาไปเถิด",
+          "rationale": "Imperative pair: λύω (loose/unbind) + ἀφίημι (let go). Thai 'จงแก้ ... ออกและปล่อยให้ ... ไป' preserves the unbind-and-release pair. Theologically rich — Augustine and Aquinas read this as a pastoral-image of post-conversion 'unbinding': Jesus raises the dead but the community must remove the grave-clothes."
+        }
       ],
       "notes": "TWO HAPAXES: κειρία + περιδέω. Per uW figs-activepassive + translate-unknown: Jewish burial customs — body wrapped in linen strips, separate face-cloth. The face-cloth detail (σουδάριον) is significant for JHN 20:7 where the resurrected Jesus's σουδάριον is found neatly folded — contrast with Lazarus needing to be unbound. NEW CORPUS-LOCK: σουδάριον → ผ้าคลุมใบหน้า. The pastoral-picture (Jesus raises, community unbinds) recurs in patristic and medieval reception."
     }
@@ -744,7 +1048,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἐπίστευσαν εἰς αὐτόν", "thai": "เชื่อในพระองค์", "rationale": "PHRASE-LOCK: πιστεύω εἰς + acc → เชื่อในพระองค์ (Johannine directional-faith)." }
+        {
+          "greek": "ἐπίστευσαν εἰς αὐτόν",
+          "thai": "เชื่อในพระองค์",
+          "rationale": "PHRASE-LOCK: πιστεύω εἰς + acc → เชื่อในพระองค์ (Johannine directional-faith)."
+        }
       ],
       "notes": "Per uW: continues v.19 sense of 'οἱ Ἰουδαῖοι' = Judean friends/neighbors. The mass-conversion of the eyewitnesses motivates the leadership's escalation in vv.46-53. The visibly-supernatural sign produces faith in those open to it."
     }
@@ -774,8 +1082,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "συνέδριον", "thai": "สภาแซนเฮดริน", "rationale": "Per uW translate-names: συνέδριον = 'Sanhedrin' (the highest Jewish ruling council). KEY-TERM LOCK: σύνεδριον → สภาแซนเฮดริน (cf. ACT 6:12, 22:30, 23:1, 24:20; MRK 14:55, 15:1; MAT 26:59 etc.). Standard Christian-Thai transliteration with 'สภา' (council) prefix." },
-        { "greek": "οἱ ἀρχιερεῖς", "thai": "พวกหัวหน้าปุโรหิต", "rationale": "PHRASE-LOCK: ἀρχιερεῖς → พวกหัวหน้าปุโรหิต (chief-priests; established corpus-wide). Distinct from ἀρχιερεύς (high priest singular, of Caiaphas/Annas) → มหาปุโรหิต." }
+        {
+          "greek": "συνέδριον",
+          "thai": "สภาแซนเฮดริน",
+          "rationale": "Per uW translate-names: συνέδριον = 'Sanhedrin' (the highest Jewish ruling council). KEY-TERM LOCK: σύνεδριον → สภาแซนเฮดริน (cf. ACT 6:12, 22:30, 23:1, 24:20; MRK 14:55, 15:1; MAT 26:59 etc.). Standard Christian-Thai transliteration with 'สภา' (council) prefix."
+        },
+        {
+          "greek": "οἱ ἀρχιερεῖς",
+          "thai": "พวกหัวหน้าปุโรหิต",
+          "rationale": "PHRASE-LOCK: ἀρχιερεῖς → พวกหัวหน้าปุโรหิต (chief-priests; established corpus-wide). Distinct from ἀρχιερεύς (high priest singular, of Caiaphas/Annas) → มหาปุโรหิต."
+        }
       ],
       "notes": "Sanhedrin emergency-session — the ruling council of 71 elders, chief priests, scribes, and Pharisees. This is the council that will eventually condemn Jesus (MRK 14:55ff). The informants' report has succeeded in triggering official action."
     }
@@ -791,9 +1107,21 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "οἱ Ῥωμαῖοι", "thai": "พวกโรมัน", "rationale": "Ῥωμαῖος = 'Roman.' Standard Christian-Thai 'พวกโรมัน' (the Romans). The leaders' political-realist concern: a popular-messianic uprising would trigger Roman military intervention." },
-        { "greek": "τὸν τόπον", "thai": "สถานที่ของเรา", "rationale": "Per uW + 1st-cent. Jewish usage: 'the place' = the Temple specifically (cf. ACT 6:13, 21:28; MAT 24:15). Translation 'สถานที่ของเรา' (our place) preserves the literal demonstrative-definite without forcing the Temple-specific reading; thai_summary or context resolves." },
-        { "greek": "τὸ ἔθνος", "thai": "ชนชาติของเรา", "rationale": "ἔθνος = 'nation, people-group.' Thai 'ชนชาติ' (people-nation) is the natural rendering. The leaders' fear: loss of national-political autonomy under Rome's heel." }
+        {
+          "greek": "οἱ Ῥωμαῖοι",
+          "thai": "พวกโรมัน",
+          "rationale": "Ῥωμαῖος = 'Roman.' Standard Christian-Thai 'พวกโรมัน' (the Romans). The leaders' political-realist concern: a popular-messianic uprising would trigger Roman military intervention."
+        },
+        {
+          "greek": "τὸν τόπον",
+          "thai": "สถานที่ของเรา",
+          "rationale": "Per uW + 1st-cent. Jewish usage: 'the place' = the Temple specifically (cf. ACT 6:13, 21:28; MAT 24:15). Translation 'สถานที่ของเรา' (our place) preserves the literal demonstrative-definite without forcing the Temple-specific reading; thai_summary or context resolves."
+        },
+        {
+          "greek": "τὸ ἔθνος",
+          "thai": "ชนชาติของเรา",
+          "rationale": "ἔθνος = 'nation, people-group.' Thai 'ชนชาติ' (people-nation) is the natural rendering. The leaders' fear: loss of national-political autonomy under Rome's heel."
+        }
       ],
       "notes": "Tragic irony: the leadership's calculation is fundamentally accurate but applied wrongly. They feared the Romans would destroy the Temple and nation — which did happen in AD 70, BUT precisely because they killed the Messiah (per traditional Christian historical reading). The very action they take to prevent the catastrophe makes it inevitable."
     }
@@ -809,8 +1137,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "Καϊάφας", "thai": "คายาฟาส", "rationale": "KEY-TERM LOCK: Καϊάφας → คายาฟาส (cf. LUK 3:2, MAT 26:3, ACT 4:6). Standard Christian-Thai transliteration." },
-        { "greek": "ἀρχιερεὺς ὢν τοῦ ἐνιαυτοῦ ἐκείνου", "thai": "ซึ่งเป็นมหาปุโรหิตในปีนั้น", "rationale": "PHRASE-LOCK: ἀρχιερεύς (high priest singular) → มหาปุโรหิต. 'That year' is significant — Caiaphas held the high priesthood AD 18-36, but John specifies 'that year' to emphasize the providential-prophetic timing." }
+        {
+          "greek": "Καϊάφας",
+          "thai": "คายาฟาส",
+          "rationale": "KEY-TERM LOCK: Καϊάφας → คายาฟาส (cf. LUK 3:2, MAT 26:3, ACT 4:6). Standard Christian-Thai transliteration."
+        },
+        {
+          "greek": "ἀρχιερεὺς ὢν τοῦ ἐνιαυτοῦ ἐκείνου",
+          "thai": "ซึ่งเป็นมหาปุโรหิตในปีนั้น",
+          "rationale": "PHRASE-LOCK: ἀρχιερεύς (high priest singular) → มหาปุโรหิต. 'That year' is significant — Caiaphas held the high priesthood AD 18-36, but John specifies 'that year' to emphasize the providential-prophetic timing."
+        }
       ],
       "notes": "Caiaphas was high priest c. AD 18-36 — appointed by Roman procurator Valerius Gratus, retained by Pontius Pilate. The 'that year' specification (cf. v.51, JHN 18:13) emphasizes providential-prophetic timing — God speaks through the office regardless of the office-holder's character."
     }
@@ -826,8 +1162,16 @@
       "thai_literal": null,
       "thai_summary": "คายาฟาสกล่าวคำนี้ในฐานะการคำนวณการเมือง — สังเวยพระเยซูเพื่อรักษาประเทศชาติ แต่ยอห์นในข้อ 51-52 จะเปิดเผยว่าคำนี้กลายเป็นคำพยากรณ์ที่แท้จริง: การตายของพระเยซูเพื่อประชาชนคือสารทางใจของหมายสำคัญที่เพิ่งเกิด — และสำหรับ “บุตรของพระเจ้าที่กระจัดกระจาย” คือคนต่างชาติที่จะรวมเข้ามาเป็นหนึ่งเดียว",
       "key_decisions": [
-        { "greek": "συμφέρει ὑμῖν", "thai": "เป็นการดีสำหรับพวกท่าน", "rationale": "συμφέρει = 'it is profitable / advantageous / better.' Thai 'เป็นการดีสำหรับ' (is good for) preserves the cost-benefit calculation language — Caiaphas's tone is starkly utilitarian." },
-        { "greek": "ἵνα εἷς ἄνθρωπος ἀποθάνῃ ὑπὲρ τοῦ λαοῦ", "thai": "ที่จะให้ชายคนหนึ่งตายเพื่อประชาชน", "rationale": "ὑπέρ + genitive = 'for the sake of / on behalf of' — substitutionary-atonement language used cynically by Caiaphas, but theologically true (per v.51-52). Thai 'เพื่อ' (for) preserves the substitutionary force; the dramatic-irony is that Caiaphas's political calculation precisely articulates the gospel's atonement-theology." }
+        {
+          "greek": "συμφέρει ὑμῖν",
+          "thai": "เป็นการดีสำหรับพวกท่าน",
+          "rationale": "συμφέρει = 'it is profitable / advantageous / better.' Thai 'เป็นการดีสำหรับ' (is good for) preserves the cost-benefit calculation language — Caiaphas's tone is starkly utilitarian."
+        },
+        {
+          "greek": "ἵνα εἷς ἄνθρωπος ἀποθάνῃ ὑπὲρ τοῦ λαοῦ",
+          "thai": "ที่จะให้ชายคนหนึ่งตายเพื่อประชาชน",
+          "rationale": "ὑπέρ + genitive = 'for the sake of / on behalf of' — substitutionary-atonement language used cynically by Caiaphas, but theologically true (per v.51-52). Thai 'เพื่อ' (for) preserves the substitutionary force; the dramatic-irony is that Caiaphas's political calculation precisely articulates the gospel's atonement-theology."
+        }
       ],
       "notes": "DRAMATIC IRONY climax: Caiaphas's cynical-political 'one die for the many' precisely formulates the gospel's substitutionary atonement (cf. ROM 5:6-8, 2 COR 5:14-15, 1 PET 3:18). Per v.51, John identifies this as unwitting prophecy — God speaks truth through the high-priestly office regardless of the speaker's intent."
     }
@@ -843,9 +1187,21 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "τοῦτο δὲ ἀφ’ἑαυτοῦ οὐκ εἶπεν", "thai": "คายาฟาสมิได้พูดเช่นนี้ด้วยตนเอง", "rationale": "Narrator's commentary identifying Caiaphas's words as unwitting prophecy. Thai 'มิได้พูด ... ด้วยตนเอง' (did-not say ... by himself) preserves the not-of-his-own-volition sense." },
-        { "greek": "ἐπροφήτευσεν", "thai": "ได้พยากรณ์", "rationale": "προφητεύω = 'prophesy.' KEY-TERM family: προφητ- → พยากรณ์. Thai 'ได้พยากรณ์' (had-prophesied) is the standard rendering. The aorist tense + the narrator's framing reads as God-mediated speech through the office of the high priest, regardless of Caiaphas's personal motive." },
-        { "greek": "ἀποθνῄσκειν ὑπὲρ τοῦ ἔθνους", "thai": "สิ้นพระชนม์เพื่อชนชาตินั้น", "rationale": "Royal register on Jesus's death: สิ้นพระชนม์ (royal-end-of-life — established Christian-Thai for Christ's death). Distinct from generic 'ตาย' (die) used of ordinary humans. The substitutionary 'ὑπὲρ' (for/on behalf of) preserved as 'เพื่อ' per v.50 lock." }
+        {
+          "greek": "τοῦτο δὲ ἀφ’ἑαυτοῦ οὐκ εἶπεν",
+          "thai": "คายาฟาสมิได้พูดเช่นนี้ด้วยตนเอง",
+          "rationale": "Narrator's commentary identifying Caiaphas's words as unwitting prophecy. Thai 'มิได้พูด ... ด้วยตนเอง' (did-not say ... by himself) preserves the not-of-his-own-volition sense."
+        },
+        {
+          "greek": "ἐπροφήτευσεν",
+          "thai": "ได้พยากรณ์",
+          "rationale": "προφητεύω = 'prophesy.' KEY-TERM family: προφητ- → พยากรณ์. Thai 'ได้พยากรณ์' (had-prophesied) is the standard rendering. The aorist tense + the narrator's framing reads as God-mediated speech through the office of the high priest, regardless of Caiaphas's personal motive."
+        },
+        {
+          "greek": "ἀποθνῄσκειν ὑπὲρ τοῦ ἔθνους",
+          "thai": "สิ้นพระชนม์เพื่อชนชาตินั้น",
+          "rationale": "Royal register on Jesus's death: สิ้นพระชนม์ (royal-end-of-life — established Christian-Thai for Christ's death). Distinct from generic 'ตาย' (die) used of ordinary humans. The substitutionary 'ὑπὲρ' (for/on behalf of) preserved as 'เพื่อ' per v.50 lock."
+        }
       ],
       "notes": "Narrator's theological-commentary key: Caiaphas's office (high priest, OT-divinely-instituted) channels prophecy regardless of Caiaphas's personal corruption. Theological reading: the OT institutional-mediator pattern continues until its replacement by Christ's eternal priesthood (HEB 7-10). 'Sin-knowing-not-what-they-do' irony also runs through Pilate, the soldiers, etc., across the passion."
     }
@@ -861,8 +1217,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "τὰ τέκνα τοῦ θεοῦ τὰ διεσκορπισμένα", "thai": "บุตรของพระเจ้าที่กระจัดกระจายอยู่", "rationale": "Per uW + Johannine theology: 'scattered children of God' = the Gentile believers who would be incorporated into the messianic flock (cf. JHN 10:16 'other sheep not of this fold'). διασκορπίζω perfect-passive = 'have been scattered.' Thai 'กระจัดกระจาย' (scattered/dispersed) preserves the geographical-spiritual dispersion. Echoes EZE 36:24 (gathering-of-scattered) and DEU 30:3-5 (regathering-promise). ADDED TO NT_OT_CITATIONS: JHN 11:52 → EZE 36:24, DEU 30:3-5 (scattering-and-gathering motif)." },
-        { "greek": "συναγάγῃ εἰς ἕν", "thai": "ให้เป็นหนึ่งเดียวกัน", "rationale": "συνάγω εἰς ἕν = 'gather into one (entity).' PHRASE-LOCK with JHN 10:16 ('one flock, one shepherd'); JHN 17:21 ('they may all be one'). Thai 'ให้เป็นหนึ่งเดียวกัน' (so as to become one-and-the-same) preserves the unifying-into-one sense." }
+        {
+          "greek": "τὰ τέκνα τοῦ θεοῦ τὰ διεσκορπισμένα",
+          "thai": "บุตรของพระเจ้าที่กระจัดกระจายอยู่",
+          "rationale": "Per uW + Johannine theology: 'scattered children of God' = the Gentile believers who would be incorporated into the messianic flock (cf. JHN 10:16 'other sheep not of this fold'). διασκορπίζω perfect-passive = 'have been scattered.' Thai 'กระจัดกระจาย' (scattered/dispersed) preserves the geographical-spiritual dispersion. Echoes EZE 36:24 (gathering-of-scattered) and DEU 30:3-5 (regathering-promise). ADDED TO NT_OT_CITATIONS: JHN 11:52 → EZE 36:24, DEU 30:3-5 (scattering-and-gathering motif)."
+        },
+        {
+          "greek": "συναγάγῃ εἰς ἕν",
+          "thai": "ให้เป็นหนึ่งเดียวกัน",
+          "rationale": "συνάγω εἰς ἕν = 'gather into one (entity).' PHRASE-LOCK with JHN 10:16 ('one flock, one shepherd'); JHN 17:21 ('they may all be one'). Thai 'ให้เป็นหนึ่งเดียวกัน' (so as to become one-and-the-same) preserves the unifying-into-one sense."
+        }
       ],
       "notes": "OT ALLUSION: 'scattered children gathered into one' echoes EZE 36:24 ('I will take you from the nations, and gather you ... and bring you into your own land'), DEU 30:3-5 (the regathering-from-exile promise), and ISA 11:12 ('he shall assemble the dispersed of Israel'). ADDED TO NT_OT_CITATIONS: JHN 11:52 → EZE 36:24, DEU 30:3-5. The Johannine extension: the regathering includes Gentiles ('children of God' = broader than ethnic Israel). The atonement scope is universal-yet-particular: all who believe, from all nations."
     }
@@ -878,7 +1242,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἐβουλεύσαντο", "thai": "วางแผน", "rationale": "βουλεύω middle = 'take counsel together / plan / determine.' Thai 'วางแผน' (plan) is the natural rendering — captures the deliberative-conspiratorial sense." }
+        {
+          "greek": "ἐβουλεύσαντο",
+          "thai": "วางแผน",
+          "rationale": "βουλεύω middle = 'take counsel together / plan / determine.' Thai 'วางแผน' (plan) is the natural rendering — captures the deliberative-conspiratorial sense."
+        }
       ],
       "notes": "The decision-marker. From this point until the Passion narrative, Jesus's movements are framed by the active conspiracy. Note John ties this to the Lazarus-raising — the Sanhedrin's plot is reaction to the most public sign yet."
     }
@@ -894,9 +1262,21 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἐν τοῖς Ἰουδαίοις", "thai": "ในหมู่ผู้นำชาวยิว", "rationale": "Per uW chapter intro: this third use of οἱ Ἰουδαῖοι in the chapter shifts back to the leadership-sense (the v.46-53 conspirators specifically). Thai 'ผู้นำชาวยิว' (Jewish leaders) reflects the leadership-specific reading. Distinct from vv.19, 31, 33, 36, 45 where the term had the broader Judean-friends sense." },
-        { "greek": "Ἐφραὶμ λεγομένην πόλιν", "thai": "ในเมืองที่ชื่อว่าเอฟราอิม", "rationale": "HAPAX (proper noun): Ἐφραίμ as place name, NT-only-occurrence here. NEW CORPUS-LOCK: Ἐφραίμ → เอฟราอิม (transliteration; matches the OT tribal/place-name traditional Christian-Thai for the Ephraim region — cf. JOSH/JUD/CHR contexts). Likely identifiable with modern et-Taiyibeh, ~22 km NE of Jerusalem on the edge of the wilderness." },
-        { "greek": "τῆς ἐρήμου", "thai": "ถิ่นทุรกันดาร", "rationale": "PHRASE-LOCK: ἔρημος → ถิ่นทุρกันดาร (corpus-locked from RULES §4 — Christian-Thai 'wilderness/desert region')." }
+        {
+          "greek": "ἐν τοῖς Ἰουδαίοις",
+          "thai": "ในหมู่ผู้นำชาวยิว",
+          "rationale": "Per uW chapter intro: this third use of οἱ Ἰουδαῖοι in the chapter shifts back to the leadership-sense (the v.46-53 conspirators specifically). Thai 'ผู้นำชาวยิว' (Jewish leaders) reflects the leadership-specific reading. Distinct from vv.19, 31, 33, 36, 45 where the term had the broader Judean-friends sense."
+        },
+        {
+          "greek": "Ἐφραὶμ λεγομένην πόλιν",
+          "thai": "ในเมืองที่ชื่อว่าเอฟราอิม",
+          "rationale": "HAPAX (proper noun): Ἐφραίμ as place name, NT-only-occurrence here. NEW CORPUS-LOCK: Ἐφραίμ → เอฟราอิม (transliteration; matches the OT tribal/place-name traditional Christian-Thai for the Ephraim region — cf. JOSH/JUD/CHR contexts). Likely identifiable with modern et-Taiyibeh, ~22 km NE of Jerusalem on the edge of the wilderness."
+        },
+        {
+          "greek": "τῆς ἐρήμου",
+          "thai": "ถิ่นทุรกันดาร",
+          "rationale": "PHRASE-LOCK: ἔρημος → ถิ่นทุรกันดาร (corpus-locked from RULES §4 — Christian-Thai 'wilderness/desert region')."
+        }
       ],
       "notes": "HAPAX (proper noun): Ἐφραίμ. NEW CORPUS-LOCK established. Ephraim was in the hill-country north-east of Jerusalem, on the edge of the wilderness — strategic withdrawal location. The geography mirrors JHN 10:40 (withdrawal beyond Jordan): Jesus is now methodically distancing from Jerusalem until the appointed Passover return."
     }
@@ -912,8 +1292,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "τὸ πάσχα τῶν Ἰουδαίων", "thai": "เทศกาลปัสกาของชาวยิว", "rationale": "PHRASE-LOCK from JHN 2:13, 6:4: τὸ πάσχα τῶν Ἰουδαίων → เทศกาลปัสกาของชาวยิว. Note 'ชาวยิว' (Jewish people in general) here per uW — third sense of οἱ Ἰουδαῖοι in this chapter. KEY-TERM LOCK: πάσχα → ปัสกา." },
-        { "greek": "ἁγνίσωσιν ἑαυτούς", "thai": "ชำระตนให้บริสุทธิ์", "rationale": "PHRASE-LOCK from established corpus: ἁγνίζω → ชำระให้บริสุทธิ์ (cleanse-to-make-holy). Pre-Passover ritual purification (cf. NUM 9:6-13; 2 CHR 30:17-19) — required especially for those who had been near corpses (relevant given the chapter's Lazarus context)." }
+        {
+          "greek": "τὸ πάσχα τῶν Ἰουδαίων",
+          "thai": "เทศกาลปัสกาของชาวยิว",
+          "rationale": "PHRASE-LOCK from JHN 2:13, 6:4: τὸ πάσχα τῶν Ἰουδαίων → เทศกาลปัสกาของชาวยิว. Note 'ชาวยิว' (Jewish people in general) here per uW — third sense of οἱ Ἰουδαῖοι in this chapter. KEY-TERM LOCK: πάσχα → ปัสกา."
+        },
+        {
+          "greek": "ἁγνίσωσιν ἑαυτούς",
+          "thai": "ชำระตนให้บริสุทธิ์",
+          "rationale": "PHRASE-LOCK from established corpus: ἁγνίζω → ชำระให้บริสุทธิ์ (cleanse-to-make-holy). Pre-Passover ritual purification (cf. NUM 9:6-13; 2 CHR 30:17-19) — required especially for those who had been near corpses (relevant given the chapter's Lazarus context)."
+        }
       ],
       "notes": "Per uW chapter intro: 'the Jewish Passover' = the major spring pilgrimage festival. Pre-Passover purification (especially relevant for those who had recently been near tombs or corpses) was rabbinic standard. The narrative-irony: many came to ritually cleanse themselves while the conspiracy against the Lamb was already under way. This is the third Passover in John (cf. 2:13, 6:4); the climactic one."
     }
@@ -929,7 +1317,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "οὐ μὴ ἔλθῃ εἰς τὴν ἑορτήν", "thai": "เขาจะมาในเทศกาลนี้หรือไม่?", "rationale": "οὐ μὴ + aor.subj. — strongest negation 'surely not come?' = ironic-rhetorical question expressing doubt. Thai 'จะมา ... หรือไม่?' preserves the genuine-doubt question form rather than over-translating to 'surely not come!' force." }
+        {
+          "greek": "οὐ μὴ ἔλθῃ εἰς τὴν ἑορτήν",
+          "thai": "เขาจะมาในเทศกาลนี้หรือไม่?",
+          "rationale": "οὐ μὴ + aor.subj. — strongest negation 'surely not come?' = ironic-rhetorical question expressing doubt. Thai 'จะมา ... หรือไม่?' preserves the genuine-doubt question form rather than over-translating to 'surely not come!' force."
+        }
       ],
       "notes": "Pilgrim-crowd speculation in the Temple courts. The leadership's conspiracy is open enough that everyone is wondering whether Jesus will appear publicly."
     }
@@ -945,8 +1337,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἐντολὰς", "thai": "สั่งการ", "rationale": "ἐντολή here = 'order, directive, command' (judicial/administrative sense, not Mosaic-commandment sense). Thai 'สั่งการ' (issue an order) is the natural rendering for the legal-administrative sense." },
-        { "greek": "πιάσωσιν αὐτόν", "thai": "จับกุมพระองค์", "rationale": "πιάζω = 'seize, arrest.' Thai 'จับกุม' (arrest/take into custody) is the natural rendering. Echoes JHN 7:30, 7:44, 10:39 — chain of unsuccessful arrest-attempts setting up the eventual arrest at GETHSEMANE." }
+        {
+          "greek": "ἐντολὰς",
+          "thai": "สั่งการ",
+          "rationale": "ἐντολή here = 'order, directive, command' (judicial/administrative sense, not Mosaic-commandment sense). Thai 'สั่งการ' (issue an order) is the natural rendering for the legal-administrative sense."
+        },
+        {
+          "greek": "πιάσωσιν αὐτόν",
+          "thai": "จับกุมพระองค์",
+          "rationale": "πιάζω = 'seize, arrest.' Thai 'จับกุม' (arrest/take into custody) is the natural rendering. Echoes JHN 7:30, 7:44, 10:39 — chain of unsuccessful arrest-attempts setting up the eventual arrest at GETHSEMANE."
+        }
       ],
       "notes": "Closes the chapter with the arrest-warrant in place. Anyone-who-knew-where directive = informant network. The chapter ends suspended — Jesus offstage at Ephraim, Passover approaching, the betrayal infrastructure ready. JHN 12 will resume the public action with the Bethany anointing."
     }

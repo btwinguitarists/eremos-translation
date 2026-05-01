@@ -1,21 +1,21 @@
 ## Item A — παρουσία register split: Christ (royal) vs the lawless one (plain)
 
-**The pattern:** 2 Thessalonians is the FIRST place in the Pauline corpus where παρουσία is applied to a NON-Christ subject — the "lawless one." Eremos has been locking **การเสด็จมα** (royal-เสด็จ stem) for Christ's parousia (1 Thess 4× plus 2 Thess 2:1, 2:8). In 2 Thess 2:9 the SAME noun is applied to the antichrist:
+**The pattern:** 2 Thessalonians is the FIRST place in the Pauline corpus where παρουσία is applied to a NON-Christ subject — the "lawless one." Eremos has been locking **การเสด็จมา** (royal-เสด็จ stem) for Christ's parousia (1 Thess 4× plus 2 Thess 2:1, 2:8). In 2 Thess 2:9 the SAME noun is applied to the antichrist:
 
 | Verse | Greek | Thai |
 |---|---|---|
-| 2 Th 2:1 (Christ) | ὑπὲρ τῆς **παρουσίας** τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ | เกี่ยวกับ**การเสด็จมา**ของพระเยซูคริสต์องค์พระผู้เป็นเจ้าของเรα |
-| 2 Th 2:8 (Christ) | καὶ καταργήσει τῇ ἐπιφανείᾳ τῆς **παρουσίας** αὐτοῦ | และจะทรงทำลายให้สิ้นซακด้วยกαรปραγκฏแห่ง**การเสด็จมα**ของพระองค์ |
-| 2 Th 2:9 (antichrist) | οὗ ἐστιν ἡ **παρουσία** κατ’ ἐνέργειαν τοῦ Σατανᾶ | **การมα**ของเขานั้นเป็นไปตามการดำเนินงานของซαตαน |
+| 2 Th 2:1 (Christ) | ὑπὲρ τῆς **παρουσίας** τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ | เกี่ยวกับ**การเสด็จมา**ของพระเยซูคริสต์องค์พระผู้เป็นเจ้าของเรา |
+| 2 Th 2:8 (Christ) | καὶ καταργήσει τῇ ἐπιφανείᾳ τῆς **παρουσίας** αὐτοῦ | และจะทรงทำลายให้สิ้นซาκด้วยการปราγκฏแห่ง**การเสด็จมา**ของพระองค์ |
+| 2 Th 2:9 (antichrist) | οὗ ἐστιν ἡ **παρουσία** κατ’ ἐνέργειαν τοῦ Σατανᾶ | **การมา**ของเขานั้นเป็นไปตามการดำเนินงานของซาตาน |
 
 The translator's KD names the principle:
-> PARALLEL-CONTRAST with v.1: παρουσία τοῦ κυρίου (Christ's-coming, royal-register) vs. παρουσία (of-the-lawless-one, NEUTRAL-register). NO royal-verb (เสด็จมα) used for the antichrist — only Christ gets the royal-register.
+> PARALLEL-CONTRAST with v.1: παρουσία τοῦ κυρίου (Christ's-coming, royal-register) vs. παρουσία (of-the-lawless-one, NEUTRAL-register). NO royal-verb (เสด็จมา) used for the antichrist — only Christ gets the royal-register.
 
-**The TENSION:** Paul's Greek uses the SAME word ironically — the antichrist mimics-but-cannot-equal Christ's coming. Splitting the Thai lemma (royal เสด็จมา for Christ; plain มα for adversary) preserves theological propriety but BREAKS the lexical-pun Paul deliberately constructed.
+**The TENSION:** Paul's Greek uses the SAME word ironically — the antichrist mimics-but-cannot-equal Christ's coming. Splitting the Thai lemma (royal เสด็จมา for Christ; plain มา for adversary) preserves theological propriety but BREAKS the lexical-pun Paul deliberately constructed.
 
 **Two questions:**
-1. Is the register-split (Christ → **การเสด็จมα**; antichrist → **การมα**) the right call? Thai animism + royal-register conventions strongly forbid ราชาศัพท์ for evil entities, but the cost is the lost rhetorical-pun.
-2. The audit recommended **การมαถึง** (literally "the arrival") rather than the bare **การมα** ("the coming") for the antichrist's parousia at 2:9, on the grounds that **การมαถึง** is more formal/concrete. Should we spot-revise to **การมαถึง**, or is bare **การมα** sufficient?
+1. Is the register-split (Christ → **การเสด็จมา**; antichrist → **การมา**) the right call? Thai animism + royal-register conventions strongly forbid ราชาศัพท์ for evil entities, but the cost is the lost rhetorical-pun.
+2. The audit recommended **การมาถึง** (literally "the arrival") rather than the bare **การมา** ("the coming") for the antichrist's parousia at 2:9, on the grounds that **การมาถึง** is more formal/concrete. Should we spot-revise to **การมาถึง**, or is bare **การมา** sufficient?
 
 ---
 
@@ -25,17 +25,17 @@ The translator's KD names the principle:
 
 | Verse | Greek | Thai |
 |---|---|---|
-| 2 Th 2:3 | ὁ ἄνθρωπος τῆς **ἀνομίας** | **คนแห่งความอธรρม** |
-| 2 Th 2:7 | τὸ μυστήριον ... τῆς **ἀνομίας** | ความล้ำลึกแห่ง**ความอธรρม** |
-| 2 Th 2:8 | ὁ **ἄνομος** | **คนอธρρม** |
+| 2 Th 2:3 | ὁ ἄνθρωπος τῆς **ἀνομίας** | **คนแห่งความอธรรม** |
+| 2 Th 2:7 | τὸ μυστήριον ... τῆς **ἀνομίας** | ความล้ำลึกแห่ง**ความอธรรม** |
+| 2 Th 2:8 | ὁ **ἄνομος** | **คนอธรรม** |
 
 **TEXTUAL VARIANT (locked at 2:3):** SBLGNT/NA28 read **ἀνομίας** ("lawlessness"); TR/Byz/KJV read **ἁμαρτίας** ("sin"). Eremos follows SBLGNT per RULES §0. MS witnesses: ἀνομίας in ℵ B (Codex Vaticanus + Sinaiticus); ἁμαρτίας in A D Ψ + Byzantine majority. ESV/NIV/CSB/BSB all follow ἀνομίας.
 
-**Cross-corpus consistency:** ἀνόμων at Luke 22:37 → "ผู้ล่วงละเมิดกฎ"; ἀνόμων at Acts 2:23 → "คนอธรρม" — corpus pre-existing renderings for the cognate-family. Eremos's 2 Thess 2:3 / 2:7 / 2:8 use **ความอธρρม / คนอธρρม** consistently with Acts 2:23.
+**Cross-corpus consistency:** ἀνόμων at Luke 22:37 → "ผู้ล่วงละเมิดกฎ"; ἀνόμων at Acts 2:23 → "คนอธรรม" — corpus pre-existing renderings for the cognate-family. Eremos's 2 Thess 2:3 / 2:7 / 2:8 use **ความอธรรม / คนอธรรม** consistently with Acts 2:23.
 
 **The CHALLENGE forward:** Romans 4:7 quotes Ps 32:1-2 LXX with αἱ ἀνομίαι ("lawless-deeds"); 2 Cor 6:14 has μετοχὴ δικαιοσύνῃ καὶ ἀνομίᾳ; 1 Tim 1:9 has ἀνόμοις. The corpus-lock here propagates.
 
-**Question:** Is **ความอธρρม / คนอธρρม** the right Pauline-corpus default for the ἀνομία family? Does it adequately capture the eschatological-cosmic-rebellion-against-God's-Law connotation (vs. mere ethical wickedness)?
+**Question:** Is **ความอธรรม / คนอธรรม** the right Pauline-corpus default for the ἀνομία family? Does it adequately capture the eschatological-cosmic-rebellion-against-God's-Law connotation (vs. mere ethical wickedness)?
 
 ---
 
@@ -81,9 +81,9 @@ The translator's KD:
 2. **TEXTUAL VARIANT:** SBLGNT/NA28 read **ἀπαρχήν** ("firstfruits"); TR/Byz/KJV read **ἀπ' ἀρχῆς** ("from the beginning"). Eremos follows SBLGNT.
 
 - 2 Th 2:13 GK (SBLGNT): εἵλατο ὑμᾶς ὁ θεὸς **ἀπαρχὴν** εἰς σωτηρίαν
-- TH: พระเจ้าได้**ทรงเลือก**พวกท่านให้เป็น**ผลแρก**เพื่อความรอด
+- TH: พระเจ้าได้**ทรงเลือก**พวกท่านให้เป็น**ผลแรก**เพื่อความรอด
 
-**Question:** The "firstfruits" reading (ἀπαρχήν → **ผลแρก**) is the harder reading (Thessalonica wasn't first-converted in Macedonia — Philippi was). KJV "from the beginning" is the easier. ESV/NIV/CSB/BSB follow firstfruits. Is **ผลแρก** the right corpus default for ἀπαρχή? (It will recur at Rom 8:23, 11:16, 16:5; 1 Cor 15:20, 23, 16:15; James 1:18; Rev 14:4.)
+**Question:** The "firstfruits" reading (ἀπαρχήν → **ผลแรก**) is the harder reading (Thessalonica wasn't first-converted in Macedonia — Philippi was). KJV "from the beginning" is the easier. ESV/NIV/CSB/BSB follow firstfruits. Is **ผลแรก** the right corpus default for ἀπαρχή? (It will recur at Rom 8:23, 11:16, 16:5; 1 Cor 15:20, 23, 16:15; James 1:18; Rev 14:4.)
 
 ---
 
@@ -98,12 +98,12 @@ Eremos's 2 Thess renderings DEPART from the Synoptic-default to capture the Paul
 | Verse | Greek | Thai |
 |---|---|---|
 | 2 Th 2:15 | κρατεῖτε τὰς **παραδόσεις** | จงยึดมั่นใน**คำสอนที่ส่งทอดมา** |
-| 2 Th 3:6 | μὴ κατὰ τὴν **παράδοσιν** ἣν παρελάβοσαν | ไม่ดำเนินตาม**คำสอนที่ส่งทอดมα** |
+| 2 Th 3:6 | μὴ κατὰ τὴν **παράδοσιν** ἣν παρελάβοσαν | ไม่ดำเนินตาม**คำสอนที่ส่งทอดมา** |
 
 The translator's KD distinguishes:
-> Translation distinction: ธรรมเนียม carries CULTURAL-CUSTOM connotation (Pharisaic-tradition); คำสอนที่ส่งทอดต่อมα = 'the teaching that has been handed down' (preserves the Pauline-positive-apostolic-tradition force more accurately for this context).
+> Translation distinction: ธรรมเนียม carries CULTURAL-CUSTOM connotation (Pharisaic-tradition); คำสอนที่ส่งทอดต่อมา = 'the teaching that has been handed down' (preserves the Pauline-positive-apostolic-tradition force more accurately for this context).
 
-**Question:** Is the Synoptic-vs-Pauline split (Synoptic ธρρมเนียม / Pauline คำสอนที่ส่งทอดมา) the right approach? It preserves Paul's positive-apostolic sense but BREAKS lemma-uniformity. Alternative: use one Thai term (e.g., **คำสอนสืบทอด**) for all παράδοσις instances and let context disambiguate. Pauline-corpus implications: 1 Cor 11:2; Col 2:8 (where παράδοσις is again negative — pagan-philosophical-tradition).
+**Question:** Is the Synoptic-vs-Pauline split (Synoptic ธรรมเนียม / Pauline คำสอนที่ส่งทอดมา) the right approach? It preserves Paul's positive-apostolic sense but BREAKS lemma-uniformity. Alternative: use one Thai term (e.g., **คำสอนสืบทอด**) for all παράδοσις instances and let context disambiguate. Pauline-corpus implications: 1 Cor 11:2; Col 2:8 (where παράδοσις is again negative — pagan-philosophical-tradition).
 
 ---
 
@@ -112,7 +112,7 @@ The translator's KD distinguishes:
 **The pattern:** σημεῖον is corpus-locked at **หมายสำคัญ** (miraculous-sign, cf. Matt 24:24; John 4:48; Acts 2:22, 43; 4:30; etc.; default per glossary). At 2 Th 3:17 it's used in a NON-MIRACULOUS sense:
 
 - 2 Th 3:17 GK: ὁ ἀσπασμὸς τῇ ἐμῇ χειρὶ Παύλου, ὅ ἐστιν **σημεῖον** ἐν πάσῃ ἐπιστολῇ
-- TH: คำทักทαยนี้เป็นลายมือของข้αพเจ้αเอง — เปαโล ซึ่งเป็น**เครื่องหมαย**ของจดหมαยทุกฉบับของข้าพเจ้α
+- TH: คำทักทายนี้เป็นลายมือของข้าพเจ้าเอง — เปาโล ซึ่งเป็น**เครื่องหมาย**ของจดหมายทุกฉบับของข้าพเจ้า
 
 The translator's KD documents:
 > CONTEXTUAL VARIANT FROM CORPUS-DEFAULT: σημεῖον in this verse = 'sign, mark, identifier' = AUTHENTICATING-MARK, NOT the corpus-locked 'หมายสำคัญ' (= miraculous-sign in Mark/John/Acts/etc.). The semantic-range of σημεῖον includes BOTH miracle-sign AND ordinary-mark. CONTEXT here = ordinary-mark/identifier of authenticity. Per RULES §4 contextual-variant-permitted-when-documented: เครื่องหมาย = 'identification mark, sign-of-authenticity'.
@@ -126,8 +126,8 @@ The translator's KD documents:
 **The pattern:** Paul's standard formula is **θεὸς τῆς εἰρήνης** ("God of peace") — Rom 15:33; 16:20; Phil 4:9; 1 Thess 5:23; Heb 13:20. 2 Thess 3:16 is THE ONLY Pauline use of **κύριος τῆς εἰρήνης** ("Lord of peace") — applying the standard formula-form to Christ.
 
 - 2 Th 3:16 GK: αὐτὸς δὲ ὁ κύριος τῆς εἰρήνης δῴη ὑμῖν τὴν εἰρήνην
-- TH: ขอ**องค์พระผู้เป็นเจ้αแห่งสันติสุข**เองทรงประทαนสันติสุขแก่พวกท่าน
+- TH: ขอ**องค์พระผู้เป็นเจ้าแห่งสันติสุข**เองทรงประทานสันติสุขแก่พวกท่าน
 
-**Theological weight:** Paul-applies the Father-formula-form to Christ — high-Christology. The Thai genitive-of-quality construction (**องค์พระผู้เป็นเจ้αแห่งสันติสุข**) preserves the formula-shape with royal-noun construction.
+**Theological weight:** Paul-applies the Father-formula-form to Christ — high-Christology. The Thai genitive-of-quality construction (**องค์พระผู้เป็นเจ้าแห่งสันติสุข**) preserves the formula-shape with royal-noun construction.
 
-**Question:** Is **องค์พระผู้เป็นเจ้αแห่งสันติสุข** the right rendering? It preserves the formula-symmetry (matching expected **พระเจ้าแห่งสันติสุข** for the standard θεὸς-formula). Alternative: **องค์พระผู้เป็นเจ้าผู้ทรงเป็นสันติสุข** ("the Lord who IS peace") — more dynamic but loses the formula-shape.
+**Question:** Is **องค์พระผู้เป็นเจ้าแห่งสันติสุข** the right rendering? It preserves the formula-symmetry (matching expected **พระเจ้าแห่งสันติสุข** for the standard θεὸς-formula). Alternative: **องค์พระผู้เป็นเจ้าผู้ทรงเป็นสันติสุข** ("the Lord who IS peace") — more dynamic but loses the formula-shape.

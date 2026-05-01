@@ -36,7 +36,7 @@ The narrator's own voice (separate from quoted speech) continues to use Christ-h
 ## Edge cases
 
 **Q: What about the demoniac at Mark 5:7 / Luke 8:28 calling Jesus 'υἱὲ τοῦ θεοῦ τοῦ ὑψίστου'?**
-A: The DEMON-content includes a genuine Christological-recognition. The Thai narration still uses `ร้องเสียงดังว่า` (neutral). Inside the quote, address-form choices (`พระเยซูบุตรของพระเจ้α`) preserve the Christological-truth without socially-elevating-the-demon's-speech-stance.
+A: The DEMON-content includes a genuine Christological-recognition. The Thai narration still uses `ร้องเสียงดังว่า` (neutral). Inside the quote, address-form choices (`พระเยซูบุตรของพระเจ้า`) preserve the Christological-truth without socially-elevating-the-demon's-speech-stance.
 
 **Q: What about Job's Satan (LXX), or the OT הַשָּׂטָן when reached?**
 A: Same rule. Adversary speech-verbs neutral; Christological-content preserved as-content.

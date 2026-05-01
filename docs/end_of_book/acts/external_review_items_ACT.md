@@ -39,7 +39,7 @@
 
 **Cleanest example — Acts 26:23 (uses both senses contrastively):**
 - GK: `εἰ πρῶτος ἐξ ἀναστάσεως νεκρῶν φῶς μέλλει καταγγέλλειν τῷ τε λαῷ καὶ τοῖς ἔθνεσιν.`
-- TH: `และเมื่อทรงเป็นผู้แรกที่ฟื้นจากความตาย พระองค์จะทรงประกาศแสงสว่างแก่ชนชาติของเราและแก่บรรดาคนต่างชาติ»` (λαός→ชนชาติ "the people [of Israel]" vs. ἔθνεσιν→คนต่างชาติ "Gentiles")
+- TH: `และเมื่อทรงเป็นผู้แรกที่ฟื้นจากความตาย พระองค์จะทรงประกาศแสงสว่างแก่ชนชาติของเราและแก่บรรดาคนต่างชาติ»` (λาός→ชนชาติ "the people [of Israel]" vs. ἔธนεσιน→คนต่างชาติ "Gentiles")
 
 **Geopolitical / Psalmic — ประชาชาติ:**
 - Acts 4:25 GK: `Ἱνατί ἐφρύαξαν ἔθνη` (Psalm 2 quotation) → TH: `เหตุใดบรรดาประชาชาติจึงเดือดดาลเกรี้ยวกราด`
@@ -90,12 +90,12 @@
 - Acts 14:13 (Zeus priest) GK: `ὅ τε ἱερεὺς τοῦ Διὸς` → TH: `ปุโรหิตของวิหาร**ซีอุส**` (Zeus → ซีอุส transliteration)
 - Acts 17:23 (unknown god altar) GK: `βωμὸν ἐν ᾧ ἐπεγέγραπτο·Ἀγνώστῳ θεῷ` → TH: `แท่นบูชาแห่งหนึ่ง ซึ่งจารึกไว้ว่า «**แด่พระเจ้าที่ไม่รู้จัก**»` (NB: this is the inscription's own claim — Paul appropriates it to point to the biblical God; "พระเจ้า" register is the inscription's, not Luke's)
 - Acts 19:24 GK: `ποιῶν ναοὺς ἀργυροῦς Ἀρτέμιδος` → TH: `ทำศาลเจ้าเงินรูปของ**เทพีอารเทมิส**`
-- Acts 19:27 GK: `τῆς μεγάλης θεᾶς Ἀρτέμιδος` → TH: `**เทพี**อารเทมิสผู้ยิ่งใหญ่` (θεά→เทพี feminine pagan)
+- Acts 19:27 GK: `τῆς μεγάλης θεᾶς Ἀρτέμιδος` → TH: `**เทพี**อารเทมิสผู้ยิ่งใหญ่` (ธεά→เทพี feminine pagan)
 - Acts 28:4 (Maltese on Paul) GK: `ἡ δίκη ζῆν οὐκ εἴασεν` → TH: `**เทพีแห่งความยุติธรรม**ก็ไม่ยอมให้เขามีชีวิตอยู่` (Δίκη → descriptive translation)
 - Acts 28:6 GK: `μεταβαλόμενοι ἔλεγον αὐτὸν εἶναι θεόν` → TH: `พากันพูดว่าท่านเป็น**เทพเจ้าองค์หนึ่ง**` (a god, polytheistic register)
 - Acts 28:11 GK: `Ἀλεξανδρίνῳ,παρασήμῳ Διοσκούροις` → TH: `เป็นเรือจากเมืองอเล็กซานเดรีย มีรูป**ฝาแฝดดิออสคูรี**เป็นเครื่องหมายที่หัวเรือ` (Διόσκουροι → Greek-source transliteration "Dioscuri", NOT Latin Castor/Pollux)
 
-**Two questions:** (1) Is the register (เทพ/เทพี/เทพเจ้า) + transliteration-vs-descriptive split sound? (2) For Acts 28:11 specifically: is keeping the Greek Διόσκουροι→ดิออสคูรี the right call, or should the Thai pivot toward the more-recognizable Latin pair-name "Castor and Pollux" → คาสเตอร์และพอลลักซ์ (which Thai readers may know better through general mythology)?
+**Two questions:** (1) Is the register (เทพ/เทพี/เทพเจ้า) + transliteration-vs-descriptive split sound? (2) For Acts 28:11 specifically: is keeping the Greek Διόσκουรοι→ดิออสคูรี the right call, or should the Thai pivot toward the more-recognizable Latin pair-name "Castor and Pollux" → คาสเตอร์และพอลลักซ์ (which Thai readers may know better through general mythology)?
 
 The corpus has 19 corpus-level decision docs but none for pagan-deity policy. Pauline epistles will compound (1 Cor 8:5–6, 1 Cor 10:14–21, Rom 1:18–25, Gal 4:8–9). Should this become doc #20?
 

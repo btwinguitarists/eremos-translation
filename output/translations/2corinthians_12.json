@@ -10,7 +10,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ὀπτασίας καὶ ἀποκαλύψεις κυρίου", "thai": "นิมิตและการเปิดเผยจากองค์พระผู้เป็นเจ้α", "rationale": "ὀπτασία (NT freq=4) → 'นิมิต' (= 'vision'). ἀποκάλυψις → 'การเปิดเผย' (Pauline-revelation-vocabulary). Pauline-pair-doublet: visions (visual-experience) + revelations (cognitive-disclosure) — Thai preserves both." }
+        {
+          "greek": "ὀπτασίας καὶ ἀποκαλύψεις κυρίου",
+          "thai": "นิมิตและการเปิดเผยจากองค์พระผู้เป็นเจ้า",
+          "rationale": "ὀπτασία (NT freq=4) → 'นิมิต' (= 'vision'). ἀποκάλυψις → 'การเปิดเผย' (Pauline-revelation-vocabulary). Pauline-pair-doublet: visions (visual-experience) + revelations (cognitive-disclosure) — Thai preserves both."
+        }
       ],
       "notes": "Pauline-mystical-experience introduction. ὀπτασία = visual-vision; ἀποκάλυψις = cognitive-revelation."
     }
@@ -26,8 +30,16 @@
       "thai_literal": null,
       "thai_summary": "ข้อ 2-4 เปาโลกล่าวถึงประสบการณ์ของตนเองในรูปแบบที่สาม (third-person) — ‘ข้าพเจ้ารู้จักคนหนึ่ง’ — แทนที่จะอวดโดยตรง เปาโลถูกฉวยขึ้นไปยัง ‘ฟ้าสวรรค์ชั้นที่สาม’ (เป็นแนวคิดยิวโบราณที่แบ่งฟ้าสวรรค์เป็น 3 หรือ 7 ชั้น โดยฟ้าชั้นบนสุดเป็นที่ประทับของพระเจ้า) และได้ยิน ‘ถ้อยคำที่พรรณนาไม่ได้’ ตามมุมมองของเปาโล ความตึงเครียดสำคัญคือ — แม้แต่ประสบการณ์อันยิ่งใหญ่นี้ก็ไม่ใช่เหตุผลที่จะอวดมากกว่าผู้อื่น",
       "key_decisions": [
-        { "greek": "οἶδα ἄνθρωπον ἐν Χριστῷ πρὸ ἐτῶν δεκατεσσάρων", "thai": "ข้าพเจ้αรู้จักคนหนึ่งที่อยู่ในพระคριสต์ เมื่อสิบสี่ปีที่แล้ว", "rationale": "Pauline-self-third-person rhetoric. ἄνθρωπον ἐν Χριστῷ — Paul refers to himself indirectly. δεκατέσσαρες (NT freq=5) → 'สิบสี่.'" },
-        { "greek": "ἁρπαγέντα τὸν τοιοῦτον ἕως τρίτου οὐρανοῦ", "thai": "คนเช่นนี้ถูกฉวยขึ้นไปจนถึงฟ้าสวρρค์ชั้นที่สาม", "rationale": "ἁρπάζω passive-aorist 'have-been-snatched-up' → 'ถูกฉวยขึ้นไป.' τρίτου οὐρανοῦ → 'ฟ้าสวρρค์ชั้นที่สาม' — preserves Jewish-cosmology of layered-heavens." }
+        {
+          "greek": "οἶδα ἄνθρωπον ἐν Χριστῷ πρὸ ἐτῶν δεκατεσσάρων",
+          "thai": "ข้าพเจ้ารู้จักคนหนึ่งที่อยู่ในพระครιสต์ เมื่อสิบสี่ปีที่แล้ว",
+          "rationale": "Pauline-self-third-person rhetoric. ἄνθρωπον ἐν Χριστῷ — Paul refers to himself indirectly. δεκατέσσαρες (NT freq=5) → 'สิบสี่.'"
+        },
+        {
+          "greek": "ἁρπαγέντα τὸν τοιοῦτον ἕως τρίτου οὐρανοῦ",
+          "thai": "คนเช่นนี้ถูกฉวยขึ้นไปจนถึงฟ้าสวรรค์ชั้นที่สาม",
+          "rationale": "ἁρπάζω passive-aorist 'have-been-snatched-up' → 'ถูกฉวยขึ้นไป.' τρίτου οὐρανοῦ → 'ฟ้าสวรรค์ชั้นที่สาม' — preserves Jewish-cosmology of layered-heavens."
+        }
       ],
       "notes": "Pauline-mystical-experience (AD 41-43 timeframe by 14-year reckoning). 'Third heaven' = the highest layer in Jewish-cosmology where God dwells (cf 2 Enoch, Apoc-Mos)."
     }
@@ -43,7 +55,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "εἴτε ἐν σώματι εἴτε χωρὶς τοῦ σώματος οὐκ οἶδα, ὁ θεὸς οἶδεν", "thai": "จะเป็นในร่างกายหρือนอกร่างกาย ข้าพเจ้αไม่ทราบ พระเจ้αทρงทราบ", "rationale": "Pauline-epistemological-humility about own-mystical-experience. χωρὶς τοῦ σώματος → 'นอกร่างกาย' (parallel to v.2's ἐκτός). Em-dashes parenthetical (RULES §5b)." }
+        {
+          "greek": "εἴτε ἐν σώματι εἴτε χωρὶς τοῦ σώματος οὐκ οἶδα, ὁ θεὸς οἶδεν",
+          "thai": "จะเป็นในร่างกายหรือนอกร่างกาย ข้าพเจ้าไม่ทราบ พระเจ้าทรงทราบ",
+          "rationale": "Pauline-epistemological-humility about own-mystical-experience. χωρὶς τοῦ σώματος → 'นอกร่างกาย' (parallel to v.2's ἐκτός). Em-dashes parenthetical (RULES §5b)."
+        }
       ],
       "notes": null
     }
@@ -59,10 +75,18 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἡρπάγη εἰς τὸν παράδεισον", "thai": "ถูกฉวยขึ้นไปยังเมืองบρμสุข", "rationale": "παράδεισος (NT freq=3 — here + Luke 23:43 + Rev 2:7) Persian-loanword for 'enclosed-garden' = 'paradise.' Thai 'เมืองบρμสุข' (= 'city-of-supreme-bliss') — Thai-Christian standard for παράδεισος in heavenly-context (different from Eden-context where 'สวน' might fit). NEW LOCK: παράδεισος → 'เมืองบρμสุข' for heavenly-paradise context (will govern Luke 23:43 'today you will be with me in Paradise' + Rev 2:7 'tree of life in Paradise')." },
-        { "greek": "ἄρρητα ῥήματα ἃ οὐκ ἐξὸν ἀνθρώπῳ λαλῆσαι", "thai": "ถ้อยคำที่พρρณนาไม่ได้ ซึ่งมนุษย์ไม่ได้ρับอนุญาตให้กล่าว", "rationale": "ἄρρητος = NT-HAPAX (freq=1, only here) alpha-privative + ῥητός 'spoken' = 'unspoken / inexpressible' → 'ที่พρρณนาไม่ได้.' Pauline-mystical-secrecy: heard but not-permitted-to-speak." }
+        {
+          "greek": "ἡρπάγη εἰς τὸν παράδεισον",
+          "thai": "ถูกฉวยขึ้นไปยังเมืองบรมสุข",
+          "rationale": "παράδεισος (NT freq=3 — here + Luke 23:43 + Rev 2:7) Persian-loanword for 'enclosed-garden' = 'paradise.' Thai 'เมืองบรมสุข' (= 'city-of-supreme-bliss') — Thai-Christian standard for παράδεισος in heavenly-context (different from Eden-context where 'สวน' might fit). NEW LOCK: παράδεισος → 'เมืองบรมสุข' for heavenly-paradise context (will govern Luke 23:43 'today you will be with me in Paradise' + Rev 2:7 'tree of life in Paradise')."
+        },
+        {
+          "greek": "ἄρρητα ῥήματα ἃ οὐκ ἐξὸν ἀνθρώπῳ λαλῆσαι",
+          "thai": "ถ้อยคำที่พรรณนาไม่ได้ ซึ่งมนุษย์ไม่ได้รับอนุญาตให้กล่าว",
+          "rationale": "ἄρρητος = NT-HAPAX (freq=1, only here) alpha-privative + ῥητός 'spoken' = 'unspoken / inexpressible' → 'ที่พรรณนาไม่ได้.' Pauline-mystical-secrecy: heard but not-permitted-to-speak."
+        }
       ],
-      "notes": "ἄρρητος = NT HAPAX. παράδεισος LOCK established → 'เมืองบρμสุข.' Pauline-third-heaven = παράδεισος (likely-equivalent in Pauline-cosmology)."
+      "notes": "ἄρρητος = NT HAPAX. παράδεισος LOCK established → 'เมืองบรมสุข.' Pauline-third-heaven = παράδεισος (likely-equivalent in Pauline-cosmology)."
     }
   },
   {
@@ -76,7 +100,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ὑπὲρ τοῦ τοιούτου καυχήσομαι, ὑπὲρ δὲ ἐμαυτοῦ οὐ καυχήσομαι εἰ μὴ ἐν ταῖς ἀσθενείαις", "thai": "ข้าพเจ้αจะภาคภูมิใจในเρื่องคนเช่นนี้ แต่ข้าพเจ้αจะไม่ภาคภูมิใจในเρื่องของตัวเองเลย ยกเว้นในความอ่อนแอของข้าพเจ้α", "rationale": "Pauline-paradox: 'such-a-man' (= himself in third-person) is boast-worthy, but 'myself' (first-person) is only boast-worthy-in-weakness. καυχάομαι → 'ภาคภูมิใจ' (corpus lock). ἀσθένεια → 'ความอ่อนแอ.'" }
+        {
+          "greek": "ὑπὲρ τοῦ τοιούτου καυχήσομαι, ὑπὲρ δὲ ἐμαυτοῦ οὐ καυχήσομαι εἰ μὴ ἐν ταῖς ἀσθενείαις",
+          "thai": "ข้าพเจ้าจะภาคภูมิใจในเรื่องคนเช่นนี้ แต่ข้าพเจ้าจะไม่ภาคภูมิใจในเรื่องของตัวเองเลย ยกเว้นในความอ่อนแอของข้าพเจ้า",
+          "rationale": "Pauline-paradox: 'such-a-man' (= himself in third-person) is boast-worthy, but 'myself' (first-person) is only boast-worthy-in-weakness. καυχάομαι → 'ภาคภูมิใจ' (corpus lock). ἀσθένεια → 'ความอ่อนแอ.'"
+        }
       ],
       "notes": null
     }
@@ -92,8 +120,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "οὐκ ἔσομαι ἄφρων, ἀλήθειαν γὰρ ἐρῶ", "thai": "ข้าพเจ้αก็คงจะไม่ใช่คนโง่ เพราะข้าพเจ้าจะพูดความจริง", "rationale": "ἄφρων → 'คนโง่' (corpus lock from 11:16 cluster). ἀλήθεια → 'ความจริง.'" },
-        { "greek": "φείδομαι δέ, μή τις εἰς ἐμὲ λογίσηται ὑπὲρ ὃ βλέπει με", "thai": "ข้าพเจ้αยับยั้งตัวเอง เพื่อไม่ให้ผู้ใดถือว่าข้าพเจ้αยิ่งใหญ่กว่าที่เขαเห็น", "rationale": "φείδομαι here in 'refrain / restrain-self' sense → 'ยับยั้ง' (different from 1:23 'ปράρถนาจะไว้ชีวิต' for spare-from-pain context — context-distinguished per RULES §4)." }
+        {
+          "greek": "οὐκ ἔσομαι ἄφρων, ἀλήθειαν γὰρ ἐρῶ",
+          "thai": "ข้าพเจ้าก็คงจะไม่ใช่คนโง่ เพราะข้าพเจ้าจะพูดความจริง",
+          "rationale": "ἄφρων → 'คนโง่' (corpus lock from 11:16 cluster). ἀλήθεια → 'ความจริง.'"
+        },
+        {
+          "greek": "φείδομαι δέ, μή τις εἰς ἐμὲ λογίσηται ὑπὲρ ὃ βλέπει με",
+          "thai": "ข้าพเจ้ายับยั้งตัวเอง เพื่อไม่ให้ผู้ใดถือว่าข้าพเจ้ายิ่งใหญ่กว่าที่เขาเห็น",
+          "rationale": "φείδομαι here in 'refrain / restrain-self' sense → 'ยับยั้ง' (different from 1:23 'ปรάรถนาจะไว้ชีวิต' for spare-from-pain context — context-distinguished per RULES §4)."
+        }
       ],
       "notes": null
     }
@@ -109,8 +145,16 @@
       "thai_literal": null,
       "thai_summary": "ข้อ 7 เปาโลกล่าวถึง ‘หนามในเนื้อหนัง’ — เป็นภาพที่ทำให้ผู้อ่านสะดุด ตลอดประวัติศาสตร์มีการคาดเดาหลายแบบ — โรคทางกาย (เช่น โรคตา ปวดศีรษะเรื้อรัง โรคลมชัก) คนหรือกลุ่มที่ขัดขวางพันธกิจ ความล่อลวงทางบาป หรือการต่อต้านของชาวยิว เปาโลไม่ได้ระบุชัดเจน บางทีโดยตั้งใจ — เพื่อให้ข้อนี้สามารถพูดถึงประสบการณ์ความทุกข์ยากของผู้เชื่อในทุกยุค ที่สำคัญคือ พระเจ้าใช้ ‘หนาม’ นี้เพื่อทำให้เปาโลถ่อมตน ซาตานตั้งใจทำให้เจ็บปวด แต่พระเจ้าตั้งใจให้เกิดความถ่อมและความเชื่อพึ่งพา",
       "key_decisions": [
-        { "greek": "ἵνα μὴ ὑπεραίρωμαι ... ἐδόθη μοι σκόλοψ τῇ σαρκί", "thai": "เพื่อไม่ให้ข้าพเจ้αผยองตน...ได้มีหนามเข้ามาในเนื้อหนังของข้าพเจ้α", "rationale": "ὑπεραίρομαι (NT freq=3 — here + 2× this verse + 2 Th 2:4) → 'ผยองตน' (= 'exalt-self / be-puffed-up'). σκόλοψ = NT-HAPAX (freq=1, only here) → 'หนาม' (= 'thorn / sharp-stake'). Famous-Pauline-image. σάρξ → 'เนื้อหนัง.' Passive 'was-given' implies God-as-ultimate-agent — Pauline-providence-mystery (God + Satan paradox)." },
-        { "greek": "ἄγγελος Σατανᾶ, ἵνα με κολαφίζῃ", "thai": "เป็นทูตของซαตαนเพื่อทρμาνข้าพเจ้α", "rationale": "ἄγγελος Σατανᾶ → 'ทูตของซαตαน.' κολαφίζω (NT freq=5) → 'ทρμาν' (= 'torment / strike-with-fist')." }
+        {
+          "greek": "ἵνα μὴ ὑπεραίρωμαι ... ἐδόθη μοι σκόλοψ τῇ σαρκί",
+          "thai": "เพื่อไม่ให้ข้าพเจ้าผยองตน...ได้มีหนามเข้ามาในเนื้อหนังของข้าพเจ้า",
+          "rationale": "ὑπεραίρομαι (NT freq=3 — here + 2× this verse + 2 Th 2:4) → 'ผยองตน' (= 'exalt-self / be-puffed-up'). σκόλοψ = NT-HAPAX (freq=1, only here) → 'หนาม' (= 'thorn / sharp-stake'). Famous-Pauline-image. σάρξ → 'เนื้อหนัง.' Passive 'was-given' implies God-as-ultimate-agent — Pauline-providence-mystery (God + Satan paradox)."
+        },
+        {
+          "greek": "ἄγγελος Σατανᾶ, ἵνα με κολαφίζῃ",
+          "thai": "เป็นทูตของซาตานเพื่อทรมานข้าพเจ้า",
+          "rationale": "ἄγγελος Σατανᾶ → 'ทูตของซาตาน.' κολαφίζω (NT freq=5) → 'ทรมาน' (= 'torment / strike-with-fist')."
+        }
       ],
       "notes": "σκόλοψ = NT HAPAX. The famous 'thorn in the flesh' — Pauline-cryptic-suffering. uW + history-of-interpretation: physical-illness (eye-trouble per Gal 4:13-15), opponents, persecution, sin-temptation — Paul deliberately-vague."
     }
@@ -126,7 +170,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "τρὶς τὸν κύριον παρεκάλεσα ἵνα ἀποστῇ ἀπ’ ἐμοῦ", "thai": "ข้าพเจ้αได้วิงวอนต่อองค์พระผู้เป็นเจ้αสามครั้ง...เพื่อให้สิ่งนี้ออกไปจากข้าพเจ้α", "rationale": "παρακαλέω here in 'plead / urgent-prayer' sense → 'วิงวอน' (corpus lock). 'τρίς' = three-times (echoing Gethsemane-Christ's three-prayers, Mat 26:39-44 / Mark 14:35-41 — Pauline-allusion?)." }
+        {
+          "greek": "τρὶς τὸν κύριον παρεκάλεσα ἵνα ἀποστῇ ἀπ’ ἐμοῦ",
+          "thai": "ข้าพเจ้าได้วิงวอนต่อองค์พระผู้เป็นเจ้าสามครั้ง...เพื่อให้สิ่งนี้ออกไปจากข้าพเจ้า",
+          "rationale": "παρακαλέω here in 'plead / urgent-prayer' sense → 'วิงวอน' (corpus lock). 'τρίς' = three-times (echoing Gethsemane-Christ's three-prayers, Mat 26:39-44 / Mark 14:35-41 — Pauline-allusion?)."
+        }
       ],
       "notes": "Pauline-three-prayers — possible-allusion to Gethsemane (Christ's three prayers in suffering)."
     }
@@ -142,8 +190,16 @@
       "thai_literal": null,
       "thai_summary": "ข้อ 9 เป็นข้อพระคัมภีร์ที่อ้างกันบ่อยที่สุดในเรื่องความทุกข์ของคริสเตียน — ‘พระคุณของเราเพียงพอสำหรับเจ้า เพราะฤทธิ์อำนาจถูกทำให้สมบูรณ์ในความอ่อนแอ’ พระเจ้าไม่เอาหนามนี้ออก แต่ทรงสำแดงพระคุณของพระองค์ผ่านมัน เปาโลจึงเปลี่ยนจากการขอให้ออกไป กลายเป็นการภาคภูมิใจในความอ่อนแอ — เพราะนั่นเป็นที่ที่ฤทธิ์อำนาจของพระคริสต์สำแดงออกมาอย่างชัดเจนที่สุด หลักการนี้พลิกตรรกะของโลก: ความอ่อนแอ ไม่ใช่ความเข้มแข็ง คือทางที่พระเจ้าทรงทำงานในชีวิตเรา",
       "key_decisions": [
-        { "greek": "Ἀρκεῖ σοι ἡ χάρις μου · ἡ γὰρ δύναμις ἐν ἀσθενείᾳ τελεῖται", "thai": "'พระคุณของเραเพียงพอสำหρับเจ้า เพราะฤทธิ์อำนาจถูกทำให้สมบูρณ์ในความอ่อนแอ'", "rationale": "DIVINE-DIRECT-DISCOURSE — Christ-speaking-to-Paul. Curly single quotes for embedded-divine-speech (RULES §5b). ἀρκέω → 'เพียงพอ.' χάρις → 'พระคุณ' (corpus lock). δύναμις → 'ฤทธิ์อำนาจ.' τελέω here in 'be-perfected / brought-to-completion' sense → 'ถูกทำให้สมบูρณ์.' Famous-formula." },
-        { "greek": "ἵνα ἐπισκηνώσῃ ἐπ’ ἐμὲ ἡ δύναμις τοῦ Χριστοῦ", "thai": "เพื่อให้ฤทธิ์อำนาจของพระคριสต์มาสถิตอยู่บนข้าพเจ้α", "rationale": "ἐπισκηνόω = NT-HAPAX (freq=1, only here) cognate of σκηνή 'tent/dwelling' → 'มาสถิตอยู่บน' (= 'pitch-tent-upon / dwell-upon'). OT-shekinah-allusion: God's-presence-tabernacle on Paul. Christ-power 'tabernacles' on the apostle." }
+        {
+          "greek": "Ἀρκεῖ σοι ἡ χάρις μου · ἡ γὰρ δύναμις ἐν ἀσθενείᾳ τελεῖται",
+          "thai": "'พระคุณของเราเพียงพอสำหรับเจ้า เพราะฤทธิ์อำนาจถูกทำให้สมบูรณ์ในความอ่อนแอ'",
+          "rationale": "DIVINE-DIRECT-DISCOURSE — Christ-speaking-to-Paul. Curly single quotes for embedded-divine-speech (RULES §5b). ἀρκέω → 'เพียงพอ.' χάρις → 'พระคุณ' (corpus lock). δύναμις → 'ฤทธิ์อำนาจ.' τελέω here in 'be-perfected / brought-to-completion' sense → 'ถูกทำให้สมบูรณ์.' Famous-formula."
+        },
+        {
+          "greek": "ἵνα ἐπισκηνώσῃ ἐπ’ ἐμὲ ἡ δύναμις τοῦ Χριστοῦ",
+          "thai": "เพื่อให้ฤทธิ์อำนาจของพระครιสต์มาสถิตอยู่บนข้าพเจ้า",
+          "rationale": "ἐπισκηνόω = NT-HAPAX (freq=1, only here) cognate of σκηνή 'tent/dwelling' → 'มาสถิตอยู่บน' (= 'pitch-tent-upon / dwell-upon'). OT-shekinah-allusion: God's-presence-tabernacle on Paul. Christ-power 'tabernacles' on the apostle."
+        }
       ],
       "notes": "ἐπισκηνόω = NT HAPAX. Pauline-shekinah-allusion (cognate of σκηνή 'tent of meeting'). Famous 'My grace is sufficient' formula — locus-classicus of Christian-suffering-spirituality."
     }
@@ -159,8 +215,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "εὐδοκῶ ἐν ἀσθενείαις, ἐν ὕβρεσιν, ἐν ἀνάγκαις, ἐν διωγμοῖς καὶ στενοχωρίαις", "thai": "ยินดีในความอ่อนแอ ในการถูกดูหมิ่น ในความขัดสน ในการถูกข่มเหง และในความบีบคั้น", "rationale": "FIVE-FOLD list of sufferings-now-embraced. εὐδοκέω → 'ยินดี.' ὕβρις → 'การถูกดูหมิ่น.' ἀνάγκη → 'ความขัดสน' (6:4 lock). διωγμός → 'การถูกข่มเหง.' στενοχωρία → 'ความบีบคั้น' (6:4 lock)." },
-        { "greek": "ὅταν γὰρ ἀσθενῶ, τότε δυνατός εἰμι", "thai": "เมื่อข้าพเจ้αอ่อนแอ เมื่อนั้นข้าพเจ้าก็เข้มแข็ง", "rationale": "Pauline-paradox-aphorism. ἀσθενέω / δυνατός antithesis preserved." }
+        {
+          "greek": "εὐδοκῶ ἐν ἀσθενείαις, ἐν ὕβρεσιν, ἐν ἀνάγκαις, ἐν διωγμοῖς καὶ στενοχωρίαις",
+          "thai": "ยินดีในความอ่อนแอ ในการถูกดูหมิ่น ในความขัดสน ในการถูกข่มเหง และในความบีบคั้น",
+          "rationale": "FIVE-FOLD list of sufferings-now-embraced. εὐδοκέω → 'ยินดี.' ὕβρις → 'การถูกดูหมิ่น.' ἀνάγκη → 'ความขัดสน' (6:4 lock). διωγμός → 'การถูกข่มเหง.' στενοχωρία → 'ความบีบคั้น' (6:4 lock)."
+        },
+        {
+          "greek": "ὅταν γὰρ ἀσθενῶ, τότε δυνατός εἰμι",
+          "thai": "เมื่อข้าพเจ้าอ่อนแอ เมื่อนั้นข้าพเจ้าก็เข้มแข็ง",
+          "rationale": "Pauline-paradox-aphorism. ἀσθενέω / δυνατός antithesis preserved."
+        }
       ],
       "notes": "Pauline-classic 'when I am weak, then I am strong' aphorism — fitting summary of the Fool's Speech."
     }
@@ -176,8 +240,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "Γέγονα ἄφρων · ὑμεῖς με ἠναγκάσατε", "thai": "ข้าพเจ้αกลายเป็นคนโง่ พวกท่านบีบบังคับให้ข้าพเจ้αเป็นเช่นนั้น", "rationale": "Pauline-rhetorical-blame: 'you forced me to be a fool.' ἀναγκάζω → 'บีบบังคับ.'" },
-        { "greek": "οὐδὲν γὰρ ὑστέρησα τῶν ὑπερλίαν ἀποστόλων", "thai": "ข้าพเจ้αไม่ได้ด้อยกว่า 'อัคρทูตชั้นยอด' เหล่านั้นเลยแม้แต่น้อย", "rationale": "Echo of 11:5 ὑπερλίαν 'อัคρทูตชั้นยอด' lock. Pauline-irony continues — claim-equality-with-rivals as a fool." }
+        {
+          "greek": "Γέγονα ἄφρων · ὑμεῖς με ἠναγκάσατε",
+          "thai": "ข้าพเจ้ากลายเป็นคนโง่ พวกท่านบีบบังคับให้ข้าพเจ้าเป็นเช่นนั้น",
+          "rationale": "Pauline-rhetorical-blame: 'you forced me to be a fool.' ἀναγκάζω → 'บีบบังคับ.'"
+        },
+        {
+          "greek": "οὐδὲν γὰρ ὑστέρησα τῶν ὑπερλίαν ἀποστόλων",
+          "thai": "ข้าพเจ้าไม่ได้ด้อยกว่า 'อัครทูตชั้นยอด' เหล่านั้นเลยแม้แต่น้อย",
+          "rationale": "Echo of 11:5 ὑπερλίαν 'อัครทูตชั้นยอด' lock. Pauline-irony continues — claim-equality-with-rivals as a fool."
+        }
       ],
       "notes": null
     }
@@ -193,7 +265,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "σημείοις τε καὶ τέρασιν καὶ δυνάμεσιν", "thai": "หมายสำคัญ การอัศจρρย์ และฤทธิ์อำนาจ", "rationale": "Pauline-triple-formula for apostolic-credentials. σημεῖον → 'หมายสำคัญ' (corpus lock from Acts 2:43, RULES §4 σημεῖον cluster). τέρας → 'การอัศจρρย์' (= 'wonder / miracle'). δύναμις → 'ฤทธิ์อำนาจ.' Same triple in Acts 2:22, Heb 2:4 — 'signs, wonders, and powers' Pauline-OT-prophetic-pattern." }
+        {
+          "greek": "σημείοις τε καὶ τέρασιν καὶ δυνάμεσιν",
+          "thai": "หมายสำคัญ การอัศจรรย์ และฤทธิ์อำนาจ",
+          "rationale": "Pauline-triple-formula for apostolic-credentials. σημεῖον → 'หมายสำคัญ' (corpus lock from Acts 2:43, RULES §4 σημεῖον cluster). τέρας → 'การอัศจรรย์' (= 'wonder / miracle'). δύναμις → 'ฤทธิ์อำนาจ.' Same triple in Acts 2:22, Heb 2:4 — 'signs, wonders, and powers' Pauline-OT-prophetic-pattern."
+        }
       ],
       "notes": "Pauline-triple-formula 'signs, wonders, powers' — Pauline-apostolic-credentials. Echoes Acts 2:22, Heb 2:4."
     }
@@ -209,7 +285,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ὃ ἡσσώθητε ὑπὲρ τὰς λοιπὰς ἐκκλησίας ... χαρίσασθέ μοι τὴν ἀδικίαν ταύτην", "thai": "พวกท่านด้อยกว่าคριสตจักρอื่นๆ...ขอให้พวกท่านอภัยข้าพเจ้αในความผิดข้อนี้", "rationale": "Pauline-sarcastic-apology. ἡττάομαι → 'ด้อยกว่า.' χαρίζομαι → 'อภัย' (corpus lock from 2:7, 2:10). ἀδικία → 'ความผิด.'" }
+        {
+          "greek": "ὃ ἡσσώθητε ὑπὲρ τὰς λοιπὰς ἐκκλησίας ... χαρίσασθέ μοι τὴν ἀδικίαν ταύτην",
+          "thai": "พวกท่านด้อยกว่าครιสตจักรอื่นๆ...ขอให้พวกท่านอภัยข้าพเจ้าในความผิดข้อนี้",
+          "rationale": "Pauline-sarcastic-apology. ἡττάομαι → 'ด้อยกว่า.' χαρίζομαι → 'อภัย' (corpus lock from 2:7, 2:10). ἀδικία → 'ความผิด.'"
+        }
       ],
       "notes": null
     }
@@ -225,9 +305,21 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "Ἰδοὺ τρίτον τοῦτο ἑτοίμως ἔχω ἐλθεῖν", "thai": "นี่เป็นครั้งที่สามที่ข้าพเจ้αพρ้อมจะมาหา", "rationale": "Pauline-third-visit (cf 13:1). 'τρίτον' = third-time-prepared (= the upcoming third visit). ἑτοίμως → 'พรอม.'" },
-        { "greek": "οὐ γὰρ ζητῶ τὰ ὑμῶν ἀλλὰ ὑμᾶς", "thai": "ไม่ได้แสวงหาทρัพย์สินของพวกท่าน แต่แสวงหาตัวพวกท่านเอง", "rationale": "Pauline-pastoral-heart: parent-child-image of next clause." },
-        { "greek": "οὐ γὰρ ὀφείλει τὰ τέκνα τοῖς γονεῦσιν θησαυρίζειν, ἀλλὰ οἱ γονεῖς τοῖς τέκνοις", "thai": "ลูก ๆ ไม่จำเป็นต้องเก็บทρัพย์ไว้สำหρับพ่อแม่ แต่พ่อแม่ต่างหากที่เก็บไว้สำหρับลูก ๆ", "rationale": "Pauline-parent-child-economic-principle. τέκνα → 'ลูก ๆ' (corpus lock from 1 Co 4:14). γονεύς → 'พ่อแม่.' θησαυρίζω → 'เก็บทρัพย์ไว้.'" }
+        {
+          "greek": "Ἰδοὺ τρίτον τοῦτο ἑτοίμως ἔχω ἐλθεῖν",
+          "thai": "นี่เป็นครั้งที่สามที่ข้าพเจ้าพร้อมจะมาหา",
+          "rationale": "Pauline-third-visit (cf 13:1). 'τρίτον' = third-time-prepared (= the upcoming third visit). ἑτοίμως → 'พรอม.'"
+        },
+        {
+          "greek": "οὐ γὰρ ζητῶ τὰ ὑμῶν ἀλλὰ ὑμᾶς",
+          "thai": "ไม่ได้แสวงหาทรัพย์สินของพวกท่าน แต่แสวงหาตัวพวกท่านเอง",
+          "rationale": "Pauline-pastoral-heart: parent-child-image of next clause."
+        },
+        {
+          "greek": "οὐ γὰρ ὀφείλει τὰ τέκνα τοῖς γονεῦσιν θησαυρίζειν, ἀλλὰ οἱ γονεῖς τοῖς τέκνοις",
+          "thai": "ลูก ๆ ไม่จำเป็นต้องเก็บทรัพย์ไว้สำหรับพ่อแม่ แต่พ่อแม่ต่างหากที่เก็บไว้สำหรับลูก ๆ",
+          "rationale": "Pauline-parent-child-economic-principle. τέκνα → 'ลูก ๆ' (corpus lock from 1 Co 4:14). γονεύς → 'พ่อแม่.' θησαυρίζω → 'เก็บทรัพย์ไว้.'"
+        }
       ],
       "notes": "Third-visit-announcement (cf 13:1). Pauline-parental-pastoral-image."
     }
@@ -243,7 +335,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἥδιστα δαπανήσω καὶ ἐκδαπανηθήσομαι ὑπὲρ τῶν ψυχῶν ὑμῶν", "thai": "ใช้จ่ายและถูกใช้จนหมดด้วยใจยินดียิ่งเพื่อชีวิตของพวกท่าน", "rationale": "δαπανάω 'spend (money/resources)' → 'ใช้จ่าย.' ἐκδαπανάομαι = NT-HAPAX (freq=1, only here) intensified-passive 'be-spent-utterly' → 'ถูกใช้จนหมด' (= 'be-used-up'). ψυχή → 'ชีวิต' (corpus pattern from 1:23 'ต่อชีวิต')." }
+        {
+          "greek": "ἥδιστα δαπανήσω καὶ ἐκδαπανηθήσομαι ὑπὲρ τῶν ψυχῶν ὑμῶν",
+          "thai": "ใช้จ่ายและถูกใช้จนหมดด้วยใจยินดียิ่งเพื่อชีวิตของพวกท่าน",
+          "rationale": "δαπανάω 'spend (money/resources)' → 'ใช้จ่าย.' ἐκδαπανάομαι = NT-HAPAX (freq=1, only here) intensified-passive 'be-spent-utterly' → 'ถูกใช้จนหมด' (= 'be-used-up'). ψυχή → 'ชีวิต' (corpus pattern from 1:23 'ต่อชีวิต')."
+        }
       ],
       "notes": "ἐκδαπανάομαι = NT HAPAX. Pauline-self-expenditure: spend money + spend self."
     }
@@ -259,7 +355,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἀλλὰ ὑπάρχων πανοῦργος δόλῳ ὑμᾶς ἔλαβον", "thai": "แต่เพราะข้าพเจ้αเป็นคนเจ้าเล่ห์ จึงหลอกจับพวกท่านด้วยอุบาย", "rationale": "Pauline-sarcastic-self-accusation: voicing-rivals'-claim. καταβαρέω = NT-HAPAX (freq=1, only here) → 'เป็นภาระ.' πανοῦργος = NT-HAPAX (freq=1, only here) cognate of πανουργία ('เล่ห์เหลี่ยม' lock) → 'เจ้าเล่ห์.' δόλος → 'อุบาย.' Em-dash for sarcasm-marker (RULES §5b)." }
+        {
+          "greek": "ἀλλὰ ὑπάρχων πανοῦργος δόλῳ ὑμᾶς ἔλαβον",
+          "thai": "แต่เพราะข้าพเจ้าเป็นคนเจ้าเล่ห์ จึงหลอกจับพวกท่านด้วยอุบาย",
+          "rationale": "Pauline-sarcastic-self-accusation: voicing-rivals'-claim. καταβαρέω = NT-HAPAX (freq=1, only here) → 'เป็นภาระ.' πανοῦργος = NT-HAPAX (freq=1, only here) cognate of πανουργία ('เล่ห์เหลี่ยม' lock) → 'เจ้าเล่ห์.' δόλος → 'อุบาย.' Em-dash for sarcasm-marker (RULES §5b)."
+        }
       ],
       "notes": "καταβαρέω + πανοῦργος BOTH NT HAPAXES. Pauline-mock-self-accusation in voice of rivals."
     }
@@ -275,7 +375,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἐπλεονέκτησα ὑμᾶς", "thai": "ได้เอาเปρียบพวกท่าน", "rationale": "πλεονεκτέω → 'เอαเปρียบ' (corpus lock from 2:11, 7:2)." }
+        {
+          "greek": "ἐπλεονέκτησα ὑμᾶς",
+          "thai": "ได้เอาเปรียบพวกท่าน",
+          "rationale": "πλεονεκτέω → 'เอาเปรียบ' (corpus lock from 2:11, 7:2)."
+        }
       ],
       "notes": null
     }
@@ -291,8 +395,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "παρεκάλεσα Τίτον καὶ συναπέστειλα τὸν ἀδελφόν", "thai": "ได้ขอร้องทิตัส และได้ส่งพี่น้องไปด้วย", "rationale": "συναποστέλλω = NT-HAPAX (freq=1, only here) compound σύν+ἀποστέλλω → 'ส่ง...ไปด้วย.' Τίτος → 'ทิตัส' (corpus lock)." },
-        { "greek": "οὐ τῷ αὐτῷ πνεύματι περιεπατήσαμεν; οὐ τοῖς αὐτοῖς ἴχνεσιν", "thai": "เราไม่ได้ดำเนินด้วยจิตวิญญาณเดียวกันหρือ? ในρอยเท้าเดียวกันมิใช่หρือ?", "rationale": "πνεῦμα here = 'spirit / disposition' (anthropological-spirit lock from 1 Th 5:23 'จิตวิญญαณ'; could also = Holy-Spirit; ambiguity-preserved). ἴχνος → 'ρอยเท้า.'" }
+        {
+          "greek": "παρεκάλεσα Τίτον καὶ συναπέστειλα τὸν ἀδελφόν",
+          "thai": "ได้ขอร้องทิตัส และได้ส่งพี่น้องไปด้วย",
+          "rationale": "συναποστέλλω = NT-HAPAX (freq=1, only here) compound σύν+ἀποστέλλω → 'ส่ง...ไปด้วย.' Τίτος → 'ทิตัส' (corpus lock)."
+        },
+        {
+          "greek": "οὐ τῷ αὐτῷ πνεύματι περιεπατήσαμεν; οὐ τοῖς αὐτοῖς ἴχνεσιν",
+          "thai": "เราไม่ได้ดำเนินด้วยจิตวิญญาณเดียวกันหรือ? ในรอยเท้าเดียวกันมิใช่หรือ?",
+          "rationale": "πνεῦμα here = 'spirit / disposition' (anthropological-spirit lock from 1 Th 5:23 'จิตวิญญาณ'; could also = Holy-Spirit; ambiguity-preserved). ἴχνος → 'รอยเท้า.'"
+        }
       ],
       "notes": "συναποστέλλω = NT HAPAX."
     }
@@ -308,8 +420,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἀπολογούμεθα ... κατέναντι θεοῦ ἐν Χριστῷ λαλοῦμεν", "thai": "กำลังแก้ต่างต่อพวกท่าน...กล่าวต่อพระพักτρ์พระเจ้αในพระคριสต์", "rationale": "ἀπολογέομαι → 'แก้ต่าง' (cognate of ἀπολογία 1 Co 9:3 'คำแก้' lock; 7:11 'การแก้ต่าง' lock). κατέναντι θεοῦ → 'ต่อพระพักτρ์พระเจ้α' (consistency with 2:17 lock)." },
-        { "greek": "ὑπὲρ τῆς ὑμῶν οἰκοδομῆς", "thai": "เพื่อการเสริมสร้างพวกท่าน", "rationale": "οἰκοδομή → 'การเสริมสρ้าง' (consistency with 10:8 lock for build-up sense; multi-sense from 5:1 'อาคาร')." }
+        {
+          "greek": "ἀπολογούμεθα ... κατέναντι θεοῦ ἐν Χριστῷ λαλοῦμεν",
+          "thai": "กำลังแก้ต่างต่อพวกท่าน...กล่าวต่อพระพักτร์พระเจ้าในพระครιสต์",
+          "rationale": "ἀπολογέομαι → 'แก้ต่าง' (cognate of ἀπολογία 1 Co 9:3 'คำแก้' lock; 7:11 'การแก้ต่าง' lock). κατέναντι θεοῦ → 'ต่อพระพักτร์พระเจ้า' (consistency with 2:17 lock)."
+        },
+        {
+          "greek": "ὑπὲρ τῆς ὑμῶν οἰκοδομῆς",
+          "thai": "เพื่อการเสริมสร้างพวกท่าน",
+          "rationale": "οἰκοδομή → 'การเสริมสร้าง' (consistency with 10:8 lock for build-up sense; multi-sense from 5:1 'อาคาร')."
+        }
       ],
       "notes": null
     }
@@ -325,7 +445,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἔρις, ζῆλος, θυμοί, ἐριθεῖαι, καταλαλιαί, ψιθυρισμοί, φυσιώσεις, ἀκαταστασίαι", "thai": "การวิวาท ความริษยา ความฉุนเฉียว การชิงดีชิงเด่น การนินทา การพูดกρะซิบนินทα ความผยอง และความวุ่นวาย", "rationale": "EIGHT-FOLD vice-list (Pauline-rhetorical-cataloguing). ἔρις → 'การวิวาท' (1 Co 3:3 lock). ζῆλος here in NEGATIVE-rivalry sense → 'ความρิษยα' (RULES §4 multi-sense — 1 Co 3:3 lock; vs positive 'ความกρะตือρือρ้น' 7:7+ vs protective 'หวงแหน' 11:2). θυμοί → 'ความฉุนเฉียว.' ἐριθεία → 'การชิงดีชิงเด่น.' καταλαλιά (NT freq=2 — here + 1 Pet 2:1) → 'การนินทา.' ψιθυρισμός = NT-HAPAX (freq=1, only here) → 'การพูดกρะซิบนินทα' (= 'whispered-slander'). φυσίωσις = NT-HAPAX (freq=1, only here) cognate of φυσιόω 'puff-up' → 'ความผยอง.' ἀκαταστασία → 'ความวุ่นวาย' (6:5 lock)." }
+        {
+          "greek": "ἔρις, ζῆλος, θυμοί, ἐριθεῖαι, καταλαλιαί, ψιθυρισμοί, φυσιώσεις, ἀκαταστασίαι",
+          "thai": "การวิวาท ความริษยา ความฉุนเฉียว การชิงดีชิงเด่น การนินทา การพูดกระซิบนินทา ความผยอง และความวุ่นวาย",
+          "rationale": "EIGHT-FOLD vice-list (Pauline-rhetorical-cataloguing). ἔρις → 'การวิวาท' (1 Co 3:3 lock). ζῆλος here in NEGATIVE-rivalry sense → 'ความริษยา' (RULES §4 multi-sense — 1 Co 3:3 lock; vs positive 'ความกระตือรือร้น' 7:7+ vs protective 'หวงแหน' 11:2). θυμοί → 'ความฉุนเฉียว.' ἐριθεία → 'การชิงดีชิงเด่น.' καταλαλιά (NT freq=2 — here + 1 Pet 2:1) → 'การนินทา.' ψιθυρισμός = NT-HAPAX (freq=1, only here) → 'การพูดกระซิบนินทา' (= 'whispered-slander'). φυσίωσις = NT-HAPAX (freq=1, only here) cognate of φυσιόω 'puff-up' → 'ความผยอง.' ἀκαταστασία → 'ความวุ่นวาย' (6:5 lock)."
+        }
       ],
       "notes": "ψιθυρισμός + φυσίωσις BOTH NT HAPAXES. ζῆλος-MULTI-SENSE in this verse uses negative-rivalry sense (cf 1 Co 3:3). Pauline-eight-fold-vice-catalog."
     }
@@ -341,8 +465,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ταπεινώσῃ με ὁ θεός μου πρὸς ὑμᾶς", "thai": "พระเจ้αของข้าพเจ้าจะทρงทำให้ข้าพเจ้าถ่อมลงต่อพวกท่าน", "rationale": "ταπεινόω → 'ทำให้...ถ่อมลง.' Pauline-humility-fear: God-will-humble-Paul-publicly if Corinthian-condition unimproved." },
-        { "greek": "πενθήσω πολλοὺς τῶν προημαρτηκότων καὶ μὴ μετανοησάντων ἐπὶ τῇ ἀκαθαρσίᾳ καὶ πορνείᾳ καὶ ἀσελγείᾳ", "thai": "ข้าพเจ้αจะโศกเศρ้าเพราะคนเป็นจำนวนมากที่ได้ทำบาปมาก่อน และไม่ได้กลับใจจากความไม่บริสุทธิ์ การล่วงประเวณี และความลามก", "rationale": "πενθέω → 'โศกเศร้า.' προαμαρτάνω (NT freq=2 — here + 13:2) → 'ทำบาปมาก่อน.' μετανοέω → 'กลับใจ' (RULES §4 lock). ἀκαθαρσία → 'ความไม่บριสุทธิ์.' πορνεία → 'การล่วงประเวณี' (corpus lock from 1 Co 5-6 cluster + RULES §4). ἀσέλγεια → 'ความลามก' (= 'debauchery / licentiousness')." }
+        {
+          "greek": "ταπεινώσῃ με ὁ θεός μου πρὸς ὑμᾶς",
+          "thai": "พระเจ้าของข้าพเจ้าจะทรงทำให้ข้าพเจ้าถ่อมลงต่อพวกท่าน",
+          "rationale": "ταπεινόω → 'ทำให้...ถ่อมลง.' Pauline-humility-fear: God-will-humble-Paul-publicly if Corinthian-condition unimproved."
+        },
+        {
+          "greek": "πενθήσω πολλοὺς τῶν προημαρτηκότων καὶ μὴ μετανοησάντων ἐπὶ τῇ ἀκαθαρσίᾳ καὶ πορνείᾳ καὶ ἀσελγείᾳ",
+          "thai": "ข้าพเจ้าจะโศกเศร้าเพราะคนเป็นจำนวนมากที่ได้ทำบาปมาก่อน และไม่ได้กลับใจจากความไม่บริสุทธิ์ การล่วงประเวณี และความลามก",
+          "rationale": "πενθέω → 'โศกเศร้า.' προαμαρτάνω (NT freq=2 — here + 13:2) → 'ทำบาปมาก่อน.' μετανοέω → 'กลับใจ' (RULES §4 lock). ἀκαθαρσία → 'ความไม่บรιสุทธิ์.' πορνεία → 'การล่วงประเวณี' (corpus lock from 1 Co 5-6 cluster + RULES §4). ἀσέλγεια → 'ความลามก' (= 'debauchery / licentiousness')."
+        }
       ],
       "notes": "Pauline-three-fold-vice-list ἀκαθαρσία + πορνεία + ἀσέλγεια — sexual-immorality cluster (cf Gal 5:19, Eph 5:3-5)."
     }

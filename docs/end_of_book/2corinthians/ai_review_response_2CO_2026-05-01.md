@@ -96,9 +96,9 @@ Option (b) is the more exegetically defensible per AI consensus, but is a mainta
 
 ---
 
-## Item G — διαθήκη → พันธสัญญα (canon-naming pun)
+## Item G — διαθήκη → พันธสัญญา (canon-naming pun)
 
-3/3 FINE. **LOCK as-is.** The Thai canonical names (พันธสัญญαเดิม/ใหม่) exist *because of* this exact Pauline theology. Preserving the naming-pun reinforces Paul's argument at 3:14. For Hebrews μεσίτης διαθήκης, use `คนกลางแห่งพันธสัญญา`.
+3/3 FINE. **LOCK as-is.** The Thai canonical names (พันธสัญญาเดิม/ใหม่) exist *because of* this exact Pauline theology. Preserving the naming-pun reinforces Paul's argument at 3:14. For Hebrews μεσίτης διαθήκης, use `คนกลางแห่งพันธสัญญา`.
 
 **Doc action:** Lift to `diatheke_covenant_2026-05.md` (queued).
 
@@ -114,9 +114,9 @@ Option (b) is the more exegetically defensible per AI consensus, but is a mainta
 
 ## §Z — Anything else (Gemini's note on ἄφρων / ἀφροσύνη register)
 
-Gemini noted: keep ἄφρων / ἀφροσύνη consistent (เขลα / ความเขลα over โง่ / บ้α) to maintain the wisdom-literature register Paul ironically adopts.
+Gemini noted: keep ἄφρων / ἀφροσύνη consistent (เขลา / ความเขลา over โง่ / บ้า) to maintain the wisdom-literature register Paul ironically adopts.
 
-**Disposition:** **REVIEW.** Current 2 Cor render is `คนโง่` / `ความโง่เขลα` — `เขลα` is in the noun but not the substantive. Defer to native-Thai-speaker review whether `คนเขลα` reads more wisdom-literature-register than `คนโง่`. Not blocking tag; logged for future revision pass.
+**Disposition:** **REVIEW.** Current 2 Cor render is `คนโง่` / `ความโง่เขลา` — `เขลา` is in the noun but not the substantive. Defer to native-Thai-speaker review whether `คนเขลา` reads more wisdom-literature-register than `คนโง่`. Not blocking tag; logged for future revision pass.
 
 ---
 

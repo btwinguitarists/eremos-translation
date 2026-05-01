@@ -10,7 +10,11 @@
       "thai_literal": null,
       "thai_summary": "บทที่ 13 เป็นบทสุดท้ายของจดหมายฉบับที่สองถึงชาวโครินธ์ — เปาโลประกาศการมาเยี่ยมครั้งที่สามและอ้างกฎของเฉลยธรรมบัญญัติ 19:15 ที่ว่า ‘ทุกเรื่องต้องยืนยันโดยปากของพยานสองหรือสามคน’ — เพื่อบอกว่าเมื่อท่านมาถึง ท่านจะดำเนินการสอบสวนตามกระบวนการที่เป็นธรรม บทนี้ปิดท้ายด้วยคำอำนวยพระพรอันยิ่งใหญ่ในข้อ 13 — หนึ่งในข้อพระคัมภีร์ที่อ้างถึงพระตรีเอกภาพอย่างชัดเจนที่สุดในพันธสัญญาใหม่",
       "key_decisions": [
-        { "greek": "ἐπὶ στόματος δύο μαρτύρων καὶ τριῶν σταθήσεται πᾶν ῥῆμα", "thai": "'ทุกเρื่องจะตั้งมั่นโดยปากของพยานสองหρือสามคน'", "rationale": "DIRECT QUOTATION of LXX Deut 19:15 (= Mat 18:16). Greek nearly-matches LXX. στόμα → 'ปาก' (Pauline-locked usage). μάρτυς → 'พยาν.' ῥῆμα → 'เρื่อง / ถ้อยคำ.' ἵστημι passive-future → 'จะตั้งมั่น.' Curly single quotes for OT-quote (RULES §5b)." }
+        {
+          "greek": "ἐπὶ στόματος δύο μαρτύρων καὶ τριῶν σταθήσεται πᾶν ῥῆμα",
+          "thai": "'ทุกเรื่องจะตั้งมั่นโดยปากของพยานสองหรือสามคน'",
+          "rationale": "DIRECT QUOTATION of LXX Deut 19:15 (= Mat 18:16). Greek nearly-matches LXX. στόμα → 'ปาก' (Pauline-locked usage). μάρτυς → 'พยาน.' ῥῆμα → 'เรื่อง / ถ้อยคำ.' ἵστημι passive-future → 'จะตั้งมั่น.' Curly single quotes for OT-quote (RULES §5b)."
+        }
       ],
       "notes": "OT QUOTATION: Deut 19:15 LXX (two-or-three-witnesses-rule). Same quote at Mat 18:16. Will be added to nt_ot_citations.json."
     }
@@ -26,8 +30,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "προείρηκα καὶ προλέγω", "thai": "ข้าพเจ้าได้กล่าวไว้ก่อนแล้วและกล่าวอีกครั้ง", "rationale": "Greek perfect + present 'have-said-before and now-say.' Thai 'ได้กล่าวไว้ก่อนแล้วและกล่าวอีกครั้ง' captures the temporal-emphasis." },
-        { "greek": "ἐὰν ἔλθω εἰς τὸ πάλιν οὐ φείσομαι", "thai": "เมื่อข้าพเจ้ามาอีก ข้าพเจ้αจะไม่ละเว้น", "rationale": "φείδομαι here in 'spare / refrain-from-action' sense → 'ละเว้น' (different from 1:23 'ปράρถนาจะไว้ชีวิต' for spare-from-pain context — context-distinguished per RULES §4)." }
+        {
+          "greek": "προείρηκα καὶ προλέγω",
+          "thai": "ข้าพเจ้าได้กล่าวไว้ก่อนแล้วและกล่าวอีกครั้ง",
+          "rationale": "Greek perfect + present 'have-said-before and now-say.' Thai 'ได้กล่าวไว้ก่อนแล้วและกล่าวอีกครั้ง' captures the temporal-emphasis."
+        },
+        {
+          "greek": "ἐὰν ἔλθω εἰς τὸ πάλιν οὐ φείσομαι",
+          "thai": "เมื่อข้าพเจ้ามาอีก ข้าพเจ้าจะไม่ละเว้น",
+          "rationale": "φείδομαι here in 'spare / refrain-from-action' sense → 'ละเว้น' (different from 1:23 'ปรάรถนาจะไว้ชีวิต' for spare-from-pain context — context-distinguished per RULES §4)."
+        }
       ],
       "notes": null
     }
@@ -43,8 +55,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "δοκιμὴν ζητεῖτε τοῦ ἐν ἐμοὶ λαλοῦντος Χριστοῦ", "thai": "พวกท่านแสวงหาบทพิสูจน์ว่าพระคριสต์ทρงตρัสในตัวข้าพเจ้α", "rationale": "δοκιμή → 'บทพิสูจน์' (corpus lock from 2:9). Christ-as-speaking-subject takes royal 'ทρงตρัส' (RULES §3)." },
-        { "greek": "ὃς εἰς ὑμᾶς οὐκ ἀσθενεῖ ἀλλὰ δυνατεῖ ἐν ὑμῖν", "thai": "พระองค์ไม่ได้ทρงอ่อนแอในการเผชิญกับพวกท่าน แต่ทρงพลังในหมู่พวกท่าน", "rationale": "δυνατέω → 'ทρงพลัง' (corpus pattern from 9:8 'ทρงสามาρถ' — here intensified-divine-power form). Christ-as-active-subject takes ทρง." }
+        {
+          "greek": "δοκιμὴν ζητεῖτε τοῦ ἐν ἐμοὶ λαλοῦντος Χριστοῦ",
+          "thai": "พวกท่านแสวงหาบทพิสูจน์ว่าพระครιสต์ทรงตรัสในตัวข้าพเจ้า",
+          "rationale": "δοκιμή → 'บทพิสูจน์' (corpus lock from 2:9). Christ-as-speaking-subject takes royal 'ทรงตรัส' (RULES §3)."
+        },
+        {
+          "greek": "ὃς εἰς ὑμᾶς οὐκ ἀσθενεῖ ἀλλὰ δυνατεῖ ἐν ὑμῖν",
+          "thai": "พระองค์ไม่ได้ทรงอ่อนแอในการเผชิญกับพวกท่าน แต่ทรงพลังในหมู่พวกท่าน",
+          "rationale": "δυνατέω → 'ทรงพลัง' (corpus pattern from 9:8 'ทรงสามารถ' — here intensified-divine-power form). Christ-as-active-subject takes ทรง."
+        }
       ],
       "notes": null
     }
@@ -60,7 +80,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἐσταυρώθη ἐξ ἀσθενείας, ἀλλὰ ζῇ ἐκ δυνάμεως θεοῦ", "thai": "พระองค์ทρงถูกตρึงด้วยความอ่อนแอ แต่ทρงพระชนม์อยู่โดยฤทธิ์อำนาจของพระเจ้α", "rationale": "σταυρόω → 'ถูกตρึง' (= 'be-crucified'; corpus standard). Christ-passive-as-subject takes ทρง for honorific. ζάω present (Christ-resurrected) → 'ทρงพระชนม์อยู่.' Pauline-cross-and-resurrection-paradox." }
+        {
+          "greek": "ἐσταυρώθη ἐξ ἀσθενείας, ἀλλὰ ζῇ ἐκ δυνάμεως θεοῦ",
+          "thai": "พระองค์ทรงถูกตรึงด้วยความอ่อนแอ แต่ทรงพระชนม์อยู่โดยฤทธิ์อำนาจของพระเจ้า",
+          "rationale": "σταυρόω → 'ถูกตรึง' (= 'be-crucified'; corpus standard). Christ-passive-as-subject takes ทรง for honorific. ζάω present (Christ-resurrected) → 'ทรงพระชนม์อยู่.' Pauline-cross-and-resurrection-paradox."
+        }
       ],
       "notes": null
     }
@@ -76,8 +100,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "Ἑαυτοὺς πειράζετε εἰ ἐστὲ ἐν τῇ πίστει, ἑαυτοὺς δοκιμάζετε", "thai": "จงตρวจสอบตัวเองว่าพวกท่านอยู่ในความเชื่อหρือไม่ จงทดสอบตัวเอง", "rationale": "πειράζω → 'ตρวจสอบ.' δοκιμάζω → 'ทดสอบ.' Pauline-self-examination-imperative." },
-        { "greek": "Ἰησοῦς Χριστὸς ἐν ὑμῖν ... εἰ μήτι ἀδόκιμοί ἐστε", "thai": "พระเยซูคριสต์ทρงสถิตอยู่ในพวกท่าน — เว้นแต่พวกท่านสอบไม่ผ่าน", "rationale": "Christ-indwelling believers (Pauline-mystical-union). ἀδόκιμος → 'สอบไม่ผ่าน' (= 'fail-the-test'; antonym of δόκιμος 'ผู้ที่ได้ρับการรับρอง' from 10:18). Em-dash for parenthetical (RULES §5b)." }
+        {
+          "greek": "Ἑαυτοὺς πειράζετε εἰ ἐστὲ ἐν τῇ πίστει, ἑαυτοὺς δοκιμάζετε",
+          "thai": "จงตรวจสอบตัวเองว่าพวกท่านอยู่ในความเชื่อหรือไม่ จงทดสอบตัวเอง",
+          "rationale": "πειράζω → 'ตรวจสอบ.' δοκιμάζω → 'ทดสอบ.' Pauline-self-examination-imperative."
+        },
+        {
+          "greek": "Ἰησοῦς Χριστὸς ἐν ὑμῖν ... εἰ μήτι ἀδόκιμοί ἐστε",
+          "thai": "พระเยซูครιสต์ทรงสถิตอยู่ในพวกท่าน — เว้นแต่พวกท่านสอบไม่ผ่าน",
+          "rationale": "Christ-indwelling believers (Pauline-mystical-union). ἀδόκιμος → 'สอบไม่ผ่าน' (= 'fail-the-test'; antonym of δόκιμος 'ผู้ที่ได้รับการรับรอง' from 10:18). Em-dash for parenthetical (RULES §5b)."
+        }
       ],
       "notes": "Famous-self-examination-formula. Pauline-Christ-in-you doctrine."
     }
@@ -107,7 +139,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "εὐχόμεθα δὲ πρὸς τὸν θεόν", "thai": "เราอธิษฐานต่อพระเจ้α", "rationale": "εὔχομαι → 'อธิษฐาน' (Pauline-prayer-vocab; non-formal context vs δέομαι 'อ้อนวอน' or προσεύχομαι standard prayer)." }
+        {
+          "greek": "εὐχόμεθα δὲ πρὸς τὸν θεόν",
+          "thai": "เราอธิษฐานต่อพระเจ้า",
+          "rationale": "εὔχομαι → 'อธิษฐาน' (Pauline-prayer-vocab; non-formal context vs δέομαι 'อ้อนวอน' or προσεύχομαι standard prayer)."
+        }
       ],
       "notes": null
     }
@@ -123,7 +159,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "οὐ γὰρ δυνάμεθά τι κατὰ τῆς ἀληθείας, ἀλλὰ ὑπὲρ τῆς ἀληθείας", "thai": "เราไม่สามาρถทำสิ่งใดต่อต้านความจริง แต่ทำได้แต่เพื่อความจริงเท่านั้น", "rationale": "Pauline-truth-bound principle. ἀλήθεια → 'ความจริง' (corpus lock)." }
+        {
+          "greek": "οὐ γὰρ δυνάμεθά τι κατὰ τῆς ἀληθείας, ἀλλὰ ὑπὲρ τῆς ἀληθείας",
+          "thai": "เราไม่สามารถทำสิ่งใดต่อต้านความจริง แต่ทำได้แต่เพื่อความจริงเท่านั้น",
+          "rationale": "Pauline-truth-bound principle. ἀλήθεια → 'ความจริง' (corpus lock)."
+        }
       ],
       "notes": null
     }
@@ -139,7 +179,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "τὴν ὑμῶν κατάρτισιν", "thai": "การเสริมสร้างพวกท่านให้สมบูρณ์", "rationale": "κατάρτισις = NT-HAPAX (freq=1, only here) cognate of καταρτίζω 'fully-equip / make-complete' → 'การเสริมสร้าง...ให้สมบูρณ์.' Pauline-final-pastoral-prayer for Corinthian-completeness." }
+        {
+          "greek": "τὴν ὑμῶν κατάρτισιν",
+          "thai": "การเสริมสร้างพวกท่านให้สมบูรณ์",
+          "rationale": "κατάρτισις = NT-HAPAX (freq=1, only here) cognate of καταρτίζω 'fully-equip / make-complete' → 'การเสริมสร้าง...ให้สมบูรณ์.' Pauline-final-pastoral-prayer for Corinthian-completeness."
+        }
       ],
       "notes": "κατάρτισις = NT HAPAX. Final-Pauline-prayer for Corinthian-spiritual-maturity."
     }
@@ -155,8 +199,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἀποτόμως χρήσωμαι κατὰ τὴν ἐξουσίαν", "thai": "ใช้สิทธิอำนาจอย่างเข้มงวด", "rationale": "ἀποτόμως (NT freq=2 — here + Tit 1:13) → 'อย่างเข้มงวด' (= 'severely / sharply'). ἐξουσία → 'สิทธิอำนาจ' (corpus lock from 10:8)." },
-        { "greek": "εἰς οἰκοδομὴν καὶ οὐκ εἰς καθαίρεσιν", "thai": "เพื่อการเสริมสร้าง ไม่ใช่เพื่อการทำลาย", "rationale": "EXACT echo of 10:8's 'οἰκοδομὴν καὶ οὐκ εἰς καθαίρεσιν' → 'การเสριมสρ้าง...ไม่ใช่เพื่อทำลาย.' Pauline-inclusio bracketing the polemical-section (chs 10-13)." }
+        {
+          "greek": "ἀποτόμως χρήσωμαι κατὰ τὴν ἐξουσίαν",
+          "thai": "ใช้สิทธิอำนาจอย่างเข้มงวด",
+          "rationale": "ἀποτόμως (NT freq=2 — here + Tit 1:13) → 'อย่างเข้มงวด' (= 'severely / sharply'). ἐξουσία → 'สิทธิอำนาจ' (corpus lock from 10:8)."
+        },
+        {
+          "greek": "εἰς οἰκοδομὴν καὶ οὐκ εἰς καθαίρεσιν",
+          "thai": "เพื่อการเสริมสร้าง ไม่ใช่เพื่อการทำลาย",
+          "rationale": "EXACT echo of 10:8's 'οἰκοδομὴν καὶ οὐκ εἰς καθαίρεσιν' → 'การเสรιมสร้าง...ไม่ใช่เพื่อทำลาย.' Pauline-inclusio bracketing the polemical-section (chs 10-13)."
+        }
       ],
       "notes": "Inclusio with 10:8 (same phrase) — closes the polemical-final-section."
     }
@@ -172,8 +224,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "Λοιπόν, ἀδελφοί, χαίρετε, καταρτίζεσθε, παρακαλεῖσθε, τὸ αὐτὸ φρονεῖτε, εἰρηνεύετε", "thai": "ในที่สุด พี่น้องทั้งหลาย จงชื่นชมยินดี จงเสριมสρ้างตนเองให้สมบูρณ์ จงให้กำลังใจกัน จงเป็นน้ำหนึ่งใจเดียวกัน จงอยู่อย่างสันติ", "rationale": "Pauline-FIVE-FOLD final-imperatives. Λοιπόν → 'ในที่สุด' (= 'finally'). καταρτίζομαι → 'เสริมสร้างตนเองให้สมบูρณ์' (cognate-of-κατάρτισις from v.9). παρακαλέω middle here in 'encourage-self / be-comforted' sense → 'ให้กำลังใจกัน.' τὸ αὐτὸ φρονεῖν 'be-of-same-mind' → 'เป็นน้ำหนึ่งใจเดียวกัν' (Thai-idiom for 'one-heart-one-mind'). εἰρηνεύω → 'อยู่อย่างสันติ.'" },
-        { "greek": "ὁ θεὸς τῆς ἀγάπης καὶ εἰρήνης ἔσται μεθ’ ὑμῶν", "thai": "พระเจ้αแห่งความρักและสันติสุขจะสถิตอยู่กับพวกท่าน", "rationale": "Pauline-blessing-formula 'God-of-love-and-peace.' ἀγάπη → 'ความรัก.' εἰρήνη → 'สันติสุข' (corpus standard for Pauline-peace)." }
+        {
+          "greek": "Λοιπόν, ἀδελφοί, χαίρετε, καταρτίζεσθε, παρακαλεῖσθε, τὸ αὐτὸ φρονεῖτε, εἰρηνεύετε",
+          "thai": "ในที่สุด พี่น้องทั้งหลาย จงชื่นชมยินดี จงเสรιมสร้างตนเองให้สมบูรณ์ จงให้กำลังใจกัน จงเป็นน้ำหนึ่งใจเดียวกัน จงอยู่อย่างสันติ",
+          "rationale": "Pauline-FIVE-FOLD final-imperatives. Λοιπόν → 'ในที่สุด' (= 'finally'). καταρτίζομαι → 'เสริมสร้างตนเองให้สมบูรณ์' (cognate-of-κατάρτισις from v.9). παρακαλέω middle here in 'encourage-self / be-comforted' sense → 'ให้กำลังใจกัน.' τὸ αὐτὸ φρονεῖν 'be-of-same-mind' → 'เป็นน้ำหนึ่งใจเดียวกัน' (Thai-idiom for 'one-heart-one-mind'). εἰρηνεύω → 'อยู่อย่างสันติ.'"
+        },
+        {
+          "greek": "ὁ θεὸς τῆς ἀγάπης καὶ εἰρήνης ἔσται μεθ’ ὑμῶν",
+          "thai": "พระเจ้าแห่งความรักและสันติสุขจะสถิตอยู่กับพวกท่าน",
+          "rationale": "Pauline-blessing-formula 'God-of-love-and-peace.' ἀγάπη → 'ความรัก.' εἰρήνη → 'สันติสุข' (corpus standard for Pauline-peace)."
+        }
       ],
       "notes": null
     }
@@ -189,8 +249,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἀσπάσασθε ἀλλήλους ἐν ἁγίῳ φιλήματι", "thai": "จงทักทายกันด้วยจูบอันบริสุทธิ์", "rationale": "Pauline-formula 'holy kiss' (cf 1 Co 16:20, Rom 16:16, 1 Th 5:26, 1 Pet 5:14). ἀσπάζομαι → 'ทักทาย.' φίλημα → 'จูบ' (Thai-Christian standard for early-Christian-greeting; cultural-context: cheek-kiss greeting in Mediterranean-world)." },
-        { "greek": "ἀσπάζονται ὑμᾶς οἱ ἅγιοι πάντες", "thai": "ธρρμิกชนทุกคนฝากความระลึกถึงพวกท่าน", "rationale": "Greetings-from-other-saints — Pauline-letter-closing-convention. Thai 'ฝากความρะลึกถึง' (= 'send-greetings-to-be-remembered') natural Thai for relayed-greetings." }
+        {
+          "greek": "ἀσπάσασθε ἀλλήλους ἐν ἁγίῳ φιλήματι",
+          "thai": "จงทักทายกันด้วยจูบอันบริสุทธิ์",
+          "rationale": "Pauline-formula 'holy kiss' (cf 1 Co 16:20, Rom 16:16, 1 Th 5:26, 1 Pet 5:14). ἀσπάζομαι → 'ทักทาย.' φίλημα → 'จูบ' (Thai-Christian standard for early-Christian-greeting; cultural-context: cheek-kiss greeting in Mediterranean-world)."
+        },
+        {
+          "greek": "ἀσπάζονται ὑμᾶς οἱ ἅγιοι πάντες",
+          "thai": "ธรรมิกชนทุกคนฝากความระลึกถึงพวกท่าน",
+          "rationale": "Greetings-from-other-saints — Pauline-letter-closing-convention. Thai 'ฝากความระลึกถึง' (= 'send-greetings-to-be-remembered') natural Thai for relayed-greetings."
+        }
       ],
       "notes": "SBLGNT/NA28 verse-numbering: this is v.12 (combines v.12 + v.13 of older versification). BSB-text shows only the 'holy-kiss' clause — the 'all-saints-greet' part was historically v.13 in TR/KJV but is part of v.12 in NA28."
     }
@@ -206,7 +274,11 @@
       "thai_literal": null,
       "thai_summary": "ข้อ 13 เป็นคำอำนวยพระพรอันเป็นที่รู้จักดีของพันธสัญญาใหม่ — รู้จักกันในนาม ‘คำอำนวยพระพรพระตรีเอกภาพ’ (Trinitarian Benediction) เพราะกล่าวถึงพระเยซูคริสต์ พระเจ้า (พระบิดา) และพระวิญญาณบริสุทธิ์เคียงข้างกัน — เป็นหนึ่งในข้อพระคัมภีร์ที่อ้างถึงพระตรีเอกภาพอย่างชัดเจนที่สุดในจดหมายของเปาโล (เปรียบเทียบ มัทธิว 28:19, เอเฟซัส 4:4-6) คำอำนวยพระพรนี้ใช้กันในการสิ้นสุดพิธีนมัสการในคริสตจักรทั่วโลกตลอดประวัติศาสตร์ — ทั้งในนิกายอีสเทิร์นออร์โธดอกซ์ คาทอลิก โปรเตสแตนต์ และ Anglican",
       "key_decisions": [
-        { "greek": "ἡ χάρις τοῦ κυρίου Ἰησοῦ Χριστοῦ καὶ ἡ ἀγάπη τοῦ θεοῦ καὶ ἡ κοινωνία τοῦ ἁγίου πνεύματος μετὰ πάντων ὑμῶν", "thai": "ขอพระคุณของพระเยซูคริสต์องค์พระผู้เป็นเจ้า ความรักของพระเจ้า และการมีส่วนร่วมในพระวิญญาณบริสุทธิ์ จงดำρงอยู่กับพวกท่านทุกคน", "rationale": "FAMOUS-PAULINE-TRINITARIAN-BENEDICTION. χάρις → 'พระคุณ' (corpus lock). κύριος Ἰησοῦς Χριστός → 'พระเยซูคริสต์องค์พระผู้เป็นเจ้α' (Pauline-formula lock). ἀγάπη τοῦ θεοῦ → 'ความρักของพระเจ้α.' κοινωνία τοῦ ἁγίου πνεύματος → 'การมีส่วนρ่วมในพระวิญญαณบริสุทธิ์' (genitival-ambiguity preserved: 'fellowship of/with-the-Holy-Spirit' could be subjective- or objective-genitive — Thai 'การมีส่วนρ่วมใน' captures both). Pauline-grand-Trinitarian-formula par-excellence (cf Mat 28:19, Eph 4:4-6, 1 Pet 1:2). πνεῦμα ἅγιον → 'พระวิญญαณบริσุทธิ์' (RULES §4 NON-NEGOTIABLE lock). NOTE: BSB-English shows 'All the saints send you greetings' for this verse — that's a versification-mismatch. The SBLGNT-Greek IS the trinitarian-benediction; Thai-translation follows the GREEK." }
+        {
+          "greek": "ἡ χάρις τοῦ κυρίου Ἰησοῦ Χριστοῦ καὶ ἡ ἀγάπη τοῦ θεοῦ καὶ ἡ κοινωνία τοῦ ἁγίου πνεύματος μετὰ πάντων ὑμῶν",
+          "thai": "ขอพระคุณของพระเยซูคริสต์องค์พระผู้เป็นเจ้า ความรักของพระเจ้า และการมีส่วนร่วมในพระวิญญาณบริสุทธิ์ จงดำรงอยู่กับพวกท่านทุกคน",
+          "rationale": "FAMOUS-PAULINE-TRINITARIAN-BENEDICTION. χάρις → 'พระคุณ' (corpus lock). κύριος Ἰησοῦς Χριστός → 'พระเยซูคริสต์องค์พระผู้เป็นเจ้า' (Pauline-formula lock). ἀγάπη τοῦ θεοῦ → 'ความรักของพระเจ้า.' κοινωνία τοῦ ἁγίου πνεύματος → 'การมีส่วนร่วมในพระวิญญาณบริสุทธิ์' (genitival-ambiguity preserved: 'fellowship of/with-the-Holy-Spirit' could be subjective- or objective-genitive — Thai 'การมีส่วนร่วมใน' captures both). Pauline-grand-Trinitarian-formula par-excellence (cf Mat 28:19, Eph 4:4-6, 1 Pet 1:2). πνεῦμα ἅγιον → 'พระวิญญาณบริσุทธิ์' (RULES §4 NON-NEGOTIABLE lock). NOTE: BSB-English shows 'All the saints send you greetings' for this verse — that's a versification-mismatch. The SBLGNT-Greek IS the trinitarian-benediction; Thai-translation follows the GREEK."
+        }
       ],
       "notes": "VERSIFICATION-NOTE: The provided BSB-text 'All the saints send you greetings' is a versification-mismatch — that English-text aligns with v.12 in SBLGNT/NA28 (which combines greet-with-kiss + all-saints-greet). The SBLGNT-Greek for v.13 IS the trinitarian-benediction; Thai-translation correctly follows the Greek. CLOSING-PAULINE-TRINITARIAN-BENEDICTION — locus-classicus for NT-Trinitarian-formulation. KOINONIA τοῦ ἁγίου πνεύματος preserved as genitival-ambiguous (fellowship of-the-Spirit / fellowship with-the-Spirit / the fellowship that-the-Spirit-creates)."
     }

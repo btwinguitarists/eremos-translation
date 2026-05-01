@@ -31,7 +31,7 @@ The παράκλησις family is **densest in 2 Cor of any NT book** (~30 occu
 | Sense | Greek | Thai | Examples |
 |---|---|---|---|
 | comfort / consolation | παράκλησις, παρακαλέω | **การหนุนใจ / หนุนใจ** | 1:3 πάσης παρακλήσεως → **การหนุนใจทั้งสิ้น**; 1:4 παρακαλῶν ἡμᾶς → **ทรงหนุนใจเรา**; 7:4 πεπλήρωμαι τῇ παρακλήσει → **ได้รับการหนุนใจอย่างเต็มที่** |
-| appeal / urge | παρακαλέω | **วิงวอน / ขอร้อง / ร้องวิงวอน** | 5:20 ὡς τοῦ θεοῦ παρακαλοῦντος δι' ἡμῶν → **ราวกับว่าพระเจ้าทรงร้องวิงวอนผ่านทางเรα**; 6:1 παρακαλοῦμεν → **เราจึงวิงวอน**; 8:6 παρακαλέσαι ἡμᾶς Τίτον → **เราจึงได้ขอร้องทิตัส** |
+| appeal / urge | παρακαλέω | **วิงวอน / ขอร้อง / ร้องวิงวอน** | 5:20 ὡς τοῦ θεοῦ παρακαλοῦντος δι' ἡμῶν → **ราวกับว่าพระเจ้าทรงร้องวิงวอนผ่านทางเรา**; 6:1 παρακαλοῦμεν → **เราจึงวิงวอน**; 8:6 παρακαλέσαι ἡμᾶς Τίτον → **เราจึงได้ขอร้องทิตัส** |
 
 The 1:3–7 ten-fold echo (παρακλήσεως × 5 + παρακαλέω × 4 + παρακαλούμεθα × 1 in 5 verses) is preserved as a **rhythmic Thai echo** with the same root **หนุนใจ** repeated — the Greek wordplay is reproducible because Thai also tolerates lexical anaphora at this density.
 
@@ -50,15 +50,15 @@ The 5:18–20 cluster is the FIRST DENSE NT καταλλαγή occurrence:
 | Verse | Greek | Thai |
 |---|---|---|
 | 5:18 | τοῦ καταλλάξαντος ἡμᾶς ἑαυτῷ διὰ Χριστοῦ καὶ δόντος ἡμῖν τὴν διακονίαν τῆς καταλλαγῆς | **ผู้ทรงให้เราคืนดีกับพระองค์โดยทางพระคริสต์ และทรงประทานพันธกิจแห่งการคืนดีให้แก่เรา** |
-| 5:19 | θεὸς ἦν ἐν Χριστῷ κόσμον καταλλάσσων ἑαυτῷ ... τὸν λόγον τῆς καταλλαγῆς | **พระเจ้าได้ทรงให้โลกคืนดีกับพระองค์ในพระคริสต์ ... ถ้อยคำแห่งการคืνดี** |
+| 5:19 | θεὸς ἦν ἐν Χριστῷ κόσμον καταλλάσσων ἑαυτῷ ... τὸν λόγον τῆς καταλλαγῆς | **พระเจ้าได้ทรงให้โลกคืนดีกับพระองค์ในพระคริสต์ ... ถ้อยคำแห่งการคืนดี** |
 | 5:20 | καταλλάγητε τῷ θεῷ | **จงคืนดีกับพระเจ้าเถิด** |
 
-Verb form → **คืนดี** ("be reconciled; restore relationship"); noun form → **การคืนดี** ("the [act of] reconciliation"). Theologically rich and Thai-natural — **คืνดี** is the everyday Thai idiom for "make peace / restore" between estranged parties. The active-vs-passive force of καταλλάσσω is preserved by Thai voice constructions (ทรงให้... คืนดี = "cause to be reconciled" — divine-active subject).
+Verb form → **คืนดี** ("be reconciled; restore relationship"); noun form → **การคืนดี** ("the [act of] reconciliation"). Theologically rich and Thai-natural — **คืนดี** is the everyday Thai idiom for "make peace / restore" between estranged parties. The active-vs-passive force of καταλλάσσω is preserved by Thai voice constructions (ทรงให้... คืนดี = "cause to be reconciled" — divine-active subject).
 
-**Editorial assessment:** The principled active-vs-passive split (God καταλλάσσει the world; the world is to καταλλάγητε / be-reconciled) reads cleanly in Thai. The companion λόγος τῆς καταλλαγῆς (5:19) → **ถ้อยคำแห่งการคืνดี** preserves the Pauline gospel-as-message-of-reconciliation framing.
+**Editorial assessment:** The principled active-vs-passive split (God καταλλάσσει the world; the world is to καταλλάγητε / be-reconciled) reads cleanly in Thai. The companion λόγος τῆς καταλλαγῆς (5:19) → **ถ้อยคำแห่งการคืนดี** preserves the Pauline gospel-as-message-of-reconciliation framing.
 
 **Recommend: STABLE; lift to corpus doc** `docs/translator_decisions/katallage_reconciliation_2026-05.md` before Rom 5:10–11 (the next-densest cluster) and Eph 2:16; Col 1:20–22. The doc should:
-1. Lock καταλλαγή → **การคืνดี**; καταλλάσσω → **คืνดี / ทรงให้คืνดี**
+1. Lock καταλλαγή → **การคืนดี**; καταλλάσσω → **คืนดี / ทรงให้คืนดี**
 2. Cite 2 Cor 5:18–20 as the locking precedent
 3. Note the cognate ἀποκαταλλάσσω (Col 1:20, Eph 2:16) — confirm whether intensified prefix needs a Thai marker (e.g., **ทรงให้คืนดีอย่างสมบูรณ์**) or stays uniform
 
@@ -158,7 +158,7 @@ This **parallels the 1 Cor "Corinthian-slogan" curly-quote convention** (1 Cor 7
 **พันธสัญญา** ("bond / covenant") is the standard Thai Bible-tradition rendering. Cross-corpus consistent with Galatians 4:24 (δύο διαθῆκαι → **พันธสัญญาสองแบบ**). Note that **พันธสัญญาเดิม / ใหม่** are also the canonical Thai *names* for the Old/New Testament — translator preserves the deliberate Pauline pun (the Old/New Covenant theology IS the Old/New Testament canon-naming).
 
 **Recommend: STABLE; lift to corpus doc** `docs/translator_decisions/diatheke_covenant_2026-05.md` before Hebrews (where διαθήκη occurs ~17×). The doc should:
-1. Lock διαθήκη → **พันธสัญญα** (covenant)
+1. Lock διαθήκη → **พันธสัญญา** (covenant)
 2. Note παλαιά / καινή → **เดิม / ใหม่** (preserves the Old/New Testament canon-naming pun)
 3. Lock μεσίτης διαθήκης → **คนกลางแห่งพันธสัญญา** (forward to Heb 8:6, 9:15, 12:24)
 4. Cite 2 Cor 3:6, 14; Gal 4:24 as the locking precedents
@@ -171,7 +171,7 @@ This **parallels the 1 Cor "Corinthian-slogan" curly-quote convention** (1 Cor 7
 
 | Sense | Thai | Examples |
 |---|---|---|
-| theological "ministry" (apostolic-vocation) | **พันธกิจ** | 3:7 ἡ διακονία τοῦ θανάτου → **พันธกิจแห่งความตาย**; 3:8 ἡ διακονία τοῦ πνεύματος → **พันธกิจแห่งพระวิญญาณ**; 4:1 τὴν διακονίαν ταύτην → **พันธกิจนี้**; 5:18 διακονίαν τῆς καταλλαγῆς → **พันธกิจแห่งการคืνดี** |
+| theological "ministry" (apostolic-vocation) | **พันธกิจ** | 3:7 ἡ διακονία τοῦ θανάτου → **พันธกิจแห่งความตาย**; 3:8 ἡ διακονία τοῦ πνεύματος → **พันธกิจแห่งพระวิญญาณ**; 4:1 τὴν διακονίαν ταύτην → **พันธกิจนี้**; 5:18 διακονίαν τῆς καταλλαγῆς → **พันธกิจแห่งการคืนดี** |
 | concrete "service / aid" (collection-related) | **การรับใช้** | 8:4 τὴν κοινωνίαν τῆς διακονίας τῆς εἰς τοὺς ἁγίους → **การมีส่วนร่วมในการรับใช้ธรรมิกชน**; 9:1, 9:12, 9:13 διακονία (collection-context) → **การรับใช้** |
 | concrete "serving" (verb / participle) | **ปรนนิบัติ** | 3:3 διακονηθεῖσα ὑφ' ἡμῶν → **ซึ่งเราได้ปรนนิบัติให้สำเร็จ** |
 
@@ -228,14 +228,14 @@ The iconic 12:7 phrase — translator preserves the literal Greek metaphor:
 | `ethnos_2026-04.md` | 11:26 ἐξ ἐθνῶν → **คนต่างชาติ** (Gentile-mission category, correct). | **LOCKED** |
 | `kyrios_narrator_voice_luke_acts_2026-04.md` | Densely throughout 2 Cor → **องค์พระผู้เป็นเจ้า**, perfectly compliant — **fifth Pauline confirmation** that the doc's "Lukan signature" framing should be amended (already noted in JHN/GAL/1TH/1CO audits). | **LOCKED-with-amendment-needed** |
 | `vocative_kyrie_didaskale_register_2026-04.md` | N/A — no vocative κύριε in 2 Cor. | **LOCKED (N/A)** |
-| `divine_object_praise_verbs_2026-04.md` | 9:13 δοξάζοντες τὸν θεὸν → **ถวายเกียรติแด่พระเจ้า** (uses ถวายเกียรติ instead of สรรเสริญ). The doc locks **สรรเสริญ** as the *single* Thai default for the praise-verb cluster (δοξάζω / εὐλογέω / αἰνέω) when the object is God. **Worth a quick check** — context here is participial "glorifying God *for* the obedience of your confession", which may license the variant ถวายเกียρติ ("ascribe glory to") rather than สรรเสริญ ("praise [vocally]"). Other 2 Cor δόξα-praise occurrences (1:20 πρὸς δόξαν → **เพื่อพระเกียรติสิริ**; 4:15 εἰς τὴν δόξαν → **เพื่อพระเกียรติของพระเจ้า**) use **พระเกียρติ** for the noun-form, which is consistent. | **LOCKED-with-spot-check** (9:13 ถวายเกียรติ vs สรรเสริญ — see Item E) |
+| `divine_object_praise_verbs_2026-04.md` | 9:13 δοξάζοντες τὸν θεὸν → **ถวายเกียรติแด่พระเจ้า** (uses ถวายเกียรติ instead of สรรเสริญ). The doc locks **สรรเสริญ** as the *single* Thai default for the praise-verb cluster (δοξάζω / εὐλογέω / αἰνέω) when the object is God. **Worth a quick check** — context here is participial "glorifying God *for* the obedience of your confession", which may license the variant ถวายเกียรติ ("ascribe glory to") rather than สรรเสริญ ("praise [vocally]"). Other 2 Cor δόξα-praise occurrences (1:20 πρὸς δόξαν → **เพื่อพระเกียรติสิริ**; 4:15 εἰς τὴν δόξαν → **เพื่อพระเกียรติของพระเจ้า**) use **พระเกียรติ** for the noun-form, which is consistent. | **LOCKED-with-spot-check** (9:13 ถวายเกียรติ vs สรรเสริญ — see Item E) |
 | `honorifics_non_divine_authorities_2026-04.md` | 11:32 ἐθνάρχης Ἁρέτα τοῦ βασιλέως → **ผู้สำเร็จราชการของกษัตริย์อาเรทัส**. ἐθνάρχης not previously locked but rendered consistently with ἀνθύπατος/ἡγεμών pattern (plain register: ผู้สำเร็จราชการ). กษัτรย์ for βασιλεύς (ราชาศัพท์) — Aretas IV gets the king-honorific consistent with Herod/Agrippa lock. Compliant. | **LOCKED + minor extension** (ἐθνάρχης → ผู้สำเร็จราชการ) |
 | `narrator_vs_character_voice_2026-04.md` | Royal register on God + Christ throughout (densely; παρακαλέω-of-God constructions all ทรง-prefixed); plain register for Σατανᾶς (2:11; 11:14; 12:7), Βελιάρ (6:15), opponents (11:13–15 ψευδαπόστολοι, διάκονοι αὐτοῦ — plain). Compliant. | **LOCKED** |
 | `aramaic_transliterations_2026-04.md` | 1:20 ἀμήν → **อาเมน** (transliteration; OT-context Pauline doxology, not a Synoptic-saying-formula occurrence). Consistent with the 25× ἀμήν ἀμήν Johannine-transliteration policy at the lemma-level. | **LOCKED** |
 | `inclusion_variants_absent_verses_2026-04.md` | **N/A** — no Tier 1/2/3 inclusion variants in 2 Cor (no `output/textual_variants/2corinthians*` files; full text-scan confirmed). | **LOCKED (N/A)** |
 | `historic_present_2026-04.md` | N/A — 2 Cor is epistolary-rhetorical, not narrative; no historic-present pattern. | **LOCKED (N/A)** |
 | `parabolic_god_figures_human_register_2026-04.md` | N/A — no parables in 2 Cor (the 11:2 παρθένος-bride image is a brief simile, not a parable with a God-figure). | **LOCKED (N/A)** |
-| `metanoeo_vs_metamelomai_2026-04.md` | **THE LOCUS CLASSICUS** of the lock. 7:8 ἐλύπησα ... οὐ μεταμέλομαι → **ข้าพเจ้าก็ไม่เสียใจ**; 7:8 εἰ καὶ μετεμελόμην → **แม้ข้าพเจ้าจะเคยเสียใจมาก่อν**; 7:9 ἐλυπήθητε εἰς μετάνοιαν → **ความโศกใจได้นำพวกท่านสู่การกลับใจ**; 7:10 μετάνοιαν εἰς σωτηρίαν → **การกลับใจสู่ความรอด**; 12:21 μὴ μετανοησάντων → **ไม่ได้กลับใจ**. **The 7:8–10 contrast PRESERVES the lexical distinction in Thai** exactly as the doc anticipated (μεταμέλομαι → เสียใจ; μετάνοια → การกลับใจ). | **LOCKED — locus classicus confirmation** |
+| `metanoeo_vs_metamelomai_2026-04.md` | **THE LOCUS CLASSICUS** of the lock. 7:8 ἐλύπησα ... οὐ μεταμέλομαι → **ข้าพเจ้าก็ไม่เสียใจ**; 7:8 εἰ καὶ μετεμελόμην → **แม้ข้าพเจ้าจะเคยเสียใจมาก่อน**; 7:9 ἐλυπήθητε εἰς μετάνοιαν → **ความโศกใจได้นำพวกท่านสู่การกลับใจ**; 7:10 μετάνοιαν εἰς σωτηρίαν → **การกลับใจสู่ความรอด**; 12:21 μὴ μετανοησάντων → **ไม่ได้กลับใจ**. **The 7:8–10 contrast PRESERVES the lexical distinction in Thai** exactly as the doc anticipated (μεταμέλομαι → เสียใจ; μετάνοια → การกลับใจ). | **LOCKED — locus classicus confirmation** |
 | `aphesis_forgiveness_of_sins_2026-04.md` | N/A — ἄφεσις absent from 2 Cor. (2:7 χαρίσασθαι "forgive" → **ให้อภัย**; 2:10 χαρίζομαι → **ให้อภัย** — distinct Pauline forgiveness-vocabulary, not the Synoptic ἄφεσις family.) | **LOCKED (N/A)** |
 | `pagan_deities_2026-04.md` | 4:4 ὁ θεὸς τοῦ αἰῶνος τούτου → **เทπเจ้าแห่งยุคนี้** (LOCK-EXTENSION; see §4 above + Item B); 6:16 εἰδώλων → **รูปเคารพ** (idol; locked from 1 Cor); 6:15 Βελιάρ → **เบลีอัล** (proper-name transliteration; see §11). | **LOCKED-with-extension-needed** (metaphorical-θεός case) |
 | `roman_administrative_titles_2026-04.md` | 11:32 ἐθνάρχης Ἁρέτα → **ผู้สำเร็จราชการของกษัตริย์อาเรทัส** — extension from Roman-imperial to a client-king's appointee (Nabataean Aretas IV). Plain register preserved. Consistent. | **LOCKED + minor extension** |
@@ -246,9 +246,9 @@ The iconic 12:7 phrase — translator preserves the literal Greek metaphor:
 | `amen_saying_formula_2026-04.md` | N/A — no Jesus-direct-discourse in 2 Cor. (12:9 Christ's Ἀρκεῖ σοι ἡ χάρις μου ... → **'พระคุณของเราเพียงพอสำหรับเจ้า ...'** — quoted from a vision, single-occurrence; rendered with curly quotes + first-person divine-speech preserved.) | **LOCKED (N/A)** |
 | `speech_verbs_adversaries_addressing_divine_2026-04.md` | N/A — no narrative-speech-verbs-by-adversaries in 2 Cor. | **LOCKED (N/A)** |
 | `basileia_kingdom_rendering_2026-04.md` | N/A — βασιλεία absent from 2 Cor. (5:20 πρεσβεύομεν "we are ambassadors" is a related metaphor but not the βασιλεία noun.) | **LOCKED (N/A)** |
-| `ouranos_heaven_rendering_2026-04.md` | 5:1 ἐν τοῖς οὐρανοῖς → **ในฟ้าสวρρค์** (theological-default); 5:2 τὸ ἐξ οὐρανοῦ → **ที่อยู่ของเราซึ่งมาจากฟ้าสวρρค์**; 12:2 ἕως τρίτου οὐρανοῦ → **ฟ้าสวρρค์ชั้นที่สาม** (theological-default with ordinal); 12:5 (no οὐρανός; the third-heaven referent inherits 12:2's lock). All compliant. | **LOCKED** |
+| `ouranos_heaven_rendering_2026-04.md` | 5:1 ἐν τοῖς οὐρανοῖς → **ในฟ้าสวรรค์** (theological-default); 5:2 τὸ ἐξ οὐρανοῦ → **ที่อยู่ของเราซึ่งมาจากฟ้าสวรรค์**; 12:2 ἕως τρίτου οὐρανοῦ → **ฟ้าสวรรค์ชั้นที่สาม** (theological-default with ordinal); 12:5 (no οὐρανός; the third-heaven referent inherits 12:2's lock). All compliant. | **LOCKED** |
 | `parousia_christou_2026-04.md` (proposed at 1TH audit; not yet written) | 2 Cor's παρουσία occurrences are **non-Christ-subject** (7:6, 7:7 of Titus → **การมาถึงของทิตัส**; 10:10 παρουσία τοῦ σώματος "bodily presence" → **การปรากฏตัวของเขาทางกาย**) — the corpus-internal split (Christ-เสด็จมา / non-Christ-มาถึง) is **already operational in 2 Cor** ahead of the corpus-doc being written. Compliant with proposed-but-unwritten lock. | **STABLE-pre-doc** (compliance ahead of doc-write) |
-| `hagiasmos_hagiosune_2026-04.md` (proposed at 1TH audit; not yet written) | 7:1 ἁγιωσύνην → **ความบริสุทธิ์** (state-of-holiness, exactly per the proposed lock); 7:1 παντὸς μολυσμοῦ → **ทุกสิ่งที่ทำให้เป็นมลทิν** (impurity-binary-opposite). 1 Cor 1:30 / 6:11 ἁγιασμός already-locked-stably. Compliant. | **STABLE-pre-doc** |
+| `hagiasmos_hagiosune_2026-04.md` (proposed at 1TH audit; not yet written) | 7:1 ἁγιωσύνην → **ความบริสุทธิ์** (state-of-holiness, exactly per the proposed lock); 7:1 παντὸς μολυσμοῦ → **ทุกสิ่งที่ทำให้เป็นมลทิน** (impurity-binary-opposite). 1 Cor 1:30 / 6:11 ἁγιασμός already-locked-stably. Compliant. | **STABLE-pre-doc** |
 
 ---
 
@@ -257,7 +257,7 @@ The iconic 12:7 phrase — translator preserves the literal Greek metaphor:
 Carrying forward from prior audits, plus new from 2 Corinthians:
 
 1. `docs/translator_decisions/parousia_register_2026-04.md` — Christ-เสด็จมา / non-Christ-มาถึง split. **Confirmed by 2 Cor 7:6, 7:7, 10:10.** (Carried over.)
-2. `docs/translator_decisions/anomia_lawlessness_2026-04.md` — ความอธรรม / คนอธρρม. (Carried over from 2TH.)
+2. `docs/translator_decisions/anomia_lawlessness_2026-04.md` — ความอธรรม / คนอธรรม. (Carried over from 2TH.)
 3. `docs/translator_decisions/aparche_firstfruits_2026-04.md` — ผลแรก. (Carried over from 1CO.)
 4. `docs/translator_decisions/paradosis_synoptic_pauline_split_2026-04.md` — Synoptic ธรรมเนียม / Pauline คำสอนที่ส่งทอดมา + Col 2:8 caveat. (Carried over.)
 5. `docs/translator_decisions/semeion_three_senses_2026-04.md` — miracle / authentication-mark / signal. **Confirmed by 2 Cor 12:12 (σημεῖα τοῦ ἀποστόλου = หมายสำคัญแห่งอัครทูต — apostolic-authentication sense locked; alongside σημεῖα + τέρατα + δυνάμεις cluster).** (Carried over.)
@@ -288,10 +288,10 @@ Carrying forward from prior audits, plus new from 2 Corinthians:
 **Tag `book-2corinthians-v1` is gated on:**
 
 1. Ben's decision on **§4 / Item B** (DECIDE: extend `pagan_deities_2026-04.md` to cover Satan-as-θεός at 4:4; or revise the 4:4 rendering to **พระเจ้า**)
-2. Ben's confirmation on **§5 / Item C** (REVIEW: παράδεισος → เมืองบรมสุข Thai-Buddhist-resonance — should it stand cross-corpus, or shift toward สวรรค์/อุทยาν)
+2. Ben's confirmation on **§5 / Item C** (REVIEW: παράδεισος → เมืองบรมสุข Thai-Buddhist-resonance — should it stand cross-corpus, or shift toward สวรรค์/อุทยาน)
 3. Ben's confirmation on **§3 / Item A** (REVIEW: καυχάομαι universal **ภาคภูมิใจ** vs context-dependent **อวด** for pejorative passages)
 4. Ben's confirmation on **§6 / Item D** (REVIEW: curly-quote convention for sarcastic embedded-quotation; confirms the 1 Cor-proposed `corinthian_slogan_quotemarks_2026-05.md`)
-5. (Optional) Ben's spot-check on §13's δοξάζω at 9:13 (ถวายเกียρติ vs locked สรรเสริญ — Item E)
+5. (Optional) Ben's spot-check on §13's δοξάζω at 9:13 (ถวายเกียรติ vs locked สรรเสริญ — Item E)
 6. External AI sanity-check (§3) returned + reviewed
 7. Five new translator_decisions docs (§§1, 2, 7, 8, 9 above — paraklesis, katallage, diatheke, arrabon, diakonia) considered for write before Romans / Hebrews / Eph compounds the editorial weight
 

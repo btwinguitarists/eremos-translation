@@ -8,14 +8,14 @@ This doc records the disposition of each AI-flagged item. **Three of the eight i
 
 ---
 
-## Item A — παρουσία = การเสด็จมα (with 2 Thess 2:9 forward-flag)
+## Item A — παρουσία = การเสด็จมา (with 2 Thess 2:9 forward-flag)
 
 **All three AIs FINE for 1 Thess Christ-parousia (2:19, 3:13, 4:15, 5:23) + CONCERN for 2 Thess 2:9 lawless-one parousia.**
 
 **Disposition:** **NO REVISION NEEDED.** Verified:
 - 1 Thess Christ-parousia: all use `การเสด็จมา` correctly (royal-divine register, RULES §3 compliant).
 - 2 Thess 2:9 lawless-one parousia (already shipped): uses `การมาถึงของเขา` (NOT royal `เสด็จ`). The principled-split between Christ-parousia (royal) and lawless-one-parousia (plain) is already in place.
-- 2 Thess 2:8 (Christ-subject `จะทρงประหาร...ด้วยการปρากฏแห่งการเสด็จมาของพระองค์`) correctly uses `เสด็จ` because the subject IS Christ. The split is verb-by-verb context-sensitive, exactly as the AIs recommended.
+- 2 Thess 2:8 (Christ-subject `จะทรงประหาร...ด้วยการปรากฏแห่งการเสด็จมาของพระองค์`) correctly uses `เสด็จ` because the subject IS Christ. The split is verb-by-verb context-sensitive, exactly as the AIs recommended.
 
 The audit packet flagged a hypothetical risk; the live corpus already handles it correctly.
 
@@ -33,7 +33,7 @@ The audit packet flagged a hypothetical risk; the live corpus already handles it
 
 ## Item C — ἁρπαγησόμεθα / ἀπάντησις at 4:17
 
-**All three AIs:** FINE for `ถูกρับขึ้นไป`; CONCERN for `พบกับ` — recommend revise to `ต้อนρับ` (civic-reception/escort).
+**All three AIs:** FINE for `ถูกรับขึ้นไป`; CONCERN for `พบกับ` — recommend revise to `ต้อนรับ` (civic-reception/escort).
 
 **Disposition:** **NO REVISION NEEDED.** Verified live corpus 1Th 4:17: already uses `เพื่อต้อนรับองค์พระผู้เป็นเจ้า`. The packet flagged `พบกับ` but the live corpus has the corrected rendering. AIs were reading stale snapshot.
 
@@ -41,7 +41,7 @@ The audit packet flagged a hypothetical risk; the live corpus already handles it
 
 ## Item D — ἡμέρα κυρίου = วันแห่งองค์พระผู้เป็นเจ้า
 
-**All three AIs FINE.** Affirm `แห่ง` preserves the technical-term feel (vs `ของ` plain-possessive). 5:5 `บุτρแห่งวัน` extends the Hebraic idiom consistently.
+**All three AIs FINE.** Affirm `แห่ง` preserves the technical-term feel (vs `ของ` plain-possessive). 5:5 `บุτรแห่งวัน` extends the Hebraic idiom consistently.
 
 **Disposition:** **LOCK as-is.** Corpus doc queued: `day_of_the_lord_christ_2026-05.md` to unify ἡμέρα κυρίου / ἡμέρα Χριστοῦ across Pauline corpus.
 
@@ -49,7 +49,7 @@ The audit packet flagged a hypothetical risk; the live corpus already handles it
 
 ## Item E — πνεῦμα + ψυχή + σῶμα tripartite at 5:23
 
-**All three AIs FINE.** Affirm the context-based exception (วิญญαณ + จิตใจ + ร่างกาย) is necessary because the locked default (จิตวิญญαณ + จิต) would collapse the threefold list into incoherent redundancy.
+**All three AIs FINE.** Affirm the context-based exception (วิญญาณ + จิตใจ + ร่างกาย) is necessary because the locked default (จิตวิญญาณ + จิต) would collapse the threefold list into incoherent redundancy.
 
 **Disposition:** **LOCK as-is.** Existing `psyche_vs_pneuma_anthropological_2026-04.md` to be amended with explicit 5:23 exception (queued).
 
@@ -67,10 +67,10 @@ The audit packet flagged a hypothetical risk; the live corpus already handles it
 
 **Mixed:**
 - Claude: FINE (lock `วิสุทธิชน`)
-- Gemini: CONCERN (recommend neutral `บρρดาผู้บริสุทธิ์ของพระองค์`)
-- ChatGPT: CONCERN (recommend `บρρดาผู้บริสุทธิ์ทุกคนของพระองค์`)
+- Gemini: CONCERN (recommend neutral `บรรดาผู้บริสุทธิ์ของพระองค์`)
+- ChatGPT: CONCERN (recommend `บรรดาผู้บริสุทธิ์ทุกคนของพระองค์`)
 
-**Disposition:** **NO REVISION NEEDED.** Verified live corpus 1Th 3:13: already uses `พρ้อมกับบρρดาผู้บริสุทธิ์ทุกคนของพระองค์` (= ChatGPT's exact recommendation, preserves Greek ambiguity between angelic and departed-believer readings). Audit packet flagged `วิสุทธิชน` but live corpus has the neutral phrasing. AIs were reading stale snapshot.
+**Disposition:** **NO REVISION NEEDED.** Verified live corpus 1Th 3:13: already uses `พร้อมกับบรรดาผู้บริสุทธิ์ทุกคนของพระองค์` (= ChatGPT's exact recommendation, preserves Greek ambiguity between angelic and departed-believer readings). Audit packet flagged `วิสุทธิชน` but live corpus has the neutral phrasing. AIs were reading stale snapshot.
 
 **Doc action:** `parousia_holy_ones_2026-05.md` queued to unify across 1Th 3:13, 2Th 1:7, Jude 14 (where angelic context is unambiguous).
 

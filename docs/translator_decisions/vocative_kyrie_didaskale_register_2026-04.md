@@ -59,7 +59,7 @@ Greek lets the same vocative carry all these colorations; Thai cannot. Translati
 **Option B (rejected): always องค์พระผู้เป็นเจ้า for Κύριε, always ท่านอาจารย์ for Διδάσκαλε.**
 Rejected — misreads parabolic contexts (13:8; 14:22; 19:16–25 minas) as theological address and erases the register-escalation in Luke 20's Jerusalem debate sequence.
 
-**Option C (rejected): transliterate (κยριε → คีริเอ).**
+**Option C (rejected): transliterate (κยรιε → คีริเอ).**
 Rejected — foreign, no Thai register-to-register mapping.
 
 ## Worked examples
