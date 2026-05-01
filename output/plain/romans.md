@@ -1,6 +1,6 @@
 # โรม
 
-_Romans — 12 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
+_Romans — 13 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
 
 _This **plain edition** shows only the Thai translation — no commentary, no Greek, no English. Intended for Thai scholars and theological reviewers evaluating the translation on its own terms. For the annotated edition with contextual summaries (บริบท), see `output/reader/romans.md`. For the underlying Greek, English (BSB) reference, and translator decisions per verse, see the per-chapter review reports at `output/check_reports/romans_NN_review.md` or the source JSON at `output/translations/`._
 
@@ -726,6 +726,38 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 ---
 
+## บทที่ 13
+
+**1** ทุกชีวิตจงยอมจำนนต่ออำนาจปกครองที่อยู่เหนือ เพราะไม่มีอำนาจใดเว้นแต่จากพระเจ้า — และอำนาจที่ดำรงอยู่ก็ทรงแต่งตั้งไว้โดยพระเจ้า
+
+**2** ฉะนั้น ผู้ที่ต่อต้านอำนาจ ก็ต่อต้านสิ่งที่พระเจ้าทรงตั้งขึ้น และผู้ที่ต่อต้านจะนำการพิพากษามาสู่ตนเอง
+
+**3** เพราะผู้ปกครองไม่ได้เป็นที่น่ากลัวต่อการกระทำที่ดี แต่ต่อการกระทำที่ชั่ว ท่านต้องการที่จะไม่กลัวอำนาจหรือ? จงทำสิ่งที่ดี และท่านจะได้รับคำสรรเสริญจากอำนาจนั้น
+
+**4** เพราะเขาเป็นผู้รับใช้ของพระเจ้าเพื่อความดีของท่าน แต่ถ้าท่านทำสิ่งที่ชั่ว จงกลัว เพราะเขาไม่ได้ถือดาบไว้เปล่าๆ เพราะเขาเป็นผู้รับใช้ของพระเจ้า — เป็นผู้แก้แค้นเพื่อนำพระพิโรธมาสู่ผู้กระทำชั่ว
+
+**5** เพราะฉะนั้น จึงจำเป็นต้องยอมจำนน — ไม่เพียงเพราะพระพิโรธ แต่ยังเพราะจิตสำนึกด้วย
+
+**6** เพราะเหตุนี้พวกท่านจึงเสียภาษีด้วย — เพราะพวกเขาเป็นข้าราชการของพระเจ้า ผู้อุทิศตนในกิจการนี้เอง
+
+**7** จงให้ทุกคนตามที่ค้างชำระ — แก่ผู้ที่ควรได้ภาษี ก็ภาษี แก่ผู้ที่ควรได้ค่าธรรมเนียม ก็ค่าธรรมเนียม แก่ผู้ที่ควรได้ความเกรงกลัว ก็ความเกรงกลัว แก่ผู้ที่ควรได้เกียรติ ก็เกียรติ
+
+**8** อย่าค้างชำระสิ่งใดต่อผู้ใด เว้นแต่ความรักที่มีต่อกันและกัน เพราะผู้ที่รักผู้อื่นก็ได้ทำตามธรรมบัญญัติให้สำเร็จแล้ว
+
+**9** เพราะข้อบัญญัติที่ว่า ‘อย่าล่วงประเวณี’ ‘อย่าฆ่าคน’ ‘อย่าขโมย’ ‘อย่าโลภ’ และพระบัญญัติอื่นใด ก็สรุปอยู่ในถ้อยคำนี้ คือ ‘จงรักเพื่อนบ้านของท่านเหมือนรักตนเอง’
+
+**10** ความรักไม่ทำสิ่งชั่วต่อเพื่อนบ้าน เพราะฉะนั้น ความรักจึงเป็นการสำเร็จของธรรมบัญญัติ
+
+**11** และให้ทำเช่นนี้ — เพราะรู้ถึงเวลานี้ — ว่าถึงเวลาแล้วที่พวกท่านจะตื่นขึ้นจากการหลับ เพราะบัดนี้ความรอดของเราใกล้กว่าเมื่อเราได้เริ่มเชื่อ
+
+**12** กลางคืนล่วงไปมากแล้ว และวันใกล้เข้ามาแล้ว ฉะนั้น ขอให้เราละทิ้งกิจการแห่งความมืด และสวมอาวุธแห่งความสว่าง
+
+**13** ขอให้เราดำเนินชีวิตอย่างเหมาะสมเหมือนอยู่ในเวลากลางวัน ไม่ใช่ในการเลี้ยงสนุกและเมามาย ไม่ใช่ในความล่วงประเวณีและการเสพสมความใคร่ ไม่ใช่ในการวิวาทและความริษยา
+
+**14** แต่จงสวมพระเยซูคริสต์องค์พระผู้เป็นเจ้า และอย่าจัดเตรียมไว้สำหรับเนื้อหนังเพื่อตามตัณหา
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -744,4 +776,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/romans_10.json` | `df43aad56d6a372917be043bc53a1381cd3d5e29eba24a6d2e8bda11b3048f0c` |
 | `output/translations/romans_11.json` | `23f7bf66383a3244c75e938077a422e9873080f40b6a885f87e9d58052579fd0` |
 | `output/translations/romans_12.json` | `fc8152c23cfbf9886445400de6ed268bdbcf3e436769eb36bfefc5466c6741bb` |
+| `output/translations/romans_13.json` | `195af7bc575dbb08ddcdbcd4cefc6e18c7ca2300a847aa763e5655b9d7f3d970` |
 
