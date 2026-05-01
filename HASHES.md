@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-05-01 07:53:12 UTC_
-_Total chapters: 161 · Total verses: 5764_
+_Generated: 2026-05-01 09:56:07 UTC_
+_Total chapters: 162 · Total verses: 5796_
 
 ## How to verify a chapter
 
@@ -29,11 +29,11 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/1corinthians_08.json` | 13 | `815df54bc66f78e92fb31021830cc9ae82929d6e06046ae72ce1e62002ef9067` | `27a64bf` |
 | `output/translations/1corinthians_09.json` | 27 | `cd45fea5d2fdbdd8415247315e0b6568069b30b5c567c05b25216041334d7321` | `1db6bff` |
 | `output/translations/1corinthians_10.json` | 33 | `dcf3c08e0e124449388cb0f93ebd135349f366f1f9153ec40cfaad2fb2443da6` | `ea78c04` |
-| `output/translations/1corinthians_11.json` | 34 | `14a09f51ad1a77051da207babc580a347cf2eda4247295ba19d7bf36fb45a487` | `ca0256c` |
+| `output/translations/1corinthians_11.json` | 34 | `cf82a092d2c63cb0f4b37d4d517d0989f9149704d8e096ac05ccd5954f47b194` | `76fbd7b` |
 | `output/translations/1corinthians_12.json` | 31 | `95bf5fd6626e97fa31d8f3180c4f6294c1bd3f81742ebd863e2b56c59012d3d5` | `21c8490` |
 | `output/translations/1corinthians_13.json` | 13 | `66c21bd57cb79fc964478ccf1f6f0c5a382777f96e49be32fb50666a66bbb27e` | `7a5bb10` |
-| `output/translations/1corinthians_14.json` | 40 | `d22d826432622615ae52c23f60ee5f6f74ce0a60261f8e625cb8d9265ec8dde4` | `9815376` |
-| `output/translations/1corinthians_15.json` | 58 | `65328a56ef14fa6fb46ef29e4c5625bbfa6580953e0f48685ebebc6343ccdace` | `976a5d1` |
+| `output/translations/1corinthians_14.json` | 40 | `a83858fb74a2acdbbddab56fb6bec2c2be7a8b7fc46fc8bc76a3e252dbb00e42` | `76fbd7b` |
+| `output/translations/1corinthians_15.json` | 58 | `c958775d83eb14512bb294ef4ee590a54fc22ac3642f57f3efa1ef23de1a27ee` | `76fbd7b` |
 | `output/translations/1corinthians_16.json` | 24 | `c8eac724563f289b1bb5e21f461497a8319b6f2e94d8ca027e938f9cb5e7ccb3` | `d5a006e` |
 | `output/translations/1thessalonians_01.json` | 10 | `fdc756d6679cb22854a22c4d222c372bfcc5c37c81ce7855e059b8b2e389675e` | `19285bb` |
 | `output/translations/1thessalonians_02.json` | 20 | `1c39af3e0fd06a32906b8256dc93b5fdcc8e3038e39c1b2a388ea3ca11b593d2` | `6063f78` |
@@ -44,7 +44,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/2corinthians_01.json` | 24 | `0bdb01cc4d34c181b2c55ab2a1fcf862957d116d8a957c226e6bb445aba355d2` | `a29efab` |
 | `output/translations/2corinthians_02.json` | 17 | `fc4e8cce6b3956ad5e201ca9f3e8f7903274a2ad0ce24abb6f340f74da42022e` | `bb5a922` |
 | `output/translations/2corinthians_03.json` | 18 | `f39356dd147c3a5a9f71664b936b0bad91ce475792bebe5917947e33dd75d9ed` | `83285eb` |
-| `output/translations/2corinthians_04.json` | 18 | `70c27953757a7a6fee2af1e37e0eb6197f6e09ec86f8803273ae2695cb2fb24e` | `d46be52` |
+| `output/translations/2corinthians_04.json` | 18 | `f10e9575edcb229998f6d0b9075ecafafce307657b271a5b04c1a4ecfb422792` | `6a3f11d` |
 | `output/translations/2corinthians_05.json` | 21 | `011cb98442f1b387a37199e4db67363d5354b5d8e3511919c4523caebdec9ad2` | `7c77caf` |
 | `output/translations/2corinthians_06.json` | 18 | `51551f17000c4dacfd86b2382f66efe75e1337893b8148a4909f5adbaf0e2aa9` | `61d44e6` |
 | `output/translations/2corinthians_07.json` | 16 | `c0680d8f92009ae4f8be49887e3ab547ed669885b59bc864482c1a5da7f06f02` | `1b4a7cc` |
@@ -53,7 +53,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/2corinthians_10.json` | 18 | `2cabc3aa510e54379db35f1ffe2ff1b0515f3816e9c5d56fc0fdc84055a1d7d7` | `03145b3` |
 | `output/translations/2corinthians_11.json` | 33 | `361ad566cf0762163d43235ab35118aac7774c92c5cc11e491bd8d409437adc7` | `7f167c9` |
 | `output/translations/2corinthians_12.json` | 21 | `2fd245afd4eec451f0dfd7c426412722ade00b4c6895c31576a66ba418479c35` | `3e305cc` |
-| `output/translations/2corinthians_13.json` | 13 | `b0c5e4132dbc04fb915d467195ff6a6fa4a887593f6a3492056cde5e3d9f14dd` | `—` |
+| `output/translations/2corinthians_13.json` | 13 | `b0c5e4132dbc04fb915d467195ff6a6fa4a887593f6a3492056cde5e3d9f14dd` | `ff8cd50` |
 | `output/translations/2thessalonians_01.json` | 12 | `b71a33acccab25376e35421cea474fc17a09765405522424f14f9e1336419ca8` | `edc3aef` |
 | `output/translations/2thessalonians_02.json` | 17 | `13f197ee426a703f768bdced0a890241ad195c99c2d2cb064cdaa8bdcecd893f` | `17b5dcb` |
 | `output/translations/2thessalonians_03.json` | 18 | `93383ef8a258d9ca44a236f8ecb545155a9a638f4be659a176067d9100be4bde` | `dcdcb5d` |
@@ -180,6 +180,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/matthew_26.json` | 75 | `d26f7b1411f82df73f135511440b70f683253fe9798f7833e2ba6784818c1a73` | `6d15bb1` |
 | `output/translations/matthew_27.json` | 66 | `34b89fe36dca8aa290429f615ad6efd79bf4d8eb4c455063f1f8b3ce08e11434` | `6d15bb1` |
 | `output/translations/matthew_28.json` | 20 | `08b0d3ac30a8cd650af17b3745333beb29228308b6429b951f984b5a845c843b` | `6d15bb1` |
+| `output/translations/romans_01.json` | 32 | `c87b2112628b417478cc0beebb101b81b21b70b76106579044da66b1f0181824` | `—` |
 
 ---
 

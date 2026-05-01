@@ -1,0 +1,947 @@
+[
+  {
+    "reference": "Romans 1:1",
+    "chapter": 1,
+    "verse": 1,
+    "greek": "Παῦλος δοῦλος Χριστοῦ Ἰησοῦ,κλητὸς ἀπόστολος,ἀφωρισμένος εἰς εὐαγγέλιον θεοῦ",
+    "bsb_english": "Paul, a servant of Christ Jesus, called to be an apostle, and set apart for the gospel of God—",
+    "translation": {
+      "thai": "เปาโล ผู้เป็นทาสของพระเยซูคริสต์ ผู้ได้รับการทรงเรียกให้เป็นอัครทูต ผู้ถูกแยกไว้เพื่อข่าวประเสริฐของพระเจ้า",
+      "thai_literal": null,
+      "thai_summary": "เปาโลเปิดจดหมายโดยแนะนำตนเองด้วยสามตำแหน่งซ้อนกัน — ‘ทาส’ ‘อัครทูต’ และ ‘ผู้ถูกแยกไว้’ ทั้งสามชี้ไปที่พระเจ้าเป็นผู้ทรงกระทำ ไม่ใช่เปาโลเลือกเอง คำว่า ‘ทาส’ (δοῦλος) ในวัฒนธรรมโรมันหมายถึงผู้ที่ถูกซื้อไว้ทั้งชีวิตเพื่อรับใช้นาย — เปาโลใช้คำนี้เพื่อบ่งบอกการอุทิศตัวอย่างสุดใจต่อพระคริสต์",
+      "key_decisions": [
+        {
+          "greek": "δοῦλος Χριστοῦ Ἰησοῦ",
+          "thai": "ผู้เป็นทาสของพระเยซูคริสต์",
+          "rationale": "δοῦλος → ทาส (corpus lock from Luke 7:2 etc.; consistent across Pauline corpus). Thai retains the strong slave-of-Christ image rather than softening to 'ผู้รับใช้' (servant). Christ-as-master takes implicit honorific via พระ-prefix already in พระเยซูคริสต์."
+        },
+        {
+          "greek": "κλητὸς ἀπόστολος",
+          "thai": "ผู้ได้รับการทรงเรียกให้เป็นอัครทูต",
+          "rationale": "κλητός verbal-adjective from καλέω 'called' — divine-passive (God calls). Royal ทรง applied to the divine action of calling. ἀπόστολος → อัครทูต (corpus lock from Galatians 1:1)."
+        },
+        {
+          "greek": "ἀφωρισμένος εἰς εὐαγγέλιον θεοῦ",
+          "thai": "ผู้ถูกแยกไว้เพื่อข่าวประเสริฐของพระเจ้า",
+          "rationale": "ἀφορίζω perfect-passive participle 'having-been-set-apart.' Divine passive — God is the implicit agent. εὐαγγέλιον → ข่าวประเสริฐ (RULES §4 NON-NEGOTIABLE lock — never พระกิตติคุณ). 'ถูกแยกไว้' preserves the perfect-passive 'set-apart-and-still-set-apart' force."
+        }
+      ],
+      "notes": "Three-fold self-introduction. Note Paul's name-order Χριστοῦ Ἰησοῦ (vs. usual Ἰησοῦς Χριστός) — emphasizes the messianic title first. ἀφωρισμένος may echo Paul's pre-Christian Pharisaic identity (Pharisee = 'separated one'); now separated FOR the gospel rather than FROM Gentiles."
+    }
+  },
+  {
+    "reference": "Romans 1:2",
+    "chapter": 1,
+    "verse": 2,
+    "greek": "ὃ προεπηγγείλατο διὰ τῶν προφητῶν αὐτοῦ ἐν γραφαῖς ἁγίαις",
+    "bsb_english": "the gospel He promised beforehand through His prophets in the Holy Scriptures,",
+    "translation": {
+      "thai": "ซึ่งพระเจ้าทรงสัญญาไว้ล่วงหน้าผ่านบรรดาผู้เผยพระวจนะของพระองค์ในพระคัมภีร์อันบริสุทธิ์",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "προεπηγγείλατο",
+          "thai": "ทรงสัญญาไว้ล่วงหน้า",
+          "rationale": "προεπαγγέλλομαι (NT-freq=2: here + 2 Cor 9:5) compound προ- + ἐπαγγέλλομαι 'promise-beforehand.' Aorist-middle 3rd-singular — God-as-subject, takes royal ทรง. Rationale: Paul grounds the gospel in OT prophecy from the very first verse — pre-empting the Jewish-Christian objection that Christianity is a novelty."
+        },
+        {
+          "greek": "γραφαῖς ἁγίαις",
+          "thai": "พระคัมภีร์อันบริสุทธิ์",
+          "rationale": "γραφή → พระคัมภีร์ (corpus lock; Luke 4:21 etc.). ἅγιος → บริสุทธิ์ here in 'sacred-set-apart' sense (not the believer-saints sense — that's a different syntactic context). 'พระคัมภีร์อันบริสุทธิ์' = Holy Scriptures, a fixed Pauline-rabbinic phrase for the Hebrew Bible."
+        }
+      ],
+      "notes": "προεπαγγέλλομαι is rare (NT-freq=2) but not hapax. The phrase γραφαῖς ἁγίαις occurs only here in Paul (Paul usually says γραφή / αἱ γραφαί); the adjective ἁγίαις heightens reverence at the letter's opening."
+    }
+  },
+  {
+    "reference": "Romans 1:3",
+    "chapter": 1,
+    "verse": 3,
+    "greek": "περὶ τοῦ υἱοῦ αὐτοῦ,τοῦ γενομένου ἐκ σπέρματος Δαυὶδ κατὰ σάρκα,",
+    "bsb_english": "regarding His Son, who was a descendant of David according to the flesh,",
+    "translation": {
+      "thai": "เกี่ยวกับพระบุตรของพระองค์ ผู้ทรงบังเกิดมาจากเชื้อสายของดาวิดตามเนื้อหนัง",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "τοῦ υἱοῦ αὐτοῦ",
+          "thai": "พระบุตรของพระองค์",
+          "rationale": "υἱός referring to Christ → พระบุตร (royal lock — divine sonship). αὐτοῦ refers to God (from previous verse). Pauline-Christological: the gospel's content is the Son."
+        },
+        {
+          "greek": "τοῦ γενομένου ἐκ σπέρματος Δαυὶδ κατὰ σάρκα",
+          "thai": "ผู้ทรงบังเกิดมาจากเชื้อสายของดาวิดตามเนื้อหนัง",
+          "rationale": "γίνομαι aorist-middle participle 'having-come-to-be' — Christ-as-subject takes royal ทรง. σπέρμα Δαυίδ idiom for 'descendant of David' → 'เชื้อสายของดาวิด' (cf. Mat 1:1 corpus). κατὰ σάρκα Pauline-formula 'according-to-the-flesh' = with-respect-to-physical-descent (vs κατὰ πνεῦμα v.4) → 'ตามเนื้อหนัง' (preserves the parallel structure with v.4)."
+        }
+      ],
+      "notes": "vv.3-4 widely regarded as a pre-Pauline confessional/creedal fragment Paul cites here. The σάρξ/πνεῦμα contrast is human-realm/divine-realm, NOT body/spirit dualism — σάρξ here = physical-genealogical, not 'sinful-flesh' (that sense begins ch.7-8)."
+    }
+  },
+  {
+    "reference": "Romans 1:4",
+    "chapter": 1,
+    "verse": 4,
+    "greek": "τοῦ ὁρισθέντος υἱοῦ θεοῦ ἐν δυνάμει κατὰ πνεῦμα ἁγιωσύνης ἐξ ἀναστάσεως νεκρῶν,Ἰησοῦ Χριστοῦ τοῦ κυρίου ἡμῶν,",
+    "bsb_english": "and who through the Spirit of holiness was declared with power to be the Son of God by His resurrection from the dead: Jesus Christ our Lord.",
+    "translation": {
+      "thai": "ผู้ทรงได้รับการกำหนดให้เป็นพระบุตรของพระเจ้าด้วยฤทธิ์อำนาจ ตามพระวิญญาณแห่งความบริสุทธิ์ โดยการคืนพระชนม์จากความตาย คือพระเยซูคริสต์ องค์พระผู้เป็นเจ้าของเรา",
+      "thai_literal": null,
+      "thai_summary": "ข้อ 3-4 เป็นถ้อยคำสารภาพความเชื่อก่อนยุคเปาโล (creedal fragment) ที่เปาโลยกมาอ้าง — สรุปข่าวประเสริฐในสองบรรทัด คือพระคริสต์ทรงเป็นทั้งเชื้อสายของดาวิดตามเนื้อหนัง (มาเป็นมนุษย์จริงในเชื้อสายของกษัตริย์อิสราเอล) และทรงเป็นพระบุตรของพระเจ้าด้วยฤทธิ์อำนาจโดยการคืนพระชนม์ — ทั้งสองด้านของพระคริสต์รวมเป็นหนึ่งในพระองค์เอง",
+      "key_decisions": [
+        {
+          "greek": "τοῦ ὁρισθέντος υἱοῦ θεοῦ ἐν δυνάμει",
+          "thai": "ผู้ทรงได้รับการกำหนดให้เป็นพระบุตรของพระเจ้าด้วยฤทธิ์อำนาจ",
+          "rationale": "ὁρίζω aorist-passive participle 'having-been-appointed/declared.' Divine passive (God appoints). Christ-as-subject takes ทรง. Theological note: this is NOT adoptionism (Christ becoming Son at resurrection) but the public-vindication-with-power of his eternal Sonship — Paul's syntax reads 'declared/appointed-with-power-to-be Son-of-God.' δύναμις → ฤทธิ์อำนาจ (corpus lock 1 Cor 1:24)."
+        },
+        {
+          "greek": "κατὰ πνεῦμα ἁγιωσύνης",
+          "thai": "ตามพระวิญญาณแห่งความบริสุทธิ์",
+          "rationale": "RARE phrase 'spirit-of-holiness' (NT only here; Hebraism = 'Holy Spirit' / parallel to קודש רוח). Paul preserves the Semitic-style construction rather than the more common πνεῦμα ἅγιον. Thai 'พระวิญญาณแห่งความบริสุทธิ์' preserves the genitival-construction; differs from the usual 'พระวิญญาณบริสุทธิ์' lock (RULES §4) precisely because the Greek itself differs."
+        },
+        {
+          "greek": "ἐξ ἀναστάσεως νεκρῶν",
+          "thai": "โดยการคืนพระชนม์จากความตาย",
+          "rationale": "ἀνάστασις referring to Christ's resurrection → 'การคืนพระชนม์' (royal — only Christ's resurrection takes พระชนม์; general resurrection of dead = การฟื้นคืนชีพ). νεκρῶν generic-plural 'from-among-dead-ones' → 'จากความตาย.'"
+        },
+        {
+          "greek": "Ἰησοῦ Χριστοῦ τοῦ κυρίου ἡμῶν",
+          "thai": "พระเยซูคริสต์ องค์พระผู้เป็นเจ้าของเรา",
+          "rationale": "FULL Pauline-Christological-title-formula: Jesus + Christ + Lord-of-us. κύριος here as title-for-Christ → องค์พระผู้เป็นเจ้า (corpus standard for Christ-as-Lord)."
+        }
+      ],
+      "notes": "TEXTUAL: SBLGNT and NA28 agree. THEOLOGICAL: Paul cites this two-line creedal fragment — historic-Davidic-Sonship + powerful-resurrection-Sonship — as the gospel's content. The κατὰ σάρκα/κατὰ πνεῦμα parallel is human-realm/divine-realm, not body/spirit. 'Spirit of holiness' is a Hebraism — here NOT to identify the Holy-Spirit-as-distinct-person but to characterize Christ's divine-mode-of-being post-resurrection."
+    }
+  },
+  {
+    "reference": "Romans 1:5",
+    "chapter": 1,
+    "verse": 5,
+    "greek": "δι’οὗ ἐλάβομεν χάριν καὶ ἀποστολὴν εἰς ὑπακοὴν πίστεως ἐν πᾶσιν τοῖς ἔθνεσιν ὑπὲρ τοῦ ὀνόματος αὐτοῦ,",
+    "bsb_english": "Through Him and on behalf of His name, we received grace and apostleship to call all those among the Gentiles to the obedience that comes from faith.",
+    "translation": {
+      "thai": "ผ่านพระองค์ เราได้รับพระคุณและการเป็นอัครทูต เพื่อก่อให้เกิดการเชื่อฟังที่มาจากความเชื่อในบรรดาประชาชาติทั้งปวง เพื่อเห็นแก่พระนามของพระองค์",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ἐλάβομεν χάριν καὶ ἀποστολὴν",
+          "thai": "เราได้รับพระคุณและการเป็นอัครทูต",
+          "rationale": "Pauline-aorist 'we received' — most likely epistolary-plural for Paul-himself (cf v.1 singular ἀφωρισμένος; aor-1pl is Paul-style for personal-sense). χάρις → พระคุณ (corpus lock). ἀποστολή → 'การเป็นอัครทูต' (the office, abstract-noun form of ἀπόστολος; cognate of อัครทูต)."
+        },
+        {
+          "greek": "εἰς ὑπακοὴν πίστεως",
+          "thai": "เพื่อก่อให้เกิดการเชื่อฟังที่มาจากความเชื่อ",
+          "rationale": "FAMOUS PAULINE PHRASE — appears here and at the letter's close (16:26), forming an inclusio. Three-way ambiguous: (a) obedience-that-comes-from-faith (genitive-of-source — most evangelical-Protestant translations: BSB, NIV, ESV), (b) obedience-which-IS-faith (epexegetical-genitive — Cranfield, Barth), (c) obedience-to-the-faith (objective-genitive — Catholic-favored). Following Path-A 'obedience-from-faith' per RULES §0 evangelical-Protestant default. πίστις here in dispositional 'belief / trust' sense → ความเชื่อ (NOT ความซื่อสัตย์ which is the rare faithfulness-sense)."
+        },
+        {
+          "greek": "ἐν πᾶσιν τοῖς ἔθνεσιν",
+          "thai": "ในบรรดาประชาชาติทั้งปวง",
+          "rationale": "ἔθνη in Pauline-mission contexts → 'ประชาชาติ' (= 'nations/peoples'; preserves the both-Gentile-and-all-peoples ambiguity). 'บรรดา' marks the plural-collective sense."
+        },
+        {
+          "greek": "ὑπὲρ τοῦ ὀνόματος αὐτοῦ",
+          "thai": "เพื่อเห็นแก่พระนามของพระองค์",
+          "rationale": "ὑπέρ + genitive 'for-the-sake-of.' ὄνομα referring to Christ takes royal พระ-prefix → พระนาม. Pauline-name-of-Christ as the goal of all apostolic-mission."
+        }
+      ],
+      "notes": "INCLUSIO: ὑπακοὴ πίστεως appears here and at 16:26 — opening and closing the letter. Translate consistently in both places. Pauline-thesis-statement: the goal of apostolic mission is faith-grounded obedience among all nations."
+    }
+  },
+  {
+    "reference": "Romans 1:6",
+    "chapter": 1,
+    "verse": 6,
+    "greek": "ἐν οἷς ἐστε καὶ ὑμεῖς κλητοὶ Ἰησοῦ Χριστοῦ,",
+    "bsb_english": "And you also are among those who are called to belong to Jesus Christ.",
+    "translation": {
+      "thai": "ในบรรดาประชาชาตินั้น พวกท่านก็เป็นด้วย — เป็นผู้ที่ได้รับการทรงเรียกให้เป็นของพระเยซูคริสต์",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "κλητοὶ Ἰησοῦ Χριστοῦ",
+          "thai": "เป็นผู้ที่ได้รับการทรงเรียกให้เป็นของพระเยซูคริสต์",
+          "rationale": "κλητός verbal-adjective + genitive — ambiguous between 'called-by Jesus Christ' and 'called-belonging-to Jesus Christ.' BSB renders 'called to belong to.' Thai 'ผู้ได้รับการทรงเรียกให้เป็นของ' captures the belonging-relation. ทรง marks the divine-action of calling."
+        }
+      ],
+      "notes": "Roman-believers identified as part of 'all the Gentiles' (v.5) — Paul places them within the wider apostolic mission scope."
+    }
+  },
+  {
+    "reference": "Romans 1:7",
+    "chapter": 1,
+    "verse": 7,
+    "greek": "πᾶσιν τοῖς οὖσιν ἐν Ῥώμῃ ἀγαπητοῖς θεοῦ,κλητοῖς ἁγίοις·χάρις ὑμῖν καὶ εἰρήνη ἀπὸ θεοῦ πατρὸς ἡμῶν καὶ κυρίου Ἰησοῦ Χριστοῦ.",
+    "bsb_english": "To all in Rome who are loved by God and called to be saints: Grace and peace to you from God our Father and the Lord Jesus Christ.",
+    "translation": {
+      "thai": "ถึงทุกคนในกรุงโรม ผู้เป็นที่รักของพระเจ้า ผู้ได้รับการทรงเรียกให้เป็นธรรมิกชน ขอพระคุณและสันติสุขจากพระเจ้าพระบิดาของเรา และจากพระเยซูคริสต์องค์พระผู้เป็นเจ้า จงดำรงอยู่กับพวกท่านทุกคน",
+      "thai_literal": null,
+      "thai_summary": "ข้อ 7 จบส่วนคำทักทาย เปาโลใช้สูตรคำอวยพรแบบมาตรฐานของจดหมาย ‘พระคุณและสันติสุข’ (χάρις καὶ εἰρήνη) — รวมคำทักทายแบบกรีก (χαίρειν → χάρις) และฮีบรู (שלום shalom = εἰρήνη) ไว้ด้วยกัน เป็นสูตรที่เปาโลใช้เปิดจดหมายฝากเกือบทุกฉบับ",
+      "key_decisions": [
+        {
+          "greek": "ἀγαπητοῖς θεοῦ",
+          "thai": "ผู้เป็นที่รักของพระเจ้า",
+          "rationale": "ἀγαπητός → ที่รัก (RULES §4 lock). Genitive 'of God' = passive 'beloved-by-God.' 'ผู้เป็นที่รัก' substantive form (cf. Mark 1:11 'พระบุตรที่รัก' for divine love)."
+        },
+        {
+          "greek": "κλητοῖς ἁγίοις",
+          "thai": "ผู้ได้รับการทรงเรียกให้เป็นธรรมิกชน",
+          "rationale": "Pauline-vocation-formula 'called-saints.' ἅγιος as ecclesial-title for believers → ธรรมิกชน (corpus lock for plural 'saints/holy-ones-of-God'). Same structure as κλητὸς ἀπόστολος in v.1 — divine-passive calling."
+        },
+        {
+          "greek": "χάρις ὑμῖν καὶ εἰρήνη ἀπὸ θεοῦ πατρὸς ἡμῶν καὶ κυρίου Ἰησοῦ Χριστοῦ",
+          "thai": "ขอพระคุณและสันติสุขจากพระเจ้าพระบิดาของเรา และจากพระเยซูคริสต์องค์พระผู้เป็นเจ้า จงดำรงอยู่กับพวกท่านทุกคน",
+          "rationale": "STANDARD PAULINE-OPENING-BENEDICTION (occurs in nearly every Pauline letter). χάρις → พระคุณ. εἰρήνη → สันติสุข (corpus lock). θεὸς πατήρ → พระเจ้าพระบิดา. κύριος Ἰησοῦς Χριστός → พระเยซูคริสต์องค์พระผู้เป็นเจ้า (corpus formula). ขอ...จงดำรงอยู่กับ matches the optative-blessing form that Greek implies (verbless = 'May... [be]')."
+        }
+      ],
+      "notes": "Standard Pauline-letter-opening benediction (cf 1 Cor 1:3; 2 Cor 1:2; Gal 1:3; Eph 1:2; Phil 1:2; Col 1:2; 1 Thess 1:1; 2 Thess 1:2; Phm 3). Theologically significant — Christ placed alongside God-the-Father as joint-source of blessing."
+    }
+  },
+  {
+    "reference": "Romans 1:8",
+    "chapter": 1,
+    "verse": 8,
+    "greek": "Πρῶτον μὲν εὐχαριστῶ τῷ θεῷ μου διὰ Ἰησοῦ Χριστοῦ περὶ πάντων ὑμῶν,ὅτι ἡ πίστις ὑμῶν καταγγέλλεται ἐν ὅλῳ τῷ κόσμῳ.",
+    "bsb_english": "First, I thank my God through Jesus Christ for all of you, because your faith is being proclaimed all over the world.",
+    "translation": {
+      "thai": "ก่อนอื่น ข้าพเจ้าขอบพระคุณพระเจ้าของข้าพเจ้าผ่านพระเยซูคริสต์สำหรับพวกท่านทุกคน เพราะความเชื่อของพวกท่านได้รับการประกาศไปทั่วโลก",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "Πρῶτον μὲν εὐχαριστῶ τῷ θεῷ μου",
+          "thai": "ก่อนอื่น ข้าพเจ้าขอบพระคุณพระเจ้าของข้าพเจ้า",
+          "rationale": "Pauline-thanksgiving-opener (after greetings, before main body — appears in nearly every Pauline letter). εὐχαριστέω → ขอบพระคุณ (corpus standard for prayer-thanks-to-God). 'พระเจ้าของข้าพเจ้า' Greek θεῷ μου preserved (Pauline possessive — 'my God' as relational, not ownership)."
+        },
+        {
+          "greek": "ἡ πίστις ὑμῶν καταγγέλλεται ἐν ὅλῳ τῷ κόσμῳ",
+          "thai": "ความเชื่อของพวกท่านได้รับการประกาศไปทั่วโลก",
+          "rationale": "πίστις in dispositional sense → ความเชื่อ. καταγγέλλω present-passive 'is-being-proclaimed' → 'ได้รับการประกาศ.' ὅλῳ τῷ κόσμῳ Pauline-hyperbole for 'across-the-Roman-Empire-known-world' — Thai 'ไปทั่วโลก' preserves the rhetorical sweep. Note: hyperbolic in original sense, but most Thai readers will read it the same way."
+        }
+      ],
+      "notes": "Pauline-thanksgiving-formula. 'My God' (θεῷ μου) Pauline-relational possessive — also at 1 Cor 1:4; Phil 1:3; Phm 4."
+    }
+  },
+  {
+    "reference": "Romans 1:9",
+    "chapter": 1,
+    "verse": 9,
+    "greek": "μάρτυς γάρ μού ἐστιν ὁ θεός,ᾧ λατρεύω ἐν τῷ πνεύματί μου ἐν τῷ εὐαγγελίῳ τοῦ υἱοῦ αὐτοῦ,ὡς ἀδιαλείπτως μνείαν ὑμῶν ποιοῦμαι",
+    "bsb_english": "God, whom I serve with my spirit in preaching the gospel of His Son, is my witness how constantly I remember you",
+    "translation": {
+      "thai": "เพราะพระเจ้าทรงเป็นพยานของข้าพเจ้า ผู้ที่ข้าพเจ้าปรนนิบัติด้วยจิตวิญญาณของข้าพเจ้าในข่าวประเสริฐแห่งพระบุตรของพระองค์ ว่าข้าพเจ้าระลึกถึงพวกท่านอย่างไม่หยุดยั้ง",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "μάρτυς γάρ μού ἐστιν ὁ θεός",
+          "thai": "พระเจ้าทรงเป็นพยานของข้าพเจ้า",
+          "rationale": "Pauline-oath-formula 'God-is-my-witness' (cf 2 Cor 1:23; Phil 1:8; 1 Th 2:5,10). μάρτυς → พยาน (corpus standard). Divine-subject takes ทรง."
+        },
+        {
+          "greek": "ᾧ λατρεύω ἐν τῷ πνεύματί μου ἐν τῷ εὐαγγελίῳ τοῦ υἱοῦ αὐτοῦ",
+          "thai": "ผู้ที่ข้าพเจ้าปรนนิบัติด้วยจิตวิญญาณของข้าพเจ้าในข่าวประเสริฐแห่งพระบุตรของพระองค์",
+          "rationale": "λατρεύω → ปรนนิบัติ (corpus lock from Acts; cult-service vocabulary, distinct from διακονέω 'serve-by-attending'). ἐν τῷ πνεύματί μου = with-my-spirit (= 'wholeheartedly / inwardly'); preserved literally as 'จิตวิญญาณของข้าพเจ้า' since Paul's phrasing is rich with cultic-overtones (priestly worship-service in spirit, not flesh-cult)."
+        },
+        {
+          "greek": "ὡς ἀδιαλείπτως μνείαν ὑμῶν ποιοῦμαι",
+          "thai": "ว่าข้าพเจ้าระลึกถึงพวกท่านอย่างไม่หยุดยั้ง",
+          "rationale": "ἀδιαλείπτως 'unceasingly' → 'ไม่หยุดยั้ง.' μνείαν ποιέομαι 'make-mention' Pauline-idiom for praying-for-someone (cf 1 Th 1:2; Phil 1:3) → 'ระลึกถึง' (preserves 'remembering-in-prayer' implicit; note: v.10 makes it explicit with προσευχή)."
+        }
+      ],
+      "notes": "Pauline-pastoral-priestly tone. λατρεύω is cultic-priestly vocabulary — Paul casts his apostolic mission as priestly service, foreshadowing 15:16 'priestly-service of the gospel.'"
+    }
+  },
+  {
+    "reference": "Romans 1:10",
+    "chapter": 1,
+    "verse": 10,
+    "greek": "πάντοτε ἐπὶ τῶν προσευχῶν μου,δεόμενος εἴ πως ἤδη ποτὲ εὐοδωθήσομαι ἐν τῷ θελήματι τοῦ θεοῦ ἐλθεῖν πρὸς ὑμᾶς.",
+    "bsb_english": "in my prayers at all times, asking that now at last by God’s will I may succeed in coming to you.",
+    "translation": {
+      "thai": "เสมอในคำอธิษฐานของข้าพเจ้า ทูลขอว่าบัดนี้ในที่สุด ข้าพเจ้าจะประสบความสำเร็จในการมาหาพวกท่าน — ตามพระประสงค์ของพระเจ้า",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "δεόμενος εἴ πως ἤδη ποτὲ εὐοδωθήσομαι",
+          "thai": "ทูลขอว่าบัดนี้ในที่สุด ข้าพเจ้าจะประสบความสำเร็จ",
+          "rationale": "δέομαι → ทูลขอ (humble-petition register, since the petition is to God). εὐοδόω passive 'be-prospered / have-good-journey' (compound εὐ-+ὁδός 'good-way') → 'ประสบความสำเร็จ' (preserves the 'journey-prospered' implication generalized to 'succeed-in-coming')."
+        },
+        {
+          "greek": "ἐν τῷ θελήματι τοῦ θεοῦ",
+          "thai": "ตามพระประสงค์ของพระเจ้า",
+          "rationale": "θέλημα τοῦ θεοῦ → 'พระประสงค์ของพระเจ้า' (corpus standard — Pauline phrase for divine-will-as-determining-circumstances)."
+        }
+      ],
+      "notes": "Em-dash precedes 'ตามพระประสงค์ของพระเจ้า' to mirror the Greek's tail-position emphasis on the divine-will conditional."
+    }
+  },
+  {
+    "reference": "Romans 1:11",
+    "chapter": 1,
+    "verse": 11,
+    "greek": "ἐπιποθῶ γὰρ ἰδεῖν ὑμᾶς,ἵνα τι μεταδῶ χάρισμα ὑμῖν πνευματικὸν εἰς τὸ στηριχθῆναι ὑμᾶς,",
+    "bsb_english": "For I long to see you so that I may impart to you some spiritual gift to strengthen you,",
+    "translation": {
+      "thai": "เพราะข้าพเจ้าโหยหาที่จะพบพวกท่าน เพื่อข้าพเจ้าจะแบ่งปันของประทานฝ่ายจิตวิญญาณบางอย่างแก่พวกท่าน เพื่อให้พวกท่านได้รับการเสริมกำลังให้มั่นคง",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ἐπιποθῶ",
+          "thai": "โหยหา",
+          "rationale": "ἐπιποθέω compound ἐπί + ποθέω 'long-for-deeply' (more intensive than ποθέω alone) → 'โหยหา' (preserves the longing/yearning emotional intensity)."
+        },
+        {
+          "greek": "χάρισμα πνευματικὸν",
+          "thai": "ของประทานฝ่ายจิตวิญญาณ",
+          "rationale": "χάρισμα → ของประทาน (= gracious-gift; Pauline-technical for spiritual-gifts; corpus lock from 1 Cor 12). πνευματικός → 'ฝ่ายจิตวิญญาณ' (= 'on-the-spiritual-side / pertaining-to-the-Spirit'; corpus distinction vs σαρκικός 'ฝ่ายเนื้อหนัง')."
+        },
+        {
+          "greek": "εἰς τὸ στηριχθῆναι ὑμᾶς",
+          "thai": "เพื่อให้พวกท่านได้รับการเสริมกำลังให้มั่นคง",
+          "rationale": "στηρίζω passive 'be-strengthened/established.' Pauline-pastoral-vocab (cf 16:25; 1 Th 3:13). 'การเสริมกำลังให้มั่นคง' captures both the strengthening-action and the resulting-stability sense."
+        }
+      ],
+      "notes": "First mention of χάρισμα in Romans (will become major in ch.12). Paul uses τι ('some / a-certain') with deliberate vagueness — he doesn't know in advance what gift will be imparted; he trusts God to provide what the Roman church needs."
+    }
+  },
+  {
+    "reference": "Romans 1:12",
+    "chapter": 1,
+    "verse": 12,
+    "greek": "τοῦτο δέ ἐστιν συμπαρακληθῆναι ἐν ὑμῖν διὰ τῆς ἐν ἀλλήλοις πίστεως ὑμῶν τε καὶ ἐμοῦ.",
+    "bsb_english": "that is, that you and I may be mutually encouraged by each other’s faith.",
+    "translation": {
+      "thai": "นั่นก็คือ การที่เราจะได้รับกำลังใจร่วมกันในท่ามกลางพวกท่าน ผ่านความเชื่อที่เรามีต่อกันและกัน — ทั้งของพวกท่านและของข้าพเจ้า",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "συμπαρακληθῆναι",
+          "thai": "ได้รับกำลังใจร่วมกัน",
+          "rationale": "NT-HAPAX (only here in NT). Compound σύν + παρακαλέω 'be-mutually-encouraged-together.' Pauline-correction in real-time: in v.11 he says 'I impart to you'; in v.12 he qualifies — 'no, mutually-encouraged.' The hapax-compound emphasizes the bilateral nature. 'ได้รับกำลังใจร่วมกัน' captures the συμ- (together) + παρακληθῆναι (be-encouraged-passive) structure."
+        }
+      ],
+      "notes": "συμπαρακαλέομαι is NT HAPAX (freq=1). Paul coins or borrows a rare compound to emphasize MUTUAL encouragement — softening the apostolic-superiority of v.11 with humility (the Roman church will encourage him as much as he encourages them)."
+    }
+  },
+  {
+    "reference": "Romans 1:13",
+    "chapter": 1,
+    "verse": 13,
+    "greek": "οὐ θέλω δὲ ὑμᾶς ἀγνοεῖν,ἀδελφοί,ὅτι πολλάκις προεθέμην ἐλθεῖν πρὸς ὑμᾶς,καὶ ἐκωλύθην ἄχρι τοῦ δεῦρο,ἵνα τινὰ καρπὸν σχῶ καὶ ἐν ὑμῖν καθὼς καὶ ἐν τοῖς λοιποῖς ἔθνεσιν.",
+    "bsb_english": "I do not want you to be unaware, brothers, how often I planned to come to you (but have been prevented from visiting until now), in order that I might have a harvest among you, just as I have had among the other Gentiles.",
+    "translation": {
+      "thai": "พี่น้องทั้งหลาย ข้าพเจ้าไม่อยากให้พวกท่านไม่รู้ว่า ข้าพเจ้าได้ตั้งใจหลายครั้งที่จะมาหาพวกท่าน แต่ก็ถูกขัดขวางจนถึงบัดนี้ เพื่อข้าพเจ้าจะมีผลในท่ามกลางพวกท่านด้วย เช่นเดียวกับในท่ามกลางบรรดาประชาชาติอื่นๆ",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "οὐ θέλω δὲ ὑμᾶς ἀγνοεῖν",
+          "thai": "ข้าพเจ้าไม่อยากให้พวกท่านไม่รู้",
+          "rationale": "Pauline-litotes-formula (cf 1 Cor 10:1; 12:1; 2 Cor 1:8; 1 Th 4:13) — strong-positive expressed via double-negative. Thai preserves the litotes; equivalent positive would be 'ข้าพเจ้าอยากให้พวกท่านรู้' but the negative form has the rhetorical force of 'I-definitely-want-you-to-know-this' that the litotes carries."
+        },
+        {
+          "greek": "ἀδελφοί",
+          "thai": "พี่น้องทั้งหลาย",
+          "rationale": "ἀδελφοί generic-plural — Pauline-address to mixed-gender congregation. 'พี่น้องทั้งหลาย' corpus standard for Pauline-direct-address (covers brothers-and-sisters; the masculine-plural in Greek is conventional-inclusive)."
+        },
+        {
+          "greek": "τινὰ καρπὸν σχῶ",
+          "thai": "จะมีผล",
+          "rationale": "καρπός metaphor (NT-Pauline 'fruit' = ministry-result, either converts or sanctified-believers). Aorist-subjunctive ἔχω 'might-have/get.' Thai 'มีผล' (= 'have-fruit/result') preserves the agricultural-metaphor cleanly. τινά softens to 'some' — left implicit in Thai."
+        }
+      ],
+      "notes": "Pauline-not-want-you-to-be-ignorant litotes formula. καρπός metaphor — 'harvest-fruit' = ministry-result; deliberately ambiguous between 'converts' (cf v.15 εὐαγγελίσασθαι) and 'spiritual maturation of existing believers.'"
+    }
+  },
+  {
+    "reference": "Romans 1:14",
+    "chapter": 1,
+    "verse": 14,
+    "greek": "Ἕλλησίν τε καὶ βαρβάροις,σοφοῖς τε καὶ ἀνοήτοις ὀφειλέτης εἰμί·",
+    "bsb_english": "I am obligated both to Greeks and non-Greeks, both to the wise and the foolish.",
+    "translation": {
+      "thai": "ข้าพเจ้าเป็นผู้ติดหนี้ ทั้งต่อชาวกรีกและชาวอนารยชน ทั้งต่อผู้มีปัญญาและผู้ขาดสติปัญญา",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "Ἕλλησίν τε καὶ βαρβάροις",
+          "thai": "ทั้งต่อชาวกรีกและชาวอนารยชน",
+          "rationale": "Ἕλληνες/βάρβαροι ancient-cultural-merism — 'Greeks-and-barbarians' = 'all-people' (insider vs outsider of Greek-speaking-world). βάρβαρος originally onomatopoetic (foreign speech sounds 'bar-bar') — Thai 'อนารยชน' (= 'uncivilized-people') captures the cultural-otherness; alternative 'ชนต่างชาติ' would lose the cultural-marker. Note: this is Paul-using-cultural-categories descriptively; not endorsing them."
+        },
+        {
+          "greek": "σοφοῖς τε καὶ ἀνοήτοις",
+          "thai": "ทั้งต่อผู้มีปัญญาและผู้ขาดสติปัญญา",
+          "rationale": "Second merism. σοφός → ผู้มีปัญญา. ἀνόητος (NT-freq=6 — Luke 24:25; Rom 1:14; Gal 3:1,3; 1 Tim 6:9; Tit 3:3) → 'ผู้ขาดสติปัญญา' (= 'lacking-mindfulness'; distinct from μωρός 'fool' in moral-folly sense and ἄφρων 'senseless')."
+        },
+        {
+          "greek": "ὀφειλέτης εἰμί",
+          "thai": "ข้าพเจ้าเป็นผู้ติดหนี้",
+          "rationale": "ὀφειλέτης 'debtor' — Pauline-metaphor for missionary-obligation. 'ผู้ติดหนี้' literal-but-natural Thai (preserves the financial-metaphor that Paul uses to express moral-obligation)."
+        }
+      ],
+      "notes": "Two parallel merisms (Greeks/barbarians, wise/foolish) — Paul affirms his obligation to ALL Gentile categories. Note: Paul does NOT mean Romans are barbarians — Rome was Greek-cultured; the merism is a comprehensive 'all-types-of-Gentiles.' Cultural-marker βάρβαρος preserved in Thai (rather than collapsing to 'Gentile') because the Greek itself uses the cultural-distinction marker."
+    }
+  },
+  {
+    "reference": "Romans 1:15",
+    "chapter": 1,
+    "verse": 15,
+    "greek": "οὕτως τὸ κατ’ἐμὲ πρόθυμον καὶ ὑμῖν τοῖς ἐν Ῥώμῃ εὐαγγελίσασθαι.",
+    "bsb_english": "That is why I am so eager to preach the gospel also to you who are in Rome.",
+    "translation": {
+      "thai": "ฉะนั้น ในส่วนของข้าพเจ้าจึงกระตือรือร้นที่จะประกาศข่าวประเสริฐแก่พวกท่านที่อยู่ในกรุงโรมด้วย",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "τὸ κατ’ ἐμὲ πρόθυμον",
+          "thai": "ในส่วนของข้าพเจ้าจึงกระตือรือร้น",
+          "rationale": "Greek articular-neuter-adjective phrase — 'the-with-respect-to-me eager (thing)' — substantive use of πρόθυμος. Thai 'ในส่วนของข้าพเจ้าจึงกระตือรือร้น' captures the personal-eagerness without forcing the substantive into a noun."
+        },
+        {
+          "greek": "εὐαγγελίσασθαι",
+          "thai": "ประกาศข่าวประเสริฐ",
+          "rationale": "εὐαγγελίζομαι middle-aorist-infinitive 'preach-the-good-news' — cognate of εὐαγγέλιον. Thai compound 'ประกาศข่าวประเสริฐ' (= 'proclaim the good news') preserves the cognate-relationship with ข่าวประเสริฐ in v.1, v.9, v.16."
+        }
+      ],
+      "notes": "Closes the introduction (vv.1-15) — sets up the thesis-statement of vv.16-17. Paul positions himself as eagerly-obligated-debtor to the Romans even though they are not yet his church-plant."
+    }
+  },
+  {
+    "reference": "Romans 1:16",
+    "chapter": 1,
+    "verse": 16,
+    "greek": "Οὐ γὰρ ἐπαισχύνομαι τὸ εὐαγγέλιον,δύναμις γὰρ θεοῦ ἐστιν εἰς σωτηρίαν παντὶ τῷ πιστεύοντι,Ἰουδαίῳ τε πρῶτον καὶ Ἕλληνι·",
+    "bsb_english": "I am not ashamed of the gospel, because it is the power of God for salvation to everyone who believes, first to the Jew, then to the Greek.",
+    "translation": {
+      "thai": "เพราะข้าพเจ้าไม่ละอายในข่าวประเสริฐ ด้วยข่าวประเสริฐนั้นเป็นฤทธิ์อำนาจของพระเจ้าสู่ความรอด แก่ทุกคนที่เชื่อ — แก่ชาวยิวก่อน และแก่ชาวกรีกด้วย",
+      "thai_literal": null,
+      "thai_summary": "ข้อ 16-17 เป็นใจกลางของจดหมายโรม — เปาโลประกาศหัวข้อหลักของพระธรรมโรมในประโยคเดียว ‘ข่าวประเสริฐเป็นฤทธิ์อำนาจของพระเจ้าสู่ความรอดแก่ทุกคนที่เชื่อ’ คำว่า ‘ก่อน’ (πρῶτον) ในข้อ 16 ไม่ได้หมายว่าชาวยิวมีฐานะเหนือกว่า แต่หมายถึงลำดับเชิงเวลา-ประวัติศาสตร์ — ข่าวประเสริฐมาถึงชาวยิวก่อน เพราะพระเจ้าทรงสัญญาผ่านบรรดาผู้เผยพระวจนะของอิสราเอล (ข้อ 2)",
+      "key_decisions": [
+        {
+          "greek": "οὐ γὰρ ἐπαισχύνομαι τὸ εὐαγγέλιον",
+          "thai": "ข้าพเจ้าไม่ละอายในข่าวประเสริฐ",
+          "rationale": "ἐπαισχύνομαι 'be-ashamed-of' (intensive ἐπί + αἰσχύνομαι). Pauline-litotes — 'not-ashamed' = 'proud-of-and-eager-to-proclaim.' Thai 'ไม่ละอายใน' preserves the litotes (matches BSB 'I am not ashamed')."
+        },
+        {
+          "greek": "δύναμις γὰρ θεοῦ ἐστιν εἰς σωτηρίαν",
+          "thai": "เป็นฤทธิ์อำนาจของพระเจ้าสู่ความรอด",
+          "rationale": "δύναμις θεοῦ → ฤทธิ์อำนาจของพระเจ้า (corpus lock 1 Cor 1:24). σωτηρία → ความรอด (corpus lock from Luke 19:9). εἰς + accusative = goal-direction → 'สู่.'"
+        },
+        {
+          "greek": "Ἰουδαίῳ τε πρῶτον καὶ Ἕλληνι",
+          "thai": "แก่ชาวยิวก่อน และแก่ชาวกรีกด้วย",
+          "rationale": "PAULINE-FORMULA (occurs again at 2:9, 2:10). Ἰουδαῖος → ชาวยิว. Ἕλλην in Pauline-binary-context = 'non-Jew / Gentile' (vs v.14's culturally-specific 'Greek-vs-barbarian'). Thai 'ชาวกรีก' preserves the Greek-word; theological-meaning is 'all-non-Jewish-peoples' but the Greek-marker matters for the Israel-and-the-nations narrative running through Romans."
+        }
+      ],
+      "notes": "PAULINE-THESIS-STATEMENT (vv.16-17). Romans-key-formula 'Jew first then Greek' (also 2:9, 2:10) — historical-priority of the Jewish-people in salvation-history without status-superiority (cf chs 9-11)."
+    }
+  },
+  {
+    "reference": "Romans 1:17",
+    "chapter": 1,
+    "verse": 17,
+    "greek": "δικαιοσύνη γὰρ θεοῦ ἐν αὐτῷ ἀποκαλύπτεται ἐκ πίστεως εἰς πίστιν,καθὼς γέγραπται·Ὁ δὲ δίκαιος ἐκ πίστεως ζήσεται.",
+    "bsb_english": "For the gospel reveals the righteousness of God that comes by faith from start to finish, just as it is written: “The righteous will live by faith.”",
+    "translation": {
+      "thai": "เพราะในข่าวประเสริฐนั้น ความชอบธรรมของพระเจ้าได้รับการเปิดเผย โดยความเชื่อตั้งแต่ต้นจนถึงที่สุด ดังที่เขียนไว้ว่า ‘ผู้ชอบธรรมจะมีชีวิตอยู่โดยความเชื่อ’",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "δικαιοσύνη θεοῦ",
+          "thai": "ความชอบธรรมของพระเจ้า",
+          "rationale": "MAJOR PAULINE TERM. δικαιοσύνη → ความชอบธรรม (corpus lock 2 Cor 3:9 etc.). Genitive ambiguous: (a) righteousness-from-God (gift to believer; Luther/Reformation reading), (b) righteousness-of-God's-character (God's own righteous-saving-action; Käsemann/NPP). Thai 'ความชอบธรรมของพระเจ้า' preserves the genitive-ambiguity. Theological-stance per RULES §0 evangelical-Protestant: BOTH senses present, traditionally 'imputed-righteousness' has been emphasized."
+        },
+        {
+          "greek": "ἐκ πίστεως εἰς πίστιν",
+          "thai": "โดยความเชื่อตั้งแต่ต้นจนถึงที่สุด",
+          "rationale": "FAMOUS PAULINE IDIOM 'from-faith to-faith.' Three-way ambiguous: (a) 'completely-by-faith' (faith-from-start-to-end; BSB-NIV-ESV mainstream), (b) 'from-one-believer's-faith-to-another's' (faith-as-shared-experience), (c) 'from-faith-leading-to-greater-faith' (faith-as-progressive). Following Path-A 'ตั้งแต่ต้นจนถึงที่สุด' (= 'from-beginning-to-end') per evangelical-Protestant mainstream + matches BSB."
+        },
+        {
+          "greek": "Ὁ δὲ δίκαιος ἐκ πίστεως ζήσεται",
+          "thai": "‘ผู้ชอบธรรมจะมีชีวิตอยู่โดยความเชื่อ’",
+          "rationale": "OT QUOTATION: Habakkuk 2:4 LXX (= ὁ δὲ δίκαιος ἐκ πίστεως μου ζήσεται in LXX-A; SBLGNT here matches LXX-B without μου, also matches Heb 10:38b's reading). Hebrew MT: צַדִּיק בֶּאֱמוּנָתוֹ יִחְיֶה ('the-righteous by-his-faithfulness shall-live'). Paul reads the LXX without μου — a critical interpretive move for Pauline-justification theology. Curly single quotes for OT-quote (RULES §5b)."
+        }
+      ],
+      "notes": "OT QUOTATION: Habakkuk 2:4 LXX. SBLGNT matches LXX-B (without μου); Hebrew MT צַדִּיק בֶּאֱמוּנָתוֹ. Paul's reading drops the genitive (μου or αὐτοῦ) — the righteous-one shall-live by-faith (universal), not by-his-(own)-faithfulness. Will be added to nt_ot_citations.json. The phrase ἐκ πίστεως εἰς πίστιν is a famous Pauline crux — three readings exist (faith-from-beginning-to-end / shared-faith / progressive-faith); evangelical-Protestant mainstream follows (a)."
+    }
+  },
+  {
+    "reference": "Romans 1:18",
+    "chapter": 1,
+    "verse": 18,
+    "greek": "Ἀποκαλύπτεται γὰρ ὀργὴ θεοῦ ἀπ’οὐρανοῦ ἐπὶ πᾶσαν ἀσέβειαν καὶ ἀδικίαν ἀνθρώπων τῶν τὴν ἀλήθειαν ἐν ἀδικίᾳ κατεχόντων,",
+    "bsb_english": "The wrath of God is being revealed from heaven against all the godlessness and wickedness of men who suppress the truth by their wickedness.",
+    "translation": {
+      "thai": "เพราะพระพิโรธของพระเจ้าได้รับการเปิดเผยจากสวรรค์ ต่อความอธรรมและความไม่ชอบธรรมทั้งสิ้นของมนุษย์ ผู้ที่กดขี่ความจริงไว้ด้วยความไม่ชอบธรรม",
+      "thai_literal": null,
+      "thai_summary": "ข้อ 18 เปิดส่วนที่อธิบายว่าทำไมข่าวประเสริฐจึงจำเป็น — เพราะพระพิโรธของพระเจ้ากำลังถูกเปิดเผย (ปัจจุบันกาลในภาษากรีก — ไม่ใช่เฉพาะอนาคตวันพิพากษา) ต่อความบาปทั้งสิ้นของมนุษย์ คำว่า ‘กดขี่ความจริง’ (κατέχω) หมายถึงการเหนี่ยวรั้งความจริงไว้ ไม่ให้ออกมาทำงาน — มนุษย์รู้ความจริงเกี่ยวกับพระเจ้า แต่กลับเก็บกดความจริงนั้นไว้เพราะใจของตน",
+      "key_decisions": [
+        {
+          "greek": "Ἀποκαλύπτεται γὰρ ὀργὴ θεοῦ ἀπ’ οὐρανοῦ",
+          "thai": "พระพิโรธของพระเจ้าได้รับการเปิดเผยจากสวรรค์",
+          "rationale": "ὀργὴ θεοῦ → พระพิโรธของพระเจ้า (corpus lock from John 3:36). Present-passive ἀποκαλύπτεται — present-tense divine-revelation (NOT only future-eschatological). Parallel to v.17's ἀποκαλύπτεται (righteousness-revealed) — same verb, same tense — both gospel-revelation and wrath-revelation are PRESENTLY ongoing."
+        },
+        {
+          "greek": "ἀσέβειαν καὶ ἀδικίαν",
+          "thai": "ความอธรรมและความไม่ชอบธรรม",
+          "rationale": "ἀσέβεια → ความอธรรม (= 'godlessness/impiety'; vertical dimension toward God). ἀδικία → ความไม่ชอบธรรม (= 'unrighteousness/injustice'; horizontal dimension toward neighbor). Pauline pair: ungodliness-AND-unrighteousness."
+        },
+        {
+          "greek": "τὴν ἀλήθειαν ἐν ἀδικίᾳ κατεχόντων",
+          "thai": "ผู้ที่กดขี่ความจริงไว้ด้วยความไม่ชอบธรรม",
+          "rationale": "κατέχω 'hold-down/restrain' (note dual-sense: 'hold-fast' or 'hold-back/suppress'; here clearly the suppress-sense). 'กดขี่' captures the active-suppression. ἀλήθεια → ความจริง (corpus lock). ἀδικίᾳ instrumental — 'by-means-of-unrighteousness' → 'ด้วยความไม่ชอบธรรม.'"
+        }
+      ],
+      "notes": "Parallels v.17 — both 'gospel reveals righteousness' AND 'wrath reveals against ungodliness' use the same present-tense ἀποκαλύπτεται. The wrath is presently-active, not merely future-eschatological. κατέχω has dual-sense 'hold-fast' or 'hold-back-down' — context (ἐν ἀδικίᾳ) makes the suppression-sense unambiguous."
+    }
+  },
+  {
+    "reference": "Romans 1:19",
+    "chapter": 1,
+    "verse": 19,
+    "greek": "διότι τὸ γνωστὸν τοῦ θεοῦ φανερόν ἐστιν ἐν αὐτοῖς,ὁ θεὸς γὰρ αὐτοῖς ἐφανέρωσεν.",
+    "bsb_english": "For what may be known about God is plain to them, because God has made it plain to them.",
+    "translation": {
+      "thai": "เพราะสิ่งที่รู้ได้เกี่ยวกับพระเจ้านั้นปรากฏชัดในหมู่พวกเขา ด้วยพระเจ้าทรงสำแดงให้พวกเขาเห็นแล้ว",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "τὸ γνωστὸν τοῦ θεοῦ",
+          "thai": "สิ่งที่รู้ได้เกี่ยวกับพระเจ้า",
+          "rationale": "γνωστός verbal-adjective 'knowable / what-can-be-known' (vs γνωστής 'knower'). 'สิ่งที่รู้ได้เกี่ยวกับพระเจ้า' = 'that-which-can-be-known about-God' — the natural-revelation theology Paul develops in vv.19-20."
+        },
+        {
+          "greek": "ὁ θεὸς γὰρ αὐτοῖς ἐφανέρωσεν",
+          "thai": "พระเจ้าทรงสำแดงให้พวกเขาเห็นแล้ว",
+          "rationale": "φανερόω → ทรงสำแดง (royal — divine-revealing-action). Aorist ἐφανέρωσεν — completed-action of God's natural-revelation (not ongoing; God has already revealed)."
+        }
+      ],
+      "notes": "Foundation for natural theology — Paul affirms general-revelation as sufficient grounds for human accountability."
+    }
+  },
+  {
+    "reference": "Romans 1:20",
+    "chapter": 1,
+    "verse": 20,
+    "greek": "τὰ γὰρ ἀόρατα αὐτοῦ ἀπὸ κτίσεως κόσμου τοῖς ποιήμασιν νοούμενα καθορᾶται,ἥ τε ἀΐδιος αὐτοῦ δύναμις καὶ θειότης,εἰς τὸ εἶναι αὐτοὺς ἀναπολογήτους,",
+    "bsb_english": "For since the creation of the world God’s invisible qualities, His eternal power and divine nature, have been clearly seen, being understood from His workmanship, so that men are without excuse.",
+    "translation": {
+      "thai": "เพราะตั้งแต่การทรงสร้างโลก สภาพอันมองไม่เห็นของพระองค์ — คือฤทธิ์อำนาจอันเป็นนิรันดร์และความเป็นพระเจ้าของพระองค์ — ก็ปรากฏชัดเป็นที่เข้าใจได้ผ่านสรรพสิ่งที่พระองค์ทรงสร้าง ดังนั้นมนุษย์จึงไม่มีข้อแก้ตัว",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "τὰ ἀόρατα αὐτοῦ",
+          "thai": "สภาพอันมองไม่เห็นของพระองค์",
+          "rationale": "ἀόρατος neuter-plural-substantive 'invisible-things' — God's invisible-qualities/attributes. 'สภาพอันมองไม่เห็น' = 'invisible-state/attributes' (preserves the abstract-collective sense)."
+        },
+        {
+          "greek": "καθορᾶται",
+          "thai": "ปรากฏชัด",
+          "rationale": "καθοράω NT-HAPAX (only here in NT) — compound κατά + ὁράω 'see-clearly/perceive-distinctly.' Present-passive 'are-clearly-seen.' 'ปรากฏชัด' captures the clearly-perceived passive sense (rather than 'มองเห็นชัดเจน' which would emphasize the act of seeing)."
+        },
+        {
+          "greek": "ἥ τε ἀΐδιος αὐτοῦ δύναμις καὶ θειότης",
+          "thai": "ฤทธิ์อำนาจอันเป็นนิรันดร์และความเป็นพระเจ้าของพระองค์",
+          "rationale": "ἀΐδιος 'eternal' (NT-freq=2; Jude 6 the other) → 'อันเป็นนิรันดร์.' δύναμις → ฤทธิ์อำนาจ (corpus lock). θειότης NT-HAPAX (only here in NT) — 'divinity / divine-nature' (distinct from θεότης 'Godhead' — the latter at Col 2:9). 'ความเป็นพระเจ้า' preserves the 'divine-ness/divinity' attribute-sense (rather than 'พระลักษณะของพระเจ้า' which is more like θεότης 'Godhead' at Col 2:9)."
+        },
+        {
+          "greek": "τοῖς ποιήμασιν",
+          "thai": "ผ่านสรรพสิ่งที่พระองค์ทรงสร้าง",
+          "rationale": "ποίημα 'thing-made / workmanship' (NT-freq=2; Eph 2:10 the other, where it's BELIEVERS as God's workmanship). Here referring to creation — 'สรรพสิ่งที่พระองค์ทรงสร้าง' (= 'all-things-that-He-has-created') captures the creation-as-evidence sense."
+        },
+        {
+          "greek": "εἰς τὸ εἶναι αὐτοὺς ἀναπολογήτους",
+          "thai": "ดังนั้นมนุษย์จึงไม่มีข้อแก้ตัว",
+          "rationale": "ἀναπολόγητος (NT-freq=2; both Romans — 1:20 + 2:1) → 'ไม่มีข้อแก้ตัว.' εἰς + articular-infinitive in result-sense (not purpose) — God did not create natural-revelation IN ORDER TO leave-them-without-excuse, but the result is that they ARE without-excuse. 'ดังนั้น...จึง' captures the result-sense."
+        }
+      ],
+      "notes": "TWO HAPAX in this verse: καθοράω + θειότης. Plus 1 NT-doublet (ἀναπολόγητος = NT freq=2, both Romans). General-revelation theology grounds Paul's universal-condemnation argument. εἰς + articular-infinitive ambiguous between purpose and result; following BSB-mainstream-evangelical reading as result-clause (God didn't intend natural-revelation to-leave-them-without-excuse; that's just its consequence)."
+    }
+  },
+  {
+    "reference": "Romans 1:21",
+    "chapter": 1,
+    "verse": 21,
+    "greek": "διότι γνόντες τὸν θεὸν οὐχ ὡς θεὸν ἐδόξασαν ἢ ηὐχαρίστησαν,ἀλλὰ ἐματαιώθησαν ἐν τοῖς διαλογισμοῖς αὐτῶν καὶ ἐσκοτίσθη ἡ ἀσύνετος αὐτῶν καρδία·",
+    "bsb_english": "For although they knew God, they neither glorified Him as God nor gave thanks to Him, but they became futile in their thinking and darkened in their foolish hearts.",
+    "translation": {
+      "thai": "เพราะแม้ว่าพวกเขารู้จักพระเจ้า พวกเขาก็ไม่ได้ถวายพระเกียรติแด่พระองค์อย่างที่ควรแก่พระเจ้า หรือขอบพระคุณ แต่กลับว่างเปล่าในความคิดของตน และจิตใจอันโง่เขลาของพวกเขาก็มืดมน",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "γνόντες τὸν θεὸν οὐχ ὡς θεὸν ἐδόξασαν",
+          "thai": "แม้ว่าพวกเขารู้จักพระเจ้า พวกเขาก็ไม่ได้ถวายพระเกียรติแด่พระองค์อย่างที่ควรแก่พระเจ้า",
+          "rationale": "γινώσκω aorist-participle 'having-known' — concessive (per BSB 'although'). δοξάζω with God-as-object → 'ถวายพระเกียรติแด่' (royal — humans-toward-God use humble register; cf. RULES §3 'ถวาย' for offering-up-to-deity). The double-θεόν 'as-God / fitting-of-God' preserved as 'อย่างที่ควรแก่พระเจ้า.'"
+        },
+        {
+          "greek": "ηὐχαρίστησαν",
+          "thai": "ขอบพระคุณ",
+          "rationale": "εὐχαριστέω with God-implicit-object → ขอบพระคุณ (corpus standard for humans-thanking-God; royal-register implicit in พระ-prefix)."
+        },
+        {
+          "greek": "ἐματαιώθησαν ἐν τοῖς διαλογισμοῖς αὐτῶν",
+          "thai": "ว่างเปล่าในความคิดของตน",
+          "rationale": "ματαιόομαι NT-HAPAX (only here in NT) — passive of ματαιόω 'become-futile/empty.' Cognate of μάταιος 'vain/futile.' 'ว่างเปล่า' = 'empty/vain' (preserves the futility sense — emptied-of-substance thinking). διαλογισμός → ความคิด (Pauline-thinking-process)."
+        },
+        {
+          "greek": "ἐσκοτίσθη ἡ ἀσύνετος αὐτῶν καρδία",
+          "thai": "จิตใจอันโง่เขลาของพวกเขาก็มืดมน",
+          "rationale": "σκοτίζομαι passive 'be-darkened' → มืดมน. ἀσύνετος → 'โง่เขลา' (= 'foolish/lacking-understanding'). καρδία in Pauline-anthropology = inner-being / mind / will → จิตใจ (NOT 'หัวใจ' = anatomical heart)."
+        }
+      ],
+      "notes": "ματαιόομαι is NT HAPAX. Pauline-anthropology: knowing-God-yet-not-honoring-Him is the root sin; the consequence is darkened-foolish heart-mind. Note semantic-cluster: γινώσκω (know) → δοξάζω (glorify) → εὐχαριστέω (thank) — all in negative — followed by ματαιόομαι (futile-thinking) + σκοτίζομαι (darkened). Knowing God obligates honoring; failing it cascades into intellectual+spiritual darkness."
+    }
+  },
+  {
+    "reference": "Romans 1:22",
+    "chapter": 1,
+    "verse": 22,
+    "greek": "φάσκοντες εἶναι σοφοὶ ἐμωράνθησαν,",
+    "bsb_english": "Although they claimed to be wise, they became fools,",
+    "translation": {
+      "thai": "ขณะที่อ้างว่าตนเป็นผู้มีปัญญา พวกเขากลับกลายเป็นคนโง่",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "φάσκοντες εἶναι σοφοὶ ἐμωράνθησαν",
+          "thai": "ขณะที่อ้างว่าตนเป็นผู้มีปัญญา พวกเขากลับกลายเป็นคนโง่",
+          "rationale": "φάσκω 'claim/assert.' σοφός → ผู้มีปัญญา (matches v.14 'wise-and-foolish'). μωραίνω passive 'be-made-foolish/become-foolish' → 'กลายเป็นคนโง่.' Sharp pauline-irony: human-philosophy claiming wisdom ends in folly (cf 1 Cor 1:18-25)."
+        }
+      ],
+      "notes": "Pauline-irony of folly-of-wisdom-without-God."
+    }
+  },
+  {
+    "reference": "Romans 1:23",
+    "chapter": 1,
+    "verse": 23,
+    "greek": "καὶ ἤλλαξαν τὴν δόξαν τοῦ ἀφθάρτου θεοῦ ἐν ὁμοιώματι εἰκόνος φθαρτοῦ ἀνθρώπου καὶ πετεινῶν καὶ τετραπόδων καὶ ἑρπετῶν.",
+    "bsb_english": "and exchanged the glory of the immortal God for images of mortal man and birds and animals and reptiles.",
+    "translation": {
+      "thai": "และแลกพระเกียรติของพระเจ้าผู้ทรงไม่เสื่อมสลายกับรูปจำลองคล้ายมนุษย์ผู้เสื่อมสลาย และนก สัตว์สี่เท้า และสัตว์เลื้อยคลาน",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ἤλλαξαν τὴν δόξαν τοῦ ἀφθάρτου θεοῦ ἐν ὁμοιώματι εἰκόνος φθαρτοῦ ἀνθρώπου",
+          "thai": "แลกพระเกียรติของพระเจ้าผู้ทรงไม่เสื่อมสลายกับรูปจำลองคล้ายมนุษย์ผู้เสื่อมสลาย",
+          "rationale": "OT ECHO of Psalm 106:20 LXX (Ps 105:20 LXX): 'καὶ ἠλλάξαντο τὴν δόξαν αὐτῶν ἐν ὁμοιώματι μόσχου ἔσθοντος χόρτον' (they-exchanged their-glory for likeness-of-calf eating-grass — referring to the golden-calf incident). Also echoes Jer 2:11 LXX. Paul universalizes the Israel-golden-calf-narrative to all humanity. δόξα referring to God → พระเกียรติ (royal). ἄφθαρτος/φθαρτός pair preserved as 'ไม่เสื่อมสลาย/เสื่อมสลาย.' ὁμοίωμα εἰκόνος (double-genitive) 'likeness-of-image' → 'รูปจำลองคล้าย' (preserves the doubled-similitude force — idol is image-of-image-of-creature, twice-removed from God)."
+        }
+      ],
+      "notes": "OT ECHO: Psalm 106:20 LXX (Ps 105:20 LXX) — golden-calf-incident-language universalized to all idolatry. Jeremiah 2:11 LXX provides secondary echo ('my-people-have-exchanged their-glory for-no-profit'). Both will be added to nt_ot_citations.json. The doubled-genitive ὁμοίωμα εἰκόνος is unusual; Paul emphasizes idol-as-twice-removed-from-reality (likeness-of-image-of-something-already-not-God)."
+    }
+  },
+  {
+    "reference": "Romans 1:24",
+    "chapter": 1,
+    "verse": 24,
+    "greek": "Διὸ παρέδωκεν αὐτοὺς ὁ θεὸς ἐν ταῖς ἐπιθυμίαις τῶν καρδιῶν αὐτῶν εἰς ἀκαθαρσίαν τοῦ ἀτιμάζεσθαι τὰ σώματα αὐτῶν ἐν αὐτοῖς,",
+    "bsb_english": "Therefore God gave them over in the desires of their hearts to impurity for the dishonoring of their bodies with one another.",
+    "translation": {
+      "thai": "เพราะฉะนั้น พระเจ้าจึงทรงปล่อยพวกเขาไปตามตัณหาในจิตใจของพวกเขา ไปสู่ความไม่บริสุทธิ์ ให้ร่างกายของพวกเขาถูกลบหลู่ในระหว่างกัน",
+      "thai_literal": null,
+      "thai_summary": "ข้อ 24, 26, 28 ใช้สำนวนซ้ำ ‘พระเจ้าทรงปล่อยพวกเขา’ (παρέδωκεν αὐτοὺς ὁ θεός) สามครั้ง — เป็นโครงสร้างวรรณกรรมที่เปาโลตั้งใจสร้างขึ้น คำว่า ‘ปล่อย’ ในที่นี้ไม่ใช่การที่พระเจ้าผลักดันให้คนทำบาป แต่เป็นการที่พระเจ้าหยุดยั้งพระคุณที่ทรงยับยั้งบาปไว้ — ปล่อยให้มนุษย์ตกเข้าสู่ผลของการเลือกของตนเอง",
+      "key_decisions": [
+        {
+          "greek": "Διὸ παρέδωκεν αὐτοὺς ὁ θεὸς",
+          "thai": "เพราะฉะนั้น พระเจ้าจึงทรงปล่อยพวกเขา",
+          "rationale": "FIRST of THREE 'παρέδωκεν αὐτοὺς ὁ θεός' formulae (v.24, v.26, v.28). παραδίδωμι in 'gave-them-over' divine-judicial sense → 'ทรงปล่อย.' Theological note: NOT actively-causing-sin; rather, withdrawing the restraining-grace and letting people experience the consequences of their own choices (per uW notes — passive divine action). Royal ทรง marks the divine-judicial-act."
+        },
+        {
+          "greek": "ἐν ταῖς ἐπιθυμίαις τῶν καρδιῶν αὐτῶν",
+          "thai": "ตามตัณหาในจิตใจของพวกเขา",
+          "rationale": "ἐπιθυμία in negative-context = sinful-craving → ตัณหา (Thai-Christian + Buddhist-shared vocab; corpus standard for Pauline-flesh-passions). καρδία → จิตใจ (corpus from v.21)."
+        },
+        {
+          "greek": "εἰς ἀκαθαρσίαν",
+          "thai": "ไปสู่ความไม่บริสุทธิ์",
+          "rationale": "ἀκαθαρσία → ความไม่บริสุทธิ์ (corpus lock 1 Th 4:7). Generic-impurity term that the next two verses concretize as sexual-immorality."
+        },
+        {
+          "greek": "τοῦ ἀτιμάζεσθαι τὰ σώματα αὐτῶν",
+          "thai": "ให้ร่างกายของพวกเขาถูกลบหลู่",
+          "rationale": "ἀτιμάζω passive-infinitive 'be-dishonored.' σῶμα → ร่างกาย (Pauline-body). 'ถูกลบหลู่' (= 'be-disgraced/dishonored'; ลบหลู่ = 'show-contempt-toward'). Articular-infinitive of result/purpose — leaving 'ให้' as 'so-that / resulting-in.'"
+        }
+      ],
+      "notes": "FIRST of three 'God-gave-them-over' formulae (v.24, v.26, v.28). Theological emphasis per uW: divine action is permissive/passive (withdrawing-restraint), not active-causation. Sin is its own punishment — God's judgment lets the consequence run its course."
+    }
+  },
+  {
+    "reference": "Romans 1:25",
+    "chapter": 1,
+    "verse": 25,
+    "greek": "οἵτινες μετήλλαξαν τὴν ἀλήθειαν τοῦ θεοῦ ἐν τῷ ψεύδει,καὶ ἐσεβάσθησαν καὶ ἐλάτρευσαν τῇ κτίσει παρὰ τὸν κτίσαντα,ὅς ἐστιν εὐλογητὸς εἰς τοὺς αἰῶνας·ἀμήν.",
+    "bsb_english": "They exchanged the truth of God for a lie, and worshiped and served the creature rather than the Creator, who is forever worthy of praise! Amen.",
+    "translation": {
+      "thai": "พวกเขาเป็นผู้ที่ได้แลกความจริงของพระเจ้ากับความเท็จ และนมัสการและปรนนิบัติสิ่งที่ทรงสร้างขึ้นแทนที่จะนมัสการและปรนนิบัติพระผู้สร้าง ผู้ทรงเป็นที่ถวายสาธุการตลอดกาลเป็นนิตย์ อาเมน",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "μετήλλαξαν τὴν ἀλήθειαν τοῦ θεοῦ ἐν τῷ ψεύδει",
+          "thai": "ได้แลกความจริงของพระเจ้ากับความเท็จ",
+          "rationale": "μεταλλάσσω 'exchange/swap' (intensified compound vs ἀλλάσσω in v.23). ψεῦδος → ความเท็จ. Repeats the 'exchange' theme of v.23 — humans habitually-trade truth for falsehood, glory for idol."
+        },
+        {
+          "greek": "ἐσεβάσθησαν καὶ ἐλάτρευσαν τῇ κτίσει παρὰ τὸν κτίσαντα",
+          "thai": "นมัสการและปรนนิบัติสิ่งที่ทรงสร้างขึ้นแทนที่จะนมัสการและปรนนิบัติพระผู้สร้าง",
+          "rationale": "σεβάζομαι NT-HAPAX (only here in NT; cognate of σέβομαι 'reverence') → นมัสการ. λατρεύω → ปรนนิบัติ (corpus lock). Pauline-doublet 'worshiped-and-served' parallel structure preserved: both verbs apply to both objects (creature/Creator). κτίσις → สิ่งที่ทรงสร้างขึ้น (= 'thing-that-was-created'). κτίσας → พระผู้สร้าง (royal — God-as-Creator). παρά + accusative in comparative-substitutionary sense → 'แทนที่จะ.'"
+        },
+        {
+          "greek": "ὅς ἐστιν εὐλογητὸς εἰς τοὺς αἰῶνας· ἀμήν",
+          "thai": "ผู้ทรงเป็นที่ถวายสาธุการตลอดกาลเป็นนิตย์ อาเมน",
+          "rationale": "Pauline-doxology insertion (cf 9:5; 11:36; 2 Cor 11:31). εὐλογητός verbal-adjective 'blessed/praised' → 'เป็นที่ถวายสาธุการ.' εἰς τοὺς αἰῶνας (= 'unto the ages') Hebraic-superlative-time → 'ตลอดกาลเป็นนิตย์.' ἀμήν → อาเมน (corpus standard). Royal ทรง for divine subject."
+        }
+      ],
+      "notes": "σεβάζομαι is NT HAPAX (only here in NT). Pauline-doxology mid-argument — typical for Paul to break into spontaneous-praise when speaking of God's character (cf 9:5; 11:33-36). Repeats and expands v.23's exchange-theme."
+    }
+  },
+  {
+    "reference": "Romans 1:26",
+    "chapter": 1,
+    "verse": 26,
+    "greek": "Διὰ τοῦτο παρέδωκεν αὐτοὺς ὁ θεὸς εἰς πάθη ἀτιμίας·αἵ τε γὰρ θήλειαι αὐτῶν μετήλλαξαν τὴν φυσικὴν χρῆσιν εἰς τὴν παρὰ φύσιν,",
+    "bsb_english": "For this reason God gave them over to dishonorable passions. Even their women exchanged natural relations for unnatural ones.",
+    "translation": {
+      "thai": "เพราะเหตุนี้ พระเจ้าจึงทรงปล่อยพวกเขาไปสู่ราคะตัณหาอันน่าอัปยศ เพราะแม้แต่ผู้หญิงของพวกเขาก็แลกความสัมพันธ์ตามธรรมชาติกับสิ่งที่ขัดต่อธรรมชาติ",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "παρέδωκεν αὐτοὺς ὁ θεὸς εἰς πάθη ἀτιμίας",
+          "thai": "พระเจ้าจึงทรงปล่อยพวกเขาไปสู่ราคะตัณหาอันน่าอัปยศ",
+          "rationale": "SECOND παρέδωκεν formula (cf v.24, v.28). πάθη ἀτιμίας 'passions-of-dishonor' (genitive-of-quality) → 'ราคะตัณหาอันน่าอัปยศ' (preserves the dishonor-quality-of-passion structure)."
+        },
+        {
+          "greek": "αἵ τε γὰρ θήλειαι αὐτῶν μετήλλαξαν τὴν φυσικὴν χρῆσιν εἰς τὴν παρὰ φύσιν",
+          "thai": "แม้แต่ผู้หญิงของพวกเขาก็แลกความสัมพันธ์ตามธรรมชาติกับสิ่งที่ขัดต่อธรรมชาติ",
+          "rationale": "θήλεια 'female (of-the-species)' — biological-female-term (not γυνή 'woman as social-role'); Paul deliberately uses biology-language → 'ผู้หญิง' (female / woman). φυσική χρῆσις euphemism for sexual-relations → 'ความสัมพันธ์ตามธรรมชาติ.' παρὰ φύσιν → 'ขัดต่อธรรมชาติ.' Pauline-creation-order argument: same exchange-pattern as v.23 (creator-creature) recapitulated at the level of sexuality (created-male-female pattern violated)."
+        }
+      ],
+      "notes": "SECOND παρέδωκεν of three. Note: Paul uses biological-sex term θήλεια (not social-role γυνή), preparing the same biological-term ἄρσην in v.27 — emphasizing biological-male/female-as-given vs cultural-gender. Famous-passage in homosexuality-debate; translation preserves the Greek's structure rather than softening or sharpening either way."
+    }
+  },
+  {
+    "reference": "Romans 1:27",
+    "chapter": 1,
+    "verse": 27,
+    "greek": "ὁμοίως τε καὶ οἱ ἄρσενες ἀφέντες τὴν φυσικὴν χρῆσιν τῆς θηλείας ἐξεκαύθησαν ἐν τῇ ὀρέξει αὐτῶν εἰς ἀλλήλους,ἄρσενες ἐν ἄρσεσιν τὴν ἀσχημοσύνην κατεργαζόμενοι καὶ τὴν ἀντιμισθίαν ἣν ἔδει τῆς πλάνης αὐτῶν ἐν ἑαυτοῖς ἀπολαμβάνοντες.",
+    "bsb_english": "Likewise, the men abandoned natural relations with women and burned with lust for one another. Men committed indecent acts with other men and received in themselves the due penalty for their error.",
+    "translation": {
+      "thai": "เช่นเดียวกัน พวกผู้ชายก็ละทิ้งความสัมพันธ์ตามธรรมชาติกับผู้หญิง ลุกเป็นไฟด้วยตัณหาที่มีต่อกัน — ผู้ชายกับผู้ชายกระทำสิ่งน่าอัปยศ และได้รับโทษอันสมควรแก่ความหลงผิดของตนในตัวพวกเขาเอง",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "οἱ ἄρσενες ἀφέντες τὴν φυσικὴν χρῆσιν τῆς θηλείας",
+          "thai": "พวกผู้ชายก็ละทิ้งความสัมพันธ์ตามธรรมชาติกับผู้หญิง",
+          "rationale": "ἄρσην biological-male (not ἀνήρ 'man-as-social-role'); paired with v.26's θήλεια. Pauline-biology-of-creation language. ἀφίημι aorist-participle 'having-abandoned' → 'ละทิ้ง.' φυσική χρῆσις matches v.26 → 'ความสัมพันธ์ตามธรรมชาติ.'"
+        },
+        {
+          "greek": "ἐξεκαύθησαν ἐν τῇ ὀρέξει αὐτῶν",
+          "thai": "ลุกเป็นไฟด้วยตัณหา",
+          "rationale": "ἐκκαίομαι NT-HAPAX (only here in NT) — passive of ἐκκαίω 'inflame.' Aorist passive 'were-inflamed.' 'ลุกเป็นไฟ' (= 'flare-up-as-fire') captures the burning-passion metaphor. ὄρεξις NT-HAPAX (only here in NT) — 'craving / lust' (cognate of ὀρέγομαι 'reach-out-after,' as in 1 Tim 3:1; here in negative sense) → ตัณหา."
+        },
+        {
+          "greek": "ἄρσενες ἐν ἄρσεσιν τὴν ἀσχημοσύνην κατεργαζόμενοι",
+          "thai": "ผู้ชายกับผู้ชายกระทำสิ่งน่าอัปยศ",
+          "rationale": "ἀσχημοσύνη 'shameless/indecent-act' (NT-freq=2; Rev 16:15 the other) → 'สิ่งน่าอัปยศ.' κατεργάζομαι 'work-out / accomplish' → 'กระทำ.'"
+        },
+        {
+          "greek": "τὴν ἀντιμισθίαν ἣν ἔδει τῆς πλάνης αὐτῶν ἐν ἑαυτοῖς ἀπολαμβάνοντες",
+          "thai": "ได้รับโทษอันสมควรแก่ความหลงผิดของตนในตัวพวกเขาเอง",
+          "rationale": "ἀντιμισθία 'recompense / due-payment' (NT-freq=2; 2 Cor 6:13 the other, in positive-sense) → 'โทษอันสมควร' (= 'fitting-penalty'; the penalty is intrinsic-consequence not external-punishment). δεῖ imperfect 'was-fitting/necessary.' πλάνη → ความหลงผิด. ἀπολαμβάνω 'receive-back/in-return' → 'ได้รับ.' ἐν ἑαυτοῖς 'in-themselves' → 'ในตัวพวกเขาเอง' (= the consequence is internal/intrinsic, not external-divine-strike)."
+        }
+      ],
+      "notes": "TWO HAPAX in this verse: ἐκκαίομαι + ὄρεξις. Plus 1 NT-doublet (ἀσχημοσύνη = NT freq=2; ἀντιμισθία = NT freq=2). Paul's argument: the very act IS the consequence ('in themselves' = within their own bodies/persons). Em-dash in Thai marks the transition from 'burning-with-lust' to the 'males-with-males' specifying clause."
+    }
+  },
+  {
+    "reference": "Romans 1:28",
+    "chapter": 1,
+    "verse": 28,
+    "greek": "Καὶ καθὼς οὐκ ἐδοκίμασαν τὸν θεὸν ἔχειν ἐν ἐπιγνώσει,παρέδωκεν αὐτοὺς ὁ θεὸς εἰς ἀδόκιμον νοῦν,ποιεῖν τὰ μὴ καθήκοντα,",
+    "bsb_english": "Furthermore, since they did not see fit to acknowledge God, He gave them up to a depraved mind, to do what ought not to be done.",
+    "translation": {
+      "thai": "และเนื่องจากพวกเขาไม่เห็นว่าควรมีพระเจ้าอยู่ในความรู้ของตน พระเจ้าจึงทรงปล่อยพวกเขาไปสู่จิตใจที่เสื่อมทราม กระทำสิ่งที่ไม่สมควร",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "οὐκ ἐδοκίμασαν τὸν θεὸν ἔχειν ἐν ἐπιγνώσει",
+          "thai": "ไม่เห็นว่าควรมีพระเจ้าอยู่ในความรู้ของตน",
+          "rationale": "δοκιμάζω 'test/approve/see-fit' → 'เห็นว่าควร.' ἐπίγνωσις 'full-knowledge' (intensified compound vs γνῶσις) → 'ความรู้.' Paul plays with δοκιμάζω/ἀδόκιμος cognates: they-did-not-test/approve God → God-gave-them-to-an-untested/disapproved mind."
+        },
+        {
+          "greek": "παρέδωκεν αὐτοὺς ὁ θεὸς εἰς ἀδόκιμον νοῦν",
+          "thai": "พระเจ้าจึงทรงปล่อยพวกเขาไปสู่จิตใจที่เสื่อมทราม",
+          "rationale": "THIRD παρέδωκεν formula. ἀδόκιμος 'disapproved/failing-the-test' → 'ที่เสื่อมทราม' (= 'corrupted/depraved'; captures the moral-failure rather than mere academic-disapproval). Wordplay with v.28a's ἐδοκίμασαν preserved through cognate-pair in Greek but flattened in Thai (no clean cognate-pair available)."
+        },
+        {
+          "greek": "ποιεῖν τὰ μὴ καθήκοντα",
+          "thai": "กระทำสิ่งที่ไม่สมควร",
+          "rationale": "καθῆκον 'fitting/proper-thing' (Stoic-philosophical-vocabulary; only here in Paul) → 'สิ่งที่สมควร.' μή + present-participle = generalizing-negation 'things-not-fitting.' Sets up the vice-list of vv.29-31."
+        }
+      ],
+      "notes": "THIRD and final παρέδωκεν of the chapter. Pauline-wordplay δοκιμάζω/ἀδόκιμος (test-and-approve / not-pass-the-test) — they didn't δοκιμάζω God; God gave them an ἀδόκιμος mind. Sets up the vice-list of vv.29-31 with ποιεῖν τὰ μὴ καθήκοντα."
+    }
+  },
+  {
+    "reference": "Romans 1:29",
+    "chapter": 1,
+    "verse": 29,
+    "greek": "πεπληρωμένους πάσῃ ἀδικίᾳ πονηρίᾳ πλεονεξίᾳ κακίᾳ,μεστοὺς φθόνου φόνου ἔριδος δόλου κακοηθείας,ψιθυριστάς,",
+    "bsb_english": "They have become filled with every kind of wickedness, evil, greed, and depravity. They are full of envy, murder, strife, deceit, and malice. They are gossips,",
+    "translation": {
+      "thai": "เต็มไปด้วยความไม่ชอบธรรมทั้งสิ้น ความเลวทราม ความโลภ ความใจอำมหิต เปี่ยมล้นด้วยความริษยา การฆ่า การวิวาท การล่อลวง ความคิดมุ่งร้าย เป็นพวกซุบซิบนินทา",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "πεπληρωμένους πάσῃ ἀδικίᾳ πονηρίᾳ πλεονεξίᾳ κακίᾳ",
+          "thai": "เต็มไปด้วยความไม่ชอบธรรมทั้งสิ้น ความเลวทราม ความโลภ ความใจอำมหิต",
+          "rationale": "πληρόω perfect-passive participle 'having-been-filled' → 'เต็มไปด้วย.' Vice-quartet: ἀδικία (unrighteousness) → ความไม่ชอบธรรม. πονηρία (wickedness) → ความเลวทราม. πλεονεξία (greed) → ความโลภ. κακία (malice/depravity) → ความใจอำมหิต (= 'cruel-heartedness')."
+        },
+        {
+          "greek": "μεστοὺς φθόνου φόνου ἔριδος δόλου κακοηθείας",
+          "thai": "เปี่ยมล้นด้วยความริษยา การฆ่า การวิวาท การล่อลวง ความคิดมุ่งร้าย",
+          "rationale": "μεστός 'full' parallel to πεπληρωμένους → 'เปี่ยมล้นด้วย' (synonymous-rhetorical-doubling preserved). Vice-quintet: φθόνος → ความริษยา. φόνος → การฆ่า. ἔρις → การวิวาท. δόλος → การล่อลวง (corpus from 1 Th 2:3). κακοήθεια NT-HAPAX (only here) → 'ความคิดมุ่งร้าย' (= 'evil-intent / malevolent-disposition'; preserves the 'inner-character' nuance vs outer-acts)."
+        },
+        {
+          "greek": "ψιθυριστάς",
+          "thai": "เป็นพวกซุบซิบนินทา",
+          "rationale": "ψιθυριστής NT-HAPAX (only here) — 'whisperer / secret-slanderer' (onomatopoetic ψιθ-ψιθ for whispering-sound). Distinct from κατάλαλος (open-slanderer) in v.30. 'พวกซุบซิบนินทา' (= 'whisper-gossip-people') captures the secretive-gossip nuance vs public-slander."
+        }
+      ],
+      "notes": "TWO HAPAX in this verse: κακοήθεια + ψιθυριστής. Vice-list begins. Note synonymous-rhetorical-doubling: πεπληρωμένους + μεστούς both = 'full-of'; Greek piles up four-then-five vices to overwhelm the reader."
+    }
+  },
+  {
+    "reference": "Romans 1:30",
+    "chapter": 1,
+    "verse": 30,
+    "greek": "καταλάλους,θεοστυγεῖς,ὑβριστάς,ὑπερηφάνους,ἀλαζόνας,ἐφευρετὰς κακῶν,γονεῦσιν ἀπειθεῖς,",
+    "bsb_english": "slanderers, God-haters, insolent, arrogant, and boastful. They invent new forms of evil; they disobey their parents.",
+    "translation": {
+      "thai": "เป็นผู้ใส่ร้าย ผู้เกลียดชังพระเจ้า ผู้หยิ่งหยาม ผู้ทรนง ผู้โอ้อวด ผู้คิดประดิษฐ์สิ่งชั่ว ผู้ไม่เชื่อฟังบิดามารดา",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "καταλάλους",
+          "thai": "ผู้ใส่ร้าย",
+          "rationale": "κατάλαλος NT-HAPAX (only here) — 'speaker-against / open-slanderer.' Cognate κατά (against) + λαλέω (speak). 'ผู้ใส่ร้าย' (= 'one-who-defames'; public/open vs ψιθυριστής-secret in v.29)."
+        },
+        {
+          "greek": "θεοστυγεῖς",
+          "thai": "ผู้เกลียดชังพระเจ้า",
+          "rationale": "θεοστυγής NT-HAPAX (only here) — 'God-hating' (θεός + στυγέω 'detest'). Ambiguous voice: passive 'hated-by-God' or active 'hating-God' — most translators take active. 'ผู้เกลียดชังพระเจ้า' (active reading)."
+        },
+        {
+          "greek": "ὑβριστάς",
+          "thai": "ผู้หยิ่งหยาม",
+          "rationale": "ὑβριστής 'insolent / violent-arrogant' (cognate of ὕβρις) → 'ผู้หยิ่งหยาม' (= 'insolent / arrogant-one')."
+        },
+        {
+          "greek": "ὑπερηφάνους",
+          "thai": "ผู้ทรนง",
+          "rationale": "ὑπερήφανος 'arrogant / haughty' → ผู้ทรนง."
+        },
+        {
+          "greek": "ἀλαζόνας",
+          "thai": "ผู้โอ้อวด",
+          "rationale": "ἀλαζών 'boaster / pretender' → ผู้โอ้อวด."
+        },
+        {
+          "greek": "ἐφευρετὰς κακῶν",
+          "thai": "ผู้คิดประดิษฐ์สิ่งชั่ว",
+          "rationale": "ἐφευρετής NT-HAPAX (only here) — 'inventor / discoverer' (cognate of ἐφευρίσκω). 'ผู้คิดประดิษฐ์สิ่งชั่ว' (= 'inventor-of-evil-things'; preserves the active-inventiveness)."
+        },
+        {
+          "greek": "γονεῦσιν ἀπειθεῖς",
+          "thai": "ผู้ไม่เชื่อฟังบิดามารดา",
+          "rationale": "γονεῖς 'parents' → 'บิดามารดา.' ἀπειθής 'disobedient.' Echoes Decalogue 5th-commandment violation."
+        }
+      ],
+      "notes": "THREE HAPAX in this verse: κατάλαλος + θεοστυγής + ἐφευρετής. Vice-list continues. Note doublet θεοστυγής/ὑβριστής (cosmic) + ὑπερήφανος/ἀλαζών (social-pride) + γονεῦσιν ἀπειθεῖς (Decalogue). κατάλαλος/ψιθυριστής (v.29) preserves open-vs-secret slander distinction."
+    }
+  },
+  {
+    "reference": "Romans 1:31",
+    "chapter": 1,
+    "verse": 31,
+    "greek": "ἀσυνέτους,ἀσυνθέτους,ἀστόργους,ἀνελεήμονας·",
+    "bsb_english": "They are senseless, faithless, heartless, merciless.",
+    "translation": {
+      "thai": "ผู้ไร้ความเข้าใจ ผู้ผิดสัญญา ผู้ขาดความรักตามธรรมชาติ ผู้ไร้ความเมตตา",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ἀσυνέτους",
+          "thai": "ผู้ไร้ความเข้าใจ",
+          "rationale": "ἀσύνετος 'without-understanding' — same root as ἀσύνετος-καρδία in v.21 → 'ผู้ไร้ความเข้าใจ.' Cognate-rhetoric: vice-list closes with same word that opened the cascade in v.21."
+        },
+        {
+          "greek": "ἀσυνθέτους",
+          "thai": "ผู้ผิดสัญญา",
+          "rationale": "ἀσύνθετος NT-HAPAX (only here) — 'covenant-breaker / faithless / not-keeping-agreements' (negation of συνθήκη 'covenant'). 'ผู้ผิดสัญญา' (= 'agreement-breaker')."
+        },
+        {
+          "greek": "ἀστόργους",
+          "thai": "ผู้ขาดความรักตามธรรมชาติ",
+          "rationale": "ἄστοργος 'without-natural-affection' (NT-freq=2; 2 Tim 3:3 the other) — negation of στοργή (one of the four Greek loves; family-natural-affection). 'ผู้ขาดความรักตามธรรมชาติ' (= 'lacking-natural-love'; preserves the distinct στοργή sense vs ἀγάπη/φιλία)."
+        },
+        {
+          "greek": "ἀνελεήμονας",
+          "thai": "ผู้ไร้ความเมตตา",
+          "rationale": "ἀνελεήμων NT-HAPAX (only here) — 'merciless / pitiless.' 'ผู้ไร้ความเมตตา.'"
+        }
+      ],
+      "notes": "TWO HAPAX in this verse: ἀσύνθετος + ἀνελεήμων. Closes the vice-cascade with four α-privative compounds (alpha-privative = negation prefix), creating sound-rhetoric-effect of cumulative-deprivation: ἀ-σύνετος, ἀ-σύνθετος, ἀ-στόργος, ἀν-ελεήμων."
+    }
+  },
+  {
+    "reference": "Romans 1:32",
+    "chapter": 1,
+    "verse": 32,
+    "greek": "οἵτινες τὸ δικαίωμα τοῦ θεοῦ ἐπιγνόντες,ὅτι οἱ τὰ τοιαῦτα πράσσοντες ἄξιοι θανάτου εἰσίν,οὐ μόνον αὐτὰ ποιοῦσιν ἀλλὰ καὶ συνευδοκοῦσιν τοῖς πράσσουσιν.",
+    "bsb_english": "Although they know God’s righteous decree that those who do such things are worthy of death, they not only continue to do these things, but also approve of those who practice them.",
+    "translation": {
+      "thai": "พวกเขาแม้รู้พระบัญญัติอันชอบธรรมของพระเจ้า ที่ว่าผู้กระทำสิ่งเช่นนั้นสมควรแก่ความตาย พวกเขาก็ไม่เพียงทำสิ่งเหล่านั้น แต่ยังเห็นพ้องกับผู้อื่นที่กระทำด้วย",
+      "thai_literal": null,
+      "thai_summary": "ข้อ 32 ปิดท้ายข้อโต้แย้งของบทที่ 1 — มนุษย์ที่อยู่ในสภาพนี้ไม่เพียงแต่ทำบาป แต่ยัง ‘เห็นพ้อง’ (συνευδοκοῦσιν) กับผู้อื่นที่ทำบาปด้วย คำว่า ‘เห็นพ้อง’ ในที่นี้คือคำเดียวกับที่ใช้บรรยายเซาโล (= เปาโลก่อนกลับใจ) ที่กิจการ 8:1 ‘เห็นพ้องในการประหารชีวิตของสเทเฟน’ — เปาโลรู้จักประสบการณ์นี้จากภายใน จึงเขียนได้อย่างทรงพลัง",
+      "key_decisions": [
+        {
+          "greek": "τὸ δικαίωμα τοῦ θεοῦ",
+          "thai": "พระบัญญัติอันชอบธรรมของพระเจ้า",
+          "rationale": "δικαίωμα 'righteous-decree / ordinance' (distinct from δικαιοσύνη 'righteousness'; here the codified-decree). 'พระบัญญัติอันชอบธรรม' (= 'royal-righteous-commandment'; royal พระ marks divine source). Used again at 2:26; 5:16,18; 8:4 in Romans."
+        },
+        {
+          "greek": "οἱ τὰ τοιαῦτα πράσσοντες ἄξιοι θανάτου εἰσίν",
+          "thai": "ผู้กระทำสิ่งเช่นนั้นสมควรแก่ความตาย",
+          "rationale": "ἄξιοι θανάτου 'worthy-of-death' — capital-judgment language. Refers per uW to spiritual-eternal-death (not merely physical), grounded in Pauline context (cf 6:23). Thai 'สมควรแก่ความตาย' preserves the deserving-death sense without specifying eternal-vs-physical (Paul lets the broader argument elaborate)."
+        },
+        {
+          "greek": "συνευδοκοῦσιν τοῖς πράσσουσιν",
+          "thai": "เห็นพ้องกับผู้อื่นที่กระทำ",
+          "rationale": "συνευδοκέω 'approve-along-with / consent-to / take-pleasure-in-along-with' — same compound used at Acts 8:1 + 22:20 of Saul-the-pre-Christian-Paul approving Stephen's death. Pauline-self-aware echo: he writes from inside-the-experience. 'เห็นพ้องกับผู้อื่นที่กระทำ' captures the active-approval-of-others'-actions sense."
+        }
+      ],
+      "notes": "Climax of vv.18-32. The συνευδοκέω wordplay: Paul-the-author uses the same word that Acts 8:1 uses of pre-Christian Saul approving Stephen's stoning. Paul-as-Apostle writes from within the universal-condemnation; he is not above it. δικαίωμα distinct from δικαιοσύνη — codified-decree vs righteousness. Sets up ch.2 transition: 'therefore-you-are-without-excuse-O-man-judging-others' (2:1)."
+    }
+  }
+]
