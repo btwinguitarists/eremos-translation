@@ -14,6 +14,7 @@ When writing a new doc, follow the existing structure: title with Greek + Thai g
 |---|---|---|
 | [ekklesia](ekklesia_2026-04.md) | ἐκκλησία → คริสตจักร (Christian community); ที่ประชุม (secular/OT assembly) | Matthew end-of-book |
 | [aphesis_forgiveness_of_sins](aphesis_forgiveness_of_sins_2026-04.md) | ἄφεσις (ἁμαρτιῶν) → การยกโทษ(บาป); ปลดปล่อย for "release" sense (Luke 4:18) | Luke end-of-book |
+| [dikaioo_dikaiosyne_family](dikaioo_dikaiosyne_family_2026-05.md) | δικαιόω (verb) + δικαίωσις/δικαίωμα-as-verdict → ทรงประกาศว่าชอบธรรม (forensic-declarative); preserves lexical distinction from λογίζομαι (นับ) | Galatians end-of-book + Romans 1-5 audit |
 | [basileia_kingdom_rendering](basileia_kingdom_rendering_2026-04.md) | βασιλεία τοῦ θεοῦ → อาณาจักรของพระเจ้า; βασιλεία τῶν οὐρανῶν → อาณาจักรสวรรค์ (Matthew only) | Luke end-of-book |
 | [ouranos_heaven_rendering](ouranos_heaven_rendering_2026-04.md) | οὐρανός → ฟ้าสวรรค์ (theological default); สวรรค์ (after a possessor); ท้องฟ้า (meteorological sky) | Luke end-of-book |
 | [metanoeo_vs_metamelomai](metanoeo_vs_metamelomai_2026-04.md) | μετανοέω → กลับใจ (salvific); μεταμέλομαι → เปลี่ยนใจ (non-salvific reconsidering) | Matthew end-of-book |
@@ -32,6 +33,7 @@ When writing a new doc, follow the existing structure: title with Greek + Thai g
 | [parabolic_god_figures_human_register](parabolic_god_figures_human_register_2026-04.md) | Parable characters representing God (fathers, kings, masters) get human register, never ราชาศัพท์ | Luke end-of-book |
 | [vocative_kyrie_didaskale_register](vocative_kyrie_didaskale_register_2026-04.md) | Vocative Κύριε / Διδάσκαλε rendering varies principled-by-speaker-class (disciples vs. crowds vs. adversaries) | Luke end-of-book |
 | [speech_verbs_adversaries_addressing_divine](speech_verbs_adversaries_addressing_divine_2026-04.md) | When narrator introduces adversary speech to Jesus: ทูล (preserves Jesus's divine status) regardless of speaker | Luke end-of-book |
+| [adversary_speech_register](adversary_speech_register_2026-05.md) | Demon/adversary speech-introduction verbs use NEUTRAL form (กล่าว, NOT ทูล) — RULES §3 enforcement; Luke 4 corrected from corpus outlier | Luke end-of-book |
 | [divine_object_praise_verbs](divine_object_praise_verbs_2026-04.md) | δοξάζω / εὐλογέω / αἰνέω / αἶνον δίδωμι (object = God) → สรรเสริญ (single Thai default) | Luke end-of-book |
 | [kyrios_narrator_voice_luke_acts](kyrios_narrator_voice_luke_acts_2026-04.md) | Luke-Acts signature: narrator calls Jesus ὁ κύριος → องค์พระผู้เป็นเจ้า (Mark/Matthew don't do this) | Luke end-of-book |
 

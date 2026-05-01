@@ -31,14 +31,14 @@
     "greek": "εἰ γὰρ Ἀβραὰμ ἐξ ἔργων ἐδικαιώθη,ἔχει καύχημα·ἀλλ’οὐ πρὸς θεόν,",
     "bsb_english": "If Abraham was indeed justified by works, he had something to boast about, but not before God.",
     "translation": {
-      "thai": "เพราะถ้าอับราฮัมทรงถูกนับว่าชอบธรรมโดยการประพฤติ ท่านก็มีเรื่องที่จะอวด แต่ไม่ใช่ต่อพระพักตร์พระเจ้า",
+      "thai": "เพราะถ้าอับราฮัมทรงถูกประกาศว่าชอบธรรมโดยการประพฤติ ท่านก็มีเรื่องที่จะอวด แต่ไม่ใช่ต่อพระพักตร์พระเจ้า",
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
         {
           "greek": "ἐξ ἔργων ἐδικαιώθη",
-          "thai": "ทρงถูกนับว่αชอบธρρมโดยการประพฤติ",
-          "rationale": "ἔργα → การประพฤติ (corpus from 3:20 'ผลแห่งการประพฤติตาม.'). ἐδικαιώθη aorist-passive 'was-justified' — divine-passive, royal ทρง implicit. Hypothetical: if-Abraham-was-justified-by-works (which he was NOT, per v.3)."
+          "thai": "ทρงถูกประกαศว่αชอบธρρมโดยการประพฤติ",
+          "rationale": "ἔργα → การประพฤติ (corpus from 3:20 'ผลแห่งการประพฤติตาม.'). ἐδικαιώθη aorist-passive 'was-justified' — divine-passive, royal ทρง implicit. Hypothetical: if-Abraham-was-justified-by-works (which he was NOT, per v.3). 'ถูกประกาศว่าชอบธรรม' (forensic-declarative) per docs/translator_decisions/dikaioo_dikaiosyne_family_2026-05.md — preserves lexical distinction from λογίζομαι 'นับ' (cf 4:3, 4:6, 4:11, 4:22-24)."
         },
         {
           "greek": "ἔχει καύχημα·ἀλλ’ οὐ πρὸς θεόν",
@@ -96,14 +96,14 @@
     "greek": "τῷ δὲ μὴ ἐργαζομένῳ,πιστεύοντι δὲ ἐπὶ τὸν δικαιοῦντα τὸν ἀσεβῆ,λογίζεται ἡ πίστις αὐτοῦ εἰς δικαιοσύνην,",
     "bsb_english": "However, to the one who does not work, but believes in Him who justifies the ungodly, his faith is credited as righteousness.",
     "translation": {
-      "thai": "แต่สำหรับคนที่ไม่ได้ทำงาน — แต่เชื่อในพระองค์ผู้ทรงนับให้คนอธรรมเป็นผู้ชอบธรรม — ความเชื่อของเขาก็ได้รับการทรงนับให้เป็นความชอบธรรม",
+      "thai": "แต่สำหรับคนที่ไม่ได้ทำงาน — แต่เชื่อในพระองค์ผู้ทรงประกาศให้คนอธรรมเป็นผู้ชอบธรรม — ความเชื่อของเขาก็ได้รับการทรงนับให้เป็นความชอบธรรม",
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
         {
           "greek": "πιστεύοντι ἐπὶ τὸν δικαιοῦντα τὸν ἀσεβῆ",
-          "thai": "เชื่อในพระองค์ผู้ทρงนับให้คนอธρρมเป็นผู้ชอบธρρม",
-          "rationale": "STRIKING PAULINE-FORMULATION: 'God-who-justifies the-UNGODLY (ἀσεβής).' Apparent-paradox — Pauline-grace-shock — God justifies the wicked, not the righteous. δικαιοῦντα present-active-participle 'the-One-justifying.' ἀσεβῆ 'ungodly / impious' (cognate of ἀσέβεια from 1:18) → 'คนอธρρม.' 'ทρงนับให้...เป็นผู้ชอบธρρม' captures the imputational-justification."
+          "thai": "เชื่อในพระองค์ผู้ทρงประกαศให้คนอธρρมเป็นผู้ชอบธρρม",
+          "rationale": "STRIKING PAULINE-FORMULATION: 'God-who-justifies the-UNGODLY (ἀσεβής).' Apparent-paradox — Pauline-grace-shock — God justifies the wicked, not the righteous. δικαιοῦντα present-active-participle 'the-One-justifying.' ἀσεβῆ 'ungodly / impious' (cognate of ἀσέβεια from 1:18) → 'คนอธρρม.' 'ทρงประกαศให้...เป็นผู้ชอบธρρม' (forensic-declarative) per docs/translator_decisions/dikaioo_dikaiosyne_family_2026-05.md. CRITICAL: the second clause 'ความเชื่อของเขาก็ได้รับการทρงนับให้เป็นความชอบธρρม' renders λογίζεται (NOT δικαιόω) and KEEPS 'นับ' — the two verbs are deliberately distinct (Galatians-affirmed corpus lock)."
         }
       ],
       "notes": "FAMOUS PAULINE-PARADOX: God justifies the UNGODLY. Cognate-link with 1:18's ἀσέβεια (the universal-condemnation-charge). The ungodly-justified is the gospel's-shock — not the worthy, but the unworthy. Reformation-distinctive vs all merit-based-soteriologies."
@@ -531,7 +531,7 @@
     "greek": "ὃς παρεδόθη διὰ τὰ παραπτώματα ἡμῶν καὶ ἠγέρθη διὰ τὴν δικαίωσιν ἡμῶν.",
     "bsb_english": "He was delivered over to death for our trespasses and was raised to life for our justification.",
     "translation": {
-      "thai": "พระองค์ถูกมอบไว้เพราะการล่วงละเมิดของเรา และทรงถูกให้เป็นขึ้นเพื่อทรงนับว่าเราชอบธรรม",
+      "thai": "พระองค์ถูกมอบไว้เพราะการล่วงละเมิดของเรา และทรงถูกให้เป็นขึ้นเพื่อทรงประกาศว่าเราชอบธรรม",
       "thai_literal": null,
       "thai_summary": "ข้อ 25 น่าจะเป็นข้อสรุปการประกาศหลักความเชื่อ (kerygma) ก่อนยุคเปาโล ที่เปาโลยกมาอ้าง — มีโครงสร้างประโยคคู่ขนาน: ‘ทรงถูกมอบ / ทรงถูกให้เป็นขึ้น’ + ‘เพราะการล่วงละเมิด / เพื่อความชอบธรรม’ ทั้งการสิ้นพระชนม์และการคืนพระชนม์ของพระคริสต์ทำงานร่วมกันเพื่อความชอบธรรมของเรา — การสิ้นพระชนม์รับโทษบาป การคืนพระชนม์เป็นการประทับตราการที่ทรงทำให้เราชอบธรรม การวางคู่ขนานเช่นนี้แสดงว่าการคืนพระชนม์ไม่ใช่เพียงสิ่งที่ตามมา — แต่เป็นส่วนสำคัญของงานการช่วยให้รอด",
       "key_decisions": [
@@ -542,8 +542,8 @@
         },
         {
           "greek": "ἠγέρθη διὰ τὴν δικαίωσιν ἡμῶν",
-          "thai": "ทρงถูกให้เป็นขึ้นเพื่อทρงนับว่αเราชอบธρρม",
-          "rationale": "ἐγείρω aorist-passive 'was-raised' — divine-passive (Father-raised-Son). δικαίωσις 'justification / declaration-of-righteousness' (NT freq=2; both Romans — 4:25 + 5:18) → 'ทρงนับว่αเราชอบธρρม' (preserves the imputational-action; not 'การชำระให้เป็นผู้ชอบธρρม' which would be transformative-justification). διά + accusative = 'for-the-sake-of / on-account-of' (the resurrection EFFECTS or VINDICATES our-justification)."
+          "thai": "ทρงถูกให้เป็นขึ้นเพื่อทρงประกαศว่αเราชอบธρρม",
+          "rationale": "ἐγείρω aorist-passive 'was-raised' — divine-passive (Father-raised-Son). δικαίωσις 'justification / declaration-of-righteousness' (NT freq=2; both Romans — 4:25 + 5:18) → 'ทρงประกαศว่αเราชอบธρρม' (forensic-declarative; not 'การชำระให้เป็นผู้ชอบธρρม' which would be transformative-justification). The δικαίωσις-noun aligns with the verb δικαιόω-rendering per docs/translator_decisions/dikaioo_dikaiosyne_family_2026-05.md. διά + accusative = 'for-the-sake-of / on-account-of' (the resurrection EFFECTS or VINDICATES our-justification)."
         }
       ],
       "notes": "Likely-pre-Pauline-creedal-formula. Parallel-structure: handed-over/raised // trespasses/justification. Theological-debate: does διὰ τὴν δικαίωσιν ἡμῶν mean (a) 'so-that-our-justification-might-occur' (purpose) or (b) 'because-our-justification-occurred' (cause/result)? Most evangelical-Protestant readings: the resurrection VINDICATES Christ's-justifying-work (cf 1:4 'declared Son-of-God-by-resurrection'). Closes ROM 4 with eschatological-hope."
