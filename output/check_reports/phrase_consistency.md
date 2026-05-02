@@ -3,8 +3,8 @@
 ## ἄφεσις ἁμαρτιῶν
 **Doc:** `aphesis_forgiveness_of_sins_2026-04.md`  
 **Expected Thai contains:** `ยกโทษ`  
-**Total matching verses:** 11  
-**OK:** 11 · **Excepted:** 0 · **Violations:** 0
+**Total matching verses:** 12  
+**OK:** 12 · **Excepted:** 0 · **Violations:** 0
 
 ### Documented exceptions (not violations)
 - **Luke 4:18** — Isa 61:1 citation; ἄφεσις = Jubilee-release of captives, not forgiveness-of-sins; correctly rendered ปลดปล่อย
@@ -58,8 +58,8 @@
 ## ἐκκλησία (Christian community sense)
 **Doc:** `ekklesia_2026-04.md`  
 **Expected Thai contains:** `คริสตจักร`  
-**Total matching verses:** 66  
-**OK:** 62 · **Excepted:** 4 · **Violations:** 0
+**Total matching verses:** 68  
+**OK:** 64 · **Excepted:** 4 · **Violations:** 0
 
 ### Documented exceptions (not violations)
 - **Acts 7:38** — OT/LXX assembly-of-Israel; use ที่ประชุม per ekklesia doc exception

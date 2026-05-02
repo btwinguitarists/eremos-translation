@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-05-02 06:40:42 UTC_
-_Total chapters: 182 · Total verses: 6326_
+_Generated: 2026-05-02 09:33:57 UTC_
+_Total chapters: 183 · Total verses: 6355_
 
 ## How to verify a chapter
 
@@ -85,6 +85,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/acts_26.json` | 32 | `1ae63260de53ad80123865b8f48cea9993a82f109eea08596efa2bdc6973975f` | `cf6bd38` |
 | `output/translations/acts_27.json` | 44 | `be14faca2501aee7d1e3520f98c50dfed3f2e6b1060e10cc7ab2d949856244fd` | `cf6bd38` |
 | `output/translations/acts_28.json` | 30 | `74c25c708450ef38a5562ead7c2cf4519ee735b7e6d23ed2230a8e12dc00ce76` | `cf6bd38` |
+| `output/translations/colossians_01.json` | 29 | `a4030d20e8d10deea1f4a08ecd14322d193dfb1fd6b74a31cc47a5bced121205` | `—` |
 | `output/translations/galatians_01.json` | 24 | `035ddedcfa78dc62c0b92157bf4994621fc83013e47dddcd19e7c6dc72898a9b` | `7e99948` |
 | `output/translations/galatians_02.json` | 21 | `ef020b08541758508e9a1f2f037cacbe28d8a2ac6cb0f25e7dc1990b4b880083` | `cf6bd38` |
 | `output/translations/galatians_03.json` | 29 | `f801401758fdf4a581484ea509024725a3a4242acb42624cac27a998b6894fa4` | `fcff53c` |
@@ -184,7 +185,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/philippians_01.json` | 30 | `84de2a78e3aba6b29f065026acbb0931dec0ccea802466e449475014743e14ef` | `fc0b282` |
 | `output/translations/philippians_02.json` | 30 | `5851608ec7714eab2efa8e443a50c8d3917a1f1b08f443c2d8813333a6ea4869` | `65b5241` |
 | `output/translations/philippians_03.json` | 21 | `6654fa151c16c1c9e39b1be8033916378a13bff438d572657b8b06027964e1e1` | `4b0b01b` |
-| `output/translations/philippians_04.json` | 23 | `16898f8540c61953284e2248c9460c682f56980087ab83ec300a57a0a5761235` | `—` |
+| `output/translations/philippians_04.json` | 23 | `16898f8540c61953284e2248c9460c682f56980087ab83ec300a57a0a5761235` | `3442c59` |
 | `output/translations/romans_01.json` | 32 | `c87b2112628b417478cc0beebb101b81b21b70b76106579044da66b1f0181824` | `7b84f42` |
 | `output/translations/romans_02.json` | 29 | `4ec4dd1ef3bb937bafa98814d4cfdce17ae2893df78ed929fe1c34b417ab1c6b` | `cf6bd38` |
 | `output/translations/romans_03.json` | 31 | `e0a844077c27c89a291540299a57c2a2f287e6f9664dd3542048855c31239837` | `cf6bd38` |
