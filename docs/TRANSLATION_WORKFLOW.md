@@ -134,38 +134,59 @@ python3 scripts/build_eremos_bundle.py
 
 Combines all `output/translations/mark_XX.json` files into a single `~/EremosVercel2/server/data/eremos_translation.json` — the file Eremos imports at server boot.
 
-### 6. Ship — fully automated, end-to-end
+### 6. Ship — split: per-chapter source-only + per-book lock-and-deploy (refactored 2026-05-02)
 
-After translation + checks pass, the entire ship pipeline runs as one script:
+The ship pipeline is split into two stages so that bundle / Vercel / iOS / Android updates land at the **book boundary** rather than per-chapter. Rationale: with no active per-chapter reviewers (Ben + AI lead the work, human review is async), per-chapter native-app builds were producing ~16 PRs + ~16 iOS bumps per Romans-sized book and silently exhausting the TestFlight cap (iris-code 90382). The book-boundary ship consolidates this into 1 of each per book and makes "what users see in the app" atomic with the audited + tagged book content.
+
+#### 6a. `ship_chapter.sh` — source-only per-chapter
 
 ```bash
 bash scripts/ship_chapter.sh MRK 5
-# Or with skip flags:
-bash scripts/ship_chapter.sh MRK 5 --skip-testflight   # web only, ~30 sec
-bash scripts/ship_chapter.sh MRK 5 --skip-merge        # leave PR open for review
+bash scripts/ship_chapter.sh PHM 1 --skip-audit   # at end-of-book, defer audit
 ```
 
-What `ship_chapter.sh` does, in order, **without intermediate confirmation**:
+What it does, in order, without intermediate confirmation:
 
-1. **Pulls latest main** in `~/EremosVercel2/` (so we don't overwrite recently-merged chapters — the bundle conflict from PR #167 is impossible after this)
-2. **Rebuilds the Eremos bundle** from all translated chapters (book-agnostic walker)
-3. If bundle changed:
-   - Branches `feat/eremos-translation-<slug>-<chapter>`
-   - Commits + pushes
-   - Opens PR
-   - **Auto-merges** PR (no manual review wait)
-4. **Auto-bumps** `CURRENT_PROJECT_VERSION` (detects last value, +1)
-5. `npm run build && npx cap sync ios`
-6. `xcodebuild archive → exportArchive → xcrun altool --upload-app`
-7. Commits version bump to main
+1. **Gates** — runs `run_checks.py` (all 9 checks must pass) + verifies thai-bible-ai is on `main`
+2. **Regenerates** `HASHES.md` + `output/reader/<book>.md`
+3. **Commits source** to thai-bible-ai/main: translation JSON, back-translations, check reports, uW notes, glossary growth, OT-citation registry, regenerated reader/plain/feedback markdown
+4. **Asserts** the source commit reached origin/main (PR #60/#61 incident guard)
+5. **Detects book completion** via `detect_book_complete.py`. If this is the last chapter of the book:
+   - **Auto-launches** `run_end_of_book_audit.sh BOOK_CODE --print` — spawns a fresh Claude session via `claude --print` that runs §1 mechanical gate + §2 editorial review + §3 external AI packet, opening an audit PR for review.
+   - Halts /loop (exit 1) so Ben can do the external AI review and decide on revisions.
+   - Pass `--skip-audit` to defer the auto-audit (rare; manual `bash scripts/run_end_of_book_audit.sh BOOK_CODE` later).
 
-Total runtime: ~6-10 min including TestFlight upload. ~30 sec with `--skip-testflight`.
+What it does **NOT** do (deferred to `ship_book.sh`): bundle rebuild, EremosVercel2 PR, Vercel deploy, iOS bump, TestFlight upload, Android Play upload, `book-<slug>-v1` tag. The compatibility no-ops `--skip-testflight` and `--skip-merge` are accepted but print a one-line note (legacy /loop wrappers stay backward-compatible).
 
-If the bundle has no changes (e.g., re-running on an already-shipped chapter), the script exits cleanly with "nothing to ship."
+Total runtime: ~5-15 sec for non-end-of-book chapters; +5-15 min when the auto-audit fires.
 
-**This replaces the manual branch/commit/push/PR/merge/bump/build/archive/upload sequence that used to be 10+ steps.**
+#### 6b. `ship_book.sh` — book-boundary lock-and-deploy
 
-Vercel auto-deploys the preview. Test by tapping verses in Mark 2. Merge when happy.
+```bash
+bash scripts/ship_book.sh PHM
+bash scripts/ship_book.sh ROM --skip-testflight   # bundle/Vercel only
+bash scripts/ship_book.sh ROM --skip-tag          # ship without v1 tag (revisions pending)
+```
+
+Run this after:
+1. All chapters of the book have shipped to thai-bible-ai/main via `ship_chapter.sh`
+2. End-of-book audit PR has merged
+3. Any AI-review revisions have landed
+
+What it does:
+
+1. **Gates** — verifies all chapters of BOOK_CODE are translated, runs `audit_inclusion_variants --strict`, verifies thai-bible-ai is on main
+2. **Pulls latest main** in `~/EremosVercel2/`
+3. **Rebuilds bundle** (`build_eremos_bundle.py` — book-agnostic, picks up every translated chapter currently in the corpus)
+4. If bundle changed: branches `feat/book-ship-<slug>`, commits, pushes, opens PR, **auto-merges**
+5. **Bumps** `CURRENT_PROJECT_VERSION` (last value + 1)
+6. `npm run build && npx cap sync ios`
+7. `xcodebuild archive → exportArchive → xcrun altool --upload-app`
+8. **Tags** `book-<slug>-v1` in thai-bible-ai + pushes tag
+
+Total runtime: ~6-10 min including TestFlight upload. ~1 min with `--skip-testflight`.
+
+**Android** (Play Console upload) is a separate manual step — see `reference_eremos_ship_recipe.md` (auto-memory) for the `gradle bundleRelease` + `play_upload.py` sequence. The script lives in `~/.appstoreconnect/`, not in this repo.
 
 **Note:** The schema never changes for new chapters — only the bundle file grows. `ensureEremosTranslationImported()` auto-detects when the bundle has new verses and upserts them on (book, chapter, verse) conflict. The unique index (migration 0005) guarantees no duplicates.
 
