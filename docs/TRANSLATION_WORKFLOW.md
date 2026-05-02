@@ -152,7 +152,8 @@ What it does, in order, without intermediate confirmation:
 3. **Commits source** to thai-bible-ai/main: translation JSON, back-translations, check reports, uW notes, glossary growth, OT-citation registry, regenerated reader/plain/feedback markdown
 4. **Asserts** the source commit reached origin/main (PR #60/#61 incident guard)
 5. **Detects book completion** via `detect_book_complete.py`. If this is the last chapter of the book:
-   - **Auto-launches** `run_end_of_book_audit.sh BOOK_CODE --print` — spawns a fresh Claude session via `claude --print` that runs §1 mechanical gate + §2 editorial review + §3 external AI packet, opening an audit PR for review.
+   - **Auto-launches** `run_end_of_book_audit.sh BOOK_CODE --print` — spawns a fresh Claude session via `claude --print` that runs §1 mechanical gate + §2 editorial review + §3 external AI packet, opening an audit PR.
+   - **Auto-merges the audit PR** after the subagent finishes — so §2 audit doc + §3 external AI packet land on main automatically (Ben needs the packet on main to copy-paste into Grok/ChatGPT/Gemini for external review). Reasoning per Ben 2026-05-02: "the halting of the loop is after all of that is pushed to main after end of book audit. how else would i get the external ai packet?"
    - Halts /loop (exit 1) so Ben can do the external AI review and decide on revisions.
    - Pass `--skip-audit` to defer the auto-audit (rare; manual `bash scripts/run_end_of_book_audit.sh BOOK_CODE` later).
 

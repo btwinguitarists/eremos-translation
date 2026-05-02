@@ -132,6 +132,43 @@ case "$MODE" in
         # `claude --print` returns text; the agent will use Bash/Edit/Write to
         # produce the audit docs and open a PR. We print stdout for telemetry.
         claude --print < "$PROMPT_FILE"
+
+        # Auto-merge the audit PR so the §2 review + §3 external AI packet
+        # land on main automatically. The /loop halts AFTER this point so
+        # Ben can do the external AI review (paste the packet into Grok +
+        # 1 of ChatGPT/Gemini/Claude). Reasoning per Ben 2026-05-02: "the
+        # halting of the loop is after all of that is pushed to main after
+        # end of book audit. how else would i get the external ai packet?"
+        AUDIT_BRANCH="end-of-book-review-${SLUG}-audit"
+        echo
+        echo "[run_end_of_book_audit] Looking for audit PR on branch $AUDIT_BRANCH..."
+        AUDIT_PR=$(gh pr list --repo btwinguitarists/eremos-translation \
+            --head "$AUDIT_BRANCH" --state open \
+            --json number -q '.[0].number' 2>/dev/null)
+        if [ -n "$AUDIT_PR" ]; then
+            echo "[run_end_of_book_audit] Auto-merging audit PR #$AUDIT_PR..."
+            sleep 3
+            if gh pr merge "$AUDIT_PR" --squash --auto 2>&1 | tail -3; then
+                # Verify it actually merged
+                sleep 3
+                STATE=$(gh pr view "$AUDIT_PR" --json state -q '.state' 2>/dev/null)
+                if [ "$STATE" = "MERGED" ]; then
+                    echo "    ✓ Audit PR #$AUDIT_PR merged."
+                    # Sync local main so subsequent commands see the audit docs
+                    git -C "$THAI_BIBLE_AI" checkout main 2>/dev/null || true
+                    git -C "$THAI_BIBLE_AI" pull origin main 2>&1 | tail -1 || true
+                else
+                    echo "    ⚠ Audit PR #$AUDIT_PR is $STATE (not yet MERGED) — auto-merge queued."
+                fi
+            else
+                echo "    ✗ Auto-merge failed for audit PR #$AUDIT_PR."
+                echo "      Common causes: required-status-check pending, branch protection."
+                echo "      Manual: gh pr merge $AUDIT_PR --squash --admin"
+            fi
+        else
+            echo "    ⚠ No open audit PR found on branch $AUDIT_BRANCH."
+            echo "      Audit subagent may have failed to open the PR; check stdout above."
+        fi
         ;;
     interactive)
         echo "[run_end_of_book_audit] Launching Claude interactively with the audit prompt..."
