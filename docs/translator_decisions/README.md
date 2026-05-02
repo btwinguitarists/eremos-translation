@@ -23,6 +23,9 @@ When writing a new doc, follow the existing structure: title with Greek + Thai g
 | [ethnos](ethnos_2026-04.md) | ἔθνος three-way: ประชาชาติ (cosmic/Psalmic) / ชนชาติ (specific people-group, incl. Israel) / คนต่างชาติ (Gentiles, mission target) | Acts end-of-book |
 | [pagan_deities](pagan_deities_2026-04.md) | Pagan-deity register: เทพ / เทพี / เทพเจ้า — never พระเจ้า. Personal-name deities → transliteration (Zeus → ซีอุส); abstract personifications → descriptive (Δίκη → เทพีแห่งความยุติธรรม) | Acts end-of-book |
 | [roman_administrative_titles](roman_administrative_titles_2026-04.md) | χιλίαρχος → นายพัน; ἑκατοντάρχης → นายร้อย; ἡγεμών → ผู้ว่าราชการ; ἀνθύπατος → ผู้สำเร็จราชการ; πολιτάρχης → เจ้าหน้าที่ปกครองเมือง | Acts end-of-book |
+| [christ_hymn_kenosis](christ_hymn_kenosis_2026-05.md) | μορφή → สภาพ (essence); σχῆμα → รูป (outward form); ἐκένωσεν → ทรงสละพระองค์เอง (NOT "emptied divinity"); ἁρπαγμός → สิ่งที่ต้องยึดไว้ (res rapta). Lock for PHP 2; validate forward against Col 1, 1 Tim 3:16, Heb 1, Eph 1:20–23, 1 Pet 3:18–22, Rev 5:9–14 | Philippians end-of-book |
+| [pistis_christou](pistis_christou_2026-05.md) | πίστις Χριστοῦ → ความเชื่อในพระคริสต์ / ความเชื่อในพระเยซูคริสต์ (objective genitive default). Verse-level review preserved for Romans + future epistles, not a mechanical lock. GAL 2:16 + 3:22 already objective | Philippians end-of-book |
+| [phroneo_pauline](phroneo_pauline_2026-05.md) | φρονέω three-branch split: คิด / ความคิด (cognitive disposition); จิตใจ (Christ-shaped settled disposition, PHP 2:5); ห่วงใย (active care, PHP 4:10). Forward applicability: Rom 8:5–7, 12:3, 12:16, 14:6, 15:5; Col 3:2 | Philippians end-of-book |
 
 ## Register & honorifics (when ราชาศัพท์ applies, when it doesn't)
 
@@ -36,6 +39,7 @@ When writing a new doc, follow the existing structure: title with Greek + Thai g
 | [adversary_speech_register](adversary_speech_register_2026-05.md) | Demon/adversary speech-introduction verbs use NEUTRAL form (กล่าว, NOT ทูล) — RULES §3 enforcement; Luke 4 corrected from corpus outlier | Luke end-of-book |
 | [divine_object_praise_verbs](divine_object_praise_verbs_2026-04.md) | δοξάζω / εὐλογέω / αἰνέω / αἶνον δίδωμι (object = God) → สรรเสริญ (single Thai default) | Luke end-of-book |
 | [kyrios_narrator_voice_luke_acts](kyrios_narrator_voice_luke_acts_2026-04.md) | Luke-Acts signature: narrator calls Jesus ὁ κύριος → องค์พระผู้เป็นเจ้า (Mark/Matthew don't do this) | Luke end-of-book |
+| [parousia_christou](parousia_christou_2026-05.md) | παρουσία subject-driven register split: human subject → การมา / การกลับไป (plain); Christ eschatological subject → การเสด็จมา (royal); lawless one in 2 Thess 2:9 → plain (deliberate denial of royal honor). Thai grammatical requirement, not theological imposition | Philippians end-of-book |
 
 ## Narrative style & idiom (how Greek narrative-mechanical features render)
 
