@@ -60,11 +60,11 @@ The "law of Christ" in Pauline thought is the new-covenant cruciform-loving-patt
 
 ### Exception 1: ambiguous mixed-sense uses
 
-When a single νόμος occurrence covers Torah-as-text AND principle simultaneously (e.g., GAL 4:21b: νόμον οὐκ ἀκούετε — "do you not LISTEN to the law?" where "the law" = the Pentateuch as canonical-text being-heard), default to **ธρρμบัญญัติ** since the Pentateuch-as-canon sense is primary. The principle-sense is secondary in such uses.
+When a single νόμος occurrence covers Torah-as-text AND principle simultaneously (e.g., GAL 4:21b: νόμον οὐκ ἀκούετε — "do you not LISTEN to the law?" where "the law" = the Pentateuch as canonical-text being-heard), default to **ธรรมบัญญัติ** since the Pentateuch-as-canon sense is primary. The principle-sense is secondary in such uses.
 
 ### Exception 2: the 1 Cor 14:34 / 1 Cor 9:8–9 OT-citation pattern
 
-When νόμος introduces an explicit Pentateuch quotation (e.g., 1 Cor 9:8 ἢ καὶ ὁ νόμος ταῦτα οὐ λέγει citing Deut 25:4), default to **ธρρμบัญญัติ** since the canonical-text sense dominates.
+When νόμος introduces an explicit Pentateuch quotation (e.g., 1 Cor 9:8 ἢ καὶ ὁ νόμος ταῦτα οὐ λέγει citing Deut 25:4), default to **ธรรมบัญญัติ** since the canonical-text sense dominates.
 
 ---
 
@@ -77,7 +77,7 @@ When νόμος introduces an explicit Pentateuch quotation (e.g., 1 Cor 9:8 ἢ
 - **External AI consensus.** Both Gemini and ChatGPT independently argued for this split in the Romans external review.
 - **No glossary collision.** ธรรมบัญญัติ remains the ONLY rendering for Mosaic-Torah νόμος; กฎ does NOT collide with any other locked Greek lemma in the corpus (γνώμη, ἐντολή, etc. have their own renderings).
 
-### Argument for single-rendering ธρρμบัญญัติ (rejected — was GAL audit recommendation)
+### Argument for single-rendering ธรรมบัญญัติ (rejected — was GAL audit recommendation)
 
 - **Pauline punning preserved.** GAL 4:21 "under the law / do you not LISTEN to the law" preserves the Greek's deliberate semantic-stretching.
 - **Why rejected.** Romans' rhetorical density (74 occurrences across 38 verses, esp. the 5-νόμος cluster at 7:21–8:2) makes the punning-preservation cost too high. Thai readers cannot disambiguate "law of sin" from "law of God" if both render as ธรรมบัญญัติ. The GAL preservation worked for GAL because GAL has fewer adjacent-multi-sense uses; Romans does not afford the same.
@@ -94,25 +94,25 @@ All 74 νόμος occurrences in Romans already follow this two-rendering policy
 
 | Verse | Original | Revised |
 |---|---|---|
-| GAL 6:2 | ธρρμบัญญัติของพระคริสต์ | **กฎของพระคริสต์** ✓ (2026-05-02) |
+| GAL 6:2 | ธรรมบัญญัติของพระคริสต์ | **กฎของพระคริสต์** ✓ (2026-05-02) |
 
-Other GAL νόμος occurrences (~33 of 34) are Mosaic-Torah-sense and remain ธρρμบัญญัติ — no revision needed.
+Other GAL νόμος occurrences (~33 of 34) are Mosaic-Torah-sense and remain ธรรมบัญญัติ — no revision needed.
 
 ### 1 Corinthians
 
-- 1 Cor 9:8–9 (Deut citation) — ธρρμบัญญัติ (Pentateuch-as-canon sense)
-- 1 Cor 9:20 (ὑπὸ νόμον — "under the law") — ธρρμบัญญัติ (Mosaic Torah)
-- 1 Cor 9:21 (ἔννομος Χριστοῦ) — **กฎของพระคριสต์** (principle / governing-norm)
-- 1 Cor 14:34 (καθὼς καὶ ὁ νόμος λέγει) — ธρρμบัญญัติ (Pentateuch-as-canon)
-- 1 Cor 15:56 (νόμος as power-of-sin context) — ธρρμบัญญัติ (Mosaic Torah)
+- 1 Cor 9:8–9 (Deut citation) — ธรรมบัญญัติ (Pentateuch-as-canon sense)
+- 1 Cor 9:20 (ὑπὸ νόμον — "under the law") — ธรรมบัญญัติ (Mosaic Torah)
+- 1 Cor 9:21 (ἔννομος Χριστοῦ) — **กฎของพระครιสต์** (principle / governing-norm)
+- 1 Cor 14:34 (καθὼς καὶ ὁ νόμος λέγει) — ธรรมบัญญัติ (Pentateuch-as-canon)
+- 1 Cor 15:56 (νόμος as power-of-sin context) — ธรรมบัญญัติ (Mosaic Torah)
 
 ### Hebrews
 
-Hebrews 7:12, 7:16, 7:19, 7:28; 8:4, 8:10; 9:19, 9:22; 10:1, 10:8, 10:16, 10:28 contrast Mosaic-νόμος with new-covenant. All Mosaic-νόμος uses → ธρρμบัญญัติ. The "writing the law on hearts" (8:10, 10:16) is a **principle**-rendering candidate but the OT citation context (Jer 31:33 LXX) likely demands ธρρμบัญญัติ for OT-quotation faithfulness. Revisit at Hebrews end-of-book.
+Hebrews 7:12, 7:16, 7:19, 7:28; 8:4, 8:10; 9:19, 9:22; 10:1, 10:8, 10:16, 10:28 contrast Mosaic-νόμος with new-covenant. All Mosaic-νόμος uses → ธรรมบัญญัติ. The "writing the law on hearts" (8:10, 10:16) is a **principle**-rendering candidate but the OT citation context (Jer 31:33 LXX) likely demands ธรรมบัญญัติ for OT-quotation faithfulness. Revisit at Hebrews end-of-book.
 
 ### James 2:8–12
 
-The "royal law / law of liberty" cluster (νόμος βασιλικός / νόμος ἐλευθερίας) is the closest non-Pauline νόμος-of-X construction. Likely **กฎ** for the "law of liberty" (parallel to Pauline "law of Christ") + ธρρมบัญญัติ for the Decalogue-citation portions. Revisit at James end-of-book.
+The "royal law / law of liberty" cluster (νόμος βασιλικός / νόμος ἐλευθερίας) is the closest non-Pauline νόμος-of-X construction. Likely **กฎ** for the "law of liberty" (parallel to Pauline "law of Christ") + ธรรมบัญญัติ for the Decalogue-citation portions. Revisit at James end-of-book.
 
 ---
 

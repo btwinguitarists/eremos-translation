@@ -1,8 +1,8 @@
 # τέλος νόμου / παιδαγωγὸς εἰς Χριστόν — paired Pauline salvation-history terminus
 
 **Scope:** Two paired Pauline constructions that together form the project's salvation-history-of-the-Law reading:
-1. **Rom 10:4** τέλος νόμου Χριστὸς → **พระคริสต์ทรงเป็นจุดสิ้นสุดของธρρμบัญญัติ** (terminal-end reading)
-2. **Gal 3:24** ὁ νόμος παιδαγωγὸς ἡμῶν γέγονεν εἰς Χριστόν → **ธρρμบัญญัติจึงได้กลายมาเป็นผู้ดูแลควบคุมของเรา จนกว่าจะถึงพระคริสต์** (temporal "until Christ" reading)
+1. **Rom 10:4** τέλος νόμου Χριστὸς → **พระคริสต์ทรงเป็นจุดสิ้นสุดของธรรมบัญญัติ** (terminal-end reading)
+2. **Gal 3:24** ὁ νόμος παιδαγωγὸς ἡμῶν γέγονεν εἰς Χριστόν → **ธรรมบัญญัติจึงได้กลายมาเป็นผู้ดูแลควบคุมของเรา จนกว่าจะถึงพระคริสต์** (temporal "until Christ" reading)
 
 **Decided:** 2026-05-02 during the Romans end-of-book audit. External AI review (Gemini + ChatGPT, 2026-05-02) both independently affirmed FINE on each verse and recommended a corpus doc covering both together to prevent future editors from decoupling them.
 
@@ -13,7 +13,7 @@
 ### Rom 10:4 (terminal-end)
 
 > Greek: τέλος γὰρ νόμου Χριστὸς εἰς δικαιοσύνην παντὶ τῷ πιστεύοντι.
-> Thai: เพราะพระคริสต์ทรงเป็น**จุดสิ้นสุด**ของธρρมบัญญัติ สู่ความชอบธρρμแก่ทุกคนที่เชื่อ
+> Thai: เพราะพระคริสต์ทรงเป็น**จุดสิ้นสุด**ของธรรมบัญญัติ สู่ความชอบธรรมแก่ทุกคนที่เชื่อ
 
 τέλος carries two well-attested readings:
 - (a) **Termination-end** — "Christ is the END of the Law as a means of righteousness." Reformation-Lutheran-Reformed default. BSB / ESV / NIV / CSB. Eremos rendering: **จุดสิ้นสุด** ("end-point").
@@ -24,7 +24,7 @@ Eremos chose (a) per RULES §0 evangelical-Protestant default.
 ### Gal 3:24 (temporal "until Christ")
 
 > Greek: ὥστε ὁ νόμος παιδαγωγὸς ἡμῶν γέγονεν εἰς Χριστόν.
-> Thai: ดังนั้น ธρρมบัญญัติจึงได้กลายมาเป็นผู้ดูแลควบคุมของเรา **จนกว่าจะถึงพระคริสต์**.
+> Thai: ดังนั้น ธรรมบัญญัติจึงได้กลายมาเป็นผู้ดูแลควบคุมของเรา **จนกว่าจะถึงพระคริสต์**.
 
 εἰς + accusative carries two readings:
 - **Temporal** — "until [the time] Christ [arrives]." Salvation-historical-end reading. Eremos chose this.
@@ -47,7 +47,7 @@ The Mosaic Law had a **definite temporal-functional terminus at Christ's coming*
 
 | Verse | Greek | Thai | Reading |
 |---|---|---|---|
-| Rom 10:4 | τέλος ... νόμου Χριστὸς | **พระคริสต์ทรงเป็นจุดสิ้นสุดของธρρμบัญญัติ** | TERMINAL — Christ ends Law-as-means-of-righteousness |
+| Rom 10:4 | τέλος ... νόμου Χριστὸς | **พระคริสต์ทรงเป็นจุดสิ้นสุดของธรรมบัญญัติ** | TERMINAL — Christ ends Law-as-means-of-righteousness |
 | Gal 3:24 | παιδαγωγὸς ... εἰς Χριστόν | **จนกว่าจะถึงพระคริสต์** | TEMPORAL — Law's custodial-function reaches its endpoint with Christ |
 
 The two readings are **internally consistent**:

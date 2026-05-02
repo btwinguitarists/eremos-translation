@@ -17,7 +17,7 @@ Status legend: **LOCK** = no revision; **REVISE** = AI consensus requires verse-
 **Both AIs CONCERN — converging on the SAME action.**
 
 - Gemini: "Two-rendering split is exegetically mandatory for Romans; flattening Rom 7:21–8:2 would render Paul's argument incomprehensible. Leaving GAL 6:2 as ธรรมบัญญัติ creates a corpus-level contradiction. Adopt the Romans split as project default. Spot-revise GAL 6:2 to **กฎของพระคริสต์**."
-- ChatGPT: "The Romans split is exegetically right. Rom 7:25 is the decisive test case: νόμῳ θεοῦ and νόμῳ ἁμαρτίας occur side by side. Keep Romans as-is; revise GAL 6:2 from ธρρμบัญญัติของพระคริสต์ to **กฎของพระคริสต์**. For 1 Cor 9:21 ἔννομος Χριστοῦ, handle as 'under Christ's governing norm,' likely **อยู่ภายใต้กฎของพระคริสต์**."
+- ChatGPT: "The Romans split is exegetically right. Rom 7:25 is the decisive test case: νόμῳ θεοῦ and νόμῳ ἁμαρτίας occur side by side. Keep Romans as-is; revise GAL 6:2 from ธรรมบัญญัติของพระคริสต์ to **กฎของพระคริสต์**. For 1 Cor 9:21 ἔννομος Χριστοῦ, handle as 'under Christ's governing norm,' likely **อยู่ภายใต้กฎของพระคริสต์**."
 
 **Disposition:** **LOCK** Romans rendering as-is (no Romans-side revision needed). **REVISE** GAL 6:2 once Ben approves: ธรรมบัญญัติของพระคริสต์ → **กฎของพระคริสต์**. **DOC** queued: `docs/translator_decisions/nomos_pauline_2026-05.md` formalizing the two-rendering policy + flagging GAL 6:2 + 1 Cor 9:21 forward-handling. **The AI consensus reverses the GAL audit §3 single-rendering recommendation** — the two-rendering split wins on the Rom 7:25 side-by-side test case.
 
