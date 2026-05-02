@@ -117,16 +117,21 @@ def emit_chapter(code: str, chapter: int, slug: str) -> list[str]:
         # USFM verse marker: single-line per verse. Thai text is copied verbatim.
         lines.append(f"\\v {verse_num} {thai}")
 
-    # Tier 2 textual-variant chapter-footer notes
+    # Tier 2 textual-variant chapter-footer notes. Two sub-types:
+    #   - inclusion_variant_absent (whole-verse omission)
+    #   - reading_variant (word-substitution, e.g. 1 Tim 3:16 Ὃς vs Θεός)
     tv_path = TEXTUAL_VARIANTS / f"{slug}_{chapter:02d}.json"
     if tv_path.exists():
         variants = json.loads(tv_path.read_text(encoding="utf-8"))
-        absent_verses = [v for v in variants if v.get("type") == "inclusion_variant_absent"]
+        renderable = [
+            v for v in variants
+            if v.get("type") in ("inclusion_variant_absent", "reading_variant")
+        ]
         # Skip pending-pipeline-translation stubs (entries that have structural
         # metadata — Greek, witnesses — but whose Thai fields are awaiting
         # backfill via the pipeline). See docs/end_of_book/backfill_workorder_2026-05-02.md
-        complete_verses = [v for v in absent_verses if not v.get("_pending_pipeline_translation")]
-        pending_verses = [v for v in absent_verses if v.get("_pending_pipeline_translation")]
+        complete_verses = [v for v in renderable if not v.get("_pending_pipeline_translation")]
+        pending_verses = [v for v in renderable if v.get("_pending_pipeline_translation")]
         for pv in pending_verses:
             print(
                 f"  [WARN] {slug}_{chapter:02d}.SFM: skipping Tier 2 stub for v.{pv.get('verse')} — "
@@ -138,12 +143,19 @@ def emit_chapter(code: str, chapter: int, slug: str) -> list[str]:
             lines.append("\\rem หมายเหตุด้านต้นฉบับ")
             for av in complete_verses:
                 verse_num = av["verse"]
-                tr_thai = av.get("tr_byz_thai", "")
                 expl = av.get("explanation_thai", "")
-                lines.append(
-                    f"\\rem ข้อ {chapter}:{verse_num} — ต้นฉบับไบแซนไทน์/TR รวมไว้: «{tr_thai}» "
-                    f"— {expl}"
-                )
+                if av.get("type") == "reading_variant":
+                    tr_thai_alt = av.get("tr_byz_thai_alt", "")
+                    lines.append(
+                        f"\\rem ข้อ {chapter}:{verse_num} — ต้นฉบับไบแซนไทน์/TR อ่านว่า: «{tr_thai_alt}» "
+                        f"— {expl}"
+                    )
+                else:
+                    tr_thai = av.get("tr_byz_thai", "")
+                    lines.append(
+                        f"\\rem ข้อ {chapter}:{verse_num} — ต้นฉบับไบแซนไทน์/TR รวมไว้: «{tr_thai}» "
+                        f"— {expl}"
+                    )
 
     lines.append("")
     return lines

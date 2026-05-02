@@ -6,9 +6,11 @@
 | TNBT structural comparison | ✅ clean | [tnbt_comparison_1timothy_03.md](tnbt_comparison_1timothy_03.md) |
 | OT citation acknowledgment | ✅ clean | [ot_citations_1timothy_03.md](ot_citations_1timothy_03.md) |
 | Synoptic parallels | ✅ clean | [parallel_passages.md](parallel_passages.md) |
-| Back-translation | ✅ clean | [(skipped)]((skipped)) |
+| Back-translation | ✅ clean | [back_translation_1timothy_03.md](back_translation_1timothy_03.md) |
 | Thai-summary coverage (info) | ✅ clean | [summary_coverage_1timothy_03.md](summary_coverage_1timothy_03.md) |
 | Claim consistency (hallucination) | ✅ clean | [claim_consistency_1timothy_03.md](claim_consistency_1timothy_03.md) |
+| Greek-field integrity | ✅ clean | [greek_field_integrity_1timothy_03.md](greek_field_integrity_1timothy_03.md) |
+| Phrase consistency (corpus-wide) | ✅ clean | [phrase_consistency.md](phrase_consistency.md) |
 
 ## Ship criterion
 

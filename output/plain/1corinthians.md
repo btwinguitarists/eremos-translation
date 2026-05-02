@@ -862,7 +862,7 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **44** ถูกหว่านเป็นกายตามธรรมชาติ ถูกทำให้เป็นขึ้นเป็นกายฝ่ายวิญญาณ ถ้ามีกายตามธรรมชาติ ก็มีกายฝ่ายวิญญาณด้วย
 
-**45** ตามที่มีคำเขียนไว้ว่า “อาดัมคนแรกได้กลายเป็นวิญญาณที่มีชีวิต” อาดัมคนสุดท้ายเป็นวิญญาณที่ให้ชีวิต
+**45** ตามที่มีคำเขียนไว้ว่า “อาดัมคนแรกได้กลายเป็นสิ่งมีชีวิต” อาดัมคนสุดท้ายเป็นวิญญาณผู้ให้ชีวิต
 
 **46** แต่ฝ่ายวิญญาณไม่ได้มาก่อน ฝ่ายธรรมชาติมาก่อน ต่อมาจึงเป็นฝ่ายวิญญาณ
 
@@ -960,10 +960,10 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/1corinthians_08.json` | `815df54bc66f78e92fb31021830cc9ae82929d6e06046ae72ce1e62002ef9067` |
 | `output/translations/1corinthians_09.json` | `cd45fea5d2fdbdd8415247315e0b6568069b30b5c567c05b25216041334d7321` |
 | `output/translations/1corinthians_10.json` | `dcf3c08e0e124449388cb0f93ebd135349f366f1f9153ec40cfaad2fb2443da6` |
-| `output/translations/1corinthians_11.json` | `14a09f51ad1a77051da207babc580a347cf2eda4247295ba19d7bf36fb45a487` |
+| `output/translations/1corinthians_11.json` | `cf82a092d2c63cb0f4b37d4d517d0989f9149704d8e096ac05ccd5954f47b194` |
 | `output/translations/1corinthians_12.json` | `95bf5fd6626e97fa31d8f3180c4f6294c1bd3f81742ebd863e2b56c59012d3d5` |
 | `output/translations/1corinthians_13.json` | `66c21bd57cb79fc964478ccf1f6f0c5a382777f96e49be32fb50666a66bbb27e` |
-| `output/translations/1corinthians_14.json` | `d22d826432622615ae52c23f60ee5f6f74ce0a60261f8e625cb8d9265ec8dde4` |
-| `output/translations/1corinthians_15.json` | `65328a56ef14fa6fb46ef29e4c5625bbfa6580953e0f48685ebebc6343ccdace` |
+| `output/translations/1corinthians_14.json` | `a83858fb74a2acdbbddab56fb6bec2c2be7a8b7fc46fc8bc76a3e252dbb00e42` |
+| `output/translations/1corinthians_15.json` | `bbd07179f1da46f06714d9101ac7b5d983fd524a942a306c07ddc7469594a0f3` |
 | `output/translations/1corinthians_16.json` | `c8eac724563f289b1bb5e21f461497a8319b6f2e94d8ca027e938f9cb5e7ccb3` |
 

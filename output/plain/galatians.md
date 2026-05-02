@@ -176,7 +176,7 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **4** แต่เมื่อถึงเวลากำหนดที่ครบบริบูรณ์แล้ว พระเจ้าได้ทรงใช้พระบุตรของพระองค์มา ผู้ทรงประสูติจากสตรี ผู้ทรงประสูติภายใต้ธรรมบัญญัติ
 
-**5** เพื่อทรงไถ่ผู้ที่อยู่ภายใต้ธรรมบัญญัติ เพื่อเราจะได้รับการรับเป็นบุตร
+**5** เพื่อทรงไถ่ผู้ที่อยู่ภายใต้ธรรมบัญญัติ เพื่อเราจะได้รับสิทธิ์การเป็นบุตร
 
 **6** และเพราะพวกท่านเป็นบุตร พระเจ้าจึงทรงใช้พระวิญญาณแห่งพระบุตรของพระองค์ มาประทับในใจของเรา ทรงร้องว่า “อับบา พระบิดา”
 
@@ -292,7 +292,7 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **1** พี่น้องทั้งหลาย ถ้าผู้ใดถูกพบว่ามีการล่วงละเมิดในเรื่องใด ท่านที่เป็นผู้มีจิตวิญญาณก็จงฟื้นฟูคนเช่นนั้นด้วยน้ำใจสุภาพอ่อนโยน โดยที่ท่านเองก็จงระวังตน เกรงว่าท่านจะถูกทดลองเช่นกัน
 
-**2** จงแบกภาระของกันและกัน ดังนั้นพวกท่านก็จะทำให้ธรรมบัญญัติของพระคริสต์สำเร็จลุล่วง
+**2** จงแบกภาระของกันและกัน ดังนั้นพวกท่านก็จะทำให้กฎของพระคริสต์สำเร็จลุล่วง
 
 **3** เพราะถ้าผู้ใดคิดว่าตนเองเป็นคนสำคัญทั้ง ๆ ที่ไม่ได้เป็นอะไรเลย เขาก็หลอกลวงตนเอง
 
@@ -335,9 +335,9 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | Chapter file | SHA-256 |
 |---|---|
 | `output/translations/galatians_01.json` | `035ddedcfa78dc62c0b92157bf4994621fc83013e47dddcd19e7c6dc72898a9b` |
-| `output/translations/galatians_02.json` | `325396c93cd04b12162973115cb5753190adae07a90c46887a9fcccd682e0a03` |
+| `output/translations/galatians_02.json` | `ef020b08541758508e9a1f2f037cacbe28d8a2ac6cb0f25e7dc1990b4b880083` |
 | `output/translations/galatians_03.json` | `f801401758fdf4a581484ea509024725a3a4242acb42624cac27a998b6894fa4` |
-| `output/translations/galatians_04.json` | `f753b984c0762e951c870ceda85b392f7da899250a8536b5fe9c8a8783ba6d06` |
+| `output/translations/galatians_04.json` | `6419fc431ce43cebfdbbff8d2a6026f81bd484468e38311da0a266301e78a2d1` |
 | `output/translations/galatians_05.json` | `8c554130d8819be2bff95cf6657734f4da7ec53e27845623688ad63407121424` |
-| `output/translations/galatians_06.json` | `6b1196188415fcfeb00baf3fd3ac4b622583f39c874fc47c056b72ac7c584e91` |
+| `output/translations/galatians_06.json` | `c536242ca4c882dcab8ccb39b413ac1da9fbd7aebfae3fcbc0be71f7d8bc08bf` |
 

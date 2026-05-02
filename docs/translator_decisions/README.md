@@ -60,6 +60,13 @@ When writing a new doc, follow the existing structure: title with Greek + Thai g
 | Doc | Rule | Locked during |
 |---|---|---|
 | [inclusion_variants_absent_verses](inclusion_variants_absent_verses_2026-04.md) | Path A 3-tier policy: Tier 1 short-phrase `[...]`; Tier 2 whole-verse footer note; Tier 3 large blocks `⟦...⟧`. Matches BSB/ESV/NIV/CSB convention. | Matthew end-of-book |
+| [pastoral_corpus_locks](pastoral_corpus_locks_2026-05.md) §H | Tier-2 `reading_variant` sub-type (word-substitution, not whole-verse omission). 1 Tim 3:16 Ὃς vs Θεός is the first instance. | 1 Timothy end-of-book |
+
+## Pastoral-Epistle corpus locks (1 Tim, 2 Tim, Titus)
+
+| Doc | Rule | Locked during |
+|---|---|---|
+| [pastoral_corpus_locks](pastoral_corpus_locks_2026-05.md) | Bundle of corpus-level locks for the Pastorals: πιστὸς ὁ λόγος formula (A); εὐσέβεια default ความเคร่งในพระเจ้า (B); σωτήρ for Father AND Christ + Tit 2:13 Granville-Sharp pre-decision (C); ἀρσενοκοίτης (D); women-in-worship ambiguity strategy with thai_summary guardrails (E); Phoebe-style διάκονος openness for Rom 16:1 (F); μιᾶς γυναικὸς ἄνδρα + 5:9 feminine inversion (G); 3:16 Ὃς + Tier-2 Byzantine footer (H) | 1 Timothy end-of-book |
 
 ---
 

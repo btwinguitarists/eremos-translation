@@ -290,7 +290,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**4** ในพวกเขานั้น เทพเจ้าแห่งยุคนี้ได้ทำให้ความคิดของผู้ที่ไม่เชื่อตาบอด เพื่อไม่ให้พวกเขาเห็นความสว่างแห่งข่าวประเสริฐเรื่องพระเกียรติของพระคริสต์ ผู้ทรงเป็นพระฉายาของพระเจ้า
+**4** ในพวกเขานั้น พระเจ้าแห่งยุคนี้ได้ทำให้ความคิดของผู้ที่ไม่เชื่อตาบอด เพื่อไม่ให้พวกเขาเห็นความสว่างแห่งข่าวประเสริฐเรื่องพระเกียรติของพระคริสต์ ผู้ทรงเป็นพระฉายาของพระเจ้า
 
 > ___
 
@@ -1110,17 +1110,17 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/2corinthians_01.json` | `0bdb01cc4d34c181b2c55ab2a1fcf862957d116d8a957c226e6bb445aba355d2` |
-| `output/translations/2corinthians_02.json` | `fc4e8cce6b3956ad5e201ca9f3e8f7903274a2ad0ce24abb6f340f74da42022e` |
-| `output/translations/2corinthians_03.json` | `f39356dd147c3a5a9f71664b936b0bad91ce475792bebe5917947e33dd75d9ed` |
-| `output/translations/2corinthians_04.json` | `70c27953757a7a6fee2af1e37e0eb6197f6e09ec86f8803273ae2695cb2fb24e` |
-| `output/translations/2corinthians_05.json` | `011cb98442f1b387a37199e4db67363d5354b5d8e3511919c4523caebdec9ad2` |
-| `output/translations/2corinthians_06.json` | `51551f17000c4dacfd86b2382f66efe75e1337893b8148a4909f5adbaf0e2aa9` |
-| `output/translations/2corinthians_07.json` | `c0680d8f92009ae4f8be49887e3ab547ed669885b59bc864482c1a5da7f06f02` |
-| `output/translations/2corinthians_08.json` | `7c35093f4abe5361a7366929e6585fa153bac646c4844cab2ac0b47ed60e1067` |
-| `output/translations/2corinthians_09.json` | `f6297c97403d2b361a3638fe62e982f7bb01db716d5f0ccc348f6240d464e15d` |
-| `output/translations/2corinthians_10.json` | `2cabc3aa510e54379db35f1ffe2ff1b0515f3816e9c5d56fc0fdc84055a1d7d7` |
-| `output/translations/2corinthians_11.json` | `361ad566cf0762163d43235ab35118aac7774c92c5cc11e491bd8d409437adc7` |
-| `output/translations/2corinthians_12.json` | `2fd245afd4eec451f0dfd7c426412722ade00b4c6895c31576a66ba418479c35` |
-| `output/translations/2corinthians_13.json` | `b0c5e4132dbc04fb915d467195ff6a6fa4a887593f6a3492056cde5e3d9f14dd` |
+| `output/translations/2corinthians_01.json` | `a7624ccfbac37d4ed53050c21a50bd07ed3d58c34a4d231d53e350e6b4a577ce` |
+| `output/translations/2corinthians_02.json` | `3c6148b24fa30b2aeb55022a6b844322704e01559c057f3c16b44e60b7ec2cae` |
+| `output/translations/2corinthians_03.json` | `ae18ba05eb0ec56463edbdafff059c41daa8d12698e0fae5ee81ed5d7ab8afac` |
+| `output/translations/2corinthians_04.json` | `e4a9224889449fd5863cd224bcf78d68e2834d22d6e545a357f53ff2c4113f30` |
+| `output/translations/2corinthians_05.json` | `e2452a34d40b0fd0ce3c4cbc0d0a70dbf6fd6267f9d206904b58c2dec293330b` |
+| `output/translations/2corinthians_06.json` | `ebb822e2afa214787f3e58025de2de4b27222a3d61ebd2df6dad361e18fc3202` |
+| `output/translations/2corinthians_07.json` | `fae6b6f1fecbcef72c1773b279d13cfe853cf239f015aeafc7d06210ce7feba0` |
+| `output/translations/2corinthians_08.json` | `e55bbd1bc9e76097484fdf581c9c5d50da7df4761bcc81c929412341c64a13a4` |
+| `output/translations/2corinthians_09.json` | `4154d3d2b4cbe38a4e599473976f3f3a226ac84d2cb4912d741a372df22826e3` |
+| `output/translations/2corinthians_10.json` | `ec2e15a80445907f7247c70c168a1c6321d862d45d2081569853ec26e965d30a` |
+| `output/translations/2corinthians_11.json` | `bd716106c311f778557d36d67c163219f464e39e8fd039511a79cd1c6bb474ea` |
+| `output/translations/2corinthians_12.json` | `aca4492cc393372367d40d5dce4bee1e1d066a04b6f022f0d964492dc0439a9a` |
+| `output/translations/2corinthians_13.json` | `8f3443afbb24ccf15fc76b72d5ed1f91dbe257d060b863c0634e5a38ffe9ca70` |
 

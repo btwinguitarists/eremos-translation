@@ -90,7 +90,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**16** เพราะในพระองค์ ทุกสิ่งได้ทรงถูกสร้างขึ้น ทั้งในสวรรค์และบนแผ่นดินโลก ทั้งสิ่งที่มองเห็นได้และมองไม่เห็น ไม่ว่าจะเป็นบัลลังก์หรือเทพผู้ครอง หรือทูตสวรรค์ผู้มีอำนาจหรือผู้ทรงสิทธิ ทุกสิ่งได้ทรงถูกสร้างขึ้นโดยทางพระองค์และเพื่อพระองค์
+**16** เพราะในพระองค์ ทุกสิ่งได้ทรงถูกสร้างขึ้น ทั้งในสวรรค์และบนแผ่นดินโลก ทั้งสิ่งที่มองเห็นได้และมองไม่เห็น ไม่ว่าจะเป็นบัลลังก์หรือผู้ทรงเดชานุภาพ หรือผู้ครองหรือผู้ทรงอำนาจ ทุกสิ่งได้ทรงถูกสร้างขึ้นโดยทางพระองค์และเพื่อพระองค์
 
 > ___
 
@@ -430,8 +430,8 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/colossians_01.json` | `a4030d20e8d10deea1f4a08ecd14322d193dfb1fd6b74a31cc47a5bced121205` |
+| `output/translations/colossians_01.json` | `eef92c90dc4a020325acfcc6efaeda981d479f0afb637c230f42ff62b5f8bed9` |
 | `output/translations/colossians_02.json` | `3f2256da6863f944718b8bdd6dc0f345969e034a7082e1fb0540632187a97bed` |
-| `output/translations/colossians_03.json` | `f6920ba34cb4296527f37e47e7986c48672ab94c238fe31a6dd94923f62dc355` |
+| `output/translations/colossians_03.json` | `17e946688dd4590eee7d9674a5115229714c94c9612866530d387dc8b61870fc` |
 | `output/translations/colossians_04.json` | `18c5d14a4abf041c6cce24fc5198b55e096c863b5b6d5045a42495d220713458` |
 

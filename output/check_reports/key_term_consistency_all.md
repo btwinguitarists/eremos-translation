@@ -2,8 +2,8 @@
 
 - Rule violations: **0**
 - Undocumented multi-renderings: **0**
-- Documented multi-renderings: 466
-- Consistent single renderings: 15850
+- Documented multi-renderings: 467
+- Consistent single renderings: 16077
 
 ## ✅ Documented multi-renderings (contextual variance)
 
@@ -159,6 +159,7 @@
 - **μὴ εἰδότες τὰς γραφὰς μηδὲ τὴν δύναμιν τοῦ θεοῦ** — ที่พวกท่านไม่รู้พระคัมภีร์และไม่รู้ฤทธานุภาพของพระเจ้า (1x), เพราะไม่รู้พระคัมภีร์และไม่รู้ฤทธิ์อำนาจของพระเจ้า (1x)
 - **μὴ εἰσενέγκῃς ἡμᾶς εἰς πειρασμόν** — ขออย่าทรงนำพวกข้าพระองค์เข้าสู่การทดลอง (1x), ขออย่าทรงนำข้าพระองค์ทั้งหลายเข้าสู่การทดลอง (1x)
 - **ναί,λέγω ὑμῖν** — ใช่แล้ว เราบอกพวกท่านว่า (1x), เราบอกพวกท่านว่า ใช่แล้ว (1x)
+- **νομοδιδάσκαλοι** — อาจารย์ของธรรมบัญญัติ (1x), อาจารย์ธรรมบัญญัติ (1x)
 - **οἱ δώδεκα** — อัครทูตทั้งสิบสอง (1x), สาวกสิบสองคน (1x)
 - **οἱ δὲ ἐσιώπων** — แต่พวกเขานิ่งเงียบ (1x), พวกเขาเงียบไม่ตอบ (1x)
 - **οἱ μαθηταὶ αὐτοῦ** — บรรดาสาวกของท่าน (1x), พวกสาวกของพระองค์ (1x), เหล่าสาวกของยอห์น (1x)
@@ -476,4 +477,4 @@
 
 ## ✅ Single-rendering lemmas
 
-15850 lemmas each translated consistently across every occurrence. See `glossary.json` for the full list.
+16077 lemmas each translated consistently across every occurrence. See `glossary.json` for the full list.

@@ -485,3 +485,52 @@ Tag `book-1timothy-v1` after:
 5. External AI sanity-check (§N)
 
 The next Pastoral letters (2 Tim, then Tit) should not ship until the Pastoral-corpus-locks listed above are written. The five Pastoral-distinctive clusters (πιστὸς ὁ λόγος / εὐσέβεια / ὑγιαίνω / σωτήρ-shift / ἐπιφάνεια) are the most-forward-compounding editorial-stakes the project has faced since the GAL + 1TH locks — and they are all **first-densely-occurring here**.
+
+---
+
+## Resolutions (2026-05-02 — external AI review complete)
+
+External AI review packet (`external_review_packet_1TI_2026-05-02.md`, 8 items A–H) submitted to Grok, Gemini, and ChatGPT. All three responses copied back to the project session and cross-checked against the translation JSONs. Actions resolved below.
+
+### Convergence — all three reviewers FINE → **LOCKED**
+
+- **Item A — πιστὸς ὁ λόγος formula → ถ้อยคำนี้เชื่อถือได้.** All FINE. Locked corpus-wide via `pastoral_corpus_locks_2026-05.md` §A. Reference-direction ambiguity preserved at 4:9 per Greek.
+- **Item C — σωτήρ-applied-to-God Pastoral shift → พระเจ้าพระผู้ช่วยให้รอดของเรา.** All FINE. Locked via §C. **Pre-decision for Tit 2:13: render Granville-Sharp single-person high-Christology** (Ben to confirm Thai construction at translation time; provisional พระเยซูคริสต์ พระเจ้าผู้ยิ่งใหญ่และพระผู้ช่วยให้รอดของเรา).
+- **Item D — ἀρσενοκοίτης at 1:10 → ผู้ชายที่ร่วมประเวณีกับผู้ชาย.** All FINE. Locked via §D. No Tier-2 footer added (clinical-descriptive register is sufficient; Grok and ChatGPT explicitly recommended against contested-debate footnoting).
+- **Item F — γυναῖκας 3:11 → หญิง (no possessive).** All FINE. Locked via §F + Phoebe-style ambiguity carries forward to Rom 16:1.
+- **Item G — μιᾶς γυναικὸς ἄνδρα + 5:9 feminine inversion.** All FINE. Locked via §G; structural mirroring at 5:9 preserved exactly (ภรรยาของสามีเพียงคนเดียว). Applies forward to Tit 1:6.
+
+### Split-but-resolved → **LOCKED with documented gloss / guardrails**
+
+- **Item B — εὐσέβεια → ความเคร่งในพระเจ้า.** Grok and Gemini FINE; ChatGPT CONCERN (worried ความเคร่ง leans legalistic). **Resolution: keep ความเคร่งในพระเจ้า as default;** intended-sense gloss documented in `pastoral_corpus_locks_2026-05.md` §B as "reverent, God-oriented life" (active embodied piety, not legalistic strictness). 3:16 departure to ทางของพระเจ้า ratified by all three reviewers as a context-specific necessity (hymn-introduction summary phrase).
+- **Item E — 1 Tim 2:11–15 women-in-worship + 2:15 σωθήσεται διὰ τῆς τεκνογονίας.** Grok soft CONCERN, Gemini FINE, ChatGPT explicit CONCERN on 2:15 perception risk. **Resolution: ambiguity-preservation strategy locked corpus-wide** via §E; carries forward to 2 Tim 3:6–7, Tit 2:3–5. **Theological guardrails added to 2:15 thai_summary** clarifying: (a) explicit denial that the verse teaches salvation-by-childbearing-as-works; (b) cross-references to Eph 2:8-9, Rom 3-4, Tit 3:5, 1 Tim 2:5-6 (intra-chapter); (c) third interpretation surfaced (τῆς-as-definite-article = Mary's bearing of Christ / Incarnation reading, alongside the existing two interpretations). Main text unchanged.
+
+### Convergent on adding a Tier-2 footer note → **LOCKED with new infrastructure**
+
+- **Item H — 1 Tim 3:16 Ὃς vs Θεός Christ-hymn variant.** Grok FINE-with-footer-note, Gemini CONCERN-needs-footer-note, ChatGPT FINE-with-footer-note. All three converged on adding a Byzantine-variant footer for KJV/THKJV-shaped reader trust. **Resolution: main text retains พระองค์ทรง... (SBLGNT Ὃς);** Tier-2 footer note added at `output/textual_variants/1timothy_03.json` (new `reading_variant` type) with full Byzantine reading + manuscript witnesses + scribal-mechanism explanation (ΟΣ → ΘΣ misread). This is the **first Tier-2 reading-variant entry** in the corpus.
+
+### Infrastructure updates (rendering pipeline)
+
+- **`scripts/render_reader.py`** extended to handle the new `reading_variant` type alongside the existing `inclusion_variant_absent` type. New header label: "การอ่านในต้นฉบับโบราณต่างกัน" (versus the existing "ขาดในต้นฉบับวิจารณ์ (SBLGNT)" for whole-verse omissions).
+- **`scripts/export_to_usfm.py`** extended likewise. The chapter-footer `\rem` line for reading-variants reads "ต้นฉบับไบแซนไทน์/TR อ่านว่า: «...»" (versus "...รวมไว้: «...»" for inclusion variants).
+- **`audit_inclusion_variants.py`** unaffected — its scope is only inclusion variants, not reading variants. Strict mode continues to PASS for 1 Timothy.
+
+### Status changes
+
+- §G (1 Tim 1:10 ἀρσενοκοίτης) — REVIEW → **LOCKED** (Item D resolution).
+- §I (1 Tim 2:11–12 + 2:15 women-in-worship) — DECIDE → **LOCKED** with guardrails (Item E resolution).
+- §J (1 Tim 3:11 γυναῖκας) — DECIDE → **LOCKED** (Item F resolution).
+- §H (1 Tim 3:2 / 5:9 μιᾶς γυναικός formula) — REVIEW → **LOCKED** (Item G resolution).
+- §K (1 Tim 3:16 Ὃς vs Θεός) — REVIEW → **LOCKED with Tier-2 footer** (Item H resolution).
+- §L items 1, 2, 4 — folded into the consolidated `pastoral_corpus_locks_2026-05.md` (§A, §B, §C). Items 3 (ὑγιαίνω), 5 (Pastoral-offices extension), 6 (ἐπιφάνεια) remain as separate-doc work before 2 Tim ships, per the original priority ordering.
+- §N (External AI review) — **complete**.
+
+### Remaining items before tag `book-1timothy-v1`
+
+1. Write `docs/translator_decisions/hygiaino_sound_doctrine_2026-05.md` (§L #3) — high priority before 2 Tim 1 ships.
+2. Write `docs/translator_decisions/pastoral_offices_episkopos_presbyteros_diakonos_2026-05.md` (§L #5) — extends `diakonos_pauline_2026-05.md`; medium priority before 2 Tim 1:10 / Tit 1:5–9.
+3. Write `docs/translator_decisions/epiphaneia_christou_2026-05.md` (§L #6) — medium priority.
+4. Amend `kyrios_narrator_voice_luke_acts_2026-04.md` to extend framing to "Lukan-Acts + Johannine + Pauline + Pastoral" (§M).
+5. Optional: amend `diakonos_pauline_2026-05.md` to cross-reference the new Pastoral-offices doc once #2 lands.
+
+These can land before 2 Tim 1 ships (per the inheritance pattern); not all are gating for `book-1timothy-v1` tag.
