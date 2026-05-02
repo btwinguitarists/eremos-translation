@@ -928,6 +928,12 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **24** ขอพระคุณของพระเยซูคริสต์องค์พระผู้เป็นเจ้าของเรา จงดำรงอยู่กับพวกท่านทุกคน อาเมน
 
+**25** ⟦บัดนี้ ขอถวายพระเกียรติแด่พระองค์ผู้ทรงสามารถทำให้พวกท่านตั้งมั่นคง ตามข่าวประเสริฐของข้าพเจ้าและการประกาศเรื่องพระเยซูคริสต์ ตามการเปิดเผยความล้ำลึกซึ่งทรงเก็บงำไว้เป็นเวลายาวนานหลายยุค
+
+**26** แต่บัดนี้ทรงสำแดงให้ปรากฏแล้วผ่านพระคัมภีร์ของผู้เผยพระวจนะ ตามพระบัญชาของพระเจ้าผู้ทรงพระชนม์อยู่ตลอดไป เพื่อก่อให้เกิดการเชื่อฟังที่มาจากความเชื่อในบรรดาประชาชาติทั้งปวง ทรงทำให้เป็นที่รู้จัก
+
+**27** แด่พระเจ้าผู้ทรงปรีชาญาณแต่ผู้เดียว โดยทางพระเยซูคริสต์ ขอพระเกียรติจงมีแด่พระองค์สืบ ๆ ไปเป็นนิตย์ อาเมน⟧
+
 ---
 
 ## Verification
@@ -951,5 +957,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/romans_13.json` | `195af7bc575dbb08ddcdbcd4cefc6e18c7ca2300a847aa763e5655b9d7f3d970` |
 | `output/translations/romans_14.json` | `32f5257b056e4dcdcfa97e280f8a1ef398c0ce9e0463819f3d1d1a9b1756959b` |
 | `output/translations/romans_15.json` | `594dcaa8954094623acb284e189f393ea80c5e4c005bdbd29b6a26b7ae64290f` |
-| `output/translations/romans_16.json` | `ec60dec4fd31575dc92a5b80dde457208e0d5e7c4fae8b321cde0f36d1e56835` |
+| `output/translations/romans_16.json` | `0235014067b4063644a5bcc555deff9d9e3a389d7d478dffb444cf899f10bfbd` |
 

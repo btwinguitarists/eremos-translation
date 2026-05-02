@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-05-01 19:18:46 UTC_
-_Total chapters: 177 · Total verses: 6194_
+_Generated: 2026-05-02 00:05:19 UTC_
+_Total chapters: 177 · Total verses: 6197_
 
 ## How to verify a chapter
 
@@ -95,7 +95,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/john_02.json` | 25 | `17d2cbdb34d12e45434c7d927d17a2bf26d97dcbbd9f23081f054ad9c1abee8f` | `6d15bb1` |
 | `output/translations/john_03.json` | 36 | `f0c177a7854327a5843c4a89f3e366aa6ebb8b5007a7a8a1d36c6c6543f00d72` | `cf6bd38` |
 | `output/translations/john_04.json` | 54 | `ac68b9b9597f16ba1579f99296b52ce1b6244ba2281c876697d92d6a871bd314` | `20499a4` |
-| `output/translations/john_05.json` | 46 | `3dcf163bf98abf0d4c8d7c1a92679aef5193e2ea4bcbe891347de9f87fad1ea1` | `b5f5203` |
+| `output/translations/john_05.json` | 46 | `e34cf3b4ba696758ef1966e3989c1f28e4d5d340c8d3f88188a2e286c61eda57` | `b5f5203` |
 | `output/translations/john_06.json` | 71 | `b2cfb7d7d638ffd6f50000f4ddf1614c5cb1a7938801fb835c5c8d5266a68f42` | `d89775b` |
 | `output/translations/john_07.json` | 53 | `ce1ebd8becf3a78036b2d6932ee2e49ebaf5ba5522f18c610f32cc28a8792254` | `cf6bd38` |
 | `output/translations/john_08.json` | 59 | `2944198e8d3bdc4640fea51bb681566fe7539d6d3acc1433638d68d5496db94e` | `95821c9` |
@@ -195,7 +195,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/romans_13.json` | 14 | `195af7bc575dbb08ddcdbcd4cefc6e18c7ca2300a847aa763e5655b9d7f3d970` | `eb46080` |
 | `output/translations/romans_14.json` | 23 | `32f5257b056e4dcdcfa97e280f8a1ef398c0ce9e0463819f3d1d1a9b1756959b` | `001bfaa` |
 | `output/translations/romans_15.json` | 33 | `594dcaa8954094623acb284e189f393ea80c5e4c005bdbd29b6a26b7ae64290f` | `c4349d6` |
-| `output/translations/romans_16.json` | 24 | `ec60dec4fd31575dc92a5b80dde457208e0d5e7c4fae8b321cde0f36d1e56835` | `—` |
+| `output/translations/romans_16.json` | 27 | `0235014067b4063644a5bcc555deff9d9e3a389d7d478dffb444cf899f10bfbd` | `72e00d4` |
 
 ---
 

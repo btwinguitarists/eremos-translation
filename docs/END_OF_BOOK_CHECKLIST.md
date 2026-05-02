@@ -13,6 +13,8 @@ This checklist is informational. Nothing in the codebase enforces running it —
 - [ ] All chapters have green `output/check_reports/<slug>_NN_review.md` (per-chapter automated checks passed)
 - [ ] All chapters have `output/back_translations/<slug>_NN.json` (BT done; the post-2026-04-19 ship gate enforces this, but worth confirming)
 - [ ] `python3 scripts/check_key_term_consistency.py` is clean across the entire book — no undocumented lemma variance
+- [ ] **`python3 scripts/audit_inclusion_variants.py --book <slug> --strict`** exits **0** (every SBLGNT-omits-mainstream-includes candidate has an explicit disposition: Tier 1 phrase brackets / Tier 2 chapter-footer file / Tier 3 ⟦double brackets⟧ / silent-omission per RULES §5 / `_resolved/` dismissal doc). **Added 2026-05-02** after the Romans 16:25-27 doxology + John 5:4 Bethesda angel were silently dropped without Tier 2 follow-through. See `docs/end_of_book/inclusion_variant_gap_2026-05-02.md` for the corpus-wide audit and remediation list.
+- [ ] `python3 scripts/export_to_usfm.py --book <CODE>` regenerates `output/paratext/<CODE>.SFM` cleanly (no errors; chapter-footer remarks for Tier 2 variants render).
 - [ ] `git status output/` is clean (no orphaned source files; the post-2026-04-19 ship script auto-commits, but verify)
 
 ## 2. Editorial review (the substantive part)

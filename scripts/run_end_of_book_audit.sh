@@ -21,6 +21,8 @@
 #   0 = audit session ran (or dry-run completed)
 #   1 = no audit prompt found (last ship did not complete a book)
 #   2 = invalid arguments
+#   3 = inclusion-variant gate failed (added 2026-05-02)
+#       (override with SKIP_INCLUSION_VARIANT_GATE=1 only for explicit policy decision)
 
 set -e
 
@@ -67,6 +69,52 @@ if ! grep -q "for ${BOOK} (\|(${BOOK})" "$PROMPT_FILE" 2>/dev/null; then
 fi
 
 cd "$THAI_BIBLE_AI"
+
+# ── Inclusion-variant gate (added 2026-05-02) ──
+# Catches SBLGNT-omits-mainstream-includes candidates lacking explicit
+# disposition (Tier 1/2/3 / silent / _resolved). Skipping this gate is the
+# bug that let Romans 16:25-27 doxology + John 5:4 silently slip past
+# end-of-book without footer notes.
+book_to_slug() {
+    case "$1" in
+        MAT) echo matthew ;;       MRK) echo mark ;;          LUK) echo luke ;;
+        JHN) echo john ;;          ACT) echo acts ;;          ROM) echo romans ;;
+        1CO) echo 1corinthians ;;  2CO) echo 2corinthians ;;  GAL) echo galatians ;;
+        EPH) echo ephesians ;;     PHP) echo philippians ;;   COL) echo colossians ;;
+        1TH) echo 1thessalonians ;;2TH) echo 2thessalonians ;;1TI) echo 1timothy ;;
+        2TI) echo 2timothy ;;      TIT) echo titus ;;         PHM) echo philemon ;;
+        HEB) echo hebrews ;;       JAS) echo james ;;         1PE) echo 1peter ;;
+        2PE) echo 2peter ;;        1JN) echo 1john ;;         2JN) echo 2john ;;
+        3JN) echo 3john ;;         JUD) echo jude ;;          REV) echo revelation ;;
+        *)  echo "$1" ;;
+    esac
+}
+SLUG=$(book_to_slug "$BOOK")
+
+if [ "$MODE" != "dry-run" ]; then
+    echo "[gate] python3 scripts/audit_inclusion_variants.py --book $SLUG --strict"
+    if ! python3 scripts/audit_inclusion_variants.py --book "$SLUG" --strict; then
+        echo "" >&2
+        echo "✗ End-of-book gate FAILED: unresolved inclusion-variant candidate(s)." >&2
+        echo "  Each candidate must have a disposition before book audit can run:" >&2
+        echo "    - Tier 1: phrase brackets [...] in main thai field" >&2
+        echo "    - Tier 2: chapter-footer file output/textual_variants/<slug>_<NN>.json" >&2
+        echo "    - Tier 3: large-block ⟦...⟧ in main text" >&2
+        echo "    - Silent: notes use 'RULES §5 silent-omission' phrasing" >&2
+        echo "    - Resolved: output/textual_variants/_resolved/<slug>_<NN>_v<V>.md" >&2
+        echo "" >&2
+        echo "  See docs/end_of_book/inclusion_variant_gap_2026-05-02.md for the" >&2
+        echo "  corpus-wide audit framework and disposition examples." >&2
+        echo "" >&2
+        echo "  To override (NOT recommended; only for explicit policy decision):" >&2
+        echo "    SKIP_INCLUSION_VARIANT_GATE=1 bash scripts/run_end_of_book_audit.sh $BOOK" >&2
+        if [ -z "${SKIP_INCLUSION_VARIANT_GATE:-}" ]; then
+            exit 3
+        else
+            echo "  [override active] SKIP_INCLUSION_VARIANT_GATE set — gate bypassed." >&2
+        fi
+    fi
+fi
 
 case "$MODE" in
     dry-run)

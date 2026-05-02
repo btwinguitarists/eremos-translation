@@ -50,6 +50,20 @@
       "report": "claim_consistency_luke_04.md",
       "notes": "",
       "status": "clean"
+    },
+    {
+      "name": "Greek-field integrity",
+      "exit_code": 0,
+      "report": "greek_field_integrity_luke_04.md",
+      "notes": "",
+      "status": "clean"
+    },
+    {
+      "name": "Phrase consistency (corpus-wide)",
+      "exit_code": 0,
+      "report": "phrase_consistency.md",
+      "notes": "",
+      "status": "clean"
     }
   ]
 }
