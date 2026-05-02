@@ -132,11 +132,20 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 ---
 
+### หมายเหตุของผู้แปล
+
+**ข้อ 10**
+
+_ชื่อโอเนซิมัสในภาษากรีก (Ὀνήσιμος) หมายความว่า ‘ผู้มีประโยชน์’ — เปาโลเล่นสำนวนกับชื่อนี้ในข้อ 11 (‘ไม่มีประโยชน์ ... มีประโยชน์’) และข้อ 20 (‘ขอให้ข้าพเจ้าได้รับประโยชน์จากท่าน’) การเล่นสำนวนนี้เป็นแกนกลางของวาทศิลป์ในจดหมาย_
+
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/philemon_01.json` | `83817b9b2d2abe66c8cee77dc3972d79eb004e6455bbd27941a766988350a539` |
+| `output/translations/philemon_01.json` | `359420f302149807f4a1c6632aa1d7732d695fbecbba9647e8a4d596c2e3ac26` |
 

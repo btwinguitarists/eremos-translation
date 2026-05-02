@@ -1,0 +1,8 @@
+[
+  {
+    "verse": 10,
+    "type": "name_etymology_active_wordplay",
+    "thai_note": "ชื่อโอเนซิมัสในภาษากรีก (Ὀνήσιμος) หมายความว่า ‘ผู้มีประโยชน์’ — เปาโลเล่นสำนวนกับชื่อนี้ในข้อ 11 (‘ไม่มีประโยชน์ ... มีประโยชน์’) และข้อ 20 (‘ขอให้ข้าพเจ้าได้รับประโยชน์จากท่าน’) การเล่นสำนวนนี้เป็นแกนกลางของวาทศิลป์ในจดหมาย",
+    "rationale_en": "Active argument-bearing name-wordplay (per docs/translator_decisions/proper_noun_wordplay_2026-05.md). The Greek name Ὀνήσιμος = 'useful/profitable' (root: ὀνίνημι 'to derive benefit'). Paul plays on it 3× in 25 verses: ἄχρηστος→εὔχρηστος pun at v.11, ὀναίμην optative at v.20. Without the etymology surfaced visibly, Thai readers experience the v.11 contrast as disconnected from the name introduced at v.10. External AI review 2026-05-02 (Gemini + ChatGPT) both flagged this as CONCERN warranting a footer note exception to the corpus-wide etymology-in-thai_summary convention."
+  }
+]

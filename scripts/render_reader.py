@@ -41,6 +41,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 TRANSLATIONS = ROOT / "output" / "translations"
 TEXTUAL_VARIANTS = ROOT / "output" / "textual_variants"
+TRANSLATOR_NOTES = ROOT / "output" / "translator_notes"
 READER_DIR = ROOT / "output" / "reader"
 PLAIN_DIR = ROOT / "output" / "plain"
 FEEDBACK_DIR = ROOT / "output" / "feedback"
@@ -91,7 +92,7 @@ def chapter_files_for(slug: str) -> list[Path]:
     return [p for _, p in sorted(matched)]
 
 
-def render_chapter(verses: list[dict], chapter_num: int, variants: list[dict] | None = None, *, mode: str = "reader") -> str:
+def render_chapter(verses: list[dict], chapter_num: int, variants: list[dict] | None = None, translator_notes: list[dict] | None = None, *, mode: str = "reader") -> str:
     if mode not in MODES:
         raise ValueError(f"mode must be one of {MODES}, got {mode!r}")
     lines = [f"## บทที่ {chapter_num}", ""]
@@ -147,12 +148,47 @@ def render_chapter(verses: list[dict], chapter_num: int, variants: list[dict] | 
                 lines.append("ต้นฉบับที่ละไว้: " + (omit or "-"))
                 lines.append("")
         lines.append("")
+
+    # Translator notes footer (added 2026-05-02 per Onesimus name-wordplay
+    # at PHM 1:10; see docs/translator_decisions/proper_noun_wordplay_2026-05.md).
+    # For active argument-bearing wordplays where the immediate rhetoric depends
+    # on a Greek-name etymology being visible to Thai readers. NOT for static
+    # name etymologies (Πέτρος, Ἰησοῦς, etc. — those stay in thai_summary).
+    if translator_notes:
+        lines.append("---")
+        lines.append("")
+        lines.append("### หมายเหตุของผู้แปล")
+        lines.append("")
+        for note in translator_notes:
+            verse_num = note.get("verse")
+            thai_note = note.get("thai_note", "")
+            lines.append(f"**ข้อ {verse_num}**")
+            lines.append("")
+            if thai_note:
+                lines.append(f"_{thai_note}_")
+                lines.append("")
+        lines.append("")
     return "\n".join(lines)
 
 
 def load_textual_variants(slug: str, chapter_num: int) -> list[dict]:
     """Load chapter-level inclusion-variant footer notes if present."""
     fp = TEXTUAL_VARIANTS / f"{slug}_{chapter_num:02d}.json"
+    if not fp.exists():
+        return []
+    return json.loads(fp.read_text(encoding="utf-8"))
+
+
+def load_translator_notes(slug: str, chapter_num: int) -> list[dict]:
+    """Load chapter-level translator-note footer entries if present.
+
+    Distinct from textual_variants — these are translator-added apparatus
+    (etymology, active-wordplay, cultural context) rather than text-critical
+    variant disposition. Schema: list of {verse, type, thai_note,
+    rationale_en?}. Only thai_note is rendered to readers; rationale_en is
+    for the audit trail.
+    """
+    fp = TRANSLATOR_NOTES / f"{slug}_{chapter_num:02d}.json"
     if not fp.exists():
         return []
     return json.loads(fp.read_text(encoding="utf-8"))
@@ -255,7 +291,8 @@ def render_book(book_code: str, *, mode: str = "reader") -> Path | None:
         chapter_num = int(re.search(r"_(\d+)\.json$", chapter_path.name).group(1))
         verses = json.loads(chapter_path.read_text(encoding="utf-8"))
         variants = load_textual_variants(slug, chapter_num)
-        parts.append(render_chapter(verses, chapter_num, variants, mode=mode))
+        translator_notes = load_translator_notes(slug, chapter_num)
+        parts.append(render_chapter(verses, chapter_num, variants, translator_notes, mode=mode))
         parts.append("---")
         parts.append("")
         chapter_hashes.append((chapter_path.name, file_sha256(chapter_path)))
