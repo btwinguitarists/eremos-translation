@@ -78,8 +78,8 @@ When all of the above is reviewed and any decisions logged:
 - [ ] Update `RULES.md` if a corpus-level decision warrants documentation in the canonical rules.
 - [ ] Update `glossary.json` if any term renderings were corrected.
 - [ ] Update `docs/translator_decisions/README.md` if new decision docs were added.
-- [ ] Tag the commit: `git tag book-{slug}-v1 && git push --tags` (e.g., `book-matthew-v1`).
 - [ ] If editorial-decision docs were written, ensure they're committed under `docs/translator_decisions/`.
+- [ ] **Lock-the-book ship**: `bash scripts/ship_book.sh <BOOK_CODE>` — does the book-boundary deferred work (bundle PR + Vercel deploy + iOS bump + TestFlight + tag `book-{slug}-v1` + push tag) in one pass. See `docs/TRANSLATION_WORKFLOW.md §6b` for details. Pass `--skip-testflight` for web-only ships, `--skip-tag` if revisions are still pending. Android Play upload is a separate manual step (see `reference_eremos_ship_recipe.md`).
 
 ---
 
