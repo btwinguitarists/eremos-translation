@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-05-02 11:23:37 UTC_
-_Total chapters: 188 · Total verses: 6466_
+_Generated: 2026-05-02 11:55:03 UTC_
+_Total chapters: 189 · Total verses: 6487_
 
 ## How to verify a chapter
 
@@ -85,12 +85,13 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/acts_26.json` | 32 | `1ae63260de53ad80123865b8f48cea9993a82f109eea08596efa2bdc6973975f` | `cf6bd38` |
 | `output/translations/acts_27.json` | 44 | `be14faca2501aee7d1e3520f98c50dfed3f2e6b1060e10cc7ab2d949856244fd` | `cf6bd38` |
 | `output/translations/acts_28.json` | 30 | `74c25c708450ef38a5562ead7c2cf4519ee735b7e6d23ed2230a8e12dc00ce76` | `cf6bd38` |
-| `output/translations/colossians_01.json` | 29 | `eef92c90dc4a020325acfcc6efaeda981d479f0afb637c230f42ff62b5f8bed9` | `d8d4e76` |
+| `output/translations/colossians_01.json` | 29 | `eef92c90dc4a020325acfcc6efaeda981d479f0afb637c230f42ff62b5f8bed9` | `93fd9df` |
 | `output/translations/colossians_02.json` | 23 | `3f2256da6863f944718b8bdd6dc0f345969e034a7082e1fb0540632187a97bed` | `fa1ba3d` |
 | `output/translations/colossians_03.json` | 25 | `17e946688dd4590eee7d9674a5115229714c94c9612866530d387dc8b61870fc` | `465b1f1` |
 | `output/translations/colossians_04.json` | 18 | `18c5d14a4abf041c6cce24fc5198b55e096c863b5b6d5045a42495d220713458` | `508da29` |
-| `output/translations/ephesians_01.json` | 23 | `25b6b92e8fa22a1389d985ec795f3bfd27973de8e2847097f39929de798a3720` | `6662909` |
-| `output/translations/ephesians_02.json` | 22 | `53724785255dd4db63eb65b73968911ecb437277245fcf0b94d4478f7f188ad4` | `—` |
+| `output/translations/ephesians_01.json` | 23 | `25b6b92e8fa22a1389d985ec795f3bfd27973de8e2847097f39929de798a3720` | `93fd9df` |
+| `output/translations/ephesians_02.json` | 22 | `53724785255dd4db63eb65b73968911ecb437277245fcf0b94d4478f7f188ad4` | `9ecdeec` |
+| `output/translations/ephesians_03.json` | 21 | `0b6542e76349f9fe987bced658a7a4f666d8a4d4192737c716db2c2e897ea711` | `—` |
 | `output/translations/galatians_01.json` | 24 | `035ddedcfa78dc62c0b92157bf4994621fc83013e47dddcd19e7c6dc72898a9b` | `7e99948` |
 | `output/translations/galatians_02.json` | 21 | `ef020b08541758508e9a1f2f037cacbe28d8a2ac6cb0f25e7dc1990b4b880083` | `cf6bd38` |
 | `output/translations/galatians_03.json` | 29 | `f801401758fdf4a581484ea509024725a3a4242acb42624cac27a998b6894fa4` | `fcff53c` |
