@@ -1,6 +1,6 @@
 # 1 ทิโมธี
 
-_1 Timothy — 2 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
+_1 Timothy — 3 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
 
 _This **plain edition** shows only the Thai translation — no commentary, no Greek, no English. Intended for Thai scholars and theological reviewers evaluating the translation on its own terms. For the annotated edition with contextual summaries (บริบท), see `output/reader/1timothy.md`. For the underlying Greek, English (BSB) reference, and translator decisions per verse, see the per-chapter review reports at `output/check_reports/1timothy_NN_review.md` or the source JSON at `output/translations/`._
 
@@ -50,6 +50,40 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 ---
 
+## บทที่ 2
+
+**1** ดังนั้น ข้าพเจ้ากำชับเป็นอันดับแรกว่า ให้มีการวิงวอน การอธิษฐาน การทูลขอแทนผู้อื่น และการขอบพระคุณ สำหรับทุกคน
+
+**2** สำหรับกษัตริย์ และสำหรับทุกคนที่อยู่ในตำแหน่งมีอำนาจ เพื่อพวกเราจะดำเนินชีวิตอย่างสงบและเงียบสงบ ด้วยความเคร่งในพระเจ้าและความสง่างามทุกประการ
+
+**3** การกระทำเช่นนี้เป็นสิ่งดีและเป็นที่ทรงยอมรับเฉพาะพระพักตร์ของพระเจ้าพระผู้ช่วยให้รอดของเรา
+
+**4** พระองค์ผู้ทรงประสงค์ให้ทุกคนได้รับความรอด และมาถึงความรู้แห่งความจริง
+
+**5** เพราะมีพระเจ้าเพียงองค์เดียว และมีคนกลางระหว่างพระเจ้ากับมนุษย์ก็ผู้เดียว คือพระเยซูคริสต์ผู้ทรงเป็นมนุษย์
+
+**6** ผู้ทรงสละพระองค์เองเป็นค่าไถ่เพื่อทุกคน เป็นพยานในเวลาอันสมควร
+
+**7** เพื่อการนี้เอง ข้าพเจ้าได้รับการแต่งตั้งให้เป็นผู้ประกาศและอัครทูต — ข้าพเจ้าพูดความจริง ข้าพเจ้าไม่ได้พูดเท็จ — และเป็นอาจารย์แห่งคนต่างชาติในเรื่องความเชื่อและความจริง
+
+**8** ดังนั้น ข้าพเจ้าจึงประสงค์ให้ผู้ชายทั้งหลายอธิษฐานในทุกสถานที่ โดยยกมืออันบริสุทธิ์ขึ้น โดยปราศจากความโกรธและการโต้เถียง
+
+**9** เช่นเดียวกัน ข้าพเจ้าประสงค์ให้สตรีทั้งหลายแต่งกายอย่างสุภาพเรียบร้อย ด้วยความถ่อมตนและความสำรวม ไม่ใช่ด้วยทรงผมที่ถักเป็นเปียอย่างหรูหรา ทองคำ ไข่มุก หรือเสื้อผ้าราคาแพง
+
+**10** แต่ด้วยการกระทำดี ตามที่เหมาะสมกับสตรีที่ประกาศตนว่ามีความเคารพยำเกรงพระเจ้า
+
+**11** ให้หญิงเรียนด้วยความสงบเงียบ และยอมเชื่อฟังอย่างเต็มที่
+
+**12** ข้าพเจ้าไม่อนุญาตให้หญิงสอน หรือใช้อำนาจเหนือชาย แต่ให้อยู่ในความสงบเงียบ
+
+**13** เพราะอาดัมถูกสร้างก่อน แล้วจึงเป็นเอวา
+
+**14** และอาดัมไม่ได้ถูกหลอกลวง แต่หญิงนั้นถูกหลอกลวงและตกอยู่ในการละเมิด
+
+**15** แต่นางจะได้รับความรอดผ่านการคลอดบุตร ถ้าพวกเขาดำรงอยู่ในความเชื่อ ความรัก และความบริสุทธิ์พร้อมด้วยความสำรวม
+
+---
+
 ## บทที่ 3
 
 **1** ถ้อยคำนี้เชื่อถือได้ คือ ถ้าผู้ใดมุ่งหวังตำแหน่งผู้ปกครองดูแล เขาก็ปรารถนางานอันดี
@@ -93,5 +127,6 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | Chapter file | SHA-256 |
 |---|---|
 | `output/translations/1timothy_01.json` | `c7c6fcf59f1ef51bc256c7ef4b3f626e197cea6ca0491e818ff9b889f8a4a490` |
+| `output/translations/1timothy_02.json` | `f04869dbc67b65863d9d410988e18bba05e686bdf4d223d472ff4373b3aa3d38` |
 | `output/translations/1timothy_03.json` | `53c0e7becdd329cd61c2322e3fe86ddba55536b4f09f04edeb0bcde83568973b` |
 
