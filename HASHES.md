@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-05-02 12:30:03 UTC_
-_Total chapters: 190 · Total verses: 6519_
+_Generated: 2026-05-02 13:04:11 UTC_
+_Total chapters: 191 · Total verses: 6552_
 
 ## How to verify a chapter
 
@@ -92,7 +92,8 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/ephesians_01.json` | 23 | `25b6b92e8fa22a1389d985ec795f3bfd27973de8e2847097f39929de798a3720` | `93fd9df` |
 | `output/translations/ephesians_02.json` | 22 | `53724785255dd4db63eb65b73968911ecb437277245fcf0b94d4478f7f188ad4` | `9ecdeec` |
 | `output/translations/ephesians_03.json` | 21 | `0b6542e76349f9fe987bced658a7a4f666d8a4d4192737c716db2c2e897ea711` | `f644854` |
-| `output/translations/ephesians_04.json` | 32 | `d92a86a8a77bc664eb9daad7ad531a32cc0bf2a4a57181988793cea7fc6411d3` | `—` |
+| `output/translations/ephesians_04.json` | 32 | `d92a86a8a77bc664eb9daad7ad531a32cc0bf2a4a57181988793cea7fc6411d3` | `976a826` |
+| `output/translations/ephesians_05.json` | 33 | `0da53c6cb03cb19f3d58a6320a548810c9b05998f9d36d396af33fc0cfaf3575` | `—` |
 | `output/translations/galatians_01.json` | 24 | `035ddedcfa78dc62c0b92157bf4994621fc83013e47dddcd19e7c6dc72898a9b` | `7e99948` |
 | `output/translations/galatians_02.json` | 21 | `ef020b08541758508e9a1f2f037cacbe28d8a2ac6cb0f25e7dc1990b4b880083` | `cf6bd38` |
 | `output/translations/galatians_03.json` | 29 | `f801401758fdf4a581484ea509024725a3a4242acb42624cac27a998b6894fa4` | `fcff53c` |
