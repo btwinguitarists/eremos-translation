@@ -98,7 +98,7 @@ GAL 6:2 used ธรรมบัญญัติ-of-Christ for the same νόμος
 **Forward implications:** 1 Cor 9:20–21 has the densest non-Romans νόμος cluster (`τοῖς ὑπὸ νόμον ὡς ὑπὸ νόμον... τοῖς ἀνόμοις ὡς ἄνομος... ἀλλ' **ἔννομος Χριστοῦ**`). Hebrews 7:12, 7:16, 8:10 contrast Mosaic vs new-covenant νόμος. The corpus needs a single locked policy.
 
 **Two questions:**
-1. Is the Romans two-rendering split (ธρρมบัญญัติ for Mosaic-Torah; กฎ for inner-principle / νόμος-of-X-Pauline-rhetorical) the right corpus default, OR should the GAL single-rendering (ธρρมบัญญัติ everywhere) be retroactively imposed on Romans? The tradeoff: two-rendering preserves Pauline argument-clarity (different things by different words) but loses Pauline-rhetorical-punning (one Greek word, multiple senses, same Thai word). Single-rendering preserves the punning but flattens the Romans 7-8 three-laws-doctrine.
+1. Is the Romans two-rendering split (ธรรมบัญญัติ for Mosaic-Torah; กฎ for inner-principle / νόμος-of-X-Pauline-rhetorical) the right corpus default, OR should the GAL single-rendering (ธรรมบัญญัติ everywhere) be retroactively imposed on Romans? The tradeoff: two-rendering preserves Pauline argument-clarity (different things by different words) but loses Pauline-rhetorical-punning (one Greek word, multiple senses, same Thai word). Single-rendering preserves the punning but flattens the Romans 7-8 three-laws-doctrine.
 2. If endorsing the Romans two-rendering split, should GAL 6:2 (ν. τοῦ Χριστοῦ) be revised from **ธรรมบัญญัติ** to **กฎ** to match the principle-of-Christ inner-norm sense? And should 1 Cor 9:21 (ἔννομος Χριστοῦ) follow the same principle? Critically: this needs a `docs/translator_decisions/nomos_pauline_2026-05.md` doc before 1 Corinthians 9 ships.
 
 ---
