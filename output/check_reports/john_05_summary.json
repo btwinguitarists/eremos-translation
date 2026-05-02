@@ -64,13 +64,6 @@
       "report": "phrase_consistency.md",
       "notes": "",
       "status": "clean"
-    },
-    {
-      "name": "External AI review (Gemini)",
-      "exit_code": 0,
-      "report": "john_05_external_review.md",
-      "notes": "informational only — review findings; do not auto-ship blockers",
-      "status": "clean"
     }
   ]
 }

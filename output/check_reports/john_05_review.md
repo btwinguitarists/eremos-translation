@@ -11,7 +11,6 @@
 | Claim consistency (hallucination) | ✅ clean | [claim_consistency_john_05.md](claim_consistency_john_05.md) |
 | Greek-field integrity | ✅ clean | [greek_field_integrity_john_05.md](greek_field_integrity_john_05.md) |
 | Phrase consistency (corpus-wide) | ✅ clean | [phrase_consistency.md](phrase_consistency.md) |
-| External AI review (Gemini) | ✅ clean | [john_05_external_review.md](john_05_external_review.md) |
 
 ## Ship criterion
 

@@ -443,7 +443,122 @@
           "rationale": "TEXTUAL-VARIANT: SBLGNT includes v.24; NA28 + many critical-text editions OMIT (treating as scribal-conflation from v.20b). Following SBLGNT per Eremos-policy. Closing-Pauline-grace-formula echoing v.20b."
         }
       ],
-      "notes": "TEXTUAL-VARIANT: NA28 omits v.24; SBLGNT includes. Following SBLGNT. The doxology of vv.25-27 (which appears at end-of-ch.14, 15, or 16 in different MSS) is OMITTED in SBLGNT — following SBLGNT, Romans ends here. The famous doxology (Rom 16:25-27 in TR/Byz) would be a Tier-2 textual-variant per RULES §5b — could be added to output/textual_variants/romans_16.json if needed. CLOSES BOOK OF ROMANS — final NT-major-Pauline letter for this Phase-3."
+      "notes": "Doxology vv.25-27 ADDED 2026-05-02 as Tier 3 large-block transmission (⟦…⟧) per RULES §5, parallel to Mark 16:9-20. See `docs/end_of_book/inclusion_variant_gap_2026-05-02.md` for the systemic remediation context. Original v.24 grace-formula text unchanged. TEXTUAL-VARIANT: NA28 omits v.24; SBLGNT includes. Following SBLGNT."
+    }
+  },
+  {
+    "reference": "Romans 16:25",
+    "chapter": 16,
+    "verse": 25,
+    "greek": "Τῷ δὲ δυναμένῳ ὑμᾶς στηρίξαι κατὰ τὸ εὐαγγέλιόν μου καὶ τὸ κήρυγμα Ἰησοῦ Χριστοῦ, κατὰ ἀποκάλυψιν μυστηρίου χρόνοις αἰωνίοις σεσιγημένου,",
+    "bsb_english": "Now to Him who is able to strengthen you by my gospel and by the proclamation of Jesus Christ, according to the revelation of the mystery hidden for ages past",
+    "translation": {
+      "thai": "⟦บัดนี้ ขอถวายพระเกียรติแด่พระองค์ผู้ทรงสามารถทำให้พวกท่านตั้งมั่นคง ตามข่าวประเสริฐของข้าพเจ้าและการประกาศเรื่องพระเยซูคริสต์ ตามการเปิดเผยความล้ำลึกซึ่งทรงเก็บงำไว้เป็นเวลายาวนานหลายยุค",
+      "thai_literal": null,
+      "thai_summary": "ข้อ 16:25-27 เป็น ‘คำสรรเสริญปิดท้าย’ (doxology) ของจดหมายโรม ซึ่งเป็นข้อโต้แย้งทางต้นฉบับที่สำคัญที่สุดข้อหนึ่งในพันธสัญญาใหม่ — มีหลักฐานว่าข้อความนี้ ‘ลอยที่อยู่’ (floating placement) ในต้นฉบับโบราณ: ใน 𝔓⁴⁶ (ราว ค.ศ. 200 — ต้นฉบับเก่าแก่ที่สุดของจดหมายเปาโล) ปรากฏที่ท้ายบทที่ 15 ในต้นฉบับ Byzantine กลุ่มย่อย (L Ψ 0209 1881 และพยานอื่น ๆ) ปรากฏที่ท้ายบทที่ 14 ในต้นฉบับส่วนใหญ่ (Byzantine majority, ℵ, B, C, D, 81, 1739) ปรากฏที่ท้ายบทที่ 16 — ตำแหน่งที่ใช้ในฉบับนี้ ในต้นฉบับ F และ G ขาดหายไปทั้งหมด (เกี่ยวข้องกับฉบับมาร์ซีออน) (ก) นักวิชาการหลายท่านสันนิษฐานว่าเป็นการเพิ่มเติมโดยบรรณาธิการหลังยุคเปาโล ที่อาจรวบรวมจดหมายของเปาโลเข้าด้วยกัน — แต่อย่างไรก็ตาม คำสรรเสริญนี้รักษาวาทศิลป์แบบเปาโลไว้อย่างชัดเจน โดยเฉพาะการกลับมาใช้วลี ‘การเชื่อฟังที่มาจากความเชื่อ ในบรรดาประชาชาติทั้งปวง’ (โรม 1:5) เป็นการล้อมกรอบ (inclusio) ระหว่างต้นและท้ายของจดหมาย (ข) Eremos รวมข้อ 25-27 ไว้ในเนื้อหาหลัก โดยใส่วงเล็บคู่ ⟦…⟧ ตามธรรมเนียมวิชาการ (ระดับชั้นที่ 3 ตาม RULES §5 ขนานกับมาระโก 16:9-20) แม้ว่า SBLGNT และ NA28 จะไม่พิมพ์ข้อนี้ในเนื้อหาหลัก (มีเพียงในเครื่องมือทางวิชาการ apparatus) เพราะการละข้อนี้ออกจะทำให้ผู้อ่านไทยที่คาดหวังคำสรรเสริญปิดท้ายนี้ตามฉบับ THSV/THKJV ตกใจมากกว่าการรวมไว้พร้อมหมายเหตุที่ซื่อสัตย์ — ดังที่ฉบับวิจารณ์ภาษาอังกฤษกระแสหลัก (BSB, ESV, NIV) ทำกับ มาระโก 16:9-20",
+      "key_decisions": [
+        {
+          "greek": "⟦ ⟧",
+          "thai": "⟦ ⟧",
+          "rationale": "DOUBLE-BRACKETS = scholarly-convention (NA28/UBS5/SBLGNT-apparatus) for transmitted-but-textually-doubtful large-blocks. Applied to all of vv.25-27 in our rendering, parallel to Mark 16:9-20 treatment. ⟦ opens at start of v.25; ⟧ closes at end of v.27. Tier 3 per RULES §5."
+        },
+        {
+          "greek": "τῷ δὲ δυναμένῳ ὑμᾶς στηρίξαι",
+          "thai": "ขอถวายพระเกียรติแด่พระองค์ผู้ทรงสามารถทำให้พวกท่านตั้งมั่นคง",
+          "rationale": "Articular-participle dative 'to-the-One-who-is-able-to-strengthen-you' — opens the doxology with the usual Pauline dative-of-recipient pattern (cf Eph 3:20 τῷ δὲ δυναμένῳ ὑπὲρ πάντα ποιῆσαι). The construction is left-suspended through v.27 where 'to-the-only-wise-God…be-glory' finally closes the syntax. Thai uses royal register (ทรงสามารถ) for the divine subject and adds an explicit 'ขอถวายพระเกียรติแด่พระองค์' at the head to make the suspended dative feel natural in Thai (the Greek nests the 'glory' verb until v.27)."
+        },
+        {
+          "greek": "τὸ εὐαγγέλιόν μου καὶ τὸ κήρυγμα Ἰησοῦ Χριστοῦ",
+          "thai": "ข่าวประเสริฐของข้าพเจ้าและการประกาศเรื่องพระเยซูคริสต์",
+          "rationale": "Pauline-pair: 'my gospel' + 'the proclamation of/about Jesus Christ.' τὸ κήρυγμα = the act-or-content of proclamation; the genitive Ἰησοῦ Χριστοῦ likely-objective (= preaching ABOUT Christ — cf 1 Cor 1:23 κηρύσσομεν Χριστόν). Thai 'ข่าวประเสริฐ' glossary-lock for εὐαγγέλιον; 'การประกาศ' for κήρυγμα; 'เรื่อง' marks the objective-genitive sense."
+        },
+        {
+          "greek": "κατὰ ἀποκάλυψιν μυστηρίου",
+          "thai": "ตามการเปิดเผยความล้ำลึก",
+          "rationale": "PAULINE TECHNICAL TERMS. ἀποκάλυψις 'revelation, unveiling' → การเปิดเผย (corpus lock). μυστήριον = the Pauline 'mystery' — God's hidden plan now unveiled in Christ (cf Eph 3:3-9, Col 1:26-27, 1 Cor 2:7). Thai 'ความล้ำลึก' preserves the technical-sense: not 'mystery' as a riddle, but a previously-hidden divine plan. Avoid 'ความลับ' (= mere secret) — too thin theologically."
+        },
+        {
+          "greek": "χρόνοις αἰωνίοις σεσιγημένου",
+          "thai": "ซึ่งทรงเก็บงำไว้เป็นเวลายาวนานหลายยุค",
+          "rationale": "σεσιγημένου = perfect-passive-participle of σιγάω 'kept-silent / hushed.' The perfect-passive points to a divine-passive (God-as-the-silencer) and a state-of-silence-now-broken in v.26's φανερωθέντος. χρόνοις αἰωνίοις dative-of-time 'for-eternal-times / for-ages-past.' Thai 'ทรงเก็บงำไว้' uses royal-register (the divine-agent is implicit) and 'หลายยุค' for the long-eternal-stretch."
+        }
+      ],
+      "notes": "TIER 3 large-block per RULES §5 (parallel to Mark 16:9-20). Doxology vv.25-27. FLOATING-PLACEMENT EVIDENCE: 𝔓⁴⁶ (ca. AD 200, the oldest surviving Pauline-corpus papyrus) places vv.25-27 at the END OF CH.15; a Byzantine sub-tradition (L Ψ 0209^vid 1881 + Byz-sub) places them at the END OF CH.14; the majority of witnesses (Byz-majority, ℵ, B, C, D, 81, 1739, latt-most, sy^p, sy^h, sa, bo) place them at the end of ch.16 (the position printed here); F and G omit entirely (likely transmission of Marcion's truncated Apostolikon, where Romans circulated as ch.1-14 without doxology). Critical-edition treatment: SBLGNT and NA28 print in apparatus only, not main text; KJV/THKJV/BSB/NIV/ESV/CSB/NASB all include in main text at end of ch.16 — Eremos follows the include-in-main-text-with-⟦⟧ convention to surface contested status while honoring reader-expectation (RULES §5 Tier 3 reader-trust rationale). THREE THEOLOGICAL MOTIFS to flag: (1) μυστήριον — Pauline-technical-term for the hidden-then-revealed divine plan in Christ (Eph 3:3-9, Col 1:26-27, 1 Cor 2:7, 1 Tim 3:16); rendered ความล้ำลึก, NOT ความลับ. (2) προφητικαὶ γραφαί (in v.26) — 'the writings of the prophets,' the OT prophetic corpus as the medium through which the once-silent mystery is now made known. (3) ὑπακοὴν πίστεως εἰς πάντα τὰ ἔθνη (in v.26) — bookend with Rom 1:5; SAME Thai phrasing required (การเชื่อฟังที่มาจากความเชื่อ / บรรดาประชาชาติทั้งปวง). CROSS-REFERENCES: Eph 3:20-21 (τῷ δὲ δυναμένῳ doxology-formula), 1 Tim 1:17 (μόνῳ θεῷ doxology-formula), Eph 3:3-9 + Col 1:26-27 (μυστήριον unveiled), Rom 1:5 (the ὑπακοὴ πίστεως / πάντα τὰ ἔθνη bookend). RHETORICAL STRUCTURE: even if post-Pauline editorially, the doxology-composer preserved the ch.1 thesis-statement vocabulary, framing the letter as an inclusio. WITNESSES SUMMARY: Include in main text — Byz-majority, ℵ, B, C, D, 81, 1739, latt-most, sy^p, sy^h, sa, bo, KJV, THKJV, BSB, NIV, ESV, CSB, NASB. Float to end of ch.14 — L, Ψ, 0209^vid, 1881, Byz-sub. Float to end of ch.15 — 𝔓⁴⁶, 1506, sa-mss. Omit entirely — F, G (Marcionite transmission tradition). Glossary: μυστήριον → ความล้ำลึก; ἀποκάλυψις → การเปิดเผย; κήρυγμα → การประกาศ; στηρίζω → ทำให้ตั้งมั่นคง; σιγάω (perf-pass) → ทรงเก็บงำไว้."
+    }
+  },
+  {
+    "reference": "Romans 16:26",
+    "chapter": 16,
+    "verse": 26,
+    "greek": "φανερωθέντος δὲ νῦν διά τε γραφῶν προφητικῶν κατ᾽ ἐπιταγὴν τοῦ αἰωνίου θεοῦ εἰς ὑπακοὴν πίστεως εἰς πάντα τὰ ἔθνη γνωρισθέντος,",
+    "bsb_english": "but now revealed and made known through the writings of the prophets by the command of the eternal God, in order to lead all nations to the obedience that comes from faith—",
+    "translation": {
+      "thai": "แต่บัดนี้ทรงสำแดงให้ปรากฏแล้วผ่านพระคัมภีร์ของผู้เผยพระวจนะ ตามพระบัญชาของพระเจ้าผู้ทรงพระชนม์อยู่ตลอดไป เพื่อก่อให้เกิดการเชื่อฟังที่มาจากความเชื่อในบรรดาประชาชาติทั้งปวง ทรงทำให้เป็นที่รู้จัก",
+      "thai_literal": null,
+      "thai_summary": "ข้อ 26 มีวลีที่สำคัญที่สุดของคำสรรเสริญปิดท้าย — ‘เพื่อก่อให้เกิดการเชื่อฟังที่มาจากความเชื่อในบรรดาประชาชาติทั้งปวง’ (ὑπακοὴν πίστεως εἰς πάντα τὰ ἔθνη) — เป็นการสะท้อนกลับไปยังโรม 1:5 อย่างชัดเจน ทำให้จดหมายโรมทั้งฉบับมีโครงสร้างแบบล้อมกรอบ (inclusio): เปิดด้วยวลีนี้ และปิดด้วยวลีเดียวกัน ฉบับ Eremos ใช้สำนวนเดียวกันที่ใช้ใน 1:5 ทุกประการเพื่อรักษาเสียงสะท้อนทางวาทศิลป์นี้ไว้",
+      "key_decisions": [
+        {
+          "greek": "φανερωθέντος δὲ νῦν",
+          "thai": "แต่บัดนี้ทรงสำแดงให้ปรากฏแล้ว",
+          "rationale": "Aorist-passive-participle of φανερόω 'was-made-manifest / revealed.' The perfect σεσιγημένου of v.25 (kept-silent-and-still-silent) is broken by νῦν φανερωθέντος (now-made-manifest) — the rhetorical-pivot of the doxology. Thai 'ทรงสำแดงให้ปรากฏ' uses royal register and matches Pauline 'revealed/manifest' vocabulary. 'แล้ว' marks the perfective-aspect."
+        },
+        {
+          "greek": "διά τε γραφῶν προφητικῶν",
+          "thai": "ผ่านพระคัมภีร์ของผู้เผยพระวจนะ",
+          "rationale": "γραφαὶ προφητικαί = 'prophetic writings' — the OT prophetic corpus as the medium of revelation (cf 2 Pet 1:19-21). Thai 'พระคัมภีร์ของผู้เผยพระวจนะ' glossary-lock — preserves the OT-prophetic-corpus sense. NOT just 'prophetic-words' in the abstract — the genitive marks 'writings authored-by/originating-from prophets.'"
+        },
+        {
+          "greek": "κατ᾽ ἐπιταγὴν τοῦ αἰωνίου θεοῦ",
+          "thai": "ตามพระบัญชาของพระเจ้าผู้ทรงพระชนม์อยู่ตลอดไป",
+          "rationale": "ἐπιταγή 'command, ordinance' — Pauline-vocabulary for divine-imperative (1 Tim 1:1, Tit 1:3). αἰώνιος 'eternal' here qualifies 'God' — a hapax-collocation in NT (only here does Paul write 'the eternal God,' though cf Rom 1:20 ἀΐδιος δύναμις). Thai 'พระบัญชา' for ἐπιταγή (royal-register: it's God's command); 'ผู้ทรงพระชนม์อยู่ตลอดไป' for τοῦ αἰωνίου θεοῦ — the living-eternal-God formula familiar in Thai Christian vocabulary."
+        },
+        {
+          "greek": "εἰς ὑπακοὴν πίστεως εἰς πάντα τὰ ἔθνη",
+          "thai": "เพื่อก่อให้เกิดการเชื่อฟังที่มาจากความเชื่อในบรรดาประชาชาติทั้งปวง",
+          "rationale": "BOOKEND WITH ROMANS 1:5 — the most important rhetorical-feature of the doxology. Same Pauline-formula opens (1:5) and closes (16:26) the letter, forming a structural-inclusio. RULES-mandated: reuse exact 1:5 phrasing. Path-A: 'obedience-from-faith' (genitive-of-source) — evangelical-Protestant default per RULES §0. Same as 1:5: 'การเชื่อฟังที่มาจากความเชื่อ' + 'บรรดาประชาชาติทั้งปวง.' Note: 16:26 has εἰς πάντα τὰ ἔθνη (accusative); 1:5 has ἐν πᾶσιν τοῖς ἔθνεσιν (dative) — semantically-overlapping ('to/among all the nations'); Thai 'ในบรรดาประชาชาติทั้งปวง' covers both."
+        },
+        {
+          "greek": "γνωρισθέντος",
+          "thai": "ทรงทำให้เป็นที่รู้จัก",
+          "rationale": "Aorist-passive-participle of γνωρίζω 'was-made-known' — paired with φανερωθέντος earlier (revealed-and-made-known). Pauline μυστήριον-vocabulary cluster (Eph 3:3, 5, 10; Col 1:27 — μυστήριον is regularly the object of γνωρίζω). Thai 'ทรงทำให้เป็นที่รู้จัก' uses royal-register; placement at end of verse mirrors Greek word-order (the participle hangs at the end of the long sentence, syntactically modifying μυστηρίου back in v.25)."
+        }
+      ],
+      "notes": "Middle-verse of the Tier 3 ⟦…⟧ block — no bracket markers in this verse. INCLUSIO with Rom 1:5: ὑπακοὴν πίστεως εἰς πάντα τὰ ἔθνη — REUSE the EXACT Thai phrasing from 1:5 'การเชื่อฟังที่มาจากความเชื่อ / บรรดาประชาชาติทั้งปวง' for rhetorical consistency. The doxology editor (whether Paul himself in a final-edit or a later-canonical-collector) preserved Paul's ch.1 thesis-vocabulary as the letter's closing-frame. προφητικαὶ γραφαί = 'the writings of the prophets' = the OT prophetic-corpus as the now-fulfilled medium of the once-hidden mystery (cf Lk 24:27, 44; Acts 3:18, 24; 26:22-23; 1 Pet 1:10-12 — the canonical pattern of 'mystery-hidden-now-revealed-via-prophetic-Scripture'). The construction is a long Greek genitive-absolute string syntactically modifying μυστηρίου back in v.25; Thai breaks the chain into clauses for readability while preserving the conceptual unity. Glossary: φανερόω → สำแดงให้ปรากฏ; γνωρίζω → ทำให้เป็นที่รู้จัก; ἐπιταγή → พระบัญชา; γραφαὶ προφητικαί → พระคัมภีร์ของผู้เผยพระวจนะ; αἰώνιος θεός → พระเจ้าผู้ทรงพระชนม์อยู่ตลอดไป."
+    }
+  },
+  {
+    "reference": "Romans 16:27",
+    "chapter": 16,
+    "verse": 27,
+    "greek": "μόνῳ σοφῷ θεῷ, διὰ Ἰησοῦ Χριστοῦ, ᾧ ἡ δόξα εἰς τοὺς αἰῶνας τῶν αἰώνων· ἀμήν.",
+    "bsb_english": "to the only wise God be glory forever through Jesus Christ! Amen.",
+    "translation": {
+      "thai": "แด่พระเจ้าผู้ทรงปรีชาญาณแต่ผู้เดียว โดยทางพระเยซูคริสต์ ขอพระเกียรติจงมีแด่พระองค์สืบ ๆ ไปเป็นนิตย์ อาเมน⟧",
+      "thai_literal": null,
+      "thai_summary": "ข้อ 27 ปิดคำสรรเสริญด้วยสูตรปิดท้ายแบบเปาโลที่คุ้นเคย — ‘แด่พระเจ้า…ขอพระเกียรติจงมีแด่พระองค์สืบ ๆ ไปเป็นนิตย์ อาเมน’ — ขนานกับ 1 ทิโมธี 1:17 (‘แด่พระมหากษัตริย์ผู้ทรงพระชนม์อยู่เป็นนิตย์ พระเจ้าองค์เดียวผู้ทรงปรีชาญาณ ขอพระเกียรติและศักดิ์ศรีจงมีแด่พระองค์ตลอดไป’) และเอเฟซัส 3:21 (‘ขอพระเกียรติจงมีแด่พระองค์ในคริสตจักรและในพระเยซูคริสต์ ตลอดทุกชั่วอายุคนสืบ ๆ ไปเป็นนิตย์ อาเมน’) วลี ‘โดยทางพระเยซูคริสต์’ เป็นเอกลักษณ์ของคำสรรเสริญนี้ — ทำให้คริสตวิทยาแบบเปาโลปรากฏชัดเจน คือไม่มีการถวายพระเกียรติแด่พระบิดาที่ไม่ผ่านพระบุตร — และเป็นเครื่องหมายปิดท้ายของคำสรรเสริญ Tier 3 ทั้งหมด ⟦…⟧",
+      "key_decisions": [
+        {
+          "greek": "μόνῳ σοφῷ θεῷ",
+          "thai": "แด่พระเจ้าผู้ทรงปรีชาญาณแต่ผู้เดียว",
+          "rationale": "'To-the-only-wise-God' — dative-of-recipient (the long-suspended dative finally lands here from v.25's τῷ δυναμένῳ). σοφός 'wise' here is divine-attribute (cf 1 Tim 1:17 μόνῳ θεῷ — variant in some MSS adds σοφῷ; here the wise-emphasis is firmly in TR/Byz). μόνος 'only' = monotheistic-emphasis (cf 1 Tim 6:15-16). Thai 'ผู้ทรงปรีชาญาณ' uses royal-register; 'แต่ผู้เดียว' for μόνῳ — the only-God formula familiar in Thai Christian vocabulary."
+        },
+        {
+          "greek": "διὰ Ἰησοῦ Χριστοῦ",
+          "thai": "โดยทางพระเยซูคริสต์",
+          "rationale": "'Through Jesus Christ' — the Christological-mediation that makes this an emphatically-Christian doxology rather than a generic-monotheistic one. Pauline-pattern: glory-to-the-Father is mediated-through-the-Son (Rom 5:1-2, 5:11, Eph 5:20). Thai 'โดยทาง' for διά + genitive (= mediator/instrument)."
+        },
+        {
+          "greek": "ᾧ ἡ δόξα εἰς τοὺς αἰῶνας τῶν αἰώνων",
+          "thai": "ขอพระเกียรติจงมีแด่พระองค์สืบ ๆ ไปเป็นนิตย์",
+          "rationale": "Standard Pauline-doxological-formula: 'to-whom (be) the glory unto the ages of the ages.' Verbless-Greek-construction (no copula); typical Hebrew-influenced acclamation. εἰς τοὺς αἰῶνας τῶν αἰώνων = forever-and-ever (LXX-flavored hyper-superlative). Thai 'สืบ ๆ ไปเป็นนิตย์' matches eremos-corpus eternity-formula (cf Gal 1:5, Phil 4:20, Eph 3:21 in our existing translations). Note: the antecedent of ᾧ is grammatically-ambiguous — refers either to 'the only wise God' or 'Jesus Christ' — the most-natural reading is the former (God), which Thai preserves ('แด่พระองค์' = to-Him, with God-as-implicit-antecedent given the broader-doxology structure)."
+        },
+        {
+          "greek": "ἀμήν",
+          "thai": "อาเมน",
+          "rationale": "Standard Pauline-doxological-close. Glossary-lock: ἀμήν → อาเมน. Closes the ⟦…⟧ Tier 3 block — the closing ⟧ bracket follows immediately after the Thai 'อาเมน.'"
+        }
+      ],
+      "notes": "FINAL VERSE OF THE BOOK OF ROMANS — closes the Tier 3 ⟦…⟧ block with the ⟧ at the very end of the Thai field. Doxology-formula parallel to 1 Tim 1:17 (μόνῳ θεῷ ... ᾧ ἡ τιμὴ καὶ ἡ δόξα εἰς τοὺς αἰῶνας τῶν αἰώνων), Eph 3:21 (αὐτῷ ἡ δόξα ... εἰς πάσας τὰς γενεὰς τοῦ αἰῶνος τῶν αἰώνων), Phil 4:20, Gal 1:5. The διὰ Ἰησοῦ Χριστοῦ phrase is the doxology's most distinctive feature — Christological-mediation embedded in the closing-praise. ANTECEDENT-AMBIGUITY of ᾧ: grammatically could attach to either θεῷ (the only-wise-God — the more-natural reading per most commentators) or to Ἰησοῦ Χριστοῦ (a minority-reading possible because of the immediate-proximity); both readings are doxologically-orthodox in Pauline thought. Eremos follows the majority-reading (antecedent = God) and renders 'แด่พระองค์' (to-Him) which preserves the same-ambiguity in Thai. CLOSES BOOK OF ROMANS — final verse of the major-Pauline-letter, final verse of the Pauline-corpus's heart-letter. Glossary: μόνῳ σοφῷ θεῷ → พระเจ้าผู้ทรงปรีชาญาณแต่ผู้เดียว; εἰς τοὺς αἰῶνας τῶν αἰώνων → สืบ ๆ ไปเป็นนิตย์; ἀμήν → อาเมน."
     }
   }
 ]

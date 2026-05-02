@@ -64,13 +64,6 @@
       "report": "phrase_consistency.md",
       "notes": "",
       "status": "clean"
-    },
-    {
-      "name": "External AI review (Gemini)",
-      "exit_code": 0,
-      "report": "(error)",
-      "notes": "Gemini call failed (exit=1):     \"status\": \"UNAVAILABLE\" |   } | }",
-      "status": "clean"
     }
   ]
 }

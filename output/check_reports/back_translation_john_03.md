@@ -11,7 +11,7 @@ Mode: in-chat (Claude-produced back-translations) | Threshold: 0.35
 ## ℹ Low similarity — rationale documented (intentional divergence)
 
 - **John 3:9** (sim=0.30)
-  - Thai: นิโคเดมัสทูลตอบพระองค์ว่า «สิ่งเหล่านี้จะเป็นไปได้อย่างไร»
+  - Thai: นิโคเดมัสทูลตอบพระองค์ว่า “สิ่งเหล่านี้จะเป็นไปได้อย่างไร”
   - Back: Nicodemus answered him, "How can these things be possible?"
   - BSB:  “How can this be?” Nicodemus asked.
 
