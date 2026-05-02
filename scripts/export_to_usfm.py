@@ -122,10 +122,21 @@ def emit_chapter(code: str, chapter: int, slug: str) -> list[str]:
     if tv_path.exists():
         variants = json.loads(tv_path.read_text(encoding="utf-8"))
         absent_verses = [v for v in variants if v.get("type") == "inclusion_variant_absent"]
-        if absent_verses:
+        # Skip pending-pipeline-translation stubs (entries that have structural
+        # metadata — Greek, witnesses — but whose Thai fields are awaiting
+        # backfill via the pipeline). See docs/end_of_book/backfill_workorder_2026-05-02.md
+        complete_verses = [v for v in absent_verses if not v.get("_pending_pipeline_translation")]
+        pending_verses = [v for v in absent_verses if v.get("_pending_pipeline_translation")]
+        for pv in pending_verses:
+            print(
+                f"  [WARN] {slug}_{chapter:02d}.SFM: skipping Tier 2 stub for v.{pv.get('verse')} — "
+                f"awaiting pipeline backfill (see backfill_workorder_2026-05-02.md)",
+                file=sys.stderr,
+            )
+        if complete_verses:
             lines.append("")
             lines.append("\\rem หมายเหตุด้านต้นฉบับ")
-            for av in absent_verses:
+            for av in complete_verses:
                 verse_num = av["verse"]
                 tr_thai = av.get("tr_byz_thai", "")
                 expl = av.get("explanation_thai", "")

@@ -176,9 +176,11 @@ Currently:
 
 **Not in scope** (handled elsewhere):
 - Word-choice variants (we picked word A, mainstream picked word B) — go in `thai_summary` only.
-- Variants where modern critical-text consensus matches our practice (e.g., Mark 7:16, 9:44, 9:46) — silent omission with no surprise to mainstream readers; no special treatment needed.
+- Variants where modern critical-text consensus matches our practice — silent omission with no surprise to mainstream readers; no special treatment needed. Explicit list (extended 2026-05-02): Mark 7:16, 9:44, 9:46, 11:26, 15:28; Luke 17:36. Each post-2026-05-02 case has a dismissal doc at `output/textual_variants/_resolved/<slug>_<NN>_v<V>.md` recording the manuscript witnesses and the reasoning.
 
 **For future books:** run `scripts/audit_inclusion_variants.py` to surface candidate verses; assign each to the correct tier based on (a) phrase vs. whole-verse vs. large-block, (b) manuscript weight, (c) what THSV/THKJV/mainstream Thai Bibles do.
+
+**End-of-book strict gate (added 2026-05-02):** `scripts/run_end_of_book_audit.sh` runs `audit_inclusion_variants.py --book <slug> --strict` before generating the audit prompt for Claude. The gate exits non-zero if any candidate lacks a disposition (Tier 1 / Tier 2 / Tier 3 / silent-omission per RULES §5 / `_resolved/` doc). This was added after Romans 16:25-27 (the doxology) and John 5:4 (Bethesda angel) were silently dropped without follow-through; full incident write-up at `docs/end_of_book/inclusion_variant_gap_2026-05-02.md`. Override via environment variable `SKIP_INCLUSION_VARIANT_GATE=1` only for an explicit policy decision.
 
 #### Luke 24 Western non-interpolations (documentation, 2026-04-23)
 
