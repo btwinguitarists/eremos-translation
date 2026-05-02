@@ -1,6 +1,6 @@
 # 1 ทิโมธี
 
-_1 Timothy — 3 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
+_1 Timothy — 4 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
 
 _This **plain edition** shows only the Thai translation — no commentary, no Greek, no English. Intended for Thai scholars and theological reviewers evaluating the translation on its own terms. For the annotated edition with contextual summaries (บริบท), see `output/reader/1timothy.md`. For the underlying Greek, English (BSB) reference, and translator decisions per verse, see the per-chapter review reports at `output/check_reports/1timothy_NN_review.md` or the source JSON at `output/translations/`._
 
@@ -120,6 +120,42 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 ---
 
+## บทที่ 4
+
+**1** บัดนี้พระวิญญาณได้ตรัสไว้อย่างชัดเจนว่า ในยุคสุดท้าย บางคนจะละทิ้งความเชื่อ โดยหันไปสนใจวิญญาณที่หลอกลวงและคำสอนของพวกผีปีศาจ
+
+**2** ผ่านการเสแสร้งของพวกที่พูดเท็จ ผู้ซึ่งจิตสำนึกของตัวเองได้ถูกตีตราด้วยเหล็กร้อน
+
+**3** พวกเขาห้ามการแต่งงาน และให้ละเว้นจากอาหารบางชนิด — อาหารที่พระเจ้าทรงสร้างขึ้นเพื่อให้บรรดาผู้เชื่อและผู้ที่รู้ความจริงรับประทานด้วยการขอบพระคุณ
+
+**4** เพราะทุกสิ่งที่พระเจ้าทรงสร้างนั้นดี และไม่มีสิ่งใดที่ควรปฏิเสธหากรับด้วยการขอบพระคุณ
+
+**5** เพราะอาหารนั้นได้รับการชำระให้บริสุทธิ์โดยพระวจนะของพระเจ้าและการอธิษฐาน
+
+**6** ถ้าท่านชี้ให้พี่น้องเห็นสิ่งเหล่านี้ ท่านก็จะเป็นผู้รับใช้ที่ดีของพระเยซูคริสต์ ผู้ที่ได้รับการบำรุงเลี้ยงด้วยถ้อยคำแห่งความเชื่อและคำสอนอันถูกต้องที่ท่านได้ยึดถือมา
+
+**7** แต่จงปฏิเสธเรื่องเล่าที่หยามสิ่งศักดิ์สิทธิ์และเรื่องไร้สาระแบบหญิงชราเล่ากัน จงฝึกตัวเองในความเคร่งในพระเจ้า
+
+**8** เพราะการฝึกฝนกายมีประโยชน์เพียงเล็กน้อย แต่ความเคร่งในพระเจ้ามีประโยชน์ในทุกทาง โดยมีพระสัญญาทั้งสำหรับชีวิตปัจจุบันและชีวิตที่จะมาถึง
+
+**9** ถ้อยคำนี้เชื่อถือได้และสมควรแก่การยอมรับอย่างเต็มที่
+
+**10** เพราะเหตุนี้เองที่เราทำงานหนักและทุ่มเท เพราะเราได้วางใจในพระเจ้าผู้ทรงพระชนม์ ผู้ทรงเป็นพระผู้ช่วยให้รอดของทุกคน โดยเฉพาะอย่างยิ่งของผู้เชื่อ
+
+**11** จงกำชับและสอนสิ่งเหล่านี้
+
+**12** อย่าให้ผู้ใดดูหมิ่นความหนุ่มของท่าน แต่จงเป็นแบบอย่างสำหรับผู้เชื่อในคำพูด ในความประพฤติ ในความรัก ในความเชื่อ ในความบริสุทธิ์
+
+**13** จนกว่าข้าพเจ้าจะมา จงทุ่มเทตัวเองให้กับการอ่านพระคัมภีร์ในที่ประชุม การหนุนใจ และการสอน
+
+**14** อย่าละเลยของประทานที่อยู่ในตัวท่าน ซึ่งได้รับผ่านคำพยากรณ์พร้อมกับการวางมือของคณะผู้ปกครอง
+
+**15** จงใส่ใจสิ่งเหล่านี้ จงทุ่มเทอยู่กับสิ่งเหล่านี้ เพื่อความก้าวหน้าของท่านจะปรากฏแก่ทุกคน
+
+**16** จงดูแลตัวเองและคำสอนของท่านอย่างใกล้ชิด จงเพียรในสิ่งเหล่านี้ เพราะเมื่อทำเช่นนี้ ท่านจะช่วยทั้งตัวเองและผู้ที่ฟังท่านให้รอด
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -129,4 +165,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/1timothy_01.json` | `c7c6fcf59f1ef51bc256c7ef4b3f626e197cea6ca0491e818ff9b889f8a4a490` |
 | `output/translations/1timothy_02.json` | `f04869dbc67b65863d9d410988e18bba05e686bdf4d223d472ff4373b3aa3d38` |
 | `output/translations/1timothy_03.json` | `53c0e7becdd329cd61c2322e3fe86ddba55536b4f09f04edeb0bcde83568973b` |
+| `output/translations/1timothy_04.json` | `45591e3e3bfccc362d1b7118c1dcde3645285988048f5124fefae111ae3b8b77` |
 
