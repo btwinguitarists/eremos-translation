@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-05-02 09:33:57 UTC_
-_Total chapters: 183 · Total verses: 6355_
+_Generated: 2026-05-02 10:08:09 UTC_
+_Total chapters: 184 · Total verses: 6378_
 
 ## How to verify a chapter
 
@@ -85,7 +85,8 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/acts_26.json` | 32 | `1ae63260de53ad80123865b8f48cea9993a82f109eea08596efa2bdc6973975f` | `cf6bd38` |
 | `output/translations/acts_27.json` | 44 | `be14faca2501aee7d1e3520f98c50dfed3f2e6b1060e10cc7ab2d949856244fd` | `cf6bd38` |
 | `output/translations/acts_28.json` | 30 | `74c25c708450ef38a5562ead7c2cf4519ee735b7e6d23ed2230a8e12dc00ce76` | `cf6bd38` |
-| `output/translations/colossians_01.json` | 29 | `a4030d20e8d10deea1f4a08ecd14322d193dfb1fd6b74a31cc47a5bced121205` | `—` |
+| `output/translations/colossians_01.json` | 29 | `a4030d20e8d10deea1f4a08ecd14322d193dfb1fd6b74a31cc47a5bced121205` | `d8d4e76` |
+| `output/translations/colossians_02.json` | 23 | `3f2256da6863f944718b8bdd6dc0f345969e034a7082e1fb0540632187a97bed` | `—` |
 | `output/translations/galatians_01.json` | 24 | `035ddedcfa78dc62c0b92157bf4994621fc83013e47dddcd19e7c6dc72898a9b` | `7e99948` |
 | `output/translations/galatians_02.json` | 21 | `ef020b08541758508e9a1f2f037cacbe28d8a2ac6cb0f25e7dc1990b4b880083` | `cf6bd38` |
 | `output/translations/galatians_03.json` | 29 | `f801401758fdf4a581484ea509024725a3a4242acb42624cac27a998b6894fa4` | `fcff53c` |
