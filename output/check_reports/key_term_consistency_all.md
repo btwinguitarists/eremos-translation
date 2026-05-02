@@ -2,8 +2,8 @@
 
 - Rule violations: **0**
 - Undocumented multi-renderings: **0**
-- Documented multi-renderings: 465
-- Consistent single renderings: 15667
+- Documented multi-renderings: 466
+- Consistent single renderings: 15850
 
 ## ✅ Documented multi-renderings (contextual variance)
 
@@ -261,6 +261,7 @@
 - **ἀγαθοποιῆσαι ἢ κακοποιῆσαι** — ทำความดีหรือทำความชั่ว (1x), การทำดีหรือการทำชั่ว (1x)
 - **ἀδιαλείπτως** — อย่างไม่เคยขาด (1x), อย่างไม่หยุดยั้ง (1x)
 - **ἀκολουθείτω μοι** — ตามเรามา (2x), และตามเรามา (1x)
+- **ἀκριβῶς** — ดีอยู่แล้ว (1x), อย่างถี่ถ้วน (1x)
 - **ἀληθῶς** — แท้จริง (1x), จริงๆ (1x)
 - **ἀμὴν γὰρ λέγω ὑμῖν** — เราบอกพวกท่านตามจริงว่า (1x), เพราะเราบอกความจริงแก่พวกท่านว่า (1x), เราบอกความจริงแก่พวกท่านว่า (1x)
 - **ἀμὴν λέγω ὑμῖν** — เราบอกความจริงแก่พวกท่านว่า (11x), เราบอกความจริงแก่พวกท่าน (3x)
@@ -475,4 +476,4 @@
 
 ## ✅ Single-rendering lemmas
 
-15667 lemmas each translated consistently across every occurrence. See `glossary.json` for the full list.
+15850 lemmas each translated consistently across every occurrence. See `glossary.json` for the full list.
