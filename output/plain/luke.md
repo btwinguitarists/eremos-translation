@@ -40,7 +40,7 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **16** และเขาจะทำให้ชาวอิสราเอลจำนวนมากหันกลับมาหาองค์พระผู้เป็นเจ้าพระเจ้าของพวกเขา
 
-**17** เขาเองจะไปล่วงหน้าเฉพาะพระพักตร์พระองค์ด้วยพระวิญญาณและฤทธิ์เดชของเอลียาห์ เพื่อให้ใจของบรรพบุรุษหันกลับมาหาบุตรหลาน และให้คนที่ไม่เชื่อฟังหันกลับมาหาปัญญาของคนชอบธรรม เพื่อเตรียมประชากรกลุ่มหนึ่งให้พร้อมสรรพสำหรับองค์พระผู้เป็นเจ้า”
+**17** เขาเองจะไปล่วงหน้าเฉพาะพระพักตร์พระองค์ด้วยจิตวิญญาณและฤทธิ์เดชของเอลียาห์ เพื่อให้ใจของบรรพบุรุษหันกลับมาหาบุตรหลาน และให้คนที่ไม่เชื่อฟังหันกลับมาหาปัญญาของคนชอบธรรม เพื่อเตรียมประชากรกลุ่มหนึ่งให้พร้อมสรรพสำหรับองค์พระผู้เป็นเจ้า”
 
 **18** เศคาริยาห์กล่าวแก่ทูตสวรรค์ว่า “ข้าพเจ้าจะรู้ได้อย่างไรว่าเรื่องนี้เป็นจริง? เพราะข้าพเจ้าเองเป็นคนชรา และภรรยาของข้าพเจ้าก็อายุล่วงเข้าสู่วัยชราแล้ว”
 
@@ -364,19 +364,19 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **2** สี่สิบวัน ทรงถูกมารทดลอง ในวันเหล่านั้นพระองค์มิได้เสวยสิ่งใดเลย และเมื่อวันเหล่านั้นสิ้นสุดลง พระองค์ก็ทรงหิว
 
-**3** มารจึงทูลพระองค์ว่า “ถ้าท่านเป็นพระบุตรของพระเจ้า จงสั่งหินก้อนนี้ให้กลายเป็นขนมปัง”
+**3** มารจึงกล่าวกับพระองค์ว่า “ถ้าท่านเป็นพระบุตรของพระเจ้า จงสั่งหินก้อนนี้ให้กลายเป็นขนมปัง”
 
 **4** พระเยซูตรัสตอบเขาว่า “มีคำเขียนไว้ว่า ‘มนุษย์จะดำรงชีวิตด้วยขนมปังสิ่งเดียวหามิได้’”
 
 **5** แล้วมารนำพระองค์ขึ้นไปสู่ที่สูง และชี้ให้พระองค์ทอดพระเนตรอาณาจักรทั้งหลายในแผ่นดินโลกในชั่วขณะเดียว
 
-**6** แล้วมารทูลพระองค์ว่า “เราจะยกสิทธิอำนาจทั้งสิ้นและศักดิ์ศรีของอาณาจักรเหล่านี้ให้แก่ท่าน เพราะได้มอบไว้แก่เราแล้ว และเราจะยกให้ผู้ใดก็ได้ตามใจเรา
+**6** แล้วมารกล่าวกับพระองค์ว่า “เราจะยกสิทธิอำนาจทั้งสิ้นและศักดิ์ศรีของอาณาจักรเหล่านี้ให้แก่ท่าน เพราะได้มอบไว้แก่เราแล้ว และเราจะยกให้ผู้ใดก็ได้ตามใจเรา
 
 **7** ฉะนั้นถ้าท่านนมัสการต่อหน้าเรา ทั้งหมดนี้จะเป็นของท่าน”
 
 **8** พระเยซูตรัสตอบเขาว่า “มีคำเขียนไว้ว่า ‘เจ้าจงนมัสการองค์พระผู้เป็นเจ้าพระเจ้าของเจ้า และปรนนิบัติพระองค์แต่ผู้เดียว’”
 
-**9** แล้วมารนำพระองค์ไปยังกรุงเยรูซาเล็ม และให้พระองค์ประทับยืนอยู่บนยอดสุดของพระวิหาร แล้วทูลพระองค์ว่า “ถ้าท่านเป็นพระบุตรของพระเจ้า จงกระโดดจากที่นี่ลงไปเถิด
+**9** แล้วมารนำพระองค์ไปยังกรุงเยรูซาเล็ม และให้พระองค์ประทับยืนอยู่บนยอดสุดของพระวิหาร แล้วกล่าวกับพระองค์ว่า “ถ้าท่านเป็นพระบุตรของพระเจ้า จงกระโดดจากที่นี่ลงไปเถิด
 
 **10** เพราะมีคำเขียนไว้ว่า ‘พระองค์จะทรงบัญชาเหล่าทูตสวรรค์ของพระองค์เกี่ยวกับเจ้า ให้คอยปกป้องเจ้า
 
@@ -2421,28 +2421,28 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/luke_01.json` | `9657c5dc2a1c8cd7011dc699ee3e084d8f3d1380b649f5afbf2b0346250a9c5c` |
+| `output/translations/luke_01.json` | `69ceecef9eb92a4f8f94165520214feb6410f3477e0c960da749ab0905431fa4` |
 | `output/translations/luke_02.json` | `e50197772258e55fe3d51fecd922cfd83f9ab5ed2b2727d61038dfd9bdce5e03` |
 | `output/translations/luke_03.json` | `a783de0c4b34da34985a62445df9229241b8083fddffd79540c317a30999962a` |
-| `output/translations/luke_04.json` | `03ce284a4f04977ea896abe0e026d6e3e9b4219d01d56b24f69e687afe5a7f05` |
+| `output/translations/luke_04.json` | `7379810798ce3c7a1396595d45437915edd42de9ff55f0c9e506d5fd021becd1` |
 | `output/translations/luke_05.json` | `b91da001a794caf5dc19533eaf62a19e8d891868b1b80a67979e25ea17c828a0` |
-| `output/translations/luke_06.json` | `ea27bc590ee936a3141bdbc84bc381a5e5c14de97c34d1fd148eeccb15d5c9cc` |
-| `output/translations/luke_07.json` | `a44d72c84bbb1f509835d898c5e6c22fdf7a23e4e48db3e2fb15ff04c2c94982` |
+| `output/translations/luke_06.json` | `a6a0a604b4a3d72ce11cbc0780d031b4b156f28ebc2267cf28e04fa83bbddcac` |
+| `output/translations/luke_07.json` | `2722b3280aadfe067694a52acaf759f3d9a8e694eea55a1b51c0975d11f17a88` |
 | `output/translations/luke_08.json` | `995eedfb16984a5f2ebc23c37a8d01f09784cd2d723e27f9d12907d7d049d11e` |
 | `output/translations/luke_09.json` | `f96178ba512ccdaf530c0247f98b7ea905d9412698dbe1ca7da9fc34ce4bcbc6` |
 | `output/translations/luke_10.json` | `e9be28f99d26b36affbbe5ca55fcc0ba60cef55436424632ddd23d536f9de230` |
 | `output/translations/luke_11.json` | `57b0dba768c16f4f51979f5cba5e3f3eef8f42575945dc742a0c47eb151f95a2` |
 | `output/translations/luke_12.json` | `6f6576768832adee1e6757d382ee923868477abb98a3669c3f224ef1253f611c` |
 | `output/translations/luke_13.json` | `d7f67529882ab584feb83b322107d4ca0d9a4a6d1f9c79ed7b884a04f2e0a8a2` |
-| `output/translations/luke_14.json` | `8323a0bd34830931e8615fb980ada70618855fd355cd9098ba97c2e77af725e0` |
+| `output/translations/luke_14.json` | `a79599f93ff798171fad6169c8e2925496a705f6e9b0b0f90d4c5b0175b952c9` |
 | `output/translations/luke_15.json` | `1ee10398bdeff1d42c5b3cbae050767e1a468de6ec22bf4003702e70f1a2289f` |
 | `output/translations/luke_16.json` | `f0187f1e81b868c0074a7671c86e66cd01a1c05f03ababc802e93ad02683c98e` |
-| `output/translations/luke_17.json` | `adeb9d93f76bed84c9c2cf744991e0ae1ac4f794f10ecf3e5ce1ed3369d36276` |
+| `output/translations/luke_17.json` | `88b590ba2790a79883f22d9599611ace3292201a9f5b88c0f7a4677d7ae676e5` |
 | `output/translations/luke_18.json` | `3e029d2cafe349cebc10455825485348c4dfb1eccd499c5707691fb752695860` |
 | `output/translations/luke_19.json` | `48dfc44bb4a21d61689a016c6fd8ae1d2ca551c9baa0f3ad32ca62023407af23` |
-| `output/translations/luke_20.json` | `cbf453661b6cd2f4ac9d7cd9ed8ce363563c1df9701b4af790de3e2ff1bff71a` |
+| `output/translations/luke_20.json` | `6b8b82cab2de77fcb74820d8fd434c579fe1f20f343c4069d37c34801dd8e749` |
 | `output/translations/luke_21.json` | `6328a19fd417880b0865e2a854056d2cb37e9143829204eff7fc90b86e46f865` |
-| `output/translations/luke_22.json` | `bccd589bb3a68e8aea6465802caf4dbc294bc46988c1d375e9189063f29ea88c` |
+| `output/translations/luke_22.json` | `3489bf41626f6d8288dcc48363b1bacf61f8b1ae704b99c08e4463ab992d54cb` |
 | `output/translations/luke_23.json` | `4655e2079c5710806de8bff1af8307b7f097f4ee9c77cd69e99c65585a6ac5f8` |
-| `output/translations/luke_24.json` | `a030f9402500c815a15eb187576f9051f5c3e033e23f39315ce382739b3f6df1` |
+| `output/translations/luke_24.json` | `17aaa19b3e8bc3d00a2de60c2e1bb63cf08796f484679c0fbc9852ebc6ef82e7` |
 

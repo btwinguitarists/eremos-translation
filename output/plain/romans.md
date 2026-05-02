@@ -682,7 +682,7 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 ## บทที่ 12
 
-**1** เพราะฉะนั้น พี่น้องทั้งหลาย ข้าพเจ้าขอวิงวอนพวกท่าน โดยอาศัยพระเมตตาของพระเจ้า ให้พวกท่านมอบร่างกายของพวกท่านเป็นเครื่องบูชาที่มีชีวิต ที่บริสุทธิ์ ที่พอพระทัยพระเจ้า — นี่คือการปรนนิบัติบูชาตามความคิดของพวกท่าน
+**1** เพราะฉะนั้น พี่น้องทั้งหลาย ข้าพเจ้าขอวิงวอนพวกท่าน โดยอาศัยพระเมตตาของพระเจ้า ให้พวกท่านมอบร่างกายของพวกท่านเป็นเครื่องบูชาที่มีชีวิต ที่บริสุทธิ์ ที่พอพระทัยพระเจ้า — นี่คือการปรนนิบัติบูชาที่สมเหตุสมผลของพวกท่าน
 
 **2** และอย่าทำตนให้เหมือนกับยุคนี้ แต่จงรับการเปลี่ยนรูปโดยการที่จิตของพวกท่านได้รับการสร้างใหม่ — เพื่อพวกท่านจะได้พิสูจน์ทดสอบว่าอะไรคือพระประสงค์ของพระเจ้า — สิ่งที่ดี ที่พอพระทัย และสมบูรณ์
 
@@ -948,14 +948,14 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/romans_04.json` | `3964dfe9b6e742e6c814afa82e46575f571882825fa495545c7d762445d1ae46` |
 | `output/translations/romans_05.json` | `79b0261fd550e0b7c9b9a96803caa39092e3a9ac888ba089c22687bc462bd52c` |
 | `output/translations/romans_06.json` | `53733aa5bad47a955adac82a8a4026db557cefa449da09a6f0a934b8738e19c6` |
-| `output/translations/romans_07.json` | `be7845bfe1e59b0601dfd1c9b598aca94d4b86c8d5e6d04be9e336c99d5b28dd` |
-| `output/translations/romans_08.json` | `ef71499ddb146334d476ef9e6a6db3710082ef328b3b78660a8baa11a72aedd7` |
-| `output/translations/romans_09.json` | `790d02de81ec7cc4839032632aa50ee7d20af81c7be3832dadacd0f395ee2fc0` |
-| `output/translations/romans_10.json` | `df43aad56d6a372917be043bc53a1381cd3d5e29eba24a6d2e8bda11b3048f0c` |
-| `output/translations/romans_11.json` | `23f7bf66383a3244c75e938077a422e9873080f40b6a885f87e9d58052579fd0` |
-| `output/translations/romans_12.json` | `fc8152c23cfbf9886445400de6ed268bdbcf3e436769eb36bfefc5466c6741bb` |
-| `output/translations/romans_13.json` | `195af7bc575dbb08ddcdbcd4cefc6e18c7ca2300a847aa763e5655b9d7f3d970` |
-| `output/translations/romans_14.json` | `32f5257b056e4dcdcfa97e280f8a1ef398c0ce9e0463819f3d1d1a9b1756959b` |
-| `output/translations/romans_15.json` | `594dcaa8954094623acb284e189f393ea80c5e4c005bdbd29b6a26b7ae64290f` |
-| `output/translations/romans_16.json` | `0235014067b4063644a5bcc555deff9d9e3a389d7d478dffb444cf899f10bfbd` |
+| `output/translations/romans_07.json` | `500a53359ca1ac4f0f7dd63abd4f6b956cbc479f0377e240f8fa7df75b109928` |
+| `output/translations/romans_08.json` | `f2fcb435d8ede5d5aa58dfae1f4dc0de96954ca90418b177899a07fe8ed5bfd9` |
+| `output/translations/romans_09.json` | `0a6b74a7542a21bd4115be80e83997c183223912a5835c8dc9cae5d7a7ed03ed` |
+| `output/translations/romans_10.json` | `2abc4d3cab8a5a397333f00b2ed630f6cf25744235c95a65b268aa73ce1b2025` |
+| `output/translations/romans_11.json` | `8aaa028653229bf78be886cfc5e0f2289f3823f2ff26e8b7bd1ba525486054b7` |
+| `output/translations/romans_12.json` | `b2a70fd8c7d95a6f7eaddbc0c74880060c708718b3d2ac951ef24f8d9a0c88fb` |
+| `output/translations/romans_13.json` | `05474b88fa9c8fc9fb1bcd52d8a9b92b67350ea7bf3b5ae63428633df1824df9` |
+| `output/translations/romans_14.json` | `b0053855ef0eb4128c7831b5b2c9ef9e649dfb7b487185e6fa780c5fde1e2b80` |
+| `output/translations/romans_15.json` | `7f0d286423a90030edd9e123cd34c43b6f72da74846b7cd524541e314bffeb2d` |
+| `output/translations/romans_16.json` | `d6818f9bcd5e1caff3604f1e7852b42b063df2a18146bcf6f969ca9cfae71869` |
 

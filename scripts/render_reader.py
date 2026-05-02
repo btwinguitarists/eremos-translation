@@ -117,12 +117,16 @@ def render_chapter(verses: list[dict], chapter_num: int, variants: list[dict] | 
             lines.append("> ___")
         lines.append("")
 
-    # Path A inclusion-variant footer (per RULES §5 + docs/translator_decisions/
-    # inclusion_variants_absent_verses_2026-04.md). For each whole-verse
-    # inclusion variant absent from the SBLGNT base text, surface the TR/Byz
-    # Thai rendering + manuscript witnesses so readers cross-checking with
-    # THSV/THKJV can see what those traditions read instead of seeing a
-    # silent verse-number jump.
+    # Path A textual-variant footer. Two sub-types:
+    #   - inclusion_variant_absent (whole-verse omission per RULES §5 +
+    #     docs/translator_decisions/inclusion_variants_absent_verses_2026-04.md):
+    #     show TR/Byz Thai rendering + witnesses so readers cross-checking
+    #     with THSV/THKJV see what those traditions include where SBLGNT
+    #     omits the verse.
+    #   - reading_variant (word-substitution where verse is present in both
+    #     traditions but a key word differs, e.g. 1 Tim 3:16 Ὃς vs Θεός):
+    #     surface the Byzantine alternative reading so readers familiar with
+    #     KJV/THKJV understand why our text differs.
     if variants:
         lines.append("---")
         lines.append("")
@@ -130,15 +134,24 @@ def render_chapter(verses: list[dict], chapter_num: int, variants: list[dict] | 
         lines.append("")
         for var in variants:
             verse_num = var.get("verse")
-            tr_thai = var.get("tr_byz_thai", "")
+            vtype = var.get("type", "inclusion_variant_absent")
+            explanation = var.get("explanation_thai", "")
             include = var.get("witnesses_include", "")
             omit = var.get("witnesses_omit", "")
-            explanation = var.get("explanation_thai", "")
-            lines.append(f"**ข้อ {verse_num}** — ขาดในต้นฉบับวิจารณ์ (SBLGNT)")
-            lines.append("")
-            if tr_thai:
-                lines.append(f"> {tr_thai}")
+            if vtype == "reading_variant":
+                tr_thai_alt = var.get("tr_byz_thai_alt", "")
+                lines.append(f"**ข้อ {verse_num}** — การอ่านในต้นฉบับโบราณต่างกัน")
                 lines.append("")
+                if tr_thai_alt:
+                    lines.append(f"> {tr_thai_alt}")
+                    lines.append("")
+            else:
+                tr_thai = var.get("tr_byz_thai", "")
+                lines.append(f"**ข้อ {verse_num}** — ขาดในต้นฉบับวิจารณ์ (SBLGNT)")
+                lines.append("")
+                if tr_thai:
+                    lines.append(f"> {tr_thai}")
+                    lines.append("")
             if explanation:
                 lines.append(f"_{explanation}_")
                 lines.append("")

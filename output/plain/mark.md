@@ -1426,16 +1426,16 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/mark_02.json` | `45afef2077fbd15759b97fae3618333ed4c446110370b26ee5af98c246d145b0` |
 | `output/translations/mark_03.json` | `88fd54d1f808f9b77b2508a2fbb71edb8a7674b38962932363efc08628c647e8` |
 | `output/translations/mark_04.json` | `c06a13d9c066b46115f1d0dc0f570763a4c08e02f12b61a96e87c96f2c142039` |
-| `output/translations/mark_05.json` | `7d274f7db97b3190211187617a82492bed2fbb48f1bd0b2283713b0e72abea18` |
+| `output/translations/mark_05.json` | `38804b64c74a479adcb59a639c2339dd819cad35109813e4d591fb469d705996` |
 | `output/translations/mark_06.json` | `85e991788d38f28dab8733a19b870527466aa900db69e815561ce205ea75d6b4` |
 | `output/translations/mark_07.json` | `c474996c6a397755f163c54299b88ba3a6af220dd556ca95f4bf2f3c7f2d0533` |
 | `output/translations/mark_08.json` | `e90b3de7e2516a59145a87d291719cf3cffd91bdcd64189c35d64cbc4593074a` |
 | `output/translations/mark_09.json` | `ddb34113ca6a1fe9b43b9a1760a33ce7d134fdc33764887a86337e7152bd4d1e` |
 | `output/translations/mark_10.json` | `f16cb70a33634b769a591f3f4de5e9c25e7b965e527914726a8f5b4b424659f3` |
-| `output/translations/mark_11.json` | `2e84d57dd2fdb3101227e51af407ba3606788312eedb4f90fb4493bede640213` |
+| `output/translations/mark_11.json` | `41295e038d24938e6237f3f2c2126588e42bbca17b157d32af1ab673c9fe354f` |
 | `output/translations/mark_12.json` | `402748f533b7a4856d07ac5214c0a85046ce15090e6ce5fb2bab54982363cd7a` |
 | `output/translations/mark_13.json` | `d122dcedff72858a79ce485a4608475196201f37b151560a2e02d814aaf8144f` |
 | `output/translations/mark_14.json` | `8fec3aa5c4cf4e643b393f71bbb5c01b5598d18589783fc072fcae13aa4a6253` |
-| `output/translations/mark_15.json` | `2720f7431405a8400d835effb404edc5f9b927d919f86ff832afde6f19dacf53` |
+| `output/translations/mark_15.json` | `1bcb920cafcbfbc37709a87338602927af710df74dbd50668d6fa98ef89f856a` |
 | `output/translations/mark_16.json` | `b1b84b88fe63ad2f83dde5f19e3e91f353ce4a2f266f8528e124a32abd6a70af` |
 

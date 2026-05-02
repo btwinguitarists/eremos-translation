@@ -119,6 +119,6 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | Chapter file | SHA-256 |
 |---|---|
 | `output/translations/2thessalonians_01.json` | `b71a33acccab25376e35421cea474fc17a09765405522424f14f9e1336419ca8` |
-| `output/translations/2thessalonians_02.json` | `13f197ee426a703f768bdced0a890241ad195c99c2d2cb064cdaa8bdcecd893f` |
+| `output/translations/2thessalonians_02.json` | `fa640c48d76fd7ffa006c4addfdf2d1ce8803eb8052b962c924e979705ca4ce5` |
 | `output/translations/2thessalonians_03.json` | `93383ef8a258d9ca44a236f8ecb545155a9a638f4be659a176067d9100be4bde` |
 
