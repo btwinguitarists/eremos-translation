@@ -1,6 +1,6 @@
 # วิวรณ์
 
-_Revelation — 3 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
+_Revelation — 4 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
 
 _This **plain edition** shows only the Thai translation — no commentary, no Greek, no English. Intended for Thai scholars and theological reviewers evaluating the translation on its own terms. For the annotated edition with contextual summaries (บริบท), see `output/reader/revelation.md`. For the underlying Greek, English (BSB) reference, and translator decisions per verse, see the per-chapter review reports at `output/check_reports/revelation_NN_review.md` or the source JSON at `output/translations/`._
 
@@ -160,6 +160,32 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 ---
 
+## บทที่ 4
+
+**1** หลังจากนี้ ข้าพเจ้าได้มองดู และดูเถิด มีประตูที่เปิดอยู่ในสวรรค์ และเสียงแรกที่ข้าพเจ้าได้ยินเหมือนเสียงแตรที่กำลังพูดกับข้าพเจ้า ตรัสว่า “จงขึ้นมาที่นี่ และเราจะสำแดงแก่เจ้าถึงสิ่งที่จะต้องเกิดขึ้นหลังจากนี้”
+
+**2** ทันใดนั้น ข้าพเจ้าก็ได้อยู่ในพระวิญญาณ และดูเถิด มีพระบัลลังก์ตั้งอยู่ในสวรรค์ และมีผู้หนึ่งประทับนั่งอยู่บนพระบัลลังก์นั้น
+
+**3** และผู้ที่ประทับอยู่นั้น มีรัศมีปรากฏเหมือนหินยัสเปอร์และคาร์เนเลียน และมีรุ้งรอบพระบัลลังก์ มีรัศมีปรากฏเหมือนมรกต
+
+**4** และรอบพระบัลลังก์มีบัลลังก์อีกยี่สิบสี่ และบนบัลลังก์เหล่านั้น มีผู้อาวุโสยี่สิบสี่คนนั่งอยู่ สวมเสื้อขาว และบนศีรษะของพวกเขามีมงกุฎทองคำ
+
+**5** และจากพระบัลลังก์ออกมาเป็นแสงฟ้าแลบ เสียง และฟ้าร้อง และต่อหน้าพระบัลลังก์มีคบไฟเจ็ดดวงกำลังลุกอยู่ ซึ่งเป็นพระวิญญาณทั้งเจ็ดของพระเจ้า
+
+**6** และต่อหน้าพระบัลลังก์มีสิ่งที่เหมือนทะเลแก้วใสดุจคริสตัล และตรงกลางพระบัลลังก์และรอบพระบัลลังก์ มีสิ่งมีชีวิตสี่ตน ปกคลุมด้วยดวงตาทั้งด้านหน้าและด้านหลัง
+
+**7** และสิ่งมีชีวิตตนแรกเหมือนสิงโต ตนที่สองเหมือนลูกวัว ตนที่สามมีหน้าเหมือนมนุษย์ และตนที่สี่เหมือนนกอินทรีกำลังบิน
+
+**8** และสิ่งมีชีวิตทั้งสี่ตน แต่ละตนมีปีกหกปีก และทั้งภายนอกและภายในเต็มไปด้วยดวงตา และพวกเขาไม่หยุดทั้งวันและคืน กล่าวว่า “บริสุทธิ์ บริสุทธิ์ บริสุทธิ์ องค์พระผู้เป็นเจ้าพระเจ้า ผู้ทรงฤทธานุภาพยิ่งใหญ่ ผู้ทรงเคยดำรงอยู่ ผู้ทรงดำรงอยู่ และผู้ที่จะเสด็จมา”
+
+**9** และเมื่อสิ่งมีชีวิตเหล่านั้นถวายพระสิริ เกียรติ และคำขอบพระคุณแก่พระองค์ผู้ประทับบนพระบัลลังก์ ผู้ทรงพระชนม์อยู่สืบ ๆ ไปเป็นนิตย์
+
+**10** ผู้อาวุโสยี่สิบสี่คนก็จะกราบลงต่อพระพักตร์พระองค์ผู้ประทับบนพระบัลลังก์ และจะนมัสการพระองค์ผู้ทรงพระชนม์อยู่สืบ ๆ ไปเป็นนิตย์ และจะวางมงกุฎของตนต่อหน้าพระบัลลังก์ กล่าวว่า
+
+**11** “พระองค์เจ้าและพระเจ้าของเราทั้งหลาย ทรงสมควรได้รับพระสิริ เกียรติ และฤทธานุภาพ เพราะพระองค์ทรงสร้างสรรพสิ่ง และโดยพระประสงค์ของพระองค์ สรรพสิ่งจึงดำรงอยู่ และถูกสร้างขึ้น”
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -169,4 +195,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/revelation_01.json` | `127a68402ed9a21dc87af1c5e7f08e242ac1524e22a3ade7be05717dfba28407` |
 | `output/translations/revelation_02.json` | `745607d35eed381dc54dbf735bd361fbfb9cfe8cd46ce45c73e106416fae3d8a` |
 | `output/translations/revelation_03.json` | `18119e1a64a868ccc0f147b9f2bb0dc52df354132fe378502ca4a0fd3d3d5ea3` |
+| `output/translations/revelation_04.json` | `e85a7ad60dbffbca26fbb01eaffa82c82a15f8c5eb6b5ef1ee308bee2ec49db4` |
 
