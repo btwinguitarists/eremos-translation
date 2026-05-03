@@ -1,6 +1,6 @@
 # วิวรณ์
 
-_Revelation — 9 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
+_Revelation — 10 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
 
 _This **plain edition** shows only the Thai translation — no commentary, no Greek, no English. Intended for Thai scholars and theological reviewers evaluating the translation on its own terms. For the annotated edition with contextual summaries (บริบท), see `output/reader/revelation.md`. For the underlying Greek, English (BSB) reference, and translator decisions per verse, see the per-chapter review reports at `output/check_reports/revelation_NN_review.md` or the source JSON at `output/translations/`._
 
@@ -370,6 +370,32 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 ---
 
+## บทที่ 10
+
+**1** และข้าพเจ้าได้เห็นทูตสวรรค์ที่มีฤทธิ์อีกตนหนึ่งกำลังลงมาจากสวรรค์ ห่อหุ้มด้วยเมฆ และมีรุ้งอยู่บนศีรษะของเขา และใบหน้าของเขาเหมือนดวงอาทิตย์ และเท้าของเขาเหมือนเสาเพลิง
+
+**2** และเขาถือหนังสือม้วนเล็กที่เปิดอยู่ในมือของเขา และเขาวางเท้าขวาบนทะเล และเท้าซ้ายบนแผ่นดิน
+
+**3** และเขาร้องเสียงดังดุจเสียงคำรามของสิงโต และเมื่อเขาร้องเสียง ฟ้าร้องทั้งเจ็ดก็เปล่งเสียงของพวกมัน
+
+**4** และเมื่อฟ้าร้องทั้งเจ็ดได้กล่าวแล้ว ข้าพเจ้ากำลังจะเขียน และข้าพเจ้าได้ยินเสียงจากสวรรค์กล่าวว่า “จงประทับตราสิ่งที่ฟ้าร้องทั้งเจ็ดได้กล่าวไว้ และอย่าเขียนสิ่งเหล่านั้น”
+
+**5** และทูตสวรรค์ที่ข้าพเจ้าเห็นยืนอยู่บนทะเลและบนแผ่นดิน ก็ยกมือขวาของตนขึ้นสู่ฟ้าสวรรค์
+
+**6** และเขาได้สาบานต่อพระองค์ผู้ทรงพระชนม์อยู่สืบ ๆ ไปเป็นนิตย์ ผู้ทรงสร้างฟ้าสวรรค์และทุกสิ่งในนั้น แผ่นดินโลกและทุกสิ่งในนั้น และทะเลและทุกสิ่งในนั้นว่า “จะไม่มีการรีรอเวลาอีกต่อไป
+
+**7** แต่ในวันแห่งเสียงของทูตสวรรค์ตนที่เจ็ด เมื่อเขาจะเป่าแตร ความล้ำลึกของพระเจ้าจะสำเร็จ ดังที่พระองค์ได้ทรงประกาศข่าวประเสริฐแก่บรรดาทาสของพระองค์ คือผู้พยากรณ์ทั้งหลาย”
+
+**8** และเสียงที่ข้าพเจ้าได้ยินจากสวรรค์ได้พูดกับข้าพเจ้าอีก กล่าวว่า “จงไปรับหนังสือม้วนที่เปิดอยู่ในมือของทูตสวรรค์ที่ยืนอยู่บนทะเลและบนแผ่นดิน”
+
+**9** และข้าพเจ้าได้ไปหาทูตสวรรค์ ขอให้เขาให้หนังสือม้วนเล็กแก่ข้าพเจ้า และเขากล่าวกับข้าพเจ้าว่า “จงรับและกินมันเสีย และมันจะทำให้ท้องของเจ้าขม แต่ในปากของเจ้าจะหวานเหมือนน้ำผึ้ง”
+
+**10** และข้าพเจ้าได้รับหนังสือม้วนเล็กจากมือของทูตสวรรค์ และกินมันเสีย และในปากของข้าพเจ้ามันหวานเหมือนน้ำผึ้ง และเมื่อข้าพเจ้ากินมันแล้ว ท้องของข้าพเจ้าก็ขม
+
+**11** และเขาทั้งหลายกล่าวกับข้าพเจ้าว่า “เจ้าต้องพยากรณ์อีกครั้ง เกี่ยวกับชนชาติ ประชาชาติ ภาษา และกษัตริย์มากมาย”
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -385,4 +411,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/revelation_07.json` | `a0b9fb5b2eea1c8572e0d5f92ae1e7a4e1ee44e1f647bd28aa432d182b5180e4` |
 | `output/translations/revelation_08.json` | `c4268e45a1545725d7919495c46dc2764be36fc5cbd07755d0ed493fe273ff5c` |
 | `output/translations/revelation_09.json` | `c0a8f97ab6422831cd089cdc9f2d02a920218be860cba2ca726b1c95b807ab67` |
+| `output/translations/revelation_10.json` | `4cc278b790b4bddb172df3261be5b13ea6430f0b67844ebb555e184ddf3a3201` |
 
