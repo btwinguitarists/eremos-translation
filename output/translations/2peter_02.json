@@ -1,0 +1,632 @@
+[
+  {
+    "reference": "2 Peter 2:1",
+    "chapter": 2,
+    "verse": 1,
+    "greek": "Ἐγένοντο δὲ καὶ ψευδοπροφῆται ἐν τῷ λαῷ,ὡς καὶ ἐν ὑμῖν ἔσονται ψευδοδιδάσκαλοι,οἵτινες παρεισάξουσιν αἱρέσεις ἀπωλείας,καὶ τὸν ἀγοράσαντα αὐτοὺς δεσπότην ἀρνούμενοι,ἐπάγοντες ἑαυτοῖς ταχινὴν ἀπώλειαν·",
+    "bsb_english": "Now there were also false prophets among the people, just as there will be false teachers among you. They will secretly introduce destructive heresies, even denying the Master who bought them—bringing swift destruction on themselves.",
+    "translation": {
+      "thai": "แต่ก็มีผู้เผยพระวจนะเท็จเกิดขึ้นในหมู่ประชาชน เช่นเดียวกับที่จะมีครูสอนเท็จอยู่ในหมู่พวกท่าน ผู้ซึ่งจะแอบนำลัทธินอกรีตอันนำไปสู่ความพินาศเข้ามา และปฏิเสธองค์เจ้านายผู้ทรงไถ่พวกเขาไว้ นำความพินาศอันรวดเร็วมาสู่ตนเอง",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "Ἐγένοντο δὲ καὶ ψευδοπροφῆται ἐν τῷ λαῷ",
+          "thai": "แต่ก็มีผู้เผยพระวจนะเท็จเกิดขึ้นในหมู่ประชาชน",
+          "rationale": "ψευδοπροφήτης → ผู้เผยพระวจนะเท็จ corpus-lock from MAT 7:15 + MAT 24:11 + 24:24 + REV 16:13. λαός = OT-Israel-as-God's-people → ประชาชน (the people) — historic-Israel reference."
+        },
+        {
+          "greek": "ὡς καὶ ἐν ὑμῖν ἔσονται ψευδοδιδάσκαλοι",
+          "thai": "เช่นเดียวกับที่จะมีครูสอนเท็จอยู่ในหมู่พวกท่าน",
+          "rationale": "HAPAX ψευδοδιδάσκαλος (only here NT, ‘false-teacher’) → ครูสอนเท็จ — patterning on the corpus-locked ψευδοπροφήτης → ผู้เผยพระวจนะเท็จ but with ครูสอน (teacher) replacing ผู้เผยพระวจนะ (prophet). The Petrine-distinctive shift from prophets-of-old to teachers-now in the church."
+        },
+        {
+          "greek": "οἵτινες παρεισάξουσιν αἱρέσεις ἀπωλείας",
+          "thai": "ผู้ซึ่งจะแอบนำลัทธินอกรีตอันนำไปสู่ความพินาศเข้ามา",
+          "rationale": "HAPAX παρεισάγω (only here NT, ‘bring-in-secretly / smuggle-in’) → แอบนำ ... เข้ามา. αἵρεσις here = destructive-heretical-teaching (NOT the neutral ‘sect’ sense at ACT 24:14 → นิกาย). Render ลัทธินอกรีต (heretical-doctrine) — preserves the destructive-doctrinal-deviation sense. ἀπώλεια → ความพินาศ corpus-precedent — descriptive-genitive ‘destruction-leading’ → อันนำไปสู่ความพินาศ."
+        },
+        {
+          "greek": "τὸν ἀγοράσαντα αὐτοὺς δεσπότην ἀρνούμενοι, ἐπάγοντες ἑαυτοῖς ταχινὴν ἀπώλειαν",
+          "thai": "และปฏิเสธองค์เจ้านายผู้ทรงไถ่พวกเขาไว้ นำความพินาศอันรวดเร็วมาสู่ตนเอง",
+          "rationale": "δεσπότης (rare NT, ‘master-with-absolute-authority’; here-Christological) → องค์เจ้านาย — preserves the absolute-master sense distinct from κύριος. Per uW figs-metaphor: ἀγοράζω ‘bought / redeemed’ — slave-purchase metaphor for redemption (cf. 1 COR 6:20 + REV 5:9). Render ‘ทรงไถ่ ... ไว้’ — preserves the redemption-purchase sense. ἀρνέομαι → ปฏิเสธ corpus-precedent. ταχινός → อันรวดเร็ว (matches 2 PET 1:14 ‘ταχινή’)."
+        }
+      ],
+      "notes": "ONE HAPAX (παρεισάγω). ψευδοδιδάσκαλος is Petrine-distinctive — only NT use; coined to parallel ψευδοπροφήτης. Strong synoptic-parallel with JUDE 4 (παρεισέδυσαν παρεισάγω-cognate) opening the false-teachers section. δεσπότης + ἀγοράζω = absolute-master + redemption-purchase Christology — applied even to those who deny Christ (the redemption is comprehensive, the rejection is theirs)."
+    }
+  },
+  {
+    "reference": "2 Peter 2:2",
+    "chapter": 2,
+    "verse": 2,
+    "greek": "καὶ πολλοὶ ἐξακολουθήσουσιν αὐτῶν ταῖς ἀσελγείαις,δι’οὓς ἡ ὁδὸς τῆς ἀληθείας βλασφημηθήσεται·",
+    "bsb_english": "Many will follow in their depravity, and because of them the way of truth will be defamed.",
+    "translation": {
+      "thai": "และคนเป็นจำนวนมากจะทำตามความเสเพลของพวกเขา เพราะคนเหล่านั้น ทางแห่งความจริงจะถูกหมิ่นประมาท",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "καὶ πολλοὶ ἐξακολουθήσουσιν αὐτῶν ταῖς ἀσελγείαις",
+          "thai": "และคนเป็นจำนวนมากจะทำตามความเสเพลของพวกเขา",
+          "rationale": "ἐξακολουθέω → ทำตาม (matches 2 PET 1:16). ἀσέλγεια → ความเสเพล corpus-locked (debauchery/sensuality)."
+        },
+        {
+          "greek": "δι’ οὓς ἡ ὁδὸς τῆς ἀληθείας βλασφημηθήσεται",
+          "thai": "เพราะคนเหล่านั้น ทางแห่งความจริงจะถูกหมิ่นประมาท",
+          "rationale": "ἡ ὁδὸς τῆς ἀληθείας → ทางแห่งความจริง — preserves the early-Christian self-designation ‘the Way’ (cf. ACT 9:2 + 19:9 + 19:23 + 22:4 + 24:14, 22). βλασφημέω → หมิ่นประมาท corpus-precedent (when human-object) vs ดูหมิ่น/หมิ่นประมาทพระเจ้า (divine-object). Per uW figs-metonymy: ‘the way-of-truth’ defamed = Christianity-as-a-whole disgraced by these false-teachers’ behavior."
+        }
+      ],
+      "notes": "‘The way of truth’ self-designation echoes Christianity-as-‘the Way’ (Acts) + ‘the way of righteousness’ at v.21. The defaming-of-Christianity-by-false-teachers theme is Petrine pastoral-warning."
+    }
+  },
+  {
+    "reference": "2 Peter 2:3",
+    "chapter": 2,
+    "verse": 3,
+    "greek": "καὶ ἐν πλεονεξίᾳ πλαστοῖς λόγοις ὑμᾶς ἐμπορεύσονται·οἷς τὸ κρίμα ἔκπαλαι οὐκ ἀργεῖ,καὶ ἡ ἀπώλεια αὐτῶν οὐ νυστάζει.",
+    "bsb_english": "In their greed, these false teachers will exploit you with deceptive words. The longstanding verdict against them remains in force, and their destruction does not sleep.",
+    "translation": {
+      "thai": "ด้วยความโลภ พวกเขาจะใช้ถ้อยคำที่ปลอมแปลงเพื่อแสวงประโยชน์จากท่าน การพิพากษาที่กำหนดไว้แต่นานมาแล้วต่อพวกเขาก็ไม่ได้หยุดยั้ง และความพินาศของพวกเขาก็ไม่หลับใหล",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ἐν πλεονεξίᾳ πλαστοῖς λόγοις ὑμᾶς ἐμπορεύσονται",
+          "thai": "ด้วยความโลภ พวกเขาจะใช้ถ้อยคำที่ปลอมแปลงเพื่อแสวงประโยชน์จากท่าน",
+          "rationale": "HAPAX πλαστός (only here NT, ‘fabricated / false-shaped’) → ปลอมแปลง — preserves the moulded-falsified sense. πλεονεξία → ความโลภ corpus-locked. ἐμπορεύομαι → แสวงประโยชน์ (commercial-exploitation sense)."
+        },
+        {
+          "greek": "οἷς τὸ κρίμα ἔκπαλαι οὐκ ἀργεῖ, καὶ ἡ ἀπώλεια αὐτῶν οὐ νυστάζει",
+          "thai": "การพิพากษาที่กำหนดไว้แต่นานมาแล้วต่อพวกเขาก็ไม่ได้หยุดยั้ง และความพินาศของพวกเขาก็ไม่หลับใหล",
+          "rationale": "Per uW figs-personification: judgment + destruction personified as agents-not-idle-not-sleeping. HAPAX ἀργέω (only here NT, verb ‘be-idle’) → หยุดยั้ง. νυστάζω → หลับใหล. ἔκπαλαι → แต่นานมาแล้ว."
+        }
+      ],
+      "notes": "TWO HAPAX (πλαστός + ἀργέω). Personification: judgment + destruction as awake-active-agents. The ἔκπαλαι ‘from-of-old’ sets up the OT-judgment-examples that follow (vv.4-9)."
+    }
+  },
+  {
+    "reference": "2 Peter 2:4",
+    "chapter": 2,
+    "verse": 4,
+    "greek": "Εἰ γὰρ ὁ θεὸς ἀγγέλων ἁμαρτησάντων οὐκ ἐφείσατο,ἀλλὰ σειραῖς ζόφου ταρταρώσας παρέδωκεν εἰς κρίσιν τηρουμένους,",
+    "bsb_english": "For if God did not spare the angels when they sinned, but cast them deep into hell, placing them in chains of darkness to be held for judgment;",
+    "translation": {
+      "thai": "เพราะถ้าพระเจ้าไม่ทรงละเว้นบรรดาทูตสวรรค์เมื่อพวกเขาทำบาป แต่ทรงโยนพวกเขาลงในนรกขุมลึกที่สุด ทรงล่ามไว้ในโซ่แห่งความมืดเพื่อรอการพิพากษา",
+      "thai_literal": null,
+      "thai_summary": "‘ทูตสวรรค์ที่ทำบาป’ น่าจะหมายถึงทูตสวรรค์ที่กบฏและถูกผูกไว้ — เปรียบเทียบกับ ยูดา 6 ‘ทูตสวรรค์ผู้ที่ไม่อยู่ในตำแหน่งของตน’ ส่วนคำว่า ‘ταρταρώσας’ (ทรงโยนลงในทาร์ทารัส) เป็นคำที่มาจากตำนานกรีก ทาร์ทารัสเป็นที่กักขังของเหล่าทำตามตำนานกรีก เปโตรใช้คำนี้เพื่อบ่งบอกถึงสถานที่กักขังที่ลึกที่สุด — ลึกกว่าแดนคนตาย (Hades) และเป็นที่กักขังเฉพาะของทูตสวรรค์ที่กบฏเท่านั้น พื้นฐานทางคัมภีร์น่าจะอ้างถึงปฐมกาล 6:1-4 และประเพณี 1 เอโนค 6-21 ซึ่งเล่าถึงเรื่องราวของทูตสวรรค์ที่ตกลงมา",
+      "key_decisions": [
+        {
+          "greek": "Εἰ γὰρ ὁ θεὸς ἀγγέλων ἁμαρτησάντων οὐκ ἐφείσατο",
+          "thai": "เพราะถ้าพระเจ้าไม่ทรงละเว้นบรรดาทูตสวรรค์เมื่อพวกเขาทำบาป",
+          "rationale": "ἄγγελος → ทูตสวรรค์ corpus-locked (here in spiritual-beings-rebellious sense per spiritual_beings_hierarchy_2026-05.md). φείδομαι → ละเว้น (spare). The conditional opens the three-fold OT-judgment-example chain (vv.4-9)."
+        },
+        {
+          "greek": "ἀλλὰ σειραῖς ζόφου ταρταρώσας παρέδωκεν εἰς κρίσιν τηρουμένους",
+          "thai": "แต่ทรงโยนพวกเขาลงในนรกขุมลึกที่สุด ทรงล่ามไว้ในโซ่แห่งความมืดเพื่อรอการพิพากษา",
+          "rationale": "TWO HAPAX. ταρταρόω (only here NT, verbal-form of ταρταρός — the deepest-pit of Greek-mythology-Hades) → ทรงโยน ... ลงในนรกขุมลึกที่สุด — preserves the ‘deepest-place’ sense; thai_summary explains the Tartarus-mythology-background. σειρά (only here NT, ‘chain / cord’) → โซ่ — preserves the binding-imagery. ζόφος → ความมืด. The chain-of-darkness imagery echoes JUDE 6 (δεσμοῖς ἀϊδίοις ὑπὸ ζόφον ‘in everlasting bonds under darkness’)."
+        }
+      ],
+      "notes": "TWO HAPAX (ταρταρόω + σειρά). The Tartarus-mythology terminology is uniquely-Petrine in the NT; thai_summary explains the Greek-mythology-derived term + GEN 6:1-4 / 1 Enoch 6-21 background. Synoptic-parallel with JUDE 6 (rebel-angels-in-chains)."
+    }
+  },
+  {
+    "reference": "2 Peter 2:5",
+    "chapter": 2,
+    "verse": 5,
+    "greek": "καὶ ἀρχαίου κόσμου οὐκ ἐφείσατο,ἀλλὰ ὄγδοον Νῶε δικαιοσύνης κήρυκα ἐφύλαξεν,κατακλυσμὸν κόσμῳ ἀσεβῶν ἐπάξας,",
+    "bsb_english": "if He did not spare the ancient world when He brought the flood on its ungodly people, but preserved Noah, a preacher of righteousness, among the eight;",
+    "translation": {
+      "thai": "และทรงไม่ละเว้นโลกในยุคโบราณ แต่ทรงปกป้องโนอาห์ ผู้ประกาศความชอบธรรม กับอีกเจ็ดคน เมื่อพระองค์ทรงนำน้ำท่วมมาเหนือโลกของคนอธรรม",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "καὶ ἀρχαίου κόσμου οὐκ ἐφείσατο",
+          "thai": "และทรงไม่ละเว้นโลกในยุคโบราณ",
+          "rationale": "ἀρχαῖος → ยุคโบราณ. Continues the φείδομαι-conditional pattern from v.4."
+        },
+        {
+          "greek": "ἀλλὰ ὄγδοον Νῶε δικαιοσύνης κήρυκα ἐφύλαξεν",
+          "thai": "แต่ทรงปกป้องโนอาห์ ผู้ประกาศความชอบธรรม กับอีกเจ็ดคน",
+          "rationale": "Νῶε → โนอาห์ corpus-lock from JAS 5 + 1 PET 3:20. ὄγδοον (literally ‘eighth’ — idiom for ‘with seven others’ = the eight Genesis-flood-survivors) → กับอีกเจ็ดคน (with-seven-others) — preserves the eight-total per Genesis 7:7. κῆρυξ-of-righteousness (only Petrine title for Noah) → ผู้ประกาศความชอบธรรม. φυλάσσω → ทรงปกป้อง. Cross-corpus link to 1 PET 3:20 (the eight-saved-through-water)."
+        },
+        {
+          "greek": "κατακλυσμὸν κόσμῳ ἀσεβῶν ἐπάξας",
+          "thai": "เมื่อพระองค์ทรงนำน้ำท่วมมาเหนือโลกของคนอธรรม",
+          "rationale": "κατακλυσμός → น้ำท่วม corpus-precedent (MAT 24:38-39 + LUK 17:27). ἀσεβής → คนอธรรม. ἐπάγω aor.-ptc. → ทรงนำ ... มาเหนือ (royal-prefix divine-action)."
+        }
+      ],
+      "notes": "Second judgment-example (Noah-flood). Cross-corpus link to 1 PET 3:20 — Petrine signature. The ‘preacher-of-righteousness’ title for Noah is uniquely-2 Petrine (no MT/LXX-OT-text calls Noah by this title; tradition derives from Jewish Second-Temple texts like Sibylline Oracles 1.128-129 + Josephus Ant. 1.74)."
+    }
+  },
+  {
+    "reference": "2 Peter 2:6",
+    "chapter": 2,
+    "verse": 6,
+    "greek": "καὶ πόλεις Σοδόμων καὶ Γομόρρας τεφρώσας καταστροφῇ κατέκρινεν,ὑπόδειγμα μελλόντων ἀσεβέσιν τεθεικώς,",
+    "bsb_english": "if He condemned the cities of Sodom and Gomorrah to destruction, reducing them to ashes as an example of what is coming on the ungodly;",
+    "translation": {
+      "thai": "และทรงพิพากษาเมืองโสโดมและโกโมราห์ให้พินาศ ทรงเผาเมืองเหล่านั้นเป็นเถ้าถ่าน ทรงทำให้เป็นตัวอย่างของสิ่งที่จะเกิดขึ้นแก่คนอธรรมในภายภาคหน้า",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "πόλεις Σοδόμων καὶ Γομόρρας τεφρώσας καταστροφῇ κατέκρινεν",
+          "thai": "ทรงพิพากษาเมืองโสโดมและโกโมราห์ให้พินาศ ทรงเผาเมืองเหล่านั้นเป็นเถ้าถ่าน",
+          "rationale": "Σόδομα → โสโดม; Γόμορρα → โกโมราห์ corpus-lock from MAT 10:15 + 11:23 + ROM 9:29 + LUK 17:29. HAPAX τεφρόω (only here NT, ‘burn-to-ashes’) → ทรงเผา ... เป็นเถ้าถ่าน — preserves the ash-reducing sense. καταστροφή → พินาศ. κατακρίνω → ทรงพิพากษา."
+        },
+        {
+          "greek": "ὑπόδειγμα μελλόντων ἀσεβέσιν τεθεικώς",
+          "thai": "ทรงทำให้เป็นตัวอย่างของสิ่งที่จะเกิดขึ้นแก่คนอธรรมในภายภาคหน้า",
+          "rationale": "ὑπόδειγμα → ตัวอย่าง corpus-precedent. μέλλω → ในภายภาคหน้า. The Sodom-Gomorrah-as-eschatological-example formula is Petrine-Jude-shared (cf. JUDE 7)."
+        }
+      ],
+      "notes": "ONE HAPAX (τεφρόω). Third judgment-example (Sodom-Gomorrah). The Σόδομα → โสโดม + Γόμορρα → โกโมραห์ renderings preserve the corpus-lock (cf. ROM 9:29). OT-allusion to GEN 19:24 LXX (cf. 1 PET 3:20 + LUK 17:29 corpus-internal-links)."
+    }
+  },
+  {
+    "reference": "2 Peter 2:7",
+    "chapter": 2,
+    "verse": 7,
+    "greek": "καὶ δίκαιον Λὼτ καταπονούμενον ὑπὸ τῆς τῶν ἀθέσμων ἐν ἀσελγείᾳ ἀναστροφῆς ἐρρύσατο",
+    "bsb_english": "and if He rescued Lot, a righteous man distressed by the depraved conduct of the lawless",
+    "translation": {
+      "thai": "และทรงช่วยโลทผู้ชอบธรรมให้รอด ผู้ซึ่งทุกข์ทรมานจากความประพฤติเสเพลของพวกคนนอกกฎหมาย",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "δίκαιον Λὼτ καταπονούμενον ὑπὸ τῆς τῶν ἀθέσμων ἐν ἀσελγείᾳ ἀναστροφῆς",
+          "thai": "โลทผู้ชอบธรรม ผู้ซึ่งทุกข์ทรมานจากความประพฤติเสเพลของพวกคนนอกกฎหมาย",
+          "rationale": "Λώτ → โลท corpus-lock from LUK 17:28-29. δίκαιος → ผู้ชอบธรรม corpus-locked. καταπονέω → ทุกข์ทรมาน. ἄθεσμος → คนนอกกฎหมาย. ἀναστροφή → ความประพฤติ corpus-precedent (1 PET 1:15, 1:18, etc. — Petrine-signature term). ἀσέλγεια → เสเพล corpus-locked."
+        },
+        {
+          "greek": "ἐρρύσατο",
+          "thai": "ทรงช่วย ... ให้รอด",
+          "rationale": "ῥύομαι → ทรงช่วย ... ให้รอด corpus-precedent (ROM 7:24 + 11:26 + 1 TH 1:10 + 2 TIM 4:18 — divine-rescue). Royal-prefix preserved."
+        }
+      ],
+      "notes": "Counter-example: God rescues the righteous (Lot) from the same judgment that destroys the unrighteous. Sets up vv.9 principle: ‘the Lord knows how to rescue the godly...’"
+    }
+  },
+  {
+    "reference": "2 Peter 2:8",
+    "chapter": 2,
+    "verse": 8,
+    "greek": "βλέμματι γὰρ καὶ ἀκοῇ ὁ δίκαιος ἐγκατοικῶν ἐν αὐτοῖς ἡμέραν ἐξ ἡμέρας ψυχὴν δικαίαν ἀνόμοις ἔργοις ἐβασάνιζεν",
+    "bsb_english": "(for that righteous man, living among them day after day, was tormented in his righteous soul by the lawless deeds he saw and heard)—",
+    "translation": {
+      "thai": "เพราะผู้ชอบธรรมท่านนั้นซึ่งอาศัยอยู่ท่ามกลางพวกเขา ทุกวันได้ทรมานจิตวิญญาณอันชอบธรรมของตนเพราะการกระทำที่ไร้กฎหมายซึ่งท่านเห็นและได้ยิน",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "βλέμματι γὰρ καὶ ἀκοῇ",
+          "thai": "ซึ่งท่านเห็นและได้ยิน",
+          "rationale": "TWO HAPAX BUT one is here. HAPAX βλέμμα (only here NT, ‘sight / glance’) → เห็น (verbal). ἀκοή → ได้ยิน — paired-sensory expression. Render with verbal-construction for Thai-naturalness."
+        },
+        {
+          "greek": "ὁ δίκαιος ἐγκατοικῶν ἐν αὐτοῖς ἡμέραν ἐξ ἡμέρας",
+          "thai": "ผู้ชอบธรรมท่านนั้นซึ่งอาศัยอยู่ท่ามกลางพวกเขา ทุกวัน",
+          "rationale": "HAPAX ἐγκατοικέω (only here NT, ‘dwell-among / live-in-the-midst’) → อาศัยอยู่ท่ามกลาง. ἡμέραν ἐξ ἡμέρας → ทุกวัน (day-after-day idiom)."
+        },
+        {
+          "greek": "ψυχὴν δικαίαν ἀνόμοις ἔργοις ἐβασάνιζεν",
+          "thai": "ได้ทรมานจิตวิญญาณอันชอบธรรมของตนเพราะการกระทำที่ไร้กฎหมาย",
+          "rationale": "ψυχή → จิตวิญญาณ corpus-locked (theological-anthropological sense per psyche_vs_pneuma_anthropological_2026-04.md). βασανίζω → ทรมาน. ἄνομος → ไร้กฎหมาย."
+        }
+      ],
+      "notes": "TWO HAPAX (βλέμμα + ἐγκατοικέω). Parenthetical-aside explaining v.7: Lot's ongoing-soul-torment from the surrounding-Sodom-evil. Preserves the moral-witness theme (Lot's-perception was righteous-disturbed by what he-saw-and-heard)."
+    }
+  },
+  {
+    "reference": "2 Peter 2:9",
+    "chapter": 2,
+    "verse": 9,
+    "greek": "οἶδεν κύριος εὐσεβεῖς ἐκ πειρασμοῦ ῥύεσθαι,ἀδίκους δὲ εἰς ἡμέραν κρίσεως κολαζομένους τηρεῖν,",
+    "bsb_english": "if all this is so, then the Lord knows how to rescue the godly from trials and to hold the unrighteous for punishment on the day of judgment.",
+    "translation": {
+      "thai": "องค์พระผู้เป็นเจ้าทรงรู้วิธีช่วยผู้เคร่งในพระเจ้าให้รอดพ้นจากการทดลอง และทรงรู้วิธีกักขังคนอธรรมไว้รอการลงโทษในวันแห่งการพิพากษา",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "οἶδεν κύριος εὐσεβεῖς ἐκ πειρασμοῦ ῥύεσθαι",
+          "thai": "องค์พระผู้เป็นเจ้าทรงรู้วิธีช่วยผู้เคร่งในพระเจ้าให้รอดพ้นจากการทดลอง",
+          "rationale": "κύριος divine → องค์พระผู้เป็นเจ้า corpus-locked. εὐσεβής → ผู้เคร่งในพระเจ้า (pastoral_corpus_locks §B; corpus-internal). πειρασμός → การทดลอง corpus-locked. ῥύομαι → ช่วย ... ให้รอดพ้น (divine-rescue idiom matching v.7)."
+        },
+        {
+          "greek": "ἀδίκους δὲ εἰς ἡμέραν κρίσεως κολαζομένους τηρεῖν",
+          "thai": "และทรงรู้วิธีกักขังคนอธรรมไว้รอการลงโทษในวันแห่งการพิพากษา",
+          "rationale": "ἄδικος → คนอธรรม. ἡμέρα κρίσεως → วันแห่งการพิพากษา corpus-precedent (MAT 10:15, 11:22, 11:24, 12:36, 1 JHN 4:17). κολάζω → ลงโทษ. τηρέω → กักขัง ... ไว้ (matches v.4 ‘held-for-judgment’)."
+        }
+      ],
+      "notes": "Climactic-principle of vv.4-9: God knows-how to rescue + reserve. Counter-balancing rescue-of-godly + retention-of-ungodly. Foundational-eschatological-judgment text echoed at MAT 10:15 + 1 PET 4:5."
+    }
+  },
+  {
+    "reference": "2 Peter 2:10",
+    "chapter": 2,
+    "verse": 10,
+    "greek": "μάλιστα δὲ τοὺς ὀπίσω σαρκὸς ἐν ἐπιθυμίᾳ μιασμοῦ πορευομένους καὶ κυριότητος καταφρονοῦντας.Τολμηταὶ,αὐθάδεις,δόξας οὐ τρέμουσιν,βλασφημοῦντες,",
+    "bsb_english": "Such punishment is specially reserved for those who indulge the corrupt desires of the flesh and despise authority. Bold and self-willed, they are unafraid to slander glorious beings.",
+    "translation": {
+      "thai": "โดยเฉพาะอย่างยิ่งคนเหล่านั้นที่ดำเนินตามเนื้อหนัง ในตัณหาแห่งความเสื่อมทราม และดูหมิ่นอำนาจ พวกเขาเป็นคนกล้าหาญในทางชั่ว เป็นคนถือทิฐิ ไม่เกรงกลัวที่จะดูหมิ่นเหล่าผู้ทรงสง่าราศี",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "τοὺς ὀπίσω σαρκὸς ἐν ἐπιθυμίᾳ μιασμοῦ πορευομένους",
+          "thai": "คนเหล่านั้นที่ดำเนินตามเนื้อหนัง ในตัณหาแห่งความเสื่อมทราม",
+          "rationale": "HAPAX μιασμός (only here NT, ‘defilement / pollution’; cognate of μίασμα at v.20) → ความเสื่อมทราม. σάρξ → เนื้อหนัง corpus-locked. ἐπιθυμία → ตัณหา corpus-precedent."
+        },
+        {
+          "greek": "καὶ κυριότητος καταφρονοῦντας",
+          "thai": "และดูหมิ่นอำนาจ",
+          "rationale": "κυριότης → อำนาจ — preserves the abstract-authority sense (cf. EPH 1:21 + COL 1:16 spiritual-hierarchy). καταφρονέω → ดูหมิ่น."
+        },
+        {
+          "greek": "Τολμηταὶ, αὐθάδεις, δόξας οὐ τρέμουσιν, βλασφημοῦντες",
+          "thai": "พวกเขาเป็นคนกล้าหาญในทางชั่ว เป็นคนถือทิฐิ ไม่เกรงกลัวที่จะดูหมิ่นเหล่าผู้ทรงสง่าราศี",
+          "rationale": "HAPAX τολμητής (only here NT, ‘daring-one’) → คนกล้าหาญในทางชั่ว — preserves the bold-recklessness with negative-valence. αὐθάδης → คนถือทิฐิ. δόξας (here = glorious-beings, esp. angelic-powers) → เหล่าผู้ทรงสง่าราศี. τρέμω → เกรงกลัว. βλασφημέω → ดูหมิ่น."
+        }
+      ],
+      "notes": "TWO HAPAX (μιασμός + τολμητής). δόξας ‘glories’ (plural-personal) refers to ANGELIC-BEINGS — the same context as v.11 ‘angels though greater’ + JUDE 8 ‘δόξας ... βλασφημοῦσιν.’ Synoptic-parallel with JUDE 8. The bold-revilers don't fear what-even-mightier-angels-don't-do (v.11)."
+    }
+  },
+  {
+    "reference": "2 Peter 2:11",
+    "chapter": 2,
+    "verse": 11,
+    "greek": "ὅπου ἄγγελοι ἰσχύϊ καὶ δυνάμει μείζονες ὄντες οὐ φέρουσιν κατ’αὐτῶν βλάσφημον κρίσιν.",
+    "bsb_english": "Yet not even angels, though greater in strength and power, dare to bring such slanderous charges against them before the Lord.",
+    "translation": {
+      "thai": "ในขณะที่แม้แต่บรรดาทูตสวรรค์ที่มีกำลังและฤทธานุภาพมากกว่า ก็ไม่กล่าวคำพิพากษาเชิงดูหมิ่นต่อพวกเขาต่อหน้าองค์พระผู้เป็นเจ้า",
+      "thai_literal": null,
+      "thai_summary": "ข้อนี้น่าจะเป็นการอ้างอิงถึงเรื่องของอัครเทวดามีคาเอลที่โต้เถียงกับมารเรื่องศพของโมเสส (ยูดา 9 อ้างอิงประเพณีเดียวกัน) — แม้แต่ทูตสวรรค์ระดับสูงก็ไม่ใช้คำพิพากษาดูหมิ่นต่อพลังฝ่ายมาร แต่ครูสอนเท็จกลับกล้ามากกว่าทูตสวรรค์ในการดูหมิ่นเหล่าผู้ทรงสง่าราศี",
+      "key_decisions": [
+        {
+          "greek": "ὅπου ἄγγελοι ἰσχύϊ καὶ δυνάμει μείζονες ὄντες",
+          "thai": "ในขณะที่แม้แต่บรรดาทูตสวรรค์ที่มีกำลังและฤทธานุภาพมากกว่า",
+          "rationale": "HAPAX μείζων (only here NT in this comparative-substantive form) → มากกว่า. ἰσχύς + δύναμις (paired-power-words) → กำลังและฤทธานุภาพ — corpus-precedent for the doublet."
+        },
+        {
+          "greek": "οὐ φέρουσιν κατ’ αὐτῶν βλάσφημον κρίσιν",
+          "thai": "ก็ไม่กล่าวคำพิพากษาเชิงดูหมิ่นต่อพวกเขาต่อหน้าองค์พระผู้เป็นเจ้า",
+          "rationale": "βλάσφημος (adjective ‘slanderous’) → เชิงดูหมิ่น. κρίσις → คำพิพากษา. ‘κατ’ αὐτῶν’ refers to the false-teachers OR to the angelic-powers per scholarly debate; thai_summary documents the JUDE 9 parallel with Michael-vs-Satan-over-Moses-body. ‘ต่อหน้าองค์พระผู้เป็นเจ้า’ supplied for context-clarity (matches the Synoptic-textual-tradition-variant at JUDE 9 ‘παρὰ κυρίου’)."
+        }
+      ],
+      "notes": "ONE HAPAX (μείζων comparative-substantive). thai_summary explains the Michael-vs-Satan-over-Moses-body tradition (JUDE 9; the apocryphal Assumption of Moses — non-canonical-source). The argument: even-mightier angels exercise restraint; how-much-more should mere-humans avoid reviling-glorious-beings."
+    }
+  },
+  {
+    "reference": "2 Peter 2:12",
+    "chapter": 2,
+    "verse": 12,
+    "greek": "οὗτοι δέ,ὡς ἄλογα ζῷα γεγεννημένα φυσικὰ εἰς ἅλωσιν καὶ φθοράν,ἐν οἷς ἀγνοοῦσιν βλασφημοῦντες,ἐν τῇ φθορᾷ αὐτῶν καὶ φθαρήσονται,",
+    "bsb_english": "These men are like irrational animals, creatures of instinct, born to be captured and destroyed. They blaspheme in matters they do not understand, and like such creatures, they too will be destroyed.",
+    "translation": {
+      "thai": "แต่คนเหล่านี้เป็นเหมือนสัตว์ป่าที่ปราศจากเหตุผล สัตว์ที่กำเนิดมาด้วยสัญชาตญาณเพื่อให้ถูกจับและทำลาย พวกเขาดูหมิ่นในสิ่งที่ตนไม่เข้าใจ และจะถูกทำลายในความเสื่อมทรามของตน",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "οὗτοι δέ, ὡς ἄλογα ζῷα γεγεννημένα φυσικὰ",
+          "thai": "แต่คนเหล่านี้เป็นเหมือนสัตว์ป่าที่ปราศจากเหตุผล สัตว์ที่กำเนิดมาด้วยสัญชาตญาณ",
+          "rationale": "Per uW figs-simile: false-teachers as irrational-animals-of-instinct. ἄλογος → ปราศจากเหตุผล. ζῷον → สัตว์. φυσικός → ตามสัญชาตญาณ."
+        },
+        {
+          "greek": "εἰς ἅλωσιν καὶ φθοράν",
+          "thai": "เพื่อให้ถูกจับและทำลาย",
+          "rationale": "HAPAX ἅλωσις (only here NT, ‘capture / catching’) → ถูกจับ. φθορά → ทำลาย/ความเสื่อมทราม (context-dependent)."
+        },
+        {
+          "greek": "ἐν οἷς ἀγνοοῦσιν βλασφημοῦντες, ἐν τῇ φθορᾷ αὐτῶν καὶ φθαρήσονται",
+          "thai": "พวกเขาดูหมิ่นในสิ่งที่ตนไม่เข้าใจ และจะถูกทำลายในความเสื่อมทรามของตน",
+          "rationale": "ἀγνοέω → ไม่เข้าใจ. φθείρω passive → ถูกทำลาย — preserves the ironic-judgment (their-corruption causes-their-destruction). Synoptic-parallel with JUDE 10."
+        }
+      ],
+      "notes": "ONE HAPAX (ἅλωσις). Synoptic-parallel with JUDE 10. Animal-imagery for the false-teachers' irrationality + instinctual-self-destruction."
+    }
+  },
+  {
+    "reference": "2 Peter 2:13",
+    "chapter": 2,
+    "verse": 13,
+    "greek": "ἀδικούμενοι μισθὸν ἀδικίας·ἡδονὴν ἡγούμενοι τὴν ἐν ἡμέρᾳ τρυφήν,σπίλοι καὶ μῶμοι ἐντρυφῶντες ἐν ταῖς ἀπάταις αὐτῶν συνευωχούμενοι ὑμῖν,",
+    "bsb_english": "The harm they will suffer is the wages of their wickedness. They consider it a pleasure to carouse in broad daylight. They are blots and blemishes, reveling in their deception as they feast with you.",
+    "translation": {
+      "thai": "พวกเขาจะได้รับค่าจ้างแห่งความอธรรมเป็นความชั่วที่กลับมาทำร้ายตน พวกเขาถือว่าการสำเริงสำราญในเวลากลางวันเป็นความสนุก เป็นรอยด่างและตำหนิ ปล่อยตัวในความสนุกอย่างฟุ่มเฟือยขณะที่พวกเขาร่วมรับประทานอาหารกับท่านด้วยความหลอกลวง",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ἀδικούμενοι μισθὸν ἀδικίας",
+          "thai": "พวกเขาจะได้รับค่าจ้างแห่งความอธรรมเป็นความชั่วที่กลับมาทำร้ายตน",
+          "rationale": "Word-play ἀδικέω + ἀδικία — ‘being-wronged the wages-of-wrongdoing.’ Render preserves the boomerang-justice sense: their-wrong returns-as-wage."
+        },
+        {
+          "greek": "ἡδονὴν ἡγούμενοι τὴν ἐν ἡμέρᾳ τρυφήν",
+          "thai": "พวกเขาถือว่าการสำเริงสำราญในเวลากลางวันเป็นความสนุก",
+          "rationale": "ἡδονή → ความสนุก. τρυφή → การสำเริงสำราญ (luxurious-revelry). ‘In broad-daylight’ → ในเวลากลางวัน — preserves the unashamed-public sense."
+        },
+        {
+          "greek": "σπίλοι καὶ μῶμοι ἐντρυφῶντες",
+          "thai": "เป็นรอยด่างและตำหนิ ปล่อยตัวในความสนุกอย่างฟุ่มเฟือย",
+          "rationale": "σπίλος → รอยด่าง. HAPAX μῶμος (only here NT, ‘blemish / disgrace’) → ตำหนิ. HAPAX ἐντρυφάω (only here NT, ‘revel-in / luxuriate’) → ปล่อยตัวในความสนุกอย่างฟุ่มเฟือย."
+        },
+        {
+          "greek": "ἐν ταῖς ἀπάταις αὐτῶν συνευωχούμενοι ὑμῖν",
+          "thai": "ขณะที่พวกเขาร่วมรับประทานอาหารกับท่านด้วยความหลอกลวง",
+          "rationale": "συνευωχέομαι → ร่วมรับประทานอาหาร (joint-feast — likely the love-feasts/agape-meals; cf. JUDE 12 ἀγάπαι). ἀπάτη → ความหลอกลวง."
+        }
+      ],
+      "notes": "TWO HAPAX (μῶμος + ἐντρυφάω). Strong synoptic-parallel with JUDE 12 (σπιλάδες ‘blemishes’ + συνευωχούμενοι ‘feasting-together’). The σπίλοι + μῶμοι pair inverts EPH 5:27 (σπίλος + μῶμος as Christ's-bride-pure-WITHOUT spot-or-blemish; here the false-teachers ARE the spots-and-blemishes infiltrating the church)."
+    }
+  },
+  {
+    "reference": "2 Peter 2:14",
+    "chapter": 2,
+    "verse": 14,
+    "greek": "ὀφθαλμοὺς ἔχοντες μεστοὺς μοιχαλίδος καὶ ἀκαταπαύστους ἁμαρτίας,δελεάζοντες ψυχὰς ἀστηρίκτους,καρδίαν γεγυμνασμένην πλεονεξίας ἔχοντες,κατάρας τέκνα,",
+    "bsb_english": "Their eyes are full of adultery; their desire for sin is never satisfied; they seduce the unstable. They are accursed children with hearts trained in greed.",
+    "translation": {
+      "thai": "ดวงตาของพวกเขาเต็มไปด้วยการล่วงประเวณี และไม่หยุดทำบาป พวกเขาล่อจิตวิญญาณที่ไม่มั่นคง มีใจที่ถูกฝึกให้โลภ เป็นบุตรแห่งคำสาปแช่ง",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ὀφθαλμοὺς ἔχοντες μεστοὺς μοιχαλίδος",
+          "thai": "ดวงตาของพวกเขาเต็มไปด้วยการล่วงประเวณี",
+          "rationale": "Per uW figs-idiom: μοιχαλίς ‘adulterous-woman’ used here as quality-genitive ‘full-of-adultery.’ μοιχαλίς → การล่วงประเวณี. μεστός → เต็มไปด้วย."
+        },
+        {
+          "greek": "καὶ ἀκαταπαύστους ἁμαρτίας",
+          "thai": "และไม่หยุดทำบาป",
+          "rationale": "HAPAX ἀκατάπαυστος (only here NT, ‘never-ceasing’) → ไม่หยุด."
+        },
+        {
+          "greek": "δελεάζοντες ψυχὰς ἀστηρίκτους",
+          "thai": "พวกเขาล่อจิตวิญญาณที่ไม่มั่นคง",
+          "rationale": "δελεάζω → ล่อ (entice — fishing/hunting metaphor). ἀστήρικτος → ไม่มั่นคง (cognate of στηρίζω → มั่นคง corpus-locked at 2 PET 1:12)."
+        },
+        {
+          "greek": "καρδίαν γεγυμνασμένην πλεονεξίας ἔχοντες, κατάρας τέκνα",
+          "thai": "มีใจที่ถูกฝึกให้โลภ เป็นบุตรแห่งคำสาปแช่ง",
+          "rationale": "Per uW figs-metaphor: γυμνάζω ‘train / exercise’ — athletic-imagery applied to greed-discipline. γυμνάζω perfect-passive → ถูกฝึก. πλεονεξία → ความโลภ corpus-locked. ‘κατάρας τέκνα’ Hebraic-idiom (‘children-of-curse’) → บุตรแห่งคำสาปแช่ง — preserves the OT-Semitic-pattern."
+        }
+      ],
+      "notes": "ONE HAPAX (ἀκατάπαυστος). The athletic-training-in-greed metaphor: γυμνάζω perfect-passive ‘having-been-trained’ — false-teachers’ greed is practiced, not impulsive."
+    }
+  },
+  {
+    "reference": "2 Peter 2:15",
+    "chapter": 2,
+    "verse": 15,
+    "greek": "καταλιπόντες εὐθεῖαν ὁδὸν ἐπλανήθησαν,ἐξακολουθήσαντες τῇ ὁδῷ τοῦ Βαλαὰμ τοῦ Βοσὸρ ὃς μισθὸν ἀδικίας ἠγάπησεν",
+    "bsb_english": "They have left the straight way and wandered off to follow the way of Balaam son of Beor, who loved the wages of wickedness.",
+    "translation": {
+      "thai": "พวกเขาได้ละทิ้งทางตรง และหลงทางไปทำตามทางของบาลาอัมบุตรของเบโอร์ ผู้ซึ่งรักค่าจ้างแห่งความอธรรม",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "καταλιπόντες εὐθεῖαν ὁδὸν ἐπλανήθησαν",
+          "thai": "พวกเขาได้ละทิ้งทางตรง และหลงทางไป",
+          "rationale": "καταλείπω → ละทิ้ง. εὐθεῖα ὁδός → ทางตรง — Hebraic-idiom for righteous-conduct (cf. ACT 13:10 + PRO 4:25 LXX). πλανάω passive → หลงทางไป corpus-precedent."
+        },
+        {
+          "greek": "ἐξακολουθήσαντες τῇ ὁδῷ τοῦ Βαλαὰμ τοῦ Βοσὸρ",
+          "thai": "ทำตามทางของบาลาอัมบุตรของเบโอร์",
+          "rationale": "Βαλαάμ → บาลาอัม (Hebrew בִּלְעָם — standard Thai Christian transliteration). HAPAX Βοσόρ (only here NT, the Petrine-Greek form of MT-Hebrew בְּעוֹר ‘Beor’; LXX uses Βεωρ — Peter's Βοσόρ may be a Galilean-Aramaic vocalization) → เบโอร์ (using the standard Thai-OT form from NUM 22-24 + DEU 23:4)."
+        },
+        {
+          "greek": "ὃς μισθὸν ἀδικίας ἠγάπησεν",
+          "thai": "ผู้ซึ่งรักค่าจ้างแห่งความอธรรม",
+          "rationale": "‘μισθὸν ἀδικίας’ (matches v.13 same phrase) → ค่าจ้างแห่งความอธรรม. ἀγαπάω → รัก."
+        }
+      ],
+      "notes": "ONE HAPAX (Βοσόρ — proper-noun-form). Balaam-archetype: the OT-prophet-corrupted-by-money. The Petrine Βοσόρ form is unusual; uses standard-Thai-OT เบโอร์. Cross-reference NUM 22-24 + JUDE 11."
+    }
+  },
+  {
+    "reference": "2 Peter 2:16",
+    "chapter": 2,
+    "verse": 16,
+    "greek": "ἔλεγξιν δὲ ἔσχεν ἰδίας παρανομίας·ὑποζύγιον ἄφωνον ἐν ἀνθρώπου φωνῇ φθεγξάμενον ἐκώλυσεν τὴν τοῦ προφήτου παραφρονίαν.",
+    "bsb_english": "But he was rebuked for his transgression by a donkey, otherwise without speech, that spoke with a man’s voice and restrained the prophet’s madness.",
+    "translation": {
+      "thai": "แต่เขาก็ได้ถูกตำหนิเรื่องการละเมิดของตน — ลาที่ไม่มีเสียงพูดได้กล่าวด้วยเสียงมนุษย์ และยับยั้งความบ้าคลั่งของผู้พยากรณ์ผู้นี้ไว้",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ἔλεγξιν δὲ ἔσχεν ἰδίας παρανομίας",
+          "thai": "แต่เขาก็ได้ถูกตำหนิเรื่องการละเมิดของตน",
+          "rationale": "TWO HAPAX. ἔλεγξις (only here NT, ‘rebuke / conviction’) → ถูกตำหนิ. παρανομία (only here NT, ‘transgression / lawlessness’) → การละเมิด."
+        },
+        {
+          "greek": "ὑποζύγιον ἄφωνον ἐν ἀνθρώπου φωνῇ φθεγξάμενον",
+          "thai": "ลาที่ไม่มีเสียงพูดได้กล่าวด้วยเสียงมนุษย์",
+          "rationale": "ὑποζύγιον → ลา (donkey — yoke-bearing-animal idiom). ἄφωνος → ไม่มีเสียงพูด. φθέγγομαι → กล่าว."
+        },
+        {
+          "greek": "ἐκώλυσεν τὴν τοῦ προφήτου παραφρονίαν",
+          "thai": "และยับยั้งความบ้าคลั่งของผู้พยากรณ์ผู้นี้ไว้",
+          "rationale": "HAPAX παραφρονία (only here NT, ‘madness / folly’) → ความบ้าคลั่ง. κωλύω → ยับยั้ง. προφήτης (here-Balaam ironic-title — he WAS a prophet but corrupted) → ผู้พยากรณ์."
+        }
+      ],
+      "notes": "THREE HAPAX (ἔλεγξις + παρανομία + παραφρονία). NUM 22:21-35 the talking-donkey episode. Balaam-as-failed-prophet: even his donkey saw what he-the-prophet refused to-see. The donkey-rebukes-prophet inversion is the moral-irony."
+    }
+  },
+  {
+    "reference": "2 Peter 2:17",
+    "chapter": 2,
+    "verse": 17,
+    "greek": "Οὗτοί εἰσιν πηγαὶ ἄνυδροι καὶ ὁμίχλαι ὑπὸ λαίλαπος ἐλαυνόμεναι,οἷς ὁ ζόφος τοῦ σκότους τετήρηται.",
+    "bsb_english": "These men are springs without water and mists driven by a storm. Blackest darkness is reserved for them.",
+    "translation": {
+      "thai": "คนเหล่านี้เป็นบ่อน้ำพุที่ไม่มีน้ำ และเป็นหมอกที่ถูกพายุพัดไป ความมืดมิดที่ดำสนิทถูกสงวนไว้สำหรับพวกเขา",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "Οὗτοί εἰσιν πηγαὶ ἄνυδροι καὶ ὁμίχλαι ὑπὸ λαίλαπος ἐλαυνόμεναι",
+          "thai": "คนเหล่านี้เป็นบ่อน้ำพุที่ไม่มีน้ำ และเป็นหมอกที่ถูกพายุพัดไป",
+          "rationale": "Per uW figs-metaphor: dry-springs + storm-driven-mists = useless + transient. πηγή → บ่อน้ำพุ. ἄνυδρος → ไม่มีน้ำ. HAPAX ὁμίχλη (only here NT, ‘mist / fog’) → หมอก. λαῖλαψ → พายุ. ἐλαύνω passive → ถูกพัด."
+        },
+        {
+          "greek": "οἷς ὁ ζόφος τοῦ σκότους τετήρηται",
+          "thai": "ความมืดมิดที่ดำสนิทถูกสงวนไว้สำหรับพวกเขา",
+          "rationale": "ζόφος + σκότος (paired-darkness) → ความมืดมิดที่ดำสนิท — preserves the doublet-intensity. τηρέω perfect-passive → ถูกสงวนไว้ (matches v.4 + v.9 ‘held-for-judgment’)."
+        }
+      ],
+      "notes": "ONE HAPAX (ὁμίχλη). Synoptic-parallel with JUDE 12-13 (νεφέλαι ἄνυδροι ‘waterless-clouds’; both passages use the empty-promise + storm-driven imagery)."
+    }
+  },
+  {
+    "reference": "2 Peter 2:18",
+    "chapter": 2,
+    "verse": 18,
+    "greek": "ὑπέρογκα γὰρ ματαιότητος φθεγγόμενοι δελεάζουσιν ἐν ἐπιθυμίαις σαρκὸς ἀσελγείαις τοὺς ὀλίγως ἀποφεύγοντας τοὺς ἐν πλάνῃ ἀναστρεφομένους,",
+    "bsb_english": "With lofty but empty words, they appeal to the sensual passions of the flesh and entice those who are just escaping from others who live in error.",
+    "translation": {
+      "thai": "เพราะพวกเขากล่าวถ้อยคำที่อวดโอ่อันว่างเปล่า ล่อด้วยตัณหาแห่งเนื้อหนังและความเสเพล ดักจับคนที่เพิ่งหลีกเลี่ยงจากผู้ที่ดำเนินชีวิตในความหลงผิด",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ὑπέρογκα γὰρ ματαιότητος φθεγγόμενοι",
+          "thai": "เพราะพวกเขากล่าวถ้อยคำที่อวดโอ่อันว่างเปล่า",
+          "rationale": "ὑπέρογκος → อวดโอ่ (over-bombastic / boastful). ματαιότης → ว่างเปล่า. φθέγγομαι → กล่าว."
+        },
+        {
+          "greek": "δελεάζουσιν ἐν ἐπιθυμίαις σαρκὸς ἀσελγείαις",
+          "thai": "ล่อด้วยตัณหาแห่งเนื้อหนังและความเสเพล",
+          "rationale": "δελεάζω → ล่อ (matches v.14). ἐπιθυμία σαρκός → ตัณหาแห่งเนื้อหนัง. ἀσέλγεια → เสเพล."
+        },
+        {
+          "greek": "τοὺς ὀλίγως ἀποφεύγοντας τοὺς ἐν πλάνῃ ἀναστρεφομένους",
+          "thai": "ดักจับคนที่เพิ่งหลีกเลี่ยงจากผู้ที่ดำเนินชีวิตในความหลงผิด",
+          "rationale": "HAPAX ὀλίγως (only here NT, ‘scarcely / just-barely’) → เพิ่ง. ἀποφεύγω → หลีกเลี่ยง (matches 2 PET 1:4 + 2:20). πλάνη → ความหลงผิด. ἀναστρέφω → ดำเนินชีวิต — corpus-precedent for the verbal-form (matches the ἀναστροφή Petrine-signature noun)."
+        }
+      ],
+      "notes": "ONE HAPAX (ὀλίγως). False-teachers prey on new-converts (those-just-escaping-from-error). The bombastic-empty-words + flesh-enticement combination targets those-still-vulnerable to the very-error they-just-fled."
+    }
+  },
+  {
+    "reference": "2 Peter 2:19",
+    "chapter": 2,
+    "verse": 19,
+    "greek": "ἐλευθερίαν αὐτοῖς ἐπαγγελλόμενοι,αὐτοὶ δοῦλοι ὑπάρχοντες τῆς φθορᾶς·ᾧ γάρ τις ἥττηται,τούτῳ καὶ δεδούλωται.",
+    "bsb_english": "They promise them freedom, while they themselves are slaves to depravity. For a man is a slave to whatever has mastered him.",
+    "translation": {
+      "thai": "พวกเขาสัญญาว่าจะให้เสรีภาพแก่คนเหล่านั้น แต่ตัวพวกเขาเองเป็นทาสของความเสื่อมทราม เพราะผู้ใดถูกสิ่งใดเอาชนะ ผู้นั้นก็ตกเป็นทาสของสิ่งนั้น",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ἐλευθερίαν αὐτοῖς ἐπαγγελλόμενοι, αὐτοὶ δοῦλοι ὑπάρχοντες τῆς φθορᾶς",
+          "thai": "พวกเขาสัญญาว่าจะให้เสรีภาพแก่คนเหล่านั้น แต่ตัวพวกเขาเองเป็นทาสของความเสื่อมทราม",
+          "rationale": "ἐλευθερία → เสรีภาพ corpus-precedent. ἐπαγγέλλομαι → สัญญา. δοῦλος → ทาส. φθορά → ความเสื่อมทราม. The freedom-vs-slavery irony: false-teachers promise-what-they-themselves-do-not-have."
+        },
+        {
+          "greek": "ᾧ γάρ τις ἥττηται, τούτῳ καὶ δεδούλωται",
+          "thai": "เพราะผู้ใดถูกสิ่งใดเอาชนะ ผู้นั้นก็ตกเป็นทาสของสิ่งนั้น",
+          "rationale": "ἡσσάομαι → ถูก ... เอาชนะ. δουλόω perfect-passive → ตกเป็นทาส. The aphorism preserves the freedom-paradox: enslavement-by-conquest. Echoes JHN 8:34 ‘everyone-who-sins is-slave-to-sin’ thematically."
+        }
+      ],
+      "notes": "Famous freedom-and-slavery paradox: the conquered-by-X is-slave-to-X. The aphorism is anti-libertine (false-teachers promised libertinist-freedom in NAMES while themselves being slaves to the corruption they peddled)."
+    }
+  },
+  {
+    "reference": "2 Peter 2:20",
+    "chapter": 2,
+    "verse": 20,
+    "greek": "εἰ γὰρ ἀποφυγόντες τὰ μιάσματα τοῦ κόσμου ἐν ἐπιγνώσει τοῦ κυρίου καὶ σωτῆρος Ἰησοῦ Χριστοῦ τούτοις δὲ πάλιν ἐμπλακέντες ἡττῶνται,γέγονεν αὐτοῖς τὰ ἔσχατα χείρονα τῶν πρώτων.",
+    "bsb_english": "If indeed they have escaped the corruption of the world through the knowledge of our Lord and Savior Jesus Christ, only to be entangled and overcome by it again, their final condition is worse than it was at first.",
+    "translation": {
+      "thai": "เพราะถ้าเมื่อพวกเขาได้หลีกเลี่ยงความเสื่อมทรามของโลกโดยทางความรู้ที่แท้จริงของพระเยซูคริสต์องค์พระผู้เป็นเจ้าและพระผู้ช่วยให้รอดของเรา แล้วก็กลับเข้าไปพัวพันและถูกเอาชนะอีกครั้ง สภาพสุดท้ายของพวกเขาก็เลวร้ายกว่าสภาพแรก",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "εἰ γὰρ ἀποφυγόντες τὰ μιάσματα τοῦ κόσμου",
+          "thai": "เพราะถ้าเมื่อพวกเขาได้หลีกเลี่ยงความเสื่อมทรามของโลก",
+          "rationale": "HAPAX μίασμα (only here NT, ‘defilement’; cognate of μιασμός at v.10) → ความเสื่อมทราม. ἀποφεύγω → หลีกเลี่ยง (matches 2 PET 1:4 + 2:18)."
+        },
+        {
+          "greek": "ἐν ἐπιγνώσει τοῦ κυρίου καὶ σωτῆρος Ἰησοῦ Χριστοῦ",
+          "thai": "โดยทางความรู้ที่แท้จริงของพระเยซูคริสต์องค์พระผู้เป็นเจ้าและพระผู้ช่วยให้รอดของเรา",
+          "rationale": "GRANVILLE-SHARP CONSTRUCTION: single article τοῦ governs κύριος + σωτήρ → single subject (Jesus = our Lord and Savior). Per pastoral_corpus_locks §C: high-Christological. Same pattern as 2 PET 1:11 + Tit 2:13. ἐπίγνωσις → ความรู้ที่แท้จริง corpus-locked."
+        },
+        {
+          "greek": "τούτοις δὲ πάλιν ἐμπλακέντες ἡττῶνται",
+          "thai": "แล้วก็กลับเข้าไปพัวพันและถูกเอาชนะอีกครั้ง",
+          "rationale": "ἐμπλέκω → พัวพัน. ἡσσάομαι → ถูกเอาชนะ (matches v.19)."
+        },
+        {
+          "greek": "γέγονεν αὐτοῖς τὰ ἔσχατα χείρονα τῶν πρώτων",
+          "thai": "สภาพสุดท้ายของพวกเขาก็เลวร้ายกว่าสภาพแรก",
+          "rationale": "ἔσχατα ... χείρονα τῶν πρώτων → สภาพสุดท้าย ... เลวร้ายกว่าสภาพแรก. Echoes MAT 12:45 + LUK 11:26 (the seven-spirits-worse-than-the-first parable; corpus-internal-link)."
+        }
+      ],
+      "notes": "ONE HAPAX (μίασμα). GRANVILLE-SHARP construction (matches 2 PET 1:11 + Tit 2:13 — pastoral_corpus_locks §C). Echoes MAT 12:45 + LUK 11:26 ‘last-state-worse-than-first.’ The apostasy-relapse-judgment principle."
+    }
+  },
+  {
+    "reference": "2 Peter 2:21",
+    "chapter": 2,
+    "verse": 21,
+    "greek": "κρεῖττον γὰρ ἦν αὐτοῖς μὴ ἐπεγνωκέναι τὴν ὁδὸν τῆς δικαιοσύνης ἢ ἐπιγνοῦσιν ὑποστρέψαι ἐκ τῆς παραδοθείσης αὐτοῖς ἁγίας ἐντολῆς·",
+    "bsb_english": "It would have been better for them not to have known the way of righteousness than to have known it and then to turn away from the holy commandment passed on to them.",
+    "translation": {
+      "thai": "เพราะการที่พวกเขาไม่รู้จักทางแห่งความชอบธรรมเลยก็ดีกว่าการที่พวกเขาได้รู้จักแล้วหันกลับจากพระบัญญัติบริสุทธิ์ที่ทรงมอบให้แก่พวกเขา",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "κρεῖττον γὰρ ἦν αὐτοῖς μὴ ἐπεγνωκέναι τὴν ὁδὸν τῆς δικαιοσύνης",
+          "thai": "เพราะการที่พวกเขาไม่รู้จักทางแห่งความชอบธรรมเลยก็ดีกว่า",
+          "rationale": "κρείττων → ดีกว่า (better — comparative). ἐπιγινώσκω perfect → รู้จัก (the verbal form of ἐπίγνωσις-keyword). ‘ὁδὸς δικαιοσύνης’ → ทางแห่งความชอบธรรม."
+        },
+        {
+          "greek": "ἢ ἐπιγνοῦσιν ὑποστρέψαι ἐκ τῆς παραδοθείσης αὐτοῖς ἁγίας ἐντολῆς",
+          "thai": "การที่พวกเขาได้รู้จักแล้วหันกลับจากพระบัญญัติบริสุทธิ์ที่ทรงมอบให้แก่พวกเขา",
+          "rationale": "ὑποστρέφω → หันกลับ. παραδίδωμι passive → ทรงมอบให้ (royal-prefix preserves the divine-tradition-handing). ἐντολή → พระบัญญัติ corpus-precedent (royal-prefix for divine-commandment). ἅγιος → บริสุทธิ์."
+        }
+      ],
+      "notes": "Echoes MAT 26:24 (better-not-to-have-been-born for Judas) — the ‘known-then-rejected’ apostasy-judgment formula. The holy-commandment-handed-down language echoes JUDE 3 ‘faith once-for-all delivered to-the-saints.’"
+    }
+  },
+  {
+    "reference": "2 Peter 2:22",
+    "chapter": 2,
+    "verse": 22,
+    "greek": "συμβέβηκεν αὐτοῖς τὸ τῆς ἀληθοῦς παροιμίας·Κύων ἐπιστρέψας ἐπὶ τὸ ἴδιον ἐξέραμα,καί·Ὗς λουσαμένη εἰς κυλισμὸν βορβόρου.",
+    "bsb_english": "Of them the proverbs are true: “A dog returns to its vomit,” and, “A sow that is washed goes back to her wallowing in the mud.”",
+    "translation": {
+      "thai": "สิ่งที่เกิดขึ้นกับพวกเขาเป็นจริงตามสุภาษิตที่ว่า “สุนัขกลับไปกินสิ่งที่มันสำรอกเอง” และ “สุกรที่ล้างแล้วก็กลับไปเกลือกกลั้วในโคลนตม”",
+      "thai_literal": null,
+      "thai_summary": "สุภาษิตแรก ‘สุนัขกลับไปกินสิ่งที่มันสำรอกเอง’ มาจากสุภาษิต 26:11 ในพันธสัญญาเดิม สุภาษิตที่สอง ‘สุกรที่ล้างแล้วก็กลับไปเกลือกกลั้วในโคลนตม’ ไม่ปรากฏในพันธสัญญาเดิม นักวิชาการเชื่อว่าน่าจะมาจากเรื่องอาหิคารแห่งอัสซีเรีย หรือเป็นสุภาษิตยิวในยุคนั้น สุภาษิตทั้งสองใช้สัตว์ที่ในพระคัมภีร์ถือว่าไม่สะอาด — สุนัขและสุกร — เพื่อเป็นภาพของผู้ที่ละทิ้งความชอบธรรมและกลับไปสู่ความเสื่อมทราม",
+      "key_decisions": [
+        {
+          "greek": "συμβέβηκεν αὐτοῖς τὸ τῆς ἀληθοῦς παροιμίας",
+          "thai": "สิ่งที่เกิดขึ้นกับพวกเขาเป็นจริงตามสุภาษิตที่ว่า",
+          "rationale": "συμβαίνω perfect → เกิดขึ้น. παροιμία → สุภาษิต — preserves the proverb-genre marker. ‘the true proverb’ → ที่ว่า ... เป็นจริง."
+        },
+        {
+          "greek": "Κύων ἐπιστρέψας ἐπὶ τὸ ἴδιον ἐξέραμα",
+          "thai": "“สุนัขกลับไปกินสิ่งที่มันสำรอกเอง”",
+          "rationale": "DIRECT CITATION of PROV 26:11. HAPAX ἐξέραμα (only here NT, ‘vomit’) → สิ่งที่ ... สำรอก. κύων → สุนัข. ἐπιστρέφω → กลับไป. Per RULES §5b: direct-speech curly Thai-quotes for the proverb. DB entry recorded."
+        },
+        {
+          "greek": "Ὗς λουσαμένη εἰς κυλισμὸν βορβόρου",
+          "thai": "“สุกรที่ล้างแล้วก็กลับไปเกลือกกลั้วในโคลนตม”",
+          "rationale": "THREE HAPAX. ὗς (only here NT, ‘sow / pig’) → สุกร. κυλισμός (only here NT, ‘rolling / wallowing’) → เกลือกกลั้ว. βόρβορος (only here NT, ‘mud / mire’) → โคลนตม. λούω → ล้าง. Source: NOT direct OT; possibly from Ahiqar (extra-canonical Aramaic-Wisdom literature) — thai_summary explains the source-tradition. Same Thai-quote-marks as the dog-proverb."
+        }
+      ],
+      "notes": "FOUR HAPAX (ἐξέραμα + ὗς + κυλισμός + βόρβορος). DIRECT CITATION (PROV 26:11 dog-proverb). Sow-proverb is extra-canonical (likely Ahiqar 8:18 or oral-Jewish-wisdom). thai_summary explains the dog/sow unclean-animal symbolism for Thai readers. DB entry added for PRO 26:11."
+    }
+  }
+]
