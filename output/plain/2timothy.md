@@ -134,7 +134,7 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **15** และตั้งแต่ท่านยังเป็นทารก ท่านก็รู้พระคัมภีร์อันศักดิ์สิทธิ์ ซึ่งสามารถทำให้ท่านมีปัญญาที่นำไปสู่ความรอดโดยทางความเชื่อในพระเยซูคริสต์
 
-**16** พระคัมภีร์ทุกตอนได้รับการดลใจจากพระเจ้า และมีประโยชน์สำหรับการสอน สำหรับการตักเตือน สำหรับการแก้ไข และสำหรับการอบรมในเรื่องความชอบธรรม
+**16** พระคัมภีร์ทั้งหมดเป็นลมพระโอษฐ์ของพระเจ้า และมีประโยชน์สำหรับการสอน สำหรับการตักเตือน สำหรับการแก้ไข และสำหรับการอบรมในเรื่องความชอบธรรม
 
 **17** เพื่อให้คนของพระเจ้าเป็นผู้ที่ครบบริบูรณ์ พร้อมสำหรับการดีทุกอย่าง
 
@@ -194,8 +194,8 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/2timothy_01.json` | `d2e550cdb1be9fb4b9683a8279aca9e95c1922583ff90ff0c8c7ddaeee7fc60b` |
+| `output/translations/2timothy_01.json` | `d7eed99d06146ebbbe4ba7a112c393e206ac1affad2e3b0a836e252bbbf5f0e7` |
 | `output/translations/2timothy_02.json` | `0556acc3c5c3e22ca3ce39906dd0d86d24b9b2268928c347a54bb642d0d4fa7f` |
-| `output/translations/2timothy_03.json` | `cd1b02c94b14a8b522f52505a87d02723e67530486cfa020877b347e9bf37f91` |
+| `output/translations/2timothy_03.json` | `7fcb2d3f3a2b221f9fa21f6f1ab9285fb455482a2107fc0ba3766a9c60137933` |
 | `output/translations/2timothy_04.json` | `54074762576c5b4e7c8e2f3ad2bccd8d89f6157aa4a90b50d5482131f5b65d43` |
 
