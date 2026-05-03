@@ -1,6 +1,6 @@
 # ยากอบ
 
-_James — 3 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
+_James — 4 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
 
 _This **plain edition** shows only the Thai translation — no commentary, no Greek, no English. Intended for Thai scholars and theological reviewers evaluating the translation on its own terms. For the annotated edition with contextual summaries (บริบท), see `output/reader/james.md`. For the underlying Greek, English (BSB) reference, and translator decisions per verse, see the per-chapter review reports at `output/check_reports/james_NN_review.md` or the source JSON at `output/translations/`._
 
@@ -160,6 +160,44 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 ---
 
+## บทที่ 4
+
+**1** การวิวาทและการทะเลาะในหมู่พวกท่านมาจากที่ใด มิใช่มาจากความใคร่ของท่าน ที่ทำสงครามอยู่ในอวัยวะของท่านเองหรือ
+
+**2** ท่านปรารถนาแต่ไม่ได้ ท่านฆ่าและริษยา แต่ไม่อาจได้ในสิ่งที่ต้องการ ท่านทะเลาะและวิวาท ท่านไม่ได้เพราะท่านไม่ได้ทูลขอ
+
+**3** ท่านทูลขอแต่ไม่ได้รับ เพราะท่านทูลขอด้วยเจตนาที่ผิด เพื่อจะใช้ตามความใคร่ของท่านเอง
+
+**4** ท่านทั้งหลายผู้นอกใจพระเจ้าเอ๋ย ท่านไม่รู้หรือว่า การเป็นมิตรกับโลกย่อมเป็นการเป็นศัตรูกับพระเจ้า เพราะฉะนั้น ผู้ใดเลือกที่จะเป็นมิตรของโลก ผู้นั้นก็ตั้งตนเป็นศัตรูของพระเจ้า
+
+**5** หรือท่านคิดว่าพระคัมภีร์กล่าวอย่างเปล่าประโยชน์หรือว่า “วิญญาณที่พระองค์ทรงให้สถิตในเราโหยหาด้วยความริษยา”
+
+**6** แต่พระองค์ทรงประทานพระคุณยิ่งกว่านั้น เหตุฉะนั้นพระคัมภีร์จึงกล่าวว่า “พระเจ้าทรงต่อต้านคนเย่อหยิ่ง แต่ทรงประทานพระคุณแก่คนถ่อมใจ”
+
+**7** เพราะฉะนั้น จงยอมจำนนต่อพระเจ้า แต่จงต่อสู้มาร แล้วมันจะหนีไปจากท่าน
+
+**8** จงเข้าใกล้พระเจ้า และพระองค์จะเสด็จเข้าใกล้ท่าน คนบาปทั้งหลาย จงล้างมือของท่านให้สะอาด และผู้มีใจสองใจทั้งหลาย จงชำระใจของท่านให้บริสุทธิ์
+
+**9** จงทุกข์ใจ จงเศร้าโศก และจงร้องไห้ จงให้เสียงหัวเราะของท่านกลายเป็นความเศร้าโศก และความยินดีของท่านกลายเป็นความหดหู่
+
+**10** จงถ่อมตนเฉพาะพระพักตร์ขององค์พระผู้เป็นเจ้า และพระองค์จะทรงยกท่านขึ้น
+
+**11** พี่น้องทั้งหลาย อย่าพูดใส่ร้ายซึ่งกันและกัน ผู้ที่พูดใส่ร้ายพี่น้องของตน หรือพิพากษาพี่น้องของตน ก็พูดใส่ร้ายธรรมบัญญัติและพิพากษาธรรมบัญญัติ ถ้าท่านพิพากษาธรรมบัญญัติ ท่านก็ไม่ใช่ผู้ปฏิบัติตามธรรมบัญญัติ แต่เป็นผู้พิพากษา
+
+**12** มีผู้บัญญัติธรรมบัญญัติและผู้พิพากษาเพียงองค์เดียว คือผู้ที่ทรงสามารถช่วยให้รอดและทำลายได้ แต่ท่านเป็นผู้ใดเล่า ที่จะพิพากษาเพื่อนบ้าน
+
+**13** เอาเถิด ท่านทั้งหลายผู้ที่กล่าวว่า “วันนี้หรือพรุ่งนี้เราจะไปที่เมืองนั้นเมืองนี้ และอยู่ที่นั่นสักปีหนึ่ง ทำการค้าขายและหากำไร”
+
+**14** ท่านทั้งหลายไม่รู้แม้แต่ว่าจะเกิดอะไรในวันพรุ่งนี้ ชีวิตของท่านเป็นเช่นไร ท่านเป็นเหมือนหมอกที่ปรากฏอยู่ชั่วครู่ แล้วก็เลือนหายไป
+
+**15** แทนที่จะกล่าวเช่นนั้น ท่านควรกล่าวว่า “ถ้าองค์พระผู้เป็นเจ้าทรงพระประสงค์ พวกเราจะมีชีวิตและทำสิ่งนั้นสิ่งนี้”
+
+**16** แต่บัดนี้ท่านอวดในความหยิ่งทะนงของท่าน การอวดเช่นนี้ทุกอย่างเป็นความชั่ว
+
+**17** เพราะฉะนั้น ผู้ใดที่รู้จักสิ่งดีที่ควรทำ แต่ไม่ทำ ผู้นั้นก็มีบาป
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -169,4 +207,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/james_01.json` | `d493f72c16a0a05776625567731b705eb0fbc3399685fa95d5e45a888ea670c7` |
 | `output/translations/james_02.json` | `24fe583b63efce3b4e5e23ea02ed30abb45155e80d575ddc0c6bddd201b091ef` |
 | `output/translations/james_03.json` | `3808eccaa5550cc2fda97cd0dce2538331998823e416bf1c48ab042c3ba969d6` |
+| `output/translations/james_04.json` | `09b99d8f7f57b7b9e498433dcd1f08239fdfb13a0fe7ed62ef514edcfb7467f5` |
 

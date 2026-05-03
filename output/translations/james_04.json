@@ -1,0 +1,482 @@
+[
+  {
+    "reference": "James 4:1",
+    "chapter": 4,
+    "verse": 1,
+    "greek": "Πόθεν πόλεμοι καὶ πόθεν μάχαι ἐν ὑμῖν;οὐκ ἐντεῦθεν,ἐκ τῶν ἡδονῶν ὑμῶν τῶν στρατευομένων ἐν τοῖς μέλεσιν ὑμῶν;",
+    "bsb_english": "What causes conflicts and quarrels among you? Don’t they come from the passions at war within you?",
+    "translation": {
+      "thai": "การวิวาทและการทะเลาะในหมู่พวกท่านมาจากที่ใด มิใช่มาจากความใคร่ของท่าน ที่ทำสงครามอยู่ในอวัยวะของท่านเองหรือ",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "Πόθεν πόλεμοι καὶ πόθεν μάχαι ἐν ὑμῖν",
+          "thai": "การวิวาทและการทะเลาะในหมู่พวกท่านมาจากที่ใด",
+          "rationale": "Per uW figs-rquestion + figs-doublet: πόλεμοι + μάχαι doublet (wars + battles) — render distinct Thai for each: การวิวาท + การทะเลาะ. The doublet preserves James’s emphasis on the relational-conflict spectrum. Render with terminal-question form for the rhetorical-question."
+        },
+        {
+          "greek": "οὐκ ἐντεῦθεν, ἐκ τῶν ἡδονῶν ὑμῶν τῶν στρατευομένων ἐν τοῖς μέλεσιν ὑμῶν",
+          "thai": "มิใช่มาจากความใคร่ของท่าน ที่ทำสงครามอยู่ในอวัยวะของท่านเองหรือ",
+          "rationale": "Per uW figs-rquestion: rhetorical-question expects-affirmative-answer. Render ‘มิใช่มา ... หรือ.’ Per uW figs-personification + figs-metaphor: ἡδοναί στρατευόμεναι ‘pleasures-warring’ as if living-army. ἡδονή → ความใคร่ corpus-precedent JAS 1:14, JAS 2 (used in lemma-internal-link with ἐπιθυμία cluster). στρατεύομαι → ทำสงคราม — preserves the war-imagery (transfers naturally to Thai)."
+        }
+      ],
+      "notes": "Opens ch.4 with the diagnosis: conflicts-among-believers stem from internal-warring-desires. The πόλεμος-στρατεύομαι war-vocabulary creates a battlefield-of-the-soul image."
+    }
+  },
+  {
+    "reference": "James 4:2",
+    "chapter": 4,
+    "verse": 2,
+    "greek": "ἐπιθυμεῖτε,καὶ οὐκ ἔχετε·φονεύετε καὶ ζηλοῦτε,καὶ οὐ δύνασθε ἐπιτυχεῖν·μάχεσθε καὶ πολεμεῖτε.οὐκ ἔχετε διὰ τὸ μὴ αἰτεῖσθαι ὑμᾶς·",
+    "bsb_english": "You crave what you do not have; you kill and covet, but are unable to obtain it. You quarrel and fight. You do not have, because you do not ask.",
+    "translation": {
+      "thai": "ท่านปรารถนาแต่ไม่ได้ ท่านฆ่าและริษยา แต่ไม่อาจได้ในสิ่งที่ต้องการ ท่านทะเลาะและวิวาท ท่านไม่ได้เพราะท่านไม่ได้ทูลขอ",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ἐπιθυμεῖτε, καὶ οὐκ ἔχετε",
+          "thai": "ท่านปรารถนาแต่ไม่ได้",
+          "rationale": "Per uW grammar-connect-logic-contrast: καί contrastive ‘but.’ ἐπιθυμέω → ปรารถนา (verb-form of ἐπιθυμία ‘ตัณหา’). The bare ‘ไม่ได้’ preserves the elliptical Greek (‘not-have-what-you-covet’)."
+        },
+        {
+          "greek": "φονεύετε καὶ ζηλοῦτε",
+          "thai": "ท่านฆ่าและริษยา",
+          "rationale": "Per uW figs-metaphor + figs-hendiadys: φονεύω likely figurative ‘hate / kill-with-envy.’ Render literal ฆ่า to preserve James’s rhetorical-strength (Thai readers will recognize this as the figurative-extreme-statement, mirroring Jesus’s teaching at MAT 5:21-22 that hate = murder). ζηλόω → ริษยา corpus-precedent 1 Cor 3:3 same lemma-stem."
+        },
+        {
+          "greek": "καὶ οὐ δύνασθε ἐπιτυχεῖν",
+          "thai": "แต่ไม่อาจได้ในสิ่งที่ต้องการ",
+          "rationale": "ἐπιτυγχάνω → ได้ (achieve / obtain). Render with explicit ‘ในสิ่งที่ต้องการ’ to disambiguate the ellipsis."
+        },
+        {
+          "greek": "μάχεσθε καὶ πολεμεῖτε",
+          "thai": "ท่านทะเลาะและวิวาท",
+          "rationale": "Per uW figs-doublet: μάχομαι + πολεμέω near-synonyms (battle + war). Same verb-stems as v.1 nouns; preserve the consistency. Render ‘ทะเลาะ + วิวาท’ — same Thai-doublet-pair as v.1 reordered (consistent lemma-rendering)."
+        },
+        {
+          "greek": "οὐκ ἔχετε διὰ τὸ μὴ αἰτεῖσθαι ὑμᾶς",
+          "thai": "ท่านไม่ได้เพราะท่านไม่ได้ทูลขอ",
+          "rationale": "αἰτέομαι middle ‘ask-for-oneself / petition.’ Per uW figs-explicit: implicit object = ‘ask-God-for-it.’ Render ‘ทูลขอ’ — preserves the humble-petition-to-God register without forcing the explicit ‘from-God’ that the Greek leaves implicit."
+        }
+      ],
+      "notes": "The four-clause war-cycle (covet → kill/envy → quarrel/war → not-asking-God). Sets up v.3’s wrong-motive-asking diagnostic."
+    }
+  },
+  {
+    "reference": "James 4:3",
+    "chapter": 4,
+    "verse": 3,
+    "greek": "αἰτεῖτε καὶ οὐ λαμβάνετε,διότι κακῶς αἰτεῖσθε,ἵνα ἐν ταῖς ἡδοναῖς ὑμῶν δαπανήσητε.",
+    "bsb_english": "And when you do ask, you do not receive, because you ask with wrong motives, that you may squander it on your pleasures.",
+    "translation": {
+      "thai": "ท่านทูลขอแต่ไม่ได้รับ เพราะท่านทูลขอด้วยเจตนาที่ผิด เพื่อจะใช้ตามความใคร่ของท่านเอง",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "αἰτεῖτε καὶ οὐ λαμβάνετε",
+          "thai": "ท่านทูลขอแต่ไม่ได้รับ",
+          "rationale": "Per uW grammar-connect-logic-contrast: καί contrastive. Same lemma-Thai αἰτέω → ทูลขอ as v.2."
+        },
+        {
+          "greek": "διότι κακῶς αἰτεῖσθε",
+          "thai": "เพราะท่านทูลขอด้วยเจตนาที่ผิด",
+          "rationale": "Per uW: κακῶς ‘badly’ here = wrong-motive (NOT wrong-method). Render ‘เจตนาที่ผิด’ — preserves the motive-of-the-asking sense."
+        },
+        {
+          "greek": "ἵνα ἐν ταῖς ἡδοναῖς ὑμῶν δαπανήσητε",
+          "thai": "เพื่อจะใช้ตามความใคร่ของท่านเอง",
+          "rationale": "Per uW figs-metaphor: δαπανάω ‘spend / squander’ — render ‘ใช้’ preserves the using-up-resources sense; transfers naturally to Thai. The purpose-clause makes the wrong-motive explicit."
+        }
+      ],
+      "notes": "Wrong-motive-prayer diagnosis. The progression (ask-with-wrong-motive → not-receive) mirrors v.2 (not-ask-at-all → not-have)."
+    }
+  },
+  {
+    "reference": "James 4:4",
+    "chapter": 4,
+    "verse": 4,
+    "greek": "μοιχαλίδες,οὐκ οἴδατε ὅτι ἡ φιλία τοῦ κόσμου ἔχθρα τοῦ θεοῦ ἐστιν;ὃς ἐὰν οὖν βουληθῇ φίλος εἶναι τοῦ κόσμου,ἐχθρὸς τοῦ θεοῦ καθίσταται.",
+    "bsb_english": "You adulteresses! Do you not know that friendship with the world is hostility toward God? Therefore, whoever chooses to be a friend of the world renders himself an enemy of God.",
+    "translation": {
+      "thai": "ท่านทั้งหลายผู้นอกใจพระเจ้าเอ๋ย ท่านไม่รู้หรือว่า การเป็นมิตรกับโลกย่อมเป็นการเป็นศัตรูกับพระเจ้า เพราะฉะนั้น ผู้ใดเลือกที่จะเป็นมิตรของโลก ผู้นั้นก็ตั้งตนเป็นศัตรูของพระเจ้า",
+      "thai_literal": null,
+      "thai_summary": "ยากอบใช้คำว่า ‘ผู้นอกใจ’ (μοιχαλίδες รูปเพศหญิง ‘หญิงล่วงประเวณี’) ในความหมายเชิงเปรียบเทียบ ซึ่งเป็นภาพที่พระเจ้าทรงใช้บ่อยในพันธสัญญาเดิม (เช่น โฮเชยา เยเรมีย์ เอเสเคียล) เพื่อบรรยายความไม่ซื่อสัตย์ของชนชาติอิสราเอลต่อพระเจ้า — เปรียบเทียบกับการที่ภรรยาไม่ซื่อสัตย์ต่อสามี ‘โลก’ ในที่นี้หมายถึงระบบค่านิยมของผู้ที่ไม่ยำเกรงพระเจ้า ไม่ได้หมายถึงโลกฝ่ายกายภาพ การ ‘เป็นมิตรกับโลก’ คือการรับเอาค่านิยมเหล่านั้นเป็นแนวทางของชีวิต",
+      "key_decisions": [
+        {
+          "greek": "μοιχαλίδες",
+          "thai": "ท่านทั้งหลายผู้นอกใจพระเจ้าเอ๋ย",
+          "rationale": "Per uW figs-metaphor: μοιχαλίς ‘adulteress’ as OT-prophetic-metaphor for unfaithfulness-to-God (HOS, JER 3:8, EZK 16, etc.). Render ‘ผู้นอกใจพระเจ้า’ — preserves the spiritual-unfaithfulness sense; explicit ‘พระเจ้า’ added to disambiguate the metaphor (Thai readers may not immediately catch the OT-prophetic-marriage-metaphor without it)."
+        },
+        {
+          "greek": "οὐκ οἴδατε ὅτι ἡ φιλία τοῦ κόσμου ἔχθρα τοῦ θεοῦ ἐστιν",
+          "thai": "ท่านไม่รู้หรือว่า การเป็นมิตรกับโลกย่อมเป็นการเป็นศัตรูกับพระเจ้า",
+          "rationale": "Per uW figs-rquestion: rhetorical-question for emphasis. Render ‘ไม่รู้ ... หรือ.’ HAPAX φιλία (only here NT, ‘friendship’) → การเป็นมิตร — preserves the friendship-relationship sense. Per uW figs-metonymy + figs-personification: κόσμος = ungodly-value-system; rendered ‘โลก’ same as JAS 1:27 (where the same system-of-values sense is locked). ἔχθρα → การเป็นศัตรู — preserves the enmity-relationship sense; per uW figs-abstractnouns: render concrete-noun ‘ศัตรู’ for the enemy-status."
+        },
+        {
+          "greek": "ὃς ἐὰν οὖν βουληθῇ φίλος εἶναι τοῦ κόσμου, ἐχθρὸς τοῦ θεοῦ καθίσταται",
+          "thai": "เพราะฉะนั้น ผู้ใดเลือกที่จะเป็นมิตรของโลก ผู้นั้นก็ตั้งตนเป็นศัตรูของพระเจ้า",
+          "rationale": "Per uW figs-activepassive: καθίσταται middle/passive ‘renders-himself / becomes.’ Render ‘ตั้งตนเป็น’ — preserves the self-positioning sense. βουληθῇ aorist subjunctive ‘chooses’ → เลือก — emphasizes the deliberate-volition."
+        }
+      ],
+      "notes": "ONE HAPAX (φιλία). Per uW Translation Issues note + uW figs-metaphor: adultery as OT-prophetic-metaphor for unfaithfulness-to-God. Same metaphor at HOS, JER 3:8, EZK 16, MAT 12:39 / 16:4 (‘adulterous-generation’). The friendship-vs-enmity binary is sharply Pauline-style (cf. ROM 8:7)."
+    }
+  },
+  {
+    "reference": "James 4:5",
+    "chapter": 4,
+    "verse": 5,
+    "greek": "ἢ δοκεῖτε ὅτι κενῶς ἡ γραφὴ λέγει·Πρὸς φθόνον ἐπιποθεῖ τὸ πνεῦμα ὃ κατῴκισεν ἐν ἡμῖν;",
+    "bsb_english": "Or do you think the Scripture says without reason that the Spirit He caused to dwell in us yearns with envy?",
+    "translation": {
+      "thai": "หรือท่านคิดว่าพระคัมภีร์กล่าวอย่างเปล่าประโยชน์หรือว่า “วิญญาณที่พระองค์ทรงให้สถิตในเราโหยหาด้วยความริษยา”",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ἢ δοκεῖτε ὅτι κενῶς ἡ γραφὴ λέγει",
+          "thai": "หรือท่านคิดว่าพระคัมภีร์กล่าวอย่างเปล่าประโยชน์หรือว่า",
+          "rationale": "Per uW figs-rquestion: rhetorical-question. HAPAX κενῶς (only here NT, adverb of κενός ‘in-vain / without-reason’) → อย่างเปล่าประโยชน์ — preserves the futile-statement sense. γραφή → พระคัมภีร์ corpus-locked. Per RULES §5b: direct-speech in curly Thai-quotes “…”."
+        },
+        {
+          "greek": "Πρὸς φθόνον ἐπιποθεῖ τὸ πνεῦμα ὃ κατῴκισεν ἐν ἡμῖν",
+          "thai": "“วิญญาณที่พระองค์ทรงให้สถิตในเราโหยหาด้วยความริษยา”",
+          "rationale": "DIFFICULT VERSE — multiple-interpretations per uW. The Spirit-as-subject reading (option 1) renders most-naturally: ‘the Spirit [that God caused-to-dwell-in-us] yearns [with envy / jealousy].’ HAPAX κατοικίζω (only here NT, ‘cause-to-dwell’) → ทรงให้สถิต — preserves the divine-causation. ἐπιποθέω → โหยหา (yearn / long-after). πνεῦμα ambiguous — either Holy-Spirit or human-spirit; render ‘วิญญาณ’ preserves the same-Greek-ambiguity (Thai ‘วิญญาณ’ used for both Holy-Spirit and human-spirit contextually). φθόνος → ความริษยา corpus-precedent same Thai. Note: this verse is NOT a direct OT-citation but James’s general-Scripture-summary; rendered as quoted-statement-paraphrase."
+        }
+      ],
+      "notes": "TWO HAPAX (κενῶς + κατοικίζω). Per uW: this is ONE OF THE most difficult NT verses to interpret. The Greek allows multiple readings; render preserves the lexical-ambiguity (Spirit-subject-vs-object; jealousy-positive-divine-vs-negative-human). Not a direct OT-citation; James paraphrases the general OT-Scripture-teaching about God’s jealousy for his people (cf. EXO 20:5, DEU 4:24)."
+    }
+  },
+  {
+    "reference": "James 4:6",
+    "chapter": 4,
+    "verse": 6,
+    "greek": "μείζονα δὲ δίδωσιν χάριν·διὸ λέγει·Ὁ θεὸς ὑπερηφάνοις ἀντιτάσσεται ταπεινοῖς δὲ δίδωσιν χάριν.",
+    "bsb_english": "But He gives us more grace. This is why it says: “God opposes the proud, but gives grace to the humble.”",
+    "translation": {
+      "thai": "แต่พระองค์ทรงประทานพระคุณยิ่งกว่านั้น เหตุฉะนั้นพระคัมภีร์จึงกล่าวว่า “พระเจ้าทรงต่อต้านคนเย่อหยิ่ง แต่ทรงประทานพระคุณแก่คนถ่อมใจ”",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "μείζονα δὲ δίδωσιν χάριν",
+          "thai": "แต่พระองค์ทรงประทานพระคุณยิ่งกว่านั้น",
+          "rationale": "Per uW: μείζονα refers to quantity, not size — ‘even-more grace.’ Render ‘ยิ่งกว่านั้น’ — preserves the comparative-greater-amount sense. δίδωμι → ทรงประทาน (royal-divine-bestowal). χάρις → พระคุณ corpus-locked."
+        },
+        {
+          "greek": "διὸ λέγει· Ὁ θεὸς ὑπερηφάνοις ἀντιτάσσεται ταπεινοῖς δὲ δίδωσιν χάριν",
+          "thai": "เหตุฉะนั้นพระคัมภีร์จึงกล่าวว่า “พระเจ้าทรงต่อต้านคนเย่อหยิ่ง แต่ทรงประทานพระคุณแก่คนถ่อมใจ”",
+          "rationale": "DIRECT OT CITATION of PROV 3:34 LXX (κύριος ὑπερηφάνοις ἀντιτάσσεται, ταπεινοῖς δὲ δίδωσιν χάριν). James replaces κύριος with θεός; otherwise verbatim. Same verse cited at 1 PET 5:5 (also with θεός substitution). Per uW writing-pronouns: ‘it’ refers to Scripture. Render ‘พระคัมภีร์จึงกล่าวว่า.’ Per RULES §5b: direct-speech curly Thai-quotes. ὑπερήφανος → คนเย่อหยิ่ง (proud-arrogant). ταπεινός → คนถ่อมใจ corpus-precedent 2 Cor 7:6. ἀντιτάσσομαι → ทรงต่อต้าน (royal-prefix). DB entry recorded."
+        }
+      ],
+      "notes": "DIRECT OT CITATION: PROV 3:34 LXX. Same verse cited verbatim at 1 PET 5:5 (also with θεός-for-κύριος substitution). DB entry added. Per RULES §5b: direct-speech curly Thai-quotes. The proverb anchors the v.7-10 imperative-cluster: humility-receives-grace, pride-is-opposed."
+    }
+  },
+  {
+    "reference": "James 4:7",
+    "chapter": 4,
+    "verse": 7,
+    "greek": "ὑποτάγητε οὖν τῷ θεῷ·ἀντίστητε δὲ τῷ διαβόλῳ,καὶ φεύξεται ἀφ’ὑμῶν·",
+    "bsb_english": "Submit yourselves, then, to God. Resist the devil, and he will flee from you.",
+    "translation": {
+      "thai": "เพราะฉะนั้น จงยอมจำนนต่อพระเจ้า แต่จงต่อสู้มาร แล้วมันจะหนีไปจากท่าน",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ὑποτάγητε οὖν τῷ θεῷ",
+          "thai": "เพราะฉะนั้น จงยอมจำนนต่อพระเจ้า",
+          "rationale": "Per uW grammar-connect-logic-result: οὖν marks the v.6 grace-to-humble grounding. ὑποτάσσω passive-imperative → จงยอมจำนน — distinct from the household-codes ยอมอยู่ใต้บังคับ at Tit 2:5,9 etc.; here a more-direct ‘yield-fully-to-God’ register, render with ยอมจำนน to mark the absolute-self-surrender-to-God."
+        },
+        {
+          "greek": "ἀντίστητε δὲ τῷ διαβόλῳ",
+          "thai": "แต่จงต่อสู้มาร",
+          "rationale": "ἀνθίστημι → ต่อสู้ (resist / withstand). διάβολος → มาร corpus-locked (the devil-as-proper-noun, distinct from the adjectival διαβόλους ‘slanderous-people’ at 1 Tim 3:11 + Tit 2:3)."
+        },
+        {
+          "greek": "καὶ φεύξεται ἀφ’ ὑμῶν",
+          "thai": "แล้วมันจะหนีไปจากท่าน",
+          "rationale": "Per uW grammar-connect-logic-result: καί marks consequence. φεύγω → หนีไป corpus-precedent. The devil-flees-from-resistance promise."
+        }
+      ],
+      "notes": "First two of the chapter’s ten-imperative cluster (vv.7-10). The submit-to-God / resist-the-devil double-imperative is the fundamental allegiance-realignment of true repentance."
+    }
+  },
+  {
+    "reference": "James 4:8",
+    "chapter": 4,
+    "verse": 8,
+    "greek": "ἐγγίσατε τῷ θεῷ,καὶ ἐγγιεῖ ὑμῖν.καθαρίσατε χεῖρας,ἁμαρτωλοί,καὶ ἁγνίσατε καρδίας,δίψυχοι.",
+    "bsb_english": "Draw near to God, and He will draw near to you. Cleanse your hands, you sinners, and purify your hearts, you double-minded.",
+    "translation": {
+      "thai": "จงเข้าใกล้พระเจ้า และพระองค์จะเสด็จเข้าใกล้ท่าน คนบาปทั้งหลาย จงล้างมือของท่านให้สะอาด และผู้มีใจสองใจทั้งหลาย จงชำระใจของท่านให้บริสุทธิ์",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ἐγγίσατε τῷ θεῷ, καὶ ἐγγιεῖ ὑμῖν",
+          "thai": "จงเข้าใกล้พระเจ้า และพระองค์จะเสด็จเข้าใกล้ท่าน",
+          "rationale": "Per uW figs-metaphor: spatial-near = good-relationship. ἐγγίζω → เข้าใกล้ (come-near). For human-action: เข้าใกล้; for divine-response: เสด็จเข้าใกล้ — royal-prefix เสด็จ for God-as-mover (matching the divine-arrival pattern)."
+        },
+        {
+          "greek": "καθαρίσατε χεῖρας, ἁμαρτωλοί",
+          "thai": "คนบาปทั้งหลาย จงล้างมือของท่านให้สะอาด",
+          "rationale": "Per uW figs-metaphor + figs-metonymy: hand-washing = stop-doing-wrong-actions. καθαρίζω → ล้าง ... ให้สะอาด (cleanse / wash-clean). Render ‘ล้างมือ ... ให้สะอาด’ — preserves the hand-washing image (transfers naturally; Thai-readers know ceremonial-handwashing). ἁμαρτωλοί vocative → คนบาปทั้งหลาย."
+        },
+        {
+          "greek": "καὶ ἁγνίσατε καρδίας, δίψυχοι",
+          "thai": "และผู้มีใจสองใจทั้งหลาย จงชำระใจของท่านให้บริสุทธิ์",
+          "rationale": "Per uW figs-metaphor: heart = thoughts/desires; purify = ceremonial-cleansing. ἁγνίζω → ชำระ ... ให้บริสุทธิ์ (purify ceremonially). Per uW figs-nominaladj: δίψυχοι ‘double-minded’ as noun. Render ‘ผู้มีใจสองใจ’ — same Thai as JAS 1:8 (corpus-internal-consistency). The double-imperative parallel-structure (cleanse-hands / purify-hearts; sinners / double-minded) preserved."
+        }
+      ],
+      "notes": "Imperatives 3-4-5 (draw-near + cleanse-hands + purify-hearts). δίψυχος corpus-internal echo from JAS 1:8 — the bookending of the unstable-double-mindedness theme. Hand-and-heart pair represents the outward-and-inward cleansing required for drawing-near to God."
+    }
+  },
+  {
+    "reference": "James 4:9",
+    "chapter": 4,
+    "verse": 9,
+    "greek": "ταλαιπωρήσατε καὶ πενθήσατε καὶ κλαύσατε·ὁ γέλως ὑμῶν εἰς πένθος μετατραπήτω καὶ ἡ χαρὰ εἰς κατήφειαν·",
+    "bsb_english": "Grieve, mourn, and weep. Turn your laughter to mourning, and your joy to gloom.",
+    "translation": {
+      "thai": "จงทุกข์ใจ จงเศร้าโศก และจงร้องไห้ จงให้เสียงหัวเราะของท่านกลายเป็นความเศร้าโศก และความยินดีของท่านกลายเป็นความหดหู่",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ταλαιπωρήσατε καὶ πενθήσατε καὶ κλαύσατε",
+          "thai": "จงทุกข์ใจ จงเศร้าโศก และจงร้องไห้",
+          "rationale": "Per uW figs-doublet: three-fold near-synonymous emphasis. HAPAX ταλαιπωρέω (only here NT, ‘suffer-misery / be-distressed’) → ทุกข์ใจ. πενθέω → เศร้าโศก (mourn — for-loss). κλαίω → ร้องไห้ (weep). Render distinct Thai for each preserves the three-fold intensification of repentance-sorrow."
+        },
+        {
+          "greek": "ὁ γέλως ὑμῶν εἰς πένθος μετατραπήτω",
+          "thai": "จงให้เสียงหัวเราะของท่านกลายเป็นความเศร้าโศก",
+          "rationale": "HAPAX γέλως (only here NT, ‘laughter’) → เสียงหัวเราะ. HAPAX μετατρέπω (only here NT, ‘turn-around / change’) → กลายเป็น — preserves the transformation-action."
+        },
+        {
+          "greek": "καὶ ἡ χαρὰ εἰς κατήφειαν",
+          "thai": "และความยินดีของท่านกลายเป็นความหดหู่",
+          "rationale": "Per uW figs-ellipsis: verb supplied from previous-clause. HAPAX κατήφεια (only here NT, ‘gloom / dejection’) → ความหดหู่ — preserves the downcast-mood sense (‘หดหู่’ is Thai-natural for dejection/depression)."
+        }
+      ],
+      "notes": "FOUR HAPAX (ταλαιπωρέω, γέλως, μετατρέπω, κατήφεια). The most hapax-dense verse in this chapter. Imperatives 6-7-8-9 in James’s ten-fold cluster — the call to repentance-sorrow that contradicts worldly-laughter / worldly-joy."
+    }
+  },
+  {
+    "reference": "James 4:10",
+    "chapter": 4,
+    "verse": 10,
+    "greek": "ταπεινώθητε ἐνώπιον κυρίου,καὶ ὑψώσει ὑμᾶς.",
+    "bsb_english": "Humble yourselves before the Lord, and He will exalt you.",
+    "translation": {
+      "thai": "จงถ่อมตนเฉพาะพระพักตร์ขององค์พระผู้เป็นเจ้า และพระองค์จะทรงยกท่านขึ้น",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ταπεινώθητε ἐνώπιον κυρίου",
+          "thai": "จงถ่อมตนเฉพาะพระพักตร์ขององค์พระผู้เป็นเจ้า",
+          "rationale": "ταπεινόω passive-imperative → จงถ่อมตน (be-humbled / humble-oneself). κύριος → องค์พระผู้เป็นเจ้า corpus-locked. ἐνώπιον → เฉพาะพระพักตร์ corpus-precedent 1 Tim 5:21 + 6:13 + 2 Tim 4:1 same lemma same Thai (royal-formal ‘before-the-presence’)."
+        },
+        {
+          "greek": "καὶ ὑψώσει ὑμᾶς",
+          "thai": "และพระองค์จะทรงยกท่านขึ้น",
+          "rationale": "Per uW figs-metaphor: divine-exaltation as if bowing-down-and-being-raised. ὑψόω → ทรงยก ... ขึ้น (royal-prefix divine-elevation). The promise-of-divine-exaltation closes the ten-imperative cluster as the climactic-result."
+        }
+      ],
+      "notes": "Final imperative (10th). Closes the call-to-repentance unit (vv.7-10) with the humility-exaltation promise (cf. MAT 23:12 / LUK 14:11 / 1 PET 5:6 — same theme thematically; not direct citation)."
+    }
+  },
+  {
+    "reference": "James 4:11",
+    "chapter": 4,
+    "verse": 11,
+    "greek": "Μὴ καταλαλεῖτε ἀλλήλων,ἀδελφοί·ὁ καταλαλῶν ἀδελφοῦ ἢ κρίνων τὸν ἀδελφὸν αὐτοῦ καταλαλεῖ νόμου καὶ κρίνει νόμον·εἰ δὲ νόμον κρίνεις,οὐκ εἶ ποιητὴς νόμου ἀλλὰ κριτής.",
+    "bsb_english": "Brothers, do not slander one another. Anyone who speaks against his brother or judges him speaks against the law and judges it. And if you judge the law, you are not a practitioner of the law, but a judge of it.",
+    "translation": {
+      "thai": "พี่น้องทั้งหลาย อย่าพูดใส่ร้ายซึ่งกันและกัน ผู้ที่พูดใส่ร้ายพี่น้องของตน หรือพิพากษาพี่น้องของตน ก็พูดใส่ร้ายธรรมบัญญัติและพิพากษาธรรมบัญญัติ ถ้าท่านพิพากษาธรรมบัญญัติ ท่านก็ไม่ใช่ผู้ปฏิบัติตามธรรมบัญญัติ แต่เป็นผู้พิพากษา",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "Μὴ καταλαλεῖτε ἀλλήλων, ἀδελφοί",
+          "thai": "พี่น้องทั้งหลาย อย่าพูดใส่ร้ายซึ่งกันและกัน",
+          "rationale": "καταλαλέω → พูดใส่ร้าย (speak-evil-of / slander) — preserves the speaking-against sense; Thai ‘ใส่ร้าย’ captures the false-accusation register."
+        },
+        {
+          "greek": "ὁ καταλαλῶν ἀδελφοῦ ἢ κρίνων τὸν ἀδελφὸν αὐτοῦ καταλαλεῖ νόμου καὶ κρίνει νόμον",
+          "thai": "ผู้ที่พูดใส่ร้ายพี่น้องของตน หรือพิพากษาพี่น้องของตน ก็พูดใส่ร้ายธรรมบัญญัติและพิพากษาธรรมบัญญัติ",
+          "rationale": "Per uW figs-explicit: ‘the law’ here = the love-your-neighbor royal-law of JAS 2:8 (cf. JAS 1:25 + 2:12). κρίνω → พิพากษา (judge-as-official-judgment). νόμος → ธรรมบัญญัติ corpus-locked. The chiastic-structure (slander-brother / judge-brother / slander-law / judge-law) preserved in Thai."
+        },
+        {
+          "greek": "εἰ δὲ νόμον κρίνεις, οὐκ εἶ ποιητὴς νόμου ἀλλὰ κριτής",
+          "thai": "ถ้าท่านพิพากษาธรรมบัญญัติ ท่านก็ไม่ใช่ผู้ปฏิบัติตามธรรมบัญญัติ แต่เป็นผู้พิพากษา",
+          "rationale": "Per uW figs-youcrowd: σύ-singular preserved (‘ท่าน’ singular). ποιητὴς νόμου → ผู้ปฏิบัติตามธรรมบัญญัติ — same lemma-stem as JAS 1:22-25 ποιητής λόγου ‘ผู้ปฏิบัติตามพระวจนะ’ (consistent ‘ผู้ปฏิบัติตาม’ rendering for ποιητής). κριτής → ผู้พิพากษา."
+        }
+      ],
+      "notes": "Slander-as-judging-the-law passage. Connects back to JAS 2:8 royal-law of love-neighbor. The argument: judging-fellow-believer = judging-the-law-itself = becoming-a-judge-instead-of-a-doer."
+    }
+  },
+  {
+    "reference": "James 4:12",
+    "chapter": 4,
+    "verse": 12,
+    "greek": "εἷς ἐστιν νομοθέτης καὶ κριτής,ὁ δυνάμενος σῶσαι καὶ ἀπολέσαι·σὺ δὲ τίς εἶ,ὁ κρίνων τὸν πλησίον;",
+    "bsb_english": "There is only one Lawgiver and Judge, the One who is able to save and destroy. But who are you to judge your neighbor?",
+    "translation": {
+      "thai": "มีผู้บัญญัติธรรมบัญญัติและผู้พิพากษาเพียงองค์เดียว คือผู้ที่ทรงสามารถช่วยให้รอดและทำลายได้ แต่ท่านเป็นผู้ใดเล่า ที่จะพิพากษาเพื่อนบ้าน",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "εἷς ἐστιν νομοθέτης καὶ κριτής",
+          "thai": "มีผู้บัญญัติธรรมบัญญัติและผู้พิพากษาเพียงองค์เดียว",
+          "rationale": "HAPAX νομοθέτης (only here NT, ‘law-giver’) → ผู้บัญญัติธรรมบัญญัติ — preserves the law-giving-authority register. Per uW: εἷς ἐστιν echoes JAS 2:19 Shema-pattern (‘God-is-one’) thematically. Render preserves the only-one-such-figure emphasis."
+        },
+        {
+          "greek": "ὁ δυνάμενος σῶσαι καὶ ἀπολέσαι",
+          "thai": "คือผู้ที่ทรงสามารถช่วยให้รอดและทำลายได้",
+          "rationale": "Per uW figs-distinguish: explanatory-clause identifying God by attributes. σῴζω → ช่วย ... ให้รอด corpus-locked. ἀπόλλυμι → ทำลาย corpus-precedent. The save-and-destroy pair = the divine-judgment-prerogative reserved-for-God-alone."
+        },
+        {
+          "greek": "σὺ δὲ τίς εἶ, ὁ κρίνων τὸν πλησίον",
+          "thai": "แต่ท่านเป็นผู้ใดเล่า ที่จะพิพากษาเพื่อนบ้าน",
+          "rationale": "Per uW figs-rquestion: rhetorical-challenge. πλησίον → เพื่อนบ้าน corpus-precedent JAS 2:8 + EPH 4:25 same Thai. Render with terminal ‘เล่า’ to preserve the rhetorical-emphasis."
+        }
+      ],
+      "notes": "ONE HAPAX (νομοθέτης). The εἷς-pattern echoes JAS 2:19 Shema (‘God-is-one’) — closing the v.11-12 against-judging unit by appealing to divine-uniqueness as Lawgiver-Judge."
+    }
+  },
+  {
+    "reference": "James 4:13",
+    "chapter": 4,
+    "verse": 13,
+    "greek": "Ἄγε νῦν οἱ λέγοντες·Σήμερον ἢ αὔριον πορευσόμεθα εἰς τήνδε τὴν πόλιν καὶ ποιήσομεν ἐκεῖ ἐνιαυτὸν καὶ ἐμπορευσόμεθα καὶ κερδήσομεν·",
+    "bsb_english": "Come now, you who say, “Today or tomorrow we will go to this or that city, spend a year there, carry on business, and make a profit.”",
+    "translation": {
+      "thai": "เอาเถิด ท่านทั้งหลายผู้ที่กล่าวว่า “วันนี้หรือพรุ่งนี้เราจะไปที่เมืองนั้นเมืองนี้ และอยู่ที่นั่นสักปีหนึ่ง ทำการค้าขายและหากำไร”",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "Ἄγε νῦν οἱ λέγοντες",
+          "thai": "เอาเถิด ท่านทั้งหลายผู้ที่กล่าวว่า",
+          "rationale": "Per uW figs-idiom: Ἄγε νῦν = ‘Come now’ attention-marker. Render ‘เอาเถิด’ — natural Thai for the mild-summons rebuke-form. Per RULES §5b: direct-speech in curly Thai-quotes “…” for the quoted-presumption."
+        },
+        {
+          "greek": "Σήμερον ἢ αὔριον πορευσόμεθα εἰς τήνδε τὴν πόλιν",
+          "thai": "“วันนี้หรือพรุ่งนี้เราจะไปที่เมืองนั้นเมืองนี้",
+          "rationale": "Per uW figs-idiom: τήνδε τὴν πόλιν ‘this-or-that city’ idiom for an unspecified-city. Render ‘เมืองนั้นเมืองนี้’ — natural Thai idiom for unspecified-place. πορεύομαι future → จะไป."
+        },
+        {
+          "greek": "καὶ ποιήσομεν ἐκεῖ ἐνιαυτὸν καὶ ἐμπορευσόμεθα καὶ κερδήσομεν",
+          "thai": "และอยู่ที่นั่นสักปีหนึ่ง ทำการค้าขายและหากำไร”",
+          "rationale": "Per uW figs-idiom: ποιήσομεν ἐνιαυτόν ‘we-will-make a-year’ = ‘spend a year.’ ἐμπορεύομαι → ทำการค้าขาย (do-business). κερδαίνω → หากำไร (make-profit). The four-part presumptuous-business-plan (where-when-how-result) preserved."
+        }
+      ],
+      "notes": "Per RULES §5b: direct-speech curly Thai-quotes. The hypothetical-merchant-saying is the target of the v.14-16 critique."
+    }
+  },
+  {
+    "reference": "James 4:14",
+    "chapter": 4,
+    "verse": 14,
+    "greek": "οἵτινες οὐκ ἐπίστασθε τὸ τῆς αὔριον ποία ἡ ζωὴ ὑμῶν·ἀτμὶς γάρ ἐστε ἡ πρὸς ὀλίγον φαινομένη,ἔπειτα καὶ ἀφανιζομένη·",
+    "bsb_english": "You do not even know what will happen tomorrow! What is your life? You are a mist that appears for a little while and then vanishes.",
+    "translation": {
+      "thai": "ท่านทั้งหลายไม่รู้แม้แต่ว่าจะเกิดอะไรในวันพรุ่งนี้ ชีวิตของท่านเป็นเช่นไร ท่านเป็นเหมือนหมอกที่ปรากฏอยู่ชั่วครู่ แล้วก็เลือนหายไป",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "οἵτινες οὐκ ἐπίστασθε τὸ τῆς αὔριον ποία ἡ ζωὴ ὑμῶν",
+          "thai": "ท่านทั้งหลายไม่รู้แม้แต่ว่าจะเกิดอะไรในวันพรุ่งนี้ ชีวิตของท่านเป็นเช่นไร",
+          "rationale": "Per uW figs-rquestion: rhetorical-challenge. ἐπίσταμαι → รู้ (know-with-certainty). The two-question structure preserved (don’t-know-tomorrow / what-is-life)."
+        },
+        {
+          "greek": "ἀτμὶς γάρ ἐστε ἡ πρὸς ὀλίγον φαινομένη, ἔπειτα καὶ ἀφανιζομένη",
+          "thai": "ท่านเป็นเหมือนหมอกที่ปรากฏอยู่ชั่วครู่ แล้วก็เลือนหายไป",
+          "rationale": "Per uW figs-metaphor: humans-as-mist for life-brevity. ἀτμίς → หมอก (mist/vapor) — preserves the morning-mist briefness image; transfers naturally to Thai (Thai readers recognize morning-mist-quickly-vanishing). φαίνομαι → ปรากฏ; ἀφανίζομαι → เลือนหายไป — preserves the appear-then-disappear duality. ‘เลือนหายไป’ captures the gradual-fade-out sense (vs. abrupt-vanishing)."
+        }
+      ],
+      "notes": "The mist-as-life-brevity metaphor — central to the chapter’s presumption-critique. Echoes the OT-wisdom-tradition (PSA 90:5-6, PSA 102:11, 103:15-16) on human-life-fragility, not direct citation."
+    }
+  },
+  {
+    "reference": "James 4:15",
+    "chapter": 4,
+    "verse": 15,
+    "greek": "ἀντὶ τοῦ λέγειν ὑμᾶς·Ἐὰν ὁ κύριος θελήσῃ,καὶ ζήσομεν καὶ ποιήσομεν τοῦτο ἢ ἐκεῖνο.",
+    "bsb_english": "Instead, you ought to say, “If the Lord is willing, we will live and do this or that.”",
+    "translation": {
+      "thai": "แทนที่จะกล่าวเช่นนั้น ท่านควรกล่าวว่า “ถ้าองค์พระผู้เป็นเจ้าทรงพระประสงค์ พวกเราจะมีชีวิตและทำสิ่งนั้นสิ่งนี้”",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ἀντὶ τοῦ λέγειν ὑμᾶς",
+          "thai": "แทนที่จะกล่าวเช่นนั้น ท่านควรกล่าวว่า",
+          "rationale": "Render ‘แทนที่จะ ... ท่านควรกล่าวว่า’ — preserves the contrast-with-v.13-presumption + introduces the proper-form. Per RULES §5b: direct-speech curly Thai-quotes for the right-saying."
+        },
+        {
+          "greek": "Ἐὰν ὁ κύριος θελήσῃ, καὶ ζήσομεν καὶ ποιήσομεν τοῦτο ἢ ἐκεῖνο",
+          "thai": "“ถ้าองค์พระผู้เป็นเจ้าทรงพระประสงค์ พวกเราจะมีชีวิตและทำสิ่งนั้นสิ่งนี้”",
+          "rationale": "The ‘Deo volente’ formula. κύριος → องค์พระผู้เป็นเจ้า corpus-locked. θέλω → ทรงพระประสงค์ (royal-divine-volition). Per uW: the both-and construction (καὶ ... καί) → ‘และ ... และ’ but Thai can simplify to single conjunction for natural-flow. τοῦτο ἢ ἐκεῖνο idiom → สิ่งนั้นสิ่งนี้ (Thai-natural pair-of-unspecified)."
+        }
+      ],
+      "notes": "Per RULES §5b: direct-speech curly Thai-quotes. The ‘if-the-Lord-wills’ formula (Latin ‘Deo volente’) — humility-of-future-uncertainty before God’s sovereignty. Same construction at ACT 18:21, 1 COR 4:19, 16:7, HEB 6:3."
+    }
+  },
+  {
+    "reference": "James 4:16",
+    "chapter": 4,
+    "verse": 16,
+    "greek": "νῦν δὲ καυχᾶσθε ἐν ταῖς ἀλαζονείαις ὑμῶν·πᾶσα καύχησις τοιαύτη πονηρά ἐστιν.",
+    "bsb_english": "As it is, you boast in your proud intentions. All such boasting is evil.",
+    "translation": {
+      "thai": "แต่บัดนี้ท่านอวดในความหยิ่งทะนงของท่าน การอวดเช่นนี้ทุกอย่างเป็นความชั่ว",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "νῦν δὲ καυχᾶσθε ἐν ταῖς ἀλαζονείαις ὑμῶν",
+          "thai": "แต่บัดนี้ท่านอวดในความหยิ่งทะนงของท่าน",
+          "rationale": "καυχάομαι → อวด corpus-locked. ἀλαζονεία → ความหยิ่งทะนง — preserves the self-promoting-arrogance sense; distinct from the simple ‘เย่อหยิ่ง’ (proud) of v.6 by explicit-pretentious-claim register."
+        },
+        {
+          "greek": "πᾶσα καύχησις τοιαύτη πονηρά ἐστιν",
+          "thai": "การอวดเช่นนี้ทุกอย่างเป็นความชั่ว",
+          "rationale": "Per uW figs-abstractnouns: render abstract ‘การอวด.’ πονηρά → ความชั่ว — universal-condemnation force preserved by ‘ทุกอย่าง.’"
+        }
+      ],
+      "notes": "Closes the presumption-warning with the boasting-as-evil verdict. ἀλαζονεία links thematically to the ζῆλος-ἐριθεία (jealousy-ambition) cluster of JAS 3:14-16 — both species of self-aggrandizement."
+    }
+  },
+  {
+    "reference": "James 4:17",
+    "chapter": 4,
+    "verse": 17,
+    "greek": "εἰδότι οὖν καλὸν ποιεῖν καὶ μὴ ποιοῦντι,ἁμαρτία αὐτῷ ἐστιν.",
+    "bsb_english": "Anyone, then, who knows the right thing to do, yet fails to do it, is guilty of sin.",
+    "translation": {
+      "thai": "เพราะฉะนั้น ผู้ใดที่รู้จักสิ่งดีที่ควรทำ แต่ไม่ทำ ผู้นั้นก็มีบาป",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "εἰδότι οὖν καλὸν ποιεῖν καὶ μὴ ποιοῦντι",
+          "thai": "เพราะฉะนั้น ผู้ใดที่รู้จักสิ่งดีที่ควรทำ แต่ไม่ทำ",
+          "rationale": "Per uW: οὖν here ‘therefore’ as further-inference (NOT just-conclusion). Render ‘เพราะฉะนั้น.’ The participle-pair (knowing + not-doing) → ‘รู้จัก ... แต่ไม่ทำ.’"
+        },
+        {
+          "greek": "ἁμαρτία αὐτῷ ἐστιν",
+          "thai": "ผู้นั้นก็มีบาป",
+          "rationale": "ἁμαρτία → บาป corpus-locked. The dative-of-possession ‘sin-to-him’ → ‘ผู้นั้นก็มีบาป.’ Closes the chapter with the sin-of-omission principle."
+        }
+      ],
+      "notes": "Closes ch.4 with the famous sin-of-omission verse: knowing-the-good-and-not-doing-it = sin. Universal-application — the verse stands independently, not just connected to the immediate-context. James-distinctive ethical-axiom that goes beyond the standard sin-as-violation framework to include sin-as-non-fulfillment-of-known-good."
+    }
+  }
+]
