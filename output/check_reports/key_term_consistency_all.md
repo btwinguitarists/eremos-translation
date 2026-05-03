@@ -2,8 +2,8 @@
 
 - Rule violations: **0**
 - Undocumented multi-renderings: **0**
-- Documented multi-renderings: 474
-- Consistent single renderings: 16709
+- Documented multi-renderings: 475
+- Consistent single renderings: 16909
 
 ## ✅ Documented multi-renderings (contextual variance)
 
@@ -66,6 +66,7 @@
 - **αὐτομάτη** — เปิดออกเอง (1x), โดยอัตโนมัติ (1x)
 - **αὐτὸς ὑμᾶς βαπτίσει ἐν πνεύματι ἁγίῳ καὶ πυρί** — พระองค์จะทรงให้บัพติศมาแก่ท่านทั้งหลายด้วยพระวิญญาณบริสุทธิ์และด้วยไฟ (1x), พระองค์จะทรงให้บัพติศมาแก่เจ้าทั้งหลายด้วยพระวิญญาณบริสุทธิ์และด้วยไฟ (1x)
 - **βασιλεῦ Ἀγρίππα** — ข้าแต่กษัตริย์อากรιปปา (1x), ข้าแต่กษัตริย์อากริปปา (1x)
+- **βλασφημοῦντες** — และพากันด่าว่าท่าน (1x), หมิ่นประมาทพระเจ้า (1x)
 - **γάμους** — งานเลี้ยงวิวาห์ (1x), งานอภิเษกสมรส (1x)
 - **γάρ** — เพราะ (1x), เพราะว่า (2x), (implicit + ‘หาก’) (1x)
 - **γέγραπται** — เขียนไว้ (1x), มีเขียนไว้ว่า (1x), มีเขียนไว้ (1x)
@@ -484,4 +485,4 @@
 
 ## ✅ Single-rendering lemmas
 
-16709 lemmas each translated consistently across every occurrence. See `glossary.json` for the full list.
+16909 lemmas each translated consistently across every occurrence. See `glossary.json` for the full list.
