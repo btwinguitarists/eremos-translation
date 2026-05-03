@@ -3,7 +3,7 @@
 - Rule violations: **0**
 - Undocumented multi-renderings: **0**
 - Documented multi-renderings: 476
-- Consistent single renderings: 17091
+- Consistent single renderings: 17319
 
 ## ✅ Documented multi-renderings (contextual variance)
 
@@ -486,4 +486,4 @@
 
 ## ✅ Single-rendering lemmas
 
-17091 lemmas each translated consistently across every occurrence. See `glossary.json` for the full list.
+17319 lemmas each translated consistently across every occurrence. See `glossary.json` for the full list.

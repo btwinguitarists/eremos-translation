@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-05-03 15:27:51 UTC_
-_Total chapters: 222 · Total verses: 7181_
+_Generated: 2026-05-03 15:57:32 UTC_
+_Total chapters: 223 · Total verses: 7194_
 
 ## How to verify a chapter
 
@@ -39,7 +39,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/1john_02.json` | 29 | `d5259a377d0dd260ab3a903a5e8bee9a569e6aaef5bfe8f96237d43232afadfb` | `cd99b6b` |
 | `output/translations/1john_03.json` | 24 | `c88b300f7707f209b6ffe99fdba6a9d784aac38537040bec600f61392e00a95f` | `d27e327` |
 | `output/translations/1john_04.json` | 21 | `59b1521f0ee777cb6285dc4f8a5090809b8e8db213f260c17e0220bb622ad5d7` | `7df238d` |
-| `output/translations/1john_05.json` | 21 | `86b3fe136a85791fe723470e7560e7039984afa96800ff88d0f8756610e889ea` | `—` |
+| `output/translations/1john_05.json` | 21 | `86b3fe136a85791fe723470e7560e7039984afa96800ff88d0f8756610e889ea` | `d1ee6af` |
 | `output/translations/1peter_01.json` | 25 | `7e44403865c493ca0641a403ffc4e757b579b6fccf56b551397ab1e6905ae640` | `5f55fea` |
 | `output/translations/1peter_02.json` | 25 | `120f3302493eb9bd2845bd586e6270174705f761d2bb26bdeb7f465ddeb0259e` | `b812394` |
 | `output/translations/1peter_03.json` | 22 | `ab8923ac1f2bce4711ab6aab171275521419001881bbd55a736f444fdc007516` | `256bbe7` |
@@ -69,6 +69,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/2corinthians_11.json` | 33 | `bd716106c311f778557d36d67c163219f464e39e8fd039511a79cd1c6bb474ea` | `cf6bd38` |
 | `output/translations/2corinthians_12.json` | 21 | `aca4492cc393372367d40d5dce4bee1e1d066a04b6f022f0d964492dc0439a9a` | `cf6bd38` |
 | `output/translations/2corinthians_13.json` | 13 | `8f3443afbb24ccf15fc76b72d5ed1f91dbe257d060b863c0634e5a38ffe9ca70` | `cf6bd38` |
+| `output/translations/2john_01.json` | 13 | `ebb8abfa27ee1ffb053229919a4b74049601bd1f6e09ef566dbafb0610822506` | `—` |
 | `output/translations/2peter_01.json` | 21 | `78e10ed4690d414cd428bb32e3b12df13787f6bdce74e54828bc9c7a2682c0f7` | `403c20c` |
 | `output/translations/2peter_02.json` | 22 | `27ed1281bc79606e9035201a0c14f9a93f4f353b667347447480882cb82d62bf` | `be3c897` |
 | `output/translations/2peter_03.json` | 18 | `6946b13ac0f25be1fc935e45b9f2d64f36344f07a34c34ae88f1ee4aecb9a8d3` | `34921bf` |
