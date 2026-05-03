@@ -7,13 +7,13 @@
 
 ## PROMPT — read carefully before reviewing
 
-You are performing an **end-of-book external sanity-check** on **Mark** (17 chapters, 674 verses) from a CC0, AI-assisted, evangelical-Protestant Thai Bible translation translated directly from SBLGNT (Greek). Your output goes to the project's main session to surface corpus-level concerns that per-chapter automated checks may have missed.
+You are performing an **end-of-book external sanity-check** on **Mark** (16 chapters, 673 verses) from a CC0, AI-assisted, evangelical-Protestant Thai Bible translation translated directly from SBLGNT (Greek). Your output goes to the project's main session to surface corpus-level concerns that per-chapter automated checks may have missed.
 
 ### Project shape
 
 - **Source:** SBLGNT (same Greek base as ESV / NIV / NASB / CSB / BSB).
 - **Philosophy:** optimal equivalence — faithful to Greek grammar, natural in modern Thai.
-- **Status:** 1 Corinthians, 1 Thessalonians, 1 Timothy, 2 Corinthians, 2 Thessalonians, 2 Timothy, Acts, Colossians, Ephesians, Galatians, John, Luke, Matthew, Philemon, Philippians, Romans complete + tagged. Mark 17/17 just shipped. Per-chapter automated checks (key-term consistency, back-translation, OT-citation, Greek-field integrity, TNBT structural diff, claim consistency, synoptic alignment, Thai-summary coverage) all pass.
+- **Status:** 1 Corinthians, 1 Thessalonians, 1 Timothy, 2 Corinthians, 2 Thessalonians, 2 Timothy, Acts, Colossians, Ephesians, Galatians, John, Luke, Matthew, Philemon, Philippians, Romans complete + tagged. Mark 16/16 just shipped. Per-chapter automated checks (key-term consistency, back-translation, OT-citation, Greek-field integrity, TNBT structural diff, claim consistency, synoptic alignment, Thai-summary coverage) all pass.
 
 ### Already-locked corpus decisions — DO NOT re-litigate
 

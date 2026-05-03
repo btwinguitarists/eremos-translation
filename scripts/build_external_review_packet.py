@@ -108,7 +108,13 @@ def get_book_metadata(book_code):
     if book_code not in BOOKS:
         sys.exit(f"Unknown book code: {book_code}. Known: {sorted(BOOKS)}")
     slug, name = BOOKS[book_code]
-    chapters = sorted(TRANSLATIONS.glob(f"{slug}_*.json"))
+    # Skip demo / prototype chapter files (e.g. mark_01_01_demo.json)
+    # to prevent inflated chapter counts in the packet metadata —
+    # matches the filter that build_eremos_bundle.py already uses.
+    chapters = sorted(
+        f for f in TRANSLATIONS.glob(f"{slug}_*.json")
+        if "_demo" not in f.name
+    )
     if not chapters:
         sys.exit(f"No translations found for {book_code} (slug={slug}). "
                  f"Looked in {TRANSLATIONS}.")
