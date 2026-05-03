@@ -12,8 +12,8 @@
 ## βασιλεία τοῦ θεοῦ
 **Doc:** `basileia_kingdom_rendering_2026-04.md`  
 **Expected Thai contains:** `อาณาจักรของพระเจ้า`  
-**Total matching verses:** 64  
-**OK:** 64 · **Excepted:** 0 · **Violations:** 0
+**Total matching verses:** 65  
+**OK:** 65 · **Excepted:** 0 · **Violations:** 0
 
 ## βασιλεία τῶν οὐρανῶν (Matthew)
 **Doc:** `basileia_kingdom_rendering_2026-04.md`  
