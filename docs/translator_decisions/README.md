@@ -66,7 +66,9 @@ When writing a new doc, follow the existing structure: title with Greek + Thai g
 
 | Doc | Rule | Locked during |
 |---|---|---|
-| [pastoral_corpus_locks](pastoral_corpus_locks_2026-05.md) | Bundle of corpus-level locks for the Pastorals: πιστὸς ὁ λόγος formula (A); εὐσέβεια default ความเคร่งในพระเจ้า (B); σωτήρ for Father AND Christ + Tit 2:13 Granville-Sharp pre-decision (C); ἀρσενοκοίτης (D); women-in-worship ambiguity strategy with thai_summary guardrails (E); Phoebe-style διάκονος openness for Rom 16:1 (F); μιᾶς γυναικὸς ἄνδρα + 5:9 feminine inversion (G); 3:16 Ὃς + Tier-2 Byzantine footer (H) | 1 Timothy end-of-book |
+| [pastoral_corpus_locks](pastoral_corpus_locks_2026-05.md) | Bundle of corpus-level locks for the Pastorals: πιστὸς ὁ λόγος formula (A); εὐσέβεια default ความเคร่งในพระเจ้า (B); σωτήρ for Father AND Christ + Tit 2:13 Granville-Sharp pre-decision (C); ἀρσενοκοίτης (D); women-in-worship ambiguity strategy with thai_summary guardrails (E); Phoebe-style διάκονος openness for Rom 16:1 (F); μιᾶς γυναικὸς ἄνδρα + 5:9 feminine inversion (G); 3:16 Ὃς + Tier-2 Byzantine footer (H); 2 Tim 3:16 πᾶσα γραφὴ θεόπνευστος → พระคัมภีร์ทั้งหมดเป็นลมพระโอษฐ์ของพระเจ้า (I); metaphor-flattening principle for non-determinative imagery (J); extra-canonical-tradition acknowledgment policy + Jude 9/14-15 pre-commits (K) | 1 Timothy + 2 Timothy end-of-book |
+| [epiphaneia_christou](epiphaneia_christou_2026-05.md) | ἐπιφάνεια applied to Christ → การทรงปรากฏ uniformly across Pastorals (1 Tim 6:14, 2 Tim 1:10, 4:1, 4:8, Tit 2:13). Context disambiguates first-coming vs second-coming. 1 Tim 6:14 retroactively conformed 2026-05-03 from prior heavier rendering | 2 Timothy end-of-book |
+| [hygiaino_sound_doctrine](hygiaino_sound_doctrine_2026-05.md) | ὑγιαίνω + cognates applied to teaching/words/doctrine → ถูกต้อง uniformly across Pastorals (1 Tim 1:10, 6:3; 2 Tim 1:13, 4:3; Tit 1:9, 13; 2:1, 2). Distinct from Gospel medical-healing usage (separate semantic field). First explicit application of metaphor-flattening principle (`pastoral_corpus_locks` §J) across a full lemma-family | 2 Timothy end-of-book (gates Titus) |
 
 ---
 
