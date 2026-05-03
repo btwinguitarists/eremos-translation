@@ -58,7 +58,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**8** ตรงกันข้าม เขาต้องมีน้ำใจต้อนรับแขก รักความดี รู้จักประมาณตน เที่ยงธรรม บริสุทธิ์ และรู้จักบังคับตน
+**8** ตรงกันข้าม เขาต้องมีน้ำใจต้อนรับแขก รักความดี มีสติสัมปชัญญะ เที่ยงธรรม บริสุทธิ์ และรู้จักบังคับตน
 
 > ___
 
@@ -102,5 +102,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/titus_01.json` | `22de932bdbf89d6849f60d1d20d129433b47e21df19a3efc208c482ec201647c` |
+| `output/translations/titus_01.json` | `6b9bc5a855e4143fab405d9116d393e4ed8e929d99a62b3d2451d8043fb50100` |
 
