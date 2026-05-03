@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-05-03 18:06:27 UTC_
-_Total chapters: 227 · Total verses: 7283_
+_Generated: 2026-05-03 18:38:57 UTC_
+_Total chapters: 228 · Total verses: 7305_
 
 ## How to verify a chapter
 
@@ -226,7 +226,8 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/philippians_03.json` | 21 | `6654fa151c16c1c9e39b1be8033916378a13bff438d572657b8b06027964e1e1` | `4b0b01b` |
 | `output/translations/philippians_04.json` | 23 | `16898f8540c61953284e2248c9460c682f56980087ab83ec300a57a0a5761235` | `3442c59` |
 | `output/translations/revelation_01.json` | 20 | `127a68402ed9a21dc87af1c5e7f08e242ac1524e22a3ade7be05717dfba28407` | `b71f5a2` |
-| `output/translations/revelation_02.json` | 29 | `745607d35eed381dc54dbf735bd361fbfb9cfe8cd46ce45c73e106416fae3d8a` | `—` |
+| `output/translations/revelation_02.json` | 29 | `745607d35eed381dc54dbf735bd361fbfb9cfe8cd46ce45c73e106416fae3d8a` | `dcbae3d` |
+| `output/translations/revelation_03.json` | 22 | `18119e1a64a868ccc0f147b9f2bb0dc52df354132fe378502ca4a0fd3d3d5ea3` | `—` |
 | `output/translations/romans_01.json` | 32 | `c87b2112628b417478cc0beebb101b81b21b70b76106579044da66b1f0181824` | `7b84f42` |
 | `output/translations/romans_02.json` | 29 | `4ec4dd1ef3bb937bafa98814d4cfdce17ae2893df78ed929fe1c34b417ab1c6b` | `cf6bd38` |
 | `output/translations/romans_03.json` | 31 | `e0a844077c27c89a291540299a57c2a2f287e6f9664dd3542048855c31239837` | `cf6bd38` |
