@@ -1,0 +1,387 @@
+[
+  {
+    "reference": "3 John 1:1",
+    "chapter": 1,
+    "verse": 1,
+    "greek": "Ὁ πρεσβύτερος Γαΐῳ τῷ ἀγαπητῷ,ὃν ἐγὼ ἀγαπῶ ἐν ἀληθείᾳ.",
+    "bsb_english": "The elder, To the beloved Gaius, whom I love in the truth:",
+    "translation": {
+      "thai": "ข้าพเจ้าผู้ปกครองคริสตจักร ถึงกายอัสที่รัก ผู้ที่ข้าพเจ้ารักในความจริง",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "Ὁ πρεσβύτερος",
+          "thai": "ข้าพเจ้าผู้ปกครองคริสตจักร",
+          "rationale": "πρεσβύτερος → ผู้ปกครองคริสตจักร corpus-lock (matches 2 JN 1:1; per pastoral_corpus_locks Johannine-letter ‘the Elder’ self-designation)."
+        },
+        {
+          "greek": "Γαΐῳ τῷ ἀγαπητῷ",
+          "thai": "ถึงกายอัสที่รัก",
+          "rationale": "Γάϊος → กายอัส — Thai-Christian-standard transliteration (matches ROM 16:23, 1 COR 1:14, ACT 19:29, 20:4 — possibly same individual). ἀγαπητός → ที่รัก (recurring direct-address through-the-letter: vv.1, 2, 5, 11)."
+        },
+        {
+          "greek": "ὃν ἐγὼ ἀγαπῶ ἐν ἀληθείᾳ",
+          "thai": "ผู้ที่ข้าพเจ้ารักในความจริง",
+          "rationale": "Truth + love pairing (matches 2 JN 1:1)."
+        }
+      ],
+      "notes": "Letter-opening parallel to 2 JN 1:1 (same Elder self-designation; same love + truth pairing). Γάϊος → กายอัส transliteration (likely same individual as Gaius-of-Corinth, Pauline-corpus-internal-link)."
+    }
+  },
+  {
+    "reference": "3 John 1:2",
+    "chapter": 1,
+    "verse": 2,
+    "greek": "Ἀγαπητέ,περὶ πάντων εὔχομαί σε εὐοδοῦσθαι καὶ ὑγιαίνειν,καθὼς εὐοδοῦταί σου ἡ ψυχή.",
+    "bsb_english": "Beloved, I pray that in every way you may prosper and enjoy good health, as your soul also prospers.",
+    "translation": {
+      "thai": "ท่านที่รัก ข้าพเจ้าอธิษฐานขอให้ท่านจำเริญในทุกสิ่ง และมีสุขภาพดี เหมือนกับที่จิตวิญญาณของท่านก็จำเริญอยู่แล้ว",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "περὶ πάντων εὔχομαί σε εὐοδοῦσθαι καὶ ὑγιαίνειν",
+          "thai": "ข้าพเจ้าอธิษฐานขอให้ท่านจำเริญในทุกสิ่ง และมีสุขภาพดี",
+          "rationale": "Per uW: standard-Hellenistic-letter health-and-prosperity-wish. εὔχομαι → อธิษฐาน. εὐοδόω passive → จำเริญ. ὑγιαίνω here = literal-physical-health (NOT the Pastoral ‘sound-doctrine’ metaphorical sense at hygiaino_sound_doctrine_2026-05.md) → มีสุขภาพดี."
+        },
+        {
+          "greek": "καθὼς εὐοδοῦταί σου ἡ ψυχή",
+          "thai": "เหมือนกับที่จิตวิญญาณของท่านก็จำเริญอยู่แล้ว",
+          "rationale": "ψυχή → จิตวิญญาณ corpus-locked (per psyche_vs_pneuma_anthropological_2026-04.md theological-anthropological sense). The bodily-prosperity-as-image-of-spiritual-prosperity rhetoric."
+        }
+      ],
+      "notes": "Hellenistic-letter health-prosperity convention. Note: ὑγιαίνω here is literal-physical-health (NOT the Pastoral metaphorical ‘sound-doctrine’ sense). Context governs."
+    }
+  },
+  {
+    "reference": "3 John 1:3",
+    "chapter": 1,
+    "verse": 3,
+    "greek": "ἐχάρην γὰρ λίαν ἐρχομένων ἀδελφῶν καὶ μαρτυρούντων σου τῇ ἀληθείᾳ,καθὼς σὺ ἐν ἀληθείᾳ περιπατεῖς.",
+    "bsb_english": "For I was overjoyed when the brothers came and testified about your devotion to the truth, in which you continue to walk.",
+    "translation": {
+      "thai": "เพราะข้าพเจ้ายินดีอย่างยิ่ง เมื่อพี่น้องบางคนมาและเป็นพยานเรื่องความจริงในตัวท่าน คือที่ท่านดำเนินอยู่ในความจริง",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ἐχάρην γὰρ λίαν ἐρχομένων ἀδελφῶν καὶ μαρτυρούντων σου τῇ ἀληθείᾳ",
+          "thai": "เพราะข้าพเจ้ายินดีอย่างยิ่ง เมื่อพี่น้องบางคนมาและเป็นพยานเรื่องความจริงในตัวท่าน",
+          "rationale": "ἐχάρην λίαν → ยินดีอย่างยิ่ง (matches 2 JN 1:4 same construction). μαρτυρέω → เป็นพยาน corpus-locked."
+        },
+        {
+          "greek": "καθὼς σὺ ἐν ἀληθείᾳ περιπατεῖς",
+          "thai": "คือที่ท่านดำเนินอยู่ในความจริง",
+          "rationale": "‘walk-in-truth’ Johannine-signature ethic (matches 2 JN 1:4)."
+        }
+      ],
+      "notes": "Pastoral-affirmation. Truth + walking thread."
+    }
+  },
+  {
+    "reference": "3 John 1:4",
+    "chapter": 1,
+    "verse": 4,
+    "greek": "μειζοτέραν τούτων οὐκ ἔχω χαράν,ἵνα ἀκούω τὰ ἐμὰ τέκνα ἐν τῇ ἀληθείᾳ περιπατοῦντα.",
+    "bsb_english": "I have no greater joy than to hear that my children are walking in the truth.",
+    "translation": {
+      "thai": "ข้าพเจ้าไม่มีความยินดีอันใดยิ่งใหญ่กว่าการได้ยินว่าลูกของข้าพเจ้าทั้งหลายดำเนินอยู่ในความจริง",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "μειζοτέραν τούτων οὐκ ἔχω χαράν",
+          "thai": "ข้าพเจ้าไม่มีความยินดีอันใดยิ่งใหญ่กว่า",
+          "rationale": "HAPAX μειζότερος (only here NT, ‘double-comparative’ — irregular Koine of-comparative-of-greater) → ยิ่งใหญ่กว่า — preserves the comparative-emphasis without the redundant-grammatical-form (Thai naturally accommodates)."
+        },
+        {
+          "greek": "ἵνα ἀκούω τὰ ἐμὰ τέκνα ἐν τῇ ἀληθείᾳ περιπατοῦντα",
+          "thai": "การได้ยินว่าลูกของข้าพเจ้าทั้งหลายดำเนินอยู่ในความจริง",
+          "rationale": "‘ἐμὰ τέκνα’ → ลูกของข้าพเจ้า (spiritual-children — pastoral-affection address; matches τεκνία at 1 JN 2:1, 12, 28; 3:7, 18; 4:4; 5:21)."
+        }
+      ],
+      "notes": "ONE HAPAX (μειζότερος). Pastoral-joy axiomatic-statement. ‘My children walking-in-truth’ as the supreme-pastoral-reward."
+    }
+  },
+  {
+    "reference": "3 John 1:5",
+    "chapter": 1,
+    "verse": 5,
+    "greek": "Ἀγαπητέ,πιστὸν ποιεῖς ὃ ἐὰν ἐργάσῃ εἰς τοὺς ἀδελφοὺς καὶ τοῦτο ξένους,",
+    "bsb_english": "Beloved, you are faithful in what you are doing for the brothers, and especially since they are strangers to you.",
+    "translation": {
+      "thai": "ท่านที่รัก ท่านได้ทำสิ่งที่สัตย์ซื่อ ในสิ่งใดก็ตามที่ท่านได้ทำเพื่อพี่น้อง และโดยเฉพาะอย่างยิ่งเพื่อคนแปลกหน้า",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "πιστὸν ποιεῖς ὃ ἐὰν ἐργάσῃ εἰς τοὺς ἀδελφοὺς",
+          "thai": "ท่านได้ทำสิ่งที่สัตย์ซื่อ ในสิ่งใดก็ตามที่ท่านได้ทำเพื่อพี่น้อง",
+          "rationale": "Per uW: πιστὸν ποιεῖς ‘you-act-faithfully’ → ทำสิ่งที่สัตย์ซื่อ. πιστός → สัตย์ซื่อ corpus-locked."
+        },
+        {
+          "greek": "καὶ τοῦτο ξένους",
+          "thai": "และโดยเฉพาะอย่างยิ่งเพื่อคนแปลกหน้า",
+          "rationale": "ξένος → คนแปลกหน้า corpus-precedent (matches MAT 25:35 + EPH 2:19 same lemma — strangers-to-host). Hospitality-virtue context."
+        }
+      ],
+      "notes": "Praise-of-Gaius's-hospitality. POSITIVE-COUNTERPART to 2 JN 10 (where deceivers are NOT to be received) — the same hospitality-discipline now applied positively to genuine-traveling-preachers."
+    }
+  },
+  {
+    "reference": "3 John 1:6",
+    "chapter": 1,
+    "verse": 6,
+    "greek": "οἳ ἐμαρτύρησάν σου τῇ ἀγάπῃ ἐνώπιον ἐκκλησίας,οὓς καλῶς ποιήσεις προπέμψας ἀξίως τοῦ θεοῦ·",
+    "bsb_english": "They have testified to the church about your love. You will do well to send them on their way in a manner worthy of God.",
+    "translation": {
+      "thai": "พวกเขาได้เป็นพยานเรื่องความรักของท่านต่อหน้าคริสตจักร ท่านจะทำดีถ้าได้ส่งพวกเขาไปต่อในลักษณะที่สมควรแก่พระเจ้า",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "οἳ ἐμαρτύρησάν σου τῇ ἀγάπῃ ἐνώπιον ἐκκλησίας",
+          "thai": "พวกเขาได้เป็นพยานเรื่องความรักของท่านต่อหน้าคริสตจักร",
+          "rationale": "ἐκκλησία → คริสตจักร corpus-locked (per ekklesia_2026-04.md). Public-testimony-of-love."
+        },
+        {
+          "greek": "οὓς καλῶς ποιήσεις προπέμψας ἀξίως τοῦ θεοῦ",
+          "thai": "ท่านจะทำดีถ้าได้ส่งพวกเขาไปต่อในลักษณะที่สมควรแก่พระเจ้า",
+          "rationale": "προπέμπω → ส่ง ... ไป — preserves the ‘send-forward-on-journey’ sense (technical-NT-term for mission-support; cf. 1 COR 16:6, 11; 2 COR 1:16; ROM 15:24). ἀξίως τοῦ θεοῦ → สมควรแก่พระเจ้า."
+        }
+      ],
+      "notes": "Mission-sending technical-vocabulary (προπέμπω = formal-send-on-mission). The ‘worthy-of-God’ criterion sets a high-standard for hospitality-and-support."
+    }
+  },
+  {
+    "reference": "3 John 1:7",
+    "chapter": 1,
+    "verse": 7,
+    "greek": "ὑπὲρ γὰρ τοῦ ὀνόματος ἐξῆλθον μηδὲν λαμβάνοντες ἀπὸ τῶν ἐθνικῶν.",
+    "bsb_english": "For they went out on behalf of the Name, accepting nothing from the Gentiles.",
+    "translation": {
+      "thai": "เพราะพวกเขาออกไปเพื่อพระนาม ไม่ได้รับสิ่งใดจากคนต่างชาติ",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ὑπὲρ γὰρ τοῦ ὀνόματος",
+          "thai": "เพราะพวกเขาออกไปเพื่อพระนาม",
+          "rationale": "‘the Name’ absolute-form = the-name-of-Christ → พระนาม (royal-prefix divine-name). Echoes ACT 5:41 ‘suffer-for-the-Name’ — same absolute-Christological-Name usage."
+        },
+        {
+          "greek": "μηδὲν λαμβάνοντες ἀπὸ τῶν ἐθνικῶν",
+          "thai": "ไม่ได้รับสิ่งใดจากคนต่างชาติ",
+          "rationale": "ἐθνικός → คนต่างชาติ corpus-precedent (matches ethnos_2026-04.md context). The missionary-principle: not-burdening-the-Gentile-mission-target with-financial-obligation (cf. PAUL's similar policy 1 COR 9:12 + 1 TH 2:9)."
+        }
+      ],
+      "notes": "Missionary-policy: Gospel-workers don't take support-from-the-target-Gentile-evangelism context — they-rely on church-hospitality from-believers. Echoes Pauline missionary-self-support practice."
+    }
+  },
+  {
+    "reference": "3 John 1:8",
+    "chapter": 1,
+    "verse": 8,
+    "greek": "ἡμεῖς οὖν ὀφείλομεν ὑπολαμβάνειν τοὺς τοιούτους,ἵνα συνεργοὶ γινώμεθα τῇ ἀληθείᾳ.",
+    "bsb_english": "Therefore we ought to support such men, so that we may be fellow workers for the truth.",
+    "translation": {
+      "thai": "เพราะฉะนั้น เราจึงต้องสนับสนุนคนเช่นนี้ เพื่อเราจะได้เป็นผู้ร่วมงานกับความจริง",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ἡμεῖς οὖν ὀφείλομεν ὑπολαμβάνειν τοὺς τοιούτους",
+          "thai": "เพราะฉะนั้น เราจึงต้องสนับสนุนคนเช่นนี้",
+          "rationale": "ὑπολαμβάνω → สนับสนุน (support / take-up-from-below)."
+        },
+        {
+          "greek": "ἵνα συνεργοὶ γινώμεθα τῇ ἀληθείᾳ",
+          "thai": "เพื่อเราจะได้เป็นผู้ร่วมงานกับความจริง",
+          "rationale": "συνεργός → ผู้ร่วมงาน corpus-precedent (matches Pauline συνεργός renderings — ROM 16:3, 9, 21; 1 COR 3:9; PHL 2:25; etc.). ‘fellow-workers-with-the-truth’ — partnership in-the-mission."
+        }
+      ],
+      "notes": "Pastoral-imperative: hospitality-to-traveling-preachers = partnership-in-mission. The ὑπολαμβάνω-σuneργοί pair frames financial-support as gospel-cooperation."
+    }
+  },
+  {
+    "reference": "3 John 1:9",
+    "chapter": 1,
+    "verse": 9,
+    "greek": "Ἔγραψά τι τῇ ἐκκλησίᾳ·ἀλλ’ὁ φιλοπρωτεύων αὐτῶν Διοτρέφης οὐκ ἐπιδέχεται ἡμᾶς.",
+    "bsb_english": "I have written to the church about this, but Diotrephes, who loves to be first, will not accept our instruction.",
+    "translation": {
+      "thai": "ข้าพเจ้าได้เขียนถึงคริสตจักรบ้างแล้ว แต่ดิโอเตรเฟส ผู้ที่ใฝ่หาความเป็นใหญ่ในหมู่พวกเขา ไม่ยอมรับเรา",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "Ἔγραψά τι τῇ ἐκκλησίᾳ",
+          "thai": "ข้าพเจ้าได้เขียนถึงคริสตจักรบ้างแล้ว",
+          "rationale": "‘τι’ indefinite-something → บ้าง (some-prior-letter, possibly lost-or-ignored)."
+        },
+        {
+          "greek": "ὁ φιλοπρωτεύων αὐτῶν Διοτρέφης",
+          "thai": "ดิโอเตρเฟส ผู้ที่ใฝ่หาความเป็นใหญ่ในหมู่พวกเขา",
+          "rationale": "TWO HAPAX. Διοτρέφης (only here NT, proper-noun) → ดิโอเตรเฟส (Greek-form Thai-transliteration). φιλοπρωτεύω (only here NT, ‘love-to-be-first’) → ใฝ่หาความเป็นใหญ่ — preserves the ambition-for-primacy sense."
+        },
+        {
+          "greek": "οὐκ ἐπιδέχεται ἡμᾶς",
+          "thai": "ไม่ยอมรับเรา",
+          "rationale": "ἐπιδέχομαι → ยอมรับ — preserves the ‘receive-favorably’ sense; here-context = refuse-apostolic-authority."
+        }
+      ],
+      "notes": "TWO HAPAX (φιλοπρωτεύω + Διοτρέφης proper-noun). The Diotrephes-conflict: a local-church-leader who-rejects-apostolic-authority. Counterpoint to Gaius's faithfulness."
+    }
+  },
+  {
+    "reference": "3 John 1:10",
+    "chapter": 1,
+    "verse": 10,
+    "greek": "διὰ τοῦτο,ἐὰν ἔλθω,ὑπομνήσω αὐτοῦ τὰ ἔργα ἃ ποιεῖ,λόγοις πονηροῖς φλυαρῶν ἡμᾶς,καὶ μὴ ἀρκούμενος ἐπὶ τούτοις οὔτε αὐτὸς ἐπιδέχεται τοὺς ἀδελφοὺς καὶ τοὺς βουλομένους κωλύει καὶ ἐκ τῆς ἐκκλησίας ἐκβάλλει.",
+    "bsb_english": "So if I come, I will call attention to his malicious slander against us. And unsatisfied with that, he refuses to welcome the brothers and forbids those who want to do so, even putting them out of the church.",
+    "translation": {
+      "thai": "เพราะฉะนั้น ถ้าข้าพเจ้ามา ข้าพเจ้าจะตักเตือนเรื่องการกระทำของเขา ที่เขาใช้ถ้อยคำชั่วร้ายปรักปรำเรา และเขาไม่พอใจเพียงแค่นั้น เขายังไม่ยอมรับพี่น้อง และห้ามผู้ที่ต้องการต้อนรับ และยังขับพวกเขาออกจากคริสตจักร",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ὑπομνήσω αὐτοῦ τὰ ἔργα ἃ ποιεῖ, λόγοις πονηροῖς φλυαρῶν ἡμᾶς",
+          "thai": "ข้าพเจ้าจะตักเตือนเรื่องการกระทำของเขา ที่เขาใช้ถ้อยคำชั่วร้ายปรักปรำเรา",
+          "rationale": "ὑπομιμνῄσκω here-context → ตักเตือน (call-attention-to / rebuke). HAPAX φλυαρέω (only here NT, ‘talk nonsense / babble against’) → ปรักปรำ — preserves the slander-with-empty-words sense."
+        },
+        {
+          "greek": "καὶ μὴ ἀρκούμενος ἐπὶ τούτοις οὔτε αὐτὸς ἐπιδέχεται τοὺς ἀδελφοὺς",
+          "thai": "และเขาไม่พอใจเพียงแค่นั้น เขายังไม่ยอมรับพี่น้อง",
+          "rationale": "Diotrephes-pattern: speaks-against + refuses-hospitality + blocks-others + expels-from-church (escalating-discipline-pattern)."
+        },
+        {
+          "greek": "καὶ τοὺς βουλομένους κωλύει καὶ ἐκ τῆς ἐκκλησίας ἐκβάλλει",
+          "thai": "และห้ามผู้ที่ต้องการต้อนรับ และยังขับพวกเขาออกจากคริสตจักร",
+          "rationale": "ἐκβάλλω → ขับ ... ออก (excommunicate). The most-severe-misuse of-church-authority: excommunicating-the-faithful for-receiving-traveling-preachers."
+        }
+      ],
+      "notes": "ONE HAPAX (φλυαρέω). Diotrephes's-fourfold-misconduct: slander + refusing-hospitality + blocking-others + excommunication. The pattern of-corrupt-church-leadership."
+    }
+  },
+  {
+    "reference": "3 John 1:11",
+    "chapter": 1,
+    "verse": 11,
+    "greek": "Ἀγαπητέ,μὴ μιμοῦ τὸ κακὸν ἀλλὰ τὸ ἀγαθόν.ὁ ἀγαθοποιῶν ἐκ τοῦ θεοῦ ἐστιν·ὁ κακοποιῶν οὐχ ἑώρακεν τὸν θεόν.",
+    "bsb_english": "Beloved, do not imitate what is evil, but what is good. The one who does good is of God; the one who does evil has not seen God.",
+    "translation": {
+      "thai": "ท่านที่รัก อย่าเลียนแบบสิ่งชั่ว แต่จงเลียนแบบสิ่งดี ผู้ที่ทำดีก็เป็นของพระเจ้า ผู้ที่ทำชั่วก็ไม่ได้เห็นพระเจ้าเลย",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "μὴ μιμοῦ τὸ κακὸν ἀλλὰ τὸ ἀγαθόν",
+          "thai": "อย่าเลียนแบบสิ่งชั่ว แต่จงเลียนแบบสิ่งดี",
+          "rationale": "μιμέομαι → เลียนแบบ corpus-precedent (matches HEB 13:7 + 3 JN 11 same lemma)."
+        },
+        {
+          "greek": "ὁ ἀγαθοποιῶν ἐκ τοῦ θεοῦ ἐστιν· ὁ κακοποιῶν οὐχ ἑώρακεν τὸν θεόν",
+          "thai": "ผู้ที่ทำดีก็เป็นของพระเจ้า ผู้ที่ทำชั่วก็ไม่ได้เห็นพระเจ้าเลย",
+          "rationale": "ἀγαθοποιέω + κακοποιέω → ทำดี + ทำชั่ว. ‘has-not-seen-God’ Johannine-signature spiritual-perception language (matches 1 JN 3:6; 4:20)."
+        }
+      ],
+      "notes": "Pastoral-imperative-with-theological-grounding: doing-good evidences divine-origin. Implicit-warning: imitate-Gaius (good) NOT Diotrephes (evil)."
+    }
+  },
+  {
+    "reference": "3 John 1:12",
+    "chapter": 1,
+    "verse": 12,
+    "greek": "Δημητρίῳ μεμαρτύρηται ὑπὸ πάντων καὶ ὑπὸ αὐτῆς τῆς ἀληθείας·καὶ ἡμεῖς δὲ μαρτυροῦμεν,καὶ οἶδας ὅτι ἡ μαρτυρία ἡμῶν ἀληθής ἐστιν.",
+    "bsb_english": "Demetrius has received a good testimony from everyone, and from the truth itself. We also testify for him, and you know that our testimony is true.",
+    "translation": {
+      "thai": "เดเมตริอัสได้รับคำพยานที่ดีจากทุกคน และจากความจริงเองด้วย เราเองก็เป็นพยานด้วย และท่านก็รู้ว่าคำพยานของเราเป็นความจริง",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "Δημητρίῳ μεμαρτύρηται ὑπὸ πάντων καὶ ὑπὸ αὐτῆς τῆς ἀληθείας",
+          "thai": "เดเมตริอัสได้รับคำพยานที่ดีจากทุกคน และจากความจริงเองด้วย",
+          "rationale": "Δημήτριος → เดเมตริอัส (Greek-form Thai-transliteration). ‘from-the-truth-itself’ — personification of-truth-as-witness-bearer."
+        },
+        {
+          "greek": "καὶ ἡμεῖς δὲ μαρτυροῦμεν, καὶ οἶδας ὅτι ἡ μαρτυρία ἡμῶν ἀληθής ἐστιν",
+          "thai": "เราเองก็เป็นพยานด้วย และท่านก็รู้ว่าคำพยานของเราเป็นความจริง",
+          "rationale": "Apostolic-testimony added — echoes JHN 19:35 + JHN 21:24 (corpus-internal-link Johannine-signature ‘our-testimony-is-true’)."
+        }
+      ],
+      "notes": "Apostolic-recommendation of Demetrius (likely-the-letter-bearer to-Gaius). ‘Our-testimony-is-true’ Johannine-signature self-attestation (cf. JHN 19:35; 21:24)."
+    }
+  },
+  {
+    "reference": "3 John 1:13",
+    "chapter": 1,
+    "verse": 13,
+    "greek": "Πολλὰ εἶχον γράψαι σοι,ἀλλ’οὐ θέλω διὰ μέλανος καὶ καλάμου σοι γράφειν·",
+    "bsb_english": "I have many things to write to you, but I would prefer not to do so with pen and ink.",
+    "translation": {
+      "thai": "ข้าพเจ้ามีหลายสิ่งที่จะเขียนถึงท่าน แต่ข้าพเจ้าไม่อยากเขียนถึงท่านด้วยน้ำหมึกและปากกา",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "Πολλὰ εἶχον γράψαι σοι, ἀλλ’ οὐ θέλω διὰ μέλανος καὶ καλάμου σοι γράφειν",
+          "thai": "ข้าพเจ้ามีหลายสิ่งที่จะเขียนถึงท่าน แต่ข้าพเจ้าไม่อยากเขียนถึงท่านด้วยน้ำหมึกและปากกา",
+          "rationale": "Parallel-structure to 2 JN 1:12 (note: 2 JN uses χάρτου ‘paper’ + μέλανος ‘ink’; 3 JN uses μέλανος ‘ink’ + καλάμου ‘pen / reed-pen’ — different writing-tools, same letter-closing rhetoric). κάλαμος → ปากกา."
+        }
+      ],
+      "notes": "Parallel-closing to 2 JN 1:12. Different writing-tools mentioned (3 JN: ink + reed-pen; 2 JN: paper + ink) but same letter-closing convention."
+    }
+  },
+  {
+    "reference": "3 John 1:14",
+    "chapter": 1,
+    "verse": 14,
+    "greek": "ἐλπίζω δὲ εὐθέως σε ἰδεῖν,καὶ στόμα πρὸς στόμα λαλήσομεν.",
+    "bsb_english": "Instead, I hope to see you soon and speak with you face to face.",
+    "translation": {
+      "thai": "แต่ข้าพเจ้าหวังว่าจะได้พบท่านในเร็ว ๆ นี้ และเราจะได้พูดต่อหน้ากัน",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ἐλπίζω δὲ εὐθέως σε ἰδεῖν",
+          "thai": "แต่ข้าพเจ้าหวังว่าจะได้พบท่านในเร็ว ๆ นี้",
+          "rationale": "εὐθέως → เร็ว ๆ นี้ (soon)."
+        },
+        {
+          "greek": "καὶ στόμα πρὸς στόμα λαλήσομεν",
+          "thai": "และเราจะได้พูดต่อหน้ากัน",
+          "rationale": "‘στόμα πρὸς στόμα’ → ต่อหน้ากัน — Hebraic-idiom (matches 2 JN 1:12; cf. NUM 12:8 LXX)."
+        }
+      ],
+      "notes": "Parallel to 2 JN 1:12 ‘face-to-face’ Hebraic-idiom. Hope-of-personal-visit closes the practical-pastoral letter."
+    }
+  },
+  {
+    "reference": "3 John 1:15",
+    "chapter": 1,
+    "verse": 15,
+    "greek": "Εἰρήνη σοι.ἀσπάζονταί σε οἱ φίλοι.ἀσπάζου τοὺς φίλους κατ’ὄνομα.",
+    "bsb_english": "Peace to you. The friends here send you greetings. Greet each of our friends there by name.",
+    "translation": {
+      "thai": "ขอสันติสุขจงมีแก่ท่าน เพื่อนทั้งหลายฝากความระลึกถึงท่าน ขอท่านฝากความระลึกถึงเพื่อนทั้งหลายเป็นรายบุคคล",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "Εἰρήνη σοι",
+          "thai": "ขอสันติสุขจงมีแก่ท่าน",
+          "rationale": "εἰρήνη → สันติสุข corpus-locked. Standard-Hellenistic-Christian peace-blessing."
+        },
+        {
+          "greek": "ἀσπάζονταί σε οἱ φίλοι. ἀσπάζου τοὺς φίλους κατ’ ὄνομα",
+          "thai": "เพื่อนทั้งหลายฝากความระลึกถึงท่าน ขอท่านฝากความระลึกถึงเพื่อนทั้งหลายเป็นรายบุคคล",
+          "rationale": "φίλοι → เพื่อน — preserves the friendship-language (distinct from ἀδελφοί ‘brothers’; here-context = personal-circle of-John's-and-Gaius's mutual-acquaintance). ‘κατ’ ὄνομα’ → เป็นรายบุคคล (one-by-one, by-name)."
+        }
+      ],
+      "notes": "Closing-formula: peace + greetings-from-friends + greet-friends-by-name. The φίλοι vocabulary distinguishes from ἀδελφοί — the personal-friendship-circle of-the-author and recipient."
+    }
+  }
+]
