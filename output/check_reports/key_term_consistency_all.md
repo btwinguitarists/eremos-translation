@@ -2,8 +2,8 @@
 
 - Rule violations: **0**
 - Undocumented multi-renderings: **0**
-- Documented multi-renderings: 475
-- Consistent single renderings: 16941
+- Documented multi-renderings: 476
+- Consistent single renderings: 17091
 
 ## ✅ Documented multi-renderings (contextual variance)
 
@@ -264,6 +264,7 @@
 - **υἱὲ Δαυίδ** — บุตรดาวิด (1x), ข้าแต่บุตรดาวิด (1x)
 - **φραγελλώσας** — เมื่อเฆี่ยน...แล้ว (1x), โบยตี (1x)
 - **χάρις ὑμῖν καὶ εἰρήνη** — ขอพระคุณและสันติสุข...จงดำรงอยู่กับพวกท่านทั้งหลาย (2x), ขอพระคุณและสันติสุขจงดำรงอยู่กับท่านทั้งหลาย (1x), ขอพระคุณและสันติสุข ... จงดำรงอยู่กับพวกท่าน (3x), ขอพระคุณและสันติสุข ... จงดำรงอยู่กับท่านทั้งหลาย (1x)
+- **χάρις ὑμῖν καὶ εἰρήνη πληθυνθείη** — ขอพระคุณและสันติสุขจงทวียิ่งขึ้นแก่ท่านทั้งหลาย (1x), ขอพระคุณและสันติสุขจงทวีคูณแก่ท่านทั้งหลาย (1x)
 - **χαίρειν** — ขอความสุขสวัสดีจงมีแก่ท่านทั้งหลาย (1x), ขอความชื่นชมยินดีจงมีแก่ท่าน (1x)
 - **ἀγαθοποιῆσαι ἢ κακοποιῆσαι** — ทำความดีหรือทำความชั่ว (1x), การทำดีหรือการทำชั่ว (1x)
 - **ἀδιαλείπτως** — อย่างไม่เคยขาด (1x), อย่างไม่หยุดยั้ง (1x)
@@ -485,4 +486,4 @@
 
 ## ✅ Single-rendering lemmas
 
-16941 lemmas each translated consistently across every occurrence. See `glossary.json` for the full list.
+17091 lemmas each translated consistently across every occurrence. See `glossary.json` for the full list.
