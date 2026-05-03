@@ -1,0 +1,13 @@
+[
+  {
+    "verse": 29,
+    "type": "phrase_variant_bracketed",
+    "phrase_greek": "καὶ νηστείᾳ",
+    "phrase_thai": "และการอดอาหาร",
+    "tier_status": "Tier 1 (in-text [...]) + Tier 2 (verse-level footer note added 2026-05-03)",
+    "witnesses_include": "Codex Sinaiticus corrected (ℵ²), Codex Alexandrinus (A), Codex Ephraemi (C), Bezae (D), most Byzantine manuscripts; Old Latin + Vulgate + Peshitta Syriac; KJV, NKJV; THKJV (THSV omits per modern critical-text alignment)",
+    "witnesses_omit": "Codex Sinaiticus original hand (ℵ*), Codex Vaticanus (B), Codex Koridethi (Θ), 0274, k, geo¹; NA28/UBS5 omit; ESV, NIV, NASB, CSB, BSB, NRSV omit",
+    "explanation_thai": "วลี \"และการอดอาหาร\" (καὶ νηστείᾳ) ในข้อ 9:29 ขาดในต้นฉบับเก่าแก่ที่สุดสองฉบับ (ซีนายติคัสฉบับแรก, วาติกานัส) แต่ปรากฏในต้นฉบับยุคหลังส่วนใหญ่ (อเล็กซานดรีนัส, เอฟเรมี, เบซาเอ, ไบแซนไทน์) ฉบับวิจารณ์สมัยใหม่ (NA28, UBS5, SBLGNT) ละไว้ — สอดคล้องกับฉบับภาษาอังกฤษสมัยใหม่ (ESV, NIV, NASB, CSB, BSB) นักวิจารณ์ส่วนใหญ่เห็นว่าเป็นการเพิ่มในภายหลัง สะท้อนแนวทางการฝึกวินัยฝ่ายวิญญาณของคริสตจักรยุคต้น (เทียบ มัทธิว 17:21 ที่มีสภาพเดียวกัน — ขาดในต้นฉบับเก่า, ปรากฏในต้นฉบับใหม่ — และฉบับเอเรโมสจัดการเป็น Tier 2 footer-note โดยไม่ใส่ในข้อความหลัก) ฉบับเอเรโมสที่นี่เลือกใส่ในวงเล็บ [...] แทนการละไว้ทั้งหมด เพราะการอดอาหารยังเป็นหัวข้อสำคัญทางพันธกิจในคริสตจักรไทยยุคปัจจุบัน — การละไว้อย่างเงียบอาจสร้างความสับสนและความไม่ไว้วางใจในผู้อ่านที่คุ้นเคยกับฉบับ THKJV",
+    "cross_reference": "Mark 9:29 parallel: Matthew 17:21 (where the entire verse is variant — see output/textual_variants/matthew_17.json)"
+  }
+]
