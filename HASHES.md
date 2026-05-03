@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-05-03 16:26:25 UTC_
-_Total chapters: 224 · Total verses: 7209_
+_Generated: 2026-05-03 17:00:22 UTC_
+_Total chapters: 225 · Total verses: 7234_
 
 ## How to verify a chapter
 
@@ -80,7 +80,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/2timothy_02.json` | 26 | `0556acc3c5c3e22ca3ce39906dd0d86d24b9b2268928c347a54bb642d0d4fa7f` | `12da0af` |
 | `output/translations/2timothy_03.json` | 17 | `7fcb2d3f3a2b221f9fa21f6f1ab9285fb455482a2107fc0ba3766a9c60137933` | `17f2100` |
 | `output/translations/2timothy_04.json` | 22 | `54074762576c5b4e7c8e2f3ad2bccd8d89f6157aa4a90b50d5482131f5b65d43` | `00a387a` |
-| `output/translations/3john_01.json` | 15 | `7dfd88bc21420fedc08c7b1a155fd16db06c657a97a42669c460006da83b83c9` | `—` |
+| `output/translations/3john_01.json` | 15 | `7dfd88bc21420fedc08c7b1a155fd16db06c657a97a42669c460006da83b83c9` | `fb63db0` |
 | `output/translations/acts_01.json` | 26 | `cc3574d90c4b6f71f2a97f982172d02369ddd0697eaa00d9c567c986e4bd99a0` | `6d15bb1` |
 | `output/translations/acts_02.json` | 47 | `485a725007196c655728072e5c85870a24b27507f6cf498c4c7e7a5e5c14398c` | `6d15bb1` |
 | `output/translations/acts_03.json` | 26 | `40f62c30b35e9d69374af97e047e340cde76077145bd972380b98ed6791b499c` | `6d15bb1` |
@@ -151,6 +151,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/john_19.json` | 42 | `8e4895ec0fbb4fd94b0ede36df69d79e83b272ae2eeb426ed471339559654f34` | `c23d3a4` |
 | `output/translations/john_20.json` | 31 | `55797ecc906f40e0b686ab1d811b473751a9370d705d7a6910ea9c06165e00c0` | `68ee1df` |
 | `output/translations/john_21.json` | 25 | `f6ec05b4ae5b48057f80c04030f55924ebe6ee76b8e1c67e44139b4e04ba859e` | `d50cea8` |
+| `output/translations/jude_01.json` | 25 | `830e0e17f058553a12d3c30af95ce0dfc8e68d4ae841849ece413ffc310bfc78` | `—` |
 | `output/translations/luke_01.json` | 80 | `69ceecef9eb92a4f8f94165520214feb6410f3477e0c960da749ab0905431fa4` | `1f0d7ba` |
 | `output/translations/luke_02.json` | 52 | `e50197772258e55fe3d51fecd922cfd83f9ab5ed2b2727d61038dfd9bdce5e03` | `6d15bb1` |
 | `output/translations/luke_03.json` | 38 | `a783de0c4b34da34985a62445df9229241b8083fddffd79540c317a30999962a` | `6d15bb1` |
