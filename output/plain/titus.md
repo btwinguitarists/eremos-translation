@@ -1,6 +1,6 @@
 # ทิตัส
 
-_Titus — 2 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
+_Titus — 3 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
 
 _This **plain edition** shows only the Thai translation — no commentary, no Greek, no English. Intended for Thai scholars and theological reviewers evaluating the translation on its own terms. For the annotated edition with contextual summaries (บริบท), see `output/reader/titus.md`. For the underlying Greek, English (BSB) reference, and translator decisions per verse, see the per-chapter review reports at `output/check_reports/titus_NN_review.md` or the source JSON at `output/translations/`._
 
@@ -76,6 +76,40 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 ---
 
+## บทที่ 3
+
+**1** จงเตือนพวกเขาให้ยอมอยู่ใต้บังคับผู้ปกครองและผู้มีอำนาจ ให้เชื่อฟัง และให้พร้อมสำหรับการกระทำดีทุกประการ
+
+**2** ไม่ให้พูดร้ายต่อผู้ใด ให้เป็นคนไม่ทะเลาะวิวาท สุภาพอ่อนโยน แสดงความสุภาพอ่อนน้อมอย่างเต็มที่ต่อทุกคน
+
+**3** เพราะครั้งหนึ่ง พวกเราเองก็เคยเขลา ไม่เชื่อฟัง หลงผิด เป็นทาสแห่งตัณหาและความใคร่ต่าง ๆ ดำเนินชีวิตในความใจร้ายและความริษยา เป็นที่เกลียดชังและเกลียดชังกันและกัน
+
+**4** แต่เมื่อความเมตตาและความรักที่พระเจ้าพระผู้ช่วยให้รอดของเราทรงมีต่อมนุษย์ ได้ทรงปรากฏแล้ว
+
+**5** พระองค์ทรงช่วยเราให้รอด ไม่ใช่เพราะการกระทำที่ชอบธรรมที่เราได้ทำ แต่ตามพระเมตตาของพระองค์ โดยทางการชำระล้างแห่งการบังเกิดใหม่ และการสร้างใหม่โดยพระวิญญาณบริสุทธิ์
+
+**6** ผู้ซึ่งพระองค์ได้ทรงเทมาเหนือเราอย่างบริบูรณ์ โดยทางพระเยซูคริสต์ พระผู้ช่วยให้รอดของเรา
+
+**7** เพื่อเมื่อเราได้รับการประกาศว่าชอบธรรมโดยพระคุณของพระองค์แล้ว เราจะกลายเป็นผู้รับมรดกตามความหวังแห่งชีวิตนิรันดร์
+
+**8** ถ้อยคำนี้เชื่อถือได้ และข้าพเจ้าต้องการให้ท่านยืนยันสิ่งเหล่านี้อย่างเด็ดเดี่ยว เพื่อผู้ที่ได้เชื่อในพระเจ้าแล้วจะคำนึงถึงการตั้งใจทำสิ่งดี สิ่งเหล่านี้เป็นสิ่งดีและเป็นประโยชน์แก่มนุษย์
+
+**9** แต่จงหลีกเลี่ยงการถกเถียงที่โง่เขลา ลำดับวงศ์ตระกูล การวิวาท และการโต้เถียงเรื่องธรรมบัญญัติ เพราะสิ่งเหล่านี้ไม่มีประโยชน์และไร้สาระ
+
+**10** จงปฏิเสธคนที่ก่อให้เกิดการแตกแยก หลังจากตักเตือนเขาครั้งที่หนึ่งและครั้งที่สองแล้ว
+
+**11** โดยรู้ว่าคนเช่นนั้นได้หันเหไปผิดทางและทำบาป เป็นผู้ตัดสินโทษตัวเอง
+
+**12** เมื่อข้าพเจ้าส่งอารเทมัสหรือทีคิคัสไปหาท่าน จงพยายามมาหาข้าพเจ้าที่เมืองนิโคโปลิส เพราะข้าพเจ้าตัดสินใจแล้วว่าจะพักอยู่ที่นั่นตลอดฤดูหนาว
+
+**13** จงพยายามอย่างสุดความสามารถส่งเซนัส นักธรรมบัญญัติ และอปอลโลออกเดินทาง เพื่อพวกเขาจะไม่ขาดสิ่งใด
+
+**14** และให้คนของเราเรียนรู้ที่จะตั้งใจทำสิ่งดี เพื่อสนองความจำเป็นเร่งด่วน เพื่อพวกเขาจะไม่เป็นคนไม่เกิดผล
+
+**15** คนทั้งหมดที่อยู่กับข้าพเจ้าฝากความระลึกถึงท่าน ขอฝากความระลึกถึงผู้ที่รักเราในความเชื่อ ขอพระคุณดำรงอยู่กับพวกท่านทุกคน
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -84,4 +118,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 |---|---|
 | `output/translations/titus_01.json` | `6b9bc5a855e4143fab405d9116d393e4ed8e929d99a62b3d2451d8043fb50100` |
 | `output/translations/titus_02.json` | `54cca3502fb1484c14c16b498528dd0e1691cb0d1650c2a21bae3fc079cf8180` |
+| `output/translations/titus_03.json` | `9f1e18c3acfb8283ae184cbf4466a6a43088ba9a7703c32fa0021721c638b90b` |
 

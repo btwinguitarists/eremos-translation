@@ -52,8 +52,8 @@
 ## πνεῦμα ἅγιον
 **Doc:** `RULES.md §4 + glossary`  
 **Expected Thai contains:** `พระวิญญาณบริสุทธิ์`  
-**Total matching verses:** 48  
-**OK:** 48 · **Excepted:** 0 · **Violations:** 0
+**Total matching verses:** 49  
+**OK:** 49 · **Excepted:** 0 · **Violations:** 0
 
 ## ἐκκλησία (Christian community sense)
 **Doc:** `ekklesia_2026-04.md`  

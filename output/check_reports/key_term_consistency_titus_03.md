@@ -1,0 +1,10 @@
+# Key-term consistency check — titus ch. 3
+
+- Rule violations: **0**
+- Undocumented multi-renderings: **0**
+- Documented multi-renderings: 0
+- Consistent single renderings: 50
+
+## ✅ Single-rendering lemmas
+
+50 lemmas each translated consistently across every occurrence. See `glossary.json` for the full list.
