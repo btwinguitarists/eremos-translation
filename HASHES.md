@@ -3,7 +3,7 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-05-03 02:14:32 UTC_
+_Generated: 2026-05-03 02:46:45 UTC_
 _Total chapters: 202 · Total verses: 6772_
 
 ## How to verify a chapter
@@ -220,7 +220,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/romans_14.json` | 23 | `b0053855ef0eb4128c7831b5b2c9ef9e649dfb7b487185e6fa780c5fde1e2b80` | `73ccfe7` |
 | `output/translations/romans_15.json` | 33 | `7f0d286423a90030edd9e123cd34c43b6f72da74846b7cd524541e314bffeb2d` | `73ccfe7` |
 | `output/translations/romans_16.json` | 27 | `d6818f9bcd5e1caff3604f1e7852b42b063df2a18146bcf6f969ca9cfae71869` | `73ccfe7` |
-| `output/translations/titus_01.json` | 16 | `22de932bdbf89d6849f60d1d20d129433b47e21df19a3efc208c482ec201647c` | `—` |
+| `output/translations/titus_01.json` | 16 | `6b9bc5a855e4143fab405d9116d393e4ed8e929d99a62b3d2451d8043fb50100` | `675a0e2` |
 
 ---
 
