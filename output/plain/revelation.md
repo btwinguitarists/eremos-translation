@@ -1,6 +1,6 @@
 # วิวรณ์
 
-_Revelation — 4 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
+_Revelation — 5 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
 
 _This **plain edition** shows only the Thai translation — no commentary, no Greek, no English. Intended for Thai scholars and theological reviewers evaluating the translation on its own terms. For the annotated edition with contextual summaries (บริบท), see `output/reader/revelation.md`. For the underlying Greek, English (BSB) reference, and translator decisions per verse, see the per-chapter review reports at `output/check_reports/revelation_NN_review.md` or the source JSON at `output/translations/`._
 
@@ -186,6 +186,38 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 ---
 
+## บทที่ 5
+
+**1** และข้าพเจ้าได้เห็นในพระหัตถ์ขวาของพระองค์ผู้ประทับบนพระบัลลังก์ มีหนังสือม้วนหนึ่งซึ่งเขียนทั้งด้านในและด้านหลัง ปิดผนึกด้วยตราเจ็ดดวง
+
+**2** และข้าพเจ้าได้เห็นทูตสวรรค์ที่มีฤทธิ์ตนหนึ่ง กำลังประกาศด้วยเสียงดังว่า “ผู้ใดสมควรเปิดหนังสือม้วนนี้ และแกะตราเหล่านั้น?”
+
+**3** และไม่มีใครในสวรรค์ บนแผ่นดินโลก หรือใต้แผ่นดินโลกที่จะสามารถเปิดหนังสือม้วนนั้นหรือดูในนั้นได้
+
+**4** และข้าพเจ้าได้ร้องไห้อย่างรุนแรง เพราะไม่มีใครสมควรที่จะเปิดหนังสือม้วนนั้นหรือดูในนั้นได้
+
+**5** และผู้อาวุโสคนหนึ่งกล่าวกับข้าพเจ้าว่า “อย่าร้องไห้เลย ดูเถิด สิงโตจากเผ่ายูดาห์ รากของดาวิด ทรงชนะแล้วที่จะเปิดหนังสือม้วนนี้และตราเจ็ดดวงของมัน”
+
+**6** และข้าพเจ้าเห็นในท่ามกลางพระบัลลังก์และสิ่งมีชีวิตทั้งสี่ และในท่ามกลางผู้อาวุโสทั้งหลาย พระเมษโปดกตนหนึ่งยืนอยู่ ดุจถูกฆ่าแล้ว ทรงมีเขาเจ็ดเขาและพระเนตรเจ็ดดวง ซึ่งเป็นพระวิญญาณทั้งเจ็ดของพระเจ้าที่ทรงส่งออกไปทั่วแผ่นดินโลก
+
+**7** และพระองค์เสด็จมาและทรงรับหนังสือม้วนนั้นจากพระหัตถ์ขวาของพระองค์ผู้ประทับบนพระบัลลังก์
+
+**8** และเมื่อพระองค์ทรงรับหนังสือม้วนนั้น สิ่งมีชีวิตทั้งสี่และผู้อาวุโสยี่สิบสี่คนก็กราบลงต่อหน้าพระเมษโปดก แต่ละคนถือพิณและถือชามทองคำที่เต็มไปด้วยเครื่องหอม ซึ่งเป็นคำอธิษฐานของธรรมิกชน
+
+**9** และพวกเขาร้องเพลงใหม่ว่า “พระองค์ทรงสมควรที่จะรับหนังสือม้วนนี้และเปิดตราเหล่านั้น เพราะพระองค์ทรงถูกฆ่าและทรงไถ่คนเพื่อพระเจ้าด้วยพระโลหิตของพระองค์ จากทุกเผ่า ทุกภาษา ทุกชนชาติ และทุกประชาชาติ
+
+**10** และพระองค์ทรงทำให้พวกเขาเป็นราชอาณาจักรและปุโรหิตเพื่อพระเจ้าของเรา และพวกเขาจะปกครองบนแผ่นดินโลก”
+
+**11** และข้าพเจ้าได้มองดู และได้ยินเสียงของทูตสวรรค์มากมายรอบพระบัลลังก์ และสิ่งมีชีวิตและผู้อาวุโสทั้งหลาย และจำนวนของพวกเขาคือหมื่นแสนล้าน และพันแสนล้าน
+
+**12** พวกเขากล่าวด้วยเสียงดังว่า “พระเมษโปดกผู้ทรงถูกฆ่านั้น สมควรได้รับฤทธานุภาพ ความมั่งคั่ง พระปัญญา กำลัง เกียรติ พระสิริ และคำสรรเสริญ”
+
+**13** และทุกสิ่งที่ทรงสร้างที่อยู่ในสวรรค์ บนแผ่นดินโลก ใต้แผ่นดินโลก ในทะเล และทุกสิ่งที่อยู่ในนั้น ข้าพเจ้าได้ยินกล่าวว่า “แด่พระองค์ผู้ประทับบนพระบัลลังก์ และแด่พระเมษโปดก ขอคำสรรเสริญ เกียรติ พระสิริ และฤทธานุภาพ จงมีแด่พระองค์สืบ ๆ ไปเป็นนิตย์”
+
+**14** และสิ่งมีชีวิตทั้งสี่ตนกล่าวว่า “อาเมน” และผู้อาวุโสทั้งหลายก็กราบลงนมัสการ
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -196,4 +228,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/revelation_02.json` | `745607d35eed381dc54dbf735bd361fbfb9cfe8cd46ce45c73e106416fae3d8a` |
 | `output/translations/revelation_03.json` | `18119e1a64a868ccc0f147b9f2bb0dc52df354132fe378502ca4a0fd3d3d5ea3` |
 | `output/translations/revelation_04.json` | `e85a7ad60dbffbca26fbb01eaffa82c82a15f8c5eb6b5ef1ee308bee2ec49db4` |
+| `output/translations/revelation_05.json` | `6674787d54a22baea0516dc1b1873d1faa311f5c433e5a48525d4b698c4b4d10` |
 
