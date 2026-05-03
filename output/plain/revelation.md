@@ -1,6 +1,6 @@
 # วิวรณ์
 
-_Revelation — 7 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
+_Revelation — 8 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
 
 _This **plain edition** shows only the Thai translation — no commentary, no Greek, no English. Intended for Thai scholars and theological reviewers evaluating the translation on its own terms. For the annotated edition with contextual summaries (บริบท), see `output/reader/revelation.md`. For the underlying Greek, English (BSB) reference, and translator decisions per verse, see the per-chapter review reports at `output/check_reports/revelation_NN_review.md` or the source JSON at `output/translations/`._
 
@@ -294,6 +294,36 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 ---
 
+## บทที่ 8
+
+**1** และเมื่อพระองค์ทรงเปิดตราดวงที่เจ็ด ก็เกิดความเงียบในสวรรค์ประมาณครึ่งชั่วโมง
+
+**2** และข้าพเจ้าได้เห็นทูตสวรรค์ทั้งเจ็ดที่ยืนอยู่ต่อพระพักตร์พระเจ้า และพวกเขาได้รับแตรเจ็ดตัว
+
+**3** และทูตสวรรค์อีกตนหนึ่งเข้ามาและยืนอยู่ที่แท่นบูชา ถือกระถางเครื่องหอมทองคำ และได้รับเครื่องหอมเป็นจำนวนมาก เพื่อจะถวายพร้อมกับคำอธิษฐานของบรรดาธรรมิกชนทั้งหมด บนแท่นบูชาทองคำที่อยู่ต่อหน้าพระบัลลังก์
+
+**4** และควันของเครื่องหอม พร้อมกับคำอธิษฐานของบรรดาธรรมิกชน ลอยขึ้นต่อพระพักตร์พระเจ้าจากมือของทูตสวรรค์
+
+**5** และทูตสวรรค์ก็ได้รับกระถางเครื่องหอมนั้น และได้เติมไฟจากแท่นบูชา แล้วโยนลงบนแผ่นดินโลก และเกิดเสียงฟ้าร้อง เสียงต่าง ๆ ฟ้าแลบ และแผ่นดินไหว
+
+**6** และทูตสวรรค์ทั้งเจ็ดที่ถือแตรทั้งเจ็ดก็ตระเตรียมตัวเพื่อจะเป่าแตร
+
+**7** และทูตสวรรค์ตนแรกได้เป่าแตร และเกิดลูกเห็บและไฟปนเลือด ถูกโยนลงบนแผ่นดินโลก และหนึ่งในสามของแผ่นดินโลกถูกเผาไหม้ และหนึ่งในสามของต้นไม้ถูกเผาไหม้ และหญ้าเขียวทั้งหมดถูกเผาไหม้
+
+**8** และทูตสวรรค์ตนที่สองได้เป่าแตร และมีสิ่งที่เหมือนภูเขาใหญ่ลุกไหม้ด้วยไฟถูกโยนลงในทะเล และหนึ่งในสามของทะเลกลายเป็นเลือด
+
+**9** และหนึ่งในสามของสิ่งทรงสร้างในทะเลที่มีชีวิตได้ตาย และหนึ่งในสามของเรือก็ถูกทำลาย
+
+**10** และทูตสวรรค์ตนที่สามได้เป่าแตร และมีดาวใหญ่ดวงหนึ่งตกลงจากสวรรค์ ลุกไหม้ดุจคบไฟ และตกลงบนหนึ่งในสามของแม่น้ำและบนน้ำพุ
+
+**11** และดาวดวงนั้นมีชื่อว่า ‘ความขมขื่น’ และหนึ่งในสามของน้ำกลายเป็นขม และคนเป็นจำนวนมากได้ตายจากน้ำเหล่านั้น เพราะน้ำเหล่านั้นกลายเป็นขม
+
+**12** และทูตสวรรค์ตนที่สี่ได้เป่าแตร และหนึ่งในสามของดวงอาทิตย์ ดวงจันทร์ และดาวต่าง ๆ ถูกตี เพื่อให้หนึ่งในสามของแสงสว่างของพวกมันมืดลง และหนึ่งในสามของกลางวันก็ไม่ปรากฏแสง และกลางคืนก็เช่นเดียวกัน
+
+**13** และข้าพเจ้าได้เห็น และได้ยินนกอินทรีตัวหนึ่งกำลังบินอยู่กลางท้องฟ้า กล่าวด้วยเสียงดังว่า “วิบัติ วิบัติ วิบัติแก่ผู้ที่อาศัยอยู่บนแผ่นดินโลก เพราะเสียงแตรที่เหลืออีกสามเสียงที่ทูตสวรรค์ทั้งสามตนกำลังจะเป่า”
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -307,4 +337,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/revelation_05.json` | `6674787d54a22baea0516dc1b1873d1faa311f5c433e5a48525d4b698c4b4d10` |
 | `output/translations/revelation_06.json` | `1c270e3244ed3c3c9dff5e72cbb44351f3805073f19e58980051426918dce1d8` |
 | `output/translations/revelation_07.json` | `a0b9fb5b2eea1c8572e0d5f92ae1e7a4e1ee44e1f647bd28aa432d182b5180e4` |
+| `output/translations/revelation_08.json` | `c4268e45a1545725d7919495c46dc2764be36fc5cbd07755d0ed493fe273ff5c` |
 
