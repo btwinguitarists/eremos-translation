@@ -1,0 +1,492 @@
+[
+  {
+    "reference": "James 3:1",
+    "chapter": 3,
+    "verse": 1,
+    "greek": "Μὴ πολλοὶ διδάσκαλοι γίνεσθε,ἀδελφοί μου,εἰδότες ὅτι μεῖζον κρίμα λημψόμεθα·",
+    "bsb_english": "Not many of you should become teachers, my brothers, because you know that we who teach will be judged more strictly.",
+    "translation": {
+      "thai": "พี่น้องของข้าพเจ้าทั้งหลาย อย่าให้พวกท่านหลายคนมาเป็นอาจารย์ เพราะท่านรู้ว่า เราผู้ที่เป็นอาจารย์จะได้รับการพิพากษาที่หนักยิ่งกว่า",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "Μὴ πολλοὶ διδάσκαλοι γίνεσθε",
+          "thai": "อย่าให้พวกท่านหลายคนมาเป็นอาจารย์",
+          "rationale": "διδάσκαλος → อาจารย์ corpus-precedent across NT. The negative-imperative ‘not-many should-become’ → preserves the cautionary force; render ‘อย่าให้พวกท่านหลายคนมาเป็น’ — natural Thai for the warning-against-many."
+        },
+        {
+          "greek": "εἰδότες ὅτι μεῖζον κρίμα λημψόμεθα",
+          "thai": "เพราะท่านรู้ว่า เราผู้ที่เป็นอาจารย์จะได้รับการพิπากษาที่หนักยิ่งกว่า",
+          "rationale": "Per uW figs-exclusive: ‘we’ here = James + other-teachers (excludes the readers); render explicit ‘เราผู้ที่เป็นอาจารย์’ to disambiguate the inclusive-vs-exclusive ‘we’ which Thai doesn’t mark grammatically. Per uW figs-explicit: ‘greater judgment’ = stricter divine-judgment because of teaching-influence. κρίμα → การพิพากษา. μεῖζον → หนักยิ่งกว่า — preserves the comparative-greater (heavier)."
+        }
+      ],
+      "notes": "Opens ch.3 with the teacher-warning. The exclusive-‘we’ at v.1 vs inclusive-‘we’ at v.2 is contextually disambiguated; Thai render ‘เราผู้ที่เป็นอาจารย์’ marks v.1’s exclusivity explicitly, while v.2 ‘เราทั้งหลาย’ marks inclusivity."
+    }
+  },
+  {
+    "reference": "James 3:2",
+    "chapter": 3,
+    "verse": 2,
+    "greek": "πολλὰ γὰρ πταίομεν ἅπαντες.εἴ τις ἐν λόγῳ οὐ πταίει,οὗτος τέλειος ἀνήρ,δυνατὸς χαλιναγωγῆσαι καὶ ὅλον τὸ σῶμα.",
+    "bsb_english": "We all stumble in many ways. If anyone is never at fault in what he says, he is a perfect man, able to control his whole body.",
+    "translation": {
+      "thai": "เพราะเราทั้งหลายต่างพลาดในหลายเรื่อง ถ้าผู้ใดไม่พลาดในคำพูด ผู้นั้นก็เป็นคนสมบูรณ์ สามารถควบคุมร่างกายทั้งหมดของตนได้",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "πολλὰ γὰρ πταίομεν ἅπαντες",
+          "thai": "เพราะเราทั้งหลายต่างพลาดในหลายเรื่อง",
+          "rationale": "Per uW figs-exclusive: ‘we’ here inclusive (James + readers + everyone). Render ‘เราทั้งหลาย’ — preserves the universal-inclusivity. Per uW figs-metaphor: πταίω ‘stumble’ as if disobey. Render ‘พลาด’ same as JAS 2:10 — corpus-internal-consistency."
+        },
+        {
+          "greek": "εἴ τις ἐν λόγῳ οὐ πταίει, οὗτος τέλειος ἀνήρ",
+          "thai": "ถ้าผู้ใดไม่พลาดในคำพูด ผู้นั้นก็เป็นคนสมบูรณ์",
+          "rationale": "Per uW figs-metonymy: λόγος = what-people-say-using-words. Render ‘คำพูด.’ τέλειος → สมบูรณ์ (mature/fully-suited-to-purpose, same sense as JAS 1:4). Per uW figs-gendernotations: ἀνήρ generic → คน."
+        },
+        {
+          "greek": "δυνατὸς χαλιναγωγῆσαι καὶ ὅλον τὸ σῶμα",
+          "thai": "สามารถควบคุมร่างกายทั้งหมดของตนได้",
+          "rationale": "Per uW figs-metaphor: bridling-body = self-control (same lemma as 1:26 ‘bridle-tongue’). Per metaphor-flattening §J: bridle-vehicle flattened to control-target-sense — same as JAS 1:26. Per uW figs-synecdoche: σῶμα = whole-person. Render ‘ร่างกายทั้งหมดของตน’ — preserves the body-as-whole-self synecdoche."
+        }
+      ],
+      "notes": "πταίω + χαλιναγωγέω lemma-stems echo from JAS 2:10 (stumble) + 1:26 (bridle-tongue). The τέλειος-link to 1:4 + 17 + 25 + 2:22 weaves the perfection-theme."
+    }
+  },
+  {
+    "reference": "James 3:3",
+    "chapter": 3,
+    "verse": 3,
+    "greek": "εἰ δὲ τῶν ἵππων τοὺς χαλινοὺς εἰς τὰ στόματα βάλλομεν εἰς τὸ πείθεσθαι αὐτοὺς ἡμῖν,καὶ ὅλον τὸ σῶμα αὐτῶν μετάγομεν.",
+    "bsb_english": "When we put bits into the mouths of horses to make them obey us, we can guide the whole animal.",
+    "translation": {
+      "thai": "เมื่อเราใส่บังเหียนเข้าในปากม้า เพื่อให้มันเชื่อฟังเรา เราก็บังคับร่างกายทั้งหมดของมันได้",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "εἰ δὲ τῶν ἵππων τοὺς χαλινοὺς εἰς τὰ στόματα βάλλομεν",
+          "thai": "เมื่อเราใส่บังเหียนเข้าในปากม้า",
+          "rationale": "Per uW grammar-connect-time-background: εἰ δέ here = ‘Now / consider.’ Render ‘เมื่อ’ for the conditional-illustration frame. ἵππος → ม้า. χαλινός → บังเหียน — natural Thai for horse-bit (transfers cleanly; Thai readers know horse-bridles)."
+        },
+        {
+          "greek": "εἰς τὸ πείθεσθαι αὐτοὺς ἡμῖν",
+          "thai": "เพื่อให้มันเชื่อฟังเรา",
+          "rationale": "πείθω middle/passive ‘obey’ → เชื่อฟัง corpus-precedent ACT 5:32 same lemma."
+        },
+        {
+          "greek": "καὶ ὅλον τὸ σῶμα αὐτῶν μετάγομεν",
+          "thai": "เราก็บังคับร่างกายทั้งหมดของมันได้",
+          "rationale": "Per uW figs-metonymy: μετάγω ‘turn / steer’ used for ‘control’ generally. Render ‘บังคับ’ — preserves the directional-control sense; transfers naturally to Thai for horse-control."
+        }
+      ],
+      "notes": "First of three vivid metaphors for the small-controlling-the-large (bit, rudder, fire). All three transfer naturally to Thai — preserve-vehicle per metaphor-flattening principle (vehicles ARE the argument)."
+    }
+  },
+  {
+    "reference": "James 3:4",
+    "chapter": 3,
+    "verse": 4,
+    "greek": "ἰδοὺ καὶ τὰ πλοῖα,τηλικαῦτα ὄντα καὶ ὑπὸ ἀνέμων σκληρῶν ἐλαυνόμενα,μετάγεται ὑπὸ ἐλαχίστου πηδαλίου ὅπου ἡ ὁρμὴ τοῦ εὐθύνοντος βούλεται·",
+    "bsb_english": "Consider ships as well. Although they are so large and are driven by strong winds, they are steered by a very small rudder wherever the pilot is inclined.",
+    "translation": {
+      "thai": "ดูเรือทั้งหลายเถิด แม้จะมีขนาดใหญ่เพียงใด และถูกลมแรงกล้าพัดพาไป ก็ยังถูกบังคับด้วยหางเสือเล็ก ๆ ไปในทิศทางใดก็ได้ที่ผู้บังคับต้องการ",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ἰδοὺ καὶ τὰ πλοῖα",
+          "thai": "ดูเรือทั้งหลายเถิด",
+          "rationale": "Per uW figs-metaphor: ἰδού ‘behold’ = attention-marker. Render ‘ดู ... เถิด’ — natural Thai attention-marker. πλοῖον → เรือ corpus-precedent LUK 5:2 same lemma."
+        },
+        {
+          "greek": "τηλικαῦτα ὄντα καὶ ὑπὸ ἀνέμων σκληρῶν ἐλαυνόμενα",
+          "thai": "แม้จะมีขนาดใหญ่เพียงใด และถูกลมแรงกล้าพัดพาไป",
+          "rationale": "Per uW figs-activepassive: passive ‘driven-by-winds.’ Render ‘ถูกลม ... พัดพาไป’ — preserves the passive + adversity-of-strong-winds. ἄνεμοι σκληροί → ลมแรงกล้า."
+        },
+        {
+          "greek": "μετάγεται ὑπὸ ἐλαχίστου πηδαλίου",
+          "thai": "ก็ยังถูกบังคับด้วยหางเสือเล็ก ๆ",
+          "rationale": "Per uW figs-hyperbole: ἐλαχίστου ‘smallest’ as superlative-for-positive-emphasis. Render ‘เล็ก ๆ’ — natural Thai for small-emphasis. πηδάλιον → หางเสือ — natural Thai for ship-rudder."
+        },
+        {
+          "greek": "ὅπου ἡ ὁρμὴ τοῦ εὐθύνοντος βούλεται",
+          "thai": "ไปในทิศทางใดก็ได้ที่ผู้บังคับต้องการ",
+          "rationale": "Per uW figs-personification: ὁρμή ‘inclination/impulse’ as if living-thing-desiring. Render ‘ทิศทางใดก็ได้ที่ ... ต้องการ’ — preserves the directional-volition without forcing the personification (Thai-readable as the steerer’s intention)."
+        }
+      ],
+      "notes": "Second metaphor: ship-rudder. Like the bit-and-bridle, transfers naturally to Thai. The dual-illustration (small-bit / small-rudder controlling large-horse / large-ship) sets up the tongue-as-small-but-powerful at v.5."
+    }
+  },
+  {
+    "reference": "James 3:5",
+    "chapter": 3,
+    "verse": 5,
+    "greek": "οὕτως καὶ ἡ γλῶσσα μικρὸν μέλος ἐστὶν καὶ μεγάλα αὐχεῖ.Ἰδοὺ ἡλίκον πῦρ ἡλίκην ὕλην ἀνάπτει·",
+    "bsb_english": "In the same way, the tongue is a small part of the body, but it boasts of great things. Consider how small a spark sets a great forest ablaze.",
+    "translation": {
+      "thai": "เช่นเดียวกัน ลิ้นเป็นอวัยวะเล็ก ๆ แต่อวดถึงสิ่งใหญ่ ๆ ดูเถิด ไฟเล็กน้อยจุดป่าใหญ่ให้ลุกไหม้ได้เพียงใด",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "οὕτως καὶ ἡ γλῶσσα μικρὸν μέλος ἐστὶν καὶ μεγάλα αὐχεῖ",
+          "thai": "เช่นเดียวกัน ลิ้นเป็นอวัยวะเล็ก ๆ แต่อวดถึงสิ่งใหญ่ ๆ",
+          "rationale": "Per uW figs-simile: explicit-comparison-marker οὕτως καί. HAPAX αὐχέω (only here NT, ‘boast / vaunt’) → อวด — same lemma-Thai-stem as καυχάομαι (general-boast); preserves the boasting-of-greatness sense. γλῶσσα → ลิ้น corpus-locked. Per uW figs-personification: tongue-boasts-of-great-things — preserve."
+        },
+        {
+          "greek": "Ἰδοὺ ἡλίκον πῦρ ἡλίκην ὕλην ἀνάπτει",
+          "thai": "ดูเถิด ไฟเล็กน้อยจุดป่าใหญ่ให้ลุกไหม้ได้เพียงใด",
+          "rationale": "HAPAX ὕλη (only here NT, ‘forest / wood-mass’) → ป่าใหญ่ — preserves the forest-mass sense. Per uW translate-unknown: forest-burning illustration; transfers naturally to Thai (Thailand has forest-fire experience). ἡλίκον ... ἡλίκην exclamation ‘how-small ... how-large’ → ‘เล็กน้อย ... ใหญ่ ... เพียงใด’ — preserves the size-contrast emphasis."
+        }
+      ],
+      "notes": "TWO HAPAX (αὐχέω + ὕλη). Third metaphor: small-fire / large-forest. Transfers naturally to Thai readers familiar with forest-fires. Sets up v.6’s tongue-as-fire identification."
+    }
+  },
+  {
+    "reference": "James 3:6",
+    "chapter": 3,
+    "verse": 6,
+    "greek": "καὶ ἡ γλῶσσα πῦρ,ὁ κόσμος τῆς ἀδικίας ἡ γλῶσσα καθίσταται ἐν τοῖς μέλεσιν ἡμῶν,ἡ σπιλοῦσα ὅλον τὸ σῶμα καὶ φλογίζουσα τὸν τροχὸν τῆς γενέσεως καὶ φλογιζομένη ὑπὸ τῆς γεέννης.",
+    "bsb_english": "The tongue also is a fire, a world of wickedness among the parts of the body. It pollutes the whole person, sets the course of his life on fire, and is itself set on fire by hell.",
+    "translation": {
+      "thai": "และลิ้นก็เป็นไฟ เป็นโลกแห่งความอธรรมในบรรดาอวัยวะของเรา ลิ้นนั้นทำให้ร่างกายทั้งหมดมีมลทิน จุดวงจรชีวิตให้ลุกไหม้ และตัวมันเองก็ถูกจุดด้วยไฟนรก",
+      "thai_literal": null,
+      "thai_summary": "ข้อนี้เป็นข้อที่หนักหน่วงที่สุดเรื่องลิ้น ยากอบกล่าวว่าลิ้นไม่ใช่แค่อวัยวะเล็ก ๆ แต่เป็น ‘โลกแห่งความอธรรม’ — สามารถสะสมความชั่วทั้งโลกไว้ในตัวมัน คำว่า ‘วงจรชีวิต’ (กรีก τροχὸς τῆς γενέσεως) เป็นวลีที่อ่านได้สองอย่าง — (1) ทั้งชีวิตของบุคคลตั้งแต่เกิดถึงตาย (2) คนรุ่นต่อรุ่นสืบเนื่องกัน คำสุดท้าย ‘ไฟนรก’ (γεέννα ‘เกเฮนนา’) เป็นคำที่พระเยซูทรงใช้ — ระบุว่าอำนาจทำลายของลิ้นมีต้นกำเนิดจากผลของบาปและการกระทำของมารร้าย ไม่ใช่แค่ความผิดพลาดของมนุษย์เอง",
+      "key_decisions": [
+        {
+          "greek": "καὶ ἡ γλῶσσα πῦρ, ὁ κόσμος τῆς ἀδικίας ἡ γλῶσσα καθίσταται ἐν τοῖς μέλεσιν ἡμῶν",
+          "thai": "และลิ้นก็เป็นไฟ เป็นโลกแห่งความอธรรมในบรรดาอวัยวะของเรา",
+          "rationale": "Per uW figs-metonymy: γλῶσσα = what-people-say. Render literal ลิ้น preserves the metonym while letting context-supply the speech-meaning. Per uW figs-idiom: κόσμος τῆς ἀδικίας = vast-source-of-unrighteousness. ἀδικία → ความอธรรม. Render ‘โลกแห่งความอธรรม’ — preserves the vast-world-of-unrighteousness imagery."
+        },
+        {
+          "greek": "ἡ σπιλοῦσα ὅλον τὸ σῶμα",
+          "thai": "ลิ้นนั้นทำให้ร่างกายทั้งหมดมีมลทิน",
+          "rationale": "Per uW figs-metaphor: tongue-stains-body = makes-impure. σπιλόω → ทำให้ ... มีมลทิน — same root as ἄσπιλος → ‘ปราศจากมลทิน’ at JAS 1:27 + 1 Tim 6:14 (corpus-internal-stem-link); preserves the staining-defilement sense."
+        },
+        {
+          "greek": "καὶ φλογίζουσα τὸν τροχὸν τῆς γενέσεως",
+          "thai": "จุดวงจรชีวิตให้ลุกไหม้",
+          "rationale": "HAPAX τροχός (only here NT, ‘wheel / cycle’). Per uW figs-idiom: τροχὸς τῆς γενέσεως ‘wheel/cycle of existence’ ambiguous between (1) lifetime, (2) succeeding-generations. Render ‘วงจรชีวิต’ — preserves the cycle-of-life image; the dual-meaning available to careful readers without forcing one interpretation. φλογίζω → จุด ... ให้ลุกไหม้ (set-aflame)."
+        },
+        {
+          "greek": "καὶ φλογιζομένη ὑπὸ τῆς γεέννης",
+          "thai": "และตัวมันเองก็ถูกจุดด้วยไฟนรก",
+          "rationale": "Per uW figs-metaphor on Γέεννα: hell-as-source-of-destructive-fire. Γέεννα → ไฟนรก / นรก corpus-precedent LUK 12:5 ‘นรก’; here render ‘ไฟนรก’ to make the fire-source explicit (Γέεννα + φλογίζομαι together = hell-as-fire-source). Per uW figs-activepassive: passive ‘set-on-fire-by-Gehenna’ → ‘ถูกจุดด้วย.’"
+        }
+      ],
+      "notes": "ONE HAPAX (τροχός). The tongue-as-cosmic-evil-source verse — densest figurative language in the chapter. Per metaphor-flattening §J: vehicles preserved (fire, world, course-of-life, hell) since they are exegetically-determinative. Γέεννα-rendering as ‘ไฟนรก’ links to LUK 12:5 corpus-Thai."
+    }
+  },
+  {
+    "reference": "James 3:7",
+    "chapter": 3,
+    "verse": 7,
+    "greek": "πᾶσα γὰρ φύσις θηρίων τε καὶ πετεινῶν ἑρπετῶν τε καὶ ἐναλίων δαμάζεται καὶ δεδάμασται τῇ φύσει τῇ ἀνθρωπίνῃ·",
+    "bsb_english": "All kinds of animals, birds, reptiles, and creatures of the sea are being tamed and have been tamed by man,",
+    "translation": {
+      "thai": "เพราะสัตว์ป่าและนกทุกชนิด สัตว์เลื้อยคลานและสัตว์น้ำ ก็กำลังถูกฝึกและได้ถูกฝึกแล้วโดยมนุษย์",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "πᾶσα γὰρ φύσις θηρίων τε καὶ πετεινῶν ἑρπετῶν τε καὶ ἐναλίων",
+          "thai": "เพราะสัตว์ป่าและนกทุกชนิด สัตว์เลื้อยคลานและสัตว์น้ำ",
+          "rationale": "Per uW figs-merism + figs-hyperbole: four-categories = every-creature; πᾶσα generalizing-emphasis. θηρίον → สัตว์ป่า / สัตว์ร้าย — context-dependent (here ‘wild-animal’ rather than ‘dangerous-beast’ — render สัตว์ป่า). πετεινόν → นก corpus-precedent ACT 10:12. ἑρπετόν → สัตว์เลื้อยคลาน corpus-precedent ACT 10:12. HAPAX ἐνάλιον (only here NT, ‘sea-creature’) → สัตว์น้ำ — preserves the marine-creatures category."
+        },
+        {
+          "greek": "δαμάζεται καὶ δεδάμασται τῇ φύσει τῇ ἀνθρωπίνῃ",
+          "thai": "ก็กำลังถูกฝึกและได้ถูกฝึกแล้วโดยมนุษย์",
+          "rationale": "Per uW figs-doublet: present + perfect ‘is-being-tamed and has-been-tamed’ for emphasis-on-historical-continuity. δαμάζω → ฝึก (tame). Per uW figs-activepassive: passive preserved as Thai-passive ‘ถูกฝึก.’ Render with explicit ‘มนุษย์’ for the agent."
+        }
+      ],
+      "notes": "ONE HAPAX (ἐνάλιον). Four-fold creature merism corresponds to GEN 1:24-26 creation-categories — implicit echo of Adamic-dominion theme. Sets up the ‘but-the-tongue-no-one-can-tame’ paradox at v.8."
+    }
+  },
+  {
+    "reference": "James 3:8",
+    "chapter": 3,
+    "verse": 8,
+    "greek": "τὴν δὲ γλῶσσαν οὐδεὶς δαμάσαι δύναται ἀνθρώπων·ἀκατάστατον κακόν,μεστὴ ἰοῦ θανατηφόρου.",
+    "bsb_english": "but no man can tame the tongue. It is a restless evil, full of deadly poison.",
+    "translation": {
+      "thai": "แต่ลิ้นนั้นไม่มีมนุษย์คนใดสามารถฝึกได้ มันเป็นความชั่วที่ไม่อยู่นิ่ง เต็มไปด้วยพิษร้ายถึงชีวิต",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "τὴν δὲ γλῶσσαν οὐδεὶς δαμάσαι δύναται ἀνθρώπων",
+          "thai": "แต่ลิ้นนั้นไม่มีมนุษย์คนใดสามารถฝึกได้",
+          "rationale": "Per uW figs-gendernotations: ἀνθρώπων generic → มนุษย์. The δέ marks the contrast with v.7 (‘all-creatures-tamed BUT-not-the-tongue’)."
+        },
+        {
+          "greek": "ἀκατάστατον κακόν",
+          "thai": "มันเป็นความชั่วที่ไม่อยู่นิ่ง",
+          "rationale": "Per uW figs-personification: tongue-as-unsettled-evil-thing. ἀκατάστατος ‘unsettled / restless’ → ไม่อยู่นิ่ง — same lemma as 1:8 (διψυχος ‘ไม่มั่นคง’ context but distinct semantic). Render preserves the never-resting-from-evil sense."
+        },
+        {
+          "greek": "μεστὴ ἰοῦ θανατηφόρου",
+          "thai": "เต็มไปด้วยพิษร้ายถึงชีวิต",
+          "rationale": "HAPAX θανατηφόρος (only here NT, ‘death-bringing’) — compound θάνατος + φέρω. ἰός → พิษ (poison/venom). Render ‘พิษร้ายถึงชีวิต’ — preserves the deadly-poison metaphor (transfers naturally to Thai with snake-poison register)."
+        }
+      ],
+      "notes": "ONE HAPAX (θανατηφόρος). The deadly-poison-tongue metaphor closes the tongue-paradox unit. The transition from tameable-creatures to untameable-tongue is the sharpest contrast in the chapter."
+    }
+  },
+  {
+    "reference": "James 3:9",
+    "chapter": 3,
+    "verse": 9,
+    "greek": "ἐν αὐτῇ εὐλογοῦμεν τὸν κύριον καὶ πατέρα,καὶ ἐν αὐτῇ καταρώμεθα τοὺς ἀνθρώπους τοὺς καθ’ὁμοίωσιν θεοῦ γεγονότας·",
+    "bsb_english": "With the tongue we bless our Lord and Father, and with it we curse men, who have been made in God’s likeness.",
+    "translation": {
+      "thai": "ด้วยลิ้นนั้น เราอวยพรองค์พระผู้เป็นเจ้าผู้เป็นพระบิดาของเรา และด้วยลิ้นเดียวกันนั้น เราก็สาปแช่งมนุษย์ผู้ที่ถูกสร้างขึ้นตามพระฉายาของพระเจ้า",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ἐν αὐτῇ εὐλογοῦμεν τὸν κύριον καὶ πατέρα",
+          "thai": "ด้วยลิ้นนั้น เราอวยพรองค์พระผู้เป็นเจ้าผู้เป็นพระบิดาของเรา",
+          "rationale": "Per uW figs-hendiadys: τὸν κύριον καὶ πατέρα = ‘the-Lord-our-Father’ (single-referent, NOT two-persons). Render ‘องค์พระผู้เป็นเจ้าผู้เป็นพระบิดาของเรา’ — preserves the appositional-identification. εὐλογέω → อวยพร corpus-precedent 1 Cor 4:12 same lemma."
+        },
+        {
+          "greek": "καὶ ἐν αὐτῇ καταρώμεθα τοὺς ἀνθρώπους",
+          "thai": "และด้วยลิ้นเดียวกันนั้น เราก็สาปแช่งมนุษย์",
+          "rationale": "καταράομαι → สาปแช่ง — verb form of κατάρα ‘คำสาปแช่ง’ corpus-precedent GAL 3:10. Per uW writing-pronouns: αὐτῇ refers to tongue. Render ‘ด้วยลิ้นเดียวกันนั้น’ — emphasizes the same-tongue-doing-both, central to the v.10-12 contradiction-argument."
+        },
+        {
+          "greek": "τοὺς καθ’ ὁμοίωσιν θεοῦ γεγονότας",
+          "thai": "ผู้ที่ถูกสร้างขึ้นตามพระฉายาของพระเจ้า",
+          "rationale": "HAPAX ὁμοίωσις (only here NT, ‘likeness’). OT ALLUSION to GEN 1:26-27 LXX (κατ’ εἰκόνα ἡμετέραν καὶ καθ’ ὁμοίωσιν — ‘in our image and according to our likeness’). Render ‘พระฉายาของพระเจ้า’ — preserves the imago-Dei reference; ‘พระฉายา’ is the corpus-Thai for image-of-God. Per uW figs-explicit: implicit-creation-reference made explicit."
+        }
+      ],
+      "notes": "ONE HAPAX (ὁμοίωσις). OT ALLUSION to GEN 1:26-27 (image-of-God). DB entry recorded. The cursing-image-bearer paradox is theologically devastating — to curse a fellow human is to curse the divine-image they bear."
+    }
+  },
+  {
+    "reference": "James 3:10",
+    "chapter": 3,
+    "verse": 10,
+    "greek": "ἐκ τοῦ αὐτοῦ στόματος ἐξέρχεται εὐλογία καὶ κατάρα.οὐ χρή,ἀδελφοί μου,ταῦτα οὕτως γίνεσθαι.",
+    "bsb_english": "Out of the same mouth come blessing and cursing. My brothers, this should not be!",
+    "translation": {
+      "thai": "จากปากเดียวกันนั้น มีทั้งคำอวยพรและคำสาปแช่งออกมา พี่น้องของข้าพเจ้าทั้งหลาย เรื่องเช่นนี้ไม่ควรเป็นเช่นนั้น",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ἐκ τοῦ αὐτοῦ στόματος ἐξέρχεται εὐλογία καὶ κατάρα",
+          "thai": "จากปากเดียวกันนั้น มีทั้งคำอวยพรและคำสาปแช่งออกมา",
+          "rationale": "Per uW figs-metonymy: στόμα = what-people-say. Render literal ‘ปาก’ preserves the metonym; the speaking-out-of-mouth meaning emerges contextually. εὐλογία → คำอวยพร. κατάρα → คำสาปแช่ง corpus-precedent GAL 3:10."
+        },
+        {
+          "greek": "οὐ χρή, ἀδελφοί μου, ταῦτα οὕτως γίνεσθαι",
+          "thai": "พี่น้องของข้าพเจ้าทั้งหลาย เรื่องเช่นนี้ไม่ควรเป็นเช่นนั้น",
+          "rationale": "HAPAX χρή (only here NT, impersonal ‘it-is-fitting/proper’) → ไม่ควร — natural Thai for impersonal-impropriety. Per uW figs-idiom: rebuke-form."
+        }
+      ],
+      "notes": "ONE HAPAX (χρή). Closes the bless-and-curse paradox with the Pauline-style direct rebuke."
+    }
+  },
+  {
+    "reference": "James 3:11",
+    "chapter": 3,
+    "verse": 11,
+    "greek": "μήτι ἡ πηγὴ ἐκ τῆς αὐτῆς ὀπῆς βρύει τὸ γλυκὺ καὶ τὸ πικρόν;",
+    "bsb_english": "Can both fresh water and salt water flow from the same spring?",
+    "translation": {
+      "thai": "น้ำพุย่อมไม่พุ่งทั้งน้ำจืดและน้ำขมจากช่องเดียวกันใช่ไหม",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "μήτι ἡ πηγὴ ἐκ τῆς αὐτῆς ὀπῆς βρύει",
+          "thai": "น้ำพุย่อมไม่พุ่ง ... จากช่องเดียวกันใช่ไหม",
+          "rationale": "Per uW figs-doublenegatives + figs-rquestion: μήτι = ‘surely-not?’ expects-negative-answer. Render ‘ย่อมไม่ ... ใช่ไหม’ — preserves the rhetorical-question form. HAPAX βρύω (only here NT, ‘gush forth’) → พุ่ง — preserves the gushing-spring image. πηγή → น้ำพุ. ὀπή → ช่อง (opening/hole)."
+        },
+        {
+          "greek": "τὸ γλυκὺ καὶ τὸ πικρόν",
+          "thai": "ทั้งน้ำจืดและน้ำขม",
+          "rationale": "Per uW figs-nominaladj: adjectives-as-nouns. γλυκύς ‘sweet’ → จืด (in water-context = fresh, distinct from salty); πικρός ‘bitter’ → ขม corpus-precedent ACT 8:23 same lemma. Render ‘น้ำจืด/น้ำขม’ — natural Thai water-contrast (fresh-vs-bitter)."
+        }
+      ],
+      "notes": "ONE HAPAX (βρύω). Spring/water analogy — transfers naturally to Thai (Thailand has plentiful spring-water context). Sets up the v.12 fig-tree-vs-grapevine analogy."
+    }
+  },
+  {
+    "reference": "James 3:12",
+    "chapter": 3,
+    "verse": 12,
+    "greek": "μὴ δύναται,ἀδελφοί μου,συκῆ ἐλαίας ποιῆσαι ἢ ἄμπελος σῦκα;οὔτε ἁλυκὸν γλυκὺ ποιῆσαι ὕδωρ.",
+    "bsb_english": "My brothers, can a fig tree grow olives, or a grapevine bear figs? Neither can a salt spring produce fresh water.",
+    "translation": {
+      "thai": "พี่น้องของข้าพเจ้าทั้งหลาย ต้นมะเดื่อย่อมไม่อาจออกผลมะกอกได้ใช่ไหม หรือเถาองุ่นย่อมไม่อาจออกผลมะเดื่อได้ น้ำเค็มก็ไม่อาจให้น้ำจืดได้เช่นกัน",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "μὴ δύναται, ἀδελφοί μου, συκῆ ἐλαίας ποιῆσαι ἢ ἄμπελος σῦκα",
+          "thai": "พี่น้องของข้าพเจ้าทั้งหลาย ต้นมะเดื่อย่อมไม่อาจออกผลมะกอกได้ใช่ไหม หรือเถาองุ่นย่อมไม่อาจออกผลมะเดื่อได้",
+          "rationale": "Per uW figs-rquestion + figs-doublenegatives: rhetorical-questions expecting-negative-answers. συκῆ → ต้นมะเดื่อ (fig-tree). ἐλαία → ผลมะกอก (olive). ἄμπελος → เถาองุ่น corpus-precedent JHN 15:1 same lemma. σῦκον → ผลมะเดื่อ (fig-fruit). Render ‘ย่อมไม่อาจ ... ได้ใช่ไหม’ for the negative-rhetorical-question. Per uW figs-ellipsis: second-clause supplied verb."
+        },
+        {
+          "greek": "οὔτε ἁλυκὸν γλυκὺ ποιῆσαι ὕδωρ",
+          "thai": "น้ำเค็มก็ไม่อาจให้น้ำจืดได้เช่นกัน",
+          "rationale": "HAPAX ἁλυκός (only here NT, ‘salty / saline’) → น้ำเค็ม. Per uW figs-nominaladj: ‘salty (water)’ → render explicit ‘น้ำเค็ม.’ The conclusion of the spring + tree analogies forms an absolute-statement closing the section."
+        }
+      ],
+      "notes": "ONE HAPAX (ἁλυκός). Closes the tongue-passage with three nature-analogies (spring + fig-tree + grapevine + salty-water = inconsistent-source-cannot-produce-different-fruit). All transfer naturally to Thai (mango/fig/grape culture)."
+    }
+  },
+  {
+    "reference": "James 3:13",
+    "chapter": 3,
+    "verse": 13,
+    "greek": "Τίς σοφὸς καὶ ἐπιστήμων ἐν ὑμῖν;δειξάτω ἐκ τῆς καλῆς ἀναστροφῆς τὰ ἔργα αὐτοῦ ἐν πραΰτητι σοφίας.",
+    "bsb_english": "Who is wise and understanding among you? Let him show it by his good conduct, by deeds done in the humility that comes from wisdom.",
+    "translation": {
+      "thai": "ในพวกท่านมีผู้ใดที่มีปัญญาและความเข้าใจหรือ ผู้นั้นจงแสดงโดยความประพฤติอันดี ด้วยการกระทำที่ทำในความสุภาพอ่อนโยนแห่งปัญญา",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "Τίς σοφὸς καὶ ἐπιστήμων ἐν ὑμῖν",
+          "thai": "ในพวกท่านมีผู้ใดที่มีปัญญาและความเข้าใจหรือ",
+          "rationale": "Per uW figs-rquestion + figs-doublet: σοφός + ἐπιστήμων near-synonyms (wise + understanding). Render distinct Thai for each: ปัญญา + ความเข้าใจ — preserves the doublet rhythm. HAPAX ἐπιστήμων (only here NT) → ความเข้าใจ. Render with terminal ‘หรือ’ for rhetorical-question-as-conditional."
+        },
+        {
+          "greek": "δειξάτω ἐκ τῆς καλῆς ἀναστροφῆς τὰ ἔργα αὐτοῦ ἐν πραΰτητι σοφίας",
+          "thai": "ผู้นั้นจงแสดงโดยความประพฤติอันดี ด้วยการกระทำที่ทำในความสุภาพอ่อนโยนแห่งปัญญา",
+          "rationale": "Per uW figs-possession: πραΰτης σοφίας ‘humility characterized-by-wisdom / humility-from-wisdom.’ Render ‘ความสุภาพอ่อนโยนแห่งปัญญา’ — preserves the wisdom-humility characteristic; same πραΰτης-Thai as Tit 3:2 + JAS 1:21. ἀναστροφή → ความประพฤติ — Pauline-corpus standard. ἔργα → การกระทำ corpus-locked."
+        }
+      ],
+      "notes": "ONE HAPAX (ἐπιστήμων). Opens the wisdom-passage (vv.13-18). The wisdom-from-above + humility-of-wisdom theme bridges to Pauline σοφία-rendering."
+    }
+  },
+  {
+    "reference": "James 3:14",
+    "chapter": 3,
+    "verse": 14,
+    "greek": "εἰ δὲ ζῆλον πικρὸν ἔχετε καὶ ἐριθείαν ἐν τῇ καρδίᾳ ὑμῶν,μὴ κατακαυχᾶσθε καὶ ψεύδεσθε κατὰ τῆς ἀληθείας.",
+    "bsb_english": "But if you harbor bitter jealousy and selfish ambition in your hearts, do not boast in it or deny the truth.",
+    "translation": {
+      "thai": "แต่ถ้าท่านมีความริษยาอันขมขื่นและความเห็นแก่ตัวในใจของท่าน อย่าอวดและพูดมุสาขัดต่อความจริงเลย",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "εἰ δὲ ζῆλον πικρὸν ἔχετε καὶ ἐριθείαν ἐν τῇ καρδίᾳ ὑμῶν",
+          "thai": "แต่ถ้าท่านมีความริษยาอันขมขื่นและความเห็นแก่ตัวในใจของท่าน",
+          "rationale": "ζῆλος → ความริษยา corpus-precedent 1 Cor 3:3 same lemma. πικρός → ขมขื่น corpus-precedent ACT 8:23 same lemma. ἐριθεία → ความเห็นแก่ตัว corpus-precedent PHL 1:17 same lemma. Per uW figs-metaphor: καρδία = thoughts/feelings. Render ‘ใจ.’"
+        },
+        {
+          "greek": "μὴ κατακαυχᾶσθε καὶ ψεύδεσθε κατὰ τῆς ἀληθείας",
+          "thai": "อย่าอวดและพูดมุสาขัดต่อความจริงเลย",
+          "rationale": "κατακαυχάομαι → อวด — same root as καυχάομαι ‘อวด’ at JAS 1:9-10 + 4:16; intensified-form here. ψεύδομαι → พูดมุสา — preserves the literally-lying sense. κατὰ τῆς ἀληθείας → ขัดต่อความจริง — preserves the against-truth force."
+        }
+      ],
+      "notes": "Bitter-jealousy + selfish-ambition diagnosed as inner-heart conditions. The ‘boasting + lying-against-truth’ closes the false-wisdom indictment."
+    }
+  },
+  {
+    "reference": "James 3:15",
+    "chapter": 3,
+    "verse": 15,
+    "greek": "οὐκ ἔστιν αὕτη ἡ σοφία ἄνωθεν κατερχομένη,ἀλλὰ ἐπίγειος,ψυχική,δαιμονιώδης·",
+    "bsb_english": "Such wisdom does not come from above, but is earthly, unspiritual, demonic.",
+    "translation": {
+      "thai": "ปัญญาเช่นนี้มิได้มาจากเบื้องบน แต่เป็นปัญญาฝ่ายโลก ฝ่ายธรรมชาติ และฝ่ายผีปีศาจ",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "οὐκ ἔστιν αὕτη ἡ σοφία ἄνωθεν κατερχομένη",
+          "thai": "ปัญญาเช่นนี้มิได้มาจากเบื้องบน",
+          "rationale": "Per uW figs-explicit: αὕτη refers back to v.14 jealousy/ambition-as-pseudo-wisdom. Render ‘เช่นนี้’ — preserves the demonstrative-reference. Per uW figs-metaphor: ἄνωθεν spatial-from-heaven = from-God. ἄνωθεν → จากเบื้องบน corpus-Thai standard."
+        },
+        {
+          "greek": "ἀλλὰ ἐπίγειος, ψυχική, δαιμονιώδης",
+          "thai": "แต่เป็นปัญญาฝ่ายโลก ฝ่ายธรรมชาติ และฝ่ายผีปีศาจ",
+          "rationale": "Three-fold descent: earthly → unspiritual → demonic. Per uW figs-metonymy: ἐπίγειος ‘earthly’ = ungodly-values → ฝ่ายโลก. ψυχικός → ฝ่ายธรรมชาติ corpus-precedent 1 Cor 15:44 (‘กายตามธรรมชาติ’) same lemma. HAPAX δαιμονιώδης (only here NT, ‘demonic / of-the-demons’) → ฝ่ายผีปีศาจ — preserves the demonic-source register; matches δαιμόνιον corpus rendering ผีปีศาจ."
+        }
+      ],
+      "notes": "ONE HAPAX (δαιμονιώδης). The downward-pseudo-wisdom triad (earthly / soulish / demonic) inverts the upward-true-wisdom (from-above) of v.17. Reflects the Pauline σαρκικός-vs-πνευματικός framework recast in James’s wisdom-genre register."
+    }
+  },
+  {
+    "reference": "James 3:16",
+    "chapter": 3,
+    "verse": 16,
+    "greek": "ὅπου γὰρ ζῆλος καὶ ἐριθεία,ἐκεῖ ἀκαταστασία καὶ πᾶν φαῦλον πρᾶγμα.",
+    "bsb_english": "For where jealousy and selfish ambition exist, there will be disorder and every evil practice.",
+    "translation": {
+      "thai": "เพราะที่ใดมีความริษยาและความเห็นแก่ตัว ที่นั่นย่อมมีความวุ่นวายและการกระทำชั่วทุกอย่าง",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ὅπου γὰρ ζῆλος καὶ ἐριθεία",
+          "thai": "เพราะที่ใดมีความริษยาและความเห็นแก่ตัว",
+          "rationale": "Same lemma-Thai as v.14. The ‘where ... there’ structure preserved (ที่ใด ... ที่นั่น)."
+        },
+        {
+          "greek": "ἐκεῖ ἀκαταστασία καὶ πᾶν φαῦλον πρᾶγμα",
+          "thai": "ที่นั่นย่อมมีความวุ่นวายและการกระทำชั่วทุกอย่าง",
+          "rationale": "ἀκαταστασία → ความวุ่นวาย corpus-precedent 1 Cor 14:33 same lemma. Per uW figs-hyperbole: πᾶν generalizing-emphasis → ทุกอย่าง. φαῦλος → ชั่ว corpus-precedent 2 Cor 5:10 + Tit 2:8 same lemma."
+        }
+      ],
+      "notes": "Causal explanation of v.15 — false-wisdom produces disorder. Sets up v.17’s antithetical positive-list."
+    }
+  },
+  {
+    "reference": "James 3:17",
+    "chapter": 3,
+    "verse": 17,
+    "greek": "ἡ δὲ ἄνωθεν σοφία πρῶτον μὲν ἁγνή ἐστιν,ἔπειτα εἰρηνική,ἐπιεικής,εὐπειθής,μεστὴ ἐλέους καὶ καρπῶν ἀγαθῶν,ἀδιάκριτος,ἀνυπόκριτος·",
+    "bsb_english": "But the wisdom from above is first of all pure, then peace-loving, gentle, accommodating, full of mercy and good fruit, impartial, and sincere.",
+    "translation": {
+      "thai": "ส่วนปัญญาที่มาจากเบื้องบนนั้น ประการแรก เป็นปัญญาบริสุทธิ์ จากนั้นเป็นปัญญาแห่งสันติ สุภาพอ่อนโยน ยอมเชื่อฟังโดยง่าย เปี่ยมด้วยความเมตตาและผลดีทั้งหลาย ไม่ลำเอียง และไม่หน้าซื่อใจคด",
+      "thai_literal": null,
+      "thai_summary": "ข้อนี้ให้ภาพ ‘ปัญญาที่มาจากเบื้องบน’ ที่ตรงข้ามกับ ‘ปัญญาฝ่ายโลก’ ในข้อ 15 ปัญญานี้มีลักษณะแปดอย่าง — บริสุทธิ์ สันติ สุภาพอ่อนโยน ยอมเชื่อฟัง เมตตา เกิดผลดี ไม่ลำเอียง และจริงใจ ลำดับนี้สำคัญ — เริ่มต้นที่ ‘บริสุทธิ์’ (ความสะอาดของแรงจูงใจ) ก่อน แล้วจึงตามมาด้วยลักษณะภายนอกอื่น ๆ คล้ายกับ ‘ผลของพระวิญญาณ’ ใน กาลาเทีย 5:22-23 — แต่ยากอบใช้คำว่า ‘ปัญญา’ แทน เพื่อชี้ว่าทั้งหมดนี้คือการใช้ชีวิตที่สอดคล้องกับน้ำพระทัยของพระเจ้า",
+      "key_decisions": [
+        {
+          "greek": "ἡ δὲ ἄνωθεν σοφία πρῶτον μὲν ἁγνή ἐστιν",
+          "thai": "ส่วนปัญญาที่มาจากเบื้องบนนั้น ประการแรก เป็นปัญญาบริสุทธิ์",
+          "rationale": "ἄνωθεν → จากเบื้องบน same Thai as v.15. ἁγνός → บริสุทธิ์ corpus-precedent 1 Tim 4:12 + Tit 2:5 same lemma — moral/ritual purity sense. πρῶτον μέν marks ordering — ‘บริสุทธิ์’ as the foundational-virtue from which the rest flow."
+        },
+        {
+          "greek": "ἔπειτα εἰρηνική, ἐπιεικής, εὐπειθής, μεστὴ ἐλέους καὶ καρπῶν ἀγαθῶν, ἀδιάκριτος, ἀνυπόκριτος",
+          "thai": "จากนั้นเป็นปัญญาแห่งสันติ สุภาพอ่อนโยน ยอมเชื่อฟังโดยง่าย เปี่ยมด้วยความเมตตาและผลดีทั้งหลาย ไม่ลำเอียง และไม่หน้าซื่อใจคด",
+          "rationale": "Seven-fold positive virtue list. εἰρηνική → แห่งสันติ (peace-loving). ἐπιεικής → สุภาพอ่อนโยน corpus-precedent 1 Tim 3:3 + Tit 3:2 same lemma. HAPAX εὐπειθής (only here NT, ‘easily-persuaded / accommodating’) → ยอมเชื่อฟังโดยง่าย. μεστός → เปี่ยม. ἔλεος → ความเมตตา. καρποὶ ἀγαθοί → ผลดีทั้งหลาย. HAPAX ἀδιάκριτος (only here NT, ‘without-doubting / impartial’) → ไม่ลำเอียง — preserves the impartiality sense. ἀνυπόκριτος → ไม่หน้าซื่อใจคด corpus-precedent ROM 12:9 + 1 Tim 1:5 same lemma."
+        }
+      ],
+      "notes": "TWO HAPAX (εὐπειθής + ἀδιάκριτος). Eight-fold positive-wisdom-list. Echoes GAL 5:22-23 fruit-of-the-Spirit thematically (peace + gentleness + mercy). The ordering — pure-first, then peaceable + practical-virtues — reflects James’s priority of internal-purity-as-foundation."
+    }
+  },
+  {
+    "reference": "James 3:18",
+    "chapter": 3,
+    "verse": 18,
+    "greek": "καρπὸς δὲ δικαιοσύνης ἐν εἰρήνῃ σπείρεται τοῖς ποιοῦσιν εἰρήνην.",
+    "bsb_english": "Peacemakers who sow in peace reap the fruit of righteousness.",
+    "translation": {
+      "thai": "และผลแห่งความชอบธรรมนั้น ถูกหว่านในสันติสุข สำหรับผู้ที่สร้างสันติสุข",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "καρπὸς δὲ δικαιοσύνης ἐν εἰρήνῃ σπείρεται",
+          "thai": "และผลแห่งความชอบธรรมนั้น ถูกหว่านในสันติสุข",
+          "rationale": "Per uW figs-metaphor: peacemakers-as-sowers + righteousness-as-fruit. καρπός → ผล. δικαιοσύνη → ความชอบธรรม corpus-locked. σπείρω passive → ถูกหว่าน — preserves the passive sowing-by-implied-agent. Per uW figs-activepassive: passive preserved."
+        },
+        {
+          "greek": "τοῖς ποιοῦσιν εἰρήνην",
+          "thai": "สำหรับผู้ที่สร้างสันติสุข",
+          "rationale": "ποιέω εἰρήνην → สร้างสันติสุข — preserves the peacemaker-action sense (echoes MAT 5:9 ‘blessed-are-the-peacemakers’ Beatitude thematically). εἰρήνη → สันติสุข corpus-locked."
+        }
+      ],
+      "notes": "Closes ch.3 with the peacemaker-as-righteousness-sower agricultural-metaphor. Echoes Sermon-on-the-Mount ‘blessed-are-the-peacemakers’ (MAT 5:9) thematically + ISA 32:17 ‘work-of-righteousness will be peace’ thematically (not direct citation)."
+    }
+  }
+]
