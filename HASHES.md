@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-05-03 07:12:36 UTC_
-_Total chapters: 209 · Total verses: 6910_
+_Generated: 2026-05-03 08:24:52 UTC_
+_Total chapters: 210 · Total verses: 6935_
 
 ## How to verify a chapter
 
@@ -35,6 +35,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/1corinthians_14.json` | 40 | `a83858fb74a2acdbbddab56fb6bec2c2be7a8b7fc46fc8bc76a3e252dbb00e42` | `76fbd7b` |
 | `output/translations/1corinthians_15.json` | 58 | `bbd07179f1da46f06714d9101ac7b5d983fd524a942a306c07ddc7469594a0f3` | `cf6bd38` |
 | `output/translations/1corinthians_16.json` | 24 | `c8eac724563f289b1bb5e21f461497a8319b6f2e94d8ca027e938f9cb5e7ccb3` | `d5a006e` |
+| `output/translations/1peter_01.json` | 25 | `7e44403865c493ca0641a403ffc4e757b579b6fccf56b551397ab1e6905ae640` | `—` |
 | `output/translations/1thessalonians_01.json` | 10 | `fdc756d6679cb22854a22c4d222c372bfcc5c37c81ce7855e059b8b2e389675e` | `19285bb` |
 | `output/translations/1thessalonians_02.json` | 20 | `1c39af3e0fd06a32906b8256dc93b5fdcc8e3038e39c1b2a388ea3ca11b593d2` | `6063f78` |
 | `output/translations/1thessalonians_03.json` | 13 | `d09d3e84833d019877b79139018fb0e5a8cb4fc87ea6b5d18580ba86614aaf99` | `de0f124` |
@@ -114,7 +115,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/james_02.json` | 26 | `24fe583b63efce3b4e5e23ea02ed30abb45155e80d575ddc0c6bddd201b091ef` | `f009760` |
 | `output/translations/james_03.json` | 18 | `3808eccaa5550cc2fda97cd0dce2538331998823e416bf1c48ab042c3ba969d6` | `1138247` |
 | `output/translations/james_04.json` | 17 | `09b99d8f7f57b7b9e498433dcd1f08239fdfb13a0fe7ed62ef514edcfb7467f5` | `7b249a3` |
-| `output/translations/james_05.json` | 20 | `cdd0acb6927085b9b36656e407bea5164fc4efaf311e82378334632582f3ac55` | `—` |
+| `output/translations/james_05.json` | 20 | `cdd0acb6927085b9b36656e407bea5164fc4efaf311e82378334632582f3ac55` | `5bde9a4` |
 | `output/translations/john_01.json` | 51 | `4065e06ca9bce0c7449ab1f225524be99e27f41d5df4053b1f8a045de447e17f` | `cf6bd38` |
 | `output/translations/john_02.json` | 25 | `17d2cbdb34d12e45434c7d927d17a2bf26d97dcbbd9f23081f054ad9c1abee8f` | `6d15bb1` |
 | `output/translations/john_03.json` | 36 | `f0c177a7854327a5843c4a89f3e366aa6ebb8b5007a7a8a1d36c6c6543f00d72` | `cf6bd38` |
