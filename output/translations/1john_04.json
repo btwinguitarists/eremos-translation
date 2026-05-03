@@ -1,0 +1,532 @@
+[
+  {
+    "reference": "1 John 4:1",
+    "chapter": 4,
+    "verse": 1,
+    "greek": "Ἀγαπητοί,μὴ παντὶ πνεύματι πιστεύετε,ἀλλὰ δοκιμάζετε τὰ πνεύματα εἰ ἐκ τοῦ θεοῦ ἐστιν,ὅτι πολλοὶ ψευδοπροφῆται ἐξεληλύθασιν εἰς τὸν κόσμον.",
+    "bsb_english": "Beloved, do not believe every spirit, but test the spirits to see whether they are from God. For many false prophets have gone out into the world.",
+    "translation": {
+      "thai": "ท่านที่รัก อย่าเชื่อทุกวิญญาณ แต่จงทดสอบวิญญาณว่ามาจากพระเจ้าหรือไม่ เพราะผู้เผยพระวจนะเท็จมากมายได้ออกไปในโลก",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "μὴ παντὶ πνεύματι πιστεύετε, ἀλλὰ δοκιμάζετε τὰ πνεύματα",
+          "thai": "อย่าเชื่อทุกวิญญาณ แต่จงทดสอบวิญญาณ",
+          "rationale": "πνεῦμα here-context = spiritual-utterances/prophetic-claims (NOT divine-Spirit; context: false-prophets) → วิญญาณ. δοκιμάζω → ทดสอบ corpus-precedent (1 TH 5:21 ‘test-everything’ same lemma)."
+        },
+        {
+          "greek": "πολλοὶ ψευδοπροφῆται ἐξεληλύθασιν εἰς τὸν κόσμον",
+          "thai": "เพราะผู้เผยพระวจนะเท็จมากมายได้ออกไปในโลก",
+          "rationale": "ψευδοπροφήτης → ผู้เผยพระวจนะเท็จ corpus-locked (matches MAT 7:15 + 24:11, 24 + 2 PET 2:1)."
+        }
+      ],
+      "notes": "Test-the-spirits Johannine-pneumatological discernment imperative. Echoes 1 TH 5:21 (test-everything) + 2 PET 2:1 (false-prophets/teachers — corpus-internal-link)."
+    }
+  },
+  {
+    "reference": "1 John 4:2",
+    "chapter": 4,
+    "verse": 2,
+    "greek": "ἐν τούτῳ γινώσκετε τὸ πνεῦμα τοῦ θεοῦ·πᾶν πνεῦμα ὃ ὁμολογεῖ Ἰησοῦν Χριστὸν ἐν σαρκὶ ἐληλυθότα ἐκ τοῦ θεοῦ ἐστιν,",
+    "bsb_english": "By this you will know the Spirit of God: Every spirit that confesses that Jesus Christ has come in the flesh is from God,",
+    "translation": {
+      "thai": "โดยสิ่งนี้ ท่านจะรู้จักพระวิญญาณของพระเจ้า คือ วิญญาณใดที่สารภาพรับว่าพระเยซูคริสต์ได้เสด็จมาในเนื้อหนัง วิญญาณนั้นมาจากพระเจ้า",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ἐν τούτῳ γινώσκετε τὸ πνεῦμα τοῦ θεοῦ",
+          "thai": "โดยสิ่งนี้ ท่านจะรู้จักพระวิญญาณของพระเจ้า",
+          "rationale": "πνεῦμα τοῦ θεοῦ → พระวิญญาณของพระเจ้า (royal-prefix divine-Spirit; distinct from generic-spirits at v.1)."
+        },
+        {
+          "greek": "πᾶν πνεῦμα ὃ ὁμολογεῖ Ἰησοῦν Χριστὸν ἐν σαρκὶ ἐληλυθότα ἐκ τοῦ θεοῦ ἐστιν",
+          "thai": "วิญญาณใดที่สารภาพรับว่าพระเยซูคริสต์ได้เสด็จมาในเนื้อหนัง วิญญาณนั้นมาจากพระเจ้า",
+          "rationale": "ὁμολογέω here-context = doctrinal-confession → สารภาพรับ. ‘ἐν σαρκὶ ἐληλυθότα’ = the incarnation-affirmation (anti-Docetic). ἔρχομαι perfect-participle → ได้เสด็จมา (royal-prefix Christological-coming). σάρξ → เนื้อหนัง corpus-locked."
+        }
+      ],
+      "notes": "Doctrinal-test of the Spirit: incarnational-Christ-confession. The deliberate ‘in-flesh-having-come’ language directly counters the proto-Gnostic Docetic-denial of physical-incarnation."
+    }
+  },
+  {
+    "reference": "1 John 4:3",
+    "chapter": 4,
+    "verse": 3,
+    "greek": "καὶ πᾶν πνεῦμα ὃ μὴ ὁμολογεῖ τὸν Ἰησοῦν ἐκ τοῦ θεοῦ οὐκ ἔστιν·καὶ τοῦτό ἐστιν τὸ τοῦ ἀντιχρίστου,ὃ ἀκηκόατε ὅτι ἔρχεται,καὶ νῦν ἐν τῷ κόσμῳ ἐστὶν ἤδη.",
+    "bsb_english": "and every spirit that does not confess Jesus is not from God. This is the spirit of the antichrist, which you have heard is coming and which is already in the world at this time.",
+    "translation": {
+      "thai": "และวิญญาณใดที่ไม่สารภาพรับพระเยซู วิญญาณนั้นก็ไม่ได้มาจากพระเจ้า และนี่คือวิญญาณของผู้ต่อต้านพระคริสต์ ซึ่งท่านได้ยินว่ากำลังจะมา และบัดนี้ก็อยู่ในโลกแล้ว",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "πᾶν πνεῦμα ὃ μὴ ὁμολογεῖ τὸν Ἰησοῦν ἐκ τοῦ θεοῦ οὐκ ἔστιν",
+          "thai": "และวิญญาณใดที่ไม่สารภาพรับพระเยซู วิญญาณนั้นก็ไม่ได้มาจากพระเจ้า",
+          "rationale": "Negative-converse of v.2. Note: SBLGNT prints simply ‘τὸν Ἰησοῦν’ (without ‘Χριστὸν ἐν σαρκὶ ἐληλυθότα’). Some-mss (Byzantine) read ‘Ἰησοῦν Χριστὸν ἐν σαρκὶ ἐληλυθότα’ — render simple ‘the-Jesus’ per SBLGNT."
+        },
+        {
+          "greek": "τοῦτό ἐστιν τὸ τοῦ ἀντιχρίστου, ὃ ἀκηκόατε ὅτι ἔρχεται, καὶ νῦν ἐν τῷ κόσμῳ ἐστὶν ἤδη",
+          "thai": "และนี่คือวิญญาณของผู้ต่อต้านพระคริสต์ ซึ่งท่านได้ยินว่ากำลังจะมา และบัดนี้ก็อยู่ในโลกแล้ว",
+          "rationale": "ἀντίχριστος → ผู้ต่อต้านพระคริสต์ (matches 2:18, 22). ‘τὸ τοῦ ἀντιχρίστου’ neuter → วิญญาณของผู้ต่อต้านพระคริสต์ (the spirit-of-anti-Christ ethos)."
+        }
+      ],
+      "notes": "Anti-Christ identified as the corporate-spirit-of-incarnation-denial. Already-present + future-coming both real. Matches 2:18 ‘antichrist-coming + many-antichrists-now.’"
+    }
+  },
+  {
+    "reference": "1 John 4:4",
+    "chapter": 4,
+    "verse": 4,
+    "greek": "ὑμεῖς ἐκ τοῦ θεοῦ ἐστε,τεκνία,καὶ νενικήκατε αὐτούς,ὅτι μείζων ἐστὶν ὁ ἐν ὑμῖν ἢ ὁ ἐν τῷ κόσμῳ·",
+    "bsb_english": "You, little children, are from God and have overcome them, because greater is He who is in you than he who is in the world.",
+    "translation": {
+      "thai": "ลูกที่รักทั้งหลาย ท่านเป็นของพระเจ้า และท่านได้ชนะคนเหล่านั้นแล้ว เพราะพระองค์ผู้สถิตในท่านยิ่งใหญ่กว่าผู้ที่อยู่ในโลก",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ὑμεῖς ἐκ τοῦ θεοῦ ἐστε, τεκνία, καὶ νενικήκατε αὐτούς",
+          "thai": "ลูกที่รักทั้งหลาย ท่านเป็นของพระเจ้า และท่านได้ชนะคนเหล่านั้นแล้ว",
+          "rationale": "νικάω perfect → ได้ชนะ ... แล้ว (matches 2:13-14 same lemma). The already-victorious assertion."
+        },
+        {
+          "greek": "μείζων ἐστὶν ὁ ἐν ὑμῖν ἢ ὁ ἐν τῷ κόσμῳ",
+          "thai": "เพราะพระองค์ผู้สถิตในท่านยิ่งใหญ่กว่าผู้ที่อยู่ในโลก",
+          "rationale": "μείζων → ยิ่งใหญ่กว่า. ‘ὁ ἐν ὑμῖν’ = the-Holy-Spirit-or-Christ-indwelling → พระองค์ผู้สถิตในท่าน (royal-prefix divine-presence). ‘ὁ ἐν τῷ κόσμῳ’ = the devil/anti-Christ-spirit → ผู้ที่อยู่ในโลก (NO royal-prefix; anti-divine)."
+        }
+      ],
+      "notes": "Famous pastoral-confidence: indwelling-Spirit/Christ greater-than world-spirit. Encouragement amid the test-the-spirits warning."
+    }
+  },
+  {
+    "reference": "1 John 4:5",
+    "chapter": 4,
+    "verse": 5,
+    "greek": "αὐτοὶ ἐκ τοῦ κόσμου εἰσίν·διὰ τοῦτο ἐκ τοῦ κόσμου λαλοῦσιν καὶ ὁ κόσμος αὐτῶν ἀκούει.",
+    "bsb_english": "They are of the world. That is why they speak from the world’s perspective, and the world listens to them.",
+    "translation": {
+      "thai": "พวกเขาเป็นของโลก เพราะเหตุนี้ พวกเขาจึงพูดตามโลก และโลกก็ฟังพวกเขา",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "αὐτοὶ ἐκ τοῦ κόσμου εἰσίν",
+          "thai": "พวกเขาเป็นของโลก",
+          "rationale": "‘ἐκ τοῦ κόσμου’ — origin-of-character (false-teachers belong-to-world)."
+        },
+        {
+          "greek": "διὰ τοῦτο ἐκ τοῦ κόσμου λαλοῦσιν καὶ ὁ κόσμος αὐτῶν ἀκούει",
+          "thai": "เพราะเหตุนี้ พวกเขาจึงพูดตามโลก และโลกก็ฟังพวกเขา",
+          "rationale": "‘ἐκ τοῦ κόσμου λαλοῦσιν’ → พูดตามโลก (worldly-perspective). κόσμος-as-receptive-audience: like-attracts-like."
+        }
+      ],
+      "notes": "Sociological-observation: false-teachers + worldly-listeners share the same source-and-audience. The parallel of v.6 ‘we-are-from-God’ contrasts the apostolic vs the worldly-receptive audience."
+    }
+  },
+  {
+    "reference": "1 John 4:6",
+    "chapter": 4,
+    "verse": 6,
+    "greek": "ἡμεῖς ἐκ τοῦ θεοῦ ἐσμεν·ὁ γινώσκων τὸν θεὸν ἀκούει ἡμῶν,ὃς οὐκ ἔστιν ἐκ τοῦ θεοῦ οὐκ ἀκούει ἡμῶν.ἐκ τούτου γινώσκομεν τὸ πνεῦμα τῆς ἀληθείας καὶ τὸ πνεῦμα τῆς πλάνης.",
+    "bsb_english": "We are from God. Whoever knows God listens to us; whoever is not from God does not listen to us. That is how we know the Spirit of truth and the spirit of deception.",
+    "translation": {
+      "thai": "เราเป็นของพระเจ้า ผู้ที่รู้จักพระเจ้าก็ฟังเรา ผู้ที่ไม่ได้เป็นของพระเจ้าก็ไม่ฟังเรา โดยสิ่งนี้ เราจึงรู้จักพระวิญญาณแห่งความจริง และวิญญาณแห่งความหลงผิด",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ἡμεῖς ἐκ τοῦ θεοῦ ἐσμεν",
+          "thai": "เราเป็นของพระเจ้า",
+          "rationale": "Apostolic-counterclaim to v.5. Sets up the apostolic-authority criterion."
+        },
+        {
+          "greek": "τὸ πνεῦμα τῆς ἀληθείας καὶ τὸ πνεῦμα τῆς πλάνης",
+          "thai": "พระวิญญาณแห่งความจริง และวิญญาณแห่งความหลงผิด",
+          "rationale": "πνεῦμα τῆς ἀληθείας → พระวิญญาณแห่งความจริง (royal-prefix; matches JHN 14:17; 15:26; 16:13 corpus-internal-link Holy-Spirit-of-Truth). πνεῦμα τῆς πλάνης → วิญญาณแห่งความหลงผิด (NO royal-prefix; anti-divine deceiving-spirit). Asymmetric register preserves the moral-spiritual hierarchy."
+        }
+      ],
+      "notes": "Spirit-of-truth vs spirit-of-deception dualism. Royal-prefix asymmetry: Holy-Spirit-divine = พระวิญญาณ (royal); deceiving-spirit = วิญญาณ (plain). Echoes JHN 14:17 + 15:26 + 16:13 ‘the Spirit of truth’ corpus-internal-link."
+    }
+  },
+  {
+    "reference": "1 John 4:7",
+    "chapter": 4,
+    "verse": 7,
+    "greek": "Ἀγαπητοί,ἀγαπῶμεν ἀλλήλους,ὅτι ἡ ἀγάπη ἐκ τοῦ θεοῦ ἐστιν,καὶ πᾶς ὁ ἀγαπῶν ἐκ τοῦ θεοῦ γεγέννηται καὶ γινώσκει τὸν θεόν.",
+    "bsb_english": "Beloved, let us love one another, because love comes from God. Everyone who loves has been born of God and knows God.",
+    "translation": {
+      "thai": "ท่านที่รัก ให้เรารักซึ่งกันและกัน เพราะความรักมาจากพระเจ้า และทุกคนที่รักก็ได้บังเกิดจากพระเจ้า และรู้จักพระเจ้า",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "Ἀγαπητοί, ἀγαπῶμεν ἀλλήλους",
+          "thai": "ท่านที่รัก ให้เรารักซึ่งกันและกัน",
+          "rationale": "Opens the great-love-section (vv.7-21) — the Johannine-corpus's central-pastoral-axiom."
+        },
+        {
+          "greek": "ἡ ἀγάπη ἐκ τοῦ θεοῦ ἐστιν, καὶ πᾶς ὁ ἀγαπῶν ἐκ τοῦ θεοῦ γεγέννηται καὶ γινώσκει τὸν θεόν",
+          "thai": "เพราะความรักมาจากพระเจ้า และทุกคนที่รักก็ได้บังเกิดจากพระเจ้า และรู้จักพระเจ้า",
+          "rationale": "Origin-of-love + double-result (born-of-God + knows-God). γεννάω perfect-passive ἐκ θεοῦ → ได้บังเกิดจากพระเจ้า (matches 2:29; 3:9; 5:1, 4)."
+        }
+      ],
+      "notes": "Programmatic-statement: love-as-divine-attribute + love-as-evidence-of-divine-birth-and-knowledge."
+    }
+  },
+  {
+    "reference": "1 John 4:8",
+    "chapter": 4,
+    "verse": 8,
+    "greek": "ὁ μὴ ἀγαπῶν οὐκ ἔγνω τὸν θεόν,ὅτι ὁ θεὸς ἀγάπη ἐστίν.",
+    "bsb_english": "Whoever does not love does not know God, because God is love.",
+    "translation": {
+      "thai": "ผู้ที่ไม่รักก็ไม่รู้จักพระเจ้า เพราะพระเจ้าทรงเป็นความรัก",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ὁ μὴ ἀγαπῶν οὐκ ἔγνω τὸν θεόν",
+          "thai": "ผู้ที่ไม่รักก็ไม่รู้จักพระเจ้า",
+          "rationale": "Negative-converse of v.7. ἔγνω aorist → ไม่รู้จัก (never-came-to-know)."
+        },
+        {
+          "greek": "ὅτι ὁ θεὸς ἀγάπη ἐστίν",
+          "thai": "เพราะพระเจ้าทรงเป็นความรัก",
+          "rationale": "‘ὁ θεὸς ἀγάπη ἐστίν’ → พระเจ้าทรงเป็นความรัก — Johannine-signature ontological-confession (recurs at v.16). Predicate-nominative without article: God's-essence is love. Royal-prefix ทรงเป็น preserves the divine-being register. NB: THE most-quoted summary of John's theology."
+        }
+      ],
+      "notes": "‘God is love’ — Johannine-signature ontological-confession (recurs v.16). The single-most-cited summary of NT-theology in evangelical-pastoral-tradition."
+    }
+  },
+  {
+    "reference": "1 John 4:9",
+    "chapter": 4,
+    "verse": 9,
+    "greek": "ἐν τούτῳ ἐφανερώθη ἡ ἀγάπη τοῦ θεοῦ ἐν ἡμῖν,ὅτι τὸν υἱὸν αὐτοῦ τὸν μονογενῆ ἀπέσταλκεν ὁ θεὸς εἰς τὸν κόσμον ἵνα ζήσωμεν δι’αὐτοῦ.",
+    "bsb_english": "This is how God’s love was revealed among us: God sent His one and only Son into the world, so that we might live through Him.",
+    "translation": {
+      "thai": "โดยสิ่งนี้ ความรักของพระเจ้าได้ปรากฏท่ามกลางเรา คือ พระเจ้าทรงใช้พระบุตรองค์เดียวของพระองค์มาในโลก เพื่อเราจะมีชีวิตโดยทางพระองค์",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ἐν τούτῳ ἐφανερώθη ἡ ἀγάπη τοῦ θεοῦ ἐν ἡμῖν",
+          "thai": "โดยสิ่งนี้ ความรักของพระเจ้าได้ปรากฏท่ามกลางเรา",
+          "rationale": "φανερόω passive aorist (here-context = NOT royal-Christological subject; the LOVE is revealed) → ได้ปรากฏ. ἐν ἡμῖν → ท่ามกลางเรา (among-us, not in-us — the historical-revelation event)."
+        },
+        {
+          "greek": "τὸν υἱὸν αὐτοῦ τὸν μονογενῆ ἀπέσταλκεν ὁ θεὸς εἰς τὸν κόσμον",
+          "thai": "พระเจ้าทรงใช้พระบุตรองค์เดียวของพระองค์มาในโลก",
+          "rationale": "μονογενής → องค์เดียว corpus-lock from JHN 1:14, 18; 3:16, 18 (Johannine-corpus-internal-link). ἀποστέλλω perfect → ทรงใช้ ... มา (royal-prefix divine-sending). The famous-Johannine ‘sent-only-Son’ formula echoes JHN 3:16."
+        },
+        {
+          "greek": "ἵνα ζήσωμεν δι’ αὐτοῦ",
+          "thai": "เพื่อเราจะมีชีวิตโดยทางพระองค์",
+          "rationale": "Purpose-of-sending: that-we-might-live-through-him. Echoes JHN 14:6 (Christ-as-the-Way-Truth-Life)."
+        }
+      ],
+      "notes": "Direct echo of JHN 3:16 (corpus-internal-link Johannine). The μονογενής → องค์เดียว corpus-lock preserves the unique-only-Son Christological-title."
+    }
+  },
+  {
+    "reference": "1 John 4:10",
+    "chapter": 4,
+    "verse": 10,
+    "greek": "ἐν τούτῳ ἐστὶν ἡ ἀγάπη,οὐχ ὅτι ἡμεῖς ἠγαπήκαμεν τὸν θεόν,ἀλλ’ὅτι αὐτὸς ἠγάπησεν ἡμᾶς καὶ ἀπέστειλεν τὸν υἱὸν αὐτοῦ ἱλασμὸν περὶ τῶν ἁμαρτιῶν ἡμῶν.",
+    "bsb_english": "And love consists in this: not that we loved God, but that He loved us and sent His Son as the atoning sacrifice for our sins.",
+    "translation": {
+      "thai": "ความรักนั้นอยู่ในสิ่งนี้ คือ มิใช่ที่เรารักพระเจ้า แต่เป็นที่พระองค์ทรงรักเรา และทรงใช้พระบุตรของพระองค์มาเป็นเครื่องบูชาไถ่บาปของเรา",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "οὐχ ὅτι ἡμεῖς ἠγαπήκαμεν τὸν θεόν, ἀλλ’ ὅτι αὐτὸς ἠγάπησεν ἡμᾶς",
+          "thai": "มิใช่ที่เรารักพระเจ้า แต่เป็นที่พระองค์ทรงรักเรา",
+          "rationale": "Definitional-correction: love-defined as God's-initiative, not human-response. Royal-prefix ทรงรัก for divine-loving."
+        },
+        {
+          "greek": "ἀπέστειλεν τὸν υἱὸν αὐτοῦ ἱλασμὸν περὶ τῶν ἁμαρτιῶν ἡμῶν",
+          "thai": "ทรงใช้พระบุตรของพระองค์มาเป็นเครื่องบูชาไถ่บาปของเรา",
+          "rationale": "ἱλασμός → เครื่องบูชาไถ่บาป (matches 2:2 corpus-internal-link; same Thai as ROM 3:25 ἱλαστήριον cognate). Per RULES §0 evangelical-Protestant default: propitiation + expiation composite-sense."
+        }
+      ],
+      "notes": "ἱλασμός second occurrence in 1 JN (matches 2:2). Definitional-clarification of love: divine-initiative + atonement-sacrifice. The God-loved-first principle anticipates v.19."
+    }
+  },
+  {
+    "reference": "1 John 4:11",
+    "chapter": 4,
+    "verse": 11,
+    "greek": "ἀγαπητοί,εἰ οὕτως ὁ θεὸς ἠγάπησεν ἡμᾶς,καὶ ἡμεῖς ὀφείλομεν ἀλλήλους ἀγαπᾶν.",
+    "bsb_english": "Beloved, if God so loved us, we also ought to love one another.",
+    "translation": {
+      "thai": "ท่านที่รัก ถ้าพระเจ้าทรงรักเราถึงเพียงนั้น เราเองก็ต้องรักซึ่งกันและกันด้วย",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "εἰ οὕτως ὁ θεὸς ἠγάπησεν ἡμᾶς",
+          "thai": "ถ้าพระเจ้าทรงรักเราถึงเพียงนั้น",
+          "rationale": "οὕτως → ถึงเพียงนั้น — preserves the ‘so / to-such-an-extent’ sense (echoes JHN 3:16 οὕτως). Royal-prefix ทรงรัก."
+        },
+        {
+          "greek": "καὶ ἡμεῖς ὀφείλομεν ἀλλήλους ἀγαπᾶν",
+          "thai": "เราเองก็ต้องรักซึ่งกันและกันด้วย",
+          "rationale": "ὀφείλω → ต้อง (moral-obligation; matches 3:16 same construction). Imitative-ethics: divine-love-pattern → human-love-imperative."
+        }
+      ],
+      "notes": "Imitative-ethics: divine-love-pattern produces ought-to-love-one-another. Echoes JHN 3:16 ‘οὕτως ... ἠγάπησεν.’"
+    }
+  },
+  {
+    "reference": "1 John 4:12",
+    "chapter": 4,
+    "verse": 12,
+    "greek": "θεὸν οὐδεὶς πώποτε τεθέαται·ἐὰν ἀγαπῶμεν ἀλλήλους,ὁ θεὸς ἐν ἡμῖν μένει καὶ ἡ ἀγάπη αὐτοῦ ἐν ἡμῖν τετελειωμένη ἐστιν.",
+    "bsb_english": "No one has ever seen God; but if we love one another, God remains in us, and His love is perfected in us.",
+    "translation": {
+      "thai": "ไม่มีผู้ใดเคยเห็นพระเจ้าเลย ถ้าเรารักซึ่งกันและกัน พระเจ้าก็คงอยู่ในเรา และความรักของพระองค์ก็สมบูรณ์ในเรา",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "θεὸν οὐδεὶς πώποτε τεθέαται",
+          "thai": "ไม่มีผู้ใดเคยเห็นพระเจ้าเลย",
+          "rationale": "θεάομαι perfect → เคยเห็น. Echoes JHN 1:18 ‘θεὸν οὐδεὶς ἑώρακεν πώποτε’ (corpus-internal-link)."
+        },
+        {
+          "greek": "ἐὰν ἀγαπῶμεν ἀλλήλους, ὁ θεὸς ἐν ἡμῖν μένει καὶ ἡ ἀγάπη αὐτοῦ ἐν ἡμῖν τετελειωμένη ἐστιν",
+          "thai": "ถ้าเรารักซึ่งกันและกัน พระเจ้าก็คงอยู่ในเรา และความรักของพระองค์ก็สมบูรณ์ในเรา",
+          "rationale": "Per uW figs-explicit: invisible-God revealed-by-incarnated-love (loving-one-another makes the invisible-God-tangible-in-the-community). τελειόω perfect-passive → สมบูรณ์ (matches 2:5)."
+        }
+      ],
+      "notes": "Echoes JHN 1:18 (no-one-has-seen-God-but-only-the-Son revealed-Him). Brother-love now functions as the on-going-revelation of the invisible-God."
+    }
+  },
+  {
+    "reference": "1 John 4:13",
+    "chapter": 4,
+    "verse": 13,
+    "greek": "Ἐν τούτῳ γινώσκομεν ὅτι ἐν αὐτῷ μένομεν καὶ αὐτὸς ἐν ἡμῖν,ὅτι ἐκ τοῦ πνεύματος αὐτοῦ δέδωκεν ἡμῖν.",
+    "bsb_english": "By this we know that we remain in Him, and He in us: He has given us of His Spirit.",
+    "translation": {
+      "thai": "โดยสิ่งนี้ เราจึงรู้ว่าเราคงอยู่ในพระองค์ และพระองค์คงอยู่ในเรา คือพระองค์ทรงประทานพระวิญญาณของพระองค์ให้แก่เรา",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ἐκ τοῦ πνεύματος αὐτοῦ δέδωκεν ἡμῖν",
+          "thai": "พระองค์ทรงประทานพระวิญญาณของพระองค์ให้แก่เรา",
+          "rationale": "πνεῦμα-of-God → พระวิญญาณ (royal-prefix divine-Spirit; matches 3:24). δίδωμι perfect → ทรงประทาน — divine-gift register."
+        }
+      ],
+      "notes": "Pneumatological-evidence of mutual-indwelling (matches 3:24). The Spirit-given as objective-confirmation."
+    }
+  },
+  {
+    "reference": "1 John 4:14",
+    "chapter": 4,
+    "verse": 14,
+    "greek": "καὶ ἡμεῖς τεθεάμεθα καὶ μαρτυροῦμεν ὅτι ὁ πατὴρ ἀπέσταλκεν τὸν υἱὸν σωτῆρα τοῦ κόσμου.",
+    "bsb_english": "And we have seen and testify that the Father has sent His Son to be the Savior of the world.",
+    "translation": {
+      "thai": "และเราได้เห็นแล้วและเป็นพยานว่าพระบิดาทรงใช้พระบุตรมาเป็นพระผู้ช่วยให้รอดของโลก",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "καὶ ἡμεῖς τεθεάμεθα καὶ μαρτυροῦμεν",
+          "thai": "และเราได้เห็นแล้วและเป็นพยาน",
+          "rationale": "θεάομαι perfect → ได้เห็นแล้ว (matches 1:1 the apostolic-eyewitness foundation). Apostolic-eyewitness-and-testimony pair."
+        },
+        {
+          "greek": "ὁ πατὴρ ἀπέσταλκεν τὸν υἱὸν σωτῆρα τοῦ κόσμου",
+          "thai": "พระบิดาทรงใช้พระบุตรมาเป็นพระผู้ช่วยให้รอดของโลก",
+          "rationale": "σωτὴρ τοῦ κόσμου → พระผู้ช่วยให้รอดของโลก corpus-lock from JHN 4:42 (Johannine-corpus-internal-link; the only NT-occurrences of this title). The provocative socio-political resonance preserved (cf. JHN 4:42 thai_summary)."
+        }
+      ],
+      "notes": "σωτὴρ τοῦ κόσμου Johannine-corpus-signature title (only here + JHN 4:42 in NT). Apostolic-eyewitness reaffirmed: we-saw-and-testify."
+    }
+  },
+  {
+    "reference": "1 John 4:15",
+    "chapter": 4,
+    "verse": 15,
+    "greek": "ὃς ἐὰν ὁμολογήσῃ ὅτι Ἰησοῦς ἐστιν ὁ υἱὸς τοῦ θεοῦ,ὁ θεὸς ἐν αὐτῷ μένει καὶ αὐτὸς ἐν τῷ θεῷ.",
+    "bsb_english": "If anyone confesses that Jesus is the Son of God, God abides in him, and he in God.",
+    "translation": {
+      "thai": "ผู้ใดสารภาพรับว่าพระเยซูทรงเป็นพระบุตรของพระเจ้า พระเจ้าก็คงอยู่ในผู้นั้น และผู้นั้นก็คงอยู่ในพระเจ้า",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ὃς ἐὰν ὁμολογήσῃ ὅτι Ἰησοῦς ἐστιν ὁ υἱὸς τοῦ θεοῦ",
+          "thai": "ผู้ใดสารภาพรับว่าพระเยซูทรงเป็นพระบุตรของพระเจ้า",
+          "rationale": "ὁμολογέω here = doctrinal-confession → สารภาพรับ (matches v.2-3). ‘Jesus is the Son of God’ Johannine-Christological core."
+        },
+        {
+          "greek": "ὁ θεὸς ἐν αὐτῷ μένει καὶ αὐτὸς ἐν τῷ θεῷ",
+          "thai": "พระเจ้าก็คงอยู่ในผู้นั้น และผู้นั้นก็คงอยู่ในพระเจ้า",
+          "rationale": "Mutual-abiding (matches 3:24; 4:13). Confession-of-Christ-as-Son secures-mutual-indwelling."
+        }
+      ],
+      "notes": "Christological-confession (Jesus = Son-of-God) as the gateway to mutual-indwelling."
+    }
+  },
+  {
+    "reference": "1 John 4:16",
+    "chapter": 4,
+    "verse": 16,
+    "greek": "καὶ ἡμεῖς ἐγνώκαμεν καὶ πεπιστεύκαμεν τὴν ἀγάπην ἣν ἔχει ὁ θεὸς ἐν ἡμῖν.Ὁ θεὸς ἀγάπη ἐστίν,καὶ ὁ μένων ἐν τῇ ἀγάπῃ ἐν τῷ θεῷ μένει καὶ ὁ θεὸς ἐν αὐτῷ μένει.",
+    "bsb_english": "And we have come to know and believe the love that God has for us. God is love; whoever abides in love abides in God, and God in him.",
+    "translation": {
+      "thai": "และเราได้รู้จักและเชื่อในความรักที่พระเจ้าทรงมีต่อเรา พระเจ้าทรงเป็นความรัก ผู้ใดที่คงอยู่ในความรักก็คงอยู่ในพระเจ้า และพระเจ้าก็คงอยู่ในผู้นั้น",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "καὶ ἡμεῖς ἐγνώκαμεν καὶ πεπιστεύκαμεν τὴν ἀγάπην",
+          "thai": "และเราได้รู้จักและเชื่อในความรัก",
+          "rationale": "γινώσκω + πιστεύω paired-perfects → ได้รู้จัก + เชื่อ (have-come-to-know-and-believe — paired-Johannine-knowing-and-trusting)."
+        },
+        {
+          "greek": "Ὁ θεὸς ἀγάπη ἐστίν",
+          "thai": "พระเจ้าทรงเป็นความรัก",
+          "rationale": "Second occurrence (matches v.8) of the ‘God is love’ Johannine-signature confession."
+        },
+        {
+          "greek": "ὁ μένων ἐν τῇ ἀγάπῃ ἐν τῷ θεῷ μένει καὶ ὁ θεὸς ἐν αὐτῷ μένει",
+          "thai": "ผู้ใดที่คงอยู่ในความรักก็คงอยู่ในพระเจ้า และพระเจ้าก็คงอยู่ในผู้นั้น",
+          "rationale": "Mutual-abiding via love-abiding. Triple-μένω structure: in-love + in-God + God-in-him."
+        }
+      ],
+      "notes": "Second ‘God is love’ confession + abiding-in-love = abiding-in-God. The Johannine-mystical-union triad."
+    }
+  },
+  {
+    "reference": "1 John 4:17",
+    "chapter": 4,
+    "verse": 17,
+    "greek": "ἐν τούτῳ τετελείωται ἡ ἀγάπη μεθ’ἡμῶν,ἵνα παρρησίαν ἔχωμεν ἐν τῇ ἡμέρᾳ τῆς κρίσεως,ὅτι καθὼς ἐκεῖνός ἐστιν καὶ ἡμεῖς ἐσμεν ἐν τῷ κόσμῳ τούτῳ.",
+    "bsb_english": "In this way, love has been perfected among us, so that we may have confidence on the day of judgment; for in this world we are just like Him.",
+    "translation": {
+      "thai": "ความรักนั้นสมบูรณ์ในหมู่เราโดยสิ่งนี้ เพื่อว่าเราจะมีความกล้าในวันแห่งการพิพากษา เพราะพระองค์ทรงเป็นเช่นไร เราในโลกนี้ก็เป็นเช่นนั้น",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ἐν τούτῳ τετελείωται ἡ ἀγάπη μεθ’ ἡμῶν",
+          "thai": "ความรักนั้นสมบูรณ์ในหมู่เราโดยสิ่งนี้",
+          "rationale": "τελειόω perfect-passive → สมบูรณ์. ‘μεθ’ ἡμῶν’ → ในหมู่เรา (among-us, communal-perfection)."
+        },
+        {
+          "greek": "ἵνα παρρησίαν ἔχωμεν ἐν τῇ ἡμέρᾳ τῆς κρίσεως",
+          "thai": "เพื่อว่าเราจะมีความกล้าในวันแห่งการพิพากษา",
+          "rationale": "παρρησία → ความกล้า (matches 2:28; 3:21). ‘ἡμέρᾳ τῆς κρίσεως’ → วันแห่งการพิพากษา corpus-precedent."
+        },
+        {
+          "greek": "ὅτι καθὼς ἐκεῖνός ἐστιν καὶ ἡμεῖς ἐσμεν ἐν τῷ κόσμῳ τούτῳ",
+          "thai": "เพราะพระองค์ทรงเป็นเช่นไร เราในโลกนี้ก็เป็นเช่นนั้น",
+          "rationale": "Christ-likeness in-this-world: ‘just-as-He-is, so-also-we-are.’ The eschatological-confidence basis: Christ-conformity."
+        }
+      ],
+      "notes": "Eschatological-confidence on day-of-judgment grounded in Christ-likeness. The believer's Christ-conformity is both present-and-eschatological."
+    }
+  },
+  {
+    "reference": "1 John 4:18",
+    "chapter": 4,
+    "verse": 18,
+    "greek": "φόβος οὐκ ἔστιν ἐν τῇ ἀγάπῃ,ἀλλ’ἡ τελεία ἀγάπη ἔξω βάλλει τὸν φόβον,ὅτι ὁ φόβος κόλασιν ἔχει,ὁ δὲ φοβούμενος οὐ τετελείωται ἐν τῇ ἀγάπῃ.",
+    "bsb_english": "There is no fear in love, but perfect love drives out fear, because fear involves punishment. The one who fears has not been perfected in love.",
+    "translation": {
+      "thai": "ในความรักไม่มีความกลัว แต่ความรักที่สมบูรณ์ก็ขับความกลัวออกไป เพราะความกลัวมาพร้อมกับการลงโทษ ผู้ที่ยังกลัวอยู่ก็ยังไม่สมบูรณ์ในความรัก",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "φόβος οὐκ ἔστιν ἐν τῇ ἀγάπῃ, ἀλλ’ ἡ τελεία ἀγάπη ἔξω βάλλει τὸν φόβον",
+          "thai": "ในความรักไม่มีความกลัว แต่ความรักที่สมบูรณ์ก็ขับความกลัวออกไป",
+          "rationale": "Famous saying. φόβος → ความกลัว (here-context = fear-of-punishment, NOT reverential-fear-of-God like ยำเกรง). τέλειος ἀγάπη → ความรักที่สมบูรณ์. ἔξω βάλλει → ขับ ... ออกไป."
+        },
+        {
+          "greek": "ὅτι ὁ φόβος κόλασιν ἔχει, ὁ δὲ φοβούμενος οὐ τετελείωται ἐν τῇ ἀγάπῃ",
+          "thai": "เพราะความกลัวมาพร้อมกับการลงโทษ ผู้ที่ยังกลัวอยู่ก็ยังไม่สมบูรณ์ในความรัก",
+          "rationale": "κόλασις → การลงโทษ (matches 2 PET 2:9). The fear-vs-perfect-love opposition: fear-anticipates-punishment; perfect-love secures-confident-relationship."
+        }
+      ],
+      "notes": "Famous ‘perfect love casts out fear.’ The φόβος here is fear-of-judgment-punishment, NOT reverential-φόβος-of-the-Lord (which is salutary). Perfect-love removes the dread-of-judgment by securing-the-relationship."
+    }
+  },
+  {
+    "reference": "1 John 4:19",
+    "chapter": 4,
+    "verse": 19,
+    "greek": "ἡμεῖς ἀγαπῶμεν,ὅτι αὐτὸς πρῶτος ἠγάπησεν ἡμᾶς.",
+    "bsb_english": "We love because He first loved us.",
+    "translation": {
+      "thai": "เรารัก เพราะพระองค์ทรงรักเราก่อน",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ἡμεῖς ἀγαπῶμεν, ὅτι αὐτὸς πρῶτος ἠγάπησεν ἡμᾶς",
+          "thai": "เรารัก เพราะพระองค์ทรงรักเราก่อน",
+          "rationale": "Famous-axiomatic-statement of divine-priority-of-love. πρῶτος → ก่อน (chronological-and-causal first). Royal-prefix ทรงรัก for divine-loving."
+        }
+      ],
+      "notes": "Famous succinct-axiom of grace: divine-love-precedes + grounds-and-causes human-love-response."
+    }
+  },
+  {
+    "reference": "1 John 4:20",
+    "chapter": 4,
+    "verse": 20,
+    "greek": "ἐάν τις εἴπῃ ὅτι Ἀγαπῶ τὸν θεόν,καὶ τὸν ἀδελφὸν αὐτοῦ μισῇ,ψεύστης ἐστίν·ὁ γὰρ μὴ ἀγαπῶν τὸν ἀδελφὸν αὐτοῦ ὃν ἑώρακεν,τὸν θεὸν ὃν οὐχ ἑώρακεν οὐ δύναται ἀγαπᾶν.",
+    "bsb_english": "If anyone says, “I love God,” but hates his brother, he is a liar. For anyone who does not love his brother, whom he has seen, cannot love God, whom he has not seen.",
+    "translation": {
+      "thai": "ถ้าผู้ใดกล่าวว่า “ข้าพเจ้ารักพระเจ้า” แต่เกลียดชังพี่น้องของตน ผู้นั้นก็เป็นคนโกหก เพราะผู้ที่ไม่รักพี่น้องของตนซึ่งตนมองเห็น ก็ไม่สามารถรักพระเจ้าซึ่งตนไม่ได้เห็นได้",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ἐάν τις εἴπῃ ὅτι Ἀγαπῶ τὸν θεόν, καὶ τὸν ἀδελφὸν αὐτοῦ μισῇ",
+          "thai": "ถ้าผู้ใดกล่าวว่า “ข้าพเจ้ารักพระเจ้า” แต่เกลียดชังพี่น้องของตน",
+          "rationale": "Per RULES §5b: direct-speech curly Thai-quotes for the false-claimant's words. Builds on the false-claim pattern of 1:6, 8, 10; 2:4, 9."
+        },
+        {
+          "greek": "ὁ γὰρ μὴ ἀγαπῶν τὸν ἀδελφὸν αὐτοῦ ὃν ἑώρακεν, τὸν θεὸν ὃν οὐχ ἑώρακεν οὐ δύναται ἀγαπᾶν",
+          "thai": "เพราะผู้ที่ไม่รักพี่น้องของตนซึ่งตนมองเห็น ก็ไม่สามารถรักพระเจ้าซึ่งตนไม่ได้เห็นได้",
+          "rationale": "A-fortiori-argument: visible-brother is the easier-test of love (cf. v.12 invisible-God-revealed-through-visible-brother-love)."
+        }
+      ],
+      "notes": "Famous a-fortiori: love-of-visible-brother is the test of love-of-invisible-God."
+    }
+  },
+  {
+    "reference": "1 John 4:21",
+    "chapter": 4,
+    "verse": 21,
+    "greek": "καὶ ταύτην τὴν ἐντολὴν ἔχομεν ἀπ’αὐτοῦ,ἵνα ὁ ἀγαπῶν τὸν θεὸν ἀγαπᾷ καὶ τὸν ἀδελφὸν αὐτοῦ.",
+    "bsb_english": "And we have this commandment from Him: Whoever loves God must love his brother as well.",
+    "translation": {
+      "thai": "และเรามีพระบัญญัตินี้จากพระองค์ คือ ผู้ที่รักพระเจ้าก็จงรักพี่น้องของตนด้วย",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ταύτην τὴν ἐντολὴν ἔχομεν ἀπ’ αὐτοῦ",
+          "thai": "และเรามีพระบัญญัตินี้จากพระองค์",
+          "rationale": "ἐντολή → พระบัญญัติ (royal-prefix divine-commandment, matches 2:3, 4, 7-8; 3:23). Authority-grounding: this is divine-commandment."
+        },
+        {
+          "greek": "ἵνα ὁ ἀγαπῶν τὸν θεὸν ἀγαπᾷ καὶ τὸν ἀδελφὸν αὐτοῦ",
+          "thai": "ผู้ที่รักพระเจ้าก็จงรักพี่น้องของตนด้วย",
+          "rationale": "Inseparable-pair: love-of-God ↔ love-of-brother (matches 3:23 pair-commandment). Echoes Christ's-Great-Commandment summary at MAR 12:30-31 + MAT 22:37-39."
+        }
+      ],
+      "notes": "Closes chapter 4 with the inseparable love-of-God + love-of-brother pair-commandment. Echoes Christ's-Great-Commandment summary."
+    }
+  }
+]
