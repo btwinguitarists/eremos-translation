@@ -1,6 +1,6 @@
 # 2 ทิโมธี
 
-_2 Timothy — 2 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
+_2 Timothy — 3 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
 
 _This **plain edition** shows only the Thai translation — no commentary, no Greek, no English. Intended for Thai scholars and theological reviewers evaluating the translation on its own terms. For the annotated edition with contextual summaries (บริบท), see `output/reader/2timothy.md`. For the underlying Greek, English (BSB) reference, and translator decisions per verse, see the per-chapter review reports at `output/check_reports/2timothy_NN_review.md` or the source JSON at `output/translations/`._
 
@@ -102,6 +102,44 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 ---
 
+## บทที่ 3
+
+**1** แต่จงเข้าใจเรื่องนี้ ในยุคสุดท้ายจะมีเวลาที่ยากลำบาก
+
+**2** เพราะคนทั้งหลายจะรักตนเอง รักเงินทอง อวดอ้าง หยิ่งยโส หมิ่นประมาท ไม่เชื่อฟังบิดามารดา ไม่รู้บุญคุณ ไม่ยำเกรงสิ่งศักดิ์สิทธิ์
+
+**3** ปราศจากความรักทางสายเลือด ไม่ยอมประนีประนอม ใส่ร้าย ขาดการบังคับตน ดุร้าย เกลียดความดี
+
+**4** ทรยศ บุ่มบ่าม หยิ่งจองหอง รักความสนุกสนานยิ่งกว่ารักพระเจ้า
+
+**5** พวกเขามีรูปแบบของความเคร่งในพระเจ้า แต่ปฏิเสธฤทธิ์อำนาจของความเคร่งนั้น จงหลีกห่างจากคนเช่นนั้น
+
+**6** เพราะในจำนวนคนเหล่านี้มีพวกที่ลักลอบเข้าไปในบ้านและจับผู้หญิงอ่อนแอที่แบกภาระบาปจำนวนมากไว้เป็นเชลย ผู้ที่ถูกชักนำโดยตัณหาต่าง ๆ
+
+**7** ผู้ซึ่งเรียนรู้อยู่เสมอ แต่ไม่อาจมาถึงความรู้แห่งความจริงได้เลย
+
+**8** ฉันเดียวกันกับที่ยันเนสและยัมเบรสได้ต่อต้านโมเสส คนเหล่านี้ก็ต่อต้านความจริงเช่นกัน เป็นคนที่เสื่อมทรามทางจิตใจ และไม่ผ่านการรับรองในเรื่องของความเชื่อ
+
+**9** แต่พวกเขาจะไม่ก้าวหน้าไปไกลกว่านี้ เพราะความโง่เขลาของพวกเขาจะปรากฏแจ้งแก่ทุกคน เช่นเดียวกับที่เกิดขึ้นกับยันเนสและยัมเบรส
+
+**10** แต่ท่านได้ติดตามคำสอนของข้าพเจ้าอย่างใกล้ชิด รวมทั้งการดำเนินชีวิต ความตั้งใจ ความเชื่อ ความอดทน ความรัก และความเพียร
+
+**11** การข่มเหง การทนทุกข์ทรมาน เช่นที่เกิดขึ้นกับข้าพเจ้าที่เมืองอันทิโอก ที่เมืองอิโคนียุม และที่เมืองลิสตรา ข้าพเจ้าทนต่อการข่มเหงทั้งหลาย และองค์พระผู้เป็นเจ้าได้ทรงช่วยข้าพเจ้าให้พ้นจากการข่มเหงทุกครั้ง
+
+**12** อันที่จริงแล้ว ทุกคนที่ปรารถนาจะดำเนินชีวิตอย่างเคร่งในพระเจ้าในพระเยซูคริสต์ก็จะถูกข่มเหง
+
+**13** ส่วนคนชั่วร้ายและพวกหลอกลวงจะดำเนินไปสู่ความเลวร้ายมากขึ้น โดยล่อลวงผู้อื่นและถูกล่อลวงเอง
+
+**14** แต่ส่วนท่าน จงดำรงอยู่ในสิ่งที่ท่านได้เรียนรู้และเชื่ออย่างมั่นคง โดยรู้ว่าท่านได้เรียนมาจากใคร
+
+**15** และตั้งแต่ท่านยังเป็นทารก ท่านก็รู้พระคัมภีร์อันศักดิ์สิทธิ์ ซึ่งสามารถทำให้ท่านมีปัญญาที่นำไปสู่ความรอดโดยทางความเชื่อในพระเยซูคริสต์
+
+**16** พระคัมภีร์ทุกตอนได้รับการดลใจจากพระเจ้า และมีประโยชน์สำหรับการสอน สำหรับการตักเตือน สำหรับการแก้ไข และสำหรับการอบรมในเรื่องความชอบธรรม
+
+**17** เพื่อให้คนของพระเจ้าเป็นผู้ที่ครบบริบูรณ์ พร้อมสำหรับการดีทุกอย่าง
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -110,4 +148,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 |---|---|
 | `output/translations/2timothy_01.json` | `d2e550cdb1be9fb4b9683a8279aca9e95c1922583ff90ff0c8c7ddaeee7fc60b` |
 | `output/translations/2timothy_02.json` | `0556acc3c5c3e22ca3ce39906dd0d86d24b9b2268928c347a54bb642d0d4fa7f` |
+| `output/translations/2timothy_03.json` | `cd1b02c94b14a8b522f52505a87d02723e67530486cfa020877b347e9bf37f91` |
 

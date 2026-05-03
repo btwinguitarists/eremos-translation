@@ -1,0 +1,7 @@
+# OT citation check — 2timothy ch. 3
+
+NT-to-OT links found: **0** / 17 verses
+
+No known OT citations or allusions in this chapter per our database.
+
+_Note: our `data/nt_ot_citations.json` is curated, not exhaustive. Passages with subtle allusions may not be listed._
