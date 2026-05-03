@@ -1,0 +1,487 @@
+[
+  {
+    "reference": "Titus 2:1",
+    "chapter": 2,
+    "verse": 1,
+    "greek": "Σὺ δὲ λάλει ἃ πρέπει τῇ ὑγιαινούσῃ διδασκαλίᾳ.",
+    "bsb_english": "But as for you, speak the things that are consistent with sound doctrine.",
+    "translation": {
+      "thai": "ส่วนท่าน จงสอนสิ่งที่สอดคล้องกับคำสอนอันถูกต้อง",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "Σὺ δὲ",
+          "thai": "ส่วนท่าน",
+          "rationale": "Per uW figs-explicit: σύ singular = Titus directly. The δέ is contrastive — pivots from the false-teachers of 1:10-16 to Titus. ‘ส่วนท่าน’ marks the contrast naturally in Thai."
+        },
+        {
+          "greek": "λάλει ἃ πρέπει τῇ ὑγιαινούσῃ διδασκαλίᾳ",
+          "thai": "จงสอนสิ่งที่สอดคล้องกับคำสอนอันถูกต้อง",
+          "rationale": "λαλέω present-imperative → จงสอน — pastoral teaching context (not generic ‘speak,’ which would render สื่อ/พูด). πρέπει + dative ‘fits-with / is-suitable-to’ → สอดคล้องกับ. CORPUS-LOCKED τῇ ὑγιαινούσῃ διδασκαλίᾳ → คำสอนอันถูกต้อง per pastoral_corpus_locks_2026-05.md §J + hygiaino_sound_doctrine_2026-05.md (corpus-precedent 1 Tim 1:10 + 6:3 + 2 Tim 1:13 + 2 Tim 4:3 + Tit 1:9). 6th Pastoral occurrence + 2nd Titus occurrence + 1st verbal-imperative-frame application."
+        }
+      ],
+      "notes": "CORPUS-LOCKED ὑγιαίνω → ถูกต้อง applied (6th Pastoral occurrence). Opens ch.2 by pivoting from the false-teachers (1:10-16) to Titus’s positive teaching mandate. The contrast σύ-vs-them mirrors 2 Tim 4:5’s σὺ δέ structure."
+    }
+  },
+  {
+    "reference": "Titus 2:2",
+    "chapter": 2,
+    "verse": 2,
+    "greek": "πρεσβύτας νηφαλίους εἶναι,σεμνούς,σώφρονας,ὑγιαίνοντας τῇ πίστει,τῇ ἀγάπῃ,τῇ ὑπομονῇ.",
+    "bsb_english": "Older men are to be temperate, dignified, self-controlled, and sound in faith, love, and perseverance.",
+    "translation": {
+      "thai": "จงสอนผู้ชายสูงอายุให้รู้จักประมาณตน สง่าน่านับถือ มีสติสัมปชัญญะ มีความถูกต้องในความเชื่อ ในความรัก และในความอดทน",
+      "thai_literal": null,
+      "thai_summary": "เปาโลเริ่มแนะนำพฤติกรรมที่เหมาะสมแต่ละกลุ่มในคริสตจักร ‘ผู้ชายสูงอายุ’ ได้คุณสมบัติสามอย่างที่เกี่ยวกับการควบคุมตนเอง — รู้จักประมาณตน (ในการกินดื่ม) สง่าน่านับถือ (ในกิริยาท่าทาง) มีสติสัมปชัญญะ (ในจิตใจ) — และคุณสมบัติสามอย่างที่ ‘ถูกต้อง’ ในชีวิตแห่งความเชื่อ — ความเชื่อ ความรัก และความอดทน คำว่า ‘ถูกต้อง’ (กรีก ὑγιαίνω เปรียบเหมือนสุขภาพดี) เป็นคำพิเศษของจดหมายปาสตอรัล หมายถึงไม่บกพร่อง ไม่บูดเน่า ไม่เบี่ยงเบน",
+      "key_decisions": [
+        {
+          "greek": "πρεσβύτας ... εἶναι",
+          "thai": "จงสอนผู้ชายสูงอายุให้",
+          "rationale": "Per uW figs-ellipsis: verb absent in Greek; supply ‘teach’ from v.1 λάλει. πρεσβύτης (‘older man’) → ผู้ชายสูงอายุ — generic-elder distinct from the office-elder πρεσβύτερος (1:5, 1 Tim 5:17,19). 1 Tim 5:1 precedent for πρεσβύτερος as ‘older-man’ (in inter-personal context) → ‘ชายสูงอายุ.’ Render preserves the lifecycle-stage sense (not the church-office)."
+        },
+        {
+          "greek": "νηφαλίους",
+          "thai": "ให้รู้จักประมาณตน",
+          "rationale": "νηφάλιος → รู้จักประมาณตน corpus-precedent 1 Tim 3:2 + 3:11 same lemma same Thai. Per uW: ‘sober-minded.’ Render preserves the corpus-internal lemma-distinction from σώφρων (which gets ‘มีสติสัมปชัญญะ’)."
+        },
+        {
+          "greek": "σεμνούς",
+          "thai": "สง่าน่านับถือ",
+          "rationale": "σεμνός → สง่าน่านับถือ corpus-precedent 1 Tim 3:4 same Thai. Captures the dignified-respectability sense (vs. mere ‘serious’). Per uW figs-doublet: σεμνός pairs with surrounding self-control vocabulary in the older-men list — render distinct Thai for each lemma."
+        },
+        {
+          "greek": "σώφρονας",
+          "thai": "มีสติสัมปชัญญะ",
+          "rationale": "σώφρων → มีสติสัมปชัญญะ CORPUS-LOCKED from 1 Tim 3:2 (paired distinctly from νηφάλιος). The disciplined-self-aware sense; preserves corpus-internal lemma-distinction from νηφάλιος (sober-temperate). This is the lock-pattern that TIT 1:8 was retro-conformed to in PR #90."
+        },
+        {
+          "greek": "ὑγιαίνοντας τῇ πίστει, τῇ ἀγάπῃ, τῇ ὑπομονῇ",
+          "thai": "มีความถูกต้องในความเชื่อ ในความรัก และในความอดทน",
+          "rationale": "CORPUS-LOCKED ὑγιαίνω → ถูกต้อง per hygiaino_sound_doctrine_2026-05.md — predicate-adjective form here applied to three abstract nouns (faith, love, perseverance). Render with abstract noun ‘ความถูกต้อง’ + locative ‘ใน’ to govern all three nouns naturally. 7th Pastoral occurrence + 3rd Titus occurrence. πίστις → ความเชื่อ; ἀγάπη → ความรัก corpus-precedent 1 Cor 13 + Pauline-corpus standard; ὑπομονή → ความอดทน corpus-precedent 1 Th 1:3 + 1 Tim 6:11 same Thai."
+        }
+      ],
+      "notes": "CORPUS-LOCKED ὑγιαίνω → ถูกต้อง applied (7th Pastoral occurrence). σώφρων → ‘มีสติสัมปชัญญะ’ paired distinctly with νηφάλιος → ‘รู้จักประมาณตน’ — the corpus-locked Pastoral lemma-distinction. The triadic faith-love-hope pattern (here perseverance instead of hope) echoes 1 Cor 13 + 1 Th 1:3 — Pauline virtue-triad."
+    }
+  },
+  {
+    "reference": "Titus 2:3",
+    "chapter": 2,
+    "verse": 3,
+    "greek": "Πρεσβύτιδας ὡσαύτως ἐν καταστήματι ἱεροπρεπεῖς,μὴ διαβόλους μηδὲ οἴνῳ πολλῷ δεδουλωμένας,καλοδιδασκάλους,",
+    "bsb_english": "Older women, likewise, are to be reverent in their behavior, not slanderers or addicted to much wine, but teachers of good.",
+    "translation": {
+      "thai": "ในทางเดียวกัน จงสอนหญิงสูงอายุให้มีกิริยาที่สมศักดิ์ศรี ไม่เป็นคนใส่ร้าย ไม่ตกเป็นทาสของเหล้าองุ่นมากเกินไป แต่ให้เป็นผู้สอนสิ่งดี",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "Πρεσβύτιδας ὡσαύτως",
+          "thai": "ในทางเดียวกัน จงสอนหญิงสูงอายุให้",
+          "rationale": "HAPAX πρεσβῦτις (only here NT) — feminine of πρεσβύτης ‘older woman.’ ὡσαύτως → ในทางเดียวกัน corpus-precedent 1 Tim 2:9 + 3:8 same particle — explicit-parallel-structure marker. Per uW figs-ellipsis: verb supplied from v.1 λάλει — render ‘จงสอน’ to extend the teaching-frame."
+        },
+        {
+          "greek": "ἐν καταστήματι ἱεροπρεπεῖς",
+          "thai": "ให้มีกิริยาที่สมศักดิ์ศรี",
+          "rationale": "TWO HAPAX in this phrase. κατάστημα ‘demeanor / bearing / behavior-quality’ — only here NT. ἱεροπρεπής compound ἱερός ‘sacred’ + πρέπω ‘fit / suit’ = ‘befitting-the-sacred / sacred-suitable’ — only here NT. Render ‘กิริยาที่สมศักดิ์ศรี’ — preserves the dignified-suitability sense without forcing the literal ‘sacred-fitting’ register (which would over-clericalize daily-life-comportment in Thai). Per metaphor-flattening principle (§J): the priestly-sacral vehicle of ἱεροπρεπής is target-recoverable as ‘worthy-of-respect / dignified.’"
+        },
+        {
+          "greek": "μὴ διαβόλους",
+          "thai": "ไม่เป็นคนใส่ร้าย",
+          "rationale": "διάβολος here adjectival ‘slanderous’ (not the proper-noun ‘the Devil’). Corpus-precedent 1 Tim 3:11 διαβόλους → ‘ใส่ร้าย’ same Thai. The noun-of-the-Devil sense gets ‘มาร’ corpus-locked elsewhere; here adjectival sense gets ‘ใส่ร้าย.’"
+        },
+        {
+          "greek": "μηδὲ οἴνῳ πολλῷ δεδουλωμένας",
+          "thai": "ไม่ตกเป็นทาสของเหล้าองุ่นมากเกินไป",
+          "rationale": "Per uW figs-metaphor: people-controlled-by-wine spoken of as slaves to it. δουλόω perfect-passive participle → ตกเป็นทาส — preserves the slave-of-wine vehicle (transfers naturally to Thai with the wine-bondage image). οἴνῳ πολλῷ → เหล้าองุ่นมากเกินไป (‘much wine’ = excessive consumption)."
+        },
+        {
+          "greek": "καλοδιδασκάλους",
+          "thai": "แต่ให้เป็นผู้สอนสิ่งดี",
+          "rationale": "HAPAX καλοδιδάσκαλος (only here NT) — compound καλός + διδάσκαλος = ‘good-teacher / teacher-of-good-things.’ Per uW grammar-connect-logic-contrast: introduces shift from negative-list (slanderous + drunken) to positive (teacher-of-good). Render ‘แต่ให้เป็นผู้สอนสิ่งดี’ to mark the contrast + preserve the compound’s focus on good-content-of-teaching."
+        }
+      ],
+      "notes": "FOUR HAPAX (πρεσβῦτις, κατάστημα, ἱεροπρεπής, καλοδιδάσκαλος). Older-women teaching-role explicitly framed (καλοδιδάσκαλος) — contrasting with 1 Tim 2:12 prohibition on women-teaching-men in mixed-public-worship-setting; here the teaching is older-women-to-younger-women (v.4) in private/household-mentoring context. Per metaphor-flattening §J: ἱεροπρεπής sacral-vehicle softened to ‘สมศักดิ์ศรี’ to preserve dignity without clerical-framing."
+    }
+  },
+  {
+    "reference": "Titus 2:4",
+    "chapter": 2,
+    "verse": 4,
+    "greek": "ἵνα σωφρονίζωσι τὰς νέας φιλάνδρους εἶναι,φιλοτέκνους,",
+    "bsb_english": "In this way they can train the young women to love their husbands and children,",
+    "translation": {
+      "thai": "เพื่อพวกเธอจะได้ฝึกหญิงสาวให้รู้จักรักสามีและรักลูกของตน",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "ἵνα σωφρονίζωσι",
+          "thai": "เพื่อพวกเธอจะได้ฝึก ... ให้รู้จัก",
+          "rationale": "HAPAX σωφρονίζω (only here NT) — causative of σώφρων = ‘bring-to-self-control / train-in-good-sense.’ Render ‘ฝึก ... ให้รู้จัก’ — preserves the σώφρων-family core ‘รู้จัก’ (know-the-measure-of) coupled with the pedagogical training-action. The infinitive complements (φίλανδρος + φιλότεκνος) follow ‘ให้รู้จัก.’ Per uW grammar-connect-logic-goal: ἵνα marks the purpose of v.3’s καλοδιδάσκαλος — the older women’s good-teaching is FOR-the-purpose-of training-younger-women."
+        },
+        {
+          "greek": "τὰς νέας",
+          "thai": "หญิงสาว",
+          "rationale": "νέος feminine plural with article = ‘the young women.’ Render หญิงสาว — generational-pair to πρεσβῦτις (older women) of v.3."
+        },
+        {
+          "greek": "φιλάνδρους εἶναι",
+          "thai": "รักสามี",
+          "rationale": "HAPAX φίλανδρος (only here NT) — compound φίλος + ἀνήρ = ‘husband-loving.’ Render ‘รักสามี’ — natural Thai for the marital-love sense. The compound is descriptive-lexical (a virtue-trait), not a command-frame; render preserves the trait-form."
+        },
+        {
+          "greek": "φιλοτέκνους",
+          "thai": "และรักลูกของตน",
+          "rationale": "HAPAX φιλότεκνος (only here NT) — compound φίλος + τέκνον = ‘child-loving.’ Render ‘รักลูกของตน’ — natural Thai with implicit ‘ของตน’ to anchor the children-as-her-own. The φιλάνδρους + φιλότεκνους compound-pair forms a household-affection doublet."
+        }
+      ],
+      "notes": "THREE HAPAX (σωφρονίζω, φίλανδρος, φιλότεκνος). The σωφρονίζω-form ties back to the σώφρων-family running through the chapter (vv.2, 5, 6, 12). Older-women’s teaching-role here explicitly aimed at private household-mentoring of younger-women — the contextual frame that lets καλοδιδάσκαλος (v.3) work with 1 Tim 2:12’s public-worship restriction without contradiction."
+    }
+  },
+  {
+    "reference": "Titus 2:5",
+    "chapter": 2,
+    "verse": 5,
+    "greek": "σώφρονας,ἁγνάς,οἰκουργούς,ἀγαθάς,ὑποτασσομένας τοῖς ἰδίοις ἀνδράσιν,ἵνα μὴ ὁ λόγος τοῦ θεοῦ βλασφημῆται.",
+    "bsb_english": "to be self-controlled, pure, managers of their households, kind, and submissive to their own husbands, so that the word of God will not be discredited.",
+    "translation": {
+      "thai": "ให้มีสติสัมปชัญญะ บริสุทธิ์ ดูแลครอบครัว มีน้ำใจดี ยอมอยู่ใต้บังคับสามีของตน เพื่อไม่ให้พระวจนะของพระเจ้าถูกหมิ่นประมาท",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "σώφρονας",
+          "thai": "ให้มีสติสัมปชัญญะ",
+          "rationale": "σώφρων → มีสติสัมปชัญญะ CORPUS-LOCKED — same lemma-rendering as v.2 + Tit 1:8 (post-PR-90 retro-conformation). Per uW: σώφρων ‘in control of their desires.’"
+        },
+        {
+          "greek": "ἁγνάς",
+          "thai": "บริสุทธิ์",
+          "rationale": "ἁγνός → บริสุทธิ์ — adjectival ‘pure / chaste’ corpus-precedent 1 Tim 5:22, 2 Cor 7:11 same lemma. Distinct from ὅσιος → บริสุทธิ์ at Tit 1:8 (note semantic-overlap in Thai but distinct Greek registers — ἁγνός = ritually-morally-pure; ὅσιος = devout-holy)."
+        },
+        {
+          "greek": "οἰκουργούς",
+          "thai": "ดูแลครอบครัว",
+          "rationale": "HAPAX οἰκουργός (only here NT) — compound οἶκος + ἔργον = ‘household-worker / manager-of-the-household.’ Render ‘ดูแลครอบครัว’ — preserves the household-care + management sense without forcing the literal ‘worker-at-home’ (which would foreground physical-labor over the management dimension)."
+        },
+        {
+          "greek": "ἀγαθάς",
+          "thai": "มีน้ำใจดี",
+          "rationale": "ἀγαθός → มีน้ำใจดี — adjectival ‘good / kind.’ The standalone ἀγαθάς following οἰκουργοός characterizes the household-manager as kind / good-hearted — render with the relational-quality ‘น้ำใจดี’ (kind-disposition) rather than abstract ‘ดี’ which would be too generic in this virtue-list."
+        },
+        {
+          "greek": "ὑποτασσομένας τοῖς ἰδίοις ἀνδράσιν",
+          "thai": "ยอมอยู่ใต้บังคับสามีของตน",
+          "rationale": "Pauline household-codes formula. ὑποτάσσω middle/passive → ยอมอยู่ใต้บังคับ corpus-precedent COL 3:18 + EPH 5:21,22 same lemma same Thai pattern. ἰδίοις emphatic ‘their own’ → ของตน. Per pastoral_corpus_locks_2026-05.md §E: render the Greek’s structural openness without forcing modern-egalitarian or modern-complementarian commitment beyond what the Greek requires."
+        },
+        {
+          "greek": "ἵνα μὴ ὁ λόγος τοῦ θεοῦ βλασφημῆται",
+          "thai": "เพื่อไม่ให้พระวจนะของพระเจ้าถูกหมิ่นประมาท",
+          "rationale": "Per uW figs-activepassive on βλασφημῆται: divine-passive — render passive ‘ถูกหมิ่นประมาท’ (be-blasphemed). βλασφημέω → หมิ่นประมาท corpus-precedent 1 Tim 1:20 + 1 Tim 6:1 same lemma same Thai. Per uW figs-metonymy: λόγος = ‘message-of-God.’ The purpose-clause grounds the household-codes practice in missional-witness — Christian-household ethics shape outsider-perception of the gospel."
+        }
+      ],
+      "notes": "ONE HAPAX (οἰκουργός). Household-codes set in the missional-witness frame (ἵνα μὴ βλασφημῆται). Per pastoral_corpus_locks §E ambiguity-preservation: render the Greek’s structural-openness; thai_summary at v.5 omitted to avoid editorial-commentary on the contested gender-passages — the structure speaks for itself."
+    }
+  },
+  {
+    "reference": "Titus 2:6",
+    "chapter": 2,
+    "verse": 6,
+    "greek": "Τοὺς νεωτέρους ὡσαύτως παρακάλει σωφρονεῖν·",
+    "bsb_english": "In the same way, urge the younger men to be self-controlled.",
+    "translation": {
+      "thai": "ในทางเดียวกัน จงหนุนใจคนหนุ่มให้มีสติสัมปชัญญะ",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "Τοὺς νεωτέρους ὡσαύτως",
+          "thai": "ในทางเดียวกัน ... คนหนุ่ม",
+          "rationale": "νεώτερος comparative form of νέος = ‘younger man.’ Render คนหนุ่ม — pairs with πρεσβύτας (older men) of v.2 + νέας (younger women) of v.4 to complete the four household-classes. ὡσαύτως → ในทางเดียวกัน same as v.3."
+        },
+        {
+          "greek": "παρακάλει σωφρονεῖν",
+          "thai": "จงหนุนใจ ... ให้มีสติสัมปชัญญะ",
+          "rationale": "παρακαλέω → หนุนใจ CORPUS-LOCKED Pauline-Pastoral (2 Tim 4:2 + Tit 1:9). σωφρονεῖν infinitive of σώφρων-family verb → ให้มีสติสัมปชัญญะ — preserves the σώφρων-core ‘สติสัมปชัญญะ’ in verb-complement form. Younger-men’s only stated quality is σωφρονεῖν — a striking economy that the verse-structure preserves."
+        }
+      ],
+      "notes": "Younger-men instruction is the chapter’s shortest household-code unit — only ONE quality stated (σωφρονεῖν). The σώφρων-family runs throughout this chapter (vv.2, 4, 5, 6, 12) — five occurrences make it the chapter’s conceptual spine."
+    }
+  },
+  {
+    "reference": "Titus 2:7",
+    "chapter": 2,
+    "verse": 7,
+    "greek": "περὶ πάντα σεαυτὸν παρεχόμενος τύπον καλῶν ἔργων,ἐν τῇ διδασκαλίᾳ ἀφθορίαν,σεμνότητα,",
+    "bsb_english": "In everything, show yourself to be an example by doing good works. In your teaching show integrity, dignity,",
+    "translation": {
+      "thai": "ในทุกสิ่ง จงแสดงตัวท่านเองให้เป็นแบบอย่างของการทำดี ในการสอน จงแสดงความสุจริต ความสง่างาม",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "περὶ πάντα σεαυτὸν παρεχόμενος τύπον καλῶν ἔργων",
+          "thai": "ในทุกสิ่ง จงแสดงตัวท่านเองให้เป็นแบบอย่างของการทำดี",
+          "rationale": "παρέχω middle ‘offer / present-oneself.’ Render จงแสดงตัวท่านเองให้เป็น — preserves the self-presentation imperatival force. τύπον καλῶν ἔργων → แบบอย่างของการทำดี corpus-precedent 1 Th 1:7 + 2 Th 3:9 same lemma τύπος → แบบอย่าง same Thai. The καλῶν ἔργων ‘good-works’ is the Pastoral-formula echoing 2 Tim 2:21, 3:17 (those-fit-for-good-work)."
+        },
+        {
+          "greek": "ἐν τῇ διδασκαλίᾳ ἀφθορίαν, σεμνότητα",
+          "thai": "ในการสอน จงแสดงความสุจริต ความสง่างาม",
+          "rationale": "Per uW figs-ellipsis: verb of v.7a (παρεχόμενος ‘showing-yourself’) extends to govern these abstract nouns — render ‘จงแสดง.’ HAPAX ἀφθορία (only here NT) — ἀ-privative + φθορά ‘corruption’ = ‘in-corruption.’ Per uW figs-doublenegatives: render positive ‘ความสุจริต’ (integrity / uncorrupted-sincerity) — natural Thai for the in-corruption double-negative. σεμνότης → ความสง่างาม corpus-precedent 1 Tim 2:2 + 3:4 same lemma-stem same Thai. διδασκαλία → การสอน — note here the act-of-teaching sense (since it’s contextually paired with ἀφθορίαν as the manner of teaching), distinct from the body-of-teaching sense rendered คำสอน."
+        }
+      ],
+      "notes": "ONE HAPAX (ἀφθορία). Titus-as-model-teacher mandate. The διδασκαλία rendering ‘การสอน’ here (act-of-teaching / teaching-activity) distinguishes from ‘คำสอน’ used for body-of-teaching elsewhere (Tit 2:1 ὑγιαινούσῃ διδασκαλίᾳ ‘sound-teaching-content’) — the dative ἐν τῇ διδασκαλίᾳ here = ‘in-the-act-of-teaching’ which warrants the act-form."
+    }
+  },
+  {
+    "reference": "Titus 2:8",
+    "chapter": 2,
+    "verse": 8,
+    "greek": "λόγον ὑγιῆ ἀκατάγνωστον,ἵνα ὁ ἐξ ἐναντίας ἐντραπῇ μηδὲν ἔχων λέγειν περὶ ἡμῶν φαῦλον.",
+    "bsb_english": "and wholesome speech that is above reproach, so that anyone who opposes us will be ashamed, having nothing bad to say about us.",
+    "translation": {
+      "thai": "และคำพูดอันถูกต้องที่ไม่อาจหาที่ติได้ เพื่อฝ่ายตรงข้ามจะอาย เพราะไม่มีสิ่งชั่วใดที่จะกล่าวถึงเราได้",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "λόγον ὑγιῆ",
+          "thai": "และคำพูดอันถูกต้อง",
+          "rationale": "CORPUS-LOCKED ὑγιής (cognate of ὑγιαίνω) → ถูกต้อง per hygiaino_sound_doctrine_2026-05.md — the lemma-family lock applies to all Pastoral ὑγιαίνω/ὑγιής + diductive context. λόγος → คำพูด here (speech-instance, not divine-message); contextually distinct from λόγος as ‘the word-of-God’ (e.g., v.5 ‘พระวจนะ’ for divine-message vs. ‘คำพูด’ for human-speech-instance)."
+        },
+        {
+          "greek": "ἀκατάγνωστον",
+          "thai": "ที่ไม่อาจหาที่ติได้",
+          "rationale": "HAPAX ἀκατάγνωστος (only here NT) — ἀ-privative + κατάγνωσις ‘condemnation / charge’ = ‘not-able-to-be-condemned.’ Per uW figs-doublenegatives: alternative positive ‘worthy-of-respect’ but render the literal-ish double-negative form ‘ที่ไม่อาจหาที่ติได้’ — preserves the legal/forensic register (cf. ἀνέγκλητος Tit 1:6,7 same conceptual field different lemma)."
+        },
+        {
+          "greek": "ἵνα ὁ ἐξ ἐναντίας ἐντραπῇ",
+          "thai": "เพื่อฝ่ายตรงข้ามจะอาย",
+          "rationale": "Per uW figs-hypo: hypothetical-opponent scenario. ἐξ ἐναντίας → ฝ่ายตรงข้าม (opposing-party). ἐντρέπω passive aorist subjunctive → จะอาย — preserves the shame-from-being-confronted-by-truth sense. The construction is purpose: sound-speech aims-at silencing-opposition through the opponent’s shame."
+        },
+        {
+          "greek": "μηδὲν ἔχων λέγειν περὶ ἡμῶν φαῦλον",
+          "thai": "เพราะไม่มีสิ่งชั่วใดที่จะกล่าวถึงเราได้",
+          "rationale": "Causal-participle (‘having-nothing-evil-to-say-about-us’) explains why-the-opponent-will-be-ashamed. φαῦλος → ชั่ว corpus-precedent 2 Cor 5:10 + ROM 9:11 same lemma same Thai. ἡμῶν → เรา (Per uW figs-exclusive: includes Paul + Titus + believers; render ‘เรา’ inclusive)."
+        }
+      ],
+      "notes": "ONE HAPAX (ἀκατάγνωστος). CORPUS-LOCKED ὑγιής → ถูกต้อง applied (8th Pastoral ὑγιαίνω-family occurrence + 4th Titus). Echoes the Pastoral pattern of sound-doctrine producing missional-witness (cf. v.5 βλασφημ-passive purpose-clause; v.10 κοσμέω-clause). The triple-purpose of pastoral-sound-speech: (1) build-up insiders, (2) silence-opponents, (3) adorn-the-gospel."
+    }
+  },
+  {
+    "reference": "Titus 2:9",
+    "chapter": 2,
+    "verse": 9,
+    "greek": "Δούλους ἰδίοις δεσπόταις ὑποτάσσεσθαι ἐν πᾶσιν,εὐαρέστους εἶναι,μὴ ἀντιλέγοντας,",
+    "bsb_english": "Slaves are to submit to their own masters in everything, to be well-pleasing, not argumentative,",
+    "translation": {
+      "thai": "ให้ทาสยอมอยู่ใต้บังคับนายของตนในทุกเรื่อง ให้เป็นที่พอใจ ไม่โต้แย้ง",
+      "thai_literal": null,
+      "thai_summary": "‘ทาส’ ในบริบทกรีก-โรมันสมัยศตวรรษที่ 1 ต่างจากทาสในบริบทอื่น ๆ — เป็นระบบที่กว้างมาก ทาสบางคนเป็นแพทย์ ครู เลขานุการ ในบ้านของผู้ร่ำรวย คนหลายคนในคริสตจักรยุคแรก ๆ เป็นทาส (เทียบ ฟิเลโมน) เปาโลในที่นี้ไม่ได้ตอบคำถามว่า ‘ระบบทาสถูกหรือผิด’ แต่สอนให้ทาสคริสเตียนใช้ชีวิตอย่างเป็นพยานถึงพระคริสต์ — เพราะการกระทำของพวกเขาจะ ‘ทำให้คำสอนของพระเจ้าน่านับถือ’ (ข้อ 10) เปาโลเขียนต่อต้านระบบทาสในที่อื่น (1 ทิโมธี 1:10 ที่กล่าวโทษ ‘คนค้าทาส’ และในจดหมายฟิเลโมนที่เปาโลเรียกร้องให้ฟิเลโมนปล่อยโอเนสิมัสในฐานะ ‘พี่น้องที่รัก’)",
+      "key_decisions": [
+        {
+          "greek": "Δούλους ἰδίοις δεσπόταις ὑποτάσσεσθαι",
+          "thai": "ให้ทาสยอมอยู่ใต้บังคับนายของตน",
+          "rationale": "δοῦλος → ทาส corpus-precedent 1 Cor 7:22 + COL 3:11 + 1 Tim 6:1 same lemma same Thai. δεσπότης → นาย corpus-precedent 1 Tim 6:1-2 same lemma same Thai (the master-of-slaves sense, distinct from κύριος ‘Lord’ which gets royal-divine treatment). ὑποτάσσω middle infinitive → ยอมอยู่ใต้บังคับ corpus-precedent COL 3:18 + EPH 5:22 same lemma. Per uW figs-ellipsis: verb supplied from v.6 παρακάλει — render ‘ให้’ to extend the urging-frame."
+        },
+        {
+          "greek": "ἐν πᾶσιν, εὐαρέστους εἶναι",
+          "thai": "ในทุกเรื่อง ให้เป็นที่พอใจ",
+          "rationale": "ἐν πᾶσιν → ในทุกเรื่อง (the ‘in-everything’ qualifier is a Pauline household-codes formula). εὐάρεστος → เป็นที่พอใจ corpus-precedent 2 Cor 5:9 + COL 3:20 same lemma — though there usually with God as the object of pleasing; here with masters. Per uW figs-explicit: implication is pleasing-the-masters; render preserves the relational-pleasing sense."
+        },
+        {
+          "greek": "μὴ ἀντιλέγοντας",
+          "thai": "ไม่โต้แย้ง",
+          "rationale": "ἀντιλέγω → โต้แย้ง — same lemma as Tit 1:9 (where elder-must-rebuke-contradictors); here negation (slaves-not-contradicting-their-masters). Render preserves the talk-back / verbal-resistance sense distinct from the broader insubordination."
+        }
+      ],
+      "notes": "Pauline household-codes for slave-master relations. The thai_summary contextualizes the Greco-Roman slave-context per pastoral_corpus_locks §E ambiguity-preservation policy adapted for cultural-context: avoid implying Paul endorsed-the-system (he didn’t — see 1 Tim 1:10 ἀνδραποδιστάς; Phlm) while preserving the Greek’s actual instruction-to-Christian-slaves. The κύριος-vs-δεσπότης distinction matters here: human-master gets δεσπότης = ‘นาย’; divine Lord retains κύριος → ‘องค์พระผู้เป็นเจ้า.’"
+    }
+  },
+  {
+    "reference": "Titus 2:10",
+    "chapter": 2,
+    "verse": 10,
+    "greek": "μὴ νοσφιζομένους,ἀλλὰ πᾶσαν πίστιν ἐνδεικνυμένους ἀγαθήν,ἵνα τὴν διδασκαλίαν τὴν τοῦ σωτῆρος ἡμῶν θεοῦ κοσμῶσιν ἐν πᾶσιν.",
+    "bsb_english": "not stealing from them, but showing all good faith, so that in every respect they will adorn the teaching about God our Savior.",
+    "translation": {
+      "thai": "ไม่ขโมยของนาย แต่แสดงความซื่อสัตย์อันดีในทุกประการ เพื่อพวกเขาจะทำให้คำสอนของพระเจ้าพระผู้ช่วยให้รอดของเราเป็นที่นับถือในทุกเรื่อง",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "μὴ νοσφιζομένους",
+          "thai": "ไม่ขโมยของนาย",
+          "rationale": "νοσφίζομαι → ขโมย — middle voice ‘misappropriate / steal-for-oneself.’ Per uW figs-explicit: implication is stealing-from-the-masters; render explicit ‘ขโมยของนาย’ to anchor the agency. Lemma also at ACT 5:2,3 (Ananias-Sapphira embezzlement); same Thai pattern."
+        },
+        {
+          "greek": "ἀλλὰ πᾶσαν πίστιν ἐνδεικνυμένους ἀγαθήν",
+          "thai": "แต่แสดงความซื่อสัตย์อันดีในทุกประการ",
+          "rationale": "Per uW figs-contrast: strong contrast between stealing + demonstrating-trustworthiness. πίστιν here = ‘faithfulness / trustworthiness’ (the fidelity-sense, not the doctrinal-faith sense) — corpus-precedent GAL 5:22 πίστις → ‘ความซื่อสัตย์’ same lemma sense-disambiguated. ἐνδείκνυμι middle → แสดง (show / demonstrate). The πᾶσαν ‘all’ + ἀγαθήν ‘good’ doubly-qualifies the πίστις. Render ความซื่อสัตย์อันดี + ในทุกประการ to capture both modifiers."
+        },
+        {
+          "greek": "ἵνα τὴν διδασκαλίαν τὴν τοῦ σωτῆρος ἡμῶν θεοῦ κοσμῶσιν ἐν πᾶσιν",
+          "thai": "เพื่อพวกเขาจะทำให้คำสอนของพระเจ้าพระผู้ช่วยให้รอดของเราเป็นที่นับถือในทุกเรื่อง",
+          "rationale": "διδασκαλία → คำสอน corpus-locked. CORPUS-LOCKED τοῦ σωτῆρος ἡμῶν θεοῦ → พระเจ้าพระผู้ช่วยให้รอดของเรา per pastoral_corpus_locks §C — Pastoral-σωτήρ-applied-to-Father (5th instance after 1 Tim 1:1, 2:3, Tit 1:3 + the corpus-pattern). κοσμέω ‘adorn / make-attractive’ → ทำให้ ... เป็นที่นับถือ — preserves the missional-attractiveness sense. The teaching-about-God is what gets adorned; slave-fidelity is the adornment-mechanism."
+        }
+      ],
+      "notes": "CORPUS-LOCKED σωτήρ-Father rendering applied (5th Pastoral instance). Closes the household-codes section (vv.2-10) with a missional-doxological purpose-statement: Christian-living adorns the gospel-teaching about God-our-Savior. This sets up the Christological-doxology of vv.11-14 which expands ‘the teaching about God our Savior’ into its full content."
+    }
+  },
+  {
+    "reference": "Titus 2:11",
+    "chapter": 2,
+    "verse": 11,
+    "greek": "Ἐπεφάνη γὰρ ἡ χάρις τοῦ θεοῦ σωτήριος πᾶσιν ἀνθρώποις",
+    "bsb_english": "For the grace of God has appeared, bringing salvation to everyone.",
+    "translation": {
+      "thai": "เพราะพระคุณของพระเจ้าได้ทรงปรากฏแล้ว นำความรอดมาให้แก่มนุษย์ทุกคน",
+      "thai_literal": null,
+      "thai_summary": "ข้อนี้เริ่มต้นบทกวีดอกซอลอจี (doxology) ที่ยิ่งใหญ่ของจดหมายทิตัส (ข้อ 11-14) — สรุปข่าวประเสริฐทั้งหมดในประโยคเดียว ‘พระคุณของพระเจ้า’ ที่ทรงปรากฏ คือเหตุการณ์การเสด็จมาบังเกิดของพระคริสต์ในฐานะองค์ช่วยให้รอด พระคุณนี้ ‘นำความรอดมาให้แก่มนุษย์ทุกคน’ — หมายความว่ามีไว้สำหรับทุกคนเข้าถึง ไม่ได้จำกัดเชื้อชาติ ฐานะ หรือเพศ (สอดคล้องกับ 1 ทิโมธี 2:4 ‘พระเจ้าทรงประสงค์ให้ทุกคนได้รับความรอด’)",
+      "key_decisions": [
+        {
+          "greek": "Ἐπεφάνη γὰρ ἡ χάρις τοῦ θεοῦ",
+          "thai": "เพราะพระคุณของพระเจ้าได้ทรงปรากฏแล้ว",
+          "rationale": "Per uW grammar-connect-logic-result: γάρ-causal grounds the household-codes (vv.2-10) in the gospel-event. Per uW figs-personification: the grace-of-God appearing as if a person who has arrived. ἐπιφαίνω aorist passive → ได้ทรงปรากฏ — royal-prefix ทรง for the divine subject (grace-of-God as agent of self-disclosure). Lemma-cognate of ἐπιφάνεια locked at v.13 → การทรงปรากฏ; here verb-form preserves the same root-rendering ทรงปรากฏ."
+        },
+        {
+          "greek": "σωτήριος πᾶσιν ἀνθρώποις",
+          "thai": "นำความรอดมาให้แก่มนุษย์ทุกคน",
+          "rationale": "Per uW figs-personification: σωτήριος adjective characterizing grace as ‘salvation-bringing.’ σωτήριος → ‘นำความรอดมาให้’ — preserves the grace-as-active-savior sense. Per uW figs-gendernotations: ἀνθρώποις generic → มนุษย์ทุกคน (humanity inclusive of male + female; matches 1 Tim 2:4 ‘ทุกคน.’) The dative πᾶσιν ἀνθρώποις = beneficiary ‘for all people.’"
+        }
+      ],
+      "notes": "Opens the great Tit 2:11-14 Christological-doxology. The aorist Ἐπεφάνη marks the gospel-event as a punctiliar-historical ARRIVAL of grace (not progressive-revelation). Cognate-link to ἐπιφάνεια at v.13 reinforces the Pastoral-distinctive grace-arrived/glory-arriving frame: incarnation + parousia bracketed by the same lemma-family."
+    }
+  },
+  {
+    "reference": "Titus 2:12",
+    "chapter": 2,
+    "verse": 12,
+    "greek": "παιδεύουσα ἡμᾶς,ἵνα ἀρνησάμενοι τὴν ἀσέβειαν καὶ τὰς κοσμικὰς ἐπιθυμίας σωφρόνως καὶ δικαίως καὶ εὐσεβῶς ζήσωμεν ἐν τῷ νῦν αἰῶνι,",
+    "bsb_english": "It instructs us to renounce ungodliness and worldly passions, and to live sensible, upright, and godly lives in the present age,",
+    "translation": {
+      "thai": "ฝึกเราเพื่อให้เราปฏิเสธความอธรรมและตัณหาฝ่ายโลก และดำเนินชีวิตอย่างมีสติสัมปชัญญะ อย่างชอบธรรม และด้วยความเคร่งในพระเจ้าในยุคนี้",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "παιδεύουσα ἡμᾶς",
+          "thai": "ฝึกเรา",
+          "rationale": "Per uW figs-personification: grace-of-God (v.11) as if a person who trains. παιδεύω → ฝึก — preserves the educative/disciplinary sense. ἡμᾶς inclusive (Per uW figs-exclusive: includes Paul + Titus + all believers)."
+        },
+        {
+          "greek": "ἵνα ἀρνησάμενοι τὴν ἀσέβειαν καὶ τὰς κοσμικὰς ἐπιθυμίας",
+          "thai": "เพื่อให้เราปฏิเสธความอธรรมและตัณหาฝ่ายโลก",
+          "rationale": "ἀρνέομαι aorist participle → ปฏิเสธ corpus-precedent multi-Pastoral. ἀσέβεια → ความอธรรม — Pauline-corpus standard for ‘ungodliness’; corpus-precedent ROM 1:18 same Thai. NOTE: distinct from εὐσέβεια → ‘ความเคร่งในพระเจ้า’ in this same verse — ἀσέβεια as the negative-counterpart preserved as the more-traditional ‘ความอธรรม’ rather than the formally-mirrored ‘ความไม่เคร่งในพระเจ้า’ (which would over-mechanize the antithesis). κοσμικάς ἐπιθυμίας → ตัณหาฝ่ายโลก corpus-precedent 1 Th 4:5 + 1 Tim 6:9 same lemma — passions/desires-belonging-to-the-world."
+        },
+        {
+          "greek": "σωφρόνως καὶ δικαίως καὶ εὐσεβῶς ζήσωμεν ἐν τῷ νῦν αἰῶνι",
+          "thai": "ดำเนินชีวิตอย่างมีสติสัมปชัญญะ อย่างชอบธรรม และด้วยความเคร่งในพระเจ้าในยุคนี้",
+          "rationale": "Three-fold adverbial life-pattern. HAPAX σωφρόνως (only here NT) — adverb of σώφρων → อย่างมีสติสัมปชัญญะ (preserves the σώφρων-family lemma core ‘สติสัมปชัญญะ’). δικαίως → อย่างชอบธรรม corpus-precedent 1 Cor 15:34 same lemma. εὐσεβῶς → ด้วยความเคร่งในพระเจ้า — adverbial of εὐσέβεια per pastoral_corpus_locks §B (corpus-locked εὐσέβεια family). ζάω aorist subjunctive ‘live’ → ดำเนินชีวิต. ἐν τῷ νῦν αἰῶνι → ในยุคนี้ corpus-precedent 1 Cor 1:20 + 1 Cor 2:6 same phrase same Thai."
+        }
+      ],
+      "notes": "ONE HAPAX (σωφρόνως). σώφρων-family final occurrence in the chapter (5th: vv.2, 4, 5, 6, 12) — confirms the chapter’s self-control conceptual spine. CORPUS-LOCKED εὐσέβεια applied (5th Pastoral occurrence in adverbial form). The three-adverb pattern (σωφρόνως-self / δικαίως-others / εὐσεβῶς-God) maps the comprehensive Christian life: oneself + neighbor + God."
+    }
+  },
+  {
+    "reference": "Titus 2:13",
+    "chapter": 2,
+    "verse": 13,
+    "greek": "προσδεχόμενοι τὴν μακαρίαν ἐλπίδα καὶ ἐπιφάνειαν τῆς δόξης τοῦ μεγάλου θεοῦ καὶ σωτῆρος ἡμῶν Ἰησοῦ Χριστοῦ,",
+    "bsb_english": "as we await the blessed hope and glorious appearance of our great God and Savior Jesus Christ.",
+    "translation": {
+      "thai": "ในขณะที่เรารอคอยความหวังอันเปี่ยมพร และการทรงปรากฏแห่งพระสิริของพระเยซูคริสต์ พระเจ้าผู้ยิ่งใหญ่และพระผู้ช่วยให้รอดของเรา",
+      "thai_literal": null,
+      "thai_summary": "ข้อนี้เป็นข้อที่สำคัญที่สุดข้อหนึ่งในจดหมายทิตัส และในพันธสัญญาใหม่ทั้งหมดเรื่องพระลักษณะของพระคริสต์ — เพราะมันเรียกพระเยซูว่า ‘พระเจ้าผู้ยิ่งใหญ่และพระผู้ช่วยให้รอด’ พร้อมกัน โครงสร้างภาษากรีก (ที่นักวิชาการเรียกว่า ‘ไวยากรณ์ Granville-Sharp’) ใช้ที่ชี้บ่งครั้งเดียว (καί หนึ่ง บทนิยามเดียว) เชื่อมคำสองคำ — บ่งบอกว่าเป็นบุคคลเดียวกัน คือพระเยซูคริสต์ ทรงเป็นพระเจ้าผู้ยิ่งใหญ่ของเรา และทรงเป็นพระผู้ช่วยให้รอดของเรา การแปลนี้ตามความเห็นพ้องของนักวิชาการคริสเตียนสายเอแวนเจลิคัล (BSB ESV NIV CSB ทั้งหมดเลือกการแปลแบบนี้) ซึ่งสะท้อนคำสอนของคริสตจักรในยุคแรก ๆ ที่ยอมรับว่าพระเยซูทรงเป็นพระเจ้าโดยสมบูรณ์",
+      "key_decisions": [
+        {
+          "greek": "προσδεχόμενοι",
+          "thai": "ในขณะที่เรารอคอย",
+          "rationale": "προσδέχομαι ‘await / welcome-with-anticipation’ → รอคอย — preserves the eschatological-expectation sense (matches LUK 2:25 + LUK 23:51 messianic-waiting context). The participle-of-attendant-circumstance (linking to v.12’s ζήσωμεν) → render ‘ในขณะที่เรารอคอย.’"
+        },
+        {
+          "greek": "τὴν μακαρίαν ἐλπίδα",
+          "thai": "ความหวังอันเปี่ยมพร",
+          "rationale": "μακάριος → เปี่ยมพร — adjectival ‘blessed’ (cf. the Beatitudes corpus-locked elsewhere as ‘เป็นสุข’ for predicate-form; here attributive to ἐλπίς warrants the noun-modifier form ‘เปี่ยมพร’). ἐλπίς → ความหวัง corpus-precedent. The ‘blessed hope’ is the eschatological-expectation that the entire Christian life leans toward."
+        },
+        {
+          "greek": "καὶ ἐπιφάνειαν τῆς δόξης",
+          "thai": "และการทรงปรากฏแห่งพระสิริ",
+          "rationale": "CORPUS-LOCKED ἐπιφάνεια → การทรงปรากฏ per epiphaneia_christou_2026-05.md — 5th Pastoral occurrence + 1st Titus occurrence applied. δόξα → พระสิริ corpus-precedent across NT (royal-divine-glory). Per uW figs-hendiadys note: μακαρίαν ἐλπίδα + ἐπιφάνειαν τῆς δόξης may form a single complex idea (‘blessed-hope-which-is-the-glorious-appearing’); render in coordinate form preserving both as distinct-but-coordinate so the Thai reader can see the structural parallelism."
+        },
+        {
+          "greek": "τοῦ μεγάλου θεοῦ καὶ σωτῆρος ἡμῶν Ἰησοῦ Χριστοῦ",
+          "thai": "ของพระเยซูคริสต์ พระเจ้าผู้ยิ่งใหญ่และพระผู้ช่วยให้รอดของเรา",
+          "rationale": "CORPUS-LOCKED Granville-Sharp single-person reading per pastoral_corpus_locks §C pre-decision. The Greek construction (single article governing both nouns: τοῦ μεγάλου θεοῦ καὶ σωτῆρος) is widely recognized by modern evangelical scholarship as referring to a single subject — Jesus Christ as both ‘our great God’ AND ‘our Savior.’ All three external reviewers (Grok, Gemini, ChatGPT) converged at 1 Tim end-of-book review. Render ‘พระเยซูคริสต์ พระเจ้าผู้ยิ่งใหญ่และพระผู้ช่วยให้รอดของเรา’ — Thai apposition naturally supports the single-person reading without forced syntax. The order-shift (Jesus-name first, then the appositive titles) follows natural Thai sequence-of-identification (subject + descriptors)."
+        }
+      ],
+      "notes": "CORPUS-LOCKED ἐπιφάνεια → การทรงปรากฏ (5th Pastoral + 1st Titus). CORPUS-LOCKED Granville-Sharp single-person Christological reading at τοῦ μεγάλου θεοῦ καὶ σωτῆρος (per pastoral §C). The high-Christological identification (Jesus = our great God) is one of the strongest NT-witness verses to the deity-of-Christ; render preserves the single-person reading consistent with mainstream evangelical critical-text scholarship."
+    }
+  },
+  {
+    "reference": "Titus 2:14",
+    "chapter": 2,
+    "verse": 14,
+    "greek": "ὃς ἔδωκεν ἑαυτὸν ὑπὲρ ἡμῶν ἵνα λυτρώσηται ἡμᾶς ἀπὸ πάσης ἀνομίας καὶ καθαρίσῃ ἑαυτῷ λαὸν περιούσιον,ζηλωτὴν καλῶν ἔργων.",
+    "bsb_english": "He gave Himself for us to redeem us from all lawlessness and to purify for Himself a people for His own possession, zealous for good deeds.",
+    "translation": {
+      "thai": "ผู้ทรงสละพระองค์เองเพื่อเรา เพื่อทรงไถ่เราให้พ้นจากความอธรรมทั้งสิ้น และทรงชำระประชากรเป็นของพระองค์เองให้บริสุทธิ์ — เป็นประชากรที่กระตือรือร้นในการทำดี",
+      "thai_literal": null,
+      "thai_summary": "วลี ‘ประชากรเป็นของพระองค์เอง’ (กรีก λαὸς περιούσιος) ยืมจากพันธสัญญาเดิม — โดยเฉพาะ อพยพ 19:5 และ เฉลยธรรมบัญญัติ 7:6 + 14:2 ในฉบับ LXX (กรีก) ซึ่งใช้คำนี้เกี่ยวกับชนชาติอิสราเอลในฐานะ ‘ประชากรเฉพาะของพระยาห์เวห์’ การใช้คำนี้กับคริสเตียนของเปาโลที่นี่ และในเปโตรฉบับที่หนึ่ง 2:9 บ่งบอกว่าคริสตจักรเป็นผู้ที่สืบทอดพันธสัญญาของอิสราเอลในความหมายเชิงเทววิทยา — ไม่ใช่แทนที่อิสราเอล แต่ขยายชนชาติของพระเจ้าให้รวมทั้งคนต่างชาติด้วย",
+      "key_decisions": [
+        {
+          "greek": "ὃς ἔδωκεν ἑαυτὸν ὑπὲρ ἡμῶν",
+          "thai": "ผู้ทรงสละพระองค์เองเพื่อเรา",
+          "rationale": "Pauline self-giving formula. δίδωμι ἑαυτόν → ทรงสละพระองค์เอง corpus-precedent 1 Tim 2:6 + GAL 1:4 + GAL 2:20 + EPH 5:2,25 same construction same Thai. ὑπὲρ ἡμῶν → เพื่อเรา (substitutionary-benefit ‘for us’). Per uW figs-explicit: refers to Christ’s willing-death — render preserves the voluntary-substitution force. The relative ὅς refers back to v.13 Ἰησοῦ Χριστοῦ."
+        },
+        {
+          "greek": "ἵνα λυτρώσηται ἡμᾶς ἀπὸ πάσης ἀνομίας",
+          "thai": "เพื่อทรงไถ่เราให้พ้นจากความอธรรมทั้งสิ้น",
+          "rationale": "Per uW figs-metaphor: lawlessness as evil-master from which Christ rescues. λυτρόω → ทรงไถ่ corpus-precedent 1 Tim 2:6 + 1 Pet 1:18 same lemma — preserves the redemption-purchase metaphor. Royal-prefix ทรง for divine subject. ἀνομία → ความอธรรม corpus-precedent 2 Cor 6:14 + 2 Th 2:3 same lemma — distinct from ἁμαρτία ‘บาป’ (sin); ἀνομία emphasizes lawless-rebellion-against-God’s-rule."
+        },
+        {
+          "greek": "καὶ καθαρίσῃ ἑαυτῷ λαὸν περιούσιον",
+          "thai": "และทรงชำระประชากรเป็นของพระองค์เองให้บริสุทธิ์",
+          "rationale": "καθαρίζω → ทรงชำระให้บริสุทธิ์ corpus-precedent EPH 5:26 + 1 JN 1:7,9 same lemma. HAPAX περιούσιος (only here NT) — though present in LXX Exod 19:5 + Deut 7:6 + Deut 14:2 + Deut 26:18 (covenant-people-of-special-possession). Render ‘ประชากรเป็นของพระองค์เอง’ — preserves the possessive-special-property sense without forcing the wooden ‘ทรัพย์สมบัติพิเศษ’ (which would commodify-the-people image). LXX ECHO of Exod 19:5 — see notes."
+        },
+        {
+          "greek": "ζηλωτὴν καλῶν ἔργων",
+          "thai": "เป็นประชากรที่กระตือรือร้นในการทำดี",
+          "rationale": "ζηλωτής → กระตือรือร้น — passionate/zealous (cf. ACT 21:20 zealots-for-the-law context different application). καλῶν ἔργων same Pastoral-formula as Tit 2:7 + 2 Tim 2:21, 3:17 — the good-works-zealous-people frame closes the doxology with the ethical-purpose of redemption. Render ‘ประชากรที่กระตือรือร้นในการทำดี’ — natural Thai for the trait."
+        }
+      ],
+      "notes": "ONE HAPAX (περιούσιος). LXX ECHO: λαὸν περιούσιον is a direct lexical echo of LXX Exod 19:5 (λαὸς περιούσιος) + Deut 7:6 + Deut 14:2 + Deut 26:18 — covenant-people-of-special-possession formula. Also 1 Pet 2:9 ‘λαὸς εἰς περιποίησιν’ adopts a near-equivalent Greek expression. The Pastoral application of OT-Israel-vocabulary to the church reflects NT-covenant-extension theology (not supersessionism per RULES §0). DB entry added."
+    }
+  },
+  {
+    "reference": "Titus 2:15",
+    "chapter": 2,
+    "verse": 15,
+    "greek": "Ταῦτα λάλει καὶ παρακάλει καὶ ἔλεγχε μετὰ πάσης ἐπιταγῆς·μηδείς σου περιφρονείτω.",
+    "bsb_english": "Speak these things as you encourage and rebuke with all authority. Let no one despise you.",
+    "translation": {
+      "thai": "จงสอนสิ่งเหล่านี้ จงหนุนใจ และจงตักเตือนด้วยอำนาจเต็มที่ อย่าให้ผู้ใดดูแคลนท่าน",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "greek": "Ταῦτα λάλει καὶ παρακάλει καὶ ἔλεγχε",
+          "thai": "จงสอนสิ่งเหล่านี้ จงหนุนใจ และจงตักเตือน",
+          "rationale": "Triple-imperative pastoral-mandate matching the Tit 1:9 pattern (encourage + refute) + 2 Tim 4:2 (preach + reprove + rebuke + encourage). Per uW figs-pronouns: ταῦτα refers back to ALL of ch.2. λαλέω → สอน (per v.1 same lemma same Thai). παρακαλέω → หนุนใจ CORPUS-LOCKED. ἐλέγχω → ตักเตือน CORPUS-LOCKED."
+        },
+        {
+          "greek": "μετὰ πάσης ἐπιταγῆς",
+          "thai": "ด้วยอำนาจเต็มที่",
+          "rationale": "ἐπιταγή → อำนาจ here (authority-with-the-right-to-command) — note that this is the same lemma as Tit 1:3 ἐπιταγή → ‘พระบัญชา’ (where it’s God’s command); here Titus’s ecclesiastical-authority warrants ‘อำนาจ’ (delegated authority) rather than the divine-command sense. Per uW figs-abstractnouns: render with the institutional-authority sense. πάσης ‘all / full’ → เต็มที่."
+        },
+        {
+          "greek": "μηδείς σου περιφρονείτω",
+          "thai": "อย่าให้ผู้ใดดูแคลนท่าน",
+          "rationale": "HAPAX περιφρονέω (only here NT) — compound περί + φρονέω = ‘think-around / look-down-on / despise.’ Per uW figs-doublenegatives: positive form ‘make-everyone-listen’ considered but rejected — the Greek’s prohibitive-imperative (μηδείς + verb) preserves the warning-tone better as the Thai prohibitive ‘อย่าให้ผู้ใด.’ Per uW figs-explicit: implication is people-disregarding-Titus’s-teaching-authority — render ดูแคลน captures the despise-with-contempt sense."
+        }
+      ],
+      "notes": "ONE HAPAX (περιφρονέω). Closes ch.2 with a chiastic-style charge mirroring v.1 (Σὺ δὲ λάλει): both imperatival, both about Titus’s teaching-authority. The triple-imperative (λάλει + παρακάλει + ἔλεγχε) is the Pastoral-distinctive pastoral-task formula; ταῦτα-referent encompasses the entire household-codes + doxology of vv.2-14."
+    }
+  }
+]

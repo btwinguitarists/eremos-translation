@@ -1,6 +1,6 @@
 # ทิตัส
 
-_Titus — 1 chapter, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
+_Titus — 2 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
 
 _This **feedback edition** is the plain Thai translation with a `>` placeholder block under each verse for reviewer comments. **See the instructions immediately below before reading.** For the annotated edition (with contextual summaries), see `output/reader/titus.md`; for the verses-only edition (no comment blocks), see `output/plain/titus.md`._
 
@@ -96,6 +96,70 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 ---
 
+## บทที่ 2
+
+**1** ส่วนท่าน จงสอนสิ่งที่สอดคล้องกับคำสอนอันถูกต้อง
+
+> ___
+
+**2** จงสอนผู้ชายสูงอายุให้รู้จักประมาณตน สง่าน่านับถือ มีสติสัมปชัญญะ มีความถูกต้องในความเชื่อ ในความรัก และในความอดทน
+
+> ___
+
+**3** ในทางเดียวกัน จงสอนหญิงสูงอายุให้มีกิริยาที่สมศักดิ์ศรี ไม่เป็นคนใส่ร้าย ไม่ตกเป็นทาสของเหล้าองุ่นมากเกินไป แต่ให้เป็นผู้สอนสิ่งดี
+
+> ___
+
+**4** เพื่อพวกเธอจะได้ฝึกหญิงสาวให้รู้จักรักสามีและรักลูกของตน
+
+> ___
+
+**5** ให้มีสติสัมปชัญญะ บริสุทธิ์ ดูแลครอบครัว มีน้ำใจดี ยอมอยู่ใต้บังคับสามีของตน เพื่อไม่ให้พระวจนะของพระเจ้าถูกหมิ่นประมาท
+
+> ___
+
+**6** ในทางเดียวกัน จงหนุนใจคนหนุ่มให้มีสติสัมปชัญญะ
+
+> ___
+
+**7** ในทุกสิ่ง จงแสดงตัวท่านเองให้เป็นแบบอย่างของการทำดี ในการสอน จงแสดงความสุจริต ความสง่างาม
+
+> ___
+
+**8** และคำพูดอันถูกต้องที่ไม่อาจหาที่ติได้ เพื่อฝ่ายตรงข้ามจะอาย เพราะไม่มีสิ่งชั่วใดที่จะกล่าวถึงเราได้
+
+> ___
+
+**9** ให้ทาสยอมอยู่ใต้บังคับนายของตนในทุกเรื่อง ให้เป็นที่พอใจ ไม่โต้แย้ง
+
+> ___
+
+**10** ไม่ขโมยของนาย แต่แสดงความซื่อสัตย์อันดีในทุกประการ เพื่อพวกเขาจะทำให้คำสอนของพระเจ้าพระผู้ช่วยให้รอดของเราเป็นที่นับถือในทุกเรื่อง
+
+> ___
+
+**11** เพราะพระคุณของพระเจ้าได้ทรงปรากฏแล้ว นำความรอดมาให้แก่มนุษย์ทุกคน
+
+> ___
+
+**12** ฝึกเราเพื่อให้เราปฏิเสธความอธรรมและตัณหาฝ่ายโลก และดำเนินชีวิตอย่างมีสติสัมปชัญญะ อย่างชอบธรรม และด้วยความเคร่งในพระเจ้าในยุคนี้
+
+> ___
+
+**13** ในขณะที่เรารอคอยความหวังอันเปี่ยมพร และการทรงปรากฏแห่งพระสิริของพระเยซูคริสต์ พระเจ้าผู้ยิ่งใหญ่และพระผู้ช่วยให้รอดของเรา
+
+> ___
+
+**14** ผู้ทรงสละพระองค์เองเพื่อเรา เพื่อทรงไถ่เราให้พ้นจากความอธรรมทั้งสิ้น และทรงชำระประชากรเป็นของพระองค์เองให้บริสุทธิ์ — เป็นประชากรที่กระตือรือร้นในการทำดี
+
+> ___
+
+**15** จงสอนสิ่งเหล่านี้ จงหนุนใจ และจงตักเตือนด้วยอำนาจเต็มที่ อย่าให้ผู้ใดดูแคลนท่าน
+
+> ___
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -103,4 +167,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | Chapter file | SHA-256 |
 |---|---|
 | `output/translations/titus_01.json` | `6b9bc5a855e4143fab405d9116d393e4ed8e929d99a62b3d2451d8043fb50100` |
+| `output/translations/titus_02.json` | `54cca3502fb1484c14c16b498528dd0e1691cb0d1650c2a21bae3fc079cf8180` |
 
