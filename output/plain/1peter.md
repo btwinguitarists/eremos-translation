@@ -1,6 +1,6 @@
 # 1 เปโตร
 
-_1 Peter — 4 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
+_1 Peter — 5 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
 
 _This **plain edition** shows only the Thai translation — no commentary, no Greek, no English. Intended for Thai scholars and theological reviewers evaluating the translation on its own terms. For the annotated edition with contextual summaries (บริบท), see `output/reader/1peter.md`. For the underlying Greek, English (BSB) reference, and translator decisions per verse, see the per-chapter review reports at `output/check_reports/1peter_NN_review.md` or the source JSON at `output/translations/`._
 
@@ -204,6 +204,38 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 ---
 
+## บทที่ 5
+
+**1** เพราะฉะนั้น ในฐานะผู้ปกครองคริสตจักรเพื่อนร่วมงาน เป็นพยานในการทนทุกข์ของพระคริสต์ และเป็นผู้มีส่วนร่วมในพระสิริที่จะทรงสำแดง ข้าพเจ้าขอวิงวอนผู้ปกครองคริสตจักรในหมู่พวกท่าน
+
+**2** จงเลี้ยงดูฝูงแกะของพระเจ้าที่อยู่ในหมู่พวกท่าน ดูแลพวกเขาไม่ใช่ด้วยการบังคับ แต่ด้วยความสมัครใจตามพระประสงค์ของพระเจ้า ไม่ใช่ด้วยความโลภในกำไรอันน่าอาย แต่ด้วยความกระตือรือร้น
+
+**3** ไม่ใช่ด้วยการครอบครองเหนือผู้ที่ทรงมอบไว้แก่ท่าน แต่จงเป็นแบบอย่างแก่ฝูงแกะ
+
+**4** และเมื่อพระผู้เลี้ยงใหญ่ทรงสำแดงพระองค์ ท่านจะได้รับมงกุฎแห่งพระสิริที่ไม่ร่วงโรย
+
+**5** เช่นเดียวกัน คนหนุ่มทั้งหลาย จงยอมจำนนต่อผู้ปกครองคริสตจักร และพวกท่านทุกคนจงสวมใส่ความถ่อมใจในการปฏิบัติต่อกันและกัน เพราะ “พระเจ้าทรงต่อต้านคนเย่อหยิ่ง แต่ทรงประทานพระคุณแก่คนถ่อมใจ”
+
+**6** เพราะฉะนั้น จงถ่อมตัวลงภายใต้พระหัตถ์อันทรงฤทธิ์ของพระเจ้า เพื่อในเวลาอันสมควรพระองค์จะทรงยกท่านขึ้น
+
+**7** จงมอบความกังวลทั้งสิ้นของท่านไว้กับพระองค์ เพราะพระองค์ทรงห่วงใยพวกท่าน
+
+**8** จงมีสติและตื่นตัว ปฏิปักษ์ของท่านคือมาร เดินวนเวียนไปมาดุจสิงโตคำราม เสาะหาผู้ที่จะกลืนกิน
+
+**9** จงต่อสู้มันโดยมั่นคงในความเชื่อ โดยรู้ว่าหมู่พี่น้องของท่านที่อยู่ในโลกก็กำลังทนทุกข์อย่างเดียวกัน
+
+**10** ส่วนพระเจ้าแห่งพระคุณทั้งสิ้น ผู้ทรงเรียกท่านเข้าสู่พระสิริอันเป็นนิรันดร์ของพระองค์ในพระคริสต์ เมื่อท่านทนทุกข์เพียงชั่วครู่แล้ว พระองค์เองจะทรงทำให้ท่านครบบริบูรณ์ ทำให้มั่นคง ทำให้เข้มแข็ง และตั้งรากฐาน
+
+**11** ขอฤทธานุภาพจงมีแด่พระองค์สืบ ๆ ไปเป็นนิตย์ อาเมน
+
+**12** ข้าพเจ้าได้เขียนถึงท่านอย่างย่อ ๆ โดยทางสิลวานัส พี่น้องที่สัตย์ซื่อ ตามที่ข้าพเจ้าถือ เพื่อหนุนใจและยืนยันว่านี่คือพระคุณที่แท้จริงของพระเจ้า จงยืนหยัดอยู่ในพระคุณนั้น
+
+**13** คริสตจักรที่อยู่ในบาบิโลน ผู้ที่ทรงเลือกสรรร่วมกับท่านทั้งหลาย ฝากความระลึกถึงท่าน และมาระโกบุตรของข้าพเจ้าก็เช่นกัน
+
+**14** จงทักทายกันและกันด้วยจุมพิตแห่งความรัก ขอสันติสุขจงมีแก่ท่านทุกคนที่อยู่ในพระคริสต์
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -214,4 +246,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/1peter_02.json` | `120f3302493eb9bd2845bd586e6270174705f761d2bb26bdeb7f465ddeb0259e` |
 | `output/translations/1peter_03.json` | `ab8923ac1f2bce4711ab6aab171275521419001881bbd55a736f444fdc007516` |
 | `output/translations/1peter_04.json` | `5f1d50f69f35aeb8a52f46b83daad7c826ac3cc8a9e64daa1eadf7beb1fc6413` |
+| `output/translations/1peter_05.json` | `04811613980f157b203a1e080f4c5b2728930eda3865e0d151b2d49386b4e42b` |
 

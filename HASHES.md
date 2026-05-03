@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-05-03 10:06:32 UTC_
-_Total chapters: 213 · Total verses: 7001_
+_Generated: 2026-05-03 10:41:20 UTC_
+_Total chapters: 214 · Total verses: 7015_
 
 ## How to verify a chapter
 
@@ -38,7 +38,8 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/1peter_01.json` | 25 | `7e44403865c493ca0641a403ffc4e757b579b6fccf56b551397ab1e6905ae640` | `5f55fea` |
 | `output/translations/1peter_02.json` | 25 | `120f3302493eb9bd2845bd586e6270174705f761d2bb26bdeb7f465ddeb0259e` | `b812394` |
 | `output/translations/1peter_03.json` | 22 | `ab8923ac1f2bce4711ab6aab171275521419001881bbd55a736f444fdc007516` | `256bbe7` |
-| `output/translations/1peter_04.json` | 19 | `5f1d50f69f35aeb8a52f46b83daad7c826ac3cc8a9e64daa1eadf7beb1fc6413` | `—` |
+| `output/translations/1peter_04.json` | 19 | `5f1d50f69f35aeb8a52f46b83daad7c826ac3cc8a9e64daa1eadf7beb1fc6413` | `63b6272` |
+| `output/translations/1peter_05.json` | 14 | `04811613980f157b203a1e080f4c5b2728930eda3865e0d151b2d49386b4e42b` | `—` |
 | `output/translations/1thessalonians_01.json` | 10 | `fdc756d6679cb22854a22c4d222c372bfcc5c37c81ce7855e059b8b2e389675e` | `19285bb` |
 | `output/translations/1thessalonians_02.json` | 20 | `1c39af3e0fd06a32906b8256dc93b5fdcc8e3038e39c1b2a388ea3ca11b593d2` | `6063f78` |
 | `output/translations/1thessalonians_03.json` | 13 | `d09d3e84833d019877b79139018fb0e5a8cb4fc87ea6b5d18580ba86614aaf99` | `de0f124` |
@@ -117,7 +118,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/james_01.json` | 27 | `d493f72c16a0a05776625567731b705eb0fbc3399685fa95d5e45a888ea670c7` | `8e49de6` |
 | `output/translations/james_02.json` | 26 | `24fe583b63efce3b4e5e23ea02ed30abb45155e80d575ddc0c6bddd201b091ef` | `f009760` |
 | `output/translations/james_03.json` | 18 | `3808eccaa5550cc2fda97cd0dce2538331998823e416bf1c48ab042c3ba969d6` | `1138247` |
-| `output/translations/james_04.json` | 17 | `09b99d8f7f57b7b9e498433dcd1f08239fdfb13a0fe7ed62ef514edcfb7467f5` | `7b249a3` |
+| `output/translations/james_04.json` | 17 | `3b61bd19e8da7e5dd9c3681a31efbf7854e8f7fd8d20d47ffbc1a4f73289bf05` | `502e530` |
 | `output/translations/james_05.json` | 20 | `cdd0acb6927085b9b36656e407bea5164fc4efaf311e82378334632582f3ac55` | `5bde9a4` |
 | `output/translations/john_01.json` | 51 | `4065e06ca9bce0c7449ab1f225524be99e27f41d5df4053b1f8a045de447e17f` | `cf6bd38` |
 | `output/translations/john_02.json` | 25 | `17d2cbdb34d12e45434c7d927d17a2bf26d97dcbbd9f23081f054ad9c1abee8f` | `6d15bb1` |
@@ -231,7 +232,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/romans_16.json` | 27 | `d6818f9bcd5e1caff3604f1e7852b42b063df2a18146bcf6f969ca9cfae71869` | `73ccfe7` |
 | `output/translations/titus_01.json` | 16 | `6b9bc5a855e4143fab405d9116d393e4ed8e929d99a62b3d2451d8043fb50100` | `7cca09e` |
 | `output/translations/titus_02.json` | 15 | `54cca3502fb1484c14c16b498528dd0e1691cb0d1650c2a21bae3fc079cf8180` | `9d4d7d2` |
-| `output/translations/titus_03.json` | 15 | `9f1e18c3acfb8283ae184cbf4466a6a43088ba9a7703c32fa0021721c638b90b` | `776b350` |
+| `output/translations/titus_03.json` | 15 | `ae6d73e432043adfd5b8f1c7ccdac693084026cab5e5b9fda7db7d05472e9648` | `502e530` |
 
 ---
 
