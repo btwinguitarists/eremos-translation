@@ -3,7 +3,7 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-05-04 05:53:39 UTC_
+_Generated: 2026-05-04 06:01:46 UTC_
 _Total chapters: 248 · Total verses: 7653_
 
 ## How to verify a chapter
@@ -125,7 +125,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/galatians_04.json` | 31 | `6419fc431ce43cebfdbbff8d2a6026f81bd484468e38311da0a266301e78a2d1` | `4ec829e` |
 | `output/translations/galatians_05.json` | 26 | `8c554130d8819be2bff95cf6657734f4da7ec53e27845623688ad63407121424` | `3881232` |
 | `output/translations/galatians_06.json` | 18 | `c536242ca4c882dcab8ccb39b413ac1da9fbd7aebfae3fcbc0be71f7d8bc08bf` | `4ec829e` |
-| `output/translations/hebrews_01.json` | 14 | `232a94a0eabeb73de2509e633bd42c91257a6b8bf40c594425d2e11303dbb812` | `—` |
+| `output/translations/hebrews_01.json` | 14 | `a68eda7d15d03b92bd483a5a8988e68f7d834e2490ae8609297add40abfef112` | `f118001` |
 | `output/translations/james_01.json` | 27 | `d493f72c16a0a05776625567731b705eb0fbc3399685fa95d5e45a888ea670c7` | `8e49de6` |
 | `output/translations/james_02.json` | 26 | `24fe583b63efce3b4e5e23ea02ed30abb45155e80d575ddc0c6bddd201b091ef` | `f009760` |
 | `output/translations/james_03.json` | 18 | `3808eccaa5550cc2fda97cd0dce2538331998823e416bf1c48ab042c3ba969d6` | `1138247` |
@@ -227,8 +227,8 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/philippians_03.json` | 21 | `6654fa151c16c1c9e39b1be8033916378a13bff438d572657b8b06027964e1e1` | `4b0b01b` |
 | `output/translations/philippians_04.json` | 23 | `16898f8540c61953284e2248c9460c682f56980087ab83ec300a57a0a5761235` | `3442c59` |
 | `output/translations/revelation_01.json` | 20 | `127a68402ed9a21dc87af1c5e7f08e242ac1524e22a3ade7be05717dfba28407` | `b71f5a2` |
-| `output/translations/revelation_02.json` | 29 | `745607d35eed381dc54dbf735bd361fbfb9cfe8cd46ce45c73e106416fae3d8a` | `dcbae3d` |
-| `output/translations/revelation_03.json` | 22 | `18119e1a64a868ccc0f147b9f2bb0dc52df354132fe378502ca4a0fd3d3d5ea3` | `2095862` |
+| `output/translations/revelation_02.json` | 29 | `5f2083dded34b57bedccf900de28982575e50b9e61ed70120d5f4f88820aeb0a` | `dcbae3d` |
+| `output/translations/revelation_03.json` | 22 | `bb5371503a331a38215a73dd8f361fb2d25b96681007c9989f15ca0a45ffdfa1` | `2095862` |
 | `output/translations/revelation_04.json` | 11 | `e85a7ad60dbffbca26fbb01eaffa82c82a15f8c5eb6b5ef1ee308bee2ec49db4` | `9a7adbd` |
 | `output/translations/revelation_05.json` | 14 | `6674787d54a22baea0516dc1b1873d1faa311f5c433e5a48525d4b698c4b4d10` | `6440071` |
 | `output/translations/revelation_06.json` | 17 | `1c270e3244ed3c3c9dff5e72cbb44351f3805073f19e58980051426918dce1d8` | `761130c` |
@@ -238,7 +238,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/revelation_10.json` | 11 | `4cc278b790b4bddb172df3261be5b13ea6430f0b67844ebb555e184ddf3a3201` | `ad98d19` |
 | `output/translations/revelation_11.json` | 19 | `3dde01ccdf944ec7b00082c13e8c3dc14368fc7bd32faf35f449bef0e9c0f279` | `71fa935` |
 | `output/translations/revelation_12.json` | 18 | `58dc1df1d6797bc8b2cf8c734c688c647ac16ff2235330d8b876b35c4ca32811` | `a863ced` |
-| `output/translations/revelation_13.json` | 18 | `66670a69dbec83441a1370ca89a2809dba480d435b378cf9849b87b512f2742c` | `c9827b9` |
+| `output/translations/revelation_13.json` | 18 | `ec4dad9ee1201d12ccfc99138460beb96878edde1647c013c014f75a62ca18c9` | `c9827b9` |
 | `output/translations/revelation_14.json` | 20 | `539d60a48d74f781665b9f2dcd14984ba5f468f1d28066fcda080ec1891ac48f` | `42255eb` |
 | `output/translations/revelation_15.json` | 8 | `e061f14ae65e905169cacff841b2b7480130623c4a126c4ad219ee09658925f6` | `9095699` |
 | `output/translations/revelation_16.json` | 21 | `07168a944a594236a66709e7e7f2cb3429cf484dfe0c53d73d490c89bd01e7b2` | `8ccf1c8` |
