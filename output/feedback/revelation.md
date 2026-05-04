@@ -1,6 +1,6 @@
 # วิวรณ์
 
-_Revelation — 14 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
+_Revelation — 15 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
 
 _This **feedback edition** is the plain Thai translation with a `>` placeholder block under each verse for reviewer comments. **See the instructions immediately below before reading.** For the annotated edition (with contextual summaries), see `output/reader/revelation.md`; for the verses-only edition (no comment blocks), see `output/plain/revelation.md`._
 
@@ -1084,6 +1084,42 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 ---
 
+## บทที่ 15
+
+**1** และข้าพเจ้าได้เห็นหมายสำคัญอีกประการหนึ่งในสวรรค์ ใหญ่และน่าอัศจรรย์ คือ ทูตสวรรค์เจ็ดตน ถือภัยพิบัติเจ็ดประการสุดท้าย เพราะในภัยพิบัติเหล่านี้ พระพิโรธของพระเจ้าก็จะสำเร็จครบบริบูรณ์
+
+> ___
+
+**2** และข้าพเจ้าได้เห็นสิ่งที่ดูเหมือนทะเลแก้วผสมไฟ และเห็นบรรดาผู้ที่ชนะสัตว์ร้ายตัวนั้น ผู้ชนะรูปจำลองของมัน และผู้ชนะหมายเลขชื่อของมัน ยืนอยู่บนทะเลแก้วนั้น ถือพิณของพระเจ้า
+
+> ___
+
+**3** และพวกเขาขับร้องบทเพลงของโมเสส ผู้รับใช้ของพระเจ้า และบทเพลงของพระเมษโปดก กล่าวว่า “ใหญ่และน่าอัศจรรย์ พระราชกิจทั้งปวงของพระองค์ องค์พระผู้เป็นเจ้าพระเจ้า ผู้ทรงฤทธานุภาพยิ่งใหญ่ ทางของพระองค์ชอบธรรมและจริงแท้ องค์กษัตริย์แห่งกาลทั้งปวง
+
+> ___
+
+**4** ใครเล่าที่จะไม่ยำเกรงพระองค์ ข้าแต่องค์พระผู้เป็นเจ้า และไม่ถวายพระเกียรติแด่พระนามของพระองค์ เพราะพระองค์ผู้เดียวทรงบริสุทธิ์ ประชาชาติทั้งปวงจะมาและกราบไหว้ต่อพระพักตร์พระองค์ เพราะพระราชกิจอันชอบธรรมของพระองค์ได้ปรากฏแล้ว”
+
+> ___
+
+**5** หลังจากเหตุการณ์เหล่านี้ ข้าพเจ้าได้เห็น และวิหารแห่งพลับพลาพยานหลักฐานในสวรรค์ก็เปิดออก
+
+> ___
+
+**6** และทูตสวรรค์เจ็ดตน ผู้ถือภัยพิบัติเจ็ดประการ ออกมาจากวิหาร สวมผ้าลินินสะอาดสุกใส และคาดสายคาดทองคำที่หน้าอก
+
+> ___
+
+**7** และสิ่งมีชีวิตตนหนึ่งจากสี่ตน ได้ยื่นชามทองคำเจ็ดใบ ที่เต็มไปด้วยพระพิโรธของพระเจ้า ผู้ทรงพระชนม์อยู่ตลอดไปเป็นนิตย์ ให้แก่ทูตสวรรค์ทั้งเจ็ดตน
+
+> ___
+
+**8** และวิหารก็เต็มไปด้วยควันจากพระสิริของพระเจ้าและจากพระเดชานุภาพของพระองค์ และไม่มีผู้ใดสามารถเข้าไปในวิหารนั้นได้ จนกว่าภัยพิบัติทั้งเจ็ดของทูตสวรรค์ทั้งเจ็ดตนจะสำเร็จครบบริบูรณ์
+
+> ___
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -1104,4 +1140,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/revelation_12.json` | `58dc1df1d6797bc8b2cf8c734c688c647ac16ff2235330d8b876b35c4ca32811` |
 | `output/translations/revelation_13.json` | `66670a69dbec83441a1370ca89a2809dba480d435b378cf9849b87b512f2742c` |
 | `output/translations/revelation_14.json` | `539d60a48d74f781665b9f2dcd14984ba5f468f1d28066fcda080ec1891ac48f` |
+| `output/translations/revelation_15.json` | `e061f14ae65e905169cacff841b2b7480130623c4a126c4ad219ee09658925f6` |
 
