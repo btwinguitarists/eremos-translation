@@ -163,7 +163,7 @@
         {
           "greek": "ἰδοὺ ἔρχομαι ταχύ",
           "thai": "“และดูเถิด เราจะมาในไม่ช้า",
-          "rationale": "Christ-direct-speech (sudden-shift to-1st-person). Threefold-refrain ‘I-come-soon’ in-this-chapter (v.7, 12, 20). ταχύ = ในไม่ช้า."
+          "rationale": "Christ-direct-speech (sudden-shift to-1st-person). Threefold-refrain ‘I-come-soon’ in-this-chapter (v.7, 12, 20). ταχύ → **ในไม่ช้า** (solemn, eschatological-anticipation register). LOCKING-PRECEDENT for the Revelation register-split: same Greek formula ἔρχομαι ταχύ in the seven-letters (2:16, 3:11) uses **โดยเร็ว** (urgent-warning register); here in Christ's epilogue self-promise the formula uses **ในไม่ช้า** to carry the eschatological-parousia gravity. Different-illocutionary-force, different-Thai-adverbial, same-Greek-lemma. Externally-reviewed 2026-05-04 (ChatGPT CONCERN — wanted normalization; Gemini FINE — wanted split); Ben adjudicated FOR the split. See docs/translator_decisions/erchomai_tachy_revelation_register_split_2026-05.md."
         },
         {
           "greek": "μακάριος ὁ τηρῶν τοὺς λόγους τῆς προφητείας τοῦ βιβλίου τούτου",
@@ -270,6 +270,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
+        {
+          "greek": "Ἰδοὺ ἔρχομαι ταχύ",
+          "thai": "ดูเถิด เราจะมาในไม่ช้า",
+          "rationale": "Second-of-three ‘I-come-soon’ refrains in this chapter (v.7, 12, 20). ταχύ → **ในไม่ช้า** (solemn, eschatological-anticipation register, per the locked register-split: letters use โดยเร็ว, epilogue uses ในไม่ช้า). See 22:7 KD + docs/translator_decisions/erchomai_tachy_revelation_register_split_2026-05.md."
+        },
         {
           "greek": "ὁ μισθός μου μετ’ ἐμοῦ, ἀποδοῦναι ἑκάστῳ ὡς τὸ ἔργον ἐστὶν αὐτοῦ",
           "thai": "บำเหน็จของเราอยู่กับเรา เพื่อตอบแทนแต่ละคนตามการกระทำของเขา",
@@ -458,7 +463,7 @@
         {
           "greek": "Ναί · ἔρχομαι ταχύ",
           "thai": "“แน่นอน เราจะมาในไม่ช้า”",
-          "rationale": "Third-‘I-come-soon’ refrain (cf. v.7, 12). ναί = แน่นอน (affirmation). Christ's-personal-final-promise to-the-Bride."
+          "rationale": "Third-and-climactic ‘I-come-soon’ refrain (cf. v.7, 12). ναί = แน่นอน (affirmation). Christ's-personal-final-promise to-the-Bride. ταχύ → **ในไม่ช้า** (per the Revelation register-split: epilogue parousia-promise register, distinct from the letters' urgent-visitation-warning **โดยเร็ว** at 2:16 + 3:11). See 22:7 KD + docs/translator_decisions/erchomai_tachy_revelation_register_split_2026-05.md."
         },
         {
           "greek": "Ἀμήν · ἔρχου, κύριε Ἰησοῦ",
