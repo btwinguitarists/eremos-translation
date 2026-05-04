@@ -58,8 +58,8 @@
 ## ἐκκλησία (Christian community sense)
 **Doc:** `ekklesia_2026-04.md`  
 **Expected Thai contains:** `คริสตจักร`  
-**Total matching verses:** 102  
-**OK:** 98 · **Excepted:** 4 · **Violations:** 0
+**Total matching verses:** 103  
+**OK:** 99 · **Excepted:** 4 · **Violations:** 0
 
 ### Documented exceptions (not violations)
 - **Acts 7:38** — OT/LXX assembly-of-Israel; use ที่ประชุม per ekklesia doc exception
