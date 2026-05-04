@@ -1,6 +1,6 @@
 # ฮีบรู
 
-_Hebrews — 7 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
+_Hebrews — 8 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
 
 _This **plain edition** shows only the Thai translation — no commentary, no Greek, no English. Intended for Thai scholars and theological reviewers evaluating the translation on its own terms. For the annotated edition with contextual summaries (บริบท), see `output/reader/hebrews.md`. For the underlying Greek, English (BSB) reference, and translator decisions per verse, see the per-chapter review reports at `output/check_reports/hebrews_NN_review.md` or the source JSON at `output/translations/`._
 
@@ -292,6 +292,36 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 ---
 
+## บทที่ 8
+
+**1** บัดนี้ ประเด็นสำคัญของสิ่งที่เรากำลังกล่าวคือ พวกเรามีมหาปุโรหิตเช่นนี้ ผู้ทรงประทับเบื้องขวาของพระที่นั่งแห่งองค์ทรงพระมหิทธิ์ในสวรรค์
+
+**2** ทรงเป็นผู้ปรนนิบัติในวิสุทธิสถานและในพลับพลาที่แท้จริง ซึ่งองค์พระผู้เป็นเจ้าทรงตั้งขึ้น มิใช่มนุษย์
+
+**3** เพราะมหาปุโรหิตทุกคนถูกแต่งตั้งให้ถวายของถวายและเครื่องบูชา ฉะนั้นจำเป็นที่ผู้นี้จะต้องมีบางสิ่งจะถวายด้วย
+
+**4** บัดนี้ หากพระองค์ทรงอยู่บนแผ่นดินโลก พระองค์ก็จะมิได้ทรงเป็นปุโรหิตเลย เพราะมีบรรดาผู้ที่ถวายของถวายตามธรรมบัญญัติอยู่แล้ว
+
+**5** พวกเขาปรนนิบัติในแบบจำลองและเงาของสิ่งที่อยู่ในสวรรค์ ดังที่โมเสสได้รับการเตือนเมื่อท่านกำลังจะสร้างพลับพลาให้สำเร็จ พระองค์ตรัสว่า “ดูเถิด เจ้าจงสร้างสิ่งทั้งปวงตามแบบที่ได้สำแดงแก่เจ้าบนภูเขานั้น”
+
+**6** แต่บัดนี้ในความเป็นจริง พระเยซูได้ทรงรับการปรนนิบัติที่ดียิ่งกว่ามาก เท่าที่ทรงเป็นคนกลางแห่งพันธสัญญาที่ดียิ่งกว่า ซึ่งพันธสัญญานั้นได้ถูกสถาปนาขึ้นบนพื้นฐานของพระสัญญาที่ดียิ่งกว่า
+
+**7** เพราะหากพันธสัญญาแรกนั้นเป็นที่ไร้ที่ติแล้ว ก็จะไม่มีการแสวงหาที่สำหรับพันธสัญญาที่สองเลย
+
+**8** เพราะเมื่อพระองค์ทรงตำหนิพวกเขา พระองค์ก็ตรัสว่า “ดูเถิด วันเวลาจะมาถึง องค์พระผู้เป็นเจ้าตรัส เมื่อเราจะทำพันธสัญญาใหม่กับพงศ์พันธุ์อิสราเอลและกับพงศ์พันธุ์ยูดาห์
+
+**9** มิใช่ตามพันธสัญญาที่เราได้ทำกับบรรพบุรุษของพวกเขา ในวันที่เราจับมือพวกเขาเพื่อนำพวกเขาออกจากแผ่นดินอียิปต์ เพราะพวกเขามิได้ดำรงอยู่ในพันธสัญญาของเรา และเราก็มิได้เอาใจใส่พวกเขา องค์พระผู้เป็นเจ้าตรัส
+
+**10** เพราะนี่คือพันธสัญญาที่เราจะทำกับพงศ์พันธุ์อิสราเอลหลังจากวันเหล่านั้น องค์พระผู้เป็นเจ้าตรัส คือเราจะใส่บัญญัติทั้งหลายของเราไว้ในความคิดของพวกเขา และเราจะจารึกบัญญัติเหล่านั้นไว้ในใจของพวกเขา และเราจะเป็นพระเจ้าของพวกเขา และพวกเขาจะเป็นประชากรของเรา
+
+**11** และจะไม่มีอีกแล้วที่ทุกคนจะสอนเพื่อนบ้านของตน หรือทุกคนจะสอนพี่น้องของตน โดยกล่าวว่า ‘จงรู้จักองค์พระผู้เป็นเจ้า’ เพราะทุกคนจะรู้จักเรา ตั้งแต่คนต่ำต้อยที่สุดจนถึงคนยิ่งใหญ่ที่สุดของพวกเขา
+
+**12** เพราะเราจะทรงเมตตาต่อความอธรรมของพวกเขา และเราจะไม่จดจำบาปของพวกเขาอีกเลย”
+
+**13** เมื่อพระเจ้าทรงตรัสว่า “ใหม่” พระองค์ก็ทรงทำให้พันธสัญญาแรกเก่าไปแล้ว และสิ่งที่กำลังเก่าและล่วงเลยลงนั้นก็ใกล้จะสูญสิ้นไป
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -305,4 +335,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/hebrews_05.json` | `6f9073271a914ded6fc5767a4f091a8ee9b8af407c3b00191fbefc899dd81c83` |
 | `output/translations/hebrews_06.json` | `50bc7cf503da15681c75ccceb75afc513646c34d81e3727d831277013e481c2d` |
 | `output/translations/hebrews_07.json` | `66c0c117782b86402e22dada74ada6b21738f205b21ce539eea9a80609c11da8` |
+| `output/translations/hebrews_08.json` | `7af4362eb73c87e52a4ef99569347079ec51da2a505c038cf059f62b62ee2b09` |
 
