@@ -1,0 +1,35 @@
+# OT citation check — hebrews ch. 11
+
+NT-to-OT links found: **29** / 40 verses
+
+## ✅ Acknowledged in verse notes: 29
+
+- **Hebrews 11:3** — GEN 1:1-2:3 (allusion)
+- **Hebrews 11:4** — GEN 4:1-10 (allusion)
+- **Hebrews 11:5** — GEN 5:24 (citation)
+- **Hebrews 11:7** — GEN 6-9 (allusion)
+- **Hebrews 11:8** — GEN 12:1-4 (allusion)
+- **Hebrews 11:9** — GEN 23+GEN 26+GEN 28 (allusion)
+- **Hebrews 11:11** — GEN 17:15-21+GEN 18:9-15+GEN 21:1-7 (allusion)
+- **Hebrews 11:12** — GEN 15:5+GEN 22:17+GEN 32:12 (allusion)
+- **Hebrews 11:13** — GEN 23:4+PSA 39:12 (allusion)
+- **Hebrews 11:17** — GEN 22:1-19 (allusion)
+- **Hebrews 11:18** — GEN 21:12 (citation)
+- **Hebrews 11:19** — GEN 22:5+GEN 22:13 (allusion)
+- **Hebrews 11:20** — GEN 27 (allusion)
+- **Hebrews 11:21** — GEN 47:31 (citation)
+- **Hebrews 11:22** — GEN 50:24-25+EXO 13:19 (allusion)
+- **Hebrews 11:23** — EXO 1:22+EXO 2:1-10 (allusion)
+- **Hebrews 11:24** — EXO 2:10-15 (allusion)
+- **Hebrews 11:27** — EXO 2:14-15+EXO 12-14 (allusion)
+- **Hebrews 11:28** — EXO 12 (allusion)
+- **Hebrews 11:29** — EXO 14 (allusion)
+- **Hebrews 11:30** — JOS 6 (allusion)
+- **Hebrews 11:31** — JOS 2+JOS 6:22-25 (allusion)
+- **Hebrews 11:32** — JDG 4-16+1SA-2SA (allusion)
+- **Hebrews 11:33** — DAN 6+JOS+JDG+1SA-2SA (allusion)
+- **Hebrews 11:34** — DAN 3+1KI+2KI+JOS+JDG (allusion)
+- **Hebrews 11:35** — 1KI 17:17-24+2KI 4:18-37+2MA 6-7 (allusion)
+- **Hebrews 11:36** — JER+1KI 22+general-prophetic (allusion)
+- **Hebrews 11:37** — 2KI 2:13+general-martyr+Asc-Isa-tradition (allusion)
+- **Hebrews 11:38** — 1KI 18-19+2MA 5:27 (allusion)
