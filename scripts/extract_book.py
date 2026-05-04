@@ -174,15 +174,24 @@ def extract(book_code: str, book_name: str, bsb: dict, lemma_counts: dict, chapt
 
 def main():
     parser = argparse.ArgumentParser(description="Extract a book from MACULA + BSB")
-    parser.add_argument("--book", help="3-letter book code (e.g., MRK, 1TI)")
+    parser.add_argument("--book", help="3-letter book code (e.g., MRK, 1TI, GEN, RUT)")
     parser.add_argument("--chapter", type=int, help="Single chapter to extract")
     parser.add_argument("--list", action="store_true", help="List known book codes")
     args = parser.parse_args()
 
     if args.list:
-        print("Known books (code → name):")
+        print("Known NT books (code → name):")
         for code, (name, _) in BOOKS.items():
             print(f"  {code:4s} → {name}")
+        # Also show OT books from extract_book_hebrew, for one-stop discovery
+        try:
+            from extract_book_hebrew import BOOKS as OT_BOOKS  # type: ignore
+            print("\nKnown OT books (delegated to extract_book_hebrew.py):")
+            for code, entry in OT_BOOKS.items():
+                if len(entry) >= 2:
+                    print(f"  {code:4s} → {entry[0]}")
+        except Exception:
+            pass
         return
 
     if not args.book:
@@ -190,6 +199,21 @@ def main():
 
     code = args.book.upper()
     if code not in BOOKS:
+        # Auto-dispatch to extract_book_hebrew.py for OT codes. The loop kickoff
+        # runs `extract_book.py --book <CODE>` regardless of testament; rather
+        # than fail or require the kickoff to know the testament, we delegate
+        # transparently when the code is in the OT BOOKS table.
+        try:
+            from extract_book_hebrew import BOOKS as OT_BOOKS  # type: ignore
+            from extract_book_hebrew import main as ot_main    # type: ignore
+        except Exception:
+            OT_BOOKS = {}
+            ot_main = None
+        if code in OT_BOOKS and ot_main is not None:
+            print(f"[extract_book.py] {code} is an OT book — delegating to "
+                  f"extract_book_hebrew.py.")
+            # Re-invoke the OT main with the same argv (preserves --chapter, etc.).
+            return ot_main()
         print(f"Unknown book code: {code}. Run --list for options.")
         sys.exit(1)
 

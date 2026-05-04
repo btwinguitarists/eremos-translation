@@ -30,7 +30,18 @@ UW_TN_DIR = ROOT / "sources" / "en_tn"
 OUTPUT = ROOT / "output" / "uw_notes"
 
 sys.path.insert(0, str(ROOT / "scripts"))
-from extract_book import BOOKS  # {code: (name, slug)}
+from extract_book import BOOKS as NT_BOOKS  # NT: {code: (name, slug)}
+
+# Merge OT BOOKS so loop kickoff works for OT chapters (Ruth, Jonah, Genesis...).
+# extract_book_hebrew.BOOKS is a 3-tuple (name, slug, file_prefix).
+try:
+    from extract_book_hebrew import BOOKS as _OT_BOOKS_3TUPLE
+    BOOKS = dict(NT_BOOKS)
+    for _code, _entry in _OT_BOOKS_3TUPLE.items():
+        if len(_entry) >= 2:
+            BOOKS[_code] = (_entry[0], _entry[1])
+except ImportError:
+    BOOKS = NT_BOOKS
 
 
 def load_tn(book_code: str, chapter: int) -> tuple[list[dict], dict, dict]:
