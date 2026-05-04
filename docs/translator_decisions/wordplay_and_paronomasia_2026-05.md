@@ -97,7 +97,7 @@ Many OT places are named with theological meaning. Per `proper_names_and_transli
 
 | Place | Meaning footnoted |
 |---|---|
-| `יהוה־יִרְאֶה` (Gen 22:14) | "พระยาห์เวห์ทรงจัดเตรียม" |
+| `יהוה־יִרְאֶה` (Gen 22:14) | "องค์พระผู้เป็นเจ้าทรงจัดเตรียม" |
 | `מַחֲנַיִם` (Gen 32:2) | "สองค่าย" (Jacob seeing two camps of angels) |
 | `פְּנוּאֵל` (Gen 32:30) | "พระพักตร์ของพระเจ้า" (where Jacob saw God face-to-face) |
 | `מְרִיבָה` (Ex 17:7) | "การโต้แย้ง" |
