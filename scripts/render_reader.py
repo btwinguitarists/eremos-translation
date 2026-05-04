@@ -60,6 +60,7 @@ try:
             BOOKS[_code] = (_entry[0], _entry[1])
 except ImportError:
     BOOKS = _NT_BOOKS
+    _OT_BOOKS_3T = {}
 
 # Thai book titles. For each book, the on-page heading shown to readers.
 # Canonical Thai Christian conventions: พระกิตติคุณ for the four Gospels,
@@ -80,7 +81,7 @@ THAI_BOOK_TITLES = {
     "1PE": "1 เปโตร", "2PE": "2 เปโตร",
     "1JN": "1 ยอห์น", "2JN": "2 ยอห์น", "3JN": "3 ยอห์น",
     "JUD": "ยูดา", "REV": "วิวรณ์",
-    # OT (THSV11/TNCV conventions)
+    # OT (THSV11/TNCV conventions) — Phase 6 pilot (Ruth → Jonah → Gen 1-11)
     "GEN": "ปฐมกาล", "EXO": "อพยพ", "LEV": "เลวีนิติ",
     "NUM": "กันดารวิถี", "DEU": "เฉลยธรรมบัญญัติ",
     "JOS": "โยชูวา", "JDG": "ผู้วินิจฉัย", "RUT": "นางรูธ",
@@ -98,7 +99,8 @@ THAI_BOOK_TITLES = {
     "HAG": "ฮักกัย", "ZEC": "เศคาริยาห์", "MAL": "มาลาคี",
 }
 
-SLUG_TO_CODE = {slug: code for code, (_, slug) in BOOKS.items()}
+# BOOKS is already merged NT+OT (per the import block above).
+SLUG_TO_CODE = {entry[1]: code for code, entry in BOOKS.items()}
 
 
 def file_sha256(path: Path) -> str:
@@ -172,6 +174,12 @@ def render_chapter(verses: list[dict], chapter_num: int, variants: list[dict] | 
                 if tr_thai_alt:
                     lines.append(f"> {tr_thai_alt}")
                     lines.append("")
+            elif vtype == "tetragrammaton_convention_first_occurrence":
+                lines.append(f"**ข้อ {verse_num}** — หมายเหตุการแปลพระนามของพระเจ้า")
+                lines.append("")
+            elif vtype.startswith("convention_") or vtype.endswith("_convention"):
+                lines.append(f"**ข้อ {verse_num}** — หมายเหตุการแปล")
+                lines.append("")
             else:
                 tr_thai = var.get("tr_byz_thai", "")
                 lines.append(f"**ข้อ {verse_num}** — ขาดในต้นฉบับวิจารณ์ (SBLGNT)")
@@ -293,6 +301,7 @@ def render_book(book_code: str, *, mode: str = "reader") -> Path | None:
         print(f"  unknown book code: {book_code}", file=sys.stderr)
         return None
     title_en, slug = BOOKS[book_code]
+    is_ot = book_code in _OT_BOOKS_3T
     title_thai = THAI_BOOK_TITLES.get(book_code, title_en)
 
     chapters = chapter_files_for(slug)
@@ -302,11 +311,12 @@ def render_book(book_code: str, *, mode: str = "reader") -> Path | None:
 
     chapter_count = len(chapters)
     chapter_word = "chapter" if chapter_count == 1 else "chapters"
+    source_label = "Masoretic Hebrew text" if is_ot else "SBLGNT Greek text"
     one_line = (
         f"_The Gospel of {title_en} — {chapter_count} {chapter_word}, "
-        f"translated from the SBLGNT Greek text into Thai by the Eremos Translation project._"
+        f"translated from the {source_label} into Thai by the Eremos Translation project._"
         if book_code in {"MAT", "MRK", "LUK", "JHN"}
-        else f"_{title_en} — {chapter_count} {chapter_word}, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._"
+        else f"_{title_en} — {chapter_count} {chapter_word}, translated from the {source_label} into Thai by the Eremos Translation project._"
     )
 
     parts = [

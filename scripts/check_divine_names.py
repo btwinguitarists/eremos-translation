@@ -192,7 +192,9 @@ def has_first_occurrence_footnote(slug: str, chapter: int) -> bool:
 
 def has_yhwh_key_decision(verse: dict) -> bool:
     """Check whether the verse's key_decisions records a YHWH-family form."""
-    kds = verse.get("key_decisions", [])
+    kds = (verse.get("translation") or {}).get("key_decisions", [])
+    if not kds:
+        kds = verse.get("key_decisions", [])  # legacy flat-schema fallback
     if not isinstance(kds, list):
         return False
     for kd in kds:
@@ -222,7 +224,8 @@ def check_verse(verse: dict, slug: str) -> tuple[list[str], list[str]]:
         return hard, warn
 
     hebrew = verse.get(lang, "")
-    thai = verse.get("thai", "")
+    translation = verse.get("translation") or {}
+    thai = translation.get("thai") or verse.get("thai") or ""
 
     # Strip place-name compounds from Thai before applying [F] forbidden check —
     # they legitimately contain ยาห์เวห์ (not พระยาห์เวห์).

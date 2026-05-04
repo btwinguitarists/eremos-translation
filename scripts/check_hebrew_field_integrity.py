@@ -163,7 +163,9 @@ def check_verse(verse: dict, fname: str) -> tuple[list[str], list[str]]:
         )
 
     # [B,C] key_decisions[].hebrew sub-field validation
-    kds = verse.get("key_decisions", [])
+    kds = (verse.get("translation") or {}).get("key_decisions", [])
+    if not kds:
+        kds = verse.get("key_decisions", [])  # legacy flat-schema fallback
     if isinstance(kds, list):
         for i, kd in enumerate(kds):
             if not isinstance(kd, dict):
