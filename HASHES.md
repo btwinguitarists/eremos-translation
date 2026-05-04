@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-05-04 06:56:04 UTC_
-_Total chapters: 250 · Total verses: 7690_
+_Generated: 2026-05-04 07:26:43 UTC_
+_Total chapters: 251 · Total verses: 7706_
 
 ## How to verify a chapter
 
@@ -127,7 +127,8 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/galatians_06.json` | 18 | `c536242ca4c882dcab8ccb39b413ac1da9fbd7aebfae3fcbc0be71f7d8bc08bf` | `4ec829e` |
 | `output/translations/hebrews_01.json` | 14 | `a68eda7d15d03b92bd483a5a8988e68f7d834e2490ae8609297add40abfef112` | `a0015a9` |
 | `output/translations/hebrews_02.json` | 18 | `57b8cc94a17f4afaeaa9605078a8b0a86f75447dd7e8b93e7ce56995e64d1a41` | `3466ae0` |
-| `output/translations/hebrews_03.json` | 19 | `2304367411023a3ebe7fb048eecc1189be931fdc7159c67d6648c9837d789664` | `—` |
+| `output/translations/hebrews_03.json` | 19 | `2304367411023a3ebe7fb048eecc1189be931fdc7159c67d6648c9837d789664` | `a9bee18` |
+| `output/translations/hebrews_04.json` | 16 | `f221e8c2be25bc2718b53ea5c68c4068f10894fc898bc6ef1ca17b41061d19c9` | `—` |
 | `output/translations/james_01.json` | 27 | `d493f72c16a0a05776625567731b705eb0fbc3399685fa95d5e45a888ea670c7` | `8e49de6` |
 | `output/translations/james_02.json` | 26 | `24fe583b63efce3b4e5e23ea02ed30abb45155e80d575ddc0c6bddd201b091ef` | `f009760` |
 | `output/translations/james_03.json` | 18 | `3808eccaa5550cc2fda97cd0dce2538331998823e416bf1c48ab042c3ba969d6` | `1138247` |
