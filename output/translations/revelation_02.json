@@ -186,7 +186,7 @@
     "greek": "Οἶδά σου τὴν θλῖψιν καὶ τὴν πτωχείαν,ἀλλὰ πλούσιος εἶ,καὶ τὴν βλασφημίαν ἐκ τῶν λεγόντων Ἰουδαίους εἶναι ἑαυτούς,καὶ οὐκ εἰσίν,ἀλλὰ συναγωγὴ τοῦ Σατανᾶ.",
     "bsb_english": "I know your affliction and your poverty—though you are rich! And I am aware of the slander of those who falsely claim to be Jews, but are in fact a synagogue of Satan.",
     "translation": {
-      "thai": "เรารู้ถึงการทนทุกข์และความยากจนของเจ้า — แต่เจ้าก็มั่งคั่ง — และเรารู้ถึงคำหมิ่นประมาทของพวกที่อ้างตัวเป็นยิว ซึ่งไม่ใช่ แต่เป็นธรรมศาลาของซาตาน",
+      "thai": "เรารู้ถึงการทนทุกข์และความยากจนของเจ้า — แต่เจ้าก็มั่งคั่ง — และเรารู้ถึงคำหมิ่นประมาทของพวกที่อ้างตัวเป็นชาวยิว ซึ่งไม่ใช่ แต่เป็นธรรมศาลาของซาตาน",
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
@@ -199,9 +199,14 @@
           "greek": "συναγωγὴ τοῦ Σατανᾶ",
           "thai": "ธรรมศาลาของซาตาน",
           "rationale": "συναγωγή → ธรรมศาลา corpus-precedent. Σατανᾶς → ซาตาน corpus-locked. Per uW: ‘synagogue-of-Satan’ refers to Jewish-opponents who-persecute-the-church (NOT all-Jews; specifically those-who-deny-Jesus-as-Messiah and slander-the-Christians); paralleled at 3:9. Sensitive-rendering preserves the Greek-text without ‘Christian-anti-Semitism’ implication."
+        },
+        {
+          "greek": "τῶν λεγόντων Ἰουδαίους εἶναι ἑαυτούς",
+          "thai": "พวกที่อ้างตัวเป็นชาวยิว",
+          "rationale": "Ἰουδαίους → ชาวยิว (ethnic-neutral form). The Greek-rhetoric requires the title to-read-as-honorable in-the-claim-context: opponents are falsely claiming a NOBLE covenantal-status (‘say they are Jews and are not’). The compressed-pejorative-form ยิว would-break this-logic — opponents do-not boastfully claim a derogatory-title. Externally-reviewed 2026-05-04 (ChatGPT + Gemini both flagged MAJOR-CONCERN on prior ยิว reading; both-recommended ชาวยิว spot-revision). Departs-from the JHN-audit Passion-narrative compressed-form ยิว — Revelation's seven-churches polemic is local-Smyrna-historical, NOT the Jerusalem-Passion register. See docs/translator_decisions/ioudaioi_johannine_2026-04.md (TBD) for canonical-corpus-doc."
         }
       ],
-      "notes": "Paradox: poor-but-rich. ‘Synagogue of Satan’ refers to local-Jewish-opponents who-slander-the-Christians (per uW: NOT a generic-anti-Semitic statement; specifically those-rejecting-Jesus-as-Messiah)."
+      "notes": "Paradox: poor-but-rich. ‘Synagogue of Satan’ refers to local-Jewish-opponents who-slander-the-Christians (per uW: NOT a generic-anti-Semitic statement; specifically those-rejecting-Jesus-as-Messiah). External review 2026-05-04 (ChatGPT + Gemini consensus): Ἰουδαίους → ชาวยิว (ethnic-neutral) instead of the JHN-audit compressed-form ยิว, to preserve the Greek's ‘opponents falsely claim NOBLE covenantal-status’ rhetorical-logic."
     }
   },
   {
