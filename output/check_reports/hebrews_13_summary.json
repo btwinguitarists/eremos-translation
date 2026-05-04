@@ -1,0 +1,69 @@
+{
+  "book": "hebrews",
+  "chapter": 13,
+  "checks": [
+    {
+      "name": "Key-term consistency",
+      "exit_code": 0,
+      "report": "key_term_consistency_hebrews_13.md",
+      "notes": "",
+      "status": "clean"
+    },
+    {
+      "name": "TNBT structural comparison",
+      "exit_code": 0,
+      "report": "tnbt_comparison_hebrews_13.md",
+      "notes": "",
+      "status": "clean"
+    },
+    {
+      "name": "OT citation acknowledgment",
+      "exit_code": 0,
+      "report": "ot_citations_hebrews_13.md",
+      "notes": "",
+      "status": "clean"
+    },
+    {
+      "name": "Synoptic parallels",
+      "exit_code": 0,
+      "report": "parallel_passages.md",
+      "notes": "",
+      "status": "clean"
+    },
+    {
+      "name": "Back-translation",
+      "exit_code": 0,
+      "report": "back_translation_hebrews_13.md",
+      "notes": "",
+      "status": "clean"
+    },
+    {
+      "name": "Thai-summary coverage (info)",
+      "exit_code": 0,
+      "report": "summary_coverage_hebrews_13.md",
+      "notes": "informational only — not a ship gate",
+      "status": "clean"
+    },
+    {
+      "name": "Claim consistency (hallucination)",
+      "exit_code": 0,
+      "report": "claim_consistency_hebrews_13.md",
+      "notes": "",
+      "status": "clean"
+    },
+    {
+      "name": "Greek-field integrity",
+      "exit_code": 0,
+      "report": "greek_field_integrity_hebrews_13.md",
+      "notes": "",
+      "status": "clean"
+    },
+    {
+      "name": "Phrase consistency (corpus-wide)",
+      "exit_code": 0,
+      "report": "phrase_consistency.md",
+      "notes": "",
+      "status": "clean"
+    }
+  ]
+}
