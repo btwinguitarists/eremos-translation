@@ -33,7 +33,7 @@ The "my son, listen..." voice of Proverbs, Ecclesiastes, parts of Job, the intro
 The "Thus says YHWH" voice — Isaiah, Jeremiah, Ezekiel, the Twelve.
 
 - **Verb register:** ราชาศัพท์ (royal Thai) for divine speech, since YHWH is the speaker.
-- **Quotative formula:** **`พระยาห์เวห์ตรัสดังนี้ว่า`** locked per `hebrew_idioms_and_metaphor_2026-05.md` §5.3.
+- **Quotative formula:** **`องค์พระผู้เป็นเจ้าตรัสดังนี้ว่า`** locked per `hebrew_idioms_and_metaphor_2026-05.md` §5.3.
 - **Direct-address vocative:** YHWH addresses Israel as second-person collective — **"เจ้า / เหล่าเจ้า / พวกเจ้า"** (forceful 2nd-person collective; matches Hebrew `אַתָּה` / `אַתֶּם`).
 - **Contrast pivot register:** prophetic oracles often pivot from judgment to salvation; the Thai must mark the pivot. Use **"แต่ในวันนั้น... / แต่หลังจากนั้น..."** for shift-markers.
 
@@ -53,7 +53,7 @@ When kings speak — David in Samuel-Psalms, Solomon in Kings, foreign kings (Ph
 The "I" voice of personal psalms (3, 13, 22, 51, 88), Job's speeches, Lamentations 3, Jeremiah's confessions (Jer 11:18-23, 12:1-6, 15:10-21, 17:14-18, 18:18-23, 20:7-18).
 
 - **First-person:** **ข้าพเจ้า** (Ben default; matches NT corpus precedent for Pauline-style first-person prayer).
-- **Vocative to God:** **`ข้าแต่พระยาห์เวห์`** (deferential vocative + Tetragrammaton).
+- **Vocative to God:** **`ข้าแต่องค์พระผู้เป็นเจ้า`** (deferential vocative + Tetragrammaton).
 - **Question-as-protest:** preserve the questioning rhetoric. Hebrew laments have many unanswered "Why?" / "How long?" — render as Thai questions; do not paraphrase the protest into resolution.
 
 ---
@@ -83,14 +83,14 @@ The OT is **dominated by earthly monarchs**: ~40 kings of Israel + Judah, the pa
 
 ### 2.3 Special case: the Tabernacle / Temple
 
-The cultic spaces are addressed with deferential-honorific Thai (**พระวิหาร**, **พระนิเวศของพระยาห์เวห์**), and the cultic objects with elevated terms (**หีบพันธสัญญา**, **โต๊ะขนมปังแห่งการทรงสถิต**). This is sub-Rachasap (the register is "sacred/cultic," not "royal-of-king"), but it parallels the same elevated-vocabulary impulse.
+The cultic spaces are addressed with deferential-honorific Thai (**พระวิหาร**, **พระนิเวศขององค์พระผู้เป็นเจ้า**), and the cultic objects with elevated terms (**หีบพันธสัญญา**, **โต๊ะขนมปังแห่งการทรงสถิต**). This is sub-Rachasap (the register is "sacred/cultic," not "royal-of-king"), but it parallels the same elevated-vocabulary impulse.
 
 ### 2.4 Special case: divine warrior / theophany
 
 When YHWH appears as warrior (Ex 15, Hab 3, Pss 18/29/68/97), the verb register is full Rachasap PLUS the imagery is preserved in elevated Thai poetic vocabulary:
 
-- `יהוה אִישׁ מִלְחָמָה` (Ex 15:3) → **พระยาห์เวห์ทรงเป็นนักรบ / พระยาห์เวห์ทรงเป็นจอมทัพ**
-- `יָצָא יהוה כְּגִבּוֹר` → **พระยาห์เวห์เสด็จออกมาดังวีรบุรุษ**
+- `יהוה אִישׁ מִלְחָמָה` (Ex 15:3) → **องค์พระผู้เป็นเจ้าทรงเป็นนักรบ / องค์พระผู้เป็นเจ้าทรงเป็นจอมทัพ**
+- `יָצָא יהוה כְּגִבּוֹר` → **องค์พระผู้เป็นเจ้าเสด็จออกมาดังวีรบุรุษ**
 
 Don't soften the warrior imagery. Hebrew theophany rhetoric is distinctive and translatable into Thai elevated-poetic register.
 
@@ -103,7 +103,7 @@ Don't soften the warrior imagery. Hebrew theophany rhetoric is distinctive and t
 Per NT corpus (`adversary_speech_register_2026-05.md`): adversaries speak in plain register, with no honorific-deference applied. Apply the same OT-side.
 
 - **Serpent in Gen 3:** plain verbs (พูด, ถาม, กล่าว); no honorific. The serpent's deception is rhetorically smooth but registerially low.
-- **The satan in Job 1-2:** plain verbs (ตอบ, กล่าว). The satan addresses YHWH deferentially (**ข้าแต่พระยาห์เวห์ / องค์เจ้านาย**) but the narrator doesn't grant the satan honorifics.
+- **The satan in Job 1-2:** plain verbs (ตอบ, กล่าว). The satan addresses YHWH deferentially (**ข้าแต่องค์พระผู้เป็นเจ้า / องค์เจ้านาย**) but the narrator doesn't grant the satan honorifics.
 - **Lying spirit in 1 Kgs 22:** plain verbs.
 - **Pagan deities mentioned by name (Baal, Asherah, Marduk, Bel, Dagon, Chemosh, Milcom, Tammuz):** Use ethnic/proper-noun + เทพ for foreign deity (matches NT precedent per `pagan_deity_register_2026-05.md` lock at Acts 17). Examples:
   - `הַבַּעַל` → **พระบาอัล / เทพบาอัล** (not "พระเจ้าบาอัล" — wall off พระเจ้า for YHWH)
@@ -114,7 +114,7 @@ Per NT corpus (`adversary_speech_register_2026-05.md`): adversaries speak in pla
 
 Hebrew uses `עָבַד` (serve) for both Israel's worship of YHWH and idolatry-of-foreign-deity. The Thai must distinguish:
 
-- `עָבַד אֶת־יהוה` → **ปรนนิบัติพระยาห์เวห์ / นมัสการพระยาห์เวห์** (covenantal-cultic register)
+- `עָבַד אֶת־יהוה` → **ปรนนิบัติองค์พระผู้เป็นเจ้า / นมัสการองค์พระผู้เป็นเจ้า** (covenantal-cultic register)
 - `עָבַד אֶת־הַבַּעַל` → **ปรนนิบัติพระบาอัล / นับถือพระบาอัล** (idolatrous-foreign register; do NOT use นมัสการ which is the worship-of-true-God term)
 
 ---
@@ -141,7 +141,7 @@ Acrostics (Pss 9/10, 25, 34, 37, 111, 112, 119, 145; Lam 1-4; Prov 31:10-31; Nah
 ```
 א
 ความสุขย่อมเป็นของผู้ที่...
-ข้าพเจ้าจะสรรเสริญพระยาห์เวห์...
+ข้าพเจ้าจะสรรเสริญองค์พระผู้เป็นเจ้า...
 ב
 ...
 ```
