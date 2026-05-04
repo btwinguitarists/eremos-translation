@@ -26,9 +26,21 @@ TRANSLATIONS = ROOT / "output" / "translations"
 ORDER_FILE = ROOT / "data" / "production_order.json"
 
 sys.path.insert(0, str(ROOT / "scripts"))
-from extract_book import BOOKS
+from extract_book import BOOKS  # NT: code → (name, slug)
 
-SLUG_TO_CODE = {slug: code for code, (_, slug) in BOOKS.items()}
+# OT books (extract_book_hebrew BOOKS = code → (name, slug, file_prefix))
+try:
+    from extract_book_hebrew import BOOKS as OT_BOOKS
+except ImportError:
+    OT_BOOKS = {}
+
+# Build merged code → (name, slug) — strip the OT file_prefix tuple element
+ALL_BOOKS = dict(BOOKS)
+for code, entry in OT_BOOKS.items():
+    if len(entry) >= 2:
+        ALL_BOOKS[code] = (entry[0], entry[1])
+
+SLUG_TO_CODE = {slug: code for code, (_, slug) in ALL_BOOKS.items()}
 FILENAME_RE = re.compile(r"^(?P<slug>[a-z0-9]+)_(?P<chapter>\d{2})\.json$")
 
 
@@ -76,25 +88,25 @@ def status_report(done: set, order: list) -> str:
     lines = [
         f"=== Eremos Translation — production progress ===",
         f"",
-        f"Total NT chapters in order:  {total}",
-        f"Chapters translated:         {done_total}  ({pct:.1f}% of NT)",
+        f"Total chapters in order:     {total}",
+        f"Chapters translated:         {done_total}  ({pct:.1f}% of full canon)",
         f"",
         f"Per-book progress:",
     ]
     for book, chapters in by_book.items():
         book_done = sum(1 for ch in chapters if (book, ch) in done)
-        if book_done > 0 or book == "MRK":
-            book_name = BOOKS[book][0]
+        if book_done > 0 or book == "MRK" or book == "RUT":
+            book_name = ALL_BOOKS[book][0]
             lines.append(f"  {book_name:20s} {book_done:3d}/{len(chapters):3d}")
 
     nxt = find_next(done, order)
     if nxt:
-        book_name = BOOKS[nxt["book"]][0]
+        book_name = ALL_BOOKS[nxt["book"]][0]
         lines.append("")
         lines.append(f"Next chapter:  {book_name} {nxt['chapter']}  ({nxt['phase']})")
     else:
         lines.append("")
-        lines.append("All NT chapters in the production order are translated.")
+        lines.append("All chapters in the production order are translated.")
 
     return "\n".join(lines)
 
@@ -121,7 +133,7 @@ def main():
     if args.json:
         print(json.dumps(nxt))
     elif args.pretty:
-        book_name = BOOKS[nxt["book"]][0]
+        book_name = ALL_BOOKS[nxt["book"]][0]
         print(f"{book_name} {nxt['chapter']}  ({nxt['phase']})")
     else:
         print(f"{nxt['book']} {nxt['chapter']}")
