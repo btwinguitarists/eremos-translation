@@ -59,7 +59,7 @@ When a verse turns on aspectual choice (e.g., Gen 2:5 "had not yet rained" — q
 
 Hebrew construct chains link nouns in possessive/relational sequences without `of`. Examples:
 
-- `דְּבַר־יהוה` — "word-of-YHWH" → **พระวจนะของพระยาห์เวห์** (default genitive `ของ`) or **พระดำรัสแห่งพระยาห์เวห์** (formal-register `แห่ง`)
+- `דְּבַר־יהוה` — "word-of-YHWH" → **พระวจนะขององค์พระผู้เป็นเจ้า** (default genitive `ของ`) or **พระดำรัสแห่งองค์พระผู้เป็นเจ้า** (formal-register `แห่ง`)
 - `אִישׁ אֱלֹהִים` — "man-of-God" → **คนของพระเจ้า** (plain) or **บุรุษแห่งพระเจ้า** (elevated)
 - `בֵּית אָבִיו` — "house-of-his-father" → **บ้านบิดาของเขา / บ้านของบิดา**
 
@@ -72,18 +72,18 @@ Thai has two main genitive connectives:
 
 **Default:** `ของ` for plain narrative, biographical, and most everyday constructs. Switch to `แห่ง` when:
 
-- The phrase is a **fixed title** (e.g., `יְהוָה צְבָאוֹת` "YHWH of hosts" → already renders as compound `พระยาห์เวห์จอมโยธา` so the construct is absorbed).
-- The phrase is a **liturgical/cultic formula** ("the day of the LORD" — `יוֹם יְהוָה` → already locked at NT side as `วันแห่งองค์พระผู้เป็นเจ้า`; OT will use `วันแห่งพระยาห์เวห์`).
+- The phrase is a **fixed title** (e.g., `יְהוָה צְבָאוֹת` "YHWH of hosts" → already renders as compound `องค์พระผู้เป็นเจ้าจอมโยธา` so the construct is absorbed).
+- The phrase is a **liturgical/cultic formula** ("the day of the LORD" — `יוֹם יְהוָה` → `วันแห่งองค์พระผู้เป็นเจ้า`, identical to the NT-shipped rendering at 1 Th 5:2 etc.).
 - The phrase introduces an **abstract genitive** ("the holiness of God" — `קְדוּשַׁת אֱלֹהִים` → **ความบริสุทธิ์แห่งพระเจ้า**).
 
 Either is acceptable in most cases; the translator chooses by ear.
 
 ### 2.2 Long chains (3+ nouns)
 
-Hebrew can chain 3-4 nouns: `כְּלִי בֵית יהוה` — "vessels-of-house-of-YHWH" → **ภาชนะของพระวิหารของพระยาห์เวห์**. In Thai, repeated `ของ` is acceptable; consider breaking the chain with structure:
+Hebrew can chain 3-4 nouns: `כְּלִי בֵית יהוה` — "vessels-of-house-of-YHWH" → **ภาชนะของพระวิหารขององค์พระผู้เป็นเจ้า**. In Thai, repeated `ของ` is acceptable; consider breaking the chain with structure:
 
-- **ภาชนะแห่งพระวิหารของพระยาห์เวห์** (mix `แห่ง` + `ของ` to vary register)
-- **ภาชนะที่อยู่ในพระวิหารของพระยาห์เวห์** (paraphrase with a relative clause)
+- **ภาชนะแห่งพระวิหารขององค์พระผู้เป็นเจ้า** (mix `แห่ง` + `ของ` to vary register)
+- **ภาชนะที่อยู่ในพระวิหารขององค์พระผู้เป็นเจ้า** (paraphrase with a relative clause)
 
 Decision per-verse based on Thai naturalness.
 
@@ -155,7 +155,7 @@ Hebrew distinguishes:
 Stative verbs in Hebrew often translate to **adjective + copula** in Thai:
 
 - `זָקֵן` (he was old) → **เขาแก่ชรา / เขาเป็นชรา**
-- `כְּבוֹד יהוה כָּבֵד` (the glory of YHWH was heavy) → **พระสิริของพระยาห์เวห์หนักมาก** (use Thai adjectival construction)
+- `כְּבוֹד יהוה כָּבֵד` (the glory of YHWH was heavy) → **พระสิริขององค์พระผู้เป็นเจ้าหนักมาก** (use Thai adjectival construction)
 - `קָדוֹשׁ אַתָּה` (you are holy) → **พระองค์ทรงบริสุทธิ์**
 
 Don't force stative Hebrew verbs into Thai action-verb constructions; this misreads the aspectual force.

@@ -64,7 +64,7 @@ Forcing single-rendering on these creates false consistency that misrepresents t
     },
     {
       "when": "Spirit of God / Holy Spirit (רוּחַ יהוה / רוּחַ אֱלֹהִים / רוּחַ קֹדֶשׁ)",
-      "prefer": "พระวิญญาณ / พระวิญญาณของพระยาห์เวห์ / พระวิญญาณบริสุทธิ์",
+      "prefer": "พระวิญญาณ / พระวิญญาณขององค์พระผู้เป็นเจ้า / พระวิญญาณบริสุทธิ์",
       "examples": ["GEN 1:2", "JDG 3:10", "PSA 51:11", "JOL 3:1"],
       "rationale": "Locks divine-Spirit to ราชาศัพท์ พระวิญญาณ; matches NT corpus rendering of πνεῦμα"
     },
@@ -204,7 +204,7 @@ Per plan §10: pre-seed ~150 high-frequency Hebrew lemmas with full semantic-dom
 
 ## 6. The cross-corpus problem (NT-OT alignment)
 
-Some Hebrew lemmas have direct Greek equivalents in the NT-corpus glossary that translate to the same Thai. Others have **divergent Thai renderings** between NT and OT — and that's by design (e.g., the Tetragrammaton: OT `יהוה → พระยาห์เวห์`; NT `κύριος → องค์พระผู้เป็นเจ้า`).
+Most Hebrew lemmas have direct Greek equivalents in the NT-corpus glossary that translate to the same Thai. The Tetragrammaton specifically aligns by design (per the 2026-05-04 third-revision lock): OT `יהוה → องค์พระผู้เป็นเจ้า` matches NT `κύριος → องค์พระผู้เป็นเจ้า`, with per-verse `key_decisions` capturing the underlying Hebrew form for transparency.
 
 The `cross_language_links` field tracks these:
 
