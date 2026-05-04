@@ -49,12 +49,23 @@ FEEDBACK_DIR = ROOT / "output" / "feedback"
 MODES = ("reader", "plain", "feedback")
 
 sys.path.insert(0, str(ROOT / "scripts"))
-from extract_book import BOOKS  # noqa: E402
+from extract_book import BOOKS as _NT_BOOKS  # noqa: E402
+
+# Merge OT books so render_reader handles OT chapter rendering once OT pilot ships.
+try:
+    from extract_book_hebrew import BOOKS as _OT_BOOKS_3T  # noqa: E402
+    BOOKS = dict(_NT_BOOKS)
+    for _code, _entry in _OT_BOOKS_3T.items():
+        if len(_entry) >= 2:
+            BOOKS[_code] = (_entry[0], _entry[1])
+except ImportError:
+    BOOKS = _NT_BOOKS
 
 # Thai book titles. For each book, the on-page heading shown to readers.
 # Canonical Thai Christian conventions: พระกิตติคุณ for the four Gospels,
 # กิจการของอัครทูต for Acts, individual book names otherwise.
 THAI_BOOK_TITLES = {
+    # NT
     "MAT": "พระกิตติคุณตามมัทธิว",
     "MRK": "พระกิตติคุณตามมาระโก",
     "LUK": "พระกิตติคุณตามลูกา",
@@ -69,6 +80,22 @@ THAI_BOOK_TITLES = {
     "1PE": "1 เปโตร", "2PE": "2 เปโตร",
     "1JN": "1 ยอห์น", "2JN": "2 ยอห์น", "3JN": "3 ยอห์น",
     "JUD": "ยูดา", "REV": "วิวรณ์",
+    # OT (THSV11/TNCV conventions)
+    "GEN": "ปฐมกาล", "EXO": "อพยพ", "LEV": "เลวีนิติ",
+    "NUM": "กันดารวิถี", "DEU": "เฉลยธรรมบัญญัติ",
+    "JOS": "โยชูวา", "JDG": "ผู้วินิจฉัย", "RUT": "นางรูธ",
+    "1SA": "1 ซามูเอล", "2SA": "2 ซามูเอล",
+    "1KI": "1 พงศ์กษัตริย์", "2KI": "2 พงศ์กษัตริย์",
+    "1CH": "1 พงศาวดาร", "2CH": "2 พงศาวดาร",
+    "EZR": "เอสรา", "NEH": "เนหะมีย์", "EST": "เอสเธอร์",
+    "JOB": "โยบ", "PSA": "สดุดี", "PRO": "สุภาษิต",
+    "ECC": "ปัญญาจารย์", "SNG": "เพลงซาโลมอน",
+    "ISA": "อิสยาห์", "JER": "เยเรมีย์", "LAM": "เพลงคร่ำครวญ",
+    "EZK": "เอเสเคียล", "DAN": "ดาเนียล",
+    "HOS": "โฮเชยา", "JOL": "โยเอล", "AMO": "อาโมส",
+    "OBA": "โอบาดีห์", "JON": "โยนาห์", "MIC": "มีคาห์",
+    "NAM": "นาฮูม", "HAB": "ฮาบากุก", "ZEP": "เศฟันยาห์",
+    "HAG": "ฮักกัย", "ZEC": "เศคาริยาห์", "MAL": "มาลาคี",
 }
 
 SLUG_TO_CODE = {slug: code for code, (_, slug) in BOOKS.items()}
