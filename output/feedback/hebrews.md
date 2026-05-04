@@ -1,6 +1,6 @@
 # ฮีบรู
 
-_Hebrews — 4 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
+_Hebrews — 5 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
 
 _This **feedback edition** is the plain Thai translation with a `>` placeholder block under each verse for reviewer comments. **See the instructions immediately below before reading.** For the annotated edition (with contextual summaries), see `output/reader/hebrews.md`; for the verses-only edition (no comment blocks), see `output/plain/hebrews.md`._
 
@@ -312,6 +312,66 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 ---
 
+## บทที่ 5
+
+**1** เพราะว่ามหาปุโรหิตทุกคนซึ่งถูกเลือกจากในหมู่มนุษย์ ก็ถูกแต่งตั้งขึ้นเพื่อมนุษย์ในกิจการที่เกี่ยวกับพระเจ้า เพื่อจะถวายของถวายและเครื่องบูชาเพื่อบาป
+
+> ___
+
+**2** ผู้สามารถปฏิบัติด้วยความอ่อนโยนต่อคนเขลาและคนหลงผิด เพราะตัวเขาเองก็ถูกห่อหุ้มด้วยความอ่อนแอ
+
+> ___
+
+**3** เพราะเหตุนั้น เขาจึงต้องถวายเครื่องบูชาเพื่อบาปของตัวเอง เช่นเดียวกับที่ถวายเพื่อประชาชน
+
+> ___
+
+**4** และไม่มีผู้ใดรับเกียรตินี้ด้วยตนเอง แต่ผู้ที่พระเจ้าทรงเรียก เช่นเดียวกับที่ทรงเรียกอาโรน
+
+> ___
+
+**5** เช่นเดียวกัน พระคริสต์ก็มิได้ทรงเชิดชูพระองค์เองที่จะเป็นมหาปุโรหิต แต่พระองค์ผู้ตรัสกับพระบุตรว่า “เจ้าเป็นบุตรของเรา วันนี้เราได้ให้กำเนิดเจ้า”
+
+> ___
+
+**6** และในข้ออื่นพระเจ้าตรัสว่า “เจ้าเป็นปุโรหิตตลอดไปเป็นนิตย์ ตามแบบของเมลคีเซเดค”
+
+> ___
+
+**7** ในวันแห่งเนื้อหนังของพระองค์ พระองค์ได้ทรงถวายคำอธิษฐานและคำวิงวอน ต่อผู้ที่สามารถช่วยพระองค์จากความตาย ด้วยเสียงร้องอันดังและด้วยน้ำตา และทรงได้รับการสดับฟังเพราะความยำเกรง
+
+> ___
+
+**8** ถึงแม้ว่าทรงเป็นพระบุตร พระองค์ก็ทรงเรียนรู้การเชื่อฟังจากสิ่งที่ได้ทรงทนทุกข์ทรมาน
+
+> ___
+
+**9** และเมื่อพระองค์ทรงบรรลุความสมบูรณ์แล้ว พระองค์ก็ทรงเป็นบ่อเกิดแห่งความรอดนิรันดร์สำหรับทุกคนที่เชื่อฟังพระองค์
+
+> ___
+
+**10** พระเจ้าทรงประกาศพระนามของพระองค์ว่าเป็นมหาปุโรหิตตามแบบของเมลคีเซเดค
+
+> ___
+
+**11** เรามีเรื่องมากมายที่จะกล่าวเกี่ยวกับเรื่องนี้ และยากที่จะอธิบาย เพราะท่านทั้งหลายได้กลายเป็นคนหูหนักในการฟัง
+
+> ___
+
+**12** เพราะตามเวลาที่ผ่านไป ท่านทั้งหลายควรจะเป็นครูได้แล้ว แต่ท่านยังต้องให้ผู้อื่นสอนหลักเบื้องต้นแห่งพระวจนะของพระเจ้าแก่ท่านอีก และท่านได้กลายเป็นผู้ที่ต้องการน้ำนม ไม่ใช่อาหารแข็ง
+
+> ___
+
+**13** เพราะทุกคนที่ยังต้องดื่มน้ำนมก็ยังไม่มีประสบการณ์ในถ้อยคำแห่งความชอบธรรม เพราะเขายังเป็นทารก
+
+> ___
+
+**14** แต่อาหารแข็งสำหรับผู้ใหญ่ ผู้ซึ่งโดยความเคยชินได้ฝึกประสาทสัมผัสของตนให้แยกแยะระหว่างความดีกับความชั่ว
+
+> ___
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -322,4 +382,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/hebrews_02.json` | `57b8cc94a17f4afaeaa9605078a8b0a86f75447dd7e8b93e7ce56995e64d1a41` |
 | `output/translations/hebrews_03.json` | `2304367411023a3ebe7fb048eecc1189be931fdc7159c67d6648c9837d789664` |
 | `output/translations/hebrews_04.json` | `f221e8c2be25bc2718b53ea5c68c4068f10894fc898bc6ef1ca17b41061d19c9` |
+| `output/translations/hebrews_05.json` | `6f9073271a914ded6fc5767a4f091a8ee9b8af407c3b00191fbefc899dd81c83` |
 
