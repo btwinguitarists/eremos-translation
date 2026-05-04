@@ -32,6 +32,13 @@ SCRIPTS = ROOT / "scripts"
 TRANSLATIONS = ROOT / "output" / "translations"
 REPORTS = ROOT / "output" / "check_reports"
 
+# ─── OT pipeline feature flag ─────────────────────────────────────────────────
+# Per the OT-rollout plan §9.5 + §19. NT close confirmed (260/260 NT chapters
+# shipped 2026-05-04, including HEB 13/13 + REV 22/22). NT regression smoke-test
+# passed. Flag flipped to default ON. Set OT_PIPELINE_ENABLED=false in env to
+# revert to NT-only behavior (e.g., for emergency NT-pipeline isolation).
+OT_PIPELINE_ENABLED = os.environ.get("OT_PIPELINE_ENABLED", "true").lower() in ("1", "true", "yes")
+
 CODE_TO_SLUG = {
     "MAT": "matthew", "MRK": "mark", "LUK": "luke", "JHN": "john",
     "ACT": "acts", "ROM": "romans", "1CO": "1corinthians", "2CO": "2corinthians",
@@ -40,6 +47,19 @@ CODE_TO_SLUG = {
     "TIT": "titus", "PHM": "philemon", "HEB": "hebrews", "JAS": "james",
     "1PE": "1peter", "2PE": "2peter", "1JN": "1john", "2JN": "2john",
     "3JN": "3john", "JUD": "jude", "REV": "revelation",
+}
+
+OT_CODE_TO_SLUG = {
+    "GEN": "genesis", "EXO": "exodus", "LEV": "leviticus", "NUM": "numbers",
+    "DEU": "deuteronomy", "JOS": "joshua", "JDG": "judges", "RUT": "ruth",
+    "1SA": "1samuel", "2SA": "2samuel", "1KI": "1kings", "2KI": "2kings",
+    "1CH": "1chronicles", "2CH": "2chronicles", "EZR": "ezra", "NEH": "nehemiah",
+    "EST": "esther", "JOB": "job", "PSA": "psalms", "PRO": "proverbs",
+    "ECC": "ecclesiastes", "SNG": "songofsongs", "ISA": "isaiah", "JER": "jeremiah",
+    "LAM": "lamentations", "EZK": "ezekiel", "DAN": "daniel", "HOS": "hosea",
+    "JOL": "joel", "AMO": "amos", "OBA": "obadiah", "JON": "jonah",
+    "MIC": "micah", "NAM": "nahum", "HAB": "habakkuk", "ZEP": "zephaniah",
+    "HAG": "haggai", "ZEC": "zechariah", "MAL": "malachi",
 }
 
 
@@ -53,7 +73,186 @@ def resolve_book_slug(book_arg: str) -> str:
     up = book_arg.upper()
     if up in CODE_TO_SLUG:
         return CODE_TO_SLUG[up]
+    if up in OT_CODE_TO_SLUG:
+        return OT_CODE_TO_SLUG[up]
     return book_arg.lower()
+
+
+def detect_chapter_language(slug: str, chapter: int) -> str:
+    """Determine the source-language path: 'greek' / 'hebrew' / 'aramaic'.
+
+    Resolution order:
+      1. Source extract `output/<slug>/<slug>_<NN>.json` (extract_book_hebrew.py
+         emits `language: "hebrew"|"aramaic"` per verse). Take the first verse's
+         language as the chapter's language.
+      2. Slug → NT/OT mapping (NT slugs always 'greek').
+      3. Default 'greek' (NT pipeline) — preserves backward compat for
+         pre-OT chapters.
+    """
+    src = ROOT / "output" / slug / f"{slug}_{chapter:02d}.json"
+    if src.exists():
+        try:
+            data = json.loads(src.read_text(encoding="utf-8"))
+            if data and isinstance(data, list):
+                lang = data[0].get("language")
+                if lang in ("hebrew", "aramaic"):
+                    return lang
+        except Exception:
+            pass
+    if slug in OT_CODE_TO_SLUG.values():
+        return "hebrew"  # default OT-language guess if no extract
+    return "greek"
+
+
+def run_nt_checks(slug: str, chapter: int, args, summary: dict, record) -> None:
+    """The original 9-step NT pipeline. Behavior unchanged from the pre-OT-rollout
+    version of this script — preserved verbatim under a function so the OT branch
+    can be added without touching the NT code path.
+    """
+    print(f"\n=== Running NT checks on {slug} ch. {chapter} ===\n")
+
+    # 1. Rebuild glossary & run key-term consistency
+    print("[1/9] Key-term consistency...")
+    run([sys.executable, str(SCRIPTS / "build_glossary.py")])
+    code, _ = run([sys.executable, str(SCRIPTS / "check_key_term_consistency.py"),
+                   "--book", slug, "--chapter", str(chapter)])
+    record("Key-term consistency", code, f"key_term_consistency_{slug}_{chapter:02d}.md")
+
+    # 2. TNBT structural comparison
+    print("[2/9] TNBT structural comparison...")
+    code, _ = run([sys.executable, str(SCRIPTS / "check_against_tnbt.py"),
+                   "--book", slug, "--chapter", str(chapter)])
+    record("TNBT structural comparison", code, f"tnbt_comparison_{slug}_{chapter:02d}.md")
+
+    # 3. OT citation check
+    print("[3/9] OT citation check...")
+    code, _ = run([sys.executable, str(SCRIPTS / "check_ot_citations.py"),
+                   "--book", slug, "--chapter", str(chapter)])
+    record("OT citation acknowledgment", code, f"ot_citations_{slug}_{chapter:02d}.md")
+
+    # 4. Parallel-passage check
+    print("[4/9] Synoptic parallel-passage check...")
+    code, _ = run([sys.executable, str(SCRIPTS / "check_parallel_passages.py")])
+    record("Synoptic parallels", code, "parallel_passages.md")
+
+    # 5. Back-translation
+    if args.skip_back_translation:
+        print("[5/9] Back-translation — skipped per flag")
+        record("Back-translation", 0, "(skipped)", "skipped via --skip-back-translation")
+    else:
+        print("[5/9] Back-translation...")
+        code, out = run([sys.executable, str(SCRIPTS / "check_back_translation.py"),
+                        "--book", slug, "--chapter", str(chapter)])
+        bt_file = ROOT / "output" / "back_translations" / f"{slug}_{chapter:02d}.json"
+        if bt_file.exists():
+            record("Back-translation", code, f"back_translation_{slug}_{chapter:02d}.md")
+        else:
+            record("Back-translation", code,
+                   f"back_translations/{slug}_{chapter:02d}_PROMPT.md",
+                   "MISSING — Claude must back-translate per prompt before re-running")
+
+    # 6. Summary-coverage check (informational)
+    print("[6/9] Thai-summary coverage (informational)...")
+    code, _ = run([sys.executable, str(SCRIPTS / "check_summary_coverage.py"),
+                   "--book", slug, "--chapter", str(chapter)])
+    record("Thai-summary coverage (info)", 0,
+           f"summary_coverage_{slug}_{chapter:02d}.md",
+           "informational only — not a ship gate")
+
+    # 7. Claim-consistency check (hallucination detector)
+    print("[7/9] Claim-consistency (hallucination check)...")
+    code, _ = run([sys.executable, str(SCRIPTS / "check_claim_consistency.py"),
+                   "--book", slug, "--chapter", str(chapter)])
+    record("Claim consistency (hallucination)", code,
+           f"claim_consistency_{slug}_{chapter:02d}.md")
+
+    # 8. Greek-field integrity check
+    print("[8/9] Greek-field integrity (metadata hallucination check)...")
+    code, _ = run([sys.executable, str(SCRIPTS / "check_greek_field_integrity.py"),
+                   "--book", slug, "--chapter", str(chapter), "--quiet"])
+    record("Greek-field integrity", code,
+           f"greek_field_integrity_{slug}_{chapter:02d}.md")
+
+    # 9. Phrase-consistency audit (corpus-wide)
+    print("[9/9] Phrase-consistency audit (corpus-wide)...")
+    code, _ = run([sys.executable, str(SCRIPTS / "check_phrase_consistency.py")])
+    record("Phrase consistency (corpus-wide)", code, "phrase_consistency.md")
+
+
+def run_ot_checks(slug: str, chapter: int, language: str, args, summary: dict, record) -> None:
+    """OT-specific check pipeline. Reachable only when OT_PIPELINE_ENABLED is True.
+
+    Currently wired:
+      1. Hebrew/Aramaic-field integrity (sibling to Greek-field check)
+      2. Divine-names enforcement (locked Tetragrammaton + family)
+      3. Versification anchor (MT verse numbering + divergence-zone metadata)
+      4. Back-translation (language-agnostic; reused as-is from NT)
+      5. Thai-summary coverage (language-agnostic; reused as-is from NT)
+
+    NOT yet wired (TBD as scripts arrive):
+      - check_key_term_consistency (needs Hebrew CANONICAL_TERMS extension)
+      - check_phrase_consistency (needs Hebrew PHRASE_LOCKS extension)
+      - check_claim_consistency (needs Hebrew claim patterns)
+      - check_parallel_passages (needs ot_parallels.json)
+      - check_ketib_qere (warning-only, future)
+      - check_lxx_mt_divergence (metadata-only, future)
+      - check_formula_locks (data-driven; future)
+      - check_parallelism / check_acrostic_markers / check_speech_attribution
+      - check_aramaic_sections / check_rachasap_consistency
+      - check_nt_quotation_alignment
+    """
+    print(f"\n=== Running OT ({language}) checks on {slug} ch. {chapter} ===\n")
+
+    # OT-specific scripts take a 3-letter book code (uppercase) and write
+    # markdown reports via --report. Translate slug → code for them.
+    book_code = next(
+        (code for code, s in OT_CODE_TO_SLUG.items() if s == slug), slug.upper()
+    )
+
+    # 1. Hebrew/Aramaic field integrity
+    print("[1/5] Hebrew-field integrity (metadata hallucination check)...")
+    code, _ = run([sys.executable, str(SCRIPTS / "check_hebrew_field_integrity.py"),
+                   "--book", book_code, "--chapter", str(chapter), "--report"])
+    record("Hebrew-field integrity", code,
+           f"hebrew_field_integrity_{slug}_{chapter:02d}.md")
+
+    # 2. Divine-names enforcement (locked Tetragrammaton policy)
+    print("[2/5] Divine-names enforcement...")
+    code, _ = run([sys.executable, str(SCRIPTS / "check_divine_names.py"),
+                   "--book", book_code, "--chapter", str(chapter), "--report"])
+    record("Divine names (locked Tetragrammaton)", code,
+           f"divine_names_{slug}_{chapter:02d}.md")
+
+    # 3. Versification anchor (MT versification + divergence zones)
+    print("[3/5] Versification anchor (MT-anchored numbering)...")
+    code, _ = run([sys.executable, str(SCRIPTS / "check_versification_anchor.py"),
+                   "--book", book_code, "--chapter", str(chapter), "--report"])
+    record("Versification anchor", code,
+           f"versification_{slug}_{chapter:02d}.md")
+
+    # 4. Back-translation (language-agnostic — reused from NT)
+    if args.skip_back_translation:
+        print("[4/5] Back-translation — skipped per flag")
+        record("Back-translation", 0, "(skipped)", "skipped via --skip-back-translation")
+    else:
+        print("[4/5] Back-translation...")
+        code, out = run([sys.executable, str(SCRIPTS / "check_back_translation.py"),
+                        "--book", slug, "--chapter", str(chapter)])
+        bt_file = ROOT / "output" / "back_translations" / f"{slug}_{chapter:02d}.json"
+        if bt_file.exists():
+            record("Back-translation", code, f"back_translation_{slug}_{chapter:02d}.md")
+        else:
+            record("Back-translation", code,
+                   f"back_translations/{slug}_{chapter:02d}_PROMPT.md",
+                   "MISSING — Claude must back-translate per prompt before re-running")
+
+    # 5. Summary-coverage (informational, language-agnostic)
+    print("[5/5] Thai-summary coverage (informational)...")
+    code, _ = run([sys.executable, str(SCRIPTS / "check_summary_coverage.py"),
+                   "--book", slug, "--chapter", str(chapter)])
+    record("Thai-summary coverage (info)", 0,
+           f"summary_coverage_{slug}_{chapter:02d}.md",
+           "informational only — not a ship gate")
 
 
 def main():
@@ -88,102 +287,28 @@ def main():
             "status": "clean" if exit_code == 0 else "flags",
         })
 
-    print(f"\n=== Running checks on {slug} ch. {args.chapter} ===\n")
+    # ─── Language-aware dispatcher (per OT-rollout plan §9.4) ─────────────────
+    # Detect the chapter's source language. NT slugs and chapters with no source
+    # extract default to 'greek' (NT pipeline). OT-extracted chapters report
+    # 'hebrew' or 'aramaic' from the source verse JSON. The OT branch is gated
+    # behind the OT_PIPELINE_ENABLED flag — when False, OT chapters fall through
+    # to the (NT-shaped) NT pipeline call, which is harmless because the NT
+    # checks expect a `greek` field that won't exist on an OT chapter and will
+    # surface flags rather than silently passing. The intended use is to keep
+    # the flag False until NT is fully shipped (per plan §19.2 / §20).
+    language = detect_chapter_language(slug, args.chapter)
 
-    # 1. Rebuild glossary & run key-term consistency
-    print("[1/8] Key-term consistency...")
-    run([sys.executable, str(SCRIPTS / "build_glossary.py")])
-    code, _ = run([sys.executable, str(SCRIPTS / "check_key_term_consistency.py"),
-                   "--book", slug, "--chapter", str(args.chapter)])
-    record("Key-term consistency", code, f"key_term_consistency_{slug}_{args.chapter:02d}.md")
-
-    # 2. TNBT structural comparison
-    print("[2/8] TNBT structural comparison...")
-    code, _ = run([sys.executable, str(SCRIPTS / "check_against_tnbt.py"),
-                   "--book", slug, "--chapter", str(args.chapter)])
-    record("TNBT structural comparison", code, f"tnbt_comparison_{slug}_{args.chapter:02d}.md")
-
-    # 3. OT citation check
-    print("[3/8] OT citation check...")
-    code, _ = run([sys.executable, str(SCRIPTS / "check_ot_citations.py"),
-                   "--book", slug, "--chapter", str(args.chapter)])
-    record("OT citation acknowledgment", code, f"ot_citations_{slug}_{args.chapter:02d}.md")
-
-    # 4. Parallel-passage check
-    print("[4/8] Synoptic parallel-passage check...")
-    code, _ = run([sys.executable, str(SCRIPTS / "check_parallel_passages.py")])
-    record("Synoptic parallels", code, "parallel_passages.md")
-
-    # 5. Back-translation — in-chat mode by default (no API needed).
-    # The script reads output/back_translations/<slug>_<NN>.json if present,
-    # otherwise emits a prompt file AND exits non-zero (ship-blocker). Prior
-    # behavior treated missing BT as "pending == clean," which let 14
-    # chapters silently ship without back-translation through 2026-04-18.
-    # Hardened 2026-04-19; pass exit code through directly.
-    if args.skip_back_translation:
-        print("[5/8] Back-translation — skipped per flag")
-        record("Back-translation", 0, "(skipped)", "skipped via --skip-back-translation")
+    if language in ("hebrew", "aramaic") and OT_PIPELINE_ENABLED:
+        run_ot_checks(slug, args.chapter, language, args, summary, record)
     else:
-        print("[5/8] Back-translation...")
-        code, out = run([sys.executable, str(SCRIPTS / "check_back_translation.py"),
-                        "--book", slug, "--chapter", str(args.chapter)])
-        bt_file = ROOT / "output" / "back_translations" / f"{slug}_{args.chapter:02d}.json"
-        if bt_file.exists():
-            record("Back-translation", code, f"back_translation_{slug}_{args.chapter:02d}.md")
-        else:
-            record("Back-translation", code,
-                   f"back_translations/{slug}_{args.chapter:02d}_PROMPT.md",
-                   "MISSING — Claude must back-translate per prompt before re-running")
-
-    # 6. Summary-coverage check (informational only, non-blocking)
-    # Surfaces verses that warrant a thai_summary but don't have one. Existing
-    # chapters (Mark 1-8, 1 Tim 3) translated before this field existed will
-    # show warranted-but-missing; that's expected and OK — not a ship gate.
-    print("[6/8] Thai-summary coverage (informational)...")
-    code, _ = run([sys.executable, str(SCRIPTS / "check_summary_coverage.py"),
-                   "--book", slug, "--chapter", str(args.chapter)])
-    record("Thai-summary coverage (info)", 0,  # always status "clean" — informational
-           f"summary_coverage_{slug}_{args.chapter:02d}.md",
-           "informational only — not a ship gate")
-
-    # 7. Claim-consistency check (hallucination detector)
-    # Fails ship if the translator's notes claim a pipeline side-effect
-    # (glossary updated, nt_ot_citations entry added, etc.) that didn't
-    # actually happen. Introduced 2026-04-17 after Opus 4.7 was observed
-    # claiming "Added to nt_ot_citations.json" without performing the action.
-    print("[7/8] Claim-consistency (hallucination check)...")
-    code, _ = run([sys.executable, str(SCRIPTS / "check_claim_consistency.py"),
-                   "--book", slug, "--chapter", str(args.chapter)])
-    record("Claim consistency (hallucination)", code,
-           f"claim_consistency_{slug}_{args.chapter:02d}.md")
-
-    # 8. Greek-field integrity check (schema/metadata hallucination detector)
-    # Fails ship if key_decisions[].greek contains Thai characters (schema
-    # violation) or Greek tokens that don't appear in the verse's source
-    # without a scholarly excuse (variant/classical/LXX/hapax/morphology).
-    # Introduced 2026-04-21 after LUK 13/14 shipped with fabricated Greek
-    # tokens ("ἐσδέจ" mixed-script) and Thai pronouns stuffed into the
-    # greek slot. All seven prior checks passed green on that content.
-    # See docs/LUKE_DRIFT_2026-04-21.md.
-    print("[8/9] Greek-field integrity (metadata hallucination check)...")
-    code, _ = run([sys.executable, str(SCRIPTS / "check_greek_field_integrity.py"),
-                   "--book", slug, "--chapter", str(args.chapter), "--quiet"])
-    record("Greek-field integrity", code,
-           f"greek_field_integrity_{slug}_{args.chapter:02d}.md")
-
-    # 9. Phrase-consistency audit (CORPUS-WIDE; catches cross-book drift)
-    # Extends key-term consistency to multi-word Greek phrases that carry
-    # corpus-level theological weight (ἄφεσις ἁμαρτιῶν, βασιλεία τοῦ θεοῦ,
-    # ἀμὴν λέγω ὑμῖν, etc.). Each phrase is tied to a translator_decisions
-    # doc. Added 2026-04-23 after Claude external-review surfaced ἄφεσις drift
-    # (MAT 26:28 vs. LUK 24:47) that the per-lemma checker missed because
-    # it treated ἄφεσις as a single token rather than as part of the locked
-    # phrase ἄφεσις ἁμαρτιῶν.
-    # This is a CORPUS check — it re-scans all books on each invocation
-    # but fast (< 1s on 2900+ verses). Blocks ship if corpus drift detected.
-    print("[9/9] Phrase-consistency audit (corpus-wide)...")
-    code, _ = run([sys.executable, str(SCRIPTS / "check_phrase_consistency.py")])
-    record("Phrase consistency (corpus-wide)", code, "phrase_consistency.md")
+        if language in ("hebrew", "aramaic"):
+            print(
+                f"⚠ {slug} ch. {args.chapter} is {language}, but OT_PIPELINE_ENABLED is False. "
+                f"Set OT_PIPELINE_ENABLED=true to enable OT-specific checks. "
+                f"Falling back to NT pipeline (which will likely flag issues).",
+                file=sys.stderr,
+            )
+        run_nt_checks(slug, args.chapter, args, summary, record)
 
     # Aggregate report
     review_lines = [

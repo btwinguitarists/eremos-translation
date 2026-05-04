@@ -38,6 +38,17 @@ BOOK_NAMES = {
     "2TI": "2 Timothy", "TIT": "Titus", "PHM": "Philemon", "HEB": "Hebrews",
     "JAS": "James", "1PE": "1 Peter", "2PE": "2 Peter", "1JN": "1 John",
     "2JN": "2 John", "3JN": "3 John", "JUD": "Jude", "REV": "Revelation",
+    # OT
+    "GEN": "Genesis", "EXO": "Exodus", "LEV": "Leviticus", "NUM": "Numbers",
+    "DEU": "Deuteronomy", "JOS": "Joshua", "JDG": "Judges", "RUT": "Ruth",
+    "1SA": "1 Samuel", "2SA": "2 Samuel", "1KI": "1 Kings", "2KI": "2 Kings",
+    "1CH": "1 Chronicles", "2CH": "2 Chronicles", "EZR": "Ezra", "NEH": "Nehemiah",
+    "EST": "Esther", "JOB": "Job", "PSA": "Psalms", "PRO": "Proverbs",
+    "ECC": "Ecclesiastes", "SNG": "Song of Songs", "ISA": "Isaiah", "JER": "Jeremiah",
+    "LAM": "Lamentations", "EZK": "Ezekiel", "DAN": "Daniel", "HOS": "Hosea",
+    "JOL": "Joel", "AMO": "Amos", "OBA": "Obadiah", "JON": "Jonah",
+    "MIC": "Micah", "NAM": "Nahum", "HAB": "Habakkuk", "ZEP": "Zephaniah",
+    "HAG": "Haggai", "ZEC": "Zechariah", "MAL": "Malachi",
 }
 
 BOOK_SLUGS = {
@@ -48,6 +59,17 @@ BOOK_SLUGS = {
     "2TI": "2timothy", "TIT": "titus", "PHM": "philemon", "HEB": "hebrews",
     "JAS": "james", "1PE": "1peter", "2PE": "2peter", "1JN": "1john",
     "2JN": "2john", "3JN": "3john", "JUD": "jude", "REV": "revelation",
+    # OT
+    "GEN": "genesis", "EXO": "exodus", "LEV": "leviticus", "NUM": "numbers",
+    "DEU": "deuteronomy", "JOS": "joshua", "JDG": "judges", "RUT": "ruth",
+    "1SA": "1samuel", "2SA": "2samuel", "1KI": "1kings", "2KI": "2kings",
+    "1CH": "1chronicles", "2CH": "2chronicles", "EZR": "ezra", "NEH": "nehemiah",
+    "EST": "esther", "JOB": "job", "PSA": "psalms", "PRO": "proverbs",
+    "ECC": "ecclesiastes", "SNG": "songofsongs", "ISA": "isaiah", "JER": "jeremiah",
+    "LAM": "lamentations", "EZK": "ezekiel", "DAN": "daniel", "HOS": "hosea",
+    "JOL": "joel", "AMO": "amos", "OBA": "obadiah", "JON": "jonah",
+    "MIC": "micah", "NAM": "nahum", "HAB": "habakkuk", "ZEP": "zephaniah",
+    "HAG": "haggai", "ZEC": "zechariah", "MAL": "malachi",
 }
 
 
