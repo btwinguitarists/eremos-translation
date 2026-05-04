@@ -31,8 +31,39 @@ The Hebraic-parallel doublet pattern **ψυχή | πνεῦμα** (LUK 1:46–47
 
 - LUK 1:46: ψυχή → จิตวิญญาณ
 - LUK 1:47: πνεῦμα → **จิต** ← distinct from v.46
-- 1 Thess 5:23: πνεῦμα + ψυχή + σῶμα → **จิต + จิตวิญญาณ + กาย** (anticipated corpus lock; apply when 1 Thess ships)
-- Heb 4:12: ψυχή + πνεῦμα division → **จิตวิญญาณ + จิต** (anticipated; apply when Hebrews ships)
+- 1 Thess 5:23: πνεῦμα + ψυχή + σῶμα → **วิญญาณ + จิตใจ + ร่างกาย** (locked at ship 2026-04, see §"Shipped renderings" below)
+- Heb 4:12: ψυχή + πνεῦμα division → **จิตวิญญาณ + วิญญาณ** (locked at ship 2026-05, see §"Shipped renderings" below)
+
+### Shipped renderings — principled context-dependent exceptions
+
+**Amended 2026-05-04 after Hebrews end-of-book audit + ChatGPT/Gemini external AI review.**
+
+When 1 Thessalonians and Hebrews shipped, the actual renderings diverged from the doc's earlier *anticipated* locks (`จิต + จิตวิญญาณ`). The rule "never render a parallelism's two halves with the same Thai word" was satisfied in both cases, but with different Thai word choices than anticipated. Both reviewers concurred (ChatGPT + Gemini, 2026-05-04 HEB audit response): **lock the as-shipped renderings, do not revise the verses**, and document the exceptions explicitly.
+
+#### 1 Thess 5:23 — trichotomy: πνεῦμα + ψυχή + σῶμα → **วิญญาณ + จิตใจ + ร่างกาย**
+
+Why this rendering (over `จิต + จิตวิญญาณ + กาย`):
+- **σῶμα → ร่างกาย** (not กาย) reads more naturally in modern Thai for the *whole bodily-self*; กาย alone tends toward poetic/elevated register. The trichotomy formula in this verse is liturgical-benediction, not poetic-doublet, so naturalness wins.
+- **ψυχή → จิตใจ** captures the *inner-self/mind/will* sense the verse foregrounds (the πνεῦμα-ψυχή-σῶμα framing isolates ψυχή as the seat-of-volition between spirit and body). จิตวิญญาณ would have overlapped too closely with πνεῦμα in trichotomy-context.
+- **πνεῦμα → วิญญาณ** is acceptable here *because* the trichotomy already separates it from ψυχή's seat-of-mind; วิญญาณ is unambiguously the spiritual-life-component within the triad. The wider concern that วิญญาณ alone connotes "ghost-of-the-dead" is mitigated by trichotomy context (πνεῦμα + ψυχή + σῶμα makes the living-person referent unmistakable).
+
+#### Heb 4:12 — division: ψυχή + πνεῦμα → **จิตวิญญาณ + วิญญาณ**
+
+Why this rendering (over `จิตวิญญาณ + จิต`):
+- The verse imagery is **substantive-cutting** (the word penetrates and *divides* soul and spirit, joints and marrow). Both halves of the parallelism need to read as concrete-substantive *components* of the inner person, paralleling ἁρμοί + μυελοί (joints + marrow) in the second half.
+- **ψυχή → จิตวิญญาณ** holds the Shema-anchored standard.
+- **πνεῦμα → วิญญาณ** matches the substantive-component register that the cutting-imagery demands. **จิต** alone would read as the more abstract *mind/intent*, which collapses the metaphor (the word cuts through "intent" makes less imagery-sense than "spirit" as a discrete inner-substance). Importantly, the next clause shifts to καρδίας ἐνθυμήσεις καὶ ἐννοιῶν → ความคิดและเจตนาของจิตใจ — the abstract mental/volitional layer arrives separately, so วิญญาณ here is not redundant with the next clause's mental-vocabulary.
+
+#### Updated rule
+
+| Greek (anthropological sense) | Thai default | When |
+|---|---|---|
+| πνεῦμα (in direct parallelism with ψυχή, **substantive-cutting context**) | **วิญญาณ** | Heb 4:12 — soul/spirit as concrete components being divided |
+| πνεῦμα (in trichotomy with ψυχή + σῶμα, **liturgical-benediction context**) | **วิญญาณ** | 1 Thess 5:23 |
+| πνεῦμα (in direct parallelism with ψυχή, **poetic-Hebraic-doublet context**) | **จิต** | Luk 1:46–47 (Magnificat) |
+| πνεῦμα (standalone, anthropological) | **จิตวิญญาณ** | Luk 1:80; 23:46; Heb 12:23 |
+
+The original "non-negotiable axis" rule (parallelisms get two distinct Thai words) is satisfied across all three contexts; the choice between **จิต** vs **วิญญาณ** for the πνεῦμα-half is context-dependent (poetic vs substantive vs liturgical). The doc's pre-shipment anticipation undershot the substantive-cutting register at Heb 4:12 and the trichotomy-naturalness at 1 Thess 5:23; both shipped renderings are principled-better.
 
 ## Why this split (and why it looks uneven)
 
