@@ -34,9 +34,18 @@ CITATIONS_PATH = ROOT / "data" / "nt_ot_citations.json"
 REPORTS = ROOT / "output" / "check_reports"
 
 sys.path.insert(0, str(ROOT / "scripts"))
-from extract_book import BOOKS
+from extract_book import BOOKS  # NT books: code → (name, slug)
+
+# OT books (extract_book_hebrew BOOKS = code → (name, slug, file_prefix))
+try:
+    from extract_book_hebrew import BOOKS as OT_BOOKS
+except ImportError:
+    OT_BOOKS = {}
 
 SLUG_TO_CODE = {slug: code for code, (_, slug) in BOOKS.items()}
+for code, entry in OT_BOOKS.items():
+    if len(entry) >= 2:
+        SLUG_TO_CODE[entry[1]] = code
 
 
 def load_translation(slug: str, chapter: int) -> list:

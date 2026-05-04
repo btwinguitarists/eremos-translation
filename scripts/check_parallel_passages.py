@@ -22,7 +22,25 @@ PARALLELS_PATH = ROOT / "data" / "synoptic_parallels.json"
 REPORTS = ROOT / "output" / "check_reports"
 
 CODE_TO_SLUG = {
+    # NT
     "MAT": "matthew", "MRK": "mark", "LUK": "luke", "JHN": "john",
+    "ACT": "acts", "ROM": "romans", "1CO": "1corinthians", "2CO": "2corinthians",
+    "GAL": "galatians", "EPH": "ephesians", "PHP": "philippians", "COL": "colossians",
+    "1TH": "1thessalonians", "2TH": "2thessalonians", "1TI": "1timothy", "2TI": "2timothy",
+    "TIT": "titus", "PHM": "philemon", "HEB": "hebrews", "JAS": "james",
+    "1PE": "1peter", "2PE": "2peter", "1JN": "1john", "2JN": "2john",
+    "3JN": "3john", "JUD": "jude", "REV": "revelation",
+    # OT
+    "GEN": "genesis", "EXO": "exodus", "LEV": "leviticus", "NUM": "numbers",
+    "DEU": "deuteronomy", "JOS": "joshua", "JDG": "judges", "RUT": "ruth",
+    "1SA": "1samuel", "2SA": "2samuel", "1KI": "1kings", "2KI": "2kings",
+    "1CH": "1chronicles", "2CH": "2chronicles", "EZR": "ezra", "NEH": "nehemiah",
+    "EST": "esther", "JOB": "job", "PSA": "psalms", "PRO": "proverbs",
+    "ECC": "ecclesiastes", "SNG": "songofsongs", "ISA": "isaiah", "JER": "jeremiah",
+    "LAM": "lamentations", "EZK": "ezekiel", "DAN": "daniel", "HOS": "hosea",
+    "JOL": "joel", "AMO": "amos", "OBA": "obadiah", "JON": "jonah",
+    "MIC": "micah", "NAM": "nahum", "HAB": "habakkuk", "ZEP": "zephaniah",
+    "HAG": "haggai", "ZEC": "zechariah", "MAL": "malachi",
 }
 
 
@@ -61,6 +79,12 @@ def main():
 
     with open(PARALLELS_PATH, encoding="utf-8") as f:
         groups = json.load(f)["groups"]
+
+    # OT parallels (Sam-Kgs ↔ Chr; Pss 14↔53; Pss 18↔2Sam 22; etc.) — optional
+    ot_parallels = ROOT / "data" / "ot_parallels.json"
+    if ot_parallels.exists():
+        with open(ot_parallels, encoding="utf-8") as f:
+            groups += json.load(f).get("groups", [])
 
     usable_groups = []
     for g in groups:
