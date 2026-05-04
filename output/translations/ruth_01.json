@@ -1,0 +1,769 @@
+[
+  {
+    "reference": "Ruth 1:1",
+    "chapter": 1,
+    "verse": 1,
+    "language": "hebrew",
+    "hebrew": "וַיְהִ֗י בִּימֵי֙ שְׁפֹ֣ט הַשֹּׁפְטִ֔ים וַיְהִ֥י רָעָ֖ב בָּאָ֑רֶץ וַיֵּ֨לֶךְ אִ֜ישׁ מִבֵּ֧ית לֶ֣חֶם יְהוּדָ֗ה לָגוּר֙ בִּשְׂדֵ֣י מוֹאָ֔ב ה֥וּא וְאִשְׁתּ֖וֹ וּשְׁנֵ֥י בָנָֽיו׃",
+    "bsb_english": "In the days when the judges ruled, there was a famine in the land. And a certain man from Bethlehem in Judah, with his wife and two sons, went to reside in the land of Moab.",
+    "translation": {
+      "thai": "ในสมัยที่บรรดาผู้วินิจฉัยปกครอง เกิดความอดอยากขึ้นในแผ่นดิน ชายคนหนึ่งจึงออกจากเบธเลเฮมในยูดาห์ไปอาศัยอยู่ในแผ่นดินโมอับ พร้อมด้วยภรรยาและบุตรชายสองคนของเขา",
+      "thai_literal": "และเป็นไปในสมัยของการพิพากษาของผู้พิพากษา และเกิดความอดอยากในแผ่นดิน และชายคนหนึ่งออกจากเบธเลเฮมยูดาห์เพื่อพำนักในทุ่งของโมอับ ทั้งเขาและภรรยาของเขาและบุตรชายทั้งสองของเขา",
+      "thai_summary": "หนังสือรูธเริ่มต้นในยุคของผู้วินิจฉัย ซึ่งเป็นช่วงเวลาแห่งความวุ่นวายในประวัติศาสตร์อิสราเอล (ผู้วินิจฉัย 21:25) เมื่อภัยแล้งและความอดอยากบีบบังคับครอบครัวยิวให้ละทิ้งดินแดนแห่งพระสัญญาเพื่อหาที่ลี้ภัยในโมอับ ซึ่งเป็นชนชาติที่อิสราเอลมีความสัมพันธ์ที่ยุ่งยากตามประวัติศาสตร์",
+      "key_decisions": [
+        {
+          "hebrew": "וַיְהִי בִּימֵי שְׁפֹט הַשֹּׁפְטִים",
+          "thai": "ในสมัยที่บรรดาผู้วินิจฉัยปกครอง",
+          "rationale": "Cognate construction shophet+shophetim (judge-the-judges) is a fixed temporal marker for the period of Judges. Render with cognate-collapse 'in the days of the judges ruling/governing' rather than the doubled wooden 'judging of the judges.' The verb שָׁפַט carries both judicial + administrative governing senses; ปกครอง captures the latter, which fits the historical-period reference."
+        },
+        {
+          "hebrew": "וַיְהִי",
+          "thai": "(opening narrative frame)",
+          "rationale": "Wayyiqtol of הָיָה opens the narrative paragraph. Per hebrew_grammar_transfer §3.2 + §5.1, this idiomatic narrative-opener does not need mechanical 'และเป็นไปว่า' — render with the temporal frame already established by 'ในสมัย...' and let the wayyiqtol drop quietly into Thai narrative flow."
+        },
+        {
+          "hebrew": "לָגוּר",
+          "thai": "ไปอาศัยอยู่",
+          "rationale": "גּוּר = sojourn/reside-as-foreigner — temporary residence, distinct from יָשַׁב (settle permanently, used in v.4 'they lived'). Render with the lower-commitment 'ไปอาศัย' here; reserve 'ตั้งถิ่นฐาน' for permanent settlement."
+        },
+        {
+          "hebrew": "בִּשְׂדֵי מוֹאָב",
+          "thai": "ในแผ่นดินโมอับ",
+          "rationale": "שְׂדֵי (plural construct of שָׂדֶה 'field') here denotes 'the country/territory of Moab,' not literal fields. Standard Hebrew idiom for 'the rural region of X.' Render as 'แผ่นดิน' (territory/land), not 'ทุ่ง' (literal field)."
+        },
+        {
+          "hebrew": "מוֹאָב",
+          "thai": "โมอับ",
+          "rationale": "Per proper_names_and_transliteration_2026-05.md THSV11 baseline."
+        },
+        {
+          "hebrew": "בֵּית לֶחֶם יְהוּדָה",
+          "thai": "เบธเลเฮมในยูดาห์",
+          "rationale": "Place-name compound 'Bethlehem of Judah' distinguishes from Bethlehem of Zebulun (Josh 19:15). Per proper_names baseline: Bethlehem = เบธเลเฮม, Judah = ยูดาห์. The 'of Judah' qualifier renders idiomatically as 'in Judah' for Thai naturalness."
+        }
+      ],
+      "notes": "Opening verse of Ruth — the first OT chapter shipped in the Eremos translation. Sets the historical context (period of the Judges, ~1200-1000 BCE) and the geographic dislocation (Bethlehem → Moab) that drives the narrative. Famine in the promised land + emigration to a Gentile country = covenant-tension setup; the rest of the chapter shows how YHWH's ḥesed reaches even to those who have left the land. No textual variants in this verse."
+    }
+  },
+  {
+    "reference": "Ruth 1:2",
+    "chapter": 1,
+    "verse": 2,
+    "language": "hebrew",
+    "hebrew": "וְשֵׁ֣ם הָאִ֣ישׁ אֱֽלִימֶ֡לֶךְ וְשֵׁם֩ אִשְׁתּ֨וֹ נָעֳמִ֜י וְשֵׁ֥ם שְׁנֵֽי־בָנָ֣יו׀מַחְל֤וֹן וְכִלְיוֹן֙ אֶפְרָתִ֔ים מִבֵּ֥ית לֶ֖חֶם יְהוּדָ֑ה וַיָּבֹ֥אוּ שְׂדֵי־מוֹאָ֖ב וַיִּֽהְיוּ־שָֽׁם׃",
+    "bsb_english": "The man’s name was Elimelech, his wife’s name was Naomi, and the names of his two sons were Mahlon and Chilion. They were Ephrathites from Bethlehem in Judah, and they entered the land of Moab and settled there.",
+    "translation": {
+      "thai": "ชายผู้นั้นชื่อเอลีเมเลค ภรรยาของเขาชื่อนาโอมี และบุตรชายทั้งสองของเขาชื่อมาห์โลนกับคิลโยน พวกเขาเป็นคนเอฟราธาห์จากเบธเลเฮมในยูดาห์ และได้มาถึงแผ่นดินโมอับและตั้งถิ่นฐานอยู่ที่นั่น",
+      "thai_literal": "และชื่อของชายนั้นคือเอลีเมเลค และชื่อภรรยาของเขาคือนาโอมี และชื่อของบุตรชายทั้งสองของเขาคือมาห์โลนและคิลโยน เป็นคนเอฟราธาห์จากเบธเลเฮมยูดาห์ และพวกเขาเข้ามาในทุ่งของโมอับและได้อยู่ที่นั่น",
+      "thai_summary": "ชื่อในข้อนี้มีความหมายแฝง: 'เอลีเมเลค' (אֱלִימֶלֶךְ) แปลว่า 'พระเจ้าของฉันเป็นกษัตริย์' 'นาโอมี' (נָעֳמִי) แปลว่า 'น่าชื่นใจ/ไพเราะ' 'มาห์โลน' (מַחְלוֹן) มีรากศัพท์เกี่ยวข้องกับ 'อ่อนแอ/เจ็บป่วย' และ 'คิลโยน' (כִּלְיוֹן) แปลว่า 'การล้มล้าง/หมดสิ้น' ชื่อของบุตรทั้งสองดูเหมือนทำนายชะตากรรมของพวกเขาเอง — เป็นเทคนิคทางวรรณกรรมที่ผู้เขียนใช้บอกใบ้โศกนาฏกรรมที่กำลังจะมาถึง คนเอฟราธาห์เป็นกลุ่มชนสำคัญในเบธเลเฮม (ปฐมกาล 35:19; 1 ซามูเอล 17:12; ที่สำคัญคือกษัตริย์ดาวิดก็มาจากตระกูลนี้ — 1 ซามูเอล 17:12; มีคาห์ 5:2)",
+      "key_decisions": [
+        {
+          "hebrew": "אֱלִימֶלֶךְ",
+          "thai": "เอลีเมเลค",
+          "rationale": "Per proper_names_and_transliteration_2026-05.md THSV11 baseline. Etymology: 'My God (אֵל) is king (מֶלֶךְ)' — the irony of his name vs. his fate is part of the book's literary art."
+        },
+        {
+          "hebrew": "נָעֳמִי",
+          "thai": "นาโอมี",
+          "rationale": "THSV11 baseline. From נֹעַם 'pleasantness/sweetness'. The name sets up the Mara wordplay in v.20."
+        },
+        {
+          "hebrew": "מַחְלוֹן",
+          "thai": "มาห์โลน",
+          "rationale": "THSV11 baseline. Possibly from חָלָה 'to be sick/weak' — name foreshadows his death in v.5."
+        },
+        {
+          "hebrew": "כִּלְיוֹן",
+          "thai": "คิลโยน",
+          "rationale": "THSV11 baseline. From כָּלָה 'to be finished/destroyed' — also foreshadows his death."
+        },
+        {
+          "hebrew": "אֶפְרָתִים",
+          "thai": "คนเอฟราธาห์",
+          "rationale": "Ephrathites — clan associated with Bethlehem (cf. Gen 35:19; 1 Sam 17:12; Mic 5:2). 'เอฟราธาห์' is THSV11 baseline; the clan-name plural takes Thai 'คน-' classifier prefix."
+        },
+        {
+          "hebrew": "וַיָּבֹאוּ ... וַיִּהְיוּ־שָׁם",
+          "thai": "ได้มาถึง...และตั้งถิ่นฐานอยู่ที่นั่น",
+          "rationale": "Wayyiqtol pair: 'they came in and they were there' = idiom for arrival + settlement. Render with explicit 'ตั้งถิ่นฐาน' (settled) — distinguishing from v.1 'going to sojourn' (temporary intent) — the family's stay in Moab has now become long-term."
+        }
+      ],
+      "notes": "The four names (Elimelech, Naomi, Mahlon, Chilion) each carry etymological significance. The narrator's choice to introduce all four together — including the sons whose deaths will follow in vv.3, 5 — is deliberate literary economy. 'Ephrathites from Bethlehem' is the same designation given to David's family (1 Sam 17:12), planting the messianic-line thread that climaxes in 4:17-22."
+    }
+  },
+  {
+    "reference": "Ruth 1:3",
+    "chapter": 1,
+    "verse": 3,
+    "language": "hebrew",
+    "hebrew": "וַיָּ֥מָת אֱלִימֶ֖לֶךְ אִ֣ישׁ נָעֳמִ֑י וַתִּשָּׁאֵ֥ר הִ֖יא וּשְׁנֵ֥י בָנֶֽיהָ׃",
+    "bsb_english": "Then Naomi’s husband Elimelech died, and she was left with her two sons,",
+    "translation": {
+      "thai": "แล้วเอลีเมเลคสามีของนาโอมีก็สิ้นชีวิต นางจึงเหลืออยู่กับบุตรชายทั้งสองของนาง",
+      "thai_literal": "และเอลีเมเลคสามีของนาโอมีตาย และนางถูกทิ้งไว้ นางและบุตรชายทั้งสองของนาง",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "אִישׁ נָעֳמִי",
+          "thai": "สามีของนาโอมี",
+          "rationale": "The narrator places Naomi's name beside the dying husband — emphasizing her perspective as the focal character. Possessive construct rendered with standard 'ของ' genitive."
+        },
+        {
+          "hebrew": "וַתִּשָּׁאֵר",
+          "thai": "นางจึงเหลืออยู่",
+          "rationale": "Niphal of שָׁאַר 'to remain/be left over' — passive nuance: she is *left* (by death). Captures the displacement and the pathos. Wayyiqtol → 'จึง' result-marker connective."
+        }
+      ],
+      "notes": "The first death of three. The Hebrew terseness — five words for the death + Naomi's status — is itself rhetorically loaded; the narrator does not pause for grief, leaving the reader to feel the weight of the loss in the silence."
+    }
+  },
+  {
+    "reference": "Ruth 1:4",
+    "chapter": 1,
+    "verse": 4,
+    "language": "hebrew",
+    "hebrew": "וַיִּשְׂא֣וּ לָהֶ֗ם נָשִׁים֙ מֹֽאֲבִיּ֔וֹת שֵׁ֤ם הָֽאַחַת֙ עָרְפָּ֔ה וְשֵׁ֥ם הַשֵּׁנִ֖ית ר֑וּת וַיֵּ֥שְׁבוּ שָׁ֖ם כְּעֶ֥שֶׂר שָׁנִֽים׃",
+    "bsb_english": "who took Moabite women as their wives, one named Orpah and the other named Ruth. And after they had lived in Moab about ten years,",
+    "translation": {
+      "thai": "บุตรทั้งสองได้รับหญิงโมอับเป็นภรรยา คนหนึ่งชื่อโอรปาห์ อีกคนหนึ่งชื่อรูธ พวกเขาอาศัยอยู่ที่นั่นประมาณสิบปี",
+      "thai_literal": "และพวกเขารับสำหรับตัวเองหญิงโมอับ ชื่อของคนหนึ่งคือโอรปาห์ และชื่อของคนที่สองคือรูธ และพวกเขาอยู่ที่นั่นประมาณสิบปี",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "וַיִּשְׂאוּ לָהֶם נָשִׁים",
+          "thai": "ได้รับ...เป็นภรรยา",
+          "rationale": "Idiom נָשָׂא אִשָּׁה 'lift/take a woman' = standard Hebrew for marriage (cf. Judg 21:23, Ezra 9:2). The reflexive לָהֶם 'for themselves' is implicit in Thai 'รับเป็นภรรยา.'"
+        },
+        {
+          "hebrew": "נָשִׁים מֹאֲבִיּוֹת",
+          "thai": "หญิงโมอับ",
+          "rationale": "Marriage to Moabite women is later flagged as legally complicated (Deut 23:3-4 prohibits Moabites in the assembly to the tenth generation) — but the narrator reports it neutrally here, leaving the theological evaluation to be worked out by the unfolding narrative + Boaz's eventual marriage to Ruth."
+        },
+        {
+          "hebrew": "עָרְפָּה",
+          "thai": "โอรปาห์",
+          "rationale": "THSV11 baseline. Etymology possibly from עֹרֶף 'neck/back' — fittingly, she will turn her back in v.14."
+        },
+        {
+          "hebrew": "רוּת",
+          "thai": "รูธ",
+          "rationale": "THSV11 baseline. Etymology debated — possibly from רָעָה 'friend/companion' or contracted form of רְעוּת 'friendship.' The book deliberately leaves her name un-glossed; her character defines the meaning."
+        },
+        {
+          "hebrew": "כְּעֶשֶׂר שָׁנִים",
+          "thai": "ประมาณสิบปี",
+          "rationale": "כְּ + numeral = approximation marker ('about/around'). Important detail: ten years of childlessness + then both husbands die — explains why Naomi has given up hope of grandsons through the daughters-in-law (v.11)."
+        }
+      ],
+      "notes": "The 'about ten years' is significant: long enough for normal childbearing to have occurred, but no children are mentioned. The narrator's silence on this point sets up Naomi's lament in vv.11-13 about her empty womb."
+    }
+  },
+  {
+    "reference": "Ruth 1:5",
+    "chapter": 1,
+    "verse": 5,
+    "language": "hebrew",
+    "hebrew": "וַיָּמ֥וּתוּ גַם־שְׁנֵיהֶ֖ם מַחְל֣וֹן וְכִלְי֑וֹן וַתִּשָּׁאֵר֙ הָֽאִשָּׁ֔ה מִשְּׁנֵ֥י יְלָדֶ֖יהָ וּמֵאִישָֽׁהּ׃",
+    "bsb_english": "both Mahlon and Chilion also died, and Naomi was left without her two sons and without her husband.",
+    "translation": {
+      "thai": "ต่อมามาห์โลนและคิลโยนก็สิ้นชีวิตทั้งสองคน หญิงผู้นั้นจึงเหลืออยู่ลำพัง ไร้บุตรทั้งสองและสามีของนาง",
+      "thai_literal": "และพวกเขาตาย ทั้งสองคนนั้น มาห์โลนและคิลโยน และหญิงผู้นั้นถูกทิ้งไว้ จากบุตรทั้งสองของนางและจากสามีของนาง",
+      "thai_summary": "คำว่า 'หญิงผู้นั้น' (הָאִשָּׁה) แทนที่จะเรียกชื่อ 'นาโอมี' เป็นการใช้ภาษาที่ผู้เขียนสรรเสริญความเศร้าของนางอย่างเงียบๆ — นางถูกลดลงสู่สถานะของผู้ที่ไม่มีตัวตน เป็นเพียง 'หญิงผู้สูญเสีย' จุดต่ำสุดของหนังสือนี้คือนาโอมีกลายเป็นเสมือนคนไร้ชื่อ ไร้ผู้พยุง ไร้อนาคต ในสังคมที่ผู้หญิงต้องพึ่งพาผู้ชาย",
+      "key_decisions": [
+        {
+          "hebrew": "הָאִשָּׁה",
+          "thai": "หญิงผู้นั้น",
+          "rationale": "The narrator's striking choice: not 'Naomi' but 'the woman' (with article). This depersonalization is deliberate pathos — Naomi is reduced to her status as bereaved widow. Preserve in Thai with 'หญิงผู้นั้น' rather than the named 'นาโอมี.' Major translations (NIV, ESV, NRSV) all preserve this."
+        },
+        {
+          "hebrew": "מִשְּׁנֵי יְלָדֶיהָ וּמֵאִישָׁהּ",
+          "thai": "ไร้บุตรทั้งสองและสามีของนาง",
+          "rationale": "Hebrew preposition מִן in this 'left from' construction = 'deprived of/bereft of.' Render as 'ไร้' (without/lacking) which captures the negation+loss force more naturally than literal 'จาก' (from)."
+        },
+        {
+          "hebrew": "יְלָדֶיהָ",
+          "thai": "บุตร",
+          "rationale": "יְלָדִים literally 'children' (not specifically 'sons') — gentle softening from the 'בָּנִים' (sons) used elsewhere. The narrator's word choice underscores Naomi's relational devastation, treating the sons in their relational role as her children."
+        }
+      ],
+      "notes": "The chapter's nadir. Three deaths in two verses, each understated, building cumulative weight. The narrative will now pivot to Naomi's response — and ultimately to YHWH's hidden providence working through Ruth."
+    }
+  },
+  {
+    "reference": "Ruth 1:6",
+    "chapter": 1,
+    "verse": 6,
+    "language": "hebrew",
+    "hebrew": "וַתָּ֤קָם הִיא֙ וְכַלֹּתֶ֔יהָ וַתָּ֖שָׁב מִשְּׂדֵ֣י מוֹאָ֑ב כִּ֤י שָֽׁמְעָה֙ בִּשְׂדֵ֣ה מוֹאָ֔ב כִּֽי־פָקַ֤ד יְהוָה֙ אֶת־עַמּ֔וֹ לָתֵ֥ת לָהֶ֖ם לָֽחֶם׃",
+    "bsb_english": "When Naomi heard in Moab that the LORD had attended to His people by providing them with food, she and her daughters-in-law prepared to leave the land of Moab.",
+    "translation": {
+      "thai": "ครั้นนาโอมีและสะใภ้ทั้งสองได้ยินอยู่ในแผ่นดินโมอับว่า องค์พระผู้เป็นเจ้าได้เสด็จมาเยี่ยมเยียนประชากรของพระองค์ ประทานอาหารให้พวกเขา นางจึงลุกขึ้นเตรียมตัวกลับจากแผ่นดินโมอับพร้อมสะใภ้ทั้งสอง",
+      "thai_literal": "และนางลุกขึ้น นางและสะใภ้ของนาง และนางกลับจากทุ่งของโมอับ เพราะนางได้ยินในทุ่งของโมอับว่าองค์พระผู้เป็นเจ้าทรงเยี่ยมเยียนประชากรของพระองค์ เพื่อประทานแก่พวกเขาซึ่งอาหาร",
+      "thai_summary": "คำว่า 'ทรงเยี่ยมเยียน' (פָּקַד) เป็นคำสำคัญในพระคัมภีร์ — หมายถึงการที่พระเจ้าเสด็จเข้ามาดูแลประชากรของพระองค์ในยามทุกข์ยาก (เช่น ปฐมกาล 21:1; อพยพ 4:31; ลูกา 1:68 ภายหลัง) นี่เป็นจุดพลิกของเรื่อง — ความอดอยากในข้อ 1 จบลงเพราะองค์พระผู้เป็นเจ้าได้ทรงระลึกถึงประชากรของพระองค์",
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "thai": "องค์พระผู้เป็นเจ้า",
+          "rationale": "First occurrence of the Tetragrammaton in the chapter (and first in the OT corpus of the Eremos translation). Per divine_names_table_2026-05.md, render as 'องค์พระผู้เป็นเจ้า' — NT-aligned with the κύριος-as-YHWH convention used throughout the shipped NT corpus. The Hebrew form יהוה is preserved transparently via this key_decisions entry + a chapter-footer convention note."
+        },
+        {
+          "hebrew": "פָקַד יְהוָה אֶת־עַמּוֹ",
+          "thai": "องค์พระผู้เป็นเจ้าได้เสด็จมาเยี่ยมเยียนประชากรของพระองค์",
+          "rationale": "פָקַד (paqad) = 'visit/attend to/intervene with care' — covenantal-care verb often translated 'visit' in older English, 'attend to' in modern. With YHWH as subject + ราชาศัพท์ for divine action, render as 'เสด็จมาเยี่ยมเยียน' (royal-coming + visit). Per ot_register_policy: divine subjects always trigger royal-Thai verbs."
+        },
+        {
+          "hebrew": "לָתֵת לָהֶם לָחֶם",
+          "thai": "ประทานอาหารให้พวกเขา",
+          "rationale": "לָחֶם 'bread' here = food/provisions in general (idiomatic). 'ทรงประทาน' is the royal-Thai verb for divine giving (per NT precedent throughout the corpus). 'อาหาร' captures the broad sense better than literal 'ขนมปัง.'"
+        },
+        {
+          "hebrew": "כַלֹּתֶיהָ",
+          "thai": "สะใภ้ทั้งสอง",
+          "rationale": "כַּלָּה 'daughter-in-law/bride' — Thai 'สะใภ้' is the standard equivalent. Plural with 'ทั้งสอง' to mark dual."
+        },
+        {
+          "hebrew": "וַתָּקָם הִיא וְכַלֹּתֶיהָ וַתָּשָׁב",
+          "thai": "นางจึงลุกขึ้นเตรียมตัวกลับ",
+          "rationale": "Wayyiqtol chain: rose-up + returned. The 'rose up' is idiomatic for 'set out' rather than literal posture-change; render as 'ลุกขึ้นเตรียมตัวกลับ' to capture the resolve-to-depart sense rather than the wooden physical-movement sense."
+        }
+      ],
+      "notes": "**Chapter-anchor note for Tetragrammaton convention:** This is the first occurrence of יהוה in the OT Eremos corpus. Per divine_names_table_2026-05.md, the NT-aligned rendering 'องค์พระผู้เป็นเจ้า' applies throughout the OT, matching how the shipped NT renders κύριος when it points to YHWH. A per-chapter footer note (in the reader edition + Layer 2 textual_variants) explains this convention to Thai readers; the per-verse `key_decisions` entry preserves the underlying Hebrew form transparently."
+    }
+  },
+  {
+    "reference": "Ruth 1:7",
+    "chapter": 1,
+    "verse": 7,
+    "language": "hebrew",
+    "hebrew": "וַתֵּצֵ֗א מִן־הַמָּקוֹם֙ אֲשֶׁ֣ר הָיְתָה־שָׁ֔מָּה וּשְׁתֵּ֥י כַלֹּתֶ֖יהָ עִמָּ֑הּ וַתֵּלַ֣כְנָה בַדֶּ֔רֶךְ לָשׁ֖וּב אֶל־אֶ֥רֶץ יְהוּדָֽה׃",
+    "bsb_english": "Accompanied by her two daughters-in-law, she left the place where she had been living and set out on the road leading back to the land of Judah.",
+    "translation": {
+      "thai": "นางจึงออกจากสถานที่ที่นางเคยอยู่ พร้อมกับสะใภ้ทั้งสอง และพวกนางเดินทางกลับสู่แผ่นดินยูดาห์",
+      "thai_literal": "และนางออกจากสถานที่ซึ่งนางอยู่ที่นั่น และสะใภ้ทั้งสองของนางอยู่กับนาง และพวกนางเดินบนทาง เพื่อกลับไปยังแผ่นดินยูดาห์",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "לָשׁוּב אֶל־אֶרֶץ יְהוּדָה",
+          "thai": "กลับสู่แผ่นดินยูดาห์",
+          "rationale": "שׁוּב 'return' is a leitmotif in this chapter (12 occurrences in vv.6-22) — the verb of repentance/turning. The chapter is structured around physical and theological 'returning.'"
+        },
+        {
+          "hebrew": "וַתֵּלַכְנָה בַדֶּרֶךְ",
+          "thai": "พวกนางเดินทาง",
+          "rationale": "הָלַךְ בְּדֶרֶךְ 'walk in the way' = idiomatic 'set out on a journey.' Compress to natural Thai 'เดินทาง.'"
+        }
+      ],
+      "notes": "Brief transitional verse. The wayyiqtol chain (went out + walked) carries the narrative forward to the dialogue of vv.8-17."
+    }
+  },
+  {
+    "reference": "Ruth 1:8",
+    "chapter": 1,
+    "verse": 8,
+    "language": "hebrew",
+    "hebrew": "וַתֹּ֤אמֶר נָעֳמִי֙ לִשְׁתֵּ֣י כַלֹּתֶ֔יהָ לֵ֣כְנָה שֹּׁ֔בְנָה אִשָּׁ֖ה לְבֵ֣ית אִמָּ֑הּ יַ֣עַשׂ יְהוָ֤ה עִמָּכֶם֙ חֶ֔סֶד כַּאֲשֶׁ֧ר עֲשִׂיתֶ֛ם עִם־הַמֵּתִ֖ים וְעִמָּדִֽי׃",
+    "bsb_english": "Then Naomi said to her two daughters-in-law, “Go back, each of you to your mother’s home. May the LORD show you loving devotion, as you have shown to your dead and to me.",
+    "translation": {
+      "thai": "แล้วนาโอมีกล่าวแก่สะใภ้ทั้งสองว่า “พวกเจ้าจงกลับไปบ้านมารดาของแต่ละคนเถิด ขอองค์พระผู้เป็นเจ้าทรงสำแดงความรักมั่นคงแก่พวกเจ้า เหมือนพวกเจ้าได้สำแดงต่อผู้ที่ล่วงลับไปและต่อฉัน",
+      "thai_literal": "และนาโอมีกล่าวแก่สะใภ้ทั้งสองของนางว่า “จงไป จงกลับ แต่ละคนสู่บ้านของมารดาของนาง ขอองค์พระผู้เป็นเจ้าทำกับพวกเจ้าซึ่งความรักมั่นคง ตามที่พวกเจ้าได้ทำกับผู้ที่ตายและกับฉัน",
+      "thai_summary": "חֶסֶד (เคเซด) เป็นคำที่ลึกซึ้งและสำคัญที่สุดคำหนึ่งในพระคัมภีร์เดิม — หมายถึงความรักที่ภักดีต่อพันธสัญญา ความเมตตาที่ไม่หยุดยั้ง ความซื่อสัตย์ที่เกินกว่าหน้าที่ มันเป็นคุณลักษณะหลักของพระเจ้าต่อประชากรของพระองค์ (อพยพ 34:6) นาโอมีอวยพรขอให้พระเจ้าทรงตอบแทนความรักภักดีของสะใภ้ทั้งสองด้วยความรักภักดีของพระองค์เอง",
+      "key_decisions": [
+        {
+          "hebrew": "חֶסֶד",
+          "thai": "ความรักมั่นคง",
+          "rationale": "**OT corpus key-term lock.** חֶסֶד (chesed/hesed) = covenant loyal-love; the Hebrew Bible's most distinctive theological term, denoting faithfulness-beyond-obligation in covenant relationships. Standard English renderings: 'lovingkindness' (KJV), 'steadfast love' (ESV), 'unfailing love' (NIV), 'loyal love' (CSB). Thai 'ความรักมั่นคง' (steadfast/firm love) captures the faithful-loyalty sense. Distinguished from אַהֲבָה 'love' (general affection) — chesed implies covenant context. **Locking 'ความรักมั่นคง' as the OT-corpus default** for chesed; the choice will be validated against Benz at end of book."
+        },
+        {
+          "hebrew": "יַעַשׂ יְהוָה ... חֶסֶד",
+          "thai": "ขอองค์พระผู้เป็นเจ้าทรงสำแดงความรักมั่นคง",
+          "rationale": "Jussive prayer-blessing: 'may YHWH do chesed.' Per hebrew_grammar §1.1, Hebrew jussives become Thai 'ขอ-...' constructions. Combined with ทรง- (royal verb prefix for divine subject) per ot_register_policy. עָשָׂה 'do' + חֶסֶד 'chesed' = idiomatic 'show/extend chesed' → Thai 'สำแดงความรักมั่นคง.'"
+        },
+        {
+          "hebrew": "הַמֵּתִים",
+          "thai": "ผู้ที่ล่วงลับไป",
+          "rationale": "הַמֵּתִים literally 'the dead (ones)' — refers to Mahlon and Chilion. Thai 'ผู้ที่ล่วงลับไป' (those who have departed) is more natural and respectful than literal 'คนตาย.'"
+        },
+        {
+          "hebrew": "עִמָּכֶם / עִמָּדִי",
+          "thai": "แก่พวกเจ้า / ต่อฉัน",
+          "rationale": "Naomi's pronoun register: 'พวกเจ้า' (you-pl, intimate elder-to-younger) for daughters-in-law; 'ฉัน' (1sg-feminine, plain register) for self. Per ot_register_policy table, human commoner → human commoner intimate."
+        },
+        {
+          "hebrew": "לֵכְנָה שֹּׁבְנָה",
+          "thai": "พวกเจ้าจงกลับไป",
+          "rationale": "Two imperatives 'go, return' coalesce to single Thai imperative 'จงกลับไปเถิด.' אִשָּׁה לְבֵית אִמָּהּ 'each woman to her mother's house' = distributive idiom; Thai handles via 'ของแต่ละคน.'"
+        }
+      ],
+      "notes": "Naomi's first farewell speech. The double imperative 'Go, return' frames the conversation that follows. Note: she sends them to their *mother's* house (not father's, as is more typical) — preserving the maternal-line emphasis that runs through this chapter (women relating to women). The blessing invokes covenant-faithful love both as past-action (what they have shown) and as future-petition (what YHWH may now show)."
+    }
+  },
+  {
+    "reference": "Ruth 1:9",
+    "chapter": 1,
+    "verse": 9,
+    "language": "hebrew",
+    "hebrew": "יִתֵּ֤ן יְהוָה֙ לָכֶ֔ם וּמְצֶ֣אןָ מְנוּחָ֔ה אִשָּׁ֖ה בֵּ֣ית אִישָׁ֑הּ וַתִּשַּׁ֣ק לָהֶ֔ן וַתִּשֶּׂ֥אנָה קוֹלָ֖ן וַתִּבְכֶּֽינָה׃",
+    "bsb_english": "May the LORD enable each of you to find rest in the home of your new husband.” And she kissed them as they wept aloud",
+    "translation": {
+      "thai": "ขอองค์พระผู้เป็นเจ้าทรงโปรดให้พวกเจ้าได้พบที่พักพิง คือในบ้านของสามีใหม่” แล้วนางก็จูบลาพวกเขา และพวกเขาก็ส่งเสียงร้องไห้",
+      "thai_literal": "ขอองค์พระผู้เป็นเจ้าประทานแก่พวกเจ้า และพวกเจ้าจงพบ ที่พักสงบ แต่ละคน บ้านของสามีของนาง และนางจูบพวกเขา และพวกเขายกเสียงของพวกเขาและร้องไห้",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יִתֵּן יְהוָה לָכֶם וּמְצֶאןָ מְנוּחָה",
+          "thai": "ขอองค์พระผู้เป็นเจ้าทรงโปรดให้พวกเจ้าได้พบที่พักพิง",
+          "rationale": "Jussive + imperative: 'May YHWH give to you, and (may you) find rest.' The Hebrew construction has the giver (YHWH) and the receiver-action (may you find) chained. Thai compresses to 'ทรงโปรดให้...ได้พบ.'"
+        },
+        {
+          "hebrew": "מְנוּחָה",
+          "thai": "ที่พักพิง",
+          "rationale": "מְנוּחָה 'rest/resting-place' — covenant-rest term (cf. Deut 12:9; Ps 95:11; Heb 4 in NT). Here in marriage context, denotes settled-security in a husband's house. Thai 'ที่พักพิง' (place of refuge/shelter) captures both physical-shelter and emotional-security senses better than narrow 'ที่พัก' (resting-place)."
+        },
+        {
+          "hebrew": "בֵּית אִישָׁהּ",
+          "thai": "บ้านของสามีใหม่",
+          "rationale": "'House of her husband' = future-tense future-husband, not past-deceased husband. Add 'ใหม่' (new) to clarify for Thai readers — the prayer is for remarriage."
+        },
+        {
+          "hebrew": "וַתִּשַּׁק לָהֶן וַתִּשֶּׂאנָה קוֹלָן וַתִּבְכֶּינָה",
+          "thai": "แล้วนางก็จูบลาพวกเขา และพวกเขาก็ส่งเสียงร้องไห้",
+          "rationale": "Wayyiqtol chain: kissed + lifted-voice + wept. Hebrew נָשָׂא קוֹל 'lift the voice' = idiomatic loud-vocalization (per hebrew_idioms_and_metaphor §2). Render as 'ส่งเสียงร้องไห้' (raise-voice-weeping) — captures the intensity without literal 'ยกเสียง.' The kiss is a farewell-kiss; add 'ลา' (depart/farewell) particle to clarify."
+        }
+      ],
+      "notes": "The farewell-kiss + raised-voice weeping combination is a stock Hebrew narrative scene of deeply emotional parting (cf. Gen 27:38; 29:11; 33:4). Naomi's blessing explicitly names what the daughters-in-law have lost: the security of a husband's home. Her prayer is that YHWH would restore that to them by enabling remarriage in their native Moab."
+    }
+  },
+  {
+    "reference": "Ruth 1:10",
+    "chapter": 1,
+    "verse": 10,
+    "language": "hebrew",
+    "hebrew": "וַתֹּאמַ֖רְנָה־לָּ֑הּ כִּי־אִתָּ֥ךְ נָשׁ֖וּב לְעַמֵּֽךְ׃",
+    "bsb_english": "and said, “Surely we will return with you to your people.”",
+    "translation": {
+      "thai": "แต่พวกเขาตอบนางว่า “ไม่ พวกเราจะกลับไปกับท่านสู่ชนชาติของท่าน”",
+      "thai_literal": "และพวกเขากล่าวแก่นางว่า “เปล่า กับท่านพวกเราจะกลับไปยังประชาชนของท่าน”",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "כִּי",
+          "thai": "ไม่ ... จะ",
+          "rationale": "כִּי here is **asseverative/emphatic** ('surely/no, but rather'), not causal ('because'). The daughters-in-law are not giving a reason — they are emphatically rejecting Naomi's command. Render with 'ไม่' (no!) + emphatic 'จะ' (will/shall). Standard reading per Joüon-Muraoka §164b on emphatic kî."
+        },
+        {
+          "hebrew": "אִתָּךְ נָשׁוּב לְעַמֵּךְ",
+          "thai": "พวกเราจะกลับไปกับท่านสู่ชนชาติของท่าน",
+          "rationale": "Word-order: 'with-you we-will-return to-your-people' — emphatic preposed 'with you' fronted to the verb. Thai naturalness reorders to subject-verb with the prepositional phrases following. The daughters-in-law speak in unison; Hebrew uses 3fp imperfect."
+        },
+        {
+          "hebrew": "לְעַמֵּךְ",
+          "thai": "สู่ชนชาติของท่าน",
+          "rationale": "עַם 'people/nation' here = ethnic-collective. Thai 'ชนชาติ' (people/nation) standard rendering."
+        }
+      ],
+      "notes": "The first response of Orpah and Ruth together — they speak as one. Their resolution to return with Naomi is presented as a unified group decision, which Naomi will then dismantle in vv.11-13. This sets up the divergence in vv.14-15 where Orpah relents and Ruth does not."
+    }
+  },
+  {
+    "reference": "Ruth 1:11",
+    "chapter": 1,
+    "verse": 11,
+    "language": "hebrew",
+    "hebrew": "וַתֹּ֤אמֶר נָעֳמִי֙ שֹׁ֣בְנָה בְנֹתַ֔י לָ֥מָּה תֵלַ֖כְנָה עִמִּ֑י הַֽעֽוֹד־לִ֤י בָנִים֙ בְּֽמֵעַ֔י וְהָי֥וּ לָכֶ֖ם לַאֲנָשִֽׁים׃",
+    "bsb_english": "But Naomi replied, “Return home, my daughters. Why would you go with me? Are there still sons in my womb to become your husbands?",
+    "translation": {
+      "thai": "แต่นาโอมีกล่าวว่า “ลูก ๆ ของฉัน จงกลับไปเถิด ทำไมพวกเจ้าจึงจะไปกับฉัน? ฉันยังมีบุตรชายอยู่ในครรภ์ของฉันอีกหรือ ที่จะเป็นสามีของพวกเจ้าได้?",
+      "thai_literal": "และนาโอมีกล่าวว่า “จงกลับ ลูก ๆ ของฉัน ทำไมพวกเจ้าจะไปกับฉัน? มีอีกหรือสำหรับฉัน บุตรชายในเอวของฉัน และพวกเขาจะเป็นแก่พวกเจ้าเพื่อสามี?",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "בְנֹתַי",
+          "thai": "ลูก ๆ ของฉัน",
+          "rationale": "בְּנֹתַי 'my daughters' — vocative of intimate maternal relationship (the Hebrew uses 'daughters' even though they are technically כַּלָּתֶיהָ daughters-in-law). The shift to 'my daughters' here marks Naomi's emotional intensification. Per ot_register_policy wisdom-instructional voice + maternal: 'ลูก ๆ ของฉัน' (my children/dear ones)."
+        },
+        {
+          "hebrew": "לָמָּה תֵלַכְנָה עִמִּי",
+          "thai": "ทำไมพวกเจ้าจึงจะไปกับฉัน?",
+          "rationale": "Rhetorical question marking the start of Naomi's argumentation. The argument runs through v.13."
+        },
+        {
+          "hebrew": "הַעוֹד־לִי בָנִים בְּמֵעַי",
+          "thai": "ฉันยังมีบุตรชายอยู่ในครรภ์ของฉันอีกหรือ",
+          "rationale": "הַ-interrogative + עוֹד 'still/yet' + לִי בָנִים בְּמֵעַי 'sons in my womb.' Naomi is invoking the **levirate logic** — that a deceased man's brother (or other near kinsman) marries the widow to raise up offspring for the dead (Deut 25:5-10). She argues there are no eligible brothers (no sons in her womb to grow up). מֵעַי literally 'my inward parts/bowels' = idiomatic 'womb' for childbearing context."
+        },
+        {
+          "hebrew": "וְהָיוּ לָכֶם לַאֲנָשִׁים",
+          "thai": "ที่จะเป็นสามีของพวกเจ้าได้?",
+          "rationale": "הָיָה לְ + לַאֲנָשִׁים 'become to-you for husbands' = standard idiom for 'become someone's husband.' Implicit completion of the argument (= 'who could be your husbands by levirate marriage')."
+        }
+      ],
+      "notes": "The first of Naomi's three argument waves (vv.11, 12, 13) all built around the levirate question. She is invoking the legal mechanism that would have given her daughters-in-law legitimate claim to Israelite husbands through her family — and demonstrating that this mechanism is impossible for her. The argument is theologically loaded: she perceives YHWH's hand as having closed off the levirate possibility (v.13 makes this explicit)."
+    }
+  },
+  {
+    "reference": "Ruth 1:12",
+    "chapter": 1,
+    "verse": 12,
+    "language": "hebrew",
+    "hebrew": "שֹׁ֤בְנָה בְנֹתַי֙ לֵ֔כְןָ כִּ֥י זָקַ֖נְתִּי מִהְי֣וֹת לְאִ֑ישׁ כִּ֤י אָמַ֨רְתִּי֙ יֶשׁ־לִ֣י תִקְוָ֔ה גַּ֣ם הָיִ֤יתִי הַלַּ֨יְלָה֙ לְאִ֔ישׁ וְגַ֖ם יָלַ֥דְתִּי בָנִֽים׃",
+    "bsb_english": "Return home, my daughters. Go on, for I am too old to have another husband. Even if I thought there was hope for me to have a husband tonight and to bear sons,",
+    "translation": {
+      "thai": "ลูก ๆ ของฉัน จงกลับไปเถิด เพราะฉันแก่เกินกว่าจะมีสามีอีก แม้ว่าฉันจะกล่าวว่า 'ฉันยังมีความหวัง' และคืนนี้ก็ได้แต่งงานและคลอดบุตรชาย",
+      "thai_literal": "จงกลับ ลูก ๆ ของฉัน จงไป เพราะฉันแก่แล้ว จากการเป็นแก่ผู้ชาย เพราะฉันได้กล่าวว่า มีสำหรับฉันความหวัง แม้ว่าฉันได้เป็นในคืนนี้แก่ผู้ชาย และแม้ว่าฉันได้คลอดบุตรชาย",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "זָקַנְתִּי מִהְיוֹת לְאִישׁ",
+          "thai": "ฉันแก่เกินกว่าจะมีสามีอีก",
+          "rationale": "Stative verb זָקַן 'be old' + מִן 'from' + infinitive construct 'to be to-a-man' = idiomatic 'too old to belong to a husband (in marriage).' Per hebrew_grammar §4, stative verbs translate to Thai adjectival/copula constructions. Render as 'แก่เกินกว่า...' (too old to)."
+        },
+        {
+          "hebrew": "יֶשׁ־לִי תִקְוָה",
+          "thai": "ฉันยังมีความหวัง",
+          "rationale": "Quoted hypothetical: 'I might say there-is-to-me hope.' Naomi is constructing a chain of hypotheticals (even if this, even if that...) to show that even the most generous scenario fails."
+        },
+        {
+          "hebrew": "גַּם הָיִיתִי הַלַּיְלָה לְאִישׁ וְגַם יָלַדְתִּי בָנִים",
+          "thai": "และคืนนี้ก็ได้แต่งงานและคลอดบุตรชาย",
+          "rationale": "גַּם...וְגַם 'even...and even' — emphatic concessive doubling. The 'tonight' is hyperbolic — 'even if I remarried tonight (which is impossible) and bore sons (which is also impossible).' The hypothetical is structured to expose its own absurdity."
+        }
+      ],
+      "notes": "Naomi's argument intensifies. She walks through a chain of impossibilities — even tonight remarriage, even immediate childbearing — to drive home the futility of her daughters-in-law waiting for hypothetical levirate brothers. The argument is rhetorically dense; the Thai simplifies the staged hypothetical to keep the flow readable."
+    }
+  },
+  {
+    "reference": "Ruth 1:13",
+    "chapter": 1,
+    "verse": 13,
+    "language": "hebrew",
+    "hebrew": "הֲלָהֵ֣ן׀תְּשַׂבֵּ֗רְנָה עַ֚ד אֲשֶׁ֣ר יִגְדָּ֔לוּ הֲלָהֵן֙ תֵּֽעָגֵ֔נָה לְבִלְתִּ֖י הֱי֣וֹת לְאִ֑ישׁ אַ֣ל בְּנֹתַ֗י כִּֽי־מַר־לִ֤י מְאֹד֙ מִכֶּ֔ם כִּֽי־יָצְאָ֥ה בִ֖י יַד־יְהוָֽה׃",
+    "bsb_english": "would you wait for them to grow up? Would you refrain from having husbands? No, my daughters, it is much more bitter for me than for you, because the hand of the LORD has gone out against me.”",
+    "translation": {
+      "thai": "พวกเจ้าจะรอจนกว่าพวกเขาเติบโตขึ้นหรือ? พวกเจ้าจะอยู่ในสภาพไม่แต่งงานเพื่อรอพวกเขาเช่นนั้นหรือ? ไม่ ลูก ๆ ของฉัน เพราะฉันขมขื่นยิ่งกว่าพวกเจ้าเสียอีก ในเมื่อพระหัตถ์ขององค์พระผู้เป็นเจ้าได้ทรงต่อสู้กับฉัน”",
+      "thai_literal": "หรือสำหรับเหตุนี้พวกเจ้าจะคอย จนกระทั่งพวกเขาโต? หรือสำหรับเหตุนี้พวกเจ้าจะถูกขังกั้น เพื่อจะไม่เป็นแก่ผู้ชาย? อย่าเลย ลูก ๆ ของฉัน เพราะมันขมขื่นแก่ฉันมาก มากกว่าแก่พวกเจ้า เพราะออกไปต่อสู้ฉันคือพระหัตถ์ขององค์พระผู้เป็นเจ้า",
+      "thai_summary": "วลี 'พระหัตถ์ขององค์พระผู้เป็นเจ้า' (יַד יְהוָה) เป็นภาพอุปลักษณ์เชิงรูปกายมนุษย์ (anthropomorphism) ที่พระคัมภีร์เดิมใช้บ่อย — แทนการกระทำของพระเจ้าที่กระทบมนุษย์โดยตรง บ่อยครั้งในความหมายของการลงโทษหรือการพิพากษา (1 ซามูเอล 5:6; โยบ 19:21) นาโอมีตีความความสูญเสียของนางว่าเป็นพระหัตถ์ของพระเจ้าที่ขัดแย้งกับนาง — เป็นการลงโทษ ไม่ใช่ความเศร้าปกติ",
+      "key_decisions": [
+        {
+          "hebrew": "תֵּעָגֵנָה",
+          "thai": "อยู่ในสภาพไม่แต่งงาน",
+          "rationale": "**HAPAX**: עָגַן 'ăgan — appears only here in the entire OT. Niphal stem with reflexive/passive force. Etymology unclear; cognates suggest 'shut up/restrain/hold back from.' Context (waiting for hypothetical husbands) suggests 'remain confined/restrained from marriage.' Render the sense as 'อยู่ในสภาพไม่แต่งงาน' (be-in-state-of-not-marrying); the literal 'shut/confined' would mislead. Document: hapax, lexicographic uncertainty resolved by context."
+        },
+        {
+          "hebrew": "מַר־לִי מְאֹד מִכֶּם",
+          "thai": "ฉันขมขื่นยิ่งกว่าพวกเจ้าเสียอีก",
+          "rationale": "Comparative: 'bitter to-me very, more-than from-you.' Hebrew מִן after a comparative adjective = comparison-marker. Naomi: my bitterness exceeds yours — sets up the Mara wordplay in v.20. The verb-form מַר (Qal stative 'be bitter') here is the cognate-root that becomes Mara."
+        },
+        {
+          "hebrew": "יָצְאָה בִי יַד־יְהוָה",
+          "thai": "พระหัตถ์ขององค์พระผู้เป็นเจ้าได้ทรงต่อสู้กับฉัน",
+          "rationale": "**Anthropomorphism preserved.** Per hebrew_idioms_and_metaphor §1: יַד יהוה ('hand of YHWH') → 'พระหัตถ์ขององค์พระผู้เป็นเจ้า' using royal-Thai พระหัตถ์, not plain มือ. The verb יָצָא בְּ ('go out against') is hostile-action idiom — the hand has gone out against her in adversity. Render with 'ทรงต่อสู้กับ' (have-acted-against, royal verb-prefix) for the divine subject."
+        }
+      ],
+      "notes": "The chapter's hapax legomenon (עָגַן) and the chapter's first explicit theological interpretation by Naomi: she reads YHWH's hand as having struck her down. The 'hand of the LORD' anthropomorphism preserves the visceral force of Hebrew theological speech — Naomi names the cause of her loss as divine action, not random misfortune. The Thai 'พระหัตถ์' (royal-Thai 'hand') maintains both the imagery and the honorific register due to the divine subject."
+    }
+  },
+  {
+    "reference": "Ruth 1:14",
+    "chapter": 1,
+    "verse": 14,
+    "language": "hebrew",
+    "hebrew": "וַתִּשֶּׂ֣נָה קוֹלָ֔ן וַתִּבְכֶּ֖ינָה ע֑וֹד וַתִּשַּׁ֤ק עָרְפָּה֙ לַחֲמוֹתָ֔הּ וְר֖וּת דָּ֥בְקָה בָּֽהּ׃",
+    "bsb_english": "Again they wept aloud, and Orpah kissed her mother-in-law goodbye, but Ruth clung to her.",
+    "translation": {
+      "thai": "พวกเขาก็ส่งเสียงร้องไห้อีกครั้ง โอรปาห์จูบลาแม่สามีของนาง แต่รูธยังคงผูกพันอยู่กับนาง",
+      "thai_literal": "และพวกเขายกเสียงของพวกเขาและร้องไห้อีก และโอรปาห์จูบแม่สามีของนาง และรูธผูกพันอยู่กับนาง",
+      "thai_summary": "คำกริยา 'ผูกพัน' (דָּבַק) ในข้อนี้เป็นคำเดียวกับที่ปฐมกาล 2:24 ใช้สำหรับพันธสัญญาแห่งการสมรส ('สามีจะผูกพันกับภรรยาของเขา') ผู้เขียนเลือกใช้คำนี้อย่างจงใจ — รูธไม่ได้เพียงเลือกอยู่กับนาโอมีเท่านั้น แต่เธอกำลังก่อพันธสัญญาแห่งความผูกพันต่อนาโอมีและพระเจ้าของนาโอมี ในระดับที่ลึกซึ้งเหมือนการสมรส",
+      "key_decisions": [
+        {
+          "hebrew": "דָּבְקָה בָּהּ",
+          "thai": "ยังคงผูกพันอยู่กับนาง",
+          "rationale": "**Key verb**: דָּבַק dāḇaq 'cleave, cling, adhere.' Same lexeme as Gen 2:24 ('the man shall cleave to his wife') — the marriage-covenant bonding word. The narrator's choice is deliberate intertextuality: Ruth's commitment to Naomi has covenant-bond force. Thai 'ผูกพัน' captures the covenant-bond sense; 'ยังคง' (continued/remained) marks the contrastive persistence. Distinguished from the simpler 'อยู่กับ' (stay with)."
+        },
+        {
+          "hebrew": "עָרְפָּה ... וְרוּת",
+          "thai": "โอรปาห์ ... รูธ",
+          "rationale": "Wordplay possibility: עֹרֶף 'neck/back' shares phonetics with עָרְפָּה — and Orpah indeed turns her back. Whereas רוּת stays. Don't force the wordplay in Thai (no equivalent), but document."
+        },
+        {
+          "hebrew": "לַחֲמוֹתָהּ",
+          "thai": "แม่สามีของนาง",
+          "rationale": "חֲמוֹת 'mother-in-law' — Thai 'แม่สามี' (mother-of-husband) is the standard relational term. Used for Naomi from Orpah's viewpoint."
+        }
+      ],
+      "notes": "The pivot point of chapter 1 — and arguably of the entire book. Orpah's exit is reported in a single clause; Ruth's commitment is given the Hebrew דָּבַק verb that marks Adam-Eve covenant union. The narrator does not blame Orpah (she has done what Naomi commanded); the narrator is highlighting Ruth's exceptional commitment by contrast."
+    }
+  },
+  {
+    "reference": "Ruth 1:15",
+    "chapter": 1,
+    "verse": 15,
+    "language": "hebrew",
+    "hebrew": "וַתֹּ֗אמֶר הִנֵּה֙ שָׁ֣בָה יְבִמְתֵּ֔ךְ אֶל־עַמָּ֖הּ וְאֶל־אֱלֹהֶ֑יהָ שׁ֖וּבִי אַחֲרֵ֥י יְבִמְתֵּֽךְ׃",
+    "bsb_english": "“Look,” said Naomi, “your sister-in-law has gone back to her people and her gods; follow her back home.”",
+    "translation": {
+      "thai": "นาโอมีกล่าวว่า “ดูเถิด พี่สะใภ้ของเจ้ากลับไปหาชนชาติและพระทั้งหลายของนางแล้ว เจ้าก็จงกลับไปตามพี่สะใภ้เถิด”",
+      "thai_literal": "และนางกล่าวว่า “ดูเถิด พี่สะใภ้ของเจ้าได้กลับ ไปยังประชาชนของนางและไปยังพระเจ้าทั้งหลายของนาง จงกลับไปตามพี่สะใภ้ของเจ้า”",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "הִנֵּה",
+          "thai": "ดูเถิด",
+          "rationale": "Hebrew attention-marker הִנֵּה. Per hebrew_idioms_and_metaphor §5.2 and ot_register_policy default, render as 'ดูเถิด' / 'ดูสิ' / 'นี่แน่ะ.' Selecting 'ดูเถิด' here for the formal pointing-out tone."
+        },
+        {
+          "hebrew": "יְבִמְתֵּךְ",
+          "thai": "พี่สะใภ้ของเจ้า",
+          "rationale": "יְבָמָה 'sister-in-law via levirate (brother's wife)' — the technical kinship term tied to levirate-marriage law (Deut 25:5-10). Thai has no exact equivalent; 'พี่สะใภ้' (older-sister-in-law) is the closest natural rendering for the relationship between two daughters-in-law of the same mother."
+        },
+        {
+          "hebrew": "אֶל־עַמָּהּ וְאֶל־אֱלֹהֶיהָ",
+          "thai": "ชนชาติและพระทั้งหลายของนาง",
+          "rationale": "**Pagan deity register.** Per ot_register_policy §3 + pagan_deities_2026-04 (NT corpus): when אֱלֹהִים refers to false/foreign gods (here Moabite gods like Chemosh), do NOT use 'พระเจ้า' (which is reserved for YHWH/Elohim-as-true-God). Use 'พระทั้งหลาย' (the gods, plural) — keeps the Hebrew plural-form transparent and signals the pagan-deity register. The plural Hebrew אֱלֹהֶיהָ 'her gods' is understood referentially as plural here (Moab had Chemosh as chief god + others), not as plural-of-majesty for one God."
+        },
+        {
+          "hebrew": "שׁוּבִי אַחֲרֵי יְבִמְתֵּךְ",
+          "thai": "เจ้าก็จงกลับไปตามพี่สะใภ้เถิด",
+          "rationale": "Naomi's third command to Ruth specifically (after the collective commands in vv.8, 11-12). Singular feminine imperative — Naomi is now addressing only Ruth."
+        }
+      ],
+      "notes": "Naomi's last attempt to send Ruth back. Notice the pagan-religious dimension: she explicitly names Orpah's return to 'her gods' (plural), framing Orpah's choice as religious as well as ethnic. This sets up Ruth's response in v.16, which makes Ruth's commitment also explicitly religious ('your God will be my God')."
+    }
+  },
+  {
+    "reference": "Ruth 1:16",
+    "chapter": 1,
+    "verse": 16,
+    "language": "hebrew",
+    "hebrew": "וַתֹּ֤אמֶר רוּת֙ אַל־תִּפְגְּעִי־בִ֔י לְעָזְבֵ֖ךְ לָשׁ֣וּב מֵאַחֲרָ֑יִךְ כִּ֠י אֶל־אֲשֶׁ֨ר תֵּלְכִ֜י אֵלֵ֗ךְ וּבַאֲשֶׁ֤ר תָּלִ֨ינִי֙ אָלִ֔ין עַמֵּ֣ךְ עַמִּ֔י וֵאלֹהַ֖יִךְ אֱלֹהָֽי׃",
+    "bsb_english": "But Ruth replied: “Do not urge me to leave you or to turn from following you. For wherever you go, I will go, and wherever you live, I will live; your people will be my people, and your God will be my God.",
+    "translation": {
+      "thai": "แต่รูธตอบว่า “ขออย่าได้คะยั้นคะยอให้ข้าพเจ้าละทิ้งท่าน หรือกลับจากการติดตามท่านเลย เพราะท่านไปที่ใด ข้าพเจ้าจะไปที่นั่น และท่านพักที่ใด ข้าพเจ้าจะพักที่นั่น ชนชาติของท่านจะเป็นชนชาติของข้าพเจ้า และพระเจ้าของท่านจะเป็นพระเจ้าของข้าพเจ้า",
+      "thai_literal": "และรูธกล่าวว่า “อย่าผลักไสข้าพเจ้า จากการละทิ้งท่าน จากการกลับจากเบื้องหลังท่าน เพราะไปที่ซึ่งท่านไป ข้าพเจ้าจะไป และที่ซึ่งท่านพัก ข้าพเจ้าจะพัก ประชาชนของท่านคือประชาชนของข้าพเจ้า และพระเจ้าของท่านคือพระเจ้าของข้าพเจ้า",
+      "thai_summary": "ข้อ 16-17 เป็นหนึ่งในคำกล่าวที่งดงามและมีพลังที่สุดในพระคัมภีร์ทั้งเล่ม รูธหญิงโมอับเลือกที่จะปฏิเสธพระเจ้าและประชาชนของตน เพื่อรับเอาพระเจ้าและประชาชนของนาโอมี — เป็นการเปลี่ยนใจกลับมาหาพระเจ้าอย่างสมบูรณ์ทั้งทางสังคม วัฒนธรรม และศาสนา ทำให้รูธเป็นบรรพบุรุษของกษัตริย์ดาวิด (รูธ 4:17) และของพระเยซูคริสต์ (มัทธิว 1:5)",
+      "key_decisions": [
+        {
+          "hebrew": "אַל־תִּפְגְּעִי־בִי",
+          "thai": "ขออย่าได้คะยั้นคะยอ",
+          "rationale": "פָּגַע 'meet, encounter, urge, press upon' — in this context the negative command means 'don't press/urge me to.' Render with the Thai colloquial-but-emphatic 'คะยั้นคะยอ' (importune/urge insistently)."
+        },
+        {
+          "hebrew": "לְעָזְבֵךְ לָשׁוּב מֵאַחֲרָיִךְ",
+          "thai": "ให้ข้าพเจ้าละทิ้งท่าน หรือกลับจากการติดตามท่าน",
+          "rationale": "Two parallel infinitives: 'to-leave-you, to-return from-after-you.' Hebrew הָלַךְ אַחֲרֵי 'walk after' = idiomatic 'follow,' often loaded with covenant-allegiance overtones (cf. Deut 4:3 'go after Baal of Peor'). Thai 'การติดตามท่าน' (following you) preserves the discipleship/covenant-following sense."
+        },
+        {
+          "hebrew": "אֶל־אֲשֶׁר תֵּלְכִי אֵלֵךְ וּבַאֲשֶׁר תָּלִינִי אָלִין",
+          "thai": "ท่านไปที่ใด ข้าพเจ้าจะไปที่นั่น และท่านพักที่ใด ข้าพเจ้าจะพักที่นั่น",
+          "rationale": "Beautiful Hebrew parallelism: 'to-where you-go I-will-go, and-in-where you-lodge I-will-lodge.' Preserve the parallel structure in Thai. לוּן 'to lodge/spend the night' carries the residential-fellowship sense, slightly distinct from שָׁכַן (dwell). Thai 'พัก' captures the lodging sense."
+        },
+        {
+          "hebrew": "עַמֵּךְ עַמִּי וֵאלֹהַיִךְ אֱלֹהָי",
+          "thai": "ชนชาติของท่านจะเป็นชนชาติของข้าพเจ้า และพระเจ้าของท่านจะเป็นพระเจ้าของข้าพเจ้า",
+          "rationale": "**The covenant declaration.** Two verbless equational clauses (no copula in Hebrew), often translated with future-tense will-be in English. Ruth is saying: I am binding myself to your nation and your God. This is the **conversion-confession** that makes Ruth a worshiper of YHWH. The אֱלֹהֶיךָ here is YHWH (true God of Israel) — distinguished from the plural pagan 'gods' (אֱלֹהֶיהָ) in v.15 by referent. Render as singular 'พระเจ้า' (matching standard NT 'God' rendering, since here Elohim = true God)."
+        },
+        {
+          "hebrew": "אֵלֵךְ",
+          "thai": "ข้าพเจ้าจะไป",
+          "rationale": "**Pronoun-register decision (anchored on the 1sg-cs verb morphology אֵלֵךְ 'I-will-go').** Ruth elevates her pronoun register here for the covenant oath. Earlier dialogue would use 'ฉัน/ดิฉัน' or 'ฉัน,' but for v.16-17 — Ruth's covenant commitment — use 'ข้าพเจ้า' (formal 1sg, matching NT covenant-prayer register) for self and continued 'ท่าน' (respectful you) for Naomi. This marks the rhetorical elevation of the moment per ot_register_policy lament/covenant voice."
+        }
+      ],
+      "notes": "Ruth's covenant declaration. The threefold parallelism (where you go / where you lodge / your people / your God) builds to the covenantal climax. Theologically, Ruth here becomes the Bible's exemplar of Gentile-conversion — anticipating Isaiah 56:1-8 + the NT inclusion of Gentiles (Eph 2:11-22). The Thai must preserve both the rhythmic parallelism and the covenant-oath weight."
+    }
+  },
+  {
+    "reference": "Ruth 1:17",
+    "chapter": 1,
+    "verse": 17,
+    "language": "hebrew",
+    "hebrew": "בַּאֲשֶׁ֤ר תָּמ֨וּתִי֙ אָמ֔וּת וְשָׁ֖ם אֶקָּבֵ֑ר כֹּה֩ יַעֲשֶׂ֨ה יְהוָ֥ה לִי֙ וְכֹ֣ה יֹסִ֔יף כִּ֣י הַמָּ֔וֶת יַפְרִ֖יד בֵּינִ֥י וּבֵינֵֽךְ׃",
+    "bsb_english": "Where you die, I will die, and there I will be buried. May the LORD punish me, and ever so severely, if anything but death separates you and me.”",
+    "translation": {
+      "thai": "ท่านสิ้นชีวิตที่ใด ข้าพเจ้าก็จะสิ้นชีวิตที่นั่น และจะถูกฝังที่นั่นด้วย ขอองค์พระผู้เป็นเจ้าทรงลงโทษข้าพเจ้า และให้หนักยิ่งกว่านั้นอีก หากแม้แต่ความตายจะมาแยกข้าพเจ้าจากท่าน”",
+      "thai_literal": "ในที่ซึ่งท่านตาย ข้าพเจ้าจะตาย และที่นั่นข้าพเจ้าจะถูกฝัง ดังนี้ขอองค์พระผู้เป็นเจ้ากระทำแก่ข้าพเจ้า และดังนี้ขอให้ทรงเพิ่ม เพราะความตายจะแยกระหว่างข้าพเจ้ากับท่าน",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "בַּאֲשֶׁר תָּמוּתִי אָמוּת וְשָׁם אֶקָּבֵר",
+          "thai": "ท่านสิ้นชีวิตที่ใด ข้าพเจ้าก็จะสิ้นชีวิตที่นั่น และจะถูกฝังที่นั่นด้วย",
+          "rationale": "Continues the parallelism of v.16. To die-with and be-buried-with = ultimate covenant commitment in ANE: burial-with-family was the deepest mark of belonging. Ruth pledges her family-of-burial as Naomi's family. Niphal אֶקָּבֵר 'I-will-be-buried' = passive-future."
+        },
+        {
+          "hebrew": "כֹּה יַעֲשֶׂה יְהוָה לִי וְכֹה יֹסִיף",
+          "thai": "ขอองค์พระผู้เป็นเจ้าทรงลงโทษข้าพเจ้า และให้หนักยิ่งกว่านั้นอีก",
+          "rationale": "**Hebrew oath formula.** כֹּה ... וְכֹה יֹסִיף 'thus (may YHWH do) ... and thus may he add' — the speaker invokes a self-curse if the oath is broken (cf. 1 Sam 3:17, 14:44, 20:13, 25:22; 2 Sam 3:9, 35; 19:14; 1 Kgs 2:23; 19:2; 20:10; 2 Kgs 6:31). The implicit curse is severe: 'may YHWH strike me dead and worse.' Standard English: 'May the LORD do so to me, and more also.' Thai render with 'ขอองค์พระผู้เป็นเจ้าทรงลงโทษข้าพเจ้า' (may YHWH punish me) + 'และให้หนักยิ่งกว่านั้นอีก' (and more severely than that). This is the strongest oath formula in OT Hebrew — Ruth puts everything on the line."
+        },
+        {
+          "hebrew": "כִּי הַמָּוֶת יַפְרִיד בֵּינִי וּבֵינֵךְ",
+          "thai": "หากแม้แต่ความตายจะมาแยกข้าพเจ้าจากท่าน",
+          "rationale": "The oath's condition. Hebrew כִּי here is the oath-conditional 'if/that' — 'if (anything other than) death separates us.' Standard reading: only death — and not even that, if Ruth has her way — should separate them. Thai 'หากแม้แต่ความตาย' (if even death) preserves the emphatic-conditional force."
+        }
+      ],
+      "notes": "The oath completes Ruth's covenant declaration (v.16) by binding it with the strongest Hebrew formula of self-imprecation. To-die-with + to-be-buried-with + sealed-with-divine-oath = the most comprehensive covenant commitment one human can make to another in the OT vocabulary. The fact that Ruth — a Moabite, a foreigner — invokes YHWH's curse on herself is itself testimony to her conversion: she is now under YHWH's covenant jurisdiction."
+    }
+  },
+  {
+    "reference": "Ruth 1:18",
+    "chapter": 1,
+    "verse": 18,
+    "language": "hebrew",
+    "hebrew": "וַתֵּ֕רֶא כִּֽי־מִתְאַמֶּ֥צֶת הִ֖יא לָלֶ֣כֶת אִתָּ֑הּ וַתֶּחְדַּ֖ל לְדַבֵּ֥ר אֵלֶֽיהָ׃",
+    "bsb_english": "When Naomi saw that Ruth was determined to go with her, she stopped trying to persuade her.",
+    "translation": {
+      "thai": "เมื่อนาโอมีเห็นว่ารูธตั้งใจแน่วแน่ที่จะไปกับนาง นางก็เลิกพูดโน้มน้าวอีก",
+      "thai_literal": "และนางเห็นว่านางมุ่งมั่น เพื่อไปกับนาง และนางหยุดที่จะพูดกับนาง",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "מִתְאַמֶּצֶת",
+          "thai": "ตั้งใจแน่วแน่",
+          "rationale": "Hithpael of אָמַץ 'be strong, courageous' — reflexive 'strengthening herself, being resolute.' Naomi recognizes that further argument is futile. Thai 'ตั้งใจแน่วแน่' (firmly resolved) captures the determined-resolution sense."
+        },
+        {
+          "hebrew": "וַתֶּחְדַּל לְדַבֵּר אֵלֶיהָ",
+          "thai": "นางก็เลิกพูดโน้มน้าวอีก",
+          "rationale": "Wayyiqtol of חָדַל 'cease, desist.' Add 'โน้มน้าว' (persuade/dissuade) to Thai for clarity — Naomi stops *trying to dissuade* her, not stops speaking altogether."
+        }
+      ],
+      "notes": "Brief transitional verse closing the dialogue. Naomi recognizes that Ruth's decision is final and stops the persuasion. The narrative now pivots to the arrival in Bethlehem."
+    }
+  },
+  {
+    "reference": "Ruth 1:19",
+    "chapter": 1,
+    "verse": 19,
+    "language": "hebrew",
+    "hebrew": "וַתֵּלַ֣כְנָה שְׁתֵּיהֶ֔ם עַד־בֹּאָ֖נָה בֵּ֣ית לָ֑חֶם וַיְהִ֗י כְּבֹאָ֨נָה֙ בֵּ֣ית לֶ֔חֶם וַתֵּהֹ֤ם כָּל־הָעִיר֙ עֲלֵיהֶ֔ן וַתֹּאמַ֖רְנָה הֲזֹ֥את נָעֳמִֽי׃",
+    "bsb_english": "So Naomi and Ruth traveled until they came to Bethlehem. When they entered Bethlehem, the whole town was stirred because of them, and the women of the town exclaimed, “Can this be Naomi?”",
+    "translation": {
+      "thai": "ทั้งสองจึงเดินทางต่อไปจนถึงเบธเลเฮม เมื่อทั้งสองมาถึงเบธเลเฮม ทั้งเมืองก็เกิดการตื่นเต้นเพราะพวกนาง พวกผู้หญิงต่างพูดกันว่า “นี่นาโอมีหรือ?”",
+      "thai_literal": "และพวกเขาเดินทางทั้งสองคน จนกระทั่งพวกเขามาถึงเบธเลเฮม และเป็นไป เมื่อพวกเขามาถึงเบธเลเฮม ทั้งเมืองก็ตื่นเต้นเกี่ยวกับพวกเขา และพวกเขากล่าวว่า นี่หรือนาโอมี?",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "וַתֵּהֹם כָּל־הָעִיר",
+          "thai": "ทั้งเมืองก็เกิดการตื่นเต้น",
+          "rationale": "הוּם 'be in commotion, be stirred' — Niphal here denotes collective-buzz reaction. Render as 'เกิดการตื่นเต้น' (was stirred/excited) — captures the collective-amazement at how Naomi has been transformed by tragedy."
+        },
+        {
+          "hebrew": "וַתֹּאמַרְנָה",
+          "thai": "พวกผู้หญิงต่างพูดกัน",
+          "rationale": "3fp wayyiqtol — the subject is implicit feminine plural ('they-fem said'), referring to the women of the town. Add explicit 'พวกผู้หญิง' (the women) for Thai clarity."
+        },
+        {
+          "hebrew": "הֲזֹאת נָעֳמִי",
+          "thai": "นี่นาโอมีหรือ?",
+          "rationale": "Verbless interrogative: 'Is this Naomi?' — the women's amazed disbelief. Sets up Naomi's response in v.20. Hebrew זֹאת 'this (fem)' demonstrative + interrogative ה-prefix."
+        }
+      ],
+      "notes": "Arrival scene + the townswomen's reaction. The whole town's excitement signals that Naomi was a known figure when she left ten years ago — and that her changed appearance (from ten years of grief and loss) is striking. The amazed question 'Is this Naomi?' sets up the wordplay that follows in vv.20-21."
+    }
+  },
+  {
+    "reference": "Ruth 1:20",
+    "chapter": 1,
+    "verse": 20,
+    "language": "hebrew",
+    "hebrew": "וַתֹּ֣אמֶר אֲלֵיהֶ֔ן אַל־תִּקְרֶ֥אנָה לִ֖י נָעֳמִ֑י קְרֶ֤אןָ לִי֙ מָרָ֔א כִּי־הֵמַ֥ר שַׁדַּ֛י לִ֖י מְאֹֽד׃",
+    "bsb_english": "“Do not call me Naomi,” she replied. “Call me Mara, because the Almighty has dealt quite bitterly with me.",
+    "translation": {
+      "thai": "แต่นางกล่าวแก่พวกเขาว่า “อย่าเรียกฉันว่านาโอมีเลย จงเรียกฉันว่ามารา เพราะองค์ผู้ทรงมหิทธิฤทธิ์ได้ทรงทำให้ฉันขมขื่นยิ่งนัก",
+      "thai_literal": "และนางกล่าวแก่พวกเขาว่า อย่าเรียกฉันนาโอมี จงเรียกฉันมารา เพราะผู้ทรงมหิทธิฤทธิ์ทำให้ขมแก่ฉันมาก",
+      "thai_summary": "นาโอมีเล่นคำเชิงเทววิทยาในข้อ 20-21 ชื่อ 'นาโอมี' (נָעֳמִי) แปลว่า 'น่าชื่นใจ/ไพเราะ' (จากรากศัพท์ נֹעַם 'pleasantness') ส่วน 'มารา' (מָרָא) แปลว่า 'ขมขื่น' (จากรากศัพท์ מָרַר 'be bitter') — ตรงข้ามกันสุดขั้ว และคำว่า 'ผู้ทรงมหิทธิฤทธิ์' (שַׁדַּי, Shaddai) เป็นพระนามของพระเจ้าที่ใช้บ่อยในยุคของบรรพบุรุษ (ปฐมกาล 17:1; 28:3; 35:11; 49:25) มีความหมายเชิงพันธสัญญาแห่งการอวยพร — แต่นาโอมีกลับใช้ในบริบทของการที่พระเจ้าได้ทรงนำความขมขื่นมาให้นาง",
+      "key_decisions": [
+        {
+          "hebrew": "נָעֳמִי",
+          "thai": "นาโอมี",
+          "rationale": "Naomi's own name, etymology = 'pleasant.' The pun depends on this being recognizable as 'pleasantness' in the original; flagged in thai_summary for Thai readers."
+        },
+        {
+          "hebrew": "מָרָא",
+          "thai": "มารา",
+          "rationale": "Symbolic name 'Bitter,' from root מָרַר. Naomi renames herself in lament. Distinguish from later proper-noun 'Mara' (a person; Marah=spring of Ex 15:23). Thai readers may not catch the wordplay; thai_summary explains."
+        },
+        {
+          "hebrew": "שַׁדַּי",
+          "thai": "องค์ผู้ทรงมหิทธิฤทธิ์",
+          "rationale": "Per divine_names_table_2026-05.md: שַׁדַּי 'Shaddai' (often translated 'Almighty') → 'ผู้ทรงมหิทธิฤทธิ์' — patriarchal-era divine name, frequent in Job + Genesis-patriarchal. Add 'องค์' prefix for vocative-like force in this rhetorical context. The Greek LXX renders Shaddai variously (παντοκράτωρ, ἱκανός); Thai consistently 'ผู้ทรงมหิทธิฤทธิ์' across OT."
+        },
+        {
+          "hebrew": "הֵמַר שַׁדַּי לִי מְאֹד",
+          "thai": "องค์ผู้ทรงมหิทธิฤทธิ์ได้ทรงทำให้ฉันขมขื่นยิ่งนัก",
+          "rationale": "Hifil of מָרַר 'cause-to-be-bitter' = 'has dealt bitterly with' (BSB) / 'has made me bitter' (root-cognate with the proper noun 'Mara'). The verbal cognate is the heart of the wordplay: Mara because הֵמַר (made-bitter). Thai 'ทรงทำให้ฉันขมขื่นยิ่งนัก' (caused me very-bitter) preserves the cognate connection through the shared 'ขมขื่น/ขม' family."
+        }
+      ],
+      "notes": "**Wordplay verse** (per divine_names_table §wordplay). Naomi's renaming-lament is theologically loaded: she ascribes her bitterness to YHWH/Shaddai's direct action, refusing to soften. The Hebrew literary technique is sophisticated — the proper noun Mara, the verb hēmar, and the etymology of Naomi all interact in three Hebrew words. Thai cannot reproduce the wordplay phonetically, but the thai_summary surfaces the meaning for Thai readers."
+    }
+  },
+  {
+    "reference": "Ruth 1:21",
+    "chapter": 1,
+    "verse": 21,
+    "language": "hebrew",
+    "hebrew": "אֲנִי֙ מְלֵאָ֣ה הָלַ֔כְתִּי וְרֵיקָ֖ם הֱשִׁיבַ֣נִי יְהוָ֑ה לָ֣מָּה תִקְרֶ֤אנָה לִי֙ נָעֳמִ֔י וַֽיהוָה֙ עָ֣נָה בִ֔י וְשַׁדַּ֖י הֵ֥רַֽעלִֽי׃",
+    "bsb_english": "I went away full, but the LORD has brought me back empty. Why call me Naomi? After all, the LORD has testified against me, and the Almighty has afflicted me.”",
+    "translation": {
+      "thai": "ฉันออกจากที่นี่ไปอย่างเต็มเปี่ยม แต่องค์พระผู้เป็นเจ้าทรงนำฉันกลับมาด้วยมือเปล่า เหตุใดเล่าจึงเรียกฉันว่านาโอมี ในเมื่อองค์พระผู้เป็นเจ้าทรงเป็นพยานปรักปรำฉัน และองค์ผู้ทรงมหิทธิฤทธิ์ทรงนำความทุกข์มาให้ฉัน?”",
+      "thai_literal": "ฉันเต็มเปี่ยมได้ไป และว่างเปล่าได้นำฉันกลับมา องค์พระผู้เป็นเจ้า เหตุใดพวกเจ้าเรียกฉันนาโอมี และองค์พระผู้เป็นเจ้าได้ตอบในฉัน และผู้ทรงมหิทธิฤทธิ์ได้ทำร้ายแก่ฉัน?",
+      "thai_summary": "ภาษาที่นาโอมีใช้ในข้อ 21 มีความหนักแน่นทางเทววิทยา — นางใช้ภาษาทางกฎหมายของพันธสัญญา 'ทรงเป็นพยานปรักปรำ' (עָנָה בִּי) เป็นสำนวนทางศาล หมายถึงพระเจ้ายืนเป็นโจทก์ฟ้องนาง นาโอมีมองว่าความสูญเสียของนางเป็นการพิพากษาของพระเจ้า ไม่ใช่เคราะห์กรรม นี่เป็นเสียงของผู้ที่เชื่อในการทรงนำของพระเจ้าอย่างเต็มที่ — แม้ในความเศร้าหนักที่สุด",
+      "key_decisions": [
+        {
+          "hebrew": "אֲנִי מְלֵאָה הָלַכְתִּי וְרֵיקָם הֱשִׁיבַנִי יְהוָה",
+          "thai": "ฉันออกจากที่นี่ไปอย่างเต็มเปี่ยม แต่องค์พระผู้เป็นเจ้าทรงนำฉันกลับมาด้วยมือเปล่า",
+          "rationale": "Antithetical pair: מְלֵאָה 'full' vs רֵיקָם 'empty.' 'Full' = with husband + sons + future; 'empty' = widowed, sonless, hopeless. The antithesis is the central image of the lament. Thai 'เต็มเปี่ยม' (full/abundant) vs 'ด้วยมือเปล่า' (with empty hands) preserves the antithesis with natural Thai idiom."
+        },
+        {
+          "hebrew": "הֱשִׁיבַנִי יְהוָה",
+          "thai": "องค์พระผู้เป็นเจ้าทรงนำฉันกลับมา",
+          "rationale": "Hifil of שׁוּב 'cause-to-return' — Naomi attributes her return to YHWH's direct action (not her own decision). She is reading the entire ten-year arc — from full-leaving to empty-returning — as YHWH's hand."
+        },
+        {
+          "hebrew": "עָנָה בִי",
+          "thai": "ทรงเป็นพยานปรักปรำฉัน",
+          "rationale": "עָנָה בְּ 'answer/testify against (someone)' — covenant-lawsuit language (cf. Deut 19:16-19; 31:21; Job 16:8). The image is of YHWH appearing as witness/prosecutor against Naomi. Render with 'ทรงเป็นพยานปรักปรำ' (be a hostile-witness against) — preserves the legal-courtroom imagery. Distinguish from neutral 'answer' (ตอบ)."
+        },
+        {
+          "hebrew": "הֵרַע לִי",
+          "thai": "ทรงนำความทุกข์มาให้ฉัน",
+          "rationale": "Hifil of רָעַע 'do evil/harm to' — strong language. Naomi is not softening her theological claim; she names YHWH/Shaddai as the agent of her affliction. Thai 'ทรงนำความทุกข์มาให้' (caused suffering to come upon) preserves the strength without softening to 'allowed' or smoothing into euphemism. **Theologically:** Naomi's lament fits the Job-pattern of honest theodicy — naming God as the agent of one's suffering without claiming to understand why."
+        },
+        {
+          "hebrew": "שַׁדַּי",
+          "thai": "องค์ผู้ทรงมหิทธิฤทธิ์",
+          "rationale": "Second occurrence of Shaddai in this verse-pair. Same rendering as v.20."
+        }
+      ],
+      "notes": "The lament's climax. Naomi's vocabulary is deliberately strong — 'testified against me,' 'has done evil to me' — refusing the easy theological move of blaming chance or external causes. She is holding YHWH responsible. This is biblical lament at its most honest (cf. Job 7; Lam 3) — the trust relationship that YHWH is sovereign is the very thing that makes the protest possible. The reader knows what Naomi does not: that YHWH is in fact preserving the messianic line through Ruth's faithfulness, even in the midst of Naomi's bitterness."
+    }
+  },
+  {
+    "reference": "Ruth 1:22",
+    "chapter": 1,
+    "verse": 22,
+    "language": "hebrew",
+    "hebrew": "וַתָּ֣שָׁב נָעֳמִ֗י וְר֨וּת הַמּוֹאֲבִיָּ֤ה כַלָּתָהּ֙ עִמָּ֔הּ הַשָּׁ֖בָה מִשְּׂדֵ֣י מוֹאָ֑ב וְהֵ֗מָּה בָּ֚אוּ בֵּ֣ית לֶ֔חֶם בִּתְחִלַּ֖ת קְצִ֥יר שְׂעֹרִֽים׃",
+    "bsb_english": "So Naomi returned from the land of Moab with her daughter-in-law Ruth the Moabitess. And they arrived in Bethlehem at the beginning of the barley harvest.",
+    "translation": {
+      "thai": "นาโอมีจึงกลับมาพร้อมกับรูธชาวโมอับสะใภ้ของนาง — รูธผู้ที่กลับมาจากแผ่นดินโมอับ พวกนางมาถึงเบธเลเฮมในต้นฤดูเก็บเกี่ยวข้าวบาร์เลย์",
+      "thai_literal": "และนาโอมีกลับมา และรูธชาวโมอับสะใภ้ของนางอยู่กับนาง ผู้ที่กลับมาจากทุ่งของโมอับ และพวกเขามาถึงเบธเลเฮมในต้นการเก็บเกี่ยวข้าวบาร์เลย์",
+      "thai_summary": "ฤดูเก็บเกี่ยวข้าวบาร์เลย์ในอิสราเอลเริ่มต้นในเดือนเมษายน-พฤษภาคม (เทียบดู เลวีนิติ 23:9-14 ที่กำหนดการถวายฟ่อนข้าวแรก) นี่เป็นการเตรียมเวทีอย่างเงียบ ๆ สำหรับเรื่องราวในบทถัดไป — รูธจะออกไปเก็บข้าวที่ตกในนาของโบอัส (รูธ 2:2-3) ผู้เขียนกำลังบอกใบ้ว่าพระเจ้าผู้ทรงนำความขมขื่นมา (ตามมุมมองของนาโอมี) ก็กำลังทรงเตรียมการเปลี่ยนแปลง",
+      "key_decisions": [
+        {
+          "hebrew": "הַמּוֹאֲבִיָּה",
+          "thai": "ชาวโมอับ",
+          "rationale": "Feminine ethnic adjective — Ruth's Moabite identity continues to be marked. Thai 'ชาวโมอับ' (one-of-Moab/Moabite [feminine implicit])."
+        },
+        {
+          "hebrew": "הַשָּׁבָה מִשְּׂדֵי מוֹאָב",
+          "thai": "ผู้ที่กลับมาจากแผ่นดินโมอับ",
+          "rationale": "Feminine singular participle 'the (one) returning' — the antecedent is ambiguous in Hebrew (could refer to either Ruth or Naomi), but most translations + NLT commentary read as referring to Ruth (Naomi is going *home*; Ruth is the one *returning* with her, despite never having been to Bethlehem before). The phrasing makes Ruth's commitment-of-return parallel to Naomi's physical return — Ruth is figuratively coming-home to her chosen people."
+        },
+        {
+          "hebrew": "בִּתְחִלַּת קְצִיר שְׂעֹרִים",
+          "thai": "ในต้นฤดูเก็บเกี่ยวข้าวบาร์เลย์",
+          "rationale": "Temporal anchor: barley-harvest = mid-April to late-May in Israel (cf. Lev 23:9-14 firstfruits offering). Critical for Ruth 2 setup — Ruth will glean in Boaz's barley field. שְׂעֹרִים 'barley' → Thai 'ข้าวบาร์เลย์' (barley-grain, the standard Thai loanword for the grain not native to Thailand). תְּחִלָּה 'beginning' → 'ต้นฤดู' (beginning of the season)."
+        }
+      ],
+      "notes": "The chapter closes with a temporal anchor that prepares for chapter 2. The mention of barley harvest is not incidental — it tells the reader that Ruth and Naomi have arrived at the moment when gleaning is possible (Lev 19:9-10; Deut 24:19), which is the legal mechanism that brings Ruth into Boaz's field. The narrator's restraint is masterful: Naomi sees only emptiness, but the timing of the return is itself a sign of providential preparation."
+    }
+  }
+]

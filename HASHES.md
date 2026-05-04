@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-05-04 11:14:35 UTC_
-_Total chapters: 260 · Total verses: 7942_
+_Generated: 2026-05-04 23:10:40 UTC_
+_Total chapters: 261 · Total verses: 7964_
 
 ## How to verify a chapter
 
@@ -128,7 +128,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/hebrews_01.json` | 14 | `a68eda7d15d03b92bd483a5a8988e68f7d834e2490ae8609297add40abfef112` | `a0015a9` |
 | `output/translations/hebrews_02.json` | 18 | `57b8cc94a17f4afaeaa9605078a8b0a86f75447dd7e8b93e7ce56995e64d1a41` | `3466ae0` |
 | `output/translations/hebrews_03.json` | 19 | `2304367411023a3ebe7fb048eecc1189be931fdc7159c67d6648c9837d789664` | `a9bee18` |
-| `output/translations/hebrews_04.json` | 16 | `f221e8c2be25bc2718b53ea5c68c4068f10894fc898bc6ef1ca17b41061d19c9` | `c04d26e` |
+| `output/translations/hebrews_04.json` | 16 | `e9f11367c1902361af24da6b0c7208b86fa7459805e8fbc0133e984ba56925b2` | `bae8e5d` |
 | `output/translations/hebrews_05.json` | 14 | `6f9073271a914ded6fc5767a4f091a8ee9b8af407c3b00191fbefc899dd81c83` | `f4d002b` |
 | `output/translations/hebrews_06.json` | 20 | `50bc7cf503da15681c75ccceb75afc513646c34d81e3727d831277013e481c2d` | `86444d3` |
 | `output/translations/hebrews_07.json` | 28 | `66c0c117782b86402e22dada74ada6b21738f205b21ce539eea9a80609c11da8` | `391e990` |
@@ -137,7 +137,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/hebrews_10.json` | 39 | `a082ba35191f83048971852f2fdbaf043b3a2281af3e4350e88d84ad684e907c` | `c5d0322` |
 | `output/translations/hebrews_11.json` | 40 | `b17bfdfa91b372bf0ad8ea968d1e3ad874c697a939734668eca179199418a5bd` | `c6d46d4` |
 | `output/translations/hebrews_12.json` | 29 | `ab3705d42e1a3a90996eae4d9a7a43feb175487ec04766f594eb18133c255a8a` | `e06d560` |
-| `output/translations/hebrews_13.json` | 25 | `cd1f0202551281b52dc8ea05f213503bbf3b080ea423451171a65492b1ff0ee4` | `—` |
+| `output/translations/hebrews_13.json` | 25 | `cd1f0202551281b52dc8ea05f213503bbf3b080ea423451171a65492b1ff0ee4` | `9ec9a94` |
 | `output/translations/james_01.json` | 27 | `d493f72c16a0a05776625567731b705eb0fbc3399685fa95d5e45a888ea670c7` | `8e49de6` |
 | `output/translations/james_02.json` | 26 | `24fe583b63efce3b4e5e23ea02ed30abb45155e80d575ddc0c6bddd201b091ef` | `f009760` |
 | `output/translations/james_03.json` | 18 | `3808eccaa5550cc2fda97cd0dce2538331998823e416bf1c48ab042c3ba969d6` | `1138247` |
@@ -276,6 +276,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/romans_14.json` | 23 | `b0053855ef0eb4128c7831b5b2c9ef9e649dfb7b487185e6fa780c5fde1e2b80` | `73ccfe7` |
 | `output/translations/romans_15.json` | 33 | `7f0d286423a90030edd9e123cd34c43b6f72da74846b7cd524541e314bffeb2d` | `73ccfe7` |
 | `output/translations/romans_16.json` | 27 | `d6818f9bcd5e1caff3604f1e7852b42b063df2a18146bcf6f969ca9cfae71869` | `73ccfe7` |
+| `output/translations/ruth_01.json` | 22 | `c4bec2a66f770d8f38221545e8cd0515ac520e61ed3d4a359bd6722c66c142a9` | `—` |
 | `output/translations/titus_01.json` | 16 | `6b9bc5a855e4143fab405d9116d393e4ed8e929d99a62b3d2451d8043fb50100` | `7cca09e` |
 | `output/translations/titus_02.json` | 15 | `54cca3502fb1484c14c16b498528dd0e1691cb0d1650c2a21bae3fc079cf8180` | `9d4d7d2` |
 | `output/translations/titus_03.json` | 15 | `ae6d73e432043adfd5b8f1c7ccdac693084026cab5e5b9fda7db7d05472e9648` | `502e530` |
