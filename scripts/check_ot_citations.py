@@ -33,6 +33,20 @@ SLUG_TO_CODE = {
     "titus": "TIT", "philemon": "PHM", "hebrews": "HEB", "james": "JAS",
     "1peter": "1PE", "2peter": "2PE", "1john": "1JN", "2john": "2JN",
     "3john": "3JN", "jude": "JUD", "revelation": "REV",
+    # OT slugs — Ruth 1 ships before the full OT-pipeline branches land, so
+    # CI's "all chapters" sweep needs every OT slug recognised here.
+    # check_ot_citations.py default-passes for OT chapters (no NT-cited OT
+    # verses by definition); just need the slug to resolve cleanly.
+    "genesis": "GEN", "exodus": "EXO", "leviticus": "LEV", "numbers": "NUM",
+    "deuteronomy": "DEU", "joshua": "JOS", "judges": "JDG", "ruth": "RUT",
+    "1samuel": "1SA", "2samuel": "2SA", "1kings": "1KI", "2kings": "2KI",
+    "1chronicles": "1CH", "2chronicles": "2CH", "ezra": "EZR", "nehemiah": "NEH",
+    "esther": "EST", "job": "JOB", "psalms": "PSA", "proverbs": "PRO",
+    "ecclesiastes": "ECC", "songofsongs": "SNG", "isaiah": "ISA", "jeremiah": "JER",
+    "lamentations": "LAM", "ezekiel": "EZK", "daniel": "DAN", "hosea": "HOS",
+    "joel": "JOL", "amos": "AMO", "obadiah": "OBA", "jonah": "JON",
+    "micah": "MIC", "nahum": "NAM", "habakkuk": "HAB", "zephaniah": "ZEP",
+    "haggai": "HAG", "zechariah": "ZEC", "malachi": "MAL",
 }
 
 
