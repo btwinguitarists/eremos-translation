@@ -60,6 +60,8 @@ BOOK_SLUGS = {
     "2TI": "2timothy", "TIT": "titus", "PHM": "philemon", "HEB": "hebrews",
     "JAS": "james", "1PE": "1peter", "2PE": "2peter", "1JN": "1john",
     "2JN": "2john", "3JN": "3john", "JUD": "jude", "REV": "revelation",
+    # OT books — added as the OT pilot ships
+    "RUT": "ruth",
 }
 
 TODO_TH = "__TODO_TH__"
@@ -82,7 +84,7 @@ QUESTION_BLOCK_RE = re.compile(
 ITEM_SEPARATOR_RE = re.compile(r"\n+---\s*\n*$")
 VERSE_REF_RE = re.compile(
     r"(?:JHN|MAT|MRK|LUK|ACT|ROM|1CO|2CO|GAL|EPH|PHP|COL|1TH|2TH|1TI|2TI|"
-    r"TIT|PHM|HEB|JAS|1PE|2PE|1JN|2JN|3JN|JUD|REV)\s*(\d+):(\d+)"
+    r"TIT|PHM|HEB|JAS|1PE|2PE|1JN|2JN|3JN|JUD|REV|RUT)\s*(\d+):(\d+)"
 )
 
 
@@ -151,7 +153,7 @@ def derive_id(item: Item) -> str:
         "John", "Mark", "Matthew", "Luke", "Acts", "Galatians", "Thessalonians",
         "Romans", "Corinthians", "Ephesians", "Philippians", "Colossians",
         "Timothy", "Titus", "Hebrews", "James", "Peter", "Jude", "Revelation",
-        "Item", "SBLGNT",
+        "Item", "SBLGNT", "Ruth",
     }
     # Also skip book codes (JHN, MAT, etc.) so a title like
     # "JHN 3:11 ἀμὴν ἀμὴν drift" picks "drift" rather than "JHN".
