@@ -72,6 +72,17 @@ BOOKS = {
     "RUT": ("ruth", "Ruth"),
 }
 
+# OT book codes — the prompt branches on testament so OT packets reference
+# WLC + MACULA Hebrew rather than SBLGNT Greek. Per ChatGPT 2026-05-05 §Z.1
+# (the Ruth packet wrongly told the reviewer Ruth was translated from Greek).
+OT_CODES = frozenset({
+    "GEN", "EXO", "LEV", "NUM", "DEU", "JOS", "JDG", "RUT",
+    "1SA", "2SA", "1KI", "2KI", "1CH", "2CH", "EZR", "NEH", "EST",
+    "JOB", "PSA", "PRO", "ECC", "SNG", "ISA", "JER", "LAM", "EZK",
+    "DAN", "HOS", "JOL", "AMO", "OBA", "JON", "MIC", "NAM",
+    "HAB", "ZEP", "HAG", "ZEC", "MAL",
+})
+
 # ---------------------------------------------------------------------------
 # Locked corpus-level decisions — compressed one-line summaries used in the
 # packet's "don't re-litigate these" list. Keep in sync with
@@ -186,8 +197,42 @@ def build_packet(book_code, items_text):
     slug, name, chapter_count, verse_count = get_book_metadata(book_code)
     other_status = get_corpus_status(slug)
     today = date.today().isoformat()
+    is_ot = book_code in OT_CODES
 
     locked_lines = "\n".join(f"- {d}" for d in LOCKED_DECISIONS)
+
+    if is_ot:
+        source_phrase = (
+            "the Westminster Leningrad Codex (Hebrew Masoretic Text) with "
+            "MACULA Hebrew morphology and discourse annotations"
+        )
+        source_block = (
+            "- **Source:** Westminster Leningrad Codex (Hebrew MT) — same Hebrew base "
+            "as ESV / NIV / NASB / CSB / NLT. MACULA Hebrew supplies word-level "
+            "morphology, lemma data, and clause-discourse annotations.\n"
+            "- **Philosophy:** optimal equivalence — faithful to Hebrew grammar, natural "
+            "in modern Thai. Aramaic sections (when present, e.g. Dan 2:4b–7:28, Ezr "
+            "4:8–6:18, Jer 10:11) are handled per the language-aware dispatcher."
+        )
+        checks_blurb = (
+            "Per-chapter automated checks (Hebrew-field integrity, divine-names "
+            "enforcement, versification anchor against MT, honorifics-binding for "
+            "Rachasap, back-translation, Thai-summary coverage) all pass."
+        )
+        source_grounding = "Hebrew + Thai"
+    else:
+        source_phrase = "SBLGNT (Greek)"
+        source_block = (
+            "- **Source:** SBLGNT (same Greek base as ESV / NIV / NASB / CSB / BSB).\n"
+            "- **Philosophy:** optimal equivalence — faithful to Greek grammar, natural "
+            "in modern Thai."
+        )
+        checks_blurb = (
+            "Per-chapter automated checks (key-term consistency, back-translation, "
+            "OT-citation, Greek-field integrity, TNBT structural diff, claim consistency, "
+            "synoptic alignment, Thai-summary coverage) all pass."
+        )
+        source_grounding = "Greek + Thai"
 
     header = f"""# {name} — External AI Sanity-Check Review Packet
 **Date assembled: {today}**
@@ -198,13 +243,12 @@ def build_packet(book_code, items_text):
 
 ## PROMPT — read carefully before reviewing
 
-You are performing an **end-of-book external sanity-check** on **{name}** ({chapter_count} chapters, {verse_count:,} verses) from a CC0, AI-assisted, evangelical-Protestant Thai Bible translation translated directly from SBLGNT (Greek). Your output goes to the project's main session to surface corpus-level concerns that per-chapter automated checks may have missed.
+You are performing an **end-of-book external sanity-check** on **{name}** ({chapter_count} chapters, {verse_count:,} verses) from a CC0, AI-assisted, evangelical-Protestant Thai Bible translation translated directly from {source_phrase}. Your output goes to the project's main session to surface corpus-level concerns that per-chapter automated checks may have missed.
 
 ### Project shape
 
-- **Source:** SBLGNT (same Greek base as ESV / NIV / NASB / CSB / BSB).
-- **Philosophy:** optimal equivalence — faithful to Greek grammar, natural in modern Thai.
-- **Status:** {other_status}. {name} {chapter_count}/{chapter_count} just shipped. Per-chapter automated checks (key-term consistency, back-translation, OT-citation, Greek-field integrity, TNBT structural diff, claim consistency, synoptic alignment, Thai-summary coverage) all pass.
+{source_block}
+- **Status:** {other_status}. {name} {chapter_count}/{chapter_count} just shipped. {checks_blurb}
 
 ### Already-locked corpus decisions — DO NOT re-litigate
 
@@ -212,7 +256,7 @@ You are performing an **end-of-book external sanity-check** on **{name}** ({chap
 
 ### What we want from you
 
-The internal end-of-book review surfaced the items below. For each, tell us either (a) "fine as-is, here's why" or (b) "here's a real concern, here's the action." Where you disagree, give specific verse-level reasoning grounded in the Greek + Thai shown.
+The internal end-of-book review surfaced the items below. For each, tell us either (a) "fine as-is, here's why" or (b) "here's a real concern, here's the action." Where you disagree, give specific verse-level reasoning grounded in the {source_grounding} shown.
 
 ### What we are NOT asking for
 

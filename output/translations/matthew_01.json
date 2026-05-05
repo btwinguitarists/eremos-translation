@@ -66,8 +66,8 @@
     "greek": "Ἰούδας δὲ ἐγέννησεν τὸν Φαρὲς καὶ τὸν Ζάρα ἐκ τῆς Θαμάρ, Φαρὲς δὲ ἐγέννησεν τὸν Ἑσρώμ, Ἑσρὼμ δὲ ἐγέννησεν τὸν Ἀράμ,",
     "bsb_english": "Judah was the father of Perez and Zerah by Tamar, Perez the father of Hezron, and Hezron the father of Ram.",
     "translation": {
-      "thai": "ยูดาห์เป็นบิดาของเปเรศและเศราห์ โดยทามาร์เป็นมารดา เปเรศเป็นบิดาของเฮสโรน เฮสโรนเป็นบิดาของอารัม",
-      "thai_literal": "ยูดาห์ ได้ให้กำเนิดแก่ เปเรศ และ เศราห์ จาก ทามาร์, เปเรศ ได้ให้กำเนิดแก่ เฮสโรน, เฮสโรน ได้ให้กำเนิดแก่ อารัม",
+      "thai": "ยูดาห์เป็นบิดาของเปเรศและเศราห์ โดยทามาร์เป็นมารดา เปเรศเป็นบิดาของเฮสโรน เฮสโรนเป็นบิดาของราม",
+      "thai_literal": "ยูดาห์ ได้ให้กำเนิดแก่ เปเรศ และ เศราห์ จาก ทามาร์, เปเรศ ได้ให้กำเนิดแก่ เฮสโรน, เฮสโรน ได้ให้กำเนิดแก่ ราม",
       "thai_summary": "ทามาร์เป็นหญิงแรกในสี่หญิงที่มัทธิวเอ่ยนามในลำดับเชื้อสาย เรื่องของเธอ (ปฐก.38) เป็นเรื่องอื้อฉาว เธอปลอมตัวเป็นโสเภณีเพื่อให้ยูดาห์พ่อผัวของเธอให้ลูกแก่เธอ เพราะยูดาห์ผิดสัญญาไม่ให้บุตรคนเล็กของเขาแต่งงานกับเธอ การที่มัทธิวเลือกเธอเข้ามาในลำดับเชื้อสายของกษัตริย์เมสสิยาห์ เป็นสัญญาณว่าพระเจ้าทรงใช้กระทั่งเรื่องที่ไม่น่าพูดให้สำเร็จพระประสงค์ของพระองค์ และเป็นการเตรียมทางไว้ก่อนที่มารีย์จะมีครรภ์ในสถานการณ์ที่คนมองว่าน่าอับอาย",
       "key_decisions": [
         {
@@ -87,11 +87,11 @@
         },
         {
           "greek": "Ἀράμ",
-          "thai": "อารัม",
-          "rationale": "Matthew's Greek Ἀράμ = Heb. רָם (Ram per 1 Chr 2:9-10, Ruth 4:19). Many English translations render 'Ram' per the Hebrew; we preserve Matthew's Greek spelling in Thai as 'อารัม.' Same convention preserved at v.4. Per uW translate-names: 'Many translations spell Aram as Ram.'"
+          "thai": "ราม",
+          "rationale": "Matthew's Greek Ἀράμ = Heb. רָם (Ram per 1 Chr 2:9-10, Ruth 4:19). Greek prefixes a prosthetic α to the Hebrew name; English ESV/NIV/CSB/NLT all render 'Ram' per the Hebrew. **Locked corpus-wide as ราม per shared_names_normalization_2026-05.md (2026-05-05): for shared OT/NT figures, the Hebrew form wins; key_decisions documents the underlying source-language form for transparency.** Earlier rendering 'อารัม' (Greek-form) was backfilled to ราม after RUT 4:19 surfaced the cross-corpus tension. v.4 also updated."
         }
       ],
-      "notes": "HAPAX LEGOMENA: Ζάρα (Zerah), Θαμάρ (Tamar). NAME VARIATION: Ἀράμ here equals OT Ram (רָם); Matthew's Greek spelling differs from the LXX spelling of Ram. Some English translations substitute 'Ram' for clarity with OT; we preserve Matthew's Greek transliteration. FIRST GENEALOGY-WOMAN: Tamar (Gen 38) — Judah's daughter-in-law who, left childless after two of Judah's sons died, disguised herself as a prostitute to bear children by Judah himself. Her story highlights Torah's protection of the levirate-marriage claim (Deut 25:5-10) and the unexpected channels of the messianic line."
+      "notes": "HAPAX LEGOMENA: Ζάρα (Zerah), Θαμάρ (Tamar). NAME NORMALIZATION: Ἀράμ here equals OT Ram (רָם); Greek prefixes a prosthetic α. Per shared_names_normalization_2026-05.md (2026-05-05), the Hebrew form wins for shared OT/NT figures — locked as ราม here and at v.4 (was อารัม before the 2026-05-05 backfill triggered by RUT 4:19). FIRST GENEALOGY-WOMAN: Tamar (Gen 38) — Judah's daughter-in-law who, left childless after two of Judah's sons died, disguised herself as a prostitute to bear children by Judah himself. Her story highlights Torah's protection of the levirate-marriage claim (Deut 25:5-10) and the unexpected channels of the messianic line."
     }
   },
   {
@@ -101,7 +101,7 @@
     "greek": "Ἀρὰμ δὲ ἐγέννησεν τὸν Ἀμιναδάβ, Ἀμιναδὰβ δὲ ἐγέννησεν τὸν Ναασσών, Ναασσὼν δὲ ἐγέννησεν τὸν Σαλμών,",
     "bsb_english": "Ram was the father of Amminadab, Amminadab the father of Nahshon, and Nahshon the father of Salmon.",
     "translation": {
-      "thai": "อารัมเป็นบิดาของอัมมีนาดับ อัมมีนาดับเป็นบิดาของนาโชน นาโชนเป็นบิดาของสัลโมน",
+      "thai": "รามเป็นบิดาของอัมมีนาดับ อัมมีนาดับเป็นบิดาของนาโชน นาโชนเป็นบิดาของสัลโมน",
       "thai_literal": null,
       "thai_summary": "นาโชนเป็นหัวหน้าเผ่ายูดาห์ในสมัยอพยพ (กันดารวิถี 1:7; 2:3) ซึ่งหมายความว่าเชื้อสายของพระเยซูผ่านผู้นำที่โดดเด่นของอิสราเอลในยุคที่พระเจ้าทรงนำประชากรของพระองค์ออกจากอียิปต์",
       "key_decisions": [
