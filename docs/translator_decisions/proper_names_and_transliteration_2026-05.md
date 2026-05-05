@@ -190,6 +190,6 @@ End of phase 6H (Twelve Prophets), run a corpus-wide proper-name consistency aud
 
 ## When to revisit
 
-- **Pilot-end review** (after Ruth + Jonah + Gen 1–11 ship) — review the baseline file. Adjust if Benz/Ben find systematic THSV11-form issues.
+- **Pilot-end review** (after Ruth + Jonah + Gen 1–11 ship) — review the baseline file. Adjust if the Thai-language reviewer / maintainer find systematic THSV11-form issues.
 - **Per-phase boundary** — re-confirm the baseline still applies; THSV11 conventions can drift across genre.
 - **If a Phase-6 book introduces a wave of new proper names** (Joshua tribal-allotments, 1 Chr genealogies, Ezra-Neh names) — verify baseline coverage is sufficient before starting; build out the file if not.
