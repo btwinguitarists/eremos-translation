@@ -7,13 +7,13 @@
 
 ## PROMPT — read carefully before reviewing
 
-You are performing an **end-of-book external sanity-check** on **Ruth** (4 chapters, 85 verses) from a CC0, AI-assisted, evangelical-Protestant Thai Bible translation translated directly from SBLGNT (Greek). Your output goes to the project's main session to surface corpus-level concerns that per-chapter automated checks may have missed.
+You are performing an **end-of-book external sanity-check** on **Ruth** (4 chapters, 85 verses) from a CC0, AI-assisted, evangelical-Protestant Thai Bible translation translated directly from the Westminster Leningrad Codex (Hebrew Masoretic Text) with MACULA Hebrew morphology and discourse annotations. Your output goes to the project's main session to surface corpus-level concerns that per-chapter automated checks may have missed.
 
 ### Project shape
 
-- **Source:** SBLGNT (same Greek base as ESV / NIV / NASB / CSB / BSB).
-- **Philosophy:** optimal equivalence — faithful to Greek grammar, natural in modern Thai.
-- **Status:** 1 Corinthians, 1 Thessalonians, 1 Timothy, 2 Corinthians, 2 Thessalonians, 2 Timothy, Acts, Colossians, Ephesians, Galatians, John, Luke, Mark, Matthew, Philemon, Philippians, Romans complete + tagged; Revelation complete (not yet tagged). Ruth 4/4 just shipped. Per-chapter automated checks (key-term consistency, back-translation, OT-citation, Greek-field integrity, TNBT structural diff, claim consistency, synoptic alignment, Thai-summary coverage) all pass.
+- **Source:** Westminster Leningrad Codex (Hebrew MT) — same Hebrew base as ESV / NIV / NASB / CSB / NLT. MACULA Hebrew supplies word-level morphology, lemma data, and clause-discourse annotations.
+- **Philosophy:** optimal equivalence — faithful to Hebrew grammar, natural in modern Thai. Aramaic sections (when present, e.g. Dan 2:4b–7:28, Ezr 4:8–6:18, Jer 10:11) are handled per the language-aware dispatcher.
+- **Status:** 1 Corinthians, 1 Thessalonians, 1 Timothy, 2 Corinthians, 2 Thessalonians, 2 Timothy, Acts, Colossians, Ephesians, Galatians, John, Luke, Mark, Matthew, Philemon, Philippians, Romans complete + tagged; Revelation complete (not yet tagged). Ruth 4/4 just shipped. Per-chapter automated checks (Hebrew-field integrity, divine-names enforcement, versification anchor against MT, honorifics-binding for Rachasap, back-translation, Thai-summary coverage) all pass.
 
 ### Already-locked corpus decisions — DO NOT re-litigate
 
@@ -55,7 +55,7 @@ You are performing an **end-of-book external sanity-check** on **Ruth** (4 chapt
 
 ### What we want from you
 
-The internal end-of-book review surfaced the items below. For each, tell us either (a) "fine as-is, here's why" or (b) "here's a real concern, here's the action." Where you disagree, give specific verse-level reasoning grounded in the Greek + Thai shown.
+The internal end-of-book review surfaced the items below. For each, tell us either (a) "fine as-is, here's why" or (b) "here's a real concern, here's the action." Where you disagree, give specific verse-level reasoning grounded in the Hebrew + Thai shown.
 
 ### What we are NOT asking for
 
@@ -165,25 +165,25 @@ The 4:19 KD documents the divergence and recommends "future polish-pass." The sa
 
 ## Item D — RUT 1:6 פָּקַד pastoral-care rendering vs other senses
 
-**The rendering and the open question (per RUT 1:6 KD, 2026-05-05 ChatGPT-review):**
+**The rendering (per RUT 1:6 KD, 2026-05-05 ChatGPT-review):**
 
-- RUT 1:6 GK: `שָׁמְעָה ... כִּי־פָקַד יְהוָה אֶת־עַמּוֹ לָתֵת לָהֶם לָחֶם` ("she heard ... that YHWH had visited his people to give them food") → TH: `องค์พระผู้เป็นเจ้า**ทรงเยี่ยมเยียน**ประชากรของพระองค์ โดยประทานอาหารให้พวกเขา`
+- RUT 1:6 GK: `כִּי־פָקַד יְהוָה אֶת־עַמּוֹ לָתֵת לָהֶם לָחֶם` → TH: `องค์พระผู้เป็นเจ้า**ทรงเยี่ยมเยียน**ประชากรของพระองค์ โดยประทานอาหารให้พวกเขา`
 
-The 1:6 KD documents:
-> "Adopted 2026-05-05 per ChatGPT review feedback to soften from earlier 'เสด็จมาเยี่ยมเยียน' which read as overly heavy royal-physical-visit register; the simpler ทรง-prefix preserves the divine-action register without implying a royal procession. **Open question for the Thai-language reviewer: is ทรงเยี่ยมเยียน too plain, or is ทรงเหลียวแล (look upon with care) more natural for paqad in pastoral-care contexts?**"
+The 1:6 KD documents the open question:
+> "Adopted 2026-05-05 per ChatGPT review feedback to soften from earlier 'เสด็จมาเยี่ยมเยียน' which read as overly heavy royal-physical-visit register. **Open question for the Thai-language reviewer: is ทรงเยี่ยมเยียน too plain, or is ทรงเหลียวแล (look upon with care) more natural for paqad in pastoral-care contexts?**"
 
-**Why this is more than a Ruth-1:6 question:** The Hebrew lemma פָּקַד (paqad) is one of the OT's most frequent and contextually-ranged divine-action verbs (~300× OT). Multiple senses:
+**Why this is more than a Ruth-1:6 question:** The Hebrew lemma פָּקַד is one of the OT's most frequent + contextually-ranged divine-action verbs (~300× OT). Senses:
 
-1. **Pastoral-care visit** — Gen 21:1 (YHWH visited Sarah), Ex 4:31 (YHWH visited his people to free them), 1 Sam 2:21 (YHWH visited Hannah), Ruth 1:6, Lk 1:68 NT-echo (ἐπεσκέψατο). Current Ruth lock: **ทรงเยี่ยมเยียน**.
-2. **Numbering / mustering** — Num 1:3, 1:19 etc. (military census). Likely Thai: ทรงทำสำมะโน / นับ.
-3. **Appointment / commission** — Num 27:16, Jer 1:10 (appoint over). Likely Thai: ทรงแต่งตั้ง.
-4. **Judgment-visitation / requiting** — Ex 32:34 ("when I visit, I will visit their sin upon them"), the prophetic visitation-of-judgment idiom (Hos 4:9, Amos 3:14, Jer 5:9 etc.). Likely Thai: ทรงลงโทษ / ทรงทำการลงทัณฑ์.
+1. **Pastoral-care visit** — Gen 21:1, Ex 4:31, 1 Sam 2:21, Ruth 1:6, Lk 1:68 NT-echo (ἐπεσκέψατο). Current Ruth lock: ทรงเยี่ยมเยียน.
+2. **Numbering / mustering** — Num 1:3+19 (military census). Likely Thai: ทรงทำสำมะโน.
+3. **Appointment / commission** — Num 27:16, Jer 1:10. Likely Thai: ทรงแต่งตั้ง.
+4. **Judgment-visitation** — Ex 32:34, Hos 4:9, Amos 3:14, Jer 5:9. Likely Thai: ทรงลงโทษ.
 
-**The Ruth-1:6 single-verse-context lock alone is insufficient** — it locks sense (1), but locks none of the other three; and the same Thai verb cannot serve all four contexts.
+The Ruth-1:6 single-verse lock alone is insufficient; one Thai verb cannot serve all four contexts.
 
 **Two questions:**
-1. For sense (1) — pastoral-care — is **ทรงเยี่ยมเยียน** the right Thai, or is **ทรงเหลียวแล** (look upon with care) more idiomatic-natural for the covenantal-care nuance? (The translator surfaced both as candidates.)
-2. Should the OT corpus get a four-sense paqad table (with locked Thai for each sense + cross-references to representative OT loci) before 1 Samuel 2 ships? The forward-load is heavy: Sam-Kgs alone has ~40 occurrences in mixed senses.
+1. For sense (1) pastoral-care — is **ทรงเยี่ยมเยียน** the right Thai, or is **ทรงเหลียวแล** (look upon with care) more idiomatic-natural?
+2. Should the OT corpus get a four-sense paqad table (locked Thai per sense + representative OT loci) before 1 Samuel 2 ships? Forward-load: Sam-Kgs alone has ~40 occurrences across all four senses.
 
 ---
 
@@ -227,81 +227,55 @@ The Hebrew הוּם itself can carry either valence — the verse's force is the
 
 ## Item G — RUT 4 levirate-redemption legal-vocabulary cluster — **first-OT-book corpus-doc readiness**
 
-**The cluster (and the implicit corpus-doc-readiness question):** Ruth chapter 4 establishes the OT corpus's first major encounter with the kinsman-redeemer + levirate-marriage Mosaic-law vocabulary. All renderings are uniform across the chapter, but no corpus doc yet declares the locks.
+**The cluster:** Ruth chapter 4 establishes the OT corpus's first major encounter with kinsman-redeemer + levirate-marriage Mosaic-law vocabulary. All renderings uniform; no corpus doc yet.
 
-| Hebrew | Thai | Sense | Verses |
-|---|---|---|---|
-| גֹּאֵל | ญาติผู้ไถ่ | The kinsman-redeemer (legal-role person) | 3:9, 3:12, 3:13, 4:1, 4:3, 4:6, 4:8, 4:14 |
-| גָּאַל / יִגְאָל / לְגָאֳלֵךְ (verb) | ไถ่ | To redeem (the act) | 3:13, 4:4 (×3), 4:6 (×2) |
-| גְּאֻלָּה (noun) | สิทธิ์ในการไถ่ | The redemption-right | 4:6, 4:7 |
-| לְהָקִים שֵׁם־הַמֵּת עַל־נַחֲלָתוֹ | สืบทอดชื่อของผู้ล่วงลับในมรดกของเขา | "Raise up the name of the deceased upon his inheritance" — the levirate purpose | 4:5, 4:10 |
-| יָצָא וְלֹא־יִכָּרֵת שֵׁם־הַמֵּת מֵעִם אֶחָיו | ชื่อของผู้ล่วงลับจะไม่ถูกตัดออกจากบรรดาพี่น้องของเขา | "May the name of the deceased not be cut off from among his brothers" | 4:10 |
-| תְּמוּרָה (noun) | การแลกเปลี่ยน(ทรัพย์สิน) | Exchange-of-property (a related but distinct legal act) | 4:7 |
-| תְּעוּדָה (noun) | วิธีการยืนยัน | Attestation/confirmation (the sandal-removal ceremony) | 4:7 |
-| נָעֲל (sandal-removal ceremony) | ถอดรองเท้า | The legal-validation gesture | 4:7, 4:8 |
+| Hebrew | Thai | Sense |
+|---|---|---|
+| גֹּאֵל | ญาติผู้ไถ่ | The kinsman-redeemer (~9× chs.3-4) |
+| גָּאַל (verb) | ไถ่ | To redeem (the act, ~5×) |
+| גְּאֻלָּה (noun) | สิทธิ์ในการไถ่ | The redemption-right (4:6, 4:7) |
+| לְהָקִים שֵׁם־הַמֵּת עַל־נַחֲלָתוֹ | สืบทอดชื่อของผู้ล่วงลับในมรดกของเขา | Levirate-purpose formula (4:5, 4:10) |
+| נָעַל (sandal-removal) | ถอดรองเท้า | Legal-validation ceremony (4:7-8) |
 
-**Key sample verses (the chapter's legal pivot):**
+**Sample verse (the chapter's legal pivot):**
 
-- RUT 4:5 GK: `בְּיוֹם־קְנוֹתְךָ הַשָּׂדֶה ... וּמֵאֵת רוּת הַמּוֹאֲבִיָּה אֵשֶׁת־הַמֵּת קָנִיתָה לְהָקִים שֵׁם־הַמֵּת עַל־נַחֲלָתוֹ` → TH: `ในวันที่ท่านซื้อที่ดิน...และจาก**รูธหญิงโมอับ**ท่านก็จะต้องรับนางผู้เป็น**ภริยาของผู้ล่วงลับ**มาด้วย เพื่อ**สืบทอดชื่อของผู้ล่วงลับในมรดกของเขา**`
+- RUT 4:10 GK: `וְגַם אֶת־רוּת הַמֹּאֲבִיָּה אֵשֶׁת מַחְלוֹן קָנִיתִי לִי לְאִשָּׁה לְהָקִים שֵׁם־הַמֵּת עַל־נַחֲלָתוֹ` → TH: `ฉันได้รับ**รูธหญิงโมอับ ภริยาของมาห์โลน เป็นภริยาของฉัน เพื่อสืบทอดชื่อของผู้ล่วงลับ**ในมรดกของเขา`
 
-- RUT 4:10 GK: `וְגַם אֶת־רוּת הַמֹּאֲבִיָּה אֵשֶׁת מַחְלוֹן קָנִיתִי לִי לְאִשָּׁה לְהָקִים שֵׁם־הַמֵּת עַל־נַחֲלָתוֹ וְלֹא־יִכָּרֵת שֵׁם־הַמֵּת מֵעִם אֶחָיו וּמִשַּׁעַר מְקוֹמוֹ` → TH: `ฉันได้รับ**รูธหญิงโมอับ ภริยาของมาห์โลน เป็นภริยาของฉัน เพื่อสืบทอดชื่อของผู้ล่วงลับ**ในมรดกของเขา เพื่อชื่อของผู้ล่วงลับจะไม่ถูกตัดออกจากบรรดาพี่น้องของเขา**
+**The unnamed closer-kinsman at 4:1** is addressed as `פְּלֹנִי אַלְמֹנִי` ("so-and-so") → `สหายเอ๋ย` ("o friend"), preserving the Hebrew deliberate-anonymity (the kinsman who refuses redemption is forgotten by name; Boaz who accepts is preserved in the closing genealogy).
 
-**Why this is more than a Ruth-internal lock:** The same legal-vocabulary will recur in:
-- **Lev 25:25-28** (Mosaic-law text on property-redemption)
-- **Deut 25:5-10** (Mosaic-law text on levirate-marriage)
-- **Job 19:25** ("I know that my **Redeemer** lives" — גֹּאֲלִי, Christological-typological)
-- **Isa 41:14, 43:1, 43:14, 44:6, 44:24, 47:4, 48:17, 49:7, 49:26, 54:5, 54:8, 59:20, 60:16, 63:9** (YHWH-as-Redeemer language — heavily concentrated in Deutero-Isaiah)
-- **Pss 19:14, 78:35** (the personal-redeemer language)
-- **Prov 23:11** (the Redeemer-of-the-orphan)
-- **NT Christological cross-reference** (Tit 2:14 ἀπολυτρώσηται "redeem"; Heb 9:12 αἰωνίαν λύτρωσιν εὑράμενος "obtained eternal redemption"; 1 Pet 1:18 ἐλυτρώθητε)
-
-**Three questions:**
-1. Is the OT-Ruth-corpus legal-vocabulary set (ญาติผู้ไถ่ / ไถ่ / สิทธิ์ในการไถ่ / สืบทอดชื่อ-ในมรดก / ถอดรองเท้า) ready to be locked into a corpus doc (`docs/translator_decisions/goel_kinsman_redeemer_2026-05.md`) as the canonical OT-rendering set?
-2. Does the Ruth ญาติผู้ไถ่ rendering carry the right semantic load for the Christological-typological NT cross-references (Christ-as-redeemer in Heb 9, Eph 1:7 ἀπολύτρωσις, Rev 5:9 ἠγόρασας "you purchased")? Or does the Thai compound favor too narrowly the legal-kinship sense and lose the broader theological-redemption sense Christ enacts?
-3. The closer-kinsman of 4:1-8 is referred to throughout as **ญาติผู้ไถ่** (the title-role) and addressed as **สหายเอ๋ย** ("o friend") at 4:1 — capturing the Hebrew פְּלֹנִי אַלְמֹנִי anonymous-reference idiom. Does this rendering preserve the narrator's deliberate-anonymity (the kinsman who refuses redemption is forgotten by name) for Thai readers?
-
----
-
-## Item H — RUT 1:6 + 4:13 — divine-action attribution language (paqad / ntn lah herayon) — corpus pattern
-
-**The pattern:** Ruth's narrator surfaces YHWH's direct action twice at narrative-structural pivots — once at 1:6 (famine ends) and once at 4:13 (Ruth conceives). Both use jussive-or-completed Hebrew + Thai royal-honorific ทรง-:
-
-- RUT 1:6 GK: `כִּי־פָקַד יְהוָה אֶת־עַמּוֹ לָתֵת לָהֶם לָחֶם` → TH: `องค์พระผู้เป็นเจ้า**ทรงเยี่ยมเยียน**ประชากรของพระองค์ โดย**ประทานอาหาร**ให้พวกเขา`
-- RUT 4:13 GK: `וַיִּתֵּן יְהוָה לָהּ הֵרָיוֹן וַתֵּלֶד בֵּן` → TH: `องค์พระผู้เป็นเจ้า**ทรงประทาน**ให้นางตั้งครรภ์ และนางก็คลอดบุตรชายคนหนึ่ง`
-
-The narrator's restraint is structurally significant — between 1:6 and 4:13 (i.e. through chapters 2-3) **YHWH never appears as direct subject of an action verb in narrative**; providence works quietly through human actions (Ruth's "happening" upon Boaz's field at 2:3 וַיִּקֶר מִקְרֶהָ; the threshing-floor encounter; the closer-kinsman's reversal at 4:6). At the book's frame-pivots, YHWH-as-direct-subject returns: famine ended (1:6) and conception granted (4:13).
-
-**The Thai preserves this narrator-restraint pattern** by varying the divine-action verbs:
-- 1:6 ทรงเยี่ยมเยียน (visit + provide)
-- 2:12 + 3:10 ทรง- + verb in *blessing* contexts (jussive prayers from Boaz, Naomi)
-- 4:13 ทรงประทานให้นางตั้งครรภ์ (grant conception)
-- 4:14 ทรงเป็นที่สรรเสริญ (be praised — passive blessing)
+**Forward-load:** Lev 25:25-28 + Deut 25:5-10 (Mosaic-law texts), Job 19:25 (`גֹּאֲלִי` "my Redeemer"), Isa 41:14 + 43:1 + 43:14 + 44:6+24 + 47:4 + 48:17 + 49:7+26 + 54:5+8 + 59:20 + 60:16 + 63:9 (YHWH-as-Redeemer concentration in Deutero-Isaiah), Pss 19:14 + 78:35, Prov 23:11. NT Christological cross-references: Tit 2:14, Heb 9:12 (αἰωνίαν λύτρωσιν), Eph 1:7 (ἀπολύτρωσις), 1 Pet 1:18.
 
 **Two questions:**
-1. Is the Thai pattern of varying divine-action verbs (ทรงเยี่ยมเยียน at the famine-ends frame; ทรงประทานให้...ตั้งครรภ์ at the conception frame) capturing the narrator's structural-theological restraint adequately, or is it diluting the narrator's deliberate-restraint by using too many different ทรง-prefixed verbs across the book?
-2. The 4:13 ทรงประทาน (royal-give) is correct Thai for the divine subject + giving + conception. But does the Thai conception-vocabulary read naturally for a CC0 evangelical-Thai-reader audience, or does the formal-royal register at this verse risk emotional-distance from the most intimate moment of the book? (The chapter's narrative-weight pivots on the YHWH-conception attribution; the rendering's rhythm matters for the reader's-reception.)
+1. Is the OT-Ruth legal-vocabulary set (ญาติผู้ไถ่ / ไถ่ / สิทธิ์ในการไถ่ / สืบทอดชื่อ-ในมรดก / ถอดรองเท้า) ready to be locked into a corpus doc (`docs/translator_decisions/goel_kinsman_redeemer_2026-05.md`) as the canonical OT-rendering set before Job 19 + Deutero-Isaiah?
+2. Does the ญาติผู้ไถ่ Thai compound carry the right semantic load for the Christological-typological NT cross-references (Christ-as-redeemer in Heb 9, Eph 1:7 ἀπολύτρωσις, Rev 5:9 ἠγόρασας)? Or does it favor too narrowly the legal-kinship sense and lose the broader theological-redemption sense Christ enacts?
 
 ---
 
-## Item I — Pronoun escalation tracking — Ruth 1:16-17 covenant oath vs Ruth 3:9 marriage proposal
+## Item H — RUT 1:6 + 4:13 divine-action attribution + Ruth 1cs pronoun escalation — register coherence
 
-**The pattern (and the explicit register-elevation policy):** Ruth's first-person register escalates at two structural moments:
+**Two related register questions at narrative-pivot moments.**
 
-**1:16-17 — covenant oath to Naomi (escalates to formal ข้าพเจ้า):**
+### H1. Divine-action verbs at 1:6 + 4:13
 
-- RUT 1:16 GK: `אֲשֶׁר תֵּלְכִי אֵלֵךְ ... עַמֵּךְ עַמִּי וֵאלֹהַיִךְ אֱלֹהָי` → TH: `ท่านไปที่ใด **ข้าพเจ้า**จะไปที่นั่น ... ชนชาติของท่านจะเป็นชนชาติของ**ข้าพเจ้า** และพระเจ้าของท่านจะเป็นพระเจ้าของ**ข้าพเจ้า**`
-- RUT 1:17 GK: `כֹּה יַעֲשֶׂה יְהוָה לִי וְכֹה יֹסִיף` → TH: `ขอองค์พระผู้เป็นเจ้าทรงลงโทษ**ข้าพเจ้า** และให้หนักยิ่งกว่านั้นอีก`
+YHWH appears as direct narrative-subject only twice — at the famine-ends frame (1:6) and the conception frame (4:13):
 
-The 1:16 KD documents the explicit register-anchor:
-> "**Pronoun-register decision** ... Ruth elevates her pronoun register here for the covenant oath. Earlier dialogue would use 'ฉัน/ดิฉัน,' but for v.16-17 — Ruth's covenant commitment — use 'ข้าพเจ้า' (formal 1sg, matching NT covenant-prayer register)."
+- RUT 1:6 GK: `כִּי־פָקַד יְהוָה אֶת־עַמּוֹ לָתֵת לָהֶם לָחֶם` → TH: `องค์พระผู้เป็นเจ้า**ทรงเยี่ยมเยียน**ประชากรของพระองค์ โดย**ประทานอาหาร**ให้พวกเขา`
+- RUT 4:13 GK: `וַיִּתֵּן יְהוָה לָהּ הֵרָיוֹן` → TH: `องค์พระผู้เป็นเจ้า**ทรงประทาน**ให้นางตั้งครรภ์`
 
-**3:9 — marriage proposal at the threshing floor (also formal ข้าพเจ้า):**
+Between 1:6 and 4:13, YHWH never appears as direct narrative-subject — providence works quietly through human actions (Ruth's "chance" arrival at Boaz's field 2:3; threshing-floor encounter; closer-kinsman's reversal). The Thai preserves this narrator-restraint pattern by varying the ทรง-prefixed verbs (ทรงเยี่ยมเยียน at 1:6; ทรงประทาน at 4:13).
 
-- RUT 3:9 GK: `אָנֹכִי רוּת אֲמָתֶךָ וּפָרַשְׂתָּ כְנָפֶךָ עַל־אֲמָתְךָ כִּי גֹאֵל אָתָּה` → TH: `**ดิฉันคือรูธ สาวรับใช้ของท่าน** ขอท่านโปรดกางชายผ้าคลุมของท่าน...เพราะท่านเป็นญาติผู้ไถ่`
+### H2. Ruth's 1cs pronoun escalation: ดิฉัน vs ข้าพเจ้า
 
-**The register-context contrast:** Ruth uses **ดิฉัน** (humble feminine 1sg) in casual dialogue with Naomi (2:2) and gleaner-context with Boaz (2:10, 2:13, 3:9 self-introduction). She elevates to **ข้าพเจ้า** (formal 1sg) for the covenant-oath at 1:16-17 only. **Note:** the 3:9 self-identification "ดิฉันคือรูธ" stays at ดิฉัน, not ข้าพเจ้า — apparently because the legal-marriage-proposal is being framed as a humble-petitioner act (calling herself אֲמָה "handmaid"), not as a covenant-equal oath.
+Ruth uses **ดิฉัน** (humble feminine 1sg) in ordinary dialogue with Naomi (2:2) + Boaz (2:10, 2:13, 3:9). She elevates to **ข้าพเจ้า** (formal 1sg) for the 1:16-17 covenant-oath only:
 
-**Question:** Is the two-tier escalation (ดิฉัน for ordinary dialogue + 3:9 marriage-proposal humble-petitioner / ข้าพเจ้า for 1:16-17 covenant-oath only) the right pattern? Should the threshing-floor proposal at 3:9 also escalate to ข้าพเจ้} (since it is, after all, a marriage-proposal and a re-affirmation of the 1:16-17 covenant)? Or is the current contrast (the humble אֲמָה positioning at 3:9 as deliberately submissive) the right reading? The decision compounds into Pss + lament-prayers where 1cs register is constantly in play.
+- RUT 1:16: `שׁוּב מֵאַחֲרָיִךְ ... עַמֵּךְ עַמִּי וֵאלֹהַיִךְ אֱלֹהָי` → TH: `**ข้าพเจ้า**จะไปที่นั่น ... พระเจ้าของท่านจะเป็นพระเจ้าของ**ข้าพเจ้า**`
+- RUT 3:9 (still ดิฉัน): `אָנֹכִי רוּת אֲמָתֶךָ` → TH: `**ดิฉัน**คือรูธ สาวรับใช้ของท่าน`
+
+The 1:16 KD anchors the policy: "Ruth elevates her pronoun register here for the covenant oath ... matching NT covenant-prayer register."
+
+**Two questions:**
+1. Is the divine-action ทรง-pattern at 1:6 + 4:13 (varying the verb across narrative pivots) the right Thai for capturing the narrator's structural-restraint, or is the variety diluting the narrator's deliberate-rare-divine-subject-marking?
+2. Is Ruth's two-tier pronoun policy (ดิฉัน for ordinary dialogue / ข้าพเจ้า for the 1:16-17 covenant-oath only) the right register-pattern? Should the 3:9 marriage-proposal — which re-affirms the 1:16 covenant — also escalate to ข้าพเจ้า? Or is the humble-petitioner ดิฉัน at 3:9 the deliberately-submissive register that fits אֲמָה ("handmaid") self-positioning?
 
 ---
 

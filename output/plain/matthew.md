@@ -12,9 +12,9 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **2** อับราฮัมเป็นบิดาของอิสอัค อิสอัคเป็นบิดาของยาโคบ ยาโคบเป็นบิดาของยูดาห์และพี่น้องของเขา
 
-**3** ยูดาห์เป็นบิดาของเปเรศและเศราห์ โดยทามาร์เป็นมารดา เปเรศเป็นบิดาของเฮสโรน เฮสโรนเป็นบิดาของอารัม
+**3** ยูดาห์เป็นบิดาของเปเรศและเศราห์ โดยทามาร์เป็นมารดา เปเรศเป็นบิดาของเฮสโรน เฮสโรนเป็นบิดาของราม
 
-**4** อารัมเป็นบิดาของอัมมีนาดับ อัมมีนาดับเป็นบิดาของนาโชน นาโชนเป็นบิดาของสัลโมน
+**4** รามเป็นบิดาของอัมมีนาดับ อัมมีนาดับเป็นบิดาของนาโชน นาโชนเป็นบิดาของสัลโมน
 
 **5** สัลโมนเป็นบิดาของโบอาส โดยราหับเป็นมารดา โบอาสเป็นบิดาของโอเบด โดยรูธเป็นมารดา โอเบดเป็นบิดาของเจสซี
 
@@ -2305,7 +2305,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/matthew_01.json` | `24067453e3de061001464a1b3419b1f8c8eb3a10f5c6162a265be2329e4ba488` |
+| `output/translations/matthew_01.json` | `a630d0210ea865f1c88d5d233916c3866c79a0e94ef21cd9a1f12b70c958a0f4` |
 | `output/translations/matthew_02.json` | `5b1a0f841d3a11b775eba408b9e6cfa4e7ee6e00f76a95c68cd494444e955cfb` |
 | `output/translations/matthew_03.json` | `0d2574292184e7f82fa9abad72287eed67e8f5739ff368f5397c0056e5cfaf2e` |
 | `output/translations/matthew_04.json` | `50d14e02bc08c97c339b10914a8258720ff64801f0ea080941604ebf5299d365` |
