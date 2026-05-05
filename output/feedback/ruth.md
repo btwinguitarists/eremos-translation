@@ -50,7 +50,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**6** ครั้นนาโอมีและสะใภ้ทั้งสองได้ยินอยู่ในแผ่นดินโมอับว่า องค์พระผู้เป็นเจ้าทรงเยี่ยมเยียนประชากรของพระองค์ โดยประทานอาหารให้พวกเขา นางจึงลุกขึ้นเตรียมตัวกลับจากแผ่นดินโมอับพร้อมสะใภ้ทั้งสอง
+**6** ครั้นนาโอมีและสะใภ้ทั้งสองได้ยินอยู่ในแผ่นดินโมอับว่า องค์พระผู้เป็นเจ้าทรงเหลียวแลประชากรของพระองค์ โดยประทานอาหารให้พวกเขา นางจึงลุกขึ้นเตรียมตัวกลับจากแผ่นดินโมอับพร้อมสะใภ้ทั้งสอง
 
 > ___
 
@@ -426,7 +426,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/ruth_01.json` | `cd2580717d0e690db882a4722a67f13fd090a09d6a14211d031efa6d430c9461` |
+| `output/translations/ruth_01.json` | `2d8ef1551579935e92d70ae91f9daa29de9c119296e8024ebfece80cb31cc2ec` |
 | `output/translations/ruth_02.json` | `b3230363afc8ed4f4ba3f292ef5fe23b01457e13138a3d6d9946d8d26e53e8cf` |
 | `output/translations/ruth_03.json` | `becea25722cf93e084b74f773d9ef7e202200846da5aafd6b2a86620387969ff` |
 | `output/translations/ruth_04.json` | `8c970ff4e31229a2ce7ef452821ab3a5f4ef4795d413180b89a11ad57fb84f8a` |

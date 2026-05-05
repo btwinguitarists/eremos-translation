@@ -41,7 +41,7 @@ This doc records both reviewers' verdicts on the 9 items surfaced by the §2 aud
 
 ---
 
-## Item D — RUT 1:6 פָקַד pastoral-care register
+## Item D — RUT 1:6 פָקַד pastoral-care register — **RESOLVED 2026-05-05 (Tier-A Thai reviewer)**
 
 **ChatGPT:** CONCERN. Keep `ทรงเยี่ยมเยียน` for 1:6 (preserves visitation idiom + NT echo at Lk 1:68). Write 4-sense `paqad` corpus doc before 1 Sam 2.
 
@@ -49,7 +49,9 @@ This doc records both reviewers' verdicts on the 9 items surfaced by the §2 aud
 
 **The two AIs disagree on the verse-level rendering** (keep-vs-revise) but agree on the need for a corpus-level paqad sense-table.
 
-**Disposition:** **DECIDE — Ben to choose ทรงเยี่ยมเยียน (current) vs ทรงเหลียวแล.** Both reviewers note Thai-reviewer voice should be the tiebreaker. Escalated below.
+**Tier-A native-Thai reviewer (2026-05-05):** "ทรงเหลียวแล is better." Confirms Gemini's call. Question framed as: *"There has been a long famine, and God is finally showing care for His people by bringing them food. Which of these two words sounds more natural for this specific situation — ทรงเยี่ยมเยียน or ทรงเหลียวแล?"* → Tier-A picked **ทรงเหลียวแล**.
+
+**Disposition:** **APPLIED.** Ruth 1:6 spot-revise lands as `ทรงเหลียวแล`. Lk 1:68 (NT) ships unchanged as `เสด็จมาเยี่ยมเยียน` — different register (incarnational-arrival blessing, heavier royal-procession imagery), intentionally not cross-corpus-normalized. The forthcoming `paqad_visit_attend_2026-05.md` corpus doc will lock the four-sense table (pastoral-care → ทรงเหลียวแล; numbering / appointment / judgment-visitation rendered separately).
 
 ---
 
