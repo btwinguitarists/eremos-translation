@@ -144,6 +144,6 @@ This doc covers **the divine name table only**. The following are separate:
 
 ## When to revisit
 
-- **Reader feedback at end of pilot.** When Ruth → Jonah → Genesis 1–11 ship and Ben/Benz get reader response, if the per-chapter footnote convention is judged too intrusive or insufficiently transparent, adjust the mechanism (placement, brevity, frequency). The vocabulary lock is harder to revisit, but the find-replace migration to `พระยาห์เวห์` remains a clean one-PR option.
+- **Reader feedback at end of pilot.** When Ruth → Jonah → Genesis 1–11 ship and the maintainer + the Thai-language reviewer get reader response, if the per-chapter footnote convention is judged too intrusive or insufficiently transparent, adjust the mechanism (placement, brevity, frequency). The vocabulary lock is harder to revisit, but the find-replace migration to `พระยาห์เวห์` remains a clean one-PR option.
 - **Specific compound that doesn't pattern.** If a divine-name compound surfaces during translation that this table doesn't anticipate, document it in `key_decisions` and append to this doc. Don't make ad-hoc renderings without recording them here.
 - **NT regression.** If somehow the OT divine-name lock causes regression in NT rendering (extremely unlikely — both testaments use the same vocabulary now), fix immediately and audit.

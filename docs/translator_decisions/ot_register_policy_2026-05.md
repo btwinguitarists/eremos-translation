@@ -172,4 +172,4 @@ Reader-side rendering displays the letter + phonetic name as a marginal label / 
 - **Pilot-end review** — verify Rachasap is being exercised consistently in Ruth (Boaz as elder/landowner), Jonah (Nineveh court), and Genesis 1-11 (no monarchs yet, but divine speech).
 - **Phase 6D start (Former Prophets — Joshua, Judges, Samuel, Kings)** — re-read this doc; the Rachasap policy is about to be heavily exercised across thousands of verses.
 - **Phase 6F start (Psalms / Job / Wisdom)** — re-read for lament-voice + wisdom-instructional voice consistency.
-- **If Benz flags a Rachasap rendering as too elevated or too plain for Thai sensibilities** — adjust per-character or per-scene; document the adjustment in `key_decisions`.
+- **If the Thai-language reviewer flags a Rachasap rendering as too elevated or too plain for Thai sensibilities** — adjust per-character or per-scene; document the adjustment in `key_decisions`.

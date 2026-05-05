@@ -1,13 +1,13 @@
 # Eremos — RUT 1 post-merge proposals + open questions
 
 **Date:** 2026-05-05
-**Context:** RUT 1 merged (#116). External AI reviews (Gemini + ChatGPT) processed. This doc proposes the folder-reorganization, lists system gaps surfaced by the OT pilot, and captures the open questions for Benz to answer at end-of-Ruth review.
+**Context:** RUT 1 merged (#116). External AI reviews (Gemini + ChatGPT) processed. This doc proposes the folder-reorganization, lists system gaps surfaced by the OT pilot, and captures the open questions for the Thai-language reviewer to answer at end-of-Ruth review.
 
 ---
 
-## A. Open questions for Benz (NOT blocking Ruth 2)
+## A. Open questions for the Thai-language reviewer (NOT blocking Ruth 2)
 
-These are register/word-choice judgment calls that a Thai native speaker should validate. All are already logged in the corresponding `key_decisions` rationale fields, so Benz will see them when reviewing the chapter. Listed here for visibility:
+These are register/word-choice judgment calls that a Thai native speaker should validate. All are already logged in the corresponding `key_decisions` rationale fields, so the reviewer will see them when reviewing the chapter. Listed here for visibility:
 
 | Verse | Hebrew | Current Thai | Alternative considered | Why this matters |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ These are register/word-choice judgment calls that a Thai native speaker should 
 | 1:19 | הוּם | แตกตื่น | ฮือฮา / ตื่นเต้น | hum = collective vocal-stir; needs to NOT lean happy-excitement |
 | 1:20-21 | שַׁדַּי | องค์ผู้ทรงมหิทธิฤทธิ์ | (per divine_names_table lock) | Shaddai recurs ~48× in OT; lock is in place but worth confirming feel |
 
-**My recommendation:** treat these as Benz's end-of-Ruth review items. Continue translating Ruth 2-4 with the current locks (consistency matters more than perfection at the per-chapter level). Adjust at book-boundary based on Benz's feedback.
+**My recommendation:** treat these as end-of-Ruth review items for the Thai reviewer. Continue translating Ruth 2-4 with the current locks (consistency matters more than perfection at the per-chapter level). Adjust at book-boundary based on reviewer feedback.
 
 **No questions block Ruth 2.** I'm ready to proceed when you say go.
 
@@ -126,7 +126,7 @@ This needs `git mv` for ~10 files + a one-line update to anywhere that links int
 ## D. My recommended next moves
 
 **Immediate (no user action needed):**
-- Ship Ruth 2 using current locks. Continue logging Benz-questions in `key_decisions`.
+- Ship Ruth 2 using current locks. Continue logging Thai-reviewer questions in `key_decisions`.
 
 **Soon (need your go-ahead):**
 - B.2 lexical_lock tag (1 PR, ~30 min, useful for end-of-book aggregation)

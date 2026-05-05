@@ -163,4 +163,4 @@ Variant prophetic-utterance formula, often appended to oracle endings. **LOCKED*
 
 - **Per-phase boundary** — re-read this doc focusing on the genre's distinctive idiom-patterns (poetry / law / prophecy / narrative).
 - **When a new idiom recurs across 3+ chapters** — promote from one-off `key_decisions` to a row in this table.
-- **If a Thai reader / Benz flags an idiom-rendering as obscure** — review the per-passage handling and consider footnoting.
+- **If a Thai reader / the Thai-language reviewer flags an idiom-rendering as obscure** — review the per-passage handling and consider footnoting.
