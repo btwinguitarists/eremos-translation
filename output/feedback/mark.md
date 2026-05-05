@@ -212,6 +212,19 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 ---
 
+### หมายเหตุด้านต้นฉบับ
+
+**ข้อ 1** — ขาดในต้นฉบับวิจารณ์ (SBLGNT)
+
+_วลี "พระบุตรของพระเจ้า" (υἱοῦ θεοῦ) ในข้อ 1:1 มีปัญหาด้านต้นฉบับเก่าแก่ที่สุด: ปรากฏในต้นฉบับสำคัญหลายฉบับ (วาติกานัส, เบซาเอ, วอชิงทัน, เอฟเรมี, ไบแซนไทน์ส่วนใหญ่) แต่ขาดในต้นฉบับซีนายติคัส (ฉบับแรก ก่อนถูกแก้ไขเพิ่มเข้ามาในภายหลัง) และในโคริเดที (Θ) พร้อมกับการอ้างอิงโดย Origen และ Irenaeus บางครั้ง NA28 / UBS5 ใส่เครื่องหมายในวงเล็บพร้อมระดับ {C} ("มีข้อสงสัยอย่างมาก") เหตุผลที่อาจเป็นการเพิ่มภายหลัง: homoioteleuton (สายตาผู้คัดลอกข้ามกัน เพราะมีคำลงท้าย -ου ติดต่อกัน 5 ครั้ง: Ἰησοῦ Χριστοῦ υἱοῦ θεοῦ) เหตุผลที่อาจเป็นข้อความเดิม: เป็นการเปิดเรื่องของพระกิตติคุณมาระโกที่ประกาศพระคริสตวิทยาอย่างชัดเจน ซึ่งเข้ากับโครงสร้างของหนังสือ ฉบับเอเรโมสแสดงในวงเล็บ [...] เพื่อให้ผู้อ่านเห็นทั้งข้อความและสถานะที่ยังถกเถียงกัน — ตามแนวทางของฉบับวิจารณ์สมัยใหม่_
+
+ต้นฉบับที่รวมไว้: Codex Vaticanus (B), Bezae (D), Washingtonianus (W), Codex Ephraemi (C), most Byzantine manuscripts; Old Latin + Vulgate; ESV, NIV, NASB, CSB, BSB; THKJV, THSV (Thai 1971 ed.)
+
+ต้นฉบับที่ละไว้: Codex Sinaiticus original hand (ℵ*; corrected to include by ℵ¹), Codex Koridethi (Θ), 28*, syrᵖᵃˡ, Origen citations, Irenaeus (some refs); NA28/UBS5 print with bracketed apparatus marker (rating {C} "considerable degree of doubt")
+
+
+---
+
 ## บทที่ 2
 
 **1** เมื่อพระเยซูเสด็จกลับเข้าเมืองคาเปอรนาอุมอีกครั้งหลังจากผ่านไปไม่กี่วัน ก็มีคนได้ยินว่าพระองค์ทรงอยู่ที่บ้าน
@@ -354,7 +367,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**7** พระเยซูเสด็จออกไปกับบรรดาสาวกของพระองค์ไปยังทะเลกาลิลี และมีฝูงชนจำนวนมากจากแคว้นกาลิลีและจากแคว้นยูเดียติดตามไป
+**7** พระเยซูเสด็จออกไปกับบรรดาสาวกของพระองค์ยังทะเลกาลิลี และมีฝูงชนจำนวนมากจากแคว้นกาลิลีและจากแคว้นยูเดียติดตามไป
 
 > ___
 
@@ -370,7 +383,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**11** ทุกครั้งที่พวกวิญญาณโสโครกเห็นพระองค์ พวกมันก็จะทรุดตัวลงต่อเบื้องพระพักตร์พระองค์ และร้องว่า “ท่านคือพระบุตรของพระเจ้า”
+**11** ทุกครั้งที่พวกวิญญาณโสโครกเห็นพระองค์ พวกมันก็จะทรุดตัวลงต่อเบื้องพระพักตร์ของพระองค์ และร้องว่า “ท่านคือพระบุตรของพระเจ้า”
 
 > ___
 
@@ -1541,6 +1554,19 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 **50** เกลือนั้นเป็นของดี แต่ถ้าเกลือหมดความเค็ม จะใช้อะไรทำให้กลับมีรสเค็มอีก? พวกท่านจงมีเกลืออยู่ในตัวพวกท่านเอง และจงอยู่อย่างสงบสุขต่อกันและกัน”
 
 > ___
+
+---
+
+### หมายเหตุด้านต้นฉบับ
+
+**ข้อ 29** — ขาดในต้นฉบับวิจารณ์ (SBLGNT)
+
+_วลี "และการอดอาหาร" (καὶ νηστείᾳ) ในข้อ 9:29 ขาดในต้นฉบับเก่าแก่ที่สุดสองฉบับ (ซีนายติคัสฉบับแรก, วาติกานัส) แต่ปรากฏในต้นฉบับยุคหลังส่วนใหญ่ (อเล็กซานดรีนัส, เอฟเรมี, เบซาเอ, ไบแซนไทน์) ฉบับวิจารณ์สมัยใหม่ (NA28, UBS5, SBLGNT) ละไว้ — สอดคล้องกับฉบับภาษาอังกฤษสมัยใหม่ (ESV, NIV, NASB, CSB, BSB) นักวิจารณ์ส่วนใหญ่เห็นว่าเป็นการเพิ่มในภายหลัง สะท้อนแนวทางการฝึกวินัยฝ่ายวิญญาณของคริสตจักรยุคต้น (เทียบ มัทธิว 17:21 ที่มีสภาพเดียวกัน — ขาดในต้นฉบับเก่า, ปรากฏในต้นฉบับใหม่ — และฉบับเอเรโมสจัดการเป็น Tier 2 footer-note โดยไม่ใส่ในข้อความหลัก) ฉบับเอเรโมสที่นี่เลือกใส่ในวงเล็บ [...] แทนการละไว้ทั้งหมด เพราะการอดอาหารยังเป็นหัวข้อสำคัญทางพันธกิจในคริสตจักรไทยยุคปัจจุบัน — การละไว้อย่างเงียบอาจสร้างความสับสนและความไม่ไว้วางใจในผู้อ่านที่คุ้นเคยกับฉบับ THKJV_
+
+ต้นฉบับที่รวมไว้: Codex Sinaiticus corrected (ℵ²), Codex Alexandrinus (A), Codex Ephraemi (C), Bezae (D), most Byzantine manuscripts; Old Latin + Vulgate + Peshitta Syriac; KJV, NKJV; THKJV (THSV omits per modern critical-text alignment)
+
+ต้นฉบับที่ละไว้: Codex Sinaiticus original hand (ℵ*), Codex Vaticanus (B), Codex Koridethi (Θ), 0274, k, geo¹; NA28/UBS5 omit; ESV, NIV, NASB, CSB, BSB, NRSV omit
+
 
 ---
 
@@ -2792,7 +2818,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 |---|---|
 | `output/translations/mark_01.json` | `1021b3fc559326c63e51fdc826b1c38bf080daa4549df3e90c4c3d03988b48c6` |
 | `output/translations/mark_02.json` | `45afef2077fbd15759b97fae3618333ed4c446110370b26ee5af98c246d145b0` |
-| `output/translations/mark_03.json` | `88fd54d1f808f9b77b2508a2fbb71edb8a7674b38962932363efc08628c647e8` |
+| `output/translations/mark_03.json` | `6e52db6cf05c089d6a361fc60267a1d6db14deee88133bc3550da074ec9c7a79` |
 | `output/translations/mark_04.json` | `c06a13d9c066b46115f1d0dc0f570763a4c08e02f12b61a96e87c96f2c142039` |
 | `output/translations/mark_05.json` | `38804b64c74a479adcb59a639c2339dd819cad35109813e4d591fb469d705996` |
 | `output/translations/mark_06.json` | `85e991788d38f28dab8733a19b870527466aa900db69e815561ce205ea75d6b4` |

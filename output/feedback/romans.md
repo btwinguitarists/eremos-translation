@@ -358,7 +358,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**20** ดังนั้น ไม่มีเนื้อหนังใดจะทรงถูกประกาศว่าชอบธรรมต่อพระพักตร์พระองค์ได้ด้วยการประพฤติตามธรรมบัญญัติ เพราะโดยธรรมบัญญัตินั้น ความรู้แห่งบาปจึงเกิดขึ้น
+**20** ดังนั้น ไม่มีเนื้อหนังใดจะทรงถูกประกาศว่าชอบธรรมต่อพระพักตร์ของพระองค์ได้ด้วยการประพฤติตามธรรมบัญญัติ เพราะโดยธรรมบัญญัตินั้น ความรู้แห่งบาปจึงเกิดขึ้น
 
 > ___
 
@@ -1832,7 +1832,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 |---|---|
 | `output/translations/romans_01.json` | `c87b2112628b417478cc0beebb101b81b21b70b76106579044da66b1f0181824` |
 | `output/translations/romans_02.json` | `4ec4dd1ef3bb937bafa98814d4cfdce17ae2893df78ed929fe1c34b417ab1c6b` |
-| `output/translations/romans_03.json` | `e0a844077c27c89a291540299a57c2a2f287e6f9664dd3542048855c31239837` |
+| `output/translations/romans_03.json` | `3cbeb462aaafff23699512106848decc0b739d9e5161b8486760d90743fba099` |
 | `output/translations/romans_04.json` | `3964dfe9b6e742e6c814afa82e46575f571882825fa495545c7d762445d1ae46` |
 | `output/translations/romans_05.json` | `79b0261fd550e0b7c9b9a96803caa39092e3a9ac888ba089c22687bc462bd52c` |
 | `output/translations/romans_06.json` | `53733aa5bad47a955adac82a8a4026db557cefa449da09a6f0a934b8738e19c6` |
