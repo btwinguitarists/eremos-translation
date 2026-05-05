@@ -136,6 +136,32 @@ else
     exit 0
 fi
 
+# --- Post-checks polish: optimal-equivalence semantic-rigidity scan ---
+# Runs a lightweight Claude-Code review for register/idiom/wooden-passive
+# rigidity. Output goes to output/polish_proposals/<slug>/<slug>_<NN>_optimal.md
+# for human review at end-of-book audit time. Does NOT block ship — failures
+# here are non-fatal (the script's own validation already filters
+# hallucinations; on transient claude-CLI failure we just skip and log).
+# Skipped if the SKIP_OPTIMAL_EQUIVALENCE env var is set (e.g., during loop
+# runs where one sweep at end-of-book is preferred over per-chapter calls).
+if [ -z "${SKIP_OPTIMAL_EQUIVALENCE:-}" ]; then
+    echo "[post-checks] Optimal-equivalence polish scan (Claude; ~30-60s)..."
+    if python3 "$THAI_BIBLE_AI/scripts/polish_optimal_equivalence.py" \
+        --book "$SLUG" --chapter "$CHAPTER" --resume \
+        >"/tmp/optimal_${SLUG}_${CHAPTER_PADDED}.log" 2>&1; then
+        proposal_path="$THAI_BIBLE_AI/output/polish_proposals/${SLUG}/${SLUG}_${CHAPTER_PADDED}_optimal.md"
+        if [ -f "$proposal_path" ]; then
+            apply_count=$(grep -c "^**Decision:** pending" "$proposal_path" 2>/dev/null || echo 0)
+            defer_count=$(grep -c "^**Decision:** defer-to-thai-reviewer" "$proposal_path" 2>/dev/null || echo 0)
+            echo "    ✓ wrote $proposal_path (apply: $apply_count, defer: $defer_count)"
+        else
+            echo "    ✓ no rigidity flagged."
+        fi
+    else
+        echo "    ⚠ optimal-equivalence scan failed (non-fatal); see /tmp/optimal_${SLUG}_${CHAPTER_PADDED}.log"
+    fi
+fi
+
 # Pre-flight: warn about other uncommitted source files from prior chapters.
 if [ -d "$THAI_BIBLE_AI/output" ]; then
     other_orphans=$(cd "$THAI_BIBLE_AI" && git ls-files --others --exclude-standard output/ 2>/dev/null | grep -v "${SLUG}_${CHAPTER_PADDED}" | wc -l | tr -d ' ')
