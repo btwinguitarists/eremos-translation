@@ -18,10 +18,17 @@ TRANSLATIONS = ROOT / "output" / "translations"
 EREMOS_DATA = Path.home() / "EremosVercel2" / "server" / "data" / "eremos_translation.json"
 
 sys.path.insert(0, str(ROOT / "scripts"))
-from extract_book import BOOKS  # {code: (name, slug)}
+from extract_book import BOOKS as NT_BOOKS  # NT: {code: (name, slug)}
+from extract_book_hebrew import BOOKS as OT_BOOKS  # OT: {code: (name, slug, file_prefix)}
 
-SLUG_TO_CODE = {slug: code for code, (_, slug) in BOOKS.items()}
-CODE_ORDER = {code: i for i, code in enumerate(BOOKS.keys())}
+# Combined slug → code lookup (NT + OT). OT BOOKS tuples are (name, slug, prefix);
+# normalise to (name, slug) and merge preserving canonical Bible-order: OT first
+# (Genesis → Malachi), then NT (Matthew → Revelation).
+_OT_BOOKS_NORM = {code: (name, slug) for code, (name, slug, _prefix) in OT_BOOKS.items()}
+ALL_BOOKS = {**_OT_BOOKS_NORM, **NT_BOOKS}
+
+SLUG_TO_CODE = {slug: code for code, (_, slug) in ALL_BOOKS.items()}
+CODE_ORDER = {code: i for i, code in enumerate(ALL_BOOKS.keys())}
 FILENAME_RE = re.compile(r"^(?P<slug>[a-z0-9]+)_(?P<chapter>\d{2})\.json$")
 
 
