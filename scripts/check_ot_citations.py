@@ -33,10 +33,8 @@ SLUG_TO_CODE = {
     "titus": "TIT", "philemon": "PHM", "hebrews": "HEB", "james": "JAS",
     "1peter": "1PE", "2peter": "2PE", "1john": "1JN", "2john": "2JN",
     "3john": "3JN", "jude": "JUD", "revelation": "REV",
-    # OT slugs — Ruth 1 ships before the full OT-pipeline branches land, so
-    # CI's "all chapters" sweep needs every OT slug recognised here.
-    # check_ot_citations.py default-passes for OT chapters (no NT-cited OT
-    # verses by definition); just need the slug to resolve cleanly.
+    # OT slugs — see OT_SLUGS below for the rationale on why this check
+    # default-passes for OT chapters.
     "genesis": "GEN", "exodus": "EXO", "leviticus": "LEV", "numbers": "NUM",
     "deuteronomy": "DEU", "joshua": "JOS", "judges": "JDG", "ruth": "RUT",
     "1samuel": "1SA", "2samuel": "2SA", "1kings": "1KI", "2kings": "2KI",
@@ -48,6 +46,24 @@ SLUG_TO_CODE = {
     "micah": "MIC", "nahum": "NAM", "habakkuk": "HAB", "zephaniah": "ZEP",
     "haggai": "HAG", "zechariah": "ZEC", "malachi": "MAL",
 }
+
+# OT slugs — for these chapters, this script default-passes. The DB it checks
+# (data/nt_ot_citations.json) records NT verses citing OT verses, which is
+# meaningless when the chapter under check IS the OT. Inner-OT echoes (e.g.
+# Ruth 2:14 noting the eat-be-satisfied-have-leftover formula at Deut 8:10 +
+# Exod 16:18) are scholarly cross-references, not NT-OT-citation events, and
+# they belong in a separate inner-OT-typology DB (not built yet — when it is,
+# add the OT-side check here).
+OT_SLUGS = frozenset({
+    "genesis", "exodus", "leviticus", "numbers", "deuteronomy",
+    "joshua", "judges", "ruth",
+    "1samuel", "2samuel", "1kings", "2kings",
+    "1chronicles", "2chronicles", "ezra", "nehemiah", "esther",
+    "job", "psalms", "proverbs", "ecclesiastes", "songofsongs",
+    "isaiah", "jeremiah", "lamentations", "ezekiel", "daniel",
+    "hosea", "joel", "amos", "obadiah", "jonah", "micah",
+    "nahum", "habakkuk", "zephaniah", "haggai", "zechariah", "malachi",
+})
 
 
 def load_citations():
@@ -275,6 +291,24 @@ def main():
     if not translation_file.exists():
         print(f"No translation file at {translation_file}")
         return 1
+
+    # Default-pass for OT chapters. The check's DB models NT-cites-OT; an OT
+    # chapter cannot have NT-OT-citation events, and inner-OT echoes (Ruth
+    # 2:14 → Deut 8:10, etc.) are a separate concern handled by the planned
+    # check_nt_quotation_alignment.py + an inner-OT-typology DB once built.
+    if slug in OT_SLUGS:
+        REPORTS.mkdir(parents=True, exist_ok=True)
+        out_path = REPORTS / f"ot_citations_{slug}_{args.chapter:02d}.md"
+        out_path.write_text(
+            f"# OT citation check — {slug} ch. {args.chapter}\n\n"
+            f"_Skipped — this is an OT chapter, and `data/nt_ot_citations.json` "
+            f"models NT-cites-OT (not OT-cites-OT). Inner-OT echoes are tracked "
+            f"in `key_decisions` rationales and will be validated by the planned "
+            f"`check_nt_quotation_alignment.py` + inner-OT-typology DB._\n",
+            encoding="utf-8",
+        )
+        print(f"Wrote {out_path} (OT chapter — default-pass)")
+        return 0
 
     results, drift = check(code, args.chapter, translation_file)
 

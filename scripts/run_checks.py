@@ -224,18 +224,27 @@ def run_ot_checks(slug: str, chapter: int, language: str, args, summary: dict, r
            f"divine_names_{slug}_{chapter:02d}.md")
 
     # 3. Versification anchor (MT versification + divergence zones)
-    print("[3/5] Versification anchor (MT-anchored numbering)...")
+    print("[3/6] Versification anchor (MT-anchored numbering)...")
     code, _ = run([sys.executable, str(SCRIPTS / "check_versification_anchor.py"),
                    "--book", book_code, "--chapter", str(chapter), "--report"])
     record("Versification anchor", code,
            f"versification_{slug}_{chapter:02d}.md")
 
-    # 4. Back-translation (language-agnostic — reused from NT)
+    # 4. Honorifics binding (Rachasap — ทรง- bound to divine/royal subjects only)
+    # Catches the Ruth 1:13 class — body-part-of-God (พระหัตถ์, พระเนตร, etc.)
+    # in subject position taking ทรง- on the verb. Per ot_register_policy_2026-05.
+    print("[4/6] Honorifics binding (Rachasap ทรง- subject check)...")
+    code, _ = run([sys.executable, str(SCRIPTS / "check_honorifics_binding.py"),
+                   "--book", book_code, "--chapter", str(chapter), "--report"])
+    record("Honorifics binding (Rachasap)", code,
+           f"honorifics_binding_{slug}_{chapter:02d}.md")
+
+    # 5. Back-translation (language-agnostic — reused from NT)
     if args.skip_back_translation:
-        print("[4/5] Back-translation — skipped per flag")
+        print("[5/6] Back-translation — skipped per flag")
         record("Back-translation", 0, "(skipped)", "skipped via --skip-back-translation")
     else:
-        print("[4/5] Back-translation...")
+        print("[5/6] Back-translation...")
         code, out = run([sys.executable, str(SCRIPTS / "check_back_translation.py"),
                         "--book", slug, "--chapter", str(chapter)])
         bt_file = ROOT / "output" / "back_translations" / f"{slug}_{chapter:02d}.json"
@@ -246,8 +255,8 @@ def run_ot_checks(slug: str, chapter: int, language: str, args, summary: dict, r
                    f"back_translations/{slug}_{chapter:02d}_PROMPT.md",
                    "MISSING — Claude must back-translate per prompt before re-running")
 
-    # 5. Summary-coverage (informational, language-agnostic)
-    print("[5/5] Thai-summary coverage (informational)...")
+    # 6. Summary-coverage (informational, language-agnostic)
+    print("[6/6] Thai-summary coverage (informational)...")
     code, _ = run([sys.executable, str(SCRIPTS / "check_summary_coverage.py"),
                    "--book", slug, "--chapter", str(chapter)])
     record("Thai-summary coverage (info)", 0,
