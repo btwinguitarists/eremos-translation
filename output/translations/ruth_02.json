@@ -1,0 +1,755 @@
+[
+  {
+    "reference": "Ruth 2:1",
+    "chapter": 2,
+    "verse": 1,
+    "language": "hebrew",
+    "hebrew": "וּֽלְנָעֳמִ֞י מוֹדַ֣ע לְאִישָׁ֗הּ אִ֚ישׁ גִּבּ֣וֹר חַ֔יִל מִמִּשְׁפַּ֖חַת אֱלִימֶ֑לֶךְ וּשְׁמ֖וֹ בֹּֽעַז׃",
+    "bsb_english": "Now Naomi had a relative on her husband’s side, a prominent man of noble character from the clan of Elimelech, whose name was Boaz.",
+    "translation": {
+      "thai": "นาโอมีมีญาติคนหนึ่งทางฝ่ายสามีของนาง เป็นชายผู้มีฐานะมั่งคั่งและทรงเกียรติจากตระกูลเอลีเมเลค ชื่อว่าโบอาส",
+      "thai_literal": "และของนาโอมีมีญาติของสามีของนาง ชายผู้มีกำลังของทรัพย์ จากตระกูลของเอลีเมเลค และชื่อของเขาคือโบอาส",
+      "thai_summary": "ข้อ 1 เป็นการแนะนำตัวละครใหม่คือโบอาส โดยใช้รูปแบบการเขียนเชิงเล่าเรื่องที่หยุดเล่าเหตุการณ์ชั่วครู่เพื่อให้ข้อมูลภูมิหลัง วลีฮีบรู “อิช กิบโบร์ ไฮอิล” (אִישׁ גִּבּוֹר חַיִל) มีความหมายกว้าง — อาจหมายถึงคนที่มั่งคั่ง มีอิทธิพล มีคุณธรรม หรือทั้งหมดรวมกัน บริบทของหนังสือบ่งชี้ว่าโบอาสมีทั้งทรัพย์สิน คนรับใช้ และดำเนินชีวิตอย่างยำเกรงพระเจ้า ความสัมพันธ์ทางตระกูลกับเอลีเมเลคจะกลายเป็นแกนสำคัญของเรื่องราวในบทถัดไป",
+      "key_decisions": [
+        {
+          "hebrew": "מוֹדַע",
+          "thai": "ญาติ",
+          "rationale": "Rare noun (only 2 OT occurrences — here and Prov 7:4); root יָדַע 'know,' so semantically 'one who is known/intimate' = a kinsman in the broader 'clan' sense, not necessarily blood-relative. The narrator uses this carefully chosen term (rather than the more common אָח 'brother' or קָרוֹב 'close relative') to plant the kinship-redeemer motif obliquely; the explicit גֹּאֵל 'redeemer' word will not surface until v.20. Render with the plain Thai ญาติ ('relative/kin') to keep the same mild-but-present narrative weight."
+        },
+        {
+          "hebrew": "אִישׁ גִּבּוֹר חַיִל",
+          "thai": "ชายผู้มีฐานะมั่งคั่งและทรงเกียรติ",
+          "rationale": "The phrase is deliberately polysemous in Hebrew. גִּבּוֹר alone can mean 'mighty (warrior)'; חַיִל alone covers 'wealth, strength, ability, valor.' Together אִישׁ גִּבּוֹר חַיִל is used elsewhere of warriors (Judg 6:12 of Gideon) but in non-military contexts (here; 1 Kgs 11:28; 2 Kgs 5:1; Boaz's parallel in 1 Sam 9:1 of Kish) it shades toward 'man of substance + standing.' Per uW chapter intro, the context (landowner with workers, no battle scene) signals wealth + character + reputation. Translate as a doublet 'มีฐานะมั่งคั่งและทรงเกียรติ' to capture both the material (wealth/standing) and moral (honor/character) dimensions; do not flatten to a single 'rich man' rendering."
+        },
+        {
+          "hebrew": "מִמִּשְׁפַּחַת אֱלִימֶלֶךְ",
+          "thai": "จากตระกูลเอลีเמเลค",
+          "rationale": "מִשְׁפָּחָה = 'clan/extended family' — broader than the nuclear family but narrower than the tribe. Per uW translate-kinship: this does NOT mean Elimelech was the patriarch or that the clan was named after him; it means Boaz and Elimelech belonged to the same kinship-cluster within the tribe of Judah. Render with ตระกูล (clan/lineage) — the Thai term that carries the same 'extended-kinship' force without implying patriarchy. Place-name convention same as Ruth 1:2 (เอลีเมเลค)."
+        },
+        {
+          "hebrew": "בֹּעַז",
+          "thai": "โบอาส",
+          "rationale": "Boaz — first occurrence in our OT corpus. Two forms appear in the Eremos NT: โบอาส (Matthew 1:5, the substantive Davidic-genealogy occurrence) and โบอัส (Luke 3:32, brief genealogy mention). Per RULES §4 and proper_names_and_transliteration_2026-05.md THSV11 baseline, the canonical form is **โบอาส**. The OT sets this as the project-wide canonical lock; future Ruth chapters + 1 Chr 2:11-12 + 1 Kgs 7:21 (the temple pillar named Boaz) all use โบอาส. The Luke 3:32 โบอัส variant should be normalized to โบอาส in a future polish pass."
+        },
+        {
+          "hebrew": "וּלְנָעֳמִי ... וּשְׁמוֹ בֹּעַז",
+          "thai": "(narrative-background frame)",
+          "rationale": "The verse is not part of the wayyiqtol mainline narrative chain that closed Ruth 1:22 — it is a verbless background-clause introducing Boaz before he enters the action. Per hebrew_grammar_transfer §1.3 (background clauses), render with a backgrounding adverbial pattern in Thai: not 'แล้ว/ก็' (mainline forward-flow) but the static 'นาโอมีมีญาติคนหนึ่ง...' construction. This signals to the reader that v.1 is parenthetical background, and the action resumes in v.2 with Ruth's request."
+        }
+      ],
+      "notes": "Opening verse of chapter 2 — narrative pause for character introduction. The technique is classic Hebrew narrative (cf. Job 1:1, 1 Sam 1:1, 1 Sam 9:1) where a verbless clause sets up a new participant before the wayyiqtol chain resumes. The phrase אִישׁ גִּבּוֹר חַיִל reappears in Ruth 3:11 mirrored back at Ruth (אֵשֶׁת חַיִל 'woman of valor/worth') — the narrator pairs them deliberately. מוֹדַע is functionally hapax-equivalent (2× OT, only here in narrative). No textual variants. The chapter's narrative arc — Ruth's arrival in Boaz's field, Boaz's covenant-protection, the kinsman-redeemer hint — all hangs on this introductory data."
+    }
+  },
+  {
+    "reference": "Ruth 2:2",
+    "chapter": 2,
+    "verse": 2,
+    "language": "hebrew",
+    "hebrew": "וַתֹּאמֶר֩ ר֨וּת הַמּוֹאֲבִיָּ֜ה אֶֽל־נָעֳמִ֗י אֵֽלְכָה־נָּ֤א הַשָּׂדֶה֙ וַאֲלַקֳטָּ֣הבַשִׁבֳּלִ֔יםאַחַ֕ר אֲשֶׁ֥ר אֶמְצָא־חֵ֖ן בְּעֵינָ֑יו וַתֹּ֥אמֶר לָ֖הּ לְכִ֥י בִתִּֽי׃",
+    "bsb_english": "And Ruth the Moabitess said to Naomi, “Please let me go into the fields and glean heads of grain after someone in whose sight I may find favor.” “Go ahead, my daughter,” Naomi replied.",
+    "translation": {
+      "thai": "รูธหญิงโมอับกล่าวแก่นาโอมีว่า “ขอให้ดิฉันออกไปที่ทุ่งนา และเก็บรวงข้าวที่ตกตามหลังคนที่จะแสดงความเมตตาแก่ดิฉันเถิด” นาโอมีตอบว่า “ไปเถิด ลูกของฉัน”",
+      "thai_literal": "และรูธหญิงโมอับกล่าวต่อนาโอมีว่า ขอให้ข้าพเจ้าไปทุ่งนาและเก็บรวงข้าวตามหลังผู้ที่ข้าพเจ้าจะหาความเมตตาในสายตาของเขา และนางกล่าวต่อนางว่า ไปเถิด บุตรีของฉัน",
+      "thai_summary": "การ ‘เก็บรวงข้าวที่ตก’ (לקט) เป็นสิทธิตามกฎหมายของโมเสสที่ให้ไว้แก่คนยากจน หญิงม่าย ลูกกำพร้า และคนต่างชาติ (เลวีนิติ 19:9-10; 23:22; เฉลยธรรมบัญญัติ 24:19-21) — เจ้าของไร่ต้องไม่เกี่ยวจนหมดทุ่ง แต่ต้องเหลือไว้ให้คนเหล่านี้เก็บกินได้ รูธอาสาที่จะใช้สิทธิ์นี้ในฐานะหญิงม่ายและคนต่างด้าว และหวังที่จะ ‘ได้รับความเมตตาในสายตา’ ของเจ้าของไร่ — เป็นสำนวนฮีบรูที่หมายถึงการได้รับการอนุญาตหรือการเอ็นดูจากผู้มีอำนาจ",
+      "key_decisions": [
+        {
+          "hebrew": "אֵלְכָה־נָּא",
+          "thai": "ขอให้ดิฉันออกไป",
+          "rationale": "Cohortative 1cs of הָלַךְ + emphatic particle נָא 'please.' The cohortative encodes self-volition + request-for-permission; combined with נָא it is a polite request to a superior. Per ot_register_policy: Ruth-to-Naomi register is daughter-in-law to mother-in-law deferential, so use ดิฉัน (humble feminine 1cs) + ขอให้ (request marker). The same cohortative pattern recurs in v.7 (Ruth's earlier request to the foreman) and v.13 (Ruth to Boaz)."
+        },
+        {
+          "hebrew": "וַאֲלַקֳטָה בַשִׁבֳּלִים",
+          "thai": "และเก็บรวงข้าวที่ตก",
+          "rationale": "לָקַט = the technical-legal verb for the gleaning right (Lev 19:9-10; Deut 24:19-21). שִׁבֳּלִים = 'ears/heads of grain.' The compound expression בַשִׁבֳּלִים אַחַר ('among the ears, after [the harvesters]') refers specifically to the secondary-pass right to pick up what falls or is left behind — not picking still-standing grain. Render เก็บรวงข้าวที่ตก (gather the heads of grain that have fallen) to encode the legal-secondary-pass dimension; this distinguishes from בָעֳמָרִים 'among the bundles' (v.7, 15) which would be a more aggressive claim closer to the harvested sheaves."
+        },
+        {
+          "hebrew": "אֲשֶׁר אֶמְצָא־חֵן בְּעֵינָיו",
+          "thai": "คนที่จะแสดงความเมตตาแก่ดิฉัน",
+          "rationale": "The idiom מָצָא חֵן בְּעֵינֵי X 'find favor in the eyes of X' = receive grace/favor/permission/kindness from X. Per uW figs-idiom: 'whoever will approve of me / whoever will be kind to me.' Recurs at v.10 and v.13 — the verbal motif that anchors Boaz's hesed throughout the chapter. Render with Thai 'ความเมตตา' (kindness/compassion) + 'ในสายตา' kept implicit on first occurrence to avoid awkwardness; v.10 and v.13 will render the eyes-imagery explicitly because the dialogue is direct."
+        },
+        {
+          "hebrew": "בִתִּי",
+          "thai": "ลูกของฉัน",
+          "rationale": "Affectionate kinship address — Naomi to Ruth. Per uW translate-kinship: Ruth was 'caring for Naomi as if she were her own mother, and Naomi addressed Ruth affectionately as her daughter.' Render ลูกของฉัน (my child/daughter) — Thai familial register that conveys the affectionate-not-formal address. The same word recurs at v.8 (Boaz to Ruth) and v.22 (Naomi to Ruth) — three different speakers, three different register-implications. Naomi's use is mother-daughter; Boaz's will be the older-respected-man-to-younger-woman protective register (handled at v.8)."
+        }
+      ],
+      "notes": "Ruth's initiative is the narrative engine of the chapter. The Hebrew has two waw-consecutive frames: וַתֹּאמֶר ... וַתֹּאמֶר (Ruth speaks → Naomi replies), in dialogue parallelism. The legal context (Mosaic gleaning rights, Lev 19, Deut 24) is assumed — the narrator does not explain because the Israelite audience knows. Ruth as a Moabite (foreigner, fatherless-as-widow) has triple-claim under Mosaic gleaning law. הַמּוֹאֲבִיָּה 'the Moabitess' is reintroduced here per uW writing-participants: the narrator re-flags Ruth's ethnicity precisely at the moment she enters Israel's agrarian space, because her Moabite identity is the social tension that runs through Boaz's dialogue."
+    }
+  },
+  {
+    "reference": "Ruth 2:3",
+    "chapter": 2,
+    "verse": 3,
+    "language": "hebrew",
+    "hebrew": "וַתֵּ֤לֶךְ וַתָּבוֹא֙ וַתְּלַקֵּ֣ט בַּשָּׂדֶ֔ה אַחֲרֵ֖י הַקֹּצְרִ֑ים וַיִּ֣קֶר מִקְרֶ֔הָ חֶלְקַ֤ת הַשָּׂדֶה֙ לְבֹ֔עַז אֲשֶׁ֖ר מִמִּשְׁפַּ֥חַת אֱלִימֶֽלֶךְ׃",
+    "bsb_english": "So Ruth departed and went out into the field and gleaned after the harvesters. And she happened to come to the part of the field belonging to Boaz, who was from the clan of Elimelech.",
+    "translation": {
+      "thai": "นางจึงออกไป และเก็บรวงข้าวในทุ่งตามหลังพวกคนเกี่ยว และเหตุบังเอิญเป็นไปว่า นางมาถึงส่วนของทุ่งที่เป็นของโบอาส ซึ่งมาจากตระกูลเอลีเมเลค",
+      "thai_literal": "และนางไป และนางมา และนางเก็บรวงในทุ่งตามหลังพวกคนเกี่ยว และโชคของนางก็มาเจอส่วนของทุ่งของโบอาส ผู้ซึ่งจากตระกูลของเอลีเมเลค",
+      "thai_summary": "วลี ‘เหตุบังเอิญเป็นไปว่า’ (וַיִּקֶר מִקְרֶהָ) เป็นการเล่นคำของผู้เล่าเรื่องในภาษาฮีบรู — รากศัพท์ קָרָה แปลว่า ‘เกิดขึ้น/บังเอิญ’ ผู้เขียนกำลังสื่อแบบเอียงว่าจากมุมมองของรูธสิ่งที่เกิดขึ้นดูเหมือนเป็นการบังเอิญ แต่จากมุมมองของผู้อ่านเรื่องราวทั้งหมดถูกออกแบบโดยพระเจ้า — รูธไม่รู้ว่าทุ่งนาของใคร แต่นางมาเจอทุ่งของโบอาสซึ่งเป็นญาติฝ่ายสามีของแม่สามี การเลือกใช้ภาษาที่ฟังดูเหมือน ‘บังเอิญ’ นี้เป็นเทคนิคของการเล่าเรื่องเชิงพระคัมภีร์ที่ปล่อยให้พระประสงค์ของพระเจ้าทำงานเงียบ ๆ เบื้องหลังเหตุการณ์ที่ดูธรรมดา",
+      "key_decisions": [
+        {
+          "hebrew": "וַתֵּלֶךְ וַתָּבוֹא וַתְּלַקֵּט",
+          "thai": "นางจึงออกไป และเก็บรวงข้าว",
+          "rationale": "Three wayyiqtol verbs in succession: 'and she went, and she came, and she gleaned.' Per hebrew_grammar_transfer §3.2: don't render every waw with และ. Collapse the redundant 'went + came' (Hebrew narrative-pair meaning 'set out') into a single Thai action (ออกไป), preserve the gleaning verb separately. The Thai narrative flow with จึง...และ captures the wayyiqtol forward-motion without translationese repetition."
+        },
+        {
+          "hebrew": "וַיִּקֶר מִקְרֶהָ",
+          "thai": "เหตุบังเอิญเป็นไปว่า",
+          "rationale": "Cognate-figura-etymologica: verb קָרָה 'to happen' + cognate noun מִקְרֶה 'happening, chance' — 'her chance chanced upon.' Per uW figs-explicit: the phrase signals to the reader that Ruth did not know whose field she was in. The Hebrew is deliberately ironic — what looks like 'chance' to Ruth is providence in the narrator's frame. Render เหตุบังเอิญเป็นไปว่า (it happened by coincidence that) — Thai narrative idiom that preserves the ironic 'chance' surface-meaning. The theological undertone is unpacked in thai_summary, not flattened into the main text."
+        },
+        {
+          "hebrew": "חֶלְקַת הַשָּׂדֶה לְבֹעַז",
+          "thai": "ส่วนของทุ่งที่เป็นของโบอาส",
+          "rationale": "חֶלְקַת = 'portion, plot, parcel.' Hebrew-Israelite agriculture had communally-owned + individually-allotted plots within larger field areas; Boaz owns one חֶלְקַת. The lamed-of-possession לְבֹעַז = 'belonging to Boaz.' Render ส่วน (portion) + ของ (genitive) for clarity — 'the portion of the field that belongs to Boaz' rather than just 'Boaz's field.'"
+        }
+      ],
+      "notes": "The narrator's irony in וַיִּקֶר מִקְרֶהָ ('chance chanced upon') is the chapter's theological pivot: from Ruth's perspective the field is random; from God's perspective it is preordained. This is the same mode of providential-irony that runs through Joseph's narrative (Gen 37–50), Esther, and the David-Bathsheba aftermath (2 Sam 12). The narrator never says 'God did this' — the reader is expected to see it. Per RULES §0 evangelical-Protestant frame: this is providence, not chance. The notes-text avoids polemical theological framing; the thai_summary surfaces the literary technique for the average reader."
+    }
+  },
+  {
+    "reference": "Ruth 2:4",
+    "chapter": 2,
+    "verse": 4,
+    "language": "hebrew",
+    "hebrew": "וְהִנֵּה־בֹ֗עַז בָּ֚א מִבֵּ֣ית לֶ֔חֶם וַיֹּ֥אמֶר לַקּוֹצְרִ֖ים יְהוָ֣ה עִמָּכֶ֑ם וַיֹּ֥אמְרוּ ל֖וֹ יְבָרֶכְךָ֥ יְהוָֽה׃",
+    "bsb_english": "Just then Boaz arrived from Bethlehem and said to the harvesters, “The LORD be with you.” “The LORD bless you,” they replied.",
+    "translation": {
+      "thai": "ดูเถิด โบอาสมาจากเบธเลเฮม และกล่าวแก่พวกคนเกี่ยวว่า “ขอองค์พระผู้เป็นเจ้าทรงสถิตกับท่านทั้งหลาย” พวกเขาตอบว่า “ขอองค์พระผู้เป็นเจ้าทรงอวยพรท่าน”",
+      "thai_literal": "และดูเถิด โบอาสมาจากเบธเลเฮม และเขากล่าวต่อพวกคนเกี่ยวว่า องค์พระผู้เป็นเจ้าอยู่กับพวกท่าน และพวกเขากล่าวต่อเขาว่า ขอองค์พระผู้เป็นเจ้าอวยพรท่าน",
+      "thai_summary": "การทักทายระหว่างนายและบ่าวด้วยพระนามของพระเจ้าเป็นรูปแบบทั่วไปในวัฒนธรรมอิสราเอลโบราณ — ‘ขอองค์พระผู้เป็นเจ้าทรงสถิตกับท่าน’ (יְהוָה עִמָּכֶם) เป็นทั้งการทักทายและการอวยพรในรูปแบบเดียว ผู้วินิจฉัย 6:12 ใช้ถ้อยคำเดียวกันนี้เมื่อทูตของพระเจ้าทักทายกิเดโอน และมัทธิว 28:20 บันทึกพระเยซูทรงสัญญาเช่นนี้แก่สาวก — ‘เราอยู่กับท่านเสมอจนสิ้นยุค’ การที่นายและบ่าวทักทายกันเช่นนี้เป็นภาพสะท้อนของชุมชนที่ดำเนินชีวิตด้วยการระลึกถึงพระเจ้าในกิจวัตรประจำวัน",
+      "key_decisions": [
+        {
+          "hebrew": "וְהִנֵּה",
+          "thai": "ดูเถิด",
+          "rationale": "Hebrew attention-marker, per hebrew_idioms_and_metaphor §5.2. Boaz's arrival is staged as a notable narrative event — the protagonist appearing on scene. Render ดูเถิด (the established Eremos rendering for הִנֵּה / ἰδού across the corpus, both OT and NT). Vary in repeat-occurrences within the chapter (v.6 ויען 'and he answered' is action, not הנה). The הנה here marks the narrative beat: Boaz's arrival is the inciting incident of the encounter."
+        },
+        {
+          "hebrew": "יְהוָה עִמָּכֶם",
+          "thai": "ขอองค์พระผู้เป็นเจ้าทรงสถิตกับท่านทั้งหลาย",
+          "rationale": "Greeting-formula = blessing. Per uW translate-blessing: 'I ask Yahweh to be with you.' Per divine_names_table_2026-05.md, יהוה → องค์พระผู้เป็นเจ้า. The verb-phrase is rendered with royal-honorific ทรง (per RULES §3 — divine subject takes ราชาศัพท์) + สถิต ('dwell/abide'); this matches the formulation already shipped at Luke 1:28 ('the Lord is with you' to Mary, with κύριος = YHWH echo). The plural addressee (workers, masculine plural) → ท่านทั้งหลาย."
+        },
+        {
+          "hebrew": "יְבָרֶכְךָ יְהוָה",
+          "thai": "ขอองค์พระผู้เป็นเจ้าทรงอวยพรท่าน",
+          "rationale": "Pi'el jussive of בָּרַךְ 'bless' + 2ms object suffix → 'May YHWH bless you.' Singular 'you' addressing the master Boaz. Per uW translate-blessing: greeting-blessing. Standard NT-aligned rendering ทรงอวยพร — already used in shipped corpus for blessings (e.g., Eph 1:3, Jas 1:5). The mutual-blessing exchange between Boaz and his workers is a small narrative window into the social fabric of Bethlehem under God-fearing leadership."
+        }
+      ],
+      "notes": "First explicit YHWH appearance in this chapter — triggers the per-chapter Tier 2 footer note convention per divine_names_table_2026-05.md Layer 2. Footer note will be added at output/textual_variants/ruth_02.json explaining that 'องค์พระผู้เป็นเจ้า' renders יהוה consistently with NT corpus. The greeting-blessing exchange is the OT formula that NT will pick up in Lk 1:28 (Gabriel to Mary), Matt 28:20 (Christ's parting), Acts 18:9-10 (vision to Paul) — the same יהוה עמך / κύριος μετὰ σοῦ pattern. No textual variants. The narrative purpose: introduce Boaz's character through speech (he greets workers in YHWH's name) before any physical description of his actions."
+    }
+  },
+  {
+    "reference": "Ruth 2:5",
+    "chapter": 2,
+    "verse": 5,
+    "language": "hebrew",
+    "hebrew": "וַיֹּ֤אמֶר בֹּ֨עַז֙ לְנַעֲר֔וֹ הַנִּצָּ֖ב עַל־הַקּֽוֹצְרִ֑ים לְמִ֖י הַנַּעֲרָ֥ה הַזֹּֽאת׃",
+    "bsb_english": "And Boaz asked the foreman of his harvesters, “Whose young woman is this?”",
+    "translation": {
+      "thai": "โบอาสจึงถามคนรับใช้ของตนซึ่งเป็นหัวหน้าคุมพวกคนเกี่ยวว่า “หญิงสาวคนนี้เป็นของผู้ใด?”",
+      "thai_literal": "และโบอาสกล่าวต่อคนรับใช้หนุ่มของเขา ผู้ที่ตั้งอยู่เหนือพวกคนเกี่ยวว่า หญิงสาวนี้เป็นของผู้ใด?",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "נַעֲרוֹ הַנִּצָּב עַל־הַקּוֹצְרִים",
+          "thai": "คนรับใช้ของตนซึ่งเป็นหัวหน้าคุมพวกคนเกี่ยว",
+          "rationale": "נַעַר = 'young man, servant, attendant' (covers wide age range, but contextually here the personal attendant). The participial phrase הַנִּצָּב עַל ('the one set/standing over') is an idiomatic way to encode 'foreman, overseer' (per uW figs-idiom on v.5: 'set over' = managing). Render with the doublet คนรับใช้...หัวหน้าคุม to capture both the social-role (servant of Boaz) and the functional-role (foreman of the harvesters)."
+        },
+        {
+          "hebrew": "לְמִי הַנַּעֲרָה הַזֹּאת",
+          "thai": "หญิงสาวคนนี้เป็นของผู้ใด?",
+          "rationale": "Lamed-of-possession + interrogative 'to-whom?' — Per uW translate-kinship: in that culture, women were under the authority of their male relatives; Boaz is asking whose family she belongs to (husband, father). He is NOT asking if she is a slave. Render literally with เป็นของผู้ใด (belongs to whom) preserving the ANE patriarchal frame; Thai readers familiar with traditional kinship structure will read this correctly. The question is NOT degrading — it is the standard ANE-context inquiry about an unfamiliar woman in the field."
+        }
+      ],
+      "notes": "Boaz's question functions narratively to surface Ruth's identity for the reader through the foreman's response in v.6-7. The Hebrew נִצָּב עַל is a stock idiom (cf. 1 Sam 22:9, 1 Kgs 4:7) for 'foreman, overseer.' No textual variants."
+    }
+  },
+  {
+    "reference": "Ruth 2:6",
+    "chapter": 2,
+    "verse": 6,
+    "language": "hebrew",
+    "hebrew": "וַיַּ֗עַן הַנַּ֛עַר הַנִּצָּ֥ב עַל־הַקּוֹצְרִ֖ים וַיֹּאמַ֑ר נַעֲרָ֤ה מֽוֹאֲבִיָּה֙ הִ֔יא הַשָּׁ֥בָה עִֽם־נָעֳמִ֖י מִשְּׂדֵ֥ה מוֹאָֽב׃",
+    "bsb_english": "The foreman answered, “She is the Moabitess who returned with Naomi from the land of Moab.",
+    "translation": {
+      "thai": "หัวหน้าคุมพวกคนเกี่ยวตอบว่า “นางคือหญิงสาวชาวโมอับที่กลับมากับนาโอมีจากแผ่นดินโมอับ",
+      "thai_literal": "และคนรับใช้หนุ่มผู้ตั้งอยู่เหนือพวกคนเกี่ยวตอบและกล่าวว่า เป็นหญิงสาวชาวโมอับ ผู้ที่กลับมากับนาโอมีจากทุ่งของโมอับ",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "וַיַּעַן ... וַיֹּאמַר",
+          "thai": "ตอบว่า",
+          "rationale": "Hendiadys per uW figs-hendiadys: 'and he answered, and he said' = single speech-act. Per hebrew_grammar_transfer §3.2: Thai narrative does not need both verbs; collapse to single ตอบว่า ('answered/replied saying'). The hendiadys is a Hebrew narrative convention; flattening to one verb is the natural Thai equivalent. Same pattern recurs at v.11 (Boaz answers Ruth)."
+        },
+        {
+          "hebrew": "מִשְּׂדֵה מוֹאָב",
+          "thai": "จากแผ่นดินโมอับ",
+          "rationale": "Same construct phrase as Ruth 1:1 שְׂדֵי מוֹאָב — the plural שְׂדֵה of שָׂדֶה in this idiom means 'territory of, country of.' Per Ruth 1:1 lock: render แผ่นดินโมอับ (land of Moab), not ทุ่ง (literal field). This preserves the Ruth 1 idiomatic-place rendering."
+        }
+      ],
+      "notes": "The foreman's answer surfaces Ruth's status for Boaz — and for the reader who has not yet seen her identity reaffirmed in dialogue this chapter. The Moabite identity is repeated three times in the chapter (v.2, v.6, v.21) — a narrative drumbeat reminding the reader of the social-tension that frames Boaz's eventual hesed. No textual variants."
+    }
+  },
+  {
+    "reference": "Ruth 2:7",
+    "chapter": 2,
+    "verse": 7,
+    "language": "hebrew",
+    "hebrew": "וַתֹּ֗אמֶר אֲלַקֳטָה־נָּא֙ וְאָסַפְתִּ֣י בָֽעֳמָרִ֔ים אַחֲרֵ֖י הַקּוֹצְרִ֑ים וַתָּב֣וֹא וַֽתַּעֲמ֗וֹד מֵאָ֤ז הַבֹּ֨קֶר֙ וְעַד־עַ֔תָּה זֶ֛ה שִׁבְתָּ֥הּ הַבַּ֖יִת מְעָֽט׃",
+    "bsb_english": "She has said, ‘Please let me glean and gather among the sheaves after the harvesters.’ So she came out and has continued from morning until now, except that she rested a short time in the shelter.”",
+    "translation": {
+      "thai": "นางได้กล่าวว่า ‘ขอให้ดิฉันเก็บรวงข้าวและรวบรวมในระหว่างฟ่อนข้าวตามหลังพวกคนเกี่ยวเถิด’ นางจึงเข้ามาและอยู่ที่นี่ตั้งแต่เช้าจนถึงบัดนี้ พักในเพิงเพียงเล็กน้อยเท่านั้น”",
+      "thai_literal": "และนางกล่าวว่า ขอให้ข้าพเจ้าเก็บและรวบรวมในมัดข้าวตามหลังพวกคนเกี่ยวเถิด และนางเข้ามาและยืนอยู่ตั้งแต่เช้านั้นจนถึงบัดนี้ นี่คือการพักของนางในบ้านนิดหน่อย",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "אֲלַקֳטָה־נָּא וְאָסַפְתִּי",
+          "thai": "ขอให้ดิฉันเก็บรวงข้าวและรวบรวม",
+          "rationale": "Per uW figs-hendiadys, alternate translation 'Please let me glean by gathering.' But the two verbs לִקֵּט (glean — pick up dropped) and אָסַף (gather — assemble into a pile) describe two phases of the secondary harvest activity. Render the doublet เก็บ + รวบรวม (gather + assemble) to preserve the two-stage action; this is more faithful than collapsing to single verb. נָא 'please' rendered ขอให้...เถิด (polite request frame in indirect-quoted speech)."
+        },
+        {
+          "hebrew": "בָעֳמָרִים",
+          "thai": "ในระหว่างฟ่อนข้าว",
+          "rationale": "עֹמֶר = 'sheaf, bundle (of harvested grain).' Distinct from שִׁבֳּלִים 'heads of grain' (v.2): שִׁבֳּלִים = the standing or fallen ears; עֳמָרִים = the bundled/tied harvested grain. Ruth's request was to glean even among the bundles — a more aggressive claim than the standard secondary-pass right. This sets up Boaz's exceptional concession in v.15-16 (ordering his men to let her glean among the bundles). Render ฟ่อนข้าว (sheaf-of-grain — Thai agricultural term)."
+        },
+        {
+          "hebrew": "זֶה שִׁבְתָּהּ הַבַּיִת מְעָט",
+          "thai": "พักในเพิงเพียงเล็กน้อยเท่านั้น",
+          "rationale": "Difficult final clause. הַבַּיִת = 'the house' but in field-context per uW translate-unknown means 'the temporary shelter/garden hut where workers rested.' שִׁבְתָּהּ = nominal infinitive of יָשַׁב 'sit/rest.' The clause is parenthetical: 'this [is] her resting in the shelter, a little.' Render เพิง (shelter/hut) for הַבַּיִת in this contextual sense; it captures the ANE-agricultural-field-shelter precisely. Some Hebrew scholars read זֶה as elliptical/corrupt; the BSB and most modern English translations render the parenthetical as 'except that she rested a short time in the shelter.' Follow that reading; flag in notes."
+        }
+      ],
+      "notes": "The foreman's report mixes direct quotation of Ruth (אֲלַקֳטָה־נָּא) and indirect narrative summary. Per uW figs-quotesinquotes: a direct quote within direct speech. Render with single curly quotes ‘...’ per RULES §5b (nested-quote convention). The final clause זֶה שִׁבְתָּהּ הַבַּיִת מְעָט is one of the textually difficult phrases of Ruth — Hebrew commentators differ on whether זֶה is a textual corruption of עוֹד 'still'; we follow the BSB's parenthetical reading per critical-text consensus. No SBLGNT-equivalent variant for OT inclusion-variant treatment; this is a textual-difficulty note, not an inclusion-variant."
+    }
+  },
+  {
+    "reference": "Ruth 2:8",
+    "chapter": 2,
+    "verse": 8,
+    "language": "hebrew",
+    "hebrew": "וַיֹּאמֶר֩ בֹּ֨עַז אֶל־ר֜וּת הֲל֧וֹא שָׁמַ֣עַתְּ בִּתִּ֗י אַל־תֵּלְכִי֙ לִלְקֹט֙ בְּשָׂדֶ֣ה אַחֵ֔ר וְגַ֛ם לֹ֥א תַעֲבוּרִ֖י מִזֶּ֑ה וְכֹ֥ה תִדְבָּקִ֖ין עִם־נַעֲרֹתָֽי׃",
+    "bsb_english": "Then Boaz said to Ruth, “Listen, my daughter. Do not go and glean in another field, and do not go away from this place, but stay here close to my servant girls.",
+    "translation": {
+      "thai": "โบอาสจึงกล่าวแก่รูธว่า “จงฟังเถิด ลูกของฉัน อย่าไปเก็บรวงข้าวในทุ่งของผู้อื่นเลย และอย่าออกไปจากที่นี่ จงอยู่ใกล้ชิดกับสาวรับใช้ของฉันเถิด",
+      "thai_literal": "และโบอาสกล่าวต่อรูธว่า มิใช่หรือเจ้าได้ยิน บุตรีของฉัน อย่าไปเก็บในทุ่งอื่น และอย่าออกไปจากที่นี่ และจงเกาะติดกับสาวรับใช้ของฉันเช่นนี้",
+      "thai_summary": "คำสั่งของโบอาสที่ให้รูธไม่ออกไปยังทุ่งอื่นนั้นไม่ใช่การจำกัดเสรีภาพ — เป็นการคุ้มครอง ในยุคของผู้วินิจฉัย ความปลอดภัยของหญิงสาวต่างชาติที่ทำงานในทุ่งคนแปลกหน้านั้นไม่อาจรับประกันได้ โบอาสไม่อาจปกป้องรูธในที่ดินของผู้อื่น แต่ในทุ่งของเขา เขาจะดูแลให้นางได้รับการปฏิบัติด้วยเกียรติและความปลอดภัย — เทียบ ‘สาวรับใช้ของฉัน’ ที่สื่อถึงการรับนางเข้าอยู่ภายใต้การดูแลของครัวเรือนของเขา",
+      "key_decisions": [
+        {
+          "hebrew": "הֲלוֹא שָׁמַעַתְּ",
+          "thai": "จงฟังเถิด",
+          "rationale": "Rhetorical interrogative הֲלוֹא + qatal of שָׁמַע 'hear' — per uW figs-rquestion: 'Boaz is using the question form to draw Ruth's attention to what he will say.' Per BHRG: rhetorical הֲלוֹא functions as emphatic-attention marker, not a true yes/no question. Render with imperative-listening Thai จงฟังเถิด ('Listen!') — standard rendering of attention-marker imperatives in our shipped corpus. Avoid wooden 'have you not heard?' which would be opaque to Thai readers."
+        },
+        {
+          "hebrew": "בִּתִּי",
+          "thai": "ลูกของฉัน",
+          "rationale": "Boaz to Ruth — kindly address from older man to younger woman, per uW figs-idiom: 'a kind way to address a younger woman.' Ruth is not Boaz's actual daughter; the term communicates kindness + respect. Per ot_register_policy: render with the same ลูกของฉัน Naomi used at v.2, but understood by Thai readers as a different register (older male protector to younger female, vs. mother-in-law to daughter-in-law). The Thai familial address ลูก in this context is cross-generational respectful-affectionate without imputing literal kinship."
+        },
+        {
+          "hebrew": "וְכֹה תִדְבָּקִין עִם־נַעֲרֹתָי",
+          "thai": "จงอยู่ใกล้ชิดกับสาวรับใช้ของฉัน",
+          "rationale": "דָּבַק = 'cling, stay close' — same root used of Ruth clinging to Naomi at Ruth 1:14 (דָּבְקָה בָּהּ → ยึดมั่นแนบแน่นอยู่กับนาง). Here in chapter 2 the verb shifts to a more practical 'stay near' — Boaz is giving safety-instruction. Recurs at v.21, 23 (דְּבַק / וַתִּדְבַּק of Ruth staying near Boaz's workers). Translate as อยู่ใกล้ชิด (stay close) for the practical sense; preserve the verbal echo with Ruth 1:14 by using a near-synonym register. The 1:14 ยึดมั่นแนบแน่น (cling-firmly) and 2:8 ใกล้ชิด (stay-close) are the two register-shades of דָּבַק in this book."
+        }
+      ],
+      "notes": "First Boaz-to-Ruth direct address in the book. The protective-instruction sequence (v.8-9) is the chapter's pivotal hesed-act — Boaz is publicly extending kinsman-protection to a Moabite foreigner before he has even acknowledged the family connection (v.20). The protection is quasi-legal: Boaz cannot guarantee Ruth's safety in another field per uW chapter intro on v.8. The verb דָּבַק resurfaces as a structuring motif (Ruth clings to Naomi 1:14; Ruth clings to Boaz's workers 2:8, 21, 23; Ruth-Boaz marriage covenant 4:13)."
+    }
+  },
+  {
+    "reference": "Ruth 2:9",
+    "chapter": 2,
+    "verse": 9,
+    "language": "hebrew",
+    "hebrew": "עֵינַ֜יִךְ בַּשָּׂדֶ֤ה אֲשֶׁר־יִקְצֹרוּן֙ וְהָלַ֣כְתִּאַחֲרֵיהֶ֔ן הֲל֥וֹא צִוִּ֛יתִי אֶת־הַנְּעָרִ֖ים לְבִלְתִּ֣י נָגְעֵ֑ךְ וְצָמִ֗ת וְהָלַכְתְּ֙ אֶל־הַכֵּלִ֔ים וְשָׁתִ֕ית מֵאֲשֶׁ֥ר יִשְׁאֲב֖וּן הַנְּעָרִֽים׃",
+    "bsb_english": "Let your eyes be on the field they are harvesting, and follow along after these girls. Indeed, I have ordered the young men not to touch you. And when you are thirsty, go and drink from the jars the young men have filled.”",
+    "translation": {
+      "thai": "จงคอยเฝ้าดูทุ่งที่พวกเขาเกี่ยวอยู่ และตามไปกับพวกเขา ฉันได้สั่งคนรับใช้หนุ่มของฉันไว้แล้วว่าอย่าได้แตะต้องเจ้า เมื่อใดเจ้ากระหายน้ำ จงไปที่ภาชนะและดื่มน้ำที่คนรับใช้หนุ่มของฉันได้ตักไว้”",
+      "thai_literal": "ตาของเจ้าในทุ่งที่พวกเขาเกี่ยวอยู่ และเจ้าจงตามไปข้างหลังพวกเขา มิใช่หรือฉันได้สั่งพวกคนรับใช้หนุ่มไม่ให้แตะต้องเจ้า และเมื่อเจ้ากระหายน้ำ และเจ้าจงไปยังภาชนะ และเจ้าจงดื่มจากที่พวกคนรับใช้หนุ่มได้ตักขึ้นมา",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "עֵינַיִךְ בַּשָּׂדֶה",
+          "thai": "จงคอยเฝ้าดูทุ่ง",
+          "rationale": "Hebrew metonymy 'your eyes [be] on the field' = pay attention to the field. Per uW figs-metonymy: 'eyes' represents the capability to see, watch, observe. Render with explicit verb เฝ้าดู (watch/keep eyes on) — Thai does not have the same nominal-eyes-as-attention idiom, so we render the function plainly per RULES §1 naturalness pillar."
+        },
+        {
+          "hebrew": "הֲלוֹא צִוִּיתִי אֶת־הַנְּעָרִים לְבִלְתִּי נָגְעֵךְ",
+          "thai": "ฉันได้สั่งคนรับใช้หนุ่มของฉันไว้แล้วว่าอย่าได้แตะต้องเจ้า",
+          "rationale": "Second rhetorical הֲלוֹא in two verses (v.8 הֲלוֹא שָׁמַעַתְּ; v.9 הֲלוֹא צִוִּיתִי). Per uW figs-rquestion: emphasizes Boaz's hospitality/provision — he had already made arrangements. Render as declarative ได้...แล้ว (have already...) to capture the emphatic-completed action. נָגַע 'touch' = euphemism for sexual harassment/assault per uW figs-euphemism. Render plainly as แตะต้อง (touch) preserving the polite euphemism — Thai readers will read this in context exactly as Hebrew readers did. Footnote-explicit translation 'sexually harm you' is unnecessary in main text."
+        },
+        {
+          "hebrew": "צָמִת ... וְשָׁתִית",
+          "thai": "เมื่อใดเจ้ากระหายน้ำ ... จงไป...และดื่ม",
+          "rationale": "Weqatal-chain (perfect-with-waw) in habitual-future sense per hebrew_grammar_transfer §3.4: 'whenever you are thirsty... go and drink.' Render with conditional Thai เมื่อใด...จง (whenever...let) — captures the habitual aspect and the permission-granted modality. The sequence is two waw-perfects + one verb of motion; render with mixed connectives per §3.2."
+        }
+      ],
+      "notes": "The provisions Boaz extends to Ruth are exceptional: (1) protection from harassment (v.9b), (2) access to his workers' water — normally available only to his employed laborers, not gleaners. Per uW: 'water pulled up from the well by the workmen.' Boaz is granting Ruth quasi-employee status on day one, before the Naomi-kinship connection is acknowledged at v.20. The verb נָגַע is polite-euphemism for sexual harm; the Thai แตะต้อง preserves the same politeness."
+    }
+  },
+  {
+    "reference": "Ruth 2:10",
+    "chapter": 2,
+    "verse": 10,
+    "language": "hebrew",
+    "hebrew": "וַתִּפֹּל֙ עַל־פָּנֶ֔יהָ וַתִּשְׁתַּ֖חוּ אָ֑רְצָה וַתֹּ֣אמֶר אֵלָ֗יו מַדּוּעַ֩ מָצָ֨אתִי חֵ֤ן בְּעֵינֶ֨יךָ֙ לְהַכִּירֵ֔נִי וְאָּנֹכִ֖ינָכְרִיָּֽה׃",
+    "bsb_english": "At this, she fell on her face, bowing low to the ground, and said to him, “Why have I found such favor in your eyes that you should take notice of me, even though I am a foreigner?”",
+    "translation": {
+      "thai": "นางจึงก้มหน้าลงกราบจดดิน แล้วกล่าวแก่เขาว่า “เหตุใดดิฉันจึงได้รับความเมตตาในสายตาของท่าน จนท่านเหลียวแลดิฉัน ทั้ง ๆ ที่ดิฉันเป็นคนต่างชาติ?”",
+      "thai_literal": "และนางล้มลงบนหน้าของนางและก้มลงสู่ดิน และนางกล่าวต่อเขาว่า เหตุใดข้าพเจ้าได้รับความเมตตาในสายตาของท่าน เพื่อท่านจะรู้จักข้าพเจ้า แม้ว่าข้าพเจ้าเป็นคนต่างชาติ?",
+      "thai_summary": "การที่รูธก้มหน้าลงกราบจดดินเป็นการแสดงความนอบน้อมและความขอบคุณอย่างสุดซึ้งในวัฒนธรรมตะวันออกใกล้โบราณ — ไม่ใช่เพียงการคำนับเล็กน้อย แต่เป็นท่าทางการแสดงความสำนึกในพระคุณที่เธอไม่คาดหวัง คำถาม ‘เหตุใดดิฉันจึงได้รับความเมตตา’ สื่อสารทั้งความประหลาดใจและความเข้าใจในตัวเอง — รูธรู้ดีว่าในฐานะหญิงโมอับ นางไม่ได้คาดหวังว่าจะได้รับการปฏิบัติเช่นนี้ในทุ่งของชาวอิสราเอล",
+      "key_decisions": [
+        {
+          "hebrew": "וַתִּפֹּל עַל־פָּנֶיהָ וַתִּשְׁתַּחוּ אָרְצָה",
+          "thai": "นางจึงก้มหน้าลงกราบจดดิน",
+          "rationale": "Per uW figs-doublet + figs-idiom + translate-symaction: two parallel descriptions of one symbolic action = full prostration in respect/gratitude/humility. Per hebrew_idioms_and_metaphor §2: הִשְׁתַּחֲוָה = bow oneself down (worship-gesture or political-deference), here the latter — Ruth respecting Boaz's hesed. Render with the Thai compound ก้มหน้าลงกราบจดดิน (lower face + prostrate to the ground) which captures the full physical gesture in idiomatic Thai. Avoid splitting into two clauses; the Hebrew doublet is rhetorical-emphasis, not two separate actions."
+        },
+        {
+          "hebrew": "מָצָאתִי חֵן בְּעֵינֶיךָ",
+          "thai": "ดิฉันจึงได้รับความเมตตาในสายตาของท่าน",
+          "rationale": "Same idiom as v.2 (מָצָא חֵן בְּעֵינֵי), now in direct speech with explicit eyes-imagery. In v.2 we kept the eyes-image implicit in the indirect-discourse rendering for narrative naturalness; here in direct address we render it explicitly because Ruth's question turns on the visual-relational metaphor. The Thai สายตา (gaze/sight) preserves the eyes-imagery that the rhetoric of the verse depends on. Recurs at v.13 — same explicit rendering."
+        },
+        {
+          "hebrew": "וְאָנֹכִי נָכְרִיָּה",
+          "thai": "ทั้ง ๆ ที่ดิฉันเป็นคนต่างชาติ",
+          "rationale": "Emphatic 1cs pronoun אָנֹכִי + adjective נָכְרִיָּה ('foreign female'). Per uW grammar-connect-logic-contrast: Ruth's question expresses surprise + states the contrast with her expectations. Render the contrastive frame ทั้ง ๆ ที่ ('even though, in spite of'). נָכְרִיָּה in OT context carries the technical-legal sense of 'outsider, foreigner, non-Israelite' (cf. Deut 23:20, 1 Kgs 11:1, Prov 5:20) — beyond mere geographic foreignness, it includes the religious-covenant outsider status. คนต่างชาติ (foreigner/Gentile) is the established Eremos rendering for this concept (cf. NT shipped corpus: ἔθνος, ξένος, ἀλλογενής)."
+        },
+        {
+          "hebrew": "(register: Ruth → Boaz)",
+          "thai": "ดิฉัน + ท่าน",
+          "rationale": "First direct Ruth-to-Boaz speech. Per ot_register_policy: female-to-male socially-superior-stranger register. Use ดิฉัน (humble feminine 1cs) for self + ท่าน (respectful 2cs) for Boaz. This register continues throughout v.13 ('my lord' = นายของดิฉัน). The shift from her speech to Naomi (v.2 ดิฉัน + Naomi as familial) to her speech to Boaz (v.10, 13 ดิฉัน + นาย) marks the social-register shift — she addresses both with humility but the relationship-frame differs."
+        }
+      ],
+      "notes": "The verse is a hinge: Ruth's prostration + question articulates the social tension the chapter has been building (Moabite + foreigner + widow + receiving Israelite-elite hesed). Per uW translate-symaction: the prostration-gesture is gratitude + honor + humility together. The narrator uses Ruth's own self-description (נָכְרִיָּה 'foreign woman') to underscore that Boaz's hesed is across the social-religious boundary — anticipating the book's theological arc (foreign Moabite woman becomes ancestress of David and Christ, Matt 1:5)."
+    }
+  },
+  {
+    "reference": "Ruth 2:11",
+    "chapter": 2,
+    "verse": 11,
+    "language": "hebrew",
+    "hebrew": "וַיַּ֤עַן בֹּ֨עַז֙ וַיֹּ֣אמֶר לָ֔הּ הֻגֵּ֨ד הֻגַּ֜ד לִ֗י כֹּ֤ל אֲשֶׁר־עָשִׂית֙ אֶת־חֲמוֹתֵ֔ךְ אַחֲרֵ֖י מ֣וֹת אִישֵׁ֑ךְ וַתַּֽעַזְבִ֞י אָּבִ֣יךְוְאִמֵּ֗ךְ וְאֶ֨רֶץ֙ מֽוֹלַדְתֵּ֔ךְ וַתֵּ֣לְכִ֔י אֶל־עַ֕ם אֲשֶׁ֥ר לֹא־יָדַ֖עַתְּ תְּמ֥וֹל שִׁלְשֽׁוֹם׃",
+    "bsb_english": "Boaz replied, “I have been made fully aware of all you have done for your mother-in-law since the death of your husband, how you left your father and mother and the land of your birth, and how you came to a people you did not know before.",
+    "translation": {
+      "thai": "โบอาสตอบนางว่า “ฉันได้ยินเรื่องราวทั้งหมดที่เจ้าได้ทำเพื่อแม่สามีของเจ้าหลังจากที่สามีของเจ้าสิ้นชีวิตแล้ว เจ้าได้ละบิดามารดาและแผ่นดินถิ่นกำเนิดของเจ้า มาอยู่กับชนชาติที่เจ้าไม่เคยรู้จักมาก่อนเลย",
+      "thai_literal": "และโบอาสตอบและกล่าวต่อนางว่า ได้รับการบอกอย่างเต็มที่แก่ฉัน ทุกสิ่งที่เจ้าได้ทำกับแม่สามีของเจ้า หลังจากการตายของสามีของเจ้า และเจ้าได้ละทิ้งบิดาของเจ้าและมารดาของเจ้าและแผ่นดินกำเนิดของเจ้า และเจ้าได้ไปยังประชาชนที่เจ้าไม่ได้รู้จักก่อนวันนี้",
+      "thai_summary": "ถ้อยคำของโบอาสในข้อ 11-12 สะท้อนภาษาในการเรียกของอับราฮัม (ปฐมกาล 12:1) — ‘จงออกจากแผ่นดินของเจ้า จากญาติพี่น้องของเจ้า และจากเรือนของบิดาของเจ้า’ รูธในฐานะหญิงโมอับได้ทำในสิ่งที่อับราฮัมบรรพบุรุษของอิสราเอลทำ — ละทิ้งครอบครัว แผ่นดิน และเทพเจ้า เพื่อมาอยู่กับพระเจ้าของอิสราเอล ผู้เล่าเรื่องวางรูธไว้ในแนวเดียวกับศรัทธาของอับราฮัม — ภาพที่จะได้รับการเสริมในมัทธิว 1:5 เมื่อรูธปรากฏในลำดับวงศ์วานของพระเยซู",
+      "key_decisions": [
+        {
+          "hebrew": "וַיַּעַן בֹּעַז וַיֹּאמֶר",
+          "thai": "โบอาสตอบ...ว่า",
+          "rationale": "Same hendiadys as v.6 (foreman) — collapse to single verb per hebrew_grammar_transfer §3.2 + uW figs-hendiadys."
+        },
+        {
+          "hebrew": "הֻגֵּד הֻגַּד לִי",
+          "thai": "ฉันได้ยินเรื่องราวทั้งหมด",
+          "rationale": "Hophal infinitive absolute + Hophal qatal 'fully reported (it has been reported) to me' — per hebrew_grammar_transfer §1.1 (infinitive absolute intensifying), the doubled-verb is intensive emphasis. Per uW figs-reduplication: the repetition emphasizes the fullness of the report. Per uW figs-activepassive: passive 'has been reported' could become active 'people have fully reported.' Thai is voiceless-flexible; render in active-voice ฉันได้ยิน (I have heard) which captures the Hebrew force without forcing the passive-construction. The intensification is encoded by the totality-noun ทั้งหมด ('everything') + the perfective-aspect verb ได้ยิน, so the doubled-verb force is preserved."
+        },
+        {
+          "hebrew": "וַתַּעַזְבִי אָבִיךְ וְאִמֵּךְ וְאֶרֶץ מוֹלַדְתֵּךְ",
+          "thai": "เจ้าได้ละบิดามารดาและแผ่นดินถิ่นกำเนิดของเจ้า",
+          "rationale": "Three-element list — (1) father + (2) mother + (3) birthland. The Hebrew echoes Genesis 12:1 (Abraham's call: 'go out from your land, from your kindred, and from your father's house'). Boaz frames Ruth's loyalty in Abrahamic-typology language. Render the three-element list compactly in Thai with the natural compound บิดามารดา (father+mother as single Thai compound — established Eremos rendering for the OT-frequent compound) + แผ่นดินถิ่นกำเนิด (birthland/native country). Preserve the parallelism with Gen 12:1 in the thai_summary."
+        },
+        {
+          "hebrew": "וַתֵּלְכִי אֶל־עַם אֲשֶׁר לֹא־יָדַעַתְּ תְּמוֹל שִׁלְשׁוֹם",
+          "thai": "มาอยู่กับชนชาติที่เจ้าไม่เคยรู้จักมาก่อนเลย",
+          "rationale": "תְּמוֹל שִׁלְשׁוֹם 'yesterday + day-before-yesterday' — per uW figs-idiom, idiomatic for 'recently / previously / heretofore.' Render ก่อน...เลย ('before...at all' / 'never before at all') as the natural Thai temporal-emphatic equivalent. The verbal echo of אֶרֶץ מוֹלַדְתֵּךְ (birthland) + עַם 'people' is land-and-people Hebrew formula for total ethnic-religious belonging — Ruth has crossed BOTH boundaries to come to Israel."
+        }
+      ],
+      "notes": "Boaz's framing of Ruth's loyalty in v.11-12 is theologically loaded — he uses the Abrahamic-call vocabulary (cf. Gen 12:1-3) to describe Ruth's choice, then invokes YHWH's covenant-protection in v.12 (under whose wings = covenant-shelter metaphor). The narrator is positioning Ruth's faith as Abrahamic-faith in non-Israelite form, which becomes the book's theological climax (Matthew 1:5 cites Ruth in the messianic genealogy). Per uW figs-metonymy on v.11: 'people' = the village + community + religion Naomi belongs to."
+    }
+  },
+  {
+    "reference": "Ruth 2:12",
+    "chapter": 2,
+    "verse": 12,
+    "language": "hebrew",
+    "hebrew": "יְשַׁלֵּ֥ם יְהוָ֖ה פָּעֳלֵ֑ךְ וּתְהִ֨י מַשְׂכֻּרְתֵּ֜ךְ שְׁלֵמָ֗ה מֵעִ֤ם יְהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל אֲשֶׁר־בָּ֖את לַחֲס֥וֹת תַּֽחַת־כְּנָפָֽיו׃",
+    "bsb_english": "May the LORD repay your work, and may you receive a rich reward from the LORD, the God of Israel, under whose wings you have taken refuge.”",
+    "translation": {
+      "thai": "ขอองค์พระผู้เป็นเจ้าทรงตอบแทนการกระทำของเจ้า และขอให้รางวัลของเจ้าครบบริบูรณ์จากองค์พระผู้เป็นเจ้า พระเจ้าแห่งอิสราเอล ที่เจ้ามาลี้ภัยอยู่ใต้ปีกของพระองค์”",
+      "thai_literal": "ขอองค์พระผู้เป็นเจ้าทรงให้รางวัลแก่การกระทำของเจ้า และขอให้ค่าจ้างของเจ้าครบบริบูรณ์จากกับองค์พระผู้เป็นเจ้า พระเจ้าแห่งอิสราเอล ผู้ที่เจ้าได้มาลี้ภัยใต้ปีกของพระองค์",
+      "thai_summary": "ภาพ ‘ใต้ปีก’ ของพระเจ้าเป็นภาษาเปรียบเทียบที่ปรากฏซ้ำในพระคัมภีร์ — ภาพแม่นกที่กางปีกคุ้มครองลูก เพื่อบรรยายการคุ้มครองของพระเจ้าต่อผู้ที่วางใจในพระองค์ (เพลงสดุดี 17:8; 36:7; 57:1; 91:4; มัทธิว 23:37 ที่พระเยซูใช้ภาพเดียวกัน) คำอวยพรของโบอาสในข้อนี้ในที่สุดจะถูก ‘ตอบ’ โดยพระเจ้า — เพราะรูธ ‘เข้าลี้ภัยใต้ปีก’ ของพระเจ้า แล้วในบทที่ 3 เธอจะขอให้โบอาส ‘กางปีกของท่านคลุมสาวรับใช้ของท่าน’ (รูธ 3:9) — โบอาสกลายเป็นเครื่องมือที่พระเจ้าใช้ในการตอบคำอวยพรของเขาเอง",
+      "key_decisions": [
+        {
+          "hebrew": "יְשַׁלֵּם יְהוָה פָּעֳלֵךְ",
+          "thai": "ขอองค์พระผู้เป็นเจ้าทรงตอบแทนการกระทำของเจ้า",
+          "rationale": "Pi'el jussive of שָׁלַם 'repay, recompense, complete' + פָּעַל 'work, deed.' Per uW figs-explicit: פֹּעַל here = the good deeds Boaz has just described (v.11). Per RULES §3 — divine-subject takes royal-honorific ทรง + ตอบแทน ('repay/recompense'). The verb שָׁלַם carries the complete-payment connotation; ตอบแทน captures repayment without the financial flatness of 'pay back.'"
+        },
+        {
+          "hebrew": "וּתְהִי מַשְׂכֻּרְתֵּךְ שְׁלֵמָה",
+          "thai": "และขอให้รางวัลของเจ้าครบบริบูรณ์",
+          "rationale": "Per uW figs-parallelism: this clause repeats the previous in different words for emphasis. The two clauses both invoke the same idea (YHWH repays / may your reward be full). Render the parallelism in Thai with similar grammatical-structure but varied vocabulary (ตอบแทน → ครบบริบูรณ์, การกระทำ → รางวัล) per RULES §1 naturalness — Thai prefers varied vocabulary in parallel structure. שְׁלֵמָה shares root with שָׁלַם — wordplay: 'may YHWH 'shalem' your work, may your wages be 'shalemah'' — preserved indirectly via Thai ตอบแทน...ครบบริบูรณ์ (recompense...completely)."
+        },
+        {
+          "hebrew": "אֲשֶׁר־בָּאתְ לַחֲסוֹת תַּחַת־כְּנָפָיו",
+          "thai": "ที่เจ้ามาลี้ภัยอยู่ใต้ปีกของพระองค์",
+          "rationale": "Per hebrew_idioms_and_metaphor §1.2 row on כְּנָפַיִם: 'wings (of God's protection)' → ปีกขององค์พระผู้เป็นเจ้า OR ราชาศัพท์ พระปีก. Per uW figs-metaphor: 'a mother bird gathering her chicks under her wings.' Critical not to flatten. Render plain ปีก of God + แสดงตัวเปรียบเทียบเป็นที่ลี้ภัย ('come to take shelter / refuge'). The verb חָסָה → ลี้ภัย ('seek refuge/shelter') is the standard Eremos rendering for biblical refuge-language. The metaphor is preserved in main text + unpacked in thai_summary because (a) Thai readers may know but not all will associate the bird-imagery, (b) it sets up Ruth 3:9 verbal echo (Ruth asks Boaz to spread his wing/garment over her — same word כָּנָף)."
+        }
+      ],
+      "notes": "The wings-of-protection metaphor is the chapter's Christological-typological hinge per evangelical reading: Boaz's blessing-prayer asks God to recompense Ruth, and then (as the narrator unfolds in 3:9-4:13) God answers the prayer THROUGH Boaz himself — the kinsman-redeemer becomes the instrument of the very blessing he prayed. This providential-irony pattern recurs throughout Scripture (e.g., Gideon's request and his own response, Solomon's prayer for wisdom and his own enactment of it). The thai_summary surfaces the wings-imagery + the Ruth 3:9 verbal echo for the average reader."
+    }
+  },
+  {
+    "reference": "Ruth 2:13",
+    "chapter": 2,
+    "verse": 13,
+    "language": "hebrew",
+    "hebrew": "וַ֠תֹּאמֶר אֶמְצָא־חֵ֨ן בְּעֵינֶ֤יךָ אֲדֹנִי֙ כִּ֣י נִֽחַמְתָּ֔נִי וְכִ֥י דִבַּ֖רְתָּ עַל־לֵ֣ב שִׁפְחָתֶ֑ךָ וְאָנֹכִי֙ לֹ֣א אֶֽהְיֶ֔ה כְּאַחַ֖ת שִׁפְחֹתֶֽיךָ׃",
+    "bsb_english": "“My lord,” she said, “may I continue to find favor in your eyes, for you have comforted and spoken kindly to your maidservant, though I am not like one of your servant girls.”",
+    "translation": {
+      "thai": "นางตอบว่า “ขอให้ดิฉันได้รับความเมตตาในสายตาของท่านสืบไปเถิด นายของดิฉัน เพราะท่านได้ปลอบประโลมและพูดด้วยความเมตตาต่อสาวรับใช้ของท่าน แม้ว่าดิฉันไม่ได้มีฐานะเทียบเท่าสาวรับใช้คนหนึ่งของท่านก็ตาม”",
+      "thai_literal": "และนางกล่าวว่า ขอให้ข้าพเจ้าหาความเมตตาในสายตาของท่าน นายของข้าพเจ้า เพราะท่านได้ปลอบโยนข้าพเจ้า และเพราะท่านได้พูดต่อใจของสาวรับใช้ของท่าน และข้าพเจ้าจะไม่เป็นเหมือนหนึ่งในสาวรับใช้ทั้งหลายของท่าน",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "אֶמְצָא־חֵן בְּעֵינֶיךָ",
+          "thai": "ขอให้ดิฉันได้รับความเมตตาในสายตาของท่านสืบไปเถิด",
+          "rationale": "Third occurrence of the chapter's signature idiom (v.2, v.10, v.13). Here in cohortative request-form: 'may I [continue to] find favor.' Per uW figs-idiom: 'May you continue to approve of me / be pleased with me.' The continuative force is encoded in Thai สืบไป ('onward, continually'). The threefold occurrence anchors the chapter's narrative arc: Ruth requests favor (v.2) → receives it unexpectedly (v.10) → asks for it to continue (v.13)."
+        },
+        {
+          "hebrew": "אֲדֹנִי",
+          "thai": "นายของดิฉัน",
+          "rationale": "Per uW writing-politeness: respectful address; Boaz is not Ruth's master, but a Jewish landowner whom she honors as 'lord' while speaking of herself as his servant. Per ot_register_policy: when אֲדֹנִי addresses a human social-superior (not God), render with the human-respectful นาย ('master/sir'). When it addresses God, the divine_names_table convention applies (องค์เจ้านาย). This is human-Adonai context. Compare divine_names_table_2026-05.md — אֲדֹנִי as title for Christ-figure in Pss 110:1 = องค์เจ้านาย; here it is plain human respect = นาย."
+        },
+        {
+          "hebrew": "דִבַּרְתָּ עַל־לֵב שִׁפְחָתֶךָ",
+          "thai": "พูดด้วยความเมตตาต่อสาวรับใช้ของท่าน",
+          "rationale": "Idiom דִבֵּר עַל לֵב (lit. 'speak upon the heart') = speak kindly, comfort, reassure (cf. Gen 34:3, Hos 2:14, Isa 40:2). Per hebrew_idioms_and_metaphor §3.3 (לֵב idioms): contextually = 'kind/encouraging speech.' Per uW figs-metaphor: heart represents inner thoughts/emotions; alternate: 'in an encouraging way to.' Render ด้วยความเมตตา (with kindness) — this preserves the kindness-force without the wooden 'speak upon the heart' which would be opaque in Thai. Also the literal in thai_literal preserves the heart-imagery for translators/scholars."
+        },
+        {
+          "hebrew": "שִׁפְחָתֶךָ ... שִׁפְחֹתֶיךָ",
+          "thai": "สาวรับใช้ของท่าน",
+          "rationale": "שִׁפְחָה = female servant (often the lower class of household-female-servants, distinct from אָמָה which can be more proximate). Per uW writing-politeness: Ruth refers to herself as Boaz's servant for respect, not because she is one of his actual servants. Then in the next clause she modestly says she is not even 'as one of your female servants.' The same word twice = singular self-reference + plural collective 'your servants.' Render with the same Thai สาวรับใช้ to preserve the verbal repetition and the irony."
+        },
+        {
+          "hebrew": "לֹא אֶהְיֶה כְּאַחַת שִׁפְחֹתֶיךָ",
+          "thai": "ดิฉันไม่ได้มีฐานะเทียบเท่าสาวรับใช้คนหนึ่งของท่านก็ตาม",
+          "rationale": "Per uW writing-politeness: 'I do not even have the status of being one of your servant girls.' Ruth is being humble — admitting she does not even rank as one of Boaz's regular workers. Render with the explicit-status frame ไม่ได้มีฐานะเทียบเท่า ('do not have status equal to') to capture the hierarchical-self-deprecation. The negative אֶהְיֶה (yiqtol) is non-temporal here — it is a contrastive-realis statement, not a future. Render as plain present."
+        }
+      ],
+      "notes": "Ruth's response completes the chapter's threefold-favor cycle. Her speech is masterfully crafted: she accepts Boaz's hesed by asking it to continue, she names herself his servant while denying she even ranks as one — the rhetorical move that places Boaz under obligation to keep elevating her. This is the same pattern Esther uses with Ahasuerus (Esth 5:2, 7:3), Hannah with Eli (1 Sam 1:18) — the female-petitioner self-deprecation as social-protocol. Per uW figs-123person: third-person self-reference ('your female servant') is per-language; in Thai we collapse to first-person dictionary form (สาวรับใช้ของท่าน works as both the Thai third-person literal AND functions as humble first-person reference) — the ambiguity matches the Hebrew."
+    }
+  },
+  {
+    "reference": "Ruth 2:14",
+    "chapter": 2,
+    "verse": 14,
+    "language": "hebrew",
+    "hebrew": "וַיֹּאמֶר֩ לָ֨ה בֹ֜עַז לְעֵ֣ת הָאֹ֗כֶל גֹּ֤שִֽׁי הֲלֹם֙ וְאָכַ֣לְתְּ מִן־הַלֶּ֔חֶם וְטָבַ֥לְתְּ פִּתֵּ֖ךְ בַּחֹ֑מֶץ וַתֵּ֨שֶׁב֙ מִצַּ֣ד הַקּֽוֹצְרִ֔ים וַיִּצְבָּט־לָ֣הּ קָלִ֔י וַתֹּ֥אכַל וַתִּשְׂבַּ֖ע וַתֹּתַֽר׃",
+    "bsb_english": "At mealtime Boaz said to her, “Come over here; have some bread and dip it into the vinegar sauce.” So she sat down beside the harvesters, and he offered her roasted grain, and she ate and was satisfied and had some left over.",
+    "translation": {
+      "thai": "ถึงเวลาอาหาร โบอาสกล่าวแก่นางว่า “เชิญมาที่นี่เถิด รับขนมปังและจุ่มในน้ำส้มสายชู” นางจึงนั่งลงข้างพวกคนเกี่ยว และเขายื่นข้าวคั่วให้นาง นางก็รับประทานจนอิ่มและยังเหลืออยู่",
+      "thai_literal": "และเขากล่าวต่อนางคือโบอาสว่า ในเวลาอาหาร เจ้าจงมาที่นี่และจงกินจากขนมปังและเจ้าจงจุ่มชิ้นของเจ้าในน้ำส้มสายชู และนางนั่งลงข้างพวกคนเกี่ยว และเขายื่นแก่นางคือข้าวคั่ว และนางกินและนางอิ่มและนางมีเหลือ",
+      "thai_summary": "อาหารกลางวันในทุ่งของชาวอิสราเอลโบราณเป็นอาหารง่าย ๆ ที่กินร่วมกัน — ขนมปังจุ่มในน้ำส้มสายชู (ทำจากองุ่นที่หมักจนเป็นกรด) ใช้แทนน้ำจิ้มเปรี้ยวๆ และข้าวคั่ว (เมล็ดข้าวสาลีหรือข้าวบาร์เลย์ที่คั่วในไฟร้อนๆ) เป็นอาหารพร้อมกินที่ใช้บ่อย การที่โบอาสเชิญรูธมาร่วมโต๊ะอาหารกับพวกคนเกี่ยวเป็นการยอมรับนางเข้าสู่ครัวเรือนของเขาในระดับหนึ่ง — การเชิญร่วมอาหารในวัฒนธรรมตะวันออกใกล้โบราณเป็นการสร้างพันธะทางสังคม ไม่ใช่เพียงการให้อาหารผู้หิวโหย",
+      "key_decisions": [
+        {
+          "hebrew": "לְעֵת הָאֹכֶל",
+          "thai": "ถึงเวลาอาหาร",
+          "rationale": "Time-frame phrase 'at the time of the eating/meal' — per uW alternate translation 'at the time of the midday meal.' Render the temporal-frame as Thai ถึงเวลา ('when it was time / at the time of') + อาหาร ('meal/food'). Don't specify 'midday' in main text since the Hebrew doesn't; thai_summary can clarify cultural-context."
+        },
+        {
+          "hebrew": "גֹּשִׁי הֲלֹם וְאָכַלְתְּ ... וְטָבַלְתְּ",
+          "thai": "เชิญมาที่นี่เถิด รับขนมปังและจุ่ม",
+          "rationale": "Three imperatives — Per uW figs-imperative: 'gracious invitation, not a command.' Per uW figs-infostructure: it would be more natural to put 'dipping' before 'eating.' Render as gracious-invitation Thai เชิญ (invitation marker) + เถิด (polite imperative) — the Thai politeness-frame matches the gracious-invitation force. Restructure to follow Thai natural order: come here → take bread → dip in vinegar → eat."
+        },
+        {
+          "hebrew": "בַּחֹמֶץ",
+          "thai": "ในน้ำส้มสายชู",
+          "rationale": "חֹמֶץ = vinegar made from fermented wine. Per uW translate-unknown: 'a simple meal eaten in the field — pieces of broken bread dipped in wine vinegar... at the vinegar stage, the juice becomes very sour and acidic.' Render น้ำส้มสายชู (vinegar — standard Thai term). Cultural unpacking goes in thai_summary. Same word at Num 6:3 (Nazirite refrain), Ps 69:21 (sour drink given to messianic-typological figure — echoed at Christ's crucifixion in Mt 27:48 with ὄξος); the OT-NT verbal-thread is part of the larger lexical-coherence work."
+        },
+        {
+          "hebrew": "וַיִּצְבָּט־לָהּ קָלִי",
+          "thai": "เขายื่นข้าวคั่วให้นาง",
+          "rationale": "**HAPAX**: צָבַט (ṣāḇaṭ) — only OT occurrence is here. Etymology debated: cognate Arabic ḍabaṭa 'grasp, hold,' Akkadian ṣabātu 'seize.' BSB/ESV: 'reached out, offered, passed.' The semantic field clusters around 'extend hand to give.' Render ยื่น...ให้ ('extend/pass to') — captures the giving-by-hand-extension motion. קָלִי = parched/roasted grain — per uW translate-unknown: roasted edible grain kernels, a common ANE field-meal item. Thai ข้าวคั่ว (roasted-grain) is the natural equivalent."
+        },
+        {
+          "hebrew": "וַתֹּאכַל וַתִּשְׂבַּע וַתֹּתַר",
+          "thai": "นางก็รับประทานจนอิ่มและยังเหลืออยู่",
+          "rationale": "Wayyiqtol-triplet: 'and she ate, and she was satisfied, and she had left over.' Per hebrew_grammar_transfer §3.2: vary connectives. Render as Thai narrative-flow ก็...จน...และยัง — natural Thai consumption-sequence narrative. The three-verb sequence is rhetorically significant: it parallels Boaz's eventual abundance-provision in v.17 (whole ephah of barley) and 4:13 (marriage + son). The eat-be-satisfied-have-leftover triad is OT abundance-formula (cf. Deut 8:10, Ex 16:18 manna)."
+        }
+      ],
+      "notes": "**HAPAX** צָבַט (v.14) — first-and-only OT occurrence. Etymology and semantic range unpacked in key_decisions. The verse compresses three narrative beats: invitation → seating → being-fed-with-Boaz's-own-hand. Per uW figs-quotesinquotes: the imperative-invitation is direct speech; the seating + feeding is narrative. The rhetorical force: Boaz personally extends grain to Ruth (he could have ordered a servant) — the gesture publicly elevates Ruth's status before all the workers. The eat-be-satisfied-leftover triad echoes covenant-abundance language (Deut 8:10) and prefigures Boaz's role as kinsman-redeemer providing for Ruth's household (the leftover she takes home in v.18 to Naomi)."
+    }
+  },
+  {
+    "reference": "Ruth 2:15",
+    "chapter": 2,
+    "verse": 15,
+    "language": "hebrew",
+    "hebrew": "וַתָּ֖קָם לְלַקֵּ֑ט וַיְצַו֩ בֹּ֨עַז אֶת־נְעָרָ֜יו לֵאמֹ֗ר גַּ֣ם בֵּ֧ין הָֽעֳמָרִ֛ים תְּלַקֵּ֖ט וְלֹ֥א תַכְלִימֽוּהָ׃",
+    "bsb_english": "When Ruth got up to glean, Boaz ordered his young men, “Even if she gathers among the sheaves, do not insult her.",
+    "translation": {
+      "thai": "เมื่อรูธลุกขึ้นไปเก็บรวงข้าวอีก โบอาสสั่งคนรับใช้หนุ่มของตนว่า “แม้นางจะเก็บในระหว่างฟ่อนข้าว ก็อย่าตำหนินาง",
+      "thai_literal": "และนางลุกขึ้นเพื่อเก็บ และโบอาสสั่งพวกคนรับใช้หนุ่มของเขาเพื่อจะกล่าวว่า แม้แต่ระหว่างมัดข้าวก็จงเก็บ และเจ้าทั้งหลายอย่าทำให้นางอับอาย",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "וַיְצַו בֹּעַז אֶת־נְעָרָיו",
+          "thai": "โบอาสสั่งคนรับใช้หนุ่มของตน",
+          "rationale": "Per uW figs-explicit: Boaz likely spoke privately to his workers, away from Ruth's hearing. Translate plainly สั่ง (give-order) without the 'privately' qualifier in main text — Hebrew doesn't have that explicit marker, just the surrounding narrative implication. The implied-privacy is part of the narrative subtlety; Thai readers will infer it."
+        },
+        {
+          "hebrew": "גַּם בֵּין הָעֳמָרִים תְּלַקֵּט",
+          "thai": "แม้นางจะเก็บในระหว่างฟ่อนข้าว",
+          "rationale": "Per uW translate-unknown: גַּם 'even' = beyond-normal. Gleaners were normally forbidden from working close to harvested grain (theft-risk); Boaz is permitting Ruth to glean exceptionally close to the harvested bundles. עֹמֶר = same word as v.7 — sheaf/bundle. Render แม้...จะ ('even though...will') to capture the exceptional-permission frame. The Boaz-instruction here EXTENDS what Ruth originally requested in v.7 — she asked to glean among the bundles (an aggressive request); Boaz is now publicly permitting it."
+        },
+        {
+          "hebrew": "וְלֹא תַכְלִימוּהָ",
+          "thai": "ก็อย่าตำหนินาง",
+          "rationale": "Hiphil yiqtol of כָּלַם 'shame, humiliate.' Per uW figs-explicit: refers to verbal scolding — saying she should stop. Render with Thai negative-imperative อย่าตำหนิ ('do not scold/criticize'). The verb covers both verbal shaming and possibly physical interfering; the Thai ตำหนิ captures the verbal-criticism range, which is the primary sense per the workplace-context."
+        }
+      ],
+      "notes": "Boaz's instruction to his men is the chapter's second-tier hesed-act (after the v.8-9 protection): he permits Ruth gleaning-rights beyond what Mosaic law guaranteed. The narrative logic is that Boaz, having heard Ruth's modest self-description in v.13, escalates his protection rather than tightening it. This is the chapter's pattern: every Ruth-humility produces a Boaz-elevation."
+    }
+  },
+  {
+    "reference": "Ruth 2:16",
+    "chapter": 2,
+    "verse": 16,
+    "language": "hebrew",
+    "hebrew": "וְגַ֛ם שֹׁל־תָּשֹׁ֥לּוּ לָ֖הּ מִן־הַצְּבָתִ֑ים וַעֲזַבְתֶּ֥ם וְלִקְּטָ֖ה וְלֹ֥א תִגְעֲרוּ־בָֽהּ׃",
+    "bsb_english": "Rather, pull out for her some stalks from the bundles and leave them for her to gather. Do not rebuke her.”",
+    "translation": {
+      "thai": "ยิ่งไปกว่านั้น จงดึงรวงข้าวบางมัดออกจากกองให้นาง และทิ้งไว้ให้นางเก็บ อย่าได้ตำหนินางเลย”",
+      "thai_literal": "และยิ่งกว่านั้น จงดึงออก เจ้าทั้งหลายจงดึงออกแก่นาง จากมัดทั้งหลาย และเจ้าทั้งหลายจงปล่อยทิ้งไว้และนางจะเก็บ และเจ้าทั้งหลายอย่าตำหนินาง",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "וְגַם שֹׁל־תָּשֹׁלּוּ לָהּ",
+          "thai": "ยิ่งไปกว่านั้น จงดึงรวงข้าวบางมัดออก...ให้นาง",
+          "rationale": "Per uW translate-unknown: וְגַם 'and even / not only that, but also' — Boaz is going beyond v.15's permission; now ordering his workers to actively drop grain for her. שָׁלַל = pull out, draw out (Qal). The infinitive-absolute + finite verb (שֹׁל־תָּשֹׁלּוּ) is intensifying-emphasis per hebrew_grammar_transfer §1.1: 'you shall surely pull out / definitely pull out.' Render as imperative-emphatic จงดึงออก (firmly pull/draw out) — the intensification is captured by the emphatic-mood marker จง."
+        },
+        {
+          "hebrew": "מִן־הַצְּבָתִים",
+          "thai": "จากกอง",
+          "rationale": "**HAPAX**: צֶבֶת (ṣebeṯ) — only OT occurrence is the plural form here. Etymology: traditionally connected to the verb meaning 'bind, tie' — hence 'bundles' or 'tied-grain-stalks.' BSB renders 'bundles.' Render as กอง ('pile, stack') — Thai natural agricultural term for the harvested-grain heap. Note: this hapax + the v.14 hapax (צָבַט) together are the chapter's two only-OT-occurrences — neither is theologically loaded, both are agricultural-technical. Cluster reflects the chapter's specialized harvest-vocabulary."
+        },
+        {
+          "hebrew": "וַעֲזַבְתֶּם וְלִקְּטָה",
+          "thai": "และทิ้งไว้ให้นางเก็บ",
+          "rationale": "Weqatal pair — 'and you shall leave [them] and she shall glean.' Per hebrew_grammar_transfer §3.4: weqatal-chain in instructional/future-action sense. Render with Thai purposive-frame ทิ้งไว้ให้...เก็บ ('leave [it] for [her] to gather'). The verb עָזַב carries 'abandon, leave-deliberately' — distinct from English passive 'be-left.'"
+        },
+        {
+          "hebrew": "וְלֹא תִגְעֲרוּ־בָהּ",
+          "thai": "อย่าได้ตำหนินางเลย",
+          "rationale": "גָּעַר 'rebuke, rebuff sharply.' Per uW alternate: 'do not cause her shame, do not speak harshly.' Slightly stronger than v.15's כָּלַם but in the same semantic-domain (verbal scolding). Render with the same ตำหนิ + emphatic เลย ('absolutely not') for stronger force. The doubled-prohibition (v.15 + v.16) is rhetorical-emphasis on Boaz's exceptional protection — not redundancy."
+        }
+      ],
+      "notes": "**HAPAX** צֶבֶת (v.16) — second hapax in three verses. The instruction goes a step beyond v.15: not just 'don't shame her,' but 'actively leave grain for her to find.' This is the chapter's third-tier hesed (protect → permit-near-bundles → give-actively). Per uW figs-explicit: the workers might naturally have wanted to scold a Moabite outsider getting unusual privilege; Boaz preempts that. The instruction makes Ruth's gleaning a quasi-employment (she takes home an ephah, v.17 — a worker's daily wage, not a typical-gleaning quantity)."
+    }
+  },
+  {
+    "reference": "Ruth 2:17",
+    "chapter": 2,
+    "verse": 17,
+    "language": "hebrew",
+    "hebrew": "וַתְּלַקֵּ֥ט בַּשָּׂדֶ֖ה עַד־הָעָ֑רֶב וַתַּחְבֹּט֙ אֵ֣ת אֲשֶׁר־לִקֵּ֔טָה וַיְהִ֖י כְּאֵיפָ֥ה שְׂעֹרִֽים׃",
+    "bsb_english": "So Ruth gathered grain in the field until evening. And when she beat out what she had gleaned, it was about an ephah of barley.",
+    "translation": {
+      "thai": "รูธเก็บรวงข้าวในทุ่งจนถึงเย็น เมื่อนางนวดข้าวที่เก็บได้ ก็ได้ข้าวบาร์เลย์ประมาณหนึ่งเอฟาห์",
+      "thai_literal": "และนางเก็บในทุ่งจนถึงเย็น และนางนวดสิ่งที่นางเก็บได้ และเป็นประมาณหนึ่งเอฟาห์ของข้าวบาร์เลย์",
+      "thai_summary": "หนึ่งเอฟาห์เท่ากับประมาณ 22 ลิตร หรือเกือบ 14 กิโลกรัมของข้าวบาร์เลย์ — เป็นปริมาณที่มากเกินกว่าที่กลุ่มเกี่ยวข้าวคนหนึ่งจะเก็บได้ในวันเดียวด้วยวิธีปกติ ปริมาณนี้พอจะเลี้ยงสองคน (รูธและนาโอมี) ได้ประมาณห้าวันถึงหนึ่งสัปดาห์ การจัดสรรของโบอาสในข้อ 15-16 จึงสะท้อนเป็นรูปธรรม — รูธไม่ได้กลับบ้านมือเปล่าหรือแม้แต่กับเสบียงเพียงเล็กน้อย แต่กลับมาด้วยภาระหนักที่บ่งบอกถึงพระคุณที่เกินคาด",
+      "key_decisions": [
+        {
+          "hebrew": "וַתַּחְבֹּט אֵת אֲשֶׁר־לִקֵּטָה",
+          "thai": "เมื่อนางนวดข้าวที่เก็บได้",
+          "rationale": "חָבַט = beat (with a stick) — per uW translate-unknown: Ruth would have beaten the barley stalks with a big stick to separate the kernels of grain from the chaff. This is the threshing-by-hand process for small quantities. Render นวด (the Thai standard term for threshing/grain-separation) — captures the agricultural process. The threshing here is solo; usually large-scale threshing was done at a threshing-floor (גֹּרֶן) which Ruth will visit in chapter 3."
+        },
+        {
+          "hebrew": "כְּאֵיפָה שְׂעֹרִים",
+          "thai": "ข้าวบาร์เลย์ประมาณหนึ่งเอฟาห์",
+          "rationale": "Per uW translate-bvolume: ephah ≈ 22 liters / ~14 kg of grain. The כְּ ('about, like') is approximate-indicator — Ruth's haul was 'about an ephah' not exactly. Render เอฟาห์ (transliterated; Thai biblical-measurement standard for אֵיפָה) + ประมาณ ('approximately'). The volumetric significance (~5-7 days food for two women) is unpacked in thai_summary. This is the OT measurement-unit; preserving the transliterated unit per Eremos's standard treatment of biblical-units (gerah, shekel, hin, omer, etc.)."
+        }
+      ],
+      "notes": "The ephah quantity is the verse's narrative climax of Boaz's hesed: the chapter that began with Ruth requesting bare-minimum gleaning (v.2) ends with her hauling home an ephah — by ANE standards, more than a typical day-laborer's wage in grain. The narrator's restraint is masterful — the quantity is given without commentary; the reader infers the providential excess. The ephah = ~22 liters ≈ 30-40 lbs of grain, which Ruth carries home alone (v.18). Per uW figs-explicit on v.18: the carrying is implied."
+    }
+  },
+  {
+    "reference": "Ruth 2:18",
+    "chapter": 2,
+    "verse": 18,
+    "language": "hebrew",
+    "hebrew": "וַתִּשָּׂא֙ וַתָּב֣וֹא הָעִ֔יר וַתֵּ֥רֶא חֲמוֹתָ֖הּ אֵ֣ת אֲשֶׁר־לִקֵּ֑טָה וַתּוֹצֵא֙ וַתִּתֶּן־לָ֔הּ אֵ֥ת אֲשֶׁר־הוֹתִ֖רָה מִשָּׂבְעָֽהּ׃",
+    "bsb_english": "She picked up the grain and went into the town, where her mother-in-law saw what she had gleaned. And she brought out what she had saved from her meal and gave it to Naomi.",
+    "translation": {
+      "thai": "นางหอบข้าวกลับไปยังเมือง แม่สามีของนางก็ได้เห็นสิ่งที่นางเก็บได้ แล้วนางก็เอาของที่เหลือจากอาหารของนางออกมาให้แก่นาโอมี",
+      "thai_literal": "และนางยกขึ้น และนางมาเมือง และแม่สามีของนางเห็นสิ่งที่นางเก็บได้ และนางนำออกและนางให้นาง สิ่งที่นางเหลือจากความอิ่มของนาง",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "וַתִּשָּׂא וַתָּבוֹא הָעִיר",
+          "thai": "นางหอบข้าวกลับไปยังเมือง",
+          "rationale": "Per uW figs-explicit: 'It is implied that Ruth carried the grain home.' The Hebrew has no direct object for נָשָׂא 'lift/carry' — it is inferred from context (the ephah of v.17). Render the inferred-object explicitly in Thai with หอบข้าว ('carry [the] grain') for clarity, since Thai narrative naturalness disallows the bare 'lift up and went to the city.' The Thai หอบ is the natural verb for carrying a heavy load."
+        },
+        {
+          "hebrew": "וַתֵּרֶא חֲמוֹתָהּ אֵת אֲשֶׁר־לִקֵּטָה",
+          "thai": "แม่สามีของนางก็ได้เห็นสิ่งที่นางเก็บได้",
+          "rationale": "Same compound חֲמוֹת+possessive-suffix as Ruth 1:14 (לַחֲמוֹתָהּ) → แม่สามีของนาง — preserve the Ruth 1 lock. The narrative beat is Naomi's first-sight of the haul, before any conversation; the visual is the narrative-pivot of v.18-19."
+        },
+        {
+          "hebrew": "אֵת אֲשֶׁר־הוֹתִרָה מִשָּׂבְעָהּ",
+          "thai": "ของที่เหลือจากอาหารของนาง",
+          "rationale": "שָׂבְעָה = 'satiety' (root שָׂבַע 'be-full/satisfied' from v.14). Lit. 'what she had remaining from her satisfaction' = leftovers from her midday meal. Render naturally 'leftovers from her meal' — the abstract-noun satiety becomes concrete-context 'her meal' in Thai narrative. The detail closes the chapter's eat-be-satisfied-leftover triad of v.14: Ruth ate, was satisfied, had leftover; she now brings the leftover home to Naomi."
+        }
+      ],
+      "notes": "The verse closes v.14's eat-satisfied-leftover triad. Ruth's bringing-home-leftovers is double-significance: practically she has saved food for Naomi; symbolically she has demonstrated that Boaz's generosity multiplies — Ruth eats AND brings home food for Naomi from the same provision. The narrative tableau (Naomi seeing the ephah-pile + Ruth handing over leftovers) sets up Naomi's astonished question in v.19."
+    }
+  },
+  {
+    "reference": "Ruth 2:19",
+    "chapter": 2,
+    "verse": 19,
+    "language": "hebrew",
+    "hebrew": "וַתֹּאמֶר֩ לָ֨הּ חֲמוֹתָ֜הּ אֵיפֹ֨ה לִקַּ֤טְתְּ הַיּוֹם֙ וְאָ֣נָה עָשִׂ֔ית יְהִ֥י מַכִּירֵ֖ךְ בָּר֑וּךְ וַתַּגֵּ֣ד לַחֲמוֹתָ֗הּ אֵ֤ת אֲשֶׁר־עָשְׂתָה֙ עִמּ֔וֹ וַתֹּ֗אמֶר שֵׁ֤ם הָאִישׁ֙ אֲשֶׁ֨ר עָשִׂ֧יתִי עִמּ֛וֹ הַיּ֖וֹם בֹּֽעַז׃",
+    "bsb_english": "Then her mother-in-law asked her, “Where did you glean today, and where did you work? Blessed be the man who noticed you.” So she told her mother-in-law where she had worked. “The name of the man I worked with today is Boaz,” she said.",
+    "translation": {
+      "thai": "แม่สามีถามนางว่า “วันนี้เจ้าไปเก็บข้าวที่ไหน และทำงานที่ใด? ขอชายผู้ที่เหลียวแลเจ้าได้รับพระพร” นางจึงเล่าให้แม่สามีฟังว่านางได้ทำงานกับใคร แล้วนางว่า “ชื่อของชายที่ดิฉันได้ทำงานด้วยในวันนี้คือโบอาส”",
+      "thai_literal": "และแม่สามีของนางกล่าวต่อนางว่า เจ้าเก็บที่ไหนวันนี้ และเจ้าทำงานที่ไหน ขอผู้ที่รู้จักเจ้าจงได้รับพระพร และนางบอกแม่สามีของนางสิ่งที่นางได้ทำกับเขา และนางกล่าวว่า ชื่อของชายที่ข้าพเจ้าได้ทำงานกับเขาในวันนี้คือโบอาส",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "אֵיפֹה לִקַּטְתְּ הַיּוֹם וְאָנָה עָשִׂית",
+          "thai": "วันนี้เจ้าไปเก็บข้าวที่ไหน และทำงานที่ใด?",
+          "rationale": "Per uW figs-parallelism: Naomi asked the same thing two ways — 'where did you glean? where did you work?' = surprise + interest at the haul. Render the parallelism with two question-words ที่ไหน + ที่ใด (synonyms in Thai, vary for naturalness). The doubled-question is rhetorical-emphasis; Thai naturally reads it as Naomi's excited-curiosity. Don't collapse to one question."
+        },
+        {
+          "hebrew": "יְהִי מַכִּירֵךְ בָּרוּךְ",
+          "thai": "ขอชายผู้ที่เหลียวแลเจ้าได้รับพระพร",
+          "rationale": "Per uW translate-blessing: 'God, bless the one who noticed Ruth today.' Per figs-activepassive: Hiphil ptcp + jussive of בָּרַךְ — 'May the one who noticed you be blessed.' Per figs-metonymy: 'noticed' = recognized AND helped (כָּכַר Hiphil = acknowledge, recognize, treat with regard). Render as Thai blessing-formula ขอ...ได้รับพระพร ('may [he] receive blessing') with the verb เหลียวแล (to look-after/regard with care) capturing the recognize-and-help compound force."
+        },
+        {
+          "hebrew": "וַתַּגֵּד לַחֲמוֹתָהּ ... וַתֹּאמֶר",
+          "thai": "นางจึงเล่าให้แม่สามีฟัง...แล้วนางว่า",
+          "rationale": "Per uW figs-parallelism: 'these two sentences mean basically the same thing... combine the sentences or connect them in a way that shows the second sentence is repeating the first.' Render as connect-and-name pattern: nameless-summary first ('she told her mother-in-law where she had worked') then explicit-name ('the man's name was Boaz'). Thai เล่า...แล้วว่า (told...then said) flows naturally."
+        }
+      ],
+      "notes": "The verse's narrative-rhythm withholds the name 'Boaz' until the climax — Ruth tells her mother-in-law about her day, THEN names the man. This is uW-flagged narrative-emphasis (figs-parallelism: 'the second sentence is repeating the first to emphasize'). Naomi's astonished-blessing in v.19a (before knowing the name) sets up her even-more-astonished response in v.20 (after the name reveals the kinsman-redeemer connection). The narrator is building the recognition-scene through Naomi's two-stage emotional arc."
+    }
+  },
+  {
+    "reference": "Ruth 2:20",
+    "chapter": 2,
+    "verse": 20,
+    "language": "hebrew",
+    "hebrew": "וַתֹּ֨אמֶר נָעֳמִ֜י לְכַלָּתָ֗הּ בָּר֥וּךְ הוּא֙ לַיהוָ֔ה אֲשֶׁר֙ לֹא־עָזַ֣ב חַסְדּ֔וֹ אֶת־הַחַיִּ֖ים וְאֶת־הַמֵּתִ֑ים וַתֹּ֧אמֶר לָ֣הּ נָעֳמִ֗י קָר֥וֹב לָ֨נוּ֙ הָאִ֔ישׁ מִֽגֹּאֲלֵ֖נוּ הֽוּא׃",
+    "bsb_english": "Then Naomi said to her daughter-in-law, “May he be blessed by the LORD, who has not withdrawn His kindness from the living or the dead.” Naomi continued, “The man is a close relative. He is one of our kinsman-redeemers.”",
+    "translation": {
+      "thai": "นาโอมีกล่าวแก่สะใภ้ของนางว่า “ขอเขาได้รับพระพรจากองค์พระผู้เป็นเจ้า ผู้ไม่ทรงละทิ้งความรักมั่นคงของพระองค์ต่อทั้งคนเป็นและคนตาย” นาโอมีกล่าวต่อไปว่า “ชายผู้นี้เป็นญาติใกล้ชิดของเรา เป็นหนึ่งในญาติผู้ไถ่ของเรา”",
+      "thai_literal": "และนาโอมีกล่าวต่อสะใภ้ของนางว่า ขอเขาได้รับพระพรต่อองค์พระผู้เป็นเจ้า ผู้ที่ไม่ได้ละทิ้งความเมตตาของเขากับคนเป็นทั้งหลายและคนตายทั้งหลาย และนาโอมีกล่าวต่อนางว่า ชายผู้นี้ใกล้ชิดต่อเรา จากผู้ไถ่ของเรา เขาเป็น",
+      "thai_summary": "‘ความรักมั่นคง’ (חֶסֶד / hesed) เป็นคำหลักทางเทววิทยาของพันธสัญญาเดิม — หมายถึงความรักที่ผูกพันด้วยพันธสัญญา ไม่ใช่ความรู้สึกชั่วครู่ แต่เป็นความซื่อสัตย์ที่จะรักษาคำสัญญาแม้เมื่อต้องเสียสละ คำเดียวกันนี้นาโอมีอวยพรแก่สะใภ้ในรูธ 1:8 (ที่นี่นาโอมีเห็นว่าโบอาสกำลังตอบคำอวยพรของเธอเอง) ‘ญาติผู้ไถ่’ (גֹּאֵל / gō'ēl) เป็นบทบาททางกฎหมาย — ชายในตระกูลที่มีหน้าที่ (1) แต่งงานกับสะใภ้ของพี่น้องที่ตายโดยไม่มีลูก (Levirate marriage) (2) ไถ่ที่ดินของตระกูลที่ขายไปแล้ว (3) ปลดปล่อยญาติที่ขายตัวเป็นทาส (เลวีนิติ 25:25-49; เฉลยธรรมบัญญัติ 25:5-10) นาโอมีตระหนักทันทีถึงความเป็นไปได้ — โบอาสไม่ใช่เพียงผู้ใจดี แต่เป็นผู้ที่อาจไถ่ครอบครัวของพวกนาง",
+      "key_decisions": [
+        {
+          "hebrew": "בָּרוּךְ הוּא לַיהוָה",
+          "thai": "ขอเขาได้รับพระพรจากองค์พระผู้เป็นเจ้า",
+          "rationale": "Per uW translate-blessing + figs-activepassive: 'I pray that he will be blessed by Yahweh.' The lamed could be agent-of-passive ('blessed BY YHWH') or recipient ('blessed TO/before YHWH'). Per uW: prefer agent reading = 'by YHWH.' Render with ขอ...ได้รับพระพรจาก (may [he] receive blessing from) — agent-frame in Thai. יהוה → องค์พระผู้เป็นเจ้า per divine_names_table."
+        },
+        {
+          "hebrew": "אֲשֶׁר לֹא־עָזַב חַסְדּוֹ אֶת־הַחַיִּים וְאֶת־הַמֵּתִים",
+          "thai": "ผู้ไม่ทรงละทิ้งความรักมั่นคงของพระองค์ต่อทั้งคนเป็นและคนตาย",
+          "rationale": "**THE CHAPTER'S THEOLOGICAL CLIMAX.** חֶסֶד = covenant-loyal love. Per Ruth 1:8 lock: ḥesed → ความรักมั่นคง. Critical OT term, recurs at Ruth 3:10. Per RULES §4 — preserve the established Eremos rendering. The double-negative לֹא־עָזַב 'has not forsaken' per uW figs-doublenegatives = positive 'has continued to be loyal to.' Render with negative-positive Thai ไม่ทรงละทิ้ง...ของพระองค์ ('has not abandoned [his hesed]') — preserve the negative-form for the Hebrew rhetorical-force. The 'living and dead' = Ruth + Naomi (living) and Mahlon + Chilion + Elimelech (dead). Per uW figs-pronouns: the subject of 'has not forsaken' is ambiguous — could be (1) YHWH continuing-faithful, (2) Boaz showing-faithfulness. Both are theologically true; the syntactic-default is YHWH (closest antecedent), but the 'through Boaz' implication is the narrative pulse."
+        },
+        {
+          "hebrew": "קָרוֹב לָנוּ הָאִישׁ מִגֹּאֲלֵנוּ הוּא",
+          "thai": "ชายผู้นี้เป็นญาติใกล้ชิดของเรา เป็นหนึ่งในญาติผู้ไถ่ของเรา",
+          "rationale": "Per uW figs-parallelism: two clauses, one meaning. 'The man is close to us, one of our kinsman-redeemers.' Per uW translate-unknown: a גֹּאֵל was the close male relative responsible for (a) levirate-marriage to childless widow, (b) land-redemption, (c) freeing-from-slavery (Lev 25:25-49, Deut 25:5-10). **PROJECT-WIDE CANONICAL LOCK**: גֹּאֵל = ญาติผู้ไถ่ ('kinsman-redeemer') — the rendering will recur at Ruth 3:9, 12, 13; 4:1, 3, 6, 8, 14 + many other OT books (Lev 25:25-26, 48-49, Num 35:12, Ps 19:14, Isa 41:14, Jer 50:34, Job 19:25 'I know that my Redeemer lives'). The lock here sets the precedent for the entire OT corpus. Render as compound ญาติ ('relative') + ผู้ไถ่ ('redeemer') — preserves both the kinship-claim and the redemption-function."
+        },
+        {
+          "hebrew": "מִגֹּאֲלֵנוּ הוּא",
+          "thai": "เป็นหนึ่งในญาติผู้ไถ่ของเรา",
+          "rationale": "Partitive מִן + plural-suffixed גֹּאֲלֵנוּ — 'from our redeemers (i.e., one of them).' The plural is significant: there is more than one potential redeemer in their kinship-network. Naomi's wording sets up Ruth 3-4: there is a closer kinsman than Boaz (the unnamed פְּלֹנִי אַלְמֹנִי of 4:1) who has first right of redemption. Render with the partitive frame หนึ่งใน ('one of') to preserve the plural that becomes plot-driving in chapter 3-4."
+        }
+      ],
+      "notes": "**THE CHAPTER'S THEOLOGICAL CLIMAX.** Two-tier reveal: (1) hesed-recognition — Naomi sees that YHWH's covenant-faithfulness has not been withdrawn from the dead (Mahlon, Chilion, Elimelech) or the living (Naomi, Ruth) — language echoing her own bitter complaint in 1:20-21 that the Almighty had brought calamity. (2) gō'ēl-recognition — Naomi names Boaz's potential legal role for the first time. The chapter's narrative arc was built precisely for this verse — every Boaz-act has been hesed-toward-the-dead-through-the-living, and now Naomi names what the reader has been seeing. Project-wide lock established here: גֹּאֵל = ญาติผู้ไถ่. **ADDED TO GLOSSARY**: this entry should be added to the OT glossary as the canonical rendering."
+    }
+  },
+  {
+    "reference": "Ruth 2:21",
+    "chapter": 2,
+    "verse": 21,
+    "language": "hebrew",
+    "hebrew": "וַתֹּ֖אמֶר ר֣וּת הַמּוֹאֲבִיָּ֑ה גַּ֣ם׀כִּי־אָמַ֣ר אֵלַ֗י עִם־הַנְּעָרִ֤ים אֲשֶׁר־לִי֙ תִּדְבָּקִ֔ין עַ֣ד אִם־כִּלּ֔וּ אֵ֥ת כָּל־הַקָּצִ֖יר אֲשֶׁר־לִֽי׃",
+    "bsb_english": "Then Ruth the Moabitess said, “He also told me, ‘Stay with my young men until they have finished gathering all my harvest.’”",
+    "translation": {
+      "thai": "รูธหญิงโมอับกล่าวว่า “ยิ่งกว่านั้น เขาบอกดิฉันว่า ‘จงอยู่ใกล้ชิดกับคนรับใช้หนุ่มของฉัน จนกว่าพวกเขาจะเกี่ยวข้าวของฉันเสร็จสิ้น’”",
+      "thai_literal": "และรูธหญิงโมอับกล่าวว่า แม้แต่เขายังบอกแก่ข้าพเจ้าว่า กับคนรับใช้หนุ่มทั้งหลายที่เป็นของฉัน เจ้าจงเกาะติด จนกว่าพวกเขาจะเกี่ยวข้าวของฉันทั้งหมดที่เป็นของฉัน",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "גַּם כִּי־אָמַר אֵלַי",
+          "thai": "ยิ่งกว่านั้น เขาบอกดิฉันว่า",
+          "rationale": "Per uW figs-explicit: 'what follows is beyond what anyone would have expected a landowner to say to Ruth.' גַּם כִּי = emphatic-additive 'moreover, even...' Render with Thai escalation marker ยิ่งกว่านั้น ('even more so / on top of that') to preserve the rhetorical-escalation Ruth conveys to Naomi — Boaz didn't just permit gleaning, he extended a long-term offer."
+        },
+        {
+          "hebrew": "עִם־הַנְּעָרִים אֲשֶׁר־לִי תִּדְבָּקִין",
+          "thai": "จงอยู่ใกล้ชิดกับคนรับใช้หนุ่มของฉัน",
+          "rationale": "Per uW figs-quotesinquotes: direct quote within direct speech. דָּבַק same root as 1:14, 2:8 — render with consistent ใกล้ชิด ('stay close') as the practical-context register. Note the Hebrew has masc-pl 'young men' (הַנְּעָרִים) — but Boaz had told Ruth in v.8 to stay with the young WOMEN (נַעֲרֹתָי). This is per uW figs-pronouns notes — Ruth's report shifts the antecedent. The translation preserves Ruth's report-as-said (masculine 'young men' here in v.21). Naomi's response in v.22 will gently correct back to feminine, which is the narrative-comedy of the verse-pair (Ruth's loose retelling vs. Boaz's precise instruction)."
+        },
+        {
+          "hebrew": "עַד אִם־כִּלּוּ אֵת כָּל־הַקָּצִיר אֲשֶׁר־לִי",
+          "thai": "จนกว่าพวกเขาจะเกี่ยวข้าวของฉันเสร็จสิ้น",
+          "rationale": "Pi'el of כָּלָה 'finish, complete' — temporal clause 'until they finish.' Render with Thai temporal-conditional จนกว่า + completion verb เสร็จสิ้น. The clause is the long-horizon offer Boaz extended — the entire harvest season, not just one day. This becomes v.23's narrative result (Ruth gleaning through the full harvest)."
+        }
+      ],
+      "notes": "Per uW figs-pronouns observation: Ruth's report introduces a small-but-telling discrepancy — Boaz said 'stay with my young WOMEN' (v.8 נַעֲרֹתָי f.pl); Ruth reports 'stay with his young MEN' (v.21 הַנְּעָרִים m.pl). The Hebrew narrator preserves this slip — a touch of lifelike-narration where Ruth's emotional retelling is imperfect. Naomi's response in v.22 gently corrects: 'good that you go out with HIS YOUNG WOMEN' (נַעֲרוֹתָיו f.pl). The translation preserves the m./f. discrepancy as the narrator wrote it; Thai readers may not catch the subtle correction, hence the notes-flag."
+    }
+  },
+  {
+    "reference": "Ruth 2:22",
+    "chapter": 2,
+    "verse": 22,
+    "language": "hebrew",
+    "hebrew": "וַתֹּ֥אמֶר נָעֳמִ֖י אֶל־ר֣וּת כַּלָּתָ֑הּ ט֣וֹב בִּתִּ֗י כִּ֤י תֵֽצְאִי֙ עִם־נַ֣עֲרוֹתָ֔יו וְלֹ֥א יִפְגְּעוּ־בָ֖ךְ בְּשָׂדֶ֥ה אַחֵֽר׃",
+    "bsb_english": "And Naomi said to her daughter-in-law Ruth, “My daughter, it is good for you to work with his young women, so that nothing will happen to you in another field.”",
+    "translation": {
+      "thai": "นาโอมีจึงกล่าวแก่รูธสะใภ้ของนางว่า “ลูกของฉันเอ๋ย ดีแล้วที่เจ้าได้ออกไปกับสาวรับใช้ของเขา เพื่อจะไม่มีใครทำอันตรายแก่เจ้าในทุ่งของผู้อื่น”",
+      "thai_literal": "และนาโอมีกล่าวต่อรูธสะใภ้ของนางว่า ดีนะ บุตรีของฉัน ที่เจ้าออกไปกับสาวรับใช้ทั้งหลายของเขา และพวกเขาจะไม่มาเจอเจ้าในทุ่งอื่น",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "טוֹב בִּתִּי",
+          "thai": "ลูกของฉันเอ๋ย ดีแล้ว",
+          "rationale": "Affirmative-affirmation 'good, my daughter.' Same בִּתִּי as v.2, v.8 — third occurrence in the chapter. Naomi's affirmation of Boaz's plan. Render Thai ลูกของฉันเอ๋ย ('my child, oh...') with the vocative-particle เอ๋ย adding the affectionate-call register; ดีแล้ว ('good already / it is good') captures the affirming-the-plan force. The familial-affection preserved across all three בִּתִּי occurrences."
+        },
+        {
+          "hebrew": "כִּי תֵצְאִי עִם־נַעֲרוֹתָיו",
+          "thai": "ที่เจ้าได้ออกไปกับสาวรับใช้ของเขา",
+          "rationale": "Per the v.21 note: Naomi quietly corrects Ruth's masculine-plural slip back to feminine נַעֲרוֹתָיו 'his young women' — what Boaz actually said in v.8. Per uW alternate translation: 'you work with' or 'you glean alongside.' Render สาวรับใช้ ('female-servants') — the same Thai term as in v.8 — preserving the Hebrew gender-correction. The correction is subtle; the translation preserves it but doesn't mark it (lifelike narrative)."
+        },
+        {
+          "hebrew": "וְלֹא יִפְגְּעוּ־בָךְ בְּשָׂדֶה אַחֵר",
+          "thai": "เพื่อจะไม่มีใครทำอันตรายแก่เจ้าในทุ่งของผู้อื่น",
+          "rationale": "Per uW figs-pronouns: 'they' refers to anyone in general — generic 3pl, not specific antecedent. Per uW alternate: 'so that someone does not harm you / so that no one would hurt you.' פָּגַע = 'meet, encounter, harm' — context-dependent; here the harm-sense (cf. Ruth 1:16 same root in 'do not urge me away'). Render the indefinite-anyone subject with Thai impersonal-construction ไม่มีใคร ('no one') + ทำอันตราย ('do harm'). The 'another field' contrast — Boaz's field is safe; other fields are not — closes the chapter's safety-motif from v.8-9."
+        }
+      ],
+      "notes": "Naomi's sage-elder counsel completes the dialogue-frame of the chapter (Ruth's request v.2 → Naomi's permission v.2b → Boaz's protection v.8-9 → Ruth's report v.21 → Naomi's wise affirmation v.22). The verse closes the chapter's safety-vs-danger motif: Boaz's field is safe; other fields are not. The narrative is preparing for Ruth's continued presence in Boaz's field through harvest-season (v.23) — which becomes the temporal-frame for the Ruth 3 threshing-floor encounter."
+    }
+  },
+  {
+    "reference": "Ruth 2:23",
+    "chapter": 2,
+    "verse": 23,
+    "language": "hebrew",
+    "hebrew": "וַתִּדְבַּ֞ק בְּנַעֲר֥וֹת בֹּ֨עַז֙ לְלַקֵּ֔ט עַד־כְּל֥וֹת קְצִֽיר־הַשְּׂעֹרִ֖ים וּקְצִ֣יר הַֽחִטִּ֑ים וַתֵּ֖שֶׁב אֶת־חֲמוֹתָֽהּ׃",
+    "bsb_english": "So Ruth stayed close to the servant girls of Boaz to glean grain until the barley and wheat harvests were finished. And she lived with her mother-in-law.",
+    "translation": {
+      "thai": "รูธจึงอยู่ใกล้ชิดกับสาวรับใช้ของโบอาส คอยเก็บรวงข้าวจนกระทั่งฤดูเก็บเกี่ยวข้าวบาร์เลย์และข้าวสาลีเสร็จสิ้น และนางก็อาศัยอยู่กับแม่สามีของนาง",
+      "thai_literal": "และนางเกาะติดกับสาวรับใช้ทั้งหลายของโบอาสเพื่อเก็บ จนกระทั่งสิ้นสุดของการเกี่ยวข้าวบาร์เลย์และการเกี่ยวข้าวสาลี และนางอยู่กับแม่สามีของนาง",
+      "thai_summary": "ฤดูเก็บเกี่ยวสองช่วง — ข้าวบาร์เลย์ (เมษายน-พฤษภาคม) ตามด้วยข้าวสาลี (พฤษภาคม-มิถุนายน) — ครอบคลุมประมาณเจ็ดถึงแปดสัปดาห์ ดังนั้นข้อนี้ครอบคลุมเวลาประมาณสองเดือนของการที่รูธเก็บรวงข้าวและกินอยู่ในความปลอดภัยของทุ่งของโบอาส บทที่ 2 จบลงด้วยภาพของความสมดุล — รูธมีงาน มีอาหาร มีความปลอดภัย และยังคงรักษาความสัมพันธ์อันใกล้ชิดกับนาโอมี แต่สถานการณ์ทางกฎหมาย (ที่ดินของเอลีเมเลคที่อาจขายไปแล้ว และความจำเป็นในการมีทายาท) ยังคงค้างอยู่ — ซึ่งจะถูกแก้ในบทที่ 3 และ 4",
+      "key_decisions": [
+        {
+          "hebrew": "וַתִּדְבַּק בְּנַעֲרוֹת בֹּעַז",
+          "thai": "รูธจึงอยู่ใกล้ชิดกับสาวรับใช้ของโบอาส",
+          "rationale": "Per uW grammar-connect-logic-result: וַ here = result-of-instructions, 'so / therefore / because of these instructions, she stayed close.' דָּבַק third chapter occurrence (v.8 Boaz's instruction; v.21 Ruth's report; v.23 Ruth's compliance). Render with the same ใกล้ชิด ('stay close') — preserving the verbal-echo. The narrative-arc closes: Ruth followed Boaz's instruction precisely."
+        },
+        {
+          "hebrew": "עַד־כְּלוֹת קְצִיר־הַשְּׂעֹרִים וּקְצִיר הַחִטִּים",
+          "thai": "จนกระทั่งฤดูเก็บเกี่ยวข้าวบาร์เลย์และข้าวสาลีเสร็จสิ้น",
+          "rationale": "Per uW figs-activepassive: 'until the barley and wheat harvests were finished' / 'until Boaz's workers had harvested all of the barley and the wheat.' שְׂעֹרִים = barley (same word as Ruth 1:22; Ruth 2:17 = ข้าวบาร์เลย์ lock); חִטִּים = wheat → ข้าวสาลี (Thai standard). Two harvest-seasons covers ~7-8 weeks (April–June). The detail bridges to chapter 3, when threshing-floor activity begins (Ruth 3:2 — 'tonight he is winnowing barley')."
+        },
+        {
+          "hebrew": "וַתֵּשֶׁב אֶת־חֲמוֹתָהּ",
+          "thai": "และนางก็อาศัยอยู่กับแม่สามีของนาง",
+          "rationale": "יָשַׁב 'sit, dwell, live' — same root used at Ruth 1:4 of the family settling in Moab. Here it closes the narrative: Ruth has settled into Naomi's household for the long haul. Render plainly อาศัยอยู่กับ ('live with') with the closing-frame stability-marker. The verse's last clause is a stative summary — Ruth is now at-home with Naomi, with provision secured."
+        }
+      ],
+      "notes": "The chapter's closing verse balances completion + continuation: the harvest is complete (closure), Ruth lives with Naomi (continuation). The narrative leaves Ruth in safety with provision but unmarried — the legal-economic problem (need for kinsman-redemption + heir for Mahlon's line) remains unresolved. This is the chapter-end pivot to Ruth 3, where Naomi will move from passive-blessing-Boaz to active-engineering-Ruth-and-Boaz's encounter at the threshing floor."
+    }
+  }
+]

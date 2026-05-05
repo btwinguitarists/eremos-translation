@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-05-04 23:39:47 UTC_
-_Total chapters: 261 · Total verses: 7964_
+_Generated: 2026-05-05 04:23:24 UTC_
+_Total chapters: 262 · Total verses: 7987_
 
 ## How to verify a chapter
 
@@ -276,7 +276,8 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/romans_14.json` | 23 | `b0053855ef0eb4128c7831b5b2c9ef9e649dfb7b487185e6fa780c5fde1e2b80` | `73ccfe7` |
 | `output/translations/romans_15.json` | 33 | `7f0d286423a90030edd9e123cd34c43b6f72da74846b7cd524541e314bffeb2d` | `73ccfe7` |
 | `output/translations/romans_16.json` | 27 | `d6818f9bcd5e1caff3604f1e7852b42b063df2a18146bcf6f969ca9cfae71869` | `73ccfe7` |
-| `output/translations/ruth_01.json` | 22 | `b078a43177d0459e86c6f9d8a35a762ac9f01f59133510deb46888d4c2ffd561` | `cad099d` |
+| `output/translations/ruth_01.json` | 22 | `2a2509bf7d3b55a5fdc5c7dafb21d52c95f1e2c5ebd0e80d0813d2722e387122` | `a6113df` |
+| `output/translations/ruth_02.json` | 23 | `b3230363afc8ed4f4ba3f292ef5fe23b01457e13138a3d6d9946d8d26e53e8cf` | `—` |
 | `output/translations/titus_01.json` | 16 | `6b9bc5a855e4143fab405d9116d393e4ed8e929d99a62b3d2451d8043fb50100` | `7cca09e` |
 | `output/translations/titus_02.json` | 15 | `54cca3502fb1484c14c16b498528dd0e1691cb0d1650c2a21bae3fc079cf8180` | `9d4d7d2` |
 | `output/translations/titus_03.json` | 15 | `ae6d73e432043adfd5b8f1c7ccdac693084026cab5e5b9fda7db7d05472e9648` | `502e530` |
