@@ -5,6 +5,7 @@
 | Hebrew-field integrity | ✅ clean | [hebrew_field_integrity_ruth_01.md](hebrew_field_integrity_ruth_01.md) |
 | Divine names (locked Tetragrammaton) | ✅ clean | [divine_names_ruth_01.md](divine_names_ruth_01.md) |
 | Versification anchor | ✅ clean | [versification_ruth_01.md](versification_ruth_01.md) |
+| Honorifics binding (Rachasap) | ✅ clean | [honorifics_binding_ruth_01.md](honorifics_binding_ruth_01.md) |
 | Back-translation | ✅ clean | [back_translation_ruth_01.md](back_translation_ruth_01.md) |
 | Thai-summary coverage (info) | ✅ clean | [summary_coverage_ruth_01.md](summary_coverage_ruth_01.md) |
 

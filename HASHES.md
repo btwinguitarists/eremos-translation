@@ -3,7 +3,7 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-05-05 06:07:16 UTC_
+_Generated: 2026-05-06 10:02:06 UTC_
 _Total chapters: 264 · Total verses: 8027_
 
 ## How to verify a chapter
@@ -37,7 +37,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/1corinthians_16.json` | 24 | `c8eac724563f289b1bb5e21f461497a8319b6f2e94d8ca027e938f9cb5e7ccb3` | `d5a006e` |
 | `output/translations/1john_01.json` | 10 | `bc09a25736e70fc3a8cf4fa74c62f52677866fa50cd0b99ea2333208c1126ebf` | `99db43c` |
 | `output/translations/1john_02.json` | 29 | `d5259a377d0dd260ab3a903a5e8bee9a569e6aaef5bfe8f96237d43232afadfb` | `cd99b6b` |
-| `output/translations/1john_03.json` | 24 | `c88b300f7707f209b6ffe99fdba6a9d784aac38537040bec600f61392e00a95f` | `d27e327` |
+| `output/translations/1john_03.json` | 24 | `e56c894253e2e905a084dcd2c682c048365a62a76f7994f5c82eac84d77235eb` | `53678fb` |
 | `output/translations/1john_04.json` | 21 | `59b1521f0ee777cb6285dc4f8a5090809b8e8db213f260c17e0220bb622ad5d7` | `7df238d` |
 | `output/translations/1john_05.json` | 21 | `86b3fe136a85791fe723470e7560e7039984afa96800ff88d0f8756610e889ea` | `d1ee6af` |
 | `output/translations/1peter_01.json` | 25 | `7e44403865c493ca0641a403ffc4e757b579b6fccf56b551397ab1e6905ae640` | `5f55fea` |
@@ -157,7 +157,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/john_12.json` | 50 | `d40995763190cca8abe073df7bd3b6b12b6ba1138a828f01c30057bf369662f3` | `cf6bd38` |
 | `output/translations/john_13.json` | 38 | `bfd22f1245a1f4491620801dfa824c408a1a84bf2050f6157986b4fc9ec0d6f7` | `cf6bd38` |
 | `output/translations/john_14.json` | 31 | `9b33b5e380651aa941a496d9ace694fa730773cafe3f909d46d9848c27a01396` | `cf6bd38` |
-| `output/translations/john_15.json` | 27 | `641e087ca5ac31a961ebf3cc3fe22a309dc65f57f8e7c0b13d9281bc7b62c790` | `d47a10f` |
+| `output/translations/john_15.json` | 27 | `266002d8a411e2c374da42a7bcfa6eaf0f1a0351e90c1363849c376b80677caf` | `53678fb` |
 | `output/translations/john_16.json` | 33 | `4b10b376da489c634e0e3a4c74f93e10d73f8dab5cce4103e2e1583d1a585285` | `8586ed5` |
 | `output/translations/john_17.json` | 26 | `9182cf205c2f1b9602dd89d05b92ae44595e8c5f955f526506c6d4fea2823fb8` | `0c41b77` |
 | `output/translations/john_18.json` | 40 | `3d0bee0eb40e2e53163a9ee0f04cfba9ebaa63d344a11dee14041dfcf1c020f1` | `1ec0a33` |
@@ -191,7 +191,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/luke_24.json` | 53 | `17aaa19b3e8bc3d00a2de60c2e1bb63cf08796f484679c0fbc9852ebc6ef82e7` | `cf6bd38` |
 | `output/translations/mark_01.json` | 45 | `1021b3fc559326c63e51fdc826b1c38bf080daa4549df3e90c4c3d03988b48c6` | `6d15bb1` |
 | `output/translations/mark_02.json` | 28 | `45afef2077fbd15759b97fae3618333ed4c446110370b26ee5af98c246d145b0` | `6d15bb1` |
-| `output/translations/mark_03.json` | 35 | `88fd54d1f808f9b77b2508a2fbb71edb8a7674b38962932363efc08628c647e8` | `6d15bb1` |
+| `output/translations/mark_03.json` | 35 | `6e52db6cf05c089d6a361fc60267a1d6db14deee88133bc3550da074ec9c7a79` | `53678fb` |
 | `output/translations/mark_04.json` | 41 | `c06a13d9c066b46115f1d0dc0f570763a4c08e02f12b61a96e87c96f2c142039` | `6d15bb1` |
 | `output/translations/mark_05.json` | 43 | `38804b64c74a479adcb59a639c2339dd819cad35109813e4d591fb469d705996` | `cf6bd38` |
 | `output/translations/mark_06.json` | 56 | `85e991788d38f28dab8733a19b870527466aa900db69e815561ce205ea75d6b4` | `6d15bb1` |
@@ -205,7 +205,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/mark_14.json` | 72 | `8fec3aa5c4cf4e643b393f71bbb5c01b5598d18589783fc072fcae13aa4a6253` | `6d15bb1` |
 | `output/translations/mark_15.json` | 46 | `1bcb920cafcbfbc37709a87338602927af710df74dbd50668d6fa98ef89f856a` | `cf6bd38` |
 | `output/translations/mark_16.json` | 20 | `b1b84b88fe63ad2f83dde5f19e3e91f353ce4a2f266f8528e124a32abd6a70af` | `6d15bb1` |
-| `output/translations/matthew_01.json` | 25 | `24067453e3de061001464a1b3419b1f8c8eb3a10f5c6162a265be2329e4ba488` | `6d15bb1` |
+| `output/translations/matthew_01.json` | 25 | `a630d0210ea865f1c88d5d233916c3866c79a0e94ef21cd9a1f12b70c958a0f4` | `65332d4` |
 | `output/translations/matthew_02.json` | 23 | `5b1a0f841d3a11b775eba408b9e6cfa4e7ee6e00f76a95c68cd494444e955cfb` | `cf6bd38` |
 | `output/translations/matthew_03.json` | 17 | `0d2574292184e7f82fa9abad72287eed67e8f5739ff368f5397c0056e5cfaf2e` | `6d15bb1` |
 | `output/translations/matthew_04.json` | 25 | `50d14e02bc08c97c339b10914a8258720ff64801f0ea080941604ebf5299d365` | `cf6bd38` |
@@ -262,7 +262,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/revelation_22.json` | 21 | `244127513d179d61c2816c3c8c58d23d6d0b1935cb5f460e50e9c356495ad5e5` | `2683f9f` |
 | `output/translations/romans_01.json` | 32 | `c87b2112628b417478cc0beebb101b81b21b70b76106579044da66b1f0181824` | `7b84f42` |
 | `output/translations/romans_02.json` | 29 | `4ec4dd1ef3bb937bafa98814d4cfdce17ae2893df78ed929fe1c34b417ab1c6b` | `cf6bd38` |
-| `output/translations/romans_03.json` | 31 | `e0a844077c27c89a291540299a57c2a2f287e6f9664dd3542048855c31239837` | `cf6bd38` |
+| `output/translations/romans_03.json` | 31 | `3cbeb462aaafff23699512106848decc0b739d9e5161b8486760d90743fba099` | `53678fb` |
 | `output/translations/romans_04.json` | 25 | `3964dfe9b6e742e6c814afa82e46575f571882825fa495545c7d762445d1ae46` | `cf6bd38` |
 | `output/translations/romans_05.json` | 21 | `79b0261fd550e0b7c9b9a96803caa39092e3a9ac888ba089c22687bc462bd52c` | `cf6bd38` |
 | `output/translations/romans_06.json` | 23 | `53733aa5bad47a955adac82a8a4026db557cefa449da09a6f0a934b8738e19c6` | `cf6bd38` |
@@ -276,10 +276,10 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/romans_14.json` | 23 | `b0053855ef0eb4128c7831b5b2c9ef9e649dfb7b487185e6fa780c5fde1e2b80` | `73ccfe7` |
 | `output/translations/romans_15.json` | 33 | `7f0d286423a90030edd9e123cd34c43b6f72da74846b7cd524541e314bffeb2d` | `73ccfe7` |
 | `output/translations/romans_16.json` | 27 | `d6818f9bcd5e1caff3604f1e7852b42b063df2a18146bcf6f969ca9cfae71869` | `73ccfe7` |
-| `output/translations/ruth_01.json` | 22 | `2a2509bf7d3b55a5fdc5c7dafb21d52c95f1e2c5ebd0e80d0813d2722e387122` | `a6113df` |
+| `output/translations/ruth_01.json` | 22 | `b30c5bfb94185f985137776fc8132853d5fa23b4d24e9cff68413ec7c0ed7ce9` | `5d918b6` |
 | `output/translations/ruth_02.json` | 23 | `b3230363afc8ed4f4ba3f292ef5fe23b01457e13138a3d6d9946d8d26e53e8cf` | `29467d1` |
 | `output/translations/ruth_03.json` | 18 | `becea25722cf93e084b74f773d9ef7e202200846da5aafd6b2a86620387969ff` | `3f48fec` |
-| `output/translations/ruth_04.json` | 22 | `8c970ff4e31229a2ce7ef452821ab3a5f4ef4795d413180b89a11ad57fb84f8a` | `—` |
+| `output/translations/ruth_04.json` | 22 | `8c970ff4e31229a2ce7ef452821ab3a5f4ef4795d413180b89a11ad57fb84f8a` | `b429230` |
 | `output/translations/titus_01.json` | 16 | `6b9bc5a855e4143fab405d9116d393e4ed8e929d99a62b3d2451d8043fb50100` | `7cca09e` |
 | `output/translations/titus_02.json` | 15 | `54cca3502fb1484c14c16b498528dd0e1691cb0d1650c2a21bae3fc079cf8180` | `9d4d7d2` |
 | `output/translations/titus_03.json` | 15 | `ae6d73e432043adfd5b8f1c7ccdac693084026cab5e5b9fda7db7d05472e9648` | `502e530` |
