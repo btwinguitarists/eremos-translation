@@ -5,7 +5,7 @@
     "policy": "docs/translator_decisions/verse_schema_and_versification_2026-05.md"
   },
   "_psalm_superscription_count": 66,
-  "_total_entries": 1091,
+  "_total_entries": 1100,
   "PSA-3-1": {
     "mt_book": "PSA",
     "mt_chapter": 3,
@@ -11971,5 +11971,126 @@
     "bsb_ref": "Job 40:25",
     "diverges": true,
     "note": "MT Job 41:1-8 = English 40:25-32; MT 41:9 = English 41:1"
+  },
+  "JON-2-1": {
+    "mt_book": "JON",
+    "mt_chapter": 2,
+    "mt_verse": 1,
+    "mt_ref": "Jonah 2:1",
+    "english_ref": "Jonah 1:17",
+    "bsb_ref": "Jonah 1:17",
+    "lxx_ref": "Jonah 1:17",
+    "diverges": true,
+    "note": "Jonah ch.1/ch.2 boundary differs: MT puts the great-fish appointment at 2:1; BSB/English put it at 1:17. MT 2:1-11 = BSB 1:17 + 2:1-10."
+  },
+  "JON-2-2": {
+    "mt_book": "JON",
+    "mt_chapter": 2,
+    "mt_verse": 2,
+    "mt_ref": "Jonah 2:2",
+    "english_ref": "Jonah 2:1",
+    "bsb_ref": "Jonah 2:1",
+    "lxx_ref": "Jonah 2:1",
+    "diverges": true,
+    "note": "Jonah ch.1/ch.2 boundary differs: MT puts the great-fish appointment at 2:1; BSB/English put it at 1:17. MT 2:1-11 = BSB 1:17 + 2:1-10."
+  },
+  "JON-2-3": {
+    "mt_book": "JON",
+    "mt_chapter": 2,
+    "mt_verse": 3,
+    "mt_ref": "Jonah 2:3",
+    "english_ref": "Jonah 2:2",
+    "bsb_ref": "Jonah 2:2",
+    "lxx_ref": "Jonah 2:2",
+    "diverges": true,
+    "note": "Jonah ch.1/ch.2 boundary differs: MT puts the great-fish appointment at 2:1; BSB/English put it at 1:17. MT 2:1-11 = BSB 1:17 + 2:1-10."
+  },
+  "JON-2-4": {
+    "mt_book": "JON",
+    "mt_chapter": 2,
+    "mt_verse": 4,
+    "mt_ref": "Jonah 2:4",
+    "english_ref": "Jonah 2:3",
+    "bsb_ref": "Jonah 2:3",
+    "lxx_ref": "Jonah 2:3",
+    "diverges": true,
+    "note": "Jonah ch.1/ch.2 boundary differs: MT puts the great-fish appointment at 2:1; BSB/English put it at 1:17. MT 2:1-11 = BSB 1:17 + 2:1-10."
+  },
+  "JON-2-5": {
+    "mt_book": "JON",
+    "mt_chapter": 2,
+    "mt_verse": 5,
+    "mt_ref": "Jonah 2:5",
+    "english_ref": "Jonah 2:4",
+    "bsb_ref": "Jonah 2:4",
+    "lxx_ref": "Jonah 2:4",
+    "diverges": true,
+    "note": "Jonah ch.1/ch.2 boundary differs: MT puts the great-fish appointment at 2:1; BSB/English put it at 1:17. MT 2:1-11 = BSB 1:17 + 2:1-10."
+  },
+  "JON-2-6": {
+    "mt_book": "JON",
+    "mt_chapter": 2,
+    "mt_verse": 6,
+    "mt_ref": "Jonah 2:6",
+    "english_ref": "Jonah 2:5",
+    "bsb_ref": "Jonah 2:5",
+    "lxx_ref": "Jonah 2:5",
+    "diverges": true,
+    "note": "Jonah ch.1/ch.2 boundary differs: MT puts the great-fish appointment at 2:1; BSB/English put it at 1:17. MT 2:1-11 = BSB 1:17 + 2:1-10."
+  },
+  "JON-2-7": {
+    "mt_book": "JON",
+    "mt_chapter": 2,
+    "mt_verse": 7,
+    "mt_ref": "Jonah 2:7",
+    "english_ref": "Jonah 2:6",
+    "bsb_ref": "Jonah 2:6",
+    "lxx_ref": "Jonah 2:6",
+    "diverges": true,
+    "note": "Jonah ch.1/ch.2 boundary differs: MT puts the great-fish appointment at 2:1; BSB/English put it at 1:17. MT 2:1-11 = BSB 1:17 + 2:1-10."
+  },
+  "JON-2-8": {
+    "mt_book": "JON",
+    "mt_chapter": 2,
+    "mt_verse": 8,
+    "mt_ref": "Jonah 2:8",
+    "english_ref": "Jonah 2:7",
+    "bsb_ref": "Jonah 2:7",
+    "lxx_ref": "Jonah 2:7",
+    "diverges": true,
+    "note": "Jonah ch.1/ch.2 boundary differs: MT puts the great-fish appointment at 2:1; BSB/English put it at 1:17. MT 2:1-11 = BSB 1:17 + 2:1-10."
+  },
+  "JON-2-9": {
+    "mt_book": "JON",
+    "mt_chapter": 2,
+    "mt_verse": 9,
+    "mt_ref": "Jonah 2:9",
+    "english_ref": "Jonah 2:8",
+    "bsb_ref": "Jonah 2:8",
+    "lxx_ref": "Jonah 2:8",
+    "diverges": true,
+    "note": "Jonah ch.1/ch.2 boundary differs: MT puts the great-fish appointment at 2:1; BSB/English put it at 1:17. MT 2:1-11 = BSB 1:17 + 2:1-10."
+  },
+  "JON-2-10": {
+    "mt_book": "JON",
+    "mt_chapter": 2,
+    "mt_verse": 10,
+    "mt_ref": "Jonah 2:10",
+    "english_ref": "Jonah 2:9",
+    "bsb_ref": "Jonah 2:9",
+    "lxx_ref": "Jonah 2:9",
+    "diverges": true,
+    "note": "Jonah ch.1/ch.2 boundary differs: MT puts the great-fish appointment at 2:1; BSB/English put it at 1:17. MT 2:1-11 = BSB 1:17 + 2:1-10."
+  },
+  "JON-2-11": {
+    "mt_book": "JON",
+    "mt_chapter": 2,
+    "mt_verse": 11,
+    "mt_ref": "Jonah 2:11",
+    "english_ref": "Jonah 2:10",
+    "bsb_ref": "Jonah 2:10",
+    "lxx_ref": "Jonah 2:10",
+    "diverges": true,
+    "note": "Jonah ch.1/ch.2 boundary differs: MT puts the great-fish appointment at 2:1; BSB/English put it at 1:17. MT 2:1-11 = BSB 1:17 + 2:1-10."
   }
 }
