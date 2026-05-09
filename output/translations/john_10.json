@@ -10,10 +10,26 @@
       "thai_literal": null,
       "thai_summary": "บทที่ 10 ต่อเนื่องจากบทที่ 9 อย่างต่อเนื่อง — พระเยซูทรงเล่าอุปมาเรื่องผู้เลี้ยงแกะให้แก่ผู้นำชาวยิวที่เพิ่งขับชายตาบอดออกจากธรรมศาลา ภาพคอกแกะ ผู้เลี้ยง คนเฝ้าประตู และโจรขโมย เป็นภาพคุ้นเคยในวัฒนธรรมเลี้ยงสัตว์โบราณ ที่หมายถึงผู้ที่อยู่เหนือชนชาติอิสราเอล — พระเจ้าและผู้สอนเท็จต่างๆ",
       "key_decisions": [
-        { "greek": "Ἀμὴν ἀμὴν λέγω ὑμῖν", "thai": "อาเมน อาเมน เราบอกแก่พวกท่านว่า", "rationale": "PHRASE-LOCK with Johannine doubled-amen formula (lock established at JHN 1:51, applied through corpus). Aramaic-embed treatment per docs/translator_decisions/johannine_doubled_amen_2026-04.md — preserves the Hebrew/Aramaic emphatic formula as transliterated 'อาเมน อาเมน' rather than paraphrasing." },
-        { "greek": "ἀλλαχόθεν", "thai": "ทางอื่น", "rationale": "HAPAX: ἀλλαχόθεν (NT-only-occurrence here). Adverb compound from ἄλλος (other) + -θεν (place-from-suffix) = 'from elsewhere / by another way'. Thai 'ทางอื่น' is the natural rendering." },
-        { "greek": "κλέπτης ... καὶ λῃστής", "thai": "ขโมยและโจร", "rationale": "Per uW figs-explicit: two distinct kinds of criminals — κλέπτης (stealthy thief) vs. λῃστής (violent robber). KEY-TERM LOCK from prior corpus: κλέπτης → ขโมย; λῃστής → โจร (cf. LUK 10:30 Good Samaritan parable). Combined Thai 'ขโมยและโจร' preserves both distinct figures (stealthy + violent intruders alike)." },
-        { "greek": "αὐλὴν τῶν προβάτων", "thai": "คอกแกะ", "rationale": "Per uW translate-unknown: αὐλή here = 'sheep pen' (walled enclosure for night-protection of flock). Thai 'คอกแกะ' (sheep pen) is the standard rendering — Thai readers understand from rural context." }
+        {
+          "greek": "Ἀμὴν ἀμὴν λέγω ὑμῖν",
+          "thai": "อาเมน อาเมน เราบอกแก่พวกท่านว่า",
+          "rationale": "PHRASE-LOCK with Johannine doubled-amen formula (lock established at JHN 1:51, applied through corpus). Aramaic-embed treatment per docs/translator_decisions/johannine_doubled_amen_2026-04.md — preserves the Hebrew/Aramaic emphatic formula as transliterated 'อาเมน อาเมน' rather than paraphrasing."
+        },
+        {
+          "greek": "ἀλλαχόθεν",
+          "thai": "ทางอื่น",
+          "rationale": "HAPAX: ἀλλαχόθεν (NT-only-occurrence here). Adverb compound from ἄλλος (other) + -θεν (place-from-suffix) = 'from elsewhere / by another way'. Thai 'ทางอื่น' is the natural rendering."
+        },
+        {
+          "greek": "κλέπτης ... καὶ λῃστής",
+          "thai": "ขโมยและโจร",
+          "rationale": "Per uW figs-explicit: two distinct kinds of criminals — κλέπτης (stealthy thief) vs. λῃστής (violent robber). KEY-TERM LOCK from prior corpus: κλέπτης → ขโมย; λῃστής → โจร (cf. LUK 10:30 Good Samaritan parable). Combined Thai 'ขโมยและโจร' preserves both distinct figures (stealthy + violent intruders alike)."
+        },
+        {
+          "greek": "αὐλὴν τῶν προβάτων",
+          "thai": "คอกแกะ",
+          "rationale": "Per uW translate-unknown: αὐλή here = 'sheep pen' (walled enclosure for night-protection of flock). Thai 'คอกแกะ' (sheep pen) is the standard rendering — Thai readers understand from rural context."
+        }
       ],
       "notes": "HAPAX: ἀλλαχόθεν. Chapter-opening parable continues directly from JHN 9:40-41 dialog with Pharisees — no narrative break (the παροιμία term in v.6 will name what just happened). Per uW: the Jews of v.6 = the Pharisees Jesus was speaking with at JHN 9:40-41. The parable's 'shepherd' is metaphorical for Jesus (developed v.11), 'sheep' = his followers, 'thief and robber' = the Jewish leaders (developed v.8)."
     }
@@ -29,7 +45,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ποιμήν ... τῶν προβάτων", "thai": "ผู้เลี้ยงแกะ", "rationale": "Per uW figs-possession: 'shepherd of the sheep' = the one who cares for them. KEY-TERM LOCK: ποιμήν → ผู้เลี้ยงแกะ (cf. MRK 14:27 / MAT 26:31 quoting ZEC 13:7 — Christological-shepherd). Distinct from Lukan narrative 'คนเลี้ยงแกะ' (LUK 2:8 generic shepherd). Here the elevated 'ผู้เลี้ยงแกะ' is right because the term is about to become Jesus's I-AM self-designation (v.11)." }
+        {
+          "greek": "ποιμήν ... τῶν προβάτων",
+          "thai": "ผู้เลี้ยงแกะ",
+          "rationale": "Per uW figs-possession: 'shepherd of the sheep' = the one who cares for them. KEY-TERM LOCK: ποιμήν → ผู้เลี้ยงแกะ (cf. MRK 14:27 / MAT 26:31 quoting ZEC 13:7 — Christological-shepherd). Distinct from Lukan narrative 'คนเลี้ยงแกะ' (LUK 2:8 generic shepherd). Here the elevated 'ผู้เลี้ยงแกะ' is right because the term is about to become Jesus's I-AM self-designation (v.11)."
+        }
       ],
       "notes": "Sets up the contrast that vv.7-10 ('I am the gate') and vv.11-18 ('I am the good shepherd') will exploit. The shepherd-by-the-gate enters legitimately; the thief enters by force/stealth."
     }
@@ -45,9 +65,21 @@
       "thai_literal": null,
       "thai_summary": "ภาพชวนใจ — ผู้เลี้ยงแกะที่แท้จริงรู้จักแกะแต่ละตัวเป็นรายตัวและเรียกตามชื่อ แตกต่างจากการคุมฝูงแบบไม่รู้จักรายตัว แสดงถึงความสัมพันธ์ส่วนตัวที่พระเยซูทรงมีต่อผู้ที่ติดตามพระองค์",
       "key_decisions": [
-        { "greek": "ὁ θυρωρὸς", "thai": "คนเฝ้าประตู", "rationale": "Per uW translate-unknown: θυρωρός = 'gatekeeper / gate-guard'. Thai 'คนเฝ้าประตู' (gate-watcher) is the natural compound rendering." },
-        { "greek": "φωνεῖ κατ’ὄνομα", "thai": "เรียก ... ทีละตัวตามชื่อ", "rationale": "Per uW figs-explicit: 'his own sheep' designated as separate group; calls them by name. Cultural-detail uW notes: actual ancient shepherds did name and call individual sheep by name. Thai 'ทีละตัวตามชื่อ' (one by one, by name) makes the individuating sense explicit." },
-        { "greek": "τῆς φωνῆς αὐτοῦ ἀκούει", "thai": "ฟังเสียงของผู้นั้น", "rationale": "Per uW figs-metaphor + ambiguity: ἀκούω here can mean either 'all sheep hear (auditorily)' or 'his sheep heed (responsively).' Thai 'ฟัง' covers both senses — literal hearing and respond-to-voice listening — preserving the deliberate Greek ambiguity." }
+        {
+          "greek": "ὁ θυρωρὸς",
+          "thai": "คนเฝ้าประตู",
+          "rationale": "Per uW translate-unknown: θυρωρός = 'gatekeeper / gate-guard'. Thai 'คนเฝ้าประตู' (gate-watcher) is the natural compound rendering."
+        },
+        {
+          "greek": "φωνεῖ κατ’ὄνομα",
+          "thai": "เรียก ... ทีละตัวตามชื่อ",
+          "rationale": "Per uW figs-explicit: 'his own sheep' designated as separate group; calls them by name. Cultural-detail uW notes: actual ancient shepherds did name and call individual sheep by name. Thai 'ทีละตัวตามชื่อ' (one by one, by name) makes the individuating sense explicit."
+        },
+        {
+          "greek": "τῆς φωνῆς αὐτοῦ ἀκούει",
+          "thai": "ฟังเสียงของผู้นั้น",
+          "rationale": "Per uW figs-metaphor + ambiguity: ἀκούω here can mean either 'all sheep hear (auditorily)' or 'his sheep heed (responsively).' Thai 'ฟัง' covers both senses — literal hearing and respond-to-voice listening — preserving the deliberate Greek ambiguity."
+        }
       ],
       "notes": "Per uW writing-pronouns: 'this one / his / he' = the shepherd of v.2. The deeply-personal recognition motif (calling-by-name) anticipates Jesus's calling of his own sheep at v.27 ('my sheep listen to my voice') and Mary at JHN 20:16 ('Mary' — recognition by name)."
     }
@@ -63,7 +95,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἔμπροσθεν αὐτῶν πορεύεται", "thai": "เดินนำหน้าไปก่อน", "rationale": "Per uW figs-explicit: ancient Near Eastern shepherds led their sheep by walking in front (unlike Western herding-from-behind). Thai 'เดินนำหน้าไปก่อน' (walks ahead first) preserves the leading-from-front cultural detail without needing extra exposition (rural Thai contexts have similar leading-from-front livestock practice)." }
+        {
+          "greek": "ἔμπροσθεν αὐτῶν πορεύεται",
+          "thai": "เดินนำหน้าไปก่อน",
+          "rationale": "Per uW figs-explicit: ancient Near Eastern shepherds led their sheep by walking in front (unlike Western herding-from-behind). Thai 'เดินนำหน้าไปก่อน' (walks ahead first) preserves the leading-from-front cultural detail without needing extra exposition (rural Thai contexts have similar leading-from-front livestock practice)."
+        }
       ],
       "notes": "The shepherd-leads-from-front cultural pattern is also OT-rooted (cf. PSA 80:1 'thou that leadest Joseph like a flock'; PSA 23:3 'leads me in paths of righteousness')."
     }
@@ -79,8 +115,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "οὐ μὴ ἀκολουθήσουσιν", "thai": "จะไม่ ... เลย", "rationale": "οὐ μὴ + future indicative — strongest possible negation in Koine ('certainly not, never'). Thai 'จะไม่ ... เลย' (will not at all) preserves the emphatic negation." },
-        { "greek": "ἀλλοτρίῳ ... τῶν ἀλλοτρίων", "thai": "คนแปลกหน้า ... คนแปลกหน้า", "rationale": "Per uW grammar-collectivenouns: singular 'voice' refers to all strangers' voices collectively. ἀλλότριος = 'belonging to another / stranger.' Thai 'คนแปลกหน้า' (unfamiliar person) is the natural rendering — captures the not-of-our-flock sense." }
+        {
+          "greek": "οὐ μὴ ἀκολουθήσουσιν",
+          "thai": "จะไม่ ... เลย",
+          "rationale": "οὐ μὴ + future indicative — strongest possible negation in Koine ('certainly not, never'). Thai 'จะไม่ ... เลย' (will not at all) preserves the emphatic negation."
+        },
+        {
+          "greek": "ἀλλοτρίῳ ... τῶν ἀλλοτρίων",
+          "thai": "คนแปลกหน้า ... คนแปลกหน้า",
+          "rationale": "Per uW grammar-collectivenouns: singular 'voice' refers to all strangers' voices collectively. ἀλλότριος = 'belonging to another / stranger.' Thai 'คนแปลกหน้า' (unfamiliar person) is the natural rendering — captures the not-of-our-flock sense."
+        }
       ],
       "notes": "Closes the parable proper. The stranger-versus-known-voice motif drives the chapter — connects forward to v.27 ('my sheep listen to my voice')."
     }
@@ -96,8 +140,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "παροιμίαν", "thai": "อุปมา", "rationale": "Per uW figs-parables: παροιμία = illustration/parable/figurative-saying (Johannine equivalent of synoptic παραβολή). Thai 'อุπมา' (analogy/parable) is the established rendering. Distinct from the synoptic 'คำอุปมา' but functionally identical." },
-        { "greek": "αὐτοῖς ... ἐκεῖνοι", "thai": "พวกเขา ... พวกเขา", "rationale": "Per uW writing-pronouns: 'them / those ones / they' = the Pharisees Jesus was speaking with at JHN 9:40-41 (continuous dialog, no scene break)." }
+        {
+          "greek": "παροιμίαν",
+          "thai": "อุปมา",
+          "rationale": "Per uW figs-parables: παροιμία = illustration/parable/figurative-saying (Johannine equivalent of synoptic παραβολή). Thai 'อุπมา' (analogy/parable) is the established rendering. Distinct from the synoptic 'คำอุปมา' but functionally identical."
+        },
+        {
+          "greek": "αὐτοῖς ... ἐκεῖνοι",
+          "thai": "พวกเขา ... พวกเขา",
+          "rationale": "Per uW writing-pronouns: 'them / those ones / they' = the Pharisees Jesus was speaking with at JHN 9:40-41 (continuous dialog, no scene break)."
+        }
       ],
       "notes": "Per uW figs-parables: this term explicitly names the preceding passage as a parable — establishes that vv.1-5 functioned figuratively, prompting Jesus's expansion in vv.7-18. The Pharisees' incomprehension (per uW: those who did not want to believe could not understand the message) frames why Jesus must restate."
     }
@@ -113,7 +165,11 @@
       "thai_literal": null,
       "thai_summary": "ในข้อ 1-5 ประตูเป็นทางเข้าที่ผู้เลี้ยงแกะใช้ ตอนนี้พระเยซูทรงพลิกภาพ — “เราเป็นประตู” พระองค์เองคือทางเข้าที่ทุกคนต้องผ่านเพื่อเข้าสู่การอยู่ร่วมกับพระเจ้า เป็นการประกาศ “เราเป็น” (ἐγώ εἰμι) ครั้งที่สามในยอห์น (หลัง 6:35 “ขนมปังแห่งชีวิต” และ 8:12 / 9:5 “ความสว่างของโลก”)",
       "key_decisions": [
-        { "greek": "ἐγώ εἰμι ἡ θύρα τῶν προβάτων", "thai": "เราเป็นประตูของแกะ", "rationale": "I-AM SAYING #3 in John (after 6:35 'bread of life,' 8:12/9:5 'light of the world'). PHRASE-LOCK with Johannine I-am formula: 'เราเป็น' + predicate. KEY-TERM LOCK: θύρα → ประตู (cf. ACT 12:13, 14:27). Per uW figs-metaphor: 'gate' here used differently than vv.1-2 — now Jesus is the access-point itself (to heaven/God's presence), not just the legitimate-entry-point. Per uW figs-possession: 'gate of the sheep' = gate FOR the sheep (their access)." }
+        {
+          "greek": "ἐγώ εἰμι ἡ θύρα τῶν προβάτων",
+          "thai": "เราเป็นประตูของแกะ",
+          "rationale": "I-AM SAYING #3 in John (after 6:35 'bread of life,' 8:12/9:5 'light of the world'). PHRASE-LOCK with Johannine I-am formula: 'เราเป็น' + predicate. KEY-TERM LOCK: θύρα → ประตู (cf. ACT 12:13, 14:27). Per uW figs-metaphor: 'gate' here used differently than vv.1-2 — now Jesus is the access-point itself (to heaven/God's presence), not just the legitimate-entry-point. Per uW figs-possession: 'gate of the sheep' = gate FOR the sheep (their access)."
+        }
       ],
       "notes": "I-AM SAYING #3 in John. Per uW: Jesus uses 'gate' here differently from the parable — there 'gate' = legitimate-entry-method; here 'gate' = the access-point to God himself. Per uW figs-metaphor: gate = access into heaven where God dwells."
     }
@@ -129,8 +185,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "πάντες ὅσοι ἦλθον πρὸ ἐμοῦ", "thai": "บรรดาผู้ที่มาก่อนเรานั้น", "rationale": "Per uW figs-hyperbole: 'everyone' is exaggeration referring to the majority of Israel's leaders (Pharisees + corrupt Jewish leadership) — not every OT prophet/leader was wicked, but most leaders contemporary with Jesus (and many false-messiah pretenders) were. Thai 'บรรดาผู้ที่มาก่อนเรานั้น' (all those who came before me) preserves the hyperbolic generalization without forcing literal universal scope. Context plus the metaphorical 'thieves and robbers' label clarifies — this addresses corrupt-leadership types, not OT prophetic forerunners." },
-        { "greek": "οὐκ ἤκουσαν αὐτῶν", "thai": "ไม่ฟังพวกเขา", "rationale": "Per uW figs-metaphor: 'hear' here = 'heed/respond to.' Thai 'ฟัง' carries the listen-and-respond sense in religious contexts. The faithful sheep (true Israel + Jesus's followers) did not heed false leadership voices." }
+        {
+          "greek": "πάντες ὅσοι ἦλθον πρὸ ἐμοῦ",
+          "thai": "บรรดาผู้ที่มาก่อนเรานั้น",
+          "rationale": "Per uW figs-hyperbole: 'everyone' is exaggeration referring to the majority of Israel's leaders (Pharisees + corrupt Jewish leadership) — not every OT prophet/leader was wicked, but most leaders contemporary with Jesus (and many false-messiah pretenders) were. Thai 'บรรดาผู้ที่มาก่อนเรานั้น' (all those who came before me) preserves the hyperbolic generalization without forcing literal universal scope. Context plus the metaphorical 'thieves and robbers' label clarifies — this addresses corrupt-leadership types, not OT prophetic forerunners."
+        },
+        {
+          "greek": "οὐκ ἤκουσαν αὐτῶν",
+          "thai": "ไม่ฟังพวกเขา",
+          "rationale": "Per uW figs-metaphor: 'hear' here = 'heed/respond to.' Thai 'ฟัง' carries the listen-and-respond sense in religious contexts. The faithful sheep (true Israel + Jesus's followers) did not heed false leadership voices."
+        }
       ],
       "notes": "Per uW figs-hyperbole + figs-metaphor: 'everyone before me' = corrupt Jewish leadership and false-messiah claimants, not OT prophets/figures (whom Jesus elsewhere endorses). 'Did not hear' = did not heed; the true flock recognized something was off."
     }
@@ -146,9 +210,21 @@
       "thai_literal": null,
       "thai_summary": "“เข้าออกได้” เป็นสำนวนพระคัมภีร์เดิมที่หมายถึงการเดินทางและใช้ชีวิตอย่างปลอดภัย (กันดารวิถี 27:17, เฉลยธรรมบัญญัติ 28:6) “พบทุ่งหญ้า” คือการได้รับการเลี้ยงดู ทั้งคู่เป็นภาพของชีวิตที่บริบูรณ์ในการดูแลของพระเจ้า",
       "key_decisions": [
-        { "greek": "σωθήσεται", "thai": "ผู้นั้นจะรอด", "rationale": "Per uW figs-metaphor + figs-activepassive: σώζω = 'save' — Johannine soteriology, save from divine wrath/eternal death. Future passive — Thai 'จะรอด' (will be saved/will be safe) is the standard Christian-Thai rendering, captured both eschatological (saved-from-judgment) and immediate (delivered/safe) senses." },
-        { "greek": "εἰσελεύσεται καὶ ἐξελεύσεται", "thai": "เข้าออกได้", "rationale": "Per uW figs-idiom: 'go in and go out' = OT idiom for moving freely + safely (cf. NUM 27:17, DEU 28:6, PSA 121:8). Thai 'เข้าออกได้' (can enter and exit) preserves the idiomatic motion-in-safety sense without paraphrasing to 'move freely.' The idiom-form is intelligible cross-culturally." },
-        { "greek": "νομὴν εὑρήσει", "thai": "จะพบทุ่งหญ้า", "rationale": "Per uW figs-metaphor: νομή = 'pasture' as metaphor for sustenance/needs-met. Thai 'ทุ่งหญ้า' (pasture/grazing-field) preserves the pastoral image — meaningful in any agricultural context. The metaphor doesn't need flattening." }
+        {
+          "greek": "σωθήσεται",
+          "thai": "ผู้นั้นจะรอด",
+          "rationale": "Per uW figs-metaphor + figs-activepassive: σώζω = 'save' — Johannine soteriology, save from divine wrath/eternal death. Future passive — Thai 'จะรอด' (will be saved/will be safe) is the standard Christian-Thai rendering, captured both eschatological (saved-from-judgment) and immediate (delivered/safe) senses."
+        },
+        {
+          "greek": "εἰσελεύσεται καὶ ἐξελεύσεται",
+          "thai": "เข้าออกได้",
+          "rationale": "Per uW figs-idiom: 'go in and go out' = OT idiom for moving freely + safely (cf. NUM 27:17, DEU 28:6, PSA 121:8). Thai 'เข้าออกได้' (can enter and exit) preserves the idiomatic motion-in-safety sense without paraphrasing to 'move freely.' The idiom-form is intelligible cross-culturally."
+        },
+        {
+          "greek": "νομὴν εὑρήσει",
+          "thai": "จะพบทุ่งหญ้า",
+          "rationale": "Per uW figs-metaphor: νομή = 'pasture' as metaphor for sustenance/needs-met. Thai 'ทุ่งหญ้า' (pasture/grazing-field) preserves the pastoral image — meaningful in any agricultural context. The metaphor doesn't need flattening."
+        }
       ],
       "notes": "Per uW figs-idiom: 'go in and go out' is OT idiomatic safe-mobility (NUM 27:17, DEU 28:6, PSA 121:8). The chain 'saved + go-in-out + find-pasture' = comprehensive shepherd-protected life. Per uW figs-metaphor: 'find pasture' = needs-provided / sustenance."
     }
@@ -164,8 +240,16 @@
       "thai_literal": null,
       "thai_summary": "การประกาศแบบ “ฉันมา ... เพื่อ” ของพระเยซูเป็นจุดสรุปของแกนแท้ในข่าวประเสริฐยอห์น: จุดประสงค์ของพระเยซูคือการให้ชีวิตที่บริบูรณ์ ทั้งในแง่ปริมาณ (นิรันดร์) และคุณภาพ (เต็มเปี่ยมด้วยพระพร) ตรงข้ามกับการกระทำของขโมยที่นำมาแต่ความสูญเสีย",
       "key_decisions": [
-        { "greek": "κλέψῃ καὶ θύσῃ καὶ ἀπολέσῃ", "thai": "ลักขโมย ฆ่า และทำลาย", "rationale": "Per uW figs-doublenegatives + figs-ellipsis: triple-action of the thief — steal (κλέπτω), kill/slaughter (θύω, originally sacrificial 'slaughter'), destroy (ἀπόλλυμι). Thai 'ลักขโมย ฆ่า และทำลาย' preserves the threefold escalation: take-property, take-life, total-ruin." },
-        { "greek": "ζωὴν ἔχωσιν καὶ περισσὸν ἔχωσιν", "thai": "มีชีวิต และมีอย่างบริบูรณ์", "rationale": "Per uW figs-explicit: 'life' here = eternal life (Johannine theme); 'abundantly' (περισσόν) = with overflow/abundance — both quantity-eternal and quality-abundant blessings. Thai 'อย่างบริบูรณ์' (in fullness/abundance) is the natural rendering. Established Thai Christian phrasing for this verse." }
+        {
+          "greek": "κλέψῃ καὶ θύσῃ καὶ ἀπολέσῃ",
+          "thai": "ลักขโมย ฆ่า และทำลาย",
+          "rationale": "Per uW figs-doublenegatives + figs-ellipsis: triple-action of the thief — steal (κλέπτω), kill/slaughter (θύω, originally sacrificial 'slaughter'), destroy (ἀπόλλυμι). Thai 'ลักขโมย ฆ่า และทำลาย' preserves the threefold escalation: take-property, take-life, total-ruin."
+        },
+        {
+          "greek": "ζωὴν ἔχωσιν καὶ περισσὸν ἔχωσιν",
+          "thai": "มีชีวิต และมีอย่างบริบูรณ์",
+          "rationale": "Per uW figs-explicit: 'life' here = eternal life (Johannine theme); 'abundantly' (περισσόν) = with overflow/abundance — both quantity-eternal and quality-abundant blessings. Thai 'อย่างบริบูรณ์' (in fullness/abundance) is the natural rendering. Established Thai Christian phrasing for this verse."
+        }
       ],
       "notes": "Per uW figs-genericnoun: 'the thief' is generic (thieves-in-general, not a specific person) — refers metaphorically to corrupt leadership. Per uW figs-explicit: 'life' = eternal life; 'abundantly' = with overflowing blessings. This verse is one of the most-cited soteriological summary statements in John."
     }
@@ -181,9 +265,21 @@
       "thai_literal": null,
       "thai_summary": "“เราเป็นผู้เลี้ยงแกะที่ดี” เป็นการประกาศ “เราเป็น” ครั้งที่สี่ในยอห์น สะท้อนคำสัญญาของพระเจ้าในเอเสเคียล 34:23 ที่จะทรงตั้งผู้เลี้ยงแกะคนเดียวเหนือฝูงของพระองค์ — “ดาวิดผู้รับใช้ของเรา” คำว่า “วางชีวิต” เป็นสำนวนสุภาพในภาษากรีก หมายถึงการตายโดยสมัครใจ (ข้อ 17-18 จะอธิบายความสำคัญของการ “รับขึ้นมาอีก” ในภายหลัง)",
       "key_decisions": [
-        { "greek": "Ἐγώ εἰμι ὁ ποιμὴν ὁ καλός", "thai": "เราเป็นผู้เลี้ยงแกะที่ดี", "rationale": "I-AM SAYING #4 in John. PHRASE-LOCK 'เราเป็น' + predicate. Per uW figs-metaphor: 'good shepherd' = self-designation invoking the OT messianic-shepherd promise (EZE 34:11-16, 23-24; PSA 23). καλός here = 'good' in moral-noble sense (not merely 'beautiful' or 'appropriate'). Thai 'ผู้เลี้ยงแกะที่ดี' (good shepherd) is the established Christian-Thai rendering." },
-        { "greek": "τὴν ψυχὴν αὐτοῦ τίθησιν", "thai": "วางชีวิตของตน", "rationale": "Per uW figs-euphemism: 'lays down his life' = euphemism for voluntarily dying. KEY DECISION: rendering literally as 'วางชีวิต' (lay-down life) rather than smoothing to 'สละชีวิต' (sacrifice life). Reason: vv.17-18 develop the parallel 'lay down → take up again' (resurrection echo) — the picture-language must be preserved across the discourse to make v.18's 'take it up again' (πάλιν λαβεῖν αὐτήν) cohere. 'สละชีวิต' loses the picture; 'วางชีวิต' keeps the deposit-and-recover frame intact." },
-        { "greek": "ὑπὲρ τῶν προβάτων", "thai": "เพื่อฝูงแกะ", "rationale": "ὑπέρ + genitive = 'for the sake of / on behalf of' — substitutionary atonement preposition (cf. JHN 11:50, 18:14, ROM 5:8). Thai 'เพื่อ' (for/on-behalf-of) is the natural rendering and carries the substitutionary force in Christian-Thai theological vocabulary." }
+        {
+          "greek": "Ἐγώ εἰμι ὁ ποιμὴν ὁ καλός",
+          "thai": "เราเป็นผู้เลี้ยงแกะที่ดี",
+          "rationale": "I-AM SAYING #4 in John. PHRASE-LOCK 'เราเป็น' + predicate. Per uW figs-metaphor: 'good shepherd' = self-designation invoking the OT messianic-shepherd promise (EZE 34:11-16, 23-24; PSA 23). καλός here = 'good' in moral-noble sense (not merely 'beautiful' or 'appropriate'). Thai 'ผู้เลี้ยงแกะที่ดี' (good shepherd) is the established Christian-Thai rendering."
+        },
+        {
+          "greek": "τὴν ψυχὴν αὐτοῦ τίθησιν",
+          "thai": "วางชีวิตของตน",
+          "rationale": "Per uW figs-euphemism: 'lays down his life' = euphemism for voluntarily dying. KEY DECISION: rendering literally as 'วางชีวิต' (lay-down life) rather than smoothing to 'สละชีวิต' (sacrifice life). Reason: vv.17-18 develop the parallel 'lay down → take up again' (resurrection echo) — the picture-language must be preserved across the discourse to make v.18's 'take it up again' (πάλιν λαβεῖν αὐτήν) cohere. 'สละชีวิต' loses the picture; 'วางชีวิต' keeps the deposit-and-recover frame intact."
+        },
+        {
+          "greek": "ὑπὲρ τῶν προβάτων",
+          "thai": "เพื่อฝูงแกะ",
+          "rationale": "ὑπέρ + genitive = 'for the sake of / on behalf of' — substitutionary atonement preposition (cf. JHN 11:50, 18:14, ROM 5:8). Thai 'เพื่อ' (for/on-behalf-of) is the natural rendering and carries the substitutionary force in Christian-Thai theological vocabulary."
+        }
       ],
       "notes": "I-AM SAYING #4. STRONG OT ALLUSION: EZE 34 (the shepherd-promise — God will rescue his flock from false shepherds and set up 'one shepherd, my servant David'); PSA 23 (the YHWH-shepherd Psalm). ADDED TO NT_OT_CITATIONS: JHN 10:11 → EZE 34:11-16, 23 (composite messianic-shepherd allusion). Per uW figs-euphemism: 'lay down life' = voluntary death. This is the first of multiple times the laying-down-life theme appears in this chapter (also vv.15, 17, 18). Theological note: ποιμὴν καλός is sometimes translated 'noble shepherd' to capture καλός's moral sense better than 'good' — but 'good' is the conventional English/Thai standard."
     }
@@ -199,9 +295,21 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ὁ μισθωτὸς", "thai": "ลูกจ้าง", "rationale": "Per uW figs-metaphor: μισθωτός = 'hired servant/hireling' — metaphor for Jewish leadership and false teachers. Thai 'ลูกจ้าง' is the natural rendering — captures the paid-not-owner sense that drives the contrast." },
-        { "greek": "ὁ λύκος", "thai": "หมาป่า", "rationale": "Per uW translate-unknown: λύκος = 'wolf' (predator of livestock). KEY-TERM LOCK from LUK 10:3 (Jesus sends disciples 'as lambs among wolves'): λύκος → หมาป่า. Standard Thai zoological term." },
-        { "greek": "ἁρπάζει αὐτὰ καὶ σκορπίζει", "thai": "ตะครุบและทำให้แกะแตกฉานซ่านเซ็น", "rationale": "Per uW grammar-connect-time-sequential: the wolf seizes (one or more) and the rest scatter — the Greek compresses cause+effect. Thai 'ตะครุบและทำให้แกะแตกฉานซ่านเซ็น' (snatches and scatters them) preserves both actions." }
+        {
+          "greek": "ὁ μισθωτὸς",
+          "thai": "ลูกจ้าง",
+          "rationale": "Per uW figs-metaphor: μισθωτός = 'hired servant/hireling' — metaphor for Jewish leadership and false teachers. Thai 'ลูกจ้าง' is the natural rendering — captures the paid-not-owner sense that drives the contrast."
+        },
+        {
+          "greek": "ὁ λύκος",
+          "thai": "หมาป่า",
+          "rationale": "Per uW translate-unknown: λύκος = 'wolf' (predator of livestock). KEY-TERM LOCK from LUK 10:3 (Jesus sends disciples 'as lambs among wolves'): λύκος → หมาป่า. Standard Thai zoological term."
+        },
+        {
+          "greek": "ἁρπάζει αὐτὰ καὶ σκορπίζει",
+          "thai": "ตะครุบและทำให้แกะแตกฉานซ่านเซ็น",
+          "rationale": "Per uW grammar-connect-time-sequential: the wolf seizes (one or more) and the rest scatter — the Greek compresses cause+effect. Thai 'ตะครุบและทำให้แกะแตกฉานซ่านเซ็น' (snatches and scatters them) preserves both actions."
+        }
       ],
       "notes": "Per uW figs-metaphor: hired-servant = corrupt Jewish leadership (the type that abandons God's people in crisis). Per uW translate-unknown: wolf may be substituted for any locally-fierce predator if needed; here 'หมาป่า' (wolf) is natively-understood. The scattering-of-flock motif echoes ZEC 13:7 'strike the shepherd and the sheep will scatter' (cited at MRK 14:27 / MAT 26:31)."
     }
@@ -217,7 +325,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "οὐ μέλει αὐτῷ περὶ", "thai": "ไม่ได้ห่วงใย", "rationale": "μέλει + dat. + περί = 'it is a concern to him about' = 'he cares about'. Negation = 'he doesn't care.' Thai 'ไม่ได้ห่วงใย' (not concerned-about) is natural rendering." }
+        {
+          "greek": "οὐ μέλει αὐτῷ περὶ",
+          "thai": "ไม่ได้ห่วงใย",
+          "rationale": "μέλει + dat. + περί = 'it is a concern to him about' = 'he cares about'. Negation = 'he doesn't care.' Thai 'ไม่ได้ห่วงใย' (not concerned-about) is natural rendering."
+        }
       ],
       "notes": "Caps the contrast: hired-servant = paid-relationship → no genuine concern in crisis. By implication: the corrupt Jewish leadership has the same paid/political relationship to God's people, not genuine care."
     }
@@ -233,8 +345,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "Ἐγώ εἰμι ὁ ποιμὴν ὁ καλός", "thai": "เราเป็นผู้เลี้ยงแกะที่ดี", "rationale": "PHRASE-LOCK with v.11 — same exact phrase, same Thai rendering for emphatic-repetition force." },
-        { "greek": "γινώσκω τὰ ἐμὰ καὶ γινώσκουσί με τὰ ἐμά", "thai": "เรารู้จักแกะของเรา และแกะของเราก็รู้จักเรา", "rationale": "Mutual-knowing parallel (knower → known reciprocity). γινώσκω = relational knowledge (not just intellectual awareness). Thai 'รู้จัก' (know-by-acquaintance) is the right Thai equivalent — distinct from 'รู้' (know-as-fact) which would lose the relational sense." }
+        {
+          "greek": "Ἐγώ εἰμι ὁ ποιμὴν ὁ καλός",
+          "thai": "เราเป็นผู้เลี้ยงแกะที่ดี",
+          "rationale": "PHRASE-LOCK with v.11 — same exact phrase, same Thai rendering for emphatic-repetition force."
+        },
+        {
+          "greek": "γινώσκω τὰ ἐμὰ καὶ γινώσκουσί με τὰ ἐμά",
+          "thai": "เรารู้จักแกะของเรา และแกะของเราก็รู้จักเรา",
+          "rationale": "Mutual-knowing parallel (knower → known reciprocity). γινώσκω = relational knowledge (not just intellectual awareness). Thai 'รู้จัก' (know-by-acquaintance) is the right Thai equivalent — distinct from 'รู้' (know-as-fact) which would lose the relational sense."
+        }
       ],
       "notes": "Reprises v.11's I-am claim and adds the mutual-knowing element. The reciprocal knowing-and-being-known (γινώσκω + γινώσκουσι με) is theologically dense — picks up the John 10 sheep-recognize-shepherd-voice motif (v.4) and forecasts v.15's Father-Son mutual-knowing parallel."
     }
@@ -250,8 +370,16 @@
       "thai_literal": null,
       "thai_summary": "การรู้จักระหว่างผู้เลี้ยงและฝูงแกะ (ข้อ 14) ขนานกับการรู้จักระหว่างพระบุตรและพระบิดา (ข้อ 15) — แสดงถึงคุณภาพของความสัมพันธ์ที่พระเยซูทรงสำแดงให้ผู้ติดตามพระองค์ ลึกซึ้งและสนิทเทียบเท่ากับความสัมพันธ์ในตรีเอกภาพ",
       "key_decisions": [
-        { "greek": "ὁ πατὴρ ... τὸν πατέρα", "thai": "พระบิดา ... พระบิดา", "rationale": "Per uW guidelines-sonofgodprinciples: 'Father' is an important title for God. KEY-TERM LOCK: ὁ πατήρ (the divine Father) → พระบิดา (royal-prefixed-Father; established Johannine corpus-wide)." },
-        { "greek": "γινώσκει ... γινώσκω", "thai": "ทรงรู้จัก ... รู้จัก", "rationale": "Royal register on Father's knowing (ทรง- prefix per RULES §3); Jesus's first-person 'รู้จัก' uses the same relational verb. The καθώς ... κἀγώ structure ('just as ... so also I') sets up the proportional-analogy: Father:Son :: Shepherd:sheep." }
+        {
+          "greek": "ὁ πατὴρ ... τὸν πατέρα",
+          "thai": "พระบิดา ... พระบิดา",
+          "rationale": "Per uW guidelines-sonofgodprinciples: 'Father' is an important title for God. KEY-TERM LOCK: ὁ πατήρ (the divine Father) → พระบิดา (royal-prefixed-Father; established Johannine corpus-wide)."
+        },
+        {
+          "greek": "γινώσκει ... γινώσκω",
+          "thai": "ทรงรู้จัก ... รู้จัก",
+          "rationale": "Royal register on Father's knowing (ทรง- prefix per RULES §3); Jesus's first-person 'รู้จัก' uses the same relational verb. The καθώς ... κἀγώ structure ('just as ... so also I') sets up the proportional-analogy: Father:Son :: Shepherd:sheep."
+        }
       ],
       "notes": "The Father-Son mutual-knowing analogy (v.15a) parallels and grounds the shepherd-sheep mutual-knowing (v.14). Theologically dense: implies that the relational-quality of Jesus's care for his sheep mirrors the eternal Father-Son relation. v.15b restates the laying-down-life theme (cf. v.11)."
     }
@@ -267,9 +395,21 @@
       "thai_literal": null,
       "thai_summary": "“แกะอื่นๆ” คือผู้ที่ไม่ใช่ชาวยิว — ผู้เชื่อต่างชาติที่จะมารวมในฝูงเดียวของพระคริสต์ คำสัญญานี้สะท้อนคำพยากรณ์ในเอเสเคียล 37:24 ที่ว่าจะมี “ผู้เลี้ยงแกะคนเดียว ดาวิดผู้รับใช้ของเรา” เหนือชนชาติอิสราเอลที่รวมเป็นหนึ่งเดียว และขยายออกไปครอบคลุมประชาชาติทั้งสิ้น",
       "key_decisions": [
-        { "greek": "ἄλλα πρόβατα", "thai": "แกะอื่นๆ", "rationale": "Per uW figs-metaphor: 'other sheep not of this fold' = non-Jewish believers (the Gentile mission). Thai 'แกะอื่นๆ' (other sheep) preserves the metaphor faithfully — Thai readers will hear the Gentile-inclusion theological note via the thai_summary." },
-        { "greek": "δεῖ με ἀγαγεῖν", "thai": "เราจำต้องพา ... มา", "rationale": "δεῖ (divine necessity, Johannine signature) + acc-inf 'me to bring.' Thai 'จำต้อง' (must, of necessity) carries the divine-must force consistent with prior corpus usage (cf. JHN 3:14, 4:4, 9:4)." },
-        { "greek": "μία ποίμνη,εἷς ποιμήν", "thai": "ฝูงเดียวกัน มีผู้เลี้ยงแกะเพียงผู้เดียว", "rationale": "ποίμνη (flock) + ποιμήν (shepherd) — Greek wordplay (cognate near-rhyme). Thai 'ฝูง' + 'ผู้เลี้ยงแกะ' loses the cognate but preserves the conceptual unity. STRONG OT ALLUSION to EZE 34:23 / 37:24 (David my servant, one shepherd over them all). ADDED TO NT_OT_CITATIONS: JHN 10:16 → EZE 34:23 / EZE 37:24 (one-shepherd-one-flock messianic prophecy)." }
+        {
+          "greek": "ἄλλα πρόβατα",
+          "thai": "แกะอื่นๆ",
+          "rationale": "Per uW figs-metaphor: 'other sheep not of this fold' = non-Jewish believers (the Gentile mission). Thai 'แกะอื่นๆ' (other sheep) preserves the metaphor faithfully — Thai readers will hear the Gentile-inclusion theological note via the thai_summary."
+        },
+        {
+          "greek": "δεῖ με ἀγαγεῖν",
+          "thai": "เราจำต้องพา ... มา",
+          "rationale": "δεῖ (divine necessity, Johannine signature) + acc-inf 'me to bring.' Thai 'จำต้อง' (must, of necessity) carries the divine-must force consistent with prior corpus usage (cf. JHN 3:14, 4:4, 9:4)."
+        },
+        {
+          "greek": "μία ποίμνη,εἷς ποιμήν",
+          "thai": "ฝูงเดียวกัน มีผู้เลี้ยงแกะเพียงผู้เดียว",
+          "rationale": "ποίμνη (flock) + ποιμήν (shepherd) — Greek wordplay (cognate near-rhyme). Thai 'ฝูง' + 'ผู้เลี้ยงแกะ' loses the cognate but preserves the conceptual unity. STRONG OT ALLUSION to EZE 34:23 / 37:24 (David my servant, one shepherd over them all). ADDED TO NT_OT_CITATIONS: JHN 10:16 → EZE 34:23 / EZE 37:24 (one-shepherd-one-flock messianic prophecy)."
+        }
       ],
       "notes": "OT CITATION: JHN 10:16 → EZE 34:23 ('I will set up over them one shepherd, my servant David') + EZE 37:24 ('David my servant shall be king over them, and they shall all have one shepherd'). The 'one flock, one shepherd' formulation is exact-allusion. ADDED TO NT_OT_CITATIONS. Theologically pivotal: explicit Gentile-inclusion prophecy in Jesus's own words."
     }
@@ -285,8 +425,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "πάλιν λάβω αὐτήν", "thai": "รับมันขึ้นมาอีก", "rationale": "Per uW figs-metaphor: 'take up again' = becoming alive again (resurrection). Translation preserves the picture-metaphor literally ('รับ ... ขึ้นมา') because vv.17-18 form a unit relying on the deposit-recover frame (lay-down + take-up). Without the picture-metaphor, the v.18 explication of Jesus's own ἐξουσία over death loses force." },
-        { "greek": "ἀγαπᾷ", "thai": "ทรงรัก", "rationale": "Royal ทรง- on the divine Father's love (RULES §3). ἀγαπάω in Johannine usage = the deep cor-relational love within the Trinity (cf. JHN 3:35, 14:31, 15:9, 17:23-26). Thai 'ทรงรัก' is the standard rendering." }
+        {
+          "greek": "πάλιν λάβω αὐτήν",
+          "thai": "รับมันขึ้นมาอีก",
+          "rationale": "Per uW figs-metaphor: 'take up again' = becoming alive again (resurrection). Translation preserves the picture-metaphor literally ('รับ ... ขึ้นมา') because vv.17-18 form a unit relying on the deposit-recover frame (lay-down + take-up). Without the picture-metaphor, the v.18 explication of Jesus's own ἐξουσία over death loses force."
+        },
+        {
+          "greek": "ἀγαπᾷ",
+          "thai": "ทรงรัก",
+          "rationale": "Royal ทรง- on the divine Father's love (RULES §3). ἀγαπάω in Johannine usage = the deep cor-relational love within the Trinity (cf. JHN 3:35, 14:31, 15:9, 17:23-26). Thai 'ทรงรัก' is the standard rendering."
+        }
       ],
       "notes": "Per uW figs-infostructure: the διὰ τοῦτο logic could be reorganized for clarity ('Because I lay down ... the Father loves me') but the Greek's foregrounding of 'because of this' carries discourse weight. The verse establishes that the laying-down is purposive (ἵνα + subjunctive — 'in order to take it back up'). The take-up-again element is unique to Jesus — sets up his ἐξουσία claim in v.18."
     }
@@ -302,9 +450,21 @@
       "thai_literal": null,
       "thai_summary": "ข้อนี้เป็นการประกาศอย่างเปิดเผยถึงสิทธิอำนาจของพระเยซูเหนือความตายของพระองค์เอง — ชี้ว่าการสิ้นพระชนม์ที่กางเขนไม่ใช่ความพ่ายแพ้ แต่เป็นการกระทำโดยสมัครใจตามคำบัญชาของพระบิดา และการคืนพระชนม์ก็อยู่ในสิทธิอำนาจของพระองค์เช่นกัน",
       "key_decisions": [
-        { "greek": "ἐγὼ τίθημι αὐτὴν ἀπ’ἐμαυτοῦ", "thai": "เราเองเป็นผู้วางมันลงด้วยความสมัครใจ", "rationale": "Per uW figs-rpronouns: ἐμαυτοῦ ('of myself') — emphatic self-reference; voluntary lay-down. Thai 'เราเองเป็นผู้วาง ... ด้วยความสมัครใจ' (we ourselves are the one laying ... voluntarily) doubles the Greek emphasis: subject-pronoun emphatic 'เราเอง' + adverbial 'ด้วยความสมัครใจ' (with willingness)." },
-        { "greek": "ἐξουσίαν ἔχω", "thai": "เรามีสิทธิอำนาจ", "rationale": "ἐξουσία = 'authority, right, power-to-do' — Johannine technical (cf. JHN 1:12, 5:27, 17:2, 19:10-11). Thai 'สิทธิอำนาจ' (right + authority) is the standard Christian-Thai rendering — distinguishes from mere power (อำนาจ alone) by including the authorized/legitimate dimension." },
-        { "greek": "ταύτην τὴν ἐντολὴν ἔλαβον παρὰ τοῦ πατρός μου", "thai": "คำบัญชานี้เราได้รับจากพระบิดาของเรา", "rationale": "ἐντολή = command/charge — divine-mandate. Thai 'คำบัญชา' is the natural rendering for divine command. The verse frames the cross-and-resurrection sequence as Father-commanded mission undertaken by sovereign Son." }
+        {
+          "greek": "ἐγὼ τίθημι αὐτὴν ἀπ’ἐμαυτοῦ",
+          "thai": "เราเองเป็นผู้วางมันลงด้วยความสมัครใจ",
+          "rationale": "Per uW figs-rpronouns: ἐμαυτοῦ ('of myself') — emphatic self-reference; voluntary lay-down. Thai 'เราเองเป็นผู้วาง ... ด้วยความสมัครใจ' (we ourselves are the one laying ... voluntarily) doubles the Greek emphasis: subject-pronoun emphatic 'เราเอง' + adverbial 'ด้วยความสมัครใจ' (with willingness)."
+        },
+        {
+          "greek": "ἐξουσίαν ἔχω",
+          "thai": "เรามีสิทธิอำนาจ",
+          "rationale": "ἐξουσία = 'authority, right, power-to-do' — Johannine technical (cf. JHN 1:12, 5:27, 17:2, 19:10-11). Thai 'สิทธิอำนาจ' (right + authority) is the standard Christian-Thai rendering — distinguishes from mere power (อำนาจ alone) by including the authorized/legitimate dimension."
+        },
+        {
+          "greek": "ταύτην τὴν ἐντολὴν ἔλαβον παρὰ τοῦ πατρός μου",
+          "thai": "คำบัญชานี้เราได้รับจากพระบิดาของเรา",
+          "rationale": "ἐντολή = command/charge — divine-mandate. Thai 'คำบัญชา' is the natural rendering for divine command. The verse frames the cross-and-resurrection sequence as Father-commanded mission undertaken by sovereign Son."
+        }
       ],
       "notes": "Strong Christological claim: Jesus has authority over his own death and resurrection, received from the Father. This contradicts the assumption that Jesus's death is helpless martyrdom — it is sovereign self-offering. Foundational text for Reformed/Lutheran Christology (active obedience of Christ); also basis for the patristic-period 'no one takes it from me' polemic against gnostic readings."
     }
@@ -320,8 +480,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "σχίσμα πάλιν ἐγένετο", "thai": "ความแตกแยกเกิดขึ้นอีกครั้ง", "rationale": "Per uW figs-abstractnouns: σχίσμα = 'division/schism.' KEY-TERM LOCK: ความแตกแยก (cf. JHN 7:43, 9:16). 'πάλιν' (again) signals this is the second internal-division of the chapter (after JHN 9:16) and at least the third in John's narrative arc (also JHN 7:43). Thai 'อีกครั้ง' (again) preserves the iterative 'one more time' force." },
-        { "greek": "οἱ Ἰουδαῖοι", "thai": "ผู้นำชาวยิว", "rationale": "Per uW figs-synecdoche: 'the Jews' here = Jewish leadership (specifically the Pharisaic group from JHN 9:40-10:6). KEY-TERM LOCK: ผู้นำชาวยิว (established Johannine corpus-wide; the Christological-opposition voice, not generic Jewish people)." }
+        {
+          "greek": "σχίσμα πάλιν ἐγένετο",
+          "thai": "ความแตกแยกเกิดขึ้นอีกครั้ง",
+          "rationale": "Per uW figs-abstractnouns: σχίσμα = 'division/schism.' KEY-TERM LOCK: ความแตกแยก (cf. JHN 7:43, 9:16). 'πάλιν' (again) signals this is the second internal-division of the chapter (after JHN 9:16) and at least the third in John's narrative arc (also JHN 7:43). Thai 'อีกครั้ง' (again) preserves the iterative 'one more time' force."
+        },
+        {
+          "greek": "οἱ Ἰουδαῖοι",
+          "thai": "ผู้นำชาวยิว",
+          "rationale": "Per uW figs-synecdoche: 'the Jews' here = Jewish leadership (specifically the Pharisaic group from JHN 9:40-10:6). KEY-TERM LOCK: ผู้นำชาวยิว (established Johannine corpus-wide; the Christological-opposition voice, not generic Jewish people)."
+        }
       ],
       "notes": "Third Johannine σχίσμα-event in John's narrative: JHN 7:43 (over crowd division), JHN 9:16 (over the Sabbath-healing), JHN 10:19 (here, over the Good Shepherd discourse). Each marks Jesus's discourse-and-acts becoming progressively more polarizing. Per uW figs-metonymy: 'these words' = the meaning of Jesus's message in vv.1-18, not the words themselves."
     }
@@ -337,9 +505,21 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "δαιμόνιον ἔχει", "thai": "เขามีผีเข้าสิง", "rationale": "PHRASE-LOCK with corpus established 'demon-possession' rendering (cf. JHN 7:20 'demon-possessed'). Thai 'มีผีเข้าสิง' (has demon-entered-and-possessed) is the Christian-Thai standard for δαιμόνιον ἔχει." },
-        { "greek": "μαίνεται", "thai": "เสียสติแล้ว", "rationale": "μαίνομαι = 'be insane/mad/raving.' Thai 'เสียสติ' (lost-mind / insane) is the natural rendering. The pairing 'demon-possessed + insane' is the standard discrediting-formula in 1st-century Jewish polemic." },
-        { "greek": "τί αὐτοῦ ἀκούετε", "thai": "พวกท่านจะฟังเขาทำไม?", "rationale": "Per uW figs-rquestion: rhetorical — 'why are you listening?' = 'you should not listen!' Thai preserves the rhetorical-question form which carries the same dismissive force." }
+        {
+          "greek": "δαιμόνιον ἔχει",
+          "thai": "เขามีผีเข้าสิง",
+          "rationale": "PHRASE-LOCK with corpus established 'demon-possession' rendering (cf. JHN 7:20 'demon-possessed'). Thai 'มีผีเข้าสิง' (has demon-entered-and-possessed) is the Christian-Thai standard for δαιμόνιον ἔχει."
+        },
+        {
+          "greek": "μαίνεται",
+          "thai": "เสียสติแล้ว",
+          "rationale": "μαίνομαι = 'be insane/mad/raving.' Thai 'เสียสติ' (lost-mind / insane) is the natural rendering. The pairing 'demon-possessed + insane' is the standard discrediting-formula in 1st-century Jewish polemic."
+        },
+        {
+          "greek": "τί αὐτοῦ ἀκούετε",
+          "thai": "พวกท่านจะฟังเขาทำไม?",
+          "rationale": "Per uW figs-rquestion: rhetorical — 'why are you listening?' = 'you should not listen!' Thai preserves the rhetorical-question form which carries the same dismissive force."
+        }
       ],
       "notes": "Per uW figs-rquestion: the 'why listen?' is rhetorical-dismissive. Many opponents prefer the discrediting-narrative ('demon + crazy') as a way to evade Jesus's discourse rather than engage it. Pattern repeats in JHN 7:20, 8:48, 8:52."
     }
@@ -351,12 +531,16 @@
     "greek": "ἄλλοι ἔλεγον·Ταῦτα τὰ ῥήματα οὐκ ἔστιν δαιμονιζομένου·μὴ δαιμόνιον δύναται τυφλῶν ὀφθαλμοὺς ἀνοῖξαι;",
     "bsb_english": "But others replied, “These are not the words of a man possessed by a demon. Can a demon open the eyes of the blind?”",
     "translation": {
-      "thai": "คนอื่นๆ พูดว่า “ถ้อยคำเหล่านี้ไม่ใช่คำของคนที่ถูกผีสิง ผีจะเปิดดวงตาคนตาบอดได้หรือ?”",
+      "thai": "คนอื่นๆ พูดว่า “ถ้อยคำเหล่านี้ไม่ใช่คำของคนที่มีผีเข้าสิง ผีจะเปิดดวงตาคนตาบอดได้หรือ?”",
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "μὴ δαιμόνιον δύναται τυφλῶν ὀφθαλμοὺς ἀνοῖξαι", "thai": "ผีจะเปิดดวงตาคนตาบอดได้หรือ?", "rationale": "Per uW figs-rquestion: rhetorical with μή expecting 'no' — 'surely a demon cannot open blind eyes!' Thai 'ผีจะ ... ได้หรือ?' preserves the incredulous-rhetorical form. The opponent-faction within the leadership cites the JHN 9 healing (the just-shipped chapter) as evidence against the demon-possession charge — a bridge back to JHN 9 keeping the chapters tightly connected." }
-        ],
+        {
+          "greek": "μὴ δαιμόνιον δύναται τυφλῶν ὀφθαλμοὺς ἀνοῖξαι",
+          "thai": "ผีจะเปิดดวงตาคนตาบอดได้หรือ?",
+          "rationale": "Per uW figs-rquestion: rhetorical with μή expecting 'no' — 'surely a demon cannot open blind eyes!' Thai 'ผีจะ ... ได้หรือ?' preserves the incredulous-rhetorical form. The opponent-faction within the leadership cites the JHN 9 healing (the just-shipped chapter) as evidence against the demon-possession charge — a bridge back to JHN 9 keeping the chapters tightly connected."
+        }
+      ],
       "notes": "Per uW figs-rquestion + figs-metonymy: the 'open eyes of the blind' echoes the JHN 9 sign — connects the discourse-conflict here to the just-narrated miracle. The opposing-faction's argument: a demon-possessed man wouldn't perform a healing of the kind we just saw. This argues against the JHN 10:20 dismissive position by appeal to the JHN 9 evidence."
     }
   },
@@ -371,8 +555,16 @@
       "thai_literal": null,
       "thai_summary": "เทศกาลฉลองการอุทิศพระวิหาร (ฮานุกกะ) เป็นเทศกาลแปดวันในเดือนคิสเลฟ (ประมาณเดือนธันวาคม) ระลึกถึงการอุทิศพระวิหารใหม่หลังจากที่ยูดาส มัคคาบีปลดปล่อยจากการทำให้แปดเปื้อนของซีเรียในปี 164 ก่อนคริสตกาล (1 มัคคาบี 4:36-59) เป็นช่วงเวลาสำคัญสำหรับชาวยิวในการรำลึกถึงผู้ปลดปล่อยและการบริสุทธิ์ของวิหาร",
       "key_decisions": [
-        { "greek": "τὰ ἐγκαίνια", "thai": "เทศกาลฉลองการอุทิศพระวิหาร", "rationale": "HAPAX: ἐγκαίνια (NT-only-occurrence here). Greek noun (neuter plural) literally 'renewal-festivities' (ἐν + καινός = 'inwardly new'). Refers to the Feast of Dedication = Hanukkah, commemorating the Maccabean re-dedication of the Temple after Antiochus IV's desecration (1 Macc 4:36-59). NEW CORPUS-LOCK: ἐγκαίνια → 'เทศกาลฉลองการอุทิศพระวิหาร' (festival-of-celebration-of-temple-dedication). Thai expansion 'พระวิหาร' (the temple) supplies the implicit object as uW translate-unknown recommends. Some Christian-Thai translations use 'เทศกาลฮานุกกะ' (Hanukkah transliteration); we keep the descriptive 'การอุทิศพระวิหาร' to surface the historical-theological meaning to Thai readers unfamiliar with Hanukkah." },
-        { "greek": "χειμὼν ἦν", "thai": "เป็นช่วงฤดูหนาว", "rationale": "χειμών = 'winter' (also can mean storm). Thai 'ฤดูหนาว' (winter season) is the natural rendering. The detail explains why Jesus walked in the covered Solomon's Colonnade (v.23) — protection from cold/rain typical of December Jerusalem." }
+        {
+          "greek": "τὰ ἐγκαίνια",
+          "thai": "เทศกาลฉลองการอุทิศพระวิหาร",
+          "rationale": "HAPAX: ἐγκαίνια (NT-only-occurrence here). Greek noun (neuter plural) literally 'renewal-festivities' (ἐν + καινός = 'inwardly new'). Refers to the Feast of Dedication = Hanukkah, commemorating the Maccabean re-dedication of the Temple after Antiochus IV's desecration (1 Macc 4:36-59). NEW CORPUS-LOCK: ἐγκαίνια → 'เทศกาลฉลองการอุทิศพระวิหาร' (festival-of-celebration-of-temple-dedication). Thai expansion 'พระวิหาร' (the temple) supplies the implicit object as uW translate-unknown recommends. Some Christian-Thai translations use 'เทศกาลฮานุกกะ' (Hanukkah transliteration); we keep the descriptive 'การอุทิศพระวิหาร' to surface the historical-theological meaning to Thai readers unfamiliar with Hanukkah."
+        },
+        {
+          "greek": "χειμὼν ἦν",
+          "thai": "เป็นช่วงฤดูหนาว",
+          "rationale": "χειμών = 'winter' (also can mean storm). Thai 'ฤดูหนาว' (winter season) is the natural rendering. The detail explains why Jesus walked in the covered Solomon's Colonnade (v.23) — protection from cold/rain typical of December Jerusalem."
+        }
       ],
       "notes": "HAPAX: ἐγκαίνια. Per uW writing-background + translate-unknown: this verse + the next provide setting for vv.24-39. Hanukkah commemorates the Maccabean rededication of the Temple (164 BC) after Antiochus IV Epiphanes's desecration with a pig sacrifice (the 'abomination of desolation' of DAN 11:31, 12:11). The eight-day festival (Kislev 25 onward, mid-late December) features lighting candles to commemorate the Temple's purification. Significance for John 10's setting: Jesus is at the Temple precisely at the festival commemorating its re-consecration; his claim to be the 'one whom the Father sanctified' (v.36, ἡγίασεν) takes on additional resonance against the rededication-of-the-sanctuary backdrop."
     }
@@ -388,7 +580,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἐν τῇ στοᾷ τοῦ Σολομῶνος", "thai": "ที่เฉลียงของซาโลมอน", "rationale": "PHRASE-LOCK with ACT 3:11, 5:12 (established corpus): στοὰ τοῦ Σολομῶνος → เฉลียงของซาโลมอน. The Solomon's Colonnade was a covered porch on the eastern side of the Temple's outer Court of the Gentiles — used by teachers and gathering crowds. Continuing setting from v.22's 'winter' (covered area = shelter)." }
+        {
+          "greek": "ἐν τῇ στοᾷ τοῦ Σολομῶνος",
+          "thai": "ที่เฉลียงของซาโลมอน",
+          "rationale": "PHRASE-LOCK with ACT 3:11, 5:12 (established corpus): στοὰ τοῦ Σολομῶνος → เฉลียงของซาโลมอน. The Solomon's Colonnade was a covered porch on the eastern side of the Temple's outer Court of the Gentiles — used by teachers and gathering crowds. Continuing setting from v.22's 'winter' (covered area = shelter)."
+        }
       ],
       "notes": "Same Solomon's Colonnade location appears at ACT 3:11 (Peter's healing-aftermath sermon) and ACT 5:12 (early-church meeting place). The colonnade was the only structure surviving from the Solomonic temple; later Herodian rebuild incorporated the eastern wall into the Second Temple's outer court."
     }
@@ -404,9 +600,21 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "τὴν ψυχὴν ἡμῶν αἴρεις", "thai": "ให้เราใจคออยู่ไม่เป็นสุข", "rationale": "Per uW figs-idiom: 'taking away our life' = idiomatic 'keep us in suspense.' Direct Thai equivalent idiom 'ใจคออยู่ไม่เป็นสุข' (heart-mind-living restlessly) captures the suspense-of-uncertainty without needing to explain the Greek ψυχή literally. Thai 'ใจคอ' (heart-mind) is the natural collocation for emotional unrest." },
-        { "greek": "παρρησίᾳ", "thai": "ตรงๆ", "rationale": "παρρησία = 'openly, plainly, frankly' (also 'boldly' in different contexts). Here in dialog context = 'speak plainly, no riddles.' Thai 'ตรงๆ' (directly/straightforwardly) is the natural rendering for plain speech." },
-        { "greek": "ὁ χριστός", "thai": "พระคริสต์", "rationale": "KEY-TERM LOCK: χριστός → พระคริสต์ (RULES §4)." }
+        {
+          "greek": "τὴν ψυχὴν ἡμῶν αἴρεις",
+          "thai": "ให้เราใจคออยู่ไม่เป็นสุข",
+          "rationale": "Per uW figs-idiom: 'taking away our life' = idiomatic 'keep us in suspense.' Direct Thai equivalent idiom 'ใจคออยู่ไม่เป็นสุข' (heart-mind-living restlessly) captures the suspense-of-uncertainty without needing to explain the Greek ψυχή literally. Thai 'ใจคอ' (heart-mind) is the natural collocation for emotional unrest."
+        },
+        {
+          "greek": "παρρησίᾳ",
+          "thai": "ตรงๆ",
+          "rationale": "παρρησία = 'openly, plainly, frankly' (also 'boldly' in different contexts). Here in dialog context = 'speak plainly, no riddles.' Thai 'ตรงๆ' (directly/straightforwardly) is the natural rendering for plain speech."
+        },
+        {
+          "greek": "ὁ χριστός",
+          "thai": "พระคริสต์",
+          "rationale": "KEY-TERM LOCK: χριστός → พระคริสต์ (RULES §4)."
+        }
       ],
       "notes": "The leadership's challenge: stop equivocating, give a yes-or-no on Messiah-claim. Their question is duplicitous — Jesus has spoken his identity repeatedly (cf. JHN 8:58, 9:37); they want a juridically-actionable formula they can execute him for."
     }
@@ -422,8 +630,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "τὰ ἔργα ... μαρτυρεῖ περὶ ἐμοῦ", "thai": "พระราชกิจ ... เป็นพยานเรื่องเรา", "rationale": "Per uW figs-personification: 'works testify' personifies the works as courtroom witnesses. Thai 'พระราชกิจ ... เป็นพยาน' preserves the legal-witness metaphor naturally. KEY-TERM LOCK from JHN 9:3: τὰ ἔργα τοῦ θεοῦ → พระราชกิจของพระเจ้า; here 'works I do in Father's name' takes the same royal-prefix treatment because the works are divine-mediated." },
-        { "greek": "ἐν τῷ ὀνόματι τοῦ πατρός μου", "thai": "ในพระนามพระบิดาของเรา", "rationale": "Per uW figs-metonymy: 'name' here = 'authority/representation.' Thai 'ในพระนามพระบิดา' preserves the literal Greek genitive while carrying the authority-metonymy. Royal พระ-prefix on นาม (royal-name) per RULES §3 since the divine Father." }
+        {
+          "greek": "τὰ ἔργα ... μαρτυρεῖ περὶ ἐμοῦ",
+          "thai": "พระราชกิจ ... เป็นพยานเรื่องเรา",
+          "rationale": "Per uW figs-personification: 'works testify' personifies the works as courtroom witnesses. Thai 'พระราชกิจ ... เป็นพยาน' preserves the legal-witness metaphor naturally. KEY-TERM LOCK from JHN 9:3: τὰ ἔργα τοῦ θεοῦ → พระราชกิจของพระเจ้า; here 'works I do in Father's name' takes the same royal-prefix treatment because the works are divine-mediated."
+        },
+        {
+          "greek": "ἐν τῷ ὀνόματι τοῦ πατρός μου",
+          "thai": "ในพระนามพระบิดาของเรา",
+          "rationale": "Per uW figs-metonymy: 'name' here = 'authority/representation.' Thai 'ในพระนามพระบิดา' preserves the literal Greek genitive while carrying the authority-metonymy. Royal พระ-prefix on นาม (royal-name) per RULES §3 since the divine Father."
+        }
       ],
       "notes": "Jesus appeals to evidence already given — verbal testimony plus miracle-witness. The 'works testify' motif is forensic-juridical (recurs JHN 5:36, 14:11). The unbelief is volitional, not evidential — see v.26."
     }
@@ -439,7 +655,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "οὐκ ἐστὲ ἐκ τῶν προβάτων τῶν ἐμῶν", "thai": "ไม่ได้เป็นแกะของเรา", "rationale": "Per uW figs-metaphor: 'sheep' = those who follow Jesus (his disciples). Thai 'แกะของเรา' (our/my sheep) preserves the metaphor. The Greek causal-particle ὅτι ('because') sets up a controversial reading — does not-being-sheep cause not-believing, or does not-believing reveal not-being-sheep? The Thai preserves the same ambiguity." }
+        {
+          "greek": "οὐκ ἐστὲ ἐκ τῶν προβάτων τῶν ἐμῶν",
+          "thai": "ไม่ได้เป็นแกะของเรา",
+          "rationale": "Per uW figs-metaphor: 'sheep' = those who follow Jesus (his disciples). Thai 'แกะของเรา' (our/my sheep) preserves the metaphor. The Greek causal-particle ὅτι ('because') sets up a controversial reading — does not-being-sheep cause not-believing, or does not-believing reveal not-being-sheep? The Thai preserves the same ambiguity."
+        }
       ],
       "notes": "Theologically dense and historically debated: the Greek ὅτι (because) makes membership-in-the-flock the cause of belief — a strong Reformed/Augustinian reading. Other traditions read this as descriptive rather than causal ('not believing reveals you are not in the flock'). The translation preserves the original ambiguity without forcing the systematic-theological resolution."
     }
@@ -455,7 +675,11 @@
       "thai_literal": null,
       "thai_summary": "ภาพสามประการของ “แกะของเรา” — ฟัง รู้จัก ตาม — ครอบคลุมทั้งความสัมพันธ์ การจดจำ และการเชื่อฟัง สรุปสาระของความเป็นสาวกของพระเยซูในรูปแบบที่ตรงไปตรงมาที่สุด",
       "key_decisions": [
-        { "greek": "ἀκούουσιν ... ἀκολουθοῦσίν", "thai": "ฟัง ... ตาม", "rationale": "Triple-action sequence: hear-voice + known-by-shepherd + follow. Per uW figs-metaphor: 'hear' = 'heed.' Thai 'ฟัง' covers both literal hear and respond-heed senses naturally." }
+        {
+          "greek": "ἀκούουσιν ... ἀκολουθοῦσίν",
+          "thai": "ฟัง ... ตาม",
+          "rationale": "Triple-action sequence: hear-voice + known-by-shepherd + follow. Per uW figs-metaphor: 'hear' = 'heed.' Thai 'ฟัง' covers both literal hear and respond-heed senses naturally."
+        }
       ],
       "notes": "Compressed reprise of vv.3-4 ('sheep hear shepherd's voice + follow') and v.14 ('I know my sheep'). The threefold formula is one of the most-quoted in Christian discipleship-theology."
     }
@@ -471,9 +695,21 @@
       "thai_literal": null,
       "thai_summary": "การประกันความมั่นคงของผู้เชื่อในการดูแลของพระเยซูเป็นหนึ่งในคำสัญญาที่หนักแน่นที่สุดในข่าวประเสริฐ — สามชั้นปฏิเสธ: (1) เราให้ชีวิตนิรันดร์ (2) พวกเขาจะไม่พินาศ (3) ไม่มีใครแย่งจากมือของเราได้ ความมั่นคงนี้ขึ้นอยู่กับฤทธิ์อำนาจของพระเจ้า ไม่ใช่ความเข้มแข็งของผู้เชื่อ",
       "key_decisions": [
-        { "greek": "ζωὴν αἰώνιον", "thai": "ชีวิตนิรันดร์", "rationale": "PHRASE-LOCK from JHN 3:15, 3:16, 3:36, 4:36, 5:24, 5:39, 6:27, 6:40, 6:47, 6:54: ζωὴν αἰώνιον → ชีวิตนิรันดร์. Standard Johannine corpus rendering." },
-        { "greek": "οὐ μὴ ἀπόλωνται εἰς τὸν αἰῶνα", "thai": "พวกมันจะไม่พินาศเป็นนิตย์", "rationale": "οὐ μὴ + aorist subjunctive — strongest Koine negation. εἰς τὸν αἰῶνα = 'forever / for ever and ever.' Thai 'จะไม่พินาศเป็นนิตย์' (will not perish forever) preserves the eternal-negation force." },
-        { "greek": "οὐχ ἁρπάσει τις αὐτὰ ἐκ τῆς χειρός μου", "thai": "ไม่มีผู้ใดสามารถแย่งชิงพวกมันไปจากมือของเราได้", "rationale": "Per uW figs-metonymy: 'hand' = protective care; 'snatch' = forcible removal. Translation preserves the literal 'มือ' (hand) because the picture-metaphor of being held in the shepherd's hand is universally meaningful and theologically loaded — flattening to 'no one can take from my care' would lose visual force." }
+        {
+          "greek": "ζωὴν αἰώνιον",
+          "thai": "ชีวิตนิรันดร์",
+          "rationale": "PHRASE-LOCK from JHN 3:15, 3:16, 3:36, 4:36, 5:24, 5:39, 6:27, 6:40, 6:47, 6:54: ζωὴν αἰώνιον → ชีวิตนิรันดร์. Standard Johannine corpus rendering."
+        },
+        {
+          "greek": "οὐ μὴ ἀπόλωνται εἰς τὸν αἰῶνα",
+          "thai": "พวกมันจะไม่พินาศเป็นนิตย์",
+          "rationale": "οὐ μὴ + aorist subjunctive — strongest Koine negation. εἰς τὸν αἰῶνα = 'forever / for ever and ever.' Thai 'จะไม่พินาศเป็นนิตย์' (will not perish forever) preserves the eternal-negation force."
+        },
+        {
+          "greek": "οὐχ ἁρπάσει τις αὐτὰ ἐκ τῆς χειρός μου",
+          "thai": "ไม่มีผู้ใดสามารถแย่งชิงพวกมันไปจากมือของเราได้",
+          "rationale": "Per uW figs-metonymy: 'hand' = protective care; 'snatch' = forcible removal. Translation preserves the literal 'มือ' (hand) because the picture-metaphor of being held in the shepherd's hand is universally meaningful and theologically loaded — flattening to 'no one can take from my care' would lose visual force."
+        }
       ],
       "notes": "Per uW figs-metonymy: 'hand' = protective care. The triple-negation (give-eternal-life + never-perish + no-snatch) is one of the strongest assurance-of-salvation passages in Scripture (basis for Reformed P / perseverance-of-saints). Connects to next verse's 'Father's hand' parallel — double protection."
     }
@@ -489,8 +725,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ὁ πατήρ μου ὃ δέδωκέν μοι πάντων μεῖζων ἐστιν", "thai": "พระบิดาของเราซึ่งประทานพวกมันแก่เรานั้น ทรงยิ่งใหญ่กว่าสิ่งทั้งปวง", "rationale": "TEXTUAL VARIANT: SBLGNT main text reads ὃ δέδωκέν μοι (neuter-relative) πάντων μείζων (masculine 'greater'); textually ambiguous between 'what my Father has given me is greater than all' (gift-greater reading) and 'my Father who has given them to me is greater than all' (Father-greater reading). The Father-greater reading is followed by BSB, NA28-margin, ESV, NIV, CSB; the gift-greater reading by NASB-margin. We follow the BSB/ESV/NIV consensus (Father-greater) because (a) v.29b 'no one can snatch from the Father's hand' makes more sense if v.29a emphasizes the Father's greatness, and (b) it parallels v.28 ('no one can snatch from my hand') — establishing the dual-shepherd protection. Thai 'พระบิดา ... ทรงยิ่งใหญ่กว่าสิ่งทั้งปวง' (the Father is greater than all) reflects this reading. Royal ทรง- on the divine 'is greater'." },
-        { "greek": "ἐκ τῆς χειρὸς τοῦ πατρός", "thai": "จากพระหัตถ์ของพระบิดา", "rationale": "Royal register for divine hand: พระหัตถ์ (royal hand, RULES §3 ราชาศัพท์ noun for χείρ when subject is divine). Distinguishes from v.28's 'มือของเรา' (my hand) — Jesus is divine but uses casual 'มือ' for himself in his own first-person speech (royal register applies when narrator-voice or other speaker refers to Jesus, not when Jesus refers to himself in first person)." }
+        {
+          "greek": "ὁ πατήρ μου ὃ δέδωκέν μοι πάντων μεῖζων ἐστιν",
+          "thai": "พระบิดาของเราซึ่งประทานพวกมันแก่เรานั้น ทรงยิ่งใหญ่กว่าสิ่งทั้งปวง",
+          "rationale": "TEXTUAL VARIANT: SBLGNT main text reads ὃ δέδωκέν μοι (neuter-relative) πάντων μείζων (masculine 'greater'); textually ambiguous between 'what my Father has given me is greater than all' (gift-greater reading) and 'my Father who has given them to me is greater than all' (Father-greater reading). The Father-greater reading is followed by BSB, NA28-margin, ESV, NIV, CSB; the gift-greater reading by NASB-margin. We follow the BSB/ESV/NIV consensus (Father-greater) because (a) v.29b 'no one can snatch from the Father's hand' makes more sense if v.29a emphasizes the Father's greatness, and (b) it parallels v.28 ('no one can snatch from my hand') — establishing the dual-shepherd protection. Thai 'พระบิดา ... ทรงยิ่งใหญ่กว่าสิ่งทั้งปวง' (the Father is greater than all) reflects this reading. Royal ทรง- on the divine 'is greater'."
+        },
+        {
+          "greek": "ἐκ τῆς χειρὸς τοῦ πατρός",
+          "thai": "จากพระหัตถ์ของพระบิดา",
+          "rationale": "Royal register for divine hand: พระหัตถ์ (royal hand, RULES §3 ราชาศัพท์ noun for χείρ when subject is divine). Distinguishes from v.28's 'มือของเรา' (my hand) — Jesus is divine but uses casual 'มือ' for himself in his own first-person speech (royal register applies when narrator-voice or other speaker refers to Jesus, not when Jesus refers to himself in first person)."
+        }
       ],
       "notes": "TEXTUAL VARIANT (significant): SBLGNT's ὃ δέδωκέν μοι πάντων μείζων is grammatically ambiguous. Variant readings include: (a) ὃ + neuter μεῖζον ('what he has given me is greater than all'); (b) ὃς + masculine μείζων ('he who has given them to me is greater than all' — BSB/ESV path). NA28 retains the harder reading; we follow the contextually-cohesive BSB-style reading. Either way the verse asserts protection-from-the-Father; the Christological force is preserved in both readings."
     }
@@ -506,7 +750,11 @@
       "thai_literal": null,
       "thai_summary": "ข้อความที่กระชับและทรงพลังที่สุดข้อหนึ่งในการประกาศพระเยซูเรื่องตัวพระองค์เอง — ภาษากรีก ἕν (เป็นคำกลาง “หนึ่ง”) ไม่ได้ตั้งใจหมายว่าพระเยซูและพระบิดาเป็นบุคคลเดียวกัน (จะเป็น εἷς เพศชาย) แต่ทรงเป็นเอกภาพหรือแก่นเดียวกัน — เป็นพื้นฐานสำหรับหลักคำสอนของคริสตจักรเรื่องตรีเอกภาพและการเป็น “บุคคลสองในแก่นเดียว”",
       "key_decisions": [
-        { "greek": "ἕν ἐσμεν", "thai": "เป็นหนึ่งเดียวกัน", "rationale": "Per uW figs-explicit: ἕν is neuter (not εἷς masculine) — means 'one entity / one in essence' but NOT 'one person.' Critical distinction the early-church Christological controversies hinged on (modalism vs. trinitarianism). Thai 'หนึ่งเดียวกัน' (one-and-the-same) preserves the unity-without-personal-collapse — a Thai reader recognizes this as relational/substantial unity, not numerical identity. PHRASE-LOCK established for ἕν of Father-Son unity (recurs JHN 17:11, 17:21, 17:22). The Pharisees' v.31 stoning attempt confirms they understood this as a divinity-claim (per their own interpretation v.33)." }
+        {
+          "greek": "ἕν ἐσμεν",
+          "thai": "เป็นหนึ่งเดียวกัน",
+          "rationale": "Per uW figs-explicit: ἕν is neuter (not εἷς masculine) — means 'one entity / one in essence' but NOT 'one person.' Critical distinction the early-church Christological controversies hinged on (modalism vs. trinitarianism). Thai 'หนึ่งเดียวกัน' (one-and-the-same) preserves the unity-without-personal-collapse — a Thai reader recognizes this as relational/substantial unity, not numerical identity. PHRASE-LOCK established for ἕν of Father-Son unity (recurs JHN 17:11, 17:21, 17:22). The Pharisees' v.31 stoning attempt confirms they understood this as a divinity-claim (per their own interpretation v.33)."
+        }
       ],
       "notes": "THEOLOGICAL CRUX: 'I and the Father are one' is one of the most-cited verses in Christian Christological theology. Per uW figs-explicit: ἕν (neuter) means 'one entity' — not 'one person.' The neuter form was theologically critical in the Arian controversy (4th c.) — Arians read this as functional unity, Athanasians as ontological unity (homoousios). The Council of Nicaea (325) and Constantinople (381) defended the substantial-unity reading. Translation deliberately preserves 'หนึ่งเดียวกัน' (one-and-the-same) to allow the substantial-unity reading without forcing modalism. The Pharisees' immediate stoning attempt (v.31) and their explicit charge of blasphemy ('you make yourself God,' v.33) demonstrate they heard a divinity-claim — supports the high-Christology reading historically."
     }
@@ -522,7 +770,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "πάλιν λίθους ... ἵνα λιθάσωσιν", "thai": "หยิบก้อนหินขึ้นมาอีกครั้งเพื่อจะขว้าง", "rationale": "πάλιν 'again' — refers back to JHN 8:59 (the previous stoning attempt after the climactic 'before Abraham was, I am'). Both attempts respond to perceived blasphemy. Per uW figs-explicit: they intended capital punishment — Mosaic stoning for blasphemy (LEV 24:16). Thai 'อีกครั้ง' preserves the iterative-reference to JHN 8:59." }
+        {
+          "greek": "πάλιν λίθους ... ἵνα λιθάσωσιν",
+          "thai": "หยิบก้อนหินขึ้นมาอีกครั้งเพื่อจะขว้าง",
+          "rationale": "πάλιν 'again' — refers back to JHN 8:59 (the previous stoning attempt after the climactic 'before Abraham was, I am'). Both attempts respond to perceived blasphemy. Per uW figs-explicit: they intended capital punishment — Mosaic stoning for blasphemy (LEV 24:16). Thai 'อีกครั้ง' preserves the iterative-reference to JHN 8:59."
+        }
       ],
       "notes": "Second stoning attempt in John (after JHN 8:59). Per uW figs-explicit: the leadership intended Mosaic capital-punishment for blasphemy (LEV 24:16). The fact that they 'pick up stones' indicates they read v.30 as a divinity-claim warranting death by stoning. Per LEV 24:16 the proper procedure required formal-judicial sentencing, but mob-violence-by-stoning is the actual scene."
     }
@@ -538,8 +790,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "διὰ ποῖον αὐτῶν ἔργον ἐμὲ λιθάζετε", "thai": "เพราะการใดในพระราชกิจเหล่านั้นพวกท่านจึงเอาหินขว้างเรา?", "rationale": "Per uW figs-irony: Jesus uses sharp irony — he knows the leadership is not stoning him because of his miracles. The form is rhetorical/Socratic — forces the leadership to articulate what they're really attacking. Thai preserves the rhetorical-question form, which carries the same ironic edge." },
-        { "greek": "ἔργα καλὰ", "thai": "พระราชกิจที่ดี", "rationale": "καλά = 'good/noble' (moral-qualitative). Continuing the royal-prefix on divine-mediated works (cf. v.25). Same lemma as 'good shepherd' (καλός in vv.11, 14) — Jesus deliberately uses the same word, framing his works in the same moral register as his self-designation." }
+        {
+          "greek": "διὰ ποῖον αὐτῶν ἔργον ἐμὲ λιθάζετε",
+          "thai": "เพราะการใดในพระราชกิจเหล่านั้นพวกท่านจึงเอาหินขว้างเรา?",
+          "rationale": "Per uW figs-irony: Jesus uses sharp irony — he knows the leadership is not stoning him because of his miracles. The form is rhetorical/Socratic — forces the leadership to articulate what they're really attacking. Thai preserves the rhetorical-question form, which carries the same ironic edge."
+        },
+        {
+          "greek": "ἔργα καλὰ",
+          "thai": "พระราชกิจที่ดี",
+          "rationale": "καλά = 'good/noble' (moral-qualitative). Continuing the royal-prefix on divine-mediated works (cf. v.25). Same lemma as 'good shepherd' (καλός in vv.11, 14) — Jesus deliberately uses the same word, framing his works in the same moral register as his self-designation."
+        }
       ],
       "notes": "Per uW figs-irony: rhetorical question forces opponents to articulate the actual basis of their hostility. The καλά link (v.32 good-works ↔ vv.11, 14 good-shepherd) is intentional Greek wordplay."
     }
@@ -555,8 +815,16 @@
       "thai_literal": null,
       "thai_summary": "การกล่าวหาของผู้นำชาวยิวยืนยันว่าพวกเขาเข้าใจคำกล่าวของพระเยซูในข้อ 30 อย่างชัดเจนว่าเป็นการอ้างความเป็นพระเจ้า — “ท่านเป็นเพียงมนุษย์ แต่ตั้งตัวเองเป็นพระเจ้า” การหมิ่นประมาท (ตามเลวีนิติ 24:16) มีโทษถึงตายโดยการขว้างด้วยหิน",
       "key_decisions": [
-        { "greek": "βλασφημίας", "thai": "การหมิ่นประมาท", "rationale": "Per uW figs-explicit: in this technical Jewish-legal sense βλασφημία = a human claiming to be God (not generic insult). KEY-TERM family already established in corpus: βλασφημ- → หมิ่นประมาท (cf. ACT 13:45, 18:6, 19:37, 26:11; LUK 5:21, 12:10). Thai 'การหมิ่นประมาท' is the established Christian-Thai rendering for the technical sense." },
-        { "greek": "σὺ ἄνθρωπος ὢν ποιεῖς σεαυτὸν θεόν", "thai": "ท่านเป็นเพียงมนุษย์ แต่ตั้งตัวเองเป็นพระเจ้า", "rationale": "Per uW: 'make yourself God' = claim-to-be-God (not 'try to become God'). Thai 'ตั้งตัวเองเป็นพระเจ้า' (set-yourself-up as God) preserves the self-elevation-claim sense; alternative 'อ้างตนว่าเป็นพระเจ้า' (claim-yourself-to-be-God) would be slightly less sharp. The 'เพียงมนุษย์' (merely a man) emphasizes the leadership's premise of his ordinariness — which the John-narrative will refute." }
+        {
+          "greek": "βλασφημίας",
+          "thai": "การหมิ่นประมาท",
+          "rationale": "Per uW figs-explicit: in this technical Jewish-legal sense βλασφημία = a human claiming to be God (not generic insult). KEY-TERM family already established in corpus: βλασφημ- → หมิ่นประมาท (cf. ACT 13:45, 18:6, 19:37, 26:11; LUK 5:21, 12:10). Thai 'การหมิ่นประมาท' is the established Christian-Thai rendering for the technical sense."
+        },
+        {
+          "greek": "σὺ ἄνθρωπος ὢν ποιεῖς σεαυτὸν θεόν",
+          "thai": "ท่านเป็นเพียงมนุษย์ แต่ตั้งตัวเองเป็นพระเจ้า",
+          "rationale": "Per uW: 'make yourself God' = claim-to-be-God (not 'try to become God'). Thai 'ตั้งตัวเองเป็นพระเจ้า' (set-yourself-up as God) preserves the self-elevation-claim sense; alternative 'อ้างตนว่าเป็นพระเจ้า' (claim-yourself-to-be-God) would be slightly less sharp. The 'เพียงมนุษย์' (merely a man) emphasizes the leadership's premise of his ordinariness — which the John-narrative will refute."
+        }
       ],
       "notes": "The leadership's charge confirms they understood v.30 as a divinity-claim. Per uW figs-explicit: Mosaic blasphemy = a human claiming to be God; per LEV 24:16 the penalty is death by stoning. The accusation 'σὺ ἄνθρωπος ὢν' (you, being a man) ironically inverts John's prologue 'ὁ λόγος σὰρξ ἐγένετο' (1:14) — the leadership perceives Jesus as a mere man making divine claims; John's gospel argues he is the divine made-man."
     }
@@ -572,8 +840,16 @@
       "thai_literal": null,
       "thai_summary": "พระเยซูทรงอ้างสดุดี 82:6 ที่พระเจ้าทรงเรียกบรรดาผู้พิพากษาในอิสราเอลว่า “พระ” (เอโลฮีม ในภาษาฮีบรู) เพื่อจะตอบโต้ข้อกล่าวหาของผู้นำชาวยิว: ถ้าพระคัมภีร์เองเรียกมนุษย์ว่า “พระ” แล้วเหตุใดการที่พระเยซูทรงอ้างความสัมพันธ์กับพระเจ้าจึงเป็นการหมิ่นประมาท?",
       "key_decisions": [
-        { "greek": "Οὐκ ἔστιν γεγραμμένον ἐν τῷ νόμῳ ὑμῶν", "thai": "ในธรรมบัญญัติของพวกท่านมีเขียนไว้ไม่ใช่หรือว่า", "rationale": "Per uW figs-rquestion + figs-activepassive: rhetorical question expecting affirmation. Per uW writing-quotations: introduces a quotation from PSA 82:6 — Jewish-rabbinic usage of νόμος ('Law') broad enough to include Psalms (the whole OT 'Tanakh'). Per uW figs-synecdoche: 'your law' uses Torah-name to represent the whole Hebrew Scripture. Thai 'ในธรรมบัญญัติของพวกท่าน' (in your Law) preserves the broad Jewish usage; thai_summary clarifies that the citation is from Psalms." },
-        { "greek": "Ἐγὼ εἶπα·Θεοί ἐστε", "thai": "‘เราได้กล่าวว่า พวกเจ้าเป็นพระ’", "rationale": "Per uW figs-quotesinquotes: nested-direct-quote within Jesus's speech. Thai-style nested quotes ‘...’ per RULES §5b. Per uW figs-123person: 'I' = God speaking in PSA 82. The OT quote has God addressing Israel's judges/elohim with the title. Thai 'พระ' (god/divine-one) is the natural rendering of the LXX θεοί (gods) — captures the polysemy: human-judges-as-divine-representatives. ADDED TO NT_OT_CITATIONS: JHN 10:34 → PSA 82:6." }
+        {
+          "greek": "Οὐκ ἔστιν γεγραμμένον ἐν τῷ νόμῳ ὑμῶν",
+          "thai": "ในธรรมบัญญัติของพวกท่านมีเขียนไว้ไม่ใช่หรือว่า",
+          "rationale": "Per uW figs-rquestion + figs-activepassive: rhetorical question expecting affirmation. Per uW writing-quotations: introduces a quotation from PSA 82:6 — Jewish-rabbinic usage of νόμος ('Law') broad enough to include Psalms (the whole OT 'Tanakh'). Per uW figs-synecdoche: 'your law' uses Torah-name to represent the whole Hebrew Scripture. Thai 'ในธรรมบัญญัติของพวกท่าน' (in your Law) preserves the broad Jewish usage; thai_summary clarifies that the citation is from Psalms."
+        },
+        {
+          "greek": "Ἐγὼ εἶπα·Θεοί ἐστε",
+          "thai": "‘เราได้กล่าวว่า พวกเจ้าเป็นพระ’",
+          "rationale": "Per uW figs-quotesinquotes: nested-direct-quote within Jesus's speech. Thai-style nested quotes ‘...’ per RULES §5b. Per uW figs-123person: 'I' = God speaking in PSA 82. The OT quote has God addressing Israel's judges/elohim with the title. Thai 'พระ' (god/divine-one) is the natural rendering of the LXX θεοί (gods) — captures the polysemy: human-judges-as-divine-representatives. ADDED TO NT_OT_CITATIONS: JHN 10:34 → PSA 82:6."
+        }
       ],
       "notes": "OT CITATION: JHN 10:34 → PSA 82:6 ('I have said you are gods, sons of the Most High, all of you'). Per uW writing-quotations: Jesus's 'your law' broadly includes Psalms in 1st-cent. Jewish usage. ADDED TO NT_OT_CITATIONS. The Psalm 82 context is divine-judgment of unjust judges in Israel — the irony works on multiple levels: God called the judges θεοί, yet they were corrupt; Jesus is in the same role being judged but is genuinely divine. The hermeneutical move (lesser-to-greater, qal-vahomer): if humans-acting-as-judges can be called 'gods,' the Son sanctified-and-sent-by-the-Father can certainly be called Son-of-God without blasphemy."
     }
@@ -589,9 +865,21 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "εἰ ἐκείνους εἶπεν θεοὺς", "thai": "ถ้าธรรมบัญญัติเรียกผู้ ... ว่าเป็นพระ", "rationale": "Per uW grammar-connect-condition-fact: εἰ = 'since' (true condition, not hypothetical). Translation supplies 'ธรรมบัญญัติ' (the law) as subject for clarity, since Greek third-singular εἶπεν is anaphoric to v.34's quoted source. The hypothetical-form 'ถ้า' preserves the conditional-syntax even though the truth-value is asserted." },
-        { "greek": "ὁ λόγος τοῦ θεοῦ ἐγένετο", "thai": "พระวจนะของพระเจ้ามาถึง", "rationale": "Per uW figs-metonymy + figs-personification: ὁ λόγος τοῦ θεοῦ here = the message that God spoke (not the Logos-Christology of JHN 1:1, which uses the same word with different referent). Thai 'พระวจนะของพระเจ้า' (the word of God) is the standard rendering. The verb ἐγένετο 'came/happened-to' personifies the message-as-active-agent — preserved in Thai 'มาถึง' (arrived at)." },
-        { "greek": "οὐ δύναται λυθῆναι ἡ γραφή", "thai": "พระคัมภีร์จะถูกล้มล้างไม่ได้", "rationale": "Per uW figs-activepassive + figs-metaphor: λύω = 'loose/break/dissolve.' 'Cannot be broken' = either (a) cannot be proven false; (b) cannot be ignored/set-aside. Thai 'ถูกล้มล้างไม่ได้' (cannot be overthrown) carries both senses: pre-supposes ongoing authority + cannot be defeated." }
+        {
+          "greek": "εἰ ἐκείνους εἶπεν θεοὺς",
+          "thai": "ถ้าธรรมบัญญัติเรียกผู้ ... ว่าเป็นพระ",
+          "rationale": "Per uW grammar-connect-condition-fact: εἰ = 'since' (true condition, not hypothetical). Translation supplies 'ธรรมบัญญัติ' (the law) as subject for clarity, since Greek third-singular εἶπεν is anaphoric to v.34's quoted source. The hypothetical-form 'ถ้า' preserves the conditional-syntax even though the truth-value is asserted."
+        },
+        {
+          "greek": "ὁ λόγος τοῦ θεοῦ ἐγένετο",
+          "thai": "พระวจนะของพระเจ้ามาถึง",
+          "rationale": "Per uW figs-metonymy + figs-personification: ὁ λόγος τοῦ θεοῦ here = the message that God spoke (not the Logos-Christology of JHN 1:1, which uses the same word with different referent). Thai 'พระวจนะของพระเจ้า' (the word of God) is the standard rendering. The verb ἐγένετο 'came/happened-to' personifies the message-as-active-agent — preserved in Thai 'มาถึง' (arrived at)."
+        },
+        {
+          "greek": "οὐ δύναται λυθῆναι ἡ γραφή",
+          "thai": "พระคัมภีร์จะถูกล้มล้างไม่ได้",
+          "rationale": "Per uW figs-activepassive + figs-metaphor: λύω = 'loose/break/dissolve.' 'Cannot be broken' = either (a) cannot be proven false; (b) cannot be ignored/set-aside. Thai 'ถูกล้มล้างไม่ได้' (cannot be overthrown) carries both senses: pre-supposes ongoing authority + cannot be defeated."
+        }
       ],
       "notes": "Parenthetical-aside in the argument: 'and Scripture cannot be broken' — programmatic statement of biblical authority. The rabbinic argument-form here is qal-vahomer (lesser-to-greater): if Scripture can call mere mortals 'gods' (lesser case), the Father-sanctified-and-sent Son can certainly be called God's Son (greater case). Note the trinitarian-foundation: Jesus accepts the OT's authority + reasons rabbinically from it + claims a unique relation that exceeds the PSA 82 'gods.'"
     }
@@ -607,9 +895,21 @@
       "thai_literal": null,
       "thai_summary": "พระเยซูทรงเปิดเผยอัตลักษณ์ของพระองค์เองในที่นี้: “เราเป็นพระบุตรของพระเจ้า” — และทรงตั้งคำถามต่อข้อกล่าวหาของผู้นำชาวยิวด้วยตรรกะแบบรับบี ถ้าพระคัมภีร์เรียกผู้พิพากษามนุษย์ว่า “พระ” แล้วผู้ที่พระบิดาทรงชำระให้บริสุทธิ์เป็นพิเศษและทรงส่งมาในโลก จะถูกกล่าวหาว่าหมิ่นประมาทเพราะเรียกตนเองว่าพระบุตรของพระเจ้าได้อย่างไร?",
       "key_decisions": [
-        { "greek": "ὃν ὁ πατὴρ ἡγίασεν καὶ ἀπέστειλεν εἰς τὸν κόσμον", "thai": "ผู้ที่พระบิดาทรงชำระให้บริสุทธิ์และส่งเข้ามาในโลก", "rationale": "Per uW figs-123person: Jesus refers to himself in third person; Thai natural grammar handles this. ἡγίασεν aorist = 'sanctified/consecrated' — set apart for divine purpose (echoes priestly-consecration in OT; cf. EXO 28:41, JER 1:5 'before I formed you in the womb I sanctified you'). Translation 'ทรงชำระให้บริสุทธิ์' (sanctify/make holy) is the established Christian-Thai rendering. Royal ทรง- on the divine acts (sanctified + sent). Royal register continues through Father's actions per RULES §3." },
-        { "greek": "Υἱὸς τοῦ θεοῦ εἰμι", "thai": "‘เราเป็นพระบุตรของพระเจ้า’", "rationale": "Per uW guidelines-sonofgodprinciples: 'Son of God' is an important title for Jesus. Per uW figs-quotesinquotes: nested-quote — Thai-style single quotes per RULES §5b. KEY-TERM LOCK: Υἱὸς τοῦ θεοῦ → พระบุตรของพระเจ้า (corpus-locked for Jesus's divinity-title, distinct from generic 'son-of-God' for Christian believers)." },
-        { "greek": "βλασφημεῖς", "thai": "เขาหมิ่นประมาทพระเจ้า", "rationale": "Per uW figs-ellipsis: 'You blaspheme' is incomplete — implicitly 'against God.' Translation supplies 'พระเจ้า' (against God) as uW recommends to make the technical-blasphemy sense clear. Continuing the uW direction from v.33: blasphemy here = the technical sense (claiming-to-be-God), not generic insult." }
+        {
+          "greek": "ὃν ὁ πατὴρ ἡγίασεν καὶ ἀπέστειλεν εἰς τὸν κόσμον",
+          "thai": "ผู้ที่พระบิดาทรงชำระให้บริสุทธิ์และส่งเข้ามาในโลก",
+          "rationale": "Per uW figs-123person: Jesus refers to himself in third person; Thai natural grammar handles this. ἡγίασεν aorist = 'sanctified/consecrated' — set apart for divine purpose (echoes priestly-consecration in OT; cf. EXO 28:41, JER 1:5 'before I formed you in the womb I sanctified you'). Translation 'ทรงชำระให้บริสุทธิ์' (sanctify/make holy) is the established Christian-Thai rendering. Royal ทรง- on the divine acts (sanctified + sent). Royal register continues through Father's actions per RULES §3."
+        },
+        {
+          "greek": "Υἱὸς τοῦ θεοῦ εἰμι",
+          "thai": "‘เราเป็นพระบุตรของพระเจ้า’",
+          "rationale": "Per uW guidelines-sonofgodprinciples: 'Son of God' is an important title for Jesus. Per uW figs-quotesinquotes: nested-quote — Thai-style single quotes per RULES §5b. KEY-TERM LOCK: Υἱὸς τοῦ θεοῦ → พระบุตรของพระเจ้า (corpus-locked for Jesus's divinity-title, distinct from generic 'son-of-God' for Christian believers)."
+        },
+        {
+          "greek": "βλασφημεῖς",
+          "thai": "เขาหมิ่นประมาทพระเจ้า",
+          "rationale": "Per uW figs-ellipsis: 'You blaspheme' is incomplete — implicitly 'against God.' Translation supplies 'พระเจ้า' (against God) as uW recommends to make the technical-blasphemy sense clear. Continuing the uW direction from v.33: blasphemy here = the technical sense (claiming-to-be-God), not generic insult."
+        }
       ],
       "notes": "Per uW figs-rquestion + figs-quotesinquotes: rhetorical-question continues from v.34. The 'sanctified-and-sent-by-the-Father' designation of v.36 is Christologically loaded: ἡγίασεν echoes priestly-consecration (set apart for sacred service); ἀπέστειλεν parallels the Johannine sending-formula (cf. JHN 3:17, 5:36, 17:18). Thematically resonant with the chapter's setting: ἐγκαίνια (v.22) commemorated the Temple's re-sanctification, and now Jesus (v.36) presents himself as the One uniquely sanctified by God."
     }
@@ -625,7 +925,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "τὰ ἔργα τοῦ πατρός μου", "thai": "พระราชกิจของพระบิดาของเรา", "rationale": "PHRASE-LOCK from JHN 9:3-4: τὰ ἔργα τοῦ θεοῦ → พระราชกิจของพระเจ้า (royal-prefix on divine-works). Same structure here." }
+        {
+          "greek": "τὰ ἔργα τοῦ πατρός μου",
+          "thai": "พระราชกิจของพระบิดาของเรา",
+          "rationale": "PHRASE-LOCK from JHN 9:3-4: τὰ ἔργα τοῦ θεοῦ → พระราชกิจของพระเจ้า (royal-prefix on divine-works). Same structure here."
+        }
       ],
       "notes": "Inviting evidential test: Jesus's claim is verifiable by the works he does — if no divine-works, then no obligation to believe. The verse establishes a logical-conditional that v.38 will close from the positive direction."
     }
@@ -641,8 +945,16 @@
       "thai_literal": null,
       "thai_summary": "“พระบิดาทรงอยู่ในเรา และเราอยู่ในพระบิดา” เป็นการกล่าวซ้ำของข้อ 30 (“เรากับพระบิดาเป็นหนึ่งเดียวกัน”) ในรูปแบบที่ลึกซึ้งกว่า — ภาษาของการอยู่ใน (ในตัวกัน) ที่เป็นภาษาความสัมพันธ์ทางจิตวิญญาณที่ใกล้ชิดที่สุด พระเยซูทรงเชิญให้ผู้นำชาวยิวพิจารณาหลักฐานจากพระราชกิจ ที่จะนำพวกเขามาสู่ความเข้าใจในธรรมชาติของพระองค์",
       "key_decisions": [
-        { "greek": "ἐν ἐμοὶ ὁ πατὴρ κἀγὼ ἐν τῷ πατρί", "thai": "พระบิดาทรงอยู่ในเรา และเราอยู่ในพระบิดา", "rationale": "Per uW figs-idiom + figs-doublet: 'in' here = close personal relationship (Johannine mutual-indwelling motif). Per uW figs-doublet: the doubled phrase emphasizes truth via repetition. Translation preserves the literal Greek picture-language because the mutual-indwelling motif recurs throughout John (14:10-11, 14:20, 17:21-23) and is theologically foundational for trinitarian doctrine. Royal ทรง- on Father's act of being-in (per RULES §3)." },
-        { "greek": "γνῶτε καὶ γινώσκητε", "thai": "รู้และเข้าใจ", "rationale": "Aor.subj. + pres.subj. of γινώσκω — 'you might come-to-know AND continue-knowing.' Aktionsart distinction. Thai 'รู้และเข้าใจ' (know and understand) preserves the come-to-know-and-keep-knowing sense; the second verb is upgraded from γινώσκω-aspectual to 'เข้าใจ' (understand) for natural Thai variation." }
+        {
+          "greek": "ἐν ἐμοὶ ὁ πατὴρ κἀγὼ ἐν τῷ πατρί",
+          "thai": "พระบิดาทรงอยู่ในเรา และเราอยู่ในพระบิดา",
+          "rationale": "Per uW figs-idiom + figs-doublet: 'in' here = close personal relationship (Johannine mutual-indwelling motif). Per uW figs-doublet: the doubled phrase emphasizes truth via repetition. Translation preserves the literal Greek picture-language because the mutual-indwelling motif recurs throughout John (14:10-11, 14:20, 17:21-23) and is theologically foundational for trinitarian doctrine. Royal ทรง- on Father's act of being-in (per RULES §3)."
+        },
+        {
+          "greek": "γνῶτε καὶ γινώσκητε",
+          "thai": "รู้และเข้าใจ",
+          "rationale": "Aor.subj. + pres.subj. of γινώσκω — 'you might come-to-know AND continue-knowing.' Aktionsart distinction. Thai 'รู้และเข้าใจ' (know and understand) preserves the come-to-know-and-keep-knowing sense; the second verb is upgraded from γινώσκω-aspectual to 'เข้าใจ' (understand) for natural Thai variation."
+        }
       ],
       "notes": "Reprises v.30 in different form. The doubled 'know and continue knowing' (γνῶτε καὶ γινώσκητε) is durative — a believing that begins in evidence and persists in mutual-indwelling. Per uW figs-doublet: the mutual-indwelling formula appears elsewhere in John (14:10-11, 14:20, 17:21-23) — emphatic-repetition for theological clarity."
     }
@@ -658,7 +970,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἐξῆλθεν ἐκ τῆς χειρὸς αὐτῶν", "thai": "ทรงรอดพ้นจากมือของพวกเขาไปได้", "rationale": "Per uW figs-metonymy: 'hand' here = 'custody/grasp.' Thai 'มือของพวกเขา' (their hands) preserves the metonymy literally — Thai readers recognize 'หลุดจากมือ' as 'escape from grasp/control.' Royal register: ทรง- on the divine-subject's escape." }
+        {
+          "greek": "ἐξῆλθεν ἐκ τῆς χειρὸς αὐτῶν",
+          "thai": "ทรงรอดพ้นจากมือของพวกเขาไปได้",
+          "rationale": "Per uW figs-metonymy: 'hand' here = 'custody/grasp.' Thai 'มือของพวกเขา' (their hands) preserves the metonymy literally — Thai readers recognize 'หลุดจากมือ' as 'escape from grasp/control.' Royal register: ทรง- on the divine-subject's escape."
+        }
       ],
       "notes": "Parallels JHN 7:30, 7:44, 8:59 — repeated theme of unsuccessful arrest attempts because 'his hour had not yet come' (cf. JHN 7:30). The Father's protective hand (vv.28-29) functions narratively: Jesus is preserved by divine sovereignty until the appointed time."
     }
@@ -674,8 +990,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "πέραν τοῦ Ἰορδάνου", "thai": "ข้ามแม่น้ำจอร์แดน", "rationale": "Per uW figs-explicit: 'beyond the Jordan' = the eastern side (Perea / Decapolis region), opposite from Jerusalem. KEY-TERM LOCK from JHN 1:28: Ἰορδάνος → จอร์แดน (transliteration). Thai 'แม่น้ำจอร์แดน' (Jordan River) supplies the implicit 'river' for clarity." },
-        { "greek": "Ἰωάννης τὸ πρῶτον βαπτίζων", "thai": "ยอห์นเคยให้บัพติศมาในตอนแรก", "rationale": "Per uW figs-explicit: this is John the Baptist (not John the apostle/gospel-author). KEY-TERM LOCK from JHN 1:26-33: ยอห์น (Greek-style transliteration) for both Johns; context disambiguates. Per uW figs-explicit: τὸ πρῶτον = at the beginning of his ministry. Thai 'ในตอนแรก' (at first / in the beginning) preserves the temporal marker. βαπτίζω → ให้บัพติศมา per established lock." }
+        {
+          "greek": "πέραν τοῦ Ἰορδάνου",
+          "thai": "ข้ามแม่น้ำจอร์แดน",
+          "rationale": "Per uW figs-explicit: 'beyond the Jordan' = the eastern side (Perea / Decapolis region), opposite from Jerusalem. KEY-TERM LOCK from JHN 1:28: Ἰορδάνος → จอร์แดน (transliteration). Thai 'แม่น้ำจอร์แดน' (Jordan River) supplies the implicit 'river' for clarity."
+        },
+        {
+          "greek": "Ἰωάννης τὸ πρῶτον βαπτίζων",
+          "thai": "ยอห์นเคยให้บัพติศมาในตอนแรก",
+          "rationale": "Per uW figs-explicit: this is John the Baptist (not John the apostle/gospel-author). KEY-TERM LOCK from JHN 1:26-33: ยอห์น (Greek-style transliteration) for both Johns; context disambiguates. Per uW figs-explicit: τὸ πρῶτον = at the beginning of his ministry. Thai 'ในตอนแรก' (at first / in the beginning) preserves the temporal marker. βαπτίζω → ให้บัพติศมา per established lock."
+        }
       ],
       "notes": "Geographic withdrawal — back to John the Baptist's old ministry site (Bethany-beyond-Jordan, JHN 1:28). Symbolic full-circle: Jesus's public ministry began here (JHN 1:29-34) and now he returns as it draws toward the climax. The faithful response (vv.41-42) stands in pointed contrast to the Jerusalem leadership's rejection."
     }
@@ -691,8 +1015,16 @@
       "thai_literal": null,
       "thai_summary": "การยอมรับครั้งสุดท้ายและน่าเป็นที่น่าจดจำของยอห์นผู้ให้บัพติศมา — แม้ว่าเขาจะไม่ได้ทำหมายสำคัญใดๆ แต่คำพยานของเขาเรื่องพระเยซู (เช่น ยน. 1:29, 1:34) กลายเป็นจริงทั้งหมด ความเชื่อของชาวเปเรีย (ข้อ 42) ตั้งอยู่บนคำพยานเก่าของยอห์นที่ตอนนี้เห็นได้ชัดในพระราชกิจของพระเยซู",
       "key_decisions": [
-        { "greek": "σημεῖον", "thai": "หมายสำคัญ", "rationale": "PHRASE-LOCK Johannine technical term: σημεῖον → หมายสำคัญ (sign — authenticating miracle, RULES §4 + JHN 2:11 lock)." },
-        { "greek": "περὶ τούτου", "thai": "เกี่ยวกับท่านผู้นี้", "rationale": "Per uW writing-pronouns: 'this one' = Jesus. Thai 'ท่านผู้นี้' (this honored-one) preserves the demonstrative while marking respectful tone — the Perean people speak of Jesus with respect, contrast to the Jerusalem leadership's dismissive 'τοῦτον' (cf. JHN 9:29)." }
+        {
+          "greek": "σημεῖον",
+          "thai": "หมายสำคัญ",
+          "rationale": "PHRASE-LOCK Johannine technical term: σημεῖον → หมายสำคัญ (sign — authenticating miracle, RULES §4 + JHN 2:11 lock)."
+        },
+        {
+          "greek": "περὶ τούτου",
+          "thai": "เกี่ยวกับท่านผู้นี้",
+          "rationale": "Per uW writing-pronouns: 'this one' = Jesus. Thai 'ท่านผู้นี้' (this honored-one) preserves the demonstrative while marking respectful tone — the Perean people speak of Jesus with respect, contrast to the Jerusalem leadership's dismissive 'τοῦτον' (cf. JHN 9:29)."
+        }
       ],
       "notes": "Crucial vindication of John the Baptist's testimony — the Perean people remembered John's words (JHN 1:29 'lamb of God,' 1:34 'this is the Son of God') and now see them confirmed in Jesus. The contrast with the Jerusalem leadership is sharp: the Jerusalem authorities rejected the works themselves (v.32-33); the Perean believers accept the prior word + the present works combined."
     }
@@ -708,7 +1040,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἐπίστευσαν εἰς αὐτὸν", "thai": "ได้เชื่อในพระองค์", "rationale": "Johannine signature πιστεύω εἰς + accusative — 'believe-into' (directional faith-commitment). Aor.ind. = 'they came to believe.' Thai 'เชื่อในพระองค์' (believe in Him) is the standard Christian-Thai rendering." }
+        {
+          "greek": "ἐπίστευσαν εἰς αὐτὸν",
+          "thai": "ได้เชื่อในพระองค์",
+          "rationale": "Johannine signature πιστεύω εἰς + accusative — 'believe-into' (directional faith-commitment). Aor.ind. = 'they came to believe.' Thai 'เชื่อในพระองค์' (believe in Him) is the standard Christian-Thai rendering."
+        }
       ],
       "notes": "Closes the chapter on a counterpoint to the Jerusalem rejection. The geographic-symbolic move from Jerusalem (city of stoning) to Bethany-beyond-Jordan (city of believing) frames a literary pause before the Lazarus-narrative of JHN 11."
     }
