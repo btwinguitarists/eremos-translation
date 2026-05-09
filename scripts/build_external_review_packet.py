@@ -70,6 +70,7 @@ BOOKS = {
     "REV": ("revelation", "Revelation"),
     # OT books — added as the OT pilot ships
     "RUT": ("ruth", "Ruth"),
+    "JON": ("jonah", "Jonah"),
 }
 
 # OT book codes — the prompt branches on testament so OT packets reference
