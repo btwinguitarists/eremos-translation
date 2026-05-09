@@ -1,0 +1,14 @@
+[
+  {
+    "verse": 1,
+    "type": "tetragrammaton_convention_first_occurrence",
+    "tier_status": "Layer 2 (per-chapter first-occurrence footnote) — divine_names_table_2026-05",
+    "explanation_thai": "**องค์พระผู้เป็นเจ้า** ในบทนี้แปลจากภาษาฮีบรู יהוה (พระนามเฉพาะของพระเจ้า ออกเสียงโดยทั่วไปว่า \"ยาห์เวห์\" Yahweh) บทที่ 4 ใช้ יהוה เดี่ยว — ไม่ใช่ יהוה אֱלֹהִים (ซึ่งเป็นรูปประสมเฉพาะของบทที่ 2-3) ฉบับเอเรโมสใช้ **องค์พระผู้เป็นเจ้า** ตามแบบแผนของฉบับพันธสัญญาใหม่ในการแปล κύριος ซึ่งในต้นฉบับฮีบรูตรงกับ יהוה เมื่อข้อความฮีบรูใช้คำว่า אֲדֹנָי (อาโดนาย, \"องค์เจ้านาย\") โดยไม่มี יהוה ฉบับเอเรโมสจะแปลว่า \"องค์เจ้านาย\" เพื่อให้ผู้อ่านสามารถแยกแยะรูปแบบฮีบรูได้ — ดูรายละเอียดเพิ่มเติมที่ docs/translator_decisions/divine_names_table_2026-05.md (Tetragrammaton — third-revision lock)"
+  },
+  {
+    "verse": 8,
+    "type": "textual_variant_lxx_addition",
+    "tier_status": "Layer 1 (per-verse key_decisions records the textual issue)",
+    "explanation_thai": "ในข้อ 8 ข้อความฮีบรู MT บอกว่า “คาอินพูดกับอาเบลน้องชาย” แต่ ไม่ได้ บันทึกสิ่งที่คาอินพูด ฉบับ Septuagint (LXX), Samaritan Pentateuch, Syriac Peshitta, Vulgate และ Jerusalem Targum ทั้งหมดเพิ่มประโยค “ให้เราออกไปที่ทุ่งนากัน” ฉบับเอเรโมสรักษาการเพิ่มเติมในวงเล็บ [ ] เพื่อให้ผู้อ่านเข้าถึงประโยคที่เพิ่มเติมในขณะที่บ่งชี้สถานะที่ไม่ใช่ MT"
+  }
+]
