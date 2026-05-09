@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-05-09 11:21:21 UTC_
-_Total chapters: 267 · Total verses: 8064_
+_Generated: 2026-05-09 12:02:29 UTC_
+_Total chapters: 268 · Total verses: 8075_
 
 ## How to verify a chapter
 
@@ -166,7 +166,8 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/john_21.json` | 25 | `f6ec05b4ae5b48057f80c04030f55924ebe6ee76b8e1c67e44139b4e04ba859e` | `d50cea8` |
 | `output/translations/jonah_01.json` | 16 | `b053eccb9b718d40079c1a6525c29b17ce9f191b1611ca4515d944c056e14829` | `3bcb8c1` |
 | `output/translations/jonah_02.json` | 11 | `43dca458c3e917c9ded9ebd288f6bac53c93065392c34bffcc53428102e39828` | `37d1cd0` |
-| `output/translations/jonah_03.json` | 10 | `c7b06a6ba800bdb213f87c3cc8519e74164ec9e2e1fe75065296a2d4caac19a0` | `—` |
+| `output/translations/jonah_03.json` | 10 | `c7b06a6ba800bdb213f87c3cc8519e74164ec9e2e1fe75065296a2d4caac19a0` | `c933d20` |
+| `output/translations/jonah_04.json` | 11 | `db769e048e6be44ebebb39a5aed550950dc366e5a8b16d9a90b54a4c23605c49` | `—` |
 | `output/translations/jude_01.json` | 25 | `830e0e17f058553a12d3c30af95ce0dfc8e68d4ae841849ece413ffc310bfc78` | `dd8164e` |
 | `output/translations/luke_01.json` | 80 | `69ceecef9eb92a4f8f94165520214feb6410f3477e0c960da749ab0905431fa4` | `1f0d7ba` |
 | `output/translations/luke_02.json` | 52 | `e50197772258e55fe3d51fecd922cfd83f9ab5ed2b2727d61038dfd9bdce5e03` | `6d15bb1` |
