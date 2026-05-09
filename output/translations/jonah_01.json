@@ -1,0 +1,533 @@
+[
+  {
+    "reference": "Jonah 1:1",
+    "chapter": 1,
+    "verse": 1,
+    "language": "hebrew",
+    "hebrew": "וַֽיְהִי֙ דְּבַר־יְהוָ֔ה אֶל־יוֹנָ֥ה בֶן־אֲמִתַּ֖י לֵאמֹֽר׃",
+    "bsb_english": "Now the word of the LORD came to Jonah son of Amittai, saying,",
+    "translation": {
+      "thai": "พระวจนะขององค์พระผู้เป็นเจ้ามาถึงโยนาห์บุตรอามิทัยว่า",
+      "thai_literal": "และเหตุการณ์ก็เป็นไปว่า พระวจนะขององค์พระผู้เป็นเจ้ามาถึงโยนาห์ บุตรอามิทัย ตรัสว่า",
+      "thai_summary": "หนังสือเปิดด้วยสูตรการแนะนำผู้พยากรณ์ในภาษาฮีบรูที่เป็นมาตรฐาน — “พระวจนะขององค์พระผู้เป็นเจ้ามาถึง...” (เปรียบเทียบ ฮชย 1:1, ยอล 1:1, มคา 1:1, ศคย 1:1) สูตรเดียวกันนี้ปรากฏอีกครั้งใน 3:1 เพื่อเริ่มต้นครึ่งหลังของเรื่อง — เป็นโครงสร้างวงแหวนของหนังสือ โยนาห์ผู้นี้คือผู้พยากรณ์จากกัทเฮเฟอร์ในอาณาจักรอิสราเอลเหนือ ในสมัยกษัตริย์เยโรโบอัมที่ 2 (เปรียบเทียบ 2 พกษ 14:25) ราว 800–750 ปีก่อนคริสตกาล",
+      "key_decisions": [
+        {
+          "hebrew": "וַיְהִי דְּבַר־יְהוָה אֶל־יוֹנָה",
+          "thai": "พระวจนะขององค์พระผู้เป็นเจ้ามาถึงโยนาห์",
+          "rationale": "Per uW writing-newevent: this formula introduces the first half of the story; the same phrase recurs at 3:1 to introduce the second half, signaling a deliberate ring-structure. Per hebrew_idioms_and_metaphor §5.1 on וַיְהִי: most languages do not begin a story with a conjunction; the וַיְהִי is dropped or absorbed in the Thai narrative opener. We translate the full prophetic-book formula directly — Thai prophetic-book convention (THSV/TNCV/NTV all start their prophetic books with the same pattern) uses พระวจนะ...มาถึง to preserve the Hebrew idiom of YHWH's word 'coming' to a person."
+        },
+        {
+          "hebrew": "דְּבַר־יְהוָה",
+          "thai": "พระวจนะขององค์พระผู้เป็นเจ้า",
+          "rationale": "First YHWH occurrence in this chapter. Per divine_names_table_2026-05.md (Tetragrammaton third-revision lock): יהוה → องค์พระผู้เป็นเจ้า, NT-aligned with Hebrew-form transparency via per-verse key_decisions + per-chapter footer note (see output/textual_variants/jonah_01.json). דְּבַר is the construct 'word-of'; Thai uses พระวจนะ (royal/sacred word) matching ราชาศัพท์ register for divine speech per RULES §3."
+        },
+        {
+          "hebrew": "יוֹנָה בֶן־אֲמִתַּי",
+          "thai": "โยนาห์บุตรอามิทัย",
+          "rationale": "Per uW translate-names: Amittai is Jonah's father. Thai transliteration follows established Thai Christian practice (THSV: โยนาห์, อามิทัย). Cross-reference 2 Kings 14:25, where Jonah ben-Amittai prophesies during the reign of Jeroboam II of Israel — historical anchor for the prophet's identity and northern-kingdom origin (Gath-Hepher, in Zebulun)."
+        }
+      ],
+      "notes": "Standard Hebrew prophetic-book opening formula (וַיְהִי דְּבַר־יְהוָה — 'and the word of YHWH came'). FIRST YHWH OCCURRENCE in this chapter — see output/textual_variants/jonah_01.json for Layer 2 Tetragrammaton convention footnote per divine_names_table_2026-05.md. The repetition of this formula at 3:1 brackets a two-act structure (chs. 1–2 = Jonah flees + is rescued; chs. 3–4 = Jonah obeys + Yahweh spares Nineveh). Jonah ben-Amittai is the same prophet of 2 Kings 14:25 (Jeroboam II era, ~800–750 BC), making him a contemporary of Amos and Hosea — a prophet known to the original audience as one whose earlier word came true (territorial restoration of Israel)."
+    }
+  },
+  {
+    "reference": "Jonah 1:2",
+    "chapter": 1,
+    "verse": 2,
+    "language": "hebrew",
+    "hebrew": "ק֠וּם לֵ֧ךְ אֶל־נִֽינְוֵ֛ה הָעִ֥יר הַגְּדוֹלָ֖ה וּקְרָ֣א עָלֶ֑יהָ כִּֽי־עָלְתָ֥ה רָעָתָ֖ם לְפָנָֽי׃",
+    "bsb_english": "“Get up! Go to the great city of Nineveh and preach against it, because its wickedness has come up before Me.”",
+    "translation": {
+      "thai": "“จงลุกขึ้น ไปยังนีนะเวห์นครใหญ่ และร้องประกาศกล่าวโทษเมืองนั้น เพราะความชั่วของพวกเขาได้ขึ้นมาต่อหน้าเรา”",
+      "thai_literal": "“จงลุกขึ้น จงไปยังนีนะเวห์ นครที่ยิ่งใหญ่ และจงร้องเรียกต่อต้านเมืองนั้น เพราะความชั่วของพวกเขาได้ขึ้นมาเบื้องหน้าของเรา”",
+      "thai_summary": "นีนะเวห์เป็นนครหลวงของจักรวรรดิอัสซีเรีย ซึ่งในสมัยของโยนาห์เป็นมหาอำนาจที่ทรงอิทธิพลที่สุดในตะวันออกใกล้โบราณ และมีชื่อเสียงในด้านความโหดร้ายต่อศัตรู — โดยเฉพาะอย่างยิ่งต่ออิสราเอล การที่องค์พระผู้เป็นเจ้าทรงส่งผู้พยากรณ์ชาวฮีบรูไปเตือนเมืองของศัตรูคือพระเมตตาที่ขัดกับความคาดหมายของผู้ฟังชาวอิสราเอลโบราณอย่างสิ้นเชิง สำนวน “ความชั่วของพวกเขาได้ขึ้นมาต่อหน้าเรา” เป็นภาพอุปมา — บาปได้สูงขึ้นจนพระเจ้าทรงเห็น (เปรียบเทียบ ปฐก 18:20–21 ที่ใช้สำนวนคล้ายกันสำหรับโสโดมและโกโมราห์)",
+      "key_decisions": [
+        {
+          "hebrew": "קוּם לֵךְ",
+          "thai": "จงลุกขึ้น ไป",
+          "rationale": "Per uW figs-idiom: ק֠וּם ('Get up') is an idiom that means Jonah should take action; it does not imply he was sitting/lying. Same idiomatic pattern as the Markan ἔγειρε / ἀνάστα (cf. Mark 2:9–11; Mark 5:41 ταλιθα κουμ from the Aramaic cognate קוּם). We render literally with จงลุกขึ้น — Thai naturally tolerates the action-imperative force of the literal sense; the idiom is preserved transparently. The captain reuses ק֠וּם at v.6 for a literal sense (Jonah is actually asleep) — see v.6 KD."
+        },
+        {
+          "hebrew": "נִינְוֵה הָעִיר הַגְּדוֹלָה",
+          "thai": "นีนะเวห์นครใหญ่",
+          "rationale": "Per uW figs-explicit: גְדוֹלָה ('great') here means both large (population/area) and important (capital of the empire). We render นครใหญ่ ('great city') — Thai นคร carries the imperial-capital connotation more naturally than the more generic เมือง. Nineveh's archaeological footprint (~1,800 acres including suburbs) supports the literal greatness. The phrase recurs in 3:2, 3:3 ('a city great to God, three days' walk') and 4:11 ('more than 120,000 people who do not know their right hand from their left') — a chapter-spanning Leitmotiv that the translation must keep stable."
+        },
+        {
+          "hebrew": "וּקְרָא עָלֶיהָ",
+          "thai": "ร้องประกาศกล่าวโทษเมืองนั้น",
+          "rationale": "The preposition עַל with קָרָא ('call') has the adversarial sense ('call against, denounce'), not the neutral 'call to.' Per uW figs-metonymy: the pronoun -הָ ('it,' = the city) refers metonymically to the people living in/around the city. Thai expansion ร้องประกาศกล่าวโทษ (literally 'cry out, proclaim, charge against') captures the prophetic-judgment force; the city-as-metonym is implicit ('the city' = its inhabitants)."
+        },
+        {
+          "hebrew": "כִּי־עָלְתָה רָעָתָם לְפָנָי",
+          "thai": "เพราะความชั่วของพวกเขาได้ขึ้นมาต่อหน้าเรา",
+          "rationale": "Per uW figs-metaphor: God speaks of evil (רָעָה) as something that has physically risen up (עָלְתָה, perfect of עָלָה, 'go up/come up') in front of him as it has continually grown larger. Per hebrew_idioms_and_metaphor §1: preserve OT anthropomorphism — לְפָנָי (literally 'before my face') becomes ต่อหน้าเรา ('before me'); we use the more compact ต่อหน้า rather than เบื้องพระพักตร์ to keep the divine-speech voice direct (YHWH speaking in the first person, where royal-Thai self-reference is เรา per ot_register_policy §4). The verb עָלְתָה echoes Genesis 18:20–21 of Sodom (זַעֲקָתָם עָלְתָה אֵלָי — 'their cry has come up to me') — preserve the rising-imagery; do not flatten to 'I see their evil.'"
+        }
+      ],
+      "notes": "OT echo: עָלְתָה רָעָתָם לְפָנָי intentionally evokes Genesis 18:20–21 (Sodom and Gomorrah's cry rising up to YHWH). Both passages frame divine judgment as a response to evil that has 'come up' to God's notice. In Genesis, judgment falls; in Jonah, the city repents and judgment is averted (3:10) — thematic counterpoint. Divine first-person address: YHWH speaks; per ot_register_policy §1.1+§4, YHWH-as-speaker uses the divine-majestic เรา (first-person) and addresses Jonah as เจ้า (intimate-vocative; not used here directly but implied in subsequent verses). The 'great city' lexical chain is a chapter-spanning Leitmotiv (1:2, 3:2, 3:3, 4:11) — translation must remain stable."
+    }
+  },
+  {
+    "reference": "Jonah 1:3",
+    "chapter": 1,
+    "verse": 3,
+    "language": "hebrew",
+    "hebrew": "וַיָּ֤קָם יוֹנָה֙ לִבְרֹ֣חַ תַּרְשִׁ֔ישָׁה מִלִּפְנֵ֖י יְהוָ֑ה וַיֵּ֨רֶד יָפ֜וֹ וַיִּמְצָ֥א אָנִיָּ֣ה׀בָּאָ֣ה תַרְשִׁ֗ישׁ וַיִּתֵּ֨ן שְׂכָרָ֜הּ וַיֵּ֤רֶד בָּהּ֙ לָב֤וֹא עִמָּהֶם֙ תַּרְשִׁ֔ישָׁה מִלִּפְנֵ֖י יְהוָֽה׃",
+    "bsb_english": "Jonah, however, got up to flee to Tarshish, away from the presence of the LORD. He went down to Joppa and found a ship bound for Tarshish. So he paid the fare and went aboard to sail for Tarshish, away from the presence of the LORD.",
+    "translation": {
+      "thai": "แต่โยนาห์ลุกขึ้นเพื่อหนีไปยังเมืองทารชิช ให้พ้นจากเบื้องพระพักตร์ขององค์พระผู้เป็นเจ้า ท่านลงไปที่เมืองยัฟโฟและพบเรือลำหนึ่งกำลังจะไปยังเมืองทารชิช ท่านจึงเสียค่าโดยสารและลงเรือไปกับลูกเรือ มุ่งหน้าสู่เมืองทารชิช ให้พ้นจากเบื้องพระพักตร์ขององค์พระผู้เป็นเจ้า",
+      "thai_literal": "และโยนาห์ลุกขึ้นเพื่อหนีไปยังทารชิช จากเบื้องพระพักตร์ขององค์พระผู้เป็นเจ้า และเขาลงไปยังยัฟโฟและพบเรือลำหนึ่งกำลังมา (มุ่งหน้า) สู่ทารชิช และเขาจ่ายค่าโดยสารของมัน และลงไปในเรือนั้นเพื่อจะไปกับพวกเขาสู่ทารชิช จากเบื้องพระพักตร์ขององค์พระผู้เป็นเจ้า",
+      "thai_summary": "ทารชิช (תַּרְשִׁישׁ) เป็นเมืองท่าที่ตั้งอยู่ทางตะวันตกสุดของโลกที่อิสราเอลโบราณรู้จัก — นักวิชาการส่วนใหญ่ระบุว่าน่าจะอยู่ที่สเปนตอนใต้ (ทาร์เทสซอส) ตรงข้ามกับนีนะเวห์ซึ่งอยู่ทางตะวันออก โยนาห์จึงไม่ใช่แค่ปฏิเสธคำสั่ง — เขาวิ่งหนีไปในทิศทางตรงกันข้ามอย่างสุดขั้ว สูตร “ลงไป” (יָרַד) เกิดขึ้นซ้ำสองครั้งในข้อนี้ (ลงไปยัฟโฟ + ลงเรือ) และจะดำเนินต่อไป (ลงไปในเรือชั้นล่าง v.5, ลงสู่ใต้ทะเลในบทที่ 2) — เป็นภาพการเดินทางลงสู่ความตายของโยนาห์ คำว่า “เบื้องพระพักตร์ขององค์พระผู้เป็นเจ้า” (מִלִּפְנֵי יְהוָה) ปรากฏซ้ำสองครั้งในข้อเดียว — เน้นย้ำว่าโยนาห์เข้าใจผิดอย่างสิ้นเชิงว่าตนสามารถหนีจากการประทับของพระเจ้าได้ (เปรียบเทียบ สดด 139:7–10)",
+      "key_decisions": [
+        {
+          "hebrew": "וַיָּקָם יוֹנָה לִבְרֹחַ",
+          "thai": "แต่โยนาห์ลุกขึ้นเพื่อหนี",
+          "rationale": "Per uW figs-idiom: 'got up' here uses the same idiom as v.2 (קוּם = 'take action'), but Jonah's action is to disobey instead of to obey. The literal repetition of קוּם creates ironic parallelism: Yahweh said 'Get up, go to Nineveh'; Jonah 'got up' — but to flee. We render with แต่ ('but') as the connective Thai-equivalent of the וַיָּקָם reversal-marker; uW grammar-connect-logic-contrast treats the וַֽיהוָה in v.4 as the 'But' marker, but the contrastive force is already operative in v.3 with the disobedient 'getting up.' Standard Thai narrative-contrast 'แต่' clarifies for the Thai reader."
+        },
+        {
+          "hebrew": "תַּרְשִׁישָׁה",
+          "thai": "ยังเมืองทารชิช",
+          "rationale": "Per uW figs-explicit: Tarshish was in the direction opposite to Nineveh — west (likely Tartessos in southern Spain) vs east. This geographic-opposite is the punchline of Jonah's flight. Thai transliteration ทารชิช matches THSV/TNCV established Thai practice. The directional irony is unpacked in thai_summary; we don't gloss it inline (would weigh down the verse)."
+        },
+        {
+          "hebrew": "מִלִּפְנֵי יְהוָה",
+          "thai": "ให้พ้นจากเบื้องพระพักตร์ขององค์พระผู้เป็นเจ้า",
+          "rationale": "Per uW figs-metaphor: the expression 'the face of Yahweh' represents his presence; the idea includes his knowledge, notice, attention, and judgment. By running away, Jonah hopes Yahweh will not notice his disobedience (theologically naive — see Ps 139:7–10 contradicts). Per hebrew_idioms_and_metaphor §1.2: פְּנֵי יהוה → พระพักตร์ขององค์พระผู้เป็นเจ้า (royal-Thai พระพักตร์, not plain หน้า; preserve the anthropomorphism). The phrase repeats twice in this single verse — a deliberate emphatic doubling that we preserve with identical Thai wording (ให้พ้นจากเบื้องพระพักตร์ขององค์พระผู้เป็นเจ้า) at both occurrences."
+        },
+        {
+          "hebrew": "וַיֵּרֶד יָפוֹ",
+          "thai": "ท่านลงไปที่เมืองยัฟโฟ",
+          "rationale": "Per hebrew_idioms_and_metaphor §3.2 on עָלָה/יָרַד: Hebrew geography is hierarchical. Joppa (modern Jaffa) is on the coast at sea-level; from Gath-Hepher (Galilean hills) Jonah does literally descend — but the יָרַד here also begins a chapter-spanning chain of 'down' verbs: יָרַד יָפוֹ (down to Joppa, v.3a) → יָרַד בָּהּ (went down into the ship, v.3b) → יָרַד אֶל־יַרְכְּתֵי הַסְּפִינָה (went down to the lowest part, v.5) → 2:6 יָרַדְתִּי (went down to the foundations of the mountains). Theological motion: Jonah's flight from God is a downward descent toward death. We render every יָרַד in Jonah 1 with ลง- ('down/descend') to preserve the Leitmotiv. Thai transliteration ยัฟโฟ matches established Thai-OT practice (Joshua 19:46 etc.); NT references to the same place (Acts 9:36+) often use ยัฟปา — slight orthographic divergence between OT and NT corpora; we align with the OT precedent here."
+        },
+        {
+          "hebrew": "אָנִיָּה",
+          "thai": "เรือ",
+          "rationale": "Per uW translate-unknown: a 'ship' here is a large sea-going vessel that can carry many passengers and heavy cargo. Thai เรือ is the general nautical term; the verse contains no warrant for a more specialized rendering. Note: this is the common Hebrew word for ship (אֳנִיָּה); v.5 introduces the rare hapax סְפִינָה for 'lower deck of the ship' (see v.5 KD)."
+        },
+        {
+          "hebrew": "וַיִּתֵּן שְׂכָרָהּ",
+          "thai": "ท่านจึงเสียค่าโดยสาร",
+          "rationale": "Per uW figs-explicit: the שָׂכָר ('hire/wages/fare') here is the price paid to travel on the ship. Thai ค่าโดยสาร is the natural modern Thai term for 'transport fare.' The narrative detail emphasizes Jonah's deliberate, deliberate-and-paid-for commitment to the flight — he doesn't just stowaway impulsively; he invests money in his disobedience."
+        }
+      ],
+      "notes": "Theological motion: this verse begins the יָרַד ('went down') Leitmotiv that runs through Jonah's flight (down to Joppa → down into the ship → down to the lowest part of the ship in v.5 → down to the foundations of the mountains in 2:6). Translation preserves ลง (down/descend) at every יָרַד occurrence in chs. 1–2. The double מִלִּפְנֵי יְהוָה ('from the face of YHWH') in this single verse is an emphatic Hebrew bracketing — preserved as identical Thai phrasing at both occurrences. Tarshish in Spain (Tartessos, the western terminus of Mediterranean trade) is the geographic opposite of Nineveh in Mesopotamia — Jonah's flight is direction-maximal, not just disobedience. SITUATIONAL IRONY (per uW chapter intro): a Yahweh-prophet flees Yahweh; later in the chapter, pagan sailors will demonstrate fear-of-Yahweh worthy of Israelite cult (vv.14, 16). The chapter is structured around this reversal of expected piety."
+    }
+  },
+  {
+    "reference": "Jonah 1:4",
+    "chapter": 1,
+    "verse": 4,
+    "language": "hebrew",
+    "hebrew": "וַֽיהוָ֗ה הֵטִ֤יל רֽוּחַ־גְּדוֹלָה֙ אֶל־הַיָּ֔ם וַיְהִ֥י סַֽעַר־גָּד֖וֹל בַּיָּ֑ם וְהָ֣אֳנִיָּ֔ה חִשְּׁבָ֖ה לְהִשָּׁבֵֽר׃",
+    "bsb_english": "Then the LORD hurled a great wind upon the sea, and such a violent storm arose that the ship was in danger of breaking apart.",
+    "translation": {
+      "thai": "แต่องค์พระผู้เป็นเจ้าทรงบันดาลให้ลมพายุใหญ่พัดมายังทะเล เกิดพายุร้ายแรงในทะเล จนเรือเกือบจะแตก",
+      "thai_literal": "แต่องค์พระผู้เป็นเจ้าทรงโยนลมใหญ่ลงสู่ทะเล และเกิดพายุใหญ่ในทะเล และเรือก็คิดว่าจะแตก",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "וַיהוָה",
+          "thai": "แต่องค์พระผู้เป็นเจ้า",
+          "rationale": "Per uW grammar-connect-logic-contrast: the Waw + divine-name fronted (וַֽיהוָ֗ה, with YHWH not in usual verb-first position) marks a strong contrast — 'But Yahweh...' — between what Jonah thought would happen (uneventful flight) and what God did (storm). Hebrew syntactic fronting = pragmatic emphasis. Thai marks this with แต่ ('but') as topic-shift connective."
+        },
+        {
+          "hebrew": "הֵטִיל רוּחַ־גְּדוֹלָה אֶל־הַיָּם",
+          "thai": "ทรงบันดาลให้ลมพายุใหญ่พัดมายังทะเล",
+          "rationale": "Hiph'il of טוּל ('hurl, throw, cast') with YHWH as subject. The verb is forceful — God doesn't merely 'send' but 'hurls' the wind. This same verb טוּל recurs in v.5 (sailors hurl cargo into the sea), v.12 (Jonah tells them to hurl him), v.15 (they hurl Jonah). Lexical chain across the chapter: God hurls wind → sailors hurl cargo → sailors hurl Jonah. The Thai rendering ทรงบันดาลให้...พัดมา preserves the divine causation while reading naturally; the harsher 'ทรงโยน' would sound non-Thai-idiomatic for wind. Per ot_register_policy §1.1: divine action takes ทรง- royal prefix. Per hebrew_idioms_and_metaphor §3.5: רוּחַ here = meteorological wind (ลม), not divine spirit."
+        },
+        {
+          "hebrew": "וְהָאֳנִיָּה חִשְּׁבָה לְהִשָּׁבֵר",
+          "thai": "จนเรือเกือบจะแตก",
+          "rationale": "Per uW figs-personification: the author personifies the ship as if it were a person who 'thought' (חִשְּׁבָה, Pi'el of חָשַׁב 'reckon, think, consider') it might break apart. The clause means the storm was so severe the ship was close to breaking. Per uW figs-activepassive: the Niph'al לְהִשָּׁבֵר ('to be broken') is rendered active in Thai (จะแตก). We collapse the personification into idiomatic Thai (จนเรือเกือบจะแตก, 'until the ship was about to break') — the personification is a Hebrew rhetorical convention that does not transfer naturally; meaning preserved per RULES §1 (accuracy + naturalness)."
+        }
+      ],
+      "notes": "Lexical chain begins: טוּל ('hurl') runs across vv.4, 5, 12, 15 — God hurls wind; sailors hurl cargo; Jonah asks to be hurled; sailors hurl Jonah. The verb's recurrence is a deliberate Hebrew narrative device tying the storm to Jonah and finally to his removal. Translation can preserve this with verbal echo where Thai allows (ทรงบันดาล/โยน/หย่อน) without forcing identity. The personification of the ship (חִשְּׁבָה לְהִשָּׁבֵר, 'thought/intended to break') is a Hebrew rhetorical commonplace; flattened to idiomatic Thai per uW guidance and RULES §1 (accuracy + naturalness)."
+    }
+  },
+  {
+    "reference": "Jonah 1:5",
+    "chapter": 1,
+    "verse": 5,
+    "language": "hebrew",
+    "hebrew": "וַיִּֽירְא֣וּ הַמַּלָּחִ֗ים וַֽיִּזְעֲקוּ֮ אִ֣ישׁ אֶל־אֱלֹהָיו֒ וַיָּטִ֨לוּ אֶת־הַכֵּלִ֜ים אֲשֶׁ֤ר בָּֽאֳנִיָּה֙ אֶל־הַיָּ֔ם לְהָקֵ֖ל מֵֽעֲלֵיהֶ֑ם וְיוֹנָ֗ה יָרַד֙ אֶל־יַרְכְּתֵ֣י הַסְּפִינָ֔ה וַיִּשְׁכַּ֖ב וַיֵּרָדַֽם׃",
+    "bsb_english": "The sailors were afraid, and each cried out to his own god. And they threw the ship’s cargo into the sea to lighten the load. But Jonah had gone down to the lowest part of the vessel, where he lay down and fell into a deep sleep.",
+    "translation": {
+      "thai": "พวกลูกเรือก็กลัวและร้องเรียกแต่ละคนต่อพระของตน เขาทั้งหลายโยนสินค้าในเรือลงทะเลเพื่อให้เรือเบาขึ้น แต่โยนาห์ได้ลงไปในส่วนล่างสุดของเรือ นอนหลับสนิท",
+      "thai_literal": "และพวกลูกเรือก็กลัว และพวกเขาร้องเรียกชายแต่ละคนต่อพระเจ้าของเขา และพวกเขาโยนเครื่องของที่อยู่ในเรือลงสู่ทะเล เพื่อให้เบาขึ้นจากพวกเขา และโยนาห์ได้ลงไปยังส่วนในสุดของเรือใหญ่ และเขานอนลงและเขาหลับสนิท",
+      "thai_summary": "ความขัดแย้งของฉาก — พวกลูกเรือต่างเชื้อชาติร้องเรียกพระของตนเองด้วยความตื่นตระหนกในยามที่เผชิญความตาย ในขณะที่ผู้พยากรณ์ของพระเจ้าเที่ยงแท้กลับนอนหลับสนิทอยู่ในส่วนล่างสุดของเรือ — เป็นภาพแห่งความเฉยเมยทางจิตวิญญาณ การ “ลง” ของโยนาห์ดำเนินต่อไป (ลงไปในชั้นในของเรือ) — เป็นการเดินทางลงสู่ความตายเชิงสัญลักษณ์ของท่าน คำว่า הַסְּפִינָה (เซฟินา, “เรือ/ส่วนในของเรือ”) เป็นคำที่ใช้เพียงครั้งเดียวในพันธสัญญาเดิม (hapax) — แตกต่างจาก אֳנִיָּה (อะนิยา, “เรือ”) ที่ใช้ใน vv.3, 4 — ส่วนใหญ่หมายถึงห้องชั้นในที่ปกคลุมของเรือ",
+      "key_decisions": [
+        {
+          "hebrew": "וַיִּירְאוּ הַמַּלָּחִים",
+          "thai": "พวกลูกเรือก็กลัว",
+          "rationale": "Per uW translate-unknown: הַמַּלָּחִים ('sailors') were men who worked on the ship to control sails and other tasks. Thai ลูกเรือ ('crew/sailors') is the standard modern equivalent. The verb יָרֵא ('fear') in this context = terror at the storm (preliminary terror); see v.10 and v.16 for the same root in religious-fear contexts. The same verb-root recurs as לְשׁוֹן יִרְאָה (cognate accusative 'feared a great fear') in vv.10 and 16 — see thai_summary chain across the chapter."
+        },
+        {
+          "hebrew": "אִישׁ אֶל־אֱלֹהָיו",
+          "thai": "แต่ละคนต่อพระของตน",
+          "rationale": "Per uW figs-idiom: the phrase 'a man to his god' is an idiom meaning each man cried out to his own god. Per uW figs-explicit: the author assumes that 'his god' here does NOT mean the true God Yahweh — the sailors are polytheistic Phoenicians/Aegean traders. Per ot_register_policy §3.1+§3.2: pagan deities use plain Thai (พระ-, not พระเจ้า which is reserved for YHWH). We render พระของตน ('his own god,' lowercase pi-prefix) — distinguishable from พระเจ้า ('God,' the true God of Israel)."
+        },
+        {
+          "hebrew": "הַסְּפִינָה",
+          "thai": "ส่วนล่างสุดของเรือ",
+          "rationale": "**HAPAX** in the OT (occurs only once, here in Jonah 1:5). Distinct from the common אֳנִיָּה ('ship,' used in vv.3, 4, 5a). סְפִינָה derives from a root שָׁפַן ('cover, conceal') — most likely refers to a covered/decked area of the ship, the inner hold or below-deck space. Modern Hebrew uses סְפִינָה generically for 'ship' (revived usage), but the biblical hapax sense is specifically 'covered area, lower deck.' Per uW translate-unknown: the ship is large enough to have at least one lower deck inside. Combined with the יַרְכְּתֵי ('innermost/recesses of') construct, this names the deepest interior space. We render with the specific ส่วนล่างสุดของเรือ ('the lowest part of the ship') to preserve the spatial emphasis (Jonah's continuing 'down' motion) and the hapax distinction from the common ship-word."
+        },
+        {
+          "hebrew": "וַיִּשְׁכַּב וַיֵּרָדַם",
+          "thai": "นอนหลับสนิท",
+          "rationale": "Per uW writing-background: this entire clause provides background — Jonah had already gone below and fallen asleep BEFORE the storm started; the sailors discover him asleep. The verb pair שָׁכַב ('lie down') + רָדַם (Niph'al, 'be in deep sleep, fall into a stupor') is emphatic — not just sleep but heavy unconsciousness. The same root נִרְדָּם returns in v.6 (the captain's question 'how can you be sleeping?'). We compress the doublet into Thai นอนหลับสนิท ('lay in deep sleep') as a natural Thai idiom; the temporal-background sense (had already gone down and fallen asleep) is implicit in the Thai narrative flow."
+        }
+      ],
+      "notes": "**HAPAX:** סְפִינָה (Jonah 1:5) — only OT occurrence. Likely from שָׁפַן ('cover, conceal'); refers to the covered/decked interior of the ship, distinct from the common אֳנִיָּה. Modern Hebrew adopted סְפִינָה for 'ship' generically (revived usage); the biblical sense is more specific. The verb-pair שָׁכַב + רָדַם is emphatic for 'deep unconsciousness'; sets up the captain's rebuke in v.6 with the same root נִרְדָּם. Per uW writing-background: the Jonah-asleep clause is temporal-background (Jonah had gone down before the storm started); flattened to Thai narrative flow without explicit temporal marker. Lexical chain ירד continues: Jonah 'went down' (יָרַד) to the lowest part of the ship — third 'down' in three verses, deepening the death-trajectory motif. Theological irony foregrounded in the chapter intro (uW): pagan sailors pray with intensity; Yahweh's prophet sleeps."
+    }
+  },
+  {
+    "reference": "Jonah 1:6",
+    "chapter": 1,
+    "verse": 6,
+    "language": "hebrew",
+    "hebrew": "וַיִּקְרַ֤ב אֵלָיו֙ רַ֣ב הַחֹבֵ֔ל וַיֹּ֥אמֶר ל֖וֹ מַה־לְּךָ֣ נִרְדָּ֑ם ק֚וּם קְרָ֣א אֶל־אֱלֹהֶ֔יךָ אוּלַ֞י יִתְעַשֵּׁ֧ת הָאֱלֹהִ֛ים לָ֖נוּ וְלֹ֥א נֹאבֵֽד׃",
+    "bsb_english": "The captain approached him and said, “How can you sleep? Get up and call upon your God. Perhaps this God will consider us, so that we may not perish.”",
+    "translation": {
+      "thai": "นายเรือเข้ามาหาท่านและกล่าวว่า “ท่านนอนหลับอยู่ได้อย่างไร จงลุกขึ้น ร้องเรียกพระของท่านเถิด บางทีพระเจ้าจะทรงคำนึงถึงเราและเราจะไม่พินาศ”",
+      "thai_literal": "และนายเรือเข้ามาใกล้เขา และเขากล่าวแก่เขาว่า “อะไรกับเจ้า ผู้หลับสนิท จงลุกขึ้น จงร้องเรียกต่อพระเจ้าของเจ้า บางทีพระเจ้าจะทรงคำนึงถึงเรา และเราจะไม่พินาศ”",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "רַב הַחֹבֵל",
+          "thai": "นายเรือ",
+          "rationale": "Per uW translate-unknown: רַב הַחֹבֵל = 'chief of the rope-pullers' = the captain in charge of the ship and crew. Hebrew רַב ('chief') + חֹבֵל (participle of חָבַל, 'pull on a rope, manage rigging'). Thai นายเรือ ('ship-master/captain') is the standard term — captures both the authority position and the maritime context."
+        },
+        {
+          "hebrew": "מַה־לְּךָ נִרְדָּם",
+          "thai": "ท่านนอนหลับอยู่ได้อย่างไร",
+          "rationale": "Per uW figs-rquestion: the captain uses the question form to scold Jonah; not seeking information. Per uW figs-idiom on מַה־לְּךָ: idiom expressing the speaker's objection to the addressee's behavior ('what is the matter with you'). The participle נִרְדָּם echoes vayyeradam in v.5 (same Niph'al root רָדַם) — lexical link tying the captain's question to the narrator's setup. Thai renders with the rebuke-question ท่านนอนหลับอยู่ได้อย่างไร ('how can you be sleeping?') — keeps the rhetorical-question force; Thai naturally tolerates the rhetorical-rebuke without conversion to imperative. Sailor-to-Jonah register: ท่าน (peer-respectful), per ot_register_policy §4 inter-human dialogue."
+        },
+        {
+          "hebrew": "קוּם קְרָא אֶל־אֱלֹהֶיךָ",
+          "thai": "จงลุกขึ้น ร้องเรียกพระของท่านเถิด",
+          "rationale": "Per uW note on קוּם at v.6: while in 1:2 and 1:3 the verb was the take-action idiom, here the captain is telling Jonah literally to get up from sleeping. We render literally with จงลุกขึ้น ('Get up!') — the Thai works for both the action-idiom and the literal sense; the context (Jonah is asleep) makes the literal sense unmistakable. Per uW figs-idiom: 'cry out to' = pray loudly. Per ot_register_policy §3.1: pagan-sailor reference to Jonah's god — uses plain pra-prefix (พระ ของท่าน, lowercase) since the captain is unknowingly referring to YHWH but as 'your god' from his polytheistic frame. The captain's word-choice is theologically ambiguous: he sees Jonah's god as one of many."
+        },
+        {
+          "hebrew": "אוּלַי יִתְעַשֵּׁת הָאֱלֹהִים לָנוּ",
+          "thai": "บางทีพระเจ้าจะทรงคำนึงถึงเรา",
+          "rationale": "The verb יִתְעַשֵּׁת is a hapax-rare Hithpael (only here and in some recensions of Dan 6:4) — likely 'consider, think upon, take account of.' Per uW figs-explicit: the implication is Jonah's god might not only notice but save them. Subject is הָאֱלֹהִים (with article — 'the God,' which can mean Israel's God specifically OR a generic-elevated 'the divinity'). The captain's syntactic shift from 'your god' (אֱלֹהֶיךָ, possessive, polytheistic frame) to 'the God' (הָאֱלֹהִים, articular) hints at deferential elevation — perhaps recognizing Jonah's god as more august than the multitude of polytheistic 'gods.' We render with the elevated พระเจ้า + royal-Thai ทรงคำนึงถึง — captures the captain's unconscious ascending recognition. Note: Thai use of พระเจ้า here is NOT a divine-name leak (per RULES §3 reservation for YHWH) — the article-bearing הָאֱלֹהִים is the most-elevated divine-reference Hebrew has, and warrants the elevated Thai. The captain's theological journey toward YHWH (climaxing in vv.14, 16) begins here."
+        },
+        {
+          "hebrew": "וְלֹא נֹאבֵד",
+          "thai": "และเราจะไม่พินาศ",
+          "rationale": "Per uW figs-doublenegatives: lo no'bed = 'and not we will perish' (negative + negative-verb). Thai keeps the literal negation 'will not perish' (จะไม่พินาศ) — natural Thai; the double-negative-as-positive rendering would lose the gravity. The verb אבד ('perish') appears 4× in this chapter (vv.6, 14, twice in 14: אַל־נָא נֹאבְדָה + נֹאבֵד implied in 1:14 calque) — a Leitwort of the storm-distress."
+        }
+      ],
+      "notes": "Note: יִתְעַשֵּׁת is a Hithpael of עָשַׁת that is hapax-rare in the OT (likely meaning 'take thought, consider'). Possibly an Aramaism. The captain's syntactic shift from 'your god' (אֱלֹהֶיךָ, polytheistic frame) to 'THE God' (הָאֱלֹהִים, articular-elevated) hints at unconscious deferential elevation — see v.6 KD. The participle נִרְדָּם echoes the narrator's wayyeradam at v.5: lexical link from the narrator's setup to the captain's rebuke. Verb אָבַד ('perish') is a Leitwort across vv.6 and 14 in Jonah 1 — sailors' fear of perishing frames the storm-distress, ultimately resolved in v.16."
+    }
+  },
+  {
+    "reference": "Jonah 1:7",
+    "chapter": 1,
+    "verse": 7,
+    "language": "hebrew",
+    "hebrew": "וַיֹּאמְר֞וּ אִ֣ישׁ אֶל־רֵעֵ֗הוּ לְכוּ֙ וְנַפִּ֣ילָה גֽוֹרָל֔וֹת וְנֵ֣דְעָ֔ה בְּשֶׁלְּמִ֛י הָרָעָ֥ה הַזֹּ֖את לָ֑נוּ וַיַּפִּ֨לוּ֙ גּֽוֹרָל֔וֹת וַיִּפֹּ֥ל הַגּוֹרָ֖ל עַל־יוֹנָֽה׃",
+    "bsb_english": "“Come!” said the sailors to one another. “Let us cast lots to find out who is responsible for this calamity that is upon us.” So they cast lots, and the lot fell on Jonah.",
+    "translation": {
+      "thai": "พวกเขาจึงพูดต่อกันว่า “มาเถิด ให้พวกเราจับสลากเพื่อจะได้รู้ว่าเหตุร้ายนี้เกิดขึ้นกับเราเพราะใคร” พวกเขาจึงจับสลาก และสลากตกที่โยนาห์",
+      "thai_literal": "และพวกเขากล่าวกัน ชายแต่ละคนต่อเพื่อนของเขาว่า “มาเถิด และให้พวกเราโยนสลาก และให้เราได้รู้ว่าเพราะใครเหตุร้ายนี้จึงมาถึงพวกเรา” และพวกเขาโยนสลาก และสลากตกที่โยนาห์",
+      "thai_summary": "การจับสลาก (גוֹרָל) เป็นวิธีปฏิบัติทั่วไปในตะวันออกใกล้โบราณเพื่อให้พระเจ้าทรงเปิดเผยพระประสงค์หรือคำตอบในเรื่องที่ไม่อาจตัดสินด้วยปัญญามนุษย์ — อาจใช้ก้อนหินหรือชิ้นไม้ที่ทำเครื่องหมาย พวกลูกเรือเชื่อว่าพระต่างๆจะควบคุมการตกของสลากเพื่อบอกความจริง อิสราเอลก็ใช้สลากในการแบ่งแผ่นดิน (โยชูวา 14, 18) การเลือกอัครสาวกแทนยูดาส (กิจการ 1:26) — แม้ในกรณีของลูกเรือต่างชาติ องค์พระผู้เป็นเจ้าทรงควบคุมผลเพื่อเปิดเผยตัวโยนาห์ — เป็นภาพของพระประธานสูงสุดของพระองค์เหนือทุกชนชาติ (เปรียบเทียบ สภษ 16:33)",
+      "key_decisions": [
+        {
+          "hebrew": "אִישׁ אֶל־רֵעֵהוּ",
+          "thai": "พูดต่อกัน",
+          "rationale": "Per uW figs-idiom: the phrase 'a man to his neighbor/friend' is an idiom expressing reciprocal action — the group together decided to do this. Thai natural rendering พูดต่อกัน ('spoke to one another') captures the reciprocal sense without the literal 'each man to his neighbor' which would sound stilted. Same idiom recurs in OT narrative; established Thai handling."
+        },
+        {
+          "hebrew": "לְכוּ וְנַפִּילָה גוֹרָלוֹת",
+          "thai": "มาเถิด ให้พวกเราจับสลาก",
+          "rationale": "Per uW figs-idiom on לְכוּ: 'Come' is a Hebrew idiom inviting the hearer to begin an action with the speaker; standard Thai equivalent มาเถิด. Per uW translate-unknown on גוֹרָל: we don't know the exact method (marked stones or wood pieces); it was their method of getting a god to answer a question. Thai standard for 'cast/draw lots' = จับสลาก; established in Thai Bible practice (Num 26:55, Josh 14:2, Ac 1:26 etc. all use จับสลาก). The verb is נַפִּילָה (Hiph'il cohortative of נָפַל, 'cause to fall'); the cohortative force is the 'let us' modal."
+        },
+        {
+          "hebrew": "וְנֵדְעָה בְּשֶׁלְּמִי הָרָעָה הַזֹּאת לָנוּ",
+          "thai": "เพื่อจะได้รู้ว่าเหตุร้ายนี้เกิดขึ้นกับเราเพราะใคร",
+          "rationale": "Per uW figs-explicit: the men believed the gods would control how the lots fell to reveal what they wanted to know — a form of divination. Per uW figs-explicit on הָרָעָה הַזֹּאת: the 'evil' here = the storm specifically (general term used for the storm-disaster). Thai เหตุร้าย ('calamity, evil event') captures the disaster sense; we don't add 'storm' explicitly because the Thai narrative context makes it clear. The pre-positional phrase בְּשֶׁלְּמִי is rare (a contracted form בְּ + שֶׁל + מִי — 'on account of whom'); Thai 'เพราะใคร' ('because of whom') captures the causal-attribution sense."
+        },
+        {
+          "hebrew": "וַיִּפֹּל הַגּוֹרָל עַל־יוֹנָה",
+          "thai": "และสลากตกที่โยนาห์",
+          "rationale": "Per uW figs-idiom: 'the lot fell on Jonah' is an idiom — the result indicated Jonah, not that the lot literally fell on him. We render literally (สลากตกที่โยนาห์) — Thai naturally accepts the literal-idiomatic sense ('the lot fell on Jonah' = 'the lot indicated Jonah'); same idiom is preserved in standard Thai biblical practice. The wayyiqtol וַיִּפֹּל is the third occurrence of נָפַל in this verse (cohort 'let us cause to fall' → 'and they caused them to fall' → 'and the lot fell') — a triple-recurrence marking the climax."
+        }
+      ],
+      "notes": "OT cross-reference: Proverbs 16:33 — 'The lot is cast into the lap, but its every decision is from YHWH.' This proverb is the theological frame for v.7: even Phoenician sailors casting lots for divination cannot escape YHWH's sovereign direction; the lot 'falling' on Jonah is YHWH's act through the sailors' polytheistic instrument. Cross-reference also Joshua 7:14–18 (Achan exposed by lot), Acts 1:26 (apostolic replacement). The Hebrew triple נָפַל (cohort 'let us cause to fall' → 'they caused them to fall' → 'and it fell') in this verse is a deliberate verbal piling-up culminating in the climactic identification of Jonah."
+    }
+  },
+  {
+    "reference": "Jonah 1:8",
+    "chapter": 1,
+    "verse": 8,
+    "language": "hebrew",
+    "hebrew": "וַיֹּאמְר֣וּ אֵלָ֔יו הַגִּידָה־נָּ֣א לָ֔נוּ בַּאֲשֶׁ֛ר לְמִי־הָרָעָ֥ה הַזֹּ֖את לָ֑נוּ מַה־מְּלַאכְתְּךָ֙ וּמֵאַ֣יִן תָּב֔וֹא מָ֣ה אַרְצֶ֔ךָ וְאֵֽי־מִזֶּ֥ה עַ֖ם אָֽתָּה׃",
+    "bsb_english": "“Tell us now,” they demanded, “who is to blame for this calamity that is upon us? What is your occupation, and where have you come from? What is your country, and who are your people?”",
+    "translation": {
+      "thai": "พวกเขาจึงถามท่านว่า “จงบอกพวกเราเถิดว่า เหตุร้ายนี้เกิดขึ้นกับเราเพราะใคร อาชีพของท่านคืออะไร ท่านมาจากที่ไหน บ้านเมืองของท่านอยู่ที่ใด และท่านมาจากชนชาติใด”",
+      "thai_literal": "และพวกเขากล่าวแก่เขาว่า “จงบอกพวกเราเถิดว่า เพราะอะไรเหตุร้ายนี้จึงมาถึงพวกเรา อะไรคืองานของเจ้า และเจ้ามาจากไหน อะไรคือแผ่นดินของเจ้า และเจ้ามาจากชนชาติใด”",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "וַיֹּאמְרוּ אֵלָיו",
+          "thai": "พวกเขาจึงถามท่าน",
+          "rationale": "Per uW writing-pronouns: 'they' refers to the sailors (referred to as 'every man' in v.7); 'him' refers to Jonah. Thai sentence structure makes the antecedents clear by retaining the noun (พวกเขา ↔ ท่าน). The verb אָמַר here is interrogatory ('they said' = 'they asked' in context); we render ถาม ('ask') for Thai naturalness — the rapid-fire question battery confirms the inquisitorial speech-act."
+        },
+        {
+          "hebrew": "הַגִּידָה־נָּא לָנוּ בַּאֲשֶׁר לְמִי־הָרָעָה הַזֹּאת לָנוּ",
+          "thai": "จงบอกพวกเราเถิดว่า เหตุร้ายนี้เกิดขึ้นกับเราเพราะใคร",
+          "rationale": "Per uW figs-explicit: the sailors are asking Jonah to tell them who is responsible for the storm. The Hiph'il cohortative-imperative הַגִּידָה ('do tell!') with נָּא (entreating particle, often translated 'please') is urgent demand. Thai 'จงบอก...เถิด' captures the imperative + entreating sense. The opening question repeats v.7's 'who is to blame for this evil' — the lot has identified Jonah, but they want oral confession. The phrase בַּאֲשֶׁר לְמִי is a doubled-prepositional construction ('with-which to-whom'), unusual; renders smoothly in Thai as เพราะใคร."
+        },
+        {
+          "hebrew": "מַה־מְּלַאכְתְּךָ וּמֵאַיִן תָּבוֹא מָה אַרְצֶךָ וְאֵי־מִזֶּה עַם אָתָּה",
+          "thai": "อาชีพของท่านคืออะไร ท่านมาจากที่ไหน บ้านเมืองของท่านอยู่ที่ใด และท่านมาจากชนชาติใด",
+          "rationale": "Four rapid-fire questions: occupation (מְלָאכָה), origin (מֵאַיִן), country (אֶרֶץ), people (עַם). The escalating demographic interrogation reflects the sailors' urgency — they want to know exactly who Jonah is so they can identify which deity might be angry with him. Thai preserves the four-question structure with parallel interrogative particles (อะไร, ที่ไหน, ที่ใด, ใด) — natural Thai narrative tolerates the rapid-fire pattern. Sailor-to-Jonah register: ท่าน (peer-respectful, third-person address by the sailors) per ot_register_policy §4."
+        }
+      ],
+      "notes": "The four-question demographic interrogation is rhetorically escalating — sailors trying to triangulate which deity Jonah's flight has offended. Per uW: this is functional, not just cultural — in polytheistic seafaring, knowing a passenger's origin meant knowing which god to placate. The interrogation sets up Jonah's confession in v.9 (Hebrew + YHWH-worshiper), which exposes the cosmic mismatch (sea-god of Phoenicia vs. Creator-of-sea-and-dry-land)."
+    }
+  },
+  {
+    "reference": "Jonah 1:9",
+    "chapter": 1,
+    "verse": 9,
+    "language": "hebrew",
+    "hebrew": "וַיֹּ֥אמֶר אֲלֵיהֶ֖ם עִבְרִ֣י אָנֹ֑כִי וְאֶת־יְהוָ֞ה אֱלֹהֵ֤י הַשָּׁמַ֨יִם֙ אֲנִ֣י יָרֵ֔א אֲשֶׁר־עָשָׂ֥ה אֶת־הַיָּ֖ם וְאֶת־הַיַּבָּשָֽׁה׃",
+    "bsb_english": "“I am a Hebrew,” replied Jonah. “I worship the LORD, the God of the heavens, who made the sea and the dry land.”",
+    "translation": {
+      "thai": "ท่านตอบพวกเขาว่า “ข้าพเจ้าเป็นคนฮีบรู ข้าพเจ้านับถือองค์พระผู้เป็นเจ้า พระเจ้าแห่งฟ้าสวรรค์ ผู้ทรงสร้างทะเลและแผ่นดินแห้ง”",
+      "thai_literal": "และเขากล่าวแก่พวกเขาว่า “ฮีบรูข้าพเจ้าเอง และองค์พระผู้เป็นเจ้า พระเจ้าแห่งฟ้าสวรรค์ ข้าพเจ้ายำเกรง ผู้ซึ่งทรงสร้างทะเลและแผ่นดินแห้ง”",
+      "thai_summary": "คำสารภาพของโยนาห์เป็นจุดศูนย์กลางทางเทววิทยาของบทนี้ — ท่านสารภาพว่า องค์พระผู้เป็นเจ้า (ยาห์เวห์) ทรงเป็น “พระเจ้าแห่งฟ้าสวรรค์” และเป็นผู้สร้างทะเล อันเป็นสิ่งที่พวกลูกเรือต่างชาติกำลังเผชิญหน้าอยู่ในขณะนี้ ความขัดแย้งคือ — ผู้พยากรณ์ที่นมัสการพระเจ้าผู้สร้างทะเล กลับพยายามหนีจากพระองค์โดยทางทะเล สำนวน “ยำเกรงองค์พระผู้เป็นเจ้า” (יָרֵא אֶת־יְהוָה) เป็นวลีปกติของพันธสัญญาเดิมที่หมายถึง “นมัสการ/รับใช้องค์พระผู้เป็นเจ้า” (เปรียบเทียบ ปฐก 22:12, 2 พกษ 17:32–33) — ไม่ใช่แค่กลัว แต่หมายถึงความเคารพยำเกรงเชิงพันธสัญญา",
+      "key_decisions": [
+        {
+          "hebrew": "עִבְרִי אָנֹכִי",
+          "thai": "ข้าพเจ้าเป็นคนฮีบรู",
+          "rationale": "Hebrew identity-confession: עִבְרִי ('Hebrew') is the ethnonym used in dialogue with foreigners (Gen 14:13 Abraham; Gen 39:14, 17 Joseph in Egypt; Ex 1:15-19 the Hebrew midwives; 1 Sam 4:6-9 the Philistines). Thai ฮีบรู is the standard transliteration. The fronted אָנֹכִי ('I, myself' — emphatic 1sg pronoun, more emphatic than אֲנִי) signals first-person assertive identity. Standard Thai ข้าพเจ้า matches Pauline-style first-person prayer/confession register per ot_register_policy §1.5."
+        },
+        {
+          "hebrew": "וְאֶת־יְהוָה אֱלֹהֵי הַשָּׁמַיִם אֲנִי יָרֵא",
+          "thai": "ข้าพเจ้านับถือองค์พระผู้เป็นเจ้า พระเจ้าแห่งฟ้าสวรรค์",
+          "rationale": "Per uW figs-idiom on יָרֵא: 'I fear Yahweh' is an idiom = 'I worship Yahweh and not any other god.' The Hebrew ירא ('fear') with deity as direct-object marker (אֶת־) carries the cult-relational sense ('be a worshiper of'), distinguishing from raw terror. Thai 'นับถือ' ('revere, hold in religious awe') captures the worship-relation; we choose นับถือ over ยำเกรง here for first-person confession to outsiders — נับถือ communicates 'this is my religion' more naturally to non-Yahweh-worshipers. Per divine_names_table_2026-05.md: יהוה → องค์พระผู้เป็นเจ้า; אֱלֹהִים → พระเจ้า; the compound construct אֱלֹהֵי הַשָּׁמַיִם → 'พระเจ้าแห่งฟ้าสวรรค์' = 'God of the heavens.' This title for YHWH is characteristically post-exilic in attestation (Ezra 1:2, 5:11-12, 6:9-10; Neh 1:4-5, 2:4; Dan 2:18-19, 37, 44 — common in Aramaic) — its appearance in Jonah is one data-point in the dating discussion (some scholars argue late-monarchic, others post-exilic Jonah composition)."
+        },
+        {
+          "hebrew": "אֲשֶׁר־עָשָׂה אֶת־הַיָּם וְאֶת־הַיַּבָּשָׁה",
+          "thai": "ผู้ทรงสร้างทะเลและแผ่นดินแห้ง",
+          "rationale": "Creator-formula echoing Gen 1:9-10 (the Day-3 separation of waters and dry land). The pair הַיָּם ('the sea') + הַיַּבָּשָׁה ('the dry land') is the Hebrew merism for cosmic-totality. Per ot_register_policy §1.1: divine actions take ทรง- royal-Thai prefix → ทรงสร้าง ('royally created'). The clause is the punchline of Jonah's confession — he flees from the very God who created the sea on which he is now fleeing. Theological irony fully exposed."
+        }
+      ],
+      "notes": "Theological climax of the chapter: Jonah's confession exposes the absurdity of his flight — fleeing across the very element (sea) that the God he worships created. The title 'God of heaven' (אֱלֹהֵי הַשָּׁמַיִם) is characteristically post-exilic in frequency (Ezra/Neh/Dan dominant); its appearance here is a datapoint in the Jonah composition-dating discussion but not decisive. The merism הַיָּם וְהַיַּבָּשָׁה ('sea and dry land') echoes Gen 1:9-10 — the Day-3 separation. The OT-citation thread in this verse: NOT a direct quotation but a creation-allusion; record in nt_ot_citations.json or hebrew-internal echoes file as needed (the OT-internal echo registry may not yet exist; flagged in chapter-level notes here)."
+    }
+  },
+  {
+    "reference": "Jonah 1:10",
+    "chapter": 1,
+    "verse": 10,
+    "language": "hebrew",
+    "hebrew": "וַיִּֽירְא֤וּ הָֽאֲנָשִׁים֙ יִרְאָ֣ה גְדוֹלָ֔ה וַיֹּאמְר֥וּ אֵלָ֖יו מַה־זֹּ֣את עָשִׂ֑יתָ כִּֽי־יָדְע֣וּ הָאֲנָשִׁ֗ים כִּֽי־מִלִּפְנֵ֤י יְהוָה֙ ה֣וּא בֹרֵ֔חַ כִּ֥י הִגִּ֖יד לָהֶֽם׃",
+    "bsb_english": "Then the men were even more afraid and said to him, “What have you done?” The men knew that he was fleeing from the presence of the LORD, because he had told them.",
+    "translation": {
+      "thai": "พวกลูกเรือกลัวอย่างยิ่ง และกล่าวกับท่านว่า “ทำไมท่านทำเช่นนี้” พวกเขารู้แล้วว่าท่านกำลังหนีจากเบื้องพระพักตร์ขององค์พระผู้เป็นเจ้า เพราะท่านได้บอกพวกเขาเอง",
+      "thai_literal": "และพวกชายเหล่านั้นกลัวด้วยความกลัวที่ยิ่งใหญ่ และพวกเขากล่าวแก่เขาว่า “อะไรนี้ที่เจ้าได้ทำ” เพราะพวกชายเหล่านั้นรู้ว่าเขากำลังหนีจากเบื้องพระพักตร์ขององค์พระผู้เป็นเจ้า เพราะเขาบอกพวกเขาแล้ว",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "וַיִּירְאוּ הָאֲנָשִׁים יִרְאָה גְדוֹלָה",
+          "thai": "พวกลูกเรือกลัวอย่างยิ่ง",
+          "rationale": "Per uW writing-poetry: 'feared a great fear' is an emphatic Hebrew construction using a verb + cognate-noun object both from the same root (ירא + יראה). This is intensification by lexical doubling. Per Mark 5:42 cognate-accusative precedent (glossary entry: 'Cognate accusative pattern' → use Thai adverbial intensification rather than verbal repetition, which sounds clumsy in Thai). Thai 'กลัวอย่างยิ่ง' ('feared exceedingly') matches the established pattern. SAME CONSTRUCTION recurs in v.16 with different theological force (terror → awe-worship); see v.16 KD for parallel handling."
+        },
+        {
+          "hebrew": "מַה־זֹּאת עָשִׂיתָ",
+          "thai": "ทำไมท่านทำเช่นนี้",
+          "rationale": "Per uW figs-rquestion: rhetorical question expressing the sailors' fear and anger that Jonah caused so much trouble. Not an information-question. Thai 'ทำไมท่านทำเช่นนี้' ('Why have you done this?') preserves the rhetorical-rebuke force. The phrase מַה־זֹּאת עָשִׂיתָ is a stock OT idiom of righteous shock (Gen 3:13 God to Eve; Gen 12:18, 26:10 Pharaoh/Abimelech to Abraham/Isaac; Gen 29:25 Laban to Jacob; Ex 14:11 Israel to Moses) — invariably from the wronged party to the wrongdoer. Pagan sailors here adopt the OT-Israelite voice of moral rebuke against an Israelite — situational irony again."
+        },
+        {
+          "hebrew": "כִּי־יָדְעוּ הָאֲנָשִׁים כִּי־מִלִּפְנֵי יְהוָה הוּא בֹרֵחַ כִּי הִגִּיד לָהֶם",
+          "thai": "พวกเขารู้แล้วว่าท่านกำลังหนีจากเบื้องพระพักตร์ขององค์พระผู้เป็นเจ้า เพราะท่านได้บอกพวกเขาเอง",
+          "rationale": "Per uW grammar-connect-time-background + figs-infostructure: this is background info — Jonah HAD ALREADY told the sailors he was running from YHWH (probably during/after the v.9 confession) BEFORE they reacted with great fear. The Hebrew word-order ends the verse with the explanatory 'because he had told them'; uW notes English translations sometimes invert the order for clarity. We follow the Hebrew order, but Thai 'พวกเขารู้แล้วว่า' ('they had already known that') uses the Thai aspectual marker แล้ว to convey the past-perfect / background sense — natural Thai handling of pluperfect-equivalence. The doubled mi-lifney YHWH (cf. v.3) caps the Leitmotiv of fleeing-from-YHWH's-presence. Per hebrew_idioms_and_metaphor §1.2: preserve the anthropomorphic 'face of YHWH' = พระพักตร์ขององค์พระผู้เป็นเจ้า."
+        }
+      ],
+      "notes": "The cognate-accusative יִרְאָה גְדוֹלָה structure recurs in v.16, with the same lexical form but a different theological loading: in v.10 the 'great fear' is terror-of-storm-and-divine-displeasure; in v.16, after the storm calms, the same cognate-accusative form expresses religious awe / worship. Translation must preserve the lexical link while letting context disambiguate. Per uW chapter intro: pagan sailors voicing the OT-stock rebuke 'What have you done?' (מַה־זֹּאת עָשִׂיתָ) is dramatic situational-irony — the stock idiom (Gen 3:13, 12:18, 26:10, 29:25, Ex 14:11) is always wronged-party against wrongdoer; here Phoenicians wield it against the Hebrew prophet, reversing expected piety."
+    }
+  },
+  {
+    "reference": "Jonah 1:11",
+    "chapter": 1,
+    "verse": 11,
+    "language": "hebrew",
+    "hebrew": "וַיֹּאמְר֤וּ אֵלָיו֙ מַה־נַּ֣עֲשֶׂה לָּ֔ךְ וְיִשְׁתֹּ֥ק הַיָּ֖ם מֵֽעָלֵ֑ינוּ כִּ֥י הַיָּ֖ם הוֹלֵ֥ךְ וְסֹעֵֽר׃",
+    "bsb_english": "Now the sea was growing worse and worse, so they said to Jonah, “What must we do to you to calm this sea for us?”",
+    "translation": {
+      "thai": "พวกเขาจึงถามท่านว่า “เราจะทำอย่างไรกับท่าน เพื่อทะเลจะสงบลงให้พวกเรา” เพราะทะเลกำลังคลั่งหนักขึ้นเรื่อยๆ",
+      "thai_literal": "และพวกเขากล่าวแก่เขาว่า “เราจะทำอะไรกับเจ้า เพื่อทะเลจะหยุดจากพวกเรา” เพราะทะเลกำลังเดินไปและคลั่ง",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "מַה־נַּעֲשֶׂה לָּךְ",
+          "thai": "เราจะทำอย่างไรกับท่าน",
+          "rationale": "First-person plural cohortative-imperfect 'what shall we do to/for you?' The sailors are asking Jonah, who knows YHWH's mind on this matter, what countermeasure will placate the divine wrath. Thai 'เราจะทำอย่างไรกับท่าน' = 'what shall we do to you' — preserves the deliberative-future force. Sailor-to-Jonah register: ท่าน (peer-respectful) per ot_register_policy §4."
+        },
+        {
+          "hebrew": "וְיִשְׁתֹּק הַיָּם מֵעָלֵינוּ",
+          "thai": "เพื่อทะเลจะสงบลงให้พวกเรา",
+          "rationale": "Per uW figs-idiom: שָׁתַק ('be silent/quiet') applied to the sea = 'become calm.' מֵעָלֵינוּ ('from upon us') is the Hebrew benefactive-prepositional 'for our benefit' (i.e., 'to remove the threat from us'). Thai 'สงบลงให้พวกเรา' ('to calm for us') captures both the calming-of-sea and the for-our-sake benefactive. Same idiom recurs in v.12 — preserve identical Thai phrasing."
+        },
+        {
+          "hebrew": "כִּי הַיָּם הוֹלֵךְ וְסֹעֵר",
+          "thai": "เพราะทะเลกำลังคลั่งหนักขึ้นเรื่อยๆ",
+          "rationale": "Per uW figs-idiom: הוֹלֵךְ וְסֹעֵר = 'going forward and storming' — Hebrew idiom for progressive intensification ('was becoming increasingly stormy'). The pattern הָלַךְ + verb is Hebrew's standard way of expressing continuous-progressive action. Thai 'หนักขึ้นเรื่อยๆ' ('becoming heavier and heavier') is the natural Thai equivalent of Hebrew progressive intensification. Same idiom recurs in v.13."
+        }
+      ],
+      "notes": "Hebrew progressive-intensification idiom הָלַךְ + verb (literally 'walked and Xed' = 'kept getting more X') is a stylistic feature of Hebrew narrative; recurs in v.13 (preserve identical Thai handling) and is also seen in 1 Sam 14:19, 17:41 etc. The same שָׁתַק idiom for sea-calming repeats at v.12 and v.15 (where it is the actual fulfillment); maintain Thai consistency."
+    }
+  },
+  {
+    "reference": "Jonah 1:12",
+    "chapter": 1,
+    "verse": 12,
+    "language": "hebrew",
+    "hebrew": "וַיֹּ֣אמֶר אֲלֵיהֶ֗ם שָׂא֨וּנִי֙ וַהֲטִילֻ֣נִי אֶל־הַיָּ֔ם וְיִשְׁתֹּ֥ק הַיָּ֖ם מֵֽעֲלֵיכֶ֑ם כִּ֚י יוֹדֵ֣עַ אָ֔נִי כִּ֣י בְשֶׁלִּ֔י הַסַּ֧עַר הַגָּד֛וֹל הַזֶּ֖ה עֲלֵיכֶֽם׃",
+    "bsb_english": "“Pick me up,” he answered, “and cast me into the sea, so it may quiet down for you. For I know that I am to blame for this violent storm that has come upon you.”",
+    "translation": {
+      "thai": "ท่านตอบเขาว่า “จงจับข้าพเจ้าโยนลงในทะเล แล้วทะเลจะสงบลงให้พวกท่าน เพราะข้าพเจ้ารู้ว่า พายุใหญ่นี้ที่เกิดขึ้นกับพวกท่านเป็นเพราะข้าพเจ้า”",
+      "thai_literal": "และเขากล่าวแก่พวกเขาว่า “จงยกข้าพเจ้าขึ้นและจงโยนข้าพเจ้าลงสู่ทะเล และทะเลจะหยุดจากพวกท่าน เพราะข้าพเจ้ารู้ว่า เพราะข้าพเจ้านี้ พายุใหญ่นี้จึงอยู่เหนือพวกท่าน”",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "שָׂאוּנִי וַהֲטִילֻנִי אֶל־הַיָּם",
+          "thai": "จงจับข้าพเจ้าโยนลงในทะเล",
+          "rationale": "Two imperatives: שָׂאוּנִי ('lift me up,' Qal imperative + 1sg suffix) + וַהֲטִילֻנִי ('and hurl me,' Hiph'il imperative of טוּל with 1sg suffix). The verb טוּל reappears (cf. v.4 God hurled wind, v.5 sailors hurled cargo, v.15 sailors hurl Jonah). Thai compresses the doublet into 'จงจับ...โยนลง' ('seize and hurl down') — preserves the action-pair without word-for-word literalism. The use of the same hurl-verb (טוּל) ties the four moments of the storm: wind hurled by God; cargo hurled by sailors; Jonah's request to be hurled; Jonah finally hurled. Lexical-chain preserved with Thai โยน throughout."
+        },
+        {
+          "hebrew": "כִּי בְשֶׁלִּי הַסַּעַר הַגָּדוֹל הַזֶּה עֲלֵיכֶם",
+          "thai": "เพราะข้าพเจ้ารู้ว่า พายุใหญ่นี้ที่เกิดขึ้นกับพวกท่านเป็นเพราะข้าพเจ้า",
+          "rationale": "Jonah's self-confession: בְשֶׁלִּי = 'on account of me / because of me' (the same construction as the sailors' question in v.7 בְּשֶׁלְּמִי, 'on account of whom?' — Jonah supplies the answer: 'on account of me'). Thai 'เป็นเพราะข้าพเจ้า' captures the causal-self-attribution. Jonah-to-sailors register: speaks in first-person ข้าพเจ้า, addresses sailors with พวกท่าน (plural-respectful) per ot_register_policy §4. סַעַר ('storm') is the same word as v.4 סַעַר־גָּדוֹל ('great storm') — lexical link from the divinely-hurled-wind to the storm Jonah now identifies as judgment-on-himself."
+        }
+      ],
+      "notes": "Lexical chain confirmation: טוּל ('hurl') across vv.4, 5, 12, 15 — God hurled wind; sailors hurled cargo; Jonah asks to be hurled; sailors hurl Jonah. Thai โยน preserved at every occurrence. Jonah's vicarious-substitution offer (one death to save many) is theologically rich — anticipates the Christ-pattern of innocent sacrifice for a corporate body, though here Jonah is not innocent (his own sin caused the storm). The OT-internal echo: Jonah's offer foreshadows Caiaphas's unwitting prophecy of Jesus's substitutionary death (John 11:50, 'one man should die for the people'). Within the storyworld, Jonah's offer reflects awareness that his own death is the just cost of his rebellion."
+    }
+  },
+  {
+    "reference": "Jonah 1:13",
+    "chapter": 1,
+    "verse": 13,
+    "language": "hebrew",
+    "hebrew": "וַיַּחְתְּר֣וּ הָאֲנָשִׁ֗ים לְהָשִׁ֛יב אֶל־הַיַּבָּשָׁ֖ה וְלֹ֣א יָכֹ֑לוּ כִּ֣י הַיָּ֔ם הוֹלֵ֥ךְ וְסֹעֵ֖ר עֲלֵיהֶֽם׃",
+    "bsb_english": "Nevertheless, the men rowed hard to get back to dry land, but they could not, for the sea was raging against them more and more.",
+    "translation": {
+      "thai": "ถึงกระนั้นพวกลูกเรือก็พายเรืออย่างสุดกำลังเพื่อจะกลับสู่ฝั่ง แต่พวกเขาทำไม่ได้ เพราะทะเลกำลังคลั่งหนักขึ้นเรื่อยๆ ต่อพวกเขา",
+      "thai_literal": "และพวกชายเหล่านั้นพยายามแหวกน้ำเพื่อจะกลับไปยังแผ่นดินแห้ง แต่พวกเขาไม่สามารถทำได้ เพราะทะเลกำลังเดินไปและคลั่งเหนือพวกเขา",
+      "thai_summary": "พวกลูกเรือต่างชาติแสดงความเมตตาที่น่าทึ่ง — แม้รู้ว่าโยนาห์เป็นต้นเหตุของพายุและท่านยังบอกให้โยนเขาลงทะเลเอง พวกเขาก็ยังพยายามอย่างสุดกำลังที่จะช่วยชีวิตท่านโดยพยายามกลับสู่ฝั่ง แทนที่จะโยนท่านลงทะเลในทันที ความเมตตาของพวกเขาที่มีต่อโยนาห์เปรียบเทียบกันอย่างเห็นได้ชัดกับการที่โยนาห์ไม่มีความเมตตาต่อชาวนีนะเวห์ (เปรียบเทียบบทที่ 4) — ผู้พยากรณ์ชาวยิวไม่ต้องการให้คนต่างชาติได้รับพระเมตตา แต่คนต่างชาติกลับแสดงพระเมตตาต่อผู้พยากรณ์ที่ดื้อรั้น",
+      "key_decisions": [
+        {
+          "hebrew": "וַיַּחְתְּרוּ הָאֲנָשִׁים",
+          "thai": "พวกลูกเรือก็พายเรืออย่างสุดกำลัง",
+          "rationale": "חָתַר Qal: literally 'dig, break through' — used metaphorically here for 'rowed hard' (digging the oars into the water). Per uW figs-explicit: the implication is that the sailors did not WANT to throw Jonah into the sea, so they tried to row back to land instead. Thai 'พายเรืออย่างสุดกำลัง' ('rowed with all their strength') captures the intensified-effort sense. The Hebrew imperfect וַיַּחְתְּרוּ + their goal (לְהָשִׁיב אֶל־הַיַּבָּשָׁה, 'to return to dry land') — a humanitarian effort to spare Jonah."
+        },
+        {
+          "hebrew": "וְלֹא יָכֹלוּ",
+          "thai": "แต่พวกเขาทำไม่ได้",
+          "rationale": "Brief negation: 'but they could not.' Thai 'แต่พวกเขาทำไม่ได้' is the natural rendering. The Hebrew יָכֹל ('be able') is the standard verb of ability/possibility; the negation here = 'fail.' Marks the futility of human effort against divinely-sent storm — even maximal humanitarian energy cannot reverse YHWH's pursuing judgment."
+        },
+        {
+          "hebrew": "כִּי הַיָּם הוֹלֵךְ וְסֹעֵר עֲלֵיהֶם",
+          "thai": "เพราะทะเลกำลังคลั่งหนักขึ้นเรื่อยๆ ต่อพวกเขา",
+          "rationale": "Same progressive-intensification idiom as v.11 — preserved with identical Thai phrasing 'หนักขึ้นเรื่อยๆ' for verbal echo. Added phrase 'ต่อพวกเขา' (עֲלֵיהֶם, 'against them') intensifies the personification of the sea as adversary now actively opposing the sailors' rescue effort."
+        }
+      ],
+      "notes": "The sailors' humanitarian effort is theologically loaded: pagan strangers exhibit costly mercy toward the Hebrew prophet who has put them in mortal danger — counterpoint to Jonah's own refusal (chs. 3-4) to let YHWH show mercy to Nineveh. The book's 'mercy reversal' theme is set up here: Gentiles act mercifully toward Jonah; Jonah resents YHWH's mercy toward Gentiles. Hebrew progressive-intensification idiom הוֹלֵךְ וְסֹעֵר preserved with identical Thai phrasing as v.11 for inter-verse cohesion."
+    }
+  },
+  {
+    "reference": "Jonah 1:14",
+    "chapter": 1,
+    "verse": 14,
+    "language": "hebrew",
+    "hebrew": "וַיִּקְרְא֨וּ אֶל־יְהוָ֜ה וַיֹּאמְר֗וּ אָנָּ֤ה יְהוָה֙ אַל־נָ֣א נֹאבְדָ֗ה בְּנֶ֨פֶשׁ֙ הָאִ֣ישׁ הַזֶּ֔ה וְאַל־תִּתֵּ֥ן עָלֵ֖ינוּ דָּ֣ם נָקִ֑יא כִּֽי־אַתָּ֣ה יְהוָ֔ה כַּאֲשֶׁ֥ר חָפַ֖צְתָּ עָשִֽׂיתָ׃",
+    "bsb_english": "So they cried out to the LORD: “Please, O LORD, do not let us perish on account of this man’s life! Do not charge us with innocent blood! For You, O LORD, have done as You pleased.”",
+    "translation": {
+      "thai": "ดังนั้น พวกเขาจึงร้องเรียกองค์พระผู้เป็นเจ้าและกล่าวว่า “ข้าแต่องค์พระผู้เป็นเจ้า ขออย่าให้พวกข้าพระองค์ต้องพินาศเพราะชีวิตของชายผู้นี้เลย และขออย่าทรงให้โทษโลหิตอันไร้ผิดตกอยู่กับพวกข้าพระองค์ เพราะพระองค์ทรงเป็นองค์พระผู้เป็นเจ้า ทรงกระทำตามที่ทรงพอพระทัย”",
+      "thai_literal": "และพวกเขาร้องเรียกต่อองค์พระผู้เป็นเจ้าและพวกเขากล่าวว่า “อา ข้าแต่องค์พระผู้เป็นเจ้า ขออย่าให้พวกข้าพระองค์ตายเพราะชีวิตของชายคนนี้นี้ และขออย่าทรงให้โลหิตที่ไร้ผิดตกอยู่บนพวกข้าพระองค์ เพราะพระองค์ องค์พระผู้เป็นเจ้า ตามที่พระองค์ทรงพอพระทัย พระองค์ก็ทรงกระทำ”",
+      "thai_summary": "การละเมิดความคาดหมายอย่างน่าทึ่ง — ลูกเรือต่างชาติที่เพิ่งร้องเรียกพระของตน (v.5) บัดนี้ร้องเรียกพระยาห์เวห์โดยตรง พวกเขาเรียกพระองค์โดยพระนามและใช้ภาษาวิงวอนเชิงพันธสัญญา (אָנָּה יְהוָה — “อา ข้าแต่องค์พระผู้เป็นเจ้า”) ที่พบบ่อยในการอธิษฐานวิงวอนของอิสราเอล (เปรียบเทียบ ปฐก 50:17, อพย 32:31, ดนล 9:4 เป็นต้น) นอกจากนี้ พวกเขายังใช้แนวคิดเรื่อง “โลหิตอันไร้ผิด” (דָּם נָקִיא) ซึ่งเป็นภาษาเชิงกฎหมายของพันธสัญญาเดิมที่บ่งบอกถึงความรับผิดชอบทางศีลธรรมของผู้สังหาร (เปรียบเทียบ ฉธบ 21:1–9) — ลูกเรือต่างชาติเข้าใจหลักการแห่งความชอบธรรมของอิสราเอลโดยสัญชาตญาณ บัดนี้พวกเขายอมรับอำนาจอธิปไตยขององค์พระผู้เป็นเจ้าอย่างสิ้นเชิง — เป็นการกลับใจขั้นต้น",
+      "key_decisions": [
+        {
+          "hebrew": "וַיִּקְרְאוּ אֶל־יְהוָה",
+          "thai": "พวกเขาจึงร้องเรียกองค์พระผู้เป็นเจ้า",
+          "rationale": "Per uW grammar-connect-logic-result on the wayyiqtol opening: 'So' indicates that what follows is a result of what came before. Thai 'ดังนั้น' ('thus, therefore') marks the connective. Critical theological shift: the same verb קָרָא (cry out/call) that the sailors used 'each to his own god' (v.5) is now used with YHWH as the recipient. The narrative arc from polytheistic crying-out to monotheistic prayer is completed in this verbal echo."
+        },
+        {
+          "hebrew": "אָנָּה יְהוָה",
+          "thai": "ข้าแต่องค์พระผู้เป็นเจ้า",
+          "rationale": "Per uW figs-exclamations: אָנָּה ('Ah! / O please!') is an exclamation of intense desperation; OT pleading-formula (Gen 50:17 Joseph's brothers; Ex 32:31 Moses; 2 Kgs 20:3 Hezekiah; Neh 1:5,11 Nehemiah; Dan 9:4; Ps 116:4, 16; 118:25). Per ot_register_policy §1.5: lament-voice vocative-to-God = ข้าแต่องค์พระผู้เป็นเจ้า (deferential vocative + Tetragrammaton). The Thai vocative ข้าแต่ matches the Hebrew אָנָּה formula's deferential intensity. Notable: pagan Phoenician sailors using a stock-Hebraic prayer formula — narratively the most striking moment of their conversion-trajectory."
+        },
+        {
+          "hebrew": "אַל־נָא נֹאבְדָה בְּנֶפֶשׁ הָאִישׁ הַזֶּה",
+          "thai": "ขออย่าให้พวกข้าพระองค์ต้องพินาศเพราะชีวิตของชายผู้นี้เลย",
+          "rationale": "Per uW figs-explicit: 'the life of this man' here = 'taking the life of this man' (i.e., 'do not destroy us BECAUSE we are about to take this man's life'). The Hebrew preposition בְּ + נֶפֶשׁ has the causal-equivalent sense ('on account of the life of'). The cohortative נֹאבְדָה ('let us not perish') with the entreating particle נָא — 'please do not let us perish' — is the standard Hebrew supplication pattern. The verb אבד echoes v.6 (the captain's hope — 'we will not perish') and v.10 (sailors' fear) — third occurrence in this Leitwort chain. Sailors-to-YHWH register: ข้าพระองค์ (humblest deferential 1pl), per ot_register_policy §4. Per hebrew_idioms_and_metaphor §3.4 on נֶפֶשׁ: here = 'life-as-such' = ชีวิต."
+        },
+        {
+          "hebrew": "וְאַל־תִּתֵּן עָלֵינוּ דָּם נָקִיא",
+          "thai": "และขออย่าทรงให้โทษโลหิตอันไร้ผิดตกอยู่กับพวกข้าพระองค์",
+          "rationale": "Per uW figs-idiom: 'do not put innocent blood upon us' = 'do not consider us guilty of killing an innocent person.' Per uW figs-parallelism: this and the preceding clause are synonymous-parallelism. דָּם נָקִיא ('innocent blood') is a stock OT legal-cultic phrase (Deut 19:10, 13; 21:8-9; 27:25; 1 Sam 19:5; 2 Kgs 21:16; 24:4; Jer 7:6; 22:3, 17; 26:15; Joel 4:19; Jonah 1:14; Ps 94:21; 106:38; Prov 6:17). Refers to a homicide victim whose death calls for blood-vengeance unless atonement is made (cf. Deut 21:1-9 unsolved-murder rite). Thai 'โลหิตอันไร้ผิด' is the standard Thai biblical rendering. The sailors invoking this Israelite legal concept — knowing that even unintended killing carries blood-guilt — demonstrates their awareness of YHWH's covenant ethics. Per ot_register_policy §1.1: divine subject takes ทรง- royal prefix → 'ทรงให้โทษ.'"
+        },
+        {
+          "hebrew": "כִּי־אַתָּה יְהוָה כַּאֲשֶׁר חָפַצְתָּ עָשִׂיתָ",
+          "thai": "เพราะพระองค์ทรงเป็นองค์พระผู้เป็นเจ้า ทรงกระทำตามที่ทรงพอพระทัย",
+          "rationale": "Confession of divine sovereignty: 'For you, YHWH, do according to what you have been pleased.' חָפֵץ ('delight in, take pleasure in, be pleased to'). Per uW grammar-connect-logic-result: this clause is the BASIS for the preceding pleas — 'because you sovereignly do whatever you wish, please do not hold us guilty.' Thai 'เพราะพระองค์ทรงเป็นองค์พระผู้เป็นเจ้า' ('for you are YHWH') captures the 2nd-person address + the divine-name affirmation. ทรงพอพระทัย ('royally pleased / royally well-disposed') matches divine-action ราชาศัพท์. The whole confession is an extraordinary theological climax: pagan sailors articulating divine sovereignty in Hebraic prayer-vocabulary mid-storm. Echo of Ps 115:3, 135:6 ('Our God is in the heavens; he does whatever he pleases'); Dan 4:35."
+        }
+      ],
+      "notes": "Theological climax of pagan-sailors thread: extraordinary articulation of divine sovereignty by Phoenician sailors. The pleading-formula אָנָּה יְהוָה matches the Hebraic supplication-vocabulary of patriarchs and kings (Gen 50:17, Ex 32:31, 2 Kgs 20:3, Neh 1:5,11, Dan 9:4, Ps 116:4 etc.). The 'innocent blood' terminology דָּם נָקִיא is OT legal-cultic technical vocabulary (Deut 19:10, 21:8-9; Jer 7:6, 22:3 etc.) — pagan sailors invoking Israel's homicide-purification ethics. The closing אַתָּה יְהוָה כַּאֲשֶׁר חָפַצְתָּ עָשִׂיתָ ('for you, YHWH, do whatever you have been pleased') echoes Ps 115:3 / 135:6 / Dan 4:35 — the standard OT divine-sovereignty confession. NARRATIVE-THEOLOGICAL FUNCTION: the sailors' prayer is the chapter's crystal-clear demonstration of YHWH's worldwide sovereignty and the chapter's thematic counter to Jonah's parochialism — a pagan crew doing better Yahweh-theology mid-storm than the ethnically-Hebrew prophet they are about to drown."
+    }
+  },
+  {
+    "reference": "Jonah 1:15",
+    "chapter": 1,
+    "verse": 15,
+    "language": "hebrew",
+    "hebrew": "וַיִּשְׂאוּ֙ אֶת־יוֹנָ֔ה וַיְטִלֻ֖הוּ אֶל־הַיָּ֑ם וַיַּעֲמֹ֥ד הַיָּ֖ם מִזַּעְפּֽוֹ׃",
+    "bsb_english": "Then they picked up Jonah and cast him into the sea, and the raging sea grew calm.",
+    "translation": {
+      "thai": "แล้วพวกเขาก็จับโยนาห์ขึ้นและโยนท่านลงในทะเล และทะเลก็หยุดคลั่ง",
+      "thai_literal": "และพวกเขายกโยนาห์ขึ้นและโยนเขาลงสู่ทะเล และทะเลก็หยุดจากความเดือดดาลของมัน",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "וַיִּשְׂאוּ אֶת־יוֹנָה וַיְטִלֻהוּ אֶל־הַיָּם",
+          "thai": "พวกเขาก็จับโยนาห์ขึ้นและโยนท่านลงในทะเล",
+          "rationale": "Fulfillment of Jonah's request from v.12 — same verb-pair שָׂאוּנִי + טוּל carried out: pick up + hurl. Same verb-pair as the request, now in the indicative wayyiqtol. The fourth and final טוּל ('hurl') in the chapter completes the lexical-chain: God hurled wind (v.4) → sailors hurled cargo (v.5) → Jonah asked to be hurled (v.12) → sailors hurled Jonah (v.15). Translation preserves the verb โยน at every link. The action is reluctant fulfillment — sailors had tried alternative (v.13) and now obey Jonah's prescription as the only remaining option."
+        },
+        {
+          "hebrew": "וַיַּעֲמֹד הַיָּם מִזַּעְפּוֹ",
+          "thai": "และทะเลก็หยุดคลั่ง",
+          "rationale": "Per uW figs-personification + figs-doublenegatives: 'the sea stood from its raging' = 'the sea ceased its raging' = 'the sea became calm.' עָמַד ('stand') used metaphorically of motion-cessation; זַעַף ('raging, fury, fierceness') is the violent-emotion/violent-motion noun (cf. Prov 19:12 of a king's wrath). Thai 'หยุดคลั่ง' ('stopped raging') captures the action-cessation directly. The previous שָׁתַק idiom (vv.11, 12) is here replaced with עָמַד מִזַּעְפּוֹ — same effect (calming sea), different verb — narratively marking that the calm is divinely-confirmed (the verb pair changes precisely at the moment of divine response to the sacrifice). Echo of Mark 4:39 (Jesus calming the Sea of Galilee): πεφίμωσο = 'be still' — same Sitz of stilling-the-sea-as-divine-act, NT-OT cross-reference."
+        }
+      ],
+      "notes": "Lexical chain completion: טוּל ('hurl') reaches its 4th and final occurrence here (vv.4, 5, 12, 15). Thai โยน preserved across all four. Cross-reference Mark 4:39, where Jesus stills the Sea of Galilee with the verb φιμόω (be muzzled/still) — the gospel's Christological echo of YHWH's sea-calming sovereignty (cf. Pss 65:7, 89:9, 107:29 of YHWH stilling waters). The Eremos NT renders Mark 4:39 πεφίμωσο as 'จงสงบนิ่ง'; here the OT 'หยุดคลั่ง' is the parallel sea-calming Thai vocabulary. Note: the Hebrew shifts verb (שָׁתַק vv.11-12 → עָמַד v.15) precisely at the divine-confirmation moment; the lexical change is narratively intentional."
+    }
+  },
+  {
+    "reference": "Jonah 1:16",
+    "chapter": 1,
+    "verse": 16,
+    "language": "hebrew",
+    "hebrew": "וַיִּֽירְא֧וּ הָאֲנָשִׁ֛ים יִרְאָ֥ה גְדוֹלָ֖ה אֶת־יְהוָ֑ה וַיִּֽזְבְּחוּ־זֶ֨בַח֙ לַֽיהוָ֔ה וַֽיִּדְּר֖וּ נְדָרִֽים׃",
+    "bsb_english": "Then the men feared the LORD greatly, and they offered a sacrifice to the LORD and made vows to Him.",
+    "translation": {
+      "thai": "แล้วลูกเรือเหล่านั้นก็เกรงกลัวองค์พระผู้เป็นเจ้าอย่างยิ่ง พวกเขาจึงถวายเครื่องบูชาแด่องค์พระผู้เป็นเจ้า และทำการบนต่อพระองค์",
+      "thai_literal": "และพวกชายเหล่านั้นกลัวด้วยความกลัวที่ยิ่งใหญ่ต่อองค์พระผู้เป็นเจ้า และพวกเขาถวายเครื่องบูชาแก่องค์พระผู้เป็นเจ้า และพวกเขาบนคำสาบาน",
+      "thai_summary": "บทนี้จบด้วยการกลับใจและการนมัสการของพวกลูกเรือต่างชาติ ก่อนหน้านี้พวกเขาร้องเรียกพระของตน (v.5) บัดนี้พวกเขาถวายเครื่องบูชาและทำการบนต่อองค์พระผู้เป็นเจ้า เป็นการเปลี่ยนแปลงจากการนับถือพระมากองค์มาสู่การนมัสการพระเจ้าเที่ยงแท้แห่งอิสราเอล สำนวน “เกรงกลัวอย่างยิ่ง” (ใช้รากศัพท์เดียวกับ v.10) บัดนี้เปลี่ยนความหมายจาก “หวาดกลัวต่อพายุ” มาสู่ “เกรงกลัวเชิงนมัสการ” (יִרְאַת יְהוָה — “ความยำเกรงต่อองค์พระผู้เป็นเจ้า”) อันเป็นจุดเริ่มต้นของพระปัญญาในธรรมเนียมพันธสัญญาเดิม (เปรียบเทียบ สภษ 1:7, 9:10) เปรียบเทียบกับโยนาห์ — ผู้พยากรณ์ของอิสราเอลที่ดื้อรั้น พวกลูกเรือต่างชาติกลับเป็นแบบอย่างของการกลับใจและการนมัสการที่แท้จริง อันเป็นข้อสรุปของบท",
+      "key_decisions": [
+        {
+          "hebrew": "וַיִּירְאוּ הָאֲנָשִׁים יִרְאָה גְדוֹלָה אֶת־יְהוָה",
+          "thai": "ลูกเรือเหล่านั้นก็เกรงกลัวองค์พระผู้เป็นเจ้าอย่างยิ่ง",
+          "rationale": "Per uW writing-poetry: same emphatic cognate-accusative construction as v.10 (וַיִּירְאוּ + יִרְאָה גְדוֹלָה), but here with the direct-object marker אֶת־יְהוָה ('with-respect-to YHWH') making the fear religious-cultic ('feared YHWH greatly') rather than terror-of-storm. The danger is past; what remains is awe of YHWH's power, transitioning into worship. We render with 'เกรงกลัว...อย่างยิ่ง' — Thai เกรงกลัว carries the religious-deferential awe sense (vs. กลัว alone which is generic terror). The verbal-echo with v.10 is preserved (กลัว/เกรงกลัว + อย่างยิ่ง) but disambiguated by the religious-context here. Per RULES §4 on the עת standard: יָרֵא + אֶת־יהוה = 'fear-of-YHWH' = the OT covenantal piety vocabulary (Deut 6:13, 10:20, Prov 1:7, etc.). Translation choice เกรงกลัว reflects this piety-register."
+        },
+        {
+          "hebrew": "וַיִּזְבְּחוּ־זֶבַח לַיהוָה וַיִּדְּרוּ נְדָרִים",
+          "thai": "พวกเขาจึงถวายเครื่องบูชาแด่องค์พระผู้เป็นเจ้า และทำการบนต่อพระองค์",
+          "rationale": "Per uW writing-poetry: TWO MORE cognate-accusative constructions in this verse — וַיִּזְבְּחוּ־זֶבַח ('sacrificed a sacrifice') + וַיִּדְּרוּ נְדָרִים ('vowed vows'). Three cognate-accusatives in this single verse stack the emphasis (paralleling the יִרְאָה-construction at the start). Thai naturally tolerates 'ถวายเครื่องบูชา' ('offered sacrifice') and 'ทำการบน' ('made vows') as the standard religious-act expressions; the cognate doubling is converted to natural Thai noun-verb pairs. The act-pair (sacrifice + vows) is the standard OT covenant-ratification cluster — formally 'becoming worshipers of YHWH' as a community-act. Note: זֶבַח here on a Phoenician ship cannot be priestly-cultic (no temple, no Levite); likely a thanksgiving-burnt offering improvised on-deck or anticipating the Joppa landing. The narrative does not specify; the writer's point is the worship-direction-toward-YHWH, not the cultic-protocol."
+        }
+      ],
+      "notes": "THREE cognate-accusative emphatic constructions stacked in this verse: יִרְאָה גְדוֹלָה ('feared a great fear'), זֶבַח לַיהוָה ('sacrificed a sacrifice'), and נְדָרִים ('vowed vows'). Each preserved as natural Thai noun-verb pairs (Mark 5:42 cognate-accusative precedent). Theological climax: pagan sailors, who at v.5 cried each to his own god, now sacrifice and vow to YHWH alone — chapter-arc completion. Whether this represents formal proselyte-conversion or just emergency-thanksgiving is left ambiguous by the narrator; the textual point is the worship-direction-shift. Lexical-chain completion: יָרֵא ('fear') across vv.5 (sailors fear storm), 9 (Jonah claims to fear/worship YHWH), 10 (sailors fear-with-cognate at YHWH-revelation), 16 (sailors fear-with-cognate worship-of-YHWH). The semantic load shifts from generic-terror to covenant-piety across the chapter — the very arc Jonah needed to make and didn't. SITUATIONAL IRONY consummated: pagan sailors complete a model-conversion arc; the Hebrew prophet drowns mid-rebellion. This sets up ch. 2 (Jonah's reluctant turn-back from inside the great fish)."
+    }
+  }
+]
