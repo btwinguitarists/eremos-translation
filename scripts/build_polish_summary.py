@@ -43,22 +43,37 @@ def main() -> None:
     by_book = defaultdict(list)
     total = 0
 
-    for sidecar in sorted(PROPOSALS.rglob("*_[0-9][0-9].json")):
+    # Match both heuristic sidecars (`<book>_NN.json`) and optimal-equivalence
+    # sidecars (`<book>_NN_optimal.json`) so both proposal sets land in the
+    # same decision doc.
+    sidecars = sorted(set(
+        list(PROPOSALS.rglob("*_[0-9][0-9].json"))
+        + list(PROPOSALS.rglob("*_[0-9][0-9]_optimal.json"))
+    ))
+    for sidecar in sidecars:
         try:
             data = json.loads(sidecar.read_text(encoding="utf-8"))
         except json.JSONDecodeError:
             continue
         slug = data.get("slug", sidecar.parent.name)
-        chapter = data.get("chapter", 0)
+        # parse chapter from filename if not in data
+        m = re.match(r"^.+_(\d{2})(?:_optimal)?\.json$", sidecar.name)
+        chapter = data.get("chapter", int(m.group(1)) if m else 0)
         chapter_ref = data.get("chapter_ref", f"{slug} {chapter}")
+        # is_optimal: optimal-equivalence proposals have a `confidence` field;
+        # heuristic proposals don't. Used to namespace ids so the two sets
+        # don't collide.
+        suffix = "_optimal" if "_optimal.json" in sidecar.name else ""
         for i, p in enumerate(data.get("proposals", []), start=1):
+            pid = f"{slug}_{chapter:02d}{suffix}_{i:03d}"
             entry = {
-                "id": f"{slug}_{chapter:02d}_{i:03d}",
+                "id": pid,
                 "slug": slug,
                 "chapter": chapter,
                 "chapter_ref": chapter_ref,
                 "verse_ref": p["verse_ref"],
                 "issue_type": p["issue_type"],
+                "confidence": p.get("confidence"),  # optimal-equivalence only
                 "current_text": p["current_text"],
                 "proposed_text": p["proposed_text"],
                 "rationale": p["rationale"],
