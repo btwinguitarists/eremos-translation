@@ -1,0 +1,651 @@
+[
+  {
+    "reference": "Genesis 3:1",
+    "chapter": 3,
+    "verse": 1,
+    "language": "hebrew",
+    "hebrew": "וְהַנָּחָשׁ֙ הָיָ֣ה עָר֔וּם מִכֹּל֙ חַיַּ֣ת הַשָּׂדֶ֔ה אֲשֶׁ֥ר עָשָׂ֖ה יְהוָ֣ה אֱלֹהִ֑ים וַיֹּ֨אמֶר֙ אֶל־הָ֣אִשָּׁ֔ה אַ֚ף כִּֽי־אָמַ֣ר אֱלֹהִ֔ים לֹ֣א תֹֽאכְל֔וּ מִכֹּ֖ל עֵ֥ץ הַגָּֽן׃",
+    "bsb_english": "Now the serpent was more crafty than any beast of the field that the LORD God had made. And he said to the woman, “Did God really say, ‘You must not eat from any tree in the garden?’”",
+    "translation": {
+      "thai": "งูเป็นสัตว์ที่มีเล่ห์เหลี่ยมที่สุดในบรรดาสัตว์ป่าทุกชนิดที่องค์พระผู้เป็นเจ้าพระเจ้าทรงสร้าง มันพูดกับหญิงนั้นว่า “พระเจ้าตรัสจริงหรือว่า ‘เจ้าทั้งหลายอย่ารับประทานผลจากต้นไม้ใดๆ ในสวน’?”",
+      "thai_literal": "และงูเป็นผู้มีเล่ห์เหลี่ยมเหนือสัตว์ป่าทุกชนิดของทุ่งซึ่งยาห์เวห์เอโลฮีมทรงสร้าง และเขากล่าวแก่หญิงว่า แม้ว่าเอโลฮีมตรัสว่า เจ้าทั้งหลายอย่ารับประทานจากต้นไม้ทุกต้นของสวน",
+      "thai_summary": "ข้อนี้แนะนำตัวละครใหม่ — งู (נָחָשׁ) ผู้ล่อลวง คำฮีบรู עָרוּם (อาฮูม, “มีเล่ห์เหลี่ยม/ฉลาดแกมโกง”) เล่นเสียงกับ עֲרוּמִּים (อะรูมิม, “เปลือยกาย”) ใน บท 2:25 — ทันทีหลังจากความบริสุทธิ์ของอาดัมและเอวา ผู้เขียนแนะนำตัวล่อลวงด้วยคำที่ฟังคล้ายกันแต่มีความหมายตรงกันข้าม คำถามของงูเป็นกลยุทธ์ — เริ่มต้นด้วยการบิดเบือนพระบัญญัติของพระเจ้า (พระเจ้าตรัสว่ามีต้นไม้ต้นเดียวที่ห้าม ไม่ใช่ทุกต้น) เพื่อให้หญิงตอบแก้ไขและเริ่มเข้าสู่การสนทนาเชิงตั้งคำถามต่อพระวจนะของพระเจ้า ในพระคัมภีร์ภาคพันธสัญญาเดิม งูยังไม่ได้ถูกระบุว่าเป็นซาตาน — แต่พระคัมภีร์ภาคพันธสัญญาใหม่จะระบุการระบุนี้ในวิวรณ์ 12:9, 20:2 (“มังกรใหญ่… งูเก่าซึ่งเรียกว่ามารและซาตาน”)",
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה אֱלֹהִים",
+          "thai": "องค์พระผู้เป็นเจ้าพระเจ้า",
+          "rationale": "Per divine_names_table_2026-05.md: יהוה → องค์พระผู้เป็นเจ้า. The compound יהוה אֱלֹהִים continues from Gen 2 (the Eden-narrative-specific compound). See per-chapter footer note (output/textual_variants/genesis_03.json)."
+        },
+        {
+          "hebrew": "וְהַנָּחָשׁ הָיָה עָרוּם",
+          "thai": "งูเป็นสัตว์ที่มีเล่ห์เหลี่ยมที่สุด",
+          "rationale": "**WORDPLAY-CONTINUATION** from 2:25: עָרוּם here means 'crafty, shrewd, cunning' (positive in Prov 12:23, 13:16, 14:8 of prudent-wisdom; negative here of cunning-deception). Same Hebrew root as עֲרוּמִּים (naked) in 2:25. The literary-pivot from innocent-naked to cunning-crafty turns on the same Hebrew sound. Render 'มีเล่ห์เหลี่ยม' (cunning, having-strategems) — captures the negative-shrewdness without smoothing to neutral-clever. Avoid 'ฉลาด' (clever, generally positive) which loses the deceptive-edge."
+        },
+        {
+          "hebrew": "אַף כִּי",
+          "thai": "จริงหรือว่า",
+          "rationale": "Per uW writing-quotations: the Hebrew אַף כִּי is a question-particle (lit. 'even-that'/'is-it-the-case-that'). The serpent's question is rhetorical-incredulous, designed to twist God's command (which had only forbidden ONE tree, not 'any tree'). Render 'จริงหรือว่า' (really-is-it-that) — captures the rhetorical-skeptical tone."
+        },
+        {
+          "hebrew": "אָמַר אֱלֹהִים",
+          "thai": "พระเจ้าตรัส",
+          "rationale": "**TELLING DETAIL:** the serpent uses just אֱלֹהִים (Elohim) — NOT יהוה אֱלֹהִים (YHWH-Elohim, the compound used by the narrator throughout chs.2-3). The serpent depersonalizes God — refers to the cosmic-Creator without the covenantal-personal-name. Eve will follow the serpent's vocabulary in v.3, also using just אֱלֹהִים. Subtle but theologically significant — the temptation distances God from the personal-relational form. Translation render simple 'พระเจ้า' here for accuracy; the rhetorical-significance is documented in notes for editorial review."
+        }
+      ],
+      "notes": "**WORDPLAY:** עָרוּם (crafty, 3:1) ↔ עֲרוּמִּים (naked, 2:25) — the literary bridge from innocence to deception. **DIVINE-NAME SHIFT:** the serpent's speech uses only אֱלֹהִים (Elohim) — depersonalized — while the narrator uses יהוה אֱלֹהִים. This deliberate vocabulary-shift signals the serpent's distance from the covenantal-relation. **SERPENT IDENTITY:** the OT does not identify the serpent with Satan; this is an NT inter-textual development (Rev 12:9, 20:2; cf. 2 Cor 11:3, 1 Tim 2:14). Eremos preserves the Hebrew text without anachronistic identification."
+    }
+  },
+  {
+    "reference": "Genesis 3:2",
+    "chapter": 3,
+    "verse": 2,
+    "language": "hebrew",
+    "hebrew": "וַתֹּ֥אמֶר הָֽאִשָּׁ֖ה אֶל־הַנָּחָ֑שׁ מִפְּרִ֥י עֵֽץ־הַגָּ֖ן נֹאכֵֽל׃",
+    "bsb_english": "The woman answered the serpent, “We may eat the fruit of the trees of the garden,",
+    "translation": {
+      "thai": "หญิงนั้นตอบงูว่า “เรารับประทานผลจากต้นไม้ในสวนได้",
+      "thai_literal": "และหญิงกล่าวกับงูว่า จากผลของต้นไม้ของสวนเรารับประทาน",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "מִפְּרִי עֵץ־הַגָּן נֹאכֵל",
+          "thai": "เรารับประทานผลจากต้นไม้ในสวนได้",
+          "rationale": "Eve's correction begins to clarify what God actually said. But she will already begin to add to and subtract from God's words in v.3. The Hebrew imperfect נֹאכֵל ('we eat/we may eat') is not the emphatic infinitive-absolute of God's permission in 2:16 (אָכֹל תֹּאכֵל) — Eve doesn't preserve the emphatic 'freely-eat.' Render simply 'รับประทาน...ได้' (may-eat)."
+        }
+      ],
+      "notes": "**EVE'S RESPONSE INCOMPLETE:** Eve does not quote God's permission with the same emphatic-freedom (אָכֹל תֹּאכֵל 'eat-eating' = surely-freely-eat) that God used in 2:16. She subtly under-states the generosity of God's gift. The dialogue subtly diminishes God's goodness from the start."
+    }
+  },
+  {
+    "reference": "Genesis 3:3",
+    "chapter": 3,
+    "verse": 3,
+    "language": "hebrew",
+    "hebrew": "וּמִפְּרִ֣י הָעֵץ֮ אֲשֶׁ֣ר בְּתוֹךְ־הַגָּן֒ אָמַ֣ר אֱלֹהִ֗ים לֹ֤א תֹֽאכְלוּ֙ מִמֶּ֔נּוּ וְלֹ֥א תִגְּע֖וּ בּ֑וֹ פֶּן־תְּמֻתֽוּן׃",
+    "bsb_english": "but about the fruit of the tree in the middle of the garden, God has said, ‘You must not eat of it or touch it, or you will die.’”",
+    "translation": {
+      "thai": "แต่ผลของต้นไม้ที่อยู่ตรงกลางสวน พระเจ้าตรัสว่า ‘เจ้าทั้งหลายอย่ารับประทาน อย่าแตะต้องด้วย มิฉะนั้นพวกเจ้าจะตาย’”",
+      "thai_literal": "แต่จากผลของต้นไม้ที่อยู่ในท่ามกลางสวน เอโลฮีมตรัสว่า เจ้าทั้งหลายอย่ารับประทานจากมัน และอย่าสัมผัสมัน มิฉะนั้นพวกเจ้าจะตาย",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "וְלֹא תִגְּעוּ בּוֹ",
+          "thai": "อย่าแตะต้องด้วย",
+          "rationale": "**EVE ADDS WORDS** — God's original command in 2:17 was 'do not eat' (לֹא תֹאכַל). Eve adds 'and do not touch' (וְלֹא תִגְּעוּ בּוֹ). The addition is significant: (1) it makes God appear more restrictive than He was; (2) it shows Eve already mentally enlarging the prohibition. Rabbinic tradition (Avot d'Rabbi Natan 1:5) sees this as Eve's first error — adding to God's word, which makes the command easier to break (touch the fruit, see nothing happens, conclude God lies about consequences). Render literally; the addition is preserved as the Hebrew indicates."
+        },
+        {
+          "hebrew": "פֶּן־תְּמֻתוּן",
+          "thai": "มิฉะนั้นพวกเจ้าจะตาย",
+          "rationale": "פֶּן ('lest') + imperfect = 'lest-you-die' = 'or-you-will-die.' Eve also softens God's emphatic 'surely-die' (מוֹת תָּמוּת in 2:17) to a plain 'lest-you-die.' Same pattern of subtle-diminishment as v.2. Render 'มิฉะนั้น...จะตาย' (otherwise-you-will-die) — faithful to Eve's softer Hebrew."
+        }
+      ],
+      "notes": "**EVE'S TWO MISQUOTES:** (1) ADDS 'do not touch' (not in God's original); (2) WEAKENS God's emphatic 'surely-die' to a softer 'lest-you-die.' Both shifts make God appear more legalistic and less serious. The dialogue prepares Eve to receive the serpent's outright denial in v.4. Theologically: subtle distortion of God's word precedes outright contradiction."
+    }
+  },
+  {
+    "reference": "Genesis 3:4",
+    "chapter": 3,
+    "verse": 4,
+    "language": "hebrew",
+    "hebrew": "וַיֹּ֥אמֶר הַנָּחָ֖שׁ אֶל־הָֽאִשָּׁ֑ה לֹֽא־מ֖וֹת תְּמֻתֽוּן׃",
+    "bsb_english": "“You will not surely die,” the serpent told the woman.",
+    "translation": {
+      "thai": "งูพูดกับหญิงนั้นว่า “พวกเจ้าจะไม่ตายแน่",
+      "thai_literal": "และงูกล่าวกับหญิงว่า ตาย-ตาย พวกเจ้าจะไม่ตาย (พวกเจ้าจะไม่ตายแน่นอน)",
+      "thai_summary": "ข้อสั้นแต่หนัก — งูปฏิเสธพระวจนะของพระเจ้าโดยตรง สังเกตว่างูใช้สำนวน infinitive-absolute เดียวกับที่พระเจ้าตรัสใน บท 2:17 (מוֹת תָּמוּת, “เจ้าจะตายแน่”) แต่เพิ่มคำปฏิเสธ לֹא (โล, “ไม่”) ทำให้กลายเป็น “เจ้าจะไม่ตายแน่” — ความขัดแย้งโดยตรงเชิงรูปแบบและเชิงเนื้อหา นี่เป็นการโกหกครั้งแรกในประวัติศาสตร์ของมนุษย์ และเป็นต้นแบบของการล่อลวงทุกครั้ง — การปฏิเสธคำเตือนของพระเจ้าเรื่องผลของบาป",
+      "key_decisions": [
+        {
+          "hebrew": "לֹא־מוֹת תְּמֻתוּן",
+          "thai": "พวกเจ้าจะไม่ตายแน่",
+          "rationale": "**DIRECT CONTRADICTION** of God's word in 2:17 (מוֹת תָּמוּת 'surely-die'). The serpent uses the SAME Hebrew emphatic-construction (infinitive-absolute + imperfect) but inverts it with לֹא (not) — 'not-dying you-shall-die' = 'you will NOT surely die.' The verbal-mirror structure is theologically loaded — the serpent does not deflect; he directly negates. Per Jonah corpus precedent for the emphatic-construction: Thai 'แน่' adverbial-intensification, with negation 'ไม่...แน่' = 'will NOT-surely.' The thai_literal preserves the Hebrew verb-doubling 'ตาย-ตาย' for transparency."
+        }
+      ],
+      "notes": "**THE FIRST LIE:** v.4 is the Bible's first explicit-contradiction of God's word. The serpent doesn't just doubt or question — he flatly denies. **VERBAL-MIRRORING:** the same emphatic-construction (מוֹת תָּמוּת in 2:17 / לֹא מוֹת תְּמֻתוּן in 3:4) creates a theologically-charged echo. **NT ECHO:** Jn 8:44 (Jesus on Satan: 'when he speaks a lie, he speaks of his own; for he is a liar, and the father of it') — the proto-lie of Eden grounds the gospel-of-light vs darkness."
+    }
+  },
+  {
+    "reference": "Genesis 3:5",
+    "chapter": 3,
+    "verse": 5,
+    "language": "hebrew",
+    "hebrew": "כִּ֚י יֹדֵ֣עַ אֱלֹהִ֔ים כִּ֗י בְּיוֹם֙ אֲכָלְכֶ֣ם מִמֶּ֔נּוּ וְנִפְקְח֖וּ עֵֽינֵיכֶ֑ם וִהְיִיתֶם֙ כֵּֽאלֹהִ֔ים יֹדְעֵ֖י ט֥וֹב וָרָֽע׃",
+    "bsb_english": "“For God knows that in the day you eat of it, your eyes will be opened and you will be like God, knowing good and evil.”",
+    "translation": {
+      "thai": "เพราะพระเจ้าทรงทราบว่าในวันที่พวกเจ้ารับประทาน ตาของพวกเจ้าจะถูกเปิดและพวกเจ้าจะเป็นเหมือนพระเจ้า ผู้รู้ดีและชั่ว”",
+      "thai_literal": "เพราะเอโลฮีมรู้ว่าในวันที่พวกเจ้ารับประทานจากมัน ดวงตาของพวกเจ้าจะถูกเปิด และพวกเจ้าจะเป็นเหมือนเอโลฮีม คือผู้รู้ของดีและชั่ว",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "וִהְיִיתֶם כֵּאלֹהִים",
+          "thai": "พวกเจ้าจะเป็นเหมือนพระเจ้า",
+          "rationale": "כֵּאלֹהִים literally 'like-Elohim.' Could be 'like-God' (singular) or 'like-divine-beings/gods' (plural — given Elohim's grammatical plurality). The serpent's tempting offer is moral-autonomy-of-deity. Render 'เหมือนพระเจ้า' (like-God) — preserves the temptation's content. The plurality-versus-singularity ambiguity is preserved theologically — the serpent's promise is that humans will join the divine-council in knowing-good-and-evil. Cf. v.22 where God says 'the man has become like one of US' — confirming the promise had real-content (humans did gain moral-knowledge), but at terrible cost."
+        },
+        {
+          "hebrew": "יֹדְעֵי טוֹב וָרָע",
+          "thai": "ผู้รู้ดีและชั่ว",
+          "rationale": "Same merism as 2:9, 2:17 (knowledge-of-good-and-evil = moral-discernment claim). Lock: ผู้รู้ดีและชั่ว (those-who-know good-and-evil). The serpent's promise is precise — it WILL come true (v.22 confirms). The deception is in the framing: humans will become like-God in moral-discernment, but they will achieve it by violating-trust rather than receiving-as-gift."
+        }
+      ],
+      "notes": "**TEMPTATION'S TRUTH-IN-LIE:** the serpent's offer is partially-true — humans WILL gain moral-knowledge (confirmed v.22 'has become like one of us'). The deception is not in the result-claim but in the framing: it presents the moral-knowledge as something to be GRASPED rather than received as gift in due time. The seizure-rather-than-receive pattern becomes the structural-grammar of all subsequent sin. **AUTONOMY THEME:** the serpent suggests God has been holding-back from generosity — that genuine flourishing requires self-determination apart from God. This is the foundational lie behind every subsequent rebellion."
+    }
+  },
+  {
+    "reference": "Genesis 3:6",
+    "chapter": 3,
+    "verse": 6,
+    "language": "hebrew",
+    "hebrew": "וַתֵּ֣רֶא הָֽאִשָּׁ֡ה כִּ֣י טוֹב֩ הָעֵ֨ץ לְמַאֲכָ֜ל וְכִ֧י תַֽאֲוָה־ה֣וּא לָעֵינַ֗יִם וְנֶחְמָ֤ד הָעֵץ֙ לְהַשְׂכִּ֔יל וַתִּקַּ֥ח מִפִּרְי֖וֹ וַתֹּאכַ֑ל וַתִּתֵּ֧ן גַּם־לְאִישָׁ֛הּ עִמָּ֖הּ וַיֹּאכַֽל׃",
+    "bsb_english": "When the woman saw that the tree was good for food and pleasing to the eyes, and that it was desirable for obtaining wisdom, she took the fruit and ate it. She also gave some to her husband who was with her, and he ate it.",
+    "translation": {
+      "thai": "เมื่อหญิงนั้นเห็นว่าต้นไม้นั้นเหมาะแก่การเป็นอาหาร น่าดูสำหรับดวงตา และเป็นที่น่าปรารถนาเพื่อให้ฉลาด นางจึงเด็ดผลของมันมารับประทาน และนางก็ได้ส่งให้สามีของนางที่อยู่ด้วยกันรับประทานบ้าง สามีก็รับประทาน",
+      "thai_literal": "และหญิงเห็นว่าต้นไม้ดีเพื่ออาหาร และว่ามันเป็นที่น่าปรารถนาแก่ดวงตา และต้นไม้น่าปรารถนาเพื่อให้ฉลาด และนางเอาจากผลของมันและรับประทาน และนางก็ให้แก่สามีของนางพร้อมกับเธอด้วย และเขารับประทาน",
+      "thai_summary": "ข้อนี้บรรยายขั้นตอนการล่มลงในบาป — ผ่านสามมิติ: (1) טוֹב לְמַאֲכָל (“ดีเพื่ออาหาร”) — ความปรารถนาทางกาย; (2) תַאֲוָה לָעֵינַיִם (“น่าปรารถนาแก่ดวงตา”) — ความปรารถนาทางสายตา; (3) נֶחְמָד לְהַשְׂכִּיל (“น่าปรารถนาเพื่อให้ฉลาด”) — ความปรารถนาทางสติปัญญา/อำนาจ ทั้งสามคู่ขนานกับ 1 ยอห์น 2:16 (“ตัณหาของเนื้อหนัง ตัณหาของตา และความเย่อหยิ่งในชีวิต”) — เป็นต้นแบบของการล่อลวงในพระคัมภีร์ พระเยซูทรงเผชิญทั้งสามรูปแบบเดียวกันในการทดลองในถิ่นทุรกันดาร (มัทธิว 4:1-11) และทรงเอาชนะ — ในขณะที่อาดัมและเอวาในสวนเอเดน (ที่อุดมสมบูรณ์) ล่มลง พระเยซู (อาดัมที่สอง) ในถิ่นทุรกันดาร (ที่ขาดแคลน) ยืนหยัด สำคัญที่สุด: “สามีของนางที่อยู่ด้วยกัน” (לְאִישָׁהּ עִמָּהּ) — อาดัมอยู่ด้วยตลอดการสนทนากับงู และไม่ได้ขัดขวาง — ความรับผิดชอบของอาดัมจึงไม่น้อยกว่าของเอวา (ดู โรม 5:12-19, 1 โครินธ์ 15:22)",
+      "key_decisions": [
+        {
+          "hebrew": "טוֹב הָעֵץ לְמַאֲכָל וְכִי תַאֲוָה־הוּא לָעֵינַיִם וְנֶחְמָד הָעֵץ לְהַשְׂכִּיל",
+          "thai": "ต้นไม้นั้นเหมาะแก่การเป็นอาหาร น่าดูสำหรับดวงตา และเป็นที่น่าปรารถนาเพื่อให้ฉลาด",
+          "rationale": "**TRIPARTITE TEMPTATION-STRUCTURE:** 'good for food' + 'desirable to eyes' + 'desirable for becoming wise.' The three-fold seeing parallels 1 John 2:16 (ἐπιθυμία τῆς σαρκὸς + ἐπιθυμία τῶν ὀφθαλμῶν + ἀλαζονεία τοῦ βίου = lust-of-flesh + lust-of-eyes + pride-of-life). Also parallels Jesus's three temptations in Mt 4:1-11 (turn stones to bread = food; world-kingdoms-vision = eyes; throw-yourself-down spectacle = pride). Render the three-fold structure with Thai natural-rendering: 'เหมาะแก่การเป็นอาหาร' (echoes Gen 2:9 of all good trees) + 'น่าดูสำหรับดวงตา' (desirable-to-eyes) + 'น่าปรารถนาเพื่อให้ฉลาด' (desirable-for-becoming-wise). The first phrase deliberately echoes 2:9's 'good-for-food' (Eve sees what God already provided in EVERY tree); the second echoes 2:9's 'pleasing-to-the-eye' (same root חָמַד); the third introduces the new element — wisdom-acquisition. Eve sees what was already-given AND what was specifically-forbidden, and chooses the latter."
+        },
+        {
+          "hebrew": "וַתִּקַּח מִפִּרְיוֹ וַתֹּאכַל וַתִּתֵּן גַּם־לְאִישָׁהּ עִמָּהּ וַיֹּאכַל",
+          "thai": "นางจึงเด็ดผลของมันมารับประทาน และนางก็ได้ส่งให้สามีของนางที่อยู่ด้วยกันรับประทานบ้าง สามีก็รับประทาน",
+          "rationale": "**ADAM PRESENT THROUGHOUT:** the Hebrew לְאִישָׁהּ עִמָּהּ ('to-her-husband with-her') is theologically critical — Adam was WITH Eve during the entire serpent-dialogue. He is not absent (as some traditional readings suggest). The plural 2mp pronouns in vv.4-5 (לֹא־מוֹת תְּמֻתוּן 'you [pl] shall not surely die'; אֲכָלְכֶם 'in-the-day-of-your [pl]-eating') confirm both were addressed. Adam fails to intervene OR engage — passive complicity. Render לְאִישָׁהּ עִמָּהּ as 'สามีของนางที่อยู่ด้วยกัน' (her-husband-who-was-with-her) — preserves Adam's presence. NT echo: Rom 5:12-19 + 1 Cor 15:22 + 1 Tim 2:14 develop the Adam-as-federal-head-and-responsible-agent reading."
+        }
+      ],
+      "notes": "**TRIPARTITE TEMPTATION:** the three-fold structure (good-for-food / desirable-to-eyes / desirable-for-wisdom) becomes the lexical template for Christian theology of temptation — see 1 John 2:16 + the three-fold wilderness temptations of Christ in Mt 4. **ADAM'S PRESENCE:** the עִמָּהּ ('with her') is the most-debated Hebrew word in the chapter — confirms Adam was present throughout. NT theological reading places primary-responsibility on Adam (federal-headship: Rom 5, 1 Cor 15) while preserving Eve's deception (1 Tim 2:14). **ECHO OF GEN 2:9:** Eve's evaluation of the tree uses the same vocabulary as God's evaluation of all trees in 2:9 (טוֹב לְמַאֲכָל + נֶחְמָד) — Eve sees the gift-and-restriction with the same eyes, but chooses the restriction over the gift."
+    }
+  },
+  {
+    "reference": "Genesis 3:7",
+    "chapter": 3,
+    "verse": 7,
+    "language": "hebrew",
+    "hebrew": "וַתִּפָּקַ֨חְנָה֙ עֵינֵ֣י שְׁנֵיהֶ֔ם וַיֵּ֣דְע֔וּ כִּ֥י עֵֽירֻמִּ֖ם הֵ֑ם וַֽיִּתְפְּרוּ֙ עֲלֵ֣ה תְאֵנָ֔ה וַיַּעֲשׂ֥וּ לָהֶ֖ם חֲגֹרֹֽת׃",
+    "bsb_english": "And the eyes of both of them were opened, and they knew that they were naked; so they sewed together fig leaves and made coverings for themselves.",
+    "translation": {
+      "thai": "ดวงตาของทั้งสองคนก็ถูกเปิดออก พวกเขาก็รู้ว่าตัวเองเปลือยกาย จึงเอาใบมะเดื่อมาเย็บเข้าด้วยกันทำเป็นเครื่องนุ่งห่มสำหรับตัวเอง",
+      "thai_literal": "และดวงตาของทั้งสองของพวกเขาก็ถูกเปิด และพวกเขารู้ว่าพวกเขาเปลือยกาย และพวกเขาเย็บใบของต้นมะเดื่อเข้าด้วยกัน และทำให้ตนเองซึ่งเครื่องคาด",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "וַתִּפָּקַחְנָה עֵינֵי שְׁנֵיהֶם",
+          "thai": "ดวงตาของทั้งสองคนก็ถูกเปิดออก",
+          "rationale": "פָּקַח (Niphal: 'be opened') — the serpent's promise (v.5 'your eyes will be opened') is fulfilled. The Hebrew text deliberately uses the same verb. But the result is shame, not divine-equality. Render 'ดวงตา...ก็ถูกเปิดออก' (eyes-were-opened) — consistent with v.5's promise."
+        },
+        {
+          "hebrew": "כִּי עֵירֻמִּם הֵם",
+          "thai": "ตัวเองเปลือยกาย",
+          "rationale": "**RETURN TO 2:25's WORDPLAY:** עֵירֻמִּם is the same root עָרוּם that opened ch.3 (the serpent was 'crafty'/עָרוּם) and that closed ch.2 (the man and wife were 'naked'/עֲרוּמִּים, 2:25). The Hebrew text creates a literary frame: opens with crafty-serpent, closes with shamed-naked-humans. The same word marks innocent-pre-Fall-state (2:25) and guilty-post-Fall-state (3:7) — the exterior reality is unchanged but the experience is transformed. Render 'เปลือยกาย' (matching 2:25 + thai_literal preserves the Hebrew connection)."
+        },
+        {
+          "hebrew": "עֲלֵה תְאֵנָה",
+          "thai": "ใบมะเดื่อ",
+          "rationale": "תְאֵנָה (te'enah) = fig (the fruit-tree); pluralized often in OT as Edenic-plenty image (1 Kgs 4:25 'every man under his vine and fig tree'). Rabbinic + Christian-traditional reading: the fig-leaves identify the forbidden-fruit-tree as a fig (though Hebrew text never says so explicitly — the standard 'apple' is medieval-European folklore). Render 'มะเดื่อ' — THSV11 baseline."
+        }
+      ],
+      "notes": "**SHAME ENTERS THE WORLD:** what was 'no shame' (לֹא יִתְבֹּשָׁשׁוּ, 2:25) becomes need-to-cover. The shame is not mere bodily-self-consciousness but covenantal-guilt; concealment is the symptom. **HUMAN SOLUTION FAILS:** the fig-leaf-coverings are the first human-attempt at sin-management — DIY-righteousness. They prove inadequate (vv.10-11 — Adam still afraid + naked despite leaves); v.21 will show God's solution (skin-garments, requiring a death). **TYPOLOGY:** the fig-leaf-covering / animal-skin-covering contrast becomes a foundational typology — human-righteousness vs. God-provided-righteousness via sacrifice (Heb 9:22, Rom 5:18-21)."
+    }
+  },
+  {
+    "reference": "Genesis 3:8",
+    "chapter": 3,
+    "verse": 8,
+    "language": "hebrew",
+    "hebrew": "וַֽיִּשְׁמְע֞וּ אֶת־ק֨וֹל יְהוָ֧ה אֱלֹהִ֛ים מִתְהַלֵּ֥ךְ בַּגָּ֖ן לְר֣וּחַ הַיּ֑וֹם וַיִּתְחַבֵּ֨א הָֽאָדָ֜ם וְאִשְׁתּ֗וֹ מִפְּנֵי֙ יְהוָ֣ה אֱלֹהִ֔ים בְּת֖וֹךְ עֵ֥ץ הַגָּֽן׃",
+    "bsb_english": "Then the man and his wife heard the voice of the LORD God walking in the garden in the breeze of the day, and they hid themselves from the presence of the LORD God among the trees of the garden.",
+    "translation": {
+      "thai": "พวกเขาได้ยินเสียงขององค์พระผู้เป็นเจ้าพระเจ้าซึ่งกำลังทรงดำเนินอยู่ในสวนในเวลาเย็น อาดัมและภรรยาของเขาจึงซ่อนตัวจากพระพักตร์ขององค์พระผู้เป็นเจ้าพระเจ้าท่ามกลางต้นไม้ในสวน",
+      "thai_literal": "และพวกเขาได้ยินซึ่งเสียงของยาห์เวห์เอโลฮีมที่กำลังเดินอยู่ในสวนในลมของวัน และอาดัมและภรรยาของเขาซ่อนตัวจากพระพักตร์ของยาห์เวห์เอโลฮีมในท่ามกลางต้นไม้ของสวน",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה אֱלֹהִים",
+          "thai": "องค์พระผู้เป็นเจ้าพระเจ้า",
+          "rationale": "Per divine_names_table_2026-05.md: יהוה → องค์พระผู้เป็นเจ้า. See per-chapter footer note. Recurs vv.8 (twice), 9, 13, 14, 21, 22, 23."
+        },
+        {
+          "hebrew": "מִתְהַלֵּךְ בַּגָּן",
+          "thai": "กำลังทรงดำเนินอยู่ในสวน",
+          "rationale": "Per hebrew_idioms_and_metaphor §3.1: divine-walking הִתְהַלֵּךְ — the verb of intimate covenantal-presence (Enoch 'walked with God' Gen 5:24; Noah 6:9; Abraham 17:1; Israel-the-people Lev 26:12 'I will walk among you'). Render 'กำลังทรงดำเนิน' (royally-walking). Hebrew Hithpael הִתְהַלֵּךְ means 'walking-around, going-back-and-forth' — habitual/intimate movement. Note: the Hebrew text does NOT say God 'walked-into' as if he were just-arriving — He was-walking, suggesting habitual-Edenic-presence. The tragedy of v.8 is that this normally-welcome divine-presence is now FEARED."
+        },
+        {
+          "hebrew": "לְרוּחַ הַיּוֹם",
+          "thai": "ในเวลาเย็น",
+          "rationale": "Per uW + most modern translations: 'in the cool/breeze of the day' = 'in the evening' (when the day's heat subsides). רוּחַ = wind, breath, spirit; הַיּוֹם = the day. The phrase is idiomatic for late-afternoon/early-evening — the time when ANE peoples conducted business + leisure. Render 'ในเวลาเย็น' (in-the-evening) — Thai natural rendering. Some translations (CSB, NLT) render 'evening breeze' preserving the wind-imagery; Eremos compresses for naturalness, with the literal preserved in thai_literal."
+        },
+        {
+          "hebrew": "וַיִּתְחַבֵּא הָאָדָם וְאִשְׁתּוֹ",
+          "thai": "อาดัมและภรรยาของเขาจึงซ่อนตัว",
+          "rationale": "חָבָא (Hithpael 'hide-oneself'). The first human-act post-Fall is hiding from God. Theologically loaded: sin separates humans from God-presence; the natural-response-to-guilt is concealment. Render 'ซ่อนตัว' (hide-oneself). Anticipates the exile-from-Eden of vv.23-24."
+        }
+      ],
+      "notes": "**INTIMATE-PRESENCE IS NOW FEARED:** God's habitual-Edenic-walking (the verb הִתְהַלֵּךְ is the verb of covenantal-intimacy) is now experienced as judgment-approach. The same divine-action that blessed becomes terrifying when sin enters. **WALKING-IN-THE-GARDEN:** anticipates the Tabernacle/Temple imagery — God 'walking-among' Israel (Lev 26:12). The Eden-Temple-typology develops: sanctuary-presence is the Edenic-condition restored. **HIDING-FROM-GOD:** the first instinct of guilt — same pattern recurs at every subsequent encounter (cf. Saul's hiding 1 Sam 10:22; Jonah's flight; Adam's typological-foreshadowing of the human race-in-flight-from-God)."
+    }
+  },
+  {
+    "reference": "Genesis 3:9",
+    "chapter": 3,
+    "verse": 9,
+    "language": "hebrew",
+    "hebrew": "וַיִּקְרָ֛א יְהוָ֥ה אֱלֹהִ֖ים אֶל־הָֽאָדָ֑ם וַיֹּ֥אמֶר ל֖וֹ אַיֶּֽכָּה׃",
+    "bsb_english": "But the LORD God called out to the man, “Where are you?”",
+    "translation": {
+      "thai": "องค์พระผู้เป็นเจ้าพระเจ้าทรงร้องเรียกอาดัมว่า “เจ้าอยู่ที่ไหน”",
+      "thai_literal": "และยาห์เวห์เอโลฮีมทรงเรียกแก่อาดัม และตรัสแก่เขาว่า เจ้าอยู่ที่ไหน",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה אֱלֹהִים",
+          "thai": "องค์พระผู้เป็นเจ้าพระเจ้า",
+          "rationale": "Per divine_names_table_2026-05.md: יהוה → องค์พระผู้เป็นเจ้า. See per-chapter footer note."
+        },
+        {
+          "hebrew": "אַיֶּכָּה",
+          "thai": "เจ้าอยู่ที่ไหน",
+          "rationale": "אַיֵּה ('where?') + 2ms suffix = 'where-are-you?' Hebrew interrogative. Theologically: God already knows where Adam is — the question is invitational, not informational. It's the first GOSPEL-question — God seeks the hiding sinner. The same form recurs at Gen 4:9 ('where is your brother Abel?') — God asking the question that summons-conscience. Render 'เจ้าอยู่ที่ไหน' (where-are-you) — natural Thai. The vocative-rhetorical force is universal."
+        }
+      ],
+      "notes": "**THE FIRST GOSPEL-QUESTION:** God's 'Where are you?' is not informational (He knows) but invitational (drawing the sinner out of hiding into confession). The pattern recurs throughout Scripture: God seeks the hiding sinner (Cain in 4:9, Israel in Hos 6:1-3, Lk 19:10 'son of man came to seek and save the lost'). **CALLING-NOT-CONDEMNING:** God could have judged from a distance; He chooses to walk-into-the-broken-place, calling the man by name."
+    }
+  },
+  {
+    "reference": "Genesis 3:10",
+    "chapter": 3,
+    "verse": 10,
+    "language": "hebrew",
+    "hebrew": "וַיֹּ֕אמֶר אֶת־קֹלְךָ֥ שָׁמַ֖עְתִּי בַּגָּ֑ן וָאִירָ֛א כִּֽי־עֵירֹ֥ם אָנֹ֖כִי וָאֵחָבֵֽא׃",
+    "bsb_english": "“I heard Your voice in the garden,” he replied, “and I was afraid because I was naked; so I hid myself.”",
+    "translation": {
+      "thai": "อาดัมตอบว่า “ข้าพระองค์ได้ยินเสียงของพระองค์ในสวนก็กลัว เพราะข้าพระองค์เปลือยกายอยู่ จึงซ่อนตัว”",
+      "thai_literal": "และเขากล่าวว่า ซึ่งเสียงของพระองค์ข้าพระองค์ได้ยินในสวน และข้าพระองค์กลัวเพราะข้าพระองค์เปลือยกาย และข้าพระองค์ซ่อนตัว",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "וָאִירָא כִּי־עֵירֹם אָנֹכִי",
+          "thai": "ก็กลัว เพราะข้าพระองค์เปลือยกายอยู่",
+          "rationale": "Adam reveals shame through fear. He doesn't yet confess sin — only the symptom (fear + nakedness). The disclosure structure forces him to identify the inconsistency: nakedness was harmonious in 2:25 ('they were naked and not ashamed'); now the same nakedness produces fear. The mismatch reveals what changed. Render 'ก็กลัว เพราะข้าพระองค์เปลือยกาย' — preserves Adam's first-person confession-of-fear without yet confessing-disobedience. Note: the formal first-person 'ข้าพระองค์' is appropriate for divine-address (humble + reverent register)."
+        }
+      ],
+      "notes": "**SYMPTOM-NOT-DISEASE:** Adam confesses shame and fear, but not sin. He reveals the surface-experience without naming the underlying cause. God's next question (v.11) will press for the actual confession — 'have you eaten?' **REVERSAL OF 2:25:** what was 'naked-without-shame' in pristine-creation has become 'naked-and-fearful' in fallen-creation. The bodies have not changed — the relationships have."
+    }
+  },
+  {
+    "reference": "Genesis 3:11",
+    "chapter": 3,
+    "verse": 11,
+    "language": "hebrew",
+    "hebrew": "וַיֹּ֕אמֶר מִ֚י הִגִּ֣יד לְךָ֔ כִּ֥י עֵירֹ֖ם אָ֑תָּה הֲמִן־הָעֵ֗ץ אֲשֶׁ֧ר צִוִּיתִ֛יךָ לְבִלְתִּ֥י אֲכָל־מִמֶּ֖נּוּ אָכָֽלְתָּ׃",
+    "bsb_english": "“Who told you that you were naked?” asked the LORD God. “Have you eaten from the tree of which I commanded you not to eat?”",
+    "translation": {
+      "thai": "พระองค์ตรัสว่า “ใครบอกเจ้าว่าเจ้าเปลือยกาย เจ้าได้กินผลจากต้นไม้ที่เราสั่งห้ามไม่ให้กินหรือไม่”",
+      "thai_literal": "และพระองค์ตรัสว่า ใครได้บอกเจ้าว่าเจ้าเปลือยกาย หรือว่าจากต้นไม้ที่เราสั่งเจ้าไม่ให้กินจากมัน เจ้าได้กินหรือ",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "מִי הִגִּיד לְךָ כִּי עֵירֹם אָתָּה",
+          "thai": "ใครบอกเจ้าว่าเจ้าเปลือยกาย",
+          "rationale": "Second invitational-question. God knows the answer — the question forces Adam to reckon with what's changed. The fact-of-being-naked hasn't changed; the consciousness-of-being-naked has. The question presses Adam toward the source of that consciousness — the eating-of-the-fruit. Render plainly 'ใครบอกเจ้า' (who-told-you)."
+        },
+        {
+          "hebrew": "הֲמִן־הָעֵץ אֲשֶׁר צִוִּיתִיךָ לְבִלְתִּי אֲכָל־מִמֶּנּוּ אָכָלְתָּ",
+          "thai": "เจ้าได้กินผลจากต้นไม้ที่เราสั่งห้ามไม่ให้กินหรือไม่",
+          "rationale": "The direct question. הֲ at the start is interrogative-particle. The question structure traps the answer — Adam must say yes-or-no. Render 'เจ้าได้กิน...หรือไม่' (have-you-eaten-or-not) — Thai yes-no question form. Note: God uses 1cs verb 'I commanded' (צִוִּיתִיךָ) — God speaks personally, in the singular ('I'), not the royal 'we' of 1:26 + 3:22. The judicial-individual encounter (one-on-one)."
+        }
+      ],
+      "notes": "**JUDICIAL ENCOUNTER:** vv.9-13 form a courtroom-like sequence — God-as-judge questions Adam, then Eve, then pronounces sentence on the serpent (v.14ff). The question-confession-judgment pattern is the OT prototype of all subsequent divine-juridical-encounters."
+    }
+  },
+  {
+    "reference": "Genesis 3:12",
+    "chapter": 3,
+    "verse": 12,
+    "language": "hebrew",
+    "hebrew": "וַיֹּ֖אמֶר הָֽאָדָ֑ם הָֽאִשָּׁה֙ אֲשֶׁ֣ר נָתַ֣תָּה עִמָּדִ֔י הִ֛וא נָֽתְנָה־לִּ֥י מִן־הָעֵ֖ץ וָאֹכֵֽל׃",
+    "bsb_english": "And the man answered, “The woman whom You gave me, she gave me fruit from the tree, and I ate it.”",
+    "translation": {
+      "thai": "อาดัมตอบว่า “หญิงที่พระองค์ทรงประทานให้อยู่กับข้าพระองค์ นางได้ให้ผลจากต้นไม้นั้นแก่ข้าพระองค์ ข้าพระองค์ก็ได้รับประทาน”",
+      "thai_literal": "และอาดัมกล่าวว่า หญิงซึ่งพระองค์ทรงให้อยู่กับข้าพระองค์ นางให้แก่ข้าพระองค์จากต้นไม้นั้น และข้าพระองค์ได้รับประทาน",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "הָאִשָּׁה אֲשֶׁר נָתַתָּה עִמָּדִי",
+          "thai": "หญิงที่พระองค์ทรงประทานให้อยู่กับข้าพระองค์",
+          "rationale": "**DOUBLE BLAME-SHIFT:** Adam blames (1) the woman ('she gave me') AND (2) God ('whom YOU gave me'). The same gift Adam celebrated as 'bone-of-my-bone' (2:23) is now the source of his trouble. The blame-shift extends back to God himself — God's gift is portrayed as the cause of disobedience. Render 'หญิงที่พระองค์ทรงประทานให้อยู่กับข้าพระองค์' — preserves the double-blame structure (the relative-clause 'whom-you-gave' is theologically critical)."
+        }
+      ],
+      "notes": "**FIRST BLAME-SHIFT:** Adam's response is the prototype-of-evasion — blame the wife and blame God. Three direct-objects of blame (woman + God + the woman-as-gift-from-God). Theological reading: human refusal-to-confess is universally accompanied by blame-displacement. Reformed theology has made much of the failure-of-Adam-as-federal-head — instead of confessing on behalf of the wife, he accuses her."
+    }
+  },
+  {
+    "reference": "Genesis 3:13",
+    "chapter": 3,
+    "verse": 13,
+    "language": "hebrew",
+    "hebrew": "וַיֹּ֨אמֶר יְהוָ֧ה אֱלֹהִ֛ים לָאִשָּׁ֖ה מַה־זֹּ֣את עָשִׂ֑ית וַתֹּ֨אמֶר֙ הָֽאִשָּׁ֔ה הַנָּחָ֥שׁ הִשִּׁיאַ֖נִי וָאֹכֵֽל׃",
+    "bsb_english": "Then the LORD God said to the woman, “What is this you have done?” “The serpent deceived me,” she replied, “and I ate.”",
+    "translation": {
+      "thai": "องค์พระผู้เป็นเจ้าพระเจ้าตรัสกับหญิงว่า “เจ้าทำอะไรลงไป” หญิงตอบว่า “งูล่อลวงข้าพระองค์ ข้าพระองค์จึงกินผลนั้น”",
+      "thai_literal": "และยาห์เวห์เอโลฮีมตรัสแก่หญิงว่า สิ่งนี้เจ้าทำอะไร และหญิงกล่าวว่า งูล่อลวงข้าพระองค์ และข้าพระองค์ได้รับประทาน",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה אֱלֹהִים",
+          "thai": "องค์พระผู้เป็นเจ้าพระเจ้า",
+          "rationale": "Per divine_names_table_2026-05.md: יהוה → องค์พระผู้เป็นเจ้า. See per-chapter footer note."
+        },
+        {
+          "hebrew": "הַנָּחָשׁ הִשִּׁיאַנִי",
+          "thai": "งูล่อลวงข้าพระองค์",
+          "rationale": "נָשָׁא (Hiphil 'cause-to-deceive, lead-astray'). Eve's response is more truthful than Adam's (she names her tempter accurately) but still incomplete-confession (she doesn't yet say 'I disobeyed' — only 'I was deceived and ate'). NT cite: 1 Tim 2:14 (ἡ γυνὴ ἐξαπατηθεῖσα 'the woman was deceived') — Paul reads Eve's deception specifically. Render 'งูล่อลวงข้าพระองค์' (the-serpent deceived-me) — preserves the deception-claim. The verb הִשִּׁיאַנִי is a hapax-form in OT — strong-deception."
+        }
+      ],
+      "notes": "**EVE'S BETTER-CONFESSION:** Eve more directly names the agent who tempted her (the serpent), without God-blaming. But she still focuses on the deception-aspect rather than the disobedience-aspect. NT echo: 1 Tim 2:14 reads Eve as 'deceived' (1 Cor 11:3 reads Adam as 'not deceived' but failing through other route). The Pauline-theology distinguishes the modes of failure: Eve via deception, Adam via deliberate-disobedience-with-eyes-open."
+    }
+  },
+  {
+    "reference": "Genesis 3:14",
+    "chapter": 3,
+    "verse": 14,
+    "language": "hebrew",
+    "hebrew": "וַיֹּאמֶר֩ יְהֹוָ֨ה אֱלֹהִ֥ים׀אֶֽל־הַנָּחָשׁ֮ כִּ֣י עָשִׂ֣יתָ זֹּאת֒ אָר֤וּר אַתָּה֙ מִכָּל־הַבְּהֵמָ֔ה וּמִכֹּ֖ל חַיַּ֣ת הַשָּׂדֶ֑ה עַל־גְּחֹנְךָ֣ תֵלֵ֔ךְ וְעָפָ֥ר תֹּאכַ֖ל כָּל־יְמֵ֥י חַיֶּֽיךָ׃",
+    "bsb_english": "So the LORD God said to the serpent: “Because you have done this, cursed are you above all livestock and every beast of the field! On your belly will you go, and dust you will eat, all the days of your life.",
+    "translation": {
+      "thai": "องค์พระผู้เป็นเจ้าพระเจ้าตรัสกับงูว่า “เพราะเจ้าทำสิ่งนี้ เจ้าจะถูกสาปแช่งมากกว่าสัตว์ใช้งานและสัตว์ป่าทั้งหลาย เจ้าจะเลื้อยไปด้วยท้องของเจ้าและกินผงคลีตลอดชีวิตของเจ้า",
+      "thai_literal": "และยาห์เวห์เอโลฮีมตรัสแก่งูว่า เพราะเจ้าทำสิ่งนี้ ผู้ถูกสาปคือเจ้าจากสัตว์เลี้ยงทั้งสิ้น และจากสัตว์ป่าทั้งสิ้นของทุ่ง บนท้องของเจ้าเจ้าจะไป และผงคลีเจ้าจะกินตลอดวันทั้งหมดของชีวิตของเจ้า",
+      "thai_summary": "พระเจ้าทรงพิพากษาตามลำดับ — งูก่อน เพราะเป็นต้นเหตุการล่อลวง สังเกตว่าพระเจ้าไม่ได้สอบสวนงู (ในขณะที่ทรงสอบสวนอาดัมและเอวา) — งูไม่ได้รับการเชิญให้สารภาพ เพราะธรรมชาติของมันคือผู้หลอกลวง การสาปแช่งสามส่วน: (1) สถานะ — “สาปแช่งเหนือสัตว์ทั้งหลาย”; (2) ท่าทาง — “เลื้อยไปด้วยท้อง” (ก่อนหน้านี้งูอาจมีรูปแบบที่แตกต่าง); (3) อาหาร — “กินผงคลี” (สัญลักษณ์ของความอัปยศและการพ่ายแพ้ — เปรียบกับ มีคาห์ 7:17, อิสยาห์ 65:25) “กินผงคลี” ไม่ใช่อาหารตามตัวอักษร แต่เป็นสำนวนของการอัปยศและการพ่ายแพ้",
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה אֱלֹהִים",
+          "thai": "องค์พระผู้เป็นเจ้าพระเจ้า",
+          "rationale": "Per divine_names_table_2026-05.md: יהוה → องค์พระผู้เป็นเจ้า. See per-chapter footer note."
+        },
+        {
+          "hebrew": "אָרוּר אַתָּה",
+          "thai": "เจ้าจะถูกสาปแช่ง",
+          "rationale": "אָרוּר (Qal passive participle 'cursed') — formal-divine-curse-formula. Recurs at 3:17 (ground cursed because of Adam), Gen 4:11 (Cain), Gen 9:25 (Canaan), Deut 27-28 (covenant-curses), Gal 3:13 ('Christ became a curse for us'). Lock: אָרוּר → ผู้ถูกสาปแช่ง / สาปแช่ง. Render 'จะถูกสาปแช่ง' (will-be-cursed) — Thai passive-future for the formal-curse-pronouncement."
+        },
+        {
+          "hebrew": "וְעָפָר תֹּאכַל",
+          "thai": "กินผงคลี",
+          "rationale": "Per uW (and standard exegesis): 'eating dust' is idiom for utter-defeat-and-humiliation. Recurs at Mic 7:17 (enemies will lick dust like a serpent), Isa 65:25 (eschatological-curse-resolution: 'dust shall be the serpent's food'); Ps 72:9 (royal psalm: enemies will lick dust). The rendering preserves the literal-image-AND-symbolic-defeat. Thai 'กินผงคลี' (eat-dust) preserves the imagery; the metaphorical-defeat sense is documented in thai_summary."
+        }
+      ],
+      "notes": "**CURSE-FORMAT:** the divine-curse follows ANE-treaty-curse-formats (cf. Vassal-Treaties of Esarhaddon, Hittite-treaty corpora). Hebrew adopts and reshapes the form. **DUST-EATING:** the imagery anticipates universal-eschatological-reversal — Mic 7:17, Isa 65:25, Rev 12 (Satan-defeat). The serpent's curse seeds the OT motif of cosmic-evil's-final-defeat. **NO INVESTIGATION OF SERPENT:** unlike Adam and Eve, the serpent receives no question. He is condemned-without-trial-but-with-cause ('because you have done this'). The narrative-grammar: rebellion has its own terminus — God permits some agents to receive judgment-without-extended-conversation."
+    }
+  },
+  {
+    "reference": "Genesis 3:15",
+    "chapter": 3,
+    "verse": 15,
+    "language": "hebrew",
+    "hebrew": "וְאֵיבָ֣ה׀אָשִׁ֗ית בֵּֽינְךָ֙ וּבֵ֣ין הָֽאִשָּׁ֔ה וּבֵ֥ין זַרְעֲךָ֖ וּבֵ֣ין זַרְעָ֑הּ ה֚וּא יְשׁוּפְךָ֣ רֹ֔אשׁ וְאַתָּ֖ה תְּשׁוּפֶ֥נּוּ עָקֵֽב׃ס",
+    "bsb_english": "And I will put enmity between you and the woman, and between your seed and her seed. He will crush your head, and you will strike his heel.”",
+    "translation": {
+      "thai": "เราจะให้เกิดความเป็นศัตรูกันระหว่างเจ้ากับหญิงนั้น และระหว่างพงศ์พันธุ์ของเจ้ากับพงศ์พันธุ์ของนาง ผู้นั้นจะทำให้หัวของเจ้าฟกช้ำ และเจ้าจะทำให้ส้นเท้าของเขาฟกช้ำ”",
+      "thai_literal": "และเราจะตั้งความเกลียดชังระหว่างเจ้าและระหว่างหญิง และระหว่างเชื้อสายของเจ้าและระหว่างเชื้อสายของนาง เขาจะทุบเจ้าที่ศีรษะ และเจ้าจะทุบเขาที่ส้นเท้า",
+      "thai_summary": "ข้อนี้เป็นที่รู้จักกันในชื่อ “Protoevangelium” — “ข่าวประเสริฐแรก” — เป็นคำพยากรณ์เกี่ยวกับพระเมสสิยาห์ครั้งแรกในพระคัมภีร์ พระเจ้าทรงประกาศแก่งูว่าจะมีความเป็นศัตรูถาวรระหว่างมัน-และพงศ์พันธุ์ของมัน กับ-หญิงและพงศ์พันธุ์ของนาง ในที่สุด “ผู้นั้น” (הוּא, สรรพนามชาย) จากพงศ์พันธุ์ของหญิงจะ “ทำให้หัวของเจ้าฟกช้ำ” (יְשׁוּפְךָ רֹאשׁ — การโจมตีที่อันตรายถึงตาย) ในขณะที่งูจะ “ทำให้ส้นเท้าของเขาฟกช้ำ” (תְּשׁוּפֶנּוּ עָקֵב — การโจมตีที่เจ็บแต่ไม่ถึงตาย) ประเพณีคริสเตียนอ่านการบาดเจ็บที่ส้นเท้าเป็นการตรึงพระเยซูที่ไม้กางเขน — บาดเจ็บแต่ไม่ทำลายล้าง — และการบดขยี้ที่หัวของงูเป็นการเอาชนะของพระคริสต์เหนือซาตาน (โรม 16:20, ฮีบรู 2:14, วิวรณ์ 12, 20) สรรพนาม 3 บุรุษเอกพจน์ הוּא เป็นข้อสำคัญ — ไม่ใช่ “เขาทั้งหลาย” (เชื้อสายโดยรวม) แต่เป็น “เขา” (บุคคลเฉพาะ) — ผู้ที่จะมาในที่สุดคือพระคริสต์",
+      "key_decisions": [
+        {
+          "hebrew": "וְאֵיבָה אָשִׁית בֵּינְךָ וּבֵין הָאִשָּׁה",
+          "thai": "เราจะให้เกิดความเป็นศัตรูกันระหว่างเจ้ากับหญิงนั้น",
+          "rationale": "אֵיבָה (enmity, hostility) + Qal imperfect שִׁית ('place, set') 1cs = 'I-will-place enmity.' Divine-imposition of permanent-hostility — not natural human-snake conflict, but spiritually-loaded enmity between two opposing-spiritual-forces. Render 'ความเป็นศัตรู' (state-of-being-enemies). The verb 'ให้เกิด' (cause-to-arise) preserves the divine-causative."
+        },
+        {
+          "hebrew": "וּבֵין זַרְעֲךָ וּבֵין זַרְעָהּ",
+          "thai": "ระหว่างพงศ์พันธุ์ของเจ้ากับพงศ์พันธุ์ของนาง",
+          "rationale": "זֶרַע (seed, offspring, descendants) — collective-noun, can be plural-many or singular-one. The same word at Gen 12:7 ('to your seed I will give this land' — collective Israel), Gen 22:18 ('in your seed all nations will be blessed' — singular = Christ per Gal 3:16). Render 'พงศ์พันธุ์' (lineage/descendants) — captures the collective-singular ambiguity in Thai. Mainstream Thai bibles use 'พงศ์พันธุ์' or 'เชื้อสาย'; Eremos locks 'พงศ์พันธุ์' for the זֶרַע-corpus."
+        },
+        {
+          "hebrew": "הוּא יְשׁוּפְךָ רֹאשׁ וְאַתָּה תְּשׁוּפֶנּוּ עָקֵב",
+          "thai": "ผู้นั้นจะทำให้หัวของเจ้าฟกช้ำ และเจ้าจะทำให้ส้นเท้าของเขาฟกช้ำ",
+          "rationale": "**THE PROTOEVANGELIUM** — Per uW writing-pronouns: 'Here, the pronoun He could refer to: (1) the woman's descendant (Jesus), who would one day come to earth as the Messiah... (2) the woman's descendants who will constantly be enemies of the snake's descendants. If you follow the first interpretation, this would be the first prophecy in the Bible about the Christ.' The Hebrew הוּא (3ms 'he') is masculine-singular — grammatically pointing to a single-person rather than collective-many. LXX renders αὐτός σου τηρήσει κεφαλήν (3ms αὐτός — confirming individual-singular reading). NT echo: Rom 16:20 ('the God of peace will soon crush Satan under your feet'); Rev 12 (the woman + her offspring vs. the dragon). Render 'ผู้นั้น' (that-one, individual-singular) — preserves the singular pronoun explicitly. The verb שׁוּף ('crush, bruise') is a hapax-doublet — used twice with two different objects (head + heel). Render symmetrically: 'ทำให้...ฟกช้ำ' (cause-to-be-bruised). The verbal-symmetry is preserved; the asymmetry-of-impact (head = lethal vs. heel = nonlethal) is preserved in the body-parts."
+        }
+      ],
+      "notes": "**THE PROTOEVANGELIUM:** v.15 is the Bible's first messianic-prophecy. Christian tradition reads 'her seed' as Christ (Gal 3:16, 4:4, Heb 2:14, Rev 12, 20). The Hebrew הוּא (singular masculine pronoun) supports an individual-rather-than-collective reading. **VERBAL-SYMMETRY, IMPACT-ASYMMETRY:** the verb שׁוּף is the same in both clauses (he crushes — you crush) but the body-parts are different — head-strike is lethal, heel-strike is non-lethal-but-painful. The protoevangelium gestures toward the cross (heel-wound) and resurrection-victory (head-crushing). **NT CITATIONS:** Rom 16:20 explicitly cites Gen 3:15. Heb 2:14 reads Christ's incarnation-and-death as the destruction of him-who-had-the-power-of-death (i.e., the serpent-Satan). **ADD TO nt_ot_citations.json:** Rom 16:20 ↔ Gen 3:15."
+    }
+  },
+  {
+    "reference": "Genesis 3:16",
+    "chapter": 3,
+    "verse": 16,
+    "language": "hebrew",
+    "hebrew": "אֶֽל־הָאִשָּׁ֣ה אָמַ֗ר הַרְבָּ֤ה אַרְבֶּה֙ עִצְּבוֹנֵ֣ךְ וְהֵֽרֹנֵ֔ךְ בְּעֶ֖צֶב תֵּֽלְדִ֣י בָנִ֑ים וְאֶל־אִישֵׁךְ֙ תְּשׁ֣וּקָתֵ֔ךְ וְה֖וּא יִמְשָׁל־בָּֽךְ׃ס",
+    "bsb_english": "To the woman He said: “I will sharply increase your pain in childbirth; in pain you will bring forth children. Your desire will be for your husband, and he will rule over you.”",
+    "translation": {
+      "thai": "พระองค์ตรัสกับหญิงว่า “เราจะทวีความเจ็บปวดของเจ้าในการคลอดบุตรอย่างยิ่ง เจ้าจะคลอดบุตรด้วยความเจ็บปวด ความปรารถนาของเจ้าจะอยู่ที่สามีของเจ้า และเขาจะปกครองเจ้า”",
+      "thai_literal": "ที่หญิงพระองค์ตรัสว่า ทวี-ทวี เราจะทวีความเจ็บปวดของเจ้าและการตั้งครรภ์ของเจ้า ในความเจ็บปวดเจ้าจะคลอดบุตรชาย และที่สามีของเจ้าคือความปรารถนาของเจ้า และเขาจะปกครองในเจ้า",
+      "thai_summary": "พระเจ้าทรงพิพากษาหญิงในสองด้าน: (1) ความเจ็บปวดในการให้กำเนิดบุตร — สำนวนเน้นย้ำแบบ infinitive-absolute (הַרְבָּה אַרְבֶּה, “ทวีอย่างยิ่ง”); (2) ความสัมพันธ์ที่บิดเบือนกับสามี — תְּשׁוּקָה (ความปรารถนา) + יִמְשָׁל (ปกครอง) คำ תְּשׁוּקָה (เทชูคาห์) ปรากฏเพียง 3 ครั้งใน OT ทั้งหมด: ที่นี่, ที่ ปฐมกาล 4:7 (บาปมีความปรารถนาเหนือคาอิน), และที่ เพลงโซโลมอน 7:10 (สามี-ภรรยาที่รักกัน) — ความหมายในข้อนี้ถูกถกเถียงมาก ทาง interpret หลัก: (1) ความปรารถนาทางเพศ (เป็นจังหวะคู่กับ พงสด 7:10 — เธอยังคงรักเขาแม้จะเจ็บปวด); (2) ความปรารถนาที่จะควบคุม (เป็นจังหวะคู่กับ ปฐมกาล 4:7 — เธอจะพยายามแย่งชิงอำนาจ แต่เขาจะกดขี่นาง) ใน NT 1 ทิโมธี 2:13-15 และ เอเฟซัส 5:21-33 อ่านการสาปแช่งนี้เป็นการบิดเบือนความสัมพันธ์ที่เป็นเงาของการรวมเป็นหนึ่งของพระคริสต์-คริสตจักร ซึ่งจะถูกฟื้นฟูใน Christ",
+      "key_decisions": [
+        {
+          "hebrew": "הַרְבָּה אַרְבֶּה",
+          "thai": "เราจะทวี...อย่างยิ่ง",
+          "rationale": "**HEBREW INFINITIVE-ABSOLUTE EMPHATIC** (third in the chapter, after God's אָכֹל תֹּאכֵל at 2:16 and serpent's לֹא־מוֹת תְּמֻתוּן at 3:4). Per uW figs-reduplication: 'The speaker is repeating forms of the verb multiply in order to intensify the idea... Alternate translation: I will cause you to have much pain.' Render 'ทวี...อย่างยิ่ง' (multiply...exceedingly) with the adverb appended. The thai_literal preserves 'ทวี-ทวี' for transparency."
+        },
+        {
+          "hebrew": "וְאֶל־אִישֵׁךְ תְּשׁוּקָתֵךְ וְהוּא יִמְשָׁל־בָּךְ",
+          "thai": "ความปรารถนาของเจ้าจะอยู่ที่สามีของเจ้า และเขาจะปกครองเจ้า",
+          "rationale": "**INTERPRETIVE CRUX.** Per uW figs-idiom: 'The common expression your desire will be for your husband could refer to (1) sexual desire... or (2) desire for control, which is similar to what desire means in Genesis 4:7.' תְּשׁוּקָה (teshuqah) appears 3x in OT — here, Gen 4:7 (sin's desire for Cain), Song 7:10 (positive marital desire). The Gen 4:7 parallel is structurally identical (אֵלֶיךָ תְּשׁוּקָתוֹ וְאַתָּה תִּמְשָׁל־בּוֹ 'its desire is for you, but you must rule over it') — sin-as-predator desires Cain, but Cain must rule. Many modern scholars (e.g., S. Foh, ESV Study Bible) read Gen 3:16 with the Gen 4:7 parallel: woman will desire-to-control her husband; he will dominate her. This is a CURSE — describing the post-Fall war-of-the-sexes, not a divine-mandate. Render 'ความปรารถนา' (desire) for the polysemy; render 'ปกครอง' (rule, dominate) for יִמְשָׁל. The thai_summary documents the interpretive options. NT alignment: Eph 5:21-33 + 1 Tim 2:13-15 read this curse as restorable-through-Christ — the marriage-relationship is healed in the gospel."
+        }
+      ],
+      "notes": "**WOMAN'S CURSE — TWO DOMAINS:** (1) PROCREATION — pain-multiplication (the very thing that should be most natural-fulfilling becomes most-painful); (2) RELATIONAL — distortion of marital harmony (war-of-the-sexes replaces partnership). **תְּשׁוּקָה INTERPRETIVE OPTIONS:** the same word in Gen 4:7 of sin's predatory-desire favors the controlling-desire reading at 3:16. Reformed + complementarian readings tend to read this; egalitarian readings tend to soften. Eremos preserves the polysemy without forcing one reading. **CURSE NOT DESIGN:** the verse describes a cursed-state, not God's original-design. Eph 5:21-33 reads marriage christologically — the cross-restored marriage transcends both the original-curse-distortion."
+    }
+  },
+  {
+    "reference": "Genesis 3:17",
+    "chapter": 3,
+    "verse": 17,
+    "language": "hebrew",
+    "hebrew": "וּלְאָדָ֣ם אָמַ֗ר כִּֽי־שָׁמַעְתָּ֮לְק֣וֹל אִשְׁתֶּךָ֒ וַתֹּ֨אכַל֙ מִן־הָעֵ֔ץ אֲשֶׁ֤ר צִוִּיתִ֨יךָ֙ לֵאמֹ֔ר לֹ֥א תֹאכַ֖ל מִמֶּ֑נּוּ אֲרוּרָ֤ה הָֽאֲדָמָה֙ בַּֽעֲבוּרֶ֔ךָ בְּעִצָּבוֹן֙ תֹּֽאכֲלֶ֔נָּה כֹּ֖ל יְמֵ֥י חַיֶּֽיךָ׃",
+    "bsb_english": "And to Adam He said: “Because you have listened to the voice of your wife and have eaten from the tree of which I commanded you not to eat, cursed is the ground because of you; through toil you will eat of it all the days of your life.",
+    "translation": {
+      "thai": "พระองค์ตรัสกับอาดัมว่า “เพราะเจ้าฟังเสียงภรรยาของเจ้าและกินผลจากต้นไม้ที่เราสั่งห้ามว่า ‘เจ้าอย่ากินจากมัน’ พื้นดินจึงถูกสาปแช่งเพราะเจ้า เจ้าจะกินจากมันด้วยความยากลำบากตลอดชีวิตของเจ้า",
+      "thai_literal": "และที่อาดัมพระองค์ตรัสว่า เพราะเจ้าได้ฟังเสียงของภรรยาของเจ้า และเจ้าได้กินจากต้นไม้ที่เราสั่งเจ้าโดยกล่าวว่า เจ้าอย่ากินจากมัน ผู้ถูกสาปคือพื้นดินเพราะเจ้า ในความยากลำบากเจ้าจะกินจากมันตลอดวันทั้งหมดของชีวิตของเจ้า",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "כִּי־שָׁמַעְתָּ לְקוֹל אִשְׁתֶּךָ",
+          "thai": "เพราะเจ้าฟังเสียงภรรยาของเจ้า",
+          "rationale": "Adam's specific-sin: 'listened-to-the-voice-of' = 'obeyed' (the verb שָׁמַע + ל-construct = 'obey'). Same construction at Gen 22:18 (Abraham obeying God's voice — positive). Adam's sin: he obeyed his wife instead of obeying God's command. Note: this is not a generic anti-wife-obeying statement — Adam's sin was prioritizing his wife's voice over God's. Render 'ฟังเสียงภรรยา' (listened-to-his-wife's-voice) — preserves the obedience-displacement structure."
+        },
+        {
+          "hebrew": "אֲרוּרָה הָאֲדָמָה בַּעֲבוּרֶךָ",
+          "thai": "พื้นดินจึงถูกสาปแช่งเพราะเจ้า",
+          "rationale": "**GROUND CURSED, NOT ADAM** — significantly, God curses the ground, not Adam directly. Adam's punishment is mediated through the ground (which becomes resistant + thorny). The serpent received direct curse (v.14); Adam receives mediated-curse-on-the-ground. Render 'พื้นดินจึงถูกสาปแช่งเพราะเจ้า' — preserves the indirect-curse-structure. Theologically: the cosmos suffers because of human-sin (cf. Rom 8:19-22 'creation groaning'). Ground will be lifted from curse at Gen 8:21 (post-Flood) and ultimately at the eschaton."
+        }
+      ],
+      "notes": "**INDIRECT CURSE:** unlike the serpent (direct curse), Adam receives a mediated-curse — the GROUND is cursed, not Adam himself. This anticipates the cosmos-suffers-with-humanity theology of Rom 8:19-22. **WORK BECOMES TOIL:** pre-Fall work (2:15) becomes post-Fall toil (3:17-19). Work itself is not the curse — the resistance + thorns are the curse. **PROVIDENTIAL MERCY:** even in the curse, life continues — Adam will eat, will live, will work. The curse doesn't annihilate; it distorts."
+    }
+  },
+  {
+    "reference": "Genesis 3:18",
+    "chapter": 3,
+    "verse": 18,
+    "language": "hebrew",
+    "hebrew": "וְק֥וֹץ וְדַרְדַּ֖ר תַּצְמִ֣יחַֽ לָ֑ךְ וְאָכַלְתָּ֖ אֶת־עֵ֥שֶׂב הַשָּׂדֶֽה׃",
+    "bsb_english": "Both thorns and thistles it will yield for you, and you will eat the plants of the field.",
+    "translation": {
+      "thai": "ดินจะให้หนามและพืชหนามแก่เจ้า และเจ้าจะกินพืชในทุ่ง",
+      "thai_literal": "และหนามและพืชหนามเจ้าจะงอกเงยให้แก่เจ้า และเจ้าจะกินพืชของทุ่ง",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "וְקוֹץ וְדַרְדַּר",
+          "thai": "หนามและพืชหนาม",
+          "rationale": "Two distinct prickly-plants: קוֹץ (qots) = thorn, prickle; דַּרְדַּר (dardar) = thistle, weed. Render 'หนามและพืชหนาม' (thorn and thorn-plant). The pair becomes a stock-image of cursed-ground (Hos 10:8, Heb 6:8). NT echo: Mt 27:29 / Mk 15:17 / Jn 19:2 — Christ wears the crown of thorns, taking-on-himself the curse-of-the-ground."
+        }
+      ],
+      "notes": "**CHRIST AND THORNS:** the crown-of-thorns at the crucifixion (Mt 27:29) typologically inherits Gen 3:18 — Christ takes on the cursed-ground-symbol as he reverses the curse. Christian-traditional reading: the crown-of-thorns = Christ bearing the Adamic-curse on behalf of fallen-humanity."
+    }
+  },
+  {
+    "reference": "Genesis 3:19",
+    "chapter": 3,
+    "verse": 19,
+    "language": "hebrew",
+    "hebrew": "בְּזֵעַ֤ת אַפֶּ֨יךָ֙ תֹּ֣אכַל לֶ֔חֶם עַ֤ד שֽׁוּבְךָ֙ אֶל־הָ֣אֲדָמָ֔ה כִּ֥י מִמֶּ֖נָּה לֻקָּ֑חְתָּ כִּֽי־עָפָ֣ר אַ֔תָּה וְאֶל־עָפָ֖ר תָּשֽׁוּב׃",
+    "bsb_english": "By the sweat of your brow you will eat your bread, until you return to the ground—because out of it were you taken. For dust you are, and to dust you shall return.”",
+    "translation": {
+      "thai": "เจ้าจะกินอาหารด้วยเหงื่อจากหน้าผากของเจ้า จนเจ้ากลับสู่พื้นดิน เพราะเจ้าถูกนำมาจากที่นั่น เพราะเจ้าเป็นผงคลี และเจ้าจะกลับเป็นผงคลี”",
+      "thai_literal": "ในเหงื่อของจมูกของเจ้า เจ้าจะกินขนมปัง จนเจ้ากลับสู่พื้นดิน เพราะจากมันเจ้าถูกเอามา เพราะผงคลีคือเจ้า และที่ผงคลีเจ้าจะกลับ",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "בְּזֵעַת אַפֶּיךָ",
+          "thai": "ด้วยเหงื่อจากหน้าผากของเจ้า",
+          "rationale": "Hebrew literally 'in-the-sweat of-your-nose/face.' אַף primarily means 'nose' but extends to 'face' in poetic-figurative contexts. Standard English idiom 'sweat of brow' (KJV-tradition) captures this. Thai 'เหงื่อจากหน้าผาก' (sweat-from-forehead) is the natural Thai equivalent. The thai_literal preserves the Hebrew anatomy ('จมูก' = nose) for transparency."
+        },
+        {
+          "hebrew": "כִּי־עָפָר אַתָּה וְאֶל־עָפָר תָּשׁוּב",
+          "thai": "เพราะเจ้าเป็นผงคลี และเจ้าจะกลับเป็นผงคลี",
+          "rationale": "The dust-formula. Echo of 2:7 (Adam formed from dust). The dust-to-dust trajectory establishes the human-mortality theology. Render 'เจ้าเป็นผงคลี และเจ้าจะกลับเป็นผงคลี' (you-are-dust, and-to-dust you-will-return) — preserves the inclusio with 2:7's 'formed... from dust.' Lock: עָפָר (in human-formation/return contexts) → ผงคลี. NT echo: 1 Cor 15:47 ('the first man is from the earth, of dust') reads the dust-formula in resurrection-theological framework."
+        }
+      ],
+      "notes": "**DUST-INCLUSIO:** v.19 closes the Adam-from-dust theme that opened at 2:7. Humanity's bracketing-existence: dust-to-dust. The Christ-resurrection is the eschatological-reversal — humanity raised-immortal in 1 Cor 15. **DEATH-AS-CONSEQUENCE:** the death-threat of 2:17 is now activated. Adam will eventually die (Gen 5:5 — 930 years later) — physical-death is the cumulative-result of the day-of-disobedience. **WORK + DEATH FRAMING:** vv.17-19 frame human-life under-curse as a long arc of laborious-eating-toward-burial. Yet life continues — even in curse, providence + grace operate."
+    }
+  },
+  {
+    "reference": "Genesis 3:20",
+    "chapter": 3,
+    "verse": 20,
+    "language": "hebrew",
+    "hebrew": "וַיִּקְרָ֧א הָֽאָדָ֛ם שֵׁ֥ם אִשְׁתּ֖וֹ חַוָּ֑ה כִּ֛י הִ֥וא הָֽיְתָ֖ה אֵ֥ם כָּל־חָֽי׃",
+    "bsb_english": "And Adam named his wife Eve, because she would be the mother of all the living.",
+    "translation": {
+      "thai": "อาดัมตั้งชื่อภรรยาของเขาว่าเอวา เพราะนางจะเป็นมารดาของผู้มีชีวิตทั้งปวง",
+      "thai_literal": "และอาดัมเรียกชื่อภรรยาของเขาว่าฮัฟวาห์ (เอวา) เพราะนางเป็นมารดาของทุกผู้มีชีวิต",
+      "thai_summary": "ข้อนี้เป็นการแสดงออกของความหวังหลังการตกในบาป ในขณะที่พระเจ้าเพิ่งทรงประกาศคำสาป — ความเจ็บปวดในการให้กำเนิดบุตร ความตาย — อาดัมตอบสนองด้วยศรัทธา ตั้งชื่อภรรยาของเขาว่า חַוָּה (ฮัฟวาห์, “ผู้ให้ชีวิต”) จากรากศัพท์ חָיָה (“มีชีวิต”) ทั้งที่เธอจะเจ็บปวดในการคลอดบุตรและในที่สุดจะตาย แต่ผ่านนางจะมาพงศ์พันธุ์ที่เอาชนะงูได้ (3:15) ชื่อ “เอวา” = “ชีวิต” จึงเป็นคำพยากรณ์เชิงศรัทธา — มนุษย์จะดำรงต่อไปและในที่สุดจะมาเอาชนะความตาย",
+      "key_decisions": [
+        {
+          "hebrew": "חַוָּה",
+          "thai": "เอวา",
+          "rationale": "Per proper_names_and_transliteration_2026-05.md (THSV11 baseline) + per the Hebrew etymological-wordplay note: חַוָּה (Chawwah) → 'เอวา' (Eve, THSV11 baseline). The Hebrew name חַוָּה derives from the verb חָיָה ('live') — 'life-giver, mother-of-life.' The wordplay does not survive the transliteration but is documented in key_decisions + thai_summary. Per proper-names policy override #2 (theological-wordplay): preserve the Thai transliteration + footnote the meaning. The thai_literal preserves both the Hebrew name + the rendering for transparency."
+        },
+        {
+          "hebrew": "אֵם כָּל־חָי",
+          "thai": "มารดาของผู้มีชีวิตทั้งปวง",
+          "rationale": "אֵם (mother) + כָּל־חָי (all-living, all-having-life). The phrase identifies Eve as the universal-female-ancestor. Render 'มารดาของผู้มีชีวิตทั้งปวง' (mother-of all-the-living)."
+        }
+      ],
+      "notes": "**FAITH AFTER FALL:** Adam's name-giving here is an ACT OF FAITH after curse-pronouncement. He could have named her based on her sin or her pain; instead he names her based on God's coming-redemption (the offspring-promise of v.15). Adam's faith — even just-after-Fall — anticipates the gospel-trajectory of all who will be 'mother of the living' through her. **WORDPLAY חַוָּה ↔ חָיָה:** Hebrew sound-and-sense play — Eve's name = 'life.' The Septuagint renders Ζωή ('life'); the Vulgate Heva = the standard transliteration (becomes English 'Eve')."
+    }
+  },
+  {
+    "reference": "Genesis 3:21",
+    "chapter": 3,
+    "verse": 21,
+    "language": "hebrew",
+    "hebrew": "וַיַּעַשׂ֩ יְהוָ֨ה אֱלֹהִ֜ים לְאָדָ֧ם וּלְאִשְׁתּ֛וֹ כָּתְנ֥וֹת ע֖וֹר וַיַּלְבִּשֵֽׁם׃פ",
+    "bsb_english": "And the LORD God made garments of skin for Adam and his wife, and He clothed them.",
+    "translation": {
+      "thai": "องค์พระผู้เป็นเจ้าพระเจ้าทรงทำเสื้อผ้าจากหนังสัตว์ให้แก่อาดัมและภรรยาของเขา และทรงให้พวกเขาสวมใส่",
+      "thai_literal": "และยาห์เวห์เอโลฮีมทรงทำให้อาดัมและภรรยาของเขาซึ่งเสื้อหนัง และทรงให้พวกเขาสวมใส่",
+      "thai_summary": "ข้อนี้เป็นข้อแห่งพระเมตตา — ก่อนการขับไล่ออกจากสวน พระเจ้าทรงให้เสื้อผ้าแก่อาดัมและเอวา ใบมะเดื่อที่พวกเขาทำเอง (3:7) ไม่เพียงพอ — พระเจ้าต้องประทานสิ่งที่ดีกว่า การที่เสื้อผ้าทำจาก “หนัง” (עוֹר) มีนัยทางศาสนศาสตร์ที่ลึกซึ้ง — เป็นการตายครั้งแรกในพระคัมภีร์ (สัตว์ถูกฆ่าเพื่อให้หนัง) เพื่อปกปิดความอัปยศของมนุษย์ พระคัมภีร์คริสเตียนอ่านสิ่งนี้เป็นเงาของระบบเครื่องบูชา — การปกคลุมความบาปต้องการการตาย (ฮีบรู 9:22, “หากปราศจากการหลั่งโลหิต ก็ไม่มีการอภัย”) และในที่สุดเป็นเงาของพระคริสต์ผู้ทรงเป็นเครื่องบูชาที่แท้จริง",
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה אֱלֹהִים",
+          "thai": "องค์พระผู้เป็นเจ้าพระเจ้า",
+          "rationale": "Per divine_names_table_2026-05.md: יהוה → องค์พระผู้เป็นเจ้า."
+        },
+        {
+          "hebrew": "כָּתְנוֹת עוֹר",
+          "thai": "เสื้อผ้าจากหนังสัตว์",
+          "rationale": "כְּתֹנֶת (kethoneth) = tunic, garment, robe. Same word as Joseph's coat-of-many-colors (Gen 37:3, 23). עוֹר (or) = skin, hide, leather. The garments are MADE FROM ANIMAL SKIN — implying the death of an animal. Render 'เสื้อผ้าจากหนังสัตว์' (clothes made-from animal-skin) — preserves the killed-animal implication. The theological-significance (covering-by-death-of-substitute) is documented in thai_summary."
+        }
+      ],
+      "notes": "**FIRST DEATH:** to make skin-garments, animals had to be killed. This is the first-death in the Bible (anticipating Cain's killing of Abel in ch.4). The deaths-for-covering anticipate the entire OT sacrificial-system. **GOD COVERS RATHER THAN HUMANS COVER:** the human attempt at self-covering (fig-leaves, v.7) was inadequate; God's covering succeeds. Theologically: salvation is divine-provision, not human-achievement. **NT TYPOLOGY:** Heb 9:22 ('without shedding of blood there is no forgiveness'); the garments-of-skin proto-typify the sacrificial-Christology. **PROVIDENTIAL MERCY:** even after curse-pronouncement, God provides for human-need before the expulsion. The exile is not abandonment — even the cherubim-guarded path (v.24) preserves the way-to-life for future-restoration."
+    }
+  },
+  {
+    "reference": "Genesis 3:22",
+    "chapter": 3,
+    "verse": 22,
+    "language": "hebrew",
+    "hebrew": "וַיֹּ֣אמֶר׀יְהוָ֣ה אֱלֹהִ֗ים הֵ֤ן הָֽאָדָם֙ הָיָה֙ כְּאַחַ֣ד מִמֶּ֔נּוּ לָדַ֖עַת ט֣וֹב וָרָ֑ע וְעַתָּ֣ה׀פֶּן־יִשְׁלַ֣ח יָד֗וֹ וְלָקַח֙ גַּ֚ם מֵעֵ֣ץ הַֽחַיִּ֔ים וְאָכַ֖ל וָחַ֥י לְעֹלָֽם׃",
+    "bsb_english": "Then the LORD God said, “Behold, the man has become like one of Us, knowing good and evil. And now, lest he reach out his hand and take also from the tree of life, and eat, and live forever...”",
+    "translation": {
+      "thai": "องค์พระผู้เป็นเจ้าพระเจ้าตรัสว่า “ดูเถิด มนุษย์ได้กลายเป็นเหมือนผู้หนึ่งในพวกเรา รู้ดีและชั่วแล้ว บัดนี้เพื่อมิให้เขายื่นมือออกมาเก็บผลจากต้นไม้แห่งชีวิตด้วย แล้วกินและมีชีวิตเป็นนิตย์...”",
+      "thai_literal": "และยาห์เวห์เอโลฮีมตรัสว่า ดูเถิด อาดัมได้กลายเป็นเหมือนผู้หนึ่งจากพวกเรา ที่จะรู้ดีและชั่ว และบัดนี้ มิฉะนั้นเขาจะยื่นมือของเขาและเอาด้วยจากต้นไม้แห่งชีวิต และกินและมีชีวิตอยู่ตลอดไป",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה אֱלֹהִים",
+          "thai": "องค์พระผู้เป็นเจ้าพระเจ้า",
+          "rationale": "Per divine_names_table_2026-05.md: יהוה → องค์พระผู้เป็นเจ้า."
+        },
+        {
+          "hebrew": "כְּאַחַד מִמֶּנּוּ",
+          "thai": "เหมือนผู้หนึ่งในพวกเรา",
+          "rationale": "**SECOND DIVINE PLURAL** (after Gen 1:26 'let us make'). 'Like one of us' — the same plural-divine-self-reference. Confirms the serpent's promise (v.5 'you will be like Elohim') had real-content — humans DID gain moral-knowledge. But the gain comes with curse, not blessing. Render 'เหมือนผู้หนึ่งในพวกเรา' (like-one of-us) — preserves the plurality. Per OT register policy §1.4: divine-royal voice uses 'เรา' (royal we)."
+        },
+        {
+          "hebrew": "פֶּן־יִשְׁלַח יָדוֹ וְלָקַח גַּם מֵעֵץ הַחַיִּים וְאָכַל וָחַי לְעֹלָם",
+          "thai": "เพื่อมิให้เขายื่นมือออกมาเก็บผลจากต้นไม้แห่งชีวิตด้วย แล้วกินและมีชีวิตเป็นนิตย์",
+          "rationale": "**APOSIOPESIS (BROKEN-OFF SENTENCE):** the verse ends mid-thought — 'lest... and eat... and live-forever...' The Hebrew text deliberately leaves the consequence unspecified. The implied conclusion: 'lest the human attain immortality in the fallen state' — which would be a worse-fate than death (eternal-fallen-life). The mercy of expulsion: cutting humanity off from the tree-of-life is paradoxically merciful — it prevents eternalization of the fallen-condition. Render the broken-off sentence with Thai ellipsis (...) — preserves the apocopation. Lock: עֵץ הַחַיִּים → ต้นไม้แห่งชีวิต (matching 2:9)."
+        }
+      ],
+      "notes": "**MERCIFUL EXPULSION:** the expulsion from Eden is paradoxically merciful — cutting humanity off from the tree-of-life prevents the eternalization-of-the-fallen-state. Death itself, in this reading, is also-a-mercy — it prevents endless-decay. The redemption-narrative: God will restore access to the tree-of-life eschatologically (Rev 22:2, 22:14). **APOSIOPESIS:** the mid-sentence ending ('and live forever...') is rhetorically loaded — the implied-but-unspoken conclusion is 'lest he live-forever-in-curse.' Hebrew apocopation creates dramatic-tension. **DIVINE PLURAL CONFIRMED:** the second 'us' (after 1:26) reinforces the plurality-of-divine-self-deliberation. Same readings as 1:26 — royal we, divine council, Trinitarian premonition."
+    }
+  },
+  {
+    "reference": "Genesis 3:23",
+    "chapter": 3,
+    "verse": 23,
+    "language": "hebrew",
+    "hebrew": "וַֽיְשַׁלְּחֵ֛הוּ יְהוָ֥ה אֱלֹהִ֖ים מִגַּן־עֵ֑דֶן לַֽעֲבֹד֙ אֶת־הָ֣אֲדָמָ֔ה אֲשֶׁ֥ר לֻקַּ֖ח מִשָּֽׁם׃",
+    "bsb_english": "Therefore the LORD God banished him from the Garden of Eden to work the ground from which he had been taken.",
+    "translation": {
+      "thai": "องค์พระผู้เป็นเจ้าพระเจ้าจึงทรงส่งเขาออกจากสวนเอเดน เพื่อทำงานพื้นดินที่เขาถูกนำมาจากที่นั่น",
+      "thai_literal": "และยาห์เวห์เอโลฮีมทรงส่งเขาออกจากสวนแห่งเอเดน เพื่อทำงานซึ่งพื้นดินที่เขาถูกเอามา จากที่นั่น",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה אֱלֹהִים",
+          "thai": "องค์พระผู้เป็นเจ้าพระเจ้า",
+          "rationale": "Per divine_names_table_2026-05.md: יהוה → องค์พระผู้เป็นเจ้า."
+        },
+        {
+          "hebrew": "וַיְשַׁלְּחֵהוּ",
+          "thai": "ทรงส่งเขาออก",
+          "rationale": "שָׁלַח (Piel: 'send away, dismiss, expel'). Distinct from גָּרַשׁ (drive out, more violent — used in v.24). The Piel here is a controlled-sending, not a violent-expulsion. Render 'ทรงส่ง...ออก' (royally-send-out) — captures the intentional dismissal."
+        },
+        {
+          "hebrew": "לַעֲבֹד אֶת־הָאֲדָמָה",
+          "thai": "เพื่อทำงานพื้นดิน",
+          "rationale": "Echoes 2:15's mandate ('to work and to keep' the garden). Adam is still mandated to work the ground — but now the ground is OUTSIDE Eden + UNDER CURSE. Same vocation, harder conditions. Render 'ทำงานพื้นดิน' (work-the-ground) — same Thai 'ทำงาน' as in 2:15 for vocational-continuity."
+        }
+      ],
+      "notes": "**VOCATION CONTINUES:** Adam is dismissed to work the ground — the same vocation he had in Eden (2:15). Work itself is not the punishment; the conditions of work are now-cursed. **DUST-INCLUSIO:** 'the ground from which he had been taken' echoes 2:7 — Adam returns to working the same earth-substance from which he was formed. The tragedy: the substance that birthed him will eventually re-absorb him (v.19's dust-to-dust)."
+    }
+  },
+  {
+    "reference": "Genesis 3:24",
+    "chapter": 3,
+    "verse": 24,
+    "language": "hebrew",
+    "hebrew": "וַיְגָ֖רֶשׁ אֶת־הָֽאָדָ֑ם וַיַּשְׁכֵּן֩ מִקֶּ֨דֶם לְגַן־עֵ֜דֶן אֶת־הַכְּרֻבִ֗ים וְאֵ֨ת לַ֤הַט הַחֶ֨רֶב֙ הַמִּתְהַפֶּ֔כֶת לִשְׁמֹ֕ר אֶת־דֶּ֖רֶךְ עֵ֥ץ הַֽחַיִּֽים׃ס",
+    "bsb_english": "So He drove out the man and stationed cherubim on the east side of the Garden of Eden, along with a whirling sword of flame to guard the way to the tree of life.",
+    "translation": {
+      "thai": "พระองค์ทรงขับไล่อาดัมออกไป และทรงตั้งเครูบทั้งหลายไว้ทางทิศตะวันออกของสวนเอเดน พร้อมดาบเปลวเพลิงที่หมุนได้ เพื่อเฝ้ารักษาทางไปยังต้นไม้แห่งชีวิต",
+      "thai_literal": "และพระองค์ทรงขับไล่ซึ่งอาดัม และทรงตั้งจากทางตะวันออกของสวนแห่งเอเดน ซึ่งเครูบิม และเปลวของดาบที่หมุนกลับได้ เพื่อรักษาซึ่งทางของต้นไม้แห่งชีวิต",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "וַיְגָרֶשׁ",
+          "thai": "ทรงขับไล่...ออกไป",
+          "rationale": "גָּרַשׁ (Piel: 'drive out forcibly, expel'). Stronger than שָׁלַח (v.23's 'send away'). The verbal-progression: dismissed (v.23), then forcibly-driven-out (v.24). Render 'ทรงขับไล่' (royally-drive-out, more forceful)."
+        },
+        {
+          "hebrew": "כְּרֻבִים",
+          "thai": "เครูบ",
+          "rationale": "**FIRST OCCURRENCE OF CHERUBIM IN THE BIBLE.** Per proper_names_and_transliteration policy: כְּרוּבִים (cherubim) → 'เครูบ' (THSV11 baseline; Thai-Bible standard). Cherubim recur in OT cult (Tabernacle: Ex 25:18-22 — atop the ark; Temple: 1 Kgs 6:23-28 — guarding the holy-of-holies; Ezekiel's vision Ezek 1, 10). Always associated with God's-presence-AND-the-boundary-around-it. Render 'เครูบ' singular-form-pluralized contextually; some Thai bibles use 'เครูบทั้งหลาย' (cherubim plural) which works."
+        },
+        {
+          "hebrew": "לַהַט הַחֶרֶב הַמִּתְהַפֶּכֶת",
+          "thai": "ดาบเปลวเพลิงที่หมุนได้",
+          "rationale": "לַהַט (flame, blaze) + חֶרֶב (sword) + הַמִּתְהַפֶּכֶת (Hithpael participle 'turning-itself-around'). The whirling-flaming-sword is a hapax-image — only here. Could be (1) a single-flaming-sword that rotates (most translations); (2) a flaming-sword-vision-imagery (theophanic). Render 'ดาบเปลวเพลิงที่หมุนได้' (flame-sword-that-turns) — preserves the rotation-imagery."
+        }
+      ],
+      "notes": "**EDEN-AS-PROTOSANCTUARY:** the cherubim-guarded eastern-entrance to Eden becomes the template for the Tabernacle/Temple — the holy-of-holies is also guarded by cherubim (Ex 26:31-33 the inner-veil; 1 Kgs 6:23-28 the cherubim atop the ark; Ezek 28:14 'guardian cherub'). Eden is the proto-Temple; the Temple's-cherubim restore-and-symbolize Eden's. **WAY TO TREE-OF-LIFE GUARDED:** the way to the tree-of-life is guarded, not destroyed. The eschatological-restoration in Rev 22:2 + 22:14 reopens the way through Christ. The Christian theological-trajectory: Eden lost in Gen 3 → Eden restored in Rev 22 → mediated through the cross. **CHAPTER CLOSE:** ch.3 ends in expulsion-and-loss, but the chapter has also embedded the seeds of redemption: protoevangelium (v.15), Eve as mother-of-life (v.20), divine-clothing (v.21), the way-to-life still-existing-but-guarded (v.24). The narrative is tragic-but-not-final."
+    }
+  }
+]
