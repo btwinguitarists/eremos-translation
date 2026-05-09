@@ -66,16 +66,21 @@ def parse_summary_decisions(summary_path: Path) -> dict[str, str]:
     return out
 
 
-def proposal_id_to_slug_chapter(proposal_id: str) -> tuple[str, int, int]:
-    """Parse 'john_15_001' -> ('john', 15, 1). Index is 1-based."""
+def proposal_id_to_slug_chapter(proposal_id: str) -> tuple[str, int, int, bool]:
+    """Parse 'john_15_001' or 'john_15_optimal_001' -> (slug, chapter, idx, is_optimal).
+    Index is 1-based."""
+    m = re.match(r"^(.+)_(\d{2})_optimal_(\d{3})$", proposal_id)
+    if m:
+        return m.group(1), int(m.group(2)), int(m.group(3)), True
     m = re.match(r"^(.+)_(\d{2})_(\d{3})$", proposal_id)
     if not m:
         raise ValueError(f"bad proposal id: {proposal_id}")
-    return m.group(1), int(m.group(2)), int(m.group(3))
+    return m.group(1), int(m.group(2)), int(m.group(3)), False
 
 
-def load_sidecar(slug: str, chapter: int) -> dict | None:
-    json_path = PROPOSALS / slug / f"{slug}_{chapter:02d}.json"
+def load_sidecar(slug: str, chapter: int, is_optimal: bool = False) -> dict | None:
+    suffix = "_optimal" if is_optimal else ""
+    json_path = PROPOSALS / slug / f"{slug}_{chapter:02d}{suffix}.json"
     if not json_path.exists():
         return None
     return json.loads(json_path.read_text(encoding="utf-8"))
@@ -145,13 +150,16 @@ def in_clean_git_state() -> bool:
 
 def apply_chapter(slug: str, chapter: int,
                   approved_ids: set[str], dry_run: bool) -> dict:
-    """Apply proposals whose ids are in approved_ids for this chapter."""
+    """Apply proposals whose ids are in approved_ids for this chapter.
+    Walks both heuristic (`<slug>_NN.json`) and optimal-equivalence
+    (`<slug>_NN_optimal.json`) sidecars; the ID format embeds which set."""
     stats = {"applied": 0, "rejected": 0, "skipped": 0, "errors": []}
-    sidecar = load_sidecar(slug, chapter)
-    if not sidecar:
-        return stats
-    proposals = sidecar.get("proposals", [])
-    if not proposals:
+
+    sidecars = [
+        (load_sidecar(slug, chapter, is_optimal=False), ""),
+        (load_sidecar(slug, chapter, is_optimal=True), "_optimal"),
+    ]
+    if all(s is None for s, _ in sidecars):
         return stats
 
     json_path = TRANSLATIONS / f"{slug}_{chapter:02d}.json"
@@ -161,33 +169,36 @@ def apply_chapter(slug: str, chapter: int,
 
     chapter_data = json.loads(json_path.read_text(encoding="utf-8"))
 
-    for i, p in enumerate(proposals, start=1):
-        proposal_id = f"{slug}_{chapter:02d}_{i:03d}"
-        if proposal_id not in approved_ids:
-            stats["skipped"] += 1
+    for sidecar, suffix in sidecars:
+        if not sidecar:
             continue
-
-        ok, reason = apply_proposal_to_chapter(chapter_data, p)
-        if not ok:
-            stats["rejected"] += 1
-            stats["errors"].append(f"{proposal_id}: {reason}")
-            continue
-
-        stats["applied"] += 1
-
-        if not dry_run:
-            json_path.write_text(
-                json.dumps(chapter_data, ensure_ascii=False, indent=2),
-                encoding="utf-8",
-            )
-            commit_msg = f"polish: {p['verse_ref']} ({p['issue_type']})"
-            rc, _ = git("add", str(json_path.relative_to(ROOT)))
-            if rc != 0:
-                stats["errors"].append(f"{proposal_id}: git add failed")
+        for i, p in enumerate(sidecar.get("proposals", []), start=1):
+            proposal_id = f"{slug}_{chapter:02d}{suffix}_{i:03d}"
+            if proposal_id not in approved_ids:
+                stats["skipped"] += 1
                 continue
-            rc, out = git("commit", "-m", commit_msg)
-            if rc != 0:
-                stats["errors"].append(f"{proposal_id}: git commit failed: {out[:200]}")
+
+            ok, reason = apply_proposal_to_chapter(chapter_data, p)
+            if not ok:
+                stats["rejected"] += 1
+                stats["errors"].append(f"{proposal_id}: {reason}")
+                continue
+
+            stats["applied"] += 1
+
+            if not dry_run:
+                json_path.write_text(
+                    json.dumps(chapter_data, ensure_ascii=False, indent=2),
+                    encoding="utf-8",
+                )
+                commit_msg = f"polish: {p['verse_ref']} ({p['issue_type']})"
+                rc, _ = git("add", str(json_path.relative_to(ROOT)))
+                if rc != 0:
+                    stats["errors"].append(f"{proposal_id}: git add failed")
+                    continue
+                rc, out = git("commit", "-m", commit_msg)
+                if rc != 0:
+                    stats["errors"].append(f"{proposal_id}: git commit failed: {out[:200]}")
 
     return stats
 
@@ -285,7 +296,7 @@ def main() -> None:
     approved_by_book: dict[str, dict[int, set[str]]] = defaultdict(lambda: defaultdict(set))
     for pid in approved_ids:
         try:
-            slug, chapter, _idx = proposal_id_to_slug_chapter(pid)
+            slug, chapter, _idx, _is_opt = proposal_id_to_slug_chapter(pid)
         except ValueError as exc:
             print(f"  Skipping malformed id: {pid} ({exc})")
             continue

@@ -10,7 +10,11 @@
       "thai_literal": null,
       "thai_summary": "บทที่ 16 ปิดจดหมายด้วยเรื่องราวเชิงปฏิบัติ — การเก็บเงินถวายเพื่อช่วยคริสตจักรในกรุงเยรูซาเล็มที่กำลังประสบความลำบาก แผนการเดินทางของเปาโล ทิโมธี และอปอลโล คำแนะนำสุดท้าย และการทักทายส่วนตัว การเก็บเงินถวายนี้เป็นโครงการสำคัญของเปาโล (เปรียบเทียบ 2 โครินธ์ 8-9, โรม 15:25-28) — แสดงความเป็นอันหนึ่งอันเดียวกันของคริสตจักรชาวต่างชาติกับคริสตจักรชาวยิว",
       "key_decisions": [
-        { "greek": "Περὶ δὲ τῆς λογείας τῆς εἰς τοὺς ἁγίους", "thai": "บัดนี้เรื่องของการเก็บถวายสำหรับธรรมิกชน", "rationale": "Περὶ δέ formula introducing new topic (cf. 7:1, 25; 8:1; 12:1). λογεία 'collection.' οἱ ἅγιοι 'the saints' here = the Jerusalem-church specifically (the famine-distressed believers in Judea — cf. Acts 11:27-30). Thai 'เก็บถวาย / ธรรมิกชน' is corpus-consistent." }
+        {
+          "greek": "Περὶ δὲ τῆς λογείας τῆς εἰς τοὺς ἁγίους",
+          "thai": "บัดนี้เรื่องของการเก็บถวายสำหรับธรรมิกชน",
+          "rationale": "Περὶ δέ formula introducing new topic (cf. 7:1, 25; 8:1; 12:1). λογεία 'collection.' οἱ ἅγιοι 'the saints' here = the Jerusalem-church specifically (the famine-distressed believers in Judea — cf. Acts 11:27-30). Thai 'เก็บถวาย / ธรรมิกชน' is corpus-consistent."
+        }
       ],
       "notes": "JERUSALEM COLLECTION — Paul's major-collection-project for famine-stricken Jerusalem church. Cf. 2 Cor 8-9, Rom 15:25-28, Acts 11:29-30, Acts 24:17. The collection symbolized Gentile-Jewish church-unity."
     }
@@ -22,12 +26,20 @@
     "greek": "κατὰ μίαν σαββάτου ἕκαστος ὑμῶν παρ’ἑαυτῷ τιθέτω θησαυρίζων ὅ τι ἐὰν εὐοδῶται,ἵνα μὴ ὅταν ἔλθω τότε λογεῖαι γίνωνται.",
     "bsb_english": "On the first day of every week, each of you should set aside a portion of his income, saving it up, so that when I come no collections will be needed.",
     "translation": {
-      "thai": "ในวันแรกของสัปดาห์ ให้แต่ละคนของพวกท่านตั้งไว้ที่ตนเอง สะสมไว้ตามที่ตนเจริญรุ่งเรือง เพื่อจะไม่ต้องเก็บถวายอีกเมื่อข้าพเจ้ามาถึง",
+      "thai": "ในวันแรกของสัปดาห์ ให้แต่ละคนของพวกท่านแยกเก็บสะสมไว้เองตามที่ตนเจริญรุ่งเรือง เพื่อจะไม่ต้องเก็บถวายอีกเมื่อข้าพเจ้ามาถึง",
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "κατὰ μίαν σαββάτου", "thai": "ในวันแรกของสัปดาห์", "rationale": "'First [day] of the week' — Sunday, the Lord's-Day (cf. Acts 20:7, Rev 1:10). Important early-Christian-witness for Sunday-as-gathering-day. Thai 'วันแรกของสัปดาห์' captures the first-of-the-week." },
-        { "greek": "ὅ τι ἐὰν εὐοδῶται", "thai": "ตามที่ตนเจริญรุ่งเรือง", "rationale": "εὐοδόομαι 'prosper, succeed.' Proportional-giving principle: as one prospers, give. Thai 'เจริญรุ่งเรือง' captures the prosperity-relativized." }
+        {
+          "greek": "κατὰ μίαν σαββάτου",
+          "thai": "ในวันแรกของสัปดาห์",
+          "rationale": "'First [day] of the week' — Sunday, the Lord's-Day (cf. Acts 20:7, Rev 1:10). Important early-Christian-witness for Sunday-as-gathering-day. Thai 'วันแรกของสัปดาห์' captures the first-of-the-week."
+        },
+        {
+          "greek": "ὅ τι ἐὰν εὐοδῶται",
+          "thai": "ตามที่ตนเจริญรุ่งเรือง",
+          "rationale": "εὐοδόομαι 'prosper, succeed.' Proportional-giving principle: as one prospers, give. Thai 'เจริญรุ่งเรือง' captures the prosperity-relativized."
+        }
       ],
       "notes": "SUNDAY-GIVING — early-Christian-Sunday-gathering practice. Proportional-giving: 'as he prospers,' not flat-tax. Pre-saved giving avoids hurried-collection at Paul's arrival."
     }
@@ -43,7 +55,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "τὴν χάριν ὑμῶν", "thai": "ของถวายของพวกท่าน", "rationale": "χάρις here = 'gracious-gift' (technical use for the collection; cf. 2 Cor 8:1, 6, 7, 19). Different from grace-as-divine-favor in standard contexts. Thai 'ของถวาย' captures the gift-aspect." }
+        {
+          "greek": "τὴν χάριν ὑμῶν",
+          "thai": "ของถวายของพวกท่าน",
+          "rationale": "χάρις here = 'gracious-gift' (technical use for the collection; cf. 2 Cor 8:1, 6, 7, 19). Different from grace-as-divine-favor in standard contexts. Thai 'ของถวาย' captures the gift-aspect."
+        }
       ],
       "notes": "ACCOUNTABILITY — chosen-representatives accompany the gift. Paul's careful-handling of money to avoid suspicion (cf. 2 Cor 8:20-21)."
     }
@@ -73,7 +89,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "Μακεδονίαν", "thai": "แคว้นมาซิโดเนีย", "rationale": "Macedonia — northern-Greek-province. Thai 'มาซิโดเนีย' is corpus standard. Paul plans to travel from Ephesus through Macedonia, then south to Corinth in Achaia." }
+        {
+          "greek": "Μακεδονίαν",
+          "thai": "แคว้นมาซิโดเนีย",
+          "rationale": "Macedonia — northern-Greek-province. Thai 'มาซิโดเนีย' is corpus standard. Paul plans to travel from Ephesus through Macedonia, then south to Corinth in Achaia."
+        }
       ],
       "notes": "TRAVEL PLANS — Paul intends to visit Corinth via Macedonia (not directly across Aegean from Ephesus). The plan changes; cf. 2 Cor 1:15-23 for revised itinerary."
     }
@@ -89,7 +109,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "παραχειμάσω", "thai": "พักอยู่ตลอดฤดูหนาว", "rationale": "παραχειμάζω 'spend the winter.' Sea-travel was suspended during Mediterranean winter (Nov-Mar); winters were ideal for extended-pastoral-stays. Thai 'พักอยู่ตลอดฤดูหนาว' captures the winter-residence." }
+        {
+          "greek": "παραχειμάσω",
+          "thai": "พักอยู่ตลอดฤดูหนาว",
+          "rationale": "παραχειμάζω 'spend the winter.' Sea-travel was suspended during Mediterranean winter (Nov-Mar); winters were ideal for extended-pastoral-stays. Thai 'พักอยู่ตลอดฤดูหนาว' captures the winter-residence."
+        }
       ],
       "notes": "WINTER PLAN — possible extended Corinthian-residence. προπέμψητε ('send-on-your-way') = the financial-and-logistical-support tradition for missionaries (cf. 3 John 6)."
     }
@@ -105,7 +129,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἐν παρόδῳ", "thai": "เพียงแวะผ่าน", "rationale": "HAPAX in NT — πάροδος (only here in NT). 'Passage, brief visit.' From παρά + ὁδός. Thai 'แวะผ่าน' captures the brief-visit." }
+        {
+          "greek": "ἐν παρόδῳ",
+          "thai": "เพียงแวะผ่าน",
+          "rationale": "HAPAX in NT — πάροδος (only here in NT). 'Passage, brief visit.' From παρά + ὁδός. Thai 'แวะผ่าน' captures the brief-visit."
+        }
       ],
       "notes": "HAPAX πάροδος. EXTENDED VISIT PLANNED — Paul wants quality-time, not drive-through. 'If the Lord permits' is standard Christian-conditional (cf. Jas 4:15)."
     }
@@ -121,7 +149,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἕως τῆς πεντηκοστῆς", "thai": "จนถึงเทศกาลเพ็นเทคอสต์", "rationale": "Pentecost = 50-days-after-Passover (Jewish Feast of Weeks; Christian commemoration of Spirit-outpouring at Acts 2). Time-marker. Thai 'เทศกาลเพ็นเทคอสต์' uses the standard transliteration." }
+        {
+          "greek": "ἕως τῆς πεντηκοστῆς",
+          "thai": "จนถึงเทศกาลเพ็นเทคอสต์",
+          "rationale": "Pentecost = 50-days-after-Passover (Jewish Feast of Weeks; Christian commemoration of Spirit-outpouring at Acts 2). Time-marker. Thai 'เทศกาลเพ็นเทคอสต์' uses the standard transliteration."
+        }
       ],
       "notes": "EPHESUS-PENTECOST DATING — Paul writing from Ephesus (cf. v.19), planning to leave around Pentecost. Helps date 1 Cor to spring of around AD 55."
     }
@@ -137,7 +169,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "θύρα...μεγάλη καὶ ἐνεργής", "thai": "ประตูใหญ่และเปิดสำหรับการงานที่เกิดผล", "rationale": "ἐνεργής 'active, effective' — opportunity-for-fruitful-work. Cf. 2 Cor 2:12, Col 4:3, Acts 14:27 for the same opened-door metaphor for missionary-opportunity. Thai 'ประตูใหญ่และเปิดสำหรับการงานที่เกิดผล' captures the open-door metaphor." }
+        {
+          "greek": "θύρα...μεγάλη καὶ ἐνεργής",
+          "thai": "ประตูใหญ่และเปิดสำหรับการงานที่เกิดผล",
+          "rationale": "ἐνεργής 'active, effective' — opportunity-for-fruitful-work. Cf. 2 Cor 2:12, Col 4:3, Acts 14:27 for the same opened-door metaphor for missionary-opportunity. Thai 'ประตูใหญ่และเปิดสำหรับการงานที่เกิดผล' captures the open-door metaphor."
+        }
       ],
       "notes": "OPEN-DOOR METAPHOR — Pauline missionary-opportunity language. Even with many opponents, the open-door makes staying worthwhile."
     }
@@ -153,7 +189,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "βλέπετε ἵνα ἀφόβως γένηται πρὸς ὑμᾶς", "thai": "ให้พวกท่านดูแลให้เขาอยู่กับพวกท่านโดยไม่ต้องเกรงกลัวอะไร", "rationale": "Care-for-Timothy instruction. Thai 'ดูแล...โดยไม่ต้องเกรงกลัว' captures the protective-welcome." }
+        {
+          "greek": "βλέπετε ἵνα ἀφόβως γένηται πρὸς ὑμᾶς",
+          "thai": "ให้พวกท่านดูแลให้เขาอยู่กับพวกท่านโดยไม่ต้องเกรงกลัวอะไร",
+          "rationale": "Care-for-Timothy instruction. Thai 'ดูแล...โดยไม่ต้องเกรงกลัว' captures the protective-welcome."
+        }
       ],
       "notes": "TIMOTHY'S PROTECTION — Paul concerned that the young Timothy (cf. 1 Tim 4:12 'don't despise youth') would be intimidated. Pre-arrival recommendation."
     }
@@ -169,7 +209,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "μή τις...ἐξουθενήσῃ", "thai": "อย่าให้ผู้ใดดูหมิ่นเขา", "rationale": "ἐξουθενέω 'despise' (cf. 1:28). Thai 'ดูหมิ่น' is corpus-consistent." }
+        {
+          "greek": "μή τις...ἐξουθενήσῃ",
+          "thai": "อย่าให้ผู้ใดดูหมิ่นเขา",
+          "rationale": "ἐξουθενέω 'despise' (cf. 1:28). Thai 'ดูหมิ่น' is corpus-consistent."
+        }
       ],
       "notes": "ANTI-CONTEMPT instruction — perhaps Timothy was young or otherwise vulnerable to Corinthian factional-criticism."
     }
@@ -185,7 +229,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "Ἀπολλῶ τοῦ ἀδελφοῦ", "thai": "อปอลโลพี่น้องของเรา", "rationale": "Apollos as 'brother' — confirms healthy-relationship between Paul and Apollos despite Corinthian-factionalism that opposed-them. Thai 'อปอลโล' is corpus standard." }
+        {
+          "greek": "Ἀπολλῶ τοῦ ἀδελφοῦ",
+          "thai": "อปอลโลพี่น้องของเรา",
+          "rationale": "Apollos as 'brother' — confirms healthy-relationship between Paul and Apollos despite Corinthian-factionalism that opposed-them. Thai 'อปอลโล' is corpus standard."
+        }
       ],
       "notes": "APOLLOS UNAVAILABLE — significantly, Apollos chose not-to-go to Corinth right then. Possible reasons: (a) ongoing-Ephesus-ministry; (b) avoiding-perception of taking-sides in faction-dispute (which had used his name vs Paul's, ch. 1); (c) timing-not-right. Paul's mention shows both their cordial-relationship and Apollos's-independent-judgment."
     }
@@ -201,7 +249,11 @@
       "thai_literal": null,
       "thai_summary": "ข้อ 13-14 เป็นบทสรุปสั้น ๆ ของจริยธรรมคริสเตียน — สี่คำสั่งติดต่อกัน 'จงเฝ้าระวัง / ยืนมั่น / กล้าหาญ / เข้มแข็ง' จบด้วย 'ทุกสิ่งของพวกท่านจงเป็นไปในความรัก' ซึ่งเชื่อมโยงไปยังบทที่ 13 (บทแห่งความรัก) เป็นการสรุปสั้น ๆ ของหลักการที่เปาโลได้สอนไว้ทั้งหมดในจดหมาย",
       "key_decisions": [
-        { "greek": "Γρηγορεῖτε,στήκετε ἐν τῇ πίστει,ἀνδρίζεσθε,κραταιοῦσθε", "thai": "จงเฝ้าระวัง ยืนมั่นในความเชื่อ จงกล้าหาญ จงเข้มแข็ง", "rationale": "Four-fold staccato-imperatives. HAPAX in NT — ἀνδρίζομαι (only here in NT). 'Be a man, be courageous.' From ἀνήρ. Septuagintism (cf. LXX Josh 1:6-9, Deut 31:6). Thai 'กล้าหาญ' captures the manly-courage; alternative 'เป็นชายชาตรี' would be too gendered for general application." }
+        {
+          "greek": "Γρηγορεῖτε,στήκετε ἐν τῇ πίστει,ἀνδρίζεσθε,κραταιοῦσθε",
+          "thai": "จงเฝ้าระวัง ยืนมั่นในความเชื่อ จงกล้าหาญ จงเข้มแข็ง",
+          "rationale": "Four-fold staccato-imperatives. HAPAX in NT — ἀνδρίζομαι (only here in NT). 'Be a man, be courageous.' From ἀνήρ. Septuagintism (cf. LXX Josh 1:6-9, Deut 31:6). Thai 'กล้าหาญ' captures the manly-courage; alternative 'เป็นชายชาตรี' would be too gendered for general application."
+        }
       ],
       "notes": "HAPAX ἀνδρίζομαι. FOUR-FOLD MILITARY-STYLE EXHORTATION — watch / stand-in-faith / be-courageous / be-strong. Septuagintal-echoes (Josh 1:6-9). Compact summary of Christian-life-stance."
     }
@@ -231,7 +283,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἀπαρχὴ τῆς Ἀχαΐας", "thai": "ผลแรกของแคว้นอาคายา", "rationale": "Stephanas's-household = first-converts of Achaia (the Roman-province containing Corinth). ἀπαρχή 'firstfruits' (cf. 15:20). Thai 'ผลแรกของแคว้นอาคายา' captures the firstfruits-of-province." }
+        {
+          "greek": "ἀπαρχὴ τῆς Ἀχαΐας",
+          "thai": "ผลแรกของแคว้นอาคายา",
+          "rationale": "Stephanas's-household = first-converts of Achaia (the Roman-province containing Corinth). ἀπαρχή 'firstfruits' (cf. 15:20). Thai 'ผลแรกของแคว้นอาคายา' captures the firstfruits-of-province."
+        }
       ],
       "notes": "STEPHANAS HOUSEHOLD — first-converts of Achaia. Paul baptized them (1:16). Their leadership-credentials: foundational-converts + service-orientation."
     }
@@ -247,7 +303,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ὑποτάσσησθε τοῖς τοιούτοις", "thai": "นอบน้อมต่อคนเช่นนั้น", "rationale": "Submission-to-servants. Christian-leadership-criteria: those-who-serve-and-labor warrant submission, not those-with-status. Thai 'นอบน้อม' captures the submission." }
+        {
+          "greek": "ὑποτάσσησθε τοῖς τοιούτοις",
+          "thai": "นอบน้อมต่อคนเช่นนั้น",
+          "rationale": "Submission-to-servants. Christian-leadership-criteria: those-who-serve-and-labor warrant submission, not those-with-status. Thai 'นอบน้อม' captures the submission."
+        }
       ],
       "notes": "LEADERSHIP-AUTHORITY — based on service-and-labor, not title-or-claim. Corinthian-factionalism (around named-leaders) is contrasted with this work-based-respect."
     }
@@ -263,7 +323,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "Στεφανᾶ καὶ Φορτουνάτου καὶ Ἀχαϊκοῦ", "thai": "สเทฟานัส ฟอร์ทูนาตัส และอาคายคัส", "rationale": "TWO HAPAX in this verse: Φορτουνᾶτος (only here in NT) + Ἀχαϊκός (only here in NT). Both proper nouns. Latin Fortunatus + Greek-derived Achaicus (literally 'Achaian'). Thai transliterations 'ฟอร์ทูนาตัส / อาคายคัส' follow standard." }
+        {
+          "greek": "Στεφανᾶ καὶ Φορτουνάτου καὶ Ἀχαϊκοῦ",
+          "thai": "สเทฟานัส ฟอร์ทูนาตัส และอาคายคัส",
+          "rationale": "TWO HAPAX in this verse: Φορτουνᾶτος (only here in NT) + Ἀχαϊκός (only here in NT). Both proper nouns. Latin Fortunatus + Greek-derived Achaicus (literally 'Achaian'). Thai transliterations 'ฟอร์ทูนาตัส / อาคายคัส' follow standard."
+        }
       ],
       "notes": "TWO HAPAX (proper nouns): Φορτουνᾶτος, Ἀχαϊκός. CORINTHIAN DELEGATION — these three brought the Corinthian-letter (cf. 1:11 'people of Chloe') and Paul's-response. The delegation is the means by which Paul's information about Corinth came."
     }
@@ -279,7 +343,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἐπιγινώσκετε οὖν τοὺς τοιούτους", "thai": "จงรู้คุณคนเช่นนั้น", "rationale": "ἐπιγινώσκω here in idiomatic-sense 'recognize, give due-honor.' Thai 'รู้คุณ' captures the appreciative-recognition." }
+        {
+          "greek": "ἐπιγινώσκετε οὖν τοὺς τοιούτους",
+          "thai": "จงรู้คุณคนเช่นนั้น",
+          "rationale": "ἐπιγινώσκω here in idiomatic-sense 'recognize, give due-honor.' Thai 'รู้คุณ' captures the appreciative-recognition."
+        }
       ],
       "notes": "DELEGATE-APPRECIATION — recognize the service of those who travel for the church."
     }
@@ -295,8 +363,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "Ἀκύλας καὶ Πρίσκα", "thai": "อาควิลลาและพริสคา", "rationale": "Aquila + Prisca (also called Priscilla). Tentmaker couple Paul stayed with at Corinth, then travelled with to Ephesus (Acts 18:1-3, 18-19, 26). Thai transliterations 'อาควิลลา / พริสคา' are corpus-consistent." },
-        { "greek": "τῇ κατ’οἶκον αὐτῶν ἐκκλησίᾳ", "thai": "คริสตจักรที่ประชุมในบ้านของพวกเขา", "rationale": "House-church meeting at Aquila/Prisca's residence (cf. Rom 16:5). Important early-Christian-organizational-pattern." }
+        {
+          "greek": "Ἀκύλας καὶ Πρίσκα",
+          "thai": "อาควิลลาและพริสคา",
+          "rationale": "Aquila + Prisca (also called Priscilla). Tentmaker couple Paul stayed with at Corinth, then travelled with to Ephesus (Acts 18:1-3, 18-19, 26). Thai transliterations 'อาควิลลา / พริสคา' are corpus-consistent."
+        },
+        {
+          "greek": "τῇ κατ’οἶκον αὐτῶν ἐκκλησίᾳ",
+          "thai": "คริสตจักรที่ประชุมในบ้านของพวกเขา",
+          "rationale": "House-church meeting at Aquila/Prisca's residence (cf. Rom 16:5). Important early-Christian-organizational-pattern."
+        }
       ],
       "notes": "AQUILA + PRISCA — Paul's tentmaker-couple-friends. They had moved with Paul from Corinth to Ephesus. House-church-pattern is the primary early-Christian-organizational form."
     }
@@ -312,7 +388,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἀσπάσασθε ἀλλήλους ἐν φιλήματι ἁγίῳ", "thai": "จงทักทายกันด้วยจุมพิตอันบริสุทธิ์", "rationale": "Holy-kiss greeting — early-Christian liturgical-practice (cf. Rom 16:16, 2 Cor 13:12, 1 Thess 5:26, 1 Pet 5:14). Thai 'จุมพิตอันบริสุทธิ์' captures the holy-kiss; alternative 'จูบ' would be too colloquial." }
+        {
+          "greek": "ἀσπάσασθε ἀλλήλους ἐν φιλήματι ἁγίῳ",
+          "thai": "จงทักทายกันด้วยจุมพิตอันบริสุทธิ์",
+          "rationale": "Holy-kiss greeting — early-Christian liturgical-practice (cf. Rom 16:16, 2 Cor 13:12, 1 Thess 5:26, 1 Pet 5:14). Thai 'จุมพิตอันบริสุทธิ์' captures the holy-kiss; alternative 'จูบ' would be too colloquial."
+        }
       ],
       "notes": "HOLY-KISS GREETING — early-Christian-liturgical-practice; Greco-Roman-greeting-kiss spiritualized. Practiced into Patristic period; eventually became 'pax' in Latin liturgy."
     }
@@ -328,7 +408,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "τῇ ἐμῇ χειρὶ Παύλου", "thai": "ด้วยมือของข้าพเจ้าเอง — เปาโล", "rationale": "Personal autograph at letter's end. Most of the letter would have been dictated to a scribe; Paul takes the pen for the closing-greeting (cf. Gal 6:11, Col 4:18, 2 Thess 3:17). The autograph authenticates the letter against forgery." }
+        {
+          "greek": "τῇ ἐμῇ χειρὶ Παύλου",
+          "thai": "ด้วยมือของข้าพเจ้าเอง — เปาโล",
+          "rationale": "Personal autograph at letter's end. Most of the letter would have been dictated to a scribe; Paul takes the pen for the closing-greeting (cf. Gal 6:11, Col 4:18, 2 Thess 3:17). The autograph authenticates the letter against forgery."
+        }
       ],
       "notes": "AUTOGRAPHIC GREETING — Paul takes pen-in-hand for the closing-paragraph. Standard ancient-letter practice. Notable in light of 2 Thess 2:2's concern about forged-letters."
     }
@@ -344,8 +428,16 @@
       "thai_literal": null,
       "thai_summary": "ข้อ 22 เป็นข้อที่โดดเด่นที่สุดในบทนี้ และยังคงไว้ซึ่งภาษาอราเมอิกซึ่งเป็นภาษาแม่ของพระเยซูและสาวกชุดแรก คำว่า 'มารานา-ธา' (Μαράνα θά) เป็นหนึ่งในไม่กี่คำอราเมอิกที่ปรากฏในจดหมายของเปาโล (เปรียบเทียบกาลาเทีย 4:6 'อับบา') มีการตีความสองทาง — (1) คำสั่ง 'องค์พระผู้เป็นเจ้าของเราเอ๋ย ขอเสด็จมาเถิด' (Maranâ thâ) (2) คำประกาศ 'องค์พระผู้เป็นเจ้าของเราได้เสด็จมาแล้ว' (Maran 'athâ) สมัยใหม่ส่วนใหญ่และประเพณีพิธีกรรมตะวันตกใช้การตีความที่ 1 — เป็นคำอธิษฐานเชิงคาดหวังการเสด็จกลับมาของพระคริสต์",
       "key_decisions": [
-        { "greek": "ἤτω ἀνάθεμα", "thai": "ก็ให้ผู้นั้นถูกแช่ง", "rationale": "ἤτω 'let him be' (third-person imperative). ἀνάθεμα 'devoted to destruction, accursed' (cf. 12:3 same word). Strong language, but the 'who-does-not-love' criterion ties the curse to relational-Christ-rejection. Thai 'ถูกแช่ง' captures the cursed-state." },
-        { "greek": "Μαράνα θά", "thai": "“มาราน-อาธา” (องค์พระผู้เป็นเจ้าของเราเอ๋ย ขอเสด็จมาเถิด)", "rationale": "TWO HAPAX in this clause: μαράνα + θά (Aramaic words). The transliterated-Aramaic prayer is preserved as a window into earliest-Christian-Aramaic-liturgy. Most modern scholars + Western liturgical-tradition: imperative 'Come, our Lord!' (Maranâ thâ — split as מָרַנָא תָא). Alternative reading: 'Our Lord has come' (Maran 'athâ). The transliteration is retained in Thai as 'มาราน-อาธา' followed by an explanation in parentheses. Quote conventions follow original-Greek by retaining Aramaic-transliteration." }
+        {
+          "greek": "ἤτω ἀνάθεμα",
+          "thai": "ก็ให้ผู้นั้นถูกแช่ง",
+          "rationale": "ἤτω 'let him be' (third-person imperative). ἀνάθεμα 'devoted to destruction, accursed' (cf. 12:3 same word). Strong language, but the 'who-does-not-love' criterion ties the curse to relational-Christ-rejection. Thai 'ถูกแช่ง' captures the cursed-state."
+        },
+        {
+          "greek": "Μαράνα θά",
+          "thai": "“มาราน-อาธา” (องค์พระผู้เป็นเจ้าของเราเอ๋ย ขอเสด็จมาเถิด)",
+          "rationale": "TWO HAPAX in this clause: μαράνα + θά (Aramaic words). The transliterated-Aramaic prayer is preserved as a window into earliest-Christian-Aramaic-liturgy. Most modern scholars + Western liturgical-tradition: imperative 'Come, our Lord!' (Maranâ thâ — split as מָרַנָא תָא). Alternative reading: 'Our Lord has come' (Maran 'athâ). The transliteration is retained in Thai as 'มาราน-อาธา' followed by an explanation in parentheses. Quote conventions follow original-Greek by retaining Aramaic-transliteration."
+        }
       ],
       "notes": "TWO HAPAX (Aramaic words): Μαράνα, θά. EARLIEST CHRISTIAN ARAMAIC PRAYER — preserved transliterated in Greek. Maranatha is one of two Aramaic-words in the Pauline-corpus (other = Abba in Gal 4:6). The retained-Aramaic suggests early-Christian-liturgical-formula too sacred to translate. Cf. Did. 10:6 (Didache) which preserves the same prayer in Christian-Eucharistic-context. CURSE-CONTEXT: tied to 'not loving the Lord' — possibly opposing-covenant-rebels, possibly the Corinthian-faction-ringleaders Paul has rebuked. The Maranatha-prayer functions as eschatological-counterpoint to the curse: come Lord, vindicate the church."
     }
@@ -361,7 +453,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἡ χάρις τοῦ κυρίου Ἰησοῦ μεθ’ὑμῶν", "thai": "ขอพระคุณของพระเยซูองค์พระผู้เป็นเจ้าจงดำรงอยู่กับพวกท่านทั้งหลาย", "rationale": "Standard Pauline-benediction. Echoes 1:3 (opening 'grace and peace'). Thai 'ขอพระคุณ...จงดำรงอยู่กับ' is corpus-consistent benediction-formula (cf. 1TH closings)." }
+        {
+          "greek": "ἡ χάρις τοῦ κυρίου Ἰησοῦ μεθ’ὑμῶν",
+          "thai": "ขอพระคุณของพระเยซูองค์พระผู้เป็นเจ้าจงดำรงอยู่กับพวกท่านทั้งหลาย",
+          "rationale": "Standard Pauline-benediction. Echoes 1:3 (opening 'grace and peace'). Thai 'ขอพระคุณ...จงดำรงอยู่กับ' is corpus-consistent benediction-formula (cf. 1TH closings)."
+        }
       ],
       "notes": "PAULINE BENEDICTION — standard letter-closing. Brackets the letter with grace-language (1:3, 16:23)."
     }
@@ -377,7 +473,11 @@
       "thai_literal": null,
       "thai_summary": "จดหมาย 1 โครินธ์ปิดด้วยคำที่อ่อนโยนของเปาโล — 'ขอความรักของข้าพเจ้าจงดำรงอยู่กับพวกท่านทุกคนในพระเยซูคริสต์' หลังจากการตักเตือนหนัก ๆ ตลอดทั้งจดหมาย เปาโลแสดงให้เห็นว่าหัวใจของท่านเต็มไปด้วยความรักต่อชาวโครินธ์ คำสุดท้ายเป็นการตอกย้ำหัวข้อหลักของจดหมาย — ความรักภายในการมีสามัคคีธรรมในพระคริสต์",
       "key_decisions": [
-        { "greek": "ἡ ἀγάπη μου μετὰ πάντων ὑμῶν ἐν Χριστῷ Ἰησοῦ", "thai": "ขอความรักของข้าพเจ้าจงดำรงอยู่กับพวกท่านทุกคนในพระเยซูคริสต์", "rationale": "Personal love-benediction. πάντων 'all' — even after the rebukes, Paul's love is for all-of-them. Thai 'ขอความรักของข้าพเจ้า' captures the personal-love benediction. Some manuscripts add 'Amen' at the end; SBLGNT does not include it. Per RULES §0 we follow SBLGNT." }
+        {
+          "greek": "ἡ ἀγάπη μου μετὰ πάντων ὑμῶν ἐν Χριστῷ Ἰησοῦ",
+          "thai": "ขอความรักของข้าพเจ้าจงดำรงอยู่กับพวกท่านทุกคนในพระเยซูคริสต์",
+          "rationale": "Personal love-benediction. πάντων 'all' — even after the rebukes, Paul's love is for all-of-them. Thai 'ขอความรักของข้าพเจ้า' captures the personal-love benediction. Some manuscripts add 'Amen' at the end; SBLGNT does not include it. Per RULES §0 we follow SBLGNT."
+        }
       ],
       "notes": "LETTER ENDS — Paul's personal-love-benediction. Note: SBLGNT does not include the final ἀμήν found in many manuscripts. We follow SBLGNT. THE 1 CORINTHIANS LETTER closes with personal-affection toward the very-flawed church. Even after extensive corrective-rebuke, Paul affirms his love. The 'in Christ Jesus' situates the love within the saving-relational sphere."
     }

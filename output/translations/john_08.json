@@ -10,8 +10,16 @@
       "thai_literal": null,
       "thai_summary": "ข้อ 1 ถึง 11 ของบทที่ 8 เป็นภาคต่อของเรื่อง “เปริโคเป อาดัลเทเร” (เรื่องหญิงที่ถูกจับฐานล่วงประเวณี) ซึ่งเริ่มที่ ยอห์น 7:53 ขาดในต้นฉบับยุคแรกที่ดีที่สุด ฉบับเอเรมอสจึงเก็บไว้ในเนื้อหาหลักภายในวงเล็บคู่ ⟦…⟧ เพื่อแสดงสถานะข้อสงสัยทางต้นฉบับ",
       "key_decisions": [
-        { "greek": "ἐπορεύθη", "thai": "เสด็จไป", "rationale": "Royal-register movement verb for the divine subject (Jesus) per RULES §3 — เสด็จ for movement of divine subjects." },
-        { "greek": "variant: JHN 7:53–8:11 pericope adulterae", "thai": "⟦…⟧", "rationale": "TIER 3 INCLUSION-VARIANT continues from JHN 7:53. Whole pericope rendered in main text with double brackets ⟦…⟧ per RULES §5 Tier 3, matching the Mark 16:9–20 (longer ending) treatment. Manuscript witnesses: absent from 𝔓⁶⁶ 𝔓⁷⁵ ℵ B A C W L; present in Codex Bezae (D) and most Byzantine majority MSS, TR, KJV/THKJV. Floats positionally in some MSS (after JHN 7:36, after JHN 21:25, after LUK 21:38). Modern critical-text consensus: not original to John; likely authentic-dominical oral tradition inserted by scribes. Editorial policy matches BSB/ESV/NIV/CSB — preserve in main text with brackets + extended note. Full witness summary at output/textual_variants/john_08.json." }
+        {
+          "greek": "ἐπορεύθη",
+          "thai": "เสด็จไป",
+          "rationale": "Royal-register movement verb for the divine subject (Jesus) per RULES §3 — เสด็จ for movement of divine subjects."
+        },
+        {
+          "greek": "variant: JHN 7:53–8:11 pericope adulterae",
+          "thai": "⟦…⟧",
+          "rationale": "TIER 3 INCLUSION-VARIANT continues from JHN 7:53. Whole pericope rendered in main text with double brackets ⟦…⟧ per RULES §5 Tier 3, matching the Mark 16:9–20 (longer ending) treatment. Manuscript witnesses: absent from 𝔓⁶⁶ 𝔓⁷⁵ ℵ B A C W L; present in Codex Bezae (D) and most Byzantine majority MSS, TR, KJV/THKJV. Floats positionally in some MSS (after JHN 7:36, after JHN 21:25, after LUK 21:38). Modern critical-text consensus: not original to John; likely authentic-dominical oral tradition inserted by scribes. Editorial policy matches BSB/ESV/NIV/CSB — preserve in main text with brackets + extended note. Full witness summary at output/textual_variants/john_08.json."
+        }
       ],
       "notes": "TIER 3 INCLUSION-VARIANT (RULES §5): Pericope Adulterae (JHN 7:53–8:11). The block continues into chapter 8. All verses 8:1–11 are rendered with ⟦…⟧ double brackets matching the JHN 7:53 treatment and the Mark 16:9–20 / longer-ending convention. SUPPORT FILE: output/textual_variants/john_08.json contains the full manuscript-witness summary. Rendering Ὄρος τῶν Ἐλαιῶν as ภูเขามะกอกเทศ — established Thai Christian rendering for Mount of Olives across Synoptics."
     }
@@ -27,8 +35,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "Ὄρθρου", "thai": "ตอนรุ่งสาง", "rationale": "ὄρθρος (early dawn, just before sunrise) — Johannine hapax (occurs only here in John); LXX/classical sense is the predawn watch. Thai 'ตอนรุ่งสาง' captures the predawn quality without paraphrase." },
-        { "greek": "ἐδίδασκεν", "thai": "ทรงประทับนั่งสั่งสอน", "rationale": "Imperfect tense + aorist participle καθίσας conveys: he sat down (rabbinic teaching posture per Mark 4:1, 13:3) and continued teaching. Royal register ทรง- prefix for the divine teacher's action." }
+        {
+          "greek": "Ὄρθρου",
+          "thai": "ตอนรุ่งสาง",
+          "rationale": "ὄρθρος (early dawn, just before sunrise) — Johannine hapax (occurs only here in John); LXX/classical sense is the predawn watch. Thai 'ตอนรุ่งสาง' captures the predawn quality without paraphrase."
+        },
+        {
+          "greek": "ἐδίδασκεν",
+          "thai": "ทรงประทับนั่งสั่งสอน",
+          "rationale": "Imperfect tense + aorist participle καθίσας conveys: he sat down (rabbinic teaching posture per Mark 4:1, 13:3) and continued teaching. Royal register ทรง- prefix for the divine teacher's action."
+        }
       ],
       "notes": "Continues TIER 3 PERICOPE ADULTERAE block (RULES §5). καθίσας — sitting was the standard posture for authoritative rabbinic teaching in 1st-century Judaism (cf. MAT 5:1, 23:2 'Moses' seat'); the participle frames the discourse as formal teaching, not casual conversation."
     }
@@ -44,8 +60,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "οἱ γραμματεῖς", "thai": "พวกธรรมาจารย์", "rationale": "Standard rendering of γραμματεύς (scribe / legal scholar) across the Thai NT corpus. The scribes were experts in Mosaic law — appropriately summoned to a case requiring a halakhic ruling on adultery." },
-        { "greek": "ἐν μοιχείᾳ καταλήφθεισαν", "thai": "ถูกจับขณะล่วงประเวณี", "rationale": "καταλαμβάνω + ἐν conveys 'caught in the act of'. Thai 'ถูกจับขณะ-' (caught while) preserves the present-tense flagrant-act framing." }
+        {
+          "greek": "οἱ γραμματεῖς",
+          "thai": "พวกธรรมาจารย์",
+          "rationale": "Standard rendering of γραμματεύς (scribe / legal scholar) across the Thai NT corpus. The scribes were experts in Mosaic law — appropriately summoned to a case requiring a halakhic ruling on adultery."
+        },
+        {
+          "greek": "ἐν μοιχείᾳ καταλήφθεισαν",
+          "thai": "ถูกจับขณะล่วงประเวณี",
+          "rationale": "καταλαμβάνω + ἐν conveys 'caught in the act of'. Thai 'ถูกจับขณะ-' (caught while) preserves the present-tense flagrant-act framing."
+        }
       ],
       "notes": "Continues PERICOPE ADULTERAE block. The trap-question setup: the law of Moses prescribed death for adultery (LEV 20:10, DEU 22:22), but Roman authority had stripped Jews of capital-punishment jurisdiction (cf. JHN 18:31). The scribes/Pharisees aim to force Jesus into either a Roman-law violation (if he says 'stone') or a Mosaic-law contradiction (if he says 'don't stone'). Note the woman is brought without the man — Mosaic law required both parties be executed (LEV 20:10), so the entire prosecution is procedurally improper."
     }
@@ -61,8 +85,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἐπ᾿ αὐτοφόρῳ", "thai": "คาหนังคาเขา", "rationale": "ἐπ᾿ αὐτοφόρῳ — Greek legal idiom for 'caught red-handed / in flagrante delicto'. Thai 'คาหนังคาเขา' is the natural idiomatic Thai equivalent for being caught with undeniable evidence in the act. Hapax legomenon in the NT (this verse only)." },
-        { "greek": "Διδάσκαλε", "thai": "ท่านอาจารย์", "rationale": "Vocative for teacher / rabbi. Standard respectful address from layperson or formal interlocutor to Jesus; matches uses elsewhere in the gospels (e.g., MAT 22:16, MRK 12:14). Note the irony: they call him 'teacher' while testing him." }
+        {
+          "greek": "ἐπ᾿ αὐτοφόρῳ",
+          "thai": "คาหนังคาเขา",
+          "rationale": "ἐπ᾿ αὐτοφόρῳ — Greek legal idiom for 'caught red-handed / in flagrante delicto'. Thai 'คาหนังคาเขา' is the natural idiomatic Thai equivalent for being caught with undeniable evidence in the act. Hapax legomenon in the NT (this verse only)."
+        },
+        {
+          "greek": "Διδάσκαλε",
+          "thai": "ท่านอาจารย์",
+          "rationale": "Vocative for teacher / rabbi. Standard respectful address from layperson or formal interlocutor to Jesus; matches uses elsewhere in the gospels (e.g., MAT 22:16, MRK 12:14). Note the irony: they call him 'teacher' while testing him."
+        }
       ],
       "notes": "PERICOPE ADULTERAE block. ἐπ᾿ αὐτοφόρῳ — HAPAX in NT; classical Athenian legal language for 'in the act'. The repetition (v.3 already says she was 'caught in adultery') sharpens the prosecutorial framing for Jesus."
     }
@@ -78,7 +110,11 @@
       "thai_literal": null,
       "thai_summary": "ธรรมบัญญัติของโมเสสกำหนดโทษประหารสำหรับการล่วงประเวณี (เลวีนิติ 20:10; เฉลยธรรมบัญญัติ 22:22) แต่อำนาจประหารตกอยู่ในมือโรมในยุคพระเยซู — กับดักของพวกฟาริสีบีบให้พระเยซูเลือกระหว่างการละเมิดกฎหมายโรมหรือการขัดแย้งโมเสส อย่างไรก็ตาม กฎของโมเสสกำหนดว่าทั้งชายและหญิงต้องถูกประหาร — การฟ้องในที่นี้จึงผิดกระบวนการเพราะนำเฉพาะหญิงมา",
       "key_decisions": [
-        { "greek": "λιθοβολεῖσθαι", "thai": "เอาหินขว้าง...ให้ตาย", "rationale": "Present passive infinitive of λιθοβολέω — the prescribed Mosaic execution method for certain capital crimes (DEU 22:23–24 specifies stoning for the betrothed-virgin adulterer; LEV 20:10 commands death without specifying method). Thai 'เอาหินขว้าง...ให้ตาย' makes the execution-by-stoning meaning explicit." }
+        {
+          "greek": "λιθοβολεῖσθαι",
+          "thai": "เอาหินขว้าง...ให้ตาย",
+          "rationale": "Present passive infinitive of λιθοβολέω — the prescribed Mosaic execution method for certain capital crimes (DEU 22:23–24 specifies stoning for the betrothed-virgin adulterer; LEV 20:10 commands death without specifying method). Thai 'เอาหินขว้าง...ให้ตาย' makes the execution-by-stoning meaning explicit."
+        }
       ],
       "notes": "OT ALLUSION: LEV 20:10 (general death penalty for adultery, both parties); DEU 22:22 (death for both adulterer and adulteress); DEU 22:23–24 (stoning for betrothed virgin and her partner). The scribes selectively cite the stoning provision while procedurally skipping the both-parties requirement — the trap is moral as well as legal. ADDED TO NT_OT_CITATIONS: JHN 8:5 → DEU 22:22 / LEV 20:10 (composite citation of Mosaic adultery-death statute)."
     }
@@ -94,8 +130,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "τῷ δακτύλῳ ἔγραφεν εἰς τὴν γῆν", "thai": "ใช้พระดัชนีเขียนที่พื้นดิน", "rationale": "Royal register: pres-ind ἔγραφεν → 'ทรงเขียน'; ὁ δάκτυλος → พระดัชนี (royal-register noun for finger of a divine subject, parallel to พระหัตถ์ for hand). What Jesus wrote is a celebrated unanswered question — patristic and medieval guesses include the accusers' sins (per Jer 17:13 'those who depart from me shall be written in the dust'), but the text leaves it open." },
-        { "greek": "μὴ προσποιούμενος", "thai": "[ทรงทำเป็นไม่สนพระทัย]", "rationale": "Sub-variant within the pericope: present in some manuscript witnesses, absent from others — even within the family of MSS that include the pericope. SBLGNT main text retains it (per the extracted source). Single-bracketing it [..] within the already-double-bracketed pericope visually surfaces the second-order textual uncertainty without breaking the Tier 3 framework." }
+        {
+          "greek": "τῷ δακτύλῳ ἔγραφεν εἰς τὴν γῆν",
+          "thai": "ใช้พระดัชนีเขียนที่พื้นดิน",
+          "rationale": "Royal register: pres-ind ἔγραφεν → 'ทรงเขียน'; ὁ δάκτυλος → พระดัชนี (royal-register noun for finger of a divine subject, parallel to พระหัตถ์ for hand). What Jesus wrote is a celebrated unanswered question — patristic and medieval guesses include the accusers' sins (per Jer 17:13 'those who depart from me shall be written in the dust'), but the text leaves it open."
+        },
+        {
+          "greek": "μὴ προσποιούμενος",
+          "thai": "[ทรงทำเป็นไม่สนพระทัย]",
+          "rationale": "Sub-variant within the pericope: present in some manuscript witnesses, absent from others — even within the family of MSS that include the pericope. SBLGNT main text retains it (per the extracted source). Single-bracketing it [..] within the already-double-bracketed pericope visually surfaces the second-order textual uncertainty without breaking the Tier 3 framework."
+        }
       ],
       "notes": "PERICOPE ADULTERAE block. The 'finger writing in dust' detail has no fixed exegetical content — it functions narratively as a delay device: Jesus refuses to be hurried into the trap. Patristic readings (Jerome, Ambrose) propose Jeremiah 17:13 as backdrop ('those who depart from you shall be written in the dust'); some modern readers see Exodus 31:18 ('written by the finger of God' — the law on stone tablets); both readings remain conjectural. Sub-variant μὴ προσποιούμενος preserved per SBLGNT main text but with [..] markers indicating manuscript-internal uncertainty."
     }
@@ -111,8 +155,16 @@
       "thai_literal": null,
       "thai_summary": "ตามธรรมบัญญัติของโมเสส (เฉลยธรรมบัญญัติ 17:7) พยานในคดีต้องเป็นผู้ลงโทษคนแรก พระเยซูทรงไม่ปฏิเสธโทษ แต่ทรงเรียกร้องให้พยานที่จะขว้างหินคนแรกต้องเป็นผู้ที่ไม่มีบาปเอง — ซึ่งทำให้ทุกคนถอยออกไป",
       "key_decisions": [
-        { "greek": "Ὁ ἀναμάρτητος", "thai": "ผู้ใด...ที่ไม่มีบาป", "rationale": "ἀναμάρτητος — HAPAX in the NT (occurs only here). Compound of ἀ-privative + ἁμαρτάνω (to sin) — 'one without sin / sinless'. Thai 'ผู้ที่ไม่มีบาป' is the natural rendering and parallels the standard ἁμαρτία → บาป mapping established across the corpus." },
-        { "greek": "πρῶτον...τὸν λίθον βαλέτω", "thai": "ขว้างก้อนหินใส่นางเป็นคนแรก", "rationale": "Echoes DEU 17:7: 'the hand of the witnesses shall be first against him to put him to death.' Jesus does not abolish the penalty; he applies the law's witness-must-cast-first rule with surgical precision against the accusers' standing." }
+        {
+          "greek": "Ὁ ἀναμάρτητος",
+          "thai": "ผู้ใด...ที่ไม่มีบาป",
+          "rationale": "ἀναμάρτητος — HAPAX in the NT (occurs only here). Compound of ἀ-privative + ἁμαρτάνω (to sin) — 'one without sin / sinless'. Thai 'ผู้ที่ไม่มีบาป' is the natural rendering and parallels the standard ἁμαρτία → บาป mapping established across the corpus."
+        },
+        {
+          "greek": "πρῶτον...τὸν λίθον βαλέτω",
+          "thai": "ขว้างก้อนหินใส่นางเป็นคนแรก",
+          "rationale": "Echoes DEU 17:7: 'the hand of the witnesses shall be first against him to put him to death.' Jesus does not abolish the penalty; he applies the law's witness-must-cast-first rule with surgical precision against the accusers' standing."
+        }
       ],
       "notes": "OT ALLUSION: DEU 17:7 'the hand of the witnesses shall be first.' Jesus's response weaponizes the Mosaic procedural rule: those bringing the charge must throw first — but only if they themselves are sinless under the same code that condemns her. ἀναμάρτητος is HAPAX (NT only here); classical Greek and LXX usage support 'guiltless / without sin'. ADDED TO NT_OT_CITATIONS: JHN 8:7 → DEU 17:7 (witness-stones-first procedural rule)."
     }
@@ -142,8 +194,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ὑπὸ τῆς συνειδήσεως ἐλεγχόμενοι", "thai": "มโนธรรมของพวกเขาเองก็ทำให้รู้สึกผิด", "rationale": "συνείδησις — conscience, internal moral awareness. Thai 'มโนธรรม' is the standard Christian-Thai term. ἐλέγχω passive — 'being convicted / exposed by'. The clause ascribes the departure to internal moral self-recognition, not external pressure." },
-        { "greek": "ἀρξάμενοι ἀπὸ τῶν πρεσβυτέρων", "thai": "เริ่มจากผู้อาวุโสก่อน", "rationale": "πρεσβύτερος — could refer to elder-aged men or to the official elder class. Context favors elder-aged: those with longer life-records of sin to face. Thai 'ผู้อาวุโส' captures both age and respect-status without forcing the official-elder reading." }
+        {
+          "greek": "ὑπὸ τῆς συνειδήσεως ἐλεγχόμενοι",
+          "thai": "มโนธรรมของพวกเขาเองก็ทำให้รู้สึกผิด",
+          "rationale": "συνείδησις — conscience, internal moral awareness. Thai 'มโนธรรม' is the standard Christian-Thai term. ἐλέγχω passive — 'being convicted / exposed by'. The clause ascribes the departure to internal moral self-recognition, not external pressure."
+        },
+        {
+          "greek": "ἀρξάμενοι ἀπὸ τῶν πρεσβυτέρων",
+          "thai": "เริ่มจากผู้อาวุโสก่อน",
+          "rationale": "πρεσβύτερος — could refer to elder-aged men or to the official elder class. Context favors elder-aged: those with longer life-records of sin to face. Thai 'ผู้อาวุโส' captures both age and respect-status without forcing the official-elder reading."
+        }
       ],
       "notes": "PERICOPE ADULTERAE block. The order of departure (oldest first) is psychologically observed: those with longest histories felt the conviction first. Some manuscript variants of the pericope add 'ὑπὸ τῆς συνειδήσεως ἐλεγχόμενοι' / 'being convicted by their conscience' as a glossing addition; SBLGNT main text retains it."
     }
@@ -159,8 +219,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "θεασάμενος", "thai": "ทอดพระเนตร", "rationale": "Royal register for Jesus's seeing — 'ทอดพระเนตร' per RULES §3 (divine subject perception verb). Aorist participle marks the gaze as preceding the speech." },
-        { "greek": "ποῦ εἰσιν;; ἐκεῖνοι οἱ κατήγοροί σου", "thai": "พวกเขาอยู่ที่ไหน—ผู้ที่กล่าวโทษเจ้านั้น?", "rationale": "Greek punctuation (the unusual double semicolon) signals a self-interrupting question with appositional clarification. Thai em-dash construction preserves the syntax: short main question, then identification of the antecedent." }
+        {
+          "greek": "θεασάμενος",
+          "thai": "ทอดพระเนตร",
+          "rationale": "Royal register for Jesus's seeing — 'ทอดพระเนตร' per RULES §3 (divine subject perception verb). Aorist participle marks the gaze as preceding the speech."
+        },
+        {
+          "greek": "ποῦ εἰσιν;; ἐκεῖνοι οἱ κατήγοροί σου",
+          "thai": "พวกเขาอยู่ที่ไหน—ผู้ที่กล่าวโทษเจ้านั้น?",
+          "rationale": "Greek punctuation (the unusual double semicolon) signals a self-interrupting question with appositional clarification. Thai em-dash construction preserves the syntax: short main question, then identification of the antecedent."
+        }
       ],
       "notes": "PERICOPE ADULTERAE block. The two questions move from absent accusers to present condemnation — Jesus's pivot from the legal context to the personal verdict. κατήγορος ('accuser / prosecutor') is technical legal vocabulary; the Greek frames the encounter as a court hearing whose prosecution has collapsed."
     }
@@ -176,9 +244,21 @@
       "thai_literal": null,
       "thai_summary": "พระเยซูไม่ได้ทรงปฏิเสธว่าหญิงคนนี้ทำบาป — ทรงสั่ง “อย่าทำบาปอีก” อย่างชัดเจน — แต่ทรงไม่พิพากษาลงโทษในเวลานั้น สมดุลระหว่างพระคุณ (การไม่ลงโทษทันที) กับความจริง (การเรียกให้กลับใจจากบาป) เป็นแก่นของพระธรรมตอนนี้",
       "key_decisions": [
-        { "greek": "κύριε", "thai": "พระองค์เจ้าข้า", "rationale": "κύριε vocative — RULES §4 says 'render per context, document'. The woman addresses Jesus deferentially (he has just rescued her from execution); the form is humble-respectful rather than full divine title. 'พระองค์เจ้าข้า' is the natural Thai humble vocative for an authority figure addressed by a vulnerable petitioner; less than 'องค์พระผู้เป็นเจ้า' (which is reserved for YHWH-citations and confessional contexts), more than 'นาย' (a flat 'sir'). Matches Mary Magdalene's address at JHN 20:15." },
-        { "greek": "Οὐδὲ ἐγώ σε κρίνω", "thai": "เราก็ไม่พิพากษาลงโทษเจ้าเช่นกัน", "rationale": "κρίνω here functions as 'condemn / pass sentence' — paralleling κατακρίνω in v.10. Jesus does not absolve; he declines to execute the available judicial sentence. Thai 'พิพากษาลงโทษ' makes the judicial-sentence sense explicit." },
-        { "greek": "μηκέτι ἁμάρτανε", "thai": "อย่าทำบาปอีก", "rationale": "Present imperative with μηκέτι ('no longer') — durative force: 'cease the practice of sinning'. The command frames the encounter as a beginning of moral repentance, not a judicial pardon. Thai 'อย่าทำบาปอีก' captures the no-longer-do-this sense." }
+        {
+          "greek": "κύριε",
+          "thai": "พระองค์เจ้าข้า",
+          "rationale": "κύριε vocative — RULES §4 says 'render per context, document'. The woman addresses Jesus deferentially (he has just rescued her from execution); the form is humble-respectful rather than full divine title. 'พระองค์เจ้าข้า' is the natural Thai humble vocative for an authority figure addressed by a vulnerable petitioner; less than 'องค์พระผู้เป็นเจ้า' (which is reserved for YHWH-citations and confessional contexts), more than 'นาย' (a flat 'sir'). Matches Mary Magdalene's address at JHN 20:15."
+        },
+        {
+          "greek": "Οὐδὲ ἐγώ σε κρίνω",
+          "thai": "เราก็ไม่พิพากษาลงโทษเจ้าเช่นกัน",
+          "rationale": "κρίνω here functions as 'condemn / pass sentence' — paralleling κατακρίνω in v.10. Jesus does not absolve; he declines to execute the available judicial sentence. Thai 'พิพากษาลงโทษ' makes the judicial-sentence sense explicit."
+        },
+        {
+          "greek": "μηκέτι ἁμάρτανε",
+          "thai": "อย่าทำบาปอีก",
+          "rationale": "Present imperative with μηκέτι ('no longer') — durative force: 'cease the practice of sinning'. The command frames the encounter as a beginning of moral repentance, not a judicial pardon. Thai 'อย่าทำบาปอีก' captures the no-longer-do-this sense."
+        }
       ],
       "notes": "END OF PERICOPE ADULTERAE BLOCK (JHN 7:53–8:11). Full manuscript-witness summary at output/textual_variants/john_08.json. The grace-and-truth pairing (uncondemned + 'sin no more') is theologically significant: Jesus does not minimize the sin, and he does not execute the sentence — neither dismissing the law's seriousness nor weaponizing it against this woman. Patristic-period reception (Augustine, Tractates on John) read this as the paradigmatic pastoral interaction: 'Relicti sunt duo, misera et misericordia' — 'two were left, the wretched woman and Mercy.'"
     }
@@ -194,9 +274,21 @@
       "thai_literal": null,
       "thai_summary": "เป็นการประกาศ ‘เราเป็น’ ครั้งที่สองในยอห์น (ครั้งแรกที่ 6:35 ‘ขนมปังแห่งชีวิต’) สะท้อนพระนามของพระเจ้าในอพยพ 3:14 บริบท: หลังเทศกาลอยู่เพิงที่จุดตะเกียงใหญ่สี่ดวงในลานสตรีของพระวิหาร เพื่อระลึกถึงเสาเพลิงในกันดารวิถี (อพยพ 13:21-22) พระเยซูจึงทรงประกาศว่าพระองค์เองคือเสาเพลิงที่แท้จริง",
       "key_decisions": [
-        { "greek": "Ἐγώ εἰμι τὸ φῶς τοῦ κόσμου", "thai": "เราเป็นความสว่างของโลก", "rationale": "SECOND PREDICATIVE I-AM in John (after 6:35 'bread of life'). Phrase-lock with JHN 6:35 'เราเป็น' + predicate. Echoes Exod 3:14 LXX divine self-identification ('ἐγώ εἰμι ὁ ὤν'). Compare disciples'-applied 'Ὑμεῖς ἐστε τὸ φῶς τοῦ κόσμου' / 'พวกท่านเป็นความสว่างของโลก' at MAT 5:14 — same phrase, but Christ-as-source vs. disciples-as-derivative-light." },
-        { "greek": "οὐ μὴ περιπατήσῃ ἐν τῇ σκοτίᾳ", "thai": "จะไม่เดินในความมืดเลย", "rationale": "οὐ μὴ + aorist subjunctive — strongest possible negation in Koine. uW figs-metaphor: 'walk in darkness' = 'live a sinful life'. Preserve the metaphor (κατά Larson principle: conventional metaphors translate; only obscure ones get paraphrased)." },
-        { "greek": "τὸ φῶς τῆς ζωῆς", "thai": "ความสว่างแห่งชีวิต", "rationale": "Genitive of definition: light that brings life / characterized by life. uW figs-explicit: ζωή here = eternal life (Johannine theme since 3:16). Thai 'ความสว่างแห่งชีวิต' preserves the Greek's poetic compression rather than expanding to 'light that gives eternal life'." }
+        {
+          "greek": "Ἐγώ εἰμι τὸ φῶς τοῦ κόσμου",
+          "thai": "เราเป็นความสว่างของโลก",
+          "rationale": "SECOND PREDICATIVE I-AM in John (after 6:35 'bread of life'). Phrase-lock with JHN 6:35 'เราเป็น' + predicate. Echoes Exod 3:14 LXX divine self-identification ('ἐγώ εἰμι ὁ ὤν'). Compare disciples'-applied 'Ὑμεῖς ἐστε τὸ φῶς τοῦ κόσμου' / 'พวกท่านเป็นความสว่างของโลก' at MAT 5:14 — same phrase, but Christ-as-source vs. disciples-as-derivative-light."
+        },
+        {
+          "greek": "οὐ μὴ περιπατήσῃ ἐν τῇ σκοτίᾳ",
+          "thai": "จะไม่เดินในความมืดเลย",
+          "rationale": "οὐ μὴ + aorist subjunctive — strongest possible negation in Koine. uW figs-metaphor: 'walk in darkness' = 'live a sinful life'. Preserve the metaphor (κατά Larson principle: conventional metaphors translate; only obscure ones get paraphrased)."
+        },
+        {
+          "greek": "τὸ φῶς τῆς ζωῆς",
+          "thai": "ความสว่างแห่งชีวิต",
+          "rationale": "Genitive of definition: light that brings life / characterized by life. uW figs-explicit: ζωή here = eternal life (Johannine theme since 3:16). Thai 'ความสว่างแห่งชีวิต' preserves the Greek's poetic compression rather than expanding to 'light that gives eternal life'."
+        }
       ],
       "notes": "OT ALLUSION cluster: (a) EXO 3:14 ἐγώ εἰμι divine-name echo; (b) EXO 13:21–22 / NUM 14:14 wilderness pillar of fire (Sukkot context — see below); (c) ISA 9:2, 42:6, 49:6 servant-light-to-the-nations theology; (d) PSA 27:1 'YHWH is my light'. CULTURAL CONTEXT: Sukkot (ended in JHN 7) included the Simchat Beit HaSho'evah ceremony in which four 75-foot-tall menorahs were lit in the Court of Women each night, illuminating all Jerusalem (m. Sukkah 5:2–3); Jesus is teaching at the γαζοφυλάκιον (v.20) — the same Court-of-Women location — where the menorah-platforms still stood. The 'light of the world' claim pulls together the recently-extinguished Sukkot light, the wilderness pillar-of-fire, and the divine-name. ADDED TO NT_OT_CITATIONS: JHN 8:12 → ISA 9:2 + ISA 42:6 + ISA 49:6 + EXO 13:21 (servant-light cluster + wilderness pillar of fire)."
     }
@@ -212,8 +304,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "Σὺ περὶ σεαυτοῦ μαρτυρεῖς", "thai": "ท่านเป็นพยานให้ตัวเอง", "rationale": "Pharisees as antagonists addressing Jesus — RULES §3 'inter-human dialogue, match social relationship'. They use neutral-respectful 'ท่าน' (you) and human speech-verb 'กล่าว' (not the deferential 'ทูล'), since they are not believing or worshipping but interrogating. Distance-marking that contrasts with the believing crowd's address." },
-        { "greek": "οὐκ ἔστιν ἀληθής", "thai": "ไม่เป็นความจริง", "rationale": "ἀληθής here = 'valid / true' in legal-witness sense, per uW figs-explicit and DEU 19:15 background. Thai 'ไม่เป็นความจริง' captures both the legal-validity and the truth-content readings." }
+        {
+          "greek": "Σὺ περὶ σεαυτοῦ μαρτυρεῖς",
+          "thai": "ท่านเป็นพยานให้ตัวเอง",
+          "rationale": "Pharisees as antagonists addressing Jesus — RULES §3 'inter-human dialogue, match social relationship'. They use neutral-respectful 'ท่าน' (you) and human speech-verb 'กล่าว' (not the deferential 'ทูล'), since they are not believing or worshipping but interrogating. Distance-marking that contrasts with the believing crowd's address."
+        },
+        {
+          "greek": "οὐκ ἔστιν ἀληθής",
+          "thai": "ไม่เป็นความจริง",
+          "rationale": "ἀληθής here = 'valid / true' in legal-witness sense, per uW figs-explicit and DEU 19:15 background. Thai 'ไม่เป็นความจริง' captures both the legal-validity and the truth-content readings."
+        }
       ],
       "notes": "OT BACKGROUND: DEU 19:15 'one witness shall not rise up against a person'. The Pharisees invoke the two-witness rule (also DEU 17:6, NUM 35:30) to discredit Jesus's self-testimony. Jesus's response (vv.14–18) recasts the rule: he and the Father are the two witnesses."
     }
@@ -229,7 +329,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "Κἂν ἐγὼ μαρτυρῶ περὶ ἐμαυτοῦ", "thai": "ถึงแม้เราจะเป็นพยานให้ตัวเอง", "rationale": "καί + ἄν concessive — 'even if'. Jesus concedes the procedural point hypothetically, then claims the substantive validity rests on his unique knowledge of his own origin and destination — knowledge his accusers lack." }
+        {
+          "greek": "Κἂν ἐγὼ μαρτυρῶ περὶ ἐμαυτοῦ",
+          "thai": "ถึงแม้เราจะเป็นพยานให้ตัวเอง",
+          "rationale": "καί + ἄν concessive — 'even if'. Jesus concedes the procedural point hypothetically, then claims the substantive validity rests on his unique knowledge of his own origin and destination — knowledge his accusers lack."
+        }
       ],
       "notes": "Jesus's two-step defense: (1) hypothetically grant the Pharisees' two-witness objection, (2) ground the validity in unique-knowledge-of-origin. The 'where I came from / where I am going' couplet is Johannine signature language for Christ's pre-existence and impending return to the Father (cf. JHN 13:3, 16:28)."
     }
@@ -245,8 +349,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "κατὰ τὴν σάρκα", "thai": "ตามมาตรฐานของเนื้อหนัง", "rationale": "σάρξ here = human standards limited by sinful nature (uW figs-metaphor). Not 'flesh' as physical body, but the moral framework of fallen-human standards. Thai 'มาตรฐานของเนื้อหนัง' makes the standards-not-physiology meaning explicit while keeping the σάρξ metaphor visible." },
-        { "greek": "ἐγὼ οὐ κρίνω οὐδένα", "thai": "เราไม่พิพากษาผู้ใดเลย", "rationale": "uW figs-ellipsis flagged ambiguity: (1) Jesus does not judge as the Pharisees do, OR (2) Jesus is not judging at this time. Reading (1) coheres with v.16 ('and even if I judge...') and the broader Johannine theme that Christ's judging-mission is eschatological (cf. JHN 5:22). Thai 'ไม่พิพากษา...เลย' allows both readings without forcing one." }
+        {
+          "greek": "κατὰ τὴν σάρκα",
+          "thai": "ตามมาตรฐานของเนื้อหนัง",
+          "rationale": "σάρξ here = human standards limited by sinful nature (uW figs-metaphor). Not 'flesh' as physical body, but the moral framework of fallen-human standards. Thai 'มาตรฐานของเนื้อหนัง' makes the standards-not-physiology meaning explicit while keeping the σάρξ metaphor visible."
+        },
+        {
+          "greek": "ἐγὼ οὐ κρίνω οὐδένα",
+          "thai": "เราไม่พิพากษาผู้ใดเลย",
+          "rationale": "uW figs-ellipsis flagged ambiguity: (1) Jesus does not judge as the Pharisees do, OR (2) Jesus is not judging at this time. Reading (1) coheres with v.16 ('and even if I judge...') and the broader Johannine theme that Christ's judging-mission is eschatological (cf. JHN 5:22). Thai 'ไม่พิพากษา...เลย' allows both readings without forcing one."
+        }
       ],
       "notes": "Apparent tension with JHN 5:22 ('the Father has given all judgment to the Son') and v.16 ('even if I judge'). Resolution: Jesus rejects the κατὰ σάρκα mode of judgment, not the eschatological judicial role of the Son of Man. The not-judging in this earthly ministry is purposive (for salvation, JHN 3:17), not absolute. Pauline parallel: 2 COR 5:16 'we no longer regard anyone κατὰ σάρκα'."
     }
@@ -262,8 +374,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἀληθινή", "thai": "เที่ยงธรรม", "rationale": "ἀληθινός — 'true / genuine / right'. Distinct from ἀληθής (true-as-factual) used in vv.13–14 of testimony. Here applied to judgment: 'just / right'. Thai 'เที่ยงธรรม' (just, righteous-in-judgment) captures the judicial-rightness sense better than 'จริง' (factually-true)." },
-        { "greek": "ὁ πέμψας με πατήρ", "thai": "พระบิดาผู้ทรงใช้เรามา", "rationale": "πατήρ referring to God = 'พระบิดา' (royal/divine title); ὁ πέμψας με → 'ผู้ทรงใช้เรามา' (royal-register past-participle: 'who has sent me'). Phrase-lock with prior Johannine occurrences (JHN 5:23, 24, 30, 36, 37; 6:38, 39, 44, 57)." }
+        {
+          "greek": "ἀληθινή",
+          "thai": "เที่ยงธรรม",
+          "rationale": "ἀληθινός — 'true / genuine / right'. Distinct from ἀληθής (true-as-factual) used in vv.13–14 of testimony. Here applied to judgment: 'just / right'. Thai 'เที่ยงธรรม' (just, righteous-in-judgment) captures the judicial-rightness sense better than 'จริง' (factually-true)."
+        },
+        {
+          "greek": "ὁ πέμψας με πατήρ",
+          "thai": "พระบิดาผู้ทรงใช้เรามา",
+          "rationale": "πατήρ referring to God = 'พระบิดา' (royal/divine title); ὁ πέμψας με → 'ผู้ทรงใช้เรามา' (royal-register past-participle: 'who has sent me'). Phrase-lock with prior Johannine occurrences (JHN 5:23, 24, 30, 36, 37; 6:38, 39, 44, 57)."
+        }
       ],
       "notes": "uW figs-explicit: Jesus implies he is not alone in judging — the Father judges with him. The two-witness rule (DEU 19:15) is now subverted: instead of Jesus + a human witness, Jesus has the Father as the second witness — the highest possible witness."
     }
@@ -279,7 +399,11 @@
       "thai_literal": null,
       "thai_summary": "พระเยซูทรงอ้างกฎพยานสองปากของโมเสส (เฉลยธรรมบัญญัติ 19:15; เลวีนิติ 5:1; กันดารวิถี 35:30) แต่ใช้คำว่า ‘ของพวกท่านเอง’ — ทรงให้พวกฟาริสีติดอยู่ในกรอบของกฎที่พวกเขาอ้างมาเอง",
       "key_decisions": [
-        { "greek": "τῷ ὑμετέρῳ", "thai": "ของพวกท่านเอง", "rationale": "Possessive emphatic — 'your own (law)'. The pronoun creates rhetorical distance: Jesus appeals to the law as the Pharisees' own ground, while implying that he stands above it as its giver. Thai 'ของพวกท่านเอง' carries the same emphatic-distance force." }
+        {
+          "greek": "τῷ ὑμετέρῳ",
+          "thai": "ของพวกท่านเอง",
+          "rationale": "Possessive emphatic — 'your own (law)'. The pronoun creates rhetorical distance: Jesus appeals to the law as the Pharisees' own ground, while implying that he stands above it as its giver. Thai 'ของพวกท่านเอง' carries the same emphatic-distance force."
+        }
       ],
       "notes": "OT CITATION: DEU 19:15 ('on the testimony of two or three witnesses every charge shall be established'); also LEV 5:1, NUM 35:30, DEU 17:6. The two-witness rule is foundational to Mosaic legal procedure. Jesus invokes it to justify his self-testimony alongside the Father's testimony (v.18). ADDED TO NT_OT_CITATIONS: JHN 8:17 → DEU 19:15 (composite with DEU 17:6, NUM 35:30)."
     }
@@ -295,7 +419,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἐγώ εἰμι ὁ μαρτυρῶν", "thai": "เราเป็นผู้ที่เป็นพยาน", "rationale": "PREDICATIVE ἐγώ εἰμι (with substantival participle as predicate) — distinct from the absolute ἐγώ εἰμι in vv.24, 28, 58. Here it functions normatively: 'I am [the one who testifies]'. Phrase-lock with predicative I-AMs at JHN 6:35, 8:12 (เราเป็น + predicate)." }
+        {
+          "greek": "ἐγώ εἰμι ὁ μαρτυρῶν",
+          "thai": "เราเป็นผู้ที่เป็นพยาน",
+          "rationale": "PREDICATIVE ἐγώ εἰμι (with substantival participle as predicate) — distinct from the absolute ἐγώ εἰμι in vv.24, 28, 58. Here it functions normatively: 'I am [the one who testifies]'. Phrase-lock with predicative I-AMs at JHN 6:35, 8:12 (เราเป็น + predicate)."
+        }
       ],
       "notes": "Two witnesses fulfilling DEU 19:15: (1) Jesus himself; (2) the Father who sent him. The Father's testimony has been given through (a) the Father's voice at the baptism (JHN 1:32–34), (b) the works Jesus does (JHN 5:36), (c) the Scriptures (JHN 5:39). The Pharisees' two-witness objection (v.13) is met on its own terms."
     }
@@ -311,8 +439,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "οἴδατε ... ᾔδειτε ... ᾔδειτε", "thai": "รู้จัก", "rationale": "uW figs-explicit: οἶδα here = 'know who someone is' (relational/identifying knowledge), not 'know about / know facts concerning'. Thai 'รู้จัก' (know personally) preserves the relational sense, distinct from 'ทราบ' (know information)." },
-        { "greek": "εἰ ἐμὲ ᾔδειτε, καὶ τὸν πατέρα μου ἂν ᾔδειτε", "thai": "ถ้าพวกท่านรู้จักเรา พวกท่านก็จะรู้จักพระบิดาของเราด้วย", "rationale": "uW grammar-connect-condition-contrary: condition Jesus believes is not true. Greek pluperfect ᾔδειτε + ἂν ᾔδειτε signals contrary-to-fact. Thai 'ถ้า...ก็' construction conveys the hypothetical without forcing 'but you don't' surface marking." }
+        {
+          "greek": "οἴδατε ... ᾔδειτε ... ᾔδειτε",
+          "thai": "รู้จัก",
+          "rationale": "uW figs-explicit: οἶδα here = 'know who someone is' (relational/identifying knowledge), not 'know about / know facts concerning'. Thai 'รู้จัก' (know personally) preserves the relational sense, distinct from 'ทราบ' (know information)."
+        },
+        {
+          "greek": "εἰ ἐμὲ ᾔδειτε, καὶ τὸν πατέρα μου ἂν ᾔδειτε",
+          "thai": "ถ้าพวกท่านรู้จักเรา พวกท่านก็จะรู้จักพระบิดาของเราด้วย",
+          "rationale": "uW grammar-connect-condition-contrary: condition Jesus believes is not true. Greek pluperfect ᾔδειτε + ἂν ᾔδειτε signals contrary-to-fact. Thai 'ถ้า...ก็' construction conveys the hypothetical without forcing 'but you don't' surface marking."
+        }
       ],
       "notes": "Johannine theology compressed: knowing Jesus = knowing the Father (cf. 14:7, 9 'whoever has seen me has seen the Father'). The Pharisees' question 'where is your father' is grossly literal — they expect a flesh-and-blood man; Jesus's answer reframes the question relationally."
     }
@@ -328,8 +464,16 @@
       "thai_literal": null,
       "thai_summary": "‘คลังของถวาย’ (γαζοφυλάκιον) อยู่ที่ลานสตรีของพระวิหาร เป็นที่ที่ผู้คนถวายเงินที่กล่องรูปแตรสิบสามใบ และเป็นสถานที่ที่ตะเกียงใหญ่ของเทศกาลอยู่เพิงเคยส่องสว่าง คำประกาศของพระเยซูในข้อ 12 ว่า ‘เราเป็นความสว่างของโลก’ จึงตรัสในที่ที่ผู้ฟังยังเห็นภาพตะเกียงเหล่านั้นในใจได้ชัด",
       "key_decisions": [
-        { "greek": "τῷ γαζοφυλακίῳ", "thai": "คลังของถวาย", "rationale": "γαζοφυλάκιον — Persian-loan compound (γάζα 'treasure' + φυλακή 'guard'). Specifically the temple's offering-collection area in the Court of Women, with thirteen trumpet-shaped chests for various offerings (m. Shekalim 6:5). Thai 'คลังของถวาย' is the standard rendering established at MRK 12:41, 43 (widow's two coins) and LUK 21:1." },
-        { "greek": "ἡ ὥρα αὐτοῦ", "thai": "เวลากำหนดของพระองค์", "rationale": "Johannine 'hour' — the divinely-appointed time of Jesus's passion-glorification (cf. JHN 2:4, 7:30, 12:23, 13:1, 17:1). Phrase-lock with JHN 7:30 'เวลากำหนดของพระองค์ยังมาไม่ถึง'." }
+        {
+          "greek": "τῷ γαζοφυλακίῳ",
+          "thai": "คลังของถวาย",
+          "rationale": "γαζοφυλάκιον — Persian-loan compound (γάζα 'treasure' + φυλακή 'guard'). Specifically the temple's offering-collection area in the Court of Women, with thirteen trumpet-shaped chests for various offerings (m. Shekalim 6:5). Thai 'คลังของถวาย' is the standard rendering established at MRK 12:41, 43 (widow's two coins) and LUK 21:1."
+        },
+        {
+          "greek": "ἡ ὥρα αὐτοῦ",
+          "thai": "เวลากำหนดของพระองค์",
+          "rationale": "Johannine 'hour' — the divinely-appointed time of Jesus's passion-glorification (cf. JHN 2:4, 7:30, 12:23, 13:1, 17:1). Phrase-lock with JHN 7:30 'เวลากำหนดของพระองค์ยังมาไม่ถึง'."
+        }
       ],
       "notes": "uW writing-background: this verse provides the setting that frames the entire 8:12–20 discourse. The γαζοφυλάκιον was in the Court of Women — the same court where the four enormous Sukkot menorahs had stood (m. Sukkah 5:2–3); Jesus's 'light of the world' claim (v.12) lands precisely where the festival-light was extinguished days earlier."
     }
@@ -345,8 +489,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἐν τῇ ἁμαρτίᾳ ὑμῶν", "thai": "ในบาปของพวกท่าน", "rationale": "ἁμαρτίᾳ here is SINGULAR — distinct from the PLURAL ἁμαρτίαις in v.24. uW figs-genericnoun: could refer to (a) the specific sin of rejecting Jesus, or (b) sinfulness in general. Singular-vs-plural distinction with v.24 is preserved per uW note 'make sure that you translate sins differently than how you translated sin in verse 21'. Thai singular 'บาป' (sin, mass-noun rendering) vs plural 'บาปทั้งหลาย' (sins, count-plural) at v.24." }
-        ,{ "greek": "ὑπάγω", "thai": "กำลังจะไป", "rationale": "uW figs-extrainfo: Jesus uses ὑπάγω to refer to his death and return to the Father, but the Jews do not understand this — so the meaning should not be over-explicated in the verse text. Thai 'กำลังจะไป' preserves the surface ambiguity that the original audience experienced." }
+        {
+          "greek": "ἐν τῇ ἁμαρτίᾳ ὑμῶν",
+          "thai": "ในบาปของพวกท่าน",
+          "rationale": "ἁμαρτίᾳ here is SINGULAR — distinct from the PLURAL ἁμαρτίαις in v.24. uW figs-genericnoun: could refer to (a) the specific sin of rejecting Jesus, or (b) sinfulness in general. Singular-vs-plural distinction with v.24 is preserved per uW note 'make sure that you translate sins differently than how you translated sin in verse 21'. Thai singular 'บาป' (sin, mass-noun rendering) vs plural 'บาปทั้งหลาย' (sins, count-plural) at v.24."
+        },
+        {
+          "greek": "ὑπάγω",
+          "thai": "กำลังจะไป",
+          "rationale": "uW figs-extrainfo: Jesus uses ὑπάγω to refer to his death and return to the Father, but the Jews do not understand this — so the meaning should not be over-explicated in the verse text. Thai 'กำลังจะไป' preserves the surface ambiguity that the original audience experienced."
+        }
       ],
       "notes": "Singular ἁμαρτίᾳ here, plural ἁμαρτίαις in v.24 — uW notes the deliberate Johannine distinction. Singular = the specific sin of unbelief (rejecting the one the Father sent — JHN 16:9 'sin: that they do not believe in me'); plural = the cumulative sins that flow from that root."
     }
@@ -362,8 +514,16 @@
       "thai_literal": null,
       "thai_summary": "ในความคิดของยิวศตวรรษที่หนึ่ง ผู้ฆ่าตัวตายจะไปยังนรกชั้นล่างสุด (โยเซฟัสกล่าวว่าเป็น Hades ที่มืดมิดที่สุด) คำถามของผู้นำชาวยิวจึงเป็นคำถามแฝงด้วยการเหยียดหยาม ‘เขาจะไปที่นั่นที่เราจะไม่ตามไป’",
       "key_decisions": [
-        { "greek": "οἱ Ἰουδαῖοι", "thai": "ผู้นำชาวยิว", "rationale": "uW figs-synecdoche: in John, οἱ Ἰουδαῖοι in confrontational contexts = 'the Jewish leaders' (not Jews-as-ethnicity). Phrase-lock with prior John chapters (JHN 5:10, 7:1, 7:13 — where 'ผู้นำชาวยิว' is the established rendering)." },
-        { "greek": "Μήτι ἀποκτενεῖ ἑαυτὸν", "thai": "เขาจะฆ่าตัวเองหรือ", "rationale": "uW figs-explicit: μήτι expects negative answer but expresses uncertainty; the question is mocking-incredulous. Thai 'หรือ' as final-question particle preserves the rhetorical-uncertain force." }
+        {
+          "greek": "οἱ Ἰουδαῖοι",
+          "thai": "ผู้นำชาวยิว",
+          "rationale": "uW figs-synecdoche: in John, οἱ Ἰουδαῖοι in confrontational contexts = 'the Jewish leaders' (not Jews-as-ethnicity). Phrase-lock with prior John chapters (JHN 5:10, 7:1, 7:13 — where 'ผู้นำชาวยิว' is the established rendering)."
+        },
+        {
+          "greek": "Μήτι ἀποκτενεῖ ἑαυτὸν",
+          "thai": "เขาจะฆ่าตัวเองหรือ",
+          "rationale": "uW figs-explicit: μήτι expects negative answer but expresses uncertainty; the question is mocking-incredulous. Thai 'หรือ' as final-question particle preserves the rhetorical-uncertain force."
+        }
       ],
       "notes": "1st-century Jewish belief held suicides went to the deepest part of Sheol/Hades (Josephus, Wars 3.8.5). The leaders' question is a contemptuous play on Jesus's words: 'maybe he means he's going to a place we'd never follow him to — i.e., the suicide's destination.' Their incomprehension recapitulates the Nicodemus pattern (JHN 3:4) and the Samaritan-woman pattern (JHN 4:11)."
     }
@@ -379,8 +539,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἐκ τῶν κάτω ... ἐκ τῶν ἄνω", "thai": "จากเบื้องล่าง ... จากเบื้องบน", "rationale": "uW figs-explicit: 'the things below' = this lower world (not hell); 'the things above' = heaven. Thai 'เบื้องล่าง / เบื้องบน' preserves the spatial-cosmic dualism without forcing the heaven/hell reading. The phrase parallels Hellenistic-Jewish two-world cosmology (cf. WIS 9:16; PHIL 3:14, 19–20)." },
-        { "greek": "τούτου τοῦ κόσμου ... τοῦ κόσμου τούτου", "thai": "โลกนี้", "rationale": "uW figs-metonymy: κόσμος in John regularly = the world-as-corrupted, hostile to God (cf. JHN 1:10, 7:7, 15:18–19, 17:14). Thai 'โลกนี้' carries the same theologically-loaded sense without explicit 'sinful world' expansion." }
+        {
+          "greek": "ἐκ τῶν κάτω ... ἐκ τῶν ἄνω",
+          "thai": "จากเบื้องล่าง ... จากเบื้องบน",
+          "rationale": "uW figs-explicit: 'the things below' = this lower world (not hell); 'the things above' = heaven. Thai 'เบื้องล่าง / เบื้องบน' preserves the spatial-cosmic dualism without forcing the heaven/hell reading. The phrase parallels Hellenistic-Jewish two-world cosmology (cf. WIS 9:16; PHIL 3:14, 19–20)."
+        },
+        {
+          "greek": "τούτου τοῦ κόσμου ... τοῦ κόσμου τούτου",
+          "thai": "โลกนี้",
+          "rationale": "uW figs-metonymy: κόσμος in John regularly = the world-as-corrupted, hostile to God (cf. JHN 1:10, 7:7, 15:18–19, 17:14). Thai 'โลกนี้' carries the same theologically-loaded sense without explicit 'sinful world' expansion."
+        }
       ],
       "notes": "The vertical κάτω/ἄνω axis (below/above) parallels but does not equate to the horizontal κόσμος/ἐκ-τοῦ-θεοῦ axis (this-world / from-God) in v.23b. Both formulations describe the same two communities, differently figured. uW figs-metonymy: κόσμος here = world-of-people-corrupted-by-sin."
     }
@@ -396,8 +564,16 @@
       "thai_literal": null,
       "thai_summary": "‘เราเป็น’ (ἐγώ εἰμι) ในข้อนี้เป็นการอ้างพระนามของพระเจ้าครั้งแรกในสามครั้งของยอห์น 8 (ครั้งที่สองข้อ 28 ครั้งที่สามและสุดยอดข้อ 58) สะท้อนพระนามที่พระเจ้าทรงเปิดเผยแก่โมเสสในอพยพ 3:14 ว่า ‘เราคือผู้เป็นอยู่’ และในอิสยาห์ 43:10 ‘พวกเจ้าจะรู้และเชื่อเราและจะเข้าใจว่าเราเป็น’ — ความเชื่อในความเป็นพระเจ้าของพระเยซูเป็นข้อแบ่งระหว่างชีวิตและความตาย",
       "key_decisions": [
-        { "greek": "ἐγώ εἰμι (absolute)", "thai": "เราเป็น", "rationale": "FIRST OF THREE ABSOLUTE ἐγώ εἰμι in JHN 8 (also vv.28, 58). No predicate — bare 'I am'. uW figs-explicit notes two readings: (1) Jesus identifying himself as the YHWH of EXO 3:14 / ISA 43:10; (2) Jesus expecting hearers to supply 'from above' (per v.23). Most modern interpreters read (1) as primary, with (2) as the puzzled hearer's misreading. Render bare 'เราเป็น' to preserve the absolute Greek; the divine-name claim is theologically central. Compare 6:20 'ἐγώ εἰμι' (rendered 'นี่เราเอง' in identifying-context) — different syntax, different effect; here the bare absolute mirrors the LXX of EXO 3:14 / ISA 43:10/13/25." },
-        { "greek": "ἐν ταῖς ἁμαρτίαις ὑμῶν", "thai": "ในบาปทั้งหลายของพวกท่าน", "rationale": "PLURAL ἁμαρτίαις — distinct from singular ἁμαρτίᾳ at v.21. uW notes the deliberate distinction must be preserved in translation. Thai 'บาปทั้งหลาย' (count-plural) vs v.21 'บาป' (mass-singular). The plural foregrounds the cumulative consequence of unbelief; the singular at v.21 named the root sin (rejecting Jesus)." }
+        {
+          "greek": "ἐγώ εἰμι (absolute)",
+          "thai": "เราเป็น",
+          "rationale": "FIRST OF THREE ABSOLUTE ἐγώ εἰμι in JHN 8 (also vv.28, 58). No predicate — bare 'I am'. uW figs-explicit notes two readings: (1) Jesus identifying himself as the YHWH of EXO 3:14 / ISA 43:10; (2) Jesus expecting hearers to supply 'from above' (per v.23). Most modern interpreters read (1) as primary, with (2) as the puzzled hearer's misreading. Render bare 'เราเป็น' to preserve the absolute Greek; the divine-name claim is theologically central. Compare 6:20 'ἐγώ εἰμι' (rendered 'นี่เราเอง' in identifying-context) — different syntax, different effect; here the bare absolute mirrors the LXX of EXO 3:14 / ISA 43:10/13/25."
+        },
+        {
+          "greek": "ἐν ταῖς ἁμαρτίαις ὑμῶν",
+          "thai": "ในบาปทั้งหลายของพวกท่าน",
+          "rationale": "PLURAL ἁμαρτίαις — distinct from singular ἁμαρτίᾳ at v.21. uW notes the deliberate distinction must be preserved in translation. Thai 'บาปทั้งหลาย' (count-plural) vs v.21 'บาป' (mass-singular). The plural foregrounds the cumulative consequence of unbelief; the singular at v.21 named the root sin (rejecting Jesus)."
+        }
       ],
       "notes": "ABSOLUTE ἐγώ εἰμι (no predicate, 1st of 3 in JHN 8). LXX background: EXO 3:14 ('ἐγώ εἰμι ὁ ὤν' YHWH self-name); ISA 43:10 ('ἵνα γνῶτε καὶ πιστεύσητε καὶ συνῆτε ὅτι ἐγώ εἰμι'); ISA 43:13, 43:25, 45:18, 46:4, 51:12, 52:6 — Deutero-Isaiah's repeated 'I am he' declarations of YHWH's exclusive deity. The juxtaposition 'unless you believe that I am' echoes ISA 43:10 'in order that you may know and believe and understand that I am' — Jesus claims for himself the response Isaiah commands toward YHWH. ADDED TO NT_OT_CITATIONS: JHN 8:24 → EXO 3:14 + ISA 43:10 (composite ἐγώ εἰμι divine-name allusion)."
     }
@@ -413,7 +589,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "Τὴν ἀρχὴν ὅ τι καὶ λαλῶ ὑμῖν", "thai": "ก็เป็นอย่างที่เราพูดกับพวกท่านมาตั้งแต่ต้น", "rationale": "uW figs-rquestion: notoriously difficult Greek. Three main readings: (a) declarative 'I am from the beginning what I am telling you' / 'I am what I have been saying all along'; (b) rhetorical question 'Why am I even speaking to you at all?'; (c) exclamatory 'Just what I have been telling you!' — BSB and most modern English translations follow (a) or (c). Thai 'ก็เป็นอย่างที่เราพูดกับพวกท่านมาตั้งแต่ต้น' takes reading (a)+(c): Jesus's identity has been declared from the start of his ministry; the answer to 'who are you' is in his own self-disclosures." }
+        {
+          "greek": "Τὴν ἀρχὴν ὅ τι καὶ λαλῶ ὑμῖν",
+          "thai": "ก็เป็นอย่างที่เราพูดกับพวกท่านมาตั้งแต่ต้น",
+          "rationale": "uW figs-rquestion: notoriously difficult Greek. Three main readings: (a) declarative 'I am from the beginning what I am telling you' / 'I am what I have been saying all along'; (b) rhetorical question 'Why am I even speaking to you at all?'; (c) exclamatory 'Just what I have been telling you!' — BSB and most modern English translations follow (a) or (c). Thai 'ก็เป็นอย่างที่เราพูดกับพวกท่านมาตั้งแต่ต้น' takes reading (a)+(c): Jesus's identity has been declared from the start of his ministry; the answer to 'who are you' is in his own self-disclosures."
+        }
       ],
       "notes": "The Greek τὴν ἀρχὴν ὅ τι καὶ λαλῶ ὑμῖν — accusative-of-time-or-respect + indefinite-relative + adverbial καί — is among the most difficult sentences in the Greek NT. Patristic readings split between declarative and exclamatory. The translation here follows the BSB/ESV/NIV consensus declarative reading."
     }
@@ -429,7 +609,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἀληθής ἐστιν", "thai": "ทรงเป็นจริง", "rationale": "uW: ἀληθής here = truthful / speaking only the truth. Royal register ทรง- prefix for the divine subject. Thai 'ทรงเป็นจริง' captures both the truthful-character sense and the absolute-divine-attribute force." }
+        {
+          "greek": "ἀληθής ἐστιν",
+          "thai": "ทรงเป็นจริง",
+          "rationale": "uW: ἀληθής here = truthful / speaking only the truth. Royal register ทรง- prefix for the divine subject. Thai 'ทรงเป็นจริง' captures both the truthful-character sense and the absolute-divine-attribute force."
+        }
       ],
       "notes": "Jesus's role as the Father's authorized spokesperson is restated: he speaks only what he has heard from the Father (cf. JHN 3:32, 5:30, 7:16, 12:49–50, 14:10). The Pharisees' attempt to discredit Jesus collapses against this prophetic-emissary structure: to reject Jesus is to reject the One who sent him."
     }
@@ -459,9 +643,21 @@
       "thai_literal": null,
       "thai_summary": "‘ยกขึ้น’ (ὑψόω) ในยอห์นมีสองความหมายซ้อนกัน: การถูกตรึงบนกางเขนทางกายภาพ และการได้รับเกียรติเมื่อกางเขนกลายเป็นช่องทางของความรอด เปรียบกับงูทองสัมฤทธิ์ที่โมเสสยกขึ้นในกันดารวิถี 21:8-9 ผู้ใดมองดูก็รอด ‘เราเป็น’ ในข้อนี้เป็นการอ้างพระนามของพระเจ้าครั้งที่สองในยอห์น 8",
       "key_decisions": [
-        { "greek": "ὑψώσητε", "thai": "ได้ยก...ขึ้น", "rationale": "Johannine signature double-meaning: ὑψόω = (a) lift up physically (the cross), (b) exalt / glorify (the resurrection-ascension). uW figs-explicit confirms 'lifted up on the cross' is the primary sense, with the glorification overtone (per JHN 12:32). Thai 'ยกขึ้น' preserves both readings — the same verb is used in Thai for raising on a cross and for exaltation/honoring. Phrase-lock with JHN 3:14 'ωμοσευς ὕψωσεν τὸν ὄφιν / โมเสสยกงูขึ้น'." },
-        { "greek": "τὸν υἱὸν τοῦ ἀνθρώπου", "thai": "บุตรมนุษย์", "rationale": "Standard Johannine self-designation, echoing DAN 7:13–14. Phrase-lock across the corpus." },
-        { "greek": "ἐγώ εἰμι (absolute)", "thai": "เราเป็น", "rationale": "SECOND ABSOLUTE ἐγώ εἰμι in JHN 8 (also vv.24, 58). Same divine-name claim as v.24, but now linked to a temporal marker — 'when you have lifted me up, then you will know'. The cross is the moment of revelation. Render bare 'เราเป็น' to preserve the absolute syntax." }
+        {
+          "greek": "ὑψώσητε",
+          "thai": "ได้ยก...ขึ้น",
+          "rationale": "Johannine signature double-meaning: ὑψόω = (a) lift up physically (the cross), (b) exalt / glorify (the resurrection-ascension). uW figs-explicit confirms 'lifted up on the cross' is the primary sense, with the glorification overtone (per JHN 12:32). Thai 'ยกขึ้น' preserves both readings — the same verb is used in Thai for raising on a cross and for exaltation/honoring. Phrase-lock with JHN 3:14 'ωμοσευς ὕψωσεν τὸν ὄφιν / โมเสสยกงูขึ้น'."
+        },
+        {
+          "greek": "τὸν υἱὸν τοῦ ἀνθρώπου",
+          "thai": "บุตรมนุษย์",
+          "rationale": "Standard Johannine self-designation, echoing DAN 7:13–14. Phrase-lock across the corpus."
+        },
+        {
+          "greek": "ἐγώ εἰμι (absolute)",
+          "thai": "เราเป็น",
+          "rationale": "SECOND ABSOLUTE ἐγώ εἰμι in JHN 8 (also vv.24, 58). Same divine-name claim as v.24, but now linked to a temporal marker — 'when you have lifted me up, then you will know'. The cross is the moment of revelation. Render bare 'เราเป็น' to preserve the absolute syntax."
+        }
       ],
       "notes": "OT ALLUSIONS: (a) NUM 21:8–9 the bronze serpent Moses lifted up; cross-reference JHN 3:14 'just as Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up'; (b) ISA 52:13 LXX 'ἰδοὺ συνήσει ὁ παῖς μου καὶ ὑψωθήσεται καὶ δοξασθήσεται σφόδρα' — the suffering servant will be 'lifted up and glorified'; the same double-meaning verb (ὑψόω) is the bridge between the wilderness-serpent and the servant-passion. SECOND ABSOLUTE ἐγώ εἰμι (vv.24, 28, 58 cluster). ADDED TO NT_OT_CITATIONS: JHN 8:28 → NUM 21:8–9 + ISA 52:13 (lifted-up cluster) + EXO 3:14 (ἐγώ εἰμι echo continued from v.24)."
     }
@@ -477,8 +673,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "μετ’ἐμοῦ ἐστιν", "thai": "ทรงสถิตกับเรา", "rationale": "uW figs-metaphor reading 'with me = helping me'. Thai 'ทรงสถิต' (royal-register 'reside / abide / be present with') is more literal and theologically richer than the helping-paraphrase: the Father's presence with the Son is not just helping but indwelling-companionship — Johannine theology of mutual indwelling (cf. JHN 10:38, 14:10–11)." },
-        { "greek": "τὰ ἀρεστὰ αὐτῷ ποιῶ", "thai": "ทำสิ่งที่พระองค์พอพระทัย", "rationale": "ἀρεστός — pleasing, acceptable. uW: 'what pleases him'. Thai 'พอพระทัย' (royal-register 'pleased' verb) is the standard Christian-Thai rendering for divine pleasure." }
+        {
+          "greek": "μετ’ἐμοῦ ἐστιν",
+          "thai": "ทรงสถิตกับเรา",
+          "rationale": "uW figs-metaphor reading 'with me = helping me'. Thai 'ทรงสถิต' (royal-register 'reside / abide / be present with') is more literal and theologically richer than the helping-paraphrase: the Father's presence with the Son is not just helping but indwelling-companionship — Johannine theology of mutual indwelling (cf. JHN 10:38, 14:10–11)."
+        },
+        {
+          "greek": "τὰ ἀρεστὰ αὐτῷ ποιῶ",
+          "thai": "ทำสิ่งที่พระองค์พอพระทัย",
+          "rationale": "ἀρεστός — pleasing, acceptable. uW: 'what pleases him'. Thai 'พอพระทัย' (royal-register 'pleased' verb) is the standard Christian-Thai rendering for divine pleasure."
+        }
       ],
       "notes": "Foreshadows the dereliction-cry (MRK 15:34 / MAT 27:46) — the only moment of apparent abandonment is at the cross-event itself, the very 'lifting up' just predicted in v.28. Until then: 'he has not left me alone'."
     }
@@ -494,7 +698,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἐπίστευσαν εἰς αὐτόν", "thai": "เชื่อในพระองค์", "rationale": "πιστεύω εἰς + accusative — Johannine signature construction for saving faith ('believe into / believe in'). Thai 'เชื่อใน' phrase-lock across John (1:12, 2:11, 23, 3:16, 18, 4:39, 6:29, 35, 7:31, 39 etc.)." }
+        {
+          "greek": "ἐπίστευσαν εἰς αὐτόν",
+          "thai": "เชื่อในพระองค์",
+          "rationale": "πιστεύω εἰς + accusative — Johannine signature construction for saving faith ('believe into / believe in'). Thai 'เชื่อใน' phrase-lock across John (1:12, 2:11, 23, 3:16, 18, 4:39, 6:29, 35, 7:31, 39 etc.)."
+        }
       ],
       "notes": "uW grammar-connect-time-simultaneous: belief arose during the speech, not after. The believers here become the audience of vv.31–47 — though the discussion quickly reveals their belief was thin and was tied to ethnic-Abrahamic confidence rather than to Jesus's heavenly origin."
     }
@@ -510,9 +718,21 @@
       "thai_literal": null,
       "thai_summary": "‘ดำรงอยู่ใน’ (μένω) เป็นคำสำคัญของยอห์น ใช้บรรยายความสัมพันธ์ระหว่างผู้เชื่อกับพระเยซู ระหว่างพระบิดาและพระบุตร ระหว่างพระวิญญาณบริสุทธิ์และผู้เชื่อ ในบริบทนี้ ‘ดำรงอยู่ในถ้อยคำของเรา’ หมายถึงการเชื่อฟังและยึดมั่นในคำสอนของพระเยซู ไม่ใช่เพียงเริ่มต้นเชื่อแต่ดำเนินชีวิตในความเชื่อนั้นต่อไป",
       "key_decisions": [
-        { "greek": "μείνητε ἐν τῷ λόγῳ τῷ ἐμῷ", "thai": "ดำรงอยู่ในถ้อยคำของเรา", "rationale": "μένω here in the Johannine 'abide / remain' sense — uW figs-idiom: means to obey what Jesus said. Phrase-lock with JHN 6:56 'ดำรงอยู่ในเรา' (abide in me). Thai 'ดำรงอยู่ใน' preserves the spatial-relational metaphor that runs through John (Father in Son, Son in Father, believers in Christ)." },
-        { "greek": "τοὺς πεπιστευκότας", "thai": "ที่ได้เชื่อ", "rationale": "Perfect participle — completed action with continuing state. The verses that follow (vv.33–47) reveal that the perfection-aspect of their belief is shallow: it survives Jesus's first-level teaching but collapses under the deeper claims about Abraham and the devil." },
-        { "greek": "Ἰουδαίους", "thai": "ชาวยิว", "rationale": "uW figs-synecdoche notes ambiguity: could mean (1) Judeans in the temple courtyard, or (2) some Jewish leaders. Here, since these are 'those who had believed,' the more inclusive 'ชาวยิว' (Jews / Judeans) is preferred over 'ผู้นำชาวยิว' (Jewish leaders). The hostile-leadership use of οἱ Ἰουδαῖοι resumes from v.48 onward." }
+        {
+          "greek": "μείνητε ἐν τῷ λόγῳ τῷ ἐμῷ",
+          "thai": "ดำรงอยู่ในถ้อยคำของเรา",
+          "rationale": "μένω here in the Johannine 'abide / remain' sense — uW figs-idiom: means to obey what Jesus said. Phrase-lock with JHN 6:56 'ดำรงอยู่ในเรา' (abide in me). Thai 'ดำรงอยู่ใน' preserves the spatial-relational metaphor that runs through John (Father in Son, Son in Father, believers in Christ)."
+        },
+        {
+          "greek": "τοὺς πεπιστευκότας",
+          "thai": "ที่ได้เชื่อ",
+          "rationale": "Perfect participle — completed action with continuing state. The verses that follow (vv.33–47) reveal that the perfection-aspect of their belief is shallow: it survives Jesus's first-level teaching but collapses under the deeper claims about Abraham and the devil."
+        },
+        {
+          "greek": "Ἰουδαίους",
+          "thai": "ชาวยิว",
+          "rationale": "uW figs-synecdoche notes ambiguity: could mean (1) Judeans in the temple courtyard, or (2) some Jewish leaders. Here, since these are 'those who had believed,' the more inclusive 'ชาวยิว' (Jews / Judeans) is preferred over 'ผู้นำชาวยิว' (Jewish leaders). The hostile-leadership use of οἱ Ἰουδαῖοι resumes from v.48 onward."
+        }
       ],
       "notes": "uW figs-idiom: μείνητε ἐν τῷ λόγῳ τῷ ἐμῷ = obey/keep my teaching. The condition reveals that belief at v.30 was inception, not perfection — discipleship is the continued abiding, not the initial assent. Foreshadows the full discipleship-paradigm of JHN 15:1–10 (vine and branches)."
     }
@@ -528,8 +748,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "τὴν ἀλήθειαν", "thai": "ความจริง", "rationale": "uW figs-abstractnouns: ἀλήθεια in this context = what Jesus reveals about God, including God's plan for forgiving sin through Jesus's death. But Thai 'ความจริง' carries the same broad theological resonance without expansion. Phrase-lock with prior John uses (1:14, 17; 4:23, 24; 5:33; 14:6; 17:17, 19)." },
-        { "greek": "ἐλευθερώσει ὑμᾶς", "thai": "จะทำให้พวกท่านเป็นไท", "rationale": "ἐλευθερόω — set free, liberate. Thai 'เป็นไท' (to be free) is the standard Buddhist-derived term for non-bondage; here used in its plain Thai sense. Cf. v.36 ὄντως ἐλεύθεροι = อย่างแท้จริง...เป็นไท. uW figs-personification: truth as the liberator — preserve the metaphor." }
+        {
+          "greek": "τὴν ἀλήθειαν",
+          "thai": "ความจริง",
+          "rationale": "uW figs-abstractnouns: ἀλήθεια in this context = what Jesus reveals about God, including God's plan for forgiving sin through Jesus's death. But Thai 'ความจริง' carries the same broad theological resonance without expansion. Phrase-lock with prior John uses (1:14, 17; 4:23, 24; 5:33; 14:6; 17:17, 19)."
+        },
+        {
+          "greek": "ἐλευθερώσει ὑμᾶς",
+          "thai": "จะทำให้พวกท่านเป็นไท",
+          "rationale": "ἐλευθερόω — set free, liberate. Thai 'เป็นไท' (to be free) is the standard Buddhist-derived term for non-bondage; here used in its plain Thai sense. Cf. v.36 ὄντως ἐλεύθεροι = อย่างแท้จริง...เป็นไท. uW figs-personification: truth as the liberator — preserve the metaphor."
+        }
       ],
       "notes": "Among the most quoted Johannine sayings. Note the chain: abide-in-word (v.31) → know-truth (v.32a) → set-free (v.32b). The 'truth' is not abstract philosophical truth but the Father-revealed reality embodied in Jesus (cf. JHN 14:6 'I am the truth'). The freedom is from sin (v.34, 36), not from political subjection — the Jews' v.33 misunderstanding."
     }
@@ -545,8 +773,16 @@
       "thai_literal": null,
       "thai_summary": "การอ้างของชาวยิวที่นี่ — ‘ไม่เคยเป็นทาส’ — ตรงข้ามกับประวัติศาสตร์อิสราเอลทั้งหมด: ทาสในอียิปต์ การเนรเทศที่บาบิโลน การปกครองของเปอร์เซีย กรีก และโรมในยุคพระเยซู คำตอบของพวกเขาเปิดเผยว่าพวกเขาไม่เข้าใจประเภทของทาสที่พระเยซูตรัสถึง — พระองค์หมายถึงทาสของบาป (ข้อ 34) ไม่ใช่ทาสทางการเมือง",
       "key_decisions": [
-        { "greek": "Σπέρμα Ἀβραάμ", "thai": "เชื้อสายของอับราฮัม", "rationale": "Standard rendering of σπέρμα (seed / offspring) when applied to Abrahamic descent — established across Pauline corpus and Acts. 'เชื้อสาย' (lineage) preserves the genealogical sense without forcing the literal 'seed'." },
-        { "greek": "οὐδενὶ δεδουλεύκαμεν πώποτε", "thai": "ไม่เคยเป็นทาสของผู้ใดเลย", "rationale": "Perfect tense δεδουλεύκαμεν — completed-with-continuing-state 'we have not been enslaved'. πώποτε ('ever, at any time') is rhetorical hyperbole — historically false. Preserve the Jewish leaders' own rhetoric here; the irony is theological commentary, not translator-correction." }
+        {
+          "greek": "Σπέρμα Ἀβραάμ",
+          "thai": "เชื้อสายของอับราฮัม",
+          "rationale": "Standard rendering of σπέρμα (seed / offspring) when applied to Abrahamic descent — established across Pauline corpus and Acts. 'เชื้อสาย' (lineage) preserves the genealogical sense without forcing the literal 'seed'."
+        },
+        {
+          "greek": "οὐδενὶ δεδουλεύκαμεν πώποτε",
+          "thai": "ไม่เคยเป็นทาสของผู้ใดเลย",
+          "rationale": "Perfect tense δεδουλεύκαμεν — completed-with-continuing-state 'we have not been enslaved'. πώποτε ('ever, at any time') is rhetorical hyperbole — historically false. Preserve the Jewish leaders' own rhetoric here; the irony is theological commentary, not translator-correction."
+        }
       ],
       "notes": "Historically the claim is preposterous: Egypt, Babylon, Persia, Greece, Rome. The Jewish leaders mean covenantal-spiritual freedom, not political — they identify Abrahamic descent itself with non-bondage. The misunderstanding is the rhetorical hinge of the chapter: Jesus presses through their ethnic-confidence to reveal that bondage to sin (v.34) is the real bondage, and that descent from Abraham (v.39) is theological, not biological."
     }
@@ -562,8 +798,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "Ἀμὴν ἀμὴν λέγω ὑμῖν", "thai": "อาเมน อาเมน เราบอกแก่พวกท่านว่า", "rationale": "Johannine signature doublet — phrase-lock across all 25 occurrences in John. Established Eremos rendering preserves both 'amens' as transliteration (אמן Hebrew/Aramaic 'truly / certainly') rather than collapsing to 'truly truly'. Phrase-lock with JHN 1:51, 3:3, 3:5, 3:11, 5:19, 5:24, 5:25, 6:26, 6:32, 6:47, 6:53." },
-        { "greek": "δοῦλός ἐστιν τῆς ἁμαρτίας", "thai": "เป็นทาสของบาป", "rationale": "uW figs-metaphor: slave = one who cannot stop sinning. The metaphor is sustained, not paraphrased — Jesus is building toward the slave-vs-son contrast in v.35. Thai 'ทาสของบาป' phrase-lock with the established δοῦλος → ทาส rendering at MRK 10:44 et al. Pauline parallel: ROM 6:16–22 (slaves of sin vs. slaves of righteousness)." }
+        {
+          "greek": "Ἀμὴν ἀμὴν λέγω ὑμῖν",
+          "thai": "อาเมน อาเมน เราบอกแก่พวกท่านว่า",
+          "rationale": "Johannine signature doublet — phrase-lock across all 25 occurrences in John. Established Eremos rendering preserves both 'amens' as transliteration (אמן Hebrew/Aramaic 'truly / certainly') rather than collapsing to 'truly truly'. Phrase-lock with JHN 1:51, 3:3, 3:5, 3:11, 5:19, 5:24, 5:25, 6:26, 6:32, 6:47, 6:53."
+        },
+        {
+          "greek": "δοῦλός ἐστιν τῆς ἁμαρτίας",
+          "thai": "เป็นทาสของบาป",
+          "rationale": "uW figs-metaphor: slave = one who cannot stop sinning. The metaphor is sustained, not paraphrased — Jesus is building toward the slave-vs-son contrast in v.35. Thai 'ทาสของบาป' phrase-lock with the established δοῦλος → ทาส rendering at MRK 10:44 et al. Pauline parallel: ROM 6:16–22 (slaves of sin vs. slaves of righteousness)."
+        }
       ],
       "notes": "Pauline cross-reference: ROM 6:16–22 develops the same slave-of-sin metaphor at length. Jesus's claim redefines bondage: not Roman occupation but moral inability — and redefines freedom: not political independence but liberation from sin."
     }
@@ -579,8 +823,16 @@
       "thai_literal": null,
       "thai_summary": "ในธรรมเนียมยิว ทาสสามารถถูกขายหรือปล่อยตามใจเจ้านาย แต่บุตรเป็นสมาชิกถาวรของครอบครัว ภาพนี้ปูทางให้พระเยซูในข้อ 36 — ผู้ที่ทาสของบาปต้องการคือพระบุตรที่จะปลดปล่อยพวกเขาให้เป็นสมาชิกถาวรของครอบครัวของพระเจ้า เหมือนกับเรื่องอิชมาเอลและอิสอัค (ปฐมกาล 21:10) ที่เปาโลใช้ในกาลาเทีย 4",
       "key_decisions": [
-        { "greek": "οὐ μένει ἐν τῇ οἰκίᾳ", "thai": "ไม่ได้คงอยู่ในบ้าน", "rationale": "μένω here in family-membership sense (uW figs-genericnoun): slaves can be sold, given, freed, displaced; sons retain permanent place. Thai 'คงอยู่' (remain, abide-in-place) is more apt than 'ดำรงอยู่' here — different μένω-context: spatial/family rather than spiritual/relational." },
-        { "greek": "ὁ υἱὸς μένει εἰς τὸν αἰῶνα", "thai": "บุตรย่อมอยู่ตลอดไป", "rationale": "uW figs-genericnoun + figs-ellipsis: 'son' is generic ('sons in general'), but the Johannine layered reading also points to THE Son (Jesus) — the very Son who remains permanently. εἰς τὸν αἰῶνα = 'forever, into the age'. Thai 'ตลอดไป' is the standard equivalent." }
+        {
+          "greek": "οὐ μένει ἐν τῇ οἰκίᾳ",
+          "thai": "ไม่ได้คงอยู่ในบ้าน",
+          "rationale": "μένω here in family-membership sense (uW figs-genericnoun): slaves can be sold, given, freed, displaced; sons retain permanent place. Thai 'คงอยู่' (remain, abide-in-place) is more apt than 'ดำรงอยู่' here — different μένω-context: spatial/family rather than spiritual/relational."
+        },
+        {
+          "greek": "ὁ υἱὸς μένει εἰς τὸν αἰῶνα",
+          "thai": "บุตรย่อมอยู่ตลอดไป",
+          "rationale": "uW figs-genericnoun + figs-ellipsis: 'son' is generic ('sons in general'), but the Johannine layered reading also points to THE Son (Jesus) — the very Son who remains permanently. εἰς τὸν αἰῶνα = 'forever, into the age'. Thai 'ตลอดไป' is the standard equivalent."
+        }
       ],
       "notes": "OT BACKGROUND: GEN 21:10 'Cast out this slave woman with her son, for the son of the slave woman shall not inherit with my son Isaac' — Sarah's word about Hagar and Ishmael. PAULINE PARALLEL: GAL 4:21–31 develops exactly this slave/son contrast as the allegory of two covenants. Jesus's saying in v.35 anticipates the Pauline reading. ADDED TO NT_OT_CITATIONS: JHN 8:35 → GEN 21:10 (slave-not-heir backdrop)."
     }
@@ -596,8 +848,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ὁ υἱὸς", "thai": "พระบุตร", "rationale": "uW figs-123person: shifts from generic 'son' (v.35) to THE Son (Jesus) speaking of himself in third person. Royal-register 'พระบุตร' (the Son, divine title) marks the shift. The bare 'บุตร' (son) of v.35 vs. 'พระบุตร' (the Son) here is the deliberate Johannine layered reading made explicit." },
-        { "greek": "ὄντως ἐλεύθεροι ἔσεσθε", "thai": "จะเป็นไทอย่างแท้จริง", "rationale": "ὄντως — 'really, in truth' — emphatic. uW figs-metaphor: free from being controlled by sinful desires. Thai 'อย่างแท้จริง' carries the contrastive force: not the Pharisees' political-illusory freedom but ontological-real freedom." }
+        {
+          "greek": "ὁ υἱὸς",
+          "thai": "พระบุตร",
+          "rationale": "uW figs-123person: shifts from generic 'son' (v.35) to THE Son (Jesus) speaking of himself in third person. Royal-register 'พระบุตร' (the Son, divine title) marks the shift. The bare 'บุตร' (son) of v.35 vs. 'พระบุตร' (the Son) here is the deliberate Johannine layered reading made explicit."
+        },
+        {
+          "greek": "ὄντως ἐλεύθεροι ἔσεσθε",
+          "thai": "จะเป็นไทอย่างแท้จริง",
+          "rationale": "ὄντως — 'really, in truth' — emphatic. uW figs-metaphor: free from being controlled by sinful desires. Thai 'อย่างแท้จริง' carries the contrastive force: not the Pharisees' political-illusory freedom but ontological-real freedom."
+        }
       ],
       "notes": "The pivot of the freedom-discourse: from generic son-versus-slave (v.35) to THE Son. The Son who 'remains forever' (v.35) is the one who can permanently emancipate. Implies Jesus's own pre-existence — only one who is not himself enslaved (cf. v.46 'who can convict me of sin') can free others."
     }
@@ -613,7 +873,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ὁ λόγος ὁ ἐμὸς οὐ χωρεῖ ἐν ὑμῖν", "thai": "ถ้อยคำของเราไม่มีที่ในใจของพวกท่าน", "rationale": "uW figs-idiom: χωρέω ἐν = 'have place in, be received by' — idiomatic for accepting/believing. Thai 'ไม่มีที่ในใจ' (has no place in [your] heart) preserves the spatial metaphor while making the heart-receptivity meaning clear in Thai." }
+        {
+          "greek": "ὁ λόγος ὁ ἐμὸς οὐ χωρεῖ ἐν ὑμῖν",
+          "thai": "ถ้อยคำของเราไม่มีที่ในใจของพวกท่าน",
+          "rationale": "uW figs-idiom: χωρέω ἐν = 'have place in, be received by' — idiomatic for accepting/believing. Thai 'ไม่มีที่ในใจ' (has no place in [your] heart) preserves the spatial metaphor while making the heart-receptivity meaning clear in Thai."
+        }
       ],
       "notes": "Jesus concedes the biological descent (σπέρμα Ἀβραάμ) while denying the moral/spiritual descent — same move developed at length in vv.39–44 (children of Abraham vs. children of the devil). The pivot: ethnic Abrahamic descent ≠ spiritual Abrahamic descent (cf. ROM 9:6–8, GAL 3:7)."
     }
@@ -629,7 +893,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "παρὰ τῷ πατρὶ ... παρὰ τοῦ πατρὸς", "thai": "พระบิดา ... บิดาของพวกท่าน", "rationale": "uW figs-extrainfo: same word πατήρ used twice with different referents — Jesus's Father = God; the Jews' father = the devil (revealed v.44). Translation preserves the ambiguity: capitalized/honorific 'พระบิดา' (the Father / God-as-Father) for Jesus's source vs. plain 'บิดา' (father) for theirs. Until v.44, the Jews would have heard their own πατήρ as Abraham — the wordplay-trap is sprung in v.44." }
+        {
+          "greek": "παρὰ τῷ πατρὶ ... παρὰ τοῦ πατρὸς",
+          "thai": "พระบิดา ... บิดาของพวกท่าน",
+          "rationale": "uW figs-extrainfo: same word πατήρ used twice with different referents — Jesus's Father = God; the Jews' father = the devil (revealed v.44). Translation preserves the ambiguity: capitalized/honorific 'พระบิดา' (the Father / God-as-Father) for Jesus's source vs. plain 'บิดา' (father) for theirs. Until v.44, the Jews would have heard their own πατήρ as Abraham — the wordplay-trap is sprung in v.44."
+        }
       ],
       "notes": "The Johannine lexical-ambiguity strategy: same noun, opposite referents, force readers to stay alert. The unmarked 'father' (v.38b) lets the Jews hear 'Abraham'; v.44 reveals the actual referent. Cf. uW figs-extrainfo at v.41: 'Jesus uses the phrase your father to refer to the devil. However, since the Jews did not understand what Jesus meant when he used this phrase, you do not need to explain its meaning further here.'"
     }
@@ -645,7 +913,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "τέκνα τοῦ Ἀβραάμ", "thai": "บุตรของอับราฮัม", "rationale": "uW figs-metaphor: τέκνα = descendants, but the metaphor of moral-resemblance descent is the issue here — children of X act like X. Thai 'บุตร' preserves the kinship sense; the moral-resemblance reading is unpacked by the rest of the verse and v.44." }
+        {
+          "greek": "τέκνα τοῦ Ἀβραάμ",
+          "thai": "บุตรของอับราฮัม",
+          "rationale": "uW figs-metaphor: τέκνα = descendants, but the metaphor of moral-resemblance descent is the issue here — children of X act like X. Thai 'บุตร' preserves the kinship sense; the moral-resemblance reading is unpacked by the rest of the verse and v.44."
+        }
       ],
       "notes": "Counterfactual conditional: 'if (which you are not)... you would (which you don't).' uW grammar-connect-condition-contrary. The argument follows ROM 9:6–8: 'not all who are descended from Israel belong to Israel, and not all are children of Abraham because they are his offspring.' True Abrahamic sonship is moral-imitative, not merely biological."
     }
@@ -661,7 +933,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἄνθρωπον ὃς τὴν ἀλήθειαν ὑμῖν λελάληκα", "thai": "ผู้เป็นคนที่บอกความจริงแก่พวกท่าน", "rationale": "Apposition: 'a man who has told...'. ἄνθρωπος here is rhetorical understatement — Jesus accommodates to the leaders' sub-divine view of him to make the rhetorical-imitation argument: 'even on your own terms, attempting to kill a truth-bearing man is something Abraham would never have done.'" }
+        {
+          "greek": "ἄνθρωπον ὃς τὴν ἀλήθειαν ὑμῖν λελάληκα",
+          "thai": "ผู้เป็นคนที่บอกความจริงแก่พวกท่าน",
+          "rationale": "Apposition: 'a man who has told...'. ἄνθρωπος here is rhetorical understatement — Jesus accommodates to the leaders' sub-divine view of him to make the rhetorical-imitation argument: 'even on your own terms, attempting to kill a truth-bearing man is something Abraham would never have done.'"
+        }
       ],
       "notes": "OT ALLUSION: GEN 18:1–8 (Abraham hosting the three messengers — the LXX ἀνθρώπους idiom for the divine visitors that Abraham received hospitably) — the inverse of the leaders' hostility toward Jesus. Abrahamic faith: receive God's word-bearer; the leaders' anti-faith: kill God's word-bearer."
     }
@@ -677,7 +953,11 @@
       "thai_literal": null,
       "thai_summary": "‘เราไม่ได้เกิดจากการล่วงประเวณี’ เป็นคำตอบโต้ที่มีนัยเหยียดหยาม — กล่าวหาแฝงว่าพระเยซูเองอาจเป็นบุตรนอกสมรส (เรื่องการกำเนิดของพระเยซูจากหญิงพรหมจารีถูกฝ่ายตรงข้ามใช้เป็นข้อหาในยุคต้น)",
       "key_decisions": [
-        { "greek": "ἐκ πορνείας οὐ γεγεννήμεθα", "thai": "ไม่ได้เกิดจากการล่วงประเวณี", "rationale": "uW figs-explicit: the Jews are imputing illegitimate birth to Jesus (an early Jewish polemic against the virginal conception used 'son of unknown father / Mary's bastard' as a slur). Thai 'การล่วงประเวณี' is the same term used at 8:3 for the woman's offense — preserves the lexical link. The Jewish leaders' counter-attack moves from 'we have one Father, God' (positive) to a coded sub-attack on Jesus's parentage (negative)." }
+        {
+          "greek": "ἐκ πορνείας οὐ γεγεννήμεθα",
+          "thai": "ไม่ได้เกิดจากการล่วงประเวณี",
+          "rationale": "uW figs-explicit: the Jews are imputing illegitimate birth to Jesus (an early Jewish polemic against the virginal conception used 'son of unknown father / Mary's bastard' as a slur). Thai 'การล่วงประเวณี' is the same term used at 8:3 for the woman's offense — preserves the lexical link. The Jewish leaders' counter-attack moves from 'we have one Father, God' (positive) to a coded sub-attack on Jesus's parentage (negative)."
+        }
       ],
       "notes": "uW figs-explicit: Jewish leaders' veiled slur on Jesus's birth (cf. JHN 6:42 'is this not the son of Joseph?' — incredulity at the divine-origin claim). Early non-canonical Jewish polemic (Toledot Yeshu, later development) explicitly accused Mary of an illicit relationship to discredit the virgin-birth claim; the seeds of that polemic are visible here. Their counter-claim 'one Father, God' in turn echoes DEU 32:6, ISA 63:16, MAL 2:10 — paternalistic God-language they assume for themselves but Jesus will deny in vv.42–44."
     }
@@ -693,7 +973,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἐξῆλθον καὶ ἥκω", "thai": "ออกมาจากพระเจ้าและเราอยู่ที่นี่", "rationale": "ἐξῆλθον (aorist 'I came out') + ἥκω (perfect 'I have arrived / I am here'). Thai keeps both moments visible: the going-out from God + the present being-here. Captures the procession-incarnation Christology compressed in two Greek verbs." }
+        {
+          "greek": "ἐξῆλθον καὶ ἥκω",
+          "thai": "ออกมาจากพระเจ้าและเราอยู่ที่นี่",
+          "rationale": "ἐξῆλθον (aorist 'I came out') + ἥκω (perfect 'I have arrived / I am here'). Thai keeps both moments visible: the going-out from God + the present being-here. Captures the procession-incarnation Christology compressed in two Greek verbs."
+        }
       ],
       "notes": "uW grammar-connect-condition-contrary: counterfactual — 'if (which you do not)... you would (which you don't).' The God-as-father claim is decisively rejected: love-for-Jesus is the test of genuine God-paternity; their hostility falsifies their claim. The verb pair ἐξῆλθον / ἥκω is Johannine signature for the Son's procession from the Father (cf. JHN 16:28)."
     }
@@ -709,7 +993,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "οὐ δύνασθε ἀκούειν", "thai": "ไม่สามารถจะรับฟัง", "rationale": "uW figs-metaphor: ἀκούειν here = listen with intent to obey, not merely hear sound. Thai 'รับฟัง' (receive-hear, listen-to-take-in) captures the receptive-volitional sense better than plain 'ฟัง' (hear)." }
+        {
+          "greek": "οὐ δύνασθε ἀκούειν",
+          "thai": "ไม่สามารถจะรับฟัง",
+          "rationale": "uW figs-metaphor: ἀκούειν here = listen with intent to obey, not merely hear sound. Thai 'รับฟัง' (receive-hear, listen-to-take-in) captures the receptive-volitional sense better than plain 'ฟัง' (hear)."
+        }
       ],
       "notes": "uW figs-rquestion: rhetorical question with self-supplied answer — sets up the devastating identification in v.44. The inability is not cognitive but moral-volitional: a kinship-paternity mismatch prevents comprehension."
     }
@@ -721,13 +1009,25 @@
     "greek": "ὑμεῖς ἐκ τοῦ πατρὸς τοῦ διαβόλου ἐστὲ καὶ τὰς ἐπιθυμίας τοῦ πατρὸς ὑμῶν θέλετε ποιεῖν.ἐκεῖνος ἀνθρωποκτόνος ἦν ἀπ’ἀρχῆς,καὶ ἐν τῇ ἀληθείᾳ οὐκ ἔστηκεν,ὅτι οὐκ ἔστιν ἀλήθεια ἐν αὐτῷ.ὅταν λαλῇ τὸ ψεῦδος,ἐκ τῶν ἰδίων λαλεῖ,ὅτι ψεύστης ἐστὶν καὶ ὁ πατὴρ αὐτοῦ.",
     "bsb_english": "You belong to your father, the devil, and you want to carry out his desires. He was a murderer from the beginning, refusing to uphold the truth, because there is no truth in him. When he lies, he speaks his native language, because he is a liar and the father of lies.",
     "translation": {
-      "thai": "พวกท่านมาจากบิดาของพวกท่านคือมาร และพวกท่านปรารถนาจะทำตามความปรารถนาของบิดาของพวกท่าน มันเป็นผู้ฆ่ามนุษย์ตั้งแต่เริ่มแรก และไม่ยืนหยัดในความจริง เพราะไม่มีความจริงในตัวมัน เมื่อมันพูดเท็จ มันก็พูดตามนิสัยของมันเอง เพราะมันเป็นผู้พูดเท็จ และเป็นบิดาของการมุสา",
+      "thai": "พวกท่านมาจากบิดาของพวกท่านคือมาร และพวกท่านต้องการทำตามความปรารถนาของบิดาของพวกท่าน มันเป็นผู้ฆ่ามนุษย์ตั้งแต่เริ่มแรก และไม่ยืนหยัดในความจริง เพราะไม่มีความจริงในตัวมัน เมื่อมันพูดเท็จ มันก็พูดตามนิสัยของมันเอง เพราะมันเป็นผู้พูดเท็จ และเป็นบิดาของการมุสา",
       "thai_literal": null,
       "thai_summary": "พระเยซูทรงเชื่อมโยง ‘ผู้ฆ่ามนุษย์ตั้งแต่เริ่มแรก’ กับเรื่องราวในปฐมกาล 3 เมื่อมารหลอกลวงเอวาด้วยคำเท็จ การไม่เชื่อฟังของอาดัมและเอวานำความตายมาสู่มนุษย์ทุกคน (โรม 5:12) ดังนั้นมารจึงเป็นผู้ฆ่าโดยอ้อม โดยใช้คำมุสา การที่พระเยซูใช้คำเหล่านี้กับผู้นำชาวยิวในที่นี้คือการบ่งชี้ว่าการที่พวกเขาพยายามฆ่าพระองค์ ผู้พูดความจริง สะท้อนพันธกิจของมารโดยตรง",
       "key_decisions": [
-        { "greek": "τοῦ διαβόλου", "thai": "มาร", "rationale": "διάβολος → 'มาร' phrase-lock with established Eremos rendering (MAT 4:1, 5, 8, 11; LUK 4:3, 5, 9, 13). Thai 'มาร' is the standard Christian-Thai term for the devil; the Buddhist register sense ('Mara, the tempter') is co-opted into Christian usage without distortion." },
-        { "greek": "ἀνθρωποκτόνος", "thai": "ผู้ฆ่ามนุษย์", "rationale": "HAPAX in NT (also at 1JN 3:15). Compound: ἄνθρωπος + κτείνω (to kill / slay). LXX: usage in WIS 12:5 of pagan ritual murderers. Thai 'ผู้ฆ่ามนุษย์' (man-killer / murderer of humans) preserves the compound force. Refers to the devil's role in bringing death to humanity through the GEN 3 deception (cf. uW figs-explicit; ROM 5:12; WIS 2:24 'through the devil's envy death entered the world')." },
-        { "greek": "ψεύστης ... ὁ πατὴρ αὐτοῦ", "thai": "ผู้พูดเท็จ ... บิดาของการมุสา", "rationale": "ψεύστης (liar) → 'ผู้พูดเท็จ' (one who speaks falsely). The 'father of it' clause: 'it' could refer to (a) lying in general (most likely per uW figs-metaphor), or (b) the lie just told. Thai 'บิดาของการมุสา' (father of lying / father of falsehood) takes (a)." }
+        {
+          "greek": "τοῦ διαβόλου",
+          "thai": "มาร",
+          "rationale": "διάβολος → 'มาร' phrase-lock with established Eremos rendering (MAT 4:1, 5, 8, 11; LUK 4:3, 5, 9, 13). Thai 'มาร' is the standard Christian-Thai term for the devil; the Buddhist register sense ('Mara, the tempter') is co-opted into Christian usage without distortion."
+        },
+        {
+          "greek": "ἀνθρωποκτόνος",
+          "thai": "ผู้ฆ่ามนุษย์",
+          "rationale": "HAPAX in NT (also at 1JN 3:15). Compound: ἄνθρωπος + κτείνω (to kill / slay). LXX: usage in WIS 12:5 of pagan ritual murderers. Thai 'ผู้ฆ่ามนุษย์' (man-killer / murderer of humans) preserves the compound force. Refers to the devil's role in bringing death to humanity through the GEN 3 deception (cf. uW figs-explicit; ROM 5:12; WIS 2:24 'through the devil's envy death entered the world')."
+        },
+        {
+          "greek": "ψεύστης ... ὁ πατὴρ αὐτοῦ",
+          "thai": "ผู้พูดเท็จ ... บิดาของการมุสา",
+          "rationale": "ψεύστης (liar) → 'ผู้พูดเท็จ' (one who speaks falsely). The 'father of it' clause: 'it' could refer to (a) lying in general (most likely per uW figs-metaphor), or (b) the lie just told. Thai 'บิดาของการมุสา' (father of lying / father of falsehood) takes (a)."
+        }
       ],
       "notes": "OT ALLUSION cluster: GEN 3 (the serpent's deception leading to humanity's death, fulfilled in CAIN's killing of Abel — GEN 4); WIS 2:24 LXX 'through the devil's envy death entered the world' (a reading of GEN 3 widely received in 1st-century Judaism); 1JN 3:8, 12, 15 (Johannine restatement of devil-as-murderer-from-beginning, explicitly tied to Cain). HAPAX: ἀνθρωποκτόνος (also 1JN 3:15). The most theologically severe statement Jesus makes about his opponents in any of the gospels — 'your father is the devil.' ADDED TO NT_OT_CITATIONS: JHN 8:44 → GEN 3 + GEN 4:8 (Cain) + WIS 2:24 (devil-brings-death cluster)."
     }
@@ -757,7 +1057,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἐλέγχει", "thai": "พิสูจน์ได้ว่า...มีบาป", "rationale": "ἐλέγχω — convict, expose, prove guilty. Thai 'พิสูจน์ได้ว่า...มีบาป' (can prove that... has sin) preserves both the legal-conviction force and the moral-exposure force." }
+        {
+          "greek": "ἐλέγχει",
+          "thai": "พิสูจน์ได้ว่า...มีบาป",
+          "rationale": "ἐλέγχω — convict, expose, prove guilty. Thai 'พิสูจน์ได้ว่า...มีบาป' (can prove that... has sin) preserves both the legal-conviction force and the moral-exposure force."
+        }
       ],
       "notes": "uW figs-rquestion (twice): rhetorical questions to emphasize Jesus's sinlessness and to scold the unbelief. The unanswerable challenge functions as a Christological assertion of Jesus's sinlessness (cf. HEB 4:15, 1PE 2:22, 1JN 3:5)."
     }
@@ -773,7 +1077,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ἀκούει ... οὐκ ἀκούετε", "thai": "ฟัง ... ไม่ฟัง", "rationale": "uW figs-metaphor: ἀκούω here = listen-with-intent-to-obey (cf. v.43 same metaphor). Thai 'ฟัง' carries this receptivity-and-response sense; need not expand to 'รับฟัง' since the pattern is established at v.43 and continues here." }
+        {
+          "greek": "ἀκούει ... οὐκ ἀκούετε",
+          "thai": "ฟัง ... ไม่ฟัง",
+          "rationale": "uW figs-metaphor: ἀκούω here = listen-with-intent-to-obey (cf. v.43 same metaphor). Thai 'ฟัง' carries this receptivity-and-response sense; need not expand to 'รับฟัง' since the pattern is established at v.43 and continues here."
+        }
       ],
       "notes": "Closes the v.31–47 unit with the diagnostic-deductive conclusion: not-hearing reveals not-from-God origin. The argument is theologically severe: the Jewish leaders' rejection of Jesus places them outside God's family — the unstated implication being that the very ground for their identity (Abrahamic-covenantal monotheism) has collapsed under their hostility to the Father's emissary."
     }
@@ -789,7 +1097,11 @@
       "thai_literal": null,
       "thai_summary": "การเรียกพระเยซูว่า ‘ชาวสะมาเรีย’ เป็นการดูหมิ่นอย่างรุนแรงในยุคนั้น ชาวยิวกับชาวสะมาเรียเป็นศัตรูกันมาหลายศตวรรษเนื่องจากความขัดแย้งทางศาสนาและเชื้อชาติ (ดู ยอห์น 4:9) เมื่อรวมกับ ‘มีผีเข้าสิง’ จึงเป็นการดูหมิ่นที่เลวร้ายที่สุดที่ผู้นำชาวยิวสามารถสรรหามาได้",
       "key_decisions": [
-        { "greek": "Σαμαρίτης", "thai": "ชาวสะมาเรีย", "rationale": "Standard Thai-Christian rendering of Σαμαρίτης. uW figs-explicit: most Jews of Jesus's time hated and despised Samaritans — calling Jesus one was a deep ethnic-religious insult, equivalent to 'racially-mixed half-pagan apostate.' Combined with 'demon-possessed' it is a maximal slur." }
+        {
+          "greek": "Σαμαρίτης",
+          "thai": "ชาวสะมาเรีย",
+          "rationale": "Standard Thai-Christian rendering of Σαμαρίτης. uW figs-explicit: most Jews of Jesus's time hated and despised Samaritans — calling Jesus one was a deep ethnic-religious insult, equivalent to 'racially-mixed half-pagan apostate.' Combined with 'demon-possessed' it is a maximal slur."
+        }
       ],
       "notes": "uW figs-rquestion: the leaders' rhetorical question is self-vindicating, not seeking information — an angry assertion of their prior diagnosis (cf. JHN 7:20 first 'demon' charge). Cross-reference: the Samaritan slur exploits the centuries-long Jewish-Samaritan religious hostility (cf. JHN 4:9 'Jews have no dealings with Samaritans'); a Samaritan-and-demon-possessed Jesus is the maximum dishonor the leaders can construct."
     }
@@ -805,8 +1117,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "τιμῶ τὸν πατέρα μου", "thai": "ถวายพระเกียรติแด่พระบิดาของเรา", "rationale": "τιμάω — honor, revere. Thai 'ถวายพระเกียรติ' (offer-glory, royal-register honor verb) is the standard Christian-Thai term when the action is directed at God. The Son's honoring of the Father is a recurring Johannine theme (cf. JHN 5:23 'all should honor the Son just as they honor the Father')." },
-        { "greek": "ἀτιμάζετέ με", "thai": "ดูหมิ่นเรา", "rationale": "ἀτιμάζω — dishonor, treat with contempt. Thai 'ดูหมิ่น' (look-down-on, despise). Notable: Jesus does not say 'you dishonor my Father' — yet the implicit corollary follows from JHN 5:23. The leaders' dishonor of Jesus is functionally a dishonor of the Father." }
+        {
+          "greek": "τιμῶ τὸν πατέρα μου",
+          "thai": "ถวายพระเกียรติแด่พระบิดาของเรา",
+          "rationale": "τιμάω — honor, revere. Thai 'ถวายพระเกียรติ' (offer-glory, royal-register honor verb) is the standard Christian-Thai term when the action is directed at God. The Son's honoring of the Father is a recurring Johannine theme (cf. JHN 5:23 'all should honor the Son just as they honor the Father')."
+        },
+        {
+          "greek": "ἀτιμάζετέ με",
+          "thai": "ดูหมิ่นเรา",
+          "rationale": "ἀτιμάζω — dishonor, treat with contempt. Thai 'ดูหมิ่น' (look-down-on, despise). Notable: Jesus does not say 'you dishonor my Father' — yet the implicit corollary follows from JHN 5:23. The leaders' dishonor of Jesus is functionally a dishonor of the Father."
+        }
       ],
       "notes": "Jesus declines to address the Samaritan slur directly — he addresses only the demon charge, since that one bears on his prophetic-divine claim. The honor-shame inversion is theological: the leaders' attempt to dishonor Jesus actually dishonors the Father whose authorized representative he is."
     }
@@ -822,7 +1142,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ὁ ζητῶν καὶ κρίνων", "thai": "ผู้ที่แสวงหา และพระองค์ทรงเป็นผู้พิพากษา", "rationale": "uW writing-pronouns: 'one' = God. uW figs-ellipsis: 'judging' could mean (a) judging between Jesus's testimony and the leaders' counter-testimony, or (b) judging-condemning those who dishonor the Son. The Greek κρίνων is open; thai 'ผู้พิพากษา' (the Judge) preserves both readings." }
+        {
+          "greek": "ὁ ζητῶν καὶ κρίνων",
+          "thai": "ผู้ที่แสวงหา และพระองค์ทรงเป็นผู้พิพากษา",
+          "rationale": "uW writing-pronouns: 'one' = God. uW figs-ellipsis: 'judging' could mean (a) judging between Jesus's testimony and the leaders' counter-testimony, or (b) judging-condemning those who dishonor the Son. The Greek κρίνων is open; thai 'ผู้พิพากษา' (the Judge) preserves both readings."
+        }
       ],
       "notes": "Jesus's not-seeking-own-glory disclaims the very motive his accusers impute (a self-promoter making divine claims for personal aggrandizement). Cf. JHN 5:41 'I do not receive glory from people'; JHN 7:18 'the one who seeks the glory of him who sent him is true.' The Father's glory-seeking on the Son's behalf grounds the Son's authority."
     }
@@ -838,8 +1162,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "Ἀμὴν ἀμὴν λέγω ὑμῖν", "thai": "อาเมน อาเมน เราบอกแก่พวกท่านว่า", "rationale": "Phrase-lock with v.34 and prior John usages." },
-        { "greek": "θάνατον οὐ μὴ θεωρήσῃ", "thai": "จะไม่เห็นความตาย...เลยเป็นนิตย์", "rationale": "θεωρέω 'see' here in idiomatic sense 'experience' (uW figs-metaphor). The Greek is jarring: not γεύσηται 'taste' (which the leaders use in v.52) but θεωρήσῃ 'see' — a slightly different idiom. Thai 'ไม่เห็นความตาย' preserves the verb-distinction with v.52 'ไม่ลิ้มรสความตาย'. Refers to spiritual / eternal death (uW figs-extrainfo: the leaders did not understand this physical-vs-spiritual distinction)." }
+        {
+          "greek": "Ἀμὴν ἀμὴν λέγω ὑμῖν",
+          "thai": "อาเมน อาเมน เราบอกแก่พวกท่านว่า",
+          "rationale": "Phrase-lock with v.34 and prior John usages."
+        },
+        {
+          "greek": "θάνατον οὐ μὴ θεωρήσῃ",
+          "thai": "จะไม่เห็นความตาย...เลยเป็นนิตย์",
+          "rationale": "θεωρέω 'see' here in idiomatic sense 'experience' (uW figs-metaphor). The Greek is jarring: not γεύσηται 'taste' (which the leaders use in v.52) but θεωρήσῃ 'see' — a slightly different idiom. Thai 'ไม่เห็นความตาย' preserves the verb-distinction with v.52 'ไม่ลิ้มรสความตาย'. Refers to spiritual / eternal death (uW figs-extrainfo: the leaders did not understand this physical-vs-spiritual distinction)."
+        }
       ],
       "notes": "uW figs-extrainfo: θάνατος here = spiritual / eternal death (not physical). The leaders take it physically (v.52 'Abraham died, the prophets died'); Jesus speaks of the second death of REV 20:14. The distinction is not explicated — the misunderstanding becomes the rhetorical hinge of the next exchange (vv.52–53). Echo: PSA 89:48 'what man can live and not see death?'"
     }
@@ -855,8 +1187,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "οὐ μὴ γεύσηται θανάτου", "thai": "ไม่ลิ้มรสความตาย", "rationale": "Note the verb-shift in the Jewish leaders' quotation of Jesus: Jesus said θεωρήσῃ 'see' (v.51); they paraphrase as γεύσηται 'taste' — a stronger metaphor for full experience. Both verbs are death-idioms in Hebrew (cf. LXX), but the leaders' choice intensifies the perceived absurdity. Thai distinguishes: v.51 'ไม่เห็นความตาย' / v.52 'ไม่ลิ้มรสความตาย' — preserve the verb-distinction visible in Greek." },
-        { "greek": "Νῦν ἐγνώκαμεν", "thai": "บัดนี้เรารู้แน่แล้ว", "rationale": "Perfect tense ἐγνώκαμεν — 'we have come to know with certainty'. Thai 'บัดนี้เรารู้แน่แล้ว' captures the now-confirmed sense. The leaders treat the v.51 saying as decisive proof of demonic delusion." }
+        {
+          "greek": "οὐ μὴ γεύσηται θανάτου",
+          "thai": "ไม่ลิ้มรสความตาย",
+          "rationale": "Note the verb-shift in the Jewish leaders' quotation of Jesus: Jesus said θεωρήσῃ 'see' (v.51); they paraphrase as γεύσηται 'taste' — a stronger metaphor for full experience. Both verbs are death-idioms in Hebrew (cf. LXX), but the leaders' choice intensifies the perceived absurdity. Thai distinguishes: v.51 'ไม่เห็นความตาย' / v.52 'ไม่ลิ้มรสความตาย' — preserve the verb-distinction visible in Greek."
+        },
+        {
+          "greek": "Νῦν ἐγνώκαμεν",
+          "thai": "บัดนี้เรารู้แน่แล้ว",
+          "rationale": "Perfect tense ἐγνώκαμεν — 'we have come to know with certainty'. Thai 'บัดนี้เรารู้แน่แล้ว' captures the now-confirmed sense. The leaders treat the v.51 saying as decisive proof of demonic delusion."
+        }
       ],
       "notes": "OT BACKGROUND: ZEC 1:5 'Your fathers, where are they? And the prophets, do they live forever?' — the Jewish leaders' rhetoric here unconsciously echoes Zechariah's lament about the inevitability of death even for prophets. The verb-shift θεωρέω → γεύομαι is preserved across both v.51 and v.52 to register the leaders' (mis)quotation."
     }
@@ -872,8 +1212,16 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "μὴ σὺ μείζων εἶ", "thai": "ท่านยิ่งใหญ่กว่า...หรือ?", "rationale": "μή expects negative answer ('Surely you are not...'). uW figs-rquestion: the Jewish leaders use the question to assert that Jesus cannot possibly be greater than Abraham. Thai final-particle 'หรือ?' carries the same expects-no force." },
-        { "greek": "τίνα σεαυτὸν ποιεῖς;", "thai": "ท่านอ้างตัวเองว่าเป็นใคร?", "rationale": "Literally 'what do you make yourself out to be?' — Hellenistic Greek idiom for self-identification claims, often pejorative ('what are you pretending to be?'). Thai 'อ้างตัวเองว่าเป็นใคร' captures both the question and the dismissive force." }
+        {
+          "greek": "μὴ σὺ μείζων εἶ",
+          "thai": "ท่านยิ่งใหญ่กว่า...หรือ?",
+          "rationale": "μή expects negative answer ('Surely you are not...'). uW figs-rquestion: the Jewish leaders use the question to assert that Jesus cannot possibly be greater than Abraham. Thai final-particle 'หรือ?' carries the same expects-no force."
+        },
+        {
+          "greek": "τίνα σεαυτὸν ποιεῖς;",
+          "thai": "ท่านอ้างตัวเองว่าเป็นใคร?",
+          "rationale": "Literally 'what do you make yourself out to be?' — Hellenistic Greek idiom for self-identification claims, often pejorative ('what are you pretending to be?'). Thai 'อ้างตัวเองว่าเป็นใคร' captures both the question and the dismissive force."
+        }
       ],
       "notes": "The leaders' question is the rhetorical setup that Jesus uses for the climactic ἐγώ εἰμι at v.58. They challenge him to overplay his hand; he responds with the deity-claim that ends the dialogue. The Abraham-comparison theme prepares for v.56's startling claim about Abraham seeing 'my day.'"
     }
@@ -889,7 +1237,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "δοξάζων με", "thai": "ถวายเกียรติแก่เรา", "rationale": "δοξάζω — glorify, honor. Royal register applies: when God is the subject (Father glorifying Son), 'ทรงถวายเกียรติ' or 'ทรงให้เกียรติ' — but here the form is the simple 'ถวายเกียรติแก่เรา' since the Father's giving-glory is being predicated rather than described in narrative; preserves clean parallelism with the v.54a self-glorifying that Jesus rejects." }
+        {
+          "greek": "δοξάζων με",
+          "thai": "ถวายเกียรติแก่เรา",
+          "rationale": "δοξάζω — glorify, honor. Royal register applies: when God is the subject (Father glorifying Son), 'ทรงถวายเกียรติ' or 'ทรงให้เกียรติ' — but here the form is the simple 'ถวายเกียรติแก่เรา' since the Father's giving-glory is being predicated rather than described in narrative; preserves clean parallelism with the v.54a self-glorifying that Jesus rejects."
+        }
       ],
       "notes": "Jesus's argument: glory cannot validly be self-given; only Father-given glory is valid. By the leaders' own confession ('our God'), the Father is the legitimate glory-giver. Whose glory the Son bears is the test of whose Father he serves. Pivot to v.55: the leaders profess God as Father but do not actually know him."
     }
@@ -905,7 +1257,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ψεύστης", "thai": "ผู้พูดเท็จ", "rationale": "Phrase-lock with v.44 'ψεύστης' = 'ผู้พูดเท็จ'. The label rebounds: in v.44 Jesus said the devil and his children are liars; here Jesus warns that he himself would become a liar like them (ὅμοιος ὑμῖν) if he denied the Father. The lexical bridge 'ผู้พูดเท็จ' is the same — preserves the corpus-internal echo." }
+        {
+          "greek": "ψεύστης",
+          "thai": "ผู้พูดเท็จ",
+          "rationale": "Phrase-lock with v.44 'ψεύστης' = 'ผู้พูดเท็จ'. The label rebounds: in v.44 Jesus said the devil and his children are liars; here Jesus warns that he himself would become a liar like them (ὅμοιος ὑμῖν) if he denied the Father. The lexical bridge 'ผู้พูดเท็จ' is the same — preserves the corpus-internal echo."
+        }
       ],
       "notes": "Triple knowing-claim: leaders DO NOT know God; Jesus DOES know; if Jesus denied knowing, he would join the liars. The 'know' here is οἶδα (relational, identifying) — same as v.19. The 'keeping his word' (τηρέω) parallels what Jesus has commanded the disciples to do (v.51). Jesus does for the Father what he asks others to do for himself."
     }
@@ -921,8 +1277,16 @@
       "thai_literal": null,
       "thai_summary": "ตามประเพณีของยิว (เช่น ทาร์กัมและคำอธิบายของพวกแรบไบ) อับราฮัมเห็นอนาคตจากภูเขาโมริยาห์เมื่อพระเจ้าทรงพอใจการพิสูจน์ความเชื่อด้วยอิสอัค (ปฐมกาล 22) บางคนเข้าใจว่าหมายถึงการเกิดของอิสอัคผู้เป็นบุตรแห่งคำสัญญา ที่สะท้อนถึงการเสด็จมาของพระคริสต์ พระเยซูทรงประกาศว่าพระองค์เองคือเป้าหมายของความปลื้มยินดีของอับราฮัม",
       "key_decisions": [
-        { "greek": "ἠγαλλιάσατο", "thai": "ปลื้มยินดี", "rationale": "ἀγαλλιάομαι — exult, rejoice greatly (LXX intensification of the simpler χαίρω). Thai 'ปลื้มยินดี' (delighted-joyful, deep rejoicing) is the standard Christian-Thai term for ἀγαλλίασις. Phrase-lock with LUK 1:47 (Mary's Magnificat 'ἠγαλλίασεν τὸ πνεῦμά μου / วิญญาณของข้าพเจ้าก็ปลื้มยินดี')." },
-        { "greek": "τὴν ἡμέραν τὴν ἐμήν", "thai": "วันของเรา", "rationale": "uW figs-metonymy: 'my day' = the time of Christ's coming. Patristic and rabbinic backgrounds disagree on whether Abraham 'saw' through prophetic vision, through the Aqedah/binding of Isaac, or through the messianic promise (cf. GEN 22:14 'YHWH will provide... in the mount of YHWH it shall be provided' — read messianically by some rabbinic traditions). Thai 'วันของเรา' preserves the original phrase without forcing an interpretation." }
+        {
+          "greek": "ἠγαλλιάσατο",
+          "thai": "ปลื้มยินดี",
+          "rationale": "ἀγαλλιάομαι — exult, rejoice greatly (LXX intensification of the simpler χαίρω). Thai 'ปลื้มยินดี' (delighted-joyful, deep rejoicing) is the standard Christian-Thai term for ἀγαλλίασις. Phrase-lock with LUK 1:47 (Mary's Magnificat 'ἠγαλλίασεν τὸ πνεῦμά μου / วิญญาณของข้าพเจ้าก็ปลื้มยินดี')."
+        },
+        {
+          "greek": "τὴν ἡμέραν τὴν ἐμήν",
+          "thai": "วันของเรา",
+          "rationale": "uW figs-metonymy: 'my day' = the time of Christ's coming. Patristic and rabbinic backgrounds disagree on whether Abraham 'saw' through prophetic vision, through the Aqedah/binding of Isaac, or through the messianic promise (cf. GEN 22:14 'YHWH will provide... in the mount of YHWH it shall be provided' — read messianically by some rabbinic traditions). Thai 'วันของเรา' preserves the original phrase without forcing an interpretation."
+        }
       ],
       "notes": "OT BACKGROUND cluster: GEN 12:3 (in Abraham all families blessed); GEN 17:17 (Abraham laughed at the promise of Isaac — Hebrew root צחק underlies יצחק 'Isaac' = 'he laughs'); GEN 22 (the Aqedah / binding of Isaac); GEN 22:14 ('YHWH yireh' — the Lord will provide / see). Rabbinic tradition (e.g., b. Sanhedrin 89b; Genesis Rabbah 56) interpreted Abraham as having seen messianic-eschatological future from Mt. Moriah. The patristic-period reading: Abraham saw the future Messiah-day in faith. uW figs-metaphor reading-options preserved in the open Thai rendering. ADDED TO NT_OT_CITATIONS: JHN 8:56 → GEN 22 (Aqedah / Abraham seeing-through-faith)."
     }
@@ -938,7 +1302,11 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "Πεντήκοντα ἔτη οὔπω ἔχεις", "thai": "ท่านยังอายุไม่ถึงห้าสิบปีเลย", "rationale": "Idiom 'have not yet fifty years' = 'are not yet fifty'. The number 50 may be conventional (the upper limit of mature service-age per NUM 4:3, 8:25) or rhetorical exaggeration ('you're nowhere near 50'). Thai 'ยังอายุไม่ถึงห้าสิบปี' preserves the upper-bound rhetoric." }
+        {
+          "greek": "Πεντήκοντα ἔτη οὔπω ἔχεις",
+          "thai": "ท่านยังอายุไม่ถึงห้าสิบปีเลย",
+          "rationale": "Idiom 'have not yet fifty years' = 'are not yet fifty'. The number 50 may be conventional (the upper limit of mature service-age per NUM 4:3, 8:25) or rhetorical exaggeration ('you're nowhere near 50'). Thai 'ยังอายุไม่ถึงห้าสิบปี' preserves the upper-bound rhetoric."
+        }
       ],
       "notes": "uW figs-rquestion: incredulous question expressing shock. The leaders take 'see Abraham' temporally — Jesus is at most around 30 (LUK 3:23), so seeing a man dead 1,800+ years is impossible. They miss that Jesus speaks in the v.56 logic of Abraham's seeing-by-faith, not Jesus's seeing-by-time. Their question sets up v.58's deity-claim that ends the dialogue."
     }
@@ -954,8 +1322,16 @@
       "thai_literal": null,
       "thai_summary": "‘เราเป็น’ ในข้อนี้เป็นการอ้างพระนามของพระเจ้าครั้งที่สามและสุดยอดในยอห์น 8 สะท้อนพระนามที่พระเจ้าทรงเปิดเผยแก่โมเสสในอพยพ 3:14 ‘เราคือผู้เป็นอยู่’ พระเยซูทรงใช้กริยาเปลี่ยนกาลอย่างจงใจ — ‘เกิด’ ของอับราฮัมเป็นกริยาที่บอกจุดเริ่มต้น ส่วน ‘เราเป็น’ เป็นกริยาปัจจุบันที่ไม่มีจุดเริ่มต้น ผู้ฟังในข้อ 59 เข้าใจว่าเป็นการอ้างพระนามของพระเจ้า จึงพยายามขว้างหินใส่พระองค์ทันที (ตามเลวีนิติ 24:16 โทษของการดูหมิ่นพระนามคือการขว้างหินให้ตาย)",
       "key_decisions": [
-        { "greek": "Ἀμὴν ἀμὴν λέγω ὑμῖν", "thai": "อาเมน อาเมน เราบอกแก่พวกท่านว่า", "rationale": "Phrase-lock with vv.34, 51 and prior John usages." },
-        { "greek": "πρὶν Ἀβραὰμ γενέσθαι ἐγὼ εἰμί", "thai": "ก่อนที่อับราฮัมจะเกิด เราเป็น", "rationale": "THIRD AND CLIMACTIC ABSOLUTE ἐγώ εἰμι in JHN 8 (also vv.24, 28). The verb-tense shift is deliberate and theologically explosive: γενέσθαι (aorist infinitive 'to come into being / be born') vs. εἰμί (present 'I am'). The expected grammar would be 'I was' (ἤμην) — Jesus uses the timeless present, claiming pre-existent eternal being. Echoes EXO 3:14 LXX 'ἐγώ εἰμι ὁ ὤν' (the YHWH self-name) and ISA 43:10 'ἵνα...πιστεύσητε...ὅτι ἐγώ εἰμι'. Render bare 'เราเป็น' to preserve the absolute Greek and the divine-name resonance. The audience reaction in v.59 (immediate stoning attempt under the LEV 24:16 blasphemy law) confirms they heard the divine-name claim." }
+        {
+          "greek": "Ἀμὴν ἀμὴν λέγω ὑμῖν",
+          "thai": "อาเมน อาเมน เราบอกแก่พวกท่านว่า",
+          "rationale": "Phrase-lock with vv.34, 51 and prior John usages."
+        },
+        {
+          "greek": "πρὶν Ἀβραὰμ γενέσθαι ἐγὼ εἰμί",
+          "thai": "ก่อนที่อับราฮัมจะเกิด เราเป็น",
+          "rationale": "THIRD AND CLIMACTIC ABSOLUTE ἐγώ εἰμι in JHN 8 (also vv.24, 28). The verb-tense shift is deliberate and theologically explosive: γενέσθαι (aorist infinitive 'to come into being / be born') vs. εἰμί (present 'I am'). The expected grammar would be 'I was' (ἤμην) — Jesus uses the timeless present, claiming pre-existent eternal being. Echoes EXO 3:14 LXX 'ἐγώ εἰμι ὁ ὤν' (the YHWH self-name) and ISA 43:10 'ἵνα...πιστεύσητε...ὅτι ἐγώ εἰμι'. Render bare 'เราเป็น' to preserve the absolute Greek and the divine-name resonance. The audience reaction in v.59 (immediate stoning attempt under the LEV 24:16 blasphemy law) confirms they heard the divine-name claim."
+        }
       ],
       "notes": "OT ALLUSION cluster (most explicit in NT for the absolute ἐγώ εἰμι): EXO 3:14 (YHWH self-name to Moses); ISA 43:10, 43:13, 43:25, 45:18, 46:4, 51:12, 52:6 (Deutero-Isaiah's 'I AM' declarations of YHWH); LEV 24:16 (blasphemy = stoning — explains v.59's reaction). The verb-tense disjunction (aorist infinitive of becoming + present indicative of being) is the grammatical hammer: Abraham came-into-being at a temporal start; Jesus simply is. In context this is the climax of all three absolute-ἐγώ-εἰμι sayings of JHN 8 — and arguably the most explicit deity-claim in any of the gospels. ADDED TO NT_OT_CITATIONS: JHN 8:58 → EXO 3:14 + ISA 43:10/13/25 (composite ἐγώ εἰμι divine-name claim, third and climactic of the JHN 8 cluster)."
     }
@@ -971,8 +1347,16 @@
       "thai_literal": null,
       "thai_summary": "ปฏิกิริยาขว้างหินทันทีหลังคำตรัส ‘เราเป็น’ ในข้อ 58 ยืนยันว่าผู้นำชาวยิวเข้าใจว่าพระเยซูทรงอ้างพระนามของพระเจ้า — โทษของการดูหมิ่นพระนาม (เลวีนิติ 24:16) คือการขว้างหินให้ตาย พวกเขาจึงพยายามทำพิธีประหารทันทีในลานพระวิหาร แต่ ‘เวลากำหนดของพระองค์ยังมาไม่ถึง’ (ดู ยอห์น 8:20)",
       "key_decisions": [
-        { "greek": "ἦραν...λίθους ἵνα βάλωσιν ἐπ’αὐτόν", "thai": "หยิบก้อนหินขึ้นเพื่อจะขว้างพระองค์", "rationale": "uW figs-explicit: this is an attempted blasphemy-execution, not random violence. LEV 24:16 prescribes stoning for blaspheming the divine name — the leaders treat v.58's ἐγώ εἰμι as triggering this provision. Thai 'หยิบก้อนหินขึ้น' preserves the ritual-execution reading visible to a reader who knows the LEV 24:16 backdrop." },
-        { "greek": "ἐκ τοῦ ἱεροῦ (SBLGNT shorter ending)", "thai": "ออกจากบริเวณพระวิหาร", "rationale": "TEXTUAL VARIANT: SBLGNT/NA28 ends here. TR/Byz adds a trailing clause 'διελθὼν διὰ μέσου αὐτῶν, καὶ παρῆγεν οὕτως' ('going through the midst of them, and so passed by'). The longer reading is absent from the earliest witnesses (𝔓⁶⁶ 𝔓⁷⁵ ℵ B C D L W X) and present in later mss (A K M Π Δ Θ Ψ etc.). Modern critical-text consensus and mainstream evangelical practice (BSB ESV NIV CSB): omit. Per RULES §5 'modern critical-text consensus matches our practice — silent omission with no surprise to mainstream readers.' We follow SBLGNT and omit." }
+        {
+          "greek": "ἦραν...λίθους ἵνα βάλωσιν ἐπ’αὐτόν",
+          "thai": "หยิบก้อนหินขึ้นเพื่อจะขว้างพระองค์",
+          "rationale": "uW figs-explicit: this is an attempted blasphemy-execution, not random violence. LEV 24:16 prescribes stoning for blaspheming the divine name — the leaders treat v.58's ἐγώ εἰμι as triggering this provision. Thai 'หยิบก้อนหินขึ้น' preserves the ritual-execution reading visible to a reader who knows the LEV 24:16 backdrop."
+        },
+        {
+          "greek": "ἐκ τοῦ ἱεροῦ (SBLGNT shorter ending)",
+          "thai": "ออกจากบริเวณพระวิหาร",
+          "rationale": "TEXTUAL VARIANT: SBLGNT/NA28 ends here. TR/Byz adds a trailing clause 'διελθὼν διὰ μέσου αὐτῶν, καὶ παρῆγεν οὕτως' ('going through the midst of them, and so passed by'). The longer reading is absent from the earliest witnesses (𝔓⁶⁶ 𝔓⁷⁵ ℵ B C D L W X) and present in later mss (A K M Π Δ Θ Ψ etc.). Modern critical-text consensus and mainstream evangelical practice (BSB ESV NIV CSB): omit. Per RULES §5 'modern critical-text consensus matches our practice — silent omission with no surprise to mainstream readers.' We follow SBLGNT and omit."
+        }
       ],
       "notes": "TEXTUAL VARIANT (RULES §5 silent-omission category): SBLGNT/NA28 omits the TR/Byz trailing 'διελθὼν διὰ μέσου αὐτῶν, καὶ παρῆγεν οὕτως' ('going through the midst of them, and so passed by'). Witnesses for SBLGNT shorter reading: 𝔓⁶⁶ 𝔓⁷⁵ ℵ B C D L W X (the earliest and best); witnesses for the longer TR/Byz reading: A K M Π Δ Θ Ψ + most Byzantine MSS, KJV, THKJV. Mainstream English Bibles (BSB ESV NIV CSB) silently omit. Per RULES §5 final clause: 'Variants where modern critical-text consensus matches our practice — silent omission with no surprise to mainstream readers; no special treatment needed.' Documented in notes for scholarly transparency only — no chapter-footer treatment. OT ALLUSION: LEV 24:16 (stoning for blaspheming the Name) — the leaders' immediate reaction makes the LEV 24:16 charge functionally explicit. Thematic close to JHN 7:30 / 8:20 'no one seized him because his hour had not yet come.' Jesus's ἐκρύβη / withdrawal preserves the salvation-historical timing through the cross-event."
     }
