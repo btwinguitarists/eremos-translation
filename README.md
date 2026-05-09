@@ -25,18 +25,19 @@ That's the minimum reviewer package. You can stop there or go deeper.
 
 ---
 
-## What's been translated (as of 2026-04-23)
+## What's been translated (as of 2026-05-10)
 
-**Three Synoptic Gospels — COMPLETE**: Matthew (28 ch, 1,068 verses) · Mark (16 ch, 673 verses) · Luke (24 ch, 1,149 verses). **Acts** in progress (ch 1–4, 136 verses). **1 Timothy 3** pilot (16 verses). **Corpus total: 3,042 verses across 74 chapters — roughly 38% of the New Testament.**
+**New Testament — COMPLETE.** All 27 NT books shipped (~7,950 verses across 260 chapters), tagged at the `book-<slug>-v1` level following per-book end-of-book audits. Matthew · Mark · Luke · John · Acts · Romans · 1–2 Corinthians · Galatians · Ephesians · Philippians · Colossians · 1–2 Thessalonians · 1–2 Timothy · Titus · Philemon · Hebrews · James · 1–2 Peter · 1–3 John · Jude · Revelation.
 
-📖 **Read it:**
-- Matthew: [`output/reader/matthew.md`](output/reader/matthew.md) — full Gospel in Thai with inline context (บริบท)
-- Mark: [`output/reader/mark.md`](output/reader/mark.md) — full Gospel in Thai
-- Luke: [`output/reader/luke.md`](output/reader/luke.md) — full Gospel in Thai
-- Acts (in progress): [`output/reader/acts.md`](output/reader/acts.md)
-- 1 Timothy 3: [`output/reader/1timothy.md`](output/reader/1timothy.md)
+**Old Testament pilot — IN PROGRESS.** Ruth (4 ch) ✅ · Jonah (4 ch) ✅ · Genesis (13 / 50 ch) 🔄 currently translating chapter-by-chapter through Genesis.
 
-All chapters pass the full 8-check ship gate (key-term consistency, TNBT structural, OT citation acknowledgment, synoptic parallels, back-translation, thai_summary coverage, claim-consistency / hallucination detector, Greek-field integrity). 1,717 reader-facing Thai context summaries across the corpus (56% coverage, aligned with the 30–50%+ target in `docs/THAI_SUMMARY_STYLE.md`). 719 curated NT→OT citations in `data/nt_ot_citations.json`. Every commit GPG-signed; every translation file SHA-256 fingerprinted in `HASHES.md`.
+**Corpus total: 282 chapters · 8,413 verses · ~24% of the full canon (1,189 chapters).**
+
+📖 **Read it:** every shipped book has a flowing-prose reader edition at `output/reader/<book>.md`. Examples — `matthew.md`, `mark.md`, `luke.md`, `john.md`, `acts.md`, `romans.md`, `revelation.md`, `ruth.md`, `jonah.md`, `genesis.md`. The same translation also surfaces verse-by-verse with tap-to-reveal scholarly notes in the [Eremos](https://github.com/btwinguitarists/EremosVercel2) reader app (web at `eremosapp.com`; iOS via TestFlight; Android via Play Console).
+
+All shipped chapters pass the relevant ship-gate cadence (NT-side: key-term consistency, TNBT structural, OT citation acknowledgment + DB-drift detector, synoptic parallels, back-translation, thai_summary coverage, claim-consistency / hallucination detector, Greek-field integrity, multi-word phrase consistency. OT-side: Hebrew-field integrity, divine-names lock, MT-anchored versification, Rachasap honorifics-binding, back-translation, summary coverage). Currently 15 check scripts under `scripts/check_*.py`; the orchestrator (`run_checks.py`) routes by language. Optimal-equivalence polish (Claude API, Sonnet) runs as a post-checks scan and proposes idiomatic refinements without auto-applying.
+
+Reader-facing Thai context summaries (`thai_summary` field) appear on roughly half of all verses — well above the 30–50% target in `docs/THAI_SUMMARY_STYLE.md`. NT→OT citation database at `data/nt_ot_citations.json` curates ~720 entries as of NT-v1. Every commit signed; every translation file SHA-256 fingerprinted in `HASHES.md`. End-of-book audits land an editorial review packet + external AI cross-review packet (Grok / ChatGPT / Gemini) before book-level v1 tags ship.
 
 ### Why does our Mark 1:1 differ from the BSB?
 
@@ -46,18 +47,24 @@ The BSB — which we use only as an English reference bridge, **not** as a sourc
 
 Our approach: **translate from SBLGNT as stated, and document every divergence from other major traditions in the verse's notes.** Our Mark 1:1 note records the manuscript evidence explicitly. This same editorial principle handles every contested passage — Mark 1:41 (ὀργισθείς vs σπλαγχνισθείς), Mark 9:29 (with-or-without "and fasting"), Mark 14:24 (with-or-without "new"), and the ⟦double-bracketed⟧ longer ending of Mark 16:9-20.
 
-### Book highlights
+### Selected book highlights
 
-| Book | Status | Verses | Notable features |
-|------|--------|-------:|------------------|
-| Matthew | ✅ complete | 1,068 | Royal-register (ราชาศัพท์) policy throughout; Sermon on the Mount (ch 5–7); Olivet Discourse (ch 24–25); Passion + Resurrection (ch 26–28) |
-| Mark | ✅ complete | 673 | Pilot book; SBLGNT-omitted "Son of God" at 1:1 bracketed; ὀργισθείς/σπλαγχνισθείς at 1:41; ⟦double-bracketed⟧ longer ending 16:9–20 |
-| Luke | ✅ complete | 1,149 | Magnificat (1:46–55) + Benedictus (1:68–79) + Nunc Dimittis (2:29–32); Parable-dense chs 10–19; Emmaus road (24:13–35); end-of-book external Gemini + Claude review pass |
-| Acts | 🔄 in progress (1–4) | 136 | Ascension + Matthias (ch 1); Pentecost with 21 OT citations (ch 2); early-church sermons drawing heavily on Ps 16, Ps 110, Joel 2, Isa 53 |
-| 1 Timothy 3 | ✅ pilot | 16 | ὃς/Θεὸς textual variant at 3:16; γυναῖκας crux at 3:11 |
-| **Total** | | **3,042** | **74 of ~260 NT chapters — ~38% of the NT** |
+| Book | Status | Notable features |
+|------|--------|------------------|
+| Mark | ✅ NT-v1 | Pilot book — corpus methodology emerged here. SBLGNT-omitted "Son of God" at 1:1 bracketed; ὀργισθείς/σπλαγχνισθείς at 1:41; ⟦double-bracketed⟧ longer ending 16:9–20 |
+| Matthew | ✅ NT-v1 | Royal-register (ราชาศัพท์) consistency; Sermon on the Mount; Olivet Discourse; Passion + Resurrection. Late retag `book-matthew-v2` applied ἄφεσις-cluster phrase-lock |
+| Luke | ✅ NT-v1 | Magnificat / Benedictus / Nunc Dimittis; parable-dense chs 10–19; Emmaus road; end-of-book external Gemini + Claude cross-AI review pass; Western non-interpolation table for Luke 24 |
+| John | ✅ NT-v1 | I AM (ἐγώ εἰμι) discourse vocabulary lock; pericope adulterae 7:53–8:11 in ⟦double brackets⟧; high-Christological prologue treated as one register-unit |
+| Acts | ✅ NT-v1 | Pentecost speech with composite OT citations (Joel 2 / Ps 16 / Ps 110); Stephen's Heilsgeschichte rehearsal; Pauline missionary speeches calibrated to Athenian/Roman audiences |
+| Romans | ✅ NT-v1 | δικαιοσύνη / δίκαιος family lock per `dikaioo_dikaiosyne_family_2026-05.md`; Romans 16:25–27 doxology disposition documented |
+| 1 Timothy | ✅ NT-v1 | Inaugural pilot of the optimal-equivalence rules; ὃς/Θεὸς textual variant at 3:16; γυναῖκας crux at 3:11 |
+| Hebrews | ✅ NT-v1 | ἱλαστήριον disambiguation Heb-vs-Rom per `hilasterion_heb-rom_distinction_2026-05.md`; LXX-citation pattern preserved verbatim where the Greek text quotes from LXX |
+| Revelation | ✅ NT-v1 | Heavenly liturgy register; Trinitarian title-cluster locks; ἔρχομαι ταχύ register-split per `erchomai_tachy_revelation_register_split_2026-05.md` |
+| Ruth | ✅ OT pilot | First OT book — established חֶסֶד → ความรักมั่นคง corpus-lock; Boaz's gate-scene legal vocabulary; redeemer-kinsman thread |
+| Jonah | ✅ OT pilot | Tetragrammaton convention validated in narrative + psalm + prophetic-oracle voices; MT/English versification map for ch 2 (great-fish boundary); Exod 34:6–7 attribute-formula recitation lock; sailor + Ninevite parallel-conversion arc |
+| Genesis | 🔄 in progress (ch 1–13) | Primordial history (ch 1–11) underway; entering patriarchal narrative; ongoing refinement of OT-narrative register and divine-name compound handling (יהוה־אלהים in Eden-narrative) |
 
-Each translation lives at `output/translations/<book-slug>_<NN>.json` with full Greek source, BSB English reference, Thai rendering, key decisions with rationale, and notes on textual variants / hapax legomena / OT citations.
+Each translation lives at `output/translations/<book-slug>_<NN>.json` with full Greek/Hebrew source, BSB English reference, Thai rendering (`thai`), optional literal alternative (`thai_literal`), reader-facing Thai context summary (`thai_summary`), key decisions with rationale, and notes on textual variants / hapax legomena / OT citations / Tetragrammaton handling. OT verses additionally carry a `versification` sub-object in known-divergence zones.
 
 ---
 
@@ -65,32 +72,26 @@ Each translation lives at `output/translations/<book-slug>_<NN>.json` with full 
 
 **Source materials** (all open-licensed — see `ATTRIBUTIONS.md`):
 
-- **Greek text:** SBL Greek New Testament (CC BY 4.0)
-- **Morphology:** MACULA Greek linguistic dataset (CC BY 4.0) — word-by-word lemma, parsing, Louw-Nida semantic domains
+- **Greek NT text:** SBL Greek New Testament (CC BY 4.0)
+- **Hebrew/Aramaic OT text:** MACULA Hebrew (BHSA-derived, CC BY 4.0) — covers Genesis through Malachi with morphology + lemma + Strong's H-numbers
+- **Morphology:** MACULA Greek + MACULA Hebrew linguistic datasets (CC BY 4.0) — word-by-word lemma, parsing, Louw-Nida (NT) / SDBH (OT) semantic domains
 - **English reference:** Berean Standard Bible (CC0) — sanity check only, never a source to copy from
 - **Scholarly notes:** unfoldingWord Translation Notes (CC-BY-SA 4.0) — read for context, never copied (would force CC-BY-SA inheritance)
-- **Structural reference:** Thai New Buddhist Translation TNBT (CC-BY-SA 4.0) — used post-draft for sentence-count / length-ratio comparison only; never read during drafting
+- **Structural reference:** Thai New Buddhist Translation TNBT (CC-BY-SA 4.0) — used post-draft for sentence-count / length-ratio comparison only; never read during drafting (NT only — TNBT does not cover the OT)
 
-**Translation engine:** Claude (Anthropic) — latest Opus with 1M context window and "high"/"max" effort, fresh chat per chapter. The specific model ID used for each chapter is recorded alongside its key decisions in the chapter JSON. Latest Sonnet for lower-stakes steps (back-translation, code edits). See `RULES.md §11` for current model assignments.
+**Translation engine:** Claude (Anthropic) — latest Opus with 1M context window and max effort/thinking, fresh chat per chapter. The check scripts call latest Sonnet for the back-translation pass at per-verse volume. See `RULES.md §11` for current model assignments.
 
 **Pipeline** (see `docs/TRANSLATION_WORKFLOW.md`):
 
-1. Extract Greek + morphology for the chapter (`scripts/extract_book.py`)
-2. Enrich with unfoldingWord scholarly notes (`scripts/enrich_with_uw.py`)
-3. Read book-level intro (`output/uw_notes/<slug>_FRONT.md`) — author, audience, themes, outline
-4. Read prior chapter output for style continuity
-5. Translate from Greek with verse-by-verse rationale
-6. Back-translate Thai → English in-chat for self-consistency check
-7. Run 8 automated checks (`scripts/run_checks.py`):
-   - Key-term consistency across the whole corpus
-   - TNBT structural comparison
-   - OT citation acknowledgment + DB drift detector (fails ship if notes claim a citation that isn't recorded in `data/nt_ot_citations.json`)
-   - Synoptic parallel-passage check
-   - Back-translation diff against BSB
-   - Thai-summary coverage (informational, not blocking)
-   - Claim-consistency / hallucination detector (fails ship when notes claim a pipeline side-effect that didn't happen — e.g., "added to glossary" when glossary is unchanged)
-   - Greek-field integrity (catches Thai or fabricated Greek tokens stuffed into the `key_decisions[].greek` slot — introduced 2026-04-21 after LUK 13/14 metadata drift; see `docs/LUKE_DRIFT_2026-04-21.md`)
-8. Auto-ship via `scripts/ship_chapter.sh` — bundles, branches, PRs, auto-merges, bumps iOS, builds web, uploads TestFlight
+1. Resolve next chapter (`scripts/next_chapter.py` reads `data/production_order.json`) OR specify the book/chapter explicitly
+2. Extract source-language verses + morphology (`scripts/extract_book.py` auto-routes OT codes to `extract_book_hebrew.py`)
+3. Enrich with unfoldingWord scholarly notes (`scripts/enrich_with_uw.py`) — produces book-intro + per-chapter notes
+4. Read `RULES.md`, the relevant translator-decision docs, and the most-recent prior chapter output for style continuity
+5. Translate verse-by-verse with explicit `key_decisions` rationale
+6. Save back-translation (Thai → literal English) to `output/back_translations/`
+7. Run the language-routed check cadence (`scripts/run_checks.py`) — currently 15 distinct check scripts under `scripts/check_*.py`; the orchestrator picks the relevant subset for NT vs OT chapters. Iterate via `scripts/revise_chapter.py` if any check fails (max 3 passes before human review)
+8. Ship the source via `scripts/ship_chapter.sh BOOK CHAPTER` — gates on green checks, regenerates `HASHES.md` + reader doc + plain-text + feedback markdown, commits to `main`, and (at end-of-book) auto-launches the editorial-review subagent + opens the audit PR
+9. After end-of-book external-AI review and any revisions, lock-and-deploy with `scripts/ship_book.sh BOOK` — rebuilds the Eremos app bundle, opens + auto-merges the EremosVercel2 PR, bumps iOS `CURRENT_PROJECT_VERSION`, uploads to TestFlight via altool, and tags `book-<slug>-v1`. Android Play Console upload is a separate manual step.
 
 ---
 
@@ -152,11 +153,14 @@ If you're qualified to give technical feedback, these are the dimensions that ma
 | `LICENSE` | CC0 1.0 Universal Public Domain Dedication for our output |
 | `NOTICE` | One-line summary of CC0 + dependency licenses |
 | `glossary.json` | Auto-maintained per-lemma rendering ledger across all translations |
-| `data/production_order.json` | Canonical 260-chapter NT translation order |
-| `data/nt_ot_citations.json` | NT→OT citation database (curated, growing) |
+| `data/production_order.json` | Canonical 1,189-chapter translation order (NT complete + OT in progress) |
+| `data/nt_ot_citations.json` | NT→OT citation database (curated, ~720 entries) |
 | `data/synoptic_parallels.json` | Synoptic parallel-passage map for cross-gospel consistency |
+| `data/versification_map.json` | OT MT-vs-English verse-numbering divergence map (Psalms superscriptions, Joel 3, Mal 3/4, Jonah 2, etc.) |
+| `data/hebrew_idioms.json` | Running ledger of Hebrew idioms encountered + their Thai handling |
 | `docs/TRANSLATION_WORKFLOW.md` | Step-by-step process for adding a chapter |
-| `docs/REVIEW_TOOLS.md` | Paratext, Scripture Forge, unfoldingWord integration roadmap |
+| `docs/translator_decisions/` | Per-decision lock docs (chesed, divine-names, register, leitwort handling, etc.) |
+| `docs/end_of_book/` | Per-book end-of-book audit packets (editorial review + external AI handoff) |
 | `output/translations/<slug>_<NN>.json` | Per-chapter Thai translations with rationale |
 | `output/back_translations/<slug>_<NN>.json` | Thai → English back-translations for the check |
 | `output/uw_notes/<slug>_FRONT.md` | unfoldingWord book-level scholarly intro |
@@ -168,11 +172,15 @@ If you're qualified to give technical feedback, these are the dimensions that ma
 
 ## Repository status
 
-**Public** (as of 2026-04-17, when the Gospel of Mark reached first-draft completion). The CC0 license applies to all output in `output/translations/`. Source material under `sources/` is git-ignored — each source has its own license and must be cloned separately from upstream (see `ATTRIBUTIONS.md`).
+**Public** (since 2026-04-17, when the Gospel of Mark reached first-draft completion). The CC0 license applies to all output in `output/translations/` and the curated databases under `data/`. Source material under `sources/` is git-ignored — each source has its own license and must be cloned separately from upstream (see `ATTRIBUTIONS.md`).
 
-**Pre-v1.0.** The Synoptic corpus (Matthew + Mark + Luke) has passed all 8 automated checks and is ready for human review (whole-book readthrough, exegetical spot-check on high-stakes verses, Thai-native-speaker naturalness review). Acts is in active first-draft translation. Release-notes for per-book `v1.0` tags will land once human-review stages complete. Until then, expect verse-level revisions.
+**NT-v1 complete; OT pilot underway.** All 27 NT books carry per-book `book-<slug>-v1` tags, each landed after a green ship-cadence + an end-of-book editorial-review subagent + at least one external AI cross-review pass. Human-review remains ongoing through the in-house review form (see §10b of `RULES.md`); verse-level revisions can land at any time and trigger a `book-<slug>-v2`-style retag.
 
-Companion app: [Eremos](https://github.com/btwinguitarists/EremosVercel2) — surfaces the translation in a Thai Bible reader with a "Translation Notes" popup showing rationale and a one-tap "Flag error" feedback button.
+The OT pilot is currently working through the first phase of `data/production_order.json` — Ruth + Jonah + Genesis 1–11 (primordial history) are the deliberately small bootstrap before scaling into the Pentateuch narrative + Former Prophets. Ruth and Jonah are book-tagged; Genesis ships chapter-by-chapter and will tag at book completion.
+
+**Human-review intake:** translation reviewers can sign up at `eremosapp.com/review` — a bilingual (Thai + English) form backed by the project's question-bank (per-file YAMLs at `EremosVercel2/shared/review-questions/`). Reviewers are screened by the project lead and matched to question categories per their declared skill set (Thai naturalness / theology / biblical-language exegesis / reader comprehension / app UX).
+
+**Companion app:** [Eremos](https://github.com/btwinguitarists/EremosVercel2) — surfaces the translation in a Thai Bible reader with a "Translation Notes" popup showing rationale + a one-tap "Flag error" feedback button. Web at `eremosapp.com`; iOS via TestFlight; Android via Play Console.
 
 ---
 
