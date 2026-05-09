@@ -1,0 +1,815 @@
+[
+  {
+    "reference": "Genesis 1:1",
+    "chapter": 1,
+    "verse": 1,
+    "language": "hebrew",
+    "hebrew": "בְּרֵאשִׁ֖ית בָּרָ֣א אֱלֹהִ֑ים אֵ֥ת הַשָּׁמַ֖יִם וְאֵ֥ת הָאָֽרֶץ׃",
+    "bsb_english": "In the beginning God created the heavens and the earth.",
+    "translation": {
+      "thai": "ในปฐมกาล พระเจ้าทรงสร้างฟ้าสวรรค์และแผ่นดินโลก",
+      "thai_literal": "ในการเริ่มต้น พระเจ้าทรงสร้างฟ้าสวรรค์และแผ่นดินโลก",
+      "thai_summary": "ข้อแรกของพระคัมภีร์เปิดประวัติศาสตร์แห่งจักรวาลด้วยถ้อยคำที่หนักแน่นและตรงไปตรงมา — พระเจ้าทรงเป็นต้นเหตุของทุกสิ่ง คำฮีบรู בְּרֵאשִׁית (เบเรชิท, “ในการเริ่มต้น”) เป็นชื่อของหนังสือเล่มนี้ในภาษาฮีบรู — ชื่อในภาษาไทย “ปฐมกาล” (จากภาษาบาลี-สันสกฤต “ปฐม” = แรก + “กาล” = ยุค/เวลา) จึงสะท้อนความหมายเดียวกัน คำกริยา בָּרָא (บารา, “ทรงสร้าง”) เป็นคำที่ใช้เฉพาะกับพระเจ้าเท่านั้นในพระคัมภีร์ภาคพันธสัญญาเดิม — มนุษย์ไม่เคยเป็นประธานของกริยานี้ ผู้เขียนยืนยันว่าพระเจ้าทรงสร้างทั้ง “ฟ้าสวรรค์” (הַשָּׁמַיִם) และ “แผ่นดินโลก” (הָאָרֶץ) — สำนวน merism (คู่ตรงข้ามที่หมายถึงทั้งหมด) ที่หมายถึงทุกสิ่งในจักรวาล",
+      "key_decisions": [
+        {
+          "hebrew": "בְּרֵאשִׁית",
+          "thai": "ในปฐมกาล",
+          "rationale": "Per uW figs-abstractnouns: בְּרֵאשִׁית is a feminine singular noun in absolute state meaning 'in (a) beginning.' Thai 'ปฐมกาล' (paṭhama-kāla, from Pali-Sanskrit: ปฐม=first + กาล=time/era) is the standard Thai-Bible rendering AND the Thai book-title — preserving the Hebrew title-as-incipit convention (the Hebrew title of the book is also its first word). 'ในเริ่มแรก' is more colloquial but loses the title-resonance; 'ในกาลแรก' is wooden. ปฐมกาล is the locked rendering for this exact phrase across Thai Bible tradition (THSV, TNBT, TKJV all agree)."
+        },
+        {
+          "hebrew": "בָּרָא",
+          "thai": "ทรงสร้าง",
+          "rationale": "בָּרָא (Qal qatal, 3ms) is a theologically-loaded verb that takes God as its only subject in the Hebrew Bible — never used of humans creating something. Per OT register policy §1.1, divine actions take ราชาศัพท์: 'ทรงสร้าง' (royal Thai 'create'). NT precedent: ποιέω/κτίζω → ทรงสร้าง for divine creation (cf. Col 1:16, Eph 2:10). The verb implies creation 'out of nothing' (creatio ex nihilo) per traditional reading + Hebrews 11:3 alignment, though the verb itself does not lexically require it. Glossary lock: בָּרָא → ทรงสร้าง (with God as subject)."
+        },
+        {
+          "hebrew": "אֱלֹהִים",
+          "thai": "พระเจ้า",
+          "rationale": "Per divine_names_table_2026-05.md (locked 2026-05-04): אֱלֹהִים → พระเจ้า project-wide, matching NT rendering of θεός. Note: אֱלֹהִים is morphologically plural but takes singular verbs and singular concord throughout Genesis 1 (בָּרָא is 3ms singular here) — the 'plural of majesty' or honorific plural; rendered as singular พระเจ้า in Thai. Genesis 1 uses אֱלֹהִים 32 times; יהוה does not appear until Genesis 2:4. So no Tetragrammaton footnote needed in this chapter."
+        },
+        {
+          "hebrew": "אֵת הַשָּׁמַיִם וְאֵת הָאָרֶץ",
+          "thai": "ฟ้าสวรรค์และแผ่นดินโลก",
+          "rationale": "אֵת is the direct-object marker (no Thai equivalent — absorbed into Thai's prepositionless object). הַשָּׁמַיִם (heavens, plural in form, refers to the totality of the celestial sphere) → 'ฟ้าสวรรค์' (NT-shipped rendering for οὐρανός). הָאָרֶץ (earth, singular, here = the whole planet/material world) → 'แผ่นดินโลก' (NT-shipped rendering for γῆ in cosmic sense). The pair 'heavens-and-earth' is a Hebrew merism for the entirety of created reality. Mainstream Thai Bibles (THSV, TNBT) agree on this rendering pair."
+        }
+      ],
+      "notes": "**MERISM:** 'heavens and earth' (הַשָּׁמַיִם וְהָאָרֶץ) is a Hebrew rhetorical figure where two extremes name the whole — here, all of created reality. **THEOLOGICAL ANCHOR:** v.1 establishes God as transcendent Creator before any creature exists; the universe has a beginning, a Creator, and is contingent. **NT ECHO:** Hebrews 11:3 (πίστει νοοῦμεν κατηρτίσθαι τοὺς αἰῶνας ῥήματι θεοῦ — 'by faith we understand that the worlds were framed by the word of God') reads Gen 1:1 christologically; John 1:1 (ἐν ἀρχῇ ἦν ὁ λόγος — 'in the beginning was the Word') deliberately echoes בְּרֵאשִׁית. **TITLE:** The Hebrew book-title is also its incipit (בְּרֵאשִׁית); the Thai book-title 'ปฐมกาล' shares this etymological meaning."
+    }
+  },
+  {
+    "reference": "Genesis 1:2",
+    "chapter": 1,
+    "verse": 2,
+    "language": "hebrew",
+    "hebrew": "וְהָאָ֗רֶץ הָיְתָ֥ה תֹ֨הוּ֙ וָבֹ֔הוּ וְחֹ֖שֶׁךְ עַל־פְּנֵ֣י תְה֑וֹם וְר֣וּחַ אֱלֹהִ֔ים מְרַחֶ֖פֶת עַל־פְּנֵ֥י הַמָּֽיִם׃",
+    "bsb_english": "Now the earth was formless and void, and darkness was over the surface of the deep. And the Spirit of God was hovering over the surface of the waters.",
+    "translation": {
+      "thai": "แผ่นดินโลกยังไม่มีรูปทรงและว่างเปล่า ความมืดอยู่เหนือพื้นห้วงน้ำลึก และพระวิญญาณของพระเจ้าทรงเคลื่อนไหวอยู่เหนือผิวน้ำ",
+      "thai_literal": "และแผ่นดินโลกเป็นโทฮูและโบฮู (ไร้รูปและว่างเปล่า) และความมืดอยู่บนพื้นของห้วงลึก และพระวิญญาณของพระเจ้าโบยบินอยู่บนพื้นของน้ำ",
+      "thai_summary": "ผู้เขียนหยุดการเล่าเหตุการณ์เพื่อบรรยายสภาพของแผ่นดินโลกหลังการทรงสร้างครั้งแรก สำนวนคู่ที่มีชื่อเสียง תֹהוּ וָבֹהוּ (โทฮู วาโบฮู, “ไร้รูปและว่างเปล่า”) เป็นการเล่นเสียงคล้องในภาษาฮีบรูที่บรรยายสภาวะก่อนการจัดระเบียบ ไม่ใช่ความว่างเปล่าเชิงปรัชญา แต่เป็นภาวะที่ยังไม่เข้ารูปและยังไม่มีสิ่งมีชีวิต พระวิญญาณของพระเจ้า (רוּחַ אֱלֹהִים) ทรงเคลื่อนไหวอยู่เหนือผิวน้ำ — กริยา מְרַחֶפֶת (เมรอเคเฟท) ใช้ในเฉลยธรรมบัญญัติ 32:11 บรรยายนกอินทรีโบยบินอยู่เหนือลูกๆ ของมัน เป็นภาพการดูแลและการเตรียมสิ่งที่กำลังจะเกิดขึ้น",
+      "key_decisions": [
+        {
+          "hebrew": "תֹהוּ וָבֹהוּ",
+          "thai": "ยังไม่มีรูปทรงและว่างเปล่า",
+          "rationale": "Per uW: phrase could mean (1) 'did not have its present form, and there was nothing living on it yet' or (2) 'completely desolate' (hendiadys). uW recommends keeping both terms separate. The Hebrew assonance תֹהוּ-בֹהוּ (tohu-vohu) is a fixed phrase later quoted at Jer 4:23 + Isa 34:11. Render with two distinct Thai concepts — 'ไม่มีรูปทรง' (formless) + 'ว่างเปล่า' (empty/void) — preserving the bipartite structure. The thai_literal preserves the Hebrew transliteration in parenthesis (โทฮู+โบฮู) for scholarly transparency. Avoid 'ไร้รูป' alone (loses the void-component) or 'รกร้าง' (too smoothed)."
+        },
+        {
+          "hebrew": "תְהוֹם",
+          "thai": "ห้วงน้ำลึก",
+          "rationale": "תְהוֹם (tehom) = the primordial deep, cognate with Akkadian tiamat (the chaos-monster of the Babylonian creation epic Enuma Elish). The Hebrew use is demythologized — it's just the deep waters, not a divinity to be defeated. Render 'ห้วงน้ำลึก' (deep-water-abyss); avoid 'ทะเล' (sea, too mundane) or 'นรก' (anachronistic). When תְהוֹם recurs in Pss + the Flood narrative + Ezek, the same rendering applies."
+        },
+        {
+          "hebrew": "וְרוּחַ אֱלֹהִים",
+          "thai": "พระวิญญาณของพระเจ้า",
+          "rationale": "Per hebrew_idioms_and_metaphor §3.5: רוּחַ אֱלֹהִים — the 'Spirit of God' / 'wind from God' rendering decision. uW notes: 'could mean (1) and God's Spirit was hovering or (2) and a wind from God was blowing.' Mainstream evangelical translations (ESV, NIV, NASB, CSB, NLT) and the early-church reading prefer (1) — divine Spirit. We follow the majority rendering: 'พระวิญญาณของพระเจ้า' (Spirit of God; matches NT rendering of πνεῦμα τοῦ θεοῦ). The footer-note for thai_summary preserves option (2) for scholarly readers. Per glossary semantic-domain table: divine רוּחַ → พระวิญญาณ + ของพระเจ้า; this is locked across the OT corpus."
+        },
+        {
+          "hebrew": "מְרַחֶפֶת",
+          "thai": "ทรงเคลื่อนไหว",
+          "rationale": "מְרַחֶפֶת (Piel feminine participle of רָחַף, 'to hover, flutter, brood'). The verb appears 3x in the OT — here, Deut 32:11 (eagle hovering over its young), and Jer 23:9 (bones shaking). The Deuteronomy parallel suggests protective-brooding imagery. Render 'ทรงเคลื่อนไหว' (royal-Thai for divine action; not too mechanical). Other options: 'โบยบิน' (literal-flight, captures the flutter) — used in thai_literal; 'ปกคลุม' (cover) — too static. The chosen Thai keeps the active-presence sense without overspecifying eagle-imagery."
+        },
+        {
+          "hebrew": "עַל־פְּנֵי",
+          "thai": "เหนือพื้น / เหนือผิว",
+          "rationale": "פְּנֵי (literally 'face/surface of') is a common Hebrew construct preposition meaning 'on the surface of, over.' Twice in this verse: 'face of the deep' + 'face of the waters.' Render 'พื้นห้วงน้ำลึก' for the first (deep waters as a body) and 'ผิวน้ำ' for the second (visible surface). The variation is for Thai naturalness; both preserve the surface-position relation. The thai_literal renders both as 'พื้น' for transparency."
+        }
+      ],
+      "notes": "**TOHU VA-VOHU:** The Hebrew formula recurs at Jer 4:23 (judgment-reversal of creation, 'I looked at the earth, and it was tohu va-vohu') and Isa 34:11 (Edom's coming desolation rendered with the same terms). The Genesis 1:2 description thus becomes the lexical template for chaos-restored. **HEBREW POETRY-RHYTHM:** the verse has internal balance — three subject-state clauses ('the earth was formless+void' / 'darkness over face-of-deep' / 'spirit-of-God hovering over face-of-waters') separated only by waw-conjunctions. Thai narrative tolerance allows the same chained-clause feel. **DEMYTHOLOGIZED COSMOLOGY:** Unlike the Babylonian Enuma Elish where Tiamat (cognate to תְהוֹם) is a chaos-goddess defeated by Marduk, Genesis 1 has no divine combat — God simply speaks order over passive primordial matter. **NT ECHO:** 2 Peter 3:5 (διʼ ὕδατος συνεστῶσα τῷ τοῦ θεοῦ λόγῳ — 'an earth standing out of water and through water by the word of God') reads Gen 1:2 as God's word speaking the cosmos out of the watery deep."
+    }
+  },
+  {
+    "reference": "Genesis 1:3",
+    "chapter": 1,
+    "verse": 3,
+    "language": "hebrew",
+    "hebrew": "וַיֹּ֥אמֶר אֱלֹהִ֖ים יְהִ֣י א֑וֹר וַֽיְהִי־אֽוֹר׃",
+    "bsb_english": "And God said, “Let there be light,” and there was light.",
+    "translation": {
+      "thai": "พระเจ้าตรัสว่า “จงเกิดความสว่าง” และความสว่างก็เกิดขึ้น",
+      "thai_literal": "และพระเจ้าตรัสว่า ความสว่างจงเกิด และความสว่างก็เกิดขึ้น",
+      "thai_summary": "ข้อนี้เป็นข้อที่มีชื่อเสียงที่สุดข้อหนึ่งในพระคัมภีร์ — สูตร “ทรงตรัส-ก็เกิด” (וַיֹּאמֶר... וַיְהִי) ที่บอกถึงพลังของพระวจนะของพระเจ้าซึ่งสร้างสรรค์ พระเจ้าตรัสคำเดียว สิ่งนั้นก็มีอยู่จริง อัครสาวกเปาโลอ้างถึงข้อนี้ใน 2 โครินธ์ 4:6 — “พระเจ้าผู้ตรัสว่า ‘จงให้ความสว่างส่องออกมาจากความมืด’ ก็คือพระองค์ผู้ทรงทำให้ความสว่างนั้นส่องเข้ามาในใจของเรา” — โดยอ่านการสร้างฉบับเดิมเป็นบทเปรียบเทียบของการกลับใจใหม่",
+      "key_decisions": [
+        {
+          "hebrew": "וַיֹּאמֶר אֱלֹהִים",
+          "thai": "พระเจ้าตรัสว่า",
+          "rationale": "Per OT register policy §1.1: divine speech-verbs receive ราชาศัพท์ — אָמַר (Qal: 'say') with God as subject → 'ตรัส' (royal-Thai 'speak/say'). This is the creation-formula opener that recurs 8x in Gen 1 (vv.3, 6, 9, 11, 14, 20, 24, 26, 28, 29). Consistent rendering 'พระเจ้าตรัสว่า' across all occurrences for liturgical-rhythm preservation. Per uW writing-quotations: the verse can also be rendered as command ('Then God commanded'), but the simple speech-verb is the more natural Thai narrative. The wayyiqtol opening is implicit — Thai narrative does not need 'และ' before the speech verb."
+        },
+        {
+          "hebrew": "יְהִי אוֹר",
+          "thai": "จงเกิดความสว่าง",
+          "rationale": "Per uW: 'This is a command, not a permission or a suggestion. It is a direct quote of what God actually said.' The jussive 3ms יְהִי of הָיָה ('let there be / let it be') is a creative imperative directed not at any addressee but at the empty void itself — God commands non-being to become being. Thai 'จงเกิด' (jong-koed, 'let-there-arise') captures the imperative-creative force without specifying an addressee. The mainstream Thai Bibles agree on this rendering (THSV, TNBT). אוֹר = light (visible-luminance, not the source); Thai 'ความสว่าง' (kwam-sawang, 'lightness/brightness') captures this — distinguished from 'ดวงสว่าง' (ดวง=sphere, used for sun/moon/stars in v.14)."
+        },
+        {
+          "hebrew": "וַיְהִי־אוֹר",
+          "thai": "และความสว่างก็เกิดขึ้น",
+          "rationale": "Wayyiqtol of הָיָה — 'and there came to be light.' The exact verbal repetition between the command (יְהִי) and the result (וַיְהִי) is the formula's poetic-narrative force: God speaks, the word executes. Render 'ก็เกิดขึ้น' to preserve the speech-act-result link. Thai 'ก็' (kor) is a sequencing particle meaning 'then-as-a-result.' The 'and' (waw-consecutive) is captured by 'ก็' rather than 'และ.'"
+        }
+      ],
+      "notes": "**SPEECH-EFFICACY FORMULA:** The וַיֹּאמֶר... וַיְהִי pattern recurs throughout Gen 1 — the foundational Hebrew theological claim that God's word does what it says (cf. Isa 55:11 'so shall my word be that goes forth from my mouth; it shall not return to me empty'). **NT ECHOES:** John 1:1-3 (πάντα διʼ αὐτοῦ ἐγένετο); 2 Cor 4:6 (ὁ θεὸς ὁ εἰπών, ἐκ σκότους φῶς λάμψει); Heb 11:3 (πίστει νοοῦμεν κατηρτίσθαι τοὺς αἰῶνας ῥήματι θεοῦ). The light-creation is read in Christian tradition as a type of regeneration (light into darkened heart). **CHIASTIC PAIR:** vv.3-5 (light) parallels vv.14-19 (lights) — day 1 and day 4 form the first creation-pair in the chiastic structure of the chapter."
+    }
+  },
+  {
+    "reference": "Genesis 1:4",
+    "chapter": 1,
+    "verse": 4,
+    "language": "hebrew",
+    "hebrew": "וַיַּ֧רְא אֱלֹהִ֛ים אֶת־הָא֖וֹר כִּי־ט֑וֹב וַיַּבְדֵּ֣ל אֱלֹהִ֔ים בֵּ֥ין הָא֖וֹר וּבֵ֥ין הַחֹֽשֶׁךְ׃",
+    "bsb_english": "And God saw that the light was good, and He separated the light from the darkness.",
+    "translation": {
+      "thai": "พระเจ้าทรงเห็นว่าความสว่างนั้นดี และพระเจ้าทรงแยกความสว่างออกจากความมืด",
+      "thai_literal": "และพระเจ้าทรงเห็นความสว่างว่าดี และพระเจ้าทรงแยกระหว่างความสว่างกับความมืด",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "וַיַּרְא אֱלֹהִים אֶת־הָאוֹר כִּי־טוֹב",
+          "thai": "พระเจ้าทรงเห็นว่าความสว่างนั้นดี",
+          "rationale": "Per uW: 'good' (טוֹב) here means 'high quality, complete, no defects' — what God created had all the characteristics and functions God intended. Not pleasure-satisfaction but quality-judgment. Recurs 7x in Gen 1 (vv.4, 10, 12, 18, 21, 25, 31). Render 'พระเจ้าทรงเห็นว่า...ดี' consistently. The verb רָאָה (Qal) with God as subject takes ราชาศัพท์ 'ทรงเห็น.' Per uW figs-explicit: Thai (like English) needs to specify what was good — render 'ความสว่างนั้นดี' (the light was good), not just 'ทรงเห็นว่าดี' (saw that good). When the object is implicit later in the chapter, supply 'สิ่งนี้' (this)."
+        },
+        {
+          "hebrew": "וַיַּבְדֵּל אֱלֹהִים בֵּין הָאוֹר וּבֵין הַחֹשֶׁךְ",
+          "thai": "พระเจ้าทรงแยกความสว่างออกจากความมืด",
+          "rationale": "בָּדַל (Hiphil: 'separate, distinguish') — divine action of differentiation, the structural verb of days 1-4. Recurs vv.4, 6, 7, 14, 18 — God's primary creative-act after speaking is separating. Render 'ทรงแยก' (royal-Thai for divine action). The Hebrew בֵּין... וּבֵין... ('between... and between...') is a doubled-preposition structure for binary distinction; Thai compresses to 'ออกจาก' (out from) which captures the directional-separation. Lock: בָּדַל (divine subject) → ทรงแยก."
+        }
+      ],
+      "notes": "**STRUCTURAL VERB:** 'separate' (בָּדַל) is days 1-4's signature creative-act (vv.4, 6, 7, 14, 18). The separation-then-filling pattern structures the chapter: days 1-3 separate domains (light/dark, waters/firmament, sea/land); days 4-6 fill those domains (sun/moon/stars, sea-creatures/birds, animals/humans). **THEOLOGY-OF-GOOD:** the seven-fold 'and it was good' culminates in v.31's 'very good' (טוֹב מְאֹד). The Hebrew 'good' is teleological — what fits God's purpose, complete in form."
+    }
+  },
+  {
+    "reference": "Genesis 1:5",
+    "chapter": 1,
+    "verse": 5,
+    "language": "hebrew",
+    "hebrew": "וַיִּקְרָ֨א אֱלֹהִ֤ים׀לָאוֹר֙ י֔וֹם וְלַחֹ֖שֶׁךְ קָ֣רָא לָ֑יְלָה וַֽיְהִי־עֶ֥רֶב וַֽיְהִי־בֹ֖קֶר י֥וֹם אֶחָֽד׃פ",
+    "bsb_english": "God called the light “day,” and the darkness He called “night.” And there was evening, and there was morning—the first day.",
+    "translation": {
+      "thai": "พระเจ้าทรงเรียกความสว่างว่า “วัน” และทรงเรียกความมืดว่า “คืน” ก็มีเวลาเย็นและเวลาเช้า เป็นวันที่หนึ่ง",
+      "thai_literal": "และพระเจ้าทรงเรียกความสว่างว่า ‘วัน’ และความมืดพระองค์ทรงเรียกว่า ‘คืน’ และก็มีเวลาเย็น และก็มีเวลาเช้า วันหนึ่ง",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "וַיִּקְרָא אֱלֹהִים לָאוֹר יוֹם",
+          "thai": "พระเจ้าทรงเรียกความสว่างว่า “วัน”",
+          "rationale": "קָרָא (Qal: 'call, name') — divine name-giving, recurs vv.5, 8, 10. The name-giving establishes authority over the named thing (cf. Adam naming the animals in Gen 2:19-20). Render 'ทรงเรียก' (royal-Thai). Per uW: 'in this context the word Day refers only to the time when the sun is shining, not to the 24-hour time period.' The same יוֹם later in the verse (יוֹם אֶחָד) refers to the full 24-hour day. Thai handles the polysemy with the same word 'วัน' (which also covers both daytime + 24hr-day) — natural cross-language parallel."
+        },
+        {
+          "hebrew": "וַיְהִי־עֶרֶב וַיְהִי־בֹקֶר",
+          "thai": "ก็มีเวลาเย็นและเวลาเช้า",
+          "rationale": "The day-formula closing every creative-day (vv.5, 8, 13, 19, 23, 31). Per uW grammar-connect-time-sequential: 'Make sure your translation does not sound like morning came immediately after evening. Some languages have a one-word conjunction that means and then or and later and would fit well here.' Thai 'ก็' (sequencing particle) handles this — implies 'then.' Render the formula identically across all six occurrences: 'ก็มีเวลาเย็นและเวลาเช้า.' Hebrew counting-day starts at evening (Jewish liturgical day from sundown) — preserve order: evening-then-morning, not morning-then-evening."
+        },
+        {
+          "hebrew": "יוֹם אֶחָד",
+          "thai": "เป็นวันที่หนึ่ง",
+          "rationale": "Per uW translate-ordinal: 'The Hebrew text uses a cardinal number (one) here, but then uses ordinal numbers (second, third, and so on) for the rest of the days. Some languages need to use an ordinal number (first) here too. Other languages use cardinal numbers throughout (day one, day two, and so on).' Thai 'วันที่หนึ่ง' (literally 'day-which-one' = 'day number one') is the natural Thai expression — uses the same numbered-pattern for all six days (วันที่หนึ่ง, วันที่สอง, วันที่สาม, วันที่สี่, วันที่ห้า, วันที่หก). The Hebrew cardinal-vs-ordinal switch is preserved in thai_literal as 'วันหนึ่ง' (cardinal-style) for the scholarly reading."
+        }
+      ],
+      "notes": "**DAY-FORMULA TEMPLATE:** the closing formula 'evening + morning + Nth day' bookends each creative-day (vv.5, 8, 13, 19, 23, 31). The fixed structure is one of Genesis 1's most distinctive narrative features. **HEBREW DAY-RECKONING:** the Hebrew calendrical day runs sundown-to-sundown (evening-then-morning), reflected in Jewish festal observance still today; the Genesis text canonizes this. **CARDINAL-VS-ORDINAL:** v.5 'one' (אֶחָד, cardinal) vs vv.8, 13, etc. 'second/third/...' (ordinals שֵׁנִי, שְׁלִישִׁי, etc.) — possible reading of יוֹם אֶחָד as 'a single day' (the prototype-day) rather than 'first day' in a sequence. Thai uses ordinal-pattern throughout for naturalness."
+    }
+  },
+  {
+    "reference": "Genesis 1:6",
+    "chapter": 1,
+    "verse": 6,
+    "language": "hebrew",
+    "hebrew": "וַיֹּ֣אמֶר אֱלֹהִ֔ים יְהִ֥י רָקִ֖יעַ בְּת֣וֹךְ הַמָּ֑יִם וִיהִ֣י מַבְדִּ֔יל בֵּ֥ין מַ֖יִם לָמָֽיִם׃",
+    "bsb_english": "And God said, “Let there be an expanse between the waters, to separate the waters from the waters.”",
+    "translation": {
+      "thai": "พระเจ้าตรัสว่า “จงเกิดแผ่นฟ้าในระหว่างน้ำ ให้แยกน้ำออกจากน้ำ”",
+      "thai_literal": "และพระเจ้าตรัสว่า แผ่นฟ้าจงเกิดอยู่ในท่ามกลางน้ำ และมันจงเป็นการแยกระหว่างน้ำกับน้ำ",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "רָקִיעַ",
+          "thai": "แผ่นฟ้า",
+          "rationale": "Per uW translate-unknown: 'The Hebrew word for expanse here describes a large space that is spread out. It was not solid, but rather it was open and empty, and it could be seen through and flown through (verse 20). It was probably also curved, following the spherical shape of the earth.' רָקִיעַ derives from רָקַע ('beat out, hammer flat') — etymologically suggests a beaten-metal-sheet-like firmament (LXX στερέωμα 'firm vault'; Vg firmamentum). Modern translations debate 'expanse' (NIV, ESV) vs 'firmament' (KJV, NASB margin). Thai 'แผ่นฟ้า' (literally 'sheet/sky') captures the Hebrew shape (spread-out + sky-domain) without forcing solid-vault cosmology. Glossary lock: רָקִיעַ → แผ่นฟ้า throughout the chapter."
+        },
+        {
+          "hebrew": "בְּתוֹךְ הַמָּיִם",
+          "thai": "ในระหว่างน้ำ",
+          "rationale": "תוֹךְ (middle, midst) construct → 'in the middle/midst of the waters.' Thai 'ในระหว่าง' (between, amid) preserves the locative. Note: הַמָּיִם is plural-form in Hebrew (mayim is grammatically plural always); Thai uses singular-form 'น้ำ' (water) which covers both — natural simplification per uW note v.2."
+        }
+      ],
+      "notes": "**ANCIENT COSMOLOGY:** Day 2's separation of waters above/below the firmament reflects ancient Near Eastern three-tiered cosmology (waters above the sky, sky-vault, earth-with-seas). Modern readers should not imagine literal water reservoirs above the sky — Hebrew is using its cultural cosmology to communicate the theological point that God orders creation. The same imagery recurs at the Flood (Gen 7:11 'windows of the heavens were opened') and in Pss 104:3, 148:4."
+    }
+  },
+  {
+    "reference": "Genesis 1:7",
+    "chapter": 1,
+    "verse": 7,
+    "language": "hebrew",
+    "hebrew": "וַיַּ֣עַשׂ אֱלֹהִים֮ אֶת־הָרָקִיעַ֒ וַיַּבְדֵּ֗ל בֵּ֤ין הַמַּ֨יִם֙ אֲשֶׁר֙ מִתַּ֣חַת לָרָקִ֔יעַ וּבֵ֣ין הַמַּ֔יִם אֲשֶׁ֖ר מֵעַ֣ל לָרָקִ֑יעַ וַֽיְהִי־כֵֽן׃",
+    "bsb_english": "So God made the expanse and separated the waters beneath it from the waters above. And it was so.",
+    "translation": {
+      "thai": "พระเจ้าจึงทรงสร้างแผ่นฟ้า และทรงแยกน้ำที่อยู่ใต้แผ่นฟ้าออกจากน้ำที่อยู่เหนือแผ่นฟ้า ก็เป็นเช่นนั้น",
+      "thai_literal": "และพระเจ้าทรงสร้างแผ่นฟ้า และทรงแยกระหว่างน้ำที่อยู่ใต้แผ่นฟ้ากับน้ำที่อยู่เหนือแผ่นฟ้า และก็เป็นเช่นนั้น",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "וַיַּעַשׂ",
+          "thai": "ทรงสร้าง",
+          "rationale": "עָשָׂה (Qal: 'do, make') — general creative verb, broader than בָּרָא (which is creation-specific-to-God). Recurs vv.7, 16, 25, 26, 31. Per uW: 'Verse 7 explains what God's command in verse 6 caused to happen, and it repeats some of the same words and phrases. Make sure that your translation of these verses does not sound like God created the expanse twice.' Thai 'จึง' (then-as-result) supplies the cause-effect connector — God-said-X (v.6) → God-then-made-X (v.7). Lock: divine-subject עָשָׂה → ทรงสร้าง (same Thai verb as for בָּרָא; the lexical distinction בָּרָא-vs-עָשָׂה is preserved in thai_literal + key_decisions, not in main thai)."
+        },
+        {
+          "hebrew": "וַיְהִי־כֵן",
+          "thai": "ก็เป็นเช่นนั้น",
+          "rationale": "Refrain throughout the chapter (vv.7, 9, 11, 15, 24, 30) — 'and it was so' confirms each command's instant execution. Per uW figs-explicit: 'Everything was exactly as he commanded it to be.' Thai 'ก็เป็นเช่นนั้น' (kor-pen-chen-nan, 'and so it was') is the locked refrain rendering. Avoid varying — the Hebrew formula's verbatim repetition is a deliberate liturgical-narrative device."
+        }
+      ],
+      "notes": "**COMMAND-AND-EXECUTION DOUBLET:** vv.6+7 form the day-2 doublet — God says (v.6), God does (v.7), it was so. Same pattern at days 3, 4, 6. The deliberate repetition emphasizes word-deed unity in divine creation."
+    }
+  },
+  {
+    "reference": "Genesis 1:8",
+    "chapter": 1,
+    "verse": 8,
+    "language": "hebrew",
+    "hebrew": "וַיִּקְרָ֧א אֱלֹהִ֛ים לָֽרָקִ֖יעַ שָׁמָ֑יִם וַֽיְהִי־עֶ֥רֶב וַֽיְהִי־בֹ֖קֶר י֥וֹם שֵׁנִֽי׃פ",
+    "bsb_english": "God called the expanse “sky.” And there was evening, and there was morning—the second day.",
+    "translation": {
+      "thai": "พระเจ้าทรงเรียกแผ่นฟ้าว่า “ฟ้า” ก็มีเวลาเย็นและเวลาเช้า เป็นวันที่สอง",
+      "thai_literal": "และพระเจ้าทรงเรียกแผ่นฟ้าว่า ‘ฟ้า’ และก็มีเวลาเย็น และก็มีเวลาเช้า วันที่สอง",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "שָׁמָיִם",
+          "thai": "ฟ้า",
+          "rationale": "Per uW: 'This word probably refers here to the atmosphere above the earth's surface, where clouds are and where birds fly, as well as the space where the sun, moon, and stars are now. Be consistent here with how you translated this term in verse 1.' But there is a contextual shift: in v.1 הַשָּׁמַיִם means the cosmic 'heavens' (rendered 'ฟ้าสวรรค์' as merism-pair); here in v.8 it is the named atmospheric domain (sky-as-place). Render simpler 'ฟ้า' (sky/heaven) — matching the everyday Thai term for sky. The same שָׁמַיִם is again 'sky' in vv.14, 17, 20, 26, 28 (where birds fly, lights are placed). Lock: שָׁמַיִם → ฟ้า (atmospheric-context); → ฟ้าสวรรค์ (cosmic-merism with 'and earth'). The contextual rendering is recorded in key_decisions."
+        }
+      ],
+      "notes": "**LEXICAL POLYSEMY:** שָׁמַיִם covers (1) cosmic heavens (v.1), (2) sky/atmosphere (v.8 onward), (3) the visible-vault containing celestial lights (v.14ff). Thai 'ฟ้า' similarly covers sky + heaven; the merism-form 'ฟ้าสวรรค์' is used only when paired with 'earth' as cosmic-totality. **DAY-2 OMISSION:** unlike days 1, 3, 4, 5, 6, day 2 lacks the 'and God saw that it was good' refrain. Some commentators read this as a deliberate signal that the waters-separation is incomplete until day 3 (when the lower waters are gathered to form sea + land); others see no special significance. The Eremos translation simply preserves the Hebrew omission; no interpretive flourish."
+    }
+  },
+  {
+    "reference": "Genesis 1:9",
+    "chapter": 1,
+    "verse": 9,
+    "language": "hebrew",
+    "hebrew": "וַיֹּ֣אמֶר אֱלֹהִ֗ים יִקָּו֨וּ הַמַּ֜יִם מִתַּ֤חַת הַשָּׁמַ֨יִם֙ אֶל־מָק֣וֹם אֶחָ֔ד וְתֵרָאֶ֖ה הַיַּבָּשָׁ֑ה וַֽיְהִי־כֵֽן׃",
+    "bsb_english": "And God said, “Let the waters under the sky be gathered into one place, so that the dry land may appear.” And it was so.",
+    "translation": {
+      "thai": "พระเจ้าตรัสว่า “จงให้น้ำใต้ฟ้ามารวมกันในที่เดียว และให้แผ่นดินแห้งปรากฏ” ก็เป็นเช่นนั้น",
+      "thai_literal": "และพระเจ้าตรัสว่า น้ำที่อยู่ใต้ฟ้าจงมารวมกันยังที่แห่งเดียว และแผ่นดินแห้งจงปรากฏ และก็เป็นเช่นนั้น",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יִקָּווּ הַמַּיִם",
+          "thai": "จงให้น้ำมารวมกัน",
+          "rationale": "Per uW figs-activepassive: 'Consider whether it is better here in your language to use a passive form of the verb (be gathered) or an active form (gather or come).' The Hebrew Niphal יִקָּווּ is passive-jussive ('let them be gathered'). Thai prefers active-causative for divine command-imperatives ('let X come together'). Render 'จงให้น้ำมารวมกัน' (jong-hai... ma-ruam-kan, 'let-the-waters come-together') with the active gathering-motion."
+        },
+        {
+          "hebrew": "וְתֵרָאֶה הַיַּבָּשָׁה",
+          "thai": "และให้แผ่นดินแห้งปรากฏ",
+          "rationale": "Per uW: 'The water had been covering the land, so when the water receded from it, the land became exposed and dried off. Make sure that the way you translate dry ground does not sound like the land was dry while it was under the water.' יַבָּשָׁה (yabbashah) = dry-land (specifically the dried-out land that emerged from under water). Thai 'แผ่นดินแห้ง' (dry land) preserves the contrast with submerged-state. Locked rendering for יַבָּשָׁה in OT corpus."
+        }
+      ],
+      "notes": "**SEPARATION-CONTINUES:** day 3 (vv.9-13) completes the structural separation begun in day 2 — the lower waters are now divided from land. Days 1-3 separate domains (light/dark, waters-above/waters-below, sea/land); days 4-6 fill those domains."
+    }
+  },
+  {
+    "reference": "Genesis 1:10",
+    "chapter": 1,
+    "verse": 10,
+    "language": "hebrew",
+    "hebrew": "וַיִּקְרָ֨א אֱלֹהִ֤ים׀לַיַּבָּשָׁה֙ אֶ֔רֶץ וּלְמִקְוֵ֥ה הַמַּ֖יִם קָרָ֣א יַמִּ֑ים וַיַּ֥רְא אֱלֹהִ֖ים כִּי־טֽוֹב׃",
+    "bsb_english": "God called the dry land “earth,” and the gathering of waters He called “seas.” And God saw that it was good.",
+    "translation": {
+      "thai": "พระเจ้าทรงเรียกแผ่นดินแห้งว่า “แผ่นดิน” และทรงเรียกที่ที่น้ำมารวมกันว่า “ทะเล” และพระเจ้าทรงเห็นว่าสิ่งนี้ดี",
+      "thai_literal": "และพระเจ้าทรงเรียกแผ่นดินแห้งว่า ‘แผ่นดิน’ และที่รวมน้ำพระองค์ทรงเรียกว่า ‘ทะเล’ และพระเจ้าทรงเห็นว่าดี",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "אֶרֶץ",
+          "thai": "แผ่นดิน",
+          "rationale": "Per uW: 'This is the same Hebrew word that is translated as earth in verse 1, but here it refers to the dry land or ground (in contrast to the water), and not to the entire planet.' Thai must distinguish: v.1 'แผ่นดินโลก' (the planet earth, paired with heavens); v.10 'แผ่นดิน' (land-mass, in contrast to seas). Lock: אֶרֶץ as land-domain → แผ่นดิน; אֶרֶץ as planet-totality → แผ่นดินโลก. Most subsequent uses in the chapter are land-mass or planet-as-totality depending on context — recorded per-verse in key_decisions when ambiguous."
+        },
+        {
+          "hebrew": "יַמִּים",
+          "thai": "ทะเล",
+          "rationale": "Per uW: 'At that time there was probably just one very large body of water and one very large landmass on the earth (as verse 9 indicates). So a singular noun that refers to the largest body of water, such as Ocean or Sea, could be used here.' The Hebrew יַמִּים is plural-form (yam=sea, yammim=seas), but the geological reading suggests pre-Pangaea-style proto-singular ocean. Thai 'ทะเล' is mass/category and works for both reading. Modern Hebrew + Thai readers naturally read 'seas' (plural) with no semantic problem."
+        }
+      ],
+      "notes": "**NAMING SCENE:** vv.5, 8, 10 contain the divine name-giving for each new creation: light/darkness → day/night; expanse → sky; dry-land + waters-collected → earth + seas. The naming establishes order; subsequent name-giving is delegated to humanity (v.20-cf., v.28 cf., 2:19-20). **DAY-3 FIRST 'GOOD':** v.10 contains the first 'and it was good' of day 3; v.12 will repeat it after the plant-creation. Day 3 is the only day with the 'good' refrain twice — perhaps compensating for day 2's omission, or marking the dual works of separation (vv.9-10) + filling (vv.11-12)."
+    }
+  },
+  {
+    "reference": "Genesis 1:11",
+    "chapter": 1,
+    "verse": 11,
+    "language": "hebrew",
+    "hebrew": "וַיֹּ֣אמֶר אֱלֹהִ֗ים תַּֽדְשֵׁ֤א הָאָ֨רֶץ֙ דֶּ֔שֶׁא עֵ֚שֶׂב מַזְרִ֣יעַ זֶ֔רַע עֵ֣ץ פְּרִ֞י עֹ֤שֶׂה פְּרִי֙ לְמִינ֔וֹ אֲשֶׁ֥ר זַרְעוֹ־ב֖וֹ עַל־הָאָ֑רֶץ וַֽיְהִי־כֵֽן׃",
+    "bsb_english": "Then God said, “Let the earth bring forth vegetation: seed-bearing plants and fruit trees, each bearing fruit with seed according to its kind.” And it was so.",
+    "translation": {
+      "thai": "พระเจ้าตรัสว่า “จงให้แผ่นดินผลิพืชพรรณ คือผักที่มีเมล็ด และต้นไม้ที่ออกผลตามชนิดของมันบนแผ่นดิน ที่มีเมล็ดอยู่ในผลของมัน” ก็เป็นเช่นนั้น",
+      "thai_literal": "และพระเจ้าตรัสว่า แผ่นดินจงผลิ-ผลิ คือผักที่มีเมล็ด ต้นไม้ที่ออกผล กำลังออกผลตามชนิดของมัน ที่มีเมล็ดของมันอยู่ในตัวมันบนแผ่นดิน และก็เป็นเช่นนั้น",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "תַּדְשֵׁא הָאָרֶץ דֶּשֶׁא",
+          "thai": "จงให้แผ่นดินผลิพืชพรรณ",
+          "rationale": "**COGNATE ACCUSATIVE PATTERN** — the verb תַּדְשֵׁא (Hiphil 3fs of דָּשָׁא 'sprout') with cognate noun-object דֶּשֶׁא ('sprouting, vegetation') is a Hebrew emphatic-construction: 'let-the-earth sprout sprouting.' Same pattern as v.20 (יִשְׁרְצוּ הַמַּיִם שֶׁרֶץ — 'let-the-waters teem teeming') and similar to Jonah 4:1 + 1:10 (cognate-accusatives). Per Jonah corpus precedent (key_decisions for Jon 4:1): render with Thai adverbial intensification or natural-Thai compound, not verb-doubling. Here 'จงให้แผ่นดินผลิพืชพรรณ' (let-the-earth sprout vegetation/plants) — 'ผลิ' (sprout) + 'พืชพรรณ' (plant-life) preserves the verb+cognate-noun energy. The thai_literal preserves 'ผลิ-ผลิ' for transparency."
+        },
+        {
+          "hebrew": "עֵשֶׂב מַזְרִיעַ זֶרַע",
+          "thai": "ผักที่มีเมล็ด",
+          "rationale": "Per uW: 'these kinds of plants have soft stems and include vegetable plants, herbs and other plants that produce edible seeds, such as rice, corn, and wheat.' עֵשֶׂב = soft-stemmed plants (vegetables/herbs/grasses); זֶרַע = seed; מַזְרִיעַ = seed-producing. Render 'ผักที่มีเมล็ด' (vegetables/plants that have seed) — captures both seed-bearing nature and soft-plant category. Distinguished from עֵץ (woody-tree)."
+        },
+        {
+          "hebrew": "עֵץ פְּרִי עֹשֶׂה פְּרִי לְמִינוֹ",
+          "thai": "ต้นไม้ที่ออกผลตามชนิดของมัน",
+          "rationale": "עֵץ פְּרִי = fruit-tree (literally tree-of-fruit, construct). Per uW: 'each different kind of tree produces its own kind of fruit and seeds, which grow and become only that kind of tree. For example, apple trees always produce apples with apple seeds, never peaches or cherries.' לְמִין (according-to-its-kind) is the chapter's biological-ordering refrain — recurs vv.11, 12, 21, 24, 25 with various suffix forms. Lock: לְמִין → ตามชนิดของมัน (according-to-its-species/kind). Consistent across all 10 occurrences in the chapter."
+        }
+      ],
+      "notes": "**LEMINO REFRAIN:** לְמִין ('according-to-its-kind') recurs 10x in vv.11, 12, 21, 24, 25 — establishing the biological-categorical order God built into creation. Each species reproduces its own kind. Theologically read: divine ordering preserves stable categories. The Thai 'ตามชนิดของมัน' is locked. **COGNATE-ACCUSATIVE PATTERN:** v.11's 'sprout-sprouting' parallels v.20's 'teem-teeming' — both cases of Hebrew emphatic-cognate-construction. Render with Thai natural compound, not verb-doubling. Documented in glossary entry 'Cognate accusative pattern.'"
+    }
+  },
+  {
+    "reference": "Genesis 1:12",
+    "chapter": 1,
+    "verse": 12,
+    "language": "hebrew",
+    "hebrew": "וַתּוֹצֵ֨א הָאָ֜רֶץ דֶּ֠שֶׁא עֵ֣שֶׂב מַזְרִ֤יעַ זֶ֨רַע֙ לְמִינֵ֔הוּ וְעֵ֧ץ עֹֽשֶׂה־פְּרִ֛יאֲשֶׁ֥ר זַרְעוֹ־ב֖וֹ לְמִינֵ֑הוּ וַיַּ֥רְא אֱלֹהִ֖ים כִּי־טֽוֹב׃",
+    "bsb_english": "The earth produced vegetation: seed-bearing plants according to their kinds and trees bearing fruit with seed according to their kinds. And God saw that it was good.",
+    "translation": {
+      "thai": "แผ่นดินก็ผลิพืชพรรณ คือผักที่มีเมล็ดตามชนิดของมัน และต้นไม้ที่ออกผลที่มีเมล็ดอยู่ในผลตามชนิดของมัน และพระเจ้าทรงเห็นว่าสิ่งนี้ดี",
+      "thai_literal": "และแผ่นดินก็นำออกมา ผลิ-ผลิ ผักที่มีเมล็ดตามชนิดของมัน และต้นไม้ที่ออกผล ที่มีเมล็ดของมันในตัวมันตามชนิดของมัน และพระเจ้าทรงเห็นว่าดี",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "וַתּוֹצֵא הָאָרֶץ",
+          "thai": "แผ่นดินก็ผลิ",
+          "rationale": "יָצָא (Hiphil 'cause to come out, produce') — earth as the implementing-instrument of God's command. Per uW: 'Verse 12 explains what God's command in verse 11 caused to happen, and it repeats some of the same words and phrases. Make sure that your translation of these verses does not sound like God created the plants twice.' Render 'ก็ผลิ' (then-sprouted, with 'ก็' as cause-effect connector). The wayyiqtol וַתּוֹצֵא is the result of the v.11 command."
+        }
+      ],
+      "notes": "**COMMAND-EXECUTION DOUBLET:** vv.11+12 mirror days 2 (vv.6-7) and 6 (vv.24-25) in the command-then-execution doublet pattern."
+    }
+  },
+  {
+    "reference": "Genesis 1:13",
+    "chapter": 1,
+    "verse": 13,
+    "language": "hebrew",
+    "hebrew": "וַֽיְהִי־עֶ֥רֶב וַֽיְהִי־בֹ֖קֶר י֥וֹם שְׁלִישִֽׁי׃פ",
+    "bsb_english": "And there was evening, and there was morning—the third day.",
+    "translation": {
+      "thai": "ก็มีเวลาเย็นและเวลาเช้า เป็นวันที่สาม",
+      "thai_literal": "และก็มีเวลาเย็น และก็มีเวลาเช้า วันที่สาม",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יוֹם שְׁלִישִׁי",
+          "thai": "เป็นวันที่สาม",
+          "rationale": "Day-formula refrain — see v.5 for the full key_decision on the formula. Cardinal-vs-ordinal handling: Hebrew uses ordinals from day 2 onward (v.5 was cardinal אֶחָד; vv.8, 13, 19, 23, 31 are ordinals שֵׁנִי, שְׁלִישִׁי, רְבִיעִי, חֲמִישִׁי, שִׁשִּׁי). Thai uses ordinal-pattern throughout for naturalness."
+        }
+      ],
+      "notes": "Day-3 closure formula. End of separation-phase (days 1-3); creation now turns to filling-phase (days 4-6)."
+    }
+  },
+  {
+    "reference": "Genesis 1:14",
+    "chapter": 1,
+    "verse": 14,
+    "language": "hebrew",
+    "hebrew": "וַיֹּ֣אמֶר אֱלֹהִ֗ים יְהִ֤י מְאֹרֹת֙ בִּרְקִ֣יעַ הַשָּׁמַ֔יִם לְהַבְדִּ֕יל בֵּ֥ין הַיּ֖וֹם וּבֵ֣ין הַלָּ֑יְלָה וְהָי֤וּ לְאֹתֹת֙ וּלְמ֣וֹעֲדִ֔ים וּלְיָמִ֖ים וְשָׁנִֽים׃",
+    "bsb_english": "And God said, “Let there be lights in the expanse of the sky to distinguish between the day and the night, and let them be signs to mark the seasons and days and years.",
+    "translation": {
+      "thai": "พระเจ้าตรัสว่า “จงเกิดดวงสว่างในแผ่นฟ้าเพื่อแยกวันออกจากคืน และให้เป็นหมายสำคัญบอกฤดูกาล วัน และปี",
+      "thai_literal": "และพระเจ้าตรัสว่า ดวงสว่างจงเกิดในแผ่นฟ้าของฟ้า เพื่อแยกระหว่างวันกับคืน และพวกมันจงเป็นเพื่อหมายสำคัญ และเพื่อฤดูกำหนด และเพื่อวันและปี",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "מְאֹרֹת",
+          "thai": "ดวงสว่าง",
+          "rationale": "Per uW translate-unknown: 'These lights refer to the sun, the moon, and stars that give off light. But it is important to keep this general in your translation (like the Hebrew text does) and not specify the names of these lights.' מָאוֹר (singular) = light-bearer/luminary; מְאֹרֹת (plural) = luminaries. Hebrew deliberately avoids שֶׁמֶשׁ (sun) and יָרֵחַ (moon) — possibly to anti-mythologize the sun-and-moon (which were worshiped as deities in surrounding ANE cultures). Render 'ดวงสว่าง' (sphere-of-light = luminary) preserving the abstract category. Thai 'ดวง' is the classifier for spherical-luminous bodies (sun, moon, stars). Distinguished from 'แสงสว่าง' (light-as-illumination) or 'ความสว่าง' (lightness)."
+        },
+        {
+          "hebrew": "וְהָיוּ לְאֹתֹת וּלְמוֹעֲדִים וּלְיָמִים וְשָׁנִים",
+          "thai": "ให้เป็นหมายสำคัญบอกฤดูกาล วัน และปี",
+          "rationale": "Per uW translate-unknown on the four-fold purpose: 'The sun and moon show the passing of time. For example, the 30-day month is determined by the phases of the moon, and the 365-day year is determined by the time it takes for the earth to travel around the sun. The seasons are regular times of the year, such as seed-planting and harvesting times, and the seasons of spring, summer, fall and winter, as well as the special festivals which God appointed for his people to meet with him.' אֹת (signs) — for navigation/portents; מוֹעֵד (appointed-times) — including liturgical festivals (Lev 23, Num 28-29) AND agricultural seasons; יוֹם (day); שָׁנָה (year). Render 'หมายสำคัญ + ฤดูกาล + วัน + ปี' covering the four functional categories. Note: מוֹעֲדִים becomes the technical term for the festival-calendar throughout Lev/Num — preserving 'ฤดูกาล' here keeps the seasonal-and-festal door open."
+        }
+      ],
+      "notes": "**ANTI-MYTHOLOGICAL POLEMIC:** Hebrew deliberately avoids שֶׁמֶשׁ (sun, also a Canaanite deity-name) and יָרֵחַ (moon, also a deity-name in some traditions) — using מָאוֹר (luminary) instead. The sun and moon are demoted to mere lamps in God's sky, not divinities. **CALENDRICAL FUNCTION:** the four-fold purpose (signs, seasons, days, years) anticipates the Israelite festal calendar — the מוֹעֲדִים are technically the appointed feasts of Lev 23 (Passover, Weeks, Tabernacles, etc.), suggesting that the cosmic calendar is ordered toward Israel's worship-cycle from creation."
+    }
+  },
+  {
+    "reference": "Genesis 1:15",
+    "chapter": 1,
+    "verse": 15,
+    "language": "hebrew",
+    "hebrew": "וְהָי֤וּ לִמְאוֹרֹת֙ בִּרְקִ֣יעַ הַשָּׁמַ֔יִם לְהָאִ֖יר עַל־הָאָ֑רֶץ וַֽיְהִי־כֵֽן׃",
+    "bsb_english": "And let them serve as lights in the expanse of the sky to shine upon the earth.” And it was so.",
+    "translation": {
+      "thai": "และให้เป็นดวงสว่างในแผ่นฟ้าเพื่อให้แสงสว่างแก่แผ่นดินโลก” ก็เป็นเช่นนั้น",
+      "thai_literal": "และพวกมันจงเป็นเพื่อดวงสว่าง ในแผ่นฟ้าของฟ้า เพื่อให้แสงสว่างบนแผ่นดินโลก และก็เป็นเช่นนั้น",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "לְהָאִיר עַל־הָאָרֶץ",
+          "thai": "เพื่อให้แสงสว่างแก่แผ่นดินโลก",
+          "rationale": "אוֹר (Hiphil 'to give light, illuminate') with object 'over the earth.' Render 'ให้แสงสว่างแก่แผ่นดินโลก' — the lights' purpose is to illuminate the inhabited cosmos. Note: here אֶרֶץ refers to the inhabited-earth/planet (cosmic-scope), so 'แผ่นดินโลก' (planet-earth) — distinguished from v.10 'แผ่นดิน' (land-mass-vs-sea)."
+        }
+      ],
+      "notes": "Continues the day-4 instruction begun in v.14. The lights serve dual purpose: calendrical (v.14) + illuminative (v.15)."
+    }
+  },
+  {
+    "reference": "Genesis 1:16",
+    "chapter": 1,
+    "verse": 16,
+    "language": "hebrew",
+    "hebrew": "וַיַּ֣עַשׂ אֱלֹהִ֔ים אֶת־שְׁנֵ֥י הַמְּאֹרֹ֖ת הַגְּדֹלִ֑ים אֶת־הַמָּא֤וֹר הַגָּדֹל֙ לְמֶמְשֶׁ֣לֶת הַיּ֔וֹם וְאֶת־הַמָּא֤וֹר הַקָּטֹן֙ לְמֶמְשֶׁ֣לֶת הַלַּ֔יְלָה וְאֵ֖ת הַכּוֹכָבִֽים׃",
+    "bsb_english": "God made two great lights: the greater light to rule the day and the lesser light to rule the night. And He made the stars as well.",
+    "translation": {
+      "thai": "พระเจ้าจึงทรงสร้างดวงสว่างใหญ่สองดวง คือดวงใหญ่ให้ครองวัน และดวงเล็กให้ครองคืน และพระองค์ทรงสร้างดวงดาวทั้งหลายด้วย",
+      "thai_literal": "และพระเจ้าทรงสร้างดวงสว่างใหญ่ทั้งสอง คือดวงสว่างใหญ่เพื่อการครองของวัน และดวงสว่างเล็กเพื่อการครองของคืน และดวงดาวทั้งหลาย",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "שְׁנֵי הַמְּאֹרֹת הַגְּדֹלִים",
+          "thai": "ดวงสว่างใหญ่สองดวง",
+          "rationale": "Per uW: 'This phrase refers to the sun and the moon, which are the two brightest objects in the earth's sky. However, the author intentionally does not use their names, so you should not include their names in your translation either.' Preserve Hebrew anti-mythological reticence — don't name them sun/moon (ดวงอาทิตย์/ดวงจันทร์) in main text; keep the abstract 'two great luminaries.' Note also uW: 'The focus is on the relative brightness or strength of the lights, not on their size.' The Hebrew גָּדֹל (great) and קָטֹן (small) are size-words functionally meaning bright/dim — Thai 'ใหญ่/เล็ก' (big/small) preserves the same metaphor (brightness-as-magnitude is universal across languages)."
+        },
+        {
+          "hebrew": "לְמֶמְשֶׁלֶת",
+          "thai": "ให้ครอง",
+          "rationale": "Per uW figs-personification: 'The word rule is a figure of speech that means each light has the greatest effect during a particular time period, because it is the brightest light that is shining then. For some languages, nonliving objects like the sun and the moon cannot rule because only people can do that. Do what is accurate and natural in your language.' מֶמְשָׁלָה = dominion, rule, authority. Thai 'ครอง' (govern, dominate) preserves the personification — Thai is comfortable with this metaphor. Lock: מָשַׁל / מֶמְשָׁלָה (of celestial bodies) → ครอง / การครอง."
+        }
+      ],
+      "notes": "**RESTRAINED CREATION OF STARS:** the stars (כּוֹכָבִים) are mentioned in a single closing phrase, almost as an afterthought. This is a deliberate anti-mythological deflation — in surrounding ANE cosmologies, stars were worshiped as celestial deities (Babylonian astrology); the Hebrew text relegates them to 'and-also-the-stars' (וְאֵת הַכּוֹכָבִים), a one-line creation by God's hand."
+    }
+  },
+  {
+    "reference": "Genesis 1:17",
+    "chapter": 1,
+    "verse": 17,
+    "language": "hebrew",
+    "hebrew": "וַיִּתֵּ֥ן אֹתָ֛ם אֱלֹהִ֖ים בִּרְקִ֣יעַ הַשָּׁמָ֑יִם לְהָאִ֖יר עַל־הָאָֽרֶץ׃",
+    "bsb_english": "God set these lights in the expanse of the sky to shine upon the earth,",
+    "translation": {
+      "thai": "พระเจ้าทรงตั้งดวงสว่างเหล่านั้นไว้ในแผ่นฟ้าเพื่อให้แสงสว่างแก่แผ่นดินโลก",
+      "thai_literal": "และพระเจ้าทรงตั้ง พวกมัน ไว้ในแผ่นฟ้าของฟ้า เพื่อให้แสงสว่างบนแผ่นดินโลก",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "וַיִּתֵּן אֹתָם אֱלֹהִים",
+          "thai": "พระเจ้าทรงตั้งดวงสว่างเหล่านั้นไว้",
+          "rationale": "נָתַן (Qal: 'give, set, place') — divine action, takes ราชาศัพท์: 'ทรงตั้ง' (royal-Thai 'place/establish'). Object 'them' (אֹתָם) refers back to the lights of v.16; rendered as 'ดวงสว่างเหล่านั้น' (those luminaries) for Thai natural-flow rather than pronominal 'พวกมัน' (which is acceptable but more colloquial)."
+        }
+      ],
+      "notes": "Continuation of day-4 execution narrative."
+    }
+  },
+  {
+    "reference": "Genesis 1:18",
+    "chapter": 1,
+    "verse": 18,
+    "language": "hebrew",
+    "hebrew": "וְלִמְשֹׁל֙ בַּיּ֣וֹם וּבַלַּ֔יְלָה וּֽלֲהַבְדִּ֔יל בֵּ֥ין הָא֖וֹר וּבֵ֣ין הַחֹ֑שֶׁךְ וַיַּ֥רְא אֱלֹהִ֖ים כִּי־טֽוֹב׃",
+    "bsb_english": "to preside over the day and the night, and to separate the light from the darkness. And God saw that it was good.",
+    "translation": {
+      "thai": "เพื่อครองทั้งกลางวันและกลางคืน และเพื่อแยกความสว่างออกจากความมืด พระเจ้าทรงเห็นว่าสิ่งนี้ดี",
+      "thai_literal": "และเพื่อครองในวันและในคืน และเพื่อแยกระหว่างความสว่างกับความมืด และพระเจ้าทรงเห็นว่าดี",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "וְלִמְשֹׁל בַּיּוֹם וּבַלַּיְלָה",
+          "thai": "เพื่อครองทั้งกลางวันและกลางคืน",
+          "rationale": "Continuation of v.16 'rule' theme. Per uW: 'Make sure that your translation of the word day refers here to the daytime hours, not an entire 24-hour day.' Render 'กลางวัน/กลางคืน' (daytime/nighttime) for the time-of-day sense, not 'วัน/คืน' which here would be ambiguous. The earlier vv.5, 14 'วัน/คืน' for day/night naming is more abstract; here the concrete daytime-vs-nighttime distinction matters."
+        }
+      ],
+      "notes": "Day-4 'good' refrain. Day 4 closes the celestial-creation phase before turning to animate-life on days 5-6."
+    }
+  },
+  {
+    "reference": "Genesis 1:19",
+    "chapter": 1,
+    "verse": 19,
+    "language": "hebrew",
+    "hebrew": "וַֽיְהִי־עֶ֥רֶב וַֽיְהִי־בֹ֖קֶר י֥וֹם רְבִיעִֽי׃פ",
+    "bsb_english": "And there was evening, and there was morning—the fourth day.",
+    "translation": {
+      "thai": "ก็มีเวลาเย็นและเวลาเช้า เป็นวันที่สี่",
+      "thai_literal": "และก็มีเวลาเย็น และก็มีเวลาเช้า วันที่สี่",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": "Day-4 closure formula."
+    }
+  },
+  {
+    "reference": "Genesis 1:20",
+    "chapter": 1,
+    "verse": 20,
+    "language": "hebrew",
+    "hebrew": "וַיֹּ֣אמֶר אֱלֹהִ֔ים יִשְׁרְצ֣וּ הַמַּ֔יִם שֶׁ֖רֶץ נֶ֣פֶשׁ חַיָּ֑ה וְעוֹף֙ יְעוֹפֵ֣ף עַל־הָאָ֔רֶץ עַל־פְּנֵ֖י רְקִ֥יעַ הַשָּׁמָֽיִם׃",
+    "bsb_english": "And God said, “Let the waters teem with living creatures, and let birds fly above the earth in the open expanse of the sky.”",
+    "translation": {
+      "thai": "พระเจ้าตรัสว่า “จงให้น้ำเต็มไปด้วยฝูงสัตว์ที่มีชีวิต และให้นกบินเหนือแผ่นดินในแผ่นฟ้าทั่วท้องฟ้า”",
+      "thai_literal": "และพระเจ้าตรัสว่า น้ำจงไหลเต็มไปด้วยฝูงของสิ่งมีชีวิตที่มีลมหายใจ และนกจงบิน บนแผ่นดิน บนพื้นแผ่นฟ้าของฟ้า",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יִשְׁרְצוּ הַמַּיִם שֶׁרֶץ",
+          "thai": "จงให้น้ำเต็มไปด้วยฝูงสัตว์",
+          "rationale": "**SECOND COGNATE-ACCUSATIVE PATTERN** in the chapter (paralleling v.11's תַּדְשֵׁא...דֶּשֶׁא). Verb שָׁרַץ ('teem, swarm') + cognate noun שֶׁרֶץ ('teeming-creatures, swarm') = 'let-the-waters teem teeming.' Per uW writing-poetry: 'For emphasis, the speaker is using a construction in which a verb and its object come from the same root. You may be able to use the same construction in your language to express the meaning here. Alternatively, your language may have another way of showing the emphasis.' Per Jonah corpus precedent: render with Thai natural compound, not verb-doubling. 'จงให้น้ำเต็มไปด้วยฝูงสัตว์' (let-the-waters be-full of swarms-of-creatures) — preserves the teeming-energy via 'ฝูง' (swarm, group) + the comprehensive 'เต็มไปด้วย' (full of)."
+        },
+        {
+          "hebrew": "נֶפֶשׁ חַיָּה",
+          "thai": "สัตว์ที่มีชีวิต",
+          "rationale": "Per hebrew_idioms_and_metaphor §3.4: נֶפֶשׁ in 'living-creature' contexts → 'สัตว์ที่มีชีวิต' (animal that has life) — semantic-domain 'life-as-such.' Distinguished from נֶפֶשׁ in distress/desire contexts (= soul/inner-being). Locked rendering for the Genesis 1 + creation-narrative occurrences. Phrase recurs vv.20, 21, 24, 30."
+        },
+        {
+          "hebrew": "וְעוֹף יְעוֹפֵף",
+          "thai": "ให้นกบิน",
+          "rationale": "Per uW translate-unknown: 'The Hebrew word for birds can also be more general and refer to winged creatures, which includes birds, bats, flying insects and even flying reptiles that are now extinct.' עוֹף is the broader-flying-creature category. Modern Thai 'นก' is bird-specific; the broader sense is implicit-via-context. Verb עוּף (Polel: 'fly about') is paronomastic with the noun (bird-flying-as-bird). Standard rendering 'ให้นกบิน' (let birds fly)."
+        }
+      ],
+      "notes": "**SECOND COGNATE-ACCUSATIVE:** v.20's 'teem-teeming' (יִשְׁרְצוּ...שֶׁרֶץ) parallels v.11's 'sprout-sprouting' (תַּדְשֵׁא...דֶּשֶׁא) — Hebrew emphatic-verb-cognate-noun pattern. Day-5 begins sea/sky filling, completing the day-2 separation."
+    }
+  },
+  {
+    "reference": "Genesis 1:21",
+    "chapter": 1,
+    "verse": 21,
+    "language": "hebrew",
+    "hebrew": "וַיִּבְרָ֣א אֱלֹהִ֔ים אֶת־הַתַּנִּינִ֖ם הַגְּדֹלִ֑ים וְאֵ֣ת כָּל־נֶ֣פֶשׁ הַֽחַיָּ֣ה׀הָֽרֹמֶ֡שֶׂת אֲשֶׁר֩ שָׁרְצ֨וּ הַמַּ֜יִם לְמִֽינֵהֶ֗ם וְאֵ֨ת כָּל־ע֤וֹף כָּנָף֙ לְמִינֵ֔הוּ וַיַּ֥רְא אֱלֹהִ֖ים כִּי־טֽוֹב׃",
+    "bsb_english": "So God created the great sea creatures and every living thing that moves, with which the waters teemed according to their kinds, and every winged bird after its kind. And God saw that it was good.",
+    "translation": {
+      "thai": "พระเจ้าจึงทรงสร้างสัตว์ทะเลขนาดใหญ่ และสัตว์ที่มีชีวิตทุกชนิดที่เคลื่อนไหวอยู่ในน้ำตามชนิดของมัน และนกที่มีปีกทุกชนิดตามชนิดของมัน และพระเจ้าทรงเห็นว่าสิ่งนี้ดี",
+      "thai_literal": "และพระเจ้าทรงสร้าง สัตว์ทะเลใหญ่ทั้งหลาย และสิ่งมีชีวิตทุกชนิดที่เคลื่อนไหว ที่น้ำได้ไหลเต็มไปด้วยพวกมัน ตามชนิดของพวกมัน และนกมีปีกทุกชนิดตามชนิดของมัน และพระเจ้าทรงเห็นว่าดี",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "הַתַּנִּינִם הַגְּדֹלִים",
+          "thai": "สัตว์ทะเลขนาดใหญ่",
+          "rationale": "Per uW: 'These include whales, sharks, giant squid, crocodiles, and leviathans (Psalm 74:13–14, Isaiah 27:1), which were probably swimming reptiles that are now extinct.' תַּנִּין is a polysemic word — in Gen 1 + Pss 74 + Isa 27 + Job 7:12 + Ezek 32:2, it refers to large sea-creatures, sometimes mythologically tinged (sea-monster Leviathan/Rahab). Other contexts (Ex 7:9-12, Deut 32:33) the word means serpent/snake. Render 'สัตว์ทะเลขนาดใหญ่' (large sea-creatures) — keeps the marine-monster category without specifying mythological identity. Avoid 'มังกรทะเล' (sea-dragon) which would import East-Asian dragon-imagery."
+        },
+        {
+          "hebrew": "וַיִּבְרָא אֱלֹהִים",
+          "thai": "พระเจ้าจึงทรงสร้าง",
+          "rationale": "Second occurrence of בָּרָא in the chapter (after v.1). The verb's deliberate redeployment for the great sea-creatures + animals + humans (vv.21, 27) signals a creation-of-new-category — life-bearing creatures are theologically distinct from the inanimate creations of days 1-4. Render consistently 'ทรงสร้าง' (matching v.1 + v.27)."
+        }
+      ],
+      "notes": "**THE THREE OCCURRENCES OF בָּרָא:** v.1 (cosmic creation), v.21 (animal-life creation), v.27 (human creation) — three deliberate deployments of the special creation-verb mark three categorical thresholds: matter, life, persons. **DEMYTHOLOGIZATION:** the תַנִּינִם that appear as antagonist-monsters in Pss 74/Isa 27 are here just creatures God made — no battle, no conquest, just 'God created.' The Hebrew text strips the monsters of divine status."
+    }
+  },
+  {
+    "reference": "Genesis 1:22",
+    "chapter": 1,
+    "verse": 22,
+    "language": "hebrew",
+    "hebrew": "וַיְבָ֧רֶךְ אֹתָ֛ם אֱלֹהִ֖ים לֵאמֹ֑ר פְּר֣וּ וּרְב֗וּ וּמִלְא֤וּ אֶת־הַמַּ֨יִם֙ בַּיַּמִּ֔ים וְהָע֖וֹף יִ֥רֶב בָּאָֽרֶץ׃",
+    "bsb_english": "Then God blessed them and said, “Be fruitful and multiply and fill the waters of the seas, and let birds multiply on the earth.”",
+    "translation": {
+      "thai": "พระเจ้าทรงอวยพรพวกมันว่า “จงเกิดผลทวีคูณและเต็มน้ำในทะเล และให้นกทวีจำนวนขึ้นบนแผ่นดิน”",
+      "thai_literal": "และพระเจ้าทรงอวยพรพวกมัน โดยตรัสว่า จงออกผล และจงทวีจำนวน และจงเต็มน้ำในทะเลทั้งหลาย และนกจงทวีจำนวนบนแผ่นดิน",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "וַיְבָרֶךְ אֹתָם אֱלֹהִים",
+          "thai": "พระเจ้าทรงอวยพรพวกมัน",
+          "rationale": "בָּרַךְ (Piel: 'bless') with God as subject — first divine-blessing in the Bible. Per OT register policy §1.1: divine actions take ราชาศัพท์ 'ทรงอวยพร' (royal-Thai bless). Recurs at v.28 (blessing humanity) and Gen 2:3 (blessing the seventh day). Lock: God-as-subject בָּרַךְ → ทรงอวยพร."
+        },
+        {
+          "hebrew": "פְּרוּ וּרְבוּ",
+          "thai": "จงเกิดผลทวีคูณ",
+          "rationale": "פָּרָה ('be fruitful') + רָבָה ('multiply') — the 'fruitful-and-multiply' formula, recurs vv.22, 28; Gen 9:1, 7; 35:11; Ex 1:7. Render 'จงเกิดผลทวีคูณ' (jong-koed-pol-tha-wee-koon, 'let-bear-fruit-multiply') — Thai 'ทวีคูณ' captures the multiplicative growth. The pair functions as a fixed creation-blessing-formula. Note: the phrase recurs verbatim at v.28 for humanity — Thai render identical for liturgical-rhythm preservation."
+        },
+        {
+          "hebrew": "לֵאמֹר",
+          "thai": "ว่า",
+          "rationale": "Hebrew quotative-formula 'לֵאמֹר' (lit. 'to say' = 'saying' as quote-introducer). Often mechanical in Hebrew but grating-redundant when paired with a primary speech-verb. Per uW figs-explicit at v.22: 'God blesses the water animals first.' Thai handles this by simple 'ว่า' as quote-introducer without the doubled 'said-saying.' Standard NT/OT corpus practice."
+        }
+      ],
+      "notes": "**FIRST BLESSING:** the first בָּרַךְ in the Bible — bestowed on sea-creatures and birds. The blessing is generative-multiplicative: be-fruitful-multiply-fill. The same formula extends to humanity (v.28), establishing a creation-wide pattern of divine-empowered fertility. **NT ECHO:** the early-church reading sees the Genesis-blessing-fruitfulness fulfilled christologically in the Gospel's spread (Acts 6:7, 12:24, 19:20)."
+    }
+  },
+  {
+    "reference": "Genesis 1:23",
+    "chapter": 1,
+    "verse": 23,
+    "language": "hebrew",
+    "hebrew": "וַֽיְהִי־עֶ֥רֶב וַֽיְהִי־בֹ֖קֶר י֥וֹם חֲמִישִֽׁי׃פ",
+    "bsb_english": "And there was evening, and there was morning—the fifth day.",
+    "translation": {
+      "thai": "ก็มีเวลาเย็นและเวลาเช้า เป็นวันที่ห้า",
+      "thai_literal": "และก็มีเวลาเย็น และก็มีเวลาเช้า วันที่ห้า",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": "Day-5 closure formula."
+    }
+  },
+  {
+    "reference": "Genesis 1:24",
+    "chapter": 1,
+    "verse": 24,
+    "language": "hebrew",
+    "hebrew": "וַיֹּ֣אמֶר אֱלֹהִ֗ים תּוֹצֵ֨א הָאָ֜רֶץ נֶ֤פֶשׁ חַיָּה֙ לְמִינָ֔הּ בְּהֵמָ֥ה וָרֶ֛מֶשׂ וְחַֽיְתוֹ־אֶ֖רֶץ לְמִינָ֑הּ וַֽיְהִי־כֵֽן׃",
+    "bsb_english": "And God said, “Let the earth bring forth living creatures according to their kinds: livestock, land crawlers, and beasts of the earth according to their kinds.” And it was so.",
+    "translation": {
+      "thai": "พระเจ้าตรัสว่า “จงให้แผ่นดินผลิตสัตว์ที่มีชีวิตตามชนิดของมัน คือสัตว์ใช้งาน สัตว์เลื้อยคลาน และสัตว์ป่าตามชนิดของมัน” ก็เป็นเช่นนั้น",
+      "thai_literal": "และพระเจ้าตรัสว่า แผ่นดินจงนำออกมา สิ่งมีชีวิตตามชนิดของมัน สัตว์เลี้ยงและสัตว์เลื้อยคลานและสัตว์ป่าของแผ่นดินตามชนิดของมัน และก็เป็นเช่นนั้น",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "תּוֹצֵא הָאָרֶץ",
+          "thai": "จงให้แผ่นดินผลิต",
+          "rationale": "Per uW: 'See how you translated a similar command to the land in verse 11.' Same verb יָצָא (Hiphil 'cause to come out, produce') as v.12. Render 'ผลิต' (produce) here for the animal-context — distinguishes from v.11's 'ผลิ' (sprout, plant-context). Both are valid Thai for 'bring forth'; the slight variation matches the Hebrew domain-distinction."
+        },
+        {
+          "hebrew": "בְּהֵמָה וָרֶמֶשׂ וְחַיְתוֹ־אֶרֶץ",
+          "thai": "สัตว์ใช้งาน สัตว์เลื้อยคลาน และสัตว์ป่า",
+          "rationale": "Per uW: בְּהֵמָה (livestock — domesticated animals: horses, camels, cattle, sheep, goats); רֶמֶשׂ (crawlers — animals that move close to the ground); חַיַּת אֶרֶץ (beasts of the earth — wild animals not normally raised by people). Locked Thai renderings: בְּהֵמָה → สัตว์ใช้งาน (working/domestic animals); רֶמֶשׂ → สัตว์เลื้อยคลาน (creeping-crawling animals); חַיָּה → สัตว์ป่า (wild animals). Note: בְּהֵמָה = สัตว์ใช้งาน is the OT lock; matches Lev/Deut/Jdg uses for cattle-as-property."
+        }
+      ],
+      "notes": "**THREE-FOLD ANIMAL CATEGORY:** day 6 begins with three categories of land-animals (vv.24-25): domestic, crawling, wild. The biological-categorical refrain 'according to its kind' (לְמִין) applies to each. **PARALLELISM WITH DAY 3:** day 3's plant-creation (vv.11-12) and day 6's animal-creation (vv.24-25) both use the 'let the earth bring forth' (יָצָא) formula — the earth as God's creative-instrument."
+    }
+  },
+  {
+    "reference": "Genesis 1:25",
+    "chapter": 1,
+    "verse": 25,
+    "language": "hebrew",
+    "hebrew": "וַיַּ֣עַשׂ אֱלֹהִים֩ אֶת־חַיַּ֨ת הָאָ֜רֶץ לְמִינָ֗הּ וְאֶת־הַבְּהֵמָה֙ לְמִינָ֔הּ וְאֵ֛ת כָּל־רֶ֥מֶשׂ הָֽאֲדָמָ֖ה לְמִינֵ֑הוּ וַיַּ֥רְא אֱלֹהִ֖ים כִּי־טֽוֹב׃",
+    "bsb_english": "God made the beasts of the earth according to their kinds, the livestock according to their kinds, and everything that crawls upon the earth according to its kind. And God saw that it was good.",
+    "translation": {
+      "thai": "พระเจ้าทรงสร้างสัตว์ป่าตามชนิดของมัน สัตว์ใช้งานตามชนิดของมัน และสัตว์เลื้อยคลานบนแผ่นดินทุกชนิดตามชนิดของมัน และพระเจ้าทรงเห็นว่าสิ่งนี้ดี",
+      "thai_literal": "และพระเจ้าทรงสร้าง สัตว์ป่าของแผ่นดินตามชนิดของมัน และสัตว์เลี้ยงตามชนิดของมัน และสัตว์เลื้อยคลานทุกชนิดของพื้นดินตามชนิดของมัน และพระเจ้าทรงเห็นว่าดี",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": "Day-6 animal-creation execution; mirror of v.24 command. The 'good' refrain closes day-6's animal-phase before the human-creation pivot in v.26."
+    }
+  },
+  {
+    "reference": "Genesis 1:26",
+    "chapter": 1,
+    "verse": 26,
+    "language": "hebrew",
+    "hebrew": "וַיֹּ֣אמֶר אֱלֹהִ֔ים נַֽעֲשֶׂ֥ה אָדָ֛ם בְּצַלְמֵ֖נוּ כִּדְמוּתֵ֑נוּ וְיִרְדּוּ֩ בִדְגַ֨ת הַיָּ֜ם וּבְע֣וֹף הַשָּׁמַ֗יִם וּבַבְּהֵמָה֙ וּבְכָל־הָאָ֔רֶץ וּבְכָל־הָרֶ֖מֶשׂ הָֽרֹמֵ֥שׂ עַל־הָאָֽרֶץ׃",
+    "bsb_english": "Then God said, “Let Us make man in Our image, after Our likeness, to rule over the fish of the sea and the birds of the air, over the livestock, and over all the earth itself and every creature that crawls upon it.”",
+    "translation": {
+      "thai": "พระเจ้าตรัสว่า “ให้เราสร้างมนุษย์ตามฉายาของเรา ตามอย่างของเรา ให้พวกเขาครอบครองปลาในทะเล นกในฟ้า สัตว์ใช้งาน แผ่นดินโลกทั้งสิ้น และสัตว์เลื้อยคลานทุกชนิดที่เคลื่อนไหวอยู่บนแผ่นดิน”",
+      "thai_literal": "และพระเจ้าตรัสว่า ให้เราทำมนุษย์ในฉายาของเรา ตามอย่างของเรา และพวกเขาจงครอบครอง ในปลาของทะเล และในนกของฟ้า และในสัตว์เลี้ยง และในแผ่นดินทั้งสิ้น และในสัตว์เลื้อยคลานทุกชนิดที่เลื้อยคลานบนแผ่นดิน",
+      "thai_summary": "ข้อนี้เป็นจุดสุดยอดของบทแห่งการทรงสร้าง พระเจ้าทรงเปลี่ยนแบบแผนจาก “จงเกิด...” มาเป็น “ให้เราสร้าง...” การใช้สรรพนามพหูพจน์ (נַעֲשֶׂה “ให้เราสร้าง”, בְּצַלְמֵנוּ “ฉายาของเรา”, כִּדְמוּתֵנוּ “อย่างของเรา”) เป็นที่ถกเถียงในวงวิชาการ — บางท่านอ่านว่าเป็นรูปพหูพจน์แห่งราชาศัพท์ (royal we) บางท่านอ่านเป็นการประชุมแห่งสวรรค์ (divine council) คริสเตียนอ่านเป็นการล่วงรู้ของตรีเอกานุภาพ ฉบับเอเรโมสคงรูปพหูพจน์ไว้ในต้นฉบับโดยไม่ตีความให้แคบลง “ฉายา” (צֶלֶם) และ “อย่าง” (דְמוּת) เป็นคู่คำพ้องที่เน้นย้ำว่ามนุษย์ถูกสร้างให้คล้ายพระเจ้าในหลายมิติ — ไม่ใช่ในรูปร่างทางกายภาพ แต่ในความสามารถในการครองโลก สื่อสาร และมีความสัมพันธ์ การ “ครอบครอง” (רָדָה) เป็นภาระที่ทรงมอบให้มนุษย์เป็นตัวแทนของพระเจ้าในการปกครองโลก",
+      "key_decisions": [
+        {
+          "hebrew": "נַעֲשֶׂה",
+          "thai": "ให้เราสร้าง",
+          "rationale": "Per uW writing-pronouns: 'Most Bible scholars think that the plural pronouns (us and our) in this verse refer to God and reflect the fact that he is three Persons in one God. So it is best to keep these pronouns plural in your translation. Also, many translations capitalize the first letter of all pronouns that refer to God in order to show him honor and respect.' The Hebrew 1cp cohortative נַעֲשֶׂה ('let us make') is genuinely plural. Scholarly readings: (1) plural-of-majesty (royal we, with ANE parallels in royal inscriptions); (2) divine council (God addressing the heavenly court, cf. 1 Kgs 22:19-22, Job 1-2, Isa 6); (3) Trinitarian premonition (Christian-traditional reading); (4) self-deliberation. Per OT register policy §1.4: divine-royal voice uses 'เรา' (royal we). Render 'ให้เราสร้าง' — Thai 'เรา' covers all four readings without forcing a particular interpretation. The verb עָשָׂה (Qal: 'make') here, distinct from בָּרָא in v.27 — but rendered with same Thai 'สร้าง' for naturalness."
+        },
+        {
+          "hebrew": "אָדָם",
+          "thai": "มนุษย์",
+          "rationale": "Per uW grammar-collectivenouns: 'The Hebrew word for man is used here (and in verse 27) as a collective noun that refers to human beings in general, including both male and female.' אָדָם is the collective-noun for humanity (related to אֲדָמָה 'ground/earth' — humanity is earth-formed in Gen 2:7). Render 'มนุษย์' (mankind, generic-collective) — distinguished from 'ชาย' (male only) or 'คน' (person, more individual). The proper-name 'Adam' for the individual man emerges later in Gen 2-5; here אָדָם is the species-name."
+        },
+        {
+          "hebrew": "בְּצַלְמֵנוּ כִּדְמוּתֵנוּ",
+          "thai": "ตามฉายาของเรา ตามอย่างของเรา",
+          "rationale": "Per uW figs-doublet: 'These two phrases have similar meanings and emphasize that God made mankind to be like himself in many ways.' צֶלֶם (image, sculpture, idol-form) + דְמוּת (likeness, similitude) is a near-synonymous pair = 'image-and-likeness.' Per divine_names_table_2026-05.md and the broader OT lock for theological-anthropology terms: צֶלֶם of God-related → ฉายา (likeness/image, with theological weight); דְמוּת → อย่าง (likeness/manner). The pair 'ฉายา + อย่าง' captures the Hebrew doublet without flattening to one Thai word. Note: ฉายา is the locked Thai-Bible rendering for the imago-Dei concept; preserves the cross-corpus theological term used in NT (Col 3:10, 2 Cor 4:4, Rom 8:29 of Christ-as-image)."
+        },
+        {
+          "hebrew": "וְיִרְדּוּ",
+          "thai": "ให้พวกเขาครอบครอง",
+          "rationale": "רָדָה (Qal: 'rule, have dominion, tread down') — humanity's stewardship-mandate. Per uW: 'and let us put them in control of / We will give them authority to rule.' Render 'ครอบครอง' (royally-dominate/possess) — a strong vocabulary that captures the rule-dominion sense. Distinguished from מָשַׁל ('rule' as in v.16-18 of celestial-bodies, rendered 'ครอง'). Both rule-verbs preserved as ครอง/ครอบครอง — slight intensification for the human-mandate. Recurs at v.28 (verbatim repetition of the dominion-formula in the blessing)."
+        }
+      ],
+      "notes": "**IMAGO DEI:** the doctrine of humanity-in-the-image-of-God begins here. Hebrew anthropology grounds human dignity, vocation, and ethics in this verse. **PLURAL PRONOUN ANCHOR:** 'let us make...in our image...after our likeness' is the Bible's first plural-divine-self-reference; it returns at Gen 3:22 ('the man has become like one of us'), 11:7 ('let us go down'), Isa 6:8 ('whom shall I send, and who will go for us'). The Hebrew text carries this plurality without explanation — Christian theology reads it as foreshadowing Trinity; Jewish tradition reads it as divine-council-address or royal-we. Eremos preserves the plurality without forcing a single reading. **DOMINION MANDATE:** the human commission to 'rule' over creation establishes the cultural-mandate that frames Genesis 2's gardening, Genesis 9's post-Flood re-charge, and Psalm 8's contemplation. **NT ALIGNMENT:** Christ as 'image of the invisible God' (Col 1:15) inverts the direction — humanity is image-of-God; Christ IS the image; humanity is renewed-into-the-image (Col 3:10, Rom 8:29)."
+    }
+  },
+  {
+    "reference": "Genesis 1:27",
+    "chapter": 1,
+    "verse": 27,
+    "language": "hebrew",
+    "hebrew": "וַיִּבְרָ֨א אֱלֹהִ֤ים׀אֶת־הָֽאָדָם֙ בְּצַלְמ֔וֹ בְּצֶ֥לֶם אֱלֹהִ֖ים בָּרָ֣א אֹת֑וֹ זָכָ֥ר וּנְקֵבָ֖ה בָּרָ֥א אֹתָֽם׃",
+    "bsb_english": "So God created man in His own image; in the image of God He created him; male and female He created them.",
+    "translation": {
+      "thai": "พระเจ้าจึงทรงสร้างมนุษย์ตามพระฉายาของพระองค์ ตามพระฉายาของพระเจ้าพระองค์ทรงสร้างเขา เป็นชายและเป็นหญิง พระองค์ทรงสร้างพวกเขา",
+      "thai_literal": "และพระเจ้าทรงสร้างมนุษย์ในฉายาของพระองค์ ในฉายาของพระเจ้าพระองค์ทรงสร้างเขา ชายและหญิงพระองค์ทรงสร้างพวกเขา",
+      "thai_summary": "ข้อ 27 เป็นบทกวีที่ฝังอยู่ในเรื่องเล่า — ข้อนี้ใช้รูปแบบ chiasm (การกลับด้าน) ซ้ำสามท่อนของกริยา “ทรงสร้าง” (בָּרָא) เพื่อย้ำการสร้างมนุษย์ในฐานะสุดยอดของการทรงสร้าง ท่อนที่หนึ่ง: สร้างมนุษย์ในฉายา; ท่อนที่สอง: ในฉายาของพระเจ้าทรงสร้างเขา (กลับด้าน); ท่อนที่สาม: ชายและหญิงทรงสร้างพวกเขา ความสำคัญของท่อนสุดท้าย — “ชายและหญิง” มาก่อนกริยาในภาษาฮีบรู (เน้นย้ำ) — บอกว่าฉายาของพระเจ้าครอบคลุมเพศของมนุษย์ทั้งสอง การสร้างชายและหญิงพร้อมกันในข้อนี้ขัดกับลำดับเรื่องเล่าใน บทที่ 2 (อาดัมก่อน เอวาทีหลัง) — บทที่ 1 ให้ภาพรวม-เทววิทยา; บทที่ 2 ให้รายละเอียดของกระบวนการ ทั้งสองจึงไม่ขัดแย้งแต่ส่งเสริมกัน",
+      "key_decisions": [
+        {
+          "hebrew": "וַיִּבְרָא אֱלֹהִים אֶת־הָאָדָם בְּצַלְמוֹ בְּצֶלֶם אֱלֹהִים בָּרָא אֹתוֹ זָכָר וּנְקֵבָה בָּרָא אֹתָם",
+          "thai": "พระเจ้าจึงทรงสร้างมนุษย์ตามพระฉายาของพระองค์ ตามพระฉายาของพระเจ้าพระองค์ทรงสร้างเขา เป็นชายและเป็นหญิง พระองค์ทรงสร้างพวกเขา",
+          "rationale": "**POETIC CHIASM** — per uW figs-parallelism: 'This clause is the second half of a chiasm (an inverted parallelism) that repeats the first part of verse 27 in reverse order, to emphasize that it was in God's image that human beings were created.' The Hebrew structure is ABA' (or AB-B'A'-C): A: God-created-man-in-his-image / B: in-the-image-of-God / B': created-him / A': male-and-female / C: created-them. The threefold בָּרָא (created) is the structural signature. Per uW: 'The phrase male and female comes first in the Hebrew text in order to emphasize it. Do what is accurate and natural in your language. Also make sure your translation of this verse does not sound like God is both male and female.' Thai render preserves the three-fold poetic structure with three sub-clauses, each ending or anchored by 'ทรงสร้าง.' The Genesis FRONT note flagged v.27 as one of the 'poetic-format' verses — preserve parallel-line feel even if not formatted as poetry-blocks."
+        },
+        {
+          "hebrew": "בְּצֶלֶם אֱלֹהִים",
+          "thai": "ตามพระฉายาของพระเจ้า",
+          "rationale": "צֶלֶם is here possessed by אֱלֹהִים (image-of-God, construct). Per the divine-anthropomorphism layer (hebrew_idioms_and_metaphor §1): when צֶלֶם relates to God's image, the Thai gets the พระ- prefix → 'พระฉายา' (royal-Thai for divine-image). The pairing with God-as-possessor reinforces the imago-Dei theological vocabulary."
+        },
+        {
+          "hebrew": "זָכָר וּנְקֵבָה",
+          "thai": "เป็นชายและเป็นหญิง",
+          "rationale": "Per uW: 'Make sure your translation of this verse does not sound like God is both male and female.' זָכָר (male) + נְקֵבָה (female) — biological-categorical pair. Render 'เป็นชาย และเป็นหญิง' (as-male and as-female) — the 'เป็น' (be) keeps it about the human-creation pair, not divine attributes. Hebrew word-order puts the pair first (focal-emphasis): 'male-and-female he-created them' — Thai preserves this with 'เป็นชายและเป็นหญิง' before 'พระองค์ทรงสร้างพวกเขา' (he-created-them). NT echo: Mark 10:6 (ἀρσεν καὶ θῆλυ ἐποίησεν αὐτούς) cites Gen 1:27 in Jesus's marriage-teaching."
+        }
+      ],
+      "notes": "**POETRY EMBEDDED IN PROSE:** v.27 is one of the famous poetic peaks of Genesis 1 — the threefold בָּרָא + chiastic structure marks it as elevated discourse. Most modern Bibles (ESV, NIV, NASB) format v.27 as poetry-lines indented. The Eremos JSON format does not encode poetry-formatting, but the Thai render preserves the parallel-line feel. **IMAGO DEI INCLUDES MALE AND FEMALE:** the verse's structure binds 'in-the-image-of-God' and 'male-and-female' — humanity-in-image is a binary-paired creation, not a single individual. This anchors the OT/NT theology of marriage (Gen 2:24, Mt 19:4-6 = Mk 10:6-9), the unity-and-distinction-of-the-sexes, and the human community's creation-mandate (vv.28-30) as a co-mandate. **NT CITATION:** Mark 10:6 / Mt 19:4 cite this verse in Jesus's teaching on marriage — register in nt_ot_citations.json. **CHRISTOLOGICAL READING:** Col 1:15 (Christ as εἰκὼν τοῦ θεοῦ) reads Gen 1:27 messianically — the perfect image of God comes in Christ; humanity's image-bearing finds its archetype and renewal in him."
+    }
+  },
+  {
+    "reference": "Genesis 1:28",
+    "chapter": 1,
+    "verse": 28,
+    "language": "hebrew",
+    "hebrew": "וַיְבָ֣רֶךְ אֹתָם֮ אֱלֹהִים֒ וַיֹּ֨אמֶר לָהֶ֜ם אֱלֹהִ֗ים פְּר֥וּ וּרְב֛וּ וּמִלְא֥וּ אֶת־הָאָ֖רֶץ וְכִבְשֻׁ֑הָ וּרְד֞וּ בִּדְגַ֤ת הַיָּם֙ וּבְע֣וֹף הַשָּׁמַ֔יִם וּבְכָל־חַיָּ֖ה הָֽרֹמֶ֥שֶׂת עַל־הָאָֽרֶץ׃",
+    "bsb_english": "God blessed them and said to them, “Be fruitful and multiply, and fill the earth and subdue it; rule over the fish of the sea and the birds of the air and every creature that crawls upon the earth.”",
+    "translation": {
+      "thai": "พระเจ้าทรงอวยพรพวกเขาและตรัสกับพวกเขาว่า “จงเกิดผลทวีคูณ จงเต็มแผ่นดินโลกและพิชิตมัน จงครอบครองปลาในทะเล นกในฟ้า และสัตว์ที่มีชีวิตทุกชนิดที่เคลื่อนไหวอยู่บนแผ่นดิน”",
+      "thai_literal": "และพระเจ้าทรงอวยพรพวกเขา และพระเจ้าตรัสกับพวกเขาว่า จงออกผล และจงทวีจำนวน และจงเต็มแผ่นดินและพิชิตมัน และจงครอบครอง ในปลาของทะเล และในนกของฟ้า และในทุกสิ่งที่มีชีวิตที่เลื้อยคลานบนแผ่นดิน",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "וְכִבְשֻׁהָ",
+          "thai": "และพิชิตมัน",
+          "rationale": "Per uW: 'and take care of it / and bring it under your control.' כָּבַשׁ (Qal: 'subdue, bring under control, conquer') is a strong verb — used elsewhere of conquering enemies (Num 32:22, 29; Josh 18:1) and of slaves being subdued (Jer 34:11, 16; Neh 5:5). The cultural-mandate-context here means 'cultivate, develop, master' the earth's potential — not 'plunder.' Render 'พิชิต' (conquer/master/overcome) — preserves the verb's strength while context determines benevolent application. Avoid softening to 'ดูแล' (care for) which loses the active-mastery sense; avoid intensifying to 'ทำลาย' (destroy) which inverts the meaning."
+        },
+        {
+          "hebrew": "וּרְדוּ",
+          "thai": "จงครอบครอง",
+          "rationale": "Same רָדָה as v.26; locked rendering 'ครอบครอง.' The dominion-mandate is repeated verbatim in the blessing — emphasizes the human commission as both gift and responsibility."
+        }
+      ],
+      "notes": "**SECOND BLESSING:** humanity's blessing parallels the sea-creature blessing of v.22 — both bear the 'be-fruitful-multiply' formula. But humans receive added vocations: 'fill the earth + subdue it + rule.' The blessing-then-commission structure becomes the template for OT covenant-charges (Noah Gen 9:1-7; Abram Gen 12:1-3; Moses Ex 19:5-6). **CULTURAL MANDATE:** the dominion-cluster (subdue + rule + fill-earth) is sometimes called the 'cultural mandate' — humanity's vocation to develop the earth's potential as God's stewards/representatives. **NT FULFILLMENT:** Heb 2:5-9 reads Ps 8 (which itself reads Gen 1:26-28) christologically — the dominion-mandate is fully fulfilled in Christ, the Last-Adam (Rom 5:12-21, 1 Cor 15:45-49), with humanity's sharing in his rule (Rev 5:10, 22:5)."
+    }
+  },
+  {
+    "reference": "Genesis 1:29",
+    "chapter": 1,
+    "verse": 29,
+    "language": "hebrew",
+    "hebrew": "וַיֹּ֣אמֶר אֱלֹהִ֗ים הִנֵּה֩ נָתַ֨תִּי לָכֶ֜ם אֶת־כָּל־עֵ֣שֶׂב׀זֹרֵ֣עַ זֶ֗רַע אֲשֶׁר֙ עַל־פְּנֵ֣י כָל־הָאָ֔רֶץ וְאֶת־כָּל־הָעֵ֛ץ אֲשֶׁר־בּ֥וֹ פְרִי־עֵ֖ץ זֹרֵ֣עַ זָ֑רַע לָכֶ֥ם יִֽהְיֶ֖ה לְאָכְלָֽה׃",
+    "bsb_english": "Then God said, “Behold, I have given you every seed-bearing plant on the face of all the earth, and every tree whose fruit contains seed. They will be yours for food.",
+    "translation": {
+      "thai": "พระเจ้าตรัสว่า “ดูเถิด เราได้ให้พืชที่มีเมล็ดทุกชนิดทั่วแผ่นดินโลก และต้นไม้ทุกต้นที่ผลของมันมีเมล็ดในตัว ให้เป็นอาหารของเจ้า",
+      "thai_literal": "และพระเจ้าตรัสว่า ดูเถิด เราได้ให้แก่เจ้าทั้งหลาย ผักทุกชนิดที่หว่านเมล็ด ที่อยู่บนหน้าของแผ่นดินทั้งสิ้น และต้นไม้ทุกต้นที่ในมันมีผลของต้นไม้ที่หว่านเมล็ด สำหรับเจ้าทั้งหลาย จงเป็นเพื่ออาหาร",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "הִנֵּה",
+          "thai": "ดูเถิด",
+          "rationale": "Per hebrew_idioms_and_metaphor §5.2: הִנֵּה (Hebrew attention-marker, 'behold!') → 'ดูเถิด' (default Thai-Bible rendering). Per uW: 'This word means that what God says next is important and should be given special attention.' Locked rendering for OT corpus. Distinguished from the more colloquial 'นี่' (this) or 'ดูสิ' (see-look)."
+        },
+        {
+          "hebrew": "נָתַתִּי לָכֶם",
+          "thai": "เราได้ให้",
+          "rationale": "1cs perfect 'I-have-given' — God speaks to humanity in 1st-person, royal-we maintained: 'เรา' (royal we, matching v.26). Per OT register policy §1.4: God's direct-speech uses 'เรา.' The perfect-aspect נָתַתִּי is rendered with Thai 'ได้ให้' (have-given) for the completed-action sense — the food-grant is established as already-given at the moment of the human creation."
+        },
+        {
+          "hebrew": "לְאָכְלָה",
+          "thai": "ให้เป็นอาหาร",
+          "rationale": "אָכְלָה ('food, feeding') — the providential food-grant. Render 'ให้เป็นอาหาร' (let-it-be food) — the verb-noun construction in Hebrew expresses purpose. Note: this is the VEGETARIAN diet — the grant of plant-food only is significant theologically (the carnivorous diet is granted post-Flood at Gen 9:3); some commentators read this as the pre-Fall pristine creation-state."
+        }
+      ],
+      "notes": "**ORIGINAL DIET:** v.29 establishes the original human diet as plant-based — seed-bearing plants + fruit trees. The carnivorous diet is granted only after the Flood (Gen 9:3 'every moving thing that lives shall be food for you, as I gave you the green plants, I give you everything'). Some traditions read this as the pre-Fall pristine creation-state (creatures not eating each other); others read it as a divine restraint relaxed after the Flood for human survival. **PROVIDENCE:** the food-grant signals God's continued providential care — creation is not just made-and-abandoned but ordered for human flourishing."
+    }
+  },
+  {
+    "reference": "Genesis 1:30",
+    "chapter": 1,
+    "verse": 30,
+    "language": "hebrew",
+    "hebrew": "וּֽלְכָל־חַיַּ֣ת הָ֠אָרֶץ וּלְכָל־ע֨וֹף הַשָּׁמַ֜יִם וּלְכֹ֣ל׀רוֹמֵ֣שׂ עַל־הָאָ֗רֶץ אֲשֶׁר־בּוֹ֙ נֶ֣פֶשׁ חַיָּ֔ה אֶת־כָּל־יֶ֥רֶק עֵ֖שֶׂב לְאָכְלָ֑ה וַֽיְהִי־כֵֽן׃",
+    "bsb_english": "And to every beast of the earth and every bird of the air and every creature that crawls upon the earth—everything that has the breath of life in it—I have given every green plant for food.” And it was so.",
+    "translation": {
+      "thai": "และเราได้ให้พืชเขียวทุกชนิดเป็นอาหารแก่สัตว์ป่าทั้งปวงบนแผ่นดิน นกทุกตัวในฟ้า และสัตว์ทุกชนิดที่เคลื่อนไหวอยู่บนแผ่นดินที่มีลมหายใจในตัว” ก็เป็นเช่นนั้น",
+      "thai_literal": "และแก่สัตว์ป่าทั้งปวงของแผ่นดิน และแก่นกทั้งปวงของฟ้า และแก่ทุกสิ่งที่เลื้อยคลานบนแผ่นดิน ที่ในมันมีสิ่งมีชีวิตที่มีลมหายใจ ผักเขียวทุกชนิดเพื่อเป็นอาหาร และก็เป็นเช่นนั้น",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "אֲשֶׁר־בּוֹ נֶפֶשׁ חַיָּה",
+          "thai": "ที่มีลมหายใจในตัว",
+          "rationale": "נֶפֶשׁ חַיָּה here = 'living-breath/being.' Per uW: 'has the breath of life in it.' Distinguished from נֶפֶשׁ חַיָּה in vv.20-24 (= 'living creature' = animal-as-species). Here the phrase is restrictive: 'every-crawler that has-life-breath-in-it' — qualifying the recipients of the food-grant as breathing-life-bearing. Render 'ที่มีลมหายใจในตัว' (that-has breath-of-life in-it) — Thai 'ลมหายใจ' (wind-breath) covers both biological-respiration and life-essence."
+        }
+      ],
+      "notes": "**ANIMAL DIET:** the food-grant extends to animals as well — the original creation-design includes plant-food for both humans and animals. Pre-Fall pristine reading: no predation, no death-by-eating. **'AND IT WAS SO':** the day-6 creation closes with the standard refrain — God's food-provision arrangement was instantiated as commanded."
+    }
+  },
+  {
+    "reference": "Genesis 1:31",
+    "chapter": 1,
+    "verse": 31,
+    "language": "hebrew",
+    "hebrew": "וַיַּ֤רְא אֱלֹהִים֙ אֶת־כָּל־אֲשֶׁ֣ר עָשָׂ֔ה וְהִנֵּה־ט֖וֹב מְאֹ֑ד וַֽיְהִי־עֶ֥רֶב וַֽיְהִי־בֹ֖קֶר י֥וֹם הַשִּׁשִּֽׁי׃פ",
+    "bsb_english": "And God looked upon all that He had made, and indeed, it was very good. And there was evening, and there was morning—the sixth day.",
+    "translation": {
+      "thai": "พระเจ้าทรงเห็นทุกสิ่งที่พระองค์ทรงสร้าง และดูเถิด ทุกสิ่งดียิ่งนัก ก็มีเวลาเย็นและเวลาเช้า เป็นวันที่หก",
+      "thai_literal": "และพระเจ้าทรงเห็นทุกสิ่งที่พระองค์ทรงทำ และดูเถิด ดีเป็นอย่างมาก และก็มีเวลาเย็น และก็มีเวลาเช้า วันที่หก",
+      "thai_summary": "บทสุดท้ายของวันที่หกเป็นการประเมินรวมของพระเจ้าต่อการทรงสร้างทั้งหมด ไม่ใช่แค่ “ดี” (טוֹב) อีกแล้ว — แต่ “ดียิ่งนัก” (טוֹב מְאֹד) เครื่องหมายเน้นที่ปิดสัปดาห์แห่งการทรงสร้าง การใช้ הִנֵּה (ฮินเนห์, “ดูเถิด”) ก่อนคำว่า “ดียิ่งนัก” เป็นการดึงความสนใจของผู้อ่านให้ร่วมเฝ้ามองสิ่งที่พระเจ้าทรงเห็น ตอนจบของบทเป็นการเตรียมสำหรับวันที่เจ็ด — วันสะบาโต (บทที่ 2:1–3) — ที่ทรงพักผ่อนพระทัยจากการทรงสร้าง การประเมิน “ดียิ่งนัก” เป็นรากฐานทางศาสนศาสตร์ของหลักคำสอนเรื่องความดีของวัตถุ-โลก-ร่างกาย — ขัดแย้งกับ dualism ทางจริยธรรมที่จะเกิดขึ้นในภายหลังที่ถือว่าวัตถุนั้นชั่ว",
+      "key_decisions": [
+        {
+          "hebrew": "וַיַּרְא אֱלֹהִים אֶת־כָּל־אֲשֶׁר עָשָׂה",
+          "thai": "พระเจ้าทรงเห็นทุกสิ่งที่พระองค์ทรงสร้าง",
+          "rationale": "Per hebrew_idioms_and_metaphor §1.2: רָאָה (Qal: 'see') with God as subject takes ราชาศัพท์ 'ทรงเห็น' (royal-Thai see/behold). Same rendering as vv.4, 10, 12, 18, 21, 25 — preserves the seven-fold 'God saw' refrain consistency, with the climax marked by the modified object ('all that he had made') and the elevated הִנֵּה + טוֹב מְאֹד ('behold, very good') phrase rather than by varying the perception-verb. Per uW: 'See how you translated God saw in verse 4.' Lock: divine-subject רָאָה → ทรงเห็น throughout the chapter."
+        },
+        {
+          "hebrew": "וְהִנֵּה־טוֹב מְאֹד",
+          "thai": "และดูเถิด ทุกสิ่งดียิ่งนัก",
+          "rationale": "Per uW figs-metaphor: 'This word [הִנֵּה] calls attention to what God is looking at and helps emphasize that what he saw was very good.' The hinneh + tov-meod combination is a Hebrew rhetorical climax — the seventh 'good' is intensified to 'very good' and announced with the attention-marker. Render 'ดูเถิด ทุกสิ่งดียิ่งนัก' — 'ดูเถิด' (behold) + 'ดียิ่งนัก' (very-good, intensified). 'ทุกสิ่ง' (everything) supplied to make explicit what was very-good (per uW: 'Some languages have to specify what was good. it was all very good')."
+        },
+        {
+          "hebrew": "טוֹב מְאֹד",
+          "thai": "ดียิ่งนัก",
+          "rationale": "מְאֹד is an intensifying adverb ('very, exceedingly'). Render 'ดียิ่งนัก' (good-superlatively) — preserves the seven-fold-good-now-intensified culmination of the chapter. Distinguished from the simple כִּי טוֹב of vv.4, 10, 12, 18, 21, 25 ('that-it-was-good' → 'ว่าดี'). The seventh-and-summary פsa good is the final-verdict on the entire creation-week."
+        }
+      ],
+      "notes": "**'VERY GOOD' CLIMAX:** the seven-fold 'good' refrain (vv.4, 10, 12, 18, 21, 25, 31) culminates in the 'very good' summary of v.31. The numerical pattern (six work-days each receiving the 'good' verdict, then the comprehensive 'very good' on day 6) is itself a structural-theological signal — God's creation is teleologically complete and morally good. **MATERIAL CREATION'S GOODNESS:** the verse's verdict establishes the OT/NT theological doctrine of material-creation-as-good — against later dualisms (Gnostic, Manichaean, neoplatonic-ascetic) that would treat matter as evil or inferior. The created order is positively valued by God. **PRELUDE TO SABBATH:** v.31 closes day 6; Gen 2:1-3 introduces day 7 — God's rest from creative work. The seven-day-week structure with Sabbath-completion is canonized here. **NT ECHO:** 1 Tim 4:4 (πᾶν κτίσμα θεοῦ καλὸν — 'every creature of God is good') reads Gen 1:31's verdict against the Pauline opponents' food-and-marriage-asceticism."
+    }
+  }
+]

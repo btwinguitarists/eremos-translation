@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-05-09 12:02:29 UTC_
-_Total chapters: 268 · Total verses: 8075_
+_Generated: 2026-05-09 13:37:08 UTC_
+_Total chapters: 269 · Total verses: 8106_
 
 ## How to verify a chapter
 
@@ -125,6 +125,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/galatians_04.json` | 31 | `6419fc431ce43cebfdbbff8d2a6026f81bd484468e38311da0a266301e78a2d1` | `4ec829e` |
 | `output/translations/galatians_05.json` | 26 | `8c554130d8819be2bff95cf6657734f4da7ec53e27845623688ad63407121424` | `3881232` |
 | `output/translations/galatians_06.json` | 18 | `c536242ca4c882dcab8ccb39b413ac1da9fbd7aebfae3fcbc0be71f7d8bc08bf` | `4ec829e` |
+| `output/translations/genesis_01.json` | 31 | `8794cad2b2a7e70cb1e9f848c515cc016aa6370d521bed057c1a1074778f46b3` | `—` |
 | `output/translations/hebrews_01.json` | 14 | `f57cde0ff89f59a30df5b6e386e9ca302a66ca3ab4b657ac0106d380b45b0ab3` | `b64d487` |
 | `output/translations/hebrews_02.json` | 18 | `19861717616df0e6dd2d83a68b0ec5f62cbd07e944563e0808259a192409df48` | `b64d487` |
 | `output/translations/hebrews_03.json` | 19 | `2304367411023a3ebe7fb048eecc1189be931fdc7159c67d6648c9837d789664` | `a9bee18` |
@@ -164,10 +165,10 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/john_19.json` | 42 | `8e4895ec0fbb4fd94b0ede36df69d79e83b272ae2eeb426ed471339559654f34` | `c23d3a4` |
 | `output/translations/john_20.json` | 31 | `1379bb9aece95670f4273f32cb261d50bb85d0e6f7b34f57f6d6ce94c9715634` | `b64d487` |
 | `output/translations/john_21.json` | 25 | `f6ec05b4ae5b48057f80c04030f55924ebe6ee76b8e1c67e44139b4e04ba859e` | `d50cea8` |
-| `output/translations/jonah_01.json` | 16 | `b053eccb9b718d40079c1a6525c29b17ce9f191b1611ca4515d944c056e14829` | `3bcb8c1` |
-| `output/translations/jonah_02.json` | 11 | `43dca458c3e917c9ded9ebd288f6bac53c93065392c34bffcc53428102e39828` | `37d1cd0` |
+| `output/translations/jonah_01.json` | 16 | `a9173edfb6848bbbcca129bf1ca31602925ad0f638005c1c948f5a424e9529ee` | `0344376` |
+| `output/translations/jonah_02.json` | 11 | `aa9ab5accb590aca125273cec6eab67486ab9e7cf98d9ed9bc48618f85b1d0f6` | `0344376` |
 | `output/translations/jonah_03.json` | 10 | `c7b06a6ba800bdb213f87c3cc8519e74164ec9e2e1fe75065296a2d4caac19a0` | `c933d20` |
-| `output/translations/jonah_04.json` | 11 | `db769e048e6be44ebebb39a5aed550950dc366e5a8b16d9a90b54a4c23605c49` | `—` |
+| `output/translations/jonah_04.json` | 11 | `b73a2b094502650eec494e2fa5bea923d243ef18ecf7d31b8fb9928ceae90377` | `0344376` |
 | `output/translations/jude_01.json` | 25 | `830e0e17f058553a12d3c30af95ce0dfc8e68d4ae841849ece413ffc310bfc78` | `dd8164e` |
 | `output/translations/luke_01.json` | 80 | `69ceecef9eb92a4f8f94165520214feb6410f3477e0c960da749ab0905431fa4` | `1f0d7ba` |
 | `output/translations/luke_02.json` | 52 | `e50197772258e55fe3d51fecd922cfd83f9ab5ed2b2727d61038dfd9bdce5e03` | `6d15bb1` |
