@@ -1,7 +1,7 @@
 # NT v1.0 — Polish Proposals (Decision Doc)
 
 **Generated:** 2026-05-09
-**Total proposals:** 223
+**Total proposals:** 224
 
 **This is the single decision doc.** For each proposal below, change 
 `**Decision:** pending` to `**Decision:** approve` or `**Decision:** reject`. 
@@ -24,10 +24,10 @@ reference copies — you do NOT need to edit them.
 | conjunction_overload | 59 |
 | literal_idiom | 8 |
 | redundant_directional | 1 |
-| register_drift | 107 |
+| register_drift | 108 |
 | title_collision | 2 |
 | wooden_passive | 39 |
-| **Total** | **223** |
+| **Total** | **224** |
 
 ## Counts by book
 
@@ -48,7 +48,7 @@ reference copies — you do NOT need to edit them.
 | philemon | 1 | `output/polish_proposals/philemon/philemon_01.md` |
 | hebrews | 8 | `output/polish_proposals/hebrews/hebrews_01.md`, `output/polish_proposals/hebrews/hebrews_02.md`, `output/polish_proposals/hebrews/hebrews_04.md` |
 | 1john | 3 | `output/polish_proposals/1john/1john_03.md`, `output/polish_proposals/1john/1john_04.md` |
-| revelation | 38 | `output/polish_proposals/revelation/revelation_01.md`, `output/polish_proposals/revelation/revelation_02.md`, `output/polish_proposals/revelation/revelation_03.md`, `output/polish_proposals/revelation/revelation_04.md`, `output/polish_proposals/revelation/revelation_05.md`, `output/polish_proposals/revelation/revelation_06.md`, `output/polish_proposals/revelation/revelation_07.md`, `output/polish_proposals/revelation/revelation_08.md`, `output/polish_proposals/revelation/revelation_09.md`, `output/polish_proposals/revelation/revelation_10.md`, `output/polish_proposals/revelation/revelation_11.md`, `output/polish_proposals/revelation/revelation_12.md`, `output/polish_proposals/revelation/revelation_13.md`, `output/polish_proposals/revelation/revelation_14.md`, `output/polish_proposals/revelation/revelation_16.md`, `output/polish_proposals/revelation/revelation_18.md`, `output/polish_proposals/revelation/revelation_19.md`, `output/polish_proposals/revelation/revelation_20.md`, `output/polish_proposals/revelation/revelation_22.md` |
+| revelation | 39 | `output/polish_proposals/revelation/revelation_01.md`, `output/polish_proposals/revelation/revelation_02.md`, `output/polish_proposals/revelation/revelation_03.md`, `output/polish_proposals/revelation/revelation_04.md`, `output/polish_proposals/revelation/revelation_05.md`, `output/polish_proposals/revelation/revelation_06.md`, `output/polish_proposals/revelation/revelation_07.md`, `output/polish_proposals/revelation/revelation_08.md`, `output/polish_proposals/revelation/revelation_09.md`, `output/polish_proposals/revelation/revelation_10.md`, `output/polish_proposals/revelation/revelation_11.md`, `output/polish_proposals/revelation/revelation_12.md`, `output/polish_proposals/revelation/revelation_13.md`, `output/polish_proposals/revelation/revelation_14.md`, `output/polish_proposals/revelation/revelation_16.md`, `output/polish_proposals/revelation/revelation_18.md`, `output/polish_proposals/revelation/revelation_19.md`, `output/polish_proposals/revelation/revelation_20.md`, `output/polish_proposals/revelation/revelation_22.md` |
 
 ---
 
@@ -240,7 +240,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** The first เพราะ correctly renders the discourse marker γάρ ('for they think…'); the second เพราะ, however, is rendering ἐν τῇ πολυλογίᾳ, a dative of means — 'by means of their many words' — not a causal clause. Mapping a Greek instrumental ἐν onto a Thai causal connector produces two identical connectors in immediate succession ('เพราะ…เพราะ'), creating an awkward pile-up that also obscures the logical distinction between the framing reason and the means clause. Replacing the second เพราะ with ด้วย (by/through) resolves the pile-up and is more faithful to the Greek instrumental construction; a Thai reader will immediately parse ด้วยการพูดมาก as 'by means of much talking.' Both locked terms จะได้รับคำตอบ and การพูดมากของเขา are preserved verbatim, and the theological content — that pagans expect divine attention in proportion to verbal volume — is unchanged.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -297,7 +297,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** The Greek καὶ εὐθύς ('and immediately') is currently rendered as 'และทันใดนั้น,' prepending an explicit 'และ' to the temporal adverb. In Thai narrative, 'ทันใดนั้น' (at once / immediately) already serves as a discourse bridge; it links the preceding clause to the next and carries the immediacy signal without needing a co-ordinating 'และ' in front of it. The sentence as a whole already accumulates five discourse particles — ก็, และ, ก็, จน, and a second และ — so the first 'และ' before 'ทันใดนั้น' adds to that pile-up without contributing logical information. Dropping it lets 'ทันใดนั้น' headline the dramatic speed of the healed man's obedience, exactly as a Thai narrator would deploy it, while fully preserving the Greek meaning of immediate response; no locked terms are altered.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -316,7 +316,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** The verse's final two Greek clauses are both introduced by καί: 'καὶ ἕξεις θησαυρὸν ἐν οὐρανῷ' (and you will have treasure in heaven) and 'καὶ δεῦρο ἀκολούθει μοι' (and come follow me). Rendering both with 'แล้ว' imposes a temporal-sequential reading ('then… then…') on the second καί, which in context is climactic-additive rather than sequential: Jesus issues the discipleship summons as the culminating co-ordinate call, not as something contingent on the treasure being received first. Two consecutive 'แล้ว' also creates a rhythmically awkward pile-up at the verse's climax. Replacing the second 'แล้ว' with 'และ' removes the false sequentiality, breaks the pile-up, and aligns with the coordinating (not temporal) force of καί before δεῦρο. The key decisions rationale documents the discipleship formula 'จงมาติดตามเรา' (locked and preserved verbatim) but does not address the preceding connector; all other locked terms are untouched; no theological content is altered.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -335,7 +335,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** The Greek opens with the discourse particle δέ (topic-contrast) and then pivots to the counter-rule with ἀλλά (strong adversative). Mapping both onto 'แต่' produces the jarring adjacent pair 'แต่ในพวกท่านจะไม่เป็นเช่นนั้น แต่ผู้ใดต้องการเป็นใหญ่…' — two identical connectors in consecutive clauses that Thai readers naturally stumble over. Dropping the second 'แต่' lets the positive counter-rule ('ผู้ใดต้องการเป็นใหญ่…ผู้นั้นจะต้องเป็นผู้รับใช้') follow the negated premise asyndetically, which is the natural Thai rhetorical pattern for this kind of antithetical rule-pair. The key decisions rationale for this verse documents the rendering of οὐχ οὕτως and διάκονος but does not address the connector choice, leaving this open for polish. All locked terms ('ในพวกท่านจะไม่เป็นเช่นนั้น', 'เป็นใหญ่', 'ผู้รับใช้') are preserved verbatim; no theological content is altered.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -354,7 +354,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** Three consecutive καί clauses are rendered as 'ก็ไป และพบ … และแก้มัน,' producing a double-'และ' pile-up that is unnatural in Thai narrative prose. In Thai, rapid sequential actions (went → found → untied) conventionally chain without a connector before the second verb; 'และ' is most naturally reserved to flag the final completing action. Dropping 'และ' before 'พบ' yields the idiomatic Thai narrative sequence 'ก็ไป พบ … และแก้มันออก,' which fully preserves the logical relation and temporal order of all three events. Neither KD1 nor KD2 addresses the conjunction-handling here; locked terms ถนน and แก้ remain verbatim; no theological content is affected.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -373,7 +373,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** The Greek presents two sequential aorist participles—ἀκούσας ('having heard') and ἰδών ('having perceived')—flowing without an explicit conjunction into the main verb ἐπηρώτησεν; no καί or δέ stands between them. The Thai rendering inserts 'และ' before 'เห็น,' producing the three-connector chain 'ได้ยิน…และเห็น…จึง,' which reads as a list of parallel events rather than a natural participial build-up. Thai participial sequences of this type (perception → assessment → resulting action) idiomatically drop the coordinator between the first two members, letting 'ได้ยิน…เห็น…จึงเข้ามา' read as a single unbroken mental progression. Removing 'และ' is the minimal fix; both locked terms 'ได้ยินพวกเขาโต้เถียงกัน' and 'เห็นว่าพระองค์ตรัสตอบได้ดี' are preserved verbatim, and no theological content is altered.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -430,7 +430,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** The Greek presents three coordinated καί clauses: lest the opponent drag you, καὶ ὁ κριτής hand you over, καὶ ὁ πράκτωρ throw you in prison. The Thai renders the second with 'และ' alone but the third with 'แล้ว...ก็' — a double consecutive marker for a single καί, creating a connector pile-up absent from the source. No KD entry addresses this chain; KD5 covers only the lexical choice πράκτωρ → เจ้าพนักงาน. Dropping 'แล้ว' while retaining 'ก็' is sufficient to mark the sequential result; 'เจ้าพนักงานก็จะ' follows naturally from the preceding 'และผู้พิพากษาจะ...' All locked terms (เจ้าพนักงาน, ฉุดลาก, คู่ความ, ต่อหน้าผู้มีอำนาจ, พยายามตกลงกับเขา) are preserved; no theological content changes.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -506,7 +506,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** κἀγώ is an emphatic compound in which the rhetorical weight falls on ἐγώ ('I myself'), not on the connective καί; the identical κἀγώ in v.31 is rendered within this same corpus as 'ข้าพเจ้าเองก็' — with no leading 'และ' — establishing the preferred pattern. The current v.34 form 'และข้าพเจ้า … และได้เป็นพยาน' places two consecutive 'และ' connectors back-to-back, producing a translationese pile-up that reads awkwardly in Thai. Replacing the first 'และ' with the emphatic particle 'เอง' breaks the pile-up, restores the κἀγώ-emphasis ('I myself have seen'), and restores corpus-internal consistency with v.31. The KD1 rationale for v.34 addresses only the textual variant (ἐκλεκτός vs υἱός) and does not document the leading 'และ' as a deliberate choice; this is therefore an undocumented literal carry-over, not a locked decision. The locked term 'ผู้ที่พระเจ้าทรงเลือกสรร' is preserved verbatim, and no theological content is altered.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -582,7 +582,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** γάρ (background-explanatory) is rendered เพราะ, then διὰ τοῦτο (consequential 'for this reason') is rendered เพราะเหตุนี้, producing a three-marker stack: เพราะ … เพราะเหตุนี้ … จึง. Standard Thai cause-result discourse uses the เพราะ … จึง pair as a clean binary; the middle เพราะเหตุนี้ is redundant because จึง already signals the consequence in full. Dropping เพราะเหตุนี้ preserves both the causal background (γάρ → เพราะ) and the consequential force (διὰ τοῦτο → จึง) without stacking. The locked term ผู้ทรยศพระองค์ is preserved verbatim; no theological meaning is altered.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -620,7 +620,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** The Greek θεωρῶν τε is a participial clause joined by τε (a softer, subordinating-connective particle) to the preceding action, expressing circumstance-leading-to-result ('seeing signs and great works, he was amazed'), not a fully coordinate clause. Thai renders it with a leading 'และเมื่อ,' which promotes it to a coordinate clause syntactically parallel with the earlier 'และเมื่อรับบัพติศมา...' clause, creating a mechanical pile-up of the pattern 'และเมื่อ...ก็... และเมื่อ...ก็.' Dropping 'และ' before the second 'เมื่อเห็น' allows the temporal-circumstantial clause to stand naturally in Thai narrative prose without forced coordination, matching the THSV2011 register for participial circumstance and better reflecting the lighter τε connector. All three locked phrases ('แม้แต่ซีโมนเองก็เชื่อด้วย,' 'เมื่อรับบัพติศมาแล้วเขาก็ติดตามฟีลิปอย่างใกล้ชิด,' 'เมื่อเห็นหมายสำคัญกับการอัศจรรย์อันยิ่งใหญ่ที่เกิดขึ้น เขาก็ตะลึงงัน') are preserved verbatim; no theological meaning is altered.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -696,7 +696,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** The Greek 'διὰ ταύτην οὖν τὴν αἰτίαν' is a single emphatic prepositional phrase in which οὖν is embedded as an inferential intensifier — 'for this very reason, therefore.' The Thai rendering splits the phrase into two discrete connectors ('ดังนั้น' for οὖν and 'เพราะเหตุนี้' for διά) and then adds a third resultative marker 'จึง' inside the main clause, producing a three-connector pile-up ('therefore…because of this…so I') that reads as translationese rather than natural formal Thai. Dropping 'ดังนั้น' and retaining the idiomatic Thai pairing 'เพราะเหตุนี้…จึง' captures both the causal sense of διά and the inferential weight of οὖν in a single natural construction. The locked phrase 'เชิญพวกท่านมาพบและสนทนากัน' is preserved verbatim, and no theological content is affected.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -715,7 +715,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** The comparison signalled by καθάπερ καί is already fully expressed by the opening 'ดังที่...ก็'; adding 'เช่นเดียวกัน' at the close of the verse creates a third comparison marker for a single Greek construction, producing a connector pile-up. More critically, its placement immediately after 'โดยปราศจากการประพฤติ' risks being parsed as modifying that clause ('apart from works — in the same manner') rather than echoing the David-introduction, causing syntactic ambiguity for Thai readers. Dropping it leaves the locked phrase 'ความสุขของคนที่พระเจ้าทรงนับว่าเป็นผู้ชอบธรรม โดยปราศจากการประพฤติ' fully intact, the Greek meaning unchanged, and the verse's comparative logic cleaner.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -791,7 +791,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** The verse opens with 'เพราะข้าพเจ้าไม่เข้าใจสิ่งที่ตนกระทำ' (first γάρ, linking back to v.14's 'sold under sin') and then a second 'เพราะ' immediately after the em-dash for the elaborating second γάρ, producing a 'เพราะ — เพราะ' pile-up that reads stilted in Thai. In Thai discourse an em-dash already signals explanatory elaboration, making the second 'เพราะ' redundant; the evidence-clause flows naturally without a repeated causal connector. Dropping the second 'เพราะ' preserves the Greek explanatory logic — the second γάρ's evidence function is fully carried by the em-dash — while breaking the connector pile-up. The locked term 'สิ่งที่ข้าพเจ้าปรารถนา ข้าพเจ้าก็ไม่ทำ แต่สิ่งที่ข้าพเจ้าเกลียดชัง ข้าพเจ้ากลับทำ' is preserved verbatim and no theological change is introduced.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -829,7 +829,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** The verse opens with a causal γάρ rendered 'เพราะปัญญาของโลกนี้เป็นความโง่เขลา…' and immediately follows with a second γάρ (γέγραπται γάρ) also rendered 'เพราะ,' stacking two consecutive causal connectors where the second one performs a functionally distinct role: introducing a Scripture citation as evidential support, not a causal chain-link. In THSV2011-register Thai evangelical usage, γέγραπται γάρ introducing a proof-text is naturally rendered 'ดังที่เขียนไว้ว่า' or 'ตามที่เขียนไว้ว่า,' which is the standard citation-reference marker rather than a repeated causal เพราะ. Changing 'เพราะมีคำเขียนไว้ว่า' to 'ดังที่เขียนไว้ว่า' breaks the pile-up and restores the correct discourse signal (Scripture corroborates the preceding claim) while leaving all locked terms verbatim: 'ในสายพระเนตรของพระเจ้า' and the citation quote 'พระองค์ทรงจับคนมีปัญญาในความเจ้าเล่ห์ของพวกเขาเอง' are untouched. This is purely a connector-register fix, not a theological change.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -848,7 +848,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** The verse already opens with 'แต่บัดนี้' rendering δέ, and the translator added a second 'แต่' to make explicit the implicit Greek contrast between ὀνομαζόμενος (being named a brother) and ᾖ πόρνος (being in fact immoral). The two 'แต่' tokens appearing within the same sentence create an inelegant pile-up that a Thai editor would automatically resolve. 'กลับเป็น' (lit. 'turns out / reversal-is') is a standard formal Thai construction that carries precisely this reversal contrast — someone who carries the name of a brother yet lives in flagrant sin — without any register loss and without any pile-up. All locked terms ('ผู้ใดที่ได้ชื่อว่าเป็นพี่น้อง', 'คนล่วงประเวณี…คนปล้นชิง', 'อย่าแม้กระทั่งกินด้วยกันกับคนเช่นนั้น') remain verbatim unchanged, and no theological meaning shifts.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -886,7 +886,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** The Greek ἢ οὐκ οἴδατε ὅτι carries exactly one disjunctive marker (ἢ) and one subordinating conjunction (ὅτι); there is no second interrogative particle in the Greek. The current Thai 'หรือพวกท่านไม่รู้หรือว่า' stacks two instances of หรือ in immediate succession — the opening หรือ rendering ἢ, then a second หรือ embedded in 'ไม่รู้หรือว่า' — producing a pile-up that the source lacks. Every other occurrence of the identical Greek formula ἢ οὐκ οἴδατε ὅτι in this chapter (vv. 2, 9, 19) is rendered 'หรือพวกท่านไม่รู้ว่า' with a single หรือ; v.16 is the sole outlier. Dropping the embedded second หรือ normalises v.16 to the intra-chapter pattern, eliminates the redundant stacking, and carries zero theological implication. Both locked terms for this verse (ผู้ที่ผูกพันกับหญิงโสเภณีก็เป็นกายเดียวกันกับนาง and เพราะมีคำเขียนไว้ว่า 'ทั้งสองจะเป็นเนื้อเดียวกัน') are fully preserved.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -924,7 +924,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** The current clause compounds 'เช่นเดียวกัน' (a loose rendering of ταῦตา as 'in the same way') with 'ด้วย' (rendering καί, 'also'), producing two near-synonymous discourse markers in rapid succession, then caps the whole phrase with a further 'ไม่ใช่หรือ?' flip — three stacked layers where the Greek has one conjunction (καί) and one negative (οὐ). Dropping the redundant 'เช่นเดียวกัน' and restoring ταῦτα precisely as 'สิ่งเหล่านี้' leaves a single clean connector 'ด้วย' for καί; repositioning the negative as 'ไม่ได้กล่าว...หรือ?' converts the question to the standard Thai rhetorical-negative form naturally expecting an affirmative answer ('yes, it does say these things'). The locked first clause is unchanged, no theological nuance is altered, and the Greek lemmas are each rendered once rather than twice.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -943,7 +943,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** เนื่องจาก...จึง is a grammatically correct Thai causal construction, but when prefixed by ดังนั้น the sentence front-loads three successive logical connectors—'therefore / because / therefore'—that stammer against each other in Thai prose. Thai เมื่อ...จึง renders the Greek circumstantial participle ἔχοντες as a lighter temporal-circumstantial clause ('when/since we have such hope, we therefore…'), allowing ดังนั้น to carry the discourse-level οὖν without redundancy. The locked phrase เราจึงประกาศด้วยความกล้าหาญอย่างยิ่ง is preserved exactly, and Paul's meaning—apostolic boldness flowing from Spirit-grounded hope—is fully intact. No theological shift occurs.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -962,7 +962,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** The verse's locked end-clause already deploys เพราะ to render ὅτι ('เพราะในพระคริสต์เท่านั้นที่ผ้าคลุมจะถูกขจัดออกไป'); rendering the earlier γάρ with a second เพราะ produces a เพราะ…เพราะ echo within a single complex sentence that reads clumsily in Thai. Dropping the first เพราะ lets the evidential γάρ clause flow naturally as an unmarked elaboration on the hardening claim—Thai readers will parse 'until this day the veil remains' as self-evident continuation without needing a formal causal particle. All locked phrases (จิตใจของพวกเขาแข็งกระด้าง, ในขณะอ่านพันธสัญญาเดิม, and the full ก็ยังคงอยู่…ถูกขจัดออกไป clause) are preserved verbatim; the logical and theological content is identical.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -981,7 +981,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** The verse opens with γάρ rendered เพราะ to introduce the causal clause; then the same clause ends with διὰ Ἰησοῦν rendered เพราะเห็นแก่พระเยซู, creating a double-เพราะ pattern within one clause ('เพราะเราซึ่งยังมีชีวิตอยู่นั้น ถูกมอบไว้แก่ความตายเสมอเพราะเห็นแก่'). Replacing เพราะเห็นแก่ with โดยเห็นแก่ breaks the pile-up while preserving the full causal-motivational sense of διά + accusative ('on account of / for the sake of'). Critically, the identical Greek phrase διὰ Ἰησοῦν at 4:5 is corpus-locked as 'โดยเห็นแก่พระเยซู,' so this change simultaneously achieves cross-verse consistency with that locked term; all other locked terms in the verse are untouched and no theological content changes.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -1152,7 +1152,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** The conjunction introducing the second clause is a simple coordinate καί subordinate to the opening ἐπεὶ οὖν that anchors the verse's single causal structure. Repeating 'เนื่องจาก' for this second καί promotes a coordinate link into a second independent causal clause, producing a 'เนื่องจาก…เนื่องจาก' pile-up where the Greek has only one causal hinge (ἐπεὶ) followed by a coordinate extension (καί). Dropping the redundant 'เนื่องจาก' preserves the identical logical relation — both clauses jointly ground the conclusion drawn in v.7 — while eliminating the stacked-connector effect. The locked phrase 'ยังเหลือสำหรับบางคนที่จะเข้าสู่การพักสงบนั้น' is untouched and no theological content is altered.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -1190,7 +1190,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** The Greek has a single καί connecting κυκλόθεν (all around) and ἔσωθεν (inside); crucially, there is no explicit connector between the wings participial phrase (ἔχων ἀνὰ πτέρυγας ἕξ) and the following eyes clause — only a comma. The Thai correctly renders the internal καί as ทั้ง...และ... but then adds a further 'และ' before 'ทั้งภายนอก' to bridge the wings and eyes clauses, producing 'และทั้งภายนอกและภายใน' — three and-connectors in rapid succession where the Greek supplies one. Dropping the bridging 'และ' lets the eyes clause stand as a natural appositive description flowing directly from the subject, matches the Greek participial clause architecture (no explicit connector), and eliminates the triple-and echo without altering any meaning. The locked term 'แต่ละตนมีปีกหกปีก' appears verbatim in the proposed text; no theological content is changed.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -1247,7 +1247,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** The Greek presents two parallel prepositional phrases (ἐκ τῶν πόνων αὐτῶν καὶ ἐκ τῶν ἑλκῶν αὐτῶν) that share the same pronominal referent αὐτῶν. The current Thai renders each as a fully independent เพราะ clause with its own ของพวกเขา, producing 'เพราะ A ของพวกเขา และเพราะ B ของพวกเขา.' Standard Thai grammar contracts coordinated noun phrases under a single shared pronoun: 'เพราะ A และ B ของ X' is the idiomatic form, and the doubled เพราะ with doubled ของพวกเขา registers as translationese stiffness to a Thai reader. The proposed form drops the repeated connector and pronoun tail while preserving both causal items and the full logical relation. No locked terms ('พวกเขาก็หมิ่นประมาทพระเจ้าแห่งสวรรค์' and 'พวกเขาก็ไม่กลับใจจากการกระทำของพวกเขา') are touched, and no theological content is altered.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -1302,9 +1302,9 @@ reference copies — you do NOT need to edit them.
 
 > กับพี่น้องผู้เผยพระวจนะของท่าน และกับผู้ที่รักษาถ้อยคำของหนังสือเล่มนี้
 
-**Why:** The Greek constructs a single predicate σύνδουλός σού εἰμι ('I am your fellow-servant') with three genitive complements chained by καί—not three separate predicate clauses. The current Thai mechanically re-states the full predicate 'เป็นเพื่อนผู้รับใช้กับ' for each of the second and third complements, producing a stacked, repetitive rhythm that no Thai speaker would use for an enumerated list. Dropping the repeated predicate and continuing with bare 'กับ + noun phrase' for the continuation members is the natural Thai list structure, reading the three parties as coordinate objects of the same relationship. The locked phrase 'อย่าทำเช่นนั้นเลย เราเป็นเพื่อนผู้รับใช้กับท่าน' is preserved verbatim; no theological meaning is altered and no other locked terms are touched.
+**Why:** Greek σύνδουλος appears once as a single predicate nominative governing three coordinated genitive objects (σού · τῶν ἀδελφῶν σου τῶν προφητῶν · τῶν τηρούντων); the Greek structure is one predicate, three objects — not three predicate clauses. The Thai repeats 'เป็นเพื่อนผู้รับใช้กับ' three times, creating an anaphoric pile-up absent from the source and heavier than natural Thai list syntax, which shares a single predicate across all objects without repetition. The proposed text continues the list with 'กับ' directly after the locked first clause, which is both more idiomatic in Thai and more structurally faithful to the Greek. The locked phrase 'เราเป็นเพื่อนผู้รับใช้กับท่าน' is preserved verbatim as the governing predicate; the angel's threefold solidarity with John, the prophet-brothers, and the word-keepers is fully retained; no theological change is introduced.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -1325,7 +1325,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** ἀπεκρίθησαν καὶ εἶπαν is a Hebraistic verbal doublet (LXX formula ἀπεκρίθη καὶ εἶπεν ← וַיַּעַן וַיֹּאמֶר) whose idiomatic force is simply 'replied' — the two verbs form a fixed formulaic unit, not two discrete speech-acts. Rendering it word-for-word as 'ตอบและกล่าวกับพระองค์ว่า' creates a redundant Thai surface ('both answered AND said to him') that a Thai reader reads as awkward co-ordination rather than as a natural response formula. Standard Thai uses 'ตอบพระองค์ว่า' for this idiom, which already contains the speech-reporting function. The locked phrase 'เพราะเหตุการณ์นี้ ... จึงตอบ' is preserved verbatim as a substring of the revised sentence; 'ชาวยิว' and all other locked terms are unchanged. No theological content is altered.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -1382,7 +1382,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** The Greek uses a genitive-of-comparison construction — ἀστήρ ἀστέρος, 'star from star' — to convey that each star differs from every other. Thai 'ดาวต่อดาว' is a word-for-word calque: ต่อ in Thai carries senses of 'per,' 'against,' or 'toward' but does not idiomatically signal mutual comparison, so the phrase is opaque or simply odd to a Thai reader. 'ดาวแต่ละดวงก็มีสง่าราศีต่างกัน' (each individual star has different glory) conveys the same distributive meaning — stars are not uniform in their glory — in natural Thai without importing the Greek genitive grammar. No locked terms are present in this verse; no theological change.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -1420,7 +1420,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** The Greek ὑποδησάμενοι τοὺς πόδας ('having shod your feet') is rendered word-for-word as 'สวมรองเท้าที่เท้า,' making 'ที่เท้า' entirely redundant in Thai: 'สวมรองเท้า' already encodes the foot-location with full idiomatic force—no native Thai speaker would say 'put shoes on at the feet.' No KD rationale documents or justifies the retention of 'ที่เท้า.' Removing it yields the natural Thai action phrase 'สวมรองเท้า' while preserving the full Greek meaning; the locked term 'ความพร้อมแห่งข่าวประเสริฐของสันติสุข' is unchanged, and no theological content is affected.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -1485,7 +1485,7 @@ reference copies — you do NOT need to edit them.
 
 ---
 
-## register_drift (107)
+## register_drift (108)
 
 <!-- POLISH_PROPOSAL id=matthew_10_optimal_002 -->
 ### Matthew 10:18
@@ -1671,7 +1671,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** The current Thai renders three discrete Greek elements word-for-word — ζώνην (สายคาดเอว) + δερματίνην (ทำด้วยหนัง) + περὶ τὴν ὀσφύν (รัดรอบเอว) — causing เอว to appear twice in close succession, a textbook translationese artifact. Thai natively compounds the concept as สายคาดเอวหนัง ('leather waist-belt'), in which the wrapping-around-the-waist function is already entailed by the compound สายคาดเอว; the modifier หนัง carries δερματίνην cleanly. All three Greek semantic components (leather, belt, worn at the waist) are preserved; neither locked term (แต่งกายด้วย, กิน) is affected; no theological meaning changes.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -1690,7 +1690,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** Thai 'เป็นเช่นนี้' renders γίνομαι (γινόμεναι, 'happening/coming about') as a static state-verb ('be like this'), whereas γίνομαι denotes occurrence or arising — not a condition of resemblance. Thai 'เกิดขึ้น' (to arise, come to pass) maps the occurrence-sense of γίνομαι precisely and is the standard Thai verb in questions of the form 'how can X happen/come about?' The demonstrative 'เช่นนี้' (like this) is also redundant: the locked phrase 'ฤทธิ์อำนาจอันยิ่งใหญ่' already absorbs the τοιαῦται (such/of this kind) force, making 'เป็นเช่นนี้' circular and translationese-stiff. The proposed 'ก็เกิดขึ้นได้อย่างไร?' (and how do they come about?) is natural Thai interrogative phrasing that preserves the rhetorical-question register and the logical parallel with the two preceding questions. No KD rationale addresses or justifies 'เป็นเช่นนี้' specifically; all six locked terms for this verse are preserved verbatim; the theological content — how are such mighty works performed through his hands? — is unchanged.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -1709,7 +1709,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** The phrase 'อยู่กับพวกเขา' word-mirrors the Greek reflexive μεθ' ἑαυτῶν, but in Thai 'พวกเขา' is already the grammatical subject of the very same clause, so restating it as the complement of 'กับ' produces an unnatural loop ('they had bread with them') that no fluent Thai writer would generate; Thai expresses the same sense of on-board possession simply through subject + 'มี' + locative. Dropping 'กับพวกเขา' removes this translationese-stiff artifact without losing any information: location ('ในเรือ') and subject ('พวกเขามี') together fully render 'they had [it] with them in the boat.' All locked terms ('เพียงก้อนเดียวเท่านั้น,' 'ขนมปัง…ก้อนเดียว,' and 'ลืม' in the first clause) are preserved verbatim, and no theological content is altered.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -1918,7 +1918,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** Thai 'ตรัส' is itself the corpus-standard royal speech verb for Jesus; it already encodes the honorific grade that 'ทรง-' would supply. Prefixing it with 'ทรง-' produces a double-honorific ('ทรงตรัส') that is inconsistent with the rest of John 2, where the same Greek speech lemmas (λέγω / εἶπεν / ἔλεγεν referring to Jesus) are rendered with bare 'ตรัส' throughout (vv. 4, 8, 16, 19). This isolated double-honorific constitutes register drift toward translationese-stiff relative to the surrounding corpus. Dropping 'ทรง-' restores intra-chapter consistency without altering meaning, theology, or either locked term ('พระองค์' and 'พระวิหารแห่งพระกายของพระองค์เอง', both preserved verbatim).
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -1975,7 +1975,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** The construction 'ซึ่งพวกนั้นถามว่า' pairs a relative pronoun (ซึ่ง) with a resumptive subject pronoun (พวกนั้น) within the same clause — a pattern that does not occur in natural Thai narrative prose and produces translationese-stiff register. Standard Thai connects consecutive narrative events (officers-arrive → leaders-speak) with the coordinate sequence marker 'แล้ว...ก็' rather than a relative clause with a gap-filling resumptive. The proposed 'แล้วพวกนั้นก็ถามว่า' converts the awkward relative structure into a fluent sequential clause, matching the THSV2011 register target of respectful, modern, accessible prose. Both locked terms ('พวกเจ้าหน้าที่' and 'ทำไมพวกเจ้าจึงไม่จับเขามา') are preserved verbatim, and no theological meaning is altered.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -1994,7 +1994,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** The verb 'ปรารถนา' (to earnestly wish/desire) used for θέλετε creates an immediate root-collision with 'ความปรารถนา' used for ἐπιθυμίαις two words later — 'ปรารถนาจะทำตามความปรารถนา' is noticeably stilted repetition in Thai. The natural formal-register Thai equivalent for θέλω is 'ต้องการ' (to want/need), which also restores the Greek's deliberate lexical distinction: θέλω (volitional willing) vs. ἐπιθυμίαι (strong desires/lusts). Using two different Thai roots to render two different Greek lemmas improves both readability and semantic precision without altering the theological charge of either term. All locked terms in the verse — มาร, ผู้ฆ่ามนุษย์, ผู้พูดเท็จ, บิดาของการมุสา — remain verbatim; no theological meaning changes.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -2070,7 +2070,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** Greek ὅτι after πιστεύετέ μοι is a plain content-clause complementizer ('that'); in Thai it attaches most naturally to a verb of belief as bare 'ว่า' (เชื่อ [object] ว่า). The current 'ที่ว่า' relativizes the complement into a nominal structure ('believe us in that-which-says…'), producing a mildly stiff, translationese construction that jars against the surrounding imperative register. Removing 'ที่' yields 'จงเชื่อเราเถิดว่า', the standard pattern used throughout modern Christian Thai literature and consistent with the THSV2011 target register. The semantic content is unchanged, no theological shift is introduced, and the locked phrase 'ก็จงเชื่อเพราะพระราชกิจเหล่านั้นเอง' in the following clause is unaffected.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -2089,7 +2089,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** The Greek ὅταν γένηται ('when it happens') requires an anaphoric pronoun referring to the foretold events. Thai 'มัน' is the colloquial default for inanimate referents in everyday speech; however, in the optimal-evangelical-formal register targeting THSV2011, formal written Thai uses 'สิ่งนั้น' (that thing) or 'เหตุการณ์นั้น' (those events) for solemn prophetic discourse. The slip is mild but consistent with a register standard the rest of chapter 14 upholds. Replacing 'มัน' with 'สิ่งนั้น' is a surface register correction with no semantic or theological change; there are no locked terms in this verse.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -2260,7 +2260,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** ἐζήτουν is the imperfect of ζητέω (seek, strive, try), signaling sustained, purposive mob-effort — a semantic range that belongs to active volitional striving, not to passive expectation. Thai หวัง (hope, expect) maps onto the ἐλπίζω/ἐλπίς field; in a riot-and-raid context the imperfect ζητέω requires a volitional, action-oriented rendering. พยายามจะ (were attempting to, tried to) matches the Greek's determined-effort nuance and the violent register of the surrounding narrative. None of the five KD entries for this verse address ζητέω → หวัง, confirming the choice is undocumented; the correction involves no theological change and preserves the locked term ให้ฝูงชน verbatim.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -2526,7 +2526,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** The double em-dash strands ว่า after a full pause ('— เพราะรู้ถึงเวลานี้ — ว่า…'), severing the Thai complementizer from its governing verb; standard Thai prose requires รู้ว่า to connect without interruption. Collapsing the two em-dashes and placing ว่า immediately after เวลานี้ restores the natural construction while preserving εἰδότες (เพราะรู้ถึงเวลานี้) and the ὅτι-content clause (ว่าถึงเวลาแล้ว…) intact. The locked term ถึงเวลาแล้วที่พวกท่านจะตื่นขึ้นจากการหลับ appears verbatim in the proposed text. This is a punctuation-structure repair only; no vocabulary or theological meaning changes.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -2564,7 +2564,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** The Greek participial οὖσαν (being/who is) coupled with διάκονον produces the Thai double-marker construction ผู้เป็นผู้รับใช้, stacking two relative/nominal markers in sequence. In Thai, the ผู้ prefix of ผู้รับใช้ already functions as a relative clause head, making ผู้เป็น superfluous and registering as translationese-stiff; compare all other appositive noun phrases in this chapter (เพื่อนร่วมงาน, เหรัญญิก, ผู้ต้อนรับ) which carry no intervening เป็น. Dropping ผู้เป็น yields a clean appositive structure natural to modern Thai and fully consistent with the THSV2011 register. The locked term ผู้รับใช้ของคริสตจักร is preserved verbatim; no theological meaning is altered.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -2583,7 +2583,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** The Greek compound συναιχμάλωτος (fellow-captive) is rendered เพื่อนร่วมเป็นเชลย, inserting the copula เป็น between ร่วม and เชลย in a pattern that does not match standard Thai compound formation. Thai builds 'fellow + noun' compounds directly — เพื่อนร่วมงาน, เพื่อนร่วมห้อง, เพื่อนร่วมชั้น — without an intervening copula; the เป็น here is a Greek-calque particle that reads as mildly awkward. เชลย stands alone as a well-established Thai noun (captive/prisoner), so เพื่อนร่วมเชลย is both more compact and more idiomatic. The captivity sense of αἰχμάλωτος is fully preserved; this is a surface-level polish with no theological implication. Neither of the locked terms for this verse is affected.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -2602,7 +2602,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** In modern standard Thai, ระลึก is an intransitive verb meaning 'to recall/remember' and cannot take a person as its direct object; the construction ระลึกพวกท่านถึง is syntactically un-Thai and produces translationese-stiff output that a Thai reader must re-parse before comprehending. The causative verb เตือนความจำ ('to remind'), which naturally governs a person object followed by ถึง + content-recalled, is the THSV-register equivalent of ἀναμιμνήσκω in its causative meaning 'cause to remember, bring to mind.' No key-decision rationale documents the ระลึก choice for this verb (KD2 justifies only the rendering of ὁδοί → ทางของข้าพเจ้า; KD3 covers the doublet πανταχοῦ/ἐν πάσῃ ἐκκλησίᾳ). The locked term ทางของข้าพเจ้าในพระเยซูคริสต์ is preserved verbatim, and no theological content is affected — the change is a pure verb-selection correction restoring grammatical naturalness to the Greek's causative force.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -2697,7 +2697,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** In Thai grammar, 'เป็นการ' is a pre-verbal particle that nominali­ses action-verb phrases (เป็นการกระทำ, เป็นการฝ่าฝืน, เป็นการละเมิด); it does not precede predicate adjectives. 'น่าอับอาย' is a predicate adjective, so the standard THSV2011-register construction for the Greek predicate αἰσχρόν ἐστιν ('it is shameful') is 'เป็นเรื่องน่าอับอาย' (it is a shameful matter) or 'เป็นสิ่งน่าอับอาย', not 'เป็นการน่าอับอาย'. The KD for this verse addresses only the interpretive crux of ἄνδρας/husbands and does not document the 'เป็นการ' choice, so no translator rationale locks it. The single-word substitution เรื่อง for การ is a pure surface-grammatical correction: the lexical rendering น่าอับอาย for αἰσχρός is kept intact, no theological sense is altered, and the locked phrase in the first half of the verse is entirely outside the edited span and is unaffected.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -2792,7 +2792,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** The phrase 'ตั้งไว้ที่ตนเอง' is a wooden calque of παρ᾽ ἑαυτῷ—Thai speakers do not say 'วางไว้ที่ตนเอง' for the idea of setting something aside privately at home; the natural register is 'เก็บไว้เอง' or 'แยกเก็บไว้.' The immediately following 'สะสมไว้' (θησαυρίζω) then creates a clumsy doublet alongside 'ตั้งไว้,' stacking two near-synonymous verbs in translationese sequence. Collapsing both into 'แยกเก็บสะสมไว้เอง' renders the private setting-aside (παρ᾽ ἑαυτῷ) and the accumulation (θησαυρίζω) in a single, idiomatic Thai phrase that sits at natural THSV2011 register. The locked phrase 'ตามที่ตนเจริญรุ่งเรือง' follows immediately after the changed span and is untouched; no theological meaning is altered.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -2906,7 +2906,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** The phrase 'ในการมีต่อพวกท่าน' (literally 'in the having toward you') is a wooden nominalisation of the bare directional εἰς ὑμᾶς; no KD documents a deliberate choice for this second clause — the only locked element in v.4 covers the first Christ-clause. In natural Thai the directional εἰς ὑμᾶς appended to an active clause is simply 'ต่อพวกท่าน' (toward you), which sits cleanly at sentence-end without the artificial 'ในการมี-' wrapper. The proposed trim does not alter Paul's meaning — that his apostolic life exercised in resurrection-power is directed toward the Corinthians — nor does it touch any locked term.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -2963,7 +2963,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** The current 'ถึงวิธีที่พวกท่านดำเนินชีวิต' is a calque of the Greek πῶς-clause that nominalized the indirect question into a prepositional phrase ('about the way/manner that you live') — a translationese-stiff construction. Thai idiom embeds indirect manner-questions with 'ว่า…อย่างไร' (that…how), not 'ถึงวิธีที่…' (about the way that…), which is the pattern a THSV2011-register writer would naturally reach for. The locked term 'อย่างถี่ถ้วน' is preserved verbatim, and the surrounding locked antithesis 'คนเขลา … คนมีปัญญา' is unaffected. No theological content shifts — the call to careful discernment in the conduct of life remains fully intact.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -3210,7 +3210,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** เล่นชู้ is a colloquial Thai expression for sexual infidelity that sits well below the formal-evangelical register the letter sustains throughout; it reads as chat-speak rather than solemn judicial speech. Within the same Jezebel-judgment passage (vv.20–23), the locked text of v.20 already renders the cognate sin (πορνεύω) as ล่วงประเวณี (formal), so rendering μοιχεύω with เล่นชู้ just two verses later introduces a conspicuous intra-letter register gap. Substituting ล่วงประเวณีกับนาง restores consistency with the established register and preserves the gravity of the divine-judgment context; no theological meaning changes, and the locked term เราจะโยนนางลงบนเตียง is entirely unaffected.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -3267,7 +3267,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** The Greek ἔχοντες is a single participle governing a compound direct object — κιθάραν καὶ φιάλας χρυσᾶς — with no verb repeated for the second object. The Thai mirrors a Semitic/Greek verbal-repetition pattern by writing 'ถือพิณและถือชาม,' but Thai does not require or expect the governing verb to reappear before each item in a compound object list; 'ถือพิณและชาม' is the idiomatic form. Dropping the second 'ถือ' removes the translationese stiffness without any loss of meaning and without touching any locked term: 'ชามทองคำที่เต็มไปด้วยเครื่องหอม ซึ่งเป็นคำอธิษฐานของธรรมิกชน' is preserved verbatim in the proposed text. No theological content changes.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -3324,7 +3324,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** The Greek resumptive/appositional participle ἐσφραγισμένοι (nom. pl.) after the 144,000 figure is a Hellenistic anacoluthon — the clause restarts with the same participle to attach 'from every tribe of Israel' as a complement. Rendered literally, the Thai repeats 'ผู้ที่ถูกประทับตรา' twice in the same sentence (once at the head of the clause, again in 'เป็นผู้ที่ถูกประทับตราจากทุกเผ่า'), producing translationese-stiff redundancy that a Thai reader experiences as noise. Dropping 'เป็นผู้ที่ถูกประทับตรา' and attaching 'จากทุกเผ่าของบรรดาบุตรอิสราเอล' directly after the count is the natural Thai structure: the sealed referent is fully established by the head noun 'ผู้ที่ถูกประทับตรา' earlier in the same clause. The locked term 'หนึ่งแสนสี่หมื่นสี่พันคน' is preserved verbatim; no theological content is altered — the full meaning (144,000 sealed persons drawn from every tribe of Israel) is retained without change.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -3362,7 +3362,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** The current Thai mechanically mirrors the two Greek participles (λαλοῦσαν + λέγουσαν) with two near-synonymous verbs, producing 'พูด...กล่าวว่า' — a register-inconsistent pairing where พูด sits in the colloquial register while กล่าวว่า is formal-literary, and both verbs convey the same speech act. Optimal-evangelical-formal register (THSV2011 level) calls for a single formal verb throughout. The proposed กล่าวกับ...อีกว่า collapses the redundancy, resolves the register mismatch, and fully preserves the πάλιν nuance (อีก = again) along with the temporal logic of the verse. The locked direct-speech phrase 'จงไปรับหนังสือม้วนที่เปิดอยู่' is untouched, and no theological content is altered.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -3457,7 +3457,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** The Thai verb ย่ำ (to tread/press with the feet) is already embedded in the established compound noun บ่อย่ำองุ่น (grape-treading-vat), so the passive ถูกย่ำ produces a jarring lexical collision — 'the grape-treading-vat was grape-trodden' — that reads as awkward, almost tautological Thai. Replacing the passive verb with เหยียบ (to tread/trample underfoot) renders πατέω with equal semantic fidelity — both words denote pressing down with the foot — while eliminating the surface repetition. เหยียบ additionally carries a slightly more visceral 'trample underfoot' force that suits the Isa 63 divine-warrior winepress-judgment imagery underlying this passage. The locked compound noun บ่อย่ำองุ่น is preserved verbatim, and no theological meaning is changed.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -3476,7 +3476,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** The same Greek form οὐ μὴ ἀκουσθῇ ἐν σοὶ ἔτι appears twice in this verse; KD2 locks the second occurrence's predicate as 'จะไม่ได้ยินในเจ้าอีกต่อไป' — the translator's own preferred, clean construction. The first occurrence's predicate 'จะไม่มีให้ได้ยิน' is an existential-impersonal circumlocution ('there will be nothing for [anyone] to hear') that reads as translationese-stiff against the THSV2011 target register. Harmonizing to 'จะไม่ได้ยินในเจ้าอีกต่อไป' removes the awkward impersonal layer, achieves internal consistency within the same verse, and introduces zero theological change. All KD1-locked musical-group terms remain verbatim.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -3513,6 +3513,25 @@ reference copies — you do NOT need to edit them.
 > ชั่วระยะเวลาอันสั้น
 
 **Why:** The Greek μικρὸν χρόνον means 'a short / little time'—the μικρόν qualifier carries eschatological weight, explicitly marking Satan's post-millennial release as deliberately brief before his final defeat. The current 'ชั่วระยะเวลาหนึ่ง' renders only 'for a period of time,' silently dropping μικρόν entirely, while the formal-bureaucratic compound ระยะเวลา tips the phrase toward translationese-stiff rather than optimal-evangelical-formal. 'ชั่วระยะเวลาอันสั้น' restores the 'short' qualifier in natural Thai at the THSV2011 register level without adding theological content. The KD2 rationale focuses exclusively on δεῖ (divine necessity) and does not address μικρόν, so the omission appears undocumented rather than intentional; flagged as fyi because the translator may hold a readability rationale not captured in the ledger. Both locked phrases ('แล้วปิดและประทับตราเหนือมันไว้' and 'เพื่อมันจะไม่หลอกลวงประชาชาติทั้งหลายอีก จนกว่าพันปีนั้นจะสำเร็จ') are fully preserved.
+
+**Decision:** pending
+
+<!-- /POLISH_PROPOSAL -->
+
+---
+
+<!-- POLISH_PROPOSAL id=revelation_22_optimal_002 -->
+### Revelation 22:16
+
+**Current:**
+
+> มาเป็นพยานเรื่องสิ่งเหล่านี้แก่พวกท่านสำหรับคริสตจักรทั้งหลาย
+
+**Proposed:**
+
+> มาเป็นพยานสิ่งเหล่านี้แก่พวกท่านในคริสตจักรทั้งหลาย
+
+**Why:** The current phrase stacks two consecutive beneficiary markers back-to-back — 'แก่พวกท่าน' (rendering ὑμῖν) immediately followed by 'สำหรับคริสตจักรทั้งหลาย' (rendering ἐπί + dative) — producing translationese-stiff syntax uncommon in natural Thai formal prose. The proposed text drops the periphrastic 'เรื่อง' (Thai μαρτυρέω naturally takes a direct object without a preposition, so 'เป็นพยานสิ่งเหล่านี้' is idiomatic) and reads ἐπί ταῖς ἐκκλησίαις as locative, merging the two beneficiary phrases into the single natural unit 'แก่พวกท่านในคริสตจักรทั้งหลาย.' This is deferred to a native reviewer because the interpretation of ἐπί + dative here — locative 'in/among the churches' versus benefactive 'for the churches' — is exegetically contested, and the optimal Thai connective turns on that decision; all locked phrases ('เรา เยซู', 'เราคือรากและเชื้อสายของดาวิด', 'เป็นดาวประจำรุ่งที่สุกใส') are preserved verbatim and no theological meaning changes.
 
 **Decision:** pending
 
@@ -3632,7 +3651,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** The Greek δι᾽οὗ...παραδίδοται identifies the betrayer as instrument ('through whom the Son of Man is handed over'), but the Thai ผู้ที่...จะถูกมอบไว้โดยการกระทำของเขา is circular: the relative pronoun ผู้ที่ already establishes the agent, making the appended โดยการกระทำของเขา redundant and heavy. Thai natively prefers active voice in such agent-relative clauses, and the same passive-to-active shift is already attested within the chapter's own KD apparatus (v.31 KD5: 'Passive → Thai active-idiom'). The proposed ผู้ที่มอบบุตรมนุษย์ไว้ preserves both the locked term บุตรมนุษย์ and the consistent παραδίδωμι → มอบ...ไว้ rendering used throughout the chapter (vv.15, 16, 21, 23, 45, 46). No theological change: the same betrayer-handing-over-Jesus meaning is carried, simply without the circumlocutory passive frame.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -3651,7 +3670,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** The aorist passive ἐκλήθη is rendered with the heavy ถูก- construction (ถูกเรียกว่า), yet neither KD1 nor KD2 documents a reason to prefer the formal Thai passive over the impersonal active. In THSV2011-register narrative, เรียกกันว่า ('people call it' / 'it is known as') is the standard idiom for place-name assignments and narrator-asides—it carries the same passive semantic without the ถูก- weight that normally signals affliction or an unwilling recipient. Both locked terms (ทุ่งโลหิต and จนถึงทุกวันนี้) are fully preserved, and the meaning (this field bears the name Blood Field to this day) is unchanged; no theological content is altered.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -3689,7 +3708,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** The Greek δαιμονιζομένου (present passive participle of δαιμονίζω) is rendered in v.21 with the ถูก- passive marker ('ถูกผีสิง'), yet the corpus-locked rendering at v.20 for the semantically equivalent expression δαιμόνιον ἔχει is the active-existential construction 'มีผีเข้าสิง.' Thai natively prefers the active-existential 'มีผีเข้าสิง' over the ถูก- passive in demonic-possession contexts, as ถูก- carries a slightly clinical-victim connotation absent from the Greek participle. Replacing 'ถูกผีสิง' with 'มีผีเข้าสิง' restores intra-chapter consistency with v.20's corpus lock, removes the wooden passive, and faithfully represents δαιμονιζομένου; the only locked phrase in this verse, 'ผีจะเปิดดวงตาคนตาบอดได้หรือ?', is entirely untouched and no theological meaning changes.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -3746,7 +3765,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** The Greek γεγραμμένα (perfect passive 'have been written/recorded') is rendered with the ถูก- passive marker, producing ไม่ได้ถูกบันทึกไว้ — a stacked ไม่ได้ + ถูก construction that is noticeably stiff in Thai. The ถูก marker typically signals an adversarial or unintended action done to a subject, which is tonally incongruous for a calm authorial note about the scope of the record. Dropping ถูก to yield ไม่ได้บันทึกไว้ produces natural Thai resultative-stative phrasing ('have not been recorded') in formal-evangelical register. No KD rationale justifies the ถูก construction here, and the corpus-locked phrase ในหนังสือเล่มนี้ is preserved verbatim. The theological content is unchanged.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -3765,7 +3784,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** The Gospel's climactic purpose declaration — 'these things have been written so that you may believe' — carries a deliberate, purposeful tone that the ถูก- passive undercuts in Thai: ถูก implies something happening to a subject without or against intent, whereas this is a triumphant authorial statement. Thai formal prose naturally uses the bare resultative form บันทึกไว้ (is recorded / stands written) in declarative-purpose constructions; สิ่งเหล่านี้บันทึกไว้เพื่อพวกท่านจะเชื่อ is idiomatic THSV2011-register Thai. No KD rationale locks the ถูก construction; the corpus-locked clauses เพื่อพวกท่านจะเชื่อว่าพระเยซูทรงเป็นพระคริสต์ พระบุตรของพระเจ้า and มีชีวิตในพระนามของพระองค์ are entirely untouched. The theological content and Greek meaning are fully preserved.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -3822,7 +3841,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** The current rendering fuses the royal-agent prefix ทรง- (which Thai grammar reserves for a divine or royal subject acting) with the patient-passive marker ถูก-, producing the anomalous cluster ทรงถูกประกาศ; Thai cannot coherently combine an agentive-subject honorific with a patient-passive marker on the same verbal complex, making the phrase feel both grammatically strained and register-contradictory. The KD2 ledger entry for this verse already records the translator's documented choice as 'จะทรงนับว่าชอบธรรม' (= 'royally-reckon-as-righteous'), an active-divine construction that renders the Greek divine passive δικαιωθήσονται cleanly and sustains Paul's imputational-justification theology without the ทรง/ถูก collision. The proposed text restores the KD2-locked term verbatim and preserves all other locked terms in the verse (ผู้ฟังธรรมบัญญัติ, ผู้ประพฤติตามธรรมบัญญัติ) unchanged; no theological alteration is involved.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -3841,7 +3860,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** ἐλευθερωθήσεται is the future passive of ἐλευθερόω ('will be set free / will be liberated'), here rendered with the Thai ถูก-passive. In Thai, ถูก- prototypically marks an action that is adverse or unwelcome to the grammatical subject, so 'จะถูกปลดปล่อย' carries an unintended negative valence—as if liberation were something unpleasant happening to creation. Because Paul's point is entirely beneficent (creation will be emancipated into the glorious freedom of God's children), 'จะได้รับการปลดปล่อย' ('will receive liberation') aligns the passive construction with the positive character of the divine act. The Greek meaning, the theological content, and the locked phrase 'จากการเป็นทาสของความเสื่อมสลาย' are all preserved without alteration.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -3879,7 +3898,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** σκανδαλίζεται is the passive of σκανδαλίζω ('be caused to stumble / be led into sin'), a word rooted in σκάνδαλον ('trap-spring / stumbling-snare'); it does not mean 'be blocked or obstructed.' The Thai ถูกกีดกั้น both imposes the heavy ถูก- passive marker—out of register with the two flanking predicates สะดุด ('stumble,' causative-active frame) and อ่อนแอ ('weak,' stative)—and imports กีดกั้น ('hindered / barred'), which replaces the falling image with an obstruction image foreign to the Greek. ล้มลง ('fall down') restores the σκάνδαλον stumble-and-fall metaphor, matches the pattern of the other two verbs that avoid ถูก-, and produces the natural three-part list 'สะดุด หรือล้มลง หรืออ่อนแอ' that escalates from the initial trip to the resulting collapse to sustained weakness. No theological content changes: the verse still warns against any act that causes a brother to stumble, fall, or be weakened in faith.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -3898,7 +3917,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** The Greek δοθεῖσάν is an aorist passive participle with explicit agent ὑπὸ τοῦ θεοῦ; the current Thai mirrors the Greek passive-then-agent word order by appending โดยพระเจ้า after the ทรง-prefixed verb. This is doubly awkward in Thai: ทรง- already signals a royal/divine subject, making the postpositive โดยพระเจ้า both redundant and structurally unusual, since Thai relative clauses natively front the agent before the verb. Rewriting to 'ที่พระเจ้าทรงประทานแก่ข้าพเจ้า' (agent-fronted) is the unmarked Thai pattern. Both locked terms ('อย่างกล้าหาญ' and 'เพื่อเตือนพวกท่านให้ระลึก') survive verbatim; theology is unchanged — the grace is still God's gift to Paul.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -3936,7 +3955,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** The aorist passive ἐγράφη ('was written') is rendered as 'ได้รับการเขียนไว้' — the heavy ได้รับการ- passive construction, which in Thai is ordinarily reserved for a human beneficiary receiving an action done to them (e.g., ได้รับการรักษา, ได้รับการศึกษา) and sounds stiff and translationese when applied to the recording of scripture. In the THSV2011 register, agentless 'เขียนไว้' is the long-established natural Thai form for describing scripture as written down, as confirmed by the standard NT citation formula 'ตามที่เขียนไว้ว่า' (as it is written…) used throughout the Thai NT. The proposed 'และเขียนไว้เพื่อเป็นข้อตักเตือนสำหรับเรา' fully preserves the meaning of ἐγράφη πρὸς νουθεσίαν ἡμῶν, reads naturally to a modern Thai audience, and does not alter any theological content or any locked term; both 'สิ่งเหล่านี้เกิดขึ้นกับพวกเขาเป็นแบบอย่าง' and 'ผู้ที่อยู่ในยุคสุดท้ายของยุคทั้งหลาย' are preserved verbatim. The key_decisions rationale for v.11 addresses τυπικῶς and τὰ τέλη τῶν αἰώνων but provides no documented justification for the ได้รับการ- passive over the agentless form.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -4031,7 +4050,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** The current text renders the aorist passive subjunctive ἀναγνωσθῇ with a ได้รับการ- construction ('จดหมายฉบับนี้ได้รับการอ่าน'), which positions the letter as the experiencer of an action and reads as legalistic/bureaucratic formal Thai. Thai idiom strongly prefers the impersonal event construction 'มีการ + verb phrase' for communal public-action contexts — precisely the church-assembly reading Paul is describing. The proposed 'มีการอ่านจดหมายฉบับนี้ในหมู่พวกท่านแล้ว' carries the identical meaning and temporal sense of the Greek ὅταν-clause while sounding natural in modern evangelical Thai. Neither the KD1 nor KD2 rationale for this verse addresses the passive construction; both locked terms — ชาวเลาดีเซีย and จดหมายจากเมืองเลาดีเซีย — remain verbatim in the unchanged surrounding text, and no theological content is altered.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -4069,7 +4088,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** The future passive ἀλλαγήσονται is rendered with a ถูก- passive construction, which in Thai carries a connotation of external imposition or adversarial action and reads stiffly in this cosmological context. The parallel passive παλαιωθήσονται in the immediately preceding v.11 was correctly rendered as เก่าไป (intransitive process, no ถูก-), creating a visible inconsistency within the same unbroken psalm citation; applying the same pattern here yields จะเปลี่ยนแปลงไป. The proposed intransitive form treats the transformation of the heavens as a natural cosmic process, which is idiomatic Thai and fully preserves the Greek meaning — the created order will be transformed/exchanged. No locked terms are touched.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -4107,7 +4126,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** ἐβεβαιώθη is an aorist passive with an explicit agent phrase (ὑπὸ τῶν ἀκουσάντων, 'by those who heard'), precisely the syntactic condition under which Thai strongly prefers agent-fronted active construction. The heavy ได้รับการยืนยัน reads as translationese; ผู้ที่ได้ฟังพระองค์ก็ยืนยันแก่เรา carries identical witness-confirmation meaning with natural Thai word order. The KD rationale addresses ἀρχὴν λαβοῦσα and the author's second-generation status but does not document a rationale for the passive rendering of ἐβεβαιώθη. No locked terms are touched and no theological content changes.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -4126,7 +4145,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** ἐστεφανωμένον is a Greek perfect passive, but the intended sense is a resultant exalted state ('wearing/crowned with glory') rather than an ongoing passive event, and Thai renders such resultant states naturally with the bare stative verb. The heavy ทรงได้รับการ- prefix foregrounds the receiving-process rather than the glorified state the perfect tense signals. The shorter form also echoes the v.7 vocabulary (ทรงสวมมงกุฎให้เขา from the same στεφανόω root), providing cross-verse lexical coherence. No KD rationale justifies the heavy passive construction here, no locked terms are affected, and the theology of post-passion glorification is fully preserved.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -4145,7 +4164,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** The Greek περιβαλεῖται is a future middle-passive form of περιβάλλω; neither KD1 nor KD2 addresses its voice or justifies a passive rendering. The Thai ได้รับการสวมใน is an unusually heavy three-layer passive ('receive the being-clothed-in') that sounds stilted and is not natural in any Thai register. The simple active จะสวมเสื้อผ้าขาวเช่นเดียวกัน ('will wear white garments likewise') is semantically equivalent — whether read as a Greek middle ('will clothe himself') or divine passive ('will be clothed'), the conferred-honor meaning is unchanged. Both locked phrases (หนังสือแห่งชีวิต clause and ὁμολογέω clause) are untouched, and no theological content shifts.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -4164,7 +4183,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** Thai ถูกย้าย (passive: was moved/relocated) carries a strong connotation of deliberate administrative transfer — moving furniture, reassigning staff — which reads as mundanely bureaucratic for the cosmic displacement of mountains and islands on the Day of the Lord. The Greek ἐκινήθησαν (aor. pass. of κινέω, to be set in motion / displaced) simply denotes physical dislocation without implying a purposeful human-like agent. Thai เคลื่อนออก (to shift out of place, to be displaced) is the natural idiom for geological and cosmic upheaval and preserves the implicit passive sense that these massive features were set in motion by the cataclysm. The locked term ท้องฟ้าหดถอยไปดุจหนังสือม้วนที่ถูกม้วน is entirely untouched, and no theological content is altered.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -4183,7 +4202,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** The Greek ἀπεκτάνθησαν (aorist passive, 'were killed') is rendered as ได้ถูกฆ่า, stacking both the Thai completive particle ได้ and the adversative passive marker ถูก- in a construction that is heavier than necessary. Thai naturally prefers an intransitive verb when expressing death-by-cause: เสียชีวิตจาก ('perished from / died from') carries identical semantic weight — one third of the people died as a result of the three plagues — without the double-passive awkwardness. No KD rationale exists for this verse to justify the passive form. The agent (the three plagues, named in the following clause) and the scale of death (one third) are unchanged, so this is not a theological alteration.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -4221,7 +4240,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** The key_decisions entry for 11:2 addresses only πατέω (เหยียบ) and the forty-two-month eschatological period; the passive ἐดόθη is not discussed. The current Thai 'ได้ถูกมอบ' double-stacks the perfect-aspect marker ได้ with the passive marker ถูก, producing a redundant, heavy construction that no modern Thai speaker would choose naturally. Dropping ได้ yields 'ถูกมอบให้แก่คนต่างชาติ,' a clean standard passive that preserves the divine-passive force of ἐδόθη (God gave the outer court to the nations) without introducing an explicit agent. The locked phrase 'พวกเขาจะเหยียบเมืองบริสุทธิ์เป็นเวลาสี่สิบสองเดือน' is entirely untouched; no theological meaning changes.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
@@ -4240,7 +4259,7 @@ reference copies — you do NOT need to edit them.
 
 **Why:** Thai ถูก- is the adversative/negative passive morpheme reserved for actions that are unwanted or harmful to the subject (ถูกตี, ถูกจับ, ถูกปรับ); using it here frames the wilderness nourishing — an explicit act of divine protection and provision — as something afflictive, which is the opposite of the Greek's sense. For benefactive or neutral passives, Thai natively uses ได้รับการ- (received / was given), making ได้รับการเลี้ยงดู the register-correct rendering of τρέφεται. This instinct is already present in the corpus: the cognate active form (τρέφωσιν) at v.6 is rendered with the benevolent framing เพื่อพวกเขาจะเลี้ยงดูนาง; the proposed change aligns v.14 with that same pastoral tone. The Greek passive voice (τρέφεται) is fully preserved — only the Thai passive morpheme shifts from negative (ถูก-) to benefactive (ได้รับการ-) — so no locked term is disturbed and no theological content changes.
 
-**Decision:** pending
+**Decision:** approve
 
 <!-- /POLISH_PROPOSAL -->
 
