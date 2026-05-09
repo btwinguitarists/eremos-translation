@@ -326,7 +326,7 @@ These steps are social, not mechanical, and cannot be built into scripts:
 - **Theological review** — at least one Thai-speaking pastor/theologian reads for doctrinal accuracy
 - **Community comprehension testing** — eventually, small groups of target-audience readers answer comprehension questions
 
-For the pilot phase, Ben is the de facto native-speaker + theological reviewer. As more chapters land, add reviewers per chapter.
+Ben is the project lead and screens prospective reviewers. Approved reviewers are matched to questions per their declared skill set (Thai naturalness, theology / pastoral, biblical-language exegesis, app/UX) and answer through the Eremos Translation Review form (see §10b). Ben remains the de facto reviewer-of-record for un-staffed skill slots until tier-A coverage exists for every category.
 
 ---
 
@@ -342,13 +342,15 @@ For the pilot phase, Ben is the de facto native-speaker + theological reviewer. 
 
 ## 10b. Review infrastructure (manual / community)
 
-Not everything can be automated. For native-speaker review, theological review, and community comprehension testing, the industry-standard tools are:
+Not everything can be automated. For native-speaker review, theological review, and community comprehension testing, the project uses an in-house web review form rather than third-party platforms:
 
-- **Paratext** (SIL) — desktop standard for formal translation teams. Free for qualified missionaries via sponsorship. See `docs/REVIEW_TOOLS.md §1`.
-- **Scripture Forge** (SIL) — free web-based community review. Integrates with Paratext. `docs/REVIEW_TOOLS.md §2`.
-- **unfoldingWord Translation Questions** — comprehension testing for community review. Already integrated source-side (`sources/en_tn/`).
+- **Eremos Translation Review form** — `eremosapp.com/review` — bilingual (Thai + English) reviewer interface backed by Supabase. Per-file YAML question bank lives at `EremosVercel2/shared/review-questions/`; Claude maintains those files as new chapters ship. Reviewers sign up, are vetted by Ben, then matched to question categories per their declared skill set. Owner-only export of responses for triage.
+- **Skill categories** — Thai naturalness (mother-tongue speakers reading aloud), theology / pastoral (doctrinal accuracy), biblical-language exegesis (Greek/Hebrew check), reader comprehension (target-audience testing), app/UX (Eremos reader experience).
+- **unfoldingWord Translation Questions** — comprehension-testing source already integrated repo-side at `sources/en_tn/`; these can be surfaced as additional review-form questions where a chapter has uW comprehension prompts.
 
-These are **post-draft** tools, not translation aids. They handle the social steps (§9) of the check cadence. See `docs/REVIEW_TOOLS.md` for the full integration roadmap.
+These are **post-draft** tools, not translation aids. They handle the social steps (§9) of the check cadence.
+
+**What this section USED to recommend:** earlier drafts pointed at Paratext (SIL desktop) and Scripture Forge (SIL web). Both were evaluated for this project; neither is in active use. Paratext bootstrap on macOS / ARM has not been productive (see `reference_paratext.md` in auto-memory) and the Scripture Forge integration stays locked behind Paratext. The in-house review form replaced that path — it is owner-controlled, integrates directly with the EremosVercel2 app codebase, and avoids the SIL approval bottleneck. If Paratext later becomes available, integration remains an option, but it is no longer on the critical path.
 
 ---
 
@@ -384,5 +386,8 @@ Exception: if rapidly translating sequential chapters in one sitting (e.g., Mark
 - **v0.3** (2026-04-21) — §6 adds schema rule on `key_decisions[].greek` contents + enforcement via `scripts/check_greek_field_integrity.py`. Triggered by LUK 13/14 metadata drift (fabricated/mixed-script Greek tokens). Full remediation in `docs/LUKE_DRIFT_2026-04-21.md`.
 - **v0.4** (2026-04-23) — §5 adds enumerated Luke 24 Western-non-interpolation table documenting all 7 traditional WNIs with SBLGNT disposition. Triggered by Claude external-review of Luke 24 flagging the RULES undercount ("two WNIs" → actually 7). No translation changes; documentation-only fix.
 - **v0.5** (2026-04-23) — §7 check cadence grows to 9 steps with `scripts/check_phrase_consistency.py`. Multi-word Greek phrase lock enforcement (ἄφεσις ἁμαρτιῶν, βασιλεία τοῦ θεοῦ, ἀμὴν λέγω ὑμῖν, etc.). Added after ἄφεσις drift at MAT 26:28 slipped through the per-lemma checker. Triggered the `book-matthew-v2` / `book-mark-v2` retag that applied the ἄφεσις lock retroactively to 3 verses (MAT 26:28, MRK 3:29, plus normalization of LUK 1:77 and 3 amen-formula drift verses).
+- **v0.6** (2026-05-04) — OT pilot policies locked: `divine_names_table_2026-05.md` (יהוה → องค์พระผู้เป็นเจ้า, NT-aligned with Hebrew-form transparency), `ot_register_policy_2026-05.md` (five voice-registers + Rachasap policy for Hebrew kings), `verse_schema_and_versification_2026-05.md` (MT-anchored verse numbering with `versification` sub-objects in known-divergence zones), `hebrew_idioms_and_metaphor_2026-05.md` (anthropomorphism preserve policy + body-language idioms). OT-side checks added: `check_hebrew_field_integrity.py`, `check_divine_names.py`, `check_versification_anchor.py`, `check_honorifics_binding.py`, `check_ketib_qere.py`, `check_lxx_mt_divergence.py`. Ruth pilot shipped (Ruth 1–4) followed by Jonah (1–4) and Genesis (in progress).
+- **v0.7** (2026-05-09) — Jonah end-of-book audit cross-AI review (Gemini + ChatGPT) produces five new corpus-lock decision docs: `chesed_covenant_love_2026-05.md` (חֶסֶד → ความรักมั่นคง corpus-wide), `exod_34_attribute_formula_2026-05.md` (full Sinai self-revelation formula verbatim across all ~10 OT recitations), `nicham_divine_relenting_2026-05.md` (divine-subject Niph'al-נחם → ทรงเปลี่ยนพระทัย; Jer 18:7-10 as canonical resolution to the Num 23:19 apparent tension), `manah_divine_appointment_2026-05.md` (divine-subject Pi'el-מנה → ทรงจัดเตรียม), `leitwort_handling_policy_2026-05.md` (4-rule decision hierarchy for lemma-consistency vs discourse-function priorities). Two Jonah verses spot-revised (JON 2:9, JON 4:2 chesed; JON 1:6 captain register). End-of-book inclusion-variant strict gate hardened (`audit_inclusion_variants.py --strict`).
+- **v0.8** (2026-05-10) — §10b rewritten: review infrastructure now describes the in-house Eremos Translation Review form (`eremosapp.com/review`) instead of Paratext / Scripture Forge. §9 updated to reflect the per-skill-category reviewer matching workflow that the form supports. README progress numbers refreshed (NT v1 complete + Ruth + Jonah + Genesis 1–13 in progress = 282 chapters / 8,413 verses).
 
 Future revisions tracked here with date + summary.
