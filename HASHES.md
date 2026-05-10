@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-05-10 18:27:40 UTC_
-_Total chapters: 312 · Total verses: 9434_
+_Generated: 2026-05-10 18:40:22 UTC_
+_Total chapters: 313 · Total verses: 9462_
 
 ## How to verify a chapter
 
@@ -168,7 +168,8 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/genesis_41.json` | 57 | `c174908e0df9813a1362f4646b89bd83b558aa0e270409887870e62e0495f62f` | `f293230` |
 | `output/translations/genesis_42.json` | 38 | `ff321e863ea455e7da4ad78ee2ba3189b670a7a4f2abd08699216cceba8f1947` | `8e75470` |
 | `output/translations/genesis_43.json` | 34 | `f49e273d674de833f46ff8afadde371e7d04ee17075d6929f393806069f4feae` | `b29909f` |
-| `output/translations/genesis_44.json` | 34 | `713b0a2d27570e44132bf0ff3c296594df08505d84e98ebb41034678a7d855b2` | `—` |
+| `output/translations/genesis_44.json` | 34 | `713b0a2d27570e44132bf0ff3c296594df08505d84e98ebb41034678a7d855b2` | `8db3e68` |
+| `output/translations/genesis_45.json` | 28 | `256053b0bd15a29ac8f8b5494ca2e873d6ded77febac7e7428a3a608ce1c6ec3` | `—` |
 | `output/translations/hebrews_01.json` | 14 | `f57cde0ff89f59a30df5b6e386e9ca302a66ca3ab4b657ac0106d380b45b0ab3` | `b64d487` |
 | `output/translations/hebrews_02.json` | 18 | `19861717616df0e6dd2d83a68b0ec5f62cbd07e944563e0808259a192409df48` | `b64d487` |
 | `output/translations/hebrews_03.json` | 19 | `2304367411023a3ebe7fb048eecc1189be931fdc7159c67d6648c9837d789664` | `a9bee18` |
