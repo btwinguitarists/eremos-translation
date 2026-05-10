@@ -71,6 +71,7 @@ BOOKS = {
     # OT books — added as the OT pilot ships
     "RUT": ("ruth", "Ruth"),
     "JON": ("jonah", "Jonah"),
+    "GEN": ("genesis", "Genesis"),
 }
 
 # OT book codes — the prompt branches on testament so OT packets reference
