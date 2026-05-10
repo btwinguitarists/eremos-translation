@@ -157,3 +157,66 @@ The principle is **implicit**: 4:8 represents a **gap that cross-tradition manus
 **Two questions:**
 1. Should the project write a corpus-doc `docs/translator_decisions/mt_vs_lxx_textual_variant_handling_2026-05.md` that names the three Genesis precedents (4:8 inline-bracket; 46:27 + 47:31 footer-only) + the principle that distinguishes them, before Joshua / Samuel / Jeremiah / Esther / Ezra-Nehemiah ship? The doc should explicitly cross-reference `inclusion_variants_absent_verses_2026-04.md` (NT-side companion).
 2. Independently — is the **inline-square-bracket mechanism at 4:8 the right call**, or should the LXX-addition be relegated to Layer-2-only (matching 46:27 + 47:31), making the surface text MT-only across the entire OT? The 4:8 bracket-mechanism is currently the only place in the shipped corpus where a non-MT word-string appears in the main Thai text — a unique precedent whose principle deserves explicit naming.
+
+---
+
+## Item G — GEN 6:6–7 נָחַם divine-grief vs. divine-relenting subtype split
+
+**The textual question:** Genesis 6:6–7 has the OT's first occurrence of the verb נָחַם (Niph'al) with God as subject:
+
+- **Gen 6:6 (Hebrew):** וַיִּנָּחֶם יְהוָה כִּי־עָשָׂה אֶת־הָאָדָם בָּאָרֶץ ("YHWH was sorry/relented that he had made man on the earth")
+- **Gen 6:7 (Hebrew):** ...כִּי נִחַמְתִּי כִּי עֲשִׂיתִם ("for I am sorry/I relent that I have made them")
+
+**The two senses of Niph'al-נָחַם:**
+
+| Sense | Hebrew context | Thai rendering | Locked precedent |
+|---|---|---|---|
+| **Divine-grief** (reflexive-emotional, internal sorrow over creation/people-state) | Gen 6:6–7: God grieves over what creation has become; **no announced-decision-being-reversed** | **ทรงเสียพระทัย** | Gen 6:6 (proposed locking precedent) |
+| **Divine-relenting** (factive-volitional, change of intended action away from announced judgment) | Jonah 3:9, 3:10, 4:2: God relents from announced destruction of Nineveh | **ทรงเปลี่ยนพระทัย** | Jon 3:10 (per `nicham_divine_relenting_2026-05.md`, locked 2026-05-09) |
+
+**The Eremos rendering at Gen 6:6–7:** **ทรงเสียพระทัย** ("be-sorrowful in royal-Thai"). This is the **divine-grief sub-rendering** — distinct from the Jonah-locked **ทรงเปลี่ยนพระทัย** ("change [royal] mind"). The Gen 6 narrative-context unambiguously supports the divine-grief sense (the lament-frame of vv.5–7; the absence of any prior-announcement-of-judgment that would be reversed; the parallel `וַיִּתְעַצֵּב אֶל־לִבּוֹ` "and he was grieved to his heart" in 6:6b which the Eremos rendering preserves).
+
+**The doc gap:** `nicham_divine_relenting_2026-05.md` v0.1 (decided 2026-05-09 in the Jonah audit) locks **ทรงเปลี่ยนพระทัย** as the corpus-default for divine-נָחַם but does NOT distinguish the two sub-senses. **Gen 6:6 is the OT's first divine-נָחַם occurrence** and the locking precedent for the divine-grief sub-rendering. Without a doc-amendment that recognizes the split, future OT books with divine-נָחַם verses (Ex 32:14 — divine-relenting; 1 Sam 15:11+35 — both senses present in different verses; Ps 106:45 — divine-relenting; Jer 18:8+10 — divine-relenting; Joel 2:13–14 — divine-relenting; Amos 7:3+6 — divine-relenting) will likely default to ทรงเปลี่ยนพระทัย and miss the divine-grief contexts where Gen 6:6 sets the precedent.
+
+**The Num 23:19 / 1 Sam 15:29 counter-formulae** (לֹא יִנָּחֵם "[God] does not change his mind") apply to the **factive-volitional** sub-sense; the divine-grief sub-sense is not contradicted by them. A reader reconciling Gen 6:6 with Num 23:19 needs to see the sub-sense distinction explicitly — otherwise the surface paradox is unresolvable.
+
+**Two questions:**
+1. Should `nicham_divine_relenting_2026-05.md` be amended to split the lemma into two sub-rules — **ทรงเสียพระทัย** for divine-grief (reflexive-emotional, no decision-reversal) and **ทรงเปลี่ยนพระทัย** for divine-relenting (factive-volitional, decision-reversal-from-announced-judgment) — with Gen 6:6 as the locking precedent for the divine-grief sub-rule?
+2. Is **ทรงเสียพระทัย** the right Thai for the divine-grief sense, or would **ทรงโทมนัส** / **ทรงเศร้าพระทัย** / another rendering capture the sense better? The Hebrew also has the parallel verb **עָצַב** (Hithpael, "grieved") in 6:6b which Eremos renders **ทรงเสียพระทัยในส่วนลึกของพระหฤทัย** — locking ทรงเสียพระทัย at 6:6 keeps the verbal-pair (נָחַם / עָצַב) on the same Thai vocabulary which is principled.
+
+---
+
+## Item H — Joseph receives Rachasap (ทรง-) honorific in 4 verses: vizier-of-Egypt vs. patriarch register
+
+**The textual question:** The honorifics-binding check (`scripts/check_honorifics_binding.py`) flags 3 warnings in GEN 50 + 1 in GEN 44 + 1 in GEN 45 where **Joseph is the grammatical subject of a verb prefixed with ทรง-** (the royal-Thai prefix reserved per `ot_register_policy_2026-05.md` §2.2 for divine subjects, foreign emperors, and Hebrew kings — explicitly NOT for patriarchs):
+
+| Verse | Thai (current) | Joseph's role at this moment |
+|---|---|---|
+| GEN 44:1 | โยเซฟ**ทรงสั่ง**คนต้นเรือนของพระองค์ว่า | Vizier-of-Egypt: commanding household staff |
+| GEN 45:1 | โยเซฟ**ทรงเปิดเผยพระองค์**ต่อพี่น้องของพระองค์ | Vizier-of-Egypt: revealing identity to brothers in his palace |
+| GEN 50:1 | โยเซฟ**ทรงโผลง**บนหน้าของบิดา **ทรงร้องไห้**บนท่าน และจูบท่าน | Personal/family: grieving father's death |
+| GEN 50:2 | โยเซฟ**ทรงสั่ง**ผู้รับใช้ของพระองค์ คือหมอ ให้รักษาศพบิดาของพระองค์ | Vizier-of-Egypt: commanding embalmers (state-resourced) |
+
+**The policy-doc text** (`ot_register_policy_2026-05.md` §2.2):
+
+| Subject | Narrator-voice |
+|---|---|
+| **Patriarchs (Abraham, Isaac, Jacob, Joseph)** | **Plain narrator** (treat as venerated-elders, not kings); Rachasap **inappropriate** for tribal-patriarch role |
+| **Foreign emperors (Pharaoh, Nebuchadnezzar, Cyrus, Darius, Xerxes)** | **Rachasap (ทรง)** — they are imperial sovereigns of their narratives, even if villainous |
+| **Foreign vassal-rulers, governors (Pekah, Hazael, etc.)** | **Plain** (they are lower than the imperial level) |
+
+Joseph is **explicitly classified as a patriarch** (plain) in the doc; his vizier-role at Pharaoh's court would also fall under "vassal-rulers, governors" (plain). Either way, the doc requires plain register. The current ทรง- treatment is therefore a **Rachasap-policy violation** by the letter of the doc.
+
+**Why this drift may have happened:** The Joseph-vizier role at Pharaoh's court occupies the highest non-royal Egyptian office (per Gen 41:40–44 his investiture as second-only-to-Pharaoh, with signet ring + linen robes + gold chain + Pharaoh's chariot + the title `אַבְרֵךְ`). The narrator's careful dignification of Joseph's actions — commanding staff, revealing identity to brothers in formal court setting, weeping over father's death, ordering embalmers — may have triggered an instinctive Rachasap-elevation. But the current doc is unambiguous about patriarchs (plain) regardless of office held.
+
+**Three resolution paths:**
+
+(a) **Strict policy compliance** — strip ทรง- from the 4 verses; render `โยเซฟสั่ง...`, `โยเซฟเปิดเผยตัว...`, `โยเซฟโผลง...`, `โยเซฟสั่ง...`. Matches the doc's current letter. The narrative loses some dignification but the policy-thread holds across all patriarchs (Abraham + Isaac + Jacob never receive ทรง- either; only the Joseph-vizier verses drift).
+
+(b) **Joseph-as-vizier policy amendment** — add a sub-rule to `ot_register_policy_2026-05.md` §2.2 that distinguishes patriarchal-narrative-Joseph (chs.37–41 + 50 personal/family contexts → plain) from vizier-of-Egypt-public-office-Joseph (chs.41:40+ public-office contexts → Rachasap). The 4 affected verses split: 50:1 is personal grief at father's death (would shift to plain under (b)); 44:1 + 45:1 + 50:2 are public-office actions (would stay ทรง- under (b)). Daniel-as-Babylonian/Persian-vizier (chs.2, 5, 6) is the obvious cross-corpus parallel that would also benefit from this clarification.
+
+(c) **Defer to Thai-language-reviewer voice** — Joseph's register may be one of the cases where the Thai-natural reading benefits from a slight elevation that doesn't cleanly match the doc's binary patriarch-vs-emperor split. The current Thai may sound stilted-but-respectful in a way that Thai readers accept as fitting Joseph's narrative arc.
+
+**Two questions:**
+1. Should the project amend `ot_register_policy_2026-05.md` §2.2 to add the Joseph-as-vizier-public-office distinction (option b above), or strip the ทรง- from the 4 verses to comply with the current doc letter (option a)? The decision compounds into Daniel and to a lesser extent Mordecai (Esther 8–10).
+2. Independent of (1): for the 50:1 personal-grief verse specifically — does the Joseph-weeping-over-father's-corpse moment warrant the Rachasap (which marks the gravity of the patriarchal-succession transition Joseph now embodies), or should it strictly take plain narrative as the personal-grief register?
