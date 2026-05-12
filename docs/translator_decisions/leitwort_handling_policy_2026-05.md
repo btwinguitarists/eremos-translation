@@ -145,6 +145,52 @@ A book-specific Leitwort (Jonah's ירד, גָּדוֹל, etc.) does **not** ear
 
 ---
 
-## 7. Change log
+## 7. Genesis locking-precedents sub-section (added 2026-05-12)
 
+Added per Genesis end-of-book audit §K. Four major Leitwort-cases exercised across Genesis form locking-precedents for the policy:
+
+### 7.1 שֶׁבַע / שָׁבוּעַ — Beersheba dual-wordplay (21:31 + 26:33)
+
+The place-name **Beersheba** carries a dual etymology in Genesis: שֶׁבַע ("seven") in 21:28–31 (Abraham's seven ewes) + שָׁבוּעַ ("oath") in 21:23–32 + 26:33 (oath-cutting). The Hebrew text plays both senses against each other at the place-name's introduction. Eremos transliterates the name **เบเอร์เชบา** (transliteration) and surfaces the dual etymology in verse-level `key_decisions` for 21:31 + 26:33.
+
+**Rule applied:** Rule 1 (corpus-lock the transliteration) + Rule 3 (preserve discourse-function: the dual-wordplay belongs in the KD layer, not the surface).
+
+### 7.2 יָרַד / עָלָה — Joseph-cycle down/up trajectory
+
+The Joseph cycle uses the lemma-pair יָרַד ("go down") + עָלָה ("go up") as a structuring leitwort across chs 37–50:
+- Joseph **down** to Egypt: 37:25, 39:1
+- Sons of Jacob **down** to Egypt for food: 42:2, 42:3, 43:15
+- Israel **up** out of Egypt prefigured: 50:25 (Joseph's last words)
+
+Eremos preserves the **ลงไป / ขึ้นไป** lemma-pair consistently across these verses — readers tracking the geographic-trajectory leitwort can recognize it. This anchors the Exodus theme that compounds in the Pentateuch.
+
+**Rule applied:** Rule 1 (lemma-lock the directional verb-pair across the Joseph cycle).
+
+### 7.3 עֵזֶר / עֶזְרָה — the "help" word-family
+
+The עֵזֶר lemma anchors two Genesis-marker passages:
+- **Gen 2:18** עֵזֶר כְּנֶגְדּוֹ ("a helper-corresponding-to-him") — the woman as Adam's matched-help
+- **Gen 49:25** מֵאֵל אָבִיךָ וְיַעְזְרֶךָּ ("from the God of your father, who will help you") — Jacob's blessing on Joseph
+
+The same lemma threads through Pss 33:20, 70:5, 121:1–2, 124:8 (forward; "our help is in the name of YHWH"). Eremos uses **ผู้ช่วย / ความช่วยเหลือ** consistently for עֵזֶר when YHWH-anchored; when Gen 2:18's woman-as-helper is rendered, the same root-lemma carries the Adam-to-divine help-trajectory.
+
+**Rule applied:** Rule 1 (lemma-recurrence across thematic threads).
+
+### 7.4 כֶּסֶף — silver-recursion in the Joseph cycle
+
+The lemma כֶּסֶף ("silver") + the cognate verb **covet/desire** thread through the Joseph cycle as a moral-economy leitwort:
+- 31:30 — Laban's teraphim / covet-silver (כָּסַף)
+- 37:28 — Joseph sold for 20 pieces of silver
+- 42:25 / 43:15 / 43:22 — silver returned in the brothers' sacks
+- 44:2 — silver cup planted in Benjamin's sack
+
+Eremos uses **เงิน** ("silver/money") consistently — readers can recognize the silver-as-moral-mirror leitwort across the cycle. The Tamar→Judah silver-payment context (38:18) also threads in.
+
+**Rule applied:** Rule 1 (lemma-lock) + Rule 2 (preserve the moral-economy discourse-function the leitwort enables).
+
+---
+
+## 8. Change log
+
+- **v0.2** (2026-05-12) — Genesis locking-precedents sub-section added per Genesis end-of-book audit §K (Beersheba dual-wordplay, Joseph down/up trajectory, ezer help-family, silver-recursion).
 - **v0.1** (2026-05-09) — Initial policy, triggered by Jonah end-of-book audit cross-AI review (ChatGPT §Z meta-observation). Establishes the lemma-consistency vs discourse-function decision hierarchy as a four-rule framework.
