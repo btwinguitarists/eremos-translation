@@ -1,0 +1,747 @@
+[
+  {
+    "reference": "Exodus 16:1",
+    "chapter": 16,
+    "verse": 1,
+    "language": "hebrew",
+    "hebrew": "וַיִּסְעוּ֙ מֵֽאֵילִ֔ם וַיָּבֹ֜אוּ כָּל־עֲדַ֤ת בְּנֵֽי־יִשְׂרָאֵל֙ אֶל־מִדְבַּר־סִ֔ין אֲשֶׁ֥ר בֵּין־אֵילִ֖ם וּבֵ֣ין סִינָ֑י בַּחֲמִשָּׁ֨ה עָשָׂ֥ר יוֹם֙ לַחֹ֣דֶשׁ הַשֵּׁנִ֔י לְצֵאתָ֖ם מֵאֶ֥רֶץ מִצְרָֽיִם׃",
+    "bsb_english": "On the fifteenth day of the second month after they had left the land of Egypt, the whole congregation of Israel set out from Elim and came to the Desert of Sin, which is between Elim and Sinai.",
+    "translation": {
+      "thai": "ในวันที่สิบห้าของเดือนที่สองหลังจากที่พวกเขาออกจากแผ่นดินอียิปต์ ชุมนุมชนของบุตรอิสราเอลทั้งหมดออกจากเอลิมและมาถึงถิ่นทุรกันดารสีน ซึ่งอยู่ระหว่างเอลิมและซีนาย",
+      "thai_literal": "และพวกเขาเดินทางจากเอลิม และมาทั้งหมดของชุมนุมของบุตรทั้งหลายของอิสราเอลแก่ถิ่นทุรกันดารของสีน ที่ระหว่างเอลิมและระหว่างซีนาย ในสิบห้าวันแก่เดือนที่สองของการออกของพวกเขาจากแผ่นดินอียิปต์",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "מִדְבַּר־סִין",
+          "thai": "ถิ่นทุรกันดารสีน",
+          "rationale": "Per uW translate-names: סִין ‘สีน’ (ไม่ใช่ ‘ซีนาย’) — ถิ่นทุรกันดารระหว่างเอลิมและซีนาย."
+        },
+        {
+          "hebrew": "סִינָי",
+          "thai": "ซีนาย",
+          "rationale": "Per uW translate-names: סִינָי ‘ซีนาย’ — ภูเขาที่พระเจ้าจะประทานพระบัญญัติใน อพย. 19. คำเดียวกับ ‘โฮเรบ’ ในต้นฉบับเอ (ดู อพย. 3:1)."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 16:2",
+    "chapter": 16,
+    "verse": 2,
+    "language": "hebrew",
+    "hebrew": "וַיִּלּ֜וֹנוּ כָּל־עֲדַ֧ת בְּנֵי־יִשְׂרָאֵ֛ל עַל־מֹשֶׁ֥ה וְעַֽל־אַהֲרֹ֖ן בַּמִּדְבָּֽר׃",
+    "bsb_english": "And there in the desert the whole congregation of Israel grumbled against Moses and Aaron.",
+    "translation": {
+      "thai": "ในถิ่นทุรกันดารนั้น ชุมนุมชนของบุตรอิสราเอลทั้งหมดบ่นต่อโมเสสและอาโรน",
+      "thai_literal": "และพวกเขาบ่นทั้งหมดของชุมนุมของบุตรทั้งหลายของอิสราเอลเหนือโมเสสและเหนืออาโรนในถิ่นทุรกันดาร",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 16:3",
+    "chapter": 16,
+    "verse": 3,
+    "language": "hebrew",
+    "hebrew": "וַיֹּאמְר֨וּ אֲלֵהֶ֜ם בְּנֵ֣י יִשְׂרָאֵ֗ל מִֽי־יִתֵּ֨ן מוּתֵ֤נוּ בְיַד־יְהוָה֙ בְּאֶ֣רֶץ מִצְרַ֔יִם בְּשִׁבְתֵּ֙נוּ֙ עַל־סִ֣יר הַבָּשָׂ֔ר בְּאָכְלֵ֥נוּ לֶ֖חֶם לָשֹׂ֑בַע כִּֽי־הוֹצֵאתֶ֤ם אֹתָ֙נוּ֙ אֶל־הַמִּדְבָּ֣ר הַזֶּ֔ה לְהָמִ֛ית אֶת־כָּל־הַקָּהָ֥ל הַזֶּ֖ה בָּרָעָֽב׃",
+    "bsb_english": "“If only we had died by the LORD’s hand in the land of Egypt!” they said. “There we sat by pots of meat and ate our fill of bread, but you have brought us into this desert to starve this whole assembly to death!”",
+    "translation": {
+      "thai": "บุตรอิสราเอลกล่าวกับพวกเขาว่า “ถ้าเพียงเราตายด้วยพระหัตถ์ขององค์พระผู้เป็นเจ้าในแผ่นดินอียิปต์ก็ยังดี ที่นั่นเรานั่งอยู่ใกล้หม้อเนื้อและกินขนมปังจนอิ่ม แต่ท่านพาเรามายังถิ่นทุรกันดารนี้เพื่อทำให้ชุมนุมชนนี้ทั้งหมดตายด้วยความหิว”",
+      "thai_literal": "และพวกเขากล่าวแก่พวกเขาบุตรทั้งหลายของอิสราเอล ใครจะให้การตายของเราในมือของยาห์เวห์ในแผ่นดินอียิปต์ ในการนั่งของเราบนหม้อของเนื้อ ในการกินของเราขนมปังจนอิ่ม เพราะพวกท่านนำออกซึ่งเราแก่ถิ่นทุรกันดารนี้ เพื่อทำให้ตายซึ่งทั้งหมดของชุมนุมนี้ในความอดอยาก",
+      "thai_summary": "การคร่ำครวญของอิสราเอล — ความทรงจำของอียิปต์ถูกบิดเบือน. ‘หม้อเนื้อ’ + ‘ขนมปังจนอิ่ม’ — แต่ในความจริงพวกเขาเป็นทาสที่ทำงานหนักภายใต้การกดขี่ (อพย. 1–5). รูปแบบของ ‘nostalgia สำหรับอียิปต์’ จะปรากฏซ้ำในการเดินทาง (กดว. 11:4–6, 14:2–4, 20:5, 21:5).",
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "thai": "องค์พระผู้เป็นเจ้า",
+          "rationale": "Per divine_names_table_2026-05.md: יהוה → องค์พระผู้เป็นเจ้า. ดูเชิงอรรถบทที่ output/textual_variants/exodus_16.json."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 16:4",
+    "chapter": 16,
+    "verse": 4,
+    "language": "hebrew",
+    "hebrew": "וַיֹּ֤אמֶר יְהוָה֙ אֶל־מֹשֶׁ֔ה הִנְנִ֨י מַמְטִ֥יר לָכֶ֛ם לֶ֖חֶם מִן־הַשָּׁמָ֑יִם וְיָצָ֨א הָעָ֤ם וְלָֽקְטוּ֙ דְּבַר־י֣וֹם בְּיוֹמ֔וֹ לְמַ֧עַן אֲנַסֶּ֛נּוּ הֲיֵלֵ֥ךְ בְּתוֹרָתִ֖י אִם־לֹֽא׃",
+    "bsb_english": "Then the LORD said to Moses, “Behold, I will rain down bread from heaven for you. Each day the people are to go out and gather enough for that day. In this way I will test whether or not they will follow My instructions.",
+    "translation": {
+      "thai": "องค์พระผู้เป็นเจ้าตรัสกับโมเสสว่า “ดูเถิด เราจะให้ขนมปังจากฟ้าตกลงมาแก่พวกเจ้า ทุกวันชนชาตินั้นจะออกไปเก็บพอสำหรับวันนั้น เพื่อเราจะทดสอบพวกเขาว่า พวกเขาจะดำเนินตามบัญญัติของเราหรือไม่",
+      "thai_literal": "และตรัสยาห์เวห์กับโมเสส ดูเถิดข้าพเจ้ากำลังให้ตกแก่พวกเจ้าขนมปังจากฟ้าทั้งหลาย และจะออกไปชนชาติและพวกเขาจะเก็บเรื่องวันในวันของมัน เพื่อข้าพเจ้าจะทดสอบเขา เขาจะเดินในบัญญัติของข้าพเจ้าหรือไม่",
+      "thai_summary": "**KEY MESSIANIC PARALLEL.** ‘ขนมปังจากฟ้า’ (לֶחֶם מִן־הַשָּׁמַיִם) — สำนวนคีย์ที่ NT จะใช้สำหรับพระคริสต์. ยน. 6:31–33 ‘เพราะ ขนมปังจากฟ้าคือผู้ที่ลงมาจากฟ้าและให้ชีวิตแก่โลก’; ยน. 6:51 ‘เราเป็นขนมปังที่มีชีวิตที่ลงมาจากฟ้า’.",
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "thai": "องค์พระผู้เป็นเจ้า",
+          "rationale": "Per divine_names_table_2026-05.md: יהוה → องค์พระผู้เป็นเจ้า. ดูเชิงอรรถบทที่ output/textual_variants/exodus_16.json."
+        },
+        {
+          "hebrew": "לֶחֶם מִן־הַשָּׁמָיִם",
+          "thai": "ขนมปังจากฟ้า",
+          "rationale": "**KEY NT-CITATION TERM.** ‘ขนมปังจากฟ้า’ — สำนวนที่ ยน. 6:31, 6:32, 6:33, 6:41, 6:50, 6:51, 6:58 อ้างซ้ำในการสอนของพระเยซู ‘เราเป็นขนมปังจากฟ้า’."
+        },
+        {
+          "hebrew": "בְּתוֹרָתִי",
+          "thai": "ตามบัญญัติของเรา",
+          "rationale": "Per Eremos OT lock: תּוֹרָה → บัญญัติ."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 16:5",
+    "chapter": 16,
+    "verse": 5,
+    "language": "hebrew",
+    "hebrew": "וְהָיָה֙ בַּיּ֣וֹם הַשִּׁשִּׁ֔י וְהֵכִ֖ינוּ אֵ֣ת אֲשֶׁר־יָבִ֑יאוּ וְהָיָ֣ה מִשְׁנֶ֔ה עַ֥ל אֲשֶֽׁר־יִלְקְט֖וּ י֥וֹם ׀ יֽוֹם׃",
+    "bsb_english": "Then on the sixth day, when they prepare what they bring in, it will be twice as much as they gather on the other days.”",
+    "translation": {
+      "thai": "ในวันที่หก เมื่อพวกเขาเตรียมสิ่งที่นำเข้ามา จะมีจำนวนเป็นสองเท่าของที่เก็บได้ในวันอื่น”",
+      "thai_literal": "และจะเป็นในวันที่หก และพวกเขาจะเตรียมซึ่งที่พวกเขานำมา และจะเป็นสองเท่าบนที่พวกเขาเก็บวันวัน",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 16:6",
+    "chapter": 16,
+    "verse": 6,
+    "language": "hebrew",
+    "hebrew": "וַיֹּ֤אמֶר מֹשֶׁה֙ וְאַהֲרֹ֔ן אֶֽל־כָּל־בְּנֵ֖י יִשְׂרָאֵ֑ל עֶ֕רֶב וִֽידַעְתֶּ֕ם כִּ֧י יְהוָ֛ה הוֹצִ֥יא אֶתְכֶ֖ם מֵאֶ֥רֶץ מִצְרָֽיִם׃",
+    "bsb_english": "So Moses and Aaron said to all the Israelites, “This evening you will know that it was the LORD who brought you out of the land of Egypt,",
+    "translation": {
+      "thai": "โมเสสและอาโรนกล่าวกับบุตรอิสราเอลทั้งหมดว่า “ในเย็นนี้พวกท่านจะรู้ว่าองค์พระผู้เป็นเจ้าทรงเป็นผู้นำพวกท่านออกจากแผ่นดินอียิปต์",
+      "thai_literal": "และโมเสสและอาโรนกล่าวแก่ทั้งหมดของบุตรทั้งหลายของอิสราเอล เย็น และพวกท่านจะรู้ว่ายาห์เวห์ทรงนำออกซึ่งพวกท่านจากแผ่นดินอียิปต์",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "thai": "องค์พระผู้เป็นเจ้า",
+          "rationale": "Per divine_names_table_2026-05.md: יהוה → องค์พระผู้เป็นเจ้า."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 16:7",
+    "chapter": 16,
+    "verse": 7,
+    "language": "hebrew",
+    "hebrew": "וּבֹ֗קֶר וּרְאִיתֶם֙ אֶת־כְּב֣וֹד יְהוָ֔ה בְּשָׁמְע֥וֹ אֶת־תְּלֻנֹּתֵיכֶ֖ם עַל־יְהוָ֑ה וְנַ֣חְנוּ מָ֔ה כִּ֥י תַלִּ֖ינוּ עָלֵֽינוּ׃",
+    "bsb_english": "and in the morning you will see the LORD’s glory, because He has heard your grumbling against Him. For who are we, that you should grumble against us?”",
+    "translation": {
+      "thai": "ในเวลาเช้าพวกท่านจะเห็นพระสิริขององค์พระผู้เป็นเจ้า เพราะพระองค์ทรงได้ยินการบ่นของพวกท่านต่อพระองค์ พวกเราเป็นใครหนอที่พวกท่านจะบ่นต่อพวกเรา”",
+      "thai_literal": "และเช้า และพวกท่านจะเห็นซึ่งพระสิริของยาห์เวห์ ในการฟังของพระองค์ซึ่งการบ่นทั้งหลายของพวกท่านเหนือยาห์เวห์ และเราอะไร ที่พวกท่านบ่นเหนือเรา",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "thai": "องค์พระผู้เป็นเจ้า",
+          "rationale": "Per divine_names_table_2026-05.md: יהוה → องค์พระผู้เป็นเจ้า."
+        },
+        {
+          "hebrew": "כְּבוֹד יְהוָה",
+          "thai": "พระสิริขององค์พระผู้เป็นเจ้า",
+          "rationale": "Per Eremos NT lock: כָּבוֹד יהוה / δόξα κυρίου → พระสิริขององค์พระผู้เป็นเจ้า. คำสำคัญสำหรับการประทับและฤทธิ์อำนาจของพระเจ้าที่ปรากฏ."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 16:8",
+    "chapter": 16,
+    "verse": 8,
+    "language": "hebrew",
+    "hebrew": "וַיֹּ֣אמֶר מֹשֶׁ֗ה בְּתֵ֣ת יְהוָה֩ לָכֶ֨ם בָּעֶ֜רֶב בָּשָׂ֣ר לֶאֱכֹ֗ל וְלֶ֤חֶם בַּבֹּ֙קֶר֙ לִשְׂבֹּ֔עַ בִּשְׁמֹ֤עַ יְהוָה֙ אֶת־תְּלֻנֹּ֣תֵיכֶ֔ם אֲשֶׁר־אַתֶּ֥ם מַלִּינִ֖ם עָלָ֑יו וְנַ֣חְנוּ מָ֔ה לֹא־עָלֵ֥ינוּ תְלֻנֹּתֵיכֶ֖ם כִּ֥י עַל־יְהוָֽה׃",
+    "bsb_english": "And Moses added, “The LORD will give you meat to eat this evening and bread to fill you in the morning, for He has heard your grumbling against Him. For who are we? Your grumbling is not against us but against the LORD.”",
+    "translation": {
+      "thai": "โมเสสกล่าวเพิ่มเติมว่า “องค์พระผู้เป็นเจ้าจะประทานเนื้อให้พวกท่านกินในเย็นและขนมปังให้อิ่มในเวลาเช้า เพราะพระองค์ทรงได้ยินการบ่นของพวกท่านที่พวกท่านบ่นต่อพระองค์ พวกเราเป็นใครหนอ การบ่นของพวกท่านไม่ใช่ต่อพวกเรา แต่ต่อองค์พระผู้เป็นเจ้า”",
+      "thai_literal": "และโมเสสกล่าว ในการให้ของยาห์เวห์แก่พวกท่านในเย็นเนื้อเพื่อกิน และขนมปังในเช้าเพื่ออิ่ม ในการฟังของยาห์เวห์ซึ่งการบ่นทั้งหลายของพวกท่านที่พวกท่านบ่นเหนือพระองค์ และเราอะไร ไม่บนเราการบ่นทั้งหลายของพวกท่าน แต่บนยาห์เวห์",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "thai": "องค์พระผู้เป็นเจ้า",
+          "rationale": "Per divine_names_table_2026-05.md: יהוה → องค์พระผู้เป็นเจ้า."
+        },
+        {
+          "hebrew": "מַלִּינִם",
+          "thai": "บ่น",
+          "rationale": "**HAPAX LEGOMENON.** לוּן ในรูป Hiphil ‘ทำให้บ่น/บ่น’ — รูปคำต่างจาก Niphal/Polel ที่ใช้ที่อื่น. ในไทย ‘บ่น’ สื่อความหมาย — รักษาความต่อเนื่องของ leitwort ‘บ่น’."
+        }
+      ],
+      "notes": "HAPAX LEGOMENON: รูป Hiphil ของ לוּן (บ่น). คำว่า ‘บ่น’ จะปรากฏซ้ำในเรื่องการเดินทางในถิ่นทุรกันดาร."
+    }
+  },
+  {
+    "reference": "Exodus 16:9",
+    "chapter": 16,
+    "verse": 9,
+    "language": "hebrew",
+    "hebrew": "וַיֹּ֤אמֶר מֹשֶׁה֙ אֶֽל־אַהֲרֹ֔ן אֱמֹ֗ר אֶֽל־כָּל־עֲדַת֙ בְּנֵ֣י יִשְׂרָאֵ֔ל קִרְב֖וּ לִפְנֵ֣י יְהוָ֑ה כִּ֣י שָׁמַ֔ע אֵ֖ת תְּלֻנֹּתֵיכֶֽם׃",
+    "bsb_english": "Then Moses said to Aaron, “Tell the whole congregation of Israel, ‘Come before the LORD, for He has heard your grumbling.’”",
+    "translation": {
+      "thai": "โมเสสกล่าวกับอาโรนว่า “จงบอกชุมนุมชนของบุตรอิสราเอลทั้งหมดว่า ‘จงเข้ามาต่อพระพักตร์องค์พระผู้เป็นเจ้า เพราะพระองค์ทรงได้ยินการบ่นของพวกท่าน’”",
+      "thai_literal": "และโมเสสกล่าวกับอาโรน จงกล่าวแก่ทั้งหมดของชุมนุมของบุตรทั้งหลายของอิสราเอล จงเข้าใกล้ต่อหน้ายาห์เวห์ เพราะพระองค์ทรงได้ยินซึ่งการบ่นทั้งหลายของพวกท่าน",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "thai": "องค์พระผู้เป็นเจ้า",
+          "rationale": "Per divine_names_table_2026-05.md: יהוה → องค์พระผู้เป็นเจ้า."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 16:10",
+    "chapter": 16,
+    "verse": 10,
+    "language": "hebrew",
+    "hebrew": "וַיְהִ֗י כְּדַבֵּ֤ר אַהֲרֹן֙ אֶל־כָּל־עֲדַ֣ת בְּנֵֽי־יִשְׂרָאֵ֔ל וַיִּפְנ֖וּ אֶל־הַמִּדְבָּ֑ר וְהִנֵּה֙ כְּב֣וֹד יְהוָ֔ה נִרְאָ֖ה בֶּעָנָֽן׃",
+    "bsb_english": "And as Aaron was speaking to the whole congregation of Israel, they looked toward the desert, and there in a cloud the glory of the LORD appeared.",
+    "translation": {
+      "thai": "ขณะที่อาโรนกำลังพูดกับชุมนุมชนของบุตรอิสราเอลทั้งหมด พวกเขาหันมองไปยังถิ่นทุรกันดาร ดูเถิด พระสิริขององค์พระผู้เป็นเจ้าปรากฏในเมฆ",
+      "thai_literal": "และเป็น เมื่อพูดอาโรนกับทั้งหมดของชุมนุมของบุตรทั้งหลายของอิสราเอล และพวกเขาหันแก่ถิ่นทุรกันดาร และดูเถิดพระสิริของยาห์เวห์ปรากฏในเมฆ",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "thai": "องค์พระผู้เป็นเจ้า",
+          "rationale": "Per divine_names_table_2026-05.md: יהוה → องค์พระผู้เป็นเจ้า."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 16:11",
+    "chapter": 16,
+    "verse": 11,
+    "language": "hebrew",
+    "hebrew": "וַיְדַבֵּ֥ר יְהוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+    "bsb_english": "Then the LORD said to Moses,",
+    "translation": {
+      "thai": "องค์พระผู้เป็นเจ้าตรัสกับโมเสสว่า",
+      "thai_literal": "และตรัสยาห์เวห์กับโมเสสกล่าวว่า",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "thai": "องค์พระผู้เป็นเจ้า",
+          "rationale": "Per divine_names_table_2026-05.md: יהוה → องค์พระผู้เป็นเจ้า."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 16:12",
+    "chapter": 16,
+    "verse": 12,
+    "language": "hebrew",
+    "hebrew": "שָׁמַ֗עְתִּי אֶת־תְּלוּנֹּת֮ בְּנֵ֣י יִשְׂרָאֵל֒ דַּבֵּ֨ר אֲלֵהֶ֜ם לֵאמֹ֗ר בֵּ֤ין הָֽעַרְבַּ֙יִם֙ תֹּאכְל֣וּ בָשָׂ֔ר וּבַבֹּ֖קֶר תִּשְׂבְּעוּ־לָ֑חֶם וִֽידַעְתֶּ֕ם כִּ֛י אֲנִ֥י יְהוָ֖ה אֱלֹהֵיכֶֽם׃",
+    "bsb_english": "“I have heard the grumbling of the Israelites. Tell them, ‘At twilight you will eat meat, and in the morning you will be filled with bread. Then you will know that I am the LORD your God.’”",
+    "translation": {
+      "thai": "“เราได้ยินการบ่นของบุตรอิสราเอล จงบอกพวกเขาว่า ‘ในเวลาโพล้เพล้พวกเจ้าจะกินเนื้อ ในเวลาเช้าพวกเจ้าจะอิ่มด้วยขนมปัง พวกเจ้าจะรู้ว่าเราคือองค์พระผู้เป็นเจ้า พระเจ้าของพวกเจ้า’”",
+      "thai_literal": "ข้าพเจ้าได้ยินซึ่งการบ่นทั้งหลายของบุตรทั้งหลายของอิสราเอล จงพูดแก่พวกเขากล่าวว่า ระหว่างเวลาโพล้เพล้ทั้งหลายพวกท่านจะกินเนื้อ และในเช้าพวกท่านจะอิ่มขนมปัง และพวกท่านจะรู้ว่าข้าพเจ้ายาห์เวห์พระเจ้าของพวกท่าน",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "thai": "องค์พระผู้เป็นเจ้า",
+          "rationale": "Per divine_names_table_2026-05.md: יהוה → องค์พระผู้เป็นเจ้า."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 16:13",
+    "chapter": 16,
+    "verse": 13,
+    "language": "hebrew",
+    "hebrew": "וַיְהִ֣י בָעֶ֔רֶב וַתַּ֣עַל הַשְּׂלָ֔ו וַתְּכַ֖ס אֶת־הַֽמַּחֲנֶ֑ה וּבַבֹּ֗קֶר הָֽיְתָה֙ שִׁכְבַ֣ת הַטַּ֔ל סָבִ֖יב לַֽמַּחֲנֶֽה׃",
+    "bsb_english": "That evening quail came and covered the camp, and in the morning there was a layer of dew around the camp.",
+    "translation": {
+      "thai": "เย็นวันนั้น นกกระทาขึ้นมาและปกคลุมค่าย ในเวลาเช้ามีน้ำค้างเป็นชั้นรอบ ๆ ค่าย",
+      "thai_literal": "และเป็น ในเย็น และขึ้นมานกกระทา และคลุมซึ่งค่าย และในเช้าเป็นชั้นของน้ำค้างรอบแก่ค่าย",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "הַשְּׂלָו",
+          "thai": "นกกระทา",
+          "rationale": "Per uW: שְׂלָו ‘นกกระทา’ — นกที่อพยพผ่านคาบสมุทรซีนายในฤดูใบไม้ผลิ. ปรากฏซ้ำใน กดว. 11:31–32. ในไทย ‘นกกระทา’ ตามประเพณีคริสต์ศาสนาไทย."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 16:14",
+    "chapter": 16,
+    "verse": 14,
+    "language": "hebrew",
+    "hebrew": "וַתַּ֖עַל שִׁכְבַ֣ת הַטָּ֑ל וְהִנֵּ֞ה עַל־פְּנֵ֤י הַמִּדְבָּר֙ דַּ֣ק מְחֻסְפָּ֔ס דַּ֥ק כַּכְּפֹ֖ר עַל־הָאָֽרֶץ׃",
+    "bsb_english": "When the layer of dew had evaporated, there were thin flakes on the desert floor, as fine as frost on the ground.",
+    "translation": {
+      "thai": "เมื่อชั้นน้ำค้างระเหยหายไป ดูเถิด มีเกล็ดบาง ๆ ละเอียดเหมือนน้ำค้างแข็งบนพื้นถิ่นทุรกันดาร",
+      "thai_literal": "และระเหยขึ้นไปชั้นของน้ำค้าง และดูเถิดบนใบหน้าของถิ่นทุรกันดารบางเป็นเกล็ด ๆ บางเหมือนน้ำค้างแข็งบนแผ่นดิน",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "מְחֻסְפָּס",
+          "thai": "เกล็ด",
+          "rationale": "**HAPAX LEGOMENON.** חַסְפַּס ‘เกล็ด/มีเส้นเล็ก ๆ’ — ปรากฏเพียงครั้งเดียวในฮีบรู. ความหมายตามบริบท: ‘บาง/เกล็ดเล็ก’ ที่สามารถเก็บได้. ในไทย ‘เกล็ด’ สื่อความหมาย."
+        }
+      ],
+      "notes": "HAPAX LEGOMENON: מְחֻסְפָּס (เกล็ด)."
+    }
+  },
+  {
+    "reference": "Exodus 16:15",
+    "chapter": 16,
+    "verse": 15,
+    "language": "hebrew",
+    "hebrew": "וַיִּרְא֣וּ בְנֵֽי־יִשְׂרָאֵ֗ל וַיֹּ֨אמְר֜וּ אִ֤ישׁ אֶל־אָחִיו֙ מָ֣ן ה֔וּא כִּ֛י לֹ֥א יָדְע֖וּ מַה־ה֑וּא וַיֹּ֤אמֶר מֹשֶׁה֙ אֲלֵהֶ֔ם ה֣וּא הַלֶּ֔חֶם אֲשֶׁ֨ר נָתַ֧ן יְהוָ֛ה לָכֶ֖ם לְאָכְלָֽה׃",
+    "bsb_english": "When the Israelites saw it, they asked one another, “What is it?” For they did not know what it was. So Moses told them, “It is the bread that the LORD has given you to eat.",
+    "translation": {
+      "thai": "เมื่อบุตรอิสราเอลเห็น พวกเขาก็ถามกันว่า “นี่คืออะไร” เพราะพวกเขาไม่รู้ว่ามันคืออะไร โมเสสกล่าวกับพวกเขาว่า “นี่คือขนมปังที่องค์พระผู้เป็นเจ้าทรงประทานให้พวกท่านกิน",
+      "thai_literal": "และพวกเขาเห็นบุตรทั้งหลายของอิสราเอล และพวกเขากล่าวชายแก่พี่น้องของเขา มานเขา เพราะพวกเขาไม่ทราบว่าอะไรเขา และโมเสสกล่าวแก่พวกเขา เขาขนมปังที่ให้ยาห์เวห์แก่พวกท่านเพื่อกิน",
+      "thai_summary": "**THE NAMING OF MANNA.** ‘มาน-ฮู’ (מָן הוּא) — ‘นี่คืออะไร’ ในภาษาฮีบรู (หรืออารามาอิก) — กลายเป็นชื่อ ‘มานา’ (מָן). คำเล่นเสียงระหว่างคำถาม ‘อะไร’ + ชื่ออาหาร. ในประวัติศาสตร์ของการตีความ: ‘มานา’ เป็นทั้งคำถาม + ชื่อ.",
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "thai": "องค์พระผู้เป็นเจ้า",
+          "rationale": "Per divine_names_table_2026-05.md: יהוה → องค์พระผู้เป็นเจ้า."
+        },
+        {
+          "hebrew": "מָן הוּא",
+          "thai": "นี่คืออะไร",
+          "rationale": "Per uW: ‘מָן’ — รากศัพท์ของชื่อ ‘มานา’. ‘มาน-ฮู’ คือ ‘อะไรนี่/มันคืออะไร’ ในภาษาฮีบรูโบราณ. คำเล่นเสียง — คำถามกลายเป็นชื่อของอาหาร."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 16:16",
+    "chapter": 16,
+    "verse": 16,
+    "language": "hebrew",
+    "hebrew": "זֶ֤ה הַדָּבָר֙ אֲשֶׁ֣ר צִוָּ֣ה יְהוָ֔ה לִקְט֣וּ מִמֶּ֔נּוּ אִ֖ישׁ לְפִ֣י אָכְל֑וֹ עֹ֣מֶר לַגֻּלְגֹּ֗לֶת מִסְפַּר֙ נַפְשֹׁ֣תֵיכֶ֔ם אִ֛ישׁ לַאֲשֶׁ֥ר בְּאָהֳל֖וֹ תִּקָּֽחוּ׃",
+    "bsb_english": "This is what the LORD has commanded: ‘Each one is to gather as much as he needs. You may take an omer for each person in your tent.’”",
+    "translation": {
+      "thai": "นี่คือสิ่งที่องค์พระผู้เป็นเจ้าทรงบัญชา ‘แต่ละคนจงเก็บเท่าที่เขาต้องการกิน หนึ่งโอเมอร์ต่อคน ตามจำนวนคนในเต็นท์ของพวกเจ้า แต่ละคนจะเก็บสำหรับคนที่อยู่ในเต็นท์ของเขา’”",
+      "thai_literal": "นี่สิ่งที่ทรงบัญชายาห์เวห์ จงเก็บจากมัน ชายตามปากของการกินของเขา โอเมอร์แก่กระโหลก จำนวนของชีวิตทั้งหลายของพวกเจ้า ชายแก่ที่ในเต็นท์ของเขา พวกท่านจะเอา",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "thai": "องค์พระผู้เป็นเจ้า",
+          "rationale": "Per divine_names_table_2026-05.md: יהוה → องค์พระผู้เป็นเจ้า."
+        },
+        {
+          "hebrew": "עֹמֶר",
+          "thai": "โอเมอร์",
+          "rationale": "Per uW translate-fraction: עֹמֶר ‘โอเมอร์’ — มาตราแห้งของฮีบรูโบราณ (~2.2 ลิตร, ~1.8 กก. ของแป้ง — ปริมาณอาหารหนึ่งวันสำหรับหนึ่งคน). คำเฉพาะของพระคัมภีร์ — รักษาการถอดเสียงในไทย."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 16:17",
+    "chapter": 16,
+    "verse": 17,
+    "language": "hebrew",
+    "hebrew": "וַיַּעֲשׂוּ־כֵ֖ן בְּנֵ֣י יִשְׂרָאֵ֑ל וַֽיִּלְקְט֔וּ הַמַּרְבֶּ֖ה וְהַמַּמְעִֽיט׃",
+    "bsb_english": "So the Israelites did this. Some gathered more, and some less.",
+    "translation": {
+      "thai": "บุตรอิสราเอลทำตามนั้น บางคนเก็บได้มาก บางคนเก็บได้น้อย",
+      "thai_literal": "และพวกเขาทำดังนั้นบุตรทั้งหลายของอิสราเอล และพวกเขาเก็บผู้ทำให้มากและผู้ทำให้น้อย",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 16:18",
+    "chapter": 16,
+    "verse": 18,
+    "language": "hebrew",
+    "hebrew": "וַיָּמֹ֣דּוּ בָעֹ֔מֶר וְלֹ֤א הֶעְדִּיף֙ הַמַּרְבֶּ֔ה וְהַמַּמְעִ֖יט לֹ֣א הֶחְסִ֑יר אִ֥ישׁ לְפִֽי־אָכְל֖וֹ לָקָֽטוּ׃",
+    "bsb_english": "When they measured it by the omer, he who gathered much had no excess, and he who gathered little had no shortfall. Each one gathered as much as he needed to eat.",
+    "translation": {
+      "thai": "เมื่อพวกเขาตวงด้วยโอเมอร์ ผู้ที่เก็บได้มากก็ไม่มีเกินพอ ผู้ที่เก็บได้น้อยก็ไม่ขาด แต่ละคนเก็บเท่าที่ต้องการกิน",
+      "thai_literal": "และพวกเขาตวงในโอเมอร์ และไม่เกินผู้เก็บมาก และผู้เก็บน้อยไม่ขาด ชายตามปากของการกินของเขาพวกเขาเก็บ",
+      "thai_summary": "**NT CITATION.** 2คร. 8:15 อ้างข้อนี้: ‘ผู้ที่ได้มากก็ไม่มีเหลือเกิน ผู้ที่ได้น้อยก็ไม่ขาด’ — เปาโลใช้ในการสอนเรื่องการให้ทาน + ความเท่าเทียมในพระคริสต์.",
+      "key_decisions": [
+        {
+          "hebrew": "וְלֹא הֶעְדִּיף הַמַּרְבֶּה וְהַמַּמְעִיט לֹא הֶחְסִיר",
+          "thai": "ผู้ที่เก็บได้มากก็ไม่มีเกินพอ ผู้ที่เก็บได้น้อยก็ไม่ขาด",
+          "rationale": "**KEY NT CITATION.** Per Eremos NT lock at 2คร. 8:15 (LXX-citation): ‘ὁ τὸ πολὺ οὐκ ἐπλεόνασεν, καὶ ὁ τὸ ὀλίγον οὐκ ἠλαττόνησεν’ → ‘ผู้ที่ได้มากก็ไม่มีเหลือเกิน ผู้ที่ได้น้อยก็ไม่ขาด’. รักษาคำในไทยให้สื่อสำนวนเดียวกัน."
+        }
+      ],
+      "notes": "OT CITATION (NT cites): 2คร. 8:15. ADDED TO data/nt_ot_citations.json."
+    }
+  },
+  {
+    "reference": "Exodus 16:19",
+    "chapter": 16,
+    "verse": 19,
+    "language": "hebrew",
+    "hebrew": "וַיֹּ֥אמֶר מֹשֶׁ֖ה אֲלֵהֶ֑ם אִ֕ישׁ אַל־יוֹתֵ֥ר מִמֶּ֖נּוּ עַד־בֹּֽקֶר׃",
+    "bsb_english": "Then Moses said to them, “No one may keep any of it until morning.”",
+    "translation": {
+      "thai": "โมเสสกล่าวกับพวกเขาว่า “อย่าให้ใครเก็บมานาไว้จนถึงเช้า”",
+      "thai_literal": "และโมเสสกล่าวแก่พวกเขา ชายอย่าให้เหลือจากมันจนถึงเช้า",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 16:20",
+    "chapter": 16,
+    "verse": 20,
+    "language": "hebrew",
+    "hebrew": "וְלֹא־שָׁמְע֣וּ אֶל־מֹשֶׁ֗ה וַיּוֹתִ֨רוּ אֲנָשִׁ֤ים מִמֶּ֙נּוּ֙ עַד־בֹּ֔קֶר וַיָּ֥רֻם תּוֹלָעִ֖ים וַיִּבְאַ֑שׁ וַיִּקְצֹ֥ף עֲלֵהֶ֖ם מֹשֶֽׁה׃",
+    "bsb_english": "But they did not listen to Moses; some people left part of it until morning, and it became infested with maggots and began to smell. So Moses was angry with them.",
+    "translation": {
+      "thai": "แต่พวกเขาไม่ฟังโมเสส บางคนเก็บมานาไว้บางส่วนจนถึงเช้า มันก็ขึ้นหนอนและเหม็น โมเสสจึงโกรธพวกเขา",
+      "thai_literal": "และพวกเขาไม่ฟังแก่โมเสส และพวกเขาเหลือบางคนจากมันจนถึงเช้า และเกิดหนอนทั้งหลาย และเหม็น และโกรธเหนือพวกเขาโมเสส",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "וַיָּרֻם תּוֹלָעִים",
+          "thai": "ขึ้นหนอน",
+          "rationale": "**HAPAX LEGOMENON.** רָמַם ‘เกิดหนอน/พุพอง’ — ปรากฏเพียงครั้งเดียวในฮีบรู. ความหมายตามบริบทคือ ‘ผุดหนอน/ฟอง’. ในไทย ‘ขึ้นหนอน’ สื่อความหมาย."
+        }
+      ],
+      "notes": "HAPAX LEGOMENON: רָמַם (ขึ้นหนอน)."
+    }
+  },
+  {
+    "reference": "Exodus 16:21",
+    "chapter": 16,
+    "verse": 21,
+    "language": "hebrew",
+    "hebrew": "וַיִּלְקְט֤וּ אֹתוֹ֙ בַּבֹּ֣קֶר בַּבֹּ֔קֶר אִ֖ישׁ כְּפִ֣י אָכְל֑וֹ וְחַ֥ם הַשֶּׁ֖מֶשׁ וְנָמָֽס׃",
+    "bsb_english": "Every morning each one gathered as much as was needed, and when the sun grew hot, it melted away.",
+    "translation": {
+      "thai": "ทุกเช้าแต่ละคนเก็บมานาเท่าที่ต้องการ เมื่อแดดร้อน มานาก็ละลายไป",
+      "thai_literal": "และพวกเขาเก็บซึ่งมันในเช้าในเช้า ชายตามปากของการกินของเขา และร้อนพระอาทิตย์และละลาย",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 16:22",
+    "chapter": 16,
+    "verse": 22,
+    "language": "hebrew",
+    "hebrew": "וַיְהִ֣י ׀ בַּיּ֣וֹם הַשִּׁשִּׁ֗י לָֽקְט֥וּ לֶ֙חֶם֙ מִשְׁנֶ֔ה שְׁנֵ֥י הָעֹ֖מֶר לָאֶחָ֑ד וַיָּבֹ֙אוּ֙ כָּל־נְשִׂיאֵ֣י הָֽעֵדָ֔ה וַיַּגִּ֖ידוּ לְמֹשֶֽׁה׃",
+    "bsb_english": "On the sixth day, they gathered twice as much food—two omers per person—and all the leaders of the congregation came and reported this to Moses.",
+    "translation": {
+      "thai": "ในวันที่หก พวกเขาเก็บอาหารเป็นสองเท่า—สองโอเมอร์ต่อคน ผู้นำทั้งหมดของชุมนุมชนมารายงานเรื่องนี้ต่อโมเสส",
+      "thai_literal": "และเป็น ในวันที่หกพวกเขาเก็บขนมปังสองเท่า สองของโอเมอร์แก่หนึ่ง และพวกเขามาทั้งหมดของผู้นำทั้งหลายของชุมนุม และพวกเขาบอกแก่โมเสส",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 16:23",
+    "chapter": 16,
+    "verse": 23,
+    "language": "hebrew",
+    "hebrew": "וַיֹּ֣אמֶר אֲלֵהֶ֗ם ה֚וּא אֲשֶׁ֣ר דִּבֶּ֣ר יְהוָ֔ה שַׁבָּת֧וֹן שַׁבַּת־קֹ֛דֶשׁ לַֽיהוָ֖ה מָחָ֑ר אֵ֣ת אֲשֶׁר־תֹּאפ֞וּ אֵפ֗וּ וְאֵ֤ת אֲשֶֽׁר־תְּבַשְּׁלוּ֙ בַּשֵּׁ֔לוּ וְאֵת֙ כָּל־הָ֣עֹדֵ֔ף הַנִּ֧יחוּ לָכֶ֛ם לְמִשְׁמֶ֖רֶת עַד־הַבֹּֽקֶר׃",
+    "bsb_english": "He told them, “This is what the LORD has said: ‘Tomorrow is to be a day of complete rest, a holy Sabbath to the LORD. So bake what you want to bake, and boil what you want to boil. Then set aside whatever is left and keep it until morning.’”",
+    "translation": {
+      "thai": "เขาบอกพวกเขาว่า “นี่คือสิ่งที่องค์พระผู้เป็นเจ้าตรัส ‘พรุ่งนี้เป็นวันพักผ่อนสนิท เป็นวันสะบาโตอันบริสุทธิ์แด่องค์พระผู้เป็นเจ้า จงอบสิ่งที่จะอบและจงต้มสิ่งที่จะต้ม ส่วนที่เหลือจงเก็บไว้สำหรับพวกเจ้าจนถึงเช้า’”",
+      "thai_literal": "และเขากล่าวแก่พวกเขา เขาที่ตรัสยาห์เวห์ การพักผ่อน วันสะบาโตของบริสุทธิ์แก่ยาห์เวห์พรุ่งนี้ ซึ่งที่พวกท่านจะอบจงอบ และซึ่งที่พวกท่านจะต้มจงต้ม และซึ่งทั้งหมดของส่วนที่เหลือจงวางแก่พวกท่านเพื่อการเฝ้ารักษาจนถึงเช้า",
+      "thai_summary": "**THE INSTITUTION OF SABBATH-OBSERVANCE.** ครั้งแรกของการสอนเรื่องวันสะบาโตในพระคัมภีร์ (ก่อนพระบัญญัติสิบประการในบทที่ 20). มานาสองเท่าในวันที่หกเป็นการเรียนรู้ทางปฏิบัติของการพักผ่อนในวันที่เจ็ด.",
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "thai": "องค์พระผู้เป็นเจ้า",
+          "rationale": "Per divine_names_table_2026-05.md: יהוה → องค์พระผู้เป็นเจ้า."
+        },
+        {
+          "hebrew": "שַׁבָּתוֹן שַׁבַּת־קֹדֶשׁ",
+          "thai": "วันพักผ่อนสนิท เป็นวันสะบาโตอันบริสุทธิ์",
+          "rationale": "Per Eremos NT lock: שַׁבָּת / σάββατον → วันสะบาโต. คำคู่ ‘shabbaton + shabbat-qodesh’ — ทั้งสองสำหรับวันที่เจ็ด — สื่อความสำคัญพิเศษ."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 16:24",
+    "chapter": 16,
+    "verse": 24,
+    "language": "hebrew",
+    "hebrew": "וַיַּנִּ֤יחוּ אֹתוֹ֙ עַד־הַבֹּ֔קֶר כַּאֲשֶׁ֖ר צִוָּ֣ה מֹשֶׁ֑ה וְלֹ֣א הִבְאִ֔ישׁ וְרִמָּ֖ה לֹא־הָ֥יְתָה בּֽוֹ׃",
+    "bsb_english": "So they set it aside until morning as Moses had commanded, and it did not smell or contain any maggots.",
+    "translation": {
+      "thai": "พวกเขาเก็บมานาไว้จนถึงเช้าตามที่โมเสสบัญชา มานาก็ไม่เหม็นและไม่มีหนอน",
+      "thai_literal": "และพวกเขาวางซึ่งมันจนถึงเช้า ตามที่ทรงบัญชาโมเสส และไม่เหม็น และหนอนไม่มีในมัน",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 16:25",
+    "chapter": 16,
+    "verse": 25,
+    "language": "hebrew",
+    "hebrew": "וַיֹּ֤אמֶר מֹשֶׁה֙ אִכְלֻ֣הוּ הַיּ֔וֹם כִּֽי־שַׁבָּ֥ת הַיּ֖וֹם לַיהוָ֑ה הַיּ֕וֹם לֹ֥א תִמְצָאֻ֖הוּ בַּשָּׂדֶֽה׃",
+    "bsb_english": "“Eat it today,” Moses said, “because today is a Sabbath to the LORD. Today you will not find anything in the field.",
+    "translation": {
+      "thai": "โมเสสกล่าวว่า “จงกินมานาในวันนี้ เพราะวันนี้เป็นวันสะบาโตแด่องค์พระผู้เป็นเจ้า วันนี้พวกเจ้าจะไม่พบมานาในทุ่งนา",
+      "thai_literal": "และโมเสสกล่าว จงกินซึ่งมันวันนี้ เพราะสะบาโตวันนี้แก่ยาห์เวห์ วันนี้พวกท่านจะไม่พบซึ่งมันในทุ่ง",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "thai": "องค์พระผู้เป็นเจ้า",
+          "rationale": "Per divine_names_table_2026-05.md: יהוה → องค์พระผู้เป็นเจ้า."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 16:26",
+    "chapter": 16,
+    "verse": 26,
+    "language": "hebrew",
+    "hebrew": "שֵׁ֥שֶׁת יָמִ֖ים תִּלְקְטֻ֑הוּ וּבַיּ֧וֹם הַשְּׁבִיעִ֛י שַׁבָּ֖ת לֹ֥א יִֽהְיֶה־בּֽוֹ׃",
+    "bsb_english": "For six days you may gather, but on the seventh day, the Sabbath, it will not be there.”",
+    "translation": {
+      "thai": "พวกเจ้าจะเก็บได้หกวัน แต่ในวันที่เจ็ด คือวันสะบาโต จะไม่มีในที่นั้น”",
+      "thai_literal": "หกของวันทั้งหลายพวกท่านจะเก็บซึ่งมัน และในวันที่เจ็ดสะบาโตไม่จะเป็นในมัน",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 16:27",
+    "chapter": 16,
+    "verse": 27,
+    "language": "hebrew",
+    "hebrew": "וַֽיְהִי֙ בַּיּ֣וֹם הַשְּׁבִיעִ֔י יָצְא֥וּ מִן־הָעָ֖ם לִלְקֹ֑ט וְלֹ֖א מָצָֽאוּ׃",
+    "bsb_english": "Yet on the seventh day some of the people went out to gather, but they did not find anything.",
+    "translation": {
+      "thai": "แต่ในวันที่เจ็ด บางคนของชนชาตินั้นออกไปเก็บแต่ไม่พบสิ่งใดเลย",
+      "thai_literal": "และเป็น ในวันที่เจ็ด ออกไปจากชนชาติเพื่อเก็บ และพวกเขาไม่พบ",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 16:28",
+    "chapter": 16,
+    "verse": 28,
+    "language": "hebrew",
+    "hebrew": "וַיֹּ֥אמֶר יְהוָ֖ה אֶל־מֹשֶׁ֑ה עַד־אָ֙נָה֙ מֵֽאַנְתֶּ֔ם לִשְׁמֹ֥ר מִצְוֺתַ֖י וְתוֹרֹתָֽי׃",
+    "bsb_english": "Then the LORD said to Moses, “How long will you refuse to keep My commandments and instructions?",
+    "translation": {
+      "thai": "องค์พระผู้เป็นเจ้าตรัสกับโมเสสว่า “พวกเจ้าจะปฏิเสธที่จะรักษาพระบัญญัติและบัญญัติของเราอีกนานเท่าไร",
+      "thai_literal": "และตรัสยาห์เวห์กับโมเสส จนเมื่อใดพวกท่านปฏิเสธที่จะรักษาพระบัญญัติทั้งหลายของข้าพเจ้าและบัญญัติทั้งหลายของข้าพเจ้า",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "thai": "องค์พระผู้เป็นเจ้า",
+          "rationale": "Per divine_names_table_2026-05.md: יהוה → องค์พระผู้เป็นเจ้า."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 16:29",
+    "chapter": 16,
+    "verse": 29,
+    "language": "hebrew",
+    "hebrew": "רְא֗וּ כִּֽי־יְהוָה֮ נָתַ֣ן לָכֶ֣ם הַשַּׁבָּת֒ עַל־כֵּ֠ן ה֣וּא נֹתֵ֥ן לָכֶ֛ם בַּיּ֥וֹם הַשִּׁשִּׁ֖י לֶ֣חֶם יוֹמָ֑יִם שְׁב֣וּ ׀ אִ֣ישׁ תַּחְתָּ֗יו אַל־יֵ֥צֵא אִ֛ישׁ מִמְּקֹמ֖וֹ בַּיּ֥וֹם הַשְּׁבִיעִֽי׃",
+    "bsb_english": "Understand that the LORD has given you the Sabbath; that is why on the sixth day He will give you bread for two days. On the seventh day, everyone must stay where he is; no one may leave his place.”",
+    "translation": {
+      "thai": "จงเข้าใจว่าองค์พระผู้เป็นเจ้าทรงประทานวันสะบาโตแก่พวกเจ้า เพราะเหตุนี้พระองค์จึงประทานขนมปังให้พวกเจ้าสำหรับสองวันในวันที่หก ทุกคนจงอยู่ที่ของตน อย่าให้ใครออกจากที่ของตนในวันที่เจ็ด”",
+      "thai_literal": "จงเห็นว่ายาห์เวห์ให้แก่พวกท่านวันสะบาโต ดังนั้นพระองค์ให้แก่พวกท่านในวันที่หกขนมปังของสองวัน จงนั่งชายใต้เขา อย่าให้ออกชายจากที่ของเขาในวันที่เจ็ด",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "thai": "องค์พระผู้เป็นเจ้า",
+          "rationale": "Per divine_names_table_2026-05.md: יהוה → องค์พระผู้เป็นเจ้า."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 16:30",
+    "chapter": 16,
+    "verse": 30,
+    "language": "hebrew",
+    "hebrew": "וַיִּשְׁבְּת֥וּ הָעָ֖ם בַּיּ֥וֹם הַשְּׁבִעִֽי׃",
+    "bsb_english": "So the people rested on the seventh day.",
+    "translation": {
+      "thai": "ชนชาตินั้นจึงพักผ่อนในวันที่เจ็ด",
+      "thai_literal": "และพวกเขาพักผ่อนชนชาติในวันที่เจ็ด",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 16:31",
+    "chapter": 16,
+    "verse": 31,
+    "language": "hebrew",
+    "hebrew": "וַיִּקְרְא֧וּ בֵֽית־יִשְׂרָאֵ֛ל אֶת־שְׁמ֖וֹ מָ֑ן וְה֗וּא כְּזֶ֤רַע גַּד֙ לָבָ֔ן וְטַעְמ֖וֹ כְּצַפִּיחִ֥ת בִּדְבָֽשׁ׃",
+    "bsb_english": "Now the house of Israel called the bread manna. It was white like coriander seed and tasted like wafers made with honey.",
+    "translation": {
+      "thai": "วงศ์วานอิสราเอลตั้งชื่อขนมปังนั้นว่า มานา มันเป็นสีขาวเหมือนเมล็ดผักชี และมีรสเหมือนแผ่นแป้งทำด้วยน้ำผึ้ง",
+      "thai_literal": "และพวกเขาเรียกบ้านของอิสราเอลซึ่งชื่อของมันมาน และเขาเหมือนเมล็ดของผักชีขาว และรสของมันเหมือนแผ่นแป้งในน้ำผึ้ง",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "מָן",
+          "thai": "มานา",
+          "rationale": "Per Eremos NT lock at ยน. 6:31, 6:49, 6:58 + 1คร. 10:3 + ฮบ. 9:4 + วว. 2:17: μάννα → มานา. ในไทย ‘มานา’ ตามประเพณีคริสต์ศาสนาไทย."
+        },
+        {
+          "hebrew": "צַפִּיחִת",
+          "thai": "แผ่นแป้ง",
+          "rationale": "**HAPAX LEGOMENON.** צְפִיחִת ‘แผ่นแป้ง/ขนมแผ่น’ — ปรากฏเพียงครั้งเดียวในฮีบรู. ขนมบางที่ทำจากแป้ง — ในไทย ‘แผ่นแป้ง’ สื่อความหมาย."
+        }
+      ],
+      "notes": "HAPAX LEGOMENON: צְפִיחִת (แผ่นแป้ง)."
+    }
+  },
+  {
+    "reference": "Exodus 16:32",
+    "chapter": 16,
+    "verse": 32,
+    "language": "hebrew",
+    "hebrew": "וַיֹּ֣אמֶר מֹשֶׁ֗ה זֶ֤ה הַדָּבָר֙ אֲשֶׁ֣ר צִוָּ֣ה יְהוָ֔ה מְלֹ֤א הָעֹ֙מֶר֙ מִמֶּ֔נּוּ לְמִשְׁמֶ֖רֶת לְדֹרֹתֵיכֶ֑ם לְמַ֣עַן ׀ יִרְא֣וּ אֶת־הַלֶּ֗חֶם אֲשֶׁ֨ר הֶאֱכַ֤לְתִּי אֶתְכֶם֙ בַּמִּדְבָּ֔ר בְּהוֹצִיאִ֥י אֶתְכֶ֖ם מֵאֶ֥רֶץ מִצְרָֽיִם׃",
+    "bsb_english": "Moses said, “This is what the LORD has commanded: ‘Keep an omer of manna for the generations to come, so that they may see the bread I fed you in the wilderness when I brought you out of the land of Egypt.’”",
+    "translation": {
+      "thai": "โมเสสกล่าวว่า “นี่คือสิ่งที่องค์พระผู้เป็นเจ้าทรงบัญชา ‘จงเก็บมานาเต็มหนึ่งโอเมอร์ไว้ตลอดทุกชั่วอายุของพวกเจ้า เพื่อพวกเขาจะได้เห็นขนมปังที่เราให้พวกเจ้ากินในถิ่นทุรกันดารเมื่อเรานำพวกเจ้าออกจากแผ่นดินอียิปต์’”",
+      "thai_literal": "และโมเสสกล่าว นี่สิ่งที่ทรงบัญชายาห์เวห์ เต็มของโอเมอร์จากมันเพื่อการเฝ้ารักษาแก่ทุกชั่วอายุทั้งหลายของพวกท่าน เพื่อพวกเขาจะเห็นซึ่งขนมปังที่ข้าพเจ้าให้กินซึ่งพวกท่านในถิ่นทุรกันดาร ในการนำออกของข้าพเจ้าซึ่งพวกท่านจากแผ่นดินอียิปต์",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "thai": "องค์พระผู้เป็นเจ้า",
+          "rationale": "Per divine_names_table_2026-05.md: יהוה → องค์พระผู้เป็นเจ้า."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 16:33",
+    "chapter": 16,
+    "verse": 33,
+    "language": "hebrew",
+    "hebrew": "וַיֹּ֨אמֶר מֹשֶׁ֜ה אֶֽל־אַהֲרֹ֗ן קַ֚ח צִנְצֶ֣נֶת אַחַ֔ת וְתֶן־שָׁ֥מָּה מְלֹֽא־הָעֹ֖מֶר מָ֑ן וְהַנַּ֤ח אֹתוֹ֙ לִפְנֵ֣י יְהוָ֔ה לְמִשְׁמֶ֖רֶת לְדֹרֹתֵיכֶֽם׃",
+    "bsb_english": "So Moses told Aaron, “Take a jar and fill it with an omer of manna. Then place it before the LORD to be preserved for the generations to come.”",
+    "translation": {
+      "thai": "โมเสสกล่าวกับอาโรนว่า “จงเอาโถใบหนึ่ง เติมมานาเต็มหนึ่งโอเมอร์ และวางไว้ต่อพระพักตร์องค์พระผู้เป็นเจ้า เพื่อเก็บไว้ตลอดทุกชั่วอายุของพวกเจ้า”",
+      "thai_literal": "และโมเสสกล่าวกับอาโรน จงเอาโถหนึ่ง และจงให้ที่นั่นเต็มของโอเมอร์มาน และจงวางซึ่งมันต่อหน้ายาห์เวห์เพื่อการเฝ้ารักษาแก่ทุกชั่วอายุทั้งหลายของพวกท่าน",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "thai": "องค์พระผู้เป็นเจ้า",
+          "rationale": "Per divine_names_table_2026-05.md: יהוה → องค์พระผู้เป็นเจ้า."
+        },
+        {
+          "hebrew": "צִנְצֶנֶת",
+          "thai": "โถ",
+          "rationale": "**HAPAX LEGOMENON.** צִנְצֶנֶת ‘โถ/หม้อเล็ก’ — ปรากฏเพียงครั้งเดียวในฮีบรู. NT: ฮบ. 9:4 อ้างถึง ‘โถทองคำที่บรรจุมานา’ ที่อยู่ในหีบพันธสัญญา. ในไทย ‘โถ’ สื่อความหมาย."
+        }
+      ],
+      "notes": "HAPAX LEGOMENON: צִנְצֶנֶת (โถ). NT CITATION ECHO: ฮบ. 9:4 ‘โถทองคำของมานา’."
+    }
+  },
+  {
+    "reference": "Exodus 16:34",
+    "chapter": 16,
+    "verse": 34,
+    "language": "hebrew",
+    "hebrew": "כַּאֲשֶׁ֛ר צִוָּ֥ה יְהוָ֖ה אֶל־מֹשֶׁ֑ה וַיַּנִּיחֵ֧הוּ אַהֲרֹ֛ן לִפְנֵ֥י הָעֵדֻ֖ת לְמִשְׁמָֽרֶת׃",
+    "bsb_english": "And Aaron placed it in front of the Testimony, to be preserved just as the LORD had commanded Moses.",
+    "translation": {
+      "thai": "ตามที่องค์พระผู้เป็นเจ้าทรงบัญชาโมเสส อาโรนก็วางโถนั้นไว้ต่อหน้าทำเนียบพระโอวาทเพื่อเก็บรักษา",
+      "thai_literal": "ตามที่ทรงบัญชายาห์เวห์กับโมเสส และอาโรนวางซึ่งมันต่อหน้าทำเนียบพระโอวาทเพื่อการเฝ้ารักษา",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "thai": "องค์พระผู้เป็นเจ้า",
+          "rationale": "Per divine_names_table_2026-05.md: יהוה → องค์พระผู้เป็นเจ้า."
+        },
+        {
+          "hebrew": "הָעֵדֻת",
+          "thai": "ทำเนียบพระโอวาท",
+          "rationale": "Per uW: עֵדוּת ‘คำพยาน/พระโอวาท’ — เป็นชื่อของหีบพันธสัญญาที่บรรจุพระบัญญัติสิบประการ (อพย. 25:16, 25:21). ในที่นี้ ‘ต่อหน้าทำเนียบพระโอวาท’ อ้างถึงสถานที่ที่หีบจะถูกวางในพลับพลา. ในไทย ‘ทำเนียบพระโอวาท’ สื่อทั้งความศักดิ์สิทธิ์และความสำคัญ."
+        }
+      ],
+      "notes": "การอ้างถึง ‘หีบพันธสัญญา’ ก่อนการบัญชาสร้างพลับพลา (อพย. 25-31) — สื่อว่าผู้แต่งกำลังเขียนย้อนกลับ."
+    }
+  },
+  {
+    "reference": "Exodus 16:35",
+    "chapter": 16,
+    "verse": 35,
+    "language": "hebrew",
+    "hebrew": "וּבְנֵ֣י יִשְׂרָאֵ֗ל אָֽכְל֤וּ אֶת־הַמָּן֙ אַרְבָּעִ֣ים שָׁנָ֔ה עַד־בֹּאָ֖ם אֶל־אֶ֣רֶץ נוֹשָׁ֑בֶת אֶת־הַמָּן֙ אָֽכְל֔וּ עַד־בֹּאָ֕ם אֶל־קְצֵ֖ה אֶ֥רֶץ כְּנָֽעַן׃",
+    "bsb_english": "The Israelites ate manna forty years, until they came to a land where they could settle; they ate manna until they reached the border of the land of Canaan.",
+    "translation": {
+      "thai": "บุตรอิสราเอลกินมานาเป็นเวลาสี่สิบปี จนถึงเมื่อพวกเขามาถึงแผ่นดินที่ตั้งถิ่นฐานได้ พวกเขากินมานาจนถึงเมื่อพวกเขามาถึงเขตของแผ่นดินคานาอัน",
+      "thai_literal": "และบุตรทั้งหลายของอิสราเอลกินซึ่งมานสี่สิบปี จนการมาของพวกเขาแก่แผ่นดินที่ตั้งถิ่นฐานได้ ซึ่งมานพวกเขากิน จนการมาของพวกเขาแก่ปลายของแผ่นดินคานาอัน",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": "มานาตก 40 ปี — จาก อพย. 16 จนถึง ยชว. 5:12 เมื่ออิสราเอลกินผลของแผ่นดินคานาอันและมานาหยุดตก."
+    }
+  },
+  {
+    "reference": "Exodus 16:36",
+    "chapter": 16,
+    "verse": 36,
+    "language": "hebrew",
+    "hebrew": "וְהָעֹ֕מֶר עֲשִׂרִ֥ית הָאֵיפָ֖ה הֽוּא׃",
+    "bsb_english": "(Now an omer is a tenth of an ephah.)",
+    "translation": {
+      "thai": "(โอเมอร์เป็นหนึ่งในสิบของเอฟาห์)",
+      "thai_literal": "และโอเมอร์ที่สิบของเอฟาห์เขา",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "הָאֵיפָה",
+          "thai": "เอฟาห์",
+          "rationale": "Per uW translate-fraction: אֵיפָה ‘เอฟาห์’ — มาตราแห้งของฮีบรูโบราณ (~22 ลิตร). หนึ่งโอเมอร์ = 1/10 เอฟาห์ = ~2.2 ลิตร."
+        }
+      ],
+      "notes": "การอธิบายหน่วยวัด — สำหรับผู้อ่านในภายหลังที่อาจไม่คุ้นกับโอเมอร์."
+    }
+  }
+]
