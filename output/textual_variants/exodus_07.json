@@ -1,0 +1,14 @@
+[
+  {
+    "verse": 1,
+    "type": "tetragrammaton_convention_first_occurrence",
+    "tier_status": "Layer 2 (per-chapter first-occurrence footnote) — divine_names_table_2026-05",
+    "explanation_thai": "**องค์พระผู้เป็นเจ้า** ในบทนี้ (ปรากฏที่ข้อ 1, 5, 6, 8, 13, 14, 16, 17, 19, 20, 22, 25, 26) แปลจากภาษาฮีบรู יהוה (พระนามเฉพาะของพระเจ้า). บทนี้เริ่มต้นภัยพิบัติทั้งสิบในอียิปต์ — เพื่อ ‘ชาวอียิปต์จะรู้ว่าเราคือยาห์เวห์’ (ข้อ 5, 17). — ดูรายละเอียดเพิ่มเติมที่ docs/translator_decisions/divine_names_table_2026-05.md"
+  },
+  {
+    "verse": 26,
+    "type": "versification_divergence_mt_vs_bsb",
+    "tier_status": "MT-anchored — verse_schema_and_versification_2026-05",
+    "explanation_thai": "**การเรียงข้อแตกต่างระหว่าง MT และฉบับภาษาอังกฤษ.** ในต้นฉบับฮีบรู MT บทที่ 7 มี 29 ข้อ (จบที่การพยากรณ์ภัยพิบัติกบ). ในฉบับภาษาอังกฤษ (BSB/ESV/NIV/CSB/NLT) บทที่ 7 จบที่ข้อ 25 และ MT ข้อ 26–29 = ภาษาอังกฤษ Exodus 8:1–4. ฉบับเอเรโมสตามต้นฉบับฮีบรู MT per docs/translator_decisions/ot_canon_and_text_base_2026-05.md + verse_schema_and_versification_2026-05.md. การสัมพันธ์: MT 7:26 = BSB 8:1; MT 7:27 = BSB 8:2; MT 7:28 = BSB 8:3; MT 7:29 = BSB 8:4. ในผลทำให้ MT บท 8 = BSB 8:5–32 (ดูเชิงอรรถของบทที่ 8 เมื่อถึง)."
+  }
+]
