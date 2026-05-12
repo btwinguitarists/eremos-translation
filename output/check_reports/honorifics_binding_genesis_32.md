@@ -7,4 +7,4 @@ Policy: `docs/translator_decisions/ot_register_policy_2026-05.md`
 
 ## ⚠ Warnings
 
-- **Genesis 32:11** (TRONG_NO_VISIBLE_DIVINE_SUBJECT): `ทรงสำแดงต่อผู` — `…วามซื่อสัตย์ทั้งสิ้นที่พระองค์ทรงสำแดงต่อผู้รับใช้ของพระองค์…`
+- **Genesis 32:11** (TRONG_NO_VISIBLE_DIVINE_SUBJECT): `ทรงสำแดงต่อผู` — `…ความซื่อสัตย์ทั้งปวงที่พระองค์ทรงสำแดงต่อผู้รับใช้ของพระองค์…`
