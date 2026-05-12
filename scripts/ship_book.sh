@@ -79,12 +79,19 @@ EREMOS_REPO="$HOME/EremosVercel2"
 SLUG=$(python3 -c "
 import sys
 sys.path.insert(0, '$THAI_BIBLE_AI/scripts')
-from extract_book import BOOKS
+from extract_book import BOOKS as NT_BOOKS
+try:
+    from extract_book_hebrew import BOOKS as OT_BOOKS
+except ImportError:
+    OT_BOOKS = {}
 code = '$BOOK_CODE'.upper()
-if code not in BOOKS:
+if code in NT_BOOKS:
+    print(NT_BOOKS[code][1])
+elif code in OT_BOOKS:
+    print(OT_BOOKS[code][1])
+else:
     print(f'ERROR: unknown book code {code}', file=sys.stderr)
     sys.exit(1)
-print(BOOKS[code][1])
 ") || exit 1
 
 BRANCH="feat/book-ship-${SLUG}"
