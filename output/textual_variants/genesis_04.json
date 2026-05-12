@@ -8,7 +8,7 @@
   {
     "verse": 8,
     "type": "textual_variant_lxx_addition",
-    "tier_status": "Layer 1 (per-verse key_decisions records the textual issue)",
-    "explanation_thai": "ในข้อ 8 ข้อความฮีบรู MT บอกว่า “คาอินพูดกับอาเบลน้องชาย” แต่ ไม่ได้ บันทึกสิ่งที่คาอินพูด ฉบับ Septuagint (LXX), Samaritan Pentateuch, Syriac Peshitta, Vulgate และ Jerusalem Targum ทั้งหมดเพิ่มประโยค “ให้เราออกไปที่ทุ่งนากัน” ฉบับเอเรโมสรักษาการเพิ่มเติมในวงเล็บ [ ] เพื่อให้ผู้อ่านเข้าถึงประโยคที่เพิ่มเติมในขณะที่บ่งชี้สถานะที่ไม่ใช่ MT"
+    "tier_status": "Layer 2 (interpretive-crux + manuscript-evidence footnote) — broadly-attested gap-fill per mt_vs_lxx_textual_variant_handling_2026-05.md Category A",
+    "explanation_thai": "ในข้อ 8 ข้อความฮีบรู MT บอกว่า “คาอินพูดกับอาเบลน้องชาย” แต่ **ไม่ได้บันทึกสิ่งที่คาอินพูด** — มีช่องว่างหายไป. ฉบับ **เซปทัวจินต์ (LXX), เพนทาทุกของชาวสะมาเรีย (SP), เปชิตตาภาษาซีรีแอก (Syriac Peshitta), วัลเกตของเจอโรม (Vulgate), และทาร์กุมเยรูซาเล็ม (Targum Pseudo-Jonathan)** ทั้งห้าฉบับนี้เพิ่มประโยค **“ให้เราออกไปที่ทุ่งนากัน”** เป็นเอกฉันท์ เพื่อเติมช่องว่าง MT — แสดงว่าประโยคนี้น่าจะอยู่ในข้อความฮีบรูดั้งเดิม และ MT ผ่านการแก้ไขทำให้หายไป.\n\n**ฉบับเอเรโมสรวมการเพิ่มเติมไว้ในข้อความหลักโดยไม่ใส่วงเล็บ** ตามรูปแบบ **Berean Standard Bible (BSB)** ที่เป็นต้นแบบของฉบับเอเรโมส — ทั้งสองฉบับใช้ปรัชญา *optimal equivalence* และยอมรับช่องว่างที่มีการเป็นพยานข้ามฉบับโบราณอย่างกว้างขวางว่าเป็นการเติมข้อความที่ชอบธรรม ภายในข้อความหลัก. การตัดสินใจนี้บันทึกใน Category A ของเอกสาร docs/translator_decisions/mt_vs_lxx_textual_variant_handling_2026-05.md (ข้อกำหนดที่เข้มงวด: ต้องมีพยานข้ามฉบับ ≥3 จาก {LXX, SP, Syriac, Vulgate, Targums} — ตรงตามข้อกำหนดของปฐมกาล 4:8 ด้วย 5 พยาน)"
   }
 ]
