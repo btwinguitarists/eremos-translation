@@ -18,13 +18,15 @@ Three of the most-cited MT-vs-LXX divergences in Hebrew Bible scholarship occur 
 
 **LXX + SP (Samaritan Pentateuch) + Syriac + Vulgate + Targums:** all four ancient versions agree in supplying εἴπωμεν εἰς τὸ πεδίον ("Let us go out to the field"). The gap-fill is **broadly attested across four independent textual traditions** — the only major textual case in Genesis where the LXX divergence has cross-versional support of this breadth.
 
-**Eremos surface text:** includes the addition **in square brackets** (the inline-bracket convention):
+**Eremos surface text (updated 2026-05-12):** includes the addition **inline without brackets**, matching Berean Standard Bible (BSB) — the project's foundational translation philosophy:
 
-> คาอินพูดกับอาเบลน้องชายว่า [**"ให้เราออกไปที่ทุ่งนากัน"**] เมื่อพวกเขาอยู่ในทุ่งนา...
+> คาอินพูดกับอาเบลน้องชายว่า **"ให้เราออกไปที่ทุ่งนากัน"** เมื่อพวกเขาอยู่ในทุ่งนา...
 
-**Layer-2 footer** at `output/textual_variants/genesis_04.json` (type `textual_variant_lxx_addition`) documents the manuscript evidence.
+(BSB Gen 4:8: *"Then Cain said to his brother Abel, 'Let us go out to the field.' And while they were in the field..."* — no brackets, no footnote-marker on the surface.)
 
-**Category:** **Broadly-attested gap-fill** — the rare case where multiple independent ancient versions converge on the same supplement to an MT-silent reading.
+**Layer-2 footer** at `output/textual_variants/genesis_04.json` (type `textual_variant_lxx_addition`) documents the manuscript evidence + the five cross-versional witnesses (LXX + SP + Syriac + Vulgate + Targum Pseudo-Jonathan).
+
+**Category:** **Broadly-attested gap-fill** — the rare case where multiple independent ancient versions converge on the same supplement to an MT-silent reading. Surface inline (no bracket) per BSB-alignment + the Category-A high bar (≥3 cross-versional witnesses required — Gen 4:8 has 5).
 
 ### 1.2 Gen 46:27 — MT 70 vs. LXX 75 persons
 
@@ -56,7 +58,7 @@ Three of the most-cited MT-vs-LXX divergences in Hebrew Bible scholarship occur 
 
 | Category | Description | Surface-text policy | Footer policy |
 |---|---|---|---|
-| **A. Broadly-attested gap-fill** | MT has a silent gap (omission, lacuna); LXX + ≥2 other independent ancient versions (SP, Syriac, Vulgate, Targums) converge on the same supplement | **Inline-bracket the addition** in the main Thai text (rare; high bar) | Required (manuscript evidence + cross-versional witness list) |
+| **A. Broadly-attested gap-fill** | MT has a silent gap (omission, lacuna); LXX + ≥2 other independent ancient versions (SP, Syriac, Vulgate, Targums) converge on the same supplement | **Include the addition inline, no brackets** (matches BSB style — the project's foundational philosophy) | Required (manuscript evidence + cross-versional witness list) |
 | **B. Competing textual tradition** | MT and LXX preserve different readings with similar internal coherence (number-counts; vocalization variants; lexical substitutions) | **Surface = MT only**; Layer-2 footer | Required (LXX reading + NT cross-reference if cited) |
 | **C. LXX expansion / paraphrase / theological-edit** | LXX adds, paraphrases, or theologically-edits beyond MT, without cross-versional support | **Surface = MT only**; no inline-bracket | Optional footer (use if the LXX expansion has lasting theological/historical importance) |
 
@@ -64,13 +66,13 @@ Three of the most-cited MT-vs-LXX divergences in Hebrew Bible scholarship occur 
 
 **Default behavior** is Category B / C: surface = MT only, LXX divergence documented in the footer apparatus.
 
-## 2.1 Open question — flagged for Ben
+## 2.1 Resolved 2026-05-12 — BSB-alignment
 
-External AI review surfaced **divergence on Gen 4:8**:
-- **ChatGPT:** keep the bracket — "if the doc explicitly defines it as a rare 'broadly attested gap-fill' category. Otherwise, move it to Layer-2-only for strict MT-surface consistency."
-- **Gemini:** **strip the bracket** — "The inline bracket at 4:8 is a massive, unsupported precedent that conflicts with the project's foundational MT-priority philosophy."
+The original draft of this doc presented Gen 4:8 with square brackets and flagged a ChatGPT-vs-Gemini divergence on whether to strip them. Ben asked **"what does BSB do here?"** — BSB Gen 4:8 includes the LXX gap-fill inline without brackets or footnote-markers (just as natural English text). Since the Eremos project is explicitly BSB-style ("Optimal equivalence — Berean Standard Bible style" per `scripts/translate_mark.py`), the policy resolved to **no bracket** at the surface + cross-versional manuscript evidence in the Layer-2 footer.
 
-This doc adopts **ChatGPT's path** (keep + tight category-A definition). The hard threshold above (≥3 cross-versional witnesses) is designed to prevent Category A from becoming a general license to import LXX additions. **If Ben prefers Gemini's path** (strip-and-defer-to-footer for all LXX additions), the policy can be flipped — change Category A to "no inline-bracket; footer only" and the Gen 4:8 surface-text loses the bracket. Document the decision before Joshua / Samuel ship.
+The Category-A high bar (≥3 cross-versional witnesses + a genuine MT lacuna) is intentionally narrow to prevent inline-addition becoming a general license for LXX imports. The 5-witness threshold at Gen 4:8 (LXX + SP + Syriac + Vulgate + Targum Pseudo-Jonathan) far exceeds the bar.
+
+**Forward-look:** at Joshua 21:36–37 (missing-MT-verses with LXX + Vulgate support), the Category-A bar will be tested. If Joshua 21 has ≥3 cross-versional witnesses, the addition gets included inline (matching the Gen 4:8 precedent). If not, it's a Category-B (footer-only).
 
 ---
 
@@ -110,4 +112,5 @@ The MT-vs-LXX question scales massively beyond Genesis:
 
 ## 6. Change log
 
-- **v0.1** (2026-05-12) — Initial policy, triggered by Genesis end-of-book audit §F + external AI cross-review (ChatGPT + Gemini both MAJOR CONCERN). Genesis-locking-precedents at 4:8 (Category A) + 46:27 + 47:31 (Category B). Pending Ben decision on 4:8 bracket: keep (per ChatGPT + this doc) or strip (per Gemini) — flip the surface-text + Category A definition if Gemini's path is chosen.
+- **v0.2** (2026-05-12, later same day) — Gen 4:8 brackets STRIPPED per Ben's BSB-alignment decision. Category A redefined as "inline without brackets, matching BSB" rather than the original "inline-with-square-brackets." Cross-versional manuscript evidence remains in Layer-2 footer. Resolves the ChatGPT-vs-Gemini divergence by adopting BSB's actual rendering style.
+- **v0.1** (2026-05-12) — Initial policy, triggered by Genesis end-of-book audit §F + external AI cross-review (ChatGPT + Gemini both MAJOR CONCERN). Genesis-locking-precedents at 4:8 (Category A) + 46:27 + 47:31 (Category B). Originally flagged Ben decision pending on 4:8 bracket; resolved in v0.2 (above).
