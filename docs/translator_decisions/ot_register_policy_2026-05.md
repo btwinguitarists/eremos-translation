@@ -73,13 +73,29 @@ The OT is **dominated by earthly monarchs**: ~40 kings of Israel + Judah, the pa
 | **YHWH (Tetragrammaton-subject)** | Full ราชาศัพท์ throughout (ทรง / เสด็จ / ตรัส / พระ-prefix). Same as NT divine-Christ pattern | YHWH speaks; full Rachasap |
 | **Hebrew kings (David, Solomon, all kings of Judah/Israel) — public-office context** | ราชาศัพท์ (ทรง). Narrator dignifies the office | Rachasap (เรา 1sg, royal-thai verbs and possessions) |
 | **Hebrew kings — personal/shameful context** | Plain Thai (no ทรง for the shameful action) | Plain Thai (no Rachasap during moral failure narration) |
-| **Patriarchs (Abraham, Isaac, Jacob, Joseph)** | Plain narrator (treat as venerated-elders, not kings); Rachasap inappropriate for tribal-patriarch role | Plain (their speech is patriarchal-elder, not royal) |
+| **Patriarchs (Abraham, Isaac, Jacob, Joseph)** | Plain narrator (treat as venerated-elders, not kings); Rachasap inappropriate for tribal-patriarch role — **this applies even when the patriarch occupies a non-tribal office** (e.g. Joseph as vizier of Egypt under Pharaoh, Gen 41:40–44 onward). Joseph remains second to Pharaoh, not Pharaoh. **See §2.5 Joseph-vizier sub-rule below.** | Plain (their speech is patriarchal-elder, not royal) |
 | **Moses + the prophet-leaders (Joshua, Samuel, Elijah, Elisha)** | Plain narrator (they are servants of God, not kings); narrator doesn't grant ทรง | Plain (their speech is prophet/servant) |
 | **Foreign emperors (Pharaoh, Nebuchadnezzar, Cyrus, Darius, Xerxes)** | ราชาศัพท์ (ทรง) — they are the imperial sovereigns of their narratives, even if villainous | Rachasap (with downshift if context shames them) |
 | **Foreign vassal-rulers, governors (Pekah, Hazael, etc.)** | Plain (they are lower than the imperial level) | Plain |
 | **Divine-council figures (sons-of-God, the satan in Job 1-2, the lying spirit in 1 Kgs 22)** | Plain narrator (they are subordinate to YHWH) | Plain (with deferential register when addressing YHWH) |
 | **Queens / queen-mothers (Esther, Bathsheba, Athaliah)** | ราชาศัพท์ when in royal-office context | Rachasap |
 | **Priests / Levites (in narrative)** | Plain narrator (priestly-office is not a king-equivalent) | Plain. **Exception:** the High Priest at Yom Kippur or in revelatory contexts (Eli, Samuel) may receive deferential vocabulary in the verse's specific rhetoric, documented per-verse |
+
+### 2.5 Sub-rule: Joseph-as-vizier-of-Egypt (added 2026-05-12)
+
+Added per Genesis end-of-book audit §H + external AI review (ChatGPT + Gemini both CONCERN — both recommend strict policy compliance: STRIP ทรง- from Joseph in all narrator-voice contexts including vizier-office actions).
+
+**The audit caught 4 verses where Joseph received ทรง-** (44:1, 45:1, 50:1, 50:2). The drift was driven by the narrator's care to dignify Joseph's commanding/revealing-himself/weeping actions during his Egypt-vizier period. **All 4 verses were stripped to plain narrator-voice 2026-05-12.**
+
+**The rule:** ปฐมบุรุษ (patriarchs) do not receive ทรง- in the Eremos OT corpus regardless of office held — including:
+
+- Joseph's commands as vizier of Egypt (44:1, 50:2)
+- Joseph's emotional actions in personal contexts (50:1 weeping over father)
+- Joseph's revealing-himself to his brothers (45:1)
+
+**Why this matters going forward:** The same question will recur with **Daniel** (as vizier under Nebuchadnezzar / Belshazzar / Darius), **Mordecai** (as vizier under Ahasuerus), **Nehemiah** (as cupbearer / Persian-court official). The patriarchal-vs-imperial principle here means: **none of them receive ทรง-**. Imperial-emperor Rachasap is reserved for the **Pharaohs / Nebuchadnezzars / Ahasueruses** themselves (the actual imperial sovereigns), not for their Hebrew-servant viziers.
+
+This sub-rule resolves the audit's §H concern with strict-compliance over policy-expansion. If a future translator instinctively reaches for ทรง- when narrating a Hebrew-vizier's public-office action, this sub-rule pulls them back.
 
 ### 2.3 Special case: the Tabernacle / Temple
 
