@@ -1,0 +1,626 @@
+[
+  {
+    "reference": "Exodus 21:1",
+    "chapter": 21,
+    "verse": 1,
+    "language": "hebrew",
+    "hebrew": "וְאֵ֨לֶּה֙ הַמִּשְׁפָּטִ֔ים אֲשֶׁ֥ר תָּשִׂ֖ים לִפְנֵיהֶֽם׃",
+    "bsb_english": "“These are the ordinances that you are to set before them:",
+    "translation": {
+      "thai": "“นี่คือกฎข้อบังคับที่เจ้าจะวางต่อหน้าพวกเขา",
+      "thai_literal": "และเหล่านี้กฎข้อบังคับทั้งหลายที่เจ้าจะวางต่อหน้าของพวกเขา",
+      "thai_summary": "**THE BOOK OF THE COVENANT (อพย. 21–23).** เริ่มต้นชุดของกฎข้อบังคับ (มิชปาทิม) ที่ขยายความและประยุกต์พระบัญญัติสิบประการ. ครอบคลุม: ทาส (21:2–11), การฆาตกรรมและบาดเจ็บ (21:12–32), ทรัพย์สิน (21:33–22:14), บัญญัติเรื่องสังคม (22:15–23:9), เทศกาลและพันธสัญญา (23:10–33).",
+      "key_decisions": [
+        {
+          "hebrew": "הַמִּשְׁפָּטִים",
+          "thai": "กฎข้อบังคับ",
+          "rationale": "Per Eremos OT lock: מִשְׁפָּט → กฎข้อบังคับ/การตัดสิน. คำสำคัญสำหรับคำตัดสินทางกฎหมาย — ปรากฏ ~420 ครั้งใน OT."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 21:2",
+    "chapter": 21,
+    "verse": 2,
+    "language": "hebrew",
+    "hebrew": "כִּ֤י תִקְנֶה֙ עֶ֣בֶד עִבְרִ֔י שֵׁ֥שׁ שָׁנִ֖ים יַעֲבֹ֑ד וּבַ֨שְּׁבִעִ֔ת יֵצֵ֥א לַֽחָפְשִׁ֖י חִנָּֽם׃",
+    "bsb_english": "If you buy a Hebrew servant, he is to serve you for six years. But in the seventh year, he shall go free without paying anything.",
+    "translation": {
+      "thai": "ถ้าเจ้าซื้อทาสฮีบรู เขาจะรับใช้เจ้าหกปี ในปีที่เจ็ดเขาจะได้รับการปล่อยให้เป็นอิสระโดยไม่ต้องจ่ายค่าตัว",
+      "thai_literal": "เพราะเจ้าจะซื้อทาสฮีบรู หกปีทั้งหลายเขาจะรับใช้ และในที่เจ็ดเขาจะออกแก่อิสระเปล่า",
+      "thai_summary": "**HEBREW SERVITUDE LAWS.** กฎหมายข้อแรกของชุดบัญญัติเรื่องการเป็นทาส. หกปีรับใช้แล้วได้รับการปล่อย — รูปแบบของอิสรภาพในวันที่เจ็ด (= วันสะบาโต + ปีสะบาโต + ปีกุ๊บลี).",
+      "key_decisions": [
+        {
+          "hebrew": "עֶבֶד עִבְרִי",
+          "thai": "ทาสฮีบรู",
+          "rationale": "Per uW + Eremos OT lock: עֶבֶד עִבְרִי ‘ทาสฮีบรู’ — มีสิทธิ์พิเศษเหนือทาสต่างชาติ. ปีที่เจ็ดของการรับใช้ = ปลดปล่อย."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 21:3",
+    "chapter": 21,
+    "verse": 3,
+    "language": "hebrew",
+    "hebrew": "אִם־בְּגַפּ֥וֹ יָבֹ֖א בְּגַפּ֣וֹ יֵצֵ֑א אִם־בַּ֤עַל אִשָּׁה֙ ה֔וּא וְיָצְאָ֥ה אִשְׁתּ֖וֹ עִמּֽוֹ׃",
+    "bsb_english": "If he arrived alone, he is to leave alone; if he arrived with a wife, she is to leave with him.",
+    "translation": {
+      "thai": "ถ้าเขามาคนเดียว เขาจะออกไปคนเดียว ถ้าเขามีภรรยา ภรรยาของเขาจะออกไปกับเขาด้วย",
+      "thai_literal": "ถ้าในตัวเดียวของเขาเขามา ในตัวเดียวของเขาเขาจะออก ถ้าสามีของหญิงเขา และจะออกภรรยาของเขากับเขา",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 21:4",
+    "chapter": 21,
+    "verse": 4,
+    "language": "hebrew",
+    "hebrew": "אִם־אֲדֹנָיו֙ יִתֶּן־ל֣וֹ אִשָּׁ֔ה וְיָלְדָה־ל֥וֹ בָנִ֖ים א֣וֹ בָנ֑וֹת הָאִשָּׁ֣ה וִילָדֶ֗יהָ תִּהְיֶה֙ לַֽאדֹנֶ֔יהָ וְה֖וּא יֵצֵ֥א בְגַפּֽוֹ׃",
+    "bsb_english": "If his master gives him a wife and she bears him sons or daughters, the woman and her children shall belong to her master, and only the man shall go free.",
+    "translation": {
+      "thai": "ถ้านายของเขาให้ภรรยาแก่เขา และเธอคลอดบุตรชายหรือบุตรสาวให้เขา ภรรยาและบุตรของเธอจะเป็นของนายของเธอ และเฉพาะตัวเขาจะออกไปเป็นอิสระ",
+      "thai_literal": "ถ้านายของเขาจะให้แก่เขาหญิง และเธอจะคลอดแก่เขาบุตรชายทั้งหลายหรือบุตรสาวทั้งหลาย หญิงและบุตรทั้งหลายของเธอจะเป็นแก่นายของเธอ และเขาจะออกในตัวเดียวของเขา",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 21:5",
+    "chapter": 21,
+    "verse": 5,
+    "language": "hebrew",
+    "hebrew": "וְאִם־אָמֹ֤ר יֹאמַר֙ הָעֶ֔בֶד אָהַ֨בְתִּי֙ אֶת־אֲדֹנִ֔י אֶת־אִשְׁתִּ֖י וְאֶת־בָּנָ֑י לֹ֥א אֵצֵ֖א חָפְשִֽׁי׃",
+    "bsb_english": "But if the servant declares, ‘I love my master and my wife and children; I do not want to go free,’",
+    "translation": {
+      "thai": "แต่ถ้าทาสนั้นกล่าวอย่างชัดเจนว่า ‘ข้าพเจ้ารักนายของข้าพเจ้า รักภรรยาและบุตรของข้าพเจ้า ข้าพเจ้าไม่อยากเป็นอิสระ’",
+      "thai_literal": "และถ้ากล่าวเขาจะกล่าวทาส ข้าพเจ้ารักซึ่งนายของข้าพเจ้า ซึ่งภรรยาของข้าพเจ้าและซึ่งบุตรทั้งหลายของข้าพเจ้า ไม่ข้าพเจ้าจะออกเป็นอิสระ",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 21:6",
+    "chapter": 21,
+    "verse": 6,
+    "language": "hebrew",
+    "hebrew": "וְהִגִּישׁ֤וֹ אֲדֹנָיו֙ אֶל־הָ֣אֱלֹהִ֔ים וְהִגִּישׁוֹ֙ אֶל־הַדֶּ֔לֶת א֖וֹ אֶל־הַמְּזוּזָ֑ה וְרָצַ֨ע אֲדֹנָ֤יו אֶת־אָזְנוֹ֙ בַּמַּרְצֵ֔עַ וַעֲבָד֖וֹ לְעֹלָֽם׃ס",
+    "bsb_english": "then his master is to bring him before the judges. And he shall take him to the door or doorpost and pierce his ear with an awl. Then he shall serve his master for life.",
+    "translation": {
+      "thai": "นายของเขาจะนำเขาไปต่อหน้าผู้ตัดสิน และจะนำเขาไปยังประตูหรือเสาประตู และนายของเขาจะใช้เหล็กแหลมเจาะหูเขา แล้วเขาจะรับใช้นายของเขาตลอดชีวิต",
+      "thai_literal": "และนายของเขาจะนำเขาแก่พระเจ้าทั้งหลาย และเขาจะนำเขาแก่ประตูหรือแก่เสาประตู และจะเจาะนายของเขาซึ่งหูของเขาในเหล็กแหลม และเขาจะรับใช้เขาตลอดไป",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "אֶל־הָאֱלֹהִים",
+          "thai": "ต่อหน้าผู้ตัดสิน",
+          "rationale": "Per uW: הָאֱלֹהִים ในที่นี้ (ตามบริบทกฎหมาย) มักแปลว่า ‘ผู้ตัดสิน/ศาล’ — ผู้แทนของพระเจ้าในการพิพากษา. คล้ายกับ ‘ในพระนามของพระเจ้า’ ในการสาบาน. ดู NIV/NASB/ESV ‘before God/the judges’."
+        },
+        {
+          "hebrew": "וְרָצַע",
+          "thai": "เจาะ",
+          "rationale": "**HAPAX LEGOMENON.** רָצַע ‘เจาะ’ — ปรากฏเพียงครั้งเดียวในฮีบรู. การเจาะหูเป็นเครื่องหมายของการเป็นทาสตลอดชีวิตโดยสมัครใจ. ในไทย ‘เจาะ’ สื่อความหมาย."
+        },
+        {
+          "hebrew": "בַּמַּרְצֵעַ",
+          "thai": "เหล็กแหลม",
+          "rationale": "Per uW: מַרְצֵעַ ‘เหล็กแหลม’ — เครื่องมือใช้เจาะหู. ในไทย ‘เหล็กแหลม’."
+        }
+      ],
+      "notes": "HAPAX LEGOMENON: רָצַע (เจาะ)."
+    }
+  },
+  {
+    "reference": "Exodus 21:7",
+    "chapter": 21,
+    "verse": 7,
+    "language": "hebrew",
+    "hebrew": "וְכִֽי־יִמְכֹּ֥ר אִ֛ישׁ אֶת־בִּתּ֖וֹ לְאָמָ֑ה לֹ֥א תֵצֵ֖א כְּצֵ֥את הָעֲבָדִֽים׃",
+    "bsb_english": "And if a man sells his daughter as a servant, she is not to go free as the menservants do.",
+    "translation": {
+      "thai": "ถ้าชายขายบุตรสาวของตนเป็นทาสหญิง เธอจะไม่ออกไปเป็นอิสระเหมือนทาสชาย",
+      "thai_literal": "และถ้าจะขายชายซึ่งบุตรสาวของเขาแก่ทาสหญิง ไม่เธอจะออกเหมือนการออกของทาสทั้งหลาย",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 21:8",
+    "chapter": 21,
+    "verse": 8,
+    "language": "hebrew",
+    "hebrew": "אִם־רָעָ֞ה בְּעֵינֵ֧י אֲדֹנֶ֛יהָ אֲשֶׁר־ל֥וֹ יְעָדָ֖הּ וְהֶפְדָּ֑הּ לְעַ֥ם נָכְרִ֛י לֹא־יִמְשֹׁ֥ל לְמָכְרָ֖הּ בְּבִגְדוֹ־בָֽהּ׃",
+    "bsb_english": "If she is displeasing in the eyes of her master who had designated her for himself, he must allow her to be redeemed. He has no right to sell her to foreigners, since he has broken faith with her.",
+    "translation": {
+      "thai": "ถ้าเธอไม่เป็นที่พอใจในสายตาของนายผู้ที่ได้เลือกเธอไว้สำหรับตน นายต้องยอมให้ไถ่เธอ เขาไม่มีสิทธิ์ที่จะขายเธอให้แก่คนต่างชาติ เพราะเขาผิดสัจจะต่อเธอ",
+      "thai_literal": "ถ้าเลวในตาทั้งหลายของนายของเธอ ที่แก่เขาเขาเลือกเธอ และเขาจะให้ไถ่เธอ แก่ชนชาติต่างชาติ ไม่จะมีสิทธิ์เพื่อขายเธอในการผิดสัจจะของเขาในเธอ",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 21:9",
+    "chapter": 21,
+    "verse": 9,
+    "language": "hebrew",
+    "hebrew": "וְאִם־לִבְנ֖וֹ יִֽיעָדֶ֑נָּה כְּמִשְׁפַּ֥ט הַבָּנ֖וֹת יַעֲשֶׂה־לָּֽהּ׃",
+    "bsb_english": "And if he chooses her for his son, he must deal with her as with a daughter.",
+    "translation": {
+      "thai": "ถ้าเขาเลือกเธอให้บุตรชาย เขาต้องปฏิบัติต่อเธอเหมือนบุตรสาว",
+      "thai_literal": "และถ้าแก่บุตรชายของเขาเขาเลือกเธอ ตามกฎข้อบังคับของบุตรสาวทั้งหลายเขาจะทำแก่เธอ",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 21:10",
+    "chapter": 21,
+    "verse": 10,
+    "language": "hebrew",
+    "hebrew": "אִם־אַחֶ֖רֶת יִֽקַּֽח־ל֑וֹ שְׁאֵרָ֛הּ כְּסוּתָ֥הּ וְעֹנָתָ֖הּ לֹ֥א יִגְרָֽע׃",
+    "bsb_english": "If he takes another wife, he must not reduce the food, clothing, or marital rights of his first wife.",
+    "translation": {
+      "thai": "ถ้าเขารับภรรยาอีกคน เขาต้องไม่ลดอาหาร เสื้อผ้า หรือสิทธิ์ของการสมรสของภรรยาคนแรก",
+      "thai_literal": "ถ้าอีกคนเขาจะเอาแก่เขา อาหารของเธอ เสื้อผ้าของเธอ และสิทธิ์การสมรสของเธอ ไม่เขาจะลด",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "וְעֹנָתָהּ",
+          "thai": "สิทธิ์ของการสมรส",
+          "rationale": "**HAPAX LEGOMENON.** עֹנָה ‘สิทธิ์ของการสมรส/การอยู่ร่วม’ — ปรากฏเพียงครั้งเดียวในฮีบรู. ความหมายตามประเพณีคือ ‘สิทธิ์ในการอยู่ร่วม + ความใกล้ชิด’. ในไทย ‘สิทธิ์ของการสมรส’."
+        }
+      ],
+      "notes": "HAPAX LEGOMENON: עֹנָה (สิทธิ์ของการสมรส)."
+    }
+  },
+  {
+    "reference": "Exodus 21:11",
+    "chapter": 21,
+    "verse": 11,
+    "language": "hebrew",
+    "hebrew": "וְאִם־שְׁלָ֨שׁ־אֵ֔לֶּה לֹ֥א יַעֲשֶׂ֖ה לָ֑הּ וְיָצְאָ֥ה חִנָּ֖ם אֵ֥ין כָּֽסֶף׃ס",
+    "bsb_english": "If, however, he does not provide her with these three things, she is free to go without monetary payment.",
+    "translation": {
+      "thai": "ถ้าเขาไม่จัดเตรียมสามสิ่งนี้ให้เธอ เธอจะออกไปเป็นอิสระโดยไม่ต้องจ่ายเงิน",
+      "thai_literal": "และถ้าสามเหล่านี้ไม่เขาจะทำแก่เธอ และเธอจะออกเปล่า ไม่มีเงิน",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 21:12",
+    "chapter": 21,
+    "verse": 12,
+    "language": "hebrew",
+    "hebrew": "מַכֵּ֥ה אִ֛ישׁ וָמֵ֖ת מ֥וֹת יוּמָֽת׃",
+    "bsb_english": "Whoever strikes and kills a man must surely be put to death.",
+    "translation": {
+      "thai": "ผู้ที่ทำร้ายและฆ่าคนใดต้องถูกประหารชีวิตอย่างแน่นอน",
+      "thai_literal": "ผู้ทำร้ายชายและตาย ตายเขาจะถูกประหาร",
+      "thai_summary": "**LAWS ON HOMICIDE (vv.12–17).** ขยายความพระบัญญัติที่หก (อย่าฆ่าคน). ความแตกต่างระหว่างการฆ่าโดยเจตนา (v.14) vs. โดยอุบัติเหตุ (v.13).",
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 21:13",
+    "chapter": 21,
+    "verse": 13,
+    "language": "hebrew",
+    "hebrew": "וַאֲשֶׁר֙ לֹ֣א צָדָ֔ה וְהָאֱלֹהִ֖ים אִנָּ֣ה לְיָד֑וֹ וְשַׂמְתִּ֤י לְךָ֙ מָק֔וֹם אֲשֶׁ֥ר יָנ֖וּס שָֽׁמָּה׃ס",
+    "bsb_english": "If, however, he did not lie in wait, but God allowed it to happen, then I will appoint for you a place where he may flee.",
+    "translation": {
+      "thai": "แต่ถ้าเขาไม่ได้ซุ่มดักทำร้าย แต่พระเจ้าทรงให้เกิดขึ้น เราจะกำหนดสถานที่ให้เขาหลบหนีไป",
+      "thai_literal": "และที่ไม่ได้ดักซุ่ม และพระเจ้าทรงให้แก่มือของเขา และข้าพเจ้าจะตั้งแก่เจ้าที่ที่เขาจะหลบหนีที่นั่น",
+      "thai_summary": "**CITY OF REFUGE FORESHADOWING.** บทบัญญัตินี้คือต้นกำเนิดของ ‘เมืองลี้ภัย’ (กดว. 35, ฉธบ. 19, ยชว. 20) — สถานที่ที่ผู้ฆ่าคนโดยอุบัติเหตุได้รับการคุ้มครองจากการแก้แค้นเลือด.",
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 21:14",
+    "chapter": 21,
+    "verse": 14,
+    "language": "hebrew",
+    "hebrew": "וְכִֽי־יָזִ֥ד אִ֛ישׁ עַל־רֵעֵ֖הוּ לְהָרְג֣וֹ בְעָרְמָ֑ה מֵעִ֣ם מִזְבְּחִ֔י תִּקָּחֶ֖נּוּ לָמֽוּת׃ס",
+    "bsb_english": "But if a man schemes and acts willfully against his neighbor to kill him, you must take him away from My altar to be put to death.",
+    "translation": {
+      "thai": "แต่ถ้าชายวางแผนและกระทำต่อเพื่อนบ้านโดยเจตนาเพื่อฆ่าเขา เจ้าจะนำเขาออกจากแท่นบูชาของเราเพื่อประหารชีวิต",
+      "thai_literal": "และถ้าจะอวดดีชายเหนือเพื่อนของเขาเพื่อฆ่าเขาในความเจ้าเล่ห์ จากกับแท่นบูชาของข้าพเจ้าเจ้าจะเอาเขาเพื่อตาย",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 21:15",
+    "chapter": 21,
+    "verse": 15,
+    "language": "hebrew",
+    "hebrew": "וּמַכֵּ֥ה אָבִ֛יו וְאִמּ֖וֹ מ֥וֹת יוּמָֽת׃",
+    "bsb_english": "Whoever strikes his father or mother must surely be put to death.",
+    "translation": {
+      "thai": "ผู้ใดทำร้ายบิดาหรือมารดาของตน ต้องถูกประหารชีวิตอย่างแน่นอน",
+      "thai_literal": "และผู้ทำร้ายบิดาของเขาและมารดาของเขา ตายเขาจะถูกประหาร",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 21:16",
+    "chapter": 21,
+    "verse": 16,
+    "language": "hebrew",
+    "hebrew": "וְגֹנֵ֨ב אִ֧ישׁ וּמְכָר֛וֹ וְנִמְצָ֥א בְיָד֖וֹ מ֥וֹת יוּמָֽת׃ס",
+    "bsb_english": "Whoever kidnaps another man must be put to death, whether he sells him or the man is found in his possession.",
+    "translation": {
+      "thai": "ผู้ใดลักพาตัวคน ต้องถูกประหารชีวิต ไม่ว่าจะขายคนนั้นแล้วหรือยังพบคนนั้นในความครอบครองของเขา",
+      "thai_literal": "และผู้ลักชายและขายเขาและพบในมือของเขา ตายเขาจะถูกประหาร",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 21:17",
+    "chapter": 21,
+    "verse": 17,
+    "language": "hebrew",
+    "hebrew": "וּמְקַלֵּ֥ל אָבִ֛יו וְאִמּ֖וֹ מ֥וֹת יוּמָֽת׃ס",
+    "bsb_english": "Anyone who curses his father or mother must surely be put to death.",
+    "translation": {
+      "thai": "ผู้ใดสาปแช่งบิดาหรือมารดาของตน ต้องถูกประหารชีวิตอย่างแน่นอน",
+      "thai_literal": "และผู้สาปแช่งบิดาของเขาและมารดาของเขา ตายเขาจะถูกประหาร",
+      "thai_summary": "**NT CITATION.** มก. 7:10 + มธ. 15:4 อ้างทั้ง อพย. 20:12 (‘จงให้เกียรติบิดามารดา’) + อพย. 21:17 (‘ผู้สาปแช่งบิดามารดาต้องถูกประหาร’) — พระเยซูใช้เพื่อตำหนิประเพณีของคอร์บานที่ทำลายการเลี้ยงดูบิดามารดา.",
+      "key_decisions": [
+        {
+          "hebrew": "וּמְקַלֵּל אָבִיו וְאִמּוֹ מוֹת יוּמָת",
+          "thai": "ผู้ใดสาปแช่งบิดาหรือมารดาของตน ต้องถูกประหารชีวิตอย่างแน่นอน",
+          "rationale": "**KEY NT CITATION.** Per Eremos NT lock at มก. 7:10 + มธ. 15:4: ‘ὁ κακολογῶν πατέρα ἢ μητέρα θανάτῳ τελευτάτω’ → ‘ผู้สาปแช่งบิดาหรือมารดา ต้องตาย’."
+        }
+      ],
+      "notes": "**OT CITATION (NT cites):** มก. 7:10, มธ. 15:4."
+    }
+  },
+  {
+    "reference": "Exodus 21:18",
+    "chapter": 21,
+    "verse": 18,
+    "language": "hebrew",
+    "hebrew": "וְכִֽי־יְרִיבֻ֣ן אֲנָשִׁ֔ים וְהִכָּה־אִישׁ֙ אֶת־רֵעֵ֔הוּ בְּאֶ֖בֶן א֣וֹ בְאֶגְרֹ֑ף וְלֹ֥א יָמ֖וּת וְנָפַ֥ל לְמִשְׁכָּֽב׃",
+    "bsb_english": "If men are quarreling and one strikes the other with a stone or a fist, and he does not die but is confined to bed,",
+    "translation": {
+      "thai": "ถ้าคนทะเลาะกัน และคนหนึ่งทำร้ายอีกคนด้วยก้อนหินหรือกำปั้น และคนนั้นไม่ตายแต่ต้องนอนอยู่บนเตียง",
+      "thai_literal": "และถ้าจะทะเลาะชายทั้งหลาย และทำร้ายชายซึ่งเพื่อนของเขาในหินหรือในกำปั้น และไม่เขาตาย และเขาตกแก่เตียง",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 21:19",
+    "chapter": 21,
+    "verse": 19,
+    "language": "hebrew",
+    "hebrew": "אִם־יָק֞וּם וְהִתְהַלֵּ֥ךְ בַּח֛וּץ עַל־מִשְׁעַנְתּ֖וֹ וְנִקָּ֣ה הַמַּכֶּ֑ה רַ֥ק שִׁבְתּ֛וֹ יִתֵּ֖ן וְרַפֹּ֥א יְרַפֵּֽא׃ס",
+    "bsb_english": "then the one who struck him shall go unpunished, as long as the other can get up and walk around outside with his staff. Nevertheless, he must compensate the man for his lost work and see that he is completely healed.",
+    "translation": {
+      "thai": "ถ้าคนนั้นลุกขึ้นและเดินไปข้างนอกด้วยไม้เท้า ผู้ทำร้ายจะไม่ถูกลงโทษ แต่เขาต้องชดเชยการสูญเสียเวลาทำงานของคนนั้นและให้แน่ใจว่าเขาได้รับการรักษาให้หายดี",
+      "thai_literal": "ถ้าเขาจะลุก และเดินข้างนอกบนไม้เท้าของเขา และพ้นผิดผู้ทำร้าย เพียงการนั่งของเขาเขาจะให้ และรักษาเขาจะรักษา",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "וְרַפֹּא יְרַפֵּא",
+          "thai": "ให้แน่ใจว่าเขาได้รับการรักษาให้หายดี",
+          "rationale": "Per Eremos OT lock: รูป Infinitive absolute + finite verb ‘רפא רפא’ → ‘รักษาเขาจะรักษา’ = ‘รักษาให้หายดีอย่างแน่นอน’. โครงสร้างเน้นย้ำของฮีบรู."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 21:20",
+    "chapter": 21,
+    "verse": 20,
+    "language": "hebrew",
+    "hebrew": "וְכִֽי־יַכֶּה֩ אִ֨ישׁ אֶת־עַבְדּ֜וֹ א֤וֹ אֶת־אֲמָתוֹ֙ בַּשֵּׁ֔בֶט וּמֵ֖ת תַּ֣חַת יָד֑וֹ נָקֹ֖ם יִנָּקֵֽם׃",
+    "bsb_english": "If a man strikes his manservant or maidservant with a rod, and the servant dies by his hand, he shall surely be punished.",
+    "translation": {
+      "thai": "ถ้าชายทำร้ายทาสชายหรือทาสหญิงของตนด้วยไม้ตี และทาสนั้นตายในมือเขา เขาต้องถูกลงโทษอย่างแน่นอน",
+      "thai_literal": "และถ้าจะทำร้ายชายซึ่งทาสของเขาหรือซึ่งทาสหญิงของเขาในไม้ตี และตายใต้มือของเขา ลงโทษเขาจะถูกลงโทษ",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 21:21",
+    "chapter": 21,
+    "verse": 21,
+    "language": "hebrew",
+    "hebrew": "אַ֥ךְ אִם־י֛וֹם א֥וֹ יוֹמַ֖יִם יַעֲמֹ֑ד לֹ֣א יֻקַּ֔ם כִּ֥י כַסְפּ֖וֹ הֽוּא׃ס",
+    "bsb_english": "However, if the servant gets up after a day or two, the owner shall not be punished, since the servant is his property.",
+    "translation": {
+      "thai": "แต่ถ้าทาสนั้นลุกขึ้นยืนได้ภายในหนึ่งหรือสองวัน เจ้าของจะไม่ถูกลงโทษ เพราะทาสนั้นเป็นเงินของเขา",
+      "thai_literal": "อย่างไรก็ตาม ถ้าวันหรือสองวันเขาจะยืน ไม่เขาจะถูกลงโทษ เพราะเงินของเขาเขา",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 21:22",
+    "chapter": 21,
+    "verse": 22,
+    "language": "hebrew",
+    "hebrew": "וְכִֽי־יִנָּצ֣וּ אֲנָשִׁ֗ים וְנָ֨גְפ֜וּ אִשָּׁ֤ה הָרָה֙ וְיָצְא֣וּ יְלָדֶ֔יהָ וְלֹ֥א יִהְיֶ֖ה אָס֑וֹן עָנ֣וֹשׁ יֵעָנֵ֗שׁ כַּֽאֲשֶׁ֨ר יָשִׁ֤ית עָלָיו֙ בַּ֣עַל הָֽאִשָּׁ֔ה וְנָתַ֖ן בִּפְלִלִֽים׃",
+    "bsb_english": "If men who are fighting strike a pregnant woman and her child is born prematurely, but there is no further injury, he shall surely be fined as the woman’s husband demands and as the court allows.",
+    "translation": {
+      "thai": "ถ้าชายที่กำลังต่อสู้กันชนหญิงที่ตั้งครรภ์ และบุตรของเธอคลอดออกมาก่อนกำหนด แต่ไม่มีอันตรายอื่นใด เขาต้องถูกปรับตามที่สามีของหญิงเรียกร้องและตามที่ศาลอนุญาต",
+      "thai_literal": "และถ้าจะต่อสู้ชายทั้งหลาย และพวกเขาชนหญิงตั้งครรภ์ และจะออกบุตรทั้งหลายของเธอ และไม่จะมีอันตราย ปรับเขาจะถูกปรับตามที่เขาจะตั้งบนเขาสามีของหญิง และเขาจะให้ในผู้ตัดสินทั้งหลาย",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 21:23",
+    "chapter": 21,
+    "verse": 23,
+    "language": "hebrew",
+    "hebrew": "וְאִם־אָס֖וֹן יִהְיֶ֑ה וְנָתַתָּ֥ה נֶ֖פֶשׁ תַּ֥חַת נָֽפֶשׁ׃",
+    "bsb_english": "But if a serious injury results, then you must require a life for a life—",
+    "translation": {
+      "thai": "แต่ถ้าเกิดอันตรายร้ายแรง เจ้าต้องเรียกร้องชีวิตแลกชีวิต —",
+      "thai_literal": "และถ้าอันตรายจะมี และเจ้าจะให้ชีวิตใต้ชีวิต",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 21:24",
+    "chapter": 21,
+    "verse": 24,
+    "language": "hebrew",
+    "hebrew": "עַ֚יִן תַּ֣חַת עַ֔יִן שֵׁ֖ן תַּ֣חַת שֵׁ֑ן יָ֚ד תַּ֣חַת יָ֔ד רֶ֖גֶל תַּ֥חַת רָֽגֶל׃",
+    "bsb_english": "eye for eye, tooth for tooth, hand for hand, foot for foot,",
+    "translation": {
+      "thai": "ตาแลกตา ฟันแลกฟัน มือแลกมือ เท้าแลกเท้า",
+      "thai_literal": "ตาใต้ตา ฟันใต้ฟัน มือใต้มือ เท้าใต้เท้า",
+      "thai_summary": "**KEY NT CITATION (LEX TALIONIS).** กฎ ‘การชดใช้เท่าเทียม’. มธ. 5:38 พระเยซูอ้าง ‘ท่านได้ยินมาว่า ตาต่อตา ฟันต่อฟัน’ ก่อนที่จะสอน ‘แต่เรากล่าวแก่ท่านว่าอย่าต้านทานผู้ชั่ว’. หลักการ: ความสมส่วนของการตอบโต้ — ไม่ใช่การแก้แค้นเกินกว่าเหตุ.",
+      "key_decisions": [
+        {
+          "hebrew": "עַיִן תַּחַת עַיִן שֵׁן תַּחַת שֵׁן",
+          "thai": "ตาแลกตา ฟันแลกฟัน",
+          "rationale": "**KEY NT CITATION (LEX TALIONIS).** Per Eremos NT lock at มธ. 5:38: ‘ὀφθαλμὸν ἀντὶ ὀφθαλμοῦ καὶ ὀδόντα ἀντὶ ὀδόντος’ → ‘ตาต่อตา ฟันต่อฟัน’."
+        }
+      ],
+      "notes": "**OT CITATION (NT cites):** มธ. 5:38. ADD TO data/nt_ot_citations.json."
+    }
+  },
+  {
+    "reference": "Exodus 21:25",
+    "chapter": 21,
+    "verse": 25,
+    "language": "hebrew",
+    "hebrew": "כְּוִיָּה֙ תַּ֣חַת כְּוִיָּ֔ה פֶּ֖צַע תַּ֣חַת פָּ֑צַע חַבּוּרָ֕ה תַּ֖חַת חַבּוּרָֽה׃ס",
+    "bsb_english": "burn for burn, wound for wound, and stripe for stripe.",
+    "translation": {
+      "thai": "การไหม้แลกการไหม้ บาดแผลแลกบาดแผล รอยฟกช้ำแลกรอยฟกช้ำ",
+      "thai_literal": "การไหม้ใต้การไหม้ บาดแผลใต้บาดแผล รอยฟกช้ำใต้รอยฟกช้ำ",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 21:26",
+    "chapter": 21,
+    "verse": 26,
+    "language": "hebrew",
+    "hebrew": "וְכִֽי־יַכֶּ֨ה אִ֜ישׁ אֶת־עֵ֥ין עַבְדּ֛וֹ אֽוֹ־אֶת־עֵ֥ין אֲמָת֖וֹ וְשִֽׁחֲתָ֑הּ לַֽחָפְשִׁ֥י יְשַׁלְּחֶ֖נּוּ תַּ֥חַת עֵינֽוֹ׃ס",
+    "bsb_english": "If a man strikes and blinds the eye of his manservant or maidservant, he must let the servant go free as compensation for the eye.",
+    "translation": {
+      "thai": "ถ้าชายทำร้ายและทำให้ตาของทาสชายหรือทาสหญิงเสีย เขาต้องปล่อยทาสนั้นให้เป็นอิสระเพื่อเป็นค่าชดเชยตาที่เสียไป",
+      "thai_literal": "และถ้าจะทำร้ายชายซึ่งตาของทาสของเขาหรือซึ่งตาของทาสหญิงของเขาและทำให้เสียซึ่งเธอ แก่อิสระเขาจะส่งเขาไปใต้ตาของเขา",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 21:27",
+    "chapter": 21,
+    "verse": 27,
+    "language": "hebrew",
+    "hebrew": "וְאִם־שֵׁ֥ן עַבְדּ֛וֹ אֽוֹ־שֵׁ֥ן אֲמָת֖וֹ יַפִּ֑יל לַֽחָפְשִׁ֥י יְשַׁלְּחֶ֖נּוּ תַּ֥חַת שִׁנּֽוֹ׃פ",
+    "bsb_english": "And if he knocks out the tooth of his manservant or maidservant, he must let the servant go free as compensation for the tooth.",
+    "translation": {
+      "thai": "ถ้าเขาทำให้ฟันของทาสชายหรือทาสหญิงหลุด เขาต้องปล่อยทาสนั้นให้เป็นอิสระเพื่อเป็นค่าชดเชยฟันที่เสียไป",
+      "thai_literal": "และถ้าฟันของทาสของเขาหรือฟันของทาสหญิงของเขาเขาจะให้ตก แก่อิสระเขาจะส่งเขาไปใต้ฟันของเขา",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 21:28",
+    "chapter": 21,
+    "verse": 28,
+    "language": "hebrew",
+    "hebrew": "וְכִֽי־יִגַּ֨ח שׁ֥וֹר אֶת־אִ֛ישׁ א֥וֹ אֶת־אִשָּׁ֖ה וָמֵ֑ת סָק֨וֹל יִסָּקֵ֜ל הַשּׁ֗וֹר וְלֹ֤א יֵאָכֵל֙ אֶת־בְּשָׂר֔וֹ וּבַ֥עַל הַשּׁ֖וֹר נָקִֽי׃",
+    "bsb_english": "If an ox gores a man or woman to death, the ox must surely be stoned, and its meat must not be eaten. But the owner of the ox shall not be held responsible.",
+    "translation": {
+      "thai": "ถ้าวัวขวิดชายหรือหญิงตาย วัวต้องถูกขว้างด้วยหินอย่างแน่นอน และเนื้อของมันต้องไม่ถูกกิน แต่เจ้าของวัวจะไม่ต้องรับผิด",
+      "thai_literal": "และถ้าจะขวิดวัวซึ่งชายหรือซึ่งหญิงและตาย ขว้างจะถูกขว้างหินวัว และไม่จะถูกกินซึ่งเนื้อของมัน และเจ้าของวัวพ้นผิด",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 21:29",
+    "chapter": 21,
+    "verse": 29,
+    "language": "hebrew",
+    "hebrew": "וְאִ֡ם שׁוֹר֩ נַגָּ֨ח ה֜וּא מִתְּמֹ֣ל שִׁלְשֹׁ֗ם וְהוּעַ֤ד בִּבְעָלָיו֙ וְלֹ֣א יִשְׁמְרֶ֔נּוּ וְהֵמִ֥ית אִ֖ישׁ א֣וֹ אִשָּׁ֑ה הַשּׁוֹר֙ יִסָּקֵ֔ל וְגַם־בְּעָלָ֖יו יוּמָֽת׃",
+    "bsb_english": "But if the ox has a habit of goring, and its owner has been warned yet does not restrain it, and it kills a man or woman, then the ox must be stoned and its owner must also be put to death.",
+    "translation": {
+      "thai": "แต่ถ้าวัวมีนิสัยขวิดจากก่อนหน้านี้ และเจ้าของได้รับการเตือนแล้วยังไม่ควบคุม และวัวฆ่าชายหรือหญิง วัวต้องถูกขว้างด้วยหิน และเจ้าของก็ต้องถูกประหารชีวิตด้วย",
+      "thai_literal": "และถ้าวัวขวิดเขาจากเมื่อวานก่อนหน้านี้ และถูกเตือนในเจ้าของทั้งหลายของมัน และไม่เขาจะรักษามัน และทำให้ตายชายหรือหญิง วัวจะถูกขว้างหิน และทั้งเจ้าของทั้งหลายของมันจะถูกประหาร",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 21:30",
+    "chapter": 21,
+    "verse": 30,
+    "language": "hebrew",
+    "hebrew": "אִם־כֹּ֖פֶר יוּשַׁ֣ת עָלָ֑יו וְנָתַן֙ פִּדְיֹ֣ן נַפְשׁ֔וֹ כְּכֹ֥ל אֲשֶׁר־יוּשַׁ֖ת עָלָֽיו׃",
+    "bsb_english": "If payment is demanded of him instead, he may redeem his life by paying the full amount demanded of him.",
+    "translation": {
+      "thai": "ถ้ามีการเรียกเงินค่าไถ่จากเขาแทน เขาสามารถไถ่ชีวิตของตนได้ด้วยการจ่ายเต็มจำนวนที่เรียกร้องจากเขา",
+      "thai_literal": "ถ้าค่าไถ่จะถูกตั้งบนเขา และเขาจะให้การไถ่ของชีวิตของเขา ตามทั้งหมดที่จะถูกตั้งบนเขา",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "כֹּפֶר",
+          "thai": "เงินค่าไถ่",
+          "rationale": "Per Eremos NT lock: כֹּפֶר / λύτρον → เงินค่าไถ่. คำสำคัญที่ NT อ้างที่ มก. 10:45 + มธ. 20:28 ‘บุตรมนุษย์มาเพื่อให้ชีวิตของพระองค์เป็นค่าไถ่สำหรับคนเป็นอันมาก’."
+        },
+        {
+          "hebrew": "פִּדְיֹן נַפְשׁוֹ",
+          "thai": "การไถ่ชีวิตของตน",
+          "rationale": "Per Eremos NT lock: פִּדְיוֹן / λύτρωσις → การไถ่. คำสำคัญในธรรมเทศนา OT/NT เรื่องการไถ่."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 21:31",
+    "chapter": 21,
+    "verse": 31,
+    "language": "hebrew",
+    "hebrew": "אוֹ־בֵ֥ן יִגָּ֖ח אוֹ־בַ֣ת יִגָּ֑ח כַּמִּשְׁפָּ֥ט הַזֶּ֖ה יֵעָ֥שֶׂה לּֽוֹ׃",
+    "bsb_english": "If the ox gores a son or a daughter, it shall be done to him according to the same rule.",
+    "translation": {
+      "thai": "ถ้าวัวขวิดบุตรชายหรือบุตรสาว จะปฏิบัติต่อเจ้าของตามกฎเดียวกันนี้",
+      "thai_literal": "หรือบุตรชายจะถูกขวิดหรือบุตรสาวจะถูกขวิด ตามกฎข้อบังคับนี้จะถูกทำแก่เขา",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 21:32",
+    "chapter": 21,
+    "verse": 32,
+    "language": "hebrew",
+    "hebrew": "אִם־עֶ֛בֶד יִגַּ֥ח הַשּׁ֖וֹר א֣וֹ אָמָ֑ה כֶּ֣סֶף׀שְׁלֹשִׁ֣ים שְׁקָלִ֗ים יִתֵּן֙ לַֽאדֹנָ֔יו וְהַשּׁ֖וֹר יִסָּקֵֽל׃ס",
+    "bsb_english": "If the ox gores a manservant or maidservant, the owner must pay thirty shekels of silver to the master of that servant, and the ox must be stoned.",
+    "translation": {
+      "thai": "ถ้าวัวขวิดทาสชายหรือทาสหญิง เจ้าของวัวต้องจ่ายเงินสามสิบเชเขลให้แก่นายของทาสนั้น และวัวต้องถูกขว้างด้วยหิน",
+      "thai_literal": "ถ้าทาสจะถูกขวิดวัวหรือทาสหญิง เงินสามสิบเชเขลทั้งหลายเขาจะให้แก่นายของเขา และวัวจะถูกขว้างหิน",
+      "thai_summary": "**KEY NT CITATION — 30 SHEKELS.** สามสิบเชเขลเงิน — ราคาของทาสที่ถูกฆ่า. มธ. 26:15 ยูดาสรับสามสิบเชเขลเงินเพื่อทรยศพระเยซู — สื่อว่าพระเยซูถูกประเมินค่าเหมือนทาส. ศคย. 11:12–13 อ้างถึงราคานี้ด้วย.",
+      "key_decisions": [
+        {
+          "hebrew": "כֶּסֶף שְׁלֹשִׁים שְׁקָלִים",
+          "thai": "เงินสามสิบเชเขล",
+          "rationale": "**KEY NT CITATION.** Per Eremos NT lock at มธ. 26:15 + 27:9 (อ้างจาก ศคย. 11:12): ‘τριάκοντα ἀργύρια’ → ‘สามสิบเหรียญเงิน’. ราคานี้เป็นค่าทาสตามอพย. 21:32 — ใช้สื่อความหมายว่าพระเยซูถูกประเมินค่าเหมือนทาส."
+        }
+      ],
+      "notes": "**OT CITATION (NT echoes):** มธ. 26:15, 27:9 (อ้างจาก ศคย. 11:12–13)."
+    }
+  },
+  {
+    "reference": "Exodus 21:33",
+    "chapter": 21,
+    "verse": 33,
+    "language": "hebrew",
+    "hebrew": "וְכִֽי־יִפְתַּ֨ח אִ֜ישׁ בּ֗וֹר א֠וֹ כִּֽי־יִכְרֶ֥ה אִ֛ישׁ בֹּ֖ר וְלֹ֣א יְכַסֶּ֑נּוּ וְנָֽפַל־שָׁ֥מָּה שּׁ֖וֹר א֥וֹ חֲמֽוֹר׃",
+    "bsb_english": "If a man opens or digs a pit and fails to cover it, and an ox or a donkey falls into it,",
+    "translation": {
+      "thai": "ถ้าชายเปิดหรือขุดบ่อและไม่ปิดบ่อ และวัวหรือลาตกลงไปในบ่อนั้น",
+      "thai_literal": "และถ้าจะเปิดชายบ่อ หรือถ้าจะขุดชายบ่อและไม่เขาจะปิดมัน และจะตกที่นั่นวัวหรือลา",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 21:34",
+    "chapter": 21,
+    "verse": 34,
+    "language": "hebrew",
+    "hebrew": "בַּ֤עַל הַבּוֹר֙ יְשַׁלֵּ֔ם כֶּ֖סֶף יָשִׁ֣יב לִבְעָלָ֑יו וְהַמֵּ֖ת יִֽהְיֶה־לּֽוֹ׃ס",
+    "bsb_english": "the owner of the pit shall make restitution; he must pay its owner, and the dead animal will be his.",
+    "translation": {
+      "thai": "เจ้าของบ่อต้องชดใช้ ต้องจ่ายเงินแก่เจ้าของสัตว์ และสัตว์ที่ตายจะเป็นของเขา",
+      "thai_literal": "เจ้าของบ่อจะชดใช้ เงินเขาจะคืนแก่เจ้าของทั้งหลายของมัน และที่ตายจะเป็นแก่เขา",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 21:35",
+    "chapter": 21,
+    "verse": 35,
+    "language": "hebrew",
+    "hebrew": "וְכִֽי־יִגֹּ֧ף שֽׁוֹר־אִ֛ישׁ אֶת־שׁ֥וֹר רֵעֵ֖הוּ וָמֵ֑ת וּמָ֨כְר֜וּ אֶת־הַשּׁ֤וֹר הַחַי֙ וְחָצ֣וּ אֶת־כַּסְפּ֔וֹ וְגַ֥ם אֶת־הַמֵּ֖ת יֶֽחֱצֽוּן׃",
+    "bsb_english": "If a man’s ox injures his neighbor’s ox and it dies, they must sell the live one and divide the proceeds; they also must divide the dead animal.",
+    "translation": {
+      "thai": "ถ้าวัวของชายทำร้ายวัวของเพื่อนบ้านและวัวนั้นตาย พวกเขาต้องขายวัวตัวที่ยังเป็นอยู่และแบ่งเงินกัน พวกเขายังต้องแบ่งวัวที่ตายกันด้วย",
+      "thai_literal": "และถ้าจะทำร้ายวัวของชายซึ่งวัวของเพื่อนของเขาและตาย และพวกเขาจะขายซึ่งวัวที่เป็น และพวกเขาจะแบ่งซึ่งเงินของมัน และทั้งซึ่งที่ตายพวกเขาจะแบ่ง",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 21:36",
+    "chapter": 21,
+    "verse": 36,
+    "language": "hebrew",
+    "hebrew": "א֣וֹ נוֹדַ֗ע כִּ֠י שׁ֣וֹר נַגָּ֥ח הוּא֙ מִתְּמ֣וֹל שִׁלְשֹׁ֔ם וְלֹ֥א יִשְׁמְרֶ֖נּוּ בְּעָלָ֑יו שַׁלֵּ֨ם יְשַׁלֵּ֥ם שׁוֹר֙ תַּ֣חַת הַשּׁ֔וֹר וְהַמֵּ֖ת יִֽהְיֶה־לּֽוֹ׃ס",
+    "bsb_english": "But if it was known that the ox had a habit of goring, yet its owner failed to restrain it, he shall pay full compensation, ox for ox, and the dead animal will be his.",
+    "translation": {
+      "thai": "แต่ถ้ารู้กันว่าวัวมีนิสัยขวิดจากก่อนหน้านี้ แต่เจ้าของไม่ควบคุมมัน เขาต้องจ่ายชดใช้เต็มจำนวน วัวแลกวัว และสัตว์ที่ตายจะเป็นของเขา",
+      "thai_literal": "หรือถูกรู้ว่าวัวขวิดเขาจากเมื่อวานก่อนหน้านี้ และไม่เขาจะรักษามันเจ้าของทั้งหลายของมัน ชดใช้เขาจะชดใช้วัวใต้วัว และที่ตายจะเป็นแก่เขา",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 21:37",
+    "chapter": 21,
+    "verse": 37,
+    "language": "hebrew",
+    "hebrew": "כִּ֤י יִגְנֹֽב־אִישׁ֙ שׁ֣וֹר אוֹ־שֶׂ֔ה וּטְבָח֖וֹ א֣וֹ מְכָר֑וֹ חֲמִשָּׁ֣ה בָקָ֗ר יְשַׁלֵּם֙ תַּ֣חַת הַשּׁ֔וֹר וְאַרְבַּע־צֹ֖אן תַּ֥חַת הַשֶּֽׂה׃",
+    "bsb_english": "If a man steals an ox or a sheep and slaughters or sells it, he must repay five oxen for an ox and four sheep for a sheep.",
+    "translation": {
+      "thai": "ถ้าชายลักวัวหรือแกะและฆ่าหรือขายมัน เขาต้องชดใช้ห้าวัวแลกวัวหนึ่งตัว และสี่แกะแลกแกะหนึ่งตัว",
+      "thai_literal": "ถ้าจะลักชายวัวหรือแกะและฆ่ามันหรือขายมัน ห้าวัวทั้งหลายเขาจะชดใช้ใต้วัว และสี่แกะทั้งหลายใต้แกะ",
+      "thai_summary": "**VERSIFICATION DIVERGENCE.** MT มี 37 ข้อในบทนี้ ขณะที่ BSB มี 36 ข้อ. MT 21:37 = BSB 22:1. กฎเรื่องการลักทรัพย์เริ่มต้นที่นี่ (MT) แต่ที่บทใหม่ (BSB). เราติดตาม MT (ot_canon_and_text_base_2026-05.md).",
+      "key_decisions": [],
+      "notes": "**VERSIFICATION:** MT 21:37 = BSB 22:1. ติดตาม MT ตาม ot_canon_and_text_base_2026-05.md. BSB ในไทยดึงจาก sources/bsb-text/bsb.txt EXO 22:1 ด้วยตนเอง."
+    }
+  }
+]
