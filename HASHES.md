@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-05-12 18:25:21 UTC_
-_Total chapters: 331 · Total verses: 9965_
+_Generated: 2026-05-12 18:41:18 UTC_
+_Total chapters: 332 · Total verses: 9996_
 
 ## How to verify a chapter
 
@@ -131,7 +131,8 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/exodus_10.json` | 29 | `e22e841d30b38b953a2c0e907aef870b2cf409d8b7942b62450e2ab70f1db1fe` | `8124d3d` |
 | `output/translations/exodus_11.json` | 10 | `e940f59a0fdf63bddeb633f92b7046f2059e3d535f50dea3e2122636ede46455` | `d13403c` |
 | `output/translations/exodus_12.json` | 51 | `5577e86d763becc64157e4e02c0f838591629c4083e0db9db80b46b4435292a2` | `341cd8a` |
-| `output/translations/exodus_13.json` | 22 | `fa8d33a7690942da374adb78b1a71542d7b79be08cdb1a714785eccebae61c31` | `—` |
+| `output/translations/exodus_13.json` | 22 | `fa8d33a7690942da374adb78b1a71542d7b79be08cdb1a714785eccebae61c31` | `a12a8be` |
+| `output/translations/exodus_14.json` | 31 | `0af4199aef039676504302eebea7f27096691bae944152fe3cbf614cb4877d7d` | `—` |
 | `output/translations/galatians_01.json` | 24 | `035ddedcfa78dc62c0b92157bf4994621fc83013e47dddcd19e7c6dc72898a9b` | `7e99948` |
 | `output/translations/galatians_02.json` | 21 | `ef020b08541758508e9a1f2f037cacbe28d8a2ac6cb0f25e7dc1990b4b880083` | `cf6bd38` |
 | `output/translations/galatians_03.json` | 29 | `f801401758fdf4a581484ea509024725a3a4242acb42624cac27a998b6894fa4` | `fcff53c` |

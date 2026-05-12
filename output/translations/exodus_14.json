@@ -1,0 +1,594 @@
+[
+  {
+    "reference": "Exodus 14:1",
+    "chapter": 14,
+    "verse": 1,
+    "language": "hebrew",
+    "hebrew": "וַיְדַבֵּ֥ר יְהוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+    "bsb_english": "Then the LORD said to Moses,",
+    "translation": {
+      "thai": "องค์พระผู้เป็นเจ้าตรัสกับโมเสสว่า",
+      "thai_literal": "และตรัสยาห์เวห์กับโมเสสกล่าวว่า",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "thai": "องค์พระผู้เป็นเจ้า",
+          "rationale": "Per divine_names_table_2026-05.md: יהוה → องค์พระผู้เป็นเจ้า. ดูเชิงอรรถบทที่ output/textual_variants/exodus_14.json."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 14:2",
+    "chapter": 14,
+    "verse": 2,
+    "language": "hebrew",
+    "hebrew": "דַּבֵּר֮ אֶל־בְּנֵ֣י יִשְׂרָאֵל֒ וְיָשֻׁ֗בוּ וְיַחֲנוּ֙ לִפְנֵי֙ פִּ֣י הַחִירֹ֔ת בֵּ֥ין מִגְדֹּ֖ל וּבֵ֣ין הַיָּ֑ם לִפְנֵי֙ בַּ֣עַל צְפֹ֔ן נִכְח֥וֹ תַחֲנ֖וּ עַל־הַיָּֽם׃",
+    "bsb_english": "“Tell the Israelites to turn back and encamp before Pi-hahiroth, between Migdol and the sea. You are to encamp by the sea, directly opposite Baal-zephon.",
+    "translation": {
+      "thai": "“จงบอกบุตรอิสราเอลให้กลับและตั้งค่ายที่ปิ-ฮาฮีโรท ระหว่างมิคโดลและทะเล จงตั้งค่ายริมทะเลตรงข้ามบาอัล-เซโฟน",
+      "thai_literal": "จงพูดแก่บุตรทั้งหลายของอิสราเอล และพวกเขาจะกลับ และพวกเขาจะตั้งค่ายต่อหน้าปิ-ฮาฮีโรท ระหว่างมิคโดลและระหว่างทะเล ต่อหน้าบาอัล-เซโฟน ตรงข้ามมันพวกเจ้าจะตั้งค่ายบนทะเล",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "פִּי הַחִירֹת ... מִגְדֹּל ... בַּעַל צְפֹן",
+          "thai": "ปิ-ฮาฮีโรท ... มิคโดล ... บาอัล-เซโฟน",
+          "rationale": "Per uW translate-names: สามชื่อเฉพาะของสถานที่ในการเดินทาง. ปิ-ฮาฮีโรท (פִּי הַחִירֹת ‘ปากของฮาฮีโรท’) + มิคโดล (מִגְדֹּל ‘หอคอย’) + บาอัล-เซโฟน (בַּעַל צְפֹן ‘บาอัลของทิศเหนือ’ — ชื่อเทพฟินิเซียน). ตำแหน่งทางภูมิศาสตร์ไม่ระบุแน่ชัด — แต่อยู่ใกล้ปลายทางตะวันตกของอ่าวของทะเลแดง."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 14:3",
+    "chapter": 14,
+    "verse": 3,
+    "language": "hebrew",
+    "hebrew": "וְאָמַ֤ר פַּרְעֹה֙ לִבְנֵ֣י יִשְׂרָאֵ֔ל נְבֻכִ֥ים הֵ֖ם בָּאָ֑רֶץ סָגַ֥ר עֲלֵיהֶ֖ם הַמִּדְבָּֽר׃",
+    "bsb_english": "For Pharaoh will say of the Israelites, ‘They are wandering the land in confusion; the wilderness has boxed them in.’",
+    "translation": {
+      "thai": "ฟาโรห์จะตรัสเกี่ยวกับบุตรอิสราเอลว่า ‘พวกเขาหลงทางอยู่ในแผ่นดินด้วยความสับสน ถิ่นทุรกันดารได้ขังพวกเขาไว้แล้ว’",
+      "thai_literal": "และจะตรัสฟาโรห์แก่บุตรทั้งหลายของอิสราเอล สับสนพวกเขาในแผ่นดิน ปิดเหนือพวกเขาถิ่นทุรกันดาร",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 14:4",
+    "chapter": 14,
+    "verse": 4,
+    "language": "hebrew",
+    "hebrew": "וְחִזַּקְתִּ֣י אֶת־לֵב־פַּרְעֹה֮ וְרָדַ֣ף אַחֲרֵיהֶם֒ וְאִכָּבְדָ֤ה בְּפַרְעֹה֙ וּבְכָל־חֵיל֔וֹ וְיָדְע֥וּ מִצְרַ֖יִם כִּֽי־אֲנִ֣י יְהוָ֑ה וַיַּֽעֲשׂוּ־כֵֽן׃",
+    "bsb_english": "And I will harden Pharaoh’s heart so that he will pursue them. But I will gain honor by means of Pharaoh and all his army, and the Egyptians will know that I am the LORD.” So this is what the Israelites did.",
+    "translation": {
+      "thai": "เราจะทำให้ใจของฟาโรห์แข็งกระด้าง เขาจะไล่ตามพวกเขา เราจะได้รับเกียรติโดยผ่านฟาโรห์และกองทัพทั้งหมดของเขา ชาวอียิปต์จะรู้ว่าเราคือองค์พระผู้เป็นเจ้า” พวกเขาก็ทำอย่างนั้น",
+      "thai_literal": "และข้าพเจ้าจะทำให้แข็งซึ่งใจของฟาโรห์ และเขาจะไล่ตามหลังพวกเขา และข้าพเจ้าจะได้รับเกียรติในฟาโรห์และในทั้งหมดของกองทัพของเขา และจะรู้คนอียิปต์ว่าข้าพเจ้ายาห์เวห์ และพวกเขาทำดังนั้น",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "thai": "องค์พระผู้เป็นเจ้า",
+          "rationale": "Per divine_names_table_2026-05.md: יהוה → องค์พระผู้เป็นเจ้า."
+        },
+        {
+          "hebrew": "וְחִזַּקְתִּי אֶת־לֵב־פַּרְעֹה",
+          "thai": "เราจะทำให้ใจของฟาโรห์แข็งกระด้าง",
+          "rationale": "Per อพย. 4:21 lock: ‘harden heart’ → ‘ทำให้ใจแข็งกระด้าง’. รูป Piel ของ חָזַק ที่พระเจ้าเป็น subject."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 14:5",
+    "chapter": 14,
+    "verse": 5,
+    "language": "hebrew",
+    "hebrew": "וַיֻּגַּד֙ לְמֶ֣לֶךְ מִצְרַ֔יִם כִּ֥י בָרַ֖ח הָעָ֑ם וַ֠יֵּהָפֵךְ לְבַ֨ב פַּרְעֹ֤ה וַעֲבָדָיו֙ אֶל־הָעָ֔ם וַיֹּֽאמְרוּ֙ מַה־זֹּ֣את עָשִׂ֔ינוּ כִּֽי־שִׁלַּ֥חְנוּ אֶת־יִשְׂרָאֵ֖ל מֵעָבְדֵֽנוּ׃",
+    "bsb_english": "When the king of Egypt was told that the people had fled, Pharaoh and his officials changed their minds about them and said, “What have we done? We have released Israel from serving us.”",
+    "translation": {
+      "thai": "เมื่อกษัตริย์อียิปต์ทรงทราบว่าชนชาตินั้นได้หนีไปแล้ว ฟาโรห์และข้าราชการของพระองค์เปลี่ยนใจเกี่ยวกับพวกเขา ตรัสว่า “เราได้ทำอะไรลงไป เราปล่อยอิสราเอลให้พ้นจากการรับใช้เราแล้ว”",
+      "thai_literal": "และถูกบอกแก่กษัตริย์ของอียิปต์ว่าหนีไปชนชาติ และเปลี่ยนใจของฟาโรห์และทาสทั้งหลายของเขาแก่ชนชาติ และพวกเขาตรัส อะไรนี้เราทำ ที่เราปล่อยซึ่งอิสราเอลจากการรับใช้เรา",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 14:6",
+    "chapter": 14,
+    "verse": 6,
+    "language": "hebrew",
+    "hebrew": "וַיֶּאְסֹ֖ר אֶת־רִכְבּ֑וֹ וְאֶת־עַמּ֖וֹ לָקַ֥ח עִמּֽוֹ׃",
+    "bsb_english": "So Pharaoh prepared his chariot and took his army with him.",
+    "translation": {
+      "thai": "ฟาโรห์ทรงเตรียมรถม้าศึกของพระองค์ และพากองทัพของพระองค์ไปกับพระองค์",
+      "thai_literal": "และทรงเทียมรถซึ่งรถของพระองค์ และซึ่งชนชาติของพระองค์ทรงนำกับพระองค์",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 14:7",
+    "chapter": 14,
+    "verse": 7,
+    "language": "hebrew",
+    "hebrew": "וַיִּקַּ֗ח שֵׁשׁ־מֵא֥וֹת רֶ֙כֶב֙ בָּח֔וּר וְכֹ֖ל רֶ֣כֶב מִצְרָ֑יִם וְשָׁלִשִׁ֖ם עַל־כֻּלּֽוֹ׃",
+    "bsb_english": "He took 600 of the best chariots, and all the other chariots of Egypt, with officers over all of them.",
+    "translation": {
+      "thai": "พระองค์ทรงนำรถม้าศึกชั้นเยี่ยม 600 คัน และรถม้าศึกอื่นทั้งหมดของอียิปต์ พร้อมนายทัพเหนือทั้งหมด",
+      "thai_literal": "และทรงนำหกร้อยรถที่เลือก และทั้งหมดของรถของอียิปต์ และนายทัพทั้งหลายบนทั้งหมดของมัน",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 14:8",
+    "chapter": 14,
+    "verse": 8,
+    "language": "hebrew",
+    "hebrew": "וַיְחַזֵּ֣ק יְהוָ֗ה אֶת־לֵ֤ב פַּרְעֹה֙ מֶ֣לֶךְ מִצְרַ֔יִם וַיִּרְדֹּ֕ף אַחֲרֵ֖י בְּנֵ֣י יִשְׂרָאֵ֑ל וּבְנֵ֣י יִשְׂרָאֵ֔ל יֹצְאִ֖ים בְּיָ֥ד רָמָֽה׃",
+    "bsb_english": "And the LORD hardened the heart of Pharaoh king of Egypt so that he pursued the Israelites, who were marching out defiantly.",
+    "translation": {
+      "thai": "องค์พระผู้เป็นเจ้าทรงทำให้ใจของฟาโรห์ กษัตริย์อียิปต์ แข็งกระด้าง พระองค์จึงไล่ตามบุตรอิสราเอล แต่บุตรอิสราเอลออกไปด้วยมือที่ชูขึ้น",
+      "thai_literal": "และทำให้แข็งยาห์เวห์ซึ่งใจของฟาโรห์กษัตริย์ของอียิปต์ และเขาไล่ตามหลังบุตรทั้งหลายของอิสราเอล และบุตรทั้งหลายของอิสราเอลออกไปในมือที่ชู",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "thai": "องค์พระผู้เป็นเจ้า",
+          "rationale": "Per divine_names_table_2026-05.md: יהוה → องค์พระผู้เป็นเจ้า."
+        },
+        {
+          "hebrew": "בְּיָד רָמָה",
+          "thai": "ด้วยมือที่ชูขึ้น",
+          "rationale": "Per uW: ‘mighty/raised hand’ — สำนวนเชิงนามนัยสำหรับ ‘ด้วยความมั่นใจ/อย่างเปิดเผย/อย่างกล้าหาญ’. ในไทย ‘มือที่ชูขึ้น’ รักษาภาพ + ‘ความกล้าหาญ’."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 14:9",
+    "chapter": 14,
+    "verse": 9,
+    "language": "hebrew",
+    "hebrew": "וַיִּרְדְּפ֨וּ מִצְרַ֜יִם אַחֲרֵיהֶ֗ם וַיַּשִּׂ֤יגוּ אוֹתָם֙ חֹנִ֣ים עַל־הַיָּ֔ם כָּל־סוּס֙ רֶ֣כֶב פַּרְעֹ֔ה וּפָרָשָׁ֖יו וְחֵיל֑וֹ עַל־פִּי֙ הַֽחִירֹ֔ת לִפְנֵ֖י בַּ֥עַל צְפֹֽן׃",
+    "bsb_english": "The Egyptians—all Pharaoh’s horses and chariots, horsemen and troops—pursued the Israelites and overtook them as they camped by the sea, beside Pi-hahiroth, opposite Baal-zephon.",
+    "translation": {
+      "thai": "ชาวอียิปต์—ม้าและรถม้าศึกทั้งหมดของฟาโรห์ พลม้า และกองทัพของพระองค์—ไล่ตามและจับทันบุตรอิสราเอลขณะที่พวกเขาตั้งค่ายอยู่ริมทะเล ใกล้ปิ-ฮาฮีโรท ตรงข้ามบาอัล-เซโฟน",
+      "thai_literal": "และพวกเขาไล่ตามอียิปต์ตามหลังพวกเขา และพวกเขาจับทันซึ่งพวกเขาตั้งค่ายบนทะเล ทั้งหมดของม้าของรถของฟาโรห์และพลม้าทั้งหลายของเขาและกองทัพของเขา บนปิ-ฮาฮีโรทต่อหน้าบาอัล-เซโฟน",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 14:10",
+    "chapter": 14,
+    "verse": 10,
+    "language": "hebrew",
+    "hebrew": "וּפַרְעֹ֖ה הִקְרִ֑יב וַיִּשְׂאוּ֩ בְנֵֽי־יִשְׂרָאֵ֨ל אֶת־עֵינֵיהֶ֜ם וְהִנֵּ֥ה מִצְרַ֣יִם ׀ נֹסֵ֣עַ אַחֲרֵיהֶ֗ם וַיִּֽירְאוּ֙ מְאֹ֔ד וַיִּצְעֲק֥וּ בְנֵֽי־יִשְׂרָאֵ֖ל אֶל־יְהוָֽה׃",
+    "bsb_english": "As Pharaoh approached, the Israelites looked up and saw the Egyptians marching after them, and they were terrified and cried out to the LORD.",
+    "translation": {
+      "thai": "เมื่อฟาโรห์ใกล้เข้ามา บุตรอิสราเอลก็เงยตาขึ้น และดูเถิด ชาวอียิปต์เดินทัพไล่ตามพวกเขา พวกเขาตกใจกลัวอย่างยิ่งและร้องทูลต่อองค์พระผู้เป็นเจ้า",
+      "thai_literal": "และฟาโรห์ทรงใกล้ และพวกเขายกบุตรทั้งหลายของอิสราเอลซึ่งตาทั้งหลายของพวกเขา และดูเถิดอียิปต์เดินทางตามหลังพวกเขา และพวกเขากลัวมาก และพวกเขาร้องทูลบุตรทั้งหลายของอิสราเอลแก่ยาห์เวห์",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "thai": "องค์พระผู้เป็นเจ้า",
+          "rationale": "Per divine_names_table_2026-05.md: יהוה → องค์พระผู้เป็นเจ้า."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 14:11",
+    "chapter": 14,
+    "verse": 11,
+    "language": "hebrew",
+    "hebrew": "וַיֹּאמְרוּ֮ אֶל־מֹשֶׁה֒ הֲֽמִבְּלִ֤י אֵין־קְבָרִים֙ בְּמִצְרַ֔יִם לְקַחְתָּ֖נוּ לָמ֣וּת בַּמִּדְבָּ֑ר מַה־זֹּאת֙ עָשִׂ֣יתָ לָּ֔נוּ לְהוֹצִיאָ֖נוּ מִמִּצְרָֽיִם׃",
+    "bsb_english": "They said to Moses, “Was it because there were no graves in Egypt that you brought us into the wilderness to die? What have you done to us by bringing us out of Egypt?",
+    "translation": {
+      "thai": "พวกเขากล่าวกับโมเสสว่า “เพราะไม่มีหลุมศพในอียิปต์หรือ ท่านจึงพาเรามาตายในถิ่นทุรกันดาร ท่านได้ทำอะไรกับเราด้วยการพาเราออกจากอียิปต์",
+      "thai_literal": "และพวกเขากล่าวแก่โมเสส จากไม่มีหลุมศพทั้งหลายในอียิปต์ ท่านได้พาเราเพื่อตายในถิ่นทุรกันดาร อะไรนี่ท่านได้ทำแก่เรา เพื่อนำเราออกจากอียิปต์",
+      "thai_summary": "**KEY MURMUR PATTERN.** การคร่ำครวญแรกของอิสราเอลในถิ่นทุรกันดาร — รูปแบบที่จะปรากฏซ้ำ (15:24, 16:2–3, 17:3, กดว. 11:1, 14:2 ฯลฯ). ‘หลุมศพในอียิปต์’ — สำนวนเสียดสีของความหวาดกลัว. การที่อิสราเอลต้องเลือกเชื่อในการประทับของพระเจ้า vs. ความหวาดกลัวของศัตรู.",
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 14:12",
+    "chapter": 14,
+    "verse": 12,
+    "language": "hebrew",
+    "hebrew": "הֲלֹא־זֶ֣ה הַדָּבָ֗ר אֲשֶׁר֩ דִּבַּ֨רְנוּ אֵלֶ֤יךָ בְמִצְרַ֙יִם֙ לֵאמֹ֔ר חֲדַ֥ל מִמֶּ֖נּוּ וְנַֽעַבְדָ֣ה אֶת־מִצְרָ֑יִם כִּ֣י ט֥וֹב לָ֙נוּ֙ עֲבֹ֣ד אֶת־מִצְרַ֔יִם מִמֻּתֵ֖נוּ בַּמִּדְבָּֽר׃",
+    "bsb_english": "Did we not say to you in Egypt, ‘Leave us alone so that we may serve the Egyptians’? For it would have been better for us to serve the Egyptians than to die in the wilderness.”",
+    "translation": {
+      "thai": "นี่คือสิ่งที่พวกเราได้พูดกับท่านในอียิปต์ใช่ไหมว่า ‘ปล่อยพวกเราไว้คนเดียว ให้พวกเรารับใช้ชาวอียิปต์เถิด’ เพราะการรับใช้ชาวอียิปต์ก็ดีกว่าการตายในถิ่นทุรกันดารสำหรับพวกเรา”",
+      "thai_literal": "นี่ใช่หรือไม่สิ่งที่เราพูดกับท่านในอียิปต์กล่าวว่า จงปล่อยเรา และเราจะรับใช้ซึ่งอียิปต์ เพราะดีแก่เราที่จะรับใช้ซึ่งอียิปต์มากกว่าการตายของเราในถิ่นทุรกันดาร",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 14:13",
+    "chapter": 14,
+    "verse": 13,
+    "language": "hebrew",
+    "hebrew": "וַיֹּ֨אמֶר מֹשֶׁ֣ה אֶל־הָעָם֮ אַל־תִּירָאוּ֒ הִֽתְיַצְּב֗וּ וּרְאוּ֙ אֶת־יְשׁוּעַ֣ת יְהוָ֔ה אֲשֶׁר־יַעֲשֶׂ֥ה לָכֶ֖ם הַיּ֑וֹם כִּ֗י אֲשֶׁ֨ר רְאִיתֶ֤ם אֶת־מִצְרַ֙יִם֙ הַיּ֔וֹם לֹ֥א תֹסִ֛יפוּ לִרְאֹתָ֥ם ע֖וֹד עַד־עוֹלָֽם׃",
+    "bsb_english": "But Moses told the people, “Do not be afraid. Stand firm and you will see the LORD’s salvation, which He will accomplish for you today; for the Egyptians you see today, you will never see again.",
+    "translation": {
+      "thai": "โมเสสกล่าวกับชนชาตินั้นว่า “อย่ากลัวเลย จงยืนหยัดและจะเห็นการช่วยกู้ขององค์พระผู้เป็นเจ้า ซึ่งพระองค์จะทรงกระทำเพื่อพวกท่านในวันนี้ เพราะชาวอียิปต์ที่พวกท่านเห็นในวันนี้ พวกท่านจะไม่เห็นอีกเลยตลอดไป",
+      "thai_literal": "และโมเสสกล่าวแก่ชนชาติ อย่าได้กลัว จงยืนหยัด และจงดูซึ่งการช่วยกู้ของยาห์เวห์ที่จะทำแก่พวกท่านวันนี้ เพราะที่พวกท่านเห็นซึ่งอียิปต์วันนี้ พวกท่านจะไม่เพิ่มที่จะเห็นพวกเขาอีกจนถึงตลอดกาล",
+      "thai_summary": "**KEY VERSE — STAND FIRM AND SEE.** สำนวนของศรัทธาในสถานการณ์ที่ดูเหมือนไม่มีทางออก. ‘การช่วยกู้ขององค์พระผู้เป็นเจ้า’ (יְשׁוּעַת יְהוָה) — รากของชื่อ ‘โยชูวา/เยซู’ (יְהוֹשׁוּעַ ‘ยาห์เวห์ทรงช่วย’; יֵשׁוּעַ ‘การช่วยกู้/พระเยซู’). NT: 2คร. 6:2 + ฮบ. 9:28 อ้างแนวคิดของ ‘การช่วยกู้’ ที่พระเจ้าทรงประกอบเพื่อชาติของพระองค์.",
+      "key_decisions": [
+        {
+          "hebrew": "יְשׁוּעַת יְהוָה",
+          "thai": "การช่วยกู้ขององค์พระผู้เป็นเจ้า",
+          "rationale": "**KEY NT-CONNECTING TERM.** Per Eremos NT lock: יְשׁוּעָה / σωτηρία → การช่วยกู้/ความรอด. ‘การช่วยกู้ของยาห์เวห์’ — สำนวนของการกระทำของพระเจ้าเพื่อชาติของพระองค์. รากศัพท์เดียวกับ ‘โยชูวา’ + ‘เยซู’."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 14:14",
+    "chapter": 14,
+    "verse": 14,
+    "language": "hebrew",
+    "hebrew": "יְהוָ֖ה יִלָּחֵ֣ם לָכֶ֑ם וְאַתֶּ֖ם תַּחֲרִישֽׁוּן׃",
+    "bsb_english": "The LORD will fight for you; you need only to be still.”",
+    "translation": {
+      "thai": "องค์พระผู้เป็นเจ้าจะทรงสู้แทนพวกท่าน พวกท่านเพียงแค่ต้องสงบนิ่ง”",
+      "thai_literal": "ยาห์เวห์จะทรงสู้เพื่อพวกท่าน และพวกท่านพวกท่านจะเงียบ",
+      "thai_summary": "**THE DIVINE WARRIOR THEME.** ‘ยาห์เวห์จะทรงสู้แทนพวกท่าน’ — สำนวนของพระเจ้าผู้เป็นนักรบ. ‘สงบนิ่ง’ (חָרַשׁ) — สื่อความ ‘ไม่ต้องทำอะไร แค่เชื่อ’. ภาษาของอำนาจสูงสุดของพระเจ้า — มนุษย์ไม่สามารถทำอะไรเพื่อช่วยตัวเอง.",
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "thai": "องค์พระผู้เป็นเจ้า",
+          "rationale": "Per divine_names_table_2026-05.md: יהוה → องค์พระผู้เป็นเจ้า."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 14:15",
+    "chapter": 14,
+    "verse": 15,
+    "language": "hebrew",
+    "hebrew": "וַיֹּ֤אמֶר יְהוָה֙ אֶל־מֹשֶׁ֔ה מַה־תִּצְעַ֖ק אֵלָ֑י דַּבֵּ֥ר אֶל־בְּנֵי־יִשְׂרָאֵ֖ל וְיִסָּֽעוּ׃",
+    "bsb_english": "Then the LORD said to Moses, “Why are you crying out to Me? Tell the Israelites to go forward.",
+    "translation": {
+      "thai": "องค์พระผู้เป็นเจ้าตรัสกับโมเสสว่า “ทำไมเจ้าร้องทูลต่อเรา จงบอกบุตรอิสราเอลให้เดินหน้าไป",
+      "thai_literal": "และตรัสยาห์เวห์กับโมเสส อะไรเจ้าร้องทูลแก่ข้าพเจ้า จงพูดแก่บุตรทั้งหลายของอิสราเอล และพวกเขาจะเดินทาง",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "thai": "องค์พระผู้เป็นเจ้า",
+          "rationale": "Per divine_names_table_2026-05.md: יהוה → องค์พระผู้เป็นเจ้า."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 14:16",
+    "chapter": 14,
+    "verse": 16,
+    "language": "hebrew",
+    "hebrew": "וְאַתָּ֞ה הָרֵ֣ם אֶֽת־מַטְּךָ֗ וּנְטֵ֧ה אֶת־יָדְךָ֛ עַל־הַיָּ֖ם וּבְקָעֵ֑הוּ וְיָבֹ֧אוּ בְנֵֽי־יִשְׂרָאֵ֛ל בְּת֥וֹךְ הַיָּ֖ם בַּיַּבָּשָֽׁה׃",
+    "bsb_english": "And as for you, lift up your staff and stretch out your hand over the sea and divide it, so that the Israelites can go through the sea on dry ground.",
+    "translation": {
+      "thai": "ส่วนเจ้า จงยกไม้เท้าของเจ้าและเหยียดมือเหนือทะเลและแยกมันออก เพื่อบุตรอิสราเอลจะเดินผ่านทะเลบนพื้นดินแห้ง",
+      "thai_literal": "และเจ้า จงยกซึ่งไม้เท้าของเจ้า และจงเหยียดซึ่งมือของเจ้าเหนือทะเล และจงแยกมัน และจะเข้ามาบุตรทั้งหลายของอิสราเอลในกลางของทะเลบนพื้นดินแห้ง",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 14:17",
+    "chapter": 14,
+    "verse": 17,
+    "language": "hebrew",
+    "hebrew": "וַאֲנִ֗י הִנְנִ֤י מְחַזֵּק֙ אֶת־לֵ֣ב מִצְרַ֔יִם וְיָבֹ֖אוּ אַחֲרֵיהֶ֑ם וְאִכָּבְדָ֤ה בְּפַרְעֹה֙ וּבְכָל־חֵיל֔וֹ בְּרִכְבּ֖וֹ וּבְפָרָשָֽׁיו׃",
+    "bsb_english": "And I will harden the hearts of the Egyptians so that they will go in after them. Then I will gain honor by means of Pharaoh and all his army, and his chariots, and his horsemen.",
+    "translation": {
+      "thai": "ดูเถิด เรากำลังทำให้ใจของชาวอียิปต์แข็งกระด้าง พวกเขาจะตามเข้าไป เราจะได้รับเกียรติโดยผ่านฟาโรห์และกองทัพทั้งหมดของเขา รถม้าศึกและพลม้าของเขา",
+      "thai_literal": "และข้าพเจ้า ดูเถิดข้าพเจ้ากำลังทำให้แข็งซึ่งใจของอียิปต์ และพวกเขาจะเข้ามาตามหลังพวกเขา และข้าพเจ้าจะได้รับเกียรติในฟาโรห์และในทั้งหมดของกองทัพของเขา ในรถของเขาและในพลม้าทั้งหลายของเขา",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 14:18",
+    "chapter": 14,
+    "verse": 18,
+    "language": "hebrew",
+    "hebrew": "וְיָדְע֥וּ מִצְרַ֖יִם כִּי־אֲנִ֣י יְהוָ֑ה בְּהִכָּבְדִ֣י בְּפַרְעֹ֔ה בְּרִכְבּ֖וֹ וּבְפָרָשָֽׁיו׃",
+    "bsb_english": "The Egyptians will know that I am the LORD when I am honored through Pharaoh, his chariots, and his horsemen.”",
+    "translation": {
+      "thai": "ชาวอียิปต์จะรู้ว่าเราคือองค์พระผู้เป็นเจ้า เมื่อเราได้รับเกียรติโดยผ่านฟาโรห์ รถม้าศึกของเขา และพลม้าของเขา”",
+      "thai_literal": "และจะรู้คนอียิปต์ว่าข้าพเจ้ายาห์เวห์ ในการได้รับเกียรติของข้าพเจ้าในฟาโรห์ในรถของเขาและในพลม้าทั้งหลายของเขา",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "thai": "องค์พระผู้เป็นเจ้า",
+          "rationale": "Per divine_names_table_2026-05.md: יהוה → องค์พระผู้เป็นเจ้า."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 14:19",
+    "chapter": 14,
+    "verse": 19,
+    "language": "hebrew",
+    "hebrew": "וַיִּסַּ֞ע מַלְאַ֣ךְ הָאֱלֹהִ֗ים הַהֹלֵךְ֙ לִפְנֵי֙ מַחֲנֵ֣ה יִשְׂרָאֵ֔ל וַיֵּ֖לֶךְ מֵאַחֲרֵיהֶ֑ם וַיִּסַּ֞ע עַמּ֤וּד הֶֽעָנָן֙ מִפְּנֵיהֶ֔ם וַיַּֽעֲמֹ֖ד מֵאַחֲרֵיהֶֽם׃",
+    "bsb_english": "And the angel of God, who had gone before the camp of Israel, withdrew and went behind them. The pillar of cloud also moved from before them and stood behind them,",
+    "translation": {
+      "thai": "ทูตของพระเจ้าผู้นำหน้าค่ายของอิสราเอลก็ถอยและไปยืนข้างหลังพวกเขา เสาเมฆก็เคลื่อนจากข้างหน้าและไปยืนข้างหลังพวกเขา",
+      "thai_literal": "และเดินทางทูตของพระเจ้าผู้ไปต่อหน้าค่ายของอิสราเอล และเดินจากหลังพวกเขา และเดินทางเสาของเมฆจากหน้าของพวกเขา และยืนจากหลังพวกเขา",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "מַלְאַךְ הָאֱלֹהִים",
+          "thai": "ทูตของพระเจ้า",
+          "rationale": "Per ปฐก. 16:7 + อพย. 3:2 lock: מַלְאַךְ → ทูต. ในที่นี้ ‘ทูตของพระเจ้า’ (אֱלֹהִים) ไม่ใช่ ‘ทูตของยาห์เวห์’ — แต่ในที่นี้บุคคลเดียวกันที่ปกป้องอิสราเอล."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 14:20",
+    "chapter": 14,
+    "verse": 20,
+    "language": "hebrew",
+    "hebrew": "וַיָּבֹ֞א בֵּ֣ין ׀ מַחֲנֵ֣ה מִצְרַ֗יִם וּבֵין֙ מַחֲנֵ֣ה יִשְׂרָאֵ֔ל וַיְהִ֤י הֶֽעָנָן֙ וְהַחֹ֔שֶׁךְ וַיָּ֖אֶר אֶת־הַלָּ֑יְלָה וְלֹא־קָרַ֥ב זֶ֛ה אֶל־זֶ֖ה כָּל־הַלָּֽיְלָה׃",
+    "bsb_english": "so that it came between the camps of Egypt and Israel. The cloud was there in the darkness, but it lit up the night. So all night long neither camp came near the other.",
+    "translation": {
+      "thai": "เสาเมฆมาอยู่ระหว่างค่ายของอียิปต์และค่ายของอิสราเอล เมฆอยู่ในความมืดแต่ส่องสว่างกลางคืน ตลอดทั้งคืนทั้งสองค่ายไม่ได้เข้าใกล้กันเลย",
+      "thai_literal": "และเข้ามาระหว่างค่ายของอียิปต์และระหว่างค่ายของอิสราเอล และเป็นเมฆและความมืด และส่องสว่างซึ่งคืน และไม่ใกล้นี่แก่นี่ทั้งหมดของคืน",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 14:21",
+    "chapter": 14,
+    "verse": 21,
+    "language": "hebrew",
+    "hebrew": "וַיֵּ֨ט מֹשֶׁ֣ה אֶת־יָדוֹ֮ עַל־הַיָּם֒ וַיּ֣וֹלֶךְ יְהוָ֣ה ׀ אֶת־הַ֠יָּם בְּר֨וּחַ קָדִ֤ים עַזָּה֙ כָּל־הַלַּ֔יְלָה וַיָּ֥שֶׂם אֶת־הַיָּ֖ם לֶחָרָבָ֑ה וַיִּבָּקְע֖וּ הַמָּֽיִם׃",
+    "bsb_english": "Then Moses stretched out his hand over the sea, and all that night the LORD drove back the sea with a strong east wind that turned it into dry land. So the waters were divided,",
+    "translation": {
+      "thai": "โมเสสเหยียดมือของเขาเหนือทะเล องค์พระผู้เป็นเจ้าทรงให้ทะเลถอยด้วยลมตะวันออกอันแรงกล้าตลอดทั้งคืน และทรงทำให้ทะเลกลายเป็นแผ่นดินแห้ง น้ำก็แยกออก",
+      "thai_literal": "และเหยียดโมเสสซึ่งมือของเขาเหนือทะเล และทรงนำยาห์เวห์ซึ่งทะเลในลมตะวันออกแรงกล้าทั้งหมดของคืน และทรงทำซึ่งทะเลเป็นแผ่นดินแห้ง และน้ำทั้งหลายถูกแยก",
+      "thai_summary": "**THE PARTING OF THE SEA.** การกระทำการอัศจรรย์ที่ยิ่งใหญ่ที่สุดในประวัติศาสตร์ของอิสราเอล. ‘ลมตะวันออกอันแรงกล้า’ — ภาพของพระเจ้าผู้ใช้ธรรมชาติเป็นเครื่องมือ. **NT**: ฮบ. 11:29 ‘โดยความเชื่อพวกเขาข้ามทะเลแดงเหมือนแผ่นดินแห้ง’; 1คร. 10:1–2 อิสราเอลถูก ‘บัพติศมาในโมเสส’.",
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "thai": "องค์พระผู้เป็นเจ้า",
+          "rationale": "Per divine_names_table_2026-05.md: יהוה → องค์พระผู้เป็นเจ้า."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 14:22",
+    "chapter": 14,
+    "verse": 22,
+    "language": "hebrew",
+    "hebrew": "וַיָּבֹ֧אוּ בְנֵֽי־יִשְׂרָאֵ֛ל בְּת֥וֹךְ הַיָּ֖ם בַּיַּבָּשָׁ֑ה וְהַמַּ֤יִם לָהֶם֙ חֹמָ֔ה מִֽימִינָ֖ם וּמִשְּׂמֹאלָֽם׃",
+    "bsb_english": "and the Israelites went through the sea on dry ground, with walls of water on their right and on their left.",
+    "translation": {
+      "thai": "บุตรอิสราเอลเดินผ่านทะเลบนพื้นดินแห้ง โดยมีกำแพงน้ำอยู่ทางขวาและทางซ้ายของพวกเขา",
+      "thai_literal": "และเข้ามาบุตรทั้งหลายของอิสราเอลในกลางของทะเลบนพื้นดินแห้ง และน้ำทั้งหลายแก่พวกเขาเป็นกำแพง จากขวาของพวกเขาและจากซ้ายของพวกเขา",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 14:23",
+    "chapter": 14,
+    "verse": 23,
+    "language": "hebrew",
+    "hebrew": "וַיִּרְדְּפ֤וּ מִצְרַ֙יִם֙ וַיָּבֹ֣אוּ אַחֲרֵיהֶ֔ם כֹּ֚ל ס֣וּס פַּרְעֹ֔ה רִכְבּ֖וֹ וּפָרָשָׁ֑יו אֶל־תּ֖וֹךְ הַיָּֽם׃",
+    "bsb_english": "And the Egyptians chased after them—all Pharaoh’s horses, chariots, and horsemen—and followed them into the sea.",
+    "translation": {
+      "thai": "ชาวอียิปต์ก็ไล่ตามและตามพวกเขาเข้าไปในทะเล คือม้าทั้งหมดของฟาโรห์ รถม้าศึก และพลม้าของพระองค์",
+      "thai_literal": "และพวกเขาไล่ตามอียิปต์ และเข้ามาตามหลังพวกเขา ทั้งหมดของม้าของฟาโรห์ รถของเขาและพลม้าทั้งหลายของเขา แก่กลางของทะเล",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 14:24",
+    "chapter": 14,
+    "verse": 24,
+    "language": "hebrew",
+    "hebrew": "וַֽיְהִי֙ בְּאַשְׁמֹ֣רֶת הַבֹּ֔קֶר וַיַּשְׁקֵ֤ף יְהוָה֙ אֶל־מַחֲנֵ֣ה מִצְרַ֔יִם בְּעַמּ֥וּד אֵ֖שׁ וְעָנָ֑ן וַיָּ֕הָם אֵ֖ת מַחֲנֵ֥ה מִצְרָֽיִם׃",
+    "bsb_english": "At morning watch, however, the LORD looked down on the army of the Egyptians from the pillar of fire and cloud, and He threw their camp into confusion.",
+    "translation": {
+      "thai": "ในยามเช้า องค์พระผู้เป็นเจ้าทรงเห็นกองทัพอียิปต์จากเสาเพลิงและเสาเมฆ และทรงทำให้ค่ายของอียิปต์เกิดความสับสน",
+      "thai_literal": "และเป็น ในยามของเช้า และทอดพระเนตรลงยาห์เวห์แก่ค่ายของอียิปต์ในเสาของไฟและเมฆ และทรงทำให้สับสนซึ่งค่ายของอียิปต์",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "thai": "องค์พระผู้เป็นเจ้า",
+          "rationale": "Per divine_names_table_2026-05.md: יהוה → องค์พระผู้เป็นเจ้า."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 14:25",
+    "chapter": 14,
+    "verse": 25,
+    "language": "hebrew",
+    "hebrew": "וַיָּ֗סַר אֵ֚ת אֹפַ֣ן מַרְכְּבֹתָ֔יו וַֽיְנַהֲגֵ֖הוּ בִּכְבֵדֻ֑ת וַיֹּ֣אמֶר מִצְרַ֗יִם אָנ֙וּסָה֙ מִפְּנֵ֣י יִשְׂרָאֵ֔ל כִּ֣י יְהוָ֔ה נִלְחָ֥ם לָהֶ֖ם בְּמִצְרָֽיִם׃",
+    "bsb_english": "He caused their chariot wheels to wobble, so that they had difficulty driving. “Let us flee from the Israelites,” said the Egyptians, “for the LORD is fighting for them against Egypt!”",
+    "translation": {
+      "thai": "พระองค์ทรงทำให้ล้อรถม้าศึกของพวกเขาโคลงเคลง ทำให้ขับขี่ลำบาก ชาวอียิปต์จึงกล่าวว่า “ให้พวกเราหนีจากบุตรอิสราเอล เพราะองค์พระผู้เป็นเจ้าทรงสู้แทนพวกเขาต่อสู้กับอียิปต์”",
+      "thai_literal": "และทรงเอาออกซึ่งล้อของรถทั้งหลายของเขา และทรงนำมันในความหนัก และอียิปต์กล่าว ขอให้ข้าพเจ้าหนีจากใบหน้าของอิสราเอล เพราะยาห์เวห์ทรงสู้เพื่อพวกเขาในอียิปต์",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "thai": "องค์พระผู้เป็นเจ้า",
+          "rationale": "Per divine_names_table_2026-05.md: יהוה → องค์พระผู้เป็นเจ้า."
+        },
+        {
+          "hebrew": "בִּכְבֵדֻת",
+          "thai": "ลำบาก",
+          "rationale": "**HAPAX LEGOMENON.** כְּבֵדֻת ‘ความหนัก/ความยาก’ — ปรากฏเพียงครั้งเดียวในฮีบรู. รากศัพท์ของ ‘หนัก’ (כָּבֵד) — สื่อความลำบากของการขับขี่. ในไทย ‘ลำบาก’ สื่อความหมาย."
+        }
+      ],
+      "notes": "HAPAX LEGOMENON: כְּבֵדֻת (ความหนัก/ความยาก)."
+    }
+  },
+  {
+    "reference": "Exodus 14:26",
+    "chapter": 14,
+    "verse": 26,
+    "language": "hebrew",
+    "hebrew": "וַיֹּ֤אמֶר יְהוָה֙ אֶל־מֹשֶׁ֔ה נְטֵ֥ה אֶת־יָדְךָ֖ עַל־הַיָּ֑ם וְיָשֻׁ֤בוּ הַמַּ֙יִם֙ עַל־מִצְרַ֔יִם עַל־רִכְבּ֖וֹ וְעַל־פָּרָשָֽׁיו׃",
+    "bsb_english": "Then the LORD said to Moses, “Stretch out your hand over the sea, so that the waters may flow back over the Egyptians and their chariots and horsemen.”",
+    "translation": {
+      "thai": "องค์พระผู้เป็นเจ้าตรัสกับโมเสสว่า “จงเหยียดมือของเจ้าเหนือทะเล เพื่อน้ำจะกลับมาท่วมชาวอียิปต์ รถม้าศึก และพลม้าของพวกเขา”",
+      "thai_literal": "และตรัสยาห์เวห์กับโมเสส จงเหยียดซึ่งมือของเจ้าเหนือทะเล และน้ำทั้งหลายจะกลับเหนืออียิปต์ เหนือรถของเขาและเหนือพลม้าทั้งหลายของเขา",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "thai": "องค์พระผู้เป็นเจ้า",
+          "rationale": "Per divine_names_table_2026-05.md: יהוה → องค์พระผู้เป็นเจ้า."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 14:27",
+    "chapter": 14,
+    "verse": 27,
+    "language": "hebrew",
+    "hebrew": "וַיֵּט֩ מֹשֶׁ֨ה אֶת־יָד֜וֹ עַל־הַיָּ֗ם וַיָּ֨שָׁב הַיָּ֜ם לִפְנ֥וֹת בֹּ֙קֶר֙ לְאֵ֣יתָנ֔וֹ וּמִצְרַ֖יִם נָסִ֣ים לִקְרָאת֑וֹ וַיְנַעֵ֧ר יְהוָ֛ה אֶת־מִצְרַ֖יִם בְּת֥וֹךְ הַיָּֽם׃",
+    "bsb_english": "So Moses stretched out his hand over the sea, and at daybreak the sea returned to its normal state. As the Egyptians were retreating, the LORD swept them into the sea.",
+    "translation": {
+      "thai": "โมเสสเหยียดมือของเขาเหนือทะเล เมื่อรุ่งสาง ทะเลก็กลับสู่สภาพปกติ ในขณะที่ชาวอียิปต์กำลังหนี องค์พระผู้เป็นเจ้าทรงโยนพวกเขาลงไปในทะเล",
+      "thai_literal": "และเหยียดโมเสสซึ่งมือของเขาเหนือทะเล และทะเลกลับเมื่อจะเช้าแก่ที่เคยเป็น และอียิปต์หนีต่อหน้ามัน และทรงโยนยาห์เวห์ซึ่งอียิปต์ในกลางของทะเล",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "thai": "องค์พระผู้เป็นเจ้า",
+          "rationale": "Per divine_names_table_2026-05.md: יהוה → องค์พระผู้เป็นเจ้า."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 14:28",
+    "chapter": 14,
+    "verse": 28,
+    "language": "hebrew",
+    "hebrew": "וַיָּשֻׁ֣בוּ הַמַּ֗יִם וַיְכַסּ֤וּ אֶת־הָרֶ֙כֶב֙ וְאֶת־הַפָּ֣רָשִׁ֔ים לְכֹל֙ חֵ֣יל פַּרְעֹ֔ה הַבָּאִ֥ים אַחֲרֵיהֶ֖ם בַּיָּ֑ם לֹֽא־נִשְׁאַ֥ר בָּהֶ֖ם עַד־אֶחָֽד׃",
+    "bsb_english": "The waters flowed back and covered the chariots and horsemen—the entire army of Pharaoh that had chased the Israelites into the sea. Not one of them survived.",
+    "translation": {
+      "thai": "น้ำก็ไหลกลับและท่วมรถม้าศึกและพลม้า กองทัพทั้งหมดของฟาโรห์ที่ไล่ตามอิสราเอลเข้าไปในทะเล ไม่มีแม้แต่คนเดียวเหลือรอด",
+      "thai_literal": "และน้ำทั้งหลายกลับ และคลุมซึ่งรถและซึ่งพลม้าทั้งหลาย แก่ทั้งหมดของกองทัพของฟาโรห์ผู้เข้ามาตามหลังพวกเขาในทะเล ไม่เหลือในพวกเขาแม้หนึ่ง",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 14:29",
+    "chapter": 14,
+    "verse": 29,
+    "language": "hebrew",
+    "hebrew": "וּבְנֵ֧י יִשְׂרָאֵ֛ל הָלְכ֥וּ בַיַּבָּשָׁ֖ה בְּת֣וֹךְ הַיָּ֑ם וְהַמַּ֤יִם לָהֶם֙ חֹמָ֔ה מִֽימִינָ֖ם וּמִשְּׂמֹאלָֽם׃",
+    "bsb_english": "But the Israelites had walked through the sea on dry ground, with walls of water on their right and on their left.",
+    "translation": {
+      "thai": "บุตรอิสราเอลเดินผ่านทะเลบนพื้นดินแห้ง โดยมีกำแพงน้ำอยู่ทางขวาและทางซ้ายของพวกเขา",
+      "thai_literal": "และบุตรทั้งหลายของอิสราเอลเดินในพื้นดินแห้งในกลางของทะเล และน้ำทั้งหลายแก่พวกเขาเป็นกำแพง จากขวาของพวกเขาและจากซ้ายของพวกเขา",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 14:30",
+    "chapter": 14,
+    "verse": 30,
+    "language": "hebrew",
+    "hebrew": "וַיּ֨וֹשַׁע יְהוָ֜ה בַּיּ֥וֹם הַה֛וּא אֶת־יִשְׂרָאֵ֖ל מִיַּ֣ד מִצְרָ֑יִם וַיַּ֤רְא יִשְׂרָאֵל֙ אֶת־מִצְרַ֔יִם מֵ֖ת עַל־שְׂפַ֥ת הַיָּֽם׃",
+    "bsb_english": "That day the LORD saved Israel from the hand of the Egyptians, and Israel saw the Egyptians dead on the shore.",
+    "translation": {
+      "thai": "ในวันนั้น องค์พระผู้เป็นเจ้าทรงช่วยอิสราเอลให้พ้นจากมือของชาวอียิปต์ อิสราเอลก็เห็นชาวอียิปต์ตายบนชายฝั่งทะเล",
+      "thai_literal": "และทรงช่วยกู้ยาห์เวห์ในวันนั้นซึ่งอิสราเอลจากมือของอียิปต์ และอิสราเอลเห็นซึ่งอียิปต์ตายบนริมฝั่งของทะเล",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "thai": "องค์พระผู้เป็นเจ้า",
+          "rationale": "Per divine_names_table_2026-05.md: יהוה → องค์พระผู้เป็นเจ้า."
+        },
+        {
+          "hebrew": "וַיּוֹשַׁע יְהוָה",
+          "thai": "องค์พระผู้เป็นเจ้าทรงช่วย",
+          "rationale": "**KEY SALVATION VERB.** רוט יָשַׁע (Hiphil ‘ช่วย/ช่วยกู้’) — รากของชื่อ ‘โยชูวา/เยซู’. ‘ยาห์เวห์-ช่วยกู้’ — สำนวนคีย์."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 14:31",
+    "chapter": 14,
+    "verse": 31,
+    "language": "hebrew",
+    "hebrew": "וַיַּ֨רְא יִשְׂרָאֵ֜ל אֶת־הַיָּ֣ד הַגְּדֹלָ֗ה אֲשֶׁ֨ר עָשָׂ֤ה יְהוָה֙ בְּמִצְרַ֔יִם וַיִּֽירְא֥וּ הָעָ֖ם אֶת־יְהוָ֑ה וַֽיַּאֲמִ֙ינוּ֙ בַּֽיהוָ֔ה וּבְמֹשֶׁ֖ה עַבְדּֽוֹ׃",
+    "bsb_english": "When Israel saw the great power that the LORD had exercised over the Egyptians, the people feared the LORD and believed in Him and in His servant Moses.",
+    "translation": {
+      "thai": "เมื่ออิสราเอลเห็นพระอำนาจอันยิ่งใหญ่ที่องค์พระผู้เป็นเจ้าทรงสำแดงต่อชาวอียิปต์ ชนชาตินั้นก็ยำเกรงองค์พระผู้เป็นเจ้าและเชื่อในพระองค์และในโมเสสผู้รับใช้ของพระองค์",
+      "thai_literal": "และอิสราเอลเห็นซึ่งมือใหญ่ที่ทำยาห์เวห์ในอียิปต์ และพวกเขายำเกรงชนชาติซึ่งยาห์เวห์ และพวกเขาเชื่อในยาห์เวห์และในโมเสสทาสของพระองค์",
+      "thai_summary": "**KEY THEOLOGICAL CLIMAX.** ปิดบทที่ 14 ด้วยศรัทธาของชาติ — ‘ยำเกรงยาห์เวห์ และเชื่อในพระองค์และในโมเสส’. ภาพการเกิดของศรัทธาของชาติอิสราเอลจากการเห็นการช่วยกู้. นี่เป็นจุดสุดยอดของการอพยพ — ทุกสิ่งที่นำสู่บทที่ 15 (เพลงของโมเสส) จะเฉลิมฉลองการช่วยกู้นี้.",
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "thai": "องค์พระผู้เป็นเจ้า",
+          "rationale": "Per divine_names_table_2026-05.md: יהוה → องค์พระผู้เป็นเจ้า."
+        },
+        {
+          "hebrew": "וַיִּירְאוּ הָעָם אֶת־יְהוָה וַיַּאֲמִינוּ בַּיהוָה",
+          "thai": "ชนชาตินั้นก็ยำเกรงองค์พระผู้เป็นเจ้าและเชื่อในพระองค์",
+          "rationale": "**KEY FAITH FORMULA.** Per Eremos NT lock: ‘fear God + believe in him’ — ฮีบรู יָרֵא + אָמַן — รากของศรัทธาทั้งสายของพันธสัญญา. ฮบ. 11 ‘ความเชื่อของอิสราเอลในการอพยพ’ — รากของแบบอย่างความเชื่อ. ในไทย ‘ยำเกรง + เชื่อ’ ตามแบบของ NT."
+        }
+      ],
+      "notes": null
+    }
+  }
+]
