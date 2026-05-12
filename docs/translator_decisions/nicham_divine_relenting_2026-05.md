@@ -8,13 +8,38 @@
 
 ---
 
-## 1. The lock
+## 1. The lock — TWO SUB-SENSES (amended 2026-05-12)
+
+The lemma נחם (Niph'al) with God as subject carries **two distinct sub-senses** that require different Thai renderings. The split was made explicit after the Genesis end-of-book audit §G + external AI review (ChatGPT CONCERN; Gemini FINE — both confirmed the split is correct).
+
+### 1.1 Sub-sense A — Divine RELENTING (factive-volitional)
+
+Context: **prior announcement of judgment** + a reversal-of-action-in-response-to-changed-circumstances. The classical "God relented from the disaster he had threatened" pattern.
 
 | Hebrew form | Thai rendering | Notes |
 |---|---|---|
-| Niph'al wayyiqtol וַיִּנָּחֶם / וַיִּנָּחֶם הָאֱלֹהִים | **ทรงเปลี่ยนพระทัย** | Standard divine-relenting; preserve the body-part anthropomorphism (per `hebrew_idioms_and_metaphor §1.4`) |
-| Niph'al participle נִחָם / וְנִחָם עַל־הָרָעָה | **ทรงเปลี่ยนพระทัยจากการลงโทษ** | Joel 2:13 + Jonah 4:2 addendum to Exod 34 formula |
-| Niph'al imperfect/perfect of God-as-subject נִחַם / יִנָּחֵם | **ทรงเปลี่ยนพระทัย** | Same lock |
+| Niph'al wayyiqtol וַיִּנָּחֶם הָאֱלֹהִים / וַיִּנָּחֶם יהוה (factive-context) | **ทรงเปลี่ยนพระทัย** | preserves the volitional shift + Rachasap |
+| Niph'al participle נִחָם / וְנִחָם עַל־הָרָעָה | **ทรงเปลี่ยนพระทัยจากการลงโทษ** | Joel 2:13 + Jonah 4:2 (addendum to Exod 34 formula) |
+| Niph'al imperfect/perfect (factive-context) נִחַם / יִנָּחֵם | **ทรงเปลี่ยนพระทัย** | Same lock |
+
+**Locking precedent:** Jonah 3:10 (God relents from announced judgment after Nineveh's repentance).
+
+### 1.2 Sub-sense B — Divine GRIEF (reflexive-emotional)
+
+Context: **no prior announcement of judgment**. Internal sorrow / lament over creation-state or people-state. Reinforced by adjacent grief-vocabulary (עָצַב, אֵבֶל, אָנַף).
+
+| Hebrew form | Thai rendering | Notes |
+|---|---|---|
+| Niph'al wayyiqtol וַיִּנָּחֶם יהוה (grief-context, no judgment-decree) | **ทรงเสียพระทัย** | preserves the reflexive-emotional sense + Rachasap |
+| First-person נִחַמְתִּי (grief-context) | **เราเสียพระทัย** | First-person divine grief |
+
+**Locking precedent:** Gen 6:6 (וַיִּנָּחֶם יהוה כִּי־עָשָׂה אֶת־הָאָדָם בָּאָרֶץ "YHWH was sorry he had made man on the earth"). The adjacent וַיִּתְעַצֵּב אֶל־לִבּוֹ ("and he was grieved to his heart") confirms the grief-subtype reading.
+
+### 1.3 How to classify
+
+Apply the **factive-volitional test:** is there an explicit prior announcement of judgment that is now being reversed? If yes → sub-sense A (ทรงเปลี่ยนพระทัย). If no, and the context shows internal divine sorrow over a state of affairs → sub-sense B (ทรงเสียพระทัย).
+
+The Num 23:19 / 1 Sam 15:29 counter-formulae (לֹא יִנָּחֵם "God does not change his mind") apply to **sub-sense A only** (factive-volitional immutability of divine decree). Sub-sense B (reflexive-emotional grief) is not contradicted by them — God grieving over human sin does not impeach divine immutability.
 
 The lock applies to the **divine-subject Niph'al** form. Other binyanim (Pi'el "comfort, console" e.g. Isa 40:1) and human-subject forms have separate renderings.
 
@@ -22,12 +47,13 @@ The lock applies to the **divine-subject Niph'al** form. Other binyanim (Pi'el "
 
 ## 2. The OT corpus
 
-Major divine-relenting occurrences:
+Major divine-נחם occurrences, classified by sub-sense:
 
-| Verse | Hebrew | Thai (locked) | Context |
-|---|---|---|---|
-| Gen 6:6 | וַיִּנָּחֶם יהוה כִּי־עָשָׂה אֶת־הָאָדָם | องค์พระผู้เป็นเจ้าทรงเปลี่ยนพระทัยที่ทรงสร้างมนุษย์ | Pre-Flood lament |
-| Ex 32:14 | וַיִּנָּחֶם יהוה עַל־הָרָעָה אֲשֶׁר דִּבֶּר לַעֲשׂוֹת לְעַמּוֹ | องค์พระผู้เป็นเจ้าทรงเปลี่ยนพระทัยจากการลงโทษ... | Golden Calf, Moses's intercession |
+| Verse | Hebrew | Thai (locked) | Context | Sub-sense |
+|---|---|---|---|---|
+| **Gen 6:6** | וַיִּנָּחֶם יהוה כִּי־עָשָׂה אֶת־הָאָדָם | **องค์พระผู้เป็นเจ้าทรงเสียพระทัยที่ทรงสร้างมนุษย์** | Pre-Flood divine grief over creation-state; no judgment-announcement | **B (grief)** — locking precedent |
+| Gen 6:7 | כִּי נִחַמְתִּי כִּי עֲשִׂיתִם | **เพราะเราเสียใจที่เราได้สร้างพวกเขา** (first-person speech, lighter register acceptable) | First-person echo of 6:6 | **B (grief)** |
+| Ex 32:14 | וַיִּנָּחֶם יהוה עַל־הָרָעָה אֲשֶׁר דִּבֶּר לַעֲשׂוֹת לְעַמּוֹ | องค์พระผู้เป็นเจ้าทรงเปลี่ยนพระทัยจากการลงโทษ... | Golden Calf, Moses's intercession (factive — explicit prior judgment) | **A (relenting)** |
 | Num 23:19 | לֹא אִישׁ אֵל וִיכַזֵּב וּבֶן־אָדָם וְיִתְנֶחָם | พระเจ้ามิใช่มนุษย์ที่จะมุสา หรือเป็นบุตรของมนุษย์ที่จะทรงเปลี่ยนพระทัย | **counter-formula** (see §3 below) |
 | 1 Sam 15:11 | נִחַמְתִּי כִּי־הִמְלַכְתִּי אֶת־שָׁאוּל | เราเปลี่ยนพระทัยที่เราตั้งซาอูลเป็นกษัตริย์ | Saul's rejection |
 | 1 Sam 15:29 | גַּם נֵצַח יִשְׂרָאֵל לֹא יְשַׁקֵּר וְלֹא יִנָּחֵם | ผู้ทรงรุ่งโรจน์แห่งอิสราเอลจะไม่มุสาและจะไม่ทรงเปลี่ยนพระทัย | **counter-formula** in same chapter as 15:11 |
@@ -120,4 +146,5 @@ A standard footnote template (in use at `output/textual_variants/jonah_03.json` 
 
 ## 8. Change log
 
+- **v0.2** (2026-05-12) — **Two-sub-sense split** added per Genesis end-of-book audit §G + external AI review (ChatGPT CONCERN, Gemini FINE). Splits the lemma into sub-sense A (divine-relenting / factive-volitional → ทรงเปลี่ยนพระทัย) and sub-sense B (divine-grief / reflexive-emotional → ทรงเสียพระทัย). Gen 6:6 locked as the corpus precedent for sub-sense B; the Jonah lock for sub-sense A is unchanged. The Num 23:19 / 1 Sam 15:29 counter-formulae apply to sub-sense A only.
 - **v0.1** (2026-05-09) — Initial lock, triggered by Jonah end-of-book audit. Locks ทรงเปลี่ยนพระทัย uniformly for divine-subject Niph'al-נחם occurrences. Establishes Jer 18:7–10 as the canonical interpretive control passage for the apparent tension with Num 23:19 / 1 Sam 15:29.
