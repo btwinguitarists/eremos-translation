@@ -1,0 +1,608 @@
+[
+  {
+    "reference": "Exodus 36:1",
+    "chapter": 36,
+    "verse": 1,
+    "language": "hebrew",
+    "hebrew": "וְעָשָׂה֩ בְצַלְאֵ֨ל וְאָהֳלִיאָ֜ב וְכֹ֣ל׀אִ֣ישׁ חֲכַם־לֵ֗ב אֲשֶׁר֩ נָתַ֨ן יְהוָ֜ה חָכְמָ֤ה וּתְבוּנָה֙ בָּהֵ֔מָּה לָדַ֣עַת לַעֲשֹׂ֔ת אֶֽת־כָּל־מְלֶ֖אכֶת עֲבֹדַ֣ת הַקֹּ֑דֶשׁ לְכֹ֥ל אֲשֶׁר־צִוָּ֖ה יְהוָֽה׃",
+    "bsb_english": "“So Bezalel, Oholiab, and every skilled person are to carry out everything commanded by the LORD, who has given them skill and ability to know how to perform all the work of constructing the sanctuary.”",
+    "translation": {
+      "thai": "“ดังนั้น เบซาเลล โอโฮลีอับ และทุกคนที่มีฝีมือซึ่งองค์พระผู้เป็นเจ้าทรงประทานสติปัญญาและความเข้าใจให้รู้ว่าจะทำงานก่อสร้างสถานนมัสการอย่างไร จะทำทุกสิ่งที่องค์พระผู้เป็นเจ้าทรงบัญชา”",
+      "thai_literal": "และจะทำเบซาเลลและโอโฮลีอับและทั้งหมดของชายผู้มีปัญญาของใจที่ทรงประทานยาห์เวห์สติปัญญาและความเข้าใจในพวกเขาเพื่อรู้ว่าจะทำซึ่งทั้งหมดของการงานของการรับใช้ของบริสุทธิ์ แก่ทั้งหมดที่ทรงบัญชายาห์เวห์",
+      "thai_summary": "**TABERNACLE CONSTRUCTION BEGINS.** บทนี้เริ่มต้นการก่อสร้างจริงของพลับพลา. คล้ายคลึงกับ อพย. 26 ในขนาด/รายละเอียด แต่ที่นี่เป็นการรายงานการดำเนินงาน. ส่วนเฉพาะตัว: vv.3–7 ‘ของถวายมากเกินไป’.",
+      "key_decisions": [
+        {
+          "hebrew": "יהוה",
+          "thai": "องค์พระผู้เป็นเจ้า",
+          "rationale": "Per divine_names_table_2026-05.md: יהוה → องค์พระผู้เป็นเจ้า. ดูเชิงอรรถบทที่ output/textual_variants/exodus_36.json."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 36:2",
+    "chapter": 36,
+    "verse": 2,
+    "language": "hebrew",
+    "hebrew": "וַיִּקְרָ֣א מֹשֶׁ֗ה אֶל־בְּצַלְאֵ֘לוְאֶל־אָֽהֳלִיאָב֒ וְאֶל֙ כָּל־אִ֣ישׁ חֲכַם־לֵ֔ב אֲשֶׁ֨ר נָתַ֧ן יְהוָ֛ה חָכְמָ֖ה בְּלִבּ֑וֹ כֹּ֚ל אֲשֶׁ֣ר נְשָׂא֣וֹ לִבּ֔וֹ לְקָרְבָ֥ה אֶל־הַמְּלָאכָ֖ה לַעֲשֹׂ֥ת אֹתָֽהּ׃",
+    "bsb_english": "Then Moses summoned Bezalel, Oholiab, and every skilled person whom the LORD had gifted—everyone whose heart stirred him to come and do the work.",
+    "translation": {
+      "thai": "โมเสสจึงเรียกเบซาเลล โอโฮลีอับ และทุกคนที่มีฝีมือซึ่งองค์พระผู้เป็นเจ้าทรงประทานพระพรในใจ — ทุกคนที่ใจกระตุ้นให้มาทำงาน",
+      "thai_literal": "และเรียกโมเสสกับเบซาเลลและกับโอโฮลีอับและกับทั้งหมดของชายผู้มีปัญญาของใจที่ทรงประทานยาห์เวห์สติปัญญาในใจของเขา ทั้งหมดที่กระตุ้นเขาใจของเขาเพื่อเข้าใกล้แก่การงานเพื่อทำมัน",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יהוה",
+          "thai": "องค์พระผู้เป็นเจ้า",
+          "rationale": "Per divine_names_table_2026-05.md: יהוה → องค์พระผู้เป็นเจ้า."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 36:3",
+    "chapter": 36,
+    "verse": 3,
+    "language": "hebrew",
+    "hebrew": "וַיִּקְח֞וּ מִלִּפְנֵ֣י מֹשֶׁ֗ה אֵ֤ת כָּל־הַתְּרוּמָה֙ אֲשֶׁ֨ר הֵבִ֜יאוּ בְּנֵ֣י יִשְׂרָאֵ֗ל לִמְלֶ֛אכֶת עֲבֹדַ֥ת הַקֹּ֖דֶשׁ לַעֲשֹׂ֣ת אֹתָ֑הּ וְ֠הֵם הֵבִ֨יאוּ אֵלָ֥יו ע֛וֹד נְדָבָ֖ה בַּבֹּ֥קֶר בַּבֹּֽקֶר׃",
+    "bsb_english": "They received from Moses all the contributions that the Israelites had brought to carry out the service of constructing the sanctuary. Meanwhile, the people continued to bring freewill offerings morning after morning,",
+    "translation": {
+      "thai": "พวกเขารับของถวายทั้งหมดที่บุตรอิสราเอลนำมาจากโมเสสเพื่อใช้ทำการรับใช้ในการก่อสร้างสถานนมัสการ ในขณะเดียวกัน ชนชาตินั้นก็ยังคงนำของถวายตามใจสมัครมาให้เขาทุกเช้า",
+      "thai_literal": "และพวกเขารับจากต่อหน้าโมเสสซึ่งทั้งหมดของของถวายที่นำมาบุตรทั้งหลายของอิสราเอลแก่การงานของการรับใช้ของบริสุทธิ์เพื่อทำมัน และพวกเขานำมาแก่เขายังคงของถวายตามใจสมัครในเช้าในเช้า",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "בַּבֹּקֶר בַּבֹּקֶר",
+          "thai": "ทุกเช้า",
+          "rationale": "Per Eremos OT lock: รูปซ้ำ ‘เช้า เช้า’ = ‘ทุกเช้า/วันแล้ววันเล่า’. คำกริยา ‘נדבה’ (ของถวายตามใจสมัคร) ปรากฏซ้ำในประโยคนี้กับ ‘freewill offerings morning after morning’ ของ BSB."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 36:4",
+    "chapter": 36,
+    "verse": 4,
+    "language": "hebrew",
+    "hebrew": "וַיָּבֹ֨אוּ֙ כָּל־הַ֣חֲכָמִ֔ים הָעֹשִׂ֕ים אֵ֖ת כָּל־מְלֶ֣אכֶת הַקֹּ֑דֶשׁ אִֽישׁ־אִ֥ישׁ מִמְּלַאכְתּ֖וֹ אֲשֶׁר־הֵ֥מָּה עֹשִֽׂים׃",
+    "bsb_english": "so that all the skilled craftsmen who were doing all the work on the sanctuary left their work",
+    "translation": {
+      "thai": "ดังนั้นช่างฝีมือทั้งหมดที่กำลังทำงานในสถานนมัสการต้องหยุดทำงานของตน",
+      "thai_literal": "และพวกเขามาทั้งหมดของผู้มีปัญญาทั้งหลาย ผู้ทำซึ่งทั้งหมดของการงานของบริสุทธิ์ ชายชายจากการงานของเขาที่พวกเขาทำ",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 36:5",
+    "chapter": 36,
+    "verse": 5,
+    "language": "hebrew",
+    "hebrew": "וַיֹּאמְרוּ֙ אֶל־מֹשֶׁ֣ה לֵּאמֹ֔ר מַרְבִּ֥ים הָעָ֖ם לְהָבִ֑יא מִדֵּ֤י הָֽעֲבֹדָה֙ לַמְּלָאכָ֔ה אֲשֶׁר־צִוָּ֥ה יְהוָ֖ה לַעֲשֹׂ֥ת אֹתָֽהּ׃",
+    "bsb_english": "and said to Moses, “The people are bringing more than enough for doing the work the LORD has commanded us to do.”",
+    "translation": {
+      "thai": "และกล่าวกับโมเสสว่า “ชนชาตินี้นำของมามากเกินพอสำหรับทำงานที่องค์พระผู้เป็นเจ้าทรงบัญชาให้เราทำ”",
+      "thai_literal": "และพวกเขากล่าวกับโมเสสกล่าวว่า มากชนชาติเพื่อนำมา จากพอของการรับใช้แก่การงานที่ทรงบัญชายาห์เวห์เพื่อทำมัน",
+      "thai_summary": "**'TOO MUCH BROUGHT'.** เหตุการณ์ที่ยอดเยี่ยม — ของถวายเกินพอจนช่างฝีมือต้องขอให้หยุด. ตรงข้ามกับการบ่นในถิ่นทุรกันดารทั่ว ๆ. NT: 2คร. 8:1–5 (ความใจกว้างของคริสตจักรในมาซิโดเนีย ‘เกินกำลังของพวกเขา’) — รูปแบบเดียวกัน.",
+      "key_decisions": [
+        {
+          "hebrew": "יהוה",
+          "thai": "องค์พระผู้เป็นเจ้า",
+          "rationale": "Per divine_names_table_2026-05.md: יהוה → องค์พระผู้เป็นเจ้า."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 36:6",
+    "chapter": 36,
+    "verse": 6,
+    "language": "hebrew",
+    "hebrew": "וַיְצַ֣ו מֹשֶׁ֗ה וַיַּעֲבִ֨ירוּ ק֥וֹל בַּֽמַּחֲנֶה֮ לֵאמֹר֒ אִ֣ישׁ וְאִשָּׁ֗ה אַל־יַעֲשׂוּ־ע֛וֹד מְלָאכָ֖ה לִתְרוּמַ֣ת הַקֹּ֑דֶשׁ וַיִּכָּלֵ֥א הָעָ֖ם מֵהָבִֽיא׃",
+    "bsb_english": "After Moses had given an order, they sent a proclamation throughout the camp: “No man or woman should make anything else as an offering for the sanctuary.” So the people were restrained from bringing more,",
+    "translation": {
+      "thai": "หลังจากที่โมเสสได้ออกคำสั่ง พวกเขาก็ส่งคำประกาศไปทั่วค่ายว่า “อย่าให้ชายหรือหญิงทำสิ่งใดเพิ่มเติมเป็นของถวายสำหรับสถานนมัสการ” ดังนั้นชนชาตินั้นก็ถูกห้ามไม่ให้นำมาเพิ่ม",
+      "thai_literal": "และทรงบัญชาโมเสส และพวกเขาส่งเสียงในค่ายกล่าวว่า ชายและหญิง อย่าให้ทำยังคงการงานแก่ของถวายของบริสุทธิ์ และถูกห้ามชนชาติจากการนำมา",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "וַיִּכָּלֵא הָעָם מֵהָבִיא",
+          "thai": "ชนชาตินั้นก็ถูกห้ามไม่ให้นำมาเพิ่ม",
+          "rationale": "Per uW: כָּלָא (Niphal) ‘ถูกห้าม/ถูกยับยั้ง’ — สำนวนพิเศษที่ใช้สำหรับความใจกว้างที่เกินไป (เกือบประหลาดในประวัติศาสตร์อิสราเอล). NT echo: 2คร. 8:5 ‘พวกเขาให้เกินกว่าที่เราคาด’."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 36:7",
+    "chapter": 36,
+    "verse": 7,
+    "language": "hebrew",
+    "hebrew": "וְהַמְּלָאכָ֗ה הָיְתָ֥ה דַיָּ֛ם לְכָל־הַמְּלָאכָ֖ה לַעֲשׂ֣וֹת אֹתָ֑הּ וְהוֹתֵֽר׃ס",
+    "bsb_english": "since what they already had was more than enough to perform all the work.",
+    "translation": {
+      "thai": "เพราะสิ่งที่พวกเขามีอยู่แล้วมากเกินพอสำหรับทำงานทั้งหมด",
+      "thai_literal": "และของถวายเป็นพอของพวกเขาแก่ทั้งหมดของการงานเพื่อทำมัน และเหลือ",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 36:8",
+    "chapter": 36,
+    "verse": 8,
+    "language": "hebrew",
+    "hebrew": "וַיַּעֲשׂ֨וּ כָל־חֲכַם־לֵ֜ב בְּעֹשֵׂ֧י הַמְּלָאכָ֛ה אֶת־הַמִּשְׁכָּ֖ן עֶ֣שֶׂר יְרִיעֹ֑ת שֵׁ֣שׁ מָשְׁזָ֗ר וּתְכֵ֤לֶת וְאַרְגָּמָן֙ וְתוֹלַ֣עַת שָׁנִ֔י כְּרֻבִ֛ים מַעֲשֵׂ֥ה חֹשֵׁ֖ב עָשָׂ֥ה אֹתָֽם׃",
+    "bsb_english": "All the skilled craftsmen among the workmen made the ten curtains for the tabernacle. They were made of finely spun linen, as well as blue, purple, and scarlet yarn, with cherubim skillfully worked into them.",
+    "translation": {
+      "thai": "ช่างฝีมือทุกคนในหมู่คนงานทำม่านสิบผืนสำหรับพลับพลา ทำด้วยผ้าป่านปั่นเนื้อดี และด้ายสีฟ้า สีม่วง และสีแดงเข้ม โดยให้ช่างฝีมือถักรูปเครูบลงในผ้า",
+      "thai_literal": "และพวกเขาทำทั้งหมดของผู้มีปัญญาของใจในผู้ทำทั้งหลายของการงานซึ่งพลับพลาสิบม่านทั้งหลาย ผ้าป่านปั่นและสีฟ้าและสีม่วงและหนอนของสีแดง เครูบทั้งหลายงานของช่างฝีมือเขาทำพวกมัน",
+      "thai_summary": "**MIRRORS อพย. 26:1.** การก่อสร้างม่านชั้นใน — ดู อพย. 26:1–14 สำหรับคำสั่งเดิม.",
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 36:9",
+    "chapter": 36,
+    "verse": 9,
+    "language": "hebrew",
+    "hebrew": "אֹ֜רֶךְ הַיְרִיעָ֣ה הָֽאַחַ֗ת שְׁמֹנֶ֤ה וְעֶשְׂרִים֙ בָּֽאַמָּ֔ה וְרֹ֨חַב֙ אַרְבַּ֣ע בָּֽאַמָּ֔ה הַיְרִיעָ֖ה הָאֶחָ֑ת מִדָּ֥ה אַחַ֖ת לְכָל־הַיְרִיעֹֽת׃",
+    "bsb_english": "Each curtain was twenty-eight cubits long and four cubits wide; all the curtains were the same size.",
+    "translation": {
+      "thai": "ม่านแต่ละผืนยาว 28 ศอกและกว้าง 4 ศอก — ม่านทุกผืนขนาดเดียวกัน",
+      "thai_literal": "ความยาวของม่านหนึ่ง ยี่สิบแปดในศอก และความกว้างสี่ในศอก ม่านหนึ่ง ขนาดหนึ่งแก่ทั้งหมดของม่านทั้งหลาย",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 36:10",
+    "chapter": 36,
+    "verse": 10,
+    "language": "hebrew",
+    "hebrew": "וַיְחַבֵּר֙ אֶת־חֲמֵ֣שׁ הַיְרִיעֹ֔ת אַחַ֖ת אֶל־אֶחָ֑ת וְחָמֵ֤שׁ יְרִיעֹת֙ חִבַּ֔ר אַחַ֖ת אֶל־אֶחָֽת׃",
+    "bsb_english": "And he joined five of the curtains together, and the other five he joined as well.",
+    "translation": {
+      "thai": "เขาต่อม่านห้าผืนเข้าด้วยกัน และอีกห้าผืนต่อกันเช่นเดียวกัน",
+      "thai_literal": "และเขาต่อซึ่งห้าของม่านทั้งหลาย หนึ่งกับหนึ่ง และห้าม่านทั้งหลายเขาต่อ หนึ่งกับหนึ่ง",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 36:11",
+    "chapter": 36,
+    "verse": 11,
+    "language": "hebrew",
+    "hebrew": "וַיַּ֜עַשׂ לֻֽלְאֹ֣ת תְּכֵ֗לֶת עַ֣ל שְׂפַ֤ת הַיְרִיעָה֙ הָֽאֶחָ֔ת מִקָּצָ֖ה בַּמַּחְבָּ֑רֶת כֵּ֤ן עָשָׂה֙ בִּשְׂפַ֣ת הַיְרִיעָ֔ה הַקִּ֣יצוֹנָ֔ה בַּמַּחְבֶּ֖רֶת הַשֵּׁנִֽית׃",
+    "bsb_english": "He made loops of blue material on the edge of the end curtain in the first set, and also on the end curtain in the second set.",
+    "translation": {
+      "thai": "เขาทำหูคล้องด้วยผ้าสีฟ้าที่ขอบม่านปลายของชุดแรก และทำเช่นเดียวกันที่ขอบม่านปลายของชุดที่สอง",
+      "thai_literal": "และเขาทำหูคล้องทั้งหลายสีฟ้าบนขอบของม่านหนึ่ง จากปลายในการต่อกัน ดังนั้นเขาทำในขอบของม่านที่ขอบนอกในการต่อที่สอง",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 36:12",
+    "chapter": 36,
+    "verse": 12,
+    "language": "hebrew",
+    "hebrew": "חֲמִשִּׁ֣ים לֻלָאֹ֗ת עָשָׂה֮ בַּיְרִיעָ֣ה הָאֶחָת֒ וַחֲמִשִּׁ֣ים לֻלָאֹ֗ת עָשָׂה֙ בִּקְצֵ֣ה הַיְרִיעָ֔ה אֲשֶׁ֖ר בַּמַּחְבֶּ֣רֶת הַשֵּׁנִ֑ית מַקְבִּילֹת֙ הַלֻּ֣לָאֹ֔ת אַחַ֖ת אֶל־אֶחָֽת׃",
+    "bsb_english": "He made fifty loops on one curtain and fifty loops on the end curtain of the second set, so that the loops lined up opposite one another.",
+    "translation": {
+      "thai": "เขาทำหูคล้อง 50 หูบนม่านหนึ่งผืน และ 50 หูบนม่านปลายของชุดที่สอง เพื่อให้หูคล้องตรงกันหน้าต่อหน้า",
+      "thai_literal": "ห้าสิบหูคล้องทั้งหลายเขาทำในม่านหนึ่ง และห้าสิบหูคล้องทั้งหลายเขาทำในปลายของม่านที่ในการต่อที่สอง ตรงกันข้ามหูคล้องทั้งหลาย หนึ่งกับหนึ่ง",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 36:13",
+    "chapter": 36,
+    "verse": 13,
+    "language": "hebrew",
+    "hebrew": "וַיַּ֕עַשׂ חֲמִשִּׁ֖ים קַרְסֵ֣י זָהָ֑ב וַיְחַבֵּ֨ר אֶת־הַיְרִעֹ֜ת אַחַ֤ת אֶל־אַחַת֙ בַּקְּרָסִ֔ים וַֽיְהִ֥י הַמִּשְׁכָּ֖ן אֶחָֽד׃ס",
+    "bsb_english": "He also made fifty gold clasps to join the curtains together, so that the tabernacle was a unit.",
+    "translation": {
+      "thai": "เขายังทำขอทอง 50 ขอเพื่อต่อม่านเข้าด้วยกัน เพื่อให้พลับพลาเป็นหน่วยเดียวกัน",
+      "thai_literal": "และเขาทำห้าสิบขอทั้งหลายของทอง และเขาต่อซึ่งม่านทั้งหลายหนึ่งกับหนึ่งในขอทั้งหลาย และเป็นพลับพลาหนึ่ง",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 36:14",
+    "chapter": 36,
+    "verse": 14,
+    "language": "hebrew",
+    "hebrew": "וַיַּ֨עַשׂ֙ יְרִיעֹ֣ת עִזִּ֔ים לְאֹ֖הֶל עַל־הַמִּשְׁכָּ֑ן עַשְׁתֵּֽי־עֶשְׂרֵ֥ה יְרִיעֹ֖ת עָשָׂ֥ה אֹתָֽם׃",
+    "bsb_english": "He then made curtains of goat hair for the tent over the tabernacle—eleven curtains in all.",
+    "translation": {
+      "thai": "แล้วเขาทำม่านขนแพะสำหรับเต็นท์ที่คลุมพลับพลา รวม 11 ผืน",
+      "thai_literal": "และเขาทำม่านทั้งหลายของแพะทั้งหลายแก่เต็นท์บนพลับพลา สิบเอ็ดม่านทั้งหลายเขาทำพวกมัน",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 36:15",
+    "chapter": 36,
+    "verse": 15,
+    "language": "hebrew",
+    "hebrew": "אֹ֜רֶךְ הַיְרִיעָ֣ה הָאַחַ֗ת שְׁלֹשִׁים֙ בָּֽאַמָּ֔ה וְאַרְבַּ֣ע אַמּ֔וֹת רֹ֖חַב הַיְרִיעָ֣ה הָאֶחָ֑ת מִדָּ֣ה אַחַ֔ת לְעַשְׁתֵּ֥י עֶשְׂרֵ֖ה יְרִיעֹֽת׃",
+    "bsb_english": "Each of the eleven curtains was the same size—thirty cubits long and four cubits wide.",
+    "translation": {
+      "thai": "ม่าน 11 ผืนแต่ละผืนมีขนาดเท่ากัน ยาว 30 ศอกและกว้าง 4 ศอก",
+      "thai_literal": "ความยาวของม่านหนึ่ง สามสิบในศอก และสี่ศอกทั้งหลายความกว้างของม่านหนึ่ง ขนาดหนึ่งแก่สิบเอ็ดม่านทั้งหลาย",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "מִדָּה אַחַת לְעַשְׁתֵּי עֶשְׂרֵה יְרִיעֹת",
+          "thai": "ม่าน 11 ผืนแต่ละผืนมีขนาดเท่ากัน",
+          "rationale": "Per uW: รูปฮีบรู ‘ขนาดหนึ่งแก่สิบเอ็ดม่าน’ — สำนวนของฮีบรูที่แปลเป็นไทยอย่างเป็นธรรมชาติว่า ‘ทั้ง 11 ผืนมีขนาดเท่ากัน’."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 36:16",
+    "chapter": 36,
+    "verse": 16,
+    "language": "hebrew",
+    "hebrew": "וַיְחַבֵּ֛ר אֶת־חֲמֵ֥שׁ הַיְרִיעֹ֖ת לְבָ֑ד וְאֶת־שֵׁ֥שׁ הַיְרִיעֹ֖ת לְבָֽד׃",
+    "bsb_english": "He joined five of the curtains into one set and the other six into another.",
+    "translation": {
+      "thai": "เขาต่อม่าน 5 ผืนเป็นชุดหนึ่ง และอีก 6 ผืนเป็นอีกชุดหนึ่ง",
+      "thai_literal": "และเขาต่อซึ่งห้าของม่านทั้งหลายแยก และซึ่งหกของม่านทั้งหลายแยก",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 36:17",
+    "chapter": 36,
+    "verse": 17,
+    "language": "hebrew",
+    "hebrew": "וַיַּ֜עַשׂ לֻֽלָאֹ֣ת חֲמִשִּׁ֗ים עַ֚ל שְׂפַ֣ת הַיְרִיעָ֔ה הַקִּיצֹנָ֖ה בַּמַּחְבָּ֑רֶת וַחֲמִשִּׁ֣ים לֻלָאֹ֗ת עָשָׂה֙ עַל־שְׂפַ֣ת הַיְרִיעָ֔ה הַחֹבֶ֖רֶת הַשֵּׁנִֽית׃",
+    "bsb_english": "He made fifty loops along the edge of the end curtain in the first set, and fifty loops along the edge of the corresponding curtain in the second set.",
+    "translation": {
+      "thai": "เขาทำหูคล้อง 50 หูตามขอบม่านปลายของชุดแรก และอีก 50 หูตามขอบม่านที่ตรงกันของชุดที่สอง",
+      "thai_literal": "และเขาทำหูคล้องทั้งหลายห้าสิบบนขอบของม่านที่ขอบนอกในการต่อกัน และห้าสิบหูคล้องทั้งหลายเขาทำบนขอบของม่านที่ต่อที่สอง",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 36:18",
+    "chapter": 36,
+    "verse": 18,
+    "language": "hebrew",
+    "hebrew": "וַיַּ֛עַשׂ קַרְסֵ֥י נְחֹ֖שֶׁת חֲמִשִּׁ֑ים לְחַבֵּ֥ר אֶת־הָאֹ֖הֶל לִֽהְיֹ֥ת אֶחָֽד׃",
+    "bsb_english": "He also made fifty bronze clasps to join the tent together as a unit.",
+    "translation": {
+      "thai": "เขายังทำขอทองสัมฤทธิ์ 50 ขอเพื่อต่อเต็นท์เข้าด้วยกันเป็นหน่วยเดียว",
+      "thai_literal": "และเขาทำขอทั้งหลายของทองสัมฤทธิ์ห้าสิบ เพื่อต่อซึ่งเต็นท์เพื่อเป็นหนึ่ง",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 36:19",
+    "chapter": 36,
+    "verse": 19,
+    "language": "hebrew",
+    "hebrew": "וַיַּ֤עַשׂ מִכְסֶה֙ לָאֹ֔הֶל עֹרֹ֥ת אֵלִ֖ים מְאָדָּמִ֑ים וּמִכְסֵ֛ה עֹרֹ֥ת תְּחָשִׁ֖ים מִלְמָֽעְלָה׃ס",
+    "bsb_english": "Additionally, he made for the tent a covering of ram skins dyed red, and over that a covering of fine leather.",
+    "translation": {
+      "thai": "นอกจากนี้ เขายังทำเครื่องคลุมสำหรับเต็นท์ด้วยหนังแกะย้อมสีแดง และคลุมเหนือนั้นด้วยหนังคุณภาพดี",
+      "thai_literal": "และเขาทำเครื่องคลุมแก่เต็นท์หนังทั้งหลายของแกะทั้งหลายย้อมสีแดงทั้งหลาย และเครื่องคลุมหนังทั้งหลายของสัตว์น้ำจากเบื้องบน",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 36:20",
+    "chapter": 36,
+    "verse": 20,
+    "language": "hebrew",
+    "hebrew": "וַיַּ֥עַשׂ אֶת־הַקְּרָשִׁ֖ים לַמִּשְׁכָּ֑ן עֲצֵ֥י שִׁטִּ֖ים עֹמְדִֽים׃",
+    "bsb_english": "Next, he constructed upright frames of acacia wood for the tabernacle.",
+    "translation": {
+      "thai": "ต่อไป เขาสร้างกรอบไม้กระถินเทศตั้งขึ้นสำหรับพลับพลา",
+      "thai_literal": "และเขาทำซึ่งกรอบทั้งหลายแก่พลับพลา ไม้ทั้งหลายของกระถินเทศที่ยืน",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 36:21",
+    "chapter": 36,
+    "verse": 21,
+    "language": "hebrew",
+    "hebrew": "עֶ֥שֶׂר אַמֹּ֖ת אֹ֣רֶךְ הַקָּ֑רֶשׁ וְאַמָּה֙ וַחֲצִ֣י הָֽאַמָּ֔ה רֹ֖חַב הַקֶּ֥רֶשׁ הָאֶחָֽד׃",
+    "bsb_english": "Each frame was ten cubits long and a cubit and a half wide.",
+    "translation": {
+      "thai": "กรอบแต่ละอันยาว 10 ศอกและกว้าง 1 ศอกครึ่ง",
+      "thai_literal": "สิบศอกทั้งหลายความยาวของกรอบ และศอกและครึ่งของศอกความกว้างของกรอบหนึ่ง",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 36:22",
+    "chapter": 36,
+    "verse": 22,
+    "language": "hebrew",
+    "hebrew": "שְׁתֵּ֣י יָדֹ֗ת לַקֶּ֨רֶשׁ֙ הָֽאֶחָ֔ד מְשֻׁלָּבֹ֔ת אַחַ֖ת אֶל־אֶחָ֑ת כֵּ֣ן עָשָׂ֔ה לְכֹ֖ל קַרְשֵׁ֥י הַמִּשְׁכָּֽן׃",
+    "bsb_english": "Two tenons were connected to each other for each frame. He made all the frames of the tabernacle in this way.",
+    "translation": {
+      "thai": "เดือยสองอันต่อกันสำหรับกรอบแต่ละอัน เขาทำกรอบทั้งหมดของพลับพลาด้วยวิธีนี้",
+      "thai_literal": "สองเดือยทั้งหลายแก่กรอบหนึ่ง ที่ต่อกัน หนึ่งกับหนึ่ง ดังนั้นเขาทำแก่ทั้งหมดของกรอบทั้งหลายของพลับพลา",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 36:23",
+    "chapter": 36,
+    "verse": 23,
+    "language": "hebrew",
+    "hebrew": "וַיַּ֥עַשׂ אֶת־הַקְּרָשִׁ֖ים לַמִּשְׁכָּ֑ן עֶשְׂרִ֣ים קְרָשִׁ֔ים לִפְאַ֖ת נֶ֥גֶב תֵּימָֽנָה׃",
+    "bsb_english": "He constructed twenty frames for the south side of the tabernacle,",
+    "translation": {
+      "thai": "เขาสร้างกรอบ 20 อันสำหรับด้านใต้ของพลับพลา",
+      "thai_literal": "และเขาทำซึ่งกรอบทั้งหลายแก่พลับพลา ยี่สิบกรอบทั้งหลายแก่ด้านทิศใต้ทิศใต้",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 36:24",
+    "chapter": 36,
+    "verse": 24,
+    "language": "hebrew",
+    "hebrew": "וְאַרְבָּעִים֙ אַדְנֵי־כֶ֔סֶף עָשָׂ֕ה תַּ֖חַת עֶשְׂרִ֣ים הַקְּרָשִׁ֑ים שְׁנֵ֨י אֲדָנִ֜ים תַּֽחַת־הַקֶּ֤רֶשׁ הָאֶחָד֙ לִשְׁתֵּ֣י יְדֹתָ֔יו וּשְׁנֵ֧י אֲדָנִ֛ים תַּֽחַת־הַקֶּ֥רֶשׁ הָאֶחָ֖ד לִשְׁתֵּ֥י יְדֹתָֽיו׃",
+    "bsb_english": "with forty silver bases to put under the twenty frames—two bases for each frame, one under each tenon.",
+    "translation": {
+      "thai": "พร้อมฐานเงิน 40 อันใต้กรอบ 20 อัน — สองฐานสำหรับแต่ละกรอบ หนึ่งใต้เดือยแต่ละอัน",
+      "thai_literal": "และสี่สิบฐานทั้งหลายของเงินเขาทำใต้ยี่สิบของกรอบทั้งหลาย สองฐานทั้งหลายใต้กรอบหนึ่งแก่สองเดือยทั้งหลายของมัน และสองฐานทั้งหลายใต้กรอบหนึ่งแก่สองเดือยทั้งหลายของมัน",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 36:25",
+    "chapter": 36,
+    "verse": 25,
+    "language": "hebrew",
+    "hebrew": "וּלְצֶ֧לַע הַמִּשְׁכָּ֛ן הַשֵּׁנִ֖ית לִפְאַ֣ת צָפ֑וֹן עָשָׂ֖ה עֶשְׂרִ֥ים קְרָשִֽׁים׃",
+    "bsb_english": "For the second side of the tabernacle, the north side, he made twenty frames",
+    "translation": {
+      "thai": "สำหรับด้านที่สองของพลับพลา ด้านทิศเหนือ เขาทำกรอบ 20 อัน",
+      "thai_literal": "และแก่ข้างของพลับพลาที่สองแก่ด้านทิศเหนือ เขาทำยี่สิบกรอบทั้งหลาย",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 36:26",
+    "chapter": 36,
+    "verse": 26,
+    "language": "hebrew",
+    "hebrew": "וְאַרְבָּעִ֥ים אַדְנֵיהֶ֖ם כָּ֑סֶף שְׁנֵ֣י אֲדָנִ֗ים תַּ֚חַת הַקֶּ֣רֶשׁ הָאֶחָ֔ד וּשְׁנֵ֣י אֲדָנִ֔ים תַּ֖חַת הַקֶּ֥רֶשׁ הָאֶחָֽד׃",
+    "bsb_english": "and forty silver bases—two bases under each frame.",
+    "translation": {
+      "thai": "และฐานเงิน 40 อัน — สองฐานใต้กรอบแต่ละอัน",
+      "thai_literal": "และสี่สิบฐานทั้งหลายของพวกมันเงิน สองฐานทั้งหลายใต้กรอบหนึ่ง และสองฐานทั้งหลายใต้กรอบหนึ่ง",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 36:27",
+    "chapter": 36,
+    "verse": 27,
+    "language": "hebrew",
+    "hebrew": "וּֽלְיַרְכְּתֵ֥י הַמִּשְׁכָּ֖ן יָ֑מָּה עָשָׂ֖ה שִׁשָּׁ֥ה קְרָשִֽׁים׃",
+    "bsb_english": "He made six frames for the rear of the tabernacle, the west side,",
+    "translation": {
+      "thai": "เขาทำกรอบ 6 อันสำหรับด้านหลังของพลับพลา ด้านทิศตะวันตก",
+      "thai_literal": "และแก่ด้านหลังทั้งหลายของพลับพลาทิศตะวันตก เขาทำหกกรอบทั้งหลาย",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 36:28",
+    "chapter": 36,
+    "verse": 28,
+    "language": "hebrew",
+    "hebrew": "וּשְׁנֵ֤י קְרָשִׁים֙ עָשָׂ֔ה לִמְקֻצְעֹ֖ת הַמִּשְׁכָּ֑ן בַּיַּרְכָתָֽיִם׃",
+    "bsb_english": "and two frames for the two back corners of the tabernacle,",
+    "translation": {
+      "thai": "และกรอบ 2 อันสำหรับมุมทั้งสองด้านหลังของพลับพลา",
+      "thai_literal": "และสองกรอบทั้งหลายเขาทำแก่มุมทั้งหลายของพลับพลาในข้างหลังทั้งหลาย",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 36:29",
+    "chapter": 36,
+    "verse": 29,
+    "language": "hebrew",
+    "hebrew": "וְהָי֣וּ תוֹאֲמִם֮ מִלְּמַטָּה֒ וְיַחְדָּ֗ו יִהְי֤וּ תַמִּים֙ אֶל־רֹאשׁ֔וֹ אֶל־הַטַּבַּ֖עַת הָאֶחָ֑ת כֵּ֚ן עָשָׂ֣ה לִשְׁנֵיהֶ֔ם לִשְׁנֵ֖י הַמִּקְצֹעֹֽת׃",
+    "bsb_english": "coupled together from bottom to top and fitted into a single ring. He made both corners in this way.",
+    "translation": {
+      "thai": "ต่อกันจากล่างถึงบน และประกอบกันเข้าในห่วงเดียว เขาทำมุมทั้งสองด้วยวิธีนี้",
+      "thai_literal": "และเป็นต่อกันจากล่าง และร่วมกันเป็นสมบูรณ์แก่หัวของมัน แก่ห่วงหนึ่ง ดังนั้นเขาทำแก่สองของพวกมัน แก่สองมุมทั้งหลาย",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 36:30",
+    "chapter": 36,
+    "verse": 30,
+    "language": "hebrew",
+    "hebrew": "וְהָיוּ֙ שְׁמֹנָ֣ה קְרָשִׁ֔ים וְאַדְנֵיהֶ֣ם כֶּ֔סֶף שִׁשָּׁ֥ה עָשָׂ֖ר אֲדָנִ֑ים שְׁנֵ֤י אֲדָנִים֙ שְׁנֵ֣י אֲדָנִ֔ים תַּ֖חַת הַקֶּ֥רֶשׁ הָאֶחָֽד׃",
+    "bsb_english": "So there were eight frames and sixteen silver bases—two under each frame.",
+    "translation": {
+      "thai": "ดังนั้นจึงมีกรอบ 8 อันและฐานเงิน 16 อัน — สองอันใต้แต่ละกรอบ",
+      "thai_literal": "และเป็นแปดกรอบทั้งหลาย และฐานทั้งหลายของพวกมันเงิน สิบหกฐานทั้งหลาย สองฐานทั้งหลาย สองฐานทั้งหลายใต้กรอบหนึ่ง",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 36:31",
+    "chapter": 36,
+    "verse": 31,
+    "language": "hebrew",
+    "hebrew": "וַיַּ֥עַשׂ בְּרִיחֵ֖י עֲצֵ֣י שִׁטִּ֑ים חֲמִשָּׁ֕ה לְקַרְשֵׁ֥י צֶֽלַע־הַמִּשְׁכָּ֖ן הָאֶחָֽת׃",
+    "bsb_english": "He also made five crossbars of acacia wood for the frames on one side of the tabernacle,",
+    "translation": {
+      "thai": "เขายังทำคานขวาง 5 อันด้วยไม้กระถินเทศสำหรับกรอบด้านหนึ่งของพลับพลา",
+      "thai_literal": "และเขาทำคานขวางทั้งหลายของไม้ทั้งหลายของกระถินเทศ ห้าแก่กรอบทั้งหลายของข้างของพลับพลาหนึ่ง",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 36:32",
+    "chapter": 36,
+    "verse": 32,
+    "language": "hebrew",
+    "hebrew": "וַחֲמִשָּׁ֣ה בְרִיחִ֔ם לְקַרְשֵׁ֥י צֶֽלַע־הַמִּשְׁכָּ֖ן הַשֵּׁנִ֑ית וַחֲמִשָּׁ֤ה בְרִיחִם֙ לְקַרְשֵׁ֣י הַמִּשְׁכָּ֔ן לַיַּרְכָתַ֖יִם יָֽמָּה׃",
+    "bsb_english": "five for those on the other side, and five for those on the rear side of the tabernacle, to the west.",
+    "translation": {
+      "thai": "5 อันสำหรับกรอบอีกด้านหนึ่ง และ 5 อันสำหรับกรอบด้านหลังของพลับพลา ทิศตะวันตก",
+      "thai_literal": "และห้าคานขวางทั้งหลายแก่กรอบทั้งหลายของข้างของพลับพลาที่สอง และห้าคานขวางทั้งหลายแก่กรอบทั้งหลายของพลับพลาแก่ด้านหลังทั้งหลายทิศตะวันตก",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 36:33",
+    "chapter": 36,
+    "verse": 33,
+    "language": "hebrew",
+    "hebrew": "וַיַּ֖עַשׂ אֶת־הַבְּרִ֣יחַ הַתִּיכֹ֑ן לִבְרֹ֨חַ֙ בְּת֣וֹךְ הַקְּרָשִׁ֔ים מִן־הַקָּצֶ֖ה אֶל־הַקָּצֶֽה׃",
+    "bsb_english": "He made the central crossbar to run through the center of the frames, from one end to the other.",
+    "translation": {
+      "thai": "เขาทำคานขวางตรงกลางให้พาดผ่านกลางกรอบจากปลายหนึ่งถึงอีกปลายหนึ่ง",
+      "thai_literal": "และเขาทำซึ่งคานขวางตรงกลาง เพื่อพาดในกลางของกรอบทั้งหลาย จากปลายแก่ปลาย",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 36:34",
+    "chapter": 36,
+    "verse": 34,
+    "language": "hebrew",
+    "hebrew": "וְֽאֶת־הַקְּרָשִׁ֞ים צִפָּ֣ה זָהָ֗ב וְאֶת־טַבְּעֹתָם֙ עָשָׂ֣ה זָהָ֔ב בָּתִּ֖ים לַבְּרִיחִ֑ם וַיְצַ֥ף אֶת־הַבְּרִיחִ֖ם זָהָֽב׃",
+    "bsb_english": "And he overlaid the frames with gold and made gold rings to hold the crossbars. He also overlaid the crossbars with gold.",
+    "translation": {
+      "thai": "เขาหุ้มกรอบด้วยทองและทำห่วงทองให้ยึดคานขวาง และหุ้มคานขวางด้วยทองด้วย",
+      "thai_literal": "และซึ่งกรอบทั้งหลายเขาหุ้มทอง และซึ่งห่วงทั้งหลายของพวกมันเขาทำทอง ที่ทั้งหลายแก่คานขวางทั้งหลาย และเขาหุ้มซึ่งคานขวางทั้งหลายทอง",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 36:35",
+    "chapter": 36,
+    "verse": 35,
+    "language": "hebrew",
+    "hebrew": "וַיַּ֨עַשׂ֙ אֶת־הַפָּרֹ֔כֶת תְּכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י וְשֵׁ֣שׁ מָשְׁזָ֑ר מַעֲשֵׂ֥ה חֹשֵׁ֛ב עָשָׂ֥ה אֹתָ֖הּ כְּרֻבִֽים׃",
+    "bsb_english": "Next, he made the veil of blue, purple, and scarlet yarn, and finely spun linen, with cherubim skillfully worked into it.",
+    "translation": {
+      "thai": "ต่อไป เขาทำม่านกั้นด้วยด้ายสีฟ้า สีม่วง และสีแดงเข้ม และผ้าป่านปั่นเนื้อดี โดยให้ช่างฝีมือถักรูปเครูบลงในผ้า",
+      "thai_literal": "และเขาทำซึ่งม่านกั้นสีฟ้าและสีม่วงและหนอนของสีแดงและผ้าป่านปั่น งานของช่างฝีมือเขาทำเธอ เครูบทั้งหลาย",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 36:36",
+    "chapter": 36,
+    "verse": 36,
+    "language": "hebrew",
+    "hebrew": "וַיַּ֣עַשׂ לָ֗הּ אַרְבָּעָה֙ עַמּוּדֵ֣י שִׁטִּ֔ים וַיְצַפֵּ֣ם זָהָ֔ב וָוֵיהֶ֖ם זָהָ֑ב וַיִּצֹ֣ק לָהֶ֔ם אַרְבָּעָ֖ה אַדְנֵי־כָֽסֶף׃",
+    "bsb_english": "He also made four posts of acacia wood for it and overlaid them with gold, along with gold hooks; and he cast four silver bases for the posts.",
+    "translation": {
+      "thai": "เขายังทำเสาไม้กระถินเทศ 4 ต้นและหุ้มด้วยทอง พร้อมตะขอทอง และหล่อฐานเงิน 4 ฐานสำหรับเสา",
+      "thai_literal": "และเขาทำแก่เธอสี่เสาทั้งหลายของกระถินเทศ และเขาหุ้มพวกมันทอง ตะขอทั้งหลายของพวกมันทอง และเขาหล่อแก่พวกมันสี่ฐานทั้งหลายของเงิน",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 36:37",
+    "chapter": 36,
+    "verse": 37,
+    "language": "hebrew",
+    "hebrew": "וַיַּ֤עַשׂ מָסָךְ֙ לְפֶ֣תַח הָאֹ֔הֶל תְּכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י וְשֵׁ֣שׁ מָשְׁזָ֑ר מַעֲשֵׂ֖ה רֹקֵֽם׃",
+    "bsb_english": "For the entrance to the tent, he made a curtain embroidered with blue, purple, and scarlet yarn, and finely spun linen,",
+    "translation": {
+      "thai": "สำหรับทางเข้าเต็นท์ เขาทำม่านปักด้วยด้ายสีฟ้า สีม่วง และสีแดงเข้ม และผ้าป่านปั่นเนื้อดี",
+      "thai_literal": "และเขาทำม่านแก่ทางเข้าของเต็นท์ สีฟ้าและสีม่วงและหนอนของสีแดงและผ้าป่านปั่น งานของช่างปัก",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Exodus 36:38",
+    "chapter": 36,
+    "verse": 38,
+    "language": "hebrew",
+    "hebrew": "וְאֶת־עַמּוּדָ֤יו חֲמִשָּׁה֙ וְאֶת־וָ֣וֵיהֶ֔ם וְצִפָּ֧ה רָאשֵׁיהֶ֛ם וַחֲשֻׁקֵיהֶ֖ם זָהָ֑ב וְאַדְנֵיהֶ֥ם חֲמִשָּׁ֖ה נְחֹֽשֶׁת׃פ",
+    "bsb_english": "together with five posts and their hooks. He overlaid the tops of the posts and their bands with gold, and their five bases were bronze.",
+    "translation": {
+      "thai": "พร้อมเสา 5 ต้นและตะขอ เขาหุ้มยอดของเสาและแถบด้วยทอง และฐาน 5 ฐานของเสาทำด้วยทองสัมฤทธิ์",
+      "thai_literal": "และซึ่งเสาทั้งหลายของมันห้า และซึ่งตะขอทั้งหลายของพวกมัน และเขาหุ้มหัวทั้งหลายของพวกมันและแถบทั้งหลายของพวกมันทอง และฐานทั้งหลายของพวกมันห้าทองสัมฤทธิ์",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  }
+]
