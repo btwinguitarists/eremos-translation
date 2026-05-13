@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-05-13 03:44:48 UTC_
-_Total chapters: 358 · Total verses: 10821_
+_Generated: 2026-05-13 06:50:28 UTC_
+_Total chapters: 359 · Total verses: 10875_
 
 ## How to verify a chapter
 
@@ -121,7 +121,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/ephesians_06.json` | 24 | `44808c304430c79a62af207a9332620ec1c006775237edd8976b4205746f76b4` | `b64d487` |
 | `output/translations/exodus_01.json` | 22 | `b871454c4bd1d3b10d4d2fd96e048377b6992d5e5c789bb25b7ab45a3517fe25` | `e1f3afd` |
 | `output/translations/exodus_02.json` | 25 | `6c90c9dde7d81adc9a7e3670b01e3bc1cf1537847663c4330cc07d8aaa0bfef1` | `ffb7479` |
-| `output/translations/exodus_03.json` | 22 | `5c3146220881116c78f84c73675a3815b8a8944611b9d31d3e2eefc551b22f30` | `3d51a2a` |
+| `output/translations/exodus_03.json` | 22 | `5c3146220881116c78f84c73675a3815b8a8944611b9d31d3e2eefc551b22f30` | `a8835f6` |
 | `output/translations/exodus_04.json` | 31 | `1aef1e11a1029e91a3d778f050b0be66849a5be13b86b33ccac3d7c87c226ef9` | `b4672ec` |
 | `output/translations/exodus_05.json` | 23 | `5260c3b04aabb654d6a3dea8f77d14e62b9eb3939018e1f3202bb0a3c1a32453` | `86b4fa0` |
 | `output/translations/exodus_06.json` | 30 | `a8a595eb9d36bb4355de1b93bb594705604a74f5042303f89276d299373342b6` | `7bc48e4` |
@@ -132,10 +132,10 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/exodus_11.json` | 10 | `e940f59a0fdf63bddeb633f92b7046f2059e3d535f50dea3e2122636ede46455` | `d13403c` |
 | `output/translations/exodus_12.json` | 51 | `5577e86d763becc64157e4e02c0f838591629c4083e0db9db80b46b4435292a2` | `341cd8a` |
 | `output/translations/exodus_13.json` | 22 | `fa8d33a7690942da374adb78b1a71542d7b79be08cdb1a714785eccebae61c31` | `a12a8be` |
-| `output/translations/exodus_14.json` | 31 | `c9c026f1465eb83ed2efdf0c59f9ac05e9caec5beeac7b2d69d0b4b7b478a3d1` | `89b2bcb` |
+| `output/translations/exodus_14.json` | 31 | `c9c026f1465eb83ed2efdf0c59f9ac05e9caec5beeac7b2d69d0b4b7b478a3d1` | `a8835f6` |
 | `output/translations/exodus_15.json` | 27 | `3648ba6b52d1b0612f8a0162bda60e5558b285aa9aa2e33308c743ec9cdbb6a7` | `c3316d8` |
 | `output/translations/exodus_16.json` | 36 | `e7988557b77d1531658689ed0534461257ab3c2418b59b7a0377487515abb80b` | `a624dba` |
-| `output/translations/exodus_17.json` | 16 | `a7087c819a9eedd31425d5b809e5e535ea6b2ecce8abed12be2e0cf5f8efae72` | `b7b8e39` |
+| `output/translations/exodus_17.json` | 16 | `a7087c819a9eedd31425d5b809e5e535ea6b2ecce8abed12be2e0cf5f8efae72` | `a8835f6` |
 | `output/translations/exodus_18.json` | 27 | `f39f37aeb676b89cb36766120c1aa3979a6a34619312b527b8b41aab02818abd` | `a348f4c` |
 | `output/translations/exodus_19.json` | 25 | `dcae28da4f7ec18869451def433476a007bc2e2935085a12c0eec36f80d6496c` | `157205c` |
 | `output/translations/exodus_20.json` | 26 | `1e85e882082778973b0e825e0df0bfcb096d771e035cbcc68464f14c29126361` | `5366c0b` |
@@ -150,15 +150,15 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/exodus_29.json` | 46 | `f310847533a15b7ed483ccd0c473635b496744f3cd621349ae71f2fa68f762b0` | `04802d4` |
 | `output/translations/exodus_30.json` | 38 | `4ec22f38ec46e35f7d65e5efd4ad2f9149bf7b275fe6911b67061efdc8a9a064` | `1a4178c` |
 | `output/translations/exodus_31.json` | 18 | `624608e283919aae5ea638180f092423fcb5da14be12e2f259e0722da7482872` | `a5346c2` |
-| `output/translations/exodus_32.json` | 35 | `073e2de0fbe8aa649fe1431e2764b246e9b2262e900d22b14933343a0834dfed` | `cdf12ef` |
-| `output/translations/exodus_33.json` | 23 | `7809ad95a69858671361beff7a2fbe0b6956172aab7ce6790c4e9e3c4e3e3b43` | `a154f36` |
-| `output/translations/exodus_34.json` | 35 | `b4793514d7a1ce4c9d808002a099b71b7f6a6c1f6c0e5f43812cbb7b4de2c631` | `45938b8` |
+| `output/translations/exodus_32.json` | 35 | `073e2de0fbe8aa649fe1431e2764b246e9b2262e900d22b14933343a0834dfed` | `a8835f6` |
+| `output/translations/exodus_33.json` | 23 | `7809ad95a69858671361beff7a2fbe0b6956172aab7ce6790c4e9e3c4e3e3b43` | `a8835f6` |
+| `output/translations/exodus_34.json` | 35 | `b4793514d7a1ce4c9d808002a099b71b7f6a6c1f6c0e5f43812cbb7b4de2c631` | `a8835f6` |
 | `output/translations/exodus_35.json` | 35 | `d5c92fb39afa42e8957de03fd16963a5b69ca33ccc40a775d7d1c84699791ef7` | `c04d761` |
 | `output/translations/exodus_36.json` | 38 | `1b5fa06e97bf6fe1d574ec7690ae23b7352a7c746f082420654d544cca595166` | `61f796a` |
 | `output/translations/exodus_37.json` | 29 | `99f2b2e17414597cc9934fd31b268a7fe9b2f39321ab97d9fc37044db67b8b35` | `68bce23` |
 | `output/translations/exodus_38.json` | 31 | `159ad07b2d5e0642e00ac8fa434c2d74f5c599f7d7903c48622b2958f2ee8f28` | `b56d99d` |
 | `output/translations/exodus_39.json` | 43 | `39dfa59113d9094db7d3f4f45661390b51a7124760413982b02088a6297b7cb4` | `b82fe01` |
-| `output/translations/exodus_40.json` | 38 | `bc43aa99c5f90503e06f29e46a980b3ed3e37ed4c5b49427b845cdec1f790d74` | `c6e5839` |
+| `output/translations/exodus_40.json` | 38 | `bc43aa99c5f90503e06f29e46a980b3ed3e37ed4c5b49427b845cdec1f790d74` | `a8835f6` |
 | `output/translations/galatians_01.json` | 24 | `035ddedcfa78dc62c0b92157bf4994621fc83013e47dddcd19e7c6dc72898a9b` | `7e99948` |
 | `output/translations/galatians_02.json` | 21 | `ef020b08541758508e9a1f2f037cacbe28d8a2ac6cb0f25e7dc1990b4b880083` | `cf6bd38` |
 | `output/translations/galatians_03.json` | 29 | `f801401758fdf4a581484ea509024725a3a4242acb42624cac27a998b6894fa4` | `fcff53c` |
@@ -327,6 +327,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/matthew_26.json` | 75 | `d4aae1cfd129168927958ea2498c9499206a6ae0b0811f2b36eef24a000940cc` | `b64d487` |
 | `output/translations/matthew_27.json` | 66 | `ede80c0f042b5e0c0e3fd315a0d79755083465fb618d7e121d749e2a283d9a1c` | `b64d487` |
 | `output/translations/matthew_28.json` | 20 | `08b0d3ac30a8cd650af17b3745333beb29228308b6429b951f984b5a845c843b` | `6d15bb1` |
+| `output/translations/numbers_01.json` | 54 | `2ccd9ead0eb48ce1c682853f2778520fbde91632b7e931be6e6f9db366fdb7c5` | `—` |
 | `output/translations/philemon_01.json` | 25 | `359420f302149807f4a1c6632aa1d7732d695fbecbba9647e8a4d596c2e3ac26` | `220261e` |
 | `output/translations/philippians_01.json` | 30 | `84de2a78e3aba6b29f065026acbb0931dec0ccea802466e449475014743e14ef` | `fc0b282` |
 | `output/translations/philippians_02.json` | 30 | `5851608ec7714eab2efa8e443a50c8d3917a1f1b08f443c2d8813333a6ea4869` | `65b5241` |
