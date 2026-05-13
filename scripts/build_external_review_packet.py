@@ -72,6 +72,7 @@ BOOKS = {
     "RUT": ("ruth", "Ruth"),
     "JON": ("jonah", "Jonah"),
     "GEN": ("genesis", "Genesis"),
+    "EXO": ("exodus", "Exodus"),
 }
 
 # OT book codes — the prompt branches on testament so OT packets reference
