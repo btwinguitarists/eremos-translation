@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-05-13 21:59:08 UTC_
-_Total chapters: 380 · Total verses: 11633_
+_Generated: 2026-05-13 22:36:48 UTC_
+_Total chapters: 381 · Total verses: 11663_
 
 ## How to verify a chapter
 
@@ -348,7 +348,8 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/numbers_19.json` | 22 | `29ded5cdae1978a3c2f49c7a48e79f227dd0b48a1c1ca225bdf03b7b64dabb6a` | `b2e0f38` |
 | `output/translations/numbers_20.json` | 29 | `bcbfd7adeefd07ea5bba8b1f2ef3afc1858f59bbb1f21a16aef601a88f866932` | `e7c4cae` |
 | `output/translations/numbers_21.json` | 35 | `aaac9c383dc43e6106f36a681e1e3c96afdb55ca56d7f354c55e154d9bcfd51b` | `5b2db01` |
-| `output/translations/numbers_22.json` | 41 | `8f96b23d36f123a47fb63cf2cd02085ad8d2a117a0494b50f8726485612a0018` | `—` |
+| `output/translations/numbers_22.json` | 41 | `8f96b23d36f123a47fb63cf2cd02085ad8d2a117a0494b50f8726485612a0018` | `fff7c14` |
+| `output/translations/numbers_23.json` | 30 | `f2369f54998dc7fa46df6a4585d9a3453631653bc7809a27260f82b484fa7ed7` | `—` |
 | `output/translations/philemon_01.json` | 25 | `359420f302149807f4a1c6632aa1d7732d695fbecbba9647e8a4d596c2e3ac26` | `220261e` |
 | `output/translations/philippians_01.json` | 30 | `84de2a78e3aba6b29f065026acbb0931dec0ccea802466e449475014743e14ef` | `fc0b282` |
 | `output/translations/philippians_02.json` | 30 | `5851608ec7714eab2efa8e443a50c8d3917a1f1b08f443c2d8813333a6ea4869` | `65b5241` |
