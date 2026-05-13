@@ -32,7 +32,8 @@
 | אֵל עוֹלָם (El Olam) | **พระเจ้านิรันดร์** | Genesis 21:33 |
 | אֵל רֳאִי (El Ro'i) | **เอลโรอี** + footnote ("พระเจ้าผู้ทรงเห็นข้าพเจ้า") | Genesis 16:13 (Hagar-specific). Transliterate; gloss the meaning in footnote because Hagar's wordplay is the point |
 | יהוה־יִרְאֶה (YHWH-Yireh) | **ยาห์เวห์ยีเรห์** + footnote ("องค์พระผู้เป็นเจ้าทรงจัดเตรียม") | Genesis 22:14. Place-name compound; transliterate the proper-name form. Place-name compounds RETAIN the historical-transliteration `ยาห์เวห์` form because they are proper memorial-place names, not direct references to the deity |
-| יהוה־נִסִּי (YHWH-Nissi) | **ยาห์เวห์นิสซี** + footnote | Exodus 17:15 |
+| יהוה־נִסִּי (YHWH-Nissi) | **ยาห์เวห์นิสซี (องค์พระผู้เป็นเจ้าทรงเป็นธงชัยของข้า)** | Exodus 17:15. Altar-name. Per audit 2026-05-13: transliterate + gloss inline (parenthetical) so the altar's name reads as a Hebrew memorial-name. Distinguish from YHWH-paraphrastic-self-titles (see row immediately below). |
+| **YHWH-paraphrastic-self-titles** (compound divine self-attributions, NOT memorial-place/altar names) | **paraphrase to Thai meaning** (do NOT transliterate) | Examples: Exod 15:26 יהוה רֹפְאֶךָ → "องค์พระผู้เป็นเจ้าผู้ทรงรักษาเจ้า" (YHWH-your-Healer); Exod 17:16 כֵּס יָהּ → "พระที่นั่งของยาห์" (the kes-Yah compound); Exod 31:13 יהוה מְקַדִּשְׁכֶם → "องค์พระผู้เป็นเจ้าผู้ทรงชำระเจ้าให้บริสุทธิ์" (YHWH-who-sanctifies-you). These are grammatically participial self-attributions embedded in YHWH-speech, NOT fixed memorial-name compounds. Per audit 2026-05-13. |
 | יהוה־שָׁלוֹם (YHWH-Shalom) | **ยาห์เวห์ชาโลม** + footnote | Judges 6:24 |
 | יהוה־צִדְקֵנוּ (YHWH-Tsidkenu) | **ยาห์เวห์ซิดเคนู** + footnote | Jeremiah 23:6, 33:16 |
 | יהוה רֹעִי (YHWH ro'i) | **องค์พระผู้เป็นเจ้าทรงเป็นผู้เลี้ยงดูข้าพเจ้า** | Psalm 23:1. Not a place-name; YHWH is the divine subject of a verb, so the standard `องค์พระผู้เป็นเจ้า` rendering applies |
