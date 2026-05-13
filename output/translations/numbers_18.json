@@ -1,0 +1,511 @@
+[
+  {
+    "reference": "NUM 18:1",
+    "chapter": 18,
+    "verse": 1,
+    "language": "hebrew",
+    "hebrew": "וַיֹּ֤אמֶר יְהוָה֙ אֶֽל־אַהֲרֹ֔ן אַתָּ֗ה וּבָנֶ֤יךָ וּבֵית־אָבִ֨יךָ֙ אִתָּ֔ךְ תִּשְׂא֖וּ אֶת־עֲוֺ֣ן הַמִּקְדָּ֑שׁ וְאַתָּה֙ וּבָנֶ֣יךָ אִתָּ֔ךְ תִּשְׂא֖וּ אֶת־עֲוֺ֥ן כְּהֻנַּתְכֶֽם׃",
+    "bsb_english": "So the LORD said to Aaron, “You and your sons and your father’s house must bear the iniquity involving the sanctuary. And you and your sons alone must bear the iniquity involving your priesthood.",
+    "translation": {
+      "thai": "องค์พระผู้เป็นเจ้าตรัสกับอาโรนว่า “เจ้า บุตรของเจ้า และครอบครัวบรรพบุรุษของเจ้ากับเจ้า จะต้องรับผิดต่อสถานบริสุทธิ์ และเจ้ากับบุตรของเจ้าจะต้องรับผิดต่อตำแหน่งปุโรหิตของพวกเจ้า",
+      "thai_literal": "และพระยาห์เวห์ตรัสกับอาโรน ‘เจ้า และบุตรของเจ้า และบ้านบรรพบุรุษของเจ้ากับเจ้า จะแบกความผิดของสถานบริสุทธิ์ และเจ้าและบุตรของเจ้ากับเจ้า จะแบกความผิดของตำแหน่งปุโรหิตของพวกเจ้า’",
+      "thai_summary": "**AARONIC RESPONSIBILITY (vv.1–7).** อาโรน + บุตร + เลวี — แบ่งหน้าที่และความผิดต่อพลับพลา; เลวีช่วยอาโรน แต่ห้ามแตะภาชนะบริสุทธิ์.",
+      "key_decisions": [
+        {"hebrew":"יהוה","thai":"องค์พระผู้เป็นเจ้า","rationale":"Per divine_names_table_2026-05.md: יהוה → องค์พระผู้เป็นเจ้า."},
+        {"hebrew":"תִּשְׂאוּ אֶת־עֲוֺן","thai":"จะต้องรับผิดต่อ","rationale":"tiśśəʾû ʾet-ʿawōn — สำนวน ‘แบกความผิด’ — รับผิดชอบสำหรับการละเมิดที่เกิดขึ้น. หมายถึง: ปุโรหิตจะต้องตอบคำถามต่อพระเจ้าเรื่องความผิดที่ทำต่อสถานบริสุทธิ์."}
+      ],
+      "notes": "พระดำรัสตอบประชาชนที่กลัวการเข้าใกล้พลับพลา (กดว. 17:27-28) — พระเจ้าทรงตอบโดยมอบหน้าที่ปุโรหิตให้กับอาโรนเป็นการแก้ปัญหา."
+    }
+  },
+  {
+    "reference": "NUM 18:2",
+    "chapter": 18,
+    "verse": 2,
+    "language": "hebrew",
+    "hebrew": "וְגַ֣ם אֶת־אַחֶיךָ֩ מַטֵּ֨ה לֵוִ֜י שֵׁ֤בֶט אָבִ֨יךָ֙ הַקְרֵ֣ב אִתָּ֔ךְ וְיִלָּו֥וּ עָלֶ֖יךָ וִֽישָׁרְת֑וּךָ וְאַתָּה֙ וּבָנֶ֣יךָ אִתָּ֔ךְ לִפְנֵ֖י אֹ֥הֶל הָעֵדֻֽת׃",
+    "bsb_english": "But bring with you also your brothers from the tribe of Levi, the tribe of your father, that they may join you and assist you and your sons before the Tent of the Testimony.",
+    "translation": {
+      "thai": "และจงนำพี่น้องของเจ้าจากเผ่าเลวี เผ่าของบิดาเจ้า มาด้วย เพื่อพวกเขาจะร่วมกับเจ้าและปรนนิบัติเจ้า เมื่อเจ้าและบุตรของเจ้าอยู่ต่อหน้าเต็นท์พระโอวาท",
+      "thai_literal": "และยังพี่น้องของเจ้า เผ่าเลวี เผ่าของบิดาเจ้า จงนำเข้าใกล้กับเจ้า และพวกเขาจะติดต่อกับเจ้าและจะปรนนิบัติเจ้า และเจ้าและบุตรของเจ้ากับเจ้า ต่อหน้าเต็นท์พระโอวาท",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "NUM 18:3",
+    "chapter": 18,
+    "verse": 3,
+    "language": "hebrew",
+    "hebrew": "וְשָֽׁמְרוּ֙ מִֽשְׁמַרְתְּךָ֔ וּמִשְׁמֶ֖רֶת כָּל־הָאֹ֑הֶל אַךְ֩ אֶל־כְּלֵ֨י הַקֹּ֤דֶשׁ וְאֶל־הַמִּזְבֵּ֨חַ֙ לֹ֣א יִקְרָ֔בוּ וְלֹֽא־יָמֻ֥תוּ גַם־הֵ֖ם גַּם־אַתֶּֽם׃",
+    "bsb_english": "And they shall attend to your duties and to all the duties of the Tent; but they must not come near to the furnishings of the sanctuary or the altar, or both they and you will die.",
+    "translation": {
+      "thai": "พวกเขาจะดูแลหน้าที่ของเจ้าและหน้าที่ของเต็นท์ทั้งหมด แต่ต่อภาชนะบริสุทธิ์และต่อแท่นบูชา พวกเขาห้ามเข้าใกล้ มิฉะนั้นทั้งพวกเขาและพวกเจ้าจะตาย",
+      "thai_literal": "และพวกเขาจะรักษาหน้าที่ของเจ้า และหน้าที่ของเต็นท์ทั้งหมด แต่ต่อภาชนะของสถานบริสุทธิ์และต่อแท่นบูชา พวกเขาจะไม่เข้าใกล้ และพวกเขาจะไม่ตาย ทั้งพวกเขาทั้งพวกเจ้า",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "NUM 18:4",
+    "chapter": 18,
+    "verse": 4,
+    "language": "hebrew",
+    "hebrew": "וְנִלְו֣וּ עָלֶ֔יךָ וְשָֽׁמְר֗וּ אֶת־מִשְׁמֶ֨רֶת֙ אֹ֣הֶל מוֹעֵ֔ד לְכֹ֖ל עֲבֹדַ֣ת הָאֹ֑הֶל וְזָ֖ר לֹא־יִקְרַ֥ב אֲלֵיכֶֽם׃",
+    "bsb_english": "They are to join you and attend to the duties of the Tent of Meeting, doing all the work at the Tent; but no outsider may come near you.",
+    "translation": {
+      "thai": "พวกเขาจะร่วมกับเจ้าและดูแลหน้าที่ของเต็นท์นัดพบ ทำงานของเต็นท์ทุกอย่าง และคนแปลกหน้าจะต้องไม่เข้าใกล้พวกเจ้า",
+      "thai_literal": "และพวกเขาจะติดต่อกับเจ้า และพวกเขาจะรักษาหน้าที่ของเต็นท์นัดพบ สำหรับงานของเต็นท์ทั้งหมด และคนแปลกหน้าจะไม่เข้าใกล้พวกเจ้า",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "NUM 18:5",
+    "chapter": 18,
+    "verse": 5,
+    "language": "hebrew",
+    "hebrew": "וּשְׁמַרְתֶּ֗ם אֵ֚ת מִשְׁמֶ֣רֶת הַקֹּ֔דֶשׁ וְאֵ֖ת מִשְׁמֶ֣רֶת הַמִּזְבֵּ֑חַ וְלֹֽא־יִהְיֶ֥ה ע֛וֹד קֶ֖צֶף עַל־בְּנֵ֥י יִשְׂרָאֵֽל׃",
+    "bsb_english": "And you shall attend to the duties of the sanctuary and of the altar, so that wrath may not fall on the Israelites again.",
+    "translation": {
+      "thai": "พวกเจ้าจะดูแลหน้าที่ของสถานบริสุทธิ์และหน้าที่ของแท่นบูชา เพื่อพระพิโรธจะไม่ตกบนชนอิสราเอลอีก",
+      "thai_literal": "และพวกเจ้าจะรักษาหน้าที่ของสถานบริสุทธิ์ และหน้าที่ของแท่นบูชา และจะไม่มีอีก พระพิโรธเหนือบุตรของอิสราเอล",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "NUM 18:6",
+    "chapter": 18,
+    "verse": 6,
+    "language": "hebrew",
+    "hebrew": "וַאֲנִ֗י הִנֵּ֤ה לָקַ֨חְתִּי֙ אֶת־אֲחֵיכֶ֣ם הַלְוִיִּ֔ם מִתּ֖וֹךְ בְּנֵ֣י יִשְׂרָאֵ֑ל לָכֶ֞ם מַתָּנָ֤ה נְתֻנִים֙ לַֽיהוָ֔ה לַעֲבֹ֕ד אֶת־עֲבֹדַ֖ת אֹ֥הֶל מוֹעֵֽד׃",
+    "bsb_english": "Behold, I Myself have selected your fellow Levites from the Israelites as a gift to you, dedicated to the LORD to perform the service for the Tent of Meeting.",
+    "translation": {
+      "thai": "ดูเถิด เราเองได้เลือกพี่น้องของพวกเจ้า คือคนเลวี จากท่ามกลางชนอิสราเอล เป็นของขวัญแก่พวกเจ้า ถูกถวายแด่องค์พระผู้เป็นเจ้า เพื่อทำงานรับใช้ของเต็นท์นัดพบ",
+      "thai_literal": "และเรา ดูเถิด เราได้รับพี่น้องของพวกเจ้า คนเลวี จากท่ามกลางบุตรอิสราเอล แก่พวกเจ้า เป็นของขวัญ ถูกมอบให้แก่พระยาห์เวห์ เพื่อทำงานของเต็นท์นัดพบ",
+      "thai_summary": null,
+      "key_decisions": [
+        {"hebrew":"מַתָּנָה","thai":"ของขวัญ","rationale":"mattānāh — ‘ของขวัญ/สิ่งที่มอบ’ — พระเจ้าทรงมอบเลวีให้กับอาโรนเป็นของขวัญ. คำเดียวกันใช้ในข้อ 7 สำหรับ ‘ของขวัญของตำแหน่งปุโรหิต.’"},
+        {"hebrew":"יהוה","thai":"องค์พระผู้เป็นเจ้า","rationale":"Per divine_names_table_2026-05.md: יהוה → องค์พระผู้เป็นเจ้า."}
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "NUM 18:7",
+    "chapter": 18,
+    "verse": 7,
+    "language": "hebrew",
+    "hebrew": "וְאַתָּ֣ה וּבָנֶ֣יךָ אִ֠תְּךָ תִּשְׁמְר֨וּ אֶת־כְּהֻנַּתְכֶ֜ם לְכָל־דְּבַ֧ר הַמִּזְבֵּ֛חַ וּלְמִבֵּ֥ית לַפָּרֹ֖כֶת וַעֲבַדְתֶּ֑ם עֲבֹדַ֣ת מַתָּנָ֗ה אֶתֵּן֙ אֶת־כְּהֻנַּתְכֶ֔ם וְהַזָּ֥ר הַקָּרֵ֖ב יוּמָֽת׃ס",
+    "bsb_english": "But only you and your sons shall attend to your priesthood for everything concerning the altar and what is inside the veil, and you are to perform that service. I am giving you the work of the priesthood as a gift, but any outsider who comes near the sanctuary must be put to death.”",
+    "translation": {
+      "thai": "ส่วนเจ้าและบุตรของเจ้ากับเจ้า จะดูแลตำแหน่งปุโรหิตของพวกเจ้าในทุกสิ่งที่เกี่ยวกับแท่นบูชาและสิ่งที่อยู่ภายในม่าน และพวกเจ้าจะทำงานนั้น เรามอบงานปุโรหิตให้พวกเจ้าเป็นของขวัญ และคนแปลกหน้าที่เข้าใกล้จะต้องถูกประหารชีวิต”",
+      "thai_literal": "และเจ้าและบุตรของเจ้ากับเจ้า พวกเจ้าจะรักษาตำแหน่งปุโรหิตของพวกเจ้า สำหรับทุกเรื่องของแท่นบูชา และสำหรับด้านในของม่าน และพวกเจ้าจะทำงาน งานของของขวัญ เราจะให้ตำแหน่งปุโรหิตของพวกเจ้า และคนแปลกหน้าที่เข้าใกล้จะถูกประหาร",
+      "thai_summary": null,
+      "key_decisions": [
+        {"hebrew":"פָּרֹכֶת","thai":"ม่าน","rationale":"pārōket — ผ้าม่านที่กั้นที่บริสุทธิ์จากที่บริสุทธิ์ที่สุด. ฉีกขาดเมื่อพระเยซูสิ้นพระชนม์ (มธ. 27:51)."}
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "NUM 18:8",
+    "chapter": 18,
+    "verse": 8,
+    "language": "hebrew",
+    "hebrew": "וַיְדַבֵּ֣ר יְהוָה֮ אֶֽל־אַהֲרֹן֒ וַאֲנִי֙ הִנֵּ֣ה נָתַ֣תִּֽי לְךָ֔ אֶת־מִשְׁמֶ֖רֶת תְּרוּמֹתָ֑י לְכָל־קָדְשֵׁ֣י בְנֵֽי־יִ֠שְׂרָאֵל לְךָ֨נְתַתִּ֧ים לְמָשְׁחָ֛ה וּלְבָנֶ֖יךָ לְחָק־עוֹלָֽם׃",
+    "bsb_english": "Then the LORD said to Aaron, “Behold, I have put you in charge of My offerings. As for all the sacred offerings of the Israelites, I have given them to you and your sons as a portion and a permanent statute.",
+    "translation": {
+      "thai": "แล้วองค์พระผู้เป็นเจ้าตรัสกับอาโรนว่า “ดูเถิด เราได้มอบให้เจ้าดูแลเครื่องบูชาของเรา สำหรับเครื่องบริสุทธิ์ทั้งหมดของชนอิสราเอล เราได้มอบสิ่งเหล่านี้แก่เจ้าเป็นส่วน และแก่บุตรของเจ้าเป็นกฎเกณฑ์เนืองนิตย์",
+      "thai_literal": "และพระยาห์เวห์ตรัสกับอาโรน ‘และเรา ดูเถิด เราได้ให้แก่เจ้า หน้าที่ของเครื่องถวายของเรา สำหรับสิ่งบริสุทธิ์ทั้งหมดของบุตรอิสราเอล แก่เจ้าเราได้ให้สิ่งเหล่านี้เพื่อการเจิม และแก่บุตรของเจ้า เป็นกฎเนืองนิตย์’",
+      "thai_summary": "**SACRED OFFERINGS TO PRIESTS (vv.8–19).** ส่วนของปุโรหิต — เครื่องบูชา ของถวายเริ่มผล สัตว์หัวปี ฯลฯ.",
+      "key_decisions": [
+        {"hebrew":"תְּרוּמֹתָי","thai":"เครื่องบูชาของเรา","rationale":"tərûmōtay — เครื่องบูชายก/ของถวาย. คำพหูพจน์ของ תְּרוּמָה (terûmāh) — ของที่ ‘ยกขึ้น’ ถวายแยก."},
+        {"hebrew":"לְמָשְׁחָה","thai":"เป็นส่วน","rationale":"ləmoshḥāh — ‘เพื่อการเจิม/ส่วนแบ่ง.’ ความหมายตามบริบทคือส่วนของผู้ถูกเจิม."},
+        {"hebrew":"יהוה","thai":"องค์พระผู้เป็นเจ้า","rationale":"Per divine_names_table_2026-05.md: יהוה → องค์พระผู้เป็นเจ้า."}
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "NUM 18:9",
+    "chapter": 18,
+    "verse": 9,
+    "language": "hebrew",
+    "hebrew": "זֶֽה־יִהְיֶ֥ה לְךָ֛ מִקֹּ֥דֶשׁ הַקֳּדָשִׁ֖ים מִן־הָאֵ֑שׁ כָּל־קָ֠רְבָּנָם לְֽכָל־מִנְחָתָ֞ם וּלְכָל־חַטָּאתָ֗ם וּלְכָל־אֲשָׁמָם֙ אֲשֶׁ֣ר יָשִׁ֣יבוּ לִ֔י קֹ֣דֶשׁ קָֽדָשִׁ֥ים לְךָ֛ ה֖וּא וּלְבָנֶֽיךָ׃",
+    "bsb_english": "A portion of the most holy offerings reserved from the fire will be yours. From all the offerings they render to Me as most holy offerings, whether grain offerings or sin offerings or guilt offerings, that part belongs to you and your sons.",
+    "translation": {
+      "thai": "นี่จะเป็นของเจ้า จากสิ่งบริสุทธิ์ที่สุดที่กันไว้จากไฟ เครื่องบูชาทั้งหมดของพวกเขา ทั้งเครื่องบูชาธัญพืช เครื่องบูชาไถ่บาป และเครื่องบูชาไถ่ความผิด ที่พวกเขาคืนแก่เรา เป็นบริสุทธิ์ที่สุดสำหรับเจ้าและบุตรของเจ้า",
+      "thai_literal": "นี่จะเป็นแก่เจ้า จากสิ่งบริสุทธิ์ที่สุด จากไฟ เครื่องถวายทั้งหมดของพวกเขา สำหรับเครื่องบูชาธัญพืชทั้งหมด และสำหรับเครื่องบูชาไถ่บาปทั้งหมด และสำหรับเครื่องบูชาไถ่ความผิดทั้งหมด ที่พวกเขาคืนแก่เรา บริสุทธิ์ของบริสุทธิ์ทั้งหลาย แก่เจ้า มัน และแก่บุตรของเจ้า",
+      "thai_summary": null,
+      "key_decisions": [
+        {"hebrew":"קֹדֶשׁ קָדָשִׁים","thai":"บริสุทธิ์ที่สุด","rationale":"qōdeš qodāšîm — ‘สิ่งบริสุทธิ์ของบริสุทธิ์ทั้งหลาย’ — ระดับสูงสุดของความบริสุทธิ์. เกิน ‘บริสุทธิ์.’"}
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "NUM 18:10",
+    "chapter": 18,
+    "verse": 10,
+    "language": "hebrew",
+    "hebrew": "בְּקֹ֥דֶשׁ הַקֳּדָשִׁ֖ים תֹּאכֲלֶ֑נּוּ כָּל־זָכָר֙ יֹאכַ֣ל אֹת֔וֹ קֹ֖דֶשׁ יִֽהְיֶה־לָּֽךְ׃",
+    "bsb_english": "You are to eat it as a most holy offering, and every male may eat it. You shall regard it as holy.",
+    "translation": {
+      "thai": "เจ้าจะกินมันในสถานบริสุทธิ์ที่สุด ทุกผู้ชายจะกินมันได้ มันจะเป็นบริสุทธิ์สำหรับเจ้า",
+      "thai_literal": "ในสถานบริสุทธิ์ที่สุด เจ้าจะกินมัน ผู้ชายทุกคนจะกินมัน บริสุทธิ์มันจะเป็นแก่เจ้า",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "NUM 18:11",
+    "chapter": 18,
+    "verse": 11,
+    "language": "hebrew",
+    "hebrew": "וְזֶה־לְּךָ֞ תְּרוּמַ֣ת מַתָּנָ֗ם לְכָל־תְּנוּפֹת֮ בְּנֵ֣י יִשְׂרָאֵל֒ לְךָ֣ נְתַתִּ֗ים וּלְבָנֶ֧יךָ וְלִבְנֹתֶ֛יךָ אִתְּךָ֖ לְחָק־עוֹלָ֑ם כָּל־טָה֥וֹר בְּבֵיתְךָ֖ יֹאכַ֥ל אֹתֽוֹ׃",
+    "bsb_english": "And this is yours as well: the offering of their gifts, along with all the wave offerings of the Israelites. I have given this to you and your sons and daughters as a permanent statute. Every ceremonially clean person in your household may eat it.",
+    "translation": {
+      "thai": "และนี่จะเป็นของเจ้าด้วย คือเครื่องบูชาของของขวัญของพวกเขา กับเครื่องบูชาโบกของชนอิสราเอลทั้งหมด เราได้ให้สิ่งเหล่านี้แก่เจ้าและบุตรชายและบุตรหญิงของเจ้ากับเจ้า เป็นกฎเกณฑ์เนืองนิตย์ ทุกคนที่สะอาดในบ้านของเจ้าจะกินมันได้",
+      "thai_literal": "และนี่แก่เจ้า เครื่องถวายของของขวัญของพวกเขา สำหรับเครื่องบูชาโบกทั้งหมดของบุตรอิสราเอล แก่เจ้าเราได้ให้สิ่งเหล่านี้ และแก่บุตรชายของเจ้า และแก่บุตรหญิงของเจ้ากับเจ้า เป็นกฎเนืองนิตย์ ทุกคนที่สะอาดในบ้านของเจ้าจะกินมัน",
+      "thai_summary": null,
+      "key_decisions": [
+        {"hebrew":"תְּנוּפֹת","thai":"เครื่องบูชาโบก","rationale":"tənûp̄ōt — ‘เครื่องบูชาโบก’ — ผู้ถวายและปุโรหิตจับและโบกไปมาก่อนพระเจ้า เพื่อแสดงว่าเป็นของถวาย."}
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "NUM 18:12",
+    "chapter": 18,
+    "verse": 12,
+    "language": "hebrew",
+    "hebrew": "כֹּ֚ל חֵ֣לֶב יִצְהָ֔ר וְכָל־חֵ֖לֶב תִּיר֣וֹשׁ וְדָגָ֑ן רֵאשִׁיתָ֛ם אֲשֶׁר־יִתְּנ֥וּ לַֽיהוָ֖ה לְךָ֥ נְתַתִּֽים׃",
+    "bsb_english": "I give you all the freshest olive oil and all the finest new wine and grain that the Israelites give to the LORD as their firstfruits.",
+    "translation": {
+      "thai": "น้ำมันมะกอกที่ดีที่สุดทั้งหมด เหล้าองุ่นใหม่ที่ดีที่สุดทั้งหมด และข้าวที่เป็นผลแรกของพวกเขา ที่พวกเขาถวายแด่องค์พระผู้เป็นเจ้า เราได้ให้แก่เจ้า",
+      "thai_literal": "ทั้งหมด ไขมันของน้ำมัน และทั้งหมด ไขมันของเหล้าองุ่นใหม่และข้าว ผลแรกของพวกเขา ที่พวกเขาจะให้แก่พระยาห์เวห์ แก่เจ้าเราได้ให้",
+      "thai_summary": null,
+      "key_decisions": [
+        {"hebrew":"חֵלֶב","thai":"ที่ดีที่สุด","rationale":"ḥēleḇ — แม้แปลตามตัวอักษรว่า ‘ไขมัน’ แต่ในบริบทของพืช หมายถึง ‘ส่วนที่ดีที่สุด’ (cf. ปฐก. 45:18)."},
+        {"hebrew":"יהוה","thai":"องค์พระผู้เป็นเจ้า","rationale":"Per divine_names_table_2026-05.md: יהוה → องค์พระผู้เป็นเจ้า."}
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "NUM 18:13",
+    "chapter": 18,
+    "verse": 13,
+    "language": "hebrew",
+    "hebrew": "בִּכּוּרֵ֞י כָּל־אֲשֶׁ֧ר בְּאַרְצָ֛ם אֲשֶׁר־יָבִ֥יאוּ לַיהוָ֖ה לְךָ֣ יִהְיֶ֑ה כָּל־טָה֥וֹר בְּבֵיתְךָ֖ יֹאכֲלֶֽנּוּ׃",
+    "bsb_english": "The firstfruits of everything in their land that they bring to the LORD will belong to you. Every ceremonially clean person in your household may eat them.",
+    "translation": {
+      "thai": "ผลแรกของทุกสิ่งในแผ่นดินของพวกเขาที่พวกเขานำมาถวายแด่องค์พระผู้เป็นเจ้าจะเป็นของเจ้า ทุกคนที่สะอาดในบ้านของเจ้าจะกินได้",
+      "thai_literal": "ผลแรกของทุกสิ่งที่อยู่ในแผ่นดินของพวกเขา ที่พวกเขาจะนำมาให้แก่พระยาห์เวห์ แก่เจ้าจะเป็น ทุกคนที่สะอาดในบ้านของเจ้าจะกินมัน",
+      "thai_summary": null,
+      "key_decisions": [{"hebrew":"יהוה","thai":"องค์พระผู้เป็นเจ้า","rationale":"Per divine_names_table_2026-05.md: יהוה → องค์พระผู้เป็นเจ้า."}],
+      "notes": null
+    }
+  },
+  {
+    "reference": "NUM 18:14",
+    "chapter": 18,
+    "verse": 14,
+    "language": "hebrew",
+    "hebrew": "כָּל־חֵ֥רֶם בְּיִשְׂרָאֵ֖ל לְךָ֥ יִהְיֶֽה׃",
+    "bsb_english": "Every devoted thing in Israel belongs to you.",
+    "translation": {
+      "thai": "ทุกสิ่งที่ถูกอุทิศในอิสราเอลจะเป็นของเจ้า",
+      "thai_literal": "ทุกสิ่งที่ถูกอุทิศในอิสราเอล แก่เจ้าจะเป็น",
+      "thai_summary": null,
+      "key_decisions": [
+        {"hebrew":"חֵרֶם","thai":"ถูกอุทิศ","rationale":"ḥērem — สิ่งที่ ‘ถูกอุทิศ/แยกถวายแบบไม่สามารถไถ่คืน’ — บางครั้งหมายถึงการทำลาย (ในสงคราม) บางครั้งหมายถึงการมอบถวายอย่างไม่อาจถอนคืน."}
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "NUM 18:15",
+    "chapter": 18,
+    "verse": 15,
+    "language": "hebrew",
+    "hebrew": "כָּל־פֶּ֣טֶר רֶ֠חֶם לְֽכָל־בָּשָׂ֞ר אֲשֶׁר־יַקְרִ֧יבוּ לַֽיהוָ֛ה בָּאָדָ֥ם וּבַבְּהֵמָ֖ה יִֽהְיֶה־לָּ֑ךְ אַ֣ךְ׀פָּדֹ֣ה תִפְדֶּ֗ה אֵ֚ת בְּכ֣וֹר הָֽאָדָ֔ם וְאֵ֛ת בְּכֽוֹר־הַבְּהֵמָ֥ה הַטְּמֵאָ֖ה תִּפְדֶּֽה׃",
+    "bsb_english": "The firstborn of every womb, whether man or beast, that is offered to the LORD belongs to you. But you must surely redeem every firstborn son and every firstborn male of unclean animals.",
+    "translation": {
+      "thai": "บุตรหัวปีของทุกครรภ์ ทั้งของมนุษย์และของสัตว์ ที่พวกเขาถวายแด่องค์พระผู้เป็นเจ้า จะเป็นของเจ้า แต่บุตรหัวปีของมนุษย์ เจ้าจะต้องไถ่ และบุตรหัวปีของสัตว์ที่ไม่สะอาด เจ้าจะต้องไถ่",
+      "thai_literal": "ทุกผู้เปิดครรภ์สำหรับทุกเนื้อหนัง ที่พวกเขาจะถวายแก่พระยาห์เวห์ ในมนุษย์และในสัตว์ จะเป็นแก่เจ้า แต่ ไถ่เจ้าจะไถ่ บุตรหัวปีของมนุษย์ และบุตรหัวปีของสัตว์ที่ไม่สะอาด เจ้าจะไถ่",
+      "thai_summary": null,
+      "key_decisions": [
+        {"hebrew":"יהוה","thai":"องค์พระผู้เป็นเจ้า","rationale":"Per divine_names_table_2026-05.md: יהוה → องค์พระผู้เป็นเจ้า."},
+        {"hebrew":"פָּדֹה תִפְדֶּה","thai":"จะต้องไถ่","rationale":"pādōh tip̄deh — figura etymologica (infinitive absolute + finite verb) — ‘ต้องไถ่อย่างแน่นอน.’ ความหนักแน่นถ่ายทอดด้วย ‘จะต้อง’ ในภาษาไทย."}
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "NUM 18:16",
+    "chapter": 18,
+    "verse": 16,
+    "language": "hebrew",
+    "hebrew": "וּפְדוּיָו֙ מִבֶּן־חֹ֣דֶשׁ תִּפְדֶּ֔ה בְּעֶ֨רְכְּךָ֔ כֶּ֛סֶף חֲמֵ֥שֶׁת שְׁקָלִ֖ים בְּשֶׁ֣קֶל הַקֹּ֑דֶשׁ עֶשְׂרִ֥ים גֵּרָ֖ה הֽוּא׃",
+    "bsb_english": "You are to pay the redemption price for a month-old male according to your valuation: five shekels of silver, according to the sanctuary shekel, which is twenty gerahs.",
+    "translation": {
+      "thai": "เงินค่าไถ่ของเขา เมื่ออายุครบหนึ่งเดือน เจ้าจะต้องไถ่ตามที่เจ้าตั้งราคา เป็นเงินห้าเชเขล ตามเชเขลของสถานบริสุทธิ์ ซึ่งเท่ากับยี่สิบเกราห์",
+      "thai_literal": "และผู้ที่ต้องไถ่ จากบุตรวัยหนึ่งเดือน เจ้าจะไถ่ ตามค่าของเจ้า เงินห้าเชเขล ตามเชเขลของสถานบริสุทธิ์ ยี่สิบเกราห์มัน",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "NUM 18:17",
+    "chapter": 18,
+    "verse": 17,
+    "language": "hebrew",
+    "hebrew": "אַ֣ךְ בְּֽכוֹר־שׁ֡וֹר אֽוֹ־בְכ֨וֹר כֶּ֜שֶׂב אֽוֹ־בְכ֥וֹר עֵ֛ז לֹ֥א תִפְדֶּ֖ה קֹ֣דֶשׁ הֵ֑ם אֶת־דָּמָ֞ם תִּזְרֹ֤ק עַל־הַמִּזְבֵּ֨חַ֙ וְאֶת־חֶלְבָּ֣ם תַּקְטִ֔יר אִשֶּׁ֛ה לְרֵ֥יחַ נִיחֹ֖חַ לַֽיהוָֽה׃",
+    "bsb_english": "But you must not redeem the firstborn of an ox, a sheep, or a goat; they are holy. You are to splatter their blood on the altar and burn their fat as a food offering, a pleasing aroma to the LORD.",
+    "translation": {
+      "thai": "แต่บุตรหัวปีของวัว หรือบุตรหัวปีของแกะ หรือบุตรหัวปีของแพะ เจ้าจะไม่ไถ่ พวกมันเป็นของบริสุทธิ์ เจ้าจะประพรมเลือดของพวกมันบนแท่นบูชา และเผาไขมันของพวกมัน เป็นเครื่องบูชาด้วยไฟ เป็นกลิ่นที่พอพระทัยแด่องค์พระผู้เป็นเจ้า",
+      "thai_literal": "แต่บุตรหัวปีของวัว หรือบุตรหัวปีของแกะ หรือบุตรหัวปีของแพะ เจ้าจะไม่ไถ่ บริสุทธิ์พวกมัน เลือดของพวกมัน เจ้าจะพรมบนแท่นบูชา และไขมันของพวกมัน เจ้าจะเผา เครื่องบูชาด้วยไฟ เพื่อกลิ่นที่พอพระทัย แก่พระยาห์เวห์",
+      "thai_summary": null,
+      "key_decisions": [{"hebrew":"יהוה","thai":"องค์พระผู้เป็นเจ้า","rationale":"Per divine_names_table_2026-05.md: יהוה → องค์พระผู้เป็นเจ้า."}],
+      "notes": null
+    }
+  },
+  {
+    "reference": "NUM 18:18",
+    "chapter": 18,
+    "verse": 18,
+    "language": "hebrew",
+    "hebrew": "וּבְשָׂרָ֖ם יִהְיֶה־לָּ֑ךְ כַּחֲזֵ֧ה הַתְּנוּפָ֛ה וּכְשׁ֥וֹק הַיָּמִ֖ין לְךָ֥ יִהְיֶֽה׃",
+    "bsb_english": "And their meat belongs to you, just as the breast and right thigh of the wave offering belong to you.",
+    "translation": {
+      "thai": "และเนื้อของพวกมันจะเป็นของเจ้า เช่นเดียวกับหน้าอกของเครื่องบูชาโบกและต้นขาขวาเป็นของเจ้า",
+      "thai_literal": "และเนื้อของพวกมัน จะเป็นแก่เจ้า เหมือนหน้าอกของเครื่องบูชาโบก และเหมือนต้นขาขวา แก่เจ้า จะเป็น",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "NUM 18:19",
+    "chapter": 18,
+    "verse": 19,
+    "language": "hebrew",
+    "hebrew": "כֹּ֣ל׀תְּרוּמֹ֣ת הַקֳּדָשִׁ֗ים אֲשֶׁ֨ר יָרִ֥ימוּ בְנֵֽי־יִשְׂרָאֵל֮ לַֽיהוָה֒ נָתַ֣תִּֽי לְךָ֗ וּלְבָנֶ֧יךָ וְלִבְנֹתֶ֛יךָ אִתְּךָ֖ לְחָק־עוֹלָ֑ם בְּרִית֩ מֶ֨לַח עוֹלָ֥ם הִוא֙ לִפְנֵ֣י יְהוָ֔ה לְךָ֖ וּלְזַרְעֲךָ֥ אִתָּֽךְ׃",
+    "bsb_english": "All the holy offerings that the Israelites present to the LORD I give to you and to your sons and daughters as a permanent statute. It is a permanent covenant of salt before the LORD for you and your offspring.”",
+    "translation": {
+      "thai": "เครื่องบูชาที่บริสุทธิ์ทั้งหมดที่ชนอิสราเอลถวายแด่องค์พระผู้เป็นเจ้า เราได้ให้แก่เจ้าและแก่บุตรชายและบุตรหญิงของเจ้ากับเจ้า เป็นกฎเกณฑ์เนืองนิตย์ เป็นพันธสัญญาเกลือเนืองนิตย์ต่อพระพักตร์องค์พระผู้เป็นเจ้า สำหรับเจ้าและเชื้อสายของเจ้ากับเจ้า”",
+      "thai_literal": "เครื่องถวายทั้งหมดของสิ่งบริสุทธิ์ที่บุตรอิสราเอลจะยกขึ้นแก่พระยาห์เวห์ เราได้ให้แก่เจ้า และแก่บุตรชายและแก่บุตรหญิงของเจ้ากับเจ้า เป็นกฎเนืองนิตย์ พันธสัญญาเกลือเนืองนิตย์มัน ต่อพระพักตร์พระยาห์เวห์ แก่เจ้าและเชื้อสายของเจ้ากับเจ้า",
+      "thai_summary": null,
+      "key_decisions": [
+        {"hebrew":"בְּרִית מֶלַח","thai":"พันธสัญญาเกลือ","rationale":"bərît melaḥ — ‘พันธสัญญาเกลือ’ — สำนวนของพันธสัญญาถาวร. เกลือไม่เสื่อม จึงเป็นสัญลักษณ์ของความถาวรและมิตรภาพ. cf. ลนต. 2:13, 2 พศด. 13:5."},
+        {"hebrew":"יהוה","thai":"องค์พระผู้เป็นเจ้า","rationale":"Per divine_names_table_2026-05.md: יהוה → องค์พระผู้เป็นเจ้า. (ปรากฏ 2 ครั้งในข้อนี้.)"}
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "NUM 18:20",
+    "chapter": 18,
+    "verse": 20,
+    "language": "hebrew",
+    "hebrew": "וַיֹּ֨אמֶר יְהוָ֜ה אֶֽל־אַהֲרֹ֗ן בְּאַרְצָם֙ לֹ֣א תִנְחָ֔ל וְחֵ֕לֶק לֹא־יִהְיֶ֥ה לְךָ֖ בְּתוֹכָ֑ם אֲנִ֤י חֶלְקְךָ֙ וְנַחֲלָ֣תְךָ֔ בְּת֖וֹךְ בְּנֵ֥י יִשְׂרָאֵֽל׃ס",
+    "bsb_english": "Then the LORD said to Aaron, “You will have no inheritance in their land, nor will you have any portion among them. I am your portion and your inheritance among the Israelites.",
+    "translation": {
+      "thai": "และองค์พระผู้เป็นเจ้าตรัสกับอาโรนว่า “ในแผ่นดินของพวกเขา เจ้าจะไม่มีมรดก และจะไม่มีส่วนสำหรับเจ้าท่ามกลางพวกเขา เราเป็นส่วนของเจ้าและเป็นมรดกของเจ้าท่ามกลางชนอิสราเอล",
+      "thai_literal": "และพระยาห์เวห์ตรัสกับอาโรน ‘ในแผ่นดินของพวกเขา เจ้าจะไม่ครอบครองมรดก และส่วนแบ่ง จะไม่เป็นแก่เจ้าในท่ามกลางพวกเขา เราเป็นส่วนแบ่งของเจ้าและมรดกของเจ้า ในท่ามกลางบุตรอิสราเอล’",
+      "thai_summary": "**LEVITES' INHERITANCE: GOD HIMSELF (vv.20–24).** ปุโรหิตและเลวีไม่มีที่ดิน — แต่พระเจ้าเองคือมรดก; ส่วนสิบเป็นค่าตอบแทนการรับใช้.",
+      "key_decisions": [{"hebrew":"יהוה","thai":"องค์พระผู้เป็นเจ้า","rationale":"Per divine_names_table_2026-05.md: יהוה → องค์พระผู้เป็นเจ้า."}],
+      "notes": "ข้อนี้สำคัญ — พระเจ้าทรงเป็นมรดกของปุโรหิต. แนวคิดเดียวกันสะท้อนใน สดด. 16:5; 73:26."
+    }
+  },
+  {
+    "reference": "NUM 18:21",
+    "chapter": 18,
+    "verse": 21,
+    "language": "hebrew",
+    "hebrew": "וְלִבְנֵ֣י לֵוִ֔י הִנֵּ֥ה נָתַ֛תִּי כָּל־מַֽעֲשֵׂ֥ר בְּיִשְׂרָאֵ֖ל לְנַחֲלָ֑ה חֵ֤לֶף עֲבֹֽדָתָם֙ אֲשֶׁר־הֵ֣ם עֹֽבְדִ֔ים אֶת־עֲבֹדַ֖ת אֹ֥הֶל מוֹעֵֽד׃",
+    "bsb_english": "Behold, I have given to the Levites all the tithes in Israel as an inheritance in return for the work they do, the service of the Tent of Meeting.",
+    "translation": {
+      "thai": "ดูเถิด เราได้ให้แก่บุตรของเลวี คือส่วนสิบทั้งหมดในอิสราเอลเป็นมรดก เป็นค่าตอบแทนสำหรับงานที่พวกเขาทำ คืองานของเต็นท์นัดพบ",
+      "thai_literal": "และแก่บุตรของเลวี ดูเถิด เราได้ให้ส่วนสิบทั้งหมดในอิสราเอล เป็นมรดก เป็นการแลก งานของพวกเขาที่พวกเขากำลังทำ งานของเต็นท์นัดพบ",
+      "thai_summary": null,
+      "key_decisions": [
+        {"hebrew":"מַעֲשֵׂר","thai":"ส่วนสิบ","rationale":"maʿăśēr — ‘หนึ่งในสิบ/ส่วนสิบ’ — ของถวายที่กฎหมายกำหนดให้นำเสนอจากผลผลิต."}
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "NUM 18:22",
+    "chapter": 18,
+    "verse": 22,
+    "language": "hebrew",
+    "hebrew": "וְלֹא־יִקְרְב֥וּ ע֛וֹד בְּנֵ֥י יִשְׂרָאֵ֖ל אֶל־אֹ֣הֶל מוֹעֵ֑ד לָשֵׂ֥את חֵ֖טְא לָמֽוּת׃",
+    "bsb_english": "No longer may the Israelites come near to the Tent of Meeting, or they will incur guilt and die.",
+    "translation": {
+      "thai": "ชนอิสราเอลจะไม่เข้าใกล้เต็นท์นัดพบอีก เพื่อจะไม่รับบาปและตาย",
+      "thai_literal": "และบุตรอิสราเอลจะไม่เข้าใกล้อีก ต่อเต็นท์นัดพบ เพื่อจะไม่แบกบาป เพื่อตาย",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "NUM 18:23",
+    "chapter": 18,
+    "verse": 23,
+    "language": "hebrew",
+    "hebrew": "וְעָבַ֨ד הַלֵּוִ֜י ה֗וּא אֶת־עֲבֹדַת֙ אֹ֣הֶל מוֹעֵ֔ד וְהֵ֖ם יִשְׂא֣וּ עֲוֺנָ֑ם חֻקַּ֤ת עוֹלָם֙ לְדֹרֹ֣תֵיכֶ֔ם וּבְתוֹךְ֙ בְּנֵ֣י יִשְׂרָאֵ֔ל לֹ֥א יִנְחֲל֖וּ נַחֲלָֽה׃",
+    "bsb_english": "The Levites are to perform the work of the Tent of Meeting, and they must bear their iniquity. This is a permanent statute for the generations to come. The Levites will not receive an inheritance among the Israelites.",
+    "translation": {
+      "thai": "คนเลวีนั้นจะทำงานของเต็นท์นัดพบ และพวกเขาจะรับผิดของพวกเขา เป็นกฎเกณฑ์เนืองนิตย์ตลอดชั่วชาติพันธุ์ของพวกเจ้า และในท่ามกลางชนอิสราเอล พวกเขาจะไม่ได้รับมรดก",
+      "thai_literal": "และเลวีนั้นจะทำงานของเต็นท์นัดพบ และพวกเขาจะแบกความผิดของพวกเขา กฎเนืองนิตย์ตามรุ่นของพวกเจ้า และในท่ามกลางบุตรอิสราเอล พวกเขาจะไม่ครอบครองมรดก",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "NUM 18:24",
+    "chapter": 18,
+    "verse": 24,
+    "language": "hebrew",
+    "hebrew": "כִּ֞י אֶת־מַעְשַׂ֣ר בְּנֵֽי־יִשְׂרָאֵ֗ל אֲשֶׁ֨ר יָרִ֤ימוּ לַֽיהוָה֙ תְּרוּמָ֔ה נָתַ֥תִּי לַלְוִיִּ֖ם לְנַחֲלָ֑ה עַל־כֵּן֙ אָמַ֣רְתִּי לָהֶ֔ם בְּתוֹךְ֙ בְּנֵ֣י יִשְׂרָאֵ֔ל לֹ֥א יִנְחֲל֖וּ נַחֲלָֽה׃פ",
+    "bsb_english": "For I have given to the Levites as their inheritance the tithe that the Israelites present to the LORD as a contribution. That is why I told them that they would not receive an inheritance among the Israelites.”",
+    "translation": {
+      "thai": "เพราะส่วนสิบของชนอิสราเอลที่พวกเขายกถวายแด่องค์พระผู้เป็นเจ้าเป็นเครื่องบูชา เราได้ให้แก่คนเลวีเป็นมรดก เหตุนี้เราจึงกล่าวกับพวกเขาว่า ในท่ามกลางชนอิสราเอล พวกเขาจะไม่ได้รับมรดก”",
+      "thai_literal": "เพราะส่วนสิบของบุตรอิสราเอล ที่พวกเขาจะยกขึ้นแก่พระยาห์เวห์ เครื่องถวาย เราได้ให้แก่คนเลวี เป็นมรดก เหตุนี้เราพูดกับพวกเขา ในท่ามกลางบุตรอิสราเอล พวกเขาจะไม่ครอบครองมรดก",
+      "thai_summary": null,
+      "key_decisions": [{"hebrew":"יהוה","thai":"องค์พระผู้เป็นเจ้า","rationale":"Per divine_names_table_2026-05.md: יהוה → องค์พระผู้เป็นเจ้า."}],
+      "notes": null
+    }
+  },
+  {
+    "reference": "NUM 18:25",
+    "chapter": 18,
+    "verse": 25,
+    "language": "hebrew",
+    "hebrew": "וַיְדַבֵּ֥ר יְהוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+    "bsb_english": "And the LORD instructed Moses,",
+    "translation": {
+      "thai": "องค์พระผู้เป็นเจ้าตรัสกับโมเสสว่า",
+      "thai_literal": "และพระยาห์เวห์ตรัสกับโมเสสว่า",
+      "thai_summary": "**LEVITES' TITHE OF TITHE (vv.25–32).** เลวีต้องถวายส่วนสิบของส่วนสิบที่ตนได้รับ — เพื่อปุโรหิตอาโรน.",
+      "key_decisions": [{"hebrew":"יהוה","thai":"องค์พระผู้เป็นเจ้า","rationale":"Per divine_names_table_2026-05.md: יהוה → องค์พระผู้เป็นเจ้า."}],
+      "notes": null
+    }
+  },
+  {
+    "reference": "NUM 18:26",
+    "chapter": 18,
+    "verse": 26,
+    "language": "hebrew",
+    "hebrew": "וְאֶל־הַלְוִיִּ֣ם תְּדַבֵּר֮ וְאָמַרְתָּ֣ אֲלֵהֶם֒ כִּֽי־תִ֠קְחוּ מֵאֵ֨ת בְּנֵֽי־יִשְׂרָאֵ֜ל אֶת־הַֽמַּעֲשֵׂ֗ר אֲשֶׁ֨ר נָתַ֧תִּי לָכֶ֛ם מֵאִתָּ֖ם בְּנַחֲלַתְכֶ֑ם וַהֲרֵמֹתֶ֤ם מִמֶּ֨נּוּ֙ תְּרוּמַ֣ת יְהוָ֔ה מַעֲשֵׂ֖ר מִן־הַֽמַּעֲשֵֽׂר׃",
+    "bsb_english": "“Speak to the Levites and tell them: ‘When you receive from the Israelites the tithe that I have given you as your inheritance, you must present part of it as an offering to the LORD—a tithe of the tithe.",
+    "translation": {
+      "thai": "“จงพูดกับคนเลวีและบอกพวกเขาว่า ‘เมื่อพวกเจ้ารับจากชนอิสราเอล คือส่วนสิบที่เราได้ให้แก่พวกเจ้าจากพวกเขาเป็นมรดกของพวกเจ้า พวกเจ้าจงยกส่วนหนึ่งของส่วนสิบนั้นเป็นเครื่องบูชาแด่องค์พระผู้เป็นเจ้า คือส่วนสิบของส่วนสิบ",
+      "thai_literal": "‘และกับคนเลวี เจ้าจะพูด และเจ้าจะกล่าวกับพวกเขา เมื่อพวกเจ้ารับจากบุตรอิสราเอล ส่วนสิบที่เราได้ให้แก่พวกเจ้าจากพวกเขา ในมรดกของพวกเจ้า พวกเจ้าจะยกขึ้นจากมัน เครื่องถวายของพระยาห์เวห์ ส่วนสิบจากส่วนสิบ’",
+      "thai_summary": null,
+      "key_decisions": [{"hebrew":"יהוה","thai":"องค์พระผู้เป็นเจ้า","rationale":"Per divine_names_table_2026-05.md: יהוה → องค์พระผู้เป็นเจ้า."}],
+      "notes": null
+    }
+  },
+  {
+    "reference": "NUM 18:27",
+    "chapter": 18,
+    "verse": 27,
+    "language": "hebrew",
+    "hebrew": "וְנֶחְשַׁ֥ב לָכֶ֖ם תְּרוּמַתְכֶ֑ם כַּדָּגָן֙ מִן־הַגֹּ֔רֶן וְכַֽמְלֵאָ֖ה מִן־הַיָּֽקֶב׃",
+    "bsb_english": "Your offering will be reckoned to you as grain from the threshing floor or juice from the winepress.",
+    "translation": {
+      "thai": "เครื่องบูชาของพวกเจ้าจะถูกนับเหมือนกับข้าวจากลานนวดข้าวและน้ำผลไม้จากบ่อย่ำองุ่น",
+      "thai_literal": "และจะถูกนับแก่พวกเจ้า เครื่องถวายของพวกเจ้า เหมือนข้าวจากลานนวด และเหมือนสิ่งที่เต็ม จากบ่อย่ำองุ่น",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "NUM 18:28",
+    "chapter": 18,
+    "verse": 28,
+    "language": "hebrew",
+    "hebrew": "כֵּ֣ן תָּרִ֤ימוּ גַם־אַתֶּם֙ תְּרוּמַ֣ת יְהוָ֔ה מִכֹּל֙ מַעְשְׂרֹ֣תֵיכֶ֔ם אֲשֶׁ֣ר תִּקְח֔וּ מֵאֵ֖ת בְּנֵ֣י יִשְׂרָאֵ֑ל וּנְתַתֶּ֤ם מִמֶּ֨נּוּ֙ אֶת־תְּרוּמַ֣ת יְהוָ֔ה לְאַהֲרֹ֖ן הַכֹּהֵֽן׃",
+    "bsb_english": "So you are to present an offering to the LORD from all the tithes you receive from the Israelites, and from these you are to give the LORD’s offering to Aaron the priest.",
+    "translation": {
+      "thai": "ดังนั้น พวกเจ้าก็จงยกเครื่องบูชาแด่องค์พระผู้เป็นเจ้าจากส่วนสิบทั้งหมดที่พวกเจ้ารับจากชนอิสราเอล และจากสิ่งเหล่านั้น พวกเจ้าจะให้เครื่องบูชาขององค์พระผู้เป็นเจ้าแก่อาโรนปุโรหิต",
+      "thai_literal": "เช่นนั้น พวกเจ้าจะยกขึ้นด้วย พวกเจ้า เครื่องถวายของพระยาห์เวห์ จากส่วนสิบทั้งหมดของพวกเจ้า ที่พวกเจ้ารับจากบุตรอิสราเอล และพวกเจ้าจะให้จากมัน เครื่องถวายของพระยาห์เวห์ แก่อาโรนปุโรหิต",
+      "thai_summary": null,
+      "key_decisions": [{"hebrew":"יהוה","thai":"องค์พระผู้เป็นเจ้า","rationale":"Per divine_names_table_2026-05.md: יהוה → องค์พระผู้เป็นเจ้า. (ปรากฏ 2 ครั้งในข้อนี้.)"}],
+      "notes": null
+    }
+  },
+  {
+    "reference": "NUM 18:29",
+    "chapter": 18,
+    "verse": 29,
+    "language": "hebrew",
+    "hebrew": "מִכֹּל֙ מַתְּנֹ֣תֵיכֶ֔ם תָּרִ֕ימוּ אֵ֖ת כָּל־תְּרוּמַ֣ת יְהוָ֑ה מִכָּל־חֶלְבּ֔וֹ אֶֽת־מִקְדְּשׁ֖וֹ מִמֶּֽנּוּ׃",
+    "bsb_english": "You must present the offering due the LORD from all the best of every gift, the holiest part of it.’",
+    "translation": {
+      "thai": "จากของขวัญทั้งหมดของพวกเจ้า พวกเจ้าจะยกเครื่องบูชาขององค์พระผู้เป็นเจ้าทั้งหมด จากส่วนที่ดีที่สุดทั้งหมด เป็นส่วนที่บริสุทธิ์ที่สุดของมัน’",
+      "thai_literal": "จากของขวัญทั้งหมดของพวกเจ้า พวกเจ้าจะยกขึ้น เครื่องถวายทั้งหมดของพระยาห์เวห์ จากส่วนที่ดีที่สุดทั้งหมด ส่วนบริสุทธิ์จากมัน",
+      "thai_summary": null,
+      "key_decisions": [{"hebrew":"יהוה","thai":"องค์พระผู้เป็นเจ้า","rationale":"Per divine_names_table_2026-05.md: יהוה → องค์พระผู้เป็นเจ้า."}],
+      "notes": null
+    }
+  },
+  {
+    "reference": "NUM 18:30",
+    "chapter": 18,
+    "verse": 30,
+    "language": "hebrew",
+    "hebrew": "וְאָמַרְתָּ֖ אֲלֵהֶ֑ם בַּהֲרִֽימְכֶ֤ם אֶת־חֶלְבּוֹ֙ מִמֶּ֔נּוּ וְנֶחְשַׁב֙ לַלְוִיִּ֔ם כִּתְבוּאַ֥ת גֹּ֖רֶן וְכִתְבוּאַ֥ת יָֽקֶב׃",
+    "bsb_english": "Therefore say to the Levites, ‘When you have presented the best part, it will be reckoned to you as the produce of the threshing floor or winepress.",
+    "translation": {
+      "thai": "เพราะฉะนั้น จงกล่าวแก่คนเลวีว่า ‘เมื่อพวกเจ้ายกส่วนที่ดีที่สุดของมัน มันจะถูกนับให้แก่คนเลวี เหมือนผลผลิตของลานนวดข้าวและเหมือนผลผลิตของบ่อย่ำองุ่น",
+      "thai_literal": "และเจ้าจะกล่าวกับพวกเขา ในการยกขึ้นของพวกเจ้า ส่วนที่ดีที่สุดจากมัน และจะถูกนับแก่คนเลวี เหมือนผลผลิตของลานนวด และเหมือนผลผลิตของบ่อย่ำองุ่น",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "NUM 18:31",
+    "chapter": 18,
+    "verse": 31,
+    "language": "hebrew",
+    "hebrew": "וַאֲכַלְתֶּ֤ם אֹתוֹ֙ בְּכָל־מָק֔וֹם אַתֶּ֖ם וּבֵֽיתְכֶ֑ם כִּֽי־שָׂכָ֥ר הוּא֙ לָכֶ֔ם חֵ֥לֶף עֲבֹֽדַתְכֶ֖ם בְּאֹ֥הֶל מוֹעֵֽד׃",
+    "bsb_english": "And you and your households may eat the rest of it anywhere; it is the compensation for your work at the Tent of Meeting.",
+    "translation": {
+      "thai": "พวกเจ้าและครัวเรือนของพวกเจ้าจะกินมันได้ในที่ใด ๆ เพราะมันเป็นค่าตอบแทนสำหรับพวกเจ้า เป็นการแลกกับงานของพวกเจ้าในเต็นท์นัดพบ",
+      "thai_literal": "และพวกเจ้าจะกินมัน ในที่ทุกแห่ง พวกเจ้าและบ้านของพวกเจ้า เพราะค่าจ้างมันแก่พวกเจ้า เป็นการแลก งานของพวกเจ้าในเต็นท์นัดพบ",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "NUM 18:32",
+    "chapter": 18,
+    "verse": 32,
+    "language": "hebrew",
+    "hebrew": "וְלֹֽא־תִשְׂא֤וּ עָלָיו֙ חֵ֔טְא בַּהֲרִֽימְכֶ֥ם אֶת־חֶלְבּ֖וֹ מִמֶּ֑נּוּ וְאֶת־קָדְשֵׁ֧י בְנֵי־יִשְׂרָאֵ֛ל לֹ֥א תְחַלְּל֖וּ וְלֹ֥א תָמֽוּתוּ׃פ",
+    "bsb_english": "Once you have presented the best part of it, you will not incur guilt because of it. But you must not defile the sacred offerings of the Israelites, or else you will die.’”",
+    "translation": {
+      "thai": "เมื่อพวกเจ้ายกส่วนที่ดีที่สุดของมัน พวกเจ้าจะไม่รับบาปต่อมัน และของบริสุทธิ์ของชนอิสราเอล พวกเจ้าจงอย่าทำให้เป็นมลทิน เพื่อพวกเจ้าจะไม่ตาย’”",
+      "thai_literal": "และพวกเจ้าจะไม่แบกบาปเหนือมัน ในการยกขึ้นของพวกเจ้า ส่วนที่ดีที่สุดจากมัน และของบริสุทธิ์ของบุตรอิสราเอล พวกเจ้าจะไม่ทำให้เป็นมลทิน และพวกเจ้าจะไม่ตาย",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  }
+]
