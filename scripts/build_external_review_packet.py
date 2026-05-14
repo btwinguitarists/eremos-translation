@@ -73,6 +73,7 @@ BOOKS = {
     "JON": ("jonah", "Jonah"),
     "GEN": ("genesis", "Genesis"),
     "EXO": ("exodus", "Exodus"),
+    "NUM": ("numbers", "Numbers"),
 }
 
 # OT book codes — the prompt branches on testament so OT packets reference
