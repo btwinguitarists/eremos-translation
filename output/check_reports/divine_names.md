@@ -2,12 +2,106 @@
 
 Per docs/translator_decisions/divine_names_table_2026-05.md
 
-- Chapters checked: 1
-- Chapters with YHWH: 1
-- Chapters with first-occurrence footnote: 0
+- Chapters checked: 134
+- Chapters with YHWH: 112
+- Chapters with first-occurrence footnote: 112
 - Hard fails: 0
-- Warnings: 1
+- Warnings: 95
 
 ## Warnings
 
-- [D] numbers ch.36: contains YHWH but no first-occurrence footnote in output/textual_variants/numbers_36.json. See divine_names_table_2026-05 §'Layer 2'
+- [B-soft] Exodus 12:41: Hebrew has יהוה צבאות but Thai may be missing `จอมโยธา` (expected `องค์พระผู้เป็นเจ้าจอมโยธา`)
+- [C-soft] Exodus 21:4: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Exodus 21:5: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Exodus 21:6: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Exodus 21:8: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Exodus 21:32: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Exodus 26:19: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Exodus 26:21: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Exodus 26:25: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Exodus 26:32: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Exodus 26:37: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Exodus 27:10: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Exodus 27:11: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Exodus 27:12: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Exodus 27:14: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Exodus 27:15: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Exodus 27:16: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Exodus 27:17: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Exodus 27:18: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Exodus 32:22: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Exodus 35:11: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Exodus 35:17: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Exodus 36:24: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Exodus 36:26: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Exodus 36:30: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Exodus 36:36: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Exodus 36:38: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Exodus 38:10: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Exodus 38:11: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Exodus 38:12: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Exodus 38:14: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Exodus 38:15: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Exodus 38:17: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Exodus 38:19: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Exodus 38:27: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Exodus 38:30: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Exodus 38:31: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Exodus 39:33: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Exodus 39:40: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] EXO 40:18: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Genesis 18:12: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Genesis 19:2: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Genesis 23:6: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Genesis 23:11: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Genesis 23:15: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Genesis 24:9: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Genesis 24:10: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Genesis 24:14: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Genesis 24:18: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Genesis 24:36: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Genesis 24:37: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Genesis 24:39: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Genesis 24:49: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Genesis 24:54: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Genesis 24:65: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Genesis 31:35: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Genesis 32:5: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Genesis 32:6: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Genesis 32:19: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Genesis 33:8: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Genesis 33:13: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Genesis 33:14: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Genesis 33:15: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Genesis 39:7: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Genesis 39:8: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Genesis 39:16: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Genesis 39:19: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Genesis 39:20: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Genesis 40:1: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Genesis 40:7: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Genesis 42:10: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Genesis 42:30: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Genesis 42:33: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Genesis 43:20: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Genesis 44:5: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Genesis 44:7: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Genesis 44:8: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Genesis 44:9: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Genesis 44:16: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Genesis 44:18: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Genesis 44:19: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Genesis 44:20: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Genesis 44:22: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Genesis 44:24: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Genesis 44:33: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Genesis 47:18: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Genesis 47:25: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] NUM 3:36: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] NUM 3:37: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] NUM 4:31: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] NUM 4:32: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] NUM 11:28: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] NUM 12:11: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] NUM 32:25: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] Ruth 2:13: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
