@@ -11,7 +11,7 @@ Mode: in-chat (Claude-produced back-translations) | Threshold: 0.35
 ## ℹ Low similarity — rationale documented (intentional divergence)
 
 - **NUM 10:10** (sim=0.15)
-  - Thai: และในวันแห่งความยินดีของพวกเจ้า ในเทศกาลที่กำหนด และในวันต้นเดือน พวกเจ้าจะเป่าแตรเหนือเครื่องเผาบูชาและเครื่องบูชาสันติสุขของพวกเจ้า และจะเป็นการระลึกแก่พวกเจ้าต่อพระพักตร์พระเจ้าของพวกเจ้า เราคือองค์พระผู้เป็นเจ้าพระเจ้าของพวกเจ้า”
+  - Thai: และในวันแห่งความยินดีของพวกเจ้า ในเทศกาลที่กำหนด และในวันต้นเดือน พวกเจ้าจะเป่าแตรเหนือเครื่องเผาบูชาและเครื่องสันติบูชาของพวกเจ้า และจะเป็นการระลึกแก่พวกเจ้าต่อพระพักตร์พระเจ้าของพวกเจ้า เราคือองค์พระผู้เป็นเจ้าพระเจ้าของพวกเจ้า”
   - Back: And on the day of your joy and on your appointed feasts and on the beginnings of your months, you shall blow on the trumpets over your burnt offerings and over your peace offerings; and they shall be for you a memorial before your God; I am the LORD your God."
   - BSB:  And on your joyous occasions, your appointed feasts, and the beginning of each month, you are to blow the trumpets over your burnt offerings and peace offerings to serve as a reminder for you before your God. I am the LORD your God.”
 - **NUM 10:15** (sim=0.27)
