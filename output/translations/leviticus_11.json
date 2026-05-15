@@ -1,0 +1,777 @@
+[
+  {
+    "reference": "LEV 11:1",
+    "chapter": 11,
+    "verse": 1,
+    "language": "hebrew",
+    "hebrew": "וַיְדַבֵּ֧ר יְהוָ֛ה אֶל־מֹשֶׁ֥ה וְאֶֽל־אַהֲרֹ֖ן לֵאמֹ֥ר אֲלֵהֶֽם׃",
+    "bsb_english": "The LORD spoke again to Moses and Aaron, telling them,",
+    "translation": {
+      "thai": "องค์พระผู้เป็นเจ้าตรัสกับโมเสสและอาโรนว่า",
+      "thai_literal": "และพระยาห์เวห์ตรัสกับโมเสสและกับอาโรน ว่าแก่พวกเขา",
+      "thai_summary": "**บทที่ 11 — กฎเรื่องสัตว์สะอาดและไม่สะอาด.** บัญญัติเรื่องอาหาร — เริ่มต้นกฎความสะอาดทางพิธีกรรม (บทที่ 11–15).",
+      "key_decisions": [
+        {"hebrew": "יהוה", "thai": "องค์พระผู้เป็นเจ้า", "rationale": "Per divine_names_table_2026-05.md: YHWH → องค์พระผู้เป็นเจ้า. (ปรากฏที่ vv.1, 44, 45 ในบทนี้.)"}
+      ],
+      "notes": "**TO MOSES AND AARON**: ครั้งแรกที่พระเจ้าตรัสกับทั้งคู่ — สอดคล้องกับการเริ่มต้นการรับใช้ปุโรหิตของอาโรน. **PURITY LAWS BEGIN**: บทที่ 11-15 ครอบคลุมกฎเรื่องความสะอาด-ไม่สะอาด — อาหาร (11), การคลอด (12), โรคผิวหนัง (13-14), ของเหลวร่างกาย (15)."
+    }
+  },
+  {
+    "reference": "LEV 11:2",
+    "chapter": 11,
+    "verse": 2,
+    "language": "hebrew",
+    "hebrew": "דַּבְּר֛וּ אֶל־בְּנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר זֹ֤את הַֽחַיָּה֙ אֲשֶׁ֣ר תֹּאכְל֔וּ מִכָּל־הַבְּהֵמָ֖ה אֲשֶׁ֥ר עַל־הָאָֽרֶץ׃",
+    "bsb_english": "“Say to the Israelites, ‘Of all the beasts of the earth, these ones you may eat:",
+    "translation": {
+      "thai": "“จงพูดกับบุตรอิสราเอลว่า ‘จากสัตว์ทั้งหมดบนแผ่นดิน เหล่านี้คือสัตว์ที่พวกเจ้ากินได้",
+      "thai_literal": "‘จงพูดกับบุตรอิสราเอลว่า: นี่คือสัตว์ที่พวกเจ้าจะกินจากสัตว์เลี้ยงทั้งหมดที่อยู่บนแผ่นดิน’",
+      "thai_summary": null,
+      "key_decisions": [
+        {"hebrew": "חַיָּה / בְּהֵמָה", "thai": "สัตว์ / สัตว์เลี้ยง", "rationale": "ḥayyāh = สัตว์ทั่วไป (รวมป่า); bəhēmāh = สัตว์เลี้ยง/สัตว์สี่เท้าใหญ่. ในข้อนี้ทั้งสองคำซ้อนกัน."}
+      ],
+      "notes": ""
+    }
+  },
+  {
+    "reference": "LEV 11:3",
+    "chapter": 11,
+    "verse": 3,
+    "language": "hebrew",
+    "hebrew": "כֹּ֣ל׀מַפְרֶ֣סֶת פַּרְסָ֗ה וְשֹׁסַ֤עַת שֶׁ֨סַע֙ פְּרָסֹ֔ת מַעֲלַ֥ת גֵּרָ֖ה בַּבְּהֵמָ֑ה אֹתָ֖הּ תֹּאכֵֽלוּ׃",
+    "bsb_english": "You may eat any animal that has a split hoof completely divided and that chews the cud.",
+    "translation": {
+      "thai": "พวกเจ้ากินสัตว์เลี้ยงที่มีกีบแยกอย่างสมบูรณ์และเคี้ยวเอื้องได้",
+      "thai_literal": "‘ทุกตัวที่มีกีบแยก และแยกออกเป็นสองส่วนของกีบ เคี้ยวเอื้อง ในสัตว์เลี้ยง พวกเจ้าจะกินมัน’",
+      "thai_summary": "**สองเกณฑ์: กีบแยก + เคี้ยวเอื้อง.** สัตว์ที่กินได้ต้องผ่านทั้งสองเกณฑ์.",
+      "key_decisions": [
+        {"hebrew": "פַּרְסָה שׁוֹסַעַת שֶׁסַע", "thai": "กีบแยกอย่างสมบูรณ์", "rationale": "lemma compound parsāh šôsaʿaṯ šesaʿ (ในข้อปรากฏเป็น מַפְרֶסֶת פַּרְסָה וְשֹׁסַעַת שֶׁסַע) — 'กีบที่แยกเป็นรอยแยก' = กีบแยกชัด."},
+        {"hebrew": "מַעֲלַת גֵּרָה", "thai": "เคี้ยวเอื้อง", "rationale": "maʿălaṯ gērāh — 'ที่นำขึ้นมาเคี้ยวเอื้อง' = เคี้ยวเอื้อง (ruminate)."}
+      ],
+      "notes": "**TWO CRITERIA**: ต้องมีทั้งสอง: (1) กีบแยกชัด + (2) เคี้ยวเอื้อง. สัตว์ที่ผ่านทั้งสอง = วัว แกะ แพะ กวาง — สัตว์ที่กินได้ในอิสราเอลโบราณ."
+    }
+  },
+  {
+    "reference": "LEV 11:4",
+    "chapter": 11,
+    "verse": 4,
+    "language": "hebrew",
+    "hebrew": "אַ֤ךְ אֶת־זֶה֙ לֹ֣א תֹֽאכְל֔וּ מִֽמַּעֲלֵי֙ הַגֵּרָ֔ה וּמִמַּפְרִיסֵ֖י הַפַּרְסָ֑ה אֶֽת־הַ֠גָּמָל כִּֽי־מַעֲלֵ֨ה גֵרָ֜ה ה֗וּא וּפַרְסָה֙ אֵינֶ֣נּוּ מַפְרִ֔יס טָמֵ֥א ה֖וּא לָכֶֽם׃",
+    "bsb_english": "But of those that only chew the cud or only have a divided hoof, you are not to eat the following: The camel, though it chews the cud, does not have a divided hoof; it is unclean for you.",
+    "translation": {
+      "thai": "แต่จากสัตว์ที่เคี้ยวเอื้องเท่านั้นหรือมีกีบแยกเท่านั้น พวกเจ้าจะต้องไม่กินดังต่อไปนี้: อูฐ แม้เคี้ยวเอื้อง แต่ไม่มีกีบแยก เป็นมลทินสำหรับพวกเจ้า",
+      "thai_literal": "‘แต่สิ่งนี้พวกเจ้าจะไม่กิน จากผู้ที่เคี้ยวเอื้อง และจากผู้ที่มีกีบแยก — อูฐ เพราะเคี้ยวเอื้องมัน แต่กีบมันไม่แยก เป็นมลทินมัน สำหรับพวกเจ้า’",
+      "thai_summary": null,
+      "key_decisions": [
+        {"hebrew": "גָּמָל", "thai": "อูฐ", "rationale": "gāmāl — 'อูฐ'. คำตรง."}
+      ],
+      "notes": ""
+    }
+  },
+  {
+    "reference": "LEV 11:5",
+    "chapter": 11,
+    "verse": 5,
+    "language": "hebrew",
+    "hebrew": "וְאֶת־הַשָּׁפָ֗ן כִּֽי־מַעֲלֵ֤ה גֵרָה֙ ה֔וּא וּפַרְסָ֖ה לֹ֣א יַפְרִ֑יס טָמֵ֥א ה֖וּא לָכֶֽם׃",
+    "bsb_english": "The rock badger, though it chews the cud, does not have a divided hoof; it is unclean for you.",
+    "translation": {
+      "thai": "ตัวกระต่ายภูเขา แม้เคี้ยวเอื้อง แต่ไม่มีกีบแยก เป็นมลทินสำหรับพวกเจ้า",
+      "thai_literal": "‘และตัวกระต่ายภูเขา เพราะเคี้ยวเอื้องมัน แต่กีบไม่แยก เป็นมลทินมันสำหรับพวกเจ้า’",
+      "thai_summary": null,
+      "key_decisions": [
+        {"hebrew": "שָׁפָן", "thai": "ตัวกระต่ายภูเขา", "rationale": "šāp̄ān — rock badger / hyrax (Procavia capensis). สัตว์เล็กคล้ายหนูในตะวันออกกลาง — uW notes ใช้ 'rock badger'."}
+      ],
+      "notes": "**'ROCK BADGER' (שָׁפָן)**: ไม่ใช่ badger ของยุโรปจริง — แต่เป็น hyrax/dassie ของตะวันออกกลาง. ไม่เคี้ยวเอื้องจริงทางชีววิทยา แต่มีพฤติกรรมที่ผู้สังเกตโบราณคิดว่าเคี้ยวเอื้อง."
+    }
+  },
+  {
+    "reference": "LEV 11:6",
+    "chapter": 11,
+    "verse": 6,
+    "language": "hebrew",
+    "hebrew": "וְאֶת־הָאַרְנֶ֗בֶת כִּֽי־מַעֲלַ֤ת גֵּרָה֙ הִ֔וא וּפַרְסָ֖ה לֹ֣א הִפְרִ֑יסָה טְמֵאָ֥ה הִ֖וא לָכֶֽם׃",
+    "bsb_english": "The rabbit, though it chews the cud, does not have a divided hoof; it is unclean for you.",
+    "translation": {
+      "thai": "กระต่าย แม้เคี้ยวเอื้อง แต่ไม่มีกีบแยก เป็นมลทินสำหรับพวกเจ้า",
+      "thai_literal": "‘และกระต่าย เพราะเคี้ยวเอื้องมัน แต่กีบไม่แยก เป็นมลทินมันสำหรับพวกเจ้า’",
+      "thai_summary": null,
+      "key_decisions": [
+        {"hebrew": "אַרְנֶבֶת", "thai": "กระต่าย", "rationale": "ʾarneḇeṯ — 'กระต่าย' (hare)."}
+      ],
+      "notes": ""
+    }
+  },
+  {
+    "reference": "LEV 11:7",
+    "chapter": 11,
+    "verse": 7,
+    "language": "hebrew",
+    "hebrew": "וְאֶת־הַ֠חֲזִיר כִּֽי־מַפְרִ֨יס פַּרְסָ֜ה ה֗וּא וְשֹׁסַ֥ע שֶׁ֨סַע֙ פַּרְסָ֔ה וְה֖וּא גֵּרָ֣ה לֹֽא־יִגָּ֑ר טָמֵ֥א ה֖וּא לָכֶֽם׃",
+    "bsb_english": "And the pig, though it has a split hoof completely divided, does not chew the cud; it is unclean for you.",
+    "translation": {
+      "thai": "และหมู แม้มีกีบแยกอย่างสมบูรณ์ แต่ไม่เคี้ยวเอื้อง เป็นมลทินสำหรับพวกเจ้า",
+      "thai_literal": "‘และหมู เพราะมีกีบแยกมัน และแยกออกเป็นสองส่วนของกีบ แต่มันไม่เคี้ยวเอื้อง เป็นมลทินมันสำหรับพวกเจ้า’",
+      "thai_summary": null,
+      "key_decisions": [
+        {"hebrew": "חֲזִיר", "thai": "หมู", "rationale": "ḥăzîr — 'หมู'. คำตรง."}
+      ],
+      "notes": "**PIG**: สัญลักษณ์ที่โดดเด่นที่สุดของสัตว์ไม่สะอาด — กลายเป็นสัญลักษณ์ของมลทินสุดสุดในวัฒนธรรมยิว (มก 5:11-13 — พระเยซูส่งผีเข้าฝูงหมู; ลก 15:15 — บุตรน้อยหลงทางต้องเลี้ยงหมู = ความน่ารังเกียจ)."
+    }
+  },
+  {
+    "reference": "LEV 11:8",
+    "chapter": 11,
+    "verse": 8,
+    "language": "hebrew",
+    "hebrew": "מִבְּשָׂרָם֙ לֹ֣א תֹאכֵ֔לוּ וּבְנִבְלָתָ֖ם לֹ֣א תִגָּ֑עוּ טְמֵאִ֥ים הֵ֖ם לָכֶֽם׃",
+    "bsb_english": "You must not eat their meat or touch their carcasses; they are unclean for you.",
+    "translation": {
+      "thai": "พวกเจ้าจะต้องไม่กินเนื้อของพวกมันหรือแตะซากของพวกมัน เป็นมลทินสำหรับพวกเจ้า",
+      "thai_literal": "‘จากเนื้อของพวกมัน พวกเจ้าจะไม่กิน และในซากของพวกมัน พวกเจ้าจะไม่แตะ เป็นมลทินพวกมันสำหรับพวกเจ้า’",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": ""
+    }
+  },
+  {
+    "reference": "LEV 11:9",
+    "chapter": 11,
+    "verse": 9,
+    "language": "hebrew",
+    "hebrew": "אֶת־זֶה֙ תֹּֽאכְל֔וּ מִכֹּ֖ל אֲשֶׁ֣ר בַּמָּ֑יִם כֹּ֣ל אֲשֶׁר־לוֹ֩ סְנַפִּ֨יר וְקַשְׂקֶ֜שֶׂת בַּמַּ֗יִם בַּיַּמִּ֛ים וּבַנְּחָלִ֖ים אֹתָ֥ם תֹּאכֵֽלוּ׃",
+    "bsb_english": "Of all the creatures that live in the water, whether in the seas or in the streams, you may eat anything with fins and scales.",
+    "translation": {
+      "thai": "จากสัตว์ทั้งหมดที่อยู่ในน้ำ ไม่ว่าจะในทะเลหรือในลำธาร พวกเจ้ากินสิ่งที่มีครีบและเกล็ดได้",
+      "thai_literal": "‘นี่คือสิ่งที่พวกเจ้าจะกิน จากทั้งหมดที่อยู่ในน้ำ ทุกตัวที่มีครีบและเกล็ดในน้ำ ในทะเลและในลำธาร พวกเจ้าจะกินพวกมัน’",
+      "thai_summary": "**สัตว์น้ำ (vv.9–12): ครีบ + เกล็ด.** สัตว์น้ำที่กินได้ต้องมีทั้งสอง.",
+      "key_decisions": [
+        {"hebrew": "סְנַפִּיר וְקַשְׂקֶשֶׂת", "thai": "ครีบและเกล็ด", "rationale": "sənappîr və-qaśqeśeṯ — 'ครีบและเกล็ด'. เกณฑ์มาตรฐานของปลาที่กินได้ในอิสราเอล."}
+      ],
+      "notes": "**FINS AND SCALES**: เกณฑ์ที่ตัดสัตว์น้ำเช่นกุ้ง หอย ปลาหมึก ปลาไหล — ทั้งหมดถือเป็นมลทินในอาหารยิว."
+    }
+  },
+  {
+    "reference": "LEV 11:10",
+    "chapter": 11,
+    "verse": 10,
+    "language": "hebrew",
+    "hebrew": "וְכֹל֩ אֲשֶׁ֨ר אֵֽין־ל֜וֹ סְנַפִּ֣יר וְקַשְׂקֶ֗שֶׂת בַּיַּמִּים֙ וּבַנְּחָלִ֔ים מִכֹּל֙ שֶׁ֣רֶץ הַמַּ֔יִם וּמִכֹּ֛ל נֶ֥פֶשׁ הַחַיָּ֖ה אֲשֶׁ֣ר בַּמָּ֑יִם שֶׁ֥קֶץ הֵ֖ם לָכֶֽם׃",
+    "bsb_english": "But the following among all the teeming life and creatures in the water are detestable to you: everything in the seas or streams that does not have fins and scales.",
+    "translation": {
+      "thai": "แต่ทั้งหมดที่อยู่ในทะเลและในลำธารที่ไม่มีครีบและเกล็ด จากสัตว์เลื้อยคลานในน้ำและจากชีวิตทั้งหมดในน้ำ เป็นสิ่งน่ารังเกียจสำหรับพวกเจ้า",
+      "thai_literal": "‘และทุกตัวที่ไม่มีครีบและเกล็ด ในทะเลและในลำธาร จากสัตว์เลื้อยคลานทั้งหมดของน้ำ และจากชีวิตทั้งหมดของสัตว์ที่อยู่ในน้ำ เป็นสิ่งน่ารังเกียจพวกมันสำหรับพวกเจ้า’",
+      "thai_summary": null,
+      "key_decisions": [
+        {"hebrew": "שֶׁקֶץ", "thai": "สิ่งน่ารังเกียจ", "rationale": "šeqeṣ — 'สิ่งน่ารังเกียจ/น่าเกลียดน่าชัง'. แรงกว่า טָמֵא ('มลทิน') — บ่งบอกความน่ารังเกียจในเชิงพิธีกรรม."}
+      ],
+      "notes": "**'DETESTABLE' (שֶׁקֶץ)**: แรงกว่า 'มลทิน' — สิ่งที่ผู้บูชาพระเจ้าควรรู้สึกขยะแขยง. ตรงข้ามกับ qōḏeš ('บริสุทธิ์')."
+    }
+  },
+  {
+    "reference": "LEV 11:11",
+    "chapter": 11,
+    "verse": 11,
+    "language": "hebrew",
+    "hebrew": "וְשֶׁ֖קֶץ יִהְי֣וּ לָכֶ֑ם מִבְּשָׂרָם֙ לֹ֣א תֹאכֵ֔לוּ וְאֶת־נִבְלָתָ֖ם תְּשַׁקֵּֽצוּ׃",
+    "bsb_english": "They shall be an abomination to you; you must not eat their meat, and you must detest their carcasses.",
+    "translation": {
+      "thai": "พวกมันจะเป็นสิ่งน่ารังเกียจสำหรับพวกเจ้า พวกเจ้าจะต้องไม่กินเนื้อของพวกมัน และต้องรังเกียจซากของพวกมัน",
+      "thai_literal": "‘และสิ่งน่ารังเกียจพวกมันจะเป็นแก่พวกเจ้า จากเนื้อของพวกมัน พวกเจ้าจะไม่กิน และซากของพวกมัน พวกเจ้าจะรังเกียจ’",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": ""
+    }
+  },
+  {
+    "reference": "LEV 11:12",
+    "chapter": 11,
+    "verse": 12,
+    "language": "hebrew",
+    "hebrew": "כֹּ֣ל אֲשֶׁ֥ר אֵֽין־ל֛וֹ סְנַפִּ֥יר וְקַשְׂקֶ֖שֶׂת בַּמָּ֑יִם שֶׁ֥קֶץ ה֖וּא לָכֶֽם׃",
+    "bsb_english": "Everything in the water that does not have fins and scales shall be detestable to you.",
+    "translation": {
+      "thai": "ทุกสิ่งในน้ำที่ไม่มีครีบและเกล็ดจะเป็นสิ่งน่ารังเกียจสำหรับพวกเจ้า",
+      "thai_literal": "‘ทุกตัวที่ไม่มีครีบและเกล็ดในน้ำ เป็นสิ่งน่ารังเกียจมันสำหรับพวกเจ้า’",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": ""
+    }
+  },
+  {
+    "reference": "LEV 11:13",
+    "chapter": 11,
+    "verse": 13,
+    "language": "hebrew",
+    "hebrew": "וְאֶת־אֵ֨לֶּה֙ תְּשַׁקְּצ֣וּ מִן־הָע֔וֹף לֹ֥א יֵאָכְל֖וּ שֶׁ֣קֶץ הֵ֑ם אֶת־הַנֶּ֨שֶׁר֙ וְאֶת־הַפֶּ֔רֶס וְאֵ֖ת הָעָזְנִיָּֽה׃",
+    "bsb_english": "Additionally, you are to detest the following birds, and they must not be eaten because they are detestable: the eagle, the bearded vulture, the black vulture,",
+    "translation": {
+      "thai": "และพวกเจ้าจะต้องรังเกียจนกเหล่านี้ พวกมันจะต้องไม่ถูกกิน เพราะเป็นสิ่งน่ารังเกียจ คือนกอินทรี แร้งเครา แร้งดำ",
+      "thai_literal": "‘และเหล่านี้พวกเจ้าจะรังเกียจ จากนก จะไม่ถูกกิน สิ่งน่ารังเกียจพวกมัน — นกอินทรี และแร้ง และแร้งดำ’",
+      "thai_summary": "**นกที่ห้ามกิน (vv.13–19).** รายการนกที่ไม่สะอาด — ส่วนใหญ่เป็นนกล่าเหยื่อหรือนกที่กินซาก.",
+      "key_decisions": [
+        {"hebrew": "נֶשֶׁר", "thai": "นกอินทรี", "rationale": "nešer — 'นกอินทรี' (eagle/large bird of prey)."},
+        {"hebrew": "פֶּרֶס", "thai": "แร้งเครา", "rationale": "peres — 'bearded vulture' (Gypaetus barbatus). uW notes ใช้ 'bearded vulture'."},
+        {"hebrew": "עָזְנִיָּה", "thai": "แร้งดำ", "rationale": "ʿāzəniyyāh — 'black vulture' (Aegypius monachus)."}
+      ],
+      "notes": "**BIRDS OF PREY**: นกที่ห้ามกินส่วนใหญ่เป็นนกล่าเหยื่อ + นกที่กินซาก — สอดคล้องกับการเน้นการแยกออกจากความตายและเลือด."
+    }
+  },
+  {
+    "reference": "LEV 11:14",
+    "chapter": 11,
+    "verse": 14,
+    "language": "hebrew",
+    "hebrew": "וְאֶת־הַ֨דָּאָ֔ה וְאֶת־הָאַיָּ֖ה לְמִינָֽהּ׃",
+    "bsb_english": "the kite, any kind of falcon,",
+    "translation": {
+      "thai": "เหยี่ยวว่าว เหยี่ยวทุกชนิด",
+      "thai_literal": "‘และเหยี่ยวว่าว และเหยี่ยวตามชนิดของมัน’",
+      "thai_summary": null,
+      "key_decisions": [
+        {"hebrew": "דָּאָה", "thai": "เหยี่ยวว่าว", "rationale": "dāʾāh — 'kite' (Milvus). นกล่าเหยื่อขนาดกลาง."},
+        {"hebrew": "אַיָּה", "thai": "เหยี่ยว", "rationale": "ʾayyāh — 'falcon/black kite'. uW ใช้ 'falcon'."}
+      ],
+      "notes": ""
+    }
+  },
+  {
+    "reference": "LEV 11:15",
+    "chapter": 11,
+    "verse": 15,
+    "language": "hebrew",
+    "hebrew": "אֵ֥ת כָּל־עֹרֵ֖ב לְמִינֽוֹ׃",
+    "bsb_english": "any kind of raven,",
+    "translation": {
+      "thai": "กาทุกชนิด",
+      "thai_literal": "‘กาทุกชนิดตามชนิดของมัน’",
+      "thai_summary": null,
+      "key_decisions": [
+        {"hebrew": "עֹרֵב", "thai": "กา", "rationale": "ʿōrēḇ — 'กา/อีกา' (Corvus)."}
+      ],
+      "notes": ""
+    }
+  },
+  {
+    "reference": "LEV 11:16",
+    "chapter": 11,
+    "verse": 16,
+    "language": "hebrew",
+    "hebrew": "וְאֵת֙ בַּ֣ת הַֽיַּעֲנָ֔ה וְאֶת־הַתַּחְמָ֖ס וְאֶת־הַשָּׁ֑חַף וְאֶת־הַנֵּ֖ץ לְמִינֵֽהוּ׃",
+    "bsb_english": "the ostrich, the screech owl, the gull, any kind of hawk,",
+    "translation": {
+      "thai": "นกกระจอกเทศ นกแสกป่า นกนางนวล เหยี่ยวทุกชนิด",
+      "thai_literal": "‘และบุตรของนกกระจอกเทศ และนกแสกป่า และนกนางนวล และเหยี่ยวตามชนิดของมัน’",
+      "thai_summary": null,
+      "key_decisions": [
+        {"hebrew": "בַּת הַיַּעֲנָה", "thai": "นกกระจอกเทศ", "rationale": "baṯ hayyaʿănāh — 'บุตรของยาเอนาห์' = นกกระจอกเทศ (ostrich) ตามแบบดั้งเดิม."},
+        {"hebrew": "תַּחְמָס", "thai": "นกแสกป่า", "rationale": "taḥmās — uncertain; 'screech owl' หรือ 'nighthawk'."},
+        {"hebrew": "שָׁחַף", "thai": "นกนางนวล", "rationale": "šāḥap̄ — 'นกนางนวล' (gull) — เป็นที่ยอมรับโดยทั่วไป."},
+        {"hebrew": "נֵץ", "thai": "เหยี่ยว", "rationale": "nēṣ — 'hawk'."}
+      ],
+      "notes": ""
+    }
+  },
+  {
+    "reference": "LEV 11:17",
+    "chapter": 11,
+    "verse": 17,
+    "language": "hebrew",
+    "hebrew": "וְאֶת־הַכּ֥וֹס וְאֶת־הַשָּׁלָ֖ךְ וְאֶת־הַיַּנְשֽׁוּף׃",
+    "bsb_english": "the little owl, the cormorant, the great owl,",
+    "translation": {
+      "thai": "นกเค้าแมวเล็ก นกกาน้ำ นกเค้าแมวใหญ่",
+      "thai_literal": "‘และนกเค้าแมวเล็ก และนกกาน้ำ และนกเค้าแมวใหญ่’",
+      "thai_summary": null,
+      "key_decisions": [
+        {"hebrew": "כּוֹס", "thai": "นกเค้าแมวเล็ก", "rationale": "kôs — 'little owl'."},
+        {"hebrew": "שָׁלָךְ", "thai": "นกกาน้ำ", "rationale": "šālāḵ — 'cormorant' (uncertain — บางครั้ง 'fish hawk')."},
+        {"hebrew": "יַנְשׁוּף", "thai": "นกเค้าแมวใหญ่", "rationale": "yanšûp̄ — 'great owl' (large nocturnal predator)."}
+      ],
+      "notes": ""
+    }
+  },
+  {
+    "reference": "LEV 11:18",
+    "chapter": 11,
+    "verse": 18,
+    "language": "hebrew",
+    "hebrew": "וְאֶת־הַתִּנְשֶׁ֥מֶת וְאֶת־הַקָּאָ֖ת וְאֶת־הָרָחָֽם׃",
+    "bsb_english": "the white owl, the desert owl, the osprey,",
+    "translation": {
+      "thai": "นกเค้าแมวขาว นกกระทุงทะเลทราย แร้งอียิปต์",
+      "thai_literal": "‘และนกเค้าแมวขาว และนกกระทุงทะเลทราย และแร้งอียิปต์’",
+      "thai_summary": null,
+      "key_decisions": [
+        {"hebrew": "תִּנְשֶׁמֶת", "thai": "นกเค้าแมวขาว", "rationale": "tinšemeṯ — 'white owl' (barn owl)."},
+        {"hebrew": "קָאַת", "thai": "นกกระทุงทะเลทราย", "rationale": "qāʾaṯ — 'desert owl/pelican' — uncertain. uW notes ใช้ 'desert owl'."},
+        {"hebrew": "רָחָם", "thai": "แร้งอียิปต์", "rationale": "lemma rāḥām — HAPAX (ปรากฏครั้งเดียวใน OT พร้อมบทคู่ ฉธบ 14:17). 'osprey' หรือ 'Egyptian vulture' (Neophron percnopterus). uW notes ใช้ 'osprey'."}
+      ],
+      "notes": "**HAPAX 'OSPREY' (רָחָם)**: ปรากฏครั้งเดียวใน OT (พร้อมบทคู่ ฉธบ 14:17). ความหมายไม่แน่นอน — uW notes แนะนำ 'osprey'."
+    }
+  },
+  {
+    "reference": "LEV 11:19",
+    "chapter": 11,
+    "verse": 19,
+    "language": "hebrew",
+    "hebrew": "וְאֵת֙ הַחֲסִידָ֔ה הָאֲנָפָ֖ה לְמִינָ֑הּ וְאֶת־הַדּוּכִיפַ֖ת וְאֶת־הָעֲטַלֵּֽף׃",
+    "bsb_english": "the stork, any kind of heron, the hoopoe, and the bat.",
+    "translation": {
+      "thai": "นกกระสา นกกระยางทุกชนิด นกหัวขวานสีน้ำตาล และค้างคาว",
+      "thai_literal": "‘และนกกระสา นกกระยางตามชนิดของมัน และนกหัวขวาน และค้างคาว’",
+      "thai_summary": null,
+      "key_decisions": [
+        {"hebrew": "חֲסִידָה", "thai": "นกกระสา", "rationale": "ḥăsîḏāh — 'stork'."},
+        {"hebrew": "אֲנָפָה", "thai": "นกกระยาง", "rationale": "ʾănāp̄āh — 'heron'."},
+        {"hebrew": "דּוּכִיפַת", "thai": "นกหัวขวานสีน้ำตาล", "rationale": "dûḵîp̄aṯ — 'hoopoe' (Upupa epops). คำในไทยใกล้ที่สุด."},
+        {"hebrew": "עֲטַלֵּף", "thai": "ค้างคาว", "rationale": "ʿăṭallēp̄ — 'bat' (bat in modern biology is mammal, not bird — but ancient Israel classified by where it flies)."}
+      ],
+      "notes": "**BAT WITH BIRDS**: ในการจัดประเภทโบราณ ค้างคาวจัดอยู่กับ 'นก' (โดยพิจารณาที่บินได้) ไม่ใช่สัตว์เลี้ยงลูกด้วยนม — ไม่ใช่ข้อผิดพลาดทางวิทยาศาสตร์ แต่เป็นการจัดประเภทตามพฤติกรรม."
+    }
+  },
+  {
+    "reference": "LEV 11:20",
+    "chapter": 11,
+    "verse": 20,
+    "language": "hebrew",
+    "hebrew": "כֹּ֚ל שֶׁ֣רֶץ הָע֔וֹף הַהֹלֵ֖ךְ עַל־אַרְבַּ֑ע שֶׁ֥קֶץ ה֖וּא לָכֶֽם׃ס",
+    "bsb_english": "All flying insects that walk on all fours are detestable to you.",
+    "translation": {
+      "thai": "สัตว์เลื้อยคลานที่บินได้ทั้งหมดที่เดินบนสี่ขา เป็นสิ่งน่ารังเกียจสำหรับพวกเจ้า",
+      "thai_literal": "‘ทุกสัตว์เลื้อยคลานที่บินได้ ที่เดินบนสี่ เป็นสิ่งน่ารังเกียจมันสำหรับพวกเจ้า’",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": "**'FLYING INSECTS ON FOURS'**: คำเชิงปรากฎการณ์ — แมลงบินที่ดูเหมือนเดินด้วย 4 ขา (จริง ๆ มี 6 ขา แต่บางขาใช้กระโดด)."
+    }
+  },
+  {
+    "reference": "LEV 11:21",
+    "chapter": 11,
+    "verse": 21,
+    "language": "hebrew",
+    "hebrew": "אַ֤ךְ אֶת־זֶה֙ תֹּֽאכְל֔וּ מִכֹּל֙ שֶׁ֣רֶץ הָע֔וֹף הַהֹלֵ֖ךְ עַל־אַרְבַּ֑ע אֲשֶׁר־ל֤וֹ כְרָעַ֨יִם֙ מִמַּ֣עַל לְרַגְלָ֔יו לְנַתֵּ֥ר בָּהֵ֖ן עַל־הָאָֽרֶץ׃",
+    "bsb_english": "However, you may eat the following kinds of flying insects that walk on all fours: those having jointed legs above their feet for hopping on the ground.",
+    "translation": {
+      "thai": "อย่างไรก็ตาม พวกเจ้ากินแมลงบินที่เดินบนสี่ขาดังต่อไปนี้ได้: ที่มีขามีข้อต่อเหนือเท้าสำหรับกระโดดบนแผ่นดิน",
+      "thai_literal": "‘แต่สิ่งนี้พวกเจ้าจะกิน จากสัตว์เลื้อยคลานทุกตัวที่บินได้ ที่เดินบนสี่ ที่มีขาเหนือเท้าของมัน เพื่อกระโดดด้วยพวกมันบนแผ่นดิน’",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": "**HOPPING INSECTS**: เกณฑ์เฉพาะ — แมลงที่มีข้อต่อเหนือเท้าสำหรับกระโดด = ตั๊กแตน (locust family)."
+    }
+  },
+  {
+    "reference": "LEV 11:22",
+    "chapter": 11,
+    "verse": 22,
+    "language": "hebrew",
+    "hebrew": "אֶת־אֵ֤לֶּה מֵהֶם֙ תֹּאכֵ֔לוּ אֶת־הָֽאַרְבֶּ֣ה לְמִינ֔וֹ וְאֶת־הַסָּלְעָ֖ם לְמִינֵ֑הוּ וְאֶת־הַחַרְגֹּ֣ל לְמִינֵ֔הוּ וְאֶת־הֶחָגָ֖ב לְמִינֵֽהוּ׃",
+    "bsb_english": "Of these you may eat any kind of locust, katydid, cricket, or grasshopper.",
+    "translation": {
+      "thai": "ในกลุ่มเหล่านี้ พวกเจ้ากินตั๊กแตนทุกชนิด ตั๊กแตนเอวยาว จิ้งหรีด หรือตั๊กแตนเล็กได้",
+      "thai_literal": "‘เหล่านี้จากพวกมัน พวกเจ้าจะกิน — ตั๊กแตนตามชนิดของมัน และซอลอามตามชนิดของมัน และจิ้งหรีดตามชนิดของมัน และตั๊กแตนเล็กตามชนิดของมัน’",
+      "thai_summary": null,
+      "key_decisions": [
+        {"hebrew": "אַרְבֶּה", "thai": "ตั๊กแตน", "rationale": "ʾarbeh — 'locust' (Schistocerca gregaria). ตั๊กแตนใหญ่."},
+        {"hebrew": "סׇלְעָם", "thai": "ตั๊กแตนเอวยาว", "rationale": "lemma sālʿām — HAPAX (ปรากฏครั้งเดียว). 'katydid' หรือ 'bald locust' uncertain."},
+        {"hebrew": "חַרְגֹּל", "thai": "จิ้งหรีด", "rationale": "lemma ḥargōl — HAPAX. 'cricket' หรือ 'beetle' uncertain."},
+        {"hebrew": "חָגָב", "thai": "ตั๊กแตนเล็ก", "rationale": "ḥāḡāḇ — 'grasshopper'. ตั๊กแตนขนาดเล็ก."}
+      ],
+      "notes": "**HAPAX INSECTS**: סָלְעָם และ חַרְגֹּל ปรากฏครั้งเดียวใน OT — ชนิดที่ไม่แน่นอน. uW notes แนะนำให้ใช้คำสำหรับแมลงท้องถิ่นที่กระโดดได้. **EDIBLE LOCUSTS**: ตั๊กแตนเป็นอาหารที่บริโภคในตะวันออกกลางโบราณ — ยอห์นบัพติศมาก็กินตั๊กแตน (มธ 3:4)."
+    }
+  },
+  {
+    "reference": "LEV 11:23",
+    "chapter": 11,
+    "verse": 23,
+    "language": "hebrew",
+    "hebrew": "וְכֹל֙ שֶׁ֣רֶץ הָע֔וֹף אֲשֶׁר־ל֖וֹ אַרְבַּ֣ע רַגְלָ֑יִם שֶׁ֥קֶץ ה֖וּא לָכֶֽם׃",
+    "bsb_english": "All other flying insects that have four legs are detestable to you.",
+    "translation": {
+      "thai": "สัตว์เลื้อยคลานที่บินได้อื่นทั้งหมดที่มีสี่ขา เป็นสิ่งน่ารังเกียจสำหรับพวกเจ้า",
+      "thai_literal": "‘และสัตว์เลื้อยคลานที่บินได้ทั้งหมด ที่มีสี่ขาของมัน เป็นสิ่งน่ารังเกียจมันสำหรับพวกเจ้า’",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": ""
+    }
+  },
+  {
+    "reference": "LEV 11:24",
+    "chapter": 11,
+    "verse": 24,
+    "language": "hebrew",
+    "hebrew": "וּלְאֵ֖לֶּה תִּטַּמָּ֑אוּ כָּל־הַנֹּגֵ֥עַ בְּנִבְלָתָ֖ם יִטְמָ֥א עַד־הָעָֽרֶב׃",
+    "bsb_english": "These creatures will make you unclean. Whoever touches their carcasses will be unclean until evening,",
+    "translation": {
+      "thai": "สัตว์เหล่านี้จะทำให้พวกเจ้าเป็นมลทิน ผู้ใดที่แตะซากของพวกมันจะเป็นมลทินจนถึงเวลาเย็น",
+      "thai_literal": "‘และเหล่านี้พวกเจ้าจะเป็นมลทิน ทุกคนที่แตะซากของพวกมันจะเป็นมลทินจนถึงเวลาเย็น’",
+      "thai_summary": "**การปนเปื้อนจากซากสัตว์ (vv.24–40).** การแตะซากสัตว์ไม่สะอาดทำให้คนเป็นมลทินจนเย็น — ต้องล้างเสื้อผ้า.",
+      "key_decisions": [],
+      "notes": "**UNTIL EVENING**: วันในอิสราเอลโบราณเริ่มที่เย็น — มลทินที่ติดเย็นนี้สิ้นสุดที่เย็นถัดมา = 24 ชั่วโมงทางพิธีกรรม."
+    }
+  },
+  {
+    "reference": "LEV 11:25",
+    "chapter": 11,
+    "verse": 25,
+    "language": "hebrew",
+    "hebrew": "וְכָל־הַנֹּשֵׂ֖א מִנִּבְלָתָ֑ם יְכַבֵּ֥ס בְּגָדָ֖יו וְטָמֵ֥א עַד־הָעָֽרֶב׃",
+    "bsb_english": "and whoever picks up one of their carcasses must wash his clothes, and he will be unclean until evening.",
+    "translation": {
+      "thai": "และผู้ใดที่หยิบซากของพวกมันต้องซักเสื้อผ้า และเขาจะเป็นมลทินจนถึงเวลาเย็น",
+      "thai_literal": "‘และทุกคนที่แบกจากซากของพวกมันจะซักเสื้อผ้าของเขา และเป็นมลทินจนถึงเวลาเย็น’",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": ""
+    }
+  },
+  {
+    "reference": "LEV 11:26",
+    "chapter": 11,
+    "verse": 26,
+    "language": "hebrew",
+    "hebrew": "לְֽכָל־הַבְּהֵמָ֡ה אֲשֶׁ֣ר הִוא֩ מַפְרֶ֨סֶת פַּרְסָ֜ה וְשֶׁ֣סַע׀אֵינֶ֣נָּה שֹׁסַ֗עַת וְגֵרָה֙ אֵינֶ֣נָּה מַעֲלָ֔ה טְמֵאִ֥ים הֵ֖ם לָכֶ֑ם כָּל־הַנֹּגֵ֥עַ בָּהֶ֖ם יִטְמָֽא׃",
+    "bsb_english": "Every animal with hooves not completely divided or that does not chew the cud is unclean for you. Whoever touches any of them will be unclean.",
+    "translation": {
+      "thai": "สัตว์เลี้ยงทุกตัวที่มีกีบไม่แยกอย่างสมบูรณ์หรือไม่เคี้ยวเอื้อง เป็นมลทินสำหรับพวกเจ้า ผู้ใดที่แตะพวกมันจะเป็นมลทิน",
+      "thai_literal": "‘สำหรับสัตว์เลี้ยงทุกตัวที่มีกีบแยก แต่กีบไม่แยกออกเป็นสองส่วน และเคี้ยวเอื้องไม่เคี้ยว เป็นมลทินพวกมันสำหรับพวกเจ้า ทุกคนที่แตะพวกมันจะเป็นมลทิน’",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": ""
+    }
+  },
+  {
+    "reference": "LEV 11:27",
+    "chapter": 11,
+    "verse": 27,
+    "language": "hebrew",
+    "hebrew": "וְכֹ֣ל׀הוֹלֵ֣ךְ עַל־כַּפָּ֗יו בְּכָל־הַֽחַיָּה֙ הַהֹלֶ֣כֶת עַל־אַרְבַּ֔ע טְמֵאִ֥ים הֵ֖ם לָכֶ֑ם כָּל־הַנֹּגֵ֥עַ בְּנִבְלָתָ֖ם יִטְמָ֥א עַד־הָעָֽרֶב׃",
+    "bsb_english": "All the four-footed animals that walk on their paws are unclean for you; whoever touches their carcasses will be unclean until evening,",
+    "translation": {
+      "thai": "สัตว์สี่เท้าทุกชนิดที่เดินบนอุ้งเท้าของมัน เป็นมลทินสำหรับพวกเจ้า ผู้ใดที่แตะซากของพวกมันจะเป็นมลทินจนถึงเวลาเย็น",
+      "thai_literal": "‘และทุกตัวที่เดินบนฝ่าเท้าของมัน ในสัตว์ทุกตัวที่เดินบนสี่ เป็นมลทินพวกมันสำหรับพวกเจ้า ทุกคนที่แตะซากของพวกมันจะเป็นมลทินจนถึงเวลาเย็น’",
+      "thai_summary": null,
+      "key_decisions": [
+        {"hebrew": "הוֹלֵךְ עַל־כַּפָּיו", "thai": "เดินบนอุ้งเท้า", "rationale": "hôlēḵ ʿal-kappāyw — 'เดินบนฝ่ามือของมัน' = สัตว์ที่ไม่มีกีบแต่มีอุ้งเท้า (สัตว์เลี้ยงลูกด้วยนมจำพวกแมว สุนัข หมี ฯลฯ)."}
+      ],
+      "notes": "**'PAWS'**: รวมแมว สุนัข หมี สิงโต — สัตว์ที่ไม่มีกีบแต่มีอุ้งเท้า. ทั้งหมดเป็นมลทิน."
+    }
+  },
+  {
+    "reference": "LEV 11:28",
+    "chapter": 11,
+    "verse": 28,
+    "language": "hebrew",
+    "hebrew": "וְהַנֹּשֵׂא֙ אֶת־נִבְלָתָ֔ם יְכַבֵּ֥ס בְּגָדָ֖יו וְטָמֵ֣א עַד־הָעָ֑רֶב טְמֵאִ֥ים הֵ֖מָּה לָכֶֽם׃ס",
+    "bsb_english": "and anyone who picks up a carcass must wash his clothes, and he will be unclean until evening. They are unclean for you.",
+    "translation": {
+      "thai": "และผู้ใดที่หยิบซากต้องซักเสื้อผ้า และจะเป็นมลทินจนถึงเวลาเย็น พวกมันเป็นมลทินสำหรับพวกเจ้า",
+      "thai_literal": "‘และผู้ที่แบกซากของพวกมันจะซักเสื้อผ้าของเขา และเป็นมลทินจนถึงเวลาเย็น เป็นมลทินพวกมันสำหรับพวกเจ้า’",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": ""
+    }
+  },
+  {
+    "reference": "LEV 11:29",
+    "chapter": 11,
+    "verse": 29,
+    "language": "hebrew",
+    "hebrew": "וְזֶ֤ה לָכֶם֙ הַטָּמֵ֔א בַּשֶּׁ֖רֶץ הַשֹּׁרֵ֣ץ עַל־הָאָ֑רֶץ הַחֹ֥לֶד וְהָעַכְבָּ֖ר וְהַצָּ֥ב לְמִינֵֽהוּ׃",
+    "bsb_english": "The following creatures that move along the ground are unclean for you: the mole, the mouse, any kind of great lizard,",
+    "translation": {
+      "thai": "เหล่านี้คือสัตว์เลื้อยคลานที่เลื้อยคลานบนแผ่นดินซึ่งเป็นมลทินสำหรับพวกเจ้า: ตัวตุ่น หนู ตะกวดทุกชนิด",
+      "thai_literal": "‘และนี่คือสำหรับพวกเจ้า มลทินในสัตว์เลื้อยคลานที่เลื้อยคลานบนแผ่นดิน — ตัวตุ่น และหนู และตะกวดตามชนิดของมัน’",
+      "thai_summary": "**สัตว์เลื้อยคลาน (vv.29–30): 8 ชนิด.** หนู ตัวตุ่น สัตว์เลื้อยคลานต่าง ๆ — สัตว์ที่อาศัยใกล้พื้นและในซอกหิน.",
+      "key_decisions": [
+        {"hebrew": "חֹלֶד", "thai": "ตัวตุ่น", "rationale": "lemma ḥōleḏ — HAPAX (ปรากฏครั้งเดียว). 'mole' หรือ 'weasel' uncertain. uW notes ใช้ 'mole'."},
+        {"hebrew": "עַכְבָּר", "thai": "หนู", "rationale": "ʿaḵbār — 'หนู' (mouse/rat). คำตรง."},
+        {"hebrew": "צָב", "thai": "ตะกวด", "rationale": "ṣāḇ — 'great lizard' (large lizard species)."}
+      ],
+      "notes": "**HAPAX 'MOLE' (חֹלֶד)**: ปรากฏครั้งเดียว. uW notes ใช้ 'mole' — สัตว์ที่ขุดอุโมงค์ใต้ดิน."
+    }
+  },
+  {
+    "reference": "LEV 11:30",
+    "chapter": 11,
+    "verse": 30,
+    "language": "hebrew",
+    "hebrew": "וְהָאֲנָקָ֥ה וְהַכֹּ֖חַ וְהַלְּטָאָ֑ה וְהַחֹ֖מֶט וְהַתִּנְשָֽׁמֶת׃",
+    "bsb_english": "the gecko, the monitor lizard, the common lizard, the skink, and the chameleon.",
+    "translation": {
+      "thai": "จิ้งจก ตะกวดยักษ์ กิ้งก่า จิ้งเหลน และกิ้งก่าคาเมเลียน",
+      "thai_literal": "‘และจิ้งจก และตะกวดยักษ์ และกิ้งก่า และจิ้งเหลน และกิ้งก่าคาเมเลียน’",
+      "thai_summary": null,
+      "key_decisions": [
+        {"hebrew": "אֲנָקָה", "thai": "จิ้งจก", "rationale": "ʾănāqāh — 'gecko'."},
+        {"hebrew": "כֹּחַ", "thai": "ตะกวดยักษ์", "rationale": "kōaḥ — 'monitor lizard' (Varanus). คำเดียวกันแปลว่า 'พลัง/อำนาจ' ในที่อื่น — uncertain."},
+        {"hebrew": "לְטָאָה", "thai": "กิ้งก่า", "rationale": "lemma ləṭāʾāh — HAPAX. 'common lizard'."},
+        {"hebrew": "חֹמֶט", "thai": "จิ้งเหลน", "rationale": "lemma ḥōmeṭ — HAPAX. 'skink' (legless lizard)."},
+        {"hebrew": "תִּנְשֶׁמֶת", "thai": "กิ้งก่าคาเมเลียน", "rationale": "tinšemeṯ — 'chameleon' (ในที่นี้); คำเดียวกันที่ v.18 = 'white owl' — homonym."}
+      ],
+      "notes": "**MULTIPLE HAPAX**: לְטָאָה + חֹמֶט ปรากฏครั้งเดียว. **TINSHEMET HOMONYM**: คำเดียวกันที่ v.18 (นก) และที่นี่ (สัตว์เลื้อยคลาน) — สองคำต่างกันที่สะกดเหมือนกัน."
+    }
+  },
+  {
+    "reference": "LEV 11:31",
+    "chapter": 11,
+    "verse": 31,
+    "language": "hebrew",
+    "hebrew": "אֵ֛לֶּה הַטְּמֵאִ֥ים לָכֶ֖ם בְּכָל־הַשָּׁ֑רֶץ כָּל־הַנֹּגֵ֧עַ בָּהֶ֛ם בְּמֹתָ֖ם יִטְמָ֥א עַד־הָעָֽרֶב׃",
+    "bsb_english": "These animals are unclean for you among all the crawling creatures. Whoever touches them when they are dead shall be unclean until evening.",
+    "translation": {
+      "thai": "เหล่านี้เป็นมลทินสำหรับพวกเจ้าจากสัตว์เลื้อยคลานทั้งหมด ผู้ใดที่แตะพวกมันเมื่อพวกมันตายแล้วจะเป็นมลทินจนถึงเวลาเย็น",
+      "thai_literal": "‘เหล่านี้เป็นมลทินสำหรับพวกเจ้าในสัตว์เลื้อยคลานทั้งหมด ทุกคนที่แตะพวกมันในการตายของพวกมันจะเป็นมลทินจนถึงเวลาเย็น’",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": ""
+    }
+  },
+  {
+    "reference": "LEV 11:32",
+    "chapter": 11,
+    "verse": 32,
+    "language": "hebrew",
+    "hebrew": "וְכֹ֣ל אֲשֶׁר־יִפֹּל־עָלָיו֩ מֵהֶ֨ם׀בְּמֹתָ֜ם יִטְמָ֗א מִכָּל־כְּלִי־עֵץ֙ א֣וֹ בֶ֤גֶד אוֹ־עוֹר֙ א֣וֹ שָׂ֔ק כָּל־כְּלִ֕י אֲשֶׁר־יֵעָשֶׂ֥ה מְלָאכָ֖ה בָּהֶ֑ם בַּמַּ֧יִם יוּבָ֛א וְטָמֵ֥א עַד־הָעֶ֖רֶב וְטָהֵֽר׃",
+    "bsb_english": "When one of them dies and falls on something, that article becomes unclean; any article of wood, clothing, leather, or sackcloth—any utensil used in work—must be put in water; it will be unclean until evening and then become clean.",
+    "translation": {
+      "thai": "เมื่อตัวใดของพวกมันตายและตกลงบนสิ่งใด สิ่งนั้นจะเป็นมลทิน เครื่องใช้ใด ๆ ที่ทำจากไม้ หรือเสื้อผ้า หรือหนังสัตว์ หรือผ้ากระสอบ เครื่องใช้ใด ๆ ที่ใช้ทำงาน จะต้องนำมาแช่น้ำ จะเป็นมลทินจนถึงเวลาเย็น แล้วจะสะอาด",
+      "thai_literal": "‘และทุกสิ่งที่จะตกลงบนมัน จากพวกมันในการตายของพวกมัน จะเป็นมลทิน จากเครื่องใช้ไม้ทั้งหมด หรือเสื้อ หรือหนัง หรือผ้ากระสอบ เครื่องใช้ทุกชิ้นที่จะทำงานด้วย ในน้ำมันจะถูกนำมา และเป็นมลทินจนถึงเวลาเย็น และจะสะอาด’",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": "**WASH IN WATER**: สิ่งของที่ปนเปื้อนต้องแช่น้ำ — น้ำเป็นกลไกชำระทางพิธีกรรม."
+    }
+  },
+  {
+    "reference": "LEV 11:33",
+    "chapter": 11,
+    "verse": 33,
+    "language": "hebrew",
+    "hebrew": "וְכָל־כְּלִי־חֶ֔רֶשׂ אֲשֶׁר־יִפֹּ֥ל מֵהֶ֖ם אֶל־תּוֹכ֑וֹ כֹּ֣ל אֲשֶׁ֧ר בְּתוֹכ֛וֹ יִטְמָ֖א וְאֹת֥וֹ תִשְׁבֹּֽרוּ׃",
+    "bsb_english": "If any of them falls into a clay pot, everything in it will be unclean; you must break the pot.",
+    "translation": {
+      "thai": "ถ้าตัวใดของพวกมันตกลงในหม้อดิน ทุกสิ่งในหม้อจะเป็นมลทิน พวกเจ้าจะต้องทุบหม้อทำลาย",
+      "thai_literal": "‘และเครื่องใช้ดินทุกชิ้น ที่จะตกจากพวกมันลงในของมัน ทุกสิ่งที่อยู่ในของมันจะเป็นมลทิน และมันพวกเจ้าจะทุบ’",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": "**SAME AS LEV 6:21**: หม้อดินที่ปนเปื้อนต้องทุบทำลาย — เพราะดูดซับ."
+    }
+  },
+  {
+    "reference": "LEV 11:34",
+    "chapter": 11,
+    "verse": 34,
+    "language": "hebrew",
+    "hebrew": "מִכָּל־הָאֹ֜כֶל אֲשֶׁ֣ר יֵאָכֵ֗ל אֲשֶׁ֨ר יָב֥וֹא עָלָ֛יו מַ֖יִם יִטְמָ֑א וְכָל־מַשְׁקֶה֙ אֲשֶׁ֣ר יִשָּׁתֶ֔ה בְּכָל־כְּלִ֖י יִטְמָֽא׃",
+    "bsb_english": "Any food coming into contact with water from that pot will be unclean, and any drink in such a container will be unclean.",
+    "translation": {
+      "thai": "อาหารใด ๆ ที่กินได้ที่มีน้ำจากหม้อนั้นมาถูกจะเป็นมลทิน และเครื่องดื่มใด ๆ ที่ดื่มได้ในภาชนะเช่นนั้นจะเป็นมลทิน",
+      "thai_literal": "‘จากอาหารทั้งหมดที่จะถูกกิน ที่น้ำจะมาบนมัน จะเป็นมลทิน และเครื่องดื่มทั้งหมดที่จะถูกดื่ม ในเครื่องใช้ทุกชิ้น จะเป็นมลทิน’",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": ""
+    }
+  },
+  {
+    "reference": "LEV 11:35",
+    "chapter": 11,
+    "verse": 35,
+    "language": "hebrew",
+    "hebrew": "וְ֠כֹל אֲשֶׁר־יִפֹּ֨ל מִנִּבְלָתָ֥ם׀עָלָיו֮ יִטְמָא֒ תַּנּ֧וּר וְכִירַ֛יִם יֻתָּ֖ץ טְמֵאִ֣ים הֵ֑ם וּטְמֵאִ֖ים יִהְי֥וּ לָכֶֽם׃",
+    "bsb_english": "Anything upon which one of their carcasses falls will be unclean. If it is an oven or cooking pot, it must be smashed; they are unclean, and they shall remain unclean for you.",
+    "translation": {
+      "thai": "สิ่งใดก็ตามที่ซากของพวกมันตกลงบน จะเป็นมลทิน ถ้าเป็นเตาอบหรือเตาหุง จะต้องทำลายให้แตก เป็นมลทินและจะเป็นมลทินสำหรับพวกเจ้า",
+      "thai_literal": "‘และทุกสิ่งที่จะตกจากซากของพวกมันบนมัน จะเป็นมลทิน เตาอบและเตาหุง จะถูกทำลาย เป็นมลทินพวกมัน และเป็นมลทินจะเป็นแก่พวกเจ้า’",
+      "thai_summary": null,
+      "key_decisions": [
+        {"hebrew": "כִּיר", "thai": "เตาหุง", "rationale": "lemma kîr (ในข้อปรากฏเป็น כִּירַיִם รูปคู่) — HAPAX. 'cooking pot' หรือ 'stove with two openings' (รูปคู่บ่งบอกว่ามีสองจุดเผา)."}
+      ],
+      "notes": "**HAPAX 'COOKING STOVE' (כִּיר)**: ปรากฏครั้งเดียวใน OT (รูปคู่). 'stove with two cooking points'."
+    }
+  },
+  {
+    "reference": "LEV 11:36",
+    "chapter": 11,
+    "verse": 36,
+    "language": "hebrew",
+    "hebrew": "אַ֣ךְ מַעְיָ֥ן וּב֛וֹר מִקְוֵה־מַ֖יִם יִהְיֶ֣ה טָה֑וֹר וְנֹגֵ֥עַ בְּנִבְלָתָ֖ם יִטְמָֽא׃",
+    "bsb_english": "Nevertheless, a spring or cistern containing water will remain clean, but one who touches a carcass in it will be unclean.",
+    "translation": {
+      "thai": "อย่างไรก็ตาม น้ำพุหรือบ่อน้ำที่มีน้ำจะคงสะอาด แต่ผู้ที่แตะซากของพวกมันในน้ำนั้นจะเป็นมลทิน",
+      "thai_literal": "‘แต่น้ำพุและบ่อ ที่ขังน้ำ จะสะอาด และผู้ที่แตะซากของพวกมันจะเป็นมลทิน’",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": "**LARGE BODIES OF WATER**: น้ำพุและบ่อน้ำขนาดใหญ่ไม่ปนเปื้อน — น้ำที่ไหลผ่าน/มีปริมาณมากเจือจางมลทินได้. หลักการที่ภายหลังเป็นพื้นฐานของ mikveh (อ่างชำระของยิว)."
+    }
+  },
+  {
+    "reference": "LEV 11:37",
+    "chapter": 11,
+    "verse": 37,
+    "language": "hebrew",
+    "hebrew": "וְכִ֤י יִפֹּל֙ מִנִּבְלָתָ֔ם עַל־כָּל־זֶ֥רַע זֵר֖וּעַ אֲשֶׁ֣ר יִזָּרֵ֑עַ טָה֖וֹר הֽוּא׃",
+    "bsb_english": "If a carcass falls on any seed for sowing, the seed is clean;",
+    "translation": {
+      "thai": "ถ้าซากตกลงบนเมล็ดใด ๆ สำหรับการหว่านปลูก เมล็ดยังคงสะอาด",
+      "thai_literal": "‘และถ้าจะตกจากซากของพวกมันบนเมล็ดทั้งหมดที่จะหว่าน ที่จะถูกหว่าน สะอาดมัน’",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": "**DRY SEED**: เมล็ดแห้งไม่ดูดซับมลทิน."
+    }
+  },
+  {
+    "reference": "LEV 11:38",
+    "chapter": 11,
+    "verse": 38,
+    "language": "hebrew",
+    "hebrew": "וְכִ֤י יֻתַּן־מַ֨יִם֙ עַל־זֶ֔רַע וְנָפַ֥ל מִנִּבְלָתָ֖ם עָלָ֑יו טָמֵ֥א ה֖וּא לָכֶֽם׃ס",
+    "bsb_english": "but if water has been put on the seed and a carcass falls on it, it is unclean for you.",
+    "translation": {
+      "thai": "แต่ถ้าน้ำได้ใส่บนเมล็ดและซากตกลงบน เป็นมลทินสำหรับพวกเจ้า",
+      "thai_literal": "‘และถ้าน้ำจะถูกใส่บนเมล็ด และตกจากซากของพวกมันบนมัน เป็นมลทินมันสำหรับพวกเจ้า’",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": "**WET SEED**: เมล็ดที่เปียกน้ำดูดซับ — เป็นมลทินได้."
+    }
+  },
+  {
+    "reference": "LEV 11:39",
+    "chapter": 11,
+    "verse": 39,
+    "language": "hebrew",
+    "hebrew": "וְכִ֤י יָמוּת֙ מִן־הַבְּהֵמָ֔ה אֲשֶׁר־הִ֥יא לָכֶ֖ם לְאָכְלָ֑ה הַנֹּגֵ֥עַ בְּנִבְלָתָ֖הּ יִטְמָ֥א עַד־הָעָֽרֶב׃",
+    "bsb_english": "If an animal that you may eat dies, anyone who touches the carcass will be unclean until evening.",
+    "translation": {
+      "thai": "ถ้าสัตว์เลี้ยงที่พวกเจ้ากินได้ตาย ผู้ใดที่แตะซากของมันจะเป็นมลทินจนถึงเวลาเย็น",
+      "thai_literal": "‘และถ้าจะตายจากสัตว์เลี้ยงที่เป็นสำหรับพวกเจ้าเพื่อกิน ผู้ที่แตะซากของมันจะเป็นมลทินจนถึงเวลาเย็น’",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": "**CLEAN ANIMAL ALSO**: แม้สัตว์ที่กินได้ (สะอาด) ถ้าตายเองโดยไม่เชือดตามพิธี — ซากยังทำให้เป็นมลทิน."
+    }
+  },
+  {
+    "reference": "LEV 11:40",
+    "chapter": 11,
+    "verse": 40,
+    "language": "hebrew",
+    "hebrew": "וְהָֽאֹכֵל֙ מִנִּבְלָתָ֔הּ יְכַבֵּ֥ס בְּגָדָ֖יו וְטָמֵ֣א עַד־הָעָ֑רֶב וְהַנֹּשֵׂא֙ אֶת־נִבְלָתָ֔הּ יְכַבֵּ֥ס בְּגָדָ֖יו וְטָמֵ֥א עַד־הָעָֽרֶב׃",
+    "bsb_english": "Whoever eats from the carcass must wash his clothes and will be unclean until evening, and anyone who picks up the carcass must wash his clothes and will be unclean until evening.",
+    "translation": {
+      "thai": "ผู้ใดที่กินจากซากต้องซักเสื้อผ้าและจะเป็นมลทินจนถึงเวลาเย็น และผู้ใดที่หยิบซากต้องซักเสื้อผ้าและจะเป็นมลทินจนถึงเวลาเย็น",
+      "thai_literal": "‘และผู้ที่กินจากซากของมันจะซักเสื้อผ้าของเขา และเป็นมลทินจนถึงเวลาเย็น และผู้ที่แบกซากของมันจะซักเสื้อผ้าของเขา และเป็นมลทินจนถึงเวลาเย็น’",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": ""
+    }
+  },
+  {
+    "reference": "LEV 11:41",
+    "chapter": 11,
+    "verse": 41,
+    "language": "hebrew",
+    "hebrew": "וְכָל־הַשֶּׁ֖רֶץ הַשֹּׁרֵ֣ץ עַל־הָאָ֑רֶץ שֶׁ֥קֶץ ה֖וּא לֹ֥א יֵאָכֵֽל׃",
+    "bsb_english": "Every creature that moves along the ground is detestable; it must not be eaten.",
+    "translation": {
+      "thai": "สัตว์เลื้อยคลานทุกตัวที่เลื้อยคลานบนแผ่นดินเป็นสิ่งน่ารังเกียจ จะต้องไม่ถูกกิน",
+      "thai_literal": "‘และสัตว์เลื้อยคลานทุกตัวที่เลื้อยคลานบนแผ่นดิน สิ่งน่ารังเกียจมัน จะไม่ถูกกิน’",
+      "thai_summary": "**สรุปกฎสัตว์เลื้อยคลาน (vv.41–43).** ยืนยันหลักการ — ห้ามกินสัตว์เลื้อยคลานทุกชนิด เพราะเป็น 'น่ารังเกียจ'.",
+      "key_decisions": [],
+      "notes": ""
+    }
+  },
+  {
+    "reference": "LEV 11:42",
+    "chapter": 11,
+    "verse": 42,
+    "language": "hebrew",
+    "hebrew": "כֹּל֩ הוֹלֵ֨ךְ עַל־גָּח֜וֹן וְכֹ֣ל׀הוֹלֵ֣ךְ עַל־אַרְבַּ֗ע עַ֚ד כָּל־מַרְבֵּ֣ה רַגְלַ֔יִם לְכָל־הַשֶּׁ֖רֶץ הַשֹּׁרֵ֣ץ עַל־הָאָ֑רֶץ לֹ֥א תֹאכְל֖וּם כִּי־שֶׁ֥קֶץ הֵֽם׃",
+    "bsb_english": "Do not eat any creature that moves along the ground, whether it crawls on its belly or walks on four or more feet; for they are detestable.",
+    "translation": {
+      "thai": "อย่ากินสัตว์เลื้อยคลานใด ๆ ที่เลื้อยคลานบนแผ่นดิน ไม่ว่าจะคลานบนท้องหรือเดินบนสี่ขาหรือมากกว่า เพราะเป็นสิ่งน่ารังเกียจ",
+      "thai_literal": "‘ทุกตัวที่เดินบนท้อง และทุกตัวที่เดินบนสี่ จนถึงสัตว์ที่มีขาเยอะ สำหรับสัตว์เลื้อยคลานทั้งหมดที่เลื้อยคลานบนแผ่นดิน อย่ากินพวกมัน เพราะสิ่งน่ารังเกียจพวกมัน’",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": "**ON ITS BELLY**: สำนวนที่ทำให้คิดถึงงู (ปฐก 3:14 — งูที่ถูกแช่ง 'เดินบนท้อง'). บ่งบอกว่าสัตว์เลื้อยคลานบนพื้นเชื่อมโยงกับการแช่งของพระเจ้า."
+    }
+  },
+  {
+    "reference": "LEV 11:43",
+    "chapter": 11,
+    "verse": 43,
+    "language": "hebrew",
+    "hebrew": "אַל־תְּשַׁקְּצוּ֙ אֶת־נַפְשֹׁ֣תֵיכֶ֔ם בְּכָל־הַשֶּׁ֖רֶץ הַשֹּׁרֵ֑ץ וְלֹ֤א תִֽטַּמְּאוּ֙ בָּהֶ֔ם וְנִטְמֵתֶ֖ם בָּֽם׃",
+    "bsb_english": "Do not defile yourselves by any crawling creature; do not become unclean or defiled by them.",
+    "translation": {
+      "thai": "อย่าทำให้ตัวเองน่ารังเกียจด้วยสัตว์เลื้อยคลานใด ๆ ที่เลื้อยคลาน อย่าทำให้ตัวเป็นมลทินด้วยพวกมัน และอย่าให้ตนเองเป็นมลทินด้วยพวกมัน",
+      "thai_literal": "‘อย่าทำให้จิตของพวกเจ้าน่ารังเกียจ ในสัตว์เลื้อยคลานทุกตัวที่เลื้อยคลาน และอย่าเป็นมลทินในพวกมัน และพวกเจ้าจะถูกทำให้เป็นมลทินในพวกมัน’",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": ""
+    }
+  },
+  {
+    "reference": "LEV 11:44",
+    "chapter": 11,
+    "verse": 44,
+    "language": "hebrew",
+    "hebrew": "כִּ֣י אֲנִ֣י יְהוָה֮ אֱלֹֽהֵיכֶם֒ וְהִתְקַדִּשְׁתֶּם֙ וִהְיִיתֶ֣ם קְדֹשִׁ֔ים כִּ֥י קָד֖וֹשׁ אָ֑נִי וְלֹ֤א תְטַמְּאוּ֙ אֶת־נַפְשֹׁ֣תֵיכֶ֔ם בְּכָל־הַשֶּׁ֖רֶץ הָרֹמֵ֥שׂ עַל־הָאָֽרֶץ׃",
+    "bsb_english": "For I am the LORD your God; consecrate yourselves, therefore, and be holy, because I am holy. You must not defile yourselves by any creature that crawls on the ground.",
+    "translation": {
+      "thai": "เพราะเราคือองค์พระผู้เป็นเจ้าพระเจ้าของพวกเจ้า จงชำระตัวเองให้บริสุทธิ์และจงเป็นผู้บริสุทธิ์ เพราะเราเป็นผู้บริสุทธิ์ พวกเจ้าจะต้องไม่ทำให้ตัวเป็นมลทินด้วยสัตว์เลื้อยคลานใด ๆ ที่เลื้อยคลานบนแผ่นดิน",
+      "thai_literal": "‘เพราะเราคือพระยาห์เวห์ พระเจ้าของพวกเจ้า และจงชำระตัวเองให้บริสุทธิ์ และจงเป็นผู้บริสุทธิ์ เพราะบริสุทธิ์เรา และอย่าทำให้จิตของพวกเจ้าเป็นมลทิน ในสัตว์เลื้อยคลานทุกตัวที่เลื้อยคลานบนแผ่นดิน’",
+      "thai_summary": "**ใจกลางทางเทววิทยา (vv.44–45): 'จงเป็นผู้บริสุทธิ์ เพราะเราเป็นผู้บริสุทธิ์'.** เหตุผลของกฎอาหาร — เพราะพระเจ้าผู้แยกอิสราเอลออกจากชาติอื่นเป็นผู้บริสุทธิ์.",
+      "key_decisions": [
+        {"hebrew": "קָדוֹשׁ אָנִי", "thai": "เราเป็นผู้บริสุทธิ์", "rationale": "qāḏôš ʾānî — 'บริสุทธิ์เรา'. หัวข้อหลักของเลวีนิติ + ส่วน 'Holiness Code' (LEV 17-26)."},
+        {"hebrew": "יהוה", "thai": "องค์พระผู้เป็นเจ้า", "rationale": "Per divine_names_table_2026-05.md."}
+      ],
+      "notes": "**'BE HOLY, FOR I AM HOLY' (קָדוֹשׁ אָנִי)**: หลักการสรุปของเลวีนิติ. NT echo: 1 ปต 1:15-16 อ้างข้อนี้ตรง ๆ ('จงเป็นผู้บริสุทธิ์ เพราะเราเป็นผู้บริสุทธิ์'). กฎอาหารไม่ใช่กฎเปล่า ๆ แต่เป็นการแยกออกจากชาติอื่นเพื่อเป็น 'ของพระเจ้า'."
+    }
+  },
+  {
+    "reference": "LEV 11:45",
+    "chapter": 11,
+    "verse": 45,
+    "language": "hebrew",
+    "hebrew": "כִּ֣י׀אֲנִ֣י יְהוָ֗ה הַֽמַּעֲלֶ֤ה אֶתְכֶם֙ מֵאֶ֣רֶץ מִצְרַ֔יִם לִהְיֹ֥ת לָכֶ֖ם לֵאלֹהִ֑ים וִהְיִיתֶ֣ם קְדֹשִׁ֔ים כִּ֥י קָד֖וֹשׁ אָֽנִי׃",
+    "bsb_english": "For I am the LORD, who brought you up out of the land of Egypt so that I would be your God; therefore be holy, because I am holy.",
+    "translation": {
+      "thai": "เพราะเราคือองค์พระผู้เป็นเจ้า ผู้ทรงนำพวกเจ้าออกจากแผ่นดินอียิปต์เพื่อเราจะเป็นพระเจ้าของพวกเจ้า เพราะฉะนั้น จงเป็นผู้บริสุทธิ์ เพราะเราเป็นผู้บริสุทธิ์",
+      "thai_literal": "‘เพราะเราคือพระยาห์เวห์ ผู้ทรงนำพวกเจ้าขึ้นจากแผ่นดินอียิปต์ เพื่อเป็นแก่พวกเจ้าเป็นพระเจ้า และจงเป็นผู้บริสุทธิ์ เพราะบริสุทธิ์เรา’",
+      "thai_summary": null,
+      "key_decisions": [
+        {"hebrew": "יהוה", "thai": "องค์พระผู้เป็นเจ้า", "rationale": "Per divine_names_table_2026-05.md."}
+      ],
+      "notes": "**EXODUS REMINDER**: พระเจ้าผู้ทรงนำอิสราเอลออกจากอียิปต์ — เหตุผลของพันธสัญญา. ความบริสุทธิ์เป็นการตอบสนองต่อพระคุณของพระเจ้า — ไม่ใช่เงื่อนไขเข้าพันธสัญญา."
+    }
+  },
+  {
+    "reference": "LEV 11:46",
+    "chapter": 11,
+    "verse": 46,
+    "language": "hebrew",
+    "hebrew": "זֹ֣את תּוֹרַ֤ת הַבְּהֵמָה֙ וְהָע֔וֹף וְכֹל֙ נֶ֣פֶשׁ הַֽחַיָּ֔ה הָרֹמֶ֖שֶׂת בַּמָּ֑יִם וּלְכָל־נֶ֖פֶשׁ הַשֹּׁרֶ֥צֶת עַל־הָאָֽרֶץ׃",
+    "bsb_english": "This is the law regarding animals, birds, all living creatures that move in the water, and all creatures that crawl along the ground,",
+    "translation": {
+      "thai": "นี่คือธรรมบัญญัติเกี่ยวกับสัตว์เลี้ยง นก สิ่งมีชีวิตทั้งหมดที่เคลื่อนไหวในน้ำ และสิ่งมีชีวิตทั้งหมดที่เลื้อยคลานบนแผ่นดิน",
+      "thai_literal": "‘นี่คือธรรมบัญญัติของสัตว์เลี้ยง และนก และชีวิตของสัตว์ทั้งหมดที่เคลื่อนไหวในน้ำ และสำหรับชีวิตทั้งหมดที่เลื้อยคลานบนแผ่นดิน’",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": ""
+    }
+  },
+  {
+    "reference": "LEV 11:47",
+    "chapter": 11,
+    "verse": 47,
+    "language": "hebrew",
+    "hebrew": "לְהַבְדִּ֕יל בֵּ֥ין הַטָּמֵ֖א וּבֵ֣ין הַטָּהֹ֑ר וּבֵ֤ין הַֽחַיָּה֙ הַֽנֶּאֱכֶ֔לֶת וּבֵין֙ הַֽחַיָּ֔ה אֲשֶׁ֖ר לֹ֥א תֵאָכֵֽל׃פ",
+    "bsb_english": "You must distinguish between the unclean and the clean, between animals that may be eaten and those that may not.”",
+    "translation": {
+      "thai": "พวกเจ้าจะต้องแยกระหว่างสิ่งที่ไม่สะอาดและสิ่งที่บริสุทธิ์ ระหว่างสัตว์ที่กินได้และสัตว์ที่กินไม่ได้”",
+      "thai_literal": "‘เพื่อแยกระหว่างมลทินและบริสุทธิ์ และระหว่างสัตว์ที่จะถูกกินและสัตว์ที่จะไม่ถูกกิน’",
+      "thai_summary": "**สรุปบทที่ 11.** วัตถุประสงค์ของกฎอาหาร — ฝึกอิสราเอลให้แยกแยะ — สัญลักษณ์ของการแยกตัวเองออกเพื่อพระเจ้า.",
+      "key_decisions": [],
+      "notes": "**CALLED TO DISCERN**: เหมือน LEV 10:10 — ปุโรหิตและประชาชนถูกเรียกให้แยกแยะระหว่างความบริสุทธิ์และความสามัญ. **NT FULFILLMENT**: ในกิจการ 10 พระเจ้าทรงประกาศว่า 'สิ่งที่พระเจ้าทรงทำให้สะอาดแล้ว เจ้าอย่าถือว่าเป็นมลทิน' — เปิดทางให้คริสตจักรกินอาหารทุกชนิดได้ (ดู มก 7:19; รม 14:14)."
+    }
+  }
+]
