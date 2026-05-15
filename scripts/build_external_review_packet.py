@@ -73,6 +73,7 @@ BOOKS = {
     "JON": ("jonah", "Jonah"),
     "GEN": ("genesis", "Genesis"),
     "EXO": ("exodus", "Exodus"),
+    "LEV": ("leviticus", "Leviticus"),
     "NUM": ("numbers", "Numbers"),
 }
 
