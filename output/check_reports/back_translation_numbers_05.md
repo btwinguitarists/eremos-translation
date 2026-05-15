@@ -11,7 +11,7 @@ Mode: in-chat (Claude-produced back-translations) | Threshold: 0.35
 ## ℹ Low similarity — rationale documented (intentional divergence)
 
 - **NUM 5:8** (sim=0.24)
-  - Thai: แต่ถ้าคนนั้นไม่มีญาติสนิทที่จะรับค่าเสียหายคืน ค่าเสียหายที่คืนนั้นเป็นขององค์พระผู้เป็นเจ้า ให้แก่ปุโรหิต นอกเหนือจากแกะตัวผู้ที่ใช้เป็นเครื่องลบมลทินซึ่งใช้ลบมลทินบาปสำหรับเขา
+  - Thai: แต่ถ้าคนนั้นไม่มีญาติผู้ไถ่ที่จะรับค่าเสียหายคืน ค่าเสียหายที่คืนนั้นเป็นขององค์พระผู้เป็นเจ้า ให้แก่ปุโรหิต นอกเหนือจากแกะตัวผู้ที่ใช้เป็นเครื่องลบมลทินซึ่งใช้ลบมลทินบาปสำหรับเขา
   - Back: But if the man has no kinsman-redeemer to whom the guilt-payment can be restored, the guilt-payment that is restored belongs to the LORD, to the priest, besides the ram of atonement by which atonement is made for him.
   - BSB:  But if the man has no relative to whom restitution can be made for the wrong, the restitution belongs to the LORD and must be given to the priest along with the ram of atonement, by which the atonement is made for him.
 - **NUM 5:14** (sim=0.17)
