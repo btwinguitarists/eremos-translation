@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-05-15 04:37:23 UTC_
-_Total chapters: 394 · Total verses: 12110_
+_Generated: 2026-05-15 05:40:04 UTC_
+_Total chapters: 395 · Total verses: 12127_
 
 ## How to verify a chapter
 
@@ -259,6 +259,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/jonah_03.json` | 10 | `c7b06a6ba800bdb213f87c3cc8519e74164ec9e2e1fe75065296a2d4caac19a0` | `c933d20` |
 | `output/translations/jonah_04.json` | 11 | `b73a2b094502650eec494e2fa5bea923d243ef18ecf7d31b8fb9928ceae90377` | `0344376` |
 | `output/translations/jude_01.json` | 25 | `830e0e17f058553a12d3c30af95ce0dfc8e68d4ae841849ece413ffc310bfc78` | `dd8164e` |
+| `output/translations/leviticus_01.json` | 17 | `4dc3d8acb54097fd1f8e3249ea68ba1290693a4e25c0e3ff7e73636bae2902cb` | `—` |
 | `output/translations/luke_01.json` | 80 | `69ceecef9eb92a4f8f94165520214feb6410f3477e0c960da749ab0905431fa4` | `1f0d7ba` |
 | `output/translations/luke_02.json` | 52 | `e50197772258e55fe3d51fecd922cfd83f9ab5ed2b2727d61038dfd9bdce5e03` | `6d15bb1` |
 | `output/translations/luke_03.json` | 38 | `a783de0c4b34da34985a62445df9229241b8083fddffd79540c317a30999962a` | `6d15bb1` |
@@ -340,26 +341,26 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/numbers_11.json` | 35 | `59ad65047c08f9f30dddf4b73f592a65e36eb30698923262610239023051cfcf` | `eb97142` |
 | `output/translations/numbers_12.json` | 16 | `48407b9b096ca7161bce2e38b814ee208b1f2981d093899e73c6637d9a595e39` | `cc96e5a` |
 | `output/translations/numbers_13.json` | 33 | `cdc48e0face91a4aed02927c33bc3a49fe7302efe161a9102b26919b03cfa116` | `de79800` |
-| `output/translations/numbers_14.json` | 45 | `37ea7052f36306eefc6b7fced2dfe1a9ee04a328092c396437e28c923b4d3418` | `c4452a9` |
+| `output/translations/numbers_14.json` | 45 | `37ea7052f36306eefc6b7fced2dfe1a9ee04a328092c396437e28c923b4d3418` | `63f5e2c` |
 | `output/translations/numbers_15.json` | 41 | `1a8207f67fc8951b6fa3843cecd77fc5753116ccdd63e859198abe2fef9517f2` | `6f9c170` |
 | `output/translations/numbers_16.json` | 35 | `7dfde3ba3424d2c202118219b303b53d3cf6f8c0a17c832725b3be8783f13353` | `b872cda` |
 | `output/translations/numbers_17.json` | 28 | `9fad127a07652f6f86d399bdf29bd88458491341b53b6ca129008eb422179607` | `48e676d` |
 | `output/translations/numbers_18.json` | 32 | `b6e6bd1307271707ba1c724ad789e49ca54afd2680a741328aab40a98c896032` | `f1b6994` |
 | `output/translations/numbers_19.json` | 22 | `29ded5cdae1978a3c2f49c7a48e79f227dd0b48a1c1ca225bdf03b7b64dabb6a` | `b2e0f38` |
-| `output/translations/numbers_20.json` | 29 | `adcb56162b34ee0b764e6ee41340907b45664c240bf443a2050fd5694738aa43` | `e7c4cae` |
+| `output/translations/numbers_20.json` | 29 | `adcb56162b34ee0b764e6ee41340907b45664c240bf443a2050fd5694738aa43` | `63f5e2c` |
 | `output/translations/numbers_21.json` | 35 | `aaac9c383dc43e6106f36a681e1e3c96afdb55ca56d7f354c55e154d9bcfd51b` | `5b2db01` |
-| `output/translations/numbers_22.json` | 41 | `59418334deed081d18b9e058769f8a987b20376b28f3fe609e3a59324fae10b7` | `fff7c14` |
+| `output/translations/numbers_22.json` | 41 | `59418334deed081d18b9e058769f8a987b20376b28f3fe609e3a59324fae10b7` | `63f5e2c` |
 | `output/translations/numbers_23.json` | 30 | `f2369f54998dc7fa46df6a4585d9a3453631653bc7809a27260f82b484fa7ed7` | `1ce68a6` |
 | `output/translations/numbers_24.json` | 25 | `978fc18408bff6db6aad6e26062f306995aeb9726466094ea1e9b91383bb295d` | `4e40eef` |
-| `output/translations/numbers_25.json` | 19 | `6fe61e9039c41840e7037388a686cd9552a5f35d84938f24a0f3196735d8a85c` | `8ef49db` |
-| `output/translations/numbers_26.json` | 65 | `a663aad172da37e0de00c60959cc9b385f93d5d736276b81926ef8087424e728` | `6ae58ef` |
+| `output/translations/numbers_25.json` | 19 | `6fe61e9039c41840e7037388a686cd9552a5f35d84938f24a0f3196735d8a85c` | `63f5e2c` |
+| `output/translations/numbers_26.json` | 65 | `a663aad172da37e0de00c60959cc9b385f93d5d736276b81926ef8087424e728` | `63f5e2c` |
 | `output/translations/numbers_27.json` | 23 | `8ca519a55b50758954c86459037d9b94694722db48d006060c55e03c59512224` | `97c1033` |
-| `output/translations/numbers_28.json` | 31 | `c6d42bd5b4a87066ed3782a5f6c8f9916725cd6add5cfc411bead53694ea4904` | `4bba038` |
+| `output/translations/numbers_28.json` | 31 | `c6d42bd5b4a87066ed3782a5f6c8f9916725cd6add5cfc411bead53694ea4904` | `63f5e2c` |
 | `output/translations/numbers_29.json` | 39 | `7c745fbce731ebc11a70a6ffc6251d421a3941688602ec9e9a6a4da57727f5d3` | `4cd2069` |
 | `output/translations/numbers_30.json` | 17 | `1c50dddcfd95692ecfedcd04c647d7a30864730c494b98a99acd992dc31476c2` | `e855826` |
-| `output/translations/numbers_31.json` | 54 | `24a2c04d69b5aa08a27cb33880a8aa23db4f86baf9b0be97ae944a67a62baca8` | `ffe1e43` |
+| `output/translations/numbers_31.json` | 54 | `24a2c04d69b5aa08a27cb33880a8aa23db4f86baf9b0be97ae944a67a62baca8` | `63f5e2c` |
 | `output/translations/numbers_32.json` | 42 | `e3f991c5af860a95dd06df39dd00fa36292617fbe5341f28ca7b6478d4426e7e` | `f764723` |
-| `output/translations/numbers_33.json` | 56 | `9c2150a63cf2fb8db8f87702116dc0fe9a784dbdb00c53c3657675b2a4284ac8` | `6b314b6` |
+| `output/translations/numbers_33.json` | 56 | `9c2150a63cf2fb8db8f87702116dc0fe9a784dbdb00c53c3657675b2a4284ac8` | `63f5e2c` |
 | `output/translations/numbers_34.json` | 29 | `70c5d53937e75d627ec16d030e5a02103f379cae03377084cf92c29594c026b9` | `6fd567a` |
 | `output/translations/numbers_35.json` | 34 | `794c860bad96f65096e945482b542ab68a85cddb0d7078eaea0b71b46cae964a` | `b4691b1` |
 | `output/translations/numbers_36.json` | 13 | `6e9e247941dbbfb9be93abd31182011a6d77fcf6ffa6ce264f9fbf14bb7c6051` | `9a54c5d` |
