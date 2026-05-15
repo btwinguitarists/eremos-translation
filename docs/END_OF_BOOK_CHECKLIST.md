@@ -16,6 +16,7 @@ This checklist is informational. Nothing in the codebase enforces running it —
 - [ ] **`python3 scripts/audit_inclusion_variants.py --book <slug> --strict`** exits **0** (every SBLGNT-omits-mainstream-includes candidate has an explicit disposition: Tier 1 phrase brackets / Tier 2 chapter-footer file / Tier 3 ⟦double brackets⟧ / silent-omission per RULES §5 / `_resolved/` dismissal doc). **Added 2026-05-02** after the Romans 16:25-27 doxology + John 5:4 Bethesda angel were silently dropped without Tier 2 follow-through. See `docs/end_of_book/inclusion_variant_gap_2026-05-02.md` for the corpus-wide audit and remediation list.
 - [ ] `python3 scripts/export_to_usfm.py --book <CODE>` regenerates `output/paratext/<CODE>.SFM` cleanly (no errors; chapter-footer remarks for Tier 2 variants render).
 - [ ] `git status output/` is clean (no orphaned source files; the post-2026-04-19 ship script auto-commits, but verify)
+- [ ] **Pre-flight grep on any translator-decisions doc written/amended during this book's run**. For each affected doc: `python3 scripts/verify_translator_decision.py --doc <path>` and confirm the doc's `## Corpus-verified shipped forms` section is current. **Added 2026-05-16** after the Leviticus audit caught two LOCKED docs whose Thai forms had 0 or near-0 shipped occurrences. See `docs/CORPUS_VERIFICATION_WORKFLOW.md`.
 
 ## 2. Editorial review (the substantive part)
 

@@ -6,6 +6,8 @@ Corpus-level editorial decisions made during end-of-book reviews. Each doc conta
 
 When writing a new doc, follow the existing structure: title with Greek + Thai gloss, **Scope**, **Decided**, **Evidence base**, **The rule**, alternatives considered, **When to revisit**, cross-references.
 
+**Pre-flight grep (added 2026-05-16):** Before marking a doc `Status: LOCKED`, run `python3 scripts/verify_translator_decision.py --doc <this file>` and paste its output into a `## Corpus-verified shipped forms` section. This was added after the Leviticus audit caught `sacrificial_vocabulary §5` locking `ลบบาป` with 14 shipped occurrences vs. 144 of the unlocked variant `ลบมลทินบาป`, and `goel_kinsman_redeemer` locking `ผู้ไถ่ที่เป็นญาติ` which has 0 shipped occurrences anywhere. See `docs/CORPUS_VERIFICATION_WORKFLOW.md` for the rule.
+
 ---
 
 ## Theological key terms (what a Greek lemma renders as)
