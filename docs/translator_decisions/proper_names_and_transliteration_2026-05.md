@@ -127,6 +127,16 @@ The two-kingdom history has ~40 kings; THSV11 baseline applies. The full king-li
 | חִתִּים | **ฮิตไทต์** (modern English-via-Thai loanword) or **ฮิตเชย** (Hebrew-form) — THSV11 uses **คนฮิตไทต์** |
 | מוֹאָב / עַמּוֹן / אֱדוֹם | **โมอับ / อัมโมน / เอโดม** |
 
+### Special-case loanwords (Greek/Latin via Thai-Christian tradition)
+
+A small set of OT terms have entered Thai through the Greek/Latin/English channel rather than direct Hebrew transliteration. Where Thai-Christian-Bible tradition strongly attests these, Eremos retains them and documents the underlying Hebrew etymology in a Layer-2 footer at first occurrence rather than forcing first-principles Hebrew phonology.
+
+| Hebrew | Eremos Thai | Why this form | Layer-2 etymology footer |
+|---|---|---|---|
+| יוֹבֵל (yobel) | **ปีจูบีลี** (Jubilee year) | Latin `iubilaeus` → English Jubilee → Thai `จูบีลี`; long-established Thai-Christian-Bible tradition (THSV11/TNCV); reader recognition outweighs phonology preservation. The metonymy "year named after the ram's-horn instrument that announces it" is recoverable via footer. | LEV 25:10 (first occurrence) — explains that יוֹבֵל literally means "ram's horn" and notes Joshua 6's `שׁוֹפְרוֹת הַיּוֹבְלִים` (trumpets-of-yobel) connection. Documented 2026-05-16 cross-AI review. |
+
+The decision rule for "is this a special-case loanword": (a) does Thai-Christian-Bible tradition unambiguously attest a single form? (b) is the Hebrew underlying word a *name-of-a-thing* (not a proper noun for a person/place)? (c) does retaining the tradition word lose a *visible* Hebrew wordplay or typological metonymy? — if (a) and (b) are yes and (c) is the only loss, document the loss in a Layer-2 footer and retain the tradition word.
+
 ---
 
 ## When to override the THSV11 baseline
