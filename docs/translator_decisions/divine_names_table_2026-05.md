@@ -148,3 +148,21 @@ This doc covers **the divine name table only**. The following are separate:
 - **Reader feedback at end of pilot.** When Ruth → Jonah → Genesis 1–11 ship and the maintainer + the Thai-language reviewer get reader response, if the per-chapter footnote convention is judged too intrusive or insufficiently transparent, adjust the mechanism (placement, brevity, frequency). The vocabulary lock is harder to revisit, but the find-replace migration to `พระยาห์เวห์` remains a clean one-PR option.
 - **Specific compound that doesn't pattern.** If a divine-name compound surfaces during translation that this table doesn't anticipate, document it in `key_decisions` and append to this doc. Don't make ad-hoc renderings without recording them here.
 - **NT regression.** If somehow the OT divine-name lock causes regression in NT rendering (extremely unlikely — both testaments use the same vocabulary now), fix immediately and audit.
+
+
+---
+
+## Sub-rule (2026-05-15): Standalone אֲדֹנָי as prayer-vocative
+
+**Decision:** When אֲדֹנָי (Adonay, plural-of-majesty) appears **standalone** in a **direct prayer-vocative** to God (i.e., not in the compound אֲדֹנָי יְהוִה, and not as a third-person title), render as **`องค์พระผู้เป็นเจ้าของข้าพระองค์`** ("my Lord").
+
+**Canonical precedent:** Num 14:17 — Moses' intercession after the spies-rebellion: וְעַתָּה יִגְדַּל־נָא כֹּחַ אֲדֹנָי → "ขอพระอานุภาพ**ขององค์พระผู้เป็นเจ้าของข้าพระองค์**ทรงสำแดงพระเกียรติยิ่งใหญ่".
+
+**Rationale:** The Adonay morphology (-ay ending) is read by morphology-sensitive translations (LEB, etc.) as honorific-possessive ("my Lord"). In direct prayer-vocative contexts, the warmer possessive Thai matches the intimate register Hebrew preserves. Confirmed by external AI cross-check (ChatGPT/Gemini/Logos 2026-05-15) — Logos AI explicitly cited LEB's morphology-sensitive treatment.
+
+**What this does NOT cover:**
+- אֲדֹנָי יְהוִה compound → separate locked compound form (see main table).
+- אֲדֹנָי used as third-person title in narrative → `องค์เจ้านาย` (master/Lord-title).
+- אֲדֹנִי (single-yodh, "my lord" addressed to humans like Moses or kings) → `เจ้านายของข้าพเจ้า` / context-appropriate.
+
+**Forward protection:** This rule will govern standalone Adonai prayer-vocatives throughout Psalms, Isaiah, Ezekiel, Daniel. Documented as part of NUM end-of-book audit (item F) before any Psalter chapter ships.

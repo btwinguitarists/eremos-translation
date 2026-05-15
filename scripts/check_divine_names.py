@@ -180,11 +180,18 @@ def has_first_occurrence_footnote(slug: str, chapter: int) -> bool:
     for entry in data:
         if not isinstance(entry, dict):
             continue
-        explanation = (entry.get("explanation_thai") or
-                       entry.get("explanation") or "").lower()
-        # Look for the convention-marker phrases
+        explanation_raw = (entry.get("explanation_thai") or
+                           entry.get("explanation") or "")
+        explanation = explanation_raw.lower()
+        # Look for the convention-marker phrases.
+        # Older long-form template (NUM 1-14, GEN, EXO etc.):
         if "องค์พระผู้เป็นเจ้า" in explanation and "ยาห์เวห์" in explanation:
             return True
+        # Newer short-form template (NUM 15+, post-2026-05) keeps Hebrew יהוה in the
+        # explanation body + the NT-alignment marker phrase ตามแบบแผนของฉบับพันธสัญญาใหม่.
+        if "องค์พระผู้เป็นเจ้า" in explanation and "יהוה" in explanation_raw:
+            if "ตามแบบแผนของฉบับพันธสัญญาใหม่" in explanation_raw or "divine_names_table" in explanation:
+                return True
         if "tetragrammaton" in explanation or "yhwh" in explanation:
             return True
     return False
