@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-05-15 13:08:12 UTC_
-_Total chapters: 413 · Total verses: 12683_
+_Generated: 2026-05-15 13:21:56 UTC_
+_Total chapters: 414 · Total verses: 12710_
 
 ## How to verify a chapter
 
@@ -277,7 +277,8 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/leviticus_16.json` | 34 | `1a4a440e53cd07982f1aaeab23a30fe0b69872e3cd8843edc3abcbaef988a9c2` | `898dae0` |
 | `output/translations/leviticus_17.json` | 16 | `bfcfb2841e2b8aed8c56f8cb2df511cf33f4132808c8fd69c6a065e6aa2a17be` | `9affa22` |
 | `output/translations/leviticus_18.json` | 30 | `f137a90927a384e7aa7284509c3acd1da95bda6099358be579d62db2ebaa44a9` | `643b140` |
-| `output/translations/leviticus_19.json` | 37 | `f8e5d65a8c9641b8e4a172c7d6e8d974d0a3e6e68a718a55e4cae63dda5862e2` | `—` |
+| `output/translations/leviticus_19.json` | 37 | `f8e5d65a8c9641b8e4a172c7d6e8d974d0a3e6e68a718a55e4cae63dda5862e2` | `ae53afe` |
+| `output/translations/leviticus_20.json` | 27 | `fdd9be8fa4052470d90e33e89554c5ff3fee4324215409bb007bdff36f1acf41` | `—` |
 | `output/translations/luke_01.json` | 80 | `69ceecef9eb92a4f8f94165520214feb6410f3477e0c960da749ab0905431fa4` | `1f0d7ba` |
 | `output/translations/luke_02.json` | 52 | `e50197772258e55fe3d51fecd922cfd83f9ab5ed2b2727d61038dfd9bdce5e03` | `6d15bb1` |
 | `output/translations/luke_03.json` | 38 | `a783de0c4b34da34985a62445df9229241b8083fddffd79540c317a30999962a` | `6d15bb1` |
