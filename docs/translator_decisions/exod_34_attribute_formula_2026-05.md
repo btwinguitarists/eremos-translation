@@ -39,7 +39,7 @@ Most OT recitations of the formula use only the **first part** (Exod 34:6 charac
 | Citation | Hebrew | Thai (canonical) |
 |---|---|---|
 | Exod 34:6 | יהוה יהוה אֵל רַחוּם וְחַנּוּן אֶרֶךְ אַפַּיִם וְרַב־חֶסֶד וֶאֱמֶת | องค์พระผู้เป็นเจ้า องค์พระผู้เป็นเจ้า พระเจ้าผู้ทรงพระเมตตาและทรงพระคุณ ทรงกริ้วช้า ทรงบริบูรณ์ด้วยความรักมั่นคงและความซื่อสัตย์ |
-| Num 14:18 | יהוה אֶרֶךְ אַפַּיִם וְרַב־חֶסֶד | องค์พระผู้เป็นเจ้าทรงกริ้วช้า ทรงบริบูรณ์ด้วยความรักมั่นคง (+ judgment-clause continues) |
+| Num 14:18 | יהוה אֶרֶךְ אַפַּיִם וְרַב־חֶסֶד נֹשֵׂא עָוֹן וָפָשַׁע וְנַקֵּה לֹא יְנַקֶּה פֹּקֵד עֲוֹן אָבוֹת… | องค์พระผู้เป็นเจ้าทรงกริ้วช้า ทรงบริบูรณ์ด้วยความรักมั่นคง ทรงยกโทษความชั่วและการละเมิด แต่จะไม่ทรงพิจารณาผู้กระทำผิดให้พ้นโทษ ทรงลงโทษความชั่วของบรรพบุรุษต่อบุตรหลานและหลานเหลน ถึงสามชั่วและสี่ชั่วอายุคน |
 | Ps 86:15 | אַתָּה אֲדֹנָי אֵל־רַחוּם וְחַנּוּן אֶרֶךְ אַפַּיִם וְרַב־חֶסֶד וֶאֱמֶת | ข้าแต่องค์พระผู้เป็นเจ้า พระองค์ทรงเป็นพระเจ้าผู้ทรงพระเมตตาและทรงพระคุณ ทรงกริ้วช้า ทรงบริบูรณ์ด้วยความรักมั่นคงและความซื่อสัตย์ |
 | Ps 103:8 | רַחוּם וְחַנּוּן יהוה אֶרֶךְ אַפַּיִם וְרַב־חָסֶד | องค์พระผู้เป็นเจ้าทรงพระเมตตาและทรงพระคุณ ทรงกริ้วช้า และทรงบริบูรณ์ด้วยความรักมั่นคง |
 | Ps 145:8 | חַנּוּן וְרַחוּם יהוה אֶרֶךְ אַפַּיִם וּגְדָל־חָסֶד | องค์พระผู้เป็นเจ้าทรงพระคุณและทรงพระเมตตา ทรงกริ้วช้า และทรงยิ่งใหญ่ในความรักมั่นคง |
@@ -62,6 +62,35 @@ Most OT recitations of the formula use only the **first part** (Exod 34:6 charac
 | נִחָם עַל־הָרָעָה (Joel/Jonah addendum) | **ทรงเปลี่ยนพระทัยจากการลงโทษ** | nicham lock per `nicham_divine_relenting_2026-05.md` |
 
 The order of חַנּוּן + רַחוּם reverses across recitations (Exod רַחוּם וְחַנּוּן vs Joel/Jonah/Ps 145 חַנּוּן וְרַחוּם). Thai must follow the Hebrew order verbatim per occurrence; the lock is on the lexical-rendering, not the word-order.
+
+### 1.4 The paqad-clause and chesed-clause (Decalogue recitations + Exod 34:7)
+
+The judgment-clause + chesed-clause attached to Exod 34:6–7 also appears in the Decalogue at **Exod 20:5–6** and **Deut 5:9–10**. These are the most-recited Pentateuchal occurrences of the paqad-clause (liturgical/catechetical use of the Decalogue). The Thai surface is locked across all three Pentateuchal anchors so the Decalogue formula and the Sinai-revelation formula read as the same canonical text-thread.
+
+| Hebrew clause | Thai (locked) | Source verse forms |
+|---|---|---|
+| נֹצֵר חֶסֶד לָאֲלָפִים | **ทรงรักษาความรักมั่นคงไว้ถึงพันชั่วอายุ** | Exod 34:7 (נצר verb) |
+| וְעֹשֶׂה חֶסֶד לַאֲלָפִים | **และทรงสำแดงความรักมั่นคงต่อหนึ่งพันชั่วอายุ** | Exod 20:6 // Deut 5:10 (עשה verb — Decalogue form) |
+| נֹשֵׂא עָוֹן וָפֶשַׁע וְחַטָּאָה | **ทรงยกโทษความชั่ว การละเมิด และบาป** | Exod 34:7 (3 items) |
+| נֹשֵׂא עָוֹן וָפָשַׁע | **ทรงยกโทษความชั่วและการละเมิด** | Num 14:18 (2 items) |
+| וְנַקֵּה לֹא יְנַקֶּה | **แต่จะไม่ทรงพิจารณาผู้กระทำผิดให้พ้นโทษ** | Exod 34:7 // Num 14:18 |
+| פֹּקֵד עֲוֹן אָבוֹת עַל־בָּנִים … עַל־שִׁלֵּשִׁים וְעַל־רִבֵּעִים | **ทรงลงโทษความชั่วของบรรพบุรุษต่อบุตรหลานและหลานเหลน ถึงสามชั่วและสี่ชั่วอายุคน** | Exod 20:5 // Deut 5:9 // Exod 34:7 // Num 14:18 |
+| (Decalogue tail) לְשֹׂנְאָי | **ของผู้เกลียดเรา** | Exod 20:5 // Deut 5:9 (Decalogue-only) |
+| (Decalogue chesed tail) לְאֹהֲבַי וּלְשֹׁמְרֵי מִצְוֹתָי | **ของผู้ที่รักเราและรักษาบัญญัติของเรา** | Exod 20:6 // Deut 5:10 (Decalogue-only) |
+
+**Locked Decalogue paqad/chesed forms (verbatim across the two Decalogues):**
+
+- **Paqad clause (Exod 20:5 // Deut 5:9):** "…เป็นพระเจ้าผู้ทรงหวงแหน ทรงลงโทษความชั่วของบรรพบุรุษต่อบุตรหลานและหลานเหลน ถึงสามชั่วและสี่ชั่วอายุคน ของผู้เกลียดเรา"
+- **Chesed clause (Exod 20:6 // Deut 5:10):** "และทรงสำแดงความรักมั่นคงต่อหนึ่งพันชั่วอายุของผู้ที่รักเราและรักษาบัญญัติของเรา"
+
+**Locked-recitations list (must use the canonical Thai surface above):**
+
+- Exod 20:5–6 (Decalogue paqad-clause + chesed-clause)
+- Exod 34:6–7 (the canonical full-form)
+- Num 14:18 (Spies-crisis recitation)
+- Deut 5:9–10 (Second-Decalogue paqad-clause + chesed-clause)
+
+The Decalogue occurrences are the **liturgical anchors** of the formula — they recur in Jewish + Christian catechesis far more often than the Sinai-narrative form. Locking them here protects the formula-thread for every downstream Psalms/Prophets recitation and every NT Decalogue-citation cluster.
 
 ---
 
@@ -113,3 +142,4 @@ A standard footnote template (used at Jonah 4:2's `output/textual_variants/jonah
 ## 5. Change log
 
 - **v0.1** (2026-05-09) — Initial lock, triggered by Jonah end-of-book audit. Locks the Exod 34 character-cluster's Thai rendering verbatim across all OT recitations; converges with chesed + nicham corpus-locks.
+- **v0.2** (2026-05-16) — DEU end-of-book audit Item A (paired with EXO + NUM tandem). Adds §1.4 — Decalogue paqad-clause + chesed-clause Thai lock. Adds EXO 20:5–6 and DEU 5:9–10 to the locked-recitations list. Retroactively normalizes NUM 14:18, EXO 20:5–6, and DEU 5:9–10 to the locked canonical Thai surface. Cross-AI consensus (Gemini + ChatGPT) flagged this as MAJOR CONCERN for the third downstream test of the formula.
