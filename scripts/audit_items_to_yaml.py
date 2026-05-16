@@ -67,6 +67,7 @@ BOOK_SLUGS = {
     "EXO": "exodus",
     "LEV": "leviticus",
     "NUM": "numbers",
+    "DEU": "deuteronomy",
 }
 
 TODO_TH = "__TODO_TH__"
@@ -89,7 +90,7 @@ QUESTION_BLOCK_RE = re.compile(
 ITEM_SEPARATOR_RE = re.compile(r"\n+---\s*\n*$")
 VERSE_REF_RE = re.compile(
     r"(?:JHN|MAT|MRK|LUK|ACT|ROM|1CO|2CO|GAL|EPH|PHP|COL|1TH|2TH|1TI|2TI|"
-    r"TIT|PHM|HEB|JAS|1PE|2PE|1JN|2JN|3JN|JUD|REV|RUT|JON|GEN|EXO|LEV|NUM)\s*(\d+):(\d+)"
+    r"TIT|PHM|HEB|JAS|1PE|2PE|1JN|2JN|3JN|JUD|REV|RUT|JON|GEN|EXO|LEV|NUM|DEU)\s*(\d+):(\d+)"
 )
 
 

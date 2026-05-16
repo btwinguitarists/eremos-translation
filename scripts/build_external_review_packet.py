@@ -75,6 +75,7 @@ BOOKS = {
     "EXO": ("exodus", "Exodus"),
     "LEV": ("leviticus", "Leviticus"),
     "NUM": ("numbers", "Numbers"),
+    "DEU": ("deuteronomy", "Deuteronomy"),
 }
 
 # OT book codes — the prompt branches on testament so OT packets reference
