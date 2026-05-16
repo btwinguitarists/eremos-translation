@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-05-16 00:42:33 UTC_
-_Total chapters: 424 · Total verses: 13081_
+_Generated: 2026-05-16 01:07:13 UTC_
+_Total chapters: 425 · Total verses: 13130_
 
 ## How to verify a chapter
 
@@ -115,7 +115,8 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/colossians_04.json` | 18 | `11b9d98690638fff358b18be59925f310cf455e8ad3b7c084fd6b865e1e9e231` | `b64d487` |
 | `output/translations/deuteronomy_01.json` | 46 | `5f9e9e9de5cec767f7a602935048ff8ea57940b4778f42b627c663be781231ff` | `ccbf792` |
 | `output/translations/deuteronomy_02.json` | 37 | `1140073e941874c1850fe16ebedccc4b7d0fd433aa1844806b2e8b5c86f259af` | `3379b04` |
-| `output/translations/deuteronomy_03.json` | 29 | `3a4097e82e37b5f183d1471267da5d45448b3892a1455a7e3191fbd49c5310fa` | `—` |
+| `output/translations/deuteronomy_03.json` | 29 | `3a4097e82e37b5f183d1471267da5d45448b3892a1455a7e3191fbd49c5310fa` | `57a1bc4` |
+| `output/translations/deuteronomy_04.json` | 49 | `b22fe2aab674bc400c571527dda83a20b256e5b8c4e4a2bab70dd4f945529cd6` | `—` |
 | `output/translations/ephesians_01.json` | 23 | `25b6b92e8fa22a1389d985ec795f3bfd27973de8e2847097f39929de798a3720` | `93fd9df` |
 | `output/translations/ephesians_02.json` | 22 | `53724785255dd4db63eb65b73968911ecb437277245fcf0b94d4478f7f188ad4` | `9ecdeec` |
 | `output/translations/ephesians_03.json` | 21 | `0b6542e76349f9fe987bced658a7a4f666d8a4d4192737c716db2c2e897ea711` | `f644854` |
