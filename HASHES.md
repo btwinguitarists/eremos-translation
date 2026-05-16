@@ -3,7 +3,7 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-05-16 04:45:08 UTC_
+_Generated: 2026-05-16 04:48:32 UTC_
 _Total chapters: 439 · Total verses: 13483_
 
 ## How to verify a chapter
