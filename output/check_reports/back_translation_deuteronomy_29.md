@@ -1,0 +1,116 @@
+# Back-translation check — deuteronomy ch. 29
+
+Mode: in-chat (Claude-produced back-translations) | Threshold: 0.35
+
+- Verses checked: 28
+- Missing back-translations: **0**
+- Flagged (low similarity AND no rationale): **0**
+- Low similarity but with rationale: 25
+- Acceptable similarity: 3
+
+## ℹ Low similarity — rationale documented (intentional divergence)
+
+- **DEU 29:2** (sim=0.27)
+  - Thai: การทดสอบใหญ่ที่ดวงตาของพวกเจ้าได้เห็น คือหมายสำคัญและการอัศจรรย์อันยิ่งใหญ่เหล่านั้น
+  - Back: The great trials that your eyes have seen, those signs and great wonders.
+  - BSB:  Moses summoned all Israel and proclaimed to them, "You have seen with your own eyes everything the LORD did in Egypt to Pharaoh, to all his officials, and to all his land.
+- **DEU 29:3** (sim=0.35)
+  - Thai: แต่จนถึงวันนี้ องค์พระผู้เป็นเจ้ายังไม่ทรงประทานใจที่จะเข้าใจ ดวงตาที่จะเห็น หรือหูที่จะฟังให้แก่พวกเจ้า
+  - Back: But the Lord has not given to you a heart to know, and eyes to see, and ears to hear, until this day.
+  - BSB:  You saw with your own eyes the great trials, and those miraculous signs and wonders.
+- **DEU 29:4** (sim=0.20)
+  - Thai: เราได้นำพวกเจ้าเป็นเวลาสี่สิบปีในถิ่นทุรกันดาร เสื้อผ้าของพวกเจ้าไม่ได้สึกหรอจากบนเจ้า และรองเท้าของเจ้าไม่ได้สึกหรอจากเท้าของเจ้า
+  - Back: And I led you forty years in the wilderness; your garments did not wear out from upon you, and your sandal did not wear out from upon your foot.
+  - BSB:  Yet to this day the LORD has not given you a mind to understand, eyes to see, or ears to hear.
+- **DEU 29:5** (sim=0.23)
+  - Thai: พวกเจ้าไม่ได้กินขนมปังและไม่ได้ดื่มเหล้าองุ่นหรือเหล้าแรง เพื่อพวกเจ้าจะได้รู้ว่าเรา คือ องค์พระผู้เป็นเจ้าพระเจ้าของพวกเจ้า
+  - Back: Bread you did not eat, and wine and strong drink you did not drink, so that you might know that I am the Lord your God.
+  - BSB:  For forty years I led you in the wilderness, yet your clothes and sandals did not wear out.
+- **DEU 29:6** (sim=0.10)
+  - Thai: และพวกเจ้าได้มาถึงที่นี่ สิโหนกษัตริย์แห่งเฮชโบนและโอกกษัตริย์แห่งบาชานได้ออกมาต่อสู้กับเราในสงคราม แต่พวกเราได้พ่ายแพ้พวกเขา
+  - Back: And you came to this place, and Sihon king of Heshbon and Og king of Bashan came out to meet us in battle, and we struck them.
+  - BSB:  You ate no bread and drank no wine or strong drink, so that you might know that I am the LORD your God.
+- **DEU 29:7** (sim=0.29)
+  - Thai: และพวกเราได้ยึดแผ่นดินของพวกเขาและมอบให้เป็นมรดกแก่ชาวรูเบน ชาวกาด และครึ่งหนึ่งของเผ่ามนัสเสห์
+  - Back: And we took their land and gave it as an inheritance to the Reubenite and to the Gadite and to the half of the tribe of the Manassite.
+  - BSB:  When you reached this place, Sihon king of Heshbon and Og king of Bashan came out against us in battle, but we defeated them.
+- **DEU 29:8** (sim=0.32)
+  - Thai: ดังนั้น พวกเจ้าจงรักษาถ้อยคำของพันธสัญญานี้และทำตาม เพื่อพวกเจ้าจะเจริญรุ่งเรืองในทุกสิ่งที่พวกเจ้าทำ
+  - Back: And you shall keep the words of this covenant, and you shall do them, so that you may prosper in all that you do.
+  - BSB:  We took their land and gave it as an inheritance to the Reubenites, the Gadites, and the half-tribe of Manasseh.
+- **DEU 29:9** (sim=0.18)
+  - Thai: ในวันนี้พวกเจ้าทั้งหมดยืนต่อหน้าองค์พระผู้เป็นเจ้าพระเจ้าของพวกเจ้า คือหัวหน้าเผ่าของพวกเจ้า ผู้อาวุโส เจ้าหน้าที่ และชาวอิสราเอลทุกคน
+  - Back: You are standing today, all of you, before the Lord your God: your heads, your tribes, your elders and your officers, every man of Israel,
+  - BSB:  So keep and follow the words of this covenant, that you may prosper in all you do.
+- **DEU 29:10** (sim=0.27)
+  - Thai: ลูกหลานของพวกเจ้า ภรรยาของพวกเจ้า และคนต่างชาติที่อยู่ในค่ายของเจ้า ตั้งแต่ผู้ตัดไม้ของเจ้าจนถึงผู้ตักน้ำของเจ้า
+  - Back: your little ones, your wives, and your foreigner who is in the midst of your camp, from the cutter of your wood to the drawer of your water,
+  - BSB:  All of you are standing today before the LORD your God—you leaders of tribes, elders, officials, and all the men of Israel,
+- **DEU 29:11** (sim=0.34)
+  - Thai: เพื่อพวกเจ้าจะเข้าสู่พันธสัญญาขององค์พระผู้เป็นเจ้าพระเจ้าของเจ้าและคำปฏิญาณของพระองค์ ซึ่งองค์พระผู้เป็นเจ้าพระเจ้าของเจ้ากำลังทำกับพวกเจ้าในวันนี้
+  - Back: so that you may enter into the covenant of the Lord your God and into His oath that the Lord your God is cutting with you today,
+  - BSB:  your children and wives, and the foreigners in your camps who cut your wood and draw your water—
+- **DEU 29:12** (sim=0.31)
+  - Thai: เพื่อพระองค์จะทรงตั้งเจ้าเป็นประชาชนของพระองค์ในวันนี้ และพระองค์จะทรงเป็นพระเจ้าของเจ้า ตามที่พระองค์ทรงสัญญากับเจ้า และตามที่ทรงปฏิญาณกับบรรพบุรุษของเจ้า คืออับราฮัม อิสอัค และยาโคบ
+  - Back: so that He may establish you today to Himself as a people, and He shall be to you as God, as He has spoken to you and as He has sworn to your fathers, to Abraham, to Isaac, and to Jacob.
+  - BSB:  so that you may enter into the covenant of the LORD your God, which He is making with you today, and into His oath,
+- **DEU 29:13** (sim=0.34)
+  - Thai: และไม่ใช่เฉพาะกับพวกเจ้าเท่านั้น ข้าพเจ้ากำลังตัดพันธสัญญานี้และคำปฏิญาณนี้
+  - Back: And not with you alone am I cutting this covenant and this oath,
+  - BSB:  and so that He may establish you today as His people, and He may be your God as He promised you and as He swore to your fathers, to Abraham, Isaac, and Jacob.
+- **DEU 29:14** (sim=0.12)
+  - Thai: แต่ทั้งกับผู้ที่ยืนอยู่ที่นี่กับพวกเรา ต่อหน้าองค์พระผู้เป็นเจ้าพระเจ้าของพวกเรา และกับผู้ที่ไม่ได้อยู่ที่นี่กับพวกเราในวันนี้
+  - Back: but with the one who is here with us standing today before the Lord our God, and with the one who is not here with us today.
+  - BSB:  I am making this covenant and this oath not only with you,
+- **DEU 29:15** (sim=0.33)
+  - Thai: เพราะพวกเจ้ารู้ว่าพวกเราอาศัยอยู่ในแผ่นดินอียิปต์อย่างไร และเราได้ผ่านท่ามกลางชนชาติทั้งหลายที่พวกเจ้าได้ผ่านไป
+  - Back: For you know how we lived in the land of Egypt, and how we passed through the midst of the nations that you passed through.
+  - BSB:  but also with those who are standing here with us today in the presence of the LORD our God, as well as with those who are not here today.
+- **DEU 29:16** (sim=0.32)
+  - Thai: และพวกเจ้าได้เห็นสิ่งน่าสะอิดสะเอียนและรูปเคารพของพวกเขา ทั้งของไม้และหิน เงินและทองที่อยู่กับพวกเขา
+  - Back: And you saw their detestable things and their idols, wood and stone, silver and gold, that were with them.
+  - BSB:  For you yourselves know how we lived in the land of Egypt and how we passed through the nations on the way here.
+- **DEU 29:17** (sim=0.23)
+  - Thai: เกรงว่าในท่ามกลางพวกเจ้าจะมีชายหรือหญิง ตระกูลหรือเผ่า ผู้ที่ใจของเขาหันออกในวันนี้จากองค์พระผู้เป็นเจ้าพระเจ้าของพวกเรา ไปปรนนิบัติเทพของชนชาติเหล่านั้น เกรงว่าในท่ามกลางพวกเจ้าจะมีรากที่ออกผลเป็นพิษและขม
+  - Back: Lest there be among you a man or woman or family or tribe whose heart turns today from the Lord our God to go to serve the gods of those nations, lest there be among you a root bearing poison and wormwood.
+  - BSB:  You saw the abominations and idols among them made of wood and stone, of silver and gold.
+- **DEU 29:18** (sim=0.03)
+  - Thai: และจะเป็น เมื่อเขาได้ยินถ้อยคำของคำปฏิญาณนี้ เขาจะอวยพรตัวเองในใจของเขา โดยกล่าวว่า ‘ฉันจะมีสันติสุข แม้ฉันจะเดินในความดื้อรั้นของใจฉัน’ ซึ่งจะนำพาทั้งดินแห้งและดินชื้นไปสู่ความหายนะ
+  - Back: And it shall be, when he hears the words of this oath, that he blesses himself in his heart, saying: Peace shall be to me, for in the stubbornness of my heart I will walk, so as to sweep away the watered with the dry.
+  - BSB:  Make sure there is no man or woman, clan or tribe among you today whose heart turns away from the LORD our God to go and worship the gods of those nations. Make sure there is no root among you that bears such poisonous and bitter fruit,
+- **DEU 29:19** (sim=0.07)
+  - Thai: องค์พระผู้เป็นเจ้าจะไม่ทรงเต็มพระทัยที่จะอภัยให้เขา แต่ความพิโรธและความหวงแหนขององค์พระผู้เป็นเจ้าจะคุกรุ่นต่อชายคนนั้น และคำสาปแช่งทั้งหมดที่เขียนไว้ในหนังสือเล่มนี้จะตกอยู่บนเขา และองค์พระผู้เป็นเจ้าจะทรงลบชื่อของเขาออกจากใต้ฟ้าสวรรค์
+  - Back: The Lord will not desire to forgive him, for then the anger of the Lord and His jealousy will smoke against that man, and every curse written in this book will lie upon him, and the Lord will blot out his name from under heaven.
+  - BSB:  because when such a person hears the words of this oath, he invokes a blessing on himself, saying, 'I will have peace, even though I walk in the stubbornness of my own heart.' This will bring disaster on the watered land as well as the dry.
+- **DEU 29:20** (sim=0.02)
+  - Thai: องค์พระผู้เป็นเจ้าจะทรงแยกเขาไว้สำหรับภัยพิบัติออกจากทุกเผ่าของอิสราเอล ตามคำปฏิญาณทั้งหมดของพันธสัญญาที่เขียนไว้ในหนังสือธรรมบัญญัตินี้
+  - Back: And the Lord will separate him for evil from all the tribes of Israel, according to all the curses of the covenant that is written in this book of the law.
+  - BSB:  The LORD will never be willing to forgive him. Instead, His anger and jealousy will burn against that man, and every curse written in this book will fall upon him. The LORD will blot out his name from under heaven
+- **DEU 29:21** (sim=0.30)
+  - Thai: และรุ่นต่อมา คือบุตรของพวกเจ้าที่จะลุกขึ้นมาหลังพวกเจ้า และคนต่างชาติที่จะมาจากแผ่นดินไกล จะกล่าว — เมื่อพวกเขาได้เห็นภัยพิบัติของแผ่นดินนั้นและโรคที่องค์พระผู้เป็นเจ้าทรงตีลงในแผ่นดินนั้น
+  - Back: And the latter generation, your sons who will rise up after you, and the foreigner who will come from a distant land, shall say—when they see the plagues of that land and its sicknesses that the Lord has made it sick with,
+  - BSB:  and single him out from all the tribes of Israel for disaster, according to all the curses of the covenant written in this Book of the Law.
+- **DEU 29:22** (sim=0.32)
+  - Thai: แผ่นดินทั้งหมดของมันจะเป็นซากเผาด้วยกำมะถันและเกลือ ไม่หว่าน ไม่งอก ไม่มีหญ้าใดงอกขึ้นในนั้น เหมือนการทำลายของโสโดมและโกโมราห์ อัดมาห์และเศโบยิม ที่องค์พระผู้เป็นเจ้าทรงคว่ำในพระพิโรธและความโกรธของพระองค์
+  - Back: sulfur and salt, a burning of all its land, it shall not be sown and not sprout, and not bring up in it any grass, like the overthrow of Sodom and Gomorrah, Admah and Zeboiim, which the Lord overthrew in His anger and in His wrath.
+  - BSB:  Then the generation to come—your sons who follow you and the foreigner who comes from a distant land—will see the plagues of the land and the sicknesses the LORD has inflicted on it.
+- **DEU 29:23** (sim=0.02)
+  - Thai: ชนชาติทั้งหมดจะถามว่า ‘เหตุใดองค์พระผู้เป็นเจ้าจึงทรงทำเช่นนี้กับแผ่นดินนี้? อะไรคือพระพิโรธอันรุนแรงที่ยิ่งใหญ่นี้?’
+  - Back: And all the nations shall say: Why has the Lord done thus to this land? What is this great burning of anger?
+  - BSB:  All its soil will be a burning waste of sulfur and salt, unsown and unproductive, with no plant growing on it, just like the destruction of Sodom and Gomorrah, Admah and Zeboiim, which the LORD overthrew in His fierce anger.
+- **DEU 29:24** (sim=0.33)
+  - Thai: และพวกเขาจะตอบว่า ‘เพราะพวกเขาได้ละทิ้งพันธสัญญาขององค์พระผู้เป็นเจ้า พระเจ้าของบรรพบุรุษของพวกเขา ที่พระองค์ทรงทำกับพวกเขาเมื่อทรงนำพวกเขาออกจากแผ่นดินอียิปต์
+  - Back: And they shall say: Because they forsook the covenant of the Lord, God of their fathers, that He cut with them when He brought them out from the land of Egypt.
+  - BSB:  So all the nations will ask, 'Why has the LORD done such a thing to this land? Why this great outburst of anger?'
+- **DEU 29:26** (sim=0.31)
+  - Thai: พระพิโรธขององค์พระผู้เป็นเจ้าจึงคุกรุ่นต่อแผ่นดินนั้น เพื่อทรงนำคำสาปแช่งทั้งหมดที่เขียนไว้ในหนังสือเล่มนี้มาเหนือมัน
+  - Back: And the anger of the Lord burned against that land, to bring upon it all the curse that is written in this book.
+  - BSB:  They went and served other gods, and they worshiped gods they had not known—gods that the LORD had not given to them.
+- **DEU 29:28** (sim=0.31)
+  - Thai: สิ่งที่ซ่อนเร้นเป็นขององค์พระผู้เป็นเจ้าพระเจ้าของพวกเรา แต่สิ่งที่เปิดเผยเป็นของพวกเราและเชื้อสายของพวกเราตลอดไป เพื่อพวกเราจะทำตามถ้อยคำทั้งหมดของบัญญัตินี้
+  - Back: The secret things belong to the Lord our God, but the revealed things belong to us and to our sons forever, to do all the words of this law.
+  - BSB:  The LORD uprooted them from their land in His anger, rage, and great wrath, and He cast them into another land, where they are today.'
+
+## Acceptable
+
+3 verses passed the similarity threshold without issue.
