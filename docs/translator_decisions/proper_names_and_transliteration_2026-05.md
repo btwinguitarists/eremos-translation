@@ -127,6 +127,30 @@ The two-kingdom history has ~40 kings; THSV11 baseline applies. The full king-li
 | חִתִּים | **ฮิตไทต์** (modern English-via-Thai loanword) or **ฮิตเชย** (Hebrew-form) — THSV11 uses **คนฮิตไทต์** |
 | מוֹאָב / עַמּוֹן / אֱדוֹם | **โมอับ / อัมโมน / เอโดม** |
 
+### Seven-nations cluster (Deut 7:1, 20:17, Josh 3:10, 24:11, Judg 3:5, etc.)
+
+**Lock added 2026-05-16 (DEU end-of-book audit Item F).** The seven-nations ethnonym cluster recurs in DEU + Josh + Judg + 1 Kgs. Surface drift was detected between DEU 7:1 (ชาว- prefix + bare ethnonym) and DEU 20:17 (คน- prefix + -ต suffix). Locked to the DEU 7:1 form across the corpus.
+
+| Hebrew | Locked Thai (canonical) | Rejected (do not use) |
+|---|---|---|
+| חִתִּי | **ชาวฮิตไทต์** | คนฮิตไทต์ |
+| גִּרְגָּשִׁי | **ชาวเกอร์กาชี** | — |
+| אֱמֹרִי | **ชาวอาโมไรต์** | คนอาโมไรต์ |
+| כְּנַעֲנִי | **ชาวคานาอัน** | คนคานาอัน |
+| פְּרִזִּי | **ชาวเปริซซี** | คนเปริสซีต (rejected — -ต is a Thai pluralization marker absent in the rest of the corpus) |
+| חִוִּי | **ชาวฮีไว** | คนฮีไวต์ (rejected) |
+| יְבוּסִי | **ชาวเยบุส** | คนเยบุสีต (rejected) |
+
+**Forward-protection:** all subsequent OT books (Joshua, Judges, Samuel, Kings, Chronicles) must use the canonical Thai surface above. `check_phrase_consistency.py` should HARD-FAIL ethnonym drift in any seven-nations occurrence.
+
+### Trans-Jordan place-names (DEU geography)
+
+| Hebrew | Locked Thai | Notes |
+|---|---|---|
+| פִּסְגָּה | **พิสกาห์** | DEU 3:17, 3:27, 4:49, 34:1; locked 2026-05-16 (DEU audit Item F1 — 34:1 was ปิสกาห์ as mechanical typo, normalized) |
+| נְבוֹ (the mountain) | **เนโบ** | DEU 32:49, 34:1 |
+| הַעֲרָבָה (the rift valley) | **อาราบาห์ / ที่ราบอาราบาห์** | context-dependent |
+
 ### Special-case loanwords (Greek/Latin via Thai-Christian tradition)
 
 A small set of OT terms have entered Thai through the Greek/Latin/English channel rather than direct Hebrew transliteration. Where Thai-Christian-Bible tradition strongly attests these, Eremos retains them and documents the underlying Hebrew etymology in a Layer-2 footer at first occurrence rather than forcing first-principles Hebrew phonology.
