@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-05-16 08:52:08 UTC_
-_Total chapters: 455 · Total verses: 13928_
+_Generated: 2026-05-16 15:12:58 UTC_
+_Total chapters: 456 · Total verses: 13946_
 
 ## How to verify a chapter
 
@@ -115,38 +115,38 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/colossians_04.json` | 18 | `11b9d98690638fff358b18be59925f310cf455e8ad3b7c084fd6b865e1e9e231` | `b64d487` |
 | `output/translations/deuteronomy_01.json` | 46 | `5f9e9e9de5cec767f7a602935048ff8ea57940b4778f42b627c663be781231ff` | `ccbf792` |
 | `output/translations/deuteronomy_02.json` | 37 | `1140073e941874c1850fe16ebedccc4b7d0fd433aa1844806b2e8b5c86f259af` | `3379b04` |
-| `output/translations/deuteronomy_03.json` | 29 | `3a4097e82e37b5f183d1471267da5d45448b3892a1455a7e3191fbd49c5310fa` | `57a1bc4` |
+| `output/translations/deuteronomy_03.json` | 29 | `9ee198195a669a254a8d20643935056abfff127740ebc1810f8777efaa10ceb2` | `2b1853d` |
 | `output/translations/deuteronomy_04.json` | 49 | `b22fe2aab674bc400c571527dda83a20b256e5b8c4e4a2bab70dd4f945529cd6` | `d991a8d` |
-| `output/translations/deuteronomy_05.json` | 33 | `1cc7e3a61015ea4f0ecfae84fb821441c83a84463626174e9359d9a69e52770d` | `ffd6a54` |
+| `output/translations/deuteronomy_05.json` | 33 | `811889fb7752d036203e5837247d3444221f982838a799f6771471f61dd0b64b` | `2b1853d` |
 | `output/translations/deuteronomy_06.json` | 25 | `7fcf147802619a4e3dff1aa624deb0f473b44a90bcac7106b1f7573cf0903ba4` | `a1de9b9` |
-| `output/translations/deuteronomy_07.json` | 26 | `960c2f415207db8b1e6bead572fa5642f621c768f06eb44dad7f2625560f3059` | `348b40f` |
+| `output/translations/deuteronomy_07.json` | 26 | `4baa3901ff16efeb7ca556e671c8bb2109a4c883e68f0b9eb86d4266cf82de4b` | `2b1853d` |
 | `output/translations/deuteronomy_08.json` | 20 | `85ab294440478b25d2a428668138b29332882e2cfdfbb8688c2f283181cd88ea` | `5536822` |
 | `output/translations/deuteronomy_09.json` | 29 | `11d5a4d03b05788e3d6f430f2bee8f0a79bc667c29a071d19a90396bd44a8e57` | `dd6911c` |
 | `output/translations/deuteronomy_10.json` | 22 | `0ccc1e4e8ed7a40b88ba65107804d944f82fd0da08b911c4bf454d5fcd2b8f4c` | `b0e708a` |
-| `output/translations/deuteronomy_11.json` | 32 | `5d227be3a4b153766cc541c23bcb77d42510e5978899e3d3e70d8d5ad04272d9` | `8fa620b` |
+| `output/translations/deuteronomy_11.json` | 32 | `29e55a4236e6e827ac46b6caadf6ce749e7c51f5efc44f040a99ddcd807a7bd4` | `2b1853d` |
 | `output/translations/deuteronomy_12.json` | 31 | `fc02769c05df8e125c84be819f0ae223d790b052577c46fb5882f8a872aa60e0` | `8637b95` |
 | `output/translations/deuteronomy_13.json` | 19 | `07c6c2978d3c3c281b16dc71b2d658726cdeb9ad5961950e0892bc46207b1cf1` | `5f09215` |
 | `output/translations/deuteronomy_14.json` | 29 | `f6159a286a3545c11f63e4da704f174783175d926bb3e483036d8ec19101ed30` | `24ae6e5` |
 | `output/translations/deuteronomy_15.json` | 23 | `f91d6dfc5fef598893e8d6534f6f7f732e4b849299b7b05e8419ced19c3eb52d` | `bf7847f` |
 | `output/translations/deuteronomy_16.json` | 22 | `55f2218d741870f4b8f48f41e2ec1b14bc980e49f55aaccf235fc075ebd452b1` | `88556c6` |
 | `output/translations/deuteronomy_17.json` | 20 | `a3178746d0d74117b100b79bc9df056f8ea48d22de1515f322ff52fed1e7d77a` | `a8ac8bc` |
-| `output/translations/deuteronomy_18.json` | 22 | `b34771c919dbff59147ec12bcea6c0d2b7a574462c74acf3eff7d2e642d0ab84` | `8cea3af` |
+| `output/translations/deuteronomy_18.json` | 22 | `5ead0c1c40370ece289bc66647a94a6b9a778de0153b0b54f5ff582d45447daf` | `2b1853d` |
 | `output/translations/deuteronomy_19.json` | 21 | `05053fa8a3dfc427cec85fdb97f8e14ab2fc705368b05ffe7c717ed317f34496` | `0d5407b` |
-| `output/translations/deuteronomy_20.json` | 20 | `ff8d6c08614906e7350a0af4286ad602a6258a4144bc3296bc6597eca0015e63` | `1aecfc4` |
+| `output/translations/deuteronomy_20.json` | 20 | `5a38df115e7e0cacf81b62bb65919f3e876cdd1d869c7e5c04df0f3a87c80131` | `2b1853d` |
 | `output/translations/deuteronomy_21.json` | 23 | `b416b03e1ebf2a6e68ac988be2ddb3787850f30c29d39acba4543856a78b096c` | `0ed52d5` |
 | `output/translations/deuteronomy_22.json` | 29 | `11a008962664a709b19cb34aec3ec0bfb51167d53d50c2a1c2e4d63a69877ff6` | `aeba42a` |
 | `output/translations/deuteronomy_23.json` | 26 | `8cb26e832a1d1d65ede2ac6a4efc1b26053372347bcd7d360fa78c1eb6ae4525` | `91d76e7` |
 | `output/translations/deuteronomy_24.json` | 22 | `87367c8dddff37b51cd2b8968870a56785cb7a813d5c68fb856219f96408733c` | `ef01928` |
-| `output/translations/deuteronomy_25.json` | 19 | `93d1b08338e3b726fdaaa5f91a72556aa086a275922453897e0dd999e7ed91ad` | `2fb351f` |
+| `output/translations/deuteronomy_25.json` | 19 | `5873bbbc64c0729602f98633793ced906036aac65631efd773d800c0b175df9e` | `2b1853d` |
 | `output/translations/deuteronomy_26.json` | 19 | `9d4380108f46a694aca4e48459b153057d3278dc9a4f1792a4698d2e83457d40` | `e287f30` |
 | `output/translations/deuteronomy_27.json` | 26 | `ed75f3381600c7bac548bbf33fe69a7814dc9ed33b13e39a6b987eac81b61adb` | `ecf0c10` |
 | `output/translations/deuteronomy_28.json` | 69 | `8ac58acc2267f56817bb7cdb891abf584cef3a702cd731461efcd63725ec6ce4` | `ebd320c` |
 | `output/translations/deuteronomy_29.json` | 28 | `83c3d3c49d5a0c327a8743e79f3e0d5462935343e4522396408d1d74f2f3a0f9` | `72e1109` |
 | `output/translations/deuteronomy_30.json` | 20 | `c86fd7fa952381a02cf819c5ae59bba0db4c01aaf4faf707d5e576ca60d0bcd2` | `20e203b` |
-| `output/translations/deuteronomy_31.json` | 30 | `de56e35aa35fa353e69571b02c51187c785fdcb760749f103c425bacd5722475` | `a8d9ede` |
+| `output/translations/deuteronomy_31.json` | 30 | `b33e24e46ac78725dc7b8e9c348386c4ab0d46da16f1c09157388b53cf155d30` | `2b1853d` |
 | `output/translations/deuteronomy_32.json` | 52 | `a067e35761bc5efea65a111f9c03cefd3d0cdc4e9f738a33f665ca804079f878` | `c780805` |
 | `output/translations/deuteronomy_33.json` | 29 | `02932f4f3325889d060e90b5c9d4a4150451246e4c1713a89cb95bf94c2d5909` | `69c7f5a` |
-| `output/translations/deuteronomy_34.json` | 12 | `623521ef7f3c20d1a052ce4929c1ce25608a933320ec03416209e4b8835869bd` | `—` |
+| `output/translations/deuteronomy_34.json` | 12 | `0ecb3feec877941592f09d5273001488aaabdb0e6decd25258339340c2b8acae` | `2b1853d` |
 | `output/translations/ephesians_01.json` | 23 | `25b6b92e8fa22a1389d985ec795f3bfd27973de8e2847097f39929de798a3720` | `93fd9df` |
 | `output/translations/ephesians_02.json` | 22 | `53724785255dd4db63eb65b73968911ecb437277245fcf0b94d4478f7f188ad4` | `9ecdeec` |
 | `output/translations/ephesians_03.json` | 21 | `0b6542e76349f9fe987bced658a7a4f666d8a4d4192737c716db2c2e897ea711` | `f644854` |
@@ -172,7 +172,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/exodus_17.json` | 16 | `a7087c819a9eedd31425d5b809e5e535ea6b2ecce8abed12be2e0cf5f8efae72` | `a8835f6` |
 | `output/translations/exodus_18.json` | 27 | `f39f37aeb676b89cb36766120c1aa3979a6a34619312b527b8b41aab02818abd` | `a348f4c` |
 | `output/translations/exodus_19.json` | 25 | `dcae28da4f7ec18869451def433476a007bc2e2935085a12c0eec36f80d6496c` | `157205c` |
-| `output/translations/exodus_20.json` | 26 | `1e85e882082778973b0e825e0df0bfcb096d771e035cbcc68464f14c29126361` | `5366c0b` |
+| `output/translations/exodus_20.json` | 26 | `6b36e1891ed8657074e3a11a83c6830fc4413194386605fe82e1e5445f5334d3` | `2b1853d` |
 | `output/translations/exodus_21.json` | 37 | `21c7da7dad9c346be1b3840b4b4b7805c3ff218014072327cee7e5b7d376e691` | `6c5da31` |
 | `output/translations/exodus_22.json` | 30 | `e4446eb37f1b187a12ef0d33d6ffc96645552b92d898cc8ae64704ea7b96a67e` | `1758575` |
 | `output/translations/exodus_23.json` | 33 | `ec60c45f30a024b10b4dfbe85c91feef0678ec6066a93b8daf1074aef77f3667` | `d35e97f` |
@@ -292,6 +292,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/jonah_02.json` | 11 | `aa9ab5accb590aca125273cec6eab67486ab9e7cf98d9ed9bc48618f85b1d0f6` | `0344376` |
 | `output/translations/jonah_03.json` | 10 | `c7b06a6ba800bdb213f87c3cc8519e74164ec9e2e1fe75065296a2d4caac19a0` | `c933d20` |
 | `output/translations/jonah_04.json` | 11 | `b73a2b094502650eec494e2fa5bea923d243ef18ecf7d31b8fb9928ceae90377` | `0344376` |
+| `output/translations/joshua_01.json` | 18 | `6dc7dcdc61d186858002bee7dc393aafcb09a58af725a5f6c3558d08c48c9466` | `—` |
 | `output/translations/jude_01.json` | 25 | `830e0e17f058553a12d3c30af95ce0dfc8e68d4ae841849ece413ffc310bfc78` | `dd8164e` |
 | `output/translations/leviticus_01.json` | 17 | `4dc3d8acb54097fd1f8e3249ea68ba1290693a4e25c0e3ff7e73636bae2902cb` | `ae02fa1` |
 | `output/translations/leviticus_02.json` | 16 | `b612a857d7531c5da10f5e53977628f4adc41fb57007912169dda91901e22925` | `26ddaa1` |
@@ -401,7 +402,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/numbers_11.json` | 35 | `59ad65047c08f9f30dddf4b73f592a65e36eb30698923262610239023051cfcf` | `eb97142` |
 | `output/translations/numbers_12.json` | 16 | `48407b9b096ca7161bce2e38b814ee208b1f2981d093899e73c6637d9a595e39` | `cc96e5a` |
 | `output/translations/numbers_13.json` | 33 | `cdc48e0face91a4aed02927c33bc3a49fe7302efe161a9102b26919b03cfa116` | `de79800` |
-| `output/translations/numbers_14.json` | 45 | `37ea7052f36306eefc6b7fced2dfe1a9ee04a328092c396437e28c923b4d3418` | `63f5e2c` |
+| `output/translations/numbers_14.json` | 45 | `194e91ab2d2ed3ff29879d69e69c52f3dab1ffea4476810b830a6620113fdcdc` | `2b1853d` |
 | `output/translations/numbers_15.json` | 41 | `71c057cdeb81d6aecc17477a804ec302a37884ae7e56dd8729c642a137ffdaca` | `7e8a9e0` |
 | `output/translations/numbers_16.json` | 35 | `7dfde3ba3424d2c202118219b303b53d3cf6f8c0a17c832725b3be8783f13353` | `b872cda` |
 | `output/translations/numbers_17.json` | 28 | `9fad127a07652f6f86d399bdf29bd88458491341b53b6ca129008eb422179607` | `48e676d` |
