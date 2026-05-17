@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-05-17 10:11:14 UTC_
-_Total chapters: 473 · Total verses: 14398_
+_Generated: 2026-05-17 10:52:57 UTC_
+_Total chapters: 474 · Total verses: 14449_
 
 ## How to verify a chapter
 
@@ -309,7 +309,8 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/joshua_15.json` | 63 | `1b92d3dbe3c9f016d133bb99385b6c0879e0956d47b2ab054017991d0522db8a` | `bd92773` |
 | `output/translations/joshua_16.json` | 10 | `dba351fbff6f6c24b6f55d71e99b5da8f39cd33f5d90b1b9e1d4e324bf54063d` | `5cdc998` |
 | `output/translations/joshua_17.json` | 18 | `02aad75c0fa1813b1fb5da00cae8ea3e6df60cdfaaad627fbf6f3289718d5a79` | `c444b13` |
-| `output/translations/joshua_18.json` | 28 | `e69437f3f6e958275b0068eb921ef4a1f74eab030586aa66192862f60d436d37` | `—` |
+| `output/translations/joshua_18.json` | 28 | `e69437f3f6e958275b0068eb921ef4a1f74eab030586aa66192862f60d436d37` | `7a23f42` |
+| `output/translations/joshua_19.json` | 51 | `6e9d16d496c40153635144aef109330472b1c47ab7843dee650051cb5238eefd` | `—` |
 | `output/translations/jude_01.json` | 25 | `830e0e17f058553a12d3c30af95ce0dfc8e68d4ae841849ece413ffc310bfc78` | `dd8164e` |
 | `output/translations/leviticus_01.json` | 17 | `4dc3d8acb54097fd1f8e3249ea68ba1290693a4e25c0e3ff7e73636bae2902cb` | `ae02fa1` |
 | `output/translations/leviticus_02.json` | 16 | `b612a857d7531c5da10f5e53977628f4adc41fb57007912169dda91901e22925` | `26ddaa1` |
