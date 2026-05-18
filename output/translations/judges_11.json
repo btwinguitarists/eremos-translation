@@ -1,0 +1,851 @@
+[
+  {
+    "reference": "JDG 11:1",
+    "chapter": 11,
+    "verse": 1,
+    "language": "hebrew",
+    "hebrew": "וְיִפְתָּ֣ח הַגִּלְעָדִ֗י הָיָה֙ גִּבּ֣וֹר חַ֔יִל וְה֖וּא בֶּן־אִשָּׁ֣ה זוֹנָ֑ה וַיּ֥וֹלֶד גִּלְעָ֖ד אֶת־יִפְתָּֽח׃",
+    "bsb_english": "Now Jephthah the Gileadite was a mighty man of valor; he was the son of a prostitute, and Gilead was his father.",
+    "translation": {
+      "thai": "เยฟทาห์ชาวกิเลอาดเป็นคนกล้าหาญ เขาเป็นบุตรของหญิงโสเภณี และกิเลอาดเป็นบิดาของเขา",
+      "thai_literal": "และเยฟทาห์ชาวกิเลอาดได้เป็นชายผู้ทรงเรี่ยวแรงของกำลัง และเขาได้เป็นบุตรของหญิงโสเภณี และกิเลอาดได้ให้เกิดซึ่งเยฟทาห์",
+      "thai_summary": "**บทที่ 11 = เรื่องของเยฟทาห์ — outsider ที่กลายเป็น judge แต่ปัญหา rash vow.** ข้อ 1 = introduction. เยฟทาห์เป็น 'mighty man of valor' (กิบบอร์ ฮายิล) — เหมือนกิดเอน (วนฉ 6:12). แต่ status สังคม: บุตรของหญิงโสเภณี. โครงสร้างเทววิทยา: พระเจ้าทรงเลือกผู้ที่ไม่ qualified by birth — pattern เดียวกับ Moses (slave-class), David (youngest), Jeremiah (youth).",
+      "key_decisions": [
+        {
+          "hebrew": "יִפְתָּח הַגִּלְעָדִי הָיָה גִּבּוֹר חַיִל",
+          "thai": "เยฟทาห์ชาวกิเลอาดเป็นคนกล้าหาญ",
+          "rationale": "**Hero introduction**. יִפְתָּח ('Jephthah' = 'he opens'). גִּבּוֹר חַיִל ('mighty man of valor') — เดียวกับ Gideon ใน วนฉ 6:12. ภาษาไทย 'คนกล้าหาญ' รักษาความหมาย — Thai readers จะ recognize epithet ที่ใช้กับ Gideon."
+        },
+        {
+          "hebrew": "וְהוּא בֶּן־אִשָּׁה זוֹנָה",
+          "thai": "เขาเป็นบุตรของหญิงโสเภณี",
+          "rationale": "**Social stigma — birth status**. בֶּן־אִשָּׁה זוֹנָה ('son of a woman, a prostitute'). ตามกฎของโมเสส (ฉธบ 23:2) บุตรของหญิงโสเภณีไม่มีสิทธิ์ใน 'assembly of YHWH' = ระดับ social exclusion. ภาษาไทย 'หญิงโสเภณี' ตรงไปตรงมา ตามแบบที่ยชว 2 (ราหับ). **ANE PROSTITUTION**: น่าจะเป็น cultic prostitute (เกี่ยวข้องกับ pagan worship) หรือ commercial prostitute. ในทั้งสองกรณี = stigma ในอิสราเอล."
+        }
+      ],
+      "notes": "**OUTSIDER JUDGE**: เยฟทาห์เป็น first major judge ที่ผู้แต่งระบุ social stigma ของเขา (อบีเมเลคก็เป็น 'son of concubine' แต่เป็น anti-judge). แสดงว่าพระเจ้าทรงเลือกใครก็ได้ — แม้คนที่สังคมจัดเป็น outcast. **NAME 'JEPHTHAH'**: 'he opens' — น่าสนใจในบริบทของ vow (v.31 'whatever opens/comes out of door' — wordplay)."
+    }
+  },
+  {
+    "reference": "JDG 11:2",
+    "chapter": 11,
+    "verse": 2,
+    "language": "hebrew",
+    "hebrew": "וַתֵּ֧לֶד אֵֽשֶׁת־גִּלְעָ֛ד ל֖וֹ בָּנִ֑ים וַיִּגְדְּל֨וּ בְֽנֵי־הָאִשָּׁ֜ה וַיְגָרְשׁ֣וּ אֶת־יִפְתָּ֗ח וַיֹּ֤אמְרוּ לוֹ֙ לֹֽא־תִנְחַ֣ל בְּבֵית־אָבִ֔ינוּ כִּ֛י בֶּן־אִשָּׁ֥ה אַחֶ֖רֶת אָֽתָּה׃",
+    "bsb_english": "And Gilead’s wife bore him sons who grew up, drove Jephthah out, and said to him, “You shall have no inheritance in our father’s house, because you are the son of another woman.”",
+    "translation": {
+      "thai": "ภรรยาของกิเลอาดก็คลอดบุตรชายให้แก่เขา และเมื่อบุตรของภรรยาเติบใหญ่ขึ้น พวกเขาก็ขับเยฟทาห์ออกไป และกล่าวกับเขาว่า “เจ้าจะไม่ได้รับมรดกในวงศ์ของบิดาของเรา เพราะเจ้าเป็นบุตรของหญิงอื่น”",
+      "thai_literal": "และภรรยาของกิเลอาดได้คลอดให้เขาบุตรทั้งหลาย และบรรดาบุตรของภรรยาได้เติบโต และพวกเขาได้ขับซึ่งเยฟทาห์ และพวกเขาได้กล่าวต่อเขาว่า เจ้าจะไม่ได้รับมรดกในวงศ์ของบิดาของเรา เพราะบุตรของหญิงอื่นเจ้าเป็น",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "כִּי בֶן־אִשָּׁה אַחֶרֶת אָתָּה",
+          "thai": "เพราะเจ้าเป็นบุตรของหญิงอื่น",
+          "rationale": "**Inheritance dispute over half-brother status**. אִשָּׁה אַחֶרֶת ('another woman') = ไม่ใช่ภรรยา-เต็มของบิดา. ในกฎโบราณ ปกติ ครอบครัวให้ inheritance ตาม father; แต่ social practice — ผู้สืบเชื้อสายจาก legitimate wife มี priority. ภาษาไทย 'หญิงอื่น' รักษาความหมาย — Thai readers จะเข้าใจ social hierarchy."
+        }
+      ],
+      "notes": "**INHERITANCE LAW**: ฉธบ 21:15-17 — บุตรหัวปีต้องได้สองส่วน แม้มารดาเป็นที่ไม่ชอบ. แต่ที่นี่ Jephthah ถูกตัดออกเพราะมารดาเป็นโสเภณี — ไม่ใช่ภรรยา. ฉะนั้นอาจ legal but morally questionable. **EXILE OF QUALIFIED LEADER**: family ขับ Jephthah แม้เขาเป็น 'mighty man of valor' — แสดงระดับ family dysfunction. pattern เดียวกับโจเซฟ (ปฐก 37) + ดาวิด."
+    }
+  },
+  {
+    "reference": "JDG 11:3",
+    "chapter": 11,
+    "verse": 3,
+    "language": "hebrew",
+    "hebrew": "וַיִּבְרַ֤ח יִפְתָּח֙ מִפְּנֵ֣י אֶחָ֔יו וַיֵּ֖שֶׁב בְּאֶ֣רֶץ ט֑וֹב וַיִּֽתְלַקְּט֤וּ אֶל־יִפְתָּח֙ אֲנָשִׁ֣ים רֵיקִ֔ים וַיֵּצְא֖וּ עִמּֽוֹ׃",
+    "bsb_english": "So Jephthah fled from his brothers and settled in the land of Tob, where worthless men gathered around him and traveled with him.",
+    "translation": {
+      "thai": "เยฟทาห์จึงหนีไปจากพี่น้องของตน และตั้งถิ่นในแผ่นดินโทบ คนชั่วก็มาชุมนุมรอบเขาและออกตระเวนกับเขา",
+      "thai_literal": "และเยฟทาห์ได้หนีจากต่อหน้าพี่น้องของเขา และเขาได้อาศัยในแผ่นดินของโทบ และพวกเขาได้รวมตัวต่อเยฟทาห์ ชายเปล่า และพวกเขาได้ออกกับเขา",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "בְּאֶרֶץ טוֹב",
+          "thai": "ในแผ่นดินโทบ",
+          "rationale": "**Land of Tob — Transjordan refuge**. טוֹב ('Tob' = 'good'). แผ่นดิน Tob = ทางเหนือ-ตะวันออกของ Gilead (ใกล้ Aramean territory). เป็น border region — far from Israelite jurisdiction. Jephthah กลายเป็น tribal warlord ที่นี่. ภาษาไทย 'โทบ' transliteration."
+        },
+        {
+          "hebrew": "אֲנָשִׁים רֵיקִים",
+          "thai": "คนชั่ว",
+          "rationale": "**'Empty men' — desperate mercenaries**. רֵיקִים ('empty/worthless') — เดียวกับใน วนฉ 9:4 (Abimelech's mercenaries). น่าสนใจว่า Jephthah มี followers แบบเดียวกับ Abimelech (anti-judge) — แต่ Jephthah จะถูกนำกลับเข้า legitimate leadership. ภาษาไทย 'คนชั่ว' รักษานัย disreputable — แต่บริบทไม่ใช่ moral judgment — เป็น social class ของ outcasts."
+        }
+      ],
+      "notes": "**OUTLAW HERO PATTERN**: รูปแบบของ David ใน 1 ซมอ 22:1-2 ที่ราวบรวม 'distressed, indebted, discontented' = same type ของ followers. David at Adullam = Jephthah in Tob. ทั้งสองจะกลายเป็นผู้นำ. **CHANGED CONTEXT**: ใน วนฉ 9 'empty men' = thugs ของ Abimelech (negative); ที่นี่ = future army ของ Jephthah (potential positive)."
+    }
+  },
+  {
+    "reference": "JDG 11:4",
+    "chapter": 11,
+    "verse": 4,
+    "language": "hebrew",
+    "hebrew": "וַיְהִ֖י מִיָּמִ֑ים וַיִּלָּחֲמ֥וּ בְנֵֽי־עַמּ֖וֹן עִם־יִשְׂרָאֵֽל׃",
+    "bsb_english": "Some time later, when the Ammonites fought against Israel",
+    "translation": {
+      "thai": "ต่อมา ลูกหลานของอัมโมนได้ทำสงครามกับอิสราเอล",
+      "thai_literal": "และเป็นไปจากบรรดาวัน และบุตรของอัมโมนได้ทำสงครามกับอิสราเอล",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": "**TIME TRANSITION**: 'after some days' = ช่วงเวลาผ่านไป. Jephthah ได้ established trying record ใน Tob — name + reputation."
+    }
+  },
+  {
+    "reference": "JDG 11:5",
+    "chapter": 11,
+    "verse": 5,
+    "language": "hebrew",
+    "hebrew": "וַיְהִ֕י כַּאֲשֶׁר־נִלְחֲמ֥וּ בְנֵֽי־עַמּ֖וֹן עִם־יִשְׂרָאֵ֑ל וַיֵּֽלְכוּ֙ זִקְנֵ֣י גִלְעָ֔ד לָקַ֥חַת אֶת־יִפְתָּ֖ח מֵאֶ֥רֶץ טֽוֹב׃",
+    "bsb_english": "and made war with them, the elders of Gilead went to get Jephthah from the land of Tob.",
+    "translation": {
+      "thai": "เมื่อลูกหลานของอัมโมนทำสงครามกับอิสราเอล บรรดาผู้อาวุโสของกิเลอาดก็ไปนำเยฟทาห์มาจากแผ่นดินโทบ",
+      "thai_literal": "และเป็นไปเมื่อสู้รบบุตรของอัมโมนกับอิสราเอล และบรรดาผู้อาวุโสของกิเลอาดได้ไปเพื่อรับซึ่งเยฟทาห์จากแผ่นดินของโทบ",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": "**REVERSAL — exiled outcast recalled**: ผู้นำของ Gilead (ที่ตัด Jephthah ก่อน) ตอนนี้ขอ. แสดง dramatic role reversal. Jephthah จะ exploit นี้เพื่อต่อรองตำแหน่ง (vv.7-10)."
+    }
+  },
+  {
+    "reference": "JDG 11:6",
+    "chapter": 11,
+    "verse": 6,
+    "language": "hebrew",
+    "hebrew": "וַיֹּאמְר֣וּ לְיִפְתָּ֔ח לְכָ֕ה וְהָיִ֥יתָה לָּ֖נוּ לְקָצִ֑ין וְנִֽלָּחֲמָ֖ה בִּבְנֵ֥י עַמּֽוֹן׃",
+    "bsb_english": "“Come,” they said, “be our commander, so that we can fight against the Ammonites.”",
+    "translation": {
+      "thai": "พวกเขาพูดกับเยฟทาห์ว่า “จงมา เป็นผู้บัญชาการของพวกเรา เพื่อพวกเราจะได้ต่อสู้กับลูกหลานของอัมโมน”",
+      "thai_literal": "และพวกเขาได้กล่าวต่อเยฟทาห์ว่า จงมา และจงเป็นแก่เราเป็นผู้บัญชาการ และเราจะสู้รบในบุตรของอัมโมน",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "וִהְיִיתָה לָּנוּ לְקָצִין",
+          "thai": "เป็นผู้บัญชาการของพวกเรา",
+          "rationale": "**'Commander' — military only, no political authority**. קָצִין ('commander/chief') = military leader specifically. ต่ำกว่า ראש ('head/chief') ที่เสนอใน วนฉ 10:18. Elders เสนอเฉพาะ military role — ทุกอย่างต่อสงคราม. Jephthah จะ negotiate ให้ได้ทั้งสอง (v.9)."
+        }
+      ],
+      "notes": "**LIMITED OFFER**: Elders ระมัดระวัง — เสนอเพียงตำแหน่งทหารชั่วคราว. หลังสงคราม Jephthah อาจกลับไป Tob. Jephthah เห็นโอกาสและจะ leverage."
+    }
+  },
+  {
+    "reference": "JDG 11:7",
+    "chapter": 11,
+    "verse": 7,
+    "language": "hebrew",
+    "hebrew": "וַיֹּ֤אמֶר יִפְתָּח֙ לְזִקְנֵ֣י גִלְעָ֔ד הֲלֹ֤א אַתֶּם֙ שְׂנֵאתֶ֣ם אוֹתִ֔י וַתְּגָרְשׁ֖וּנִי מִבֵּ֣ית אָבִ֑י וּמַדּ֜וּעַ בָּאתֶ֤ם אֵלַי֙ עַ֔תָּה כַּאֲשֶׁ֖ר צַ֥ר לָכֶֽם׃",
+    "bsb_english": "Jephthah replied to the elders of Gilead, “Did you not hate me and expel me from my father’s house? Why then have you come to me now, when you are in distress?”",
+    "translation": {
+      "thai": "เยฟทาห์กล่าวกับบรรดาผู้อาวุโสของกิเลอาดว่า “พวกท่านไม่ใช่หรือที่เกลียดข้าพเจ้าและขับไล่ข้าพเจ้าออกจากวงศ์ของบิดาของข้าพเจ้า? ทำไมพวกท่านจึงมาหาข้าพเจ้าเดี๋ยวนี้เมื่อพวกท่านอยู่ในความทุกข์?”",
+      "thai_literal": "และเยฟทาห์ได้กล่าวต่อบรรดาผู้อาวุโสของกิเลอาดว่า ไม่ใช่หรือพวกท่านได้เกลียดข้าพเจ้า และพวกท่านได้ขับซึ่งข้าพเจ้าจากวงศ์ของบิดาของข้าพเจ้า และทำไมพวกท่านได้มาที่ข้าพเจ้าเดี๋ยวนี้ ตามที่ทุกข์แก่พวกท่าน",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "וּמַדּוּעַ בָּאתֶם אֵלַי עַתָּה כַּאֲשֶׁר צַר לָכֶם",
+          "thai": "ทำไมพวกท่านจึงมาหาข้าพเจ้าเดี๋ยวนี้เมื่อพวกท่านอยู่ในความทุกข์?",
+          "rationale": "**Confrontational rhetoric**. צַר ('distress') — เดียวกับ วนฉ 10:9 ('Israel was in great distress'). Jephthah เปิดเผยว่าเขาเข้าใจว่าพวกเขามาเพราะ desperation ไม่ใช่เพราะ esteem. ภาษาไทย 'ทำไม...เดี๋ยวนี้' รักษานัย rhetorical sting."
+        }
+      ],
+      "notes": "**JEPHTHAH'S LEVERAGE**: เขารู้ว่าตอนนี้ Elders need him มากกว่าที่เขา need them. Setup สำหรับ negotiation ที่ตามมา. แสดงว่า Jephthah แม้เป็น outcast มี wisdom + savvy."
+    }
+  },
+  {
+    "reference": "JDG 11:8",
+    "chapter": 11,
+    "verse": 8,
+    "language": "hebrew",
+    "hebrew": "וַיֹּאמְרוּ֩ זִקְנֵ֨י גִלְעָ֜ד אֶל־יִפְתָּ֗ח לָכֵן֙ עַתָּה֙ שַׁ֣בְנוּ אֵלֶ֔יךָ וְהָלַכְתָּ֣ עִמָּ֔נוּ וְנִלְחַמְתָּ֖ בִּבְנֵ֣י עַמּ֑וֹן וְהָיִ֤יתָ לָּ֨נוּ֙ לְרֹ֔אשׁ לְכֹ֖ל יֹשְׁבֵ֥י גִלְעָֽד׃",
+    "bsb_english": "They answered Jephthah, “This is why we now turn to you, that you may go with us, fight the Ammonites, and become leader over all of us who live in Gilead.”",
+    "translation": {
+      "thai": "บรรดาผู้อาวุโสของกิเลอาดตอบเยฟทาห์ว่า “เพราะเหตุนี้ บัดนี้พวกเราจึงหันมาหาท่าน เพื่อท่านจะไปกับพวกเราและต่อสู้กับลูกหลานของอัมโมน และจะเป็นผู้นำของพวกเราทุกคนที่อาศัยอยู่ในกิเลอาด”",
+      "thai_literal": "และบรรดาผู้อาวุโสของกิเลอาดได้กล่าวต่อเยฟทาห์ว่า เพราะอย่างนั้น บัดนี้เราได้กลับต่อเจ้า และเจ้าจะไปกับเรา และเจ้าจะสู้รบในบุตรของอัมโมน และเจ้าจะเป็นแก่เราเป็นศีรษะแก่ทุกผู้อาศัยในกิเลอาด",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "וְהָיִיתָ לָּנוּ לְרֹאשׁ",
+          "thai": "จะเป็นผู้นำของพวกเรา",
+          "rationale": "**Upgraded offer — 'head' (ראש) not just 'commander' (קָצִין)**. Elders ตอบสนอง Jephthah's confrontation by upgrading the offer. ראש = political leader (= what was promised ใน วนฉ 10:18). ภาษาไทย 'ผู้นำ' รักษานัย political leadership."
+        }
+      ],
+      "notes": "**OFFER ESCALATION**: เริ่มที่ v.6 'commander'; ที่ v.8 'head'. Jephthah's leverage works — Elders upgrade. ในยุค pre-monarchic 'head of Gilead' = political ruler. แสดงระดับ desperation ของ Israel."
+    }
+  },
+  {
+    "reference": "JDG 11:9",
+    "chapter": 11,
+    "verse": 9,
+    "language": "hebrew",
+    "hebrew": "וַיֹּ֨אמֶר יִפְתָּ֜ח אֶל־זִקְנֵ֣י גִלְעָ֗ד אִם־מְשִׁיבִ֨ים אַתֶּ֤ם אוֹתִי֙ לְהִלָּחֵם֙ בִּבְנֵ֣י עַמּ֔וֹן וְנָתַ֧ן יְהוָ֛ה אוֹתָ֖ם לְפָנָ֑י אָנֹכִ֕י אֶהְיֶ֥ה לָכֶ֖ם לְרֹֽאשׁ׃",
+    "bsb_english": "But Jephthah asked them, “If you take me back to fight the Ammonites and the LORD gives them to me, will I really be your leader?”",
+    "translation": {
+      "thai": "เยฟทาห์ตอบบรรดาผู้อาวุโสของกิเลอาดว่า “ถ้าพวกท่านนำข้าพเจ้ากลับไปต่อสู้กับลูกหลานของอัมโมน และองค์พระผู้เป็นเจ้าทรงมอบพวกเขาไว้กับข้าพเจ้า ข้าพเจ้าจะเป็นผู้นำของพวกท่านจริง ๆ หรือ?”",
+      "thai_literal": "และเยฟทาห์ได้กล่าวต่อบรรดาผู้อาวุโสของกิเลอาดว่า ถ้าพวกท่านพาข้าพเจ้ากลับเพื่อสู้รบในบุตรของอัมโมน และองค์พระผู้เป็นเจ้าทรงให้ซึ่งพวกเขาต่อหน้าข้าพเจ้า ข้าพเจ้าจะเป็นแก่พวกท่านเป็นศีรษะหรือ",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "thai": "องค์พระผู้เป็นเจ้า",
+          "rationale": "Per `divine_names_table_2026-05.md`: יהוה (Tetragrammaton) → องค์พระผู้เป็นเจ้า (matches NT corpus). Layer 1 transparency mechanism — Hebrew form recorded per verse."
+        },
+        {
+          "hebrew": "אִם־מְשִׁיבִים אַתֶּם אוֹתִי לְהִלָּחֵם בִּבְנֵי עַמּוֹן וְנָתַן יְהוָה אוֹתָם לְפָנָי",
+          "thai": "ถ้าพวกท่านนำข้าพเจ้ากลับไปต่อสู้กับลูกหลานของอัมโมน และองค์พระผู้เป็นเจ้าทรงมอบพวกเขาไว้กับข้าพเจ้า",
+          "rationale": "**Conditional — invoking YHWH**. Jephthah ขึ้นชื่อ YHWH ใน negotiations — แสดงระดับ theological awareness. รู้ว่าชัยชนะมาจากพระเจ้า + ใช้ language ของ judges. ภาษาไทย 'ถ้า...และองค์พระผู้เป็นเจ้าทรงมอบ' รักษา formal conditional + divine reference."
+        }
+      ],
+      "notes": "**JEPHTHAH RECOGNIZES DIVINE AGENCY**: แม้ใน secular negotiation Jephthah ยังอ้าง YHWH — แสดงระดับ Israelite identity แม้เป็น outcast in Tob. ระดับ awareness ต่างจาก Abimelech ที่ไม่อ้าง YHWH."
+    }
+  },
+  {
+    "reference": "JDG 11:10",
+    "chapter": 11,
+    "verse": 10,
+    "language": "hebrew",
+    "hebrew": "וַיֹּאמְר֥וּ זִקְנֵֽי־גִלְעָ֖ד אֶל־יִפְתָּ֑ח יְהוָ֗ה יִהְיֶ֤ה שֹׁמֵ֨עַ֙ בֵּֽינוֹתֵ֔ינוּ אִם־לֹ֥א כִדְבָרְךָ֖ כֵּ֥ן נַעֲשֶֽׂה׃",
+    "bsb_english": "And the elders of Gilead said to Jephthah, “The LORD is our witness if we do not do as you say.”",
+    "translation": {
+      "thai": "บรรดาผู้อาวุโสของกิเลอาดกล่าวกับเยฟทาห์ว่า “องค์พระผู้เป็นเจ้าทรงเป็นพยานระหว่างเรา หากเราไม่ทำตามที่ท่านพูด”",
+      "thai_literal": "และบรรดาผู้อาวุโสของกิเลอาดได้กล่าวต่อเยฟทาห์ว่า องค์พระผู้เป็นเจ้าจะเป็นผู้ฟังระหว่างเรา ถ้าไม่ดังคำของเจ้าเราจะทำ",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "thai": "องค์พระผู้เป็นเจ้า",
+          "rationale": "Per `divine_names_table_2026-05.md`: יהוה (Tetragrammaton) → องค์พระผู้เป็นเจ้า (matches NT corpus). Layer 1 transparency mechanism — Hebrew form recorded per verse."
+        },
+        {
+          "hebrew": "יְהוָה יִהְיֶה שֹׁמֵעַ בֵּינוֹתֵינוּ",
+          "thai": "องค์พระผู้เป็นเจ้าทรงเป็นพยานระหว่างเรา",
+          "rationale": "**Divine oath formula**. שֹׁמֵעַ ('hearer') = พระเจ้าเป็น witness/judge. การกล่าวสาบานใน YHWH = ระดับ formal contractual oath. ภาษาไทย 'ทรงเป็นพยาน' รักษานัย legal-divine witness. **Pattern**: similar to Genesis 31:49 ('Mizpah' — YHWH watches between us)."
+        }
+      ],
+      "notes": "**COVENANT OATH**: Elders สาบานใน YHWH ที่จะเก็บคำสัญญา. นี่ก่อให้เกิด legitimate political contract — Jephthah ตอน accept leadership ใน v.11 = legitimate."
+    }
+  },
+  {
+    "reference": "JDG 11:11",
+    "chapter": 11,
+    "verse": 11,
+    "language": "hebrew",
+    "hebrew": "וַיֵּ֤לֶךְ יִפְתָּח֙ עִם־זִקְנֵ֣י גִלְעָ֔ד וַיָּשִׂ֨ימוּ הָעָ֥ם אוֹת֛וֹ עֲלֵיהֶ֖ם לְרֹ֣אשׁ וּלְקָצִ֑ין וַיְדַבֵּ֨ר יִפְתָּ֧ח אֶת־כָּל־דְּבָרָ֛יו לִפְנֵ֥י יְהוָ֖ה בַּמִּצְפָּֽה׃",
+    "bsb_english": "So Jephthah went with the elders of Gilead, and the people made him their leader and commander. And Jephthah repeated all his terms in the presence of the LORD at Mizpah.",
+    "translation": {
+      "thai": "เยฟทาห์ก็ไปกับบรรดาผู้อาวุโสของกิเลอาด ประชาชนก็ตั้งเขาเป็นผู้นำและผู้บัญชาการของพวกเขา และเยฟทาห์ก็กล่าวคำพูดของเขาทั้งหมดต่อหน้าองค์พระผู้เป็นเจ้าที่มิสปาห์",
+      "thai_literal": "และเยฟทาห์ได้ไปกับบรรดาผู้อาวุโสของกิเลอาด และประชาชนได้ทำให้เขาเป็นเหนือพวกเขาเป็นศีรษะและเป็นผู้บัญชาการ และเยฟทาห์ได้กล่าวซึ่งคำของเขาทั้งสิ้นต่อหน้าองค์พระผู้เป็นเจ้าที่มิสปาห์",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "thai": "องค์พระผู้เป็นเจ้า",
+          "rationale": "Per `divine_names_table_2026-05.md`: יהוה (Tetragrammaton) → องค์พระผู้เป็นเจ้า (matches NT corpus). Layer 1 transparency mechanism — Hebrew form recorded per verse."
+        },
+        {
+          "hebrew": "וַיְדַבֵּר יִפְתָּח אֶת־כָּל־דְּבָרָיו לִפְנֵי יְהוָה בַּמִּצְפָּה",
+          "thai": "เยฟทาห์ก็กล่าวคำพูดของเขาทั้งหมดต่อหน้าองค์พระผู้เป็นเจ้าที่มิสปาห์",
+          "rationale": "**Religious confirmation of contract**. ที่ Mizpah = ที่ที่ Israel ชุมนุม (วนฉ 10:17). Jephthah ทำพิธีรับ leadership ทาง religious — ตำแหน่งทาง civil ratified before YHWH. แสดงระดับ ceremony + accountability. ภาษาไทย 'ต่อหน้าองค์พระผู้เป็นเจ้าที่มิสปาห์' รักษา formal religious context."
+        }
+      ],
+      "notes": "**LEGITIMATE LEADERSHIP — but no divine call**: Jephthah ได้รับตำแหน่งผ่าน contract + ratified ต่อหน้า YHWH. แต่ไม่มี theophany, ไม่มี Spirit (จะมาใน v.29). ต่างจาก Moses (อพย 3), Gideon (วนฉ 6), Samuel — เริ่มจาก divine call. Jephthah เริ่มจาก political contract → Spirit ตามมาภายหลัง."
+    }
+  },
+  {
+    "reference": "JDG 11:12",
+    "chapter": 11,
+    "verse": 12,
+    "language": "hebrew",
+    "hebrew": "וַיִּשְׁלַ֤ח יִפְתָּח֙ מַלְאָכִ֔ים אֶל־מֶ֥לֶךְ בְּנֵֽי־עַמּ֖וֹן לֵאמֹ֑ר מַה־לִּ֣י וָלָ֔ךְ כִּֽי־בָ֥אתָ אֵלַ֖י לְהִלָּחֵ֥ם בְּאַרְצִֽי׃",
+    "bsb_english": "Then Jephthah sent messengers to the king of the Ammonites, saying, “What do you have against me that you have come to fight against my land?”",
+    "translation": {
+      "thai": "เยฟทาห์ส่งผู้สื่อสารไปยังกษัตริย์ของลูกหลานอัมโมน กล่าวว่า “ท่านมีเรื่องอะไรกับข้าพเจ้าที่ท่านได้มาต่อสู้กับแผ่นดินของข้าพเจ้า?”",
+      "thai_literal": "และเยฟทาห์ได้ส่งผู้สื่อสารไปยังกษัตริย์ของบุตรของอัมโมนว่า อะไรแก่ข้าพเจ้าและแก่ท่าน เพราะท่านได้มาที่ข้าพเจ้าเพื่อจะสู้รบในแผ่นดินของข้าพเจ้า",
+      "thai_summary": "**vv.12-28 = diplomatic exchange with Ammon — longest political dialogue ใน Judges.** Jephthah ใช้ diplomacy ก่อนทำสงคราม — เริ่มด้วยคำถามเรื่อง casus belli ของ Ammon. ใน v.13 Ammon claim ว่า Israel ขโมยที่ดินของพวกเขาหลังออกจากอียิปต์. ใน vv.14-27 Jephthah ตอบด้วยการ recital ของ exodus history — แสดงระดับ historical knowledge + theological argument. แสดงว่า Jephthah ไม่ใช่ pure warrior — แต่เป็น statesman ด้วย.",
+      "key_decisions": [
+        {
+          "hebrew": "מַה־לִּי וָלָךְ",
+          "thai": "ท่านมีเรื่องอะไรกับข้าพเจ้า?",
+          "rationale": "**'What to me and to you?' — diplomatic idiom**. ฮีบรู idiom สำหรับ 'What is between us?' / 'What is our quarrel?'. ใช้ใน NT ด้วย (ยน 2:4 พระเยซู + มารีย์). ภาษาไทย 'มีเรื่องอะไรกับข้าพเจ้า' รักษาความหมาย."
+        }
+      ],
+      "notes": "**DIPLOMACY FIRST**: Jephthah ส่ง envoys ก่อนรบ — pattern ของ legitimate war (ฉธบ 20:10 'เมื่อท่านเข้าใกล้เมืองเพื่อจะรบ จงเสนอสันติภาพก่อน'). แสดงว่า Jephthah รู้กฎของโมเสส."
+    }
+  },
+  {
+    "reference": "JDG 11:13",
+    "chapter": 11,
+    "verse": 13,
+    "language": "hebrew",
+    "hebrew": "וַיֹּאמֶר֩ מֶ֨לֶךְ בְּנֵי־עַמּ֜וֹן אֶל־מַלְאֲכֵ֣י יִפְתָּ֗ח כִּֽי־לָקַ֨ח יִשְׂרָאֵ֤ל אֶת־אַרְצִי֙ בַּעֲלוֹת֣וֹ מִמִּצְרַ֔יִם מֵאַרְנ֥וֹן וְעַד־הַיַּבֹּ֖ק וְעַד־הַיַּרְדֵּ֑ן וְעַתָּ֕ה הָשִׁ֥יבָה אֶתְהֶ֖ן בְּשָׁלֽוֹם׃",
+    "bsb_english": "The king of the Ammonites answered Jephthah’s messengers, “When Israel came up out of Egypt, they seized my land, from the Arnon to the Jabbok and all the way to the Jordan. Now, therefore, restore it peaceably.”",
+    "translation": {
+      "thai": "กษัตริย์ของลูกหลานอัมโมนตอบผู้สื่อสารของเยฟทาห์ว่า “เพราะว่าอิสราเอลได้ยึดเอาแผ่นดินของข้าพเจ้าตั้งแต่อารโนนถึงยับบอกและถึงจอร์แดน เมื่อพวกเขาออกจากอียิปต์ ฉะนั้นบัดนี้จงคืนแผ่นดินทั้งนั้นมาเสียโดยสันติ”",
+      "thai_literal": "และกษัตริย์ของบุตรของอัมโมนได้กล่าวต่อผู้สื่อสารของเยฟทาห์ว่า เพราะอิสราเอลได้รับซึ่งแผ่นดินของข้าพเจ้าในการขึ้นเขาจากอียิปต์ จากอารโนนและจนถึงยับบอกและจนถึงจอร์แดน และบัดนี้ จงคืนซึ่งพวกมันในสันติ",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "מֵאַרְנוֹן וְעַד־הַיַּבֹּק וְעַד־הַיַּרְדֵּן",
+          "thai": "ตั้งแต่อารโนนถึงยับบอกและถึงจอร์แดน",
+          "rationale": "**Geographic claims — Transjordan**. אַרְנוֹן ('Arnon') = แม่น้ำใต้ของ Moab; יַבֹּק ('Jabbok') = แม่น้ำใต้-เหนือของ Gilead. ดินแดนที่ Ammon claim = ระหว่าง Arnon + Jabbok = ดินแดนที่ Israel ยึดจาก Sihon (กดว 21:21-31). Ammon claim ว่าเป็นของพวกเขา — ผิดประวัติศาสตร์ (= ของ Sihon Amorite, not Ammonites). ภาษาไทย transliteration."
+        }
+      ],
+      "notes": "**AMMONITE CLAIM — historically wrong**: Ammon claim ว่า Israel ขโมยที่ดินจากพวกเขา. แต่จริง ๆ Israel ยึดจาก Sihon Amorite (ที่ Ammon เคยถูกขับไล่). Jephthah จะ correct ใน vv.14+."
+    }
+  },
+  {
+    "reference": "JDG 11:14",
+    "chapter": 11,
+    "verse": 14,
+    "language": "hebrew",
+    "hebrew": "וַיּ֥וֹסֶף ע֖וֹד יִפְתָּ֑ח וַיִּשְׁלַח֙ מַלְאָכִ֔ים אֶל־מֶ֖לֶךְ בְּנֵ֥י עַמּֽוֹן׃",
+    "bsb_english": "Jephthah again sent messengers to the king of the Ammonites",
+    "translation": {
+      "thai": "เยฟทาห์ส่งผู้สื่อสารไปยังกษัตริย์ของลูกหลานอัมโมนอีกครั้ง",
+      "thai_literal": "และเยฟทาห์ได้เพิ่ม และเขาได้ส่งผู้สื่อสารไปยังกษัตริย์ของบุตรของอัมโมน",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": "**SECOND MESSAGE — historical refutation**: Jephthah ตอบ Ammon claim ด้วย historical lecture (vv.15-27). แสดง patience + commitment ต่อ diplomacy."
+    }
+  },
+  {
+    "reference": "JDG 11:15",
+    "chapter": 11,
+    "verse": 15,
+    "language": "hebrew",
+    "hebrew": "וַיֹּ֣אמֶר ל֔וֹ כֹּ֖ה אָמַ֣ר יִפְתָּ֑ח לֹֽא־לָקַ֤ח יִשְׂרָאֵל֙ אֶת־אֶ֣רֶץ מוֹאָ֔ב וְאֶת־אֶ֖רֶץ בְּנֵ֥י עַמּֽוֹן׃",
+    "bsb_english": "to tell him, “This is what Jephthah says: Israel did not take away the land of Moab or of the Ammonites.",
+    "translation": {
+      "thai": "กล่าวกับเขาว่า “เยฟทาห์กล่าวดังนี้ว่า อิสราเอลไม่ได้ยึดแผ่นดินของโมอับ หรือแผ่นดินของลูกหลานอัมโมน",
+      "thai_literal": "และเขาได้กล่าวต่อเขาว่า ดังนี้เยฟทาห์ได้กล่าวว่า ไม่ได้รับอิสราเอลซึ่งแผ่นดินของโมอับและซึ่งแผ่นดินของบุตรของอัมโมน",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": "**THESIS STATEMENT**: Israel ไม่ได้ขโมยที่ดิน Moab หรือ Ammon. รายละเอียดประวัติศาสตร์จะตามมา."
+    }
+  },
+  {
+    "reference": "JDG 11:16",
+    "chapter": 11,
+    "verse": 16,
+    "language": "hebrew",
+    "hebrew": "כִּ֖י בַּעֲלוֹתָ֣ם מִמִּצְרָ֑יִם וַיֵּ֨לֶךְ יִשְׂרָאֵ֤ל בַּמִּדְבָּר֙ עַד־יַם־ס֔וּף וַיָּבֹ֖א קָדֵֽשָׁה׃",
+    "bsb_english": "But when Israel came up out of Egypt, they traveled through the wilderness to the Red Sea and came to Kadesh.",
+    "translation": {
+      "thai": "แต่เมื่ออิสราเอลออกจากอียิปต์ พวกเขาเดินทางผ่านถิ่นทุรกันดารไปยังทะเลแดง และมาถึงคาเดช",
+      "thai_literal": "เพราะในการขึ้นของพวกเขาจากอียิปต์ และอิสราเอลได้เดินในถิ่นทุรกันดารจนถึงทะเลกก และพวกเขาได้มาคาเดช",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יַם־סוּף",
+          "thai": "ทะเลแดง",
+          "rationale": "**Sea of Reeds — Red Sea**. Per joshua_24:6 precedent — יַם־סוּף → ทะเลแดง. ภาษาไทย 'ทะเลแดง' รักษามาตรฐาน."
+        }
+      ],
+      "notes": "**EXODUS RECITAL begins**: vv.16-22 = abbreviated Exodus narrative (ผ่าน Edom, Moab, Sihon's territory)."
+    }
+  },
+  {
+    "reference": "JDG 11:17",
+    "chapter": 11,
+    "verse": 17,
+    "language": "hebrew",
+    "hebrew": "וַיִּשְׁלַ֣ח יִשְׂרָאֵ֣ל מַלְאָכִ֣ים ׀ אֶל־מֶלֶךְ֩ אֱד֨וֹם ׀ לֵאמֹ֜ר אֶעְבְּרָה־נָּ֣א בְאַרְצֶ֗ךָ וְלֹ֤א שָׁמַע֙ מֶ֣לֶךְ אֱד֔וֹם וְגַ֨ם אֶל־מֶ֧לֶךְ מוֹאָ֛ב שָׁלַ֖ח וְלֹ֣א אָבָ֑ה וַיֵּ֥שֶׁב יִשְׂרָאֵ֖ל בְּקָדֵֽשׁ׃",
+    "bsb_english": "Then Israel sent messengers to the king of Edom, saying, ‘Please let us pass through your land,’ but the king of Edom would not listen. They also sent messengers to the king of Moab, but he would not consent. So Israel stayed in Kadesh.",
+    "translation": {
+      "thai": "แล้วอิสราเอลส่งผู้สื่อสารไปยังกษัตริย์ของเอโดม กล่าวว่า ‘ขอให้พวกเราผ่านแผ่นดินของท่าน’ แต่กษัตริย์ของเอโดมไม่ฟัง แล้วพวกเขาก็ส่งไปยังกษัตริย์ของโมอับ และเขาก็ปฏิเสธเช่นกัน ดังนั้นอิสราเอลก็พักอยู่ที่คาเดช",
+      "thai_literal": "และอิสราเอลได้ส่งผู้สื่อสารไปยังกษัตริย์ของเอโดมว่า ขอให้ข้าพเจ้าจะผ่านในแผ่นดินของท่าน และไม่ได้ฟังกษัตริย์ของเอโดม และเช่นกันต่อกษัตริย์ของโมอับเขาได้ส่ง และเขาไม่ได้เต็มใจ และอิสราเอลได้อาศัยในคาเดช",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": "**EDOM + MOAB REFUSAL — RESPECTED**: Israel ขออนุญาตผ่าน — ทั้งสองปฏิเสธ. Israel ไม่บุก — เคารพ. แสดงว่า Israel respect ดินแดนของ Edom + Moab (per ฉธบ 2:5, 2:9)."
+    }
+  },
+  {
+    "reference": "JDG 11:18",
+    "chapter": 11,
+    "verse": 18,
+    "language": "hebrew",
+    "hebrew": "וַיֵּ֣לֶךְ בַּמִּדְבָּ֗ר וַיָּ֜סָב אֶת־אֶ֤רֶץ אֱדוֹם֙ וְאֶת־אֶ֣רֶץ מוֹאָ֔ב וַיָּבֹ֤א מִמִּזְרַח־שֶׁ֨מֶשׁ֙ לְאֶ֣רֶץ מוֹאָ֔ב וַֽיַּחֲנ֖וּן בְּעֵ֣בֶר אַרְנ֑וֹן וְלֹא־בָ֨אוּ֙ בִּגְב֣וּל מוֹאָ֔ב כִּ֥י אַרְנ֖וֹן גְּב֥וּל מוֹאָֽב׃",
+    "bsb_english": "Then Israel traveled through the wilderness and bypassed the lands of Edom and Moab. They came to the east side of the land of Moab and camped on the other side of the Arnon. But they did not enter the territory of Moab, since the Arnon was its border.",
+    "translation": {
+      "thai": "แล้วพวกเขาเดินทางผ่านถิ่นทุรกันดาร อ้อมแผ่นดินของเอโดมและแผ่นดินของโมอับ พวกเขามาถึงทางทิศตะวันออกของแผ่นดินของโมอับ และตั้งค่ายอีกฟากของแม่น้ำอารโนน แต่ไม่ได้เข้าไปในเขตของโมอับ เพราะอารโนนเป็นพรมแดนของโมอับ",
+      "thai_literal": "และเขาได้เดินในถิ่นทุรกันดาร และเขาได้ล้อมซึ่งแผ่นดินของเอโดมและซึ่งแผ่นดินของโมอับ และเขาได้มาจากการขึ้นของพระอาทิตย์ของแผ่นดินของโมอับ และพวกเขาได้ตั้งค่ายในข้ามฝั่งของอารโนน และพวกเขาไม่ได้มาในเขตของโมอับ เพราะอารโนนเป็นเขตของโมอับ",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": "**ISRAELITE PROPRIETY**: ไม่บุก Moab — ตั้งค่ายนอกเขต. แสดงว่า Israel เคารพ boundaries. แม่น้ำ Arnon = boundary ทางเหนือของ Moab."
+    }
+  },
+  {
+    "reference": "JDG 11:19",
+    "chapter": 11,
+    "verse": 19,
+    "language": "hebrew",
+    "hebrew": "וַיִּשְׁלַ֤ח יִשְׂרָאֵל֙ מַלְאָכִ֔ים אֶל־סִיח֥וֹן מֶֽלֶךְ־הָאֱמֹרִ֖י מֶ֣לֶךְ חֶשְׁבּ֑וֹן וַיֹּ֤אמֶר לוֹ֙ יִשְׂרָאֵ֔ל נַעְבְּרָה־נָּ֥א בְאַרְצְךָ֖ עַד־מְקוֹמִֽי׃",
+    "bsb_english": "And Israel sent messengers to Sihon king of the Amorites, who ruled in Heshbon, and said to him, ‘Please let us pass through your land into our own place.’",
+    "translation": {
+      "thai": "แล้วอิสราเอลส่งผู้สื่อสารไปยังสิโหน กษัตริย์ของชาวอาโมไรต์ ผู้ครองในเฮชโบน และกล่าวกับเขาว่า ‘ขอให้พวกเราผ่านแผ่นดินของท่านไปสู่ที่ของพวกเรา’",
+      "thai_literal": "และอิสราเอลได้ส่งผู้สื่อสารไปยังสิโหน กษัตริย์ของชาวอาโมไรต์ กษัตริย์ของเฮชโบน และอิสราเอลได้กล่าวต่อเขาว่า ขอให้ข้าพเจ้าจะผ่านในแผ่นดินของท่านไปสู่ที่ของข้าพเจ้า",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "סִיחוֹן מֶלֶךְ הָאֱמֹרִי מֶלֶךְ חֶשְׁבּוֹן",
+          "thai": "สิโหน กษัตริย์ของชาวอาโมไรต์ ผู้ครองในเฮชโบน",
+          "rationale": "**Sihon — pivotal historical figure**. סִיחוֹן → สิโหน. กษัตริย์ Amorite ที่ปกครอง Heshbon — ดินแดนเหนือ Moab. การพ่ายแพ้ของสิโหน (กดว 21) = วิธีที่ Israel ได้ดินแดนระหว่าง Arnon + Jabbok. ที่ Ammon claim เป็นของพวกเขา."
+        }
+      ],
+      "notes": "**KEY HISTORICAL CLAIM**: Israel ยึดดินแดนจาก Sihon (Amorite), ไม่ใช่จาก Ammon. นี่จะเป็น core ของ Jephthah's argument."
+    }
+  },
+  {
+    "reference": "JDG 11:20",
+    "chapter": 11,
+    "verse": 20,
+    "language": "hebrew",
+    "hebrew": "וְלֹא־הֶאֱמִ֨ין סִיח֤וֹן אֶת־יִשְׂרָאֵל֙ עֲבֹ֣ר בִּגְבֻל֔וֹ וַיֶּאֱסֹ֤ף סִיחוֹן֙ אֶת־כָּל־עַמּ֔וֹ וַֽיַּחֲנ֖וּ בְּיָ֑הְצָה וַיִּלָּ֖חֶם עִם־יִשְׂרָאֵֽל׃",
+    "bsb_english": "But Sihon would not trust Israel to pass through his territory. So he gathered all his people, encamped in Jahaz, and fought with Israel.",
+    "translation": {
+      "thai": "แต่สิโหนไม่ไว้วางใจให้อิสราเอลผ่านเขตแดนของเขา สิโหนจึงรวบรวมประชาชนทั้งหมดของเขา ตั้งค่ายที่ยาฮัส และต่อสู้กับอิสราเอล",
+      "thai_literal": "และไม่ได้ไว้ใจสิโหนต่ออิสราเอลที่จะผ่านในเขตของเขา และสิโหนได้ชุมนุมซึ่งประชาชนทั้งสิ้นของเขา และพวกเขาได้ตั้งค่ายที่ยาฮัส และเขาได้สู้กับอิสราเอล",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": "**SIHON'S AGGRESSION**: สิโหนเลือกการรบ — Israel ไม่ใช่ aggressor. Jephthah making case ว่า conquest of Sihon = self-defense + divinely-sanctioned."
+    }
+  },
+  {
+    "reference": "JDG 11:21",
+    "chapter": 11,
+    "verse": 21,
+    "language": "hebrew",
+    "hebrew": "וַ֠יִּתֵּן יְהוָ֨ה אֱלֹהֵֽי־יִשְׂרָאֵ֜ל אֶת־סִיח֧וֹן וְאֶת־כָּל־עַמּ֛וֹ בְּיַ֥ד יִשְׂרָאֵ֖ל וַיַּכּ֑וּם וַיִּירַשׁ֙ יִשְׂרָאֵ֔ל אֵ֚ת כָּל־אֶ֣רֶץ הָאֱמֹרִ֔י יוֹשֵׁ֖ב הָאָ֥רֶץ הַהִֽיא׃",
+    "bsb_english": "Then the LORD, the God of Israel, delivered Sihon and all his people into the hand of Israel, who defeated them. So Israel took possession of all the land of the Amorites who inhabited that country,",
+    "translation": {
+      "thai": "แล้วองค์พระผู้เป็นเจ้าพระเจ้าของอิสราเอลก็ทรงมอบสิโหนและประชาชนทั้งหมดของเขาไว้ในมือของอิสราเอล และอิสราเอลก็ตีพวกเขาพ่าย ดังนั้นอิสราเอลได้ยึดครองแผ่นดินทั้งหมดของชาวอาโมไรต์ที่อาศัยอยู่ในแผ่นดินนั้น",
+      "thai_literal": "และองค์พระผู้เป็นเจ้าพระเจ้าของอิสราเอลได้ทรงให้ซึ่งสิโหนและซึ่งประชาชนทั้งสิ้นของเขาในมือของอิสราเอล และพวกเขาได้ตีพวกเขา และอิสราเอลได้ครอบครองซึ่งแผ่นดินทั้งสิ้นของชาวอาโมไรต์ผู้อาศัยในแผ่นดินนั้น",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "thai": "องค์พระผู้เป็นเจ้า",
+          "rationale": "Per `divine_names_table_2026-05.md`: יהוה (Tetragrammaton) → องค์พระผู้เป็นเจ้า (matches NT corpus). Layer 1 transparency mechanism — Hebrew form recorded per verse."
+        }
+      ],
+      "notes": "**DIVINE DELIVERANCE — historical fact**: Jephthah อ้างประวัติศาสตร์ที่ YHWH ทรงมอบ Sihon ในมือของ Israel. นี่เป็น theological warrant สำหรับ ownership ของ land."
+    }
+  },
+  {
+    "reference": "JDG 11:22",
+    "chapter": 11,
+    "verse": 22,
+    "language": "hebrew",
+    "hebrew": "וַיִּ֣ירְשׁ֔וּ אֵ֖ת כָּל־גְּב֣וּל הָאֱמֹרִ֑י מֵֽאַרְנוֹן֙ וְעַד־הַיַּבֹּ֔ק וּמִן־הַמִּדְבָּ֖ר וְעַד־הַיַּרְדֵּֽן׃",
+    "bsb_english": "seizing all the land from the Arnon to the Jabbok and from the wilderness to the Jordan.",
+    "translation": {
+      "thai": "พวกเขาได้ยึดเขตทั้งหมดของชาวอาโมไรต์ ตั้งแต่อารโนนถึงยับบอก และจากถิ่นทุรกันดารถึงจอร์แดน",
+      "thai_literal": "และพวกเขาได้ครอบครองซึ่งเขตทั้งสิ้นของชาวอาโมไรต์ จากอารโนนและจนถึงยับบอก และจากถิ่นทุรกันดารและจนถึงจอร์แดน",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": "**EXACT BOUNDARIES = AMMON'S CLAIM**: Jephthah ใช้ exact wording ของ Ammon (v.13) แล้วระบุว่า boundaries เหล่านี้ = Amorite territory ที่ Israel ยึดจาก Sihon. Sehr point: Ammon claim wrong territory."
+    }
+  },
+  {
+    "reference": "JDG 11:23",
+    "chapter": 11,
+    "verse": 23,
+    "language": "hebrew",
+    "hebrew": "וְעַתָּ֞ה יְהוָ֣ה ׀ אֱלֹהֵ֣י יִשְׂרָאֵ֗ל הוֹרִישׁ֙ אֶת־הָ֣אֱמֹרִ֔י מִפְּנֵ֖י עַמּ֣וֹ יִשְׂרָאֵ֑ל וְאַתָּ֖ה תִּירָשֶֽׁנּוּ׃",
+    "bsb_english": "Now since the LORD, the God of Israel, has driven out the Amorites from before His people Israel, should you now possess it?",
+    "translation": {
+      "thai": "บัดนี้ในเมื่อองค์พระผู้เป็นเจ้าพระเจ้าของอิสราเอลได้ทรงขับไล่ชาวอาโมไรต์ออกจากต่อหน้าประชาชนของพระองค์ คืออิสราเอล ท่านจะยึดแผ่นดินนั้นเองหรือ?",
+      "thai_literal": "และบัดนี้องค์พระผู้เป็นเจ้าพระเจ้าของอิสราเอลได้ทรงขับไล่ซึ่งชาวอาโมไรต์จากต่อหน้าประชาชนของพระองค์อิสราเอล และท่านจะครอบครองมันหรือ",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "thai": "องค์พระผู้เป็นเจ้า",
+          "rationale": "Per `divine_names_table_2026-05.md`: יהוה (Tetragrammaton) → องค์พระผู้เป็นเจ้า (matches NT corpus). Layer 1 transparency mechanism — Hebrew form recorded per verse."
+        }
+      ],
+      "notes": "**THEOLOGICAL ARGUMENT**: ถ้า YHWH ทรงให้ดินแดนแก่ Israel, มนุษย์ใดจะ challenge? Jephthah แสดง theological framework ของ divinely-given territory."
+    }
+  },
+  {
+    "reference": "JDG 11:24",
+    "chapter": 11,
+    "verse": 24,
+    "language": "hebrew",
+    "hebrew": "הֲלֹ֞א אֵ֣ת אֲשֶׁ֧ר יוֹרִֽישְׁךָ֛ כְּמ֥וֹשׁ אֱלֹהֶ֖יךָ אוֹת֥וֹ תִירָ֑שׁ וְאֵת֩ כָּל־אֲשֶׁ֨ר הוֹרִ֜ישׁ יְהוָ֧ה אֱלֹהֵ֛ינוּ מִפָּנֵ֖ינוּ אוֹת֥וֹ נִירָֽשׁ׃",
+    "bsb_english": "Do you not possess whatever your god Chemosh grants you? So also, we possess whatever the LORD our God has granted us.",
+    "translation": {
+      "thai": "ท่านไม่ได้ยึดทุกอย่างที่พระเคโมชพระของท่านมอบให้ท่านหรือ? ดังนั้น สิ่งใดที่องค์พระผู้เป็นเจ้าพระเจ้าของพวกเราได้ทรงขับไล่ออกไปจากต่อหน้าพวกเรา สิ่งนั้นพวกเราก็จะยึดครอง",
+      "thai_literal": "ไม่ใช่หรือซึ่งเคโมชพระของท่านจะทำให้เจ้าครอบครอง เจ้าจะครอบครอง และซึ่งทุกที่องค์พระผู้เป็นเจ้าพระเจ้าของเราได้ขับไล่จากต่อหน้าเรา เราจะครอบครอง",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "thai": "องค์พระผู้เป็นเจ้า",
+          "rationale": "Per `divine_names_table_2026-05.md`: יהוה (Tetragrammaton) → องค์พระผู้เป็นเจ้า (matches NT corpus). Layer 1 transparency mechanism — Hebrew form recorded per verse."
+        },
+        {
+          "hebrew": "אֵת אֲשֶׁר יוֹרִישְׁךָ כְּמוֹשׁ אֱלֹהֶיךָ",
+          "thai": "ทุกอย่างที่พระเคโมชพระของท่านมอบให้ท่าน",
+          "rationale": "**Chemosh — Moabite god (not Ammonite)**. כְּמוֹשׁ → เคโมช = พระของ Moab (1 พกษ 11:33 — โซโลมอนสร้างที่สูงสำหรับ Chemosh). น่าสนใจที่ Jephthah อ้าง Chemosh ในการพูดต่อ Ammon — ปกติพระของ Ammon = Milcom/Molech. ทฤษฎี: (1) Jephthah ใช้ Chemosh เพราะ Ammon-Moab share religion; (2) ผู้แต่งสนใจ rhetorical impact มากกว่า theological precision; (3) อาจ Ammon บางส่วน worship Chemosh. ภาษาไทย 'เคโมช' transliteration."
+        }
+      ],
+      "notes": "**HENOTHEISTIC ARGUMENT**: Jephthah ใช้ argument ที่ทำงานในวัฒนธรรม polytheist — 'พระของท่านให้ท่านดินแดนนั้น; พระของเราให้เราดินแดนนี้'. นี่ไม่ใช่ Jephthah's theology (เขาเชื่อ YHWH เป็น Lord of all) — เป็น diplomatic argument ที่ adjust for audience."
+    }
+  },
+  {
+    "reference": "JDG 11:25",
+    "chapter": 11,
+    "verse": 25,
+    "language": "hebrew",
+    "hebrew": "וְעַתָּ֗ה הֲט֥וֹב טוֹב֙ אַתָּ֔ה מִבָּלָ֥ק בֶּן־צִפּ֖וֹר מֶ֣לֶךְ מוֹאָ֑ב הֲר֥וֹב רָב֙ עִם־יִשְׂרָאֵ֔ל אִם־נִלְחֹ֥ם נִלְחַ֖ם בָּֽם׃",
+    "bsb_english": "Are you now so much better than Balak son of Zippor, king of Moab? Did he ever contend with Israel or fight against them?",
+    "translation": {
+      "thai": "บัดนี้ ท่านดีกว่าบาลาคบุตรของศิปโปร์ กษัตริย์ของโมอับหรือ? เขาเคยทะเลาะกับอิสราเอลหรือเคยต่อสู้กับพวกเขาหรือ?",
+      "thai_literal": "และบัดนี้ดีหรือดีกว่าเจ้าจากบาลาคบุตรของศิปโปร์ กษัตริย์ของโมอับ ทะเลาะหรือเขาได้ทะเลาะกับอิสราเอล หรือสู้รบหรือเขาได้สู้รบในพวกเขา",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "בָּלָק בֶּן־צִפּוֹר",
+          "thai": "บาลาคบุตรของศิปโปร์",
+          "rationale": "**Balak — historical reference**. בָּלָק (Balak) = กษัตริย์ Moab ใน Numbers 22-24 ที่ขอ Balaam มาแช่งอิสราเอล. แต่ Balak ไม่ได้รบกับ Israel โดยตรง — เพียง spiritual attack. Jephthah's point: ถ้า Balak (= king of moab ที่จริง) ไม่กล้ารบ ทำไม Ammon king รบ?"
+        }
+      ],
+      "notes": "**APPEAL TO HISTORICAL PRECEDENT**: Jephthah เปรียบ Ammon king กับ Balak — ถ้า Balak (much greater + actual Moab king) ไม่กล้ารบ, ทำไมท่าน (Ammon king ที่อ้าง ผิด ๆ ว่าเป็นดินแดน Moab) จะกล้า?"
+    }
+  },
+  {
+    "reference": "JDG 11:26",
+    "chapter": 11,
+    "verse": 26,
+    "language": "hebrew",
+    "hebrew": "בְּשֶׁ֣בֶת יִ֠שְׂרָאֵל בְּחֶשְׁבּ֨וֹן וּבִבְנוֹתֶ֜יהָ וּבְעַרְע֣וֹר וּבִבְנוֹתֶ֗יהָ וּבְכָל־הֶֽעָרִים֙ אֲשֶׁר֙ עַל־יְדֵ֣י אַרְנ֔וֹן שְׁלֹ֥שׁ מֵא֖וֹת שָׁנָ֑ה וּמַדּ֥וּעַ לֹֽא־הִצַּלְתֶּ֖ם בָּעֵ֥ת הַהִֽיא׃",
+    "bsb_english": "For three hundred years Israel has lived in Heshbon, Aroer, and their villages, as well as all the cities along the banks of the Arnon. Why did you not take them back during that time?",
+    "translation": {
+      "thai": "ในระยะเวลาสามร้อยปีที่อิสราเอลอาศัยอยู่ในเฮชโบนและในเมืองรอบเธอ ในอาโรเออร์และในเมืองรอบเธอ และในเมืองทั้งหมดตามฝั่งของอารโนน ทำไมพวกท่านจึงไม่ได้นำมันกลับในเวลานั้น?",
+      "thai_literal": "ในการอาศัยของอิสราเอลในเฮชโบนและในบรรดาบุตรสาวของเธอ และในอาโรเออร์และในบรรดาบุตรสาวของเธอ และในทุกเมืองที่บนฝั่งของอารโนน สามร้อยปี และทำไมพวกท่านไม่ได้ช่วยกู้พวกมันในเวลานั้น",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "וּבְעַרְעוֹר וּבִבְנוֹתֶיהָ",
+          "thai": "ในอาโรเออร์และในเมืองรอบเธอ",
+          "rationale": "**HAPAX SPELLING — עַרְעֹור**. ปรากฏการสะกดนี้เพียงครั้งเดียวในพระคัมภีร์ (ปกติสะกด עֲרוֹעֵר ใน ฉธบ 2:36, etc.). อาจเป็น variant spelling. ภาษาไทย 'อาโรเออร์' transliteration. **300 YEARS** = ระยะเวลายาวนาน — ระบุว่า Israel possession established de facto."
+        }
+      ],
+      "notes": "**STATUTE OF LIMITATIONS ARGUMENT**: 300 ปีของ Israelite possession = de facto right. ถ้า Ammon claim valid, ควรท้าทายในเวลาที่ Israel เข้ามาแล้ว — ไม่ใช่ 300 ปีหลังจาก."
+    }
+  },
+  {
+    "reference": "JDG 11:27",
+    "chapter": 11,
+    "verse": 27,
+    "language": "hebrew",
+    "hebrew": "וְאָֽנֹכִי֙ לֹֽא־חָטָ֣אתִי לָ֔ךְ וְאַתָּ֞ה עֹשֶׂ֥ה אִתִּ֛י רָעָ֖ה לְהִלָּ֣חֶם בִּ֑י יִשְׁפֹּ֨ט יְהוָ֤ה הַשֹּׁפֵט֙ הַיּ֔וֹם בֵּ֚ין בְּנֵ֣י יִשְׂרָאֵ֔ל וּבֵ֖ין בְּנֵ֥י עַמּֽוֹן׃",
+    "bsb_english": "I have not sinned against you, but you have done me wrong by waging war against me. May the LORD, the Judge, decide today between the Israelites and the Ammonites.”",
+    "translation": {
+      "thai": "ข้าพเจ้าจึงไม่ได้ทำบาปต่อท่าน แต่ท่านได้ทำผิดต่อข้าพเจ้าโดยการทำสงครามกับข้าพเจ้า ขอองค์พระผู้เป็นเจ้า ผู้พิพากษา ทรงตัดสินในวันนี้ระหว่างลูกหลานของอิสราเอลและลูกหลานของอัมโมน”",
+      "thai_literal": "และข้าพเจ้าไม่ได้ทำบาปต่อท่าน และท่านได้ทำกับข้าพเจ้าซึ่งความชั่วเพื่อจะสู้รบในข้าพเจ้า ขอให้องค์พระผู้เป็นเจ้าผู้พิพากษาทรงตัดสินวันนี้ระหว่างบุตรของอิสราเอลและระหว่างบุตรของอัมโมน",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "thai": "องค์พระผู้เป็นเจ้า",
+          "rationale": "Per `divine_names_table_2026-05.md`: יהוה (Tetragrammaton) → องค์พระผู้เป็นเจ้า (matches NT corpus). Layer 1 transparency mechanism — Hebrew form recorded per verse."
+        },
+        {
+          "hebrew": "יְהוָה הַשֹּׁפֵט",
+          "thai": "องค์พระผู้เป็นเจ้า ผู้พิพากษา",
+          "rationale": "**'YHWH the Judge' — divine title**. הַשֹּׁפֵט = participle 'judging/the judge'. ภาษาไทย 'ผู้พิพากษา' รักษานัย judicial role. **WORDPLAY**: ในหนังสือ 'judges' (= ผู้วินิจฉัย) Jephthah อ้าง YHWH เป็น judge — แสดงว่าตำแหน่งของเขา (= judge) เป็นเพียง human reflection ของ divine judgeship."
+        }
+      ],
+      "notes": "**APPEAL TO DIVINE TRIBUNAL**: หลังจาก historical + theological + diplomatic argument, Jephthah ขอให้ YHWH ตัดสิน. แสดงว่าถ้า diplomacy ล้มเหลว, war = divine judgment ต่อ Ammon. รูปแบบของ just-war thinking."
+    }
+  },
+  {
+    "reference": "JDG 11:28",
+    "chapter": 11,
+    "verse": 28,
+    "language": "hebrew",
+    "hebrew": "וְלֹ֣א שָׁמַ֔ע מֶ֖לֶךְ בְּנֵ֣י עַמּ֑וֹן אֶל־דִּבְרֵ֣י יִפְתָּ֔ח אֲשֶׁ֥ר שָׁלַ֖ח אֵלָֽיו׃",
+    "bsb_english": "But the king of the Ammonites paid no heed to the message Jephthah sent him.",
+    "translation": {
+      "thai": "แต่กษัตริย์ของลูกหลานอัมโมนไม่ฟังคำของเยฟทาห์ที่ส่งไปให้เขา",
+      "thai_literal": "และไม่ได้ฟังกษัตริย์ของบุตรของอัมโมนต่อบรรดาคำของเยฟทาห์ที่เขาได้ส่งไปยังเขา",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": "**DIPLOMACY FAILS**: หลังจาก long historical argument Ammon king ปฏิเสธ. ตอนนี้สงครามถูก validate — Ammon เลือก. Jephthah ทำหน้าที่ diplomatic ครบ → war ตามจะ legitimate."
+    }
+  },
+  {
+    "reference": "JDG 11:29",
+    "chapter": 11,
+    "verse": 29,
+    "language": "hebrew",
+    "hebrew": "וַתְּהִ֤י עַל־יִפְתָּח֙ ר֣וּחַ יְהוָ֔ה וַיַּעֲבֹ֥ר אֶת־הַגִּלְעָ֖ד וְאֶת־מְנַשֶּׁ֑ה וַֽיַּעֲבֹר֙ אֶת־מִצְפֵּ֣ה גִלְעָ֔ד וּמִמִּצְפֵּ֣ה גִלְעָ֔ד עָבַ֖ר בְּנֵ֥י עַמּֽוֹן׃",
+    "bsb_english": "Then the Spirit of the LORD came upon Jephthah, and he passed through Gilead and Manasseh, then through Mizpah of Gilead. And from there he advanced against the Ammonites.",
+    "translation": {
+      "thai": "แล้วพระวิญญาณขององค์พระผู้เป็นเจ้าก็มาเหนือเยฟทาห์ และเขาก็ผ่านกิเลอาดและมนัสเสห์ แล้วผ่านมิสปาห์ของกิเลอาด และจากมิสปาห์ของกิเลอาด เขาก็ผ่านไปยังลูกหลานของอัมโมน",
+      "thai_literal": "และได้เป็นเหนือเยฟทาห์พระวิญญาณขององค์พระผู้เป็นเจ้า และเขาได้ผ่านในกิเลอาดและมนัสเสห์ และเขาได้ผ่านในมิสปาห์ของกิเลอาด และจากมิสปาห์ของกิเลอาดเขาได้ผ่านในบุตรของอัมโมน",
+      "thai_summary": "**Spirit comes upon Jephthah — divine empowerment for war.** ข้อ 29 = ที่ Spirit ของ YHWH เริ่ม empower Jephthah. ใช้ formula เดียวกับ Othniel (วนฉ 3:10), Gideon (วนฉ 6:34). แสดงว่า Jephthah ถูก legitimize divinely แม้เริ่มจาก political contract. หลัง Spirit empowerment Jephthah ทำ rash vow (vv.30-31) ที่จะ tragic. นัย: divine empowerment ไม่ guarantee divine wisdom — Jephthah ยังทำ human error.",
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "thai": "องค์พระผู้เป็นเจ้า",
+          "rationale": "Per `divine_names_table_2026-05.md`: יהוה (Tetragrammaton) → องค์พระผู้เป็นเจ้า (matches NT corpus). Layer 1 transparency mechanism — Hebrew form recorded per verse."
+        },
+        {
+          "hebrew": "וַתְּהִי עַל־יִפְתָּח רוּחַ יְהוָה",
+          "thai": "พระวิญญาณขององค์พระผู้เป็นเจ้าก็มาเหนือเยฟทาห์",
+          "rationale": "**Spirit-coming-upon formula**. เดียวกับ วนฉ 3:10 (โอทนีเอล) + วนฉ 6:34 (กิดเอน). ภาษาไทย 'พระวิญญาณ...มาเหนือ' รักษานัย formal endowment. ระดับนี้ของ Jephthah มาหลัง political contract — แสดง divine approval ของ Israelite choice."
+        }
+      ],
+      "notes": "**SPIRIT VS WISDOM**: Jephthah ได้ Spirit — แต่ทำ rash vow ใน v.30. แสดงว่า Spirit empowers for specific tasks แต่ไม่ override moral choices. **MILITARY CIRCUIT**: Jephthah ผ่าน Gilead → Manasseh → Mizpah → Ammon — รวมกำลังก่อนรบ."
+    }
+  },
+  {
+    "reference": "JDG 11:30",
+    "chapter": 11,
+    "verse": 30,
+    "language": "hebrew",
+    "hebrew": "וַיִּדַּ֨ר יִפְתָּ֥ח נֶ֛דֶר לַיהוָ֖ה וַיֹּאמַ֑ר אִם־נָת֥וֹן תִּתֵּ֛ן אֶת־בְּנֵ֥י עַמּ֖וֹן בְּיָדִֽי׃",
+    "bsb_english": "Jephthah made this vow to the LORD: “If indeed You will deliver the Ammonites into my hand,",
+    "translation": {
+      "thai": "เยฟทาห์ปฏิญาณต่อองค์พระผู้เป็นเจ้าว่า “ถ้าพระองค์ทรงมอบลูกหลานของอัมโมนไว้ในมือของข้าพระองค์อย่างแน่นอน",
+      "thai_literal": "และเยฟทาห์ได้ปฏิญาณคำปฏิญาณต่อองค์พระผู้เป็นเจ้า และเขาได้กล่าวว่า ถ้าให้พระองค์ทรงให้ซึ่งบุตรของอัมโมนในมือของข้าพระองค์",
+      "thai_summary": "**The fateful vow — Jephthah's tragic mistake.** ข้อ 30-31 = the rash vow. Jephthah สาบานว่า 'whatever comes out of door' ของบ้านเขา = จะถวายแด่ YHWH เป็น burnt offering. นี่เป็น disastrous vow เพราะ (1) human/animal coming out of door ไม่ได้ก่อ guarantee animal — มนุษย์ก็มาตัดสินใจในบ้าน; (2) burnt offering = sacrifice ที่เผาสมบูรณ์ — ไม่เหมาะสำหรับมนุษย์; (3) Israelite ห้ามถวายเด็ก (ลนต 18:21, ฉธบ 12:31). Jephthah ทำ vow ที่ไม่ทันคิดผลกระทบ.",
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "thai": "องค์พระผู้เป็นเจ้า",
+          "rationale": "Per `divine_names_table_2026-05.md`: יהוה (Tetragrammaton) → องค์พระผู้เป็นเจ้า (matches NT corpus). Layer 1 transparency mechanism — Hebrew form recorded per verse."
+        },
+        {
+          "hebrew": "וַיִּדַּר יִפְתָּח נֶדֶר לַיהוָה",
+          "thai": "เยฟทาห์ปฏิญาณต่อองค์พระผู้เป็นเจ้า",
+          "rationale": "**Vow formula — נֵדֶר**. נֶדֶר ('vow') = สัญญา formal กับ YHWH. ใน ลนต 27 มีกฎเกี่ยวกับ vows + redemption. Jephthah อาจรู้กฎเหล่านี้น้อย เพราะเขาเติบโตในที่ห่างจาก central worship. ภาษาไทย 'ปฏิญาณ' รักษา formal vow."
+        }
+      ],
+      "notes": "**VOW vs DIVINE COMMAND**: Israelite ที่ปฏิญาณ vow มี means ของ redemption (ลนต 27). แต่ Jephthah เลือกที่จะ fulfill literally ใน v.39 — แสดงระดับ ignorance ของ Mosaic law. **NO DIVINE PROMPTING**: Spirit มาใน v.29 — vow ใน v.30 = Jephthah's own initiative. พระเจ้าไม่ได้ขอ vow."
+    }
+  },
+  {
+    "reference": "JDG 11:31",
+    "chapter": 11,
+    "verse": 31,
+    "language": "hebrew",
+    "hebrew": "וְהָיָ֣ה הַיּוֹצֵ֗א אֲשֶׁ֨ר יֵצֵ֜א מִדַּלְתֵ֤י בֵיתִי֙ לִקְרָאתִ֔י בְּשׁוּבִ֥י בְשָׁל֖וֹם מִבְּנֵ֣י עַמּ֑וֹן וְהָיָה֙ לַֽיהוָ֔ה וְהַעֲלִיתִ֖הוּ עוֹלָֽה׃",
+    "bsb_english": "then whatever comes out the door of my house to greet me on my triumphant return from the Ammonites will belong to the LORD, and I will offer it up as a burnt offering.”",
+    "translation": {
+      "thai": "แล้วสิ่งที่ออกมาจากประตูบ้านของข้าพระองค์เพื่อต้อนรับข้าพระองค์ เมื่อข้าพระองค์กลับมาในชัยชนะจากลูกหลานของอัมโมน จะเป็นขององค์พระผู้เป็นเจ้า และข้าพระองค์จะถวายเป็นเครื่องเผาบูชา”",
+      "thai_literal": "และเป็นไปสิ่งที่ออกมาที่จะออกจากประตูทั้งหลายของบ้านของข้าพระองค์เพื่อต้อนรับข้าพระองค์ในการกลับของข้าพระองค์ในสันติภาพจากบุตรของอัมโมน และจะเป็นแก่องค์พระผู้เป็นเจ้า และข้าพระองค์จะนำขึ้นเป็นเครื่องเผาบูชา",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "thai": "องค์พระผู้เป็นเจ้า",
+          "rationale": "Per `divine_names_table_2026-05.md`: יהוה (Tetragrammaton) → องค์พระผู้เป็นเจ้า (matches NT corpus). Layer 1 transparency mechanism — Hebrew form recorded per verse."
+        },
+        {
+          "hebrew": "וְהָיָה הַיּוֹצֵא אֲשֶׁר יֵצֵא מִדַּלְתֵי בֵיתִי",
+          "thai": "สิ่งที่ออกมาจากประตูบ้านของข้าพระองค์เพื่อต้อนรับข้าพระองค์",
+          "rationale": "**'Whatever comes out' — ambiguous specification**. הַיּוֹצֵא = participle 'the one coming out' — ภาษาไม่จำกัด species. ถ้า Jephthah ตั้งใจสัตว์ ควรระบุชัด. ความคลุมเครือทำให้ daughter (= ผู้ที่ต้อนรับครอบครัวเสมอ) เป็น obvious candidate. ภาษาไทย 'สิ่งที่ออกมา' รักษานัย ambiguous. **NAME ECHO**: יִפְתָּח ('Jephthah' = 'opens') + יֵצֵא 'comes out' = wordplay — door opens + Jephthah's daughter comes out."
+        },
+        {
+          "hebrew": "וְהַעֲלִיתִיהוּ עוֹלָה",
+          "thai": "ข้าพระองค์จะถวายเป็นเครื่องเผาบูชา",
+          "rationale": "**'Burnt offering' — total sacrifice**. עוֹלָה ('whole burnt offering') = sacrifice ที่เผาสมบูรณ์ (ตรงข้ามกับ peace offering ที่กินด้วย). ภาษาไทย 'เครื่องเผาบูชา' รักษานัย total destruction by fire. **ALTERNATE INTERPRETATION**: บางการตีความว่า וְ ('and') = 'or' — 'จะเป็นของ YHWH หรือ จะถวายเป็น burnt offering' = if human, dedicated to YHWH lifelong (= celibacy); if animal, burnt sacrifice. คำตอบ traditional: literal burnt offering. ฉบับเอเรโมสคง literal meaning + บันทึก alternate ใน notes."
+        }
+      ],
+      "notes": "**ALTERNATE INTERPRETATION OF VOW**: นักวิชาการบางคน (Rabbinic + medieval Christian) เสนอว่า 'or' translation: 'จะเป็นของ YHWH OR ถวายเป็นเครื่องเผาบูชา'. ในการตีความนี้ Jephthah's daughter dedicated to lifelong celibacy ที่ Tabernacle — ไม่ใช่ killed. หลักฐาน: v.39 'she had never had relations with a man'. แต่ majority Hebrew interpretation: literal sacrifice. **MOSAIC PROHIBITION**: ลนต 18:21 ห้าม sacrifice เด็ก. แต่ Jephthah อาจไม่รู้ — outcast + grew up far from central worship."
+    }
+  },
+  {
+    "reference": "JDG 11:32",
+    "chapter": 11,
+    "verse": 32,
+    "language": "hebrew",
+    "hebrew": "וַיַּעֲבֹ֥ר יִפְתָּ֛ח אֶל־בְּנֵ֥י עַמּ֖וֹן לְהִלָּ֣חֶם בָּ֑ם וַיִתְּנֵ֥ם יְהוָ֖ה בְּיָדֽוֹ׃",
+    "bsb_english": "So Jephthah crossed over to the Ammonites to fight against them, and the LORD delivered them into his hand.",
+    "translation": {
+      "thai": "เยฟทาห์จึงข้ามไปต่อสู้กับลูกหลานของอัมโมน และองค์พระผู้เป็นเจ้าก็ทรงมอบพวกเขาไว้ในมือของเขา",
+      "thai_literal": "และเยฟทาห์ได้ข้ามไปยังบุตรของอัมโมนเพื่อจะสู้รบในพวกเขา และองค์พระผู้เป็นเจ้าได้ทรงให้ซึ่งพวกเขาในมือของเขา",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "thai": "องค์พระผู้เป็นเจ้า",
+          "rationale": "Per `divine_names_table_2026-05.md`: יהוה (Tetragrammaton) → องค์พระผู้เป็นเจ้า (matches NT corpus). Layer 1 transparency mechanism — Hebrew form recorded per verse."
+        }
+      ],
+      "notes": "**VICTORY GRANTED**: YHWH ทรงมอบ — แต่ไม่ได้ require vow. แสดงว่า victory มาจาก divine grace — ไม่ใช่จาก Jephthah's bargain."
+    }
+  },
+  {
+    "reference": "JDG 11:33",
+    "chapter": 11,
+    "verse": 33,
+    "language": "hebrew",
+    "hebrew": "וַיַּכֵּ֡ם מֵעֲרוֹעֵר֩ וְעַד־בּוֹאֲךָ֨ מִנִּ֜ית עֶשְׂרִ֣ים עִ֗יר וְעַד֙ אָבֵ֣ל כְּרָמִ֔ים מַכָּ֖ה גְּדוֹלָ֣ה מְאֹ֑ד וַיִּכָּֽנְעוּ֙ בְּנֵ֣י עַמּ֔וֹן מִפְּנֵ֖י בְּנֵ֥י יִשְׂרָאֵֽל׃",
+    "bsb_english": "With a great blow he devastated twenty cities from Aroer to the vicinity of Minnith, as far as Abel-keramim. So the Ammonites were subdued before the Israelites.",
+    "translation": {
+      "thai": "เขาตีฆ่าพวกเขาด้วยการตีอย่างใหญ่หลวง ตั้งแต่อาโรเออร์จนถึงทางเข้ามินนิท ยี่สิบเมือง และจนถึงอาเบล-เครามิม ลูกหลานของอัมโมนก็ถูกปราบลงต่อหน้าลูกหลานของอิสราเอล",
+      "thai_literal": "และเขาได้ตีพวกเขาจากอาโรเออร์และจนถึงทางมาของมินนิท ยี่สิบเมือง และจนถึงอาเบลเครามิม การตีใหญ่มาก และได้ถูกถ่อมบุตรของอัมโมนจากต่อหน้าบุตรของอิสราเอล",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": "**SCALE OF VICTORY**: 20 เมืองถูกตี — สเกลของชัยชนะที่สมบูรณ์. Ammon = ปราบ."
+    }
+  },
+  {
+    "reference": "JDG 11:34",
+    "chapter": 11,
+    "verse": 34,
+    "language": "hebrew",
+    "hebrew": "וַיָּבֹ֨א יִפְתָּ֣ח הַמִּצְפָּה֮ אֶל־בֵּיתוֹ֒ וְהִנֵּ֤ה בִתּוֹ֙ יֹצֵ֣את לִקְרָאת֔וֹ בְתֻפִּ֖ים וּבִמְחֹל֑וֹת וְרַק֙ הִ֣יא יְחִידָ֔ה אֵֽין־ל֥וֹ מִמֶּ֛נּוּ בֵּ֖ן אוֹ־בַֽת׃",
+    "bsb_english": "And when Jephthah returned home to Mizpah, there was his daughter coming out to meet him with tambourines and dancing! She was his only child; he had no son or daughter besides her.",
+    "translation": {
+      "thai": "เมื่อเยฟทาห์กลับมาบ้านที่มิสปาห์ ดูเถิด บุตรสาวของเขาออกมาต้อนรับเขาด้วยรำมะนาและด้วยการเต้นรำ! นางเป็นบุตรคนเดียวของเขา นอกจากนางแล้วเขาไม่มีบุตรชายหรือบุตรหญิงอื่นเลย",
+      "thai_literal": "และเยฟทาห์ได้มามิสปาห์ที่บ้านของเขา และดูเถิดบุตรสาวของเขากำลังออกมาต้อนรับเขาด้วยรำมะนาและด้วยการรำ และเพียงเธอ คนเดียว ไม่มีจากเขาบุตรชายหรือบุตรหญิง",
+      "thai_summary": "**Tragic recognition scene — Jephthah's only daughter comes out.** ข้อ 34 = climax tragic. ทุกอย่างใน v.31 ('whatever comes out') มาเป็นจริงในวิธีที่ Jephthah ไม่คาดหวัง — บุตรสาวคนเดียวของเขา. โครงสร้างเล่าเรื่อง: ผู้แต่งสร้าง pathos สูงสุด — เธอออกมาด้วยความสุข (รำมะนา + เต้น) ขณะที่บิดารู้ว่า vow มีผลต่อเธอ.",
+      "key_decisions": [
+        {
+          "hebrew": "וְהִנֵּה בִתּוֹ יֹצֵאת לִקְרָאתוֹ בְתֻפִּים וּבִמְחֹלוֹת",
+          "thai": "บุตรสาวของเขาออกมาต้อนรับเขาด้วยรำมะนาและด้วยการเต้นรำ",
+          "rationale": "**Hebrew victory greeting tradition — by women**. תֻּפִּים ('tambourines') + מְחֹלוֹת ('dances') = standard greeting ของหญิงสำหรับ returning warriors (เห็นใน อพย 15:20 มิเรียม; 1 ซมอ 18:6-7 women greeting Saul + David). บุตรสาวของ Jephthah ทำตาม cultural tradition. ภาษาไทย 'รำมะนา...เต้นรำ' รักษาภาพ joyful celebration."
+        },
+        {
+          "hebrew": "וְרַק הִיא יְחִידָה",
+          "thai": "นางเป็นบุตรคนเดียวของเขา",
+          "rationale": "**Only child — maximum tragedy**. יְחִידָה ('only/unique') — เดียวกับ ปฐก 22:2 ที่อิสอัคถูกเรียกว่า 'only son' (= unique, beloved). Jephthah-Isaac parallel เริ่มชัดเจน — แต่ Jephthah ไม่มี ram in the thicket. ภาษาไทย 'บุตรคนเดียว' รักษานัย uniqueness + tragedy."
+        }
+      ],
+      "notes": "**ISAAC PARALLEL**: Jephthah กำลัง bring 'only daughter' เป็น sacrifice — เหมือนอับราฮัมที่ Moriah (ปฐก 22). ต่างจากอิสอัค: (1) อับราฮัมถูก commanded by YHWH; Jephthah เลือกเอง; (2) อิสอัครอด — ram substituted; (3) ผลของ Abraham = blessing; Jephthah = loss of family + no future. **NO DIVINE INTERVENTION**: ใน ปฐก 22 พระเจ้าทรงตอบที่จะหยุด — ที่นี่ silence. แสดงว่าพระเจ้าไม่ approve vow + ไม่ rescue ผ่าน miracle."
+    }
+  },
+  {
+    "reference": "JDG 11:35",
+    "chapter": 11,
+    "verse": 35,
+    "language": "hebrew",
+    "hebrew": "וַיְהִי֩ כִרְאוֹת֨וֹ אוֹתָ֜הּ וַיִּקְרַ֣ע אֶת־בְּגָדָ֗יו וַיֹּ֨אמֶר֙ אֲהָ֤הּ בִּתִּי֙ הַכְרֵ֣עַ הִכְרַעְתִּ֔נִי וְאַ֖תְּ הָיִ֣יתְ בְּעֹֽכְרָ֑י וְאָנֹכִ֗י פָּצִ֤יתִי־פִי֙ אֶל־יְהוָ֔ה וְלֹ֥א אוּכַ֖ל לָשֽׁוּב׃",
+    "bsb_english": "As soon as Jephthah saw her, he tore his clothes and said, “No! Not my daughter! You have brought me to my knees! You have brought great misery upon me, for I have given my word to the LORD and cannot take it back.”",
+    "translation": {
+      "thai": "เมื่อเยฟทาห์เห็นเธอ เขาก็ฉีกเสื้อผ้าของตน และกล่าวว่า “อนิจจา บุตรสาวของข้าพเจ้า! เจ้าทำให้ข้าพเจ้าทุกข์ใจอย่างมาก เจ้าได้เป็นสาเหตุของความทุกข์ของข้าพเจ้า เพราะข้าพเจ้าได้เปิดปากของข้าพเจ้าต่อองค์พระผู้เป็นเจ้าและไม่สามารถถอนคำได้”",
+      "thai_literal": "และเป็นไปเมื่อเขาได้เห็นซึ่งเธอ และเขาได้ฉีกซึ่งเสื้อผ้าของเขา และเขาได้กล่าวว่า อนิจจา บุตรสาวของข้าพเจ้า กดข้าพเจ้ายิ่ง เจ้าได้กด และเจ้าได้เป็นในบรรดาผู้ที่ทำให้ข้าพเจ้าทุกข์ และข้าพเจ้า ข้าพเจ้าได้เปิดปากของข้าพเจ้าต่อองค์พระผู้เป็นเจ้า และข้าพเจ้าไม่สามารถจะกลับ",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "thai": "องค์พระผู้เป็นเจ้า",
+          "rationale": "Per `divine_names_table_2026-05.md`: יהוה (Tetragrammaton) → องค์พระผู้เป็นเจ้า (matches NT corpus). Layer 1 transparency mechanism — Hebrew form recorded per verse."
+        },
+        {
+          "hebrew": "וַיִּקְרַע אֶת־בְּגָדָיו",
+          "thai": "ฉีกเสื้อผ้าของตน",
+          "rationale": "**Tearing clothes — grief gesture**. ภาษาฮีบรู mourning ritual — เห็นใน ปฐก 37:34 (Jacob mourning Joseph). ภาษาไทย 'ฉีกเสื้อผ้า' รักษานัย ritual grief. แสดงระดับ Jephthah's response — สูญเสีย."
+        },
+        {
+          "hebrew": "אָנֹכִי פָּצִיתִי־פִי אֶל־יְהוָה וְלֹא אוּכַל לָשׁוּב",
+          "thai": "ข้าพเจ้าได้เปิดปากของข้าพเจ้าต่อองค์พระผู้เป็นเจ้าและไม่สามารถถอนคำได้",
+          "rationale": "**Theological assumption — vow is irrevocable**. Jephthah believes vow ไม่สามารถ undone. **ALTERNATE READING**: ลนต 27 บัญญัติ redemption-prices สำหรับ vowed humans — Jephthah มี option ที่จะ redeem (ลนต 27:1-8 — woman 20-60 ปี = 30 shekels of silver). Jephthah ไม่รู้ หรือไม่ทำ. ภาษาไทย 'ไม่สามารถถอนคำ' รักษา Jephthah's stated position. **PROBLEM**: vow ที่ขัดกับ Torah (= human sacrifice ห้าม) ไม่ binding. ในกฎหมายโมเสส vow ที่ขัดกับ commandments = null + void."
+        }
+      ],
+      "notes": "**TRAGEDY OF IGNORANCE**: Jephthah outcast ที่ไม่ได้รับ Torah education + ไม่รู้ Levitical provisions for redeeming vows. **OPENING THE MOUTH**: 'opened my mouth to YHWH' = ภาษาของ formal vow. แสดงระดับ self-blame — Jephthah รู้ว่าเขาทำผิด แต่คิดว่า committed."
+    }
+  },
+  {
+    "reference": "JDG 11:36",
+    "chapter": 11,
+    "verse": 36,
+    "language": "hebrew",
+    "hebrew": "וַתֹּ֣אמֶר אֵלָ֗יו אָבִי֙ פָּצִ֤יתָה אֶת־פִּ֨יךָ֙ אֶל־יְהוָ֔ה עֲשֵׂ֣ה לִ֔י כַּאֲשֶׁ֖ר יָצָ֣א מִפִּ֑יךָ אַחֲרֵ֡י אֲשֶׁ֣ר עָשָׂה֩ לְךָ֙ יְהוָ֧ה נְקָמ֛וֹת מֵאֹיְבֶ֖יךָ מִבְּנֵ֥י עַמּֽוֹן׃",
+    "bsb_english": "“My father,” she replied, “you have given your word to the LORD. Do to me as you have said, for the LORD has avenged you of your enemies, the Ammonites.”",
+    "translation": {
+      "thai": "“บิดาของข้าพเจ้า” เธอตอบ “ท่านได้ให้คำของท่านต่อองค์พระผู้เป็นเจ้า จงทำต่อข้าพเจ้าตามที่ท่านได้พูด เพราะองค์พระผู้เป็นเจ้าได้ทรงตอบแทนท่านต่อศัตรูของท่าน คือลูกหลานของอัมโมน”",
+      "thai_literal": "และเธอได้กล่าวต่อเขาว่า บิดาของข้าพเจ้า ท่านได้เปิดซึ่งปากของท่านต่อองค์พระผู้เป็นเจ้า ขอท่านทำกับข้าพเจ้าเช่นที่ออกจากปากของท่าน หลังจากที่องค์พระผู้เป็นเจ้าได้ทรงทำให้ท่านซึ่งการแก้แค้นจากศัตรูของท่าน จากบุตรของอัมโมน",
+      "thai_summary": "**Daughter's heroic submission — accepts vow.** ข้อ 36 = บุตรสาวยอมรับ + submit. การไม่มีชื่อเป็น narrative choice — แสดงว่าเธอเป็น 'every daughter' victim. โครงสร้างเทววิทยา: บุตรสาวมี theological understanding + ยอมรับ — แต่ผู้แต่งไม่เห็นด้วยกับ vow. ระบุว่า situation = result ของ rash vow + ignorance.",
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "thai": "องค์พระผู้เป็นเจ้า",
+          "rationale": "Per `divine_names_table_2026-05.md`: יהוה (Tetragrammaton) → องค์พระผู้เป็นเจ้า (matches NT corpus). Layer 1 transparency mechanism — Hebrew form recorded per verse."
+        },
+        {
+          "hebrew": "אָבִי פָּצִיתָה אֶת־פִּיךָ אֶל־יְהוָה",
+          "thai": "บิดาของข้าพเจ้า ท่านได้ให้คำของท่านต่อองค์พระผู้เป็นเจ้า",
+          "rationale": "**Daughter echoes father's words**. การกล่าว 'opened your mouth' = บุตรสาวใช้ภาษาเดียวกับบิดาในการอ้าง vow. ภาษาไทย 'ให้คำของท่าน' รักษานัย formal vow."
+        }
+      ],
+      "notes": "**DAUGHTER AS RIGHTEOUS FIGURE**: เธอ accept vow ไม่ใช่เพราะเชื่อว่า vow legitimate — แต่เพราะ filial obedience + รู้ว่า YHWH ทรงประทานชัยชนะ. แสดงระดับ piety. ใน Jewish + Christian tradition เธอถือว่าเป็น tragic heroine."
+    }
+  },
+  {
+    "reference": "JDG 11:37",
+    "chapter": 11,
+    "verse": 37,
+    "language": "hebrew",
+    "hebrew": "וַתֹּ֨אמֶר֙ אֶל־אָבִ֔יהָ יֵעָ֥שֶׂה לִּ֖י הַדָּבָ֣ר הַזֶּ֑ה הַרְפֵּ֨ה מִמֶּ֜נִּי שְׁנַ֣יִם חֳדָשִׁ֗ים וְאֵֽלְכָה֙ וְיָרַדְתִּ֣י עַל־הֶֽהָרִ֔ים וְאֶבְכֶּה֙ עַל־בְּתוּלַ֔י אָנֹכִ֖י ורעיתי וְרֵעוֹתָֽי׃",
+    "bsb_english": "She also said to her father, “Let me do this one thing: Let me wander for two months through the mountains with my friends and mourn my virginity.”",
+    "translation": {
+      "thai": "เธอยังกล่าวกับบิดาว่า “ขอให้ข้าพเจ้าทำสิ่งหนึ่ง คือขอให้ข้าพเจ้าไปท่องเที่ยวบนภูเขาเป็นเวลาสองเดือนพร้อมกับเพื่อนของข้าพเจ้า และคร่ำครวญความเป็นพรหมจารีของข้าพเจ้า”",
+      "thai_literal": "และเธอได้กล่าวต่อบิดาของเธอว่า ขอให้สิ่งนี้ทำกับข้าพเจ้า ขอท่านพักจากข้าพเจ้าสองเดือน และข้าพเจ้าจะไปและจะลงไปบนบรรดาภูเขา และข้าพเจ้าจะคร่ำครวญถึงความเป็นพรหมจารีของข้าพเจ้า ข้าพเจ้าและเพื่อนหญิงของข้าพเจ้า",
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "וְאֶבְכֶּה עַל־בְּתוּלַי",
+          "thai": "คร่ำครวญความเป็นพรหมจารีของข้าพเจ้า",
+          "rationale": "**Mourning virginity = mourning unfulfilled potential**. בְּתוּלַי ('my virginity') = ใน Israelite culture = ขาดการแต่งงาน + ไม่มีบุตร = end of family line ของ Jephthah (no grandchildren). ภาษาไทย 'ความเป็นพรหมจารี' รักษานัย. **CULTURAL NOTE**: ในวัฒนธรรมที่บุตรเป็น legacy primary, การตายไม่มีบุตร = ตายโดยไม่ทิ้ง memory."
+        }
+      ],
+      "notes": "**MOURNING THE END OF JEPHTHAH'S LINE**: บุตรสาวคนเดียว + ตายโดยไม่มีบุตร = end ของ Jephthah's lineage. แสดงระดับ tragedy. **2 MONTHS — pause before fate**: ขอเวลา prepare emotionally. รูปแบบ humane."
+    }
+  },
+  {
+    "reference": "JDG 11:38",
+    "chapter": 11,
+    "verse": 38,
+    "language": "hebrew",
+    "hebrew": "וַיֹּ֣אמֶר לֵ֔כִי וַיִּשְׁלַ֥ח אוֹתָ֖הּ שְׁנֵ֣י חֳדָשִׁ֑ים וַתֵּ֤לֶךְ הִיא֙ וְרֵ֣עוֹתֶ֔יהָ וַתֵּ֥בְךְּ עַל־בְּתוּלֶ֖יהָ עַל־הֶהָרִֽים׃",
+    "bsb_english": "“Go,” he said. And he sent her away for two months. So she left with her friends and mourned her virginity upon the mountains.",
+    "translation": {
+      "thai": "“จงไปเถิด” เขากล่าว เขาก็ส่งเธอไปเป็นเวลาสองเดือน เธอก็ออกไปกับเพื่อนของเธอ และคร่ำครวญความเป็นพรหมจารีของเธอบนภูเขา",
+      "thai_literal": "และเขาได้กล่าวว่า จงไป และเขาได้ส่งเธอสองเดือน และเธอได้ไป เธอและเพื่อนหญิงของเธอ และเธอได้คร่ำครวญถึงความเป็นพรหมจารีของเธอบนบรรดาภูเขา",
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": "**RITUAL PERIOD OF MOURNING**: 2 เดือนของการเตรียมตัว — ไม่เร่งด่วน. แสดงว่า Jephthah respect daughter's request + ไม่ใช่ impulsive killer."
+    }
+  },
+  {
+    "reference": "JDG 11:39",
+    "chapter": 11,
+    "verse": 39,
+    "language": "hebrew",
+    "hebrew": "וַיְהִ֞י מִקֵּ֣ץ ׀ שְׁנַ֣יִם חֳדָשִׁ֗ים וַתָּ֨שָׁב֙ אֶל־אָבִ֔יהָ וַיַּ֣עַשׂ לָ֔הּ אֶת־נִדְר֖וֹ אֲשֶׁ֣ר נָדָ֑ר וְהִיא֙ לֹא־יָדְעָ֣ה אִ֔ישׁ וַתְּהִי־חֹ֖ק בְּיִשְׂרָאֵֽל׃",
+    "bsb_english": "After two months, she returned to her father, and he did to her as he had vowed. And she had never had relations with a man. So it has become a custom in Israel",
+    "translation": {
+      "thai": "เมื่อสิ้นสองเดือน เธอก็กลับมาหาบิดาของเธอ และเขาก็ทำต่อเธอตามคำปฏิญาณที่เขาได้ปฏิญาณ และเธอไม่เคยรู้จักผู้ชาย ดังนั้นกลายเป็นธรรมเนียมในอิสราเอล",
+      "thai_literal": "และเป็นไปจากปลายของสองเดือน และเธอได้กลับสู่บิดาของเธอ และเขาได้ทำกับเธอซึ่งคำปฏิญาณของเขาที่เขาได้ปฏิญาณ และเธอไม่ได้รู้จักชาย และได้เป็นกฎในอิสราเอล",
+      "thai_summary": "**Vow fulfilled — daughter sacrificed.** ข้อ 39 = the actual sacrifice. ผู้แต่งบันทึก briefly — ไม่ explicit ว่าเผาแบบไหน. การที่กล่าว 'เธอไม่เคยรู้จักผู้ชาย' = อาจ supports lifelong-celibacy interpretation. แต่ context ของ vow + burnt offering (v.31) + 'did to her' = ส่วนใหญ่อ่านเป็น literal killing. **TRAGIC ENDING**: ครอบครัวของ Jephthah จบ.",
+      "key_decisions": [
+        {
+          "hebrew": "וְהִיא לֹא־יָדְעָה אִישׁ",
+          "thai": "เธอไม่เคยรู้จักผู้ชาย",
+          "rationale": "**Final note — never married/sexually intimate**. יָדַע אִישׁ = ฮีบรู idiom สำหรับ 'have sexual relations' (เห็นใน ปฐก 4:1, 19:8). ภาษาไทย 'รู้จักผู้ชาย' รักษานัย idiomatic — Thai readers จะเข้าใจ contextual meaning. **AMBIGUITY**: คำนี้สามารถ support: (1) literal death — เธอตายก่อนแต่งงาน; (2) lifelong celibacy — เธอถวายตัวให้ YHWH ไม่ได้แต่งงาน. ผู้แต่งจงใจ ambiguity. ฉบับเอเรโมสคง phrase แบบ literal — ให้ผู้อ่านตีความ."
+        }
+      ],
+      "notes": "**TWO MAJOR INTERPRETATIONS — long debate**: (1) **Literal sacrifice** (= majority Jewish + early Christian): Jephthah ทำตาม vow + ฆ่าบุตรสาว. ใน ฮบ 11:32 Jephthah ถูก list ใน heroes of faith — but this list focuses on victories not all actions. (2) **Lifelong celibacy/dedication** (= medieval Christian + some Jewish): บุตรสาวถวายตัวให้ Tabernacle service เป็น perpetual virgin. หลักฐาน: v.39 emphasis on 'never had relations'. ฉบับเอเรโมสคง ambiguity ของต้นฉบับ — ไม่บังคับการตีความ."
+    }
+  },
+  {
+    "reference": "JDG 11:40",
+    "chapter": 11,
+    "verse": 40,
+    "language": "hebrew",
+    "hebrew": "מִיָּמִ֣ים ׀ יָמִ֗ימָה תֵּלַ֨כְנָה֙ בְּנ֣וֹת יִשְׂרָאֵ֔ל לְתַנּ֕וֹת לְבַת־יִפְתָּ֖ח הַגִּלְעָדִ֑י אַרְבַּ֥עַת יָמִ֖ים בַּשָּׁנָֽה׃",
+    "bsb_english": "that each year the young women of Israel go out for four days to lament the daughter of Jephthah the Gileadite.",
+    "translation": {
+      "thai": "ในแต่ละปี หญิงสาวของอิสราเอลก็จะออกไปไว้ทุกข์ให้บุตรสาวของเยฟทาห์ชาวกิเลอาดเป็นเวลาสี่วัน",
+      "thai_literal": "จากวันถึงวัน บรรดาบุตรสาวของอิสราเอลจะไปเพื่อจะคร่ำครวญถึงบุตรสาวของเยฟทาห์ชาวกิเลอาด สี่วันในปี",
+      "thai_summary": "**ปิดบทด้วย annual memorial.** ข้อ 40 = ผลของ tragedy ที่กลายเป็น Israelite tradition. ทุกปีหญิงสาวรวมตัวเป็น 4 วันเพื่อ commemorate the daughter. นี่ unique ใน OT — annual commemoration ของ tragic event. แสดงว่า Israel ระลึกถึง daughter ไม่ใช่ Jephthah. โครงสร้างเทววิทยา: ผู้แต่งจัด focus ไม่ใช่ on Jephthah-heroism แต่ on daughter-tragedy.",
+      "key_decisions": [
+        {
+          "hebrew": "מִיָּמִים יָמִימָה תֵּלַכְנָה בְּנוֹת יִשְׂרָאֵל לְתַנּוֹת לְבַת־יִפְתָּח הַגִּלְעָדִי",
+          "thai": "ในแต่ละปี หญิงสาวของอิสราเอลก็จะออกไปไว้ทุกข์ให้บุตรสาวของเยฟทาห์ชาวกิเลอาด",
+          "rationale": "**Annual feminine commemoration**. תָּנָה ('to recite/lament') — เฉพาะใน female ritual context. בְּנוֹת יִשְׂרָאֵל ('daughters of Israel') = หญิงสาวเฉพาะ. ภาษาไทย 'หญิงสาวของอิสราเอล' รักษานัย gendered ritual. **4 DAYS**: ระยะเวลาของ formal mourning."
+        }
+      ],
+      "notes": "**FEMALE-ONLY COMMEMORATION**: ผู้แต่งสำคัญที่จะระบุว่าเป็น women's tradition. แสดงว่า bereavement community ของ Jephthah's daughter = women. **NOT RECORDED ELSEWHERE**: ประเพณีนี้ไม่ระบุใน OT อื่น — อาจเป็น local Gileadite tradition ที่ผู้แต่งวินิจฉัยรู้. **THEOLOGICAL POINT**: ผู้แต่งจัด narrative ให้ daughter เป็น focus — ไม่ใช่ Jephthah's victory. แสดง critique ของ rash vow + cost ของ ignorance."
+    }
+  }
+]
