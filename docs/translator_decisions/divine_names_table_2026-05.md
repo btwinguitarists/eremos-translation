@@ -166,3 +166,25 @@ This doc covers **the divine name table only**. The following are separate:
 - אֲדֹנִי (single-yodh, "my lord" addressed to humans like Moses or kings) → `เจ้านายของข้าพเจ้า` / context-appropriate.
 
 **Forward protection:** This rule will govern standalone Adonai prayer-vocatives throughout Psalms, Isaiah, Ezekiel, Daniel. Documented as part of NUM end-of-book audit (item F) before any Psalter chapter ships.
+
+---
+
+## Sub-rule (2026-05-18): Adonai 4-way distinction — JOS 7:7–8 anchor
+
+**Triggered by:** JOS audit Item E + 3-way external AI review (Grok / Gemini / ChatGPT). The shipped JOS 7:7-8 prayer demonstrates a principled within-prayer distinction that the 2026-05-15 sub-rule above did not fully cover: a *direct vocative interjection* `בִּי אֲדֹנָי` ("please, my Lord!") was rendered **`ข้าแต่องค์เจ้านาย`**, while the compound `אֲדֹנָי יְהוִה` in the same prayer was rendered **`ข้าแต่องค์พระผู้เป็นเจ้า`**. The 2026-05-15 sub-rule's surface (`องค์พระผู้เป็นเจ้าของข้าพระองค์`) was anchored on NUM 14:17, which is *possessive* Adonai (`כֹּחַ אֲדֹנָי` = "the power of my Lord") — a different syntactic position from JOS 7:8's vocative interjection.
+
+**The 4-way distinction (LOCK as of 2026-05-18):**
+
+| Hebrew form | Syntactic context | Locked Thai | Anchor |
+|---|---|---|---|
+| **אֲדֹנָי יְהוִה** (compound) | Any (prayer or narrative) | **องค์พระผู้เป็นเจ้า** (vocative: **ข้าแต่องค์พระผู้เป็นเจ้า**) | JOS 7:7 / Gen 15:2 |
+| **אֲדֹנָי** standalone, **direct vocative interjection** in prayer | בִּי אֲדֹנָי, אֲהָהּ אֲדֹנָי, אָנָּא אֲדֹנָי | **ข้าแต่องค์เจ้านาย** | **JOS 7:8** (locking precedent) |
+| **אֲדֹנָי** standalone, **possessive / genitive within a prayer** | כֹּחַ אֲדֹנָי and similar | **องค์พระผู้เป็นเจ้าของข้าพระองค์** (per 2026-05-15 sub-rule) | NUM 14:17 |
+| **אֲדֹנָי / אֲדֹנֵי** title, **third-person reference** (not in prayer-address) | Narrative use, "the Lord said" | **องค์เจ้านาย / องค์เจ้านายของบรรดาเจ้านาย** | Gen 18:27, Deut 10:17 |
+| **אֲדֹנִי** (single-yodh, addressing humans/angels) | "my lord" to Moses, kings, angels | **เจ้านายของข้าพเจ้า** / context-appropriate | Gen 24:12, Num 32:25 |
+
+**Why this distinction matters:** within a single prayer, Hebrew alternates between the compound אֲדֹנָי יְהוִה (rare, weighty) and standalone אֲדֹנָי (common, intimate vocative). The Thai must preserve that alternation so the reader feels the same register shift the Hebrew preserves. JOS 7:7-8 is the cleanest single-prayer example in the OT and is therefore the locking anchor.
+
+**Boundary with the 2026-05-15 sub-rule:** the 2026-05-15 rule applies to *possessive* standalone Adonai inside prayer (`כֹּחַ אֲדֹנָי` and similar genitive constructions); this 2026-05-18 rule applies to *direct vocative interjections* (`בִּי אֲדֹנָי`, `אֲהָהּ אֲדֹנָי`, `אָנָּא אֲדֹנָי`). The two rules are complementary, not contradictory.
+
+**Forward protection:** Psalms (frequent `אֲדֹנָי` vocatives in laments), Daniel 9 (Daniel's prayer — multiple Adonai vocatives), Lamentations, Ezra 9 (penitential prayer). Translators ship-working those books default to the 4-way distinction above; the JOS 7:7-8 surface is the precedent.

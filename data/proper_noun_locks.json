@@ -1,22 +1,31 @@
 {
-  "version": "0.1",
-  "decided": "2026-05-16",
+  "version": "0.2",
+  "decided": "2026-05-18",
   "source_doc": "docs/translator_decisions/proper_names_and_transliteration_2026-05.md",
   "trigger": "DEU end-of-book audit §Z — both reviewers flagged absence of automated proper-noun coverage as the prevention layer that allowed F1 Pisgah and F2 seven-nations drift to ship.",
   "locks": [
     {
       "category": "seven_nations_cluster",
       "lemma_id": "hittite",
-      "hebrew_forms": ["חִתִּי", "חִתִּים", "הַחִתִּי"],
+      "hebrew_forms": [
+        "חִתִּי",
+        "חִתִּים",
+        "הַחִתִּי"
+      ],
       "thai_canonical": "ชาวฮิตไทต์",
-      "thai_rejected": ["คนฮิตไทต์"],
+      "thai_rejected": [
+        "คนฮิตไทต์"
+      ],
       "first_lock_verse": "DEU 7:1",
       "exceptions": {}
     },
     {
       "category": "seven_nations_cluster",
       "lemma_id": "girgashite",
-      "hebrew_forms": ["גִּרְגָּשִׁי", "הַגִּרְגָּשִׁי"],
+      "hebrew_forms": [
+        "גִּרְגָּשִׁי",
+        "הַגִּרְגָּשִׁי"
+      ],
       "thai_canonical": "ชาวเกอร์กาชี",
       "thai_rejected": [],
       "first_lock_verse": "DEU 7:1",
@@ -25,54 +34,93 @@
     {
       "category": "seven_nations_cluster",
       "lemma_id": "amorite",
-      "hebrew_forms": ["אֱמֹרִי", "הָאֱמֹרִי"],
+      "hebrew_forms": [
+        "אֱמֹרִי",
+        "הָאֱמֹרִי"
+      ],
       "thai_canonical": "ชาวอาโมไรต์",
-      "thai_rejected": ["คนอาโมไรต์"],
+      "thai_rejected": [
+        "คนอาโมไรต์"
+      ],
       "first_lock_verse": "DEU 7:1",
       "exceptions": {}
     },
     {
       "category": "seven_nations_cluster",
       "lemma_id": "canaanite",
-      "hebrew_forms": ["כְּנַעֲנִי", "הַכְּנַעֲנִי"],
+      "hebrew_forms": [
+        "כְּנַעֲנִי",
+        "הַכְּנַעֲנִי"
+      ],
       "thai_canonical": "ชาวคานาอัน",
-      "thai_rejected": ["คนคานาอัน"],
+      "thai_rejected": [
+        "คนคานาอัน"
+      ],
       "first_lock_verse": "DEU 7:1",
       "exceptions": {}
     },
     {
       "category": "seven_nations_cluster",
       "lemma_id": "perizzite",
-      "hebrew_forms": ["פְּרִזִּי", "הַפְּרִזִּי"],
+      "hebrew_forms": [
+        "פְּרִזִּי",
+        "הַפְּרִזִּי"
+      ],
       "thai_canonical": "ชาวเปริซซี",
-      "thai_rejected": ["คนเปริสซีต", "ชาวเปริสซีต"],
+      "thai_rejected": [
+        "คนเปริสซีต",
+        "ชาวเปริสซีต",
+        "ชาวเปริซไซต์",
+        "คนเปริซไซต์",
+        "ชาวเปริสซี"
+      ],
       "first_lock_verse": "DEU 7:1",
       "exceptions": {}
     },
     {
       "category": "seven_nations_cluster",
       "lemma_id": "hivite",
-      "hebrew_forms": ["חִוִּי", "הַחִוִּי"],
+      "hebrew_forms": [
+        "חִוִּי",
+        "הַחִוִּי"
+      ],
       "thai_canonical": "ชาวฮีไว",
-      "thai_rejected": ["คนฮีไวต์", "ชาวฮีไวต์"],
+      "thai_rejected": [
+        "คนฮีไวต์",
+        "ชาวฮีไวต์"
+      ],
       "first_lock_verse": "DEU 7:1",
       "exceptions": {}
     },
     {
       "category": "seven_nations_cluster",
       "lemma_id": "jebusite",
-      "hebrew_forms": ["יְבוּסִי", "הַיְבוּסִי"],
+      "hebrew_forms": [
+        "יְבוּסִי",
+        "הַיְבוּסִי"
+      ],
       "thai_canonical": "ชาวเยบุส",
-      "thai_rejected": ["คนเยบุสีต", "ชาวเยบุสีต"],
+      "thai_rejected": [
+        "คนเยบุสีต",
+        "ชาวเยบุสีต",
+        "ชาวเยบูไซต์",
+        "คนเยบูไซต์",
+        "ชาวเยบุสไซต์"
+      ],
       "first_lock_verse": "DEU 7:1",
       "exceptions": {}
     },
     {
       "category": "trans_jordan_place_name",
       "lemma_id": "pisgah",
-      "hebrew_forms": ["פִּסְגָּה", "הַפִּסְגָּה"],
+      "hebrew_forms": [
+        "פִּסְגָּה",
+        "הַפִּסְגָּה"
+      ],
       "thai_canonical": "พิสกาห์",
-      "thai_rejected": ["ปิสกาห์"],
+      "thai_rejected": [
+        "ปิสกาห์"
+      ],
       "first_lock_verse": "DEU 3:17",
       "exceptions": {}
     }
