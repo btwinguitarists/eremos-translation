@@ -1,8 +1,8 @@
 # OT Warfare / Ḥerem / Apostasy-Punishment Ethics — Translation Policy
 
-**Status:** LOCKED 2026-05-15; amended 2026-05-16 (DEU audit Item D — ḥerem Thai-surface lock added §4.1)
+**Status:** LOCKED 2026-05-15; amended 2026-05-16 (DEU audit Item D — ḥerem Thai-surface lock added §4.1); **amended 2026-05-18** (JOS audit Item D — §4.1 superseded by **§4.1.1 binyan-principled 2-form split** below)
 **Triggered by:** Numbers end-of-book audit, Item C (NUM 25:6-9 + 31:17-18)
-**Cross-AI consensus:** ChatGPT, Gemini, Logos AI 2026-05-15; amended via DEU-audit cross-AI Gemini + ChatGPT 2026-05-16
+**Cross-AI consensus:** ChatGPT, Gemini, Logos AI 2026-05-15; amended via DEU-audit cross-AI Gemini + ChatGPT 2026-05-16; **amended 2026-05-18 via JOS-audit cross-AI Grok + Gemini + ChatGPT (3-way unanimous path-(a))**
 **Scope:** Pentateuch + Joshua + Judges + Samuel + Kings + Chronicles (any text involving ḥerem warfare, capital-punishment apostasy judgments, or zealot executions)
 
 ---
@@ -55,7 +55,9 @@ Those are interpretive moves that belong to study Bibles, commentaries, and past
 | Zealot execution | רצח / נקם in priestly/judicial context | Translate as judicial-killing terms; do NOT use the modern Thai term for "assassinate" |
 | Apostasy capital-punishment | מוֹת יוּמַת for idolatry/blasphemy | Translate fully + Layer-2 footer at first systematic occurrence in book |
 
-## 4.1 Ḥerem (חרם) Thai-surface lock
+## 4.1 Ḥerem (חרם) Thai-surface lock — **superseded by §4.1.1 below**
+
+> **2026-05-18 amendment notice:** The single-surface lock recorded in this §4.1 (`ทุ่มถวายเพื่อทำลาย`) is **superseded** by the binyan-principled 2-form split documented in §4.1.1. §4.1 is retained for audit history. New ship-work uses §4.1.1; DEU verses that still ship the §4.1 surface are flagged for normalization in the next DEU audit pass (see §4.1.1 "Coordination" below).
 
 **Canonical Thai surface for the ḥerem lemma:** **ทุ่มถวายเพื่อทำลาย** ("lay-down-as-offering for destruction").
 
@@ -88,6 +90,43 @@ For Deuteronomy specifically, the first-occurrence transliteration is at **DEU 2
 - **ทำลายอย่างสิ้นเชิง** (destruction-outcome only) — loses the ritual-offering register; acceptable only as a downstream gloss within a verse that has already established ḥerem via the canonical surface.
 
 **Forward enforcement:** the canonical surface extends to Joshua + Judges + 1 Sam 15 + every future OT book where ḥerem appears. `check_phrase_consistency.py` should HARD-FAIL when ḥerem (חרם hiphil or חֵרֶם noun) maps to anything other than the surfaces above at non-first-occurrence sites.
+
+## 4.1.1 Ḥerem (חרם) Thai-surface lock — **binyan-principled 2-form split (LOCK as of 2026-05-18)**
+
+**Decided:** 2026-05-18 (Ben, post-Joshua-end-of-book audit). **Triggered by:** JOS audit Item D + 3-way external AI review (Grok / Gemini / ChatGPT) — all three independently chose **path (a)**: keep Joshua's 2-form binyan-principled split, normalize Deuteronomy to match.
+
+**Why this supersedes §4.1's single-surface lock:** the Hebrew distinguishes two grammatically-distinct uses of the ḥerem root, and the Thai surface preserves that distinction:
+
+1. **Nominal חֵרֶם** = "the devoted/banned thing" — the *object* state of being set apart for destruction.
+2. **Hiphil החרים / יחרים / יחרם** = the *action* of devoting-to-destruction; the verb of carrying out the ban.
+
+The §4.1 flatten (`ทุ่มถวายเพื่อทำลาย`) collapses both forms into a single nominal-leaning surface, which reads as a translator's calque in narrative-action contexts (Hiphil verbs of armies carrying out the ban). Joshua's actual production shipped the 2-form split unprompted; the audit found it cleaner than Deuteronomy's 5-surface drift; the 3 external reviewers concurred.
+
+### The lock
+
+| Hebrew form | Locked Thai | Examples (in shipped JOS) |
+|---|---|---|
+| **Nominal חֵרֶם** (the ḥerem-thing) | **อุทิศ…ให้พินาศ** / **สิ่งที่ถูกอุทิศให้พินาศ** | JOS 6:17, 6:18, 7:1, 7:11, 7:12, 7:13, 7:15, 22:20 |
+| **Hiphil verbal** (perfect/imperfect/imperative) — חרם hiphil | **ทำลายล้าง…จนสิ้น** | JOS 6:21, 8:26, 10:1, 10:28, 10:35, 10:37, 10:39, 10:40, 11:11, 11:12, 11:20, 11:21 |
+| **Hiphil infinitive-absolute intensifier** — הַחֲרֵם תַּחֲרִים | **ทำลายล้าง…จนสิ้นโดยสมบูรณ์** (intensifier preserved) | DEU 7:2 (post-normalization), DEU 20:17 |
+
+**The unifying nominal device — "อุทิศ…ให้พินาศ"** captures both the dedication (อุทิศ = consecrate / set apart for) and the destruction-as-outcome (พินาศ = perish / be ruined) without flattening either pole. The verbal Hiphil — "ทำลายล้าง…จนสิ้น" — leans on the destruction-outcome since the verb's narrative role is the act, not the state.
+
+### Why "อุทิศ…ให้พินาศ" beats "ทุ่มถวายเพื่อทำลาย" for the nominal form
+
+- **อุทิศ** (consecrate / dedicate) is the native Thai religious-dedication verb; it is used in both Buddhist and Christian liturgical Thai for "consecrate / devote." It carries the ritual register without requiring the unusual collocation `ทุ่มถวาย` (laying-down-as-offering).
+- **พินาศ** (perish, be ruined) carries the destruction outcome as a state the object enters — matching the nominal Hebrew sense (the *thing* devoted *to perishing*) better than `ทำลาย` (the *act* of destroying), which is verb-leaning.
+- The construction **"อุทิศ X ให้พินาศ"** ("consecrate X to perishing") reads as a natural Thai religious-judicial register; **"ทุ่มถวาย X เพื่อทำลาย"** ("lay-down-as-offering X for-the-purpose-of destroying") reads as a translator's calque.
+
+### Coordination with Deuteronomy
+
+DEU currently ships the superseded §4.1 surface (`ทุ่มถวาย`) at 6 verses: **DEU 3:6, 7:2, 13:15, 13:17, 20:17, 25:19**. These are **not** normalized in the 2026-05-18 Joshua audit PR — they will be normalized in the next DEU audit pass, coordinated with the outstanding DEU audit Item D follow-ups. Until that pass, the §4.1 surface in those verses is documented as **transitional**; all new ship-work uses §4.1.1.
+
+### Forward enforcement
+
+- New OT-book ship-work (1 Sam 15 ḥerem, Judges 1, 1 Kgs 20, etc.) uses §4.1.1 — both forms — from the start.
+- `check_phrase_consistency.py` should warn when the §4.1 surface appears in a verse outside DEU.
+- The §2 footer template's wording (e.g., `{SPECIFIC-INSTITUTION เช่น "กฎḥerem"}`) is unaffected by §4.1.1 — the institution name is the Hebrew technical term, not the Thai surface choice.
 
 ## 5. Affected verses in Numbers (already footered)
 
