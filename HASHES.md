@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-05-18 22:52:03 UTC_
-_Total chapters: 493 · Total verses: 15006_
+_Generated: 2026-05-18 23:30:59 UTC_
+_Total chapters: 494 · Total verses: 15026_
 
 ## How to verify a chapter
 
@@ -330,7 +330,8 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/judges_11.json` | 40 | `5407bb5d7d411cf5a08dd316b48cbd3856188c904f70e8381b050a3050389252` | `97f1def` |
 | `output/translations/judges_12.json` | 15 | `c7291ea3e3d890b34fc9410e21843e52417ffdb7ae4507f32152c9e42860d40f` | `8645c8c` |
 | `output/translations/judges_13.json` | 25 | `75e28570d866e76e7f9f2f23cf31add7bb11533538a886ace9cc1a4a25769ccb` | `6890b05` |
-| `output/translations/judges_14.json` | 20 | `3401f211c2e850ec3864c8a38f64646c3e53561a526620f048dcaadebf7c599d` | `—` |
+| `output/translations/judges_14.json` | 20 | `3401f211c2e850ec3864c8a38f64646c3e53561a526620f048dcaadebf7c599d` | `3009055` |
+| `output/translations/judges_15.json` | 20 | `b62f614302dd773418ea4b848b72a3d8b2d3fc729f8909f0e482253503a932f5` | `—` |
 | `output/translations/leviticus_01.json` | 17 | `4dc3d8acb54097fd1f8e3249ea68ba1290693a4e25c0e3ff7e73636bae2902cb` | `ae02fa1` |
 | `output/translations/leviticus_02.json` | 16 | `b612a857d7531c5da10f5e53977628f4adc41fb57007912169dda91901e22925` | `26ddaa1` |
 | `output/translations/leviticus_03.json` | 17 | `b3bf9e73771469c8f6f4dad4cf2864924400f14bf5d92ae1057527a3591fa912` | `1271eaf` |
