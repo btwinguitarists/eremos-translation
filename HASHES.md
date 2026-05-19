@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-05-19 21:06:59 UTC_
-_Total chapters: 505 · Total verses: 15323_
+_Generated: 2026-05-19 21:39:26 UTC_
+_Total chapters: 506 · Total verses: 15344_
 
 ## How to verify a chapter
 
@@ -49,7 +49,8 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/1samuel_02.json` | 36 | `67fda0ad165155f15a89e8669ebe1b66844a804cbfa4ebd87b5fb6ecf4b0adf2` | `aed00d4` |
 | `output/translations/1samuel_03.json` | 21 | `e0832424bb035295ae8a026e94c80fcb8aff79efdfd73d586513a066150d0197` | `98a8df3` |
 | `output/translations/1samuel_04.json` | 22 | `ebf07811cfb704fd9e919521da456eef88ef56add26d61dc719df701afc7271b` | `c3d6236` |
-| `output/translations/1samuel_05.json` | 12 | `5f771086ad4e429dc12b9ed7e53a12a8348b5ee1191d1444f4ba95c04373a1aa` | `—` |
+| `output/translations/1samuel_05.json` | 12 | `5f771086ad4e429dc12b9ed7e53a12a8348b5ee1191d1444f4ba95c04373a1aa` | `f01546b` |
+| `output/translations/1samuel_06.json` | 21 | `041152f588c936aab2b4af5d91a53bcb3662eb628e7e1f39505742e56255105b` | `—` |
 | `output/translations/1thessalonians_01.json` | 10 | `fdc756d6679cb22854a22c4d222c372bfcc5c37c81ce7855e059b8b2e389675e` | `19285bb` |
 | `output/translations/1thessalonians_02.json` | 20 | `1c39af3e0fd06a32906b8256dc93b5fdcc8e3038e39c1b2a388ea3ca11b593d2` | `6063f78` |
 | `output/translations/1thessalonians_03.json` | 13 | `d09d3e84833d019877b79139018fb0e5a8cb4fc87ea6b5d18580ba86614aaf99` | `de0f124` |
