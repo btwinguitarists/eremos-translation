@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-05-19 17:59:45 UTC_
-_Total chapters: 500 · Total verses: 15204_
+_Generated: 2026-05-19 18:46:52 UTC_
+_Total chapters: 501 · Total verses: 15232_
 
 ## How to verify a chapter
 
@@ -45,6 +45,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/1peter_03.json` | 22 | `ab8923ac1f2bce4711ab6aab171275521419001881bbd55a736f444fdc007516` | `256bbe7` |
 | `output/translations/1peter_04.json` | 19 | `5f1d50f69f35aeb8a52f46b83daad7c826ac3cc8a9e64daa1eadf7beb1fc6413` | `63b6272` |
 | `output/translations/1peter_05.json` | 14 | `04811613980f157b203a1e080f4c5b2728930eda3865e0d151b2d49386b4e42b` | `2204c75` |
+| `output/translations/1samuel_01.json` | 28 | `aa43495ec828de01ec63bfd96d4e0be6e9b84ac7185ee7808edd3a08e4d69440` | `—` |
 | `output/translations/1thessalonians_01.json` | 10 | `fdc756d6679cb22854a22c4d222c372bfcc5c37c81ce7855e059b8b2e389675e` | `19285bb` |
 | `output/translations/1thessalonians_02.json` | 20 | `1c39af3e0fd06a32906b8256dc93b5fdcc8e3038e39c1b2a388ea3ca11b593d2` | `6063f78` |
 | `output/translations/1thessalonians_03.json` | 13 | `d09d3e84833d019877b79139018fb0e5a8cb4fc87ea6b5d18580ba86614aaf99` | `de0f124` |
@@ -337,7 +338,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/judges_18.json` | 31 | `a1ee37808220e91441262b84c700bb331b6e0b489198849907577acf44e70645` | `4e71a68` |
 | `output/translations/judges_19.json` | 30 | `a3f2921f1ce1b1a67d0ecf45ee0390abe005a65fb2e571fac4f91fa0e6404953` | `5730eca` |
 | `output/translations/judges_20.json` | 48 | `82b7b3313c266e2316c7704b9ee786c26694471f0ade9b1dd43a80fd3e515a82` | `286af06` |
-| `output/translations/judges_21.json` | 25 | `f5797f8cba8f486c8355e87e24d095c1c7b209fd9d90aaff4ca1432e9a0cde26` | `—` |
+| `output/translations/judges_21.json` | 25 | `f5797f8cba8f486c8355e87e24d095c1c7b209fd9d90aaff4ca1432e9a0cde26` | `7844b37` |
 | `output/translations/leviticus_01.json` | 17 | `4dc3d8acb54097fd1f8e3249ea68ba1290693a4e25c0e3ff7e73636bae2902cb` | `ae02fa1` |
 | `output/translations/leviticus_02.json` | 16 | `b612a857d7531c5da10f5e53977628f4adc41fb57007912169dda91901e22925` | `26ddaa1` |
 | `output/translations/leviticus_03.json` | 17 | `b3bf9e73771469c8f6f4dad4cf2864924400f14bf5d92ae1057527a3591fa912` | `1271eaf` |
