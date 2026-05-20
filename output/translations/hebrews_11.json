@@ -846,7 +846,7 @@
     "greek": "Καὶ τί ἔτι λέγω;ἐπιλείψει με γὰρ διηγούμενον ὁ χρόνος περὶ Γεδεών,Βαράκ,Σαμψών,Ἰεφθάε,Δαυίδ τε καὶ Σαμουὴλ καὶ τῶν προφητῶν,",
     "bsb_english": "And what more shall I say? Time will not allow me to tell of Gideon, Barak, Samson, Jephthah, David, Samuel, and the prophets,",
     "translation": {
-      "thai": "และข้าพเจ้าจะกล่าวอะไรอีก? เพราะเวลาจะไม่พอที่ข้าพเจ้าจะเล่าเรื่องของกิเดโอน บาราค แซมสัน เยฟธาห์ ดาวิด ซามูเอล และบรรดาผู้เผยพระวจนะ",
+      "thai": "และข้าพเจ้าจะกล่าวอะไรอีก? เพราะเวลาจะไม่พอที่ข้าพเจ้าจะเล่าเรื่องของกิดเอน บาราค แซมสัน เยฟทาห์ ดาวิด ซามูเอล และบรรดาผู้เผยพระวจนะ",
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
@@ -862,8 +862,8 @@
         },
         {
           "greek": "περὶ Γεδεών, Βαράκ, Σαμψών, Ἰεφθάε, Δαυίδ τε καὶ Σαμουὴλ καὶ τῶν προφητῶν",
-          "thai": "ของกิเดโอน บาราค แซมสัน เยฟธาห์ ดาวิด ซามูเอล และบรรดาผู้เผยพระวจนะ",
-          "rationale": "FIVE HAPAXES (proper names) — all OT-Judges + early-Kings figures. Γεδεών → กิเดโอน (Thai biblical-transliteration for Gideon). Βαράκ → บาราค (Thai biblical-transliteration for Barak). Σαμψών → แซมสัน (Thai-biblical for Samson). Ἰεφθάε → เยฟธาห์ (Thai biblical for Jephthah). Δαυίδ → ดาวิด (corpus standard from MAT 1:1). Σαμουήλ → ซามูเอล (corpus from ACT 3:24, 13:20). προφήτης → ผู้เผยพระวจนะ (corpus standard)."
+          "thai": "ของกิดเอน บาราค แซมสัน เยฟทาห์ ดาวิด ซามูเอล และบรรดาผู้เผยพระวจนะ",
+          "rationale": "FIVE HAPAXES (proper names) — all OT-Judges + early-Kings figures. Per `proper_names_and_transliteration_2026-05.md` cross-corpus rule (2026-05-20, JDG audit Item C): NT retrospective references to OT-narrative figures use the **OT-Hebrew-faithful** Thai surface for cross-corpus reader recognition, not Greek-transliteration drift. Γεδεών (Greek-form, → กิเดโอน in isolation) → **กิดเอน** (Hebrew-faithful, matches all 57 JDG occurrences from גִּדְעוֹן). Βαράκ → บาราค (matches all 12 JDG occurrences from בָּרָק — Greek and Hebrew forms converge). Σαμψών → แซมสัน (matches all 50 JDG occurrences from שִׁמְשׁוֹן — convergent). Ἰεφθάε → **เยฟทาห์** (Hebrew-faithful, matches all 26 JDG occurrences from יִפְתָּח). Δαυίδ → ดาวิด (corpus standard from MAT 1:1, matches שָׁמוּאֵל-side Hebrew). Σαμουήλ → ซามูเอล (corpus from ACT 3:24, 13:20). προφήτης → ผู้เผยพระวจนะ (corpus standard)."
         }
       ],
       "notes": "FIVE HAPAXES in v.32 (ἐπιλείπω, Γεδεών, Βαράκ, Σαμψών, Ἰεφθάε — four proper-names + the verb). OT BACKGROUND: JDG 6-8 (Gideon), JDG 4-5 (Barak), JDG 13-16 (Samson), JDG 11-12 (Jephthah), 1-2 Sam (David, Samuel)."

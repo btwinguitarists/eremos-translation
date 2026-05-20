@@ -188,3 +188,34 @@ This doc covers **the divine name table only**. The following are separate:
 **Boundary with the 2026-05-15 sub-rule:** the 2026-05-15 rule applies to *possessive* standalone Adonai inside prayer (`כֹּחַ אֲדֹנָי` and similar genitive constructions); this 2026-05-18 rule applies to *direct vocative interjections* (`בִּי אֲדֹנָי`, `אֲהָהּ אֲדֹנָי`, `אָנָּא אֲדֹנָי`). The two rules are complementary, not contradictory.
 
 **Forward protection:** Psalms (frequent `אֲדֹנָי` vocatives in laments), Daniel 9 (Daniel's prayer — multiple Adonai vocatives), Lamentations, Ezra 9 (penitential prayer). Translators ship-working those books default to the 4-way distinction above; the JOS 7:7-8 surface is the precedent.
+
+---
+
+## Sub-rule (2026-05-20): Recognition-arc principle — JDG 6:15 → 6:22 anchor
+
+**Triggered by:** JDG audit Item B + 2-way external AI review (ChatGPT + Gemini, convergent MAJOR-CONCERN verdict on Adonai-in-prayer 5-form drift across JOS + JDG). The Judges audit applied the JOS 7:7–8 4-way distinction under pressure and surfaced an additional principle the JOS audit did not name: the *same Hebrew form* (אֲדֹנִי vs אֲדֹנָי) can correspond to two distinct Thai surfaces depending on whether the human speaker has yet recognized the divine identity of the figure being addressed.
+
+**The recognition-arc:**
+
+| Stage | Hebrew form | Sense | Thai surface | Anchor |
+|---|---|---|---|---|
+| **Pre-recognition** — speaker addresses figure as "my lord" not yet knowing it is divine | **אֲדֹנִי** (single-yodh; possessive "my lord") | Human / angelic address; speaker treats figure as an angel-courier or distinguished stranger | **เจ้านายของข้าพเจ้า** / **ท่านนายของข้าพเจ้า** | **JDG 6:15** (Gideon to the angel-of-YHWH, before recognition) |
+| **Post-recognition** — speaker realizes figure is divine and switches to the formal compound vocative | **אֲדֹנָי יְהוִה** (compound) | Formal divine address; speaker now knows the encounter is theophanic / angelophanic with divine identification | **ข้าแต่องค์พระผู้เป็นเจ้า** | **JDG 6:22** (Gideon's response after recognition: "Alas, Lord GOD! I have seen the angel of YHWH face to face!") |
+
+**Rationale:** the JDG 6:15 → 6:22 pericope is the single cleanest **within-pericope register-shift anchor** in the OT. Gideon's pre-recognition אֲדֹנִי at v.15 and his post-recognition אֲדֹנָי יְהוִה at v.22 are separated by only 7 verses and involve the same speaker addressing the same figure — making the register-shift unambiguously diagnostic of *speaker awareness*, not of Hebrew form alone. Translating both with the same Thai surface (or worse, treating v.15 as if Gideon already knew it was divine) would flatten the narrative arc the Hebrew author explicitly constructed.
+
+**Forward protection for analogous theophany / angelophany scenes:**
+
+1. **GEN 18:1–33** (Abraham at Mamre) — Abraham initially addresses the three visitors as `אֲדֹנָי` ("my lords" / "my lord" — singular MT, plural some witnesses) at v.3 without certainty whether they are divine; by v.22 the narrative makes clear at least one of them is YHWH. Apply the recognition-arc principle: v.3 = pre-recognition `ข้าแต่ท่านนาย` (singular, registering Abraham's hospitality-host stance to apparent travelers); subsequent address shifts to post-recognition forms as the narrative develops.
+
+2. **GEN 32:23–33** (Jacob at Peniel) — Jacob wrestles with "a man" (אִישׁ, v.25), then realizes "I have seen God face-to-face" (v.31). The man is never called אֲדֹנִי / אֲדֹנָי in dialogue, but the recognition-arc structure (man → divine figure) is parallel.
+
+3. **JOS 5:13–15** (Joshua and the Commander of YHWH's host) — Joshua initially asks "are you for us or for our adversaries?" (v.13, pre-recognition, addressing as `אֲדֹנִי` is implicit but the speech is direct interrogation, not vocative); by v.14 he falls on his face and worships, recognition complete. The JOS 5:15 holy-ground formula (`שַׁל־נַעַלְךָ`) verbally matches EXO 3:5 and signals divine identity. See [[captain_of_yhwh_host_2026-05]] for the parallel register handling.
+
+4. **JDG 13:1–22** (Manoah and the angel of YHWH) — Manoah's pre-recognition address at v.11 ("Are you the man…?" — not vocative) and his post-recognition fear at v.22 ("We shall surely die, for we have seen God!") — but note that v.8 (`בִּי אֲדוֹנָי`) is **already post-Annunciation** (the angel has already revealed to Manoah's wife in vv.3–5), so it falls under the 2026-05-18 sub-rule (standalone vocative-interjection prayer → `ข้าแต่องค์เจ้านาย`), not the pre-recognition category. The recognition-arc principle and the 4-way Adonai sub-rule are complementary, not overlapping.
+
+5. **2 KGS 6:15–17** (Elisha's servant and the chariots of fire) — pre-/post-recognition of the angelic host. Use the recognition-arc principle.
+
+**Boundary with the 4-way Adonai sub-rule (2026-05-18):** the 4-way distinction governs the *form-to-Thai mapping* once the speaker's recognition-stage is known. The recognition-arc principle (this sub-rule) governs *which stage the speaker is in* when the Hebrew uses formally ambiguous אֲדֹנִי. The two rules compose: first determine recognition-stage from the narrative arc (this sub-rule), then apply the 4-way mapping (2026-05-18 sub-rule) within that stage.
+
+**No retroactive verse edits required from JDG audit Item B beyond the 3 already applied (JDG 6:22, 13:8, 16:28).** JDG 6:15 was already shipped with the correct pre-recognition Thai (`ข้าแต่ท่านนายของข้าพเจ้า`); this sub-rule documents the principle it embodies so future theophany / angelophany scenes inherit the pattern.

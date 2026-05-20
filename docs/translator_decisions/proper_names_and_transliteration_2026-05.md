@@ -227,3 +227,62 @@ End of phase 6H (Twelve Prophets), run a corpus-wide proper-name consistency aud
 - **Pilot-end review** (after Ruth + Jonah + Gen 1–11 ship) — review the baseline file. Adjust if the Thai-language reviewer / maintainer find systematic THSV11-form issues.
 - **Per-phase boundary** — re-confirm the baseline still applies; THSV11 conventions can drift across genre.
 - **If a Phase-6 book introduces a wave of new proper names** (Joshua tribal-allotments, 1 Chr genealogies, Ezra-Neh names) — verify baseline coverage is sufficient before starting; build out the file if not.
+
+---
+
+## Amendment (2026-05-20): Judges-figure entries + OT-figure-in-NT-retrospective cross-corpus rule
+
+**Triggered by:** JDG audit Item C + 2-way external AI review (ChatGPT MAJOR-CONCERN / Gemini CONCERN). Heb 11:32 shipped with Greek-form transliterations (`กิเดโอน`, `เยฟธาห์`) while Judges shipped with Hebrew-faithful forms (`กิดเอน`, `เยฟทาห์`). This is the first OT/NT cross-corpus proper-name drift caught in the project — and both AIs converged on a single fix: align the NT side to the OT-Hebrew-faithful surface, since the NT retrospective is explicitly pointing readers back to the OT narrative.
+
+### Judges-figure locked entries
+
+| Hebrew | Greek (in NT retrospectives) | Locked Thai | Anchor |
+|---|---|---|---|
+| גִּדְעוֹן | Γεδεών | **กิดเอน** | JDG 6:11 (first occurrence); 57 total JDG occurrences; HEB 11:32 (now aligned) |
+| בָּרָק | Βαράκ | **บาราค** | JDG 4:6 (first occurrence); 12 total JDG occurrences; HEB 11:32 (was already aligned — Hebrew and Greek forms converge) |
+| שִׁמְשׁוֹן | Σαμψών | **แซมสัน** | JDG 13:24 (first occurrence); 50 total JDG occurrences; HEB 11:32 (was already aligned — Greek-style "แซมสัน" matches Hebrew "שִׁמְשׁוֹן" closely enough that no drift was present) |
+| יִפְתָּח | Ἰεφθάε | **เยฟทาห์** | JDG 11:1 (first occurrence); 26 total JDG occurrences; HEB 11:32 (now aligned) |
+| דְּבוֹרָה | (no NT mention) | **เดโบราห์** | JDG 4:4 (first occurrence) |
+| אֵהוּד | (no NT mention) | **เอฮูด** | JDG 3:15 (first occurrence) |
+| גָּתְנִיאֵל / עָתְנִיאֵל | (no NT mention) | **โอทนีเอล** | JDG 1:13 (first occurrence) |
+| יוֹאָשׁ (father of Gideon) | (no NT mention) | **โยอาช** | JDG 6:11 |
+| מָנוֹחַ (father of Samson) | (no NT mention) | **มาโนอาห์** | JDG 13:2 |
+| דְּלִילָה | (no NT mention) | **เดลิลาห์** | JDG 16:4 |
+
+### The cross-corpus rule
+
+**When an OT-narrative figure is named in the NT as a direct retrospective reference to the OT story** (e.g., Heb 11:32's faith-hall, Acts 7's Stephen-speech historical sweep, Romans 9–11's Pauline OT references, James 5:17's Elijah reference), **use the OT-Hebrew-faithful Thai spelling** for cross-corpus recognizability — even when the underlying Greek transliteration would naturally produce a slightly different Thai form.
+
+**Rationale:**
+
+1. **Reader experience.** The NT retrospective is explicitly pointing readers back to the OT narrative. A Thai reader who reads HEB 11:32's `กิดเอน` should be able to immediately cross-reference Judges and find the same Thai spelling. Splitting the Thai across testaments (`กิเดโอน` in HEB 11:32 vs. `กิดเอน` in JDG) would create unnecessary friction with no theological benefit.
+
+2. **Greek-form vs. Hebrew-form is a transliteration choice, not a meaning difference.** Γεδεών IS Gideon; Ἰεφθάε IS Jephthah. The Greek author of Hebrews used the LXX/Greek conventions because Greek was his vehicle; he was not naming different people. The Thai translator's task is to render the *same person*, and the OT-Hebrew-faithful Thai is the canonical reference form.
+
+3. **The reverse direction does NOT apply.** When an OT figure has acquired a Greek-conventional Thai form that is *more widely recognized* in Thai-Bible readership (e.g., `โมเสส` matches both Greek Μωυσῆς and Hebrew מֹשֶׁה via THSV11 baseline; same with `ดาวิด`, `ซามูเอล`), use the THSV11 baseline. The rule only kicks in when an OT/NT spelling drift would actively obstruct cross-corpus reading — as it did at HEB 11:32 with `กิเดโอน` (Greek-form) vs. `กิดเอน` (Hebrew-faithful, JDG-side baseline).
+
+### Forward-protection — other OT-figure-in-NT-retrospective targets
+
+A pre-flight scan was performed 2026-05-20 for the specific Judges-side drift targets (`กิเดโอน`, `เยฟธาห์`) across all NT books — only HEB 11:32 had the drift, and it is now fixed. **However**, the same class of issue can recur for other OT figures in NT retrospectives. The following are the highest-stakes upcoming watch-points; pre-flight scan recommended before next OT audit pass:
+
+1. **Acts 7 (Stephen's speech)** — sweeping OT history; checks every patriarch, Moses-cycle figure, judge-era figure, royal-era figure. Highest risk concentration of OT-figure-in-NT-retrospective drift in the NT.
+2. **Matt 1 / Luke 3 genealogies** — David-line names; check against 1-2 SAM and 1-2 CHR baselines.
+3. **Romans 4 (Abraham), Romans 9–11 (Isaac, Esau, Jacob, Moses, Pharaoh, Elijah)** — Pauline OT retrospectives.
+4. **Hebrews 11 (entire faith-hall)** — already audited for Judges figures; check remaining (Abel, Enoch, Noah, Abraham, Sarah, Isaac, Jacob, Joseph, Moses, Rahab) against OT baselines.
+5. **James 5:17 (Elijah)** — already locked from earlier audit; spot-confirm.
+6. **2 Pet 2:5–8** (Noah, Lot) — short list; spot-confirm.
+7. **Jude 11, 14** (Cain, Balaam, Korah, Enoch) — non-canonical Enoch reference but the names need to align with their OT-narrative forms where they appear.
+
+The pre-flight scan is mechanical (greppable) and should be a single one-shot job: every NT verse that mentions an OT figure, cross-check Thai spelling against the OT-side baseline file (`data/proper_names_thsv11_baseline.json`) once that file is built. Recommend running this scan **before** the next NT book is opened for audit (currently main is on 1SA; no immediate NT touch-up planned).
+
+### Boundary
+
+- This rule applies to *OT-figure-in-NT-retrospective* contexts only. NT-native figures (Jesus, Paul, Peter, the apostles, NT-era named individuals) retain their Greek-form Thai surfaces per the existing NT corpus baseline.
+- This rule does NOT apply to OT figures cited in NT *theological argument* without retrospective reference to specific OT narrative (e.g., generic "the prophets" in NT exhortation). It applies specifically when the NT author is pointing readers back to a specific OT story.
+- This rule does NOT apply to OT place-names in NT contexts that have acquired Greek-convention forms (e.g., `Σιών` → `ศิโยน` is the same whether OT or NT; no drift).
+
+### External AI verdicts (JDG audit Item C, 2026-05-20)
+
+- **ChatGPT:** MAJOR CONCERN — "this is the first serious OT/NT name-alignment problem, and it will confuse Thai readers comparing Heb 11:32 with Judges. The issue is not that either side is 'wrong'… but because Heb 11:32 explicitly points readers back to Judges, the cross-corpus surface should probably match."
+- **Gemini:** CONCERN — "leaving mismatched names between Heb 11:32 (Greek-faithful) and JDG (Hebrew-faithful) creates unnecessary friction for Thai readers attempting to cross-reference the NT faith hall of fame with the historical OT narratives. Normalizing the NT to match the OT Hebrew base for these historical figures strengthens cross-testamental unity."
+- **Recommended action (both):** spot-revise HEB 11:32 (`กิเดโอน` → `กิดเอน`; `เยฟธาห์` → `เยฟทาห์`); lock an OT-figure-in-NT-retrospective rule. Action taken in this PR.

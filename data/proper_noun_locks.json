@@ -1,8 +1,8 @@
 {
-  "version": "0.2",
-  "decided": "2026-05-18",
+  "version": "0.3",
+  "decided": "2026-05-20",
   "source_doc": "docs/translator_decisions/proper_names_and_transliteration_2026-05.md",
-  "trigger": "DEU end-of-book audit §Z — both reviewers flagged absence of automated proper-noun coverage as the prevention layer that allowed F1 Pisgah and F2 seven-nations drift to ship.",
+  "trigger": "DEU end-of-book audit §Z (v0.2 — seven-nations + trans-Jordan place-names). JDG end-of-book audit Item C (v0.3 — judges-figure cross-corpus rule: OT-Hebrew-faithful Thai surfaces required even in NT retrospectives).",
   "locks": [
     {
       "category": "seven_nations_cluster",
@@ -122,6 +122,71 @@
         "ปิสกาห์"
       ],
       "first_lock_verse": "DEU 3:17",
+      "exceptions": {}
+    },
+    {
+      "category": "judges_figure_cross_corpus",
+      "lemma_id": "gideon",
+      "hebrew_forms": [
+        "גִּדְעוֹן"
+      ],
+      "greek_forms": [
+        "Γεδεών"
+      ],
+      "thai_canonical": "กิดเอน",
+      "thai_rejected": [
+        "กิเดโอน"
+      ],
+      "first_lock_verse": "JDG 6:11",
+      "cross_corpus_anchor": "HEB 11:32",
+      "exceptions": {}
+    },
+    {
+      "category": "judges_figure_cross_corpus",
+      "lemma_id": "jephthah",
+      "hebrew_forms": [
+        "יִפְתָּח"
+      ],
+      "greek_forms": [
+        "Ἰεφθάε"
+      ],
+      "thai_canonical": "เยฟทาห์",
+      "thai_rejected": [
+        "เยฟธาห์",
+        "เยฟตาห์"
+      ],
+      "first_lock_verse": "JDG 11:1",
+      "cross_corpus_anchor": "HEB 11:32",
+      "exceptions": {}
+    },
+    {
+      "category": "judges_figure_cross_corpus",
+      "lemma_id": "barak",
+      "hebrew_forms": [
+        "בָּרָק"
+      ],
+      "greek_forms": [
+        "Βαράκ"
+      ],
+      "thai_canonical": "บาราค",
+      "thai_rejected": [],
+      "first_lock_verse": "JDG 4:6",
+      "cross_corpus_anchor": "HEB 11:32",
+      "exceptions": {}
+    },
+    {
+      "category": "judges_figure_cross_corpus",
+      "lemma_id": "samson",
+      "hebrew_forms": [
+        "שִׁמְשׁוֹן"
+      ],
+      "greek_forms": [
+        "Σαμψών"
+      ],
+      "thai_canonical": "แซมสัน",
+      "thai_rejected": [],
+      "first_lock_verse": "JDG 13:24",
+      "cross_corpus_anchor": "HEB 11:32",
       "exceptions": {}
     }
   ]
