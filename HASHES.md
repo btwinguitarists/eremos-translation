@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-05-20 00:19:52 UTC_
-_Total chapters: 511 · Total verses: 15452_
+_Generated: 2026-05-22 01:55:26 UTC_
+_Total chapters: 512 · Total verses: 15477_
 
 ## How to verify a chapter
 
@@ -55,7 +55,8 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/1samuel_08.json` | 22 | `2cacc4abe4ae9ae46dbf7376261b1c4f3ea5a1fd78c36ce1a0bed62a2a0e4ffb` | `1566c6d` |
 | `output/translations/1samuel_09.json` | 27 | `b417c624d5f4120584a283b8c362010daa20156b08e8cac824608256cd69cd79` | `64eead4` |
 | `output/translations/1samuel_10.json` | 27 | `d93dbe753539c1aa65d97a3695dee1cc1396d77a61510fca2f4458f8fa7ddf3f` | `9a01b03` |
-| `output/translations/1samuel_11.json` | 15 | `f84325071430928e073a8c79853aadd25babe4fba445cd674ea4df09425c995b` | `—` |
+| `output/translations/1samuel_11.json` | 15 | `f84325071430928e073a8c79853aadd25babe4fba445cd674ea4df09425c995b` | `bdb17f9` |
+| `output/translations/1samuel_12.json` | 25 | `4cf3af354070de37c185b1a55e30ae0a4dfe4f371480293e5dfabd579c32e8b3` | `—` |
 | `output/translations/1thessalonians_01.json` | 10 | `fdc756d6679cb22854a22c4d222c372bfcc5c37c81ce7855e059b8b2e389675e` | `19285bb` |
 | `output/translations/1thessalonians_02.json` | 20 | `1c39af3e0fd06a32906b8256dc93b5fdcc8e3038e39c1b2a388ea3ca11b593d2` | `6063f78` |
 | `output/translations/1thessalonians_03.json` | 13 | `d09d3e84833d019877b79139018fb0e5a8cb4fc87ea6b5d18580ba86614aaf99` | `de0f124` |
@@ -270,7 +271,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/hebrews_08.json` | 13 | `7af4362eb73c87e52a4ef99569347079ec51da2a505c038cf059f62b62ee2b09` | `6742d7c` |
 | `output/translations/hebrews_09.json` | 28 | `0d76d398b1ebade928ae58b4f07bb9fdd910fdb3396bd4570ddb63102e16c56d` | `1d237b0` |
 | `output/translations/hebrews_10.json` | 39 | `a082ba35191f83048971852f2fdbaf043b3a2281af3e4350e88d84ad684e907c` | `c5d0322` |
-| `output/translations/hebrews_11.json` | 40 | `b17bfdfa91b372bf0ad8ea968d1e3ad874c697a939734668eca179199418a5bd` | `c6d46d4` |
+| `output/translations/hebrews_11.json` | 40 | `a09b30942810c7734936b1d61668ebb7c896fce2d8f1b7c045bfdc11425ecfbf` | `51c9f1c` |
 | `output/translations/hebrews_12.json` | 29 | `ab3705d42e1a3a90996eae4d9a7a43feb175487ec04766f594eb18133c255a8a` | `e06d560` |
 | `output/translations/hebrews_13.json` | 25 | `cd1f0202551281b52dc8ea05f213503bbf3b080ea423451171a65492b1ff0ee4` | `9ec9a94` |
 | `output/translations/james_01.json` | 27 | `d493f72c16a0a05776625567731b705eb0fbc3399685fa95d5e45a888ea670c7` | `8e49de6` |
@@ -333,22 +334,22 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/judges_03.json` | 31 | `bb254323f59daf709fb488f12a1b3a411518ea317b81b377e732638de3d03280` | `ef769ce` |
 | `output/translations/judges_04.json` | 24 | `a0ee4db9d058dbf1abee9b20b928d19cef2e8adc18386a5792eb2503a0a7c10f` | `a488cff` |
 | `output/translations/judges_05.json` | 31 | `97c1b5b665b780a71849e63c18645124d6306a7737c9dd33722c22665a72aa5b` | `03f71f1` |
-| `output/translations/judges_06.json` | 40 | `f609e0aac788215e9a5ed1d08e4dd4f24f3e65e997260a3c2843b2f2c2f29467` | `c532522` |
+| `output/translations/judges_06.json` | 40 | `50816b321a3be04be544a50e52bd8e7ffb75764df83832a4f7c2185e9958a5bb` | `51c9f1c` |
 | `output/translations/judges_07.json` | 25 | `79d6fc6336eea63001360eaf1551165f8c26d7ac823398f608ba045da5dc81ad` | `93d6fc6` |
 | `output/translations/judges_08.json` | 35 | `a44db2b2252f4f0cda8cc60c08466b1685335f1f418a1b92524b4975275be773` | `63838d6` |
 | `output/translations/judges_09.json` | 57 | `2d620a7d237c7c665f97b1503288b8064dab89dc6f52717768657f5085ae127e` | `23fe7a6` |
 | `output/translations/judges_10.json` | 18 | `7cfe8825789ebc85e0a9f2910e7673e052624c4c1ef6eeae5feaa20b8f64b6ab` | `a7b3f72` |
 | `output/translations/judges_11.json` | 40 | `5407bb5d7d411cf5a08dd316b48cbd3856188c904f70e8381b050a3050389252` | `97f1def` |
 | `output/translations/judges_12.json` | 15 | `c7291ea3e3d890b34fc9410e21843e52417ffdb7ae4507f32152c9e42860d40f` | `8645c8c` |
-| `output/translations/judges_13.json` | 25 | `75e28570d866e76e7f9f2f23cf31add7bb11533538a886ace9cc1a4a25769ccb` | `6890b05` |
+| `output/translations/judges_13.json` | 25 | `baeb9ff61335f8a29d1c6d915e3407280dfbcae498c85bc6b560a91225009b5d` | `51c9f1c` |
 | `output/translations/judges_14.json` | 20 | `3401f211c2e850ec3864c8a38f64646c3e53561a526620f048dcaadebf7c599d` | `3009055` |
 | `output/translations/judges_15.json` | 20 | `b62f614302dd773418ea4b848b72a3d8b2d3fc729f8909f0e482253503a932f5` | `5688c75` |
-| `output/translations/judges_16.json` | 31 | `5bf2b4ea0c8f2e2def15c83fb31709c247357a5f0d7be6ee4cc7add513be543d` | `a5e8bf5` |
+| `output/translations/judges_16.json` | 31 | `681924eb9a2a6262f71bd0c50e72e114c66fceee61817984d9b6a039438e98ce` | `51c9f1c` |
 | `output/translations/judges_17.json` | 13 | `469b8ba3fa56cde8eb856876c124ae12e93d152d0a09e669763e0d1e17cee7b1` | `7913abe` |
 | `output/translations/judges_18.json` | 31 | `a1ee37808220e91441262b84c700bb331b6e0b489198849907577acf44e70645` | `4e71a68` |
-| `output/translations/judges_19.json` | 30 | `a3f2921f1ce1b1a67d0ecf45ee0390abe005a65fb2e571fac4f91fa0e6404953` | `5730eca` |
-| `output/translations/judges_20.json` | 48 | `82b7b3313c266e2316c7704b9ee786c26694471f0ade9b1dd43a80fd3e515a82` | `286af06` |
-| `output/translations/judges_21.json` | 25 | `f5797f8cba8f486c8355e87e24d095c1c7b209fd9d90aaff4ca1432e9a0cde26` | `7844b37` |
+| `output/translations/judges_19.json` | 30 | `206909015c8fb92a5002b434ef8e6c5640d859eee8e012f5f1dcd202608b012a` | `51c9f1c` |
+| `output/translations/judges_20.json` | 48 | `95a29ea76d6b75e5ab1c942ece315bc125eebb1980745b031c1c6d19dbc042c2` | `51c9f1c` |
+| `output/translations/judges_21.json` | 25 | `6bf24acbe7b9e93aa4423160c7888eeba24083f29bddfac0040b61cfec143f5e` | `51c9f1c` |
 | `output/translations/leviticus_01.json` | 17 | `4dc3d8acb54097fd1f8e3249ea68ba1290693a4e25c0e3ff7e73636bae2902cb` | `ae02fa1` |
 | `output/translations/leviticus_02.json` | 16 | `b612a857d7531c5da10f5e53977628f4adc41fb57007912169dda91901e22925` | `26ddaa1` |
 | `output/translations/leviticus_03.json` | 17 | `b3bf9e73771469c8f6f4dad4cf2864924400f14bf5d92ae1057527a3591fa912` | `1271eaf` |
