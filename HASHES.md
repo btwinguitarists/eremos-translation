@@ -3,7 +3,7 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-05-22 20:55:39 UTC_
+_Generated: 2026-05-22 23:29:19 UTC_
 _Total chapters: 541 · Total verses: 16252_
 
 ## How to verify a chapter
@@ -49,21 +49,21 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/1samuel_02.json` | 36 | `67fda0ad165155f15a89e8669ebe1b66844a804cbfa4ebd87b5fb6ecf4b0adf2` | `aed00d4` |
 | `output/translations/1samuel_03.json` | 21 | `e0832424bb035295ae8a026e94c80fcb8aff79efdfd73d586513a066150d0197` | `98a8df3` |
 | `output/translations/1samuel_04.json` | 22 | `ebf07811cfb704fd9e919521da456eef88ef56add26d61dc719df701afc7271b` | `c3d6236` |
-| `output/translations/1samuel_05.json` | 12 | `5f771086ad4e429dc12b9ed7e53a12a8348b5ee1191d1444f4ba95c04373a1aa` | `f01546b` |
+| `output/translations/1samuel_05.json` | 12 | `186fe4cba4ca690fc2e17628d8fbb37f0adae73ab2e5eb9351c2000a65a0ce3f` | `f01546b` |
 | `output/translations/1samuel_06.json` | 21 | `041152f588c936aab2b4af5d91a53bcb3662eb628e7e1f39505742e56255105b` | `0200bd7` |
-| `output/translations/1samuel_07.json` | 17 | `d25939ee10e21dd2ef97118c3d31c42ddfedae09c3633e97b5a2376b12eb984e` | `e8dddd6` |
+| `output/translations/1samuel_07.json` | 17 | `f5a437cb5a5ab9a771ad5cc24f2c0b324d38868ea6e0380524263997a9e5d4a3` | `e8dddd6` |
 | `output/translations/1samuel_08.json` | 22 | `2cacc4abe4ae9ae46dbf7376261b1c4f3ea5a1fd78c36ce1a0bed62a2a0e4ffb` | `1566c6d` |
 | `output/translations/1samuel_09.json` | 27 | `b417c624d5f4120584a283b8c362010daa20156b08e8cac824608256cd69cd79` | `64eead4` |
-| `output/translations/1samuel_10.json` | 27 | `d93dbe753539c1aa65d97a3695dee1cc1396d77a61510fca2f4458f8fa7ddf3f` | `9a01b03` |
-| `output/translations/1samuel_11.json` | 15 | `f84325071430928e073a8c79853aadd25babe4fba445cd674ea4df09425c995b` | `bdb17f9` |
-| `output/translations/1samuel_12.json` | 25 | `b94fc57a68db60064e0de66f0d4e3bf0058210c264b15f51bee42ee0244c9217` | `35b798d` |
+| `output/translations/1samuel_10.json` | 27 | `97782cccbe444d5b0e46239ff5aaebf773110031c9dace87e613378e19d8e016` | `9a01b03` |
+| `output/translations/1samuel_11.json` | 15 | `a2f32cc8814b1fbe815285b2b85eabf5cea3806dad76afd1f1e4d787d884fab3` | `bdb17f9` |
+| `output/translations/1samuel_12.json` | 25 | `b55e60e193552423dbec2e0a3a3f7cecd660c7f60c08ad93766baacec8b7cc50` | `35b798d` |
 | `output/translations/1samuel_13.json` | 23 | `fc8d77afa1781f7713b38e40eaea10602d30588fdca3cf409edcc095ac7c8d3f` | `868d762` |
 | `output/translations/1samuel_14.json` | 52 | `b9dbae3019f69a13345a135198f3fdae85297c86aeb62aac6dd7ca638a65d0f2` | `4e0f6d0` |
 | `output/translations/1samuel_15.json` | 35 | `492bae87fa7b105267e67091e7d62646ffcbf6f52af4d28f21a6a4e3252b6329` | `84e451d` |
-| `output/translations/1samuel_16.json` | 23 | `f00658defcc3cc071400939ea4050a25f6fd484e57ae792b5739a09610964640` | `8647b84` |
+| `output/translations/1samuel_16.json` | 23 | `810d8f754f23a99a2829402e3cc6aced5f63eda0c3e45736568398e8ddd9800b` | `8647b84` |
 | `output/translations/1samuel_17.json` | 58 | `ed5ced44374173dc822d6a289ab815a13212aa1accec954c8c47edf4a72f914a` | `07ee9dd` |
 | `output/translations/1samuel_18.json` | 30 | `8b902d137e72f53b0e3fd5092327548900ee73825125c3d2e8e79969f6a965d9` | `a489ece` |
-| `output/translations/1samuel_19.json` | 24 | `7abc5856fbaef93ff0a1db42d5766308e01cf97bb3b499ecc6ae3c99d1ac0a7e` | `cb49e88` |
+| `output/translations/1samuel_19.json` | 24 | `828d858f335551559f5abec3bd862ac925562b824bc360fe05246551687209d9` | `cb49e88` |
 | `output/translations/1samuel_20.json` | 42 | `be6d60a315d09df66f5aeb379650983ac6f1524b9bc55d5dd5c9167d9adab458` | `a87d132` |
 | `output/translations/1samuel_21.json` | 16 | `8571e471ccddb9b1f963dccd46f44bfc32e54b35c34d2f15ad9711a303532c09` | `6ec32b7` |
 | `output/translations/1samuel_22.json` | 23 | `639e6fe5bd758d22767a8f2e25aeb319467be0e839add9386436020fccae2168` | `1a4352e` |
@@ -72,10 +72,10 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/1samuel_25.json` | 44 | `83c062c8debaa291b1970b1a3852a8752465fd79f7d822fcb0deee8c39deb5af` | `a1ba6bb` |
 | `output/translations/1samuel_26.json` | 25 | `85f5e79ec578f0abbfd78a928e6ce779f1cb11a9b7c2e6792bbac1e0f270526d` | `9ba9eeb` |
 | `output/translations/1samuel_27.json` | 12 | `a0de0490d6aed915a747bec0ff0daffe892d215e540754a7f9b0f67b88b33d54` | `b1686d2` |
-| `output/translations/1samuel_28.json` | 25 | `e0fbb219914c3fab0161979ff1b6677128c024f84250ddec4147c4ce35a8f915` | `c3f7699` |
+| `output/translations/1samuel_28.json` | 25 | `d828484b55248913d860f7f5ff797ffdd303b81b3b4fa9f377ca734aae24ab4b` | `c3f7699` |
 | `output/translations/1samuel_29.json` | 11 | `07505a288185c36050f921ea73770857794ba372c01d6e7ba373e7b17e7c6833` | `6880953` |
 | `output/translations/1samuel_30.json` | 31 | `7ba9e60ed3163a256047cd4c1e7116854933452dea01606a20b5b40b9272aebf` | `ccacf7b` |
-| `output/translations/1samuel_31.json` | 13 | `c8654016d5984df7e807451ee576d5fab5d75fec786cad97ce98a4f53b2cbf62` | `bd8dd88` |
+| `output/translations/1samuel_31.json` | 13 | `f7ce422efce8af1230cbbe43af18890280a38dd30d57b61aa03d95a5b0fb88db` | `bd8dd88` |
 | `output/translations/1thessalonians_01.json` | 10 | `fdc756d6679cb22854a22c4d222c372bfcc5c37c81ce7855e059b8b2e389675e` | `19285bb` |
 | `output/translations/1thessalonians_02.json` | 20 | `1c39af3e0fd06a32906b8256dc93b5fdcc8e3038e39c1b2a388ea3ca11b593d2` | `6063f78` |
 | `output/translations/1thessalonians_03.json` | 13 | `d09d3e84833d019877b79139018fb0e5a8cb4fc87ea6b5d18580ba86614aaf99` | `de0f124` |
@@ -113,7 +113,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/2samuel_07.json` | 29 | `dbd7ed52ab3373a042af5f0f2b28d4d0d16235248d5bc53c49eaee667c34fecd` | `2b937c8` |
 | `output/translations/2samuel_08.json` | 18 | `1d12aa3aaa7cf9dadd665403be34c9bcee5f62257283aca9e07000305bd8a5da` | `9214f77` |
 | `output/translations/2samuel_09.json` | 13 | `788157cee7032f1deb05eda4a251f086a9621f69b50afc7ba62affefde9393dd` | `9598829` |
-| `output/translations/2samuel_10.json` | 19 | `9d7b1f91dc313e48c4cf473fd07581aa6239ad2358d93363cf0df658e3c201ff` | `—` |
+| `output/translations/2samuel_10.json` | 19 | `9d7b1f91dc313e48c4cf473fd07581aa6239ad2358d93363cf0df658e3c201ff` | `761532e` |
 | `output/translations/2thessalonians_01.json` | 12 | `b71a33acccab25376e35421cea474fc17a09765405522424f14f9e1336419ca8` | `edc3aef` |
 | `output/translations/2thessalonians_02.json` | 17 | `fa640c48d76fd7ffa006c4addfdf2d1ce8803eb8052b962c924e979705ca4ce5` | `cf6bd38` |
 | `output/translations/2thessalonians_03.json` | 18 | `93383ef8a258d9ca44a236f8ecb545155a9a638f4be659a176067d9100be4bde` | `dcdcb5d` |
