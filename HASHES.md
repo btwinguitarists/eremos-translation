@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-05-22 15:27:08 UTC_
-_Total chapters: 531 · Total verses: 16015_
+_Generated: 2026-05-22 16:02:24 UTC_
+_Total chapters: 532 · Total verses: 16042_
 
 ## How to verify a chapter
 
@@ -75,7 +75,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/1samuel_28.json` | 25 | `e0fbb219914c3fab0161979ff1b6677128c024f84250ddec4147c4ce35a8f915` | `c3f7699` |
 | `output/translations/1samuel_29.json` | 11 | `07505a288185c36050f921ea73770857794ba372c01d6e7ba373e7b17e7c6833` | `6880953` |
 | `output/translations/1samuel_30.json` | 31 | `7ba9e60ed3163a256047cd4c1e7116854933452dea01606a20b5b40b9272aebf` | `ccacf7b` |
-| `output/translations/1samuel_31.json` | 13 | `c8654016d5984df7e807451ee576d5fab5d75fec786cad97ce98a4f53b2cbf62` | `—` |
+| `output/translations/1samuel_31.json` | 13 | `c8654016d5984df7e807451ee576d5fab5d75fec786cad97ce98a4f53b2cbf62` | `bd8dd88` |
 | `output/translations/1thessalonians_01.json` | 10 | `fdc756d6679cb22854a22c4d222c372bfcc5c37c81ce7855e059b8b2e389675e` | `19285bb` |
 | `output/translations/1thessalonians_02.json` | 20 | `1c39af3e0fd06a32906b8256dc93b5fdcc8e3038e39c1b2a388ea3ca11b593d2` | `6063f78` |
 | `output/translations/1thessalonians_03.json` | 13 | `d09d3e84833d019877b79139018fb0e5a8cb4fc87ea6b5d18580ba86614aaf99` | `de0f124` |
@@ -104,6 +104,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/2peter_01.json` | 21 | `78e10ed4690d414cd428bb32e3b12df13787f6bdce74e54828bc9c7a2682c0f7` | `403c20c` |
 | `output/translations/2peter_02.json` | 22 | `27ed1281bc79606e9035201a0c14f9a93f4f353b667347447480882cb82d62bf` | `be3c897` |
 | `output/translations/2peter_03.json` | 18 | `6946b13ac0f25be1fc935e45b9f2d64f36344f07a34c34ae88f1ee4aecb9a8d3` | `34921bf` |
+| `output/translations/2samuel_01.json` | 27 | `4436b111030cd7993518d67c7195faed984bbc10d386b8df2db72ba84ef97479` | `—` |
 | `output/translations/2thessalonians_01.json` | 12 | `b71a33acccab25376e35421cea474fc17a09765405522424f14f9e1336419ca8` | `edc3aef` |
 | `output/translations/2thessalonians_02.json` | 17 | `fa640c48d76fd7ffa006c4addfdf2d1ce8803eb8052b962c924e979705ca4ce5` | `cf6bd38` |
 | `output/translations/2thessalonians_03.json` | 18 | `93383ef8a258d9ca44a236f8ecb545155a9a638f4be659a176067d9100be4bde` | `dcdcb5d` |
