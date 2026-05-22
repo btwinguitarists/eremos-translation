@@ -69,6 +69,8 @@ BOOK_SLUGS = {
     "NUM": "numbers",
     "DEU": "deuteronomy",
     "JOS": "joshua",
+    "JDG": "judges",
+    "1SA": "1samuel",
 }
 
 TODO_TH = "__TODO_TH__"
