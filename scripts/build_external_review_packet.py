@@ -80,6 +80,7 @@ BOOKS = {
     "JDG": ("judges", "Judges"),
     "1SA": ("1samuel", "1 Samuel"),
     "2SA": ("2samuel", "2 Samuel"),
+    "1KI": ("1kings", "1 Kings"),
 }
 
 # OT book codes — the prompt branches on testament so OT packets reference
