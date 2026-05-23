@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-05-23 20:24:35 UTC_
-_Total chapters: 572 · Total verses: 17334_
+_Generated: 2026-05-23 20:41:37 UTC_
+_Total chapters: 573 · Total verses: 17380_
 
 ## How to verify a chapter
 
@@ -56,7 +56,8 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/1kings_14.json` | 31 | `47e706385eda3376673b2a014feaffde2739d8ebbd528147f45537e2b3c2b378` | `2a75f60` |
 | `output/translations/1kings_15.json` | 34 | `5249ab928fc5f8087442c1223f25be3f653d7182a6f4196fccccae23d8a2bc13` | `ba08717` |
 | `output/translations/1kings_16.json` | 34 | `695e3577442579032ad225a1c1eb7c633b8b127df751029af9beadf3c204d582` | `d375d4b` |
-| `output/translations/1kings_17.json` | 24 | `73106beb04958d9484dfd4a33428a7a6d83ca3a7b398b22882d90dec9b66386d` | `—` |
+| `output/translations/1kings_17.json` | 24 | `73106beb04958d9484dfd4a33428a7a6d83ca3a7b398b22882d90dec9b66386d` | `c674fa8` |
+| `output/translations/1kings_18.json` | 46 | `62e9f87b49a0af5f542774274db787ce58fef0147600ca6d2b367c99f39b4674` | `—` |
 | `output/translations/1peter_01.json` | 25 | `7e44403865c493ca0641a403ffc4e757b579b6fccf56b551397ab1e6905ae640` | `5f55fea` |
 | `output/translations/1peter_02.json` | 25 | `120f3302493eb9bd2845bd586e6270174705f761d2bb26bdeb7f465ddeb0259e` | `b812394` |
 | `output/translations/1peter_03.json` | 22 | `ab8923ac1f2bce4711ab6aab171275521419001881bbd55a736f444fdc007516` | `256bbe7` |
