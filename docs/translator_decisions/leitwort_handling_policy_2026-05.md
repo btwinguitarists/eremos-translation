@@ -190,7 +190,34 @@ Eremos uses **เงิน** ("silver/money") consistently — readers can recog
 
 ---
 
+## 7.5 עַד הַיּוֹם הַזֶּה — "to/until this day" (Former Prophets etiological formula)
+
+**Lock (2026-05-23):** the etiological formula `עַד הַיּוֹם הַזֶּה` ("until this day") is rendered as **`จนถึงวันนี้`** corpus-wide.
+
+**Do NOT use:** `จนถึงทุกวันนี้` — the Hebrew says "until this day," not "until every day." Adding `ทุก-` over-expands the Hebrew and risks making the formula sound more idiomatic-modern than deliberately formulaic.
+
+**Triggered by:** 2 SA audit Item D + 2-way external AI review (ChatGPT + Gemini convergent CONCERN verdict). 1 Samuel and 2 Samuel both consistently use the bare form (`จนถึงวันนี้`); Judges drifted to `จนถึงทุกวันนี้` in some places. The bare form is now the stronger corpus default + closer to the Hebrew.
+
+**Rule applied:** Rule 1 (lemma-recurrence — the formula is a fixed etiological marker across the Former Prophets, not a context-dependent idiom).
+
+**Forward protection:**
+
+- **1 Kings / 2 Kings** — apply `จนถึงวันนี้` from the start.
+- **Isaiah / Jeremiah / Ezekiel** — apply the same when `עַד הַיּוֹם הַזֶּה` appears.
+- **Chronicles** — apply the same.
+
+**Back-propagation needed:**
+
+- **Judges** — the occurrences of `จนถึงทุกวันนี้` in Judges need to be normalized to `จนถึงวันนี้` in a follow-up Judges back-propagation pass (tracked as a separate ticket; not blocking for 2 SA tag).
+
+**Verses to back-propagate (Judges):** the specific Judges verses with `עַד הַיּוֹם הַזֶּה` rendered as `จนถึงทุกวันนี้` need to be enumerated by grep at the time of back-propagation. The fix is mechanical (find/replace `จนถึงทุกวันนี้` → `จนถึงวันนี้` in `output/translations/judges_*.json`, verified verse-by-verse against the Hebrew). No translation-surface meaning change.
+
+**Rationale:** the formula's etiological force comes from the phrase and narrative context, not from adding `ทุก-`. Thai readers experience `จนถึงวันนี้` as concise, natural, and faithful to the Hebrew. Normalizing downward (toward the more frequent + more faithful form) preserves the project's optimal-equivalence standard.
+
+---
+
 ## 8. Change log
 
+- **v0.3** (2026-05-23) — §7.5 `עַד הַיּוֹם הַזֶּה` → `จนถึงวันนี้` lock added per 2 SA audit Item D + ChatGPT/Gemini convergent verdict. Back-propagation to Judges deferred to follow-up ticket.
 - **v0.2** (2026-05-12) — Genesis locking-precedents sub-section added per Genesis end-of-book audit §K (Beersheba dual-wordplay, Joseph down/up trajectory, ezer help-family, silver-recursion).
 - **v0.1** (2026-05-09) — Initial policy, triggered by Jonah end-of-book audit cross-AI review (ChatGPT §Z meta-observation). Establishes the lemma-consistency vs discourse-function decision hierarchy as a four-rule framework.
