@@ -219,3 +219,37 @@ This doc covers **the divine name table only**. The following are separate:
 **Boundary with the 4-way Adonai sub-rule (2026-05-18):** the 4-way distinction governs the *form-to-Thai mapping* once the speaker's recognition-stage is known. The recognition-arc principle (this sub-rule) governs *which stage the speaker is in* when the Hebrew uses formally ambiguous אֲדֹנִי. The two rules compose: first determine recognition-stage from the narrative arc (this sub-rule), then apply the 4-way mapping (2026-05-18 sub-rule) within that stage.
 
 **No retroactive verse edits required from JDG audit Item B beyond the 3 already applied (JDG 6:22, 13:8, 16:28).** JDG 6:15 was already shipped with the correct pre-recognition Thai (`ข้าแต่ท่านนายของข้าพเจ้า`); this sub-rule documents the principle it embodies so future theophany / angelophany scenes inherit the pattern.
+
+---
+
+## Sub-rule (2026-05-23): Adonai-YHWH compound vocative — sentence position determines particle
+
+**Triggered by:** 2 SA audit Item B + 2-way external AI review (ChatGPT + Gemini, convergent FINE verdict on 2 Sam 7:18–29 — confirming the bare `องค์พระผู้เป็นเจ้า` is correct in mid-sentence appositional prayer-address). The 2026-05-18 4-way Adonai sub-rule did not explicitly distinguish *sentence-initial interjection* compound vocatives from *mid-sentence appositional* compound vocatives. 2 Sam 7's "David's covenant prayer" is the cleanest mid-sentence anchor in the OT for the appositional form (אֲדֹנָי יְהוִה repeated 7 times in vv.18–29, all mid-sentence, none after `אֲהָהּ`/`בִּי`/`אָנָּא`).
+
+**The position-determines-particle distinction:**
+
+| Compound vocative environment | Hebrew shape | Thai surface | Anchor |
+|---|---|---|---|
+| **Sentence-initial interjection / plea** | `אֲהָהּ אֲדֹנָי יְהוִה` / `בִּי אֲדֹנָי יְהוִה` / `אָנָּא אֲדֹנָי יְהוִה` | **`ข้าแต่องค์พระผู้เป็นเจ้า`** | JOS 7:7 (Joshua's lament after Ai) |
+| **Mid-sentence appositional prayer address** | `אֲדֹנָי יְהוִה` (without preceding interjection particle) | **`องค์พระผู้เป็นเจ้า`** (bare) | **2 SA 7:18–29** (David's covenant prayer) |
+
+**Rationale:** Thai `ข้าแต่` is a sentence-initial deferential vocative particle. Forcing it into mid-sentence appositional environments produces unnatural Thai repetition — and over-formalizes the prayer in places where Hebrew itself uses the bare compound without an interjection particle. 2 SA 7:18–29 demonstrates this clearly: David alternates between sustained address ("you, O Lord GOD" — appositional) and direct statement ("therefore you are great, O Lord GOD" — also appositional), and across 7 occurrences in 12 verses, none use the interjection-particle preface. Treating all of them as `ข้าแต่` would corrupt the natural flow of the Thai prayer and obscure the deliberate Hebrew distinction between formal plea (interjection-particle + vocative) and sustained covenant address (bare vocative).
+
+**Composition with prior Adonai sub-rules:**
+
+- **2026-05-15 sub-rule** (possessive standalone Adonai in prayer → `องค์พระผู้เป็นเจ้าของข้าพระองค์`): governs **possessive/genitive** position of standalone אֲדֹנָי.
+- **2026-05-18 sub-rule** (4-way distinction): governs the form-to-Thai mapping for standalone אֲדֹנָי vocatives and the compound אֲדֹנָי יְהוִה default (`ข้าแต่องค์พระผู้เป็นเจ้า`).
+- **2026-05-20 sub-rule** (recognition-arc): governs *which stage* the speaker is in for formally ambiguous אֲדֹנִי addresses.
+- **2026-05-23 sub-rule** (this rule): refines the 2026-05-18 default — `ข้าแต่` applies to **sentence-initial interjection** compounds; bare `องค์พระผู้เป็นเจ้า` applies to **mid-sentence appositional** compounds.
+
+The 4 sub-rules compose without overlap: position (this rule) → recognition-stage (2026-05-20) → form-to-Thai (2026-05-18) → possessive special-case (2026-05-15).
+
+**Forward protection:**
+
+1. **Psalms 71:5; 109:21; 140:7** — `כִּי־אַתָּה תִקְוָתִי אֲדֹנָי יְהוִה` and similar appositional address constructions: apply bare `องค์พระผู้เป็นเจ้า`.
+
+2. **Isaiah 25:8; 28:16; 30:15; 40:10; 48:16; 49:22; 50:4–9; 52:4; 56:8; 61:1, 11; 65:13, 15** — Isaiah is the OT book with the highest density of compound אֲדֹנָי יְהוִה (~30 occurrences). Most are **mid-sentence appositional** (e.g., `כֹּה אָמַר אֲדֹנָי יְהוִה` — "thus says the Lord GOD"). Apply bare `องค์พระผู้เป็นเจ้า` for these prophetic-formula appositions; reserve `ข้าแต่องค์พระผู้เป็นเจ้า` for sentence-initial interjection prayer-vocatives (e.g., Jer 1:6; 4:10; 14:13; 32:17, 25; Ezek 4:14; 9:8; 11:13; 20:49 — Jeremiah and Ezekiel both have `אֲהָהּ אֲדֹנָי יְהוִה` as a prophet's lament-interjection).
+
+3. **Amos 1:8; 3:7–8, 11, 13; 4:2, 5; etc.** — heavy use of `אֲדֹנָי יְהוִה צְבָאוֹת` ("Lord GOD of hosts") in prophetic formulas: apply `องค์พระผู้เป็นเจ้าจอมโยธา` (mid-sentence appositional).
+
+**No retroactive verse edits required for 2 SA 7:18–29** — already shipped with the correct bare `องค์พระผู้เป็นเจ้า` for each compound occurrence. This sub-rule documents the principle that 2 SA 7 embodies so future Psalms / Isaiah / Jeremiah / Ezekiel / Amos compound-vocative scenes inherit the pattern.

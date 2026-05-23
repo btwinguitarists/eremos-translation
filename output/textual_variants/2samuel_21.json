@@ -1,5 +1,11 @@
 [
   {
+    "verse": 19,
+    "type": "synoptic_variant_samuel_chronicles",
+    "tier_status": "Layer 2 (reader-facing synoptic variant footer) — synoptic_parallel_passages_2026-05",
+    "explanation_thai": "**ข้อ 19 — 'เอลฮานันฆ่าโกลิอัทชาวกัท' (Samuel↔Chronicles ที่มีชื่อเสียง)**: ต้นฉบับฮีบรู (MT) ของ 2 ซมอ 21:19 อ่านว่าเอลฮานันบุตรของยาอาเร-โอเรกิมชาวเบธเลเฮม 'ฆ่าโกลิอัทชาวกัท.' การอ่านนี้ดูเหมือนจะขัดแย้งกับ 1 ซมอ 17 ที่ดาวิดฆ่าโกลิอัท. **1 พศด 20:5 อ่านว่า** 'เอลฮานันบุตรของยาอีร์ ฆ่าลาห์มี **น้องของ**โกลิอัทชาวกัท' — ซึ่งสอดคล้องกับ 1 ซมอ 17. นักวิชาการส่วนใหญ่เห็นว่า MT ของ 2 ซมอ มีข้อผิดของผู้คัดลอก (สะกดสั้น — 'เอท ลาห์มี อาคี โกลิอัท' กลายเป็น 'เอท โกลิอัท' + 'oregim' ที่ปรากฏซ้ำจากบรรทัดถัดไป 'คานของช่างทอ' [menor oregim]). **ฉบับเอเรโมสรักษาการอ่านของ MT** ('เอลฮานันฆ่าโกลิอัท') ตามนโยบาย MT-anchored + เผยให้ผู้อ่านเห็น variant. **ฉบับภาษาอังกฤษอื่น**: BSB, ESV, NIV เพิ่ม 'น้องของ' ตาม 1 พศด เพื่อแก้ความขัดแย้ง. **ผู้อ่านที่ต้องการความสอดคล้อง** สามารถใช้การอ่านของ 1 พศด — ทั้งสองเป็นพระวจนะของพระเจ้า. ดูรายละเอียดที่ docs/translator_decisions/synoptic_parallel_passages_2026-05.md."
+  },
+  {
     "verse": 1,
     "type": "tetragrammaton_convention_first_occurrence",
     "tier_status": "Layer 2 (per-chapter first-occurrence footnote) — divine_names_table_2026-05",
