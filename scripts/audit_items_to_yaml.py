@@ -71,6 +71,7 @@ BOOK_SLUGS = {
     "JOS": "joshua",
     "JDG": "judges",
     "1SA": "1samuel",
+    "2SA": "2samuel",
 }
 
 TODO_TH = "__TODO_TH__"
