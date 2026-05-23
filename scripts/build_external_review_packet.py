@@ -79,6 +79,7 @@ BOOKS = {
     "JOS": ("joshua", "Joshua"),
     "JDG": ("judges", "Judges"),
     "1SA": ("1samuel", "1 Samuel"),
+    "2SA": ("2samuel", "2 Samuel"),
 }
 
 # OT book codes — the prompt branches on testament so OT packets reference
