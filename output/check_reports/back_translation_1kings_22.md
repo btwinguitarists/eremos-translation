@@ -1,0 +1,13 @@
+# Back-translation check — 1kings ch. 22
+
+Mode: in-chat (Claude-produced back-translations) | Threshold: 0.35
+
+- Verses checked: 54
+- Missing back-translations: **0**
+- Flagged (low similarity AND no rationale): **0**
+- Low similarity but with rationale: 0
+- Acceptable similarity: 54
+
+## Acceptable
+
+54 verses passed the similarity threshold without issue.
