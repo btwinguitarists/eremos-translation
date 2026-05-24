@@ -63,8 +63,13 @@ Normalized in commit landing this doc.
 ## 3. Implementation checklist
 
 - [x] Exodus 3:2, 14:19, 32:34 normalized to ทูตสวรรค์ form (verified 2026-05-13).
-- [ ] Add a lemma-binding check entry (extension of `check_phrase_consistency.py`): when the Hebrew of an OT verse contains the lemma מלאך in a divine-messenger context, the Thai must contain ทูตสวรรค์.
+- [~] **Lemma-binding check added (Kings-scoped) 2026-05-24** — `check_phrase_consistency.py` now carries a `malak` lock (`hebrew_patterns` `מלאך\s*יהוה` / `מלאך\s*ה?אלהים` → expected `ทูตสวรรค์`), currently `"books": ["1KI ", "2KI "]`. Widen the scope corpus-wide during the full-OT scan (see deferred backlog below).
 - [ ] Forward-cover: Gen 16, 22 (Hagar + Abraham theophanies); Num 22 (Balaam's donkey); Judg 6 (Gideon), 13 (Samson's parents); 2 Sam 24 (David); **1 Kings 19 (Elijah at Horeb) — ✓ done 2026-05-24** (19:5 `ทูตสวรรค์`, 19:7 `ทูตสวรรค์ขององค์พระผู้เป็นเจ้า`, 13:18 comply; 19:7 was the EOB-audit drift fix); 2 Kings 1 (Elijah + Ahaziah's messengers — **next: enforce at 1:3,15 before ship**); Zech 1-6 (the angel-of-YHWH cycle); Mal — the book whose Hebrew title IS מַלְאָכִי.
+- [ ] **⚠️ DEFERRED to a future full-OT scan — cross-book malak retrofit (Ben's decision 2026-05-24; do NOT forget):** older books were shipped before this lock and still render the divine messenger as bare `ทูต`. A 2026-05-24 corpus-wide run of the new `malak` lock (before it was scoped to Kings) flagged:
+  - **Clear theophanies → retrofit to `ทูตสวรรค์`:** Genesis 16:7, 16:9, 16:10, 16:11, 21:17, 31:11.
+  - **"like an angel of God" similes → review (may legitimately keep a plainer form):** 1 Samuel 29:9; 2 Samuel 14:17, 14:20, 19:28.
+  - **Also re-check** the forward-cover list above (Gen 22, Num 22, Judg 6/13, 2 Sam 24) — the Kings-scoped run did not cover them.
+  - **Method:** temporarily remove `"books"` from the `malak` lock in `check_phrase_consistency.py`, run it to regenerate the full flagged list, retrofit each, then widen the lock's permanent scope. **Not a 1 Kings tag blocker.**
 - [ ] Layer-2 footnote template for Christophanic candidates (Exod 3:2, Gen 16/22, Judg 6/13): a short survey of the theophanic reading, anchored to the verse's narrative ambiguity without re-categorizing the Thai surface.
 
 ---
