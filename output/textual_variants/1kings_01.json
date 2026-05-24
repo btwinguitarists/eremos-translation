@@ -1,5 +1,11 @@
 [
   {
+    "verse": 1,
+    "type": "macro_structural_mt_lxx_divergence_book_note",
+    "tier_status": "Book-level prefatory note (macro-structural MT/LXX) — docs/translator_decisions/mt_vs_lxx_textual_variant_handling_2026-05.md §2.2",
+    "explanation_thai": "**หมายเหตุเรื่องตัวบท (MT/LXX) — ทั้งเล่ม 1 พงศ์กษัตริย์:** ฉบับเอเรโมสแปลจากต้นฉบับภาษาฮีบรู (MT) เป็นหลัก. ฉบับกรีก (เซปทัวจินต์ / 3 Reigns) มีโครงสร้างต่างจาก MT อย่างมีนัยสำคัญ ได้แก่ (1) การจัดลำดับเรื่องรัชสมัยซาโลมอนใหม่, (2) ส่วนเพิ่ม 'Miscellanies' สองตอน (3 รก. 2:35ก–ฯ และ 2:46ก–ฯ), (3) เรื่องเล่าทางเลือกเกี่ยวกับเยโรโบอัม (12:24ก–ฮ), และ (4) การสลับลำดับบทที่ 20 กับ 21. ฉบับเอเรโมสยึดลำดับและตัวบทตาม MT ตลอดทั้งเล่ม; ความแตกต่างเชิงโครงสร้างเหล่านี้บันทึกไว้เพื่อความโปร่งใส มิได้กระทบเนื้อหาที่แปล."
+  },
+  {
     "verse": 17,
     "type": "tetragrammaton_convention_first_occurrence",
     "tier_status": "Layer 2 (per-chapter first-occurrence footnote) — divine_names_table_2026-05",
