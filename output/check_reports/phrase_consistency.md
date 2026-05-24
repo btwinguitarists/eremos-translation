@@ -9,8 +9,8 @@
 ## הָרַע בְּעֵינֵי יְהוָה (did evil in the eyes of YHWH)
 **Doc:** `dtr_history_cycle_formulas_2026-05.md`  
 **Expected Thai contains:** `ชั่วร้าย`  
-**Total matching verses:** 20  
-**OK:** 20 · **Excepted:** 0 · **Violations:** 0
+**Total matching verses:** 22  
+**OK:** 22 · **Excepted:** 0 · **Violations:** 0
 
 ## הַיָּשָׁר בְּעֵינֵי יְהוָה (did right in the eyes of YHWH)
 **Doc:** `dtr_history_cycle_formulas_2026-05.md`  
