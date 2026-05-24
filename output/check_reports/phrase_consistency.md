@@ -3,8 +3,8 @@
 ## מַלְאַךְ יְהוָה / מַלְאַךְ הָאֱלֹהִים (angel of the LORD/God)
 **Doc:** `malak_yhwh_2026-05.md`  
 **Expected Thai contains:** `ทูตสวรรค์`  
-**Total matching verses:** 1  
-**OK:** 1 · **Excepted:** 0 · **Violations:** 0
+**Total matching verses:** 3  
+**OK:** 3 · **Excepted:** 0 · **Violations:** 0
 
 ## הָרַע בְּעֵינֵי יְהוָה (did evil in the eyes of YHWH)
 **Doc:** `dtr_history_cycle_formulas_2026-05.md`  

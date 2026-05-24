@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-05-24 08:45:00 UTC_
-_Total chapters: 577 · Total verses: 17527_
+_Generated: 2026-05-24 13:13:55 UTC_
+_Total chapters: 578 · Total verses: 17545_
 
 ## How to verify a chapter
 
@@ -60,7 +60,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/1kings_18.json` | 46 | `62e9f87b49a0af5f542774274db787ce58fef0147600ca6d2b367c99f39b4674` | `82a52e3` |
 | `output/translations/1kings_19.json` | 21 | `a4124a7ce7558bec999b3c8c77ef63ff6f9b4b5d3227ef2a60a925d99004d154` | `64c7d97` |
 | `output/translations/1kings_20.json` | 43 | `98a0b02541a6a029a9a6d633342f3dbe56d955f41e9ee2486f3611d6f42cbc3b` | `f9b61a3` |
-| `output/translations/1kings_21.json` | 29 | `6163bb7fef03b1de6dc6ea91a3ab8aa519e5edb911c0f9f5a165fb4ff2e4503a` | `a4ce7e5` |
+| `output/translations/1kings_21.json` | 29 | `6163bb7fef03b1de6dc6ea91a3ab8aa519e5edb911c0f9f5a165fb4ff2e4503a` | `b93c6ae` |
 | `output/translations/1kings_22.json` | 54 | `a54fc423d91b44cdd7dc513658bc9c0edf5111c7d3aadbdf61ca73b940b67afa` | `50c2a3e` |
 | `output/translations/1peter_01.json` | 25 | `7e44403865c493ca0641a403ffc4e757b579b6fccf56b551397ab1e6905ae640` | `5f55fea` |
 | `output/translations/1peter_02.json` | 25 | `120f3302493eb9bd2845bd586e6270174705f761d2bb26bdeb7f465ddeb0259e` | `b812394` |
@@ -123,6 +123,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/2corinthians_12.json` | 21 | `aca4492cc393372367d40d5dce4bee1e1d066a04b6f022f0d964492dc0439a9a` | `cf6bd38` |
 | `output/translations/2corinthians_13.json` | 13 | `5f019e205b3fb288ab4374e2cc19b13b4ad005f3aa95761626703510077d3afa` | `b64d487` |
 | `output/translations/2john_01.json` | 13 | `ebb8abfa27ee1ffb053229919a4b74049601bd1f6e09ef566dbafb0610822506` | `7ca2f8b` |
+| `output/translations/2kings_01.json` | 18 | `523bf669329ed636ff37f302f945eb0c304c89a009371456c64dff3e3cd9eac9` | `—` |
 | `output/translations/2peter_01.json` | 21 | `78e10ed4690d414cd428bb32e3b12df13787f6bdce74e54828bc9c7a2682c0f7` | `403c20c` |
 | `output/translations/2peter_02.json` | 22 | `27ed1281bc79606e9035201a0c14f9a93f4f353b667347447480882cb82d62bf` | `be3c897` |
 | `output/translations/2peter_03.json` | 18 | `6946b13ac0f25be1fc935e45b9f2d64f36344f07a34c34ae88f1ee4aecb9a8d3` | `34921bf` |
