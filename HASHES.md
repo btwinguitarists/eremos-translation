@@ -3,7 +3,7 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-05-24 06:40:08 UTC_
+_Generated: 2026-05-24 07:01:10 UTC_
 _Total chapters: 577 · Total verses: 17527_
 
 ## How to verify a chapter
@@ -47,21 +47,21 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/1kings_05.json` | 32 | `85f1b119efd49dcf5dbbe538dea894d76fd3f5a490ffaf3c19a0ccea1a7963e3` | `7f0a3ee` |
 | `output/translations/1kings_06.json` | 38 | `16605b3ca8ab92bfb46e499cee6b728a5ffcc5a4661f1c093daa68e20f5b6ed1` | `fd6eb54` |
 | `output/translations/1kings_07.json` | 51 | `7488ee2278ad002c7d4d0b1dbb7e6ae83e3f3c2b87e60661b085385c3afb21ac` | `89c9f6d` |
-| `output/translations/1kings_08.json` | 66 | `999a1308a9f03767bb9498c7b3eb790c013982c85b19b065b766d0342fd3cbe6` | `4200cc7` |
+| `output/translations/1kings_08.json` | 66 | `00812617bb2be3e3e76b8c993692f5126a9b922330351c2f0fb05757457c6849` | `4200cc7` |
 | `output/translations/1kings_09.json` | 28 | `fa3cf57800eafe5dd5645c3b478f80f60ce970faf446018477a458d593f253a0` | `c285378` |
 | `output/translations/1kings_10.json` | 29 | `2c93813b2ec3337e42166808908ebc71e3fd4e537cb48a8d166cd244411fe18a` | `ba99dbe` |
 | `output/translations/1kings_11.json` | 43 | `6039bf50bff842baab0077d0e5ef4cddfb9ea3e5e47081093ab0e8151666e7b2` | `e0e2539` |
 | `output/translations/1kings_12.json` | 33 | `b7ac44f915436afb6a3e30290fe8fd877c946b7860240988c706311d94ac4c12` | `b3a9d75` |
 | `output/translations/1kings_13.json` | 34 | `590eb19c3a05f4354027f6ad6639fd3b9b564d5566b2e8d9bb9be7e50fb66e2f` | `3ffba68` |
-| `output/translations/1kings_14.json` | 31 | `47e706385eda3376673b2a014feaffde2739d8ebbd528147f45537e2b3c2b378` | `2a75f60` |
-| `output/translations/1kings_15.json` | 34 | `5249ab928fc5f8087442c1223f25be3f653d7182a6f4196fccccae23d8a2bc13` | `ba08717` |
+| `output/translations/1kings_14.json` | 31 | `55371484a5a9fc9cc69d360ab31dd567eb4b6b5d4d68112907bb37f7bea296c6` | `2a75f60` |
+| `output/translations/1kings_15.json` | 34 | `42445c9f923c9f83d69785832d7a4359af69d056d1d74ff94f6a439b0379a7b5` | `ba08717` |
 | `output/translations/1kings_16.json` | 34 | `695e3577442579032ad225a1c1eb7c633b8b127df751029af9beadf3c204d582` | `d375d4b` |
 | `output/translations/1kings_17.json` | 24 | `73106beb04958d9484dfd4a33428a7a6d83ca3a7b398b22882d90dec9b66386d` | `c674fa8` |
 | `output/translations/1kings_18.json` | 46 | `62e9f87b49a0af5f542774274db787ce58fef0147600ca6d2b367c99f39b4674` | `82a52e3` |
-| `output/translations/1kings_19.json` | 21 | `a4124a7ce7558bec999b3c8c77ef63ff6f9b4b5d3227ef2a60a925d99004d154` | `312aa03` |
+| `output/translations/1kings_19.json` | 21 | `a4124a7ce7558bec999b3c8c77ef63ff6f9b4b5d3227ef2a60a925d99004d154` | `64c7d97` |
 | `output/translations/1kings_20.json` | 43 | `98a0b02541a6a029a9a6d633342f3dbe56d955f41e9ee2486f3611d6f42cbc3b` | `f9b61a3` |
 | `output/translations/1kings_21.json` | 29 | `7ba6c329ea544def87bd8fb00afd7b367b2e3f6d28f860ffba1cba7fe86fb355` | `a4ce7e5` |
-| `output/translations/1kings_22.json` | 54 | `f234889a2345d7aa4e001b39725fcbbc0490066c5477075c23ff651de2b46575` | `eeb86e6` |
+| `output/translations/1kings_22.json` | 54 | `a54fc423d91b44cdd7dc513658bc9c0edf5111c7d3aadbdf61ca73b940b67afa` | `eeb86e6` |
 | `output/translations/1peter_01.json` | 25 | `7e44403865c493ca0641a403ffc4e757b579b6fccf56b551397ab1e6905ae640` | `5f55fea` |
 | `output/translations/1peter_02.json` | 25 | `120f3302493eb9bd2845bd586e6270174705f761d2bb26bdeb7f465ddeb0259e` | `b812394` |
 | `output/translations/1peter_03.json` | 22 | `ab8923ac1f2bce4711ab6aab171275521419001881bbd55a736f444fdc007516` | `256bbe7` |
