@@ -64,7 +64,7 @@ Normalized in commit landing this doc.
 
 - [x] Exodus 3:2, 14:19, 32:34 normalized to ทูตสวรรค์ form (verified 2026-05-13).
 - [ ] Add a lemma-binding check entry (extension of `check_phrase_consistency.py`): when the Hebrew of an OT verse contains the lemma מלאך in a divine-messenger context, the Thai must contain ทูตสวรรค์.
-- [ ] Forward-cover: Gen 16, 22 (Hagar + Abraham theophanies); Num 22 (Balaam's donkey); Judg 6 (Gideon), 13 (Samson's parents); 2 Sam 24 (David); 1 Kings 19 (Elijah at Horeb); 2 Kings 1 (Elijah + Ahaziah's messengers); Zech 1-6 (the angel-of-YHWH cycle); Mal — the book whose Hebrew title IS מַלְאָכִי.
+- [ ] Forward-cover: Gen 16, 22 (Hagar + Abraham theophanies); Num 22 (Balaam's donkey); Judg 6 (Gideon), 13 (Samson's parents); 2 Sam 24 (David); **1 Kings 19 (Elijah at Horeb) — ✓ done 2026-05-24** (19:5 `ทูตสวรรค์`, 19:7 `ทูตสวรรค์ขององค์พระผู้เป็นเจ้า`, 13:18 comply; 19:7 was the EOB-audit drift fix); 2 Kings 1 (Elijah + Ahaziah's messengers — **next: enforce at 1:3,15 before ship**); Zech 1-6 (the angel-of-YHWH cycle); Mal — the book whose Hebrew title IS מַלְאָכִי.
 - [ ] Layer-2 footnote template for Christophanic candidates (Exod 3:2, Gen 16/22, Judg 6/13): a short survey of the theophanic reading, anchored to the verse's narrative ambiguity without re-categorizing the Thai surface.
 
 ---

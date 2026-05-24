@@ -76,6 +76,22 @@ The Category-A high bar (≥3 cross-versional witnesses + a genuine MT lacuna) i
 
 ---
 
+## 2.2 Macro-structural divergence subcategory (added 2026-05-24, 1 Kings EOB)
+
+Categories A/B/C above handle **verse-level** minuses/pluses/competing-readings. They do **not** fit whole-narrative reordering, large transposed blocks, or alternate parallel accounts. 1 Kings / 3 Reigns is the largest such case in the OT so far (LXX reorders the Solomon material; inserts the two **Miscellanies** at 3 Rgns 2:35a–o and 2:46a–l; carries an **alternate Jeroboam account** at 12:24a–z; and **swaps MT chs. 20↔21**). Forcing this into scattered verse footers would obscure the scale.
+
+**Decision (Ben, 2026-05-24, confirming ChatGPT over Gemini's "Tier 4"):** keep the A/B/C tier scheme intact and add a **subcategory**, not a competing fourth tier:
+
+- **`macro_structural_mt_lxx_divergence`** — whole-narrative reordering / transposed blocks / alternate parallel accounts. Surface = **MT only** (as always). Disclosure = a **book-level prefatory note** (primary; the issue is structural, not phrase-level) + optional Tier-2 **chapter-footer anchors** at the affected chapters.
+
+**1 Kings book-level prefatory note — canonical text (Thai), to surface at the head of 1 Kings:**
+
+> **หมายเหตุเรื่องตัวบท (MT/LXX):** ฉบับเอเรโมสแปลพระธรรม 1 พงศ์กษัตริย์จากต้นฉบับภาษาฮีบรู (MT) เป็นหลัก. ฉบับกรีก (Septuagint / 3 Reigns) มีโครงสร้างต่างจาก MT อย่างมีนัยสำคัญ ได้แก่ การจัดลำดับเรื่องของซาโลมอนใหม่, ส่วนเพิ่ม "Miscellanies" สองตอน (3 รก. 2:35ก–ฯ และ 2:46ก–ฯ), เรื่องเล่าทางเลือกเกี่ยวกับเยโรโบอัม (12:24ก–ฮ), และการสลับลำดับบทที่ 20 กับ 21. ฉบับเอเรโมสยึดลำดับและตัวบทตาม MT; ความแตกต่างเชิงโครงสร้างเหล่านี้บันทึกไว้เพื่อความโปร่งใส มิได้กระทบเนื้อหาที่แปล.
+
+**Chapter-footer anchors (Tier-2, to add at):** ch. 2 + 11 (Solomon material + Miscellanies), ch. 12 (alternate Jeroboam narrative), ch. 20–21 (MT/LXX chapter-order swap). *Implementation status (2026-05-24): subcategory + book-note text locked here; reader-facing book-note (1kings_01 textual_variants) + the four chapter footers + re-ship are a pre-`ship_book.sh` follow-up.*
+
+---
+
 ## 3. Forward applicability — OT books where this policy compounds
 
 The MT-vs-LXX question scales massively beyond Genesis:
@@ -85,7 +101,7 @@ The MT-vs-LXX question scales massively beyond Genesis:
 | **Joshua** | 21:36–37 missing in MT, present in LXX + Vulgate (Reubenite Levitical cities) | A or B (case-by-case) |
 | **1 Samuel** | 13:1 numerical gap; ch. 17 (David vs. Goliath) — LXX is ~50% shorter | C (LXX truncation; surface = MT) |
 | **2 Samuel** | 5:6–9; 8:7–8; multiple smaller divergences | Mostly B |
-| **1–2 Kings** | many smaller divergences; LXX preserves earlier text-form in places | B / C |
+| **1–2 Kings** | verse-level: many smaller divergences (B/C). **Macro-structural** (1 Kings): Solomon reordering, the two Miscellanies (2:35a–o, 2:46a–l), alternate Jeroboam account (12:24a–z), MT 20↔21 swap | `macro_structural_mt_lxx_divergence` (§2.2) — MT surface + book-level note |
 | **Jeremiah** | the **LXX is ~13% shorter than MT** and arranges material differently (the oracles against nations come earlier in LXX) — this is the largest MT-vs-LXX divergence in the OT | The whole book's text-form is the question; document a per-book policy decision |
 | **Esther** | LXX has 6 long additions ("Additions to Esther" in the Apocrypha — Mordecai's dream, Esther's prayer, etc.); Catholic OT includes them, Protestant OT excludes them | C with strong NT-Apocrypha-policy implications |
 | **Daniel** | LXX (Theodotion) has 3 additions: Prayer of Azariah / Song of the Three Holy Children (between 3:23 and 3:24); Susanna; Bel and the Dragon | C with strong NT-Apocrypha-policy implications |
@@ -112,5 +128,6 @@ The MT-vs-LXX question scales massively beyond Genesis:
 
 ## 6. Change log
 
+- **v0.3** (2026-05-24, 1 Kings EOB) — Added §2.2 `macro_structural_mt_lxx_divergence` subcategory + the canonical 1 Kings book-level prefatory note text. Resolves the 1 Kings audit "MT/LXX inclusion-variant gap" (DECIDE #2, carried from 1 Samuel §17). Ben chose subcategory-not-Tier-4 (ChatGPT over Gemini). Reader-facing book-note + ch.2/11/12/20–21 footers are a pre-`ship_book.sh` follow-up.
 - **v0.2** (2026-05-12, later same day) — Gen 4:8 brackets STRIPPED per Ben's BSB-alignment decision. Category A redefined as "inline without brackets, matching BSB" rather than the original "inline-with-square-brackets." Cross-versional manuscript evidence remains in Layer-2 footer. Resolves the ChatGPT-vs-Gemini divergence by adopting BSB's actual rendering style.
 - **v0.1** (2026-05-12) — Initial policy, triggered by Genesis end-of-book audit §F + external AI cross-review (ChatGPT + Gemini both MAJOR CONCERN). Genesis-locking-precedents at 4:8 (Category A) + 46:27 + 47:31 (Category B). Originally flagged Ben decision pending on 4:8 bracket; resolved in v0.2 (above).

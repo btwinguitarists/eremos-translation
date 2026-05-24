@@ -6,6 +6,8 @@
 
 **Amended:** 2026-05-01 during 2 Corinthians end-of-book review (see `docs/end_of_book/2corinthians/2CO_END_OF_BOOK_REVIEW_2026-05-01.md` §4 Item B). Scope clarified to distinguish **literal pagan deities** (เทพเจ้า) from **Pauline polemical-metaphorical θεός attributions** (พระเจ้า + qualifying genitive). Confirmed 3/3 by Gemini + Grok + ChatGPT external review.
 
+**Amended:** 2026-05-24 during 1 Kings end-of-book review (Item E, FINE/positive). Added the **OT proper-name pagan-deity register** (Hebrew `พระ-` prefix: พระบาอัล, พระอัชเทเรท, พระเคโมช…) as a locked principle distinct from the NT Greek-deity register, and locked the `อัชเทเรท` singular spelling (with a 1 Samuel singular/plural verification caveat). See the OT section below.
+
 **Evidence base (Acts):** 7:43 (Moloch + Rephan); 12:22 (Herod's death — "voice of a god"); 14:11–13 (Lystra: Zeus + Hermes); 17:16–34 (Athens Areopagus: εἴδωλα, βωμός, ἄγνωστος θεός, σεβάσματα, δαιμόνια, τὸ θεῖον); 19:24–35 (Ephesus: Artemis, ναοί, θεά, νεωκόρος, διοπετές); 28:4–6 (Malta: Δίκη, αὐτὸν εἶναι θεόν); 28:11 (Διόσκουροι).
 
 ---
@@ -108,6 +110,27 @@ This is theologically load-bearing. The crowd's confused worship of Herod is the
 - **Eph 6:12** (πρὸς τὰ πνευματικὰ τῆς πονηρίας ἐν τοῖς ἐπουρανίοις): demonic-spiritual hierarchy → mara / ผี ranks; NOT เทพ-register (these are demonic, not pagan-deity).
 
 **Revelation:** the apocalyptic deity-figures (the dragon, the beasts) are demonic-cosmic — สัตว์ร้าย / มังกร / มาร, not เทพ (which would inappropriately elevate the demonic).
+
+## OT proper-name pagan deities (Hebrew corpus) — added 2026-05-24 (1 Kings EOB)
+
+The OT names Israel's rival deities as **proper-name deities taking the honorific `พระ-` prefix** — a register *distinct* from the NT Greek-deity treatment above (transliteration + `เทพ/เทพี/เทพเจ้า`). The `พระ-` prefix names the deity within the Hebrew narrative **without** conceding `พระเจ้า` (the true-God title). 1 Kings ships this cleanly (the EOB review, Item E, verdict FINE), and Judges/1 Samuel already established the forms — so it is locked here.
+
+| Hebrew | Thai (locked) | Reference |
+|---|---|---|
+| הַבַּעַל (Baal) | **พระบาอัล** | 1 Kings 16:31–32; 18; 22:53 |
+| הַבְּעָלִים (the Baals, pl.) | **บรรดาพระบาอัล / พระบาอัลทั้งหลาย** | 1 Kings 18:18 |
+| עַשְׁתֹּרֶת (Ashtoreth, **sing.**) | **(พระ)อัชเทเรท** | 1 Kings 11:5, 11:33 — "เทพีของชาวซีโดน" |
+| כְּמוֹשׁ (Chemosh) | **พระเคโมช** | 1 Kings 11:7, 11:33 |
+| מִלְכֹּם / מֹלֶךְ (Milcom / Molech) | **พระมิลโคม / พระโมเลค** | 1 Kings 11:5, 11:7 |
+| אֲשֵׁרָה (Asherah pole / the goddess) | **เสาอาเชราห์ / (เทพี)อาเชราห์** | 1 Kings 14:23; 16:33; 18:19 |
+
+**Rules:**
+- Descriptor noun → `เทพ` (m.) / `เทพี` (f.): e.g. `พระอัชเทเรทเทพีของชาวซีโดน`. The proper name keeps `พระ-`; the common-noun descriptor is `เทพ/เทพี`.
+- **Never `พระเจ้า`** for any pagan deity (same boundary as the NT Rule 1).
+- Idolatrous serve/bow → `ปรนนิบัติ / กราบไหว้` (NOT `นมัสการ`, reserved for YHWH) — per `ot_register_policy_2026-05.md` §3.2.
+- Pagan deities take **no** `ราชาศัพท์` (`ทรง`) for their (non-)actions; the worshippers' vocative is `โอ พระบาอัล` (not `ข้าแต่`, which is reserved for YHWH).
+
+**`อัชเทเรท` spelling lock + 1 Samuel caveat:** `อัชเทเรท` is the corpus standard for the **singular** `עַשְׁתֹּרֶת` (1 Kings 11:5/33; matches the Judges form — the Former Prophets are converging). **However**, 1 Samuel uses the **plural** `עַשְׁתָּרוֹת` (Ashtaroth — 1 Sam 7:3–4; 12:10; 31:10), a genuine morphological plural, not a misspelling. Before "normalizing the 1 Samuel Ashtoreth drift" (as the external reviewers suggested), **verify** whether each 1 Samuel occurrence is singular or plural: a plural should keep a plural-aware surface (`บรรดาพระอัชเทเรท` / `พระอัชทาโรท`), not be flattened to the singular `อัชเทเรท`. Flagged 2026-05-24; the singular/plural check is a pre-normalization gate, not an auto-fix.
 
 ## Alternatives considered
 
