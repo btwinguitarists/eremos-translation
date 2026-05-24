@@ -15,8 +15,8 @@
 ## הַיָּשָׁר בְּעֵינֵי יְהוָה (did right in the eyes of YHWH)
 **Doc:** `dtr_history_cycle_formulas_2026-05.md`  
 **Expected Thai contains:** `ถูกต้อง`  
-**Total matching verses:** 9  
-**OK:** 9 · **Excepted:** 0 · **Violations:** 0
+**Total matching verses:** 10  
+**OK:** 10 · **Excepted:** 0 · **Violations:** 0
 
 ## הַבָּמוֹת לֹא־סָרוּ (high places not removed)
 **Doc:** `dtr_history_cycle_formulas_2026-05.md`  
