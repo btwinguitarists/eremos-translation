@@ -15,14 +15,14 @@
 ## הַיָּשָׁר בְּעֵינֵי יְהוָה (did right in the eyes of YHWH)
 **Doc:** `dtr_history_cycle_formulas_2026-05.md`  
 **Expected Thai contains:** `ถูกต้อง`  
-**Total matching verses:** 3  
-**OK:** 3 · **Excepted:** 0 · **Violations:** 0
+**Total matching verses:** 4  
+**OK:** 4 · **Excepted:** 0 · **Violations:** 0
 
 ## הַבָּמוֹת לֹא־סָרוּ (high places not removed)
 **Doc:** `dtr_history_cycle_formulas_2026-05.md`  
 **Expected Thai contains:** `สถานบูชาบนที่สูง`  
-**Total matching verses:** 2  
-**OK:** 2 · **Excepted:** 0 · **Violations:** 0
+**Total matching verses:** 3  
+**OK:** 3 · **Excepted:** 0 · **Violations:** 0
 
 ## ἄφεσις ἁμαρτιῶν
 **Doc:** `aphesis_forgiveness_of_sins_2026-04.md`  
