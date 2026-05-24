@@ -51,6 +51,48 @@ REPORTS = ROOT / "output" / "check_reports"
 # =============================================================================
 
 PHRASE_LOCKS = [
+    # ===== OT (Hebrew-keyed) locks — hebrew_patterns match niqqud-stripped Hebrew =====
+    # malak_yhwh_2026-05.md — angel of the LORD (divine compound)
+    {
+        "doc": "malak_yhwh_2026-05.md",
+        "label": "מַלְאַךְ יְהוָה / מַלְאַךְ הָאֱלֹהִים (angel of the LORD/God)",
+        "hebrew_patterns": [r"מלאך\s*יהוה", r"מלאך\s*ה?אלהים"],
+        "books": ["1KI ", "2KI "],  # Kings-scoped for now; cross-book retrofit (Gen/Judg/Sam) is the malak doc §3 backlog
+        "expected_thai_contains": "ทูตสวรรค์",
+        "must_not_contain": [],
+        "exceptions": {},
+    },
+    # dtr_history_cycle_formulas_2026-05.md — evaluation formula "did evil in the eyes of YHWH"
+    {
+        "doc": "dtr_history_cycle_formulas_2026-05.md",
+        "label": "הָרַע בְּעֵינֵי יְהוָה (did evil in the eyes of YHWH)",
+        "hebrew_patterns": [r"הרע\s+בעיני\s+יהוה"],
+        "books": ["1KI ", "2KI "],
+        "expected_thai_contains": "ชั่วร้าย",
+        "must_not_contain": [],
+        "exceptions": {},
+    },
+    # dtr_history_cycle_formulas_2026-05.md — evaluation formula "did right in the eyes of YHWH"
+    {
+        "doc": "dtr_history_cycle_formulas_2026-05.md",
+        "label": "הַיָּשָׁר בְּעֵינֵי יְהוָה (did right in the eyes of YHWH)",
+        "hebrew_patterns": [r"הישר\s+בעיני\s+יהוה"],
+        "books": ["1KI ", "2KI "],
+        "expected_thai_contains": "ถูกต้อง",
+        "must_not_contain": [],
+        "exceptions": {},
+    },
+    # dtr_history_cycle_formulas_2026-05.md — high-places notice "the high places were not removed"
+    {
+        "doc": "dtr_history_cycle_formulas_2026-05.md",
+        "label": "הַבָּמוֹת לֹא־סָרוּ (high places not removed)",
+        "hebrew_patterns": [r"הבמות\s*לאסרו"],
+        "books": ["1KI ", "2KI "],
+        "expected_thai_contains": "สถานบูชาบนที่สูง",
+        "must_not_contain": [],
+        "exceptions": {},
+    },
+
     # aphesis_forgiveness_of_sins_2026-04.md
     {
         "doc": "aphesis_forgiveness_of_sins_2026-04.md",
@@ -206,22 +248,31 @@ def load_all_verses():
         if not isinstance(data, list):
             continue
         for v in data:
-            if isinstance(v, dict) and "greek" in v and "translation" in v:
+            if isinstance(v, dict) and ("greek" in v or "hebrew" in v) and "translation" in v:
                 yield v.get("reference", f"?{v.get('chapter')}:{v.get('verse')}"), v
+
+
+def strip_niqqud(s):
+    """Drop Hebrew vowel-points + cantillation + maqqef so hebrew_patterns can be
+    written consonantally (robust to pointing/maqqef variation)."""
+    import unicodedata
+    return "".join(c for c in unicodedata.normalize("NFD", s) if not (0x0591 <= ord(c) <= 0x05C7))
 
 
 def audit_one_lock(lock, verses):
     """Return list of violation dicts for one phrase lock."""
     violations = []
     matches = []  # all matching verses (for reporting total coverage)
+    gpats = lock.get("greek_patterns", [])
+    hpats = lock.get("hebrew_patterns", [])  # matched against niqqud-stripped Hebrew (OT)
+    books = lock.get("books")  # optional ref-prefix scope, e.g. ["1KI ", "2KI "] for Kings-only locks
     for ref, v in verses:
-        greek = v.get("greek", "")
-        # Any Greek pattern match?
-        matched = False
-        for pat in lock["greek_patterns"]:
-            if re.search(pat, greek):
-                matched = True
-                break
+        if books and not any(ref.startswith(b) for b in books):
+            continue
+        greek = v.get("greek", "") or ""
+        hebrew_cons = strip_niqqud(v.get("hebrew", "") or "")
+        # Any source pattern match? Greek for NT verses, consonantal Hebrew for OT.
+        matched = any(re.search(p, greek) for p in gpats) or any(re.search(p, hebrew_cons) for p in hpats)
         if not matched:
             continue
         # Exception?
@@ -246,7 +297,7 @@ def audit_one_lock(lock, verses):
             snippet = thai[max(0, snippet_idx - 20): snippet_idx + 60] if snippet_idx >= 0 else thai[:80]
             violations.append({
                 "ref": ref,
-                "greek": greek[:100],
+                "greek": (greek or v.get("hebrew", "") or "")[:100],
                 "thai_snippet": snippet,
                 "expected": expected,
                 "forbidden_hit": [f for f in forbidden if f in thai],
