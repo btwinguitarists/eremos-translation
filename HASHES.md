@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-05-25 09:37:30 UTC_
-_Total chapters: 605 · Total verses: 18379_
+_Generated: 2026-05-25 10:09:15 UTC_
+_Total chapters: 606 · Total verses: 18422_
 
 ## How to verify a chapter
 
@@ -21,7 +21,8 @@ shasum -a 256 output/translations/mark_06.json
 |------|--------|---------|-------------|
 | `output/translations/1chronicles_01.json` | 54 | `013f0f4ada47401ffaf6ceadc23106a3fcec876777a2866ae0aabe3e4c54357a` | `dd77eb2` |
 | `output/translations/1chronicles_02.json` | 55 | `59368633258111792a8e1b5920064173f3315b01bc7ce6780723a62a93312134` | `396d072` |
-| `output/translations/1chronicles_03.json` | 24 | `e44f9bb61e61005e533371754a646dde8db52665d8912a50849a8d3082934c11` | `—` |
+| `output/translations/1chronicles_03.json` | 24 | `e44f9bb61e61005e533371754a646dde8db52665d8912a50849a8d3082934c11` | `daa783f` |
+| `output/translations/1chronicles_04.json` | 43 | `78557cacfc67ae9f66f7f7f82e00c3d35a3c99feedc43a6c6832b9257d4a496b` | `—` |
 | `output/translations/1corinthians_01.json` | 31 | `8fe037408a33ea46742512e6d4741d9a035ddc8127501975619c18e4bd65b4d0` | `36851db` |
 | `output/translations/1corinthians_02.json` | 16 | `f89965365f3b0cad6b1261fe5cd39b2da70105281caa91fd248c10286a72374d` | `1564167` |
 | `output/translations/1corinthians_03.json` | 23 | `08e042f1494b0a04a2bd2e360e6983fe4a567b7cd24fb95863b2143079dc50d7` | `b64d487` |
