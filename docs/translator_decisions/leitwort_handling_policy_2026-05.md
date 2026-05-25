@@ -192,32 +192,31 @@ Eremos uses **เงิน** ("silver/money") consistently — readers can recog
 
 ## 7.5 עַד הַיּוֹם הַזֶּה — "to/until this day" (Former Prophets etiological formula)
 
-**Lock (2026-05-23):** the etiological formula `עַד הַיּוֹם הַזֶּה` ("until this day") is rendered as **`จนถึงวันนี้`** corpus-wide.
+**Lock (2026-05-25 — REVERSES the 2026-05-23 bare-form lock):** the etiological formula `עַד הַיּוֹם הַזֶּה` ("to this day") is rendered as **`จนถึงทุกวันนี้`** corpus-wide.
 
-**Do NOT use:** `จนถึงทุกวันนี้` — the Hebrew says "until this day," not "until every day." Adding `ทุก-` over-expands the Hebrew and risks making the formula sound more idiomatic-modern than deliberately formulaic.
+**Why this reverses the earlier lock.** The 2026-05-23 decision chose the bare `จนถึงวันนี้` and rejected `จนถึงทุกวันนี้` on the ground that `ทุก-` reads as "every day" and over-expands the Hebrew. **That was a misanalysis.** `ทุกวันนี้` is a fixed lexicalized adverbial meaning "nowadays / to this very day" — it is **not** compositional "every day" (which is `ทุกวัน` / `ทุกๆ วัน`). It is the idiomatic, traditional Thai-Bible way to express the etiological "to this day," and it carries the formula's "still, even now" force better than the more literal `จนถึงวันนี้`.
 
-**Triggered by:** 2 SA audit Item D + 2-way external AI review (ChatGPT + Gemini convergent CONCERN verdict). 1 Samuel and 2 Samuel both consistently use the bare form (`จนถึงวันนี้`); Judges drifted to `จนถึงทุกวันนี้` in some places. The bare form is now the stronger corpus default + closer to the Hebrew.
+**Triggered by:** 2 Kings audit Item D + external review. **Confirmed (2026-05-25) by three independent witnesses:** (a) a **native Thai speaker** (no-English, unprompted) — "`จนถึงทุกวันนี้` is commonly used and it does sound like 'to this day'"; (b) **ChatGPT + Gemini** (2 Kings EOB) both recommending `จนถึงทุกวันนี้`; (c) **corpus usage** — 2 Kings ships it 11/11, 1 Kings 8×, Judges 11×. For a project whose standard is *optimal equivalence* (natural target language), the living idiom wins over the morpheme-literal rendering. The earlier "closer to the Hebrew" argument was really "closer to the morphemes," which is not the same thing.
 
-**Rule applied:** Rule 1 (lemma-recurrence — the formula is a fixed etiological marker across the Former Prophets, not a context-dependent idiom).
+**Rule applied:** Rule 1 (lemma-recurrence — the formula is a fixed etiological marker across the Former Prophets).
 
 **Forward protection:**
 
-- **1 Kings / 2 Kings** — apply `จนถึงวันนี้` from the start.
-- **Isaiah / Jeremiah / Ezekiel** — apply the same when `עַד הַיּוֹם הַזֶּה` appears.
-- **Chronicles** — apply the same.
+- **1 Kings / 2 Kings** — already comply (already use `จนถึงทุกวันนี้`); **no change**, and the 2 Kings v1 tag is unaffected.
+- **Isaiah / Jeremiah / Ezekiel / Chronicles** — apply `จนถึงทุกวันนี้` when `עַד הַיּוֹם הַזֶּה` appears.
 
-**Back-propagation needed:**
+**Back-propagation needed (DEFERRED cross-book pass — reverses the earlier direction):**
 
-- **Judges** — the occurrences of `จนถึงทุกวันนี้` in Judges need to be normalized to `จนถึงวันนี้` in a follow-up Judges back-propagation pass (tracked as a separate ticket; not blocking for 2 SA tag).
+- Normalize the **bare `จนถึงวันนี้`** occurrences UP to `จนถึงทุกวันนี้`: **1 Samuel (23×), 2 Samuel (8×), Judges (10×), 1 Kings (5×)** — ~46 verses total (books/portions shipped before this lock). Mechanical find/replace `จนถึงวันนี้` → `จนถึงทุกวันนี้` in those `output/translations/*.json`, verified verse-by-verse against `עַד הַיּוֹם הַזֶּה`. No meaning change. Tracked as a deferred ticket; **not** blocking the 2 Kings tag. **NB:** this **reverses** the 2026-05-23 instruction (which had said normalize Judges' `ทุก-` *down* to bare — now superseded).
+- Consider adding a machine-enforced phrase-lock (`check_phrase_consistency.py`) only **after** the back-propagation completes — enforcing it now would fail on the ~46 not-yet-normalized bare verses.
 
-**Verses to back-propagate (Judges):** the specific Judges verses with `עַד הַיּוֹם הַזֶּה` rendered as `จนถึงทุกวันนี้` need to be enumerated by grep at the time of back-propagation. The fix is mechanical (find/replace `จนถึงทุกวันนี้` → `จนถึงวันนี้` in `output/translations/judges_*.json`, verified verse-by-verse against the Hebrew). No translation-surface meaning change.
-
-**Rationale:** the formula's etiological force comes from the phrase and narrative context, not from adding `ทุก-`. Thai readers experience `จนถึงวันนี้` as concise, natural, and faithful to the Hebrew. Normalizing downward (toward the more frequent + more faithful form) preserves the project's optimal-equivalence standard.
+**Rationale:** the formula's etiological "still, to this day" force is carried most naturally in Thai by the fixed idiom `จนถึงทุกวันนี้`. The earlier "normalize downward toward the literal" reasoning rested on a parse of `ทุกวันนี้` as "every day" that native usage does not support.
 
 ---
 
 ## 8. Change log
 
-- **v0.3** (2026-05-23) — §7.5 `עַד הַיּוֹם הַזֶּה` → `จนถึงวันนี้` lock added per 2 SA audit Item D + ChatGPT/Gemini convergent verdict. Back-propagation to Judges deferred to follow-up ticket.
+- **v0.4** (2026-05-25, 2 Kings EOB Item D) — §7.5 lock **REVERSED**: `עַד הַיּוֹם הַזֶּה` → **`จนถึงทุกวันนี้`** (was `จนถึงวันนี้`). The 2026-05-23 "`ทุก-` = every day" objection was a misanalysis — `ทุกวันนี้` is the idiomatic Thai "to this day," not "every day" (= `ทุกวัน`). Confirmed by a native Thai speaker (no-English) + ChatGPT + Gemini. 1 Kings / 2 Kings already comply (no change; 2 Kings tag unaffected); deferred back-propagation now normalizes the bare 1Sa/2Sa/Judg/1Ki occurrences (~46 v.) UP to `ทุกวันนี้` (reverses the earlier Judges-down direction).
+- **v0.3** (2026-05-23) — §7.5 `עַד הַיּוֹם הַזֶּה` → `จนถึงวันนี้` lock added per 2 SA audit Item D + ChatGPT/Gemini convergent verdict. Back-propagation to Judges deferred to follow-up ticket. **(Superseded by v0.4.)**
 - **v0.2** (2026-05-12) — Genesis locking-precedents sub-section added per Genesis end-of-book audit §K (Beersheba dual-wordplay, Joseph down/up trajectory, ezer help-family, silver-recursion).
 - **v0.1** (2026-05-09) — Initial policy, triggered by Jonah end-of-book audit cross-AI review (ChatGPT §Z meta-observation). Establishes the lemma-consistency vs discourse-function decision hierarchy as a four-rule framework.

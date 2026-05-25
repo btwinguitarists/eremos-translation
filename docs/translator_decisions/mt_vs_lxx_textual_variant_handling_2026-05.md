@@ -92,6 +92,24 @@ Categories A/B/C above handle **verse-level** minuses/pluses/competing-readings.
 
 ---
 
+## 2.3 Disclosure-threshold floor — when a book correctly has *zero* non-YHWH variant footers (added 2026-05-25, 2 Kings EOB Item C)
+
+Three consecutive DtrH audits (1 Samuel §17, 1 Kings, 2 Kings) re-flagged the same finding: a book ships with **zero** non-YHWH `textual_variant` entries, which kept reading as a "gap." It is not a gap — it is **correct silent MT-adherence** — and the recurring flag means the *trigger condition* for reader-facing disclosure was under-specified. This subsection fixes that with an explicit floor.
+
+**The floor.** A Category-B / C divergence earns a Tier-2 reader-facing footer **only** when it is at least one of:
+
+- **macro-structural** — whole-narrative reordering / transposed blocks / alternate parallel accounts (§2.2); or
+- **canonically visible** — the LXX reading is cited in the NT, or drives a doctrinally/traditionally significant reading (e.g. Gen 46:27 → Acts 7:14; Gen 47:31 → Heb 11:21); or
+- **materially reader-affecting** — a number, name, or clause a reader would otherwise trip over or be misled by.
+
+Routine **kaige-character variants** and scattered **minor pluses/minuses** that do not change meaning require **no footer** — surface = MT, silent, per `RULES.md` §5. **A book with zero non-YHWH `textual_variant` entries is therefore COMPLIANT, not deficient**, when (and only when) every one of its MT/LXX divergences falls below this floor. The end-of-book audit should *state* this affirmatively ("all MT/LXX divergences are below the disclosure floor; no footers required") rather than reporting an open "gap."
+
+**2 Kings disposition (resolves the audit DECIDE).** 2 Kings sits in the *kaige* recension of LXX Reigns; its MT/LXX differences are routine verse-level kaige-character variants + minor pluses/minuses, with **no macro-structural divergence** (unlike 1 Kings) and nothing NT-cited or materially reader-affecting. Under the floor above, **2 Kings correctly needs no `textual_variant` footers beyond the per-chapter YHWH first-occurrence notes.** The audit's "MT/LXX inclusion-variant gap" is **resolved as a non-gap.**
+
+**Regnal-synchronism chronology is OUT OF SCOPE for this apparatus.** The DtrH regnal-synchronism cruxes (co-regency / accession-vs-nonaccession dating arithmetic that does not all sum cleanly) are an **internal-MT chronology-model** matter, **not** an MT-vs-LXX inclusion variant. They do not belong in the textual-variant footer apparatus and do not warrant a Tier-2 reader-facing footer. If reader help is desired, it is a **study-layer / chronology-model note** (a separate, optional feature) or a non-reader-facing reviewer/FAQ note. *External-review split (2 Kings EOB): ChatGPT — reviewer/study note, not Tier-2; Gemini — one reader-facing book-level chronology note. This doc adopts ChatGPT's scope-distinction (chronology ≠ textual variant); a study-layer chronology note remains available as a separate, optional decision for Ben — see change log v0.4.*
+
+---
+
 ## 3. Forward applicability — OT books where this policy compounds
 
 The MT-vs-LXX question scales massively beyond Genesis:
@@ -101,7 +119,8 @@ The MT-vs-LXX question scales massively beyond Genesis:
 | **Joshua** | 21:36–37 missing in MT, present in LXX + Vulgate (Reubenite Levitical cities) | A or B (case-by-case) |
 | **1 Samuel** | 13:1 numerical gap; ch. 17 (David vs. Goliath) — LXX is ~50% shorter | C (LXX truncation; surface = MT) |
 | **2 Samuel** | 5:6–9; 8:7–8; multiple smaller divergences | Mostly B |
-| **1–2 Kings** | verse-level: many smaller divergences (B/C). **Macro-structural** (1 Kings): Solomon reordering, the two Miscellanies (2:35a–o, 2:46a–l), alternate Jeroboam account (12:24a–z), MT 20↔21 swap | `macro_structural_mt_lxx_divergence` (§2.2) — MT surface + book-level note |
+| **1 Kings** | verse-level: many smaller divergences (B/C). **Macro-structural**: Solomon reordering, the two Miscellanies (2:35a–o, 2:46a–l), alternate Jeroboam account (12:24a–z), MT 20↔21 swap | `macro_structural_mt_lxx_divergence` (§2.2) — MT surface + book-level note |
+| **2 Kings** | *kaige* section: routine kaige-character variants + minor pluses/minuses only; **no** macro-structural divergence, nothing NT-cited or materially reader-affecting | **§2.3 floor — below the disclosure threshold; no footers beyond YHWH notes** (audit DECIDE resolved as non-gap) |
 | **Jeremiah** | the **LXX is ~13% shorter than MT** and arranges material differently (the oracles against nations come earlier in LXX) — this is the largest MT-vs-LXX divergence in the OT | The whole book's text-form is the question; document a per-book policy decision |
 | **Esther** | LXX has 6 long additions ("Additions to Esther" in the Apocrypha — Mordecai's dream, Esther's prayer, etc.); Catholic OT includes them, Protestant OT excludes them | C with strong NT-Apocrypha-policy implications |
 | **Daniel** | LXX (Theodotion) has 3 additions: Prayer of Azariah / Song of the Three Holy Children (between 3:23 and 3:24); Susanna; Bel and the Dragon | C with strong NT-Apocrypha-policy implications |
@@ -128,6 +147,7 @@ The MT-vs-LXX question scales massively beyond Genesis:
 
 ## 6. Change log
 
+- **v0.4** (2026-05-25, 2 Kings EOB) — Added §2.3 **disclosure-threshold floor**: a book with zero non-YHWH `textual_variant` entries is COMPLIANT when all its divergences are routine kaige/minor (below the macro-structural / canonically-visible / materially-reader-affecting floor). Resolves the 2 Kings audit DECIDE (the "MT/LXX inclusion-variant gap" → **non-gap**); 2 Kings needs no footers beyond YHWH notes. Scoped regnal-synchronism chronology **out** of the textual-variant apparatus (internal-MT study-layer matter; adopted ChatGPT over Gemini on reader-facing placement — a study-layer chronology note stays optional for Ben). Split §3 "1–2 Kings" row into separate 1 Kings (macro-structural) + 2 Kings (§2.3 floor) rows.
 - **v0.3** (2026-05-24, 1 Kings EOB) — Added §2.2 `macro_structural_mt_lxx_divergence` subcategory + the canonical 1 Kings book-level prefatory note text. Resolves the 1 Kings audit "MT/LXX inclusion-variant gap" (DECIDE #2, carried from 1 Samuel §17). Ben chose subcategory-not-Tier-4 (ChatGPT over Gemini). Reader-facing book-note + ch.2/11/12/20–21 footers are a pre-`ship_book.sh` follow-up.
 - **v0.2** (2026-05-12, later same day) — Gen 4:8 brackets STRIPPED per Ben's BSB-alignment decision. Category A redefined as "inline without brackets, matching BSB" rather than the original "inline-with-square-brackets." Cross-versional manuscript evidence remains in Layer-2 footer. Resolves the ChatGPT-vs-Gemini divergence by adopting BSB's actual rendering style.
 - **v0.1** (2026-05-12) — Initial policy, triggered by Genesis end-of-book audit §F + external AI cross-review (ChatGPT + Gemini both MAJOR CONCERN). Genesis-locking-precedents at 4:8 (Category A) + 46:27 + 47:31 (Category B). Originally flagged Ben decision pending on 4:8 bracket; resolved in v0.2 (above).
