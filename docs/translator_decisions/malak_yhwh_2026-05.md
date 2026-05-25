@@ -64,12 +64,13 @@ Normalized in commit landing this doc.
 
 - [x] Exodus 3:2, 14:19, 32:34 normalized to ทูตสวรรค์ form (verified 2026-05-13).
 - [~] **Lemma-binding check added (Kings-scoped) 2026-05-24** — `check_phrase_consistency.py` now carries a `malak` lock (`hebrew_patterns` `מלאך\s*יהוה` / `מלאך\s*ה?אלהים` → expected `ทูตสวรรค์`), currently `"books": ["1KI ", "2KI "]`. Widen the scope corpus-wide during the full-OT scan (see deferred backlog below).
-- [ ] Forward-cover: Gen 16, 22 (Hagar + Abraham theophanies); Num 22 (Balaam's donkey); Judg 6 (Gideon), 13 (Samson's parents); 2 Sam 24 (David); **1 Kings 19 (Elijah at Horeb) — ✓ done 2026-05-24** (19:5 `ทูตสวรรค์`, 19:7 `ทูตสวรรค์ขององค์พระผู้เป็นเจ้า`, 13:18 comply; 19:7 was the EOB-audit drift fix); 2 Kings 1 (Elijah + Ahaziah's messengers — **next: enforce at 1:3,15 before ship**); Zech 1-6 (the angel-of-YHWH cycle); Mal — the book whose Hebrew title IS מַלְאָכִי.
+- [ ] Forward-cover: Gen 16, 22 (Hagar + Abraham theophanies); Num 22 (Balaam's donkey); Judg 6 (Gideon), 13 (Samson's parents); 2 Sam 24 (David); **1 Kings 19 (Elijah at Horeb) — ✓ done 2026-05-24** (19:5 `ทูตสวรรค์`, 19:7 `ทูตสวรรค์ขององค์พระผู้เป็นเจ้า`, 13:18 comply; 19:7 was the EOB-audit drift fix); 2 Kings 1 (Elijah + Ahaziah's messengers) — **✓ done 2026-05-25** (divine: 1:3, 1:15 ship `ทูตสวรรค์ขององค์พระผู้เป็นเจ้า`; human: 1:2, 1:3, 1:16 ship `ผู้ส่งสาร` per §4.4 hierarchy); Zech 1-6 (the angel-of-YHWH cycle); Mal — the book whose Hebrew title IS מַלְאָכִי.
 - [ ] **⚠️ DEFERRED to a future full-OT scan — cross-book malak retrofit (Ben's decision 2026-05-24; do NOT forget):** older books were shipped before this lock and still render the divine messenger as bare `ทูต`. A 2026-05-24 corpus-wide run of the new `malak` lock (before it was scoped to Kings) flagged:
   - **Clear theophanies → retrofit to `ทูตสวรรค์`:** Genesis 16:7, 16:9, 16:10, 16:11, 21:17, 31:11.
   - **"like an angel of God" similes → review (may legitimately keep a plainer form):** 1 Samuel 29:9; 2 Samuel 14:17, 14:20, 19:28.
   - **Also re-check** the forward-cover list above (Gen 22, Num 22, Judg 6/13, 2 Sam 24) — the Kings-scoped run did not cover them.
   - **Method:** temporarily remove `"books"` from the `malak` lock in `check_phrase_consistency.py`, run it to regenerate the full flagged list, retrofit each, then widen the lock's permanent scope. **Not a 1 Kings tag blocker.**
+- [ ] **⚠️ DEFERRED — human-messenger surface normalization (added 2026-05-25, 2 Kings EOB Item E):** the *human* מַלְאָךְ side (§4.4) drifted to `ผู้สื่อสาร` / `ผู้ส่งข่าว` in books shipped before the §4.4 hierarchy. Normalize toward the hierarchy (`ผู้ส่งสาร` default; `ทูต`/`คณะทูต` for diplomatic) in a cross-book pass, **per-verse** (do not blanket-replace — weigh royal-to-royal contexts for `ทูต`). Known queue in 2 Kings: `ผู้สื่อสาร` at 5:10, 6:32–33, 9:18, 10:8, 14:8, 19:9, 19:14 (2 Kings 1:2–3,16 + 19:23 already on `ผู้ส่งสาร`). Sweep other OT books for `ผู้สื่อสาร`/`ผู้ส่งข่าว` at the same time. **Not a 2 Kings tag blocker** (REVIEW item; MT-faithful either way).
 - [ ] Layer-2 footnote template for Christophanic candidates (Exod 3:2, Gen 16/22, Judg 6/13): a short survey of the theophanic reading, anchored to the verse's narrative ambiguity without re-categorizing the Thai surface.
 
 ---
@@ -92,6 +93,17 @@ The book-name מַלְאָכִי is a personal name in tradition but is also the
 ### 4.4 Plain human messengers
 
 מַלְאָךְ in plain narrative for human envoys (e.g., 2 Sam 11:19-25 — David's military messenger; 2 Kings 1:2-3 — Ahaziah's messengers; Job 1:14-18 — the disaster-messengers) uses the plain register, not ทูตสวรรค์. Context (king's court / disaster narrative / non-supernatural) marks these. This doc covers only the divine / supernatural class.
+
+**Human-messenger surface hierarchy (added 2026-05-25, 2 Kings EOB Item E).** The divine side is locked above; the *human* מַלְאָךְ side had drifted across an unconstrained set (`ผู้ส่งสาร` / `ผู้ส่งข่าว` / `ผู้สื่อสาร` / `ทูต` / `คณะทูต`). Both external reviewers (ChatGPT CONCERN; Gemini FINE-but-document) converged on **principled variation, not flattening** — Hebrew מַלְאָךְ spans a runner and a state delegation, and Thai marks that. The hierarchy:
+
+| Sense | Thai (locked) | Example |
+|---|---|---|
+| 1. Default narrative messenger / runner | **`ผู้ส่งสาร`** | 2 Kings 1:2–3 (Ahaziah's messengers); the by-your-messengers taunt 2 Kings 19:23 |
+| 2. Diplomatic envoy / formal state representative | **`ทูต`** | 2 Kings 17:4 (Hoshea → So of Egypt) |
+| 3. Delegation / group of envoys | **`คณะทูต`** | 2 Kings 20:13 (Babylonian envoys to Hezekiah) |
+| 4. Avoid | ~~`ผู้สื่อสาร`~~, ~~`ผู้ส่งข่าว`~~ | reclassify to (1)/(2)/(3) unless a strong contextual reason is documented in `key_decisions` |
+
+`ผู้ส่งสาร` is the default; reserve `ทูต` / `คณะทูต` for genuinely diplomatic contexts. **19:23 fixed 2026-05-25** (`ผู้สื่อสาร` → `ผู้ส่งสาร`: בְּיַד מַלְאָכֶיךָ "by your messengers", an ordinary-messenger taunt). The remaining 2 Kings `ผู้สื่อสาร` occurrences (5:10, 6:32–33, 9:18, 10:8, 14:8, 19:9, 19:14) are queued for the deferred cross-book normalization pass (§3) — each classified per-verse (most → `ผู้ส่งสาร`; 14:8 / 19:9 royal-to-royal contexts to weigh for `ทูต`), not blanket-replaced. **Not a 2 Kings tag blocker** (REVIEW item; 2 Kings stays MT-faithful either way).
 
 ---
 

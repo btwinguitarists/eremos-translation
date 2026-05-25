@@ -8,6 +8,8 @@
 
 **Amended:** 2026-05-24 during 1 Kings end-of-book review (Item E, FINE/positive). Added the **OT proper-name pagan-deity register** (Hebrew `พระ-` prefix: พระบาอัล, พระอัชเทเรท, พระเคโมช…) as a locked principle distinct from the NT Greek-deity register, and locked the `อัชเทเรท` singular spelling (with a 1 Samuel singular/plural verification caveat). See the OT section below.
 
+**Amended:** 2026-05-25 during 2 Kings end-of-book review (Item A, CONCERN→fixed). ChatGPT + Gemini both flagged that 2 Kings 1 dropped the `พระ-` prefix from `บาอัลเซบูบ` while keeping it for every other OT proper-name deity — an unmotivated exception. Revised 2 Kings 1:2, 1:3, 1:6, 1:16 `บาอัลเซบูบ` → **`พระบาอัลเซบูบ`** (descriptor `เทพเจ้าแห่งเอโครน` and plain `สอบถาม` unchanged). Confirms the `พระ-` proper-name marker is **exceptionless even for a contemptible/mocked deity**. See the OT section below.
+
 **Evidence base (Acts):** 7:43 (Moloch + Rephan); 12:22 (Herod's death — "voice of a god"); 14:11–13 (Lystra: Zeus + Hermes); 17:16–34 (Athens Areopagus: εἴδωλα, βωμός, ἄγνωστος θεός, σεβάσματα, δαιμόνια, τὸ θεῖον); 19:24–35 (Ephesus: Artemis, ναοί, θεά, νεωκόρος, διοπετές); 28:4–6 (Malta: Δίκη, αὐτὸν εἶναι θεόν); 28:11 (Διόσκουροι).
 
 ---
@@ -123,12 +125,14 @@ The OT names Israel's rival deities as **proper-name deities taking the honorifi
 | כְּמוֹשׁ (Chemosh) | **พระเคโมช** | 1 Kings 11:7, 11:33 |
 | מִלְכֹּם / מֹלֶךְ (Milcom / Molech) | **พระมิลโคม / พระโมเลค** | 1 Kings 11:5, 11:7 |
 | אֲשֵׁרָה (Asherah pole / the goddess) | **เสาอาเชราห์ / (เทพี)อาเชราห์** | 1 Kings 14:23; 16:33; 18:19 |
+| בַּעַל זְבוּב (Baal-zebub, "lord of flies"; Ekron's oracle-god) | **พระบาอัลเซบูบ** — descriptor `เทพเจ้าแห่งเอโครน` | 2 Kings 1:2, 1:3, 1:6, 1:16 |
 
 **Rules:**
 - Descriptor noun → `เทพ` (m.) / `เทพี` (f.): e.g. `พระอัชเทเรทเทพีของชาวซีโดน`. The proper name keeps `พระ-`; the common-noun descriptor is `เทพ/เทพี`.
 - **Never `พระเจ้า`** for any pagan deity (same boundary as the NT Rule 1).
 - Idolatrous serve/bow → `ปรนนิบัติ / กราบไหว้` (NOT `นมัสการ`, reserved for YHWH) — per `ot_register_policy_2026-05.md` §3.2.
 - Pagan deities take **no** `ราชาศัพท์` (`ทรง`) for their (non-)actions; the worshippers' vocative is `โอ พระบาอัล` (not `ข้าแต่`, which is reserved for YHWH).
+- **The `พระ-` proper-name prefix is exceptionless — including for contemptible/mocked deities** (added 2026-05-25, 2 Kings EOB Item A). `พระ-` is a Thai **deity-title marker**, not a token of respect, so it attaches to *every* proper-name pagan deity regardless of how the text regards it. Baal-zebub (בַּעַל זְבוּב, the "fly-lord" oracle Ahaziah sinfully consults in 2 Kings 1) takes `พระบาอัลเซบูบ` just like `พระบาอัล`, `พระอัชเทเรท`, `พระเคโมช`, `พระโมเลค`, `พระอัดรัมเมเลค/พระอานัมเมเลค` (2 Kings 17:31). The condemnation is carried by **(a)** the narrative, **(b)** the `เทพเจ้า` descriptor (`เทพเจ้าแห่งเอโครน`, never the reserved `พระเจ้า`), and **(c)** the plain `สอบถาม` for consulting it (vs. honorific `ทูลถาม` for inquiring of YHWH — the `דרשׁ` register-split in 2 Kings 1:2,3,6,16). Dropping `พระ-` from a single deity would be an unmotivated exception, so it is normalized in. *Two independent external AIs (ChatGPT + Gemini) converged on this fix at the 2 Kings EOB review.*
 
 **`อัชเทเรท` spelling lock + 1 Samuel caveat:** `อัชเทเรท` is the corpus standard for the **singular** `עַשְׁתֹּרֶת` (1 Kings 11:5/33; matches the Judges form — the Former Prophets are converging). **However**, 1 Samuel uses the **plural** `עַשְׁתָּרוֹת` (Ashtaroth — 1 Sam 7:3–4; 12:10; 31:10), a genuine morphological plural, not a misspelling. Before "normalizing the 1 Samuel Ashtoreth drift" (as the external reviewers suggested), **verify** whether each 1 Samuel occurrence is singular or plural: a plural should keep a plural-aware surface (`บรรดาพระอัชเทเรท` / `พระอัชทาโรท`), not be flattened to the singular `อัชเทเรท`.
 

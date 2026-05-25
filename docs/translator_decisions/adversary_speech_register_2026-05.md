@@ -46,6 +46,18 @@ A: Pharisees and human-religious-opponents are NOT in the adversary-class for th
 
 ---
 
+## OT extension — human imperial blasphemers (added 2026-05-25, 2 Kings EOB Item B; verdict FINE / lock-as-is)
+
+The Rabshakeh / Sennacherib confrontation (2 Kings 18–19) extends the rule to the OT's **human imperial-blasphemer** class. ChatGPT + Gemini both reviewed 2 Kings's handling as FINE ("threads the needle"); it is locked. **Three register layers interact and must be kept distinct:**
+
+1. **The blasphemer / envoy's speech-act → neutral speech-verbs.** The Rabshakeh (Assyria's field-commander) taunting Jerusalem and YHWH uses plain `กล่าว` / `พูด` / `ร้อง` — never honorific `ทูล` / `เรียน`. He is not in a reverent posture, so his stance is not elevated. Same principle as demon/devil-speech.
+2. **The actual foreign monarch → foreign-royal register, as a head of state.** Sennacherib king of Assyria (the "great king", הַמֶּלֶךְ הַגָּדוֹל) keeps the foreign-emperor register (`ทรง` for his sovereign-political actions) per `ot_register_policy_2026-05.md` §2.2 — he is a real monarch, even while his message is blasphemous. **Register tracks office, not piety.**
+3. **YHWH as referent inside the hostile quotation → divine honorifics preserved.** When the blasphemy itself *names or quotes* YHWH (e.g. 18:35 `องค์พระผู้เป็นเจ้าจะทรงช่วยกู้` — "…will the LORD deliver Jerusalem from my hand?"), the divine referent keeps `ทรง` / `องค์พระผู้เป็นเจ้า`. This is **not** deference to the blasphemer — it preserves the divine referent's own grammar/register **as content**, exactly as Mark 5:7's demon-content keeps `บุตรของพระเจ้า` without elevating the demon's speech-verb (see Edge cases above).
+
+**Forward protection:** Isaiah 36–37 (the direct parallel), Jeremiah (Babylon / Nebuchadnezzar oracles + imperial taunts), Daniel (Nebuchadnezzar's and Belshazzar's boasts, ch. 3–5) — apply the same three-way split: blasphemer's verb neutral; emperor-as-head-of-state keeps royal register; YHWH-as-quoted-referent keeps divine honorifics.
+
+---
+
 ## Cross-reference
 
 - `RULES.md` §3 (royal register) — the source of this rule.
