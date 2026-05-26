@@ -75,6 +75,7 @@ BOOK_SLUGS = {
     "1KI": "1kings",
     "2KI": "2kings",
     "1CH": "1chronicles",
+    "2CH": "2chronicles",
 }
 
 TODO_TH = "__TODO_TH__"
