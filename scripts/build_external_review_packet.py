@@ -83,6 +83,7 @@ BOOKS = {
     "1KI": ("1kings", "1 Kings"),
     "2KI": ("2kings", "2 Kings"),
     "1CH": ("1chronicles", "1 Chronicles"),
+    "2CH": ("2chronicles", "2 Chronicles"),
 }
 
 # OT book codes — the prompt branches on testament so OT packets reference
