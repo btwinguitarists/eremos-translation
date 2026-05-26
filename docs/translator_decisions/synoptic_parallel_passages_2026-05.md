@@ -113,6 +113,20 @@ All 5 footers added in PR `end-of-book-audit-followup-2samuel-2026-05-23`.
 
 ---
 
+## 5.1 Application to 1 Chronicles (applied 2026-05-26)
+
+The reciprocal 1 Chronicles side, per the 1CH end-of-book external review (ChatGPT + Gemini, both CONCERN on documentation completeness — the §2/§3 thresholds flag these as reader-confusing or apologetically prominent). 1CH is translated from its own MT; these Layer-1 `notes` now disclose the Samuel↔Chronicles number divergences:
+
+| Verse | 1 Chr (MT) reading | Samuel parallel | Disposition | Layer |
+|---|---|---|---|---|
+| **21:5** | Israel 1,100,000 + Judah 470,000 | 2 Sam 24:9 — Israel 800K + Judah 500K | **Preserve MT** | Layer-1 note (reciprocal to the 2 Sam 24:9 footer above) |
+| **21:25** | 600 shekels of **gold** (for the site) | 2 Sam 24:24 — 50 shekels of **silver** (floor + oxen) | **Preserve MT** | Layer-1 note (appended to the existing temple-site note) |
+| **11:11** | Jashobeam slew **300** at once | 2 Sam 23:8 (Josheb-basshebeth) — **800** | **Preserve MT** | Layer-1 note (appended to the existing name-spelling note) |
+
+Pre-audit 1CH notes already covered the name/agent divergences (21:1 Satan vs 2 Sam 24:1 YHWH incitement [E key-decision]; 20:5 Elhanan/Lahmi vs 2 Sam 21:19; 11:11 Jashobeam/Josheb-basshebeth spelling). **Threshold for the coming 2 Chronicles bulk:** document name/agent/substantial-number divergences that are famous, apologetically prominent, or reader-confusing vs Kings — *not* every minor orthographic/numeric variant (both reviewers' explicit guidance, to keep the notes layer signal-rich).
+
+---
+
 ## 6. Forward application — what's coming
 
 **Psalter (~2026-Q4 / 2027-Q1):**

@@ -57,7 +57,11 @@ PHRASE_LOCKS = [
         "doc": "malak_yhwh_2026-05.md",
         "label": "מַלְאַךְ יְהוָה / מַלְאַךְ הָאֱלֹהִים (angel of the LORD/God)",
         "hebrew_patterns": [r"מלאך\s*יהוה", r"מלאך\s*ה?אלהים"],
-        "books": ["1KI ", "2KI "],  # Kings-scoped for now; cross-book retrofit (Gen/Judg/Sam) is the malak doc §3 backlog
+        # Kings + Chronicles. 1CH 21 (threshing-floor; the 2 Sam 24 parallel) audited
+        # clean 2026-05-26. Patterns key on מלאך+divine-name, so genealogies and human
+        # messengers (bare מלאך / מלאכים) never match — safe to widen without false
+        # positives. Cross-book retrofit (Gen/Judg/Sam/Zech) remains the §3 backlog.
+        "books": ["1KI ", "2KI ", "1CH ", "2CH "],
         "expected_thai_contains": "ทูตสวรรค์",
         "must_not_contain": [],
         "exceptions": {},
