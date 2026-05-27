@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-05-27 04:10:18 UTC_
-_Total chapters: 673 · Total verses: 20168_
+_Generated: 2026-05-27 04:43:19 UTC_
+_Total chapters: 674 · Total verses: 20196_
 
 ## How to verify a chapter
 
@@ -365,7 +365,8 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/ezra_03.json` | 13 | `c5626715e3c69afed37f27016bc20fd10df89ea034c10e4db6d1f8d7b0be57a0` | `bdb6697` |
 | `output/translations/ezra_04.json` | 24 | `1c75599c6d8a69497b1c3a0d2c7fbfd84679e6c763a17cc69306fb0c4b77745e` | `fcb5c1b` |
 | `output/translations/ezra_05.json` | 17 | `0f0e9ab52b46fadafe0518b30d01b4ebd1cf9df20a6cd959d6e75028d3b7d249` | `b90bcc2` |
-| `output/translations/ezra_06.json` | 22 | `e7e4ff54f700750895020b9ee8cd690638e55c307b562e67132b35a00df62c53` | `—` |
+| `output/translations/ezra_06.json` | 22 | `e7e4ff54f700750895020b9ee8cd690638e55c307b562e67132b35a00df62c53` | `8802631` |
+| `output/translations/ezra_07.json` | 28 | `a6082984638c8f45df6f05b06820d1428e64882bf0de5e7e6eec70cbdc043573` | `—` |
 | `output/translations/galatians_01.json` | 24 | `035ddedcfa78dc62c0b92157bf4994621fc83013e47dddcd19e7c6dc72898a9b` | `7e99948` |
 | `output/translations/galatians_02.json` | 21 | `ef020b08541758508e9a1f2f037cacbe28d8a2ac6cb0f25e7dc1990b4b880083` | `cf6bd38` |
 | `output/translations/galatians_03.json` | 29 | `f801401758fdf4a581484ea509024725a3a4242acb42624cac27a998b6894fa4` | `fcff53c` |
