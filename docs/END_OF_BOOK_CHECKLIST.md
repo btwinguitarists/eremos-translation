@@ -60,8 +60,9 @@ For end-of-book external review by Grok / ChatGPT / Gemini / Claude:
 
 - [ ] Distill the audit's REVIEW / DECIDE items into a handwritten `docs/end_of_book/{book}/external_review_items_{BOOK}.md` (one `## Item A — ...` block per item, with verse evidence inline; see `docs/end_of_book/acts/external_review_items_ACT.md` for shape).
 - [ ] Run: `python3 scripts/build_external_review_packet.py {BOOK} --items docs/end_of_book/{book}/external_review_items_{BOOK}.md` — produces `docs/end_of_book/{book}/external_review_packet_{BOOK}_{YYYY-MM-DD}.md` sized for free-tier AI ceilings (~20K chars).
-- [ ] Paste the generated packet into Grok and at least one other AI (ChatGPT / Gemini / Claude) — copy responses back to the project session for cross-checking.
-- [ ] AI findings: cross-check verse claims against translation JSONs (AIs occasionally hallucinate verse content); spot-revise where warranted; update the audit doc with verified flags.
+- [ ] Run `python3 scripts/external_review_status.py` — refreshes `docs/end_of_book/_external_inbox/QUEUE.md` (auto-detects the new book as pending).
+- [ ] **Cowork (browser agent)** gathers replies: paste `docs/COWORK_EXTERNAL_REVIEW_INSTRUCTIONS.md` into Cowork — it opens each packet's public URL, pastes into Gemini + ChatGPT (benvanscyoc@gmail.com), and commits `docs/end_of_book/_external_inbox/<CODE>_raw.md` per book. Can be run on any cadence (daily/weekly/on-ship); idempotent on empty queue. **Why Cowork + two external models, not Claude alone:** §3's whole point is independent eyes on Claude-made translation — Claude reviewing itself shares the same blind spots.
+- [ ] **Claude Code** processes the raw inbox file: cross-checks every verse claim against `output/translations/<slug>_NN.json` (catches hallucinations), synthesizes per the format in `_external_inbox/README.md`, writes the worked `docs/end_of_book/{book}/external_review_response_{BOOK}_{YYYY-MM-DD}.md`, and opens a PR. Proposed verse edits are flagged for Ben's sign-off — Claude never auto-edits shipped/locked surfaces.
 
 The external AI review surfaces items the per-chapter automated checks can't see (corpus-level drift, undocumented rationale, forward-compounding risk). Pattern from prior books: AIs frequently restate things the project already does, but occasionally surface a real corpus-level question (e.g., MAT 18 ἐκκλησία).
 
