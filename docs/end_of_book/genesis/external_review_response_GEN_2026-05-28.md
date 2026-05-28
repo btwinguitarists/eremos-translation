@@ -75,11 +75,11 @@ Layer-2 metadata additions (lower-risk; could batch):
 ## Proposed new / amended translator decision docs (priority-ordered)
 
 **Highest priority (overdue — books have already shipped past these):**
-- **New: `mt_vs_lxx_textual_variant_handling_2026-05.md`** — both AIs MAJOR; needed *before* the books that already shipped (Joshua, Samuel, Kings, Jeremiah is upcoming, Esther/Daniel upcoming, Ezra-Nehemiah ongoing). Cross-reference NT-side doc. This is the single most-cited "write this doc" across the whole backlog (also flagged by 1KI Item B and EZR Item C).
+- **Amend (already exists): `mt_vs_lxx_textual_variant_handling_2026-05.md`** — both AIs MAJOR; needed *before* the books that already shipped (Joshua, Samuel, Kings, Jeremiah is upcoming, Esther/Daniel upcoming, Ezra-Nehemiah ongoing). Cross-reference NT-side doc. This is the single most-cited "write this doc" across the whole backlog (also flagged by 1KI Item B and EZR Item C).
 - Amend `nicham_divine_relenting_2026-05.md` — two-subtype rule (grief/relenting) before Joel/Amos/Jeremiah.
 
 **Before Pauline gender passages:**
-- **New: `gender_passages_thai_register_2026-05.md`** — anchor at GEN 3:16; will govern Pauline gender texts.
+- **Amend (already exists): `gender_passages_thai_register_2026-05.md`** — anchor at GEN 3:16; will govern Pauline gender texts.
 
 **Before later angelology / spirit hierarchy:**
 - Amend `spiritual_beings_hierarchy_2026-05.md` — anchor Genesis 6 as foundation for apocalyptic angelology.

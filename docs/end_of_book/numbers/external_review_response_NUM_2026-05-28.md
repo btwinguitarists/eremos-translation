@@ -68,10 +68,10 @@
 
 **Highest priority (paired with EXO normalization):**
 - Enforce `exod_34_attribute_formula_2026-05.md` corpus-wide via `check_phrase_consistency.py` extension.
-- **New: `malak_yhwh_2026-05.md`** — unified lock covering EXO/NUM/1KI/2CH normalizations + 1CH/2KI documented variation.
+- **Amend (already exists): `malak_yhwh_2026-05.md`** — unified lock covering EXO/NUM/1KI/2CH normalizations + 1CH/2KI documented variation.
 
 **Before Deuteronomy / Joshua tagging:**
-- **New: `ot_warfare_ethics_2026-05.md`** — forward policy for ḥerem/warfare/sexual-violence texts. Layer-2 footers at NUM 25 + NUM 31.
+- **Amend (already exists): `ot_warfare_ethics_2026-05.md`** — forward policy for ḥerem/warfare/sexual-violence texts. Layer-2 footers at NUM 25 + NUM 31.
 
 **Coordinated with JOS Item E + JDG Item B:**
 - **Amend `divine_names_table_2026-05.md`** with the 4-way Adonai distinction (standalone prayer-vocative = `องค์พระผู้เป็นเจ้าของข้าพระองค์`; NUM 14:17 anchor).

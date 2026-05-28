@@ -59,7 +59,7 @@
 
 - Amend `psyche_vs_pneuma_anthropological_2026-04.md` — document two explicit exceptions (1Th 5:23 trichotomy; HEB 4:12 Word-piercing doublet) per ChatGPT's structure.
 - Revise/finalize `hagiasmos_hagiosune_2026-04.md` — allow both ความบริสุทธิ์ (state) and การชำระให้บริสุทธิ์ (process) context-dependent; **don't enforce a rigid lock**.
-- **New: `hilasterion_hilasmos_bifurcation_2026-05.md`** — joint doc with 1JN Item B; ROM 3:25 = เครื่องบูชาไถ่บาป; HEB 9:5 = พระที่นั่งกรุณา; ἱλασμός (1JN 2:2, 4:10) = เครื่องบูชาไถ่บาป.
+- **Amend (similar exists — verify scope of `hilasterion_heb-rom_distinction_2026-05.md` covers ἱλασμός too)** — joint doc with 1JN Item B; ROM 3:25 = เครื่องบูชาไถ่บาป; HEB 9:5 = พระที่นั่งกรุณา; ἱλασμός (1JN 2:2, 4:10) = เครื่องบูชาไถ่บาป.
 - New corpus rule: NT authorial citation form takes priority in NT translation even when it materially diverges from MT-OT. Anchor: HEB 10:5.
 
 ## Provenance
