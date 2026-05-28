@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-05-27 06:30:45 UTC_
-_Total chapters: 677 · Total verses: 20291_
+_Generated: 2026-05-28 15:57:23 UTC_
+_Total chapters: 678 · Total verses: 20302_
 
 ## How to verify a chapter
 
@@ -369,7 +369,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/ezra_07.json` | 28 | `a6082984638c8f45df6f05b06820d1428e64882bf0de5e7e6eec70cbdc043573` | `dfad48a9` |
 | `output/translations/ezra_08.json` | 36 | `f4064a6b59d3438a95f5d0402fa16dccf7447359e50a41fa2d63a0d8530d346d` | `5287457c` |
 | `output/translations/ezra_09.json` | 15 | `663aadfa61d44260cb5c0cc4eb9d0011728a863f789b775737801f8366212fb6` | `527a8c35` |
-| `output/translations/ezra_10.json` | 44 | `761390179d2bdebb39a5825fae24eec287cf4382923cc0ec58f5223de381075b` | `—` |
+| `output/translations/ezra_10.json` | 44 | `761390179d2bdebb39a5825fae24eec287cf4382923cc0ec58f5223de381075b` | `afa31bab` |
 | `output/translations/galatians_01.json` | 24 | `035ddedcfa78dc62c0b92157bf4994621fc83013e47dddcd19e7c6dc72898a9b` | `7e99948e` |
 | `output/translations/galatians_02.json` | 21 | `ef020b08541758508e9a1f2f037cacbe28d8a2ac6cb0f25e7dc1990b4b880083` | `cf6bd38f` |
 | `output/translations/galatians_03.json` | 29 | `f801401758fdf4a581484ea509024725a3a4242acb42624cac27a998b6894fa4` | `fcff53c6` |
@@ -610,6 +610,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/matthew_26.json` | 75 | `d4aae1cfd129168927958ea2498c9499206a6ae0b0811f2b36eef24a000940cc` | `b64d4872` |
 | `output/translations/matthew_27.json` | 66 | `ede80c0f042b5e0c0e3fd315a0d79755083465fb618d7e121d749e2a283d9a1c` | `b64d4872` |
 | `output/translations/matthew_28.json` | 20 | `08b0d3ac30a8cd650af17b3745333beb29228308b6429b951f984b5a845c843b` | `6d15bb1a` |
+| `output/translations/nehemiah_01.json` | 11 | `21fd88d60f52660f316693c96cfe1bca291ea6fb85bf52a5f398bfe6a80d7599` | `—` |
 | `output/translations/numbers_01.json` | 54 | `2ccd9ead0eb48ce1c682853f2778520fbde91632b7e931be6e6f9db366fdb7c5` | `c37f233b` |
 | `output/translations/numbers_02.json` | 34 | `946fbcf6d92055e1267a4e9288b8710a6b094f13675ba239e552396e2ca0a76b` | `00744173` |
 | `output/translations/numbers_03.json` | 51 | `788768883bfc57ed32163d4fc91294004779d9e4f4f932f7a8fa0d605c64f354` | `ba9e49c2` |
