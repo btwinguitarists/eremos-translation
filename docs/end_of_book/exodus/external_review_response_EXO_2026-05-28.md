@@ -78,10 +78,10 @@
 
 **Highest priority — required before tagging book-exodus-v1:**
 - Amend (or write) `exod_34_attribute_formula_2026-05.md` enforcement — script + verses normalized.
-- **New: `malak_yhwh_2026-05.md`** — corpus-wide lock; multi-book normalization queue (EXO/NUM/1KI mentioned; 1CH/2CH machine scope).
-- **New: `kapporet_atonement_cover_2026-05.md`** — lock пра that นั่งกรุณา (per HEB 9:5 alignment); explains כפר / ἱλαστήριον connection for LEV 16, ROM 3:25, HEB 9:5.
-- **New: `ot_polytheistic_register_2026-05.md`** — distinguish preserved divine-council / incomparable-among-gods idiom from idolatry-polemic contexts.
-- **New: `pharaoh_heart_hardening_2026-05.md`** — 3-Hebrew-roots-to-single-Thai principle.
+- **Amend (already exists): `malak_yhwh_2026-05.md`** — corpus-wide lock; multi-book normalization queue (EXO/NUM/1KI mentioned; 1CH/2CH machine scope).
+- **Amend (already exists): `kapporet_atonement_cover_2026-05.md`** — lock пра that นั่งกรุณา (per HEB 9:5 alignment); explains כפר / ἱλαστήριον connection for LEV 16, ROM 3:25, HEB 9:5.
+- **Amend (already exists): `ot_polytheistic_register_2026-05.md`** — distinguish preserved divine-council / incomparable-among-gods idiom from idolatry-polemic contexts.
+- **Amend (already exists): `pharaoh_heart_hardening_2026-05.md`** — 3-Hebrew-roots-to-single-Thai principle.
 - Amend `divine_names_table_2026-05.md` — two-category YHWH compound rule (place/altar-name → translit+gloss; self-attribution → paraphrase).
 - Amend `hebrew_idioms_and_metaphor_2026-05.md` — פָּנִים sub-rule (motion idiom → การประทับ; sensory verbs for YHWH → พระพักตร์).
 

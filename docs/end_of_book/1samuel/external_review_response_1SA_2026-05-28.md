@@ -84,8 +84,8 @@
 ## Proposed new / amended translator decision docs
 
 **Highest priority — the Spirit lock is the single biggest backlog item:**
-- **New: `spirit_empowerment_formulas_2026-05.md`** (paired with JDG Item A) — 4-way verb-class split; covers JDG 6:34, 1 Chr 12:18, 2 Chr 24:20.
-- **New: `evil_spirit_from_yhwh_1sam_2026-05.md`** — defines the evil-spirit cluster's separate Thai surface; 16:14 split rule; 18:10 carve-out.
+- **Amend (similar exists — verify `spirit_of_yhwh_empowerment_2026-05.md` covers the 4-way verb-class split)** (paired with JDG Item A) — 4-way verb-class split; covers JDG 6:34, 1 Chr 12:18, 2 Chr 24:20.
+- **Amend (already exists): `evil_spirit_from_yhwh_1sam_2026-05.md`** — defines the evil-spirit cluster's separate Thai surface; 16:14 split rule; 18:10 carve-out.
 
 **Pagan-deity register lock:**
 - **Amend `ot_polytheistic_register_2026-05.md`** — principled OT/NT split (OT named-deity may use พระ but never พระเจ้า; NT/Greco-Roman uses เทพ/เทพเจ้า/เทพี); Ashtoreth = อัชเทเรท; Dagon, Baal locks.
@@ -94,7 +94,7 @@
 - **New: `necromancy_ob_yiddeoni_2026-05.md`** — descriptive Thai for אוֹב / יִדְּעֹנִי; 28:13 note about plural אֱלֹהִים + plural participle narrowing to Samuel.
 
 **MT/LXX policy (umbrella):**
-- **New: `mt_vs_lxx_textual_variant_handling_2026-05.md`** (multi-book umbrella doc — also flagged by GEN F, 1KI B, EZR C). Covers the 1 Sam 17 minus + 14:41 Urim/Thummim + 13:1 damage policy.
+- **Amend (already exists): `mt_vs_lxx_textual_variant_handling_2026-05.md`** (multi-book umbrella doc — also flagged by GEN F, 1KI B, EZR C). Covers the 1 Sam 17 minus + 14:41 Urim/Thummim + 13:1 damage policy.
 
 ## Provenance
 

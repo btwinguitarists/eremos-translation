@@ -1,64 +1,84 @@
 # 1 Kings external review — response + proposed actions
 
-**Date:** 2026-05-28
-**Reviewers:** Gemini only (ChatGPT paste failed during Cowork run — retry recommended)
+**Date:** 2026-05-28 (ChatGPT data added later same day)
+**Reviewers:** Gemini + ChatGPT
 **Audit packet:** `docs/end_of_book/1kings/external_review_packet_1KI_2026-05-24.md`
 **Raw replies:** `docs/end_of_book/_external_inbox/1KI_raw.md`
-**Status:** proposed-edits-pending (Item A is a MAJOR CONCERN verse-edit; Item C proposes a multi-king death-formula normalization pass)
+**Status:** proposed-edits-pending (Items A + B + C are both-AI normalization needs; **⚠ Item D is now DIVERGENT — ChatGPT flipped to FINE and explicitly opposes Gemini's normalization**)
 
 ## Convergence summary
 
-| Item | Gemini | Action |
-|------|--------|--------|
-| A — 1 Kgs 19:7 mal'akh-YHWH lock drift | **MAJOR CONCERN** | **PROPOSED VERSE EDIT** — restore ทูตสวรรค์ขององค์พระผู้เป็นเจ้า |
-| B — MT/LXX (3 Reigns) macro-structural divergence gap | CONCERN | Create Tier-4 book-level prefatory note in `1kings_intro.json`; current 3-tier framework inadequate |
-| C — Deuteronomistic regnal-cycle formula drift | CONCERN | **PROPOSED VERSE EDITS** (multi-king) — write/lock `dtr_history_cycle_formulas_2026-05.md` before 2 Kings starts |
-| D — Adonai-YHWH compound at 1 Kgs 8:53 | CONCERN | **PROPOSED VERSE EDIT** — normalize to bare องค์พระผู้เป็นเจ้า; do not add third position-category |
-| E — Pagan-deity register + Ashtoreth spelling convergence | FINE | Lock OT พระ-prefix / NT เทพเจ้า split; lock อัชเทเรท as corpus spelling; cross-book normalize 1 Samuel |
+| Item | Gemini | ChatGPT | Synthesized | Action |
+|------|--------|---------|-------------|--------|
+| A — 1 Kgs 19:7 mal'akh-YHWH lock drift | **MAJOR** | CONCERN | NORMALIZE | **PROPOSED VERSE EDIT** — restore ทูตสวรรค์ขององค์พระผู้เป็นเจ้า (with `กลับมา…` per ChatGPT context) |
+| B — MT/LXX (3 Reigns) macro-structural divergence | CONCERN | **MAJOR** | WRITE BOOK-LEVEL NOTE | **ChatGPT escalates** — needs both book-level prefatory note AND targeted Tier-2 chapter footers (chs 2/11, 12, 20/21); the **MT 20/21 vs LXX 21/20 chapter-order difference** is now in scope |
+| C — Deuteronomistic regnal-cycle formulas | CONCERN | CONCERN | **PROPOSED VERSE EDITS** | Both: write `dtr_history_cycle_formulas_2026-05.md` **before 2 Kings starts**; ChatGPT supplies the canonical "high places" surface and locks death-formula ทรง for *all* kings |
+| D — Adonai-YHWH compound at 1 Kgs 8:53 | CONCERN (revise) | **FINE** (lock as shipped) | **⚠ DIVERGENT** | Gemini: normalize to bare. ChatGPT: lock as shipped + refine rule by *discourse function* (not position). **Ben breaks tie.** |
+| E — Pagan-deity register + Ashtoreth | FINE | FINE | LOCK | Lock the OT พระ-prefix / NT เทพเจ้า split + อัชเทเรท spelling; ChatGPT supplies the explicit 4-rule pagan-deity policy |
 
 ## Items in detail
 
-### Item A — 1 Kgs 19:7 mal'akh-YHWH lock drift  (MAJOR CONCERN)
-- **Gemini:** Shipped text translates מַלְאַךְ יְהוָה as ทูตขององค์พระผู้เป็นเจ้า, directly violating the forward-protective lock that explicitly targeted this chapter. Dropping "สวรรค์" also creates internal inconsistency with 19:5 (ทูตสวรรค์), with no contextual justification.
-- **Action:** Spot-revise 1 Kgs 19:7 to ทูตสวรรค์ขององค์พระผู้เป็นเจ้า; tick "1 Kings 19" on `malak_yhwh_2026-05.md` checklist; lock.
+### Item A — 1 Kgs 19:7 mal'akh-YHWH lock drift
+- **Gemini:** MAJOR. Shipped text translates מַלְאַךְ יְהוָה as ทูตขององค์พระผู้เป็นเจ้า — direct violation of the forward-protective lock that explicitly targeted this chapter. Dropping "สวรรค์" creates internal inconsistency with 19:5 (ทูตสวรรค์).
+- **ChatGPT:** CONCERN. Real lock violation, not defensible stylistic variation. 19:5 and 19:7 refer to the same angelic figure in the same Elijah pericope; Hebrew at 19:7 is the stronger compound מַלְאַךְ יְהוָה, not a looser generic messenger.
+- **Action:** Spot-revise 1 Kgs 19:7 to `ทูตสวรรค์ขององค์พระผู้เป็นเจ้ากลับมา…`. Ship as `revision/malak-yhwh-1ki-19-2026-05`; tick 1 Kings 19 in `malak_yhwh_2026-05.md`; finish the planned phrase-consistency check **before 2 Kgs 1:3, 15** (ChatGPT's timing).
 
-### Item B — MT/LXX (3 Reigns) macro-structural variant gap
-- **Gemini:** CONCERN. The existing 3-tier framework was built for verse-level pluses/minuses (e.g., John 5:4), inadequate for macro-structural reordering and alternate parallel narratives in Greek 3 Reigns (Solomon reordering, 12:24a–z). Stuffing these into chapter-footer footnotes obscures scale and fails the transparency goal.
-- **Action:** Create a Tier-4 category for macro-structural MT/LXX divergences; implement as a book-level prefatory note (`1kings_intro.json`) stating the MT-base decision and summarizing major structural differences in 3 Reigns. Don't over-stuff Tier-2 chapter files.
+### Item B — MT/LXX (3 Reigns) macro-structural divergence (ChatGPT MAJOR)
+- **Gemini:** CONCERN. Existing 3-tier framework inadequate for the macro-structural reordering + alternate parallel narratives in Greek 3 Reigns (Solomon reordering, 12:24a–z). Create Tier-4 book-level prefatory note (`1kings_intro.json`).
+- **ChatGPT:** **MAJOR.** Shipped MT-base text is fine; transparency layer is incomplete. 1 Kings has **macro-structural divergence**: reordered Solomon material, large miscellany blocks, alternate Jeroboam narrative, and the **MT 20/21 vs LXX 21/20 chapter-order difference**. A book-level orientation is needed because divergence affects the *shape* of the book, not just isolated verses.
+- **Action:** Add book-level prefatory textual note: *"This translation follows the Hebrew Masoretic Text; the ancient Greek 3 Reigns preserves a substantially different order and expanded/alternate presentation in several Solomon/Jeroboam sections."* Then add targeted Tier-2 chapter footers **at minimum for chs 2/11, 12, and 20/21** (ChatGPT's chapter list). Update the textual-variant framework with an explicit macro-structural MT/LXX divergence category.
 
-### Item C — Deuteronomistic regnal-cycle formula drift
-- **Gemini:** CONCERN. Formulaic nature of Kings demands a locked standard. Drifts include: ชั่ว vs ชั่วร้าย (22:53 vs 11:6); inconsistent "high places" vocabulary (15:14 vs 22:44); inconsistent withholding of royal ทรง in death formulas of Baasha, Omri, Ahab (Jeroboam — also archetypally wicked — retains ทรง, so the withholding looks like drift, not principled delegitimization).
-- **Action:** Write and lock `dtr_history_cycle_formulas_2026-05.md` **before 2 Kings starts**. Normalize 22:53 to ทำสิ่งชั่วร้าย; standardize one canonical "high places" surface; normalize death formula to uniform ทรงล่วงหลับ across all kings.
+### Item C — Deuteronomistic regnal-cycle formulas
+- **Gemini:** CONCERN. Formulaic nature demands a locked standard. Drifts include 22:53's ทำชั่ว vs 11:6's ทำสิ่งชั่วร้าย; inconsistent "high places" vocabulary; death-formula ทรง withheld for Baasha/Omri/Ahab but kept for Jeroboam — looks like drift, not principled delegitimization.
+- **ChatGPT:** CONCERN. Same. **Specifics added:**
+  - 22:53 → normalize ทำสิ่งชั่ว → `ทำสิ่งชั่วร้าย`.
+  - **Canonical "high places" surface:** `สถานบูชาบนที่สูงทั้งหลายยังไม่ได้ถูกกำจัดออกไป` — preserves the cult-site sense of בָּמוֹת + keeps the "not removed" logic broad enough for later Kings.
+  - **Death-formula ทรง:** treat as drift, not principled. Thai royal/honorific register should track **kingly office in narrator voice**, not moral legitimacy. Since Jeroboam (archetypal wicked) retains ทรง, the Baasha/Omri/Ahab omission isn't a coherent delegitimization pattern. Normalize to uniform `ทรงล่วงหลับ…ขึ้นครองราชย์แทน` for kings unless a future doc explicitly authorizes register-withholding.
+- **Action:** Write `dtr_history_cycle_formulas_2026-05.md` **before shipping 2 Kings.** Lock all five core formula surfaces with ChatGPT's specifics. Spot-revise 22:53 + the high-places verses + the death-formula verses for Baasha/Omri/Ahab.
 
-### Item D — Adonai-YHWH compound at 1 Kgs 8:53
-- **Gemini:** CONCERN. ข้าแต่ at the sentence-final position of 1 Kgs 8:53 treats a sentence-final compound as an initial interjection, stretching both Thai grammar (where ข้าแต่ strictly opens deferential address) and the 2026-05-23 sub-rule. Adding edge-case rules over-fits.
-- **Action:** Spot-revise 1 Kgs 8:53 to bare องค์พระผู้เป็นเจ้า per the existing appositional rule. Do not add a third position-category — rely on the mid-sentence/appositional anchor.
-- **Cross-book agreement:** 2 Samuel's review (Item B there) reaches the same conclusion from the other direction — bare appositional in mid-sentence — and proposes a divine-names-table amendment to formalize the syntactic split.
+### Item D — Adonai-YHWH compound at 1 Kgs 8:53  (**⚠ DIVERGENT**)
+- **Gemini:** CONCERN. Using ข้าแต่ at sentence-final position of 8:53 stretches Thai grammar (where ข้าแต่ strictly opens deferential address). Normalize 8:53 to bare `องค์พระผู้เป็นเจ้า` per the appositional rule; don't add a third position-category.
+- **ChatGPT:** **FINE.** *Don't* revise 8:53. The compound closes a sustained prayer as a direct address, functionally similar to "O Lord GOD" — even without leading particles like אֲהָהּ / בִּי / אָנָּא. Treating it as mere appositional under-reads its discourse function at the prayer's climax. **Lock 1 Kgs 8:53 as shipped:** `…ออกจากอียิปต์ ข้าแต่องค์พระผู้เป็นเจ้า`.
+- **ChatGPT's rule-refinement (an alternative to the position-based rule):**
+  > **Direct-address prayer/vocative use of אֲדֹנָי יְהוִה → `ข้าแต่องค์พระผู้เป็นเจ้า`, whether initial or climactic-final.**
+  > **Appositional/self-referential covenant-prayer use without direct vocative force → bare `องค์พระผู้เป็นเจ้า`.**
+  >
+  > Explains Joshua 7, Judges 6, 2 Samuel 7, and 1 Kings 8 under one discourse-function distinction.
+- **⚠ Action — Ben breaks the tie:** Gemini wants to revise 8:53 to bare. ChatGPT explicitly wants to lock 8:53 as shipped + adopt a discourse-function rule. **ChatGPT's rule is more coherent across the corpus** (it explains JOS 7 + JDG 6 + 2 SA 7 + 1 KI 8 under one principle, rather than building anchor exceptions for each). Recommended path: take ChatGPT's discourse-function rule and lock 8:53; supersede the position-based rule.
 
-### Item E — Pagan-deity register + Ashtoreth spelling convergence
-- **Gemini:** FINE. 1 Kings successfully applies the theological boundary (never พระเจ้า for pagan deities) while keeping the พระ proper-noun prefix, solidifying a clear OT/NT register split. Independent convergence on อัชเทเรท across Judges + 1 Kings establishes an organic corpus precedent.
-- **Action:** Lock OT พระ-prefix / NT เทพเจ้า generic-god distinction in `ot_polytheistic_register_2026-05.md`; establish อัชเทเรท as locked corpus spelling; spot-revise 1 Samuel's drifts (4 different spellings flagged in 1SA Item D).
+### Item E — Pagan-deity register + Ashtoreth spelling
+- **Gemini:** FINE. 1 Kings applies the theological boundary (never พระเจ้า for pagan) while keeping พระ proper-noun prefix; cross-book convergence on อัชเทเรท across Judges + 1 Kings.
+- **ChatGPT:** FINE. Same. **Explicit policy structure (worth folding in verbatim):**
+  - **OT proper-name deities:** พระบาอัล, พระอัชเทเรท, พระเคโมช, etc.
+  - **OT descriptors:** เทพ, เทพี, เทพอันน่าสะอิดสะเอียน, etc.
+  - **NT generic pagan-god language:** เทพเจ้า where context calls for generic "gods."
+  - **Never** use พระเจ้า for pagan deities.
+- **Action:** Update `pagan_deities_2026-04.md` / `ot_polytheistic_register_2026-05.md` with ChatGPT's 4-rule policy. Lock อัชเทเรท as the corpus form. Normalize the 1 Samuel Ashtoreth drift to match Judges + 1 Kings.
 
 ## Proposed verse edits — REQUIRES BEN SIGN-OFF
 
-1. **1 Kgs 19:7** — restore ทูตสวรรค์ขององค์พระผู้เป็นเจ้า (MAJOR CONCERN; mal'akh-YHWH lock drift). Source: Gemini Item A.
-2. **1 Kgs 22:53** — change ทำชั่ว → ทำสิ่งชั่วร้าย per locked DTr formula. Source: Gemini Item C.
-3. **1 Kgs 15:14 + 22:44** (and other "high places" verses) — normalize to one canonical surface (Ben to pick). Source: Gemini Item C.
-4. **Death-formula verses for Baasha, Omri, Ahab** — restore royal ทรง to ทรงล่วงหลับ to match Jeroboam pattern. Source: Gemini Item C.
-5. **1 Kgs 8:53** — normalize Adonai-YHWH compound to bare องค์พระผู้เป็นเจ้า (drop sentence-final ข้าแต่). Source: Gemini Item D.
-6. **1 Samuel — multiple Ashtoreth spellings** (4 variants flagged) → normalize to อัชเทเรท. Cross-book; depends on Ben locking the spelling. Source: Gemini Item E + 1SA Item D agreement.
+1. **1 Kgs 19:7** — restore `ทูตสวรรค์ขององค์พระผู้เป็นเจ้ากลับมา…` (Item A; both AIs; ship as `revision/malak-yhwh-1ki-19-2026-05`).
+2. **1 Kgs 22:53** — `ทำสิ่งชั่ว` → `ทำสิ่งชั่วร้าย` (Item C; both AIs).
+3. **1 Kgs 15:14 + 22:44 + other "high places" verses** — normalize to ChatGPT's canonical surface: `สถานบูชาบนที่สูงทั้งหลายยังไม่ได้ถูกกำจัดออกไป`.
+4. **Death-formula verses for Baasha, Omri, Ahab** — restore royal `ทรง` to `ทรงล่วงหลับ…ขึ้นครองราชย์แทน` (uniform across kings; matches Jeroboam pattern).
+5. **1 Kgs 8:53** — **⚠ DIVERGENT** — Ben to decide:
+   - Gemini direction: normalize to bare `องค์พระผู้เป็นเจ้า` (position-based rule).
+   - ChatGPT direction: **lock as shipped** + adopt discourse-function rule corpus-wide. *(Recommended — more coherent across JOS 7 / JDG 6 / 2 SA 7 / 1 KI 8.)*
+6. **1 Samuel — multiple Ashtoreth spellings + Baal** — normalize to อัชเทเรท / พระบาอัล corpus form (Item E; cross-book).
 
 ## Proposed new / amended translator decision docs
 
-- **New: `dtr_history_cycle_formulas_2026-05.md`** — lock evaluation-formula surface, "high places" surface, death-formula register before 2 Kings. **Highest priority — should land before next OT regnal book ships.**
-- Amend `malak_yhwh_2026-05.md` — tick 1 Kings 19 on §3 checklist.
-- Amend `ot_polytheistic_register_2026-05.md` — formalize OT พระ- / NT เทพเจ้า split; lock อัชเทเรท spelling.
-- **New: Tier-4 macro-structural variant policy** — book-level prefatory notes (`<book>_intro.json`); 3 Reigns the immediate test case.
+**Highest priority — before 2 Kings tag:**
+- **Amend (already exists): `dtr_history_cycle_formulas_2026-05.md`** — lock evaluation-formula, "high places," and death-formula register before 2 Kings. ChatGPT supplies all 5 formula surfaces.
 
-## Proposed audit doc amendments / other notes
+**Macro-structural variant policy:**
+- Update the textual-variant framework with an explicit macro-structural MT/LXX category. Anchor: 1 Kings 3 Reigns. Add book-level prefatory note in `1kings_intro.json` (or whichever file holds book-intro text) covering Solomon reordering + 12:24a–z + MT 20/21 ↔ LXX 21/20 chapter-order.
 
-- The audit doc already flagged 1 Kgs 19:7 as a forward-protective target; this is straightforward implementation of an existing lock, not a new decision.
+**Coordinated cross-book doc:**
+- **Amend `divine_names_table_2026-05.md`** — if Ben adopts ChatGPT's direction for Item D, replace the position-based Adonai-YHWH rule with the **discourse-function rule** (direct-address vocative → ข้าแต่; appositional → bare).
+- **Amend `ot_polytheistic_register_2026-05.md` / `pagan_deities_2026-04.md`** — fold in ChatGPT's 4-rule policy (Item E).
+- **Amend `malak_yhwh_2026-05.md`** — tick 1 Kings 19 on the §3 checklist post-revision.
 
 ## Provenance
 
-Synthesized from `docs/end_of_book/_external_inbox/1KI_raw.md` (Cowork → Gemini, 2026-05-28). All content above is Gemini's findings; no fresh analysis added. **ChatGPT paste failed during the Cowork run** — recommend a retry, especially for Item B (Tier-4 proposal is a structural policy change) and Item C (multi-verse normalization). Verse-edit proposals are flagged for Ben's sign-off per the read-only-translation rule.
+Synthesized from `docs/end_of_book/_external_inbox/1KI_raw.md` (Cowork → Gemini + ChatGPT, 2026-05-28). All content above is the AIs' findings; no fresh analysis added. **One real divergence at Item D** (Adonai-YHWH at 8:53) where ChatGPT flipped from CONCERN to FINE + proposed a structural rule-refinement rather than a verse-edit. ChatGPT escalated B from CONCERN to MAJOR (3 Reigns macro-divergence). Verse-edit proposals flagged for Ben's sign-off.

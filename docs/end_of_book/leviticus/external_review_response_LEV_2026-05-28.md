@@ -69,8 +69,8 @@
 - **Amend `sacrificial_vocabulary_2026-05.md` §5** — recognize ลบมลทินบาป as canonical for ritual-purgation contexts; retain ลบบาป/ไถ่บาป for moral. Write `check_sacrificial_vocab.py`.
 - **Amend the goel doc** — lock `ญาติผู้ไถ่` as canonical human; abbreviated ผู้ไถ่ allowed; พระผู้ไถ่ for divine (Job 19:25, Isaiah anchors).
 - **Amend `proper_names_and_transliteration_2026-05.md`** — document ปีจูบีลี as accepted traditional Thai-Christian term + Joshua-yobel split (literal "ram's horn" treatment).
-- **New: `i_am_yhwh_holiness_formula_2026-05.md`** — lock bare + expanded forms + Ezekiel recognition formula + John 8 ego eimi forward-link.
-- **New: `uncover_nakedness_euphemism_2026-05.md`** — explicit hybrid policy covering Deut 22:30, 27:20, Ezek 16/22/23, 1 Cor 5:1.
+- **Amend (already exists): `i_am_yhwh_holiness_formula_2026-05.md`** — lock bare + expanded forms + Ezekiel recognition formula + John 8 ego eimi forward-link.
+- **Amend (already exists): `uncover_nakedness_euphemism_2026-05.md`** — explicit hybrid policy covering Deut 22:30, 27:20, Ezek 16/22/23, 1 Cor 5:1.
 
 ## Process discipline (ChatGPT §Z — important pattern across the backlog)
 

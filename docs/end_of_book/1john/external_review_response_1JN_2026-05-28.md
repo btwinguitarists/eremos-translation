@@ -66,7 +66,7 @@
 
 ## Proposed new / amended translator decision docs
 
-- **New: `hilasterion_hilasmos_bifurcation_2026-05.md`** — split ἱλαστήριον by referent: theological (เครื่องบูชาไถ่บาป) vs physical Heb 9:5 object (พระที่นั่งกรุณา or ฝาพระกรุณา). Both AIs.
+- **Amend (similar exists — verify scope of `hilasterion_heb-rom_distinction_2026-05.md` covers ἱλασμός too)** — split ἱλαστήριον by referent: theological (เครื่องบูชาไถ่บาป) vs physical Heb 9:5 object (พระที่นั่งกรุณา or ฝาพระกรุณา). Both AIs.
 - **New: `johannine_menos_2026-05.md`** — μένω = คงอยู่ default; Revelation exception explicitly noted (do not force in mundane temporal/spatial uses).
 - **New: `johannine_begotten_trinity_2026-05.md`** — three-way distinction (ทรงบังเกิด / องค์เดียว / ได้บังเกิด), **referent-based rule**, anchors at 1JN 5:18 + JHN 1:13–14.
 - **New: `johannine_pastoral_ambiguities_2026-05.md`** — separate from Petrine; catalogue "sin unto death" + similar epistolary cruxes.

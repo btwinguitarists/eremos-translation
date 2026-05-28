@@ -62,7 +62,7 @@
 ## Proposed new / amended translator decision docs
 
 **Highest priority — coordinated lock pattern:**
-- **New: `spirit_empowerment_formulas_2026-05.md`** (Item A) — 4-way verb-class split; includes JDG 6:34, 1 Chr 12:18, 2 Chr 24:20 under the lābash rule. **This is the lock that resolves 1SA's MAJOR Spirit-of-YHWH drift** + protects 2CH 24:20.
+- **Amend (similar exists — verify `spirit_of_yhwh_empowerment_2026-05.md` covers the 4-way verb-class split)** (Item A) — 4-way verb-class split; includes JDG 6:34, 1 Chr 12:18, 2 Chr 24:20 under the lābash rule. **This is the lock that resolves 1SA's MAJOR Spirit-of-YHWH drift** + protects 2CH 24:20.
 - **Amend `divine_names_table_2026-05.md`** with the 4-way Adonai distinction (Item B); JOS 7:7-8 as anchor; recognition-arc principle (6:15→22) documented.
 
 **Cross-book NT-spelling rule:**
@@ -72,7 +72,7 @@
 - **New (small): "brief, trauma-aware notes" policy** — don't suppress Layer-2 entirely on sensitive chapters; restore essential cross-corpus refs.
 
 **Ambiguity-preservation:**
-- **New: `jephthah_vow_2026-05.md`** — literal-sacrifice as default surface; dedication/virginity as historically significant minority (per ChatGPT calibration).
+- **Amend (already exists): `jephthah_vow_2026-05.md`** — literal-sacrifice as default surface; dedication/virginity as historically significant minority (per ChatGPT calibration).
 
 ## Provenance
 

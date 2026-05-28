@@ -33,4 +33,48 @@ Recommended action: lock as-is, and create god_of_heaven_persian_title_2026-05.m
 
 ## CHATGPT
 
-(no usable reply — ChatGPT paste failed; the packet would not paste into the prompt input despite repeated attempts. Retrying in a fresh session is recommended.)
+I'll treat the uploaded Ezra packet as the review request and return the requested verdict/action format, focusing only on the four flagged corpus-level items.
+
+---
+
+The main pattern is clear already: none of the items looks like a tag-blocking verse defect, but two of them do need corpus documentation before Nehemiah/Esther/Daniel.
+
+---
+
+Here's the review in the requested format, treating the uploaded Ezra packet as the base text.
+
+Item A: Foreign monarch register
+
+Verdict: CONCERN — documentation only; shipped text is fine.
+
+Reasoning: The two-tier split is the right rule: narrator voice withholds full royal ทรง register from Persian monarchs, while in-world court speech may use deferential forms such as กราบทูล, พระองค์, พระเกียรติ, and ทรง because that deference belongs to the officials' speech-world, not the narrator's theological endorsement. Ezra 1:7 and 6:1 are rightly plain-register narrator voice; Ezra 4:11, 4:14, and 4:15 are rightly courtly/deferential reported documents.
+
+Recommended action: Lock as-is; write docs/translator_decisions/foreign_monarch_register_2026-05.md and cross-reference ot_register_policy_2026-05.md. Rule: foreign imperial monarchs do not receive full narrator-voice royal register by default; reported court address/decrees may preserve in-world deferential register when the speaker/writer is addressing the monarch.
+
+Item B: Ezra 10:3 אֲדֹנָי — Ezra or the Lord?
+
+Verdict: FINE.
+
+Reasoning: Human "my lord" = Ezra is the better contextual reading despite the MT vocalization. Ezra 10:4 immediately addresses Ezra directly — "Arise, for this matter is your responsibility" — and translation helps explicitly identify "my lord" here as Ezra, not God. TIPs likewise says "my lord" refers to Ezra and should not refer to God; BibleHub's WLC display preserves the pointed אֲדֹנָי while the listed translations still render "my lord."
+
+Recommended action: Lock shipped rendering as human; keep the existing key_decision; classify divine-name warning as a known false positive. No surface footnote needed unless the project wants Hebrew-vocalization transparency notes for technical readers.
+
+Item C: Ezra and 1 Esdras disclosure
+
+Verdict: CONCERN — documentation only; no verse-level change.
+
+Reasoning: 1 Esdras is not a normal MT-vs-LXX verse variant to annotate inside Ezra; it is a separate Greek Ezra form/recension with reordered material and unique material. BiblicalTraining describes 1 Esdras as closely related to 2 Chronicles, Ezra, and Nehemiah, but also notes that 1 Esdras 3:1–5:6 has no OT parallel and contains the Darius/three guardsmen episode.
+
+Recommended action: Add a one-line book-level disposition to mt_vs_lxx_textual_variant_handling_2026-05.md or ot_canon_and_text_base_2026-05.md: "Ezra is translated from MT Ezra. 1 Esdras/Esdras A is treated as a separate Greek recension/book-form, not as a per-verse textual variant of MT Ezra; therefore no Ezra surface textual-variant notes are required."
+
+Item D: "God of heaven" → พระเจ้าแห่งฟ้าสวรรค์
+
+Verdict: FINE.
+
+Reasoning: พระเจ้าแห่งฟ้าสวรรค์ is a defensible and coherent rendering of Hebrew/Aramaic "God of heaven," especially because your corpus already locks ฟ้าสวรรค์ as the theological heaven default. The title in Ezra functions as a Persian-period imperial/diplomatic divine title, but within Ezra's narrative it identifies YHWH as the supreme God, not merely a local or sky deity; Bible.org notes that "God of Heaven" is especially frequent in Ezra and is concentrated in Persian edicts and related official discourse.
+
+Recommended action: Lock as-is; write docs/translator_decisions/god_of_heaven_persian_title_2026-05.md. Do not expand to "Most High" language in the translation line; that would interpret the title rather than translate it. Use explanatory notes only if needed.
+
+§Z: Anything else?
+
+No additional corpus-level concern spotted. The only actionable items are documentation locks for foreign monarch register, 1 Esdras disposition, and God of heaven title consistency.
