@@ -37,4 +37,80 @@ No additional corpus-level anomalies detected in this packet. The handling of th
 
 ## CHATGPT
 
-(no usable reply — ChatGPT paste failed; the packet would not paste into the prompt input despite repeated attempts. Retrying in a fresh session is recommended.)
+I'll treat the uploaded packet as the request for an external sanity-check response and return it in the requested item-by-item format.
+
+---
+
+Item A: Textual-variant Tier-2 reader-footer gap
+
+Verdict: MAJOR CONCERN
+Reasoning: The surface translation is mostly defensible, but the transparency layer is not. 15:7 is an actual MT departure (forty → สี่) and the packet says the project's own policy requires both Layer-1 key_decisions and a Tier-2 reader-facing footer for that category. 24:1, 21:19, 24:9, and 24:13 are not surface problems, but they are high-visibility Samuel↔Chronicles divergences that readers will notice.
+
+Recommended action: Add Tier-2 footer entries before tagging book-2samuel-v1.
+
+Specific recommendation:
+
+Required: 15:7.
+
+Strongly recommended: 24:1 and 21:19.
+
+Also worth adding: 24:9 and 24:13, because once chapter 24 already needs a footer for 24:1, the census/famine numerical variants should not remain invisible.
+
+For 15:7, I would keep เมื่อสี่ปีผ่านไป and add the footer. MT "forty years" is not grammatically impossible, but it is chronologically implausible enough in David's reign context, and the external support for "four" is broad enough, that this is a legitimate controlled emendation. But the policy wording should be tightened so it does not pretend that every MT departure requires absolute semantic impossibility.
+
+Suggested policy refinement:
+
+The project remains MT-anchored. Departures from MT require Layer-1 documentation and a Tier-2 reader note when the MT reading is best explained as a numerical or scribal corruption that creates a serious chronological, contextual, or narrative impossibility/implausibility and is corrected by strong early versional or manuscript support.
+
+That cleanly distinguishes 15:7 from 24:13. In 24:13, "seven years" is difficult beside LXX/Chronicles "three," but it is not narratively impossible in the same way; preserving MT there is consistent with an MT-priority policy.
+
+Item B: Adonai-YHWH compound prayer-vocative
+
+Verdict: FINE
+Reasoning: Bare องค์พระผู้เป็นเจ้า is the right treatment for the 2 Sam 7 appositional vocatives. In 7:18, 7:19, 7:22, 7:28, and 7:29, the compound functions inside David's prayer as appositional address, not as a sentence-initial interjection like "Ah, Lord GOD." Adding ข้าแต่ throughout would over-formalize the Thai and make mid-sentence address feel syntactically heavy.
+
+Recommended action: Lock as-is, but amend divine_names_table_2026-05.md.
+
+Suggested rule:
+
+אֲדֹנָי יְהוִה normally surfaces as องค์พระผู้เป็นเจ้า. Use ข้าแต่องค์พระผู้เป็นเจ้า when the compound occurs in a sentence-initial interjection or petition frame, especially with forms such as אֲהָהּ, בִּי, or אָנָּא. In mid-sentence appositional prayer address, omit ข้าแต่; 2 Sam 7:18–29 is the controlling exemplar.
+
+No verse-surface revision needed.
+
+Item C: Synoptic / parallel-passage corpus doc
+
+Verdict: CONCERN
+Reasoning: The actual 2 Sam 22 handling is good: translate 2 Sam 22 from its own MT form, disclose the Psalm 18 relationship, and preserve book-level textual identity rather than harmonizing. But the absence of a generalized policy will create drift once Psalms, Kings, Isaiah, Jeremiah, and Chronicles accumulate parallel passages.
+
+Recommended action: Write synoptic_parallel_passages_2026-05.md before tagging or before the next major parallel-heavy book.
+
+Lock these principles:
+
+Translate each canonical occurrence from its own MT context. Do not mechanically harmonize 2 Sam 22 to Ps 18, Kings to Isaiah, or Samuel/Kings to Chronicles.
+
+Layer 1: always document known major parallel-passage divergences in key_decisions / notes.
+
+Layer 2: add reader-facing footers when the divergence is theologically prominent, apologetically predictable, numerically contradictory, or when the translation departs from MT.
+
+Standard wording: use concise notes like: "The parallel account in 1 Chronicles 21:1 identifies Satan as the one who incited David; 2 Samuel preserves the wording that the LORD incited David."
+
+Psalter default: when Ps 18 is reached, translate Psalm 18 from Psalm 18's MT, not from 2 Sam 22; footnote meaningful differences back to 2 Sam 22.
+
+So yes: 2 Sam 22's "follow this book's MT, disclose the parallel" approach is the right default.
+
+Item D: "Until this day" leitwort normalization
+
+Verdict: CONCERN
+Reasoning: The issue is not meaning loss but corpus drift. Since 1 Samuel and 2 Samuel are now uniform with จนถึงวันนี้, and Judges is the outlier with จนถึงทุกวันนี้, the bare form has become the better canonical surface. The Hebrew formula does not require the Thai intensifier ทุก-; จนถึงวันนี้ already carries the idiomatic "to this day" force without implying "every single day until now."
+
+Recommended action: Lock עַד הַיּוֹם הַזֶּה → จนถึงวันนี้ in leitwort_handling_policy_2026-05.md, then normalize Judges to match.
+
+Suggested policy entry:
+
+עַד הַיּוֹם הַזֶּה → จนถึงวันนี้ as the default Former-Prophets etiological formula. Avoid จนถึงทุกวันนี้ unless the immediate Thai context independently requires the stronger "still/even now" sense.
+
+No need to revise 1 Samuel or 2 Samuel. Revise Judges occurrences.
+
+§Z: Anything else?
+
+Nothing additional. The packet's four items are the real corpus-level issues. The only release blocker is Item A's missing Tier-2 transparency, especially 15:7.

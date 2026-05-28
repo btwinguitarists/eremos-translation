@@ -61,13 +61,13 @@
 
 **Highest priority — pre-Former-Prophets drift prevention:**
 - Add Seven-Nations ethnonym entries to `glossary.json` for hard-fail on future drift (Item A).
-- **New: `cities_of_refuge_blood_avenger_2026-05.md`** (Item B) — direction pending Ben's confirmation.
+- **Amend (already exists): `cities_of_refuge_blood_avenger_2026-05.md`** (Item B) — direction pending Ben's confirmation.
 
 **Coordinate with NUM warfare-ethics:**
 - **Amend `ot_warfare_ethics_2026-05.md`** — add ḥerem binyan-principled split (Item D); lock Joshua's two-form system corpus-wide.
 
 **Captain-of-host doc:**
-- **New: `captain_of_yhwh_host_2026-05.md`** (Item C) — ambiguity-preserved policy + JOS 5:15 ↔ EXO 3:5 verbatim lock + boundary note vs `malak_yhwh_2026-05.md` + Daniel non-application rule.
+- **Amend (already exists): `captain_of_yhwh_host_2026-05.md`** (Item C) — ambiguity-preserved policy + JOS 5:15 ↔ EXO 3:5 verbatim lock + boundary note vs `malak_yhwh_2026-05.md` + Daniel non-application rule.
 
 **Coordinate with NUM + JDG Adonai:**
 - **Amend `divine_names_table_2026-05.md`** — 4-way Adonai distinction (Item E); JOS 7:8 as locking precedent; NUM 14:17 marked as reviewed exception.

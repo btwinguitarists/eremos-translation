@@ -69,13 +69,13 @@ Layer-2 metadata additions (lower-risk):
 ## Proposed new / amended translator decision docs
 
 **Highest priority — pairs with GEN Item A normalization:**
-- **New: `chesed_covenant_love_2026-05.md`** — lock ความรักมั่นคง corpus-wide; connect to `exod_34_attribute_formula_2026-05.md`. Covers GEN (5 verses) + JON (2 verses) + the 240+ remaining OT occurrences forward-protected.
+- **Amend (already exists): `chesed_covenant_love_2026-05.md`** — lock ความรักมั่นคง corpus-wide; connect to `exod_34_attribute_formula_2026-05.md`. Covers GEN (5 verses) + JON (2 verses) + the 240+ remaining OT occurrences forward-protected.
 
 **Before Joel/Amos/Jeremiah ship:**
-- **New: `nicham_divine_relenting_2026-05.md`** — per ChatGPT's outline (default + distinction + counter-formulae + Jer 18 frame + relenting-not-instability note). Coordinate with GEN Item G's grief/relenting two-subtype amendment.
+- **Amend (already exists): `nicham_divine_relenting_2026-05.md`** — per ChatGPT's outline (default + distinction + counter-formulae + Jer 18 frame + relenting-not-instability note). Coordinate with GEN Item G's grief/relenting two-subtype amendment.
 
 **Cross-book leitwort policy:**
-- **New: `leitwort_handling_policy_2026-05.md`** — principle: preserve Hebrew lexical recurrence in Thai when natural; when non-idiomatic, preserve natural Thai in main text + document the leitwort. Covers "hurl" (Jonah 1) + "until this day" sub-sections (2SA/2KI/1CH/2CH).
+- **Amend (already exists): `leitwort_handling_policy_2026-05.md`** — principle: preserve Hebrew lexical recurrence in Thai when natural; when non-idiomatic, preserve natural Thai in main text + document the leitwort. Covers "hurl" (Jonah 1) + "until this day" sub-sections (2SA/2KI/1CH/2CH).
 
 ## Provenance
 

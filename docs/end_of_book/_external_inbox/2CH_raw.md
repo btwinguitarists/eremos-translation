@@ -45,4 +45,56 @@ Recommended action: Lock จนถึงทุกวันนี้ in leitwort_
 
 ## CHATGPT
 
-(no usable reply — ChatGPT paste failed; the packet would not paste into the prompt input despite repeated attempts. Retrying in a fresh session is recommended.)
+I'll treat the uploaded 2 Chronicles packet as the review target and return the requested item-by-item verdicts, not a general summary.
+
+---
+
+I'm seeing three tag-blocking-type issues: the Spirit honorific in 24:20, the silent MT departure in 36:9, and the unenforced DTr formula scope that allowed Item A. Human-messenger and leitwort normalization look more like deferred corpus-maintenance work.
+
+---
+
+Item A: "Did evil in the eyes of YHWH" formula drift
+
+Verdict: CONCERN
+Reasoning: The Hebrew formula is identical in the cited regnal evaluations, and the packet shows a clean split: 21:6 and 22:4 use the locked ทรงทำสิ่งชั่วร้าย..., while 33:2, 33:6, 33:22, 36:5, 36:9, and 36:12 drift to bare ทรงทำชั่ว.... Since the project already normalized this formula in Kings, allowing ทำชั่ว here weakens the phrase-lock rather than adding meaningful context-sensitive nuance.
+
+Recommended action: Spot-revise 33:2, 33:6, 33:22, 36:5, 36:9, 36:12 to the locked ทรงทำสิ่งชั่วร้าย... surface, preserving มากมาย appropriately in 33:6. Also revise 29:6 to non-royal-subject ได้ทำสิ่งชั่วร้าย... unless the lock is explicitly regnal-only.
+
+Item B: 24:20 Spirit-clothed idiom missing ทรง
+
+Verdict: CONCERN
+Reasoning: This is a straightforward honorific-lock deviation. In 24:20 the subject is พระวิญญาณของพระเจ้า, and the locked לָבַשׁ-class surface requires พระวิญญาณ…ทรงสวมทับ; the shipped Thai has the correct verb-class สวมทับ but omits ทรง.
+
+Recommended action: Spot-revise 24:20 to แล้วพระวิญญาณของพระเจ้าทรงสวมทับเศคาริยาห์.... No defensible register reason appears in the provided evidence for dropping ทรง.
+
+Item C: 36:9 Jehoiachin age silently departs from MT
+
+Verdict: MAJOR CONCERN
+Reasoning: The packet states that the MT has שְׁמוֹנֶה / "eight," while the shipped Thai has สิบแปดพรรษา (18) with no note or key decision. That directly conflicts with the project's MT-anchored claim and with the explicitly documented handling of the parallel age crux at 22:2.
+
+Recommended action: Do not tag as-is. My default recommendation is: restore MT 8 with a synoptic-variant footer noting 2 Kgs 24:8 / many LXX witnesses read 18, because that best matches the book's 22:2 precedent. If Ben chooses to keep 18, it must receive a Trigger-1 Layer-2 MT-departure footer before tagging.
+
+Item D: DTr formula locks remain Kings-scoped
+
+Verdict: CONCERN
+Reasoning: Item A proves the gap is not theoretical: 2 Chronicles was outside the phrase-check scope, and therefore six formula drifts escaped. The active-removal/high-place narrative concern is manageable because the lock can target the formulaic notice surface, not every occurrence of สถานสูง or reform language.
+
+Recommended action: Widen check_phrase_consistency.py DTr formula locks to include "2CH ". Add the death/succession register split as a fourth lock if the audit already verified the kingdom-keyed ทรง convention.
+
+Item E: Human מַלְאָךְ rendered with avoid-form ผู้สื่อสาร
+
+Verdict: CONCERN
+Reasoning: This is not an MT-faithfulness failure, but it is a doc-compliance failure: the packet says §4.4 explicitly avoids ผู้สื่อสาร, yet 18:12, 35:21, 36:15, and 36:16 all use it. The prophetic-messenger cases are semantically understandable, but if they are to remain ผู้สื่อสาร, the lock must license that as a distinct subcategory rather than silently violating the hierarchy.
+
+Recommended action: Fold into the deferred cross-book human-messenger normalization pass. Suggested direction: 18:12 → ผู้ส่งสาร; 35:21 → ทูต / คณะทูต; 36:15–16 → either normalize to ผู้ส่งสาร language or amend the lock to explicitly license ผู้สื่อสาร for prophet-as-messenger contexts.
+
+Item F: "Until this day" leitwort
+
+Verdict: FINE
+Reasoning: 2 Chronicles is internally consistent at all six occurrences with จนถึงทุกวันนี้, and the wider corpus evidence in the packet now favors that form by five books to one. The outlier is 1 Samuel, not 2 Chronicles.
+
+Recommended action: Lock จนถึงทุกวันนี้ in leitwort_handling_policy_2026-05.md as the canonical corpus surface, then normalize 1 Samuel's eight จนถึงวันนี้ cases in the deferred corpus cleanup.
+
+§Z: Anything else?
+
+No additional corpus-level concern from the packet. The only clear pre-tag blockers are B and C, with A/D close behind because they involve enforcement drift rather than isolated wording.
