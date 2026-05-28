@@ -20,9 +20,17 @@ Open and read this list — it is the source of truth, ordered oldest-first:
 
 <https://raw.githubusercontent.com/btwinguitarists/eremos-translation/main/docs/end_of_book/_external_inbox/QUEUE.md>
 
-It currently lists **19 books**. Each entry gives you: the **packet URL to copy**, and the
-**filename to save to**. Work top to bottom. (If you can only finish some in one session,
-that's fine — the next run picks up where the list still shows work.)
+Each entry gives you: the **packet URL to copy**, and the **filename to save to**. Work top
+to bottom. (If you can only finish some in one session, that's fine — the next run picks up
+where the list still shows work.)
+
+**If the queue reads "0 books pending" / "Backlog clear":** there is nothing to do this run.
+Stop and tell Ben "queue empty, no books to review today." This is the expected state most
+days — books don't ship daily, so the queue is normally empty until a new book finishes
+translating. **Do not invent work, retry old books, or modify already-committed responses.**
+
+Ben can run this on any cadence (daily / weekly / on book-ship). The mechanism is idempotent
+on an empty queue.
 
 ---
 
