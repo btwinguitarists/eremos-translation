@@ -1,6 +1,6 @@
 # เอสเธอร์
 
-_Esther — 9 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
+_Esther — 10 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
 
 _This **plain edition** shows only the Thai translation — no commentary, no Greek, no English. Intended for Thai scholars and theological reviewers evaluating the translation on its own terms. For the annotated edition with contextual summaries (บริบท), see `output/reader/esther.md`. For the underlying Greek, English (BSB) reference, and translator decisions per verse, see the per-chapter review reports at `output/check_reports/esther_NN_review.md` or the source JSON at `output/translations/`._
 
@@ -370,6 +370,16 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 ---
 
+## บทที่ 10
+
+**1** ฝ่ายกษัตริย์อาหสุเอรัสทรงเรียกเก็บส่วยจากแผ่นดิน และจากเกาะแก่งในทะเลด้วย
+
+**2** ส่วนพระราชกิจอันเปี่ยมด้วยพระราชอำนาจและความเก่งกล้าทั้งสิ้นของพระองค์ และเรื่องราวความยิ่งใหญ่ของโมรเดคัยที่กษัตริย์ทรงเลื่อนยศให้นั้น ก็ได้บันทึกไว้ในหนังสือพงศาวดารของบรรดากษัตริย์แห่งมีเดียและเปอร์เซียมิใช่หรือ
+
+**3** ด้วยว่าโมรเดคัยคนยิวเป็นอุปราชรองจากกษัตริย์อาหสุเอรัส เป็นใหญ่ในหมู่ชาวยิว และเป็นที่ชื่นชอบของพี่น้องร่วมชาติจำนวนมาก เขาแสวงหาความผาสุกให้ชนชาติของตน และกล่าวถ้อยคำแห่งสันติแก่ลูกหลานทั้งปวงของพวกเขา
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -385,4 +395,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/esther_07.json` | `8e3edca7c7f873b6000363380cbeda4f1a6f52c06ebcd8aec9238085ad9c8e7b` |
 | `output/translations/esther_08.json` | `9a0001fbd07c6f8fdb98e8b116c54d2f4bbb4a0270a4391da5fa6c4f4c17d41d` |
 | `output/translations/esther_09.json` | `5066d6cae1f675b61740ab9ed96be692a72cd77fb35aa23003d824c1967682b9` |
+| `output/translations/esther_10.json` | `b414c865077fb7a1940cb50c0f4062b98f662fb082711984140e742f860a14fd` |
 
