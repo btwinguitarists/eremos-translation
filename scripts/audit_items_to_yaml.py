@@ -78,6 +78,7 @@ BOOK_SLUGS = {
     "2CH": "2chronicles",
     "EZR": "ezra",
     "NEH": "nehemiah",
+    "EST": "esther",
 }
 
 TODO_TH = "__TODO_TH__"
