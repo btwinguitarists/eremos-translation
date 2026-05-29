@@ -97,6 +97,50 @@ PHRASE_LOCKS = [
         "exceptions": {},
     },
 
+    # ===== exod_34_attribute_formula_2026-05.md — Sinai divine-attribute formula =====
+    # The Exod 34:6-7 self-revelation formula recurs ~10x across the OT and is locked to a
+    # single canonical Thai surface (so readers recognize it at every recurrence). Each
+    # distinctive Hebrew collocation is checked independently. The formula appears in both
+    # space-separated and maqqef-joined source forms; strip_niqqud removes the maqqef, so
+    # patterns use \s* between tokens. Drift found 2026-05-29 (NEH 9:17/9:31, 2CH 30:9) all
+    # slipped the prior single-token (ความรักมั่นคง) packet heuristic, which never enforced
+    # the other three components — these locks close that gap (run_checks.py "needs Hebrew
+    # PHRASE_LOCKS extension"). The known-drift verses are documented exceptions pending
+    # Ben sign-off; see docs/end_of_book/_audits/locked_formula_compliance_2026-05-29.md.
+    {
+        "doc": "exod_34_attribute_formula_2026-05.md",
+        "label": "חַנּוּן וְרַחוּם / רַחוּם וְחַנּוּן (gracious + compassionate)",
+        "hebrew_patterns": [r"חנון\s*ו?רחום", r"רחום\s*ו?חנון"],
+        "expected_thai_contains": "ทรงพระเมตตา",
+        "must_not_contain": ["ทรงเมตตา"],  # bare ทรงเมตตา is the observed drift of locked ทรงพระเมตตา
+        "exceptions": {
+            "Nehemiah 9:17": "DRIFT (ทรงเมตตา; locked ทรงพระเมตตา) — fix proposed in PR #173, pending Ben sign-off; remove when realigned",
+            "Nehemiah 9:31": "DRIFT (ทรงเมตตา; locked ทรงพระเมตตา) — fix proposed in PR #173, pending Ben sign-off; remove when realigned",
+            "2 Chronicles 30:9": "DRIFT (ทรงเมตตา; locked ทรงพระเมตตา) — fix proposed in locked_formula_compliance audit 2026-05-29, pending Ben sign-off; remove when realigned",
+        },
+    },
+    {
+        "doc": "exod_34_attribute_formula_2026-05.md",
+        "label": "אֶרֶךְ אַפַּיִם (slow to anger)",
+        "hebrew_patterns": [r"ארך\s*אפים"],
+        "expected_thai_contains": "ทรงกริ้วช้า",
+        "must_not_contain": ["พระพิโรธช้า"],  # ทรงพระพิโรธช้า is the observed drift of locked ทรงกริ้วช้า
+        "exceptions": {
+            "Nehemiah 9:17": "DRIFT (ทรงพระพิโรธช้า; locked ทรงกริ้วช้า) — fix proposed in PR #173, pending Ben sign-off; remove when realigned",
+        },
+    },
+    {
+        "doc": "exod_34_attribute_formula_2026-05.md",
+        "label": "רַב־חֶסֶד (abounding in steadfast love)",
+        # Absolute חֶסֶד only. The negative lookahead excludes pronominal-suffix forms
+        # (e.g. כְּרֹב חַסְדֶּךָ "your abundant chesed" in petitions like NEH 13:22), which
+        # are not the attribute formula and render differently — avoids that false positive.
+        "hebrew_patterns": [r"רב\s*חסד(?![ךכויהםמנ])"],
+        "expected_thai_contains": "ทรงบริบูรณ์ด้วยความรักมั่นคง",
+        "must_not_contain": ["เปี่ยมด้วยความรักมั่นคง"],
+        "exceptions": {},
+    },
+
     # aphesis_forgiveness_of_sins_2026-04.md
     {
         "doc": "aphesis_forgiveness_of_sins_2026-04.md",
