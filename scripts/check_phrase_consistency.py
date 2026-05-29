@@ -105,19 +105,16 @@ PHRASE_LOCKS = [
     # patterns use \s* between tokens. Drift found 2026-05-29 (NEH 9:17/9:31, 2CH 30:9) all
     # slipped the prior single-token (ความรักมั่นคง) packet heuristic, which never enforced
     # the other three components — these locks close that gap (run_checks.py "needs Hebrew
-    # PHRASE_LOCKS extension"). The known-drift verses are documented exceptions pending
-    # Ben sign-off; see docs/end_of_book/_audits/locked_formula_compliance_2026-05-29.md.
+    # PHRASE_LOCKS extension"). The three drifts (NEH 9:17/9:31, 2CH 30:9) were realigned to
+    # the lock 2026-05-29 (Ben sign-off), so the check enforces with no exceptions.
+    # See docs/end_of_book/_audits/locked_formula_compliance_2026-05-29.md.
     {
         "doc": "exod_34_attribute_formula_2026-05.md",
         "label": "חַנּוּן וְרַחוּם / רַחוּם וְחַנּוּן (gracious + compassionate)",
         "hebrew_patterns": [r"חנון\s*ו?רחום", r"רחום\s*ו?חנון"],
         "expected_thai_contains": "ทรงพระเมตตา",
         "must_not_contain": ["ทรงเมตตา"],  # bare ทรงเมตตา is the observed drift of locked ทรงพระเมตตา
-        "exceptions": {
-            "Nehemiah 9:17": "DRIFT (ทรงเมตตา; locked ทรงพระเมตตา) — fix proposed in PR #173, pending Ben sign-off; remove when realigned",
-            "Nehemiah 9:31": "DRIFT (ทรงเมตตา; locked ทรงพระเมตตา) — fix proposed in PR #173, pending Ben sign-off; remove when realigned",
-            "2 Chronicles 30:9": "DRIFT (ทรงเมตตา; locked ทรงพระเมตตา) — fix proposed in locked_formula_compliance audit 2026-05-29, pending Ben sign-off; remove when realigned",
-        },
+        "exceptions": {},  # NEH 9:17/9:31, 2CH 30:9 realigned to the lock 2026-05-29
     },
     {
         "doc": "exod_34_attribute_formula_2026-05.md",
@@ -125,9 +122,7 @@ PHRASE_LOCKS = [
         "hebrew_patterns": [r"ארך\s*אפים"],
         "expected_thai_contains": "ทรงกริ้วช้า",
         "must_not_contain": ["พระพิโรธช้า"],  # ทรงพระพิโรธช้า is the observed drift of locked ทรงกริ้วช้า
-        "exceptions": {
-            "Nehemiah 9:17": "DRIFT (ทรงพระพิโรธช้า; locked ทรงกริ้วช้า) — fix proposed in PR #173, pending Ben sign-off; remove when realigned",
-        },
+        "exceptions": {},  # NEH 9:17 realigned to the lock 2026-05-29
     },
     {
         "doc": "exod_34_attribute_formula_2026-05.md",

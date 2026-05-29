@@ -33,7 +33,7 @@ more components.
 | Nehemiah 9:31 | רחום | `ทรงเมตตา` | `ทรงพระเมตตา` |
 | 2 Chronicles 30:9 | רחום | `ทรงเมตตา` | `ทรงพระเมตตา` |
 
-## Fix delivered in this PR (no shipped-text changes)
+## Fix delivered in this PR
 
 Added three Hebrew-keyed Exod-34 locks to `scripts/check_phrase_consistency.py` (now 15 phrase
 locks, suite green). Each was validated against the full translated corpus: they catch exactly
@@ -43,19 +43,21 @@ negative-lookahead on `רַב־חֶסֶד` to exclude pronominal-suffix petition
 heavily). This closes the `run_checks.py` note *"check_phrase_consistency (needs Hebrew
 PHRASE_LOCKS extension)."*
 
-The three drifted verses are recorded as **documented exceptions** in the check (so the suite
-stays green and the debt is visible) until the edits below are signed off — then remove the
-exceptions.
+The three drifted verses were realigned to the locked surface (see below); the locks now enforce
+with **no exceptions** — confirmed green (Lock 1: 5/5 OK, 0 excepted, 0 violations).
 
-## Proposed verse edits — REQUIRES BEN SIGN-OFF
+## Verse edits — APPLIED 2026-05-29 (Ben sign-off)
 
-These realign shipped text to an **already-locked** canonical surface (the lock doc tabulates the
-exact target string per verse); they are enforcement, not new translation decisions.
+These realigned shipped text to an **already-locked** canonical surface (the lock doc tabulates
+the exact target string per verse) — enforcement, not new translation decisions. Both the `thai`
+field and the `key_decisions.rendering` were corrected so the verse metadata no longer asserts
+false compliance.
 
 1. **2 Chronicles 30:9** (NEW — found by this audit)
-   - **Before:** `…เพราะองค์พระผู้เป็นเจ้าพระเจ้าของท่านทรงพระคุณและทรงเมตตา…`
-   - **After:** `…เพราะองค์พระผู้เป็นเจ้าพระเจ้าของท่านทรงพระคุณและทรงพระเมตตา…`
-2. **Nehemiah 9:17, 9:31** — already proposed in **PR #173** (Nehemiah external review). Same `ทรงพระเมตตา` realignment; 9:17 also restores `ทรงกริ้วช้า` + `ทรงบริบูรณ์ด้วยความรักมั่นคง`.
+   - **Before:** `…พระเจ้าของท่านทรงพระคุณและทรงเมตตา…`
+   - **After:** `…พระเจ้าของท่านทรงพระคุณและทรงพระเมตตา…`
+2. **Nehemiah 9:17** — `…ผู้อภัย ผู้ทรงพระคุณและทรงเมตตา ทรงพระพิโรธช้า และเปี่ยมด้วยความรักมั่นคง` → `…ผู้ทรงประทานการอภัย ทรงพระคุณและทรงพระเมตตา ทรงกริ้วช้า ทรงบริบูรณ์ด้วยความรักมั่นคง` (proposed earlier in #173).
+3. **Nehemiah 9:31** — `…ทรงพระคุณและทรงเมตตา` → `…ทรงพระคุณและทรงพระเมตตา` (proposed earlier in #173).
 
 ## Open question for Ben (low priority — no action by default)
 
@@ -68,8 +70,8 @@ eyes of the LORD" surface unified corpus-wide. Default: leave as-is.
 
 ## Going forward
 
-- When the verse edits above are signed off, apply them and **remove the three exceptions** so
-  the guard fully enforces.
+- ✅ Done 2026-05-29: the three verse edits were applied and the exceptions removed — the guard
+  now enforces unconditionally (suite green).
 - The same audit pattern (compare shipped Thai vs a lock doc's tabulated canonical surface, then
   fold the lock into `check_phrase_consistency.py`) generalizes to any other fixed-surface
   recurring formula. Exod-34 and the DtH formulas are now covered; others can be swept as needed.
