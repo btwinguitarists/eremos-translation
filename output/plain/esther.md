@@ -1,6 +1,6 @@
 # เอสเธอร์
 
-_Esther — 5 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
+_Esther — 6 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
 
 _This **plain edition** shows only the Thai translation — no commentary, no Greek, no English. Intended for Thai scholars and theological reviewers evaluating the translation on its own terms. For the annotated edition with contextual summaries (บริบท), see `output/reader/esther.md`. For the underlying Greek, English (BSB) reference, and translator decisions per verse, see the per-chapter review reports at `output/check_reports/esther_NN_review.md` or the source JSON at `output/translations/`._
 
@@ -208,6 +208,38 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 ---
 
+## บทที่ 6
+
+**1** คืนนั้นกษัตริย์บรรทมไม่หลับ จึงรับสั่งให้นำหนังสือบันทึกเหตุการณ์ คือพงศาวดาร มาอ่านถวายต่อพระพักตร์
+
+**2** พบข้อความที่บันทึกไว้ว่า โมรเดคัยได้ทูลรายงานเรื่องบิกธานาและเทเรช ขันทีสองคนของกษัตริย์ผู้เฝ้าธรณีประตู ซึ่งเคยคบคิดจะปลงพระชนม์กษัตริย์อาหสุเอรัส
+
+**3** กษัตริย์ตรัสถามว่า “ได้ให้เกียรติยศและบำเหน็จอันใดแก่โมรเดคัยสำหรับการนี้บ้าง” พวกมหาดเล็กผู้รับใช้ทูลว่า “ยังไม่ได้ทำสิ่งใดให้เขาเลย”
+
+**4** กษัตริย์ตรัสถามว่า “ใครอยู่ที่พระลาน” ขณะนั้นฮามานเพิ่งเข้ามาที่พระลานชั้นนอกของพระราชวัง เพื่อจะทูลกษัตริย์ให้แขวนโมรเดคัยบนตะแลงแกงที่เขาเตรียมไว้
+
+**5** พวกมหาดเล็กของกษัตริย์ทูลว่า “ฮามานยืนอยู่ที่พระลาน” กษัตริย์จึงตรัสว่า “ให้เขาเข้ามา”
+
+**6** เมื่อฮามานเข้ามา กษัตริย์ตรัสถามเขาว่า “ควรทำอย่างไรแก่ผู้ที่กษัตริย์ทรงประสงค์จะให้เกียรติ” ฮามานคิดในใจว่า “กษัตริย์จะทรงประสงค์ให้เกียรติผู้ใดยิ่งกว่าข้าพเจ้าเล่า”
+
+**7** ฮามานจึงทูลกษัตริย์ว่า “สำหรับผู้ที่กษัตริย์ทรงประสงค์จะให้เกียรตินั้น
+
+**8** ขอให้นำฉลองพระองค์ที่กษัตริย์เคยทรงสวม กับม้าพระที่นั่งที่กษัตริย์เคยทรงม้ามา และให้มีราชมงกุฎประดับบนหัวม้านั้น
+
+**9** แล้วมอบฉลองพระองค์และม้านั้นไว้ในมือของขุนนางผู้สูงศักดิ์คนหนึ่งของกษัตริย์ ให้เขาแต่งตัวผู้ที่กษัตริย์ทรงประสงค์จะให้เกียรติ แล้วนำขึ้นม้าแห่ไปตามลานเมือง พลางป่าวร้องนำหน้าเขาว่า ‘นี่คือสิ่งที่ทำแก่ผู้ที่กษัตริย์ทรงประสงค์จะให้เกียรติ’”
+
+**10** กษัตริย์จึงตรัสแก่ฮามานว่า “จงรีบนำฉลองพระองค์และม้าไปทำตามที่เจ้าพูดทุกประการแก่โมรเดคัยคนยิวที่นั่งอยู่ที่ประตูพระราชวัง อย่าละเว้นสิ่งใดที่เจ้าได้กล่าวมา”
+
+**11** ฮามานจึงนำฉลองพระองค์และม้าไปแต่งตัวโมรเดคัย แล้วนำขึ้นม้าแห่ไปตามลานเมือง พลางป่าวร้องนำหน้าเขาว่า “นี่คือสิ่งที่ทำแก่ผู้ที่กษัตริย์ทรงประสงค์จะให้เกียรติ”
+
+**12** แล้วโมรเดคัยก็กลับไปที่ประตูพระราชวัง ส่วนฮามานรีบกลับบ้านด้วยความโศกเศร้า เอาผ้าคลุมศีรษะ
+
+**13** ฮามานเล่าทุกสิ่งที่เกิดขึ้นแก่เศเรชภรรยาและเพื่อนฝูงทั้งปวง บรรดาที่ปรึกษาและเศเรชภรรยาก็พูดกับเขาว่า “ในเมื่อโมรเดคัยซึ่งเจ้าได้เริ่มพ่ายแพ้ต่อหน้าเขานั้นเป็นเชื้อสายยิว เจ้าก็จะเอาชนะเขาไม่ได้ แต่จะล้มลงต่อหน้าเขาอย่างแน่นอน”
+
+**14** ขณะที่พวกเขายังพูดกับฮามานอยู่ ขันทีของกษัตริย์ก็มาถึงและรีบเร่งพาฮามานไปยังงานเลี้ยงที่พระนางเอสเธอร์ทรงจัดไว้
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -219,4 +251,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/esther_03.json` | `c870e272cf8ea42e2921d95ce8b28239c8940abff465e3a973e102228443183d` |
 | `output/translations/esther_04.json` | `face98905899fba0330329cd6ed7b76f8c436647f97a51df58f8890610f4a4f5` |
 | `output/translations/esther_05.json` | `25f8b100bffc2ddf75724f43a5ba5cfd4b940899903ac00b0e572414c29952e4` |
+| `output/translations/esther_06.json` | `86f8f39cf32cd0e506ef7e6cf7edff2d90448c6dba8b05a60eddf7837a6de413` |
 
