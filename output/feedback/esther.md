@@ -1,6 +1,6 @@
 # เอสเธอร์
 
-_Esther — 6 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
+_Esther — 7 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
 
 _This **feedback edition** is the plain Thai translation with a `>` placeholder block under each verse for reviewer comments. **See the instructions immediately below before reading.** For the annotated edition (with contextual summaries), see `output/reader/esther.md`; for the verses-only edition (no comment blocks), see `output/plain/esther.md`._
 
@@ -472,6 +472,50 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 ---
 
+## บทที่ 7
+
+**1** กษัตริย์กับฮามานจึงเสด็จไปร่วมงานเลี้ยงกับพระนางเอสเธอร์พระราชินี
+
+> ___
+
+**2** ขณะดื่มเหล้าองุ่นในวันที่สองนั้น กษัตริย์ก็ตรัสถามอีกว่า “พระนางเอสเธอร์ คำทูลขอของเจ้าคืออะไร ก็จะประทานให้ และคำร้องขอของเจ้าเล่า แม้ถึงครึ่งราชอาณาจักรก็จะกระทำตาม”
+
+> ___
+
+**3** พระนางเอสเธอร์พระราชินีทูลตอบว่า “ข้าแต่กษัตริย์ หากหม่อมฉันเป็นที่โปรดปรานในสายพระเนตรของพระองค์ และหากเป็นที่พอพระทัยพระองค์ ขอโปรดประทานชีวิตของหม่อมฉันตามคำทูลขอ และชนชาติของหม่อมฉันตามคำร้องขอด้วยเถิด
+
+> ___
+
+**4** เพราะหม่อมฉันกับชนชาติของหม่อมฉันถูกขายให้แก่การทำลาย สังหาร และล้างผลาญ หากเพียงแต่ถูกขายเป็นทาสชายหญิง หม่อมฉันก็คงนิ่งเงียบไว้ เพราะความทุกข์ร้อนเช่นนั้นไม่คุ้มที่จะรบกวนกษัตริย์”
+
+> ___
+
+**5** กษัตริย์อาหสุเอรัสจึงตรัสถามพระนางเอสเธอร์พระราชินีว่า “ผู้นั้นเป็นใคร และอยู่ที่ไหน คือผู้ที่บังอาจคิดทำเช่นนี้”
+
+> ___
+
+**6** พระนางเอสเธอร์ทูลว่า “ศัตรูและปฏิปักษ์ก็คือฮามานคนชั่วร้ายผู้นี้” ฮามานก็ตกใจกลัวยิ่งนักต่อพระพักตร์กษัตริย์และพระราชินี
+
+> ___
+
+**7** กษัตริย์ทรงลุกขึ้นด้วยพระพิโรธ เสด็จจากงานเลี้ยงเหล้าองุ่นออกไปยังพระราชอุทยาน ส่วนฮามานยังคงอยู่เพื่อทูลขอชีวิตจากพระนางเอสเธอร์พระราชินี เพราะเห็นว่ากษัตริย์ทรงตัดสินพระทัยจะลงโทษเขาแล้ว
+
+> ___
+
+**8** เมื่อกษัตริย์เสด็จกลับจากพระราชอุทยานมายังห้องงานเลี้ยงเหล้าองุ่น ก็ทอดพระเนตรเห็นฮามานซบตัวลงบนพระแท่นที่พระนางเอสเธอร์ประทับอยู่ กษัตริย์จึงตรัสว่า “เขาถึงกับจะข่มเหงพระราชินีต่อหน้าเราในวังนี้เชียวหรือ” ทันทีที่ถ้อยคำหลุดจากพระโอษฐ์ พวกข้าราชบริพารก็คลุมหน้าฮามานไว้
+
+> ___
+
+**9** ฮารโบนา ขันทีคนหนึ่งที่รับใช้ต่อพระพักตร์กษัตริย์ทูลว่า “ดูเถิด ที่บ้านของฮามานมีตะแลงแกงสูงห้าสิบศอก ซึ่งฮามานสร้างไว้สำหรับโมรเดคัย ผู้ที่ทูลรายงานช่วยชีวิตกษัตริย์” กษัตริย์จึงตรัสว่า “จงแขวนฮามานบนตะแลงแกงนั้น”
+
+> ___
+
+**10** เขาทั้งหลายจึงแขวนฮามานบนตะแลงแกงที่เขาเตรียมไว้สำหรับโมรเดคัย แล้วพระพิโรธของกษัตริย์ก็สงบลง
+
+> ___
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -484,4 +528,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/esther_04.json` | `face98905899fba0330329cd6ed7b76f8c436647f97a51df58f8890610f4a4f5` |
 | `output/translations/esther_05.json` | `25f8b100bffc2ddf75724f43a5ba5cfd4b940899903ac00b0e572414c29952e4` |
 | `output/translations/esther_06.json` | `86f8f39cf32cd0e506ef7e6cf7edff2d90448c6dba8b05a60eddf7837a6de413` |
+| `output/translations/esther_07.json` | `8e3edca7c7f873b6000363380cbeda4f1a6f52c06ebcd8aec9238085ad9c8e7b` |
 
