@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-05-28 23:36:34 UTC_
-_Total chapters: 689 · Total verses: 20665_
+_Generated: 2026-05-29 00:18:15 UTC_
+_Total chapters: 690 · Total verses: 20696_
 
 ## How to verify a chapter
 
@@ -621,7 +621,8 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/nehemiah_09.json` | 37 | `341845f9857d3bb6b08c75fe01be605425ff8406f74bb9cafa5bb751649a5427` | `491e9a67` |
 | `output/translations/nehemiah_10.json` | 40 | `b9abde70b9d85f1380b4327e41932c2e630d6651ce139535584b16d8bf8637b4` | `151c72ad` |
 | `output/translations/nehemiah_11.json` | 36 | `4f7e6e3b586978557bc77bf5de663c1bfffd40818c8e46a0fb69e9420f97577f` | `25701947` |
-| `output/translations/nehemiah_12.json` | 47 | `f6987473e1b1a69597383832f18a80ece6d74db92aab97ed7338126a974050a0` | `—` |
+| `output/translations/nehemiah_12.json` | 47 | `f6987473e1b1a69597383832f18a80ece6d74db92aab97ed7338126a974050a0` | `3ed61f48` |
+| `output/translations/nehemiah_13.json` | 31 | `0a97371bb38862b42934c5a64dca6c3a98505e1b9ec14a49d6e83eecbd81543c` | `—` |
 | `output/translations/numbers_01.json` | 54 | `2ccd9ead0eb48ce1c682853f2778520fbde91632b7e931be6e6f9db366fdb7c5` | `c37f233b` |
 | `output/translations/numbers_02.json` | 34 | `946fbcf6d92055e1267a4e9288b8710a6b094f13675ba239e552396e2ca0a76b` | `00744173` |
 | `output/translations/numbers_03.json` | 51 | `788768883bfc57ed32163d4fc91294004779d9e4f4f932f7a8fa0d605c64f354` | `ba9e49c2` |
