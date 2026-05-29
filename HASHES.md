@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-05-29 15:10:42 UTC_
-_Total chapters: 712 · Total verses: 21220_
+_Generated: 2026-05-29 23:34:35 UTC_
+_Total chapters: 713 · Total verses: 21242_
 
 ## How to verify a chapter
 
@@ -291,7 +291,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/daniel_09.json` | 27 | `86a43ccbb26dc9b67119d792a8ac35cb9f8fd51a726ded7b16bd6d94c5129551` | `f149f92b` |
 | `output/translations/daniel_10.json` | 21 | `6b96e0bdc0c5207519fe7aac1a9aff4d6a3d41f6f973584a4815de217dc12749` | `cb2b77e1` |
 | `output/translations/daniel_11.json` | 45 | `b0b747411d3a1ca9dd1d2b6100cb5ff28d7d036988457b8641d51c2f4ad35ac2` | `890c0d4d` |
-| `output/translations/daniel_12.json` | 13 | `4d16cf1841a9ff4b444fc44beea51220239ae81d77c47f7f85dc17921df14de6` | `—` |
+| `output/translations/daniel_12.json` | 13 | `4d16cf1841a9ff4b444fc44beea51220239ae81d77c47f7f85dc17921df14de6` | `c0aba0bf` |
 | `output/translations/deuteronomy_01.json` | 46 | `5f9e9e9de5cec767f7a602935048ff8ea57940b4778f42b627c663be781231ff` | `ccbf792e` |
 | `output/translations/deuteronomy_02.json` | 37 | `1140073e941874c1850fe16ebedccc4b7d0fd433aa1844806b2e8b5c86f259af` | `3379b041` |
 | `output/translations/deuteronomy_03.json` | 29 | `9ee198195a669a254a8d20643935056abfff127740ebc1810f8777efaa10ceb2` | `2b1853d4` |
@@ -466,6 +466,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/james_03.json` | 18 | `3808eccaa5550cc2fda97cd0dce2538331998823e416bf1c48ab042c3ba969d6` | `11382475` |
 | `output/translations/james_04.json` | 17 | `3b61bd19e8da7e5dd9c3681a31efbf7854e8f7fd8d20d47ffbc1a4f73289bf05` | `502e5308` |
 | `output/translations/james_05.json` | 20 | `cdd0acb6927085b9b36656e407bea5164fc4efaf311e82378334632582f3ac55` | `5bde9a40` |
+| `output/translations/job_01.json` | 22 | `00a8521e015c76429ef5afd36a8ede476c749f145c9e0aa1a94525bb754faffe` | `—` |
 | `output/translations/john_01.json` | 51 | `f71029f1ad25de2eda3dffcdd8d369d459285d62c85a1d2f18715c5543a185d7` | `b64d4872` |
 | `output/translations/john_02.json` | 25 | `86c5da7e3d831faa44cf4a2cc62316054258e674f41841d5a6ece3d6a35d9526` | `b64d4872` |
 | `output/translations/john_03.json` | 36 | `f0c177a7854327a5843c4a89f3e366aa6ebb8b5007a7a8a1d36c6c6543f00d72` | `cf6bd38f` |
