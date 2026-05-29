@@ -5,7 +5,7 @@
     "policy": "docs/translator_decisions/verse_schema_and_versification_2026-05.md"
   },
   "_psalm_superscription_count": 66,
-  "_total_entries": 1122,
+  "_total_entries": 1190,
   "PSA-3-1": {
     "mt_book": "PSA",
     "mt_chapter": 3,
@@ -13105,5 +13105,617 @@
     "lxx_ref": "2 Chronicles 14:15",
     "diverges": true,
     "note": "2 Chronicles ch.14 is offset +1 from English/BSB: MT 14:N = English 14:(N+1), because MT 13:23 = English 14:1. MT 14:1-14 = English 14:2-15."
+  },
+  "NEH-3-33": {
+    "mt_ref": "Nehemiah 3:33",
+    "english_ref": "Nehemiah 4:1",
+    "bsb_ref": "Nehemiah 4:1",
+    "lxx_ref": "Nehemiah 14:1",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT 3:33-38 = English/BSB 4:1-6 (Sanballat's mockery + Nehemiah's aside prayer)"
+  },
+  "NEH-3-34": {
+    "mt_ref": "Nehemiah 3:34",
+    "english_ref": "Nehemiah 4:2",
+    "bsb_ref": "Nehemiah 4:2",
+    "lxx_ref": "Nehemiah 14:2",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT 3:33-38 = English/BSB 4:1-6 (Sanballat's mockery + Nehemiah's aside prayer)"
+  },
+  "NEH-3-35": {
+    "mt_ref": "Nehemiah 3:35",
+    "english_ref": "Nehemiah 4:3",
+    "bsb_ref": "Nehemiah 4:3",
+    "lxx_ref": "Nehemiah 14:3",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT 3:33-38 = English/BSB 4:1-6 (Sanballat's mockery + Nehemiah's aside prayer)"
+  },
+  "NEH-3-36": {
+    "mt_ref": "Nehemiah 3:36",
+    "english_ref": "Nehemiah 4:4",
+    "bsb_ref": "Nehemiah 4:4",
+    "lxx_ref": "Nehemiah 14:4",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT 3:33-38 = English/BSB 4:1-6 (Sanballat's mockery + Nehemiah's aside prayer)"
+  },
+  "NEH-3-37": {
+    "mt_ref": "Nehemiah 3:37",
+    "english_ref": "Nehemiah 4:5",
+    "bsb_ref": "Nehemiah 4:5",
+    "lxx_ref": "Nehemiah 14:5",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT 3:33-38 = English/BSB 4:1-6 (Sanballat's mockery + Nehemiah's aside prayer)"
+  },
+  "NEH-3-38": {
+    "mt_ref": "Nehemiah 3:38",
+    "english_ref": "Nehemiah 4:6",
+    "bsb_ref": "Nehemiah 4:6",
+    "lxx_ref": "Nehemiah 14:6",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT 3:33-38 = English/BSB 4:1-6 (Sanballat's mockery + Nehemiah's aside prayer)"
+  },
+  "NEH-4-1": {
+    "mt_ref": "Nehemiah 4:1",
+    "english_ref": "Nehemiah 4:7",
+    "bsb_ref": "Nehemiah 4:7",
+    "lxx_ref": "Nehemiah 14:7",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT NEH 4:1-17 = English/BSB 4:7-23 (Sanballat coalition + Nehemiah's defense plan); offset from MT 3:33-38 = English 4:1-6"
+  },
+  "NEH-4-2": {
+    "mt_ref": "Nehemiah 4:2",
+    "english_ref": "Nehemiah 4:8",
+    "bsb_ref": "Nehemiah 4:8",
+    "lxx_ref": "Nehemiah 14:8",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT NEH 4:1-17 = English/BSB 4:7-23 (Sanballat coalition + Nehemiah's defense plan); offset from MT 3:33-38 = English 4:1-6"
+  },
+  "NEH-4-3": {
+    "mt_ref": "Nehemiah 4:3",
+    "english_ref": "Nehemiah 4:9",
+    "bsb_ref": "Nehemiah 4:9",
+    "lxx_ref": "Nehemiah 14:9",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT NEH 4:1-17 = English/BSB 4:7-23 (Sanballat coalition + Nehemiah's defense plan); offset from MT 3:33-38 = English 4:1-6"
+  },
+  "NEH-4-4": {
+    "mt_ref": "Nehemiah 4:4",
+    "english_ref": "Nehemiah 4:10",
+    "bsb_ref": "Nehemiah 4:10",
+    "lxx_ref": "Nehemiah 14:10",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT NEH 4:1-17 = English/BSB 4:7-23 (Sanballat coalition + Nehemiah's defense plan); offset from MT 3:33-38 = English 4:1-6"
+  },
+  "NEH-4-5": {
+    "mt_ref": "Nehemiah 4:5",
+    "english_ref": "Nehemiah 4:11",
+    "bsb_ref": "Nehemiah 4:11",
+    "lxx_ref": "Nehemiah 14:11",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT NEH 4:1-17 = English/BSB 4:7-23 (Sanballat coalition + Nehemiah's defense plan); offset from MT 3:33-38 = English 4:1-6"
+  },
+  "NEH-4-6": {
+    "mt_ref": "Nehemiah 4:6",
+    "english_ref": "Nehemiah 4:12",
+    "bsb_ref": "Nehemiah 4:12",
+    "lxx_ref": "Nehemiah 14:12",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT NEH 4:1-17 = English/BSB 4:7-23 (Sanballat coalition + Nehemiah's defense plan); offset from MT 3:33-38 = English 4:1-6"
+  },
+  "NEH-4-7": {
+    "mt_ref": "Nehemiah 4:7",
+    "english_ref": "Nehemiah 4:13",
+    "bsb_ref": "Nehemiah 4:13",
+    "lxx_ref": "Nehemiah 14:13",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT NEH 4:1-17 = English/BSB 4:7-23 (Sanballat coalition + Nehemiah's defense plan); offset from MT 3:33-38 = English 4:1-6"
+  },
+  "NEH-4-8": {
+    "mt_ref": "Nehemiah 4:8",
+    "english_ref": "Nehemiah 4:14",
+    "bsb_ref": "Nehemiah 4:14",
+    "lxx_ref": "Nehemiah 14:14",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT NEH 4:1-17 = English/BSB 4:7-23 (Sanballat coalition + Nehemiah's defense plan); offset from MT 3:33-38 = English 4:1-6"
+  },
+  "NEH-4-9": {
+    "mt_ref": "Nehemiah 4:9",
+    "english_ref": "Nehemiah 4:15",
+    "bsb_ref": "Nehemiah 4:15",
+    "lxx_ref": "Nehemiah 14:15",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT NEH 4:1-17 = English/BSB 4:7-23 (Sanballat coalition + Nehemiah's defense plan); offset from MT 3:33-38 = English 4:1-6"
+  },
+  "NEH-4-10": {
+    "mt_ref": "Nehemiah 4:10",
+    "english_ref": "Nehemiah 4:16",
+    "bsb_ref": "Nehemiah 4:16",
+    "lxx_ref": "Nehemiah 14:16",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT NEH 4:1-17 = English/BSB 4:7-23 (Sanballat coalition + Nehemiah's defense plan); offset from MT 3:33-38 = English 4:1-6"
+  },
+  "NEH-4-11": {
+    "mt_ref": "Nehemiah 4:11",
+    "english_ref": "Nehemiah 4:17",
+    "bsb_ref": "Nehemiah 4:17",
+    "lxx_ref": "Nehemiah 14:17",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT NEH 4:1-17 = English/BSB 4:7-23 (Sanballat coalition + Nehemiah's defense plan); offset from MT 3:33-38 = English 4:1-6"
+  },
+  "NEH-4-12": {
+    "mt_ref": "Nehemiah 4:12",
+    "english_ref": "Nehemiah 4:18",
+    "bsb_ref": "Nehemiah 4:18",
+    "lxx_ref": "Nehemiah 14:18",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT NEH 4:1-17 = English/BSB 4:7-23 (Sanballat coalition + Nehemiah's defense plan); offset from MT 3:33-38 = English 4:1-6"
+  },
+  "NEH-4-13": {
+    "mt_ref": "Nehemiah 4:13",
+    "english_ref": "Nehemiah 4:19",
+    "bsb_ref": "Nehemiah 4:19",
+    "lxx_ref": "Nehemiah 14:19",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT NEH 4:1-17 = English/BSB 4:7-23 (Sanballat coalition + Nehemiah's defense plan); offset from MT 3:33-38 = English 4:1-6"
+  },
+  "NEH-4-14": {
+    "mt_ref": "Nehemiah 4:14",
+    "english_ref": "Nehemiah 4:20",
+    "bsb_ref": "Nehemiah 4:20",
+    "lxx_ref": "Nehemiah 14:20",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT NEH 4:1-17 = English/BSB 4:7-23 (Sanballat coalition + Nehemiah's defense plan); offset from MT 3:33-38 = English 4:1-6"
+  },
+  "NEH-4-15": {
+    "mt_ref": "Nehemiah 4:15",
+    "english_ref": "Nehemiah 4:21",
+    "bsb_ref": "Nehemiah 4:21",
+    "lxx_ref": "Nehemiah 14:21",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT NEH 4:1-17 = English/BSB 4:7-23 (Sanballat coalition + Nehemiah's defense plan); offset from MT 3:33-38 = English 4:1-6"
+  },
+  "NEH-4-16": {
+    "mt_ref": "Nehemiah 4:16",
+    "english_ref": "Nehemiah 4:22",
+    "bsb_ref": "Nehemiah 4:22",
+    "lxx_ref": "Nehemiah 14:22",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT NEH 4:1-17 = English/BSB 4:7-23 (Sanballat coalition + Nehemiah's defense plan); offset from MT 3:33-38 = English 4:1-6"
+  },
+  "NEH-4-17": {
+    "mt_ref": "Nehemiah 4:17",
+    "english_ref": "Nehemiah 4:23",
+    "bsb_ref": "Nehemiah 4:23",
+    "lxx_ref": "Nehemiah 14:23",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT NEH 4:1-17 = English/BSB 4:7-23 (Sanballat coalition + Nehemiah's defense plan); offset from MT 3:33-38 = English 4:1-6"
+  },
+  "NEH-7-68": {
+    "mt_ref": "Nehemiah 7:68",
+    "english_ref": "Nehemiah 7:69",
+    "bsb_ref": "Nehemiah 7:69",
+    "lxx_ref": "Nehemiah 17:69",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT NEH 7:68-72 = English/BSB 7:69-73 (horses+mules line absent in MT NEH 7; present in EZR 2:66 parallel)"
+  },
+  "NEH-7-69": {
+    "mt_ref": "Nehemiah 7:69",
+    "english_ref": "Nehemiah 7:70",
+    "bsb_ref": "Nehemiah 7:70",
+    "lxx_ref": "Nehemiah 17:70",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT NEH 7:68-72 = English/BSB 7:69-73 (horses+mules line absent in MT NEH 7; present in EZR 2:66 parallel)"
+  },
+  "NEH-7-70": {
+    "mt_ref": "Nehemiah 7:70",
+    "english_ref": "Nehemiah 7:71",
+    "bsb_ref": "Nehemiah 7:71",
+    "lxx_ref": "Nehemiah 17:71",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT NEH 7:68-72 = English/BSB 7:69-73 (horses+mules line absent in MT NEH 7; present in EZR 2:66 parallel)"
+  },
+  "NEH-7-71": {
+    "mt_ref": "Nehemiah 7:71",
+    "english_ref": "Nehemiah 7:72",
+    "bsb_ref": "Nehemiah 7:72",
+    "lxx_ref": "Nehemiah 17:72",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT NEH 7:68-72 = English/BSB 7:69-73 (horses+mules line absent in MT NEH 7; present in EZR 2:66 parallel)"
+  },
+  "NEH-7-72": {
+    "mt_ref": "Nehemiah 7:72",
+    "english_ref": "Nehemiah 7:73",
+    "bsb_ref": "Nehemiah 7:73",
+    "lxx_ref": "Nehemiah 17:73",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT NEH 7:68-72 = English/BSB 7:69-73 (horses+mules line absent in MT NEH 7; present in EZR 2:66 parallel)"
+  },
+  "NEH-10-1": {
+    "mt_ref": "Nehemiah 10:1",
+    "english_ref": "Nehemiah 9:38",
+    "bsb_ref": "Nehemiah 9:38",
+    "lxx_ref": "Nehemiah 20:38",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT NEH 10:1 = English/BSB 9:38; MT 10:2-40 = English/BSB 10:1-39"
+  },
+  "NEH-10-2": {
+    "mt_ref": "Nehemiah 10:2",
+    "english_ref": "Nehemiah 10:1",
+    "bsb_ref": "Nehemiah 10:1",
+    "lxx_ref": "Nehemiah 20:1",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT NEH 10:1 = English/BSB 9:38; MT 10:2-40 = English/BSB 10:1-39"
+  },
+  "NEH-10-3": {
+    "mt_ref": "Nehemiah 10:3",
+    "english_ref": "Nehemiah 10:2",
+    "bsb_ref": "Nehemiah 10:2",
+    "lxx_ref": "Nehemiah 20:2",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT NEH 10:1 = English/BSB 9:38; MT 10:2-40 = English/BSB 10:1-39"
+  },
+  "NEH-10-4": {
+    "mt_ref": "Nehemiah 10:4",
+    "english_ref": "Nehemiah 10:3",
+    "bsb_ref": "Nehemiah 10:3",
+    "lxx_ref": "Nehemiah 20:3",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT NEH 10:1 = English/BSB 9:38; MT 10:2-40 = English/BSB 10:1-39"
+  },
+  "NEH-10-5": {
+    "mt_ref": "Nehemiah 10:5",
+    "english_ref": "Nehemiah 10:4",
+    "bsb_ref": "Nehemiah 10:4",
+    "lxx_ref": "Nehemiah 20:4",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT NEH 10:1 = English/BSB 9:38; MT 10:2-40 = English/BSB 10:1-39"
+  },
+  "NEH-10-6": {
+    "mt_ref": "Nehemiah 10:6",
+    "english_ref": "Nehemiah 10:5",
+    "bsb_ref": "Nehemiah 10:5",
+    "lxx_ref": "Nehemiah 20:5",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT NEH 10:1 = English/BSB 9:38; MT 10:2-40 = English/BSB 10:1-39"
+  },
+  "NEH-10-7": {
+    "mt_ref": "Nehemiah 10:7",
+    "english_ref": "Nehemiah 10:6",
+    "bsb_ref": "Nehemiah 10:6",
+    "lxx_ref": "Nehemiah 20:6",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT NEH 10:1 = English/BSB 9:38; MT 10:2-40 = English/BSB 10:1-39"
+  },
+  "NEH-10-8": {
+    "mt_ref": "Nehemiah 10:8",
+    "english_ref": "Nehemiah 10:7",
+    "bsb_ref": "Nehemiah 10:7",
+    "lxx_ref": "Nehemiah 20:7",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT NEH 10:1 = English/BSB 9:38; MT 10:2-40 = English/BSB 10:1-39"
+  },
+  "NEH-10-9": {
+    "mt_ref": "Nehemiah 10:9",
+    "english_ref": "Nehemiah 10:8",
+    "bsb_ref": "Nehemiah 10:8",
+    "lxx_ref": "Nehemiah 20:8",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT NEH 10:1 = English/BSB 9:38; MT 10:2-40 = English/BSB 10:1-39"
+  },
+  "NEH-10-10": {
+    "mt_ref": "Nehemiah 10:10",
+    "english_ref": "Nehemiah 10:9",
+    "bsb_ref": "Nehemiah 10:9",
+    "lxx_ref": "Nehemiah 20:9",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT NEH 10:1 = English/BSB 9:38; MT 10:2-40 = English/BSB 10:1-39"
+  },
+  "NEH-10-11": {
+    "mt_ref": "Nehemiah 10:11",
+    "english_ref": "Nehemiah 10:10",
+    "bsb_ref": "Nehemiah 10:10",
+    "lxx_ref": "Nehemiah 20:10",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT NEH 10:1 = English/BSB 9:38; MT 10:2-40 = English/BSB 10:1-39"
+  },
+  "NEH-10-12": {
+    "mt_ref": "Nehemiah 10:12",
+    "english_ref": "Nehemiah 10:11",
+    "bsb_ref": "Nehemiah 10:11",
+    "lxx_ref": "Nehemiah 20:11",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT NEH 10:1 = English/BSB 9:38; MT 10:2-40 = English/BSB 10:1-39"
+  },
+  "NEH-10-13": {
+    "mt_ref": "Nehemiah 10:13",
+    "english_ref": "Nehemiah 10:12",
+    "bsb_ref": "Nehemiah 10:12",
+    "lxx_ref": "Nehemiah 20:12",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT NEH 10:1 = English/BSB 9:38; MT 10:2-40 = English/BSB 10:1-39"
+  },
+  "NEH-10-14": {
+    "mt_ref": "Nehemiah 10:14",
+    "english_ref": "Nehemiah 10:13",
+    "bsb_ref": "Nehemiah 10:13",
+    "lxx_ref": "Nehemiah 20:13",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT NEH 10:1 = English/BSB 9:38; MT 10:2-40 = English/BSB 10:1-39"
+  },
+  "NEH-10-15": {
+    "mt_ref": "Nehemiah 10:15",
+    "english_ref": "Nehemiah 10:14",
+    "bsb_ref": "Nehemiah 10:14",
+    "lxx_ref": "Nehemiah 20:14",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT NEH 10:1 = English/BSB 9:38; MT 10:2-40 = English/BSB 10:1-39"
+  },
+  "NEH-10-16": {
+    "mt_ref": "Nehemiah 10:16",
+    "english_ref": "Nehemiah 10:15",
+    "bsb_ref": "Nehemiah 10:15",
+    "lxx_ref": "Nehemiah 20:15",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT NEH 10:1 = English/BSB 9:38; MT 10:2-40 = English/BSB 10:1-39"
+  },
+  "NEH-10-17": {
+    "mt_ref": "Nehemiah 10:17",
+    "english_ref": "Nehemiah 10:16",
+    "bsb_ref": "Nehemiah 10:16",
+    "lxx_ref": "Nehemiah 20:16",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT NEH 10:1 = English/BSB 9:38; MT 10:2-40 = English/BSB 10:1-39"
+  },
+  "NEH-10-18": {
+    "mt_ref": "Nehemiah 10:18",
+    "english_ref": "Nehemiah 10:17",
+    "bsb_ref": "Nehemiah 10:17",
+    "lxx_ref": "Nehemiah 20:17",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT NEH 10:1 = English/BSB 9:38; MT 10:2-40 = English/BSB 10:1-39"
+  },
+  "NEH-10-19": {
+    "mt_ref": "Nehemiah 10:19",
+    "english_ref": "Nehemiah 10:18",
+    "bsb_ref": "Nehemiah 10:18",
+    "lxx_ref": "Nehemiah 20:18",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT NEH 10:1 = English/BSB 9:38; MT 10:2-40 = English/BSB 10:1-39"
+  },
+  "NEH-10-20": {
+    "mt_ref": "Nehemiah 10:20",
+    "english_ref": "Nehemiah 10:19",
+    "bsb_ref": "Nehemiah 10:19",
+    "lxx_ref": "Nehemiah 20:19",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT NEH 10:1 = English/BSB 9:38; MT 10:2-40 = English/BSB 10:1-39"
+  },
+  "NEH-10-21": {
+    "mt_ref": "Nehemiah 10:21",
+    "english_ref": "Nehemiah 10:20",
+    "bsb_ref": "Nehemiah 10:20",
+    "lxx_ref": "Nehemiah 20:20",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT NEH 10:1 = English/BSB 9:38; MT 10:2-40 = English/BSB 10:1-39"
+  },
+  "NEH-10-22": {
+    "mt_ref": "Nehemiah 10:22",
+    "english_ref": "Nehemiah 10:21",
+    "bsb_ref": "Nehemiah 10:21",
+    "lxx_ref": "Nehemiah 20:21",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT NEH 10:1 = English/BSB 9:38; MT 10:2-40 = English/BSB 10:1-39"
+  },
+  "NEH-10-23": {
+    "mt_ref": "Nehemiah 10:23",
+    "english_ref": "Nehemiah 10:22",
+    "bsb_ref": "Nehemiah 10:22",
+    "lxx_ref": "Nehemiah 20:22",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT NEH 10:1 = English/BSB 9:38; MT 10:2-40 = English/BSB 10:1-39"
+  },
+  "NEH-10-24": {
+    "mt_ref": "Nehemiah 10:24",
+    "english_ref": "Nehemiah 10:23",
+    "bsb_ref": "Nehemiah 10:23",
+    "lxx_ref": "Nehemiah 20:23",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT NEH 10:1 = English/BSB 9:38; MT 10:2-40 = English/BSB 10:1-39"
+  },
+  "NEH-10-25": {
+    "mt_ref": "Nehemiah 10:25",
+    "english_ref": "Nehemiah 10:24",
+    "bsb_ref": "Nehemiah 10:24",
+    "lxx_ref": "Nehemiah 20:24",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT NEH 10:1 = English/BSB 9:38; MT 10:2-40 = English/BSB 10:1-39"
+  },
+  "NEH-10-26": {
+    "mt_ref": "Nehemiah 10:26",
+    "english_ref": "Nehemiah 10:25",
+    "bsb_ref": "Nehemiah 10:25",
+    "lxx_ref": "Nehemiah 20:25",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT NEH 10:1 = English/BSB 9:38; MT 10:2-40 = English/BSB 10:1-39"
+  },
+  "NEH-10-27": {
+    "mt_ref": "Nehemiah 10:27",
+    "english_ref": "Nehemiah 10:26",
+    "bsb_ref": "Nehemiah 10:26",
+    "lxx_ref": "Nehemiah 20:26",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT NEH 10:1 = English/BSB 9:38; MT 10:2-40 = English/BSB 10:1-39"
+  },
+  "NEH-10-28": {
+    "mt_ref": "Nehemiah 10:28",
+    "english_ref": "Nehemiah 10:27",
+    "bsb_ref": "Nehemiah 10:27",
+    "lxx_ref": "Nehemiah 20:27",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT NEH 10:1 = English/BSB 9:38; MT 10:2-40 = English/BSB 10:1-39"
+  },
+  "NEH-10-29": {
+    "mt_ref": "Nehemiah 10:29",
+    "english_ref": "Nehemiah 10:28",
+    "bsb_ref": "Nehemiah 10:28",
+    "lxx_ref": "Nehemiah 20:28",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT NEH 10:1 = English/BSB 9:38; MT 10:2-40 = English/BSB 10:1-39"
+  },
+  "NEH-10-30": {
+    "mt_ref": "Nehemiah 10:30",
+    "english_ref": "Nehemiah 10:29",
+    "bsb_ref": "Nehemiah 10:29",
+    "lxx_ref": "Nehemiah 20:29",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT NEH 10:1 = English/BSB 9:38; MT 10:2-40 = English/BSB 10:1-39"
+  },
+  "NEH-10-31": {
+    "mt_ref": "Nehemiah 10:31",
+    "english_ref": "Nehemiah 10:30",
+    "bsb_ref": "Nehemiah 10:30",
+    "lxx_ref": "Nehemiah 20:30",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT NEH 10:1 = English/BSB 9:38; MT 10:2-40 = English/BSB 10:1-39"
+  },
+  "NEH-10-32": {
+    "mt_ref": "Nehemiah 10:32",
+    "english_ref": "Nehemiah 10:31",
+    "bsb_ref": "Nehemiah 10:31",
+    "lxx_ref": "Nehemiah 20:31",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT NEH 10:1 = English/BSB 9:38; MT 10:2-40 = English/BSB 10:1-39"
+  },
+  "NEH-10-33": {
+    "mt_ref": "Nehemiah 10:33",
+    "english_ref": "Nehemiah 10:32",
+    "bsb_ref": "Nehemiah 10:32",
+    "lxx_ref": "Nehemiah 20:32",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT NEH 10:1 = English/BSB 9:38; MT 10:2-40 = English/BSB 10:1-39"
+  },
+  "NEH-10-34": {
+    "mt_ref": "Nehemiah 10:34",
+    "english_ref": "Nehemiah 10:33",
+    "bsb_ref": "Nehemiah 10:33",
+    "lxx_ref": "Nehemiah 20:33",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT NEH 10:1 = English/BSB 9:38; MT 10:2-40 = English/BSB 10:1-39"
+  },
+  "NEH-10-35": {
+    "mt_ref": "Nehemiah 10:35",
+    "english_ref": "Nehemiah 10:34",
+    "bsb_ref": "Nehemiah 10:34",
+    "lxx_ref": "Nehemiah 20:34",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT NEH 10:1 = English/BSB 9:38; MT 10:2-40 = English/BSB 10:1-39"
+  },
+  "NEH-10-36": {
+    "mt_ref": "Nehemiah 10:36",
+    "english_ref": "Nehemiah 10:35",
+    "bsb_ref": "Nehemiah 10:35",
+    "lxx_ref": "Nehemiah 20:35",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT NEH 10:1 = English/BSB 9:38; MT 10:2-40 = English/BSB 10:1-39"
+  },
+  "NEH-10-37": {
+    "mt_ref": "Nehemiah 10:37",
+    "english_ref": "Nehemiah 10:36",
+    "bsb_ref": "Nehemiah 10:36",
+    "lxx_ref": "Nehemiah 20:36",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT NEH 10:1 = English/BSB 9:38; MT 10:2-40 = English/BSB 10:1-39"
+  },
+  "NEH-10-38": {
+    "mt_ref": "Nehemiah 10:38",
+    "english_ref": "Nehemiah 10:37",
+    "bsb_ref": "Nehemiah 10:37",
+    "lxx_ref": "Nehemiah 20:37",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT NEH 10:1 = English/BSB 9:38; MT 10:2-40 = English/BSB 10:1-39"
+  },
+  "NEH-10-39": {
+    "mt_ref": "Nehemiah 10:39",
+    "english_ref": "Nehemiah 10:38",
+    "bsb_ref": "Nehemiah 10:38",
+    "lxx_ref": "Nehemiah 20:38",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT NEH 10:1 = English/BSB 9:38; MT 10:2-40 = English/BSB 10:1-39"
+  },
+  "NEH-10-40": {
+    "mt_ref": "Nehemiah 10:40",
+    "english_ref": "Nehemiah 10:39",
+    "bsb_ref": "Nehemiah 10:39",
+    "lxx_ref": "Nehemiah 20:39",
+    "has_superscription": false,
+    "diverges": true,
+    "notes": "MT NEH 10:1 = English/BSB 9:38; MT 10:2-40 = English/BSB 10:1-39"
   }
 }
