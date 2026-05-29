@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-05-29 11:35:20 UTC_
-_Total chapters: 700 · Total verses: 20863_
+_Generated: 2026-05-29 12:22:42 UTC_
+_Total chapters: 701 · Total verses: 20884_
 
 ## How to verify a chapter
 
@@ -280,6 +280,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/colossians_02.json` | 23 | `3f2256da6863f944718b8bdd6dc0f345969e034a7082e1fb0540632187a97bed` | `fa1ba3de` |
 | `output/translations/colossians_03.json` | 25 | `17e946688dd4590eee7d9674a5115229714c94c9612866530d387dc8b61870fc` | `465b1f15` |
 | `output/translations/colossians_04.json` | 18 | `11b9d98690638fff358b18be59925f310cf455e8ad3b7c084fd6b865e1e9e231` | `b64d4872` |
+| `output/translations/daniel_01.json` | 21 | `70a873e156fc02af3bdbd4eaf83bdeb47add61ef7708215c6e552dd41cd71b52` | `—` |
 | `output/translations/deuteronomy_01.json` | 46 | `5f9e9e9de5cec767f7a602935048ff8ea57940b4778f42b627c663be781231ff` | `ccbf792e` |
 | `output/translations/deuteronomy_02.json` | 37 | `1140073e941874c1850fe16ebedccc4b7d0fd433aa1844806b2e8b5c86f259af` | `3379b041` |
 | `output/translations/deuteronomy_03.json` | 29 | `9ee198195a669a254a8d20643935056abfff127740ebc1810f8777efaa10ceb2` | `2b1853d4` |
@@ -329,7 +330,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/esther_07.json` | 10 | `8e3edca7c7f873b6000363380cbeda4f1a6f52c06ebcd8aec9238085ad9c8e7b` | `5545ba20` |
 | `output/translations/esther_08.json` | 17 | `9a0001fbd07c6f8fdb98e8b116c54d2f4bbb4a0270a4391da5fa6c4f4c17d41d` | `7a8bf4c6` |
 | `output/translations/esther_09.json` | 32 | `5066d6cae1f675b61740ab9ed96be692a72cd77fb35aa23003d824c1967682b9` | `2e19aed2` |
-| `output/translations/esther_10.json` | 3 | `b414c865077fb7a1940cb50c0f4062b98f662fb082711984140e742f860a14fd` | `—` |
+| `output/translations/esther_10.json` | 3 | `b414c865077fb7a1940cb50c0f4062b98f662fb082711984140e742f860a14fd` | `ac16d1c9` |
 | `output/translations/exodus_01.json` | 22 | `b871454c4bd1d3b10d4d2fd96e048377b6992d5e5c789bb25b7ab45a3517fe25` | `e1f3afd7` |
 | `output/translations/exodus_02.json` | 25 | `6c90c9dde7d81adc9a7e3670b01e3bc1cf1537847663c4330cc07d8aaa0bfef1` | `ffb74796` |
 | `output/translations/exodus_03.json` | 22 | `5c3146220881116c78f84c73675a3815b8a8944611b9d31d3e2eefc551b22f30` | `a8835f6e` |
