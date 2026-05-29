@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-05-29 11:02:40 UTC_
-_Total chapters: 697 · Total verses: 20811_
+_Generated: 2026-05-29 11:14:13 UTC_
+_Total chapters: 698 · Total verses: 20828_
 
 ## How to verify a chapter
 
@@ -326,7 +326,8 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/esther_04.json` | 17 | `face98905899fba0330329cd6ed7b76f8c436647f97a51df58f8890610f4a4f5` | `f2223b82` |
 | `output/translations/esther_05.json` | 14 | `25f8b100bffc2ddf75724f43a5ba5cfd4b940899903ac00b0e572414c29952e4` | `fc9f728a` |
 | `output/translations/esther_06.json` | 14 | `86f8f39cf32cd0e506ef7e6cf7edff2d90448c6dba8b05a60eddf7837a6de413` | `427070c3` |
-| `output/translations/esther_07.json` | 10 | `8e3edca7c7f873b6000363380cbeda4f1a6f52c06ebcd8aec9238085ad9c8e7b` | `—` |
+| `output/translations/esther_07.json` | 10 | `8e3edca7c7f873b6000363380cbeda4f1a6f52c06ebcd8aec9238085ad9c8e7b` | `5545ba20` |
+| `output/translations/esther_08.json` | 17 | `9a0001fbd07c6f8fdb98e8b116c54d2f4bbb4a0270a4391da5fa6c4f4c17d41d` | `—` |
 | `output/translations/exodus_01.json` | 22 | `b871454c4bd1d3b10d4d2fd96e048377b6992d5e5c789bb25b7ab45a3517fe25` | `e1f3afd7` |
 | `output/translations/exodus_02.json` | 25 | `6c90c9dde7d81adc9a7e3670b01e3bc1cf1537847663c4330cc07d8aaa0bfef1` | `ffb74796` |
 | `output/translations/exodus_03.json` | 22 | `5c3146220881116c78f84c73675a3815b8a8944611b9d31d3e2eefc551b22f30` | `a8835f6e` |
