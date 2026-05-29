@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-05-29 13:37:59 UTC_
-_Total chapters: 705 · Total verses: 21030_
+_Generated: 2026-05-29 13:52:52 UTC_
+_Total chapters: 706 · Total verses: 21059_
 
 ## How to verify a chapter
 
@@ -284,7 +284,8 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/daniel_02.json` | 49 | `6c9118cb7132a5c4ca773679345acfda76f3168e42e2cf9082fb70797b6e3e3f` | `533b91b7` |
 | `output/translations/daniel_03.json` | 33 | `dcf1d458136b62efc0b1c5a338fbaa4c3b542a9c3c01a0ba26fc454d6f325e02` | `b85d6452` |
 | `output/translations/daniel_04.json` | 34 | `4feb8155d89fa5f55821792977bacb17c2f73507723f8d8907da50c3384b3a30` | `6ece78e3` |
-| `output/translations/daniel_05.json` | 30 | `b38dc1bc0735d95e875ab284937946ad2427ec44e5e5510933e7f1c219652b19` | `—` |
+| `output/translations/daniel_05.json` | 30 | `b38dc1bc0735d95e875ab284937946ad2427ec44e5e5510933e7f1c219652b19` | `99cfc6ce` |
+| `output/translations/daniel_06.json` | 29 | `52e318b5097c93d79faa8d5dfcb6c33749795790d38223f06c9247fa2ef29f9f` | `—` |
 | `output/translations/deuteronomy_01.json` | 46 | `5f9e9e9de5cec767f7a602935048ff8ea57940b4778f42b627c663be781231ff` | `ccbf792e` |
 | `output/translations/deuteronomy_02.json` | 37 | `1140073e941874c1850fe16ebedccc4b7d0fd433aa1844806b2e8b5c86f259af` | `3379b041` |
 | `output/translations/deuteronomy_03.json` | 29 | `9ee198195a669a254a8d20643935056abfff127740ebc1810f8777efaa10ceb2` | `2b1853d4` |
