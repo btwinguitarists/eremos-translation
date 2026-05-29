@@ -87,6 +87,7 @@ BOOKS = {
     "EZR": ("ezra", "Ezra"),
     "NEH": ("nehemiah", "Nehemiah"),
     "EST": ("esther", "Esther"),
+    "DAN": ("daniel", "Daniel"),
 }
 
 # OT book codes — the prompt branches on testament so OT packets reference
