@@ -79,6 +79,7 @@ BOOK_SLUGS = {
     "EZR": "ezra",
     "NEH": "nehemiah",
     "EST": "esther",
+    "DAN": "daniel",
 }
 
 TODO_TH = "__TODO_TH__"
