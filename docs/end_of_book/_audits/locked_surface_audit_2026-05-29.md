@@ -49,9 +49,13 @@ Each was corpus-validated (catches its drift, zero false positives on correct ve
 | `therion_beast_apocalyptic` | สัตว์ร้าย | — clean |
 
 ---
-## Part 2 — Drift to fix · REQUIRES BEN SIGN-OFF (38 verses)
+## Part 2 — Drift to fix (38 verses)
 
 All are "conform shipped text to an existing lock" (enforcement, not new decisions). **Regressions** (a decision documented as already-corrected but never applied to the shipped file) are the highest-confidence, lowest-risk fixes. Grouped by lock; ☑ = guard wired this PR.
+
+> **✅ APPLIED in this PR (19 highest-confidence, Ben-approved 2026-05-29):** the 10 true-prophet `ผู้พยากรณ์→ผู้เผยพระวจนะ` (Luke 9:8/9:19/10:24, Acts 21:10, 1 Cor 14:29/14:32/14:37, Rev 10:7/11:10/11:18); `δικαιόω` Rom 2:13 + 1 Cor 6:11 (`นับว่า→ถูกประกาศว่า/ประกาศว่า`); Decalogue Rom 13:9 (`อย่าขโมย→อย่าลักทรัพย์`); kareth Gen 17:14 (`ตัดขาด→ตัดออก`); `parepidemos` Heb 11:13; `judges` 1 Sam 4:18/7:6/7:15/7:16/7:17 (`ตัดสิน→วินิจฉัย`). Their guard exceptions were removed — the checks now enforce them.
+>
+> **⏸ HELD for your call (not applied):** **Titus 1:12** + **2 Pet 2:16** (προφήτης = pagan Cretan poet / Balaam — `ผู้เผยพระวจนะ` may be wrong for non-true-prophets); **Exodus 20:7** (Decalogue — clean §1 rule to mirror DEU 5:11, but a multi-phrase rewrite of a flagship verse — wants your glance); **1 Sam 6:6** (idiom reinterpretation heavy→hardened); **James 2:21/24/25** (doc has a deferral clause); and the non-checkable-doc drifts in `ot_warfare_ethics`, `nicham_divine_relenting`, `nomos_pauline`, `ot_polytheistic_register`, `hebrew_oath_formulas` (judgment-scoped).
 
 ### `ot_nt_cross_quotation_thread` — 12 verses · ☑ wired
 - **Luke 9:8** — προφήτης τις (a prophet of old) rendered ผู้พยากรณ์; locked form is ผู้เผยพระวจนะ

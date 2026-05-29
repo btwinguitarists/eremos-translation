@@ -268,7 +268,6 @@ PHRASE_LOCKS = [
         "expected_thai_contains": 'ลักทรัพย์',
         "must_not_contain": ['ขโมย'],
         "exceptions": {
-            'Romans 13:9': 'auto-audit 2026-05-29: drift pending Ben sign-off (see locked_surface_audit report)',
         },
     },
     {
@@ -279,11 +278,9 @@ PHRASE_LOCKS = [
         "expected_thai_contains": 'ประกาศ',
         "must_not_contain": ['นับว่าชอบธรรม'],
         "exceptions": {
-            '1 Corinthians 6:11': 'auto-audit 2026-05-29: drift pending Ben sign-off (see locked_surface_audit report)',
             'James 2:21': 'auto-audit 2026-05-29: drift pending Ben sign-off (see locked_surface_audit report)',
             'James 2:24': 'auto-audit 2026-05-29: drift pending Ben sign-off (see locked_surface_audit report)',
             'James 2:25': 'auto-audit 2026-05-29: drift pending Ben sign-off (see locked_surface_audit report)',
-            'Romans 2:13': 'auto-audit 2026-05-29: drift pending Ben sign-off (see locked_surface_audit report)',
             'Romans 3:4': 'auto-audit 2026-05-29: drift pending Ben sign-off (see locked_surface_audit report)',
         },
     },
@@ -345,7 +342,6 @@ PHRASE_LOCKS = [
         "expected_thai_contains": 'ตัดออก',
         "must_not_contain": [],
         "exceptions": {
-            'Genesis 17:14': 'auto-audit 2026-05-29: drift pending Ben sign-off (see locked_surface_audit report)',
         },
     },
     {
@@ -379,17 +375,7 @@ PHRASE_LOCKS = [
         "expected_thai_contains": 'ผู้เผยพระวจนะ',
         "must_not_contain": ['ผู้พยากรณ์'],
         "exceptions": {
-            '1 Corinthians 14:29': 'auto-audit 2026-05-29: drift pending Ben sign-off (see locked_surface_audit report)',
-            '1 Corinthians 14:32': 'auto-audit 2026-05-29: drift pending Ben sign-off (see locked_surface_audit report)',
-            '1 Corinthians 14:37': 'auto-audit 2026-05-29: drift pending Ben sign-off (see locked_surface_audit report)',
             '2 Peter 2:16': 'auto-audit 2026-05-29: drift pending Ben sign-off (see locked_surface_audit report)',
-            'Acts 21:10': 'auto-audit 2026-05-29: drift pending Ben sign-off (see locked_surface_audit report)',
-            'Luke 9:8': 'auto-audit 2026-05-29: drift pending Ben sign-off (see locked_surface_audit report)',
-            'Luke 9:19': 'auto-audit 2026-05-29: drift pending Ben sign-off (see locked_surface_audit report)',
-            'Luke 10:24': 'auto-audit 2026-05-29: drift pending Ben sign-off (see locked_surface_audit report)',
-            'Revelation 10:7': 'auto-audit 2026-05-29: drift pending Ben sign-off (see locked_surface_audit report)',
-            'Revelation 11:10': 'auto-audit 2026-05-29: drift pending Ben sign-off (see locked_surface_audit report)',
-            'Revelation 11:18': 'auto-audit 2026-05-29: drift pending Ben sign-off (see locked_surface_audit report)',
             'Titus 1:12': 'auto-audit 2026-05-29: drift pending Ben sign-off (see locked_surface_audit report)',
         },
     },
@@ -400,7 +386,6 @@ PHRASE_LOCKS = [
         "expected_thai_contains": 'คนต่างถิ่น',
         "must_not_contain": [],
         "exceptions": {
-            'Hebrews 11:13': 'auto-audit 2026-05-29: drift pending Ben sign-off (see locked_surface_audit report)',
         },
     },
     {
