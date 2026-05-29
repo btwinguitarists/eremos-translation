@@ -86,6 +86,7 @@ BOOKS = {
     "2CH": ("2chronicles", "2 Chronicles"),
     "EZR": ("ezra", "Ezra"),
     "NEH": ("nehemiah", "Nehemiah"),
+    "EST": ("esther", "Esther"),
 }
 
 # OT book codes — the prompt branches on testament so OT packets reference
