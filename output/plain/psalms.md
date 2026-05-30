@@ -1,6 +1,6 @@
 # สดุดี
 
-_Psalms — 2 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
+_Psalms — 3 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
 
 _This **plain edition** shows only the Thai translation — no commentary, no Greek, no English. Intended for Thai scholars and theological reviewers evaluating the translation on its own terms. For the annotated edition with contextual summaries (บริบท), see `output/reader/psalms.md`. For the underlying Greek, English (BSB) reference, and translator decisions per verse, see the per-chapter review reports at `output/check_reports/psalms_NN_review.md` or the source JSON at `output/translations/`._
 
@@ -84,6 +84,45 @@ _‘จงจุมพิตบุตรนั้น’ แปลจากภา
 
 ---
 
+## บทที่ 3
+
+**1** บทเพลงสดุดีของดาวิด เมื่อทรงหนีจากอับซาโลมราชโอรสของพระองค์
+
+**2** ข้าแต่องค์พระผู้เป็นเจ้า ศัตรูของข้าพระองค์มีมากเหลือเกิน หลายคนลุกขึ้นต่อสู้ข้าพระองค์
+
+**3** หลายคนกล่าวถึงข้าพระองค์ว่า ‘ไม่มีความรอดสำหรับเขาในพระเจ้า’ เซลาห์
+
+**4** แต่พระองค์ องค์พระผู้เป็นเจ้า ทรงเป็นโล่ล้อมรอบข้าพระองค์ ทรงเป็นศักดิ์ศรีของข้าพระองค์ และทรงเป็นผู้เชิดศีรษะของข้าพระองค์ขึ้น
+
+**5** ข้าพระองค์ร้องทูลด้วยเสียงของข้าพระองค์ต่อองค์พระผู้เป็นเจ้า และพระองค์ทรงตอบข้าพระองค์จากภูเขาบริสุทธิ์ของพระองค์ เซลาห์
+
+**6** ข้าพระองค์เอนกายลงและหลับไป ข้าพระองค์ตื่นขึ้น เพราะองค์พระผู้เป็นเจ้าทรงค้ำชูข้าพระองค์ไว้
+
+**7** ข้าพระองค์จะไม่กลัวคนนับหมื่นที่ตั้งตนล้อมรอบต่อสู้ข้าพระองค์
+
+**8** ข้าแต่องค์พระผู้เป็นเจ้า ขอทรงลุกขึ้นเถิด ข้าแต่พระเจ้าของข้าพระองค์ ขอทรงช่วยข้าพระองค์ให้รอด เพราะพระองค์ได้ทรงตบแก้มศัตรูทั้งสิ้นของข้าพระองค์ และทรงหักฟันของคนชั่ว
+
+**9** ความรอดเป็นขององค์พระผู้เป็นเจ้า ขอพระพรของพระองค์อยู่เหนือประชากรของพระองค์ เซลาห์
+
+---
+
+### หมายเหตุด้านต้นฉบับ
+
+**ข้อ 1** — ขาดในต้นฉบับวิจารณ์ (SBLGNT)
+
+_ข้อ 1 เป็น **คำนำ (superscription)** ของบทเพลงสดุดี ซึ่งถือเป็นส่วนหนึ่งของพระคัมภีร์ที่ได้รับการดลใจ. ฉบับฮีบรู MT นับคำนำนี้เป็นข้อ 1 จึงทำให้เลขข้อของ MT มากกว่าฉบับอังกฤษ/BSB อยู่ 1 ข้อตลอดทั้งบท (MT ข้อ 2-9 = อังกฤษ 3:1-8). ฉบับเอเรโมสอ้างอิงเลขข้อตามต้นฉบับ MT/BHS. นี่เป็นบทเพลงสดุดีบทแรกที่มีคำนำ._
+
+**ข้อ 2** — หมายเหตุการแปลพระนามของพระเจ้า
+
+_**องค์พระผู้เป็นเจ้า** ในบทนี้ (ปรากฏครั้งแรกที่ข้อ 2) แปลจากภาษาฮีบรู יהוה (พระนามเฉพาะของพระเจ้า ออกเสียงโดยทั่วไปว่า ‘ยาห์เวห์’). ฉบับเอเรโมสใช้ **องค์พระผู้เป็นเจ้า** ตามแบบแผนของฉบับพันธสัญญาใหม่ที่แปล κύριος ซึ่งในต้นฉบับฮีบรูตรงกับ יהוה. ดูรายละเอียดที่ docs/translator_decisions/divine_names_table_2026-05.md._
+
+**ข้อ 3** — ขาดในต้นฉบับวิจารณ์ (SBLGNT)
+
+_**เซลาห์** (ปรากฏครั้งแรกในหนังสือสดุดีที่นี่) เป็นคำภาษาฮีบรู סֶלָה ที่ยังไม่ทราบความหมายแน่ชัด สันนิษฐานว่าเป็นคำกำกับทางดนตรี (ฉบับ LXX แปลว่า ‘ช่วงพักดนตรี’). ฉบับเอเรโมสถอดเสียงไว้ตามรูปฮีบรู (แบบเดียวกับ ‘ฮาเลลูยาห์’) แทนการแปลความหมายซึ่งไม่แน่นอน._
+
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -92,4 +131,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 |---|---|
 | `output/translations/psalms_01.json` | `76d6ab0eeff688575cc98b661dcac76efc6e3a5dbc80127bb505b645e4e334af` |
 | `output/translations/psalms_02.json` | `d3c20c4004f5411db7f4f09fa5930c667de6c2b9d8ab63da1ffcb1c3f24d0811` |
+| `output/translations/psalms_03.json` | `79436fe101538c7ffc956e980569771fb80218f329adac5457b2e4b8f6ecf6a5` |
 
