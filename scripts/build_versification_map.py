@@ -207,20 +207,41 @@ def build_minor_shift_entries() -> dict[str, dict]:
             "diverges": True,
             "note": "MT begins ch.24 here; English ends ch.23 here — verse shift continues through 24:22 (MT) = 24:1-21 (English)",
         },
-        "JOB-41-1": {
+    }
+    # Job 40-41 divergence zone (BHS/MT numbering). MT/BHS Job 40 has 32 verses,
+    # Job 41 has 26; English Job 40 has 24, Job 41 has 34. The shift:
+    #   MT 40:25-32 = English 41:1-8  ;  MT 41:1-26 = English 41:9-34.
+    # extract_book_hebrew.py uses BHS numbering. Backfilled 2026-05-30 per the JOB
+    # end-of-book audit so cross-reference / USFM export resolves Job 41 correctly.
+    for mt_v in range(25, 33):              # MT 40:25..40:32  = English 41:1..41:8
+        eng_v = mt_v - 24
+        entries[f"JOB-40-{mt_v}"] = {
+            "mt_book": "JOB",
+            "mt_chapter": 40,
+            "mt_verse": mt_v,
+            "mt_ref": f"Job 40:{mt_v}",
+            "english_ref": f"Job 41:{eng_v}",
+            "bsb_ref": f"Job 41:{eng_v}",
+            "diverges": True,
+            "note": "MT/BHS Job 40 has 32 verses; MT 40:25-32 = English 41:1-8.",
+        }
+    for mt_v in range(1, 27):               # MT 41:1..41:26  = English 41:9..41:34
+        eng_v = mt_v + 8
+        entries[f"JOB-41-{mt_v}"] = {
             "mt_book": "JOB",
             "mt_chapter": 41,
-            "mt_verse": 1,
-            "mt_ref": "Job 41:1",
-            "english_ref": "Job 41:9",
-            "bsb_ref": "Job 41:9",
+            "mt_verse": mt_v,
+            "mt_ref": f"Job 41:{mt_v}",
+            "english_ref": f"Job 41:{eng_v}",
+            "bsb_ref": f"Job 41:{eng_v}",
             "diverges": True,
-            "note": "MT/BHS Job 40 has 32 verses, Job 41 has 26. MT 40:25-32 = English 41:1-8; "
-                    "MT 41:1 = English 41:9 (so MT 41:1-26 = English 41:9-34). The extractor "
-                    "(extract_book_hebrew.py) uses this BHS numbering — corrected 2026-05-30 from "
-                    "the earlier 34-verse-English-chapter framing that mislabeled MT 41:1 as Eng 40:25.",
-        },
-    }
+            "note": (
+                "MT/BHS Job 40 has 32 verses, Job 41 has 26. MT 40:25-32 = English 41:1-8; "
+                "MT 41:1 = English 41:9 (so MT 41:1-26 = English 41:9-34). The extractor "
+                "(extract_book_hebrew.py) uses this BHS numbering — corrected 2026-05-30 from "
+                "the earlier 34-verse-English-chapter framing that mislabeled MT 41:1 as Eng 40:25."
+            ) if mt_v == 1 else "MT 41:1-26 = English 41:9-34 (BHS numbering).",
+        }
     return entries
 
 
