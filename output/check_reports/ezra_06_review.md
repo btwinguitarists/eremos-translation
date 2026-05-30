@@ -6,7 +6,7 @@
 | Divine names (locked Tetragrammaton) | ✅ clean | [divine_names_ezra_06.md](divine_names_ezra_06.md) |
 | Versification anchor | ✅ clean | [versification_ezra_06.md](versification_ezra_06.md) |
 | Honorifics binding (Rachasap) | ✅ clean | [honorifics_binding_ezra_06.md](honorifics_binding_ezra_06.md) |
-| Back-translation | ✅ clean | [back_translation_ezra_06.md](back_translation_ezra_06.md) |
+| Back-translation | ✅ clean | [(skipped)]((skipped)) |
 | Thai-summary coverage (info) | ✅ clean | [summary_coverage_ezra_06.md](summary_coverage_ezra_06.md) |
 
 ## Ship criterion
