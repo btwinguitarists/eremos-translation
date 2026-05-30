@@ -1,6 +1,6 @@
 # สดุดี
 
-_Psalms — 25 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
+_Psalms — 26 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
 
 _This **plain edition** shows only the Thai translation — no commentary, no Greek, no English. Intended for Thai scholars and theological reviewers evaluating the translation on its own terms. For the annotated edition with contextual summaries (บริบท), see `output/reader/psalms.md`. For the underlying Greek, English (BSB) reference, and translator decisions per verse, see the per-chapter review reports at `output/check_reports/psalms_NN_review.md` or the source JSON at `output/translations/`._
 
@@ -1245,6 +1245,47 @@ _‘ทรงเป็นมิตรสนิท’ แปลจาก סוֹד
 
 ---
 
+## บทที่ 26
+
+**1** บทเพลงของดาวิด ข้าแต่องค์พระผู้เป็นเจ้า ขอทรงตัดสินความให้ข้าพระองค์ เพราะข้าพระองค์ได้ดำเนินชีวิตด้วยความซื่อสัตย์สุจริต และข้าพระองค์วางใจในองค์พระผู้เป็นเจ้าโดยไม่หวั่นไหว
+
+**2** ข้าแต่องค์พระผู้เป็นเจ้า ขอทรงพิสูจน์และทดสอบข้าพระองค์ ขอทรงตรวจสอบจิตใจและความคิดของข้าพระองค์
+
+**3** เพราะความรักมั่นคงของพระองค์อยู่ต่อหน้าต่อตาข้าพระองค์ และข้าพระองค์ดำเนินอยู่ในความจริงของพระองค์
+
+**4** ข้าพระองค์ไม่ได้นั่งอยู่กับคนหลอกลวง และไม่คบหากับคนเสแสร้ง
+
+**5** ข้าพระองค์เกลียดชังหมู่คนทำชั่ว และจะไม่นั่งอยู่กับคนชั่วร้าย
+
+**6** ข้าพระองค์ล้างมือแสดงความบริสุทธิ์ และเดินรอบแท่นบูชาของพระองค์ ข้าแต่องค์พระผู้เป็นเจ้า
+
+**7** เพื่อจะเปล่งเสียงขอบพระคุณ และประกาศบรรดาพระราชกิจอันมหัศจรรย์ของพระองค์
+
+**8** ข้าแต่องค์พระผู้เป็นเจ้า ข้าพระองค์รักที่ประทับแห่งพระนิเวศของพระองค์ และสถานที่ที่พระสิริของพระองค์สถิตอยู่
+
+**9** ขออย่าทรงกวาดเอาชีวิตข้าพระองค์ไปพร้อมกับคนบาป หรือเอาชีวิตข้าพระองค์ไปกับคนกระหายเลือด
+
+**10** คือผู้ที่ในมือมีแผนการชั่ว และมือขวาของพวกเขาเต็มไปด้วยสินบน
+
+**11** แต่ข้าพระองค์จะดำเนินชีวิตด้วยความซื่อสัตย์สุจริต ขอทรงไถ่ข้าพระองค์และทรงเมตตาข้าพระองค์
+
+**12** เท้าของข้าพระองค์ยืนอยู่บนพื้นที่ราบเรียบ ข้าพระองค์จะสรรเสริญองค์พระผู้เป็นเจ้าในที่ชุมนุม
+
+---
+
+### หมายเหตุด้านต้นฉบับ
+
+**ข้อ 1** — หมายเหตุการแปลพระนามของพระเจ้า
+
+_**องค์พระผู้เป็นเจ้า** ในบทนี้ (ปรากฏครั้งแรกที่ข้อ 1) แปลจากภาษาฮีบรู יהוה (พระนามเฉพาะของพระเจ้า ออกเสียงโดยทั่วไปว่า ‘ยาห์เวห์’). ฉบับเอเรโมสใช้ **องค์พระผู้เป็นเจ้า** ตามแบบแผนของฉบับพันธสัญญาใหม่ที่แปล κύριος ซึ่งในต้นฉบับฮีบรูตรงกับ יהוה. ดูรายละเอียดที่ docs/translator_decisions/divine_names_table_2026-05.md._
+
+**ข้อ 2** — ขาดในต้นฉบับวิจารณ์ (SBLGNT)
+
+_‘จิตใจและความคิด’ แปลจาก כִּלְיוֹת (ตามตัวอักษร ‘ไต’) และ לֵב (‘หัวใจ’) — ในภาษาฮีบรู ไตและหัวใจเป็นสัญลักษณ์ของส่วนลึกที่สุดของความคิด อารมณ์ และมโนธรรมของมนุษย์. คำกริยา צָרַף หมายถึง ‘หลอมโลหะให้บริสุทธิ์’ จึงเป็นภาพของการตรวจสอบจิตใจอย่างถี่ถ้วน._
+
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -1276,4 +1317,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/psalms_23.json` | `410f2299e16cf32311244218622c1987db210e03dbedf5ecda696c66f56c6d84` |
 | `output/translations/psalms_24.json` | `00511c6797d6fc79d5ed30af50ec2e2f3faeb4a52690cf93cec5481c5e7930e4` |
 | `output/translations/psalms_25.json` | `7582c905b041682f36e50910ddaa49ba27f020cce2937ab59e6f5cac03333bf5` |
+| `output/translations/psalms_26.json` | `580b85024ce4f0088dfb8d197cfc85d7c4b42919b568457e7aadfbea296faeb6` |
 
