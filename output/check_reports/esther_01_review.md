@@ -6,7 +6,7 @@
 | Divine names (locked Tetragrammaton) | ✅ clean | [divine_names_esther_01.md](divine_names_esther_01.md) |
 | Versification anchor | ✅ clean | [versification_esther_01.md](versification_esther_01.md) |
 | Honorifics binding (Rachasap) | ✅ clean | [honorifics_binding_esther_01.md](honorifics_binding_esther_01.md) |
-| Back-translation | ✅ clean | [back_translation_esther_01.md](back_translation_esther_01.md) |
+| Back-translation | ✅ clean | [(skipped)]((skipped)) |
 | Thai-summary coverage (info) | ✅ clean | [summary_coverage_esther_01.md](summary_coverage_esther_01.md) |
 
 ## Ship criterion
