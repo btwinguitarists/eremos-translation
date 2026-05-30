@@ -1,6 +1,6 @@
 # สดุดี
 
-_Psalms — 45 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
+_Psalms — 46 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
 
 _This **plain edition** shows only the Thai translation — no commentary, no Greek, no English. Intended for Thai scholars and theological reviewers evaluating the translation on its own terms. For the annotated edition with contextual summaries (บริบท), see `output/reader/psalms.md`. For the underlying Greek, English (BSB) reference, and translator decisions per verse, see the per-chapter review reports at `output/check_reports/psalms_NN_review.md` or the source JSON at `output/translations/`._
 
@@ -2377,6 +2377,51 @@ _‘เจ้านายของเธอ’ ในข้อนี้แปล
 
 ---
 
+## บทที่ 46
+
+**1** ถึงหัวหน้านักดนตรี ของบุตรหลานโคราห์ ตามทำนองอาลาโมท บทเพลง
+
+**2** พระเจ้าทรงเป็นที่ลี้ภัยและกำลังของเรา เป็นความช่วยเหลือที่พร้อมเสมอในยามทุกข์ร้อน
+
+**3** เพราะฉะนั้นเราจะไม่กลัว แม้แผ่นดินโลกจะเปลี่ยนแปลงไป และภูเขาจะทลายลงสู่ใจกลางทะเล
+
+**4** แม้น้ำในทะเลจะคำรามและซัดสาด และภูเขาจะสั่นสะเทือนด้วยความปั่นป่วนของมัน เซลาห์
+
+**5** มีแม่น้ำสายหนึ่ง ลำธารของมันทำให้นครของพระเจ้าชื่นบาน คือสถานบริสุทธิ์ที่ประทับขององค์ผู้สูงสุด
+
+**6** พระเจ้าสถิตอยู่ท่ามกลางนครนั้น มันจะไม่คลอนแคลน พระเจ้าจะทรงช่วยนครนั้นเมื่อรุ่งอรุณมาถึง
+
+**7** บรรดาประชาชาติโกลาหล อาณาจักรทั้งหลายล่มสลาย เมื่อพระองค์ทรงเปล่งพระสุรเสียง แผ่นดินโลกก็ละลายไป
+
+**8** องค์พระผู้เป็นเจ้าจอมโยธาสถิตกับเรา พระเจ้าแห่งยาโคบทรงเป็นป้อมปราการของเรา เซลาห์
+
+**9** มาเถิด มาดูพระราชกิจขององค์พระผู้เป็นเจ้า ผู้ทรงนำความรกร้างมาสู่แผ่นดินโลก
+
+**10** พระองค์ทรงทำให้สงครามยุติทั่วทั้งแผ่นดินโลก ทรงหักธนูและฟันหอกให้แตกหัก ทรงเผารถรบในไฟ
+
+**11** ‘จงนิ่งสงบและรู้เถิดว่าเราคือพระเจ้า เราจะได้รับการยกย่องท่ามกลางประชาชาติ เราจะได้รับการยกย่องทั่วแผ่นดินโลก’
+
+**12** องค์พระผู้เป็นเจ้าจอมโยธาสถิตกับเรา พระเจ้าแห่งยาโคบทรงเป็นป้อมปราการของเรา เซลาห์
+
+---
+
+### หมายเหตุด้านต้นฉบับ
+
+**ข้อ 1** — ขาดในต้นฉบับวิจารณ์ (SBLGNT)
+
+_ข้อ 1 เป็นคำนำ ‘ของบุตรหลานโคราห์ ตามทำนองอาลาโมท’ (อาจเป็นทำนองสำหรับเสียงสูง). บทนี้อยู่ในเล่มที่ 2 ของสดุดี. ฉบับฮีบรู MT นับคำนำเป็นข้อ 1 จึงทำให้เลขข้อ MT มากกว่าฉบับอังกฤษ/BSB 1 ข้อตลอดบท (MT ข้อ 2-12 = อังกฤษ 46:1-11). ฉบับเอเรโมสอ้างอิงเลขข้อตาม MT/BHS._
+
+**ข้อ 8** — หมายเหตุการแปลพระนามของพระเจ้า
+
+_**องค์พระผู้เป็นเจ้า** ในบทนี้ (ปรากฏครั้งแรกที่ข้อ 8) แปลจากภาษาฮีบรู יהוה (พระนามเฉพาะของพระเจ้า ออกเสียงโดยทั่วไปว่า ‘ยาห์เวห์’). ‘องค์พระผู้เป็นเจ้าจอมโยธา’ แปลจาก יְהוָה צְבָאוֹת (YHWH of hosts) — พระนามที่เน้นว่าพระองค์ทรงบัญชากองทัพแห่งสวรรค์. ข้อ 8 และ 12 เป็นบทซ้ำ. (ในเล่มที่ 2 ส่วนใหญ่ใช้ ‘พระเจ้า’ = אֱלֹהִים). ดูรายละเอียดที่ docs/translator_decisions/divine_names_table_2026-05.md._
+
+**ข้อ 11** — ขาดในต้นฉบับวิจารณ์ (SBLGNT)
+
+_‘จงนิ่งสงบและรู้เถิดว่าเราคือพระเจ้า’ (ข้อ 11) เป็นพระดำรัสของพระเจ้าเอง — ทรงเรียกให้มนุษย์หยุดดิ้นรนและหวาดกลัว แล้วยอมรับว่าพระองค์ทรงเป็นพระเจ้าผู้ครอบครองเหนือประชาชาติและทั่วแผ่นดินโลก._
+
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -2428,4 +2473,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/psalms_43.json` | `cca94a8a02d5f534b7dc734f27fa0cd80e4ea3d56ee5b0030e044ee5af360b4e` |
 | `output/translations/psalms_44.json` | `b17d4b433e9815c7af908fdc4435964584674b5dd777d418aa6336fceec665aa` |
 | `output/translations/psalms_45.json` | `1bd39762b1162251fa1a173bec61d2a99bc5058f551ec42bc1941ed4e39f8433` |
+| `output/translations/psalms_46.json` | `0418719c31c8d6e3322b1a119e8a95e7ad942bb88ca60bc5cc5c262c59d810a5` |
 
