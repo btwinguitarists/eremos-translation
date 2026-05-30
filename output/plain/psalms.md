@@ -1,6 +1,6 @@
 # สดุดี
 
-_Psalms — 10 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
+_Psalms — 11 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
 
 _This **plain edition** shows only the Thai translation — no commentary, no Greek, no English. Intended for Thai scholars and theological reviewers evaluating the translation on its own terms. For the annotated edition with contextual summaries (บริบท), see `output/reader/psalms.md`. For the underlying Greek, English (BSB) reference, and translator decisions per verse, see the per-chapter review reports at `output/check_reports/psalms_NN_review.md` or the source JSON at `output/translations/`._
 
@@ -482,6 +482,33 @@ _อัครทูตเปาโลอ้างข้อนี้ใน โร
 
 ---
 
+## บทที่ 11
+
+**1** ถึงหัวหน้านักดนตรี ของดาวิด ในองค์พระผู้เป็นเจ้า ข้าพระองค์เข้าลี้ภัย เหตุใดท่านทั้งหลายจึงพูดกับข้าพระองค์ว่า ‘จงหนีไปยังภูเขาของเจ้าดุจนกเถิด’
+
+**2** เพราะดูเถิด คนชั่วโก่งคันธนู เขาเอาลูกศรพาดสายไว้ เพื่อยิงคนใจเที่ยงตรงจากที่มืด
+
+**3** เมื่อรากฐานถูกทำลาย คนชอบธรรมจะทำอะไรได้เล่า
+
+**4** องค์พระผู้เป็นเจ้าทรงสถิตในพระวิหารบริสุทธิ์ของพระองค์ องค์พระผู้เป็นเจ้าทรงมีพระที่นั่งอยู่ในฟ้าสวรรค์ พระเนตรของพระองค์เฝ้าดู หนังพระเนตรของพระองค์พิเคราะห์บุตรของมนุษย์
+
+**5** องค์พระผู้เป็นเจ้าทรงทดสอบทั้งคนชอบธรรมและคนชั่ว แต่พระทัยของพระองค์เกลียดชังคนที่รักความรุนแรง
+
+**6** พระองค์จะทรงเทถ่านเพลิงและกำมะถันลงบนคนชั่ว ลมที่แผดเผาจะเป็นส่วนแบ่งในถ้วยของพวกเขา
+
+**7** เพราะองค์พระผู้เป็นเจ้าทรงชอบธรรม พระองค์ทรงรักความเที่ยงธรรม คนเที่ยงตรงจะได้เห็นพระพักตร์ของพระองค์
+
+---
+
+### หมายเหตุด้านต้นฉบับ
+
+**ข้อ 1** — หมายเหตุการแปลพระนามของพระเจ้า
+
+_**องค์พระผู้เป็นเจ้า** ในบทนี้ (ปรากฏครั้งแรกที่ข้อ 1) แปลจากภาษาฮีบรู יהוה (พระนามเฉพาะของพระเจ้า ออกเสียงโดยทั่วไปว่า ‘ยาห์เวห์’). คำนำสั้น ๆ (‘ถึงหัวหน้านักดนตรี ของดาวิด’) รวมอยู่ในข้อ 1 ทั้งในต้นฉบับฮีบรูและฉบับอังกฤษ จึงไม่มีการเหลื่อมเลขข้อในบทนี้. ดู docs/translator_decisions/divine_names_table_2026-05.md._
+
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -498,4 +525,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/psalms_08.json` | `6c43a99c1c291fff4c804e6c53651d3b97829d6d571f5a4ecee807698d6d2df5` |
 | `output/translations/psalms_09.json` | `fa81b48b8ed13c1361e96de2d62be7f18adf7d5c7b4ae8f754b03bba26bd595e` |
 | `output/translations/psalms_10.json` | `946cc0cb79194762a68d242fc04b35661c3e4b3107693519e26e204458c35c43` |
+| `output/translations/psalms_11.json` | `8fe8d3d390c4e81b80e313ca047a620ce9cd20705bebba2b89ba20622c4b60f5` |
 
