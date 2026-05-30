@@ -5,7 +5,7 @@
     "policy": "docs/translator_decisions/verse_schema_and_versification_2026-05.md"
   },
   "_psalm_superscription_count": 66,
-  "_total_entries": 1190,
+  "_total_entries": 1223,
   "PSA-3-1": {
     "mt_book": "PSA",
     "mt_chapter": 3,
@@ -11967,10 +11967,10 @@
     "mt_chapter": 41,
     "mt_verse": 1,
     "mt_ref": "Job 41:1",
-    "english_ref": "Job 40:25",
-    "bsb_ref": "Job 40:25",
+    "english_ref": "Job 41:9",
+    "bsb_ref": "Job 41:9",
     "diverges": true,
-    "note": "MT Job 41:1-8 = English 40:25-32; MT 41:9 = English 41:1"
+    "note": "MT/BHS Job 40 has 32 verses, Job 41 has 26. MT 40:25-32 = English 41:1-8; MT 41:1 = English 41:9 (MT 41:1-26 = English 41:9-34). The extractor uses this BHS numbering — corrected 2026-05-30 from the earlier 34-verse framing that mislabeled MT 41:1 as Eng 40:25."
   },
   "JON-2-1": {
     "mt_book": "JON",
@@ -13717,5 +13717,335 @@
     "has_superscription": false,
     "diverges": true,
     "notes": "MT NEH 10:1 = English/BSB 9:38; MT 10:2-40 = English/BSB 10:1-39"
+  },
+  "JOB-40-25": {
+    "mt_book": "JOB",
+    "mt_chapter": 40,
+    "mt_verse": 25,
+    "mt_ref": "Job 40:25",
+    "english_ref": "Job 41:1",
+    "bsb_ref": "Job 41:1",
+    "diverges": true,
+    "note": "MT/BHS Job 40 has 32 verses; MT 40:25-32 = English 41:1-8."
+  },
+  "JOB-40-26": {
+    "mt_book": "JOB",
+    "mt_chapter": 40,
+    "mt_verse": 26,
+    "mt_ref": "Job 40:26",
+    "english_ref": "Job 41:2",
+    "bsb_ref": "Job 41:2",
+    "diverges": true,
+    "note": "MT/BHS Job 40 has 32 verses; MT 40:25-32 = English 41:1-8."
+  },
+  "JOB-40-27": {
+    "mt_book": "JOB",
+    "mt_chapter": 40,
+    "mt_verse": 27,
+    "mt_ref": "Job 40:27",
+    "english_ref": "Job 41:3",
+    "bsb_ref": "Job 41:3",
+    "diverges": true,
+    "note": "MT/BHS Job 40 has 32 verses; MT 40:25-32 = English 41:1-8."
+  },
+  "JOB-40-28": {
+    "mt_book": "JOB",
+    "mt_chapter": 40,
+    "mt_verse": 28,
+    "mt_ref": "Job 40:28",
+    "english_ref": "Job 41:4",
+    "bsb_ref": "Job 41:4",
+    "diverges": true,
+    "note": "MT/BHS Job 40 has 32 verses; MT 40:25-32 = English 41:1-8."
+  },
+  "JOB-40-29": {
+    "mt_book": "JOB",
+    "mt_chapter": 40,
+    "mt_verse": 29,
+    "mt_ref": "Job 40:29",
+    "english_ref": "Job 41:5",
+    "bsb_ref": "Job 41:5",
+    "diverges": true,
+    "note": "MT/BHS Job 40 has 32 verses; MT 40:25-32 = English 41:1-8."
+  },
+  "JOB-40-30": {
+    "mt_book": "JOB",
+    "mt_chapter": 40,
+    "mt_verse": 30,
+    "mt_ref": "Job 40:30",
+    "english_ref": "Job 41:6",
+    "bsb_ref": "Job 41:6",
+    "diverges": true,
+    "note": "MT/BHS Job 40 has 32 verses; MT 40:25-32 = English 41:1-8."
+  },
+  "JOB-40-31": {
+    "mt_book": "JOB",
+    "mt_chapter": 40,
+    "mt_verse": 31,
+    "mt_ref": "Job 40:31",
+    "english_ref": "Job 41:7",
+    "bsb_ref": "Job 41:7",
+    "diverges": true,
+    "note": "MT/BHS Job 40 has 32 verses; MT 40:25-32 = English 41:1-8."
+  },
+  "JOB-40-32": {
+    "mt_book": "JOB",
+    "mt_chapter": 40,
+    "mt_verse": 32,
+    "mt_ref": "Job 40:32",
+    "english_ref": "Job 41:8",
+    "bsb_ref": "Job 41:8",
+    "diverges": true,
+    "note": "MT/BHS Job 40 has 32 verses; MT 40:25-32 = English 41:1-8."
+  },
+  "JOB-41-2": {
+    "mt_book": "JOB",
+    "mt_chapter": 41,
+    "mt_verse": 2,
+    "mt_ref": "Job 41:2",
+    "english_ref": "Job 41:10",
+    "bsb_ref": "Job 41:10",
+    "diverges": true,
+    "note": "MT 41:1-26 = English 41:9-34 (BHS numbering)."
+  },
+  "JOB-41-3": {
+    "mt_book": "JOB",
+    "mt_chapter": 41,
+    "mt_verse": 3,
+    "mt_ref": "Job 41:3",
+    "english_ref": "Job 41:11",
+    "bsb_ref": "Job 41:11",
+    "diverges": true,
+    "note": "MT 41:1-26 = English 41:9-34 (BHS numbering)."
+  },
+  "JOB-41-4": {
+    "mt_book": "JOB",
+    "mt_chapter": 41,
+    "mt_verse": 4,
+    "mt_ref": "Job 41:4",
+    "english_ref": "Job 41:12",
+    "bsb_ref": "Job 41:12",
+    "diverges": true,
+    "note": "MT 41:1-26 = English 41:9-34 (BHS numbering)."
+  },
+  "JOB-41-5": {
+    "mt_book": "JOB",
+    "mt_chapter": 41,
+    "mt_verse": 5,
+    "mt_ref": "Job 41:5",
+    "english_ref": "Job 41:13",
+    "bsb_ref": "Job 41:13",
+    "diverges": true,
+    "note": "MT 41:1-26 = English 41:9-34 (BHS numbering)."
+  },
+  "JOB-41-6": {
+    "mt_book": "JOB",
+    "mt_chapter": 41,
+    "mt_verse": 6,
+    "mt_ref": "Job 41:6",
+    "english_ref": "Job 41:14",
+    "bsb_ref": "Job 41:14",
+    "diverges": true,
+    "note": "MT 41:1-26 = English 41:9-34 (BHS numbering)."
+  },
+  "JOB-41-7": {
+    "mt_book": "JOB",
+    "mt_chapter": 41,
+    "mt_verse": 7,
+    "mt_ref": "Job 41:7",
+    "english_ref": "Job 41:15",
+    "bsb_ref": "Job 41:15",
+    "diverges": true,
+    "note": "MT 41:1-26 = English 41:9-34 (BHS numbering)."
+  },
+  "JOB-41-8": {
+    "mt_book": "JOB",
+    "mt_chapter": 41,
+    "mt_verse": 8,
+    "mt_ref": "Job 41:8",
+    "english_ref": "Job 41:16",
+    "bsb_ref": "Job 41:16",
+    "diverges": true,
+    "note": "MT 41:1-26 = English 41:9-34 (BHS numbering)."
+  },
+  "JOB-41-9": {
+    "mt_book": "JOB",
+    "mt_chapter": 41,
+    "mt_verse": 9,
+    "mt_ref": "Job 41:9",
+    "english_ref": "Job 41:17",
+    "bsb_ref": "Job 41:17",
+    "diverges": true,
+    "note": "MT 41:1-26 = English 41:9-34 (BHS numbering)."
+  },
+  "JOB-41-10": {
+    "mt_book": "JOB",
+    "mt_chapter": 41,
+    "mt_verse": 10,
+    "mt_ref": "Job 41:10",
+    "english_ref": "Job 41:18",
+    "bsb_ref": "Job 41:18",
+    "diverges": true,
+    "note": "MT 41:1-26 = English 41:9-34 (BHS numbering)."
+  },
+  "JOB-41-11": {
+    "mt_book": "JOB",
+    "mt_chapter": 41,
+    "mt_verse": 11,
+    "mt_ref": "Job 41:11",
+    "english_ref": "Job 41:19",
+    "bsb_ref": "Job 41:19",
+    "diverges": true,
+    "note": "MT 41:1-26 = English 41:9-34 (BHS numbering)."
+  },
+  "JOB-41-12": {
+    "mt_book": "JOB",
+    "mt_chapter": 41,
+    "mt_verse": 12,
+    "mt_ref": "Job 41:12",
+    "english_ref": "Job 41:20",
+    "bsb_ref": "Job 41:20",
+    "diverges": true,
+    "note": "MT 41:1-26 = English 41:9-34 (BHS numbering)."
+  },
+  "JOB-41-13": {
+    "mt_book": "JOB",
+    "mt_chapter": 41,
+    "mt_verse": 13,
+    "mt_ref": "Job 41:13",
+    "english_ref": "Job 41:21",
+    "bsb_ref": "Job 41:21",
+    "diverges": true,
+    "note": "MT 41:1-26 = English 41:9-34 (BHS numbering)."
+  },
+  "JOB-41-14": {
+    "mt_book": "JOB",
+    "mt_chapter": 41,
+    "mt_verse": 14,
+    "mt_ref": "Job 41:14",
+    "english_ref": "Job 41:22",
+    "bsb_ref": "Job 41:22",
+    "diverges": true,
+    "note": "MT 41:1-26 = English 41:9-34 (BHS numbering)."
+  },
+  "JOB-41-15": {
+    "mt_book": "JOB",
+    "mt_chapter": 41,
+    "mt_verse": 15,
+    "mt_ref": "Job 41:15",
+    "english_ref": "Job 41:23",
+    "bsb_ref": "Job 41:23",
+    "diverges": true,
+    "note": "MT 41:1-26 = English 41:9-34 (BHS numbering)."
+  },
+  "JOB-41-16": {
+    "mt_book": "JOB",
+    "mt_chapter": 41,
+    "mt_verse": 16,
+    "mt_ref": "Job 41:16",
+    "english_ref": "Job 41:24",
+    "bsb_ref": "Job 41:24",
+    "diverges": true,
+    "note": "MT 41:1-26 = English 41:9-34 (BHS numbering)."
+  },
+  "JOB-41-17": {
+    "mt_book": "JOB",
+    "mt_chapter": 41,
+    "mt_verse": 17,
+    "mt_ref": "Job 41:17",
+    "english_ref": "Job 41:25",
+    "bsb_ref": "Job 41:25",
+    "diverges": true,
+    "note": "MT 41:1-26 = English 41:9-34 (BHS numbering)."
+  },
+  "JOB-41-18": {
+    "mt_book": "JOB",
+    "mt_chapter": 41,
+    "mt_verse": 18,
+    "mt_ref": "Job 41:18",
+    "english_ref": "Job 41:26",
+    "bsb_ref": "Job 41:26",
+    "diverges": true,
+    "note": "MT 41:1-26 = English 41:9-34 (BHS numbering)."
+  },
+  "JOB-41-19": {
+    "mt_book": "JOB",
+    "mt_chapter": 41,
+    "mt_verse": 19,
+    "mt_ref": "Job 41:19",
+    "english_ref": "Job 41:27",
+    "bsb_ref": "Job 41:27",
+    "diverges": true,
+    "note": "MT 41:1-26 = English 41:9-34 (BHS numbering)."
+  },
+  "JOB-41-20": {
+    "mt_book": "JOB",
+    "mt_chapter": 41,
+    "mt_verse": 20,
+    "mt_ref": "Job 41:20",
+    "english_ref": "Job 41:28",
+    "bsb_ref": "Job 41:28",
+    "diverges": true,
+    "note": "MT 41:1-26 = English 41:9-34 (BHS numbering)."
+  },
+  "JOB-41-21": {
+    "mt_book": "JOB",
+    "mt_chapter": 41,
+    "mt_verse": 21,
+    "mt_ref": "Job 41:21",
+    "english_ref": "Job 41:29",
+    "bsb_ref": "Job 41:29",
+    "diverges": true,
+    "note": "MT 41:1-26 = English 41:9-34 (BHS numbering)."
+  },
+  "JOB-41-22": {
+    "mt_book": "JOB",
+    "mt_chapter": 41,
+    "mt_verse": 22,
+    "mt_ref": "Job 41:22",
+    "english_ref": "Job 41:30",
+    "bsb_ref": "Job 41:30",
+    "diverges": true,
+    "note": "MT 41:1-26 = English 41:9-34 (BHS numbering)."
+  },
+  "JOB-41-23": {
+    "mt_book": "JOB",
+    "mt_chapter": 41,
+    "mt_verse": 23,
+    "mt_ref": "Job 41:23",
+    "english_ref": "Job 41:31",
+    "bsb_ref": "Job 41:31",
+    "diverges": true,
+    "note": "MT 41:1-26 = English 41:9-34 (BHS numbering)."
+  },
+  "JOB-41-24": {
+    "mt_book": "JOB",
+    "mt_chapter": 41,
+    "mt_verse": 24,
+    "mt_ref": "Job 41:24",
+    "english_ref": "Job 41:32",
+    "bsb_ref": "Job 41:32",
+    "diverges": true,
+    "note": "MT 41:1-26 = English 41:9-34 (BHS numbering)."
+  },
+  "JOB-41-25": {
+    "mt_book": "JOB",
+    "mt_chapter": 41,
+    "mt_verse": 25,
+    "mt_ref": "Job 41:25",
+    "english_ref": "Job 41:33",
+    "bsb_ref": "Job 41:33",
+    "diverges": true,
+    "note": "MT 41:1-26 = English 41:9-34 (BHS numbering)."
+  },
+  "JOB-41-26": {
+    "mt_book": "JOB",
+    "mt_chapter": 41,
+    "mt_verse": 26,
+    "mt_ref": "Job 41:26",
+    "english_ref": "Job 41:34",
+    "bsb_ref": "Job 41:34",
+    "diverges": true,
+    "note": "MT 41:1-26 = English 41:9-34 (BHS numbering)."
   }
 }

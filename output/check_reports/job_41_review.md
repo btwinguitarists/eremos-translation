@@ -6,8 +6,9 @@
 | Divine names (locked Tetragrammaton) | ✅ clean | [divine_names_job_41.md](divine_names_job_41.md) |
 | Versification anchor | ✅ clean | [versification_job_41.md](versification_job_41.md) |
 | Honorifics binding (Rachasap) | ✅ clean | [honorifics_binding_job_41.md](honorifics_binding_job_41.md) |
-| Back-translation | ✅ clean | [back_translation_job_41.md](back_translation_job_41.md) |
+| Back-translation | ✅ clean | [(skipped)]((skipped)) |
 | Thai-summary coverage (info) | ✅ clean | [summary_coverage_job_41.md](summary_coverage_job_41.md) |
+| Claim consistency (hallucination, advisory) | ✅ clean | [claim_consistency_job_41.md](claim_consistency_job_41.md) |
 
 ## Ship criterion
 

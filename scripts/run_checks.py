@@ -186,13 +186,16 @@ def run_ot_checks(slug: str, chapter: int, language: str, args, summary: dict, r
       1. Hebrew/Aramaic-field integrity (sibling to Greek-field check)
       2. Divine-names enforcement (locked Tetragrammaton + family)
       3. Versification anchor (MT verse numbering + divergence-zone metadata)
-      4. Back-translation (language-agnostic; reused as-is from NT)
-      5. Thai-summary coverage (language-agnostic; reused as-is from NT)
+      4. Honorifics binding (Rachasap ทรง- subject check)
+      5. Back-translation (language-agnostic; reused as-is from NT)
+      6. Thai-summary coverage (language-agnostic; reused as-is from NT)
+      7. Claim-consistency (hallucination / pipeline-hypocrisy detector) — ADVISORY
+         on OT (note-scanning is language-agnostic; recorded non-blocking until
+         validated on a full clean book, per the post-Job enhancement review)
 
     NOT yet wired (TBD as scripts arrive):
       - check_key_term_consistency (needs Hebrew CANONICAL_TERMS extension)
       - check_phrase_consistency (needs Hebrew PHRASE_LOCKS extension)
-      - check_claim_consistency (needs Hebrew claim patterns)
       - check_parallel_passages (needs ot_parallels.json)
       - check_ketib_qere (warning-only, future)
       - check_lxx_mt_divergence (metadata-only, future)
@@ -210,21 +213,21 @@ def run_ot_checks(slug: str, chapter: int, language: str, args, summary: dict, r
     )
 
     # 1. Hebrew/Aramaic field integrity
-    print("[1/5] Hebrew-field integrity (metadata hallucination check)...")
+    print("[1/7] Hebrew-field integrity (metadata hallucination check)...")
     code, _ = run([sys.executable, str(SCRIPTS / "check_hebrew_field_integrity.py"),
                    "--book", book_code, "--chapter", str(chapter), "--report"])
     record("Hebrew-field integrity", code,
            f"hebrew_field_integrity_{slug}_{chapter:02d}.md")
 
     # 2. Divine-names enforcement (locked Tetragrammaton policy)
-    print("[2/5] Divine-names enforcement...")
+    print("[2/7] Divine-names enforcement...")
     code, _ = run([sys.executable, str(SCRIPTS / "check_divine_names.py"),
                    "--book", book_code, "--chapter", str(chapter), "--report"])
     record("Divine names (locked Tetragrammaton)", code,
            f"divine_names_{slug}_{chapter:02d}.md")
 
     # 3. Versification anchor (MT versification + divergence zones)
-    print("[3/6] Versification anchor (MT-anchored numbering)...")
+    print("[3/7] Versification anchor (MT-anchored numbering)...")
     code, _ = run([sys.executable, str(SCRIPTS / "check_versification_anchor.py"),
                    "--book", book_code, "--chapter", str(chapter), "--report"])
     record("Versification anchor", code,
@@ -233,7 +236,7 @@ def run_ot_checks(slug: str, chapter: int, language: str, args, summary: dict, r
     # 4. Honorifics binding (Rachasap — ทรง- bound to divine/royal subjects only)
     # Catches the Ruth 1:13 class — body-part-of-God (พระหัตถ์, พระเนตร, etc.)
     # in subject position taking ทรง- on the verb. Per ot_register_policy_2026-05.
-    print("[4/6] Honorifics binding (Rachasap ทรง- subject check)...")
+    print("[4/7] Honorifics binding (Rachasap ทรง- subject check)...")
     code, _ = run([sys.executable, str(SCRIPTS / "check_honorifics_binding.py"),
                    "--book", book_code, "--chapter", str(chapter), "--report"])
     record("Honorifics binding (Rachasap)", code,
@@ -241,10 +244,10 @@ def run_ot_checks(slug: str, chapter: int, language: str, args, summary: dict, r
 
     # 5. Back-translation (language-agnostic — reused from NT)
     if args.skip_back_translation:
-        print("[5/6] Back-translation — skipped per flag")
+        print("[5/7] Back-translation — skipped per flag")
         record("Back-translation", 0, "(skipped)", "skipped via --skip-back-translation")
     else:
-        print("[5/6] Back-translation...")
+        print("[5/7] Back-translation...")
         code, out = run([sys.executable, str(SCRIPTS / "check_back_translation.py"),
                         "--book", slug, "--chapter", str(chapter)])
         bt_file = ROOT / "output" / "back_translations" / f"{slug}_{chapter:02d}.json"
@@ -256,12 +259,25 @@ def run_ot_checks(slug: str, chapter: int, language: str, args, summary: dict, r
                    "MISSING — Claude must back-translate per prompt before re-running")
 
     # 6. Summary-coverage (informational, language-agnostic)
-    print("[6/6] Thai-summary coverage (informational)...")
+    print("[6/7] Thai-summary coverage (informational)...")
     code, _ = run([sys.executable, str(SCRIPTS / "check_summary_coverage.py"),
                    "--book", slug, "--chapter", str(chapter)])
     record("Thai-summary coverage (info)", 0,
            f"summary_coverage_{slug}_{chapter:02d}.md",
            "informational only — not a ship gate")
+
+    # 7. Claim-consistency (hallucination / pipeline-hypocrisy detector) — ADVISORY on OT.
+    # Language-agnostic: scans translation notes for claimed side-effects (glossary /
+    # HASHES.md / nt_ot_citations updates) and verifies the artifact actually changed.
+    # Wired advisory-first per the post-Job enhancement review — it writes its report
+    # and surfaces the raw exit code in `notes`, but is recorded with exit_code=0 so it
+    # NEVER gates the OT ship. Flip to blocking only after a full clean book validates it.
+    print("[7/7] Claim-consistency (hallucination check — advisory)...")
+    code, _ = run([sys.executable, str(SCRIPTS / "check_claim_consistency.py"),
+                   "--book", slug, "--chapter", str(chapter)])
+    record("Claim consistency (hallucination, advisory)", 0,
+           f"claim_consistency_{slug}_{chapter:02d}.md",
+           f"advisory only — not a ship gate (raw exit={code})")
 
 
 def main():
