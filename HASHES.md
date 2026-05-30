@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-05-30 01:59:10 UTC_
-_Total chapters: 732 · Total verses: 21706_
+_Generated: 2026-05-30 02:06:48 UTC_
+_Total chapters: 733 · Total verses: 21740_
 
 ## How to verify a chapter
 
@@ -485,7 +485,8 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/job_17.json` | 16 | `b07a636a2aa552cd12b724bb6d1db8281ccf3f449235e5d422fa367a20f95960` | `b806a6cd` |
 | `output/translations/job_18.json` | 21 | `f83680b9fb396e653561a60bdde8e85409732aac013e96fffa114f31704ba9cf` | `7abfa326` |
 | `output/translations/job_19.json` | 29 | `38dfffb42fe8e086b21173546e8cf9a23bb6f54c8f41fc1b5ea399e6b5d34ef3` | `f952e212` |
-| `output/translations/job_20.json` | 29 | `fcc8e245472612aa8eb3f71b05973e0968de98bf20e94cebbcf1ccb1457a3561` | `—` |
+| `output/translations/job_20.json` | 29 | `fcc8e245472612aa8eb3f71b05973e0968de98bf20e94cebbcf1ccb1457a3561` | `218370b4` |
+| `output/translations/job_21.json` | 34 | `7287bad79dcbe4a4fb95ed457c6d5be958d9581238a5fb06d3bc635f645228ec` | `—` |
 | `output/translations/john_01.json` | 51 | `f71029f1ad25de2eda3dffcdd8d369d459285d62c85a1d2f18715c5543a185d7` | `b64d4872` |
 | `output/translations/john_02.json` | 25 | `86c5da7e3d831faa44cf4a2cc62316054258e674f41841d5a6ece3d6a35d9526` | `b64d4872` |
 | `output/translations/john_03.json` | 36 | `f0c177a7854327a5843c4a89f3e366aa6ebb8b5007a7a8a1d36c6c6543f00d72` | `cf6bd38f` |

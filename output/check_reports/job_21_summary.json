@@ -1,0 +1,48 @@
+{
+  "book": "job",
+  "chapter": 21,
+  "checks": [
+    {
+      "name": "Hebrew-field integrity",
+      "exit_code": 0,
+      "report": "hebrew_field_integrity_job_21.md",
+      "notes": "",
+      "status": "clean"
+    },
+    {
+      "name": "Divine names (locked Tetragrammaton)",
+      "exit_code": 0,
+      "report": "divine_names_job_21.md",
+      "notes": "",
+      "status": "clean"
+    },
+    {
+      "name": "Versification anchor",
+      "exit_code": 0,
+      "report": "versification_job_21.md",
+      "notes": "",
+      "status": "clean"
+    },
+    {
+      "name": "Honorifics binding (Rachasap)",
+      "exit_code": 0,
+      "report": "honorifics_binding_job_21.md",
+      "notes": "",
+      "status": "clean"
+    },
+    {
+      "name": "Back-translation",
+      "exit_code": 0,
+      "report": "back_translation_job_21.md",
+      "notes": "",
+      "status": "clean"
+    },
+    {
+      "name": "Thai-summary coverage (info)",
+      "exit_code": 0,
+      "report": "summary_coverage_job_21.md",
+      "notes": "informational only — not a ship gate",
+      "status": "clean"
+    }
+  ]
+}
