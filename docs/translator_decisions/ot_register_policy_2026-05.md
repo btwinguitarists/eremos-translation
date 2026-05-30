@@ -97,6 +97,16 @@ Added per Genesis end-of-book audit §H + external AI review (ChatGPT + Gemini b
 
 This sub-rule resolves the audit's §H concern with strict-compliance over policy-expansion. If a future translator instinctively reaches for ทรง- when narrating a Hebrew-vizier's public-office action, this sub-rule pulls them back.
 
+### 2.6 Sub-rule: Ezra foreign-emperor register conformance (added 2026-05-30)
+
+Added per DANIEL + ESTHER end-of-book external AI review (Gemini 2.5 Pro + ChatGPT, convergent MAJOR/CONCERN). Both reviewers judged Daniel's and Esther's full ราชาศัพท์ for the Persian/Babylonian emperors **correct** under §2.2 — and identified **Ezra as the lone outlier**: several narrator-voice references to the same emperors (Cyrus, Darius, Artaxerxes, Xerxes/Ahasuerus) used plain action-verbs, creating cross-book "canonical whiplash" within the Ezra–Nehemiah–Esther–Daniel block.
+
+This is the **mirror image of §2.5** (the Joseph-vizier correction): there the Genesis audit STRIPPED wrongly-granted ทรง- from a patriarch; here Ezra's foreign emperors were MISSING the ทรง- that §2.2 requires. Both are strict-compliance conformance fixes, not policy expansions.
+
+**The rule (lock):** Across the **Ezra–Nehemiah–Esther–Daniel block**, foreign emperors receive full ราชาศัพท์ (ทรง + royal verbs/nouns) for their **narrator-voice actions**, uniformly. Ezra's clear narrator-voice emperor-action verbs were upgraded 2026-05-30 (exact verse list: `docs/end_of_book/ezra/EZR_register_conformance_2026-05-30.md`). The four books are tagged as a unified register block.
+
+**Boundaries (unchanged):** Hebrew-servant viziers (Ezra, Nehemiah, Zerubbabel, Sheshbazzar, Mordecai, Daniel) remain plain per §2.2 + §2.5. Sub-imperial vassals/officials (Tattenai, Rehum, etc.) remain plain. Temporal/genitive references ("ในรัชกาลของ X", "พระราชกฤษฎีกาของ X") carry no verb to mark and need no change.
+
 ### 2.3 Special case: the Tabernacle / Temple
 
 The cultic spaces are addressed with deferential-honorific Thai (**พระวิหาร**, **พระนิเวศขององค์พระผู้เป็นเจ้า**), and the cultic objects with elevated terms (**หีบพันธสัญญา**, **โต๊ะขนมปังแห่งการทรงสถิต**). This is sub-Rachasap (the register is "sacred/cultic," not "royal-of-king"), but it parallels the same elevated-vocabulary impulse.
