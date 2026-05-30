@@ -80,6 +80,7 @@ BOOK_SLUGS = {
     "NEH": "nehemiah",
     "EST": "esther",
     "DAN": "daniel",
+    "JOB": "job",
 }
 
 TODO_TH = "__TODO_TH__"
