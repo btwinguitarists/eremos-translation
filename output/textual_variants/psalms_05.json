@@ -1,0 +1,20 @@
+[
+  {
+    "verse": 1,
+    "type": "superscription_versification_note",
+    "tier_status": "Layer 2 (versification note) — verse_schema_and_versification_2026-05",
+    "explanation_thai": "ข้อ 1 เป็นคำนำ (superscription) ของบทเพลงสดุดี ซึ่งถือเป็นส่วนหนึ่งของพระคัมภีร์ที่ได้รับการดลใจ. ฉบับฮีบรู MT นับคำนำเป็นข้อ 1 จึงทำให้เลขข้อ MT มากกว่าฉบับอังกฤษ/BSB อยู่ 1 ข้อตลอดบท (MT ข้อ 2-13 = อังกฤษ 5:1-12). ฉบับเอเรโมสอ้างอิงเลขข้อตาม MT/BHS."
+  },
+  {
+    "verse": 2,
+    "type": "tetragrammaton_convention_first_occurrence",
+    "tier_status": "Layer 2 (per-chapter first-occurrence footnote) — divine_names_table_2026-05",
+    "explanation_thai": "**องค์พระผู้เป็นเจ้า** ในบทนี้ (ปรากฏครั้งแรกที่ข้อ 2) แปลจากภาษาฮีบรู יהוה (พระนามเฉพาะของพระเจ้า ออกเสียงโดยทั่วไปว่า ‘ยาห์เวห์’). ฉบับเอเรโมสใช้ **องค์พระผู้เป็นเจ้า** ตามแบบแผนของฉบับพันธสัญญาใหม่ที่แปล κύριος ซึ่งในต้นฉบับฮีบรูตรงกับ יהוה. ดูรายละเอียดที่ docs/translator_decisions/divine_names_table_2026-05.md."
+  },
+  {
+    "verse": 10,
+    "type": "nt_citation_romans",
+    "tier_status": "Layer 2 (cross-reference footnote)",
+    "explanation_thai": "อัครทูตเปาโลอ้างข้อนี้ใน โรม 3:13 (‘ลำคอของเขาคือหลุมศพที่เปิดอยู่ ลิ้นของเขาพูดล่อลวง’) ซึ่งเป็นส่วนหนึ่งของชุดข้ออ้างอิงที่แสดงว่ามวลมนุษย์อยู่ใต้อำนาจบาป."
+  }
+]

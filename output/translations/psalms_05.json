@@ -1,0 +1,391 @@
+[
+  {
+    "reference": "Psalms 5:1",
+    "chapter": 5,
+    "verse": 1,
+    "language": "hebrew",
+    "hebrew": "לַמְנַצֵּ֥חַ אֶֽל־הַנְּחִיל֗וֹת מִזְמ֥וֹר לְדָוִֽד׃",
+    "bsb_english": "For the choirmaster, to be accompanied by flutes. A Psalm of David.",
+    "translation": {
+      "thai": "ถึงหัวหน้านักดนตรี บรรเลงด้วยขลุ่ย บทเพลงสดุดีของดาวิด",
+      "thai_literal": null,
+      "thai_summary": "คำนำประจำบท — บทเพลงของดาวิด สำหรับหัวหน้านักดนตรี บรรเลงด้วยเครื่องเป่า",
+      "key_decisions": [
+        {
+          "hebrew": "אֶל־הַנְּחִילוֹת",
+          "rendering": "บรรเลงด้วยขลุ่ย",
+          "rationale": "נְחִילוֹת เป็นคำกำกับดนตรีที่ความหมายไม่แน่ชัด สันนิษฐานว่าเป็นเครื่องเป่า/ขลุ่ย (ตามฉบับ BSB)"
+        }
+      ],
+      "notes": null
+    },
+    "versification": {
+      "mt_ref": "Psalm 5:1",
+      "english_ref": "Psalm 5:title",
+      "bsb_ref": "Psalm 5:0",
+      "diverges": true,
+      "note": "ฉบับฮีบรู MT นับคำนำเป็นข้อ 1 ทำให้เลขข้อ MT มากกว่าฉบับอังกฤษ/BSB 1 ข้อตลอดบท (MT ข้อ 2-13 = อังกฤษ 5:1-12). ฉบับเอเรโมสอ้างอิงเลขข้อตาม MT/BHS"
+    }
+  },
+  {
+    "reference": "Psalms 5:2",
+    "chapter": 5,
+    "verse": 2,
+    "language": "hebrew",
+    "hebrew": "אֲמָרַ֖י הַאֲזִ֥ינָה׀יְהוָ֗ה בִּ֣ינָה הֲגִֽיגִי׃",
+    "bsb_english": "Give ear to my words, O LORD; consider my groaning.",
+    "translation": {
+      "thai": "ข้าแต่องค์พระผู้เป็นเจ้า ขอทรงสดับถ้อยคำของข้าพระองค์ ขอทรงพิจารณาเสียงคร่ำครวญของข้าพระองค์",
+      "thai_literal": null,
+      "thai_summary": "ดาวิดทูลขอให้องค์พระผู้เป็นเจ้าทรงสดับถ้อยคำและเสียงคร่ำครวญของท่าน",
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้า",
+          "rationale": "יהוה → ‘องค์พระผู้เป็นเจ้า’ ตาม divine_names_table_2026-05.md (Layer 1)"
+        },
+        {
+          "hebrew": "הַאֲזִינָה … בִּינָה הֲגִיגִי",
+          "rendering": "ขอทรงสดับ … ทรงพิจารณาเสียงคร่ำครวญ",
+          "rationale": "הַאֲזִין เป็นกริยา ‘เงี่ยหูฟัง/สดับ’ (มาจากรากคำว่า ‘หู’ แต่เป็นกริยา มิใช่คำนาม) → ‘ทรงสดับ’ (ไม่แทรกคำนามอวัยวะ); בִּין ‘พิจารณา/ใคร่ครวญ’; הֲגִיג ‘เสียงรำพึง/คร่ำครวญ’"
+        }
+      ],
+      "notes": null
+    },
+    "versification": {
+      "mt_ref": "Psalm 5:2",
+      "english_ref": "Psalm 5:1",
+      "bsb_ref": "Psalm 5:1",
+      "diverges": true,
+      "note": "ฉบับฮีบรู MT นับคำนำเป็นข้อ 1 ทำให้เลขข้อ MT มากกว่าฉบับอังกฤษ/BSB 1 ข้อตลอดบท (MT ข้อ 2-13 = อังกฤษ 5:1-12). ฉบับเอเรโมสอ้างอิงเลขข้อตาม MT/BHS"
+    }
+  },
+  {
+    "reference": "Psalms 5:3",
+    "chapter": 5,
+    "verse": 3,
+    "language": "hebrew",
+    "hebrew": "הַקְשִׁ֤יבָה׀לְק֬וֹל שַׁוְעִ֗י מַלְכִּ֥י וֵאלֹהָ֑י כִּֽי־אֵ֝לֶ֗יךָ אֶתְפַּלָּֽל׃",
+    "bsb_english": "Attend to the sound of my cry, my King and my God, for to You I pray.",
+    "translation": {
+      "thai": "ข้าแต่กษัตริย์และพระเจ้าของข้าพระองค์ ขอทรงสดับเสียงร้องทูลของข้าพระองค์ เพราะข้าพระองค์อธิษฐานต่อพระองค์",
+      "thai_literal": null,
+      "thai_summary": "ดาวิดทูลต่อพระเจ้าผู้ทรงเป็นกษัตริย์ของท่าน ขอให้ทรงฟังเสียงร้องขอ",
+      "key_decisions": [
+        {
+          "hebrew": "מַלְכִּי וֵאלֹהָי",
+          "rendering": "กษัตริย์และพระเจ้าของข้าพระองค์",
+          "rationale": "ดาวิดทูลพระเจ้าในฐานะ ‘กษัตริย์’ ของท่าน (พระเจ้าเป็นจอมกษัตริย์เหนือกษัตริย์ดาวิดเอง)"
+        }
+      ],
+      "notes": null
+    },
+    "versification": {
+      "mt_ref": "Psalm 5:3",
+      "english_ref": "Psalm 5:2",
+      "bsb_ref": "Psalm 5:2",
+      "diverges": true,
+      "note": "ฉบับฮีบรู MT นับคำนำเป็นข้อ 1 ทำให้เลขข้อ MT มากกว่าฉบับอังกฤษ/BSB 1 ข้อตลอดบท (MT ข้อ 2-13 = อังกฤษ 5:1-12). ฉบับเอเรโมสอ้างอิงเลขข้อตาม MT/BHS"
+    }
+  },
+  {
+    "reference": "Psalms 5:4",
+    "chapter": 5,
+    "verse": 4,
+    "language": "hebrew",
+    "hebrew": "יְֽהוָ֗ה בֹּ֭קֶרתִּשְׁמַ֣ע קוֹלִ֑י בֹּ֥קֶר אֶֽעֱרָךְ־לְ֝ךָ֗ וַאֲצַפֶּֽה׃",
+    "bsb_english": "In the morning, O LORD, You hear my voice; at daybreak I lay my plea before You and wait in expectation.",
+    "translation": {
+      "thai": "ข้าแต่องค์พระผู้เป็นเจ้า ในยามเช้าพระองค์ทรงสดับเสียงของข้าพระองค์ ในยามเช้าข้าพระองค์เตรียมคำทูลต่อพระองค์ และเฝ้าคอย",
+      "thai_literal": null,
+      "thai_summary": "ทุกเช้าดาวิดนำคำอธิษฐานมาทูลต่อองค์พระผู้เป็นเจ้าและเฝ้าคอยคำตอบ",
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้า",
+          "rationale": "יהוה → ‘องค์พระผู้เป็นเจ้า’ ตาม divine_names_table_2026-05.md (Layer 1)"
+        },
+        {
+          "hebrew": "בֹּקֶר אֶעֱרָךְ־לְךָ וַאֲצַפֶּה",
+          "rendering": "ในยามเช้าข้าพระองค์เตรียมคำทูล … และเฝ้าคอย",
+          "rationale": "עָרַךְ ‘จัด/เตรียม (คำทูลหรือเครื่องบูชา)’; צָפָה ‘เฝ้าคอย/มองหา’ (คอยคำตอบ)"
+        }
+      ],
+      "notes": null
+    },
+    "versification": {
+      "mt_ref": "Psalm 5:4",
+      "english_ref": "Psalm 5:3",
+      "bsb_ref": "Psalm 5:3",
+      "diverges": true,
+      "note": "ฉบับฮีบรู MT นับคำนำเป็นข้อ 1 ทำให้เลขข้อ MT มากกว่าฉบับอังกฤษ/BSB 1 ข้อตลอดบท (MT ข้อ 2-13 = อังกฤษ 5:1-12). ฉบับเอเรโมสอ้างอิงเลขข้อตาม MT/BHS"
+    }
+  },
+  {
+    "reference": "Psalms 5:5",
+    "chapter": 5,
+    "verse": 5,
+    "language": "hebrew",
+    "hebrew": "כִּ֤י׀לֹ֤א אֵֽל־חָפֵ֘ץ רֶ֥שַׁע׀אָ֑תָּה לֹ֖א יְגֻרְךָ֣ רָֽע׃",
+    "bsb_english": "For You are not a God who delights in wickedness; no evil can dwell with You.",
+    "translation": {
+      "thai": "เพราะพระองค์ไม่ใช่พระเจ้าที่พอพระทัยในความชั่ว ความเลวร้ายจะไม่ได้พำนักอยู่กับพระองค์",
+      "thai_literal": null,
+      "thai_summary": "พระเจ้าทรงบริสุทธิ์ — ไม่พอพระทัยในความชั่ว และความชั่วร้ายอยู่กับพระองค์ไม่ได้",
+      "key_decisions": [
+        {
+          "hebrew": "לֹא אֵל־חָפֵץ רֶשַׁע אָתָּה",
+          "rendering": "พระองค์ไม่ใช่พระเจ้าที่พอพระทัยในความชั่ว",
+          "rationale": "אֵל ‘พระเจ้า’; חָפֵץ ‘พอพระทัย/ยินดี’; ความบริสุทธิ์ของพระเจ้า"
+        }
+      ],
+      "notes": null
+    },
+    "versification": {
+      "mt_ref": "Psalm 5:5",
+      "english_ref": "Psalm 5:4",
+      "bsb_ref": "Psalm 5:4",
+      "diverges": true,
+      "note": "ฉบับฮีบรู MT นับคำนำเป็นข้อ 1 ทำให้เลขข้อ MT มากกว่าฉบับอังกฤษ/BSB 1 ข้อตลอดบท (MT ข้อ 2-13 = อังกฤษ 5:1-12). ฉบับเอเรโมสอ้างอิงเลขข้อตาม MT/BHS"
+    }
+  },
+  {
+    "reference": "Psalms 5:6",
+    "chapter": 5,
+    "verse": 6,
+    "language": "hebrew",
+    "hebrew": "לֹֽא־יִתְיַצְּב֣וּ הֽ֭וֹלְלִים לְנֶ֣גֶד עֵינֶ֑יךָ שָׂ֝נֵ֗אתָ כָּל־פֹּ֥עֲלֵי אָֽוֶן׃",
+    "bsb_english": "The boastful cannot stand in Your presence; You hate all workers of iniquity.",
+    "translation": {
+      "thai": "คนหยิ่งยโสจะยืนอยู่เฉพาะพระพักตร์ของพระองค์ไม่ได้ บรรดาคนที่ทำชั่วนั้นพระองค์ทรงเกลียดชัง",
+      "thai_literal": null,
+      "thai_summary": "คนอวดดีและคนทำชั่วยืนต่อหน้าพระเจ้าไม่ได้ เพราะพระองค์ทรงเกลียดความชั่ว",
+      "key_decisions": [
+        {
+          "hebrew": "לֹא־יִתְיַצְּבוּ הוֹלְלִים לְנֶגֶד עֵינֶיךָ … שָׂנֵאתָ",
+          "rendering": "คนหยิ่งยโสจะยืนอยู่เฉพาะพระพักตร์ … พระองค์ทรงเกลียดชัง",
+          "rationale": "הוֹלְלִים ‘คนอวดดี/หยิ่งยโส’; รักษาภาพการพิพากษาของพระเจ้าต่อคนชั่ว (พระองค์ทรงเกลียดความชั่ว — ไม่ลดทอน)"
+        }
+      ],
+      "notes": null
+    },
+    "versification": {
+      "mt_ref": "Psalm 5:6",
+      "english_ref": "Psalm 5:5",
+      "bsb_ref": "Psalm 5:5",
+      "diverges": true,
+      "note": "ฉบับฮีบรู MT นับคำนำเป็นข้อ 1 ทำให้เลขข้อ MT มากกว่าฉบับอังกฤษ/BSB 1 ข้อตลอดบท (MT ข้อ 2-13 = อังกฤษ 5:1-12). ฉบับเอเรโมสอ้างอิงเลขข้อตาม MT/BHS"
+    }
+  },
+  {
+    "reference": "Psalms 5:7",
+    "chapter": 5,
+    "verse": 7,
+    "language": "hebrew",
+    "hebrew": "תְּאַבֵּד֮ דֹּבְרֵ֪י כָ֫זָ֥ב אִישׁ־דָּמִ֥ים וּמִרְמָ֗ה יְתָ֘עֵ֥ב׀יְהוָֽה׃",
+    "bsb_english": "You destroy those who tell lies; the LORD abhors the man of bloodshed and deceit.",
+    "translation": {
+      "thai": "พระองค์ทรงทำลายคนที่พูดมุสา องค์พระผู้เป็นเจ้าทรงรังเกียจคนกระหายเลือดและคนหลอกลวง",
+      "thai_literal": null,
+      "thai_summary": "พระเจ้าทรงทำลายคนโกหก และทรงรังเกียจคนที่ใช้ความรุนแรงและการหลอกลวง",
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้า",
+          "rationale": "יהוה → ‘องค์พระผู้เป็นเจ้า’ ตาม divine_names_table_2026-05.md (Layer 1)"
+        },
+        {
+          "hebrew": "אִישׁ־דָּמִים וּמִרְמָה יְתָעֵב",
+          "rendering": "คนกระหายเลือดและคนหลอกลวง … ทรงรังเกียจ",
+          "rationale": "אִישׁ־דָּמִים ‘คนกระหายเลือด/คนนองเลือด’; יְתָעֵב ‘รังเกียจ/ชิงชัง’ (ภาษาในบทคร่ำครวญที่ขอความยุติธรรม)"
+        }
+      ],
+      "notes": null
+    },
+    "versification": {
+      "mt_ref": "Psalm 5:7",
+      "english_ref": "Psalm 5:6",
+      "bsb_ref": "Psalm 5:6",
+      "diverges": true,
+      "note": "ฉบับฮีบรู MT นับคำนำเป็นข้อ 1 ทำให้เลขข้อ MT มากกว่าฉบับอังกฤษ/BSB 1 ข้อตลอดบท (MT ข้อ 2-13 = อังกฤษ 5:1-12). ฉบับเอเรโมสอ้างอิงเลขข้อตาม MT/BHS"
+    }
+  },
+  {
+    "reference": "Psalms 5:8",
+    "chapter": 5,
+    "verse": 8,
+    "language": "hebrew",
+    "hebrew": "וַאֲנִ֗י בְּרֹ֣ב חַ֭סְדְּךָ אָב֣וֹא בֵיתֶ֑ךָ אֶשְׁתַּחֲוֶ֥ה אֶל־הֵֽיכַל־קָ֝דְשְׁךָ֗ בְּיִרְאָתֶֽךָ׃",
+    "bsb_english": "But I will enter Your house by the abundance of Your loving devotion; in reverence I will bow down toward Your holy temple.",
+    "translation": {
+      "thai": "แต่ข้าพระองค์จะเข้าสู่พระนิเวศของพระองค์โดยอาศัยความรักมั่นคงอันบริบูรณ์ของพระองค์ ข้าพระองค์จะกราบนมัสการตรงต่อพระวิหารบริสุทธิ์ของพระองค์ด้วยความยำเกรงพระองค์",
+      "thai_literal": null,
+      "thai_summary": "ต่างจากคนชั่ว ดาวิดเข้าเฝ้าพระเจ้าในพระนิเวศได้โดยความรักมั่นคงของพระองค์",
+      "key_decisions": [
+        {
+          "hebrew": "בְּרֹב חַסְדְּךָ",
+          "rendering": "โดยอาศัยความรักมั่นคงอันบริบูรณ์ของพระองค์",
+          "rationale": "חֶסֶד → ‘ความรักมั่นคง’ (ล็อกตาม chesed_covenant_love_2026-05.md); הֵיכַל ‘พระวิหาร’; אֶשְׁתַּחֲוֶה ‘กราบนมัสการ’"
+        }
+      ],
+      "notes": null
+    },
+    "versification": {
+      "mt_ref": "Psalm 5:8",
+      "english_ref": "Psalm 5:7",
+      "bsb_ref": "Psalm 5:7",
+      "diverges": true,
+      "note": "ฉบับฮีบรู MT นับคำนำเป็นข้อ 1 ทำให้เลขข้อ MT มากกว่าฉบับอังกฤษ/BSB 1 ข้อตลอดบท (MT ข้อ 2-13 = อังกฤษ 5:1-12). ฉบับเอเรโมสอ้างอิงเลขข้อตาม MT/BHS"
+    }
+  },
+  {
+    "reference": "Psalms 5:9",
+    "chapter": 5,
+    "verse": 9,
+    "language": "hebrew",
+    "hebrew": "יְהוָ֤ה׀נְחֵ֬נִי בְצִדְקָתֶ֗ךָ לְמַ֥עַן שׁוֹרְרָ֑י הַיְשַׁ֖ר לְפָנַ֣י דַּרְכֶּֽךָ׃",
+    "bsb_english": "Lead me, O LORD, in Your righteousness because of my enemies; make straight Your way before me.",
+    "translation": {
+      "thai": "ข้าแต่องค์พระผู้เป็นเจ้า ขอทรงนำข้าพระองค์ไปในความชอบธรรมของพระองค์ เพราะเหตุศัตรูของข้าพระองค์ ขอทรงทำให้ทางของพระองค์ราบตรงต่อหน้าข้าพระองค์",
+      "thai_literal": null,
+      "thai_summary": "ดาวิดขอให้พระเจ้าทรงนำทางในความชอบธรรมและทำให้ทางราบตรง ท่ามกลางศัตรู",
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้า",
+          "rationale": "יהוה → ‘องค์พระผู้เป็นเจ้า’ ตาม divine_names_table_2026-05.md (Layer 1)"
+        },
+        {
+          "hebrew": "נְחֵנִי בְצִדְקָתֶךָ … הַיְשַׁר לְפָנַי דַּרְכֶּךָ",
+          "rendering": "ขอทรงนำข้าพระองค์ไปในความชอบธรรม … ทรงทำให้ทางของพระองค์ราบตรง",
+          "rationale": "נָחָה ‘นำทาง’; הַיְשַׁר דֶּרֶךְ ‘ทำให้ทางราบตรง’ — ภาพคำหลัก ‘ทาง’ ที่ร้อยทั้งหนังสือสดุดี"
+        }
+      ],
+      "notes": null
+    },
+    "versification": {
+      "mt_ref": "Psalm 5:9",
+      "english_ref": "Psalm 5:8",
+      "bsb_ref": "Psalm 5:8",
+      "diverges": true,
+      "note": "ฉบับฮีบรู MT นับคำนำเป็นข้อ 1 ทำให้เลขข้อ MT มากกว่าฉบับอังกฤษ/BSB 1 ข้อตลอดบท (MT ข้อ 2-13 = อังกฤษ 5:1-12). ฉบับเอเรโมสอ้างอิงเลขข้อตาม MT/BHS"
+    }
+  },
+  {
+    "reference": "Psalms 5:10",
+    "chapter": 5,
+    "verse": 10,
+    "language": "hebrew",
+    "hebrew": "כִּ֤י אֵ֪ין בְּפִ֡יהוּ נְכוֹנָה֮ קִרְבָּ֪ם הַ֫וּ֥וֹת קֶֽבֶר־פָּת֥וּחַ גְּרוֹנָ֑ם לְ֝שׁוֹנָ֗ם יַחֲלִֽיקוּן׃",
+    "bsb_english": "For not a word they speak can be trusted; destruction lies within them. Their throats are open graves; their tongues practice deceit.",
+    "translation": {
+      "thai": "เพราะในปากของพวกเขาไม่มีความจริง จิตใจภายในของพวกเขาคือความพินาศ ลำคอของพวกเขาคือหลุมศพที่เปิดอยู่ พวกเขาใช้ลิ้นพูดป้อยอ",
+      "thai_literal": null,
+      "thai_summary": "คำพูดของศัตรูล้วนเป็นความเท็จและความพินาศ — ลำคอของพวกเขาเหมือนหลุมศพที่เปิดอ้า",
+      "key_decisions": [
+        {
+          "hebrew": "קֶבֶר־פָּתוּחַ גְּרוֹנָם … לְשׁוֹנָם יַחֲלִיקוּן",
+          "rendering": "ลำคอของพวกเขาคือหลุมศพที่เปิดอยู่ … ใช้ลิ้นพูดป้อยอ",
+          "rationale": "ภาพ ‘หลุมศพที่เปิดอ้า’ = คำพูดที่นำสู่ความตาย; חָלַק לָשׁוֹן ‘ลิ้นที่ลื่น/พูดป้อยอ’ (ดูหมายเหตุ: อ้างใน โรม 3:13)"
+        }
+      ],
+      "notes": null
+    },
+    "versification": {
+      "mt_ref": "Psalm 5:10",
+      "english_ref": "Psalm 5:9",
+      "bsb_ref": "Psalm 5:9",
+      "diverges": true,
+      "note": "ฉบับฮีบรู MT นับคำนำเป็นข้อ 1 ทำให้เลขข้อ MT มากกว่าฉบับอังกฤษ/BSB 1 ข้อตลอดบท (MT ข้อ 2-13 = อังกฤษ 5:1-12). ฉบับเอเรโมสอ้างอิงเลขข้อตาม MT/BHS"
+    }
+  },
+  {
+    "reference": "Psalms 5:11",
+    "chapter": 5,
+    "verse": 11,
+    "language": "hebrew",
+    "hebrew": "הַֽאֲשִׁימֵ֨ם׀אֱֽלֹהִ֗ים יִפְּלוּ֮ מִֽמֹּעֲצ֪וֹתֵ֫יהֶ֥ם בְּרֹ֣ב פִּ֭שְׁעֵיהֶם הַדִּיחֵ֑מוֹ כִּי־מָ֥רוּ בָֽךְ׃",
+    "bsb_english": "Declare them guilty, O God; let them fall by their own devices. Drive them out for their many transgressions, for they have rebelled against You.",
+    "translation": {
+      "thai": "ข้าแต่พระเจ้า ขอทรงประกาศว่าพวกเขาผิด ขอให้พวกเขาล้มลงด้วยแผนการของตนเอง ขอทรงขับไล่พวกเขาออกไปเพราะการล่วงละเมิดอันมากมายของพวกเขา เพราะพวกเขาได้กบฏต่อพระองค์",
+      "thai_literal": null,
+      "thai_summary": "ดาวิดทูลขอความยุติธรรม — ขอพระเจ้าทรงตัดสินว่าศัตรูผิดและขับไล่พวกเขาเพราะการกบฏ",
+      "key_decisions": [
+        {
+          "hebrew": "הַאֲשִׁימֵם אֱלֹהִים … כִּי־מָרוּ בָךְ",
+          "rendering": "ขอทรงประกาศว่าพวกเขาผิด … เพราะพวกเขาได้กบฏต่อพระองค์",
+          "rationale": "คำวิงวอนเชิงสาปแช่ง (imprecation) — มิใช่การแก้แค้นส่วนตัว แต่ขอให้พระเจ้าทรงสำแดงความยุติธรรม (ตามอารัมภบทหนังสือสดุดี); אֱלֹהִים → ‘พระเจ้า’"
+        }
+      ],
+      "notes": null
+    },
+    "versification": {
+      "mt_ref": "Psalm 5:11",
+      "english_ref": "Psalm 5:10",
+      "bsb_ref": "Psalm 5:10",
+      "diverges": true,
+      "note": "ฉบับฮีบรู MT นับคำนำเป็นข้อ 1 ทำให้เลขข้อ MT มากกว่าฉบับอังกฤษ/BSB 1 ข้อตลอดบท (MT ข้อ 2-13 = อังกฤษ 5:1-12). ฉบับเอเรโมสอ้างอิงเลขข้อตาม MT/BHS"
+    }
+  },
+  {
+    "reference": "Psalms 5:12",
+    "chapter": 5,
+    "verse": 12,
+    "language": "hebrew",
+    "hebrew": "וְיִשְׂמְח֨וּ כָל־ח֪וֹסֵי בָ֡ךְ לְעוֹלָ֣ם יְ֭רַנֵּנוּ וְתָסֵ֣ךְ עָלֵ֑ימוֹ וְֽיַעְלְצ֥וּ בְ֝ךָ֗ אֹהֲבֵ֥י שְׁמֶֽךָ׃",
+    "bsb_english": "But let all who take refuge in You rejoice; let them ever shout for joy. May You shelter them, that those who love Your name may rejoice in You.",
+    "translation": {
+      "thai": "แต่ขอให้ทุกคนที่เข้าลี้ภัยในพระองค์ชื่นชมยินดี ให้พวกเขาโห่ร้องด้วยความยินดีเป็นนิตย์ ขอทรงปกป้องพวกเขาไว้ เพื่อบรรดาผู้ที่รักพระนามของพระองค์จะเปรมปรีดิ์ในพระองค์",
+      "thai_literal": null,
+      "thai_summary": "ส่วนผู้ที่ลี้ภัยในพระเจ้าจะชื่นชมยินดีตลอดกาล เพราะพระองค์ทรงปกป้องพวกเขา",
+      "key_decisions": [
+        {
+          "hebrew": "חוֹסֵי בָךְ … וְתָסֵךְ עָלֵימוֹ",
+          "rendering": "ทุกคนที่เข้าลี้ภัยในพระองค์ … ขอทรงปกป้องพวกเขาไว้",
+          "rationale": "חָסָה ‘ลี้ภัย/พึ่งพิง’ (สะท้อน สดด 2:12); סָכַךְ ‘ปกคลุม/ปกป้อง’"
+        }
+      ],
+      "notes": null
+    },
+    "versification": {
+      "mt_ref": "Psalm 5:12",
+      "english_ref": "Psalm 5:11",
+      "bsb_ref": "Psalm 5:11",
+      "diverges": true,
+      "note": "ฉบับฮีบรู MT นับคำนำเป็นข้อ 1 ทำให้เลขข้อ MT มากกว่าฉบับอังกฤษ/BSB 1 ข้อตลอดบท (MT ข้อ 2-13 = อังกฤษ 5:1-12). ฉบับเอเรโมสอ้างอิงเลขข้อตาม MT/BHS"
+    }
+  },
+  {
+    "reference": "Psalms 5:13",
+    "chapter": 5,
+    "verse": 13,
+    "language": "hebrew",
+    "hebrew": "כִּֽי־אַתָּה֮ תְּבָרֵ֪ךְ צַ֫דִּ֥יק יְהוָ֑ה כַּ֝צִּנָּ֗ה רָצ֥וֹן תַּעְטְרֶֽנּוּ׃",
+    "bsb_english": "For surely You, O LORD, bless the righteous; You surround them with the shield of Your favor.",
+    "translation": {
+      "thai": "ข้าแต่องค์พระผู้เป็นเจ้า เพราะพระองค์ทรงอวยพรคนชอบธรรม พระองค์ทรงโอบล้อมเขาด้วยความโปรดปรานดุจโล่",
+      "thai_literal": null,
+      "thai_summary": "องค์พระผู้เป็นเจ้าทรงอวยพรคนชอบธรรมและทรงปกป้องเขาด้วยความโปรดปรานดุจโล่",
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้า",
+          "rationale": "יהוה → ‘องค์พระผู้เป็นเจ้า’ ตาม divine_names_table_2026-05.md (Layer 1)"
+        },
+        {
+          "hebrew": "כַּצִּנָּה רָצוֹן תַּעְטְרֶנּוּ",
+          "rendering": "ทรงโอบล้อมเขาด้วยความโปรดปรานดุจโล่",
+          "rationale": "צִנָּה ‘โล่ใหญ่’; רָצוֹן ‘ความโปรดปราน’; עָטַר ‘สวม/โอบล้อม’ — ภาพการปกป้องที่มั่นคง"
+        }
+      ],
+      "notes": null
+    },
+    "versification": {
+      "mt_ref": "Psalm 5:13",
+      "english_ref": "Psalm 5:12",
+      "bsb_ref": "Psalm 5:12",
+      "diverges": true,
+      "note": "ฉบับฮีบรู MT นับคำนำเป็นข้อ 1 ทำให้เลขข้อ MT มากกว่าฉบับอังกฤษ/BSB 1 ข้อตลอดบท (MT ข้อ 2-13 = อังกฤษ 5:1-12). ฉบับเอเรโมสอ้างอิงเลขข้อตาม MT/BHS"
+    }
+  }
+]
