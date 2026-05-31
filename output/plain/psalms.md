@@ -1,6 +1,6 @@
 # สดุดี
 
-_Psalms — 120 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
+_Psalms — 121 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
 
 _This **plain edition** shows only the Thai translation — no commentary, no Greek, no English. Intended for Thai scholars and theological reviewers evaluating the translation on its own terms. For the annotated edition with contextual summaries (บริบท), see `output/reader/psalms.md`. For the underlying Greek, English (BSB) reference, and translator decisions per verse, see the per-chapter review reports at `output/check_reports/psalms_NN_review.md` or the source JSON at `output/translations/`._
 
@@ -6926,6 +6926,39 @@ _‘เมเชค’ (อยู่ไกลทางเหนือ) และ
 
 ---
 
+## บทที่ 121
+
+**1** บทเพลงใช้แห่ขึ้น ข้าพเจ้าเงยหน้าขึ้นมองไปยังภูเขาทั้งหลาย ความช่วยเหลือของข้าพเจ้าจะมาจากที่ใด
+
+**2** ความช่วยเหลือของข้าพเจ้ามาจากองค์พระผู้เป็นเจ้า ผู้ทรงสร้างฟ้าสวรรค์และแผ่นดินโลก
+
+**3** พระองค์จะไม่ทรงให้เท้าของท่านพลาด ผู้พิทักษ์ของท่านจะไม่ทรงงีบหลับ
+
+**4** ดูเถิด ผู้พิทักษ์แห่งอิสราเอลจะไม่ทรงงีบหลับหรือบรรทมเลย
+
+**5** องค์พระผู้เป็นเจ้าทรงเป็นผู้พิทักษ์ของท่าน องค์พระผู้เป็นเจ้าทรงเป็นร่มเงาที่อยู่เบื้องขวาของท่าน
+
+**6** ดวงอาทิตย์จะไม่แผดเผาท่านในเวลากลางวัน หรือดวงจันทร์ในเวลากลางคืน
+
+**7** องค์พระผู้เป็นเจ้าจะทรงปกป้องท่านจากความชั่วร้ายทั้งสิ้น พระองค์จะทรงพิทักษ์ชีวิตของท่าน
+
+**8** องค์พระผู้เป็นเจ้าจะทรงพิทักษ์การออกไปและการเข้ามาของท่าน ตั้งแต่บัดนี้จนชั่วนิรันดร์
+
+---
+
+### หมายเหตุด้านต้นฉบับ
+
+**ข้อ 1** — ขาดในต้นฉบับวิจารณ์ (SBLGNT)
+
+_‘บทเพลงใช้แห่ขึ้น’ (שִׁיר לַמַּעֲלוֹת) — บทที่สองในชุดบทเพลงใช้แห่ขึ้น (สดด 120-134). ผู้แสวงบุญ ‘เงยหน้าขึ้นมองไปยังภูเขา’ ขณะเดินทางขึ้นไปยังกรุงเยรูซาเล็มซึ่งตั้งอยู่บนภูเขา และตระหนักว่าความช่วยเหลือที่แท้จริงไม่ได้มาจากภูเขาเอง แต่มาจากองค์พระผู้เป็นเจ้าผู้ทรงสร้างฟ้าสวรรค์และแผ่นดินโลก._
+
+**ข้อ 2** — หมายเหตุการแปลพระนามของพระเจ้า
+
+_**องค์พระผู้เป็นเจ้า** (ปรากฏครั้งแรกในบทนี้ที่ข้อ 2) แปลจากภาษาฮีบรู יהוה (พระนามเฉพาะของพระเจ้า ออกเสียงว่า ‘ยาห์เวห์’). ฉบับเอเรโมสใช้ตามแบบแผนของฉบับพันธสัญญาใหม่ที่แปล κύριος. บทนี้เน้นว่าพระเจ้าผู้ทรงพิทักษ์ ‘จะไม่ทรงงีบหลับหรือบรรทม’ — ทรงเฝ้าดูแลประชากรของพระองค์ตลอดเวลา. ดูรายละเอียดที่ docs/translator_decisions/divine_names_table_2026-05.md._
+
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -7052,4 +7085,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/psalms_118.json` | `feb3dfe92446b1bb43d4c82917703a743d7db9f76d3ebd0d97013a4047ef5ce3` |
 | `output/translations/psalms_119.json` | `e4e7152eadacbd8e843ff1740a97c06183100149e12e4619188474e26a954f5c` |
 | `output/translations/psalms_120.json` | `aa1b367703f8f394a9c0458ee378cdd2a039499f60290cedec997dfa8217a08e` |
+| `output/translations/psalms_121.json` | `e364f8f4b38bb9761c55aefe7e092d80b6957514c01f5f61beb0c71527ad0d0a` |
 
