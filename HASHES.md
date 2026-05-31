@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-05-31 04:14:40 UTC_
-_Total chapters: 854 · Total verses: 23926_
+_Generated: 2026-05-31 04:18:02 UTC_
+_Total chapters: 855 · Total verses: 23934_
 
 ## How to verify a chapter
 
@@ -739,6 +739,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/psalms_09.json` | 21 | `fa81b48b8ed13c1361e96de2d62be7f18adf7d5c7b4ae8f754b03bba26bd595e` | `076b668d` |
 | `output/translations/psalms_10.json` | 18 | `946cc0cb79194762a68d242fc04b35661c3e4b3107693519e26e204458c35c43` | `fa24ad69` |
 | `output/translations/psalms_100.json` | 5 | `e212c7a5769f4fa98d5b6c4961c5e5854c8e6a2646950be9d5adc1f285ffe489` | `—` |
+| `output/translations/psalms_101.json` | 8 | `b41f0bb870d41d3c6dba8566f48a8c7753cc6b424c731c4c485d42607093ff21` | `—` |
 | `output/translations/psalms_11.json` | 7 | `8fe8d3d390c4e81b80e313ca047a620ce9cd20705bebba2b89ba20622c4b60f5` | `21e8170f` |
 | `output/translations/psalms_12.json` | 9 | `8e8d849528cb42c9801b80bde6da02d415cb648e05b830a1bbfd14ab54a33e2c` | `3aeaa1a0` |
 | `output/translations/psalms_13.json` | 6 | `173b364fd90588f4033528912ba1725d24fc316a852ce945d4bd9f6ed3144be7` | `163d9dad` |
@@ -827,7 +828,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/psalms_96.json` | 13 | `6ef3fe8183452376aa3821865cb46501cdfa4384c5555f2afb944dc64ca959cf` | `d5759289` |
 | `output/translations/psalms_97.json` | 12 | `af3c5e478345a5b44229f2cca503658ee878db449bf1d017164bf72839f98233` | `e85ada53` |
 | `output/translations/psalms_98.json` | 9 | `515b7e00f7ddc8e2aa10486643c060740160f191a753155f78ca5c9ac2175d08` | `e5eaeae6` |
-| `output/translations/psalms_99.json` | 9 | `5617000221fa877be526d5dd7ae464a0bace451ee7009c37a2f749c35bf90faf` | `—` |
+| `output/translations/psalms_99.json` | 9 | `5617000221fa877be526d5dd7ae464a0bace451ee7009c37a2f749c35bf90faf` | `a29fb8a6` |
 | `output/translations/revelation_01.json` | 20 | `127a68402ed9a21dc87af1c5e7f08e242ac1524e22a3ade7be05717dfba28407` | `b71f5a2b` |
 | `output/translations/revelation_02.json` | 29 | `34c04ab7f8f52da24ef41ecddb52da127a965e13527f8ba1dd5253ecbce66f81` | `b64d4872` |
 | `output/translations/revelation_03.json` | 22 | `237100c50b93bb9f143fb131fb6273b9a97c84d146661d22ea85cf54ac0fb3fa` | `b64d4872` |

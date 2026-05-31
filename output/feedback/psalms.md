@@ -1,6 +1,6 @@
 # สดุดี
 
-_Psalms — 100 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
+_Psalms — 101 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
 
 _This **feedback edition** is the plain Thai translation with a `>` placeholder block under each verse for reviewer comments. **See the instructions immediately below before reading.** For the annotated edition (with contextual summaries), see `output/reader/psalms.md`; for the verses-only edition (no comment blocks), see `output/plain/psalms.md`._
 
@@ -8700,6 +8700,55 @@ _‘พระองค์ทรงสร้างเรา และเราเ
 
 ---
 
+## บทที่ 101
+
+**1** บทเพลงสดุดีของดาวิด ข้าพระองค์จะร้องเพลงถึงความรักมั่นคงและความยุติธรรม ข้าแต่องค์พระผู้เป็นเจ้า ข้าพระองค์จะร้องเพลงสรรเสริญแด่พระองค์
+
+> ___
+
+**2** ข้าพระองค์จะใคร่ครวญถึงทางที่ไร้ตำหนิ เมื่อใดพระองค์จะเสด็จมาหาข้าพระองค์ ข้าพระองค์จะดำเนินในบ้านของข้าพระองค์ด้วยใจซื่อสัตย์
+
+> ___
+
+**3** ข้าพระองค์จะไม่ตั้งสิ่งที่ไร้ค่าไว้ตรงหน้าข้าพระองค์ ข้าพระองค์เกลียดชังการกระทำของคนที่ละทิ้งทางของพระเจ้า มันจะไม่ติดอยู่กับข้าพระองค์
+
+> ___
+
+**4** ใจคดโกงจะต้องห่างไกลจากข้าพระองค์ ข้าพระองค์จะไม่ข้องเกี่ยวกับความชั่วใดๆ
+
+> ___
+
+**5** ผู้ใดที่นินทาเพื่อนบ้านของตนอย่างลับๆ ข้าพระองค์จะกำจัดเสีย คนที่มีตาหยิ่งยโสและใจจองหอง ข้าพระองค์จะทนไม่ได้
+
+> ___
+
+**6** ตาของข้าพระองค์จะมองดูคนที่ซื่อสัตย์ในแผ่นดินด้วยความโปรดปราน เพื่อพวกเขาจะได้อยู่กับข้าพระองค์ ผู้ที่ดำเนินในทางที่ไร้ตำหนิจะได้ปรนนิบัติข้าพระองค์
+
+> ___
+
+**7** ผู้ที่ใช้เล่ห์เพทุบายจะไม่ได้อยู่ในบ้านของข้าพระองค์ ผู้ที่พูดมุสาจะไม่ได้ยืนอยู่ต่อหน้าข้าพระองค์
+
+> ___
+
+**8** ทุกๆ เช้า ข้าพระองค์จะกำจัดคนชั่วทั้งสิ้นในแผ่นดิน เพื่อจะตัดคนทำชั่วทุกคนออกจากนครขององค์พระผู้เป็นเจ้า
+
+> ___
+
+---
+
+### หมายเหตุด้านต้นฉบับ
+
+**ข้อ 1** — ขาดในต้นฉบับวิจารณ์ (SBLGNT)
+
+_‘บทเพลงสดุดีของดาวิด’ — คำนำที่นับรวมในข้อ 1 (เลขข้อตรงกับฉบับอังกฤษ/BSB). **องค์พระผู้เป็นเจ้า** (ปรากฏครั้งแรกที่ข้อ 1) แปลจาก יהוה (พระนามเฉพาะของพระเจ้า ออกเสียงว่า ‘ยาห์เวห์’) ฉบับเอเรโมสใช้ตามแบบแผนของฉบับพันธสัญญาใหม่ที่แปล κύριος. บทนี้เป็นคำปฏิญาณของกษัตริย์ที่จะปกครองด้วยความซื่อสัตย์และความยุติธรรม กำจัดความชั่วและยกชูคนซื่อสัตย์ — ภาพของผู้ปกครองในอุดมคติที่สำเร็จสมบูรณ์ในพระคริสต์ กษัตริย์ผู้ชอบธรรม. ดูรายละเอียดที่ docs/translator_decisions/divine_names_table_2026-05.md._
+
+**ข้อ 8** — ขาดในต้นฉบับวิจารณ์ (SBLGNT)
+
+_‘นครขององค์พระผู้เป็นเจ้า’ — หมายถึงกรุงเยรูซาเล็ม นครที่พระเจ้าทรงเลือก. กษัตริย์ปฏิญาณว่าจะชำระนครของพระเจ้าให้พ้นจากความชั่วร้าย เพื่อให้เป็นที่ซึ่งความชอบธรรมครอบครอง._
+
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -8806,4 +8855,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/psalms_98.json` | `515b7e00f7ddc8e2aa10486643c060740160f191a753155f78ca5c9ac2175d08` |
 | `output/translations/psalms_99.json` | `5617000221fa877be526d5dd7ae464a0bace451ee7009c37a2f749c35bf90faf` |
 | `output/translations/psalms_100.json` | `e212c7a5769f4fa98d5b6c4961c5e5854c8e6a2646950be9d5adc1f285ffe489` |
+| `output/translations/psalms_101.json` | `b41f0bb870d41d3c6dba8566f48a8c7753cc6b424c731c4c485d42607093ff21` |
 
