@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-05-31 08:02:38 UTC_
-_Total chapters: 898 · Total verses: 24737_
+_Generated: 2026-05-31 08:10:42 UTC_
+_Total chapters: 899 · Total verses: 24758_
 
 ## How to verify a chapter
 
@@ -785,8 +785,9 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/psalms_140.json` | 14 | `4be89d053b058de15ef52da1cf3ce9cc39474286a8bfb354be3fb42b02b5ce23` | `5a110c08` |
 | `output/translations/psalms_141.json` | 10 | `e303ef0b95d335a89bfef556f4efb134981bac448969bc00377360897608180f` | `5c14708d` |
 | `output/translations/psalms_142.json` | 8 | `68f0591c34218742dc60d79ef60bea7530f8ba0fb799b1f9c7198c463af91b30` | `843124d3` |
-| `output/translations/psalms_143.json` | 12 | `3b4f4cdf11367dd15527f70baab8be93530751e9a208e566bebf23a6b48e422a` | `—` |
+| `output/translations/psalms_143.json` | 12 | `3b4f4cdf11367dd15527f70baab8be93530751e9a208e566bebf23a6b48e422a` | `c16c57cf` |
 | `output/translations/psalms_144.json` | 15 | `b29dfd4f13e198f57b52b8bacc844a832eb57c5ea37df1279c0c2dfd24379634` | `—` |
+| `output/translations/psalms_145.json` | 21 | `97de65ac1b0d6b700b37a9e883f37942986da211e4b787a2b3fea5650d8109e1` | `—` |
 | `output/translations/psalms_15.json` | 5 | `d5ce1e95884fba6c8c76476fbaceb5acadc13c2b474afbfd9a421336368b9136` | `261451aa` |
 | `output/translations/psalms_16.json` | 11 | `ce2f538087cf7e9bf0e9e1ad7106d766a7aad58eaa431ea4d8c660bbac8a1ddb` | `441e356d` |
 | `output/translations/psalms_17.json` | 15 | `736c66730ccff24fd205ba6d44212bbb79fc368c43c189e6958a2e44e57f9049` | `8aa87f84` |
