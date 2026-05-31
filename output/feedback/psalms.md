@@ -1,6 +1,6 @@
 # สดุดี
 
-_Psalms — 128 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
+_Psalms — 129 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
 
 _This **feedback edition** is the plain Thai translation with a `>` placeholder block under each verse for reviewer comments. **See the instructions immediately below before reading.** For the annotated edition (with contextual summaries), see `output/reader/psalms.md`; for the verses-only edition (no comment blocks), see `output/plain/psalms.md`._
 
@@ -11700,6 +11700,55 @@ _ภาพ ‘ภรรยาเหมือนเถาองุ่นที่
 
 ---
 
+## บทที่ 129
+
+**1** บทเพลงใช้แห่ขึ้น ‘เขาทั้งหลายได้ข่มเหงข้าพเจ้าหลายครั้งหลายหนตั้งแต่เยาว์วัย’ ขอให้อิสราเอลกล่าวเถิด
+
+> ___
+
+**2** ‘เขาทั้งหลายได้ข่มเหงข้าพเจ้าหลายครั้งหลายหนตั้งแต่เยาว์วัย แต่เขาก็เอาชนะข้าพเจ้าไม่ได้’
+
+> ___
+
+**3** คนที่ไถนาได้ไถบนหลังของข้าพเจ้า เขาทำรอยไถให้ยาว
+
+> ___
+
+**4** องค์พระผู้เป็นเจ้าทรงชอบธรรม พระองค์ทรงตัดเชือกของคนชั่วให้ขาด ปลดปล่อยข้าพเจ้าให้เป็นอิสระ
+
+> ___
+
+**5** ขอให้บรรดาผู้ที่เกลียดชังศิโยนต้องอับอายและล่าถอยไป
+
+> ___
+
+**6** ขอให้เขาเป็นเหมือนหญ้าบนหลังคา ซึ่งเหี่ยวแห้งไปก่อนที่มันจะงอกงาม
+
+> ___
+
+**7** ซึ่งไม่อาจทำให้มือของผู้เกี่ยวเต็มได้ หรือทำให้อ้อมแขนของผู้มัดฟ่อนข้าวเต็มได้
+
+> ___
+
+**8** และขออย่าให้ผู้ที่ผ่านไปมากล่าวว่า ‘ขอพระพรขององค์พระผู้เป็นเจ้าจงมีแก่ท่าน เราอวยพรท่านในพระนามขององค์พระผู้เป็นเจ้า’
+
+> ___
+
+---
+
+### หมายเหตุด้านต้นฉบับ
+
+**ข้อ 1** — ขาดในต้นฉบับวิจารณ์ (SBLGNT)
+
+_‘บทเพลงใช้แห่ขึ้น’ (שִׁיר הַמַּעֲלוֹת). ‘ข้าพเจ้า’ ในบทนี้คืออิสราเอลที่พูดในฐานะบุคคลเดียว (ดูคำเชิญ ‘ขอให้อิสราเอลกล่าวเถิด’) — เล่าถึงการถูกข่มเหงตลอดประวัติศาสตร์ของชนชาติ ‘ตั้งแต่เยาว์วัย’ (ตั้งแต่ครั้งเป็นทาสในอียิปต์) แต่ศัตรูก็เอาชนะไม่ได้._
+
+**ข้อ 4** — หมายเหตุการแปลพระนามของพระเจ้า
+
+_**องค์พระผู้เป็นเจ้า** (ปรากฏครั้งแรกในบทนี้ที่ข้อ 4) แปลจากภาษาฮีบรู יהוה (พระนามเฉพาะของพระเจ้า ออกเสียงโดยทั่วไปว่า ‘ยาห์เวห์’). ฉบับเอเรโมสใช้ **องค์พระผู้เป็นเจ้า** ตามแบบแผนของฉบับพันธสัญญาใหม่ที่แปล κύριος. ภาพ ‘ทรงตัดเชือกของคนชั่วให้ขาด’ สื่อถึงการที่พระเจ้าผู้ทรงชอบธรรมทรงปลดปล่อยประชากรจากแอกของผู้กดขี่. ดูรายละเอียดที่ docs/translator_decisions/divine_names_table_2026-05.md._
+
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -11834,4 +11883,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/psalms_126.json` | `b9ed8328cf4888d297a4167c3dab2d39d95eb853e312576a8f1d5af8eae64054` |
 | `output/translations/psalms_127.json` | `c698412ef1f4867e320e72e4d24ee90216275a5310fd827a3b7d087457e5e234` |
 | `output/translations/psalms_128.json` | `6d6e9a99d6bf393799c7256879ef4cd779ada2a0424504bfa51d4eaf0913ce05` |
+| `output/translations/psalms_129.json` | `10cdc9aa85f9b456ce6ead52b540d02cbb02b24ee36a86f6c8c4658cdb586fd5` |
 
