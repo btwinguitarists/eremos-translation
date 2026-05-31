@@ -1,0 +1,55 @@
+{
+  "book": "proverbs",
+  "chapter": 16,
+  "checks": [
+    {
+      "name": "Hebrew-field integrity",
+      "exit_code": 0,
+      "report": "hebrew_field_integrity_proverbs_16.md",
+      "notes": "",
+      "status": "clean"
+    },
+    {
+      "name": "Divine names (locked Tetragrammaton)",
+      "exit_code": 0,
+      "report": "divine_names_proverbs_16.md",
+      "notes": "",
+      "status": "clean"
+    },
+    {
+      "name": "Versification anchor",
+      "exit_code": 0,
+      "report": "versification_proverbs_16.md",
+      "notes": "",
+      "status": "clean"
+    },
+    {
+      "name": "Honorifics binding (Rachasap)",
+      "exit_code": 0,
+      "report": "honorifics_binding_proverbs_16.md",
+      "notes": "",
+      "status": "clean"
+    },
+    {
+      "name": "Back-translation",
+      "exit_code": 0,
+      "report": "back_translation_proverbs_16.md",
+      "notes": "",
+      "status": "clean"
+    },
+    {
+      "name": "Thai-summary coverage (info)",
+      "exit_code": 0,
+      "report": "summary_coverage_proverbs_16.md",
+      "notes": "informational only — not a ship gate",
+      "status": "clean"
+    },
+    {
+      "name": "Claim consistency (hallucination, advisory)",
+      "exit_code": 0,
+      "report": "claim_consistency_proverbs_16.md",
+      "notes": "advisory only — not a ship gate (raw exit=0)",
+      "status": "clean"
+    }
+  ]
+}
