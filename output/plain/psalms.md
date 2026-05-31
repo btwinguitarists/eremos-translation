@@ -1,6 +1,6 @@
 # สดุดี
 
-_Psalms — 109 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
+_Psalms — 110 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
 
 _This **plain edition** shows only the Thai translation — no commentary, no Greek, no English. Intended for Thai scholars and theological reviewers evaluating the translation on its own terms. For the annotated edition with contextual summaries (บริบท), see `output/reader/psalms.md`. For the underlying Greek, English (BSB) reference, and translator decisions per verse, see the per-chapter review reports at `output/check_reports/psalms_NN_review.md` or the source JSON at `output/translations/`._
 
@@ -6133,6 +6133,37 @@ _**องค์พระผู้เป็นเจ้า** (พระนาม 
 
 ---
 
+## บทที่ 110
+
+**1** บทเพลงสดุดีของดาวิด องค์พระผู้เป็นเจ้าตรัสกับองค์เจ้านายของข้าพเจ้าว่า ‘จงนั่งที่เบื้องขวาของเรา จนกว่าเราจะทำให้ศัตรูของพระองค์เป็นที่รองพระบาทของพระองค์’
+
+**2** องค์พระผู้เป็นเจ้าจะทรงยื่นคทาแห่งฤทธานุภาพของพระองค์ออกไปจากศิโยน ว่า ‘ขอจงครอบครองท่ามกลางศัตรูของพระองค์’
+
+**3** ในวันที่พระองค์ทรงยกทัพ ประชากรของพระองค์จะมาถวายตัวด้วยความเต็มใจ ในเครื่องประดับอันบริสุทธิ์ น้ำค้างแห่งวัยหนุ่มของพระองค์จะมาถึงพระองค์จากครรภ์แห่งรุ่งอรุณ
+
+**4** องค์พระผู้เป็นเจ้าทรงปฏิญาณแล้ว และจะไม่ทรงคืนคำ ว่า ‘พระองค์ทรงเป็นปุโรหิตเป็นนิตย์ ตามแบบของเมลคีเซเดค’
+
+**5** องค์เจ้านายผู้สถิตที่เบื้องขวาของพระองค์ จะทรงทุบบรรดากษัตริย์ให้แหลกในวันแห่งพระพิโรธของพระองค์
+
+**6** พระองค์จะทรงพิพากษาบรรดาประชาชาติ ทำให้ศพกองพะเนิน พระองค์จะทรงทุบบรรดาผู้นำให้แหลกไปทั่วแผ่นดินอันกว้างใหญ่
+
+**7** พระองค์จะทรงดื่มน้ำจากลำธารริมทาง เพราะฉะนั้นพระองค์จะทรงเงยพระเศียรขึ้น
+
+---
+
+### หมายเหตุด้านต้นฉบับ
+
+**ข้อ 1** — ขาดในต้นฉบับวิจารณ์ (SBLGNT)
+
+_‘บทเพลงสดุดีของดาวิด’ — คำนำที่นับรวมในข้อ 1. **องค์พระผู้เป็นเจ้า** แปลจาก יהוה (พระนามเฉพาะของพระเจ้า ออกเสียงว่า ‘ยาห์เวห์’) ส่วน ‘องค์เจ้านายของข้าพเจ้า’ แปลจาก אֲדֹנִי (อะโดนี ‘เจ้านายของข้าพเจ้า’) — สังเกตว่าเป็นคนละคำกับ אֲดֹนָי (อะโดนาย พระนามของพระเจ้า) ในข้อ 5. นี่คือข้อพระคัมภีร์ที่พระเยซูทรงใช้ถามพวกฟาริสีว่า ถ้าดาวิดเรียกพระเมสสิยาห์ว่า ‘เจ้านายของข้าพเจ้า’ พระเมสสิยาห์จะเป็นเพียงบุตรของดาวิดได้อย่างไร (มธ 22:41-46; มก 12:35-37) — ชี้ว่าพระเมสสิยาห์ทรงยิ่งใหญ่กว่าดาวิด. ‘จงนั่งที่เบื้องขวาของเรา’ เป็นข้อพระคัมภีร์เดิมที่ถูกอ้างในพันธสัญญาใหม่บ่อยที่สุด (กจ 2:34-35; ฮบ 1:13; 10:12-13) ชี้ถึงการที่พระคริสต์เสด็จขึ้นครองเหนือสรรพสิ่ง. ดูรายละเอียดที่ docs/translator_decisions/divine_names_table_2026-05.md._
+
+**ข้อ 4** — ขาดในต้นฉบับวิจารณ์ (SBLGNT)
+
+_‘พระองค์ทรงเป็นปุโรหิตเป็นนิตย์ ตามแบบของเมลคีเซเดค’ — เมลคีเซเดคเป็นทั้งกษัตริย์และปุโรหิตในสมัยอับราฮัม (ปฐก 14:18-20). ข้อนี้เป็นหัวใจของคำสอนในจดหมายฮีบรู (ฮบ 5:6, 10; 6:20; 7:11-22) ที่แสดงว่าพระเยซูทรงเป็นมหาปุโรหิตนิรันดร์ที่ยิ่งใหญ่กว่าปุโรหิตในสายอาโรน เพราะทรงดำรงตำแหน่งโดยคำปฏิญาณของพระเจ้าและทรงพระชนม์อยู่เป็นนิตย์._
+
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -6248,4 +6279,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/psalms_107.json` | `e8009a5bc9674161cb73cdd110120fc431fffeb096f2d200508a0b49fc719792` |
 | `output/translations/psalms_108.json` | `7f6f63d977beb035685ab64d00041a97e698f96327fa227cbf301cd1cf754804` |
 | `output/translations/psalms_109.json` | `6508567068652f10d5a0f700c881ef771e65a5234b3a49b00150ec8778e0a4f8` |
+| `output/translations/psalms_110.json` | `7048903d23a376595072d8721b8ff3470e52d6e4d94906858863ab2b30873802` |
 
