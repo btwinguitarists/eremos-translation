@@ -1,6 +1,6 @@
 # สดุดี
 
-_Psalms — 137 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
+_Psalms — 138 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
 
 _This **plain edition** shows only the Thai translation — no commentary, no Greek, no English. Intended for Thai scholars and theological reviewers evaluating the translation on its own terms. For the annotated edition with contextual summaries (บริบท), see `output/reader/psalms.md`. For the underlying Greek, English (BSB) reference, and translator decisions per verse, see the per-chapter review reports at `output/check_reports/psalms_NN_review.md` or the source JSON at `output/translations/`._
 
@@ -7535,6 +7535,43 @@ _ข้อ 8-9 เป็นถ้อยคำสาปแช่ง (imprecation)
 
 ---
 
+## บทที่ 138
+
+**1** ของดาวิด ข้าพระองค์ขอบพระคุณพระองค์ด้วยสุดใจ ข้าพระองค์ร้องเพลงสรรเสริญพระองค์ต่อหน้าพระทั้งหลาย
+
+**2** ข้าพระองค์กราบลงตรงต่อพระวิหารอันบริสุทธิ์ของพระองค์ และขอบพระคุณพระนามของพระองค์ เพราะความรักมั่นคงและความซื่อสัตย์ของพระองค์ เพราะพระองค์ทรงเชิดชูพระนามและพระดำรัสของพระองค์เหนือสิ่งสารพัด
+
+**3** ในวันที่ข้าพระองค์ร้องทูล พระองค์ทรงตอบข้าพระองค์ พระองค์ทรงทำให้ข้าพระองค์มีใจกล้าหาญและทรงเสริมกำลังจิตวิญญาณของข้าพระองค์
+
+**4** ข้าแต่องค์พระผู้เป็นเจ้า บรรดากษัตริย์แห่งแผ่นดินโลกจะขอบพระคุณพระองค์ เมื่อพวกเขาได้ยินถ้อยคำจากพระโอษฐ์ของพระองค์
+
+**5** พวกเขาจะร้องเพลงถึงพระมรรคาขององค์พระผู้เป็นเจ้า เพราะพระสิริขององค์พระผู้เป็นเจ้านั้นยิ่งใหญ่
+
+**6** แม้องค์พระผู้เป็นเจ้าทรงสูงส่ง พระองค์ก็ทรงเหลียวแลผู้ต่ำต้อย แต่ทรงรู้จักคนหยิ่งผยองแต่ไกล
+
+**7** แม้ข้าพระองค์เดินอยู่ท่ามกลางความทุกข์ลำบาก พระองค์ก็ทรงรักษาชีวิตข้าพระองค์ไว้ พระองค์ทรงเหยียดพระหัตถ์ของพระองค์ออกต่อสู้ความโกรธของศัตรู และพระหัตถ์ขวาของพระองค์ช่วยข้าพระองค์ให้รอด
+
+**8** องค์พระผู้เป็นเจ้าจะทรงกระทำให้แผนการของพระองค์เพื่อข้าพระองค์สำเร็จ ข้าแต่องค์พระผู้เป็นเจ้า ความรักมั่นคงของพระองค์ดำรงเป็นนิตย์ ขออย่าทรงทอดทิ้งพระหัตถกิจของพระองค์
+
+---
+
+### หมายเหตุด้านต้นฉบับ
+
+**ข้อ 1** — ขาดในต้นฉบับวิจารณ์ (SBLGNT)
+
+_‘ของดาวิด’ (לְדָוִד) — บทนี้เปิดชุดบทเพลงของดาวิดชุดสุดท้ายในพระธรรมสดุดี (สดด 138-145). ‘ต่อหน้าพระทั้งหลาย’ แปลจากภาษาฮีบรู נֶגֶד אֱלֹהִים — คำ אֱלֹהִים ในที่นี้ตีความได้หลายอย่าง: ‘บรรดาพระ (เทียม)’ ‘เหล่าทูตสวรรค์’ (ตามฉบับกรีก LXX) หรือ ‘บรรดาผู้มีอำนาจ/ผู้พิพากษา’. ความหมายคือดาวิดสรรเสริญพระเจ้าเที่ยงแท้อย่างกล้าหาญต่อหน้าทุกอำนาจที่อ้างความเป็นพระ._
+
+**ข้อ 4** — หมายเหตุการแปลพระนามของพระเจ้า
+
+_**องค์พระผู้เป็นเจ้า** (ปรากฏครั้งแรกที่ข้อ 4) แปลจากภาษาฮีบรู יהוה (พระนามเฉพาะของพระเจ้า ออกเสียงโดยทั่วไปว่า ‘ยาห์เวห์’). ฉบับเอเรโมสใช้ **องค์พระผู้เป็นเจ้า** ตามแบบแผนของฉบับพันธสัญญาใหม่ที่แปล κύριος. (ข้อ 1-3 กล่าวกับพระเจ้าโดยใช้สรรพนาม ‘พระองค์’). ดูรายละเอียดที่ docs/translator_decisions/divine_names_table_2026-05.md._
+
+**ข้อ 6** — ขาดในต้นฉบับวิจารณ์ (SBLGNT)
+
+_‘แม้องค์พระผู้เป็นเจ้าทรงสูงส่ง พระองค์ก็ทรงเหลียวแลผู้ต่ำต้อย แต่ทรงรู้จักคนหยิ่งผยองแต่ไกล’ — ความยิ่งใหญ่ของพระเจ้ามิได้ทำให้พระองค์ทรงห่างเหินจากผู้ต่ำต้อย แต่กลับทรงเข้าใกล้พวกเขา ในขณะที่ทรงต้านคนหยิ่งผยอง (เทียบ อสย 57:15; ยก 4:6). แก่นเรื่องนี้สะท้อนในบทเพลงของมารีย์ (ลก 1:48, 52)._
+
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -7678,4 +7715,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/psalms_135.json` | `87e3f8206dd60c2c6b47cc3faffd42e1b21368eba0f2b7efbf9a47e6a5450f3d` |
 | `output/translations/psalms_136.json` | `bb566b21f644521792efc9264aff214592eba3b4aeb16cd6fcc1041cdadeb3be` |
 | `output/translations/psalms_137.json` | `621976424b7cfb4a05cd28df17deb38b16a84334bfeb4d287a008a308b0d6e5c` |
+| `output/translations/psalms_138.json` | `00da9c6a766a1ce577acb35ebc9ba56260338f7b907195d06182e044b76941c4` |
 
