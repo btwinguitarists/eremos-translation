@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-05-31 08:36:19 UTC_
-_Total chapters: 904 · Total verses: 24817_
+_Generated: 2026-05-31 09:20:16 UTC_
+_Total chapters: 905 · Total verses: 24850_
 
 ## How to verify a chapter
 
@@ -728,6 +728,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/philippians_02.json` | 30 | `5851608ec7714eab2efa8e443a50c8d3917a1f1b08f443c2d8813333a6ea4869` | `65b5241c` |
 | `output/translations/philippians_03.json` | 21 | `6654fa151c16c1c9e39b1be8033916378a13bff438d572657b8b06027964e1e1` | `4b0b01bf` |
 | `output/translations/philippians_04.json` | 23 | `16898f8540c61953284e2248c9460c682f56980087ab83ec300a57a0a5761235` | `3442c594` |
+| `output/translations/proverbs_01.json` | 33 | `335d10c4df9a466bd84bb67192cbfee2ec8fc2072a514f040bdcae07bfb7509d` | `—` |
 | `output/translations/psalms_01.json` | 6 | `76d6ab0eeff688575cc98b661dcac76efc6e3a5dbc80127bb505b645e4e334af` | `f70296cb` |
 | `output/translations/psalms_02.json` | 12 | `d3c20c4004f5411db7f4f09fa5930c667de6c2b9d8ab63da1ffcb1c3f24d0811` | `42893b2f` |
 | `output/translations/psalms_03.json` | 9 | `79436fe101538c7ffc956e980569771fb80218f329adac5457b2e4b8f6ecf6a5` | `6f0840ce` |
@@ -793,7 +794,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/psalms_148.json` | 14 | `4ffdfa6d55834bae49cdf3865f548c599deb1095b11248bd6c1000ac990c656a` | `a39b9c2a` |
 | `output/translations/psalms_149.json` | 9 | `1e6bddb2085cf4a4c7d27f7a1101c0f2725e5de8b0ea9b5bdb108de3105f3ef9` | `c83eb2a1` |
 | `output/translations/psalms_15.json` | 5 | `d5ce1e95884fba6c8c76476fbaceb5acadc13c2b474afbfd9a421336368b9136` | `261451aa` |
-| `output/translations/psalms_150.json` | 6 | `2a68d8f54150b5340720061fda3ef5f7e14f96e906c77b85a22ad9d62f06f2a1` | `—` |
+| `output/translations/psalms_150.json` | 6 | `2a68d8f54150b5340720061fda3ef5f7e14f96e906c77b85a22ad9d62f06f2a1` | `eaf05e26` |
 | `output/translations/psalms_16.json` | 11 | `ce2f538087cf7e9bf0e9e1ad7106d766a7aad58eaa431ea4d8c660bbac8a1ddb` | `441e356d` |
 | `output/translations/psalms_17.json` | 15 | `736c66730ccff24fd205ba6d44212bbb79fc368c43c189e6958a2e44e57f9049` | `8aa87f84` |
 | `output/translations/psalms_18.json` | 51 | `4965370d155440bcf82942ca5e5e9167b3db5139e0cc16fa8bfe977d2a22c042` | `89b661a1` |
