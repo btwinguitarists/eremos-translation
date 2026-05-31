@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-05-31 11:00:04 UTC_
-_Total chapters: 922 · Total verses: 25342_
+_Generated: 2026-05-31 11:06:29 UTC_
+_Total chapters: 923 · Total verses: 25371_
 
 ## How to verify a chapter
 
@@ -744,8 +744,9 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/proverbs_14.json` | 35 | `4c2b82ed5843104767c9ec9b8eee567630de7567af1958ccfb9258757f1ded7a` | `5b5dc607` |
 | `output/translations/proverbs_15.json` | 33 | `7c9e7d777b625f60df28c4c63fd7368489191262469f200b087e3b54b37895a4` | `b445ee08` |
 | `output/translations/proverbs_16.json` | 33 | `093802a9087d282d11f87b5451d8c0d73cc44aada48e6b96e2a2e5d06c067f6c` | `22fa4be0` |
-| `output/translations/proverbs_17.json` | 28 | `dc4ed4bcd6bc4b1a211c6c912279410edefb86b0b05b5b08f95487efbed8e6f8` | `—` |
+| `output/translations/proverbs_17.json` | 28 | `dc4ed4bcd6bc4b1a211c6c912279410edefb86b0b05b5b08f95487efbed8e6f8` | `160c19f7` |
 | `output/translations/proverbs_18.json` | 24 | `e67617530ef9f429a875d2ecf8c73009e13d52b5a50273aba65f380c4b061be8` | `—` |
+| `output/translations/proverbs_19.json` | 29 | `1c64ae1526cf54f8a11be3a5fb0b5a661d32a07988eeb2f1238e861df9c116bf` | `—` |
 | `output/translations/psalms_01.json` | 6 | `76d6ab0eeff688575cc98b661dcac76efc6e3a5dbc80127bb505b645e4e334af` | `f70296cb` |
 | `output/translations/psalms_02.json` | 12 | `d3c20c4004f5411db7f4f09fa5930c667de6c2b9d8ab63da1ffcb1c3f24d0811` | `42893b2f` |
 | `output/translations/psalms_03.json` | 9 | `79436fe101538c7ffc956e980569771fb80218f329adac5457b2e4b8f6ecf6a5` | `6f0840ce` |
