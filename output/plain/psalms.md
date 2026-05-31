@@ -1,6 +1,6 @@
 # สดุดี
 
-_Psalms — 149 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
+_Psalms — 150 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
 
 _This **plain edition** shows only the Thai translation — no commentary, no Greek, no English. Intended for Thai scholars and theological reviewers evaluating the translation on its own terms. For the annotated edition with contextual summaries (บริบท), see `output/reader/psalms.md`. For the underlying Greek, English (BSB) reference, and translator decisions per verse, see the per-chapter review reports at `output/check_reports/psalms_NN_review.md` or the source JSON at `output/translations/`._
 
@@ -8129,6 +8129,39 @@ _ข้อ 6-9 รวมการนมัสการ (‘คำสรรเส
 
 ---
 
+## บทที่ 150
+
+**1** ฮาเลลูยาห์ จงสรรเสริญพระเจ้าในสถานนมัสการของพระองค์ จงสรรเสริญพระองค์ในท้องฟ้าอันทรงฤทธิ์ของพระองค์
+
+**2** จงสรรเสริญพระองค์เพราะพระราชกิจอันทรงฤทธิ์ของพระองค์ จงสรรเสริญพระองค์ตามความยิ่งใหญ่อันเลิศล้ำของพระองค์
+
+**3** จงสรรเสริญพระองค์ด้วยเสียงเป่าเขาสัตว์ จงสรรเสริญพระองค์ด้วยพิณใหญ่และพิณเขาคู่
+
+**4** จงสรรเสริญพระองค์ด้วยรำมะนาและการเต้นรำ จงสรรเสริญพระองค์ด้วยเครื่องสายและขลุ่ย
+
+**5** จงสรรเสริญพระองค์ด้วยเสียงฉาบที่กังวาน จงสรรเสริญพระองค์ด้วยเสียงฉาบที่ดังก้อง
+
+**6** ให้ทุกสิ่งที่มีลมหายใจสรรเสริญองค์พระผู้เป็นเจ้า ฮาเลลูยาห์
+
+---
+
+### หมายเหตุด้านต้นฉบับ
+
+**ข้อ 1** — ขาดในต้นฉบับวิจารณ์ (SBLGNT)
+
+_‘ฮาเลลูยาห์’ ทับศัพท์จาก הַלְלוּ־יָהּ (‘จงสรรเสริญพระยาห์’) — กรอบเปิด (ข้อ 1) และปิด (ข้อ 6). **องค์พระผู้เป็นเจ้า** (ข้อ 6) แปลจาก יָהּ ซึ่งเป็นรูปย่อของพระนาม יהוה (ออกเสียงโดยทั่วไปว่า ‘ยาห์เวห์’) ฉบับเอเรโมสแปลตามแบบแผนของฉบับพันธสัญญาใหม่ที่แปล κύριος; (ข้อ 1 คำว่า ‘พระเจ้า’ แปลจาก אֵל). บทนี้คือบทสรรเสริญปิดท้าย (doxology) ของพระธรรมสดุดีทั้งเล่ม — ทั้งห้าเล่มของพระธรรมสดุดีจบลงด้วยบทสรรเสริญ และสดด 150 เป็นบทสรรเสริญใหญ่ที่ปิดทั้งหนังสือ. ดูที่ docs/translator_decisions/divine_names_table_2026-05.md._
+
+**ข้อ 3** — ขาดในต้นฉบับวิจารณ์ (SBLGNT)
+
+_ข้อ 3-5 เรียกเครื่องดนตรีทุกชนิดมาร่วมสรรเสริญพระเจ้า: เขาสัตว์ (โชฟาร์) พิณใหญ่ (เนเวล) พิณเขาคู่ (คินโนร์) รำมะนา การเต้นรำ เครื่องสาย ขลุ่ย และฉาบ — เครื่องดนตรีทั้งวงดุริยางค์ของพระวิหาร. การสรรเสริญพระเจ้าครอบคลุมทุกรูปแบบของศิลปะและความชื่นชมยินดีของมนุษย์._
+
+**ข้อ 6** — ขาดในต้นฉบับวิจารณ์ (SBLGNT)
+
+_‘ให้ทุกสิ่งที่มีลมหายใจสรรเสริญองค์พระผู้เป็นเจ้า’ — ถ้อยคำปิดท้ายพระธรรมสดุดีทั้งเล่ม. คำว่า ‘ลมหายใจ’ (נְשָׁמָה) ชวนให้นึกถึงลมปราณที่พระเจ้าทรงระบายเข้าในมนุษย์เมื่อทรงสร้าง (ปฐมกาล 2:7) — สรรพชีวิตที่ได้รับลมหายใจจากพระเจ้าล้วนมีจุดหมายสูงสุดเพื่อสรรเสริญพระองค์. พระธรรมสดุดีที่เริ่มต้นด้วย ‘ความสุข’ ของผู้ชอบธรรม (สดด 1:1) จบลงด้วยเสียงสรรเสริญอันกึกก้องของสรรพสิ่งทั้งมวล._
+
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -8284,4 +8317,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/psalms_147.json` | `fefca7ed3d45f3290857b9c2ef1e1da793db00c1c9208273a0de00da77e46c6c` |
 | `output/translations/psalms_148.json` | `4ffdfa6d55834bae49cdf3865f548c599deb1095b11248bd6c1000ac990c656a` |
 | `output/translations/psalms_149.json` | `1e6bddb2085cf4a4c7d27f7a1101c0f2725e5de8b0ea9b5bdb108de3105f3ef9` |
+| `output/translations/psalms_150.json` | `2a68d8f54150b5340720061fda3ef5f7e14f96e906c77b85a22ad9d62f06f2a1` |
 
