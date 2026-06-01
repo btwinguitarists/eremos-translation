@@ -3,7 +3,7 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-05-31 12:49:22 UTC_
+_Generated: 2026-06-01 00:21:31 UTC_
 _Total chapters: 935 · Total verses: 25732_
 
 ## How to verify a chapter
@@ -758,7 +758,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/proverbs_28.json` | 28 | `1fc711e4e05fc70bf636b5928b5355177f570fc756405fa4f064082e4dbcad49` | `f1e59cac` |
 | `output/translations/proverbs_29.json` | 27 | `5397647325038d81ede5cacdf2f48971d2866edafcc9502aa400574e00aa6a75` | `414fb569` |
 | `output/translations/proverbs_30.json` | 33 | `b63adfd1edfe21e78456f8a347c5c2adf5323390672bd53467476172a4553fb7` | `a22785dc` |
-| `output/translations/proverbs_31.json` | 31 | `51d110a49646101d84a824366a364762d220dee1ad82227a861962f9eeea7c35` | `—` |
+| `output/translations/proverbs_31.json` | 31 | `51d110a49646101d84a824366a364762d220dee1ad82227a861962f9eeea7c35` | `0b61eff1` |
 | `output/translations/psalms_01.json` | 6 | `76d6ab0eeff688575cc98b661dcac76efc6e3a5dbc80127bb505b645e4e334af` | `f70296cb` |
 | `output/translations/psalms_02.json` | 12 | `d3c20c4004f5411db7f4f09fa5930c667de6c2b9d8ab63da1ffcb1c3f24d0811` | `42893b2f` |
 | `output/translations/psalms_03.json` | 9 | `79436fe101538c7ffc956e980569771fb80218f329adac5457b2e4b8f6ecf6a5` | `6f0840ce` |
@@ -772,7 +772,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/psalms_100.json` | 5 | `e212c7a5769f4fa98d5b6c4961c5e5854c8e6a2646950be9d5adc1f285ffe489` | `61ec5bc1` |
 | `output/translations/psalms_101.json` | 8 | `b41f0bb870d41d3c6dba8566f48a8c7753cc6b424c731c4c485d42607093ff21` | `5d02b607` |
 | `output/translations/psalms_102.json` | 29 | `d812c79a969ef6f2edddccfec28c035b2af30a937bf6656b39f813c6b5b7a7e8` | `5262a611` |
-| `output/translations/psalms_103.json` | 22 | `355e16875d4b94f1e03908a8dd9d51465207efd8ab60243e4fed8c8d1a4d6258` | `91aa778b` |
+| `output/translations/psalms_103.json` | 22 | `094a8517c7837407c86b7dc5c48fd91ad92a392a8f2ae8ba8b9d9037d78e0e43` | `91aa778b` |
 | `output/translations/psalms_104.json` | 35 | `3222616c651ef595f3c1ecc5220bbbc7e57faf0cefc2f5db563aaf0377d68e69` | `d8bc0a47` |
 | `output/translations/psalms_105.json` | 45 | `5fc831555c94c6b9b6057deff682f7b527a221bc02db3cf5dc5c9857faac66e9` | `5655d571` |
 | `output/translations/psalms_106.json` | 48 | `04bdf3789d827049d81580ba4133747312cf4914cf66dbe2eebbcfe40e8dee89` | `3e3b7caa` |
@@ -781,7 +781,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/psalms_109.json` | 31 | `6508567068652f10d5a0f700c881ef771e65a5234b3a49b00150ec8778e0a4f8` | `268f9e5d` |
 | `output/translations/psalms_11.json` | 7 | `8fe8d3d390c4e81b80e313ca047a620ce9cd20705bebba2b89ba20622c4b60f5` | `21e8170f` |
 | `output/translations/psalms_110.json` | 7 | `7048903d23a376595072d8721b8ff3470e52d6e4d94906858863ab2b30873802` | `17154e3f` |
-| `output/translations/psalms_111.json` | 10 | `31e7baa00615ea6af10b1f16240e490492405ff0ba220158b8142d69f5f6859d` | `8e5d518d` |
+| `output/translations/psalms_111.json` | 10 | `4ef8a1e522ae65836fb94a5f99b8a941461b3a3247def0e5734081444e8ba764` | `8e5d518d` |
 | `output/translations/psalms_112.json` | 10 | `b1c2fa1629191172e8e0b9d8c86e81a781037f23a786f78b8ce71c8afc60121e` | `4cf5ccea` |
 | `output/translations/psalms_113.json` | 9 | `6885ba89f2df7a975b997a6883f8b753036f6caebe46f7a27a0b7cdb8be1779b` | `a3085d61` |
 | `output/translations/psalms_114.json` | 8 | `c7b315c352998896a7af269bcbac635e57a006adcb1e2aa98797ac970cadd305` | `daa6ae7e` |
@@ -818,7 +818,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/psalms_142.json` | 8 | `68f0591c34218742dc60d79ef60bea7530f8ba0fb799b1f9c7198c463af91b30` | `843124d3` |
 | `output/translations/psalms_143.json` | 12 | `3b4f4cdf11367dd15527f70baab8be93530751e9a208e566bebf23a6b48e422a` | `c16c57cf` |
 | `output/translations/psalms_144.json` | 15 | `b29dfd4f13e198f57b52b8bacc844a832eb57c5ea37df1279c0c2dfd24379634` | `c0e4525e` |
-| `output/translations/psalms_145.json` | 21 | `97de65ac1b0d6b700b37a9e883f37942986da211e4b787a2b3fea5650d8109e1` | `6a42f936` |
+| `output/translations/psalms_145.json` | 21 | `d5e6f4815e7ad39b89e6740881d6bb5c9644673f0af95e6d943a573bf0c99ee8` | `6a42f936` |
 | `output/translations/psalms_146.json` | 10 | `5569d2668de470cecf01dfb9459f63c0c6346b28069523d35f7bdc7e0b78340b` | `357b00f8` |
 | `output/translations/psalms_147.json` | 20 | `fefca7ed3d45f3290857b9c2ef1e1da793db00c1c9208273a0de00da77e46c6c` | `721c14c3` |
 | `output/translations/psalms_148.json` | 14 | `4ffdfa6d55834bae49cdf3865f548c599deb1095b11248bd6c1000ac990c656a` | `a39b9c2a` |
@@ -895,7 +895,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/psalms_83.json` | 19 | `966e27eb29bb4b6b6660ac38c0a23450d492ce4e8e81e1b08ac471cdae5a6bb4` | `e6b61b0f` |
 | `output/translations/psalms_84.json` | 13 | `c2ea6c4fd4af36fbc30b68bdb0bf6cb6567c6c98e6b18e92c5b66c093cb72379` | `43e82ca1` |
 | `output/translations/psalms_85.json` | 14 | `8ab23fb773b75bb3502b73c1260b82d358082b0e500fd41c4b282b1a72bb8992` | `05ab2442` |
-| `output/translations/psalms_86.json` | 17 | `dc1c9607db33e99b7c1e2c646c6c278bce6d6a5b634882bb43dc76a0102bf347` | `a1c765dc` |
+| `output/translations/psalms_86.json` | 17 | `9152d96cf834e306be44541ae93a6c72b06dbb060c6cfe8e54a2850733dbcf08` | `a1c765dc` |
 | `output/translations/psalms_87.json` | 7 | `02106cdd5451182e08e304e833c82f62ccd5203762c87dccf89fc75062f15735` | `458e4f95` |
 | `output/translations/psalms_88.json` | 19 | `6826b32fdbd4f499cfb2abf526bc1bf3730339a7c23ad524f9cc2d4c0ad3efc3` | `8b25d4e7` |
 | `output/translations/psalms_89.json` | 53 | `d7a16af3626a9cb297963698dab7b19ce9cd0437d251d8ff9a5ca6004e918da0` | `b6681336` |
