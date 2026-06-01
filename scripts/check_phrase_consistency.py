@@ -114,7 +114,9 @@ PHRASE_LOCKS = [
         "hebrew_patterns": [r"חנון\s*ו?רחום", r"רחום\s*ו?חנון"],
         "expected_thai_contains": "ทรงพระเมตตา",
         "must_not_contain": ["ทรงเมตตา"],  # bare ทรงเมตตา is the observed drift of locked ทรงพระเมตตา
-        "exceptions": {},  # NEH 9:17/9:31, 2CH 30:9 realigned to the lock 2026-05-29
+        "exceptions": {  # NEH 9:17/9:31, 2CH 30:9 realigned to the lock 2026-05-29
+            "Psalms 112:4": "human subject — the righteous man (חַנּוּן וְרַחוּם וְצַדִּיק), not God's Exod-34:6 self-revelation; rendered with plain human-virtue terms, not the divine ทรงพระเมตตา/ทรงพระคุณ form",
+        },
     },
     {
         "doc": "exod_34_attribute_formula_2026-05.md",
@@ -122,7 +124,14 @@ PHRASE_LOCKS = [
         "hebrew_patterns": [r"ארך\s*אפים"],
         "expected_thai_contains": "ทรงกริ้วช้า",
         "must_not_contain": ["พระพิโรธช้า"],  # ทรงพระพิโรธช้า is the observed drift of locked ทรงกริ้วช้า
-        "exceptions": {},  # NEH 9:17 realigned to the lock 2026-05-29
+        "exceptions": {  # NEH 9:17 realigned to the lock 2026-05-29
+            # Proverbs: HUMAN slow-to-anger / patience (proverbial), not God's Exod-34:6 attribute.
+            # The divine ทรงกริ้วช้า form would wrongly ascribe royal register to a human; rendered โกรธช้า/อดทน.
+            "Proverbs 14:29": "human patience (vs קְצַר־רוּחַ quick-tempered) — not the divine formula; rendered คนที่อดทน",
+            "Proverbs 15:18": "human slow-to-anger calming strife — not the divine formula; rendered ผู้ที่โกรธช้า",
+            "Proverbs 16:32": "human slow-to-anger > a warrior — not the divine formula; rendered ผู้ที่โกรธช้า",
+            "Proverbs 25:15": "human patience persuading a ruler — not the divine formula; rendered ด้วยความอดทน",
+        },
     },
     {
         "doc": "exod_34_attribute_formula_2026-05.md",

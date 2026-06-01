@@ -29,7 +29,7 @@ ALL_BOOKS = {**_OT_BOOKS_NORM, **NT_BOOKS}
 
 SLUG_TO_CODE = {slug: code for code, (_, slug) in ALL_BOOKS.items()}
 CODE_ORDER = {code: i for i, code in enumerate(ALL_BOOKS.keys())}
-FILENAME_RE = re.compile(r"^(?P<slug>[a-z0-9]+)_(?P<chapter>\d{2})\.json$")
+FILENAME_RE = re.compile(r"^(?P<slug>[a-z0-9]+)_(?P<chapter>\d{2,3})\.json$")
 
 
 def main():
