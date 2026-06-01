@@ -41,7 +41,7 @@ for code, entry in OT_BOOKS.items():
         ALL_BOOKS[code] = (entry[0], entry[1])
 
 SLUG_TO_CODE = {slug: code for code, (_, slug) in ALL_BOOKS.items()}
-FILENAME_RE = re.compile(r"^(?P<slug>[a-z0-9]+)_(?P<chapter>\d{2})\.json$")
+FILENAME_RE = re.compile(r"^(?P<slug>[a-z0-9]+)_(?P<chapter>\d{2,3})\.json$")
 
 
 def load_done() -> set[tuple[str, int]]:
