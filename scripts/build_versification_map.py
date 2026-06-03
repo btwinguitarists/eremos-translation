@@ -317,6 +317,22 @@ def main():
     out.update(minor_entries)
     out.update(ecc_entries)
 
+    # MERGE-PRESERVE (2026-06-03): the live map contains zones backfilled
+    # directly into the JSON during book ships, outside this script
+    # (1KI-5, 1KI-22, 2KI-12, 2CH, JON-2, NEH zones — 177 entries as of
+    # 2026-06-03). A plain regen silently erased them once; never again.
+    # Any entry key present in the existing file but not generated above is
+    # carried over verbatim. To intentionally delete an entry, remove it
+    # from the JSON *and* note it here.
+    preserved = 0
+    if OUT.exists():
+        existing = json.loads(OUT.read_text(encoding="utf-8"))
+        for k, v in existing.items():
+            if not k.startswith("_") and k not in out:
+                out[k] = v
+                preserved += 1
+    out["_total_entries"] = sum(1 for k in out if not k.startswith("_"))
+
     print(f"Psalm divergence entries: {len(psalm_entries)}")
     print(f"  superscription verses: {out['_psalm_superscription_count']}")
     print(f"Joel divergence entries: {len(joel_entries)}")
@@ -324,6 +340,7 @@ def main():
     print(f"Aramaic boundary markers: {len(aramaic_entries)}")
     print(f"Minor shift entries: {len(minor_entries)}")
     print(f"Ecclesiastes divergence entries: {len(ecc_entries)}")
+    print(f"Preserved backfilled entries: {preserved}")
     print(f"TOTAL: {out['_total_entries']}")
 
     if args.dry_run:
