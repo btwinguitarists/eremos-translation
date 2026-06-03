@@ -1,6 +1,6 @@
 # ปัญญาจารย์
 
-_Ecclesiastes — 3 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
+_Ecclesiastes — 4 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
 
 _This **feedback edition** is the plain Thai translation with a `>` placeholder block under each verse for reviewer comments. **See the instructions immediately below before reading.** For the annotated edition (with contextual summaries), see `output/reader/ecclesiastes.md`; for the verses-only edition (no comment blocks), see `output/plain/ecclesiastes.md`._
 
@@ -304,6 +304,78 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 ---
 
+## บทที่ 4
+
+**1** ข้าพเจ้าหันกลับมาดูการบีบบังคับทั้งปวงที่เกิดขึ้นภายใต้ดวงอาทิตย์ ดูเถิด น้ำตาของผู้ถูกบีบบังคับ และพวกเขาไม่มีผู้ปลอบโยน อำนาจอยู่ในมือของผู้บีบบังคับพวกเขา และพวกเขาไม่มีผู้ปลอบโยน
+
+> ___
+
+**2** ข้าพเจ้าจึงยกย่องคนตายที่ตายไปแล้ว ยิ่งกว่าคนเป็นที่ยังมีชีวิตอยู่
+
+> ___
+
+**3** แต่ผู้ที่ดียิ่งกว่าทั้งสองคือผู้ที่ยังไม่ได้เกิดมา ผู้ที่ไม่เคยเห็นการชั่วร้ายที่ทำกันภายใต้ดวงอาทิตย์
+
+> ___
+
+**4** ข้าพเจ้าเห็นว่าการตรากตรำทั้งปวงและความชำนาญของการงานทั้งสิ้น มาจากความอิจฉาที่มนุษย์มีต่อเพื่อนบ้านของตน นี่ก็ไร้แก่นสารเช่นกัน เป็นการไล่ตามลม
+
+> ___
+
+**5** คนโง่กอดมือของตน และกินเนื้อของตนเอง
+
+> ___
+
+**6** เต็มกำมือหนึ่งพร้อมความสงบ ก็ดีกว่าเต็มสองกำมือพร้อมการตรากตรำและการไล่ตามลม
+
+> ___
+
+**7** ข้าพเจ้าหันกลับมา และได้เห็นความไร้แก่นสารภายใต้ดวงอาทิตย์
+
+> ___
+
+**8** มีชายคนหนึ่งอยู่ตัวคนเดียว ไม่มีทั้งบุตรหรือพี่น้อง การตรากตรำของเขาไม่มีที่สิ้นสุด และตาของเขาก็ไม่อิ่มในความมั่งคั่ง “ข้าตรากตรำไปเพื่อผู้ใด และให้จิตใจของข้าขาดสิ่งดีไปทำไม” นี่ก็ไร้แก่นสารเช่นกัน เป็นภารกิจอันหนักหน่วง
+
+> ___
+
+**9** สองคนดีกว่าคนเดียว เพราะพวกเขาได้ค่าตอบแทนที่ดีจากการตรากตรำของตน
+
+> ___
+
+**10** เพราะถ้าคนหนึ่งล้มลง อีกคนจะพยุงเพื่อนของตนขึ้นได้ แต่วิบัติแก่คนที่ล้มลงโดยไม่มีอีกคนช่วยพยุงขึ้น
+
+> ___
+
+**11** เช่นกัน ถ้าสองคนนอนด้วยกันก็จะอบอุ่น แต่คนเดียวจะอบอุ่นได้อย่างไรเล่า
+
+> ___
+
+**12** และแม้คนหนึ่งอาจถูกเอาชนะได้ สองคนก็จะยืนหยัดต้านทานได้ และเชือกสามเกลียวย่อมไม่ขาดโดยง่าย
+
+> ___
+
+**13** เด็กหนุ่มยากจนแต่มีปัญญา ก็ดีกว่ากษัตริย์ชราแต่โง่เขลา ผู้ไม่รู้จักรับฟังคำตักเตือนอีกต่อไป
+
+> ___
+
+**14** เพราะเขาออกจากเรือนจำมาเป็นกษัตริย์ แม้เขาเกิดมายากจนในราชอาณาจักรของตนเอง
+
+> ___
+
+**15** ข้าพเจ้าเห็นคนเป็นทั้งปวงที่ดำเนินอยู่ภายใต้ดวงอาทิตย์ ติดตามเด็กหนุ่มคนที่สองผู้ขึ้นแทนกษัตริย์นั้น
+
+> ___
+
+**16** ประชาชนทั้งปวงที่อยู่ก่อนพวกเขานั้นไม่มีที่สิ้นสุด แต่คนรุ่นหลังก็จะไม่ยินดีในตัวเขา นี่ก็ไร้แก่นสารเช่นกัน เป็นการไล่ตามลม
+
+> ___
+
+**17** จงระวังเท้าของเจ้าเมื่อเจ้าไปยังพระนิเวศของพระเจ้า การเข้าใกล้เพื่อฟังก็ดีกว่าการถวายเครื่องบูชาแบบคนโง่ เพราะพวกเขาไม่รู้ว่าตนกำลังทำชั่ว
+
+> ___
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -313,4 +385,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/ecclesiastes_01.json` | `47babfc626001dd40ba68acedf66a4eb21391f9cf2350ede556cc83178522409` |
 | `output/translations/ecclesiastes_02.json` | `e9a519cee0983558936f3abe8bc436301af7e1cb4a0aa0b121a22c7e4f919abb` |
 | `output/translations/ecclesiastes_03.json` | `523091402d1bef34cdcfa4fc44092641b2fdd2ac1001eac39320312677114e71` |
+| `output/translations/ecclesiastes_04.json` | `ba4bebbf9191d745ebedbd7608f86af41f3f8b65c6aa6126e8419f470490a667` |
 
