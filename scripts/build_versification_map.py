@@ -245,6 +245,41 @@ def build_minor_shift_entries() -> dict[str, dict]:
     return entries
 
 
+def build_ecclesiastes_entries() -> dict[str, dict]:
+    """Ecclesiastes: MT 4:17 = English 5:1; MT 5:1-19 = English 5:2-20.
+
+    English moves the chapter break — 'Guard your steps' (MT 4:17) opens
+    English chapter 5, shifting all of MT ch.5 by one. LXX follows MT.
+    Registered 2026-06-03 when ECC 4 entered translation.
+    """
+    entries: dict[str, dict] = {
+        "ECC-4-17": {
+            "mt_book": "ECC",
+            "mt_chapter": 4,
+            "mt_verse": 17,
+            "mt_ref": "Ecclesiastes 4:17",
+            "english_ref": "Ecclesiastes 5:1",
+            "bsb_ref": "Ecclesiastes 5:1",
+            "lxx_ref": "Ecclesiastes 4:17",
+            "diverges": True,
+            "note": "MT ends ch.4 here; English begins ch.5 — shift continues through MT 5:1-19 = English 5:2-20.",
+        },
+    }
+    for mt_v in range(1, 20):  # MT 5:1..5:19 = English 5:2..5:20
+        eng_v = mt_v + 1
+        entries[f"ECC-5-{mt_v}"] = {
+            "mt_book": "ECC",
+            "mt_chapter": 5,
+            "mt_verse": mt_v,
+            "mt_ref": f"Ecclesiastes 5:{mt_v}",
+            "english_ref": f"Ecclesiastes 5:{eng_v}",
+            "bsb_ref": f"Ecclesiastes 5:{eng_v}",
+            "lxx_ref": f"Ecclesiastes 5:{mt_v}",
+            "diverges": True,
+        }
+    return entries
+
+
 def main():
     parser = argparse.ArgumentParser(description="Build data/versification_map.json")
     parser.add_argument("--dry-run", action="store_true", help="Print summary; do not write file")
@@ -255,6 +290,7 @@ def main():
     mal_entries = build_malachi_entries()
     aramaic_entries = build_aramaic_boundary_entries()
     minor_entries = build_minor_shift_entries()
+    ecc_entries = build_ecclesiastes_entries()
 
     out = {
         "_meta": {
@@ -271,6 +307,7 @@ def main():
             + len(mal_entries)
             + len(aramaic_entries)
             + len(minor_entries)
+            + len(ecc_entries)
         ),
     }
     out.update(psalm_entries)
@@ -278,6 +315,7 @@ def main():
     out.update(mal_entries)
     out.update(aramaic_entries)
     out.update(minor_entries)
+    out.update(ecc_entries)
 
     print(f"Psalm divergence entries: {len(psalm_entries)}")
     print(f"  superscription verses: {out['_psalm_superscription_count']}")
@@ -285,6 +323,7 @@ def main():
     print(f"Malachi divergence entries: {len(mal_entries)}")
     print(f"Aramaic boundary markers: {len(aramaic_entries)}")
     print(f"Minor shift entries: {len(minor_entries)}")
+    print(f"Ecclesiastes divergence entries: {len(ecc_entries)}")
     print(f"TOTAL: {out['_total_entries']}")
 
     if args.dry_run:
