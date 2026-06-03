@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-06-01 01:53:17 UTC_
-_Total chapters: 935 · Total verses: 25732_
+_Generated: 2026-06-03 22:22:38 UTC_
+_Total chapters: 936 · Total verses: 25750_
 
 ## How to verify a chapter
 
@@ -326,6 +326,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/deuteronomy_32.json` | 52 | `a067e35761bc5efea65a111f9c03cefd3d0cdc4e9f738a33f665ca804079f878` | `c780805b` |
 | `output/translations/deuteronomy_33.json` | 29 | `02932f4f3325889d060e90b5c9d4a4150451246e4c1713a89cb95bf94c2d5909` | `69c7f5a2` |
 | `output/translations/deuteronomy_34.json` | 12 | `0ecb3feec877941592f09d5273001488aaabdb0e6decd25258339340c2b8acae` | `2b1853d4` |
+| `output/translations/ecclesiastes_01.json` | 18 | `47babfc626001dd40ba68acedf66a4eb21391f9cf2350ede556cc83178522409` | `—` |
 | `output/translations/ephesians_01.json` | 23 | `25b6b92e8fa22a1389d985ec795f3bfd27973de8e2847097f39929de798a3720` | `93fd9dfe` |
 | `output/translations/ephesians_02.json` | 22 | `53724785255dd4db63eb65b73968911ecb437277245fcf0b94d4478f7f188ad4` | `9ecdeec7` |
 | `output/translations/ephesians_03.json` | 21 | `0b6542e76349f9fe987bced658a7a4f666d8a4d4192737c716db2c2e897ea711` | `f6448547` |
@@ -818,7 +819,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/psalms_142.json` | 8 | `68f0591c34218742dc60d79ef60bea7530f8ba0fb799b1f9c7198c463af91b30` | `843124d3` |
 | `output/translations/psalms_143.json` | 12 | `3b4f4cdf11367dd15527f70baab8be93530751e9a208e566bebf23a6b48e422a` | `c16c57cf` |
 | `output/translations/psalms_144.json` | 15 | `b29dfd4f13e198f57b52b8bacc844a832eb57c5ea37df1279c0c2dfd24379634` | `c0e4525e` |
-| `output/translations/psalms_145.json` | 21 | `d5e6f4815e7ad39b89e6740881d6bb5c9644673f0af95e6d943a573bf0c99ee8` | `6a42f936` |
+| `output/translations/psalms_145.json` | 21 | `d5e6f4815e7ad39b89e6740881d6bb5c9644673f0af95e6d943a573bf0c99ee8` | `79ad6322` |
 | `output/translations/psalms_146.json` | 10 | `5569d2668de470cecf01dfb9459f63c0c6346b28069523d35f7bdc7e0b78340b` | `357b00f8` |
 | `output/translations/psalms_147.json` | 20 | `fefca7ed3d45f3290857b9c2ef1e1da793db00c1c9208273a0de00da77e46c6c` | `721c14c3` |
 | `output/translations/psalms_148.json` | 14 | `4ffdfa6d55834bae49cdf3865f548c599deb1095b11248bd6c1000ac990c656a` | `a39b9c2a` |
