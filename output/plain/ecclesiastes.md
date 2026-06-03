@@ -1,6 +1,6 @@
 # ปัญญาจารย์
 
-_Ecclesiastes — 5 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
+_Ecclesiastes — 6 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
 
 _This **plain edition** shows only the Thai translation — no commentary, no Greek, no English. Intended for Thai scholars and theological reviewers evaluating the translation on its own terms. For the annotated edition with contextual summaries (บริบท), see `output/reader/ecclesiastes.md`. For the underlying Greek, English (BSB) reference, and translator decisions per verse, see the per-chapter review reports at `output/check_reports/ecclesiastes_NN_review.md` or the source JSON at `output/translations/`._
 
@@ -230,6 +230,34 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 ---
 
+## บทที่ 6
+
+**1** มีความเลวร้ายอย่างหนึ่งที่ข้าพเจ้าเห็นภายใต้ดวงอาทิตย์ และมันหนักอึ้งอยู่บนมนุษย์
+
+**2** คือคนที่พระเจ้าประทานความมั่งคั่ง ทรัพย์สมบัติ และเกียรติยศให้ จนเขาไม่ขาดสิ่งใดที่ใจปรารถนา แต่พระเจ้าไม่ได้ทรงให้เขามีอำนาจที่จะกินจากสิ่งเหล่านั้น กลับเป็นคนต่างถิ่นที่ได้กิน นี่ก็ไร้แก่นสาร และเป็นความทุกข์อันเลวร้าย
+
+**3** หากชายคนหนึ่งมีบุตรร้อยคน และมีชีวิตอยู่หลายปี วันเวลาแห่งปีของเขาจะมากเพียงใดก็ตาม แต่ถ้าจิตใจของเขาไม่อิ่มในสิ่งดี และเขาไม่ได้รับแม้แต่การฝังศพ ข้าพเจ้าขอกล่าวว่า ทารกที่ตายตั้งแต่เกิดยังดีกว่าเขา
+
+**4** เพราะทารกนั้นมาอย่างไร้แก่นสาร และจากไปในความมืด และชื่อของเขาก็ถูกปกคลุมไว้ในความมืด
+
+**5** ทั้งยังไม่เคยเห็นดวงอาทิตย์ ไม่เคยรู้สิ่งใด แต่ทารกนั้นก็มีความสงบยิ่งกว่าชายผู้นั้น
+
+**6** และแม้ชายผู้นั้นมีชีวิตอยู่พันปีถึงสองครั้ง แต่ไม่ได้ชื่นชมสิ่งดี ทุกคนไม่ได้ไปยังที่เดียวกันหรอกหรือ
+
+**7** การตรากตรำทั้งสิ้นของมนุษย์ก็เพื่อปากของเขา แต่ความอยากของเขาไม่เคยอิ่ม
+
+**8** เพราะคนมีปัญญามีประโยชน์อะไรเหนือคนโง่เล่า และคนยากจนที่รู้จักดำเนินตนต่อหน้าคนทั้งหลายจะได้ประโยชน์อะไร
+
+**9** สิ่งที่ตามองเห็นก็ดีกว่าความอยากที่เร่ร่อนไป นี่ก็ไร้แก่นสารเช่นกัน เป็นการไล่ตามลม
+
+**10** สิ่งใดที่เป็นอยู่ก็ถูกตั้งชื่อไว้นานแล้ว และเป็นที่รู้กันว่ามนุษย์คืออะไร เขาไม่อาจสู้ความกับผู้ที่มีอำนาจเหนือกว่าตน
+
+**11** เพราะยิ่งถ้อยคำมาก ก็ยิ่งเพิ่มความไร้แก่นสารมาก แล้วมนุษย์จะได้ประโยชน์อะไร
+
+**12** เพราะใครเล่าจะรู้ว่าอะไรดีสำหรับมนุษย์ในชีวิตนี้ ตลอดชั่ววันเวลาอันน้อยนิดแห่งชีวิตอันไร้แก่นสารของเขา ซึ่งเขาใช้ผ่านไปดุจเงา ใครเล่าจะบอกมนุษย์ได้ว่า อะไรจะเกิดขึ้นภายหลังเขาภายใต้ดวงอาทิตย์
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -241,4 +269,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/ecclesiastes_03.json` | `523091402d1bef34cdcfa4fc44092641b2fdd2ac1001eac39320312677114e71` |
 | `output/translations/ecclesiastes_04.json` | `ba4bebbf9191d745ebedbd7608f86af41f3f8b65c6aa6126e8419f470490a667` |
 | `output/translations/ecclesiastes_05.json` | `9354586a3b03dbcd6f8c201acb80778a27f01826cf7b7723c857811fcc925122` |
+| `output/translations/ecclesiastes_06.json` | `5822eb3bdda2846c4826d4a45ce20f88373e86a045133ee5c82f38c45067ec6e` |
 
