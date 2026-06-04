@@ -1,6 +1,6 @@
 # อิสยาห์
 
-_Isaiah — 3 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
+_Isaiah — 4 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
 
 _This **feedback edition** is the plain Thai translation with a `>` placeholder block under each verse for reviewer comments. **See the instructions immediately below before reading.** For the annotated edition (with contextual summaries), see `output/reader/isaiah.md`; for the verses-only edition (no comment blocks), see `output/plain/isaiah.md`._
 
@@ -383,6 +383,43 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 ---
 
+## บทที่ 4
+
+**1** ในวันนั้น หญิงเจ็ดคนจะยึดชายคนเดียวไว้และกล่าวว่า “เราจะกินอาหารของเราเอง และสวมเสื้อผ้าของเราเอง เพียงขอให้เราได้ใช้ชื่อของท่าน ขอปลดความอัปยศของเราไปเถิด”
+
+> ___
+
+**2** ในวันนั้น หน่อขององค์พระผู้เป็นเจ้าจะงดงามและเปี่ยมด้วยสิริ และผลแห่งแผ่นดินจะเป็นความภาคภูมิและความรุ่งเรืองของผู้รอดชีวิตแห่งอิสราเอล
+
+> ___
+
+**3** และผู้ที่เหลืออยู่ในศิโยน ผู้ที่ยังคงอยู่ในเยรูซาเล็ม จะได้ชื่อว่าผู้บริสุทธิ์ คือทุกคนที่ถูกบันทึกไว้ให้มีชีวิตในเยรูซาเล็ม
+
+> ___
+
+**4** เมื่อองค์เจ้านายจะทรงชำระล้างสิ่งโสโครกของบรรดาธิดาแห่งศิโยน และทรงล้างคราบโลหิตของเยรูซาเล็มออกไปจากท่ามกลางนาง ด้วยวิญญาณแห่งการพิพากษาและวิญญาณแห่งการเผาผลาญ
+
+> ___
+
+**5** แล้วองค์พระผู้เป็นเจ้าจะทรงสร้างเมฆในเวลากลางวัน กับควันและแสงเพลิงโชติช่วงในเวลากลางคืน ไว้เหนือทั่วทุกบริเวณของภูเขาศิโยนและเหนือที่ประชุมของนาง เพราะเหนือสิริทั้งปวงจะมีปะรำคลุมไว้
+
+> ___
+
+**6** และจะมีเพิงให้เป็นร่มเงากันความร้อนยามกลางวัน เป็นที่ลี้ภัยและที่กำบังจากพายุและฝน
+
+> ___
+
+---
+
+### หมายเหตุด้านต้นฉบับ
+
+**ข้อ 2** — หมายเหตุการแปลพระนามของพระเจ้า
+
+_**องค์พระผู้เป็นเจ้า** ในบทนี้ (ปรากฏครั้งแรกที่ข้อ 2 ‘หน่อขององค์พระผู้เป็นเจ้า’) แปลจากภาษาฮีบรู יהוה (พระนามเฉพาะของพระเจ้า ออกเสียงโดยทั่วไปว่า ‘ยาห์เวห์’). ฉบับเอเรโมสใช้ **องค์พระผู้เป็นเจ้า** ตามแบบแผนของฉบับพันธสัญญาใหม่ที่แปล κύριος ซึ่งในต้นฉบับฮีบรูตรงกับ יהוה. ส่วน אֲדֹנָי เดี่ยว (ข้อ 4) แปลว่า ‘องค์เจ้านาย’ เพื่อให้ผู้อ่านแยกแยะรูปแบบฮีบรูได้ ดูรายละเอียดที่ docs/translator_decisions/divine_names_table_2026-05.md._
+
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -392,4 +429,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/isaiah_01.json` | `06f9c6aa67086fde760a70a36e205b594b88b6e5699ac556d440b324002681f0` |
 | `output/translations/isaiah_02.json` | `b5771f7f6ae768851f7ec6a8d72d44659d5c29041687ecbd6543a64131a630bf` |
 | `output/translations/isaiah_03.json` | `75f90571d7ea56e9e53cd817c57f33635aec725e003cbfb5a160429864e3361b` |
+| `output/translations/isaiah_04.json` | `d8a8b3f6c47cd7fa760e83944de9734be19b4cb7cc24dc0545dc64c6660c61e4` |
 
