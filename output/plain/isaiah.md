@@ -1,6 +1,6 @@
 # อิสยาห์
 
-_Isaiah — 11 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
+_Isaiah — 12 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
 
 _This **plain edition** shows only the Thai translation — no commentary, no Greek, no English. Intended for Thai scholars and theological reviewers evaluating the translation on its own terms. For the annotated edition with contextual summaries (บริบท), see `output/reader/isaiah.md`. For the underlying Greek, English (BSB) reference, and translator decisions per verse, see the per-chapter review reports at `output/check_reports/isaiah_NN_review.md` or the source JSON at `output/translations/`._
 
@@ -641,6 +641,31 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 ---
 
+## บทที่ 12
+
+**1** ในวันนั้น ท่านจะกล่าวว่า “ข้าแต่องค์พระผู้เป็นเจ้า ข้าพระองค์จะขอบพระคุณพระองค์ แม้พระองค์ได้ทรงกริ้วข้าพระองค์ แต่พระพิโรธของพระองค์ได้หันกลับไปแล้ว และพระองค์ทรงปลอบโยนข้าพระองค์
+
+**2** ดูเถิด พระเจ้าทรงเป็นความรอดของข้าพเจ้า ข้าพเจ้าจะวางใจและไม่กลัว เพราะยาห์ องค์พระผู้เป็นเจ้า เป็นกำลังและเป็นเพลงของข้าพเจ้า และพระองค์ได้ทรงเป็นความรอดของข้าพเจ้า”
+
+**3** พวกท่านจะตักน้ำด้วยความชื่นบาน จากบ่อน้ำพุทั้งหลายแห่งความรอด
+
+**4** และในวันนั้น พวกท่านจะกล่าวว่า “จงขอบพระคุณองค์พระผู้เป็นเจ้า จงร้องออกพระนามของพระองค์ จงประกาศพระราชกิจของพระองค์ท่ามกลางชนชาติทั้งหลาย จงป่าวร้องว่าพระนามของพระองค์เป็นที่เทิดทูน
+
+**5** จงร้องเพลงสรรเสริญองค์พระผู้เป็นเจ้า เพราะพระองค์ได้ทรงกระทำพระราชกิจอันสูงส่งสง่างาม ให้เรื่องนี้เป็นที่รู้กันทั่วทั้งแผ่นดินโลก
+
+**6** ชาวศิโยนเอ๋ย จงโห่ร้องและร้องเพลงด้วยความชื่นชมยินดี เพราะองค์บริสุทธิ์แห่งอิสราเอลทรงยิ่งใหญ่ และทรงสถิตท่ามกลางพวกท่าน”
+
+---
+
+### หมายเหตุด้านต้นฉบับ
+
+**ข้อ 1** — หมายเหตุการแปลพระนามของพระเจ้า
+
+_**องค์พระผู้เป็นเจ้า** ในบทนี้ (ปรากฏครั้งแรกที่ข้อ 1) แปลจากภาษาฮีบรู יהוה (พระนามเฉพาะของพระเจ้า ออกเสียงโดยทั่วไปว่า ‘ยาห์เวห์’). ฉบับเอเรโมสใช้ **องค์พระผู้เป็นเจ้า** ตามแบบแผนของฉบับพันธสัญญาใหม่ที่แปล κύριος ซึ่งในต้นฉบับฮีบรูตรงกับ יהוה. ที่ข้อ 2 พระนามซ้อนรูปสั้น יָהּ יְהוָה แปลว่า ‘ยาห์ องค์พระผู้เป็นเจ้า’ โดยทับศัพท์รูปสั้น ‘ยาห์’ ตามตาราง divine_names เพื่อให้ผู้อ่านเห็นการอ้างเพลงโมเสส (อพยพ 15:2) ดูรายละเอียดที่ docs/translator_decisions/divine_names_table_2026-05.md._
+
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -658,4 +683,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/isaiah_09.json` | `abd1626305e2e0b78bb489d839b2237ba6c5583dc156023d105743eb1b634d47` |
 | `output/translations/isaiah_10.json` | `1d9cd7f4b1022ed1290c86e183fbd11559dd0235eeb68655b10fec724a453983` |
 | `output/translations/isaiah_11.json` | `16d6b1b6f0bf0c0902b82ab6fd4b286eae7802e876e3dbad95db84fdd2fa1ea1` |
+| `output/translations/isaiah_12.json` | `71808c84dd02f7391de8105658008c8c404dd85eebd25d2711d75a55974a4e0d` |
 
