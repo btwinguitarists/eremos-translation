@@ -99,8 +99,10 @@ REF_RX = re.compile(r"(\S+)\s+(\d+):(\d+)!(\d+)")
 
 def load_bsb(book_name: str) -> dict[tuple[int, int], str]:
     """Load BSB verses for the OT book, keyed by (chapter, verse)."""
-    # BSB labels the Psalter "Psalm" (singular) per verse; our book table uses "Psalms".
-    bsb_name = "Psalm" if book_name == "Psalms" else book_name
+    # BSB verse labels differ from our book table for two books:
+    #   "Psalms" → "Psalm" (singular per verse), "Song of Songs" → "Song of Solomon".
+    _BSB_NAMES = {"Psalms": "Psalm", "Song of Songs": "Song of Solomon"}
+    bsb_name = _BSB_NAMES.get(book_name, book_name)
     verses: dict[tuple[int, int], str] = {}
     prefix = f"{bsb_name} "
     rx = re.compile(rf"{re.escape(bsb_name)} (\d+):(\d+)")
