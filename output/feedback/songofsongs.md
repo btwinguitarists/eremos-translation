@@ -1,6 +1,6 @@
 # เพลงซาโลมอน
 
-_Song of Songs — 2 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
+_Song of Songs — 3 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
 
 _This **feedback edition** is the plain Thai translation with a `>` placeholder block under each verse for reviewer comments. **See the instructions immediately below before reading.** For the annotated edition (with contextual summaries), see `output/reader/songofsongs.md`; for the verses-only edition (no comment blocks), see `output/plain/songofsongs.md`._
 
@@ -172,6 +172,54 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 ---
 
+## บทที่ 3
+
+**1** บนที่นอนของฉันยามค่ำคืน ฉันแสวงหาผู้ที่ใจฉันรัก ฉันแสวงหาเขา แต่ไม่พบ
+
+> ___
+
+**2** ฉันจะลุกขึ้นเดี๋ยวนี้ และวนไปทั่วเมือง ตามถนนและตามลานเมือง ฉันจะแสวงหาผู้ที่ใจฉันรัก ฉันแสวงหาเขา แต่ไม่พบ
+
+> ___
+
+**3** พวกคนยามที่เดินเวรรอบเมืองพบฉัน ฉันถามว่า “พวกท่านเห็นผู้ที่ใจฉันรักบ้างไหม”
+
+> ___
+
+**4** พอฉันผ่านพวกเขาไปได้ไม่นาน ฉันก็พบผู้ที่ใจฉันรัก ฉันกอดเขาไว้และไม่ยอมปล่อย จนกว่าฉันได้พาเขาเข้าบ้านมารดาของฉัน เข้าห้องของผู้ให้กำเนิดฉัน
+
+> ___
+
+**5** โอ บรรดาบุตรสาวแห่งเยรูซาเล็มเอ๋ย ฉันขอให้พวกเธอสาบานโดยอ้างฝูงละมั่งและกวางตัวเมียแห่งท้องทุ่งว่า จะไม่ปลุกเร้าหรือกระตุ้นความรักให้ตื่น จนกว่าความรักจะพอใจเอง
+
+> ___
+
+**6** นั่นใครกันที่ขึ้นมาจากถิ่นทุรกันดาร ดั่งเสาควัน อบอวลด้วยมดยอบและกำยาน จากเครื่องหอมทั้งปวงของพ่อค้า
+
+> ___
+
+**7** ดูเถิด นั่นพระวอของซาโลมอน มีชายฉกรรจ์หกสิบคนห้อมล้อม จากเหล่าชายฉกรรจ์แห่งอิสราเอล
+
+> ___
+
+**8** ทุกคนถือดาบชำนาญ เจนศึกสงคราม แต่ละคนมีดาบอยู่ที่ต้นขา พร้อมรับความสะพรึงแห่งราตรี
+
+> ___
+
+**9** กษัตริย์ซาโลมอนทรงสร้างพระราชยานสำหรับพระองค์เอง ด้วยไม้แห่งเลบานอน
+
+> ___
+
+**10** เสาของพระราชยานทรงทำด้วยเงิน ฐานทำด้วยทองคำ ที่ประทับบุด้วยผ้าสีม่วง ภายในประดับด้วยความรักจากบรรดาบุตรสาวแห่งเยรูซาเล็ม
+
+> ___
+
+**11** ออกมาเถิด โอ บรรดาบุตรสาวแห่งศิโยนเอ๋ย มาชมกษัตริย์ซาโลมอน ทรงมงกุฎซึ่งพระมารดาสวมให้พระองค์ ในวันอภิเษกสมรสของพระองค์ ในวันแห่งความชื่นชมยินดีแห่งพระทัยของพระองค์
+
+> ___
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -180,4 +228,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 |---|---|
 | `output/translations/songofsongs_01.json` | `2cc399dacf9df716f83cd5aec91d438ecdb5145ed10d046d651bf2c6142ede0f` |
 | `output/translations/songofsongs_02.json` | `b77665ea32758775f9e06f5cc948c406006f659f98d3b79264521cc5990e2ab9` |
+| `output/translations/songofsongs_03.json` | `7e89e9623a7ce15f0bed1c76afb2f08ce2699c600e3e5544b1a46c3521f5b0b0` |
 

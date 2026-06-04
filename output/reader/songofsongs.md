@@ -1,6 +1,6 @@
 # เพลงซาโลมอน
 
-_Song of Songs — 2 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
+_Song of Songs — 3 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
 
 _This reader edition shows the Thai translation and the contextual summary (บริบท) where one is provided. The contextual summaries are AI-generated editorial commentary, not part of the biblical text. For a plain verses-only edition (recommended for scholarly review), see `output/plain/songofsongs.md`. For the underlying Greek, English (BSB) reference, and translator decisions per verse, see the per-chapter review reports at `output/check_reports/songofsongs_NN_review.md` or the source JSON at `output/translations/`._
 
@@ -150,6 +150,54 @@ _This reader edition shows the Thai translation and the contextual summary (บ�
 
 ---
 
+## บทที่ 3
+
+**1** บนที่นอนของฉันยามค่ำคืน ฉันแสวงหาผู้ที่ใจฉันรัก ฉันแสวงหาเขา แต่ไม่พบ
+
+> _บริบท: ยามค่ำคืนหญิงสาวแสวงหาคนรักบนที่นอน แต่ไม่พบเขา_
+
+**2** ฉันจะลุกขึ้นเดี๋ยวนี้ และวนไปทั่วเมือง ตามถนนและตามลานเมือง ฉันจะแสวงหาผู้ที่ใจฉันรัก ฉันแสวงหาเขา แต่ไม่พบ
+
+> _บริบท: เธอลุกออกตามหาคนรักทั่วถนนและลานเมือง แต่ไม่พบ_
+
+**3** พวกคนยามที่เดินเวรรอบเมืองพบฉัน ฉันถามว่า “พวกท่านเห็นผู้ที่ใจฉันรักบ้างไหม”
+
+> _บริบท: คนยามรอบเมืองพบเธอ เธอถามหาคนรัก_
+
+**4** พอฉันผ่านพวกเขาไปได้ไม่นาน ฉันก็พบผู้ที่ใจฉันรัก ฉันกอดเขาไว้และไม่ยอมปล่อย จนกว่าฉันได้พาเขาเข้าบ้านมารดาของฉัน เข้าห้องของผู้ให้กำเนิดฉัน
+
+> _บริบท: เธอพบคนรัก กอดไว้ไม่ปล่อย และพาเข้าบ้านมารดา_
+
+**5** โอ บรรดาบุตรสาวแห่งเยรูซาเล็มเอ๋ย ฉันขอให้พวกเธอสาบานโดยอ้างฝูงละมั่งและกวางตัวเมียแห่งท้องทุ่งว่า จะไม่ปลุกเร้าหรือกระตุ้นความรักให้ตื่น จนกว่าความรักจะพอใจเอง
+
+> _บริบท: คำกำชับซ้ำ: อย่าปลุกความรักก่อนเวลาของมัน_
+
+**6** นั่นใครกันที่ขึ้นมาจากถิ่นทุรกันดาร ดั่งเสาควัน อบอวลด้วยมดยอบและกำยาน จากเครื่องหอมทั้งปวงของพ่อค้า
+
+> _บริบท: ขบวนขึ้นมาจากถิ่นทุรกันดารดั่งเสาควันหอมด้วยมดยอบและกำยาน_
+
+**7** ดูเถิด นั่นพระวอของซาโลมอน มีชายฉกรรจ์หกสิบคนห้อมล้อม จากเหล่าชายฉกรรจ์แห่งอิสราเอล
+
+> _บริบท: พระวอของซาโลมอนมาพร้อมชายฉกรรจ์หกสิบคนของอิสราเอล_
+
+**8** ทุกคนถือดาบชำนาญ เจนศึกสงคราม แต่ละคนมีดาบอยู่ที่ต้นขา พร้อมรับความสะพรึงแห่งราตรี
+
+> _บริบท: ทหารทุกคนชำนาญดาบ พร้อมรับภัยยามค่ำคืน_
+
+**9** กษัตริย์ซาโลมอนทรงสร้างพระราชยานสำหรับพระองค์เอง ด้วยไม้แห่งเลบานอน
+
+> _บริบท: ซาโลมอนทรงสร้างพระราชยานจากไม้เลบานอน_
+
+**10** เสาของพระราชยานทรงทำด้วยเงิน ฐานทำด้วยทองคำ ที่ประทับบุด้วยผ้าสีม่วง ภายในประดับด้วยความรักจากบรรดาบุตรสาวแห่งเยรูซาเล็ม
+
+> _บริบท: พระราชยานเสาเงิน ฐานทอง ที่นั่งผ้าม่วง ภายในประดับด้วยความรัก_
+
+**11** ออกมาเถิด โอ บรรดาบุตรสาวแห่งศิโยนเอ๋ย มาชมกษัตริย์ซาโลมอน ทรงมงกุฎซึ่งพระมารดาสวมให้พระองค์ ในวันอภิเษกสมรสของพระองค์ ในวันแห่งความชื่นชมยินดีแห่งพระทัยของพระองค์
+
+> _บริบท: บุตรสาวศิโยนออกมาชมซาโลมอนทรงมงกุฎในวันอภิเษกสมรส_
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -158,4 +206,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 |---|---|
 | `output/translations/songofsongs_01.json` | `2cc399dacf9df716f83cd5aec91d438ecdb5145ed10d046d651bf2c6142ede0f` |
 | `output/translations/songofsongs_02.json` | `b77665ea32758775f9e06f5cc948c406006f659f98d3b79264521cc5990e2ab9` |
+| `output/translations/songofsongs_03.json` | `7e89e9623a7ce15f0bed1c76afb2f08ce2699c600e3e5544b1a46c3521f5b0b0` |
 

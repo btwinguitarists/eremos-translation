@@ -1,6 +1,6 @@
 # เพลงซาโลมอน
 
-_Song of Songs — 2 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
+_Song of Songs — 3 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
 
 _This **plain edition** shows only the Thai translation — no commentary, no Greek, no English. Intended for Thai scholars and theological reviewers evaluating the translation on its own terms. For the annotated edition with contextual summaries (บริบท), see `output/reader/songofsongs.md`. For the underlying Greek, English (BSB) reference, and translator decisions per verse, see the per-chapter review reports at `output/check_reports/songofsongs_NN_review.md` or the source JSON at `output/translations/`._
 
@@ -82,6 +82,32 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 ---
 
+## บทที่ 3
+
+**1** บนที่นอนของฉันยามค่ำคืน ฉันแสวงหาผู้ที่ใจฉันรัก ฉันแสวงหาเขา แต่ไม่พบ
+
+**2** ฉันจะลุกขึ้นเดี๋ยวนี้ และวนไปทั่วเมือง ตามถนนและตามลานเมือง ฉันจะแสวงหาผู้ที่ใจฉันรัก ฉันแสวงหาเขา แต่ไม่พบ
+
+**3** พวกคนยามที่เดินเวรรอบเมืองพบฉัน ฉันถามว่า “พวกท่านเห็นผู้ที่ใจฉันรักบ้างไหม”
+
+**4** พอฉันผ่านพวกเขาไปได้ไม่นาน ฉันก็พบผู้ที่ใจฉันรัก ฉันกอดเขาไว้และไม่ยอมปล่อย จนกว่าฉันได้พาเขาเข้าบ้านมารดาของฉัน เข้าห้องของผู้ให้กำเนิดฉัน
+
+**5** โอ บรรดาบุตรสาวแห่งเยรูซาเล็มเอ๋ย ฉันขอให้พวกเธอสาบานโดยอ้างฝูงละมั่งและกวางตัวเมียแห่งท้องทุ่งว่า จะไม่ปลุกเร้าหรือกระตุ้นความรักให้ตื่น จนกว่าความรักจะพอใจเอง
+
+**6** นั่นใครกันที่ขึ้นมาจากถิ่นทุรกันดาร ดั่งเสาควัน อบอวลด้วยมดยอบและกำยาน จากเครื่องหอมทั้งปวงของพ่อค้า
+
+**7** ดูเถิด นั่นพระวอของซาโลมอน มีชายฉกรรจ์หกสิบคนห้อมล้อม จากเหล่าชายฉกรรจ์แห่งอิสราเอล
+
+**8** ทุกคนถือดาบชำนาญ เจนศึกสงคราม แต่ละคนมีดาบอยู่ที่ต้นขา พร้อมรับความสะพรึงแห่งราตรี
+
+**9** กษัตริย์ซาโลมอนทรงสร้างพระราชยานสำหรับพระองค์เอง ด้วยไม้แห่งเลบานอน
+
+**10** เสาของพระราชยานทรงทำด้วยเงิน ฐานทำด้วยทองคำ ที่ประทับบุด้วยผ้าสีม่วง ภายในประดับด้วยความรักจากบรรดาบุตรสาวแห่งเยรูซาเล็ม
+
+**11** ออกมาเถิด โอ บรรดาบุตรสาวแห่งศิโยนเอ๋ย มาชมกษัตริย์ซาโลมอน ทรงมงกุฎซึ่งพระมารดาสวมให้พระองค์ ในวันอภิเษกสมรสของพระองค์ ในวันแห่งความชื่นชมยินดีแห่งพระทัยของพระองค์
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -90,4 +116,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 |---|---|
 | `output/translations/songofsongs_01.json` | `2cc399dacf9df716f83cd5aec91d438ecdb5145ed10d046d651bf2c6142ede0f` |
 | `output/translations/songofsongs_02.json` | `b77665ea32758775f9e06f5cc948c406006f659f98d3b79264521cc5990e2ab9` |
+| `output/translations/songofsongs_03.json` | `7e89e9623a7ce15f0bed1c76afb2f08ce2699c600e3e5544b1a46c3521f5b0b0` |
 
