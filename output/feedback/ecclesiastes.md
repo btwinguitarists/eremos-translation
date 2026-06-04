@@ -1,6 +1,6 @@
 # ปัญญาจารย์
 
-_Ecclesiastes — 11 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
+_Ecclesiastes — 12 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
 
 _This **feedback edition** is the plain Thai translation with a `>` placeholder block under each verse for reviewer comments. **See the instructions immediately below before reading.** For the annotated edition (with contextual summaries), see `output/reader/ecclesiastes.md`; for the verses-only edition (no comment blocks), see `output/plain/ecclesiastes.md`._
 
@@ -904,6 +904,66 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 ---
 
+## บทที่ 12
+
+**1** จงระลึกถึงพระผู้สร้างของเจ้าในวันคืนแห่งวัยหนุ่มของเจ้า ก่อนที่วันคืนอันเลวร้ายจะมาถึง และปีเดือนจะใกล้เข้ามา เมื่อเจ้าจะพูดว่า “ข้าไม่มีความเพลิดเพลินในปีเหล่านั้นเลย”
+
+> ___
+
+**2** ก่อนที่ดวงอาทิตย์ แสงสว่าง ดวงจันทร์ และดวงดาวจะมืดไป และเมฆจะหวนกลับมาหลังฝน
+
+> ___
+
+**3** ในวันนั้น บรรดาผู้เฝ้าเรือนจะสั่นสะท้าน เหล่าชายฉกรรจ์จะค้อมตัวลง หญิงโม่แป้งจะหยุดลงเพราะเหลือน้อย และบรรดาผู้ที่มองผ่านบานหน้าต่างจะมัวมืดไป
+
+> ___
+
+**4** ประตูคู่สู่ถนนจะถูกปิด เมื่อเสียงโม่แผ่วลง คนจะลุกขึ้นเมื่อได้ยินเสียงนก และบรรดาบุตรสาวแห่งบทเพลงจะแผ่วเบาลง
+
+> ___
+
+**5** ทั้งคนจะกลัวที่สูง และความสะพรึงจะอยู่ตามทาง ต้นอัลมอนด์จะผลิดอก ตั๊กแตนจะลากตัวไปอย่างหนักอึ้ง และผลเคเปอร์จะไร้ผล เพราะมนุษย์กำลังไปสู่บ้านนิรันดร์ของตน และบรรดาผู้ไว้ทุกข์ก็เดินวนอยู่ตามถนน
+
+> ___
+
+**6** ก่อนที่สายเงินจะขาด และชามทองคำจะแตก ก่อนที่เหยือกจะแตกสลายที่น้ำพุ และล้อจะหักลงที่บ่อน้ำ
+
+> ___
+
+**7** แล้วผงคลีดินจะกลับคืนสู่แผ่นดินดังที่มันเคยเป็น และวิญญาณจะกลับคืนไปยังพระเจ้าผู้ประทานวิญญาณนั้น
+
+> ___
+
+**8** “ไร้แก่นสารที่สุด” ปัญญาจารย์กล่าว “ทุกสิ่งล้วนไร้แก่นสาร”
+
+> ___
+
+**9** ยิ่งกว่านั้น นอกจากปัญญาจารย์เป็นคนมีปัญญาแล้ว ท่านยังสั่งสอนความรู้แก่ประชาชน ท่านได้ใคร่ครวญ ค้นคว้า และเรียบเรียงสุภาษิตไว้มากมาย
+
+> ___
+
+**10** ปัญญาจารย์เสาะหาถ้อยคำที่น่าชื่นใจ และสิ่งที่เขียนไว้นั้นเที่ยงตรง เป็นถ้อยคำแห่งความจริง
+
+> ___
+
+**11** ถ้อยคำของคนมีปัญญาเป็นเหมือนประตัก และถ้อยคำที่รวบรวมไว้เป็นเหมือนตะปูที่ตอกแน่น ซึ่งประทานมาจากพระผู้เลี้ยงเพียงผู้เดียว
+
+> ___
+
+**12** ลูกเอ๋ย นอกเหนือจากสิ่งเหล่านี้ จงรับคำเตือนเถิด การแต่งหนังสือมากมายนั้นไม่มีที่สิ้นสุด และการศึกษามากก็ทำให้ร่างกายเหนื่อยหน่าย
+
+> ___
+
+**13** เมื่อได้ฟังทั้งหมดแล้ว บทสรุปของเรื่องก็คือ จงยำเกรงพระเจ้าและถือรักษาพระบัญญัติของพระองค์ เพราะนี่เป็นหน้าที่ทั้งสิ้นของมนุษย์
+
+> ___
+
+**14** เพราะพระเจ้าจะทรงนำการกระทำทุกอย่างเข้าสู่การพิพากษา พร้อมทั้งสิ่งที่ซ่อนเร้นทุกอย่าง ไม่ว่าดีหรือชั่ว
+
+> ___
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -921,4 +981,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/ecclesiastes_09.json` | `45565fab0095dc8317a4571276db372c73843d1f312bf5c2a66987a7b4261c95` |
 | `output/translations/ecclesiastes_10.json` | `403c08ad5fec04f6085a03a05a6991c8e4c9e382b3a49199898cc334401408f3` |
 | `output/translations/ecclesiastes_11.json` | `a53d7bec425703c2f803b34904f338402162ee41223dcbe7ef03a3f68b362a59` |
+| `output/translations/ecclesiastes_12.json` | `362c367280bb9fd24a0b1bf208d8b963bb732a8ff454837b6e05246593cc2326` |
 
