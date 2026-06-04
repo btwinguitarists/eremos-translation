@@ -1,6 +1,6 @@
 # เพลงซาโลมอน
 
-_Song of Songs — 5 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
+_Song of Songs — 6 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
 
 _This reader edition shows the Thai translation and the contextual summary (บริบท) where one is provided. The contextual summaries are AI-generated editorial commentary, not part of the biblical text. For a plain verses-only edition (recommended for scholarly review), see `output/plain/songofsongs.md`. For the underlying Greek, English (BSB) reference, and translator decisions per verse, see the per-chapter review reports at `output/check_reports/songofsongs_NN_review.md` or the source JSON at `output/translations/`._
 
@@ -334,6 +334,58 @@ _This reader edition shows the Thai translation and the contextual summary (บ�
 
 ---
 
+## บทที่ 6
+
+**1** ที่รักของเธอไปที่ไหนเสียเล่า โอ ผู้งามเลิศในหมู่หญิงเอ๋ย ที่รักของเธอหันไปทางใด พวกเราจะช่วยเธอแสวงหาเขา
+
+> _บริบท: บุตรสาวเยรูซาเล็มอาสาช่วยตามหาคนรักของเธอ_
+
+**2** ที่รักของฉันลงไปยังสวนของเขา ไปยังแปลงเครื่องเทศ เพื่อเลี้ยงฝูงแกะในสวนทั้งหลาย และเพื่อเก็บดอกบัว
+
+> _บริบท: เธอตอบ: เขาลงไปยังสวนเครื่องเทศของเขาเพื่อเก็บดอกบัว_
+
+**3** ฉันเป็นของที่รักของฉัน และที่รักของฉันก็เป็นของฉัน เขาเลี้ยงฝูงแกะอยู่ท่ามกลางดอกบัว
+
+> _บริบท: สูตรรักกลับด้าน: ฉันเป็นของเขา และเขาเป็นของฉัน_
+
+**4** ยอดรักของฉันเอ๋ย เธองามดั่งทีรซาห์ น่ารักดั่งเยรูซาเล็ม น่าครั่นคร้ามดั่งกองทัพชูธง
+
+> _บริบท: เขาชมเธอ: งามดั่งทีรซาห์ น่าครั่นคร้ามดั่งกองทัพชูธง_
+
+**5** ขอเบนสายตาของเธอไปจากฉัน เพราะดวงตานั้นทำให้ใจฉันหวั่นไหว เส้นผมของเธอดั่งฝูงแพะที่ไหลลงมาจากกิเลอาด
+
+> _บริบท: สายตาเธอทำให้เขาหวั่นไหว ผมดั่งฝูงแพะจากกิเลอาด_
+
+**6** ฟันของเธอดั่งฝูงแกะที่เดินขึ้นมาจากการชำระล้าง ทุกตัวล้วนมีคู่แฝด ไม่มีตัวใดขาดหายไป
+
+> _บริบท: ฟันขาวครบคู่ดั่งฝูงแกะขึ้นจากการชำระล้าง_
+
+**7** ขมับของเธอที่อยู่หลังผ้าคลุมหน้า ดั่งผลทับทิมผ่าซีก
+
+> _บริบท: ขมับดั่งทับทิมผ่าซีกหลังผ้าคลุม_
+
+**8** มเหสีมีหกสิบองค์ สนมแปดสิบคน และหญิงสาวอีกนับไม่ถ้วน
+
+> _บริบท: มเหสีหกสิบ สนมแปดสิบ หญิงสาวนับไม่ถ้วน_
+
+**9** แต่นกพิราบของฉัน คนงามพร้อมของฉัน มีเพียงหนึ่งเดียว เธอเป็นหนึ่งเดียวของมารดา เป็นดวงใจบริสุทธิ์ของผู้ให้กำเนิด เหล่าหญิงสาวเห็นเธอก็อวยพรเธอ ทั้งมเหสีและสนมก็พากันสรรเสริญเธอ
+
+> _บริบท: ในบรรดาทั้งหมด นกพิราบของเขามีเพียงหนึ่งเดียว ทุกคนสรรเสริญเธอ_
+
+**10** นั่นใครกันที่ทอแสงดั่งรุ่งอรุณ งามดั่งดวงจันทร์ สุกใสดั่งดวงอาทิตย์ น่าครั่นคร้ามดั่งกองทัพชูธง
+
+> _บริบท: เสียงถาม: ใครกันที่งามดั่งจันทร์ สุกใสดั่งตะวัน_
+
+**11** ฉันลงไปยังสวนต้นวอลนัท เพื่อชมหมู่ไม้ผลิใบแห่งหุบเขา เพื่อดูว่าเถาองุ่นผลิดอกแล้วหรือยัง และต้นทับทิมออกดอกแล้วหรือไม่
+
+> _บริบท: ลงไปดูสวนวอลนัทว่าองุ่นและทับทิมผลิดอกหรือยัง_
+
+**12** โดยไม่ทันรู้ตัว ใจของฉันก็วางฉันไว้ท่ามกลางราชรถแห่งชนผู้สูงศักดิ์ของฉัน
+
+> _บริบท: โดยไม่ทันรู้ตัว เธอถูกพาไปอยู่ท่ามกลางราชรถ_
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -345,4 +397,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/songofsongs_03.json` | `7e89e9623a7ce15f0bed1c76afb2f08ce2699c600e3e5544b1a46c3521f5b0b0` |
 | `output/translations/songofsongs_04.json` | `efd72fbb4b959d1b8b35774ecb7972257fae44f50725125b81294c56b7a2b947` |
 | `output/translations/songofsongs_05.json` | `f4bd7e92b6fb12c143c6ff02cbe193e24cb8c941d4fb0d32c8ff0c177312992b` |
+| `output/translations/songofsongs_06.json` | `3aeb76da872e5fea02bc58cb0db99954bde3b8f384ca0d0f78065a3453e31690` |
 
