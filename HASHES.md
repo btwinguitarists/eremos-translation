@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-06-04 00:46:29 UTC_
-_Total chapters: 947 · Total verses: 25954_
+_Generated: 2026-06-04 02:26:42 UTC_
+_Total chapters: 948 · Total verses: 25971_
 
 ## How to verify a chapter
 
@@ -337,7 +337,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/ecclesiastes_09.json` | 18 | `45565fab0095dc8317a4571276db372c73843d1f312bf5c2a66987a7b4261c95` | `2c96bcaa` |
 | `output/translations/ecclesiastes_10.json` | 20 | `403c08ad5fec04f6085a03a05a6991c8e4c9e382b3a49199898cc334401408f3` | `1333306e` |
 | `output/translations/ecclesiastes_11.json` | 10 | `a53d7bec425703c2f803b34904f338402162ee41223dcbe7ef03a3f68b362a59` | `3a970a55` |
-| `output/translations/ecclesiastes_12.json` | 14 | `362c367280bb9fd24a0b1bf208d8b963bb732a8ff454837b6e05246593cc2326` | `—` |
+| `output/translations/ecclesiastes_12.json` | 14 | `362c367280bb9fd24a0b1bf208d8b963bb732a8ff454837b6e05246593cc2326` | `7c729260` |
 | `output/translations/ephesians_01.json` | 23 | `25b6b92e8fa22a1389d985ec795f3bfd27973de8e2847097f39929de798a3720` | `93fd9dfe` |
 | `output/translations/ephesians_02.json` | 22 | `53724785255dd4db63eb65b73968911ecb437277245fcf0b94d4478f7f188ad4` | `9ecdeec7` |
 | `output/translations/ephesians_03.json` | 21 | `0b6542e76349f9fe987bced658a7a4f666d8a4d4192737c716db2c2e897ea711` | `f6448547` |
@@ -963,6 +963,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/ruth_02.json` | 23 | `b3230363afc8ed4f4ba3f292ef5fe23b01457e13138a3d6d9946d8d26e53e8cf` | `29467d12` |
 | `output/translations/ruth_03.json` | 18 | `becea25722cf93e084b74f773d9ef7e202200846da5aafd6b2a86620387969ff` | `3f48fec9` |
 | `output/translations/ruth_04.json` | 22 | `8c970ff4e31229a2ce7ef452821ab3a5f4ef4795d413180b89a11ad57fb84f8a` | `b4292303` |
+| `output/translations/songofsongs_01.json` | 17 | `2cc399dacf9df716f83cd5aec91d438ecdb5145ed10d046d651bf2c6142ede0f` | `—` |
 | `output/translations/titus_01.json` | 16 | `6b9bc5a855e4143fab405d9116d393e4ed8e929d99a62b3d2451d8043fb50100` | `7cca09e6` |
 | `output/translations/titus_02.json` | 15 | `54cca3502fb1484c14c16b498528dd0e1691cb0d1650c2a21bae3fc079cf8180` | `9d4d7d23` |
 | `output/translations/titus_03.json` | 15 | `ae6d73e432043adfd5b8f1c7ccdac693084026cab5e5b9fda7db7d05472e9648` | `502e5308` |

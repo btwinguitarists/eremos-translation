@@ -27,20 +27,29 @@
 ## חַנּוּן וְרַחוּם / רַחוּם וְחַנּוּן (gracious + compassionate)
 **Doc:** `exod_34_attribute_formula_2026-05.md`  
 **Expected Thai contains:** `ทรงพระเมตตา`  
-**Total matching verses:** 5  
-**OK:** 5 · **Excepted:** 0 · **Violations:** 0
+**Total matching verses:** 10  
+**OK:** 9 · **Excepted:** 1 · **Violations:** 0
+
+### Documented exceptions (not violations)
+- **Psalms 112:4** — human subject — the righteous man (חַנּוּן וְרַחוּם וְצַדִּיק), not God's Exod-34:6 self-revelation; rendered with plain human-virtue terms, not the divine ทรงพระเมตตา/ทรงพระคุณ form
 
 ## אֶרֶךְ אַפַּיִם (slow to anger)
 **Doc:** `exod_34_attribute_formula_2026-05.md`  
 **Expected Thai contains:** `ทรงกริ้วช้า`  
-**Total matching verses:** 4  
-**OK:** 4 · **Excepted:** 0 · **Violations:** 0
+**Total matching verses:** 11  
+**OK:** 7 · **Excepted:** 4 · **Violations:** 0
+
+### Documented exceptions (not violations)
+- **Proverbs 14:29** — human patience (vs קְצַר־רוּחַ quick-tempered) — not the divine formula; rendered คนที่อดทน
+- **Proverbs 15:18** — human slow-to-anger calming strife — not the divine formula; rendered ผู้ที่โกรธช้า
+- **Proverbs 16:32** — human slow-to-anger > a warrior — not the divine formula; rendered ผู้ที่โกรธช้า
+- **Proverbs 25:15** — human patience persuading a ruler — not the divine formula; rendered ด้วยความอดทน
 
 ## רַב־חֶסֶד (abounding in steadfast love)
 **Doc:** `exod_34_attribute_formula_2026-05.md`  
 **Expected Thai contains:** `ทรงบริบูรณ์ด้วยความรักมั่นคง`  
-**Total matching verses:** 3  
-**OK:** 3 · **Excepted:** 0 · **Violations:** 0
+**Total matching verses:** 6  
+**OK:** 6 · **Excepted:** 0 · **Violations:** 0
 
 ## ἄφεσις ἁμαρτιῶν
 **Doc:** `aphesis_forgiveness_of_sins_2026-04.md`  
@@ -218,8 +227,8 @@
 ## Pharaoh / heart-hardening idiom — חזק/קשה/כבד + לב(ב) → แข็งกระด้าง
 **Doc:** `pharaoh_heart_hardening_2026-05.md`  
 **Expected Thai contains:** `แข็งกระด้าง`  
-**Total matching verses:** 15  
-**OK:** 14 · **Excepted:** 1 · **Violations:** 0
+**Total matching verses:** 17  
+**OK:** 16 · **Excepted:** 1 · **Violations:** 0
 
 ### Documented exceptions (not violations)
 - **1SA 6:6** — auto-audit 2026-05-29: drift pending Ben sign-off (see locked_surface_audit report)
