@@ -1,6 +1,6 @@
 # เพลงซาโลมอน
 
-_Song of Songs — 7 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
+_Song of Songs — 8 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
 
 _This **feedback edition** is the plain Thai translation with a `>` placeholder block under each verse for reviewer comments. **See the instructions immediately below before reading.** For the annotated edition (with contextual summaries), see `output/reader/songofsongs.md`; for the verses-only edition (no comment blocks), see `output/plain/songofsongs.md`._
 
@@ -468,6 +468,66 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 ---
 
+## บทที่ 8
+
+**1** โอ ถ้าเธอเป็นดั่งพี่ชายของฉัน ผู้ดื่มนมจากทรวงอกมารดาของฉัน เมื่อฉันพบเธอข้างนอก ฉันจะจุมพิตเธอได้ และจะไม่มีใครดูแคลนฉันเลย
+
+> ___
+
+**2** ฉันจะนำเธอ จะพาเธอเข้าบ้านมารดาของฉัน ผู้เคยสั่งสอนฉันมา ฉันจะให้เธอดื่มเหล้าองุ่นผสมเครื่องเทศ และน้ำทับทิมของฉัน
+
+> ___
+
+**3** แขนซ้ายของเขาอยู่ใต้ศีรษะของฉัน และแขนขวาของเขาโอบกอดฉันไว้
+
+> ___
+
+**4** โอ บรรดาบุตรสาวแห่งเยรูซาเล็มเอ๋ย ฉันขอให้พวกเธอสาบานว่า จะไม่ปลุกเร้าหรือกระตุ้นความรักให้ตื่น จนกว่าความรักจะพอใจเอง
+
+> ___
+
+**5** นั่นใครกันที่ขึ้นมาจากถิ่นทุรกันดาร พิงกายอยู่กับที่รักของเธอ ใต้ต้นแอปเปิลนั้นฉันปลุกเธอ ที่นั่นมารดาของเธอให้กำเนิดเธอด้วยความเจ็บครรภ์ ที่นั่นผู้คลอดเธอเจ็บครรภ์คลอดเธอ
+
+> ___
+
+**6** ขอตั้งฉันไว้ดั่งตราประทับบนใจของเธอ ดั่งตราประทับบนแขนของเธอ เพราะความรักเข้มแข็งดั่งความตาย ความหวงแหนแข็งกร้าวดั่งแดนคนตาย ประกายของมันคือประกายแห่งไฟ คือเปลวเพลิงแห่งพระยาห์
+
+> ___
+
+**7** น้ำมากหลายไม่อาจดับความรักได้ แม่น้ำทั้งหลายไม่อาจพัดพามันไปได้ แม้ผู้ใดจะยกทรัพย์สมบัติทั้งสิ้นในเรือนของตนแลกกับความรัก เขาผู้นั้นก็จะถูกดูแคลนอย่างยิ่ง
+
+> ___
+
+**8** พวกเรามีน้องสาวเล็กๆ คนหนึ่ง และทรวงอกของน้องยังไม่ขึ้น พวกเราจะทำอย่างไรเพื่อน้องสาวของเรา ในวันที่มีคนมาสู่ขอน้อง
+
+> ___
+
+**9** ถ้าน้องเป็นกำแพง พวกเราจะสร้างป้อมเงินไว้บนนั้น แต่ถ้าน้องเป็นประตู พวกเราจะปิดล้อมน้องด้วยแผ่นไม้สนสีดาร์
+
+> ___
+
+**10** ฉันเป็นกำแพง และทรวงอกของฉันดั่งหอคอย ในสายตาของเขา ฉันจึงเป็นดั่งผู้นำสันติภาพมาให้
+
+> ___
+
+**11** ซาโลมอนทรงมีสวนองุ่นที่บาอัลฮาโมน พระองค์ทรงให้ผู้เฝ้าสวนเช่าสวนนั้น แต่ละคนต้องนำเงินพันเชเขลมาถวายเป็นค่าผลของมัน
+
+> ___
+
+**12** สวนองุ่นของฉัน ซึ่งเป็นของฉันเอง อยู่ตรงหน้าฉัน พันเชเขลนั้นเป็นของพระองค์เถิด ซาโลมอน และสองร้อยเป็นของผู้เฝ้าดูแลผลของมัน
+
+> ___
+
+**13** โอ เธอผู้อาศัยอยู่ในสวนทั้งหลาย เหล่าสหายกำลังเงี่ยฟังเสียงของเธออยู่ ขอให้ฉันได้ยินเสียงนั้นเถิด
+
+> ___
+
+**14** รีบรุดมาเถิด ที่รักของฉัน ขอเป็นดั่งละมั่งหรือกวางหนุ่ม บนภูเขาแห่งเครื่องหอมเถิด
+
+> ___
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -481,4 +541,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/songofsongs_05.json` | `f4bd7e92b6fb12c143c6ff02cbe193e24cb8c941d4fb0d32c8ff0c177312992b` |
 | `output/translations/songofsongs_06.json` | `3aeb76da872e5fea02bc58cb0db99954bde3b8f384ca0d0f78065a3453e31690` |
 | `output/translations/songofsongs_07.json` | `39c14d77d53a07da71bcc82fda15deff2921444520bd2998f435157c90e1df29` |
+| `output/translations/songofsongs_08.json` | `7c611c35488a39f7b46f504126c08ad811752e3fc710ea071b5c4f8011c8ded5` |
 
