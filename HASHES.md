@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-06-04 21:54:06 UTC_
-_Total chapters: 982 · Total verses: 26648_
+_Generated: 2026-06-04 22:09:00 UTC_
+_Total chapters: 983 · Total verses: 26666_
 
 ## How to verify a chapter
 
@@ -494,7 +494,8 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/isaiah_19.json` | 25 | `b20d52e91c89c64de5d5ae8e832f75be69b0c22843320238e8d45fb815422a56` | `29de4d03` |
 | `output/translations/isaiah_20.json` | 6 | `46d6a2be5b7fe027d602a804fd7ecddcfe3c34a6fcc2cd31754e86da581e0a3a` | `5f94ba7e` |
 | `output/translations/isaiah_21.json` | 17 | `97bf4edb42482b6a1f28f783ac1e14a5b25ce36600267fab71191c19dd0311ff` | `e47a273f` |
-| `output/translations/isaiah_22.json` | 25 | `297838407622833ae748c2ed36517fc86a87659f08ea9803529ac98721400703` | `—` |
+| `output/translations/isaiah_22.json` | 25 | `297838407622833ae748c2ed36517fc86a87659f08ea9803529ac98721400703` | `d0820f24` |
+| `output/translations/isaiah_23.json` | 18 | `9e57d6849800e7c7885f3bc13378aaf66fdff0e9435602dc0f41fd174da5a592` | `—` |
 | `output/translations/james_01.json` | 27 | `d493f72c16a0a05776625567731b705eb0fbc3399685fa95d5e45a888ea670c7` | `8e49de67` |
 | `output/translations/james_02.json` | 26 | `24fe583b63efce3b4e5e23ea02ed30abb45155e80d575ddc0c6bddd201b091ef` | `f009760d` |
 | `output/translations/james_03.json` | 18 | `3808eccaa5550cc2fda97cd0dce2538331998823e416bf1c48ab042c3ba969d6` | `11382475` |
