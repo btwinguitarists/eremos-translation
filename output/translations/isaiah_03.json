@@ -1,0 +1,688 @@
+[
+  {
+    "reference": "Isaiah 3:1",
+    "chapter": 3,
+    "verse": 1,
+    "language": "hebrew",
+    "hebrew": "כִּי֩ הִנֵּ֨ה הָאָד֜וֹן יְהוָ֣ה צְבָא֗וֹת מֵסִ֤יר מִירוּשָׁלִַ֙ם֙ וּמִ֣יהוּדָ֔ה מַשְׁעֵ֖ן וּמַשְׁעֵנָ֑ה כֹּ֚ל מִשְׁעַן־לֶ֔חֶם וְכֹ֖ל מִשְׁעַן־מָֽיִם׃",
+    "bsb_english": "For behold, the Lord GOD of Hosts is about to remove from Jerusalem and Judah both supply and support: the whole supply of food and water,",
+    "translation": {
+      "thai": "เพราะดูเถิด องค์เจ้านาย องค์พระผู้เป็นเจ้าจอมโยธา กำลังจะทรงเอาที่ค้ำและที่พิงทุกอย่างไปจากเยรูซาเล็มและยูดาห์ คือที่พึ่งทั้งสิ้นด้านอาหารและที่พึ่งทั้งสิ้นด้านน้ำ",
+      "thai_literal": null,
+      "thai_summary": "พระเจ้าจะทรงถอน ‘ไม้ค้ำ’ ทุกอันที่สังคมพิงอยู่ — เริ่มจากปัจจัยพื้นฐานที่สุด (อาหารกับน้ำ) ไล่ไปจนถึงผู้นำทุกระดับ (ข้อ 2–3) เมืองที่ไล่พระเจ้าออกไปจะได้เห็นว่าอะไรค้ำมันอยู่จริงๆ",
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้า",
+          "rationale": "יהוה → ‘องค์พระผู้เป็นเจ้า’ ตาม divine_names_table_2026-05.md (Layer 1)"
+        },
+        {
+          "hebrew": "הָאָדוֹן יְהוָה צְבָאוֹת",
+          "rendering": "องค์เจ้านาย องค์พระผู้เป็นเจ้าจอมโยธา",
+          "rationale": "Same article-marked title-stack as 1:24 (הָאָדוֹן ha-Adon ‘the Sovereign’ → องค์เจ้านาย per divine_names_table third-person Adon row; distinct from the אֲדֹנָי יְהוִה compound at v. 15 which collapses to องค์พระผู้เป็นเจ้า) — the chapter opens and closes its court-section with contrasting divine-title forms, both preserved."
+        },
+        {
+          "hebrew": "מַשְׁעֵן וּמַשְׁעֵנָה",
+          "rendering": "ที่ค้ำและที่พิง",
+          "rationale": "hapax pair — masculine מַשְׁעֵן + feminine מַשְׁעֵנָה of the same noun (‘support’), a gender-merism meaning ‘every support of every kind’. Thai mirrors with the near-synonym pair ที่ค้ำ/ที่พิง; the wordplay-by-gender is untranslatable and documented here."
+        }
+      ],
+      "notes": "The support-catalogue (vv. 1–3) parodies a state registry: food, water, military, judiciary, religion, magic — Judah's full dependency list, all removable. הִנֵּה → ดูเถิด."
+    }
+  },
+  {
+    "reference": "Isaiah 3:2",
+    "chapter": 3,
+    "verse": 2,
+    "language": "hebrew",
+    "hebrew": "גִּבּ֖וֹר וְאִ֣ישׁ מִלְחָמָ֑ה שׁוֹפֵ֥ט וְנָבִ֖יא וְקֹסֵ֥ם וְזָקֵֽן׃",
+    "bsb_english": "the mighty man and the warrior, the judge and the prophet, the soothsayer and the elder,",
+    "translation": {
+      "thai": "คือวีรบุรุษและนักรบ ผู้พิพากษาและผู้เผยพระวจนะ ผู้ทำการดูดวงและผู้อาวุโส",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "וְקֹסֵם",
+          "rendering": "ผู้ทำการดูดวง",
+          "rationale": "qōsēm → ผู้ทำการดูดวง per the shipped Deut 18:10/14 divination-catalogue lock. The shock is intentional: the diviner appears mid-list between prophet and elder — Isaiah names what Judah actually leans on, licit or not, without pausing to editorialize."
+        }
+      ],
+      "notes": "גִּבּוֹר וְאִישׁ מִלְחָמָה → วีรบุรุษและนักรบ; שׁוֹפֵט → ผู้พิพากษา; נָבִיא → ผู้เผยพระวจนะ; זָקֵן → ผู้อาวุโส (corpus-standard offices)."
+    }
+  },
+  {
+    "reference": "Isaiah 3:3",
+    "chapter": 3,
+    "verse": 3,
+    "language": "hebrew",
+    "hebrew": "שַׂר־חֲמִשִּׁ֖ים וּנְשׂ֣וּא פָנִ֑ים וְיוֹעֵ֛ץ וַחֲכַ֥ם חֲרָשִׁ֖ים וּנְב֥וֹן לָֽחַשׁ׃",
+    "bsb_english": "the commander of fifty and the dignitary, the counselor, the cunning magician, and the clever enchanter.",
+    "translation": {
+      "thai": "นายทหารคุมกองห้าสิบและผู้ทรงเกียรติ ที่ปรึกษา ช่างฝีมือผู้ชำนาญ และผู้เชี่ยวชาญในการร่ายเวทมนตร์",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "שַׂר־חֲמִשִּׁים",
+          "rendering": "นายทหารคุมกองห้าสิบ",
+          "rationale": "Matches shipped 2KI 1:9 (นายทหารคุมกองห้าสิบ) — the army's smallest command unit; even the lowest officer-grade is on the removal list."
+        },
+        {
+          "hebrew": "וַחֲכַם חֲרָשִׁים וּנְבוֹן לָחַשׁ",
+          "rendering": "ช่างฝีมือผู้ชำนาญ และผู้เชี่ยวชาญในการร่ายเวทมนตร์",
+          "rationale": "ḥăkam ḥărāšîm ‘skilled of craftsmen’ (or ‘expert in magic arts’ — the ambiguity is real since ḥrš can be craft or sorcery); nəvôn laḥaš ‘expert in charms/whispered spells’ — לַחַשׁ recurs at v. 20 as the women's amulets (לְחָשִׁים), a deliberate echo documented there. BSB-family rendering followed (artisan + enchanter)."
+        }
+      ],
+      "notes": "נְשׂוּא פָנִים lit. ‘one whose face is lifted’ = dignitary → ผู้ทรงเกียรติ (the נשׂא lifted-up keyword from ch. 2 again — even ‘lifted faces’ get removed)."
+    }
+  },
+  {
+    "reference": "Isaiah 3:4",
+    "chapter": 3,
+    "verse": 4,
+    "language": "hebrew",
+    "hebrew": "וְנָתַתִּ֥י נְעָרִ֖ים שָׂרֵיהֶ֑ם וְתַעֲלוּלִ֖ים יִמְשְׁלוּ־בָֽם׃",
+    "bsb_english": "“I will make mere lads their leaders, and children will rule over them.”",
+    "translation": {
+      "thai": "“เราจะให้เด็กหนุ่มเป็นเจ้านายของพวกเขา และเด็กเหลือขอจะปกครองเหนือพวกเขา”",
+      "thai_literal": null,
+      "thai_summary": "เมื่อพระเจ้าทรงถอนผู้นำที่แท้ออกไป สุญญากาศไม่ได้ว่างเปล่า — มันถูกเติมด้วยการปกครองแบบเด็กๆ คำว่า ‘เด็กเหลือขอ’ (ตะอาลูลิม) หมายถึงความเอาแต่ใจตามอำเภอใจที่ปกครองแทนปัญญา",
+      "key_decisions": [
+        {
+          "hebrew": "וְנָתַתִּי נְעָרִים שָׂרֵיהֶם",
+          "rendering": "เราจะให้เด็กหนุ่มเป็นเจ้านายของพวกเขา",
+          "rationale": "Abrupt switch to divine first person (וְנָתַתִּי ‘I will make’) with no quotative frame — YHWH's own voice breaks into the prophet's catalogue; marked with quotes (so BSB). Divine 1sg → เรา per register convention."
+        },
+        {
+          "hebrew": "וְתַעֲלוּלִים",
+          "rendering": "เด็กเหลือขอ",
+          "rationale": "taʿălûlîm — abstract plural ‘caprices/wantonness’ personified as rulers (BSB ‘children’; alt. ‘capricious ones’). เด็กเหลือขอ carries both the childishness and the willful-misrule sense; the abstract-for-person figure documented."
+        }
+      ],
+      "notes": "The parallel נְעָרִים (boys) / תַּעֲלוּלִים (caprices) escalates: not merely young rulers — misrule itself enthroned."
+    }
+  },
+  {
+    "reference": "Isaiah 3:5",
+    "chapter": 3,
+    "verse": 5,
+    "language": "hebrew",
+    "hebrew": "וְנִגַּ֣שׂ הָעָ֔ם אִ֥ישׁ בְּאִ֖ישׁ וְאִ֣ישׁ בְּרֵעֵ֑הוּ יִרְהֲב֗וּ הַנַּ֙עַר֙ בַּזָּקֵ֔ן וְהַנִּקְלֶ֖ה בַּנִּכְבָּֽד׃",
+    "bsb_english": "The people will oppress one another, man against man, neighbor against neighbor; the young will rise up against the old, and the base against the honorable.",
+    "translation": {
+      "thai": "ประชาชนจะข่มเหงกันเอง คนต่อคน เพื่อนบ้านต่อเพื่อนบ้าน เด็กจะอวดดีใส่ผู้ใหญ่ และคนถ่อยจะอวดดีใส่ผู้มีเกียรติ",
+      "thai_literal": null,
+      "thai_summary": "สังคมที่ไร้ผู้นำที่ชอบธรรมไม่ได้หยุดนิ่ง แต่กลับกินกันเอง — ลำดับการให้เกียรติทุกชั้น (เด็ก-ผู้ใหญ่ ต่ำ-สูง) พังลงพร้อมกัน",
+      "key_decisions": [
+        {
+          "hebrew": "וְנִגַּשׂ הָעָם אִישׁ בְּאִישׁ",
+          "rendering": "ประชาชนจะข่มเหงกันเอง คนต่อคน",
+          "rationale": "nāgaś — the taskmaster-oppression verb (Exodus's slave-drivers נֹגְשִׂים, shipped ผู้คุมงาน/กดขี่ family): the people become each other's taskmasters. ข่มเหง with the reciprocal กันเอง."
+        },
+        {
+          "hebrew": "יִרְהֲבוּ הַנַּעַר בַּזָּקֵן",
+          "rendering": "เด็กจะอวดดีใส่ผู้ใหญ่",
+          "rationale": "rāhav ‘act stormily/insolently against’ → อวดดีใส่ — the insolence verb repeated for both pairs (youth/elder, base/honorable), kept as one Thai verb to mirror the anaphora."
+        }
+      ],
+      "notes": "וְהַנִּקְלֶה בַּנִּכְבָּד ‘the dishonored against the honored’ → คนถ่อย/ผู้มีเกียรติ — the קלה/כבד (light/heavy) antithesis is Hebrew's core honor-scale."
+    }
+  },
+  {
+    "reference": "Isaiah 3:6",
+    "chapter": 3,
+    "verse": 6,
+    "language": "hebrew",
+    "hebrew": "כִּֽי־יִתְפֹּ֨שׂ אִ֤ישׁ בְּאָחִיו֙ בֵּ֣ית אָבִ֔יו שִׂמְלָ֣ה לְכָ֔ה קָצִ֖ין תִּֽהְיֶה־לָּ֑נוּ וְהַמַּכְשֵׁלָ֥ה הַזֹּ֖את תַּ֥חַת יָדֶֽךָ׃",
+    "bsb_english": "A man will seize his brother within his father’s house: “You have a cloak—you be our leader! Take charge of this heap of rubble.”",
+    "translation": {
+      "thai": "ชายคนหนึ่งจะคว้าตัวพี่น้องของตนในบ้านบิดาของเขาว่า “เจ้ายังมีเสื้อคลุมอยู่ จงมาเป็นผู้นำของเราเถิด กองปรักหักพังนี้จะอยู่ใต้มือของเจ้า”",
+      "thai_literal": null,
+      "thai_summary": "วิกฤตผู้นำถึงขั้นที่คุณสมบัติเดียวที่เหลือคือ ‘ยังมีเสื้อคลุมดีๆ สักตัว’ — ใครดูพอมีฐานะหน่อยก็ถูกลากมาให้ปกครองซากเมือง",
+      "key_decisions": [
+        {
+          "hebrew": "שִׂמְלָה לְכָה קָצִין תִּהְיֶה־לָּנוּ",
+          "rendering": "เจ้ายังมีเสื้อคลุมอยู่ จงมาเป็นผู้นำของเราเถิด",
+          "rationale": "Elliptical Hebrew (‘A cloak to you — be ruler for us!’): owning one decent garment is the last surviving qualification for office. קָצִין → ผู้นำ matching 1:10 (same word — the ‘rulers of Sodom’ become ‘anyone with a cloak’)."
+        },
+        {
+          "hebrew": "וְהַמַּכְשֵׁלָה הַזֹּאת",
+          "rendering": "กองปรักหักพังนี้",
+          "rationale": "makšēlâ ‘stumbling-heap/ruin’ (cf. the כשל stumble-root of v. 8 ‘Jerusalem has stumbled’) — the city is already named as rubble in its citizens' own mouths; the root-link to v. 8 documented."
+        }
+      ],
+      "notes": "תַּחַת יָדֶךָ ‘under your hand’ → อยู่ใต้มือของเจ้า (idiom kept — authority as handhold over wreckage)."
+    }
+  },
+  {
+    "reference": "Isaiah 3:7",
+    "chapter": 3,
+    "verse": 7,
+    "language": "hebrew",
+    "hebrew": "יִשָּׂא֩ בַיּ֨וֹם הַה֤וּא ׀ לֵאמֹר֙ לֹא־אֶהְיֶ֣ה חֹבֵ֔שׁ וּבְבֵיתִ֕י אֵ֥ין לֶ֖חֶם וְאֵ֣ין שִׂמְלָ֑ה לֹ֥א תְשִׂימֻ֖נִי קְצִ֥ין עָֽם׃",
+    "bsb_english": "On that day he will cry aloud: “I am not a healer. I have no food or clothing in my house. Do not make me leader of the people!”",
+    "translation": {
+      "thai": "ในวันนั้นเขาจะร้องตอบว่า “ข้าไม่ขอเป็นหมอรักษาแผล ในบ้านของข้าไม่มีทั้งอาหารและเสื้อผ้า อย่าตั้งข้าให้เป็นผู้นำของประชาชนเลย”",
+      "thai_literal": null,
+      "thai_summary": "แม้แต่คนถูกเลือกยังสาบานปฏิเสธ — ‘หมอรักษาแผล’ (โฮเบช ผู้พันแผล) คือภาพผู้นำที่แท้: คนที่ต้องพันบาดแผลของชาติ (เทียบ 1:6 ที่บอกว่าแผลของชาตินี้ ‘ไม่ได้พันผ้า’) และไม่มีใครอยากรับงานนั้น",
+      "key_decisions": [
+        {
+          "hebrew": "לֹא־אֶהְיֶה חֹבֵשׁ",
+          "rendering": "ข้าไม่ขอเป็นหมอรักษาแผล",
+          "rationale": "ḥōvēš ‘binder-up [of wounds]’ — the healer-as-leader metaphor links straight back to 1:6's חֻבָּשׁוּ (the nation's unbound wounds): to rule this city is to bandage it, and the candidate refuses. หมอรักษาแผล keeps the wound-binding concreteness."
+        },
+        {
+          "hebrew": "יִשָּׂא בַיּוֹם הַהוּא",
+          "rendering": "ในวันนั้นเขาจะร้องตอบ",
+          "rationale": "yiśśāʾ ‘he will lift up [his voice]’ — the נשׂא keyword again (cf. 2:12–14; 3:3): here merely lifting a voice in refusal. ในวันนั้น = the locked ‘in that day’ marker, here in its grim civic sense."
+        }
+      ],
+      "notes": "Direct speech register: desperate commoner → ข้า (low self-reference) rather than ข้าพเจ้า — the panic register of refusal."
+    }
+  },
+  {
+    "reference": "Isaiah 3:8",
+    "chapter": 3,
+    "verse": 8,
+    "language": "hebrew",
+    "hebrew": "כִּ֤י כָשְׁלָה֙ יְר֣וּשָׁלִַ֔ם וִיהוּדָ֖ה נָפָ֑ל כִּֽי־לְשׁוֹנָ֤ם וּמַֽעַלְלֵיהֶם֙ אֶל־יְהוָ֔ה לַמְר֖וֹת עֵנֵ֥י כְבוֹדֽוֹ׃",
+    "bsb_english": "For Jerusalem has stumbled and Judah has fallen because they spoke and acted against the LORD, defying His glorious presence.",
+    "translation": {
+      "thai": "เพราะเยรูซาเล็มสะดุดล้ม และยูดาห์ก็ล้มลงแล้ว เพราะวาจาและการกระทำของพวกเขาต่อต้านองค์พระผู้เป็นเจ้า เป็นการลบหลู่พระเนตรอันรุ่งโรจน์แห่งพระสิริของพระองค์",
+      "thai_literal": null,
+      "thai_summary": "คำกริยาอยู่ในรูปสำเร็จแล้ว — ‘สะดุดล้มแล้ว ล้มลงแล้ว’ — ผู้เผยพระวจนะมองเห็นการพังของเมืองที่ยังตั้งอยู่ตรงหน้าเป็นเรื่องที่เสร็จสิ้นไปแล้วในสายพระเนตรพระเจ้า",
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้า",
+          "rationale": "יהוה → ‘องค์พระผู้เป็นเจ้า’ ตาม divine_names_table_2026-05.md (Layer 1)"
+        },
+        {
+          "hebrew": "לַמְרוֹת עֵנֵי כְבוֹדוֹ",
+          "rendering": "เป็นการลบหลู่พระเนตรอันรุ่งโรจน์แห่งพระสิริของพระองค์",
+          "rationale": "‘To defy the eyes of His glory’ — bold anthropomorphism preserved per hebrew_idioms_and_metaphor policy: their words/deeds are committed in front of the watching divine eyes. Narrator voice → พระเนตร (rachasap body-part; contrast plain ตา in divine first-person speech, 1:15)."
+        },
+        {
+          "hebrew": "כָשְׁלָה יְרוּשָׁלִַם",
+          "rendering": "เยรูซาเล็มสะดุดล้ม",
+          "rationale": "kāšal — the stumble-root just used of the city as מַכְשֵׁלָה ‘stumbling-heap’ (v. 6); prophetic perfect rendered as completed action (สะดุดล้ม…ล้มลงแล้ว)."
+        }
+      ],
+      "notes": "Prophetic perfects: the fall is future but grammatically finished. לשונם וּמַעַלְלֵיהֶם ‘their tongue and their deeds’ → วาจาและการกระทำ (the מַעֲלָלִים deeds-word from 1:16)."
+    }
+  },
+  {
+    "reference": "Isaiah 3:9",
+    "chapter": 3,
+    "verse": 9,
+    "language": "hebrew",
+    "hebrew": "הַכָּרַ֤ת פְּנֵיהֶם֙ עָ֣נְתָה בָּ֔ם וְחַטָּאתָ֛ם כִּסְדֹ֥ם הִגִּ֖ידוּ לֹ֣א כִחֵ֑דוּ א֣וֹי לְנַפְשָׁ֔ם כִּֽי־גָמְל֥וּ לָהֶ֖ם רָעָֽה׃",
+    "bsb_english": "The expression on their faces testifies against them, and like Sodom they flaunt their sin; they do not conceal it. Woe to them, for they have brought disaster upon themselves.",
+    "translation": {
+      "thai": "สีหน้าของพวกเขาเป็นพยานปรักปรำพวกเขาเอง พวกเขาแสดงบาปของตนอย่างเปิดเผยเหมือนเมืองโสโดม ไม่ปิดบังเลย วิบัติแก่จิตวิญญาณของพวกเขา เพราะพวกเขานำความหายนะมาสู่ตนเอง",
+      "thai_literal": null,
+      "thai_summary": "ที่โสโดมโผล่มาอีกครั้ง (ครั้งที่สามในสามบท) ความบาปของเยรูซาเล็มไม่ใช่ความลับที่ซ่อนอยู่ แต่เป็นสิ่งที่อวดกันโจ่งแจ้ง — และคำว่า ‘วิบัติ’ ที่นี่เป็นครั้งแรกของหนังสือในรูปประโยคพิพากษาเต็ม",
+      "key_decisions": [
+        {
+          "hebrew": "הַכָּרַת פְּנֵיהֶם עָנְתָה בָּם",
+          "rendering": "สีหน้าของพวกเขาเป็นพยานปรักปรำพวกเขาเอง",
+          "rationale": "hapax — hakkārâ ‘expression/look’ (root נכר recognize): the face itself takes the witness-stand (ʿānâ b- = testify against, the legal idiom). The courtroom frame of the chapter (vv. 13–14) is already loaded here."
+        },
+        {
+          "hebrew": "אוֹי לְנַפְשָׁם",
+          "rendering": "วิบัติแก่จิตวิญญาณของพวกเขา",
+          "rationale": "ʾôy + dative — the woe-judgment form (distinct from הוֹי vocative-grief, 1:4 — see the two-form hoy policy): วิบัติแก่ per the locked NT οὐαί pattern. First full woe-formula in Isaiah; the hôy-series of ch. 5 will follow this surface."
+        }
+      ],
+      "notes": "וְחַטָּאתָם כִּסְדֹם הִגִּידוּ ‘they declare their sin like Sodom’ — Sodom's third appearance (1:9, 10; 3:9): from near-fate, to nickname, to behavioral twin. גָמְלוּ לָהֶם רָעָה ‘they have dealt out evil to themselves’ → นำความหายนะมาสู่ตนเอง."
+    }
+  },
+  {
+    "reference": "Isaiah 3:10",
+    "chapter": 3,
+    "verse": 10,
+    "language": "hebrew",
+    "hebrew": "אִמְר֥וּ צַדִּ֖יק כִּי־ט֑וֹב כִּֽי־פְרִ֥י מַעַלְלֵיהֶ֖ם יֹאכֵֽלוּ׃",
+    "bsb_english": "Tell the righteous it will be well with them, for they will enjoy the fruit of their labor.",
+    "translation": {
+      "thai": "จงบอกคนชอบธรรมว่าเขาจะอยู่เย็นเป็นสุข เพราะพวกเขาจะได้กินผลแห่งการกระทำของตน",
+      "thai_literal": null,
+      "thai_summary": "กลางคำพิพากษามีประโยคหลักประกันสั้นๆ สองข้อ (10–11): กรรมดีและกรรมชั่วจะถึงเจ้าของอย่างแน่นอน — การพิพากษาของพระเจ้าไม่ใช่พายุที่กวาดทุกคนแบบไม่เลือกหน้า",
+      "key_decisions": [
+        {
+          "hebrew": "אִמְרוּ צַדִּיק כִּי־טוֹב",
+          "rendering": "จงบอกคนชอบธรรมว่าเขาจะอยู่เย็นเป็นสุข",
+          "rationale": "MT ‘Say [of/to] the righteous that [it shall be] well’ — slightly elliptical; BSB-family reading followed. LXX reads differently (δήσωμεν τὸν δίκαιον ‘let us bind the righteous’ — a wholly different text); MT followed per ot_canon, LXX variant documented. צַדִּיק → คนชอบธรรม."
+        },
+        {
+          "hebrew": "כִּי־פְרִי מַעַלְלֵיהֶם יֹאכֵלוּ",
+          "rendering": "จะได้กินผลแห่งการกระทำของตน",
+          "rationale": "The eat-your-deeds figure — מַעֲלָלִים (deeds) is the chapter-chain word (1:16; 3:8; 3:10): the same deeds removed from God's sight (1:16) are here eaten as fruit. กิน continues the chapter-1 eat-theme (1:19–20)."
+        }
+      ],
+      "notes": "Verses 10–11 are a matched verdict-pair (righteous/wicked) — Thai keeps them structurally parallel (จงบอก… / วิบัติแก่…)."
+    }
+  },
+  {
+    "reference": "Isaiah 3:11",
+    "chapter": 3,
+    "verse": 11,
+    "language": "hebrew",
+    "hebrew": "א֖וֹי לְרָשָׁ֣ע רָ֑ע כִּֽי־גְמ֥וּל יָדָ֖יו יֵעָ֥שֶׂה לּֽוֹ׃",
+    "bsb_english": "Woe to the wicked; disaster is upon them! For they will be repaid with what their hands have done.",
+    "translation": {
+      "thai": "วิบัติแก่คนอธรรม ความหายนะจะตกแก่เขา เพราะสิ่งที่มือของเขาได้ทำจะถูกตอบแทนแก่เขาเอง",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "אוֹי לְרָשָׁע רָע",
+          "rendering": "วิบัติแก่คนอธรรม ความหายนะจะตกแก่เขา",
+          "rationale": "ʾôy again (see v. 9) — the woe-judgment surface วิบัติแก่; the terse רָע (‘evil [shall befall him]’) unfolded as ความหายนะจะตกแก่เขา. רָשָׁע → คนอธรรม per corpus (Psalms/Job antithesis-pair with צַדִּיק)."
+        },
+        {
+          "hebrew": "כִּי־גְמוּל יָדָיו יֵעָשֶׂה לּוֹ",
+          "rendering": "สิ่งที่มือของเขาได้ทำจะถูกตอบแทนแก่เขาเอง",
+          "rationale": "gəmûl ‘dealing/recompense’ — the hands that ground the poor (v. 15 ahead) receive their own work back; passive יֵעָשֶׂה kept passive (ถูกตอบแทน) — God unnamed, the deed itself returning."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Isaiah 3:12",
+    "chapter": 3,
+    "verse": 12,
+    "language": "hebrew",
+    "hebrew": "עַמִּי֙ נֹגְשָׂ֣יו מְעוֹלֵ֔ל וְנָשִׁ֖ים מָ֣שְׁלוּ ב֑וֹ עַמִּי֙ מְאַשְּׁרֶ֣יךָ מַתְעִ֔ים וְדֶ֥רֶךְ אֹֽרְחֹתֶ֖יךָ בִּלֵּֽעוּ׃",
+    "bsb_english": "Youths oppress My people, and women rule over them. O My people, your guides mislead you; they turn you from your paths.",
+    "translation": {
+      "thai": "ส่วนประชากรของเรา — เด็กกดขี่พวกเขา และพวกผู้หญิงปกครองเหนือพวกเขา ประชากรของเราเอ๋ย ผู้นำทางของเจ้าพาเจ้าหลงทาง และทำให้เส้นทางที่เจ้าควรเดินสับสนไป",
+      "thai_literal": null,
+      "thai_summary": "เสียงพระเจ้าแทรกเข้ามาด้วยความเจ็บปวด — ‘ประชากรของเรา’ ซ้ำสองครั้ง — ผู้ที่ควรนำทางกลับ ‘กลืนทาง’ เสียเอง (คำฮีบรูเล่นเสียงกัน) จนประชาชนไม่รู้ว่าทางไหนคือทางจริง",
+      "key_decisions": [
+        {
+          "hebrew": "נֹגְשָׂיו מְעוֹלֵל וְנָשִׁים מָשְׁלוּ בוֹ",
+          "rendering": "เด็กกดขี่พวกเขา และพวกผู้หญิงปกครองเหนือพวกเขา",
+          "rationale": "MT as pointed: ‘children are his oppressors and women rule over him’ (continuing v. 4's boy-rulers theme — a dishonor-statement about Judah's actual misrule, not a statement about women as such). LXX revocalizes: πράκτορες ‘exactors/creditors’ (נֹשִׁים) — variant documented; MT followed with BSB. נֹגֵשׂ again = the taskmaster verb (v. 5)."
+        },
+        {
+          "hebrew": "מְאַשְּׁרֶיךָ מַתְעִים",
+          "rendering": "ผู้นำทางของเจ้าพาเจ้าหลงทาง",
+          "rationale": "məʾaššərêkā ‘those who set you straight/lead you’ — the same Piel אשר as 1:17's אַשְּׁרוּ (จงปราม/set right): the official straighteners now mislead (תעה). The bitter echo of 1:17 documented; ‘way-swallowing’ (דֶּרֶךְ…בִּלֵּעוּ) rendered ทำให้เส้นทาง…สับสนไป."
+        }
+      ],
+      "notes": "עַמִּי ×2 (‘My people’) — divine voice without quotative frame; rendered with the possessive ประชากรของเรา + vocative ประชากรของเราเอ๋ย, no quote marks (the lament bleeds through the prophet's line — so BSB)."
+    }
+  },
+  {
+    "reference": "Isaiah 3:13",
+    "chapter": 3,
+    "verse": 13,
+    "language": "hebrew",
+    "hebrew": "נִצָּ֥ב לָרִ֖יב יְהוָ֑ה וְעֹמֵ֖ד לָדִ֥ין עַמִּֽים׃",
+    "bsb_english": "The LORD arises to contend; He stands to judge the people.",
+    "translation": {
+      "thai": "องค์พระผู้เป็นเจ้าทรงลุกขึ้นเพื่อสู้ความ ทรงยืนขึ้นเพื่อพิพากษาชนชาติทั้งหลาย",
+      "thai_literal": null,
+      "thai_summary": "ภาพห้องพิพากษาที่กลับด้าน: ผู้พิพากษาไม่ประทับนั่ง แต่ทรง ‘ลุกขึ้นยืน’ — ท่าของโจทก์ผู้ฟ้องร้องเอง พระเจ้าทรงเป็นทั้งผู้เสียหาย อัยการ และตุลาการในคดีเดียว",
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้า",
+          "rationale": "יהוה → ‘องค์พระผู้เป็นเจ้า’ ตาม divine_names_table_2026-05.md (Layer 1)"
+        },
+        {
+          "hebrew": "נִצָּב לָרִיב יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้าทรงลุกขึ้นเพื่อสู้ความ",
+          "rationale": "rîv — the covenant-lawsuit term threading the book (1:17 รีบ; 1:18 พิจารณาความ; 2:4 ตัดสินความ): here YHWH stands to litigate. สู้ความ keeps the courtroom register; the standing posture (judge-as-plaintiff) documented."
+        },
+        {
+          "hebrew": "לָדִין עַמִּים",
+          "rendering": "พิพากษาชนชาติทั้งหลาย",
+          "rationale": "MT plural עַמִּים ‘peoples’ (so rendered); LXX/Syriac read singular ‘his people’ (τὸν λαὸν αὐτοῦ) — variant documented. The universal bench of 2:4 convenes here against Judah first."
+        }
+      ],
+      "notes": "The court scene (vv. 13–15) resumes ch. 1's rîv frame — but now past the settlement-offer (1:18) into prosecution."
+    }
+  },
+  {
+    "reference": "Isaiah 3:14",
+    "chapter": 3,
+    "verse": 14,
+    "language": "hebrew",
+    "hebrew": "יְהוָה֙ בְּמִשְׁפָּ֣ט יָב֔וֹא עִם־זִקְנֵ֥י עַמּ֖וֹ וְשָׂרָ֑יו וְאַתֶּם֙ בִּֽעַרְתֶּ֣ם הַכֶּ֔רֶם גְּזֵלַ֥ת הֶֽעָנִ֖י בְּבָתֵּיכֶֽם׃",
+    "bsb_english": "The LORD brings this charge against the elders and leaders of His people: “You have devoured the vineyard; the plunder of the poor is in your houses.",
+    "translation": {
+      "thai": "องค์พระผู้เป็นเจ้าทรงเข้าสู่การพิพากษากับบรรดาผู้อาวุโสและบรรดาเจ้านายแห่งประชากรของพระองค์ว่า “พวกเจ้านั่นแหละคือผู้ที่กลืนกินสวนองุ่นจนหมด ของที่ปล้นมาจากคนยากจนก็อยู่ในบ้านของพวกเจ้า",
+      "thai_literal": null,
+      "thai_summary": "ผู้ถูกฟ้องไม่ใช่อาชญากรริมถนน แต่คือผู้อาวุโสและเจ้านาย — ชนชั้นที่ระบบยุติธรรมอยู่ในมือ ‘สวนองุ่น’ ที่ถูกกลืนคือชาติของพระเจ้าเอง (ภาพที่จะบานเป็นเพลงสวนองุ่นในบทที่ 5)",
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้า",
+          "rationale": "יהוה → ‘องค์พระผู้เป็นเจ้า’ ตาม divine_names_table_2026-05.md (Layer 1)"
+        },
+        {
+          "hebrew": "וְאַתֶּם בִּעַרְתֶּם הַכֶּרֶם",
+          "rendering": "พวกเจ้านั่นแหละคือผู้ที่กลืนกินสวนองุ่นจนหมด",
+          "rationale": "biʿēr ‘graze bare/consume’ — the vineyard (כֶּרֶם → สวนองุ่น, 1:8) is Israel itself; the leaders are the devouring cattle. Emphatic וְאַתֶּם → พวกเจ้านั่นแหละ. The image seeds the Song of the Vineyard (5:1–7) — forward link documented."
+        },
+        {
+          "hebrew": "גְּזֵלַת הֶעָנִי",
+          "rendering": "ของที่ปล้นมาจากคนยากจน",
+          "rationale": "gəzēlâ ‘plunder’ — stolen goods as furniture: the evidence sits in the defendants' living rooms. עָנִי → คนยากจน (corpus-standard poor-vocabulary)."
+        }
+      ],
+      "notes": "בְּמִשְׁפָּט יָבוֹא ‘enters into judgment’ → ทรงเข้าสู่การพิพากษา. YHWH's charge opens here (quote runs through v. 15a)."
+    }
+  },
+  {
+    "reference": "Isaiah 3:15",
+    "chapter": 3,
+    "verse": 15,
+    "language": "hebrew",
+    "hebrew": "מַה־לָּכֶם֙ תְּדַכְּא֣וּ עַמִּ֔י וּפְנֵ֥י עֲנִיִּ֖ים תִּטְחָ֑נוּ נְאֻם־אֲדֹנָ֥י יְהוִ֖ה צְבָאֽוֹת׃",
+    "bsb_english": "Why do you crush My people and grind the faces of the poor?” declares the Lord GOD of Hosts.",
+    "translation": {
+      "thai": "มีสิทธิ์อะไรพวกเจ้าจึงบดขยี้ประชากรของเรา และบดโม่ใบหน้าของคนยากจน?” องค์พระผู้เป็นเจ้าจอมโยธาตรัสไว้ดังนี้",
+      "thai_literal": "อะไรของพวกเจ้า [ที่] พวกเจ้าบดขยี้ประชากรของเรา และโม่หน้าของคนยากจน? — คำประกาศขององค์เจ้านาย พระยาห์เวห์จอมโยธา",
+      "thai_summary": "‘บดโม่ใบหน้า’ — โม่หินบดแป้งถูกยกมาใช้กับใบหน้ามนุษย์ ภาพการขูดรีดที่รุนแรงที่สุดในบทนี้ และพระนามผู้ตรัสปิดท้ายเต็มยศ: คดีนี้โจทก์คือจอมทัพแห่งสวรรค์",
+      "key_decisions": [
+        {
+          "hebrew": "מַה־לָּכֶם תְּדַכְּאוּ עַמִּי",
+          "rendering": "มีสิทธิ์อะไรพวกเจ้าจึงบดขยี้ประชากรของเรา",
+          "rationale": "mah-lākem — confrontational idiom (‘what right have you?!’); dākāʾ ‘crush’ → บดขยี้. The question expects no answer — prosecution, not inquiry."
+        },
+        {
+          "hebrew": "וּפְנֵי עֲנִיִּים תִּטְחָנוּ",
+          "rendering": "บดโม่ใบหน้าของคนยากจน",
+          "rationale": "ṭāḥan = mill-grind (the קֶמַח flour-verb, cf. shipped Exod 11:5 เครื่องโม่ context) applied to faces — the metaphor's violence kept literal (บดโม่ใบหน้า), not softened to ‘oppress’."
+        },
+        {
+          "hebrew": "נְאֻם־אֲדֹנָי יְהוִה צְבָאוֹת",
+          "rendering": "องค์พระผู้เป็นเจ้าจอมโยธาตรัสไว้ดังนี้",
+          "rationale": "Parenthetical nəʾum-seal → ตรัสไว้ดังนี้ per the locked two-form ne'um policy (1:24 kd). Here the compound אֲדֹנָי יְהוִה (Adonai-YHWH, ‘Lord GOD’) collapses to องค์พระผู้เป็นเจ้า per divine_names_table (contrast v. 1's article-form הָאָדוֹן which keeps องค์เจ้านาย separate) + צְבָאוֹת → จอมโยธา. The underlying compound recorded here (Layer 1)."
+        }
+      ],
+      "notes": "The charge ends on the mill-image; the ne'um-seal carries the full stacked title — the longest divine-name form in the chapter at the verdict's hinge."
+    }
+  },
+  {
+    "reference": "Isaiah 3:16",
+    "chapter": 3,
+    "verse": 16,
+    "language": "hebrew",
+    "hebrew": "וַיֹּ֣אמֶר יְהוָ֗ה יַ֚עַן כִּ֤י גָֽבְהוּ֙ בְּנ֣וֹת צִיּ֔וֹן וַתֵּלַ֙כְנָה֙ נְטוּי֣וֹת גָּר֔וֹן וּֽמְשַׂקְּר֖וֹת עֵינָ֑יִם הָל֤וֹךְ וְטָפֹף֙ תֵּלַ֔כְנָה וּבְרַגְלֵיהֶ֖ם תְּעַכַּֽסְנָה׃",
+    "bsb_english": "The LORD also says: “Because the daughters of Zion are haughty—walking with heads held high and wanton eyes, prancing and skipping as they go, jingling the bracelets on their ankles—",
+    "translation": {
+      "thai": "องค์พระผู้เป็นเจ้าตรัสว่า “เพราะบรรดาธิดาแห่งศิโยนเย่อหยิ่ง เดินคอตั้ง ปรายตาล้อเลียน ก้าวเดินกรีดกราย และมีกำไลข้อเท้ากรุ๋งกริ๋งไปทุกย่างก้าว",
+      "thai_literal": null,
+      "thai_summary": "จากเจ้านายผู้บดขยี้ (ข้อ 14–15) มาถึงสตรีชั้นสูงผู้เดินกรีดกรายบนผลของการขูดรีดนั้น — เครื่องประดับที่กรุ๋งกริ๋งทุกก้าวคือเสียงของเงินที่ปล้นมาจากคนยากจน",
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้า",
+          "rationale": "יהוה → ‘องค์พระผู้เป็นเจ้า’ ตาม divine_names_table_2026-05.md (Layer 1)"
+        },
+        {
+          "hebrew": "בְּנוֹת צִיּוֹן",
+          "rendering": "บรรดาธิดาแห่งศิโยน",
+          "rationale": "PLURAL bənôt ṣiyyôn = the actual women of Jerusalem's elite — distinct from the singular personification בַּת־צִיּוֹן (ธิดาแห่งศิโยน = the city, 1:8). Thai marks the difference with บรรดา (the plural-collective); the two referents must not be confused across the book."
+        },
+        {
+          "hebrew": "וּמְשַׂקְּרוֹת עֵינַיִם",
+          "rendering": "ปรายตาล้อเลียน",
+          "rationale": "hapax — məśaqqərôt ‘ogling/flirting with the eyes’ (śāqar only here): seductive-mocking glances. ปรายตา is the precise Thai gesture-verb."
+        },
+        {
+          "hebrew": "הָלוֹךְ וְטָפֹף תֵּלַכְנָה וּבְרַגְלֵיהֶם תְּעַכַּסְנָה",
+          "rendering": "ก้าวเดินกรีดกราย และมีกำไลข้อเท้ากรุ๋งกริ๋งไปทุกย่างก้าว",
+          "rationale": "Double hapax — ṭāpap ‘mince/take tripping steps’ → กรีดกราย; ʿākas ‘jingle the anklets’ (denominative from עֶכֶס anklet, v. 18) → กรุ๋งกริ๋ง onomatopoeia. The verse's sound-portrait (clinking, mincing) carried into Thai sound-words."
+        }
+      ],
+      "notes": "Quote opens (runs through v. 17): YHWH names the cause (יַעַן כִּי ‘because’), then v. 17 the sentence. The luxury-on-extortion link to vv. 14–15 is the prophetic point — not a generic critique of adornment."
+    }
+  },
+  {
+    "reference": "Isaiah 3:17",
+    "chapter": 3,
+    "verse": 17,
+    "language": "hebrew",
+    "hebrew": "וְשִׂפַּ֣ח אֲדֹנָ֔י קָדְקֹ֖ד בְּנ֣וֹת צִיּ֑וֹן וַיהוָ֖ה פָּתְהֵ֥ן יְעָרֶֽה׃",
+    "bsb_english": "the Lord will bring sores on the heads of the daughters of Zion, and the LORD will make their foreheads bare.”",
+    "translation": {
+      "thai": "องค์เจ้านายจะทรงให้กลากเกลื้อนขึ้นบนศีรษะของบรรดาธิดาแห่งศิโยน และองค์พระผู้เป็นเจ้าจะทรงให้หน้าผากของพวกนางโล้นเลี่ยน”",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "וְשִׂפַּח אֲדֹנָי קָדְקֹד בְּנוֹת צִיּוֹן",
+          "rendering": "องค์เจ้านายจะทรงให้กลากเกลื้อนขึ้นบนศีรษะ",
+          "rationale": "hapax — śippaḥ ‘smite with scabs’ (cognate of מִסְפַּחַת the Leviticus skin-disease vocabulary): the perfumed head receives the unclean scalp-disease. אֲדֹנָי standalone third-person → องค์เจ้านาย per divine_names 4-way table; the verse pairs Adonai ∥ YHWH in parallel cola — both surfaces kept distinct (Layer-1 transparency)."
+        },
+        {
+          "hebrew": "פָּתְהֵן יְעָרֶה",
+          "rendering": "ให้หน้าผากของพวกนางโล้นเลี่ยน",
+          "rationale": "pōt — disputed: ‘forehead/scalp’ (so BSB ‘foreheads bare’, followed) or euphemistically ‘secret parts’ (Talmudic reading; the verb עָרָה ‘lay bare’ is the הֶעֱרָה exposure-verb of the uncover_nakedness euphemism family — see uncover_nakedness_euphemism_2026-05.md). BSB-family scalp-reading in main text; the harsher euphemistic alternative documented, fitting the captives-shorn humiliation context."
+        }
+      ],
+      "notes": "Hair was the crown of female honor; scab + bared scalp = the war-captive's degradation (cf. v. 24's baldness). YHWH speech closes here."
+    }
+  },
+  {
+    "reference": "Isaiah 3:18",
+    "chapter": 3,
+    "verse": 18,
+    "language": "hebrew",
+    "hebrew": "בַּיּ֨וֹם הַה֜וּא יָסִ֣יר אֲדֹנָ֗י אֵ֣ת תִּפְאֶ֧רֶת הָעֲכָסִ֛ים וְהַשְּׁבִיסִ֖ים וְהַשַּׂהֲרֹנִֽים׃",
+    "bsb_english": "In that day the Lord will take away their finery: their anklets and headbands and crescents;",
+    "translation": {
+      "thai": "ในวันนั้น องค์เจ้านายจะทรงเอาเครื่องงามทั้งหลายของพวกนางไป ทั้งกำไลข้อเท้า ผ้าคาดศีรษะ และเครื่องประดับรูปจันทร์เสี้ยว",
+      "thai_literal": null,
+      "thai_summary": "รายการเครื่องประดับ 21 รายการ (ข้อ 18–23) อ่านเหมือนบัญชีทรัพย์สินที่ถูกอายัด — ผู้เผยพระวจนะรู้จักตู้เสื้อผ้าของสตรีชั้นสูงดีพอจะไล่ของทีละชิ้น และพระเจ้าจะทรง ‘เอาไป’ ทุกชิ้น",
+      "key_decisions": [
+        {
+          "hebrew": "יָסִיר אֲדֹנָי אֵת תִּפְאֶרֶת",
+          "rendering": "องค์เจ้านายจะทรงเอาเครื่องงามทั้งหลาย…ไป",
+          "rationale": "The removal-verb סור Hiphil echoes 1:16 (הָסִירוּ ‘remove your evil deeds’) and 1:25 (אָסִירָה ‘I will remove your dross’): what they would not remove, He removes. אֲדֹנָי → องค์เจ้านาย (third-person title row). תִּפְאֶרֶת ‘beauty/finery’ → เครื่องงาม."
+        },
+        {
+          "hebrew": "וְהַשְּׁבִיסִים",
+          "rendering": "ผ้าคาดศีรษะ",
+          "rationale": "hapax — šāvîs: woven head-band (etymology uncertain; LXX ἐμπλόκια ‘braided ornaments’). Catalogue items vv. 18–23 are rendered with best-supported glosses; each uncertain item carries its class in these kds rather than false precision in the text."
+        }
+      ],
+      "notes": "עֲכָסִים anklets → กำไลข้อเท้า (the noun behind v. 16's jingling-verb); שַׂהֲרֹנִים crescent-pendants → เครื่องประดับรูปจันทร์เสี้ยว matching shipped Jdg 8:26 (the Midianite camel-crescents — same lexeme, same Thai)."
+    }
+  },
+  {
+    "reference": "Isaiah 3:19",
+    "chapter": 3,
+    "verse": 19,
+    "language": "hebrew",
+    "hebrew": "הַנְּטִיפ֥וֹת וְהַשֵּׁיר֖וֹת וְהָֽרְעָלֽוֹת׃",
+    "bsb_english": "their pendants, bracelets, and veils;",
+    "translation": {
+      "thai": "ต่างหูระย้า กำไลมือ และผ้าคลุมหน้า",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "הַנְּטִיפוֹת וְהַשֵּׁירוֹת וְהָרְעָלוֹת",
+          "rendering": "ต่างหูระย้า กำไลมือ และผ้าคลุมหน้า",
+          "rationale": "nəṭîpôt ‘ear-drops/pendants’ (cf. shipped Jdg 8:26 เครื่องแขวน — royal-camel context there; the jewelry sense ต่างหูระย้า here, contextual variant documented); šērôt hapax ‘bracelets’ (root שׁרר twist/chain); rəʿālôt hapax ‘veils’ (cf. Arabic raʿala) → ผ้าคลุมหน้า."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Isaiah 3:20",
+    "chapter": 3,
+    "verse": 20,
+    "language": "hebrew",
+    "hebrew": "הַפְּאֵרִ֤ים וְהַצְּעָדוֹת֙ וְהַקִּשֻּׁרִ֔ים וּבָתֵּ֥י הַנֶּ֖פֶשׁ וְהַלְּחָשִֽׁים׃",
+    "bsb_english": "their headdresses, ankle chains, and sashes; their perfume bottles and charms;",
+    "translation": {
+      "thai": "เครื่องประดับศีรษะ สร้อยข้อเท้า ผ้าคาดเอว ขวดน้ำหอม และเครื่องรางของขลัง",
+      "thai_literal": null,
+      "thai_summary": "กลางรายการเครื่องสวยมี ‘เครื่องรางของขลัง’ แทรกอยู่อย่างเงียบๆ — แฟชั่นกับไสยศาสตร์ปนกันจนแยกไม่ออก เหมือนที่แผ่นดิน ‘เต็มไปด้วยผู้ตีความลาง’ (2:6) จนถึงเครื่องแต่งกาย",
+      "key_decisions": [
+        {
+          "hebrew": "בָּתֵּי הַנֶּפֶשׁ",
+          "rendering": "ขวดน้ำหอม",
+          "rationale": "Lit. ‘houses of the nepeš’ — either ‘perfume-boxes’ (nepeš = breath/scent; so BSB ‘perfume bottles’, followed) or ‘soul-amulets’. The literal house-of-breath idiom documented; ขวดน้ำหอม for the scent-container sense."
+        },
+        {
+          "hebrew": "וְהַלְּחָשִׁים",
+          "rendering": "เครื่องรางของขลัง",
+          "rationale": "ləḥāšîm ‘charms/amulets’ — the same לחשׁ whisper-root as v. 3's ‘expert enchanter’ (נְבוֹן לָחַשׁ): the court's magic and the boudoir's magic are one root. Echo documented; เครื่องรางของขลัง is the Thai folk-religion term, intelligible instantly."
+        }
+      ],
+      "notes": "פְּאֵרִים headdresses → เครื่องประดับศีรษะ; צְעָדוֹת step-chains → สร้อยข้อเท้า; קִשֻּׁרִים sashes → ผ้าคาดเอว."
+    }
+  },
+  {
+    "reference": "Isaiah 3:21",
+    "chapter": 3,
+    "verse": 21,
+    "language": "hebrew",
+    "hebrew": "הַטַּבָּע֖וֹת וְנִזְמֵ֥י הָאָֽף׃",
+    "bsb_english": "their signet rings and nose rings;",
+    "translation": {
+      "thai": "แหวนตรา และห่วงจมูก",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "הַטַּבָּעוֹת וְנִזְמֵי הָאָף",
+          "rendering": "แหวนตรา และห่วงจมูก",
+          "rationale": "ṭabbāʿôt → แหวนตรา per shipped Gen 41:42 (Pharaoh's signet); nizmê hāʾāp → ห่วงจมูก per shipped Gen 24:22, 47 (Rebekah's nose-ring, ห่วง) — both items carry corpus precedents, no guesswork."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Isaiah 3:22",
+    "chapter": 3,
+    "verse": 22,
+    "language": "hebrew",
+    "hebrew": "הַמַּֽחֲלָצוֹת֙ וְהַמַּ֣עֲטָפ֔וֹת וְהַמִּטְפָּח֖וֹת וְהָחֲרִיטִֽים׃",
+    "bsb_english": "their festive robes, capes, cloaks, and purses;",
+    "translation": {
+      "thai": "เสื้อชุดงานเทศกาล เสื้อคลุมยาว ผ้าคลุมไหล่ และถุงใส่เงิน",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "וְהַמַּעֲטָפוֹת",
+          "rendering": "เสื้อคลุมยาว",
+          "rationale": "hapax — maʿăṭāpôt ‘over-wraps/capes’ (root עטף wrap). מַחֲלָצוֹת festal robes → เสื้อชุดงานเทศกาล (cf. Zech 3:4, the only other occurrence — robes of honor); חֲרִיטִים → ถุงใส่เงิน matching shipped 2KI 5:23 (Naaman's silver bags — same lexeme)."
+        }
+      ],
+      "notes": "מִטְפָּחוֹת shawls → ผ้าคลุมไหล่ (cf. Ruth 3:15, the cloak Ruth carries grain in)."
+    }
+  },
+  {
+    "reference": "Isaiah 3:23",
+    "chapter": 3,
+    "verse": 23,
+    "language": "hebrew",
+    "hebrew": "וְהַגִּלְיֹנִים֙ וְהַסְּדִינִ֔ים וְהַצְּנִיפ֖וֹת וְהָרְדִידִֽים׃",
+    "bsb_english": "and their mirrors, linen garments, tiaras, and shawls.",
+    "translation": {
+      "thai": "กระจกเงา เสื้อผ้าลินิน ผ้าโพกศีรษะ และผ้าคลุมบาง",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "וְהַגִּלְיֹנִים",
+          "rendering": "กระจกเงา",
+          "rationale": "gilyōnîm — ‘mirrors’ (polished-metal hand mirrors; so BSB) or ‘gauze/transparent garments’ (LXX διαφανῆ λακωνικά ‘transparent Laconian dresses’!) — the two ancient readings documented; mirror-sense followed with BSB. סְדִינִים → เสื้อผ้าลินิน (cf. shipped Gen 41:42 ผ้าลินิน); צְנִיפוֹת hapax ‘turbans’ (root צנף wind around) → ผ้าโพกศีรษะ; רְדִידִים ‘thin wraps/veils’ (cf. Song 5:7) → ผ้าคลุมบาง."
+        }
+      ],
+      "notes": "Catalogue closes: 21 items, head to foot, jewelry to undergarments — an exhaustive un-dressing by inventory before the five-fold reversal of v. 24."
+    }
+  },
+  {
+    "reference": "Isaiah 3:24",
+    "chapter": 3,
+    "verse": 24,
+    "language": "hebrew",
+    "hebrew": "וְהָיָה֩ תַ֨חַת בֹּ֜שֶׂם מַ֣ק יִֽהְיֶ֗ה וְתַ֨חַת חֲגוֹרָ֤ה נִקְפָּה֙ וְתַ֨חַת מַעֲשֶׂ֤ה מִקְשֶׁה֙ קָרְחָ֔ה וְתַ֥חַת פְּתִיגִ֖יל מַחֲגֹ֣רֶת שָׂ֑ק כִּי־תַ֖חַת יֹֽפִי׃",
+    "bsb_english": "Instead of fragrance there will be a stench; instead of a belt, a rope; instead of styled hair, baldness; instead of fine clothing, sackcloth; instead of beauty, shame.",
+    "translation": {
+      "thai": "และจะเป็นอย่างนี้: แทนกลิ่นหอมจะมีกลิ่นเน่าเหม็น แทนผ้าคาดเอวจะมีเชือก แทนทรงผมที่ตกแต่งงามจะมีศีรษะโล้น แทนเสื้องามจะมีผ้ากระสอบคาดกาย และแทนความงามจะมีรอยตีตราไหม้",
+      "thai_literal": null,
+      "thai_summary": "ห้าคู่สลับ ‘แทน…จะมี…’ ไล่ถอดความงามทีละชั้นจนถึงผิวหนัง — ‘รอยตีตราไหม้’ คือเครื่องหมายนักโทษเชลย ภาพสตรีผู้เคยกรีดกรายในข้อ 16 จบลงในขบวนเชลยศึก",
+      "key_decisions": [
+        {
+          "hebrew": "וְתַחַת חֲגוֹרָה נִקְפָּה",
+          "rendering": "แทนผ้าคาดเอวจะมีเชือก",
+          "rationale": "hapax — niqpâ ‘rope’ (root נקף go around): the embroidered sash becomes a captive's cord. The five-fold תַּחַת anaphora rendered with identical แทน…จะมี… framing."
+        },
+        {
+          "hebrew": "וְתַחַת מַעֲשֶׂה מִקְשֶׁה קָרְחָה",
+          "rendering": "แทนทรงผมที่ตกแต่งงามจะมีศีรษะโล้น",
+          "rationale": "hapax — miqšeh ‘well-set [hair]’ (root קשה shape/turn): coiffure → baldness (קָרְחָה, the mourning/captivity shave). פְּתִיגִיל hapax ‘festal robe’ → เสื้องาม; מַחֲגֹרֶת hapax ‘girding’ + שָׂק → ผ้ากระสอบคาดกาย (ผ้ากระสอบ per shipped 2KI 19:1 / LAM 2:10)."
+        },
+        {
+          "hebrew": "כִּי־תַחַת יֹפִי",
+          "rendering": "แทนความงามจะมีรอยตีตราไหม้",
+          "rationale": "Crux: MT's terse כִּי־תַחַת יֹפִי is read here with כִּי as the noun ‘branding/burn-scar’ (root כוה burn, cf. כְּוִיָּה Exod 21:25 — morphology-supported, no emendation; so NIV ‘branding instead of beauty’). Alternative: 1QIsaa adds בשת (‘instead of beauty — shame’, so BSB) — mss variant documented; MT-as-is followed per ot_canon_and_text_base."
+        }
+      ],
+      "notes": "Five reversals: scent→rot (מַק stench), sash→rope, coiffure→baldness, robe→sackcloth, beauty→brand. Four hapax in one verse — the highest density in the book so far."
+    }
+  },
+  {
+    "reference": "Isaiah 3:25",
+    "chapter": 3,
+    "verse": 25,
+    "language": "hebrew",
+    "hebrew": "מְתַ֖יִךְ בַּחֶ֣רֶב יִפֹּ֑לוּ וּגְבוּרָתֵ֖ךְ בַּמִּלְחָמָֽה׃",
+    "bsb_english": "Your men will fall by the sword, and your warriors in battle.",
+    "translation": {
+      "thai": "ผู้ชายของเจ้าจะล้มลงด้วยดาบ และนักรบของเจ้าจะล้มในสงคราม",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "מְתַיִךְ בַּחֶרֶב יִפֹּלוּ",
+          "rendering": "ผู้ชายของเจ้าจะล้มลงด้วยดาบ",
+          "rationale": "Address shifts to 2fs (Zion herself — เจ้า) — the mother-city loses her men; מְתִים ‘males/men’ → ผู้ชายของเจ้า. The sword devouring (1:20) arrives."
+        }
+      ],
+      "notes": "וּגְבוּרָתֵךְ ‘your might’ = abstract-for-concrete (‘your mighty men’) → นักรบของเจ้า, with BSB."
+    }
+  },
+  {
+    "reference": "Isaiah 3:26",
+    "chapter": 3,
+    "verse": 26,
+    "language": "hebrew",
+    "hebrew": "וְאָנ֥וּ וְאָבְל֖וּ פְּתָחֶ֑יהָ וְנִקָּ֖תָה לָאָ֥רֶץ תֵּשֵֽׁב׃",
+    "bsb_english": "And the gates of Zion will lament and mourn; destitute, she will sit on the ground.",
+    "translation": {
+      "thai": "ประตูเมืองของศิโยนจะคร่ำครวญและไว้ทุกข์ และนางจะนั่งอยู่บนพื้นดินอย่างสิ้นเนื้อประดาตัว",
+      "thai_literal": null,
+      "thai_summary": "ประตูเมือง — ที่ที่ผู้อาวุโสเคยนั่งพิพากษาและสตรีเคยเดินกรีดกราย — จะร้องไห้แทนผู้คนที่ไม่เหลือ และศิโยนนั่งลงกับพื้น: ท่าเดียวกับหญิงม่ายในเพลงคร่ำครวญ ภาพปิดบทนี้คือภาพเปิดของหนังสือเพลงคร่ำครวญทั้งเล่ม",
+      "key_decisions": [
+        {
+          "hebrew": "וְאָנוּ וְאָבְלוּ פְּתָחֶיהָ",
+          "rendering": "ประตูเมืองของศิโยนจะคร่ำครวญและไว้ทุกข์",
+          "rationale": "The gates (synecdoche for the assembly that met there) personified as mourners — ʾānâ ‘lament’ + ʾāval ‘mourn’ → คร่ำครวญ/ไว้ทุกข์ per the Lamentations vocabulary family."
+        },
+        {
+          "hebrew": "וְנִקָּתָה לָאָרֶץ תֵּשֵׁב",
+          "rendering": "นางจะนั่งอยู่บนพื้นดินอย่างสิ้นเนื้อประดาตัว",
+          "rationale": "niqqātâ ‘emptied/stripped clean’ (root נקה) → อย่างสิ้นเนื้อประดาตัว; sitting on the ground = the mourning posture matching shipped LAM 2:10 (นั่ง…อยู่บนพื้นดิน) — Isaiah pre-paints the Lamentations tableau a century early; the cross-book echo is the point."
+        }
+      ],
+      "notes": "Chapter arc closes: from every-support-removed (v. 1) to the city herself on the bare ground — the posture 4:1's seven desperate women rise out of (ch. 4 continues this scene without a break)."
+    }
+  }
+]
