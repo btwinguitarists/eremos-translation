@@ -1,0 +1,231 @@
+[
+  {
+    "reference": "Isaiah 31:1",
+    "chapter": 31,
+    "verse": 1,
+    "language": "hebrew",
+    "hebrew": "ה֣וֹי הַיֹּרְדִ֤ים מִצְרַ֨יִם֙ לְעֶזְרָ֔ה עַל־סוּסִ֖ים יִשָּׁעֵ֑נוּ וַיִּבְטְח֨וּ עַל־רֶ֜כֶב כִּ֣י רָ֗ב וְעַ֤ל פָּֽרָשִׁים֙ כִּֽי־עָצְמ֣וּ מְאֹ֔ד וְלֹ֤א שָׁעוּ֙ עַל־קְד֣וֹשׁ יִשְׂרָאֵ֔ל וְאֶת־יְהוָ֖ה לֹ֥א דָרָֽשׁוּ׃",
+    "bsb_english": "Woe to those who go down to Egypt for help, who rely on horses, who trust in their abundance of chariots and in their multitude of horsemen. They do not look to the Holy One of Israel; they do not seek the LORD.",
+    "translation": {
+      "thai": "วิบัติแก่ผู้ที่ลงไปยังอียิปต์เพื่อขอความช่วยเหลือ ผู้พึ่งพิงม้าทั้งหลาย ผู้วางใจในรถม้าศึกเพราะมีมากมาย และในพลม้าเพราะแข็งแกร่งยิ่งนัก แต่ไม่ได้มองไปยังองค์บริสุทธิ์แห่งอิสราเอล และไม่ได้แสวงหาองค์พระผู้เป็นเจ้า",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้า",
+          "rationale": "יהוה → ‘องค์พระผู้เป็นเจ้า’ ตาม divine_names_table_2026-05.md (Layer 1)"
+        },
+        {
+          "hebrew": "הוֹי הַיֹּרְדִים מִצְרַיִם לְעֶזְרָה עַל־סוּסִים יִשָּׁעֵנוּ",
+          "rendering": "วิบัติแก่ผู้ที่ลงไปยังอียิปต์เพื่อขอความช่วยเหลือ ผู้พึ่งพิงม้าทั้งหลาย",
+          "rationale": "hôy #5 → วิบัติแก่ lock; the 30:1–2 indictment compressed to its arithmetic: horses-many + horsemen-strong vs the unconsulted God; พึ่งพิง (šāʿan lean-verb — the 10:20 lock: จะไม่พึ่งพิงผู้ที่ตีพวกเขา…แต่จะพึ่งพิง[องค์พระผู้เป็นเจ้า] — these leaners chose the other column); วางใจ bāṭaḥ mis-invested again (30:12)."
+        },
+        {
+          "hebrew": "וְלֹא שָׁעוּ עַל־קְדוֹשׁ יִשְׂרָאֵל",
+          "rendering": "แต่ไม่ได้มองไปยังองค์บริสุทธิ์แห่งอิสราเอล",
+          "rationale": "šāʿâ look-to → มองไปยัง per the shipped 17:7 lock (มนุษย์จะมองไปยังพระผู้สร้างของเขา…องค์บริสุทธิ์แห่งอิสราเอล — the same verb + title pair, there the healed gaze, here the withheld one); דָרָשׁ seek → แสวงหา."
+        }
+      ],
+      "notes": "Layer 1. The chariot-census theology: Deut 17:16's no-horses law + Ps 20:7 (some trust in chariots)."
+    }
+  },
+  {
+    "reference": "Isaiah 31:2",
+    "chapter": 31,
+    "verse": 2,
+    "language": "hebrew",
+    "hebrew": "וְגַם־ה֤וּא חָכָם֙ וַיָּ֣בֵא רָ֔ע וְאֶת־דְּבָרָ֖יו לֹ֣א הֵסִ֑יר וְקָם֙ עַל־בֵּ֣ית מְרֵעִ֔ים וְעַל־עֶזְרַ֖ת פֹּ֥עֲלֵי אָֽוֶן׃",
+    "bsb_english": "Yet He too is wise and brings disaster; He does not call back His words. He will rise up against the house of the wicked and against the allies of evildoers.",
+    "translation": {
+      "thai": "แต่พระองค์ก็ทรงเปี่ยมด้วยพระปัญญาเช่นกัน! พระองค์ทรงนำภัยพิบัติมา และไม่ทรงเรียกถ้อยคำของพระองค์กลับคืน พระองค์จะทรงลุกขึ้นต่อสู้วงศ์วานของผู้กระทำชั่ว และต่อสู้ผู้ช่วยเหลือของบรรดาผู้กระทำความผิดบาป",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "וְגַם־הוּא חָכָם וַיָּבֵא רָע",
+          "rendering": "แต่พระองค์ก็ทรงเปี่ยมด้วยพระปัญญาเช่นกัน! พระองค์ทรงนำภัยพิบัติมา",
+          "rationale": "The driest irony in the Woe-cycle: ‘He TOO is wise’ — against Egypt's proverbial wisdom (19:11–12 the foolish counselors of Zoan) and Jerusalem's planning cabinet (29:14): the understatement kept as เช่นกัน with the exclamative; ‘does not retract His words’ — vs the cabinet's revisable treaties → ไม่ทรงเรียกถ้อยคำของพระองค์กลับคืน."
+        }
+      ],
+      "notes": "עֶזְרַת ‘the help’ of evildoers — the ʿēzer help-word (vv. 1, 3): the chapter's keyword tracked through all three occurrences."
+    }
+  },
+  {
+    "reference": "Isaiah 31:3",
+    "chapter": 31,
+    "verse": 3,
+    "language": "hebrew",
+    "hebrew": "וּמִצְרַ֤יִם אָדָם֙ וְֽלֹא־אֵ֔ל וְסוּסֵיהֶ֥ם בָּשָׂ֖ר וְלֹא־ר֑וּחַ וַֽיהוָ֞ה יַטֶּ֣ה יָד֗וֹ וְכָשַׁ֤ל עוֹזֵר֙ וְנָפַ֣ל עָזֻ֔ר וְיַחְדָּ֖ו כֻּלָּ֥ם יִכְלָיֽוּן׃ס",
+    "bsb_english": "But the Egyptians are men, not God; their horses are flesh, not spirit. When the LORD stretches out His hand, the helper will stumble, and the one he helps will fall; both will perish together.",
+    "translation": {
+      "thai": "คนอียิปต์นั้นเป็นมนุษย์ ไม่ใช่พระเจ้า และม้าทั้งหลายของเขาเป็นเนื้อหนัง ไม่ใช่วิญญาณ เมื่อองค์พระผู้เป็นเจ้าทรงเหยียดพระหัตถ์ออก ผู้ช่วยเหลือก็จะสะดุด และผู้ที่ถูกช่วยก็จะล้มลง ทั้งสองจะพินาศไปด้วยกัน",
+      "thai_literal": null,
+      "thai_summary": "ประโยคแกนของวิบัติที่ห้า: ‘อียิปต์เป็นมนุษย์ ไม่ใช่พระเจ้า ม้าของเขาเป็นเนื้อหนัง ไม่ใช่วิญญาณ’ — สองคู่คำที่ตัดสินภูมิรัฐศาสตร์ทั้งระบบ: ทุกพันธมิตรที่ถูกเลื่อนขั้นเป็นพระเจ้า จะพังพร้อมกับคนที่กราบมัน — ผู้ช่วยสะดุด ผู้ถูกช่วยล้ม ล้มทั้งคู่",
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้า",
+          "rationale": "יהוה → ‘องค์พระผู้เป็นเจ้า’ ตาม divine_names_table_2026-05.md (Layer 1)"
+        },
+        {
+          "hebrew": "וּמִצְרַיִם אָדָם וְלֹא־אֵל וְסוּסֵיהֶם בָּשָׂר וְלֹא־רוּחַ",
+          "rendering": "คนอียิปต์นั้นเป็นมนุษย์ ไม่ใช่พระเจ้า และม้าทั้งหลายของเขาเป็นเนื้อหนัง ไม่ใช่วิญญาณ",
+          "rationale": "The ʾādām/ʾēl + bāśār/rûaḥ double antithesis — the OT's flesh-vs-spirit locus classicus (John 6:63; the วิญญาณ/เนื้อหนัง NT register stands on this pair): rendered with the bare ไม่ใช่ negations, no softening; the alliance-theology verdict in eight words."
+        },
+        {
+          "hebrew": "וַיהוָה יַטֶּה יָדוֹ וְכָשַׁל עוֹזֵר וְנָפַל עָזֻר",
+          "rendering": "เมื่อองค์พระผู้เป็นเจ้าทรงเหยียดพระหัตถ์ออก ผู้ช่วยเหลือก็จะสะดุด และผู้ที่ถูกช่วยก็จะล้มลง",
+          "rationale": "yaṭṭeh yādô — the R_HAND refrain's verb (เหยียด…ออก, the 5:25/9:11ff stretched hand) aimed at the Egypt-axis: พระหัตถ์ as OBJECT of ทรงเหยียด (binding-rule safe); ʿôzēr/ʿāzur helper/helped — the active-passive pair of one verb falling as one body → ผู้ช่วยเหลือ/ผู้ที่ถูกช่วย; สะดุด/ล้มลง the 8:15/28:13 stumble-chain."
+        }
+      ],
+      "notes": "Layer 1."
+    }
+  },
+  {
+    "reference": "Isaiah 31:4",
+    "chapter": 31,
+    "verse": 4,
+    "language": "hebrew",
+    "hebrew": "כִּ֣י כֹ֣ה אָֽמַר־יְהוָ֣ה׀אֵלַ֡י כַּאֲשֶׁ֣ר יֶהְגֶּה֩ הָאַרְיֵ֨ה וְהַכְּפִ֜יר עַל־טַרְפּ֗וֹ אֲשֶׁ֨ר יִקָּרֵ֤א עָלָיו֙ מְלֹ֣א רֹעִ֔ים מִקּוֹלָם֙ לֹ֣א יֵחָ֔ת וּמֵֽהֲמוֹנָ֖ם לֹ֣א יַֽעֲנֶ֑ה כֵּ֗ן יֵרֵד֙ יְהוָ֣ה צְבָא֔וֹת לִצְבֹּ֥א עַל־הַר־צִיּ֖וֹן וְעַל־גִּבְעָתָֽהּ׃",
+    "bsb_english": "For this is what the LORD has said to me: “Like a lion roaring or a young lion over its prey—and though a band of shepherds is called out against it, it is not terrified by their shouting or subdued by their clamor—so the LORD of Hosts will come down to do battle on Mount Zion and its heights.",
+    "translation": {
+      "thai": "เพราะองค์พระผู้เป็นเจ้าตรัสกับข้าพเจ้าดังนี้ว่า “ดั่งสิงโตหรือสิงห์หนุ่มคำรามอยู่เหนือเหยื่อของมัน และแม้หมู่คนเลี้ยงแกะทั้งปวงจะถูกเรียกออกมาสู้กับมัน มันก็ไม่ครั่นคร้ามต่อเสียงตะโกนของพวกเขา และไม่ยอมถอยเพราะเสียงอึงคะนึงของพวกเขา — องค์พระผู้เป็นเจ้าจอมโยธาจะเสด็จลงมาเพื่อทำศึกบนภูเขาศิโยนและบนเนินเขาของมันเช่นนั้น",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "כַּאֲשֶׁר יֶהְגֶּה הָאַרְיֵה וְהַכְּפִיר עַל־טַרְפּוֹ",
+          "rendering": "ดั่งสิงโตหรือสิงห์หนุ่มคำรามอยู่เหนือเหยื่อของมัน",
+          "rationale": "yehgeh — the hāgâ growl-verb (the lion's low rumble over a kill — the same verb as meditate/mutter: 8:19's พึมพำ family, here leonine) → คำราม; the un-scareable lion = YHWH against the shepherd-posse (the nations' clamor — or Judah's own diplomatic rescue-shouts: the lion keeps the prey either way); לִצְבֹּא עַל ‘to fight upon/against’ Zion — the ambiguity (protecting? besieging?) is the verse's edge, resolved only by v. 5's birds."
+        }
+      ],
+      "notes": "Layer 1 (×2). The paired animal-similes: lion (unmovable possession) + birds (hovering protection) — judgment-grip and mercy-cover as one stance."
+    }
+  },
+  {
+    "reference": "Isaiah 31:5",
+    "chapter": 31,
+    "verse": 5,
+    "language": "hebrew",
+    "hebrew": "כְּצִפֳּרִ֣ים עָפ֔וֹת כֵּ֗ן יָגֵ֛ן יְהוָ֥ה צְבָא֖וֹת עַל־יְרֽוּשָׁלִָ֑ם גָּנ֥וֹן וְהִצִּ֖יל פָּסֹ֥חַ וְהִמְלִֽיט׃",
+    "bsb_english": "Like birds hovering overhead, so the LORD of Hosts will protect Jerusalem. He will shield it and deliver it; He will pass over it and preserve it.”",
+    "translation": {
+      "thai": "ดั่งฝูงนกบินวนปกอยู่เหนือรัง องค์พระผู้เป็นเจ้าจอมโยธาจะทรงปกป้องเยรูซาเล็มเช่นนั้น พระองค์จะทรงปกป้องและทรงช่วยกู้ จะทรงผ่านพ้นและทรงช่วยให้รอดพ้น”",
+      "thai_literal": null,
+      "thai_summary": "ภาพซ้อนของข้อนี้คือคืนปัสกา: กริยา ‘ผ่านพ้น’ (פָּסַח) คือคำเดียวกับใน อพยพ 12 — เมื่อผู้ทำลายผ่านอียิปต์ พระเจ้าทรง ‘ผ่านพ้น’ บ้านที่มีเลือด — กองทัพอัสซีเรียจะพบเยรูซาเล็มเป็นบ้านที่ถูกผ่านพ้นอีกครั้ง (สำเร็จใน 37:36 — คืนเดียว ค่ายทั้งค่ายไม่ตื่น)",
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้า",
+          "rationale": "יהוה → ‘องค์พระผู้เป็นเจ้า’ ตาม divine_names_table_2026-05.md (Layer 1)"
+        },
+        {
+          "hebrew": "גָּנוֹן וְהִצִּיל פָּסֹחַ וְהִמְלִיט",
+          "rendering": "พระองค์จะทรงปกป้องและทรงช่วยกู้ จะทรงผ่านพ้นและทรงช่วยให้รอดพ้น",
+          "rationale": "pāsōaḥ — THE Passover verb (Exod 12:13, 23) → ทรงผ่านพ้น harmonized with shipped EXO 12 (เราจะผ่านพ้นพวกเจ้า / องค์พระผู้เป็นเจ้าจะทรงผ่านพ้นประตูนั้น — the byte-link): Jerusalem 701 BC as a second Passover night (fulfilled 37:36, the destroyer passing the blood-marked city); the four-verb protection volley (shield/deliver/pass-over/rescue) kept as the ทรง-quartet; the hovering-birds simile (the eagle-wings Deut 32:11 family) → ฝูงนกบินวนปกอยู่เหนือรัง."
+        }
+      ],
+      "notes": "Layer 1."
+    }
+  },
+  {
+    "reference": "Isaiah 31:6",
+    "chapter": 31,
+    "verse": 6,
+    "language": "hebrew",
+    "hebrew": "שׁ֗וּבוּ לַאֲשֶׁ֛ר הֶעְמִ֥יקוּ סָרָ֖ה בְּנֵ֥י יִשְׂרָאֵֽל׃",
+    "bsb_english": "Return to the One against whom you have so blatantly rebelled, O children of Israel.",
+    "translation": {
+      "thai": "บุตรทั้งหลายของอิสราเอลเอ๋ย จงหันกลับมาหาพระองค์ ผู้ซึ่งพวกเจ้าได้กบฏต่ออย่างลึกล้ำ",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "שׁוּבוּ לַאֲשֶׁר הֶעְמִיקוּ סָרָה",
+          "rendering": "จงหันกลับมาหาพระองค์ ผู้ซึ่งพวกเจ้าได้กบฏต่ออย่างลึกล้ำ",
+          "rationale": "šûḇû → จงหันกลับมา (the 30:15 šûḇâ การหันกลับมา creed-verb as imperative — the offer still open mid-woe); heʿmîqû ‘they made DEEP’ — the 29:15 deep-diggers verb (הַמַּעֲמִיקִים ผู้ที่ขุดลึก): the depth of the hiding measures the distance of the return; sārâ defection → กบฏ per the rebellion-lexeme family (1:5)."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Isaiah 31:7",
+    "chapter": 31,
+    "verse": 7,
+    "language": "hebrew",
+    "hebrew": "כִּ֚י בַּיּ֣וֹם הַה֔וּא יִמְאָס֗וּן אִ֚ישׁ אֱלִילֵ֣י כַסְפּ֔וֹ וֶאֱלִילֵ֖י זְהָב֑וֹ אֲשֶׁ֨ר עָשׂ֥וּ לָכֶ֛ם יְדֵיכֶ֖ם חֵֽטְא׃",
+    "bsb_english": "For on that day, every one of you will reject the idols of silver and gold that your own hands have sinfully made.",
+    "translation": {
+      "thai": "เพราะในวันนั้น ทุกคนจะปฏิเสธรูปเคารพเงินและรูปเคารพทองคำของตน ซึ่งมือของพวกเจ้าได้ทำขึ้นเป็นบาป",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יִמְאָסוּן אִישׁ אֱלִילֵי כַסְפּוֹ וֶאֱלִילֵי זְהָבוֹ",
+          "rendering": "ทุกคนจะปฏิเสธรูปเคารพเงินและรูปเคารพทองคำของตน",
+          "rationale": "māʾas → ปฏิเสธ lock (5:24; 30:12 — they rejected the word; healed, they reject the idols: the verb switches sides); รูปเคารพเงินและรูปเคารพทองคำ byte-aligned with shipped 2:20 (the in-that-day idol-discard scene — same pair, same eschatological frame) + 30:22's domestic version."
+        }
+      ],
+      "notes": "ในวันนั้น lock. ‘Which your hands made — AS SIN’ (חֵטְא appositional): manufacture itself the indictment."
+    }
+  },
+  {
+    "reference": "Isaiah 31:8",
+    "chapter": 31,
+    "verse": 8,
+    "language": "hebrew",
+    "hebrew": "וְנָפַ֤ל אַשּׁוּר֙ בְּחֶ֣רֶב לֹא־אִ֔ישׁ וְחֶ֥רֶב לֹֽא־אָדָ֖ם תֹּֽאכֲלֶ֑נּוּ וְנָ֥ס לוֹ֙ מִפְּנֵי־חֶ֔רֶב וּבַחוּרָ֖יו לָמַ֥ס יִהְיֽוּ׃",
+    "bsb_english": "“Then Assyria will fall, but not by the sword of man; a sword will devour them, but not one made by mortals. They will flee before the sword, and their young men will be put to forced labor.",
+    "translation": {
+      "thai": "“แล้วอัสซีเรียจะล้มลงด้วยดาบที่ไม่ใช่ของบุรุษ และดาบที่ไม่ใช่ของมนุษย์จะกลืนกินเขา เขาจะหนีไปจากดาบนั้น และคนหนุ่มของเขาจะถูกเกณฑ์เป็นแรงงานทาส",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "וְנָפַל אַשּׁוּר בְּחֶרֶב לֹא־אִישׁ וְחֶרֶב לֹא־אָדָם תֹּאכֲלֶנּוּ",
+          "rendering": "อัสซีเรียจะล้มลงด้วยดาบที่ไม่ใช่ของบุรุษ และดาบที่ไม่ใช่ของมนุษย์จะกลืนกินเขา",
+          "rationale": "The no-man's-sword: the v. 3 antithesis weaponized (Egypt is ʾādām-not-God; Assyria falls by a sword not-ʾādām's — the two empires bracketed by the same noun); tōʾkălennû devour → กลืนกิน (the bālaʿ/ʾākal devour-chain: 1:20's sword-eats threat closing on the empire); fulfilled 37:36 (the angel, no human blade)."
+        },
+        {
+          "hebrew": "וּבַחוּרָיו לָמַס יִהְיוּ",
+          "rendering": "และคนหนุ่มของเขาจะถูกเกณฑ์เป็นแรงงานทาส",
+          "rationale": "mas — the corvée-labor institution → เกณฑ์แรงงาน per the Kings-corpus lock (1KI 5's draft): the empire that conscripted nations gets conscripted; the reversal-economy of the Woe-cycle."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Isaiah 31:9",
+    "chapter": 31,
+    "verse": 9,
+    "language": "hebrew",
+    "hebrew": "וְסַלְעוֹ֙ מִמָּג֣וֹר יַֽעֲב֔וֹר וְחַתּ֥וּ מִנֵּ֖ס שָׂרָ֑יו נְאֻם־יְהוָ֗ה אֲשֶׁר־א֥וּר לוֹ֙ בְּצִיּ֔וֹן וְתַנּ֥וּר ל֖וֹ בִּירוּשָׁלִָֽם׃ס",
+    "bsb_english": "Their rock will pass away for fear, and their princes will panic at the sight of the battle standard,” declares the LORD, whose fire is in Zion, whose furnace is in Jerusalem.",
+    "translation": {
+      "thai": "ศิลาของเขาจะมลายไปเพราะความหวาดกลัว และเจ้านายของเขาจะครั่นคร้ามต่อธงสัญญาณ” องค์พระผู้เป็นเจ้าผู้ทรงมีไฟอยู่ในศิโยน และทรงมีเตาหลอมอยู่ในเยรูซาเล็ม ตรัสไว้ดังนี้",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้า",
+          "rationale": "יהוה → ‘องค์พระผู้เป็นเจ้า’ ตาม divine_names_table_2026-05.md (Layer 1)"
+        },
+        {
+          "hebrew": "וְסַלְעוֹ מִמָּגוֹר יַעֲבוֹר",
+          "rendering": "ศิลาของเขาจะมลายไปเพราะความหวาดกลัว",
+          "rationale": "salʿô ‘his rock’ — Assyria's own rock (its king/god/confidence) dissolving in dread vs the unmovable พระศิลา of Israel (26:4; 30:29): the rock-contest implicit; מָגוֹר terror → ความหวาดกลัว."
+        },
+        {
+          "hebrew": "אֲשֶׁר־אוּר לוֹ בְּצִיּוֹן וְתַנּוּר לוֹ בִּירוּשָׁלִָם",
+          "rendering": "ผู้ทรงมีไฟอยู่ในศิโยน และทรงมีเตาหลอมอยู่ในเยรูซาเล็ม",
+          "rationale": "The fire-and-furnace signature: the Ariel altar-hearth (29:1–2) + Topheth pyre (30:33) thread sealed — God's hearth-address is Zion itself (the ʾûr fire + tannûr oven of Gen 15:17's covenant-furnace); the nēs → ธงสัญญาณ lock (the banner the fleeing princes dread = the rally-point the remnant hoists, 30:17/11:10); נְאֻם־יְהוָה parenthetical → ตรัสไว้ดังนี้ per the ne'um lock."
+        }
+      ],
+      "notes": "Layer 1. Woe #5 closes; ch. 32: the righteous King and the Spirit poured (the cycle's bright core) before hôy #6 (33:1)."
+    }
+  }
+]
