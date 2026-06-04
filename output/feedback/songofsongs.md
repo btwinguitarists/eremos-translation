@@ -1,6 +1,6 @@
 # เพลงซาโลมอน
 
-_Song of Songs — 3 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
+_Song of Songs — 4 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
 
 _This **feedback edition** is the plain Thai translation with a `>` placeholder block under each verse for reviewer comments. **See the instructions immediately below before reading.** For the annotated edition (with contextual summaries), see `output/reader/songofsongs.md`; for the verses-only edition (no comment blocks), see `output/plain/songofsongs.md`._
 
@@ -220,6 +220,74 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 ---
 
+## บทที่ 4
+
+**1** ดูเถิด เธองามนัก ยอดรักของฉัน ดูเถิด เธองามนัก ดวงตาของเธอดั่งนกพิราบอยู่หลังผ้าคลุมหน้า เส้นผมของเธอดั่งฝูงแพะที่ไหลลงมาจากภูเขากิเลอาด
+
+> ___
+
+**2** ฟันของเธอดั่งฝูงแกะที่เพิ่งตัดขน เดินขึ้นมาจากการชำระล้าง ทุกตัวล้วนมีคู่แฝด ไม่มีตัวใดขาดหายไป
+
+> ___
+
+**3** ริมฝีปากของเธอดั่งด้ายสีแดงเข้ม และปากของเธอน่ารักยิ่ง ขมับของเธอที่อยู่หลังผ้าคลุมหน้า ดั่งผลทับทิมผ่าซีก
+
+> ___
+
+**4** ลำคอของเธอดั่งหอคอยของดาวิด ที่สร้างไว้เป็นชั้นเชิงเทิน มีโล่พันอันแขวนอยู่ ล้วนเป็นโล่ของเหล่าชายฉกรรจ์
+
+> ___
+
+**5** ทรวงอกทั้งสองของเธอดั่งลูกละมั่งสองตัว เป็นแฝดของแม่ละมั่ง ที่เล็มหญ้าอยู่ท่ามกลางดอกบัว
+
+> ___
+
+**6** จนกว่าวันใหม่จะรุ่งขึ้น และเงาทั้งหลายลี้หนีไป ฉันจะไปยังภูเขาแห่งมดยอบ และไปยังเนินเขาแห่งกำยาน
+
+> ___
+
+**7** เธองามหมดทั้งตัว ยอดรักของฉัน ไม่มีตำหนิใดในตัวเธอเลย
+
+> ___
+
+**8** มากับฉันจากเลบานอนเถิด เจ้าสาวของฉัน มากับฉันจากเลบานอน ลงมาจากยอดเขาอามานา จากยอดเขาเสนีร์และเฮอร์โมน จากถ้ำสิงโต จากภูเขาแห่งเสือดาว
+
+> ___
+
+**9** เธอขโมยใจฉันไปแล้ว น้องสาวของฉัน เจ้าสาวของฉัน เธอขโมยใจฉันด้วยชายตาเพียงครั้งเดียว ด้วยอัญมณีเพียงเม็ดเดียวที่ลำคอของเธอ
+
+> ___
+
+**10** ความรักของเธอช่างงดงาม น้องสาวของฉัน เจ้าสาวของฉัน ความรักของเธอดียิ่งกว่าเหล้าองุ่นมากนัก และกลิ่นน้ำมันหอมของเธอก็หอมยิ่งกว่าเครื่องเทศทั้งปวง
+
+> ___
+
+**11** ริมฝีปากของเธอหยดความหวานดั่งรวงผึ้ง เจ้าสาวของฉัน น้ำผึ้งและน้ำนมอยู่ใต้ลิ้นของเธอ และกลิ่นเสื้อผ้าของเธอดั่งกลิ่นแห่งเลบานอน
+
+> ___
+
+**12** น้องสาวของฉัน เจ้าสาวของฉัน คือสวนที่ลั่นดาลไว้ เป็นธารน้ำที่ปิดกั้น เป็นน้ำพุที่ประทับตรา
+
+> ___
+
+**13** กิ่งก้านของเธอเป็นอุทยานแห่งทับทิม พร้อมผลไม้เลิศรส ทั้งเทียนกิ่งและนารดา
+
+> ___
+
+**14** นารดาและหญ้าฝรั่น อ้อหอมและอบเชย พร้อมไม้กำยานทุกชนิด มดยอบและกฤษณา พร้อมเครื่องเทศชั้นเลิศทั้งปวง
+
+> ___
+
+**15** เธอเป็นน้ำพุแห่งสวนทั้งหลาย เป็นบ่อน้ำแห่งน้ำที่มีชีวิต ไหลรินลงมาจากเลบานอน
+
+> ___
+
+**16** ตื่นเถิด ลมเหนือ และมาเถิด ลมใต้ จงพัดผ่านสวนของฉัน ให้เครื่องหอมของสวนหอมฟุ้งกระจาย ขอให้ที่รักของฉันเข้ามาในสวนของเขา และกินผลเลิศรสแห่งสวนนั้นเถิด
+
+> ___
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -229,4 +297,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/songofsongs_01.json` | `2cc399dacf9df716f83cd5aec91d438ecdb5145ed10d046d651bf2c6142ede0f` |
 | `output/translations/songofsongs_02.json` | `b77665ea32758775f9e06f5cc948c406006f659f98d3b79264521cc5990e2ab9` |
 | `output/translations/songofsongs_03.json` | `7e89e9623a7ce15f0bed1c76afb2f08ce2699c600e3e5544b1a46c3521f5b0b0` |
+| `output/translations/songofsongs_04.json` | `efd72fbb4b959d1b8b35774ecb7972257fae44f50725125b81294c56b7a2b947` |
 
