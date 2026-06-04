@@ -1,6 +1,6 @@
 # ปัญญาจารย์
 
-_Ecclesiastes — 10 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
+_Ecclesiastes — 11 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
 
 _This **feedback edition** is the plain Thai translation with a `>` placeholder block under each verse for reviewer comments. **See the instructions immediately below before reading.** For the annotated edition (with contextual summaries), see `output/reader/ecclesiastes.md`; for the verses-only edition (no comment blocks), see `output/plain/ecclesiastes.md`._
 
@@ -860,6 +860,50 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 ---
 
+## บทที่ 11
+
+**1** จงโยนขนมปังของเจ้าลงบนผิวน้ำ เพราะอีกหลายวันเจ้าจะพบมันอีก
+
+> ___
+
+**2** จงแบ่งส่วนของเจ้าให้แก่เจ็ดคน หรือแม้แต่แปดคน เพราะเจ้าไม่รู้ว่าความเลวร้ายอันใดจะเกิดขึ้นบนแผ่นดิน
+
+> ___
+
+**3** ถ้าเมฆเต็มด้วยฝน มันก็จะเทลงบนแผ่นดิน ไม่ว่าต้นไม้จะล้มไปทางใต้หรือทางเหนือ มันล้มลงที่ใด มันก็นอนอยู่ที่นั่น
+
+> ___
+
+**4** ผู้ที่คอยเฝ้าดูลมจะไม่ได้หว่าน และผู้ที่คอยมองเมฆจะไม่ได้เกี่ยว
+
+> ___
+
+**5** เจ้าไม่รู้ทางของลมว่าไปทางใด หรือกระดูกก่อตัวขึ้นอย่างไรในครรภ์มารดาฉันใด เจ้าก็ไม่อาจรู้พระราชกิจของพระเจ้าผู้ทรงกระทำสรรพสิ่งฉันนั้น
+
+> ___
+
+**6** จงหว่านเมล็ดพืชของเจ้าในยามเช้า และอย่าหยุดมือของเจ้าในยามเย็น เพราะเจ้าไม่รู้ว่างานไหนจะสำเร็จ งานนี้หรืองานนั้น หรือทั้งสองจะดีเหมือนกัน
+
+> ___
+
+**7** ความสว่างนั้นหวานชื่น และการได้เห็นดวงอาทิตย์ก็เป็นที่ชื่นตา
+
+> ___
+
+**8** ดังนั้น ถ้ามนุษย์มีชีวิตอยู่หลายปี ก็ให้เขาชื่นชมยินดีในปีทั้งปวงนั้น แต่ให้เขาระลึกถึงวันคืนแห่งความมืด เพราะวันเหล่านั้นจะมีมาก ทุกสิ่งที่จะมาถึงล้วนไร้แก่นสาร
+
+> ___
+
+**9** ชายหนุ่มเอ๋ย จงชื่นชมยินดีในวัยเยาว์ของเจ้า และให้ใจของเจ้าเบิกบานในวันคืนแห่งวัยหนุ่มของเจ้า จงดำเนินตามทางแห่งใจของเจ้าและตามที่ตาของเจ้าเห็นเถิด แต่จงรู้เถิดว่า เพราะสิ่งทั้งปวงเหล่านี้ พระเจ้าจะทรงนำเจ้าเข้าสู่การพิพากษา
+
+> ___
+
+**10** จงขจัดความโทมนัสออกจากใจของเจ้า และปัดเป่าความทุกข์ออกจากร่างกายของเจ้า เพราะวัยเยาว์และวัยรุ่งอรุณแห่งชีวิตล้วนไร้แก่นสาร
+
+> ___
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -876,4 +920,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/ecclesiastes_08.json` | `c015307fdfc914df2e3a7d7dcc6754b193c088f32a95f09bb25ce45aff5b1bce` |
 | `output/translations/ecclesiastes_09.json` | `45565fab0095dc8317a4571276db372c73843d1f312bf5c2a66987a7b4261c95` |
 | `output/translations/ecclesiastes_10.json` | `403c08ad5fec04f6085a03a05a6991c8e4c9e382b3a49199898cc334401408f3` |
+| `output/translations/ecclesiastes_11.json` | `a53d7bec425703c2f803b34904f338402162ee41223dcbe7ef03a3f68b362a59` |
 
