@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-06-04 03:41:04 UTC_
-_Total chapters: 955 · Total verses: 26071_
+_Generated: 2026-06-04 08:14:23 UTC_
+_Total chapters: 956 · Total verses: 26093_
 
 ## How to verify a chapter
 
@@ -591,6 +591,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/judges_19.json` | 30 | `206909015c8fb92a5002b434ef8e6c5640d859eee8e012f5f1dcd202608b012a` | `51c9f1cc` |
 | `output/translations/judges_20.json` | 48 | `95a29ea76d6b75e5ab1c942ece315bc125eebb1980745b031c1c6d19dbc042c2` | `51c9f1cc` |
 | `output/translations/judges_21.json` | 25 | `6bf24acbe7b9e93aa4423160c7888eeba24083f29bddfac0040b61cfec143f5e` | `51c9f1cc` |
+| `output/translations/lamentations_01.json` | 22 | `ebc3f9e1122694f53a00cfee1491bfe5a6d82feae386503bc61e9aeb658f4719` | `—` |
 | `output/translations/leviticus_01.json` | 17 | `4dc3d8acb54097fd1f8e3249ea68ba1290693a4e25c0e3ff7e73636bae2902cb` | `ae02fa18` |
 | `output/translations/leviticus_02.json` | 16 | `b612a857d7531c5da10f5e53977628f4adc41fb57007912169dda91901e22925` | `26ddaa14` |
 | `output/translations/leviticus_03.json` | 17 | `b3bf9e73771469c8f6f4dad4cf2864924400f14bf5d92ae1057527a3591fa912` | `1271eafa` |
@@ -970,7 +971,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/songofsongs_05.json` | 16 | `f4bd7e92b6fb12c143c6ff02cbe193e24cb8c941d4fb0d32c8ff0c177312992b` | `22321a21` |
 | `output/translations/songofsongs_06.json` | 12 | `3aeb76da872e5fea02bc58cb0db99954bde3b8f384ca0d0f78065a3453e31690` | `2a42231e` |
 | `output/translations/songofsongs_07.json` | 14 | `39c14d77d53a07da71bcc82fda15deff2921444520bd2998f435157c90e1df29` | `f8f55953` |
-| `output/translations/songofsongs_08.json` | 14 | `7c611c35488a39f7b46f504126c08ad811752e3fc710ea071b5c4f8011c8ded5` | `—` |
+| `output/translations/songofsongs_08.json` | 14 | `7c611c35488a39f7b46f504126c08ad811752e3fc710ea071b5c4f8011c8ded5` | `85c5e22b` |
 | `output/translations/titus_01.json` | 16 | `6b9bc5a855e4143fab405d9116d393e4ed8e929d99a62b3d2451d8043fb50100` | `7cca09e6` |
 | `output/translations/titus_02.json` | 15 | `54cca3502fb1484c14c16b498528dd0e1691cb0d1650c2a21bae3fc079cf8180` | `9d4d7d23` |
 | `output/translations/titus_03.json` | 15 | `ae6d73e432043adfd5b8f1c7ccdac693084026cab5e5b9fda7db7d05472e9648` | `502e5308` |
