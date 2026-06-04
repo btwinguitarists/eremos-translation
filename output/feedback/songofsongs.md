@@ -1,6 +1,6 @@
 # เพลงซาโลมอน
 
-_Song of Songs — 6 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
+_Song of Songs — 7 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
 
 _This **feedback edition** is the plain Thai translation with a `>` placeholder block under each verse for reviewer comments. **See the instructions immediately below before reading.** For the annotated edition (with contextual summaries), see `output/reader/songofsongs.md`; for the verses-only edition (no comment blocks), see `output/plain/songofsongs.md`._
 
@@ -408,6 +408,66 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 ---
 
+## บทที่ 7
+
+**1** กลับมาเถิด กลับมาเถิด โอ สาวชูลัมเอ๋ย กลับมาเถิด กลับมาเถิด เพื่อพวกเราจะได้ชมเธอ เหตุใดพวกเธอจึงจ้องมองสาวชูลัม ดั่งชมระบำแห่งมาหะนาอิม
+
+> ___
+
+**2** เท้าของเธอในรองเท้างามนัก โอ บุตรสาวแห่งผู้สูงศักดิ์เอ๋ย ส่วนโค้งแห่งต้นขาของเธอดั่งอัญมณี เป็นฝีมือแห่งช่างผู้ชำนาญ
+
+> ___
+
+**3** สะดือของเธอดั่งจอกกลมเกลี้ยง ที่ไม่เคยขาดเหล้าองุ่นผสม ท้องของเธอดั่งกองข้าวสาลี ล้อมรอบด้วยดอกบัว
+
+> ___
+
+**4** ทรวงอกทั้งสองของเธอดั่งลูกละมั่งสองตัว เป็นแฝดของแม่ละมั่ง
+
+> ___
+
+**5** ลำคอของเธอดั่งหอคอยงาช้าง ดวงตาของเธอดั่งสระน้ำแห่งเฮชโบน ริมประตูเมืองบัทรับบิม จมูกของเธอดั่งหอคอยแห่งเลบานอน ที่หันหน้าสู่ดามัสกัส
+
+> ___
+
+**6** ศีรษะของเธอสง่าดั่งภูเขาคารเมล เส้นผมที่ปล่อยสยายดั่งด้ายสีม่วง กษัตริย์ก็ตกเป็นเชลยอยู่ในปอยผมนั้น
+
+> ___
+
+**7** เธองามเสียนี่กระไร น่าชื่นใจเสียนี่กระไร โอ ความรักเอ๋ย เปี่ยมด้วยความรื่นรมย์ยิ่งนัก
+
+> ___
+
+**8** รูปร่างของเธอดั่งต้นอินทผลัม และทรวงอกของเธอดั่งพวงผล
+
+> ___
+
+**9** ฉันว่า ฉันจะปีนต้นอินทผลัมนั้น จะจับกิ่งก้านของมันไว้ ขอให้ทรวงอกของเธอเป็นดั่งพวงองุ่น และกลิ่นลมหายใจของเธอหอมดั่งผลแอปเปิล
+
+> ___
+
+**10** และปากของเธอดั่งเหล้าองุ่นชั้นเลิศ ที่ไหลรินอย่างนุ่มนวลให้ที่รักของฉัน ระเรื่อยผ่านริมฝีปากของผู้หลับใหล
+
+> ___
+
+**11** ฉันเป็นของที่รักของฉัน และความปรารถนาของเขาก็มีต่อฉัน
+
+> ___
+
+**12** มาเถิด ที่รักของฉัน ให้เราออกไปยังท้องทุ่ง ให้เราค้างคืนตามหมู่บ้าน
+
+> ___
+
+**13** ให้เราตื่นแต่เช้าไปยังสวนองุ่น ไปดูว่าเถาองุ่นผลิดอกแล้วหรือยัง ดอกองุ่นบานแล้วหรือไม่ และต้นทับทิมออกดอกแล้วหรือไม่ ที่นั่นฉันจะมอบความรักของฉันแก่เธอ
+
+> ___
+
+**14** ผลเลื่อนส่งกลิ่นหอมฟุ้ง และที่ประตูของเรามีผลเลิศรสทุกอย่าง ทั้งใหม่และเก่า ที่ฉันได้สะสมไว้เพื่อเธอ ที่รักของฉัน
+
+> ___
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -420,4 +480,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/songofsongs_04.json` | `efd72fbb4b959d1b8b35774ecb7972257fae44f50725125b81294c56b7a2b947` |
 | `output/translations/songofsongs_05.json` | `f4bd7e92b6fb12c143c6ff02cbe193e24cb8c941d4fb0d32c8ff0c177312992b` |
 | `output/translations/songofsongs_06.json` | `3aeb76da872e5fea02bc58cb0db99954bde3b8f384ca0d0f78065a3453e31690` |
+| `output/translations/songofsongs_07.json` | `39c14d77d53a07da71bcc82fda15deff2921444520bd2998f435157c90e1df29` |
 
