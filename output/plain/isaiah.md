@@ -1,6 +1,6 @@
 # อิสยาห์
 
-_Isaiah — 14 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
+_Isaiah — 15 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
 
 _This **plain edition** shows only the Thai translation — no commentary, no Greek, no English. Intended for Thai scholars and theological reviewers evaluating the translation on its own terms. For the annotated edition with contextual summaries (บริบท), see `output/reader/isaiah.md`. For the underlying Greek, English (BSB) reference, and translator decisions per verse, see the per-chapter review reports at `output/check_reports/isaiah_NN_review.md` or the source JSON at `output/translations/`._
 
@@ -800,6 +800,28 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 ---
 
+## บทที่ 15
+
+**1** ครุวาทว่าด้วยโมอับ: เพราะในคืนเดียว เมืองอาร์แห่งโมอับก็ถูกทำลายล้างจนสิ้น! เพราะในคืนเดียว เมืองคีร์แห่งโมอับก็ถูกทำลายล้างจนสิ้น!
+
+**2** ดีโบนขึ้นไปยังวิหารของตน ขึ้นไปยังปูชนียสถานสูงเพื่อร่ำไห้ โมอับโหยไห้คร่ำครวญเหนือเนโบและเหนือเมเดบา ทุกศีรษะก็โล้นเลี่ยน ทุกหนวดเคราก็ถูกโกนทิ้ง
+
+**3** ตามถนนหนทาง พวกเขาสวมผ้ากระสอบ บนดาดฟ้าหลังคาและตามลานเมือง ทุกคนโหยไห้คร่ำครวญ ทรุดลงร่ำไห้
+
+**4** เฮชโบนและเอลอาเลห์ส่งเสียงร้อง เสียงของพวกเขาได้ยินไปไกลถึงยาฮาส เพราะฉะนั้นเหล่าทหารของโมอับจึงร้องโหยไห้ จิตใจของพวกเขาหวาดหวั่นสะท้านกลัว
+
+**5** ใจของข้าพเจ้าร้องไห้เพื่อโมอับ ผู้ลี้ภัยของเธอหนีไปไกลถึงโศอาร์ ถึงเอกลัทเชลีชิยาห์ พวกเขาขึ้นทางชันแห่งลูฮีทพลางร้องไห้พลางไป บนเส้นทางสู่โฮโรนาอิม พวกเขาเปล่งเสียงร่ำไห้ต่อความพินาศ
+
+**6** เพราะธารน้ำแห่งนิมริมก็เหือดแห้งเป็นที่ร้าง หญ้าก็เหี่ยวเฉา พืชเขียวก็หมดไป ความเขียวขจีไม่มีเหลืออยู่เลย
+
+**7** เพราะฉะนั้นพวกเขาจึงแบกทรัพย์สมบัติที่หามาได้และข้าวของของพวกเขา ข้ามธารต้นหลิวไป
+
+**8** เพราะเสียงร้องนั้นดังก้องไปทั่วพรมแดนแห่งโมอับ เสียงโหยไห้ของเธอไปถึงเอกลาอิม เสียงคร่ำครวญของเธอไปถึงเบเออร์เอลิม
+
+**9** เพราะน้ำแห่งดีโมนเต็มไปด้วยโลหิต แต่เราจะนำสิ่งที่หนักกว่านั้นมาเหนือดีโมนอีก คือสิงโตตัวหนึ่งมาเหนือผู้ลี้ภัยแห่งโมอับ และเหนือคนที่เหลืออยู่ในแผ่นดินนั้น
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -820,4 +842,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/isaiah_12.json` | `71808c84dd02f7391de8105658008c8c404dd85eebd25d2711d75a55974a4e0d` |
 | `output/translations/isaiah_13.json` | `1811030af23950b4b55f3494ed50b87e6cd0d0c95960fb6feb214c5e4c9a98ed` |
 | `output/translations/isaiah_14.json` | `1b94c362f36fb0b65b0a191593c10b1cd77e2dc967a5bc31480481db622ae048` |
+| `output/translations/isaiah_15.json` | `61b660b1a98a90dc2f24a6f2e69e1105deb18d87a1279e1003a3038d33504ff0` |
 
