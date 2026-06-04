@@ -1,6 +1,6 @@
 # อิสยาห์
 
-_Isaiah — 17 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
+_Isaiah — 18 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
 
 _This **plain edition** shows only the Thai translation — no commentary, no Greek, no English. Intended for Thai scholars and theological reviewers evaluating the translation on its own terms. For the annotated edition with contextual summaries (บริบท), see `output/reader/isaiah.md`. For the underlying Greek, English (BSB) reference, and translator decisions per verse, see the per-chapter review reports at `output/check_reports/isaiah_NN_review.md` or the source JSON at `output/translations/`._
 
@@ -904,6 +904,33 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 ---
 
+## บทที่ 18
+
+**1** โอ้ แผ่นดินแห่งเสียงปีกหึ่งกระหึ่ม ที่อยู่ฟากข้างโน้นของแม่น้ำทั้งหลายแห่งคูช
+
+**2** ที่ส่งทูตไปทางทะเล ในเรือต้นกกเหนือผิวน้ำ ไปเถิด ผู้สื่อสารอันรวดเร็ว ไปยังชนชาติที่สูงใหญ่และผิวเกลี้ยงเกลา ไปยังชนชาติที่ถูกครั่นคร้ามทั้งใกล้และไกล ชนชาติที่แข็งแกร่งและพิชิตไปทั่ว ที่แผ่นดินของเขามีแม่น้ำหลายสายไหลผ่าน
+
+**3** ชาวพิภพทั้งปวงและผู้อาศัยบนแผ่นดินโลกเอ๋ย เมื่อธงสัญญาณถูกยกขึ้นบนภูเขาทั้งหลาย จงมองดู และเมื่อเป่าเขาสัตว์ จงฟังเถิด
+
+**4** เพราะองค์พระผู้เป็นเจ้าตรัสกับข้าพเจ้าดังนี้ว่า “เราจะนิ่งสงบและเฝ้ามองจากที่ประทับของเรา ดั่งไอแดดระยิบเหนือแสงตะวัน ดั่งหมอกน้ำค้างในความร้อนแห่งฤดูเกี่ยว”
+
+**5** เพราะก่อนถึงฤดูเกี่ยว เมื่อดอกผลิบานร่วงไปแล้ว และดอกนั้นกำลังกลายเป็นองุ่นสุกงอม พระองค์จะทรงตัดกิ่งแขนงทิ้งด้วยมีดลิดแขนง และทรงเอากิ่งที่เลื้อยแผ่ออกไปตัดออกเสีย
+
+**6** พวกมันทั้งหมดจะถูกทิ้งไว้ให้แก่เหยี่ยวรุ้งแห่งภูเขาและสัตว์ป่าแห่งแผ่นดินโลก ฝูงเหยี่ยวจะกินมันตลอดฤดูร้อน และสัตว์ป่าทั้งปวงแห่งแผ่นดินโลกจะกินมันตลอดฤดูหนาว
+
+**7** ในเวลานั้น บรรณาการจะถูกนำมาถวายแด่องค์พระผู้เป็นเจ้าจอมโยธา จากชนชาติที่สูงใหญ่และผิวเกลี้ยงเกลา จากชนชาติที่ถูกครั่นคร้ามทั้งใกล้และไกล ชนชาติที่แข็งแกร่งและพิชิตไปทั่ว ที่แผ่นดินของเขามีแม่น้ำหลายสายไหลผ่าน — มายังสถานแห่งพระนามขององค์พระผู้เป็นเจ้าจอมโยธา คือภูเขาศิโยน
+
+---
+
+### หมายเหตุด้านต้นฉบับ
+
+**ข้อ 4** — หมายเหตุการแปลพระนามของพระเจ้า
+
+_**องค์พระผู้เป็นเจ้า** ในบทนี้ (ปรากฏครั้งแรกที่ข้อ 4) แปลจากภาษาฮีบรู יהוה (พระนามเฉพาะของพระเจ้า ออกเสียงโดยทั่วไปว่า ‘ยาห์เวห์’). ฉบับเอเรโมสใช้ **องค์พระผู้เป็นเจ้า** ตามแบบแผนของฉบับพันธสัญญาใหม่ที่แปล κύριος ซึ่งในต้นฉบับฮีบรูตรงกับ יהוה. ดูรายละเอียดที่ docs/translator_decisions/divine_names_table_2026-05.md._
+
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -927,4 +954,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/isaiah_15.json` | `61b660b1a98a90dc2f24a6f2e69e1105deb18d87a1279e1003a3038d33504ff0` |
 | `output/translations/isaiah_16.json` | `3ed556695acfa1043e170f524ab89d5d4debd29b6a8e04fd40fb7d382c3ff81d` |
 | `output/translations/isaiah_17.json` | `6d5cdaae5401c4715b6d0109fd5025666ab814d728876ec1a7fd2c3f255a8e38` |
+| `output/translations/isaiah_18.json` | `4ed8b97239d84eef4afdda81c7e71ba93f179971a7dd47588e73f74708ce79b6` |
 
