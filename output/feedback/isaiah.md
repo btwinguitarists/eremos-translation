@@ -1,6 +1,6 @@
 # อิสยาห์
 
-_Isaiah — 19 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
+_Isaiah — 20 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
 
 _This **feedback edition** is the plain Thai translation with a `>` placeholder block under each verse for reviewer comments. **See the instructions immediately below before reading.** For the annotated edition (with contextual summaries), see `output/reader/isaiah.md`; for the verses-only edition (no comment blocks), see `output/plain/isaiah.md`._
 
@@ -1766,6 +1766,43 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 ---
 
+## บทที่ 20
+
+**1** ในปีที่ทารทานมายังอัชโดด เมื่อซาร์โกนกษัตริย์แห่งอัสซีเรียส่งเขามา และเขาได้สู้รบกับอัชโดดและยึดเมืองได้
+
+> ___
+
+**2** ในเวลานั้น องค์พระผู้เป็นเจ้าได้ตรัสผ่านอิสยาห์บุตรของอาโมศว่า “จงไปเถิด จงแก้ผ้ากระสอบออกจากเอวของเจ้า และถอดรองเท้าออกจากเท้าของเจ้า” เขาก็ทำตามนั้น เดินไปอย่างเปลือยกายและเท้าเปล่า
+
+> ___
+
+**3** แล้วองค์พระผู้เป็นเจ้าตรัสว่า “อย่างที่อิสยาห์ผู้รับใช้ของเราได้เดินเปลือยกายและเท้าเปล่าเป็นเวลาสามปี เพื่อเป็นหมายสำคัญและเครื่องบ่งชี้ต่ออียิปต์และต่อคูช
+
+> ___
+
+**4** กษัตริย์แห่งอัสซีเรียก็จะนำเชลยแห่งอียิปต์และผู้ถูกกวาดต้อนแห่งคูชไปอย่างนั้น ทั้งคนหนุ่มและคนชรา เปลือยกายและเท้าเปล่า เปลือยถึงก้น เป็นความอัปยศแห่งอียิปต์
+
+> ___
+
+**5** แล้วพวกเขาจะคร้ามกลัวและอับอาย เพราะคูชที่พวกเขาหมายพึ่ง และเพราะอียิปต์ที่พวกเขาอวดอ้าง
+
+> ___
+
+**6** และในวันนั้น ชาวฝั่งทะเลนี้จะกล่าวว่า ‘ดูเถิด นี่คือสิ่งที่เกิดแก่ที่หมายพึ่งของเรา ที่ซึ่งเราหนีไปขอความช่วยเหลือให้พ้นจากกษัตริย์แห่งอัสซีเรีย แล้วตัวเราจะหนีรอดได้อย่างไรเล่า?’”
+
+> ___
+
+---
+
+### หมายเหตุด้านต้นฉบับ
+
+**ข้อ 2** — หมายเหตุการแปลพระนามของพระเจ้า
+
+_**องค์พระผู้เป็นเจ้า** ในบทนี้ (ปรากฏครั้งแรกที่ข้อ 2) แปลจากภาษาฮีบรู יהוה (พระนามเฉพาะของพระเจ้า ออกเสียงโดยทั่วไปว่า ‘ยาห์เวห์’). ฉบับเอเรโมสใช้ **องค์พระผู้เป็นเจ้า** ตามแบบแผนของฉบับพันธสัญญาใหม่ที่แปล κύριος ซึ่งในต้นฉบับฮีบรูตรงกับ יהוה. ดูรายละเอียดที่ docs/translator_decisions/divine_names_table_2026-05.md._
+
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -1791,4 +1828,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/isaiah_17.json` | `6d5cdaae5401c4715b6d0109fd5025666ab814d728876ec1a7fd2c3f255a8e38` |
 | `output/translations/isaiah_18.json` | `4ed8b97239d84eef4afdda81c7e71ba93f179971a7dd47588e73f74708ce79b6` |
 | `output/translations/isaiah_19.json` | `b20d52e91c89c64de5d5ae8e832f75be69b0c22843320238e8d45fb815422a56` |
+| `output/translations/isaiah_20.json` | `46d6a2be5b7fe027d602a804fd7ecddcfe3c34a6fcc2cd31754e86da581e0a3a` |
 
