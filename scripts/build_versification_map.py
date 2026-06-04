@@ -280,6 +280,38 @@ def build_ecclesiastes_entries() -> dict[str, dict]:
     return entries
 
 
+def build_songofsongs_entries() -> dict[str, dict]:
+    """Song of Songs: MT 7:1 = English 6:13 ('Return, O Shulammite' ends English
+    ch.6), so MT 7:1-14 = English 6:13 + 7:1-13. LXX follows MT.
+    Registered 2026-06-04 when SNG 7 entered translation."""
+    entries: dict[str, dict] = {
+        "SNG-7-1": {
+            "mt_book": "SNG",
+            "mt_chapter": 7,
+            "mt_verse": 1,
+            "mt_ref": "Song of Songs 7:1",
+            "english_ref": "Song of Songs 6:13",
+            "bsb_ref": "Song of Songs 6:13",
+            "lxx_ref": "Song of Songs 7:1",
+            "diverges": True,
+            "note": "MT begins ch.7 here; English ends ch.6 — shift continues through MT 7:2-14 = English 7:1-13.",
+        },
+    }
+    for mt_v in range(2, 15):  # MT 7:2..7:14 = English 7:1..7:13
+        eng_v = mt_v - 1
+        entries[f"SNG-7-{mt_v}"] = {
+            "mt_book": "SNG",
+            "mt_chapter": 7,
+            "mt_verse": mt_v,
+            "mt_ref": f"Song of Songs 7:{mt_v}",
+            "english_ref": f"Song of Songs 7:{eng_v}",
+            "bsb_ref": f"Song of Songs 7:{eng_v}",
+            "lxx_ref": f"Song of Songs 7:{mt_v}",
+            "diverges": True,
+        }
+    return entries
+
+
 def main():
     parser = argparse.ArgumentParser(description="Build data/versification_map.json")
     parser.add_argument("--dry-run", action="store_true", help="Print summary; do not write file")
@@ -291,6 +323,7 @@ def main():
     aramaic_entries = build_aramaic_boundary_entries()
     minor_entries = build_minor_shift_entries()
     ecc_entries = build_ecclesiastes_entries()
+    sng_entries = build_songofsongs_entries()
 
     out = {
         "_meta": {
@@ -316,6 +349,7 @@ def main():
     out.update(aramaic_entries)
     out.update(minor_entries)
     out.update(ecc_entries)
+    out.update(sng_entries)
 
     # MERGE-PRESERVE (2026-06-03): the live map contains zones backfilled
     # directly into the JSON during book ships, outside this script
@@ -340,6 +374,7 @@ def main():
     print(f"Aramaic boundary markers: {len(aramaic_entries)}")
     print(f"Minor shift entries: {len(minor_entries)}")
     print(f"Ecclesiastes divergence entries: {len(ecc_entries)}")
+    print(f"Song of Songs divergence entries: {len(sng_entries)}")
     print(f"Preserved backfilled entries: {preserved}")
     print(f"TOTAL: {out['_total_entries']}")
 
