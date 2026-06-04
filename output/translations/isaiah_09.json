@@ -1,0 +1,637 @@
+[
+  {
+    "reference": "Isaiah 9:1",
+    "chapter": 9,
+    "verse": 1,
+    "language": "hebrew",
+    "hebrew": "הָעָם֙ הַהֹלְכִ֣ים בַּחֹ֔שֶׁךְ רָא֖וּ א֣וֹר גָּד֑וֹל יֹשְׁבֵי֙ בְּאֶ֣רֶץ צַלְמָ֔וֶת א֖וֹר נָגַ֥הּ עֲלֵיהֶֽם׃",
+    "bsb_english": "The people walking in darkness have seen a great light; on those living in the land of the shadow of death, a light has dawned.",
+    "versification": {
+      "mt_ref": "Isaiah 9:1",
+      "english_ref": "Isaiah 9:2",
+      "bsb_ref": "Isaiah 9:2",
+      "lxx_ref": "Isaiah 9:1",
+      "diverges": true
+    },
+    "translation": {
+      "thai": "ประชาชนที่ดำเนินในความมืดได้เห็นแสงสว่างอันยิ่งใหญ่ แสงสว่างได้ส่องลงเหนือบรรดาผู้อาศัยในแผ่นดินแห่งเงามัจจุราช",
+      "thai_literal": null,
+      "thai_summary": "ความมืดทึบที่ปิดท้ายบทที่ 8 ถูกฉีกออกในประโยคแรก: แสงอรุณที่พวกทรงเจ้าให้ไม่ได้ (8:20) สาดลงเหนือกาลิลีก่อนใคร — มัทธิว 4:16 ประกาศว่าแสงนั้นขึ้นแล้วจริง เมื่อพระเยซูทรงย้ายมาประทับที่คาเปอรนาอุม",
+      "key_decisions": [
+        {
+          "hebrew": "הָעָם הַהֹלְכִים בַּחֹשֶׁךְ רָאוּ אוֹר גָּדוֹל",
+          "rendering": "ประชาชนที่ดำเนินในความมืดได้เห็นแสงสว่างอันยิ่งใหญ่",
+          "rationale": "Harmonized with shipped MAT 4:16 (แสงสว่างอันยิ่งใหญ่): the quote-vocabulary aligned; MT's הַהֹלְכִים ‘walking’ rendered ดำเนิน (Matthew's Greek has ‘sitting/dwelling’ — อาศัย — the MT/LXX difference documented, each text rendered faithfully)."
+        },
+        {
+          "hebrew": "בְּאֶרֶץ צַלְמָוֶת",
+          "rendering": "ในแผ่นดินแห่งเงามัจจุราช",
+          "rationale": "ṣalmāwet → เงามัจจุราช matching shipped MAT 4:16 and the Psalter family (Ps 23:4) — the death-shadow compound kept."
+        }
+      ],
+      "notes": "VERSIFICATION: MT 9:1 = English 9:2 (whole-chapter offset; versification sub-objects throughout). NT reception: Matt 4:15–16."
+    }
+  },
+  {
+    "reference": "Isaiah 9:2",
+    "chapter": 9,
+    "verse": 2,
+    "language": "hebrew",
+    "hebrew": "הִרְבִּ֣יתָ הַגּ֔וֹי ל֖וֹ הִגְדַּ֣לְתָּ הַשִּׂמְחָ֑ה שָׂמְח֤וּ לְפָנֶ֙יךָ֙ כְּשִׂמְחַ֣ת בַּקָּצִ֔יר כַּאֲשֶׁ֥ר יָגִ֖ילוּ בְּחַלְּקָ֥ם שָׁלָֽל׃",
+    "bsb_english": "You have enlarged the nation and increased its joy. The people rejoice before You as they rejoice at harvest time, as men rejoice in dividing the plunder.",
+    "versification": {
+      "mt_ref": "Isaiah 9:2",
+      "english_ref": "Isaiah 9:3",
+      "bsb_ref": "Isaiah 9:3",
+      "lxx_ref": "Isaiah 9:2",
+      "diverges": true
+    },
+    "translation": {
+      "thai": "พระองค์ได้ทรงทวีชนชาตินั้น ทรงเพิ่มพูนความยินดีของพวกเขา พวกเขาเปรมปรีดิ์ต่อพระพักตร์พระองค์ ดั่งความยินดีในฤดูเกี่ยวข้าว ดั่งคนเปรมปรีดิ์เมื่อแบ่งของที่ริบมาได้",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "הִגְדַּלְתָּ הַגּוֹי לוֹ הִגְדַּלְתָּ הַשִּׂמְחָה",
+          "rendering": "ทรงทวีชนชาตินั้น ทรงเพิ่มพูนความยินดีของพวกเขา",
+          "rationale": "Famous ketiv/qere: ketiv לֹא (‘not increased the joy’) vs qere לוֹ (‘increased the joy FOR IT’) — qere followed (with BSB/all majors); the ketiv documented. The harvest/spoil joy-pair anticipates the spoil-name child (8:1) inverted to gladness."
+        }
+      ],
+      "notes": "Two joy-similes: harvest (קָצִיר) and spoil-division (שָׁלָל — the Maher-shalal noun, now joy!). ketiv/qere recorded per check_ketib_qere convention."
+    }
+  },
+  {
+    "reference": "Isaiah 9:3",
+    "chapter": 9,
+    "verse": 3,
+    "language": "hebrew",
+    "hebrew": "כִּ֣י ׀ אֶת־עֹ֣ל סֻבֳּל֗וֹ וְאֵת֙ מַטֵּ֣ה שִׁכְמ֔וֹ שֵׁ֖בֶט הַנֹּגֵ֣שׂ בּ֑וֹ הַחִתֹּ֖תָ כְּי֥וֹם מִדְיָֽן׃",
+    "bsb_english": "For as in the day of Midian You have shattered the yoke of their burden, the bar across their shoulders, and the rod of their oppressor.",
+    "versification": {
+      "mt_ref": "Isaiah 9:3",
+      "english_ref": "Isaiah 9:4",
+      "bsb_ref": "Isaiah 9:4",
+      "lxx_ref": "Isaiah 9:3",
+      "diverges": true
+    },
+    "translation": {
+      "thai": "เพราะแอกอันหนักอึ้งของเขา ไม้คานบนบ่าของเขา และไม้ตะบองของผู้กดขี่เขา พระองค์ได้ทรงหักเสียแล้วดั่งในวันแห่งมีเดียน",
+      "thai_literal": null,
+      "thai_summary": "‘วันแห่งมีเดียน’ คือชัยชนะของกิดโอน (ผู้วินิจฉัย 7) — สามร้อยคนกับโคมไฟ ไม่มีดาบของมนุษย์สักเล่ม: ชัยชนะที่พระเจ้าทรงทำเองล้วนๆ การปลดแอกของเด็กคนนี้จะเป็นแบบนั้น — ไม่ใช่ด้วยกำลังทัพ",
+      "key_decisions": [
+        {
+          "hebrew": "כְּיוֹם מִדְיָן",
+          "rendering": "ดั่งในวันแห่งมีเดียน",
+          "rationale": "Gideon's Midian-rout (Jdg 7, shipped มีเดียน) — the no-human-sword victory paradigm: the yoke breaks the way Midian fell, by God's hand alone; the allusion grounds v. 4's burned war-gear."
+        },
+        {
+          "hebrew": "אֶת־עֹל סֻבֳּלוֹ וְאֵת מַטֵּה שִׁכְמוֹ",
+          "rendering": "แอกอันหนักอึ้งของเขา ไม้คานบนบ่าของเขา",
+          "rationale": "Yoke/bar/rod triplet — the oppression-hardware (recurs 10:27 ‘the yoke will be broken’ and 14:25); שְׁכֶם ‘shoulder’ → บ่า — the same shoulder the government rests on in v. 5: burden-bar swapped for rightful rule; the shoulder-link documented."
+        }
+      ],
+      "notes": "Prophetic perfects (ทรงหักเสียแล้ว) — the future victory grammatically done."
+    }
+  },
+  {
+    "reference": "Isaiah 9:4",
+    "chapter": 9,
+    "verse": 4,
+    "language": "hebrew",
+    "hebrew": "כִּ֤י כָל־סְאוֹן֙ סֹאֵ֣ן בְּרַ֔עַשׁ וְשִׂמְלָ֖ה מְגוֹלָלָ֣ה בְדָמִ֑ים וְהָיְתָ֥ה לִשְׂרֵפָ֖ה מַאֲכֹ֥לֶת אֵֽשׁ׃",
+    "bsb_english": "For every trampling boot of battle and every garment rolled in blood will be burned as fuel for the fire.",
+    "versification": {
+      "mt_ref": "Isaiah 9:4",
+      "english_ref": "Isaiah 9:5",
+      "bsb_ref": "Isaiah 9:5",
+      "lxx_ref": "Isaiah 9:4",
+      "diverges": true
+    },
+    "translation": {
+      "thai": "เพราะรองเท้าทหารทุกคู่ที่กระทืบในศึกสงคราม และเสื้อคลุมทุกตัวที่เกลือกกลั้วในโลหิต จะถูกเผาเป็นเชื้อเพลิงให้แก่ไฟ",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "כִּי כָל־סְאוֹן סֹאֵן בְּרַעַשׁ",
+          "rendering": "รองเท้าทหารทุกคู่ที่กระทืบในศึกสงคราม",
+          "rationale": "hapax — səʾôn (Akkadian loanword šēnu ‘soldier's boot’) + its cognate verb: the tramping jackboot; รองเท้าทหาร…กระทืบ keeps both noun and onomatopoeic verb."
+        }
+      ],
+      "notes": "War-gear bonfire = total demobilization (cf. 2:4): the Midian-style victory needs no stockpiles. โลหิต for battle-gore per the bloodshed register."
+    }
+  },
+  {
+    "reference": "Isaiah 9:5",
+    "chapter": 9,
+    "verse": 5,
+    "language": "hebrew",
+    "hebrew": "כִּי־יֶ֣לֶד יֻלַּד־לָ֗נוּ בֵּ֚ן נִתַּן־לָ֔נוּ וַתְּהִ֥י הַמִּשְׂרָ֖ה עַל־שִׁכְמ֑וֹ וַיִּקְרָ֨א שְׁמ֜וֹ פֶּ֠לֶא יוֹעֵץ֙ אֵ֣ל גִּבּ֔וֹר אֲבִי עַ֖ד שַׂר־שָׁלֽוֹם׃",
+    "bsb_english": "For unto us a child is born, unto us a son is given, and the government will be upon His shoulders. And He will be called Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace.",
+    "versification": {
+      "mt_ref": "Isaiah 9:5",
+      "english_ref": "Isaiah 9:6",
+      "bsb_ref": "Isaiah 9:6",
+      "lxx_ref": "Isaiah 9:5",
+      "diverges": true
+    },
+    "translation": {
+      "thai": "เพราะมีเด็กคนหนึ่งเกิดมาเพื่อเรา มีบุตรชายคนหนึ่งประทานแก่เรา และการปกครองจะอยู่บนบ่าของท่าน และเขาจะขนานนามของท่านว่า ที่ปรึกษามหัศจรรย์ พระเจ้าผู้ทรงฤทธิ์ พระบิดานิรันดร์ องค์สันติราช",
+      "thai_literal": null,
+      "thai_summary": "เหตุผลสุดท้ายและลึกที่สุดของแสงสว่าง: เด็กคนหนึ่ง ‘เกิดมาเพื่อเรา’ พระนามสี่ชั้นเกินกว่ากษัตริย์มนุษย์คนใดจะแบกได้ — โดยเฉพาะ ‘พระเจ้าผู้ทรงฤทธิ์’ ซึ่งอิสยาห์ใช้เรียกพระยาห์เวห์เองในบทถัดไป (10:21) — คริสตจักรอ่านพระนามเหล่านี้สำเร็จในพระเยซูคริสต์",
+      "key_decisions": [
+        {
+          "hebrew": "כִּי־יֶלֶד יֻלַּד־לָנוּ בֵּן נִתַּן־לָנוּ",
+          "rendering": "เพราะมีเด็กคนหนึ่งเกิดมาเพื่อเรา มีบุตรชายคนหนึ่งประทานแก่เรา",
+          "rationale": "Passives: born / GIVEN (נִתַּן — the divine-gift passive) → ประทาน; ‘to us’ ×2 → เพื่อเรา/แก่เรา — the community receives what it could not produce. The birth answers 7:14's sign-grammar (child, born, named)."
+        },
+        {
+          "hebrew": "פֶּלֶא יוֹעֵץ אֵל גִּבּוֹר אֲבִיעַד שַׂר־שָׁלוֹם",
+          "rendering": "ที่ปรึกษามหัศจรรย์ พระเจ้าผู้ทรงฤทธิ์ พระบิดานิรันดร์ องค์สันติราช",
+          "rationale": "Four throne-names, each locked: (1) peleʾ yôʿēṣ → ที่ปรึกษามหัศจรรย์ — yôʿēṣ is 1:26's restored-counselor word (the counselor Jerusalem lost returns in person); pele = the wonder-word of God's own acts. (2) ʾēl gibbôr → พระเจ้าผู้ทรงฤทธิ์ — LOCKED for the 10:21 recurrence (where the title is YHWH's beyond dispute); surface deliberately distinct from Shaddai's องค์ผู้ทรงมหิทธิฤทธิ์; gibbôr elsewhere = วีรบุรุษ (3:2; 5:22 ironic) — here the divine warrior in earnest. (3) ʾăvîʿad ‘Father of eternity’ → พระบิดานิรันดร์. (4) śar-šālôm → องค์สันติราช — śar is the princes-word (1:23; 3:14 เจ้านาย, the corrupt ones): the true Prince vs the failed เจ้านาย, title-register องค์- per Thai Christian usage; the śar-link documented."
+        },
+        {
+          "hebrew": "וַתְּהִי הַמִּשְׂרָה עַל־שִׁכְמוֹ",
+          "rendering": "การปกครองจะอยู่บนบ่าของท่าน",
+          "rationale": "miśrâ ‘government/dominion’ (only here and v. 6 in the OT) → การปกครอง; on his SHOULDER (שְׁכֶם — v. 3's burden-shoulder): where the oppressor's bar lay, rightful rule now rests. Child referenced ท่าน in the birth-frame; full royal register from v. 6's reign-description."
+        }
+      ],
+      "notes": "VERSIFICATION: MT 9:5 = English 9:6. NT reception: the church reads the four names christologically (Luke 1:32–33 echoes v. 6's throne-of-David clause); the Eremos rendering keeps the names' Hebrew weight without inserting NT vocabulary."
+    }
+  },
+  {
+    "reference": "Isaiah 9:6",
+    "chapter": 9,
+    "verse": 6,
+    "language": "hebrew",
+    "hebrew": "לְמַרְבֵּ֨ה הַמִּשְׂרָ֜ה וּלְשָׁל֣וֹם אֵֽין־קֵ֗ץ עַל־כִּסֵּ֤א דָוִד֙ וְעַל־מַמְלַכְתּ֔וֹ לְהָכִ֤ין אֹתָהּ֙ וּֽלְסַעֲדָ֔הּ בְּמִשְׁפָּ֖ט וּבִצְדָקָ֑ה מֵעַתָּה֙ וְעַד־עוֹלָ֔ם קִנְאַ֛ת יְהוָ֥ה צְבָא֖וֹת תַּעֲשֶׂה־זֹּֽאת׃",
+    "bsb_english": "Of the increase of His government and peace there will be no end. He will reign on the throne of David and over his kingdom, to establish and sustain it with justice and righteousness from that time and forevermore. The zeal of the LORD of Hosts will accomplish this.",
+    "versification": {
+      "mt_ref": "Isaiah 9:6",
+      "english_ref": "Isaiah 9:7",
+      "bsb_ref": "Isaiah 9:7",
+      "lxx_ref": "Isaiah 9:6",
+      "diverges": true
+    },
+    "translation": {
+      "thai": "การปกครองของพระองค์จะเพิ่มพูนอย่างไม่มีที่สิ้นสุด และสันติภาพจะไม่มีวันจบสิ้น เหนือพระที่นั่งของดาวิดและเหนือราชอาณาจักรของพระองค์ เพื่อสถาปนาและค้ำชูมันไว้ด้วยความยุติธรรมและความชอบธรรม ตั้งแต่บัดนี้สืบไปเป็นนิตย์ ความกระตือรือร้นขององค์พระผู้เป็นเจ้าจอมโยธาจะกระทำการนี้",
+      "thai_literal": null,
+      "thai_summary": "ราชบัลลังก์ดาวิดที่สั่นคลอนในบทที่ 7 ได้ผู้ครองนิรันดร์ — และประโยคปิด ‘ความกระตือรือร้นขององค์พระผู้เป็นเจ้าจอมโยธาจะกระทำการนี้’ คือประโยคเดียวกับที่ค้ำคำสัญญาเรื่องคนที่เหลือใน 2 พงศ์กษัตริย์ 19:31: สิ่งนี้สำเร็จเพราะพระเจ้าทรงหวงแหน ไม่ใช่เพราะมนุษย์ทำได้",
+      "key_decisions": [
+        {
+          "hebrew": "קִנְאַת יְהוָה צְבָאוֹת תַּעֲשֶׂה־זֹּאת",
+          "rendering": "ความกระตือรือร้นขององค์พระผู้เป็นเจ้าจอมโยธาจะกระทำการนี้",
+          "rationale": "Byte-matches shipped 2KI 19:31 (the identical Hebrew zeal-formula) — the two occurrences of קִנְאַת יהוה צבאות תעשה־זאת in the canon now share one Thai surface; qinʾâ ‘zeal/jealous ardor’ → ความกระตือรือร้น per that precedent. Layer 1: יהוה צבאות."
+        },
+        {
+          "hebrew": "לְםַרְבֵּה הַמִּשְׂרָה",
+          "rendering": "การปกครองของพระองค์จะเพิ่มพูน",
+          "rationale": "Scribal curiosity: MT writes a CLOSED mem mid-word (לְםַרְבֵּה) — unique in the Hebrew Bible; rabbinic tradition read significance into it. Morphology noted; sense ‘of the increase of the government’ rendered plainly. miśrâ → การปกครอง matching v. 5."
+        }
+      ],
+      "notes": "VERSIFICATION: MT 9:6 = English 9:7. עַל־כִּסֵּא דָוִד ‘on the throne of David’ → พระที่นั่งของดาวิด — the 2 Sam 7 charter; justice/righteousness (the 5:7 dashed pair) become the throne's footing."
+    }
+  },
+  {
+    "reference": "Isaiah 9:7",
+    "chapter": 9,
+    "verse": 7,
+    "language": "hebrew",
+    "hebrew": "דָּבָ֛ר שָׁלַ֥ח אֲדֹנָ֖י בְּיַעֲקֹ֑ב וְנָפַ֖ל בְּיִשְׂרָאֵֽל׃",
+    "bsb_english": "The Lord has sent a message against Jacob, and it has fallen upon Israel.",
+    "versification": {
+      "mt_ref": "Isaiah 9:7",
+      "english_ref": "Isaiah 9:8",
+      "bsb_ref": "Isaiah 9:8",
+      "lxx_ref": "Isaiah 9:7",
+      "diverges": true
+    },
+    "translation": {
+      "thai": "องค์เจ้านายได้ทรงส่งพระวจนะมายังยาโคบ และมันได้ตกลงเหนืออิสราเอล",
+      "thai_literal": null,
+      "thai_summary": "บทเพลงแห่งพระหัตถ์ที่ยังเหยียดอยู่เริ่มต้นที่นี่ (ถึง 10:4): สี่ท่อน แต่ละท่อนปิดด้วยประโยคซ้ำเดียวกัน — คำเตือนที่อิสราเอลเหนือไม่ฟัง และยูดาห์กำลังจะไม่ฟังเหมือนกัน",
+      "key_decisions": [
+        {
+          "hebrew": "דָּבָר שָׁלַח אֲדֹנָי בְּיַעֲקֹב",
+          "rendering": "องค์เจ้านายได้ทรงส่งพระวจนะมายังยาโคบ",
+          "rationale": "אֲדֹנָי third-person → องค์เจ้านาย (4-way table); the sent word ‘falls’ (נָפַל) like a missile — word as projectile, the poem's premise: prophecy lands whether heeded or not."
+        }
+      ],
+      "notes": "VERSIFICATION: MT 9:7 = English 9:8. The wrath-cycle poem (MT 9:7–10:4): four strophes, each sealed with the R_HAND refrain."
+    }
+  },
+  {
+    "reference": "Isaiah 9:8",
+    "chapter": 9,
+    "verse": 8,
+    "language": "hebrew",
+    "hebrew": "וְיָדְעוּ֙ הָעָ֣ם כֻּלּ֔וֹ אֶפְרַ֖יִם וְיוֹשֵׁ֣ב שֹׁמְר֑וֹן בְּגַאֲוָ֛ה וּבְגֹ֥דֶל לֵבָ֖ב לֵאמֹֽר׃",
+    "bsb_english": "All the people will know it—Ephraim and the dwellers of Samaria. With pride and arrogance of heart they will say:",
+    "versification": {
+      "mt_ref": "Isaiah 9:8",
+      "english_ref": "Isaiah 9:9",
+      "bsb_ref": "Isaiah 9:9",
+      "lxx_ref": "Isaiah 9:8",
+      "diverges": true
+    },
+    "translation": {
+      "thai": "และประชาชนทั้งหมดจะรู้ — คือเอฟราอิมและชาวสะมาเรีย — ที่กล่าวด้วยความเย่อหยิ่งและด้วยใจจองหองว่า",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "בְּגַאֲוָה וּבְגֹדֶל לֵבָב",
+          "rendering": "ด้วยความเย่อหยิ่งและด้วยใจจองหอง",
+          "rationale": "gaʾăwâ — the ch. 2 pride-lexicon (เย่อหยิ่ง) + ‘greatness of heart’ → ใจจองหอง: the northern kingdom's reconstruction-bravado named as the pride the Day levels."
+        }
+      ],
+      "notes": "VERSIFICATION: MT 9:8 = English 9:9."
+    }
+  },
+  {
+    "reference": "Isaiah 9:9",
+    "chapter": 9,
+    "verse": 9,
+    "language": "hebrew",
+    "hebrew": "לְבֵנִ֥ים נָפָ֖לוּ וְגָזִ֣ית נִבְנֶ֑ה שִׁקְמִ֣ים גֻּדָּ֔עוּ וַאֲרָזִ֖ים נַחֲלִֽיף׃",
+    "bsb_english": "“The bricks have fallen, but we will rebuild with finished stone; the sycamores have been felled, but we will replace them with cedars.”",
+    "versification": {
+      "mt_ref": "Isaiah 9:9",
+      "english_ref": "Isaiah 9:10",
+      "bsb_ref": "Isaiah 9:10",
+      "lxx_ref": "Isaiah 9:9",
+      "diverges": true
+    },
+    "translation": {
+      "thai": "“ก้อนอิฐพังลงแล้ว แต่เราจะสร้างขึ้นใหม่ด้วยหินสกัด ต้นมะเดื่อถูกโค่นลงแล้ว แต่เราจะเอาต้นสนสีดาร์มาปลูกแทน”",
+      "thai_literal": null,
+      "thai_summary": "คำขวัญฟื้นฟูชาติที่ฟังดูฮึกเหิม — พังก็สร้างใหม่ให้หรูกว่าเดิม — แต่ในหูของพระเจ้าคือเสียงปฏิเสธการตีสอน: แทนที่จะถามว่าทำไมอิฐถึงพัง พวกเขาสั่งหินสกัดมาแทน",
+      "key_decisions": [
+        {
+          "hebrew": "לְבֵנִים נָפָלוּ וְגָזִית נִבְנֶה",
+          "rendering": "ก้อนอิฐพังลงแล้ว แต่เราจะสร้างขึ้นใหม่ด้วยหินสกัด",
+          "rationale": "Brick→dressed-stone, sycamore→cedar: the upgrade-defiance couplet; גָזִית ‘hewn stone’ → หินสกัด, สนสีดาร์ per the Ps 29:5 lock. The quoted bravado in direct-speech marks."
+        }
+      ],
+      "notes": "VERSIFICATION: MT 9:9 = English 9:10."
+    }
+  },
+  {
+    "reference": "Isaiah 9:10",
+    "chapter": 9,
+    "verse": 10,
+    "language": "hebrew",
+    "hebrew": "וַיְשַׂגֵּ֧ב יְהוָ֛ה אֶת־צָרֵ֥י רְצִ֖ין עָלָ֑יו וְאֶת־אֹיְבָ֖יו יְסַכְסֵֽךְ׃",
+    "bsb_english": "The LORD has raised up the foes of Rezin against him and joined his enemies together.",
+    "versification": {
+      "mt_ref": "Isaiah 9:10",
+      "english_ref": "Isaiah 9:11",
+      "bsb_ref": "Isaiah 9:11",
+      "lxx_ref": "Isaiah 9:10",
+      "diverges": true
+    },
+    "translation": {
+      "thai": "แต่องค์พระผู้เป็นเจ้าได้ทรงหนุนบรรดาปฏิปักษ์ของเรซีนขึ้นมาต่อสู้พวกเขา และทรงปลุกเร้าศัตรูของพวกเขา",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้า",
+          "rationale": "יהוה → ‘องค์พระผู้เป็นเจ้า’ ตาม divine_names_table_2026-05.md (Layer 1)"
+        },
+        {
+          "hebrew": "אֶת־צָרֵי רְצִין",
+          "rendering": "บรรดาปฏิปักษ์ของเรซีน",
+          "rationale": "MT ‘the adversaries of Rezin’ (= Assyria, Rezin's foes, loosed on Israel too); some emend to שָׂרֵי ‘princes of’ — MT followed, conjecture documented (variant). ปฏิปักษ์ per the 1:24 adversary-vocabulary."
+        }
+      ],
+      "notes": "VERSIFICATION: MT 9:10 = English 9:11. Layer 1: יהוה."
+    }
+  },
+  {
+    "reference": "Isaiah 9:11",
+    "chapter": 9,
+    "verse": 11,
+    "language": "hebrew",
+    "hebrew": "אֲרָ֣ם מִקֶּ֗דֶם וּפְלִשְׁתִּים֙ מֵֽאָח֔וֹר וַיֹּאכְל֥וּ אֶת־יִשְׂרָאֵ֖ל בְּכָל־פֶּ֑ה בְּכָל־זֹאת֙ לֹא־שָׁ֣ב אַפּ֔וֹ וְע֖וֹד יָד֥וֹ נְטוּיָֽה׃",
+    "bsb_english": "Aram from the east and Philistia from the west have devoured Israel with open mouths. Despite all this, His anger is not turned away; His hand is still upraised.",
+    "versification": {
+      "mt_ref": "Isaiah 9:11",
+      "english_ref": "Isaiah 9:12",
+      "bsb_ref": "Isaiah 9:12",
+      "lxx_ref": "Isaiah 9:11",
+      "diverges": true
+    },
+    "translation": {
+      "thai": "คืออารัมจากทิศตะวันออกและฟีลิสเตียจากทิศตะวันตก พวกเขากลืนกินอิสราเอลด้วยปากที่อ้ากว้าง ถึงอย่างนั้นพระพิโรธของพระองค์ก็ยังไม่หันกลับ และพระหัตถ์ของพระองค์ยังคงเหยียดออกอยู่",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "בְּכָל־זֹאת לֹא־שָׁב אַפּוֹ וְעוֹד יָדוֹ נְטוּיָה",
+          "rendering": "ถึงอย่างนั้นพระพิโรธของพระองค์ก็ยังไม่หันกลับ และพระหัตถ์ของพระองค์ยังคงเหยียดออกอยู่",
+          "rationale": "The outstretched-hand refrain — byte-identical with its 5:25 debut (locked surface): the wrath-cycle's recurring gong (MT 9:11, 16, 20; 10:4). พระพิโรธ/พระหัตถ์ rachasap narrator voice."
+        },
+        {
+          "hebrew": "וַיֹּאכְלוּ אֶת־יִשְׂרָאֵל בְּכָל־פֶּה",
+          "rendering": "กลืนกินอิสราเอลด้วยปากที่อ้ากว้าง",
+          "rationale": "‘With whole mouth’ — the devouring-chain verb (1:20; 5:14 Sheol's gullet): Israel eaten from both compass-points at once; กลืนกิน per the chain."
+        }
+      ],
+      "notes": "VERSIFICATION: MT 9:11 = English 9:12. Refrain strike #2 (after 5:25)."
+    }
+  },
+  {
+    "reference": "Isaiah 9:12",
+    "chapter": 9,
+    "verse": 12,
+    "language": "hebrew",
+    "hebrew": "וְהָעָ֥ם לֹא־שָׁ֖ב עַד־הַמַּכֵּ֑הוּ וְאֶת־יְהוָ֥ה צְבָא֖וֹת לֹ֥א דָרָֽשׁוּ׃",
+    "bsb_english": "But the people did not return to Him who struck them; they did not seek the LORD of Hosts.",
+    "versification": {
+      "mt_ref": "Isaiah 9:12",
+      "english_ref": "Isaiah 9:13",
+      "bsb_ref": "Isaiah 9:13",
+      "lxx_ref": "Isaiah 9:12",
+      "diverges": true
+    },
+    "translation": {
+      "thai": "แต่ประชาชนก็ไม่หันกลับมาหาพระองค์ผู้ทรงตีพวกเขา และไม่แสวงหาองค์พระผู้เป็นเจ้าจอมโยธา",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้า",
+          "rationale": "יהוה → ‘องค์พระผู้เป็นเจ้า’ ตาม divine_names_table_2026-05.md (Layer 1)"
+        },
+        {
+          "hebrew": "וְהָעָם לֹא־שָׁב עַד־הַמַּכֵּהוּ",
+          "rendering": "ประชาชนก็ไม่หันกลับมาหาพระองค์ผู้ทรงตีพวกเขา",
+          "rationale": "šûv — the return/repent verb (1:27; Shear-jashub): the refrain-cycle's tragedy in one clause — struck but not turning; the discipline fails its purpose, so the hand stays out."
+        }
+      ],
+      "notes": "VERSIFICATION: MT 9:12 = English 9:13. דָרָשׁ ‘seek’ → แสวงหา (the 1:17 justice-seeking verb, unused toward God)."
+    }
+  },
+  {
+    "reference": "Isaiah 9:13",
+    "chapter": 9,
+    "verse": 13,
+    "language": "hebrew",
+    "hebrew": "וַיַּכְרֵ֨ת יְהוָ֜ה מִיִּשְׂרָאֵ֗ל רֹ֧אשׁ וְזָנָ֛ב כִּפָּ֥ה וְאַגְמ֖וֹן י֥וֹם אֶחָֽד׃",
+    "bsb_english": "So the LORD will cut off Israel’s head and tail, both palm branch and reed in a single day.",
+    "versification": {
+      "mt_ref": "Isaiah 9:13",
+      "english_ref": "Isaiah 9:14",
+      "bsb_ref": "Isaiah 9:14",
+      "lxx_ref": "Isaiah 9:13",
+      "diverges": true
+    },
+    "translation": {
+      "thai": "องค์พระผู้เป็นเจ้าจึงทรงตัดหัวและหางออกจากอิสราเอล ทั้งทางปาล์มและต้นอ้อ ในวันเดียว",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้า",
+          "rationale": "יהוה → ‘องค์พระผู้เป็นเจ้า’ ตาม divine_names_table_2026-05.md (Layer 1)"
+        },
+        {
+          "hebrew": "כִּפָּה וְאַגְמוֹן",
+          "rendering": "ทางปาล์มและต้นอ้อ",
+          "rationale": "kippâ ‘palm-frond’ (the lofty) + ʾagmôn ‘rush/reed’ (the lowly) — the top-to-bottom merism doubling head/tail; LOCKED PAIR for the 19:15 recurrence (Egypt oracle, same idiom)."
+        }
+      ],
+      "notes": "VERSIFICATION: MT 9:13 = English 9:14. Layer 1: יהוה."
+    }
+  },
+  {
+    "reference": "Isaiah 9:14",
+    "chapter": 9,
+    "verse": 14,
+    "language": "hebrew",
+    "hebrew": "זָקֵ֥ן וּנְשׂוּא־פָנִ֖ים ה֣וּא הָרֹ֑אשׁ וְנָבִ֥יא מֽוֹרֶה־שֶּׁ֖קֶר ה֥וּא הַזָּנָֽב׃",
+    "bsb_english": "The head is the elder and honorable man, and the tail is the prophet who teaches lies.",
+    "versification": {
+      "mt_ref": "Isaiah 9:14",
+      "english_ref": "Isaiah 9:15",
+      "bsb_ref": "Isaiah 9:15",
+      "lxx_ref": "Isaiah 9:14",
+      "diverges": true
+    },
+    "translation": {
+      "thai": "ผู้อาวุโสและผู้ทรงเกียรติคือหัว และผู้เผยพระวจนะที่สอนความเท็จคือหาง",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "וְנָבִיא מוֹרֶה־שֶּׁקֶר הוּא הַזָּנָב",
+          "rendering": "ผู้เผยพระวจนะที่สอนความเท็จคือหาง",
+          "rationale": "The decode-verse (head = elders/dignitaries; tail = lying prophets — the false prophet ranked LOWEST, a wagging tail). מוֹרֶה ‘teacher’ — the yārâ/tôrâ root (2:3): teaching šeqer ‘falsehood’ is anti-torah; ความเท็จ per corpus."
+        }
+      ],
+      "notes": "VERSIFICATION: MT 9:14 = English 9:15. Some scholars take the verse as an early gloss — rendered as MT text regardless (it stands in 1QIsaa and the versions)."
+    }
+  },
+  {
+    "reference": "Isaiah 9:15",
+    "chapter": 9,
+    "verse": 15,
+    "language": "hebrew",
+    "hebrew": "וַיִּֽהְי֛וּ מְאַשְּׁרֵ֥י הָֽעָם־הַזֶּ֖ה מַתְעִ֑ים וּמְאֻשָּׁרָ֖יו מְבֻלָּעִֽים׃",
+    "bsb_english": "For those who guide this people mislead them, and those they mislead are swallowed up.",
+    "versification": {
+      "mt_ref": "Isaiah 9:15",
+      "english_ref": "Isaiah 9:16",
+      "bsb_ref": "Isaiah 9:16",
+      "lxx_ref": "Isaiah 9:15",
+      "diverges": true
+    },
+    "translation": {
+      "thai": "เพราะบรรดาผู้นำทางของชนชาตินี้พาพวกเขาหลงทาง และผู้ที่ถูกนำก็ถูกกลืนหายไป",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "וַיִּהְיוּ מְאַשְּׁרֵי הָעָם־הַזֶּה מַתְעִים",
+          "rendering": "บรรดาผู้นำทางของชนชาตินี้พาพวกเขาหลงทาง",
+          "rationale": "Verbatim reprise of 3:12 (มְאַשְּׁרֶיךָ מַתְעִים — ผู้นำทาง…พาเจ้าหลงทาง): the southern indictment re-applied north; the Thai surfaces matched so the reader hears the repeat."
+        }
+      ],
+      "notes": "VERSIFICATION: MT 9:15 = English 9:16. מְבֻלָּעִים ‘swallowed up’ — the devour-chain again (ถูกกลืนหายไป)."
+    }
+  },
+  {
+    "reference": "Isaiah 9:16",
+    "chapter": 9,
+    "verse": 16,
+    "language": "hebrew",
+    "hebrew": "עַל־כֵּ֨ן עַל־בַּחוּרָ֜יו לֹֽא־יִשְׂמַ֣ח ׀ אֲדֹנָ֗י וְאֶת־יְתֹמָ֤יו וְאֶת־אַלְמְנֹתָיו֙ לֹ֣א יְרַחֵ֔ם כִּ֤י כֻלּוֹ֙ חָנֵ֣ף וּמֵרַ֔ע וְכָל־פֶּ֖ה דֹּבֵ֣ר נְבָלָ֑ה בְּכָל־זֹאת֙ לֹא־שָׁ֣ב אַפּ֔וֹ וְע֖וֹד יָד֥וֹ נְטוּיָֽה׃",
+    "bsb_english": "Therefore the Lord takes no pleasure in their young men; He has no compassion on their fatherless and widows. For every one of them is godless and wicked, and every mouth speaks folly. Despite all this, His anger is not turned away; His hand is still upraised.",
+    "versification": {
+      "mt_ref": "Isaiah 9:16",
+      "english_ref": "Isaiah 9:17",
+      "bsb_ref": "Isaiah 9:17",
+      "lxx_ref": "Isaiah 9:16",
+      "diverges": true
+    },
+    "translation": {
+      "thai": "เพราะฉะนั้นองค์เจ้านายจะไม่ทรงปีติยินดีในคนหนุ่มของพวกเขา และไม่ทรงเมตตาลูกกำพร้าพ่อกับหญิงม่ายของพวกเขา เพราะทุกคนล้วนอธรรมและกระทำชั่ว และทุกปากกล่าวคำโง่เขลา ถึงอย่างนั้นพระพิโรธของพระองค์ก็ยังไม่หันกลับ และพระหัตถ์ของพระองค์ยังคงเหยียดออกอยู่",
+      "thai_literal": null,
+      "thai_summary": "ข้อที่อ่านแล้วต้องหยุด: พระเจ้าไม่ทรงเมตตาแม้แต่ลูกกำพร้ากับหญิงม่าย — กลุ่มที่ทรงบัญชาให้ปกป้องเสมอ (1:17) — เมื่อความเสื่อมซึมทั่วถึงขนาดที่แม้กลุ่มเปราะบางก็ร่วมในความอธรรม คำพิพากษาจึงไม่มีข้อยกเว้น",
+      "key_decisions": [
+        {
+          "hebrew": "בְּכָל־זֹאת לֹא־שָׁב אַפּוֹ וְעוֹד יָדוֹ נְטוּיָה",
+          "rendering": "ถึงอย่างนั้นพระพิโรธของพระองค์ก็ยังไม่หันกลับ และพระหัตถ์ของพระองค์ยังคงเหยียดออกอยู่",
+          "rationale": "The outstretched-hand refrain — byte-identical with its 5:25 debut (locked surface): the wrath-cycle's recurring gong (MT 9:11, 16, 20; 10:4). พระพิโรธ/พระหัตถ์ rachasap narrator voice."
+        },
+        {
+          "hebrew": "וְאֶת־יְתֹמָיו וְאֶת־אַלְמְנֹתָיו לֹא יְרַחֵם",
+          "rendering": "ไม่ทรงเมตตาลูกกำพร้าพ่อกับหญิงม่ายของพวกเขา",
+          "rationale": "The 1:17/1:23 orphan-widow pair (ลูกกำพร้าพ่อ/หญิงม่าย — same locked Thai) in its most shocking position: even the defended-class is undefended now; the deliberate inversion of the book's own ethic documented. אֲדֹנָי → องค์เจ้านาย."
+        },
+        {
+          "hebrew": "כֻלּוֹ חָנֵף וּמֵרַע",
+          "rendering": "ทุกคนล้วนอธรรมและกระทำชั่ว",
+          "rationale": "ḥānēp ‘godless/profane’ → อธรรม; mēraʿ — the evildoer-participle of 1:4 (ผู้กระทำชั่วร้าย family); נְבָלָה ‘folly’ → คำโง่เขลา (the moral-folly word, not mere silliness)."
+        }
+      ],
+      "notes": "VERSIFICATION: MT 9:16 = English 9:17. Refrain strike #3."
+    }
+  },
+  {
+    "reference": "Isaiah 9:17",
+    "chapter": 9,
+    "verse": 17,
+    "language": "hebrew",
+    "hebrew": "כִּֽי־בָעֲרָ֤ה כָאֵשׁ֙ רִשְׁעָ֔ה שָׁמִ֥יר וָשַׁ֖יִת תֹּאכֵ֑ל וַתִּצַּת֙ בְּסִֽבְכֵ֣י הַיַּ֔עַר וַיִּֽתְאַבְּכ֖וּ גֵּא֥וּת עָשָֽׁן׃",
+    "bsb_english": "For wickedness burns like a fire that consumes the thorns and briers and kindles the forest thickets, which roll upward in billows of smoke.",
+    "versification": {
+      "mt_ref": "Isaiah 9:17",
+      "english_ref": "Isaiah 9:18",
+      "bsb_ref": "Isaiah 9:18",
+      "lxx_ref": "Isaiah 9:17",
+      "diverges": true
+    },
+    "translation": {
+      "thai": "เพราะความอธรรมเผาไหม้ดั่งไฟ มันกลืนกินต้นหนามและพุ่มหนาม มันจุดพุ่มไม้หนาทึบแห่งป่าให้ลุกโชน และพวกมันม้วนตัวขึ้นเป็นเสาควันทะมึน",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "שָׁמִיר וָשַׁיִת תֹּאכֵל",
+          "rendering": "กลืนกินต้นหนามและพุ่มหนาม",
+          "rationale": "The locked šāmîr-wāšayit pair (5:6; 7:23–25) — now FUEL: wickedness burns the very thorn-curse it grew; the lock's byte-identical surface keeps the chain audible. Fire eats (אכל) — the devour-verb's elemental form."
+        },
+        {
+          "hebrew": "וַיִּתְאַבְּכוּ גֵּאוּת עָשָׁן",
+          "rendering": "ม้วนตัวขึ้นเป็นเสาควันทะมึน",
+          "rationale": "hapax — hitʾabbəkû ‘roll/billow upward’; גֵּאוּת ‘pride/rising’ of smoke — the pride-word (ch. 2 lexicon) made literally visible: sin's arrogance becomes its smoke-column."
+        }
+      ],
+      "notes": "VERSIFICATION: MT 9:17 = English 9:18."
+    }
+  },
+  {
+    "reference": "Isaiah 9:18",
+    "chapter": 9,
+    "verse": 18,
+    "language": "hebrew",
+    "hebrew": "בְּעֶבְרַ֛ת יְהוָ֥ה צְבָא֖וֹת נֶעְתַּ֣ם אָ֑רֶץ וַיְהִ֤י הָעָם֙ כְּמַאֲכֹ֣לֶת אֵ֔שׁ אִ֥ישׁ אֶל־אָחִ֖יו לֹ֥א יַחְמֹֽלוּ׃",
+    "bsb_english": "By the wrath of the LORD of Hosts the land is scorched, and the people are fuel for the fire. No man even spares his brother.",
+    "versification": {
+      "mt_ref": "Isaiah 9:18",
+      "english_ref": "Isaiah 9:19",
+      "bsb_ref": "Isaiah 9:19",
+      "lxx_ref": "Isaiah 9:18",
+      "diverges": true
+    },
+    "translation": {
+      "thai": "แผ่นดินถูกเผาเกรียมโดยพระพิโรธขององค์พระผู้เป็นเจ้าจอมโยธา และประชาชนกลายเป็นดั่งเชื้อเพลิงให้แก่ไฟ ไม่มีผู้ใดไว้ชีวิตพี่น้องของตน",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้า",
+          "rationale": "יהוה → ‘องค์พระผู้เป็นเจ้า’ ตาม divine_names_table_2026-05.md (Layer 1)"
+        },
+        {
+          "hebrew": "נֶעְתַּם אָרֶץ",
+          "rendering": "แผ่นดินถูกเผาเกรียม",
+          "rationale": "hapax — neʿtam ‘scorched/darkened’ (sense from context + cognates): the land char-burned under wrath; เผาเกรียม."
+        },
+        {
+          "hebrew": "אִישׁ אֶל־אָחִיו לֹא יַחְמֹלוּ",
+          "rendering": "ไม่มีผู้ใดไว้ชีวิตพี่น้องของตน",
+          "rationale": "ḥāmal ‘spare/pity’ — society's fire: cannibal factionalism (vv. 18–20) as the social form of the wildfire; brother-sparing extinct."
+        }
+      ],
+      "notes": "VERSIFICATION: MT 9:18 = English 9:19. Layer 1: יהוה צבאות (พระพิโรธ rachasap, narrator voice)."
+    }
+  },
+  {
+    "reference": "Isaiah 9:19",
+    "chapter": 9,
+    "verse": 19,
+    "language": "hebrew",
+    "hebrew": "וַיִּגְזֹ֤ר עַל־יָמִין֙ וְרָעֵ֔ב וַיֹּ֥אכַל עַל־שְׂמֹ֖אול וְלֹ֣א שָׂבֵ֑עוּ אִ֥ישׁ בְּשַׂר־זְרֹע֖וֹ יֹאכֵֽלוּ׃",
+    "bsb_english": "They carve out what is on the right, but they are still hungry; they eat what is on the left, but they are still not satisfied. Each one devours the flesh of his own offspring.",
+    "versification": {
+      "mt_ref": "Isaiah 9:19",
+      "english_ref": "Isaiah 9:20",
+      "bsb_ref": "Isaiah 9:20",
+      "lxx_ref": "Isaiah 9:19",
+      "diverges": true
+    },
+    "translation": {
+      "thai": "พวกเขาคว้ากินทางขวาก็ยังหิวอยู่ กลืนกินทางซ้ายก็ไม่อิ่ม ทุกคนกัดกินเนื้อแขนของตนเอง",
+      "thai_literal": null,
+      "thai_summary": "ภาพสุดท้ายของความหิวที่บาปสร้าง: มือขวาคว้า มือซ้ายกลืน แล้วหันมากินแขนตัวเอง — สังคมที่กลืนกินกันเองคือร่างกายที่กินเนื้อตัวเองในที่สุด",
+      "key_decisions": [
+        {
+          "hebrew": "אִישׁ בְּשַׂר־זְרֹעוֹ יֹאכֵלוּ",
+          "rendering": "ทุกคนกัดกินเนื้อแขนของตนเอง",
+          "rationale": "MT zərōʿô ‘his own arm’ — self-cannibalism as the civil-war emblem; LXX/Targum read זַרְעוֹ ‘his offspring’ (one letter) — the variant documented; MT followed. The devour-chain (אכל ×3 in the verse) reaches its terminus: the eater eats himself."
+        }
+      ],
+      "notes": "VERSIFICATION: MT 9:19 = English 9:20. גָּזַר ‘cut/snatch’ → คว้ากิน."
+    }
+  },
+  {
+    "reference": "Isaiah 9:20",
+    "chapter": 9,
+    "verse": 20,
+    "language": "hebrew",
+    "hebrew": "מְנַשֶּׁ֣ה אֶת־אֶפְרַ֗יִם וְאֶפְרַ֙יִם֙ אֶת־מְנַשֶּׁ֔ה יַחְדָּ֥ו הֵ֖מָּה עַל־יְהוּדָ֑ה בְּכָל־זֹאת֙ לֹא־שָׁ֣ב אַפּ֔וֹ וְע֖וֹד יָד֥וֹ נְטוּיָֽה׃",
+    "bsb_english": "Manasseh devours Ephraim, and Ephraim Manasseh; together they turn against Judah. Despite all this, His anger is not turned away; His hand is still upraised.",
+    "versification": {
+      "mt_ref": "Isaiah 9:20",
+      "english_ref": "Isaiah 9:21",
+      "bsb_ref": "Isaiah 9:21",
+      "lxx_ref": "Isaiah 9:20",
+      "diverges": true
+    },
+    "translation": {
+      "thai": "มนัสเสห์กลืนกินเอฟราอิม และเอฟราอิมกลืนกินมนัสเสห์ แล้วทั้งสองก็รวมกันหันมาต่อสู้ยูดาห์ ถึงอย่างนั้นพระพิโรธของพระองค์ก็ยังไม่หันกลับ และพระหัตถ์ของพระองค์ยังคงเหยียดออกอยู่",
+      "thai_literal": null,
+      "thai_summary": "พี่น้องร่วมบิดา (บุตรสองคนของโยเซฟ) กัดกินกันเอง แล้วหยุดพักจากการกินกันแค่เพื่อรวมหัวกันงาบยูดาห์ — และฆ้องแห่งพระหัตถ์ดังเป็นครั้งที่สาม: ยังไม่จบ ท่อนที่สี่รออยู่ต้นบทที่ 10",
+      "key_decisions": [
+        {
+          "hebrew": "בְּכָל־זֹאת לֹא־שָׁב אַפּוֹ וְעוֹד יָדוֹ נְטוּיָה",
+          "rendering": "ถึงอย่างนั้นพระพิโรธของพระองค์ก็ยังไม่หันกลับ และพระหัตถ์ของพระองค์ยังคงเหยียดออกอยู่",
+          "rationale": "The outstretched-hand refrain — byte-identical with its 5:25 debut (locked surface): the wrath-cycle's recurring gong (MT 9:11, 16, 20; 10:4). พระพิโรธ/พระหัตถ์ rachasap narrator voice."
+        },
+        {
+          "hebrew": "מְנַשֶּׁה אֶת־אֶפְרַיִם וְאֶפְרַיִם אֶת־מְנַשֶּׁה",
+          "rendering": "มนัสเสห์กลืนกินเอฟราอิม และเอฟราอิมกลืนกินมนัสเสห์",
+          "rationale": "The Joseph-brothers (Gen 48's blessed pair, shipped มนัสเสห์/เอฟราอิม) devouring each other — the most intimate fratricide available to the poem; the chiasm (M→E, E→M) kept exactly."
+        }
+      ],
+      "notes": "VERSIFICATION: MT 9:20 = English 9:21. Refrain strike #4 of 5 — the cycle completes at 10:4; the chapter ends mid-poem (the strophe-break falls inside the English chapter-seam)."
+    }
+  }
+]
