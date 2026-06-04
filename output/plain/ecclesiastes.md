@@ -1,6 +1,6 @@
 # ปัญญาจารย์
 
-_Ecclesiastes — 9 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
+_Ecclesiastes — 10 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
 
 _This **plain edition** shows only the Thai translation — no commentary, no Greek, no English. Intended for Thai scholars and theological reviewers evaluating the translation on its own terms. For the annotated edition with contextual summaries (บริบท), see `output/reader/ecclesiastes.md`. For the underlying Greek, English (BSB) reference, and translator decisions per verse, see the per-chapter review reports at `output/check_reports/ecclesiastes_NN_review.md` or the source JSON at `output/translations/`._
 
@@ -398,6 +398,50 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 ---
 
+## บทที่ 10
+
+**1** แมลงวันตายทำให้น้ำมันหอมของช่างปรุงเหม็นบูดฉันใด ความโง่เขลาเพียงเล็กน้อยก็มีน้ำหนักยิ่งกว่าปัญญาและเกียรติยศฉันนั้น
+
+**2** ใจของคนมีปัญญาเอียงไปทางขวา แต่ใจของคนโง่เอียงไปทางซ้าย
+
+**3** แม้เมื่อคนโง่เดินไปตามทาง สามัญสำนึกของเขาก็ขาดอยู่ และเขาก็สำแดงแก่ทุกคนว่าตนเป็นคนโง่
+
+**4** ถ้าผู้ครอบครองเกิดโทสะต่อเจ้า อย่าละทิ้งที่ของเจ้า เพราะความสงบเยือกเย็นระงับความผิดใหญ่หลวงได้
+
+**5** มีความเลวร้ายอย่างหนึ่งที่ข้าพเจ้าเห็นภายใต้ดวงอาทิตย์ เป็นดั่งความพลั้งเผลอที่ออกมาจากผู้มีอำนาจ
+
+**6** คนโง่เขลาถูกตั้งไว้ในตำแหน่งสูงมากมาย ขณะที่คนมั่งมีนั่งอยู่ในที่ต่ำต้อย
+
+**7** ข้าพเจ้าเห็นทาสขี่ม้า ขณะที่เจ้านายเดินดินเหมือนทาส
+
+**8** ผู้ขุดหลุมพรางอาจตกลงไปในหลุมนั้น ผู้พังรั้วอาจถูกงูกัด
+
+**9** ผู้สกัดหินอาจบาดเจ็บเพราะหิน ผู้ผ่าฟืนอาจเป็นอันตรายเพราะฟืนนั้น
+
+**10** ถ้าขวานทื่อและไม่ได้ลับคมไว้ ก็ต้องออกแรงมากขึ้น แต่ปัญญามีประโยชน์นำสู่ความสำเร็จ
+
+**11** ถ้างูกัดเสียก่อนถูกสะกด หมองูก็ไม่ได้ประโยชน์อะไร
+
+**12** ถ้อยคำจากปากของคนมีปัญญานำความโปรดปรานมา แต่ริมฝีปากของคนโง่กลืนกินตัวเขาเอง
+
+**13** ถ้อยคำจากปากของเขาเริ่มต้นด้วยความโง่เขลา และจบลงด้วยความบ้าคลั่งอันชั่วร้าย
+
+**14** คนโง่ยังพูดมากขึ้นอีก มนุษย์ไม่รู้ว่าอะไรจะเกิดขึ้น ใครเล่าจะบอกเขาได้ว่าอะไรจะเกิดขึ้นภายหลังเขา
+
+**15** การตรากตรำของคนโง่ทำให้เขาเหนื่อยหน่าย จนเขาไม่รู้แม้แต่ทางที่จะเข้าเมือง
+
+**16** วิบัติแก่เจ้า แผ่นดินที่มีกษัตริย์เป็นเด็ก และเจ้านายของเจ้ากินเลี้ยงกันแต่เช้า
+
+**17** ความสุขมีแก่เจ้า แผ่นดินที่มีกษัตริย์เป็นบุตรของผู้สูงศักดิ์ และเจ้านายของเจ้ากินเลี้ยงตามวาระอันควร เพื่อเสริมกำลัง ไม่ใช่เพื่อความมึนเมา
+
+**18** เพราะความเกียจคร้าน หลังคาก็ทรุดลง และเพราะมือที่เฉื่อยชา เรือนก็รั่ว
+
+**19** งานเลี้ยงจัดขึ้นเพื่อเสียงหัวเราะ เหล้าองุ่นทำให้ชีวิตรื่นเริง และเงินตอบสนองทุกสิ่ง
+
+**20** อย่าแช่งด่ากษัตริย์แม้ในความคิดของเจ้า และอย่าแช่งด่าคนมั่งมีแม้ในห้องนอนของเจ้า เพราะนกในอากาศอาจคาบเสียงนั้นไป และสิ่งมีปีกอาจรายงานถ้อยคำนั้น
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -413,4 +457,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/ecclesiastes_07.json` | `7255fe3d10cd94f4dacf9269152ac634ab9351770fa57b084a542d849e850f3c` |
 | `output/translations/ecclesiastes_08.json` | `c015307fdfc914df2e3a7d7dcc6754b193c088f32a95f09bb25ce45aff5b1bce` |
 | `output/translations/ecclesiastes_09.json` | `45565fab0095dc8317a4571276db372c73843d1f312bf5c2a66987a7b4261c95` |
+| `output/translations/ecclesiastes_10.json` | `403c08ad5fec04f6085a03a05a6991c8e4c9e382b3a49199898cc334401408f3` |
 
