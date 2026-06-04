@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-06-04 02:59:36 UTC_
-_Total chapters: 951 · Total verses: 26015_
+_Generated: 2026-06-04 03:11:42 UTC_
+_Total chapters: 952 · Total verses: 26031_
 
 ## How to verify a chapter
 
@@ -966,7 +966,8 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/songofsongs_01.json` | 17 | `2cc399dacf9df716f83cd5aec91d438ecdb5145ed10d046d651bf2c6142ede0f` | `7049fc4d` |
 | `output/translations/songofsongs_02.json` | 17 | `b77665ea32758775f9e06f5cc948c406006f659f98d3b79264521cc5990e2ab9` | `6cc5f683` |
 | `output/translations/songofsongs_03.json` | 11 | `7e89e9623a7ce15f0bed1c76afb2f08ce2699c600e3e5544b1a46c3521f5b0b0` | `28939a8c` |
-| `output/translations/songofsongs_04.json` | 16 | `efd72fbb4b959d1b8b35774ecb7972257fae44f50725125b81294c56b7a2b947` | `—` |
+| `output/translations/songofsongs_04.json` | 16 | `efd72fbb4b959d1b8b35774ecb7972257fae44f50725125b81294c56b7a2b947` | `dfad2d25` |
+| `output/translations/songofsongs_05.json` | 16 | `f4bd7e92b6fb12c143c6ff02cbe193e24cb8c941d4fb0d32c8ff0c177312992b` | `—` |
 | `output/translations/titus_01.json` | 16 | `6b9bc5a855e4143fab405d9116d393e4ed8e929d99a62b3d2451d8043fb50100` | `7cca09e6` |
 | `output/translations/titus_02.json` | 15 | `54cca3502fb1484c14c16b498528dd0e1691cb0d1650c2a21bae3fc079cf8180` | `9d4d7d23` |
 | `output/translations/titus_03.json` | 15 | `ae6d73e432043adfd5b8f1c7ccdac693084026cab5e5b9fda7db7d05472e9648` | `502e5308` |

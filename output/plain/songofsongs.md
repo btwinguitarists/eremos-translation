@@ -1,6 +1,6 @@
 # เพลงซาโลมอน
 
-_Song of Songs — 4 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
+_Song of Songs — 5 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
 
 _This **plain edition** shows only the Thai translation — no commentary, no Greek, no English. Intended for Thai scholars and theological reviewers evaluating the translation on its own terms. For the annotated edition with contextual summaries (บริบท), see `output/reader/songofsongs.md`. For the underlying Greek, English (BSB) reference, and translator decisions per verse, see the per-chapter review reports at `output/check_reports/songofsongs_NN_review.md` or the source JSON at `output/translations/`._
 
@@ -144,6 +144,42 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 ---
 
+## บทที่ 5
+
+**1** ฉันมาในสวนของฉันแล้ว น้องสาวของฉัน เจ้าสาวของฉัน ฉันเก็บมดยอบกับเครื่องเทศของฉัน ฉันกินรวงผึ้งกับน้ำผึ้งของฉัน ฉันดื่มเหล้าองุ่นกับน้ำนมของฉันแล้ว กินเถิด สหายทั้งหลาย ดื่มเถิด ดื่มให้อิ่มเอมด้วยความรักเถิด
+
+**2** ฉันหลับอยู่ แต่ใจของฉันตื่น ฟังสิ ที่รักของฉันกำลังเคาะประตู “เปิดให้ฉันเถิด น้องสาวของฉัน ยอดรักของฉัน นกพิราบของฉัน คนงามพร้อมของฉัน ศีรษะของฉันชุ่มด้วยน้ำค้าง เส้นผมของฉันเปียกด้วยละอองแห่งราตรี”
+
+**3** ฉันถอดเสื้อคลุมออกแล้ว จะให้ฉันสวมกลับอีกหรือ ฉันล้างเท้าแล้ว จะให้เท้าเปื้อนอีกหรือ
+
+**4** ที่รักของฉันสอดมือเข้ามาทางช่องประตู ใจของฉันก็เร่าร้อนถึงเขา
+
+**5** ฉันลุกขึ้นเพื่อเปิดให้ที่รักของฉัน มือของฉันหยดมดยอบ นิ้วของฉันชุ่มมดยอบเหลว อยู่บนกลอนประตู
+
+**6** ฉันเปิดให้ที่รักของฉัน แต่ที่รักของฉันหันกลับและจากไปแล้ว ใจของฉันแทบสลายเมื่อเขาจากไป ฉันแสวงหาเขา แต่ไม่พบ ฉันร้องเรียกเขา แต่เขาไม่ตอบ
+
+**7** พวกคนยามที่เดินเวรรอบเมืองพบฉัน พวกเขาตีฉันจนบาดเจ็บ พวกคนยามกำแพงกระชากผ้าคลุมของฉันไป
+
+**8** โอ บรรดาบุตรสาวแห่งเยรูซาเล็มเอ๋ย ฉันขอให้พวกเธอสาบานว่า ถ้าพวกเธอพบที่รักของฉัน จงบอกเขาเถิดว่า ฉันป่วยเพราะความรัก
+
+**9** ที่รักของเธอดีกว่าที่รักของใครอื่นอย่างไรหรือ โอ ผู้งามเลิศในหมู่หญิงเอ๋ย ที่รักของเธอดีกว่าที่รักของใครอื่นอย่างไร เธอจึงขอให้พวกเราสาบานเช่นนั้น
+
+**10** ที่รักของฉันผุดผ่องและแดงก่ำ โดดเด่นท่ามกลางหมื่นคน
+
+**11** ศีรษะของเขาดั่งทองคำเนื้อบริสุทธิ์ เส้นผมของเขาหยิกเป็นลอน ดำขลับดั่งกา
+
+**12** ดวงตาของเขาดั่งนกพิราบริมธารน้ำ อาบในน้ำนม และฝังประดับดั่งอัญมณี
+
+**13** แก้มของเขาดั่งแปลงเครื่องเทศ ที่ส่งกลิ่นหอมกรุ่น ริมฝีปากของเขาดั่งดอกบัว หยดมดยอบเหลว
+
+**14** แขนของเขาดั่งทองคำกลึงกลม ฝังประดับด้วยบุษน้ำเงิน กายของเขาดั่งงาช้างขัดเงา ประดับด้วยไพลิน
+
+**15** ขาของเขาดั่งเสาหินอ่อน ตั้งบนฐานทองคำบริสุทธิ์ รูปโฉมของเขาดั่งเลบานอน สง่างามดั่งหมู่สนสีดาร์
+
+**16** ปากของเขาหวานล้ำ ทั้งหมดของเขาน่าปรารถนายิ่งนัก นี่แหละที่รักของฉัน นี่แหละสหายของฉัน โอ บรรดาบุตรสาวแห่งเยรูซาเล็มเอ๋ย
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -154,4 +190,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/songofsongs_02.json` | `b77665ea32758775f9e06f5cc948c406006f659f98d3b79264521cc5990e2ab9` |
 | `output/translations/songofsongs_03.json` | `7e89e9623a7ce15f0bed1c76afb2f08ce2699c600e3e5544b1a46c3521f5b0b0` |
 | `output/translations/songofsongs_04.json` | `efd72fbb4b959d1b8b35774ecb7972257fae44f50725125b81294c56b7a2b947` |
+| `output/translations/songofsongs_05.json` | `f4bd7e92b6fb12c143c6ff02cbe193e24cb8c941d4fb0d32c8ff0c177312992b` |
 
