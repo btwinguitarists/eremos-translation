@@ -1,6 +1,6 @@
 # เพลงซาโลมอน
 
-_Song of Songs — 1 chapter, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
+_Song of Songs — 2 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
 
 _This **plain edition** shows only the Thai translation — no commentary, no Greek, no English. Intended for Thai scholars and theological reviewers evaluating the translation on its own terms. For the annotated edition with contextual summaries (บริบท), see `output/reader/songofsongs.md`. For the underlying Greek, English (BSB) reference, and translator decisions per verse, see the per-chapter review reports at `output/check_reports/songofsongs_NN_review.md` or the source JSON at `output/translations/`._
 
@@ -44,6 +44,44 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 ---
 
+## บทที่ 2
+
+**1** ฉันเป็นดอกกุหลาบแห่งชาโรน เป็นดอกบัวแห่งหุบเขา
+
+**2** ดั่งดอกบัวท่ามกลางต้นหนาม ยอดรักของฉันก็เป็นเช่นนั้นท่ามกลางหญิงสาวทั้งหลาย
+
+**3** ดั่งต้นแอปเปิลท่ามกลางหมู่ไม้แห่งป่า ที่รักของฉันก็เป็นเช่นนั้นท่ามกลางชายหนุ่มทั้งหลาย ฉันปรารถนานั่งอยู่ใต้ร่มเงาของเขา และผลของเขาก็หวานแก่เพดานปากของฉัน
+
+**4** เขานำฉันเข้าในเรือนเหล้าองุ่น และธงของเขาเหนือฉันคือความรัก
+
+**5** ขอชูกำลังฉันด้วยขนมองุ่นแห้ง ขอทำให้ฉันชื่นใจด้วยผลแอปเปิล เพราะฉันป่วยเพราะความรัก
+
+**6** แขนซ้ายของเขาอยู่ใต้ศีรษะของฉัน และแขนขวาของเขาโอบกอดฉันไว้
+
+**7** โอ บรรดาบุตรสาวแห่งเยรูซาเล็มเอ๋ย ฉันขอให้พวกเธอสาบานโดยอ้างฝูงละมั่งและกวางตัวเมียแห่งท้องทุ่งว่า จะไม่ปลุกเร้าหรือกระตุ้นความรักให้ตื่น จนกว่าความรักจะพอใจเอง
+
+**8** ฟังสิ เสียงที่รักของฉัน ดูเถิด เขากำลังมา กระโดดข้ามภูเขา โลดเต้นข้ามเนินเขามา
+
+**9** ที่รักของฉันเป็นดั่งละมั่งหรือกวางหนุ่ม ดูเถิด เขายืนอยู่หลังกำแพงของเรา มองผ่านหน้าต่าง ชะโงกดูผ่านบานเกล็ด
+
+**10** ที่รักของฉันเอ่ยกล่าวแก่ฉันว่า “ลุกขึ้นเถิด ยอดรักของฉัน คนงามของฉัน มากับฉันเถิด
+
+**11** เพราะดูเถิด ฤดูหนาวผ่านพ้นไปแล้ว ฝนก็หยุดและจากไปแล้ว
+
+**12** ดอกไม้ผลิบานบนแผ่นดิน วาระแห่งการขับร้องมาถึงแล้ว และเสียงนกเขาก็ได้ยินอยู่ในแผ่นดินของเรา
+
+**13** ต้นมะเดื่อบ่มผลอ่อนของมัน และเถาองุ่นผลิดอกส่งกลิ่นหอม ลุกขึ้นเถิด ยอดรักของฉัน คนงามของฉัน มากับฉันเถิด”
+
+**14** นกพิราบของฉันเอ๋ย ในซอกหิน ในที่กำบังแห่งหน้าผา ขอให้ฉันเห็นหน้าของเธอ ขอให้ฉันได้ยินเสียงของเธอ เพราะเสียงของเธอหวานชื่น และใบหน้าของเธอน่ารักยิ่ง
+
+**15** จงจับสุนัขจิ้งจอกให้เราเถิด สุนัขจิ้งจอกตัวเล็กๆ ที่ทำลายสวนองุ่น เพราะสวนองุ่นของเรากำลังผลิดอก
+
+**16** ที่รักของฉันเป็นของฉัน และฉันก็เป็นของเขา เขาเลี้ยงฝูงแกะอยู่ท่ามกลางดอกบัว
+
+**17** จนกว่าวันใหม่จะรุ่งขึ้น และเงาทั้งหลายลี้หนีไป จงกลับมาเถิด ที่รักของฉัน ขอเป็นดั่งละมั่งหรือกวางหนุ่ม บนภูเขาเบเธอร์
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -51,4 +89,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | Chapter file | SHA-256 |
 |---|---|
 | `output/translations/songofsongs_01.json` | `2cc399dacf9df716f83cd5aec91d438ecdb5145ed10d046d651bf2c6142ede0f` |
+| `output/translations/songofsongs_02.json` | `b77665ea32758775f9e06f5cc948c406006f659f98d3b79264521cc5990e2ab9` |
 
