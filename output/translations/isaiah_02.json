@@ -1,0 +1,579 @@
+[
+  {
+    "reference": "Isaiah 2:1",
+    "chapter": 2,
+    "verse": 1,
+    "language": "hebrew",
+    "hebrew": "הַדָּבָר֙ אֲשֶׁ֣ר חָזָ֔ה יְשַֽׁעְיָ֖הוּ בֶּן־אָמ֑וֹץ עַל־יְהוּדָ֖ה וִירוּשָׁלִָֽם׃",
+    "bsb_english": "This is the message that was revealed to Isaiah son of Amoz concerning Judah and Jerusalem:",
+    "translation": {
+      "thai": "ถ้อยคำซึ่งอิสยาห์บุตรของอาโมศได้เห็นเกี่ยวกับยูดาห์และเยรูซาเล็ม",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "הַדָּבָר אֲשֶׁר חָזָה",
+          "rendering": "ถ้อยคำซึ่ง…ได้เห็น",
+          "rationale": "Second superscription; the synesthetic idiom ‘the word that he SAW’ (ḥāzâ — same verb as 1:1's vision) is kept as-is rather than smoothed to ‘received’: prophetic words are seen realities. ได้เห็น preserved deliberately."
+        }
+      ],
+      "notes": "Sub-superscription opening the chs. 2–4 unit (chs. 2–4 form one oracle-cycle framed by Zion's exaltation 2:2–4 and purgation-glory 4:2–6)."
+    }
+  },
+  {
+    "reference": "Isaiah 2:2",
+    "chapter": 2,
+    "verse": 2,
+    "language": "hebrew",
+    "hebrew": "וְהָיָ֣ה ׀ בְּאַחֲרִ֣ית הַיָּמִ֗ים נָכ֨וֹן יִֽהְיֶ֜ה הַ֤ר בֵּית־יְהוָה֙ בְּרֹ֣אשׁ הֶהָרִ֔ים וְנִשָּׂ֖א מִגְּבָע֑וֹת וְנָהֲר֥וּ אֵלָ֖יו כָּל־הַגּוֹיִֽם׃",
+    "bsb_english": "In the last days the mountain of the house of the LORD will be established as the chief of the mountains; it will be raised above the hills, and all nations will stream to it.",
+    "translation": {
+      "thai": "ในวันสุดท้าย ภูเขาแห่งพระนิเวศขององค์พระผู้เป็นเจ้าจะได้รับการสถาปนาไว้เป็นยอดสูงสุดแห่งภูเขาทั้งหลาย จะถูกยกขึ้นเหนือเนินเขาทั้งปวง และประชาชาติทั้งสิ้นจะหลั่งไหลไปยังภูเขานั้น",
+      "thai_literal": null,
+      "thai_summary": "ภูเขาศิโยนซึ่งในความเป็นจริงเป็นเพียงเนินเตี้ยๆ จะถูกยกให้เป็นศูนย์กลางของโลกในวันสุดท้าย และประชาชาติจะ ‘หลั่งไหล’ ขึ้นไปดั่งแม่น้ำที่ไหลย้อนขึ้นภูเขา — ภาพอัศจรรย์ที่กลับธรรมชาติ ข้อ 2–4 นี้ปรากฏแทบคำต่อคำใน มีคาห์ 4:1–3 ด้วย",
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้า",
+          "rationale": "יהוה → ‘องค์พระผู้เป็นเจ้า’ ตาม divine_names_table_2026-05.md (Layer 1)"
+        },
+        {
+          "hebrew": "בְּאַחֲרִית הַיָּמִים",
+          "rendering": "ในวันสุดท้าย",
+          "rationale": "ʾaḥărît hayyāmîm → ในวันสุดท้าย matching shipped GEN 49:1 + DEU 4:30 (the two strongest Torah precedents; NUM 24:14's ในวันข้างหน้า is the outlier — documented divergence, not followed). The NT reads this era as inaugurated at Christ's coming (Acts 2:17; Heb 1:2)."
+        },
+        {
+          "hebrew": "וְנָהֲרוּ אֵלָיו",
+          "rendering": "หลั่งไหลไปยังภูเขานั้น",
+          "rationale": "nāhărû — denominative verb from נָהָר ‘river’: the nations RIVER to Zion (uphill — the inverted-nature miracle of the image). หลั่งไหล keeps the liquid-flow metaphor."
+        }
+      ],
+      "notes": "Isa 2:2–4 ∥ Micah 4:1–3 nearly verbatim (direction of dependence debated; both possibly citing a shared liturgical oracle). FORWARD-CONSISTENCY DUTY: when Micah 4 ships, its Thai must match this rendering except where the Hebrew itself differs (Micah adds 4:4). พระนิเวศ per ot_register_policy §2.3 cultic register."
+    }
+  },
+  {
+    "reference": "Isaiah 2:3",
+    "chapter": 2,
+    "verse": 3,
+    "language": "hebrew",
+    "hebrew": "וְֽהָלְכ֞וּ עַמִּ֣ים רַבִּ֗ים וְאָמְרוּ֙ לְכ֣וּ ׀ וְנַעֲלֶ֣ה אֶל־הַר־יְהוָ֗ה אֶל־בֵּית֙ אֱלֹהֵ֣י יַעֲקֹ֔ב וְיֹרֵ֙נוּ֙ מִדְּרָכָ֔יו וְנֵלְכָ֖ה בְּאֹרְחֹתָ֑יו כִּ֤י מִצִּיּוֹן֙ תֵּצֵ֣א תוֹרָ֔ה וּדְבַר־יְהוָ֖ה מִירוּשָׁלִָֽם׃",
+    "bsb_english": "And many peoples will come and say: “Come, let us go up to the mountain of the LORD, to the house of the God of Jacob. He will teach us His ways so that we may walk in His paths.” For the law will go forth from Zion, and the word of the LORD from Jerusalem.",
+    "translation": {
+      "thai": "ชนชาติเป็นอันมากจะมาและกล่าวว่า “มาเถิด ให้เราขึ้นไปยังภูเขาขององค์พระผู้เป็นเจ้า ไปยังพระนิเวศของพระเจ้าแห่งยาโคบ เพื่อพระองค์จะทรงสอนทางของพระองค์แก่เรา และเพื่อเราจะดำเนินในวิถีของพระองค์” เพราะธรรมบัญญัติจะออกไปจากศิโยน และพระวจนะขององค์พระผู้เป็นเจ้าจะออกไปจากเยรูซาเล็ม",
+      "thai_literal": null,
+      "thai_summary": "ลำดับนี้สำคัญ: ประชาชาติขึ้นไปเพื่อ ‘ให้พระองค์ทรงสอน’ ก่อน แล้วจึง ‘ดำเนิน’ — การนมัสการแท้เริ่มที่การเรียนรู้ทางของพระเจ้า ไม่ใช่พิธีกรรม (ตรงข้ามกับบทที่ 1) และธรรมบัญญัติที่เคยให้ที่ซีนายจะออกไปจากศิโยนสู่โลกทั้งใบ",
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้า",
+          "rationale": "יהוה → ‘องค์พระผู้เป็นเจ้า’ ตาม divine_names_table_2026-05.md (Layer 1)"
+        },
+        {
+          "hebrew": "וְיֹרֵנוּ מִדְּרָכָיו וְנֵלְכָה בְּאֹרְחֹתָיו",
+          "rendering": "ทรงสอนทางของพระองค์ … ดำเนินในวิถีของพระองค์",
+          "rationale": "derek → ทาง / ʾōraḥ → วิถี — the way/path pair distinguished consistently (cf. Ps 25 family). yārâ Hiphil ‘teach’ is the root of tôrâ in the next colon — the wordplay (He TEACHES; TORAH goes out) noted here since Thai cannot reproduce it."
+        },
+        {
+          "hebrew": "כִּי מִצִּיּוֹן תֵּצֵא תוֹרָה",
+          "rendering": "ธรรมบัญญัติจะออกไปจากศิโยน",
+          "rationale": "tôrâ → ธรรมบัญญัติ per corpus lock (Ps 1:2, Deut 31:9). Here ‘instruction’ in its widest sense streaming from Zion — the lock held per leitwort policy with the nuance documented (as at 1:10)."
+        },
+        {
+          "hebrew": "אֱלֹהֵי יַעֲקֹב",
+          "rendering": "พระเจ้าแห่งยาโคบ",
+          "rationale": "Elohim → พระเจ้า (Layer 1); the God-of-Jacob epithet matches the shipped Psalms corpus form."
+        }
+      ],
+      "notes": "The nations' first-person summons (לְכוּ וְנַעֲלֶה ‘Come, let us go up’) is quoted speech inside the oracle — direct-quote marks per §5b. Pilgrim-language echoes Ps 24:3 (ขึ้นไปบนภูเขาขององค์พระผู้เป็นเจ้า, shipped)."
+    }
+  },
+  {
+    "reference": "Isaiah 2:4",
+    "chapter": 2,
+    "verse": 4,
+    "language": "hebrew",
+    "hebrew": "וְשָׁפַט֙ בֵּ֣ין הַגּוֹיִ֔ם וְהוֹכִ֖יחַ לְעַמִּ֣ים רַבִּ֑ים וְכִתְּת֨וּ חַרְבוֹתָ֜ם לְאִתִּ֗ים וַחֲנִיתֽוֹתֵיהֶם֙ לְמַזְמֵר֔וֹת לֹא־יִשָּׂ֨א ג֤וֹי אֶל־גּוֹי֙ חֶ֔רֶב וְלֹא־יִלְמְד֥וּ ע֖וֹד מִלְחָמָֽה׃",
+    "bsb_english": "Then He will judge between the nations and arbitrate for many peoples. They will beat their swords into plowshares and their spears into pruning hooks. Nation will no longer take up the sword against nation, nor train anymore for war.",
+    "translation": {
+      "thai": "พระองค์จะทรงพิพากษาระหว่างประชาชาติทั้งหลาย และจะทรงตัดสินความให้ชนชาติเป็นอันมาก พวกเขาจะตีดาบของตนเป็นผาลไถนา และตีหอกของตนเป็นมีดลิดแขนง ประชาชาติจะไม่ยกดาบต่อสู้ประชาชาติ และพวกเขาจะไม่เรียนรู้การสงครามอีกต่อไป",
+      "thai_literal": null,
+      "thai_summary": "เมื่อพระเจ้าทรงเป็นตุลาการของประชาชาติ อาวุธจึงกลายเป็นเครื่องมือการเกษตร — สันติภาพในภาพนิมิตนี้ไม่ได้เกิดจากสนธิสัญญา แต่เกิดจากการที่ทุกชาติยอมรับคำตัดสินจากศิโยน ภาพ ‘ดาบเป็นผาลไถ’ นี้กลายเป็นสัญลักษณ์สันติภาพที่โด่งดังที่สุดในโลก",
+      "key_decisions": [
+        {
+          "hebrew": "וְהוֹכִיחַ",
+          "rendering": "ทรงตัดสินความ",
+          "rationale": "yākaḥ Hiphil ‘arbitrate/decide’ — the same legal root as 1:18's נִוָּכְחָה (ให้เรามาพิจารณาความกัน): the God who invited Judah to settlement now arbitrates for the world. Root-link documented."
+        },
+        {
+          "hebrew": "וְכִתְּתוּ חַרְבוֹתָם לְאִתִּים",
+          "rendering": "ตีดาบของตนเป็นผาลไถนา",
+          "rationale": "kittətû Piel ‘hammer/beat’; ʾittîm = plowshares (the iron blade-point of the plow) → ผาลไถนา; mazmērôt = vine-pruning knives → มีดลิดแขนง. Joel 3:10 deliberately inverts this oracle (plowshares→swords); the Thai vocabulary here is the anchor for that future inversion."
+        },
+        {
+          "hebrew": "וְלֹא־יִלְמְדוּ עוֹד מִלְחָמָה",
+          "rendering": "จะไม่เรียนรู้การสงครามอีกต่อไป",
+          "rationale": "lāmad ‘learn/train’ — เรียนรู้ deliberately echoes 1:17's לִמְדוּ הֵיטֵב (จงเรียนรู้ที่จะทำดี): Judah must learn good; the nations will unlearn war. Cross-chapter lexical echo preserved."
+        }
+      ],
+      "notes": "The swords/plowshares couplet recurs at Mic 4:3 (parallel text) and inverted at Joel 3:10. שָׁפַט בֵּין ‘judge between’ → พิพากษาระหว่าง — international arbitration imagery."
+    }
+  },
+  {
+    "reference": "Isaiah 2:5",
+    "chapter": 2,
+    "verse": 5,
+    "language": "hebrew",
+    "hebrew": "בֵּ֖ית יַעֲקֹ֑ב לְכ֥וּ וְנֵלְכָ֖ה בְּא֥וֹר יְהוָֽה׃",
+    "bsb_english": "Come, O house of Jacob, let us walk in the light of the LORD.",
+    "translation": {
+      "thai": "วงศ์วานยาโคบเอ๋ย มาเถิด ให้เราดำเนินในความสว่างขององค์พระผู้เป็นเจ้า",
+      "thai_literal": null,
+      "thai_summary": "อิสยาห์พลิกคำเชิญของประชาชาติ (ข้อ 3 ‘มาเถิด ให้เราขึ้นไป’) กลับมาทิ่มแทงอิสราเอลเอง: ถ้าคนต่างชาติยังจะเดินในทางพระเจ้า วงศ์วานยาโคบจะไม่เดินในความสว่างของพระองค์หรือ?",
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้า",
+          "rationale": "יהוה → ‘องค์พระผู้เป็นเจ้า’ ตาม divine_names_table_2026-05.md (Layer 1)"
+        },
+        {
+          "hebrew": "בֵּית יַעֲקֹב לְכוּ וְנֵלְכָה",
+          "rendering": "วงศ์วานยาโคบเอ๋ย มาเถิด ให้เราดำเนิน",
+          "rationale": "bêt yaʿăqōv → วงศ์วานยาโคบ per shipped EXO 19:3. The summons לְכוּ וְנֵלְכָה mirrors the nations' לְכוּ וְנַעֲלֶה (v. 3) — same opener มาเถิด ให้เรา…, so the Thai reader feels Isaiah turning the pilgrims' words onto Israel."
+        }
+      ],
+      "notes": "Hinge verse between the Zion-oracle (vv. 2–4) and the indictment (vv. 6–22): walk in the light now, or hide in the rocks then."
+    }
+  },
+  {
+    "reference": "Isaiah 2:6",
+    "chapter": 2,
+    "verse": 6,
+    "language": "hebrew",
+    "hebrew": "כִּ֣י נָטַ֗שְׁתָּה עַמְּךָ֙ בֵּ֣ית יַעֲקֹ֔ב כִּ֤י מָלְאוּ֙ מִקֶּ֔דֶם וְעֹֽנְנִ֖ים כַּפְּלִשְׁתִּ֑ים וּבְיַלְדֵ֥י נָכְרִ֖ים יַשְׂפִּֽיקוּ׃",
+    "bsb_english": "For You have abandoned Your people, the house of Jacob, because they are filled with influences from the east; they are soothsayers like the Philistines; they strike hands with the children of foreigners.",
+    "translation": {
+      "thai": "เพราะพระองค์ได้ทรงทอดทิ้งชนชาติของพระองค์ คือวงศ์วานยาโคบ เพราะพวกเขาเต็มไปด้วยสิ่งจากตะวันออก เป็นผู้ตีความลางอย่างพวกฟีลิสเตีย และจับมือเข้าพวกกับลูกหลานของคนต่างชาติ",
+      "thai_literal": null,
+      "thai_summary": "คำฟ้องเปิดด้วยการหันไปทูลพระเจ้าโดยตรง: พระองค์ทรงทอดทิ้งชนชาติของพระองค์แล้ว — ไม่ใช่เพราะพระองค์ทรงเหวี่ยงทิ้งก่อน แต่เพราะแผ่นดินเต็มไปด้วยของนำเข้าฝ่ายวิญญาณและพันธมิตรต่างชาติจนไม่มีที่ว่างให้พระองค์",
+      "key_decisions": [
+        {
+          "hebrew": "כִּי מָלְאוּ מִקֶּדֶם",
+          "rendering": "เต็มไปด้วยสิ่งจากตะวันออก",
+          "rationale": "Elliptical Hebrew (‘full from the east’). Options: (1) eastern practices/influences — BSB, followed; (2) diviners from the east; (3) emend מִקֶּדֶם to מִקְּסָם ‘with divination’ (conjecture, no mss). Rendered with the neutral สิ่งจากตะวันออก; the ‘full of’ verb מלא begins the chapter's fill-chain (vv. 6, 7, 7, 8 — แผ่นดิน ‘เต็มไปด้วย’ ×4)."
+        },
+        {
+          "hebrew": "וְעֹנְנִים",
+          "rendering": "ผู้ตีความลาง",
+          "rationale": "ʿōnənîm (Poel of ענן) → ผู้ตีความลาง matching the shipped Deut 18:14 divination-catalogue lock — the precise practice Torah banned, now Philistine-grade endemic."
+        },
+        {
+          "hebrew": "וּבְיַלְדֵי נָכְרִים יַשְׂפִּיקוּ",
+          "rendering": "จับมือเข้าพวกกับลูกหลานของคนต่างชาติ",
+          "rationale": "śāpaq = clap/strike (hands) — the hand-clasp sealing pacts (so BSB ‘strike hands’); alternative ‘abound in children of foreigners’. The pact-gesture reading followed; จับมือเข้าพวก renders both the gesture and its alliance-meaning."
+        }
+      ],
+      "notes": "Address shifts to YHWH (2ms נָטַשְׁתָּה) — prophet-to-God speech uses ทรง + พระองค์ (narrator register), while the people are 3pl. The verse turns the chapter from vision to lament-indictment."
+    }
+  },
+  {
+    "reference": "Isaiah 2:7",
+    "chapter": 2,
+    "verse": 7,
+    "language": "hebrew",
+    "hebrew": "וַתִּמָּלֵ֤א אַרְצוֹ֙ כֶּ֣סֶף וְזָהָ֔ב וְאֵ֥ין קֵ֖צֶה לְאֹצְרֹתָ֑יו וַתִּמָּלֵ֤א אַרְצוֹ֙ סוּסִ֔ים וְאֵ֥ין קֵ֖צֶה לְמַרְכְּבֹתָֽיו׃",
+    "bsb_english": "Their land is full of silver and gold, with no limit to their treasures; their land is full of horses, with no limit to their chariots.",
+    "translation": {
+      "thai": "แผ่นดินของพวกเขาเต็มไปด้วยเงินและทองคำ ทรัพย์สมบัติของพวกเขาไม่มีที่สิ้นสุด แผ่นดินของพวกเขาเต็มไปด้วยม้า รถม้าศึกของพวกเขาก็ไม่มีที่สิ้นสุด",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "וַתִּמָּלֵא אַרְצוֹ",
+          "rendering": "แผ่นดินของพวกเขาเต็มไปด้วย",
+          "rationale": "The fill-anaphora (vv. 7–8 ×3 + v. 6's מָלְאוּ) — identical Thai opener แผ่นดินของพวกเขาเต็มไปด้วย each time, so the cascade silver→horses→idols lands as one indictment. The 3ms suffix אַרְצוֹ (‘his land’ = Jacob's) rendered collective พวกเขา."
+        },
+        {
+          "hebrew": "סוּסִים … לְמַרְכְּבֹתָיו",
+          "rendering": "ม้า … รถม้าศึก",
+          "rationale": "Silver/gold + horses/chariots = the precise triad Deut 17:16–17 forbids the king to multiply (with wives the third) — the catalogue is a Torah-violation audit. (Ellipsis joins two non-contiguous words of the verse.)"
+        }
+      ],
+      "notes": "Wealth and armaments are not neutral here: each ‘no end’ (אֵין קֵצֶה ×2 → ไม่มีที่สิ้นสุด) measures self-sufficiency that displaces trust in YHWH (cf. 31:1)."
+    }
+  },
+  {
+    "reference": "Isaiah 2:8",
+    "chapter": 2,
+    "verse": 8,
+    "language": "hebrew",
+    "hebrew": "וַתִּמָּלֵ֥א אַרְצ֖וֹ אֱלִילִ֑ים לְמַעֲשֵׂ֤ה יָדָיו֙ יִֽשְׁתַּחֲו֔וּ לַאֲשֶׁ֥ר עָשׂ֖וּ אֶצְבְּעֹתָֽיו׃",
+    "bsb_english": "Their land is full of idols; they bow down to the work of their hands, to what their fingers have made.",
+    "translation": {
+      "thai": "แผ่นดินของพวกเขาเต็มไปด้วยรูปเคารพ พวกเขาก้มกราบผลงานแห่งมือของตนเอง กราบสิ่งที่นิ้วมือของตนได้ทำขึ้น",
+      "thai_literal": null,
+      "thai_summary": "จุดไคลแมกซ์ของสิ่งที่ ‘เต็มแผ่นดิน’: เงิน → ม้าศึก → รูปเคารพ คำฮีบรู ‘เอลีลิม’ ที่อิสยาห์เลือกใช้เรียกรูปเคารพนั้นพ้องเสียงเย้ยหยันกับคำว่า ‘พระเจ้า’ (เอล) แต่แปลว่า ‘สิ่งไร้ค่า’ — เทพปลอมที่เป็นแค่ผลงานหัตถกรรม",
+      "key_decisions": [
+        {
+          "hebrew": "אֱלִילִים",
+          "rendering": "รูปเคารพ",
+          "rationale": "ʾĕlîlîm → รูปเคารพ per the shipped Leviticus lock (LEV 19:4; 26:1). Isaiah makes this his signature idol-word (~10×): a contempt-diminutive punning on אֵל (‘godlets/nothings’). The pun is untranslatable; documented here at its Isaiah debut. ก้มกราบ for הִשְׁתַּחֲוָה-to-idols per shipped EXO 20:5 (นมัสการ walled off for true worship per ot_register_policy §3.2)."
+        },
+        {
+          "hebrew": "לְמַעֲשֵׂה יָדָיו … אֶצְבְּעֹתָיו",
+          "rendering": "ผลงานแห่งมือของตนเอง … นิ้วมือของตน",
+          "rationale": "Hands → fingers: the zoom-in sharpens the absurdity (the smaller the maker's member, the more pathetic the made god). Both kept concrete. (Ellipsis joins non-contiguous phrases.)"
+        }
+      ],
+      "notes": "The fill-chain climax: full of silver → horses → ʾĕlîlîm. What fills the land empties it of YHWH (v. 6 ‘You have abandoned’)."
+    }
+  },
+  {
+    "reference": "Isaiah 2:9",
+    "chapter": 2,
+    "verse": 9,
+    "language": "hebrew",
+    "hebrew": "וַיִּשַּׁ֥ח אָדָ֖ם וַיִּשְׁפַּל־אִ֑ישׁ וְאַל־תִּשָּׂ֖א לָהֶֽם׃",
+    "bsb_english": "So mankind is brought low, and man is humbled—do not forgive them!",
+    "translation": {
+      "thai": "ดังนั้นมนุษย์จึงถูกกดให้ต่ำลง และผู้คนถูกทำให้ตกต่ำ — ขออย่าทรงยกโทษให้พวกเขาเลย",
+      "thai_literal": null,
+      "thai_summary": "คำกริยาคู่ ‘กดให้ต่ำลง/ทำให้ตกต่ำ’ ที่เปิดตัวในข้อนี้จะกลายเป็นท่อนซ้ำหลักของบทนี้ (ข้อ 11, 17) และคำทูลที่ช็อกผู้อ่าน — ‘ขออย่าทรงยกโทษ’ — เผยว่าผู้เผยพระวจนะเห็นความบาปนี้ถึงขั้นที่คำอภัยโดยไม่มีการเปลี่ยนแปลงจะเป็นความอยุติธรรม",
+      "key_decisions": [
+        {
+          "hebrew": "וַיִּשַּׁח אָדָם וַיִּשְׁפַּל־אִישׁ",
+          "rendering": "มนุษย์จึงถูกกดให้ต่ำลง และผู้คนถูกทำให้ตกต่ำ",
+          "rationale": "The šāḥaḥ/šāpēl humbling-pair debuts: locked as ถูกกดให้ต่ำลง (שׁחח) / ถูกทำให้ตกต่ำ (שׁפל) so the refrain recurrences (vv. 11, 17 — which swap the verbs chiastically) can mirror the Hebrew exactly."
+        },
+        {
+          "hebrew": "וְאַל־תִּשָּׂא לָהֶם",
+          "rendering": "ขออย่าทรงยกโทษให้พวกเขาเลย",
+          "rationale": "nāśāʾ ‘lift/forgive’ — the shocking imperative to God (so MT; BSB ‘do not forgive them!’). Double-edge documented: the same verb נשׂא is the chapter's ‘exalted/lifted-up’ keyword (vv. 12–14 נִשָּׂא) — ‘do not LIFT them’ cuts against everything self-lifted. Prophet-to-God plea → ทรง + ขอ…เลย deferential frame."
+        }
+      ],
+      "notes": "Some take v. 9b as ‘do not lift them up [from this humiliation]’ — the lift/forgive ambiguity is the hinge into the Day-of-YHWH section where all that is ‘lifted up’ (נִשָּׂא) is brought low."
+    }
+  },
+  {
+    "reference": "Isaiah 2:10",
+    "chapter": 2,
+    "verse": 10,
+    "language": "hebrew",
+    "hebrew": "בּ֣וֹא בַצּ֔וּר וְהִטָּמֵ֖ן בֶּֽעָפָ֑ר מִפְּנֵי֙ פַּ֣חַד יְהוָ֔ה וּמֵהֲדַ֖ר גְּאֹנֽוֹ׃",
+    "bsb_english": "Go into the rocks and hide in the dust from the terror of the LORD and the splendor of His majesty.",
+    "translation": {
+      "thai": "จงคลานเข้าไปในซอกหิน และซ่อนตัวในผงคลีดิน ให้พ้นจากความน่าสะพรึงกลัวขององค์พระผู้เป็นเจ้า และจากความรุ่งโรจน์แห่งพระบารมีของพระองค์",
+      "thai_literal": null,
+      "thai_summary": "คำสั่งนี้พูดกับคนทั้งชาติเหมือนพูดกับคนคนเดียว: หนีเข้าซอกหินเถิด — ท่อนซ้ำ ‘ความน่าสะพรึงกลัวขององค์พระผู้เป็นเจ้า’ จะดังก้องอีกสองครั้ง (ข้อ 19, 21) ดั่งเสียงระฆังพิพากษา",
+      "key_decisions": [
+        {
+          "hebrew": "בּוֹא בַצּוּר וְהִטָּמֵן בֶּעָפָר",
+          "rendering": "จงคลานเข้าไปในซอกหิน และซ่อนตัวในผงคลีดิน",
+          "rationale": "Singular imperatives (the nation addressed as one man). עָפָר → ผงคลีดิน per shipped GEN 2:7/3:19 dust-vocabulary — hiding in the dust one was made from."
+        },
+        {
+          "hebrew": "מִפְּנֵי פַּחַד יְהוָה וּמֵהֲדַר גְּאֹנוֹ",
+          "rendering": "ให้พ้นจากความน่าสะพรึงกลัวขององค์พระผู้เป็นเจ้า และจากความรุ่งโรจน์แห่งพระบารมีของพระองค์",
+          "rationale": "REFRAIN LOCK (×3: vv. 10, 19, 21 — byte-identical Thai each time): paḥad YHWH → ความน่าสะพรึงกลัวขององค์พระผู้เป็นเจ้า; hădar gəʾōnô → ความรุ่งโรจน์แห่งพระบารมีของพระองค์. The refrain is the chapter's structural skeleton per leitwort_handling_policy."
+        }
+      ],
+      "notes": "The glory men flee is described in beauty-vocabulary (הָדָר splendor) — the terror of the Day is not ugliness but unbearable majesty."
+    }
+  },
+  {
+    "reference": "Isaiah 2:11",
+    "chapter": 2,
+    "verse": 11,
+    "language": "hebrew",
+    "hebrew": "עֵינֵ֞י גַּבְה֤וּת אָדָם֙ שָׁפֵ֔ל וְשַׁ֖ח ר֣וּם אֲנָשִׁ֑ים וְנִשְׂגַּ֧ב יְהוָ֛ה לְבַדּ֖וֹ בַּיּ֥וֹם הַהֽוּא׃",
+    "bsb_english": "The proud look of man will be humbled, and the loftiness of men brought low; the LORD alone will be exalted in that day.",
+    "translation": {
+      "thai": "ตาอันยโสของมนุษย์จะถูกทำให้ตกต่ำ และความผยองของผู้คนจะถูกกดให้ต่ำลง และองค์พระผู้เป็นเจ้าเพียงพระองค์เดียวจะทรงได้รับการเทิดทูนในวันนั้น",
+      "thai_literal": null,
+      "thai_summary": "ประโยคซ้ำหลักของบทนี้ (ดังอีกครั้งข้อ 17): ในวันนั้นความสูงทุกชนิดของมนุษย์จะถูกปรับระดับลง เหลือความสูงเดียวที่ตั้งอยู่ — องค์พระผู้เป็นเจ้าเพียงพระองค์เดียว",
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้า",
+          "rationale": "יהוה → ‘องค์พระผู้เป็นเจ้า’ ตาม divine_names_table_2026-05.md (Layer 1)"
+        },
+        {
+          "hebrew": "עֵינֵי גַּבְהוּת אָדָם שָׁפֵל וְשַׁח רוּם אֲנָשִׁים",
+          "rendering": "ตาอันยโสของมนุษย์จะถูกทำให้ตกต่ำ และความผยองของผู้คนจะถูกกดให้ต่ำลง",
+          "rationale": "v. 11 order: šāpēl first, šaḥ second; v. 17 swaps them (šaḥ first, šāpēl second) — the chiastic swap is reproduced exactly with the locked pair ถูกทำให้ตกต่ำ/ถูกกดให้ต่ำลง (see v. 9 lock)."
+        },
+        {
+          "hebrew": "וְנִשְׂגַּב יְהוָה לְבַדּוֹ בַּיּוֹם הַהוּא",
+          "rendering": "และองค์พระผู้เป็นเจ้าเพียงพระองค์เดียวจะทรงได้รับการเทิดทูนในวันนั้น",
+          "rationale": "REFRAIN LOCK (×2: vv. 11, 17 — byte-identical). śāgab Niphal ‘be exalted/inaccessibly high’ → ทรงได้รับการเทิดทูน; בַּיּוֹם הַהוּא → ในวันนั้น locked as Isaiah's eschatological marker (recurs ~45× in the book)."
+        }
+      ],
+      "notes": "גַּבְהוּת ‘haughtiness’ + רוּם ‘loftiness’ → ยโส/ผยอง — the pride-lexicon pair held distinct through the chapter."
+    }
+  },
+  {
+    "reference": "Isaiah 2:12",
+    "chapter": 2,
+    "verse": 12,
+    "language": "hebrew",
+    "hebrew": "כִּ֣י י֞וֹם לַיהוָ֧ה צְבָא֛וֹת עַ֥ל כָּל־גֵּאֶ֖ה וָרָ֑ם וְעַ֖ל כָּל־נִשָּׂ֥א וְשָׁפֵֽל׃",
+    "bsb_english": "For the Day of the LORD of Hosts will come against all the proud and lofty, against all that is exalted—it will be humbled—",
+    "translation": {
+      "thai": "เพราะวันแห่งองค์พระผู้เป็นเจ้าจอมโยธาจะมาเหนือทุกสิ่งที่เย่อหยิ่งและทะนงตน เหนือทุกสิ่งที่ถูกยกขึ้นสูง — และมันจะถูกทำให้ตกต่ำ",
+      "thai_literal": null,
+      "thai_summary": "นี่คือการเปิดตัว ‘วันแห่งองค์พระผู้เป็นเจ้า’ ในหนังสืออิสยาห์ — วันที่พระเจ้าจะทรงจัดการกับทุกความสูงผยองของโลก รายการที่ตามมา (ข้อ 13–16) ไล่จากต้นไม้ถึงเรือสินค้า คือทุกสัญลักษณ์ความยิ่งใหญ่ที่มนุษย์สร้าง",
+      "key_decisions": [
+        {
+          "hebrew": "כִּי יוֹם לַיהוָה צְבָאוֹת",
+          "rendering": "วันแห่งองค์พระผู้เป็นเจ้าจอมโยธา",
+          "rationale": "yôm la-YHWH — the Day-of-YHWH debut in Isaiah: วันแห่งองค์พระผู้เป็นเจ้า aligns with the shipped NT ἡμέρα κυρίου (1 Th 5:2 วันแห่งองค์พระผู้เป็นเจ้า per divine_names_table evidence base) + จอมโยธา for צְבָאוֹת. OT-NT eschatological vocabulary now one continuous surface."
+        },
+        {
+          "hebrew": "עַל כָּל־גֵּאֶה וָרָם וְעַל כָּל־נִשָּׂא וְשָׁפֵל",
+          "rendering": "เหนือทุกสิ่งที่เย่อหยิ่งและทะนงตน เหนือทุกสิ่งที่ถูกยกขึ้นสูง — และมันจะถูกทำให้ตกต่ำ",
+          "rationale": "The עַל כָּל־ anaphora (×10 through v. 16) locked as เหนือ…ทุก/ทั้งปวง. Final וְשָׁפֵל read with BSB/ESV as outcome (‘and it shall be brought low’) — ถูกทำให้ตกต่ำ keeps the locked šāpēl rendering; the נִשָּׂא keyword (‘lifted up’) links back to v. 9's אַל־תִּשָּׂא pun."
+        }
+      ],
+      "notes": "MT's closing וְשָׁפֵל is grammatically jarring (adjective where a verb is expected) — read as a verdict-tag; LXX smooths differently (καὶ ταπεινωθήσονται). MT followed."
+    }
+  },
+  {
+    "reference": "Isaiah 2:13",
+    "chapter": 2,
+    "verse": 13,
+    "language": "hebrew",
+    "hebrew": "וְעַל֙ כָּל־אַרְזֵ֣י הַלְּבָנ֔וֹן הָרָמִ֖ים וְהַנִּשָּׂאִ֑ים וְעַ֖ל כָּל־אַלּוֹנֵ֥י הַבָּשָֽׁן׃",
+    "bsb_english": "against all the cedars of Lebanon, lofty and lifted up, against all the oaks of Bashan,",
+    "translation": {
+      "thai": "เหนือต้นสนสีดาร์แห่งเลบานอนทั้งปวงที่สูงตระหง่านและถูกยกขึ้น และเหนือต้นโอ๊กแห่งบาชานทั้งปวง",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "אַרְזֵי הַלְּבָנוֹן",
+          "rendering": "ต้นสนสีดาร์แห่งเลบานอน",
+          "rationale": "Matches shipped Ps 29:5 (ต้นสนสีดาร์แห่งเลบานอน). Cedars/oaks = the proverbial proud-tall of creation; the catalogue descends from nature's heights to man's artifacts."
+        }
+      ],
+      "notes": "אַלּוֹנֵי הַבָּשָׁן → ต้นโอ๊กแห่งบาชาน (ʾallôn the true oak, distinct from ch. 1's אֵילִים/אֵלָה terebinth-family rendered ต้นโอ๊ก generically — Thai lacks a distinct terebinth word; documented)."
+    }
+  },
+  {
+    "reference": "Isaiah 2:14",
+    "chapter": 2,
+    "verse": 14,
+    "language": "hebrew",
+    "hebrew": "וְעַ֖ל כָּל־הֶהָרִ֣ים הָרָמִ֑ים וְעַ֖ל כָּל־הַגְּבָע֥וֹת הַנִּשָּׂאֽוֹת׃",
+    "bsb_english": "against all the tall mountains, against all the high hills,",
+    "translation": {
+      "thai": "เหนือภูเขาสูงตระหง่านทั้งปวง และเหนือเนินเขาที่ถูกยกขึ้นทั้งปวง",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "הֶהָרִים הָרָמִים … הַגְּבָעוֹת הַנִּשָּׂאוֹת",
+          "rendering": "ภูเขาสูงตระหง่าน … เนินเขาที่ถูกยกขึ้น",
+          "rationale": "Mountains/hills echo v. 2 (ภูเขา/เนินเขา) — the heights above which Zion is raised are precisely what the Day flattens; vocabulary kept identical to v. 2 so the echo lands. (Ellipsis joins the two cola.)"
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Isaiah 2:15",
+    "chapter": 2,
+    "verse": 15,
+    "language": "hebrew",
+    "hebrew": "וְעַ֖ל כָּל־מִגְדָּ֣ל גָּבֹ֑הַ וְעַ֖ל כָּל־חוֹמָ֥ה בְצוּרָֽה׃",
+    "bsb_english": "against every high tower, against every fortified wall,",
+    "translation": {
+      "thai": "เหนือหอคอยสูงทุกแห่ง และเหนือกำแพงป้อมปราการทุกแห่ง",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "מִגְדָּל גָּבֹהַ … חוֹמָה בְצוּרָה",
+          "rendering": "หอคอยสูง … กำแพงป้อมปราการ",
+          "rationale": "From nature's heights (vv. 13–14) to military architecture: บְצוּרָה ‘fortified’ → ป้อมปราการ per the shipped fortified-city vocabulary (Deut/Joshua corpus). (Ellipsis joins the two cola.)"
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Isaiah 2:16",
+    "chapter": 2,
+    "verse": 16,
+    "language": "hebrew",
+    "hebrew": "וְעַ֖ל כָּל־אֳנִיּ֣וֹת תַּרְשִׁ֑ישׁ וְעַ֖ל כָּל־שְׂכִיּ֥וֹת הַחֶמְדָּֽה׃",
+    "bsb_english": "against every ship of Tarshish, and against every stately vessel.",
+    "translation": {
+      "thai": "เหนือเรือทารชิชทุกลำ และเหนือเรืองามตระการทุกลำ",
+      "thai_literal": null,
+      "thai_summary": "‘เรือทารชิช’ คือเรือสินค้าเดินทะเลไกลสุดขอบโลกที่รู้จักในยุคนั้น (ดู 1 พงศ์กษัตริย์ 10:22) — สัญลักษณ์สุดท้ายและไกลที่สุดของความมั่งคั่งและความภาคภูมิของมนุษย์ที่วันแห่งองค์พระผู้เป็นเจ้าจะไล่ถึง",
+      "key_decisions": [
+        {
+          "hebrew": "אֳנִיּוֹת תַּרְשִׁישׁ",
+          "rendering": "เรือทารชิช",
+          "rationale": "Matches shipped 1KI 10:22 (กองเรือทารชิช) — the long-range merchant fleet class."
+        },
+        {
+          "hebrew": "שְׂכִיּוֹת הַחֶמְדָּה",
+          "rendering": "เรืองามตระการ",
+          "rationale": "hapax — śəkîyôt: sense uncertain (Egyptian loan ‘ships’? ‘carved images’? ‘watchtowers’?). Parallelism with ships-of-Tarshish favors stately vessels (so BSB ‘stately vessel’, LXX θέαν πλοίων κάλλους); rendered เรืองามตระการ with the alternatives documented."
+        }
+      ],
+      "notes": "HAPAX: שְׂכִיָּה. The catalogue's ten עַל כָּל־ strokes end at the sea — nothing tall, walled, or far escapes."
+    }
+  },
+  {
+    "reference": "Isaiah 2:17",
+    "chapter": 2,
+    "verse": 17,
+    "language": "hebrew",
+    "hebrew": "וְשַׁח֙ גַּבְה֣וּת הָאָדָ֔ם וְשָׁפֵ֖ל ר֣וּם אֲנָשִׁ֑ים וְנִשְׂגַּ֧ב יְהוָ֛ה לְבַדּ֖וֹ בַּיּ֥וֹם הַהֽוּא׃",
+    "bsb_english": "So the pride of man will be brought low, and the loftiness of men will be humbled; the LORD alone will be exalted in that day,",
+    "translation": {
+      "thai": "ความยโสของมนุษย์จะถูกกดให้ต่ำลง และความผยองของผู้คนจะถูกทำให้ตกต่ำ และองค์พระผู้เป็นเจ้าเพียงพระองค์เดียวจะทรงได้รับการเทิดทูนในวันนั้น",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้า",
+          "rationale": "יהוה → ‘องค์พระผู้เป็นเจ้า’ ตาม divine_names_table_2026-05.md (Layer 1)"
+        },
+        {
+          "hebrew": "וְשַׁח גַּבְהוּת הָאָדָם וְשָׁפֵל רוּם אֲנָשִׁים",
+          "rendering": "ความยโสของมนุษย์จะถูกกดให้ต่ำลง และความผยองของผู้คนจะถูกทำให้ตกต่ำ",
+          "rationale": "v. 17 swaps the verb-order of v. 11 (šaḥ now first, šāpēl second) — the locked pair ถูกกดให้ต่ำลง/ถูกทำให้ตกต่ำ swaps with it, mirroring the Hebrew chiasm exactly; the refrain tail (R_EXALT) stays byte-identical to v. 11."
+        }
+      ],
+      "notes": "Refrain recurrence closing the Day-catalogue: the ten-fold ‘against all…’ resolves into the same verdict sentence as v. 11."
+    }
+  },
+  {
+    "reference": "Isaiah 2:18",
+    "chapter": 2,
+    "verse": 18,
+    "language": "hebrew",
+    "hebrew": "וְהָאֱלִילִ֖ים כָּלִ֥יל יַחֲלֹֽף׃",
+    "bsb_english": "and the idols will vanish completely.",
+    "translation": {
+      "thai": "และรูปเคารพทั้งปวงจะสูญสิ้นไปอย่างสิ้นเชิง",
+      "thai_literal": null,
+      "thai_summary": "ข้อสั้นที่สุดของบท — สามคำในภาษาฮีบรู และกริยาเป็นเอกพจน์ทั้งที่ประธานเป็นพหูพจน์: รูปเคารพทั้งหมดหายวับไปราวกับเป็นของชิ้นเดียว",
+      "key_decisions": [
+        {
+          "hebrew": "וְהָאֱלִילִים כָּלִיל יַחֲלֹף",
+          "rendering": "รูปเคารพทั้งปวงจะสูญสิ้นไปอย่างสิ้นเชิง",
+          "rationale": "Three-word verse; singular verb יַחֲלֹף with plural subject — the ʾĕlîlîm vanish as one undifferentiated mass (grammar enacting contempt). כָּלִיל ‘entirely’ → อย่างสิ้นเชิง; the brevity kept (one Thai clause)."
+        }
+      ],
+      "notes": "The fill-chain (vv. 6–8: land FULL of idols) answers to total evacuation — fullness to nothing in one breath."
+    }
+  },
+  {
+    "reference": "Isaiah 2:19",
+    "chapter": 2,
+    "verse": 19,
+    "language": "hebrew",
+    "hebrew": "וּבָ֙אוּ֙ בִּמְעָר֣וֹת צֻרִ֔ים וּבִמְחִלּ֖וֹת עָפָ֑ר מִפְּנֵ֞י פַּ֤חַד יְהוָה֙ וּמֵהֲדַ֣ר גְּאוֹנ֔וֹ בְּקוּמ֖וֹ לַעֲרֹ֥ץ הָאָֽרֶץ׃",
+    "bsb_english": "Men will flee to caves in the rocks and holes in the ground, away from the terror of the LORD and from the splendor of His majesty, when He rises to shake the earth.",
+    "translation": {
+      "thai": "ผู้คนจะเข้าไปในถ้ำหิน และในโพรงดิน ให้พ้นจากความน่าสะพรึงกลัวขององค์พระผู้เป็นเจ้า และจากความรุ่งโรจน์แห่งพระบารมีของพระองค์ เมื่อพระองค์ทรงลุกขึ้นทำให้แผ่นดินโลกสั่นสะท้าน",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้า",
+          "rationale": "יהוה → ‘องค์พระผู้เป็นเจ้า’ ตาม divine_names_table_2026-05.md (Layer 1)"
+        },
+        {
+          "hebrew": "וּבִמְחִלּוֹת עָפָר",
+          "rendering": "ในโพรงดิน",
+          "rationale": "hapax — məḥillôt ‘holes/burrows’ (root חלל hollow); the hiding-places vary at each refrain occurrence (v. 10 ซอกหิน/ผงคลีดิน; here ถ้ำหิน/โพรงดิน; v. 21 ซอกหินผา/รอยแยกแห่งโขดผา) while the refrain tail stays identical — mirroring the Hebrew's variation-within-repetition."
+        },
+        {
+          "hebrew": "בְּקוּמוֹ לַעֲרֹץ הָאָרֶץ",
+          "rendering": "เมื่อพระองค์ทรงลุกขึ้นทำให้แผ่นดินโลกสั่นสะท้าน",
+          "rationale": "ʿāraṣ ‘cause to tremble/terrify’ → ทำให้แผ่นดินโลกสั่นสะท้าน (with BSB ‘shake’); the Hebrew sound-play laʿărōṣ hāʾāreṣ (terrify/earth) noted — untranslatable, documented. Tail locked byte-identical with v. 21."
+        }
+      ],
+      "notes": "HAPAX: מְחִלָּה. Men return to the holes of the animals (v. 20's moles and bats live in exactly these burrows) — de-creation imagery."
+    }
+  },
+  {
+    "reference": "Isaiah 2:20",
+    "chapter": 2,
+    "verse": 20,
+    "language": "hebrew",
+    "hebrew": "בַּיּ֤וֹם הַהוּא֙ יַשְׁלִ֣יךְ הָאָדָ֔ם אֵ֚ת אֱלִילֵ֣י כַסְפּ֔וֹ וְאֵ֖ת אֱלִילֵ֣י זְהָב֑וֹ אֲשֶׁ֤ר עָֽשׂוּ־לוֹ֙ לְהִֽשְׁתַּחֲוֺ֔ת לַחְפֹּ֥ר פֵּר֖וֹת וְלָעֲטַלֵּפִֽים׃",
+    "bsb_english": "In that day men will cast away to the moles and bats their idols of silver and gold—the idols they made to worship.",
+    "translation": {
+      "thai": "ในวันนั้น มนุษย์จะเหวี่ยงรูปเคารพเงินและรูปเคารพทองคำของตน ซึ่งเขาทำขึ้นไว้กราบไหว้ ทิ้งให้แก่ตัวตุ่นและค้างคาว",
+      "thai_literal": null,
+      "thai_summary": "รูปเคารพที่เคยแพงที่สุด (เงิน ทองคำ) ถูกเหวี่ยงให้สัตว์ที่อาศัยในที่มืดที่สุด — ตัวตุ่นกับค้างคาว — เพราะในวันนั้นเจ้าของมันเองก็ต้องมุดรูเหมือนกัน รูปเคารพช่วยใครไม่ได้ แม้แต่ขวางทางหนีก็ยังเกะกะ",
+      "key_decisions": [
+        {
+          "hebrew": "לַחְפֹּר פֵּרוֹת",
+          "rendering": "ตัวตุ่น",
+          "rationale": "Famous crux: MT as written divides לַחְפֹּר פֵּרוֹת (two words, lit. ‘to dig holes’?) — read universally (with BHS, most mss-comparison, and the versions' sense) as one word חֲפַרְפָּרוֹת ‘moles’ (burrowing rodents); BSB ‘to the moles’. The variant word-division documented; LXX τοῖς ματαίοις ‘to the worthless things’ went another way. Rendered ตัวตุ่น."
+        },
+        {
+          "hebrew": "לְהִשְׁתַּחֲוֺת",
+          "rendering": "กราบไหว้",
+          "rationale": "Infinitive ‘to worship’ with idol-object → กราบไหว้ (idolatry register per ot_register_policy §3.2; ก้มกราบ family of EXO 20:5 — นมัสการ reserved for YHWH-worship)."
+        }
+      ],
+      "notes": "HAPAX (by word-division): חֲפַרְפָּרוֹת moles; עֲטַלֵּפִים bats. בַּיּוֹם הַהוּא → ในวันนั้น (locked v. 11). The silver/gold idols closing the chapter answer the silver/gold opening the indictment (v. 7) — wealth and its gods exit together."
+    }
+  },
+  {
+    "reference": "Isaiah 2:21",
+    "chapter": 2,
+    "verse": 21,
+    "language": "hebrew",
+    "hebrew": "לָבוֹא֙ בְּנִקְר֣וֹת הַצֻּרִ֔ים וּבִסְעִפֵ֖י הַסְּלָעִ֑ים מִפְּנֵ֞י פַּ֤חַד יְהוָה֙ וּמֵהֲדַ֣ר גְּאוֹנ֔וֹ בְּקוּמ֖וֹ לַעֲרֹ֥ץ הָאָֽרֶץ׃",
+    "bsb_english": "They will flee to caverns in the rocks and crevices in the cliffs, away from the terror of the LORD and from the splendor of His majesty, when He rises to shake the earth.",
+    "translation": {
+      "thai": "เพื่อคลานเข้าไปในซอกหินผา และในรอยแยกแห่งโขดผา ให้พ้นจากความน่าสะพรึงกลัวขององค์พระผู้เป็นเจ้า และจากความรุ่งโรจน์แห่งพระบารมีของพระองค์ เมื่อพระองค์ทรงลุกขึ้นทำให้แผ่นดินโลกสั่นสะท้าน",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "בְּנִקְרוֹת הַצֻּרִים וּבִסְעִפֵי הַסְּלָעִים",
+          "rendering": "ในซอกหินผา และในรอยแยกแห่งโขดผา",
+          "rationale": "niqrôt ‘clefts’ + səʿipîm ‘fissures/crags’ — the third hiding-place pair, again varied (see v. 19 kd) while both refrain tails (R_TERROR + R_RISES) remain byte-identical with vv. 10/19. Layer 1: יהוה in the refrain → องค์พระผู้เป็นเจ้า."
+        }
+      ],
+      "notes": "Triple refrain closes: rock→caves→crevices, each occurrence driving deeper into the stone. Rev 6:15–16 reworks this scene (kings hiding in caves from the face of Him who sits on the throne)."
+    }
+  },
+  {
+    "reference": "Isaiah 2:22",
+    "chapter": 2,
+    "verse": 22,
+    "language": "hebrew",
+    "hebrew": "חִדְל֤וּ לָכֶם֙ מִן־הָ֣אָדָ֔ם אֲשֶׁ֥ר נְשָׁמָ֖ה בְּאַפּ֑וֹ כִּֽי־בַמֶּ֥ה נֶחְשָׁ֖ב הֽוּא׃",
+    "bsb_english": "Put no more trust in man, who has only the breath in his nostrils. Of what account is he?",
+    "translation": {
+      "thai": "จงเลิกวางใจในมนุษย์ ผู้มีเพียงลมหายใจในจมูกของเขา เพราะเขามีค่าอันใดเล่า?",
+      "thai_literal": "จงหยุดเสียจากมนุษย์ ผู้ซึ่งลมหายใจอยู่ในจมูกของเขา เพราะเขาถูกนับว่าเป็นสิ่งใดเล่า?",
+      "thai_summary": "บทจบด้วยคำเตือนที่เรียบและคม: สิ่งที่มนุษย์เป็นทั้งหมดคือลมหายใจหนึ่งเฮือกในจมูก (ปฐมกาล 2:7) — อย่าสร้างชีวิตบนสิ่งที่หายไปได้ในลมหายใจเดียว ข้อนี้ไม่มีในฉบับกรีกโบราณ (เซปทัวจินต์) แต่ยืนอยู่ในต้นฉบับฮีบรูทุกสาย",
+      "key_decisions": [
+        {
+          "hebrew": "חִדְלוּ לָכֶם מִן־הָאָדָם",
+          "rendering": "จงเลิกวางใจในมนุษย์",
+          "rationale": "ḥidlû — the same imperative as 1:16's จงเลิกทำชั่ว: cease from evil, now cease from man-trust; the cross-chapter echo kept with จงเลิก. The elliptical מִן־הָאָדָם (‘[desist] from man’) unfolded as วางใจใน with BSB (‘put no more trust in man’)."
+        },
+        {
+          "hebrew": "אֲשֶׁר נְשָׁמָה בְּאַפּוֹ",
+          "rendering": "ผู้มีเพียงลมหายใจในจมูกของเขา",
+          "rationale": "Direct allusion to Gen 2:7 (נִשְׁמַת חַיִּים בְּאַפָּיו — shipped ลมหายใจแห่งชีวิต…ในจมูกของเขา): vocabulary matched (ลมหายใจ/จมูก) so the creation-echo carries; เพียง supplies the implied ‘only’ (so BSB)."
+        }
+      ],
+      "notes": "TEXT: v. 22 is absent from the LXX entirely (MT-plus). Per mt_vs_lxx_textual_variant_handling (RULES §2.3 floor), MT is rendered and the LXX omission documented here — no Tier-2 treatment owed (this is an LXX-minus, not an MT-omission a Thai reader would miss). The verse pivots into ch. 3 (stop trusting man — for I am removing every man you trust)."
+    }
+  }
+]
