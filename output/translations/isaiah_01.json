@@ -1,0 +1,878 @@
+[
+  {
+    "reference": "Isaiah 1:1",
+    "chapter": 1,
+    "verse": 1,
+    "language": "hebrew",
+    "hebrew": "חֲזוֹן֙ יְשַֽׁעְיָ֣הוּ בֶן־אָמ֔וֹץ אֲשֶׁ֣ר חָזָ֔ה עַל־יְהוּדָ֖ה וִירוּשָׁלִָ֑ם בִּימֵ֨י עֻזִּיָּ֧הוּ יוֹתָ֛ם אָחָ֥ז יְחִזְקִיָּ֖הוּ מַלְכֵ֥י יְהוּדָֽה׃",
+    "bsb_english": "This is the vision concerning Judah and Jerusalem that Isaiah son of Amoz saw during the reigns of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah.",
+    "translation": {
+      "thai": "นิมิตของอิสยาห์บุตรของอาโมศ ซึ่งท่านได้เห็นเกี่ยวกับยูดาห์และเยรูซาเล็ม ในรัชสมัยของอุสซียาห์ โยธาม อาหัส และเฮเซคียาห์ บรรดากษัตริย์แห่งยูดาห์",
+      "thai_literal": null,
+      "thai_summary": "ข้อเปิดหนังสือระบุผู้เผยพระวจนะ ช่วงเวลา (ราว 740–700 ปีก่อนคริสตกาล ในรัชสมัยกษัตริย์สี่พระองค์แห่งยูดาห์) และขอบเขตของนิมิต คือยูดาห์กับเยรูซาเล็ม",
+      "key_decisions": [
+        {
+          "hebrew": "חֲזוֹן",
+          "rendering": "นิมิต",
+          "rationale": "ḥazon = prophetic vision (cognate with the verb חָזָה ‘saw’ later in the verse). ‘นิมิต’ is the established Thai Christian term for revelatory vision; the superscription governs the whole 66-chapter book, not just ch. 1."
+        },
+        {
+          "hebrew": "אָמוֹץ",
+          "rendering": "อาโมศ",
+          "rationale": "Amoz (Isaiah's father) = อาโมศ, matching shipped 2KI 19:2/20:1 — deliberately distinct from the prophet Amos (עָמוֹס → อาโมส). Kings' names อุสซียาห์/โยธาม/อาหัส/เฮเซคียาห์ all match shipped 2 Kings 15–20."
+        }
+      ],
+      "notes": "Superscription. The vision-singular (chazon) covering a ministry of ~40 years marks the book as a unified prophetic corpus. Prophet referenced with ท่าน (venerated-elder register, not royal) per ot_register_policy §2.2 — prophets do not receive ทรง."
+    }
+  },
+  {
+    "reference": "Isaiah 1:2",
+    "chapter": 1,
+    "verse": 2,
+    "language": "hebrew",
+    "hebrew": "שִׁמְע֤וּ שָׁמַ֙יִם֙ וְהַאֲזִ֣ינִי אֶ֔רֶץ כִּ֥י יְהוָ֖ה דִּבֵּ֑ר בָּנִים֙ גִּדַּ֣לְתִּי וְרוֹמַ֔מְתִּי וְהֵ֖ם פָּ֥שְׁעוּ בִֽי׃",
+    "bsb_english": "Listen, O heavens, and give ear, O earth, for the LORD has spoken: “I have raised children and brought them up, but they have rebelled against Me.",
+    "translation": {
+      "thai": "ฟ้าสวรรค์เอ๋ย จงฟัง แผ่นดินโลกเอ๋ย จงเงี่ยหูฟัง เพราะองค์พระผู้เป็นเจ้าตรัสแล้วว่า “เราได้เลี้ยงดูบุตรทั้งหลายให้เติบใหญ่และยกชูพวกเขาขึ้น แต่พวกเขากลับกบฏต่อเรา",
+      "thai_literal": null,
+      "thai_summary": "อิสยาห์เปิดคดีความแห่งพันธสัญญาโดยเรียกฟ้าสวรรค์และแผ่นดินโลกมาเป็นพยาน เหมือนบทเพลงของโมเสส (เฉลยธรรมบัญญัติ 32:1) พระเจ้าทรงฟ้องว่าบุตรที่ทรงเลี้ยงดูมากลับกบฏต่อพระองค์เอง",
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้า",
+          "rationale": "יהוה → ‘องค์พระผู้เป็นเจ้า’ ตาม divine_names_table_2026-05.md (Layer 1)"
+        },
+        {
+          "hebrew": "שִׁמְעוּ שָׁמַיִם וְהַאֲזִינִי אֶרֶץ",
+          "rendering": "ฟ้าสวรรค์เอ๋ย จงฟัง แผ่นดินโลกเอ๋ย จงเงี่ยหูฟัง",
+          "rationale": "Heavens/earth witness-summons opening the covenant-lawsuit (rîv). Vocabulary pair matches shipped Deut 32:1 (ฟ้าสวรรค์เอ๋ย/แผ่นดินโลกเอ๋ย + ฟัง/เงี่ยหูฟัง) so the Thai reader hears the Song-of-Moses echo; Isaiah reverses which verb goes with which witness, and the Thai follows Isaiah's assignment (שמע→heavens, אזן→earth)."
+        },
+        {
+          "hebrew": "פָּשְׁעוּ בִי",
+          "rendering": "กบฏต่อเรา",
+          "rationale": "pāšaʿ = covenantal rebellion/breach (not mere disobedience) — กบฏ matches the political-rebellion usage shipped at 1KI 12:19, here transferred to covenant treason against the divine suzerain. Divine first-person speech uses เรา + plain verbs per ot_register_policy §4."
+        }
+      ],
+      "notes": "Covenant-lawsuit (rîv) opening; Deut 32:1 is the recognized intertext (Moses' witness-pair invoked against covenant breach per Deut 30:19, 31:28). YHWH's speech opens here and runs through v. 3."
+    }
+  },
+  {
+    "reference": "Isaiah 1:3",
+    "chapter": 1,
+    "verse": 3,
+    "language": "hebrew",
+    "hebrew": "יָדַ֥ע שׁוֹר֙ קֹנֵ֔הוּ וַחֲמ֖וֹר אֵב֣וּס בְּעָלָ֑יו יִשְׂרָאֵל֙ לֹ֣א יָדַ֔ע עַמִּ֖י לֹ֥א הִתְבּוֹנָֽן׃",
+    "bsb_english": "The ox knows its owner, and the donkey its master’s manger, but Israel does not know; My people do not understand.”",
+    "translation": {
+      "thai": "โคยังรู้จักเจ้าของของมัน และลาก็รู้จักรางหญ้าของนายมัน แต่อิสราเอลไม่รู้จัก ประชากรของเราไม่เข้าใจ”",
+      "thai_literal": null,
+      "thai_summary": "แม้แต่สัตว์เลี้ยงที่ถูกมองว่าโง่ที่สุดยังรู้จักผู้เลี้ยงและรางหญ้าของมัน แต่อิสราเอลกลับไม่รู้จักพระเจ้าผู้ทรงเลี้ยงดูตน — ภาพเปรียบเทียบอันเจ็บแสบของผู้เผยพระวจนะ",
+      "key_decisions": [
+        {
+          "hebrew": "אֵבוּס",
+          "rendering": "รางหญ้า",
+          "rationale": "ʾēvûs = feeding-trough/manger. The donkey knows where its food comes from; Israel does not. รางหญ้า is the plain agrarian term."
+        },
+        {
+          "hebrew": "יָדַע",
+          "rendering": "รู้จัก",
+          "rationale": "yādaʿ here is relational knowing (acknowledging one's owner), not intellectual knowledge — รู้จัก carries exactly this relational sense in Thai; the absolute use (‘Israel does not know’) is left object-less as in Hebrew."
+        }
+      ],
+      "notes": "YHWH's speech (vv. 2b–3) closes here. The ox/donkey pair frames Israel as duller than beasts of burden; the verbs know/understand (ידע/בין) are wisdom-vocabulary, casting covenant breach as anti-wisdom folly."
+    }
+  },
+  {
+    "reference": "Isaiah 1:4",
+    "chapter": 1,
+    "verse": 4,
+    "language": "hebrew",
+    "hebrew": "ה֣וֹי ׀ גּ֣וֹי חֹטֵ֗א עַ֚ם כֶּ֣בֶד עָוֺ֔ן זֶ֣רַע מְרֵעִ֔ים בָּנִ֖ים מַשְׁחִיתִ֑ים עָזְב֣וּ אֶת־יְהוָ֗ה נִֽאֲצ֛וּ אֶת־קְד֥וֹשׁ יִשְׂרָאֵ֖ל נָזֹ֥רוּ אָחֽוֹר׃",
+    "bsb_english": "Alas, O sinful nation, a people laden with iniquity, a brood of evildoers, children who act corruptly! They have forsaken the LORD; they have despised the Holy One of Israel and turned their backs on Him.",
+    "translation": {
+      "thai": "โอ้ ชนชาติที่บาปหนา ประชาชนที่หนักอึ้งด้วยความชั่วช้า เผ่าพันธุ์ของผู้กระทำชั่วร้าย บุตรทั้งหลายผู้ประพฤติเสื่อมทราม! พวกเขาได้ละทิ้งองค์พระผู้เป็นเจ้า ได้ดูหมิ่นองค์บริสุทธิ์แห่งอิสราเอล และหันหลังออกห่างจากพระองค์",
+      "thai_literal": null,
+      "thai_summary": "คำคร่ำครวญสี่ชั้น (ชนชาติ–ประชาชน–เผ่าพันธุ์–บุตร) พรรณนาความเสื่อมที่ลามทั้งชาติ และที่นี่เป็นครั้งแรกที่อิสยาห์เรียกพระเจ้าว่า ‘องค์บริสุทธิ์แห่งอิสราเอล’ — พระนามประจำหนังสือเล่มนี้ซึ่งจะปรากฏอีกราว 25 ครั้ง",
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้า",
+          "rationale": "יהוה → ‘องค์พระผู้เป็นเจ้า’ ตาม divine_names_table_2026-05.md (Layer 1)"
+        },
+        {
+          "hebrew": "קְדוֹשׁ יִשְׂרָאֵל",
+          "rendering": "องค์บริสุทธิ์แห่งอิสราเอล",
+          "rationale": "qedôš yiśrāʾēl — Isaiah's signature divine title (~25× in the book, rare elsewhere), rooted in the ch. 6 trishagion vision. Rendering matches shipped 2KI 19:22 (the Sennacherib pericope parallel to Isa 37:23) exactly. BOOK LOCK from this first occurrence: องค์บริสุทธิ์แห่งอิสราเอล throughout Isaiah."
+        },
+        {
+          "hebrew": "הוֹי",
+          "rendering": "โอ้",
+          "rationale": "hôy woe-marker in its vocative-grief use (direct address to the nation, no לְ-dative): โอ้ preserves the funeral-lament tone (cf. shipped 1KI 13:30 อนิจจาเอ๋ย for the funeral cry). The judgment-series use (hôy + participle, ‘Woe to those who…’, Isa 5:8ff) will take วิบัติแก่ — two-form policy documented here at the book's first hôy."
+        },
+        {
+          "hebrew": "גּוֹי חֹטֵא",
+          "rendering": "ชนชาติที่บาปหนา",
+          "rationale": "Stinging irony: gôy is the word normally used for the (pagan) nations; applying it to Israel strips their covenant distinctiveness. ชนชาติ (not ประชากร) keeps the ‘like-the-nations’ sting; ประชาชน then renders עַם in the next colon."
+        },
+        {
+          "hebrew": "נִאֲצוּ",
+          "rendering": "ดูหมิ่น",
+          "rationale": "niʾēṣ = spurn/treat with contempt (cf. Num 14:11). ดูหมิ่น reserved for נאץ; หมิ่นประมาท remains paired with גדף-family blasphemy verbs as in shipped 2KI 19:22."
+        }
+      ],
+      "notes": "First occurrence of קְדוֹשׁ יִשְׂרָאֵל (the Holy One of Israel) — Isaiah's signature title binding the book's two halves (1–39: 12×; 40–66: 13×), and the theological axis of the book: the Holy One against an unholy nation. נָזֹרוּ אָחוֹר (Niphal זור, ‘estranged backward’) rendered หันหลังออกห่างจากพระองค์."
+    }
+  },
+  {
+    "reference": "Isaiah 1:5",
+    "chapter": 1,
+    "verse": 5,
+    "language": "hebrew",
+    "hebrew": "עַ֣ל מֶ֥ה תֻכּ֛וּ ע֖וֹד תּוֹסִ֣יפוּ סָרָ֑ה כָּל־רֹ֣אשׁ לָחֳלִ֔י וְכָל־לֵבָ֖ב דַּוָּֽי׃",
+    "bsb_english": "Why do you want more beatings? Why do you keep rebelling? Your head has a massive wound, and your whole heart is afflicted.",
+    "translation": {
+      "thai": "ทำไมพวกเจ้าจึงจะถูกโบยตีอีก? ทำไมจึงยังเพิ่มการดื้อกบฏต่อไป? ศีรษะก็เจ็บป่วยไปทั้งหมด หัวใจก็อ่อนระโหยไปทั้งดวง",
+      "thai_literal": "พวกเจ้าจะถูกตีตรงที่ใดได้อีก ในเมื่อพวกเจ้ายังเพิ่มการดื้อกบฏ? ทุกศีรษะเจ็บป่วย ทุกหัวใจอ่อนระโหย",
+      "thai_summary": "พระเจ้าทรงถามเหมือนบิดาที่เหนื่อยใจ: จะตีลูกที่ไหนได้อีกในเมื่อทั้งตัวเต็มไปด้วยแผลแล้ว การตีสอน (ผ่านภัยสงคราม) ไม่ได้ทำให้ชาตินี้หันกลับเลย",
+      "key_decisions": [
+        {
+          "hebrew": "עַל מֶה תֻכּוּ עוֹד",
+          "rendering": "ทำไมพวกเจ้าจึงจะถูกโบยตีอีก",
+          "rationale": "ʿal meh = either ‘why’ (BSB/ESV/NIV family — adopted in main text) or locative ‘upon what [spot] can you still be struck’ (which anticipates v. 6's head-to-foot wound survey — given in thai_literal). Optimal-equivalence call per RULES §0: follow the BSB-family reading, preserve the alternative."
+        },
+        {
+          "hebrew": "סָרָה",
+          "rendering": "การดื้อกบฏ",
+          "rationale": "sārâ (defection, root סרר) distinguished from פשע (v. 2 กบฏ covenant-breach) and מרה (v. 20 ขัดขืน): ดื้อกบฏ is reserved for the סרר-family, recurring at v. 23 סוֹרְרִים."
+        }
+      ],
+      "notes": "The nation-as-beaten-body metaphor begins here (vv. 5–6). Imperfect תֻּכּוּ rendered as future-iterative (‘will you keep being struck’)."
+    }
+  },
+  {
+    "reference": "Isaiah 1:6",
+    "chapter": 1,
+    "verse": 6,
+    "language": "hebrew",
+    "hebrew": "מִכַּף־רֶ֤גֶל וְעַד־רֹאשׁ֙ אֵֽין־בּ֣וֹ מְתֹ֔ם פֶּ֥צַע וְחַבּוּרָ֖ה וּמַכָּ֣ה טְרִיָּ֑ה לֹא־זֹ֙רוּ֙ וְלֹ֣א חֻבָּ֔שׁוּ וְלֹ֥א רֻכְּכָ֖ה בַּשָּֽׁמֶן׃",
+    "bsb_english": "From the sole of your foot to the top of your head, there is no soundness—only wounds and welts and festering sores neither cleansed nor bandaged nor soothed with oil.",
+    "translation": {
+      "thai": "ตั้งแต่ฝ่าเท้าจนถึงศีรษะไม่มีส่วนใดปกติดีเลย มีแต่บาดแผล รอยฟกช้ำ และแผลสดเปิด ที่ไม่ได้บีบล้าง ไม่ได้พันผ้า และไม่ได้ชโลมด้วยน้ำมันให้ผ่อนคลาย",
+      "thai_literal": null,
+      "thai_summary": "ร่างของชาติคือคนไข้ที่ถูกทิ้ง: แผลทั้งสามชนิด (แผลเปิด รอยช้ำ แผลสด) ไม่ได้รับการรักษาแม้แต่ขั้นพื้นฐานของแพทย์โบราณ — บีบหนองออก พันผ้า และชโลมน้ำมันมะกอก",
+      "key_decisions": [
+        {
+          "hebrew": "מְתֹם",
+          "rendering": "ส่วนที่ปกติดี",
+          "rationale": "metōm = soundness/intact spot (only here, Ps 38:4, 8 and Jdg 20:48 in cognate form). ‘ไม่มีส่วนใดปกติดีเลย’ renders the negative existential אֵין־בּוֹ מְתֹם."
+        },
+        {
+          "hebrew": "מַכָּה טְרִיָּה",
+          "rendering": "แผลสดเปิด",
+          "rationale": "ṭərîyâ = fresh/raw (of a wound still open) — cf. Jdg 15:15 ‘fresh’ jawbone, the only other occurrence. แผลสดเปิด over ‘festering’ (BSB) because the Hebrew emphasizes rawness, not infection."
+        },
+        {
+          "hebrew": "רֻכְּכָה בַּשָּׁמֶן",
+          "rendering": "ชโลมด้วยน้ำมันให้ผ่อนคลาย",
+          "rationale": "rukkəkâ Pual ‘softened’ — olive oil as wound-emollient (standard ANE first aid, cf. Luke 10:34). The Pual passive chain (זֹרוּ/חֻבָּשׁוּ/רֻכְּכָה) is mirrored by the Thai ไม่ได้-series."
+        }
+      ],
+      "notes": "Three untreated-wound verbs in passive: pressed-out (זֹרוּ, of cleansing a wound), bound up (חֻבָּשׁוּ), softened with oil (רֻכְּכָה). The medical imagery resumes at 30:26 and 61:1 (binding up the broken)."
+    }
+  },
+  {
+    "reference": "Isaiah 1:7",
+    "chapter": 1,
+    "verse": 7,
+    "language": "hebrew",
+    "hebrew": "אַרְצְכֶ֣ם שְׁמָמָ֔ה עָרֵיכֶ֖ם שְׂרֻפ֣וֹת אֵ֑שׁ אַדְמַתְכֶ֗ם לְנֶגְדְּכֶם֙ זָרִים֙ אֹכְלִ֣ים אֹתָ֔הּ וּשְׁמָמָ֖ה כְּמַהְפֵּכַ֥ת זָרִֽים׃",
+    "bsb_english": "Your land is desolate; your cities are burned with fire. Foreigners devour your fields before you—a desolation demolished by strangers.",
+    "translation": {
+      "thai": "แผ่นดินของพวกเจ้าร้างเปล่า เมืองทั้งหลายของพวกเจ้าถูกเผาด้วยไฟ ที่ดินของพวกเจ้านั้น คนต่างชาติกลืนกินต่อหน้าต่อตาพวกเจ้า มันร้างเปล่าดั่งถูกคนต่างชาติคว่ำทลาย",
+      "thai_literal": null,
+      "thai_summary": "ภาพความพินาศนี้ตรงกับเหตุการณ์ปี 701 ก่อนคริสตกาล เมื่อกองทัพอัสซีเรียของเซนนาเคอริบเผาเมืองของยูดาห์ 46 เมือง เหลือแต่เยรูซาเล็ม (ดู 2 พงศ์กษัตริย์ 18–19)",
+      "key_decisions": [
+        {
+          "hebrew": "כְּמַהְפֵּכַת זָרִים",
+          "rendering": "ดั่งถูกคนต่างชาติคว่ำทลาย",
+          "rationale": "mahpēkâ is the Sodom-overthrow lexeme (the noun of הפך used of Sodom, Gen 19:25 shipped ทรงคว่ำ; Deut 29:23; Amos 4:11) — คว่ำทลาย keeps the lexical echo that prepares vv. 9–10's explicit Sodom comparison. Some scholars emend זָרִים to סְדֹם (‘like the overthrow of Sodom’) — an attractive conjecture with no mss support; MT stands per ot_canon_and_text_base."
+        },
+        {
+          "hebrew": "זָרִים אֹכְלִים",
+          "rendering": "คนต่างชาติกลืนกิน",
+          "rationale": "zārîm = strangers/foreigners (hostile outsiders), אכל ‘devour’ of land-consumption — กลืนกิน keeps the devouring metaphor that returns inverted at v. 20 (the sword devours you)."
+        }
+      ],
+      "notes": "The repeated שְׁמָמָה (desolation) frames the verse (ร้างเปล่า … ร้างเปล่า). מַהְפֵּכָה anticipates the Sodom theme: the land already looks like Sodom's aftermath."
+    }
+  },
+  {
+    "reference": "Isaiah 1:8",
+    "chapter": 1,
+    "verse": 8,
+    "language": "hebrew",
+    "hebrew": "וְנוֹתְרָ֥ה בַת־צִיּ֖וֹן כְּסֻכָּ֣ה בְכָ֑רֶם כִּמְלוּנָ֥ה בְמִקְשָׁ֖ה כְּעִ֥יר נְצוּרָֽה׃",
+    "bsb_english": "And the Daughter of Zion is abandoned like a shelter in a vineyard, like a shack in a cucumber field, like a city besieged.",
+    "translation": {
+      "thai": "ธิดาแห่งศิโยนถูกทิ้งให้เหลืออยู่ดั่งเพิงในสวนองุ่น ดั่งกระท่อมเฝ้ายามในไร่แตงกวา ดั่งเมืองที่ถูกล้อม",
+      "thai_literal": null,
+      "thai_summary": "หลังฤดูเก็บเกี่ยว เพิงเฝ้าผลไม้จะถูกทิ้งให้โย้เย้กลางไร่ — ศิโยนเหลืออยู่อย่างนั้น โดดเดี่ยวกลางแผ่นดินที่ถูกกวาดล้าง ตรงกับภาพเยรูซาเล็มเมืองเดียวที่รอดจากทัพอัสซีเรีย",
+      "key_decisions": [
+        {
+          "hebrew": "בַת־צִיּוֹן",
+          "rendering": "ธิดาแห่งศิโยน",
+          "rationale": "bat-ṣiyyôn personifies the city as a daughter — ธิดาแห่งศิโยน matches the shipped Lamentations corpus (LAM 1:6, 2:1 ฯลฯ) and 2KI 19:21 (ธิดาพรหมจารีแห่งศิโยน for the expanded form). First of many occurrences in Isaiah."
+        },
+        {
+          "hebrew": "כְּעִיר נְצוּרָה",
+          "rendering": "ดั่งเมืองที่ถูกล้อม",
+          "rationale": "nəṣûrâ Qal passive participle of נצר — ‘besieged/watched city’. Read with BSB as siege-isolation; the simile-triplet descends: hut → shack → blockaded city, each more precarious."
+        }
+      ],
+      "notes": "סֻכָּה (booth) → เพิง, מְלוּנָה (watchman's hut, only here and 24:20) → กระท่อมเฝ้ายาม, מִקְשָׁה (cucumber field) → ไร่แตงกวา. The agricultural-watch imagery = temporary, flimsy, post-harvest abandonment."
+    }
+  },
+  {
+    "reference": "Isaiah 1:9",
+    "chapter": 1,
+    "verse": 9,
+    "language": "hebrew",
+    "hebrew": "לוּלֵי֙ יְהוָ֣ה צְבָא֔וֹת הוֹתִ֥יר לָ֛נוּ שָׂרִ֖יד כִּמְעָ֑ט כִּסְדֹ֣ם הָיִ֔ינוּ לַעֲמֹרָ֖ה דָּמִֽינוּ׃",
+    "bsb_english": "Unless the LORD of Hosts had left us a few survivors, we would have become like Sodom, we would have resembled Gomorrah.",
+    "translation": {
+      "thai": "หากองค์พระผู้เป็นเจ้าจอมโยธาไม่ได้ทรงเหลือผู้รอดชีวิตไว้ให้เราบ้างเล็กน้อย เราคงกลายเป็นดั่งโสโดม คงเป็นเหมือนโกโมราห์ไปแล้ว",
+      "thai_literal": null,
+      "thai_summary": "‘ผู้รอดชีวิตเล็กน้อย’ คือจุดกำเนิดหลักคำสอนเรื่อง ‘คนที่เหลืออยู่’ ซึ่งเป็นแก่นของอิสยาห์ทั้งเล่ม — พระคุณของพระเจ้าเพียงอย่างเดียวกั้นยูดาห์ไว้จากชะตากรรมแบบโสโดม เปาโลยกข้อนี้ในโรม 9:29",
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה צְבָאוֹת",
+          "rendering": "องค์พระผู้เป็นเจ้าจอมโยธา",
+          "rationale": "YHWH ṣəvāʾôt → องค์พระผู้เป็นเจ้าจอมโยธา per divine_names_table_2026-05.md — identical to shipped Jas 5:4 (κύριος Σαβαώθ) and 2KI 19:31. First of ~60 occurrences in Isaiah (Layer 1)."
+        },
+        {
+          "hebrew": "שָׂרִיד",
+          "rendering": "ผู้รอดชีวิต",
+          "rationale": "śārîd = survivor — inaugurates Isaiah's remnant theology (cf. שְׁאָר in 10:20–22; the name Shear-jashub 7:3). ผู้รอดชีวิต matches the shipped 2KI 19:31 remnant pair (คนที่เหลือรอด/ผู้รอดชีวิต). LXX reads σπέρμα ‘seed/offspring’ here (followed by Rom 9:29's quotation); MT שָׂרִיד is rendered."
+        }
+      ],
+      "notes": "The prophet joins the people's voice (לָנוּ 'for us'). NT reception: Rom 9:29 quotes this verse verbatim from the LXX (σπέρμα for MT's שָׂרִיד). The Sodom/Gomorrah simile completes the מַהְפֵּכָה echo of v. 7."
+    }
+  },
+  {
+    "reference": "Isaiah 1:10",
+    "chapter": 1,
+    "verse": 10,
+    "language": "hebrew",
+    "hebrew": "שִׁמְע֥וּ דְבַר־יְהוָ֖ה קְצִינֵ֣י סְדֹ֑ם הַאֲזִ֛ינוּ תּוֹרַ֥ת אֱלֹהֵ֖ינוּ עַ֥ם עֲמֹרָֽה׃",
+    "bsb_english": "Hear the word of the LORD, you rulers of Sodom; listen to the instruction of our God, you people of Gomorrah!",
+    "translation": {
+      "thai": "บรรดาผู้นำแห่งโสโดมเอ๋ย จงฟังพระวจนะขององค์พระผู้เป็นเจ้า ประชาชนแห่งโกโมราห์เอ๋ย จงเงี่ยหูฟังธรรมบัญญัติของพระเจ้าของเรา",
+      "thai_literal": null,
+      "thai_summary": "จากภาพเปรียบในข้อ 9 อิสยาห์พลิกกลับมาเรียกผู้นำเยรูซาเล็มว่า ‘ผู้นำแห่งโสโดม’ เสียเอง — เมืองศักดิ์สิทธิ์ถูกตราหน้าด้วยชื่อเมืองที่ชั่วร้ายที่สุดในพระคัมภีร์ และนำเข้าสู่คำพิพากษาเรื่องการนมัสการจอมปลอม",
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้า",
+          "rationale": "יהוה → ‘องค์พระผู้เป็นเจ้า’ ตาม divine_names_table_2026-05.md (Layer 1)"
+        },
+        {
+          "hebrew": "תּוֹרַת אֱלֹהֵינוּ",
+          "rendering": "ธรรมบัญญัติของพระเจ้าของเรา",
+          "rationale": "tôrâ → ธรรมบัญญัติ per the Torah-corpus lock (cf. Deut 31:9, Ps 1:2 shipped). Here tôrâ has its broader sense ‘instruction’ (the prophetic word just announced, parallel to דְבַר־יְהוָה), not the Mosaic code specifically — sense documented per leitwort_handling_policy rule 1 (keep the lock, note the nuance). אֱלֹהִים → พระเจ้า (Layer 1)."
+        },
+        {
+          "hebrew": "קְצִינֵי",
+          "rendering": "ผู้นำ",
+          "rationale": "qāṣîn = chief/ruler (cf. Jdg 11:6) — ผู้นำ as the generic leadership term; the address pairs rulers/people so the whole social order is indicted."
+        }
+      ],
+      "notes": "Hinge verse: the שִׁמְעוּ…הַאֲזִינוּ pair from v. 2 recurs (now aimed at Judah's leaders, not heaven/earth), binding the second oracle (vv. 10–17, cult critique) to the first."
+    }
+  },
+  {
+    "reference": "Isaiah 1:11",
+    "chapter": 1,
+    "verse": 11,
+    "language": "hebrew",
+    "hebrew": "לָמָּה־לִּ֤י רֹב־זִבְחֵיכֶם֙ יֹאמַ֣ר יְהוָ֔ה שָׂבַ֛עְתִּי עֹל֥וֹת אֵילִ֖ים וְחֵ֣לֶב מְרִיאִ֑ים וְדַ֨ם פָּרִ֧ים וּכְבָשִׂ֛ים וְעַתּוּדִ֖ים לֹ֥א חָפָֽצְתִּי׃",
+    "bsb_english": "“What good to Me is your multitude of sacrifices?” says the LORD. “I am full from the burnt offerings of rams and the fat of well-fed cattle; I take no delight in the blood of bulls and lambs and goats.",
+    "translation": {
+      "thai": "“เครื่องบูชามากมายของพวกเจ้านั้นมีความหมายอะไรแก่เรา?” องค์พระผู้เป็นเจ้าตรัส “เราอิ่มหนำกับเครื่องเผาบูชาแกะตัวผู้และไขมันสัตว์อ้วนพีแล้ว เราไม่พอใจในเลือดวัวหนุ่ม ลูกแกะ หรือแพะตัวผู้",
+      "thai_literal": null,
+      "thai_summary": "พระเจ้าผู้ทรงบัญญัติระบบเครื่องบูชาเองกลับตรัสว่า ‘อิ่มหนำ’ แล้ว — ปัญหาไม่ใช่พิธี แต่คือพิธีที่แยกขาดจากความยุติธรรม (ดูข้อ 15–17) คำประกาศแนวเดียวกับ 1 ซามูเอล 15:22 และอาโมส 5:21–24",
+      "key_decisions": [
+        {
+          "hebrew": "יֹאמַר יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้าตรัส",
+          "rationale": "Imperfect yōʾmar (iterative ‘says’, not one-off past) — the cult-critique is YHWH's standing verdict. Thai bare ตรัส (no ว่า) for the mid-quote quotative frame. Layer 1: יהוה → องค์พระผู้เป็นเจ้า (divine_names_table)."
+        },
+        {
+          "hebrew": "שָׂבַעְתִּי עֹלוֹת",
+          "rendering": "เราอิ่มหนำกับเครื่องเผาบูชา",
+          "rationale": "śāvaʿtî ‘I am sated’ — the strongest anti-cult verb available; עֹלָה → เครื่องเผาบูชา per the Leviticus lock (LEV 1:3 shipped). Sacrificial-animal terms match Torah corpus: แกะตัวผู้ (אילים), วัวหนุ่ม (פרים), ลูกแกะ (כבשים), แพะตัวผู้ (עתודים)."
+        },
+        {
+          "hebrew": "וְדַם",
+          "rendering": "เลือด",
+          "rationale": "Sacrificial blood → เลือด (Leviticus register); contrast v. 15's דָּמִים bloodguilt → โลหิต. The two Thai blood-words mark the chapter's central irony: their sacrificial เลือด cannot cover the โลหิต on their hands."
+        }
+      ],
+      "notes": "Divine speech runs vv. 11–17 (quote closes at v. 17). The fat (חֵלֶב) and blood are precisely the portions reserved for God in Leviticus — He refuses His own portions when offered by bloody hands."
+    }
+  },
+  {
+    "reference": "Isaiah 1:12",
+    "chapter": 1,
+    "verse": 12,
+    "language": "hebrew",
+    "hebrew": "כִּ֣י תָבֹ֔אוּ לֵרָא֖וֹת פָּנָ֑י מִי־בִקֵּ֥שׁ זֹ֛את מִיֶּדְכֶ֖ם רְמֹ֥ס חֲצֵרָֽי׃",
+    "bsb_english": "When you come to appear before Me, who has required this of you—this trampling of My courts?",
+    "translation": {
+      "thai": "เมื่อพวกเจ้าเข้ามาปรากฏต่อหน้าเรา ผู้ใดหรือที่เรียกร้องสิ่งนี้จากมือของพวกเจ้า ให้มาเหยียบย่ำลานพระนิเวศของเรา?",
+      "thai_literal": null,
+      "thai_summary": "การ ‘มาปรากฏต่อพระพักตร์พระเจ้า’ คือภาษาของเทศกาลแสวงบุญทั้งสาม (อพยพ 23:17) แต่พระองค์ทรงเรียกฝีเท้าของผู้นมัสการที่มือเปื้อนโลหิตว่าเป็นแค่ ‘การเหยียบย่ำ’ ลานพระนิเวศ",
+      "key_decisions": [
+        {
+          "hebrew": "לֵרָאוֹת פָּנָי",
+          "rendering": "เข้ามาปรากฏต่อหน้าเรา",
+          "rationale": "The pilgrimage-festival formula (cf. Exod 23:17 ‘appear before the Lord’). In divine first-person speech the body-part stays plain (ต่อหน้าเรา, not พระพักตร์) per the corpus convention for YHWH's own voice (cf. NUM 14:28 ในหูของเรา); the narrator-voice equivalent would take พระพักตร์."
+        },
+        {
+          "hebrew": "רְמֹס חֲצֵרָי",
+          "rendering": "เหยียบย่ำลานพระนิเวศของเรา",
+          "rationale": "rāmas = trample (of cattle) — their pilgrim feet are reduced to livestock hooves. חָצֵר = temple court; ลานพระนิเวศ retains the lexicalized cultic compound (ot_register_policy §2.3) even inside divine speech, since พระนิเวศ honors the sanctuary as institution."
+        }
+      ],
+      "notes": "מִי־בִקֵּשׁ זֹאת מִיֶּדְכֶם — ‘who has sought this from your hand?’ — the rhetorical question denies that their trampling-attendance was ever commanded in this state."
+    }
+  },
+  {
+    "reference": "Isaiah 1:13",
+    "chapter": 1,
+    "verse": 13,
+    "language": "hebrew",
+    "hebrew": "לֹ֣א תוֹסִ֗יפוּ הָבִיא֙ מִנְחַת־שָׁ֔וְא קְטֹ֧רֶת תּוֹעֵבָ֛ה הִ֖יא לִ֑י חֹ֤דֶשׁ וְשַׁבָּת֙ קְרֹ֣א מִקְרָ֔א לֹא־אוּכַ֥ל אָ֖וֶן וַעֲצָרָֽה׃",
+    "bsb_english": "Bring your worthless offerings no more; your incense is detestable to Me. New Moons, Sabbaths, and convocations—I cannot endure iniquity in a solemn assembly.",
+    "translation": {
+      "thai": "อย่านำเครื่องบูชาธัญพืชอันไร้ค่ามาอีกเลย เครื่องหอมของพวกเจ้าเป็นสิ่งน่าสะอิดสะเอียนแก่เรา วันต้นเดือน สะบาโต และการเรียกประชุมศักดิ์สิทธิ์ — เราทนไม่ได้ที่ความชั่วช้ามาคู่กับการประชุมอันเคร่งขรึม",
+      "thai_literal": "อย่าเพิ่มการนำเครื่องบูชาธัญพืชแห่งความเปล่าประโยชน์มาอีก มันเป็นเครื่องหอมน่าสะอิดสะเอียนแก่เรา วันต้นเดือนและสะบาโต การเรียกประชุม — เราไม่อาจ[ทน]ความชั่วช้ากับการประชุมเคร่งขรึม[พร้อมกัน]",
+      "thai_summary": "ทุกสถาบันที่พระเจ้าทรงตั้งเอง — ธัญบูชา เครื่องหอม วันต้นเดือน สะบาโต — กลับกลายเป็นสิ่งที่พระองค์ ‘ทนไม่ได้’ เพราะถูกถวายควบคู่กับความชั่วช้า",
+      "key_decisions": [
+        {
+          "hebrew": "מִנְחַת־שָׁוְא",
+          "rendering": "เครื่องบูชาธัญพืชอันไร้ค่า",
+          "rationale": "minḥâ → เครื่องบูชาธัญพืช per the Leviticus lock (LEV 2:1 shipped); šāwʾ = empty/worthless (the same word as the name-in-vain commandment, Exod 20:7) → อันไร้ค่า."
+        },
+        {
+          "hebrew": "תּוֹעֵבָה",
+          "rendering": "สิ่งน่าสะอิดสะเอียน",
+          "rationale": "tôʿēvâ → สิ่งน่าสะอิดสะเอียน matching the Deuteronomy abomination-lexeme family — the shock is deliberate: the word elsewhere used of idolatry is here applied to Israel's own incense."
+        },
+        {
+          "hebrew": "לֹא־אוּכַל אָוֶן וַעֲצָרָה",
+          "rendering": "เราทนไม่ได้ที่ความชั่วช้ามาคู่กับการประชุมอันเคร่งขรึม",
+          "rationale": "Famously terse: ‘I cannot [endure] iniquity-and-assembly’ — the bare juxtaposition of אָוֶן + עֲצָרָה is the point (iniquity and liturgy as one package). Thai unfolds minimally with มาคู่กับ; literal register preserved in thai_literal."
+        }
+      ],
+      "notes": "Cultic-calendar terms per Torah corpus: חֹדֶשׁ (New Moon) → วันต้นเดือน (cf. NUM 28:11 ต้นเดือน), שַׁבָּת → สะบาโต, מִקְרָא → การเรียกประชุมศักดิ์สิทธิ์ (cf. LEV 23 การประชุมบริสุทธิ์), עֲצָרָה (solemn assembly) → การประชุมอันเคร่งขรึม."
+    }
+  },
+  {
+    "reference": "Isaiah 1:14",
+    "chapter": 1,
+    "verse": 14,
+    "language": "hebrew",
+    "hebrew": "חָדְשֵׁיכֶ֤ם וּמוֹעֲדֵיכֶם֙ שָׂנְאָ֣ה נַפְשִׁ֔י הָי֥וּ עָלַ֖י לָטֹ֑רַח נִלְאֵ֖יתִי נְשֹֽׂא׃",
+    "bsb_english": "I hate your New Moons and your appointed feasts. They have become a burden to Me; I am weary of bearing them.",
+    "translation": {
+      "thai": "ใจของเราเกลียดชังวันต้นเดือนและเทศกาลตามกำหนดของพวกเจ้า มันกลายเป็นภาระแก่เรา เราเหนื่อยหน่ายที่จะแบกรับ",
+      "thai_literal": null,
+      "thai_summary": "พระเจ้าตรัสด้วยภาษากายมนุษย์ที่แรงที่สุด: เทศกาลของพวกเขากลายเป็นของหนักที่พระองค์ต้อง ‘แบก’ จน ‘เหนื่อยหน่าย’ — พระเจ้าผู้ทรงแบกอิสราเอล (อิสยาห์ 46:3–4) ถูกบังคับให้แบกพิธีกรรมกลวงเปล่าของพวกเขาแทน",
+      "key_decisions": [
+        {
+          "hebrew": "שָׂנְאָה נַפְשִׁי",
+          "rendering": "ใจของเราเกลียดชัง",
+          "rationale": "napšî ‘my soul’ (divine self-intensive) → ใจของเรา — anthropomorphism preserved per hebrew_idioms_and_metaphor_2026-05.md; divine first-person speech keeps plain เรา-register (no royal body-prefix in YHWH's own mouth)."
+        },
+        {
+          "hebrew": "נִלְאֵיתִי נְשֹׂא",
+          "rendering": "เราเหนื่อยหน่ายที่จะแบกรับ",
+          "rationale": "lāʾâ Niphal ‘be weary’ + nāśāʾ ‘bear’ — the burden-bearing inversion (Israel's God made the porter of their feasts) anticipates 43:24 and contrasts 46:3–4 where He carries them."
+        }
+      ],
+      "notes": "מוֹעֲדֵיכֶם → เทศกาลตามกำหนดของพวกเจ้า (cf. LEV 23:2 เทศกาลที่กำหนด). The pronoun ‘YOUR feasts’ (not ‘my feasts’) marks divine disownership throughout vv. 11–14."
+    }
+  },
+  {
+    "reference": "Isaiah 1:15",
+    "chapter": 1,
+    "verse": 15,
+    "language": "hebrew",
+    "hebrew": "וּבְפָרִשְׂכֶ֣ם כַּפֵּיכֶ֗ם אַעְלִ֤ים עֵינַי֙ מִכֶּ֔ם גַּ֛ם כִּֽי־תַרְבּ֥וּ תְפִלָּ֖ה אֵינֶ֣נִּי שֹׁמֵ֑עַ יְדֵיכֶ֖ם דָּמִ֥ים מָלֵֽאוּ׃",
+    "bsb_english": "When you spread out your hands in prayer, I will hide My eyes from you; even though you multiply your prayers, I will not listen. Your hands are covered with blood.",
+    "translation": {
+      "thai": "เมื่อพวกเจ้ากางมือออกอธิษฐาน เราจะซ่อนตาของเราจากพวกเจ้า แม้พวกเจ้าจะอธิษฐานมากมาย เราก็ไม่ฟัง มือของพวกเจ้าเต็มไปด้วยโลหิต",
+      "thai_literal": null,
+      "thai_summary": "ท่ากางมืออธิษฐานที่ควรอ้อนวอนขอความเมตตา กลับเป็นการชูมือที่เปื้อนโลหิตขึ้นต่อพระเจ้า ประโยคสุดท้ายสี่คำในภาษาฮีบรูตกกระแทกโดยไม่มีคำเชื่อม — คำเฉลยว่าทำไมพระองค์ไม่ทรงฟัง",
+      "key_decisions": [
+        {
+          "hebrew": "דָּמִים מָלֵאוּ",
+          "rendering": "เต็มไปด้วยโลหิต",
+          "rationale": "dāmîm (plural) = bloodguilt/bloodshed, not sacrificial blood → โลหิต per the shipped bloodguilt register (2KI 9:26 โลหิตของนาโบท); contrast v. 11's sacrificial เลือด. The Hebrew climax is asyndetic — the Thai deliberately omits เพราะ to keep the hammer-blow."
+        },
+        {
+          "hebrew": "אַעְלִים עֵינַי",
+          "rendering": "เราจะซ่อนตาของเรา",
+          "rationale": "ʿālam Hiphil ‘hide’ + eyes — divine refusal idiom; plain ตา in YHWH's own speech per first-person register convention. The same idiom with human subject (‘hide eyes from the poor’) recurs at 58:7."
+        },
+        {
+          "hebrew": "וּבְפָרִשְׂכֶם כַּפֵּיכֶם",
+          "rendering": "เมื่อพวกเจ้ากางมือออกอธิษฐาน",
+          "rationale": "pāraś kappayim = spread out palms, the OT prayer posture (1 Kgs 8:22) — อธิษฐาน supplied (with BSB) since the gesture is opaque to Thai readers; the posture-word กางมือ retained."
+        }
+      ],
+      "notes": "Climax of the cult-critique: prayer itself (the least ‘ritual’ act) is refused. גַּם כִּי־תַרְבּוּ תְפִלָּה ‘even though you multiply prayer’ → แม้พวกเจ้าจะอธิษฐานมากมาย."
+    }
+  },
+  {
+    "reference": "Isaiah 1:16",
+    "chapter": 1,
+    "verse": 16,
+    "language": "hebrew",
+    "hebrew": "רַחֲצוּ֙ הִזַּכּ֔וּ הָסִ֛ירוּ רֹ֥עַ מַעַלְלֵיכֶ֖ם מִנֶּ֣גֶד עֵינָ֑י חִדְל֖וּ הָרֵֽעַ׃",
+    "bsb_english": "Wash and cleanse yourselves. Remove your evil deeds from My sight. Stop doing evil!",
+    "translation": {
+      "thai": "จงชำระล้างตัว จงทำตนให้สะอาด จงเอาการกระทำชั่วของพวกเจ้าออกไปให้พ้นสายตาของเรา จงเลิกทำชั่ว",
+      "thai_literal": null,
+      "thai_summary": "คำสั่งเก้าคำติดกัน (ข้อ 16–17) คือคำตอบของพระเจ้าต่อคำถามว่าจะให้ทำอะไร: สี่คำแรกคือการละทิ้งความชั่ว ห้าคำหลังคือการลงมือทำความดี — การกลับใจที่จับต้องได้",
+      "key_decisions": [
+        {
+          "hebrew": "רַחֲצוּ הִזַּכּוּ",
+          "rendering": "จงชำระล้างตัว จงทำตนให้สะอาด",
+          "rationale": "rāḥaṣ (wash) + zākâ Hithpael (purify oneself) — the wash-language answers v. 15's bloody hands; ชำระล้าง/ทำตนให้สะอาด are moral-purity verbs, not cultic-ablution terms, matching the prophetic point."
+        },
+        {
+          "hebrew": "חִדְלוּ הָרֵעַ",
+          "rendering": "จงเลิกทำชั่ว",
+          "rationale": "ḥidlû + infinitive הָרֵעַ — terse two-word colon closing the abandon-evil tetrad; Thai matches the brevity (จงเลิกทำชั่ว)."
+        }
+      ],
+      "notes": "Imperative cascade begins: vv. 16–17 contain 9 imperatives (4 negative-cleansing + 5 positive-justice). The structure is preserved with จง- anaphora."
+    }
+  },
+  {
+    "reference": "Isaiah 1:17",
+    "chapter": 1,
+    "verse": 17,
+    "language": "hebrew",
+    "hebrew": "לִמְד֥וּ הֵיטֵ֛ב דִּרְשׁ֥וּ מִשְׁפָּ֖ט אַשְּׁר֣וּ חָמ֑וֹץ שִׁפְט֣וּ יָת֔וֹם רִ֖יבוּ אַלְמָנָֽה׃",
+    "bsb_english": "Learn to do right; seek justice and correct the oppressor. Defend the fatherless and plead the case of the widow.”",
+    "translation": {
+      "thai": "จงเรียนรู้ที่จะทำดี จงแสวงหาความยุติธรรม จงปรามผู้กดขี่ จงให้ความเป็นธรรมแก่ลูกกำพร้าพ่อ จงสู้ความแทนหญิงม่าย”",
+      "thai_literal": "จงเรียนรู้การทำดี จงแสวงหาความยุติธรรม จงทำให้ผู้กดขี่กลับสู่ทางตรง จงตัดสินความให้ลูกกำพร้าพ่อ จงว่าความแทนหญิงม่าย",
+      "thai_summary": "ความยุติธรรมในพระคัมภีร์วัดที่คนเปราะบางที่สุดของสังคม คือลูกกำพร้าพ่อและหญิงม่าย (ฉธบ. 10:18) — ห้าคำสั่งนี้คือหน้าตาของการ ‘ชำระตัว’ ที่พระเจ้าทรงเรียกร้องแทนเครื่องบูชา",
+      "key_decisions": [
+        {
+          "hebrew": "אַשְּׁרוּ חָמוֹץ",
+          "rendering": "จงปรามผู้กดขี่",
+          "rationale": "חָמוֹץ is a hapax. As pointed (MT ḥāmôṣ, active) = ‘the oppressor’ — so BSB (‘correct the oppressor’), and אַשְּׁרוּ (Piel of אשר, ‘set straight/lead’) → ปราม (restrain-and-correct). Alternative: repoint as passive ḥāmûṣ ‘the oppressed’, as LXX ῥύσασθε ἀδικούμενον ‘rescue the wronged’ (so NIV/NRSV ‘defend the oppressed’). MT-as-pointed followed per ot_canon_and_text_base; the LXX reading documented."
+        },
+        {
+          "hebrew": "שִׁפְטוּ יָתוֹם רִיבוּ אַלְמָנָה",
+          "rendering": "จงให้ความเป็นธรรมแก่ลูกกำพร้าพ่อ จงสู้ความแทนหญิงม่าย",
+          "rationale": "šāpaṭ + rîv as legal-advocacy verbs: give-judgment-for the fatherless, take-up-the-case-of the widow. ลูกกำพร้าพ่อ (yātôm = fatherless specifically) and หญิงม่าย follow the Torah-corpus pair (Deut 10:18; Exod 22:22)."
+        }
+      ],
+      "notes": "HAPAX: חָמוֹץ (see key_decisions — MT 'oppressor' vs LXX-repointing 'oppressed'). Divine speech (opened v. 11) closes here. The orphan/widow pair returns at v. 23 as the leaders' precise failure — vv. 16–17 are the rubric against which v. 23 indicts."
+    }
+  },
+  {
+    "reference": "Isaiah 1:18",
+    "chapter": 1,
+    "verse": 18,
+    "language": "hebrew",
+    "hebrew": "לְכוּ־נָ֛א וְנִוָּֽכְחָ֖ה יֹאמַ֣ר יְהוָ֑ה אִם־יִֽהְי֨וּ חֲטָאֵיכֶ֤ם כַּשָּׁנִים֙ כַּשֶּׁ֣לֶג יַלְבִּ֔ינוּ אִם־יַאְדִּ֥ימוּ כַתּוֹלָ֖ע כַּצֶּ֥מֶר יִהְיֽוּ׃",
+    "bsb_english": "“Come now, let us reason together,” says the LORD. “Though your sins are like scarlet, they will be as white as snow; though they are as red as crimson, they will become like wool.",
+    "translation": {
+      "thai": "“มาเถิด ให้เรามาพิจารณาความกัน” องค์พระผู้เป็นเจ้าตรัส “แม้บาปของพวกเจ้าเป็นดั่งสีแดงสด มันจะขาวอย่างหิมะ แม้มันจะแดงเข้มดั่งสีย้อมจากตัวหนอน มันจะเป็นดั่งขนแกะ",
+      "thai_literal": null,
+      "thai_summary": "พระเจ้าทรงเชิญจำเลยเข้าโต๊ะไกล่เกลี่ยแทนการอ่านคำพิพากษา สีแดงเข้ม (ครามหนอนเคอร์เมส สีย้อมที่ติดแน่นที่สุดในโลกโบราณ) จะกลายเป็นขาวดุจหิมะ — พระสัญญาแห่งการชำระที่เกินกำลังมนุษย์ทุกคน",
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้า",
+          "rationale": "יהוה → ‘องค์พระผู้เป็นเจ้า’ ตาม divine_names_table_2026-05.md (Layer 1)"
+        },
+        {
+          "hebrew": "וְנִוָּכְחָה",
+          "rendering": "ให้เรามาพิจารณาความกัน",
+          "rationale": "yākaḥ Niphal cohortative — legal term: ‘argue out a case together / settle a dispute’ (continuing the chapter's rîv courtroom frame), not casual ‘reasoning’. พิจารณาความ keeps the juridical register; the grace is that the Judge invites settlement."
+        },
+        {
+          "hebrew": "כַּשָּׁנִים … כַתּוֹלָע",
+          "rendering": "ดั่งสีแดงสด … ดั่งสีย้อมจากตัวหนอน",
+          "rationale": "Two red-dye terms: šānîm (scarlet) → สีแดงสด; tôlāʿ (the kermes worm whose bodies yield crimson dye — the colorfast dye of antiquity) → สีย้อมจากตัวหนอน, keeping the worm-source image that makes the cleansing miracle vivid. (Ellipsis in the hebrew field marks two non-contiguous words of this verse.)"
+        }
+      ],
+      "notes": "The simile pair (snow, wool) promises not concealment but transformation of the stain itself. שֶׁלֶג → หิมะ, צֶמֶר → ขนแกะ. Divine speech resumes and runs through v. 20a."
+    }
+  },
+  {
+    "reference": "Isaiah 1:19",
+    "chapter": 1,
+    "verse": 19,
+    "language": "hebrew",
+    "hebrew": "אִם־תֹּאב֖וּ וּשְׁמַעְתֶּ֑ם ט֥וּב הָאָ֖רֶץ תֹּאכֵֽלוּ׃",
+    "bsb_english": "If you are willing and obedient, you will eat the best of the land.",
+    "translation": {
+      "thai": "ถ้าพวกเจ้าเต็มใจและเชื่อฟัง พวกเจ้าจะได้กินผลดีแห่งแผ่นดิน",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "אִם־תֹּאבוּ וּשְׁמַעְתֶּם",
+          "rendering": "ถ้าพวกเจ้าเต็มใจและเชื่อฟัง",
+          "rationale": "ʾāvâ (be willing) + šāmaʿ (hear/obey) — the hendiadys-like pair kept as two verbs (เต็มใจ/เชื่อฟัง) preserving the covenant-blessing conditional form (cf. Deut 28:1–2)."
+        }
+      ],
+      "notes": "ט֥וּב הָאָרֶץ ‘the good of the land’ → ผลดีแห่งแผ่นดิน — covenant-blessing vocabulary. Verses 19–20 form an eat / be-eaten antithesis (see v. 20)."
+    }
+  },
+  {
+    "reference": "Isaiah 1:20",
+    "chapter": 1,
+    "verse": 20,
+    "language": "hebrew",
+    "hebrew": "וְאִם־תְּמָאֲנ֖וּ וּמְרִיתֶ֑ם חֶ֣רֶב תְּאֻכְּל֔וּ כִּ֛י פִּ֥י יְהוָ֖ה דִּבֵּֽר׃",
+    "bsb_english": "But if you resist and rebel, you will be devoured by the sword.” For the mouth of the LORD has spoken.",
+    "translation": {
+      "thai": "แต่ถ้าพวกเจ้าปฏิเสธและขัดขืน พวกเจ้าจะถูกดาบกลืนกิน” เพราะพระโอษฐ์ขององค์พระผู้เป็นเจ้าได้ตรัสแล้ว",
+      "thai_literal": null,
+      "thai_summary": "ทางเลือกสองทางจบด้วยการเล่นคำที่คมที่สุดของบทนี้: เชื่อฟังแล้ว ‘กิน’ ผลดีแห่งแผ่นดิน หรือขัดขืนแล้ว ‘ถูกกลืนกิน’ ด้วยดาบ — กริยาฮีบรูคำเดียวกัน",
+      "key_decisions": [
+        {
+          "hebrew": "חֶרֶב תְּאֻכְּלוּ",
+          "rendering": "พวกเจ้าจะถูกดาบกลืนกิน",
+          "rationale": "Pual of אכל — the paronomasia with v. 19 תֹּאכֵלוּ (‘you will eat’ / ‘you will be eaten’) is mirrored in Thai กิน / ถูก…กลืนกิน per wordplay_and_paronomasia_2026-05.md. The sword as devourer continues v. 7's devouring-foreigners image."
+        },
+        {
+          "hebrew": "כִּי פִּי יְהוָה דִּבֵּר",
+          "rendering": "เพราะพระโอษฐ์ขององค์พระผู้เป็นเจ้าได้ตรัสแล้ว",
+          "rationale": "Oracle-sealing formula (recurs verbatim at Isa 40:5; 58:14 — surface locked from this first occurrence). Narrator/prophet voice → rachasap body-part พระโอษฐ์ per ot_register_policy §1.1 (contrast plain body-parts inside divine first-person speech). Layer 1: יהוה → องค์พระผู้เป็นเจ้า."
+        }
+      ],
+      "notes": "The eat/be-eaten wordplay is the chapter's covenant fulcrum (Deut 30:15–18 compressed into two verses). Divine speech closes mid-verse; the seal-formula is the prophet's."
+    }
+  },
+  {
+    "reference": "Isaiah 1:21",
+    "chapter": 1,
+    "verse": 21,
+    "language": "hebrew",
+    "hebrew": "אֵיכָה֙ הָיְתָ֣ה לְזוֹנָ֔ה קִרְיָ֖ה נֶאֱמָנָ֑ה מְלֵאֲתִ֣י מִשְׁפָּ֗ט צֶ֛דֶק יָלִ֥ין בָּ֖הּ וְעַתָּ֥ה מְרַצְּחִֽים׃",
+    "bsb_english": "See how the faithful city has become a harlot! She once was full of justice; righteousness resided within her, but now only murderers!",
+    "translation": {
+      "thai": "โอ้ นครที่เคยซื่อสัตย์กลายเป็นหญิงโสเภณีไปเสียแล้ว! นางเคยเปี่ยมด้วยความยุติธรรม ความชอบธรรมเคยพำนักอยู่ในนาง แต่บัดนี้กลับมีแต่ฆาตกร",
+      "thai_literal": null,
+      "thai_summary": "เพลงคร่ำครวญสั้นๆ กลางคำเทศนา: เมืองที่เคยซื่อสัตย์ดุจเจ้าสาวกลายเป็นโสเภณี คำเปิด ‘เอคาห์’ (โอ้…เสียแล้ว) เป็นคำเดียวกับที่เปิดหนังสือเพลงคร่ำครวญ — อิสยาห์ร้องเพลงศพให้เมืองที่ยังมีชีวิต",
+      "key_decisions": [
+        {
+          "hebrew": "אֵיכָה",
+          "rendering": "โอ้ … เสียแล้ว",
+          "rationale": "ʾêkâ — the dirge-opener of Lamentations (LAM 1:1, 2:1, 4:1 shipped with the โอ้…เสียแล้ว pattern). The same split-frame rendering keeps the funeral-lament genre signal the Thai reader now knows from เพลงคร่ำครวญ."
+        },
+        {
+          "hebrew": "לְזוֹנָה",
+          "rendering": "หญิงโสเภณี",
+          "rationale": "zônâ → หญิงโสเภณี (cf. JOS 2:1 shipped). The marriage-infidelity metaphor for covenant apostasy debuts here in Isaiah; the faithful-city/harlot antithesis frames vv. 21–26 as a fall-and-restoration ring."
+        },
+        {
+          "hebrew": "קִרְיָה נֶאֱמָנָה",
+          "rendering": "นครที่เคยซื่อสัตย์",
+          "rationale": "qiryâ neʾĕmānâ ‘faithful city/town’ — เคย added for the past-state contrast the Hebrew perfect הָיְתָה implies; the bare form นครที่ซื่อสัตย์ returns at v. 26 as the restored name (inclusio)."
+        }
+      ],
+      "notes": "מְלֵאֲתִי מִשְׁפָּט — archaic case-ending on the participle (‘full of justice’), poetic register. צֶדֶק יָלִין בָּהּ ‘righteousness lodged (overnight) in her’ → พำนัก; the lodger has been evicted by murderers (מְרַצְּחִים — the רצח of the Decalogue)."
+    }
+  },
+  {
+    "reference": "Isaiah 1:22",
+    "chapter": 1,
+    "verse": 22,
+    "language": "hebrew",
+    "hebrew": "כַּסְפֵּ֖ךְ הָיָ֣ה לְסִיגִ֑ים סָבְאֵ֖ךְ מָה֥וּל בַּמָּֽיִם׃",
+    "bsb_english": "Your silver has become dross; your fine wine is diluted with water.",
+    "translation": {
+      "thai": "เงินของเจ้ากลายเป็นขี้แร่ เหล้าองุ่นชั้นดีของเจ้าถูกเจือด้วยน้ำ",
+      "thai_literal": null,
+      "thai_summary": "สองภาพของของแท้ที่ถูกทำให้ปลอม: เงินกลายเป็นขี้แร่ เหล้าองุ่นถูกผสมน้ำ — ความเสื่อมของเมืองไม่ใช่การถูกทำลายจากภายนอก แต่คือการเจือจางคุณค่าจากภายใน",
+      "key_decisions": [
+        {
+          "hebrew": "מָהוּל",
+          "rendering": "ถูกเจือด้วยน้ำ",
+          "rationale": "hapax — māhûl, passive participle, ‘diluted/adulterated’; cognate evidence (Arabic mahala) and context fix the sense ‘cut with water’. The tavern-fraud image suits the bribery indictment that follows."
+        },
+        {
+          "hebrew": "סִיגִים",
+          "rendering": "ขี้แร่",
+          "rationale": "sîgîm = dross (the scum skimmed in silver-refining) — ขี้แร่ sets up vv. 25's smelting oracle, so the same Thai word must recur there (lexical chain: 22 → 25)."
+        }
+      ],
+      "notes": "Address shifts to 2fs (the city) — Thai เจ้า singular. סֹבֶא ‘choice drink/wine’ → เหล้าองุ่นชั้นดี. The silver/wine couplet is the diagnostic that the smelting (v. 25) answers."
+    }
+  },
+  {
+    "reference": "Isaiah 1:23",
+    "chapter": 1,
+    "verse": 23,
+    "language": "hebrew",
+    "hebrew": "שָׂרַ֣יִךְ סוֹרְרִ֗ים וְחַבְרֵי֙ גַּנָּבִ֔ים כֻּלּוֹ֙ אֹהֵ֣ב שֹׁ֔חַד וְרֹדֵ֖ף שַׁלְמֹנִ֑ים יָתוֹם֙ לֹ֣א יִשְׁפֹּ֔טוּ וְרִ֥יב אַלְמָנָ֖ה לֹֽא־יָב֥וֹא אֲלֵיהֶֽם׃",
+    "bsb_english": "Your rulers are rebels, friends of thieves. They all love bribes and chasing after rewards. They do not defend the fatherless, and the plea of the widow never comes before them.",
+    "translation": {
+      "thai": "บรรดาเจ้านายของเจ้าเป็นพวกดื้อกบฏและเป็นเพื่อนกับขโมย ทุกคนรักสินบนและไล่ตามของกำนัล พวกเขาไม่ให้ความเป็นธรรมแก่ลูกกำพร้าพ่อ และคดีความของหญิงม่ายก็มาไม่ถึงพวกเขา",
+      "thai_literal": null,
+      "thai_summary": "ผู้นำที่ควรเป็นผู้พิทักษ์กลับเป็น ‘เพื่อนกับขโมย’ — มาตรวัดในข้อ 17 (ลูกกำพร้าพ่อกับหญิงม่าย) ถูกนำมาวัดพวกเขาตรงๆ และพวกเขาสอบตกทุกข้อ",
+      "key_decisions": [
+        {
+          "hebrew": "שָׂרַיִךְ סוֹרְרִים",
+          "rendering": "บรรดาเจ้านายของเจ้าเป็นพวกดื้อกบฏ",
+          "rationale": "Paronomasia śārayikh sôrərîm (‘your princes — princes-turned-renegades’) — sound-play noted per wordplay_and_paronomasia_2026-05.md; ดื้อกบฏ keeps the סרר-family rendering (v. 5 สาราห์-defection). Thai cannot reproduce the s-r alliteration; documented here."
+        },
+        {
+          "hebrew": "שַׁלְמֹנִים",
+          "rendering": "ของกำนัล",
+          "rationale": "hapax — šalmōnîm, plural ‘payoffs/rewards’ (root שלם, payment); the bribe-pair שֹׁחַד/שַׁלְמֹנִים rendered สินบน/ของกำนัล distinguishing up-front bribes from kickback gifts."
+        }
+      ],
+      "notes": "The orphan/widow clauses repeat v. 17's vocabulary verbatim in the negative — the leaders fail the precise rubric just given. רִיב אַלְמָנָה ‘the widow's case’ → คดีความของหญิงม่าย (legal-advocacy frame)."
+    }
+  },
+  {
+    "reference": "Isaiah 1:24",
+    "chapter": 1,
+    "verse": 24,
+    "language": "hebrew",
+    "hebrew": "לָכֵ֗ן נְאֻ֤ם הָֽאָדוֹן֙ יְהוָ֣ה צְבָא֔וֹת אֲבִ֖יר יִשְׂרָאֵ֑ל ה֚וֹי אֶנָּחֵ֣ם מִצָּרַ֔י וְאִנָּקְמָ֖ה מֵאוֹיְבָֽי׃",
+    "bsb_english": "Therefore the Lord GOD of Hosts, the Mighty One of Israel, declares: “Ah, I will be relieved of My foes and avenge Myself on My enemies.",
+    "translation": {
+      "thai": "เพราะฉะนั้น องค์เจ้านาย องค์พระผู้เป็นเจ้าจอมโยธา องค์ผู้ทรงอานุภาพแห่งอิสราเอล ตรัสประกาศว่า “โอ้ เราจะระบายความขุ่นเคืองต่อปฏิปักษ์ของเรา และแก้แค้นศัตรูของเรา",
+      "thai_literal": "เพราะฉะนั้น — คำประกาศขององค์เจ้านาย องค์พระผู้เป็นเจ้าจอมโยธา องค์ผู้ทรงอานุภาพแห่งอิสราเอล — โอ้ เราจะได้ความโล่งใจจากปฏิปักษ์ของเรา และจะแก้แค้นศัตรูของเรา",
+      "thai_summary": "พระนามสามชั้นซ้อนกัน — องค์เจ้านาย องค์พระผู้เป็นเจ้าจอมโยธา องค์ผู้ทรงอานุภาพแห่งอิสราเอล — เปิดคำพิพากษาด้วยน้ำหนักสูงสุดในบทนี้ และที่น่าสะพรึงคือ ‘ปฏิปักษ์’ ที่พระองค์จะทรงจัดการ คือเยรูซาเล็มเอง",
+      "key_decisions": [
+        {
+          "hebrew": "נְאֻם הָאָדוֹן יְהוָה צְבָאוֹת",
+          "rendering": "องค์เจ้านาย องค์พระผู้เป็นเจ้าจอมโยธา … ตรัสประกาศว่า",
+          "rationale": "nəʾum — the solemn oracle-noun, distinct from כֹּה אָמַר (→ ตรัสดังนี้ว่า): sentence-initial title-stack nəʾum takes ตรัสประกาศว่า; the parenthetical mid-oracle נְאֻם־יְהוָה (frequent later in Isaiah) will take องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้ per the shipped family (GEN 22:16, NUM 14:28, 2KI 19:33). הָאָדוֹן (the Sovereign, article-marked) → องค์เจ้านาย per divine_names_table third-person Adon-title row — kept distinct from องค์พระผู้เป็นเจ้า so the Thai reader sees the triple stack."
+        },
+        {
+          "hebrew": "אֲבִיר יִשְׂרָאֵל",
+          "rendering": "องค์ผู้ทรงอานุภาพแห่งอิสราเอล",
+          "rationale": "ʾăvîr yiśrāʾēl — only here with ‘Israel’; the patriarchal form ʾăvîr yaʿăqōv (Gen 49:24; Ps 132:2, 5; Isa 49:26; 60:16) is rendered องค์ผู้ทรงอานุภาพแห่งยาโคบ in shipped Ps 132 — that องค์- standalone-title form is followed (Gen 49:24's older ผู้ทรงพลังของยาโคบ predates the standalone-title convention; Isa 49:26/60:16 should use the Ps 132 form)."
+        },
+        {
+          "hebrew": "אֶנָּחֵם מִצָּרַי",
+          "rendering": "เราจะระบายความขุ่นเคืองต่อปฏิปักษ์ของเรา",
+          "rationale": "Niphal נחם + מִן = ‘get relief/satisfaction from’ — the vengeance-relief sense, NOT divine relenting (nicham_divine_relenting_2026-05.md locks Niphal-נחם relent → ทรงเปลี่ยนพระทัย); contextual variant documented per leitwort_handling_policy rule 2. ระบายความขุ่นเคือง renders the grim emotional release the Hebrew grammaticalizes."
+        },
+        {
+          "hebrew": "הוֹי",
+          "rendering": "โอ้",
+          "rationale": "Same lexeme as v. 4 — there over the nation, here in YHWH's own mouth before His purge: the Thai keeps the same โอ้ so the reader hears the echo (the chapter's two hôy cries answer each other)."
+        }
+      ],
+      "notes": "The triple divine-title stack (Sovereign + YHWH-of-Hosts + Mighty-One-of-Israel) is unique in the OT — maximal solemnity before the smelting oracle. Oracle speech runs vv. 24b–26."
+    }
+  },
+  {
+    "reference": "Isaiah 1:25",
+    "chapter": 1,
+    "verse": 25,
+    "language": "hebrew",
+    "hebrew": "וְאָשִׁ֤יבָה יָדִי֙ עָלַ֔יִךְ וְאֶצְרֹ֥ף כַּבֹּ֖ר סִיגָ֑יִךְ וְאָסִ֖ירָה כָּל־בְּדִילָֽיִךְ׃",
+    "bsb_english": "I will turn My hand against you; I will thoroughly purge your dross; I will remove all your impurities.",
+    "translation": {
+      "thai": "เราจะหันมือของเรามาต่อสู้เจ้า เราจะถลุงขี้แร่ของเจ้าออกให้หมดจดดั่งชำระด้วยด่าง และจะเอาสิ่งเจือปนทั้งสิ้นของเจ้าออกไป",
+      "thai_literal": null,
+      "thai_summary": "‘หันมือมาต่อสู้’ คือภาษาของการพิพากษา แต่เป้าหมายคือการถลุงให้บริสุทธิ์ ไม่ใช่การทำลายทิ้ง — ไฟของพระเจ้าเผาขี้แร่ออกเพื่อให้เหลือเนื้อเงินแท้ นี่คือพระคุณในรูปของการตีสอน",
+      "key_decisions": [
+        {
+          "hebrew": "וְאָשִׁיבָה יָדִי עָלַיִךְ",
+          "rendering": "เราจะหันมือของเรามาต่อสู้เจ้า",
+          "rationale": "hēšîv yād ʿal = turn the hand against (hostile idiom, cf. Amos 1:8; Ps 81:14) — มือของเรา plain in divine first-person speech per register convention; เจ้า 2fs (the city)."
+        },
+        {
+          "hebrew": "כַּבֹּר",
+          "rendering": "ดั่งชำระด้วยด่าง",
+          "rationale": "bōr = lye/potash (the alkaline flux added in ancient silver-refining to draw off impurities) — ด่าง keeps the metallurgical-chemical image; the simile marks thoroughness of the purge."
+        },
+        {
+          "hebrew": "בְּדִילָיִךְ",
+          "rendering": "สิ่งเจือปนทั้งสิ้นของเจ้า",
+          "rationale": "bədîlîm lit. ‘your tin/alloy-bits’ (tin alloyed in impure silver) → สิ่งเจือปน — the technical metallurgy term generalized; ขี้แร่ repeats v. 22's สีกิม (lexical chain preserved)."
+        }
+      ],
+      "notes": "The smelting answers v. 22's diagnosis with the same vocabulary (סִיגִים). Purification-not-annihilation is the oracle's pivot: judgment as refining returns at 48:10."
+    }
+  },
+  {
+    "reference": "Isaiah 1:26",
+    "chapter": 1,
+    "verse": 26,
+    "language": "hebrew",
+    "hebrew": "וְאָשִׁ֤יבָה שֹׁפְטַ֙יִךְ֙ כְּבָרִ֣אשֹׁנָ֔ה וְיֹעֲצַ֖יִךְ כְּבַתְּחִלָּ֑ה אַחֲרֵי־כֵ֗ן יִקָּ֤רֵא לָךְ֙ עִ֣יר הַצֶּ֔דֶק קִרְיָ֖ה נֶאֱמָנָֽה׃",
+    "bsb_english": "I will restore your judges as at first, and your counselors as at the beginning. After that you will be called the City of Righteousness, the Faithful City.”",
+    "translation": {
+      "thai": "เราจะคืนผู้พิพากษาของเจ้าให้เป็นดั่งครั้งแรก และที่ปรึกษาของเจ้าให้เป็นดั่งเมื่อเริ่มต้น หลังจากนั้นเจ้าจะได้ชื่อว่า ‘นครแห่งความชอบธรรม นครที่ซื่อสัตย์’”",
+      "thai_literal": null,
+      "thai_summary": "วงแหวนปิดสนิท: เมืองที่ ‘เคยซื่อสัตย์’ (ข้อ 21) จะได้ชื่อ ‘นครที่ซื่อสัตย์’ คืน หลังผ่านเบ้าหลอม — การฟื้นฟูของพระเจ้าไม่ใช่แค่การอภัย แต่คือการคืนอัตลักษณ์เดิมที่สูญเสียไป",
+      "key_decisions": [
+        {
+          "hebrew": "וְאָשִׁיבָה שֹׁפְטַיִךְ",
+          "rendering": "เราจะคืนผู้พิพากษาของเจ้า",
+          "rationale": "Same verb שוב Hiphil as v. 25 (‘turn my hand’ / ‘restore your judges’) — the punishing hand and the restoring hand are one verb: หัน/คืน split is unavoidable in Thai; noted here so the wordplay is on record."
+        },
+        {
+          "hebrew": "עִיר הַצֶּדֶק קִרְיָה נֶאֱמָנָה",
+          "rendering": "นครแห่งความชอบธรรม นครที่ซื่อสัตย์",
+          "rationale": "The restored double name closes the inclusio with v. 21 (กลายเป็นหญิงโสเภณี ← นครที่เคยซื่อสัตย์ → นครที่ซื่อสัตย์). Nested single quotes per RULES §5b for the name inside divine speech."
+        }
+      ],
+      "notes": "כְּבָרִאשֹׁנָה / כְּבַתְּחִלָּה ‘as at the first / as at the beginning’ → ดั่งครั้งแรก / ดั่งเมื่อเริ่มต้น. Oracle (and the long divine speech of the chapter) closes here."
+    }
+  },
+  {
+    "reference": "Isaiah 1:27",
+    "chapter": 1,
+    "verse": 27,
+    "language": "hebrew",
+    "hebrew": "צִיּ֖וֹן בְּמִשְׁפָּ֣ט תִּפָּדֶ֑ה וְשָׁבֶ֖יהָ בִּצְדָקָֽה׃",
+    "bsb_english": "Zion will be redeemed with justice, her repentant ones with righteousness.",
+    "translation": {
+      "thai": "ศิโยนจะได้รับการไถ่ด้วยความยุติธรรม และบรรดาผู้หันกลับมาของนางด้วยความชอบธรรม",
+      "thai_literal": null,
+      "thai_summary": "‘ผู้หันกลับมา’ ในภาษาฮีบรูได้ทั้งสองความหมาย — ผู้กลับใจ และผู้กลับจากการเป็นเชลย — อิสยาห์น่าจะตั้งใจให้ก้องทั้งคู่ และชื่อบุตรของท่านเอง (เชอารยาชูบ ‘คนที่เหลือจะกลับมา’ 7:3) ก็เล่นคำเดียวกันนี้",
+      "key_decisions": [
+        {
+          "hebrew": "תִּפָּדֶה",
+          "rendering": "ได้รับการไถ่",
+          "rationale": "pādâ Niphal → ไถ่ per the Torah-corpus redemption lock (Exod 13:13; Ps 130:7–8 shipped) — the legal-ransom verb, fitting the chapter's courtroom frame (Zion bought out of judgment, not excused from it)."
+        },
+        {
+          "hebrew": "וְשָׁבֶיהָ",
+          "rendering": "บรรดาผู้หันกลับมาของนาง",
+          "rationale": "šāvêhā ‘her returners’ — deliberately ambiguous between repentance (the שובו call of the chapter) and return-from-exile; ผู้หันกลับมา keeps both senses open, anticipating Shear-jashub (7:3)."
+        }
+      ],
+      "notes": "Summary couplet: justice/righteousness (the qualities evicted in v. 21) become the very currency of redemption. בְּמִשְׁפָּט / בִּצְדָקָה → ด้วยความยุติธรรม / ด้วยความชอบธรรม."
+    }
+  },
+  {
+    "reference": "Isaiah 1:28",
+    "chapter": 1,
+    "verse": 28,
+    "language": "hebrew",
+    "hebrew": "וְשֶׁ֧בֶר פֹּשְׁעִ֛ים וְחַטָּאִ֖ים יַחְדָּ֑ו וְעֹזְבֵ֥י יְהוָ֖ה יִכְלֽוּ׃",
+    "bsb_english": "But rebels and sinners will together be shattered, and those who forsake the LORD will perish.",
+    "translation": {
+      "thai": "แต่พวกกบฏและพวกคนบาปจะแหลกสลายไปด้วยกัน และบรรดาผู้ละทิ้งองค์พระผู้เป็นเจ้าจะพินาศสิ้น",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้า",
+          "rationale": "יהוה → ‘องค์พระผู้เป็นเจ้า’ ตาม divine_names_table_2026-05.md (Layer 1)"
+        },
+        {
+          "hebrew": "וְשֶׁבֶר פֹּשְׁעִים",
+          "rendering": "พวกกบฏ … จะแหลกสลาย",
+          "rationale": "šever — noun (‘a shattering of rebels’), rendered verbally for Thai naturalness; פֹּשְׁעִים echoes v. 2's פָּשְׁעוּ (the chapter's rebellion-inclusio: it opens and closes on the same root) — กบฏ both places."
+        },
+        {
+          "hebrew": "וְעֹזְבֵי יְהוָה",
+          "rendering": "บรรดาผู้ละทิ้งองค์พระผู้เป็นเจ้า",
+          "rationale": "ʿōzəvê — echoes v. 4 עָזְבוּ (ละทิ้ง there too): the abandonment named in the indictment becomes the ground of the verdict."
+        }
+      ],
+      "notes": "The chapter's two destinies finalize: vv. 27–28 are a diptych (redeemed returners / shattered forsakers). יִכְלוּ (be finished) → พินาศสิ้น."
+    }
+  },
+  {
+    "reference": "Isaiah 1:29",
+    "chapter": 1,
+    "verse": 29,
+    "language": "hebrew",
+    "hebrew": "כִּ֣י יֵבֹ֔שׁוּ מֵאֵילִ֖ים אֲשֶׁ֣ר חֲמַדְתֶּ֑ם וְתַ֨חְפְּר֔וּ מֵהַגַּנּ֖וֹת אֲשֶׁ֥ר בְּחַרְתֶּֽם׃",
+    "bsb_english": "Surely you will be ashamed of the sacred oaks in which you have delighted; you will be embarrassed by the gardens that you have chosen.",
+    "translation": {
+      "thai": "เพราะพวกเขาจะอับอายเรื่องต้นโอ๊กที่พวกเจ้าปรารถนานัก และพวกเจ้าจะขายหน้าเพราะสวนที่พวกเจ้าเลือกไว้",
+      "thai_literal": null,
+      "thai_summary": "ต้นไม้ใหญ่และสวนในที่นี้คือสถานบูชากลางแจ้งของลัทธิความอุดมสมบูรณ์แบบคานาอัน (ดู 57:5; 65:3) — สิ่งที่พวกเขา ‘ปรารถนา’ และ ‘เลือก’ เองจะกลายเป็นความอัปยศของพวกเขาเอง",
+      "key_decisions": [
+        {
+          "hebrew": "כִּי יֵבֹשׁוּ … חֲמַדְתֶּם",
+          "rendering": "เพราะพวกเขาจะอับอาย … ที่พวกเจ้าปรารถนานัก",
+          "rationale": "MT shifts person mid-verse (yēvōšû 3pl → ḥămadtem 2pl) — enallage preserved as-is per ot_canon_and_text_base (MT-anchored); 1QIsaa and some versions smooth to 2pl תבושו (so BSB ‘you will be ashamed’) — mss variant documented, MT followed. (Ellipsis marks the two non-contiguous verbs quoted.)"
+        },
+        {
+          "hebrew": "מֵאֵילִים",
+          "rendering": "ต้นโอ๊ก",
+          "rationale": "ʾêlîm = great trees/terebinths — the cult-trees of Canaanite fertility religion (cf. 57:5). ต้นโอ๊ก matches the shipped Genesis tree-rendering (GEN 12:6; 35:4); the cultic function is carried by the context and summary, not by adding ‘ศักดิ์สิทธิ์’ to the noun (BSB's interpretive ‘sacred oaks’ not imported into the text)."
+        }
+      ],
+      "notes": "בוש/חפר shame-pair → อับอาย/ขายหน้า. The tree-cult indictment frames the book: it returns in the final chapter (66:17, gardens) — Isaiah opens and closes against the same idolatry."
+    }
+  },
+  {
+    "reference": "Isaiah 1:30",
+    "chapter": 1,
+    "verse": 30,
+    "language": "hebrew",
+    "hebrew": "כִּ֣י תִֽהְי֔וּ כְּאֵלָ֖ה נֹבֶ֣לֶת עָלֶ֑הָ וּֽכְגַנָּ֔ה אֲשֶׁר־מַ֖יִם אֵ֥ין לָֽהּ׃",
+    "bsb_english": "For you will become like an oak whose leaves are withered, like a garden without water.",
+    "translation": {
+      "thai": "เพราะพวกเจ้าจะเป็นดั่งต้นโอ๊กที่ใบเหี่ยวเฉา และดั่งสวนที่ไม่มีน้ำ",
+      "thai_literal": null,
+      "thai_summary": "ผู้บูชาต้นไม้จะกลายเป็นต้นไม้ที่กำลังตาย ผู้บูชาสวนจะกลายเป็นสวนแล้งน้ำ — มนุษย์ย่อมกลายเป็นเหมือนสิ่งที่ตนบูชา (เทียบ สดุดี 115:8)",
+      "key_decisions": [
+        {
+          "hebrew": "כְּאֵלָה נֹבֶלֶת עָלֶהָ",
+          "rendering": "ดั่งต้นโอ๊กที่ใบเหี่ยวเฉา",
+          "rationale": "ʾēlâ (terebinth) → ต้นโอ๊ก consistent with v. 29; nōvelet ‘withering/falling’ of leaves → ใบเหี่ยวเฉา — the worshippers become what they worshipped, the poetic-justice irony the verse turns on."
+        }
+      ],
+      "notes": "Water-less garden inverts the well-watered cult-garden of v. 29 — and anticipates the counter-image of 58:11 (‘a watered garden’) for the restored."
+    }
+  },
+  {
+    "reference": "Isaiah 1:31",
+    "chapter": 1,
+    "verse": 31,
+    "language": "hebrew",
+    "hebrew": "וְהָיָ֤ה הֶחָסֹן֙ לִנְעֹ֔רֶת וּפֹעֲל֖וֹ לְנִיצ֑וֹץ וּבָעֲר֧וּ שְׁנֵיהֶ֛ם יַחְדָּ֖ו וְאֵ֥ין מְכַבֶּֽה׃",
+    "bsb_english": "The strong man will become tinder and his work will be a spark; both will burn together, with no one to quench the flames.",
+    "translation": {
+      "thai": "ผู้ที่แข็งแกร่งจะกลายเป็นใยป่าน และผลงานของเขาจะเป็นประกายไฟ ทั้งสองจะลุกไหม้ไปด้วยกัน โดยไม่มีผู้ใดดับได้",
+      "thai_literal": "ผู้แข็งแกร่งจะกลายเป็นใยป่าน และผู้กระทำ/ผลงานของเขาเป็นประกายไฟ ทั้งสองจะไหม้ด้วยกัน และไม่มีผู้ดับ",
+      "thai_summary": "ผู้แข็งแกร่งที่พึ่งรูปเคารพจะกลายเป็นเชื้อไฟแห้ง และสิ่งที่มือเขาทำนั่นเองคือประกายไฟที่จุดมัน — ไฟที่ ‘ไม่มีผู้ใดดับได้’ นี้จะกลับมาอีกครั้งในข้อสุดท้ายของหนังสือ (66:24)",
+      "key_decisions": [
+        {
+          "hebrew": "נִיצוֹץ",
+          "rendering": "ประกายไฟ",
+          "rationale": "hapax — nîṣôṣ ‘spark’ (rabbinic Hebrew confirms the sense); the idolater's own product ignites him: sin carries its own combustion."
+        },
+        {
+          "hebrew": "וּפֹעֲלוֹ",
+          "rendering": "ผลงานของเขา",
+          "rationale": "pōʿălô — either ‘his work’ (the idol he made — followed, with BSB) or ‘its maker’ (the idol's maker, reading the suffix the other way; cf. LXX variant tradition). Main text takes the deed/idol as the spark; the alternative documented."
+        },
+        {
+          "hebrew": "הֶחָסֹן",
+          "rendering": "ผู้ที่แข็งแกร่ง",
+          "rationale": "ḥāsōn ‘the strong one’ (only here and Amos 2:9 of cedars) — the self-sufficient magnate of vv. 23–29; his strength is precisely tinder-dry flax-fiber (נְעֹרֶת → ใยป่าน, the most flammable refuse of flax-combing)."
+        }
+      ],
+      "notes": "HAPAX: נִיצוֹץ. The unquenchable-fire close (וְאֵין מְכַבֶּה) forms the book's grand inclusio with 66:24 (‘their fire shall not be quenched’) — judgment imagery the NT inherits (Mark 9:48 cites Isa 66:24)."
+    }
+  }
+]
