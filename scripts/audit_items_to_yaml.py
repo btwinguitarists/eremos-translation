@@ -81,6 +81,12 @@ BOOK_SLUGS = {
     "EST": "esther",
     "DAN": "daniel",
     "JOB": "job",
+    "PSA": "psalms",
+    "PRO": "proverbs",
+    "ECC": "ecclesiastes",
+    "SNG": "songofsongs",
+    "LAM": "lamentations",
+    "ISA": "isaiah",
 }
 
 TODO_TH = "__TODO_TH__"
