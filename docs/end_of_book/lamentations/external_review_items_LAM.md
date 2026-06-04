@@ -1,0 +1,55 @@
+## Item A — LAM 5:22 כִּי אִם: the book-ending crux (which conjunction-reading, and how to close the book)
+
+**The decision:** Lamentations ends on Hebrew's single most-debated conjunction. 5:21 pleads for restoration; 5:22 qualifies it with `כִּי אִם`. The translation follows the BSB "unless" line:
+
+- **LAM 5:21** HEB: `הֲשִׁיבֵ֨נוּ יְהוָ֤ה׀אֵלֶ֨יךָ֙ וְֽנָשׁ֔וּבָה חַדֵּ֥שׁ יָמֵ֖ינוּ כְּקֶֽדֶם` → TH: `ข้าแต่องค์พระผู้เป็นเจ้า ขอทรงนำพวกข้าพระองค์กลับมาหาพระองค์ แล้วพวกข้าพระองค์จะกลับมา ขอทรงรื้อฟื้นวันเวลาของพวกข้าพระองค์ให้เหมือนวันเก่าก่อน`
+- **LAM 5:22** HEB: `כִּ֚י אִם־מָאֹ֣ס מְאַסְתָּ֔נוּ קָצַ֥פְתָּ עָלֵ֖ינוּ עַד־מְאֹֽד` → TH: `เว้นเสียแต่ว่าพระองค์ทรงทอดทิ้งพวกข้าพระองค์อย่างสิ้นเชิงแล้ว และทรงพระพิโรธต่อพวกข้าพระองค์เกินประมาณ` ("**unless** You have utterly rejected us, and are angry with us beyond measure.")
+
+The verse-level `key_decisions` already flags the verse as deliberately open-ended (readable as "unless/except" *or* "even though") and notes the synagogue tradition of re-reading v.21 after v.22 so the book does not end on darkness.
+
+`כִּי אִם` here admits (at least) three classic construals, each of which changes the closing theology of the **entire book**:
+1. **"unless / except"** (current, BSB) — leaves open the dread of final, total rejection. Bleakest; most text-literal.
+2. **"for even though / although"** (concessive; cf. NRSV's question-form "unless you have utterly rejected us…") — softens the rejection toward a concession or rhetorical question.
+3. **"but instead / for if…"** — conditional protasis.
+
+English versions split: ESV/NIV/CSB "unless," NRSV phrases it as a question, KJV "But thou hast utterly rejected us." Thai versions (THSV1971) lean concessive. A textually-aware Thai reader comparing editions will land on this verse first.
+
+**Two questions:**
+1. Is the "เว้นเสียแต่ว่า / unless" reading the right call for a CC0 Thai Lamentations, or should the ending be rendered concessively ("แม้ว่า…" / as a question) to match the dominant Thai-evangelical expectation and avoid closing the book on apparent final rejection?
+2. Should the reader edition carry a footnote noting (a) the ambiguity of `כִּי אִם` and (b) the synagogue convention of repeating v.21 after v.22 — so the book does not visually end in despair?
+
+---
+
+## Item B — Bare Adonai (אֲדֹנָי) Layer-2 footnote present only once across a book that uses it heavily
+
+**The pattern:** LAM uses standalone אֲדֹנָי (no YHWH compound) densely, correctly rendered **องค์เจ้านาย** (third-person) per the locked 4-way Adonai distinction. The Layer-1 `key_decisions` Hebrew-form records are all present. But the **Layer-2** convention footnote (the per-chapter note telling a reader *why* องค์เจ้านาย ≠ องค์พระผู้เป็นเจ้า) appears only in ch.1:
+
+- **ch.1** `lamentations_01.json` textual-variants — has an Adonai note at v.14 ✓
+- **ch.2** opens with bare Adonai at **2:1** (before its first YHWH at 2:6), then 2:2, 2:5, 2:7, 2:18, 2:19, 2:20 — but the file carries only the YHWH footnote (v.6), **no Adonai note**.
+- **ch.3** uses bare Adonai at **3:31, 3:36, 3:37, 3:58** — but the file carries only the YHWH footnote (v.18), **no Adonai note**.
+
+Additionally, the LAM YHWH first-occurrence footnotes use a **shortened** form that omits the standard Adonai sentence the `divine_names_table_2026-05.md` Layer-2 template prescribes. Net effect: a reader who opens at ch.2 or ch.3 sees องค์เจ้านาย with no in-chapter explanation.
+
+This is a Layer-2 *completeness* gap, not a rendering error.
+
+**Question:** Should ch.2 (first occ. 2:1) and ch.3 (first occ. 3:31) get their own bare-Adonai Layer-2 footnotes — or should the full `divine_names_table` Layer-2 footnote text (which folds the Adonai sentence into the YHWH note) be restored for every LAM chapter? (Note: moot once the Layer-3 reader-edition front-matter exists.)
+
+---
+
+## Item C — LAM 3:58 standalone Adonai vocative without an interjection particle
+
+**The pattern:** 3:58 is a bare appositional prayer-vocative — standalone אֲדֹנָי with no preceding interjection particle (בִּי / אֲהָהּ / אָנָּא) — rendered with the deferential particle ข้าแต่:
+
+- **LAM 3:58** HEB: `רַ֧בְתָּ אֲדֹנָ֛י רִיבֵ֥י נַפְשִׁ֖י גָּאַ֥לְתָּ חַיָּֽי` → TH: `ข้าแต่องค์เจ้านาย พระองค์ทรงว่าความให้จิตใจของข้าพระองค์ ทรงไถ่ชีวิตของข้าพระองค์` ("You defend my cause, O Lord; You redeem my life.")
+
+The `divine_names_table_2026-05.md` 4-way sub-rule (2026-05-18) anchored **ข้าแต่องค์เจ้านาย** on the *interjection-prefaced* standalone form (JOS 7:8, `בִּי אֲדֹנָי`). The later 2026-05-23 sub-rule established that **bare appositional** *compound* vocatives (אֲדֹנָי יְהוִה without an interjection) drop the ข้าแต่ particle → bare องค์พระผู้เป็นเจ้า. By analogy, a bare appositional *standalone* Adonai vocative (3:58) might take bare **องค์เจ้านาย** (no ข้าแต่). The sub-rules don't explicitly cover this gap.
+
+**Question:** At 3:58, keep **ข้าแต่องค์เจ้านาย** (natural, unambiguously direct address), or drop to bare **องค์เจ้านาย** for consistency with the 2026-05-23 bare-appositional principle? Either way, the standalone-bare-appositional case should be added to the divine_names_table so Psalms/Isaiah/Ezekiel inherit a clear rule.
+
+---
+
+## Item D — The acrostic architecture is invisible in Thai, with no reader-facing pointer
+
+**The pattern:** LAM 1, 2, 4 are 22-line alphabetic acrostics; ch.3 is a triple acrostic (66 lines, 3 per Hebrew letter); ch.5 has 22 lines (the alphabet count) but is deliberately **not** acrostic — a structural foil. This A-to-Z architecture is the book's defining literary device: the *measured completeness* of grief, contained within the alphabet. None of it survives into Thai. The translator notes it honestly at the chapter-opening `key_decisions` (1:1, 3:1, 5:1) — but that is translator-facing only; there is no reader-facing artifact. Most English editions add a one-line note ("This poem is an acrostic in Hebrew…").
+
+**Question:** Should the reader edition carry a short note on the acrostic (book front-matter, or a per-chapter footer remark in `textual_variants`) so the Thai reader understands the formal device — parallel to the divine-name convention front-matter note? If yes, at what granularity (one book-level note vs. per-chapter)?
