@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-06-04 00:03:30 UTC_
-_Total chapters: 943 · Total verses: 25892_
+_Generated: 2026-06-04 00:16:06 UTC_
+_Total chapters: 944 · Total verses: 25910_
 
 ## How to verify a chapter
 
@@ -333,7 +333,8 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/ecclesiastes_05.json` | 19 | `9354586a3b03dbcd6f8c201acb80778a27f01826cf7b7723c857811fcc925122` | `b9322d17` |
 | `output/translations/ecclesiastes_06.json` | 12 | `5822eb3bdda2846c4826d4a45ce20f88373e86a045133ee5c82f38c45067ec6e` | `8e8d0b59` |
 | `output/translations/ecclesiastes_07.json` | 29 | `7255fe3d10cd94f4dacf9269152ac634ab9351770fa57b084a542d849e850f3c` | `3de5a198` |
-| `output/translations/ecclesiastes_08.json` | 17 | `c015307fdfc914df2e3a7d7dcc6754b193c088f32a95f09bb25ce45aff5b1bce` | `—` |
+| `output/translations/ecclesiastes_08.json` | 17 | `c015307fdfc914df2e3a7d7dcc6754b193c088f32a95f09bb25ce45aff5b1bce` | `f9d999b8` |
+| `output/translations/ecclesiastes_09.json` | 18 | `45565fab0095dc8317a4571276db372c73843d1f312bf5c2a66987a7b4261c95` | `—` |
 | `output/translations/ephesians_01.json` | 23 | `25b6b92e8fa22a1389d985ec795f3bfd27973de8e2847097f39929de798a3720` | `93fd9dfe` |
 | `output/translations/ephesians_02.json` | 22 | `53724785255dd4db63eb65b73968911ecb437277245fcf0b94d4478f7f188ad4` | `9ecdeec7` |
 | `output/translations/ephesians_03.json` | 21 | `0b6542e76349f9fe987bced658a7a4f666d8a4d4192737c716db2c2e897ea711` | `f6448547` |
