@@ -3235,6 +3235,15 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 ---
 
+### หมายเหตุด้านต้นฉบับ
+
+**ข้อ 1** — หมายเหตุการแปลพระนามของพระเจ้า
+
+_**องค์พระผู้เป็นเจ้า** ในบทนี้ (ปรากฏครั้งแรกที่ข้อ 1) แปลจากภาษาฮีบรู יהוה (พระนามเฉพาะของพระเจ้า ออกเสียงโดยทั่วไปว่า ‘ยาห์เวห์’). ฉบับเอเรโมสใช้ **องค์พระผู้เป็นเจ้า** ตามแบบแผนของฉบับพันธสัญญาใหม่ที่แปล κύριος ซึ่งในต้นฉบับฮีบรูตรงกับ יהוה. ที่ข้อ 16 พระนามปรากฏในรูปประสม אדני יהוה ซึ่งรวมเป็น **องค์พระผู้เป็นเจ้า** ตามตารางพระนาม. ดูรายละเอียดที่ docs/translator_decisions/divine_names_table_2026-05.md._
+
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -3288,5 +3297,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/isaiah_45.json` | `27525b57804889a0ad175c2f253ac9117b65c9503caa92421ecf36afc4d2e11d` |
 | `output/translations/isaiah_46.json` | `6262a30cc2a3bce50d61bc3fa7ddfc93dee7c6789a72a2e6f33ce4156254c3b9` |
 | `output/translations/isaiah_47.json` | `85ac0e6924c8681b9763db6da045453ba9f374643c018ac15440bc3d4b3a6e7c` |
-| `output/translations/isaiah_48.json` | `366b4c87d6739462f85c702ddc3340714963d24f8b70c45b0f4d725ef8361db8` |
+| `output/translations/isaiah_48.json` | `1812e6a78a3572de523632083a3602352a8e113df2c0bc72190f3e42025e0c9f` |
 
