@@ -89,6 +89,7 @@ BOOKS = {
     "EST": ("esther", "Esther"),
     "DAN": ("daniel", "Daniel"),
     "JOB": ("job", "Job"),
+    "ISA": ("isaiah", "Isaiah"),
 }
 
 # OT book codes — the prompt branches on testament so OT packets reference
