@@ -1,6 +1,6 @@
 # อิสยาห์
 
-_Isaiah — 45 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
+_Isaiah — 46 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
 
 _This **plain edition** shows only the Thai translation — no commentary, no Greek, no English. Intended for Thai scholars and theological reviewers evaluating the translation on its own terms. For the annotated edition with contextual summaries (บริบท), see `output/reader/isaiah.md`. For the underlying Greek, English (BSB) reference, and translator decisions per verse, see the per-chapter review reports at `output/check_reports/isaiah_NN_review.md` or the source JSON at `output/translations/`._
 
@@ -2462,6 +2462,36 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 ---
 
+## บทที่ 46
+
+**1** พระเบลก็หมอบลง พระเนโบก็ค้อมลง รูปเคารพของพวกเขากลายเป็นภาระบนหลังสัตว์และฝูงวัว สิ่งที่พวกเจ้าเคยแบกแห่ไปมา บัดนี้ถูกบรรทุกเป็นสัมภาระหนักบนหลังสัตว์ที่เหนื่อยอ่อน
+
+**2** พวกมันค้อมลงและหมอบลงด้วยกัน ไม่อาจช่วยปลดเปลื้องภาระนั้นได้ และตัวพวกมันเองก็ตกไปเป็นเชลย
+
+**3** “จงฟังเราเถิด วงศ์วานยาโคบเอ๋ย และคนที่เหลือทั้งสิ้นแห่งวงศ์วานอิสราเอล ผู้ซึ่งเราอุ้มชูมาตั้งแต่อยู่ในท้อง และแบกมาตั้งแต่กำเนิด
+
+**4** จนถึงวัยชราของเจ้า เราก็ยังเป็นผู้นั้น และจนเจ้าผมหงอก เราจะยังคงแบกเจ้าไว้ เราได้สร้างเจ้ามา และเราจะอุ้มเจ้าไป เราเองจะแบกเจ้าและจะช่วยเจ้าให้รอดพ้น
+
+**5** พวกเจ้าจะเปรียบเรากับผู้ใด หรือนับว่าผู้ใดเสมอเรา? จะเทียบเรากับผู้ใดว่าเราเหมือนกัน?
+
+**6** พวกเขาเทท้องคำออกจากถุง และชั่งเงินบนตาชั่ง พวกเขาจ้างช่างทองให้ทำมันขึ้นเป็นพระ แล้วพวกเขาก็กราบลงนมัสการมัน
+
+**7** พวกเขายกมันขึ้นบ่าแบกไป แล้ววางมันลงในที่ของมัน มันก็ยืนอยู่ตรงนั้น ขยับจากที่ของมันไม่ได้ แม้มีคนร้องทูลต่อมัน มันก็ตอบไม่ได้ และช่วยเขาให้รอดจากความทุกข์ร้อนก็ไม่ได้
+
+**8** จงจดจำสิ่งนี้ไว้และตั้งสติให้มั่น จงใส่ใจไว้ในใจของพวกเจ้าเถิด ผู้ละเมิดทั้งหลาย
+
+**9** จงจดจำสิ่งที่ผ่านมาแต่โบราณกาล เพราะเราเป็นพระเจ้า และไม่มีผู้อื่นใดเลย เราเป็นพระเจ้า และไม่มีผู้ใดเหมือนเรา
+
+**10** เราแจ้งตอนจบตั้งแต่ตอนต้น และแจ้งสิ่งที่ยังไม่เกิดขึ้นตั้งแต่โบราณกาล เรากล่าวว่า ‘แผนการของเราจะตั้งมั่น และเราจะกระทำทุกสิ่งที่เราพอใจให้สำเร็จ’
+
+**11** เราเรียกนกล่าเหยื่อมาจากตะวันออก คือชายผู้กระทำตามแผนการของเราจากแดนไกล แท้จริงเราได้ลั่นวาจาไว้ และเราจะทำให้มันเกิดขึ้นจริง เราได้วางแผนไว้ และเราจะกระทำให้สำเร็จ
+
+**12** จงฟังเราเถิด ผู้มีใจดื้อด้านทั้งหลาย ผู้อยู่ห่างไกลจากความชอบธรรม
+
+**13** เราได้นำความชอบธรรมของเราเข้ามาใกล้แล้ว มันไม่อยู่ไกลเลย และความรอดของเราจะไม่ล่าช้า เราจะให้ความรอดแก่ศิโยน และให้ความรุ่งโรจน์ของเราแก่อิสราเอล”
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -2512,5 +2542,6 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/isaiah_42.json` | `1f1bff282be25f07f61d6c5ccf44cac31d59d7c391ee9245582a18e1db59e631` |
 | `output/translations/isaiah_43.json` | `099d2bc4542d1777ee96dc8aef53214512a7db926d9c2f416adae3deabd94560` |
 | `output/translations/isaiah_44.json` | `27a1db23de2c4e57c8d08d13c38bc0355afdf61065e3b752c6c585048e61f9e9` |
-| `output/translations/isaiah_45.json` | `6f6bec9068a72676f68566da83beaad93fa77f013b7e1667b9a5c705ce4ca53f` |
+| `output/translations/isaiah_45.json` | `27525b57804889a0ad175c2f253ac9117b65c9503caa92421ecf36afc4d2e11d` |
+| `output/translations/isaiah_46.json` | `6262a30cc2a3bce50d61bc3fa7ddfc93dee7c6789a72a2e6f33ce4156254c3b9` |
 
