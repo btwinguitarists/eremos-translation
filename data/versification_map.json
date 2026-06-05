@@ -5,7 +5,7 @@
   "policy": "docs/translator_decisions/verse_schema_and_versification_2026-05.md"
  },
  "_psalm_superscription_count": 66,
- "_total_entries": 1356,
+ "_total_entries": 1368,
  "PSA-3-1": {
   "mt_book": "PSA",
   "mt_chapter": 3,
@@ -14598,6 +14598,127 @@
   "english_ref": "Isaiah 9:21",
   "bsb_ref": "Isaiah 9:21",
   "lxx_ref": "Isaiah 9:20",
+  "diverges": true
+ },
+ "ISA-63-19": {
+  "mt_book": "ISA",
+  "mt_chapter": 63,
+  "mt_verse": 19,
+  "mt_ref": "Isaiah 63:19",
+  "english_ref": "Isaiah 63:19–64:1",
+  "bsb_ref": "Isaiah 63:19–64:1",
+  "lxx_ref": "Isaiah 63:19",
+  "diverges": true,
+  "note": "MT 63:19 = English 63:19 + 64:1 (the 'rend the heavens' clause opens English ch. 64). LXX follows MT division."
+ },
+ "ISA-64-1": {
+  "mt_book": "ISA",
+  "mt_chapter": 64,
+  "mt_verse": 1,
+  "mt_ref": "Isaiah 64:1",
+  "english_ref": "Isaiah 64:2",
+  "bsb_ref": "Isaiah 64:2",
+  "lxx_ref": "Isaiah 64:1",
+  "diverges": true
+ },
+ "ISA-64-2": {
+  "mt_book": "ISA",
+  "mt_chapter": 64,
+  "mt_verse": 2,
+  "mt_ref": "Isaiah 64:2",
+  "english_ref": "Isaiah 64:3",
+  "bsb_ref": "Isaiah 64:3",
+  "lxx_ref": "Isaiah 64:2",
+  "diverges": true
+ },
+ "ISA-64-3": {
+  "mt_book": "ISA",
+  "mt_chapter": 64,
+  "mt_verse": 3,
+  "mt_ref": "Isaiah 64:3",
+  "english_ref": "Isaiah 64:4",
+  "bsb_ref": "Isaiah 64:4",
+  "lxx_ref": "Isaiah 64:3",
+  "diverges": true
+ },
+ "ISA-64-4": {
+  "mt_book": "ISA",
+  "mt_chapter": 64,
+  "mt_verse": 4,
+  "mt_ref": "Isaiah 64:4",
+  "english_ref": "Isaiah 64:5",
+  "bsb_ref": "Isaiah 64:5",
+  "lxx_ref": "Isaiah 64:4",
+  "diverges": true
+ },
+ "ISA-64-5": {
+  "mt_book": "ISA",
+  "mt_chapter": 64,
+  "mt_verse": 5,
+  "mt_ref": "Isaiah 64:5",
+  "english_ref": "Isaiah 64:6",
+  "bsb_ref": "Isaiah 64:6",
+  "lxx_ref": "Isaiah 64:5",
+  "diverges": true
+ },
+ "ISA-64-6": {
+  "mt_book": "ISA",
+  "mt_chapter": 64,
+  "mt_verse": 6,
+  "mt_ref": "Isaiah 64:6",
+  "english_ref": "Isaiah 64:7",
+  "bsb_ref": "Isaiah 64:7",
+  "lxx_ref": "Isaiah 64:6",
+  "diverges": true
+ },
+ "ISA-64-7": {
+  "mt_book": "ISA",
+  "mt_chapter": 64,
+  "mt_verse": 7,
+  "mt_ref": "Isaiah 64:7",
+  "english_ref": "Isaiah 64:8",
+  "bsb_ref": "Isaiah 64:8",
+  "lxx_ref": "Isaiah 64:7",
+  "diverges": true
+ },
+ "ISA-64-8": {
+  "mt_book": "ISA",
+  "mt_chapter": 64,
+  "mt_verse": 8,
+  "mt_ref": "Isaiah 64:8",
+  "english_ref": "Isaiah 64:9",
+  "bsb_ref": "Isaiah 64:9",
+  "lxx_ref": "Isaiah 64:8",
+  "diverges": true
+ },
+ "ISA-64-9": {
+  "mt_book": "ISA",
+  "mt_chapter": 64,
+  "mt_verse": 9,
+  "mt_ref": "Isaiah 64:9",
+  "english_ref": "Isaiah 64:10",
+  "bsb_ref": "Isaiah 64:10",
+  "lxx_ref": "Isaiah 64:9",
+  "diverges": true
+ },
+ "ISA-64-10": {
+  "mt_book": "ISA",
+  "mt_chapter": 64,
+  "mt_verse": 10,
+  "mt_ref": "Isaiah 64:10",
+  "english_ref": "Isaiah 64:11",
+  "bsb_ref": "Isaiah 64:11",
+  "lxx_ref": "Isaiah 64:10",
+  "diverges": true
+ },
+ "ISA-64-11": {
+  "mt_book": "ISA",
+  "mt_chapter": 64,
+  "mt_verse": 11,
+  "mt_ref": "Isaiah 64:11",
+  "english_ref": "Isaiah 64:12",
+  "bsb_ref": "Isaiah 64:12",
+  "lxx_ref": "Isaiah 64:11",
   "diverges": true
  }
 }
