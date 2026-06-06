@@ -175,8 +175,8 @@
 ## אֲנִי יְהוָה (I-am-YHWH Holiness/recognition formula) → องค์พระผู้เป็นเจ้า (leitwort divine name)
 **Doc:** `i_am_yhwh_holiness_formula_2026-05.md`  
 **Expected Thai contains:** `องค์พระผู้เป็นเจ้า`  
-**Total matching verses:** 73  
-**OK:** 73 · **Excepted:** 0 · **Violations:** 0
+**Total matching verses:** 93  
+**OK:** 93 · **Excepted:** 0 · **Violations:** 0
 
 ## כַּפֹּרֶת (kapporet — mercy seat / cover of ark)
 **Doc:** `kapporet_atonement_cover_2026-05.md`  
@@ -227,8 +227,8 @@
 ## Pharaoh / heart-hardening idiom — חזק/קשה/כבד + לב(ב) → แข็งกระด้าง
 **Doc:** `pharaoh_heart_hardening_2026-05.md`  
 **Expected Thai contains:** `แข็งกระด้าง`  
-**Total matching verses:** 17  
-**OK:** 16 · **Excepted:** 1 · **Violations:** 0
+**Total matching verses:** 18  
+**OK:** 17 · **Excepted:** 1 · **Violations:** 0
 
 ### Documented exceptions (not violations)
 - **1SA 6:6** — auto-audit 2026-05-29: drift pending Ben sign-off (see locked_surface_audit report)
