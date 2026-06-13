@@ -1,0 +1,536 @@
+[
+  {
+    "reference": "Jeremiah 1:1",
+    "chapter": 1,
+    "verse": 1,
+    "language": "hebrew",
+    "hebrew": "דִּבְרֵ֥י יִרְמְיָ֖הוּ בֶּן־חִלְקִיָּ֑הוּ מִן־הַכֹּֽהֲנִים֙ אֲשֶׁ֣ר בַּעֲנָת֔וֹת בְּאֶ֖רֶץ בִּנְיָמִֽן׃",
+    "bsb_english": "These are the words of Jeremiah son of Hilkiah, one of the priests in Anathoth in the territory of Benjamin.",
+    "translation": {
+      "thai": "ถ้อยคำของเยเรมีย์บุตรของฮิลคียาห์ หนึ่งในบรรดาปุโรหิตที่อยู่ในอานาโธทในแผ่นดินของเบนยามิน",
+      "thai_literal": null,
+      "thai_summary": "ข้อเปิดหนังสือระบุตัวผู้เผยพระวจนะ คือเยเรมีย์ผู้มีเชื้อสายปุโรหิตจากอานาโธท หมู่บ้านของคณะปุโรหิตในเขตเผ่าเบนยามิน ห่างจากเยรูซาเล็มไปทางเหนือราว 5 กิโลเมตร",
+      "key_decisions": [
+        {
+          "hebrew": "דִּבְרֵי יִרְמְיָהוּ",
+          "rendering": "ถ้อยคำของเยเรมีย์",
+          "rationale": "divrê = 'words/acts of' — superscription head governing the whole book. יִרְמְיָהוּ → เยเรมีย์ per proper_names_and_transliteration_2026-05.md (THSV11 baseline); the prophet is referenced with plain register (no ราชาศัพท์) per ot_register_policy §2.2 — prophets are servants of God, not kings."
+        },
+        {
+          "hebrew": "חִלְקִיָּהוּ",
+          "rendering": "ฮิลคียาห์",
+          "rationale": "Hilkiah (Jeremiah's father, a priest) → ฮิลคียาห์ (THSV11 baseline). Not to be conflated with the later high priest Hilkiah of 2 Kgs 22 — the text gives no such identification."
+        },
+        {
+          "hebrew": "בַּעֲנָתוֹת בְּאֶרֶץ בִּנְיָמִן",
+          "rendering": "ในอานาโธทในแผ่นดินของเบนยามิน",
+          "rationale": "עֲנָתוֹת Anathoth → อานาโธท; a Levitical/priestly town (Josh 21:18) in בִּנְיָמִן Benjamin → เบนยามิน, both per the THSV11 baseline. Names locate Jeremiah within the displaced Elide priestly line (cf. 1 Kgs 2:26, Abiathar exiled to Anathoth)."
+        }
+      ],
+      "notes": "Superscription (vv. 1–3, third-person editorial frame; Jeremiah's first-person voice begins v. 4). Anathoth's priestly setting frames the irony that a priest's son is sent to indict the temple establishment."
+    }
+  },
+  {
+    "reference": "Jeremiah 1:2",
+    "chapter": 1,
+    "verse": 2,
+    "language": "hebrew",
+    "hebrew": "אֲשֶׁ֨ר הָיָ֤ה דְבַר־יְהוָה֙ אֵלָ֔יו בִּימֵ֛י יֹאשִׁיָּ֥הוּ בֶן־אָמ֖וֹן מֶ֣לֶךְ יְהוּדָ֑ה בִּשְׁלֹשׁ־עֶשְׂרֵ֥ה שָׁנָ֖ה לְמָלְכֽוֹ׃",
+    "bsb_english": "The word of the LORD came to Jeremiah in the thirteenth year of the reign of Josiah son of Amon king of Judah,",
+    "translation": {
+      "thai": "พระวจนะขององค์พระผู้เป็นเจ้ามาถึงท่านในรัชสมัยของโยสิยาห์บุตรของอาโมนกษัตริย์แห่งยูดาห์ ในปีที่สิบสามแห่งรัชกาลของพระองค์",
+      "thai_literal": null,
+      "thai_summary": "พระวจนะเริ่มมาถึงเยเรมีย์ในปีที่ 13 ของกษัตริย์โยสิยาห์ (ราว 627 ปีก่อนคริสตกาล) ซึ่งเป็นช่วงการปฏิรูปศาสนาของโยสิยาห์ ก่อนที่อาณาจักรยูดาห์จะล่มสลาย",
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้า",
+          "rationale": "יהוה → ‘องค์พระผู้เป็นเจ้า’ ตาม divine_names_table_2026-05.md (Layer 1)"
+        },
+        {
+          "hebrew": "הָיָה דְבַר־יְהוָה אֵלָיו",
+          "rendering": "พระวจนะขององค์พระผู้เป็นเจ้ามาถึงท่าน",
+          "rationale": "hāyâ devar-YHWH ʾēlāyw — the prophetic word-event formula ('the word of YHWH came to him'). Rendered มาถึง (came/arrived to) rather than a speech verb, preserving the Hebrew idiom that the divine word is an event that arrives. ท่าน (venerated-elder register) for Jeremiah in the editorial third person."
+        },
+        {
+          "hebrew": "יֹאשִׁיָּהוּ בֶן־אָמוֹן מֶלֶךְ יְהוּדָה",
+          "rendering": "โยสิยาห์บุตรของอาโมนกษัตริย์แห่งยูดาห์",
+          "rationale": "יֹאשִׁיָּהוּ → โยสิยาห์, אָמוֹן → อาโมน, יְהוּדָה → ยูดาห์ per THSV11 baseline. King named only as a temporal anchor (no action verb), so no ราชาศัพท์ verb is marked; the king's office is dignified with พระองค์ in the date-phrase per ot_register_policy §1.1."
+        }
+      ],
+      "notes": "First occurrence of יהוה in the chapter — see the Tetragrammaton-convention footnote in output/textual_variants/jeremiah_01.json (Layer 2). Josiah's 13th year (~627 BC) dates the call."
+    }
+  },
+  {
+    "reference": "Jeremiah 1:3",
+    "chapter": 1,
+    "verse": 3,
+    "language": "hebrew",
+    "hebrew": "וַיְהִ֗י בִּימֵ֨י יְהוֹיָקִ֤ים בֶּן־יֹאשִׁיָּ֨הוּ֙ מֶ֣לֶךְ יְהוּדָ֔ה עַד־תֹּם֙ עַשְׁתֵּ֣י עֶשְׂרֵ֣ה שָׁנָ֔ה לְצִדְקִיָּ֥הוּ בֶן־יֹאשִׁיָּ֖הוּ מֶ֣לֶךְ יְהוּדָ֑ה עַד־גְּל֥וֹת יְרוּשָׁלִַ֖ם בַּחֹ֥דֶשׁ הַחֲמִישִֽׁי׃",
+    "bsb_english": "and through the days of Jehoiakim son of Josiah king of Judah, until the fifth month of the eleventh year of Zedekiah son of Josiah king of Judah, when the people of Jerusalem went into exile.",
+    "translation": {
+      "thai": "และพระวจนะนั้นยังมาถึงในรัชสมัยของเยโฮยาคิมบุตรของโยสิยาห์กษัตริย์แห่งยูดาห์ จนถึงสิ้นปีที่สิบเอ็ดแห่งรัชกาลของเศเดคียาห์บุตรของโยสิยาห์กษัตริย์แห่งยูดาห์ จนถึงคราวที่ชาวเยรูซาเล็มต้องตกไปเป็นเชลยในเดือนที่ห้า",
+      "thai_literal": null,
+      "thai_summary": "พันธกิจของเยเรมีย์กินเวลายาวนานราว 40 ปี ตั้งแต่กษัตริย์โยสิยาห์ ผ่านเยโฮยาคิม จนถึงปีสุดท้ายของเศเดคียาห์ เมื่อเยรูซาเล็มถูกกวาดต้อนไปเป็นเชลยที่บาบิโลน (586 ปีก่อนคริสตกาล)",
+      "key_decisions": [
+        {
+          "hebrew": "יְהוֹיָקִים … צִדְקִיָּהוּ",
+          "rendering": "เยโฮยาคิม … เศเดคียาห์",
+          "rationale": "יְהוֹיָקִים → เยโฮยาคิม, צִדְקִיָּהוּ → เศเดคียาห์ per THSV11 baseline (both sons of Josiah). No real Tetragrammaton appears in this verse — יְהוֹיָקִים/יֹאשִׁיָּהוּ/צִדְקִיָּהוּ/יְהוּדָה only resemble it; therefore no Layer-1 YHWH key-decision is added here. (Ellipsis marks two non-contiguous king-names.)"
+        },
+        {
+          "hebrew": "עַד־גְּלוֹת יְרוּשָׁלִַם",
+          "rendering": "จนถึงคราวที่ชาวเยรูซาเล็มต้องตกไปเป็นเชลย",
+          "rationale": "gālâ (go into exile) — the noun-clause ‘until the exile of Jerusalem’ names the terminus of the book's prophetic span. ตกไปเป็นเชลย is the corpus exile-vocabulary; יְרוּשָׁלִַם → เยรูซาเล็ม (without กรุง here, in the prophetic dating-clause)."
+        }
+      ],
+      "notes": "The 11th year of Zedekiah, 5th month = the fall of Jerusalem, 586 BC. The span Josiah-yr-13 → exile brackets the whole ministry. MT-LXX large-scale reordering of Jeremiah affects the oracle sequence (esp. chs. 46–51), not ch. 1; MT order is followed per ot_canon_and_text_base_2026-05.md / verse_schema §2.1."
+    }
+  },
+  {
+    "reference": "Jeremiah 1:4",
+    "chapter": 1,
+    "verse": 4,
+    "language": "hebrew",
+    "hebrew": "וַיְהִ֥י דְבַר־יְהוָ֖ה אֵלַ֥י לֵאמֹֽר׃",
+    "bsb_english": "The word of the LORD came to me, saying:",
+    "translation": {
+      "thai": "พระวจนะขององค์พระผู้เป็นเจ้ามาถึงข้าพเจ้าว่า",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้า",
+          "rationale": "יהוה → ‘องค์พระผู้เป็นเจ้า’ ตาม divine_names_table_2026-05.md (Layer 1)"
+        },
+        {
+          "hebrew": "וַיְהִי דְבַר־יְהוָה אֵלַי לֵאמֹר",
+          "rendering": "พระวจนะขององค์พระผู้เป็นเจ้ามาถึงข้าพเจ้าว่า",
+          "rationale": "The word-event formula now in the first person (אֵלַי 'to me') — Jeremiah's own voice begins. ข้าพเจ้า (narrative first-person) for the prophet recounting his call; lēʾmōr → ว่า introducing direct divine speech."
+        }
+      ],
+      "notes": "Transition from the editorial superscription (vv. 1–3, 'he') to Jeremiah's first-person memoir (vv. 4–19, 'me')."
+    }
+  },
+  {
+    "reference": "Jeremiah 1:5",
+    "chapter": 1,
+    "verse": 5,
+    "language": "hebrew",
+    "hebrew": "בְּטֶ֨רֶם אֶצָּרְךָ֤ בַבֶּ֨טֶן֙ יְדַעְתִּ֔יךָ וּבְטֶ֛רֶם תֵּצֵ֥א מֵרֶ֖חֶם הִקְדַּשְׁתִּ֑יךָ נָבִ֥יא לַגּוֹיִ֖ם נְתַתִּֽיךָ׃",
+    "bsb_english": "“Before I formed you in the womb I knew you, and before you were born I set you apart and appointed you as a prophet to the nations.”",
+    "translation": {
+      "thai": "“เรารู้จักเจ้าตั้งแต่ก่อนที่เราจะปั้นเจ้าขึ้นในครรภ์ และก่อนที่เจ้าจะออกมาจากครรภ์ เราได้แยกเจ้าไว้แล้ว เราได้ตั้งเจ้าให้เป็นผู้เผยพระวจนะแก่บรรดาประชาชาติ”",
+      "thai_literal": null,
+      "thai_summary": "พระเจ้าทรงเลือกและทรงกำหนดเยเรมีย์ให้เป็นผู้เผยพระวจนะตั้งแต่ก่อนเขาเกิด — การทรงเรียกที่มาก่อนคุณสมบัติหรือความสมัครใจใด ๆ ของมนุษย์ (เทียบ อิสยาห์ 49:1; กาลาเทีย 1:15) และขอบเขตพันธกิจครอบคลุม ‘บรรดาประชาชาติ’ ไม่ใช่เพียงยูดาห์",
+      "key_decisions": [
+        {
+          "hebrew": "אֶצָּרְךָ בַבֶּטֶן",
+          "rendering": "ปั้นเจ้าขึ้นในครรภ์",
+          "rationale": "yāṣar (form/shape, the potter's verb — cf. Gen 2:7) → ปั้น, preserving the craftsman image of God shaping Jeremiah in the womb. Divine first-person speech uses เรา + plain verbs (no ราชาศัพท์ in YHWH's own mouth) per ot_register_policy §4."
+        },
+        {
+          "hebrew": "יְדַעְתִּיךָ",
+          "rendering": "เรารู้จักเจ้า",
+          "rationale": "yādaʿ here is elective/relational knowing (to choose, set in covenant relationship — cf. Amos 3:2), not bare cognition. รู้จัก carries the relational sense; the pre-natal placement makes it election, documented in thai_summary."
+        },
+        {
+          "hebrew": "הִקְדַּשְׁתִּיךָ",
+          "rendering": "เราได้แยกเจ้าไว้แล้ว",
+          "rationale": "qādaš Hiphil = consecrate / set apart for a sacred office. แยก…ไว้ (set apart) over ชำระให้บริสุทธิ์ (cleanse), since the sense is designation-to-office, not moral purification — the priest's son is set apart as prophet before birth."
+        },
+        {
+          "hebrew": "נָבִיא לַגּוֹיִם נְתַתִּיךָ",
+          "rendering": "เราได้ตั้งเจ้าให้เป็นผู้เผยพระวจนะแก่บรรดาประชาชาติ",
+          "rationale": "nāvîʾ → ผู้เผยพระวจนะ (corpus-standard for prophet). nātan ‘give/appoint’ → ตั้ง. גּוֹיִם → ประชาชาติ (the broad cosmic ‘nations’ sense per ethnos_2026-04.md) — Jeremiah's mandate is international, anticipating chs. 46–51."
+        }
+      ],
+      "notes": "Three pre-natal verbs (formed / knew / set apart) climaxing in commission (appointed). The verse grounds prophetic calling in divine initiative before birth — the locus classicus alongside Isa 49:1 and quoted-in-spirit at Gal 1:15. No יהוה token in this verse (continuation of divine first-person speech)."
+    }
+  },
+  {
+    "reference": "Jeremiah 1:6",
+    "chapter": 1,
+    "verse": 6,
+    "language": "hebrew",
+    "hebrew": "וָאֹמַ֗ר אֲהָהּ֙ אֲדֹנָ֣י יְהֹוִ֔ה הִנֵּ֥ה לֹא־יָדַ֖עְתִּי דַּבֵּ֑ר כִּי־נַ֖עַר אָנֹֽכִי׃",
+    "bsb_english": "“Ah, Lord GOD,” I said, “I surely do not know how to speak, for I am only a child!”",
+    "translation": {
+      "thai": "ข้าพเจ้าจึงทูลว่า “ข้าแต่องค์พระผู้เป็นเจ้า ดูเถิด ข้าพระองค์ไม่รู้ว่าจะพูดอย่างไร เพราะข้าพระองค์เป็นเพียงเด็ก”",
+      "thai_literal": null,
+      "thai_summary": "เยเรมีย์ตอบรับการทรงเรียกด้วยความหวาดหวั่น โดยอ้างว่าตนยังเด็กและพูดไม่เป็น — สะท้อนคำคัดค้านของโมเสสที่ว่า ‘ข้าพระองค์พูดไม่คล่อง’ (อพยพ 4:10)",
+      "key_decisions": [
+        {
+          "hebrew": "אֲדֹנָי יְהֹוִה",
+          "rendering": "ข้าแต่องค์พระผู้เป็นเจ้า",
+          "rationale": "אֲהָהּ אֲדֹנָי יְהוִה — the Adonai-YHWH compound in a sentence-initial interjection of dismay (אֲהָהּ ‘Ah/Alas’). Per divine_names_table_2026-05.md §sub-rule 2026-05-23, sentence-initial interjection compounds render ‘ข้าแต่องค์พระผู้เป็นเจ้า’ (Jer 1:6 is the doc's named anchor). The compound collapses to the single Thai form (Layer 1: יהוה → องค์พระผู้เป็นเจ้า); the dismay-particle אֲהָהּ is folded into the deferential ข้าแต่ vocative, matching shipped JOS 7:7."
+        },
+        {
+          "hebrew": "לֹא־יָדַעְתִּי דַּבֵּר",
+          "rendering": "ข้าพระองค์ไม่รู้ว่าจะพูดอย่างไร",
+          "rationale": "Jeremiah addresses God, so first-person humble ข้าพระองค์ (RULES §3) and speech-verb ทูล for the narrative frame ‘I said.’ uW reads ‘I do not know how to speak’ as hyperbole for public oratory; rendered straightforwardly."
+        },
+        {
+          "hebrew": "נַעַר אָנֹכִי",
+          "rendering": "ข้าพระองค์เป็นเพียงเด็ก",
+          "rationale": "naʿar = youth/boy (an indefinite young age, not a toddler) → เด็ก / เพียงเด็ก, conveying inexperience and the objection of unfitness that v. 7 overrides."
+        }
+      ],
+      "notes": "Jeremiah's call-objection (the prophetic-commission topos: Moses Exod 3–4, Gideon Judg 6, Isaiah Isa 6). אֲדֹנָי יְהוִה vowel-pointed יְהֹוִה (the qere-perpetuum 'GOD'-vocalization of the Tetragrammaton) — normalizes to יהוה, so the divine-names key-decision is required and supplied."
+    }
+  },
+  {
+    "reference": "Jeremiah 1:7",
+    "chapter": 1,
+    "verse": 7,
+    "language": "hebrew",
+    "hebrew": "וַיֹּ֤אמֶר יְהוָה֙ אֵלַ֔י אַל־תֹּאמַ֖ר נַ֣עַר אָנֹ֑כִי כִּ֠י עַֽל־כָּל־אֲשֶׁ֤ר אֶֽשְׁלָחֲךָ֙ תֵּלֵ֔ךְ וְאֵ֛ת כָּל־אֲשֶׁ֥ר אֲצַוְּךָ֖ תְּדַבֵּֽר׃",
+    "bsb_english": "But the LORD told me: “Do not say, ‘I am only a child.’ For to everyone I send you, you must go, and all that I command you, you must speak.",
+    "translation": {
+      "thai": "แต่องค์พระผู้เป็นเจ้าตรัสกับข้าพเจ้าว่า “อย่าพูดว่า ‘ข้าเป็นเพียงเด็ก’ เพราะเจ้าจะต้องไปหาทุกคนที่เราใช้เจ้าไป และจะต้องพูดทุกสิ่งที่เราสั่งเจ้า",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้า",
+          "rationale": "יהוה → ‘องค์พระผู้เป็นเจ้า’ ตาม divine_names_table_2026-05.md (Layer 1)"
+        },
+        {
+          "hebrew": "אַל־תֹּאמַר נַעַר אָנֹכִי",
+          "rendering": "อย่าพูดว่า ‘ข้าเป็นเพียงเด็ก’",
+          "rationale": "God quotes back Jeremiah's own objection (v. 6) to overturn it. The quoted self-reference uses the lower ข้า (Jeremiah's own words), in nested single quotes ‘…’ per RULES §5b. องค์พระผู้เป็นเจ้าตรัส (royal ตรัส, narrator voice) introduces the divine speech."
+        },
+        {
+          "hebrew": "אֶשְׁלָחֲךָ … אֲצַוְּךָ",
+          "rendering": "เราใช้เจ้าไป … เราสั่งเจ้า",
+          "rationale": "šālaḥ (send) + ṣāwâ (command) — the two verbs defining a prophet: a sent-one who speaks commissioned words, not his own. Divine first-person เรา + plain verbs; Jeremiah addressed as เจ้า."
+        }
+      ],
+      "notes": "The commission's logic: the prophet's youth is irrelevant because both the destination ('go') and the content ('speak') are God's, not the prophet's. (Ellipsis marks two non-contiguous verbs.)"
+    }
+  },
+  {
+    "reference": "Jeremiah 1:8",
+    "chapter": 1,
+    "verse": 8,
+    "language": "hebrew",
+    "hebrew": "אַל־תִּירָ֖א מִפְּנֵיהֶ֑ם כִּֽי־אִתְּךָ֥ אֲנִ֛י לְהַצִּלֶ֖ךָ נְאֻם־יְהוָֽה׃",
+    "bsb_english": "Do not be afraid of them, for I am with you to deliver you,” declares the LORD.",
+    "translation": {
+      "thai": "อย่ากลัวพวกเขาเลย เพราะเราอยู่กับเจ้าเพื่อจะช่วยกู้เจ้า องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้",
+      "thai_literal": null,
+      "thai_summary": "ใจความหลักของการทรงเรียก คือคำสัญญาว่าพระเจ้าจะทรงสถิตอยู่ด้วยและทรงช่วยกู้ — เหตุผลเดียวที่ผู้เผยพระวจนะที่อ่อนแอจะยืนหยัดต่อหน้าศัตรูได้",
+      "key_decisions": [
+        {
+          "hebrew": "נְאֻם־יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้",
+          "rationale": "neʾum-YHWH (prophetic utterance-formula) → องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้, LOCKED per hebrew_idioms_and_metaphor_2026-05.md §5.4. Layer 1: יהוה → องค์พระผู้เป็นเจ้า (divine_names_table_2026-05.md)."
+        },
+        {
+          "hebrew": "כִּי־אִתְּךָ אֲנִי לְהַצִּלֶךָ",
+          "rendering": "เพราะเราอยู่กับเจ้าเพื่อจะช่วยกู้เจ้า",
+          "rationale": "The accompaniment-promise (ʾittəkā ʾănî ‘I am with you’) + nāṣal Hiphil ‘deliver/rescue’ → ช่วยกู้. Divine first-person เรา; this clause is echoed verbatim at v. 19, framing the chapter."
+        }
+      ],
+      "notes": "אַל־תִּירָא ‘do not fear’ — the standard divine-reassurance formula (Gen 15:1, Isa 41:10). The fear-not + I-am-with-you + deliverance triad is the call's anchor, repeated to close the chapter (v. 19)."
+    }
+  },
+  {
+    "reference": "Jeremiah 1:9",
+    "chapter": 1,
+    "verse": 9,
+    "language": "hebrew",
+    "hebrew": "וַיִּשְׁלַ֤ח יְהוָה֙ אֶת־יָד֔וֹ וַיַּגַּ֖ע עַל־פִּ֑י וַיֹּ֤אמֶר יְהוָה֙ אֵלַ֔י הִנֵּ֛ה נָתַ֥תִּי דְבָרַ֖י בְּפִֽיךָ׃",
+    "bsb_english": "Then the LORD reached out His hand, touched my mouth, and said to me: “Behold, I have put My words in your mouth.",
+    "translation": {
+      "thai": "แล้วองค์พระผู้เป็นเจ้าทรงยื่นพระหัตถ์ของพระองค์ออกมาแตะที่ปากของข้าพเจ้า และองค์พระผู้เป็นเจ้าตรัสกับข้าพเจ้าว่า “ดูเถิด เราได้บรรจุถ้อยคำของเราไว้ในปากของเจ้าแล้ว",
+      "thai_literal": null,
+      "thai_summary": "พระเจ้าทรงแตะปากของเยเรมีย์เป็นสัญลักษณ์ของการมอบถ้อยคำให้ — คู่ขนานกับการชำระริมฝีปากของอิสยาห์ (อิสยาห์ 6:7) และพระสัญญาเรื่องผู้เผยพระวจนะอย่างโมเสสที่ว่า ‘เราจะใส่ถ้อยคำของเราไว้ในปากของเขา’ (เฉลยธรรมบัญญัติ 18:18)",
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้า",
+          "rationale": "יהוה → ‘องค์พระผู้เป็นเจ้า’ ตาม divine_names_table_2026-05.md (Layer 1)"
+        },
+        {
+          "hebrew": "וַיִּשְׁלַח יְהוָה אֶת־יָדוֹ וַיַּגַּע עַל־פִּי",
+          "rendering": "ทรงยื่นพระหัตถ์ของพระองค์ออกมาแตะที่ปากของข้าพเจ้า",
+          "rationale": "Narrator-voice description of YHWH's action → ราชาศัพท์: ทรงยื่น + the anthropomorphic יָד rendered พระหัตถ์ (royal ‘hand’) per hebrew_idioms_and_metaphor_2026-05.md §1.2. The touch-verb nāgaʿ is kept PLAIN (แตะ, not ทรงแตะ): per ot_register_policy §1.2 / honorifics-binding, ทรง- must not bind to the body-part พระหัตถ์ as its grammatical subject. ‘My mouth’ (Jeremiah's) stays plain ปาก."
+        },
+        {
+          "hebrew": "נָתַתִּי דְבָרַי בְּפִיךָ",
+          "rendering": "เราได้บรรจุถ้อยคำของเราไว้ในปากของเจ้าแล้ว",
+          "rationale": "Divine first-person speech → เรา + plain verb. nātan dəvāray bəfîkā ‘I have given my words in your mouth’ — the commissioning gesture's verbal counterpart; ‘your mouth’ (Jeremiah's) plain ปาก. Echoes Deut 18:18."
+        }
+      ],
+      "notes": "The mouth-touch is the prophetic empowerment act (cf. Isa 6:7 coal-to-lips). uW notes it may be vision or symbolic act; either way it signifies divinely-authorized speech. Only ทรง-verb in the chapter — bound to YHWH as subject, not to พระหัตถ์."
+    }
+  },
+  {
+    "reference": "Jeremiah 1:10",
+    "chapter": 1,
+    "verse": 10,
+    "language": "hebrew",
+    "hebrew": "רְאֵ֞ה הִפְקַדְתִּ֣יךָ ׀ הַיּ֣וֹם הַזֶּ֗ה עַל־הַגּוֹיִם֙ וְעַל־הַמַּמְלָכ֔וֹת לִנְת֥וֹשׁ וְלִנְת֖וֹץ וּלְהַאֲבִ֣יד וְלַהֲר֑וֹס לִבְנ֖וֹת וְלִנְטֽוֹעַ׃",
+    "bsb_english": "See, I have appointed you today over nations and kingdoms to uproot and tear down, to destroy and overthrow, to build and plant.”",
+    "translation": {
+      "thai": "ดูเถิด ในวันนี้เราได้แต่งตั้งเจ้าให้อยู่เหนือบรรดาประชาชาติและอาณาจักรทั้งหลาย เพื่อจะถอนรากถอนโคนและรื้อทำลาย เพื่อจะทำให้พินาศและโค่นล้ม เพื่อจะสร้างและปลูก”",
+      "thai_literal": null,
+      "thai_summary": "พันธกิจของเยเรมีย์มีขอบเขตระดับนานาชาติและมีพลังถึงหกประการ — สี่คำแรกเป็นการรื้อถอนทำลาย สองคำหลังเป็นการสร้างและปลูก ผู้เผยพระวจนะ ‘ทำ’ สิ่งเหล่านี้โดยการประกาศพระวจนะของพระเจ้าที่จะสำเร็จเป็นจริง",
+      "key_decisions": [
+        {
+          "hebrew": "הִפְקַדְתִּיךָ עַל־הַגּוֹיִם",
+          "rendering": "เราได้แต่งตั้งเจ้าให้อยู่เหนือบรรดาประชาชาติ",
+          "rationale": "lemma פָּקַד here = sense (3) appointment / commissioning (הִפְקִיד עַל ‘appoint over’) → แต่งตั้ง per paqad_visit_attend_2026-05.md (Jer 1:10 is a named locking precedent). Plain แต่งตั้ง (not ทรงแต่งตั้ง) because this is divine first-person speech (เรา). Distinct from sense (4) judgment-visitation that dominates Jeremiah elsewhere (5:9, 6:15)."
+        },
+        {
+          "hebrew": "לִנְתוֹשׁ וְלִנְתוֹץ וּלְהַאֲבִיד וְלַהֲרוֹס לִבְנוֹת וְלִנְטוֹעַ",
+          "rendering": "ถอนรากถอนโคนและรื้อทำลาย … ทำให้พินาศและโค่นล้ม … สร้างและปลูก",
+          "rationale": "Six infinitives, four destructive + two constructive: nātaš (uproot, agricultural) → ถอนรากถอนโคน; nātaṣ (break down, architectural) → รื้อทำลาย; ʾābad Hiphil (destroy) → ทำให้พินาศ; hāras (overthrow) → โค่นล้ม; bānâ (build) → สร้าง; nāṭaʿ (plant) → ปลูก. The plant/build pair answers the uproot/tear-down pair, framing Jeremiah's dual message of judgment and restoration. (Ellipses group the doublets.)"
+        }
+      ],
+      "notes": "No יהוה in this verse (divine first-person speech continues from v. 9). The six-verb mandate recurs across the book (18:7–9; 24:6; 31:28; 42:10), making this the programmatic statement of Jeremiah's commission."
+    }
+  },
+  {
+    "reference": "Jeremiah 1:11",
+    "chapter": 1,
+    "verse": 11,
+    "language": "hebrew",
+    "hebrew": "וַיְהִ֤י דְבַר־יְהוָה֙ אֵלַ֣י לֵאמֹ֔ר מָה־אַתָּ֥ה רֹאֶ֖ה יִרְמְיָ֑הוּ וָאֹמַ֕ר מַקֵּ֥ל שָׁקֵ֖ד אֲנִ֥י רֹאֶֽה׃",
+    "bsb_english": "And the word of the LORD came to me, asking, “Jeremiah, what do you see?” “I see a branch of an almond tree,” I replied.",
+    "translation": {
+      "thai": "พระวจนะขององค์พระผู้เป็นเจ้ามาถึงข้าพเจ้าว่า “เยเรมีย์เอ๋ย เจ้าเห็นอะไร?” ข้าพเจ้าทูลตอบว่า “ข้าพระองค์เห็นกิ่งของต้นอัลมอนด์”",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้า",
+          "rationale": "יהוה → ‘องค์พระผู้เป็นเจ้า’ ตาม divine_names_table_2026-05.md (Layer 1)"
+        },
+        {
+          "hebrew": "מַקֵּל שָׁקֵד",
+          "rendering": "กิ่งของต้นอัลมอนด์",
+          "rationale": "maqqēl šāqēd ‘almond branch/rod’ → กิ่งของต้นอัลมอนด์ (อัลมอนด์ transliterated per Thai-Bible tradition). The almond (שָׁקֵד) sets up the paronomasia resolved in v. 12 (שֹׁקֵד ‘watching’); see v. 12 key_decisions. Jeremiah addresses God → ข้าพระองค์ + ทูล."
+        }
+      ],
+      "notes": "First of two paired visions (almond branch vv. 11–12; boiling pot vv. 13–16). The almond was the first tree to bloom in late winter — the 'wakeful/watcher' tree — which the wordplay in v. 12 exploits."
+    }
+  },
+  {
+    "reference": "Jeremiah 1:12",
+    "chapter": 1,
+    "verse": 12,
+    "language": "hebrew",
+    "hebrew": "וַיֹּ֧אמֶר יְהוָ֛ה אֵלַ֖י הֵיטַ֣בְתָּ לִרְא֑וֹת כִּֽי־שֹׁקֵ֥ד אֲנִ֛י עַל־דְּבָרִ֖י לַעֲשֹׂתֽוֹ׃",
+    "bsb_english": "“You have observed correctly,” said the LORD, “for I am watching over My word to accomplish it.”",
+    "translation": {
+      "thai": "แล้วองค์พระผู้เป็นเจ้าตรัสกับข้าพเจ้าว่า “เจ้าเห็นถูกต้องแล้ว เพราะเราเฝ้าดูแลถ้อยคำของเราอยู่ เพื่อจะให้สำเร็จ”",
+      "thai_literal": null,
+      "thai_summary": "ภาษาฮีบรูเล่นเสียงคำที่มาจากรากเดียวกัน คือ ‘ชาเคด’ (שָׁקֵד ต้นอัลมอนด์ ข้อ 11) กับ ‘โชเคด’ (שֹׁקֵד การเฝ้าดูแล) — เหมือนต้นอัลมอนด์ที่ ‘ตื่น’ ผลิดอกก่อนต้นไม้อื่น พระเจ้าทรง ‘เฝ้าดูแล’ พระวจนะของพระองค์ให้สำเร็จเป็นจริงอย่างแน่นอน นี่คือหลักประกันความเชื่อถือได้ของถ้อยคำที่ทรงมอบแก่เยเรมีย์",
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้า",
+          "rationale": "יהוה → ‘องค์พระผู้เป็นเจ้า’ ตาม divine_names_table_2026-05.md (Layer 1)"
+        },
+        {
+          "hebrew": "שֹׁקֵד אֲנִי עַל־דְּבָרִי",
+          "rendering": "เราเฝ้าดูแลถ้อยคำของเราอยู่",
+          "rationale": "Stratum-4 paronomasia per wordplay_and_paronomasia_2026-05.md §1: šōqēd ‘watching/wakeful over’ puns on šāqēd ‘almond’ (v. 11), same root ש-ק-ד. Thai cannot reproduce the sound-play, so meaning is preserved (เฝ้าดูแล ‘watch over’) and the wordplay is footnoted in thai_summary per the meaning>sound rule. Divine first-person เรา + plain verb. (šāqēd of v. 11 cited here for the wordplay comparison.)"
+        }
+      ],
+      "notes": "WORDPLAY (paronomasia): שָׁקֵד (almond) / שֹׁקֵד (watching). God guarantees the certainty of His word — the theological hinge of the vision-pair and a keynote for the whole book of judgment-and-fulfillment."
+    }
+  },
+  {
+    "reference": "Jeremiah 1:13",
+    "chapter": 1,
+    "verse": 13,
+    "language": "hebrew",
+    "hebrew": "וַיְהִ֨י דְבַר־יְהוָ֤ה ׀ אֵלַי֙ שֵׁנִ֣ית לֵאמֹ֔ר מָ֥ה אַתָּ֖ה רֹאֶ֑ה וָאֹמַ֗ר סִ֤יר נָפ֙וּחַ֙ אֲנִ֣י רֹאֶ֔ה וּפָנָ֖יו מִפְּנֵ֥י צָפֽוֹנָה׃",
+    "bsb_english": "Again the word of the LORD came to me, asking, “What do you see?” “I see a boiling pot,” I replied, “and it is tilting toward us from the north.”",
+    "translation": {
+      "thai": "พระวจนะขององค์พระผู้เป็นเจ้ามาถึงข้าพเจ้าเป็นครั้งที่สองว่า “เจ้าเห็นอะไร?” ข้าพเจ้าทูลตอบว่า “ข้าพระองค์เห็นหม้อที่กำลังเดือด และปากหม้อเอียงมาจากทางทิศเหนือ”",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้า",
+          "rationale": "יהוה → ‘องค์พระผู้เป็นเจ้า’ ตาม divine_names_table_2026-05.md (Layer 1)"
+        },
+        {
+          "hebrew": "סִיר נָפוּחַ … וּפָנָיו מִפְּנֵי צָפוֹנָה",
+          "rendering": "หม้อที่กำลังเดือด … และปากหม้อเอียงมาจากทางทิศเหนือ",
+          "rationale": "sîr nāpûaḥ = a pot fanned to boiling → หม้อที่กำลังเดือด. ‘Its face from the face of the north’ — the pot tilts so its scalding contents will pour southward onto Judah; rendered ปากหม้อเอียงมาจากทางทิศเหนือ to convey the danger arriving FROM the north. צָפוֹן (north) is the invasion-direction (Babylon), made explicit in vv. 14–15. (Ellipsis joins two clauses of the verse.)"
+        }
+      ],
+      "notes": "Second vision (the boiling pot). שֵׁנִית ‘a second time’ links it to the almond vision. The north is the conventional direction of invading armies reaching Judah along the Fertile Crescent (Babylon could not march straight across the desert)."
+    }
+  },
+  {
+    "reference": "Jeremiah 1:14",
+    "chapter": 1,
+    "verse": 14,
+    "language": "hebrew",
+    "hebrew": "וַיֹּ֥אמֶר יְהוָ֖ה אֵלָ֑י מִצָּפוֹן֙ תִּפָּתַ֣ח הָרָעָ֔ה עַ֥ל כָּל־יֹשְׁבֵ֖י הָאָֽרֶץ׃",
+    "bsb_english": "Then the LORD said to me, “Disaster from the north will be poured out on all who live in the land.",
+    "translation": {
+      "thai": "แล้วองค์พระผู้เป็นเจ้าตรัสกับข้าพเจ้าว่า “จากทางทิศเหนือ ภัยพิบัติจะถูกปลดปล่อยลงเหนือบรรดาผู้อาศัยทั้งสิ้นในแผ่นดินนี้",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้า",
+          "rationale": "יהוה → ‘องค์พระผู้เป็นเจ้า’ ตาม divine_names_table_2026-05.md (Layer 1)"
+        },
+        {
+          "hebrew": "מִצָּפוֹן תִּפָּתַח הָרָעָה",
+          "rendering": "จากทางทิศเหนือ ภัยพิบัติจะถูกปลดปล่อย",
+          "rationale": "rāʿâ here = calamity/disaster (not moral evil) → ภัยพิบัติ. tippātaḥ (Niphal of pātaḥ ‘be opened/let loose’) → ถูกปลดปล่อย, picturing the boiling pot's lid lifted so the trouble spills out. Fronted מִצָּפוֹן ‘from the north’ kept clause-initial for emphasis."
+        }
+      ],
+      "notes": "The interpretation of the pot-vision: the boiling that pours from the north is divine judgment via the northern invader. הָרָעָה (the disaster) deliberately echoes the people's רָעָה (wickedness) of v. 16 — their evil summons the calamity."
+    }
+  },
+  {
+    "reference": "Jeremiah 1:15",
+    "chapter": 1,
+    "verse": 15,
+    "language": "hebrew",
+    "hebrew": "כִּ֣י ׀ הִנְנִ֣י קֹרֵ֗א לְכָֽל־מִשְׁפְּח֛וֹת מַמְלְכ֥וֹת צָפ֖וֹנָה נְאֻם־יְהוָ֑ה וּבָ֡אוּ וְֽנָתְנוּ֩ אִ֨ישׁ כִּסְא֜וֹ פֶּ֣תַח ׀ שַׁעֲרֵ֣י יְרוּשָׁלִַ֗ם וְעַ֤ל כָּל־חוֹמֹתֶ֙יהָ֙ סָבִ֔יב וְעַ֖ל כָּל־עָרֵ֥י יְהוּדָֽה׃",
+    "bsb_english": "For I am about to summon all the clans and kingdoms of the north,” declares the LORD. “Their kings will come and set up their thrones at the entrance of the gates of Jerusalem. They will attack all her surrounding walls and all the other cities of Judah.",
+    "translation": {
+      "thai": "ดูเถิด เรากำลังจะเรียกบรรดาตระกูลแห่งอาณาจักรทางทิศเหนือทั้งสิ้นมา องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้ พวกเขาจะมาและต่างก็ตั้งบัลลังก์ของตนที่ทางเข้าประตูเมืองเยรูซาเล็ม จะตั้งต่อสู้กำแพงทุกด้านที่ล้อมรอบเมือง และต่อสู้เมืองทั้งสิ้นของยูดาห์",
+      "thai_literal": null,
+      "thai_summary": "พระเจ้าทรงเปิดเผยว่าหม้อที่เดือดจากทิศเหนือคือบรรดากษัตริย์ฝ่ายเหนือ (บาบิโลน) ที่พระองค์เองทรงเรียกมาล้อมและปกครองเยรูซาเล็ม — การพิพากษามาจากพระเจ้า ไม่ใช่เพียงเหตุการณ์ทางการเมือง",
+      "key_decisions": [
+        {
+          "hebrew": "נְאֻם־יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้",
+          "rationale": "neʾum-YHWH → องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้, LOCKED per hebrew_idioms_and_metaphor_2026-05.md §5.4. Layer 1: יהוה → องค์พระผู้เป็นเจ้า (divine_names_table_2026-05.md). הִנְנִי קֹרֵא ‘behold I am summoning’ → เรากำลังจะเรียก (divine first-person, imminent action)."
+        },
+        {
+          "hebrew": "נָתְנוּ אִישׁ כִּסְאוֹ פֶּתַח שַׁעֲרֵי יְרוּשָׁלִַם",
+          "rendering": "ต่างก็ตั้งบัลลังก์ของตนที่ทางเข้าประตูเมืองเยรูซาเล็ม",
+          "rationale": "kissēʾ (throne) of the foreign kings → บัลลังก์ (plain — these are enemy sovereigns acting as the instrument of judgment, not granted ราชาศัพท์ in this judgment context). ‘Each (אִישׁ) sets his throne at the gate’ = the conqueror's seat of rule/judgment over the city. มִשְׁפָּחָה ‘clan’ → ตระกูล."
+        }
+      ],
+      "notes": "The northern kingdoms summoned BY YHWH — judgment is God's act, the invader merely the rod. Setting thrones at the gates = assuming juridical/governing authority over conquered Jerusalem (the gate was the seat of judgment). Fulfilled 588–586 BC."
+    }
+  },
+  {
+    "reference": "Jeremiah 1:16",
+    "chapter": 1,
+    "verse": 16,
+    "language": "hebrew",
+    "hebrew": "וְדִבַּרְתִּ֤י מִשְׁפָּטַי֙ אוֹתָ֔ם עַ֖ל כָּל־רָעָתָ֑ם אֲשֶׁ֣ר עֲזָב֗וּנִי וַֽיְקַטְּרוּ֙ לֵאלֹהִ֣ים אֲחֵרִ֔ים וַיִּֽשְׁתַּחֲו֖וּ לְמַעֲשֵׂ֥י יְדֵיהֶֽם׃",
+    "bsb_english": "I will pronounce My judgments against them for all their wickedness, because they have forsaken Me, and they have burned incense to other gods and worshiped the works of their own hands.",
+    "translation": {
+      "thai": "เราจะประกาศคำพิพากษาของเราต่อพวกเขา เพราะความชั่วทั้งสิ้นของพวกเขาที่ได้ละทิ้งเรา และได้เผาเครื่องหอมบูชาแก่พระอื่น ๆ และกราบไหว้สิ่งที่มือของพวกเขาสร้างขึ้น",
+      "thai_literal": null,
+      "thai_summary": "ข้อกล่าวหาสามชั้นต่อยูดาห์ คือละทิ้งองค์พระผู้เป็นเจ้า หันไปเผาเครื่องหอมแก่พระอื่น และกราบไหว้รูปเคารพที่มือมนุษย์สร้างขึ้น — รากของการพิพากษาที่กำลังจะมาถึง",
+      "key_decisions": [
+        {
+          "hebrew": "וְדִבַּרְתִּי מִשְׁפָּטַי אוֹתָם",
+          "rendering": "เราจะประกาศคำพิพากษาของเราต่อพวกเขา",
+          "rationale": "dibbēr mišpāṭ ‘speak/pronounce judgments’ — here מִשְׁפָּט = sentences/verdicts → คำพิพากษา (judicial pronouncement), distinct from מִשְׁפָּט as ‘justice’ (ความยุติธรรม). Divine first-person เรา."
+        },
+        {
+          "hebrew": "וַיְקַטְּרוּ לֵאלֹהִים אֲחֵרִים",
+          "rendering": "ได้เผาเครื่องหอมบูชาแก่พระอื่น ๆ",
+          "rationale": "qiṭṭēr (Piel, burn incense / make smoke-offerings) → เผาเครื่องหอมบูชา. אֱלֹהִים אֲחֵרִים ‘other gods’ → พระอื่น ๆ — the idolatry register withholds พระเจ้า (reserved for YHWH) per ot_register_policy §3.1, marking them as illegitimate objects of worship."
+        },
+        {
+          "hebrew": "וַיִּשְׁתַּחֲווּ לְמַעֲשֵׂי יְדֵיהֶם",
+          "rendering": "กราบไหว้สิ่งที่มือของพวกเขาสร้างขึ้น",
+          "rationale": "hištaḥăwâ toward idols → กราบไหว้ (bow-to / venerate), NOT นมัสการ which ot_register_policy §3.2 reserves for worship of the true God. ‘Works of their hands’ = hand-made idols (the prophetic mockery of self-made gods)."
+        }
+      ],
+      "notes": "No יהוה in this verse (divine first-person speech). The threefold indictment (forsaking YHWH / incense to other gods / idol-worship) is the covenant-breach (first/second commandments) that justifies the summoned judgment of v. 15."
+    }
+  },
+  {
+    "reference": "Jeremiah 1:17",
+    "chapter": 1,
+    "verse": 17,
+    "language": "hebrew",
+    "hebrew": "וְאַתָּה֙ תֶּאְזֹ֣ר מָתְנֶ֔יךָ וְקַמְתָּ֙ וְדִבַּרְתָּ֣ אֲלֵיהֶ֔ם אֵ֛ת כָּל־אֲשֶׁ֥ר אָנֹכִ֖י אֲצַוֶּ֑ךָּ אַל־תֵּחַת֙ מִפְּנֵיהֶ֔ם פֶּֽן־אֲחִתְּךָ֖ לִפְנֵיהֶֽם׃",
+    "bsb_english": "Get yourself ready. Stand up and tell them everything that I command you. Do not be intimidated by them, or I will terrify you before them.",
+    "translation": {
+      "thai": "ส่วนเจ้า จงคาดเอวของเจ้าให้พร้อม จงลุกขึ้นและกล่าวแก่พวกเขาทุกสิ่งที่เราสั่งเจ้า อย่าหวาดหวั่นเพราะพวกเขา มิฉะนั้นเราจะทำให้เจ้าหวาดหวั่นต่อหน้าพวกเขา",
+      "thai_literal": "ส่วนเจ้า จงคาดเอวของเจ้า จงลุกขึ้นและกล่าวแก่พวกเขาทุกสิ่งที่เราสั่งเจ้า อย่าครั่นคร้ามต่อหน้าพวกเขา มิฉะนั้นเราจะทำให้เจ้าครั่นคร้ามต่อหน้าพวกเขา",
+      "thai_summary": "พระเจ้าทรงท้าทายเยเรมีย์ให้กล้าหาญ ‘คาดเอว’ คือสำนวนฮีบรูที่หมายถึงเตรียมพร้อมลงมือ และทรงเตือนว่า หากเขากลัวมนุษย์ พระองค์เองจะทรงทำให้เขาต้องอับอายต่อหน้าพวกเขา",
+      "key_decisions": [
+        {
+          "hebrew": "תֶּאְזֹר מָתְנֶיךָ",
+          "rendering": "จงคาดเอวของเจ้าให้พร้อม",
+          "rationale": "ʾāzar motnayim ‘gird the loins’ — the idiom for readying oneself for vigorous action (tucking up the robe to move/work/fight) per hebrew_idioms_and_metaphor_2026-05.md §2. Rendered คาดเอว…ให้พร้อม (literal gesture + the ‘get ready’ sense)."
+        },
+        {
+          "hebrew": "אַל־תֵּחַת … פֶּן־אֲחִתְּךָ",
+          "rendering": "อย่าหวาดหวั่น … มิฉะนั้นเราจะทำให้เจ้าหวาดหวั่น",
+          "rationale": "Same root חתת ‘be shattered/dismayed’ used twice (don't be dismayed / lest I dismay you) — a warning paronomasia. หวาดหวั่น repeated preserves the same-root echo; the threat is that fearing people will earn divine humiliation before those same people. (Ellipsis joins the two חתת clauses.)"
+        }
+      ],
+      "notes": "No יהוה in this verse. The double חתת (be-dismayed / I-will-dismay) is a deliberate same-root threat: courage is commanded, and cowardice carries its own judgment. Divine first-person אָנֹכִי / אֲצַוֶּךָּ → เรา."
+    }
+  },
+  {
+    "reference": "Jeremiah 1:18",
+    "chapter": 1,
+    "verse": 18,
+    "language": "hebrew",
+    "hebrew": "וַאֲנִ֞י הִנֵּ֧ה נְתַתִּ֣יךָ הַיּ֗וֹם לְעִ֨יר מִבְצָ֜ר וּלְעַמּ֥וּד בַּרְזֶ֛ל וּלְחֹמ֥וֹת נְחֹ֖שֶׁת עַל־כָּל־הָאָ֑רֶץ לְמַלְכֵ֤י יְהוּדָה֙ לְשָׂרֶ֔יהָ לְכֹהֲנֶ֖יהָ וּלְעַ֥ם הָאָֽרֶץ׃",
+    "bsb_english": "Now behold, this day I have made you like a fortified city, an iron pillar, and bronze walls against the whole land—against the kings of Judah, its officials, its priests, and the people of the land.",
+    "translation": {
+      "thai": "ดูเถิด ในวันนี้เราได้ทำให้เจ้าเป็นเมืองป้อมปราการ เป็นเสาเหล็ก และเป็นกำแพงทองสัมฤทธิ์ที่ต้านทานทั่วทั้งแผ่นดิน ต่อสู้บรรดากษัตริย์แห่งยูดาห์ ขุนนาง ปุโรหิต และราษฎรแห่งแผ่นดินนั้น",
+      "thai_literal": null,
+      "thai_summary": "พระเจ้าทรงทำให้ตัวเยเรมีย์เองเป็นเหมือนป้อมปราการ เสาเหล็ก และกำแพงทองสัมฤทธิ์ — มั่นคงและทำลายไม่ได้เมื่อต้องเผชิญหน้ากับทั้งสถาบันของชาติ คือกษัตริย์ ขุนนาง ปุโรหิต และประชาชน",
+      "key_decisions": [
+        {
+          "hebrew": "עִיר מִבְצָר וּלְעַמּוּד בַּרְזֶל וּלְחֹמוֹת נְחֹשֶׁת",
+          "rendering": "เมืองป้อมปราการ เสาเหล็ก และกำแพงทองสัมฤทธิ์",
+          "rationale": "Three fortification metaphors for an unbreakable prophet: ʿîr mivṣār (fortified city) → เมืองป้อมปราการ; ʿammûd barzel (iron pillar) → เสาเหล็ก; ḥōmôt nəḥōšet (bronze walls) → กำแพงทองสัมฤทธิ์ (nəḥōšet = bronze/copper, the corpus term ทองสัมฤทธิ์). The imagery from v. 15 (walls under siege) is inverted: Jeremiah himself becomes the impregnable wall."
+        },
+        {
+          "hebrew": "לְמַלְכֵי יְהוּדָה לְשָׂרֶיהָ לְכֹהֲנֶיהָ וּלְעַם הָאָרֶץ",
+          "rendering": "บรรดากษัตริย์แห่งยูดาห์ ขุนนาง ปุโรหิต และราษฎรแห่งแผ่นดินนั้น",
+          "rationale": "The four power-blocs Jeremiah will face: kings, śārîm (officials/princes) → ขุนนาง, priests, and ʿam hāʾāreṣ (people of the land) → ราษฎร. No real Tetragrammaton in this verse — יְהוּדָה (Judah) only resembles יהוה; no Layer-1 key-decision added."
+        }
+      ],
+      "notes": "God's answer to Jeremiah's fear: not the removal of opposition but the fortifying of the prophet. The whole social order (royal, civil, cultic, popular) will oppose him; he is made stronger than all of it. Sets up the chapter's closing promise (v. 19)."
+    }
+  },
+  {
+    "reference": "Jeremiah 1:19",
+    "chapter": 1,
+    "verse": 19,
+    "language": "hebrew",
+    "hebrew": "וְנִלְחֲמ֥וּ אֵלֶ֖יךָ וְלֹא־י֣וּכְלוּ לָ֑ךְ כִּֽי־אִתְּךָ֥ אֲנִ֛י נְאֻם־יְהוָ֖ה לְהַצִּילֶֽךָ׃",
+    "bsb_english": "They will fight against you but will never overcome you, since I am with you to deliver you,” declares the LORD.",
+    "translation": {
+      "thai": "พวกเขาจะต่อสู้เจ้า แต่จะเอาชนะเจ้าไม่ได้ เพราะเราอยู่กับเจ้าเพื่อจะช่วยกู้เจ้า องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้",
+      "thai_literal": null,
+      "thai_summary": "บทนี้ปิดท้ายด้วยคำสัญญาเดียวกับข้อ 8 คือการทรงสถิตอยู่ด้วยและการทรงช่วยกู้ การต่อต้านจะเกิดขึ้นแน่นอน แต่การปกป้องของพระเจ้าก็แน่นอนยิ่งกว่า",
+      "key_decisions": [
+        {
+          "hebrew": "נְאֻם־יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้",
+          "rationale": "neʾum-YHWH → องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้, LOCKED per hebrew_idioms_and_metaphor_2026-05.md §5.4. Layer 1: יהוה → องค์พระผู้เป็นเจ้า (divine_names_table_2026-05.md)."
+        },
+        {
+          "hebrew": "וְנִלְחֲמוּ אֵלֶיךָ וְלֹא־יוּכְלוּ לָךְ",
+          "rendering": "พวกเขาจะต่อสู้เจ้า แต่จะเอาชนะเจ้าไม่ได้",
+          "rationale": "nilḥam ‘fight against’ + yākōl ‘prevail/overcome’ negated → ต่อสู้…เอาชนะไม่ได้. The accompaniment-promise ‘I am with you to deliver you’ repeats v. 8 verbatim, framing (inclusio) the call narrative."
+        }
+      ],
+      "notes": "Inclusio with v. 8: the chapter opens and closes the commission with the same fear-not / I-am-with-you / deliverance promise, bracketing Jeremiah's call. Opposition is guaranteed (‘they will fight’), but so is preservation (‘not overcome’)."
+    }
+  }
+]
