@@ -1,0 +1,742 @@
+[
+  {
+    "reference": "Jeremiah 6:1",
+    "chapter": 6,
+    "verse": 1,
+    "language": "hebrew",
+    "hebrew": "הָעִ֣זוּ ׀ בְּנֵ֣י בִניָמִ֗ן מִקֶּ֨רֶב֙ יְר֣וּשָׁלִַ֔ם וּבִתְק֨וֹעַ֙ תִּקְע֣וּ שׁוֹפָ֔ר וְעַל־בֵּ֥ית הַכֶּ֖רֶם שְׂא֣וּ מַשְׂאֵ֑ת כִּ֥י רָעָ֛ה נִשְׁקְפָ֥ה מִצָּפ֖וֹן וְשֶׁ֥בֶר גָּדֽוֹל׃",
+    "bsb_english": "“Run for cover, O sons of Benjamin; flee from Jerusalem! Sound the ram’s horn in Tekoa; send up a signal over Beth-haccherem, for disaster looms from the north, even great destruction.",
+    "translation": {
+      "thai": "“ลูกหลานของเบนยามินเอ๋ย จงหนีเอาตัวรอดออกไปจากกรุงเยรูซาเล็ม จงเป่าแตรเขาสัตว์ในเมืองเทโคอา จงส่งสัญญาณไฟเหนือเมืองเบธฮักเคเรม เพราะภัยพิบัติกำลังโผล่ขึ้นมาจากทางทิศเหนือ เป็นความพินาศใหญ่หลวง",
+      "thai_literal": null,
+      "thai_summary": "เสียงเตือนภัยเร่งด่วน: ให้ชาวเบนยามินหนีออกจากเยรูซาเล็ม เป่าแตรและจุดสัญญาณไฟตามเมืองต่าง ๆ ทางใต้ เพราะกองทัพศัตรู (บาบิโลน) กำลังคืบมาจากทิศเหนือ",
+      "key_decisions": [
+        {
+          "hebrew": "בְּנֵי בִניָמִן … בִתְקוֹעַ … בֵּית הַכֶּרֶם",
+          "rendering": "ลูกหลานของเบนยามิน … เทโคอา … เบธฮักเคเรม",
+          "rationale": "בִּנְיָמִן Benjamin → เบนยามิน; תְּקוֹעַ Tekoa → เทโคอา; בֵּית הַכֶּרֶם Beth-haccherem → เบธฮักเคเรม (THSV11-style transliterations). The MT had two glue artifacts (paseq after הָעִזוּ; בִניָמִן glued to מִקֶּרֶב), de-glued in the source field. (Ellipsis joins the place-names.)"
+        },
+        {
+          "hebrew": "רָעָה נִשְׁקְפָה מִצָּפוֹן",
+          "rendering": "ภัยพิบัติกำลังโผล่ขึ้นมาจากทางทิศเหนือ",
+          "rationale": "rāʿâ (disaster) → ภัยพิบัติ (consistent with 1:14; 4:6); nišqəpâ ‘looms/peers down’ → โผล่ขึ้นมา. The foe-from-the-north threat (chs. 1, 4) reaches its climax in the siege of ch. 6. שׁוֹפָר → แตรเขาสัตว์."
+        }
+      ],
+      "notes": "Opens the final oracle of the 2:1–6:30 block — the siege itself. The alarm to flee Jerusalem southward (Tekoa, Beth-haccherem) before the northern foe. Two MT glue artifacts de-glued. First YHWH occurrence is at v. 6 (Layer 2 footnote in textual_variants)."
+    }
+  },
+  {
+    "reference": "Jeremiah 6:2",
+    "chapter": 6,
+    "verse": 2,
+    "language": "hebrew",
+    "hebrew": "הַנָּוָה֙ וְהַמְּעֻנָּגָ֔ה דָּמִ֖יתִי בַּת־צִיּֽוֹן׃",
+    "bsb_english": "Though she is beautiful and delicate, I will destroy the Daughter of Zion.",
+    "translation": {
+      "thai": "ธิดาแห่งศิโยนนั้นงดงามและบอบบางก็จริง แต่เราจะทำลายนางเสีย",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "הַנָּוָה וְהַמְּעֻנָּגָה דָּמִיתִי בַּת־צִיּוֹן",
+          "rendering": "ธิดาแห่งศิโยนนั้นงดงามและบอบบาง … แต่เราจะทำลายนางเสีย",
+          "rationale": "nāwâ (comely) + məʿunnāgâ (delicate/pampered) → งดงามและบอบบาง. dāmîtî is ambiguous: ‘I liken/compare’ (dāmâ I) or ‘I destroy/silence’ (dāmâ II). Read with BSB/context (the siege-oracle) as ‘I will destroy’ → เราจะทำลาย (divine first-person). בַּת־צִיּוֹן → ธิดาแห่งศิโยน (shipped Isa 1:8 lock)."
+        }
+      ],
+      "notes": "The lovely, pampered Daughter of Zion faces destruction. דָּמִיתִי read as dāmâ II ‘destroy’ (so BSB/ESV) rather than dāmâ I ‘liken’ — the siege-context favors the judgment sense. No יהוה token (divine first-person)."
+    }
+  },
+  {
+    "reference": "Jeremiah 6:3",
+    "chapter": 6,
+    "verse": 3,
+    "language": "hebrew",
+    "hebrew": "אֵלֶ֛יהָ יָבֹ֥אוּ רֹעִ֖ים וְעֶדְרֵיהֶ֑ם תָּקְע֨וּ עָלֶ֤יהָ אֹהָלִים֙ סָבִ֔יב רָע֖וּ אִ֥ישׁ אֶת־יָדֽוֹ׃",
+    "bsb_english": "Shepherds and their flocks will come against her; they will pitch their tents all around her, each tending his own portion:",
+    "translation": {
+      "thai": "บรรดาผู้เลี้ยงและฝูงสัตว์ของพวกเขาจะมาต่อสู้กับนาง พวกเขาจะตั้งเต็นท์ล้อมรอบนาง ต่างก็เล็มหญ้าในส่วนของตน",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יָבֹאוּ רֹעִים וְעֶדְרֵיהֶם … רָעוּ אִישׁ אֶת־יָדוֹ",
+          "rendering": "บรรดาผู้เลี้ยงและฝูงสัตว์ของพวกเขาจะมา … ต่างก็เล็มหญ้าในส่วนของตน",
+          "rationale": "rōʿîm (shepherds) + ʿedrêhem (flocks) here = the enemy kings and their armies, ironically pictured as shepherds grazing their flocks over conquered Jerusalem → ผู้เลี้ยง / ฝูงสัตว์. ‘Each grazes his portion (yād, lit. ‘hand’ = allotted place)’ → เล็มหญ้าในส่วนของตน — the invaders devour the land like grazing herds. (Ellipsis joins the clauses.)"
+        }
+      ],
+      "notes": "The enemy armies as ‘shepherds and flocks’ encamping around Jerusalem — a grimly pastoral image of siege and consumption. Each commander grazes his assigned ‘portion’ of the land."
+    }
+  },
+  {
+    "reference": "Jeremiah 6:4",
+    "chapter": 6,
+    "verse": 4,
+    "language": "hebrew",
+    "hebrew": "קַדְּשׁ֤וּ עָלֶ֨יהָ֙ מִלְחָמָ֔ה ק֖וּמוּ וְנַעֲלֶ֣ה בַֽצָּהֳרָ֑יִם א֥וֹי לָ֨נוּ֙ כִּי־פָנָ֣ה הַיּ֔וֹם כִּ֥י יִנָּט֖וּ צִלְלֵי־עָֽרֶב׃",
+    "bsb_english": "‘Prepare for battle against her; rise up, let us attack at noon. Woe to us, for the daylight is fading; the evening shadows grow long.",
+    "translation": {
+      "thai": "‘จงเตรียมทำสงครามต่อสู้กับนาง จงลุกขึ้น ให้เราบุกโจมตีตอนเที่ยงวัน วิบัติแก่เรา เพราะวันใกล้จะหมดลงแล้ว และเงาเวลาเย็นก็ยืดยาวออกไป",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "קַדְּשׁוּ עָלֶיהָ מִלְחָמָה",
+          "rendering": "จงเตรียมทำสงครามต่อสู้กับนาง",
+          "rationale": "qiddēš milḥāmâ lit. ‘sanctify/consecrate war’ — the ritual preparation for battle → เตรียมทำสงคราม. This is the enemy commanders' quoted speech (vv. 4–5), eager to attack even at midday."
+        },
+        {
+          "hebrew": "אוֹי לָנוּ כִּי־פָנָה הַיּוֹם",
+          "rendering": "วิบัติแก่เรา เพราะวันใกล้จะหมดลงแล้ว",
+          "rationale": "The attackers' impatience: ‘woe to us, the day declines, evening shadows lengthen’ — they begrudge the loss of daylight, so eager are they (so they resolve to attack by night, v. 5). The ʾôy ‘woe’ here is the attackers' frustration, not the victims' grief."
+        }
+      ],
+      "notes": "The enemy's own battle-cry (vv. 4–5): so eager to destroy Jerusalem that they lament the fading daylight and resolve to attack even by night. The vividness dramatizes the relentlessness of the siege."
+    }
+  },
+  {
+    "reference": "Jeremiah 6:5",
+    "chapter": 6,
+    "verse": 5,
+    "language": "hebrew",
+    "hebrew": "ק֚וּמוּ וְנַעֲלֶ֣ה בַלָּ֔יְלָה וְנַשְׁחִ֖יתָה אַרְמְנוֹתֶֽיהָ׃",
+    "bsb_english": "Rise up, let us attack by night and destroy her fortresses!’”",
+    "translation": {
+      "thai": "จงลุกขึ้น ให้เราบุกโจมตีในเวลากลางคืน และทำลายป้อมปราการของนางเสีย’ ”",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "וְנַעֲלֶה בַלָּיְלָה וְנַשְׁחִיתָה אַרְמְנוֹתֶיהָ",
+          "rendering": "ให้เราบุกโจมตีในเวลากลางคืน และทำลายป้อมปราการของนางเสีย",
+          "rationale": "‘let us go up by night and destroy her citadels (ʾarmənôt)’ → บุกโจมตีในเวลากลางคืน / ทำลายป้อมปราการ. The attackers, frustrated by daylight's end (v. 4), resolve on a night assault. Verse ends with the ס (setumah) marker in MT (omitted from the source field)."
+        }
+      ],
+      "notes": "The enemy's resolve to press the attack even by night to destroy Jerusalem's citadels — the implacable siege. Closes the attackers' quoted speech."
+    }
+  },
+  {
+    "reference": "Jeremiah 6:6",
+    "chapter": 6,
+    "verse": 6,
+    "language": "hebrew",
+    "hebrew": "כִּ֣י כֹ֤ה אָמַר֙ יְהוָ֣ה צְבָא֔וֹת כִּרְת֣וּ עֵצָ֔ה וְשִׁפְכ֥וּ עַל־יְרוּשָׁלִַ֖ם סֹלְלָ֑ה הִ֚יא הָעִ֣יר הָפְקַ֔ד כֻּלָּ֖הּ עֹ֥שֶׁק בְּקִרְבָּֽהּ׃",
+    "bsb_english": "For this is what the LORD of Hosts says: “Cut down the trees and raise a siege ramp against Jerusalem. This city must be punished; there is nothing but oppression in her midst.",
+    "translation": {
+      "thai": "เพราะองค์พระผู้เป็นเจ้าจอมโยธาตรัสดังนี้ว่า “จงโค่นต้นไม้และก่อเชิงเทินขึ้นล้อมกรุงเยรูซาเล็ม นี่คือเมืองที่ต้องถูกลงโทษ เพราะมีแต่การกดขี่อยู่ภายในนาง",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "כֹה אָמַר יְהוָה צְבָאוֹת",
+          "rendering": "องค์พระผู้เป็นเจ้าจอมโยธาตรัสดังนี้ว่า",
+          "rationale": "Messenger-formula (§5.3 lock) + יְהוָה צְבָאוֹת → องค์พระผู้เป็นเจ้าจอมโยธา per divine_names_table_2026-05.md (matching shipped Isa 1:9). Layer 1: יהוה → องค์พระผู้เป็นเจ้า; Tsebaoth → จอมโยธา."
+        },
+        {
+          "hebrew": "הִיא הָעִיר הָפְקַד … עֹשֶׁק בְּקִרְבָּהּ",
+          "rendering": "นี่คือเมืองที่ต้องถูกลงโทษ … การกดขี่อยู่ภายในนาง",
+          "rationale": "lemma פָּקַד (Hophal hopqad ‘is to be visited/punished’) here = sense (4) judgment-visitation → ต้องถูกลงโทษ per paqad_visit_attend_2026-05.md. סֹלְלָה (siege-ramp/mound) → เชิงเทิน; ʿōšeq (oppression) → การกดขี่ — the moral cause of the siege. (Ellipsis joins the clauses.)"
+        }
+      ],
+      "notes": "YHWH of Hosts commands the siege-works (felling trees, raising the ramp). The city ‘must be punished’ (פָּקַד sense-4) because of the oppression within. The Tsebaoth title rendered จอมโยธา."
+    }
+  },
+  {
+    "reference": "Jeremiah 6:7",
+    "chapter": 6,
+    "verse": 7,
+    "language": "hebrew",
+    "hebrew": "כְּהָקִ֥יר בַּ֨יִר֙ מֵימֶ֔יהָ כֵּ֖ן הֵקֵ֣רָה רָעָתָ֑הּ חָמָ֣ס וָ֠שֹׁד יִשָּׁ֨מַע בָּ֧הּ עַל־פָּנַ֛י תָּמִ֖יד חֳלִ֥י וּמַכָּֽה׃",
+    "bsb_english": "As a well gushes its water, so she pours out her evil. Violence and destruction resound in her; sickness and wounds are ever before Me.",
+    "translation": {
+      "thai": "บ่อน้ำพ่นน้ำของมันให้สดอยู่เสมอฉันใด นางก็ทำให้ความชั่วของนางสดใหม่อยู่เสมอฉันนั้น มีเสียงความทารุณและการปล้นทำลายดังอยู่ในนาง ความเจ็บป่วยและบาดแผลอยู่ต่อหน้าเราเสมอ",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "כְּהָקִיר בַּיִר מֵימֶיהָ כֵּן הֵקֵרָה רָעָתָהּ",
+          "rendering": "บ่อน้ำพ่นน้ำของมันให้สดอยู่เสมอฉันใด นางก็ทำให้ความชั่วของนางสดใหม่อยู่เสมอฉันนั้น",
+          "rationale": "HAPAX: bayir (a well/cistern, only here). qārar/qûr ‘keep cool/fresh, gush’ — ‘as a well keeps its water fresh, so she keeps her evil fresh’ → บ่อน้ำ...สดอยู่เสมอ. The image of inexhaustible, ever-fresh wickedness welling up."
+        },
+        {
+          "hebrew": "חָמָס וָשֹׁד … עַל־פָּנַי תָּמִיד",
+          "rendering": "ความทารุณและการปล้นทำลาย … อยู่ต่อหน้าเราเสมอ",
+          "rationale": "ḥāmās (violence) + šōd (destruction/ruin) → ความทารุณ / การปล้นทำลาย. ‘Before Me (עַל־פָּנַי) continually’ → ต่อหน้าเรา (plain, divine first-person — no royal พระพักตร์ in YHWH's own speech). The city's violence is perpetually in God's sight."
+        }
+      ],
+      "notes": "HAPAX בַּיִר ‘well/cistern.’ Jerusalem's wickedness wells up as freshly as spring-water — perpetual violence ever before God. ‘Before Me’ kept plain (divine first-person convention)."
+    }
+  },
+  {
+    "reference": "Jeremiah 6:8",
+    "chapter": 6,
+    "verse": 8,
+    "language": "hebrew",
+    "hebrew": "הִוָּסְרִי֙ יְר֣וּשָׁלִַ֔ם פֶּן־תֵּקַ֥ע נַפְשִׁ֖י מִמֵּ֑ךְ פֶּן־אֲשִׂימֵ֣ךְ שְׁמָמָ֔ה אֶ֖רֶץ ל֥וֹא נוֹשָֽׁבָה׃",
+    "bsb_english": "Be forewarned, O Jerusalem, or I will turn away from you; I will make you a desolation, a land without inhabitant.”",
+    "translation": {
+      "thai": "เยรูซาเล็มเอ๋ย จงรับการตักเตือนเถิด มิฉะนั้นจิตใจของเราจะเบือนหนีไปจากเจ้า และเราจะทำให้เจ้าเป็นที่รกร้าง เป็นแผ่นดินที่ไม่มีผู้อาศัย”",
+      "thai_literal": null,
+      "thai_summary": "ท่ามกลางคำพิพากษา ยังมีเสียงเรียกให้กลับใจ: ‘จงรับการตักเตือน’ มิฉะนั้นพระเจ้าจะทรงหันพระทัยไปและทิ้งเยรูซาเล็มให้ร้างเปล่า — ความเมตตาที่ยังเปิดทางไว้แม้นาทีสุดท้าย",
+      "key_decisions": [
+        {
+          "hebrew": "הִוָּסְרִי יְרוּשָׁלִַם",
+          "rendering": "เยรูซาเล็มเอ๋ย จงรับการตักเตือนเถิด",
+          "rationale": "yāsar Niphal ‘be disciplined / take warning’ → รับการตักเตือน. The last-minute call to heed correction before the desolation falls (cf. the heart-circumcision call of 4:4)."
+        },
+        {
+          "hebrew": "פֶּן־תֵּקַע נַפְשִׁי מִמֵּךְ",
+          "rendering": "มิฉะนั้นจิตใจของเราจะเบือนหนีไปจากเจ้า",
+          "rationale": "tēqaʿ napšî ‘my soul be torn/wrenched away from you’ → จิตใจของเราจะเบือนหนีไป. Divine first-person napšî → จิตใจของเรา (plain, not royal). The anthropopathic recoil — God's very self withdrawing in revulsion."
+        }
+      ],
+      "notes": "A final warning-with-mercy: take correction, or God's ‘soul’ recoils and Jerusalem becomes uninhabited desolation. נֶפֶשׁ (my soul) → จิตใจ (divine first-person, plain). Verse ends with פ marker (omitted from source field)."
+    }
+  },
+  {
+    "reference": "Jeremiah 6:9",
+    "chapter": 6,
+    "verse": 9,
+    "language": "hebrew",
+    "hebrew": "כֹּ֤ה אָמַר֙ יְהֹוָ֣ה צְבָא֔וֹת עוֹלֵ֛ל יְעוֹלְל֥וּ כַגֶּ֖פֶן שְׁאֵרִ֣ית יִשְׂרָאֵ֑ל הָשֵׁב֙ יָדְךָ֔ כְּבוֹצֵ֖ר עַל־סַלְסִלּֽוֹת׃",
+    "bsb_english": "This is what the LORD of Hosts says: “Glean the remnant of Israel as thoroughly as a vine. Pass your hand once more like a grape gatherer over the branches.”",
+    "translation": {
+      "thai": "องค์พระผู้เป็นเจ้าจอมโยธาตรัสดังนี้ว่า “จงเล็มเก็บคนที่เหลืออยู่ของอิสราเอลให้เกลี้ยงเหมือนเล็มเก็บเถาองุ่น จงรูดมือของเจ้าซ้ำอีกครั้งดั่งคนเก็บองุ่นที่รูดตามกิ่งก้าน”",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "כֹה אָמַר יְהֹוָה צְבָאוֹת",
+          "rendering": "องค์พระผู้เป็นเจ้าจอมโยธาตรัสดังนี้ว่า",
+          "rationale": "Messenger-formula + YHWH Tsebaoth → องค์พระผู้เป็นเจ้าจอมโยธา (§5.3 + divine_names_table). Layer 1: יהוה → องค์พระผู้เป็นเจ้า; Tsebaoth → จอมโยธา."
+        },
+        {
+          "hebrew": "עוֹלֵל יְעוֹלְלוּ כַגֶּפֶן שְׁאֵרִית יִשְׂרָאֵל … עַל־סַלְסִלּוֹת",
+          "rendering": "จงเล็มเก็บคนที่เหลืออยู่ของอิสราเอลให้เกลี้ยง … ตามกิ่งก้าน",
+          "rationale": "ʿālal (glean thoroughly, infinitive-absolute intensive) + šəʾērît ‘remnant’ → เล็มเก็บ...ให้เกลี้ยง / คนที่เหลืออยู่. HAPAX: salsillôt (branches/tendrils, only here). The grape-gleaner (bôṣēr) passing his hand back over the vine = the enemy gathering even the survivors — thorough judgment. (Ellipsis joins the clauses.)"
+        }
+      ],
+      "notes": "HAPAX סַלְסִלָּה ‘branches.’ The vine-gleaning image (cf. 5:10): the enemy is to gather even the remnant thoroughly, as a grape-picker strips the last clusters. The thoroughness of the coming judgment."
+    }
+  },
+  {
+    "reference": "Jeremiah 6:10",
+    "chapter": 6,
+    "verse": 10,
+    "language": "hebrew",
+    "hebrew": "עַל־מִ֨י אֲדַבְּרָ֤ה וְאָעִ֨ידָה֙ וְיִשְׁמָ֔עוּ הִנֵּה֙ עֲרֵלָ֣ה אָזְנָ֔ם וְלֹ֥א יוּכְל֖וּ לְהַקְשִׁ֑יב הִנֵּ֣ה דְבַר־יְהוָ֗ה הָיָ֥ה לָהֶ֛ם לְחֶרְפָּ֖ה לֹ֥א יַחְפְּצוּ־בֽוֹ׃",
+    "bsb_english": "To whom can I give this warning? Who will listen to me? Look, their ears are closed, so they cannot hear. See, the word of the LORD has become offensive to them; they find no pleasure in it.",
+    "translation": {
+      "thai": "ข้าพเจ้าจะพูดและเตือนผู้ใดได้ ให้พวกเขายอมฟัง? ดูเถิด หูของพวกเขาตันเสียแล้ว พวกเขาจึงฟังไม่ได้ ดูเถิด พระวจนะขององค์พระผู้เป็นเจ้ากลายเป็นที่เยาะเย้ยแก่พวกเขา พวกเขาไม่พอใจในพระวจนะนั้นเลย",
+      "thai_literal": null,
+      "thai_summary": "ความเจ็บปวดของผู้เผยพระวจนะ: ไม่มีใครยอมฟัง เพราะ ‘หูตัน’ (ภาษาฮีบรู ‘หูที่ไม่ได้เข้าสุหนัต’ คู่ขนานกับใจที่ไม่ได้เข้าสุหนัตในข้อ 4:4) พระวจนะของพระเจ้ากลายเป็นสิ่งที่พวกเขารังเกียจ",
+      "key_decisions": [
+        {
+          "hebrew": "עֲרֵלָה אָזְנָם וְלֹא יוּכְלוּ לְהַקְשִׁיב",
+          "rendering": "หูของพวกเขาตันเสียแล้ว พวกเขาจึงฟังไม่ได้",
+          "rationale": "ʿărēlâ ʾoznām lit. ‘their ear is uncircumcised’ → หูตัน (closed/unreceptive), the uncircumcised-ear idiom (parallel to the uncircumcised heart of 4:4; cf. Acts 7:51). Rendered ‘closed/blocked ear’ for sense, with the circumcision-link footnoted."
+        },
+        {
+          "hebrew": "דְבַר־יְהוָה הָיָה לָהֶם לְחֶרְפָּה",
+          "rendering": "พระวจนะขององค์พระผู้เป็นเจ้ากลายเป็นที่เยาะเย้ยแก่พวกเขา",
+          "rationale": "ḥerpâ ‘reproach/object of scorn’ → ที่เยาะเย้ย. Layer 1: יהוה → องค์พระผู้เป็นเจ้า. The word of YHWH, meant to save, has become to them an object of derision they take no pleasure in."
+        }
+      ],
+      "notes": "Jeremiah's lament over deaf hearers: their ‘uncircumcised ear’ (עֲרֵלָה אָזְנָם, parallel to the uncircumcised heart of 4:4) cannot heed; the word of YHWH has become a scorned thing. Cf. Stephen's ‘uncircumcised in heart and ears’ (Acts 7:51)."
+    }
+  },
+  {
+    "reference": "Jeremiah 6:11",
+    "chapter": 6,
+    "verse": 11,
+    "language": "hebrew",
+    "hebrew": "וְאֵת֩ חֲמַ֨ת יְהוָ֤ה ׀ מָלֵ֨אתִי֙ נִלְאֵ֣יתִי הָכִ֔יל שְׁפֹ֤ךְ עַל־עוֹלָל֙ בַּח֔וּץ וְעַ֛ל ס֥וֹד בַּחוּרִ֖ים יַחְדָּ֑ו כִּֽי־גַם־אִ֤ישׁ עִם־אִשָּׁה֙ יִלָּכֵ֔דוּ זָקֵ֖ן עִם־מְלֵ֥א יָמִֽים׃",
+    "bsb_english": "But I am full of the LORD’s wrath; I am tired of holding it back. “Pour it out on the children in the street, and on the young men gathered together. For both husband and wife will be captured, the old and the very old alike.",
+    "translation": {
+      "thai": "แต่ข้าพเจ้าเต็มไปด้วยความพิโรธขององค์พระผู้เป็นเจ้า ข้าพเจ้าเหนื่อยที่จะระงับมันไว้ “จงเทมันลงบนเด็ก ๆ ตามถนน และบนหมู่ชายหนุ่มที่รวมตัวกัน เพราะทั้งสามีและภรรยาจะถูกจับไป ทั้งคนแก่และคนชรา",
+      "thai_literal": null,
+      "thai_summary": "เยเรมีย์เต็มไปด้วยความพิโรธของพระเจ้าจนทนเก็บไว้ไม่ไหว แล้วพระเจ้าทรงสั่งให้เทการพิพากษานั้นลงบนทุกคน — เด็ก คนหนุ่ม สามีภรรยา คนชรา ไม่มีใครรอด",
+      "key_decisions": [
+        {
+          "hebrew": "וְאֵת חֲמַת יְהוָה מָלֵאתִי נִלְאֵיתִי הָכִיל",
+          "rendering": "ข้าพเจ้าเต็มไปด้วยความพิโรธขององค์พระผู้เป็นเจ้า ข้าพเจ้าเหนื่อยที่จะระงับมันไว้",
+          "rationale": "ḥămat YHWH ‘the wrath of YHWH’ → ความพิโรธขององค์พระผู้เป็นเจ้า (Layer 1). Jeremiah's first-person (ข้าพเจ้า): he is so filled with the divine wrath he announces that he is ‘weary of holding it in’ (nilʾêtî hākîl). The MT paseq-glue (יְהוָה׀מָלֵאתִי) de-glued in the source field."
+        },
+        {
+          "hebrew": "שְׁפֹךְ עַל־עוֹלָל בַּחוּץ",
+          "rendering": "จงเทมันลงบนเด็ก ๆ ตามถนน",
+          "rationale": "YHWH's command (imperative šəpōk ‘pour out’) → จงเท. The wrath falls indiscriminately — children (ʿôlāl), young men (baḥûrîm), husbands/wives, the aged (məlēʾ yāmîm ‘full of days’). Total judgment sparing no age."
+        }
+      ],
+      "notes": "Jeremiah, filled with YHWH's wrath and weary of restraining it, voices God's command to pour it out on all — children, youths, couples, the aged. The prophet's identification with the divine anger he must proclaim. Paseq-glue de-glued."
+    }
+  },
+  {
+    "reference": "Jeremiah 6:12",
+    "chapter": 6,
+    "verse": 12,
+    "language": "hebrew",
+    "hebrew": "וְנָסַ֤בּוּ בָֽתֵּיהֶם֙ לַאֲחֵרִ֔ים שָׂד֥וֹת וְנָשִׁ֖ים יַחְדָּ֑ו כִּֽי־אַטֶּ֧ה אֶת־יָדִ֛י עַל־יֹשְׁבֵ֥י הָאָ֖רֶץ נְאֻם־יְהוָֽה׃",
+    "bsb_english": "Their houses will be turned over to others, their fields and wives as well, for I will stretch out My hand against the inhabitants of the land,” declares the LORD.",
+    "translation": {
+      "thai": "บ้านเรือนของพวกเขาจะถูกยกให้คนอื่น ทั้งไร่นาและภรรยาก็เช่นกัน เพราะเราจะเหยียดมือของเราออกต่อสู้บรรดาผู้อาศัยในแผ่นดินนี้ องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "נְאֻם־יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้",
+          "rationale": "neʾum-YHWH → องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้, LOCKED per hebrew_idioms §5.4. Layer 1: יהוה → องค์พระผู้เป็นเจ้า."
+        },
+        {
+          "hebrew": "כִּי־אַטֶּה אֶת־יָדִי עַל־יֹשְׁבֵי הָאָרֶץ",
+          "rendering": "เราจะเหยียดมือของเราออกต่อสู้บรรดาผู้อาศัยในแผ่นดินนี้",
+          "rationale": "nāṭâ yād ‘stretch out the hand’ (in judgment) → เหยียดมือ. Divine first-person speech keeps the body-part PLAIN (มือของเรา, not royal พระหัตถ์), per the YHWH-own-voice convention (cf. Isa 1:15 ‘my eyes’ → ตา). No ทรง- (first-person plain)."
+        }
+      ],
+      "notes": "Total dispossession: houses, fields, wives handed to others as YHWH ‘stretches out his hand’ in judgment. The hand-stretched-out idiom; ‘my hand’ kept plain (divine first-person)."
+    }
+  },
+  {
+    "reference": "Jeremiah 6:13",
+    "chapter": 6,
+    "verse": 13,
+    "language": "hebrew",
+    "hebrew": "כִּ֤י מִקְּטַנָּם֙ וְעַד־גְּדוֹלָ֔ם כֻּלּ֖וֹ בּוֹצֵ֣עַ בָּ֑צַע וּמִנָּבִיא֙ וְעַד־כֹּהֵ֔ן כֻּלּ֖וֹ עֹ֥שֶׂה שָּֽׁקֶר׃",
+    "bsb_english": "“For from the least of them to the greatest, all are greedy for gain; from prophet to priest, all practice deceit.",
+    "translation": {
+      "thai": "เพราะตั้งแต่ผู้น้อยที่สุดจนถึงผู้ใหญ่ที่สุด ทุกคนล้วนโลภหากำไร ตั้งแต่ผู้เผยพระวจนะจนถึงปุโรหิต ทุกคนล้วนประพฤติหลอกลวง",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "כֻּלּוֹ בּוֹצֵעַ בָּצַע … כֻּלּוֹ עֹשֶׂה שָּׁקֶר",
+          "rendering": "ทุกคนล้วนโลภหากำไร … ทุกคนล้วนประพฤติหลอกลวง",
+          "rationale": "bōṣēaʿ bāṣaʿ ‘gaining unjust gain’ (greedy) → โลภหากำไร; ʿōśeh šāqer ‘practicing falsehood’ → ประพฤติหลอกลวง. ‘From least to greatest, prophet to priest’ = the whole society, top to bottom, corrupt — repeated at 8:10. (Ellipsis joins the parallel clauses.)"
+        }
+      ],
+      "notes": "Universal corruption (least to greatest, prophet to priest) — greed and falsehood pervade every class. Repeated verbatim at 8:10. Sets up the false-peace charge of v. 14."
+    }
+  },
+  {
+    "reference": "Jeremiah 6:14",
+    "chapter": 6,
+    "verse": 14,
+    "language": "hebrew",
+    "hebrew": "וַֽיְרַפְּא֞וּ אֶת־שֶׁ֤בֶר עַמִּי֙ עַל־נְקַלָּ֔ה לֵאמֹ֖ר שָׁל֣וֹם ׀ שָׁל֑וֹם וְאֵ֖ין שָׁלֽוֹם׃",
+    "bsb_english": "They dress the wound of My people with very little care, saying, ‘Peace, peace,’ when there is no peace at all.",
+    "translation": {
+      "thai": "พวกเขารักษาบาดแผลของประชากรของเราอย่างฉาบฉวย โดยกล่าวว่า ‘สงบสุขแล้ว สงบสุขแล้ว’ ทั้งที่ไม่มีความสงบสุขเลย",
+      "thai_literal": null,
+      "thai_summary": "ข้อที่โด่งดัง: ผู้นำเท็จ ‘รักษาแผล’ ของประชาชนอย่างผิวเผิน ประกาศว่า ‘สงบสุขแล้ว’ ทั้งที่ภัยพิบัติกำลังจะมา — การปลอบใจจอมปลอมที่ปิดบังความจริงอันร้ายแรง (เทียบ 8:11; เอเสเคียล 13:10)",
+      "key_decisions": [
+        {
+          "hebrew": "וַיְרַפְּאוּ אֶת־שֶׁבֶר עַמִּי עַל־נְקַלָּה",
+          "rendering": "รักษาบาดแผลของประชากรของเราอย่างฉาบฉวย",
+          "rationale": "rāpāʾ ‘heal/treat’ + šever ‘wound/fracture’ of ‘my people’ (עַמִּי, divine first-person possessive) + ʿal-nəqallâ ‘lightly/superficially’ → รักษาบาดแผล...อย่างฉาบฉวย. The false prophets/priests give shallow treatment to a mortal wound."
+        },
+        {
+          "hebrew": "שָׁלוֹם שָׁלוֹם וְאֵין שָׁלוֹם",
+          "rendering": "‘สงบสุขแล้ว สงบสุขแล้ว’ ทั้งที่ไม่มีความสงบสุขเลย",
+          "rationale": "šālôm → สงบสุข/สันติสุข; the doubled ‘peace, peace’ then ‘but no peace’ — the iconic false-assurance line (repeated 8:11; cf. Ezek 13:10). The MT paseq-glue (שָׁלוֹם׀שָׁלוֹם) de-glued in the source field. Rendered to keep the haunting repetition + reversal."
+        }
+      ],
+      "notes": "The famous false-peace verse (repeated 8:11): corrupt leaders cry ‘peace, peace’ over a fatal wound. שָׁלוֹם → สงบสุข. The hollow comfort that denies the coming judgment (cf. 4:10; Ezek 13:10). Paseq-glue de-glued."
+    }
+  },
+  {
+    "reference": "Jeremiah 6:15",
+    "chapter": 6,
+    "verse": 15,
+    "language": "hebrew",
+    "hebrew": "הֹבִ֕ישׁוּ כִּ֥י תוֹעֵבָ֖ה עָשׂ֑וּ גַּם־בּ֣וֹשׁ לֹֽא־יֵב֗וֹשׁוּ גַּם־הַכְלִים֙ לֹ֣א יָדָ֔עוּ לָכֵ֞ן יִפְּל֧וּ בַנֹּפְלִ֛ים בְּעֵת־פְּקַדְתִּ֥ים יִכָּשְׁל֖וּ אָמַ֥ר יְהוָֽה׃",
+    "bsb_english": "Are they ashamed of the abomination they have committed? No, they have no shame at all; they do not even know how to blush. So they will fall among the fallen; when I punish them, they will collapse,” says the LORD.",
+    "translation": {
+      "thai": "พวกเขาควรจะอับอายเพราะได้ทำสิ่งน่าสะอิดสะเอียน แต่พวกเขากลับไม่อายเลย ทั้งไม่รู้จักการกระดากหน้าด้วย เพราะฉะนั้นพวกเขาจะล้มลงในหมู่คนที่ล้มลง เมื่อถึงเวลาที่เราลงโทษพวกเขา พวกเขาจะสะดุดล้ม องค์พระผู้เป็นเจ้าตรัสดังนี้",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "בְּעֵת־פְּקַדְתִּים יִכָּשְׁלוּ",
+          "rendering": "เมื่อถึงเวลาที่เราลงโทษพวกเขา พวกเขาจะสะดุดล้ม",
+          "rationale": "lemma פָּקַד (pəqadtîm) = sense (4) judgment-visitation → ลงโทษ per paqad_visit_attend_2026-05.md (same sense as 5:9, 29; 6:6). Divine first-person (เรา). אָמַר יְהוָה → องค์พระผู้เป็นเจ้าตรัสดังนี้; Layer 1: יהוה → องค์พระผู้เป็นเจ้า ตาม divine_names_table_2026-05.md."
+        },
+        {
+          "hebrew": "גַּם־בּוֹשׁ לֹא־יֵבוֹשׁוּ גַּם־הַכְלִים לֹא יָדָעוּ",
+          "rendering": "ไม่อายเลย ทั้งไม่รู้จักการกระดากหน้า",
+          "rationale": "‘they are not ashamed (bôš), nor know how to blush (hiklîm)’ → ไม่อาย / ไม่รู้จักการกระดากหน้า. The hardened shamelessness (cf. 3:3) over their abomination (תּוֹעֵבָה → สิ่งน่าสะอิดสะเอียน). Verse ends with ס marker (omitted from source)."
+        }
+      ],
+      "notes": "The shameless leaders (no blush over abomination) will fall when YHWH ‘punishes’ them (פָּקַד sense-4). This verse + v. 14 are repeated almost verbatim at 8:11–12. אָמַר יְהוָה rendered as the utterance-tag."
+    }
+  },
+  {
+    "reference": "Jeremiah 6:16",
+    "chapter": 6,
+    "verse": 16,
+    "language": "hebrew",
+    "hebrew": "כֹּ֣ה אָמַ֣ר יְהוָ֡ה עִמְדוּ֩ עַל־דְּרָכִ֨ים וּרְא֜וּ וְשַׁאֲל֣וּ ׀ לִנְתִב֣וֹת עוֹלָ֗ם אֵי־זֶ֨ה דֶ֤רֶךְ הַטּוֹב֙ וּלְכוּ־בָ֔הּ וּמִצְא֥וּ מַרְגּ֖וֹעַ לְנַפְשְׁכֶ֑ם וַיֹּאמְר֖וּ לֹ֥א נֵלֵֽךְ׃",
+    "bsb_english": "This is what the LORD says: “Stand at the crossroads and look. Ask for the ancient paths: ‘Where is the good way?’ Then walk in it, and you will find rest for your souls. But they said, ‘We will not walk in it!’",
+    "translation": {
+      "thai": "องค์พระผู้เป็นเจ้าตรัสดังนี้ว่า “จงยืนที่ทางแยกแล้วมองดู จงไต่ถามถึงทางโบราณว่า ‘ทางดีนั้นอยู่ที่ไหน?’ แล้วจงเดินในทางนั้น และเจ้าจะพบที่หยุดพักสงบสำหรับจิตใจของเจ้า แต่พวกเขากลับกล่าวว่า ‘เราจะไม่เดินในทางนั้น’",
+      "thai_literal": null,
+      "thai_summary": "อีกข้อที่โด่งดัง: พระเจ้าทรงเชิญให้กลับไปสู่ ‘ทางโบราณ’ — วิถีแห่งพันธสัญญาดั้งเดิม — ที่จะนำ ‘ความสงบสุขแก่จิตใจ’ (เทียบถ้อยคำของพระเยซู มัทธิว 11:29) แต่ประชาชนปฏิเสธอย่างสิ้นเชิงว่า ‘เราจะไม่เดิน’",
+      "key_decisions": [
+        {
+          "hebrew": "שַׁאֲלוּ לִנְתִבוֹת עוֹלָם … דֶרֶךְ הַטּוֹב",
+          "rendering": "ไต่ถามถึงทางโบราณ … ทางดี",
+          "rationale": "Messenger-formula כֹה אָמַר יְהוָה → องค์พระผู้เป็นเจ้าตรัสดังนี้ (§5.3); Layer 1: יהוה → องค์พระผู้เป็นเจ้า ตาม divine_names_table_2026-05.md. nətîvôt ʿôlām ‘ancient paths’ → ทางโบราณ; derek haṭṭôv ‘the good way’ → ทางดี. The summons to return to the tried covenant-path of the fathers. The MT paseq-glue (וְשַׁאֲלוּ׀לִנְתִבוֹת) de-glued in the source field. (Ellipsis joins the clauses.)"
+        },
+        {
+          "hebrew": "וּמִצְאוּ מַרְגּוֹעַ לְנַפְשְׁכֶם",
+          "rendering": "เจ้าจะพบที่หยุดพักสงบสำหรับจิตใจของเจ้า",
+          "rationale": "HAPAX: margôaʿ (resting-place, only here). mar`ôaʿ lə-nepeš ‘rest for the soul’ → ที่หยุดพักสงบสำหรับจิตใจ — famously echoed by Jesus' ‘rest for your souls’ (ἀνάπαυσιν ταῖς ψυχαῖς, Matt 11:29). נֶפֶשׁ → จิตใจ. The good way brings soul-rest; the people refuse it."
+        }
+      ],
+      "notes": "HAPAX מַרְגּוֹעַ ‘rest.’ The ‘ancient paths / rest for your souls’ verse — Jesus alludes to it (Mt 11:29). The tragic refusal (‘We will not walk in it’) seals the verdict. Paseq-glue de-glued."
+    }
+  },
+  {
+    "reference": "Jeremiah 6:17",
+    "chapter": 6,
+    "verse": 17,
+    "language": "hebrew",
+    "hebrew": "וַהֲקִמֹתִ֤י עֲלֵיכֶם֙ צֹפִ֔ים הַקְשִׁ֖יבוּ לְק֣וֹל שׁוֹפָ֑ר וַיֹּאמְר֖וּ לֹ֥א נַקְשִֽׁיב׃",
+    "bsb_english": "I appointed watchmen over you and said, ‘Listen for the sound of the ram’s horn.’ But they answered, ‘We will not listen!’",
+    "translation": {
+      "thai": "เราได้ตั้งคนยามไว้เหนือพวกเจ้า สั่งว่า ‘จงฟังเสียงแตรเขาสัตว์’ แต่พวกเขากลับตอบว่า ‘เราจะไม่ฟัง’",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "וַהֲקִמֹתִי עֲלֵיכֶם צֹפִים",
+          "rendering": "เราได้ตั้งคนยามไว้เหนือพวกเจ้า",
+          "rationale": "qûm Hiphil ‘raise up/appoint’ + ṣōpîm ‘watchmen’ → ตั้งคนยาม. Divine first-person (เรา). The prophets are the ‘watchmen’ sounding the alarm (cf. Ezek 3:17; 33:7), but the people refuse to heed — parallel to the refusal of v. 16."
+        }
+      ],
+      "notes": "The watchmen (prophets) appointed to sound the alarm, refused like the ancient paths (v. 16). The doubled refusal (‘we will not walk’ / ‘we will not listen’) underscores willful deafness."
+    }
+  },
+  {
+    "reference": "Jeremiah 6:18",
+    "chapter": 6,
+    "verse": 18,
+    "language": "hebrew",
+    "hebrew": "לָכֵ֖ן שִׁמְע֣וּ הַגּוֹיִ֑ם וּדְעִ֥י עֵדָ֖ה אֶת־אֲשֶׁר־בָּֽם׃",
+    "bsb_english": "Therefore hear, O nations, and learn, O congregations, what will happen to them.",
+    "translation": {
+      "thai": "เพราะฉะนั้น บรรดาประชาชาติเอ๋ย จงฟัง และชุมนุมชนเอ๋ย จงรับรู้สิ่งที่จะเกิดแก่พวกเขา",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "שִׁמְעוּ הַגּוֹיִם וּדְעִי עֵדָה",
+          "rendering": "บรรดาประชาชาติเอ๋ย จงฟัง และชุมนุมชนเอ๋ย จงรับรู้",
+          "rationale": "gôyim (nations) → ประชาชาติ; ʿēdâ (congregation/assembly) → ชุมนุมชน. The nations summoned as witnesses to YHWH's judgment on his people (cf. the heavens-witness of 2:12) — the trial goes public."
+        }
+      ],
+      "notes": "The nations and the assembled witnesses are called to observe the judgment on Judah — making the verdict public testimony (cf. Deut 29:24–28; Mic 1:2)."
+    }
+  },
+  {
+    "reference": "Jeremiah 6:19",
+    "chapter": 6,
+    "verse": 19,
+    "language": "hebrew",
+    "hebrew": "שִׁמְעִ֣י הָאָ֔רֶץ הִנֵּ֨ה אָנֹכִ֜י מֵבִ֥יא רָעָ֛ה אֶל־הָעָ֥ם הַזֶּ֖ה פְּרִ֣י מַחְשְׁבוֹתָ֑ם כִּ֤י עַל־דְּבָרַי֙ לֹ֣א הִקְשִׁ֔יבוּ וְתוֹרָתִ֖י וַיִּמְאֲסוּ־בָֽהּ׃",
+    "bsb_english": "Hear, O earth! I am bringing disaster on this people, the fruit of their own schemes, because they have paid no attention to My word and have rejected My instruction.",
+    "translation": {
+      "thai": "แผ่นดินโลกเอ๋ย จงฟัง ดูเถิด เรากำลังนำภัยพิบัติมาสู่ชนชาตินี้ เป็นผลแห่งความคิดของพวกเขาเอง เพราะพวกเขาไม่ได้ใส่ใจถ้อยคำของเรา และได้ปฏิเสธธรรมบัญญัติของเรา",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "אָנֹכִי מֵבִיא רָעָה … פְּרִי מַחְשְׁבוֹתָם",
+          "rendering": "เรากำลังนำภัยพิบัติมา … เป็นผลแห่งความคิดของพวกเขาเอง",
+          "rationale": "Divine first-person (אָנֹכִי → เรา): YHWH brings the disaster (rāʿâ → ภัยพิบัติ), but it is ‘the fruit of their schemes’ (pərî maḥšəvôt) — the self-caused-judgment principle (2:19; 4:18). (Ellipsis joins the clauses.)"
+        },
+        {
+          "hebrew": "וְתוֹרָתִי וַיִּמְאֲסוּ־בָהּ",
+          "rendering": "ได้ปฏิเสธธรรมบัญญัติของเรา",
+          "rationale": "tôrâ → ธรรมบัญญัติ (Torah-corpus lock); māʾas ‘reject/spurn’ → ปฏิเสธ. The cause: they ignored YHWH's word and rejected his instruction (cf. Isa 5:24). דָּבָר → ถ้อยคำ."
+        }
+      ],
+      "notes": "The earth summoned as witness; the disaster is ‘the fruit of their schemes’ — self-caused (2:19; 4:18) yet brought by YHWH — because they rejected his word and Torah. No יהוה token (divine first-person)."
+    }
+  },
+  {
+    "reference": "Jeremiah 6:20",
+    "chapter": 6,
+    "verse": 20,
+    "language": "hebrew",
+    "hebrew": "לָמָּה־זֶּ֨ה לִ֤י לְבוֹנָה֙ מִשְּׁבָ֣א תָב֔וֹא וְקָנֶ֥ה הַטּ֖וֹב מֵאֶ֣רֶץ מֶרְחָ֑ק עֹלֽוֹתֵיכֶם֙ לֹ֣א לְרָצ֔וֹן וְזִבְחֵיכֶ֖ם לֹא־עָ֥רְבוּ לִֽי׃",
+    "bsb_english": "What use to Me is frankincense from Sheba or sweet cane from a distant land? Your burnt offerings are not acceptable; your sacrifices do not please Me.”",
+    "translation": {
+      "thai": "กำยานจากเชบาและอ้อหอมจากแดนไกลนั้นมีความหมายอะไรแก่เรา? เครื่องเผาบูชาของพวกเจ้าไม่เป็นที่โปรดปราน และเครื่องสัตวบูชาของพวกเจ้าก็ไม่เป็นที่พอใจของเรา",
+      "thai_literal": null,
+      "thai_summary": "พระเจ้าทรงปฏิเสธเครื่องบูชาราคาแพง (กำยานจากเชบา อ้อหอมจากแดนไกล) เมื่อชีวิตไม่ได้เปลี่ยน — เช่นเดียวกับอิสยาห์ 1:11 พิธีกรรมที่แยกขาดจากการเชื่อฟังนั้นไร้ค่าในสายพระเนตรพระเจ้า",
+      "key_decisions": [
+        {
+          "hebrew": "לְבוֹנָה מִשְּׁבָא … וְקָנֶה הַטּוֹב",
+          "rendering": "กำยานจากเชบา … อ้อหอม",
+          "rationale": "ləvônâ (frankincense) from שְׁבָא Sheba → กำยานจากเชบา (Sheba transliterated); qāneh haṭṭôv ‘the good cane’ (aromatic calamus) → อ้อหอม. Costly imported cultic spices, useless without obedience. (Ellipsis joins the items.)"
+        },
+        {
+          "hebrew": "עֹלוֹתֵיכֶם לֹא לְרָצוֹן",
+          "rendering": "เครื่องเผาบูชาของพวกเจ้าไม่เป็นที่โปรดปราน",
+          "rationale": "ʿōlôt → เครื่องเผาบูชา (Leviticus lock); lərāṣôn ‘for acceptance/favor’ negated → ไม่เป็นที่โปรดปราน. The anti-empty-ritual theme (cf. Isa 1:11; Amos 5:21–22): sacrifice without obedience is rejected."
+        }
+      ],
+      "notes": "Rejection of empty sacrifice (cf. Isa 1:11; Amos 5:21–22; 1 Sam 15:22): costly frankincense (Sheba) and calamus cannot substitute for obedience. Verse ends with ס marker (omitted from source)."
+    }
+  },
+  {
+    "reference": "Jeremiah 6:21",
+    "chapter": 6,
+    "verse": 21,
+    "language": "hebrew",
+    "hebrew": "לָכֵ֗ן כֹּ֚ה אָמַ֣ר יְהוָ֔ה הִנְנִ֥י נֹתֵ֛ן אֶל־הָעָ֥ם הַזֶּ֖ה מִכְשֹׁלִ֑ים וְכָ֣שְׁלוּ בָ֠ם אָב֨וֹת וּבָנִ֥ים יַחְדָּ֛ו שָׁכֵ֥ן וְרֵע֖וֹ וְאָבָֽדוּ׃",
+    "bsb_english": "Therefore this is what the LORD says: “I will lay stumbling blocks before this people; fathers and sons alike will be staggered; friends and neighbors will perish.”",
+    "translation": {
+      "thai": "เพราะฉะนั้น องค์พระผู้เป็นเจ้าตรัสดังนี้ว่า “ดูเถิด เราจะวางสิ่งที่ทำให้สะดุดไว้ตรงหน้าชนชาตินี้ ทั้งพ่อและลูกจะสะดุดล้มด้วยกัน เพื่อนบ้านและมิตรสหายจะพินาศไป”",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "כֹה אָמַר יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้าตรัสดังนี้ว่า",
+          "rationale": "Messenger-formula, LOCKED per hebrew_idioms §5.3. Layer 1: יהוה → องค์พระผู้เป็นเจ้า."
+        },
+        {
+          "hebrew": "הִנְנִי נֹתֵן … מִכְשֹׁלִים וְכָשְׁלוּ בָם",
+          "rendering": "เราจะวางสิ่งที่ทำให้สะดุดไว้ … ทั้งพ่อและลูกจะสะดุดล้ม",
+          "rationale": "mikšôl ‘stumbling-block’ + kāšal ‘stumble/stagger’ → สิ่งที่ทำให้สะดุด / สะดุดล้ม. Divine first-person (เรา): YHWH himself sets the obstacles over which all classes (fathers/sons, neighbors/friends) fall. (Ellipsis joins the clauses.)"
+        }
+      ],
+      "notes": "YHWH lays ‘stumbling blocks’ before the people; all relationships (father-son, neighbor-friend) collapse together. Verse ends with פ marker (omitted from source)."
+    }
+  },
+  {
+    "reference": "Jeremiah 6:22",
+    "chapter": 6,
+    "verse": 22,
+    "language": "hebrew",
+    "hebrew": "כֹּ֚ה אָמַ֣ר יְהוָ֔ה הִנֵּ֛ה עַ֥ם בָּ֖א מֵאֶ֣רֶץ צָפ֑וֹן וְג֣וֹי גָּד֔וֹל יֵע֖וֹר מִיַּרְכְּתֵי־אָֽרֶץ׃",
+    "bsb_english": "This is what the LORD says: “Behold, an army is coming from the land of the north; a great nation is stirred up from the ends of the earth.",
+    "translation": {
+      "thai": "องค์พระผู้เป็นเจ้าตรัสดังนี้ว่า “ดูเถิด ชนชาติหนึ่งกำลังมาจากแผ่นดินทางทิศเหนือ ชนชาติใหญ่กำลังถูกปลุกขึ้นจากสุดปลายแผ่นดินโลก",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "כֹה אָמַר יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้าตรัสดังนี้ว่า",
+          "rationale": "Messenger-formula, LOCKED per hebrew_idioms §5.3. Layer 1: יהוה → องค์พระผู้เป็นเจ้า."
+        },
+        {
+          "hebrew": "עַם בָּא מֵאֶרֶץ צָפוֹן … מִיַּרְכְּתֵי־אָרֶץ",
+          "rendering": "ชนชาติหนึ่งกำลังมาจากแผ่นดินทางทิศเหนือ … จากสุดปลายแผ่นดินโลก",
+          "rationale": "The foe from ‘the land of the north’ (ʾereṣ ṣāpôn) and ‘the ends of the earth’ (yarkətê-ʾāreṣ) → แผ่นดินทางทิศเหนือ / สุดปลายแผ่นดินโลก — Babylon, the great nation ‘stirred up’ (yēʿôr) for judgment (cf. 1:14–15; 5:15). (Ellipsis joins the clauses.)"
+        }
+      ],
+      "notes": "The foe-from-the-north (Babylon) re-announced: a great nation from earth's far reaches. The recurring threat (1:14–15; 4:6; 5:15) now described in its terrifying advance (v. 23)."
+    }
+  },
+  {
+    "reference": "Jeremiah 6:23",
+    "chapter": 6,
+    "verse": 23,
+    "language": "hebrew",
+    "hebrew": "קֶ֣שֶׁת וְכִיד֞וֹן יַחֲזִ֗יקוּ אַכְזָרִ֥י הוּא֙ וְלֹ֣א יְרַחֵ֔מוּ קוֹלָם֙ כַּיָּ֣ם יֶהֱמֶ֔ה וְעַל־סוּסִ֖ים יִרְכָּ֑בוּ עָר֗וּךְ כְּאִישׁ֙ לַמִּלְחָמָ֔ה עָלַ֖יִךְ בַּת־צִיּֽוֹן׃",
+    "bsb_english": "They grasp the bow and spear; they are cruel and merciless. Their voice roars like the sea, and they ride upon horses, lined up like men in formation against you, O Daughter of Zion.”",
+    "translation": {
+      "thai": "พวกเขาถือธนูและหอก เป็นคนโหดเหี้ยมและไร้ความเมตตา เสียงของพวกเขาคำรามดั่งทะเล พวกเขาควบม้ามา เรียงแถวดั่งนักรบพร้อมเข้าโจมตี มาต่อสู้เจ้า ธิดาแห่งศิโยนเอ๋ย",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "אַכְזָרִי הוּא וְלֹא יְרַחֵמוּ",
+          "rendering": "เป็นคนโหดเหี้ยมและไร้ความเมตตา",
+          "rationale": "ʾakzārî ‘cruel’ + ‘they show no mercy (rāḥam)’ → โหดเหี้ยม / ไร้ความเมตตา. The merciless invader (bow כֶּשֶׁת, spear כִּידוֹן, roaring like the sea, mounted) arrayed against בַּת־צִיּוֹן → ธิดาแห่งศิโยน."
+        }
+      ],
+      "notes": "The terrifying portrait of the northern foe: armed, cruel, merciless, roaring like the sea, cavalry in battle-formation against the Daughter of Zion. The dread fulfilled in 588–586 BC."
+    }
+  },
+  {
+    "reference": "Jeremiah 6:24",
+    "chapter": 6,
+    "verse": 24,
+    "language": "hebrew",
+    "hebrew": "שָׁמַ֥עְנוּ אֶת־שָׁמְע֖וֹ רָפ֣וּ יָדֵ֑ינוּ צָרָה֙ הֶחֱזִיקַ֔תְנוּ חִ֖יל כַּיּוֹלֵדָֽה׃",
+    "bsb_english": "We have heard the report; our hands hang limp. Anguish has gripped us, pain like that of a woman in labor.",
+    "translation": {
+      "thai": "เราได้ยินข่าวเล่าลือถึงเขาแล้ว มือของเราก็อ่อนเปลี้ย ความทุกข์ระทมเข้าครอบงำเรา เจ็บปวดดั่งหญิงคลอดบุตร",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "שָׁמַעְנוּ אֶת־שָׁמְעוֹ רָפוּ יָדֵינוּ",
+          "rendering": "เราได้ยินข่าวเล่าลือถึงเขาแล้ว มือของเราก็อ่อนเปลี้ย",
+          "rationale": "‘we heard the report; our hands grew slack (rāpû yādayim)’ → อ่อนเปลี้ย — the idiom for collapsing courage/strength (cf. Isa 13:7). The people's terrified first-person response."
+        },
+        {
+          "hebrew": "חִיל כַּיּוֹלֵדָה",
+          "rendering": "เจ็บปวดดั่งหญิงคลอดบุตร",
+          "rationale": "ḥîl kayyôlēdâ ‘writhing like a woman giving birth’ → เจ็บปวดดั่งหญิงคลอดบุตร — the labor-pang image for sudden, inescapable terror (cf. 4:31; 13:21; 22:23). The people voice their panic."
+        }
+      ],
+      "notes": "The people's terrified response (first-person plural): hands gone slack, gripped by labor-pang anguish at the report of the foe. The labor-pang imagery recurs (4:31; 13:21)."
+    }
+  },
+  {
+    "reference": "Jeremiah 6:25",
+    "chapter": 6,
+    "verse": 25,
+    "language": "hebrew",
+    "hebrew": "אַל־תֵּֽצְאוּ֙ הַשָּׂדֶ֔ה וּבַדֶּ֖רֶךְ אַל־תֵּלֵ֑כוּ כִּ֚י חֶ֣רֶב לְאֹיֵ֔ב מָג֖וֹר מִסָּבִֽיב׃",
+    "bsb_english": "Do not go out to the fields; do not walk the road. For the enemy has a sword; terror is on every side.",
+    "translation": {
+      "thai": "อย่าออกไปที่ทุ่งนา อย่าเดินตามถนน เพราะศัตรูถือดาบอยู่ มีความสยดสยองอยู่รอบด้าน",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "מָגוֹר מִסָּבִיב",
+          "rendering": "ความสยดสยองอยู่รอบด้าน",
+          "rationale": "māgôr missāvîv ‘terror on every side’ → ความสยดสยองอยู่รอบด้าน — a signature Jeremianic phrase (20:3, 10; 46:5; 49:29; Ps 31:13). The pervasive dread that confines people to their homes."
+        }
+      ],
+      "notes": "‘Terror on every side’ (מָגוֹר מִסָּבִיב) — Jeremiah's signature phrase (20:3, 10) — the enemy's sword makes field and road deadly. The siege closes in."
+    }
+  },
+  {
+    "reference": "Jeremiah 6:26",
+    "chapter": 6,
+    "verse": 26,
+    "language": "hebrew",
+    "hebrew": "בַּת־עַמִּ֤י חִגְרִי־שָׂק֙ וְהִתְפַּלְּשִׁ֣י בָאֵ֔פֶר אֵ֤בֶל יָחִיד֙ עֲשִׂ֣י לָ֔ךְ מִסְפַּ֖ד תַּמְרוּרִ֑ים כִּ֣י פִתְאֹ֔ם יָבֹ֥א הַשֹּׁדֵ֖ד עָלֵֽינוּ׃",
+    "bsb_english": "O daughter of my people, dress yourselves in sackcloth and roll in ashes. Mourn with bitter wailing, as you would for an only son, for suddenly the destroyer will come upon us.",
+    "translation": {
+      "thai": "ธิดาแห่งประชากรของเราเอ๋ย จงคาดเอวด้วยผ้ากระสอบ และจงเกลือกกลิ้งอยู่ในกองขี้เถ้า จงไว้ทุกข์อย่างขมขื่นดั่งไว้ทุกข์ให้บุตรชายคนเดียว เพราะผู้ทำลายจะมาถึงเราในพริบตา",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "בַּת־עַמִּי חִגְרִי־שָׂק וְהִתְפַּלְּשִׁי בָאֵפֶר",
+          "rendering": "ธิดาแห่งประชากรของเราเอ๋ย จงคาดเอวด้วยผ้ากระสอบ และจงเกลือกกลิ้งอยู่ในกองขี้เถ้า",
+          "rationale": "bat-ʿammî ‘daughter of my people’ → ธิดาแห่งประชากรของเรา; śaq (sackcloth) + ʾēper (ashes) → ผ้ากระสอบ / ขี้เถ้า — the mourning-rites. The tender vocative ‘daughter of my people’ amid the call to mourn."
+        },
+        {
+          "hebrew": "אֵבֶל יָחִיד … מִסְפַּד תַּמְרוּרִים",
+          "rendering": "ไว้ทุกข์ … ดั่งไว้ทุกข์ให้บุตรชายคนเดียว … อย่างขมขื่น",
+          "rationale": "ʾēvel yāḥîd ‘mourning for an only son’ → ไว้ทุกข์ให้บุตรชายคนเดียว (the most bitter grief; cf. Amos 8:10; Zech 12:10); mispad tamrûrîm ‘bitter wailing’ → คร่ำครวญอย่างขมขื่น. The grief for the only son — proverbial for unbearable loss. (Ellipsis joins the clauses.)"
+        }
+      ],
+      "notes": "The call to mourn (sackcloth, ashes, only-son grief) as the ‘destroyer’ (הַשֹּׁדֵד) comes suddenly. ‘Mourning for an only son’ is the proverbial extreme of grief (Amos 8:10; cf. Zech 12:10)."
+    }
+  },
+  {
+    "reference": "Jeremiah 6:27",
+    "chapter": 6,
+    "verse": 27,
+    "language": "hebrew",
+    "hebrew": "בָּח֛וֹן נְתַתִּ֥יךָ בְעַמִּ֖י מִבְצָ֑ר וְתֵדַ֕ע וּבָחַנְתָּ֖ אֶת־דַּרְכָּֽם׃",
+    "bsb_english": "“I have appointed you to examine My people like ore, so you may know and try their ways.",
+    "translation": {
+      "thai": "เราได้ตั้งเจ้าให้เป็นผู้ตรวจสอบโลหะท่ามกลางประชากรของเรา และเป็นป้อมปราการ เพื่อเจ้าจะได้รู้และทดสอบวิถีทางของพวกเขา",
+      "thai_literal": null,
+      "thai_summary": "พระเจ้าทรงตั้งเยเรมีย์ให้เป็น ‘ผู้ตรวจสอบโลหะ’ (และป้อมปราการ เทียบ 1:18) เพื่อทดสอบประชากร — นำเข้าสู่ภาพการถลุงแร่ที่ล้มเหลวในข้อ 29–30 ที่แม้ถลุงอย่างไรก็แยกความชั่วออกไม่ได้",
+      "key_decisions": [
+        {
+          "hebrew": "בָּחוֹן נְתַתִּיךָ בְעַמִּי מִבְצָר",
+          "rendering": "เราได้ตั้งเจ้าให้เป็นผู้ตรวจสอบโลหะท่ามกลางประชากรของเรา และเป็นป้อมปราการ",
+          "rationale": "HAPAX: bāḥôn (assayer/metal-tester, only here) → ผู้ตรวจสอบโลหะ. mivṣār ‘fortress’ (cf. 1:18, Jeremiah made an ‘iron pillar, fortified city’) → ป้อมปราการ — Jeremiah is both metal-assayer and fortress among the people. Divine first-person (เรา). The metallurgical metaphor introduces vv. 28–30."
+        },
+        {
+          "hebrew": "וְתֵדַע וּבָחַנְתָּ אֶת־דַּרְכָּם",
+          "rendering": "เพื่อเจ้าจะได้รู้และทดสอบวิถีทางของพวกเขา",
+          "rationale": "bāḥan ‘test/assay’ (cognate with bāḥôn) → ทดสอบ. Jeremiah's prophetic task is to assay the people's ‘ways’ as a refiner tests metal — finding them base (v. 30)."
+        }
+      ],
+      "notes": "HAPAX בָּחוֹן ‘assayer.’ Jeremiah commissioned as metal-tester (and fortress, echoing 1:18) to assay the people — introducing the failed-smelting metaphor of vv. 28–30. The assay reveals only base metal and dross."
+    }
+  },
+  {
+    "reference": "Jeremiah 6:28",
+    "chapter": 6,
+    "verse": 28,
+    "language": "hebrew",
+    "hebrew": "כֻּלָּם֙ סָרֵ֣י סֽוֹרְרִ֔ים הֹלְכֵ֥י רָכִ֖יל נְחֹ֣שֶׁת וּבַרְזֶ֑ל כֻּלָּ֥ם מַשְׁחִיתִ֖ים הֵֽמָּה׃",
+    "bsb_english": "All are hardened rebels, walking around as slanderers. They are bronze and iron; all of them are corrupt.",
+    "translation": {
+      "thai": "พวกเขาล้วนเป็นคนดื้อดึงที่กบฏหนักที่สุด เที่ยวเดินนินทาว่าร้าย พวกเขาเป็นดั่งทองสัมฤทธิ์และเหล็ก พวกเขาล้วนเป็นคนเสื่อมทราม",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "סָרֵי סוֹרְרִים הֹלְכֵי רָכִיל",
+          "rendering": "คนดื้อดึงที่กบฏหนักที่สุด เที่ยวเดินนินทาว่าร้าย",
+          "rationale": "sārê sôrərîm ‘most stubborn rebels’ (intensive of סרר, cf. 5:23) → ดื้อดึงที่กบฏหนักที่สุด; hōləkê rākîl ‘going about as slanderers/talebearers’ → เที่ยวเดินนินทาว่าร้าย."
+        },
+        {
+          "hebrew": "נְחֹשֶׁת וּבַרְזֶל … מַשְׁחִיתִים",
+          "rendering": "ทองสัมฤทธิ์และเหล็ก … คนเสื่อมทราม",
+          "rationale": "nəḥōšet (bronze) + barzel (iron) → ทองสัมฤทธิ์ / เหล็ก — base metals, not the silver/gold the refiner hoped for; the metaphor continues from v. 27. mašḥîtîm ‘corrupters/corrupt ones’ → คนเสื่อมทราม. (Ellipsis joins the clauses.)"
+        }
+      ],
+      "notes": "The assay-result: the people are ‘bronze and iron’ (base metals), stubborn rebels and slanderers, wholly corrupt. The metallurgical verdict completed in vv. 29–30."
+    }
+  },
+  {
+    "reference": "Jeremiah 6:29",
+    "chapter": 6,
+    "verse": 29,
+    "language": "hebrew",
+    "hebrew": "נָחַ֣ר מַפֻּ֔חַ מֵאֵ֖שׁ תַּ֣ם עֹפָ֑רֶת לַשָּׁוְא֙ צָרַ֣ף צָר֔וֹף וְרָעִ֖ים לֹ֥א נִתָּֽקוּ׃",
+    "bsb_english": "The bellows blow fiercely, blasting away the lead with fire. The refining proceeds in vain, for the wicked are not purged.",
+    "translation": {
+      "thai": "เครื่องสูบลมเป่าอย่างแรงจนตะกั่วถูกไฟเผาจนหมด แต่การถลุงนั้นก็เปล่าประโยชน์ เพราะคนชั่วยังไม่ถูกแยกออกไป",
+      "thai_literal": null,
+      "thai_summary": "ภาพการถลุงเงินที่ล้มเหลว: แม้เครื่องสูบลมเป่าไฟแรงจนตะกั่ว (ที่ใช้ในการถลุง) หมดไป ก็ยังถลุงเอาความชั่วออกไม่ได้ — ประชากรเสื่อมทรามเกินกว่าจะชำระให้บริสุทธิ์ได้",
+      "key_decisions": [
+        {
+          "hebrew": "נָחַר מַפֻּחַ מֵאֵשׁ תַּם עֹפָרֶת",
+          "rendering": "เครื่องสูบลมเป่าอย่างแรงจนตะกั่วถูกไฟเผาจนหมด",
+          "rationale": "HAPAX: mappuaḥ (bellows, only here) → เครื่องสูบลม. nāḥar ‘blow/scorch’ + ‘the lead (ʿōperet) is consumed by fire’ → เป่าอย่างแรง / ตะกั่ว...ถูกไฟเผาจนหมด. Lead was used in the cupellation refining-process to draw off impurities."
+        },
+        {
+          "hebrew": "לַשָּׁוְא צָרַף צָרוֹף וְרָעִים לֹא נִתָּקוּ",
+          "rendering": "การถลุงนั้นก็เปล่าประโยชน์ เพราะคนชั่วยังไม่ถูกแยกออกไป",
+          "rationale": "ṣārap ‘refine/smelt’ (infinitive-absolute intensive) ‘in vain (laššāwʾ)’ + ‘the wicked (rāʿîm) are not separated out (nittāqû)’ → การถลุง...เปล่าประโยชน์ / คนชั่วยังไม่ถูกแยกออก. The refining fails — the dross cannot be purged because the whole mass is base."
+        }
+      ],
+      "notes": "HAPAX מַפֻּחַ ‘bellows.’ The failed-refining climax: intense smelting cannot purge the wicked — the metal is irredeemably base. The futility (לַשָּׁוְא) of further refining → the verdict of v. 30."
+    }
+  },
+  {
+    "reference": "Jeremiah 6:30",
+    "chapter": 6,
+    "verse": 30,
+    "language": "hebrew",
+    "hebrew": "כֶּ֣סֶף נִמְאָ֔ס קָרְא֖וּ לָהֶ֑ם כִּֽי־מָאַ֥ס יְהוָ֖ה בָּהֶֽם׃",
+    "bsb_english": "They are called rejected silver, because the LORD has rejected them.”",
+    "translation": {
+      "thai": "ผู้คนจะเรียกพวกเขาว่า ‘เงินที่ถูกทิ้ง’ เพราะองค์พระผู้เป็นเจ้าทรงทอดทิ้งพวกเขาแล้ว",
+      "thai_literal": null,
+      "thai_summary": "บทปิดด้วยคำตัดสินสุดท้าย: พวกเขาเป็น ‘เงินที่ถูกทิ้ง’ คือโลหะที่ถลุงแล้วใช้ไม่ได้ เพราะองค์พระผู้เป็นเจ้าทรงปฏิเสธพวกเขา — จบบทแห่งการพิพากษา (2:1–6:30) ด้วยภาพการถูกทอดทิ้ง",
+      "key_decisions": [
+        {
+          "hebrew": "כִּי־מָאַס יְהוָה בָּהֶם",
+          "rendering": "เพราะองค์พระผู้เป็นเจ้าทรงทอดทิ้งพวกเขาแล้ว",
+          "rationale": "māʾas ‘reject/spurn’ — a third-person reference to YHWH's action (prophetic-voice), so royal register ทรงทอดทิ้ง (subject องค์พระผู้เป็นเจ้า adjacent, no body-part). Layer 1: יהוה → องค์พระผู้เป็นเจ้า. The final verdict: rejected silver, because YHWH rejected them."
+        },
+        {
+          "hebrew": "כֶּסֶף נִמְאָס קָרְאוּ לָהֶם",
+          "rendering": "ผู้คนจะเรียกพวกเขาว่า ‘เงินที่ถูกทิ้ง’",
+          "rationale": "kesep nimʾās ‘rejected/refuse silver’ → เงินที่ถูกทิ้ง — assayed metal found worthless and discarded. The metallurgical metaphor's verdict, sealing the oracle-block."
+        }
+      ],
+      "notes": "The closing verdict of the 2:1–6:30 block: ‘rejected silver,’ because YHWH has rejected them (מָאַס). The metallurgical metaphor (vv. 27–30) reaches its grim conclusion. ‘YHWH rejected’ → royal ทรงทอดทิ้ง (3rd-person reference). Verse ends with פ marker (omitted from source)."
+    }
+  }
+]
