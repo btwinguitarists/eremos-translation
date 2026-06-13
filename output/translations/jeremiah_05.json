@@ -1,0 +1,773 @@
+[
+  {
+    "reference": "Jeremiah 5:1",
+    "chapter": 5,
+    "verse": 1,
+    "language": "hebrew",
+    "hebrew": "שׁוֹטְט֞וּ בְּחוּצ֣וֹת יְרוּשָׁלִַ֗ם וּרְאוּ־נָ֤א וּדְעוּ֙ וּבַקְשׁ֣וּ בִרְחוֹבוֹתֶ֔יהָ אִם־תִּמְצְא֣וּ אִ֔ישׁ אִם־יֵ֛שׁ עֹשֶׂ֥ה מִשְׁפָּ֖ט מְבַקֵּ֣שׁ אֱמוּנָ֑ה וְאֶסְלַ֖ח לָֽהּ׃",
+    "bsb_english": "“Go up and down the streets of Jerusalem. Look now and take note; search her squares. If you can find a single person, anyone who acts justly, anyone who seeks the truth, then I will forgive the city.",
+    "translation": {
+      "thai": "“จงเที่ยวไปตามถนนหนทางของเยรูซาเล็ม จงมองดูและสังเกตให้ดี จงค้นหาตามลานเมืองของนาง ดูซิว่าเจ้าจะพบสักคนหนึ่งไหม ที่ประพฤติอย่างยุติธรรมและแสวงหาความสัตย์ซื่อ แล้วเราจะอภัยให้แก่นาง",
+      "thai_literal": null,
+      "thai_summary": "พระเจ้าทรงท้าให้ค้นทั่วเยรูซาเล็มหา ‘สักคนเดียว’ ที่ทำสิ่งถูกต้องและซื่อสัตย์ ถ้าพบ พระองค์จะทรงอภัยทั้งเมือง — สะท้อนการต่อรองของอับราฮัมเพื่อเมืองโสโดม (ปฐมกาล 18) แต่ครั้งนี้แม้แต่คนเดียวก็หาไม่ได้",
+      "key_decisions": [
+        {
+          "hebrew": "עֹשֶׂה מִשְׁפָּט מְבַקֵּשׁ אֱמוּנָה",
+          "rendering": "ประพฤติอย่างยุติธรรมและแสวงหาความสัตย์ซื่อ",
+          "rationale": "ʿōśeh mišpāṭ (does justice) + məvaqqēš ʾĕmûnâ (seeks faithfulness/truth) → ประพฤติอย่างยุติธรรม / แสวงหาความสัตย์ซื่อ. אֱמוּנָה here = faithfulness/integrity (the relational reliability God seeks), not abstract ‘truth.’"
+        },
+        {
+          "hebrew": "וְאֶסְלַח לָהּ",
+          "rendering": "แล้วเราจะอภัยให้แก่นาง",
+          "rationale": "sālaḥ ‘forgive/pardon’ → อภัย; divine first-person (เรา). The Abraham-at-Sodom echo (Gen 18:23–32): one righteous person would spare the city — but none is found (vv. 2–5)."
+        }
+      ],
+      "notes": "First occurrence of יהוה in the chapter is at v. 2 — see the Tetragrammaton-convention footnote in output/textual_variants/jeremiah_05.json. The search-for-one-righteous motif recalls Gen 18 (Sodom); the answer is that not one can be found, sealing the verdict."
+    }
+  },
+  {
+    "reference": "Jeremiah 5:2",
+    "chapter": 5,
+    "verse": 2,
+    "language": "hebrew",
+    "hebrew": "וְאִ֥ם חַי־יְהֹוָ֖ה יֹאמֵ֑רוּ לָכֵ֥ן לַשֶּׁ֖קֶר יִשָּׁבֵֽעוּ׃",
+    "bsb_english": "Although they say, ‘As surely as the LORD lives,’ they are swearing falsely.”",
+    "translation": {
+      "thai": "แม้พวกเขาจะกล่าวว่า ‘องค์พระผู้เป็นเจ้าทรงพระชนม์อยู่แน่ฉันใด’ พวกเขาก็ยังปฏิญาณอย่างเท็จ",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "חַי־יְהֹוָה",
+          "rendering": "องค์พระผู้เป็นเจ้าทรงพระชนม์อยู่",
+          "rationale": "ḥay-YHWH ‘as YHWH lives’ — the oath-formula → องค์พระผู้เป็นเจ้าทรงพระชนม์อยู่ (ทรงพระชนม์ royal ‘to live,’ subject องค์พระผู้เป็นเจ้า adjacent; cf. 4:2). Layer 1: יהוה → องค์พระผู้เป็นเจ้า."
+        },
+        {
+          "hebrew": "לַשֶּׁקֶר יִשָּׁבֵעוּ",
+          "rendering": "พวกเขาก็ยังปฏิญาณอย่างเท็จ",
+          "rationale": "šeqer ‘falsehood’ → อย่างเท็จ. Even their use of the sacred oath-formula is hollow — they swear by YHWH's name without truth, the opposite of v. 1's ‘seeking faithfulness.’"
+        }
+      ],
+      "notes": "Even pious-sounding oaths (‘as YHWH lives’) are false — the search of v. 1 turns up only hypocrisy. First YHWH occurrence in the chapter (Layer 2 footnote in textual_variants)."
+    }
+  },
+  {
+    "reference": "Jeremiah 5:3",
+    "chapter": 5,
+    "verse": 3,
+    "language": "hebrew",
+    "hebrew": "יְהֹוָ֗ה עֵינֶיךָ֮ הֲל֣וֹא לֶאֱמוּנָה֒ הִכִּ֤יתָה אֹתָם֙ וְֽלֹא־חָ֔לוּ כִּלִּיתָ֕ם מֵאֲנ֖וּ קַ֣חַת מוּסָ֑ר חִזְּק֤וּ פְנֵיהֶם֙ מִסֶּ֔לַע מֵאֲנ֖וּ לָשֽׁוּב׃",
+    "bsb_english": "O LORD, do not Your eyes look for truth? You struck them, but they felt no pain. You finished them off, but they refused to accept discipline. They have made their faces harder than stone and refused to repent.",
+    "translation": {
+      "thai": "ข้าแต่องค์พระผู้เป็นเจ้า พระเนตรของพระองค์เล็งหาความสัตย์ซื่อมิใช่หรือ? พระองค์ได้เฆี่ยนตีพวกเขา แต่พวกเขาไม่รู้สึกเจ็บ พระองค์ได้ผลาญพวกเขาจนย่อยยับ แต่พวกเขาก็ไม่ยอมรับการตีสอน พวกเขาทำให้หน้าของตนแข็งยิ่งกว่าหิน และไม่ยอมกลับใจ",
+      "thai_literal": null,
+      "thai_summary": "เยเรมีย์ทูลต่อพระเจ้าว่าพระองค์ทรงแสวงหาความซื่อสัตย์ และทรงตีสอนแล้ว แต่ประชากรกลับใจแข็งกระด้าง ‘ยิ่งกว่าหิน’ ไม่ยอมเจ็บปวดหรือกลับใจ — ความดื้อด้านที่การลงโทษก็แก้ไม่ได้",
+      "key_decisions": [
+        {
+          "hebrew": "יְהֹוָה עֵינֶיךָ הֲלוֹא לֶאֱמוּנָה",
+          "rendering": "ข้าแต่องค์พระผู้เป็นเจ้า พระเนตรของพระองค์เล็งหาความสัตย์ซื่อมิใช่หรือ?",
+          "rationale": "Jeremiah addresses YHWH (vocative יְהֹוָה → ข้าแต่องค์พระผู้เป็นเจ้า, Layer 1). ‘Your eyes’ → พระเนตรของพระองค์, preserving the anthropomorphism (royal พระเนตร per hebrew_idioms §1.2). The following verbs (struck/consumed) are rendered with PLAIN forms (พระองค์ได้เฆี่ยนตี/ผลาญ, no ทรง-) so ทรง- does not bind to พระเนตร as its subject — honorifics_binding compliance."
+        },
+        {
+          "hebrew": "חִזְּקוּ פְנֵיהֶם מִסֶּלַע מֵאֲנוּ לָשׁוּב",
+          "rendering": "ทำให้หน้าของตนแข็งยิ่งกว่าหิน และไม่ยอมกลับใจ",
+          "rationale": "ḥizzəqû pənêhem missela ‘made their faces harder than rock’ → หน้า...แข็งยิ่งกว่าหิน (the people's faces, plain หน้า — not royal); māʾēn lāšûv ‘refused to return/repent’ → ไม่ยอมกลับใจ. The stone-faced impenitence that discipline cannot break."
+        }
+      ],
+      "notes": "Jeremiah's prayer-aside to YHWH. ‘Your eyes’ keeps the royal พระเนตร (God's eyes), but the surrounding divine-action verbs are kept PLAIN (พระองค์ + plain verb) to avoid ทรง- binding to the body-part (honorifics rule). The people's stone-hard faces (cf. Ezek 3:7–9) refuse repentance."
+    }
+  },
+  {
+    "reference": "Jeremiah 5:4",
+    "chapter": 5,
+    "verse": 4,
+    "language": "hebrew",
+    "hebrew": "וַאֲנִ֣י אָמַ֔רְתִּי אַךְ־דַּלִּ֖ים הֵ֑ם נוֹאֲל֕וּ כִּ֣י לֹ֤א יָדְעוּ֙ דֶּ֣רֶךְ יְהוָ֔ה מִשְׁפַּ֖ט אֱלֹהֵיהֶֽם׃",
+    "bsb_english": "Then I said, “They are only the poor; they have played the fool, for they do not know the way of the LORD, the justice of their God.",
+    "translation": {
+      "thai": "แล้วข้าพเจ้าคิดว่า “คนเหล่านี้เป็นเพียงคนยากจน พวกเขาทำตัวโง่เขลา เพราะพวกเขาไม่รู้จักทางขององค์พระผู้เป็นเจ้า ไม่รู้จักความยุติธรรมของพระเจ้าของตน",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "דֶּרֶךְ יְהוָה מִשְׁפַּט אֱלֹהֵיהֶם",
+          "rendering": "ทางขององค์พระผู้เป็นเจ้า … ความยุติธรรมของพระเจ้าของตน",
+          "rationale": "‘the way of YHWH, the justice of their God’ → ทางขององค์พระผู้เป็นเจ้า / ความยุติธรรมของพระเจ้า. Layer 1: יהוה → องค์พระผู้เป็นเจ้า; אֱלֹהִים → พระเจ้า. Jeremiah first excuses the poor as merely ignorant (dallîm ‘the poor/lowly’ → คนยากจน). (Ellipsis joins the parallel phrases.)"
+        }
+      ],
+      "notes": "Jeremiah's first explanation: the common poor sin out of ignorance of YHWH's way. He then turns to the leaders (v. 5), expecting better — and finds them no different. The two-stage search dramatizes universal guilt."
+    }
+  },
+  {
+    "reference": "Jeremiah 5:5",
+    "chapter": 5,
+    "verse": 5,
+    "language": "hebrew",
+    "hebrew": "אֵֽלֲכָה־לִּ֤י אֶל־הַגְּדֹלִים֙ וַאֲדַבְּרָ֣ה אוֹתָ֔ם כִּ֣י הֵ֗מָּה יָדְעוּ֙ דֶּ֣רֶךְ יְהוָ֔ה מִשְׁפַּ֖ט אֱלֹהֵיהֶ֑ם אַ֣ךְ הֵ֤מָּה יַחְדָּו֙ שָׁ֣בְרוּ עֹ֔ל נִתְּק֖וּ מוֹסֵרֽוֹת׃",
+    "bsb_english": "I will go to the powerful and speak to them. Surely they know the way of the LORD, the justice of their God.” But they too, with one accord, had broken the yoke and torn off the chains.",
+    "translation": {
+      "thai": "ข้าพเจ้าจะไปหาบรรดาผู้ใหญ่และพูดกับพวกเขา เพราะพวกเขาย่อมรู้จักทางขององค์พระผู้เป็นเจ้า รู้จักความยุติธรรมของพระเจ้าของตน” แต่พวกเขาทั้งหมดก็พร้อมใจกันหักแอกและปลดโซ่ตรวนเสียแล้ว",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "הַגְּדֹלִים",
+          "rendering": "บรรดาผู้ใหญ่",
+          "rationale": "gədōlîm ‘the great ones / powerful’ (the leaders, elite) → บรรดาผู้ใหญ่. Expected to know YHWH's way, but they too ‘broke the yoke and tore the chains’ — the same rebellion-imagery as 2:20."
+        },
+        {
+          "hebrew": "שָׁבְרוּ עֹל נִתְּקוּ מוֹסֵרוֹת",
+          "rendering": "หักแอกและปลดโซ่ตรวนเสียแล้ว",
+          "rationale": "‘broke the yoke, tore the bonds’ → หักแอก / ปลดโซ่ตรวน — throwing off YHWH's authority (cf. 2:20, where Israel said ‘I will not serve’). The leaders, who should know better, are unanimous (יַחְדָּו ‘together’) in rebellion."
+        }
+      ],
+      "notes": "The search's second stage: even the leaders, who know YHWH's way, have unanimously cast off his yoke. Guilt is total — neither poor nor great is righteous (answering v. 1). Echoes 2:20's yoke-breaking."
+    }
+  },
+  {
+    "reference": "Jeremiah 5:6",
+    "chapter": 5,
+    "verse": 6,
+    "language": "hebrew",
+    "hebrew": "עַל־כֵּן֩ הִכָּ֨ם אַרְיֵ֜ה מִיַּ֗עַר זְאֵ֤ב עֲרָבוֹת֙ יְשָׁדְדֵ֔ם נָמֵ֤ר שֹׁקֵד֙ עַל־עָ֣רֵיהֶ֔ם כָּל־הַיּוֹצֵ֥א מֵהֵ֖נָּה יִטָּרֵ֑ף כִּ֤י רַבּוּ֙ פִּשְׁעֵיהֶ֔ם עָצְמ֖וּ מְשׁוּבוֹתֵיהֶֽם׃",
+    "bsb_english": "Therefore a lion from the forest will strike them down, a wolf from the desert will ravage them. A leopard will lie in wait near their cities, and everyone who ventures out will be torn to pieces. For their rebellious acts are many, and their unfaithful deeds are numerous.",
+    "translation": {
+      "thai": "เพราะฉะนั้นสิงโตจากป่าจะตะครุบพวกเขา สุนัขป่าจากทะเลทรายจะขย้ำพวกเขา เสือดาวจะหมอบเฝ้าอยู่ใกล้เมืองทั้งหลายของพวกเขา ทุกคนที่ออกไปจากเมืองจะถูกฉีกเป็นชิ้น ๆ เพราะการกบฏของพวกเขามีมากมาย และการกลับกลอกของพวกเขาก็ทวีขึ้น",
+      "thai_literal": null,
+      "thai_summary": "ภาพสัตว์ร้ายสามชนิด (สิงโต สุนัขป่า เสือดาว) เป็นสัญลักษณ์ของศัตรูผู้รุกราน (บาบิโลน) ที่จะมาขย้ำชาติที่ดื้อด้าน — การพิพากษาที่หลีกหนีไม่พ้น เพราะการกบฏที่สั่งสมมานาน",
+      "key_decisions": [
+        {
+          "hebrew": "אַרְיֵה … זְאֵב עֲרָבוֹת … נָמֵר שֹׁקֵד",
+          "rendering": "สิงโต … สุนัขป่าจากทะเลทราย … เสือดาวจะหมอบเฝ้า",
+          "rationale": "Three predators: ʾaryēh (lion) + zəʾēv ʿărāvôt (desert wolf) + nāmēr (leopard) → สิงโต / สุนัขป่า / เสือดาว — the invading enemy as ravening beasts (cf. 4:7). שֹׁקֵד ‘watching/lying in wait’ → หมอบเฝ้า (here the predatory ‘watch,’ distinct from the divine ‘watching over my word’ of 1:12, same root ש-ק-ד). (Ellipsis joins the three predators.)"
+        },
+        {
+          "hebrew": "רַבּוּ פִּשְׁעֵיהֶם עָצְמוּ מְשׁוּבוֹתֵיהֶם",
+          "rendering": "การกบฏของพวกเขามีมากมาย และการกลับกลอกของพวกเขาก็ทวีขึ้น",
+          "rationale": "pešaʿ (rebellion) → การกบฏ; məšuvôt (apostasies/backslidings) → การกลับกลอก (consistent with 2:19; 3:6). The cause of the predator-judgment: multiplied rebellion and apostasy."
+        }
+      ],
+      "notes": "The three-predator judgment (lion/wolf/leopard) for multiplied rebellion. שֹׁקֵד (watch/lie-in-wait) here is the predatory sense — the same root as YHWH's ‘watching over my word’ (1:12), now turned ominous."
+    }
+  },
+  {
+    "reference": "Jeremiah 5:7",
+    "chapter": 5,
+    "verse": 7,
+    "language": "hebrew",
+    "hebrew": "אֵ֤י לָזֹאת֙ אֶֽסְלַֽח־לָ֔ךְ בָּנַ֣יִךְ עֲזָב֔וּנִי וַיִּשָּׁבְע֖וּ בְּלֹ֣א אֱלֹהִ֑ים וָאַשְׂבִּ֤עַ אוֹתָם֙ וַיִּנְאָ֔פוּ וּבֵ֥ית זוֹנָ֖ה יִתְגֹּדָֽדוּ׃",
+    "bsb_english": "“Why should I forgive you? Your children have forsaken Me and sworn by gods that are not gods. I satisfied their needs, yet they committed adultery and assembled at the houses of prostitutes.",
+    "translation": {
+      "thai": "“เราจะอภัยให้เจ้าได้อย่างไร? ลูกหลานของเจ้าได้ละทิ้งเรา และสาบานโดยอ้างสิ่งที่ไม่ใช่พระเจ้า เราได้ให้พวกเขาอิ่มหนำ แต่พวกเขากลับล่วงประเวณี และไปออกันอยู่ที่บ้านหญิงโสเภณี",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "אֵי לָזֹאת אֶסְלַח־לָךְ",
+          "rendering": "เราจะอภัยให้เจ้าได้อย่างไร?",
+          "rationale": "‘How/for what could I forgive you?’ — the answer to v. 1's offer: pardon is impossible given the persistent sin. sālaḥ → อภัย; divine first-person (เรา). The MT had a glued אֶסְלַח־לָךְבָּנַיִךְ, de-glued in the source field (אֶסְלַח־לָךְ בָּנַיִךְ)."
+        },
+        {
+          "hebrew": "וַיִּשָּׁבְעוּ בְּלֹא אֱלֹהִים",
+          "rendering": "สาบานโดยอ้างสิ่งที่ไม่ใช่พระเจ้า",
+          "rationale": "‘swore by no-gods’ (bəlōʾ ʾĕlōhîm) → อ้างสิ่งที่ไม่ใช่พระเจ้า — swearing by idols (the pagan-deity register withholds พระเจ้า). The covenant-betrayal: forsaking YHWH for non-gods, despite his provision (‘I satisfied them’)."
+        }
+      ],
+      "notes": "YHWH's rhetorical refusal: forgiveness impossible while the people forsake him, swear by idols, and practice cultic prostitution despite his provision. The harlotry imagery (chs. 2–3) continues."
+    }
+  },
+  {
+    "reference": "Jeremiah 5:8",
+    "chapter": 5,
+    "verse": 8,
+    "language": "hebrew",
+    "hebrew": "סוּסִ֥ים מְיֻזָּנִ֖ים מַשְׁכִּ֣ים הָי֑וּ אִ֛ישׁ אֶל־אֵ֥שֶׁת רֵעֵ֖הוּ יִצְהָֽלוּ׃",
+    "bsb_english": "They are well-fed, lusty stallions, each neighing after his neighbor’s wife.",
+    "translation": {
+      "thai": "พวกเขาเป็นดั่งม้าหนุ่มที่ถูกเลี้ยงอย่างดีและกระสันด้วยตัณหา ต่างก็ส่งเสียงร้องหาภรรยาของเพื่อนบ้านของตน",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "סוּסִים מְיֻזָּנִים מַשְׁכִּים",
+          "rendering": "ม้าหนุ่มที่ถูกเลี้ยงอย่างดีและกระสันด้วยตัณหา",
+          "rationale": "TWO HAPAX: yāzan (Pual məyuzzānîm ‘well-fed/lusty,’ only here) and the form maškîm (from שָׁכָה ‘roam/be aroused,’ a hapax form) → ถูกเลี้ยงอย่างดี / กระสัน. The lusty-stallion simile for the men's adultery; rendered faithfully per the chapter's sexual-sin indictment (don't soften the figure)."
+        },
+        {
+          "hebrew": "אִישׁ אֶל־אֵשֶׁת רֵעֵהוּ יִצְהָלוּ",
+          "rendering": "ต่างก็ส่งเสียงร้องหาภรรยาของเพื่อนบ้านของตน",
+          "rationale": "ṣāhal ‘neigh’ (of a stallion) → ส่งเสียงร้อง; ‘each after his neighbor's wife’ → ภรรยาของเพื่อนบ้าน. The animal-lust image for adultery (cf. the she-camel/donkey of 2:23–24), violating the tenth/seventh commandments."
+        }
+      ],
+      "notes": "TWO HAPAX (יזן ‘well-fed/lusty,’ שָׁכָה ‘roam/be aroused’). The lusty-stallion metaphor for the men's adultery — the literal counterpart to the spiritual-adultery theme. Faithfully rendered per the oracle's frank register."
+    }
+  },
+  {
+    "reference": "Jeremiah 5:9",
+    "chapter": 5,
+    "verse": 9,
+    "language": "hebrew",
+    "hebrew": "הַֽעַל־אֵ֥לֶּה לוֹא־אֶפְקֹ֖ד נְאֻם־יְהֹוָ֑ה וְאִם֙ בְּג֣וֹי אֲשֶׁר־כָּזֶ֔ה לֹ֥א תִתְנַקֵּ֖ם נַפְשִֽׁי׃",
+    "bsb_english": "Should I not punish them for these things?” declares the LORD. “Should I not avenge Myself on such a nation as this?",
+    "translation": {
+      "thai": "เราจะไม่ลงโทษพวกเขาเพราะสิ่งเหล่านี้หรือ? องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้ และจิตใจของเราจะไม่แก้แค้นชนชาติที่เป็นเช่นนี้หรือ?",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "נְאֻם־יְהֹוָה",
+          "rendering": "องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้",
+          "rationale": "neʾum-YHWH → องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้, LOCKED per hebrew_idioms §5.4. Layer 1: יהוה → องค์พระผู้เป็นเจ้า."
+        },
+        {
+          "hebrew": "הַעַל־אֵלֶּה לוֹא־אֶפְקֹד",
+          "rendering": "เราจะไม่ลงโทษพวกเขาเพราะสิ่งเหล่านี้หรือ",
+          "rationale": "lemma פָּקַד here = sense (4) judgment-visitation (punitive) → ลงโทษ per paqad_visit_attend_2026-05.md (Jeremiah is heavy on this sense, cf. 5:29; 6:15). Divine first-person (เรא). ‘Shall my soul (נַפְשִׁי) not avenge’ → จิตใจของเรา (plain, divine self)."
+        }
+      ],
+      "notes": "The refrain ‘Shall I not punish (פקד)?’ (repeated at v. 29) — paqad in its sense-4 judgment use. Verse ends with the ס (setumah) marker in MT (omitted from source field). נֶפֶשׁ (my soul) of YHWH → จิตใจ."
+    }
+  },
+  {
+    "reference": "Jeremiah 5:10",
+    "chapter": 5,
+    "verse": 10,
+    "language": "hebrew",
+    "hebrew": "עֲל֤וּ בְשָׁרוֹתֶ֨יהָ֙ וְשַׁחֵ֔תוּ וְכָלָ֖ה אַֽל־תַּעֲשׂ֑וּ הָסִ֨ירוּ֙ נְטִ֣ישׁוֹתֶ֔יהָ כִּ֛י ל֥וֹא לַיהוָ֖ה הֵֽמָּה׃",
+    "bsb_english": "Go up through her vineyards and ravage them, but do not finish them off. Strip off her branches, for they do not belong to the LORD.",
+    "translation": {
+      "thai": "จงขึ้นไปตามแถวเถาองุ่นของนางและทำลายมันเสีย แต่อย่าทำลายให้สิ้นซาก จงริดกิ่งก้านของนางออกไป เพราะกิ่งเหล่านั้นไม่ได้เป็นขององค์พระผู้เป็นเจ้า",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "וְשַׁחֵתוּ וְכָלָה אַל־תַּעֲשׂוּ",
+          "rendering": "ทำลายมันเสีย แต่อย่าทำลายให้สิ้นซาก",
+          "rationale": "‘ravage, but do not make a full end (כָלָה)’ → ทำลาย...แต่อย่า...ให้สิ้นซาก — the same remnant-mercy qualifier as 4:27 and 5:18. The enemy is YHWH's pruning-instrument, not for total annihilation. Layer 1: לַיהוָה → องค์พระผู้เป็นเจ้า."
+        },
+        {
+          "hebrew": "הָסִירוּ נְטִישׁוֹתֶיהָ",
+          "rendering": "จงริดกิ่งก้านของนางออกไป",
+          "rationale": "nəṭîšôt ‘tendrils/branches’ (the vine-imagery of 2:21) → กิ่งก้าน. The vineyard (Israel) is pruned of its bad branches ‘which are not YHWH's’ — judgment as viticulture (cf. Jn 15:2)."
+        }
+      ],
+      "notes": "The vineyard-pruning judgment (Israel as YHWH's vine, 2:21): ravage but not to a full end; strip the branches ‘not YHWH's.’ The remnant-mercy (‘not a full end’) recurs (4:27; 5:18; 30:11)."
+    }
+  },
+  {
+    "reference": "Jeremiah 5:11",
+    "chapter": 5,
+    "verse": 11,
+    "language": "hebrew",
+    "hebrew": "כִּי֩ בָג֨וֹד בָּגְד֜וּ בִּ֗י בֵּ֧ית יִשְׂרָאֵ֛ל וּבֵ֥ית יְהוּדָ֖ה נְאֻם־יְהוָֽה׃",
+    "bsb_english": "For the house of Israel and the house of Judah have been utterly unfaithful to Me,” declares the LORD.",
+    "translation": {
+      "thai": "เพราะวงศ์วานของอิสราเอลและวงศ์วานของยูดาห์ได้ทรยศต่อเราอย่างสิ้นเชิง องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "נְאֻם־יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้",
+          "rationale": "neʾum-YHWH → องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้, LOCKED per hebrew_idioms §5.4. Layer 1: יהוה → องค์พระผู้เป็นเจ้า."
+        },
+        {
+          "hebrew": "בָגוֹד בָּגְדוּ בִּי",
+          "rendering": "ได้ทรยศต่อเราอย่างสิ้นเชิง",
+          "rationale": "bāgad ‘betray treacherously’ in the infinitive-absolute intensive (bāgôd bāgədû) → ทรยศ...อย่างสิ้นเชิง, per the polyptoton-intensifier rule. Both houses (Israel + Judah) named together — total covenant treachery (cf. 3:6–11). Divine first-person (เรา)."
+        }
+      ],
+      "notes": "Both kingdoms (Israel + Judah) indicted for utter treachery (בָּגַד, the root of ‘treacherous’ in 3:7–11). The infinitive-absolute intensifies. Justifies the judgment of vv. 9–10."
+    }
+  },
+  {
+    "reference": "Jeremiah 5:12",
+    "chapter": 5,
+    "verse": 12,
+    "language": "hebrew",
+    "hebrew": "כִּֽחֲשׁוּ֙ בַּיהוָ֔ה וַיֹּאמְר֖וּ לֹא־ה֑וּא וְלֹא־תָב֤וֹא עָלֵ֨ינוּ֙ רָעָ֔ה וְחֶ֥רֶב וְרָעָ֖ב ל֥וֹא נִרְאֶֽה׃",
+    "bsb_english": "They have lied about the LORD and said: “He will not do anything; harm will not come to us; we will not see sword or famine.",
+    "translation": {
+      "thai": "พวกเขาได้พูดปดเกี่ยวกับองค์พระผู้เป็นเจ้า และกล่าวว่า “พระองค์จะไม่ทรงทำอะไร ภัยพิบัติจะไม่มาถึงเรา เราจะไม่พบกับดาบหรือการกันดารอาหาร",
+      "thai_literal": null,
+      "thai_summary": "ความบาปที่ลึกที่สุดคือการปฏิเสธว่าพระเจ้าจะทรงลงมือ — ‘พระองค์จะไม่ทรงทำอะไร’ พวกเขาไม่เชื่อทั้งคำเตือนและฤทธิ์อำนาจของพระเจ้า จึงใช้ชีวิตอย่างประมาท",
+      "key_decisions": [
+        {
+          "hebrew": "כִּחֲשׁוּ בַּיהוָה",
+          "rendering": "พูดปดเกี่ยวกับองค์พระผู้เป็นเจ้า",
+          "rationale": "kāḥaš ‘deny/lie about’ → พูดปดเกี่ยวกับ. Layer 1: יהוה → องค์พระผู้เป็นเจ้า. Their lie: that YHWH is irrelevant — ‘He will not do anything’ (לֹא־הוּא)."
+        },
+        {
+          "hebrew": "לֹא־הוּא וְלֹא־תָבוֹא עָלֵינוּ רָעָה",
+          "rendering": "พระองค์จะไม่ทรงทำอะไร ภัยพิบัติจะไม่มาถึงเรา",
+          "rationale": "‘It is not he / he will do nothing’ → พระองค์จะไม่ทรงทำอะไร (the people's quoted denial; ทรงทำ with พระองค์ as reverent referent — divine subject in window). They deny coming judgment (‘no sword or famine’) — the false security the false prophets fed (v. 13; 4:10). רָעָה → ภัยพิบัติ."
+        }
+      ],
+      "notes": "The people's practical atheism: they ‘lie about YHWH,’ denying he will act, denying sword/famine will come — the false-peace delusion (cf. 4:10; 14:13). This denial provokes the fire-judgment of v. 14."
+    }
+  },
+  {
+    "reference": "Jeremiah 5:13",
+    "chapter": 5,
+    "verse": 13,
+    "language": "hebrew",
+    "hebrew": "וְהַנְּבִיאִים֙ יִֽהְי֣וּ לְר֔וּחַ וְהַדִּבֵּ֖ר אֵ֣ין בָּהֶ֑ם כֹּ֥ה יֵעָשֶׂ֖ה לָהֶֽם׃",
+    "bsb_english": "The prophets are but wind, for the word is not in them. So let their own predictions befall them.”",
+    "translation": {
+      "thai": "ส่วนบรรดาผู้เผยพระวจนะก็เป็นเพียงลม พระวจนะไม่ได้อยู่ในตัวพวกเขาเลย ขอให้สิ่งที่พวกเขาพูดนั้นเกิดแก่ตัวพวกเขาเองเถิด”",
+      "thai_literal": null,
+      "thai_summary": "เล่นคำ: ผู้เผยพระวจนะ (เท็จ) เป็นเพียง ‘ลม’ (รูอัค ซึ่งแปลได้ทั้งลมและวิญญาณ) — คำพยากรณ์ของพวกเขากลวงเปล่า ไม่มีพระวจนะของพระเจ้าจริง ๆ อยู่เลย",
+      "key_decisions": [
+        {
+          "hebrew": "וְהַנְּבִיאִים יִהְיוּ לְרוּחַ",
+          "rendering": "บรรดาผู้เผยพระวจนะก็เป็นเพียงลม",
+          "rationale": "rûaḥ ‘wind’ (here meteorological/empty sense per hebrew_idioms §3.5) → ลม. The false prophets are empty ‘wind’ — a pun, since רוּחַ also means ‘spirit,’ so they have neither true word nor true Spirit. The judgment-wind of 4:11–12 ironically answers them."
+        },
+        {
+          "hebrew": "וְהַדִּבֵּר אֵין בָּהֶם",
+          "rendering": "พระวจนะไม่ได้อยู่ในตัวพวกเขาเลย",
+          "rationale": "HAPAX: dibbēr (the ‘word/speech/divine-utterance,’ this exact noun-form only here) → พระวจนะ. ‘The word is not in them’ — they lack genuine divine revelation. ‘So let it be done to them’ = let their false predictions recoil on themselves."
+        }
+      ],
+      "notes": "HAPAX דִּבֵּר ‘word/utterance.’ The false prophets are ‘wind’ (רוּחַ, punning on wind/spirit) with no true word — answered by the judgment-wind (4:11–12) and the fire-word (v. 14). Verse ends with ס (setumah) marker (omitted from source)."
+    }
+  },
+  {
+    "reference": "Jeremiah 5:14",
+    "chapter": 5,
+    "verse": 14,
+    "language": "hebrew",
+    "hebrew": "לָכֵ֗ן כֹּֽה־אָמַ֤ר יְהוָה֙ אֱלֹהֵ֣י צְבָא֔וֹת יַ֚עַן דַּבֶּרְכֶ֔ם אֶת־הַדָּבָ֖ר הַזֶּ֑ה הִנְנִ֣י נֹתֵן֩ דְּבָרַ֨י בְּפִ֜יךָ לְאֵ֗שׁ וְהָעָ֥ם הַזֶּ֛ה עֵצִ֖ים וַאֲכָלָֽתַם׃",
+    "bsb_english": "Therefore this is what the LORD God of Hosts says: “Because you have spoken this word, I will make My words a fire in your mouth and this people the wood it consumes.",
+    "translation": {
+      "thai": "เพราะฉะนั้น องค์พระผู้เป็นเจ้า พระเจ้าจอมโยธา ตรัสดังนี้ว่า “เพราะพวกเจ้าได้พูดถ้อยคำเช่นนี้ ดูเถิด เราจะทำให้ถ้อยคำของเราในปากของเจ้าเป็นไฟ และทำให้ชนชาตินี้เป็นฟืน และไฟนั้นจะเผาผลาญพวกเขา",
+      "thai_literal": null,
+      "thai_summary": "พระเจ้าทรงตอบคำเยาะเย้ยของผู้พยากรณ์เท็จ (ข้อ 12–13) ด้วยการตั้งเยเรมีย์ให้ถ้อยคำของพระองค์ในปากเขาเป็น ‘ไฟ’ และประชาชนผู้ดื้อด้านเป็น ‘ฟืน’ — พระวจนะที่พวกเขาเย้ยว่ากลวงเปล่าจะกลายเป็นไฟพิพากษาที่แท้จริง",
+      "key_decisions": [
+        {
+          "hebrew": "כֹּה־אָמַר יְהוָה אֱלֹהֵי צְבָאוֹת",
+          "rendering": "องค์พระผู้เป็นเจ้า พระเจ้าจอมโยธา ตรัสดังนี้ว่า",
+          "rationale": "Messenger-formula (§5.3 lock) with the title יהוה אֱלֹהֵי צְבָאוֹת ‘YHWH God of Hosts’ → องค์พระผู้เป็นเจ้า (Layer 1 YHWH) + พระเจ้า (Elohe) + จอมโยธา (Tsebaoth) = องค์พระผู้เป็นเจ้า พระเจ้าจอมโยธา, preserving all three elements and satisfying the Tsebaoth-rendering requirement (จอมโยธา present)."
+        },
+        {
+          "hebrew": "הִנְנִי נֹתֵן דְּבָרַי בְּפִיךָ לְאֵשׁ … עֵצִים",
+          "rendering": "เราจะทำให้ถ้อยคำของเราในปากของเจ้าเป็นไฟ … เป็นฟืน",
+          "rationale": "‘I make my words in your mouth fire, this people wood’ → ถ้อยคำ...เป็นไฟ / ชนชาติ...เป็นฟืน. Divine first-person (เรา); Jeremiah's prophetic word (echoing 1:9 ‘my words in your mouth’) becomes consuming fire against the scoffers. (Ellipsis joins the fire/wood images.)"
+        }
+      ],
+      "notes": "YHWH's answer to the scoffers (vv. 12–13): the prophetic word they mocked as ‘wind’ becomes fire in Jeremiah's mouth, the people the wood. ‘YHWH God of Hosts’ rendered with all three components. Echoes 1:9 (‘my words in your mouth’)."
+    }
+  },
+  {
+    "reference": "Jeremiah 5:15",
+    "chapter": 5,
+    "verse": 15,
+    "language": "hebrew",
+    "hebrew": "הִנְנִ֣י מֵבִיא֩ עֲלֵיכֶ֨ם גּ֧וֹי מִמֶּרְחָ֛ק בֵּ֥ית יִשְׂרָאֵ֖ל נְאֻם־יְהֹוָ֑ה גּ֣וֹי ׀ אֵיתָ֣ן ה֗וּא גּ֤וֹי מֵעוֹלָם֙ ה֔וּא גּ֚וֹי לֹא־תֵדַ֣ע לְשֹׁנ֔וֹ וְלֹ֥א תִשְׁמַ֖ע מַה־יְדַבֵּֽר׃",
+    "bsb_english": "Behold, I am bringing a distant nation against you, O house of Israel,” declares the LORD. “It is an established nation, an ancient nation, a nation whose language you do not know and whose speech you do not understand.",
+    "translation": {
+      "thai": "วงศ์วานอิสราเอลเอ๋ย ดูเถิด เรากำลังนำชนชาติหนึ่งจากแดนไกลมาสู้กับพวกเจ้า องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้ เป็นชนชาติที่เข้มแข็งมั่นคง เป็นชนชาติที่มีมาแต่โบราณกาล เป็นชนชาติที่เจ้าไม่รู้จักภาษาของเขา และเจ้าจะไม่เข้าใจสิ่งที่เขาพูด",
+      "thai_literal": null,
+      "thai_summary": "‘ชนชาติจากแดนไกล’ ที่เก่าแก่และเข้มแข็ง พูดภาษาที่ฟังไม่ออก คือบาบิโลน — ภัยจากทางเหนือที่พระเจ้าทรงนำมาเอง ความแปลกของภาษาเน้นความน่าสะพรึงกลัวและแปลกแยกของผู้รุกราน",
+      "key_decisions": [
+        {
+          "hebrew": "נְאֻם־יְהֹוָה",
+          "rendering": "องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้",
+          "rationale": "neʾum-YHWH → องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้, LOCKED per hebrew_idioms §5.4. Layer 1: יהוה → องค์พระผู้เป็นเจ้า."
+        },
+        {
+          "hebrew": "גּוֹי מִמֶּרְחָק … גּוֹי אֵיתָן … גּוֹי מֵעוֹלָם",
+          "rendering": "ชนชาติหนึ่งจากแดนไกล … เข้มแข็งมั่นคง … มีมาแต่โบราณกาล",
+          "rationale": "Fourfold gôy (nation) anaphora: distant (mimerḥāq) + enduring/strong (ʾêtān) + ancient (mēʿôlām) + foreign-tongued → แดนไกล / เข้มแข็งมั่นคง / โบราณกาล. The unintelligible language (cf. Deut 28:49; Isa 33:19) marks the terrifying foreignness of Babylon. The MT glued גּוֹי׀אֵיתָן (paseq), de-glued in the source field. (Ellipsis joins the gôy-clauses.)"
+        }
+      ],
+      "notes": "The foe-from-afar (Babylon): ancient, mighty, speaking an unknown tongue (the Deut 28:49 covenant-curse realized). YHWH himself brings it (הִנְנִי מֵבִיא ‘I am bringing’). Paseq-glue de-glued in גּוֹי ׀ אֵיתָן."
+    }
+  },
+  {
+    "reference": "Jeremiah 5:16",
+    "chapter": 5,
+    "verse": 16,
+    "language": "hebrew",
+    "hebrew": "אַשְׁפָּת֖וֹ כְּקֶ֣בֶר פָּת֑וּחַ כֻּלָּ֖ם גִּבּוֹרִֽים׃",
+    "bsb_english": "Their quivers are like open graves; they are all mighty men.",
+    "translation": {
+      "thai": "แล่งธนูของเขาเป็นดั่งหลุมศพที่เปิดอยู่ พวกเขาล้วนเป็นนักรบเก่งกล้าทั้งสิ้น",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "אַשְׁפָּתוֹ כְּקֶבֶר פָּתוּחַ",
+          "rendering": "แล่งธนูของเขาเป็นดั่งหลุมศพที่เปิดอยู่",
+          "rationale": "ʾašpâ ‘quiver’ + ‘like an open grave’ → แล่งธนู / หลุมศพที่เปิดอยู่ — each arrow brings death; the quiver swallows victims like a gaping tomb. גִּבּוֹרִים ‘mighty men/warriors’ → นักรบเก่งกล้า."
+        }
+      ],
+      "notes": "The enemy's lethality: quivers like open graves, all warriors. The open-grave simile (cf. Ps 5:9, of the throat) here pictures arrows dealing mass death."
+    }
+  },
+  {
+    "reference": "Jeremiah 5:17",
+    "chapter": 5,
+    "verse": 17,
+    "language": "hebrew",
+    "hebrew": "וְאָכַ֨ל קְצִֽירְךָ֜ וְלַחְמֶ֗ךָ יֹאכְלוּ֙ בָּנֶ֣יךָ וּבְנוֹתֶ֔יךָ יֹאכַ֤ל צֹאנְךָ֙ וּבְקָרֶ֔ךָ יֹאכַ֤ל גַּפְנְךָ֙ וּתְאֵנָתֶ֔ךָ יְרֹשֵׁ֞שׁ עָרֵ֣י מִבְצָרֶ֗יךָ אֲשֶׁ֥ר אַתָּ֛ה בּוֹטֵ֥חַ בָּהֵ֖נָּה בֶּחָֽרֶב׃",
+    "bsb_english": "They will devour your harvest and food; they will consume your sons and daughters; they will eat up your flocks and herds; they will feed on your vines and fig trees. With the sword they will destroy the fortified cities in which you trust.”",
+    "translation": {
+      "thai": "เขาจะกินพืชผลและอาหารของเจ้า เขาจะกินบุตรชายและบุตรสาวของเจ้า เขาจะกินฝูงแพะแกะและฝูงวัวของเจ้า เขาจะกินเถาองุ่นและต้นมะเดื่อของเจ้า เขาจะทำลายเมืองป้อมปราการที่เจ้าวางใจด้วยดาบ",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "וְאָכַל … יֹאכְלוּ … יֹאכַל (×4)",
+          "rendering": "เขาจะกิน … (ซ้ำ)",
+          "rationale": "Five-fold ʾākal ‘devour/eat’ anaphora (harvest, children, flocks, vines, cities) → กิน repeated — the all-consuming invader strips every resource. The relentless repetition is preserved. (Ellipsis marks the repeated verb.)"
+        },
+        {
+          "hebrew": "יְרֹשֵׁשׁ עָרֵי מִבְצָרֶיךָ אֲשֶׁר אַתָּה בּוֹטֵחַ בָּהֵנָּה",
+          "rendering": "ทำลายเมืองป้อมปราการที่เจ้าวางใจ",
+          "rationale": "rāšaš ‘shatter/impoverish’ + ‘the fortified cities you trust in’ → ทำลายเมืองป้อมปราการที่เจ้าวางใจ. The misplaced trust (in fortifications, not YHWH) is shattered by the sword (cf. the alliance-trust of 2:37)."
+        }
+      ],
+      "notes": "The five-fold devouring (harvest/children/flocks/vines/cities) — total dispossession, reversing the covenant blessings (Deut 28:30–33). The trusted fortifications fall to the sword."
+    }
+  },
+  {
+    "reference": "Jeremiah 5:18",
+    "chapter": 5,
+    "verse": 18,
+    "language": "hebrew",
+    "hebrew": "וְגַ֛ם בַּיָּמִ֥ים הָהֵ֖מָּה נְאֻם־יְהֹוָ֑ה לֹֽא־אֶעֱשֶׂ֥ה אִתְּכֶ֖ם כָּלָֽה׃",
+    "bsb_english": "“Yet even in those days,” declares the LORD, “I will not make a full end of you.",
+    "translation": {
+      "thai": "องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้ว่า “ถึงกระนั้น ในวันเหล่านั้นเราก็จะไม่ทำลายพวกเจ้าให้สิ้นซาก",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "נְאֻם־יְהֹוָה",
+          "rendering": "องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้",
+          "rationale": "neʾum-YHWH → องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้, LOCKED per hebrew_idioms §5.4. Layer 1: יהוה → องค์พระผู้เป็นเจ้า."
+        },
+        {
+          "hebrew": "לֹא־אֶעֱשֶׂה אִתְּכֶם כָּלָה",
+          "rendering": "เราก็จะไม่ทำลายพวกเจ้าให้สิ้นซาก",
+          "rationale": "kālâ ‘full end’ negated → ไม่...ให้สิ้นซาก — the remnant-mercy refrain (4:27; 5:10; 30:11). Even in the devastation, YHWH preserves a remnant. Divine first-person (เรา)."
+        }
+      ],
+      "notes": "The remnant-mercy clause (‘not a full end’), recurring at 4:27; 5:10; 30:11 — judgment is severe but not annihilating. Hope is structurally preserved within the doom-oracle."
+    }
+  },
+  {
+    "reference": "Jeremiah 5:19",
+    "chapter": 5,
+    "verse": 19,
+    "language": "hebrew",
+    "hebrew": "וְהָיָה֙ כִּ֣י תֹאמְר֔וּ תַּ֣חַת מֶ֗ה עָשָׂ֨ה יְהֹוָ֧ה אֱלֹהֵ֛ינוּ לָ֖נוּ אֶת־כָּל־אֵ֑לֶּה וְאָמַרְתָּ֣ אֲלֵיהֶ֗ם כַּאֲשֶׁ֨ר עֲזַבְתֶּ֤ם אוֹתִי֙ וַתַּעַבְד֞וּ אֱלֹהֵ֤י נֵכָר֙ בְּאַרְצְכֶ֔ם כֵּ֚ן תַּעַבְד֣וּ זָרִ֔ים בְּאֶ֖רֶץ לֹ֥א לָכֶֽם׃",
+    "bsb_english": "And when the people ask, ‘For what offense has the LORD our God done all these things to us?’ You are to tell them, ‘Just as you have forsaken Me and served foreign gods in your land, so will you serve foreigners in a land that is not your own.’”",
+    "translation": {
+      "thai": "และเมื่อพวกเขาถามว่า ‘เพราะเหตุใดองค์พระผู้เป็นเจ้าพระเจ้าของเราจึงทรงกระทำสิ่งทั้งหมดนี้แก่เรา?’ เจ้าจงบอกพวกเขาว่า ‘เช่นเดียวกับที่พวกเจ้าได้ละทิ้งเราและปรนนิบัติพระต่างด้าวในแผ่นดินของพวกเจ้า พวกเจ้าก็จะต้องปรนนิบัติคนต่างด้าวในแผ่นดินที่ไม่ใช่ของพวกเจ้า’”",
+      "thai_literal": null,
+      "thai_summary": "การลงโทษเหมาะกับความผิด: เพราะปรนนิบัติพระต่างด้าวในแผ่นดินของตน พวกเขาจึงต้องไปปรนนิบัติคนต่างด้าว (ตกเป็นเชลย) ในแผ่นดินต่างชาติ — บาปและโทษสะท้อนกัน",
+      "key_decisions": [
+        {
+          "hebrew": "עָשָׂה יְהֹוָה אֱלֹהֵינוּ לָנוּ אֶת־כָּל־אֵלֶּה",
+          "rendering": "องค์พระผู้เป็นเจ้าพระเจ้าของเราจึงทรงกระทำสิ่งทั้งหมดนี้แก่เรา",
+          "rationale": "The people's quoted question (3rd-person about YHWH) → royal ทรงกระทำ (subject องค์พระผู้เป็นเจ้า adjacent in the window). Layer 1: יהוה → องค์พระผู้เป็นเจ้า; אֱלֹהֵינוּ → พระเจ้าของเรา."
+        },
+        {
+          "hebrew": "תַּעַבְדוּ אֱלֹהֵי נֵכָר … תַּעַבְדוּ זָרִים",
+          "rendering": "ปรนนิบัติพระต่างด้าว … ปรนนิบัติคนต่างด้าว",
+          "rationale": "ʿāvad ‘serve’ used twice (serve foreign gods // serve foreigners) → ปรนนิบัติ — the measure-for-measure judgment: idol-service in their own land repaid by enslavement to foreigners in exile. אֱלֹהֵי נֵכָר ‘foreign gods’ → พระต่างด้าว (idol register); זָרִים here = foreign people → คนต่างด้าว. (Ellipsis joins the two serve-clauses.)"
+        }
+      ],
+      "notes": "The fitting judgment: serving foreign gods (אֱלֹהֵי נֵכָר) in their own land → serving foreigners (זָרִים) in exile. The עָבַד-wordplay (serve idols / serve foreigners) makes the punishment mirror the crime. Verse ends with ס marker (omitted from source)."
+    }
+  },
+  {
+    "reference": "Jeremiah 5:20",
+    "chapter": 5,
+    "verse": 20,
+    "language": "hebrew",
+    "hebrew": "הַגִּ֥ידוּ זֹ֖את בְּבֵ֣ית יַעֲקֹ֑ב וְהַשְׁמִיע֥וּהָ בִיהוּדָ֖ה לֵאמֹֽר׃",
+    "bsb_english": "Declare this in the house of Jacob and proclaim it in Judah:",
+    "translation": {
+      "thai": "จงประกาศข้อความนี้ในวงศ์วานของยาโคบ และจงป่าวร้องในยูดาห์ว่า",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "בְּבֵית יַעֲקֹב … בִיהוּדָה",
+          "rendering": "ในวงศ์วานของยาโคบ … ในยูดาห์",
+          "rationale": "bêt yaʿăqōv (house of Jacob) → วงศ์วานของยาโคบ; יְהוּדָה → ยูดาห์. The summons-formula opening the next oracle-unit (vv. 20–31). (Ellipsis joins the parallel place-references.)"
+        }
+      ],
+      "notes": "Proclamation-formula introducing the indictment of vv. 21–31 (the senseless people who do not fear the Creator)."
+    }
+  },
+  {
+    "reference": "Jeremiah 5:21",
+    "chapter": 5,
+    "verse": 21,
+    "language": "hebrew",
+    "hebrew": "שִׁמְעוּ־נָ֣א זֹ֔את עַ֥ם סָכָ֖ל וְאֵ֣ין לֵ֑ב עֵינַ֤יִם לָהֶם֙ וְלֹ֣א יִרְא֔וּ אָזְנַ֥יִם לָהֶ֖ם וְלֹ֥א יִשְׁמָֽעוּ׃",
+    "bsb_english": "“Hear this, O foolish and senseless people, who have eyes but do not see, who have ears but do not hear.",
+    "translation": {
+      "thai": "“ประชาชนผู้โง่เขลาและไร้สำนึกเอ๋ย จงฟังเรื่องนี้ พวกเจ้ามีตาแต่มองไม่เห็น มีหูแต่ฟังไม่ได้ยิน",
+      "thai_literal": null,
+      "thai_summary": "ประชากรมี ‘ตาแต่มองไม่เห็น หูแต่ฟังไม่ได้ยิน’ — ภาพความดื้อด้านฝ่ายวิญญาณที่อิสยาห์ 6:9–10 และเฉลยธรรมบัญญัติ 29:4 ก็ใช้ และพระเยซูทรงยกมาใช้กับฝูงชน (มาระโก 8:18)",
+      "key_decisions": [
+        {
+          "hebrew": "עַם סָכָל וְאֵין לֵב",
+          "rendering": "ประชาชนผู้โง่เขลาและไร้สำนึก",
+          "rationale": "sākāl ‘foolish’ + ʾên lēv ‘without heart’ (lēv = mind/understanding per hebrew_idioms §3.3) → โง่เขลา / ไร้สำนึก. The wisdom-folly indictment (cf. 4:22)."
+        },
+        {
+          "hebrew": "עֵינַיִם לָהֶם וְלֹא יִרְאוּ אָזְנַיִם לָהֶם וְלֹא יִשְׁמָעוּ",
+          "rendering": "มีตาแต่มองไม่เห็น มีหูแต่ฟังไม่ได้ยิน",
+          "rationale": "‘Eyes but see not, ears but hear not’ → the spiritual-blindness idiom (Isa 6:9–10; Deut 29:4; Ezek 12:2; quoted Mk 8:18). Plain ตา/หู (the people's organs, not divine — no royal forms)."
+        }
+      ],
+      "notes": "The spiritual-blindness indictment (eyes/ears that don't perceive) — a stock prophetic motif (Isa 6:9–10; Deut 29:4; Ezek 12:2), taken up by Jesus (Mk 8:18). Introduces the Creator-fear argument (v. 22)."
+    }
+  },
+  {
+    "reference": "Jeremiah 5:22",
+    "chapter": 5,
+    "verse": 22,
+    "language": "hebrew",
+    "hebrew": "הַאוֹתִ֨י לֹא־תִירָ֜אוּ נְאֻם־יְהֹוָ֗ה אִ֤ם מִפָּנַי֙ לֹ֣א תָחִ֔ילוּ אֲשֶׁר־שַׂ֤מְתִּי חוֹל֙ גְּב֣וּל לַיָּ֔ם חָק־עוֹלָ֖ם וְלֹ֣א יַעַבְרֶ֑נְהוּ וַיִּֽתְגָּעֲשׁוּ֙ וְלֹ֣א יוּכָ֔לוּ וְהָמ֥וּ גַלָּ֖יו וְלֹ֥א יַעַבְרֻֽנְהוּ׃",
+    "bsb_english": "Do you not fear Me?” declares the LORD. “Do you not tremble before Me, the One who set the sand as the boundary for the sea, an enduring barrier it cannot cross? The waves surge, but they cannot prevail. They roar but cannot cross it.",
+    "translation": {
+      "thai": "องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้ว่า “พวกเจ้าไม่ยำเกรงเราหรือ? พวกเจ้าไม่ตัวสั่นต่อหน้าเราหรือ? เราเป็นผู้ตั้งหาดทรายให้เป็นเขตแดนของทะเล เป็นกฎเกณฑ์นิรันดร์ที่ทะเลข้ามไปไม่ได้ แม้คลื่นจะซัดสาดก็เอาชนะไม่ได้ แม้จะคำรามก็ข้ามมันไปไม่ได้",
+      "thai_literal": null,
+      "thai_summary": "ข้อโต้แย้งจากการทรงสร้าง: แม้แต่ทะเลที่ดูควบคุมไม่ได้ ยังเชื่อฟัง ‘เขตแดน’ หาดทรายที่พระเจ้าทรงกำหนด — แต่ประชากรของพระองค์กลับไม่ยำเกรงพระองค์ ธรรมชาติที่ไร้ความคิดยังเชื่อฟังยิ่งกว่ามนุษย์ที่มีสำนึก",
+      "key_decisions": [
+        {
+          "hebrew": "נְאֻם־יְהֹוָה",
+          "rendering": "องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้",
+          "rationale": "neʾum-YHWH → องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้, LOCKED per hebrew_idioms §5.4. Layer 1: יהוה → องค์พระผู้เป็นเจ้า. ‘before Me’ (מִפָּנַי) kept plain (ต่อหน้าเรา) in divine first-person speech."
+        },
+        {
+          "hebrew": "שַׂמְתִּי חוֹל גְּבוּל לַיָּם חָק־עוֹלָם",
+          "rendering": "เราเป็นผู้ตั้งหาดทรายให้เป็นเขตแดนของทะเล เป็นกฎเกณฑ์นิรันดร์",
+          "rationale": "ḥôl gəvûl layyām ‘sand as the sea's boundary’ + ḥoq-ʿôlām ‘eternal decree/limit’ → หาดทราย...เขตแดนของทะเล / กฎเกณฑ์นิรันดร์. Divine first-person (เรา). The creation-order argument (cf. Job 38:8–11; Ps 104:9): the chaotic sea obeys God's fixed boundary — unlike his rational people."
+        }
+      ],
+      "notes": "The Creator-fear argument: the boundless sea obeys YHWH's sand-boundary (Job 38:8–11; Ps 104:9; Prov 8:29), yet his people will not fear him. Creation's obedience shames human rebellion. ‘Before Me’ plain (divine first-person)."
+    }
+  },
+  {
+    "reference": "Jeremiah 5:23",
+    "chapter": 5,
+    "verse": 23,
+    "language": "hebrew",
+    "hebrew": "וְלָעָ֤ם הַזֶּה֙ הָיָ֔ה לֵ֖ב סוֹרֵ֣ר וּמוֹרֶ֑ה סָ֖רוּ וַיֵּלֵֽכוּ׃",
+    "bsb_english": "But these people have stubborn and rebellious hearts. They have turned aside and gone away.",
+    "translation": {
+      "thai": "แต่ชนชาตินี้มีใจดื้อดึงและกบฏ พวกเขาได้หันเหไปและจากไปเสียแล้ว",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "לֵב סוֹרֵר וּמוֹרֶה",
+          "rendering": "ใจดื้อดึงและกบฏ",
+          "rationale": "sôrēr ‘stubborn/defiant’ (root סרר, cf. Isa 1:23 ดื้อกบฏ) + môreh ‘rebellious’ → ดื้อดึง / กบฏ. The ‘stubborn and rebellious heart’ — the very phrase of the rebellious-son law (Deut 21:18) — contrasts the obedient sea (v. 22)."
+        }
+      ],
+      "notes": "The contrast to v. 22: the people's ‘stubborn and rebellious heart’ (סוֹרֵר וּמוֹרֶה — the rebellious-son phrase, Deut 21:18, 20) — they have ‘turned aside and gone.’ Less obedient than the sea."
+    }
+  },
+  {
+    "reference": "Jeremiah 5:24",
+    "chapter": 5,
+    "verse": 24,
+    "language": "hebrew",
+    "hebrew": "וְלֹֽא־אָמְר֣וּ בִלְבָבָ֗ם נִ֤ירָא נָא֙ אֶת־יְהוָ֣ה אֱלֹהֵ֔ינוּ הַנֹּתֵ֗ן גֶּ֛שֶׁם יוֹרֶ֥ה וּמַלְק֖וֹשׁ בְּעִתּ֑וֹ שְׁבֻע֛וֹת חֻקּ֥וֹת קָצִ֖יר יִשְׁמָר־לָֽנוּ׃",
+    "bsb_english": "They have not said in their hearts, ‘Let us fear the LORD our God, who gives the rains, both autumn and spring, in season, who keeps for us the appointed weeks of harvest.’",
+    "translation": {
+      "thai": "พวกเขาไม่ได้รำพึงในใจว่า ‘ให้เรายำเกรงองค์พระผู้เป็นเจ้าพระเจ้าของเราเถิด ผู้ทรงประทานฝน ทั้งฝนต้นฤดูและฝนปลายฤดูตามกำหนดเวลา และผู้ทรงรักษาสัปดาห์แห่งการเก็บเกี่ยวตามกำหนดไว้เพื่อเรา’",
+      "thai_literal": null,
+      "thai_summary": "ความน่าเศร้าของการไม่ยำเกรงพระเจ้า: พวกเขาลืมว่าพระองค์เองทรงเป็นผู้ประทานฝนและฤดูเก็บเกี่ยว — สิ่งที่พวกเขาเคยขอจากบาอัล (เทพแห่งฝน) แท้จริงมาจากองค์พระผู้เป็นเจ้า",
+      "key_decisions": [
+        {
+          "hebrew": "נִירָא נָא אֶת־יְהוָה אֱלֹהֵינוּ הַנֹּתֵן גֶּשֶׁם",
+          "rendering": "ให้เรายำเกรงองค์พระผู้เป็นเจ้าพระเจ้าของเราเถิด ผู้ทรงประทานฝน",
+          "rationale": "Layer 1: יהוה → องค์พระผู้เป็นเจ้า; אֱלֹהֵינוּ → พระเจ้าของเรา. ‘who gives rain’ (hannōtēn gešem) → ผู้ทรงประทานฝน (agentive ผู้ทรง- divine-title form, which honorifics-binding treats as a title, not a bound verb). The unsaid confession the people refuse to make."
+        },
+        {
+          "hebrew": "יוֹרֶה וּמַלְקוֹשׁ … שְׁבֻעוֹת חֻקּוֹת קָצִיר",
+          "rendering": "ฝนต้นฤดูและฝนปลายฤดู … สัปดาห์แห่งการเก็บเกี่ยวตามกำหนด",
+          "rationale": "yôreh (early/autumn rain) + malqôš (latter/spring rain) → ฝนต้นฤดู / ฝนปลายฤดู; ‘the appointed weeks of harvest’ → สัปดาห์แห่งการเก็บเกี่ยวตามกำหนด. YHWH — not Baal the storm-god — provides the agricultural cycle (a pointed anti-Baal claim). (Ellipsis joins the rain/harvest phrases.)"
+        }
+      ],
+      "notes": "YHWH, not Baal, gives the rains and harvest-seasons — the unsaid fear-confession. A pointed anti-Baal polemic (the people sought from Baal what YHWH alone provides; cf. Hos 2:8). The agentive ‘ผู้ทรงประทาน’ is a divine-title form (honorifics-safe)."
+    }
+  },
+  {
+    "reference": "Jeremiah 5:25",
+    "chapter": 5,
+    "verse": 25,
+    "language": "hebrew",
+    "hebrew": "עֲוֺנוֹתֵיכֶ֖ם הִטּוּ־אֵ֑לֶּה וְחַטֹּ֣אותֵיכֶ֔ם מָנְע֥וּ הַטּ֖וֹב מִכֶּֽם׃",
+    "bsb_english": "Your iniquities have diverted these from you; your sins have deprived you of My bounty.",
+    "translation": {
+      "thai": "ความชั่วช้าของพวกเจ้าได้ผลักสิ่งเหล่านี้ให้พ้นไป และบาปของพวกเจ้าได้กันสิ่งดีไว้จากพวกเจ้า",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "עֲוֺנוֹתֵיכֶם הִטּוּ־אֵלֶּה וְחַטֹּאותֵיכֶם מָנְעוּ הַטּוֹב",
+          "rendering": "ความชั่วช้า … ได้ผลักสิ่งเหล่านี้ให้พ้นไป และบาป … ได้กันสิ่งดีไว้",
+          "rationale": "ʿāwōn (iniquity) + ḥaṭṭāʾâ (sin) as the agents that ‘turned away’ (nāṭâ) the rains and ‘withheld’ (mānaʿ) the good → ความชั่วช้า / บาป...ผลัก/กันไว้. Sin itself diverts the blessing (cf. the self-punishment principle of 2:19; 4:18)."
+        }
+      ],
+      "notes": "Sin as the agent of its own punishment: the people's iniquities diverted the rains and withheld ‘the good’ (the harvest of v. 24). The drought-judgment (cf. 3:3) is morally caused."
+    }
+  },
+  {
+    "reference": "Jeremiah 5:26",
+    "chapter": 5,
+    "verse": 26,
+    "language": "hebrew",
+    "hebrew": "כִּי־נִמְצְא֥וּ בְעַמִּ֖י רְשָׁעִ֑ים יָשׁוּר֙ כְּשַׁ֣ךְ יְקוּשִׁ֔ים הִצִּ֥יבוּ מַשְׁחִ֖ית אֲנָשִׁ֥ים יִלְכֹּֽדוּ׃",
+    "bsb_english": "For among My people are wicked men; they watch like fowlers lying in wait; they set a trap to catch men.",
+    "translation": {
+      "thai": "เพราะในหมู่ประชากรของเรามีคนชั่วร้าย พวกเขาหมอบคอยดักดั่งนักจับนก พวกเขาวางกับดักเพื่อจับคน",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יָשׁוּר כְּשַׁךְ יְקוּשִׁים",
+          "rendering": "หมอบคอยดักดั่งนักจับนก",
+          "rationale": "yāqûšîm ‘fowlers/bird-trappers’ + ‘crouching/watching’ → หมอบคอยดักดั่งนักจับนก. The wicked among God's own people prey on fellow humans like bird-catchers — predatory injustice (developed in v. 27)."
+        },
+        {
+          "hebrew": "הִצִּיבוּ מַשְׁחִית אֲנָשִׁים יִלְכֹּדוּ",
+          "rendering": "วางกับดักเพื่อจับคน",
+          "rationale": "‘they set a trap (mašḥît, destroyer/snare); they catch men’ → วางกับดักเพื่อจับคน. The social-justice indictment: the powerful trap the vulnerable for gain."
+        }
+      ],
+      "notes": "The social-injustice charge: wicked men among God's people set traps to ensnare fellow humans like fowlers — predatory exploitation, expanded in vv. 27–28."
+    }
+  },
+  {
+    "reference": "Jeremiah 5:27",
+    "chapter": 5,
+    "verse": 27,
+    "language": "hebrew",
+    "hebrew": "כִּכְלוּב֙ מָ֣לֵא ע֔וֹף כֵּ֥ן בָּתֵּיהֶ֖ם מְלֵאִ֣ים מִרְמָ֑ה עַל־כֵּ֥ן גָּדְל֖וּ וַֽיַּעֲשִֽׁירוּ׃",
+    "bsb_english": "Like cages full of birds, so their houses are full of deceit. Therefore they have become powerful and rich.",
+    "translation": {
+      "thai": "กรงที่เต็มไปด้วยนกฉันใด บ้านเรือนของพวกเขาก็เต็มไปด้วยการหลอกลวงฉันนั้น เพราะเหตุนี้พวกเขาจึงได้ใหญ่โตและร่ำรวยขึ้น",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "כִּכְלוּב מָלֵא עוֹף כֵּן בָּתֵּיהֶם מְלֵאִים מִרְמָה",
+          "rendering": "กรงที่เต็มไปด้วยนกฉันใด บ้านเรือนของพวกเขาก็เต็มไปด้วยการหลอกลวงฉันนั้น",
+          "rationale": "kəlûv ‘cage/basket’ full of birds // houses full of mirmâ (deceit/fraud) → กรง...เต็มด้วยนก / บ้าน...เต็มด้วยการหลอกลวง. The fowler-image (v. 26) extended: their ill-gotten gains fill their houses like trapped birds fill a cage. Wealth from fraud (גָּדְלוּ וַיַּעֲשִׁירוּ ‘grew great and rich’)."
+        }
+      ],
+      "notes": "The fowler-metaphor completed: houses full of deceit-gotten gain like cages full of birds — the rich grown powerful through fraud. Social oppression as the fruit of the injustice of v. 26."
+    }
+  },
+  {
+    "reference": "Jeremiah 5:28",
+    "chapter": 5,
+    "verse": 28,
+    "language": "hebrew",
+    "hebrew": "שָׁמְנ֣וּ עָשְׁת֗וּ גַּ֚ם עָֽבְר֣וּ דִבְרֵי־רָ֔ע דִּ֣ין לֹא־דָ֔נוּ דִּ֥ין יָת֖וֹם וְיַצְלִ֑יחוּ וּמִשְׁפַּ֥ט אֶבְיוֹנִ֖ים לֹ֥א שָׁפָֽטוּ׃",
+    "bsb_english": "They have grown fat and sleek, and have excelled in the deeds of the wicked. They have not taken up the cause of the fatherless, that they might prosper; nor have they defended the rights of the needy.",
+    "translation": {
+      "thai": "พวกเขาอ้วนพีและเปล่งปลั่ง อีกทั้งล้ำหน้าในการกระทำชั่ว พวกเขาไม่ได้ตัดสินความให้ลูกกำพร้าพ่อ เพื่อให้คนเหล่านั้นได้ดี และไม่ได้ให้ความเป็นธรรมแก่คนยากไร้",
+      "thai_literal": null,
+      "thai_summary": "ความมั่งคั่งที่ได้มาจากการกดขี่ทำให้พวกเขา ‘อ้วนพีเปล่งปลั่ง’ แต่ละเลยความยุติธรรมต่อลูกกำพร้าและคนยากไร้ — มาตรวัดความยุติธรรมในพระคัมภีร์อยู่ที่การปฏิบัติต่อผู้เปราะบางที่สุด",
+      "key_decisions": [
+        {
+          "hebrew": "שָׁמְנוּ עָשְׁתוּ גַּם עָבְרוּ דִבְרֵי־רָע",
+          "rendering": "อ้วนพีและเปล่งปลั่ง อีกทั้งล้ำหน้าในการกระทำชั่ว",
+          "rationale": "šāmēn ‘grow fat’ + ʿāšēt ‘sleek/glossy’ → อ้วนพีและเปล่งปลั่ง (prosperity from oppression); ‘they overstep in deeds of evil’ → ล้ำหน้าในการกระทำชั่ว. The well-fed oppressors who excel at wickedness."
+        },
+        {
+          "hebrew": "דִּין יָתוֹם … וּמִשְׁפַּט אֶבְיוֹנִים לֹא שָׁפָטוּ",
+          "rendering": "ตัดสินความให้ลูกกำพร้าพ่อ … ไม่ได้ให้ความเป็นธรรมแก่คนยากไร้",
+          "rationale": "‘the cause of the orphan / the justice of the needy’ → ลูกกำพร้าพ่อ (yātôm) / คนยากไร้ (ʾevyônîm) — the Torah's covenant-justice measure (Deut 10:18; cf. Isa 1:17, 23). The oppressors deny justice to the vulnerable while prospering. (Ellipsis joins the orphan/needy clauses.)"
+        }
+      ],
+      "notes": "The injustice climax: the fat, prosperous wicked deny justice to orphan and needy — the same Torah-justice failure as Isa 1:17, 23. Social oppression compounds the idolatry, justifying the punishment-refrain of v. 29."
+    }
+  },
+  {
+    "reference": "Jeremiah 5:29",
+    "chapter": 5,
+    "verse": 29,
+    "language": "hebrew",
+    "hebrew": "הַֽעַל־אֵ֥לֶּה לֹֽא־אֶפְקֹ֖ד נְאֻם־יְהֹוָ֑ה אִ֚ם בְּג֣וֹי אֲשֶׁר־כָּזֶ֔ה לֹ֥א תִתְנַקֵּ֖ם נַפְשִֽׁי׃",
+    "bsb_english": "Should I not punish them for these things?” declares the LORD. “Should I not avenge Myself on such a nation as this?",
+    "translation": {
+      "thai": "เราจะไม่ลงโทษพวกเขาเพราะสิ่งเหล่านี้หรือ? องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้ และจิตใจของเราจะไม่แก้แค้นชนชาติที่เป็นเช่นนี้หรือ?",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "נְאֻם־יְהֹוָה",
+          "rendering": "องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้",
+          "rationale": "neʾum-YHWH → องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้, LOCKED per hebrew_idioms §5.4. Layer 1: יהוה → องค์พระผู้เป็นเจ้า."
+        },
+        {
+          "hebrew": "הַעַל־אֵלֶּה לֹא־אֶפְקֹד",
+          "rendering": "เราจะไม่ลงโทษพวกเขาเพราะสิ่งเหล่านี้หรือ",
+          "rationale": "Verbatim refrain of v. 9: פָּקַד sense (4) judgment → ลงโทษ (paqad doc); נַפְשִׁי (my soul) → จิตใจของเรา. The repeated rhetorical question frames the whole indictment (vv. 7–28). Verse ends with ס marker (omitted from source)."
+        }
+      ],
+      "notes": "The punishment-refrain repeated from v. 9, bracketing the indictment (vv. 9–29). פָּקַד sense-4 (judgment-visitation). The rhetorical questions assert the justice of the coming judgment."
+    }
+  },
+  {
+    "reference": "Jeremiah 5:30",
+    "chapter": 5,
+    "verse": 30,
+    "language": "hebrew",
+    "hebrew": "שַׁמָּה֙ וְשַׁ֣עֲרוּרָ֔ה נִהְיְתָ֖ה בָּאָֽרֶץ׃",
+    "bsb_english": "A horrible and shocking thing has happened in the land.",
+    "translation": {
+      "thai": "สิ่งที่น่าตกตะลึงและน่าขนพองสยองเกล้าได้เกิดขึ้นในแผ่นดินนี้",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "שַׁמָּה וְשַׁעֲרוּרָה",
+          "rendering": "สิ่งที่น่าตกตะลึงและน่าขนพองสยองเกล้า",
+          "rationale": "šammâ ‘appalling/horrible thing’ + šaʿărûrâ ‘shocking/horrifying thing’ → น่าตกตะลึง / น่าขนพองสยองเกล้า — a doublet of horror, alliterative in Hebrew (šammâ/šaʿărûrâ). The exclamatory verdict introducing the final indictment (v. 31)."
+        }
+      ],
+      "notes": "The horrified exclamation (alliterative doublet שַׁמָּה/שַׁעֲרוּרָה) over the corruption — specifically the false prophets and complicit priests of v. 31."
+    }
+  },
+  {
+    "reference": "Jeremiah 5:31",
+    "chapter": 5,
+    "verse": 31,
+    "language": "hebrew",
+    "hebrew": "הַנְּבִיאִ֞ים נִבְּא֣וּ־בַשֶּׁ֗קֶר וְהַכֹּהֲנִים֙ יִרְדּ֣וּ עַל־יְדֵיהֶ֔ם וְעַמִּ֖י אָ֣הֲבוּ כֵ֑ן וּמַֽה־תַּעֲשׂ֖וּ לְאַחֲרִיתָֽהּ׃",
+    "bsb_english": "The prophets prophesy falsely, and the priests rule by their own authority. My people love it so, but what will you do in the end?",
+    "translation": {
+      "thai": "บรรดาผู้เผยพระวจนะพยากรณ์อย่างเท็จ และบรรดาปุโรหิตก็ปกครองตามอำนาจของพวกเขาเอง และประชากรของเราก็รักที่จะเป็นเช่นนั้น แต่พวกเจ้าจะทำอย่างไรในบั้นปลาย?",
+      "thai_literal": null,
+      "thai_summary": "บทปิดด้วยภาพระบบที่เน่าเฟะทั้งระบบ: ผู้เผยพระวจนะโกหก ปุโรหิตใช้อำนาจตามใจตน และประชากรก็ ‘รัก’ ที่จะเป็นเช่นนั้น คำถามทิ้งท้าย ‘แล้วจะทำอย่างไรในบั้นปลาย?’ บีบให้ทุกคนเผชิญกับวันแห่งการชำระบัญชี",
+      "key_decisions": [
+        {
+          "hebrew": "הַנְּבִיאִים נִבְּאוּ־בַשֶּׁקֶר וְהַכֹּהֲנִים יִרְדּוּ עַל־יְדֵיהֶם",
+          "rendering": "ผู้เผยพระวจนะพยากรณ์อย่างเท็จ และปุโรหิตก็ปกครองตามอำนาจของพวกเขาเอง",
+          "rationale": "‘prophets prophesy falsely (šeqer); priests rule by their own hands (authority)’ → พยากรณ์อย่างเท็จ / ปกครองตามอำนาจของตนเอง. The religious leadership wholly corrupt — false revelation + priestly self-aggrandizement."
+        },
+        {
+          "hebrew": "וְעַמִּי אָהֲבוּ כֵן וּמַה־תַּעֲשׂוּ לְאַחֲרִיתָהּ",
+          "rendering": "ประชากรของเราก็รักที่จะเป็นเช่นนั้น แต่พวกเจ้าจะทำอย่างไรในบั้นปลาย",
+          "rationale": "‘my people love it so’ (the people prefer the comforting lies) → รักที่จะเป็นเช่นนั้น; the haunting closing question ‘what will you do at the end (ʾaḥărît)?’ → จะทำอย่างไรในบั้นปลาย — the day of reckoning that the false-peace cannot avert."
+        }
+      ],
+      "notes": "The chapter's chilling close: corrupt prophets, self-serving priests, and a people who LOVE the deception — then the unanswerable question, ‘what will you do in the end?’ The whole religious system implicated (cf. 2:8; 23:9–40)."
+    }
+  }
+]
