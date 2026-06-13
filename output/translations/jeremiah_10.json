@@ -1,0 +1,572 @@
+[
+  {
+    "reference": "Jeremiah 10:1",
+    "chapter": 10,
+    "verse": 1,
+    "language": "hebrew",
+    "hebrew": "שִׁמְע֣וּ אֶת־הַדָּבָ֗ר אֲשֶׁ֨ר דִּבֶּ֧ר יְהוָ֛ה עֲלֵיכֶ֖ם בֵּ֥ית יִשְׂרָאֵֽל׃",
+    "bsb_english": "Hear the word that the LORD speaks to you, O house of Israel.",
+    "translation": {
+      "thai": "วงศ์วานอิสราเอลเอ๋ย จงฟังพระวจนะที่องค์พระผู้เป็นเจ้าตรัสแก่พวกเจ้า",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "אֲשֶׁר דִּבֶּר יְהוָה עֲלֵיכֶם בֵּית יִשְׂרָאֵל",
+          "rendering": "ที่องค์พระผู้เป็นเจ้าตรัสแก่พวกเจ้า วงศ์วานอิสราเอล",
+          "rationale": "Layer 1: יהוה → องค์พระผู้เป็นเจ้า ตาม divine_names_table_2026-05.md. dibbēr → ตรัส (royal speech). bêt yiśrāʾēl → วงศ์วานอิสราเอล. First YHWH occurrence (Layer 2 footnote)."
+        }
+      ],
+      "notes": "Opens the idols-vs-the-living-God oracle (10:1–16). MT 10:1 = English 10:1 (the +1 offset of ch. 9 resolves by the end of MT 9; see [[reference_jeremiah_versification]]). First YHWH at v. 1."
+    }
+  },
+  {
+    "reference": "Jeremiah 10:2",
+    "chapter": 10,
+    "verse": 2,
+    "language": "hebrew",
+    "hebrew": "כֹּ֣ה ׀ אָמַ֣ר יְהוָ֗ה אֶל־דֶּ֤רֶךְ הַגּוֹיִם֙ אַל־תִּלְמָ֔דוּ וּמֵאֹת֥וֹת הַשָּׁמַ֖יִם אַל־תֵּחָ֑תּוּ כִּֽי־יֵחַ֥תּוּ הַגּוֹיִ֖ם מֵהֵֽמָּה׃",
+    "bsb_english": "This is what the LORD says: “Do not learn the ways of the nations or be terrified by the signs in the heavens, though the nations are terrified by them.",
+    "translation": {
+      "thai": "องค์พระผู้เป็นเจ้าตรัสดังนี้ว่า “อย่าเรียนรู้วิถีทางของบรรดาประชาชาติ และอย่าหวาดกลัวต่อลางบอกเหตุในท้องฟ้า ถึงแม้บรรดาประชาชาติจะหวาดกลัวต่อสิ่งเหล่านั้นก็ตาม",
+      "thai_literal": null,
+      "thai_summary": "พระเจ้าทรงเตือนไม่ให้เลียนแบบศาสนาของชนต่างชาติ โดยเฉพาะการดูดวงดาวและลางบอกเหตุบนท้องฟ้า (โหราศาสตร์) — สิ่งที่ชนชาติอื่นหวาดกลัว แต่ผู้ที่รู้จักพระเจ้าผู้ทรงสร้างดวงดาวไม่จำเป็นต้องกลัว",
+      "key_decisions": [
+        {
+          "hebrew": "כֹה אָמַר יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้าตรัสดังนี้ว่า",
+          "rationale": "Messenger-formula, LOCKED per hebrew_idioms §5.3. Layer 1: יהוה → องค์พระผู้เป็นเจ้า. The MT paseq-glue (כֹּה׀אָמַר) de-glued in the source field."
+        },
+        {
+          "hebrew": "וּמֵאֹתוֹת הַשָּׁמַיִם אַל־תֵּחָתּוּ",
+          "rendering": "อย่าหวาดกลัวต่อลางบอกเหตุในท้องฟ้า",
+          "rationale": "ʾōtôt haššāmayim ‘signs of the heavens’ = celestial omens/astrology → ลางบอกเหตุในท้องฟ้า. The nations dread these; Israel must not learn their ‘way’ (derek haggôyim → วิถีทางของประชาชาติ). שָׁמַיִם here = physical sky → ท้องฟ้า."
+        }
+      ],
+      "notes": "Warning against pagan astrology (signs of the heavens). The idol/false-religion polemic begins. Paseq-glue de-glued."
+    }
+  },
+  {
+    "reference": "Jeremiah 10:3",
+    "chapter": 10,
+    "verse": 3,
+    "language": "hebrew",
+    "hebrew": "כִּֽי־חֻקּ֥וֹת הָֽעַמִּ֖ים הֶ֣בֶל ה֑וּא כִּֽי־עֵץ֙ מִיַּ֣עַר כְּרָת֔וֹ מַעֲשֵׂ֥ה יְדֵ֥י־חָרָ֖שׁ בַּֽמַּעֲצָֽד׃",
+    "bsb_english": "For the customs of the peoples are worthless; they cut down a tree from the forest; it is shaped with a chisel by the hands of a craftsman.",
+    "translation": {
+      "thai": "เพราะธรรมเนียมของชนชาติทั้งหลายนั้นไร้ค่า พวกเขาตัดต้นไม้ต้นหนึ่งจากป่า แล้วช่างก็เอามือถากด้วยขวานให้เป็นรูป",
+      "thai_literal": null,
+      "thai_summary": "เยเรมีย์เริ่มเสียดสีการทำรูปเคารพ: ‘พระ’ ของชนต่างชาติเริ่มต้นจากท่อนไม้ในป่าที่คนตัดมาแล้วแกะสลัก — ของที่มนุษย์สร้างเอง ย่อมไม่มีฤทธิ์อำนาจใด ๆ",
+      "key_decisions": [
+        {
+          "hebrew": "חֻקּוֹת הָעַמִּים הֶבֶל הוּא",
+          "rendering": "ธรรมเนียมของชนชาติทั้งหลายนั้นไร้ค่า",
+          "rationale": "ḥuqqôt hāʿammîm ‘the customs/statutes of the peoples’ → ธรรมเนียมของชนชาติ; hevel ‘vapor/worthlessness’ → ไร้ค่า (the same hevel of 2:5; 8:19). The idol-cult is empty. חָרָשׁ ‘craftsman’ + maʿăṣād ‘axe/chisel’ → ช่าง...ขวาน."
+        }
+      ],
+      "notes": "The idol-satire (vv. 3–5): a god begins as a forest tree, axed and carved by human hands — therefore worthless (hevel). Cf. the fuller satire in Isa 44:9–20. No יהוה token."
+    }
+  },
+  {
+    "reference": "Jeremiah 10:4",
+    "chapter": 10,
+    "verse": 4,
+    "language": "hebrew",
+    "hebrew": "בְּכֶ֥סֶף וּבְזָהָ֖ב יְיַפֵּ֑הוּ בְּמַסְמְר֧וֹת וּבְמַקָּב֛וֹת יְחַזְּק֖וּם וְל֥וֹא יָפִֽיק׃",
+    "bsb_english": "They adorn it with silver and gold and fasten it with hammer and nails, so that it will not totter.",
+    "translation": {
+      "thai": "พวกเขาประดับมันด้วยเงินและทองคำ ตอกตะปูและใช้ค้อนยึดมันไว้ให้แน่นเพื่อไม่ให้มันโคลงเคลง",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "בְּמַסְמְרוֹת וּבְמַקָּבוֹת יְחַזְּקוּם וְלוֹא יָפִיק",
+          "rendering": "ตอกตะปูและใช้ค้อนยึดมันไว้ให้แน่นเพื่อไม่ให้มันโคลงเคลง",
+          "rationale": "HAPAX: masmərâ (nail, the plural מַסְמְרוֹת here) + maqqāvôt ‘hammers’ → ตะปู / ค้อน. The irony: a ‘god’ that must be nailed down so it won't topple (yāpîq ‘totter/wobble’). The helplessness of the idol."
+        }
+      ],
+      "notes": "HAPAX מַשְׂמֵרָה ‘nail.’ The mockery sharpens: the idol must be fastened with nails lest it fall over — utterly dependent, powerless. No יהוה token."
+    }
+  },
+  {
+    "reference": "Jeremiah 10:5",
+    "chapter": 10,
+    "verse": 5,
+    "language": "hebrew",
+    "hebrew": "כְּתֹ֨מֶר מִקְשָׁ֥ה הֵ֨מָּה֙ וְלֹ֣א יְדַבֵּ֔רוּ נָשׂ֥וֹא יִנָּשׂ֖וּא כִּ֣י לֹ֣א יִצְעָ֑דוּ אַל־תִּֽירְא֤וּ מֵהֶם֙ כִּי־לֹ֣א יָרֵ֔עוּ וְגַם־הֵיטֵ֖יב אֵ֥ין אוֹתָֽם׃",
+    "bsb_english": "Like scarecrows in a cucumber patch, their idols cannot speak. They must be carried because they cannot walk. Do not fear them, for they can do no harm, and neither can they do any good.”",
+    "translation": {
+      "thai": "รูปเคารพเหล่านั้นเป็นดั่งหุ่นไล่กาในไร่แตงกวา พูดไม่ได้ ต้องมีคนหามไปเพราะมันเดินไม่ได้ อย่ากลัวมันเลย เพราะมันทำอันตรายอะไรไม่ได้ และก็ทำดีอะไรไม่ได้เช่นกัน",
+      "thai_literal": null,
+      "thai_summary": "ภาพล้อเลียนที่คมคาย: รูปเคารพเป็นเหมือน ‘หุ่นไล่กา’ ในไร่แตงกวา — พูดไม่ได้ เดินไม่ได้ ต้องให้คนแบกหาม ทำทั้งดีและร้ายไม่ได้ จึงไม่มีเหตุให้กลัว ตรงข้ามกับพระเจ้าผู้ทรงพระชนม์",
+      "key_decisions": [
+        {
+          "hebrew": "כְּתֹמֶר מִקְשָׁה הֵמָּה וְלֹא יְדַבֵּרוּ",
+          "rendering": "เป็นดั่งหุ่นไล่กาในไร่แตงกวา พูดไม่ได้",
+          "rationale": "tōmer miqšâ ‘a scarecrow (lit. post/palm-trunk) in a cucumber field’ → หุ่นไล่กาในไร่แตงกวา (miqšâ ‘cucumber field’, cf. Isa 1:8). The idol is a mute, immobile scarecrow."
+        },
+        {
+          "hebrew": "אַל־תִּירְאוּ מֵהֶם כִּי־לֹא יָרֵעוּ וְגַם־הֵיטֵיב אֵין אוֹתָם",
+          "rendering": "อย่ากลัวมันเลย เพราะมันทำอันตรายอะไรไม่ได้ และก็ทำดีอะไรไม่ได้เช่นกัน",
+          "rationale": "‘do not fear them; they can do no harm (rāʿaʿ) nor good (hêṭîv)’ → ทำอันตราย...ไม่ได้ / ทำดี...ไม่ได้. Powerless idols deserve no fear — the punchline of the satire. Verse ends with ס marker (omitted)."
+        }
+      ],
+      "notes": "The satire's climax: idols are scarecrows — mute, immobile (carried), powerless for harm or good. ‘Do not fear them’ (cf. v. 2). The cucumber-field scarecrow image (miqšâ, cf. Isa 1:8). No יהוה token."
+    }
+  },
+  {
+    "reference": "Jeremiah 10:6",
+    "chapter": 10,
+    "verse": 6,
+    "language": "hebrew",
+    "hebrew": "מֵאֵ֥ין כָּמ֖וֹךָ יְהוָ֑ה גָּד֥וֹל אַתָּ֛ה וְגָד֥וֹל שִׁמְךָ֖ בִּגְבוּרָֽה׃",
+    "bsb_english": "There is none like You, O LORD. You are great, and Your name is mighty in power.",
+    "translation": {
+      "thai": "ข้าแต่องค์พระผู้เป็นเจ้า ไม่มีผู้ใดเหมือนพระองค์ พระองค์ทรงยิ่งใหญ่ และพระนามของพระองค์ก็ยิ่งใหญ่ด้วยฤทธานุภาพ",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "מֵאֵין כָּמוֹךָ יְהוָה גָּדוֹל אַתָּה",
+          "rendering": "ข้าแต่องค์พระผู้เป็นเจ้า ไม่มีผู้ใดเหมือนพระองค์ พระองค์ทรงยิ่งใหญ่",
+          "rationale": "Direct address to YHWH (vocative) → ข้าแต่องค์พระผู้เป็นเจ้า (Layer 1: יהוה → องค์พระผู้เป็นเจ้า). ‘There is none like you; you are great’ → ไม่มีผู้ใดเหมือนพระองค์ / พระองค์ทรงยิ่งใหญ่ (ทรงยิ่งใหญ่ with องค์พระผู้เป็นเจ้า adjacent). The doxological contrast to the powerless idols."
+        }
+      ],
+      "notes": "The incomparability doxology (vv. 6–7): against the dead idols, YHWH alone is great, his name mighty. Direct address (vocative). The hymn celebrates the living God."
+    }
+  },
+  {
+    "reference": "Jeremiah 10:7",
+    "chapter": 10,
+    "verse": 7,
+    "language": "hebrew",
+    "hebrew": "מִ֣י לֹ֤א יִֽרָאֲךָ֙ מֶ֣לֶךְ הַגּוֹיִ֔ם כִּ֥י לְךָ֖ יָאָ֑תָה כִּ֣י בְכָל־חַכְמֵ֧י הַגּוֹיִ֛ם וּבְכָל־מַלְכוּתָ֖ם מֵאֵ֥ין כָּמֽוֹךָ׃",
+    "bsb_english": "Who would not fear You, O King of nations? This is Your due. For among all the wise men of the nations and in all their kingdoms, there is none like You.",
+    "translation": {
+      "thai": "ข้าแต่องค์กษัตริย์แห่งประชาชาติ ผู้ใดเล่าจะไม่ยำเกรงพระองค์? เพราะการยำเกรงนั้นเป็นสิ่งสมควรแด่พระองค์ เพราะในบรรดาผู้มีปัญญาของประชาชาติทั้งสิ้น และในทุกอาณาจักรของพวกเขา ไม่มีผู้ใดเหมือนพระองค์เลย",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "מֶלֶךְ הַגּוֹיִם כִּי לְךָ יָאָתָה",
+          "rendering": "ข้าแต่องค์กษัตริย์แห่งประชาชาติ … การยำเกรงนั้นเป็นสิ่งสมควรแด่พระองค์",
+          "rationale": "melek haggôyim ‘King of nations’ (vocative for YHWH) → องค์กษัตริย์แห่งประชาชาติ. HAPAX: yāʾâ ‘be fitting/due’ (yāʾātâ ‘it befits’) → เป็นสิ่งสมควร — fearing YHWH is his rightful due. The universal kingship contrasts the local impotent idols. (Ellipsis joins the clauses.)"
+        }
+      ],
+      "notes": "HAPAX יָאָה ‘befit/be due.’ YHWH as ‘King of the nations’ — universal sovereign, unlike the tribal idols. None among the world's sages or kingdoms compares. No יהוה token in this verse (address continues from v. 6)."
+    }
+  },
+  {
+    "reference": "Jeremiah 10:8",
+    "chapter": 10,
+    "verse": 8,
+    "language": "hebrew",
+    "hebrew": "וּבְאַחַ֖ת יִבְעֲר֣וּ וְיִכְסָ֑לוּ מוּסַ֥ר הֲבָלִ֖ים עֵ֥ץ הֽוּא׃",
+    "bsb_english": "But they are altogether senseless and foolish, instructed by worthless idols made of wood!",
+    "translation": {
+      "thai": "แต่พวกเขาล้วนโง่เขลาและเบาปัญญาเหมือนกันหมด การสั่งสอนจากรูปเคารพอันไร้ค่านั้นก็เป็นเพียงท่อนไม้",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יִבְעֲרוּ וְיִכְסָלוּ מוּסַר הֲבָלִים עֵץ הוּא",
+          "rendering": "ล้วนโง่เขลาและเบาปัญญา … การสั่งสอนจากรูปเคารพอันไร้ค่านั้นก็เป็นเพียงท่อนไม้",
+          "rationale": "bāʿar ‘be brutish/senseless’ + HAPAX kāsal ‘be foolish’ → โง่เขลา / เบาปัญญา. ‘The instruction (mûsar) of worthless idols (hăvālîm) is wood’ → การสั่งสอนจากรูปเคารพอันไร้ค่า...เป็นท่อนไม้ — idolaters are taught by a block of wood. (Ellipsis joins the clauses.)"
+        }
+      ],
+      "notes": "HAPAX כָּסַל ‘be foolish.’ Idolaters are senseless: their ‘teacher’ is a wooden idol (hăvālîm, ‘worthless things,’ the hevel-word). No יהוה token."
+    }
+  },
+  {
+    "reference": "Jeremiah 10:9",
+    "chapter": 10,
+    "verse": 9,
+    "language": "hebrew",
+    "hebrew": "כֶּ֣סֶף מְרֻקָּ֞ע מִתַּרְשִׁ֣ישׁ יוּבָ֗א וְזָהָב֙ מֵֽאוּפָ֔ז מַעֲשֵׂ֥ה חָרָ֖שׁ וִידֵ֣י צוֹרֵ֑ף תְּכֵ֤לֶת וְאַרְגָּמָן֙ לְבוּשָׁ֔ם מַעֲשֵׂ֥ה חֲכָמִ֖ים כֻּלָּֽם׃",
+    "bsb_english": "Hammered silver is brought from Tarshish, and gold from Uphaz—the work of a craftsman from the hands of a goldsmith. Their clothing is blue and purple, all fashioned by skilled workers.",
+    "translation": {
+      "thai": "เงินที่ตีเป็นแผ่นนำมาจากเมืองทารชิช และทองคำมาจากเมืองอูฟาส เป็นฝีมือของช่างและมือของช่างทอง เสื้อผ้าของรูปเคารพเป็นสีน้ำเงินและสีม่วง ล้วนเป็นผลงานของช่างฝีมือทั้งสิ้น",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "מִתַּרְשִׁישׁ … מֵאוּפָז",
+          "rendering": "จากเมืองทารชิช … จากเมืองอูฟาส",
+          "rationale": "תַּרְשִׁישׁ Tarshish → ทารชิช (a distant western source of metals, cf. Ezek 27:12); אוּפָז Uphaz → อูฟาส (a fine-gold source). The idol's costly materials gathered from afar — yet still lifeless. (Ellipsis joins the place-names.)"
+        },
+        {
+          "hebrew": "תְּכֵלֶת וְאַרְגָּמָן לְבוּשָׁם",
+          "rendering": "เสื้อผ้าของรูปเคารพเป็นสีน้ำเงินและสีม่วง",
+          "rationale": "təkēlet (blue/violet) + ʾargāmān (purple) → สีน้ำเงิน / สีม่วง — the royal-colored garments dressing the idol; all the ‘work of skilled men’ (the irony: human craftsmanship cannot make a living god)."
+        }
+      ],
+      "notes": "The idol's expensive trappings (Tarshish silver, Uphaz gold, blue-and-purple robes) — all human craftsmanship, underscoring that it is made, not divine. No יהוה token."
+    }
+  },
+  {
+    "reference": "Jeremiah 10:10",
+    "chapter": 10,
+    "verse": 10,
+    "language": "hebrew",
+    "hebrew": "וַֽיהוָ֤ה אֱלֹהִים֙ אֱמֶ֔ת הֽוּא־אֱלֹהִ֥ים חַיִּ֖ים וּמֶ֣לֶךְ עוֹלָ֑ם מִקִּצְפּוֹ֙ תִּרְעַ֣שׁ הָאָ֔רֶץ וְלֹֽא־יָכִ֥לוּ גוֹיִ֖ם זַעְמֽוֹ׃",
+    "bsb_english": "But the LORD is the true God; He is the living God and eternal King. The earth quakes at His wrath, and the nations cannot endure His indignation.",
+    "translation": {
+      "thai": "แต่องค์พระผู้เป็นเจ้าทรงเป็นพระเจ้าเที่ยงแท้ พระองค์ทรงเป็นพระเจ้าผู้ทรงพระชนม์ และทรงเป็นกษัตริย์นิรันดร์ เมื่อพระองค์ทรงพระพิโรธ แผ่นดินโลกก็สั่นสะเทือน และบรรดาประชาชาติก็ทนต่อพระความกริ้วของพระองค์ไม่ได้",
+      "thai_literal": null,
+      "thai_summary": "ใจกลางของบทเพลงสรรเสริญ: ตรงข้ามกับรูปเคารพที่ตายแล้ว องค์พระผู้เป็นเจ้าทรงเป็น ‘พระเจ้าเที่ยงแท้ พระเจ้าผู้ทรงพระชนม์ และกษัตริย์นิรันดร์’ ผู้ที่แม้แผ่นดินโลกยังสั่นสะเทือนเมื่อทรงพระพิโรธ (หมายเหตุ: ข้อนี้ไม่มีในฉบับเซปตัวจินต์ [LXX] แต่มีในต้นฉบับฮีบรู [MT] ซึ่งฉบับเอเรโมสยึดเป็นหลัก)",
+      "key_decisions": [
+        {
+          "hebrew": "וַיהוָה אֱלֹהִים אֱמֶת הוּא־אֱלֹהִים חַיִּים וּמֶלֶךְ עוֹלָם",
+          "rendering": "องค์พระผู้เป็นเจ้าทรงเป็นพระเจ้าเที่ยงแท้ พระองค์ทรงเป็นพระเจ้าผู้ทรงพระชนม์ และทรงเป็นกษัตริย์นิรันดร์",
+          "rationale": "Layer 1: יהוה → องค์พระผู้เป็นเจ้า. ʾĕlōhîm ʾĕmet ‘true God’ → พระเจ้าเที่ยงแท้; ʾĕlōhîm ḥayyîm ‘living God’ → พระเจ้าผู้ทรงพระชนม์; melek ʿôlām ‘eternal King’ → กษัตริย์นิรันดร์. The three titles answer the dead idols (cf. 1 Thess 1:9 ‘living and true God’). ทรงเป็น/ทรงพระชนม์ with องค์พระผู้เป็นเจ้า adjacent."
+        },
+        {
+          "hebrew": "מִקִּצְפּוֹ תִּרְעַשׁ הָאָרֶץ",
+          "rendering": "เมื่อพระองค์ทรงพระพิโรธ แผ่นดินโลกก็สั่นสะเทือน",
+          "rationale": "qeṣep ‘wrath’ + ‘the earth quakes (rāʿaš)’ → ทรงพระพิโรธ / แผ่นดินโลกสั่นสะเทือน; zaʿam ‘indignation’ the nations cannot endure → พระความกริ้ว. The living God's power vs the idol's impotence (v. 5). Verse ends with ס marker (omitted)."
+        }
+      ],
+      "notes": "The hymn's center: YHWH is the true, living, eternal King — earth-shaking in wrath — against dead idols. NB: this verse is ABSENT from the LXX; Eremos follows the MT (ot_canon_and_text_base) and notes the omission. ‘Living and true God’ echoed at 1 Thess 1:9."
+    }
+  },
+  {
+    "reference": "Jeremiah 10:11",
+    "chapter": 10,
+    "verse": 11,
+    "language": "aramaic",
+    "aramaic": "כִּדְנָה֙ תֵּאמְר֣וּן לְה֔וֹם אֱלָ֣הַיָּ֔א דִּֽי־שְׁמַיָּ֥א וְאַרְקָ֖א לָ֣א עֲבַ֑דוּ יֵאבַ֧דוּ מֵֽאַרְעָ֛א וּמִן־תְּח֥וֹת שְׁמַיָּ֖א אֵֽלֶּה׃",
+    "bsb_english": "Thus you are to tell them: “These gods, who have made neither the heavens nor the earth, will perish from the earth and from under these heavens.”",
+    "translation": {
+      "thai": "พวกเจ้าจงกล่าวแก่พวกเขาดังนี้ว่า “พระทั้งหลายที่มิได้สร้างฟ้าสวรรค์และแผ่นดินโลกนั้น จะพินาศไปจากแผ่นดินโลกและจากใต้ฟ้าสวรรค์เหล่านี้”",
+      "thai_literal": null,
+      "thai_summary": "ข้อนี้เป็นภาษาอารเมค (เพียงข้อเดียวในหนังสือเยเรมีย์) — อาจเป็นถ้อยคำที่ชาวยิวใช้ตอบโต้คนต่างชาติที่พูดอารเมค: ‘พระ’ ใดที่ไม่ได้สร้างฟ้าและดินก็จะต้องสูญสิ้นไป มีเพียงพระเจ้าผู้ทรงสร้างเท่านั้นที่ดำรงอยู่ ภาษาฮีบรู-อารเมคเล่นเสียงคำว่า ‘สร้าง’ (อาบัด) กับ ‘พินาศ’ (เยบัด)",
+      "key_decisions": [
+        {
+          "aramaic": "אֱלָהַיָּא דִּי־שְׁמַיָּא וְאַרְקָא לָא עֲבַדוּ",
+          "rendering": "พระทั้งหลายที่มิได้สร้างฟ้าสวรรค์และแผ่นดินโลก",
+          "rationale": "ARAMAIC verse (the sole Aramaic in Jeremiah; language:aramaic). ʾĕlāhayyāʾ ‘the gods’ — here the FALSE gods → พระ (withholding พระเจ้า, which is reserved for the true God; per the Aramaic divine-names table אֱלָהּ→พระเจ้า applies to the true God, but these are explicitly the non-creating false gods, so พระ). HAPAX אֲרַק (Aramaic ‘earth,’ אַרְקָא — a by-form of אַרְעָא, both in this verse)."
+        },
+        {
+          "aramaic": "יֵאבַדוּ מֵאַרְעָא",
+          "rendering": "จะพินาศไปจากแผ่นดินโลก",
+          "rationale": "WORDPLAY: ʿăvadû ‘they made’ // yēʾvadû ‘they will perish’ (Aramaic, near-homophones) — the made-things that did not make will themselves perish. Footnoted in thai_summary. The verse polemically declares the false gods doomed."
+        }
+      ],
+      "notes": "ARAMAIC verse (the only one in Jeremiah; cf. Dan 2:4b–7:28, Ezra 4–7). A polemical formula the Jews could say to Aramaic-speaking pagans: the non-creating gods will perish. WORDPLAY ʿăvad/ʾăvad (make/perish). No יהוה (the subject is the false gods → พระ). Verse ends with ס marker (omitted). language:aramaic per [[reference_jeremiah_versification]] (the JER-10-11 map entry)."
+    }
+  },
+  {
+    "reference": "Jeremiah 10:12",
+    "chapter": 10,
+    "verse": 12,
+    "language": "hebrew",
+    "hebrew": "עֹשֵׂ֥ה אֶ֨רֶץ֙ בְּכֹח֔וֹ מֵכִ֥ין תֵּבֵ֖ל בְּחָכְמָת֑וֹ וּבִתְבוּנָת֖וֹ נָטָ֥ה שָׁמָֽיִם׃",
+    "bsb_english": "The LORD made the earth by His power; He established the world by His wisdom and stretched out the heavens by His understanding.",
+    "translation": {
+      "thai": "องค์พระผู้เป็นเจ้าผู้ทรงสร้างแผ่นดินโลกด้วยฤทธานุภาพของพระองค์ ผู้ทรงสถาปนาพิภพด้วยพระปัญญาของพระองค์ และผู้ทรงคลี่ฟ้าสวรรค์ออกด้วยความเข้าใจของพระองค์",
+      "thai_literal": null,
+      "thai_summary": "เริ่มบทเพลงสรรเสริญพระผู้สร้าง (ข้อ 12–16 ซ้ำกับ 51:15–19): ตรงข้ามกับ ‘พระ’ ที่ถูกสร้าง พระเจ้าทรงเป็นผู้สร้างเอง — ทรงสร้างโลกด้วยฤทธานุภาพ พระปัญญา และความเข้าใจของพระองค์",
+      "key_decisions": [
+        {
+          "hebrew": "עֹשֵׂה אֶרֶץ בְּכֹחוֹ מֵכִין תֵּבֵל בְּחָכְמָתוֹ וּבִתְבוּנָתוֹ נָטָה שָׁמָיִם",
+          "rendering": "องค์พระผู้เป็นเจ้าผู้ทรงสร้างแผ่นดินโลก … ผู้ทรงสถาปนาพิภพ … ผู้ทรงคลี่ฟ้าสวรรค์ออก",
+          "rationale": "Participial Creator-hymn: ʿōśeh (maker) + mēkîn (establisher) + nāṭâ (stretcher) → rendered as agentive ผู้ทรง- titles (which honorifics-binding treats as divine titles, not bound verbs), keeping the doxological flow. The subject YHWH is supplied as องค์พระผู้เป็นเจ้า (so BSB; the Hebrew continues from v. 10), with no יהוה in this verse's source so no Layer-1 KD required. ‘by power/wisdom/understanding’ → ฤทธานุภาพ / พระปัญญา / ความเข้าใจ."
+        }
+      ],
+      "notes": "Creator-hymn (vv. 12–16 = 51:15–19): the made-idols vs the Maker of all. The subject (YHWH, from v. 10) is supplied explicitly as องค์พระผู้เป็นเจ้า; agentive ผู้ทรง- forms used for the three participles. No יהוה token in this verse."
+    }
+  },
+  {
+    "reference": "Jeremiah 10:13",
+    "chapter": 10,
+    "verse": 13,
+    "language": "hebrew",
+    "hebrew": "לְק֨וֹל תִּתּ֜וֹ הֲמ֥וֹן מַ֨יִם֙ בַּשָּׁמַ֔יִם וַיַּעֲלֶ֥ה נְשִׂאִ֖ים מִקְצֵ֣ה הָאָ֑רֶץ בְּרָקִ֤ים לַמָּטָר֙ עָשָׂ֔ה וַיּ֥וֹצֵא ר֖וּחַ מֵאֹצְרֹתָֽיו׃",
+    "bsb_english": "When He thunders, the waters in the heavens roar; He causes the clouds to rise from the ends of the earth. He generates the lightning with the rain and brings forth the wind from His storehouses.",
+    "translation": {
+      "thai": "เมื่อพระสุรเสียงของพระองค์ดังขึ้น น้ำในฟ้าสวรรค์ก็ส่งเสียงกึกก้อง พระองค์คือผู้ทรงทำให้เมฆลอยขึ้นจากสุดปลายแผ่นดินโลก ผู้ทรงทำให้เกิดฟ้าแลบพร้อมกับฝน และผู้ทรงนำลมออกมาจากคลังของพระองค์",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "לְקוֹל תִּתּוֹ הֲמוֹן מַיִם בַּשָּׁמַיִם",
+          "rendering": "เมื่อพระองค์ทรงเปล่งพระสุรเสียง น้ำในฟ้าสวรรค์ก็ส่งเสียงกึกก้อง",
+          "rationale": "‘at the sound of his giving [voice], a tumult of waters in the heavens’ = his thunder makes the waters roar → ทรงเปล่งพระสุรเสียง / น้ำ...ส่งเสียงกึกก้อง. The storm-theophany: YHWH commands clouds, lightning, rain, wind (continued from v. 12; subject องค์พระผู้เป็นเจ้า/พระองค์)."
+        },
+        {
+          "hebrew": "וַיּוֹצֵא רוּחַ מֵאֹצְרֹתָיו",
+          "rendering": "ทรงนำลมออกมาจากคลังของพระองค์",
+          "rationale": "rûaḥ ‘wind’ (meteorological → ลม) + ʾôṣārôt ‘storehouses’ → คลัง. The poetic image of God's weather-treasuries (cf. Ps 135:7; Job 38:22). The Creator governs the storm the Baals were thought to control."
+        }
+      ],
+      "notes": "The storm-theophany (= 51:16): YHWH, not Baal the storm-god, commands thunder, clouds, lightning, rain, and wind from his ‘storehouses.’ Subject continues from v. 12. No יהוה token."
+    }
+  },
+  {
+    "reference": "Jeremiah 10:14",
+    "chapter": 10,
+    "verse": 14,
+    "language": "hebrew",
+    "hebrew": "נִבְעַ֤ר כָּל־אָדָם֙ מִדַּ֔עַת הֹבִ֥ישׁ כָּל־צוֹרֵ֖ף מִפָּ֑סֶל כִּ֛י שֶׁ֥קֶר נִסְכּ֖וֹ וְלֹא־ר֥וּחַ בָּֽם׃",
+    "bsb_english": "Every man is senseless and devoid of knowledge; every goldsmith is put to shame by his idols. For his molten images are a fraud, and there is no breath in them.",
+    "translation": {
+      "thai": "ทุกคนล้วนโง่เขลาปราศจากความรู้ ช่างทองทุกคนก็ต้องอับอายเพราะรูปเคารพของตน เพราะรูปหล่อของเขาเป็นของเท็จ และไม่มีลมหายใจอยู่ในนั้นเลย",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "כִּי שֶׁקֶר נִסְכּוֹ וְלֹא־רוּחַ בָּם",
+          "rendering": "เพราะรูปหล่อของเขาเป็นของเท็จ และไม่มีลมหายใจอยู่ในนั้นเลย",
+          "rationale": "nesek ‘molten/cast image’ → รูปหล่อ; šeqer ‘falsehood/fraud’ → ของเท็จ; ‘no rûaḥ (breath) in them’ → ไม่มีลมหายใจ (rûaḥ as breath/life, the decisive lack — vs the living God, v. 10). The idol is a lifeless lie."
+        }
+      ],
+      "notes": "= 51:17. The verdict on idol-makers: shamed by lifeless frauds with no breath (rûaḥ) — the antithesis of the living God (v. 10). No יהוה token."
+    }
+  },
+  {
+    "reference": "Jeremiah 10:15",
+    "chapter": 10,
+    "verse": 15,
+    "language": "hebrew",
+    "hebrew": "הֶ֣בֶל הֵ֔מָּה מַעֲשֵׂ֖ה תַּעְתֻּעִ֑ים בְּעֵ֥ת פְּקֻדָּתָ֖ם יֹאבֵֽדוּ׃",
+    "bsb_english": "They are worthless, a work to be mocked. In the time of their punishment they will perish.",
+    "translation": {
+      "thai": "มันเป็นของไร้ค่า เป็นผลงานที่น่าหัวเราะเยาะ ในเวลาแห่งการลงโทษมัน มันก็จะพินาศไป",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "הֶבֶל הֵמָּה … בְּעֵת פְּקֻדָּתָם יֹאבֵדוּ",
+          "rendering": "มันเป็นของไร้ค่า … ในเวลาแห่งการลงโทษมัน มันก็จะพินาศไป",
+          "rationale": "hevel ‘worthless/vapor’ → ของไร้ค่า; taʿtuʿîm ‘mockery/delusion’ → น่าหัวเราะเยาะ. pəquddâ here = sense (4) judgment-visitation (noun) → การลงโทษ per paqad_visit_attend_2026-05.md; the idols ‘perish’ (yōʾvēdû, echoing the Aramaic of v. 11). (Ellipsis joins the clauses.)"
+        }
+      ],
+      "notes": "= 51:18. The idols are worthless mockery, doomed to perish ‘at the time of their punishment’ (פְּקֻדָּה sense-4) — echoing the Aramaic verdict of v. 11 (ʾāvad ‘perish’). No יהוה token."
+    }
+  },
+  {
+    "reference": "Jeremiah 10:16",
+    "chapter": 10,
+    "verse": 16,
+    "language": "hebrew",
+    "hebrew": "לֹֽא־כְאֵ֜לֶּה חֵ֣לֶק יַעֲקֹ֗ב כִּֽי־יוֹצֵ֤ר הַכֹּל֙ ה֔וּא וְיִ֨שְׂרָאֵ֔ל שֵׁ֖בֶט נַֽחֲלָת֑וֹ יְהוָ֥ה צְבָא֖וֹת שְׁמֽוֹ׃",
+    "bsb_english": "The Portion of Jacob is not like these, for He is the Maker of all things, and Israel is the tribe of His inheritance—the LORD of Hosts is His name.",
+    "translation": {
+      "thai": "ส่วนมรดกของยาโคบนั้นไม่เหมือนสิ่งเหล่านี้เลย เพราะพระองค์ทรงเป็นผู้สร้างสรรพสิ่ง และอิสราเอลเป็นเผ่าแห่งมรดกของพระองค์ องค์พระผู้เป็นเจ้าจอมโยธาคือพระนามของพระองค์",
+      "thai_literal": null,
+      "thai_summary": "ต่างจากรูปเคารพไร้ค่า พระเจ้าผู้เป็น ‘ส่วนมรดก’ ของยาโคบทรงเป็นผู้สร้างสรรพสิ่ง และทรงเลือกอิสราเอลเป็นกรรมสิทธิ์พิเศษของพระองค์ — ความสัมพันธ์ที่มีชีวิต ไม่ใช่ไม้แกะสลัก",
+      "key_decisions": [
+        {
+          "hebrew": "חֵלֶק יַעֲקֹב … יוֹצֵר הַכֹּל הוּא",
+          "rendering": "ส่วนมรดกของยาโคบ … พระองค์ทรงเป็นผู้สร้างสรรพสิ่ง",
+          "rationale": "ḥēleq yaʿăqōv ‘the Portion of Jacob’ = YHWH himself as Israel's inheritance-portion → ส่วนมรดกของยาโคบ (cf. Ps 16:5; 73:26). yôṣēr hakkōl ‘former of all things’ → ผู้สร้างสรรพสิ่ง. The living Creator vs the dead idols."
+        },
+        {
+          "hebrew": "יְהוָה צְבָאוֹת שְׁמוֹ",
+          "rendering": "องค์พระผู้เป็นเจ้าจอมโยธาคือพระนามของพระองค์",
+          "rationale": "yhwh ṣəvāʾôt šəmô ‘YHWH of Hosts is his name’ → องค์พระผู้เป็นเจ้าจอมโยธาคือพระนามของพระองค์. Layer 1: יהוה → องค์พระผู้เป็นเจ้า; Tsebaoth → จอมโยธา. Verse ends with ס marker (omitted)."
+        }
+      ],
+      "notes": "= 51:19. The climactic contrast: YHWH, the ‘Portion of Jacob’ and Maker of all, who claims Israel as his inheritance — ‘YHWH of Hosts is his name.’ Tsebaoth → จอมโยธา."
+    }
+  },
+  {
+    "reference": "Jeremiah 10:17",
+    "chapter": 10,
+    "verse": 17,
+    "language": "hebrew",
+    "hebrew": "אִסְפִּ֥י מֵאֶ֖רֶץ כִּנְעָתֵ֑ךְ יֹשֶׁ֖בֶת בַּמָּצֽוֹר׃",
+    "bsb_english": "Gather up your belongings from this land, you who live under siege.",
+    "translation": {
+      "thai": "เจ้าผู้อาศัยอยู่ภายใต้การถูกล้อมเอ๋ย จงเก็บข้าวของของเจ้าขึ้นจากแผ่นดินนี้",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "אִסְפִּי מֵאֶרֶץ כִּנְעָתֵךְ יֹשֶׁבֶת בַּמָּצוֹר",
+          "rendering": "จงเก็บข้าวของของเจ้าขึ้นจากแผ่นดินนี้ เจ้าผู้อาศัยอยู่ภายใต้การถูกล้อม",
+          "rationale": "HAPAX: kinʿâ ‘bundle/wares/belongings’ → ข้าวของ. ʾāsap ‘gather up’ + ‘you who dwell under siege (māṣôr)’ → เก็บ...ขึ้น / ผู้อาศัยอยู่ภายใต้การถูกล้อม. The command to pack for exile — the oracle turns from idols to the coming deportation. Verse ends with ס marker (omitted)."
+        }
+      ],
+      "notes": "HAPAX כִּנְעָה ‘bundle/belongings.’ Transition to the exile-oracle (vv. 17–22): pack up, the siege has come. No יהוה token."
+    }
+  },
+  {
+    "reference": "Jeremiah 10:18",
+    "chapter": 10,
+    "verse": 18,
+    "language": "hebrew",
+    "hebrew": "כִּֽי־כֹה֙ אָמַ֣ר יְהוָ֔ה הִנְנִ֥י קוֹלֵ֛עַ אֶת־יוֹשְׁבֵ֥י הָאָ֖רֶץ בַּפַּ֣עַם הַזֹּ֑את וַהֲצֵר֥וֹתִי לָהֶ֖ם לְמַ֥עַן יִמְצָֽאוּ׃",
+    "bsb_english": "For this is what the LORD says: “Behold, at this time I will sling out the inhabitants of the land; I will bring distress on them, that they may be captured.”",
+    "translation": {
+      "thai": "เพราะองค์พระผู้เป็นเจ้าตรัสดังนี้ว่า “ดูเถิด คราวนี้เราจะเหวี่ยงผู้อาศัยในแผ่นดินนี้ออกไปดั่งสลิงเหวี่ยงก้อนหิน และเราจะนำความทุกข์ลำเค็ญมาสู่พวกเขา เพื่อพวกเขาจะได้รู้สำนึก",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "כֹה אָמַר יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้าตรัสดังนี้ว่า",
+          "rationale": "Messenger-formula, LOCKED per hebrew_idioms §5.3. Layer 1: יהוה → องค์พระผู้เป็นเจ้า."
+        },
+        {
+          "hebrew": "הִנְנִי קוֹלֵעַ אֶת־יוֹשְׁבֵי הָאָרֶץ … לְמַעַן יִמְצָאוּ",
+          "rendering": "เราจะเหวี่ยงผู้อาศัยในแผ่นดินนี้ออกไปดั่งสลิงเหวี่ยงก้อนหิน … เพื่อพวกเขาจะได้รู้สำนึก",
+          "rationale": "qālaʿ ‘sling (as from a slingshot)’ → เหวี่ยง...ดั่งสลิงเหวี่ยงก้อนหิน — the violent hurling of the people into exile. Divine first-person (เรา). ‘that they may find/feel [it]’ (yimṣāʾû) → รู้สำนึก (the purpose: that they come to feel/realize). Verse ends with ס marker (omitted). (Ellipsis joins the clauses.)"
+        }
+      ],
+      "notes": "The exile announced: YHWH will ‘sling out’ the inhabitants like a stone from a sling — sudden, forcible deportation, to bring them to their senses. Divine first-person."
+    }
+  },
+  {
+    "reference": "Jeremiah 10:19",
+    "chapter": 10,
+    "verse": 19,
+    "language": "hebrew",
+    "hebrew": "א֥וֹי לִי֙ עַל־שִׁבְרִ֔י נַחְלָ֖ה מַכָּתִ֑י וַאֲנִ֣י אָמַ֔רְתִּי אַ֛ךְ זֶ֥ה חֳלִ֖י וְאֶשָּׂאֶֽנּוּ׃",
+    "bsb_english": "Woe to me because of my brokenness; my wound is grievous! But I said, “This is truly my sickness, and I must bear it.”",
+    "translation": {
+      "thai": "วิบัติแก่ข้าพเจ้าเพราะความแหลกสลายของข้าพเจ้า บาดแผลของข้าพเจ้าก็สาหัส แต่ข้าพเจ้าได้กล่าวว่า “นี่เป็นความเจ็บป่วยของข้าพเจ้าจริง ๆ และข้าพเจ้าจะต้องทนรับมัน”",
+      "thai_literal": null,
+      "thai_summary": "เสียงของเยรูซาเล็ม (หรือผู้เผยพระวจนะในนามของเมือง) คร่ำครวญถึงความบอบช้ำจากภัยพิบัติ ยอมรับว่าต้องแบกรับความเจ็บปวดนี้ — ผสมผสานเสียงของเมืองที่ถูกทำลายกับความปวดร้าวของผู้เผยพระวจนะ",
+      "key_decisions": [
+        {
+          "hebrew": "אוֹי לִי עַל־שִׁבְרִי נַחְלָה מַכָּתִי",
+          "rendering": "วิบัติแก่ข้าพเจ้าเพราะความแหลกสลายของข้าพเจ้า บาดแผลของข้าพเจ้าก็สาหัส",
+          "rationale": "ʾôy lî ‘woe to me’ → วิบัติแก่ข้าพเจ้า; šever ‘brokenness/fracture’ → ความแหลกสลาย; ‘my wound (makkâ) is grievous (naḥlâ)’ → บาดแผล...สาหัส. The first-person lament of personified Zion (or the prophet with her); ข้าพเจ้า."
+        }
+      ],
+      "notes": "The lament of stricken Zion (vv. 19–20), voiced in the first person — wound grievous, resolved to bear it. The prophet and the city's voices merge (cf. 8:21). No יהוה token."
+    }
+  },
+  {
+    "reference": "Jeremiah 10:20",
+    "chapter": 10,
+    "verse": 20,
+    "language": "hebrew",
+    "hebrew": "אָהֳלִ֣י שֻׁדָּ֔ד וְכָל־מֵיתָרַ֖י נִתָּ֑קוּ בָּנַ֤י יְצָאֻ֨נִי֙ וְאֵינָ֔ם אֵין־נֹטֶ֥ה עוֹד֙ אָהֳלִ֔י וּמֵקִ֖ים יְרִיעוֹתָֽי׃",
+    "bsb_english": "My tent is destroyed, and all its ropes are snapped. My sons have departed from me and are no more. There is no one left to pitch my tent or set up my curtains.",
+    "translation": {
+      "thai": "เต็นท์ของข้าพเจ้าถูกทำลาย และเชือกทุกเส้นของข้าพเจ้าก็ขาดสะบั้น ลูก ๆ ของข้าพเจ้าได้จากข้าพเจ้าไปและไม่อยู่อีกแล้ว ไม่มีใครเหลือที่จะกางเต็นท์ของข้าพเจ้าหรือขึงม่านเต็นท์ของข้าพเจ้าได้อีก",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "אָהֳלִי שֻׁדָּד … בָּנַי יְצָאֻנִי וְאֵינָם",
+          "rendering": "เต็นท์ของข้าพเจ้าถูกทำลาย … ลูก ๆ ของข้าพเจ้าได้จากข้าพเจ้าไปและไม่อยู่อีกแล้ว",
+          "rationale": "The tent-imagery for Zion's devastation: ʾōhel (tent) destroyed, mêtārîm (tent-ropes) snapped, children gone (exiled/dead). → เต็นท์ / เชือก / ลูก ๆ...จากไป. Zion as a collapsed tent-dwelling, children carried off. (Ellipsis joins the clauses.)"
+        }
+      ],
+      "notes": "Zion's lament continued: the tent (the nation/city) destroyed, children gone into exile, no one to rebuild. The nomadic tent-imagery for the shattered community. No יהוה token."
+    }
+  },
+  {
+    "reference": "Jeremiah 10:21",
+    "chapter": 10,
+    "verse": 21,
+    "language": "hebrew",
+    "hebrew": "כִּ֤י נִבְעֲרוּ֙ הָֽרֹעִ֔ים וְאֶת־יְהוָ֖ה לֹ֣א דָרָ֑שׁוּ עַל־כֵּן֙ לֹ֣א הִשְׂכִּ֔ילוּ וְכָל־מַרְעִיתָ֖ם נָפֽוֹצָה׃",
+    "bsb_english": "For the shepherds have become senseless; they do not seek the LORD. Therefore they have not prospered, and all their flock is scattered.",
+    "translation": {
+      "thai": "เพราะบรรดาผู้เลี้ยงดูประชาชนกลายเป็นคนโง่เขลา และไม่ได้แสวงหาองค์พระผู้เป็นเจ้า เพราะฉะนั้นพวกเขาจึงไม่เจริญ และฝูงแกะทั้งสิ้นของพวกเขาก็กระจัดกระจายไป",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "נִבְעֲרוּ הָרֹעִים וְאֶת־יְהוָה לֹא דָרָשׁוּ",
+          "rendering": "บรรดาผู้เลี้ยงดูประชาชนกลายเป็นคนโง่เขลา และไม่ได้แสวงหาองค์พระผู้เป็นเจ้า",
+          "rationale": "rōʿîm ‘shepherds’ = the rulers/leaders → ผู้เลี้ยงดูประชาชน (cf. 2:8); ‘did not seek (dāraš) YHWH’ → ไม่ได้แสวงหาองค์พระผู้เป็นเจ้า (Layer 1). The senseless leaders are the root cause: not seeking God, they fail, and the flock (people) scatters (cf. 23:1–2; Ezek 34)."
+        }
+      ],
+      "notes": "The root of the catastrophe: senseless ‘shepherds’ (rulers) who did not seek YHWH, so the flock is scattered (cf. 23:1–4; Ezek 34). Verse ends with ס marker (omitted)."
+    }
+  },
+  {
+    "reference": "Jeremiah 10:22",
+    "chapter": 10,
+    "verse": 22,
+    "language": "hebrew",
+    "hebrew": "ק֤וֹל שְׁמוּעָה֙ הִנֵּ֣ה בָאָ֔ה וְרַ֥עַשׁ גָּד֖וֹל מֵאֶ֣רֶץ צָפ֑וֹן לָשׂ֞וּם אֶת־עָרֵ֧י יְהוּדָ֛ה שְׁמָמָ֖ה מְע֥וֹן תַּנִּֽים׃",
+    "bsb_english": "Listen! The sound of a report is coming—a great commotion from the land to the north—to make the cities of Judah a desolation, a haunt for jackals.",
+    "translation": {
+      "thai": "ฟังเถิด เสียงข่าวลือกำลังมา และมีเสียงอึกทึกครึกโครมใหญ่หลวงมาจากแผ่นดินทางทิศเหนือ เพื่อจะทำให้เมืองต่าง ๆ ของยูดาห์กลายเป็นที่รกร้าง เป็นที่อาศัยของหมาใน",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "רַעַשׁ גָּדוֹל מֵאֶרֶץ צָפוֹן … מְעוֹן תַּנִּים",
+          "rendering": "เสียงอึกทึกครึกโครมใหญ่หลวงมาจากแผ่นดินทางทิศเหนือ … ที่อาศัยของหมาใน",
+          "rationale": "raʿaš gādôl ‘a great commotion/quaking’ from ʾereṣ ṣāpôn ‘the land of the north’ → เสียงอึกทึกครึกโครม / แผ่นดินทางทิศเหนือ (the foe from the north, 1:14; 6:22). məʿôn tannîm ‘den of jackals’ → ที่อาศัยของหมาใน (cf. 9:10). (Ellipsis joins the clauses.)"
+        }
+      ],
+      "notes": "The foe-from-the-north report (1:14; 4:6; 6:22) — the invader comes to make Judah's cities a jackal-haunted desolation (echoing 9:10). Verse ends with ס marker (omitted)."
+    }
+  },
+  {
+    "reference": "Jeremiah 10:23",
+    "chapter": 10,
+    "verse": 23,
+    "language": "hebrew",
+    "hebrew": "יָדַ֣עְתִּי יְהוָ֔ה כִּ֛י לֹ֥א לָאָדָ֖ם דַּרְכּ֑וֹ לֹֽא־לְאִ֣ישׁ הֹלֵ֔ךְ וְהָכִ֖ין אֶֽת־צַעֲדֽוֹ׃",
+    "bsb_english": "I know, O LORD, that a man’s way is not his own; no one who walks directs his own steps.",
+    "translation": {
+      "thai": "ข้าแต่องค์พระผู้เป็นเจ้า ข้าพระองค์รู้ว่าทางของมนุษย์ไม่ได้ขึ้นอยู่กับตัวเขาเอง คนที่เดินไปนั้นไม่อาจกำหนดย่างก้าวของตนเองได้",
+      "thai_literal": null,
+      "thai_summary": "เยเรมีย์เริ่มอธิษฐาน: เขายอมรับว่ามนุษย์ไม่ได้ควบคุมชะตาชีวิตของตน — ทุกย่างก้าวอยู่ในพระหัตถ์ของพระเจ้า (เทียบ สุภาษิต 16:9; 20:24) เป็นการนอบน้อมต่อพระเจ้าก่อนจะทูลขอการตีสอนด้วยความเมตตา",
+      "key_decisions": [
+        {
+          "hebrew": "יָדַעְתִּי יְהוָה כִּי לֹא לָאָדָם דַּרְכּוֹ",
+          "rendering": "ข้าแต่องค์พระผู้เป็นเจ้า ข้าพระองค์รู้ว่าทางของมนุษย์ไม่ได้ขึ้นอยู่กับตัวเขาเอง",
+          "rationale": "Jeremiah addresses YHWH (vocative) → ข้าแต่องค์พระผู้เป็นเจ้า (Layer 1: יהוה → องค์พระผู้เป็นเจ้า); first-person humble ข้าพระองค์ (human-to-God, RULES §3). ‘a man's way (derek) is not his own’ → ทางของมนุษย์ไม่ได้ขึ้นอยู่กับตัวเขาเอง (cf. Prov 16:9; 20:24)."
+        }
+      ],
+      "notes": "Jeremiah's prayer (vv. 23–25): human destiny is in God's hands, not man's (Prov 16:9; 20:24). The humble acknowledgment before the plea for merciful discipline (v. 24)."
+    }
+  },
+  {
+    "reference": "Jeremiah 10:24",
+    "chapter": 10,
+    "verse": 24,
+    "language": "hebrew",
+    "hebrew": "יַסְּרֵ֥נִי יְהוָ֖ה אַךְ־בְּמִשְׁפָּ֑ט אַל־בְּאַפְּךָ֖ פֶּן־תַּמְעִטֵֽנִי׃",
+    "bsb_english": "Correct me, O LORD, but only with justice—not in Your anger, or You will bring me to nothing.",
+    "translation": {
+      "thai": "ข้าแต่องค์พระผู้เป็นเจ้า ขอทรงตีสอนข้าพระองค์เถิด แต่ขอเพียงด้วยความยุติธรรม ไม่ใช่ด้วยพระพิโรธของพระองค์ มิฉะนั้นพระองค์จะทำให้ข้าพระองค์เหลือน้อยจนสูญสิ้น",
+      "thai_literal": null,
+      "thai_summary": "คำอธิษฐานที่โด่งดัง: เยเรมีย์ไม่ได้ขอให้พ้นจากการตีสอน แต่ขอให้พระเจ้าทรงตีสอน ‘ด้วยความยุติธรรม ไม่ใช่ด้วยพระพิโรธ’ — ยอมรับว่าตนสมควรถูกตีสอน แต่วิงวอนขอพระเมตตา เพราะหากพระเจ้าทรงลงโทษตามที่สมควรจริง ๆ ก็คงไม่มีใครเหลือรอด",
+      "key_decisions": [
+        {
+          "hebrew": "יַסְּרֵנִי יְהוָה אַךְ־בְּמִשְׁפָּט אַל־בְּאַפְּךָ",
+          "rendering": "ขอทรงตีสอนข้าพระองค์เถิด แต่ขอเพียงด้วยความยุติธรรม ไม่ใช่ด้วยพระพิโรธของพระองค์",
+          "rationale": "yāsar ‘discipline/correct’ → ตีสอน; petition to YHWH (vocative) → ข้าแต่องค์พระผู้เป็นเจ้า + ขอทรง (royal petition, องค์พระผู้เป็นเจ้า adjacent so ทรงตีสอน has its divine subject). bəmišpāṭ ‘with justice/measure’ → ด้วยความยุติธรรม; ʾap ‘anger’ (the addressee's, 2nd person) → พระพิโรธของพระองค์. Layer 1: יהוה → องค์พระผู้เป็นเจ้า."
+        }
+      ],
+      "notes": "The famous prayer for measured discipline (cf. 30:11; Ps 6:1; 38:1): correct me in justice, not wrath, lest I be annihilated. The plea for mercy-within-judgment. אַף (anger) → พระพิโรธ (the addressee is God)."
+    }
+  },
+  {
+    "reference": "Jeremiah 10:25",
+    "chapter": 10,
+    "verse": 25,
+    "language": "hebrew",
+    "hebrew": "שְׁפֹ֣ךְ חֲמָתְךָ֗ עַל־הַגּוֹיִם֙ אֲשֶׁ֣ר לֹֽא־יְדָע֔וּךָ וְעַל֙ מִשְׁפָּח֔וֹת אֲשֶׁ֥ר בְּשִׁמְךָ֖ לֹ֣א קָרָ֑אוּ כִּֽי־אָכְל֣וּ אֶֽת־יַעֲקֹ֗ב וַאֲכָלֻ֨הוּ֙ וַיְכַלֻּ֔הוּ וְאֶת־נָוֵ֖הוּ הֵשַֽׁמּוּ׃",
+    "bsb_english": "Pour out Your wrath on the nations that do not acknowledge You, and on the clans that do not call on Your name. For they have devoured Jacob; they have consumed him and finished him off and devastated his homeland.",
+    "translation": {
+      "thai": "ขอทรงเทพระพิโรธของพระองค์ลงเหนือบรรดาประชาชาติที่ไม่รู้จักพระองค์ และเหนือตระกูลทั้งหลายที่ไม่ได้ร้องออกพระนามของพระองค์ เพราะพวกเขาได้กลืนกินยาโคบ ได้เขมือบเขาจนหมดสิ้น และทำให้ถิ่นฐานของเขาร้างเปล่า",
+      "thai_literal": null,
+      "thai_summary": "เยเรมีย์ปิดคำอธิษฐานด้วยการทูลขอให้พระเจ้าทรงลงโทษชนชาติที่กลืนกินอิสราเอล — ข้อนี้แทบจะตรงกับสดุดี 79:6–7 ความยุติธรรมของพระเจ้าครอบคลุมทั้งการตีสอนประชากรของพระองค์และการพิพากษาผู้ที่กดขี่พวกเขา",
+      "key_decisions": [
+        {
+          "hebrew": "שְׁפֹךְ חֲמָתְךָ עַל־הַגּוֹיִם אֲשֶׁר לֹא־יְדָעוּךָ",
+          "rendering": "ขอทรงเทพระพิโรธของพระองค์ลงเหนือบรรดาประชาชาติที่ไม่รู้จักพระองค์",
+          "rationale": "‘pour out your wrath (ḥēmâ) on the nations that do not know you’ → ขอทรงเทพระพิโรธ...เหนือประชาชาติที่ไม่รู้จักพระองค์. Petition to God (ขอทรง; the implied addressee YHWH from v. 24's vocative). חֵמָה (the addressee's wrath) → พระพิโรธของพระองค์. Nearly verbatim Ps 79:6–7. גּוֹיִם → ประชาชาติ."
+        },
+        {
+          "hebrew": "כִּי־אָכְלוּ אֶת־יַעֲקֹב … וְאֶת־נָוֵהוּ הֵשַׁמּוּ",
+          "rendering": "เพราะพวกเขาได้กลืนกินยาโคบ … และทำให้ถิ่นฐานของเขาร้างเปล่า",
+          "rationale": "‘they devoured Jacob (ʾākal) ... and devastated his homeland (nāweh)’ → กลืนกินยาโคบ / ถิ่นฐาน...ร้างเปล่า. The ground of the plea: the nations consumed Israel. (Ellipsis joins the clauses.)"
+        }
+      ],
+      "notes": "The prayer closes (= Ps 79:6–7): pour wrath on the nations that devoured Jacob. Petition to God (ขอทรง). Verse ends with the פ (petuchah) marker in MT (omitted from source). Concludes the idols/exile oracle."
+    }
+  }
+]
