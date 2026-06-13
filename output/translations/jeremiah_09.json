@@ -1,0 +1,597 @@
+[
+  {
+    "reference": "Jeremiah 9:1",
+    "chapter": 9,
+    "verse": 1,
+    "language": "hebrew",
+    "hebrew": "מִֽי־יִתְּנֵ֣נִי בַמִּדְבָּ֗ר מְלוֹן֙ אֹֽרְחִ֔ים וְאֶֽעֶזְבָה֙ אֶת־עַמִּ֔י וְאֵלְכָ֖ה מֵֽאִתָּ֑ם כִּ֤י כֻלָּם֙ מְנָ֣אֲפִ֔ים עֲצֶ֖רֶת בֹּגְדִֽים׃",
+    "bsb_english": "If only I had a traveler’s lodge in the wilderness, I would abandon my people and depart from them, for they are all adulterers, a crowd of faithless people.",
+    "translation": {
+      "thai": "โอ้ ขอให้ข้าพเจ้ามีที่พักของคนเดินทางในถิ่นทุรกันดาร ข้าพเจ้าจะได้ละทิ้งประชากรของข้าพเจ้าและจากพวกเขาไปเสีย เพราะพวกเขาล้วนเป็นคนล่วงประเวณี เป็นฝูงชนที่ทรยศ",
+      "thai_literal": null,
+      "thai_summary": "ความขัดแย้งในใจของผู้เผยพระวจนะ: เขารักประชากรจนร้องไห้ให้ (ข้อก่อนหน้า) แต่ก็เหนื่อยหน่ายความบาปของพวกเขาจนอยากหนีไปอยู่ลำพังในถิ่นทุรกันดาร (หมายเหตุการแบ่งข้อ: ข้อนี้คือ 9:1 ตามต้นฉบับฮีบรู แต่ตรงกับ 9:2 ในฉบับภาษาอังกฤษ ทั้งบทที่ 9 จึงเลื่อนไป 1 ข้อ — ฉบับเอเรโมสยึดการแบ่งข้อแบบ MT)",
+      "key_decisions": [
+        {
+          "hebrew": "מְלוֹן אֹרְחִים",
+          "rendering": "ที่พักของคนเดินทาง",
+          "rationale": "məlôn ʾōrəḥîm ‘a travelers' lodge/wayfarers' inn’ → ที่พักของคนเดินทาง. Jeremiah's longing to flee his adulterous, treacherous people (mənāʾăpîm / bōgədîm) into desert solitude — the prophet's anguished revulsion (cf. the weeping of 8:23/9:1-Eng)."
+        },
+        {
+          "hebrew": "versification: MT 9:1 = English/BSB 9:2",
+          "rendering": "(MT-anchored numbering)",
+          "rationale": "Eremos anchors on MT (verse_schema §2.1): the whole of MT Jeremiah ch. 9 is numbered one verse lower than English (MT 9:N = BSB 9:N+1), because the English chapter break falls at MT 8:23 (= Eng 9:1). The bsb_english field carries BSB 9:2 (the correct content match) for back-translation alignment. No `versification` sub-object (no data/versification_map.json entry for JER 9 — would false-flag). See [[reference_jeremiah_versification]]."
+        }
+      ],
+      "notes": "VERSIFICATION: MT 9:1 = English/BSB 9:2 (entire MT ch. 9 shifted +1 vs English; see 8:23 note). bsb_english realigned by hand to BSB 9:2. The prophet's longing to abandon his faithless people — held in tension with his tears for them (8:23). No יהוה token."
+    }
+  },
+  {
+    "reference": "Jeremiah 9:2",
+    "chapter": 9,
+    "verse": 2,
+    "language": "hebrew",
+    "hebrew": "וַֽיַּדְרְכ֤וּ אֶת־לְשׁוֹנָם֙ קַשְׁתָּ֣ם שֶׁ֔קֶר וְלֹ֥א לֶאֱמוּנָ֖ה גָּבְר֣וּ בָאָ֑רֶץ כִּי֩ מֵרָעָ֨ה אֶל־רָעָ֧ה ׀ יָצָ֛אוּ וְאֹתִ֥י לֹֽא־יָדָ֖עוּ נְאֻם־יְהוָֽה׃",
+    "bsb_english": "“They bend their tongues like bows; lies prevail over truth in the land. For they proceed from evil to evil, and they do not take Me into account,” declares the LORD.",
+    "translation": {
+      "thai": "“พวกเขาโก่งลิ้นของตนดั่งคันธนู ความเท็จจึงมีชัยเหนือความสัตย์ซื่อในแผ่นดิน เพราะพวกเขาออกจากความชั่วอย่างหนึ่งไปสู่ความชั่วอีกอย่างหนึ่ง และไม่รู้จักเรา องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "נְאֻם־יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้",
+          "rationale": "neʾum-YHWH → องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้, LOCKED per hebrew_idioms §5.4. Layer 1: יהוה → องค์พระผู้เป็นเจ้า. First YHWH occurrence in MT ch. 9 (Layer 2 footnote)."
+        },
+        {
+          "hebrew": "וַיַּדְרְכוּ אֶת־לְשׁוֹנָם קַשְׁתָּם שֶׁקֶר",
+          "rendering": "พวกเขาโก่งลิ้นของตนดั่งคันธนู ความเท็จจึงมีชัย",
+          "rationale": "‘they bend their tongue, their bow, [for] falsehood’ → โก่งลิ้น...ดั่งคันธนู (the tongue as a weapon shooting lies, šeqer). They ‘grow strong’ for lies, not faithfulness (ʾĕmûnâ). The MT paseq-glue (רָעָה׀יָצָאוּ) de-glued in the source field. Verse ends with ס marker (omitted)."
+        }
+      ],
+      "notes": "MT 9:2 = BSB 9:3 (bsb_english realigned). The tongue-as-bow image for habitual lying; ‘they do not know Me’ (the relational-knowing failure, 2:8; 4:22; 9:5). Paseq-glue de-glued. First YHWH in the chapter."
+    }
+  },
+  {
+    "reference": "Jeremiah 9:3",
+    "chapter": 9,
+    "verse": 3,
+    "language": "hebrew",
+    "hebrew": "אִ֤ישׁ מֵרֵעֵ֨הוּ֙ הִשָּׁמֵ֔רוּ וְעַל־כָּל־אָ֖ח אַל־תִּבְטָ֑חוּ כִּ֤י כָל־אָח֙ עָק֣וֹב יַעְקֹ֔ב וְכָל־רֵ֖עַ רָכִ֥יל יַהֲלֹֽךְ׃",
+    "bsb_english": "“Let everyone guard against his neighbor; do not trust any brother, for every brother deals craftily, and every friend spreads slander.",
+    "translation": {
+      "thai": "“ให้ทุกคนระวังเพื่อนบ้านของตน และอย่าวางใจในพี่น้องคนใดเลย เพราะพี่น้องทุกคนล้วนแต่หลอกลวงเอารัดเอาเปรียบ และเพื่อนทุกคนก็เที่ยวนินทาว่าร้าย",
+      "thai_literal": null,
+      "thai_summary": "สังคมที่ความไว้วางใจล่มสลาย: แม้แต่พี่น้องก็เชื่อใจไม่ได้ ภาษาฮีบรูเล่นคำว่า ‘อาโกบ ยาโคบ’ (หลอกลวง/เอาเปรียบ) ซึ่งมาจากรากเดียวกับชื่อ ‘ยาโคบ’ ผู้แย่งสิทธิ์ — บ่งบอกว่าทุกคนกลายเป็น ‘ยาโคบผู้หลอกลวง’ ไปหมด",
+      "key_decisions": [
+        {
+          "hebrew": "כָל־אָח עָקוֹב יַעְקֹב",
+          "rendering": "พี่น้องทุกคนล้วนแต่หลอกลวงเอารัดเอาเปรียบ",
+          "rationale": "WORDPLAY: ʿāqôv yaʿqōv ‘deceives/supplants’ (root עקב) puns on the name יַעֲקֹב Jacob (the heel-grabber/supplanter, Gen 25:26; 27:36). Rendered หลอกลวงเอารัดเอาเปรียบ (deceive-and-supplant); the Jacob-name pun footnoted in thai_summary per wordplay_and_paronomasia §1 (sound-play preserved by note, meaning prioritized). rākîl yahălōk ‘goes about slandering’ → เที่ยวนินทาว่าร้าย."
+        }
+      ],
+      "notes": "WORDPLAY: עָקוֹב יַעְקֹב ‘supplants/deceives’ punning on יַעֲקֹב (Jacob the supplanter). Total breakdown of trust — brother against brother. Cf. Mic 7:5–6 (quoted Mt 10:35–36). No יהוה token."
+    }
+  },
+  {
+    "reference": "Jeremiah 9:4",
+    "chapter": 9,
+    "verse": 4,
+    "language": "hebrew",
+    "hebrew": "וְאִ֤ישׁ בְּרֵעֵ֨הוּ֙ יְהָתֵ֔לּוּ וֶאֱמֶ֖ת לֹ֣א יְדַבֵּ֑רוּ לִמְּד֧וּ לְשׁוֹנָ֛ם דַּבֶּר־שֶׁ֖קֶר הַעֲוֵ֥ה נִלְאֽוּ׃",
+    "bsb_english": "Each one betrays his friend; no one tells the truth. They have taught their tongues to lie; they wear themselves out committing iniquity.",
+    "translation": {
+      "thai": "ต่างก็หลอกลวงเพื่อนของตน และไม่มีใครพูดความจริง พวกเขาฝึกลิ้นของตนให้พูดเท็จ และทำความชั่วช้าจนเหน็ดเหนื่อย",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "לִמְּדוּ לְשׁוֹנָם דַּבֶּר־שֶׁקֶר הַעֲוֵה נִלְאוּ",
+          "rendering": "ฝึกลิ้นของตนให้พูดเท็จ และทำความชั่วช้าจนเหน็ดเหนื่อย",
+          "rationale": "‘they taught their tongue to speak falsehood (šeqer); they wear themselves out (lāʾâ) doing wrong (heʿăwēh)’ → ฝึกลิ้น...พูดเท็จ / ทำความชั่วช้าจนเหน็ดเหนื่อย. Sin become a trained, exhausting labor — they ‘work hard’ at iniquity."
+        }
+      ],
+      "notes": "MT 9:4 = BSB 9:5. The deceit so ingrained it is a trained skill; they exhaust themselves in iniquity. The tongue-corruption theme (vv. 2–4)."
+    }
+  },
+  {
+    "reference": "Jeremiah 9:5",
+    "chapter": 9,
+    "verse": 5,
+    "language": "hebrew",
+    "hebrew": "שִׁבְתְּךָ֖ בְּת֣וֹךְ מִרְמָ֑ה בְּמִרְמָ֛ה מֵאֲנ֥וּ דַֽעַת־אוֹתִ֖י נְאֻם־יְהוָֽה׃",
+    "bsb_english": "You dwell in the midst of deception; in their deceit they refuse to know Me,” declares the LORD.",
+    "translation": {
+      "thai": "เจ้าอาศัยอยู่ท่ามกลางการหลอกลวง ด้วยการหลอกลวงนั้นพวกเขาปฏิเสธที่จะรู้จักเรา องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "נְאֻם־יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้",
+          "rationale": "neʾum-YHWH → องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้, LOCKED per hebrew_idioms §5.4. Layer 1: יהוה → องค์พระผู้เป็นเจ้า."
+        },
+        {
+          "hebrew": "בְּמִרְמָה מֵאֲנוּ דַעַת־אוֹתִי",
+          "rendering": "ด้วยการหลอกลวงนั้นพวกเขาปฏิเสธที่จะรู้จักเรา",
+          "rationale": "mirmâ ‘deceit’ → การหลอกลวง; ‘they refuse (māʾēn) to know Me’ → ปฏิเสธที่จะรู้จักเรา — the relational knowing of God refused (cf. v. 2; 2:8). Living immersed in deceit, they will not know YHWH. Verse ends with ס marker (omitted)."
+        }
+      ],
+      "notes": "MT 9:5 = BSB 9:6. Dwelling ‘in the midst of deceit,’ they refuse to know God — deceit and ignorance-of-God intertwined. The knowing-God theme climaxes at v. 23."
+    }
+  },
+  {
+    "reference": "Jeremiah 9:6",
+    "chapter": 9,
+    "verse": 6,
+    "language": "hebrew",
+    "hebrew": "לָכֵ֗ן כֹּ֤ה אָמַר֙ יְהוָ֣ה צְבָא֔וֹת הִנְנִ֥י צוֹרְפָ֖ם וּבְחַנְתִּ֑ים כִּֽי־אֵ֣יךְ אֶעֱשֶׂ֔ה מִפְּנֵ֖י בַּת־עַמִּֽי׃",
+    "bsb_english": "Therefore this is what the LORD of Hosts says: “Behold, I will refine them and test them, for what else can I do because of the daughter of My people?",
+    "translation": {
+      "thai": "เพราะฉะนั้น องค์พระผู้เป็นเจ้าจอมโยธาตรัสดังนี้ว่า “ดูเถิด เราจะถลุงและทดสอบพวกเขา เพราะเรายังจะทำอย่างอื่นได้อย่างไรเล่า เพราะเหตุธิดาแห่งประชากรของเรา?",
+      "thai_literal": null,
+      "thai_summary": "พระเจ้าทรงใช้ภาพการถลุงโลหะ (เทียบ 6:27–30): การพิพากษาเป็นเหมือนไฟที่ถลุงเพื่อทดสอบและชำระ คำถาม ‘เรายังจะทำอย่างอื่นได้อย่างไร?’ เผยถึงความปวดร้าวของพระเจ้าเอง — การลงโทษเป็นทางเลือกสุดท้ายที่จำเป็น",
+      "key_decisions": [
+        {
+          "hebrew": "כֹה אָמַר יְהוָה צְבָאוֹת",
+          "rendering": "องค์พระผู้เป็นเจ้าจอมโยธาตรัสดังนี้ว่า",
+          "rationale": "Messenger-formula + יְהוָה צְבָאוֹת → องค์พระผู้เป็นเจ้าจอมโยธา (§5.3 + divine_names_table). Layer 1: יהוה → องค์พระผู้เป็นเจ้า; Tsebaoth → จอมโยธา."
+        },
+        {
+          "hebrew": "הִנְנִי צוֹרְפָם וּבְחַנְתִּים … מִפְּנֵי בַּת־עַמִּי",
+          "rendering": "เราจะถลุงและทดสอบพวกเขา … เพราะเหตุธิดาแห่งประชากรของเรา",
+          "rationale": "ṣārap (refine/smelt) + bāḥan (test/assay) → ถลุง / ทดสอบ — the metallurgical-judgment image (cf. 6:27–30). Divine first-person (เรา). ‘How else can I do because of the daughter of my people?’ → the pathos of forced judgment. (Ellipsis joins the clauses.)"
+        }
+      ],
+      "notes": "MT 9:6 = BSB 9:7. The refining-judgment (ṣārap/bāḥan, cf. 6:27–30) with the poignant ‘what else can I do?’ — judgment as anguished necessity. Tsebaoth → จอมโยธา."
+    }
+  },
+  {
+    "reference": "Jeremiah 9:7",
+    "chapter": 9,
+    "verse": 7,
+    "language": "hebrew",
+    "hebrew": "חֵ֥ץ שָׁח֛וּט לְשׁוֹנָ֖ם מִרְמָ֣ה דִבֵּ֑ר בְּפִ֗יו שָׁל֤וֹם אֶת־רֵעֵ֨הוּ֙ יְדַבֵּ֔רוּ בְּקִרְבּ֖וֹ יָשִׂ֥ים אָרְבּֽוֹ׃",
+    "bsb_english": "Their tongues are deadly arrows; they speak deception. With his mouth a man speaks peace to his neighbor, but in his heart he sets a trap for him.",
+    "translation": {
+      "thai": "ลิ้นของพวกเขาเป็นดั่งลูกธนูอันร้ายแรง พูดแต่การหลอกลวง ด้วยปากของเขา เขาพูดถึงสันติสุขกับเพื่อนบ้านของตน แต่ในใจของเขา เขาวางกับดักดักซุ่มไว้",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "חֵץ שָׁחוּט לְשׁוֹנָם",
+          "rendering": "ลิ้นของพวกเขาเป็นดั่งลูกธนูอันร้ายแรง",
+          "rationale": "ḥēṣ šāḥûṭ ‘a sharpened/slaying arrow’ → ลูกธนูอันร้ายแรง — the tongue as a deadly weapon (cf. v. 2's bow). The lying tongue kills."
+        },
+        {
+          "hebrew": "בְּפִיו שָׁלוֹם … בְּקִרְבּוֹ יָשִׂים אָרְבּוֹ",
+          "rendering": "ด้วยปากของเขา เขาพูดถึงสันติสุข … ในใจของเขา เขาวางกับดักดักซุ่มไว้",
+          "rationale": "HAPAX: ʾōrev (ambush, this form only here). ‘With his mouth peace (šālôm), in his heart an ambush’ → ปากพูดสันติสุข / ใจวางกับดักซุ่ม. The two-faced treachery: false peace masking a trap. The MT glue (יְדַבֵּרוּ joined to בְקִרְבּוֹ) de-glued in the source field. (Ellipsis joins the clauses.)"
+        }
+      ],
+      "notes": "HAPAX אֹרֶב ‘ambush.’ The murderous tongue: outward ‘peace’ (šālôm), inward ambush — the duplicity that makes society lethal. MT glue de-glued. No יהוה token."
+    }
+  },
+  {
+    "reference": "Jeremiah 9:8",
+    "chapter": 9,
+    "verse": 8,
+    "language": "hebrew",
+    "hebrew": "הַעַל־אֵ֥לֶּה לֹֽא־אֶפְקָד־בָּ֖ם נְאֻם־יְהוָ֑ה אִ֚ם בְּג֣וֹי אֲשֶׁר־כָּזֶ֔ה לֹ֥א תִתְנַקֵּ֖ם נַפְשִֽׁי׃",
+    "bsb_english": "Should I not punish them for these things? declares the LORD. Should I not avenge Myself on such a nation as this?”",
+    "translation": {
+      "thai": "เราจะไม่ลงโทษพวกเขาเพราะสิ่งเหล่านี้หรือ? องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้ และจิตใจของเราจะไม่แก้แค้นชนชาติที่เป็นเช่นนี้หรือ?",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "נְאֻם־יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้",
+          "rationale": "neʾum-YHWH → องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้, LOCKED per hebrew_idioms §5.4. Layer 1: יהוה → องค์พระผู้เป็นเจ้า."
+        },
+        {
+          "hebrew": "הַעַל־אֵלֶּה לֹא־אֶפְקָד־בָּם",
+          "rendering": "เราจะไม่ลงโทษพวกเขาเพราะสิ่งเหล่านี้หรือ",
+          "rationale": "lemma פָּקַד = sense (4) judgment-visitation → ลงโทษ per paqad_visit_attend_2026-05.md. The refrain repeated verbatim from 5:9, 29. נַפְשִׁי (my soul) → จิตใจของเรา (plain, divine self). Verse ends with ס marker (omitted)."
+        }
+      ],
+      "notes": "MT 9:8 = BSB 9:9. The punishment-refrain (פָּקַד sense-4) repeated from 5:9, 29 — the rhetorical question asserting judgment's justice."
+    }
+  },
+  {
+    "reference": "Jeremiah 9:9",
+    "chapter": 9,
+    "verse": 9,
+    "language": "hebrew",
+    "hebrew": "עַל־הֶ֨הָרִ֜ים אֶשָּׂ֧א בְכִ֣י וָנֶ֗הִי וְעַל־נְא֤וֹת מִדְבָּר֙ קִינָ֔ה כִּ֤י נִצְּתוּ֙ מִבְּלִי־אִ֣ישׁ עֹבֵ֔ר וְלֹ֥א שָׁמְע֖וּ ק֣וֹל מִקְנֶ֑ה מֵע֤וֹף הַשָּׁמַ֨יִם֙ וְעַד־בְּהֵמָ֔ה נָדְד֖וּ הָלָֽכוּ׃",
+    "bsb_english": "I will take up a weeping and wailing for the mountains, a dirge over the wilderness pasture, for they have been scorched so no one passes through, and the lowing of cattle is not heard. Both the birds of the air and the beasts have fled; they have gone away.",
+    "translation": {
+      "thai": "ข้าพเจ้าจะร่ำไห้และคร่ำครวญเพื่อภูเขาทั้งหลาย และจะร้องเพลงโศกเพื่อทุ่งหญ้าในถิ่นทุรกันดาร เพราะมันถูกเผาจนไม่มีผู้ใดผ่านไปได้ และไม่มีใครได้ยินเสียงฝูงสัตว์ ตั้งแต่นกในท้องฟ้าจนถึงสัตว์ป่าต่างก็หนีจากไปหมดแล้ว",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "אֶשָּׂא בְכִי וָנֶהִי … קִינָה",
+          "rendering": "ข้าพเจ้าจะร่ำไห้และคร่ำครวญ … จะร้องเพลงโศก",
+          "rationale": "‘take up weeping (bəkî) and wailing (nəhî) … a dirge (qînâ)’ → ร่ำไห้และคร่ำครวญ / เพลงโศก. The speaker (the prophet, or God grieving through him) laments the devastated, depopulated land — pastures scorched, even animals fled. First-person ข้าพเจ้า. (Ellipsis joins the lament-terms.)"
+        }
+      ],
+      "notes": "MT 9:9 = BSB 9:10. The lament over the ruined land — no traveler, no cattle, birds and beasts gone (the de-creation echo of 4:25). The weeping continues from 8:23. No יהוה token."
+    }
+  },
+  {
+    "reference": "Jeremiah 9:10",
+    "chapter": 9,
+    "verse": 10,
+    "language": "hebrew",
+    "hebrew": "וְנָתַתִּ֧י אֶת־יְרוּשָׁלִַ֛ם לְגַלִּ֖ים מְע֣וֹן תַּנִּ֑ים וְאֶת־עָרֵ֧י יְהוּדָ֛ה אֶתֵּ֥ן שְׁמָמָ֖ה מִבְּלִ֖י יוֹשֵֽׁב׃",
+    "bsb_english": "“And I will make Jerusalem a heap of rubble, a haunt for jackals; and I will make the cities of Judah a desolation, without inhabitant.”",
+    "translation": {
+      "thai": "“เราจะทำให้เยรูซาเล็มกลายเป็นกองซากปรักหักพัง เป็นที่อาศัยของหมาใน และเราจะทำให้เมืองต่าง ๆ ของยูดาห์เป็นที่รกร้างไม่มีผู้อาศัย”",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "לְגַלִּים מְעוֹן תַּנִּים",
+          "rendering": "กองซากปรักหักพัง เป็นที่อาศัยของหมาใน",
+          "rationale": "gallîm ‘heaps of ruins’ + məʿôn tannîm ‘den of jackals’ → กองซากปรักหักพัง / ที่อาศัยของหมาใน (tannîm = jackals → หมาใน, the wild scavenger of ruins, cf. 10:22; 49:33). Divine first-person (เรา): Jerusalem and Judah's cities made desolate ruins. Verse ends with ס marker (omitted)."
+        }
+      ],
+      "notes": "MT 9:10 = BSB 9:11. Jerusalem reduced to jackal-haunted rubble, Judah's cities uninhabited — the desolation refrain (2:15; 4:7). No יהוה token (divine first-person)."
+    }
+  },
+  {
+    "reference": "Jeremiah 9:11",
+    "chapter": 9,
+    "verse": 11,
+    "language": "hebrew",
+    "hebrew": "מִֽי־הָאִ֤ישׁ הֶֽחָכָם֙ וְיָבֵ֣ן אֶת־זֹ֔את וַאֲשֶׁ֨ר דִּבֶּ֧ר פִּֽי־יְהוָ֛ה אֵלָ֖יו וְיַגִּדָ֑הּ עַל־מָה֙ אָבְדָ֣ה הָאָ֔רֶץ נִצְּתָ֥ה כַמִּדְבָּ֖ר מִבְּלִ֖י עֹבֵֽר׃",
+    "bsb_english": "Who is the man wise enough to understand this? To whom has the mouth of the LORD spoken, that he may explain it? Why is the land destroyed and scorched like a desert, so no one can pass through it?",
+    "translation": {
+      "thai": "ใครเป็นคนมีปัญญาพอจะเข้าใจเรื่องนี้? พระโอษฐ์ขององค์พระผู้เป็นเจ้าตรัสกับผู้ใด ให้เขาบอกเถิด ว่าเหตุใดแผ่นดินจึงพินาศ ถูกเผาจนเป็นเหมือนถิ่นทุรกันดารที่ไม่มีใครผ่านไปได้?",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "וַאֲשֶׁר דִּבֶּר פִּי־יְהוָה אֵלָיו",
+          "rendering": "พระโอษฐ์ขององค์พระผู้เป็นเจ้าตรัสกับผู้ใด",
+          "rationale": "pî-YHWH ‘the mouth of YHWH’ → พระโอษฐ์ขององค์พระผู้เป็นเจ้า (anthropomorphism preserved, royal พระโอษฐ์ per hebrew_idioms §1.2; no ทรง-verb adjacent — the verb דִּבֶּר is rendered ตรัส, a standalone royal verb, not ทรง+stem, so no binding issue). Layer 1: יהוה → องค์พระผู้เป็นเจ้า. The question: who is wise enough to grasp why the land is ruined?"
+        }
+      ],
+      "notes": "MT 9:11 = BSB 9:12. The wisdom-question: who can understand the land's ruin? Answered in vv. 12–13 (forsaking the law). ‘Mouth of YHWH’ → พระโอษฐ์ (royal anthropomorphism). Verse ends with ס marker (omitted)."
+    }
+  },
+  {
+    "reference": "Jeremiah 9:12",
+    "chapter": 9,
+    "verse": 12,
+    "language": "hebrew",
+    "hebrew": "וַיֹּ֣אמֶר יְהוָ֔ה עַל־עָזְבָם֙ אֶת־תּ֣וֹרָתִ֔י אֲשֶׁ֥ר נָתַ֖תִּי לִפְנֵיהֶ֑ם וְלֹא־שָׁמְע֥וּ בְקוֹלִ֖י וְלֹא־הָ֥לְכוּ בָֽהּ׃",
+    "bsb_english": "And the LORD answered, “It is because they have forsaken My law, which I set before them; they have not walked in it or obeyed My voice.",
+    "translation": {
+      "thai": "องค์พระผู้เป็นเจ้าตรัสตอบว่า “เป็นเพราะพวกเขาได้ละทิ้งธรรมบัญญัติของเราซึ่งเราตั้งไว้ต่อหน้าพวกเขา และไม่ได้เชื่อฟังเสียงของเรา ทั้งไม่ได้ดำเนินตามธรรมบัญญัตินั้น",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "וַיֹּאמֶר יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้าตรัสตอบว่า",
+          "rationale": "wayyōʾmer YHWH ‘and YHWH said’ → องค์พระผู้เป็นเจ้าตรัส (royal ตรัส). Layer 1: יהוה → องค์พระผู้เป็นเจ้า. God answers the wisdom-question of v. 11."
+        },
+        {
+          "hebrew": "עַל־עָזְבָם אֶת־תּוֹרָתִי … וְלֹא־שָׁמְעוּ בְקוֹלִי",
+          "rendering": "ละทิ้งธรรมบัญญัติของเรา … ไม่ได้เชื่อฟังเสียงของเรา",
+          "rationale": "tôrâ → ธรรมบัญญัติ (Torah-corpus lock); ‘forsook my law... did not obey my voice’ → ละทิ้งธรรมบัญญัติ / ไม่เชื่อฟังเสียง. Divine first-person (เรา). The answer: the ruin is because they abandoned the Torah and disobeyed (cf. 7:23–24). (Ellipsis joins the clauses.)"
+        }
+      ],
+      "notes": "MT 9:12 = BSB 9:13. God's answer to the wisdom-question (v. 11): the land's ruin is from forsaking the Torah and disobeying his voice. Echoes the obedience-demand of 7:23."
+    }
+  },
+  {
+    "reference": "Jeremiah 9:13",
+    "chapter": 9,
+    "verse": 13,
+    "language": "hebrew",
+    "hebrew": "וַיֵּ֣לְכ֔וּ אַחֲרֵ֖י שְׁרִר֣וּת לִבָּ֑ם וְאַחֲרֵי֙ הַבְּעָלִ֔ים אֲשֶׁ֥ר לִמְּד֖וּם אֲבוֹתָֽם׃",
+    "bsb_english": "Instead, they have followed the stubbornness of their hearts and gone after the Baals, as their fathers taught them.”",
+    "translation": {
+      "thai": "แต่พวกเขากลับดำเนินตามความดื้อด้านแห่งใจของตน และติดตามบรรดาพระบาอัลตามที่บรรพบุรุษของพวกเขาได้สอนไว้",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "שְׁרִרוּת לִבָּם … הַבְּעָלִים",
+          "rendering": "ความดื้อด้านแห่งใจของตน … บรรดาพระบาอัล",
+          "rationale": "šərîrût lēv ‘stubbornness of heart’ → ความดื้อด้านแห่งใจ (Jeremianic phrase, 7:24); הַבְּעָלִים ‘the Baals’ → บรรดาพระบาอัล (foreign-deity register, ot_register §3.1). The inherited idolatry (‘as their fathers taught them’). Verse ends with ס marker (omitted). (Ellipsis joins the clauses.)"
+        }
+      ],
+      "notes": "MT 9:13 = BSB 9:14. The double indictment: stubborn hearts + Baal-worship, transmitted from the fathers (generational sin, cf. 7:26). No יהוה token."
+    }
+  },
+  {
+    "reference": "Jeremiah 9:14",
+    "chapter": 9,
+    "verse": 14,
+    "language": "hebrew",
+    "hebrew": "לָכֵ֗ן כֹּֽה־אָמַ֞ר יְהוָ֤ה צְבָאוֹת֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל הִנְנִ֧י מַאֲכִילָ֛ם אֶת־הָעָ֥ם הַזֶּ֖ה לַֽעֲנָ֑ה וְהִשְׁקִיתִ֖ים מֵי־רֹֽאשׁ׃",
+    "bsb_english": "Therefore this is what the LORD of Hosts, the God of Israel, says: “Behold, I will feed this people wormwood and give them poisoned water to drink.",
+    "translation": {
+      "thai": "เพราะฉะนั้น องค์พระผู้เป็นเจ้าจอมโยธา พระเจ้าแห่งอิสราเอล ตรัสดังนี้ว่า “ดูเถิด เราจะให้ชนชาตินี้กินบอระเพ็ดอันขมขื่น และจะให้พวกเขาดื่มน้ำพิษ",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "כֹה־אָמַר יְהוָה צְבָאוֹת אֱלֹהֵי יִשְׂרָאֵל",
+          "rendering": "องค์พระผู้เป็นเจ้าจอมโยธา พระเจ้าแห่งอิสราเอล ตรัสดังนี้ว่า",
+          "rationale": "Messenger-formula + יְהוָה צְבָאוֹת אֱלֹהֵי יִשְׂרָאֵל → องค์พระผู้เป็นเจ้าจอมโยธา พระเจ้าแห่งอิสราเอล. Layer 1: יהוה → องค์พระผู้เป็นเจ้า; Tsebaoth → จอมโยธา."
+        },
+        {
+          "hebrew": "מַאֲכִילָם … לַעֲנָה וְהִשְׁקִיתִים מֵי־רֹאשׁ",
+          "rendering": "ให้...กินบอระเพ็ดอันขมขื่น และจะให้พวกเขาดื่มน้ำพิษ",
+          "rationale": "laʿănâ ‘wormwood’ (a bitter plant) → บอระเพ็ดอันขมขื่น; mê-rōʾš ‘poison/gall water’ → น้ำพิษ (cf. 8:14; 23:15). Divine first-person (เรา): the bitter food/drink of judgment. The wormwood-and-poison pair images God's bitter sentence. (Ellipsis joins the clauses.)"
+        }
+      ],
+      "notes": "MT 9:14 = BSB 9:15. The bitter judgment (wormwood לַעֲנָה + poisoned water) — a Jeremianic image (8:14; 23:15; Lam 3:15, 19). Tsebaoth → จอมโยธา."
+    }
+  },
+  {
+    "reference": "Jeremiah 9:15",
+    "chapter": 9,
+    "verse": 15,
+    "language": "hebrew",
+    "hebrew": "וַהֲפִֽצוֹתִים֙ בַּגּוֹיִ֔ם אֲשֶׁר֙ לֹ֣א יָֽדְע֔וּ הֵ֖מָּה וַֽאֲבוֹתָ֑ם וְשִׁלַּחְתִּ֤י אַֽחֲרֵיהֶם֙ אֶת־הַחֶ֔רֶב עַ֥ד כַּלּוֹתִ֖י אוֹתָֽם׃",
+    "bsb_english": "I will scatter them among the nations that neither they nor their fathers have known, and I will send a sword after them until I have finished them off.”",
+    "translation": {
+      "thai": "เราจะทำให้พวกเขากระจัดกระจายไปท่ามกลางบรรดาประชาชาติที่ทั้งพวกเขาและบรรพบุรุษไม่เคยรู้จัก และเราจะส่งดาบไล่ตามพวกเขาไปจนกว่าเราจะทำลายพวกเขาเสียสิ้น",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "וַהֲפִצוֹתִים בַּגּוֹיִם … וְשִׁלַּחְתִּי אַחֲרֵיהֶם אֶת־הַחֶרֶב",
+          "rendering": "เราจะทำให้พวกเขากระจัดกระจายไปท่ามกลางบรรดาประชาชาติ … เราจะส่งดาบไล่ตามพวกเขาไป",
+          "rationale": "pûṣ Hiphil ‘scatter/disperse’ → กระจัดกระจาย (the exile-curse, Deut 28:64); ‘send the sword after them’ → ส่งดาบไล่ตาม. Divine first-person (เรา): exile among unknown nations + relentless sword. גּוֹיִם → ประชาชาติ. Verse ends with פ marker (omitted). (Ellipsis joins the clauses.)"
+        }
+      ],
+      "notes": "MT 9:15 = BSB 9:16. The exile-judgment: scattering among unknown nations + the pursuing sword (Deut 28:64–65; Lev 26:33). No יהוה token (divine first-person)."
+    }
+  },
+  {
+    "reference": "Jeremiah 9:16",
+    "chapter": 9,
+    "verse": 16,
+    "language": "hebrew",
+    "hebrew": "כֹּ֤ה אָמַר֙ יְהוָ֣ה צְבָא֔וֹת הִתְבּֽוֹנְנ֛וּ וְקִרְא֥וּ לַמְקוֹנְנ֖וֹת וּתְבוֹאֶ֑ינָה וְאֶל־הַחֲכָמ֥וֹת שִׁלְח֖וּ וְתָבֽוֹאנָה׃",
+    "bsb_english": "This is what the LORD of Hosts says: “Take note, and summon the wailing women; send for the most skillful among them.",
+    "translation": {
+      "thai": "องค์พระผู้เป็นเจ้าจอมโยธาตรัสดังนี้ว่า “จงพิจารณาให้ดี จงเรียกพวกหญิงร้องไห้คร่ำครวญมา และจงส่งคนไปตามพวกที่ชำนาญที่สุดมา",
+      "thai_literal": null,
+      "thai_summary": "พระเจ้าทรงเรียก ‘หญิงร้องไห้อาชีพ’ (นักไว้ทุกข์ที่ได้รับการว่าจ้างในงานศพสมัยโบราณ) มาร้องคร่ำครวญ เพราะความตายกำลังจะมาถึงเป็นวงกว้างจนต้องการนักไว้ทุกข์มืออาชีพ",
+      "key_decisions": [
+        {
+          "hebrew": "כֹה אָמַר יְהוָה צְבָאוֹת",
+          "rendering": "องค์พระผู้เป็นเจ้าจอมโยธาตรัสดังนี้ว่า",
+          "rationale": "Messenger-formula + Tsebaoth → องค์พระผู้เป็นเจ้าจอมโยธา (§5.3 + divine_names_table). Layer 1: יהוה → องค์พระผู้เป็นเจ้า; Tsebaoth → จอมโยธา."
+        },
+        {
+          "hebrew": "וְקִרְאוּ לַמְקוֹנְנוֹת … וְאֶל־הַחֲכָמוֹת",
+          "rendering": "จงเรียกพวกหญิงร้องไห้คร่ำครวญมา … พวกที่ชำนาญที่สุด",
+          "rationale": "məqônənôt ‘wailing/mourning women’ (professional mourners) → หญิงร้องไห้คร่ำครวญ; ḥăkāmôt ‘the skilled women’ → พวกที่ชำนาญ. The hired keening-women of ANE funerals (cf. 2 Chr 35:25; Amos 5:16) summoned for mass death. (Ellipsis joins the clauses.)"
+        }
+      ],
+      "notes": "MT 9:16 = BSB 9:17. The summons of professional mourning-women (məqônənôt) — the coming death is so vast that expert wailers are needed. Tsebaoth → จอมโยธา."
+    }
+  },
+  {
+    "reference": "Jeremiah 9:17",
+    "chapter": 9,
+    "verse": 17,
+    "language": "hebrew",
+    "hebrew": "וּתְמַהֵ֕רְנָה וְתִשֶּׂ֥נָה עָלֵ֖ינוּ נֶ֑הִי וְתֵרַ֤דְנָה עֵינֵ֨ינוּ֙ דִּמְעָ֔ה וְעַפְעַפֵּ֖ינוּ יִזְּלוּ־מָֽיִם׃",
+    "bsb_english": "Let them come quickly and take up a lament over us, that our eyes may overflow with tears, and our eyelids may gush with water.",
+    "translation": {
+      "thai": "ให้พวกนางรีบมาและร้องเพลงคร่ำครวญเพื่อเรา เพื่อตาของเราจะหลั่งน้ำตา และหนังตาของเราจะมีน้ำไหลพราก",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "וְתֵרַדְנָה עֵינֵינוּ דִּמְעָה וְעַפְעַפֵּינוּ יִזְּלוּ־מָיִם",
+          "rendering": "ตาของเราจะหลั่งน้ำตา และหนังตาของเราจะมีน้ำไหลพราก",
+          "rationale": "‘our eyes run down (tērad) tears, our eyelids (ʿapʿappayim) gush water’ → ตา...หลั่งน้ำตา / หนังตา...น้ำไหลพราก. The professional lament induces the people's own weeping — communal grief over the dead."
+        }
+      ],
+      "notes": "MT 9:17 = BSB 9:18. The keening-women's lament prompts the people's own tears — the communal mourning of catastrophe. No יהוה token."
+    }
+  },
+  {
+    "reference": "Jeremiah 9:18",
+    "chapter": 9,
+    "verse": 18,
+    "language": "hebrew",
+    "hebrew": "כִּ֣י ק֥וֹל נְהִ֛י נִשְׁמַ֥ע מִצִּיּ֖וֹן אֵ֣יךְ שֻׁדָּ֑דְנוּ בֹּ֤שְׁנֽוּ מְאֹד֙ כִּֽי־עָזַ֣בְנוּ אָ֔רֶץ כִּ֥י הִשְׁלִ֖יכוּ מִשְׁכְּנוֹתֵֽינוּ׃",
+    "bsb_english": "For the sound of wailing is heard from Zion: ‘How devastated we are! How great is our shame! For we have abandoned the land because our dwellings have been torn down.’”",
+    "translation": {
+      "thai": "เพราะมีเสียงคร่ำครวญดังมาจากศิโยนว่า ‘เราถูกทำลายย่อยยับเสียจริง! เราอับอายขายหน้ายิ่งนัก เพราะเราต้องละทิ้งแผ่นดิน เพราะที่อยู่อาศัยของเราถูกรื้อทำลายลง’",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "אֵיךְ שֻׁדָּדְנוּ בֹּשְׁנוּ מְאֹד",
+          "rendering": "เราถูกทำลายย่อยยับเสียจริง! เราอับอายขายหน้ายิ่งนัก",
+          "rationale": "šādad ‘devastated/ruined’ + bôš ‘ashamed’ → ถูกทำลายย่อยยับ / อับอายขายหน้า. The lament-cry from Zion: ruin and shame at being driven from the land, dwellings destroyed. Verse ends with ס marker (omitted)."
+        }
+      ],
+      "notes": "MT 9:18 = BSB 9:19. The lament-cry from Zion — devastation, shame, exile from the land, homes torn down. The voice of the mourning community. No יהוה token."
+    }
+  },
+  {
+    "reference": "Jeremiah 9:19",
+    "chapter": 9,
+    "verse": 19,
+    "language": "hebrew",
+    "hebrew": "כִּֽי־שְׁמַ֤עְנָה נָשִׁים֙ דְּבַר־יְהוָ֔ה וְתִקַּ֥ח אָזְנְכֶ֖ם דְּבַר־פִּ֑יו וְלַמֵּ֤דְנָה בְנֽוֹתֵיכֶם֙ נֶ֔הִי וְאִשָּׁ֥ה רְעוּתָ֖הּ קִינָֽה׃",
+    "bsb_english": "Now, O women, hear the word of the LORD. Open your ears to the word of His mouth. Teach your daughters to wail, and one another to lament.",
+    "translation": {
+      "thai": "บรรดาหญิงเอ๋ย จงฟังพระวจนะขององค์พระผู้เป็นเจ้า และให้หูของพวกเจ้ารับถ้อยคำจากพระโอษฐ์ของพระองค์ จงสอนบุตรสาวของพวกเจ้าให้ร้องคร่ำครวญ และสอนกันและกันให้ร้องเพลงโศก",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "שְׁמַעְנָה נָשִׁים דְּבַר־יְהוָה … דְּבַר־פִּיו",
+          "rendering": "บรรดาหญิงเอ๋ย จงฟังพระวจนะขององค์พระผู้เป็นเจ้า … ถ้อยคำจากพระโอษฐ์ของพระองค์",
+          "rationale": "dəvar-YHWH ‘word of YHWH’ → พระวจนะขององค์พระผู้เป็นเจ้า (Layer 1); dəvar-pîw ‘word of his mouth’ → ถ้อยคำจากพระโอษฐ์ของพระองค์ (royal พระโอษฐ์, anthropomorphism; no ทรง-verb adjacent). The women summoned to learn and transmit the lament-craft, so universal is the coming death. (Ellipsis joins the clauses.)"
+        }
+      ],
+      "notes": "MT 9:19 = BSB 9:20. The women must teach the next generation to wail — the death is so pervasive that mourning becomes a transmitted skill. ‘Word of his mouth’ → พระโอษฐ์ (royal)."
+    }
+  },
+  {
+    "reference": "Jeremiah 9:20",
+    "chapter": 9,
+    "verse": 20,
+    "language": "hebrew",
+    "hebrew": "כִּֽי־עָ֤לָה מָ֨וֶת֙ בְּחַלּוֹנֵ֔ינוּ בָּ֖א בְּאַרְמְנוֹתֵ֑ינוּ לְהַכְרִ֤ית עוֹלָל֙ מִח֔וּץ בַּחוּרִ֖ים מֵרְחֹבֽוֹת׃",
+    "bsb_english": "For death has climbed in through our windows; it has entered our fortresses to cut off the children from the streets, the young men from the town squares.",
+    "translation": {
+      "thai": "เพราะความตายได้ปีนเข้ามาทางหน้าต่างของเรา และเข้ามาในป้อมปราการของเรา เพื่อตัดเด็ก ๆ ออกไปจากถนน และตัดชายหนุ่มออกไปจากลานเมือง",
+      "thai_literal": null,
+      "thai_summary": "ภาพความตายที่เป็นบุคคล ‘ปีนเข้ามาทางหน้าต่าง’ — แม้แต่ในป้อมปราการก็หลบหนีไม่พ้น (อาจสะท้อนภาพเทพมรณะของคานาอัน ‘โมท’ ที่พระคัมภีร์พลิกมาใช้เป็นเพียงเครื่องมือของพระเจ้า) ความตายคร่าทั้งเด็กและคนหนุ่มจากที่สาธารณะ",
+      "key_decisions": [
+        {
+          "hebrew": "עָלָה מָוֶת בְּחַלּוֹנֵינוּ בָּא בְּאַרְמְנוֹתֵינוּ",
+          "rendering": "ความตายได้ปีนเข้ามาทางหน้าต่างของเรา และเข้ามาในป้อมปราการของเรา",
+          "rationale": "Death (māwet) personified, climbing through windows (ḥallônîm) into the palaces/fortresses (ʾarmənôt) → ความตาย...ปีนเข้ามาทางหน้าต่าง. The vivid image: no wall keeps death out; it takes children from the street and young men from the squares. (A possible polemic against the Canaanite death-god Mot, here merely God's instrument.)"
+        }
+      ],
+      "notes": "MT 9:20 = BSB 9:21. Death personified, climbing through windows into fortresses — inescapable, cutting off children and youths. The most vivid death-image in Jeremiah. No יהוה token."
+    }
+  },
+  {
+    "reference": "Jeremiah 9:21",
+    "chapter": 9,
+    "verse": 21,
+    "language": "hebrew",
+    "hebrew": "דַּבֵּ֗ר כֹּ֚ה נְאֻם־יְהוָ֔ה וְנָֽפְלָה֙ נִבְלַ֣ת הָֽאָדָ֔ם כְּדֹ֖מֶן עַל־פְּנֵ֣י הַשָּׂדֶ֑ה וּכְעָמִ֛יר מֵאַחֲרֵ֥י הַקֹּצֵ֖ר וְאֵ֥ין מְאַסֵּֽף׃",
+    "bsb_english": "Declare that this is what the LORD says: “The corpses of men will fall like dung upon the open field, like newly cut grain behind the reaper, with no one to gather it.”",
+    "translation": {
+      "thai": "จงประกาศว่า องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้ว่า “ซากศพของผู้คนจะล้มตายเกลื่อนดั่งมูลสัตว์บนท้องทุ่ง ดั่งฟ่อนข้าวที่ตกอยู่ข้างหลังคนเกี่ยว โดยไม่มีใครเก็บรวบรวม”",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "נְאֻם־יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้",
+          "rationale": "neʾum-YHWH → องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้, LOCKED per hebrew_idioms §5.4. Layer 1: יהוה → องค์พระผู้เป็นเจ้า."
+        },
+        {
+          "hebrew": "נִבְלַת הָאָדָם כְּדֹמֶן … וּכְעָמִיר מֵאַחֲרֵי הַקֹּצֵר וְאֵין מְאַסֵּף",
+          "rendering": "ซากศพของผู้คนจะล้มตายเกลื่อนดั่งมูลสัตว์บนท้องทุ่ง ดั่งฟ่อนข้าวที่ตกอยู่ข้างหลังคนเกี่ยว โดยไม่มีใครเก็บ",
+          "rationale": "Corpses like dung (dōmen, cf. 8:2) on the field + like cut grain (ʿāmîr) behind the reaper, ungathered → มูลสัตว์ / ฟ่อนข้าว...ไม่มีใครเก็บ. The grim harvest-of-death image: bodies lie unburied like fallen sheaves. Verse ends with ס marker (omitted). (Ellipsis joins the similes.)"
+        }
+      ],
+      "notes": "MT 9:21 = BSB 9:22. Corpses like dung and ungathered sheaves — the unburied dead (the covenant-curse, Deut 28:26; cf. 8:2). The harvest-of-death simile."
+    }
+  },
+  {
+    "reference": "Jeremiah 9:22",
+    "chapter": 9,
+    "verse": 22,
+    "language": "hebrew",
+    "hebrew": "כֹּ֣ה ׀ אָמַ֣ר יְהוָ֗ה אַל־יִתְהַלֵּ֤ל חָכָם֙ בְּחָכְמָת֔וֹ וְאַל־יִתְהַלֵּ֥ל הַגִּבּ֖וֹר בִּגְבֽוּרָת֑וֹ אַל־יִתְהַלֵּ֥ל עָשִׁ֖יר בְּעָשְׁרֽוֹ׃",
+    "bsb_english": "This is what the LORD says: “Let not the wise man boast in his wisdom, nor the strong man in his strength, nor the wealthy man in his riches.",
+    "translation": {
+      "thai": "องค์พระผู้เป็นเจ้าตรัสดังนี้ว่า “อย่าให้คนมีปัญญาอวดในสติปัญญาของตน อย่าให้คนแข็งแรงอวดในกำลังของตน อย่าให้คนมั่งมีอวดในความมั่งคั่งของตน",
+      "thai_literal": null,
+      "thai_summary": "หนึ่งในข้อที่โด่งดังที่สุดของเยเรมีย์: สามสิ่งที่มนุษย์มักภาคภูมิใจ — สติปัญญา กำลัง และความมั่งคั่ง — ล้วนไม่ใช่สิ่งที่ควรอวด เปาโลยกแก่นของข้อนี้มาใช้ใน 1 โครินธ์ 1:31 และ 2 โครินธ์ 10:17 ว่า ‘ผู้ใดจะอวด จงอวดในองค์พระผู้เป็นเจ้า’",
+      "key_decisions": [
+        {
+          "hebrew": "כֹה אָמַר יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้าตรัสดังนี้",
+          "rationale": "Messenger-formula, LOCKED per hebrew_idioms §5.3. Layer 1: יהוה → องค์พระผู้เป็นเจ้า. The MT paseq-glue (כֹּה׀אָמַר) de-glued in the source field."
+        },
+        {
+          "hebrew": "אַל־יִתְהַלֵּל חָכָם … הַגִּבּוֹר … עָשִׁיר",
+          "rendering": "อย่าให้คนมีปัญญาอวด … คนแข็งแรง … คนมั่งมี",
+          "rationale": "hithallēl ‘boast/glory’ → อวด; the three human grounds of pride — ḥākām (wise) → คนมีปัญญา, gibbôr (mighty) → คนแข็งแรง, ʿāšîr (rich) → คนมั่งมี — all forbidden as boasting-grounds. Sets up the only legitimate boast (v. 23). (Ellipsis joins the three.)"
+        }
+      ],
+      "notes": "MT 9:22 = BSB 9:23. The famous ‘let not the wise boast’ — wisdom/strength/riches are no grounds for glory. Paul's source for ‘let him who boasts boast in the Lord’ (1 Cor 1:31; 2 Cor 10:17). Paseq-glue de-glued."
+    }
+  },
+  {
+    "reference": "Jeremiah 9:23",
+    "chapter": 9,
+    "verse": 23,
+    "language": "hebrew",
+    "hebrew": "כִּ֣י אִם־בְּזֹ֞את יִתְהַלֵּ֣ל הַמִּתְהַלֵּ֗ל הַשְׂכֵּל֮ וְיָדֹ֣עַ אוֹתִי֒ כִּ֚י אֲנִ֣י יְהוָ֔ה עֹ֥שֶׂה חֶ֛סֶד מִשְׁפָּ֥ט וּצְדָקָ֖ה בָּאָ֑רֶץ כִּֽי־בְאֵ֥לֶּה חָפַ֖צְתִּי נְאֻם־יְהוָֽה׃",
+    "bsb_english": "But let him who boasts boast in this, that he understands and knows Me, that I am the LORD, who exercises loving devotion, justice and righteousness on the earth—for I delight in these things,” declares the LORD.",
+    "translation": {
+      "thai": "แต่ให้ผู้ที่จะอวดนั้นอวดในสิ่งนี้ คือการที่เขาเข้าใจและรู้จักเรา ว่าเราคือองค์พระผู้เป็นเจ้าผู้สำแดงความรักมั่นคง ความยุติธรรม และความชอบธรรมในแผ่นดินโลก เพราะเราพอใจในสิ่งเหล่านี้ องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้",
+      "thai_literal": null,
+      "thai_summary": "คำตอบของข้อ 22: สิ่งเดียวที่ควรอวดคือการ ‘รู้จักพระเจ้า’ — ไม่ใช่ความรู้แบบผิวเผิน แต่คือการรู้จักพระลักษณะของพระองค์ผู้ทรงสำแดง ‘ความรักมั่นคง ความยุติธรรม และความชอบธรรม’ และการดำเนินชีวิตตามคุณลักษณะเหล่านั้น นี่คือแก่นแท้ของชีวิตที่พระเจ้าพอพระทัย",
+      "key_decisions": [
+        {
+          "hebrew": "כִּי אֲנִי יְהוָה עֹשֶׂה חֶסֶד מִשְׁפָּט וּצְדָקָה",
+          "rendering": "ว่าเราคือองค์พระผู้เป็นเจ้าผู้สำแดงความรักมั่นคง ความยุติธรรม และความชอบธรรม",
+          "rationale": "‘I am YHWH (ʾănî YHWH) who does (ʿōśeh) ḥesed, mišpāṭ, ṣədāqâ’ → เราคือองค์พระผู้เป็นเจ้าผู้สำแดง... חֶסֶד → ความรักมั่นคง (chesed_covenant_love lock); מִשְׁפָּט → ความยุติธรรม; צְדָקָה → ความชอบธรรม. Layer 1: יהוה → องค์พระผู้เป็นเจ้า (×2 incl. נְאֻם־יְהוָה). Divine first-person self-revelation; no ทรง (first-person plain)."
+        },
+        {
+          "hebrew": "הַשְׂכֵּל וְיָדֹעַ אוֹתִי",
+          "rendering": "การที่เขาเข้าใจและรู้จักเรา",
+          "rationale": "haśkēl wəyādōaʿ ‘to understand and know’ → เข้าใจและรู้จัก — the relational knowing of God (yādaʿ, the very thing the people lacked, 9:2, 5) is the only true boast. The climax of the chapter's knowing-God theme."
+        }
+      ],
+      "notes": "MT 9:23 = BSB 9:24. The only legitimate boast: knowing YHWH, who delights in ḥesed (ความรักมั่นคง), justice, and righteousness. Paul's basis for 1 Cor 1:31; 2 Cor 10:17. The knowing-God theme (vv. 2, 5) resolved. Verse ends with ס marker (omitted)."
+    }
+  },
+  {
+    "reference": "Jeremiah 9:24",
+    "chapter": 9,
+    "verse": 24,
+    "language": "hebrew",
+    "hebrew": "הִנֵּ֛ה יָמִ֥ים בָּאִ֖ים נְאֻם־יְהוָ֑ה וּפָ֣קַדְתִּ֔י עַל־כָּל־מ֖וּל בְּעָרְלָֽה׃",
+    "bsb_english": "“Behold, the days are coming,” declares the LORD, “when I will punish all who are circumcised only in the flesh—",
+    "translation": {
+      "thai": "องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้ว่า “ดูเถิด วันเวลากำลังจะมาถึง เมื่อเราจะลงโทษทุกคนที่เข้าสุหนัตแต่เพียงทางกาย",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "נְאֻם־יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้",
+          "rationale": "neʾum-YHWH → องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้, LOCKED per hebrew_idioms §5.4. Layer 1: יהוה → องค์พระผู้เป็นเจ้า."
+        },
+        {
+          "hebrew": "וּפָקַדְתִּי עַל־כָּל־מוּל בְּעָרְלָה",
+          "rendering": "เราจะลงโทษทุกคนที่เข้าสุหนัตแต่เพียงทางกาย",
+          "rationale": "lemma פָּקַד = sense (4) judgment-visitation → ลงโทษ per paqad_visit_attend_2026-05.md. mûl bəʿorlâ ‘circumcised in foreskin’ = circumcised in flesh only (outward, not heart) → เข้าสุหนัตแต่เพียงทางกาย. Divine first-person (เรา). Sets up the heart-circumcision conclusion of v. 25 (cf. 4:4)."
+        }
+      ],
+      "notes": "MT 9:24 = BSB 9:25. The judgment on the merely-flesh-circumcised (פָּקַד sense-4) — outward covenant-sign without inward reality (cf. the heart-circumcision call of 4:4; Rom 2:28–29). Leads to the nations-list of v. 25."
+    }
+  },
+  {
+    "reference": "Jeremiah 9:25",
+    "chapter": 9,
+    "verse": 25,
+    "language": "hebrew",
+    "hebrew": "עַל־מִצְרַ֣יִם וְעַל־יְהוּדָ֗ה וְעַל־אֱד֞וֹם וְעַל־בְּנֵ֤י עַמּוֹן֙ וְעַל־מוֹאָ֔ב וְעַל֙ כָּל־קְצוּצֵ֣י פֵאָ֔ה הַיֹּשְׁבִ֖ים בַּמִּדְבָּ֑ר כִּ֤י כָל־הַגּוֹיִם֙ עֲרֵלִ֔ים וְכָל־בֵּ֥ית יִשְׂרָאֵ֖ל עַרְלֵי־לֵֽב׃",
+    "bsb_english": "Egypt, Judah, Edom, Ammon, Moab, and all the inhabitants of the desert who clip the hair of their temples. For all these nations are uncircumcised, and the whole house of Israel is uncircumcised in heart.”",
+    "translation": {
+      "thai": "คืออียิปต์ ยูดาห์ เอโดม คนอัมโมน โมอับ และทุกคนที่กันผมตรงขมับซึ่งอาศัยอยู่ในถิ่นทุรกันดาร เพราะบรรดาประชาชาติทั้งสิ้นล้วนไม่ได้เข้าสุหนัต และวงศ์วานอิสราเอลทั้งหมดก็ไม่ได้เข้าสุหนัตทางใจ",
+      "thai_literal": null,
+      "thai_summary": "พระเจ้าทรงจัดยูดาห์ไว้ในรายชื่อเดียวกับชนชาติต่างศาสนา (อียิปต์ เอโดม อัมโมน โมอับ) — เพราะแม้ยูดาห์จะเข้าสุหนัตทางกาย แต่ ‘ใจ’ ของพวกเขายังไม่ได้เข้าสุหนัต จึงไม่ต่างจากคนต่างชาติ การเป็นประชากรของพระเจ้าที่แท้อยู่ที่ใจ ไม่ใช่พิธีภายนอก",
+      "key_decisions": [
+        {
+          "hebrew": "מִצְרַיִם … אֱדוֹם … בְּנֵי עַמּוֹן … מוֹאָב",
+          "rendering": "อียิปต์ … เอโดม … คนอัมโมน … โมอับ",
+          "rationale": "מִצְרַיִם → อียิปต์; אֱדוֹם → เอโดม; בְּנֵי עַמּוֹן → คนอัมโมน; מוֹאָב → โมอับ (THSV11 baseline). The surrounding nations who also practiced circumcision yet remained pagan. קְצוּצֵי פֵאָה ‘those who clip the corner [of hair/beard]’ (a pagan rite, cf. Lev 19:27) → ผู้ที่กันผมตรงขมับ."
+        },
+        {
+          "hebrew": "כָל־הַגּוֹיִם עֲרֵלִים וְכָל־בֵּית יִשְׂרָאֵל עַרְלֵי־לֵב",
+          "rendering": "บรรดาประชาชาติทั้งสิ้นล้วนไม่ได้เข้าสุหนัต และวงศ์วานอิสราเอลทั้งหมดก็ไม่ได้เข้าสุหนัตทางใจ",
+          "rationale": "ʿărēlîm ‘uncircumcised’ (the nations) → ไม่ได้เข้าสุหนัต; ʿarlê-lēv ‘uncircumcised of heart’ (Israel) → ไม่ได้เข้าสุหนัตทางใจ — the climactic wordplay: Israel, though flesh-circumcised, is no better than the uncircumcised nations because her heart is uncircumcised (cf. 4:4; Lev 26:41; Rom 2:28–29). גּוֹיִם → ประชาชาติ. Verse ends with ס marker (omitted). (Ellipsis joins the nations-list.)"
+        }
+      ],
+      "notes": "MT 9:25 = BSB 9:26. Judah listed among pagan nations (Egypt/Edom/Ammon/Moab): physical circumcision is worthless without heart-circumcision (עַרְלֵי־לֵב, the chapter's climax, tying to 4:4; Deut 10:16; Rom 2:28–29). Closes the oracle. Last verse of MT ch. 9 (= BSB 9:26)."
+    }
+  }
+]
