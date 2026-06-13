@@ -1,0 +1,979 @@
+[
+  {
+    "reference": "Jeremiah 2:1",
+    "chapter": 2,
+    "verse": 1,
+    "language": "hebrew",
+    "hebrew": "וַיְהִ֥י דְבַר־יְהוָ֖ה אֵלַ֥י לֵאמֹֽר׃",
+    "bsb_english": "Now the word of the LORD came to me, saying,",
+    "translation": {
+      "thai": "พระวจนะขององค์พระผู้เป็นเจ้ามาถึงข้าพเจ้าว่า",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้า",
+          "rationale": "יהוה → ‘องค์พระผู้เป็นเจ้า’ ตาม divine_names_table_2026-05.md (Layer 1)"
+        },
+        {
+          "hebrew": "וַיְהִי דְבַר־יְהוָה אֵלַי לֵאמֹר",
+          "rendering": "พระวจนะขององค์พระผู้เป็นเจ้ามาถึงข้าพเจ้าว่า",
+          "rationale": "The word-event formula (cf. Jer 1:4, 1:11) introducing a new oracle. First-person אֵלַי → ข้าพเจ้า (Jeremiah's memoir voice)."
+        }
+      ],
+      "notes": "First occurrence of יהוה in the chapter — see the Tetragrammaton-convention footnote in output/textual_variants/jeremiah_02.json (Layer 2). Opens the first major oracle (2:1–3:5), a covenant-lawsuit against Judah's apostasy."
+    }
+  },
+  {
+    "reference": "Jeremiah 2:2",
+    "chapter": 2,
+    "verse": 2,
+    "language": "hebrew",
+    "hebrew": "הָלֹ֡ךְ וְקָֽרָאתָ֩ בְאָזְנֵ֨י יְרוּשָׁלִַ֜ם לֵאמֹ֗ר כֹּ֚ה אָמַ֣ר יְהוָ֔ה זָכַ֤רְתִּי לָךְ֙ חֶ֣סֶד נְעוּרַ֔יִךְ אַהֲבַ֖ת כְּלוּלֹתָ֑יִךְ לֶכְתֵּ֤ךְ אַחֲרַי֙ בַּמִּדְבָּ֔ר בְּאֶ֖רֶץ לֹ֥א זְרוּעָֽה׃",
+    "bsb_english": "“Go and proclaim in the hearing of Jerusalem that this is what the LORD says: ‘I remember the devotion of your youth, your love as a bride, how you followed Me in the wilderness, in a land not sown.",
+    "translation": {
+      "thai": "“จงไปประกาศให้ชาวเยรูซาเล็มได้ยินว่า องค์พระผู้เป็นเจ้าตรัสดังนี้ว่า ‘เราระลึกถึงความรักมั่นคงของเจ้าเมื่อครั้งยังสาว ความรักเยี่ยงเจ้าสาวแรกแต่งงาน ที่เจ้าติดตามเราไปในถิ่นทุรกันดาร ในแผ่นดินที่ยังไม่ได้หว่านพืช",
+      "thai_literal": null,
+      "thai_summary": "พระเจ้าทรงเริ่มคำฟ้องด้วยการรำลึกถึง ‘ฮันนีมูน’ ในถิ่นทุรกันดาร เมื่ออิสราเอลเพิ่งออกจากอียิปต์และติดตามพระองค์อย่างซื่อสัตย์เยี่ยงเจ้าสาวที่รักเจ้าบ่าว — เป็นภาพความสัมพันธ์พันธสัญญาที่ความนอกใจในเวลาต่อมาทรยศต่อมันอย่างสิ้นเชิง",
+      "key_decisions": [
+        {
+          "hebrew": "כֹּה אָמַר יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้าตรัสดังนี้ว่า",
+          "rationale": "kōh ʾāmar YHWH — the prophetic messenger-formula, LOCKED to องค์พระผู้เป็นเจ้าตรัสดังนี้ว่า per hebrew_idioms_and_metaphor_2026-05.md §5.3. Layer 1: יהוה → องค์พระผู้เป็นเจ้า."
+        },
+        {
+          "hebrew": "חֶסֶד נְעוּרַיִךְ",
+          "rendering": "ความรักมั่นคงของเจ้าเมื่อครั้งยังสาว",
+          "rationale": "ḥesed → ความรักมั่นคง (covenant-love), corpus-locked per chesed_covenant_love_2026-05.md. Here it is Israel's covenant-devotion toward YHWH in the wilderness honeymoon; รักมั่นคง preserves the loyalty-love sense over mere affection."
+        },
+        {
+          "hebrew": "אַהֲבַת כְּלוּלֹתָיִךְ",
+          "rendering": "ความรักเยี่ยงเจ้าสาวแรกแต่งงาน",
+          "rationale": "HAPAX: כְּלוּלֹת (betrothal/bridal state, only here in the OT). The bride-bridegroom metaphor (YHWH as husband, Israel as bride) governs the whole chapter; รักเยี่ยงเจ้าสาวแรกแต่งงาน captures the espousal-love sense."
+        },
+        {
+          "hebrew": "בַּמִּדְבָּר בְּאֶרֶץ לֹא זְרוּעָה",
+          "rendering": "ในถิ่นทุรกันดาร ในแผ่นดินที่ยังไม่ได้หว่านพืช",
+          "rationale": "midbār → ถิ่นทุรกันดาร (corpus-standard, matching ἔρημος RULES §4). ‘A land not sown’ = uncultivated waste — Israel trusted YHWH where there was no food, the proof of bridal devotion."
+        }
+      ],
+      "notes": "The wilderness period idealized as a honeymoon of devotion (cf. Hos 2:14–15). Divine first-person speech → เรา; Israel addressed as 2fs bride (เจ้า)."
+    }
+  },
+  {
+    "reference": "Jeremiah 2:3",
+    "chapter": 2,
+    "verse": 3,
+    "language": "hebrew",
+    "hebrew": "קֹ֤דֶשׁ יִשְׂרָאֵל֙ לַיהוָ֔ה רֵאשִׁ֖ית תְּבוּאָתֹ֑ה כָּל־אֹכְלָ֣יו יֶאְשָׁ֔מוּ רָעָ֛ה תָּבֹ֥א אֲלֵיהֶ֖ם נְאֻם־יְהוָֽה׃",
+    "bsb_english": "Israel was holy to the LORD, the firstfruits of His harvest. All who devoured her were found guilty; disaster came upon them,’” declares the LORD.",
+    "translation": {
+      "thai": "อิสราเอลเป็นของบริสุทธิ์แด่องค์พระผู้เป็นเจ้า เป็นผลแรกแห่งผลผลิตของพระองค์ ทุกคนที่กลืนกินอิสราเอลก็มีความผิด ภัยพิบัติมาถึงพวกเขา องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้’ ”",
+      "thai_literal": null,
+      "thai_summary": "อิสราเอลเป็น ‘ผลแรก’ ที่ถวายแด่พระเจ้า ผู้ใดล่วงล้ำก็เท่ากับกินของถวายอันบริสุทธิ์ จึงมีความผิด — ภาพนี้แสดงสถานะพิเศษของอิสราเอลในฐานะของบริสุทธิ์ที่เป็นกรรมสิทธิ์ของพระเจ้า",
+      "key_decisions": [
+        {
+          "hebrew": "נְאֻם־יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้",
+          "rationale": "neʾum-YHWH → องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้, LOCKED per hebrew_idioms_and_metaphor_2026-05.md §5.4. Layer 1: יהוה → องค์พระผู้เป็นเจ้า. (לַיהוָה ‘to YHWH’ earlier in the verse also rendered องค์พระผู้เป็นเจ้า.)"
+        },
+        {
+          "hebrew": "קֹדֶשׁ יִשְׂרָאֵל … רֵאשִׁית תְּבוּאָתֹה",
+          "rendering": "อิสราเอลเป็นของบริสุทธิ์ … ผลแรกแห่งผลผลิตของพระองค์",
+          "rationale": "qōdeš (holy/set-apart thing) → ของบริสุทธิ์; rēʾšît təvûʾātô (firstfruits of his produce) → ผลแรกแห่งผลผลิต — sanctuary-offering imagery: Israel is YHWH's dedicated firstfruits, so those who ‘ate’ (attacked) her incurred sacrilege-guilt (ʾāšam → มีความผิด). (Ellipsis joins two phrases.)"
+        }
+      ],
+      "notes": "Firstfruits belonged to God; eating them was sacrilege (Lev 22:10, 16). The metaphor casts Israel's attackers as desecrators who incurred guilt — and disaster. רָעָה (disaster) → ภัยพิบัติ. Divine self-reference closes the opening remembrance."
+    }
+  },
+  {
+    "reference": "Jeremiah 2:4",
+    "chapter": 2,
+    "verse": 4,
+    "language": "hebrew",
+    "hebrew": "שִׁמְע֥וּ דְבַר־יְהוָ֖ה בֵּ֣ית יַעֲקֹ֑ב וְכָֽל־מִשְׁפְּח֖וֹת בֵּ֥ית יִשְׂרָאֵֽל׃",
+    "bsb_english": "Hear the word of the LORD, O house of Jacob, and all you families of the house of Israel.",
+    "translation": {
+      "thai": "วงศ์วานของยาโคบเอ๋ย และบรรดาตระกูลแห่งวงศ์วานอิสราเอลเอ๋ย จงฟังพระวจนะขององค์พระผู้เป็นเจ้า",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้า",
+          "rationale": "יהוה → ‘องค์พระผู้เป็นเจ้า’ ตาม divine_names_table_2026-05.md (Layer 1)"
+        },
+        {
+          "hebrew": "בֵּית יַעֲקֹב … בֵּית יִשְׂרָאֵל",
+          "rendering": "วงศ์วานของยาโคบ … วงศ์วานอิสราเอล",
+          "rationale": "bêt (house) as descendant-collective → วงศ์วาน (corpus idiom). יַעֲקֹב → ยาโคบ, יִשְׂרָאֵל → อิสราเอล (THSV11 baseline). The synonymous pair (Jacob//Israel) addresses the whole covenant people. (Ellipsis joins the parallel phrases.)"
+        }
+      ],
+      "notes": "The summons שִׁמְעוּ דְבַר־יְהוָה (‘hear the word of YHWH’) opens the formal indictment, echoing Isa 1:10's address-pattern."
+    }
+  },
+  {
+    "reference": "Jeremiah 2:5",
+    "chapter": 2,
+    "verse": 5,
+    "language": "hebrew",
+    "hebrew": "כֹּ֣ה ׀ אָמַ֣ר יְהוָ֗ה מַה־מָּצְא֨וּ אֲבוֹתֵיכֶ֥ם בִּי֙ עָ֔וֶל כִּ֥י רָחֲק֖וּ מֵעָלָ֑י וַיֵּֽלְכ֛וּ אַחֲרֵ֥י הַהֶ֖בֶל וַיֶּהְבָּֽלוּ׃",
+    "bsb_english": "This is what the LORD says: “What fault did your fathers find in Me that they strayed so far from Me? They followed worthless idols, and became worthless themselves.",
+    "translation": {
+      "thai": "องค์พระผู้เป็นเจ้าตรัสดังนี้ว่า “บรรพบุรุษของพวกเจ้าพบความอยุติธรรมอะไรในเรา จึงได้ห่างเหินไปจากเรา แล้วติดตามสิ่งไร้ค่า และก็พลอยกลายเป็นคนไร้ค่าไปด้วย?",
+      "thai_literal": null,
+      "thai_summary": "พระเจ้าทรงตั้งคำถามเชิงคดีความว่า ‘เราทำผิดอะไร?’ — ความผิดอยู่ที่ประชากร ไม่ใช่ที่พระองค์ ภาษาฮีบรูเล่นคำว่า ‘เฮเบล’ (สิ่งไร้ค่า/ลมๆ แล้งๆ) สองครั้ง: ติดตามสิ่งไร้ค่าแล้วก็กลายเป็นคนไร้ค่าไปด้วย — คนเรากลายเป็นเหมือนสิ่งที่ตนนมัสการ",
+      "key_decisions": [
+        {
+          "hebrew": "כֹּה אָמַר יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้าตรัสดังนี้ว่า",
+          "rationale": "Messenger-formula, LOCKED per hebrew_idioms §5.3. Layer 1: יהוה → องค์พระผู้เป็นเจ้า."
+        },
+        {
+          "hebrew": "אַחֲרֵי הַהֶבֶל וַיֶּהְבָּלוּ",
+          "rendering": "ติดตามสิ่งไร้ค่า และก็พลอยกลายเป็นคนไร้ค่าไปด้วย",
+          "rationale": "Polyptoton on הֶבֶל (vapor/worthlessness — the Ecclesiastes word) → สิ่งไร้ค่า + the cognate verb hāval (became worthless) → กลายเป็นคนไร้ค่า. Per wordplay_and_paronomasia_2026-05.md, the same-root play is preserved by repeating ไร้ค่า; the principle ‘you become what you worship’ is footnoted. הֶבֶל here = idols (their unreality)."
+        },
+        {
+          "hebrew": "עָוֶל",
+          "rendering": "ความอยุติธรรม",
+          "rationale": "ʿāwel = injustice/wrong → ความอยุติธรรม. The rhetorical question (‘what wrong did your fathers find in me?’) asserts YHWH's blamelessness — the covenant-lawsuit's opening move."
+        }
+      ],
+      "notes": "WORDPLAY: הֶבֶל ‘worthlessness’ + the verb הָבַל ‘to become worthless’ — pursuing empty idols empties the worshiper. The first of the chapter's rhetorical questions establishing YHWH's innocence and the people's groundless defection."
+    }
+  },
+  {
+    "reference": "Jeremiah 2:6",
+    "chapter": 2,
+    "verse": 6,
+    "language": "hebrew",
+    "hebrew": "וְלֹ֣א אָמְר֔וּ אַיֵּ֣ה יְהוָ֔ה הַמַּעֲלֶ֥ה אֹתָ֖נוּ מֵאֶ֣רֶץ מִצְרָ֑יִם הַמּוֹלִ֨יךְ אֹתָ֜נוּ בַּמִּדְבָּ֗ר בְּאֶ֨רֶץ עֲרָבָ֤ה וְשׁוּחָה֙ בְּאֶ֨רֶץ֙ צִיָּ֣ה וְצַלְמָ֔וֶת בְּאֶ֗רֶץ לֹֽא־עָ֤בַר בָּהּ֙ אִ֔ישׁ וְלֹֽא־יָשַׁ֥ב אָדָ֖ם שָֽׁם׃",
+    "bsb_english": "They did not ask, ‘Where is the LORD who brought us up from the land of Egypt, who led us through the wilderness, through a land of deserts and pits, a land of drought and darkness, a land where no one travels and no one lives?’",
+    "translation": {
+      "thai": "พวกเขาไม่ได้ถามว่า ‘องค์พระผู้เป็นเจ้าผู้ทรงนำเราขึ้นมาจากแผ่นดินอียิปต์อยู่ที่ไหน? ผู้ทรงนำเราผ่านถิ่นทุรกันดาร ผ่านดินแดนที่เป็นทะเลทรายและหลุมบ่อ ดินแดนที่แห้งแล้งและมืดมิด ดินแดนที่ไม่มีผู้ใดสัญจรและไม่มีผู้ใดอาศัยอยู่’",
+      "thai_literal": null,
+      "thai_summary": "ประชากรลืมถามหาพระเจ้าผู้ทรงช่วยกู้พวกเขาออกจากอียิปต์และนำพาผ่านถิ่นทุรกันดารอันน่าสะพรึงกลัว — บัญชีพระคุณในอดีตที่ตอกย้ำความเนรคุณของการละทิ้งพระองค์",
+      "key_decisions": [
+        {
+          "hebrew": "אַיֵּה יְהוָה הַמַּעֲלֶה … הַמּוֹלִיךְ",
+          "rendering": "องค์พระผู้เป็นเจ้าผู้ทรงนำเราขึ้นมา … ผู้ทรงนำเราผ่าน",
+          "rationale": "יהוה → องค์พระผู้เป็นเจ้า (Layer 1). The participial epithets describe YHWH's redemptive acts; rendered with the agentive ผู้ทรง- form (divine-title, not a bound ทรง-verb) honoring the exodus deeds. (Ellipsis joins the two participles.)"
+        },
+        {
+          "hebrew": "אֶרֶץ עֲרָבָה וְשׁוּחָה … צִיָּה וְצַלְמָוֶת",
+          "rendering": "ทะเลทรายและหลุมบ่อ … แห้งแล้งและมืดมิด",
+          "rationale": "Four-fold desolation: ʿărāvâ (desert plain) + šûḥâ (pit) + ṣiyyâ (drought) + ṣalmāwet (deep darkness/death-shadow). צַלְמָוֶת → ความมืดมิด (the danger/death-gloom term, cf. Ps 23:4); the wilderness is depicted as lethal terrain through which only YHWH could lead."
+        }
+      ],
+      "notes": "The recital of the exodus-and-wilderness deliverance that the people failed to recall. The participial divine epithets (the-one-who-brought-up, the-one-who-led) use reverent agentive ผู้ทรง-, which the honorifics-binding check treats as a divine title, not a verb."
+    }
+  },
+  {
+    "reference": "Jeremiah 2:7",
+    "chapter": 2,
+    "verse": 7,
+    "language": "hebrew",
+    "hebrew": "וָאָבִ֤יא אֶתְכֶם֙ אֶל־אֶ֣רֶץ הַכַּרְמֶ֔ל לֶאֱכֹ֥ל פִּרְיָ֖הּ וְטוּבָ֑הּ וַתָּבֹ֨אוּ֙ וַתְּטַמְּא֣וּ אֶת־אַרְצִ֔י וְנַחֲלָתִ֥י שַׂמְתֶּ֖ם לְתוֹעֵבָֽה׃",
+    "bsb_english": "I brought you into a fertile land to eat its fruit and bounty, but you came and defiled My land and made My inheritance detestable.",
+    "translation": {
+      "thai": "เราได้นำพวกเจ้าเข้าสู่ดินแดนอันอุดมสมบูรณ์ เพื่อกินผลและความบริบูรณ์ของมัน แต่เมื่อพวกเจ้าเข้ามา กลับทำให้แผ่นดินของเราเป็นมลทิน และทำให้มรดกของเราเป็นสิ่งน่าสะอิดสะเอียน",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "אֶרֶץ הַכַּרְמֶל",
+          "rendering": "ดินแดนอันอุดมสมบูรณ์",
+          "rationale": "karmel = orchard-land / fertile garden country (here common-noun, not the mountain) → ดินแดนอันอุดมสมบูรณ์, contrasting the lethal wilderness of v. 6."
+        },
+        {
+          "hebrew": "וְנַחֲלָתִי שַׂמְתֶּם לְתוֹעֵבָה",
+          "rendering": "ทำให้มรดกของเราเป็นสิ่งน่าสะอิดสะเอียน",
+          "rationale": "naḥălâ (inheritance/possession — the promised land as YHWH's gift) → มรดก; tôʿēvâ → สิ่งน่าสะอิดสะเอียน (abomination-lexeme, matching shipped Isa 1:13). ṭāmēʾ ‘defile’ → ทำให้เป็นมลทิน — the land polluted by idolatry."
+        }
+      ],
+      "notes": "Divine first-person (เรา): the gift of the good land answered by its defilement. The land as YHWH's נַחֲלָה (inheritance) makes its pollution a personal affront."
+    }
+  },
+  {
+    "reference": "Jeremiah 2:8",
+    "chapter": 2,
+    "verse": 8,
+    "language": "hebrew",
+    "hebrew": "הַכֹּהֲנִ֗ים לֹ֤א אָֽמְרוּ֙ אַיֵּ֣ה יְהוָ֔ה וְתֹפְשֵׂ֤י הַתּוֹרָה֙ לֹ֣א יְדָע֔וּנִי וְהָרֹעִ֖ים פָּ֣שְׁעוּ בִ֑י וְהַנְּבִיאִים֙ נִבְּא֣וּ בַבַּ֔עַל וְאַחֲרֵ֥י לֹֽא־יוֹעִ֖לוּ הָלָֽכוּ׃",
+    "bsb_english": "The priests did not ask, ‘Where is the LORD?’ The experts in the law no longer knew Me, and the leaders rebelled against Me. The prophets prophesied by Baal and followed useless idols.",
+    "translation": {
+      "thai": "บรรดาปุโรหิตไม่ได้ถามว่า ‘องค์พระผู้เป็นเจ้าอยู่ที่ไหน?’ บรรดาผู้เชี่ยวชาญธรรมบัญญัติก็ไม่รู้จักเรา บรรดาผู้เลี้ยงดูประชาชนก็กบฏต่อเรา ส่วนบรรดาผู้เผยพระวจนะก็พยากรณ์โดยพระบาอัล และติดตามสิ่งที่ไร้ประโยชน์",
+      "thai_literal": null,
+      "thai_summary": "ผู้นำทุกระดับล้มเหลวพร้อมกัน — ปุโรหิตไม่แสวงหาพระเจ้า ผู้รู้ธรรมบัญญัติไม่รู้จักพระองค์ ผู้ปกครองกบฏ และผู้เผยพระวจนะพยากรณ์ในนามพระบาอัล ความเสื่อมจึงลามทั่วทั้งสถาบันของชาติ",
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้า",
+          "rationale": "יהוה → ‘องค์พระผู้เป็นเจ้า’ ตาม divine_names_table_2026-05.md (Layer 1)"
+        },
+        {
+          "hebrew": "תֹפְשֵׂי הַתּוֹרָה",
+          "rendering": "ผู้เชี่ยวชาญธรรมบัญญัติ",
+          "rationale": "tōpśê hattôrâ ‘handlers/holders of the law’ → ผู้เชี่ยวชาญธรรมบัญญัติ. תּוֹרָה → ธรรมบัญญัติ (Torah-corpus lock). These are the legal/priestly experts whose job was to know YHWH."
+        },
+        {
+          "hebrew": "וְהָרֹעִים פָּשְׁעוּ בִי",
+          "rendering": "บรรดาผู้เลี้ยงดูประชาชนก็กบฏต่อเรา",
+          "rationale": "rōʿîm ‘shepherds’ = the rulers/leaders (the shepherd-metaphor for civil authority) → ผู้เลี้ยงดูประชาชน to make the metaphor legible to Thai readers. pāšaʿ → กบฏ (covenant-rebellion, matching shipped Isa 1:2)."
+        },
+        {
+          "hebrew": "נִבְּאוּ בַבַּעַל",
+          "rendering": "พยากรณ์โดยพระบาอัล",
+          "rationale": "הַבַּעַל Baal → พระบาอัล (foreign-deity register per ot_register_policy §3.1 — เทพ/พระ-prefix-as-proper-name, never พระเจ้า which is reserved for YHWH). The prophets spoke oracles in Baal's name."
+        }
+      ],
+      "notes": "Four leadership classes indicted in turn: priests, law-experts, rulers (shepherds), prophets. The prophets ‘prophesied by Baal’ — the deepest corruption, false revelation in a false god's name. ‘Useless things’ (לֹא־יוֹעִלוּ) = idols (cf. v. 11)."
+    }
+  },
+  {
+    "reference": "Jeremiah 2:9",
+    "chapter": 2,
+    "verse": 9,
+    "language": "hebrew",
+    "hebrew": "לָכֵ֗ן עֹ֛ד אָרִ֥יב אִתְּכֶ֖ם נְאֻם־יְהוָ֑ה וְאֶת־בְּנֵ֥י בְנֵיכֶ֖ם אָרִֽיב׃",
+    "bsb_english": "Therefore, I will contend with you again, declares the LORD, and I will bring a case against your children’s children.",
+    "translation": {
+      "thai": "เพราะฉะนั้น เราจะยังคงสู้ความกับพวกเจ้าต่อไป องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้ และเราจะสู้ความกับลูกหลานของพวกเจ้าด้วย",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "נְאֻם־יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้",
+          "rationale": "neʾum-YHWH → องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้, LOCKED per hebrew_idioms §5.4. Layer 1: יהוה → องค์พระผู้เป็นเจ้า."
+        },
+        {
+          "hebrew": "אָרִיב אִתְּכֶם",
+          "rendering": "เราจะยังคงสู้ความกับพวกเจ้า",
+          "rationale": "rîv = the covenant-lawsuit verb ‘contend/bring legal case’ → สู้ความ/ฟ้องร้อง, the juridical frame governing the chapter (same rîv motif as Isa 1). YHWH is plaintiff against his covenant people."
+        }
+      ],
+      "notes": "לָכֵן (‘therefore’) pivots from indictment to verdict-process. The rîv (lawsuit) extends even to future generations — the apostasy is generational."
+    }
+  },
+  {
+    "reference": "Jeremiah 2:10",
+    "chapter": 2,
+    "verse": 10,
+    "language": "hebrew",
+    "hebrew": "כִּ֣י עִבְר֞וּ אִיֵּ֤י כִתִּיִּים֙ וּרְא֔וּ וְקֵדָ֛ר שִׁלְח֥וּ וְהִֽתְבּוֹנְנ֖וּ מְאֹ֑ד וּרְא֕וּ הֵ֥ן הָיְתָ֖ה כָּזֹֽאת׃",
+    "bsb_english": "Cross over to the coasts of Cyprus and take a look; send to Kedar and consider carefully; see if there has ever been anything like this:",
+    "translation": {
+      "thai": "จงข้ามไปยังชายฝั่งของชาวคิทธิมแล้วดูเถิด จงส่งคนไปยังเคดาร์และพิจารณาให้ดี จงดูว่าเคยมีสิ่งใดเป็นเช่นนี้บ้างหรือไม่",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "אִיֵּי כִתִּיִּים … קֵדָר",
+          "rendering": "ชายฝั่งของชาวคิทธิม … เคดาร์",
+          "rationale": "כִתִּיִּים Kittim → ชาวคิทธิม (the far west, Cyprus/Mediterranean coastlands); קֵדָר Kedar → เคดาร์ (the far east, Arabian desert tribes). The west-to-east merism = ‘look everywhere.’ THSV11-style transliterations. (Ellipsis joins the two place-names.)"
+        }
+      ],
+      "notes": "Rhetorical challenge: search the whole world, west (Kittim) to east (Kedar), for a parallel to Israel's folly (v. 11). Even pagans keep their gods; Israel alone abandoned the true God."
+    }
+  },
+  {
+    "reference": "Jeremiah 2:11",
+    "chapter": 2,
+    "verse": 11,
+    "language": "hebrew",
+    "hebrew": "הַהֵימִ֥יר גּוֹי֙ אֱלֹהִ֔ים וְהֵ֖מָּה לֹ֣א אֱלֹהִ֑ים וְעַמִּ֛י הֵמִ֥יר כְּבוֹד֖וֹ בְּל֥וֹא יוֹעִֽיל׃",
+    "bsb_english": "Has a nation ever changed its gods? (Yet they are not gods at all.) But My people have exchanged their Glory for useless idols.",
+    "translation": {
+      "thai": "เคยมีชนชาติใดเปลี่ยนพระของตนบ้างหรือ? ทั้งที่สิ่งเหล่านั้นไม่ใช่พระเจ้าเลย แต่ประชากรของเรากลับเอาพระสิริของตนไปแลกกับสิ่งที่ไร้ประโยชน์",
+      "thai_literal": null,
+      "thai_summary": "ความย้อนแย้งอันน่าตกตะลึง: ชนชาติต่างศาสนายังภักดีต่อ ‘พระ’ ของตนที่ไม่ใช่พระเจ้าจริง แต่อิสราเอลกลับทิ้งพระเจ้าผู้ทรงพระสิริที่แท้จริง ไปแลกกับรูปเคารพที่ช่วยอะไรไม่ได้",
+      "key_decisions": [
+        {
+          "hebrew": "הַהֵימִיר גּוֹי אֱלֹהִים וְהֵמָּה לֹא אֱלֹהִים",
+          "rendering": "เคยมีชนชาติใดเปลี่ยนพระของตนบ้างหรือ? ทั้งที่สิ่งเหล่านั้นไม่ใช่พระเจ้าเลย",
+          "rationale": "HAPAX root in this stem: hēmîr (Hiphil of מור, ‘exchange’ — only here in this exact form). אֱלֹהִים of the nations = พระ (pagan gods, withholding the divine classifier); the parenthetical וְהֵמָּה לֹא אֱלֹהִים ‘they are not gods’ → ไม่ใช่พระเจ้า exposes their unreality."
+        },
+        {
+          "hebrew": "הֵמִיר כְּבוֹדוֹ בְּלוֹא יוֹעִיל",
+          "rendering": "เอาพระสิริของตนไปแลกกับสิ่งที่ไร้ประโยชน์",
+          "rationale": "kāvôd ‘Glory’ here = YHWH himself (the people's true Glory) → พระสิริ; bəlôʾ yôʿîl ‘for what does not profit’ → สิ่งที่ไร้ประโยชน์ (idols). The exchange is a catastrophic downgrade — the glorious God for worthless images."
+        }
+      ],
+      "notes": "‘Their Glory’ (כְּבוֹדוֹ) is an honorific for YHWH; an early scribal note (tiqqun sopherim tradition) links it to כְּבוֹדִי ‘My glory.’ The point: pagan loyalty shames Israel's apostasy. No יהוה token in this verse (idol-vocabulary only)."
+    }
+  },
+  {
+    "reference": "Jeremiah 2:12",
+    "chapter": 2,
+    "verse": 12,
+    "language": "hebrew",
+    "hebrew": "שֹׁ֥מּוּ שָׁמַ֖יִם עַל־זֹ֑את וְשַׂעֲר֛וּ חָרְב֥וּ מְאֹ֖ד נְאֻם־יְהוָֽה׃",
+    "bsb_english": "Be stunned by this, O heavens; be shocked and utterly appalled,” declares the LORD.",
+    "translation": {
+      "thai": "ฟ้าสวรรค์เอ๋ย จงตกตะลึงในเรื่องนี้ จงหวาดผวาและสะพรึงกลัวยิ่งนัก องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "נְאֻם־יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้",
+          "rationale": "neʾum-YHWH → องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้, LOCKED per hebrew_idioms §5.4. Layer 1: יהוה → องค์พระผู้เป็นเจ้า."
+        },
+        {
+          "hebrew": "שֹׁמּוּ שָׁמַיִם … חָרְבוּ מְאֹד",
+          "rendering": "ฟ้าสวรรค์เอ๋ย จงตกตะลึง … สะพรึงกลัวยิ่งนัก",
+          "rationale": "Three escalating verbs of horror addressed to the heavens (šāmēm ‘be appalled’, śāʿar ‘shudder’, ḥārēv ‘be utterly desolate/aghast’) → ตกตะลึง / หวาดผวา / สะพรึงกลัว. The cosmos itself is summoned as horrified witness to the apostasy (cf. the heavens-witness of Isa 1:2). (Ellipsis joins the verb-series.)"
+        }
+      ],
+      "notes": "Heavens-as-witness (cf. Deut 32:1; Isa 1:2). The piled horror-verbs mark Israel's god-swap as an offense against the created order."
+    }
+  },
+  {
+    "reference": "Jeremiah 2:13",
+    "chapter": 2,
+    "verse": 13,
+    "language": "hebrew",
+    "hebrew": "כִּֽי־שְׁתַּ֥יִם רָע֖וֹת עָשָׂ֣ה עַמִּ֑י אֹתִ֨י עָזְב֜וּ מְק֣וֹר ׀ מַ֣יִם חַיִּ֗ים לַחְצֹ֤ב לָהֶם֙ בֹּאר֔וֹת בֹּארֹת֙ נִשְׁבָּרִ֔ים אֲשֶׁ֥ר לֹא־יָכִ֖לוּ הַמָּֽיִם׃",
+    "bsb_english": "“For My people have committed two evils: They have forsaken Me, the fountain of living water, and they have dug their own cisterns—broken cisterns that cannot hold water.",
+    "translation": {
+      "thai": "“เพราะประชากรของเราได้ทำความชั่วสองประการ คือพวกเขาได้ละทิ้งเรา ผู้เป็นน้ำพุแห่งน้ำที่มีชีวิต แล้วไปขุดบ่อเก็บน้ำสำหรับตนเอง เป็นบ่อที่แตกร้าวซึ่งเก็บน้ำไม่อยู่",
+      "thai_literal": null,
+      "thai_summary": "ภาพหัวใจของบททั้งบท: ความชั่วสองชั้น — ละทิ้ง ‘น้ำพุแห่งน้ำที่มีชีวิต’ (น้ำไหลบริสุทธิ์ไม่มีวันแห้ง) คือพระเจ้าเอง แล้วหันไปขุด ‘บ่อร้าว’ ที่กักน้ำไม่อยู่ คือบรรดาพระเทียมเท็จ — การแลกที่โง่เขลาและถึงตาย",
+      "key_decisions": [
+        {
+          "hebrew": "מְקוֹר מַיִם חַיִּים",
+          "rendering": "น้ำพุแห่งน้ำที่มีชีวิต",
+          "rationale": "māqôr (fountain/spring) + mayim ḥayyîm (living/running water) → น้ำพุแห่งน้ำที่มีชีวิต. ‘Living water’ = fresh flowing spring-water, inexhaustible — YHWH himself; the metaphor is later taken up at John 4:10–14, 7:38."
+        },
+        {
+          "hebrew": "בֹּארֹת נִשְׁבָּרִים אֲשֶׁר לֹא־יָכִלוּ הַמָּיִם",
+          "rendering": "บ่อที่แตกร้าวซึ่งเก็บน้ำไม่อยู่",
+          "rationale": "bōʾrôt (hewn cisterns, water-storage pits) → บ่อเก็บน้ำ; nišbārîm (cracked) → แตกร้าว. The contrast is the point: a living spring needs no digging and never fails; a man-made cistern is dependent labor that, cracked, holds nothing. The idols are self-dug, broken, and empty."
+        }
+      ],
+      "notes": "The signature image of Jeremiah's indictment: ‘two evils’ — forsaking the spring AND digging broken cisterns. No יהוה token (divine first-person ‘they have forsaken Me’). The fountain/living-water motif anchors the NT echoes (Jn 4, 7; Rev 21:6)."
+    }
+  },
+  {
+    "reference": "Jeremiah 2:14",
+    "chapter": 2,
+    "verse": 14,
+    "language": "hebrew",
+    "hebrew": "הַעֶ֨בֶד֙ יִשְׂרָאֵ֔ל אִם־יְלִ֥יד בַּ֖יִת ה֑וּא מַדּ֖וּעַ הָיָ֥ה לָבַֽז׃",
+    "bsb_english": "Is Israel a slave? Was he born into slavery? Why then has he become prey?",
+    "translation": {
+      "thai": "อิสราเอลเป็นทาสหรือ? เขาเกิดมาเป็นทาสในบ้านหรือ? แล้วทำไมเขาจึงกลายเป็นเหยื่อให้เขาปล้น?",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יְלִיד בַּיִת",
+          "rendering": "เกิดมาเป็นทาสในบ้าน",
+          "rationale": "yəlîd bayit ‘born of the house’ = a home-born slave → เกิดมาเป็นทาสในบ้าน (metonymy for born into slavery). The rhetorical questions imply: Israel is no slave by birth — so his plundered state is self-inflicted (v. 17)."
+        },
+        {
+          "hebrew": "לָבַז",
+          "rendering": "เหยื่อให้เขาปล้น",
+          "rationale": "baz = plunder/prey → เหยื่อให้เขาปล้น. The free-born son reduced to spoil — a scandal demanding explanation, answered in vv. 15–19."
+        }
+      ],
+      "notes": "Yahweh speaks of Israel in the third person (a courtroom aside). The slave/prey questions set up the lion-imagery of v. 15 and the self-indictment of v. 17."
+    }
+  },
+  {
+    "reference": "Jeremiah 2:15",
+    "chapter": 2,
+    "verse": 15,
+    "language": "hebrew",
+    "hebrew": "עָלָיו֙ יִשְׁאֲג֣וּ כְפִרִ֔ים נָתְנ֖וּ קוֹלָ֑ם וַיָּשִׁ֤יתוּ אַרְצוֹ֙ לְשַׁמָּ֔ה עָרָ֥יו נִצְּת֖וּ מִבְּלִ֥י יֹשֵֽׁב׃",
+    "bsb_english": "The young lions have roared at him; they have sounded their voices. They have laid waste his land; his cities lie in ruins, without inhabitant.",
+    "translation": {
+      "thai": "เหล่าสิงห์หนุ่มคำรามใส่เขา ส่งเสียงร้องกึกก้อง พวกมันได้ทำให้แผ่นดินของเขาเป็นที่รกร้าง เมืองทั้งหลายของเขาถูกเผาจนไม่มีผู้อยู่อาศัย",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יִשְׁאֲגוּ כְפִרִים",
+          "rendering": "เหล่าสิงห์หนุ่มคำราม",
+          "rationale": "kəpîrîm (young lions) roaring → เหล่าสิงห์หนุ่มคำราม — the metaphor for the invading nations (Assyria/Babylon) attacking Israel. שָׁאַג (lion's roar) → คำราม."
+        },
+        {
+          "hebrew": "אַרְצוֹ לְשַׁמָּה עָרָיו נִצְּתוּ",
+          "rendering": "แผ่นดินของเขาเป็นที่รกร้าง เมืองทั้งหลายของเขาถูกเผา",
+          "rationale": "šammâ (desolation/horror) → ที่รกร้าง; nāṣat (burned/laid in ruins — the niṣṣətû form, MT-pointed as ‘burned’) → ถูกเผา. The land and cities devastated, depopulated — the prey-state of v. 14 realized."
+        }
+      ],
+      "notes": "The lion-metaphor for enemy invasion; the desolation already historical (Northern Kingdom's fall, 722 BC) and prophetic of Judah's. ‘Without inhabitant’ (מִבְּלִי יֹשֵׁב) is a Jeremianic refrain (4:7; 9:11)."
+    }
+  },
+  {
+    "reference": "Jeremiah 2:16",
+    "chapter": 2,
+    "verse": 16,
+    "language": "hebrew",
+    "hebrew": "גַּם־בְּנֵי־נֹ֖ף וְתַחְפַּנְחֵ֑ס יִרְע֖וּךְ קָדְקֹֽד׃",
+    "bsb_english": "The men of Memphis and Tahpanhes have shaved the crown of your head.",
+    "translation": {
+      "thai": "แม้แต่ชาวเมมฟิสและทาห์ปานเหสก็ได้โกนกลางกระหม่อมของเจ้า",
+      "thai_literal": null,
+      "thai_summary": "เมมฟิสและทาห์ปานเหสเป็นเมืองในอียิปต์ — ชาติที่ยูดาห์หวังพึ่ง กลับเป็นผู้ทำให้ยูดาห์อับอาย ‘โกนกระหม่อม’ เป็นเครื่องหมายของทาสหรือการถูกหยามเกียรติ",
+      "key_decisions": [
+        {
+          "hebrew": "בְּנֵי־נֹף וְתַחְפַּנְחֵס",
+          "rendering": "ชาวเมมฟิสและทาห์ปานเหส",
+          "rationale": "נֹף Noph = Memphis → เมมฟิส (using the well-known city-name); תַּחְפַּנְחֵס Tahpanhes → ทาห์ปานเหส — two Egyptian cities. Egypt, the ally Judah trusted, becomes the agent of her humiliation."
+        },
+        {
+          "hebrew": "יִרְעוּךְ קָדְקֹד",
+          "rendering": "โกนกลางกระหม่อมของเจ้า",
+          "rationale": "qodqōd (crown of the head) → กลางกระหม่อม. The verb (MT יִרְעוּךְ) read as ‘graze/shave bare’ → โกน, the Egyptian marking of slaves. An alternate reading repoints to ‘crack/break your skull’; the slave-shaving sense is followed (BSB), with the variant noted."
+        }
+      ],
+      "notes": "TEXTUAL/LEXICAL: יִרְעוּךְ — MT pointing suggests ‘graze/shave’ (slave-marking); some read רעע ‘break’ (‘have cracked your skull’). Shaving the crown is a humiliation-rite. Egypt, the trusted ally, shames Judah — the futility theme of v. 18."
+    }
+  },
+  {
+    "reference": "Jeremiah 2:17",
+    "chapter": 2,
+    "verse": 17,
+    "language": "hebrew",
+    "hebrew": "הֲלוֹא־זֹ֖את תַּעֲשֶׂה־לָּ֑ךְ עָזְבֵךְ֙ אֶת־יְהוָ֣ה אֱלֹהַ֔יִךְ בְּעֵ֖ת מוֹלִיכֵ֥ךְ בַּדָּֽרֶךְ׃",
+    "bsb_english": "Have you not brought this on yourself by forsaking the LORD your God when He led you in the way?",
+    "translation": {
+      "thai": "เจ้าได้นำสิ่งนี้มาสู่ตนเองมิใช่หรือ? ด้วยการที่เจ้าละทิ้งองค์พระผู้เป็นเจ้าพระเจ้าของเจ้า ในเวลาที่พระองค์ทรงนำเจ้าไปตามทาง",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้า",
+          "rationale": "יהוה → ‘องค์พระผู้เป็นเจ้า’ ตาม divine_names_table_2026-05.md (Layer 1)"
+        },
+        {
+          "hebrew": "עָזְבֵךְ אֶת־יְהוָה אֱלֹהַיִךְ בְּעֵת מוֹלִיכֵךְ בַּדָּרֶךְ",
+          "rendering": "การที่เจ้าละทิ้งองค์พระผู้เป็นเจ้าพระเจ้าของเจ้า ในเวลาที่พระองค์ทรงนำเจ้าไปตามทาง",
+          "rationale": "אֱלֹהַיִךְ → พระเจ้าของเจ้า. The participial ‘when he was leading you’ describes YHWH's guidance → ทรงนำ (royal; subject พระองค์/องค์พระผู้เป็นเจ้า present). The self-inflicted disaster (v. 14's question answered): the humiliation flows from forsaking the very God who was guiding them."
+        }
+      ],
+      "notes": "The rhetorical question fixes blame: Israel's plundered, shamed state is the fruit of abandoning YHWH mid-journey. Sets up the futility of the Egypt/Assyria alliances (v. 18)."
+    }
+  },
+  {
+    "reference": "Jeremiah 2:18",
+    "chapter": 2,
+    "verse": 18,
+    "language": "hebrew",
+    "hebrew": "וְעַתָּ֗ה מַה־לָּךְ֙ לְדֶ֣רֶךְ מִצְרַ֔יִם לִשְׁתּ֖וֹת מֵ֣י שִׁח֑וֹר וּמַה־לָּךְ֙ לְדֶ֣רֶךְ אַשּׁ֔וּר לִשְׁתּ֖וֹת מֵ֥י נָהָֽר׃",
+    "bsb_english": "Now what will you gain on your way to Egypt to drink the waters of the Nile? What will you gain on your way to Assyria to drink the waters of the Euphrates?",
+    "translation": {
+      "thai": "บัดนี้ เจ้าจะได้ประโยชน์อะไรจากการเดินทางไปอียิปต์เพื่อดื่มน้ำแห่งแม่น้ำชิโหร์? และเจ้าจะได้ประโยชน์อะไรจากการเดินทางไปอัสซีเรียเพื่อดื่มน้ำแห่งแม่น้ำยูเฟรติส?",
+      "thai_literal": null,
+      "thai_summary": "ย้อนภาพ ‘บ่อร้าว’ ในข้อ 13: ยูดาห์วิ่งหาพันธมิตรทั้งอียิปต์ (แม่น้ำชิโหร์/ไนล์) และอัสซีเรีย (แม่น้ำยูเฟรติส) เพื่อ ‘ดื่มน้ำ’ แต่กลับละทิ้งน้ำพุที่แท้จริง การพึ่งมหาอำนาจต่างชาติแทนพระเจ้าจึงไร้ประโยชน์",
+      "key_decisions": [
+        {
+          "hebrew": "מֵי שִׁחוֹר",
+          "rendering": "น้ำแห่งแม่น้ำชิโหร์",
+          "rationale": "שִׁחוֹר Shihor → แม่น้ำชิโหร์ — a stream/branch associated with Egypt (often identified with the Nile). Transliterated proper-name; ‘drinking its water’ = relying on Egypt. BSB renders ‘the Nile.’"
+        },
+        {
+          "hebrew": "מֵי נָהָר",
+          "rendering": "น้ำแห่งแม่น้ำยูเฟรติส",
+          "rationale": "han-nāhār ‘the River’ = the Euphrates by convention → แม่น้ำยูเฟรติส (matching Thai-Bible usage for ‘the River’ as Assyria's Euphrates). ‘Drinking its water’ = relying on Assyria. The two great-power waters contrast the abandoned ‘living water’ of v. 13."
+        }
+      ],
+      "notes": "The water-imagery binds back to v. 13: chasing foreign-power ‘waters’ (Egypt's Nile, Assyria's Euphrates) instead of YHWH the fountain. Political alliance as spiritual adultery."
+    }
+  },
+  {
+    "reference": "Jeremiah 2:19",
+    "chapter": 2,
+    "verse": 19,
+    "language": "hebrew",
+    "hebrew": "תְּיַסְּרֵ֣ךְ רָעָתֵ֗ךְ וּמְשֻֽׁבוֹתַ֨יִךְ֙ תּוֹכִחֻ֔ךְ וּדְעִ֤י וּרְאִי֙ כִּי־רַ֣ע וָמָ֔ר עָזְבֵ֖ךְ אֶת־יְהוָ֣ה אֱלֹהָ֑יִךְ וְלֹ֤א פַחְדָּתִי֙ אֵלַ֔יִךְ נְאֻם־אֲדֹנָ֥י יְהוִ֖ה צְבָאֽוֹת׃",
+    "bsb_english": "Your own evil will discipline you; your own apostasies will reprimand you. Consider and realize how evil and bitter it is for you to forsake the LORD your God and to have no fear of Me,” declares the Lord GOD of Hosts.",
+    "translation": {
+      "thai": "ความชั่วของเจ้าเองจะลงโทษเจ้า และการหันเหไปจากพระเจ้าของเจ้าจะเป็นคำกล่าวโทษเจ้า จงรู้และตระหนักเถิดว่า เป็นเรื่องชั่วร้ายและขมขื่นเพียงใดที่เจ้าได้ละทิ้งองค์พระผู้เป็นเจ้าพระเจ้าของเจ้า และไม่มีความยำเกรงเราอยู่ในเจ้าเลย องค์พระผู้เป็นเจ้าจอมโยธาตรัสไว้ดังนี้",
+      "thai_literal": null,
+      "thai_summary": "การลงโทษไม่ใช่สิ่งที่พระเจ้าทรงยัดเยียดจากภายนอก แต่คือผลที่ความชั่วของยูดาห์เองสร้างขึ้น — บาปนำโทษมาเอง การละทิ้งพระเจ้าจึงทั้ง ‘ชั่วร้าย’ และ ‘ขมขื่น’ ในตัวมันเอง",
+      "key_decisions": [
+        {
+          "hebrew": "נְאֻם־אֲדֹנָי יְהוִה צְבָאוֹת",
+          "rendering": "องค์พระผู้เป็นเจ้าจอมโยธาตรัสไว้ดังนี้",
+          "rationale": "neʾum ʾădōnāy YHWH ṣəvāʾôt — the utterance-formula with the compound אֲדֹנָי יְהוִה + צְבָאוֹת. Per divine_names_table_2026-05.md, יְהוָה צְבָאוֹת → องค์พระผู้เป็นเจ้าจอมโยธา (matching shipped Isa 1:9 / Jas 5:4); the Adonai-YHWH compound collapses into the same rendering. Layer 1: יהוה → องค์พระผู้เป็นเจ้า. (Also עָזְבֵךְ אֶת־יְהוָה ‘forsake YHWH’ earlier → องค์พระผู้เป็นเจ้า.)"
+        },
+        {
+          "hebrew": "מְשֻׁבוֹתַיִךְ … וְלֹא פַחְדָּתִי אֵלַיִךְ",
+          "rendering": "การหันเหไปจากพระเจ้า … ไม่มีความยำเกรงเราอยู่ในเจ้า",
+          "rationale": "məšuvôt (apostasies/backslidings, a Jeremianic keyword) → การหันเหไปจากพระเจ้า. HAPAX: פַחְדָּה (dread/fear, fem. — only here) → ความยำเกรง; ‘my dread is not in you’ = no reverent fear of YHWH. The discipline is self-generated: sin punishes the sinner."
+        }
+      ],
+      "notes": "Compound divine title אֲדֹנָי יְהוִה צְבָאוֹת ‘Lord GOD of Hosts.’ The doctrine of sin's self-punishment: רָעָה (evil) and מְשֻׁבָה (apostasy) personified as the disciplinarians. HAPAX פַחְדָּה."
+    }
+  },
+  {
+    "reference": "Jeremiah 2:20",
+    "chapter": 2,
+    "verse": 20,
+    "language": "hebrew",
+    "hebrew": "כִּ֣י מֵעוֹלָ֞ם שָׁבַ֣רְתִּי עֻלֵּ֗ךְ נִתַּ֨קְתִּי֙ מוֹסְרֹתַ֔יִךְ וַתֹּאמְרִ֖י לֹ֣א אֶעֱב֑וֹר כִּ֣י עַֽל־כָּל־גִּבְעָ֞ה גְּבֹהָ֗ה וְתַ֨חַת֙ כָּל־עֵ֣ץ רַעֲנָ֔ן אַ֖תְּ צֹעָ֥ה זֹנָֽה׃",
+    "bsb_english": "“For long ago you broke your yoke and tore off your chains, saying, ‘I will not serve!’ Indeed, on every high hill and under every green tree you lay down as a prostitute.",
+    "translation": {
+      "thai": "“เพราะตั้งแต่นานมาแล้ว เราได้หักแอกของเจ้า และปลดโซ่ตรวนของเจ้าออก แต่เจ้ากลับพูดว่า ‘ข้าจะไม่ยอมปรนนิบัติ!’ แท้จริงบนเนินเขาสูงทุกลูกและใต้ต้นไม้เขียวสดทุกต้น เจ้าได้เอนกายลงเยี่ยงหญิงโสเภณี",
+      "thai_literal": null,
+      "thai_summary": "‘บนเนินเขาสูงทุกลูกและใต้ต้นไม้เขียวทุกต้น’ เป็นสำนวนประจำที่หมายถึงสถานบูชาพระเทียมเท็จตามที่สูง ภาพการนมัสการรูปเคารพถูกพรรณนาเป็นการนอกใจทางเพศ คือการทรยศพันธสัญญาเหมือนภรรยาที่นอกใจสามี",
+      "key_decisions": [
+        {
+          "hebrew": "שָׁבַרְתִּי עֻלֵּךְ נִתַּקְתִּי מוֹסְרֹתַיִךְ",
+          "rendering": "เราได้หักแอกของเจ้า และปลดโซ่ตรวนของเจ้าออก",
+          "rationale": "ʿōl (yoke) + môsērôt (bonds/chains) → แอก + โซ่ตรวน — the exodus liberation imagery (YHWH freed Israel from Egypt's slavery). MT reads 1cs ‘I broke/tore’ (YHWH the liberator); the freed people then refuse to serve."
+        },
+        {
+          "hebrew": "עַל־כָּל־גִּבְעָה גְּבֹהָה וְתַחַת כָּל־עֵץ רַעֲנָן אַתְּ צֹעָה זֹנָה",
+          "rendering": "บนเนินเขาสูงทุกลูกและใต้ต้นไม้เขียวสดทุกต้น เจ้าได้เอนกายลงเยี่ยงหญิงโสเภณี",
+          "rationale": "The stock phrase for high-place idolatry (every high hill / every green tree). zōnâ (prostitute) → หญิงโสเภณี; ṣōʿâ (bending/sprawling down) → เอนกายลง. The Baal-cult's sacred-prostitution sites are described as Israel-the-bride's adultery (the chapter's controlling metaphor)."
+        }
+      ],
+      "notes": "‘On every high hill and under every green tree’ — the fixed idiom for Canaanite high-place worship (Deut 12:2; 1 Kgs 14:23). Spiritual adultery rendered in the marital-infidelity register that governs vv. 20–25."
+    }
+  },
+  {
+    "reference": "Jeremiah 2:21",
+    "chapter": 2,
+    "verse": 21,
+    "language": "hebrew",
+    "hebrew": "וְאָֽנֹכִי֙ נְטַעְתִּ֣יךְ שֹׂרֵ֔ק כֻּלֹּ֖ה זֶ֣רַע אֱמֶ֑ת וְאֵיךְ֙ נֶהְפַּ֣כְתְּ לִ֔י סוּרֵ֖י הַגֶּ֥פֶן נָכְרִיָּֽה׃",
+    "bsb_english": "I had planted you like a choice vine from the very best seed. How could you turn yourself before Me into a rotten, wild vine?",
+    "translation": {
+      "thai": "เราได้ปลูกเจ้าไว้ดั่งเถาองุ่นพันธุ์ดี จากเมล็ดพันธุ์แท้ล้วน ๆ แล้วเจ้ากลับกลายเป็นเถาเสื่อมทราม เป็นเถาองุ่นป่าต่อหน้าเราได้อย่างไร?",
+      "thai_literal": null,
+      "thai_summary": "พระเจ้าทรงปลูกอิสราเอลเหมือนเถาองุ่นพันธุ์เลิศจากเมล็ดบริสุทธิ์ แต่อิสราเอลกลับกลายพันธุ์เป็นเถาเถื่อนที่ให้ผลเลว — ภาพคู่ขนานกับเพลงเถาองุ่นในอิสยาห์ 5",
+      "key_decisions": [
+        {
+          "hebrew": "נְטַעְתִּיךְ שֹׂרֵק … זֶרַע אֱמֶת",
+          "rendering": "ปลูกเจ้าไว้ดั่งเถาองุ่นพันธุ์ดี … เมล็ดพันธุ์แท้",
+          "rationale": "śōrēq = a choice red/noble grapevine → เถาองุ่นพันธุ์ดี; zeraʿ ʾemet ‘seed of truth/genuineness’ → เมล็ดพันธุ์แท้. The vineyard-planting metaphor (cf. Isa 5:1–7; Ps 80:8) — YHWH gave Israel the best possible start."
+        },
+        {
+          "hebrew": "סוּרֵי הַגֶּפֶן נָכְרִיָּה",
+          "rendering": "เถาเสื่อมทราม … เถาองุ่นป่า",
+          "rationale": "sûrê (degenerate shoots) + gepen nokrîyâ (foreign/wild vine) → เถาเสื่อมทราม / เถาองุ่นป่า. The choice vine mutated into a wild, alien strain — apostasy as botanical degeneration. ʾānōkî (emphatic ‘I myself’) → เรา (divine first-person)."
+        }
+      ],
+      "notes": "The vine-metaphor (Isa 5; Ps 80; Jn 15) — divine cultivation answered by degeneration. No יהוה token (divine first-person ‘I planted’). The rhetorical ‘how?’ underscores the inexplicability of the betrayal."
+    }
+  },
+  {
+    "reference": "Jeremiah 2:22",
+    "chapter": 2,
+    "verse": 22,
+    "language": "hebrew",
+    "hebrew": "כִּ֤י אִם־תְּכַבְּסִי֙ בַּנֶּ֔תֶר וְתַרְבִּי־לָ֖ךְ בֹּרִ֑ית נִכְתָּ֤ם עֲוֺנֵךְ֙ לְפָנַ֔י נְאֻ֖ם אֲדֹנָ֥י יְהוִֽה׃",
+    "bsb_english": "Although you wash with lye and use an abundance of soap, the stain of your guilt is still before Me,” declares the Lord GOD.",
+    "translation": {
+      "thai": "แม้เจ้าจะชำระตัวด้วยน้ำด่างและใช้สบู่มากมายเพียงใด รอยเปื้อนแห่งความผิดของเจ้าก็ยังคงปรากฏอยู่ต่อหน้าเรา องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "נְאֻם אֲדֹנָי יְהוִה",
+          "rendering": "องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้",
+          "rationale": "neʾum ʾădōnāy YHWH — the utterance-formula with the Adonai-YHWH compound (‘Lord GOD’) → องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้, the compound collapsing to องค์พระผู้เป็นเจ้า per divine_names_table_2026-05.md. Layer 1: יהוה → องค์พระผู้เป็นเจ้า."
+        },
+        {
+          "hebrew": "תְּכַבְּסִי בַּנֶּתֶר … בֹּרִית … נִכְתָּם עֲוֺנֵךְ",
+          "rendering": "ชำระตัวด้วยน้ำด่างและใช้สบู่ … รอยเปื้อนแห่งความผิด",
+          "rationale": "neter (natron/lye) + bōrît (potash soap) → น้ำด่าง + สบู่, the strongest cleansing agents of antiquity. HAPAX: kātam (to stain — only here) → รอยเปื้อน. No amount of self-cleansing removes guilt before YHWH — only he can cleanse (cf. Isa 1:18)."
+        }
+      ],
+      "notes": "Adonai-YHWH compound. HAPAX כָּתַם ‘stain.’ The indelible-stain image answers the harlotry of v. 20: ritual self-washing cannot remove moral guilt — the inverse of Isa 1:18's promised cleansing."
+    }
+  },
+  {
+    "reference": "Jeremiah 2:23",
+    "chapter": 2,
+    "verse": 23,
+    "language": "hebrew",
+    "hebrew": "אֵ֣יךְ תֹּאמְרִ֞י לֹ֣א נִטְמֵ֗אתִי אַחֲרֵ֤י הַבְּעָלִים֙ לֹ֣א הָלַ֔כְתִּי רְאִ֤י דַרְכֵּךְ֙ בַּגַּ֔יְא דְּעִ֖י מֶ֣ה עָשִׂ֑ית בִּכְרָ֥ה קַלָּ֖ה מְשָׂרֶ֥כֶת דְּרָכֶֽיהָ׃",
+    "bsb_english": "“How can you say, ‘I am not defiled; I have not run after the Baals’? Look at your behavior in the valley; acknowledge what you have done. You are a swift young she-camel galloping here and there,",
+    "translation": {
+      "thai": "“เจ้าพูดได้อย่างไรว่า ‘ข้าไม่ได้เป็นมลทิน ข้าไม่ได้ติดตามบรรดาพระบาอัล’? จงดูความประพฤติของเจ้าในหุบเขา จงสำนึกว่าเจ้าได้ทำสิ่งใดลงไป เจ้าเป็นดั่งอูฐสาวที่ว่องไว วิ่งพล่านไปมาตามทางของมัน",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "אַחֲרֵי הַבְּעָלִים לֹא הָלַכְתִּי",
+          "rendering": "ข้าไม่ได้ติดตามบรรดาพระบาอัล",
+          "rationale": "הַבְּעָלִים (the Baals, plural — the local Baal-manifestations) → บรรดาพระบาอัล (foreign-deity register per ot_register_policy §3.1). The denial is the lie YHWH exposes; ‘the valley’ (Ben-Hinnom) is the site of her idolatry."
+        },
+        {
+          "hebrew": "בִּכְרָה קַלָּה מְשָׂרֶכֶת דְּרָכֶיהָ",
+          "rendering": "อูฐสาวที่ว่องไว วิ่งพล่านไปมาตามทางของมัน",
+          "rationale": "Two HAPAX: bikrâ (young she-camel) → อูฐสาว; śārak (to interlace/run crisscross — the form məśāreket) → วิ่งพล่านไปมา. The she-camel in heat, zigzagging uncontrollably, images Israel's frantic pursuit of idols (developed in v. 24)."
+        }
+      ],
+      "notes": "TWO HAPAX (בִּכְרָה ‘she-camel,’ שָׂרַךְ ‘crisscross’). The animal-in-heat metaphor for compulsive idolatry begins; the denial (‘I am not defiled’) is rebutted by the evidence ‘in the valley’ (Hinnom). Cultural-imagery rendered faithfully per the marital-infidelity register of the oracle."
+    }
+  },
+  {
+    "reference": "Jeremiah 2:24",
+    "chapter": 2,
+    "verse": 24,
+    "language": "hebrew",
+    "hebrew": "פֶּ֣רֶה ׀ לִמֻּ֣ד מִדְבָּ֗ר בְּאַוַּ֤ת נַפְשָׁהּ֙ שָׁאֲפָ֣ה ר֔וּחַ תַּאֲנָתָ֖הּ מִ֣י יְשִׁיבֶ֑נָּה כָּל־מְבַקְשֶׁ֨יהָ֙ לֹ֣א יִיעָ֔פוּ בְּחָדְשָׁ֖הּ יִמְצָאֽוּנְהָ׃",
+    "bsb_english": "a wild donkey at home in the wilderness, sniffing the wind in the heat of her desire. Who can restrain her passion? All who seek her need not weary themselves; in mating season they will find her.",
+    "translation": {
+      "thai": "เป็นดั่งลาป่าที่คุ้นเคยกับถิ่นทุรกันดาร เมื่อจิตใจร้อนรนด้วยตัณหาก็สูดดมลมหา ใครเล่าจะยับยั้งความปรารถนาของมันได้? บรรดาผู้ที่แสวงหามันไม่ต้องเหนื่อยเปล่า ในฤดูผสมพันธุ์ก็จะพบมันได้",
+      "thai_literal": null,
+      "thai_summary": "ภาพลาป่าตัวเมียที่กระสันหาคู่อย่างควบคุมไม่ได้ เป็นภาพที่เผ็ดร้อนแต่ตรงประเด็น: อิสราเอลกระเหี้ยนกระหือรือวิ่งหาพระเทียมเท็จเสียจนไม่มีใครรั้งไว้ได้ การนอกใจกลายเป็นแรงขับที่บังคับตนเองไม่ได้",
+      "key_decisions": [
+        {
+          "hebrew": "פֶּרֶה לִמֻּד מִדְבָּר",
+          "rendering": "ลาป่าที่คุ้นเคยกับถิ่นทุรกันดาร",
+          "rationale": "pere = wild donkey/onager → ลาป่า; limmud midbār ‘taught of/at-home-in the wilderness’ → คุ้นเคยกับถิ่นทุรกันดาร. The escalation from she-camel (v. 23) to wild she-donkey intensifies the uncontrollability."
+        },
+        {
+          "hebrew": "בְּאַוַּת נַפְשָׁהּ שָׁאֲפָה רוּחַ תַּאֲנָתָהּ",
+          "rendering": "เมื่อจิตใจร้อนรนด้วยตัณหาก็สูดดมลมหา … ความปรารถนาของมัน",
+          "rationale": "ʾawwat napšâh ‘the craving of her appetite’ + šāʾap rûaḥ ‘sniffs the wind’ (scenting a mate). HAPAX: taʾănâ (her mating-heat/desire) → ตัณหา/ความปรารถนา. The animal in heat = Israel's compulsive idol-lust that ‘who can restrain?’"
+        }
+      ],
+      "notes": "HAPAX תַּאֲנָה ‘mating-heat.’ The wild-donkey-in-heat image (uW: lustful instability). Rendered faithfully; the explicitness serves YHWH's point about the irrational compulsion of idolatry. נֶפֶשׁ here = appetite/craving (จิตใจ/ความอยาก), per hebrew_idioms semantic-range."
+    }
+  },
+  {
+    "reference": "Jeremiah 2:25",
+    "chapter": 2,
+    "verse": 25,
+    "language": "hebrew",
+    "hebrew": "מִנְעִ֤י רַגְלֵךְ֙ מִיָּחֵ֔ף וּגְרוֹנֵ֖ךְ מִצִּמְאָ֑ה וַתֹּאמְרִ֣י נוֹאָ֔שׁ ל֕וֹא כִּֽי־אָהַ֥בְתִּי זָרִ֖ים וְאַחֲרֵיהֶ֥ם אֵלֵֽךְ׃",
+    "bsb_english": "You should have kept your feet from going bare and your throat from being thirsty. But you said, ‘It is hopeless! For I love foreign gods, and I must go after them.’",
+    "translation": {
+      "thai": "จงยับยั้งเท้าของเจ้าไม่ให้เปลือยเปล่า และคอของเจ้าไม่ให้กระหายน้ำเถิด แต่เจ้ากลับพูดว่า ‘ไร้ความหวังแล้ว! ไม่ได้ เพราะข้ารักพระต่างด้าวเสียแล้ว และข้าจะตามพวกมันไป’",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "מִנְעִי רַגְלֵךְ מִיָּחֵף וּגְרוֹנֵךְ מִצִּמְאָה",
+          "rendering": "ยับยั้งเท้าของเจ้าไม่ให้เปลือยเปล่า และคอของเจ้าไม่ให้กระหายน้ำ",
+          "rationale": "‘Keep your foot from going barefoot and your throat from thirst’ — the exhausting chase after idols wears out the sandals and parches the throat. HAPAX: ṣimʾâ (thirst, fem. — only here) → ความกระหาย/กระหายน้ำ. A plea to stop the futile pursuit."
+        },
+        {
+          "hebrew": "אָהַבְתִּי זָרִים וְאַחֲרֵיהֶם אֵלֵךְ",
+          "rendering": "ข้ารักพระต่างด้าวเสียแล้ว และข้าจะตามพวกมันไป",
+          "rationale": "zārîm ‘strangers/foreigners’ here = foreign gods → พระต่างด้าว (per the idolatry-as-adultery register). nôʾāš ‘it is hopeless/desperate’ → ไร้ความหวัง: Israel's own confession that the addiction is beyond self-restraint."
+        }
+      ],
+      "notes": "HAPAX צִמְאָה ‘thirst.’ Israel's self-condemning confession: the idol-love is an admitted, helpless compulsion (‘It is hopeless... I love foreign gods’). The first-person quote uses ข้า (the people's self-reference). זָרִים = foreign deities, not literal strangers."
+    }
+  },
+  {
+    "reference": "Jeremiah 2:26",
+    "chapter": 2,
+    "verse": 26,
+    "language": "hebrew",
+    "hebrew": "כְּבֹ֤שֶׁת גַּנָּב֙ כִּ֣י יִמָּצֵ֔א כֵּ֥ן הֹבִ֖ישׁוּ בֵּ֣ית יִשְׂרָאֵ֑ל הֵ֤מָּה מַלְכֵיהֶם֙ שָֽׂרֵיהֶ֔ם וְכֹהֲנֵיהֶ֖ם וּנְבִיאֵיהֶֽם׃",
+    "bsb_english": "As the thief is ashamed when he is caught, so the house of Israel is disgraced. They, their kings, their officials, their priests, and their prophets",
+    "translation": {
+      "thai": "เหมือนขโมยที่อับอายเมื่อถูกจับได้ฉันใด วงศ์วานอิสราเอลก็อับอายฉันนั้น ทั้งตัวพวกเขา บรรดากษัตริย์ ขุนนาง ปุโรหิต และผู้เผยพระวจนะของพวกเขา",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "כְּבֹשֶׁת גַּנָּב כִּי יִמָּצֵא",
+          "rendering": "เหมือนขโมยที่อับอายเมื่อถูกจับได้",
+          "rationale": "bōšet (shame) of a caught thief → ความอับอายของขโมยที่ถูกจับได้. The simile of public exposure: Israel's idolatry, once defended (v. 23), is now caught-out and shameful."
+        },
+        {
+          "hebrew": "מַלְכֵיהֶם שָׂרֵיהֶם וְכֹהֲנֵיהֶם וּנְבִיאֵיהֶם",
+          "rendering": "บรรดากษัตริย์ ขุนนาง ปุโรหิต และผู้เผยพระวจนะ",
+          "rationale": "The four leadership classes (kings, śārîm officials → ขุนนาง, priests, prophets) — the same establishment indicted in v. 8 and Jer 1:18, here sharing the thief's shame. The whole hierarchy is implicated."
+        }
+      ],
+      "notes": "The thief-caught simile. The four-fold leadership list (kings/officials/priests/prophets) recurs from 1:18 and 2:8 — the corruption is top-down and total."
+    }
+  },
+  {
+    "reference": "Jeremiah 2:27",
+    "chapter": 2,
+    "verse": 27,
+    "language": "hebrew",
+    "hebrew": "אֹמְרִ֨ים לָעֵ֜ץ אָ֣בִי אַ֗תָּה וְלָאֶ֨בֶן֙ אַ֣תְּ יְלִדְתָּ֔נוּ כִּֽי־פָנ֥וּ אֵלַ֛י עֹ֖רֶף וְלֹ֣א פָנִ֑ים וּבְעֵ֤ת רָֽעָתָם֙ יֹֽאמְר֔וּ ק֖וּמָה וְהוֹשִׁיעֵֽנוּ׃",
+    "bsb_english": "say to a tree, ‘You are my father,’ and to a stone, ‘You gave me birth.’ They have turned their backs to Me and not their faces. Yet in the time of trouble, they say, ‘Rise up and save us!’",
+    "translation": {
+      "thai": "พวกเขาพูดกับท่อนไม้ว่า ‘ท่านเป็นบิดาของข้า’ และพูดกับก้อนหินว่า ‘เจ้าให้กำเนิดข้า’ เพราะพวกเขาได้หันหลังให้เรา ไม่ได้หันหน้ามาหา แต่ในยามทุกข์ร้อน พวกเขากลับร้องว่า ‘ขอโปรดลุกขึ้นมาช่วยพวกข้าพระองค์ให้รอดเถิด’",
+      "thai_literal": null,
+      "thai_summary": "ความไร้เหตุผลของการบูชารูปเคารพ: เรียกท่อนไม้ว่า ‘พ่อ’ และก้อนหินว่า ‘แม่’ แต่พอถึงคราวเดือดร้อน กลับหันมาร้องขอพระเจ้าที่ตนหันหลังให้ — ความหน้าไหว้หลังหลอกของใจที่กลับกลอก",
+      "key_decisions": [
+        {
+          "hebrew": "אֹמְרִים לָעֵץ אָבִי אַתָּה וְלָאֶבֶן אַתְּ יְלִדְתָּנוּ",
+          "rendering": "พูดกับท่อนไม้ว่า ‘ท่านเป็นบิดาของข้า’ และพูดกับก้อนหินว่า ‘เจ้าให้กำเนิดข้า’",
+          "rationale": "‘Tree’ and ‘stone’ = wooden and stone idols → ท่อนไม้/ก้อนหิน. The gender-reversal in MT (calling the wooden image ‘father,’ the stone ‘you bore me’) mocks idolatry's absurdity: lifeless matter addressed as life-giving parents."
+        },
+        {
+          "hebrew": "פָנוּ אֵלַי עֹרֶף וְלֹא פָנִים … קוּמָה וְהוֹשִׁיעֵנוּ",
+          "rendering": "หันหลังให้เรา ไม่ได้หันหน้ามาหา … ขอโปรดลุกขึ้นมาช่วยพวกข้าพระองค์ให้รอดเถิด",
+          "rationale": "ʿōrep ‘back of the neck’ vs pānîm ‘face’ → หันหลัง/หันหน้า (the rejection idiom, cf. Jer 32:33). The crisis-cry ‘Arise and save us!’ → ขอโปรด...ให้รอด (deferential petition to YHWH; โปรด avoids over-binding ทรง- where the divine addressee is unnamed in the cry). The hypocrisy: backs turned, yet crying to him in trouble. (Ellipsis joins the two clauses.)"
+        }
+      ],
+      "notes": "Idolatry's absurdity (tree=father, stone=mother) and hypocrisy (backs turned, yet crying for rescue in crisis). v. 28 answers the cry with biting irony."
+    }
+  },
+  {
+    "reference": "Jeremiah 2:28",
+    "chapter": 2,
+    "verse": 28,
+    "language": "hebrew",
+    "hebrew": "וְאַיֵּ֤ה אֱלֹהֶ֨יךָ֙ אֲשֶׁ֣ר עָשִׂ֣יתָ לָּ֔ךְ יָק֕וּמוּ אִם־יוֹשִׁיע֖וּךָ בְּעֵ֣ת רָעָתֶ֑ךָ כִּ֚י מִסְפַּ֣ר עָרֶ֔יךָ הָי֥וּ אֱלֹהֶ֖יךָ יְהוּדָֽה׃",
+    "bsb_english": "But where are the gods you made for yourselves? Let them rise up in your time of trouble and save you if they can; for your gods are as numerous as your cities, O Judah.",
+    "translation": {
+      "thai": "แล้วบรรดาพระที่เจ้าสร้างขึ้นเองนั้นอยู่ที่ไหน? ก็ให้พวกมันลุกขึ้นช่วยเจ้าให้รอดในยามทุกข์ร้อนของเจ้าสิ ถ้าพวกมันทำได้ ยูดาห์เอ๋ย เพราะพระของเจ้านั้นมีมากเท่ากับจำนวนเมืองของเจ้า",
+      "thai_literal": null,
+      "thai_summary": "พระเจ้าทรงตอบเสียงร้องขอความช่วยเหลือในข้อ 27 ด้วยถ้อยคำเสียดสี: ในเมื่อยูดาห์มี ‘พระ’ มากมายเท่าจำนวนเมือง ก็ให้พระเหล่านั้นช่วยสิ — เปิดโปงความไร้พลังของรูปเคารพอย่างแสบสัน",
+      "key_decisions": [
+        {
+          "hebrew": "אֱלֹהֶיךָ אֲשֶׁר עָשִׂיתָ לָּךְ",
+          "rendering": "บรรดาพระที่เจ้าสร้างขึ้นเอง",
+          "rationale": "ʾĕlōhêkā of self-made idols → พระ (withholding the divine classifier พระเจ้า which is reserved for YHWH). The sarcasm: gods you manufactured cannot save (cf. v. 11)."
+        },
+        {
+          "hebrew": "מִסְפַּר עָרֶיךָ הָיוּ אֱלֹהֶיךָ יְהוּדָה",
+          "rendering": "พระของเจ้านั้นมีมากเท่ากับจำนวนเมืองของเจ้า",
+          "rationale": "‘Your gods are as many as your cities’ → the proliferation of local shrines (cf. Jer 11:13). יְהוּדָה → ยูดาห์ (vocative). No real Tetragrammaton in this verse — יְהוּדָה only resembles יהוה; no Layer-1 key-decision added."
+        }
+      ],
+      "notes": "Biting irony answering v. 27's crisis-cry: let the home-made gods (one per city) do the saving. ‘Gods as many as cities’ documents Judah's saturation idolatry. Verse ends with the ס (setumah) section marker in MT (omitted from the source field)."
+    }
+  },
+  {
+    "reference": "Jeremiah 2:29",
+    "chapter": 2,
+    "verse": 29,
+    "language": "hebrew",
+    "hebrew": "לָ֥מָּה תָרִ֖יבוּ אֵלָ֑י כֻּלְּכֶ֛ם פְּשַׁעְתֶּ֥ם בִּ֖י נְאֻם־יְהוָֽה׃",
+    "bsb_english": "Why do you bring a case against Me? You have all rebelled against Me,” declares the LORD.",
+    "translation": {
+      "thai": "ทำไมพวกเจ้าจึงมาฟ้องร้องเรา? พวกเจ้าทุกคนล้วนได้กบฏต่อเรา องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "נְאֻם־יְהוָה",
+          "rendering": "องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้",
+          "rationale": "neʾum-YHWH → องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้, LOCKED per hebrew_idioms §5.4. Layer 1: יהוה → องค์พระผู้เป็นเจ้า."
+        },
+        {
+          "hebrew": "לָמָּה תָרִיבוּ אֵלָי … פְּשַׁעְתֶּם בִּי",
+          "rendering": "ทำไมพวกเจ้าจึงมาฟ้องร้องเรา … ได้กบฏต่อเรา",
+          "rationale": "rîv (the lawsuit verb, cf. v. 9) turned back on the people: they dare to ‘bring a case’ against YHWH, but they are the covenant-breakers (pāšaʿ → กบฏ). The plaintiff-defendant roles inverted. (Ellipsis joins the two clauses.)"
+        }
+      ],
+      "notes": "The lawsuit reversed: the guilty party (Israel) has the audacity to litigate against the wronged party (YHWH). פֶּשַׁע (rebellion) is universal (‘all of you’)."
+    }
+  },
+  {
+    "reference": "Jeremiah 2:30",
+    "chapter": 2,
+    "verse": 30,
+    "language": "hebrew",
+    "hebrew": "לַשָּׁוְא֙ הִכֵּ֣יתִי אֶת־בְּנֵיכֶ֔ם מוּסָ֖ר לֹ֣א לָקָ֑חוּ אָכְלָ֧ה חַרְבְּכֶ֛ם נְבִֽיאֵיכֶ֖ם כְּאַרְיֵ֥ה מַשְׁחִֽית׃",
+    "bsb_english": "“I have struck your sons in vain; they accepted no discipline. Your own sword has devoured your prophets like a voracious lion.”",
+    "translation": {
+      "thai": "เราได้เฆี่ยนตีลูกหลานของพวกเจ้าโดยเปล่าประโยชน์ พวกเขาไม่ยอมรับการตีสอน ดาบของพวกเจ้าเองได้กลืนกินบรรดาผู้เผยพระวจนะของพวกเจ้าดั่งสิงโตที่ทำลายล้าง",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "לַשָּׁוְא הִכֵּיתִי … מוּסָר לֹא לָקָחוּ",
+          "rendering": "เราได้เฆี่ยนตี … โดยเปล่าประโยชน์ … ไม่ยอมรับการตีสอน",
+          "rationale": "šāwʾ (in vain) + mûsār (discipline/correction) → การตีสอน. Divine first-person: the chastening blows (defeats, hardships) produced no repentance — the same hardened non-response as Isa 1:5. ‘Took no discipline’ → ไม่ยอมรับการตีสอน."
+        },
+        {
+          "hebrew": "אָכְלָה חַרְבְּכֶם נְבִיאֵיכֶם כְּאַרְיֵה מַשְׁחִית",
+          "rendering": "ดาบของพวกเจ้าเองได้กลืนกินบรรดาผู้เผยพระวจนะของพวกเจ้าดั่งสิงโตที่ทำลายล้าง",
+          "rationale": "‘Your own sword devoured your prophets’ → the people murdered the true prophets sent to them (cf. 26:20–23; Mt 23:37). ʾaryēh mašḥît (destroying lion) → สิงโตที่ทำลายล้าง — the people's own violence as a ravening beast."
+        }
+      ],
+      "notes": "Two evidences of incorrigibility: chastening ignored, and the prophets killed. The prophet-murder charge (their ‘sword’ as a devouring lion) anticipates Jeremiah's own peril (chs. 26, 38)."
+    }
+  },
+  {
+    "reference": "Jeremiah 2:31",
+    "chapter": 2,
+    "verse": 31,
+    "language": "hebrew",
+    "hebrew": "הַדּ֗וֹר אַתֶּם֙ רְא֣וּ דְבַר־יְהוָ֔ה הֲמִדְבָּ֤ר הָיִ֨יתִי֙ לְיִשְׂרָאֵ֔ל אִ֛ם אֶ֥רֶץ מַאְפֵּ֖לְיָ֑ה מַדּ֜וּעַ אָמְר֤וּ עַמִּי֙ רַ֔דְנוּ לֽוֹא־נָב֥וֹא ע֖וֹד אֵלֶֽיךָ׃",
+    "bsb_english": "You people of this generation, consider the word of the LORD: “Have I been a wilderness to Israel or a land of dense darkness? Why do My people say, ‘We are free to roam; we will come to You no more’?",
+    "translation": {
+      "thai": "ชนรุ่นนี้เอ๋ย จงพิจารณาพระวจนะขององค์พระผู้เป็นเจ้า เราเป็นถิ่นทุรกันดารต่ออิสราเอลหรือ? หรือเป็นแผ่นดินแห่งความมืดทึบ? ทำไมประชากรของเราจึงพูดว่า ‘เราเป็นอิสระที่จะระเหเร่ร่อน เราจะไม่กลับมาหาพระองค์อีกแล้ว’?",
+      "thai_literal": null,
+      "thai_summary": "พระเจ้าทรงถามอย่างเจ็บปวดว่า พระองค์เคยเป็นเหมือน ‘ถิ่นทุรกันดาร’ ที่ว่างเปล่าหรือ ‘ดินแดนมืดทึบ’ ที่อันตรายต่ออิสราเอลหรือ จึงทำให้พวกเขาอยากหนีไป? พระองค์ทรงเป็นน้ำพุชีวิต ไม่ใช่ทะเลทราย — การที่พวกเขาหนีไปจึงไร้เหตุผลโดยสิ้นเชิง",
+      "key_decisions": [
+        {
+          "hebrew": "רְאוּ דְבַר־יְהוָה",
+          "rendering": "จงพิจารณาพระวจนะขององค์พระผู้เป็นเจ้า",
+          "rationale": "יהוה → องค์พระผู้เป็นเจ้า (Layer 1). rəʾû ‘see/consider’ → จงพิจารณา, summoning ‘this generation’ (הַדּוֹר) to weigh the indictment."
+        },
+        {
+          "hebrew": "אֶרֶץ מַאְפֵּלְיָה … רַדְנוּ",
+          "rendering": "แผ่นดินแห่งความมืดทึบ … เราเป็นอิสระที่จะระเหเร่ร่อน",
+          "rationale": "HAPAX: maʾpēlyâ (deep/double darkness — only here) → ความมืดทึบ, intensive of the wilderness-danger image. rûd ‘roam free’ (radnû) → ระเหเร่ร่อน — the people claim emancipation from YHWH, the opposite of the bride's devotion (v. 2)."
+        }
+      ],
+      "notes": "HAPAX מַאְפֵּלְיָה ‘thick darkness.’ Rhetorical questions: YHWH was never a barren or dangerous land to Israel (he was the living spring, v. 13), so their flight is inexplicable ingratitude."
+    }
+  },
+  {
+    "reference": "Jeremiah 2:32",
+    "chapter": 2,
+    "verse": 32,
+    "language": "hebrew",
+    "hebrew": "הֲתִשְׁכַּ֤ח בְּתוּלָה֙ עֶדְיָ֔הּ כַּלָּ֖ה קִשֻּׁרֶ֑יהָ וְעַמִּ֣י שְׁכֵח֔וּנִי יָמִ֖ים אֵ֥ין מִסְפָּֽר׃",
+    "bsb_english": "Does a maiden forget her jewelry or a bride her wedding sash? Yet My people have forgotten Me for days without number.",
+    "translation": {
+      "thai": "หญิงสาวจะลืมเครื่องประดับของตน หรือเจ้าสาวจะลืมผ้าคาดเอวงานวิวาห์ของตนได้หรือ? แต่ประชากรของเรากลับลืมเราเสียเป็นเวลานานนับไม่ถ้วน",
+      "thai_literal": null,
+      "thai_summary": "หญิงสาวไม่มีวันลืมเครื่องประดับ เจ้าสาวไม่มีวันลืมชุดวิวาห์ — สิ่งที่รักที่สุดย่อมไม่ถูกลืม แต่อิสราเอลกลับลืมพระเจ้าผู้เป็น ‘เจ้าบ่าว’ ของตนเป็นเวลานานนับไม่ถ้วน ตอกย้ำภาพเจ้าสาวที่นอกใจ",
+      "key_decisions": [
+        {
+          "hebrew": "הֲתִשְׁכַּח בְּתוּלָה עֶדְיָהּ כַּלָּה קִשֻּׁרֶיהָ",
+          "rendering": "หญิงสาวจะลืมเครื่องประดับ … เจ้าสาวจะลืมผ้าคาดเอวงานวิวาห์",
+          "rationale": "bətûlâ (maiden) + ʿedî (ornaments) // kallâ (bride) + qiššurîm (sash/wedding adornments) → หญิงสาว/เครื่องประดับ // เจ้าสาว/ผ้าคาดเอวงานวิวาห์. The bride who never forgets her finery contrasts Israel who forgot her divine bridegroom — returning to the marriage-metaphor of v. 2."
+        }
+      ],
+      "notes": "Inclusio with v. 2 (the bridal devotion): a bride cannot forget her wedding adornments, yet Israel forgot YHWH ‘days without number.’ No יהוה token (divine first-person ‘forgotten Me’)."
+    }
+  },
+  {
+    "reference": "Jeremiah 2:33",
+    "chapter": 2,
+    "verse": 33,
+    "language": "hebrew",
+    "hebrew": "מַה־תֵּיטִ֥בִי דַּרְכֵּ֖ךְ לְבַקֵּ֣שׁ אַהֲבָ֑ה לָכֵן֙ גַּ֣ם אֶת־הָרָע֔וֹת לִמַּ֖דְתְּ אֶת־דְּרָכָֽיִךְ׃",
+    "bsb_english": "How skillfully you pursue love! Even the most immoral of women could learn from your ways.",
+    "translation": {
+      "thai": "เจ้าช่างชำนาญในการแสวงหารักเสียจริง! จนแม้แต่หญิงชั่วร้ายก็ยังเรียนรู้วิธีการของเจ้าได้",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "מַה־תֵּיטִבִי דַּרְכֵּךְ לְבַקֵּשׁ אַהֲבָה",
+          "rendering": "เจ้าช่างชำนาญในการแสวงหารักเสียจริง",
+          "rationale": "Sarcastic praise (uW: irony): ‘how well you make your way to seek love’ → ช่างชำนาญ...เสียจริง. ‘Love’ here = illicit lovers (the idols), continuing the adultery metaphor."
+        },
+        {
+          "hebrew": "גַּם אֶת־הָרָעוֹת לִמַּדְתְּ אֶת־דְּרָכָיִךְ",
+          "rendering": "แม้แต่หญิงชั่วร้ายก็ยังเรียนรู้วิธีการของเจ้าได้",
+          "rationale": "‘You have taught even the wicked women your ways’ → Israel out-sins the professional adulteresses; הָרָעוֹת (the evil women) → หญิงชั่วร้าย. The hyperbole: Israel could instruct prostitutes in unfaithfulness."
+        }
+      ],
+      "notes": "Bitter irony: Israel is so expert at pursuing illicit ‘love’ (idolatry) that even hardened immoral women could learn from her. The adultery metaphor at its sharpest."
+    }
+  },
+  {
+    "reference": "Jeremiah 2:34",
+    "chapter": 2,
+    "verse": 34,
+    "language": "hebrew",
+    "hebrew": "גַּ֤ם בִּכְנָפַ֨יִךְ֙ נִמְצְא֔וּ דַּ֛ם נַפְשׁ֥וֹת אֶבְיוֹנִ֖ים נְקִיִּ֑ים לֹֽא־בַמַּחְתֶּ֥רֶת מְצָאתִ֖ים כִּ֥י עַל־כָּל־אֵֽלֶּה׃",
+    "bsb_english": "Moreover, your skirts are stained with the blood of the innocent poor, though you did not find them breaking in. But in spite of all these things",
+    "translation": {
+      "thai": "ยิ่งกว่านั้น ที่ชายเสื้อของเจ้ายังพบโลหิตของคนยากจนผู้บริสุทธิ์ ทั้งที่เจ้ามิได้จับพวกเขาขณะงัดแงะเข้าบ้าน แต่ถึงกระนั้นก็ยังทำสิ่งทั้งหมดนี้",
+      "thai_literal": null,
+      "thai_summary": "นอกจากการนอกใจฝ่ายวิญญาณแล้ว ยูดาห์ยังเปื้อนเลือดของผู้บริสุทธิ์ยากไร้ — มิใช่การฆ่าผู้บุกรุกเพื่อป้องกันตัว (ซึ่งกฎหมายอนุญาต อพยพ 22:2) แต่เป็นการกดขี่ฆ่าคนบริสุทธิ์อย่างเลือดเย็น",
+      "key_decisions": [
+        {
+          "hebrew": "דַּם נַפְשׁוֹת אֶבְיוֹנִים נְקִיִּים",
+          "rendering": "โลหิตของคนยากจนผู้บริสุทธิ์",
+          "rationale": "dam (bloodguilt/shed-blood, not sacrificial) → โลหิต per the bloodguilt register (matching shipped Isa 1:15, 2KI 9:26). napšôt ʾevyônîm nəqiyyîm ‘lives of innocent poor’ → คนยากจนผู้บริสุทธิ์. Social injustice (murder of the poor) compounds the idolatry."
+        },
+        {
+          "hebrew": "לֹא־בַמַּחְתֶּרֶת מְצָאתִים",
+          "rendering": "มิได้จับพวกเขาขณะงัดแงะเข้าบ้าน",
+          "rationale": "maḥteret = burglary/break-in. The legal allusion (Exod 22:2: killing a night-burglar incurs no bloodguilt) — but these poor were NOT burglars, so their blood IS guilt. The stained ‘skirts’ (כְּנָפַיִם, hems) are the forensic evidence."
+        }
+      ],
+      "notes": "Social-justice charge layered onto the idolatry: the blood of the innocent poor stains Judah's garments. The Exod 22:2 burglary-exception is invoked to deny any excuse. The verse runs syntactically into v. 35 (‘in spite of all these...’)."
+    }
+  },
+  {
+    "reference": "Jeremiah 2:35",
+    "chapter": 2,
+    "verse": 35,
+    "language": "hebrew",
+    "hebrew": "וַתֹּֽאמְרִי֙ כִּ֣י נִקֵּ֔יתִי אַ֛ךְ שָׁ֥ב אַפּ֖וֹ מִמֶּ֑נִּי הִנְנִי֙ נִשְׁפָּ֣ט אוֹתָ֔ךְ עַל־אָמְרֵ֖ךְ לֹ֥א חָטָֽאתִי׃",
+    "bsb_english": "you say, ‘I am innocent. Surely His anger will turn from me.’ Behold, I will judge you, because you say, ‘I have not sinned.’",
+    "translation": {
+      "thai": "เจ้ายังพูดว่า ‘ข้าบริสุทธิ์ พระพิโรธของพระองค์ย่อมหันไปจากข้าแน่’ ดูเถิด เราจะพิพากษาเจ้า เพราะเจ้าพูดว่า ‘ข้าไม่ได้ทำบาป’",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "שָׁב אַפּוֹ מִמֶּנִּי",
+          "rendering": "พระพิโรธของพระองค์ย่อมหันไปจากข้าแน่",
+          "rationale": "ʾap (lit. ‘nose’ = anger) of YHWH, in the people's own quoted self-defense → พระพิโรธ (the wrath, per hebrew_idioms §1.2 the nose-metonymy for anger). The 3rd-person ‘His anger’ within Israel's confident quote; the royal พระ- form because the anger is YHWH's."
+        },
+        {
+          "hebrew": "הִנְנִי נִשְׁפָּט אוֹתָךְ … לֹא חָטָאתִי",
+          "rendering": "เราจะพิพากษาเจ้า … ข้าไม่ได้ทำบาป",
+          "rationale": "šāpaṭ (enter into judgment) → พิพากษา; the ground of judgment is the denial itself (‘I have not sinned’ → ข้าไม่ได้ทำบาป). Self-justification, not the sin alone, triggers the verdict — the unrepentant claim of innocence."
+        }
+      ],
+      "notes": "The crowning offense is not just sin but the denial of it (‘I have not sinned’). YHWH's verdict (נִשְׁפָּט, ‘I will bring you to judgment’) falls precisely on the false claim of innocence. Divine first-person (เรา)."
+    }
+  },
+  {
+    "reference": "Jeremiah 2:36",
+    "chapter": 2,
+    "verse": 36,
+    "language": "hebrew",
+    "hebrew": "מַה־תֵּזְלִ֥י מְאֹ֖ד לְשַׁנּ֣וֹת אֶת־דַּרְכֵּ֑ךְ גַּ֤ם מִמִּצְרַ֨יִם֙ תֵּב֔וֹשִׁי כַּאֲשֶׁר־בֹּ֖שְׁתְּ מֵאַשּֽׁוּר׃",
+    "bsb_english": "How impulsive you are, constantly changing your ways! You will be disappointed by Egypt just as you were by Assyria.",
+    "translation": {
+      "thai": "ทำไมเจ้าจึงเที่ยวเปลี่ยนวิถีทางของเจ้าไปมาอย่างง่ายดายนัก? เจ้าจะต้องอับอายเพราะอียิปต์ เช่นเดียวกับที่เจ้าเคยอับอายเพราะอัสซีเรียมาแล้ว",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "מַה־תֵּזְלִי מְאֹד לְשַׁנּוֹת אֶת־דַּרְכֵּךְ",
+          "rendering": "ทำไมเจ้าจึงเที่ยวเปลี่ยนวิถีทางของเจ้าไปมาอย่างง่ายดายนัก",
+          "rationale": "ʾāzal ‘go about/gad about’ + šānâ ‘change’ → เที่ยวเปลี่ยนวิถีทางไปมา. Judah's fickle foreign-policy: oscillating between Egypt and Assyria for security instead of trusting YHWH."
+        },
+        {
+          "hebrew": "מִמִּצְרַיִם תֵּבוֹשִׁי כַּאֲשֶׁר־בֹּשְׁתְּ מֵאַשּׁוּר",
+          "rendering": "อับอายเพราะอียิปต์ เช่นเดียวกับที่เจ้าเคยอับอายเพราะอัสซีเรีย",
+          "rationale": "Egypt (מִצְרַיִם → อียิปต์) and Assyria (אַשּׁוּר → อัสซีเรีย) — the alliance with Assyria already failed (shaming Judah); Egypt will fail likewise. bôš (be shamed/disappointed) → อับอาย."
+        }
+      ],
+      "notes": "The futility of great-power alliances (cf. v. 18). The Assyrian alliance already disappointed; the Egyptian one will too. Trust misplaced in nations rather than YHWH brings shame."
+    }
+  },
+  {
+    "reference": "Jeremiah 2:37",
+    "chapter": 2,
+    "verse": 37,
+    "language": "hebrew",
+    "hebrew": "גַּ֣ם מֵאֵ֥ת זֶה֙ תֵּֽצְאִ֔י וְיָדַ֖יִךְ עַל־רֹאשֵׁ֑ךְ כִּֽי־מָאַ֤ס יְהֹוָה֙ בְּמִבְטַחַ֔יִךְ וְלֹ֥א תַצְלִ֖יחִי לָהֶֽם׃",
+    "bsb_english": "Moreover, you will leave that place with your hands on your head, for the LORD has rejected those you trust; you will not prosper by their help.”",
+    "translation": {
+      "thai": "เจ้าจะต้องจากที่นั่นไปพร้อมกับเอามือกุมศีรษะของตน เพราะองค์พระผู้เป็นเจ้าทรงทอดทิ้งบรรดาผู้ที่เจ้าไว้วางใจ เจ้าจะไม่ได้รับความสำเร็จจากพวกเขาเลย",
+      "thai_literal": null,
+      "thai_summary": "บทปิดด้วยภาพความอัปยศ: ‘เอามือกุมศีรษะ’ เป็นท่าทางแห่งความเศร้าโศกและความอับอายของเชลย เพราะพระเจ้าทรงปฏิเสธมหาอำนาจที่ยูดาห์ไว้วางใจ การพึ่งสิ่งอื่นแทนพระเจ้าจึงจบลงด้วยความล้มเหลวเสมอ",
+      "key_decisions": [
+        {
+          "hebrew": "מָאַס יְהֹוָה בְּמִבְטַחַיִךְ",
+          "rendering": "องค์พระผู้เป็นเจ้าทรงทอดทิ้งบรรดาผู้ที่เจ้าไว้วางใจ",
+          "rationale": "יהוה → องค์พระผู้เป็นเจ้า (Layer 1). māʾas ‘reject/spurn’ — a third-person reference to YHWH's action (prophet/oracle voice), so royal register ทรงทอดทิ้ง (subject องค์พระผู้เป็นเจ้า adjacent). YHWH has rejected the powers Judah trusts (Egypt/Assyria)."
+        },
+        {
+          "hebrew": "וְיָדַיִךְ עַל־רֹאשֵׁךְ",
+          "rendering": "เอามือกุมศีรษะของตน",
+          "rationale": "hands-on-the-head gesture = shame/mourning of captives (cf. 2 Sam 13:19, Tamar) → เอามือกุมศีรษะ. The posture of the disgraced exile, closing the oracle on humiliation."
+        }
+      ],
+      "notes": "The oracle closes with the captive's shame-gesture (hands on head). The only narrator-voice ทรง- in the chapter (ทรงทอดทิ้ง, subject YHWH-adjacent). Theme sealed: every alliance YHWH has rejected will fail Judah."
+    }
+  }
+]
