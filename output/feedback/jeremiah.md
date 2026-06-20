@@ -1,6 +1,6 @@
 # เยเรมีย์
 
-_Jeremiah — 44 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
+_Jeremiah — 45 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
 
 _This **feedback edition** is the plain Thai translation with a `>` placeholder block under each verse for reviewer comments. **See the instructions immediately below before reading.** For the annotated edition (with contextual summaries), see `output/reader/jeremiah.md`; for the verses-only edition (no comment blocks), see `output/plain/jeremiah.md`._
 
@@ -4976,6 +4976,39 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 ---
 
+## บทที่ 45
+
+**1** ถ้อยคำที่เยเรมีย์ผู้เผยพระวจนะกล่าวแก่บารุคบุตรเนริยาห์ เมื่อบารุคเขียนถ้อยคำเหล่านี้ลงในหนังสือม้วนตามคำบอกของเยเรมีย์ ในปีที่สี่แห่งรัชกาลเยโฮยาคิมโอรสของโยสิยาห์กษัตริย์แห่งยูดาห์ว่า
+
+> ___
+
+**2** บารุคเอ๋ย องค์พระผู้เป็นเจ้าพระเจ้าแห่งอิสราเอลตรัสเกี่ยวกับเจ้าดังนี้ว่า
+
+> ___
+
+**3** เจ้าได้กล่าวว่า วิบัติแก่ข้า เพราะองค์พระผู้เป็นเจ้าทรงเพิ่มความทุกข์โศกเข้ากับความเจ็บปวดของข้า ข้าอ่อนล้าด้วยการคร่ำครวญ และไม่พบที่หยุดพักเลย
+
+> ___
+
+**4** เจ้าจงกล่าวแก่เขาว่า องค์พระผู้เป็นเจ้าตรัสดังนี้ว่า ดูเถิด สิ่งที่เราได้สร้างขึ้น เราจะรื้อลง และสิ่งที่เราได้ปลูกไว้ เราจะถอนขึ้น ทั่วทั้งแผ่นดิน
+
+> ___
+
+**5** ส่วนเจ้า เจ้าแสวงหาสิ่งใหญ่โตเพื่อตัวเองหรือ? อย่าแสวงหาเลย เพราะดูเถิด เราจะนำภัยพิบัติมาเหนือมนุษย์ทั้งปวง องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้ แต่เราจะให้ชีวิตของเจ้าเป็นบำเหน็จแก่เจ้าประหนึ่งของที่ริบมาได้ ไม่ว่าเจ้าจะไปที่ใดก็ตาม
+
+> ___
+
+---
+
+### หมายเหตุด้านต้นฉบับ
+
+**ข้อ 2** — หมายเหตุการแปลพระนามของพระเจ้า
+
+_**องค์พระผู้เป็นเจ้า** ในบทนี้ (ปรากฏครั้งแรกที่ข้อ 2) แปลจากภาษาฮีบรู יהוה (พระนามเฉพาะของพระเจ้า ออกเสียงโดยทั่วไปว่า ‘ยาห์เวห์’). ฉบับเอเรโมสใช้ **องค์พระผู้เป็นเจ้า** ตามแบบแผนของฉบับพันธสัญญาใหม่ที่แปล κύριος ซึ่งในต้นฉบับฮีบรูตรงกับ יהוה. สำนวน כֹּה אָמַר יְהוָה แปลว่า **องค์พระผู้เป็นเจ้าตรัสดังนี้ว่า**; สำนวน נְאֻם־יְהוָה (ข้อ 5) แปลว่า **องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้**. เมื่อข้อความฮีบรูใช้คำว่า אֲדֹנָי (อาโดนาย) โดยไม่มี יהוה ฉบับเอเรโมสจะแปลว่า ‘องค์เจ้านาย’. ดูรายละเอียดเพิ่มเติมที่ docs/translator_decisions/divine_names_table_2026-05.md._
+
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -5026,4 +5059,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/jeremiah_42.json` | `38609c8a6c6f9eb4ab7e9c35549dd4333396a89dfa759fd0755ebaea56b88ddd` |
 | `output/translations/jeremiah_43.json` | `a378455a6a752079f83d3bec1c6e05c581c48f2d4ce64f950ed017d8c8e6bb42` |
 | `output/translations/jeremiah_44.json` | `b27d95fd92a5bdbc4e86410e8c004c0cca2048e4fa093dc4dc289b6a5dd0dc8d` |
+| `output/translations/jeremiah_45.json` | `f2243c0cb4937ccf68bd25189b82cd13a6fdfcf42549e5cb8f171495a5029c6f` |
 
