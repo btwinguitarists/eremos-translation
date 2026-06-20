@@ -1,6 +1,6 @@
 # เยเรมีย์
 
-_Jeremiah — 46 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
+_Jeremiah — 47 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
 
 _This **plain edition** shows only the Thai translation — no commentary, no Greek, no English. Intended for Thai scholars and theological reviewers evaluating the translation on its own terms. For the annotated edition with contextual summaries (บริบท), see `output/reader/jeremiah.md`. For the underlying Greek, English (BSB) reference, and translator decisions per verse, see the per-chapter review reports at `output/check_reports/jeremiah_NN_review.md` or the source JSON at `output/translations/`._
 
@@ -2858,6 +2858,33 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 ---
 
+## บทที่ 47
+
+**1** พระวจนะขององค์พระผู้เป็นเจ้าที่มาถึงเยเรมีย์ผู้เผยพระวจนะเกี่ยวกับชาวฟีลิสเตีย ก่อนที่ฟาโรห์จะโจมตีเมืองกาซา
+
+**2** องค์พระผู้เป็นเจ้าตรัสดังนี้ว่า ดูเถิด น้ำกำลังขึ้นมาจากทางเหนือ และจะกลายเป็นกระแสน้ำที่ท่วมท้น มันจะท่วมแผ่นดินและทุกสิ่งในนั้น ทั้งเมืองและชาวเมือง ผู้คนจะร้องครวญคราง และทุกคนที่อาศัยอยู่ในแผ่นดินจะร่ำไห้
+
+**3** เมื่อได้ยินเสียงกีบม้าศึกควบกระหึ่ม เสียงรถรบดังครืน และเสียงล้อรถอึกทึก บรรดาพ่อก็ไม่หันกลับไปช่วยลูกของตน เพราะมืออ่อนเปลี้ยไป
+
+**4** เพราะวันนั้นมาถึงแล้วที่จะทำลายชาวฟีลิสเตียทั้งสิ้น ที่จะตัดผู้ช่วยที่เหลืออยู่ทุกคนของไทระและไซดอนเสีย เพราะองค์พระผู้เป็นเจ้ากำลังจะทำลายชาวฟีลิสเตีย คือชนที่เหลือจากเกาะคัฟโทร์
+
+**5** การโกนศีรษะมาถึงกาซาแล้ว อัชเคโลนก็เงียบงันไป ชนที่เหลือแห่งหุบเขาของพวกเขาเอ๋ย เจ้าจะเชือดเนื้อตัวเองไว้ทุกข์ไปนานสักเท่าใด?
+
+**6** อนิจจา ดาบขององค์พระผู้เป็นเจ้าเอ๋ย อีกนานเท่าใดเจ้าจึงจะหยุดพัก? จงกลับเข้าฝักของเจ้า จงหยุดและสงบนิ่งเสียเถิด
+
+**7** เจ้าจะหยุดพักได้อย่างไร ในเมื่อองค์พระผู้เป็นเจ้าทรงบัญชาดาบนั้นไว้แล้ว? พระองค์ทรงกำหนดมันไว้ให้สู้กับอัชเคโลนและชายฝั่งทะเล
+
+---
+
+### หมายเหตุด้านต้นฉบับ
+
+**ข้อ 1** — หมายเหตุการแปลพระนามของพระเจ้า
+
+_**องค์พระผู้เป็นเจ้า** ในบทนี้ (ปรากฏครั้งแรกที่ข้อ 1) แปลจากภาษาฮีบรู יהוה (พระนามเฉพาะของพระเจ้า ออกเสียงโดยทั่วไปว่า ‘ยาห์เวห์’). ฉบับเอเรโมสใช้ **องค์พระผู้เป็นเจ้า** ตามแบบแผนของฉบับพันธสัญญาใหม่ที่แปล κύριος ซึ่งในต้นฉบับฮีบรูตรงกับ יהוה. สำนวน כֹּה אָמַר יְהוָה (ข้อ 2) แปลว่า **องค์พระผู้เป็นเจ้าตรัสดังนี้ว่า**; รูป דְבַר־יְהוָה (ข้อ 1) แปลว่า **พระวจนะขององค์พระผู้เป็นเจ้า**; วลี חֶרֶב לַיהוָה (ข้อ 6) แปลว่า **ดาบขององค์พระผู้เป็นเจ้า** (การพิพากษาที่บุคลาธิษฐานเป็นดาบ). เมื่อข้อความฮีบรูใช้คำว่า אֲדֹנָי (อาโดนาย) โดยไม่มี יהוה ฉบับเอเรโมสจะแปลว่า ‘องค์เจ้านาย’. ดูรายละเอียดเพิ่มเติมที่ docs/translator_decisions/divine_names_table_2026-05.md._
+
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -2910,4 +2937,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/jeremiah_44.json` | `b27d95fd92a5bdbc4e86410e8c004c0cca2048e4fa093dc4dc289b6a5dd0dc8d` |
 | `output/translations/jeremiah_45.json` | `f2243c0cb4937ccf68bd25189b82cd13a6fdfcf42549e5cb8f171495a5029c6f` |
 | `output/translations/jeremiah_46.json` | `71239dba1abf5ae7a7dd20a7eff06e11c4cf8f2624dc11c6894de79ea696cee7` |
+| `output/translations/jeremiah_47.json` | `8a6dc3a5bf4c332649e56f07a0efb02bf8156cc2fef792b97b1b088f0996eefd` |
 
