@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-06-20 15:24:32 UTC_
-_Total chapters: 1075 · Total verses: 28736_
+_Generated: 2026-06-20 16:07:55 UTC_
+_Total chapters: 1076 · Total verses: 28782_
 
 ## How to verify a chapter
 
@@ -592,7 +592,8 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/jeremiah_46.json` | 28 | `71239dba1abf5ae7a7dd20a7eff06e11c4cf8f2624dc11c6894de79ea696cee7` | `a2332d37` |
 | `output/translations/jeremiah_47.json` | 7 | `8a6dc3a5bf4c332649e56f07a0efb02bf8156cc2fef792b97b1b088f0996eefd` | `25bb4902` |
 | `output/translations/jeremiah_48.json` | 47 | `139b7ec32d64288eccaa24898fa0681abd682bc3aacd8eb4577c4868c01f0730` | `ace3eafa` |
-| `output/translations/jeremiah_49.json` | 39 | `ee373d122c3b6270b84f740cf5d017a2beb2cef969550437a429858d5ba9c0e6` | `—` |
+| `output/translations/jeremiah_49.json` | 39 | `ee373d122c3b6270b84f740cf5d017a2beb2cef969550437a429858d5ba9c0e6` | `4c54ba68` |
+| `output/translations/jeremiah_50.json` | 46 | `bfd436028014eab0fac216770e4155e28a0c40c4469e7f2307b56a81a2d25f2c` | `—` |
 | `output/translations/job_01.json` | 22 | `00a8521e015c76429ef5afd36a8ede476c749f145c9e0aa1a94525bb754faffe` | `b0076026` |
 | `output/translations/job_02.json` | 13 | `49b5d6d22317938154966256665b24d6cba4ab1527005288e7bc8e7cf7dd88fc` | `f25861cd` |
 | `output/translations/job_03.json` | 26 | `56d33a94946b316de68141d4e9ec9e28707b1cfaa275acad87d4ba8ebdb29742` | `71ffc4d9` |
