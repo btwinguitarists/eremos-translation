@@ -89,34 +89,13 @@ BOOKS = {
     "EST": ("esther", "Esther"),
     "DAN": ("daniel", "Daniel"),
     "JOB": ("job", "Job"),
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> origin/end-of-book-review-songofsongs-audit
-=======
->>>>>>> origin/end-of-book-review-lamentations-audit
     "PSA": ("psalms", "Psalms"),
     "PRO": ("proverbs", "Proverbs"),
     "ECC": ("ecclesiastes", "Ecclesiastes"),
     "SNG": ("songofsongs", "Song of Songs"),
-<<<<<<< HEAD
-<<<<<<< HEAD
     "ISA": ("isaiah", "Isaiah"),
     "JER": ("jeremiah", "Jeremiah"),
     "LAM": ("lamentations", "Lamentations"),
-=======
-    "ECC": ("ecclesiastes", "Ecclesiastes"),
->>>>>>> origin/end-of-book-review-ecclesiastes-audit
-=======
->>>>>>> origin/end-of-book-review-songofsongs-audit
-=======
-    "LAM": ("lamentations", "Lamentations"),
->>>>>>> origin/end-of-book-review-lamentations-audit
-=======
-    "ISA": ("isaiah", "Isaiah"),
->>>>>>> origin/end-of-book-review-isaiah-audit
 }
 
 # OT book codes — the prompt branches on testament so OT packets reference

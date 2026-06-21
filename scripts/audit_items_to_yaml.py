@@ -81,33 +81,13 @@ BOOK_SLUGS = {
     "EST": "esther",
     "DAN": "daniel",
     "JOB": "job",
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> origin/end-of-book-review-songofsongs-audit
-=======
->>>>>>> origin/end-of-book-review-lamentations-audit
     "PSA": "psalms",
     "PRO": "proverbs",
     "ECC": "ecclesiastes",
     "SNG": "songofsongs",
-<<<<<<< HEAD
-<<<<<<< HEAD
     "LAM": "lamentations",
     "ISA": "isaiah",
-<<<<<<< HEAD
-=======
-    "ECC": "ecclesiastes",
->>>>>>> origin/end-of-book-review-ecclesiastes-audit
-=======
->>>>>>> origin/end-of-book-review-songofsongs-audit
-=======
-    "LAM": "lamentations",
->>>>>>> origin/end-of-book-review-lamentations-audit
-=======
     "JER": "jeremiah",
->>>>>>> origin/end-of-book-review-jeremiah-audit
 }
 
 TODO_TH = "__TODO_TH__"
