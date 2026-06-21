@@ -106,3 +106,53 @@ Recommended action: Lock 1JN 5:20 as Jesus-referent/high-Christology. Do not wea
 §Z: Anything else?
 
 One small corpus-level issue: avoid making existing doc titles too elastic. "Petrine eschatological disambiguation" should not become the generic home for all preserve-ambiguity decisions. Better pattern: create a broader doctrinal_ambiguity_preservation_2026-05.md index that links to narrower docs: eschatology, atonement extent, Johannine "sin unto death," and Christological anaphora.
+
+
+## GROK
+
+_(Grok pass added 2026-06-21 via Cowork; Gemini + ChatGPT sections above are the original 2026-05-28 replies, untouched.)_
+
+**## Item A: ἀντίχριστος = ผู้ต่อต้านพระคริสต์**
+
+**Verdict:** FINE
+**Reasoning:** The descriptive rendering **ผู้ต่อต้านพระคริสต์** accurately captures the ἀντί- compound force ("against/in place of") without importing English "Antichrist" as a proper name, aligning with the project's optimal-equivalence philosophy and Johannine emphasis (1JN 2:18, 22, 4:3). It distinguishes cleanly from ψευδόχριστος (false-Christ) and ὁ ἄνομος precedents, preserving the singular/plural and future/present ambiguity noted in the thai_summary. Neutral framing ("นักวิชาการบางคน... ส่วนคนอื่น") matches the locked petrine_disambiguation approach and avoids polemics.
+**Recommended action:** Lock as-is for the full Johannine corpus (including 2JN 7); no revision needed to thai_summary.
+
+**## Item B: ἱλασμός = เครื่องบูชาไถ่บาป**
+
+**Verdict:** FINE
+**Reasoning:** Cognate-locking with ἱλαστήριον (Rom 3:25) via **เครื่องบูชาไถ่บาป** preserves the Levitical word-family thread (atonement-sacrifice instrument) across Pauline and Johannine corpora (1JN 2:2; 4:10), balancing propitiation and expiation senses in an evangelical-Protestant framework without collapsing to one. It matches NIV/CSB neutrality and the project's consistency priority over pure naturalness (5 syllables is acceptable). Heb 9:5 distinction can be handled contextually later without breaking the lock.
+**Recommended action:** Lock as-is for cognate family; document Heb 9:5 register note if needed during Hebrews review.
+
+**## Item C: ἱλασμός EXTENT at 2:2**
+
+**Verdict:** CONCERN
+**Reasoning:** **คนทั้งโลก** is the correct literal preserve-ambiguity main-text rendering (mirroring Greek περὶ ὅλου τοῦ κόσμου), allowing both Calvinist (elect from all nations) and Arminian (all people) readings, consistent with Johannine kosmos usage and project precedent. However, the thai_summary's explicit "ลัทธิ Calvinism / Arminianism" labeling introduces unnecessary polemical tone, as flagged in the parallel 2 Pet 3:9 audit.
+**Recommended action:** Revise thai_summary at 2:2 to neutral framing ("บางคนตีความว่า... ส่วนคนอื่น...") matching 2 Pet recommendation; lock main text as-is.
+
+**## Item D: μένω = คงอยู่**
+
+**Verdict:** FINE
+**Reasoning:** Uniform **คงอยู่** for all 24 occurrences in 1 John masterfully preserves the Johannine mutual-indwelling theological thread (e.g., 4:13-16 triple structure; 3:14 antithesis), including non-theological extensions, without the English variation ("abide/remain/dwell"). This keyword consistency is a strength of the translation. Future corpora (2/3 John, Revelation) can apply contextual register without breaking the default.
+**Recommended action:** Lift to corpus doc immediately for Johannine consistency before 2JN/3JN.
+
+**## Item E: γεγεννημένος ἐκ τοῦ θεοῦ vs γεννηθείς ἐκ τοῦ θεοῦ**
+
+**Verdict:** FINE
+**Reasoning:** The Thai solution using plain **ได้บังเกิด** (perfect, believers, permanent result) vs. royal **ทรงบังเกิด** (aorist, Christ, 5:18) elegantly captures the Greek tense/Aktionsart distinction that English largely flattens. It fits the project's honorific/royal-prefix rules for divine subjects and Christological uniqueness, tying well to μονογενής precedent. JHN 1:13 and Rev 12:5 can reference this without conflict.
+**Recommended action:** Lift to unified Johannine birth/sonship doc (tying γεννηθείς + μονογενής + γεγεννημένος); lock as corpus precedent.
+
+**## Item F: ἁμαρτία πρὸς θάνατον at 5:16**
+
+**Verdict:** FINE
+**Reasoning:** Literal **บาปที่ถึงตาย** with 3-way thai_summary (apostasy, blasphemy against Spirit, physical judgment) correctly preserves the Greek under-determination and project ambiguity principle (per petrine doc). Pastors can choose application; the summary equips without foreclosing options in this notoriously pastoral-ethical crux. Adding to disambiguation doc is beneficial but not required.
+**Recommended action:** Lock as-is; optionally add 5:16 as anchor example to petrine_eschatological_disambiguation_2026-05.md or new Johannine-pastoral doc.
+
+**## Item G: οὗτός ἐστιν ὁ ἀληθινὸς θεὸς at 5:20**
+
+**Verdict:** FINE
+**Reasoning:** The high-Christology rendering ("**ผู้นี้แหละเป็นพระเจ้าเที่ยงแท้**" referring to Jesus via immediate antecedent) aligns with mainstream evangelical-Protestant consensus, scholarly grammar (οὗτος to nearest masculine singular), and Johannine corpus (ties to JHN 1:1; 20:28). The thai_summary fairly presents both readings while noting majority preference, fitting locked pastoral_corpus_locks without over-disambiguating the Greek.
+**Recommended action:** Lock as-is; amend pastoral_corpus_locks_2026-05.md §C to include as Johannine precedent.
+
+**§Z: Anything else?**
+No additional corpus-level concerns outside the items. Per-chapter checks passed, and the translation maintains strong fidelity, consistency, and ambiguity-preservation where the Greek warrants it. Excellent work overall—proceed confidently to 2 John.
