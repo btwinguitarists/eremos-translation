@@ -78,3 +78,36 @@ Recommended action: Add a thai_summary at v.7 explaining that พระนาม
 §Z: Anything else?
 
 No additional corpus-level concern beyond the five listed items. The main reader-facing surfacing needs are v.7 for the absolute Christological "Name" and v.10 for the Diotrephes misconduct cluster.
+
+
+## GROK
+
+_(Grok pass added 2026-06-21 via Cowork; Gemini + ChatGPT sections above are the original 2026-05-28 replies, untouched.)_
+
+**## Item A: Diotrephes-conflict surfacing**
+**Verdict:** FINE
+**Reasoning:** The current bare-narrative approach at 3 JN 1:9–10 with analysis in `notes` aligns with the project's optimal-equivalence philosophy and locked decisions on surfacing (e.g., parallel handling in Pauline letters like 2 TIM for named individuals). The fourfold pattern (φλυαρῶν/πραγματεύομαι-like slander, οὐκ ἐπιδέχεται, κωλύει, ἐκβάλλει) is structurally clear in the Greek cluster and Thai rendering ("ปรักปรำ...ห้าม...ขับออก"). Thai church misuse risks exist in any culture, but `thai_summary` at this scale would risk over-interpretation beyond the text's apostolic-personal focus (John's ὑπομνήσω authority), potentially violating "don't re-render for taste" and native-reviewer stylistic guidelines.
+**Recommended action:** Lock as-is (Option A); corpus-doc level for application patterns if needed.
+
+**## Item B: φίλοι vs ἀδελφοί register-split**
+**Verdict:** FINE
+**Reasoning:** **เพื่อน** accurately captures the deliberate lexical shift from ἀδελφοί (vv. 3,5,10 → พี่น้อง for fellowship) to φίλοι at v.15 (personal mutual-acquaintance circle), preserving Johannine nuance without over-elevating. It echoes JHN 15:14–15 thematically but remains pedestrian here per context, matching optimal equivalence. **เพื่อนสนิท** or **มิตรสหาย** would add interpretive weight not demanded by the Greek; current neutral term + KD suffices for typical readers distinguishing registers. No `thai_summary` needed, as verse-level distinction holds without corpus-level flag.
+**Recommended action:** Lock as-is; verse-level KD sufficient.
+
+**## Item C: ὑπολαμβάνω → สนับสนุน**
+**Verdict:** FINE
+**Reasoning:** **สนับสนุน** is the optimal modern-Thai equivalent for the unique support/sustain sense of ὑπολαμβάνω in 3 JN 1:8 (contrasted with other NT senses in Acts/Luke). It fits the missionary cluster (προπέμπω + συνεργός) naturally as material+moral backing without forcing etymological imagery ("under-load") that could sound unnatural. **อุปถัมภ์** or **ค้ำจุน** are viable alternatives but more formal/archaic; current rendering maintains naturalness and semantic-field coherence. Cross-verse pattern belongs in the proposed corpus doc, not verse KD.
+**Recommended action:** Lock as-is; defer cluster note to `propempo_missionary_sending_2026-05.md`.
+
+**## Item D: ὁ φιλοπρωτεύων → ผู้ที่ใฝ่หาความเป็นใหญ่**
+**Verdict:** FINE
+**Reasoning:** **ใฝ่หาความเป็นใหญ่** faithfully renders the active φιλο- ("love/pursue") + πρωτεύω compound hapax, stronger and more agentive than THSV-style **อยากเป็นใหญ่** or "likes to be first" glosses. It preserves the ambition-for-primacy force without softening to general "ทะเยอทะยาน." Literary register fits the pastoral letter's elevated tone and Johannine style; hapax status in Eremos corpus is appropriate for theological precision over broad readability. No need for further lexical reservation.
+**Recommended action:** Lock as-is.
+
+**## Item E: "the Name" absolute Christological reference**
+**Verdict:** FINE
+**Reasoning:** **เพื่อพระนาม** with royal-prefix **พระ** (per locked honorifics) sufficiently marks divine/Christological status for Thai readers, echoing ACT 5:41 absolute usage without explicit complement. The shorthand is implicit in Greek (Hellenistic-Jewish-Christian idiom) and preserved here; `notes` + royal prefix provide adequate surfacing. Adding `thai_summary` would risk over-explicitness beyond optimal equivalence, and cascading to Acts would disrupt shipped consistency. Typical readers decode via context + prefix.
+**Recommended action:** Lock as-is (Option A); no cascade.
+
+**§Z: Anything else?**
+No additional corpus-level concerns. The short letter integrates cleanly with Johannine/Pauline patterns already shipped; all items respect locked decisions and automated-check coverage.
