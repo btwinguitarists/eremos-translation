@@ -87,6 +87,7 @@ BOOK_SLUGS = {
     "SNG": "songofsongs",
     "LAM": "lamentations",
     "ISA": "isaiah",
+    "JER": "jeremiah",
 }
 
 TODO_TH = "__TODO_TH__"
