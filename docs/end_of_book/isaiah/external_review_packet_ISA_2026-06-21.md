@@ -1,0 +1,220 @@
+# Isaiah — External AI Sanity-Check Review Packet
+**Date assembled: 2026-06-21**
+
+**Paste this entire document into one of:** Grok (free), ChatGPT (free or paid), Gemini 2.5 Pro, Claude. **Then copy the AI's response back to the project's main session.**
+
+---
+
+## PROMPT — read carefully before reviewing
+
+You are performing an **end-of-book external sanity-check** on **Isaiah** (66 chapters, 1,291 verses) from a CC0, AI-assisted, evangelical-Protestant Thai Bible translation translated directly from the Westminster Leningrad Codex (Hebrew Masoretic Text) with MACULA Hebrew morphology and discourse annotations. Your output goes to the project's main session to surface corpus-level concerns that per-chapter automated checks may have missed.
+
+### Project shape
+
+- **Source:** Westminster Leningrad Codex (Hebrew MT) — same Hebrew base as ESV / NIV / NASB / CSB / NLT. MACULA Hebrew supplies word-level morphology, lemma data, and clause-discourse annotations.
+- **Philosophy:** optimal equivalence — faithful to Hebrew grammar, natural in modern Thai. Aramaic sections (when present, e.g. Dan 2:4b–7:28, Ezr 4:8–6:18, Jer 10:11) are handled per the language-aware dispatcher.
+- **Status:** 1 Chronicles, 1 Corinthians, 1 Thessalonians, 1 Timothy, 2 Chronicles, 2 Corinthians, 2 Kings, 2 Samuel, 2 Thessalonians, 2 Timothy, Acts, Colossians, Ephesians, Exodus, Galatians, Genesis, John, Joshua, Leviticus, Luke, Mark, Matthew, Numbers, Philemon, Philippians, Proverbs, Psalms, Romans complete + tagged; Revelation, Deuteronomy, Judges, 1 Samuel, 1 Kings, Job, Jeremiah complete (not yet tagged). Isaiah 66/66 just shipped. Per-chapter automated checks (Hebrew-field integrity, divine-names enforcement, versification anchor against MT, honorifics-binding for Rachasap, back-translation, Thai-summary coverage) all pass.
+
+### Already-locked corpus decisions — DO NOT re-litigate
+
+- ἐκκλησία (Christian community) → คริสตจักร; secular/OT assembly → ที่ประชุม
+- βασιλεία τοῦ θεοῦ → อาณาจักรของพระเจ้า; βασιλεία τῶν οὐρανῶν → อาณาจักรสวรรค์ (Matthew only)
+- ἄφεσις ἁμαρτιῶν → การยกโทษบาป; ἄφεσις (release) at LUK 4:18 → ปลดปล่อย
+- narrator-voice ὁ κύριος (= Jesus) → องค์พระผู้เป็นเจ้า (Luke-Acts signature)
+- vocative Κύριε from disciples/believers → องค์พระผู้เป็นเจ้า; from outsiders → context
+- παρρησιάζομαι → อย่างกล้าหาญ
+- δοξάζω / εὐλογέω / αἰνέω / αἶνον δίδωμι (object = God) → สรรเสริญ (single Thai default)
+- honorifics ราชาศัพท์ for divine subjects + kings (Herod, Agrippa); plain register for governors (Felix, Festus) + non-divine human authorities
+- pagan deities → เทพ / เทพี / เทพเจ้า (NEVER พระเจ้า, reserved for the biblical God)
+- μετανοέω → กลับใจ (salvific); μεταμέλομαι → เปลี่ยนใจ (non-salvific reconsidering)
+- οὐρανός → ฟ้าสวรรค์ (theological default); สวรรค์ (after possessor); ท้องฟ้า (meteorological)
+- ψυχή → จิตวิญญาณ / ชีวิต (context); πνεῦμα (anthropological) → จิต — distinct from πνεῦμα ἅγιον → พระวิญญาณบริสุทธิ์
+- ὁ υἱὸς τοῦ ἀνθρώπου (Christological title) → บุตรมนุษย์; υἱοὶ τῶν ἀνθρώπων (humanity) → บุตรของมนุษย์
+- Greek historic-present verbs → Thai past tense (do not preserve present morphology)
+- ἀμὴν λέγω ὑμῖν (Synoptic single) → เราบอกความจริงแก่พวกท่าน(ว่า)
+- ἀμὴν ἀμὴν λέγω ὑμῖν (Johannine doubled, 25× in John) → อาเมน อาเมน เราบอกแก่พวกท่านว่า — Aramaic-embed treatment
+- μονογενὴς θεὸς (JHN 1:18) → พระบุตรองค์เดียวผู้ทรงเป็นพระเจ้าด้วย — exception to standard μονογενής → องค์เดียว lock for the compound
+- Aramaic embeds (Talitha cumi, Ephphatha, Abba, etc.) → preserve Thai-script transliteration AND Mark's own Greek translation
+- Inclusion-variant Path A (LOCKED): Tier 1 short-phrase `[...]`; Tier 2 whole-verse footer note; Tier 3 large blocks `⟦...⟧` — matches BSB/ESV/NIV/CSB
+- Parable characters representing God (fathers, kings, masters, judges) → human register, never ราชาศัพท์
+- Narrator introducing adversary speech to Jesus → ทูล (preserves Jesus's divine status regardless of speaker)
+- ἔθνος three-way: ประชาชาติ (cosmic/Psalmic) / ชนชาติ (specific people-group, incl. Israel) / คนต่างชาติ (Gentiles, mission target)
+- Roman titles: χιλίαρχος → นายพัน; ἑκατοντάρχης → นายร้อย; ἡγεμών → ผู้ว่าราชการ; ἀνθύπατος → ผู้สำเร็จราชการ
+- Pagan-deity personal names → transliteration (Zeus → ซีอุส); abstract personifications → descriptive (Δίκη → เทพีแห่งความยุติธรรม)
+- Tetragrammaton יהוה → องค์พระผู้เป็นเจ้า (NT-aligned per divine_names_table_2026-05.md); אֱלֹהִים → พระเจ้า; שַׁדַּי → ผู้ทรงมหิทธิฤทธิ์
+- First-occurrence-per-chapter Tetragrammaton convention footer note in output/textual_variants/<book>_<chapter>.json (Layer 2)
+- OT register: ราชาศัพท์ ทรง- on verbs whose subject is the divine person; plain verb when subject is a divine body part (e.g., יַד יהוה)
+- Pagan deities (foreign אֱלֹהִים, plural-of-Moabite-gods, Baal/Asherah/etc.) → พระทั้งหลาย / เทพ — NEVER พระเจ้า (reserved for YHWH/true God)
+- חֶסֶด (covenant loyal-love, Ruth 1:8 lock) → ความรักมั่นคง
+- גֹּאֵל (kinsman-redeemer) → ญาติผู้ไถ่; גָּאַל / גְּאֻלָּה family verbs → ไถ่ / สิทธิ์ในการไถ่
+- Hebrew oath formulas: כֹּה יַעֲשֶׂה יהוה ... וְכֹה יֹסִיף → ขอองค์พระผู้เป็นเจ้าทรงลงโทษ ... และให้หนักยิ่งกว่านั้นอีก; חַי־יהוה → ตราบใดที่องค์พระผู้เป็นเจ้าทรงพระชนม์อยู่
+- Hebrew anthropomorphism for YHWH's body parts: royal-Thai พระหัตถ์ / พระเนตร / พระโอษฐ์ / พระบาท (matches Rachasap when divine possessor)
+- אֵשֶׁת חַיִל / אִישׁ גִּבּוֹר חַיִל (Ruth 2:1 + 3:11 mirrored pair) → ชายผู้มีฐานะมั่งคั่งและทรงเกียรติ / หญิงผู้ทรงคุณธรรมและทรงเกียรติ
+- Hebrew jussive prayer-blessings (יְבָרֶכְךָ יהוה, יִתֵּן יהוה, etc.) → Thai ขอ-...ทรง- + verb (royal-honorific for divine subject)
+- Hebrew narrative-opening וַיְהִי → idiomatic Thai (drop or use temporal-marker like 'วันหนึ่ง'); waw-consecutive chains do not require mechanical และ rendering
+
+### What we want from you
+
+The internal end-of-book review surfaced the items below. For each, tell us either (a) "fine as-is, here's why" or (b) "here's a real concern, here's the action." Where you disagree, give specific verse-level reasoning grounded in the Hebrew + Thai shown.
+
+### What we are NOT asking for
+
+- Don't propose stylistic alternatives "for variety." Consistency in key terms is a feature.
+- Don't flag things from the locked-decisions list above. Those are settled.
+- Don't suggest re-rendering specific verses for taste. Native Thai reviewers handle stylistic feedback.
+- Don't comment on per-chapter automated-check coverage — those all pass.
+
+### Output format
+
+For each item below, return:
+
+```
+## [Item letter]: [Short title]
+**Verdict:** FINE / CONCERN / MAJOR CONCERN
+**Reasoning:** [1-3 sentences citing verses]
+**Recommended action:** [specific — "lock as-is", "spot-revise verse X", "write doc Y", or "Ben to decide"]
+```
+
+Then a brief **§Z: Anything else?** section if you spot a corpus-level concern outside these items.
+
+---
+# Isaiah (ISA) — end-of-book external-review items
+
+_Auto-derived from the book's own `key_decisions`, textual-variant footnotes, and automated check reports (66 chapters, 1,291 verses). These are evidence-based sanity-check prompts, not hand-curated maintainer concerns — review them as a corpus-level second opinion and flag anything inconsistent, mistaken, or theologically off._
+
+## Item A — Divine-name & honorific convention (verify consistency across the whole book)
+
+
+The book applies the project's locked Tetragrammaton/honorific convention. Confirm it is applied **uniformly** and correctly across every chapter, and flag any verse where the divine name, an Adonai-YHWH compound, or royal honorifics (ราชาศัพท์) read inconsistently or wrongly.
+
+> First-occurrence convention footnote (chapter 1 / first occurrence):
+>
+> **องค์พระผู้เป็นเจ้า** ในบทนี้ (ปรากฏครั้งแรกที่ข้อ 2) แปลจากภาษาฮีบรู יהוה (พระนามเฉพาะของพระเจ้า ออกเสียงโดยทั่วไปว่า ‘ยาห์เวห์’). ฉบับเอเรโมสใช้ **องค์พระผู้เป็นเจ้า** ตามแบบแผนของฉบับพันธสัญญาใหม่ที่แปล κύριος ซึ่งในต้นฉบับฮีบรูตรงกับ יהוה. รูปประสม יְהוָה צְבָאוֹת (ข้อ 9, 24) แปลว่า **องค์พระผู้เป็นเจ้าจอมโยธา** และ הָאָדוֹן (องค์เจ้านาย ข้อ 24) แปลแยกไว้เพื่อให้ผู้อ่านแยกแยะรูปแบบฮีบรูได้ ดูรายละเอียดเพิ่มเติมที่ docs/translator_decisions/divine_names_table_2026-05.md.
+
+
+## Item B — Textual & versification divergences (verify handling)
+
+
+Key-decisions in this book that flag a textual variant, LXX/MT difference, versification realignment, or cipher. Confirm each is handled correctly and consistently:
+
+- **Isaiah 1:1** — นิมิต
+  - ḥazon = prophetic vision (cognate with the verb חָזָה ‘saw’ later in the verse). ‘นิมิต’ is the established Thai Christian term for revelatory vision; the superscription governs the whole 66-chapter book, not just ch. 1.
+- **Isaiah 1:7** — ดั่งถูกคนต่างชาติคว่ำทลาย
+  - mahpēkâ is the Sodom-overthrow lexeme (the noun of הפך used of Sodom, Gen 19:25 shipped ทรงคว่ำ; Deut 29:23; Amos 4:11) — คว่ำทลาย keeps the lexical echo that prepares vv. 9–10's explicit Sodom comparison. Some scholars emend זָרִים to סְדֹם (‘like the overthrow of Sodom’) — an a
+- **Isaiah 1:9** — ผู้รอดชีวิต
+  - śārîd = survivor — inaugurates Isaiah's remnant theology (cf. שְׁאָר in 10:20–22; the name Shear-jashub 7:3). ผู้รอดชีวิต matches the shipped 2KI 19:31 remnant pair (คนที่เหลือรอด/ผู้รอดชีวิต). LXX reads σπέρμα ‘seed/offspring’ here (followed by Rom 9:29's quotation); MT שָׂרִיד 
+- **Isaiah 1:15** — เต็มไปด้วยโลหิต
+  - dāmîm (plural) = bloodguilt/bloodshed, not sacrificial blood → โลหิต per the shipped bloodguilt register (2KI 9:26 โลหิตของนาโบท); contrast v. 11's sacrificial เลือด. The Hebrew climax is asyndetic — the Thai deliberately omits เพราะ to keep the hammer-blow.
+- **Isaiah 1:17** — จงปรามผู้กดขี่
+  - חָמוֹץ is a hapax. As pointed (MT ḥāmôṣ, active) = ‘the oppressor’ — so BSB (‘correct the oppressor’), and אַשְּׁרוּ (Piel of אשר, ‘set straight/lead’) → ปราม (restrain-and-correct). Alternative: repoint as passive ḥāmûṣ ‘the oppressed’, as LXX ῥύσασθε ἀδικούμενον ‘rescue the wro
+- **Isaiah 1:29** — เพราะพวกเขาจะอับอาย … ที่พวกเจ้าปรารถนานัก
+  - MT shifts person mid-verse (yēvōšû 3pl → ḥămadtem 2pl) — enallage preserved as-is per ot_canon_and_text_base (MT-anchored); 1QIsaa and some versions smooth to 2pl תבושו (so BSB ‘you will be ashamed’) — mss variant documented, MT followed. (Ellipsis marks the two non-contiguous ve
+- **Isaiah 1:31** — ผลงานของเขา
+  - pōʿălô — either ‘his work’ (the idol he made — followed, with BSB) or ‘its maker’ (the idol's maker, reading the suffix the other way; cf. LXX variant tradition). Main text takes the deed/idol as the spark; the alternative documented.
+- **Isaiah 2:1** — ถ้อยคำซึ่ง…ได้เห็น
+  - Second superscription; the synesthetic idiom ‘the word that he SAW’ (ḥāzâ — same verb as 1:1's vision) is kept as-is rather than smoothed to ‘received’: prophetic words are seen realities. ได้เห็น preserved deliberately.
+- **Isaiah 2:16** — เรืองามตระการ
+  - hapax — śəkîyôt: sense uncertain (Egyptian loan ‘ships’? ‘carved images’? ‘watchtowers’?). Parallelism with ships-of-Tarshish favors stately vessels (so BSB ‘stately vessel’, LXX θέαν πλοίων κάλλους); rendered เรืองามตระการ with the alternatives documented.
+- **Isaiah 2:20** — ตัวตุ่น
+  - Famous crux: MT as written divides לַחְפֹּר פֵּרוֹת (two words, lit. ‘to dig holes’?) — read universally (with BHS, most mss-comparison, and the versions' sense) as one word חֲפַרְפָּרוֹת ‘moles’ (burrowing rodents); BSB ‘to the moles’. The variant word-division documented; LXX τ
+- **Isaiah 3:10** — จงบอกคนชอบธรรมว่าเขาจะอยู่เย็นเป็นสุข
+  - MT ‘Say [of/to] the righteous that [it shall be] well’ — slightly elliptical; BSB-family reading followed. LXX reads differently (δήσωμεν τὸν δίκαιον ‘let us bind the righteous’ — a wholly different text); MT followed per ot_canon, LXX variant documented. צַדִּיק → คนชอบธรรม.
+- **Isaiah 3:12** — เด็กกดขี่พวกเขา และพวกผู้หญิงปกครองเหนือพวกเขา
+  - MT as pointed: ‘children are his oppressors and women rule over him’ (continuing v. 4's boy-rulers theme — a dishonor-statement about Judah's actual misrule, not a statement about women as such). LXX revocalizes: πράκτορες ‘exactors/creditors’ (נֹשִׁים) — variant documented; MT f
+- **Isaiah 3:13** — พิพากษาชนชาติทั้งหลาย
+  - MT plural עַמִּים ‘peoples’ (so rendered); LXX/Syriac read singular ‘his people’ (τὸν λαὸν αὐτοῦ) — variant documented. The universal bench of 2:4 convenes here against Judah first.
+- **Isaiah 3:18** — ผ้าคาดศีรษะ
+  - hapax — šāvîs: woven head-band (etymology uncertain; LXX ἐμπλόκια ‘braided ornaments’). Catalogue items vv. 18–23 are rendered with best-supported glosses; each uncertain item carries its class in these kds rather than false precision in the text.
+- **Isaiah 3:23** — กระจกเงา
+  - gilyōnîm — ‘mirrors’ (polished-metal hand mirrors; so BSB) or ‘gauze/transparent garments’ (LXX διαφανῆ λακωνικά ‘transparent Laconian dresses’!) — the two ancient readings documented; mirror-sense followed with BSB. סְדִינִים → เสื้อผ้าลินิน (cf. shipped Gen 41:42 ผ้าลินิน); צְנ
+- **Isaiah 4:5** — เมฆในเวลากลางวัน กับควันและแสงเพลิงโชติช่วงในเวลากลางคืน
+  - The Exodus pillar-pair (Exod 13:21 shipped เสาเมฆ/เสาเพลิง) re-created over Zion — vocabulary aligned (เมฆ/เพลิง + เวลากลางวัน/กลางคืน) minus เสา (Isaiah omits ‘pillar’: the presence now covers, not leads).
+- **Isaiah 5:9** — องค์พระผู้เป็นเจ้าจอมโยธาตรัสให้ข้าพเจ้าได้ยินกับหู
+  - Elliptical: ‘In my ears — YHWH of hosts: Surely…’ (the swearing-verb omitted; אִם־לֹא is the oath-formula ‘surely’ per hebrew_oath_formulas doc). Unfolded minimally with the oath-certainty kept in เป็นแน่; the ellipsis shown in thai_literal.
+- **Isaiah 5:17** — ลูกแพะกับแกะจะกินอยู่ท่ามกลางซากปรักหักพังของคนมั่งมี
+  - Difficult text: MT ‘and ruins of fatlings — sojourners (gārîm) will eat’; many read gārîm as ‘young goats/kids’ (LXX ἄρνες ‘lambs’ supports a flock-animal sense) — followed here with the flock-reading completing the pastoral image; BSB's ‘strangers’ alternative documented (mss-le
+- **Isaiah 5:25** — ถึงอย่างนั้นพระพิโรธของพระองค์ก็ยังไม่หันกลับ และพระหัตถ์ของพระองค์ยังคงเหยียดออกอยู่
+  - CROSS-CHAPTER REFRAIN LOCK at its debut: ‘For all this His anger is not turned away; His hand is still stretched out’ — recurs at MT 9:11, 9:16, 9:20 and 10:4 (English 9:12/17/21; 10:4) and must be byte-identical there. Narrator voice → พระพิโรธ/พระหัตถ์ rachasap; the outstretche
+- **Isaiah 6:1** — ข้าพเจ้าได้เห็นองค์เจ้านาย
+  - אֲדֹנָי standalone, third-person vision-report → องค์เจ้านาย per the divine_names 4-way table — MT reads Adonai here (some mss read יהוה; MT followed, mss variant noted). The chapter alternates Adonai (vv. 1, 8, 11) with YHWH-of-hosts (vv. 3, 5, 12) — both surfaces kept distinct 
+- **Isaiah 6:9** — จงฟังแล้วฟังเล่า แต่อย่าเข้าใจ จงดูแล้วดูเล่า แต่อย่ารู้แจ้ง
+  - Infinitive-absolute intensives → ฟังแล้วฟังเล่า/ดูแล้วดูเล่า matched verbatim to the shipped NT quotations (MAT 13:14, ACT 28:26 พวกเจ้าจะฟังแล้วฟังเล่า…ดูแล้วดูเล่า) — MT's IMPERATIVES (จง…อย่า…) kept against the NT's LXX-based futures (จะ…ไม่…): mood differs because the source-
+- **Isaiah 6:10** — จงทำให้ใจของชนชาตินี้ด้านชา
+  - hašmēn — lit. ‘make fat’ (the fat-verb šāmēn): the insulated, unfeeling heart → ด้านชา (the literal fat-image given in thai_literal/summary). NT-link: the shipped quotations render LXX's ἐπαχύνθη as ใจ…กระด้างไป (MAT 13:15/ACT 28:27, indicative); the MT imperative is rendered wit
+- **Isaiah 7:14** — ดูเถิด หญิงพรหมจารีผู้นั้นจะตั้งครรภ์และคลอดบุตรชาย
+  - THE crux. ʿalmâ = young woman of marriageable age (every OT use compatible with, but not lexically identical to, בְּתוּלָה ‘virgin’); LXX rendered παρθένος ‘virgin’, and Matt 1:23 (shipped: หญิงพรหมจารีจะมีครรภ์) reads the LXX. Main text follows the evangelical critical-text cons
+- **Isaiah 7:14** — นางจะเรียกนามของเขาว่าอิมมานูเอล
+  - MT: SHE will call (וְקָרָאת 3fs — the mother names him); the shipped Matt 1:23 quotes the LXX-family ‘THEY will call’ (เขาทั้งหลายจะเรียก) — the person-difference between MT and NT documented, each rendered faithfully to its own text. אิมมานูเอล transliterated matching Matthew ex
+- **Isaiah 8:2** — ข้าพเจ้าได้ตั้งพยานที่เชื่อถือได้
+  - ʿēdîm neʾĕmānîm ‘reliable witnesses’ — the ʾāman-root again (7:9 เชื่อมั่น/มั่นคง): the prophecy is notarized with ‘amen-able’ men. MT reads 1sg (‘I called witnesses’); some versions read an imperative — MT followed. Uriah = the priest of 2 Kgs 16:10–16 (Ahaz's altar-copyist!) — 
+
+
+## Item C — Locked-term / convention applications (verify uniformity)
+
+
+Renderings the translator marked as locked/by-convention. Confirm they match the project glossary and are used consistently here and against the rest of the corpus:
+
+- **Isaiah 1:12** — เข้ามาปรากฏต่อหน้าเรา
+- **Isaiah 1:15** — เราจะซ่อนตาของเรา
+- **Isaiah 1:20** — เพราะพระโอษฐ์ขององค์พระผู้เป็นเจ้าได้ตรัสแล้ว
+- **Isaiah 1:24** — องค์ผู้ทรงอานุภาพแห่งอิสราเอล
+- **Isaiah 1:25** — เราจะหันมือของเรามาต่อสู้เจ้า
+- **Isaiah 2:9** — มนุษย์จึงถูกกดให้ต่ำลง และผู้คนถูกทำให้ตกต่ำ
+- **Isaiah 2:11** — ตาอันยโสของมนุษย์จะถูกทำให้ตกต่ำ และความผยองของผู้คนจะถูกกดให้ต่ำลง
+- **Isaiah 2:11** — และองค์พระผู้เป็นเจ้าเพียงพระองค์เดียวจะทรงได้รับการเทิดทูนในวันนั้น
+- **Isaiah 2:12** — เหนือทุกสิ่งที่เย่อหยิ่งและทะนงตน เหนือทุกสิ่งที่ถูกยกขึ้นสูง — และมันจะถูกทำให้ตกต่ำ
+- **Isaiah 2:17** — ความยโสของมนุษย์จะถูกกดให้ต่ำลง และความผยองของผู้คนจะถูกทำให้ตกต่ำ
+- **Isaiah 2:19** — เมื่อพระองค์ทรงลุกขึ้นทำให้แผ่นดินโลกสั่นสะท้าน
+- **Isaiah 3:4** — เราจะให้เด็กหนุ่มเป็นเจ้านายของพวกเขา
+- **Isaiah 3:7** — ในวันนั้นเขาจะร้องตอบ
+- **Isaiah 3:9** — วิบัติแก่จิตวิญญาณของพวกเขา
+- **Isaiah 3:15** — องค์พระผู้เป็นเจ้าจอมโยธาตรัสไว้ดังนี้
+- **Isaiah 4:3** — จะได้ชื่อว่าผู้บริสุทธิ์
+- **Isaiah 5:2** — เฝ้าหวัง … ผลองุ่นเน่า
+- **Isaiah 5:4** — ยังมีอะไรที่ควรทำเพื่อสวนองุ่นของเราอีก
+- **Isaiah 5:6** — ต้นหนามและพุ่มหนาม
+- **Isaiah 5:7** — เฝ้าหวังความยุติธรรม แต่ดูเถิด กลับมีการนองเลือด ทรงเฝ้าหวังความชอบธรรม แต่ดูเถิด กลับมีเสียงร้องทุกข์
+- **Isaiah 5:8** — วิบัติแก่ผู้ที่เอาบ้านต่อเข้ากับบ้าน
+- **Isaiah 5:15** — มนุษย์จะถูกกดให้ต่ำลง และผู้คนถูกทำให้ตกต่ำ
+- **Isaiah 5:16** — องค์พระผู้เป็นเจ้าจอมโยธาจะทรงเป็นที่เทิดทูนโดยความยุติธรรม
+- **Isaiah 5:16** — พระเจ้าผู้บริสุทธิ์จะทรงสำแดงความบริสุทธิ์ของพระองค์โดยความชอบธรรม
+- **Isaiah 5:19** — ขอให้แผนการขององค์บริสุทธิ์แห่งอิสราเอลใกล้เข้ามาและมาถึงเถิด
+
+
+## Item D — Hardest interpretive cruxes (evaluate the calls)
+
+
+The key-decisions with the most reasoning attached — i.e. the book's hardest judgment calls. Evaluate whether each rendering is defensible from the source text:
+
+- **Isaiah 9:5** — ที่ปรึกษามหัศจรรย์ พระเจ้าผู้ทรงฤทธิ์ พระบิดานิรันดร์ องค์สันติราช
+  - Four throne-names, each locked: (1) peleʾ yôʿēṣ → ที่ปรึกษามหัศจรรย์ — yôʿēṣ is 1:26's restored-counselor word (the counselor Jerusalem lost returns in person); pele = the wonder-word of God's own acts. (2) ʾēl gibbôr → พระเจ้าผู้ทรงฤทธิ์ — LOCKED for the 10:21 recurrence (where the title is YHWH's beyond dispute); sur
+- **Isaiah 14:12** — โอ้ ดาวรุ่ง โอรสแห่งรุ่งอรุณ เจ้าร่วงลงมาจากฟ้าสวรรค์เสียแล้ว
+  - hapax — hêlēl ‘shining one’ (the morning star, Venus; LXX ἑωσφόρος, Vulgate lucifer) + ben-šāḥar ‘son of Dawn’ → ดาวรุ่ง โอรสแห่งรุ่งอรุณ (โอรส royal-son for the mock-royal pedigree). The ʾêk dirge-opener rendered with the LAM-locked โอ้…เสียแล้ว frame (the ekhah-pattern in full taunt-dress). Referent: the king of Baby
+- **Isaiah 7:14** — ดูเถิด หญิงพรหมจารีผู้นั้นจะตั้งครรภ์และคลอดบุตรชาย
+  - THE crux. ʿalmâ = young woman of marriageable age (every OT use compatible with, but not lexically identical to, בְּתוּלָה ‘virgin’); LXX rendered παρθένος ‘virgin’, and Matt 1:23 (shipped: หญิงพรหมจารีจะมีครรภ์) reads the LXX. Main text follows the evangelical critical-text consensus (BSB/ESV/NIV/CSB ‘the virgin’) per
+- **Isaiah 42:8** — เราคือองค์พระผู้เป็นเจ้า นามของเราคือยาห์เวห์! เราจะไม่ยกพระสิริของเราให้ผู้อื่น
+  - THE NAME-VERSE: the one syntactic position where the Tetragrammaton functions AS A NAME being named (‘I am YHWH — THAT is my name’) — the locked title องค์พระผู้เป็นเจ้า would dissolve the very point; rendered with BOTH surfaces — the locked title (เราคือองค์พระผู้เป็นเจ้า) carrying the identification and the transcrib
+- **Isaiah 19:25** — จงได้รับพรเถิด อียิปต์ประชากรของเรา อัสซีเรียผลงานแห่งมือของเรา และอิสราเอลมรดกของเรา
+  - The triple election-title distribution: ʿammî ‘MY PEOPLE’ (the covenant-formula, Exod 6:7) → Egypt; maʿăśēh yāday ‘work of my hands’ (the phrase idolatry corrupted at 2:8 — ผลงานแห่งมือ — now God's own handiwork-claim) → Assyria; naḥălātî ‘my inheritance’ (Deut 32:9's Israel-word) → Israel. Each title kept byte-aligned
+- **Isaiah 28:16** — ผู้ที่เชื่อจะไม่ตื่นตระหนกรีบหนี
+  - hammaʾămîn — the ʾāman hiphil (THE 7:9 verb: ถ้าพวกเจ้าไม่เชื่อมั่น… — the believing that holds firm; the 25:1/26:2–3 chain) → ผู้ที่เชื่อ; MT lōʾ yāḥîš ‘will not hasten’ = not bolt in panic (no flight-packing for the believer) → จะไม่ตื่นตระหนกรีบหนี; the LXX divergence documented: οὐ μὴ καταισχυνθῇ ‘will not be put t
+- **Isaiah 37:36** — แล้วทูตสวรรค์ขององค์พระผู้เป็นเจ้าก็ออกไปประหารคนในค่ายของอัสซีเรีย
+  - Synoptic parallel ∥ 2KI 19:35 — shipped 2 Kings Thai reused with the opening per ISA (chs 36–39 parallel-duty; Hebrew ISA LACKS 2KI's וַיְהִי בַּלַּיְלָה הַהוּא ‘that night’ — the shipped ในคืนนั้นเอง dropped per ISA MT). מַלְאַךְ יְהוָה → **ทูตสวรรค์ขององค์พระผู้เป็นเจ้า** per the corpus-wide mal'akh-YHWH lock (keep ส
+- **Isaiah 37:24** — เจ้าใช้ผู้รับใช้ของเจ้ามาเย้ยหยันองค์เจ้านาย
+  - Synoptic parallel ∥ 2KI 19:23 — shipped 2 Kings Thai reused with the title per the 4-way table (chs 36–39 parallel-duty; Hebrew ISA reads אֲדֹנָי (standalone Adonai → องค์เจ้านาย) where the shipped 2KI rendered the parallel as องค์พระผู้เป็นเจ้า; ISA's ‘servants’ plural vs 2KI's מלאכים messengers — ผู้รับใช้ per ISA MT
+
+
+## Item E — Open corpus-level read
+
+
+Beyond the items above: read for naturalness in modern Thai, theological accuracy (evangelical-Protestant), and any cross-cutting inconsistency the per-chapter automated checks would miss. Don't manufacture flags — only raise what you actually see.
+
+---
+
+## §Z — Anything else?
+
+If you spot a corpus-level concern outside the items above, flag it briefly. Don't manufacture flags; only mention if you actually see something. **Skip §Z if the items above are your full read.**
+
+---
+
+**End of packet. Output format reminder:** items × {Verdict / Reasoning / Recommended action} + optional §Z.

@@ -8,9 +8,13 @@ Claude Code does that afterward. Work carefully and never truncate a reply.
 ## Before you start (prerequisites)
 
 - **Gemini** — be signed in at <https://gemini.google.com> as **benvanscyoc@gmail.com**.
-- **ChatGPT** — be signed in at <https://chatgpt.com>.
+- **Grok** — be signed in at <https://grok.com> as Ben's account (paid Grok plan).
+- **ChatGPT** — be signed in at <https://chatgpt.com> (optional — include it if logged in).
 - **GitHub** — be signed in at <https://github.com> as **btwinguitarists** (owner of the
   `eremos-translation` repo) so you can commit the results.
+
+The two **required** reviewers are **Gemini** and **Grok** (Ben's paid plans). ChatGPT is a
+bonus third opinion when available. A book is usefully reviewed with Gemini + Grok alone.
 
 If any of those is not logged in, **stop and tell Ben** instead of guessing.
 
@@ -49,24 +53,30 @@ on an empty queue.
    copy mid-stream.
 4. Select and copy Gemini's **entire** reply.
 
-### Step 3 — ChatGPT
-1. Go to <https://chatgpt.com>. Start a **new chat**.
+### Step 3 — Grok
+1. Go to <https://grok.com>. Start a **new chat**.
 2. Paste the **same packet** (re-copy from the packet tab if needed). Send it.
-3. Wait for it to fully finish (the streaming stop-button reverts to the send/compose
-   state). Again, 1–3 minutes is normal.
-4. Select and copy ChatGPT's **entire** reply.
+3. Wait for it to fully finish (the streaming/loading indicator clears). 1–3 minutes is normal.
+4. Select and copy Grok's **entire** reply.
 
-### Step 4 — Save both replies to the repo
+### Step 4 — ChatGPT (optional — only if logged in)
+1. Go to <https://chatgpt.com>. Start a **new chat**.
+2. Paste the **same packet**. Send it.
+3. Wait for it to fully finish (the streaming stop-button reverts to the send/compose state).
+4. Select and copy ChatGPT's **entire** reply. (If ChatGPT isn't available, skip it — Gemini
+   + Grok is enough.)
+
+### Step 5 — Save the replies to the repo
 1. Go to: `https://github.com/btwinguitarists/eremos-translation/new/main/docs/end_of_book/_external_inbox`
    (this opens GitHub's "create new file" screen already pointed at the inbox folder).
-2. **Filename:** `<CODE>_raw.md` exactly — the queue gives the CODE (e.g. `GEN_raw.md`,
-   `1SA_raw.md`, `1JN_raw.md`).
-3. **File contents:** paste this, filling in the blanks and the two replies:
+2. **Filename:** `<CODE>_raw.md` exactly — the queue gives the CODE (e.g. `JER_raw.md`,
+   `ISA_raw.md`, `PSA_raw.md`).
+3. **File contents:** paste this, filling in the blanks and the replies:
 
    ```
    # <CODE> — external AI raw replies
 
-   source: Gemini + ChatGPT (web), via Cowork
+   source: Gemini + Grok (+ ChatGPT) web, via Cowork
    account: benvanscyoc@gmail.com
    date: <today's date YYYY-MM-DD>
    packet: <the packet URL you copied>
@@ -75,15 +85,19 @@ on an empty queue.
 
    <paste Gemini's full reply>
 
+   ## GROK
+
+   <paste Grok's full reply>
+
    ## CHATGPT
 
-   <paste ChatGPT's full reply>
+   <paste ChatGPT's full reply, or write "(skipped — not logged in)">
    ```
 
-4. Keep the headings `## GEMINI` and `## CHATGPT` **exactly** — Claude Code splits the file
-   on them. Paste each reply in full; never shorten or summarize.
+4. Keep the headings `## GEMINI`, `## GROK`, and `## CHATGPT` **exactly** — Claude Code splits
+   the file on them. Paste each reply in full; never shorten or summarize.
 5. Scroll down, choose **"Commit directly to the `main` branch"**, commit message
-   `inbox: <CODE> external AI raw (Gemini+ChatGPT)`, and commit.
+   `inbox: <CODE> external AI raw (Gemini+Grok)`, and commit.
 
 ### Step 5 — Next book
 Move to the next entry in the queue and repeat.
