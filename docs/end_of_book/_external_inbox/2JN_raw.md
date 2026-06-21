@@ -86,3 +86,36 @@ Expanded version if you want to cover both explicitly:
 §Z: Anything else?
 
 No additional corpus-level concern. The main action items are B, D, and E: fix the chosen-lady metadata tension, and surface the historical-context guardrail for v.10–11 so Thai readers do not misapply the hospitality/greeting prohibition.
+
+
+## GROK
+
+_(Grok pass added 2026-06-21 via Cowork; Gemini + ChatGPT sections above are the original 2026-05-28 replies, untouched.)_
+
+**## Item A: ἐρχόμενον ἐν σαρκί vs ἐληλυθότα present-participle distinction**
+**Verdict:** FINE
+**Reasoning:** The Greek presents a deliberate aspectual contrast (perfect ἐληλυθότα in 1 JN 4:2 emphasizing completed incarnation with ongoing relevance vs. present ἐρχόμενον in 2 JN 1:7). Scholarly consensus leans toward the ongoing/continuous manifestation of the incarnate Christ (e.g., linking to John 1:14's σὰρξ ἐγένετο + ἐσκήνωσεν), while the minority future/iterative readings remain viable but secondary. The Thai drop of **ได้** yields a neutral **เสด็จมาในเนื้อหนัง** that faithfully mirrors the Greek ambiguity without forcing Thai aspectual commitment, unlike a future-leaning **จะเสด็จมา** which would overcommit. Thai readers' default past/relevant reading aligns with the dominant anti-Docetic intent.
+**Recommended action:** Lock as-is; no thai_summary needed at v.7 (scholarly nuance belongs in notes or commentaries; per-chapter checks already passed).
+
+**## Item B: ἐκλεκτῇ κυρίᾳ + ἀδελφῆς ἐκλεκτῆς chosen-lady personification**
+**Verdict:** CONCERN
+**Reasoning:** The hybrid (literal main text + v.1 summary surfacing both readings) creates internal tension with v.13's KD ("confirms the personification-reading") and scholarly majority favoring the church-personification (sister-church greetings + plural shifts in vv.8,10). This clashes with the project's petrine_eschatological_disambiguation ambiguity-preservation principle. Uniform literal surface preserves options for readers while summaries can clarify consensus without forcing the text.
+**Recommended action:** Move to Option 3 — mirror v.1 thai_summary at v.13 and soften v.13 KD to "consistent with" (uniform ambiguity-preservation). Ben to decide on implementation.
+
+**## Item C: προάγω → ก้าวล้ำเกินเลย doctrinal-progressivism metaphor**
+**Verdict:** FINE
+**Reasoning:** 2 JN 1:9 uniquely deploys προάγω with ironic "run-ahead/beyond" theological warning (false innovation as departure from Christ's teaching), distinct from its neutral "lead/go-before" uses elsewhere. **ก้าวล้ำเกินเลย** effectively captures this irony and "going-beyond-bounds" sense better than milder THSV **ก้าวล่วง** or alternatives that lose the progress-metaphor. Hapax status is acceptable for precision in this rare context; consistency principle prioritizes Greek fidelity over cross-version smoothing.
+**Recommended action:** Lock as-is. No change needed.
+
+**## Item D: μὴ λαμβάνετε αὐτὸν εἰς οἰκίαν house-church platform vs private hospitality**
+**Verdict:** CONCERN
+**Reasoning:** Scholarly consensus views "house" here as house-church context (itinerant teachers + doctrinal endorsement via hospitality/platform), not blanket private-home refusal (which would tension with love-of-enemies in Matt 5:44/Luke 6:35). Bare Thai **อย่าต้อนรับเขาเข้ามาในบ้าน** risks strong misapplication in Thai cultural **น้ำใจ** context for typical readers, as notes are invisible.
+**Recommended action:** Move to Option B — add concise v.10 thai_summary surfacing itinerant/house-church context + love-of-enemies cross-ref. Significant practical risk justifies surfacing cost; cascade principle for parallel passages (e.g., 1 Cor 14, 1 Tim 2) is Ben/project decision.
+
+**## Item E: χαίρειν αὐτῷ μὴ λέγετε refusing formal greeting**
+**Verdict:** CONCERN
+**Reasoning:** **χαίρειν** here is the formal Hellenistic greeting-of-endorsement (participation in evil works via solidarity), not everyday courtesy — parallel cultural/historical specificity to Item D. Bare **อย่าทักทายเขา** risks clashing with Thai politeness norms and broader NT love commands for typical readers (notes invisible).
+**Recommended action:** Move to Option B with D — shared single thai_summary at v.10 covering both imperatives (house + greeting) for cohesion. Items D+E should move as a unit.
+
+**§Z: Anything else?**
+No additional corpus-level concerns spotted beyond the items; per-chapter automated checks hold, and locked decisions were respected. Strong work on this short epistle.
