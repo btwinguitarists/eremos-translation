@@ -78,113 +78,50 @@ For each item below, return:
 Then a brief **§Z: Anything else?** section if you spot a corpus-level concern outside these items.
 
 ---
-# Psalms (PSA) — end-of-book external-review items
+# Psalms — External Review Items
 
-_Auto-derived from the book's own `key_decisions`, textual-variant footnotes, and automated check reports (150 chapters, 2,527 verses). These are evidence-based sanity-check prompts, not hand-curated maintainer concerns — review them as a corpus-level second opinion and flag anything inconsistent, mistaken, or theologically off._
+Source: `docs/end_of_book/psalms/PSA_END_OF_BOOK_REVIEW_2026-05-31.md` (§2 audit). These are the REVIEW / DECIDE items where independent eyes (Greek/Hebrew + Thai) add value beyond Claude's own corpus-level self-review. Each block carries verse evidence inline; the closing **Question** becomes a YAML reviewer question.
 
-## Item A — Divine-name & honorific convention (verify consistency across the whole book)
+## Item A — Exod 34:6 compassion-formula (`חַנּוּן וְרַחוּם`) lexeme consistency
 
+The "gracious and compassionate, slow to anger, abounding in steadfast love" formula recurs across the Psalter (echoing Exod 34:6). `check_phrase_consistency.py` flags an inconsistency in how `רַחוּם` ("compassionate") is rendered:
 
-The book applies the project's locked Tetragrammaton/honorific convention. Confirm it is applied **uniformly** and correctly across every chapter, and flag any verse where the divine name, an Adonai-YHWH compound, or royal honorifics (ราชาศัพท์) read inconsistently or wrongly.
+- **Ps 103:8** `רַחוּם וְחַנּוּן יְהוָה` → "องค์พระผู้เป็นเจ้าทรงเปี่ยมด้วย**พระเมตตา**และพระคุณ ทรงกริ้วช้า…"
+- **Ps 86:15** `אֵל־רַחוּם וְחַנּוּן` → "พระเจ้าผู้เปี่ยมด้วย**พระเมตตา**และพระคุณ…"
+- **Ps 111:4** `חַנּוּן וְרַחוּם יְהוָה` → "ทรงเปี่ยมด้วยพระคุณและ**พระเมตตา**"
+- **Ps 145:8** `חַנּוּן וְרַחוּם יְהוָה` → "ทรงเปี่ยมด้วยพระคุณและ**ความเมตตากรุณา**"  ← the outlier
 
-> First-occurrence convention footnote (chapter 1 / first occurrence):
->
-> **องค์พระผู้เป็นเจ้า** ในบทนี้ (ปรากฏครั้งแรกที่ข้อ 2) แปลจากภาษาฮีบรู יהוה (พระนามเฉพาะของพระเจ้า ออกเสียงโดยทั่วไปว่า ‘ยาห์เวห์’). ฉบับเอเรโมสใช้ **องค์พระผู้เป็นเจ้า** ตามแบบแผนของฉบับพันธสัญญาใหม่ที่แปล κύριος ซึ่งในต้นฉบับฮีบรูตรงกับ יהוה. ดูรายละเอียดเพิ่มเติมที่ docs/translator_decisions/divine_names_table_2026-05.md.
+`רַחוּם` = พระเมตตา in three places but **ความเมตตากรุณา** at 145:8 (chosen to avoid the honorific `พระกรุณา`/`พระกร` body-part trap, but `พระเมตตา` is itself trap-free and already the established form). The audit recommends normalizing 145:8 to `พระเมตตา`.
 
+Two notes: (1) the **word order** legitimately varies with the MT (compassion-first `רַחוּם וְחַנּוּן` at 86:15/103:8 vs. grace-first `חַנּוּן וְרַחוּם` at 111:4/145:8) — should the Thai preserve Hebrew order, or fix one canonical order for the formula? (2) Ps 112:4 applies the same pair to the *righteous man* (plain ความเมตตา, no royal พระ-) — correct to keep distinct.
 
-## Item B — Textual & versification divergences (verify handling)
+**Question:** Should `רַחוּם` be rendered uniformly as พระเมตตา across all divine occurrences of the Exod 34:6 formula (normalizing Ps 145:8 from ความเมตตากรุณา), and should the Thai preserve the Hebrew word-order variation or standardize the formula's order?
 
+## Item B — Imprecatory-psalm footnote frame
 
-Key-decisions in this book that flag a textual variant, LXX/MT difference, versification realignment, or cipher. Confirm each is handled correctly and consistently:
+The Psalter's imprecatory passages (137:8–9 "dashes your infants against the rocks"; 139:19–22 "do I not hate those who hate You"; 140:9–11 "burning coals"; 149:6–9 "a double-edged sword in their hands… vengeance on the nations") are rendered **faithfully and unsoftened** from the MT, each with a Tier-2 pastoral footnote using a consistent four-part frame:
 
-- **Psalms 1:2** — องค์พระผู้เป็นเจ้า
-  - יהוה (พระนามเฉพาะของพระเจ้า) → ‘องค์พระผู้เป็นเจ้า’ ตามแบบแผนที่ locked ใน divine_names_table_2026-05.md (เทียบ κύριος ในพันธสัญญาใหม่)
-- **Psalms 1:4** — คนชั่วหาเป็นเช่นนั้นไม่
-  - ‘ไม่เป็นเช่นนั้น’ อ้างถึงทั้งข้อ 1-3 — คนชั่วต่างจากผู้เป็นสุขโดยสิ้นเชิง
-- **Psalms 1:6** — องค์พระผู้เป็นเจ้า
-  - יהוה (พระนามเฉพาะของพระเจ้า) → ‘องค์พระผู้เป็นเจ้า’ ตามแบบแผนที่ locked ใน divine_names_table_2026-05.md (เทียบ κύριος ในพันธสัญญาใหม่)
-- **Psalms 2:5** — ด้วยพระพิโรธ … ด้วยความกริ้วอันแรงกล้า
-  - אַף (ตามตัวอักษร ‘จมูก’ — มานุษยรูปนิยม) → ‘พระพิโรธ’; חָרוֹן ‘ความกริ้วอันร้อนแรง’ — รักษาความเข้มของคำคู่ขนาน
-- **Psalms 2:9** — เจ้าจะทำลาย
-  - MT תְּרֹעֵם (ราก רעע ‘ทุบ/ทำลาย’); ฉบับ LXX อ่าน רעה ‘ปกครอง/เลี้ยงดู’ — พันธสัญญาใหม่ (วว 2:27; 12:5; 19:15) ตาม LXX ‘ปกครองด้วยคทาเหล็ก’; เราคงตาม MT ‘ทำลาย’ และบันทึกความต่างไว้ในหมายเหตุ
-- **Psalms 2:12** — จงจุมพิตบุตรนั้น
-  - בַר (ภาษาอาราเมอิก ‘บุตร’, เทียบ בֵּן ‘บุตร’ ในข้อ 7; บางฉบับอ่านว่า ‘ความบริสุทธิ์’ — เป็นจุดยากในเชิงข้อความ); ‘จุมพิต’ = ท่าทีแสดงความจงรักภักดี/ยอมจำนนต่อกษัตริย์; การอ่านเชิงพระคริสต์อยู่ในหมายเหตุ
-- **Psalms 3:1** — บทเพลงสดุดีของดาวิด เมื่อทรงหนีจากอับซาโลมราชโอรสของพระองค์
-  - คำนำ (superscription) = ข้อ 1 ใน MT; ดาวิดในฐานะกษัตริย์ → ราชาศัพท์ ‘ทรงหนี’; אַבְשָׁלוֹם בְּנוֹ ‘อับซาโลมราชโอรส’ (พระราชบุตรของดาวิด)
-- **Psalms 3:3** — เซลาห์
-  - เซลาห์ (ปรากฏครั้งแรกในหนังสือสดุดี) เป็นคำดนตรีฮีบรูที่ไม่ทราบความหมายแน่ชัด — ถอดเสียงไว้ตามแบบแผน (เทียบ ‘ฮาเลลูยาห์’)
-- **Psalms 4:5** — จงครั่นคร้ามเถิด แต่อย่าทำบาป
-  - רָגַז ‘ตัวสั่น/หวั่นไหว’ — อาจเป็นการสั่นด้วยความยำเกรง (ความหมายหลักในบริบทที่ตามด้วย ‘สงบนิ่ง’) หรือด้วยความโกรธ; เอเฟซัส 4:26 อ้างตามฉบับ LXX ว่า ‘จงโกรธ’ (ดูหมายเหตุ)
-- **Psalms 6:2** — ด้วยพระพิโรธ … ด้วยความกริ้วอันแรงกล้า
-  - אַף ‘พระพิโรธ’; חֵמָה ‘ความกริ้วอันร้อนแรง’ — รักษาคำคู่ขนานของความโกรธ; เป็นเสียงคร่ำครวญสำนึกผิด
-- **Psalms 6:7** — ที่นอนชุ่มโชก … เตียงเปียกชุ่ม
-  - ภาพเกินจริงเชิงกวี (hyperbole) — น้ำตาท่วมที่นอน; מִטָּה/עֶרֶשׂ ‘ที่นอน/เตียง’ คำคู่ขนาน
-- **Psalms 8:3** — ทรงสถาปนาพลัง
-  - עֹז ‘พลัง/กำลัง’ (MT); ฉบับ LXX อ่านว่า ‘คำสรรเสริญ’ และพระเยซูทรงอ้างตามฉบับ LXX ที่ มัทธิว 21:16 — เราคงตาม MT และบันทึกไว้ในหมายเหตุ
-- **Psalms 8:6** — ต่ำกว่าพระเจ้าเพียงเล็กน้อย
-  - אֱלֹהִים → ‘พระเจ้า’ (MT ตามตัวอักษร); ฉบับ LXX และ ฮีบรู 2:7 อ่านว่า ‘เหล่าทูตสวรรค์’ — เราคงตาม MT และบันทึกไว้ในหมายเหตุ
-- **Psalms 12:8** — พระองค์จะทรงปกป้องพวกเรา
-  - ฉบับเขียน (ketiv) ‘ปกป้องพวกเขา’ (คนยากไร้ในข้อ 6) ฉบับอ่าน (qere) ‘พวกเรา’ — แปลตามบริบทผู้วางใจ
-- **Psalms 16:9** — จิตวิญญาณของข้าพระองค์ก็เปรมปรีดิ์
-  - כְּבוֹדִי ‘เกียรติของข้าพเจ้า’ = ตัวตนภายใน/จิตวิญญาณ (MT); ฉบับ LXX/กิจการ 2:26 อ่านว่า ‘ลิ้นของข้าพเจ้า’ — เราคงตาม MT
-- **Psalms 16:10** — ผู้จงรักภักดีของพระองค์ … เห็นหลุมมรณา
-  - שַׁחַת ‘หลุม/หลุมมรณา’ (MT); ฉบับ LXX และ กิจการ 2:27, 13:35 อ่านว่า ‘ความเน่าเปื่อย’ — เราคงตาม MT และบันทึกไว้; חָסִיד ‘ผู้จงรักภักดี’ ซึ่งพันธสัญญาใหม่อ่านว่าหมายถึง ‘องค์บริสุทธิ์’ คือพระคริสต์ (ดูหมายเหตุ)
-- **Psalms 19:15** — ศิลาและพระผู้ไถ่ของข้าพระองค์
-  - גֹּאֵล (ผู้ไถ่เชิงเทววิทยา) → ‘พระผู้ไถ่’ ตาม goel_kinsman_redeemer_2026-05.md (เทียบ โยบ 19:25)
-- **Psalms 20:7** — ผู้ที่พระองค์ทรงเจิมไว้
-  - מָשִׁיחַ (ผู้ถูกเจิม) ในที่นี้หมายถึงกษัตริย์ที่พระเจ้าทรงเจิม — แปลตามความหมายพื้นผิวใน OT ‘ผู้ที่พระองค์ทรงเจิม’; นัยถึงพระเมสสิยาห์อธิบายในเชิงอรรถ (เทียบ ดาเนียล 9:25-26)
-- **Psalms 20:8** — เราจะระลึกถึง (พระนาม)
-  - נַזְכִּיר (ราก זכר, รูป hiphil) = ‘เราจะกล่าวถึง/ระลึกถึง/ร้องออกพระนาม’ — MT เน้นการร้องออกพระนามของพระเจ้าเป็นที่พึ่ง (ต่างจาก BSB ‘trust’); คำกริยาฝ่ายศัตรู (รถรบ/ม้า) ถูกละไว้ จึงเสริม ‘ไว้วางใจ’ เพื่อความชัดเจน
-- **Psalms 20:10** — ขอทรงช่วยให้รอด ขอองค์กษัตริย์ทรงตอบเรา
-  - ตามการแบ่งวรรค (athnach) ของ MT: ‘องค์พระผู้เป็นเจ้า ขอทรงช่วย!’ | ‘องค์กษัตริย์ (พระเจ้าผู้ทรงเป็นกษัตริย์) ทรงตอบเรา’. ฉบับ LXX/BSB อ่านว่า ‘ขอทรงช่วยกษัตริย์ (มนุษย์)’ — ฉบับเอเรโมสยึดการอ่านตาม MT
-- **Psalms 22:17** — พวกเขาแทงมือและเท้าของข้าพระองค์
-  - จุดที่มีปัญหาด้านตัวบทที่สำคัญที่สุดในสดุดี. MT ชี้สระเป็น כָּאֲרִי ‘เหมือนสิงโต’ (ไวยากรณ์ไม่สมบูรณ์ ต้องเสริมคำกริยา); ฉบับ LXX/ซีเรียค/วัลเกต และต้นฉบับฮีบรูบางฉบับอ่าน כָּארוּ ‘เขาเจาะ/แทง’. ฉบับเอเรโมสและฉบับแปลสมัยใหม่ส่วนใหญ่ (รวม BSB/ESV/NIV) ยึด ‘แทง’ ในเนื้อหาหลัก และระ
-- **Psalms 24:6** — ผู้ที่แสวงหาพระพักตร์ของพระองค์ ข้าแต่พระเจ้าแห่งยาโคบ
-  - MT มีเพียง ‘ยาโคบ’ (יַעֲקֹב); ฉบับ LXX/ซีเรียค และฉบับแปลส่วนใหญ่ (รวม BSB) เสริม ‘พระเจ้าแห่ง’ → ‘พระเจ้าแห่งยาโคบ’ ซึ่งเป็นการอ่านที่สมเหตุสมผล (ไม่ใช่การแสวงหาพระพักตร์ของยาโคบ แต่ของพระเจ้าผู้เป็นพระเจ้าของยาโคบ)
-- **Psalms 25:14** — องค์พระผู้เป็นเจ้าทรงเป็นมิตรสนิท
-  - סוֹד = ‘การปรึกษาลับ/มิตรภาพอันสนิทสนม’ — สื่อว่าพระเจ้าทรงไว้วางใจและเปิดเผยพระทัยแก่ผู้ยำเกรงพระองค์ (เทียบ BSB ‘confides in’)
-- **Psalms 28:8** — ผู้ที่พระองค์ทรงเจิมไว้
-  - מָשִׁיחַ (ผู้ถูกเจิม) ในที่นี้หมายถึงกษัตริย์ที่พระเจ้าทรงเจิม — แปลตามความหมายพื้นผิวใน OT; นัยถึงพระเมสสิยาห์อธิบายในเชิงอรรถ (เทียบ สดุดี 20:7; ดาเนียล 9:25-26)
-- **Psalms 29:9** — กวางตัวเมีย
-  - MT ชี้สระเป็น אַיָּלוֹת ‘กวางตัวเมีย’ (พระสุรเสียงทำให้กวางตกใจคลอดลูกก่อนกำหนด); ฉบับ BSB/บางฉบับอ่าน אֵילוֹת ‘ต้นโอ๊ก’ (เข้าคู่กับ ‘ป่า’) — ฉบับเอเรโมสยึดการชี้สระตาม MT
+> (1) faithful unsoftened rendering; (2) vengeance entrusted to God, not self-executed (Deut 32:35 / Rom 12:19); (3) lex talionis / God's righteous judgment; (4) NT trajectory — Christ's call to love enemies (Matt 5:44) + the spiritual-warfare / eschatological-judgment reading (Eph 6:17, Heb 4:12, Rev 19:15).
 
+Example (Ps 137:9 footnote, abridged): *"…ฉบับเอเรโมสแปลตามต้นฉบับภาษาฮีบรูอย่างซื่อตรง ไม่ตัดทอน… ผู้ประพันธ์มอบการแก้แค้นไว้กับพระเจ้า ไม่ลงมือเอง… ในพระคริสต์ ผู้เชื่อได้รับการทรงเรียกให้รักศัตรู (มธ 5:44)…"*
 
-## Item C — Locked-term / convention applications (verify uniformity)
+**Question:** Is the four-part pastoral-footnote frame the right corpus-level approach for the imprecatory psalms (faithful text + theological/NT framing in the footnote), and is the Thai framing pastorally and theologically sound for a Thai Buddhist-background readership?
 
+## Item C — Ps 145:13 missing-נun verse (MT vs. 11QPsaᵃ/LXX/Syriac)
 
-Renderings the translator marked as locked/by-convention. Confirm they match the project glossary and are used consistently here and against the rest of the corpus:
+Ps 145 is an alphabetic acrostic, but the MT **omits the נun verse** (jumps מ at v13 → ס at v14). 11QPsaᵃ (Dead Sea Scrolls Hebrew), the LXX, and the Syriac all carry it, and most modern translations supply it. The Eremos rendering keeps the **MT as base** (v13 = the מ-line only) and places the נun line in a Tier-2 footnote, quoting it:
 
-- **Psalms 1:2** — องค์พระผู้เป็นเจ้า
-- **Psalms 3:3** — เซลาห์
+> נֶאֱמָן יְהוָה בְּכָל־דְּבָרָיו וְחָסִיד בְּכָל־מַעֲשָׂיו → "องค์พระผู้เป็นเจ้าทรงสัตย์ซื่อในพระวจนะทั้งสิ้นของพระองค์ และทรงเปี่ยมด้วยความรักในพระราชกิจทั้งปวงของพระองค์"
 
+`bsb_english` for v13 was truncated to the מ-line to match the MT-based Thai (the supplied line lives only in the footnote).
 
-## Item D — Hardest interpretive cruxes (evaluate the calls)
+**Question:** For an acrostic whose structure *requires* the נun line and where Hebrew manuscript evidence (11QPsaᵃ) supplies it, is MT-base-with-footnote the right call, or should the נun line be promoted into the verse text (as a v13b) with the footnote explaining the MT omission?
 
+## Item D — `הַלְלוּ־יָהּ` → ฮาเลลูยาห์ (transliterate vs. translate)
 
-The key-decisions with the most reasoning attached — i.e. the book's hardest judgment calls. Evaluate whether each rendering is defensible from the source text:
+The frozen liturgical frame `הַלְלוּ־יָהּ` opening/closing the Hallel psalms (104, 105, 106, 111–113, 115–117, 135, 146–150) is **transliterated** to ฮาเลลูยาห์ (like เซลาห์), while mid-clause `הַלְלוּ יָהּ` ("praise YAH", e.g. 135:3) is **translated** as จงสรรเสริญองค์พระผู้เป็นเจ้า.
 
-- **Psalms 22:17** — พวกเขาแทงมือและเท้าของข้าพระองค์
-  - จุดที่มีปัญหาด้านตัวบทที่สำคัญที่สุดในสดุดี. MT ชี้สระเป็น כָּאֲרִי ‘เหมือนสิงโต’ (ไวยากรณ์ไม่สมบูรณ์ ต้องเสริมคำกริยา); ฉบับ LXX/ซีเรียค/วัลเกต และต้นฉบับฮีบรูบางฉบับอ่าน כָּארוּ ‘เขาเจาะ/แทง’. ฉบับเอเรโมสและฉบับแปลสมัยใหม่ส่วนใหญ่ (รวม BSB/ESV/NIV) ยึด ‘แทง’ ในเนื้อหาหลัก และระบุการอ่าน MT ‘เหมือนสิงโต’ ในเชิงอรรถ
-- **Psalms 19:8** — ธรรมบัญญัติ … พระโอวาท
-  - คำเรียกพระวจนะของพระเจ้าหลายคำในข้อ 8-10 — ฉบับเอเรโมสล็อกการแปลให้ต่างกันและคงเส้นคงวา (เตรียมสำหรับ สดด 119). รูปรากศัพท์ (lemma): תּוֹרָה=ธรรมบัญญัติ, עֵדוּת=พระโอวาท, פִּקּוּדִים=ข้อบังคับ, מִצְוָה=พระบัญญัติ, יִרְאָה=ความยำเกรง, מִשְׁפָּטִים=ข้อตัดสิน
-- **Psalms 24:6** — ผู้ที่แสวงหาพระพักตร์ของพระองค์ ข้าแต่พระเจ้าแห่งยาโคบ
-  - MT มีเพียง ‘ยาโคบ’ (יַעֲקֹב); ฉบับ LXX/ซีเรียค และฉบับแปลส่วนใหญ่ (รวม BSB) เสริม ‘พระเจ้าแห่ง’ → ‘พระเจ้าแห่งยาโคบ’ ซึ่งเป็นการอ่านที่สมเหตุสมผล (ไม่ใช่การแสวงหาพระพักตร์ของยาโคบ แต่ของพระเจ้าผู้เป็นพระเจ้าของยาโคบ)
-- **Psalms 20:8** — เราจะระลึกถึง (พระนาม)
-  - נַזְכִּיר (ราก זכר, รูป hiphil) = ‘เราจะกล่าวถึง/ระลึกถึง/ร้องออกพระนาม’ — MT เน้นการร้องออกพระนามของพระเจ้าเป็นที่พึ่ง (ต่างจาก BSB ‘trust’); คำกริยาฝ่ายศัตรู (รถรบ/ม้า) ถูกละไว้ จึงเสริม ‘ไว้วางใจ’ เพื่อความชัดเจน
-- **Psalms 2:7** — ข้าพเจ้าจะประกาศ … ตรัสกับข้าพเจ้า
-  - เปลี่ยนผู้พูดเป็นกษัตริย์ (สดด 2:7 uW); กษัตริย์พูดกับ/เกี่ยวกับองค์พระผู้เป็นเจ้าในท่าทีนอบน้อม → ‘ข้าพเจ้า’ (เทียบคำอธิษฐานของซาโลมอน 1พกษ 8 ใน ot_register_policy §2.2); ส่วนพระดำรัสที่ทรงอ้างใช้ ‘เรา’ (เทวสภาพ)
-- **Psalms 16:10** — ผู้จงรักภักดีของพระองค์ … เห็นหลุมมรณา
-  - שַׁחַת ‘หลุม/หลุมมรณา’ (MT); ฉบับ LXX และ กิจการ 2:27, 13:35 อ่านว่า ‘ความเน่าเปื่อย’ — เราคงตาม MT และบันทึกไว้; חָסִיד ‘ผู้จงรักภักดี’ ซึ่งพันธสัญญาใหม่อ่านว่าหมายถึง ‘องค์บริสุทธิ์’ คือพระคริสต์ (ดูหมายเหตุ)
-- **Psalms 8:5** — มนุษย์เป็นใครเล่า … บุตรแห่งมนุษย์
-  - אֱנוֹשׁ ‘มนุษย์ (ผู้อ่อนแอ)’; בֶּן־אָדָם ที่นี่เป็นสำนวนหมายถึงมนุษย์ทั่วไป → ‘บุตรแห่งมนุษย์’ (ตาม son_of_man_disambiguation — สำนวนมนุษย์ มิใช่พระนามพระเมสสิยาห์); ฮีบรู 2:6 อ้างถึงพระคริสต์ (ดูหมายเหตุ)
-- **Psalms 2:12** — จงจุมพิตบุตรนั้น
-  - בַר (ภาษาอาราเมอิก ‘บุตร’, เทียบ בֵּן ‘บุตร’ ในข้อ 7; บางฉบับอ่านว่า ‘ความบริสุทธิ์’ — เป็นจุดยากในเชิงข้อความ); ‘จุมพิต’ = ท่าทีแสดงความจงรักภักดี/ยอมจำนนต่อกษัตริย์; การอ่านเชิงพระคริสต์อยู่ในหมายเหตุ
-
-
-## Item E — Open corpus-level read
-
-
-Beyond the items above: read for naturalness in modern Thai, theological accuracy (evangelical-Protestant), and any cross-cutting inconsistency the per-chapter automated checks would miss. Don't manufacture flags — only raise what you actually see.
+**Question:** Is transliterating the framing `הַלְלוּ־יָהּ` as ฮาเลลูยาห์ (a form Thai Christians may recognize liturgically) the right choice, versus translating it as จงสรรเสริญองค์พระผู้เป็นเจ้า throughout for a readership without that liturgical background?
 
 ---
 

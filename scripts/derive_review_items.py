@@ -163,10 +163,16 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("book")
     ap.add_argument("--out")
+    ap.add_argument("--force", action="store_true",
+                    help="overwrite an existing items file (default: REFUSE — hand-curated items must never be clobbered)")
     a = ap.parse_args()
-    text = derive(a.book.upper())
     slug = SLUG[a.book.upper()]
     out = Path(a.out) if a.out else (DOCS / "end_of_book" / slug / f"external_review_items_{a.book.upper()}.md")
+    if out.exists() and not a.force:
+        sys.exit(f"REFUSING to overwrite existing {out.relative_to(ROOT)} — it may be hand-curated "
+                 f"(from an end-of-book audit). Auto-derived items are a FALLBACK only. Pass --force "
+                 f"if you truly mean to replace it.")
+    text = derive(a.book.upper())
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text(text)
     print(f"Wrote {out.relative_to(ROOT)}  ({len(text):,} chars)")
