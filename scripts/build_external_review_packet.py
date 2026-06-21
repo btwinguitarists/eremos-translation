@@ -90,16 +90,22 @@ BOOKS = {
     "DAN": ("daniel", "Daniel"),
     "JOB": ("job", "Job"),
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/end-of-book-review-songofsongs-audit
     "PSA": ("psalms", "Psalms"),
     "PRO": ("proverbs", "Proverbs"),
     "ECC": ("ecclesiastes", "Ecclesiastes"),
     "SNG": ("songofsongs", "Song of Songs"),
+<<<<<<< HEAD
     "ISA": ("isaiah", "Isaiah"),
     "JER": ("jeremiah", "Jeremiah"),
     "LAM": ("lamentations", "Lamentations"),
 =======
     "ECC": ("ecclesiastes", "Ecclesiastes"),
 >>>>>>> origin/end-of-book-review-ecclesiastes-audit
+=======
+>>>>>>> origin/end-of-book-review-songofsongs-audit
 }
 
 # OT book codes — the prompt branches on testament so OT packets reference
