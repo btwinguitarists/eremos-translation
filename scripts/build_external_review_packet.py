@@ -92,6 +92,7 @@ BOOKS = {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> origin/end-of-book-review-songofsongs-audit
 =======
@@ -113,6 +114,9 @@ BOOKS = {
 =======
     "LAM": ("lamentations", "Lamentations"),
 >>>>>>> origin/end-of-book-review-lamentations-audit
+=======
+    "ISA": ("isaiah", "Isaiah"),
+>>>>>>> origin/end-of-book-review-isaiah-audit
 }
 
 # OT book codes — the prompt branches on testament so OT packets reference
