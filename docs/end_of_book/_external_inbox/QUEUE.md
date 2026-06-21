@@ -5,46 +5,46 @@ _Re-run that script to refresh after responses land._
 
 **7 books pending** (oldest debt first). Work top to bottom.
 
-For each book: open the packet URL, copy the **whole** document, paste into Gemini and ChatGPT, then commit the combined replies to `docs/end_of_book/_external_inbox/<CODE>_raw.md`. Full steps: `docs/COWORK_EXTERNAL_REVIEW_INSTRUCTIONS.md`.
+For each book: open the packet URL, copy the **whole** document, paste into Gemini and Grok (ChatGPT optional), then commit the combined replies to `docs/end_of_book/_external_inbox/<CODE>_raw.md`. Paste-ready Cowork directive: `docs/end_of_book/_external_inbox/COWORK_PASTE.md`. Full steps: `docs/COWORK_EXTERNAL_REVIEW_INSTRUCTIONS.md`.
 
 ### 1. Ecclesiastes  (`ECC`)  — packet 2026-06-21
 - **Copy this:** https://raw.githubusercontent.com/btwinguitarists/eremos-translation/main/docs/end_of_book/ecclesiastes/external_review_packet_ECC_2026-06-21.md
 - (human-readable view: https://github.com/btwinguitarists/eremos-translation/blob/main/docs/end_of_book/ecclesiastes/external_review_packet_ECC_2026-06-21.md)
 - **Save replies to:** `docs/end_of_book/_external_inbox/ECC_raw.md`
-- [ ] Gemini done   - [ ] ChatGPT done   - [ ] committed
+- [ ] Gemini done   - [ ] Grok done   - [ ] committed
 
 ### 2. Isaiah  (`ISA`)  — packet 2026-06-21
 - **Copy this:** https://raw.githubusercontent.com/btwinguitarists/eremos-translation/main/docs/end_of_book/isaiah/external_review_packet_ISA_2026-06-21.md
 - (human-readable view: https://github.com/btwinguitarists/eremos-translation/blob/main/docs/end_of_book/isaiah/external_review_packet_ISA_2026-06-21.md)
 - **Save replies to:** `docs/end_of_book/_external_inbox/ISA_raw.md`
-- [ ] Gemini done   - [ ] ChatGPT done   - [ ] committed
+- [ ] Gemini done   - [ ] Grok done   - [ ] committed
 
 ### 3. Jeremiah  (`JER`)  — packet 2026-06-21
 - **Copy this:** https://raw.githubusercontent.com/btwinguitarists/eremos-translation/main/docs/end_of_book/jeremiah/external_review_packet_JER_2026-06-21.md
 - (human-readable view: https://github.com/btwinguitarists/eremos-translation/blob/main/docs/end_of_book/jeremiah/external_review_packet_JER_2026-06-21.md)
 - **Save replies to:** `docs/end_of_book/_external_inbox/JER_raw.md`
-- [ ] Gemini done   - [ ] ChatGPT done   - [ ] committed
+- [ ] Gemini done   - [ ] Grok done   - [ ] committed
 
 ### 4. Lamentations  (`LAM`)  — packet 2026-06-21
 - **Copy this:** https://raw.githubusercontent.com/btwinguitarists/eremos-translation/main/docs/end_of_book/lamentations/external_review_packet_LAM_2026-06-21.md
 - (human-readable view: https://github.com/btwinguitarists/eremos-translation/blob/main/docs/end_of_book/lamentations/external_review_packet_LAM_2026-06-21.md)
 - **Save replies to:** `docs/end_of_book/_external_inbox/LAM_raw.md`
-- [ ] Gemini done   - [ ] ChatGPT done   - [ ] committed
+- [ ] Gemini done   - [ ] Grok done   - [ ] committed
 
 ### 5. Proverbs  (`PRO`)  — packet 2026-06-21
 - **Copy this:** https://raw.githubusercontent.com/btwinguitarists/eremos-translation/main/docs/end_of_book/proverbs/external_review_packet_PRO_2026-06-21.md
 - (human-readable view: https://github.com/btwinguitarists/eremos-translation/blob/main/docs/end_of_book/proverbs/external_review_packet_PRO_2026-06-21.md)
 - **Save replies to:** `docs/end_of_book/_external_inbox/PRO_raw.md`
-- [ ] Gemini done   - [ ] ChatGPT done   - [ ] committed
+- [ ] Gemini done   - [ ] Grok done   - [ ] committed
 
 ### 6. Psalms  (`PSA`)  — packet 2026-06-21
 - **Copy this:** https://raw.githubusercontent.com/btwinguitarists/eremos-translation/main/docs/end_of_book/psalms/external_review_packet_PSA_2026-06-21.md
 - (human-readable view: https://github.com/btwinguitarists/eremos-translation/blob/main/docs/end_of_book/psalms/external_review_packet_PSA_2026-06-21.md)
 - **Save replies to:** `docs/end_of_book/_external_inbox/PSA_raw.md`
-- [ ] Gemini done   - [ ] ChatGPT done   - [ ] committed
+- [ ] Gemini done   - [ ] Grok done   - [ ] committed
 
 ### 7. Songofsongs  (`SNG`)  — packet 2026-06-21
 - **Copy this:** https://raw.githubusercontent.com/btwinguitarists/eremos-translation/main/docs/end_of_book/songofsongs/external_review_packet_SNG_2026-06-21.md
 - (human-readable view: https://github.com/btwinguitarists/eremos-translation/blob/main/docs/end_of_book/songofsongs/external_review_packet_SNG_2026-06-21.md)
 - **Save replies to:** `docs/end_of_book/_external_inbox/SNG_raw.md`
-- [ ] Gemini done   - [ ] ChatGPT done   - [ ] committed
+- [ ] Gemini done   - [ ] Grok done   - [ ] committed

@@ -82,8 +82,9 @@ def write_queue(pending):
         f"**{len(pending)} books pending** (oldest debt first). Work top to bottom.",
         "",
         "For each book: open the packet URL, copy the **whole** document, paste into "
-        "Gemini and ChatGPT, then commit the combined replies to "
+        "Gemini and Grok (ChatGPT optional), then commit the combined replies to "
         "`docs/end_of_book/_external_inbox/<CODE>_raw.md`. "
+        "Paste-ready Cowork directive: `docs/end_of_book/_external_inbox/COWORK_PASTE.md`. "
         "Full steps: `docs/COWORK_EXTERNAL_REVIEW_INSTRUCTIONS.md`.",
         "",
     ]
@@ -94,7 +95,7 @@ def write_queue(pending):
             f"- **Copy this:** {RAW_BASE}/{r['relpath']}",
             f"- (human-readable view: {BLOB_BASE}/{r['relpath']})",
             f"- **Save replies to:** `docs/end_of_book/_external_inbox/{r['code']}_raw.md`",
-            "- [ ] Gemini done   - [ ] ChatGPT done   - [ ] committed",
+            "- [ ] Gemini done   - [ ] Grok done   - [ ] committed",
             "",
         ]
     QUEUE.write_text("\n".join(lines))
