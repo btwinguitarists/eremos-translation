@@ -81,12 +81,16 @@ BOOK_SLUGS = {
     "EST": "esther",
     "DAN": "daniel",
     "JOB": "job",
+<<<<<<< HEAD
     "PSA": "psalms",
     "PRO": "proverbs",
     "ECC": "ecclesiastes",
     "SNG": "songofsongs",
     "LAM": "lamentations",
     "ISA": "isaiah",
+=======
+    "ECC": "ecclesiastes",
+>>>>>>> origin/end-of-book-review-ecclesiastes-audit
 }
 
 TODO_TH = "__TODO_TH__"

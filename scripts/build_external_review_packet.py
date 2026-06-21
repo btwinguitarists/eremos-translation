@@ -89,6 +89,7 @@ BOOKS = {
     "EST": ("esther", "Esther"),
     "DAN": ("daniel", "Daniel"),
     "JOB": ("job", "Job"),
+<<<<<<< HEAD
     "PSA": ("psalms", "Psalms"),
     "PRO": ("proverbs", "Proverbs"),
     "ECC": ("ecclesiastes", "Ecclesiastes"),
@@ -96,6 +97,9 @@ BOOKS = {
     "ISA": ("isaiah", "Isaiah"),
     "JER": ("jeremiah", "Jeremiah"),
     "LAM": ("lamentations", "Lamentations"),
+=======
+    "ECC": ("ecclesiastes", "Ecclesiastes"),
+>>>>>>> origin/end-of-book-review-ecclesiastes-audit
 }
 
 # OT book codes — the prompt branches on testament so OT packets reference
