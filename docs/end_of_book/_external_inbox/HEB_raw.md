@@ -123,3 +123,53 @@ Do not use เครื่องลบล้างบาป as the default becau
 §Z: Anything else?
 
 No additional corpus-level concern beyond Item D.
+
+
+## GROK
+
+_(Grok pass added 2026-06-21 via Cowork; Gemini + ChatGPT sections above are the original 2026-05-28 replies, untouched.)_
+
+**## Item A: HEB 1:8 ὁ θεός vocative to Christ**
+
+**Verdict:** FINE
+**Reasoning:** The vocative reading ("O God," addressed to the Son) is the standard and contextually strongest interpretation in evangelical scholarship. The introductory "But to the Son he says" (πρὸς δὲ τὸν υἱόν) strongly favors direct address, and nominative-as-vocative is well-attested for θεός in the NT (including other divine addresses). The "God is your throne" alternative is grammatically strained and theologically forced; it undermines the author's high Christology in the catena (vv. 5-13). The paired v.9 ("God, your God") fittingly reflects intra-Trinitarian relations without contradiction. The Thai **ข้าแต่พระเจ้า** faithfully conveys this.
+
+**Recommended action:** Lock as-is. No footer-note naming the minority/JW alternative, per project evangelical-Protestant alignment and RULES §0. It would dilute the verse's force for Thai readers.
+
+**## Item B: HEB 6:4-6 apostasy passage**
+
+**Verdict:** FINE
+**Reasoning:** Deliberate ambiguity is the right call for a faithful translation. The Greek descriptions (enlightened, tasted, partakers, etc.) are strong but the "impossible... if they fall away" structure allows the three major evangelical streams (true believers who apostatize with no return; non-genuine professors; rhetorical warning) without forcing one. The "again" (ἀνα-) force in ἀνασταυροῦντας is supported by major translations (NIV/ESV/BSB) and fits the participatory imagery of re-enacting the crucifixion shamefully. Hapax renderings like **หลงทางไป**, **ตรึง...ซ้ำอีก**, and **ประจาน** are clear and preserve weight.
+
+**Recommended action:** Lock as-is (including "again"). No explicit footer committing to one stream—preserve ambiguity while letting Thai preachers/teachers apply within evangelical bounds. Document the policy if not already.
+
+**## Item C: HEB 10:5 LXX σῶμα vs MT**
+
+**Verdict:** FINE
+**Reasoning:** The project correctly prioritizes the NT author's citation of the LXX form (SBLGNT source), which is essential to the incarnation/sacrifice argument (body prepared for obedient offering, vv. 5-10). This is standard practice in evangelical translations. The LXX divergence is real (possibly interpretive expansion or variant Hebrew Vorlage) but the author deploys σῶμα theologically. **พระกาย** (honorific) is appropriate for Christ's body.
+
+**Recommended action:** Confirm LXX-citation priority as corpus default for all NT OT citations. No routine footer-notes on MT divergences here (avoids slippery slope); a brief general textual note in an appendix or intro suffices if needed for academically-engaged readers. Lock **พระกาย**.
+
+**## Item D: HEB 4:12 ψυχή / πνεῦμα**
+
+**Verdict:** FINE (with documentation)
+**Reasoning:** The doublet in 4:12 (Word piercing to divide **จิตวิญญาณและวิญญาณ**) and the 1Th 5:23 trichotomy are rhetorically/poetically heightened contexts where slight overlap or contextual nuance in Thai terms is defensible and traditional. The locked rule (ψυχή often จิตวิญญาณ; anthropological πνεῦμα as จิต) holds elsewhere; these are principled exceptions emphasizing comprehensive inner discernment (4:12) and holistic sanctification (1Th). Minor divergence between the two verses is tolerable given different rhetorical needs.
+
+**Recommended action:** Amend the `psyche_vs_pneuma_anthropological_2026-04.md` doc with short sub-sections for both verses, explicitly noting them as context-dependent exceptions. No verse revisions needed—established renderings are strong.
+
+**## Item E: HEB 12:14 ἁγιασμός**
+
+**Verdict:** FINE (context-dependent)
+**Reasoning:** Thai lacks a crisp process/state lexical split in the บริสุทธิ์ family, and forcing **การชำระให้บริสุทธิ์** everywhere risks artificiality. **ความบริสุทธิ์** works well here for the "without which no one will see the Lord" state/result emphasis (pursuit leading to eschatological holiness). Collapsing with ἁγιότης (12:10) is minor given semantic overlap in context. The aspectual distinction is real in Greek but not always lexically pressed in translation.
+
+**Recommended action:** Revise the proposed `hagiasmos_hagiosune_2026-04.md` to document **ความบริสุทธิ์** (state/result, common) and **การชำระให้บริสุทธิ์** (process) as both acceptable with verse-level rationale. No revision to HEB 12:14. Lock flexibility.
+
+**## Item F: Forward Romans 3:25 ἱλαστήριον**
+
+**Verdict:** FINE (Option B)
+**Reasoning:** HEB 9:5 uses the clear mercy-seat sense (**พระที่นั่งกรุณา**). Romans 3:25 deploys the term cultically for Christ's blood-sacrifice role (propitiation/atoning sacrifice), the dominant evangelical understanding matching THSV/NTV and mainstream Thai expectation. Lexical linkage is nice but not required—the Pauline instrumental sense (through faith in his blood) differs from the OT furniture. Option B best balances fidelity, theology, and reader continuity.
+
+**Recommended action:** Explicitly lock Option B **เครื่องบูชาไถ่บาป** (or close equivalent) for Romans 3:25 in project docs. Intentional loss of lexical link with HEB 9:5 is acceptable.
+
+**§Z: Anything else?**
+No additional corpus-level concerns. The Hebrews rendering aligns well with the locked decisions and SBLGNT evangelical philosophy. Per-chapter checks passing + these targeted items give strong confidence for shipping. Solid work—proceed.
