@@ -96,6 +96,7 @@ BOOK_SLUGS = {
 <<<<<<< HEAD
     "LAM": "lamentations",
     "ISA": "isaiah",
+<<<<<<< HEAD
 =======
     "ECC": "ecclesiastes",
 >>>>>>> origin/end-of-book-review-ecclesiastes-audit
@@ -104,6 +105,9 @@ BOOK_SLUGS = {
 =======
     "LAM": "lamentations",
 >>>>>>> origin/end-of-book-review-lamentations-audit
+=======
+    "JER": "jeremiah",
+>>>>>>> origin/end-of-book-review-jeremiah-audit
 }
 
 TODO_TH = "__TODO_TH__"
