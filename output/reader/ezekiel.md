@@ -1,6 +1,6 @@
 # เอเสเคียล
 
-_Ezekiel — 14 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
+_Ezekiel — 15 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
 
 _This reader edition shows the Thai translation and the contextual summary (บริบท) where one is provided. The contextual summaries are AI-generated editorial commentary, not part of the biblical text. For a plain verses-only edition (recommended for scholarly review), see `output/plain/ezekiel.md`. For the underlying Greek, English (BSB) reference, and translator decisions per verse, see the per-chapter review reports at `output/check_reports/ezekiel_NN_review.md` or the source JSON at `output/translations/`._
 
@@ -918,6 +918,37 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 ---
 
+## บทที่ 15
+
+**1** พระวจนะขององค์พระผู้เป็นเจ้ามาถึงข้าพเจ้าว่า
+
+**2** “บุตรแห่งมนุษย์เอ๋ย ไม้เถาองุ่นดีเด่นกว่าไม้อื่นใด คือกิ่งไม้ที่อยู่ท่ามกลางต้นไม้ในป่าอย่างไรหรือ
+
+> _บริบท: เถาองุ่นมักเป็นภาพแทนอิสราเอลที่พระเจ้าทรงปลูก (เทียบ สดุดี 80; อิสยาห์ 5) แต่บทนี้ชี้ว่าคุณค่าของเถาองุ่นอยู่ที่ ‘ผล’ เท่านั้น ส่วน ‘เนื้อไม้’ ขององุ่นนั้นไร้ค่า ใช้ทำอะไรไม่ได้เลยนอกจากเป็นฟืน_
+
+**3** จะเอาไม้จากมันไปทำสิ่งที่ใช้การได้หรือ หรือจะเอาไปทำเป็นหมุดสำหรับแขวนภาชนะได้หรือ
+
+**4** ดูเถิด มันถูกโยนเข้าไฟเป็นเชื้อเพลิง ไฟก็เผาผลาญทั้งสองปลาย และตรงกลางก็ไหม้เกรียม มันจะใช้การได้หรือ
+
+**5** ดูเถิด แม้เมื่อยังอยู่ครบบริบูรณ์ มันก็ทำให้ใช้การไม่ได้อยู่แล้ว ยิ่งเมื่อไฟเผาผลาญจนไหม้เกรียมแล้ว จะใช้การได้น้อยยิ่งกว่านั้นสักเท่าใด
+
+**6** เพราะฉะนั้น องค์พระผู้เป็นเจ้าตรัสดังนี้ว่า ‘เหมือนไม้เถาองุ่นท่ามกลางต้นไม้ในป่า ซึ่งเราได้มอบให้เป็นเชื้อเพลิงแก่ไฟ เราก็จะมอบชาวกรุงเยรูซาเล็มเช่นนั้น
+
+**7** เราจะหันหน้าของเราเข้าต่อสู้พวกเขา แม้พวกเขาจะหนีรอดจากไฟไปได้ ไฟก็ยังจะเผาผลาญพวกเขา และเมื่อเราหันหน้าของเราเข้าต่อสู้พวกเขา เจ้าทั้งหลายจะรู้ว่าเราคือองค์พระผู้เป็นเจ้า
+
+**8** เราจะทำให้แผ่นดินนั้นเป็นที่ร้างเปล่า เพราะพวกเขาได้ทรยศ องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้’”
+
+---
+
+### หมายเหตุด้านต้นฉบับ
+
+**ข้อ 1** — หมายเหตุการแปลพระนามของพระเจ้า
+
+_**องค์พระผู้เป็นเจ้า** ในบทนี้ (ปรากฏครั้งแรกที่ข้อ 1) แปลจากภาษาฮีบรู יהוה (พระนามเฉพาะของพระเจ้า ออกเสียงโดยทั่วไปว่า ‘ยาห์เวห์’). ฉบับเอเรโมสใช้ **องค์พระผู้เป็นเจ้า** ตามแบบแผนของฉบับพันธสัญญาใหม่ในการแปล κύριος ซึ่งตรงกับ יהוה. รูปประสม אֲדֹנָי יְהוִה (ข้อ 6, 8) และวลี ‘เราคือองค์พระผู้เป็นเจ้า’ (אֲנִי יְהוָה — ข้อ 7) ก็แปลในแนวเดียวกัน. ดูรายละเอียดเพิ่มเติมที่ docs/translator_decisions/divine_names_table_2026-05.md._
+
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -938,4 +969,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/ezekiel_12.json` | `a1a29f18695d32a778e421d5be465d1566059e7459c6d90f6534559c0b5434b4` |
 | `output/translations/ezekiel_13.json` | `338f0b0cbb70547cd6cef40ca32df0051a8432c2981711c631266b35622f5c24` |
 | `output/translations/ezekiel_14.json` | `ba9eb610b39f095a6a18e08b9cb814d4a6936689a12b13fc4bbc898bab9b5532` |
+| `output/translations/ezekiel_15.json` | `0cfaa6030b0e1dc739f940d93e9a59452839e530a33d22fc46ff656fc7c973a0` |
 
