@@ -1,0 +1,675 @@
+[
+  {
+    "reference": "Ezekiel 1:1",
+    "chapter": 1,
+    "verse": 1,
+    "language": "hebrew",
+    "hebrew": "וַיְהִ֣י׀בִּשְׁלֹשִׁ֣ים שָׁנָ֗ה בָּֽרְבִיעִי֙ בַּחֲמִשָּׁ֣ה לַחֹ֔דֶשׁ וַאֲנִ֥י בְתֽוֹךְ־הַגּוֹלָ֖ה עַל־נְהַר־כְּבָ֑ר נִפְתְּחוּ֙ הַשָּׁמַ֔יִם וָאֶרְאֶ֖ה מַרְא֥וֹת אֱלֹהִֽים׃",
+    "bsb_english": "In the thirtieth year, on the fifth day of the fourth month, while I was among the exiles by the River Kebar, the heavens opened and I saw visions of God.",
+    "translation": {
+      "thai": "ในปีที่สามสิบ เดือนที่สี่ วันที่ห้าของเดือนนั้น ขณะที่ข้าพเจ้าอยู่ท่ามกลางเหล่าเชลยริมแม่น้ำเคบาร์ ฟ้าสวรรค์ก็เปิดออก และข้าพเจ้าได้เห็นนิมิตต่าง ๆ จากพระเจ้า",
+      "thai_literal": null,
+      "thai_summary": "หนังสือเอเสเคียลเปิดฉากด้วยวันเวลาที่ชัดเจน (ราวเดือนกรกฎาคม 593 ปีก่อนคริสตกาล) ท่ามกลางเชลยชาวยิวที่ถูกกวาดไปบาบิโลน — ‘ปีที่สามสิบ’ หลายคนเข้าใจว่าเป็นอายุของเอเสเคียลเอง ซึ่งเป็นวัยที่ปุโรหิตเริ่มปฏิบัติงาน แต่แทนที่จะได้รับใช้ในพระวิหาร เขากลับเห็นพระเจ้าเสด็จมาหาเขาถึงแดนเนรเทศ",
+      "key_decisions": [
+        {
+          "hebrew": "בְתוֹךְ־הַגּוֹלָה עַל־נְהַר־כְּבָר",
+          "rendering": "ท่ามกลางเหล่าเชลยริมแม่น้ำเคบาร์",
+          "rationale": "haggôlâ ‘the exile/exiles (community)’ → เหล่าเชลย; nəhar-kəvār the Kebar canal in Babylonia → แม่น้ำเคบาร์ (THSV11 baseline; first occurrence in the corpus). The setting is foreign soil — the priest is far from the temple."
+        },
+        {
+          "hebrew": "וָאֶרְאֶה מַרְאוֹת אֱלֹהִים",
+          "rendering": "ข้าพเจ้าได้เห็นนิมิตต่าง ๆ จากพระเจ้า",
+          "rationale": "marʾôt ʾĕlōhîm ‘visions of God’ → นิมิตจากพระเจ้า (the genitive read as source/origin, not merely subject-matter): God-given visions. First-person ข้าพเจ้า for the prophet's own account, matching the call-narrative voice (cf. Isa 6, Jer 1)."
+        }
+      ],
+      "notes": "‘In the thirtieth year’ (בִּשְׁלֹשִׁים שָׁנָה) is famously unexplained; v.2 supplies the fixed datum (5th year of Jehoiachin's exile = 593 BC). The opening first-person (‘I’) shifts to third-person in vv.2–3 (the editorial superscription) and back to first-person in v.4 — preserved as in MT."
+    }
+  },
+  {
+    "reference": "Ezekiel 1:2",
+    "chapter": 1,
+    "verse": 2,
+    "language": "hebrew",
+    "hebrew": "בַּחֲמִשָּׁ֖ה לַחֹ֑דֶשׁ הִ֚יא הַשָּׁנָ֣ה הַחֲמִישִׁ֔ית לְגָל֖וּת הַמֶּ֥לֶךְ יוֹיָכִֽין׃",
+    "bsb_english": "On the fifth day of the month—it was the fifth year of the exile of King Jehoiachin—",
+    "translation": {
+      "thai": "วันที่ห้าของเดือนนั้น เป็นปีที่ห้าแห่งการตกเป็นเชลยของกษัตริย์เยโฮยาคีน",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "לְגָלוּת הַמֶּלֶךְ יוֹיָכִין",
+          "rendering": "การตกเป็นเชลยของกษัตริย์เยโฮยาคีน",
+          "rationale": "gālût ‘exile/captivity’ → การตกเป็นเชลย; yôyākîn (short form of yəhôyākîn) → เยโฮยาคีน per THSV11 baseline (the king deported in 597 BC, matching the form shipped at JER 52). A temporal anchor only — no verb to mark, so no Rachasap applies to the king here."
+        }
+      ],
+      "notes": "Jehoiachin (deported 597 BC); his 5th exile-year = 593 BC, dating the vision precisely. yôyākîn flagged hapax by the extractor only because this spelling-variant of the name occurs once."
+    }
+  },
+  {
+    "reference": "Ezekiel 1:3",
+    "chapter": 1,
+    "verse": 3,
+    "language": "hebrew",
+    "hebrew": "הָיֹ֣ה הָיָ֣ה דְבַר־יְ֠הוָה אֶל־יְחֶזְקֵ֨אל בֶּן־בּוּזִ֧י הַכֹּהֵ֛ן בְּאֶ֥רֶץ כַּשְׂדִּ֖ים עַל־נְהַר־כְּבָ֑ר וַתְּהִ֥י עָלָ֛יו שָׁ֖ם יַד־יְהוָֽה׃",
+    "bsb_english": "the word of the LORD came directly to Ezekiel the priest, the son of Buzi, in the land of the Chaldeans by the River Kebar. And there the LORD’s hand was upon him.",
+    "translation": {
+      "thai": "พระวจนะขององค์พระผู้เป็นเจ้ามาถึงเอเสเคียลปุโรหิต บุตรของบูซี ในแผ่นดินของชาวเคลเดียริมแม่น้ำเคบาร์โดยแท้ และพระหัตถ์ขององค์พระผู้เป็นเจ้าก็มาอยู่เหนือท่านที่นั่น",
+      "thai_literal": null,
+      "thai_summary": "‘พระวจนะขององค์พระผู้เป็นเจ้ามาถึง’ คือสำนวนที่เปิดทุกถ้อยคำของผู้เผยพระวจนะ — และ ‘พระหัตถ์ขององค์พระผู้เป็นเจ้าอยู่เหนือท่าน’ หมายถึงฤทธิ์อำนาจของพระเจ้าที่ครอบคลุมและขับเคลื่อนเขา สังเกตว่าเอเสเคียลพูดถึงตนเองเป็นบุรุษที่สาม (‘เหนือท่าน’) ราวกับมองดูตัวเองจากภายนอกในห้วงนิมิต",
+      "key_decisions": [
+        {
+          "hebrew": "הָיֹה הָיָה דְבַר־יְהוָה",
+          "rendering": "พระวจนะขององค์พระผู้เป็นเจ้ามาถึง…โดยแท้",
+          "rationale": "hāyōh hāyâ — the infinitive-absolute + finite verb intensifies (‘came surely/expressly’): rendered with the formula พระวจนะ…มาถึง (locked across Jeremiah) + the emphatic โดยแท้. The word-event idiom kept as มาถึง (arrived to), not a speech verb. Layer 1: יהוה → องค์พระผู้เป็นเจ้า (divine_names_table_2026-05)."
+        },
+        {
+          "hebrew": "וַתְּהִי עָלָיו שָׁם יַד־יְהוָה",
+          "rendering": "พระหัตถ์ขององค์พระผู้เป็นเจ้าก็มาอยู่เหนือท่านที่นั่น",
+          "rationale": "yad-YHWH ‘the hand of YHWH’ → พระหัตถ์ (royal/Rachasap divine body-part per divine_anthropomorphism_2026-05 §2.1). The body-part is itself the grammatical SUBJECT of wattəhî ‘was/came-to-be’, so a PLAIN verb (มาอยู่) is used — NOT ทรง- (per honorifics-binding: ทรง marks God-as-subject, not body-part-as-subject; contrast JER 1:9 where YHWH is subject → ทรงยื่นพระหัตถ์). The power-metonymy noted but the imagery preserved, not abstracted. Layer 1: יהוה → องค์พระผู้เป็นเจ้า."
+        },
+        {
+          "hebrew": "אֶל־יְחֶזְקֵאל בֶּן־בּוּזִי הַכֹּהֵן בְּאֶרֶץ כַּשְׂדִּים",
+          "rendering": "เอเสเคียลปุโรหิต บุตรของบูซี ในแผ่นดินของชาวเคลเดีย",
+          "rationale": "yəḥezqēʾl → เอเสเคียล, bûzî → บูซี (THSV11 baseline); kaśdîm ‘Chaldeans’ → ชาวเคลเดีย per the corpus lock (เคลเดีย ×280). Third-person reference to the prophet (figs-pronouns) preserved from MT."
+        }
+      ],
+      "notes": "First Tetragrammaton of the chapter (v.3) → Layer-2 first-occurrence footnote in output/textual_variants/ezekiel_01.json. The third-person ‘to Ezekiel … upon him’ is the superscription voice (the surrounding vision is first-person)."
+    }
+  },
+  {
+    "reference": "Ezekiel 1:4",
+    "chapter": 1,
+    "verse": 4,
+    "language": "hebrew",
+    "hebrew": "וָאֵ֡רֶא וְהִנֵּה֩ ר֨וּחַ סְעָרָ֜ה בָּאָ֣ה מִן־הַצָּפ֗וֹן עָנָ֤ן גָּדוֹל֙ וְאֵ֣שׁ מִתְלַקַּ֔חַת וְנֹ֥גַֽהּ ל֖וֹ סָבִ֑יב וּמִ֨תּוֹכָ֔הּ כְּעֵ֥ין הַחַשְׁמַ֖ל מִתּ֥וֹךְ הָאֵֽשׁ׃",
+    "bsb_english": "I looked and saw a whirlwind coming from the north, a great cloud with fire flashing back and forth and brilliant light all around it. In the center of the fire was a gleam like amber,",
+    "translation": {
+      "thai": "ข้าพเจ้ามองดู และดูเถิด มีลมพายุพัดมาจากทิศเหนือ เป็นเมฆก้อนใหญ่ มีไฟลุกโชนวูบวาบ และมีแสงสว่างเจิดจ้าอยู่รอบเมฆนั้น จากใจกลางเมฆมีสิ่งที่ดูเหมือนโลหะสุกปลั่งเปล่งประกายออกมาจากท่ามกลางไฟ",
+      "thai_literal": null,
+      "thai_summary": "นิมิตเริ่มด้วยพายุใหญ่พัดมาจาก ‘ทิศเหนือ’ — ทิศที่บาบิโลนใช้ยกทัพเข้าโจมตียูดาห์ แต่สิ่งที่มาจากทิศเหนือกลับเป็นพระสิริของพระเจ้าเอง ไม่ใช่เพียงศัตรู พระองค์ทรงครอบครองเหนือทุกอำนาจ แม้แต่ในแผ่นดินที่ดูเหมือนพระองค์ไม่อยู่",
+      "key_decisions": [
+        {
+          "hebrew": "רוּחַ סְעָרָה בָּאָה מִן־הַצָּפוֹן",
+          "rendering": "ลมพายุพัดมาจากทิศเหนือ",
+          "rationale": "rûaḥ səʿārâ ‘a windstorm’ → ลมพายุ (here rûaḥ = wind, not the animating ‘spirit’ of vv.12,20); ṣāpôn ‘the north’ → ทิศเหนือ, the invasion-direction in the prophets (Jer 1:14) — the theophany comes from the same quarter as judgment."
+        },
+        {
+          "hebrew": "וְאֵשׁ מִתְלַקַּחַת",
+          "rendering": "ไฟลุกโชนวูบวาบ",
+          "rationale": "mitlaqqaḥat (Hithpael of lqḥ, ‘fire taking hold of itself’) — flashing/self-kindling fire → ลุกโชนวูบวาบ, capturing the continuous, self-renewing blaze."
+        },
+        {
+          "hebrew": "כְּעֵין הַחַשְׁמַל",
+          "rendering": "สิ่งที่ดูเหมือนโลหะสุกปลั่ง",
+          "rationale": "ḥašmal — a notoriously obscure word (only Ezek 1:4,27; 8:2): LXX ἤλεκτρον ‘electrum’, traditionally ‘amber’, most modern scholars ‘glowing/gleaming metal’. Rendered โลหะสุกปลั่ง ‘gleaming metal’ (the metallic-glow sense), kept identical at v.27. kəʿên ‘like the gleam/appearance of’ → ดูเหมือน."
+        }
+      ],
+      "notes": "The opening storm-cloud-fire is standard theophany imagery (Exod 19:16–18; Ps 18:8–13; Hab 3). The hedging ‘like the gleam of’ runs through the whole vision (kəʿên / kəmarʾêh ‘like the appearance of’)."
+    }
+  },
+  {
+    "reference": "Ezekiel 1:5",
+    "chapter": 1,
+    "verse": 5,
+    "language": "hebrew",
+    "hebrew": "וּמִ֨תּוֹכָ֔הּ דְּמ֖וּת אַרְבַּ֣ע חַיּ֑וֹת וְזֶה֙ מַרְאֵֽיהֶ֔ן דְּמ֥וּת אָדָ֖ם לָהֵֽנָּה׃",
+    "bsb_english": "and within it was the form of four living creatures. And this was their appearance: They had a human form,",
+    "translation": {
+      "thai": "และจากท่ามกลางไฟนั้นมีรูปร่างคล้ายสิ่งมีชีวิตสี่ตน ลักษณะของพวกมันเป็นดังนี้ คือมีรูปร่างคล้ายมนุษย์",
+      "thai_literal": null,
+      "thai_summary": "‘สิ่งมีชีวิต’ สี่ตนนี้คือเครูบ (ดู 10:20 ที่เอเสเคียลระบุชัด) — เป็นทูตสวรรค์ผู้แบกพระที่นั่งของพระเจ้า วิวรณ์ 4:6-8 นำภาพสิ่งมีชีวิตสี่ตนนี้ไปใช้รอบพระบัลลังก์ในสวรรค์",
+      "key_decisions": [
+        {
+          "hebrew": "דְּמוּת אַרְבַּע חַיּוֹת",
+          "rendering": "รูปร่างคล้ายสิ่งมีชีวิตสี่ตน",
+          "rationale": "ḥayyôt ‘living creatures’ → สิ่งมีชีวิต (matching the shipped Rev 4:6 ζῷα = สิ่งมีชีวิต, the NT reuse of this vision; classifier ตน), NOT สัตว์ ‘animals’. dəmût ‘likeness’ → รูปร่างคล้าย, preserving the careful ‘what looked like’ hedge (figs-abstractnouns)."
+        },
+        {
+          "hebrew": "דְּמוּת אָדָם לָהֵנָּה",
+          "rendering": "มีรูปร่างคล้ายมนุษย์",
+          "rationale": "Their basic form is human-like (ʾādām) — plain มนุษย์; the creatures' own bodies take PLAIN Thai throughout (they are creatures, not God — no Rachasap, cf. the seraphim of Isa 6:2)."
+        }
+      ],
+      "notes": "Identified as cherubim at Ezek 10:15,20. The chapter never says ‘cherub’ here — kept as ‘living creatures’ per MT, the identification noted only in the summary."
+    }
+  },
+  {
+    "reference": "Ezekiel 1:6",
+    "chapter": 1,
+    "verse": 6,
+    "language": "hebrew",
+    "hebrew": "וְאַרְבָּעָ֥ה פָנִ֖ים לְאֶחָ֑ת וְאַרְבַּ֥ע כְּנָפַ֖יִם לְאַחַ֥ת לָהֶֽם׃",
+    "bsb_english": "but each had four faces and four wings.",
+    "translation": {
+      "thai": "แต่ละตนมีสี่หน้าและสี่ปีก",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "וְאַרְבָּעָה פָנִים לְאֶחָת וְאַרְבַּע כְּנָפַיִם",
+          "rendering": "แต่ละตนมีสี่หน้าและสี่ปีก",
+          "rationale": "Plain pānîm ‘faces’ → หน้า, kənāpayim ‘wings’ → ปีก (creature anatomy, plain register). The four faces (v.10) and four wings give each creature omnidirectional vision and mobility."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Ezekiel 1:7",
+    "chapter": 1,
+    "verse": 7,
+    "language": "hebrew",
+    "hebrew": "וְרַגְלֵיהֶ֖ם רֶ֣גֶל יְשָׁרָ֑ה וְכַ֣ף רַגְלֵיהֶ֗ם כְּכַף֙ רֶ֣גֶל עֵ֔גֶל וְנֹ֣צְצִ֔ים כְּעֵ֖ין נְחֹ֥שֶׁת קָלָֽל׃",
+    "bsb_english": "Their legs were straight, and the soles of their feet were like the hooves of a calf, gleaming like polished bronze.",
+    "translation": {
+      "thai": "ขาของพวกมันตรง ฝ่าเท้าของพวกมันเหมือนฝ่าเท้าลูกวัว และเป็นประกายวาววับดุจทองสัมฤทธิ์ขัดเงา",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "כְּעֵין נְחֹשֶׁת קָלָל",
+          "rendering": "ดุจทองสัมฤทธิ์ขัดเงา",
+          "rationale": "nəḥōšet ‘bronze’ → ทองสัมฤทธิ์ (corpus lock); qālāl ‘burnished/polished’ → ขัดเงา. Matches the shipped DAN 10:6 (แขนและขา…ดุจทองสัมฤทธิ์ขัดเงา) — Daniel's theophany deliberately echoes Ezekiel 1."
+        },
+        {
+          "hebrew": "וְכַף רַגְלֵיהֶם כְּכַף רֶגֶל עֵגֶל",
+          "rendering": "ฝ่าเท้าของพวกมันเหมือนฝ่าเท้าลูกวัว",
+          "rationale": "kap regel ʿēgel ‘sole of a calf's foot’ → ฝ่าเท้าลูกวัว — round hoof-like soles (enabling movement in any direction, v.9). Plain creature anatomy (ขา/เท้า)."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Ezekiel 1:8",
+    "chapter": 1,
+    "verse": 8,
+    "language": "hebrew",
+    "hebrew": "וִידֵ֣י אָדָ֗ם מִתַּ֨חַת֙ כַּנְפֵיהֶ֔ם עַ֖ל אַרְבַּ֣עַת רִבְעֵיהֶ֑ם וּפְנֵיהֶ֥ם וְכַנְפֵיהֶ֖ם לְאַרְבַּעְתָּֽם׃",
+    "bsb_english": "Under their wings on their four sides they had human hands. All four living creatures had faces and wings,",
+    "translation": {
+      "thai": "ใต้ปีกทั้งสี่ด้านของพวกมันมีมือมนุษย์ และทั้งสี่ตนต่างก็มีหน้าและปีก",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "וִידֵי אָדָם מִתַּחַת כַּנְפֵיהֶם",
+          "rendering": "ใต้ปีกของพวกมันมีมือมนุษย์",
+          "rationale": "yədê ʾādām ‘human hands’ → มือมนุษย์ — PLAIN มือ (creature's own hand, not a divine body-part; the Rachasap พระหัตถ์ is reserved for YHWH, cf. v.3). On all four sides (riḇʿêhem)."
+        }
+      ],
+      "notes": "MT here begins listing ‘their faces and their wings for the four of them’, completed in vv.9–11."
+    }
+  },
+  {
+    "reference": "Ezekiel 1:9",
+    "chapter": 1,
+    "verse": 9,
+    "language": "hebrew",
+    "hebrew": "חֹֽבְרֹ֛ת אִשָּׁ֥ה אֶל־אֲחוֹתָ֖הּ כַּנְפֵיהֶ֑ם לֹא־יִסַּ֣בּוּ בְלֶכְתָּ֔ן אִ֛ישׁ אֶל־עֵ֥בֶר פָּנָ֖יו יֵלֵֽכוּ׃",
+    "bsb_english": "and their wings were touching one another. They did not turn as they moved; each one went straight ahead.",
+    "translation": {
+      "thai": "ปีกของพวกมันจดต่อกัน เมื่อเคลื่อนไปพวกมันไม่หันกลับ แต่ละตนมุ่งตรงไปข้างหน้า",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "חֹבְרֹת אִשָּׁה אֶל־אֲחוֹתָהּ",
+          "rendering": "ปีกของพวกมันจดต่อกัน",
+          "rationale": "ʾiššâ ʾel-ʾăḥôtāh ‘each (woman) to her sister’ — a fixed idiom for ‘one to another’ → จดต่อกัน, not rendered with literal female-kinship (the lexeme is grammatical, not referential)."
+        },
+        {
+          "hebrew": "אִישׁ אֶל־עֵבֶר פָּנָיו יֵלֵכוּ",
+          "rendering": "แต่ละตนมุ่งตรงไปข้างหน้า",
+          "rationale": "‘each toward the direction of its face it would go’ → มุ่งตรงไปข้างหน้า; four faces mean they never need to turn (lōʾ yissabbû ‘they did not turn’)."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Ezekiel 1:10",
+    "chapter": 1,
+    "verse": 10,
+    "language": "hebrew",
+    "hebrew": "וּדְמ֣וּת פְּנֵיהֶם֮ פְּנֵ֣י אָדָם֒ וּפְנֵ֨י אַרְיֵ֤ה אֶל־הַיָּמִין֙ לְאַרְבַּעְתָּ֔ם וּפְנֵי־שׁ֥וֹר מֵֽהַשְּׂמֹ֖אול לְאַרְבַּעְתָּ֑ן וּפְנֵי־נֶ֖שֶׁר לְאַרְבַּעְתָּֽן׃",
+    "bsb_english": "The form of their faces was that of a man, and each of the four had the face of a lion on the right side, the face of an ox on the left side, and also the face of an eagle.",
+    "translation": {
+      "thai": "รูปหน้าของพวกมันเป็นดังนี้ คือมีหน้ามนุษย์ และทั้งสี่ตนต่างมีหน้าสิงโตอยู่ด้านขวา หน้าวัวอยู่ด้านซ้าย และหน้านกอินทรีด้วย",
+      "thai_literal": null,
+      "thai_summary": "สี่หน้า — มนุษย์ สิงโต วัว และนกอินทรี — ในธรรมเนียมการตีความมักหมายถึงสุดยอดของสิ่งทรงสร้างแต่ละจำพวก (มนุษย์เหนือสรรพสัตว์ สิงโตเหนือสัตว์ป่า วัวเหนือสัตว์เลี้ยง นกอินทรีเหนือนก) ทูตที่แบกพระที่นั่งจึงเป็นตัวแทนของสรรพสิ่งที่พระเจ้าทรงสร้าง",
+      "key_decisions": [
+        {
+          "hebrew": "פְּנֵי אָדָם … אַרְיֵה … שׁוֹר … נֶשֶׁר",
+          "rendering": "หน้ามนุษย์ … สิงโต … วัว … นกอินทรี",
+          "rationale": "The four faces: ʾādām/ʾaryēh/šôr/nešer → มนุษย์/สิงโต/วัว/นกอินทรี. Same four reappear (reordered) at Rev 4:7 (shipped: สิงโต/ลูกวัว/มนุษย์/นกอินทรี) — vocabulary aligned to the NT throne-vision. yāmîn ‘right’ → ด้านขวา, śəmōʾl ‘left’ → ด้านซ้าย."
+        }
+      ],
+      "notes": "MT places the man-face as the default front, lion right, ox left, eagle (implied rear). The ‘ox’ face appears as ‘cherub’ at the parallel Ezek 10:14 — a known internal variation, noted there."
+    }
+  },
+  {
+    "reference": "Ezekiel 1:11",
+    "chapter": 1,
+    "verse": 11,
+    "language": "hebrew",
+    "hebrew": "וּפְנֵיהֶ֕ם וְכַנְפֵיהֶ֥ם פְּרֻד֖וֹת מִלְמָ֑עְלָה לְאִ֗ישׁ שְׁ֚תַּיִם חֹבְר֣וֹת אִ֔ישׁ וּשְׁתַּ֣יִם מְכַסּ֔וֹת אֵ֖ת גְּוִיֹתֵיהֶֽנָה׃",
+    "bsb_english": "Such were their faces. Their wings were spread upward; each had two wings touching the wings of the creature on either side, and two wings covering its body.",
+    "translation": {
+      "thai": "หน้าและปีกของพวกมันแผ่ออกเบื้องบน แต่ละตนมีสองปีกจดกับปีกของตนที่อยู่ข้างเคียง และมีอีกสองปีกคลุมกายของมัน",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "וּשְׁתַּיִם מְכַסּוֹת אֵת גְּוִיֹתֵיהֶנָה",
+          "rendering": "อีกสองปีกคลุมกายของมัน",
+          "rationale": "gəwiyyâ ‘body’ → กาย; the modest wing-covering echoes the seraphim covering themselves before God (Isa 6:2, shipped ปกคลุม). Two wings up (joined), two down (covering)."
+        }
+      ],
+      "notes": "pərudôt ‘spread/divided above’ — the upward wings (joined to neighbors) distinguished from the lower covering wings (v.23 repeats)."
+    }
+  },
+  {
+    "reference": "Ezekiel 1:12",
+    "chapter": 1,
+    "verse": 12,
+    "language": "hebrew",
+    "hebrew": "וְאִ֛ישׁ אֶל־עֵ֥בֶר פָּנָ֖יו יֵלֵ֑כוּ אֶ֣ל אֲשֶׁר֩ יִֽהְיֶה־שָׁ֨מָּה הָר֤וּחַ לָלֶ֨כֶת֙ יֵלֵ֔כוּ לֹ֥א יִסַּ֖בּוּ בְּלֶכְתָּֽן׃",
+    "bsb_english": "Each creature went straight ahead. Wherever the spirit would go, they would go, without turning as they moved.",
+    "translation": {
+      "thai": "แต่ละตนมุ่งตรงไปข้างหน้า วิญญาณจะไปทางไหน พวกมันก็ไปทางนั้น เมื่อเคลื่อนไปพวกมันไม่หันกลับ",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "אֶל אֲשֶׁר יִהְיֶה־שָׁמָּה הָרוּחַ לָלֶכֶת יֵלֵכוּ",
+          "rendering": "วิญญาณจะไปทางไหน พวกมันก็ไปทางนั้น",
+          "rationale": "hārûaḥ here is the animating impulse driving the creatures → วิญญาณ (the spirit), lowercase — distinct from rûaḥ ‘wind’ in v.4 and from פระวิญญาณ (Holy Spirit). v.20 makes this ‘the spirit of the living creature’. The unity of motion (no turning) preserved."
+        }
+      ],
+      "notes": "The רוּחַ that directs the creatures is the same word that fills the wheels (v.20). Whether ‘spirit of life’ or the directing will of God is left open by MT; rendered neutrally as วิญญาณ."
+    }
+  },
+  {
+    "reference": "Ezekiel 1:13",
+    "chapter": 1,
+    "verse": 13,
+    "language": "hebrew",
+    "hebrew": "וּדְמ֨וּת הַחַיּ֜וֹת מַרְאֵיהֶ֣ם כְּגַחֲלֵי־אֵ֗שׁ בֹּֽעֲרוֹת֙ כְּמַרְאֵ֣ה הַלַּפִּדִ֔ים הִ֕יא מִתְהַלֶּ֖כֶת בֵּ֣ין הַחַיּ֑וֹת וְנֹ֣גַהּ לָאֵ֔שׁ וּמִן־הָאֵ֖שׁ יוֹצֵ֥א בָרָֽק׃",
+    "bsb_english": "In the midst of the living creatures was the appearance of glowing coals of fire, or of torches. Fire moved back and forth between the living creatures; it was bright, and lightning flashed out of it.",
+    "translation": {
+      "thai": "รูปร่างของสิ่งมีชีวิตเหล่านั้นดูเหมือนถ่านไฟที่ลุกโชน ดุจคบเพลิง ไฟนั้นเคลื่อนไปมาท่ามกลางสิ่งมีชีวิตทั้งหลาย ส่องแสงเจิดจ้า และมีฟ้าแลบแวบออกมาจากไฟนั้น",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "כְּגַחֲלֵי־אֵשׁ בֹּעֲרוֹת כְּמַרְאֵה הַלַּפִּדִים",
+          "rendering": "ถ่านไฟที่ลุกโชน ดุจคบเพลิง",
+          "rationale": "gaḥălê-ʾēš ‘coals of fire’ → ถ่านไฟ; lappîdîm ‘torches’ → คบเพลิง (cf. the seraph's altar-coal Isa 6:6 ถ่านเพลิง). The living fire moving among the creatures."
+        },
+        {
+          "hebrew": "וּמִן־הָאֵשׁ יוֹצֵא בָרָק",
+          "rendering": "มีฟ้าแลบแวบออกมาจากไฟนั้น",
+          "rationale": "bārāq ‘lightning’ → ฟ้าแลบ (the ordinary lightning-word, distinct from the hapax bāzāq in v.14)."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Ezekiel 1:14",
+    "chapter": 1,
+    "verse": 14,
+    "language": "hebrew",
+    "hebrew": "וְהַחַיּ֖וֹת רָצ֣וֹא וָשׁ֑וֹב כְּמַרְאֵ֖ה הַבָּזָֽק׃",
+    "bsb_english": "The creatures were darting back and forth as quickly as flashes of lightning.",
+    "translation": {
+      "thai": "สิ่งมีชีวิตเหล่านั้นพุ่งไปมาดุจแสงสายฟ้าแลบ",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "וְהַחַיּוֹת רָצוֹא וָשׁוֹב",
+          "rendering": "พุ่งไปมา",
+          "rationale": "rāṣôʾ — hapax (an Aramaizing byform of rûṣ ‘to run’): with wāšôḇ ‘and return’ = ‘darting to-and-fro’ → พุ่งไปมา. Etymology from the run-root secures the sense."
+        },
+        {
+          "hebrew": "כְּמַרְאֵה הַבָּזָק",
+          "rendering": "ดุจแสงสายฟ้าแลบ",
+          "rationale": "bāzāq — hapax ‘lightning-flash’ → สายฟ้าแลบ (matching the shipped DAN 10:6 ใบหน้า…ดุจสายฟ้าแลบ, another Ezekiel-echo). The simile: their motion is instantaneous, like a lightning bolt."
+        }
+      ],
+      "notes": "Both רָצוֹא and בָּזָק are hapax legomena (each occurs only here in the OT)."
+    }
+  },
+  {
+    "reference": "Ezekiel 1:15",
+    "chapter": 1,
+    "verse": 15,
+    "language": "hebrew",
+    "hebrew": "וָאֵ֖רֶא הַחַיּ֑וֹת וְהִנֵּה֩ אוֹפַ֨ן אֶחָ֥ד בָּאָ֛רֶץ אֵ֥צֶל הַחַיּ֖וֹת לְאַרְבַּ֥עַת פָּנָֽיו׃",
+    "bsb_english": "When I looked at the living creatures, I saw a wheel on the ground beside each creature with its four faces.",
+    "translation": {
+      "thai": "ขณะที่ข้าพเจ้ามองดูสิ่งมีชีวิตเหล่านั้น ดูเถิด มีวงล้ออันหนึ่งอยู่บนพื้นข้างสิ่งมีชีวิตทั้งสี่หน้านั้น ตนละวง",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "וְהִנֵּה אוֹפַן אֶחָד בָּאָרֶץ אֵצֶל הַחַיּוֹת",
+          "rendering": "มีวงล้ออันหนึ่งอยู่บนพื้นข้างสิ่งมีชีวิต…ตนละวง",
+          "rationale": "ʾôpan ‘wheel’ → วงล้อ. ləʾarbaʿat pānāyw ‘for its four faces’ is difficult — taken distributively (a wheel beside each of the four creatures) → ตนละวง, matching BSB ‘a wheel … beside each creature’. The wheels make the throne a mobile chariot (merkabah)."
+        }
+      ],
+      "notes": "v.15b is grammatically terse; ‘its four faces’ likely means one wheel per creature (four wheels total). Difficulty noted."
+    }
+  },
+  {
+    "reference": "Ezekiel 1:16",
+    "chapter": 1,
+    "verse": 16,
+    "language": "hebrew",
+    "hebrew": "מַרְאֵ֨ה הָאוֹפַנִּ֤ים וּמַעֲשֵׂיהֶם֙ כְּעֵ֣ין תַּרְשִׁ֔ישׁ וּדְמ֥וּת אֶחָ֖ד לְאַרְבַּעְתָּ֑ן וּמַרְאֵיהֶם֙ וּמַ֣עֲשֵׂיהֶ֔ם כַּאֲשֶׁ֛ר יִהְיֶ֥ה הָאוֹפַ֖ן בְּת֥וֹךְ הָאוֹפָֽן׃",
+    "bsb_english": "The workmanship of the wheels looked like the gleam of beryl, and all four had the same likeness. Their workmanship looked like a wheel within a wheel.",
+    "translation": {
+      "thai": "วงล้อเหล่านั้นมีลักษณะและโครงสร้างเป็นประกายดุจพลอยทาร์ชิช ทั้งสี่วงมีลักษณะเหมือนกัน คือดูเหมือนวงล้อซ้อนอยู่ในวงล้อ",
+      "thai_literal": null,
+      "thai_summary": "‘วงล้อซ้อนอยู่ในวงล้อ’ — น่าจะหมายถึงวงล้อสองวงตั้งฉากซ้อนกัน ทำให้เคลื่อนไปได้ทุกทิศโดยไม่ต้องหมุนเลี้ยว (ข้อ 17) ภาพนี้สื่อว่าพระเจ้าทรงเคลื่อนไปได้ทุกหนแห่ง ไม่มีที่ใดพ้นจากการสถิตของพระองค์ แม้แต่แดนเนรเทศ",
+      "key_decisions": [
+        {
+          "hebrew": "כְּעֵין תַּרְשִׁישׁ",
+          "rendering": "ประกายดุจพลอยทาร์ชิช",
+          "rationale": "taršîš — a precious stone of debated identity (beryl/chrysolite/yellow jasper/topaz). The corpus carries two surfaces: โกเมน (the Exod 28 breastplate-stone identification) and พลอยทาร์ชิช (the transliteration at DAN 10:6, in a vision parallel to this one). Ezek 1:16 follows the DANIEL-vision precedent — พลอยทาร์ชิช — since both are theophany gem-descriptions and the transliteration avoids over-committing to one mineral. Documented contextual variant per RULES §4."
+        },
+        {
+          "hebrew": "הָאוֹפַן בְּתוֹךְ הָאוֹפָן",
+          "rendering": "วงล้อซ้อนอยู่ในวงล้อ",
+          "rationale": "‘a wheel within a wheel’ → วงล้อซ้อนอยู่ในวงล้อ — most likely two wheels set at right angles, enabling movement in all four directions (v.17) without pivoting."
+        }
+      ],
+      "notes": "taršîš rendering kept identical to the parallel DAN 10:6 vision rather than the EXO 28 breastplate (โกเมน); the cross-reference between the two visions is the priority."
+    }
+  },
+  {
+    "reference": "Ezekiel 1:17",
+    "chapter": 1,
+    "verse": 17,
+    "language": "hebrew",
+    "hebrew": "עַל־אַרְבַּ֥עַת רִבְעֵיהֶ֖ן בְּלֶכְתָּ֣ם יֵלֵ֑כוּ לֹ֥א יִסַּ֖בּוּ בְּלֶכְתָּֽן׃",
+    "bsb_english": "As they moved, they went in any of the four directions, without pivoting as they moved.",
+    "translation": {
+      "thai": "เมื่อเคลื่อนไป วงล้อเหล่านั้นไปได้ทั้งสี่ทิศโดยไม่ต้องหันเลี้ยว",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "עַל־אַרְבַּעַת רִבְעֵיהֶן בְּלֶכְתָּם יֵלֵכוּ",
+          "rendering": "ไปได้ทั้งสี่ทิศโดยไม่ต้องหันเลี้ยว",
+          "rationale": "‘upon their four sides/quarters they would go’ → ไปได้ทั้งสี่ทิศ; the wheel-within-wheel design (v.16) makes pivoting unnecessary — total omnidirectional freedom."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Ezekiel 1:18",
+    "chapter": 1,
+    "verse": 18,
+    "language": "hebrew",
+    "hebrew": "וְגַ֨בֵּיהֶ֔ן וְגֹ֥בַהּ לָהֶ֖ם וְיִרְאָ֣ה לָהֶ֑ם וְגַבֹּתָ֗ם מְלֵאֹ֥ת עֵינַ֛יִם סָבִ֖יב לְאַרְבַּעְתָּֽן׃",
+    "bsb_english": "Their rims were high and awesome, and all four rims were full of eyes all around.",
+    "translation": {
+      "thai": "ขอบล้อของมันสูงและน่าเกรงขาม ขอบล้อทั้งสี่นั้นเต็มไปด้วยดวงตาโดยรอบ",
+      "thai_literal": null,
+      "thai_summary": "ขอบล้อ ‘เต็มไปด้วยดวงตา’ — สื่อว่าพระเจ้าผู้ประทับบนพระที่นั่งทรงทอดพระเนตรเห็นทุกสิ่งทุกทิศ ไม่มีสิ่งใดถูกซ่อนพ้นสายพระเนตรของพระองค์ วิวรณ์ 4:6-8 นำภาพ ‘เต็มไปด้วยดวงตา’ นี้ไปใช้กับสิ่งมีชีวิตรอบพระบัลลังก์",
+      "key_decisions": [
+        {
+          "hebrew": "וְגַבֹּתָם מְלֵאֹת עֵינַיִם סָבִיב",
+          "rendering": "ขอบล้อ…เต็มไปด้วยดวงตาโดยรอบ",
+          "rationale": "gabbôt ‘rims/felloes’ → ขอบล้อ; məlēʾōt ʿênayim ‘full of eyes’ → เต็มไปด้วยดวงตา (matching shipped Rev 4:6,8 เต็มไปด้วยดวงตา). gōbah + yirʾâ ‘height and awe/fear’ → สูงและน่าเกรงขาม."
+        }
+      ],
+      "notes": "‘Eyes’ as a symbol of all-seeing presence; Rev 4 transfers the eye-imagery from the wheels to the living creatures themselves."
+    }
+  },
+  {
+    "reference": "Ezekiel 1:19",
+    "chapter": 1,
+    "verse": 19,
+    "language": "hebrew",
+    "hebrew": "וּבְלֶ֨כֶת֙ הַֽחַיּ֔וֹת יֵלְכ֥וּ הָאוֹפַנִּ֖ים אֶצְלָ֑ם וּבְהִנָּשֵׂ֤א הַֽחַיּוֹת֙ מֵעַ֣ל הָאָ֔רֶץ יִנָּשְׂא֖וּ הָאוֹפַנִּֽים׃",
+    "bsb_english": "So as the living creatures moved, the wheels moved beside them, and when the creatures rose from the ground, the wheels also rose.",
+    "translation": {
+      "thai": "เมื่อสิ่งมีชีวิตเคลื่อนไป วงล้อก็เคลื่อนไปข้าง ๆ และเมื่อสิ่งมีชีวิตเหล่านั้นลอยขึ้นจากพื้น วงล้อก็ลอยขึ้นด้วย",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "וּבְהִנָּשֵׂא הַחַיּוֹת מֵעַל הָאָרֶץ",
+          "rendering": "เมื่อสิ่งมีชีวิตเหล่านั้นลอยขึ้นจากพื้น",
+          "rationale": "hinnāśēʾ (Niphal of nśʾ) ‘to be lifted up’ → ลอยขึ้น; the wheels and creatures move as one integrated chariot."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Ezekiel 1:20",
+    "chapter": 1,
+    "verse": 20,
+    "language": "hebrew",
+    "hebrew": "עַ֣ל אֲשֶׁר֩ יִֽהְיֶה־שָּׁ֨ם הָר֤וּחַ לָלֶ֨כֶת֙ יֵלֵ֔כוּ שָׁ֥מָּה הָר֖וּחַ לָלֶ֑כֶת וְהָאוֹפַנִּ֗ים יִנָּשְׂאוּ֙ לְעֻמָּתָ֔ם כִּ֛י ר֥וּחַ הַחַיָּ֖ה בָּאוֹפַנִּֽים׃",
+    "bsb_english": "Wherever the spirit would go, they would go, and the wheels would rise alongside them, because the spirit of the living creatures was in the wheels.",
+    "translation": {
+      "thai": "วิญญาณจะไปทางไหน พวกมันก็ไปทางนั้น และวงล้อก็ลอยขึ้นเคียงข้างพวกมัน เพราะวิญญาณแห่งสิ่งมีชีวิตนั้นอยู่ในวงล้อ",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "כִּי רוּחַ הַחַיָּה בָּאוֹפַנִּים",
+          "rendering": "เพราะวิญญาณแห่งสิ่งมีชีวิตนั้นอยู่ในวงล้อ",
+          "rationale": "rûaḥ haḥayyâ ‘the spirit of the living creature’ → วิญญาณแห่งสิ่งมีชีวิต — the same animating spirit that directs the creatures (v.12) pervades the wheels, so chariot and bearers move with one will."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Ezekiel 1:21",
+    "chapter": 1,
+    "verse": 21,
+    "language": "hebrew",
+    "hebrew": "בְּלֶכְתָּ֣ם יֵלֵ֔כוּ וּבְעָמְדָ֖ם יַֽעֲמֹ֑דוּ וּֽבְהִנָּשְׂאָ֞ם מֵעַ֣ל הָאָ֗רֶץ יִנָּשְׂא֤וּ הָאֽוֹפַנִּים֙ לְעֻמָּתָ֔ם כִּ֛י ר֥וּחַ הַחַיָּ֖ה בָּאוֹפַנִּֽים׃",
+    "bsb_english": "When the creatures moved, the wheels moved; when the creatures stood still, the wheels stood still; and when the creatures rose from the ground, the wheels rose alongside them, because the spirit of the living creatures was in the wheels.",
+    "translation": {
+      "thai": "เมื่อสิ่งมีชีวิตเคลื่อนไป วงล้อก็เคลื่อนไป เมื่อสิ่งมีชีวิตหยุดนิ่ง วงล้อก็หยุดนิ่ง และเมื่อสิ่งมีชีวิตลอยขึ้นจากพื้น วงล้อก็ลอยขึ้นเคียงข้าง เพราะวิญญาณแห่งสิ่งมีชีวิตนั้นอยู่ในวงล้อ",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "בְּלֶכְתָּם יֵלֵכוּ וּבְעָמְדָם יַעֲמֹדוּ",
+          "rendering": "เมื่อ…เคลื่อนไป…ก็เคลื่อนไป เมื่อ…หยุดนิ่ง…ก็หยุดนิ่ง",
+          "rationale": "The move/stand/rise triad is repeated verbatim for emphasis (the wheels are utterly bound to the creatures); Thai parallelism preserved. The closing clause repeats v.20b like a refrain."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Ezekiel 1:22",
+    "chapter": 1,
+    "verse": 22,
+    "language": "hebrew",
+    "hebrew": "וּדְמ֞וּת עַל־רָאשֵׁ֤י הַחַיָּה֙ רָקִ֔יעַ כְּעֵ֖ין הַקֶּ֣רַח הַנּוֹרָ֑א נָט֥וּי עַל־רָאשֵׁיהֶ֖ם מִלְמָֽעְלָה׃",
+    "bsb_english": "Spread out above the heads of the living creatures was the likeness of an awesome expanse, gleaming like crystal.",
+    "translation": {
+      "thai": "เหนือศีรษะของสิ่งมีชีวิตนั้นมีสิ่งที่ดูเหมือนแผ่นฟ้า เปล่งประกายดุจผลึกน้ำแข็งอันน่าเกรงขาม แผ่กางอยู่เหนือศีรษะของพวกมัน",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "דְּמוּת … רָקִיעַ כְּעֵין הַקֶּרַח הַנּוֹרָא",
+          "rendering": "สิ่งที่ดูเหมือนแผ่นฟ้า เปล่งประกายดุจผลึกน้ำแข็งอันน่าเกรงขาม",
+          "rationale": "rāqîaʿ ‘expanse/firmament’ → แผ่นฟ้า (corpus lock from GEN 1:6 — same lemma, same Thai). qeraḥ ‘ice/crystal’ → ผลึกน้ำแข็ง; hannôrāʾ ‘the awesome/dreadful’ → น่าเกรงขาม. The shining platform under the throne (v.26) recalls the sapphire pavement under God's feet at Exod 24:10."
+        }
+      ],
+      "notes": "rāqîaʿ is the Genesis-1 firmament word; here a gleaming platform spread over the cherubim, supporting the throne (v.26)."
+    }
+  },
+  {
+    "reference": "Ezekiel 1:23",
+    "chapter": 1,
+    "verse": 23,
+    "language": "hebrew",
+    "hebrew": "וְתַ֨חַת֙ הָרָקִ֔יעַ כַּנְפֵיהֶ֣ם יְשָׁר֔וֹת אִשָּׁ֖ה אֶל־אֲחוֹתָ֑הּ לְאִ֗ישׁ שְׁתַּ֤יִם מְכַסּוֹת֙ לָהֵ֔נָּה וּלְאִ֗ישׁ שְׁתַּ֤יִם מְכַסּוֹת֙ לָהֵ֔נָּה אֵ֖ת גְּוִיֹּתֵיהֶֽם׃",
+    "bsb_english": "And under the expanse, their wings stretched out toward one another. Each one also had two wings covering its body.",
+    "translation": {
+      "thai": "ใต้แผ่นฟ้านั้น ปีกของพวกมันเหยียดตรงเข้าหากัน แต่ละตนมีสองปีกคลุมกายของตนทั้งสองข้าง",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "כַּנְפֵיהֶם יְשָׁרוֹת אִשָּׁה אֶל־אֲחוֹתָהּ",
+          "rendering": "ปีกของพวกมันเหยียดตรงเข้าหากัน",
+          "rationale": "yəšārôt ‘straight/extended’ → เหยียดตรง; the ‘each to her sister’ idiom (cf. v.9) → เข้าหากัน. Repeats the two-up-two-covering wing arrangement of v.11."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Ezekiel 1:24",
+    "chapter": 1,
+    "verse": 24,
+    "language": "hebrew",
+    "hebrew": "וָאֶשְׁמַ֣ע אֶת־ק֣וֹל כַּנְפֵיהֶ֡ם כְּקוֹל֩ מַ֨יִם רַבִּ֤ים כְּקוֹל־שַׁדַּי֙ בְּלֶכְתָּ֔ם ק֥וֹל הֲמֻלָּ֖ה כְּק֣וֹל מַחֲנֶ֑ה בְּעָמְדָ֖ם תְּרַפֶּ֥ינָה כַנְפֵיהֶֽן׃",
+    "bsb_english": "When the creatures moved, I heard the sound of their wings like the roar of many waters, like the voice of the Almighty, like the tumult of an army. When they stood still, they lowered their wings.",
+    "translation": {
+      "thai": "เมื่อพวกมันเคลื่อนไป ข้าพเจ้าได้ยินเสียงปีกของพวกมันดุจเสียงน้ำมากหลาย ดุจพระสุรเสียงขององค์ผู้ทรงมหิทธิฤทธิ์ เป็นเสียงอึกทึกดุจเสียงกองทัพ เมื่อพวกมันหยุดนิ่งก็หย่อนปีกลง",
+      "thai_literal": null,
+      "thai_summary": "เสียงปีกของทูตเหล่านี้ดังกึกก้องดุจ ‘เสียงน้ำมากหลาย’ และ ‘พระสุรเสียงขององค์ผู้ทรงมหิทธิฤทธิ์’ (สำนวนที่หมายถึงเสียงฟ้าร้อง) — วิวรณ์ 1:15 และ 19:6 ใช้ภาพ ‘เสียงน้ำมากหลาย’ เดียวกันนี้กับพระสุรเสียงของพระคริสต์",
+      "key_decisions": [
+        {
+          "hebrew": "כְּקוֹל מַיִם רַבִּים",
+          "rendering": "ดุจเสียงน้ำมากหลาย",
+          "rationale": "qôl mayim rabbîm ‘sound of many waters’ → เสียงน้ำมากหลาย (corpus lock; matches shipped Rev 1:15; 19:6) — the roar of a great cataract."
+        },
+        {
+          "hebrew": "כְּקוֹל־שַׁדַּי",
+          "rendering": "ดุจพระสุรเสียงขององค์ผู้ทรงมหิทธิฤทธิ์",
+          "rationale": "šadday ‘the Almighty’ (standalone divine title) → องค์ผู้ทรงมหิทธิฤทธิ์ per divine_names_table_2026-05 (standalone-title form with องค์- prefix). qôl ‘voice’ of God → พระสุรเสียง (Rachasap, the divine voice = thunder). A simile only (the wings sound LIKE God's voice)."
+        },
+        {
+          "hebrew": "קוֹל הֲמֻלָּה כְּקוֹל מַחֲנֶה",
+          "rendering": "เสียงอึกทึกดุจเสียงกองทัพ",
+          "rationale": "hămullâ ‘tumult/roar’ → เสียงอึกทึก; maḥăneh ‘camp/army’ → กองทัพ. The piled-up similes (waters/Almighty/army) convey overwhelming volume; the heavenly host on the march."
+        }
+      ],
+      "notes": "‘Voice of Shaddai’ is a thunder-metaphor (cf. Ps 29). šadday rendered with the standalone-title องค์- prefix per the JOB-review lock."
+    }
+  },
+  {
+    "reference": "Ezekiel 1:25",
+    "chapter": 1,
+    "verse": 25,
+    "language": "hebrew",
+    "hebrew": "וַיְהִי־ק֕וֹל מֵעַ֕ל לָרָקִ֖יעַ אֲשֶׁ֣ר עַל־רֹאשָׁ֑ם בְּעָמְדָ֖ם תְּרַפֶּ֥ינָה כַנְפֵיהֶֽן׃",
+    "bsb_english": "And there came a voice from above the expanse over their heads as they stood still with their wings lowered.",
+    "translation": {
+      "thai": "และมีเสียงดังมาจากเหนือแผ่นฟ้าที่อยู่เหนือศีรษะของพวกมัน เมื่อพวกมันหยุดนิ่งก็หย่อนปีกลง",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "וַיְהִי־קוֹל מֵעַל לָרָקִיעַ",
+          "rendering": "มีเสียงดังมาจากเหนือแผ่นฟ้า",
+          "rationale": "A qôl ‘voice/sound’ comes from above the rāqîaʿ — from the throne-region (v.26). Kept as เสียง (not yet ตรัส ‘spoke’); the content of the speech begins at 2:1. The voice is the LORD's (cf. v.3)."
+        }
+      ],
+      "notes": "The verse re-states ‘when they stood, they lowered their wings’ (v.24b) — the stilled wings let the voice from above be heard."
+    }
+  },
+  {
+    "reference": "Ezekiel 1:26",
+    "chapter": 1,
+    "verse": 26,
+    "language": "hebrew",
+    "hebrew": "וּמִמַּ֗עַל לָרָקִ֨יעַ֙ אֲשֶׁ֣ר עַל־רֹאשָׁ֔ם כְּמַרְאֵ֥ה אֶֽבֶן־סַפִּ֖יר דְּמ֣וּת כִּסֵּ֑א וְעַל֙ דְּמ֣וּת הַכִּסֵּ֔א דְּמ֞וּת כְּמַרְאֵ֥ה אָדָ֛ם עָלָ֖יו מִלְמָֽעְלָה׃",
+    "bsb_english": "Above the expanse over their heads was the likeness of a throne with the appearance of sapphire, and on the throne high above was a figure like that of a man.",
+    "translation": {
+      "thai": "เหนือแผ่นฟ้าที่อยู่เหนือศีรษะของพวกมันขึ้นไป มีสิ่งที่ดูเหมือนพระที่นั่งทำด้วยไพลิน และเหนือสิ่งที่ดูเหมือนพระที่นั่งนั้น มีผู้หนึ่งซึ่งดูคล้ายรูปร่างของมนุษย์ประทับอยู่เบื้องบน",
+      "thai_literal": null,
+      "thai_summary": "ในที่สุดสายตาของเอเสเคียลก็ขึ้นไปถึงยอดสุดของนิมิต คือพระที่นั่งและผู้ประทับบนนั้น สังเกตความระมัดระวังของถ้อยคำ — ‘สิ่งที่ดูเหมือน’ พระที่นั่ง ‘ดูคล้าย’ รูปร่างมนุษย์ เอเสเคียลไม่กล้าบรรยายพระเจ้าโดยตรง เพราะไม่มีสิ่งใดเทียบพระองค์ได้",
+      "key_decisions": [
+        {
+          "hebrew": "כְּמַרְאֵה אֶבֶן־סַפִּיר דְּמוּת כִּסֵּא",
+          "rendering": "สิ่งที่ดูเหมือนพระที่นั่งทำด้วยไพลิน",
+          "rationale": "sappîr ‘sapphire/lapis lazuli’ → ไพลิน (corpus lock, EXO 24:10 — the same blue stone under God's feet at Sinai). kissēʾ ‘throne’ → พระที่นั่ง (royal register, as Isa 6:1). dəmût ‘likeness’ → สิ่งที่ดูเหมือน, the reverent hedge."
+        },
+        {
+          "hebrew": "דְּמוּת כְּמַרְאֵה אָדָם עָלָיו מִלְמָעְלָה",
+          "rendering": "ผู้หนึ่งซึ่งดูคล้ายรูปร่างของมนุษย์ประทับอยู่เบื้องบน",
+          "rationale": "dəmût kəmarʾêh ʾādām ‘a likeness like the appearance of a man’ — the triple hedge (likeness + like + appearance) preserved as ดูคล้ายรูปร่างของมนุษย์: the figure is human-FORM but emphatically not simply ‘a man’. Royal ประทับ ‘to be enthroned’ for the divine figure (identified as the glory of YHWH, v.28); fuller Rachasap (พระองค์) follows in v.27."
+        }
+      ],
+      "notes": "The throne-figure is the climax (cf. Isa 6:1 the Lord on a throne; Rev 4:2–3 the One seated). The careful apophatic hedging is the point — Ezekiel describes the appearance of a likeness, never God directly."
+    }
+  },
+  {
+    "reference": "Ezekiel 1:27",
+    "chapter": 1,
+    "verse": 27,
+    "language": "hebrew",
+    "hebrew": "וָאֵ֣רֶא׀כְּעֵ֣ין חַשְׁמַ֗ל כְּמַרְאֵה־אֵ֤שׁ בֵּֽית־לָהּ֙ סָבִ֔יב מִמַּרְאֵ֥ה מָתְנָ֖יו וּלְמָ֑עְלָה וּמִמַּרְאֵ֤ה מָתְנָיו֙ וּלְמַ֔טָּה רָאִ֨יתִי֙ כְּמַרְאֵה־אֵ֔שׁ וְנֹ֥גַֽהּ ל֖וֹ סָבִֽיב׃",
+    "bsb_english": "From what seemed to be His waist up, I saw a gleam like amber, with what looked like fire within it all around. And from what seemed to be His waist down, I saw what looked like fire; and brilliant light surrounded Him.",
+    "translation": {
+      "thai": "ข้าพเจ้าเห็นสิ่งที่ดูเหมือนโลหะสุกปลั่ง ดุจไฟที่ห่อหุ้มอยู่โดยรอบ ตั้งแต่ส่วนที่ดูเหมือนบั้นเอวของพระองค์ขึ้นไป และตั้งแต่ส่วนที่ดูเหมือนบั้นเอวของพระองค์ลงมา ข้าพเจ้าเห็นสิ่งที่ดูเหมือนไฟ และมีแสงสว่างเจิดจ้าอยู่รอบพระองค์",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "כְּעֵין חַשְׁמַל",
+          "rendering": "สิ่งที่ดูเหมือนโลหะสุกปลั่ง",
+          "rationale": "ḥašmal → โลหะสุกปลั่ง, kept identical to v.4 (the gleaming-metal sense; obscure word, see v.4 note). The figure glows like fire-filled metal."
+        },
+        {
+          "hebrew": "מִמַּרְאֵה מָתְנָיו וּלְמָעְלָה",
+          "rendering": "ส่วนที่ดูเหมือนบั้นเอวของพระองค์ขึ้นไป",
+          "rationale": "motnāyw ‘his waist/loins’ → บั้นเอวของพระองค์; the divine figure takes the royal pronoun พระองค์ (he is the glory of YHWH, v.28), while the ‘appearance of’ hedge (mimmarʾêh) is preserved (ส่วนที่ดูเหมือน). Fire above and below the waist, brightness all around — radiance too intense to resolve into a body."
+        }
+      ],
+      "notes": "The waist-division (fire above/below) frames the figure entirely in fire and light — the kāḇôḏ (glory) named in v.28."
+    }
+  },
+  {
+    "reference": "Ezekiel 1:28",
+    "chapter": 1,
+    "verse": 28,
+    "language": "hebrew",
+    "hebrew": "כְּמַרְאֵ֣ה הַקֶּ֡שֶׁת אֲשֶׁר֩ יִֽהְיֶ֨ה בֶעָנָ֜ן בְּי֣וֹם הַגֶּ֗שֶׁם כֵּ֣ן מַרְאֵ֤ה הַנֹּ֨גַהּ֙ סָבִ֔יב ה֕וּא מַרְאֵ֖ה דְּמ֣וּת כְּבוֹד־יְהוָ֑ה וָֽאֶרְאֶה֙ וָאֶפֹּ֣ל עַל־פָּנַ֔י וָאֶשְׁמַ֖ע ק֥וֹל מְדַבֵּֽר׃ס",
+    "bsb_english": "The appearance of the brilliant light all around Him was like that of a rainbow in a cloud on a rainy day. This was the appearance of the likeness of the glory of the LORD. And when I saw it, I fell facedown and heard a voice speaking.",
+    "translation": {
+      "thai": "แสงเจิดจ้าที่อยู่โดยรอบนั้นดุจรุ้งที่ปรากฏในเมฆในวันฝนตก นั่นคือลักษณะที่ดูเหมือนพระสิริขององค์พระผู้เป็นเจ้า เมื่อข้าพเจ้าเห็น ข้าพเจ้าก็ซบหน้าลงถึงดิน และได้ยินพระสุรเสียงผู้หนึ่งตรัส",
+      "thai_literal": null,
+      "thai_summary": "นิมิตจบลงที่คำว่า ‘พระสิริขององค์พระผู้เป็นเจ้า’ — ทุกสิ่งที่บรรยายมาทั้งบท (พายุ ไฟ ทูต วงล้อ พระที่นั่ง) ล้วนเป็นเพียงเปลือกนอกของพระสิรินั้น และเมื่อเอเสเคียลซบหน้าลง พระเจ้าก็เริ่มตรัส (บทที่ 2) สิ่งสำคัญที่สุดของนิมิตไม่ใช่ภาพ แต่คือพระสุรเสียงที่จะตามมา",
+      "key_decisions": [
+        {
+          "hebrew": "כְּמַרְאֵה הַקֶּשֶׁת אֲשֶׁר יִהְיֶה בֶעָנָן",
+          "rendering": "ดุจรุ้งที่ปรากฏในเมฆ",
+          "rationale": "qešet ‘bow’ — the same lemma as the Noahic covenant-bow (GEN 9:13, rendered คันธนู to keep the war-bow-hung-up imagery); HERE the simile is explicitly meteorological (‘in the cloud on a rainy day’), so the natural รุ้ง ‘rainbow’ is used. Parallels the throne-rainbow of Rev 4:3 (shipped). Documented contextual variant per RULES §4."
+        },
+        {
+          "hebrew": "הוּא מַרְאֵה דְּמוּת כְּבוֹד־יְהוָה",
+          "rendering": "นั่นคือลักษณะที่ดูเหมือนพระสิริขององค์พระผู้เป็นเจ้า",
+          "rationale": "kəḇôḏ-YHWH ‘the glory of YHWH’ → พระสิริขององค์พระผู้เป็นเจ้า (kāḇôḏ → พระสิริ, corpus lock, cf. Isa 6:3). The double hedge marʾêh dəmût ‘appearance of the likeness of’ → ลักษณะที่ดูเหมือน — even the glory is described one remove away. Layer 1: יהוה → องค์พระผู้เป็นเจ้า."
+        },
+        {
+          "hebrew": "וָאֶפֹּל עַל־פָּנַי וָאֶשְׁמַע קוֹל מְדַבֵּר",
+          "rendering": "ข้าพเจ้าก็ซบหน้าลงถึงดิน และได้ยินพระสุรเสียงผู้หนึ่งตรัส",
+          "rationale": "nāpal ʿal-pānāy ‘I fell on my face’ → ซบหน้าลงถึงดิน, the prostration of awe (not accident; cf. Isa 6:5). qôl mədabbēr ‘a voice speaking’ → พระสุรเสียง…ตรัส (Rachasap: the speaker is the LORD, so royal voice + ตรัส), launching the commission of ch. 2."
+        }
+      ],
+      "notes": "The chapter's destination: the kāḇôḏ (glory) of YHWH. The Glory that filled Solomon's temple (1 Kgs 8) has come to the exiles in Babylon — and will depart the temple at Ezek 10–11. Ezek 1:26–28 anchors Rev 4:2–3 (throne + rainbow + the One seated)."
+    }
+  }
+]
