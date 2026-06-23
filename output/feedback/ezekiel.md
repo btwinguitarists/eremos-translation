@@ -1,6 +1,6 @@
 # เอเสเคียล
 
-_Ezekiel — 18 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
+_Ezekiel — 19 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
 
 _This **feedback edition** is the plain Thai translation with a `>` placeholder block under each verse for reviewer comments. **See the instructions immediately below before reading.** For the annotated edition (with contextual summaries), see `output/reader/ezekiel.md`; for the verses-only edition (no comment blocks), see `output/plain/ezekiel.md`._
 
@@ -1930,6 +1930,66 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 ---
 
+## บทที่ 19
+
+**1** “ส่วนเจ้า จงยกบทคร่ำครวญขึ้นไว้อาลัยบรรดาเจ้านายแห่งอิสราเอล
+
+> ___
+
+**2** จงกล่าวว่า ‘มารดาของเจ้าเป็นอะไรหนอ นางเป็นดั่งนางสิงห์ท่ามกลางเหล่าสิงโต นางหมอบอยู่ท่ามกลางสิงโตหนุ่ม เลี้ยงดูลูกของนาง
+
+> ___
+
+**3** นางเลี้ยงลูกตัวหนึ่งจนเติบโตเป็นสิงโตหนุ่ม มันเรียนรู้ที่จะฉีกเหยื่อ และกินคน
+
+> ___
+
+**4** บรรดาประชาชาติได้ยินเรื่องของมัน มันก็ถูกจับในหลุมพรางของพวกเขา พวกเขาใช้ขอเกี่ยวลากมันไปยังแผ่นดินอียิปต์
+
+> ___
+
+**5** เมื่อนางเห็นว่าตนรอคอยเสียเปล่า ความหวังของนางก็สิ้นไป นางจึงเอาลูกอีกตัวหนึ่งมาเลี้ยงให้เป็นสิงโตหนุ่ม
+
+> ___
+
+**6** มันเที่ยวไปท่ามกลางเหล่าสิงโต กลายเป็นสิงโตหนุ่ม มันเรียนรู้ที่จะฉีกเหยื่อ และกินคน
+
+> ___
+
+**7** มันทำลายป้อมปราการของพวกเขา และทำให้เมืองของพวกเขาร้างเปล่า แผ่นดินกับสรรพสิ่งในนั้นก็หวาดหวั่นเพราะเสียงคำรามของมัน
+
+> ___
+
+**8** แล้วบรรดาประชาชาติจากแว่นแคว้นโดยรอบก็ยกมาต่อสู้มัน พวกเขากางตาข่ายคลุมมัน มันก็ถูกจับในหลุมพรางของพวกเขา
+
+> ___
+
+**9** พวกเขาเอาขอเกี่ยวลากมันใส่กรงขัง แล้วนำไปยังกษัตริย์บาบิโลน พาไปขังไว้ในที่คุมขัง เพื่อไม่ให้ได้ยินเสียงคำรามของมันบนภูเขาแห่งอิสราเอลอีกต่อไป
+
+> ___
+
+**10** มารดาของเจ้าเป็นดั่งเถาองุ่นในสวนองุ่นของเจ้า ปลูกไว้ริมน้ำ เกิดผลและมีกิ่งก้านมากมายเพราะน้ำบริบูรณ์
+
+> ___
+
+**11** เถานั้นมีกิ่งที่แข็งแรงเหมาะจะเป็นคทาของผู้ครอบครอง มันสูงตระหง่านเหนือกิ่งหนาทึบ เด่นสง่าด้วยความสูงและกิ่งก้านอันดกหนา
+
+> ___
+
+**12** แต่เถานั้นถูกถอนรากด้วยความพิโรธ ถูกเหวี่ยงลงดิน ลมตะวันออกพัดให้ผลของมันเหี่ยวแห้ง กิ่งที่แข็งแรงก็ถูกหักออกและเหี่ยวเฉา ไฟก็เผาผลาญมันเสีย
+
+> ___
+
+**13** บัดนี้มันถูกย้ายไปปลูกในถิ่นทุรกันดาร ในแผ่นดินที่แห้งแล้งและกระหายน้ำ
+
+> ___
+
+**14** ไฟได้ลามออกจากกิ่งใหญ่ของมัน เผาผลาญผลของมันเสีย จนไม่มีกิ่งที่แข็งแรงเหลืออยู่เลยที่จะเป็นคทาของผู้ครอบครอง นี่แหละเป็นบทคร่ำครวญ และจะใช้เป็นบทคร่ำครวญ”
+
+> ___
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -1954,4 +2014,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/ezekiel_16.json` | `b82c18c8c9c230f14823a45db0170484aad49fcbbad004b07b374918e98df8c0` |
 | `output/translations/ezekiel_17.json` | `55c5ef51e5ff91148e617140348874b56dc4773bd727a6465f2d54ee79ce1ea5` |
 | `output/translations/ezekiel_18.json` | `c470ae0071d943a2099234ddfd0fbb01bfcd0eb9e53104c5fae40219e85d3572` |
+| `output/translations/ezekiel_19.json` | `9bb5d4c3f4ad6c0020a211b95588c718041bb7fcb197a0a4410b93b3f32bfa22` |
 
