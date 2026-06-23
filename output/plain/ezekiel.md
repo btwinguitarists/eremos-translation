@@ -1,6 +1,6 @@
 # เอเสเคียล
 
-_Ezekiel — 1 chapter, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
+_Ezekiel — 2 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
 
 _This **plain edition** shows only the Thai translation — no commentary, no Greek, no English. Intended for Thai scholars and theological reviewers evaluating the translation on its own terms. For the annotated edition with contextual summaries (บริบท), see `output/reader/ezekiel.md`. For the underlying Greek, English (BSB) reference, and translator decisions per verse, see the per-chapter review reports at `output/check_reports/ezekiel_NN_review.md` or the source JSON at `output/translations/`._
 
@@ -75,6 +75,39 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 ---
 
+## บทที่ 2
+
+**1** พระองค์ตรัสกับข้าพเจ้าว่า “บุตรแห่งมนุษย์เอ๋ย จงลุกขึ้นยืน แล้วเราจะพูดกับเจ้า”
+
+**2** เมื่อพระองค์ตรัสนั้น พระวิญญาณก็เสด็จเข้ามาในข้าพเจ้าและทรงตั้งข้าพเจ้าให้ยืนขึ้น และข้าพเจ้าได้ยินพระองค์ผู้ตรัสกับข้าพเจ้า
+
+**3** พระองค์ตรัสกับข้าพเจ้าว่า “บุตรแห่งมนุษย์เอ๋ย เราจะส่งเจ้าไปยังชนอิสราเอล ไปยังบรรดาประชาชาติที่ชอบกบฏ ผู้ได้กบฏต่อเรา ทั้งพวกเขาและบรรพบุรุษของเขาได้ละเมิดต่อเรามาจนถึงทุกวันนี้
+
+**4** พวกเขาเป็นลูกหลานที่หน้าด้านและใจแข็งกระด้าง เราจะส่งเจ้าไปหาพวกเขา และเจ้าจงกล่าวแก่พวกเขาว่า ‘องค์พระผู้เป็นเจ้าตรัสดังนี้ว่า’
+
+**5** และไม่ว่าพวกเขาจะฟังหรือไม่ฟังก็ตาม เพราะพวกเขาเป็นวงศ์วานที่ชอบกบฏ พวกเขาก็จะรู้ว่ามีผู้เผยพระวจนะอยู่ท่ามกลางพวกเขาแล้ว
+
+**6** ส่วนเจ้า บุตรแห่งมนุษย์เอ๋ย อย่ากลัวพวกเขาหรือถ้อยคำของพวกเขาเลย แม้เจ้าจะอยู่ท่ามกลางหนามและพงหนาม และอาศัยอยู่ท่ามกลางแมงป่อง ก็อย่ากลัวถ้อยคำของพวกเขา และอย่าขยาดต่อหน้าพวกเขาเลย เพราะพวกเขาเป็นวงศ์วานที่ชอบกบฏ
+
+**7** เจ้าจงกล่าวถ้อยคำของเราแก่พวกเขา ไม่ว่าพวกเขาจะฟังหรือไม่ฟังก็ตาม เพราะพวกเขาเป็นพวกที่ชอบกบฏ
+
+**8** ส่วนเจ้า บุตรแห่งมนุษย์เอ๋ย จงฟังสิ่งที่เราพูดกับเจ้า อย่าเป็นพวกกบฏเหมือนวงศ์วานที่ชอบกบฏนั้น จงอ้าปากของเจ้าและกินสิ่งที่เราจะให้แก่เจ้า”
+
+**9** แล้วข้าพเจ้ามองดู และดูเถิด มีพระหัตถ์เหยียดออกมายังข้าพเจ้า และในพระหัตถ์นั้นมีหนังสือม้วนหนึ่ง
+
+**10** พระองค์ทรงคลี่หนังสือม้วนนั้นออกต่อหน้าข้าพเจ้า มีตัวอักษรเขียนไว้ทั้งด้านหน้าและด้านหลัง และสิ่งที่เขียนไว้นั้นคือคำคร่ำครวญ การร่ำไห้ และความวิบัติ
+
+---
+
+### หมายเหตุด้านต้นฉบับ
+
+**ข้อ 4** — หมายเหตุการแปลพระนามของพระเจ้า
+
+_**องค์พระผู้เป็นเจ้า** ในบทนี้ (ปรากฏครั้งแรกที่ข้อ 4) แปลจากรูปประสมภาษาฮีบรู אֲדֹנָי יְהוִה (อาโดนาย-ยาห์เวห์, ‘องค์เจ้านายพระยาห์เวห์’ — มักแปลกันว่า ‘พระเจ้าผู้ทรงเป็นเจ้านาย’). ฉบับเอเรโมสยุบรูปประสมนี้ให้เป็น **องค์พระผู้เป็นเจ้า** รูปเดียว ตามแบบแผนการแปล יהוה ของฉบับพันธสัญญาใหม่ และสำนวน כֹּה אָמַר אֲדֹנָי יְהוִה (‘องค์พระผู้เป็นเจ้าตรัสดังนี้ว่า’) เป็นสูตรการประกาศของผู้เผยพระวจนะ. ดูรายละเอียดเพิ่มเติมที่ docs/translator_decisions/divine_names_table_2026-05.md._
+
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -82,4 +115,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | Chapter file | SHA-256 |
 |---|---|
 | `output/translations/ezekiel_01.json` | `f699a6ad9279fcf0219320aa53cfef9b88bb925f975c5809b3ae9931d301422a` |
+| `output/translations/ezekiel_02.json` | `9ebb35bb24dcb57d6454221c873800babf60912331a332bbf546bed16f0fae32` |
 
