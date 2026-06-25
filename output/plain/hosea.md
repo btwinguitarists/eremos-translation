@@ -1,6 +1,6 @@
 # โฮเชยา
 
-_Hosea — 7 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
+_Hosea — 8 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
 
 _This **plain edition** shows only the Thai translation — no commentary, no Greek, no English. Intended for Thai scholars and theological reviewers evaluating the translation on its own terms. For the annotated edition with contextual summaries (บริบท), see `output/reader/hosea.md`. For the underlying Greek, English (BSB) reference, and translator decisions per verse, see the per-chapter review reports at `output/check_reports/hosea_NN_review.md` or the source JSON at `output/translations/`._
 
@@ -301,6 +301,47 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 ---
 
+## บทที่ 8
+
+**1** “จงเอาเขาสัตว์จ่อปากของเจ้า มีนกอินทรีโผบินอยู่เหนือพระนิเวศขององค์พระผู้เป็นเจ้า เพราะพวกเขาละเมิดพันธสัญญาของเรา และกบฏต่อธรรมบัญญัติของเรา
+
+**2** อิสราเอลร้องเรียกเราว่า ‘ข้าแต่พระเจ้าของข้าพระองค์ ข้าพระองค์ทั้งหลายรู้จักพระองค์’
+
+**3** แต่อิสราเอลได้ละทิ้งสิ่งดี ศัตรูจะไล่ตามเขา
+
+**4** พวกเขาตั้งกษัตริย์ขึ้นแต่ไม่ใช่โดยเรา ตั้งเจ้านายขึ้นโดยที่เราไม่เห็นชอบ พวกเขาเอาเงินและทองของตนมาทำรูปเคารพ เพื่อความพินาศของตนเอง
+
+**5** สะมาเรียเอ๋ย เราได้ทอดทิ้งรูปลูกวัวของเจ้า ความโกรธของเราพลุ่งขึ้นต่อพวกเขา อีกนานเท่าใดพวกเขาจึงจะบริสุทธิ์ได้
+
+**6** เพราะรูปนั้นมาจากอิสราเอล ช่างฝีมือเป็นผู้ทำมันขึ้น มันไม่ใช่พระเจ้า ลูกวัวแห่งสะมาเรียจะถูกทุบเป็นชิ้นเล็กชิ้นน้อย
+
+**7** เพราะพวกเขาหว่านลม พวกเขาจะเก็บเกี่ยวลมพายุหมุน ต้นข้าวไม่มีรวง สิ่งที่งอกขึ้นก็ไม่เกิดเป็นเมล็ดข้าว แม้จะเกิดผล คนต่างชาติก็จะกลืนกินมันเสีย
+
+**8** อิสราเอลถูกกลืนไปแล้ว บัดนี้พวกเขาอยู่ท่ามกลางประชาชาติเหมือนภาชนะที่ไร้ค่า
+
+**9** เพราะพวกเขาขึ้นไปหาอัสซีเรียเหมือนลาป่าที่เดินไปตามลำพัง เอฟราอิมได้จ้างชู้รักของตน
+
+**10** ถึงแม้พวกเขาจ้างพันธมิตรท่ามกลางประชาชาติ บัดนี้เราจะรวบรวมพวกเขาไว้ และพวกเขาจะเริ่มเสื่อมถอยลงภายใต้การกดขี่ของกษัตริย์ผู้ยิ่งใหญ่
+
+**11** ถึงแม้เอฟราอิมได้สร้างแท่นบูชาขึ้นมากมายเพื่อกำจัดบาป แต่แท่นเหล่านั้นกลับกลายเป็นแท่นแห่งการทำบาปสำหรับเขา
+
+**12** ถึงแม้เราได้เขียนสิ่งสำคัญมากมายแห่งธรรมบัญญัติของเราไว้ให้พวกเขา แต่พวกเขากลับถือว่ามันเป็นสิ่งแปลกประหลาด
+
+**13** พวกเขาถวายเครื่องสัตวบูชาเป็นเครื่องบรรณาการแก่เรา และกินเนื้อนั้น แต่องค์พระผู้เป็นเจ้าไม่ทรงโปรดปรานพวกเขา บัดนี้พระองค์จะทรงระลึกถึงความผิดของพวกเขา และจะลงโทษบาปของพวกเขา พวกเขาจะกลับไปยังอียิปต์
+
+**14** อิสราเอลได้ลืมพระผู้สร้างของตน และสร้างวังต่าง ๆ ยูดาห์ก็สร้างเมืองป้อมปราการมากมาย แต่เราจะส่งไฟมาเหนือเมืองทั้งหลายของพวกเขา และไฟจะเผาผลาญป้อมปราการของพวกเขา
+
+---
+
+### หมายเหตุด้านต้นฉบับ
+
+**ข้อ 1** — หมายเหตุการแปลพระนามของพระเจ้า
+
+_**องค์พระผู้เป็นเจ้า** ในบทนี้ (ปรากฏครั้งแรกที่ข้อ 1 ‘พระนิเวศของ יהוה’) แปลจากภาษาฮีบรู יהוה (พระนามเฉพาะของพระเจ้า ออกเสียงว่า ‘ยาห์เวห์’) ตามแบบแผนของฉบับพันธสัญญาใหม่ในการแปล κύριος. พระนาม יהוה ปรากฏที่ข้อ 1 และ 13. ดูรายละเอียดที่ docs/translator_decisions/divine_names_table_2026-05.md._
+
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -314,4 +355,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/hosea_05.json` | `43c6a340399b6d63a337a137419f49899ea5dc7e810c1973d03c55a02b1d091e` |
 | `output/translations/hosea_06.json` | `2a2382a8bd0c422c144b3ca9afed80bfa98c912b8f8a72bc09df5dd6c4e03b11` |
 | `output/translations/hosea_07.json` | `9e72963a4c1c168bbd994e9177c5f2e59fc6ed52f1f67a532bf82388dfd1edca` |
+| `output/translations/hosea_08.json` | `ab488984e288070433c968295188562a24a5fc8a5732a70de178aea181374d25` |
 
