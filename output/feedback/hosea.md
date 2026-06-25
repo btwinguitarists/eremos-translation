@@ -1,6 +1,6 @@
 # โฮเชยา
 
-_Hosea — 2 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
+_Hosea — 3 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
 
 _This **feedback edition** is the plain Thai translation with a `>` placeholder block under each verse for reviewer comments. **See the instructions immediately below before reading.** For the annotated edition (with contextual summaries), see `output/reader/hosea.md`; for the verses-only edition (no comment blocks), see `output/plain/hosea.md`._
 
@@ -194,6 +194,39 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 ---
 
+## บทที่ 3
+
+**1** แล้วองค์พระผู้เป็นเจ้าตรัสกับข้าพเจ้าว่า “จงไปอีกครั้ง จงแสดงความรักต่อหญิงผู้เป็นที่รักของชายอื่นและเป็นหญิงล่วงประเวณี จงรักนางเหมือนที่องค์พระผู้เป็นเจ้าทรงรักชนอิสราเอล แม้พวกเขาจะหันไปหาพระอื่นและชอบถวายขนมองุ่นแห้งแก่รูปเคารพ”
+
+> ___
+
+**2** ดังนั้นข้าพเจ้าจึงซื้อนางมาเป็นของข้าพเจ้าด้วยเงินสิบห้าเชเขล ข้าวบาร์เลย์หนึ่งโฮเมอร์กับอีกหนึ่งเลเทค
+
+> ___
+
+**3** แล้วข้าพเจ้ากล่าวกับนางว่า “เจ้าจะต้องอยู่กับฉันหลายวัน เจ้าต้องไม่เล่นชู้และต้องไม่เป็นของชายอื่น และฉันก็จะทำเช่นเดียวกันต่อเจ้า”
+
+> ___
+
+**4** เพราะชนอิสราเอลจะต้องอยู่หลายวันโดยไม่มีกษัตริย์หรือเจ้านาย ไม่มีเครื่องสัตวบูชาหรือเสาศักดิ์สิทธิ์ และไม่มีเอโฟดหรือรูปเคารพประจำบ้าน
+
+> ___
+
+**5** ภายหลังชนอิสราเอลจะกลับมาแสวงหาองค์พระผู้เป็นเจ้าพระเจ้าของพวกเขา และดาวิดกษัตริย์ของพวกเขา พวกเขาจะมาเฝ้าองค์พระผู้เป็นเจ้าด้วยความเกรงกลัว และแสวงหาความดีของพระองค์ในยุคสุดท้าย
+
+> ___
+
+---
+
+### หมายเหตุด้านต้นฉบับ
+
+**ข้อ 1** — หมายเหตุการแปลพระนามของพระเจ้า
+
+_**องค์พระผู้เป็นเจ้า** ในบทนี้ (ปรากฏครั้งแรกที่ข้อ 1) แปลจากภาษาฮีบรู יהוה (พระนามเฉพาะของพระเจ้า ออกเสียงว่า ‘ยาห์เวห์’) ตามแบบแผนของฉบับพันธสัญญาใหม่ในการแปล κύριος. พระนาม יהוה ปรากฏที่ข้อ 1 และ 5. ดูรายละเอียดที่ docs/translator_decisions/divine_names_table_2026-05.md._
+
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -202,4 +235,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 |---|---|
 | `output/translations/hosea_01.json` | `b3c17f271aeae0d2ad951b76405d291c4422d8c65f962d49183847b2f261e1bc` |
 | `output/translations/hosea_02.json` | `02a920ae66a408df98c60246a956209fcc0134b2b52e2cf93c97aec9f1f8473a` |
+| `output/translations/hosea_03.json` | `dad3c3cf48ddb8007e18b7ce4ebf9e72e6a23f2c54ce272e87b70f2cf8356e24` |
 

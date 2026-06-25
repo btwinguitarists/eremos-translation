@@ -1,6 +1,6 @@
 # โฮเชยา
 
-_Hosea — 2 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
+_Hosea — 3 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
 
 _This reader edition shows the Thai translation and the contextual summary (บริบท) where one is provided. The contextual summaries are AI-generated editorial commentary, not part of the biblical text. For a plain verses-only edition (recommended for scholarly review), see `output/plain/hosea.md`. For the underlying Greek, English (BSB) reference, and translator decisions per verse, see the per-chapter review reports at `output/check_reports/hosea_NN_review.md` or the source JSON at `output/translations/`._
 
@@ -126,6 +126,35 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 ---
 
+## บทที่ 3
+
+**1** แล้วองค์พระผู้เป็นเจ้าตรัสกับข้าพเจ้าว่า “จงไปอีกครั้ง จงแสดงความรักต่อหญิงผู้เป็นที่รักของชายอื่นและเป็นหญิงล่วงประเวณี จงรักนางเหมือนที่องค์พระผู้เป็นเจ้าทรงรักชนอิสราเอล แม้พวกเขาจะหันไปหาพระอื่นและชอบถวายขนมองุ่นแห้งแก่รูปเคารพ”
+
+> _บริบท: ละครเชิงพยากรณ์ครั้งที่สอง: พระเจ้าทรงสั่งให้โฮเชยากลับไปรักภรรยาที่ไม่ซื่อสัตย์อีกครั้ง สะท้อนความรักที่ไม่ยอมเลิกราของพระเจ้าต่ออิสราเอลผู้ทรยศ ความรักของพระเจ้าไม่ขึ้นกับความดีของผู้ที่พระองค์ทรงรัก_
+
+**2** ดังนั้นข้าพเจ้าจึงซื้อนางมาเป็นของข้าพเจ้าด้วยเงินสิบห้าเชเขล ข้าวบาร์เลย์หนึ่งโฮเมอร์กับอีกหนึ่งเลเทค
+
+**3** แล้วข้าพเจ้ากล่าวกับนางว่า “เจ้าจะต้องอยู่กับฉันหลายวัน เจ้าต้องไม่เล่นชู้และต้องไม่เป็นของชายอื่น และฉันก็จะทำเช่นเดียวกันต่อเจ้า”
+
+**4** เพราะชนอิสราเอลจะต้องอยู่หลายวันโดยไม่มีกษัตริย์หรือเจ้านาย ไม่มีเครื่องสัตวบูชาหรือเสาศักดิ์สิทธิ์ และไม่มีเอโฟดหรือรูปเคารพประจำบ้าน
+
+> _บริบท: ช่วงเวลา ‘หลายวัน’ ที่ภรรยาต้องรอ เป็นภาพการเนรเทศของอิสราเอล: ถูกพรากทั้งสถาบันที่ถูกต้อง (กษัตริย์ เครื่องบูชา) และที่ผิด (เสาศักดิ์สิทธิ์ เอโฟด รูปเคารพ) เป็นการชำระให้บริสุทธิ์ก่อนการฟื้นฟู_
+
+**5** ภายหลังชนอิสราเอลจะกลับมาแสวงหาองค์พระผู้เป็นเจ้าพระเจ้าของพวกเขา และดาวิดกษัตริย์ของพวกเขา พวกเขาจะมาเฝ้าองค์พระผู้เป็นเจ้าด้วยความเกรงกลัว และแสวงหาความดีของพระองค์ในยุคสุดท้าย
+
+> _บริบท: คำสัญญาแห่งการฟื้นฟู: อิสราเอลจะกลับมาแสวงหาทั้งพระเจ้าและ ‘ดาวิดกษัตริย์ของพวกเขา’ ใน ‘ยุคสุดท้าย’ ความหวังเรื่องกษัตริย์ในเชื้อสายดาวิดนี้ (เทียบ อสค. 34:23-24; 37:24) เป็นความหวังที่พันธสัญญาใหม่ระบุว่าสำเร็จในพระเยซู ผู้ทรงสืบเชื้อสายจากดาวิด_
+
+---
+
+### หมายเหตุด้านต้นฉบับ
+
+**ข้อ 1** — หมายเหตุการแปลพระนามของพระเจ้า
+
+_**องค์พระผู้เป็นเจ้า** ในบทนี้ (ปรากฏครั้งแรกที่ข้อ 1) แปลจากภาษาฮีบรู יהוה (พระนามเฉพาะของพระเจ้า ออกเสียงว่า ‘ยาห์เวห์’) ตามแบบแผนของฉบับพันธสัญญาใหม่ในการแปล κύριος. พระนาม יהוה ปรากฏที่ข้อ 1 และ 5. ดูรายละเอียดที่ docs/translator_decisions/divine_names_table_2026-05.md._
+
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -134,4 +163,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 |---|---|
 | `output/translations/hosea_01.json` | `b3c17f271aeae0d2ad951b76405d291c4422d8c65f962d49183847b2f261e1bc` |
 | `output/translations/hosea_02.json` | `02a920ae66a408df98c60246a956209fcc0134b2b52e2cf93c97aec9f1f8473a` |
+| `output/translations/hosea_03.json` | `dad3c3cf48ddb8007e18b7ce4ebf9e72e6a23f2c54ce272e87b70f2cf8356e24` |
 
