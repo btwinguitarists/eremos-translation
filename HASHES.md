@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-06-24 12:07:15 UTC_
-_Total chapters: 1115 · Total verses: 29841_
+_Generated: 2026-06-25 03:41:46 UTC_
+_Total chapters: 1116 · Total verses: 29864_
 
 ## How to verify a chapter
 
@@ -430,7 +430,8 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/ezekiel_34.json` | 31 | `20c448ff605e86a51771f761d27990ba296c331f7a1f149bf86962fe7916ed7d` | `24d8103c` |
 | `output/translations/ezekiel_35.json` | 15 | `03307308b5f78ddf8654b93c2e1decaeae9adb884c71b0ab4277cf2ff33943f1` | `fe23d7e7` |
 | `output/translations/ezekiel_36.json` | 38 | `82e430be22de6d83878b62c56218b0a5ea06d525b96f800626f10b0de2c73705` | `b8c6c561` |
-| `output/translations/ezekiel_37.json` | 28 | `2f0a6fe3022748d4f82b5bfe05e2671fdfc7791f336e45e644c0d94c8490c15b` | `—` |
+| `output/translations/ezekiel_37.json` | 28 | `2f0a6fe3022748d4f82b5bfe05e2671fdfc7791f336e45e644c0d94c8490c15b` | `42466e74` |
+| `output/translations/ezekiel_38.json` | 23 | `b63c21f5c68775919e11185538f8e1ce7d510600a2a4c8f026b584a4083d6a9d` | `—` |
 | `output/translations/ezra_01.json` | 11 | `cf32ab30514d97e0f39b13a2d0cff9a3de1c25bcbb957edcba98f9d8658d1c23` | `02f2ae35` |
 | `output/translations/ezra_02.json` | 70 | `9b404a85fb9a10bcaa2cfb0fdc6c67850596dc17eb4f4dbfb388fdc8dc514b1b` | `b028ab3c` |
 | `output/translations/ezra_03.json` | 13 | `c5626715e3c69afed37f27016bc20fd10df89ea034c10e4db6d1f8d7b0be57a0` | `bdb6697e` |
