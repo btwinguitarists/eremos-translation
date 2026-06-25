@@ -96,6 +96,7 @@ BOOKS = {
     "ISA": ("isaiah", "Isaiah"),
     "JER": ("jeremiah", "Jeremiah"),
     "LAM": ("lamentations", "Lamentations"),
+    "EZK": ("ezekiel", "Ezekiel"),
 }
 
 # OT book codes — the prompt branches on testament so OT packets reference
