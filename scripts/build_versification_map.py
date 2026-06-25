@@ -157,6 +157,35 @@ def build_malachi_entries() -> dict[str, dict]:
     return entries
 
 
+def build_hosea_entries() -> dict[str, dict]:
+    """Hosea: MT 2:1-2 = English 1:10-11; MT 2:3-25 = English 2:1-23.
+
+    English/KJV keep the Hosea 1/2 chapter boundary two verses earlier than the
+    MT (English 1:10-11 are MT 2:1-2), so all of MT Hosea 2 (25 verses) is
+    shifted +2 against the English numbering. Only chapter 2 diverges; chapters
+    3-14 re-sync.
+    """
+    entries: dict[str, dict] = {}
+    for v in range(1, 26):
+        if v == 1:
+            eng_ref = "Hosea 1:10"
+        elif v == 2:
+            eng_ref = "Hosea 1:11"
+        else:
+            eng_ref = f"Hosea 2:{v - 2}"
+        entries[f"HOS-2-{v}"] = {
+            "mt_book": "HOS",
+            "mt_chapter": 2,
+            "mt_verse": v,
+            "mt_ref": f"Hosea 2:{v}",
+            "english_ref": eng_ref,
+            "bsb_ref": eng_ref,
+            "lxx_ref": f"Hosea 2:{v}",
+            "diverges": True,
+        }
+    return entries
+
+
 def build_aramaic_boundary_entries() -> dict[str, dict]:
     """Mark Aramaic-section boundary verses (Dan 2:4 Heb→Aram, Ezra 4:8, 7:12, etc.).
 
@@ -320,6 +349,7 @@ def main():
     psalm_entries = build_psalm_entries()
     joel_entries = build_joel_entries()
     mal_entries = build_malachi_entries()
+    hosea_entries = build_hosea_entries()
     aramaic_entries = build_aramaic_boundary_entries()
     minor_entries = build_minor_shift_entries()
     ecc_entries = build_ecclesiastes_entries()
@@ -346,6 +376,7 @@ def main():
     out.update(psalm_entries)
     out.update(joel_entries)
     out.update(mal_entries)
+    out.update(hosea_entries)
     out.update(aramaic_entries)
     out.update(minor_entries)
     out.update(ecc_entries)
