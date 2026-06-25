@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-06-25 23:13:41 UTC_
-_Total chapters: 1135 · Total verses: 30284_
+_Generated: 2026-06-25 23:38:46 UTC_
+_Total chapters: 1136 · Total verses: 30299_
 
 ## How to verify a chapter
 
@@ -529,7 +529,8 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/hosea_06.json` | 11 | `2a2382a8bd0c422c144b3ca9afed80bfa98c912b8f8a72bc09df5dd6c4e03b11` | `e383a49b` |
 | `output/translations/hosea_07.json` | 16 | `9e72963a4c1c168bbd994e9177c5f2e59fc6ed52f1f67a532bf82388dfd1edca` | `9ab691e7` |
 | `output/translations/hosea_08.json` | 14 | `ab488984e288070433c968295188562a24a5fc8a5732a70de178aea181374d25` | `c5b591ce` |
-| `output/translations/hosea_09.json` | 17 | `ff0ea584dcfb4b73b77669e765a0e9dacffc7f7cf38b46cbb23e7da56583c72f` | `—` |
+| `output/translations/hosea_09.json` | 17 | `ff0ea584dcfb4b73b77669e765a0e9dacffc7f7cf38b46cbb23e7da56583c72f` | `dc475630` |
+| `output/translations/hosea_10.json` | 15 | `028b5e4dd44f8a38e485e83460959d58a891e3b4d2e87b84d78a36707e71fc3e` | `—` |
 | `output/translations/isaiah_01.json` | 31 | `06f9c6aa67086fde760a70a36e205b594b88b6e5699ac556d440b324002681f0` | `29621376` |
 | `output/translations/isaiah_02.json` | 22 | `b5771f7f6ae768851f7ec6a8d72d44659d5c29041687ecbd6543a64131a630bf` | `2078c78b` |
 | `output/translations/isaiah_03.json` | 26 | `75f90571d7ea56e9e53cd817c57f33635aec725e003cbfb5a160429864e3361b` | `777ad6f6` |
