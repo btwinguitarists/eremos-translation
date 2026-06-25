@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-06-25 08:36:25 UTC_
-_Total chapters: 1126 · Total verses: 30153_
+_Generated: 2026-06-25 19:31:21 UTC_
+_Total chapters: 1127 · Total verses: 30162_
 
 ## How to verify a chapter
 
@@ -441,7 +441,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/ezekiel_45.json` | 25 | `de3ffa5367562576a6b4b54e3a011b01861ed80ae0377d39360f2de852a9de91` | `5a78ee73` |
 | `output/translations/ezekiel_46.json` | 24 | `f54f911d5fdf531e6ddd75d94635a452f97aa8ea8d21ce23f0dc54250226c785` | `4a79c97e` |
 | `output/translations/ezekiel_47.json` | 23 | `64faf79daddf56a6ce2bc0f9805eb9b2610f0461e772459a28626cb558067c8b` | `c072f00e` |
-| `output/translations/ezekiel_48.json` | 35 | `fa36d499ce3693fde1a535d237090a4f105fd970063eb7f3ba2b54ac304a2db1` | `—` |
+| `output/translations/ezekiel_48.json` | 35 | `fa36d499ce3693fde1a535d237090a4f105fd970063eb7f3ba2b54ac304a2db1` | `18485408` |
 | `output/translations/ezra_01.json` | 11 | `cf32ab30514d97e0f39b13a2d0cff9a3de1c25bcbb957edcba98f9d8658d1c23` | `02f2ae35` |
 | `output/translations/ezra_02.json` | 70 | `9b404a85fb9a10bcaa2cfb0fdc6c67850596dc17eb4f4dbfb388fdc8dc514b1b` | `b028ab3c` |
 | `output/translations/ezra_03.json` | 13 | `c5626715e3c69afed37f27016bc20fd10df89ea034c10e4db6d1f8d7b0be57a0` | `bdb6697e` |
@@ -521,6 +521,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/hebrews_11.json` | 40 | `25f6fd534a784d95501f31a3c9aaf59eabdc1d616fbc8282cc599fdc3ca1b2f5` | `f6bc480f` |
 | `output/translations/hebrews_12.json` | 29 | `ab3705d42e1a3a90996eae4d9a7a43feb175487ec04766f594eb18133c255a8a` | `e06d560d` |
 | `output/translations/hebrews_13.json` | 25 | `cd1f0202551281b52dc8ea05f213503bbf3b080ea423451171a65492b1ff0ee4` | `9ec9a94c` |
+| `output/translations/hosea_01.json` | 9 | `b3c17f271aeae0d2ad951b76405d291c4422d8c65f962d49183847b2f261e1bc` | `—` |
 | `output/translations/isaiah_01.json` | 31 | `06f9c6aa67086fde760a70a36e205b594b88b6e5699ac556d440b324002681f0` | `29621376` |
 | `output/translations/isaiah_02.json` | 22 | `b5771f7f6ae768851f7ec6a8d72d44659d5c29041687ecbd6543a64131a630bf` | `2078c78b` |
 | `output/translations/isaiah_03.json` | 26 | `75f90571d7ea56e9e53cd817c57f33635aec725e003cbfb5a160429864e3361b` | `777ad6f6` |
