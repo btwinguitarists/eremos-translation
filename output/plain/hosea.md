@@ -1,6 +1,6 @@
 # โฮเชยา
 
-_Hosea — 5 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
+_Hosea — 6 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
 
 _This **plain edition** shows only the Thai translation — no commentary, no Greek, no English. Intended for Thai scholars and theological reviewers evaluating the translation on its own terms. For the annotated edition with contextual summaries (บริบท), see `output/reader/hosea.md`. For the underlying Greek, English (BSB) reference, and translator decisions per verse, see the per-chapter review reports at `output/check_reports/hosea_NN_review.md` or the source JSON at `output/translations/`._
 
@@ -221,6 +221,41 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 ---
 
+## บทที่ 6
+
+**1** “มาเถิด ให้เรากลับไปหาองค์พระผู้เป็นเจ้า เพราะพระองค์ทรงฉีกเราออก แต่พระองค์จะทรงรักษาเราให้หาย พระองค์ทรงทำให้เราบาดเจ็บ แต่พระองค์จะทรงพันแผลให้เรา
+
+**2** ภายในสองวันพระองค์จะทรงให้เรากลับมีชีวิต ในวันที่สามพระองค์จะทรงยกเราขึ้น เพื่อเราจะมีชีวิตอยู่ต่อพระพักตร์พระองค์
+
+**3** ให้เรารู้จัก ให้เรามุ่งมั่นที่จะรู้จักองค์พระผู้เป็นเจ้า พระองค์จะเสด็จมาแน่นอนเหมือนรุ่งอรุณ พระองค์จะเสด็จมาหาเราเหมือนฝน เหมือนฝนปลายฤดูที่รดแผ่นดิน
+
+**4** เอฟราอิมเอ๋ย เราจะทำอย่างไรกับเจ้าดี ยูดาห์เอ๋ย เราจะทำอย่างไรกับเจ้าดี เพราะความรักมั่นคงของพวกเจ้าเป็นเหมือนหมอกยามเช้า เหมือนน้ำค้างที่จางหายไปแต่เช้าตรู่
+
+**5** เพราะฉะนั้นเราจึงโค่นพวกเขาด้วยผู้เผยพระวจนะ เราสังหารพวกเขาด้วยถ้อยคำจากปากของเรา และคำพิพากษาของเราออกไปเหมือนแสงสว่าง
+
+**6** เพราะเราประสงค์ความรักมั่นคง ไม่ใช่เครื่องสัตวบูชา และประสงค์ความรู้จักพระเจ้ายิ่งกว่าเครื่องเผาบูชา
+
+**7** แต่พวกเขาละเมิดพันธสัญญาเหมือนอาดัม ที่นั่นพวกเขาทรยศต่อเรา
+
+**8** กิเลอาดเป็นเมืองของคนทำชั่ว เปื้อนรอยเท้าที่มีเลือด
+
+**9** บรรดาปุโรหิตรวมหัวกันเหมือนโจรที่ซุ่มดักปล้น พวกเขาฆ่าคนบนทางไปเชเคม พวกเขาได้ทำความชั่วร้ายอย่างน่าสยดสยอง
+
+**10** ในพงศ์พันธุ์อิสราเอลเราได้เห็นสิ่งที่น่าสยดสยอง คือการเล่นชู้ของเอฟราอิม อิสราเอลเป็นมลทินแล้ว
+
+**11** ยูดาห์เอ๋ย สำหรับเจ้าก็เช่นกัน มีฤดูเกี่ยวกำหนดไว้ เมื่อเรานำประชากรของเรากลับจากการเป็นเชลย
+
+---
+
+### หมายเหตุด้านต้นฉบับ
+
+**ข้อ 1** — หมายเหตุการแปลพระนามของพระเจ้า
+
+_**องค์พระผู้เป็นเจ้า** ในบทนี้ (ปรากฏครั้งแรกที่ข้อ 1) แปลจากภาษาฮีบรู יהוה (พระนามเฉพาะของพระเจ้า ออกเสียงว่า ‘ยาห์เวห์’) ตามแบบแผนของฉบับพันธสัญญาใหม่ในการแปล κύριος. พระนาม יהוה ปรากฏที่ข้อ 1 และ 3. หมายเหตุ: ข้อ 6 ‘ความรักมั่นคง’ (חֶסֶד) แปลตามแบบแผนของคำว่าเฮเสดทั่วทั้งฉบับ ฉบับเซปทัวจินต์แปลเป็น ἔλεος ‘ความเมตตา’ ซึ่งเป็นรูปที่พระเยซูทรงอ้างใน มธ. 9:13 และ 12:7. ดูรายละเอียดที่ docs/translator_decisions/divine_names_table_2026-05.md._
+
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -232,4 +267,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/hosea_03.json` | `dad3c3cf48ddb8007e18b7ce4ebf9e72e6a23f2c54ce272e87b70f2cf8356e24` |
 | `output/translations/hosea_04.json` | `9386f1d369dd9100cc2bb11f6f139412f55167ff326cdfb8c29c816dcf7d8bfb` |
 | `output/translations/hosea_05.json` | `43c6a340399b6d63a337a137419f49899ea5dc7e810c1973d03c55a02b1d091e` |
+| `output/translations/hosea_06.json` | `2a2382a8bd0c422c144b3ca9afed80bfa98c912b8f8a72bc09df5dd6c4e03b11` |
 
