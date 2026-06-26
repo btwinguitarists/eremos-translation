@@ -89,6 +89,7 @@ BOOK_SLUGS = {
     "ISA": "isaiah",
     "JER": "jeremiah",
     "EZK": "ezekiel",
+    "HOS": "hosea",
 }
 
 TODO_TH = "__TODO_TH__"
