@@ -177,6 +177,20 @@ def build_micah_entries() -> dict[str, dict]:
         "lxx_ref": "Micah 4:14",
         "diverges": True,
     }
+    # MT chapter 5 runs one ahead of English: MT 5:N = English 5:N+1
+    # (MT 5:1 = English 5:2, the Bethlehem prophecy; MT 5:14 = English 5:15).
+    for v in range(1, 15):
+        entries[f"MIC-5-{v}"] = {
+            "mt_book": "MIC",
+            "mt_chapter": 5,
+            "mt_verse": v,
+            "mt_ref": f"Micah 5:{v}",
+            "english_ref": f"Micah 5:{v + 1}",
+            "bsb_ref": f"Micah 5:{v + 1}",
+            "lxx_ref": f"Micah 5:{v}",
+            "diverges": True,
+            "nt_citations": ["MAT 2:6"] if v == 1 else [],
+        }
     return entries
 
 
