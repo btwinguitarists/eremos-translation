@@ -158,14 +158,19 @@ def build_malachi_entries() -> dict[str, dict]:
 
 
 def build_hosea_entries() -> dict[str, dict]:
-    """Hosea: MT 2:1-2 = English 1:10-11; MT 2:3-25 = English 2:1-23.
+    """Hosea chapter-boundary divergences between the MT and English/KJV numbering.
 
-    English/KJV keep the Hosea 1/2 chapter boundary two verses earlier than the
-    MT (English 1:10-11 are MT 2:1-2), so all of MT Hosea 2 (25 verses) is
-    shifted +2 against the English numbering. Only chapter 2 diverges; chapters
-    3-14 re-sync.
+    English/KJV place three chapter boundaries one or two verses earlier than the
+    MT, so three MT chapters are shifted against the English numbering:
+
+    * Chapter 2  — MT 2:1-2 = English 1:10-11; MT 2:3-25 = English 2:1-23 (+2 shift).
+    * Chapter 12 — MT 12:1 = English 11:12; MT 12:2-15 = English 12:1-14 (-1 shift).
+
+    Chapters 3-11 and 13 re-sync. (Chapter 14 also diverges — MT 14:1 = English
+    13:16 — and is added when that chapter is translated.)
     """
     entries: dict[str, dict] = {}
+    # --- Chapter 2: MT 2:1-2 = Eng 1:10-11; MT 2:3-25 = Eng 2:1-23 ---
     for v in range(1, 26):
         if v == 1:
             eng_ref = "Hosea 1:10"
@@ -181,6 +186,19 @@ def build_hosea_entries() -> dict[str, dict]:
             "english_ref": eng_ref,
             "bsb_ref": eng_ref,
             "lxx_ref": f"Hosea 2:{v}",
+            "diverges": True,
+        }
+    # --- Chapter 12: MT 12:1 = Eng 11:12; MT 12:2-15 = Eng 12:1-14 ---
+    for v in range(1, 16):
+        eng_ref = "Hosea 11:12" if v == 1 else f"Hosea 12:{v - 1}"
+        entries[f"HOS-12-{v}"] = {
+            "mt_book": "HOS",
+            "mt_chapter": 12,
+            "mt_verse": v,
+            "mt_ref": f"Hosea 12:{v}",
+            "english_ref": eng_ref,
+            "bsb_ref": eng_ref,
+            "lxx_ref": f"Hosea 12:{v}",
             "diverges": True,
         }
     return entries
