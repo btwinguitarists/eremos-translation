@@ -103,6 +103,7 @@ BOOKS = {
     "OBA": ("obadiah", "Obadiah"),
     "MIC": ("micah", "Micah"),
     "NAM": ("nahum", "Nahum"),
+    "HAB": ("habakkuk", "Habakkuk"),
 }
 
 # OT book codes — the prompt branches on testament so OT packets reference
