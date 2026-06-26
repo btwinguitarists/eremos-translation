@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-06-26 08:21:29 UTC_
-_Total chapters: 1154 · Total verses: 30590_
+_Generated: 2026-06-26 08:54:30 UTC_
+_Total chapters: 1155 · Total verses: 30606_
 
 ## How to verify a chapter
 
@@ -884,6 +884,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/matthew_26.json` | 75 | `d4aae1cfd129168927958ea2498c9499206a6ae0b0811f2b36eef24a000940cc` | `b64d4872` |
 | `output/translations/matthew_27.json` | 66 | `ede80c0f042b5e0c0e3fd315a0d79755083465fb618d7e121d749e2a283d9a1c` | `b64d4872` |
 | `output/translations/matthew_28.json` | 20 | `08b0d3ac30a8cd650af17b3745333beb29228308b6429b951f984b5a845c843b` | `6d15bb1a` |
+| `output/translations/micah_01.json` | 16 | `b0590e735f30745b26a3278361482d9f4da71a3f28244d3c13b0177ace268015` | `—` |
 | `output/translations/nehemiah_01.json` | 11 | `21fd88d60f52660f316693c96cfe1bca291ea6fb85bf52a5f398bfe6a80d7599` | `d34d7149` |
 | `output/translations/nehemiah_02.json` | 20 | `198d1629662dffce69e7096e86367204a644e489701e8160842376612bd788f8` | `8bc9e3fa` |
 | `output/translations/nehemiah_03.json` | 38 | `e70be8ccad581c8ee31f3b728f5e4a52fad4b5a8940b303db67322afe295d69e` | `29836920` |
@@ -933,7 +934,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/numbers_34.json` | 29 | `70c5d53937e75d627ec16d030e5a02103f379cae03377084cf92c29594c026b9` | `6fd567a6` |
 | `output/translations/numbers_35.json` | 34 | `794c860bad96f65096e945482b542ab68a85cddb0d7078eaea0b71b46cae964a` | `b4691b12` |
 | `output/translations/numbers_36.json` | 13 | `6e9e247941dbbfb9be93abd31182011a6d77fcf6ffa6ce264f9fbf14bb7c6051` | `9a54c5d0` |
-| `output/translations/obadiah_01.json` | 21 | `824b0bb72b1c0f7f5290789bc401b3e5e9a8427f310e6d71da916aba9e98a291` | `—` |
+| `output/translations/obadiah_01.json` | 21 | `824b0bb72b1c0f7f5290789bc401b3e5e9a8427f310e6d71da916aba9e98a291` | `b5c1ec65` |
 | `output/translations/philemon_01.json` | 25 | `359420f302149807f4a1c6632aa1d7732d695fbecbba9647e8a4d596c2e3ac26` | `220261e3` |
 | `output/translations/philippians_01.json` | 30 | `84de2a78e3aba6b29f065026acbb0931dec0ccea802466e449475014743e14ef` | `fc0b282e` |
 | `output/translations/philippians_02.json` | 30 | `5851608ec7714eab2efa8e443a50c8d3917a1f1b08f443c2d8813333a6ea4869` | `65b5241c` |
