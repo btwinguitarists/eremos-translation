@@ -99,6 +99,7 @@ BOOKS = {
     "EZK": ("ezekiel", "Ezekiel"),
     "HOS": ("hosea", "Hosea"),
     "JOL": ("joel", "Joel"),
+    "AMO": ("amos", "Amos"),
 }
 
 # OT book codes — the prompt branches on testament so OT packets reference
