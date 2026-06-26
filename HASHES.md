@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-06-26 13:07:11 UTC_
-_Total chapters: 1164 · Total verses: 30742_
+_Generated: 2026-06-26 13:42:42 UTC_
+_Total chapters: 1165 · Total verses: 30759_
 
 ## How to verify a chapter
 
@@ -517,6 +517,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/genesis_48.json` | 22 | `f7922152fa96da6cffe42694c4f16bb46c5458ccf57c9894cf3d30cf689607d4` | `f6ace63b` |
 | `output/translations/genesis_49.json` | 33 | `c994d93d6916e40dce6dd481b7ee9e9cd1d9df3bbeaad78cc80c1c4796ea0eee` | `f6ace63b` |
 | `output/translations/genesis_50.json` | 26 | `3b7656df20b341de430745cb3a4e6a0a666d1dda7438b6b6af38e298104f80e6` | `f6ace63b` |
+| `output/translations/habakkuk_01.json` | 17 | `19e1d419afe064dd6092ed8402cf0dff38e5a9d5706b93ddf752085166d76b07` | `—` |
 | `output/translations/hebrews_01.json` | 14 | `f57cde0ff89f59a30df5b6e386e9ca302a66ca3ab4b657ac0106d380b45b0ab3` | `b64d4872` |
 | `output/translations/hebrews_02.json` | 18 | `19861717616df0e6dd2d83a68b0ec5f62cbd07e944563e0808259a192409df48` | `b64d4872` |
 | `output/translations/hebrews_03.json` | 19 | `2304367411023a3ebe7fb048eecc1189be931fdc7159c67d6648c9837d789664` | `a9bee188` |
@@ -893,7 +894,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/micah_07.json` | 20 | `c55bc66d6d8810d899791a54475111bd9e3f01e23be253e5c5637ac37d5b89f6` | `e5b9b895` |
 | `output/translations/nahum_01.json` | 14 | `bbab165da07e8e55cf037a31fe39d467ccc5cd83eeb123c2179a8444d6c4971a` | `49c2d08e` |
 | `output/translations/nahum_02.json` | 14 | `7a88bf98797b323054dad38692e4d01bb93394bad8d9720a3a142c8f72a1ee92` | `9e7a6e89` |
-| `output/translations/nahum_03.json` | 19 | `6efe5c9364d833b147f8af638b1fbdba528edc14fc14ade56d15e471ce7fa22c` | `—` |
+| `output/translations/nahum_03.json` | 19 | `6efe5c9364d833b147f8af638b1fbdba528edc14fc14ade56d15e471ce7fa22c` | `2152d65f` |
 | `output/translations/nehemiah_01.json` | 11 | `21fd88d60f52660f316693c96cfe1bca291ea6fb85bf52a5f398bfe6a80d7599` | `d34d7149` |
 | `output/translations/nehemiah_02.json` | 20 | `198d1629662dffce69e7096e86367204a644e489701e8160842376612bd788f8` | `8bc9e3fa` |
 | `output/translations/nehemiah_03.json` | 38 | `e70be8ccad581c8ee31f3b728f5e4a52fad4b5a8940b303db67322afe295d69e` | `29836920` |
