@@ -36,8 +36,8 @@
 ## אֶרֶךְ אַפַּיִם (slow to anger)
 **Doc:** `exod_34_attribute_formula_2026-05.md`  
 **Expected Thai contains:** `ทรงกริ้วช้า`  
-**Total matching verses:** 12  
-**OK:** 8 · **Excepted:** 4 · **Violations:** 0
+**Total matching verses:** 13  
+**OK:** 9 · **Excepted:** 4 · **Violations:** 0
 
 ### Documented exceptions (not violations)
 - **Proverbs 14:29** — human patience (vs קְצַר־רוּחַ quick-tempered) — not the divine formula; rendered คนที่อดทน
