@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-06-26 09:48:36 UTC_
-_Total chapters: 1157 · Total verses: 30631_
+_Generated: 2026-06-26 10:17:40 UTC_
+_Total chapters: 1158 · Total verses: 30645_
 
 ## How to verify a chapter
 
@@ -886,7 +886,8 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/matthew_28.json` | 20 | `08b0d3ac30a8cd650af17b3745333beb29228308b6429b951f984b5a845c843b` | `6d15bb1a` |
 | `output/translations/micah_01.json` | 16 | `b0590e735f30745b26a3278361482d9f4da71a3f28244d3c13b0177ace268015` | `70c312f5` |
 | `output/translations/micah_02.json` | 13 | `2dcf848d018118c6428441e3fa7cb583311984866544999035808d160b78b0f1` | `3d237b9a` |
-| `output/translations/micah_03.json` | 12 | `13c1dcac83a3a7f459ff9af204179d7d2898c01214ca6fcfb2222b637c619a72` | `—` |
+| `output/translations/micah_03.json` | 12 | `13c1dcac83a3a7f459ff9af204179d7d2898c01214ca6fcfb2222b637c619a72` | `8b9b24f4` |
+| `output/translations/micah_04.json` | 14 | `b432955e0fc1e9eecd78661712fbda0a603de5861f9094ccee2b5fd385cb8747` | `—` |
 | `output/translations/nehemiah_01.json` | 11 | `21fd88d60f52660f316693c96cfe1bca291ea6fb85bf52a5f398bfe6a80d7599` | `d34d7149` |
 | `output/translations/nehemiah_02.json` | 20 | `198d1629662dffce69e7096e86367204a644e489701e8160842376612bd788f8` | `8bc9e3fa` |
 | `output/translations/nehemiah_03.json` | 38 | `e70be8ccad581c8ee31f3b728f5e4a52fad4b5a8940b303db67322afe295d69e` | `29836920` |
