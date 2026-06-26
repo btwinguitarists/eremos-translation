@@ -165,9 +165,9 @@ def build_hosea_entries() -> dict[str, dict]:
 
     * Chapter 2  — MT 2:1-2 = English 1:10-11; MT 2:3-25 = English 2:1-23 (+2 shift).
     * Chapter 12 — MT 12:1 = English 11:12; MT 12:2-15 = English 12:1-14 (-1 shift).
+    * Chapter 14 — MT 14:1 = English 13:16; MT 14:2-10 = English 14:1-9 (-1 shift).
 
-    Chapters 3-11 and 13 re-sync. (Chapter 14 also diverges — MT 14:1 = English
-    13:16 — and is added when that chapter is translated.)
+    Chapters 3-11 and 13 re-sync.
     """
     entries: dict[str, dict] = {}
     # --- Chapter 2: MT 2:1-2 = Eng 1:10-11; MT 2:3-25 = Eng 2:1-23 ---
@@ -199,6 +199,19 @@ def build_hosea_entries() -> dict[str, dict]:
             "english_ref": eng_ref,
             "bsb_ref": eng_ref,
             "lxx_ref": f"Hosea 12:{v}",
+            "diverges": True,
+        }
+    # --- Chapter 14: MT 14:1 = Eng 13:16; MT 14:2-10 = Eng 14:1-9 ---
+    for v in range(1, 11):
+        eng_ref = "Hosea 13:16" if v == 1 else f"Hosea 14:{v - 1}"
+        entries[f"HOS-14-{v}"] = {
+            "mt_book": "HOS",
+            "mt_chapter": 14,
+            "mt_verse": v,
+            "mt_ref": f"Hosea 14:{v}",
+            "english_ref": eng_ref,
+            "bsb_ref": eng_ref,
+            "lxx_ref": f"Hosea 14:{v}",
             "diverges": True,
         }
     return entries
