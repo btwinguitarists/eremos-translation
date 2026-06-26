@@ -1,0 +1,404 @@
+[
+  {
+    "reference": "Hosea 12:1",
+    "chapter": 12,
+    "verse": 1,
+    "language": "hebrew",
+    "hebrew": "סְבָבֻ֤נִי בְכַ֨חַשׁ֙ אֶפְרַ֔יִם וּבְמִרְמָ֖ה בֵּ֣ית יִשְׂרָאֵ֑ל וִֽיהוּדָ֗ה עֹ֥ד רָד֙ עִם־אֵ֔ל וְעִם־קְדוֹשִׁ֖ים נֶאֱמָֽן׃",
+    "bsb_english": "Ephraim surrounds Me with lies, the house of Israel with deceit; but Judah still walks with God and is faithful to the Holy One.",
+    "versification": {
+      "mt_ref": "Hosea 12:1",
+      "english_ref": "Hosea 11:12",
+      "bsb_ref": "Hosea 11:12",
+      "lxx_ref": "Hosea 12:1",
+      "diverges": true
+    },
+    "translation": {
+      "thai": "เอฟราอิมล้อมเราไว้ด้วยคำมุสา และพงศ์พันธุ์อิสราเอลล้อมเราด้วยความหลอกลวง แต่ยูดาห์ยังคงดำเนินกับพระเจ้า และซื่อสัตย์ต่อองค์บริสุทธิ์",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "סְבָבֻנִי בְכַחַשׁ אֶפְרַיִם וּבְמִרְמָה בֵּית יִשְׂרָאֵל",
+          "rendering": "เอฟราอิมล้อมเราไว้ด้วยคำมุสา และพงศ์พันธุ์อิสราเอลล้อมเราด้วยความหลอกลวง",
+          "rationale": "kaḥaš ‘lies’ / mirmâ ‘deceit’ → คำมุสา/ความหลอกลวง. The Judah-clause is textually debated: BSB reads it positively (‘Judah still walks with God’), the MT can also be read negatively (‘Judah is unruly toward God’); we follow BSB."
+        }
+      ],
+      "notes": "Versification: MT Hosea 12:1 = English/BSB Hosea 11:12; MT 12:2–15 = English 12:1–14 (a −1 shift). The Eremos text is MT-anchored; the bsb_english field is realigned. The second half of v.1 (the Judah-clause) is textually ambiguous."
+    }
+  },
+  {
+    "reference": "Hosea 12:2",
+    "chapter": 12,
+    "verse": 2,
+    "language": "hebrew",
+    "hebrew": "אֶפְרַ֜יִם רֹעֶ֥ה ר֨וּחַ֙ וְרֹדֵ֣ף קָדִ֔ים כָּל־הַיּ֕וֹם כָּזָ֥ב וָשֹׁ֖ד יַרְבֶּ֑ה וּבְרִית֙ עִם־אַשּׁ֣וּר יִכְרֹ֔תוּ וְשֶׁ֖מֶן לְמִצְרַ֥יִם יוּבָֽל׃",
+    "bsb_english": "Ephraim feeds on the wind and pursues the east wind all day long; he multiplies lies and violence; he makes a covenant with Assyria and sends olive oil to Egypt.",
+    "versification": {
+      "mt_ref": "Hosea 12:2",
+      "english_ref": "Hosea 12:1",
+      "bsb_ref": "Hosea 12:1",
+      "lxx_ref": "Hosea 12:2",
+      "diverges": true
+    },
+    "translation": {
+      "thai": "เอฟราอิมเลี้ยงตัวด้วยลม และวิ่งไล่ตามลมตะวันออกตลอดวัน เขาทวีคำมุสาและความรุนแรง เขาทำพันธสัญญากับอัสซีเรีย และส่งน้ำมันไปยังอียิปต์",
+      "thai_literal": null,
+      "thai_summary": "เอฟราอิม ‘เลี้ยงตัวด้วยลม’ และไล่ตามลมตะวันออกอันร้อนแล้ง—ภาพของความพยายามที่ไร้ผลโดยสิ้นเชิง การวิ่งหาพันธมิตรกับอัสซีเรียและอียิปต์ก็เหมือนการคว้าลม",
+      "key_decisions": [
+        {
+          "hebrew": "אֶפְרַיִם רֹעֶה רוּחַ וְרֹדֵף קָדִים כָּל־הַיּוֹם",
+          "rendering": "เอฟราอิมเลี้ยงตัวด้วยลม และวิ่งไล่ตามลมตะวันออกตลอดวัน",
+          "rationale": "rōʿeh rûaḥ ‘feeds on / shepherds the wind’ → เลี้ยงตัวด้วยลม + chasing the qāḏîm ‘east wind’ (the scorching, destructive sirocco) → an image of utterly futile effort: Israel's frantic diplomacy with Assyria and Egypt grasps at nothing."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Hosea 12:3",
+    "chapter": 12,
+    "verse": 3,
+    "language": "hebrew",
+    "hebrew": "וְרִ֥יב לַֽיהוָ֖ה עִם־יְהוּדָ֑ה וְלִפְקֹ֤ד עַֽל־יַעֲקֹב֙ כִּדְרָכָ֔יו כְּמַעֲלָלָ֖יו יָשִׁ֥יב לֽוֹ׃",
+    "bsb_english": "The LORD has a charge to bring against Judah. He will punish Jacob according to his ways and repay him according to his deeds.",
+    "versification": {
+      "mt_ref": "Hosea 12:3",
+      "english_ref": "Hosea 12:2",
+      "bsb_ref": "Hosea 12:2",
+      "lxx_ref": "Hosea 12:3",
+      "diverges": true
+    },
+    "translation": {
+      "thai": "องค์พระผู้เป็นเจ้าทรงมีคดีความกับยูดาห์ และจะทรงลงโทษยาโคบตามวิถีทางของเขา และจะทรงตอบสนองเขาตามการกระทำของเขา",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "וְרִיב לַיהוָה עִם־יְהוּדָה וְלִפְקֹד עַל־יַעֲקֹב כִּדְרָכָיו",
+          "rendering": "องค์พระผู้เป็นเจ้าทรงมีคดีความกับยูดาห์ และจะทรงลงโทษยาโคบตามวิถีทางของเขา",
+          "rationale": "rîḇ laYHWH ‘the LORD has a lawsuit’ → ทรงมีคดีความ (cf. 4:1); ‘Jacob’ (yaʿăqōḇ → ยาโคบ) names the whole nation by its patriarch, setting up the Jacob-narrative meditation of vv.4–5. Layer 1: יהוה → องค์พระผู้เป็นเจ้า (divine_names_table_2026-05)."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Hosea 12:4",
+    "chapter": 12,
+    "verse": 4,
+    "language": "hebrew",
+    "hebrew": "בַּבֶּ֖טֶן עָקַ֣ב אֶת־אָחִ֑יו וּבְאוֹנ֖וֹ שָׂרָ֥ה אֶת־אֱלֹהִֽים׃",
+    "bsb_english": "In the womb he grasped his brother’s heel, and in his vigor he wrestled with God.",
+    "versification": {
+      "mt_ref": "Hosea 12:4",
+      "english_ref": "Hosea 12:3",
+      "bsb_ref": "Hosea 12:3",
+      "lxx_ref": "Hosea 12:4",
+      "diverges": true
+    },
+    "translation": {
+      "thai": "ในครรภ์เขาได้คว้าส้นเท้าพี่ชายของตน และเมื่อเป็นผู้ใหญ่เขาได้ปล้ำสู้กับพระเจ้า",
+      "thai_literal": null,
+      "thai_summary": "โฮเชยาย้อนไปยังเรื่องของยาโคบบรรพบุรุษ: ตั้งแต่ในครรภ์เขาคว้าส้นเท้าพี่ชาย (ปฐก. 25:26—เล่นคำกับชื่อ ‘ยาโคบ’) และเมื่อโต เขาปล้ำสู้กับพระเจ้า (ที่มาของชื่อ ‘อิสราเอล’) อุปนิสัยช่วงชิงของชาตินี้มีมาแต่กำเนิด",
+      "key_decisions": [
+        {
+          "hebrew": "בַּבֶּטֶן עָקַב אֶת־אָחִיו וּבְאוֹנוֹ שָׂרָה אֶת־אֱלֹהִים",
+          "rendering": "ในครรภ์เขาได้คว้าส้นเท้าพี่ชายของตน และเมื่อเป็นผู้ใหญ่เขาได้ปล้ำสู้กับพระเจ้า",
+          "rationale": "ʿāqaḇ ‘grasp the heel’ → คว้าส้นเท้า — wordplay on Yaʿăqōḇ (‘Jacob,’ the heel-grabber, Gen 25:26); śārâ ‘struggled’ → ปล้ำสู้ (the root behind ‘Israel,’ Gen 32:28). The nation's grasping, supplanting character was there from the womb."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Hosea 12:5",
+    "chapter": 12,
+    "verse": 5,
+    "language": "hebrew",
+    "hebrew": "וָיָּ֤שַׂר אֶל־מַלְאָךְ֙ וַיֻּכָ֔ל בָּכָ֖ה וַיִּתְחַנֶּן־ל֑וֹ בֵּֽית־אֵל֙ יִמְצָאֶ֔נּוּ וְשָׁ֖ם יְדַבֵּ֥ר עִמָּֽנוּ׃",
+    "bsb_english": "Yes, he struggled with the angel and prevailed; he wept and sought His favor; he found Him at Bethel and spoke with Him there—",
+    "versification": {
+      "mt_ref": "Hosea 12:5",
+      "english_ref": "Hosea 12:4",
+      "bsb_ref": "Hosea 12:4",
+      "lxx_ref": "Hosea 12:5",
+      "diverges": true
+    },
+    "translation": {
+      "thai": "เขาปล้ำสู้กับทูตสวรรค์และมีชัย เขาร้องไห้และทูลขอความโปรดปรานจากพระองค์ ที่เบธเอลเขาได้พบพระองค์ และที่นั่นพระองค์ตรัสกับเรา",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "וַיָּשַׂר אֶל־מַלְאָךְ וַיֻּכָל בָּכָה וַיִּתְחַנֶּן לוֹ בֵּית־אֵל יִמְצָאֶנּוּ",
+          "rendering": "เขาปล้ำสู้กับทูตสวรรค์และมีชัย เขาร้องไห้และทูลขอความโปรดปราน … ที่เบธเอลเขาได้พบพระองค์",
+          "rationale": "The Peniel wrestling (Gen 32) — but Jacob ‘prevailed’ only by weeping and pleading for grace (bāḵâ wayyiṯḥannen); strength yields to dependence. Bêṯ-ʾēl ‘Bethel’ → เบธเอล (Gen 28; 35), where God met him; ‘there he spoke with us’ — the patriarch's encounter is the nation's."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Hosea 12:6",
+    "chapter": 12,
+    "verse": 6,
+    "language": "hebrew",
+    "hebrew": "וַֽיהוָ֖ה אֱלֹהֵ֣י הַצְּבָא֑וֹת יְהוָ֖ה זִכְרֽוֹ׃",
+    "bsb_english": "the LORD God of Hosts, the LORD is His name of renown.",
+    "versification": {
+      "mt_ref": "Hosea 12:6",
+      "english_ref": "Hosea 12:5",
+      "bsb_ref": "Hosea 12:5",
+      "lxx_ref": "Hosea 12:6",
+      "diverges": true
+    },
+    "translation": {
+      "thai": "คือองค์พระผู้เป็นเจ้าพระเจ้าจอมโยธา องค์พระผู้เป็นเจ้าคือพระนามอันเลื่องลือของพระองค์",
+      "thai_literal": null,
+      "thai_summary": "พระเจ้าที่พบยาโคบนั้นไม่ใช่เทพประจำท้องถิ่น แต่คือ ‘องค์พระผู้เป็นเจ้าพระเจ้าจอมโยธา’ พระนามนิรันดร์ของพระองค์คือยาห์เวห์ (เทียบ อพย. 3:15) ผู้ที่อิสราเอลควรหันกลับมาหา",
+      "key_decisions": [
+        {
+          "hebrew": "וַיהוָה אֱלֹהֵי הַצְּבָאוֹת יְהוָה זִכְרוֹ",
+          "rendering": "คือองค์พระผู้เป็นเจ้าพระเจ้าจอมโยธา องค์พระผู้เป็นเจ้าคือพระนามอันเลื่องลือของพระองค์",
+          "rationale": "YHWH ʾĕlōhê haṣṣᵉḇāʾôṯ ‘the LORD God of Hosts’ → องค์พระผู้เป็นเจ้าพระเจ้าจอมโยธา (the title-cluster, matching the corpus jom-yotha rendering); the God who met Jacob is the eternal covenant LORD whose ‘name/memorial’ (zēḵer) is YHWH (cf. Exod 3:15). Layer 1: יהוה → องค์พระผู้เป็นเจ้า (divine_names_table_2026-05)."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Hosea 12:7",
+    "chapter": 12,
+    "verse": 7,
+    "language": "hebrew",
+    "hebrew": "וְאַתָּ֖ה בֵּאלֹהֶ֣יךָ תָשׁ֑וּב חֶ֤סֶד וּמִשְׁפָּט֙ שְׁמֹ֔ר וְקַוֵּ֥ה אֶל־אֱלֹהֶ֖יךָ תָּמִֽיד׃",
+    "bsb_english": "But you must return to your God; maintain love and justice, and always wait on your God.",
+    "versification": {
+      "mt_ref": "Hosea 12:7",
+      "english_ref": "Hosea 12:6",
+      "bsb_ref": "Hosea 12:6",
+      "lxx_ref": "Hosea 12:7",
+      "diverges": true
+    },
+    "translation": {
+      "thai": "ส่วนเจ้า จงกลับมาหาพระเจ้าของเจ้า จงรักษาความรักมั่นคงและความยุติธรรม และจงรอคอยพระเจ้าของเจ้าเสมอ",
+      "thai_literal": null,
+      "thai_summary": "ใจความของการเรียกร้อง: ‘จงกลับมาหาพระเจ้า รักษาความรักมั่นคงและความยุติธรรม และรอคอยพระองค์เสมอ’ เหมือนยาโคบที่ต้องพึ่งพระคุณ อิสราเอลต้องหันกลับมาดำเนินชีวิตด้วยความรักและความเที่ยงธรรม",
+      "key_decisions": [
+        {
+          "hebrew": "וְאַתָּה בֵּאלֹהֶיךָ תָשׁוּב חֶסֶד וּמִשְׁפָּט שְׁמֹר וְקַוֵּה אֶל־אֱלֹהֶיךָ תָּמִיד",
+          "rendering": "จงกลับมาหาพระเจ้าของเจ้า จงรักษาความรักมั่นคงและความยุติธรรม และจงรอคอยพระเจ้าของเจ้าเสมอ",
+          "rationale": "The call distilled: šûḇ ‘return’ → กลับมา; keep ḥeseḏ ‘steadfast love’ → ความรักมั่นคง (corpus-locked) and mišpāṭ ‘justice’ → ความยุติธรรม, and qawwēh ‘wait/hope’ → รอคอย continually — the same triad of relationship over ritual as 6:6."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Hosea 12:8",
+    "chapter": 12,
+    "verse": 8,
+    "language": "hebrew",
+    "hebrew": "כְּנַ֗עַן בְּיָד֛וֹ מֹאזְנֵ֥י מִרְמָ֖ה לַעֲשֹׁ֥ק אָהֵֽב׃",
+    "bsb_english": "A merchant loves to defraud with dishonest scales in his hands.",
+    "versification": {
+      "mt_ref": "Hosea 12:8",
+      "english_ref": "Hosea 12:7",
+      "bsb_ref": "Hosea 12:7",
+      "lxx_ref": "Hosea 12:8",
+      "diverges": true
+    },
+    "translation": {
+      "thai": "เขาเป็นพ่อค้าที่ถือตราชั่งไม่เที่ยงตรงไว้ในมือ เขาชอบกดขี่ขูดรีด",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "כְּנַעַן בְּיָדוֹ מֹאזְנֵי מִרְמָה לַעֲשֹׁק אָהֵב",
+          "rendering": "เขาเป็นพ่อค้าที่ถือตราชั่งไม่เที่ยงตรงไว้ในมือ เขาชอบกดขี่ขูดรีด",
+          "rationale": "kᵉnaʿan ‘Canaan’ = ‘merchant/trader’ (a stinging pun: Israel has become a ‘Canaanite’) → พ่อค้า; môʾznê mirmâ ‘scales of deceit’ → ตราชั่งไม่เที่ยงตรง — dishonest weights, the antithesis of the justice just commanded (v.7)."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Hosea 12:9",
+    "chapter": 12,
+    "verse": 9,
+    "language": "hebrew",
+    "hebrew": "וַיֹּ֣אמֶר אֶפְרַ֔יִם אַ֣ךְ עָשַׁ֔רְתִּי מָצָ֥אתִי א֖וֹן לִ֑י כָּל־יְגִיעַ֕י לֹ֥א יִמְצְאוּ־לִ֖י עָוֺ֥ן אֲשֶׁר־חֵֽטְא׃",
+    "bsb_english": "And Ephraim boasts: “How rich I have become! I have found wealth for myself. In all my labors, they can find in me no iniquity that is sinful.”",
+    "versification": {
+      "mt_ref": "Hosea 12:9",
+      "english_ref": "Hosea 12:8",
+      "bsb_ref": "Hosea 12:8",
+      "lxx_ref": "Hosea 12:9",
+      "diverges": true
+    },
+    "translation": {
+      "thai": "เอฟราอิมโอ้อวดว่า ‘ข้าร่ำรวยแล้ว ข้าได้หาทรัพย์สมบัติมาเพื่อตน ในการงานทั้งสิ้นของข้า เขาจะไม่พบความผิดบาปใด ๆ ในตัวข้าเลย’",
+      "thai_literal": null,
+      "thai_summary": "เอฟราอิมโอ้อวดความมั่งคั่งที่ได้มาด้วยการโกง โดยอ้างว่าตนไม่มีความผิด ความมั่งคั่งที่ได้จากความอยุติธรรมทำให้คนหลงตัวเองและมองไม่เห็นบาปของตน",
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Hosea 12:10",
+    "chapter": 12,
+    "verse": 10,
+    "language": "hebrew",
+    "hebrew": "וְאָנֹכִ֛י יְהוָ֥ה אֱלֹהֶ֖יךָ מֵאֶ֣רֶץ מִצְרָ֑יִם עֹ֛ד אוֹשִֽׁיבְךָ֥ בָאֳהָלִ֖ים כִּימֵ֥י מוֹעֵֽד׃",
+    "bsb_english": "But I am the LORD your God ever since the land of Egypt. I will again make you dwell in tents, as in the days of the appointed feast.",
+    "versification": {
+      "mt_ref": "Hosea 12:10",
+      "english_ref": "Hosea 12:9",
+      "bsb_ref": "Hosea 12:9",
+      "lxx_ref": "Hosea 12:10",
+      "diverges": true
+    },
+    "translation": {
+      "thai": "แต่เราคือองค์พระผู้เป็นเจ้าพระเจ้าของเจ้า ตั้งแต่เจ้าอยู่ในแผ่นดินอียิปต์ เราจะให้เจ้าอาศัยอยู่ในเต็นท์อีกครั้ง เหมือนในวันเทศกาลตามกำหนด",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "וְאָנֹכִי יְהוָה אֱלֹהֶיךָ מֵאֶרֶץ מִצְרָיִם עֹד אוֹשִׁיבְךָ בָאֳהָלִים",
+          "rendering": "เราคือองค์พระผู้เป็นเจ้าพระเจ้าของเจ้า ตั้งแต่เจ้าอยู่ในแผ่นดินอียิปต์ เราจะให้เจ้าอาศัยอยู่ในเต็นท์อีกครั้ง",
+          "rationale": "ʾānōḵî YHWH ʾĕlōheḵā ‘I am the LORD your God’ → เราคือองค์พระผู้เป็นเจ้าพระเจ้าของเจ้า (the covenant self-declaration, Exod 20:2). ‘Dwell in tents again, as in the feast’ → the Feast of Tabernacles (Sukkot) — a discipline that recalls the wilderness dependence, stripping away the false wealth of v.9. Layer 1: יהוה → องค์พระผู้เป็นเจ้า (divine_names_table_2026-05)."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Hosea 12:11",
+    "chapter": 12,
+    "verse": 11,
+    "language": "hebrew",
+    "hebrew": "וְדִבַּ֨רְתִּי֙ עַל־הַנְּבִיאִ֔ים וְאָנֹכִ֖י חָז֣וֹן הִרְבֵּ֑יתִי וּבְיַ֥ד הַנְּבִיאִ֖ים אֲדַמֶּֽה׃",
+    "bsb_english": "I spoke through the prophets and multiplied their visions; I gave parables through the prophets.",
+    "versification": {
+      "mt_ref": "Hosea 12:11",
+      "english_ref": "Hosea 12:10",
+      "bsb_ref": "Hosea 12:10",
+      "lxx_ref": "Hosea 12:11",
+      "diverges": true
+    },
+    "translation": {
+      "thai": "เราได้พูดผ่านบรรดาผู้เผยพระวจนะ ทวีนิมิตให้มากขึ้น และให้คำอุปมาผ่านบรรดาผู้เผยพระวจนะ",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Hosea 12:12",
+    "chapter": 12,
+    "verse": 12,
+    "language": "hebrew",
+    "hebrew": "אִם־גִּלְעָ֥ד אָ֨וֶן֙ אַךְ־שָׁ֣וְא הָי֔וּ בַּגִּלְגָּ֖ל שְׁוָרִ֣ים זִבֵּ֑חוּ גַּ֤ם מִזְבְּחוֹתָם֙ כְּגַלִּ֔ים עַ֖ל תַּלְמֵ֥י שָׂדָֽי׃",
+    "bsb_english": "Is there iniquity in Gilead? They will surely come to nothing. Do they sacrifice bulls in Gilgal? Indeed, their altars will be heaps of stones in the furrows of the field.",
+    "versification": {
+      "mt_ref": "Hosea 12:12",
+      "english_ref": "Hosea 12:11",
+      "bsb_ref": "Hosea 12:11",
+      "lxx_ref": "Hosea 12:12",
+      "diverges": true
+    },
+    "translation": {
+      "thai": "ในกิเลอาดมีความชั่วช้าหรือ พวกเขาก็ไร้ค่าโดยแท้ ที่กิลกาลพวกเขาถวายวัวเป็นเครื่องบูชา แท่นบูชาของพวกเขาก็เหมือนกองหินตามร่องไถในนา",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Hosea 12:13",
+    "chapter": 12,
+    "verse": 13,
+    "language": "hebrew",
+    "hebrew": "וַיִּבְרַ֥ח יַעֲקֹ֖ב שְׂדֵ֣ה אֲרָ֑ם וַיַּעֲבֹ֤ד יִשְׂרָאֵל֙ בְּאִשָּׁ֔ה וּבְאִשָּׁ֖ה שָׁמָֽר׃",
+    "bsb_english": "Jacob fled to the land of Aram and Israel worked for a wife—for a wife he tended sheep.",
+    "versification": {
+      "mt_ref": "Hosea 12:13",
+      "english_ref": "Hosea 12:12",
+      "bsb_ref": "Hosea 12:12",
+      "lxx_ref": "Hosea 12:13",
+      "diverges": true
+    },
+    "translation": {
+      "thai": "ยาโคบหนีไปยังแผ่นดินอาราม อิสราเอลรับใช้คนอื่นเพื่อจะได้ภรรยา และเพื่อภรรยา เขาได้เลี้ยงแกะ",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "וַיִּבְרַח יַעֲקֹב שְׂדֵה אֲרָם וַיַּעֲבֹד יִשְׂרָאֵל בְּאִשָּׁה",
+          "rendering": "ยาโคบหนีไปยังแผ่นดินอาราม อิสราเอลรับใช้คนอื่นเพื่อจะได้ภรรยา และเพื่อภรรยา เขาได้เลี้ยงแกะ",
+          "rationale": "ʾărām ‘Aram’ → อาราม; Jacob fled to Laban and ‘served for a wife, kept sheep for a wife’ (Gen 29) — the proud patriarch was once a landless refugee and a humble shepherd; the contrast rebukes Ephraim's self-made boasting (v.9)."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Hosea 12:14",
+    "chapter": 12,
+    "verse": 14,
+    "language": "hebrew",
+    "hebrew": "וּבְנָבִ֕יא הֶעֱלָ֧ה יְהוָ֛ה אֶת־יִשְׂרָאֵ֖ל מִמִּצְרָ֑יִם וּבְנָבִ֖יא נִשְׁמָֽר׃",
+    "bsb_english": "But by a prophet the LORD brought Israel out of Egypt, and by a prophet he was preserved.",
+    "versification": {
+      "mt_ref": "Hosea 12:14",
+      "english_ref": "Hosea 12:13",
+      "bsb_ref": "Hosea 12:13",
+      "lxx_ref": "Hosea 12:14",
+      "diverges": true
+    },
+    "translation": {
+      "thai": "องค์พระผู้เป็นเจ้าทรงใช้ผู้เผยพระวจนะคนหนึ่งนำอิสราเอลออกจากอียิปต์ และทรงใช้ผู้เผยพระวจนะปกป้องดูแลเขา",
+      "thai_literal": null,
+      "thai_summary": "พระเจ้าทรงใช้ ‘ผู้เผยพระวจนะคนหนึ่ง’ (โมเสส) นำอิสราเอลออกจากอียิปต์และดูแลเขา พระเจ้าผู้ตรัสและช่วยกู้ผ่านผู้เผยพระวจนะ กลับถูกอิสราเอลเยาะเย้ยผู้เผยพระวจนะของพระองค์ (9:7)",
+      "key_decisions": [
+        {
+          "hebrew": "וּבְנָבִיא הֶעֱלָה יְהוָה אֶת־יִשְׂרָאֵל מִמִּצְרָיִם וּבְנָבִיא נִשְׁמָר",
+          "rendering": "องค์พระผู้เป็นเจ้าทรงใช้ผู้เผยพระวจนะคนหนึ่งนำอิสราเอลออกจากอียิปต์ และทรงใช้ผู้เผยพระวจนะปกป้องดูแลเขา",
+          "rationale": "bᵉnāḇîʾ ‘by a prophet’ → โดยผู้เผยพระวจนะ — Moses, who led Israel out of Egypt and shepherded them; the God who spoke through prophets (v.11) saved by a prophet, yet Israel mocked the prophets (9:7). Layer 1: יהוה → องค์พระผู้เป็นเจ้า (divine_names_table_2026-05)."
+        }
+      ],
+      "notes": null
+    }
+  },
+  {
+    "reference": "Hosea 12:15",
+    "chapter": 12,
+    "verse": 15,
+    "language": "hebrew",
+    "hebrew": "הִכְעִ֥יס אֶפְרַ֖יִם תַּמְרוּרִ֑ים וְדָמָיו֙ עָלָ֣יו יִטּ֔וֹשׁ וְחֶ֨רְפָּת֔וֹ יָשִׁ֥יב ל֖וֹ אֲדֹנָֽיו׃",
+    "bsb_english": "Ephraim has provoked bitter anger, so his Lord will leave his bloodguilt upon him and repay him for his contempt.",
+    "versification": {
+      "mt_ref": "Hosea 12:15",
+      "english_ref": "Hosea 12:14",
+      "bsb_ref": "Hosea 12:14",
+      "lxx_ref": "Hosea 12:15",
+      "diverges": true
+    },
+    "translation": {
+      "thai": "เอฟราอิมได้ยั่วยุให้เกิดความขมขื่นอย่างรุนแรง ดังนั้นองค์เจ้านายของเขาจะปล่อยให้ความผิดเรื่องการนองเลือดตกอยู่บนเขา และจะทรงตอบสนองการสบประมาทของเขา",
+      "thai_literal": null,
+      "thai_summary": null,
+      "key_decisions": [
+        {
+          "hebrew": "הִכְעִיס אֶפְרַיִם תַּמְרוּרִים וְדָמָיו עָלָיו יִטּוֹשׁ",
+          "rendering": "เอฟราอิมได้ยั่วยุให้เกิดความขมขื่นอย่างรุนแรง … องค์เจ้านายของเขาจะปล่อยให้ความผิดเรื่องการนองเลือดตกอยู่บนเขา",
+          "rationale": "tamrûrîm ‘bitter provocations’ → ความขมขื่น; dāmîm ‘bloodguilt’ → ความผิดเรื่องการนองเลือด left on Ephraim's own head. ʾăḏōnāyw ‘his Lord/Master’ → องค์เจ้านายของเขา (standalone third-person Adonai, per divine_names_table)."
+        }
+      ],
+      "notes": null
+    }
+  }
+]
