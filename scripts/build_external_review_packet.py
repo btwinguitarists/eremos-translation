@@ -98,6 +98,7 @@ BOOKS = {
     "LAM": ("lamentations", "Lamentations"),
     "EZK": ("ezekiel", "Ezekiel"),
     "HOS": ("hosea", "Hosea"),
+    "JOL": ("joel", "Joel"),
 }
 
 # OT book codes — the prompt branches on testament so OT packets reference

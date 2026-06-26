@@ -27,8 +27,8 @@
 ## חַנּוּן וְרַחוּם / רַחוּם וְחַנּוּן (gracious + compassionate)
 **Doc:** `exod_34_attribute_formula_2026-05.md`  
 **Expected Thai contains:** `ทรงพระเมตตา`  
-**Total matching verses:** 10  
-**OK:** 9 · **Excepted:** 1 · **Violations:** 0
+**Total matching verses:** 11  
+**OK:** 10 · **Excepted:** 1 · **Violations:** 0
 
 ### Documented exceptions (not violations)
 - **Psalms 112:4** — human subject — the righteous man (חַנּוּן וְרַחוּם וְצַדִּיק), not God's Exod-34:6 self-revelation; rendered with plain human-virtue terms, not the divine ทรงพระเมตตา/ทรงพระคุณ form
@@ -36,8 +36,8 @@
 ## אֶרֶךְ אַפַּיִם (slow to anger)
 **Doc:** `exod_34_attribute_formula_2026-05.md`  
 **Expected Thai contains:** `ทรงกริ้วช้า`  
-**Total matching verses:** 11  
-**OK:** 7 · **Excepted:** 4 · **Violations:** 0
+**Total matching verses:** 12  
+**OK:** 8 · **Excepted:** 4 · **Violations:** 0
 
 ### Documented exceptions (not violations)
 - **Proverbs 14:29** — human patience (vs קְצַר־רוּחַ quick-tempered) — not the divine formula; rendered คนที่อดทน
@@ -48,8 +48,8 @@
 ## רַב־חֶסֶד (abounding in steadfast love)
 **Doc:** `exod_34_attribute_formula_2026-05.md`  
 **Expected Thai contains:** `ทรงบริบูรณ์ด้วยความรักมั่นคง`  
-**Total matching verses:** 6  
-**OK:** 6 · **Excepted:** 0 · **Violations:** 0
+**Total matching verses:** 7  
+**OK:** 7 · **Excepted:** 0 · **Violations:** 0
 
 ## ἄφεσις ἁμαρτιῶν
 **Doc:** `aphesis_forgiveness_of_sins_2026-04.md`  
@@ -175,8 +175,8 @@
 ## אֲנִי יְהוָה (I-am-YHWH Holiness/recognition formula) → องค์พระผู้เป็นเจ้า (leitwort divine name)
 **Doc:** `i_am_yhwh_holiness_formula_2026-05.md`  
 **Expected Thai contains:** `องค์พระผู้เป็นเจ้า`  
-**Total matching verses:** 127  
-**OK:** 127 · **Excepted:** 0 · **Violations:** 0
+**Total matching verses:** 128  
+**OK:** 128 · **Excepted:** 0 · **Violations:** 0
 
 ## כַּפֹּרֶת (kapporet — mercy seat / cover of ark)
 **Doc:** `kapporet_atonement_cover_2026-05.md`  
