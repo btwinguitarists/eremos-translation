@@ -95,6 +95,7 @@ BOOK_SLUGS = {
     "OBA": "obadiah",
     "MIC": "micah",
     "NAM": "nahum",
+    "HAB": "habakkuk",
 }
 
 TODO_TH = "__TODO_TH__"
