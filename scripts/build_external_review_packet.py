@@ -100,6 +100,7 @@ BOOKS = {
     "HOS": ("hosea", "Hosea"),
     "JOL": ("joel", "Joel"),
     "AMO": ("amos", "Amos"),
+    "OBA": ("obadiah", "Obadiah"),
 }
 
 # OT book codes — the prompt branches on testament so OT packets reference
