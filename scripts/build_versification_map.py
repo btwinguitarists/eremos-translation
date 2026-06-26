@@ -157,6 +157,30 @@ def build_malachi_entries() -> dict[str, dict]:
     return entries
 
 
+def build_nahum_entries() -> dict[str, dict]:
+    """Nahum 1/2 boundary: MT 2:1 = English 1:15; MT 2:2-14 = English 2:1-13.
+
+    English/KJV close chapter 1 one verse later than the MT: the herald oracle
+    (English Nahum 1:15, "the feet of him who brings good news") is MT Nahum 2:1.
+    So all of MT chapter 2 runs one ahead of English (MT 2:1 = English 1:15;
+    MT 2:N = English 2:N-1). Chapters 1 and 3 align.
+    """
+    entries: dict[str, dict] = {}
+    for v in range(1, 15):
+        eng_ref = "Nahum 1:15" if v == 1 else f"Nahum 2:{v - 1}"
+        entries[f"NAM-2-{v}"] = {
+            "mt_book": "NAM",
+            "mt_chapter": 2,
+            "mt_verse": v,
+            "mt_ref": f"Nahum 2:{v}",
+            "english_ref": eng_ref,
+            "bsb_ref": eng_ref,
+            "lxx_ref": f"Nahum 2:{v}",
+            "diverges": True,
+        }
+    return entries
+
+
 def build_micah_entries() -> dict[str, dict]:
     """Micah 4/5 boundary: MT 4:14 = English 5:1.
 
@@ -419,6 +443,7 @@ def main():
     mal_entries = build_malachi_entries()
     hosea_entries = build_hosea_entries()
     micah_entries = build_micah_entries()
+    nahum_entries = build_nahum_entries()
     aramaic_entries = build_aramaic_boundary_entries()
     minor_entries = build_minor_shift_entries()
     ecc_entries = build_ecclesiastes_entries()
@@ -447,6 +472,7 @@ def main():
     out.update(mal_entries)
     out.update(hosea_entries)
     out.update(micah_entries)
+    out.update(nahum_entries)
     out.update(aramaic_entries)
     out.update(minor_entries)
     out.update(ecc_entries)
