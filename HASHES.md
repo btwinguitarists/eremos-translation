@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-06-26 07:46:41 UTC_
-_Total chapters: 1153 · Total verses: 30569_
+_Generated: 2026-06-26 08:21:29 UTC_
+_Total chapters: 1154 · Total verses: 30590_
 
 ## How to verify a chapter
 
@@ -276,15 +276,15 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/acts_26.json` | 32 | `1ae63260de53ad80123865b8f48cea9993a82f109eea08596efa2bdc6973975f` | `cf6bd38f` |
 | `output/translations/acts_27.json` | 44 | `be14faca2501aee7d1e3520f98c50dfed3f2e6b1060e10cc7ab2d949856244fd` | `cf6bd38f` |
 | `output/translations/acts_28.json` | 30 | `c9697795db63162f42843137754be1832460be844dff211d7ada4e1091acbc0f` | `b64d4872` |
-| `output/translations/amos_01.json` | 15 | `2fe41cb6b2752cb4dad1e39c87729eda3abfd2588a64bbcc829fec00d3cf1c95` | `6529eab3` |
+| `output/translations/amos_01.json` | 15 | `cc01f942330ba305a23a6caabaafca82677b55826a60c1aba65b6a5e684a141c` | `c25f2dc2` |
 | `output/translations/amos_02.json` | 16 | `175e45c684491a4840d73e55d8e1fdf1c735e29210246005a7ce6d7966cdd488` | `58f3a560` |
-| `output/translations/amos_03.json` | 15 | `aac1bfc89f3b7914b5e22d6f6811bce831f1d266b49664d525510b6f1c716cfc` | `4cd4c318` |
-| `output/translations/amos_04.json` | 13 | `a294864628a5ca7bc58354f20b91f314f0d75efbef2f328f39c711b7c4266b79` | `a6bf2792` |
-| `output/translations/amos_05.json` | 27 | `f693e8da15dbf7762fb9b84fd7c6fa050233a27c5f604e0cd585d8c88e6c6511` | `95918ee7` |
-| `output/translations/amos_06.json` | 14 | `676f940d5390bc7ee819b65a027ce9ee375cce02869192afc857bdd22e9af99e` | `7d40d13f` |
-| `output/translations/amos_07.json` | 17 | `566ca56523fadc0e61537acca70f48c5d3d91bda96dc534dc65f6af718f0a9cf` | `f8e36a7c` |
-| `output/translations/amos_08.json` | 14 | `44bac22670119873418b2dfbef7bbf58e9e29b8ae40b53e25284512d7c6f9ec2` | `22be81c3` |
-| `output/translations/amos_09.json` | 15 | `5e71f4ad200c69b85d9261d228d43d23dc6beb4417b58ea946baf8214f4746d4` | `—` |
+| `output/translations/amos_03.json` | 15 | `bb6360d24081a2b6d6114d7be3106bc95ba96bfc40a4c0f9aab38281647f9cc0` | `c25f2dc2` |
+| `output/translations/amos_04.json` | 13 | `4c5d98387fabba4e9f8f1f624896c34e0d7614410470a04f8a788cf3a2fbe146` | `c25f2dc2` |
+| `output/translations/amos_05.json` | 27 | `1de3ec19196f6e18a60f581e7027f8ccfd443580a373a4e93e774ef01b39a217` | `c25f2dc2` |
+| `output/translations/amos_06.json` | 14 | `7080a4b26094d9961b4bbb336f099c2811e84c0c423b339e66db76231f3bc536` | `c25f2dc2` |
+| `output/translations/amos_07.json` | 17 | `c1c5dcd0d39333685c87026833a0c2053aaf82d49a3586db3a012c6bd0e9fb5f` | `c25f2dc2` |
+| `output/translations/amos_08.json` | 14 | `4fc3c1a912146a78f9fa380c6533c8cbc76854089ee052b28e08f9b8000cf98a` | `c25f2dc2` |
+| `output/translations/amos_09.json` | 15 | `1f3f14e1a8e629940a18a26981200dcef6117b866ec485b379c291b2c0aa157d` | `c25f2dc2` |
 | `output/translations/colossians_01.json` | 29 | `eef92c90dc4a020325acfcc6efaeda981d479f0afb637c230f42ff62b5f8bed9` | `93fd9dfe` |
 | `output/translations/colossians_02.json` | 23 | `3f2256da6863f944718b8bdd6dc0f345969e034a7082e1fb0540632187a97bed` | `fa1ba3de` |
 | `output/translations/colossians_03.json` | 25 | `17e946688dd4590eee7d9674a5115229714c94c9612866530d387dc8b61870fc` | `465b1f15` |
@@ -660,11 +660,11 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/jeremiah_43.json` | 13 | `a378455a6a752079f83d3bec1c6e05c581c48f2d4ce64f950ed017d8c8e6bb42` | `bcfc98d3` |
 | `output/translations/jeremiah_44.json` | 30 | `b27d95fd92a5bdbc4e86410e8c004c0cca2048e4fa093dc4dc289b6a5dd0dc8d` | `2cc4472f` |
 | `output/translations/jeremiah_45.json` | 5 | `f2243c0cb4937ccf68bd25189b82cd13a6fdfcf42549e5cb8f171495a5029c6f` | `fe491234` |
-| `output/translations/jeremiah_46.json` | 28 | `71239dba1abf5ae7a7dd20a7eff06e11c4cf8f2624dc11c6894de79ea696cee7` | `a2332d37` |
+| `output/translations/jeremiah_46.json` | 28 | `92f6bf55a0644953c30308ac9a8c0ca06eacde047af367a5fe7bdfab5607e161` | `2118e3a6` |
 | `output/translations/jeremiah_47.json` | 7 | `8a6dc3a5bf4c332649e56f07a0efb02bf8156cc2fef792b97b1b088f0996eefd` | `25bb4902` |
 | `output/translations/jeremiah_48.json` | 47 | `139b7ec32d64288eccaa24898fa0681abd682bc3aacd8eb4577c4868c01f0730` | `ace3eafa` |
-| `output/translations/jeremiah_49.json` | 39 | `ee373d122c3b6270b84f740cf5d017a2beb2cef969550437a429858d5ba9c0e6` | `4c54ba68` |
-| `output/translations/jeremiah_50.json` | 46 | `bfd436028014eab0fac216770e4155e28a0c40c4469e7f2307b56a81a2d25f2c` | `d62960b1` |
+| `output/translations/jeremiah_49.json` | 39 | `a091930f02af1fc50f09b04cb2a824fdb046fa1e3013d13dede1d75c2748ca73` | `2118e3a6` |
+| `output/translations/jeremiah_50.json` | 46 | `5019eafbbfa9cd27563d0b52d0e490f1bf2d9ffc51df9a0a15e51faf93d5b3b8` | `2118e3a6` |
 | `output/translations/jeremiah_51.json` | 64 | `59bcfb835630085c303fc95aaa85a9ef81a2eb18c3524fe134f00054e13e9e23` | `ddd2e92d` |
 | `output/translations/jeremiah_52.json` | 34 | `0b683aeff021c90e345bb2aecb0425afe5b49032b6349c74005689b09476774c` | `9f9e05d9` |
 | `output/translations/job_01.json` | 22 | `00a8521e015c76429ef5afd36a8ede476c749f145c9e0aa1a94525bb754faffe` | `b0076026` |
@@ -933,6 +933,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/numbers_34.json` | 29 | `70c5d53937e75d627ec16d030e5a02103f379cae03377084cf92c29594c026b9` | `6fd567a6` |
 | `output/translations/numbers_35.json` | 34 | `794c860bad96f65096e945482b542ab68a85cddb0d7078eaea0b71b46cae964a` | `b4691b12` |
 | `output/translations/numbers_36.json` | 13 | `6e9e247941dbbfb9be93abd31182011a6d77fcf6ffa6ce264f9fbf14bb7c6051` | `9a54c5d0` |
+| `output/translations/obadiah_01.json` | 21 | `824b0bb72b1c0f7f5290789bc401b3e5e9a8427f310e6d71da916aba9e98a291` | `—` |
 | `output/translations/philemon_01.json` | 25 | `359420f302149807f4a1c6632aa1d7732d695fbecbba9647e8a4d596c2e3ac26` | `220261e3` |
 | `output/translations/philippians_01.json` | 30 | `84de2a78e3aba6b29f065026acbb0931dec0ccea802466e449475014743e14ef` | `fc0b282e` |
 | `output/translations/philippians_02.json` | 30 | `5851608ec7714eab2efa8e443a50c8d3917a1f1b08f443c2d8813333a6ea4869` | `65b5241c` |
