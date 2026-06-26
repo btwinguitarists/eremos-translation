@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-06-26 04:33:26 UTC_
-_Total chapters: 1146 · Total verses: 30454_
+_Generated: 2026-06-26 05:00:45 UTC_
+_Total chapters: 1147 · Total verses: 30469_
 
 ## How to verify a chapter
 
@@ -277,7 +277,8 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/acts_27.json` | 44 | `be14faca2501aee7d1e3520f98c50dfed3f2e6b1060e10cc7ab2d949856244fd` | `cf6bd38f` |
 | `output/translations/acts_28.json` | 30 | `c9697795db63162f42843137754be1832460be844dff211d7ada4e1091acbc0f` | `b64d4872` |
 | `output/translations/amos_01.json` | 15 | `2fe41cb6b2752cb4dad1e39c87729eda3abfd2588a64bbcc829fec00d3cf1c95` | `6529eab3` |
-| `output/translations/amos_02.json` | 16 | `175e45c684491a4840d73e55d8e1fdf1c735e29210246005a7ce6d7966cdd488` | `—` |
+| `output/translations/amos_02.json` | 16 | `175e45c684491a4840d73e55d8e1fdf1c735e29210246005a7ce6d7966cdd488` | `58f3a560` |
+| `output/translations/amos_03.json` | 15 | `aac1bfc89f3b7914b5e22d6f6811bce831f1d266b49664d525510b6f1c716cfc` | `—` |
 | `output/translations/colossians_01.json` | 29 | `eef92c90dc4a020325acfcc6efaeda981d479f0afb637c230f42ff62b5f8bed9` | `93fd9dfe` |
 | `output/translations/colossians_02.json` | 23 | `3f2256da6863f944718b8bdd6dc0f345969e034a7082e1fb0540632187a97bed` | `fa1ba3de` |
 | `output/translations/colossians_03.json` | 25 | `17e946688dd4590eee7d9674a5115229714c94c9612866530d387dc8b61870fc` | `465b1f15` |
