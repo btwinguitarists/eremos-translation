@@ -157,6 +157,29 @@ def build_malachi_entries() -> dict[str, dict]:
     return entries
 
 
+def build_micah_entries() -> dict[str, dict]:
+    """Micah 4/5 boundary: MT 4:14 = English 5:1.
+
+    English/KJV begin chapter 5 one verse earlier than the MT: English Micah 5:1
+    ("O daughter of troops…") is MT Micah 4:14. So MT chapter 4 has 14 verses
+    (4:1-13 align; 4:14 = English 5:1), and all of MT chapter 5 then runs one
+    ahead of the English numbering (MT 5:N = English 5:N+1). The MT-5 entries are
+    added when that chapter is translated.
+    """
+    entries: dict[str, dict] = {}
+    entries["MIC-4-14"] = {
+        "mt_book": "MIC",
+        "mt_chapter": 4,
+        "mt_verse": 14,
+        "mt_ref": "Micah 4:14",
+        "english_ref": "Micah 5:1",
+        "bsb_ref": "Micah 5:1",
+        "lxx_ref": "Micah 4:14",
+        "diverges": True,
+    }
+    return entries
+
+
 def build_hosea_entries() -> dict[str, dict]:
     """Hosea chapter-boundary divergences between the MT and English/KJV numbering.
 
@@ -381,6 +404,7 @@ def main():
     joel_entries = build_joel_entries()
     mal_entries = build_malachi_entries()
     hosea_entries = build_hosea_entries()
+    micah_entries = build_micah_entries()
     aramaic_entries = build_aramaic_boundary_entries()
     minor_entries = build_minor_shift_entries()
     ecc_entries = build_ecclesiastes_entries()
@@ -408,6 +432,7 @@ def main():
     out.update(joel_entries)
     out.update(mal_entries)
     out.update(hosea_entries)
+    out.update(micah_entries)
     out.update(aramaic_entries)
     out.update(minor_entries)
     out.update(ecc_entries)
