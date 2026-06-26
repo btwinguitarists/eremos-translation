@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-06-26 23:09:57 UTC_
-_Total chapters: 1168 · Total verses: 30816_
+_Generated: 2026-06-26 23:41:38 UTC_
+_Total chapters: 1169 · Total verses: 30831_
 
 ## How to verify a chapter
 
@@ -1186,7 +1186,8 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/titus_01.json` | 16 | `6b9bc5a855e4143fab405d9116d393e4ed8e929d99a62b3d2451d8043fb50100` | `7cca09e6` |
 | `output/translations/titus_02.json` | 15 | `54cca3502fb1484c14c16b498528dd0e1691cb0d1650c2a21bae3fc079cf8180` | `9d4d7d23` |
 | `output/translations/titus_03.json` | 15 | `ae6d73e432043adfd5b8f1c7ccdac693084026cab5e5b9fda7db7d05472e9648` | `502e5308` |
-| `output/translations/zephaniah_01.json` | 18 | `1f92f8a49701216673f59807344f1c5acff161e0650e02664c2223a34c691028` | `—` |
+| `output/translations/zephaniah_01.json` | 18 | `1f92f8a49701216673f59807344f1c5acff161e0650e02664c2223a34c691028` | `fb85ae9f` |
+| `output/translations/zephaniah_02.json` | 15 | `d6dbfd22b0e2137b1057de50c1b2e58c9a0e46c616173f55cb51ef70bf05cccd` | `—` |
 
 ---
 
