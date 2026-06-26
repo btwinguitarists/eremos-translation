@@ -1,6 +1,6 @@
 # โยเอล
 
-_Joel — 2 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
+_Joel — 3 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
 
 _This reader edition shows the Thai translation and the contextual summary (บริบท) where one is provided. The contextual summaries are AI-generated editorial commentary, not part of the biblical text. For a plain verses-only edition (recommended for scholarly review), see `output/plain/joel.md`. For the underlying Greek, English (BSB) reference, and translator decisions per verse, see the per-chapter review reports at `output/check_reports/joel_NN_review.md` or the source JSON at `output/translations/`._
 
@@ -160,6 +160,37 @@ _**ข้อ 23 — ‘ฝนต้นฤดู’ หรือ ‘ผู้ส�
 
 ---
 
+## บทที่ 3
+
+**1** ต่อมาภายหลัง เราจะเทพระวิญญาณของเราลงเหนือมนุษย์ทั้งปวง บุตรชายและบุตรสาวของพวกเจ้าจะเผยพระวจนะ คนชราของพวกเจ้าจะฝันเห็น และคนหนุ่มของพวกเจ้าจะเห็นนิมิต
+
+> _บริบท: คำสัญญาเรื่องการเทพระวิญญาณลงเหนือ ‘มนุษย์ทั้งปวง’ ข้ามพ้นทุกพรมแดนของวัยและเพศ เปโตรอ้างข้อนี้ในวันเพ็นเทคอสต์ว่าสำเร็จในการที่พระวิญญาณเสด็จลงมา (กจ. 2:17)_
+
+**2** ในวันเหล่านั้น เราจะเทพระวิญญาณของเราลงเหนือทั้งทาสชายและทาสหญิงด้วย
+
+**3** เราจะสำแดงลางมหัศจรรย์ในท้องฟ้าและบนแผ่นดินโลก เป็นเลือด ไฟ และเสาควัน
+
+**4** ดวงอาทิตย์จะกลายเป็นความมืด และดวงจันทร์จะกลายเป็นสีเลือด ก่อนที่วันแห่งองค์พระผู้เป็นเจ้าอันยิ่งใหญ่และน่าสะพรึงกลัวจะมาถึง
+
+**5** แล้วทุกคนที่ร้องออกพระนามขององค์พระผู้เป็นเจ้าจะรอด เพราะบนภูเขาศิโยนและในเยรูซาเล็มจะมีการช่วยกู้ให้รอด ตามที่องค์พระผู้เป็นเจ้าได้ตรัสไว้ คือในหมู่ผู้ที่เหลือรอดซึ่งองค์พระผู้เป็นเจ้าทรงเรียก
+
+> _บริบท: ข้อสรุปอันยิ่งใหญ่: ‘ทุกคนที่ร้องออกพระนามขององค์พระผู้เป็นเจ้าจะรอด’ ความรอดเปิดกว้างแก่ทุกคนที่ร้องทูล แต่ก็อยู่ในหมู่ ‘ผู้ที่เหลือรอดซึ่งองค์พระผู้เป็นเจ้าทรงเรียก’—ทั้งการริเริ่มของพระเจ้าและการตอบสนองของมนุษย์ดำรงอยู่ด้วยกัน เปโตร (กจ. 2:21) และเปาโล (รม. 10:13) ต่างอ้างข้อนี้_
+
+---
+
+### หมายเหตุด้านต้นฉบับ
+
+**ข้อ 1** — ขาดในต้นฉบับวิจารณ์ (SBLGNT)
+
+_**หมายเหตุการนับข้อ:** บทที่ 3 ของต้นฉบับมาโซเรติก (MT) มี 5 ข้อ และตรงกับ โยเอล 2:28–32 ในพระคัมภีร์ภาษาอังกฤษ/ฉบับ KJV (MT 3:1 = อังกฤษ 2:28 … MT 3:5 = อังกฤษ 2:32). ภาษาฮีบรูแยกตอน ‘การเทพระวิญญาณ’ ออกเป็นบทที่ 3 ต่างหาก ส่วนภาษาอังกฤษนับต่อจากบทที่ 2. ฉบับเอเรโมสยึดการนับข้อตามต้นฉบับฮีบรู (MT) และปรับช่อง bsb_english ให้ตรงกัน ข้อมูลการเทียบข้อบันทึกไว้ที่ data/versification_map.json (JOL-3-1…5)._
+
+**ข้อ 1** — ขาดในต้นฉบับวิจารณ์ (SBLGNT)
+
+_**การอ้างอิงในพันธสัญญาใหม่:** ทั้งตอนนี้ (โยเอล 3:1–5 = อังกฤษ 2:28–32) ถูกอัครทูตเปโตรยกมาเทศนาในวันเพ็นเทคอสต์ (กิจการ 2:17–21) โดยประกาศว่าคำพยากรณ์เรื่องการเทพระวิญญาณบริบูรณ์เมื่อพระวิญญาณบริสุทธิ์เสด็จลงมาเหนือเหล่าสาวก. นอกจากนี้ อัครทูตเปาโลยังยกข้อ 5 (‘ทุกคนที่ร้องออกพระนามขององค์พระผู้เป็นเจ้าจะรอด’) มาใช้ใน โรม 10:13. ฉบับเอเรโมสแปลข้อความตามต้นฉบับฮีบรูอย่างซื่อตรง และระบุการอ้างอิงของพันธสัญญาใหม่ไว้ในหมายเหตุ พระนาม יהוה ปรากฏที่ข้อ 4 และ 5 (สามครั้ง)._
+
+
+---
+
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
@@ -168,4 +199,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 |---|---|
 | `output/translations/joel_01.json` | `5eef719302cc7afb48128b5675c5e401c6c3a1cafb9d32d14bfe7ef3ea80cd88` |
 | `output/translations/joel_02.json` | `284de88cc40f192a8deee458430061454cc6986c4e8c82e0def719962c3fc149` |
+| `output/translations/joel_03.json` | `7e0fa549a93233b8f7f5439cfc285dd22db3763b3317473691153f18f65081b9` |
 
