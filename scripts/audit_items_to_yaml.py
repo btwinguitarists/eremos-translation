@@ -97,6 +97,7 @@ BOOK_SLUGS = {
     "NAM": "nahum",
     "HAB": "habakkuk",
     "ZEP": "zephaniah",
+    "HAG": "haggai",
 }
 
 TODO_TH = "__TODO_TH__"
