@@ -21,7 +21,7 @@ You are performing a **per-chapter spot-review** of one chapter from a CC0, AI-a
 
 ### Source discipline (already followed during drafting)
 
-The drafting process reads SBLGNT + MACULA morph + BSB English (sanity check, never copy) + RULES.md + glossary.json + prior Eremos chapters + unfoldingWord notes (read-for-context-not-copy). It does NOT read THSV, NTV, ERV Thai, TNCV, TNBT wording, or copyrighted commentary. Do not propose alternative renderings on the basis of "but THSV says X."
+The drafting process reads SBLGNT + MACULA morph + BSB English (sanity check, never copy) + RULES.md + glossary.json + prior Eremos chapters + unfoldingWord notes (read-for-context-not-copy). It does NOT read copyrighted Thai translations, TNBT wording, or copyrighted commentary. Do not propose alternative renderings on the basis of "but standard Thai says X."
 
 ### Already-locked corpus decisions — DO NOT re-litigate
 

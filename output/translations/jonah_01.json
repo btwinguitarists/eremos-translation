@@ -14,7 +14,7 @@
         {
           "hebrew": "וַיְהִי דְּבַר־יְהוָה אֶל־יוֹנָה",
           "thai": "พระวจนะขององค์พระผู้เป็นเจ้ามาถึงโยนาห์",
-          "rationale": "Per uW writing-newevent: this formula introduces the first half of the story; the same phrase recurs at 3:1 to introduce the second half, signaling a deliberate ring-structure. Per hebrew_idioms_and_metaphor §5.1 on וַיְהִי: most languages do not begin a story with a conjunction; the וַיְהִי is dropped or absorbed in the Thai narrative opener. We translate the full prophetic-book formula directly — Thai prophetic-book convention (THSV/TNCV/NTV all start their prophetic books with the same pattern) uses พระวจนะ...มาถึง to preserve the Hebrew idiom of YHWH's word 'coming' to a person."
+          "rationale": "Per uW writing-newevent: this formula introduces the first half of the story; the same phrase recurs at 3:1 to introduce the second half, signaling a deliberate ring-structure. Per hebrew_idioms_and_metaphor §5.1 on וַיְהִי: most languages do not begin a story with a conjunction; the וַיְהִי is dropped or absorbed in the Thai narrative opener. We translate the full prophetic-book formula directly — Thai prophetic-book convention (mainstream Thai versions all start their prophetic books with the same pattern) uses พระวจนะ...มาถึง to preserve the Hebrew idiom of YHWH's word 'coming' to a person."
         },
         {
           "hebrew": "דְּבַר־יְהוָה",
@@ -24,7 +24,7 @@
         {
           "hebrew": "יוֹנָה בֶן־אֲמִתַּי",
           "thai": "โยนาห์บุตรอามิทัย",
-          "rationale": "Per uW translate-names: Amittai is Jonah's father. Thai transliteration follows established Thai Christian practice (THSV: โยนาห์, อามิทัย). Cross-reference 2 Kings 14:25, where Jonah ben-Amittai prophesies during the reign of Jeroboam II of Israel — historical anchor for the prophet's identity and northern-kingdom origin (Gath-Hepher, in Zebulun)."
+          "rationale": "Per uW translate-names: Amittai is Jonah's father. Thai transliteration follows established Thai Christian practice (standard Thai: โยนาห์, อามิทัย). Cross-reference 2 Kings 14:25, where Jonah ben-Amittai prophesies during the reign of Jeroboam II of Israel — historical anchor for the prophet's identity and northern-kingdom origin (Gath-Hepher, in Zebulun)."
         }
       ],
       "notes": "Standard Hebrew prophetic-book opening formula (וַיְהִי דְּבַר־יְהוָה — 'and the word of YHWH came'). FIRST YHWH OCCURRENCE in this chapter — see output/textual_variants/jonah_01.json for Layer 2 Tetragrammaton convention footnote per divine_names_table_2026-05.md. The repetition of this formula at 3:1 brackets a two-act structure (chs. 1–2 = Jonah flees + is rescued; chs. 3–4 = Jonah obeys + Yahweh spares Nineveh). Jonah ben-Amittai is the same prophet of 2 Kings 14:25 (Jeroboam II era, ~800–750 BC), making him a contemporary of Amos and Hosea — a prophet known to the original audience as one whose earlier word came true (territorial restoration of Israel)."
@@ -86,7 +86,7 @@
         {
           "hebrew": "תַּרְשִׁישָׁה",
           "thai": "ยังเมืองทารชิช",
-          "rationale": "Per uW figs-explicit: Tarshish was in the direction opposite to Nineveh — west (likely Tartessos in southern Spain) vs east. This geographic-opposite is the punchline of Jonah's flight. Thai transliteration ทารชิช matches THSV/TNCV established Thai practice. The directional irony is unpacked in thai_summary; we don't gloss it inline (would weigh down the verse)."
+          "rationale": "Per uW figs-explicit: Tarshish was in the direction opposite to Nineveh — west (likely Tartessos in southern Spain) vs east. This geographic-opposite is the punchline of Jonah's flight. Thai transliteration ทารชิช matches ฉบับแปลไทย established Thai practice. The directional irony is unpacked in thai_summary; we don't gloss it inline (would weigh down the verse)."
         },
         {
           "hebrew": "מִלִּפְנֵי יְהוָה",

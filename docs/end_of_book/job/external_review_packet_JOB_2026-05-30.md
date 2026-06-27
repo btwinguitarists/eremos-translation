@@ -158,7 +158,7 @@ The split is a chapter-progression drift (bare in chs. 5–11, `องค์-` f
 The project base text is MT (`ot_canon_and_text_base_2026-05.md`); departures of this kind are exception-(1) ("disputed MT reading; ancient versions preserve a clean reading"). Under `mt_vs_lxx_textual_variant_handling_2026-05.md` §2.3, routine minor cruxes need no reader-facing footer — but 13:15 is arguably *materially reader-affecting* (the difference between despair and the book's signature confession of faith).
 
 **Two questions:**
-1. Should **Job 13:15** carry a Tier-2 reader-facing footer noting the ketiv reading ("I have no hope") — given it is the most-quoted line in Job and the ketiv/qere difference inverts the meaning — or is the verse-note disposition + qere-follows-BSB sufficient (since THSV and most English versions also follow the qere)?
+1. Should **Job 13:15** carry a Tier-2 reader-facing footer noting the ketiv reading ("I have no hope") — given it is the most-quoted line in Job and the ketiv/qere difference inverts the meaning — or is the verse-note disposition + qere-follows-BSB sufficient (since standard Thai and most English versions also follow the qere)?
 2. Is the **23:2** departure from MT (`my hand` → `his hand`, following BSB/ancient versions) the intended treatment, and is a verse-note (rather than a Tier-2 footer) the correct disclosure level for a non-theologically-significant MT departure of this kind?
 
 ---

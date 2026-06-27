@@ -12,7 +12,7 @@ The verse-level `key_decisions` already flags the verse as deliberately open-end
 2. **"for even though / although"** (concessive; cf. NRSV's question-form "unless you have utterly rejected us…") — softens the rejection toward a concession or rhetorical question.
 3. **"but instead / for if…"** — conditional protasis.
 
-English versions split: ESV/NIV/CSB "unless," NRSV phrases it as a question, KJV "But thou hast utterly rejected us." Thai versions (THSV1971) lean concessive. A textually-aware Thai reader comparing editions will land on this verse first.
+English versions split: ESV/NIV/CSB "unless," NRSV phrases it as a question, KJV "But thou hast utterly rejected us." Thai versions (standard Thai) lean concessive. A textually-aware Thai reader comparing editions will land on this verse first.
 
 **Two questions:**
 1. Is the "เว้นเสียแต่ว่า / unless" reading the right call for a CC0 Thai Lamentations, or should the ending be rendered concessively ("แม้ว่า…" / as a question) to match the dominant Thai-evangelical expectation and avoid closing the book on apparent final rejection?

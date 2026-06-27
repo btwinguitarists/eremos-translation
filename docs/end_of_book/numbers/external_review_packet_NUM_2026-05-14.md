@@ -210,7 +210,7 @@ Then a brief **§Z: Anything else?** section if you spot a corpus-level concern 
 
 **Cross-book drift.** Exodus locked `ซีนาย` (100% uniform); Numbers's 10× `สีนาย` breaks that lock at the cross-Pentateuch level.
 
-**Editorial assessment.** Both spellings are defensible Thai transliterations of סִינַי. `สีนาย` follows the Hebrew vowel /iː/ literally; `ซีนาย` follows the conventional Thai-Christian-Bible Sinai-spelling (matches THSV-1971). Per `proper_names_and_transliteration_2026-05.md`'s "follow established Thai-Christian-Bible precedent unless documented otherwise" rule, `ซีนาย` is the corpus-canonical form.
+**Editorial assessment.** Both spellings are defensible Thai transliterations of סִינַי. `สีนาย` follows the Hebrew vowel /iː/ literally; `ซีนาย` follows the conventional Thai-Christian-Bible Sinai-spelling (matches common Thai usage-1971). Per `proper_names_and_transliteration_2026-05.md`'s "follow established Thai-Christian-Bible precedent unless documented otherwise" rule, `ซีนาย` is the corpus-canonical form.
 
 **Recommended normalization:** Change the 10× `สีนาย` to `ซีนาย` to match Exodus + within-book consistency. Mechanical fix — locations are predominantly NUM 1:1, 1:19, 3:1, 3:4, 3:14, 9:1, 9:5, 10:12, 33:15, 33:16.
 

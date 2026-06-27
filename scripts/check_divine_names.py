@@ -37,7 +37,7 @@ What this enforces:
 
   [F] Forbidden renderings: `พระยาห์เวห์` MUST NOT appear in the Thai field
       EXCEPT inside a place-name compound (ยาห์เวห์ยีเรห์, etc.). Bare
-      `พระยาห์เวห์` indicates the THSV11 historical-transliteration form
+      `พระยาห์เวห์` indicates an older historical-transliteration form
       that was reversed by the third-revision flip.
 
 Usage:
@@ -82,7 +82,7 @@ OT_SLUG_TO_CODE = {
 THAI_YHWH = "องค์พระผู้เป็นเจ้า"
 THAI_ADONAI = "องค์เจ้านาย"
 THAI_TSEBAOTH = "องค์พระผู้เป็นเจ้าจอมโยธา"
-FORBIDDEN_THSV11 = "พระยาห์เวห์"  # the third-revision reversed form
+FORBIDDEN_YHWH_FORM = "พระยาห์เวห์"  # the third-revision reversed form
 
 # Place-name YHWH compounds — transliteration is preserved per
 # divine_names_table_2026-05 §"Why the place-name compounds are the only
@@ -238,11 +238,11 @@ def check_verse(verse: dict, slug: str) -> tuple[list[str], list[str]]:
     # they legitimately contain ยาห์เวห์ (not พระยาห์เวห์).
     thai_without_placenames = PLACE_NAME_PATTERN.sub("", thai)
 
-    # [F] Forbidden THSV11 form
-    if FORBIDDEN_THSV11 in thai_without_placenames:
+    # [F] Forbidden YHWH transliteration form
+    if FORBIDDEN_YHWH_FORM in thai_without_placenames:
         hard.append(
-            f"[F] {ref}: Thai contains forbidden `{FORBIDDEN_THSV11}` "
-            f"(THSV11 form reversed by 2026-05-04 third-revision flip). "
+            f"[F] {ref}: Thai contains forbidden `{FORBIDDEN_YHWH_FORM}` "
+            f"(older form reversed by 2026-05-04 third-revision flip). "
             f"Use `{THAI_YHWH}` instead."
         )
 

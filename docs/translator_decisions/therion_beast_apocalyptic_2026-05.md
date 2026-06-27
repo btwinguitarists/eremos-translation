@@ -45,7 +45,7 @@ REV 13:11 describes the earth-beast / False-Prophet: `Καὶ εἶδον ἄλ�
 ## Why this matters
 
 - **Worship vs idolatry.** REV 4:8 has the ζῷα singing "ἅγιος ἅγιος ἅγιος" before God's throne; REV 13:8 has the whole earth worshiping the θηρίον. The Thai must not let these two scenes use the same noun.
-- **Reader trust.** Thai Christian readers cross-checking with THSV will recognize **สัตว์ร้าย** (monster register) for Beast and **สิ่งมีชีวิต** (neutral) for Living-Creature; the convention is established.
+- **Reader trust.** Thai Christian readers cross-checking with standard Thai will recognize **สัตว์ร้าย** (monster register) for Beast and **สิ่งมีชีวิต** (neutral) for Living-Creature; the convention is established.
 - **Future-proofing.** A future editor may try to "normalize" 6:8's **สัตว์ป่า** to **สัตว์ร้าย** for "consistency" — DO NOT. The 6:8 distinction is principled, tracking Greek-semantic-domain, not lemma-surface.
 
 ---

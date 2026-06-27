@@ -58,7 +58,7 @@ Recommended action: Move to Option 3. Keep the literal main-field renderings at 
 Item C: προάγω → ก้าวล้ำเกินเลย
 
 Verdict: FINE, with minor readability caution
-Reasoning: In 2 JN 1:9, προάγων καὶ μὴ μένων is not ordinary "going before"; it is "going ahead" in a way that abandons the boundary of Christ's teaching. ก้าวล้ำเกินเลย captures both the movement metaphor and the transgressive/false-progress irony better than เกินไป, นอกแนวคำสอน, or even THSV's milder ก้าวล่วง. The corpus-hapax status is acceptable because this is a semantically unusual NT use.
+Reasoning: In 2 JN 1:9, προάγων καὶ μὴ μένων is not ordinary "going before"; it is "going ahead" in a way that abandons the boundary of Christ's teaching. ก้าวล้ำเกินเลย captures both the movement metaphor and the transgressive/false-progress irony better than เกินไป, นอกแนวคำสอน, or even ฉบับแปลไทย's milder ก้าวล่วง. The corpus-hapax status is acceptable because this is a semantically unusual NT use.
 Recommended action: Lock as-is, but send ก้าวล้ำเกินเลย to native Thai reviewers specifically for naturalness. If they judge it too stilted, fallback should be ก้าวล่วงเกินขอบเขต or ก้าวเลยขอบเขต rather than a flat doctrinal paraphrase.
 
 Item D: Do not receive him into the house
@@ -104,7 +104,7 @@ _(Grok pass added 2026-06-21 via Cowork; Gemini + ChatGPT sections above are the
 
 **## Item C: προάγω → ก้าวล้ำเกินเลย doctrinal-progressivism metaphor**
 **Verdict:** FINE
-**Reasoning:** 2 JN 1:9 uniquely deploys προάγω with ironic "run-ahead/beyond" theological warning (false innovation as departure from Christ's teaching), distinct from its neutral "lead/go-before" uses elsewhere. **ก้าวล้ำเกินเลย** effectively captures this irony and "going-beyond-bounds" sense better than milder THSV **ก้าวล่วง** or alternatives that lose the progress-metaphor. Hapax status is acceptable for precision in this rare context; consistency principle prioritizes Greek fidelity over cross-version smoothing.
+**Reasoning:** 2 JN 1:9 uniquely deploys προάγω with ironic "run-ahead/beyond" theological warning (false innovation as departure from Christ's teaching), distinct from its neutral "lead/go-before" uses elsewhere. **ก้าวล้ำเกินเลย** effectively captures this irony and "going-beyond-bounds" sense better than milder standard Thai **ก้าวล่วง** or alternatives that lose the progress-metaphor. Hapax status is acceptable for precision in this rare context; consistency principle prioritizes Greek fidelity over cross-version smoothing.
 **Recommended action:** Lock as-is. No change needed.
 
 **## Item D: μὴ λαμβάνετε αὐτὸν εἰς οἰκίαν house-church platform vs private hospitality**

@@ -43,7 +43,7 @@ The Thai SPECIFICALLY uses **ความ-** (state-noun-prefix) for ἀκαθα
 - 4:3 GK: `ὁ **ἁγιασμὸς** ὑμῶν` → TH: `**การชำระให้บริสุทธิ์**ของพวกท่าน` ([act of being] purified)
 
 **Two questions:**
-1. Is the Greek-aspectual lexical split (ἁγιασμός = **การชำระให้บริสุทธิ์** process / ἁγιωσύνη = **ความบริสุทธิ์** state) sound for a CC0 evangelical-Protestant Thai Bible? Or does it over-translate at the cost of natural Thai readability (the longer **การชำระให้บริสุทธิ์** is 5 syllables, vs THSV1971's compact **ความบริสุทธิ์** which collapses the distinction)?
+1. Is the Greek-aspectual lexical split (ἁγιασμός = **การชำระให้บริสุทธิ์** process / ἁγιωσύνη = **ความบริสุทธิ์** state) sound for a CC0 evangelical-Protestant Thai Bible? Or does it over-translate at the cost of natural Thai readability (the longer **การชำระให้บริสุทธิ์** is 5 syllables, vs standard Thai's compact **ความบริสุทธิ์** which collapses the distinction)?
 2. Should this be lifted to a corpus doc before Rom 6:19, 22 + Heb 12:14 (where ἁγιασμός / ἁγιωσύνη recur in dense theological clusters)?
 
 ---

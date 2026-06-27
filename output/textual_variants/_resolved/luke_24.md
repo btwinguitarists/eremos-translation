@@ -17,7 +17,7 @@ Translator's notes (verbatim):
 
 > TEXTUAL-NOTE: v.12 is another Western-non-interpolation candidate. Codex Bezae (D), Old Latin a b d e l r¹ OMIT this entire verse. SBLGNT, NA28, Byzantine, and all Alexandrian uncials INCLUDE. Since SBLGNT prints the verse, we render it — no textual-footnote required here (SBLGNT + NA28 + BSB all agree on inclusion). HARMONIZATION with JHN 20:3-10: John has Peter AND the-beloved-disciple racing to the tomb. Luke compresses to Peter-alone, but v.24 later implies multiple disciples went ('some of those with us went to the tomb'). ΟΘΌΝΙΑ: burial-cloths — distinct from the σουδάριον 'face-cloth' mentioned separately at JHN 20:7. The cloths-remaining-but-body-missing was the emerging-evidential-sign of something-unusual (grave-robbers would take the whole package).
 
-**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai (THSV) follow the same shorter reading; reader-trust is preserved.
+**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai versions follow the same shorter reading; reader-trust is preserved.
 
 ### Luke 24:42
 
@@ -25,7 +25,7 @@ Translator's notes (verbatim):
 
 > HAPAX: ὀπτός — NT-unique adjective, classical-Greek for roasted/broiled over fire. The specific-detail (not just 'fish' but 'broiled fish' — ready-to-eat, cooked) signals concrete-reality — a historical-detail embedded in the narrative, not generic. TEXTUAL-NOTE: Byzantine mss add καὶ ἀπὸ μελισσίου κηρίου 'and some honey-comb' here — SBLGNT/NA28/BSB omit per earlier-mss. No footnote-needed; follow SBLGNT.
 
-**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai (THSV) follow the same shorter reading; reader-trust is preserved.
+**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai versions follow the same shorter reading; reader-trust is preserved.
 
 ---
 

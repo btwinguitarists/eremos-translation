@@ -69,7 +69,7 @@ These are real translation tasks that must run through the existing pipeline (RU
 - [ ] **Mark 15:28** — `output/textual_variants/_resolved/mark_15_v28.md`
 - [ ] **Luke 17:36** — `output/textual_variants/_resolved/luke_17_v36.md`
 
-Each `_resolved/` doc should state: (1) which RULES §5 category applies, (2) the manuscript witnesses on each side, (3) what mainstream English (BSB / ESV / NIV / CSB) and mainstream Thai (THSV / THKJV) do, (4) why this case is reader-unsurprising and therefore Tier 2 is unnecessary.
+Each `_resolved/` doc should state: (1) which RULES §5 category applies, (2) the manuscript witnesses on each side, (3) what mainstream English (BSB / ESV / NIV / CSB) and mainstream Thai (standard Thai / THKJV) do, (4) why this case is reader-unsurprising and therefore Tier 2 is unnecessary.
 
 ### RULES.md update
 

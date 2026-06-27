@@ -42,7 +42,7 @@ Heb 2:6 quotes Ps 8:4 LXX: τί ἐστιν ἄνθρωπος ὅτι μιμν�
 - **Always use บุตรมนุษย์ (title-form) for every occurrence**, with context disambiguating. Rejected: loses the distinction Mark 3:28 pointedly marks.
 - **Always use บุตรของมนุษย์ (generic-form) for every occurrence**, letting the capital/contextual cues mark title-use. Rejected: Thai does not have capital letters; the title form needs orthographic marking.
 - **Use a transliteration "บาร์-นาชา" or "ben-adam"** for the title in all occurrences. Rejected: too foreign; established Thai Christian tradition uses the translated compound บุตรมนุษย์.
-- **Use คำเทียบ ("human-one" / "บุตรแห่งมนุษย์")** — a slightly more formal-sounding alternative. Rejected: the established Thai Christian pattern is บุตรมนุษย์ without แห่ง. Deviation from established usage would confuse Thai readers who already know the title from THSV / NTV.
+- **Use คำเทียบ ("human-one" / "บุตรแห่งมนุษย์")** — a slightly more formal-sounding alternative. Rejected: the established Thai Christian pattern is บุตรมนุษย์ without แห่ง. Deviation from established usage would confuse Thai readers who already know the title from ฉบับแปลไทย.
 
 ## When to revisit
 

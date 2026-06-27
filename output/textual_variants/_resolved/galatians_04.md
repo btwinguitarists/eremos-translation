@@ -16,7 +16,7 @@ Translator's notes (verbatim):
 
 > TWO-JERUSALEM TYPOLOGY: present-earthly-Jerusalem (enslaved, Hagar-equivalent) vs. above-heavenly-Jerusalem (free, Sarah-equivalent). The two-Jerusalem motif is widespread in Second-Temple Jewish apocalyptic literature (cf. 4 Ezra 7:26, 8:52, 13:36; 2 Baruch 4:2-6; cf. Rev 21:2). Paul applies it to the Galatian-context: the believers are children of the heavenly-Jerusalem, not the earthly. The implicit-application: don't return-to-the-earthly-Jerusalem-Torah-system; remain in the heavenly-Jerusalem-faith-promise.
 
-**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai (THSV) follow the same shorter reading; reader-trust is preserved.
+**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai versions follow the same shorter reading; reader-trust is preserved.
 
 ---
 

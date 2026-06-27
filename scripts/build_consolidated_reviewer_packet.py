@@ -199,7 +199,7 @@ What this means in practice:
 
 **Never read during translation:**
 
-- Any copyrighted Thai translation (THSV, NTV, ERV Thai, TNCV)
+- Any copyrighted Thai translation
 - TNBT (CC-BY-SA — used post-draft for structural comparison only, never read for wording)
 - Any copyrighted commentary
 
@@ -412,7 +412,7 @@ Eremos Translation เป็นพระคัมภีร์ภาคพัน�
 
 ### ทำไมถึงต้องมีพระคัมภีร์ฉบับใหม่ภาษาไทยอีก?
 
-(ผู้ดูแลโครงการกรุณายืนยันคำตอบ) ฉบับแปลภาษาไทยที่ใช้กันอยู่ในปัจจุบัน (เช่น THSV, NTV, ERV Thai, TNCV) ล้วนสงวนลิขสิทธิ์ ไม่สามารถใช้ในแอปพลิเคชัน, เว็บไซต์ หรือสื่อใดๆ ได้โดยอิสระ Eremos Translation มุ่งสร้างฉบับ CC0 ที่ใครๆ ก็นำไปใช้ได้
+(ผู้ดูแลโครงการกรุณายืนยันคำตอบ) ฉบับแปลภาษาไทยที่ใช้กันอยู่ในปัจจุบันล้วนสงวนลิขสิทธิ์ ไม่สามารถใช้ในแอปพลิเคชัน, เว็บไซต์ หรือสื่อใดๆ ได้โดยอิสระ Eremos Translation มุ่งสร้างฉบับ CC0 ที่ใครๆ ก็นำไปใช้ได้
 
 ### ฉบับนี้แปลจากภาษาอะไร?
 

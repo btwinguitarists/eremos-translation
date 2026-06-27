@@ -165,7 +165,7 @@ Frequency count across the corpus:
 
 **Cross-book drift.** Exodus locked `ซีนาย` (100% uniform across 44 occurrences); Numbers's 10× `สีนาย` breaks that lock. Future Pentateuch (Deut 33:2) and Pentateuchal-allusion (Judg 5:5, Ps 68:8+17, Neh 9:13) recitations are at risk.
 
-**Editorial assessment.** Both spellings are defensible Thai transliterations of סִינַי (Hebrew /siːˈnaj/) — `สีนาย` follows the Hebrew vowel /iː/ literally; `ซีนาย` follows the conventional Thai-Christian-Bible Sinai spelling (matches THSV-1971). Per `proper_names_and_transliteration_2026-05.md`'s "follow established Thai-Christian-Bible precedent unless documented otherwise" rule, `ซีนาย` is the corpus-canonical form.
+**Editorial assessment.** Both spellings are defensible Thai transliterations of סִינַי (Hebrew /siːˈnaj/) — `สีนาย` follows the Hebrew vowel /iː/ literally; `ซีนาย` follows the conventional Thai-Christian-Bible Sinai spelling (matches common Thai usage-1971). Per `proper_names_and_transliteration_2026-05.md`'s "follow established Thai-Christian-Bible precedent unless documented otherwise" rule, `ซีนาย` is the corpus-canonical form.
 
 **REVIEW flag.** Recommend normalization: **change the 10× `สีนาย` to `ซีนาย`** to match Exodus. Cost: ~10 surgical text-edits across chs.1-3, 9-10, 33 (mostly the NUM 33 itinerary in 33:15-16; cluster at NUM 1:1, 1:19, 3:1, 3:4, 3:14, 9:1, 9:5, 10:12). Add a `glossary.json` entry or a quick check-script extension that locks the canonical ซีนาย form for סִינַי. **Severity: MEDIUM** — direct proper-name lock-violation.
 

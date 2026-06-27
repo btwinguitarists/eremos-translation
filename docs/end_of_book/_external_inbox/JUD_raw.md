@@ -24,7 +24,7 @@ Recommended action: Spot-revise to Option B by adding a thai_summary at JUD 1:25
 Item C: ἐπαγωνίζομαι at JUD 1:3 → ต่อสู้อย่างเข้มแข็ง: Jude's programmatic statement
 
 Verdict: CONCERN
-Reasoning: Simplifying the verb to merely ต่อสู้ (as in THSV) strips the morphologically marked ἐπ- prefix and weakens the programmatic urgency of Jude's command to "contend earnestly." However, อย่างเข้มแข็ง ("strongly") feels slightly generic for the specific agonistic imagery in view. The prefix carries an active, relentless pursuit on behalf of the faith.
+Reasoning: Simplifying the verb to merely ต่อสู้ (as in ฉบับแปลไทย) strips the morphologically marked ἐπ- prefix and weakens the programmatic urgency of Jude's command to "contend earnestly." However, อย่างเข้มแข็ง ("strongly") feels slightly generic for the specific agonistic imagery in view. The prefix carries an active, relentless pursuit on behalf of the faith.
 Recommended action: Spot-revise JUD 1:3 to ต่อสู้อย่างไม่ลดละ ("unrelentingly"). This preserves the grammatical intensifier while matching the urgent, agonistic Pauline register (like 2 TIM 4:7) far better than the current rendering.
 
 Item D: Pastoral triage at JUD 1:22–23: ZEC 3 / LEV 13 imagery
@@ -63,7 +63,7 @@ Cascade lightly to 2 Peter 1:1 and Titus 2:13 only if they lack reader-visible s
 Item C: ἐπαγωνίζομαι → ต่อสู้อย่างเข้มแข็ง
 
 Verdict: FINE
-Reasoning: ต่อสู้อย่างเข้มแข็ง is a defensible rendering of ἐπαγωνίζεσθαι because it preserves both the "contend/fight for" force and the intensified agonistic nuance. Dropping the adverb to match THSV would make the Thai smoother but would lose a marked feature of Jude's programmatic statement.
+Reasoning: ต่อสู้อย่างเข้มแข็ง is a defensible rendering of ἐπαγωνίζεσθαι because it preserves both the "contend/fight for" force and the intensified agonistic nuance. Dropping the adverb to matches common Thai usage would make the Thai smoother but would lose a marked feature of Jude's programmatic statement.
 Recommended action: Lock as-is. Do not change to อย่างหนักแน่น, which shifts the image toward doctrinal steadiness, or อย่างไม่ลดละ, which may overstate persistence/aggression. Current rendering is strong without becoming rhetorically excessive.
 
 Item D: Pastoral triage and OT defilement imagery

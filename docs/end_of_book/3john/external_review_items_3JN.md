@@ -128,7 +128,7 @@ The 1:9 KD:
 - CSB: "who likes to be in charge of everything"
 
 Modern Thai versions also vary:
-- THSV: **ผู้อยากเป็นใหญ่** ("the-one-wanting-to-be-great")
+- standard Thai: **ผู้อยากเป็นใหญ่** ("the-one-wanting-to-be-great")
 - THKJV: **ที่ใคร่จะเป็นใหญ่** ("who-desires-to-be-great")
 - a Thai NLT-equivalent: **ผู้ชอบเป็นใหญ่** ("who-likes-to-be-great")
 
@@ -137,7 +137,7 @@ Modern Thai versions also vary:
 **The trade-off:** **ใฝ่หา** is somewhat literary-register (less common in everyday Thai) and may sound elevated in a way that mismatches the personal-pastoral letter register of 3 JN. The other Thai versions opt for more colloquial Thai.
 
 **Two questions:**
-1. Is **ใฝ่หาความเป็นใหญ่** the right rendering for the active-loving-pursuit force of φιλο-, or should it match the THSV **อยากเป็นใหญ่** for cross-Bible Thai-readability at the cost of softening the active-pursuit nuance?
+1. Is **ใฝ่หาความเป็นใหญ่** the right rendering for the active-loving-pursuit force of φιλο-, or should it match the standard Thai **อยากเป็นใหญ่** for cross-Bible Thai-readability at the cost of softening the active-pursuit nuance?
 2. Should the rendering distinguish lexically from the more general "ambition" Thai vocabulary (e.g., ทะเยอทะยาน "ambitious") to reserve **ใฝ่หา** for this specific Johannine theological-vocabulary, or is the cross-Eremos Thai-corpus-hapax status of **ใฝ่หาความเป็นใหญ่** appropriate?
 
 ---

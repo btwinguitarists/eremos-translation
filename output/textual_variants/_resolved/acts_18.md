@@ -17,15 +17,15 @@ Translator's notes (verbatim):
 
 > **NEW PROPER-NOUN LOCK**: Σωσθένης → โสสเธเนส. Per uW figs-explicit: likely identical with 1COR 1:1 Sosthenes (Paul's co-author) — later-believer identification plausible and widely accepted. The πάντες ambiguity (Gentile-bystanders vs. fellow-Jews) preserved per uW; the uW-preferred second reading integrates with the Crispus-precedent. No textual variant of consequence (some TR/Byz mss insert οἱ Ἕλληνες before πάντες for disambiguation — SBLGNT/NA28 omits, keeping the ambiguity).
 
-**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai (THSV) follow the same shorter reading; reader-trust is preserved.
+**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai versions follow the same shorter reading; reader-trust is preserved.
 
 ### Acts 18:21
 
 Translator's notes (verbatim):
 
-> Pauline-promise-with-condition 'God-willing' formula (cf. JAS 4:15). Promise fulfilled ACT 19:1 (third-journey Ephesus 2-3 year stay). No hapax. Textual variant: Byzantine/TR adds δεῖ με πάντως τὴν ἑορτὴν τὴν ἐρχομένην ποιῆσαι εἰς Ἱεροσόλυμα 'I-must-by-all-means keep-the-coming-feast in Jerusalem' between ἀλλά and ἀποταξάμενος — SBLGNT/NA28 omits (weak Alexandrian attestation). Mainstream English (BSB/ESV/NIV/CSB) all omit. We follow SBLGNT — the feast-explanation does not appear in the main text; this is distinct from inclusion-variants tiered at RULES §5 because it is contextually-inferable, not a major reader-expectation (THSV also omits).
+> Pauline-promise-with-condition 'God-willing' formula (cf. JAS 4:15). Promise fulfilled ACT 19:1 (third-journey Ephesus 2-3 year stay). No hapax. Textual variant: Byzantine/TR adds δεῖ με πάντως τὴν ἑορτὴν τὴν ἐρχομένην ποιῆσαι εἰς Ἱεροσόλυμα 'I-must-by-all-means keep-the-coming-feast in Jerusalem' between ἀλλά and ἀποταξάμενος — SBLGNT/NA28 omits (weak Alexandrian attestation). Mainstream English (BSB/ESV/NIV/CSB) all omit. We follow SBLGNT — the feast-explanation does not appear in the main text; this is distinct from inclusion-variants tiered at RULES §5 because it is contextually-inferable, not a major reader-expectation (standard Thai also omits).
 
-**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai (THSV) follow the same shorter reading; reader-trust is preserved.
+**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai versions follow the same shorter reading; reader-trust is preserved.
 
 ---
 

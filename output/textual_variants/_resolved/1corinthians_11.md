@@ -16,7 +16,7 @@ Translator's notes (verbatim):
 
 > WORDS OF INSTITUTION — the bread-saying. Variant manuscripts add κλώμενον ('broken') after σῶμα; SBLGNT (and most modern critical texts) do not include it. The institution words bear close resemblance to Synoptic-Gospel parallels, especially Luke 22:19 (which has very similar wording, suggesting Paul and Luke shared a common source-tradition).
 
-**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai (THSV) follow the same shorter reading; reader-trust is preserved.
+**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai versions follow the same shorter reading; reader-trust is preserved.
 
 ---
 

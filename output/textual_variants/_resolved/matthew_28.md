@@ -17,7 +17,7 @@ Translator's notes (verbatim):
 > TEXTUAL VARIANT: SBLGNT reads καὶ ἰδοὺ Ἰησοῦς ὑπήντησεν αὐταῖς. Some MSS read ὡς δὲ ἐπορεύοντο ἀπαγγεῖλαι τοῖς μαθηταῖς αὐτοῦ καὶ ἰδοὺ Ἰησοῦς ὑπήντησεν αὐταῖς ('as they were going to report to his disciples, behold Jesus met them'). SBLGNT follows the shorter reading with most modern critical editions; we follow SBLGNT. The worship (προσεκύνησαν) given to Jesus here is full divine worship — a post-resurrection confession that would have been blasphemous if directed at any merely-human rabbi. Matthew's gospel frames this worship from birth (2:2 magi, 2:11) to resurrection (28:9, 28:17) — bookending Jesus's life with the response proper to God alone. Foot-grasping: ancient gesture of supreme honor (cf. the Shunammite in 2 Kgs 4:27 LXX, where the same verb-idea appears). ADDED TO NT_OT_CITATI
 > _[truncated — see `output/translations/matthew_28.json` for full notes]_
 
-**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai (THSV) follow the same shorter reading; reader-trust is preserved.
+**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai versions follow the same shorter reading; reader-trust is preserved.
 
 ---
 

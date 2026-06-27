@@ -81,7 +81,7 @@ THAI_BOOK_TITLES = {
     "1PE": "1 เปโตร", "2PE": "2 เปโตร",
     "1JN": "1 ยอห์น", "2JN": "2 ยอห์น", "3JN": "3 ยอห์น",
     "JUD": "ยูดา", "REV": "วิวรณ์",
-    # OT (THSV11/TNCV conventions) — Phase 6 pilot (Ruth → Jonah → Gen 1-11)
+    # OT (standard Thai conventions) — Phase 6 pilot (Ruth → Jonah → Gen 1-11)
     "GEN": "ปฐมกาล", "EXO": "อพยพ", "LEV": "เลวีนิติ",
     "NUM": "กันดารวิถี", "DEU": "เฉลยธรรมบัญญัติ",
     "JOS": "โยชูวา", "JDG": "ผู้วินิจฉัย", "RUT": "นางรูธ",
@@ -150,7 +150,7 @@ def render_chapter(verses: list[dict], chapter_num: int, variants: list[dict] | 
     #   - inclusion_variant_absent (whole-verse omission per RULES §5 +
     #     docs/translator_decisions/inclusion_variants_absent_verses_2026-04.md):
     #     show TR/Byz Thai rendering + witnesses so readers cross-checking
-    #     with THSV/THKJV see what those traditions include where SBLGNT
+    #     with THKJV see what those traditions include where SBLGNT
     #     omits the verse.
     #   - reading_variant (word-substitution where verse is present in both
     #     traditions but a key word differs, e.g. 1 Tim 3:16 Ὃς vs Θεός):

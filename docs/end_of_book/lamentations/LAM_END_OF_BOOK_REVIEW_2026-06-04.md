@@ -192,7 +192,7 @@ The 5:22 `key_decisions` correctly flags the verse as open-ended (readable as "u
 2. **"for even though / although"** (concessive — NRSV-ish "Or have you utterly rejected us?") — softer, reads the rejection as a question/concession.
 3. **"but instead / for [if]"** — conditional protasis.
 
-This is exactly the kind of high-visibility, theology-bearing crux a textually-aware Thai reader (comparing THSV/NTV) will land on first. The rendering is defensible and documented, but **Ben should confirm**: (a) endorse the "เว้นเสียแต่ว่า / unless" reading, and (b) decide whether the reader edition should carry a footnote noting the v.21-reprise convention (so the book does not visually end in despair). **DECIDE before tagging.**
+This is exactly the kind of high-visibility, theology-bearing crux a textually-aware Thai reader (comparing ฉบับแปลไทย) will land on first. The rendering is defensible and documented, but **Ben should confirm**: (a) endorse the "เว้นเสียแต่ว่า / unless" reading, and (b) decide whether the reader edition should carry a footnote noting the v.21-reprise convention (so the book does not visually end in despair). **DECIDE before tagging.**
 
 ---
 

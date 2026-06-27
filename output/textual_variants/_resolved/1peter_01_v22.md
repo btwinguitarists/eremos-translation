@@ -29,7 +29,7 @@ Mainstream evangelical English Bibles uniformly omit:
 - **KJV/NKJV**: include "through the Spirit" (Byzantine TR)
 
 Mainstream Thai Bibles:
-- **THSV (สมาคมพระคริสตธรรมไทย / Thai Standard Version)**: omits — follows critical text
+- **standard Thai (mainstream Thai versions usage)**: omits — follows critical text
 - **THKJV (Thai King-James-Version family)**: includes (follows TR)
 
 This is a clear modern-critical-text-consensus case: all major modern English + Thai critical-text-following translations omit. Reader-trust is preserved by the silent-omission. The phrase is not narratively-load-bearing — its presence or absence does not change which clause governs `Τὰς ψυχὰς ὑμῶν ἡγνικότες`; it merely amplifies the agency.

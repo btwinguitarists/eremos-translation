@@ -87,10 +87,10 @@ The Eremos rendering aligns with BSB/NIV/CSB/ESV — the mainstream evangelical-
 
 **Editorial assessment — thai_summary handling:** The 3:8 thai_summary openly acknowledges the extra-canonical source: *"ยันเนส (Ἰάννης) และยัมเบรส (Ἰαμβρῆς) เป็นชื่อที่ปรากฏในคำสอนของชาวยิวนอกคัมภีร์ (เช่น Targum Pseudo-Jonathan และเอกสารคัมภีร์ทะเลตาย) — ระบุว่าเป็นนักเวทมนตร์สองคนของฟาโรห์ที่ต่อต้านโมเสสตามที่บันทึกไว้ในอพยพ 7-9. ชื่อทั้งสองนี้ไม่ได้ปรากฏในพันธสัญญาเดิม"*
 
-This is **rare in Thai Bible editions** — TNCV / THSV typically transliterate without explanation; English NRSV / NRSVue / CEB lean toward this open-handling.
+This is **rare in Thai Bible editions** — mainstream Thai versions typically transliterate without explanation; English NRSV / NRSVue / CEB lean toward this open-handling.
 
 **Two questions:**
-1. Is the **open-acknowledgment of the extra-canonical source** in the thai_summary the right corpus-default? It serves missions-context Thai readers who may otherwise be confused that these names are not in their OT (Exodus 7-11 names neither magician). Alternative: silent transliteration (TNCV/THSV pattern) would match Thai-evangelical-tradition norms but leave the historical-source-question unaddressed for readers without access to scholarly resources. For a CC0 evangelical-Protestant Thai Bible deployed publicly via Eremos, is the open-acknowledgment principled?
+1. Is the **open-acknowledgment of the extra-canonical source** in the thai_summary the right corpus-default? It serves missions-context Thai readers who may otherwise be confused that these names are not in their OT (Exodus 7-11 names neither magician). Alternative: silent transliteration (the mainstream Thai-version pattern) would match Thai-evangelical-tradition norms but leave the historical-source-question unaddressed for readers without access to scholarly resources. For a CC0 evangelical-Protestant Thai Bible deployed publicly via Eremos, is the open-acknowledgment principled?
 2. If confirmed as corpus-default, this open-acknowledgment approach should propagate forward to **Jude 14-15** (1 Enoch 1:9 citation) and **Jude 9** (Assumption of Moses tradition). Should the corpus pre-commit to that propagation now, or evaluate verse-by-verse at translation-time?
 
 ---
@@ -124,11 +124,11 @@ Greek **θεόπνευστος** is a HAPAX compound (θεός "God" + πνέω 
 - **ที่พระเจ้าทรงเป่าออก** — "which God breathed out" (preserves the verbal-respiration force)
 - **ที่มาจากลมหายใจของพระเจ้า** — "originating from God's breath" (combination)
 
-**Editorial assessment:** The current rendering **ได้รับการดลใจจากพระเจ้า** matches mainstream Thai-evangelical translations (TNCV, THSV) — preserves Thai-Christian-doctrinal-register continuity at the cost of the etymological breath-imagery that θεόπνευστος uniquely carries (no other Greek word in the NT is built from this compound). The Pastoral-corpus elsewhere has shown a pattern of flattening Greek-imagery when no idiomatic Thai equivalent exists (ὑγιαίνω → ถูกต้อง; ὀρθοτομέω → จัดการ ... อย่างตรงเที่ยง) — consistent precedent.
+**Editorial assessment:** The current rendering **ได้รับการดลใจจากพระเจ้า** matches mainstream Thai-evangelical translations — preserves Thai-Christian-doctrinal-register continuity at the cost of the etymological breath-imagery that θεόπνευστος uniquely carries (no other Greek word in the NT is built from this compound). The Pastoral-corpus elsewhere has shown a pattern of flattening Greek-imagery when no idiomatic Thai equivalent exists (ὑγιαίνω → ถูกต้อง; ὀρθοτομέω → จัดการ ... อย่างตรงเที่ยง) — consistent precedent.
 
 **Three questions:**
 1. Is **πᾶσα γραφับ → ทุกตอน** (distributive-leaning, ambiguity-preserving) the right rendering? Or should it commit to **ทั้งสิ้น** (collective; matches all mainstream English) — abandoning the distributive reading? For a CC0 Thai Bible whose stated principle is preserving Greek-ambiguity-naturally, is the dual-reading **ทุกตอน** sufficient, or does it lean too distributive to capture the load-bearing collective sense ("Scripture-as-a-whole-is-inspired") that evangelical doctrine of Scripture rests on?
-2. Is **θεόπνευστος → ได้รับการดลใจจากพระเจ้า** the right rendering? Or should it preserve the **breath-image** (e.g., **ลมหายใจของพระเจ้า**) — more etymologically-faithful but breaking Thai-Christian-register-consistency with TNCV / THSV? For a CC0 evangelical-Protestant Thai Bible serving missions-context, which trade-off is principled?
+2. Is **θεόπνευστος → ได้รับการดลใจจากพระเจ้า** the right rendering? Or should it preserve the **breath-image** (e.g., **ลมหายใจของพระเจ้า**) — more etymologically-faithful but breaking Thai-Christian-register-consistency with mainstream Thai versions? For a CC0 evangelical-Protestant Thai Bible serving missions-context, which trade-off is principled?
 3. The 3:16 thai_summary unpacks the etymology in detail (*"รากศัพท์ประกอบด้วย θεός (พระเจ้า) + πνέω (หายใจ/ลม) ความหมายคือพระคัมภีร์เป็นผลของ 'ลมหายใจของพระเจ้า' — เปรียบเสมือนพระเจ้าทรงเป่าวิญญาณของพระองค์เข้าไปในข้อความ ทำให้เกิดเป็นพระวจนะที่มีอำนาจ"*). Is the **main text + summary** division-of-labor (idiomatic-Thai-Christian rendering up front; etymological breath-image surfaced in summary) sufficient, or should the main text bear the etymological force directly?
 
 ---

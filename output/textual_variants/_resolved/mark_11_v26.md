@@ -14,7 +14,7 @@
 
 1. **Modern evangelical critical-text consensus matches our practice:** SBLGNT, NA28, UBS5 all omit. BSB, ESV, NIV, CSB all omit (some footnote, none print in main text).
 2. **Almost certainly scribal harmonization from Matthew 6:15.** Mark's chapter-context introduces the prayer-faith pericope (Mark 11:24-25) but the explicit forgiveness clause matches Matt 6:15 verbatim — a typical scribal "fill-in" pattern when copyists read in parallel passages.
-3. **Mainstream Thai translations** (THSV current edition) follow modern critical text and omit; THKJV (KJV-lineage) includes. A reader cross-referencing THSV will not be surprised by the absence; a reader cross-referencing THKJV will see the omission but the doctrinal substance is preserved by Mark 11:25 + the parallel teaching at Matthew 6:14-15.
+3. **Mainstream Thai translations** (standard Thai current edition) follow modern critical text and omit; THKJV (KJV-lineage) includes. A reader cross-referencing standard Thai will not be surprised by the absence; a reader cross-referencing THKJV will see the omission but the doctrinal substance is preserved by Mark 11:25 + the parallel teaching at Matthew 6:14-15.
 
 **Decision (RULES §5 category 4):** silent omission. No Tier 1/2/3 footer needed. Reader trust is preserved because mainstream translations of all stripes, in both English and Thai, broadly agree to omit.
 

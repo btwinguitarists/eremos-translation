@@ -17,7 +17,7 @@ Translator's notes (verbatim):
 > OT ALLUSION: Two clear OT echoes: (1) Jeremiah 1:5 (LXX πρὸ τοῦ με πλάσαι σε ἐν κοιλίᾳ ἐπίσταμαί σε καὶ πρὸ τοῦ σε ἐξελθεῖν ἐκ μήτρας ἡγίακά σε, προφήτην εἰς ἔθνη τέθεικά σε) — God's call of Jeremiah from the womb to be a prophet to the nations. (2) Isaiah 49:1 (LXX ἐκ κοιλίας μητρός μου ἐκάλεσε τὸ ὄνομά μου) — the Servant Song where the Servant is called from the womb. Paul deliberately frames his apostolic call in the language of the Servant-prophet OT call narratives. ADDED TO NT_OT_CITATIONS: GAL 1:15 → JER 1:5; ISA 49:1 (both allusions, paraphrastic). TEXTUAL VARIANT: TR/Byz add ὁ θεός after εὐδόκησεν (so KJV 'when it pleased God'); SBLGNT, NA28, modern critical editions read without ὁ θεός. Thai supplies 'พระเจ้า' for clarity (the substantival participle requires an explicit antecede
 > _[truncated — see `output/translations/galatians_01.json` for full notes]_
 
-**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai (THSV) follow the same shorter reading; reader-trust is preserved.
+**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai versions follow the same shorter reading; reader-trust is preserved.
 
 ---
 

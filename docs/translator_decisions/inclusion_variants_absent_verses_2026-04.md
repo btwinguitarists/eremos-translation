@@ -2,7 +2,7 @@
 
 **Status:** **LOCKED 2026-04-20** as **Path A** after end-of-book editorial review of Matthew + external AI sanity-checks (Gemini, Claude, Grok). Implements the convention canonized in `RULES.md §5`.
 
-**Scope:** Whole-verse and large-fragment inclusion variants — readings where mainstream traditions (TR, Byz, KJV, sometimes THSV) include text that SBLGNT/NA28/UBS5 critical text omits. Distinct from word-choice variants (handled in `thai_summary` only).
+**Scope:** Whole-verse and large-fragment inclusion variants — readings where mainstream traditions (TR, Byz, KJV, sometimes standard Thai) include text that SBLGNT/NA28/UBS5 critical text omits. Distinct from word-choice variants (handled in `thai_summary` only).
 
 ---
 
@@ -16,7 +16,7 @@ Inclusion variants are handled at three tiers, matching what BSB / ESV / NIV / C
 | **2** | Whole verse SBLGNT omits | Verse number absent from main flow; chapter-footer note shows TR/Byz Thai + witnesses + explanation | `output/textual_variants/<slug>_NN.json` |
 | **3** | Large multi-verse block | `⟦double brackets⟧` in main text + extended verse note | `output/translations/<slug>_NN.json` (the verses themselves) |
 
-**Reader-trust rationale carries through all three tiers:** Thai readers cross-checking with THSV/THKJV/their childhood Bible see *something* surfacing the omitted text — never a silent jump in verse numbers without explanation.
+**Reader-trust rationale carries through all three tiers:** Thai readers cross-checking with standard Thai/THKJV/their childhood Bible see *something* surfacing the omitted text — never a silent jump in verse numbers without explanation.
 
 ---
 
@@ -30,7 +30,7 @@ Three options were on the table after the end-of-book review surfaced the incons
 
 - **Option A (chosen, here named "Path A")**: pure BSB/ESV/NIV/CSB pattern. Whole-verse variants → footer note, regardless of MS weight. Single-brackets reserved for inline phrase-level variants (where the verse exists). Double-brackets reserved for large-block transmissions. **Chosen** because:
   1. Matches the dominant convention in modern critical-text translations (BSB, ESV, NIV, CSB, NRSV-Updated all do this).
-  2. THSV (Thai Standard Version) follows critical text — Thai readers cross-checking will recognize the convention.
+  2. standard Thai (standard Thai usage) follows critical text — Thai readers cross-checking will recognize the convention.
   3. One unified rule per tier — no per-verse adjudication of "is this Byz weight strong enough."
   4. Doesn't pre-commit us to bracket-printing the Johannine Comma. The Comma will be Tier 2 (footer note), correctly signaling "scholarly consensus omits" without main-text appearance.
   5. Methodologically clean: we never translate from a different manuscript tradition into our main verse-by-verse text. Footer-note Thai is provided as a reader aid, clearly demarcated as TR/Byz reading.
@@ -52,7 +52,7 @@ Three options were on the table after the end-of-book review surfaced the incons
     "tr_byz_thai": "<Thai rendering of the TR/Byz text — for footer display>",
     "bsb_english_equivalent": "<short English gloss>",
     "witnesses_include": "<MS list — e.g. TR, Byz, KJV, THKJV>",
-    "witnesses_omit": "<MS list — e.g. SBLGNT, NA28, ℵ, B; ESV, NIV, BSB, THSV>",
+    "witnesses_omit": "<MS list — e.g. SBLGNT, NA28, ℵ, B; ESV, NIV, BSB, standard Thai>",
     "explanation_thai": "<short Thai explanation of the textual situation>",
     "cross_reference": "<parallel verse where same content is undisputed, if applicable>"
   }
@@ -99,7 +99,7 @@ Locking Path A before Acts and the Pauline epistles avoids:
 - Re-litigating each variant individually
 - Drifting into bracketed-Comma territory
 - Synthesizing a Greek text that doesn't exist in any single MS tradition
-- Mismatching our Thai reader's expectations from THSV cross-checking
+- Mismatching our Thai reader's expectations from standard Thai cross-checking
 
 The three-tier policy gives translators a clear, unambiguous decision tree for every inclusion-variant case they'll encounter for the rest of the NT.
 

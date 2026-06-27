@@ -181,7 +181,7 @@ Per plan §10: pre-seed ~150 high-frequency Hebrew lemmas with full semantic-dom
 ### 5.1 Build pre-Gen 1 (Day 6-9 per plan §20)
 
 1. Generate the seed list above as `glossary_seed_ot.json` (~150 entries).
-2. For each entry: research the semantic domains, populate `allowed_renderings` from THSV11/TNCV reference + Eremos NT corpus precedent, write 2-4 `context_rules`, add cross-language links to NT corpus terms.
+2. For each entry: research the semantic domains, populate `allowed_renderings` from ฉบับแปลไทย reference + Eremos NT corpus precedent, write 2-4 `context_rules`, add cross-language links to NT corpus terms.
 3. Merge into `glossary.json` alongside existing NT entries.
 4. `build_glossary.py` extended to accept the polymorphic `language` field (per plan §9.4).
 

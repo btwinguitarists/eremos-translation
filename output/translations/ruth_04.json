@@ -577,7 +577,7 @@
         {
           "hebrew": "וְחֶצְרוֹן הוֹלִיד אֶת־רָם",
           "thai": "เฮสโรนเป็นบิดาของราม",
-          "rationale": "Per uW translate-names. Hebrew רָם = transliterated as ราม per OT-Hebrew baseline (proper_names_and_transliteration_2026-05.md THSV11 baseline approach). Note the cross-corpus divergence: Mt 1:3-4 uses อารัม (preserving the LXX/Greek-form Ἀράμ with prosthetic alpha). For OT, the baseline-Hebrew form ราม is more faithful to the source-text. Document the divergence: Eremos NT (Mt 1:3-4) uses อารัม from Greek; Eremos OT (Ruth 4:19) uses ราม from Hebrew. Both refer to the same person — the cross-corpus normalization could be addressed in a future polish-pass."
+          "rationale": "Per uW translate-names. Hebrew רָם = transliterated as ราม per OT-Hebrew baseline (proper_names_and_transliteration_2026-05.md แบบมาตรฐานทั่วไป approach). Note the cross-corpus divergence: Mt 1:3-4 uses อารัม (preserving the LXX/Greek-form Ἀράμ with prosthetic alpha). For OT, the baseline-Hebrew form ราม is more faithful to the source-text. Document the divergence: Eremos NT (Mt 1:3-4) uses อารัม from Greek; Eremos OT (Ruth 4:19) uses ราม from Hebrew. Both refer to the same person — the cross-corpus normalization could be addressed in a future polish-pass."
         },
         {
           "hebrew": "וְרָם הוֹלִיד אֶת־עַמִּינָדָב",
@@ -608,7 +608,7 @@
         {
           "hebrew": "וְנַחְשׁוֹן הוֹלִיד אֶת־שַׂלְמָה",
           "thai": "นาโชนเป็นบิดาของซัลโมน",
-          "rationale": "**NAME-FORM HARMONIZATION.** The Hebrew of v.20 has שַׂלְמָה (Salmah), but v.21 has שַׂלְמוֹן (Salmon — itself a hapax in this form per the source extraction). The two forms refer to the same person (cf. 1 Chr 2:11 also has שַׂלְמָא). Per Mt 1:4-5 corpus-lock: Σαλμών = สัลโมน. Render with the consistent Mt-locked form ซัลโมน in v.20 (transliterated from שַׂלְמָה rather than the שַׂלְמוֹן of v.21) — using ซ rather than ส per the standard Thai transliteration of Salmon (the Mt rendering used ส 'สัลโมน', but the THSV-tradition Thai rendering of Salmon for OT uses ซ 'ซัลโมน'). Actually correcting to match Mt's สัลโมน — preserve cross-corpus consistency. Render สัลโมน."
+          "rationale": "**NAME-FORM HARMONIZATION.** The Hebrew of v.20 has שַׂלְמָה (Salmah), but v.21 has שַׂלְמוֹן (Salmon — itself a hapax in this form per the source extraction). The two forms refer to the same person (cf. 1 Chr 2:11 also has שַׂלְמָא). Per Mt 1:4-5 corpus-lock: Σαλμών = สัลโมน. Render with the consistent Mt-locked form ซัลโมน in v.20 (transliterated from שַׂלְמָה rather than the שַׂלְמוֹן of v.21) — using ซ rather than ส per the standard Thai transliteration of Salmon (the Mt rendering used ส 'สัลโมน', but the ฉบับแปลไทย-tradition Thai rendering of Salmon for OT uses ซ 'ซัลโมน'). Actually correcting to match Mt's สัลโมน — preserve cross-corpus consistency. Render สัลโมน."
         }
       ],
       "notes": "Per Mt 1:4 + Lk 3:32 lock: נַחְשׁוֹן = นาโชน. Per Mt 1:4-5 lock: שַׂלְמָה/שַׂלְמוֹן (variant forms in Hebrew) = สัลโมน. The two-Hebrew-form-variation שַׂלְמָה (v.20) / שַׂלְמוֹן (v.21) is harmonized in Thai to a single form for cross-verse + cross-corpus consistency."

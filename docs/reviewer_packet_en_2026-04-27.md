@@ -63,7 +63,7 @@ What this means in practice:
 
 **Never read during translation:**
 
-- Any copyrighted Thai translation (THSV, NTV, ERV Thai, TNCV)
+- Any copyrighted Thai translation
 - TNBT (CC-BY-SA — used post-draft for structural comparison only, never read for wording)
 - Any copyrighted commentary
 
@@ -124,7 +124,7 @@ Each linked doc records: scope, evidence base, the rule, alternatives considered
 - **[ἔθνος — three-way contextual split](translator_decisions/ethnos_2026-04.md)** — All occurrences of ἔθνος / ἔθνη / ἐθνῶν / ἐθνικός in the NT corpus, especially the dense Acts cluster (28 verses) and the Pauline forward-pass (Romans 9–11, Galatians 2–3, Ephesians 2–3).
 - **[Historic present → Thai past tense](translator_decisions/historic_present_2026-04.md)** — Greek historic-present verbs (narrative verbs in present indicative with past-time reference, e.g., λέγει "he says" mid-story) are systematically rendered in Thai past tense.
 - **[Honorifics for non-divine human authorities](translator_decisions/honorifics_non_divine_authorities_2026-04.md)** — Herod Antipas, Pontius Pilate, Roman centurions, Jewish-Sanhedrin leaders, and other human rulers who appear as secondary characters in the gospel narrative.
-- **[Inclusion variants — three-tier policy (LOCKED)](translator_decisions/inclusion_variants_absent_verses_2026-04.md)** — Whole-verse and large-fragment inclusion variants — readings where mainstream traditions (TR, Byz, KJV, sometimes THSV) include text that SBLGNT/NA28/UBS5 critical text omits. Distinct from word-ch...
+- **[Inclusion variants — three-tier policy (LOCKED)](translator_decisions/inclusion_variants_absent_verses_2026-04.md)** — Whole-verse and large-fragment inclusion variants — readings where mainstream traditions (TR, Byz, KJV, sometimes standard Thai) include text that SBLGNT/NA28/UBS5 critical text omits. Distinct from word-ch...
 - **[Johannine doubled-amen (`ἀμὴν ἀμὴν λέγω ὑμῖν`) → อาเมน อาเมน เราบอกแก่พวกท่านว่า](translator_decisions/johannine_doubled_amen_2026-04.md)** — The Johannine doubled-amen formula `ἀμὴν ἀμὴν λέγω ὑμῖν`. Appears 25× in John (only NT book with the doubled form): 1:51, 3:3, 3:5, 3:11, 5:19, 5:24, 5:25, 6:26, 6:32, 6:47, 6:53, 8:34, 8:51, 8:58,...
 - **[ὁ κύριος (narrator voice, referring to Jesus) → องค์พระผู้เป็นเจ้า](translator_decisions/kyrios_narrator_voice_luke_acts_2026-04.md)** — Narrator-voice uses of ὁ κύριος where the referent is Jesus (not the Father, not a human master). A Lukan-Acts signature — Luke is the only evangelist who calls Jesus "the Lord" in his own narratio...
 - **[Markan εὐθύς ("immediately") — context-sensitive rendering](translator_decisions/markan_euthys_immediately_2026-04.md)** — εὐθύς / εὐθέως, Mark's signature pacing adverb. Occurs 42× in Mark (more than all other NT books combined for this Markan-dominant word).

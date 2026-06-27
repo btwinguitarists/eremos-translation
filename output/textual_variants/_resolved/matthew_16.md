@@ -17,7 +17,7 @@ Translator's notes (verbatim):
 > NO HAPAX. SAYING REPEATS Matt 12:39 nearly verbatim (differs only in omission of 'τοῦ προφήτου' after Ἰωνᾶ). The 'sign of Jonah' is explicated at Matt 12:40 as the three-days-three-nights / death-and-resurrection typology. By repeating the saying here, Matthew structurally bookmarks the messianic-credentialing question: Jesus's only validating sign will be his resurrection (which the Pharisees-Sadducees alliance will themselves engineer through the crucifixion). OT BACKGROUND: γενεὰ πονηρὰ καὶ μοιχαλίς echoes prophetic adultery-as-idolatry (Hos 1-3, Jer 3, Ezek 16, 23) — God's people unfaithful to the covenant. Jesus turns the prophetic indictment back onto the Pharisees-Sadducees themselves. ADDED TO NT_OT_CITATIONS as MAT 16:4 thematic_allusion to Hos 2 / Jer 3:8-9 (adulterous-generation
 > _[truncated — see `output/translations/matthew_16.json` for full notes]_
 
-**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai (THSV) follow the same shorter reading; reader-trust is preserved.
+**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai versions follow the same shorter reading; reader-trust is preserved.
 
 ---
 

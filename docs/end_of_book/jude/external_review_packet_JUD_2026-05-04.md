@@ -197,7 +197,7 @@ The intensified ἐπ-prefix marks an "additional" or "for-something" sense — 
 - KJV: "earnestly contend for the faith"
 
 **Modern Thai versions:**
-- THSV: **ต่อสู้เพื่อความเชื่อ** ("fight for the faith" — adverb dropped)
+- standard Thai: **ต่อสู้เพื่อความเชื่อ** ("fight for the faith" — adverb dropped)
 - THKJV: **ต่อสู้เพื่อความเชื่อ** (same simplification)
 
 **The current rendering: ต่อสู้อย่างเข้มแข็ง** ("strive-fight strongly") preserves the intensifier (อย่างเข้มแข็ง), which simpler Thai versions drop. This is principled — the ἐπ-prefix is morphologically marked in Greek; preserving an adverbial-marker in Thai is the natural-equivalent strategy.
@@ -209,7 +209,7 @@ The intensified ἐπ-prefix marks an "additional" or "for-something" sense — 
 - **ต่อสู้สุดกำลัง** — "with-all-strength" — colloquial-elevated
 
 **Two questions:**
-1. Is **ต่อสู้อย่างเข้มแข็ง** the right rendering for the active-loving-pursuit force of ἐπ-prefix at JUD 1:3 ("contend earnestly for the faith once-for-all delivered"), or should it match the THSV simpler **ต่อสู้** (dropping the adverb) for cross-Bible Thai-readability at the cost of softening the intensifier-nuance?
+1. Is **ต่อสู้อย่างเข้มแข็ง** the right rendering for the active-loving-pursuit force of ἐπ-prefix at JUD 1:3 ("contend earnestly for the faith once-for-all delivered"), or should it match the standard Thai simpler **ต่อสู้** (dropping the adverb) for cross-Bible Thai-readability at the cost of softening the intensifier-nuance?
 2. If the intensifier is preserved, is **อย่างเข้มแข็ง** ("strongly") the right adverb, or should it be elevated to **อย่างหนักแน่น** (steadfast, more theological-register) or **อย่างไม่ลดละ** (unrelenting, matches the agonistic-Pauline imagery at 2 TIM 4:7) to mark this as Jude's programmatic-statement rather than a generic "struggle"?
 
 ---

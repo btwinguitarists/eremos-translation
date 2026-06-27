@@ -41,7 +41,7 @@
 - **Action:** Write `ot_warfare_ethics_2026-05.md` (may already exist per other reviews — verify and amend if so). Add Layer-2 footers at NUM 25 + NUM 31. Verse surface unchanged.
 
 ### Item D — Sinai ซีนาย/สีนาย mix
-- **Gemini:** CONCERN. Internal book inconsistency (10 vs 27 occurrences) + cross-book drift from Exodus (100% ซีนาย) violates proper-noun consistency rules. ซีนาย aligns with THSV-1971 precedent.
+- **Gemini:** CONCERN. Internal book inconsistency (10 vs 27 occurrences) + cross-book drift from Exodus (100% ซีนาย) violates proper-noun consistency rules. ซีนาย aligns with ฉบับแปลไทย-1971 precedent.
 - **ChatGPT:** CONCERN. Mechanical proper-name consistency, not semantic debate. **Also normalize Succoth in NUM 33:5–6 to the Exodus form `สุคโคท`** (extra catch). Add both to `glossary.json` / proper-name checker.
 - **Action:** **Spot-revise 10× สีนาย → ซีนาย in Numbers.** **Also normalize Succoth in NUM 33:5–6 → สุคโคท** (ChatGPT). Extend glossary + proper-name check-script to lock corpus-wide; prevent drift in Deuteronomy / Judges / Psalms.
 

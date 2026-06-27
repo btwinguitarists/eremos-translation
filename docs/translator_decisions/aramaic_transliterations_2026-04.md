@@ -35,7 +35,7 @@ And from Mark 3:17 for Βοανηργές:
 
 - **Mark's rhetorical device.** Mark clearly wants his Greek-reading audience to *hear* the Aramaic — it is the language Jesus actually spoke. Flattening to Thai-only translation drops a layer Mark specifically built.
 - **Thai reader benefits.** A Thai reader who sees "ทาลิธา คูม" followed by the Thai gloss gets the same experience Mark's Greek reader got: the foreign sound of the Saviour's actual voice, followed by intelligibility.
-- **Consistency with Thai Christian convention.** Existing Thai translations (THSV, NTV) preserve these transliterations. Our rendering matches the established expectation.
+- **Consistency with Thai Christian convention.** Existing Thai translations preserve these transliterations. Our rendering matches the established expectation.
 
 ## Thai transliteration spelling
 

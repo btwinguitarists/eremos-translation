@@ -27,7 +27,7 @@ Thai ทูล is **addressee-marking**, not speaker-marking. Historically and i
 
 **Gemini 2.5 Pro external-review concern (2026-04-23):** using ทูล for Satan at LUK 4:3/6/9 "grants the Devil a posture of legitimate, reverent submission." This reading weights ทูล as speaker-humility.
 
-**Counter (what we preserve):** Thai Christian translation convention weights ทูล as addressee-honor. In both THSV and NTV, ทูล is routinely used for adversaries addressing Jesus or God. Changing to plain กล่าว would semantically *downshift the addressee's divine status* — a bigger theological cost than the tonal ambiguity Gemini flagged.
+**Counter (what we preserve):** Thai Christian translation convention weights ทูล as addressee-honor. In both standard Thai and ฉบับแปลไทย, ทูล is routinely used for adversaries addressing Jesus or God. Changing to plain กล่าว would semantically *downshift the addressee's divine status* — a bigger theological cost than the tonal ambiguity Gemini flagged.
 
 **Resolution:** The narrator's speech verb keeps addressee-honor (ทูล) visible. The *speaker's* own stance (hostile, mock-respectful, arrogant) is expressed inside the quoted speech via pronouns (ท่าน not พระองค์; เรา for self — both at LUK 4:3, 4:6, 4:9). Two axes stay distinct:
 

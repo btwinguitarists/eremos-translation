@@ -16,7 +16,7 @@ Translator's notes (verbatim):
 
 > TEXTUAL VARIANT: SBLGNT περιπάτει (walk); some mss (D, Byz/TR) add ἔγειρε καὶ (rise up and). SBLGNT reading follows א A B C and is earlier-attested; we translate the shorter form. BSB's 'get up and walk' reflects the longer reading or interpretive expansion. Peter's formula ἐν τῷ ὀνόματι Ἰησοῦ Χριστοῦ τοῦ Ναζωραίου becomes programmatic in Acts — healings (3:6, 16; 4:10; 16:18), exorcisms (16:18; 19:13), baptisms (2:38; 10:48), and preaching (4:17-18; 5:28, 40) are all done/forbidden ἐν τῷ ὀνόματι. No OT citation.
 
-**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai (THSV) follow the same shorter reading; reader-trust is preserved.
+**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai versions follow the same shorter reading; reader-trust is preserved.
 
 ---
 

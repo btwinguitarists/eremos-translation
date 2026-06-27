@@ -16,7 +16,7 @@ Translator's notes (verbatim):
 
 > KEY TEXTUAL VARIANT: SBLGNT/NA28/BSB end with ὁ ἄνθρωπος. Byzantine manuscripts add “ἀλλ' ἐπὶ παντὶ ῥήματι θεοῦ” (assimilation to Matt 4:4 / Deut 8:3). We follow SBLGNT. OT CITATION: direct quote of DEU 8:3 LXX. Significance: Deut 8:3 is the lesson Moses drew from the 40-year wilderness — that Yahweh humbled Israel with hunger in order to teach them to live 'by every word that proceeds from the mouth of the LORD.' Jesus, reversing Israel's failure at Meribah/Massah (Ex 17:1-7, Deut 6:16), refuses to coerce bread from stones. ADDED TO NT_OT_CITATIONS: LUK 4:4 direct_citation of DEU 8:3 (LXX verbatim for the half-citation we have).
 
-**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai (THSV) follow the same shorter reading; reader-trust is preserved.
+**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai versions follow the same shorter reading; reader-trust is preserved.
 
 ---
 
