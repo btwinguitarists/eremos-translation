@@ -3304,9 +3304,10 @@
     "ref_raw": "8:53",
     "issue": "sentence-final compound אֲדֹנָי יְהוִה; Gemini normalize vs ChatGPT lock+discourse-rule",
     "disposition": "DIVERGENT — Ben tie",
-    "status": "pending",
+    "status": "skipped",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "dup: live review-question B_1KI_D_adonai.yml covers exactly this — 1Kgs 8:53 Adonai-YHWH sentence-final ข้าแต่องค์พระผู้เป็นเจ้า vs bare; the DIVERGENT Ben-tie is already his to decide there"
   },
   {
     "id": "1KI-T8-002",
