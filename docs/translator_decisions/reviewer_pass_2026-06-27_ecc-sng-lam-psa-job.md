@@ -28,3 +28,12 @@ The Hebrew כִּי אִם is open ("unless / but rather"); the synagogue repeat
 - Per-item reviewer record: **this file** (canonical capture).
 - Convention-level (needs/updates a decision doc): **#1 hevel** (new), **#11 Selah** (new), **#13 śāṭān** (existing `satan_accuser_corpus_mapping_2026-05.md` — keep as-is).
 - Application = a deliberate per-book pass (edit JSON → re-run checks → these are shipped/audited books), not a casual edit.
+
+## Resolution (2026-06-27, final — Ben confirmed)
+- **#1 hevel → อนิจจัง** — ✅ DONE, committed `5cab4ec1`. 35× across ECC; *havel havalim* (1:2, 12:8) = the natural Thai superlative doubling "อนิจจัง อนิจจัง"; +1:2 Layer-2 footnote anchoring the Hebrew range. Cross-book hevel (Ps/Job/Prov) left as-is (ECC-scoped for now).
+- **#2 miqreh-echad → เคราะห์อันเดียวกัน** — ✅ DONE, committed `5cab4ec1`. Applied to all three "one fate" verses (3:19, 9:2, 9:3) for consistency.
+- **#9 LAM 5:22** — ✅ DONE, committed `04d53597`. Option (a): dropped the completive "แล้ว"; book-ending hope footnote (כִּי אִם ambiguity + synagogue v21-echo).
+- **#11 Selah** — ✅ RESOLVED: **KEEP INLINE** (option 1). Staged footnote experiment was **reverted, never committed**. Rationale: **BSB keeps "Selah" inline 70/70 verses, end-of-verse, never footnoted**; matches most English Bibles (ESV/NASB/KJV/NIV) + standard Thai-Bible convention (THSV); and Eremos shows BSB in parallel, so footnoting Thai would break the column alignment. Selah is **definitively in the MT** (74×: 71 in 39 Psalms + 3 in Hab 3) — presence certain, meaning (musical/liturgical) uncertain. No change to the corpus.
+- **#13 śāṭān split** — ✅ KEEP the split (Job 1:6 ซาตาน / Ps 109:6 ผู้กล่าวหา). Pushback accepted; `satan_accuser_corpus_mapping_2026-05.md` unchanged.
+- **#8 form** (พระยาห์ → ยาห์) — still OPEN, separate from this pass (Gemini cross-book item).
+- Books touched: **Ecclesiastes + Lamentations only.** Psalms/Hab/Song/Job unchanged.
