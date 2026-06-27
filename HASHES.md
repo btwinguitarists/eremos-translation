@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-06-27 01:27:04 UTC_
-_Total chapters: 1171 · Total verses: 30866_
+_Generated: 2026-06-27 01:55:04 UTC_
+_Total chapters: 1172 · Total verses: 30889_
 
 ## How to verify a chapter
 
@@ -520,7 +520,8 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/habakkuk_01.json` | 17 | `19e1d419afe064dd6092ed8402cf0dff38e5a9d5706b93ddf752085166d76b07` | `70995625` |
 | `output/translations/habakkuk_02.json` | 20 | `d62c469334910ee53119ec744dfeeb50479a50838ea8142b150618cc691e807b` | `56e3aef5` |
 | `output/translations/habakkuk_03.json` | 19 | `afeab2d2366cdc8ba45a536e1439b9e33793b518e215db0bb8fdfcb71560cf56` | `258fd9e3` |
-| `output/translations/haggai_01.json` | 15 | `1f309e8c801b7ccd90b401a81b38c7d0a34c4c8088df933f53ab3468ca315ab9` | `—` |
+| `output/translations/haggai_01.json` | 15 | `1f309e8c801b7ccd90b401a81b38c7d0a34c4c8088df933f53ab3468ca315ab9` | `e983ef0d` |
+| `output/translations/haggai_02.json` | 23 | `dd16143c9ee4cfefc09fdaf0b8eedf9561f16c2eb3a14667f138da71af923324` | `—` |
 | `output/translations/hebrews_01.json` | 14 | `f57cde0ff89f59a30df5b6e386e9ca302a66ca3ab4b657ac0106d380b45b0ab3` | `b64d4872` |
 | `output/translations/hebrews_02.json` | 18 | `19861717616df0e6dd2d83a68b0ec5f62cbd07e944563e0808259a192409df48` | `b64d4872` |
 | `output/translations/hebrews_03.json` | 19 | `2304367411023a3ebe7fb048eecc1189be931fdc7159c67d6648c9837d789664` | `a9bee188` |
