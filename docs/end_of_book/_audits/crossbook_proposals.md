@@ -27,6 +27,16 @@ Every item cites its governing decision + the **verified** shipped text.
   - **Second opinion:** Gemini unavailable (HTTP 503) → single-model finding, flagged for extra scrutiny.
   - _Source: `1SA-T8-002`. Not covered by any live review-question._
 
+### T2 — human-messenger avoid-form backlog (2 Kings)
+
+- [ ] **2 Kings — reclassify `ผู้สื่อสาร` → `ผู้ส่งสาร` at 8 ordinary-messenger verses** `[DRAFT]` (contingent on `A_2KI_E_mal` decision)
+  - **Verified LIVE** (not stale): `5:10, 6:32, 6:33, 9:18, 10:8, 14:8, 19:9, 19:14` all ship the §4.4 **avoid-form** `ผู้สื่อสาร` for ordinary human messengers (Elisha's runner, the king's messenger, Jehu's rider, Sennacherib's envoys, etc.).
+  - **Inconsistent within the same book:** 2 Kgs 1:2 and 19:23 already use the §4.4 default `ผู้ส่งสาร` for the same kind of messenger.
+  - **Governing policy:** `malak_yhwh_2026-05.md` §4.4 — human messengers use `ผู้ส่งสาร` (default) or `ทูต`/`คณะทูต` (diplomatic); **avoid `ผู้สื่อสาร`** (reclassify unless documented reason).
+  - **Proposal:** reclassify all 8 to `ผู้ส่งสาร` (matching 1:2/19:23); 14:8 (Amaziah's war-challenge) and 19:9 (Sennacherib's royal envoys) may instead take `ทูต` if Ben prefers to mark diplomatic envoys.
+  - **Contingency:** this is the concrete, verse-listed form of the deferred normalization that `A_2KI_E_mal.yml` asks the decision on (normalize vs. document-as-principled). These 8 are the *avoid-form* cases — distinct from the acceptable `ผู้ส่งสาร`/`ทูต`/`คณะทูต` variation that question debates. Apply only if Ben chooses to normalize.
+  - _Source: `2KI-T2-002` (its headline refs 1:2/17:4/20:13/19:23 dedup to `A_2KI_E_mal`; this backlog surfaced on verification)._
+
 ---
 
 ## 2. Stale-question findings (verified already-applied — recommend close/narrow)

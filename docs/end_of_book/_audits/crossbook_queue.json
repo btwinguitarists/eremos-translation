@@ -1584,9 +1584,11 @@
     "ref_raw": "1:2,17:4,20:13,19:23",
     "issue": "Human-messenger 4 ways within-book + across JDG/1SA/1KI; edit 19:23",
     "disposition": "REQUIRES SIGN-OFF",
-    "status": "pending",
+    "status": "proposed",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "pr": 210,
+    "note": "Headline refs (1:2/17:4/20:13/19:23) dup A_2KI_E_mal + 19:23 stale (already ผู้ส่งสาร). BUT verification surfaced LIVE backlog: 8 ordinary-messenger verses (5:10,6:32,6:33,9:18,10:8,14:8,19:9,19:14) use §4.4 avoid-form ผู้สื่อสาร → [DRAFT] reclassify to ผู้ส่งสาร/ทูต, contingent on A_2KI_E_mal decision. In crossbook_proposals.md."
   },
   {
     "id": "2KI-T6-001",
@@ -1612,9 +1614,10 @@
     "ref_raw": "all 25 ch",
     "issue": "Zero MT/LXX entries (3rd DtrH book); codify Tier-2-on-macro-divergence policy",
     "disposition": "DECIDE/POLICY",
-    "status": "pending",
+    "status": "skipped",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "dup B_2KI_C_lxx (asks exact macro-divergence Tier-2 policy + synchronism-chronology note for 2KI). Genuinely-open policy Q, not stale."
   },
   {
     "id": "2KI-T8-001",
