@@ -2797,9 +2797,11 @@
     "ref_raw": "9:1,11:3,12:8,24:11 (+DEU 20:17)",
     "issue": "פְּרִזִּי/חִוִּי/יְבוּסִי → 6 Thai surfaces across DEU+JOS; normalize bare-suffix",
     "disposition": "REQUIRES SIGN-OFF",
-    "status": "pending",
+    "status": "proposed",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "pr": 210,
+    "note": "[conformance] Canaanite-nation spellings: normalize rejected -ต์/ส forms to locked proper_names §140-142 (ชาวเปริซซี/ชาวฮีไว/ชาวเยบุส; -ต์ pluralizer explicitly rejected). Drift: EXO ฮีไวต์×15+เยบุสต์×7+เปริสซี×6, GEN/NUM/JDG ฮีไวต์×8, DEU/JOS เปริสซี×3 (~39 total). DEU+JOS otherwise conform. Corpus-wide find-replace. In crossbook_proposals.md §1."
   },
   {
     "id": "JOS-T8-002",

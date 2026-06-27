@@ -69,6 +69,15 @@ Every item cites its governing decision + the **verified** shipped text.
   - **Second opinion:** Gemini unavailable (503). Grounds: identical Greek + both OT sources + both other Synoptics.
   - _Source: `JER-T5-001` (den-of-robbers); extends to the paired Isa 56:7 phrase in the same verse._
 
+### T8 — Canaanite-nation name spellings (corpus-wide normalization)
+
+- [ ] **Normalize the rejected `-ต์`/`ส`-variant nation-names to the locked forms** `[conformance]`
+  - **Locked** (`proper_names_and_transliteration_2026-05.md` §lines 140–142): `פְּרִזִּי` → `ชาวเปริซซี` · `חִוִּי` → `ชาวฮีไว` · `יְבוּסִי` → `ชาวเยบุส`. The doc **explicitly rejects** the `-ต์` pluralizer forms (`คนฮีไวต์`, `คนเยบุสีต`, `คนเปริสซีต`).
+  - **Drift (verified counts):** **EXO** ships the rejected forms — `ฮีไวต์` ×15, `เยบุสต์` ×7, `เปริสซี` ×6; **GEN/NUM/JDG** `ฮีไวต์` ×8; **DEU/JOS** `เปริสซี` ×3. (DEU+JOS otherwise conform with `ฮีไว`/`เยบุส`.)
+  - **Proposal:** corpus-wide normalize `ฮีไวต์`→`ฮีไว`, `เยบุสต์`→`เยบุส`, `เปริสซี`→`เปริซซี` (~39 occurrences, concentrated in EXO + early books) to the locked forms. Mechanical, objective find-replace.
+  - **Second opinion:** Gemini unavailable (503). Grounds: explicit `proper_names` lock + the DEU/JOS conformant majority.
+  - _Source: `JOS-T8-001` — the drift is actually in EXO + early books, not "across DEU+JOS" as the sweep framed it._
+
 ---
 
 ## 2. New review-questions proposed (decide → formalize as `.yml` in EremosVercel2)
