@@ -1804,9 +1804,10 @@
     "ref_raw": "18:12,35:21,36:15,36:16",
     "issue": "Human מַלְאָךְ uniformly ผู้สื่อสาร (the avoid-form); edits proposed",
     "disposition": "REQUIRES SIGN-OFF",
-    "status": "pending",
+    "status": "skipped",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "dup B_2CH_E_human (asks the still-open prophet-messenger 36:15-16 ผู้สื่อสาร fork). Envoy cases ALREADY normalized: 18:12→ผู้ส่งสาร, 35:21→คณะทูต (§4.4). Q premise 'uniformly ผู้สื่อสาร' now partly stale."
   },
   {
     "id": "2CH-T8-001",
@@ -1826,9 +1827,10 @@
     "ref_raw": "33:2,33:6,33:22,36:5,36:9,36:12,29:6",
     "issue": "\"did evil\" → bare ทำชั่ว vs locked ทำสิ่งชั่วร้าย (DTr-formula scope never reached 2CH)",
     "disposition": "DECIDE/PROPOSED",
-    "status": "pending",
+    "status": "skipped",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "VERIFIED CONFORMANT: all 7 regnal-formula verses (29:6,33:2,33:6,33:22,36:5,36:9,36:12) ship locked ทำสิ่งชั่วร้าย. 3 bare ทำชั่ว (12:14,22:3,33:9) are non-formula (standalone הרע / להרשיע / comparative) — legit. B_2CH_A_the's text-fix ALREADY APPLIED → that Q is stale (CI-lock-widening to 2CH may remain)."
   },
   {
     "id": "2CH-T8-002",
@@ -1842,9 +1844,10 @@
     "ref_raw": "24:20",
     "issue": "Spirit-anchor missing locked ทรง (พระวิญญาณ…สวมทับ); restore ทรงสวมทับ",
     "disposition": "DECIDE (MAJOR)",
-    "status": "pending",
+    "status": "skipped",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "VERIFIED CONFORMANT: 24:20 ships 'พระวิญญาณของพระเจ้าทรงสวมทับ' = לבש→ทรงสวมทับ + Elohim→พระเจ้า, exactly per spirit_of_yhwh_empowerment doc. No missing ทรง. Sweep flag stale."
   },
   {
     "id": "2CH-T4-001",
@@ -1859,9 +1862,10 @@
     "ref_raw": "36:9",
     "issue": "MT \"8\" shipped as สิบแปด \"18\" (per 2Kgs24:8/LXX) no footer; restore MT แปด",
     "disposition": "DECIDE (MAJOR)",
-    "status": "pending",
+    "status": "skipped",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "dup B_2CH_C_chr (asks exact 36:9 Jehoiachin age 8-vs-18 + disclosure-footer fork). Genuinely-open Q, not stale — no need to re-emit."
   },
   {
     "id": "2CH-T7-001",
