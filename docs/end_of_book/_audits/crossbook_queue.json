@@ -2816,9 +2816,10 @@
     "ref_raw": "20:2-9,21:13-38 (vs NUM35/DEU19)",
     "issue": "מִקְלָט + גֹּאֵל הַדָּם drift เมืองหลบภัย/ผู้แก้แค้นโลหิต vs NUM/DEU forms",
     "disposition": "DECIDE/SIGN-OFF",
-    "status": "pending",
+    "status": "skipped",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "VERIFIED CONFORMANT: cities-of-refuge lock (2026-05-18) held in SURFACE text. Avenger uniformly ผู้แก้แค้นเลือด (NUM 35:19/DEU 19:6/JOS 20:3,5; ผู้แก้แค้นโลหิต=0, ผู้แก้แค้นแทนเลือด=0 corpus). Refuge เมืองลี้ภัย/ที่ลี้ภัย ×36 in JOS; doc-listed 20:2/20:3/21:13/21:21/21:27 all ลี้ภัย. The 7 หลบภัย in JOS files are in key_decisions notes (NOT translation.thai surface). Sweep stale."
   },
   {
     "id": "JOS-T2-001",
