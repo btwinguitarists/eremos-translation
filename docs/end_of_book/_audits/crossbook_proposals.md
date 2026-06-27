@@ -103,6 +103,13 @@ Every item cites its governing decision + the **verified** shipped text.
   - **Second opinion:** Gemini unavailable (503). Grounds: explicit line-24 lock + the Exod 17:16 `כֵּס יָהּ` precedent.
   - _Source: `SNG-T3-001`._
 
+### T8 — "unleavened bread" term (OT↔NT consistency)
+
+- [ ] **Normalize `ขนมปังไม่มีเชื้อ` → `ขนมปังไร้เชื้อ`** `[conformance]`
+  - The corpus uses `ขนมปังไร้เชื้อ` **×102** (OT base: EXO/LEV/NUM/DEU), but `ขนมปังไม่มีเชื้อ` **×27** in the NT Passover / Feast-of-Unleavened-Bread accounts (Matt 26, Mark 14, Luke 22, Acts 12) + Josh 5 — the same institution (`מַצּוֹת` / `ἄζυμα`), rendered inconsistently.
+  - **Proposal:** normalize the 27 minority occurrences → `ขนมปังไร้เชื้อ` (OT/corpus-majority). Objective find-replace. _(No explicit lock doc found, but the 102-vs-27 split + OT-base strongly favor `ไร้เชื้อ`.)_
+  - _Source: `LEV-T8-003`._
+
 ---
 
 ## 2. New review-questions proposed (decide → formalize as `.yml` in EremosVercel2)

@@ -82,9 +82,10 @@
     "ref_raw": "3:15",
     "issue": "protoevangelium הוּא → singular ผู้นั้น (Christological); NT Rom 16:20/Heb 2:14/Rev 12:17",
     "disposition": "REVIEW",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "DOCUMENTED: Gen 3:15 protoevangelium ผู้นั้น (singular, Christological reading) — gender_passages lock precedent; Ben's theological choice. Not a drift."
   },
   {
     "id": "GEN-T8-003",
@@ -116,9 +117,10 @@
     "ref_raw": "6:1-4",
     "issue": "בְּנֵי הָאֱלֹהִים literal บุตรของพระเจ้า; ties Job 1:6/Pss 29:1,89:6, NT 2Pet 2:4/Jude 6",
     "disposition": "REVIEW",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "CONFORMANT: בני האלהים → บุตรของพระเจ้า (Gen 6:2 verified; per spiritual_beings_hierarchy line 71 locked literal at Gen6/Job1:6/etc.). Not a drift."
   },
   {
     "id": "GEN-T8-005",
@@ -132,9 +134,10 @@
     "ref_raw": "49:10",
     "issue": "שִׁילֹה translit ชีโลห์ (forecloses messianic); NT Rev 5:5/Heb 7:14",
     "disposition": "REVIEW",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "Ben's theological domain: Shiloh Gen 49:10 transliterated ชีโลห์ (a deliberate interpretive choice on the שילה crux). Documented-style decision; §1.3 don't-overflag content."
   },
   {
     "id": "GEN-T5-001",
@@ -164,9 +167,10 @@
     "ref_raw": "6:6-7",
     "issue": "נָחַם divine-grief ทรงเสียพระทัย vs Jonah relenting-lock ทรงเปลี่ยนพระทัย; needs split",
     "disposition": "REVIEW",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "CONFORMANT: nacham Gen 6:6 grief → ทรงเสียพระทัย (verified) per nicham_divine_relenting sub-sense B; relenting sub-sense A → ทรงเปลี่ยนพระทัย. The 2-sense split is locked. Not a drift."
   },
   {
     "id": "GEN-T6-001",
@@ -446,9 +450,11 @@
     "ref_raw": "23:6",
     "issue": "ขนมปังไม่มีเชื้อ vs corpus-locked ขนมปังไร้เชื้อ (EXO12/LEV/NUM; 1Cor5)",
     "disposition": "REVIEW",
-    "status": "pending",
+    "status": "proposed",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "pr": 210,
+    "note": "[conformance] unleavened bread: normalize ขนมปังไม่มีเชื้อ (×27, NT Passover Matt26/Mk14/Lk22/Acts12 + Josh5) → ขนมปังไร้เชื้อ (×102 OT/corpus-majority). Same institution מצות/αζυμα. In §1."
   },
   {
     "id": "LEV-T8-004",
@@ -463,9 +469,10 @@
     "ref_raw": "25:9-54,27:17-24",
     "issue": "יוֹבֵל → ปีจูบีลี vs ปีโยเบล; Joshua 6 ram's-horn split",
     "disposition": "REVIEW",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "VERIFIED: Jubilee uniformly ปีจูบีลี ×51 (โยเบล ×0). The 'Josh 6 ram's-horn split' is a different SENSE of יובל (ram's-horn vs Jubilee-year), principled. Stale."
   },
   {
     "id": "LEV-T5-001",
@@ -2945,9 +2952,10 @@
     "ref_raw": "6:34 (+1CH12:18,2CH24:20,1SA)",
     "issue": "Spirit 4-way verb split (לָבַשׁ→ทรงสวมทับ etc.); write spirit_empowerment doc",
     "disposition": "LOCK",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "CONFORMANT: Spirit 4-way verb split — JDG 6:34 לבש→ทรงสวมทับ verified; JDG is the spirit_of_yhwh_empowerment doc's corpus-verified anchor. The 'write doc' is done (doc exists). Stale."
   },
   {
     "id": "JDG-T3-001",
