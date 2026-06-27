@@ -120,6 +120,10 @@ Every item cites its governing decision + the **verified** shipped text.
 
 ## 2. New review-questions proposed (decide → formalize as `.yml` in EremosVercel2)
 
+> **Disposition (2026-06-27, Ben):** 5 of these are open word-choices that **default to THSV2011** — check + adopt the recognized Thai standard, no separate decision needed:
+> jealousy `หึง`/`ริษยา` · Matt-4 test-God `ทดลอง`/`ทดสอบ` · governor `פֶּחָה` · Stone/`อับอาย` · goat-demon (desolation `שָׂעִיר`).
+> **Only 4 need a real decision** (sent to the Thai reviewer): **God's "soul" (Isa 42:1 // Matt 12:18)** · **Nebuchadnezzar register** · **Ps 82 divine-council `เทพ`** · **generic wisdom-king register**.
+
 ### T5 — divine-jealousy thread (DEU 32:21 // Rom 10:19)
 - **`קנא`/`ζῆλος`: `หึง` (DEU) vs `ริษยา` (Rom).** DEU 32:21 ships `หึง` (×2); Rom 10:19 (quoting it) ships `ริษยา`. `ot_nt_cross_quotation_thread §2.4` **defers** the lock "pending review of the broader divine-jealousy thread (Pentateuch + Romans)." **Q:** unify the OT↔NT thread — and to which word (does divine jealousy read better as covenant-`หึง` or `ริษยา`?) — or document the OT-affect vs NT-affect split as principled? _(from `DEU-T5-004`; verified both still drift)_
 
