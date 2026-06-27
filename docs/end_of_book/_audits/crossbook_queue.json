@@ -2918,9 +2918,10 @@
     "ref_raw": "6:22,16:28,13:8 (keep 6:15)",
     "issue": "compound אֲדֹנָי יְהוִה doubled ข้าแต่องค์พระผู้เป็นเจ้าพระเจ้า vs JOS7:7",
     "disposition": "REQUIRES SIGN-OFF",
-    "status": "pending",
+    "status": "skipped",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "VERIFIED CONFORMANT: JDG 6:22 อนิจจา ข้าแต่องค์พระผู้เป็นเจ้า = JOS 7:7 verbatim (consistent). 16:28 = compound ข้าแต่องค์พระผู้เป็นเจ้า + SEPARATE ข้าแต่พระเจ้า for later האלהים (not 'doubled' — stale claim). 6:15 ท่านนาย correct (pre-recognition). Conforms to 2026-05-23 Adonai sub-rule; meta-Q already in B_1KI_D_adonai."
   },
   {
     "id": "JDG-T5-001",
@@ -2934,9 +2935,10 @@
     "ref_raw": "Heb 11:32 ↔ JDG",
     "issue": "shipped NT กิเดโอน/เยฟธาห์ vs OT กิดเอน/เยฟทาห์; normalize Heb11:32",
     "disposition": "REQUIRES SIGN-OFF",
-    "status": "pending",
+    "status": "skipped",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "VERIFIED CONFORMANT: Heb 11:32 ships กิดเอน + เยฟทาห์ — IDENTICAL to JDG (6:11/7:1 กิดเอน, 11:1/12:7 เยฟทาห์). Sweep's 'NT กิเดโอน/เยฟธาห์ vs OT' claim is FALSE/stale. Names already consistent OT↔NT (per proper_names/shared_names docs)."
   },
   {
     "id": "JDG-T8-002",
