@@ -2418,9 +2418,11 @@
     "ref_raw": "21:2 vs 39:11,52:31-32",
     "issue": "Nebuchadnezzar PLAIN (\"invader→plain\") — contradicts Daniel's ทรง; internal clash",
     "disposition": "DECIDE (MAJOR)",
-    "status": "pending",
+    "status": "proposed",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "pr": 210,
+    "note": "[QUESTION] Nebuchadnezzar register cross-book clash: Daniel royal (DAN 2:1 ทรงพระสุบิน, 3:13 ทรงพระพิโรธ per §2.2) vs Jeremiah plain (39:1/34:1 ยกมา+เขา, invader→plain); Jeremiah internally mixed (52:4 พระองค์ vs 34:1 เขา). §2.2 says foreign emperors get ทรง even if villainous. Q: normalize to §2.2/Daniel, or document invader-role exception? Connects A_DAN_A_foreign. In crossbook_proposals.md §2."
   },
   {
     "id": "JER-T4-001",
@@ -2434,9 +2436,10 @@
     "ref_raw": "31:32",
     "issue": "MT \"I was a husband\" vs shipped Heb8:9 LXX เราจึงทอดทิ้ง; no reader footers",
     "disposition": "DECIDE (MAJOR)",
-    "status": "pending",
+    "status": "skipped",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "TEXT CONFORMANT: Jer 31:32 ships MT เป็นเหมือนสามี (husband, MT-faithful); Heb 8:9 ships LXX 'disregarded' (NT quotes LXX) — both correct to source. Issue is FOOTER-GAP only (substantive husband↔disregarded divergence, NT-cited, no footer) → logged as high-priority instance in the systematic footer-gap note. No text change."
   },
   {
     "id": "JER-T5-001",
