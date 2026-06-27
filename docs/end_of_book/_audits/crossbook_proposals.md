@@ -59,6 +59,12 @@ Every item cites its governing decision + the **verified** shipped text.
 - [ ] **Rom 10:8 — `จิตใจ` → `ใจ` (minor / low-priority)** `[conformance]`
   - DEU 30:14 "the word is…in your heart" → `ใจ`; Rom 10:8 (quoting it, `καρδία`) → `จิตใจ`. The `καρδία`→`ใจ` pattern (cf. Shema `สุดใจ`) favors `ใจ` for thread consistency. Minor — Ben's call. _(from `DEU-T5-008`)_
 
+### T5 — "arm of the LORD" (Isa 53:1 ∥ John 12:38)
+
+- [ ] **John 12:38 — `พระหัตถ์` → `พระกร`** `[conformance]`
+  - Isa 53:1 "the arm of the LORD" → `พระกร` (3rd-person divine arm, per the anthropomorphism lock). **John 12:38** quotes it (Greek `βραχίων` = *arm*) but ships `พระหัตถ์` ("hand" = `יָד`/`χείρ`) — a lexical mismatch (arm→hand) that also breaks the Isa 53:1 citation thread.
+  - **Proposal:** John 12:38 → `พระกร` (align Isa 53:1; `βραχίων` = arm). Gemini unavailable (503). _(from `ISA-T5-001`)_
+
 ### T5 — OT↔NT cross-quotation thread (Isaiah 29:13 ∥ Synoptics)
 
 - [ ] **Mark 7:6 — align to the Isa 29:13 citation thread** `[conformance]`
@@ -125,6 +131,9 @@ Every item cites its governing decision + the **verified** shipped text.
 
 ### T7 — human "slow to anger" in Proverbs (`אֶרֶךְ אַפַּיִם`)
 - **The human virtue `אֶרֶךְ אַפַּיִם` is rendered two ways in Proverbs:** `อดทน` (14:29 "the patient have great understanding", 25:15 "with patience a ruler is persuaded") vs `โกรธช้า` (15:18, 16:32 "slow to anger"). Possibly context-sensitive (patience-virtue contexts → `อดทน`; anger contexts → `โกรธช้า`). The **divine** form is separately `ทรงกริ้วช้า` (Exod 34 — the `ทรง` honorific correctly marks the divine/human split). **Q:** unify the human rendering (to one of `โกรธช้า`/`อดทน`), or document the context-split as principled? _(from `PRO-T7-001`)_
+
+### T5 — Stone testimonium NT-internal drift (Isa 8:14/28:16 ∥ Rom 9:33 ∥ 1 Pet 2:6-8)
+- **The combined Isa-8:14+28:16 "stone" quote reads inconsistently across its two NT citations** (Rom 9:33 and 1 Pet 2:6–8, same Greek): `πέτρα σκανδάλου` → Rom 9:33 `หินแห่งการกีดกั้น` vs 1 Pet 2:8 `หินแห่งเหตุสะดุด`; `οὐ καταισχυνθήσεται` ("not put to shame") → Rom 9:33 `ผิดหวัง` vs 1 Pet 2:6 `อับอาย`. (`ศิลาแห่งการสะดุด` matches across both.) **Q:** unify the NT Stone-testimonium renderings (which surface for `πέτρα σκανδάλου` + `καταισχύνω`)? _(from `ISA-T5-003`)_
 
 ### Systematic — OT↔NT citation Layer-2 footers largely not yet added
 - **Verified absent** for all 7 NT-cited Isaiah verses in `ISA-T5-004` (9:1, 11:10, 25:8, 29:13, 42:1, 45:23, 65:1) — the chapters carry other footers (tetragrammaton etc.) but no citation footer. Per `ot_nt_cross_quotation_thread §3` each NT-cited OT verse should carry a Layer-2 footer naming the citation + any MT-vs-LXX divergence (several of these are legit LXX-divergences: 25:8 "forever"≠"in victory"; 65:1 LXX clause-reversal; 11:10 LXX "rise to rule"). **This is apparatus, not text** — a systematic project task, not authored by this loop. Flagging once here; the audit will note per-unit footer-gaps but won't generate footers. _(from `ISA-T5-004`; expect recurrence across the 35 T5 units)_

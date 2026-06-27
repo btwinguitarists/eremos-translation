@@ -2267,9 +2267,11 @@
     "ref_raw": "53:1",
     "issue": "\"Arm of the LORD\" พระกร but John 12:38 ships พระหัตถ์ — NT retro-candidate",
     "disposition": "REVIEW",
-    "status": "pending",
+    "status": "proposed",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "pr": 210,
+    "note": "[conformance] John 12:38 พระหัตถ์→พระกร: Isa 53:1 arm=พระกร; John 12:38 quotes it (βραχιων=arm) but ships พระหัตถ์(hand). Lexical mismatch + breaks Isa 53:1 thread. In §1."
   },
   {
     "id": "ISA-T5-002",
@@ -2283,9 +2285,10 @@
     "ref_raw": "56:7",
     "issue": "\"house of prayer\" นิเวศ (=Mk11:17) but Matt21:13 บ้าน; den ซ่อง vs ถ้ำ",
     "disposition": "REVIEW",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "DUP of JER-T5-001 (temple-cleansing): Matt 21:13 บ้าน/ซ่อง→นิเวศ/ถ้ำของโจร already staged in §1 (the house-of-prayer นิเวศ + den-of-robbers ถ้ำ alignment). Same finding."
   },
   {
     "id": "ISA-T5-003",
@@ -2300,9 +2303,11 @@
     "ref_raw": "8:14,28:16",
     "issue": "Stone NT-internal drift (Isa vs Rom9:33 vs 1Pet2:8); shame ผิดหวัง vs อับอาย",
     "disposition": "REVIEW",
-    "status": "pending",
+    "status": "proposed",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "pr": 210,
+    "note": "[QUESTION] Stone testimonium NT-internal drift: Rom 9:33 หินแห่งการกีดกั้น/ผิดหวัง vs 1Pet 2:8/2:6 หินแห่งเหตุสะดุด/อับอาย (same Greek πετρα σκανδαλου / καταισχυνω). ศิลาแห่งการสะดุด matches. Unify NT Stone-quote? In §2."
   },
   {
     "id": "ISA-T5-004",
