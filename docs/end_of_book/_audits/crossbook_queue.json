@@ -1654,9 +1654,10 @@
     "ref_raw": "23:10 vs 1KI 11:7",
     "issue": "Molech พระโมเลค vs โมเลคเทพอันน่าสะอิดสะเอียน — two surfaces",
     "disposition": "REVIEW",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "PRINCIPLED (Hebrew-driven), not a drift: Molech 1KI 11:7 โมเลคเทพอันน่าสะอิดสะเอียน renders המלך שקץ (abomination descriptor in Hebrew); 2KI 23:10 พระโมเลค renders bare המלך. Base name โมเลค consistent; both pagan-register forms (เทพ/พระ) sanctioned. §1.3."
   },
   {
     "id": "2KI-T8-002",
@@ -3235,9 +3236,10 @@
     "ref_raw": "7:18-29",
     "issue": "7× compound אֲדֹנָי יְהוִה → bare องค์พระผู้เป็นเจ้า; discourse-rule unifies JOS7/JDG6/2SA7/1KI8",
     "disposition": "LOCK + table",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "dup A_2SA_B_adonai: 2Sam 7:18-29 is THE appositional-bare anchor the 2026-05-23 Adonai sub-rule was derived from. Compound→bare องค์พระผู้เป็นเจ้า per the rule. Adonai meta-Q live in B_1KI_D_adonai. Conformant."
   },
   {
     "id": "2SA-T7-001",
@@ -3249,9 +3251,10 @@
     "ref_raw": "22 ≈ Ps18; 1Chr11-21 ≈ 2Sam5-24",
     "issue": "no parallel-passage doc; lock \"translate each from own MT\"; 22:50→Rom15:9",
     "disposition": "WRITE DOC",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "RESOLVED: synoptic_parallel_passages_2026-05.md written (verified at 2SA-T4-001); the 'write doc' ask is done. 22:50→Rom15:9 citation = footer-gap (systematic). Dup B_2SA_A/C."
   },
   {
     "id": "2SA-T8-001",
@@ -3327,9 +3330,10 @@
     "ref_raw": "book",
     "issue": "LXX 3 Reigns macro-divergence (Solomon reorder, Miscellanies, MT 20/21↔LXX swap); book note + footers",
     "disposition": "WRITE NOTE",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "dup B_1KI_B_lxx + B_2KI_C_lxx macro-divergence Tier-2 policy decision (1 Kings/3 Reigns explicitly named as a macro-divergence book there). The 'write note' (1KI book-level LXX note) is part of that open policy decision."
   },
   {
     "id": "1KI-T8-001",
@@ -3380,9 +3384,10 @@
     "ref_raw": "11:5,11:33",
     "issue": "pagan-deity register พระบาอัล/พระอัชเทเรท, never พระเจ้า; reinforces 1SA normalize",
     "disposition": "LOCK",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "VERIFIED CONFORMANT: 1KI Baal=พระบาอัล (16:31/32, 18:19) per ot_polytheistic_register lock. Dup A_1KI_E_pagan. Confirms 1SA-T8-002 Baal forward-watch for 1KI (Elijah cycle clean; 1Sam 7:4 bare is the lone outlier)."
   },
   {
     "id": "1KI-T2-002",
