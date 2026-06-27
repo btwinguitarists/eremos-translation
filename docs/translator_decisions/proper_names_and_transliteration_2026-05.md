@@ -1,21 +1,21 @@
 # Hebrew proper names and place-names — transliteration policy
 
-**Scope:** All Hebrew/Aramaic proper nouns in the OT — personal names, place names, tribal/clan names, river/mountain names, foreign king names, ethnic groups. Plus the policy for adopting THSV11 / TNCV name conventions as the baseline.
+**Scope:** All Hebrew/Aramaic proper nouns in the OT — personal names, place names, tribal/clan names, river/mountain names, foreign king names, ethnic groups. Plus the policy for adopting ฉบับแปลไทย name conventions as the baseline.
 
 **Decided:** 2026-05-04 (per plan §6 + Gemini #5 recommendation).
 
 ---
 
-## Core policy: THSV11/TNCV baseline + override only when needed
+## Core policy: ฉบับแปลไทย baseline + override only when needed
 
-The OT contains **thousands** of proper names — every patriarch, every clan member, every place, every foreign king. Transliterating each from Hebrew first-principles for every chapter would (a) consume enormous translator time, (b) produce inconsistencies as different transliteration choices accumulate, (c) confuse Thai Bible readers who already know names from THSV11 / TNCV.
+The OT contains **thousands** of proper names — every patriarch, every clan member, every place, every foreign king. Transliterating each from Hebrew first-principles for every chapter would (a) consume enormous translator time, (b) produce inconsistencies as different transliteration choices accumulate, (c) confuse Thai Bible readers who already know names from ฉบับแปลไทย.
 
-**Decision:** Adopt the THSV11 (Thai Standard Version 2011) + TNCV (Thai New Contemporary Version) transliteration baseline as the **default** for all OT proper names. Override the default only when:
+**Decision:** Adopt the standard Thai (standard Thai usage 2011) + ฉบับแปลไทย (Thai contemporary Thai) transliteration baseline as the **default** for all OT proper names. Override the default only when:
 
 1. The default name introduces a **factual error** (e.g., conflates two distinct biblical figures with the same name).
-2. The default contradicts **Hebrew phonology** in a way that misleads readers about the underlying name (rare — THSV11 is generally faithful).
-3. **Theological wordplay** in the verse turns on the name's etymology, and the THSV11 form obscures it (rare; document the override in `key_decisions`).
-4. The name is **transliterated inconsistently** across THSV11 itself, and Eremos must pick one form for canonical consistency.
+2. The default contradicts **Hebrew phonology** in a way that misleads readers about the underlying name (rare — standard Thai is generally faithful).
+3. **Theological wordplay** in the verse turns on the name's etymology, and the standard Thai form obscures it (rare; document the override in `key_decisions`).
+4. The name is **transliterated inconsistently** across standard Thai itself, and Eremos must pick one form for canonical consistency.
 
 Default transliteration data: `data/proper_names_thsv11_baseline.json` (to be built; see §5 below for build process).
 
@@ -24,7 +24,7 @@ Default transliteration data: `data/proper_names_thsv11_baseline.json` (to be bu
 ## Why baseline-adoption rather than first-principles transliteration
 
 - **Reader recognition.** Thai Bible readers already know Abraham as `อับราฮัม`, David as `ดาวิด`, Jerusalem as `กรุงเยรูซาเล็ม`. Reinventing these would alienate readers.
-- **Eremos NT precedent.** The NT translation has used THSV11-aligned forms for the major Old-Testament-mentioned names (Abraham, Moses, David, Solomon, Elijah, etc.). Adopting THSV11 baseline keeps the OT-NT name continuity consistent within Eremos itself.
+- **Eremos NT precedent.** The NT translation has used standard Thai-aligned forms for the major Old-Testament-mentioned names (Abraham, Moses, David, Solomon, Elijah, etc.). Adopting แบบมาตรฐานทั่วไป keeps the OT-NT name continuity consistent within Eremos itself.
 - **Translator time.** ~2,000+ proper names in the OT. First-principles transliteration on each = months of work. Baseline + override = days.
 - **Consistency mechanism.** A single baseline file eliminates the "Asaph in 2 Chr was rendered as อาสาฟ but in Pss as อาซัฟ" failure mode.
 
@@ -34,7 +34,7 @@ Default transliteration data: `data/proper_names_thsv11_baseline.json` (to be bu
 
 ### Patriarchs and matriarchs
 
-| Hebrew | THSV11 baseline | Notes |
+| Hebrew | แบบมาตรฐานทั่วไป | Notes |
 |---|---|---|
 | אַבְרָהָם | **อับราฮัม** | Use throughout. Pre-renaming אַבְרָם → **อับราม** (Genesis 11–17) |
 | יִצְחָק | **อิสอัค** | |
@@ -48,9 +48,9 @@ Default transliteration data: `data/proper_names_thsv11_baseline.json` (to be bu
 
 ### Major prophets
 
-| Hebrew | THSV11 baseline | Notes |
+| Hebrew | แบบมาตรฐานทั่วไป | Notes |
 |---|---|---|
-| מֹשֶׁה | **โมเสส** | Adopt THSV11. (Note: NT corpus already uses Greek-form **โมเสส** = Μωυσῆς in Acts/Heb; matches OT) |
+| מֹשֶׁה | **โมเสส** | Adopt ฉบับแปลไทย. (Note: NT corpus already uses Greek-form **โมเสส** = Μωυσῆς in Acts/Heb; matches OT) |
 | אַהֲרֹן | **อาโรน** | |
 | יְהוֹשֻׁעַ | **โยชูวา** | The Yeshua/Joshua name. Pre-renaming הוֹשֵׁעַ → **โฮเชยา** (Numbers 13:8, 16) |
 | שְׁמוּאֵל | **ซามูเอล** | |
@@ -63,7 +63,7 @@ Default transliteration data: `data/proper_names_thsv11_baseline.json` (to be bu
 
 ### Minor prophets
 
-| Hebrew | THSV11 baseline |
+| Hebrew | แบบมาตรฐานทั่วไป |
 |---|---|
 | הוֹשֵׁעַ | **โฮเชยา** |
 | יוֹאֵל | **โยเอล** |
@@ -80,7 +80,7 @@ Default transliteration data: `data/proper_names_thsv11_baseline.json` (to be bu
 
 ### Kings of Israel + Judah
 
-The two-kingdom history has ~40 kings; THSV11 baseline applies. The full king-list will be loaded into `data/proper_names_thsv11_baseline.json`. Spot-check:
+The two-kingdom history has ~40 kings; แบบมาตรฐานทั่วไป applies. The full king-list will be loaded into `data/proper_names_thsv11_baseline.json`. Spot-check:
 
 - דָּוִד → **ดาวิด**
 - שְׁלֹמֹה → **ซาโลมอน**
@@ -91,18 +91,18 @@ The two-kingdom history has ~40 kings; THSV11 baseline applies. The full king-li
 
 ### Foreign kings (Egyptian, Babylonian, Persian)
 
-| Hebrew | THSV11 baseline |
+| Hebrew | แบบมาตรฐานทั่วไป |
 |---|---|
 | פַּרְעֹה | **ฟาโรห์** (title; not a personal name except where one Pharaoh is specified) |
 | נְבוּכַדְנֶצַּר | **เนบูคัดเนสซาร์** |
 | בֶּלְשַׁאצַּר | **เบลชัสซาร์** |
 | כּוֹרֶשׁ | **ไซรัส** (Cyrus; Latinized form is dominant in Thai Bible reading tradition) |
 | דָּרְיָוֶשׁ | **ดาริอัส** |
-| אַחַשְׁוֵרוֹשׁ | **อาหสุเอรัส** (= Xerxes; THSV11 uses Hebrew-form אחשורוש transliterated, not the Persian/Greek form) |
+| אַחַשְׁוֵרוֹשׁ | **อาหสุเอรัส** (= Xerxes; ฉบับแปลไทย uses Hebrew-form אחשורוש transliterated, not the Persian/Greek form) |
 
 ### Geographic names
 
-| Hebrew | THSV11 baseline |
+| Hebrew | แบบมาตรฐานทั่วไป |
 |---|---|
 | יְרוּשָׁלִַם | **กรุงเยรูซาเล็ม** (with `กรุง` city-prefix) |
 | צִיּוֹן | **ศิโยน** |
@@ -118,13 +118,13 @@ The two-kingdom history has ~40 kings; THSV11 baseline applies. The full king-li
 
 ### Tribal / clan / ethnic names
 
-| Hebrew | THSV11 baseline |
+| Hebrew | แบบมาตรฐานทั่วไป |
 |---|---|
 | בְּנֵי יִשְׂרָאֵל | **วงศ์วานอิสราเอล / ลูกหลานอิสราเอล / คนอิสราเอล** (context: tribal-collective vs ethnic) |
 | לֵוִיִּם | **คนเลวี / คณะเลวี** |
 | כְּנַעֲנִי | **คานาอัน** (the place) / **ชาวคานาอัน** (the people) |
-| פְּלִשְׁתִּים | **ฟิลิสเตีย** (the people; THSV11 uses ethnic-noun form) |
-| חִתִּים | **ฮิตไทต์** (modern English-via-Thai loanword) or **ฮิตเชย** (Hebrew-form) — THSV11 uses **คนฮิตไทต์** |
+| פְּלִשְׁתִּים | **ฟิลิสเตีย** (the people; standard Thai uses ethnic-noun form) |
+| חִתִּים | **ฮิตไทต์** (modern English-via-Thai loanword) or **ฮิตเชย** (Hebrew-form) — standard Thai uses **คนฮิตไทต์** |
 | מוֹאָב / עַמּוֹן / אֱדוֹם | **โมอับ / อัมโมน / เอโดม** |
 
 ### Seven-nations cluster (Deut 7:1, 20:17, Josh 3:10, 24:11, Judg 3:5, etc.)
@@ -157,29 +157,29 @@ A small set of OT terms have entered Thai through the Greek/Latin/English channe
 
 | Hebrew | Eremos Thai | Why this form | Layer-2 etymology footer |
 |---|---|---|---|
-| יוֹבֵל (yobel) | **ปีจูบีลี** (Jubilee year) | Latin `iubilaeus` → English Jubilee → Thai `จูบีลี`; long-established Thai-Christian-Bible tradition (THSV11/TNCV); reader recognition outweighs phonology preservation. The metonymy "year named after the ram's-horn instrument that announces it" is recoverable via footer. | LEV 25:10 (first occurrence) — explains that יוֹבֵל literally means "ram's horn" and notes Joshua 6's `שׁוֹפְרוֹת הַיּוֹבְלִים` (trumpets-of-yobel) connection. Documented 2026-05-16 cross-AI review. |
+| יוֹבֵל (yobel) | **ปีจูบีลี** (Jubilee year) | Latin `iubilaeus` → English Jubilee → Thai `จูบีลี`; long-established Thai-Christian-Bible tradition (ฉบับแปลไทย); reader recognition outweighs phonology preservation. The metonymy "year named after the ram's-horn instrument that announces it" is recoverable via footer. | LEV 25:10 (first occurrence) — explains that יוֹבֵל literally means "ram's horn" and notes Joshua 6's `שׁוֹפְרוֹת הַיּוֹבְלִים` (trumpets-of-yobel) connection. Documented 2026-05-16 cross-AI review. |
 
 The decision rule for "is this a special-case loanword": (a) does Thai-Christian-Bible tradition unambiguously attest a single form? (b) is the Hebrew underlying word a *name-of-a-thing* (not a proper noun for a person/place)? (c) does retaining the tradition word lose a *visible* Hebrew wordplay or typological metonymy? — if (a) and (b) are yes and (c) is the only loss, document the loss in a Layer-2 footer and retain the tradition word.
 
 ---
 
-## When to override the THSV11 baseline
+## When to override the แบบมาตรฐานทั่วไป
 
 ### Override #1: factual error in baseline
 
-Example: if THSV11 conflates two biblical figures with the same Hebrew name into one Thai form when they are clearly distinct (e.g., two different `אֲבִיָּם` characters in 1 Kings vs. 2 Chronicles), Eremos disambiguates with a contextual qualifier.
+Example: if standard Thai conflates two biblical figures with the same Hebrew name into one Thai form when they are clearly distinct (e.g., two different `אֲבִיָּם` characters in 1 Kings vs. 2 Chronicles), Eremos disambiguates with a contextual qualifier.
 
 Document in: `key_decisions` for the verse + a footnote distinguishing "Abijam king of Judah" vs. "Abijah son of Jeroboam".
 
 ### Override #2: theological wordplay obscured
 
-Example: the Eve-namegiving in Gen 3:20 — `חַוָּה` ("life") given because she is the mother of all living. The Thai form `เอวา` (THSV11) is fine but doesn't encode the wordplay. Override in this verse: keep `เอวา` in main text + add a footnote explaining the etymological wordplay.
+Example: the Eve-namegiving in Gen 3:20 — `חַוָּה` ("life") given because she is the mother of all living. The Thai form `เอวา` (ฉบับแปลไทย) is fine but doesn't encode the wordplay. Override in this verse: keep `เอวา` in main text + add a footnote explaining the etymological wordplay.
 
 Document in: `key_decisions` + verse-level footer note.
 
-### Override #3: inconsistent THSV11 transliteration
+### Override #3: inconsistent standard Thai transliteration
 
-Some THSV11 names appear in two forms across the canon (typesetting drift). Pick one for Eremos canonical consistency. Document in `data/proper_names_thsv11_baseline.json` with a note about which form was canonicalized + why.
+Some standard Thai names appear in two forms across the canon (typesetting drift). Pick one for Eremos canonical consistency. Document in `data/proper_names_thsv11_baseline.json` with a note about which form was canonicalized + why.
 
 ### Override #4: name compound that needs semantic-translation
 
@@ -191,7 +191,7 @@ Place-name compounds where the meaning is the point (e.g., `בְּאֵר־לַח
 
 ### Phase A — pre-Gen 1 (Day 14, per plan §20 Track B)
 
-Build the baseline file from a one-time scrape of the THSV11 OT text (PD; via STEP Bible or other OSI-friendly Thai-text source). The scrape extracts every proper noun (identified via Hebrew morphology in `morphhb` paired with the Thai translation) and produces a JSON file:
+Build the baseline file from a one-time scrape of the standard Thai OT text (PD; via STEP Bible or other OSI-friendly Thai-text source). The scrape extracts every proper noun (identified via Hebrew morphology in `morphhb` paired with the Thai translation) and produces a JSON file:
 
 ```json
 {
@@ -224,8 +224,8 @@ End of phase 6H (Twelve Prophets), run a corpus-wide proper-name consistency aud
 
 ## When to revisit
 
-- **Pilot-end review** (after Ruth + Jonah + Gen 1–11 ship) — review the baseline file. Adjust if the Thai-language reviewer / maintainer find systematic THSV11-form issues.
-- **Per-phase boundary** — re-confirm the baseline still applies; THSV11 conventions can drift across genre.
+- **Pilot-end review** (after Ruth + Jonah + Gen 1–11 ship) — review the baseline file. Adjust if the Thai-language reviewer / maintainer find systematic standard Thai-form issues.
+- **Per-phase boundary** — re-confirm the baseline still applies; standard Thai conventions can drift across genre.
 - **If a Phase-6 book introduces a wave of new proper names** (Joshua tribal-allotments, 1 Chr genealogies, Ezra-Neh names) — verify baseline coverage is sufficient before starting; build out the file if not.
 
 ---
@@ -259,7 +259,7 @@ End of phase 6H (Twelve Prophets), run a corpus-wide proper-name consistency aud
 
 2. **Greek-form vs. Hebrew-form is a transliteration choice, not a meaning difference.** Γεδεών IS Gideon; Ἰεφθάε IS Jephthah. The Greek author of Hebrews used the LXX/Greek conventions because Greek was his vehicle; he was not naming different people. The Thai translator's task is to render the *same person*, and the OT-Hebrew-faithful Thai is the canonical reference form.
 
-3. **The reverse direction does NOT apply.** When an OT figure has acquired a Greek-conventional Thai form that is *more widely recognized* in Thai-Bible readership (e.g., `โมเสส` matches both Greek Μωυσῆς and Hebrew מֹשֶׁה via THSV11 baseline; same with `ดาวิด`, `ซามูเอล`), use the THSV11 baseline. The rule only kicks in when an OT/NT spelling drift would actively obstruct cross-corpus reading — as it did at HEB 11:32 with `กิเดโอน` (Greek-form) vs. `กิดเอน` (Hebrew-faithful, JDG-side baseline).
+3. **The reverse direction does NOT apply.** When an OT figure has acquired a Greek-conventional Thai form that is *more widely recognized* in Thai-Bible readership (e.g., `โมเสส` matches both Greek Μωυσῆς and Hebrew מֹשֶׁה via แบบมาตรฐานทั่วไป; same with `ดาวิด`, `ซามูเอล`), use the แบบมาตรฐานทั่วไป. The rule only kicks in when an OT/NT spelling drift would actively obstruct cross-corpus reading — as it did at HEB 11:32 with `กิเดโอน` (Greek-form) vs. `กิดเอน` (Hebrew-faithful, JDG-side baseline).
 
 ### Forward-protection — other OT-figure-in-NT-retrospective targets
 

@@ -131,12 +131,12 @@ The Thai loses the verbal echo because Thai lacks a single noun spanning both se
 
 **The divergence:** The same OT figure (Hezron's son, Amminadab's father, in the Davidic line) appears in two corpus locations with two Thai forms:
 
-- **RUT 4:19** (Hebrew רָם → THSV11 OT-baseline): **ราม**
+- **RUT 4:19** (Hebrew רָם → standard Thai OT-baseline): **ราม**
 - **MAT 1:3-4** (Greek Ἀράμ with prosthetic alpha → already-shipped NT): **อารัม**
 
 The 4:19 KD documents the divergence and recommends "future polish-pass." The same person in the same Davidic genealogy is now spelled two ways in the corpus.
 
-**Other Ruth-4 names verified as cross-corpus-locked-and-consistent** (per `proper_names_and_transliteration_2026-05.md` THSV11 baseline):
+**Other Ruth-4 names verified as cross-corpus-locked-and-consistent** (per `proper_names_and_transliteration_2026-05.md` แบบมาตรฐานทั่วไป):
 - פֶּרֶץ → เปเรศ (Ruth 4:18 + Mt 1:3) ✓
 - חֶצְרוֹן → เฮศרอน / เฮสโรน (slight Thai-orthographic variance) — Ruth 4:18 + Mt 1:3
 - עַמִּינָדָב → อัมมีนาดับ (Ruth 4:19 + Mt 1:4) ✓
@@ -151,9 +151,9 @@ The 4:19 KD documents the divergence and recommends "future polish-pass." The sa
 
 **Three resolution paths:**
 
-(a) **OT Hebrew form wins corpus-wide** (ราม). Normalize Mt 1:3-4 in a future NT polish-pass. Argument: Hebrew-text fidelity; matches THSV11.
+(a) **OT Hebrew form wins corpus-wide** (ราม). Normalize Mt 1:3-4 in a future NT polish-pass. Argument: Hebrew-text fidelity; matches common Thai usage.
 
-(b) **NT Greek form wins corpus-wide** (อารัม). Normalize Ruth 4:19 to อารัม. Argument: cross-corpus consistency; aligns with already-shipped NT; matches mainstream evangelical Thai (NTV/THSV-Plus/ESV-Thai all carry over the Greek prosthetic).
+(b) **NT Greek form wins corpus-wide** (อารัม). Normalize Ruth 4:19 to อารัม. Argument: cross-corpus consistency; aligns with already-shipped NT; matches mainstream evangelical Thai (mainstream Thai versions all carry over the Greek prosthetic).
 
 (c) **Tolerate the divergence with an explicit doc.** Both forms valid; readers see the same person in two transliterations.
 

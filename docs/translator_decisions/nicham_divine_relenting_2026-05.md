@@ -105,7 +105,7 @@ This is the canonical interpretive framework: divine-relenting is a stable patte
 - **ทรง-** preserves the Rachasap (royal Thai) register required for divine subjects per `ot_register_policy §1.1`.
 - **เปลี่ยน** ("change") captures the core cognitive-volitional shift.
 - **พระทัย** ("royal heart/mind/will") preserves the divine-anthropomorphism (heart/mind as the seat of decision) per `hebrew_idioms_and_metaphor §1.4`.
-- The compound is established in Thai Christian discourse (THSV uses "ทรงเปลี่ยนพระทัย" or "ทรงเสียพระทัย" depending on context; we lock to "ทรงเปลี่ยนพระทัย" for consistency).
+- The compound is established in Thai Christian discourse (standard Thai uses "ทรงเปลี่ยนพระทัย" or "ทรงเสียพระทัย" depending on context; we lock to "ทรงเปลี่ยนพระทัย" for consistency).
 
 ### 4.1 What we deliberately reject
 

@@ -84,7 +84,7 @@ Keep the review ~1500-3000 words. Concrete > exhaustive. If you have no concerns
 
 **§1 Philosophy:** optimal equivalence. Accuracy > naturalness when they conflict.
 
-**§2 Sources during translation:** Greek (SBLGNT), MACULA morph, BSB English as sanity-check (never copy), RULES.md, glossary.json, prior Eremos output, unfoldingWord uW TN + book intros (read for context, never copy wording). NEVER: copyrighted Thai Bibles (THSV/NTV/ERV/TNCV), TNBT wording, copyrighted commentary.
+**§2 Sources during translation:** Greek (SBLGNT), MACULA morph, BSB English as sanity-check (never copy), RULES.md, glossary.json, prior Eremos output, unfoldingWord uW TN + book intros (read for context, never copy wording). NEVER: copyrighted Thai Bibles, TNBT wording, copyrighted commentary.
 
 **§3 Register:**
 - Divine subjects (God, Christ, Spirit): ราชาศัพท์ always. ทรง- / เสด็จ / ตรัส / ทอดพระเนตร / พระหัตถ์ / พระบาท / พระเจ้า / พระเยซู.
@@ -2532,10 +2532,10 @@ Six representative Luke chapters follow, compressed format (verse reference, Gre
 **Luke 24:3**
 - GR: εἰσελθοῦσαι δὲ οὐχ εὗρον τὸ σῶμα.
 - TH: เมื่อเข้าไปแล้ว พวกเธอก็ไม่พบพระศพ
-- TH-summary: SBLGNT ไม่มีวลี «ขององค์พระเยซูเจ้า» ที่ปรากฏในฉบับ NA28/BSB/KJV/THSV ฉบับเอเรมอสเลือกตามต้นฉบับวิจารณ์ SBLGNT (สำนวนสั้น) พบในพยานตระกูลตะวันตก Codex Bezae (D) และฉบับลาตินโบราณบางฉบับ — เป็นหนึ่งใน «Western non-interpolations» ที่นักวิชาการโต้แย้งกันมา
+- TH-summary: SBLGNT ไม่มีวลี «ขององค์พระเยซูเจ้า» ที่ปรากฏในฉบับ NA28/BSB/KJV/ฉบับแปลไทย ฉบับเอเรมอสเลือกตามต้นฉบับวิจารณ์ SBLGNT (สำนวนสั้น) พบในพยานตระกูลตะวันตก Codex Bezae (D) และฉบับลาตินโบราณบางฉบับ — เป็นหนึ่งใน «Western non-interpolations» ที่นักวิชาการโต้แย้งกันมา
 - Key decisions:
   - εἰσελθοῦσαι & οὐχ εὗρον τὸ σῶμα → เมื่อเข้าไปแล้ว พวกเธอก็ไม่พบพระศพ — uW figs-explicit: body-not-there because Jesus has risen. Thai พระศพ retains divine-register honorific (LUK 23:52/53/55 precedent). Note the SHORT reading per SBLGNT — see notes for textual divergence.
-- Notes: TEXTUAL VARIANT (SBLGNT vs NA28): SBLGNT main text ends the verse at τὸ σῶμα with no genitive qualifier. NA28 reads τὸ σῶμα [τοῦ κυρίου Ἰησοῦ] in single brackets ('the body [of the Lord Jesus]'). BSB, ESV, NIV, CSB, KJV, THSV all include 'of the Lord Jesus.' Witnesses-omit include Codex Bezae (D), Old Latin (a b d e ff² l r¹), some Syriac; wit...
+- Notes: TEXTUAL VARIANT (SBLGNT vs NA28): SBLGNT main text ends the verse at τὸ σῶμα with no genitive qualifier. NA28 reads τὸ σῶμα [τοῦ κυρίου Ἰησοῦ] in single brackets ('the body [of the Lord Jesus]'). BSB, ESV, NIV, CSB, KJV, standard Thai all include 'of the Lord Jesus.' Witnesses-omit include Codex Bezae (D), Old Latin (a b d e ff² l r¹), some Syriac; wit...
 
 **Luke 24:4**
 - GR: καὶ ἐγένετο ἐν τῷ ἀπορεῖσθαι αὐτὰς περὶ τούτου,καὶ ἰδοὺ ἄνδρες δύο ἐπέστησαν αὐταῖς ἐν ἐσθῆτι ἀστραπτούσῃ.
@@ -2835,11 +2835,11 @@ Six representative Luke chapters follow, compressed format (verse reference, Gre
 **Luke 24:36**
 - GR: Ταῦτα δὲ αὐτῶν λαλούντων αὐτὸς ἔστη ἐν μέσῳ αὐτῶν.
 - TH: ขณะที่พวกเขากำลังเล่าเรื่องเหล่านี้อยู่ พระองค์เองก็เสด็จมาประทับยืนอยู่ท่ามกลางพวกเขา
-- TH-summary: SBLGNT ไม่มีวลี «ทรงตรัสแก่พวกเขาว่า ‹สันติสุขจงมีแก่พวกท่าน›» ซึ่งปรากฏในฉบับ NA28/BSB/KJV/THSV ฉบับเอเรมอสเลือกตามต้นฉบับวิจารณ์ SBLGNT (สำนวนสั้น) พบในพยาน Codex Bezae (D) และฉบับลาตินโบราณ — เป็นหนึ่งใน «Western non-interpolations» ที่มีการโต้แย้งกันมาหลายศตวรรษ
+- TH-summary: SBLGNT ไม่มีวลี «ทรงตรัสแก่พวกเขาว่า ‹สันติสุขจงมีแก่พวกท่าน›» ซึ่งปรากฏในฉบับ NA28/BSB/KJV/ฉบับแปลไทย ฉบับเอเรมอสเลือกตามต้นฉบับวิจารณ์ SBLGNT (สำนวนสั้น) พบในพยาน Codex Bezae (D) และฉบับลาตินโบราณ — เป็นหนึ่งใน «Western non-interpolations» ที่มีการโต้แย้งกันมาหลายศตวรรษ
 - Key decisions:
   - Ταῦτα δὲ αὐτῶν λαλούντων → ขณะที่พวกเขากำลังเล่าเรื่องเหล่านี้อยู่ — Genitive-absolute temporal-ptc. Thai ขณะที่...กำลัง...อยู่ natural continuous-action.
   - αὐτὸς ἔστη ἐν μέσῳ αὐτῶν → พระองค์เองก็เสด็จมาประทับยืนอยู่ท่ามกลางพวกเขา — uW figs-rpronouns: αὐτός emphatic 'he-himself.' Thai พระองค์เอง. ἵστημι aor-act 'stood.' Divine-register เสด็จมา + ประทับยืน (honorific standing). ἐν μέσῳ 'in the midst' → ท่ามกลาง glossary-standard.
-- Notes: TEXTUAL VARIANT (SBLGNT vs NA28): SBLGNT ends this verse at αὐτῶν with no peace-greeting. NA28 reads αὐτὸς ἔστη ἐν μέσῳ αὐτῶν [καὶ λέγει αὐτοῖς· Εἰρήνη ὑμῖν] — 'and he said to them, Peace be with you' — in single brackets. BSB, ESV, NIV, CSB, KJV, THSV all include the peace-greeting. Witnesses-omit include Codex Bezae (D), Old Latin (a b d e f...
+- Notes: TEXTUAL VARIANT (SBLGNT vs NA28): SBLGNT ends this verse at αὐτῶν with no peace-greeting. NA28 reads αὐτὸς ἔστη ἐν μέσῳ αὐτῶν [καὶ λέγει αὐτοῖς· Εἰρήνη ὑμῖν] — 'and he said to them, Peace be with you' — in single brackets. BSB, ESV, NIV, CSB, KJV, standard Thai all include the peace-greeting. Witnesses-omit include Codex Bezae (D), Old Latin (a b d e f...
 
 **Luke 24:37**
 - GR: πτοηθέντες δὲ καὶ ἔμφοβοι γενόμενοι ἐδόκουν πνεῦμα θεωρεῖν.

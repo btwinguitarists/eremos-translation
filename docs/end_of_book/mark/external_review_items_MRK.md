@@ -52,7 +52,7 @@ The Thai distinction (presence vs. absence of ของ) is engineered to preser
 **Per-verse rationale lives in `key_decisions`; the policy lives in `inclusion_variants_absent_verses_2026-04.md`.** Single brackets signal "the mainstream tradition includes this; SBLGNT prints with apparatus marker; reader sees both the text and its contested status."
 
 **The interpretive sensitivity.** Each of the three brackets sits at a doctrinally-loaded location:
-- 1:1's υἱοῦ θεοῦ is a Christological-title declaration; bracketing it raises Christology-stakes for Thai readers who learn from THKJV/THSV that Mark begins "the gospel of Jesus Christ, the Son of God"
+- 1:1's υἱοῦ θεοῦ is a Christological-title declaration; bracketing it raises Christology-stakes for Thai readers who learn from THKJV/standard Thai that Mark begins "the gospel of Jesus Christ, the Son of God"
 - 3:14's apostles-naming has ecclesiology stakes for Catholic-Protestant differences in Thailand
 - 9:29's "and fasting" is the proof-text Thai charismatic + Pentecostal traditions cite for spiritual-discipline-against-demons; bracketing weakens that anchor
 

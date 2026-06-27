@@ -90,7 +90,7 @@ The Thai correctly mirrors **Paul's** modified-version, NOT the LXX original. Th
 
 **Editorial assessment:** This is **principled** — the Thai must mirror Paul's quotation as Paul wrote it (with the modification), not LXX/MT-Hebrew. The thai-curly-quotes preserve the citation-form without forcing the reader to compare to Hebrew/Greek originals. The thai_summary handles the apparent-discrepancy explicitly. The Pauline-citation is added to `nt_ot_citations.json` with the modification noted.
 
-But — a Thai-reader who consults a Thai OT translation (e.g., THSV1971 Ps 68:18) will see "received-gifts" and may wonder why Paul "changed" it. This is a **CC0 evangelical-Protestant-text-handling question**: should the apparent-modification be footnoted at EPH 4:8, or is the thai_summary disambiguation sufficient?
+But — a Thai-reader who consults a Thai OT translation (e.g., standard Thai Ps 68:18) will see "received-gifts" and may wonder why Paul "changed" it. This is a **CC0 evangelical-Protestant-text-handling question**: should the apparent-modification be footnoted at EPH 4:8, or is the thai_summary disambiguation sufficient?
 
 **DECIDE before tagging:**
 1. Confirm the literal-mirror-of-Paul + thai_summary disambiguation strategy is the right approach for EPH 4:8 — keeping the Thai NT clean of footnotes.

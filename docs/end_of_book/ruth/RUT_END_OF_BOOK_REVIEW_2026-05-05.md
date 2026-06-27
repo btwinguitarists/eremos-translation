@@ -151,18 +151,18 @@ This is the same lemma as 3:1 מָנוֹחַ ("resting place"), there rendered �
 ## 7. RUT 4:19 רָם vs Mt 1:3-4 อารัม — cross-corpus name-form normalization — **DECIDE**
 
 **The divergence (already documented in the 4:19 KD):**
-- Ruth 4:19 (OT, Hebrew רָם → THSV11 baseline) → **ราม**
+- Ruth 4:19 (OT, Hebrew רָם → แบบมาตรฐานทั่วไป) → **ราม**
 - Matthew 1:3-4 (NT, Greek Ἀράμ with prosthetic alpha) → **อารัม**
 
 Both refer to the same person — the OT figure between Hezron and Amminadab in the Davidic line. Same person, two Thai forms, due to the Greek-vs-Hebrew source-form difference (LXX adds prosthetic α, common in Greek transcription of Hebrew names beginning with /r/).
 
-**Editorial assessment:** This is a generalizable issue across all OT-NT-shared genealogical names. Other Ruth-4 names (Hezron, Amminadab, Nahshon, Salmon, Boaz, Obed, Jesse, David) are already cross-corpus-locked to consistent Thai forms (per Mt 1:3-6 + Lk 3:32-33 verified compliant — see the agent-extracted scorecard). **Ram is the one drift** — and it's not Ruth's-fault (the Mt locking happened earlier from Greek; Ruth follows THSV11 from Hebrew).
+**Editorial assessment:** This is a generalizable issue across all OT-NT-shared genealogical names. Other Ruth-4 names (Hezron, Amminadab, Nahshon, Salmon, Boaz, Obed, Jesse, David) are already cross-corpus-locked to consistent Thai forms (per Mt 1:3-6 + Lk 3:32-33 verified compliant — see the agent-extracted scorecard). **Ram is the one drift** — and it's not Ruth's-fault (the Mt locking happened earlier from Greek; Ruth matches common Thai usage from Hebrew).
 
 The 4:19 KD already names this and recommends "future polish-pass." Three corpus-resolution paths:
 
-(a) **OT Hebrew form wins** (ราม corpus-wide) — normalize Mt 1:3-4 in a future NT polish-pass to ราม. Hebrew-text fidelity argument; matches THSV11.
+(a) **OT Hebrew form wins** (ราม corpus-wide) — normalize Mt 1:3-4 in a future NT polish-pass to ราม. Hebrew-text fidelity argument; matches common Thai usage.
 
-(b) **NT Greek form wins** (อารัม corpus-wide) — normalize Ruth 4:19 to อารัม. Cross-corpus consistency argument; matches the already-shipped Mt; aligns with mainstream evangelical Thai (NTV/THSV-Plus/ESV-Thai all carry over the Greek prosthetic).
+(b) **NT Greek form wins** (อารัม corpus-wide) — normalize Ruth 4:19 to อารัม. Cross-corpus consistency argument; matches the already-shipped Mt; aligns with mainstream evangelical Thai (mainstream Thai versions all carry over the Greek prosthetic).
 
 (c) **Tolerate the divergence with a doc** — explicitly lock both forms with a translator-decision doc; readers see the same person in two valid Thai transliterations.
 
@@ -344,7 +344,7 @@ Thai-language reviewer choice. The translator surfaced this open in the KD — d
 5. **`docs/translator_decisions/paqad_visit_attend_2026-05.md`** (§5a) — sense-table for the 300-occurrence lemma
 
 ### H. Existing docs to amend
-- **`proper_names_and_transliteration_2026-05.md`** — add Ruth's full name-set (already covered by THSV11-baseline rule, but worth listing the Ruth-genealogy names + flagging the §7 Ram cross-corpus question for reviewer attention)
+- **`proper_names_and_transliteration_2026-05.md`** — add Ruth's full name-set (already covered by standard Thai-baseline rule, but worth listing the Ruth-genealogy names + flagging the §7 Ram cross-corpus question for reviewer attention)
 - (No NT-corpus doc requires amendment from Ruth alone)
 
 ### I. External AI review (§3 of checklist) — **pending**

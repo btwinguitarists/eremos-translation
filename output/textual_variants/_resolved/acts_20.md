@@ -16,7 +16,7 @@ Translator's notes (verbatim):
 
 > **HAPAX cluster**: ἄντικρυς + Χίος + παραβάλλω + Σάμος (all NT-only here). Lukan-eyewitness-precision in this travel-narrative — the kind of nautical-detail that scholarship has long noted as distinctive of we-passages. Some MSS add καὶ μείναντες ἐν Τρωγυλλίῳ 'and after staying in Trogyllium' (Byz/TR) — variant not in SBLGNT/NA28; minor itinerary-supplement, no doctrinal-import.
 
-**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai (THSV) follow the same shorter reading; reader-trust is preserved.
+**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai versions follow the same shorter reading; reader-trust is preserved.
 
 ---
 

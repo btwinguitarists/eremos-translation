@@ -16,7 +16,7 @@ Translator's notes (verbatim):
 
 > TEXTUAL VARIANT: Some manuscripts add 'καὶ αἱ ἀδελφαί σου' ('and your sisters') after 'brothers' (Byzantine minority, reflecting harmonization with v.35). SBLGNT follows the shorter reading (ℵ, B, C, L, W). BSB follows shorter reading as well. Our translation follows SBLGNT (only mother and brothers named at the door).
 
-**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai (THSV) follow the same shorter reading; reader-trust is preserved.
+**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai versions follow the same shorter reading; reader-trust is preserved.
 
 ---
 

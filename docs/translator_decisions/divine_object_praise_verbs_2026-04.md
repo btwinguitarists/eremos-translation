@@ -36,7 +36,7 @@ When these verbs appear consecutively (e.g., LUK 18:43 δοξάζω + αἶνο�
 ## Why the collapse (rather than distinguishing)
 
 **Argument for the collapse (chosen):**
-- **Thai naturalness.** The three primary Greek praise-verbs (δοξάζω / εὐλογέω / αἰνέω) do not have neat 1:1 Thai counterparts when God is the recipient. Thai Christian tradition (THSV, NTV, other major Thai translations) defaults to สรรเสริญ for all three in God-object contexts. Following convention aids reader comprehension.
+- **Thai naturalness.** The three primary Greek praise-verbs (δοξάζω / εὐλογέω / αἰνέω) do not have neat 1:1 Thai counterparts when God is the recipient. Thai Christian tradition (major Thai translations) defaults to สรรเสริญ for all three in God-object contexts. Following convention aids reader comprehension.
 - **เอกลักษณ์ของการนมัสการแบบไทย.** Thai doxological language around God is functionally centered on สรรเสริญ (praise), ถวาย (offer), นมัสการ (worship), and ยกย่อง (exalt). The fine-grained Greek distinctions don't map to distinct Thai lexemes natively; forcing a 1:1 map produces stilted Thai.
 - **Per-verse rationale already specifies the Greek source.** When a reader or scholar needs to know which Greek lexeme underlies a given "สรรเสริญ," the verse-level `key_decisions` entry carries the Greek + Thai + rationale — so the lexical granularity is preserved for scholarship without cluttering the main-text Thai.
 

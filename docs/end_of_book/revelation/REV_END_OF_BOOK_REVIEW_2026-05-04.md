@@ -26,7 +26,7 @@ Status codes: **LOCKED** — stable + corpus-doc exists. **STABLE** — uniform/
 |---|---|---|
 | 5:6, 5:8, 5:12, 5:13, 6:1, 6:16, 7:9, 7:14, 7:17, 12:11, 13:8, 14:1, 14:4, 14:10, 15:3, 17:14 (×2), 19:7, 19:9, 21:9, 21:14, 21:22, 21:23, 21:27, 22:1, 22:3 | **พระเมษโปดก** | 24/24 verses |
 
-**Theological significance:** The Lamb is *the* Christological signature of Revelation — the slain-yet-standing paradox at 5:6, the seven-eyes / seven-horns of 5:6, the marriage-feast at 19:7–9, the throne-co-occupant of 22:1, 3, the temple-replacement of 21:22, the lamp of the New Jerusalem at 21:23, the Book-of-Life-owner of 21:27. **พระเมษโปดก** is the established Thai-Christian standard (THSV / NTV / Catholic + Protestant hymnody), distinct from ordinary ἀμνός in the Synoptics + JHN 1:29/36 (which uses **ลูกแกะ** "young-sheep" without royal prefix).
+**Theological significance:** The Lamb is *the* Christological signature of Revelation — the slain-yet-standing paradox at 5:6, the seven-eyes / seven-horns of 5:6, the marriage-feast at 19:7–9, the throne-co-occupant of 22:1, 3, the temple-replacement of 21:22, the lamp of the New Jerusalem at 21:23, the Book-of-Life-owner of 21:27. **พระเมษโปดก** is the established Thai-Christian standard (ฉบับแปลไทย / Catholic + Protestant hymnody), distinct from ordinary ἀμνός in the Synoptics + JHN 1:29/36 (which uses **ลูกแกะ** "young-sheep" without royal prefix).
 
 **Cross-corpus inheritance:** 1 Pet 1:19 ἀμνοῦ ("as of a lamb without blemish") — already shipped — should be verified. Heb 9:28 ἅπαξ προσενεχθεὶς ("offered once for all") doesn't use ἀρνίον but is the same Christological frame. **Action:** quickly cross-check 1 Pet 1:19 to confirm Lamb-of-God language is consistent with the Revelation lock.
 

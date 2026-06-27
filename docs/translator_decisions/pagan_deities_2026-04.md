@@ -40,7 +40,7 @@ This rule exists because Paul (and other NT writers) deliberately apply the SUPR
 
 | Verse | Greek | Thai | Note |
 |---|---|---|---|
-| 2 Cor 4:4 | ὁ θεὸς τοῦ αἰῶνος τούτου (Satan) | **พระเจ้าแห่งยุคนี้** | Mirrors THSV/TNCV majority Thai-tradition; preserves v.4/v.6 contrast |
+| 2 Cor 4:4 | ὁ θεὸς τοῦ αἰῶνος τούτου (Satan) | **พระเจ้าแห่งยุคนี้** | Mirrors ฉบับแปลไทย majority Thai-tradition; preserves v.4/v.6 contrast |
 | Phil 3:19 (forward) | ὁ θεὸς ἡ κοιλία (the belly) | **พระเจ้าของเขาคือท้อง** (or similar) | Apply same pattern when shipped |
 | 2 Th 2:4 (already shipped) | ὑπεραιρόμενος ἐπὶ πάντα λεγόμενον θεόν (man of lawlessness) | check current rendering on next pass | Verify pattern alignment |
 
@@ -104,7 +104,7 @@ This is theologically load-bearing. The crowd's confused worship of Herod is the
 **Pauline corpus:**
 - **1 Cor 8:5–6** (λεγόμενοι θεοί + πολλοὶ θεοί): "so-called gods + many gods" → so-called เทพเจ้า + many เทพ. Crucial distinction from "ἡμῖν εἷς θεὸς ὁ πατήρ" (for us one God the Father) → พระเจ้า.
 - **1 Cor 10:14–21** (εἰδωλόθυτα + δαιμόνια): idol-food + demons. εἴδωλον → รูปเคารพ; δαιμόνια here is NT-Christian sense (demonic-spiritual reality behind idols) → ผีร้าย / มาร depending on register.
-- **2 Cor 4:4** (ὁ θεὸς τοῦ αἰῶνος τούτου, of Satan): Pauline-polemical-metaphor → **พระเจ้าแห่งยุคนี้** per Rule 1b. NOT เทพเจ้า — Paul deliberately uses the SUPREME divine title to expose Satan's usurpation; preserves THSV/TNCV majority Thai-tradition. Locked 2026-05-01 per 3/3 external-AI consensus.
+- **2 Cor 4:4** (ὁ θεὸς τοῦ αἰῶνος τούτου, of Satan): Pauline-polemical-metaphor → **พระเจ้าแห่งยุคนี้** per Rule 1b. NOT เทพเจ้า — Paul deliberately uses the SUPREME divine title to expose Satan's usurpation; preserves ฉบับแปลไทย majority Thai-tradition. Locked 2026-05-01 per 3/3 external-AI consensus.
 - **Romans 1:18–25** (ἤλλαξαν τὴν δόξαν τοῦ ἀφθάρτου θεοῦ ἐν ὁμοιώματι): the great anti-idol polemic. Maintain พระเจ้า / รูปเคารพ distinction strictly.
 - **Galatians 4:8–9** (φύσει μὴ οὖσιν θεοῖς): "those who by nature are not gods" → เทพที่ไม่ได้เป็นพระเจ้าโดยสภาพ. Rule 1 (literal-pagan-deity rejection).
 - **Phil 3:19** (forward) (ὁ θεὸς ἡ κοιλία, "their god is their belly"): Pauline-polemical-metaphor → **พระเจ้าของเขาคือท้อง** per Rule 1b. Apply same pattern as 2 Cor 4:4.

@@ -16,7 +16,7 @@ Translator's notes (verbatim):
 
 > HEARING-FORMULA. Jesus's call-to-attentive-hearing appears at key teaching-moments throughout Matthew: 11:15, 13:9, 13:43. Also 4 occurrences in Mark (4:9, 4:23, 7:16 disputed, 8:18 near-miss) and Revelation's 7-letters formula. Echo of DEU 29:4 LXX + ISA 6:9-10 LXX (hearing-but-not-hearing Hebraism of seer-deafness). TEXTUAL VARIANT: SBLGNT 'ὁ ἔχων ὦτα ἀκουέτω' follows ℵ, B, D, latt (shorter); Byz adds ἀκούειν 'to-hear' after ὦτα (harmonizing with Mark 4:9, 4:23 and other Matt occurrences 13:9, 13:43). Modern critical text (NA28 = SBLGNT) prefers shorter. Translation meaning identical — rendered 'ใครมีหูจงฟังเถิด' without brackets. NO HAPAX.
 
-**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai (THSV) follow the same shorter reading; reader-trust is preserved.
+**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai versions follow the same shorter reading; reader-trust is preserved.
 
 ---
 

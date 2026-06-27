@@ -18,7 +18,7 @@ Translator's notes (verbatim):
 
 The Byzantine-tradition addition of τῶν ἁγίων ("of the saints") and a closing ἀμήν is a typical liturgical amplification. SBLGNT/NA28 read the bare "μετὰ πάντων" (with all) without these additions, and modern critical English translations follow suit (BSB/ESV/NIV/CSB).
 
-**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai (THSV) follow the same shorter reading; reader-trust is preserved. The translator-note "Tier-1 textually-supreme" identifies the SBLGNT reading as the well-attested critical-text reading; no surprise to mainstream readers warrants special bracketing.
+**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai versions follow the same shorter reading; reader-trust is preserved. The translator-note "Tier-1 textually-supreme" identifies the SBLGNT reading as the well-attested critical-text reading; no surprise to mainstream readers warrants special bracketing.
 
 ---
 

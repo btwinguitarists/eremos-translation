@@ -2300,7 +2300,7 @@ _ข้อ 17 ขาดในต้นฉบับภาษากรีกที
 
 ต้นฉบับที่รวมไว้: Byzantine majority, TR, Codex Sinaiticus (ℵ second-hand correction), Codex Bezae (D — at a different position), Old Latin, Syriac Peshitta, KJV, THKJV
 
-ต้นฉบับที่ละไว้: SBLGNT, NA28, UBS5, 𝔓⁷⁵, Codex Vaticanus (B), Codex Alexandrinus (A), Codex Washingtonianus (W), Codex Koridethi (Θ), f¹, f¹³, sa, bo; ESV, NIV, NASB, CSB, BSB, THSV (modern ed.)
+ต้นฉบับที่ละไว้: SBLGNT, NA28, UBS5, 𝔓⁷⁵, Codex Vaticanus (B), Codex Alexandrinus (A), Codex Washingtonianus (W), Codex Koridethi (Θ), f¹, f¹³, sa, bo; ESV, NIV, NASB, CSB, BSB, standard Thai (modern ed.)
 
 
 ---

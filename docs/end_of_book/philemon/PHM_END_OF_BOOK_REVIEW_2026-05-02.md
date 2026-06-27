@@ -78,7 +78,7 @@ Plus 4 more hapax across the rest of the letter:
 **The current rendering: ผู้สูงอายุ (πρεσβύτης = aged-person, lexical default).**
 
 The verse-level note acknowledges the variant:
-> TEXTUAL VARIANT (lexical): πρεσβύτης ('old man') vs. πρεσβευτής ('ambassador'). Some early MSS and a few patristic citations have πρεσβευτής. SBLGNT/NA28/UBS5 print πρεσβύτης; the parallelism with δέσμιος (a physical-condition descriptor of Paul's present state) supports this reading. We follow SBLGNT silently — the variant has no manuscript-weight to surface to mainstream Thai readers (THSV/THKJV agree with πρεσβύτης). RULES §5b silent-omission applies.
+> TEXTUAL VARIANT (lexical): πρεσβύτης ('old man') vs. πρεσβευτής ('ambassador'). Some early MSS and a few patristic citations have πρεσβευτής. SBLGNT/NA28/UBS5 print πρεσβύτης; the parallelism with δέσμιος (a physical-condition descriptor of Paul's present state) supports this reading. We follow SBLGNT silently — the variant has no manuscript-weight to surface to mainstream Thai readers (standard Thai/THKJV agree with πρεσβύτης). RULES §5b silent-omission applies.
 
 **Why this is REVIEW rather than STABLE:** The case for πρεσβευτής ("ambassador") is rhetorically attractive — Paul as Christ's ambassador-in-chains rhymes with 2 Cor 5:20, Eph 6:20. But the parallelism with δέσμιος ("now also a prisoner") — both physical-condition descriptors of Paul's present-self — carries the day for πρεσβύτης on internal grounds. SBLGNT critical text + most modern English critical-text Bibles also concur. The current rendering is defensible.
 

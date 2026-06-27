@@ -146,7 +146,7 @@ The current Thai surface is compatible with all three readings (Thai has no morp
 - NRSV: "Everyone who does not abide in the teaching of Christ, but goes beyond it..."
 - CSB: "Anyone who does not remain in the teaching of Christ but goes beyond it..."
 
-Modern Thai versions also vary: THSV "ก้าวล่วง" ("go-cross-past, transgress"); THKJV "นำหน้า" ("go in front, lead"); a Thai New Living Translation uses "ทิ้ง" ("abandon").
+Modern Thai versions also vary: standard Thai "ก้าวล่วง" ("go-cross-past, transgress"); THKJV "นำหน้า" ("go in front, lead"); a Thai New Living Translation uses "ทิ้ง" ("abandon").
 
 **The current rendering: ก้าวล้ำเกินเลย** ("step-cross-over-past") — a strong, principled rendering that captures the IRONIC-PROGRESS sense (the deceiver thinks they're advancing; in fact they're trespassing-past-the-boundary). It is a Thai-corpus-hapax: the phrase does NOT recur elsewhere in the Eremos translation.
 
@@ -157,7 +157,7 @@ Modern Thai versions also vary: THSV "ก้าวล่วง" ("go-cross-past,
 
 **Two questions:**
 1. Is **ก้าวล้ำเกินเลย** the right rendering? It captures the ironic-progress (going-beyond-bounds-while-imagining-yourself-advancing) better than alternatives, but at the cost of being a Thai-corpus-hapax that may sound stilted to a typical Thai reader.
-2. Should the rendering match THSV's **ก้าวล่วง** (the standard Thai-evangelical rendering for transgressive-passage) for cross-Bible Thai-readability — or is breaking with THSV's milder rendering principled here, given that 2 JN 9's προάγω is uniquely doctrinal-progressivism?
+2. Should the rendering matches common Thai usage **ก้าวล่วง** (the standard Thai-evangelical rendering for transgressive-passage) for cross-Bible Thai-readability — or is breaking with standard Thai's milder rendering principled here, given that 2 JN 9's προάγω is uniquely doctrinal-progressivism?
 
 ---
 

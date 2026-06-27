@@ -16,7 +16,7 @@ Translator's notes (verbatim):
 
 > TEXTUAL VARIANT (per uW translate-textvariants): SBLGNT/best-mss read only 'do not enter the village.' Some Byzantine mss add 'nor speak to anyone in the village' (μηδὲ εἴπῃς τινὶ ἐν τῇ κώμῃ). We follow SBLGNT (shorter reading). Preserves the messianic-secret motif: Jesus suppresses publicity not just out of geographical strategy but to control the unfolding of his identity-revelation.
 
-**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai (THSV) follow the same shorter reading; reader-trust is preserved.
+**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai versions follow the same shorter reading; reader-trust is preserved.
 
 ---
 

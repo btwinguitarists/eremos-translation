@@ -880,7 +880,7 @@ _This reader edition shows the Thai translation and the contextual summary (บ�
 
 _ข้อ 37 ขาดในต้นฉบับพันธสัญญาใหม่ที่เก่าและเชื่อถือได้ที่สุด (ปาปิรัส P45, P74, ซีนายติคัส, วาติกานัส, อเล็กซานดรินัส, เอเฟรม) และไม่มีในฉบับมาตรฐานวิจารณ์ยุคใหม่ (SBLGNT, NA28, UBS5) ข้อนี้ดูเหมือนจะเป็นการเพิ่มเข้ามาในสมัยแรกของคริสตจักร (อิเรเนอัสราว ค.ศ. 180 ได้อ้างข้อนี้แล้ว) โดยสะท้อนคำสารภาพบัพติศมาของคริสตจักรยุคต้น ฉบับภาษาอังกฤษสมัยใหม่ (ESV, NIV, BSB, CSB) ทุกฉบับละไว้ในเนื้อหาหลักและกล่าวถึงในเชิงอรรถเท่านั้น ฉบับแอเรมอสเลือกตามต้นฉบับวิจารณ์ดังที่ทำกับข้ออื่นๆ ในประเภทนี้ (มธ 17:21, 18:11, 23:14) ลำดับเลขข้อจึงข้ามจาก 36 ไป 38_
 
-ต้นฉบับที่รวมไว้: TR, Byzantine-minority (not majority), some Old-Latin (it^ar,c,e,gig,h,l,m,p,ph), Vulgate (some), Irenaeus (Haer. 3.12.8), Cyprian (Test. 3.43), THKJV/KJV, THSV (as footnote)
+ต้นฉบับที่รวมไว้: TR, Byzantine-minority (not majority), some Old-Latin (it^ar,c,e,gig,h,l,m,p,ph), Vulgate (some), Irenaeus (Haer. 3.12.8), Cyprian (Test. 3.43), THKJV/KJV, standard Thai (as footnote)
 
 ต้นฉบับที่ละไว้: SBLGNT, NA28, UBS5, P^45, P^74, Codex Sinaiticus (ℵ), Vaticanus (B), Alexandrinus (A), Ephraemi (C), the Byzantine-majority, most Syriac (sy^p, sy^h mg), Coptic (Sahidic, Bohairic), Vulgate (critical ed.); ESV, NIV, BSB, CSB, NASB
 
@@ -1795,7 +1795,7 @@ _ข้อ 37 ขาดในต้นฉบับพันธสัญญาใ
 
 _ข้อ 34 ขาดในต้นฉบับพันธสัญญาใหม่ที่เก่าและเชื่อถือได้ที่สุด (ปาปิรัส P33, P45, P74, ซีนายติคัส, วาติกานัส, อเล็กซานดรินัส) และไม่มีในฉบับมาตรฐานวิจารณ์ยุคใหม่ (SBLGNT, NA28, UBS5) ข้อนี้ดูเหมือนจะเป็นการเพิ่มเข้ามาในสมัยแรกของคริสตจักร โดยผู้คัดลอกที่ต้องการอธิบายว่าสิลาสมาอยู่ในอันทิโอกได้อย่างไรในข้อ 40 (เพราะข้อ 33 กล่าวว่าสิลาสและยูดาสกลับไปยังเยรูซาเล็ม) แต่ความเป็นไปได้ก็คือ ระหว่างการอยู่ในเยรูซาเล็มสั้นๆ สิลาสก็กลับไปยังอันทิโอกเพื่อร่วมเดินทางกับเปาโล ฉบับภาษาอังกฤษสมัยใหม่ (ESV, NIV, BSB, CSB, NASB) ทุกฉบับละไว้ในเนื้อหาหลักและกล่าวถึงในเชิงอรรถเท่านั้น ฉบับแอเรมอสเลือกตามต้นฉบับวิจารณ์ดังที่ทำกับข้ออื่นๆ ในประเภทนี้ (มธ 17:21, 18:11, 23:14; กจ 8:37) ลำดับเลขข้อจึงข้ามจาก 33 ไป 35_
 
-ต้นฉบับที่รวมไว้: TR, Byzantine-minority (not majority), C (Ephraemi), D (Bezae — with expanded reading 'and Judas returned alone to Jerusalem'), some Old-Latin (it^c,d,dem,e,gig,p,ph,ro,w), Vulgate (most), Syriac (some), THKJV/KJV, THSV (as footnote), some early-modern Thai translations
+ต้นฉบับที่รวมไว้: TR, Byzantine-minority (not majority), C (Ephraemi), D (Bezae — with expanded reading 'and Judas returned alone to Jerusalem'), some Old-Latin (it^c,d,dem,e,gig,p,ph,ro,w), Vulgate (most), Syriac (some), THKJV/KJV, standard Thai (as footnote), some early-modern Thai translations
 
 ต้นฉบับที่ละไว้: SBLGNT, NA28, UBS5, P^33, P^45, P^74, Codex Sinaiticus (ℵ), Vaticanus (B), Alexandrinus (A), H, L, P, Ψ, the Byzantine-majority, Peshitta, Coptic (Sahidic, Bohairic); ESV, NIV, BSB, CSB, NASB, RSV
 
@@ -2916,7 +2916,7 @@ _ข้อ 34 ขาดในต้นฉบับพันธสัญญาใ
 
 _ส่วนปลายของข้อ 6 ทั้งหมดของข้อ 7 และส่วนต้นของข้อ 8 ขาดในต้นฉบับพันธสัญญาใหม่ที่เก่าและเชื่อถือได้ที่สุด (ปาปิรัส P74, ซีนายติคัส, วาติกานัส, อเล็กซานดรินัส, เอเฟรม) และไม่มีในฉบับมาตรฐานวิจารณ์ยุคใหม่ (SBLGNT, NA28, UBS5) ส่วนนี้ดูเหมือนจะเป็นการเพิ่มเข้ามาในสมัยแรกของคริสตจักรโดยผู้คัดลอกที่ต้องการอธิบายว่าทำไมเทอร์ทูลลัสถึงเชิญเฟลิกซ์มาตรวจสอบเปาโลเอง — ส่วนเพิ่มเติมระบุว่า เพราะนายพันลีเซียสเข้ามาแย่งเปาโลออกจากชาวยิว ฉบับภาษาอังกฤษสมัยใหม่ (ESV, NIV, BSB, CSB, NASB, RSV) ทุกฉบับละไว้ในเนื้อหาหลักและกล่าวถึงในเชิงอรรถเท่านั้น ฉบับแอเรมอสเลือกตามต้นฉบับวิจารณ์ดังที่ทำกับข้ออื่นๆ ในประเภทนี้ (มธ 17:21, 18:11, 23:14; กจ 8:37, 15:34) ลำดับเลขข้อในเนื้อหาหลักจึงข้ามจาก 6 ไป 8 unfoldingWord Translation Notes (กจ 24:6) ระบุว่า «ข้อนี้ไม่อยู่ในต้นฉบับโบราณที่เชื่อถือได้ที่สุด» และแนะนำให้ใส่เครื่องหมายวงเล็บหรือเชิงอรรถสำหรับฉบับที่ตามต้นฉบับวิจารณ์ ซึ่งตรงกับการรักษามาตรฐานของเรา ผลในเชิงเทววิทยาและประวัติศาสตร์ — ข้อมูลในส่วนเพิ่มเติมไม่เปลี่ยนใจหลักของการเล่าเรื่อง (ผู้อ่าน ACT 21:30-36 เข้าใจอยู่แล้วว่าลีเซียสเข้ามาช่วยเปาโลจากฝูงชนชาวยิว) — แต่การเพิ่มเข้ามานี้ทำให้เทอร์ทูลลัสมีน้ำเสียงโจมตีลีเซียสว่า «ใช้กำลังมาก» (πολλῆς βίας) ซึ่งเป็นข้อหาทางการเมืองที่อาจทำให้เฟลิกซ์ต้องเรียกลีเซียสมาให้การ — แต่ในฉบับวิจารณ์ที่สั้นกว่า เทอร์ทูลลัสเพียงเชิญเฟลิกซ์ตรวจสอบเปาโลเองโดยไม่โจมตีลีเซียส_
 
-ต้นฉบับที่รวมไว้: TR, Byzantine-majority, E (Laudianus, ~6th c.), Ψ (~9th c.), 33, 614, 945, 1739 (mg), 2495, Old-Latin (it^e,gig,p,ph,ro,w), Vulgate (some), Peshitta-Syriac (with variation), Bohairic-Coptic (mss), Lucifer-of-Cagliari, KJV, NKJV, THKJV, THSV (as footnote)
+ต้นฉบับที่รวมไว้: TR, Byzantine-majority, E (Laudianus, ~6th c.), Ψ (~9th c.), 33, 614, 945, 1739 (mg), 2495, Old-Latin (it^e,gig,p,ph,ro,w), Vulgate (some), Peshitta-Syriac (with variation), Bohairic-Coptic (mss), Lucifer-of-Cagliari, KJV, NKJV, THKJV, standard Thai (as footnote)
 
 ต้นฉบับที่ละไว้: SBLGNT, NA28, UBS5, P^74, Codex Sinaiticus (ℵ), Vaticanus (B), Alexandrinus (A), C (Ephraemi), 81, 1175, Sahidic-Coptic, Ethiopic, Vulgate (critical-ed.); ESV, NIV, BSB, CSB, NASB, RSV
 
@@ -3365,7 +3365,7 @@ _ส่วนปลายของข้อ 6 ทั้งหมดของข�
 
 _ข้อ 29 ขาดในต้นฉบับพันธสัญญาใหม่ที่เก่าและเชื่อถือได้ที่สุด (ปาปิรัส P74, ซีนายติคัส, วาติกานัส, อเล็กซานดรินัส, เอเฟรม) และไม่มีในฉบับมาตรฐานวิจารณ์ยุคใหม่ (SBLGNT, NA28, UBS5) แม้แต่ต้นฉบับไบแซนไทน์ส่วนใหญ่ก็ละไว้ ข้อนี้ดูเหมือนจะเป็นการเสริมเข้ามาในยุคหลัง เพื่อให้ฉากการเปลี่ยนผ่านจากข้อ 28 (เปาโลกล่าวสรุปแก่ชาวยิว) ไปยังข้อ 30 (เปาโลพักอยู่ในบ้านเช่า) ราบรื่นขึ้น ฉบับภาษาอังกฤษสมัยใหม่ (ESV, NIV, BSB, CSB) ทุกฉบับละไว้ในเนื้อหาหลักและกล่าวถึงในเชิงอรรถเท่านั้น ฉบับแอเรมอสเลือกตามต้นฉบับวิจารณ์ดังที่ทำกับข้ออื่นๆ ในประเภทนี้ (มธ. 17:21, 18:11, 23:14; กจ. 8:37) ลำดับเลขข้อจึงข้ามจาก 28 ไป 30_
 
-ต้นฉบับที่รวมไว้: TR (Stephanus 1550, Beza 1598), Byzantine-minority, Old-Latin (it^ar,e,gig,p,ph,ro,w), Vulgate (some), Syriac Harklean (margin), THKJV/KJV, THSV (as footnote in some editions)
+ต้นฉบับที่รวมไว้: TR (Stephanus 1550, Beza 1598), Byzantine-minority, Old-Latin (it^ar,e,gig,p,ph,ro,w), Vulgate (some), Syriac Harklean (margin), THKJV/KJV, standard Thai (as footnote in some editions)
 
 ต้นฉบับที่ละไว้: SBLGNT, NA28, UBS5, P^74, Codex Sinaiticus (ℵ), Vaticanus (B), Alexandrinus (A), Ephraemi (C), Codex 044 (Ψ), Codex 048, the Byzantine-majority, Coptic (Sahidic, Bohairic), Vulgate (critical ed.), Syriac Peshitta (sy^p); ESV, NIV, BSB, CSB, NASB
 

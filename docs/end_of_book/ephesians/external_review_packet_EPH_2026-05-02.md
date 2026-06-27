@@ -135,7 +135,7 @@ The 1:23 KD explicitly names the three-way debate: "ambiguous between (1) Christ
 
 The Thai correctly mirrors **Paul's** modified-version, NOT the LXX original. The 4:8 KD walks through the issue + the 4:8 thai_summary explains the modification + cites the Targum-tradition that supports Paul's reading.
 
-A Thai-reader who consults a Thai OT translation (e.g., THSV1971 Ps 68:18) will see "received-gifts" in the Psalm and may wonder why Paul "changed" it. This is a CC0 evangelical-Protestant-text-handling question.
+A Thai-reader who consults a Thai OT translation (e.g., standard Thai Ps 68:18) will see "received-gifts" in the Psalm and may wonder why Paul "changed" it. This is a CC0 evangelical-Protestant-text-handling question.
 
 **Two questions:**
 1. Is the literal-mirror-of-Paul + thai_summary disambiguation the right approach — keeping the Thai NT clean of footnotes? Or should a one-line footer-note be added at EPH 4:8 acknowledging the Pauline-modification + the Targum-tradition that supports it? More academically-honest but adds register-burden + sets a precedent for footnoting all citation-modifications across the NT.

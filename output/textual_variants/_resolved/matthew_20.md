@@ -16,7 +16,7 @@ Translator's notes (verbatim):
 
 > TEXTUAL VARIANT: SBLGNT/NA28/BSB/ESV/NIV/NET all END here with ἔσχατοι. Some Byzantine/TR mss add "πολλοὶ γάρ εἰσιν κλητοί, ὀλίγοι δὲ ἐκλεκτοί" ("For many are called, few are chosen") — but that saying is authentic-Jesus at Matt 22:14, assimilated here by later scribes. Per RULES.md §5 bracket convention: modern-critical-text-consensus matches SBLGNT short-reading, so NO brackets (following Mark 7:16, 9:44 precedent). Documented in thai_summary.
 
-**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai (THSV) follow the same shorter reading; reader-trust is preserved.
+**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai versions follow the same shorter reading; reader-trust is preserved.
 
 ---
 

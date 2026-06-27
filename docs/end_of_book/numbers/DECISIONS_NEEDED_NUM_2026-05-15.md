@@ -50,7 +50,7 @@ This isn't Balaam seeing an angel with a sword. It's **Israel telling Edom**, "W
 ## ❓ Decision 2 — Sinai spelling (and Succoth)
 
 ### Context
-Exodus already locked **ซีนาย** (matches THSV-1971 — standard Thai Bible spelling). Numbers shipped **สีนาย** in 10 places. Same issue with **สุคโคท** (Exodus's locked form) vs **สุคคท** (what NUM 33 shipped).
+Exodus already locked **ซีนาย** (matches common Thai usage-1971 — standard Thai Bible spelling). Numbers shipped **สีนาย** in 10 places. Same issue with **สุคโคท** (Exodus's locked form) vs **สุคคท** (what NUM 33 shipped).
 
 Both AIs say: **normalize Numbers to match Exodus**. Add a glossary check so it can't drift again.
 

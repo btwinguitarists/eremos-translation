@@ -266,7 +266,7 @@ The 1:9 KD:
 - NASB: "who loves to be first among them"
 
 Thai versions vary similarly:
-- THSV: **ผู้อยากเป็นใหญ่** ("the-one-wanting-to-be-great")
+- standard Thai: **ผู้อยากเป็นใหญ่** ("the-one-wanting-to-be-great")
 - THKJV: **ที่ใคร่จะเป็นใหญ่** ("who-desires-to-be-great")
 - a Thai NLT-equivalent: **ผู้ชอบเป็นใหญ่** ("who-likes-to-be-great")
 
@@ -274,7 +274,7 @@ Thai versions vary similarly:
 
 **The trade-off:** **ใฝ่หา** is somewhat literary-register (less common in everyday Thai) and may sound elevated in a way that mismatches the personal-pastoral letter register of 3 JN. The other Thai versions opt for more colloquial Thai.
 
-**REVIEW question for Ben.** Is **ใฝ่หาความเป็นใหญ่** the right rendering for the rest-of-corpus consistency, or should it match the THSV **อยากเป็นใหญ่** for cross-Bible Thai-readability? The choice is principled either way; the current rendering preserves the active-pursuit nuance at some cost in everyday-register accessibility.
+**REVIEW question for Ben.** Is **ใฝ่หาความเป็นใหญ่** the right rendering for the rest-of-corpus consistency, or should it match the standard Thai **อยากเป็นใหญ่** for cross-Bible Thai-readability? The choice is principled either way; the current rendering preserves the active-pursuit nuance at some cost in everyday-register accessibility.
 
 ---
 
@@ -397,7 +397,7 @@ Stay with bare narrative (Option A) or add v.10 thai_summary surfacing the fourf
 Current rendering is principled but neutral. Alternatives (**อุปถัมภ์** patronize / **ค้ำจุน** uphold-from-below) might preserve the under-the-load support imagery better. Defensible to keep as-is.
 
 ### G. ὁ φιλοπρωτεύων → ผู้ที่ใฝ่หาความเป็นใหญ่ at v.9 — **REVIEW** (§9)
-**ใฝ่หาความเป็นใหญ่** is more active-pursuit than THSV's **อยากเป็นใหญ่**. Defensible either way; current rendering preserves the φιλο- "active-loving-pursuit" force.
+**ใฝ่หาความเป็นใหญ่** is more active-pursuit than standard Thai's **อยากเป็นใหญ่**. Defensible either way; current rendering preserves the φιλο- "active-loving-pursuit" force.
 
 ### H. "the Name" absolute Christological reference at v.7 — **REVIEW** (§10)
 Should v.7 receive a `thai_summary` explicating พระนาม = พระนามของพระคริสต์, or is the royal-prefix + ACT 5:41-corpus-link sufficient?

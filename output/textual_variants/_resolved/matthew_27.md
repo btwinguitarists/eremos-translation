@@ -15,9 +15,9 @@ In each case the translator's `notes` field documents the textual situation and 
 
 Translator's notes (verbatim):
 
-> HAPAX: ἀπονίπτω ('wash off,' only here). The hand-washing gesture is Jewish, from Deut 21:6-9 (elders washing hands over the heifer in cases of unsolved murder, declaring 'our hands did not shed this blood'). Pilate, a Gentile, performs a Jewish symbolic act — Matthew underscores the irony. The verbal echo with v.4 is intentional: ἀθῷος occurs only twice in the NT, and both at the chiastic ends of this responsibility-shifting chain. TEXTUAL VARIANT: SBLGNT τούτου ('this one') vs. some MSS τούτου τοῦ δικαίου ('this righteous one'). Per uW chapter intro the longer reading echoes Pilate's wife's δικαίῳ in v.19. We follow SBLGNT (shorter reading); document divergence from THSV/NTV which include 'righteous'. Modern NIV/ESV/BSB also have shorter reading.
+> HAPAX: ἀπονίπτω ('wash off,' only here). The hand-washing gesture is Jewish, from Deut 21:6-9 (elders washing hands over the heifer in cases of unsolved murder, declaring 'our hands did not shed this blood'). Pilate, a Gentile, performs a Jewish symbolic act — Matthew underscores the irony. The verbal echo with v.4 is intentional: ἀθῷος occurs only twice in the NT, and both at the chiastic ends of this responsibility-shifting chain. TEXTUAL VARIANT: SBLGNT τούτου ('this one') vs. some MSS τούτου τοῦ δικαίου ('this righteous one'). Per uW chapter intro the longer reading echoes Pilate's wife's δικαίῳ in v.19. We follow SBLGNT (shorter reading); document divergence from ฉบับแปลไทย which include 'righteous'. Modern NIV/ESV/BSB also have shorter reading.
 
-**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai (THSV) follow the same shorter reading; reader-trust is preserved.
+**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai versions follow the same shorter reading; reader-trust is preserved.
 
 ### Matthew 27:49
 
@@ -25,7 +25,7 @@ Translator's notes (verbatim):
 
 > Continued mockery — the offered drink could be reframed as 'don't interfere; let's see if Elijah-rescue happens.' The persistence of the Elijah-misunderstanding from v.47 turns into sustained mockery. Jewish folk-belief about Elijah-as-rescuer-of-righteous (cf. b. Avodah Zarah 17b's Elijah-rescue stories) gives the taunt cultural weight. Matthew's textual situation here: some MSS add 'and another took a spear and pierced his side, and there came out water and blood' (a harmonization-borrowing from John 19:34); SBLGNT correctly omits.
 
-**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai (THSV) follow the same shorter reading; reader-trust is preserved.
+**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai versions follow the same shorter reading; reader-trust is preserved.
 
 ---
 

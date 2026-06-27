@@ -17,7 +17,7 @@ Translator's notes (verbatim):
 
 > HAPAX ἐνορκίζω. TEXTUAL VARIANT: SBLGNT omits ἁγίοις (‘holy’) — variant in some mss. Critical text followed. Cultural footnote: read aloud in church gathering — rare instance of Paul commanding letter-reading to the whole church (only here in undisputed Paulines).
 
-**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai (THSV) follow the same shorter reading; reader-trust is preserved.
+**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai versions follow the same shorter reading; reader-trust is preserved.
 
 ### 1 Thessalonians 5:28
 
@@ -25,7 +25,7 @@ Translator's notes (verbatim):
 
 > TEXTUAL VARIANT: SBLGNT ends ‘μεθ’ ὑμῶν.’; some mss add ‘ἀμήν.’ UW notes flag. Critical text omits the amen. Standard Pauline letter-closing benediction; the inclusio with the opening greeting (1:1 ‘χάρις ὑμῖν καὶ εἰρήνη’) brackets the letter.
 
-**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai (THSV) follow the same shorter reading; reader-trust is preserved.
+**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai versions follow the same shorter reading; reader-trust is preserved.
 
 ---
 
