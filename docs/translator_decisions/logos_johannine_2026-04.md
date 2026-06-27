@@ -69,7 +69,7 @@ Outside John + REV 19:13, λόγος in the NT is overwhelmingly the ordinary-me
 ## Why this matters
 
 - **Cross-canon Christology.** JHN 1:1 + REV 19:13 are the NT's two strongest "Word-as-divine-Person" texts. Allowing them to drift to **พระวจนะ** would silently equate Christ-the-Logos with mere "message" — a subtle but real Christological dilution.
-- **Reader trust.** Thai Christian readers familiar with THSV / NTV know **พระวาทะ** as the JHN 1:1 Christological signature. Eremos preserves that recognition.
+- **Reader trust.** Thai Christian readers familiar with ฉบับแปลไทย know **พระวาทะ** as the JHN 1:1 Christological signature. Eremos preserves that recognition.
 - **Future Hebrews / 1 John handling.** When Hebrews and 1 John ship, the same lock travels: HEB 4:12 = **พระวจนะ** (active-Word, not Logos-titular per dominant exegesis); 1 JN 1:1 = **พระวาทะ** (Logos-titular per Johannine pattern).
 
 ---

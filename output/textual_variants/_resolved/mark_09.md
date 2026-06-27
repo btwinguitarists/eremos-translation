@@ -17,7 +17,7 @@ Translator's notes (verbatim):
 
 > v.44 IS OMITTED per SBLGNT — see Mark 9 FRONT: 'Some of the earliest manuscripts do not include anything for [9:44] and [9:46]. Some early manuscripts and many later manuscripts include the following words in each verse: "where their worm does not end, and the fire is not quenched." Since these words also appear in all of the manuscripts in [9:48], it is likely that people who copied the manuscripts accidentally or intentionally added these words earlier as verses 44 and 46.' SBLGNT omits entirely — we follow this critical-reading and skip from v.43 to v.45. TEXTUAL: SBLGNT ends v.45 with εἰς τὴν γέενναν without the addition 'into the unquenchable fire' (that addition in some Byz witnesses pulls from v.43/48).
 
-**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai (THSV) follow the same shorter reading; reader-trust is preserved.
+**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai versions follow the same shorter reading; reader-trust is preserved.
 
 ### Mark 9:47
 
@@ -25,7 +25,7 @@ Translator's notes (verbatim):
 
 > CLIMAX OF THE TRIAD. hand → foot → eye. The progression escalates from limb to most-intimate-organ. The switch from 'life' to 'kingdom of God' at v.47 marks the rhetorical apex. v.46 OMITTED per SBLGNT (same reasoning as v.44).
 
-**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai (THSV) follow the same shorter reading; reader-trust is preserved.
+**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai versions follow the same shorter reading; reader-trust is preserved.
 
 ---
 

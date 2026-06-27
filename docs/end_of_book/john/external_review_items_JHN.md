@@ -104,7 +104,7 @@ The Thai uses **ยังไม่** ("not yet") for both the disputed οὐκ A
 
 ## Item E — JHN 1:34 ἐκλεκτός vs υἱός — SBLGNT-strict against unanimous evangelical-Thai expectation
 
-**The textual variant:** SBLGNT (followed here) reads `ὁ ἐκλεκτὸς τοῦ θεοῦ` ("the Chosen One of God"); NA28, TR, Byzantine majority, KJV, BSB, NIV, ESV, CSB, **and all major Thai evangelical translations (THSV1971, NTV, ERV-Thai)** read `ὁ υἱὸς τοῦ θεοῦ` ("the Son of God").
+**The textual variant:** SBLGNT (followed here) reads `ὁ ἐκλεκτὸς τοῦ θεοῦ` ("the Chosen One of God"); NA28, TR, Byzantine majority, KJV, BSB, NIV, ESV, CSB, **and all major Thai evangelical translations** read `ὁ υἱὸς τοῦ θεοῦ` ("the Son of God").
 
 **Manuscript split:**
 - ἐκλεκτός: P5 (3rd c.), ℵ* (original hand of Sinaiticus), some Old Latin, Old Syriac (early geographical-spread despite small total count)

@@ -57,7 +57,7 @@ The two are kept lexically distinct so a Thai reader can hear *who is speaking* 
 
 ## 3. No speaker headers (MT-anchored) — **STABLE**
 
-The Song is a dialogue with no MT speaker-rubrics; many modern English editions *insert* them (ESV/NIV/CSB add "He / She / Others" / "Bride / Bridegroom / Friends"). Eremos follows the MT — **no inserted headers in the verse text** — and identifies the speaker in `thai_summary` instead (e.g. 2:2 "ชายหนุ่มตอบ…", 6:1 "บุตรสาวเยรูซาเล็มอาสา…"). This is consistent with the project's general MT-anchoring principle and with the no-paraphrase-into-the-text discipline. Uniform across all 8 chapters. **STABLE.** (Worth confirming as an editorial stance, since some Thai readers accustomed to THSV-style rubrics may find the un-headed dialogue harder to follow — but the `thai_summary` layer carries the speaker-identification, which is the project's designed mechanism.)
+The Song is a dialogue with no MT speaker-rubrics; many modern English editions *insert* them (ESV/NIV/CSB add "He / She / Others" / "Bride / Bridegroom / Friends"). Eremos follows the MT — **no inserted headers in the verse text** — and identifies the speaker in `thai_summary` instead (e.g. 2:2 "ชายหนุ่มตอบ…", 6:1 "บุตรสาวเยรูซาเล็มอาสา…"). This is consistent with the project's general MT-anchoring principle and with the no-paraphrase-into-the-text discipline. Uniform across all 8 chapters. **STABLE.** (Worth confirming as an editorial stance, since some Thai readers accustomed to standard Thai-style rubrics may find the un-headed dialogue harder to follow — but the `thai_summary` layer carries the speaker-identification, which is the project's designed mechanism.)
 
 ---
 

@@ -16,7 +16,7 @@ Translator's notes (verbatim):
 
 > Second group of four. TEXTUAL VARIANT: Θαδδαῖος (SBLGNT) vs. Λεββαῖος ὁ ἐπικληθεὶς Θαδδαῖος (Byz/TR). Byzantine conflation likely secondary — harmonizing with Mark 3:18's Θαδδαῖος to avoid contradiction with Luke's 'Judas son of James.' We follow SBLGNT's shorter reading. Matthew's self-reference 'the tax collector' is a Matthean humility-marker absent from Mark/Luke's parallel lists — the author will not hide his past. Synoptic-parallel ordering differs: Matthew lists Thomas-Matthew; Mark lists Matthew-Thomas; Luke lists Matthew-Thomas — small reorderings reflect early oral-tradition flexibility on internal ordering.
 
-**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai (THSV) follow the same shorter reading; reader-trust is preserved.
+**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai versions follow the same shorter reading; reader-trust is preserved.
 
 ---
 

@@ -92,7 +92,7 @@ The translator's choice — uniform **ภาคภูมิใจ** — is princ
 
 The translator applies the locked `pagan_deities_2026-04.md` rule ("พระเจ้า reserved for biblical God only; pagan/non-biblical-god references → เทพเจ้า") to the metaphorical "god of this age" reference. **เทพเจ้า** here functionally marks the same Christian/pagan boundary — the verse-internal contrast with v.6 ὁ θεὸς ὁ εἰπών (Gen 1:3 echo) → **พระเจ้าผู้ตรัสว่า** is preserved cleanly.
 
-**Why this is DECIDE-worthy:** The pagan-deities doc is written for *literal* pagan deities (Acts 14 Zeus/Hermes; Acts 17 Athenian "gods"; Acts 19 Artemis). It does not explicitly cover NT *polemical / metaphorical* "god" references where Greek uses ὁ θεός of a non-biblical referent — Satan (2 Cor 4:4); the belly (Phil 3:19 ὧν ὁ θεὸς ἡ κοιλία); the antichrist (2 Thess 2:4 ὁ ἀντικείμενος καὶ ὑπεραιρόμενος ἐπὶ πάντα λεγόμενον θεόν). The translator extended the principle correctly, but the corpus-doc needs amendment to make the extension explicit. Most published Thai translations preserve **พระเจ้า** at 2 Cor 4:4 (e.g., THSV, TNCV) — Eremos's choice is a *minority but principled* reading. Worth Ben's confirmation + extension of the doc. See **Item B** in items doc.
+**Why this is DECIDE-worthy:** The pagan-deities doc is written for *literal* pagan deities (Acts 14 Zeus/Hermes; Acts 17 Athenian "gods"; Acts 19 Artemis). It does not explicitly cover NT *polemical / metaphorical* "god" references where Greek uses ὁ θεός of a non-biblical referent — Satan (2 Cor 4:4); the belly (Phil 3:19 ὧν ὁ θεὸς ἡ κοιλία); the antichrist (2 Thess 2:4 ὁ ἀντικείμενος καὶ ὑπεραιρόμενος ἐπὶ πάντα λεγόμενον θεόν). The translator extended the principle correctly, but the corpus-doc needs amendment to make the extension explicit. Most published Thai translations preserve **พระเจ้า** at 2 Cor 4:4 (e.g., ฉบับแปลไทย) — Eremos's choice is a *minority but principled* reading. Worth Ben's confirmation + extension of the doc. See **Item B** in items doc.
 
 ---
 
@@ -201,7 +201,7 @@ The iconic 12:7 phrase — translator preserves the literal Greek metaphor:
 - 6:15 GK: τίς δὲ συμφώνησις Χριστοῦ πρὸς **Βελιάρ**
 - 6:15 TH: พระคริสต์จะมีความสอดคล้องกับ**เบลีอัล**อย่างไร?
 
-**เบลีอัล** is a clean transliteration following the proper-name principle (per `pagan_deities_2026-04.md` Rule 2, extended). The OT-Hebrew בְּלִיַּעַל ("worthlessness") source is preserved in name-form rather than translated. Aligns with Thai-Bible-tradition (THSV: เบลีอัล).
+**เบลีอัล** is a clean transliteration following the proper-name principle (per `pagan_deities_2026-04.md` Rule 2, extended). The OT-Hebrew בְּלִיַּעַל ("worthlessness") source is preserved in name-form rather than translated. Aligns with Thai-Bible-tradition (standard Thai: เบลีอัล).
 
 **STABLE — no new doc needed.** First and only NT occurrence; cross-corpus consistency not at risk. Worth a brief mention in the next aramaic_transliterations or proper-names amendment doc as a confirming case.
 

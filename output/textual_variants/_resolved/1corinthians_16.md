@@ -16,7 +16,7 @@ Translator's notes (verbatim):
 
 > LETTER ENDS — Paul's personal-love-benediction. Note: SBLGNT does not include the final ἀμήν found in many manuscripts. We follow SBLGNT. THE 1 CORINTHIANS LETTER closes with personal-affection toward the very-flawed church. Even after extensive corrective-rebuke, Paul affirms his love. The 'in Christ Jesus' situates the love within the saving-relational sphere.
 
-**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai (THSV) follow the same shorter reading; reader-trust is preserved.
+**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai versions follow the same shorter reading; reader-trust is preserved.
 
 ---
 

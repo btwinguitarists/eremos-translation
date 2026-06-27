@@ -56,7 +56,7 @@ Status legend (for follow-up disposition): **LOCK** = no revision · **REVISE** 
 ### Gemini
 **Verdict:** FINE
 
-**Reasoning:** The Tier 3 ⟦double brackets⟧ visually scale to match the 12-verse length of the Markan (and eventually Johannine) variants without disrupting the narrative flow the way an intrusive section header would. This treatment accurately reflects SBLGNT's apparatus intent while avoiding the pastoral landmine of "silent omission," which would severely damage trust among Thai readers accustomed to the THKJV / THSV.
+**Reasoning:** The Tier 3 ⟦double brackets⟧ visually scale to match the 12-verse length of the Markan (and eventually Johannine) variants without disrupting the narrative flow the way an intrusive section header would. This treatment accurately reflects SBLGNT's apparatus intent while avoiding the pastoral landmine of "silent omission," which would severely damage trust among Thai readers accustomed to the THKJV / standard Thai.
 
 **Recommended action:** Lock as-is for Mark 16 and John 7–8. For the rare intermediate-length variants (3–8 verses), pre-decide to use the existing Tier 2 (bracket + whole-verse footer note) so you aren't forced to invent a fourth tier later.
 

@@ -106,7 +106,7 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 _วลี "พระบุตรของพระเจ้า" (υἱοῦ θεοῦ) ในข้อ 1:1 มีปัญหาด้านต้นฉบับเก่าแก่ที่สุด: ปรากฏในต้นฉบับสำคัญหลายฉบับ (วาติกานัส, เบซาเอ, วอชิงทัน, เอฟเรมี, ไบแซนไทน์ส่วนใหญ่) แต่ขาดในต้นฉบับซีนายติคัส (ฉบับแรก ก่อนถูกแก้ไขเพิ่มเข้ามาในภายหลัง) และในโคริเดที (Θ) พร้อมกับการอ้างอิงโดย Origen และ Irenaeus บางครั้ง NA28 / UBS5 ใส่เครื่องหมายในวงเล็บพร้อมระดับ {C} ("มีข้อสงสัยอย่างมาก") เหตุผลที่อาจเป็นการเพิ่มภายหลัง: homoioteleuton (สายตาผู้คัดลอกข้ามกัน เพราะมีคำลงท้าย -ου ติดต่อกัน 5 ครั้ง: Ἰησοῦ Χριστοῦ υἱοῦ θεοῦ) เหตุผลที่อาจเป็นข้อความเดิม: เป็นการเปิดเรื่องของพระกิตติคุณมาระโกที่ประกาศพระคริสตวิทยาอย่างชัดเจน ซึ่งเข้ากับโครงสร้างของหนังสือ ฉบับเอเรโมสแสดงในวงเล็บ [...] เพื่อให้ผู้อ่านเห็นทั้งข้อความและสถานะที่ยังถกเถียงกัน — ตามแนวทางของฉบับวิจารณ์สมัยใหม่_
 
-ต้นฉบับที่รวมไว้: Codex Vaticanus (B), Bezae (D), Washingtonianus (W), Codex Ephraemi (C), most Byzantine manuscripts; Old Latin + Vulgate; ESV, NIV, NASB, CSB, BSB; THKJV, THSV (Thai 1971 ed.)
+ต้นฉบับที่รวมไว้: Codex Vaticanus (B), Bezae (D), Washingtonianus (W), Codex Ephraemi (C), most Byzantine manuscripts; Old Latin + Vulgate; ESV, NIV, NASB, CSB, BSB; THKJV, standard Thai (Thai 1971 ed.)
 
 ต้นฉบับที่ละไว้: Codex Sinaiticus original hand (ℵ*; corrected to include by ℵ¹), Codex Koridethi (Θ), 28*, syrᵖᵃˡ, Origen citations, Irenaeus (some refs); NA28/UBS5 print with bracketed apparatus marker (rating {C} "considerable degree of doubt")
 
@@ -801,7 +801,7 @@ _วลี "พระบุตรของพระเจ้า" (υἱοῦ θ�
 
 _วลี "และการอดอาหาร" (καὶ νηστείᾳ) ในข้อ 9:29 ขาดในต้นฉบับเก่าแก่ที่สุดสองฉบับ (ซีนายติคัสฉบับแรก, วาติกานัส) แต่ปรากฏในต้นฉบับยุคหลังส่วนใหญ่ (อเล็กซานดรีนัส, เอฟเรมี, เบซาเอ, ไบแซนไทน์) ฉบับวิจารณ์สมัยใหม่ (NA28, UBS5, SBLGNT) ละไว้ — สอดคล้องกับฉบับภาษาอังกฤษสมัยใหม่ (ESV, NIV, NASB, CSB, BSB) นักวิจารณ์ส่วนใหญ่เห็นว่าเป็นการเพิ่มในภายหลัง สะท้อนแนวทางการฝึกวินัยฝ่ายวิญญาณของคริสตจักรยุคต้น (เทียบ มัทธิว 17:21 ที่มีสภาพเดียวกัน — ขาดในต้นฉบับเก่า, ปรากฏในต้นฉบับใหม่ — และฉบับเอเรโมสจัดการเป็น Tier 2 footer-note โดยไม่ใส่ในข้อความหลัก) ฉบับเอเรโมสที่นี่เลือกใส่ในวงเล็บ [...] แทนการละไว้ทั้งหมด เพราะการอดอาหารยังเป็นหัวข้อสำคัญทางพันธกิจในคริสตจักรไทยยุคปัจจุบัน — การละไว้อย่างเงียบอาจสร้างความสับสนและความไม่ไว้วางใจในผู้อ่านที่คุ้นเคยกับฉบับ THKJV_
 
-ต้นฉบับที่รวมไว้: Codex Sinaiticus corrected (ℵ²), Codex Alexandrinus (A), Codex Ephraemi (C), Bezae (D), most Byzantine manuscripts; Old Latin + Vulgate + Peshitta Syriac; KJV, NKJV; THKJV (THSV omits per modern critical-text alignment)
+ต้นฉบับที่รวมไว้: Codex Sinaiticus corrected (ℵ²), Codex Alexandrinus (A), Codex Ephraemi (C), Bezae (D), most Byzantine manuscripts; Old Latin + Vulgate + Peshitta Syriac; KJV, NKJV; THKJV (standard Thai omits per modern critical-text alignment)
 
 ต้นฉบับที่ละไว้: Codex Sinaiticus original hand (ℵ*), Codex Vaticanus (B), Codex Koridethi (Θ), 0274, k, geo¹; NA28/UBS5 omit; ESV, NIV, NASB, CSB, BSB, NRSV omit
 

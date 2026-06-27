@@ -10,7 +10,7 @@ Thai, and a more natural rendering would carry the same meaning + theology
 without sacrificing accuracy.
 
 Triggered by Gemini's 2026-05-05 Jn 15 review which scored Eremos lower than
-THSV2011 on the μένω → คงอยู่ vs ติดสนิท axis. Hypothesis: Eremos has thousands
+a copyrighted Thai version on the μένω → คงอยู่ vs ติดสนิท axis. Hypothesis: Eremos has thousands
 of locked decisions where the formal-vs-dynamic call was made deliberately,
 but some literal renderings shipped without the corresponding `key_decisions`
 entry justifying them — those are the catchable wins.
@@ -77,7 +77,7 @@ What you are looking for (one closed list — proposal MUST match one):
 
 4. **literal_idiom** — Greek idiomatic phrase rendered word-for-word, where the Thai surface carries no metaphor that a Thai reader would catch. Propose a Thai natural equivalent that renders the IDIOM-MEANING, not the words. Only flag clear cases (e.g., σπλάγχνα "bowels-as-emotion" → ใจ, NOT word-by-word "ลำไส้").
 
-5. **register_drift** — a verse's register has slipped from optimal-evangelical-formal to either translationese-stiff (overly literal academic) or colloquial-loose (chat-speak). Optimal target is the THSV2011 register: respectful, modern, accessible.
+5. **register_drift** — a verse's register has slipped from optimal-evangelical-formal to either translationese-stiff (overly literal academic) or colloquial-loose (chat-speak). Optimal target is a respectful, modern, accessible formal register.
 
 ABSOLUTE RULES (read carefully — they prevent noisy proposals):
 

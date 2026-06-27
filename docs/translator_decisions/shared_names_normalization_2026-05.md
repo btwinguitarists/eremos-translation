@@ -70,7 +70,7 @@ The Davidic-line **kings of Judah after Solomon** (Rehoboam → Jeconiah, Mt 1:7
 
 ## What this rule does NOT cover
 
-- **Proper names that exist only in one testament** (NT-only — Caiaphas, Pilate, Felix, Festus; OT-only — Methuselah, Goliath, Nebuchadnezzar, Sennacherib). These are governed by `proper_names_and_transliteration_2026-05.md` (which uses THSV11 baseline + per-name decisions). No cross-testament alignment needed because there's nothing to align against.
+- **Proper names that exist only in one testament** (NT-only — Caiaphas, Pilate, Felix, Festus; OT-only — Methuselah, Goliath, Nebuchadnezzar, Sennacherib). These are governed by `proper_names_and_transliteration_2026-05.md` (which uses แบบมาตรฐานทั่วไป + per-name decisions). No cross-testament alignment needed because there's nothing to align against.
 - **Place names** (Bethlehem, Jerusalem, Jericho, Samaria). Covered by the place-name rules in `proper_names_and_transliteration_2026-05.md`. Mostly already aligned across testaments because the place-names are stable.
 - **Divine names** (YHWH, El Shaddai, Adonai). Covered by `divine_names_table_2026-05.md` — separate lock, separate transparency mechanism.
 - **Textual-variant cases** (e.g., Lk 3:33 has Ἀδμίν / Ἀρνί where some manuscripts have Ἀράμ — this is a manuscript-tradition divergence, not a Hebrew/Greek transliteration drift). Honored per the SBLGNT critical-text + RULES §0.

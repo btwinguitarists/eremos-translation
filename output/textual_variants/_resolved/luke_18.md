@@ -17,7 +17,7 @@ Translator's notes (verbatim):
 
 > TEXTUAL VARIANT: SBLGNT omits περίλυπον γενόμενον (Byz/some Alex add); we follow SBLGNT. This is not a translation-meaning-affecting variant (the sadness is already in v.23) but worth flagging. PARALLEL: MRK 10:23 || MAT 19:23. Jesus' commentary picks up the earlier reversal-principle (v.14) in concrete form: wealth creates entry-barrier to kingdom.
 
-**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai (THSV) follow the same shorter reading; reader-trust is preserved.
+**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai versions follow the same shorter reading; reader-trust is preserved.
 
 ### Luke 18:28
 
@@ -25,7 +25,7 @@ Translator's notes (verbatim):
 
 > PARALLEL: MRK 10:28 || MAT 19:27. TEXTUAL VARIANT: SBLGNT τὰ ἴδια vs Byz πάντα. We follow SBLGNT/NA28 shorter reading. The difference is theological-pragmatic: τὰ ἴδια ('our own') emphasizes that they left what was theirs — personally and individually — while πάντα ('everything') is more absolute. Both preserve the sacrificial-abandonment point. Per uW note: Peter and the disciples did in fact leave everything; no hyperbole either way.
 
-**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai (THSV) follow the same shorter reading; reader-trust is preserved.
+**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai versions follow the same shorter reading; reader-trust is preserved.
 
 ---
 

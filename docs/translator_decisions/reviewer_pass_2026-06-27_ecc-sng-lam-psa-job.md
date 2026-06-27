@@ -6,7 +6,7 @@ Status legend: **DONE** = current text already matches · **APPLY** = change que
 | # | Ref | Question | Reviewer call | Current text | Disposition |
 |---|-----|----------|---------------|--------------|-------------|
 | 1 | ECC 1:2 (hevel, ~38×) | อนิจจัง vs ไร้แก่นสาร | **ก) อนิจจัง** | ไร้แก่นสาร | **APPLY** (convention — needs new hevel decision doc + propagate all ~38× + re-check; recommend a Layer-2 footnote at 1:2 glossing hevel = "ไอ/ลมหายใจ/ไร้สาระ" so the Buddhist *anicca* frame doesn't fully override the Hebrew) |
-| 2 | ECC 9:2 (miqreh) | "เคราะห์เดียวกัน" vs "ชะตากรรม" | **เคราะห์อันเดียวกัน** (matches THSV's word choice; ชะตากรรม too fate-y) | เหตุอย่างเดียวกัน | **APPLY** (adopt the word เคราะห์ in our own phrasing — do NOT replicate THSV's clause, copyright) |
+| 2 | ECC 9:2 (miqreh) | "เคราะห์เดียวกัน" vs "ชะตากรรม" | **เคราะห์อันเดียวกัน** (matches common Thai usage word choice; ชะตากรรม too fate-y) | เหตุอย่างเดียวกัน | **APPLY** (adopt the word เคราะห์ in our own phrasing — do NOT replicate standard Thai's clause, copyright) |
 | 3 | ECC 3:11 | "นิรันดร์กาล" readable? | เข้าใจ | — | **DONE** (keep) |
 | 4 | ECC 12:13 | "หน้าที่ทั้งสิ้นของมนุษย์" natural? | ธรรมชาติ/เข้าใจง่าย | — | **DONE** (keep) |
 | 5 | SNG | ฉัน/เธอ register | ใช้ได้ | — | **DONE** (keep) |
@@ -33,7 +33,7 @@ The Hebrew כִּי אִם is open ("unless / but rather"); the synagogue repeat
 - **#1 hevel → อนิจจัง** — ✅ DONE, committed `5cab4ec1`. 35× across ECC; *havel havalim* (1:2, 12:8) = the natural Thai superlative doubling "อนิจจัง อนิจจัง"; +1:2 Layer-2 footnote anchoring the Hebrew range. Cross-book hevel (Ps/Job/Prov) left as-is (ECC-scoped for now).
 - **#2 miqreh-echad → เคราะห์อันเดียวกัน** — ✅ DONE, committed `5cab4ec1`. Applied to all three "one fate" verses (3:19, 9:2, 9:3) for consistency.
 - **#9 LAM 5:22** — ✅ DONE, committed `04d53597`. Option (a): dropped the completive "แล้ว"; book-ending hope footnote (כִּי אִם ambiguity + synagogue v21-echo).
-- **#11 Selah** — ✅ RESOLVED: **KEEP INLINE** (option 1). Staged footnote experiment was **reverted, never committed**. Rationale: **BSB keeps "Selah" inline 70/70 verses, end-of-verse, never footnoted**; matches most English Bibles (ESV/NASB/KJV/NIV) + standard Thai-Bible convention (THSV); and Eremos shows BSB in parallel, so footnoting Thai would break the column alignment. Selah is **definitively in the MT** (74×: 71 in 39 Psalms + 3 in Hab 3) — presence certain, meaning (musical/liturgical) uncertain. No change to the corpus.
+- **#11 Selah** — ✅ RESOLVED: **KEEP INLINE** (option 1). Staged footnote experiment was **reverted, never committed**. Rationale: **BSB keeps "Selah" inline 70/70 verses, end-of-verse, never footnoted**; matches most English Bibles (ESV/NASB/KJV/NIV) + standard Thai-Bible convention (standard Thai); and Eremos shows BSB in parallel, so footnoting Thai would break the column alignment. Selah is **definitively in the MT** (74×: 71 in 39 Psalms + 3 in Hab 3) — presence certain, meaning (musical/liturgical) uncertain. No change to the corpus.
 - **#13 śāṭān split** — ✅ KEEP the split (Job 1:6 ซาตาน / Ps 109:6 ผู้กล่าวหา). Pushback accepted; `satan_accuser_corpus_mapping_2026-05.md` unchanged.
 - **#8 form** (พระยาห์ → ยาห์) — still OPEN, separate from this pass (Gemini cross-book item).
 - Books touched: **Ecclesiastes + Lamentations only.** Psalms/Hab/Song/Job unchanged.

@@ -14,7 +14,7 @@
 - Both AIs (ChatGPT + Gemini) explicitly affirmed: ChatGPT "theologically and contextually precise"; Gemini "flawlessly safeguards the Protestant declarative doctrine"
 
 **Gemini's explicit forward-warning (Galatians review):**
-> "the THSV-style **นับว่าเป็นผู้ชอบธรรม** is slightly smoother for reading flow, **but it overlaps too heavily with the λογίζομαι (reckon/count) word group coming up in Romans 4**; maintaining strict lexical distinction is worth the extra syllable here."
+> "the standard Thai-style **นับว่าเป็นผู้ชอบธรรม** is slightly smoother for reading flow, **but it overlaps too heavily with the λογίζομαι (reckon/count) word group coming up in Romans 4**; maintaining strict lexical distinction is worth the extra syllable here."
 
 This warning predicted exactly the drift that materialized in Romans 1-5 (translated before this lock was formalized). The Galatians-pre-Romans formalization-step was missed; Romans 1-5 used `ทรงนับว่าชอบธรรม` which collapsed δικαιόω with λογίζομαι.
 
@@ -74,7 +74,7 @@ Rom 6:7: ὁ ἀποθανὼν δεδικαίωται ἀπὸ τῆς ἁμα�
 ### Argument for ทรงนับว่าชอบธรรม (rejected — was Romans 1-5 default)
 
 - **Smoother Thai prosody.** Fewer syllables; flows better in narrative-Thai.
-- **THSV-style precedent.** Thai Standard Version uses similar imputation-language.
+- **standard Thai-style precedent.** standard Thai usage uses similar imputation-language.
 - **Why rejected:** collapses δικαιόω with λογίζομαι. Especially destructive in Romans 4 where Paul deliberately distinguishes them across 11 occurrences of λογίζομαι. The Galatians AI review predicted this exact collision and recommended the lexical split.
 
 ### Argument for ทรงชำระให้เป็นผู้ชอบธรรม (rejected — was Luke 18:14 default)
@@ -135,7 +135,7 @@ The following 13 verses were corrected from `ทรงนับว่าชอ�
 
 - If a native-Thai-reader Pauline-review finds `ถูกประกาศว่าชอบธรรม` reads as legalistic or distancing in pastoral-Romans-12-15 contexts, revisit. Current hypothesis: forensic precision is what the doctrinal chapters (Rom 1-11) need; pastoral chapters (Rom 12-15) rarely use the verb.
 - If James 2:21-25 native-Thai-review prefers a softer rendering for the dialectical-with-Paul context, document as principled-James-exception.
-- If a Greek-text scholar identifies that the THSV `นับว่าเป็นผู้ชอบธรรม` actually preserves the Pauline-LXX echo better than the Reformation-Protestant declarative reading, revisit with original-language scholar input.
+- If a Greek-text scholar identifies that the standard Thai `นับว่าเป็นผู้ชอบธรรม` actually preserves the Pauline-LXX echo better than the Reformation-Protestant declarative reading, revisit with original-language scholar input.
 
 ## Cross-references
 

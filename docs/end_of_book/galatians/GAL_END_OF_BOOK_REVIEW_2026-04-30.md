@@ -35,7 +35,7 @@ The 2:16 KD explicitly articulates the choice:
 
 > MAJOR INTERPRETIVE CRUX (πίστις Ἰησοῦ Χριστοῦ — the genitive): two well-attested readings: (a) OBJECTIVE GENITIVE — 'faith IN Jesus Christ' (Christ is the object of believing). The standard Reformed / Lutheran / mainstream evangelical reading. (b) SUBJECTIVE GENITIVE — 'faith/faithfulness OF Jesus Christ' (Christ's own faithfulness, his obedient self-giving on the cross, is what justifies). Increasingly favored by N.T. Wright, Richard Hays, Douglas Campbell, and the New Perspective on Paul.
 
-**Editorial assessment:** The choice is principled, internally consistent, and explicitly aligned with RULES §0 (evangelical-Protestant alignment) — the objective-genitive is the standard NIV/ESV/CSB/THSV1971 reading. The translator is aware of the alternative and has chosen the mainstream-evangelical reading deliberately.
+**Editorial assessment:** The choice is principled, internally consistent, and explicitly aligned with RULES §0 (evangelical-Protestant alignment) — the objective-genitive is the standard NIV/ESV/CSB/standard Thai reading. The translator is aware of the alternative and has chosen the mainstream-evangelical reading deliberately.
 
 **DECIDE before tagging:** Confirm Ben endorses the objective-genitive default for the entire Pauline corpus going forward (will compound into Romans 3:22, 3:26; Galatians is the entry-point for the doctrine). The alternative is to add a footer-note at GAL 2:16 acknowledging the subjective-genitive position for academically-engaged readers, OR to render one or two key verses (esp. 2:20 with τοῦ υἱοῦ τοῦ θεοῦ — where subjective is grammatically more natural) ambiguously.
 
@@ -64,14 +64,14 @@ The 2:16 KD explicitly names the choice and rejects the older alternative:
 
 > FORENSIC-DECLARATIVE δικαιόω: NOT 'make righteous (in moral character)' but 'declare righteous (in courtroom verdict).' This is the foundational technical term of Pauline soteriology. Thai ถูกประกาศว่าชอบธรรม = 'be declared righteous' — captures the forensic-declarative force precisely (vs. the older Catholic-leaning ทำให้ชอบธรรม which suggests infused righteousness).
 
-**Editorial significance:** This is a doctrinal-translation choice as load-bearing as ἐκκλησία → คริสตจักร or πίστις-Χριστοῦ-objective. The forensic-declarative rendering is **explicitly Reformational** and aligns with Protestant evangelical theology (RULES §0). It is verbose (5 syllables vs. THSV1971's typical 3-syllable นับว่าเป็นผู้ชอบธรรม) but precision-on-purpose.
+**Editorial significance:** This is a doctrinal-translation choice as load-bearing as ἐκκλησία → คริสตจักร or πίστις-Χριστοῦ-objective. The forensic-declarative rendering is **explicitly Reformational** and aligns with Protestant evangelical theology (RULES §0). It is verbose (5 syllables vs. standard Thai's typical 3-syllable นับว่าเป็นผู้ชอบธรรม) but precision-on-purpose.
 
 **Recommend: STABLE; lift to corpus doc** `docs/translator_decisions/dikaioo_dikaiosune_2026-04.md` before Rom 3:21–31 (where the doctrine compounds dramatically). The doc should:
 1. Lock δικαιόω → ถูกประกาศว่าชอบธรรม (passive, forensic) and active-form ทรงประกาศให้...เป็นผู้ชอบธรรม
 2. Lock δικαιοσύνη → ความชอบธรรม
 3. Distinguish from related Pauline lemmata: λογίζομαι εἰς δικαιοσύνην (Rom 4-style) → ทรงนับว่าเป็นความชอบธรรม; δίκαιος (adj. of righteous-person) → ผู้ชอบธรรม
 4. Cite GAL 2:16 as the locking precedent
-5. Reject the older Catholic-leaning ทำให้ชอบธรรม + the compressed THSV นับว่าเป็นผู้ชอบธรรม as alternatives considered
+5. Reject the older Catholic-leaning ทำให้ชอบธรรม + the compressed standard Thai นับว่าเป็นผู้ชอบธรรม as alternatives considered
 
 ---
 
@@ -201,7 +201,7 @@ The 3:24 KD (650+ chars) walks through the cultural background extensively. Thai
 
 > εἰς Χριστόν — TWO READINGS: temporal ('until Christ') vs. directional ('to Christ' — leading us to Christ).
 
-The Thai chose temporal. Most modern English translations (NIV/ESV/CSB) also chose temporal. THSV1971 uses the older directional reading.
+The Thai chose temporal. Most modern English translations (NIV/ESV/CSB) also chose temporal. standard Thai uses the older directional reading.
 
 **Worth confirming with Ben:** is the temporal reading the corpus default? Will compound into Rom 10:4 (τέλος ... νόμου Χριστὸς) where the same temporal-vs-directional question recurs.
 

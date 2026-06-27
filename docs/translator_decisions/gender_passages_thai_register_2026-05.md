@@ -15,7 +15,7 @@
 Biblical gender passages are interpretively-contested in modern Christian discourse — both within Thai evangelicalism and globally. The Hebrew and Greek source-texts often preserve **deliberate polysemy** that allows multiple legitimate readings; modern English translations differ on which reading to lift to the surface. Eremos's policy is:
 
 1. **Preserve source-language polysemy** wherever Hebrew/Greek allows multiple readings. Do not foreclose at the surface.
-2. **Document the interpretive crux** in Layer-2 footnotes — name the readings, the manuscript-witness evidence, the major commentary traditions, and (where relevant) the THSV2011 reading for Thai-reader cross-reference.
+2. **Document the interpretive crux** in Layer-2 footnotes — name the readings, the manuscript-witness evidence, the major commentary traditions, and (where relevant) the standard Thai reading for Thai-reader cross-reference.
 3. **Avoid Thai-cultural-default collapses** — modern Thai-evangelical readers may default to one reading (often the romantic/affectionate reading for "desire" / the egalitarian reading for "helper" / the complementarian reading for "head"). Translations must not silently encode the default.
 4. **Avoid English-translation-default collapses** — ESV-style controlling readings, NIV-style softening, NRSV-style inclusive-language adjustments. Eremos translates **from** Hebrew/Greek, not from English mediation.
 
@@ -49,7 +49,7 @@ Hebrew: וְדָבַק בְּאִשְׁתּוֹ וְהָיוּ לְבָשָׂר 
 
 **See `output/textual_variants/genesis_03.json` verse 16 Layer-2 footer** — Eremos preserves the polysemy of תְּשׁוּקָה (the same lemma's 3 OT occurrences: Gen 3:16, Gen 4:7, Song 7:10 carry different senses) at the surface, and the footer names the two reading-families (affectionate/relational vs. controlling/predatory).
 
-**Surface:** **ความปรารถนาของเจ้าจะอยู่ที่สามีของเจ้า** (ambiguous). Matches THSV2011's stance. Layer-2 footer carries the editorial transparency.
+**Surface:** **ความปรารถนาของเจ้าจะอยู่ที่สามีของเจ้า** (ambiguous). Matches standard Thai's stance. Layer-2 footer carries the editorial transparency.
 
 ### 2.5 Gen 3:15 — protoevangelium (זֶרַע + הוּא)
 
@@ -67,7 +67,7 @@ The passage's controlling-image (Christ-as-head + church-as-bride) is theologica
 
 **Key terms:** κεφαλή ("head") locked to **เป็นศีรษะ** (preserve the body-metaphor); ὑποτάσσω ("submit/place-under") locked to **อยู่ภายใต้** (preserve the literal placement-under sense without softening to "respect"); ἀγαπάω locked to **รัก** (the standard NT-corpus love-verb).
 
-**Layer-2 footer** at Eph 5:21–24 should name the mutual-submission-vs-hierarchical-submission reading-families + the THSV2011 reading + the NT-Greek's ambiguity vs. the modern English-translation polarization.
+**Layer-2 footer** at Eph 5:21–24 should name the mutual-submission-vs-hierarchical-submission reading-families + the standard Thai reading + the NT-Greek's ambiguity vs. the modern English-translation polarization.
 
 ### 3.2 1 Cor 11:3–16 — "head" passages
 

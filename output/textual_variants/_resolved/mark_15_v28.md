@@ -15,7 +15,7 @@
 1. **Modern evangelical critical-text consensus matches our practice:** SBLGNT, NA28, UBS5 all omit. BSB, ESV, NIV, CSB all omit (NIV/CSB footnote, ESV omits silently, BSB omits silently).
 2. **Almost certainly scribal harmonization from Luke 22:37**, which explicitly cites the same Isaiah 53:12 passage. The pattern is identical to Mark 11:26's harmonization from Matt 6:15: copyists encountering the parallel cross-Gospel saying inserted the explicit OT-fulfillment formula into Mark.
 3. **The OT citation it would contain is preserved elsewhere in the canon** (Luke 22:37 has it explicitly; the crucifixion-with-criminals fulfillment-of-Isa-53:12 motif is preserved in Mark itself by the surrounding narrative — vv.27-28 structurally place Jesus between two robbers, fulfilling the prophecy without explicit citation).
-4. **Mainstream Thai translations** (THSV current edition) follow modern critical text and omit; THKJV includes. THSV is the more widely used Thai translation among Eremos's expected reader base.
+4. **Mainstream Thai translations** (standard Thai current edition) follow modern critical text and omit; THKJV includes. standard Thai is the more widely used Thai translation among Eremos's expected reader base.
 
 **Decision (RULES §5 category 4):** silent omission. No Tier 1/2/3 footer needed. The OT-citation theology is preserved by the surrounding narrative even without the explicit fulfillment formula.
 

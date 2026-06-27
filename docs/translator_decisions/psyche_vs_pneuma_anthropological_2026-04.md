@@ -68,7 +68,7 @@ The original "non-negotiable axis" rule (parallelisms get two distinct Thai word
 ## Why this split (and why it looks uneven)
 
 **Argument for the split (chosen):**
-- ψυχή in Thai Christian tradition maps most naturally to จิตวิญญาณ (the Shema convention, THSV/NTV standard). Keeping it stable there is Tier 1 corpus hygiene.
+- ψυχή in Thai Christian tradition maps most naturally to จิตวิญญาณ (the Shema convention, ฉบับแปลไทย standard). Keeping it stable there is Tier 1 corpus hygiene.
 - πνεῦμα has a narrower anthropological sense that can tolerate a narrower Thai rendering (จิต) in contexts where parallelism demands distinction.
 - When πνεῦμα stands alone *without* a ψυχή partner (LUK 1:80; 23:46), pressing จิต would sound clipped and unnatural — Thai naturalness pulls toward จิตวิญญาณ there. The Greek has no nearby ψυχή-pair to require differentiation, so no semantic loss.
 

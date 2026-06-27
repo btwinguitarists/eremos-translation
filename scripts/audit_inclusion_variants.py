@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Audit: find every verse in our translated corpus where SBLGNT's main text
-omits words that mainstream traditions (NA28 / BSB / NIV / ESV / THSV)
+omits words that mainstream traditions (NA28 / BSB / NIV / ESV / modern Thai versions)
 include — i.e. inclusion variants where readers will notice the omission.
 
 Per RULES §5 each candidate must end up in one of these dispositions:
@@ -84,7 +84,7 @@ WORD_CHOICE_RE = re.compile("|".join(WORD_CHOICE_HINTS), re.IGNORECASE)
 # We accept the explicit phrase (canonical) AND common translator-shorthand
 # patterns where the disposition is clear: following SBLGNT + note-only,
 # all modern critical texts agree, scribal expansion/harmonization rationale,
-# etc. The bar: would a reader of THSV / KJV / TR be surprised? If notes
+# etc. The bar: would a reader of a modern Thai Bible / KJV / TR be surprised? If notes
 # convincingly argue NO (modern consensus, scribal expansion, harmonization),
 # silent-omission is acceptable.
 SILENT_OMISSION_PATTERNS = [

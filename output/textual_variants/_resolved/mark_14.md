@@ -16,7 +16,7 @@ Translator's notes (verbatim):
 
 > FIRST DENIAL. Peter denies KNOWLEDGE — 'I do not know (what you are talking about).' This is the softest of the three denials; he merely claims non-comprehension. Rooster crows immediately — but Peter, distracted, does not register it or refuses to register its significance. TEXTUAL VARIANT at v.68: SBLGNT includes 'and a rooster crowed' with variant-brackets ⸂...⸃ acknowledging scribal-dispute. Shorter reading (omit) appears in ℵ B L W. Longer reading (include) appears in A C D Θ etc. SBLGNT eclectic choice includes — rightly given v.72's ἐκ δευτέρου clause logically requires a first crow. We follow SBLGNT.
 
-**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai (THSV) follow the same shorter reading; reader-trust is preserved.
+**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai versions follow the same shorter reading; reader-trust is preserved.
 
 ---
 

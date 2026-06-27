@@ -211,10 +211,10 @@ The forward Romans 3:25 ἱλαστήριον has three well-attested interpreti
 - (b) **Propitiating-sacrifice** (Morris; mainstream evangelical-Reformed) — Christ as the propitiating-sacrifice that turns away divine wrath
 - (c) **Expiation** (Dodd; RSV) — Christ as the means of erasing/expiating sin (not propitiating wrath)
 
-**THSV1971 + NTV + ERV-Thai all use Option (b) เครื่องบูชาไถ่บาป** ("propitiating-sacrifice") at Rom 3:25. The HEB 9:5 KD explicitly notes the distinction:
+**mainstream Thai versions all use Option (b) เครื่องบูชาไถ่บาป** ("propitiating-sacrifice") at Rom 3:25. The HEB 9:5 KD explicitly notes the distinction:
 > ἱλαστήριον in tabernacle-physical-context = the gold cover of the ark (mercy seat) → พระที่นั่งกรุณา (Thai biblical standard for the cover of the ark; distinct from ROM 3:25 propitiation-sense which uses 'เครื่องบูชาไถ่บาป').
 
-**Question:** Confirm the corpus default for ROM 3:25 (forthcoming Romans) — Option A **พระที่นั่งกรุณา** (preserves lexical-link with HEB 9:5; Calvin/Stuhlmacher-aligned), Option B **เครื่องบูชาไถ่บาป** (matches THSV1971; mainstream evangelical Thai-reader expectation), or Option C **เครื่องลบล้างบาป** (Dodd/expiation reading)? RULES §0 evangelical-Protestant alignment + Thai-reader-expectation suggests Option B. The HEB end-of-book audit recommendation: confirm Option B explicitly so the forthcoming Romans-shipping doesn't drift on this question. The lexical-link with HEB 9:5 is intentionally lost; the Pauline cultic-instrumental sense is genuinely different from the OT-furniture sense.
+**Question:** Confirm the corpus default for ROM 3:25 (forthcoming Romans) — Option A **พระที่นั่งกรุณา** (preserves lexical-link with HEB 9:5; Calvin/Stuhlmacher-aligned), Option B **เครื่องบูชาไถ่บาป** (matches common Thai usage; mainstream evangelical Thai-reader expectation), or Option C **เครื่องลบล้างบาป** (Dodd/expiation reading)? RULES §0 evangelical-Protestant alignment + Thai-reader-expectation suggests Option B. The HEB end-of-book audit recommendation: confirm Option B explicitly so the forthcoming Romans-shipping doesn't drift on this question. The lexical-link with HEB 9:5 is intentionally lost; the Pauline cultic-instrumental sense is genuinely different from the OT-furniture sense.
 
 ---
 

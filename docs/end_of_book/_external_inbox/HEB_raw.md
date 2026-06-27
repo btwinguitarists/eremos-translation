@@ -167,7 +167,7 @@ _(Grok pass added 2026-06-21 via Cowork; Gemini + ChatGPT sections above are the
 **## Item F: Forward Romans 3:25 ἱλαστήριον**
 
 **Verdict:** FINE (Option B)
-**Reasoning:** HEB 9:5 uses the clear mercy-seat sense (**พระที่นั่งกรุณา**). Romans 3:25 deploys the term cultically for Christ's blood-sacrifice role (propitiation/atoning sacrifice), the dominant evangelical understanding matching THSV/NTV and mainstream Thai expectation. Lexical linkage is nice but not required—the Pauline instrumental sense (through faith in his blood) differs from the OT furniture. Option B best balances fidelity, theology, and reader continuity.
+**Reasoning:** HEB 9:5 uses the clear mercy-seat sense (**พระที่นั่งกรุณา**). Romans 3:25 deploys the term cultically for Christ's blood-sacrifice role (propitiation/atoning sacrifice), the dominant evangelical understanding matching ฉบับแปลไทย and mainstream Thai expectation. Lexical linkage is nice but not required—the Pauline instrumental sense (through faith in his blood) differs from the OT furniture. Option B best balances fidelity, theology, and reader continuity.
 
 **Recommended action:** Explicitly lock Option B **เครื่องบูชาไถ่บาป** (or close equivalent) for Romans 3:25 in project docs. Intentional loss of lexical link with HEB 9:5 is acceptable.
 

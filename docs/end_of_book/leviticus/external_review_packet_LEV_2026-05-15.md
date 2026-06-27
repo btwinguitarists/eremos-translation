@@ -215,7 +215,7 @@ The Thai surface consistently adds **`มลทิน` ("ritual impurity")** to 
 >
 > **Alternative direct-Hebrew transliteration:** `ปีโยเบล`
 
-**Editorial assessment.** Per `proper_names_and_transliteration_2026-05.md`, the project's principle is "follow established Thai-Christian-Bible precedent unless documented otherwise; for Hebrew terms, transliterate via Hebrew phonology when no precedent exists." The English-via-Latin `จูบีลี` matches modern Thai-Christian-Bible tradition (THSV-Eclectic uses `ปีจูเบลี`); the direct Hebrew transliteration `ปีโยเบล` is more-faithful to Hebrew phonology but less-familiar to Thai-Christian readers.
+**Editorial assessment.** Per `proper_names_and_transliteration_2026-05.md`, the project's principle is "follow established Thai-Christian-Bible precedent unless documented otherwise; for Hebrew terms, transliterate via Hebrew phonology when no precedent exists." The English-via-Latin `จูบีลี` matches modern Thai-Christian-Bible tradition (standard Thai-Eclectic uses `ปีจูเบลี`); the direct Hebrew transliteration `ปีโยเบล` is more-faithful to Hebrew phonology but less-familiar to Thai-Christian readers.
 
 The trade-off compounds when the Hebrew `יוֹבֵל` recurs in Joshua 6:4-13 (the rams'-horn trumpets of Jericho — the original metonymic source) — the same Hebrew lemma there should align with the LEV transliteration choice.
 
@@ -298,7 +298,7 @@ This is the **OT-source of Heb 9:22** (χωρὶς αἱματεκχυσίας �
 - When the Hebrew euphemism carries clinical-anatomical weight (LEV 20:18 menstruant; LEV 20:11 father's-wife with the legal-shame register), the Thai preserves the literal "uncovering" register `เปิดเผยความเปลือยเปล่า`.
 - The intro verse 18:6 (programmatic for the whole catalog) uses the explicit form to set reader-expectation.
 
-The trade-off — readability vs. lemma-preservation — is well-understood in translation: NIV / ESV / NRSV preserve "uncover the nakedness" literally throughout; NLT paraphrases to "have sexual relations"; THSV2011 uses a mixed strategy similar to Eremos. The Eremos hybrid is **not arbitrary** — it tracks Hebrew clarity vs. opacity within the same chapter.
+The trade-off — readability vs. lemma-preservation — is well-understood in translation: NIV / ESV / NRSV preserve "uncover the nakedness" literally throughout; NLT paraphrases to "have sexual relations"; standard Thai uses a mixed strategy similar to Eremos. The Eremos hybrid is **not arbitrary** — it tracks Hebrew clarity vs. opacity within the same chapter.
 
 **No corpus-doc covers this policy.** The doc `gender_passages_thai_register_2026-05.md` is scoped to Gen 1-3 + NT marriage passages (not LEV's incest / sexual-prohibition catalog). Recommend writing a short doc to lock the hybrid principle before Deuteronomy + Ezekiel ship.
 

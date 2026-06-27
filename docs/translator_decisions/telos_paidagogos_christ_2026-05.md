@@ -28,7 +28,7 @@ Eremos chose (a) per RULES §0 evangelical-Protestant default.
 
 εἰς + accusative carries two readings:
 - **Temporal** — "until [the time] Christ [arrives]." Salvation-historical-end reading. Eremos chose this.
-- **Directional** — "to / leading to Christ." The pedagogue's job was to escort the child to a destination. THSV1971 used the directional reading.
+- **Directional** — "to / leading to Christ." The pedagogue's job was to escort the child to a destination. standard Thai used the directional reading.
 
 Eremos chose **temporal** at Gal 3:24, which together with Rom 10:4's terminal-end forms a coherent salvation-history reading.
 
