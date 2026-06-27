@@ -2227,9 +2227,10 @@
     "ref_raw": "51:5,51:9,63:5/42:1,44:3,59:21",
     "issue": "Divine \"arm\" זְרוֹעַ → plain แขน (vs locked พระกร 40:10/52:10/53:1); \"my Spirit\" plain วิญญาณ",
     "disposition": "REVIEW (MAJOR)",
-    "status": "pending",
+    "status": "skipped",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "VERIFIED CONFORMANT: divine arm is person-based — 3rd-person→พระกร (40:10,52:10,53:1,59:16,63:12), 1st-person→plain แขน (51:5,63:5). Confirmed consistent with JER (21:5 มือ, 27:5 แขน plain, 1st-person). Sweep 'drift to plain แขน' = the correct first-person-plain rule (matches JER-T1-001 codification), NOT a drift. Doc-gap noted: divine_anthropomorphism §2.1 lists only พระกร. 51:9 vocative แขน borderline."
   },
   {
     "id": "ISA-T5-001",
