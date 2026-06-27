@@ -107,6 +107,7 @@ BOOKS = {
     "ZEP": ("zephaniah", "Zephaniah"),
     "HAG": ("haggai", "Haggai"),
     "ZEC": ("zechariah", "Zechariah"),
+    "MAL": ("malachi", "Malachi"),
 }
 
 # OT book codes — the prompt branches on testament so OT packets reference
