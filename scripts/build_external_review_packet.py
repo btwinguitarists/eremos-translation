@@ -104,6 +104,7 @@ BOOKS = {
     "MIC": ("micah", "Micah"),
     "NAM": ("nahum", "Nahum"),
     "HAB": ("habakkuk", "Habakkuk"),
+    "ZEP": ("zephaniah", "Zephaniah"),
 }
 
 # OT book codes — the prompt branches on testament so OT packets reference
