@@ -3060,9 +3060,10 @@
     "ref_raw": "10:6,10:10,11:6,16:13,19:20,19:23 (+evil-spirit)",
     "issue": "12 Spirit verses bare วิญญาณ vs locked พระวิญญาณ; +อย่างทรงพลัง to 4 צָלַח; evil-spirit stays bare",
     "disposition": "REQUIRES SIGN-OFF",
-    "status": "pending",
+    "status": "skipped",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "VERIFIED CONFORMANT (sweep flag stale/false). All 6 empowerment refs already match spirit_of_yhwh_empowerment_2026-05.md: 10:6/16:13 พระวิญญาณขององค์พระผู้เป็นเจ้า+อย่างทรงพลัง (צלח,YHWH); 10:10/11:6 พระวิญญาณของพระเจ้า+อย่างทรงพลัง (צלח,Elohim); 19:20/19:23 พระวิญญาณของพระเจ้า มาเหนือ (היה,no อย่างทรงพลัง). Evil-spirit 16:14-16/18:10/19:9 correctly bare วิญญาณชั่ว. No verse-edit needed."
   },
   {
     "id": "1SA-T4-001",
@@ -3094,9 +3095,10 @@
     "ref_raw": "5:7,7:3,7:4,12:10,31:10",
     "issue": "Dagon พระเจ้า violation → เทพเจ้า; Ashtoreth 4-way → อัชเทเรท; Baal → พระบาอัล; pairs 1KI/2KI",
     "disposition": "REQUIRES SIGN-OFF",
-    "status": "pending",
+    "status": "proposed",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "Baal 7:4 บาอัล→พระบาอัล [conformance] in crossbook_proposals.md (vs 12:10 + ot_polytheistic_register §1.3). Dagon 5:7 + Ashtaroth STALE: shipped already correct (ดาโกนพระ; uniform อัชเทเรท) — A_1SA_D_pagan D1/D2 moot. Baal not covered by any live Q."
   },
   {
     "id": "1SA-T8-003",
@@ -3110,9 +3112,10 @@
     "ref_raw": "28:13",
     "issue": "necromancy lock; plural אֱלֹהִים ข้าเห็นพระเจ้า → สิ่งศักดิ์สิทธิ์; fwd 1Chr10:13/2Kgs21:6/Isa8:19/Lev",
     "disposition": "SIGN-OFF + doc",
-    "status": "pending",
+    "status": "skipped",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "dup: B_1SA_E_witch.yml covers necromancy lexeme lock (אוב+ידעני) + 28:13 אלהים→สิ่งศักดิ์สิทธิ์ question + fwd 1Chr10:13/2Kgs21:6/Isa8:19."
   },
   {
     "id": "1SA-T8-004",
@@ -3288,9 +3291,10 @@
     "ref_raw": "22:53; high-places; 16:6/28/22:40",
     "issue": "DTr formulas ทำสิ่งชั่ว→ทำสิ่งชั่วร้าย; lock high-places; restore ทรงล่วงหลับ; write dtr_formulas doc before 2 Kings",
     "disposition": "SIGN-OFF",
-    "status": "pending",
+    "status": "skipped",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "dup: B_1KI_C_deuteronomistic.yml covers all 4 parts (22:53 ชั่ว→ชั่วร้าย; high-places 2-surface; ทรง death-formula split Baasha/Omri/Ahab; write dtr_history_cycle_formulas doc before 2KI). Cross-book forward finding = 2CH did-evil→bare ทำชั่ว (sweep L139), tracked as its own 2CH-T8 unit."
   },
   {
     "id": "1KI-T3-001",
