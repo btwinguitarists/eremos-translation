@@ -737,9 +737,11 @@
     "ref_raw": "6:5,11:13",
     "issue": "נֶפֶשׁ สุดจิตวิญญาณ vs สุดจิต across Shema NT quotes (Mk12:30/Mt22:37 vs Lk10:27)",
     "disposition": "DECIDE/staged",
-    "status": "pending",
+    "status": "proposed",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "pr": 210,
+    "note": "[conformance] Shema soul สุดจิต→สุดจิตวิญญาณ at DEU 11:13, MAT 22:37, MRK 12:30 (§2.2 lock; anchors DEU 6:5 + LUK 10:27 conformant). Doc §2.2 status-table STALE: claims 11:13 fixed + MAT/MRK staged, but verified NONE applied. In crossbook_proposals.md §1."
   },
   {
     "id": "DEU-T5-004",
@@ -754,9 +756,11 @@
     "ref_raw": "32:21",
     "issue": "jealousy DEU หึง vs Rom10:19 ริษยา",
     "disposition": "DECIDE/staged",
-    "status": "pending",
+    "status": "proposed",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "pr": 210,
+    "note": "[QUESTION] divine-jealousy DEU 32:21 หึง vs Rom 10:19 ริษยา; §2.4 defers lock. Drafted review-Q in crossbook_proposals.md §2. Verified both still drift."
   },
   {
     "id": "DEU-T5-005",
@@ -772,9 +776,11 @@
     "ref_raw": "6:13,6:16,8:3",
     "issue": "Matt-4 temptation quotes drift (ทดสอบ vs Matt4:7 ทดลอง)",
     "disposition": "DECIDE/staged",
-    "status": "pending",
+    "status": "proposed",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "pr": 210,
+    "note": "[QUESTION] Matt-4 temptation: MAT 4:7 ทดลอง vs DEU ทดสอบ + MAT 4:4 ดำรงชีวิต vs DEU มีชีวิตอยู่ (direction fork: §2.5 says NT→OT but NT form familiar). MAT 4:10 = legit LXX → footer not normalize. Drafted Q in crossbook_proposals.md §2."
   },
   {
     "id": "DEU-T5-006",

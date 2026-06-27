@@ -37,9 +37,33 @@ Every item cites its governing decision + the **verified** shipped text.
   - **Contingency:** this is the concrete, verse-listed form of the deferred normalization that `A_2KI_E_mal.yml` asks the decision on (normalize vs. document-as-principled). These 8 are the *avoid-form* cases — distinct from the acceptable `ผู้ส่งสาร`/`ทูต`/`คณะทูต` variation that question debates. Apply only if Ben chooses to normalize.
   - _Source: `2KI-T2-002` (its headline refs 1:2/17:4/20:13/19:23 dedup to `A_2KI_E_mal`; this backlog surfaced on verification)._
 
+### T5 — OT↔NT cross-quotation thread (Shema "soul")
+
+- [ ] **Shema `สุดจิต` → `สุดจิตวิญญาณ` at 3 verses** `[conformance]`
+  - **Lemma:** נֶפֶשׁ / ψυχή ("soul") — locked to `จิตวิญญาณ` (`ot_nt_cross_quotation_thread_2026-05.md` §2.2; `psyche_vs_pneuma_anthropological_2026-04.md`).
+  - **Conformant anchors:** DEU 6:5 `สุดจิตวิญญาณ` ✓ · Luke 10:27 `สุดจิตวิญญาณ` ✓.
+  - **Drifted — ship bare `สุดจิต` (= "heart", drops วิญญาณ "soul"):**
+    - **DEU 11:13** "…ด้วยสุดใจ…และด้วย**สุดจิต**" → `สุดจิตวิญญาณ`
+    - **Matt 22:37** "สุดใจ **สุดจิต** และสุดความคิด" → `สุดจิตวิญญาณ`
+    - **Mark 12:30** "สุดใจ… **สุดจิต**… สุดความคิด… สุดกำลัง" → `สุดจิตวิญญาณ`
+  - **Doc-status discrepancy:** §2.2's table claims DEU 11:13 was "normalized 2026-05-16" and Matt/Mark are "staged" — **verified against shipped text: none applied.** The doc's status table is stale; the NT reaudit never happened. (διάνοια "mind" = `สุดความคิด` is separate and correct.)
+  - **Second opinion:** Gemini unavailable (503). Grounds: explicit §2.2 lock + two conformant anchors.
+  - _Source: `DEU-T5-003`. No live review-question._
+
 ---
 
-## 2. Stale-question findings (verified already-applied — recommend close/narrow)
+## 2. New review-questions proposed (decide → formalize as `.yml` in EremosVercel2)
+
+### T5 — divine-jealousy thread (DEU 32:21 // Rom 10:19)
+- **`קנא`/`ζῆλος`: `หึง` (DEU) vs `ริษยา` (Rom).** DEU 32:21 ships `หึง` (×2); Rom 10:19 (quoting it) ships `ริษยา`. `ot_nt_cross_quotation_thread §2.4` **defers** the lock "pending review of the broader divine-jealousy thread (Pentateuch + Romans)." **Q:** unify the OT↔NT thread — and to which word (does divine jealousy read better as covenant-`หึง` or `ริษยา`?) — or document the OT-affect vs NT-affect split as principled? _(from `DEU-T5-004`; verified both still drift)_
+
+### T5 — Matt-4 temptation verb-drifts (which direction to unify)
+- **`πειράζω`/`נסה`: Matt 4:7 `ทดลอง` vs DEU 6:16 `ทดสอบ`; `ζάω`/`חיה`: Matt 4:4 `ดำรงชีวิต` vs DEU 8:3 `มีชีวิตอยู่`.** §2.5 directs "normalize NT-side, DEU stays" (NT→OT). **Tension:** `อย่าทดลองพระเจ้า` (Matt 4:7) is the *familiar* Thai NT form; normalizing to `ทดสอบ` may cost recognition. **Q:** unify NT→OT (per §2.5), OT→NT (preserve the familiar NT form), or document as principled?
+- **Footer, not a normalize:** Matt 4:10 `นมัสการ/ปรนนิบัติ` vs DEU 6:13 `เกรงกลัว/รับใช้` — Matt legitimately quotes the **LXX** (προσκυνέω); §2.5 calls this defensible, wanting a Layer-2 footer. _(from `DEU-T5-005`)_
+
+---
+
+## 3. Stale-question findings (verified already-applied — recommend close/narrow)
 
 These live review-questions ask for a text-fix that is **already present** in the shipped
 translation (verified verse-by-verse this audit). No edit needed; listed so reviewers don't
