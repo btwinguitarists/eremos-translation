@@ -50,6 +50,15 @@ Every item cites its governing decision + the **verified** shipped text.
   - **Second opinion:** Gemini unavailable (503). Grounds: explicit §2.2 lock + two conformant anchors.
   - _Source: `DEU-T5-003`. No live review-question._
 
+### T5 — OT↔NT cross-quotation thread (Isaiah 29:13 ∥ Synoptics)
+
+- [ ] **Mark 7:6 — align to the Isa 29:13 citation thread** `[conformance]`
+  - **Thread:** Isa 29:13 (`ให้เกียรติเราด้วยริมฝีปาก`) is quoted at **Matt 15:8** (`ให้เกียรติเรา…ริมฝีปาก` ✓) and **Mark 7:6** — same Greek `τοῖς χείλεσίν με τιμᾷ`.
+  - **Drifted (Mark 7:6):** "ชนชาตินี้**นับถือเราแต่ปาก**…" — `นับถือ` (≠ `ให้เกียรติ` for τιμάω) and `ปาก` ("mouth", imprecise for χείλη = "lips").
+  - **Proposal:** Mark 7:6 → "ชนชาตินี้**ให้เกียรติเราด้วยริมฝีปาก**…" matching Isa 29:13 + Matt 15:8 (more accurate for χείλη + restores the thread). No KD rationale documents the divergence.
+  - **Second opinion:** Gemini unavailable (503). Grounds: identical Greek + OT anchor + the parallel Synoptic.
+  - _Source: `ISA-T5-004`. No live review-question._
+
 ---
 
 ## 2. New review-questions proposed (decide → formalize as `.yml` in EremosVercel2)
@@ -60,6 +69,12 @@ Every item cites its governing decision + the **verified** shipped text.
 ### T5 — Matt-4 temptation verb-drifts (which direction to unify)
 - **`πειράζω`/`נסה`: Matt 4:7 `ทดลอง` vs DEU 6:16 `ทดสอบ`; `ζάω`/`חיה`: Matt 4:4 `ดำรงชีวิต` vs DEU 8:3 `มีชีวิตอยู่`.** §2.5 directs "normalize NT-side, DEU stays" (NT→OT). **Tension:** `อย่าทดลองพระเจ้า` (Matt 4:7) is the *familiar* Thai NT form; normalizing to `ทดสอบ` may cost recognition. **Q:** unify NT→OT (per §2.5), OT→NT (preserve the familiar NT form), or document as principled?
 - **Footer, not a normalize:** Matt 4:10 `นมัสการ/ปรนนิบัติ` vs DEU 6:13 `เกรงกลัว/รับใช้` — Matt legitimately quotes the **LXX** (προσκυνέω); §2.5 calls this defensible, wanting a Layer-2 footer. _(from `DEU-T5-005`)_
+
+### T5 — God's "soul" in the Servant citation (Isa 42:1 ∥ Matt 12:18)
+- **`נֶפֶשׁ`/`ψυχή` (God's own "soul") rendered differently in the thread.** Isa 42:1 "whom my soul delights" → `จิตวิญญาณของเรา`; Matt 12:18 (quoting it, Greek `ψυχή`) → `ดวงพระทัยของเรา` ("my [royal] heart"). The Shema lock (`§2.2`) maps `ψυχή`→`จิตวิญญาณ`, but that lock targets the human "love God with all your soul," not God's *own* `נֶפֶשׁ` (which the anthropomorphism table doesn't list). **Q:** unify the Servant-citation thread (→ `จิตวิญญาณ` per the lemma) or license `ดวงพระทัย` as the natural Thai idiom for God's "soul delights"? _(from `ISA-T5-004`)_
+
+### Systematic — OT↔NT citation Layer-2 footers largely not yet added
+- **Verified absent** for all 7 NT-cited Isaiah verses in `ISA-T5-004` (9:1, 11:10, 25:8, 29:13, 42:1, 45:23, 65:1) — the chapters carry other footers (tetragrammaton etc.) but no citation footer. Per `ot_nt_cross_quotation_thread §3` each NT-cited OT verse should carry a Layer-2 footer naming the citation + any MT-vs-LXX divergence (several of these are legit LXX-divergences: 25:8 "forever"≠"in victory"; 65:1 LXX clause-reversal; 11:10 LXX "rise to rule"). **This is apparatus, not text** — a systematic project task, not authored by this loop. Flagging once here; the audit will note per-unit footer-gaps but won't generate footers. _(from `ISA-T5-004`; expect recurrence across the 35 T5 units)_
 
 ---
 

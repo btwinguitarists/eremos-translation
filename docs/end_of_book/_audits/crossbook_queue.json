@@ -2299,9 +2299,11 @@
     "ref_raw": "9:1,11:10,25:8,29:13,42:1,45:23,65:1",
     "issue": "~7 NT-cited divergences lack Layer-2 footer (25:8 KD ref broken)",
     "disposition": "REVIEW (MAJOR)",
-    "status": "pending",
+    "status": "proposed",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "pr": 210,
+    "note": "TEXT: [conformance] Mark 7:6 นับถือ/ปาก→ให้เกียรติ/ริมฝีปาก (align Isa 29:13+Matt 15:8, same Greek). [question] Matt 12:18 God's soul ดวงพระทัย vs Isa 42:1 จิตวิญญาณ. FOOTER-GAP verified: all 7 NT-cited verses lack Layer-2 citation footers (systematic, apparatus not text). 25:8 KD NOT broken (stale). 9:1/11:10/65:1 consistent/legit-LXX-divergent. All in crossbook_proposals.md."
   },
   {
     "id": "ISA-T5-005",
