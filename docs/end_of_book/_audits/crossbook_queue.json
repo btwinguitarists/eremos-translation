@@ -406,9 +406,10 @@
     "ref_raw": "1-7,16,23 (~168×)",
     "issue": "כִּפֵּר shipped ลบมลทินบาป vs doc ลบบาป/ไถ่บาป; ~50 NUM verses too",
     "disposition": "DECIDE/CRITICAL",
-    "status": "pending",
+    "status": "skipped",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "VERIFIED CONFORMANT (locked, never-touch §1.2): כפר register-split LOCKED + AMENDED 2026-05-16 (sacrificial_vocabulary §5): priestly-purgation LEV→ลบมลทินบาป (impurity+sin fusion), direct-atonement NUM/EX→ลบบาป. Shipped LEV ลบมลทินบาป is the correct priestly form; check_sacrificial_vocab.py enforces split. Sweep 'shipped vs doc ลบบาป/ไถ่บาป' cites the STALE pre-amendment lock. Normalizing would BREAK the locked split."
   },
   {
     "id": "LEV-T8-002",
@@ -423,9 +424,10 @@
     "ref_raw": "25:25",
     "issue": "גֹּאֵל → ญาติสนิทที่สุด drops ไถ่; Ruth ships ญาติผู้ไถ่; Job19:25/Isa/Rom3:24",
     "disposition": "DECIDE",
-    "status": "pending",
+    "status": "skipped",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "VERIFIED CONFORMANT: goel ญาติผู้ไถ่ consistent — LEV 25:25 ญาติผู้ไถ่ (REVISED 2026-05-16 per goel doc), 25:26 ผู้ไถ่ short form, Ruth 2:20/4:14 ญาติผู้ไถ่, Job 19:25 พระผู้ไถ่. ไถ่-root typology preserved redeemer↔divine. Sweep's 'LEV drops ไถ่→ญาติสนิทที่สุด' cites pre-revision form (stale). 25:49 ญาติสนิท = שאר flesh-relative (not goel); Num 35 ผู้แก้แค้นเลือด = avenger role (distinct, expected)."
   },
   {
     "id": "LEV-T8-003",
@@ -2686,9 +2688,10 @@
     "ref_raw": "2:9,4:2",
     "issue": "חֶסֶד drift พระเมตตา vs Ruth lock ความรักมั่นคง (also Genesis)",
     "disposition": "REQUIRES SIGN-OFF",
-    "status": "pending",
+    "status": "skipped",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "VERIFIED CONFORMANT: Jon 2:9 + 4:2 both ship ความรักมั่นคง (the chesed lock). Per chesed_covenant_love §4 these were the trigger-corrections (fixed 2026-05-09). Sweep 'drift พระเมตตา' is stale."
   },
   {
     "id": "JON-T8-002",
