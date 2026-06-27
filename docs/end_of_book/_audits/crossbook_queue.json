@@ -2399,9 +2399,10 @@
     "ref_raw": "21:5,27:5,6:12,51:25,24:6,7:30",
     "issue": "CODIFIED first-person-plain (arm/hand/eyes plain แขน/มือ); conflicts ISA",
     "disposition": "DECIDE (MAJOR)",
-    "status": "pending",
+    "status": "skipped",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "VERIFIED CONFORMANT: first-person-plain rule consistent Isaiah↔Jeremiah (JER 21:5 มือ, 27:5 แขน plain 1st-person; 3rd-person→พระกร). 'conflicts ISA' = sweep missing the person-distinction (3rd→พระกร, 1st→plain are complementary, not conflicting). Codified in JER. Doc-gap (divine_anthropomorphism §2.1) already noted at ISA-T1-001."
   },
   {
     "id": "JER-T6-001",
@@ -2449,9 +2450,11 @@
     "ref_raw": "7:11",
     "issue": "\"den of robbers\" ถ้ำของโจร (=Mk11:17/Lk19:46) but Matt21:13 ซ่องของพวกโจร",
     "disposition": "REVIEW (MAJOR)",
-    "status": "pending",
+    "status": "proposed",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "pr": 210,
+    "note": "[conformance] Matt 21:13 align temple-cleansing citation to OT sources + Mark/Luke: บ้าน→นิเวศ (Isa 56:7) + ซ่องของพวกโจร→ถ้ำของโจร (Jer 7:11). Mark 11:17 + Luke 19:46 already match both sources; Matt lone outlier on both phrases (identical Greek οἶκος/σπήλαιον λῃστῶν; no KD). In crossbook_proposals.md §1."
   },
   {
     "id": "JER-T3-001",
