@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-06-27 10:42:37 UTC_
-_Total chapters: 1187 · Total verses: 31114_
+_Generated: 2026-06-27 11:09:45 UTC_
+_Total chapters: 1188 · Total verses: 31131_
 
 ## How to verify a chapter
 
@@ -845,7 +845,8 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/luke_22.json` | 71 | `3489bf41626f6d8288dcc48363b1bacf61f8b1ae704b99c08e4463ab992d54cb` | `cf6bd38f` |
 | `output/translations/luke_23.json` | 55 | `4655e2079c5710806de8bff1af8307b7f097f4ee9c77cd69e99c65585a6ac5f8` | `6d15bb1a` |
 | `output/translations/luke_24.json` | 53 | `17aaa19b3e8bc3d00a2de60c2e1bb63cf08796f484679c0fbc9852ebc6ef82e7` | `cf6bd38f` |
-| `output/translations/malachi_01.json` | 14 | `a73ecacab8ab4d28ae904a457f49e894de5bdb77c74497a909e01005555d022b` | `—` |
+| `output/translations/malachi_01.json` | 14 | `a73ecacab8ab4d28ae904a457f49e894de5bdb77c74497a909e01005555d022b` | `5078c2e8` |
+| `output/translations/malachi_02.json` | 17 | `7304f706aba3c861237622c7a6da946f54b8cec50d2659897c4955cc37347e07` | `—` |
 | `output/translations/mark_01.json` | 45 | `5c2a0d53635c1af6a17d841c07415e5ef9598e2007f3c3d797aba9f90b7e9141` | `b64d4872` |
 | `output/translations/mark_02.json` | 28 | `75e16e8a1bb616ba798f61950a8cc59e85de5f71ac2b444a2488eda3663e0a9e` | `b64d4872` |
 | `output/translations/mark_03.json` | 35 | `6e52db6cf05c089d6a361fc60267a1d6db14deee88133bc3550da074ec9c7a79` | `53678fba` |
