@@ -98,6 +98,7 @@ BOOK_SLUGS = {
     "HAB": "habakkuk",
     "ZEP": "zephaniah",
     "HAG": "haggai",
+    "ZEC": "zechariah",
 }
 
 TODO_TH = "__TODO_TH__"
