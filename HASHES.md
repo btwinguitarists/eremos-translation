@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-06-27 01:55:04 UTC_
-_Total chapters: 1172 · Total verses: 30889_
+_Generated: 2026-06-27 03:32:54 UTC_
+_Total chapters: 1173 · Total verses: 30906_
 
 ## How to verify a chapter
 
@@ -521,7 +521,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/habakkuk_02.json` | 20 | `d62c469334910ee53119ec744dfeeb50479a50838ea8142b150618cc691e807b` | `56e3aef5` |
 | `output/translations/habakkuk_03.json` | 19 | `afeab2d2366cdc8ba45a536e1439b9e33793b518e215db0bb8fdfcb71560cf56` | `258fd9e3` |
 | `output/translations/haggai_01.json` | 15 | `1f309e8c801b7ccd90b401a81b38c7d0a34c4c8088df933f53ab3468ca315ab9` | `e983ef0d` |
-| `output/translations/haggai_02.json` | 23 | `dd16143c9ee4cfefc09fdaf0b8eedf9561f16c2eb3a14667f138da71af923324` | `—` |
+| `output/translations/haggai_02.json` | 23 | `dd16143c9ee4cfefc09fdaf0b8eedf9561f16c2eb3a14667f138da71af923324` | `f86f4ef1` |
 | `output/translations/hebrews_01.json` | 14 | `f57cde0ff89f59a30df5b6e386e9ca302a66ca3ab4b657ac0106d380b45b0ab3` | `b64d4872` |
 | `output/translations/hebrews_02.json` | 18 | `19861717616df0e6dd2d83a68b0ec5f62cbd07e944563e0808259a192409df48` | `b64d4872` |
 | `output/translations/hebrews_03.json` | 19 | `2304367411023a3ebe7fb048eecc1189be931fdc7159c67d6648c9837d789664` | `a9bee188` |
@@ -1188,6 +1188,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/titus_01.json` | 16 | `6b9bc5a855e4143fab405d9116d393e4ed8e929d99a62b3d2451d8043fb50100` | `7cca09e6` |
 | `output/translations/titus_02.json` | 15 | `54cca3502fb1484c14c16b498528dd0e1691cb0d1650c2a21bae3fc079cf8180` | `9d4d7d23` |
 | `output/translations/titus_03.json` | 15 | `ae6d73e432043adfd5b8f1c7ccdac693084026cab5e5b9fda7db7d05472e9648` | `502e5308` |
+| `output/translations/zechariah_01.json` | 17 | `217d88eb72206d00b74ffc517ccc1b2ff86ae9226e6d1e163b19d147e87cfb3f` | `—` |
 | `output/translations/zephaniah_01.json` | 18 | `1f92f8a49701216673f59807344f1c5acff161e0650e02664c2223a34c691028` | `fb85ae9f` |
 | `output/translations/zephaniah_02.json` | 15 | `d6dbfd22b0e2137b1057de50c1b2e58c9a0e46c616173f55cb51ef70bf05cccd` | `469d4a91` |
 | `output/translations/zephaniah_03.json` | 20 | `26c72953277db683a5292557f65d47243c480d1936571c602b02f371a83e8844` | `256feede` |
