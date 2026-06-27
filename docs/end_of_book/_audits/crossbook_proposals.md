@@ -77,3 +77,10 @@ re-litigate settled text.
 
 > `B_2CH_C_chr.yml` (2 Chr 36:9 age 8-vs-18 + disclosure footer) is **genuinely open** — a real
 > unresolved textual fork, correctly left for reviewers (`2CH-T4-001` deduped against it).
+
+---
+
+## 4. Cross-book threads verified conformant (notable — sweep flags were stale)
+
+- **Exod 34:6–7 divine-attribute formula — LOCKS HELD corpus-wide.** Verified every recitation against `exod_34_attribute_formula_2026-05.md`: EXO 34:6–7 (source), NUM 14:18, PSA 86:15 / 103:8 / 111:4 / 145:8, JOL 2:13, JON 4:2, NEH 9:17 / 9:31, 2CH 30:9 — all use the locked components (`ทรงพระเมตตา` / `ทรงพระคุณ` / `ทรงกริ้วช้า` / `ความรักมั่นคง` / `ความซื่อสัตย์`). The sweep's three drift-claims are **all stale**: `EXO-T8-001` "source drifts on every component" (source is exact), `PSA-T7-001` "145:8 `ความเมตตากรุณา`" (ships `ทรงพระเมตตา`), `NEH-T8-001` "9:17 `ทรงพระพิโรธช้า`" (ships `ทรงกริ้วช้า`).
+  - **Minor residual (low-priority, optional):** **Nahum 1:3** renders the `וְנַקֵּה לֹא יְנַקֶּה` clause as `จะไม่ทรงปล่อยให้ผู้กระทำผิดลอยนวลพ้นโทษ`, vs. the locked `แต่จะไม่ทรงพิจารณาผู้กระทำผิดให้พ้นโทษ` (Exod 34:7 / Num 14:18). Meaning preserved; `ลอยนวล` ("scot-free") is vivid and arguably fitting for a judgment oracle. Tension: formula-recognition (align) vs. contextual register (keep). Ben's call — left un-staged.

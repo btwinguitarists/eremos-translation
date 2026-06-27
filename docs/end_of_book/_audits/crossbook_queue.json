@@ -197,9 +197,10 @@
     "ref_raw": "34:6-7",
     "issue": "Sinai attribute-formula source verse drifts on every component (אֱמֶת ความซื่อสัตย์, ทรงกริ้วช้า); breaks Num14:18/Ps86:15/Joel2:13/Jonah4:2/Neh9:17",
     "disposition": "DECIDE/CRITICAL",
-    "status": "pending",
+    "status": "skipped",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "VERIFIED CONFORMANT: Exod 34:6-7 SOURCE matches its canonical form exactly (ทรงพระเมตตาและทรงพระคุณ ทรงกริ้วช้า ทรงบริบูรณ์ด้วยความรักมั่นคงและความซื่อสัตย์). Sweep 'source drifts on every component' is FALSE/stale. Formula verified consistent corpus-wide (see PSA/NEH/JON/JOL/NUM)."
   },
   {
     "id": "EXO-T8-002",
@@ -1160,9 +1161,10 @@
     "ref_raw": "86:15,103:8,111:4,145:8",
     "issue": "Exod34:6 רַחוּם → พระเมตตา except ความเมตตากรุณา at 145:8 (breaks phrase-check)",
     "disposition": "DECIDE",
-    "status": "pending",
+    "status": "skipped",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "VERIFIED CONFORMANT: Exod-34 formula echoes in Psalms all locked — 86:15/103:8/111:4/145:8 use ทรงพระเมตตา/ทรงพระคุณ/ทรงกริ้วช้า/ความรักมั่นคง. Sweep claim '145:8 ความเมตตากรุณา' is STALE (145:8 ships ทรงพระเมตตา)."
   },
   {
     "id": "PSA-T1-001",
@@ -1386,9 +1388,10 @@
     "ref_raw": "1:2-12:8",
     "issue": "הֶבֶל → ไร้แก่นสาร (provisional); 33 prior hevel vv rendered contextually — retro-consistency owed",
     "disposition": "DECIDE/PROVISIONAL",
-    "status": "pending",
+    "status": "skipped",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "VERIFIED CONFORMANT: hevel uniformly อนิจจัง (1:2,1:14,2:11,12:8 all อนิจจัง; havel-havalim=อนิจจัง อนิจจัง). No ไร้แก่นสาร, no contextual drift. Sweep predates ECC reviewer pass (commit 5cab4ec1) which normalized hevel→อนิจจัง 35×."
   },
   {
     "id": "ECC-T6-001",
@@ -2063,9 +2066,10 @@
     "ref_raw": "9:17,9:31",
     "issue": "Exod-34 formula drift (ทรงพระพิโรธช้า vs locked ทรงกริ้วช้า); breaks the thread",
     "disposition": "DECIDE/SIGN-OFF",
-    "status": "pending",
+    "status": "skipped",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "VERIFIED CONFORMANT: Neh 9:17 + 9:31 ship locked ทรงกริ้วช้า / ทรงพระคุณและทรงพระเมตตา / ความรักมั่นคง. Sweep claim '9:17 ทรงพระพิโรธช้า vs locked ทรงกริ้วช้า' is STALE."
   },
   {
     "id": "NEH-T8-002",
