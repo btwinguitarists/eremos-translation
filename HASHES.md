@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-06-27 10:01:56 UTC_
-_Total chapters: 1186 · Total verses: 31100_
+_Generated: 2026-06-27 10:42:37 UTC_
+_Total chapters: 1187 · Total verses: 31114_
 
 ## How to verify a chapter
 
@@ -845,6 +845,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/luke_22.json` | 71 | `3489bf41626f6d8288dcc48363b1bacf61f8b1ae704b99c08e4463ab992d54cb` | `cf6bd38f` |
 | `output/translations/luke_23.json` | 55 | `4655e2079c5710806de8bff1af8307b7f097f4ee9c77cd69e99c65585a6ac5f8` | `6d15bb1a` |
 | `output/translations/luke_24.json` | 53 | `17aaa19b3e8bc3d00a2de60c2e1bb63cf08796f484679c0fbc9852ebc6ef82e7` | `cf6bd38f` |
+| `output/translations/malachi_01.json` | 14 | `a73ecacab8ab4d28ae904a457f49e894de5bdb77c74497a909e01005555d022b` | `—` |
 | `output/translations/mark_01.json` | 45 | `5c2a0d53635c1af6a17d841c07415e5ef9598e2007f3c3d797aba9f90b7e9141` | `b64d4872` |
 | `output/translations/mark_02.json` | 28 | `75e16e8a1bb616ba798f61950a8cc59e85de5f71ac2b444a2488eda3663e0a9e` | `b64d4872` |
 | `output/translations/mark_03.json` | 35 | `6e52db6cf05c089d6a361fc60267a1d6db14deee88133bc3550da074ec9c7a79` | `53678fba` |
@@ -1188,9 +1189,9 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/titus_01.json` | 16 | `6b9bc5a855e4143fab405d9116d393e4ed8e929d99a62b3d2451d8043fb50100` | `7cca09e6` |
 | `output/translations/titus_02.json` | 15 | `54cca3502fb1484c14c16b498528dd0e1691cb0d1650c2a21bae3fc079cf8180` | `9d4d7d23` |
 | `output/translations/titus_03.json` | 15 | `ae6d73e432043adfd5b8f1c7ccdac693084026cab5e5b9fda7db7d05472e9648` | `502e5308` |
-| `output/translations/zechariah_01.json` | 17 | `747ea25da4320bdce564a4671239f7bae5b182ccc2e01bf9b1d0c49e87e63c8c` | `27e651b7` |
+| `output/translations/zechariah_01.json` | 17 | `747ea25da4320bdce564a4671239f7bae5b182ccc2e01bf9b1d0c49e87e63c8c` | `c95ab51c` |
 | `output/translations/zechariah_02.json` | 17 | `6a6ac3bdd2fe98b2d75fbe534b0b6aec4272526c1943a6be5446b7efe82e4ebd` | `f6c8031a` |
-| `output/translations/zechariah_03.json` | 10 | `49ebeafa5961fa69e5cbe7d0fee70a25ae0f8d33d6b7f0836332b0698d09fe52` | `2f785c56` |
+| `output/translations/zechariah_03.json` | 10 | `49ebeafa5961fa69e5cbe7d0fee70a25ae0f8d33d6b7f0836332b0698d09fe52` | `c95ab51c` |
 | `output/translations/zechariah_04.json` | 14 | `23892714b569d21cd239eee4dcc4293b2fe9dfef6c1c63c55c03561eb0f7c0bb` | `dfdc9e3f` |
 | `output/translations/zechariah_05.json` | 11 | `17f030de7f68b5b63e5ab8405c6e8c53559576f47ba98582ba877e2925ea6c93` | `82629989` |
 | `output/translations/zechariah_06.json` | 15 | `68ad6a0f447748f0196b948b03bd79441a54ba69c6837e7b239b2ca9d0c28155` | `8f715d8f` |
@@ -1199,7 +1200,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/zechariah_09.json` | 17 | `9903783ad25e0d32a987cae6079a040bea1aa3ebaabaa4a53d18b812111298f4` | `6368e986` |
 | `output/translations/zechariah_10.json` | 12 | `e6147757e40a6c75a502ffbc7132958b97d7b528337e512db30b15d33f954424` | `3f45cd2c` |
 | `output/translations/zechariah_11.json` | 17 | `fd060da6a49668ee11c24bc3d59b884be81de96af9f3b1c73a76cee1ba7c553b` | `d02738fd` |
-| `output/translations/zechariah_12.json` | 14 | `7650a24c3df6115d83f47a1c17229c2a8bbac3231defbcceb104c8940abe419d` | `0b313ca0` |
+| `output/translations/zechariah_12.json` | 14 | `7650a24c3df6115d83f47a1c17229c2a8bbac3231defbcceb104c8940abe419d` | `c95ab51c` |
 | `output/translations/zechariah_13.json` | 9 | `c4543f2bd974a3a04a64317c7d4bab8fa24848a7286b8dfe4adaae07ece8ed75` | `080942fa` |
 | `output/translations/zechariah_14.json` | 21 | `edf60a19b83619579a14767a584ba872cfcbc34ca9f98ab2440c5ad7dc7f8c17` | `0658ce1b` |
 | `output/translations/zephaniah_01.json` | 18 | `1f92f8a49701216673f59807344f1c5acff161e0650e02664c2223a34c691028` | `fb85ae9f` |
