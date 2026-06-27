@@ -3,8 +3,8 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-06-27 05:53:42 UTC_
-_Total chapters: 1178 · Total verses: 30973_
+_Generated: 2026-06-27 06:20:54 UTC_
+_Total chapters: 1179 · Total verses: 30987_
 
 ## How to verify a chapter
 
@@ -1193,7 +1193,8 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/zechariah_03.json` | 10 | `d793e110004a6cf4815bd0cb82e7db786834d3df0f0d64fbd4203190e712ab40` | `2f785c56` |
 | `output/translations/zechariah_04.json` | 14 | `23892714b569d21cd239eee4dcc4293b2fe9dfef6c1c63c55c03561eb0f7c0bb` | `dfdc9e3f` |
 | `output/translations/zechariah_05.json` | 11 | `17f030de7f68b5b63e5ab8405c6e8c53559576f47ba98582ba877e2925ea6c93` | `82629989` |
-| `output/translations/zechariah_06.json` | 15 | `68ad6a0f447748f0196b948b03bd79441a54ba69c6837e7b239b2ca9d0c28155` | `—` |
+| `output/translations/zechariah_06.json` | 15 | `68ad6a0f447748f0196b948b03bd79441a54ba69c6837e7b239b2ca9d0c28155` | `8f715d8f` |
+| `output/translations/zechariah_07.json` | 14 | `62525c60e187d6555fbfc211324d250b3cbd5f3261ad7d88ac1140144b8fdfd3` | `—` |
 | `output/translations/zephaniah_01.json` | 18 | `1f92f8a49701216673f59807344f1c5acff161e0650e02664c2223a34c691028` | `fb85ae9f` |
 | `output/translations/zephaniah_02.json` | 15 | `d6dbfd22b0e2137b1057de50c1b2e58c9a0e46c616173f55cb51ef70bf05cccd` | `469d4a91` |
 | `output/translations/zephaniah_03.json` | 20 | `26c72953277db683a5292557f65d47243c480d1936571c602b02f371a83e8844` | `256feede` |
