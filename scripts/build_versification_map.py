@@ -181,6 +181,31 @@ def build_nahum_entries() -> dict[str, dict]:
     return entries
 
 
+def build_zechariah_entries() -> dict[str, dict]:
+    """Zechariah 1/2 boundary: MT 2:1-4 = English 1:18-21; MT 2:5-17 = English 2:1-13.
+
+    English/KJV close chapter 1 four verses later than the MT: the four-horns and
+    four-craftsmen vision (English Zech 1:18-21) is MT Zech 2:1-4. So MT chapter 2
+    has 17 verses — MT 2:1-4 = English 1:18-21, and MT 2:5-17 then run four behind
+    the English chapter-2 numbering (MT 2:5 = English 2:1; MT 2:N = English 2:N-4).
+    Chapter 1 (17 verses) aligns; the divergence is only in MT chapter 2.
+    """
+    entries: dict[str, dict] = {}
+    for v in range(1, 18):
+        eng_ref = f"Zechariah 1:{v + 17}" if v <= 4 else f"Zechariah 2:{v - 4}"
+        entries[f"ZEC-2-{v}"] = {
+            "mt_book": "ZEC",
+            "mt_chapter": 2,
+            "mt_verse": v,
+            "mt_ref": f"Zechariah 2:{v}",
+            "english_ref": eng_ref,
+            "bsb_ref": eng_ref,
+            "lxx_ref": f"Zechariah 2:{v}",
+            "diverges": True,
+        }
+    return entries
+
+
 def build_micah_entries() -> dict[str, dict]:
     """Micah 4/5 boundary: MT 4:14 = English 5:1.
 
@@ -444,6 +469,7 @@ def main():
     hosea_entries = build_hosea_entries()
     micah_entries = build_micah_entries()
     nahum_entries = build_nahum_entries()
+    zechariah_entries = build_zechariah_entries()
     aramaic_entries = build_aramaic_boundary_entries()
     minor_entries = build_minor_shift_entries()
     ecc_entries = build_ecclesiastes_entries()
@@ -473,6 +499,7 @@ def main():
     out.update(hosea_entries)
     out.update(micah_entries)
     out.update(nahum_entries)
+    out.update(zechariah_entries)
     out.update(aramaic_entries)
     out.update(minor_entries)
     out.update(ecc_entries)
