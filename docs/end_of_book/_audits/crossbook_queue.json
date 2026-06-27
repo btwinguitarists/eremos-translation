@@ -581,9 +581,10 @@
     "ref_raw": "14:18",
     "issue": "Sinai-formula recitation drifts (ความผิด, ทรงพระพิโรธช้า); pairs EXO 34:6-7",
     "disposition": "DECIDE/CRITICAL",
-    "status": "pending",
+    "status": "skipped",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "VERIFIED CONFORMANT: Num 14:18 Exod-34 formula echo = ทรงกริ้วช้า ทรงบริบูรณ์ด้วยความรักมั่นคง ทรงยกโทษความชั่ว — conformant (not ทรงพระพิโรธช้า/ความผิด). Already covered in the iter-7 Exod-34 formula pass. Sweep stale."
   },
   {
     "id": "NUM-T2-001",
@@ -598,9 +599,10 @@
     "ref_raw": "20:16,22:22-35 (11×)",
     "issue": "mal'akh-YHWH Balaam cluster ทูตของ- vs locked ทูตสวรรค์ (largest OT cluster)",
     "disposition": "DECIDE",
-    "status": "pending",
+    "status": "skipped",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "VERIFIED CONFORMANT: malak-YHWH Balaam cluster (NUM 22:22/23/31) all ship ทูตสวรรค์ขององค์พระผู้เป็นเจ้า (the malak lock). The 'largest OT cluster' conforms; sweep 'ทูตของ- vs locked ทูตสวรรค์' is stale."
   },
   {
     "id": "NUM-T3-001",
@@ -2092,9 +2094,11 @@
     "ref_raw": "5:14-18,12:26,7:65",
     "issue": "פֶּחָה governor-title 3 ways; diverges from Ezra; pick one + doc",
     "disposition": "REVIEW/DECIDE",
-    "status": "pending",
+    "status": "proposed",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "pr": 210,
+    "note": "[QUESTION] governor פחה 3 surfaces: เจ้าเมือง (Neh 5:14/18), ผู้ว่าราชการ (Neh 12:26), ข้าหลวง (Ezra 5:14). No OT governor-title doc. Unify + document, or principled (local-governor vs Persian-commissioner)? In crossbook_proposals.md §2."
   },
   {
     "id": "NEH-T8-003",
