@@ -2541,9 +2541,10 @@
     "ref_raw": "1:1,2:12,5:1,6:1",
     "issue": "4 emperors FULL ราชาศัพท์ per §2.2 — contradicts JER plain Nebuchadnezzar",
     "disposition": "DECIDE (fix in Ezra)",
-    "status": "pending",
+    "status": "skipped",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "dup A_DAN_A_foreign (deferred court-block foreign-emperor register decision; Q2=ratify corpus-wide + normalize Ezra). Daniel's full ราชาศัพท์ for the 4 emperors is per LOCKED ot_register_policy §2.2 (foreign emperors get ราชาศัพท์ even if villainous) → CONFORMANT. Live cross-book side = Jeremiah plain-Nebuchadnezzar (JER-T6-001, no Q): assess invader→plain as §2.2 violation vs principled exception when reached."
   },
   {
     "id": "DAN-T5-001",
@@ -3173,9 +3174,10 @@
     "ref_raw": "15:7,21:19,24:1,24:9,24:13",
     "issue": "MT cruxes Layer-1 only (15:7 forty/four = release-blocker; 21:19/24 ∥ 1Chr)",
     "disposition": "DECIDE pre-tag",
-    "status": "pending",
+    "status": "skipped",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "dup B_2SA_A_textual + B_2SA_C_synoptic, both RESOLVED: all 5 cruxes (15:7,21:19,24:1,24:9,24:13) now carry Layer-2 footers (textual_variants/2samuel_15/21/24.json; 15:7 trigger_1_mt_departure 'release-blocker' present); synoptic_parallel_passages doc written. Only open: 15:7 four-vs-forty endorsement (current=four+footer, reviewer call)."
   },
   {
     "id": "2SA-T3-001",
