@@ -175,8 +175,8 @@
 ## אֲנִי יְהוָה (I-am-YHWH Holiness/recognition formula) → องค์พระผู้เป็นเจ้า (leitwort divine name)
 **Doc:** `i_am_yhwh_holiness_formula_2026-05.md`  
 **Expected Thai contains:** `องค์พระผู้เป็นเจ้า`  
-**Total matching verses:** 129  
-**OK:** 129 · **Excepted:** 0 · **Violations:** 0
+**Total matching verses:** 130  
+**OK:** 130 · **Excepted:** 0 · **Violations:** 0
 
 ## כַּפֹּרֶת (kapporet — mercy seat / cover of ark)
 **Doc:** `kapporet_atonement_cover_2026-05.md`  
