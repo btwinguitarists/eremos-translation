@@ -939,9 +939,10 @@
     "ref_raw": "3:24,9:26",
     "issue": "אֲדֹנָי יְהוִה collapsed to YHWH-form; same as NUM 14:17; fwd Pss/Prophets",
     "disposition": "REVIEW",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "Adonai-thread: DEU 3:24/9:26 compound אדני יהוה 'collapsed to YHWH-form' = the appositional-bare rule (2026-05-23 sub-rule, mid-sentence→bare องค์พระผู้เป็นเจ้า). Covered by Adonai meta-Q B_1KI_D_adonai."
   },
   {
     "id": "DEU-T8-003",
@@ -1338,9 +1339,10 @@
     "ref_raw": "8:22;30:4",
     "issue": "Lady Wisdom→Christ ทรงให้เราถือกำเนิด (avoids Arian); 1Cor1:24/Col1:15; 30:4→John3:13",
     "disposition": "REVIEW",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "Ben's theological domain: Prov 8:22 Lady-Wisdom→Christ ทรงให้เราถือกำเนิด (avoids Arian 'created') — deliberate doctrinal rendering. §1.3 don't-overflag content."
   },
   {
     "id": "PRO-T7-001",
@@ -1449,9 +1451,10 @@
     "ref_raw": "3:19,9:2-3",
     "issue": "מִקְרֶה → เหตุอย่างเดียวกัน (avoids ชะตากรรม karma)",
     "disposition": "REVIEW",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "deliberate (Ben's domain): miqreh→เหตุอย่างเดียวกัน avoids ชะตากรรม (Buddhist karma) — per ECC reviewer pass. §1.3 don't-overflag Thai cultural choices."
   },
   {
     "id": "ECC-T8-003",
@@ -1482,9 +1485,10 @@
     "ref_raw": "2:25,8:10",
     "issue": "MT vs BSB word-variants (2:25 me/Him; 8:10 forgotten/praised)",
     "disposition": "REVIEW",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "textual: MT vs BSB word-variants (2:25 me/Him; 8:10 forgotten/praised) — covered by mt_vs_lxx/textual-variant policy + ECC reviewer pass; footer-candidate, not a Thai-surface drift."
   },
   {
     "id": "SNG-T3-001",
@@ -1551,9 +1555,10 @@
     "ref_raw": "4-7",
     "issue": "erotic imagery NON-euphemized; opposite of Lev uncover_nakedness; write erotic_imagery doc for Ezek16/23",
     "disposition": "REVIEW",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "deliberate register (Ben's domain): SoS erotic imagery non-euphemized (love-poetry) — opposite of Lev legal uncover_nakedness euphemism by design. Not a drift."
   },
   {
     "id": "SNG-T3-002",
@@ -2420,9 +2425,11 @@
     "ref_raw": "13:21 vs 34:14",
     "issue": "Goat-demon שָׂעִיר demonic ผีปีศาจรูปแพะ vs naturalized แพะป่า; Lev17:7 lock",
     "disposition": "REVIEW",
-    "status": "pending",
+    "status": "proposed",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "pr": 210,
+    "note": "[QUESTION] goat-demon שעיר: ผีปีศาจรูปแพะ (Isa13:21/Lev17:7/2Chr11:15) vs แพะป่า (Isa34:14). Cult contexts consistently demonic; desolation passages split (13:21 demon vs 34:14 goat). Unify desolation sense? In §2."
   },
   {
     "id": "JER-T1-001",
@@ -2901,9 +2908,10 @@
     "ref_raw": "7:7-8",
     "issue": "compound אֲדֹנָי יְהוִה (7:7) vs standalone (7:8); 7:8 locking precedent for NUM14:17/JDG/2SA/1KI",
     "disposition": "LOCK + table",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "Adonai-thread: JOS 7:7 compound (אהה אדני יהוה→อนิจจา ข้าแต่องค์พระผู้เป็นเจ้า, verified) + 7:8 standalone אדני. Per 2026-05-23 sub-rule (interjection→ข้าแต่; appositional→bare). Adonai meta-Q covers."
   },
   {
     "id": "JOS-T5-001",
@@ -3006,9 +3014,10 @@
     "ref_raw": "11:31",
     "issue": "Jephthah vow ambiguity preserved; doc literal-sacrifice default; 2Kgs3:27/Mic6:7",
     "disposition": "LOCK + doc",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "DOCUMENTED: Jephthah vow ambiguity preserved per jephthah_vow_2026-05.md (exists). Not a drift."
   },
   {
     "id": "JDG-T8-003",
@@ -3025,9 +3034,10 @@
     "ref_raw": "19:22,19:29,20:6,21:25",
     "issue": "restore lost Layer-2 notes (Gen19/1Sam11:7/Hos9:9); trauma-aware-notes policy",
     "disposition": "RETROFIT",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "footer/notes (apparatus): restore lost Layer-2 trauma-aware notes (Gen19/1Sam11:7/Hos9:9) — notes-layer task, not a Thai-surface text change. Folds into the systematic Layer-2 footer/notes backlog."
   },
   {
     "id": "RUT-T1-001",
@@ -3041,9 +3051,10 @@
     "ref_raw": "1:13",
     "issue": "יַד־יְהוָה royal พระหัตถ์ but verb plain when body-part subject; corpus rule before Exod7/Pss/Isa",
     "disposition": "LOCK + write anthropomorphism_grammar doc",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "DOCUMENTED body-part register: יד־יהוה→พระหัตถ์ (royal body-part) + plain verb when body-part is subject (per divine_anthropomorphism + honorifics_bodypart rule, verified pattern). Conformant."
   },
   {
     "id": "RUT-T5-001",
