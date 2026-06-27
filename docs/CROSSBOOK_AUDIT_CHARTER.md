@@ -71,10 +71,13 @@ Everything that changes text is a PROPOSAL. The loop never edits `main`.
 
 ## 4. Outputs & the human gate
 
-- Conformance diffs + draft renderings → a branch + PR titled `[audit] <theme> · <book>`,
-  with a checkbox per item (`- [ ]`), mirroring the cursor daily-review contract:
-  **proposed → Ben checks [x] + merges → approved → applied.** The loop only *applies* a
-  text change after Ben has checked it and it is on `main`.
+- Conformance diffs + draft renderings → **ONE rolling PR** on branch `audit/crossbook`,
+  titled `[audit] cross-book consistency`, with a checkbox per item (`- [ ]`) appended under
+  a per-theme heading. Each iteration pushes its proposals to this same branch (don't open a
+  new PR per unit). Mirrors the cursor daily-review contract: **proposed → Ben checks [x] +
+  merges → approved → applied.** The loop only *applies* a text change after Ben has checked
+  it and it is on `main`. Track proposals in `docs/end_of_book/_audits/crossbook_proposals.md`
+  on that branch (the checkbox ledger), so a fresh iteration appends rather than rewrites.
 - New review questions → `.yml` in `EremosVercel2/shared/review-questions/` (same schema as
   the 372 existing: `id, tier, roles, kind, topic{en,th}, question{en,th}, body{en,th}`),
   bilingual, **deduped**, in the same PR.
