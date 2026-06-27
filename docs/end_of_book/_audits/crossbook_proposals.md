@@ -51,6 +51,14 @@ Every item cites its governing decision + the **verified** shipped text.
   - **Second opinion:** Gemini unavailable (503). Grounds: explicit §2.2 lock + two conformant anchors.
   - _Source: `DEU-T5-003`. No live review-question._
 
+### T5 — more Deuteronomy NT-citation drifts (vengeance + "word is near")
+
+- [ ] **Heb 10:30 — `ตอบสนอง` → `ตอบแทน`** `[conformance]`
+  - DEU 32:35 "vengeance is mine, I will repay" → `เราจะตอบแทน`; **Rom 12:19** (quoting it) → `ตอบแทน` ✓; **Heb 10:30** (same quote, *identical* Greek `ἀνταποδώσω`) → `ตอบสนอง` ✗ — the lone outlier.
+  - **Proposal:** Heb 10:30 → `ตอบแทน` (align DEU 32:35 + Rom 12:19). Gemini unavailable (503); grounds: identical Greek + OT anchor + the parallel NT citation. _(from `DEU-T5-007`)_
+- [ ] **Rom 10:8 — `จิตใจ` → `ใจ` (minor / low-priority)** `[conformance]`
+  - DEU 30:14 "the word is…in your heart" → `ใจ`; Rom 10:8 (quoting it, `καρδία`) → `จิตใจ`. The `καρδία`→`ใจ` pattern (cf. Shema `สุดใจ`) favors `ใจ` for thread consistency. Minor — Ben's call. _(from `DEU-T5-008`)_
+
 ### T5 — OT↔NT cross-quotation thread (Isaiah 29:13 ∥ Synoptics)
 
 - [ ] **Mark 7:6 — align to the Isa 29:13 citation thread** `[conformance]`
