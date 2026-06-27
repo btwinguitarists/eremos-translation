@@ -35,7 +35,8 @@ Every item cites its governing decision + the **verified** shipped text.
   - **Governing policy:** `malak_yhwh_2026-05.md` §4.4 — human messengers use `ผู้ส่งสาร` (default) or `ทูต`/`คณะทูต` (diplomatic); **avoid `ผู้สื่อสาร`** (reclassify unless documented reason).
   - **Proposal:** reclassify all 8 to `ผู้ส่งสาร` (matching 1:2/19:23); 14:8 (Amaziah's war-challenge) and 19:9 (Sennacherib's royal envoys) may instead take `ทูต` if Ben prefers to mark diplomatic envoys.
   - **Contingency:** this is the concrete, verse-listed form of the deferred normalization that `A_2KI_E_mal.yml` asks the decision on (normalize vs. document-as-principled). These 8 are the *avoid-form* cases — distinct from the acceptable `ผู้ส่งสาร`/`ทูต`/`คณะทูต` variation that question debates. Apply only if Ben chooses to normalize.
-  - _Source: `2KI-T2-002` (its headline refs 1:2/17:4/20:13/19:23 dedup to `A_2KI_E_mal`; this backlog surfaced on verification)._
+  - **Corpus-wide scope (verified counts):** the `ผู้สื่อสาร` avoid-form is not just 2 Kings — 1KI ×12, 2KI ×14, 2CH ×3 (1CH ×0). All fold into the single `A_2KI_E_mal` normalization decision; if Ben chooses to normalize, the find-replace should sweep 1KI + 2KI + 2CH together (the 8 verses above are the 2KI ordinary-messenger subset). 2CH's 3 are the prophet-as-messenger case (36:15–16) that `B_2CH_E_human` leaves genuinely open.
+  - _Source: `2KI-T2-002` (+ `1KI-T2-002`, `1CH-T2-002` — same human-messenger thread)._
 
 ### T5 — OT↔NT cross-quotation thread (Shema "soul")
 

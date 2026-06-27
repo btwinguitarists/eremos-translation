@@ -1706,9 +1706,10 @@
     "ref_raw": "21:12-30",
     "issue": "Threshing-floor angel (=2Sam24) locked but check scoped [1KI,2KI] only — widen",
     "disposition": "REVIEW→LOCK",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "VERIFIED CONFORMANT: 1CH 21:16/18/30 ship ทูตสวรรค์ขององค์พระผู้เป็นเจ้า (malak lock). Per malak_yhwh doc, check WAS widened to Chronicles 2026-05-26 (1CH 21:12/15/16/18/30 verified). 'check scoped [1KI,2KI] only' is stale."
   },
   {
     "id": "1CH-T2-002",
@@ -1724,9 +1725,10 @@
     "ref_raw": "14:1,19:2,19:16",
     "issue": "Human-messenger 5th surface-set; normalize→ผู้ส่งสาร",
     "disposition": "REVIEW→LOCK",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "dup of human-messenger thread (A_1CH_C_mal). 1CH has 0 ผู้สื่อสาร (its '5th surface-set' is a different acceptable form, not the avoid-form) — folds into A_2KI_E_mal normalization decision. No separate emit."
   },
   {
     "id": "1CH-T3-001",
@@ -3396,9 +3398,10 @@
     "ref_raw": "19:2,20:2,20:9",
     "issue": "human messenger 3rd variant ผู้สื่อสาร vs 1SA ผู้ส่งสาร; normalize",
     "disposition": "REVIEW",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "dup of human-messenger normalization thread (B_1KI_A_mal + A_2KI_E_mal decision). 1KI has ผู้สื่อสาร ×12 (avoid-form) — folded into the corpus-wide ผู้สื่อสาร DRAFT note (2KI-T2-002 §1) + A_2KI_E_mal decision. No separate emit."
   },
   {
     "id": "1KI-T8-003",
