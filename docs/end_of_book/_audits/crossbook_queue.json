@@ -183,9 +183,11 @@
     "ref_raw": "44:1,45:1,50:1,50:2",
     "issue": "Joseph (vizier) wrongly royal ทรง-; policy keeps high officials plain",
     "disposition": "REVIEW",
-    "status": "pending",
+    "status": "proposed",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "pr": 210,
+    "note": "[QUESTION, part of T6 king-register] Joseph-vizier possibly wrongly ทรง — §2.5 keeps patriarch/vizier plain. Sub-point of the T6 king-register Q (§2); verify if Ben pursues."
   },
   {
     "id": "EXO-T8-001",
@@ -1309,9 +1311,11 @@
     "ref_raw": "14:28-31:9",
     "issue": "human kings NON-ROYAL; CONFLICTS with SNG + ECC8 full-royal kings; owed human_king_register doc",
     "disposition": "REVIEW",
-    "status": "pending",
+    "status": "proposed",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "pr": 210,
+    "note": "[QUESTION] generic wisdom-king register: Proverbs plain (16:10/16:14) vs ECC royal (8:4 ทรง). §2.2 doesn't address generic kings. Unify? Consolidated T6 king-register Q in §2."
   },
   {
     "id": "PRO-T5-001",
@@ -1508,9 +1512,11 @@
     "ref_raw": "1:4;3:7-11;8:11;7:6",
     "issue": "Solomon FULL ราชาศัพท์ per §2.2; DIVERGES Psalms/Proverbs; owed human_king_register",
     "disposition": "REVIEW",
-    "status": "pending",
+    "status": "proposed",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "pr": 210,
+    "note": "[QUESTION, part of T6 king-register] SoS Solomon full ราชาศัพท์ (3:11 ทรงมงกุฎ) — defensible per §2.2 (specific king) but diverges from Proverbs-plain. Folded into the generic-king register Q (§2)."
   },
   {
     "id": "SNG-T7-001",
@@ -2370,9 +2376,10 @@
     "ref_raw": "3:15,10:23,22:5,22:12,28:22 vs 22:14b,22:15",
     "issue": "אֲדֹנָי יְהוִה צְבָאוֹת split — 5 drop Adonai vs 2 mark it (ch.22 Shebna)",
     "disposition": "REVIEW",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "Adonai-thread: Adonai-YHWH-Sabaoth compound ships องค์เจ้านาย (3:1/10:16/10:33/19:4 mark it). The 'split' (some drop Adonai) is a sub-case of the documented Adonai thread (2026-05-23 sub-rule + meta-Q B_1KI_D_adonai) — reviewers address it there."
   },
   {
     "id": "ISA-T8-001",
@@ -2504,9 +2511,10 @@
     "ref_raw": "2:19 vs 46:10,49:5,50:25,50:31;44:26",
     "issue": "אֲדֹנָי יְהוִה צְבָאוֹת split across OAN",
     "disposition": "REVIEW",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "Adonai-thread: Adonai-YHWH-Sabaoth across OAN — same sub-case as ISA-T3-001, covered by the Adonai thread/meta-Q (B_1KI_D_adonai)."
   },
   {
     "id": "JER-T8-001",
