@@ -78,6 +78,16 @@ Every item cites its governing decision + the **verified** shipped text.
   - **Second opinion:** Gemini unavailable (503). Grounds: explicit `proper_names` lock + the DEU/JOS conformant majority.
   - _Source: `JOS-T8-001` — the drift is actually in EXO + early books, not "across DEU+JOS" as the sweep framed it._
 
+### T3 — the divine name "Yah" in Song of Songs (8:6)
+
+- [ ] **Song 8:6 — `เปลวเพลิงแห่งพระยาห์` → `เปลวเพลิงแห่งยาห์`** `[conformance]`
+  - **Lemma:** `יָהּ` (Yah, short form of YHWH) — the **only** divine name in Song of Songs (`שַׁלְהֶבֶת יָה`, "the very flame of Yah").
+  - **Locked** (`divine_names_table_2026-05.md` line 24): `יָהּ` → `ยาห์` (bare transliteration; Pss 68:4, 77:11, Hallelu-Yah). Compound precedent — Exod 17:16 `כֵּס יָהּ` → `พระที่นั่งของยาห์` (bare `ยาห์`, the `พระ` sits on "throne", not on `ยาห์`).
+  - **Drift:** SNG 8:6 ships `พระยาห์` (adds the `พระ` honorific to `ยาห์`), deviating from the locked bare form.
+  - **Proposal:** `พระยาห์` → `ยาห์` (the interpretive choice to read `יָה` as the divine name is retained; only the form is normalized to the lock).
+  - **Second opinion:** Gemini unavailable (503). Grounds: explicit line-24 lock + the Exod 17:16 `כֵּס יָהּ` precedent.
+  - _Source: `SNG-T3-001`._
+
 ---
 
 ## 2. New review-questions proposed (decide → formalize as `.yml` in EremosVercel2)
@@ -103,6 +113,9 @@ Every item cites its governing decision + the **verified** shipped text.
 
 ### T8 — governor-title `פֶּחָה` (Nehemiah ↔ Ezra, 3 surfaces)
 - **`פֶּחָה` ("governor") is rendered 3 ways:** `เจ้าเมือง` (Neh 5:14, 5:18 — Nehemiah himself), `ผู้ว่าราชการ` (Neh 12:26), `ข้าหลวง` (Ezra 5:14 — Sheshbazzar). No OT governor-title decision doc governs it. **Q:** unify to one canonical surface (+ document), or is the variation principled (a local Judah-governor `เจ้าเมือง` vs a Persian-appointed royal commissioner `ข้าหลวง`)? _(from `NEH-T8-002`)_
+
+### T7 — human "slow to anger" in Proverbs (`אֶרֶךְ אַפַּיִם`)
+- **The human virtue `אֶרֶךְ אַפַּיִם` is rendered two ways in Proverbs:** `อดทน` (14:29 "the patient have great understanding", 25:15 "with patience a ruler is persuaded") vs `โกรธช้า` (15:18, 16:32 "slow to anger"). Possibly context-sensitive (patience-virtue contexts → `อดทน`; anger contexts → `โกรธช้า`). The **divine** form is separately `ทรงกริ้วช้า` (Exod 34 — the `ทรง` honorific correctly marks the divine/human split). **Q:** unify the human rendering (to one of `โกรธช้า`/`อดทน`), or document the context-split as principled? _(from `PRO-T7-001`)_
 
 ### Systematic — OT↔NT citation Layer-2 footers largely not yet added
 - **Verified absent** for all 7 NT-cited Isaiah verses in `ISA-T5-004` (9:1, 11:10, 25:8, 29:13, 42:1, 45:23, 65:1) — the chapters carry other footers (tetragrammaton etc.) but no citation footer. Per `ot_nt_cross_quotation_thread §3` each NT-cited OT verse should carry a Layer-2 footer naming the citation + any MT-vs-LXX divergence (several of these are legit LXX-divergences: 25:8 "forever"≠"in victory"; 65:1 LXX clause-reversal; 11:10 LXX "rise to rule"). **This is apparatus, not text** — a systematic project task, not authored by this loop. Flagging once here; the audit will note per-unit footer-gaps but won't generate footers. _(from `ISA-T5-004`; expect recurrence across the 35 T5 units)_

@@ -1341,9 +1341,11 @@
     "ref_raw": "14:29,15:18,16:32,25:15",
     "issue": "אֶרֶךְ אַפַּיִם โกรธช้า vs อดทน; same idiom as EXO 34:6 / Ps 145:8",
     "disposition": "DECIDE",
-    "status": "pending",
+    "status": "proposed",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "pr": 210,
+    "note": "[QUESTION] human ארך אפים in Proverbs varies: อดทน (14:29,25:15) vs โกรธช้า (15:18,16:32). Possibly context-split (patience-virtue vs anger). Divine = ทรงกริ้วช้า (Exod34, ทรง marks divine/human split, OK). Unify human form or document split? In crossbook_proposals.md §2."
   },
   {
     "id": "PRO-T1-001",
@@ -1480,9 +1482,11 @@
     "ref_raw": "8:6",
     "issue": "שַׁלְהֶבֶת יָה → เปลวเพลิงแห่งพระยาห์; พระยาห์ drifts from locked ยาห์; normalize",
     "disposition": "DECIDE",
-    "status": "pending",
+    "status": "proposed",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "pr": 210,
+    "note": "[conformance] SNG 8:6 พระยาห์→ยาห์ (only divine name in SoS; שלהבת יה). divine_names_table line 24 locks יה→ยาห์ bare; Exod 17:16 כס יה→พระที่นั่งของยาห์ precedent (bare ยาห์). SNG adds พระ honorific = drift. In crossbook_proposals.md §1."
   },
   {
     "id": "SNG-T6-001",
@@ -3023,9 +3027,10 @@
     "ref_raw": "4:19 ↔ Mt1:3-4",
     "issue": "רָם ราม (Heb) vs Ἀράμ อารัม (NT); normalize Ruth→อารัม or policy doc",
     "disposition": "DECIDE",
-    "status": "pending",
+    "status": "skipped",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "VERIFIED CONFORMANT: Ram = ราม in BOTH Ruth 4:19 AND Matt 1:4 (NT uses ราม, NOT อารัม — sweep claim false/stale). Already consistent OT↔NT. Luke 3:33 has Admin/Arni textual variant (no Ram) — separate matter."
   },
   {
     "id": "RUT-T8-001",
