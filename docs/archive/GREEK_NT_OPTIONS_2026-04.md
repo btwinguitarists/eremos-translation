@@ -2,7 +2,7 @@
 
 ## Why this doc exists
 
-When Ben noticed that Mark 1:1 reads `จุดเริ่มต้นของข่าวประเสริฐเรื่องพระเยซูคริสต์` without "พระบุตรของพระเจ้า" — unlike THSV, NIV, ESV, BSB, and most published Bibles — the obvious question was: *why are we using a Greek source that omits this when other free editions include it?*
+When Ben noticed that Mark 1:1 reads `จุดเริ่มต้นของข่าวประเสริฐเรื่องพระเยซูคริสต์` without "พระบุตรของพระเจ้า" — unlike ฉบับแปลไทย, NIV, ESV, BSB, and most published Bibles — the obvious question was: *why are we using a Greek source that omits this when other free editions include it?*
 
 This doc answers that question and saves the next person who asks it from re-running the survey. **Decision: stay on SBLGNT for now. Use the single-bracket convention to make contested words visible to readers.** The bracket policy is in `RULES.md §5`; specific bracketed verses are tracked there.
 

@@ -141,7 +141,7 @@ The HEB 8–10 tabernacle-typology cluster — the architecture-and-furniture vo
 | Χερουβίν (HAPAX) | **เครูบ** | 9:5 |
 | σκεύη (vessels/articles) | **ภาชนะ** | 9:21 |
 
-**Editorial assessment:** The vocabulary is uniform and reads naturally for a Thai-Buddhist-cultural context that has no native sanctuary-cultus vocabulary — the translator built consistently from biblical-Thai precedent. **พลับพลา** for σκηνή matches THSV1971 + ERV-Thai biblical-Thai standard (literally "ceremonial-pavilion / royal-tent"; appropriate for tabernacle). **วิสุทธิสถาน** for ἅγια is a Thai compound ("holy-place") that handles both the singular-furniture-area sense (the "Holy Place" outer-room) and the **ἅγια ἁγίων** ("Holy of Holies" inner-room) sense via context-modifiers. **ม่าน** for καταπέτασμα is plain ("curtain"); the 6:19 elaborated form **ม่านที่แยกคั่น** ("veil that separates") preserves the architectural-significance.
+**Editorial assessment:** The vocabulary is uniform and reads naturally for a Thai-Buddhist-cultural context that has no native sanctuary-cultus vocabulary — the translator built consistently from biblical-Thai precedent. **พลับพลา** for σκηνή matches common Thai usage + the biblical-Thai standard (literally "ceremonial-pavilion / royal-tent"; appropriate for tabernacle). **วิสุทธิสถาน** for ἅγια is a Thai compound ("holy-place") that handles both the singular-furniture-area sense (the "Holy Place" outer-room) and the **ἅγια ἁγίων** ("Holy of Holies" inner-room) sense via context-modifiers. **ม่าน** for καταπέτασμα is plain ("curtain"); the 6:19 elaborated form **ม่านที่แยกคั่น** ("veil that separates") preserves the architectural-significance.
 
 The **ἱλαστήριον at 9:5 → พระที่นั่งกรุณา** is the standard biblical-Thai for the OT mercy-seat (the ark cover; LXX-translation of כפרת kaporeth). This is **distinct from** the Pauline cultic-instrumental ἱλαστήριον at Rom 3:25 (Christ-as-propitiation, which most Thai translations render with the verb-phrase **เป็นเครื่องบูชาไถ่บาป** — see REVIEW item §16 below). The 9:5 KD explicitly notes this distinction:
 
@@ -374,11 +374,11 @@ The 1:8 KD names the choice and rejects the alternative explicitly:
 
 The HEB 9:5 ἱλαστήριον rendering **พระที่นั่งกรุณา** ("seat of grace") is the standard biblical-Thai for the OT mercy-seat (LXX-translation of MT כפרת kaporeth). This is the **furniture sense** — the gold cover of the ark.
 
-The forward-Pauline **ROM 3:25** ἱλαστήριον (Christ "set forth as a propitiation/mercy-seat through faith in his blood") uses the **cultic-instrumental sense** — Christ as the propitiating-sacrifice or as the heavenly-mercy-seat-archetype. Most Thai translations (THSV1971, NTV, ERV-Thai) here use **เครื่องบูชาไถ่บาป** ("propitiating-sacrifice") rather than **พระที่นั่งกรุณา** — collapsing into the propitiation reading. The HEB 9:5 KD explicitly notes this distinction.
+The forward-Pauline **ROM 3:25** ἱλαστήριον (Christ "set forth as a propitiation/mercy-seat through faith in his blood") uses the **cultic-instrumental sense** — Christ as the propitiating-sacrifice or as the heavenly-mercy-seat-archetype. Most Thai translations here use **เครื่องบูชาไถ่บาป** ("propitiating-sacrifice") rather than **พระที่นั่งกรุณา** — collapsing into the propitiation reading. The HEB 9:5 KD explicitly notes this distinction.
 
 **REVIEW flag for Ben's confirmation:** When Romans ships, the ROM 3:25 ἱλαστήριον rendering will need explicit choice:
 - **Option A (mercy-seat archetype reading):** Render ROM 3:25 with **พระที่นั่งกรุณา** to preserve lexical-link with HEB 9:5 + the LXX-cultic background (Calvin's reading; T.W. Manson, Stuhlmacher)
-- **Option B (propitiating-sacrifice reading):** Render with **เครื่องบูชาไถ่บาป** matching THSV1971 and the Thai-evangelical reader expectation (Morris's wrath-propitiation reading; mainstream evangelical-Reformed)
+- **Option B (propitiating-sacrifice reading):** Render with **เครื่องบูชาไถ่บาป** matches common Thai usage and the Thai-evangelical reader expectation (Morris's wrath-propitiation reading; mainstream evangelical-Reformed)
 - **Option C (expiation reading):** Render with **เครื่องลบล้างบาป** ("means of erasing/expiating sin") — the Dodd / RSV "expiation" position
 
 Worth Ben's confirmation that **Option A** (lexical-link to HEB 9:5) is the project default — OR an explicit decision to differ. The doc `docs/translator_decisions/tabernacle_vocabulary_hebrews_2026-05.md` (recommended in §6) should document this as a forward-pertinent question for Romans.
@@ -519,7 +519,7 @@ The 6:6 KD acknowledges the three traditional interpretive streams (Calvinist: n
 **Worth Ben's confirmation (DECIDE §I):** The deliberate-ambiguity policy is worth explicit-affirmation in a corpus doc. Recommend new doc `docs/translator_decisions/hebrews_warning_passages_2026-05.md` to lock the deliberate-ambiguity rendering policy across all five Hebrews warning-passages (2:1-4, 3:7-4:13, 5:11-6:12, 10:26-31, 12:14-29). This protects the policy from drift in any future revision.
 
 ### J. ἱλαστήριον dual-sense before Romans — **REVIEW** (§16)
-HEB 9:5 mercy-seat → **พระที่นั่งกรุณา** is correct biblical-Thai for the OT-furniture sense. ROM 3:25 propitiation will need explicit-choice between **พระที่นั่งกรุณา** (preserves lexical-link) vs **เครื่องบูชาไถ่บาป** (matches THSV1971 evangelical-Thai default). Worth deciding before Romans ships.
+HEB 9:5 mercy-seat → **พระที่นั่งกรุณา** is correct biblical-Thai for the OT-furniture sense. ROM 3:25 propitiation will need explicit-choice between **พระที่นั่งกรุณา** (preserves lexical-link) vs **เครื่องบูชาไถ่บาป** (matches Thai evangelical-Thai default). Worth deciding before Romans ships.
 
 ### K. HEB 12:3 ταῖς ψυχαῖς paraphrase — **REVIEW** (minor)
 HEB 12:3 ἵνα μὴ κάμητε ταῖς ψυχαῖς ὑμῶν → **เพื่อพวกท่านจะไม่เหน็ดเหนื่อยและท้อใจ** ("lest you grow weary and discouraged"). The dative-of-respect ψυχαῖς ("in your souls") is paraphrased away into **ท้อใจ** ("become discouraged"). This is principled Thai-naturalness — the literal **เหน็ดเหนื่อยในจิตวิญญาณของท่าน** would be unnatural. Worth Ben's confirmation that the paraphrase-policy is acceptable for adverbial-dative ψυχή uses where the lexeme is structural, not theological.

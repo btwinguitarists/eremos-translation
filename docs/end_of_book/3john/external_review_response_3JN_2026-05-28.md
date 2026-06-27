@@ -34,7 +34,7 @@
 - **Synthesized / Action:** Lock สนับสนุน. Move the missionary-support semantic cluster (προπέμπω + ὑπολαμβάνω + συνεργός) to the corpus doc `propempo_missionary_sending_2026-05.md` rather than the verse-level KD.
 
 ### Item D — ὁ φιλοπρωτεύων → ผู้ที่ใฝ่หาความเป็นใหญ่ (1:9)
-- **Gemini:** FINE. ใฝ่หา (active pursuit) captures the present-participle + φιλο- prefix; THSV's อยากเป็นใหญ่ makes the action too passive and internal.
+- **Gemini:** FINE. ใฝ่หา (active pursuit) captures the present-participle + φιλο- prefix; standard Thai's อยากเป็นใหญ่ makes the action too passive and internal.
 - **ChatGPT:** FINE. Same; keep distinct from generic ambition vocabulary like ทะเยอทะยาน — this is a marked "love-to-be-first" Johannine formulation.
 - **Synthesized / Action:** Lock ผู้ที่ใฝ่หาความเป็นใหญ่.
 

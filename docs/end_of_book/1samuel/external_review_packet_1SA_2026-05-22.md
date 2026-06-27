@@ -207,7 +207,7 @@ The Philistines of Ashdod refer to Dagon as **"ดาโกนพระเจ้
 | **28:19** | וּמָחָר אַתָּה וּבָנֶיךָ עִמִּי | "พรุ่งนี้ เจ้าและบุตรของเจ้าจะอยู่กับข้า" |
 
 **Editorial assessment.**
-- **Descriptive paraphrase** for אוֹב ("ผู้ที่ติดต่อกับวิญญาณ" = "one who contacts spirits") + יִדְּעֹנִי ("ผู้ที่รู้สิ่งล้ำลับ" = "one who knows hidden things") — preserves the prohibition's force without exoticizing the Hebrew technical lexicon, and avoids the THSV transliteration "หมอผีและคนทรง" (which sounds anachronistic Thai-folk-religion-coded).
+- **Descriptive paraphrase** for אוֹב ("ผู้ที่ติดต่อกับวิญญาณ" = "one who contacts spirits") + יִדְּעֹנִי ("ผู้ที่รู้สิ่งล้ำลับ" = "one who knows hidden things") — preserves the prohibition's force without exoticizing the Hebrew technical lexicon, and avoids the standard Thai transliteration "หมอผีและคนทรง" (which sounds anachronistic Thai-folk-religion-coded).
 - The 28:13 אֱלֹהִים-as-divine-being rendering is the load-bearing decision: the Hebrew uses plural אֱלֹהִים with plural participle עֹלִים (literally "I see *gods* ascending from the earth") — a grammatical curiosity that all major translations wrestle with. The Thai uses `พระเจ้า` (preserving the standard OT אֱלֹהִים → พระเจ้า convention from `divine_names_table_2026-05.md`) but flattens the plural participle to singular `ขึ้นมา`. Defensible per the OT-base lock — but loses the Hebrew literary curiosity.
 
 **Forward-compounding cluster (the corpus doc would protect):**
@@ -219,7 +219,7 @@ The Philistines of Ashdod refer to Dagon as **"ดาโกนพระเจ้
 - **NT: Acts 16:16–18** — the πνεῦμα πύθωνος (Pythian-slave-girl) exorcism, the closest NT analog
 
 **Two questions:**
-1. Is the **descriptive-paraphrase Thai surface** ("ผู้ที่ติดต่อกับวิญญาณ" / "ผู้ที่รู้สิ่งล้ำลับ") the right editorial choice for the אוֹב + יִדְּעֹנִי lemma cluster — vs the THSV/TNCV "หมอผี" / "คนทรง" alternative — for a CC0 Thai Bible whose Thai-evangelical readership is also navigating the Thai-folk-religion semantic field of spirit-mediumship? (The descriptive form is academically more neutral; the THSV-aligned form is more recognizable to Thai readers but risks importing Thai-folk-religion connotations into the OT cult-prohibition narrative.)
+1. Is the **descriptive-paraphrase Thai surface** ("ผู้ที่ติดต่อกับวิญญาณ" / "ผู้ที่รู้สิ่งล้ำลับ") the right editorial choice for the אוֹב + יִדְּעֹנִי lemma cluster — vs the ฉบับแปลไทย "หมอผี" / "คนทรง" alternative — for a CC0 Thai Bible whose Thai-evangelical readership is also navigating the Thai-folk-religion semantic field of spirit-mediumship? (The descriptive form is academically more neutral; the standard Thai-aligned form is more recognizable to Thai readers but risks importing Thai-folk-religion connotations into the OT cult-prohibition narrative.)
 2. Should the project lock the 28:13 אֱלֹהִים-rendering choice (preserve `พระเจ้า` divine register; document the plural-participle flattening as an editorial choice rather than an oversight) in the new corpus doc? Or should the rendering instead use a paraphrastic form that captures the Hebrew plural ambiguity — e.g., "ข้าเห็น**สิ่งศักดิ์สิทธิ์** ขึ้นมาจากแผ่นดิน" (`สิ่งศักดิ์สิทธิ์` = "a divine/holy being"; matches `ot_polytheistic_register_2026-05.md` §1.1 vocabulary table for אֱלֹהִים in non-personal-divine contexts)?
 
 ---

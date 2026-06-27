@@ -96,7 +96,7 @@ The verse-internal contrast with v.6 is preserved cleanly:
 - 4:6 GK: ὁ θεὸς ὁ εἰπών· Ἐκ σκότους φῶς λάμψει
 - 4:6 TH: เพราะ**พระเจ้า**ผู้ตรัสว่า 'ความสว่างจะส่องออกจากความมืด'
 
-**Why this is interpretive-load-bearing:** Most published Thai translations preserve **พระเจ้า** at 4:4 (e.g., THSV, TNCV) — they read the Greek ὁ θεός as a standard construction whose referent (Satan) is established by τοῦ αἰῶνος τούτου, not by lexical-register. The Eremos choice **เทπเจ้า** lexicalizes the Christian/Satanic boundary into the Thai noun itself — preserving the project's strict "พระเจ้า ↔ biblical God" lexical lock at the cost of a slightly-marked rendering that no other Thai Bible takes.
+**Why this is interpretive-load-bearing:** Most published Thai translations preserve **พระเจ้า** at 4:4 (e.g., ฉบับแปลไทย) — they read the Greek ὁ θεός as a standard construction whose referent (Satan) is established by τοῦ αἰῶνος τούτου, not by lexical-register. The Eremos choice **เทπเจ้า** lexicalizes the Christian/Satanic boundary into the Thai noun itself — preserving the project's strict "พระเจ้า ↔ biblical God" lexical lock at the cost of a slightly-marked rendering that no other Thai Bible takes.
 
 The locked `pagan_deities_2026-04.md` doc was written for *literal* pagan deities (Acts 14 Zeus/Hermes; Acts 17 Athenian "gods"; Acts 19 Artemis). It does not explicitly cover NT *polemical / metaphorical* "god" references — Satan (2 Cor 4:4); the belly (Phil 3:19 ὧν ὁ θεὸς ἡ κοιλία); the antichrist (2 Thess 2:4 ὁ ἀντικείμενος καὶ ὑπεραιρόμενος ἐπὶ πάντα λεγόμενον θεόν). The translator extended the principle, correctly in the project's terms, but the corpus-doc needs amendment to make the extension explicit and forward-binding.
 

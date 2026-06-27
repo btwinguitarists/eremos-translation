@@ -32,7 +32,7 @@ This doc records the disposition of each of the 8 items (A–H) and §Z after ex
 | Grok | CONCERN (revise to พระเจ้าแห่งยุคนี้) |
 | ChatGPT | revise + sharper rule (พระเจ้า for metaphorical θεός) |
 
-**Disposition:** **REVISE.** 3/3 unanimous. Spot-revised 2 Cor 4:4 from `เทพเจ้าแห่งยุคนี้` → `พระเจ้าแห่งยุคนี้`. The mainstream Thai Bible tradition (THSV, TNCV) renders this way; the Greek's rhetorical move is to take the supreme title and limit it with a temporal-genitive, exposing usurpation. `เทพเจ้า` would have flattened Satan into the same semantic class as Greco-Roman pagan deities, which is not Paul's move.
+**Disposition:** **REVISE.** 3/3 unanimous. Spot-revised 2 Cor 4:4 from `เทพเจ้าแห่งยุคนี้` → `พระเจ้าแห่งยุคนี้`. The mainstream Thai Bible tradition (ฉบับแปลไทย) renders this way; the Greek's rhetorical move is to take the supreme title and limit it with a temporal-genitive, exposing usurpation. `เทพเจ้า` would have flattened Satan into the same semantic class as Greco-Roman pagan deities, which is not Paul's move.
 
 **Doc amendment:** `pagan_deities_2026-04.md` updated 2026-05-01 with **Rule 1b** distinguishing literal pagan deities (เทพเจ้า, Acts/1 Cor/Gal/Rev) from Pauline polemical-metaphorical θεός (พระเจ้า + qualifying genitive — 2 Cor 4:4, Phil 3:19, 2 Th 2:4).
 

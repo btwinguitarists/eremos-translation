@@ -256,7 +256,7 @@ The 3:6 KD + thai_summary explicitly explain the habitual-vs-momentary distincti
 - Erasmus 1522 history (added to 3rd edition under ecclesiastical pressure; copied from Latin)
 - Cross-references to MAT 28:19 (Trinitarian baptism) + JHN 1:1 (Word-and-God) showing Trinitarian doctrine's independence from this verse
 
-The 5:7 KD + thai_summary make the textual situation transparent for Thai readers (THKJV-tradition includes; modern critical-text + THSV omit). The 5:8 KD additionally clarifies that **εἰς τὸ ἕν → เห็นเป็นหนึ่งเดียวกัน** preserves the unity-of-testimony sense (NOT the ontological-unity sense, which would be the Comma's Trinitarian reading).
+The 5:7 KD + thai_summary make the textual situation transparent for Thai readers (THKJV-tradition includes; modern critical-text + standard Thai omit). The 5:8 KD additionally clarifies that **εἰς τὸ ἕν → เห็นเป็นหนึ่งเดียวกัน** preserves the unity-of-testimony sense (NOT the ontological-unity sense, which would be the Comma's Trinitarian reading).
 
 **Editorial assessment:** Textbook compliance with the locked Path A policy. The 1JN 5:7 case is the highest-stakes Tier 2 case in the entire NT (most-famous textual variant in Christian-translation history); the implementation is faithful to RULES §0 + the inclusion-variants doc.
 

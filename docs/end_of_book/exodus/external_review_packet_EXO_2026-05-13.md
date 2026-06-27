@@ -180,7 +180,7 @@ Reading both verses, the cross-lemma assignment swaps: 33:19 maps חנן→เ�
 
 **The exegetical question.** **ในหมู่พระทั้งหลาย** ("among the gods/deities") preserves the Hebrew בָּאֵלִם as a plural-gods construction. This matches the literal LXX (ἐν θεοῖς) and is **academically defensible** — Exod 15 is the OT's oldest poetic stratum and contains traces of Yahweh-as-incomparable-among-other-gods register (cf. Ps 82:1 בַּעֲדַת אֵל, Ps 89:6 בְּנֵי אֵלִים, Ps 95:3 עַל־כָּל־אֱלֹהִים, Ps 96:4 / 97:9 same idiom). The rhetorical-comparative form occurs throughout the Hebrew Bible's older poetic strata and reflects the pre-monotheistic-development Israelite religious-rhetorical convention (cf. Mark S. Smith, *The Early History of God*).
 
-**The reader-experience concern.** A typical Thai-evangelical reader of **ในหมู่พระทั้งหลาย** will read this as **confirming the existence of other gods** — which conflicts with the monotheistic frame the Thai-evangelical church understands as the OT's overall theology. THSV-1971 reads **เทพเจ้าทั้งหลาย** (similar polytheistic-surface register); some modern Thai translations paraphrase to **เทพเจ้าใดเหมือนพระองค์** ("which deities could compare with you") to preserve the rhetorical-question form while neutralizing the polytheistic surface.
+**The reader-experience concern.** A typical Thai-evangelical reader of **ในหมู่พระทั้งหลาย** will read this as **confirming the existence of other gods** — which conflicts with the monotheistic frame the Thai-evangelical church understands as the OT's overall theology. standard Thai-1971 reads **เทพเจ้าทั้งหลาย** (similar polytheistic-surface register); some modern Thai translations paraphrase to **เทพเจ้าใดเหมือนพระองค์** ("which deities could compare with you") to preserve the rhetorical-question form while neutralizing the polytheistic surface.
 
 **Cross-corpus implications.** The decision compounds across:
 - **Pss 82 / 86 / 89 / 95 / 96 / 97 / 135 / 136 / 138** (multiple "incomparable-among-gods" formulae)
@@ -193,7 +193,7 @@ Without a locked policy, future books will likely apply different conventions ad
 
 **Three resolution paths:**
 
-(a) **Current** — preserve the Hebrew בָּאֵלִם as-is with **พระทั้งหลาย**. Most faithful to the Hebrew text's pre-monotheistic-development register. Defensible academically; risks Thai-reader-confusion in the evangelical context. Matches THSV-1971.
+(a) **Current** — preserve the Hebrew בָּאֵלִם as-is with **พระทั้งหลาย**. Most faithful to the Hebrew text's pre-monotheistic-development register. Defensible academically; risks Thai-reader-confusion in the evangelical context. Matches standard Thai-1971.
 
 (b) **Paraphrase to "เทพเจ้าใดเหมือนพระองค์"** — preserves the rhetorical-comparison; reads as "no deity is like you" rather than "no god among (the existing) gods is like you." Reader-friendly; muffles the Hebrew's mythopoetic surface.
 
@@ -294,7 +294,7 @@ The same question applies to **EXO 15:26 יְהוָה רֹפְאֶךָ** ("YHWH-
 
 **Thai (uniform across all 19):** **(ทำให้ใจ)ของฟาโรห์แข็งกระด้าง**.
 
-**Editorial assessment.** The Thai uniform rendering matches THSV / BSB / NIV but flattens the Hebrew literary-structural distinction:
+**Editorial assessment.** The Thai uniform rendering matches common Thai usage / BSB / NIV but flattens the Hebrew literary-structural distinction:
 - חזק "strengthen" connotes empowerment-toward-defiance
 - קשה "harden" connotes inner-stubbornness
 - כבד "make-heavy" connotes weight-of-judgment / burden-of-guilt
@@ -348,7 +348,7 @@ The Hebrew narrator's careful alternation across the three roots is a **delibera
 | **40:20** (final installation) | **ที่ลบล้างบาป** | atonement-cover (**DRIFT**) |
 
 **The two readings** of kapporet:
-- **Throne-of-grace / mercy-seat** (rabbinic + classical-Christian + KJV/THSV tradition): God's throne above the cherubim; the כפר etymology is "cover" understood as "covering-throne."
+- **Throne-of-grace / mercy-seat** (rabbinic + classical-Christian + KJV/standard Thai tradition): God's throne above the cherubim; the כפר etymology is "cover" understood as "covering-throne."
 - **Atonement-cover** (modern critical + ESV/NRSV tradition; recovers the כפר root "atone / cover-for-sin"): the cover above the Ark where blood is applied for atonement (Lev 16). The LXX/Pauline tradition reads ἱλαστήριον at Rom 3:25 (where it recapitulates kapporet directly), and Heb 9:5 names "the kapporet" with the same etymological-atonement weight.
 
 **Cross-corpus implications.** The decision compounds into:
@@ -358,7 +358,7 @@ The Hebrew narrator's careful alternation across the three roots is a **delibera
 
 **Two resolution paths:**
 
-(a) **Normalize 40:20 to พระที่นั่งกรุณา** — matches the 8 prior occurrences; preserves the throne-image (rabbinic + classical-Christian reading: God's throne above the cherubim); matches THSV. Cost: 1 verse edit. Simpler; loses the etymological-atonement signal at 40:20.
+(a) **Normalize 40:20 to พระที่นั่งกรุณา** — matches the 8 prior occurrences; preserves the throne-image (rabbinic + classical-Christian reading: God's throne above the cherubim); matches common Thai usage. Cost: 1 verse edit. Simpler; loses the etymological-atonement signal at 40:20.
 
 (b) **Normalize all 9 to ที่ลบล้างบาป** — recovers the כפר-atonement etymology; matches the NT-corpus's Rom 3:25 (ἱλαστήριον = kapporet directly); matches Heb 9:5 + modern critical translations. Cost: 8 verse edits. Lexically transparent on the כפר-atonement etymology.
 

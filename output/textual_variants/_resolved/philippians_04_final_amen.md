@@ -27,7 +27,7 @@ uW notes acknowledge the variant: "Some versions have 'Amen' at the end of the f
 
 The included `ἀμήν` is a common scribal-liturgical addition at the close of NT epistles — a pattern of pious-liturgical-completion that scribes added to many letters' endings (cf. similar variants at Rom 16:24, 1Co 16:24, 2Co 13:14, Gal 6:18, Eph 6:24, etc.). Modern critical-text scholarship treats these as scribal additions, not original.
 
-**Disposition:** silent-omission per RULES §5. Mainstream critical-text consensus matches our practice; reader-trust is preserved (Thai readers familiar with THSV may notice — THSV varies; THKJV would include based on Byzantine base — but the omission is well within the evangelical critical-text-standard practice).
+**Disposition:** silent-omission per RULES §5. Mainstream critical-text consensus matches our practice; reader-trust is preserved (Thai readers familiar with standard Thai may notice — standard Thai varies; THKJV would include based on Byzantine base — but the omission is well within the evangelical critical-text-standard practice).
 
 ---
 

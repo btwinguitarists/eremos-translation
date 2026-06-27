@@ -30,7 +30,7 @@ Recommended action: Write docs/translator_decisions/ot_warfare_ethics_2026-05.md
 Item D: Sinai = ซีนาย / สีนาย mix within Numbers + drift from Exodus's locked form
 
 Verdict: CONCERN
-Reasoning: Internal book inconsistency (10 vs. 27 occurrences) and cross-book drift from Exodus (which locked ซีนาย 100%) violates the project's proper-noun consistency rules. Since ซีนาย aligns with established Thai-Christian-Bible precedent (THSV-1971), it must serve as the standard.
+Reasoning: Internal book inconsistency (10 vs. 27 occurrences) and cross-book drift from Exodus (which locked ซีนาย 100%) violates the project's proper-noun consistency rules. Since ซีนาย aligns with established Thai-Christian-Bible precedent (standard Thai-1971), it must serve as the standard.
 Recommended action: Retroactively normalize the 10 occurrences of สีนาย to ซีนาย before tagging book-numbers-v1. Add an entry to glossary.json or extend the proper-name check-script to lock this corpus-wide and prevent drift in Deuteronomy, Judges, and Psalms.
 
 Item E: Numbers first-occurrence YHWH-footnote wording-drift starting at ch.15

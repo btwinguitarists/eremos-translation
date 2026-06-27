@@ -41,9 +41,9 @@ JUD 1:5 contains the single most Christologically-charged textual variant in Jud
 3. Eremos follows SBLGNT per RULES §0.
 4. The Christological-significance: Christ-pre-incarnate as Exodus-deliverer (cf. 1 COR 10:4 "the rock was Christ").
 
-**Editorial assessment.** This is the most-defensible call in Jude. RULES §0 commits the project to SBLGNT-strict alignment, so the textual choice is mechanical. The Christological consequence (pre-incarnate-Christ-as-Exodus-Lord) is significant and the thai_summary discloses it transparently. Major modern English versions (NIV, ESV, CSB) also follow SBLGNT here. THSV/THKJV follow the Byzantine `κύριος` reading — Eremos diverges from those Thai versions on principled-text-critical grounds.
+**Editorial assessment.** This is the most-defensible call in Jude. RULES §0 commits the project to SBLGNT-strict alignment, so the textual choice is mechanical. The Christological consequence (pre-incarnate-Christ-as-Exodus-Lord) is significant and the thai_summary discloses it transparently. Major modern English versions (NIV, ESV, CSB) also follow SBLGNT here. standard Thai/THKJV follow the Byzantine `κύριος` reading — Eremos diverges from those Thai versions on principled-text-critical grounds.
 
-The thai_summary is well-structured: it surfaces the variant, names the editorial choice, and articulates the Christological reading without polemic. A typical Thai-Protestant reader who encounters Eremos's `พระเยซู` and is familiar with THSV's `องค์พระผู้เป็นเจ้า` will find the explanation in-place at the chapter rather than having to consult an external commentary.
+The thai_summary is well-structured: it surfaces the variant, names the editorial choice, and articulates the Christological reading without polemic. A typical Thai-Protestant reader who encounters Eremos's `พระเยซู` and is familiar with standard Thai's `องค์พระผู้เป็นเจ้า` will find the explanation in-place at the chapter rather than having to consult an external commentary.
 
 **Recommend: STABLE → LOCKED.** This is the project's flagship case for SBLGNT-strict-alignment with an interpretively-significant variant; documenting it formalizes the precedent for similar future cases (REV 22:14 etc.). The thai_summary is adequate as-is. **No corpus doc needed** — RULES §0 already governs; the verse-level thai_summary is the documentation-of-record. Keep verse-level.
 
@@ -148,7 +148,7 @@ The 1:3 KD names the agonistic-imagery:
 The intensified ἐπ-prefix marks an "additional" or "for-something" sense — *contend on-behalf-of* rather than just "struggle." Jude's grammatical structure (`ἐπαγωνίζεσθαι τῇ ... πίστει`, dative-of-cause-or-defense) makes the on-behalf-of sense explicit: contend FOR the faith.
 
 The Thai **ต่อสู้อย่างเข้มแข็ง** ("strive-fight strongly") preserves the intensified force. Other Thai versions:
-- THSV: **ต่อสู้เพื่อความเชื่อ** ("fight for the faith" — adverb dropped)
+- standard Thai: **ต่อสู้เพื่อความเชื่อ** ("fight for the faith" — adverb dropped)
 - THKJV: **ต่อสู้เพื่อความเชื่อ** (same simplification)
 - a Thai NLT-equivalent: **ป้องกันความเชื่อ** ("defend the faith")
 

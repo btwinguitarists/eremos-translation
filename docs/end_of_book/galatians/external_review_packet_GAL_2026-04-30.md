@@ -96,7 +96,7 @@ The grammatical relative clause (ὁ ἀγαπήσας με, ὁ παραδοὺ
 
 ## Item B — δικαιόω → ถูกประกาศว่าชอบธรรม: forensic-declarative vs Catholic-leaning "made righteous"
 
-**The pattern:** GAL has **9 δικαιόω + 4 δικαιοσύνη** uses, all uniformly rendered with the explicitly forensic-declarative Thai construction **ถูกประกาศว่าชอบธรรม** ("be DECLARED righteous") rather than the older THSV1971 / Catholic-leaning **ทำให้ชอบธรรม** ("MADE righteous", suggesting infused-righteousness). This is a Reformational doctrinal-translation choice as load-bearing as ἐκκλησία → คริสตจักร.
+**The pattern:** GAL has **9 δικαιόω + 4 δικαιοσύνη** uses, all uniformly rendered with the explicitly forensic-declarative Thai construction **ถูกประกาศว่าชอบธรรม** ("be DECLARED righteous") rather than the older standard Thai / Catholic-leaning **ทำให้ชอบธรรม** ("MADE righteous", suggesting infused-righteousness). This is a Reformational doctrinal-translation choice as load-bearing as ἐκκλησία → คริสตจักร.
 
 **The 5-syllable rendering used in Pauline justification verses:**
 - GAL 2:16 GK: `οὐ δικαιοῦται ἄνθρωπος ἐξ ἔργων νόμου ἐὰν μὴ διὰ πίστεως Ἰησοῦ Χριστοῦ`
@@ -108,7 +108,7 @@ The grammatical relative clause (ὁ ἀγαπήσας με, ὁ παραδοὺ
 **Active form (God as subject):** GAL 3:8 `ἐκ πίστεως δικαιοῖ τὰ ἔθνη ὁ θεὸς` → `พระเจ้าจะ**ทรงประกาศให้คนต่างชาติเป็นผู้ชอบธรรม**โดยความเชื่อ`. Abstract noun δικαιοσύνη → **ความชอบธรรม** uniformly (2:21, 3:21, 5:5).
 
 **Two questions:**
-1. Is **ถูกประกาศว่าชอบธรรม** (5 syllables, Reformational forensic-declarative) the right Pauline Thai — or is the compact THSV-style **นับว่าเป็นผู้ชอบธรรม** (4 syllables) preferable for reading flow?
+1. Is **ถูกประกาศว่าชอบธรรม** (5 syllables, Reformational forensic-declarative) the right Pauline Thai — or is the compact standard Thai-style **นับว่าเป็นผู้ชอบธรรม** (4 syllables) preferable for reading flow?
 2. Lift to corpus doc before Rom 3:21–4:25 (12+ δικαιόω uses in 35 verses)?
 
 ---
@@ -211,7 +211,7 @@ Versus the neutral-bodily 2:20:
 **The textual question:** GAL 3:24's `ὁ νόμος παιδαγωγὸς ἡμῶν γέγονεν εἰς Χριστόν` has a famous εἰς + accusative ambiguity:
 
 1. **Temporal** ("until Christ [arrives]") — the law's pedagogue-role TERMINATED at Christ's coming. NIV/ESV/CSB.
-2. **Directional** ("to Christ" / "leading us to Christ") — the law's pedagogue-role escorted us toward Christ. KJV / older Reformed expository tradition. THSV1971.
+2. **Directional** ("to Christ" / "leading us to Christ") — the law's pedagogue-role escorted us toward Christ. KJV / older Reformed expository tradition. standard Thai.
 
 The translation chose **temporal**:
 - GK: `ὥστε ὁ νόμος παιδαγωγὸς ἡμῶν γέγονεν εἰς Χριστόν, ἵνα ἐκ πίστεως δικαιωθῶμεν`

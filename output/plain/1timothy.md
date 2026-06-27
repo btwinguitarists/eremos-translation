@@ -130,7 +130,7 @@ _ฉบับเอเรมอสยึดต้นฉบับวิจาร�
 
 ต้นฉบับที่รวมไว้: TR, Byzantine majority (Θεός): A^c C^c D^c K L Ψ 0150 81^c 104 365 630 1175 1241 1505 𝔐, KJV, NKJV, THKJV — also nearly all printed editions of TR + Stephanus 1550
 
-ต้นฉบับที่ละไว้: SBLGNT, NA28, UBS5 (Ὃς): א* A* C* F G 33 365* 442 1175* 2127 syr^hmg cop^sa cop^bo arm geo eth Origen Cyril, BSB, ESV, NIV, NASB, CSB, NRSV, THSV (modern ed.)
+ต้นฉบับที่ละไว้: SBLGNT, NA28, UBS5 (Ὃς): א* A* C* F G 33 365* 442 1175* 2127 syr^hmg cop^sa cop^bo arm geo eth Origen Cyril, BSB, ESV, NIV, NASB, CSB, NRSV, standard Thai (modern ed.)
 
 
 ---

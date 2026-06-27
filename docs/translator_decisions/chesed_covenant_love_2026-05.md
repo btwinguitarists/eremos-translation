@@ -38,7 +38,7 @@
 
 - **ความรัก** ('love') captures the affectionate-relational core of chesed.
 - **มั่นคง** ('steadfast, firm, faithful, enduring') captures the covenant-fidelity dimension.
-- The compound is established in Thai Christian vocabulary (THSV, NTV, TNCV all converge on "ความรักมั่นคง" or close variants).
+- The compound is established in Thai Christian vocabulary (mainstream Thai versions all converge on "ความรักมั่นคง" or close variants).
 - Distinguishes from generic mercy (พระเมตตา = רחמים) and grace (พระคุณ = חן).
 
 ### 2.3 What we deliberately reject

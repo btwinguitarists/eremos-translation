@@ -16,7 +16,7 @@ Translator's notes (verbatim):
 
 > TEXTUAL VARIANT: SBLGNT preserves the 'guides of blind' reading (also in D, W, Θ, Byzantine text). Alexandrian witnesses (B, 0237, f1) omit 'τυφλῶν' (of blind). Both readings deliver the same sense; SBLGNT's longer form is more rhetorically forceful — 'they are blind leaders of blind people.' Also parallel in Luke 6:39. βόθυνος low-frequency (3× NT: MT 12:11, 15:14, Luke 6:39) — likely Hebraic-origin (cf. בר Hebrew pit). The proverb may draw on Proverbs 26:27 (digger-of-pit falls in) or ancient Near-Eastern 'blind leading blind' sayings.
 
-**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai (THSV) follow the same shorter reading; reader-trust is preserved.
+**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai versions follow the same shorter reading; reader-trust is preserved.
 
 ---
 

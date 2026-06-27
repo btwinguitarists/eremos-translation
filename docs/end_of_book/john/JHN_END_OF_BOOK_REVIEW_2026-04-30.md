@@ -116,17 +116,17 @@ This is the only Johannine doubled-amen in JHN that uses the older Synoptic-styl
 (a) **Deliberate Thai-naturalness softening** of a SBLGNT-faithful οὐκ. If so, document at 7:8 KD as principled exception ("Greek text-critically chosen οὐκ; Thai contextual rendering ยังไม่ to preserve ethical-coherence reading").
 (b) **Drift** — Thai rendering effectively translates the rejected οὔπω textual choice. Should revise to plain "ไม่" (or restructure: "เราไม่ขึ้นไปยังเทศกาลนี้ [ในตอนนี้]" with bracketed clarifier).
 
-**Ben to decide.** This is a high-visibility verse — first thing a textually-aware Thai reader who compares against KJV/THSV will notice ("why does THSV say ยัง but you say ยัง too — wait, didn't you choose SBLGNT?"). Recommend the project's editorial stance be made explicit either way.
+**Ben to decide.** This is a high-visibility verse — first thing a textually-aware Thai reader who compares against KJV/standard Thai will notice ("why does standard Thai say ยัง but you say ยัง too — wait, didn't you choose SBLGNT?"). Recommend the project's editorial stance be made explicit either way.
 
 ---
 
 ## 6. JHN 1:34 — ἐκλεκτός variant — **REVIEW (confirm against evangelical-Thai reader-expectation)**
 
-**Major textual variant:** SBLGNT (followed here) reads `ὁ ἐκλεκτὸς τοῦ θεοῦ` ("the Chosen One of God"); NA28, TR, Byzantine majority, KJV, BSB, NIV, ESV, CSB, THSV1971 all read `ὁ υἱὸς τοῦ θεοῦ` ("the Son of God"). The translator's choice follows SBLGNT (per RULES §0); rendering is **"ผู้ที่พระเจ้าทรงเลือกสรร"** with full textual-variant note at the verse-level.
+**Major textual variant:** SBLGNT (followed here) reads `ὁ ἐκλεκτὸς τοῦ θεοῦ` ("the Chosen One of God"); NA28, TR, Byzantine majority, KJV, BSB, NIV, ESV, CSB, standard Thai all read `ὁ υἱὸς τοῦ θεοῦ` ("the Son of God"). The translator's choice follows SBLGNT (per RULES §0); rendering is **"ผู้ที่พระเจ้าทรงเลือกสรร"** with full textual-variant note at the verse-level.
 
 **Editorial weight:** This is one of two verses in JHN where the SBLGNT reading diverges from the entire mainstream evangelical English-Bible tradition (the other being 1:18 μονογενὴς θεός, where SBLGNT diverges only from KJV/TR). The 1:34 divergence is more visible because **NA28 itself** sides with υἱός — meaning even the standard scholarly critical text disagrees with SBLGNT here.
 
-**REVIEW flag:** Confirm Ben endorses the SBLGNT-strict choice at 1:34 against the unanimous Thai-evangelical reader expectation (THSV/NTV/ERV-Thai all use "พระบุตรของพระเจ้า"). The verse-level `notes` lay out the manuscript evidence comprehensively (P5 + ℵ* + Old Latin + Old Syriac for ἐκλεκτός vs. P66 + P75 + ℵ² + A + B + C + K + L for υἱός — overwhelming numerical advantage to υἱός). The rendering is defensible-and-well-documented, but **likely to be one of the most flagged verses by Thai theological reviewers**. Worth either (a) confirming + adding a footer-note for reader expectation management, or (b) revising to follow NA28 + the unanimous mainstream.
+**REVIEW flag:** Confirm Ben endorses the SBLGNT-strict choice at 1:34 against the unanimous Thai-evangelical reader expectation (mainstream Thai versions all use "พระบุตรของพระเจ้า"). The verse-level `notes` lay out the manuscript evidence comprehensively (P5 + ℵ* + Old Latin + Old Syriac for ἐκλεκτός vs. P66 + P75 + ℵ² + A + B + C + K + L for υἱός — overwhelming numerical advantage to υἱός). The rendering is defensible-and-well-documented, but **likely to be one of the most flagged verses by Thai theological reviewers**. Worth either (a) confirming + adding a footer-note for reader expectation management, or (b) revising to follow NA28 + the unanimous mainstream.
 
 ---
 

@@ -16,7 +16,7 @@ Translator's notes (verbatim):
 
 > **TWO HAPAX**: ὁροθεσία + κατοικία (both v.26 only NT occurrences). **OT ALLUSIONS**: GEN 1:27, 2:7 (one-man Adam), DEU 32:8 LXX (boundaries of nations), PSA 74:17 (set the borders). Anti-autochthony (counter to Athenian ethnic-pride). The textual-variant ἐξ ἑνός / ἐξ ἑνὸς αἵματος noted — SBLGNT shorter reading followed.
 
-**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai (THSV) follow the same shorter reading; reader-trust is preserved.
+**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai versions follow the same shorter reading; reader-trust is preserved.
 
 ---
 

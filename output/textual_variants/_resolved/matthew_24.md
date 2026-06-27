@@ -16,7 +16,7 @@ Translator's notes (verbatim):
 
 > TEXTUAL VARIANT: οὐδὲ ὁ υἱός ('nor the Son') — SBLGNT, NA28, Westcott-Hort, UBS all retain; Byzantine majority (and some modern Greek witnesses like Codex Washingtonianus) omit, likely due to Christological embarrassment about the Son not knowing. The parallel Mark 13:32 retains the phrase with wider textual support — which is the best evidence Matthew originally had it. We include, following critical consensus. Parallel: Mark 13:32 (where the reading is secure).
 
-**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai (THSV) follow the same shorter reading; reader-trust is preserved.
+**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai versions follow the same shorter reading; reader-trust is preserved.
 
 ---
 

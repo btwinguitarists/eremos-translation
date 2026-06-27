@@ -28,7 +28,7 @@ Recommended action: Lock สนับสนุน as-is. Move the note regarding
 Item D: ὁ φιλοπρωτεύων → ผู้ที่ใฝ่หาความเป็นใหญ่ at 3 JN 1:9: Johannine-coined hapax rendering
 
 Verdict: FINE
-Reasoning: ใฝ่หาความเป็นใหญ่ excellently captures the active, relentless pursuit inherent in both the present participle (ὁ φιλοπρωτεύων) and the φιλο- (love/affection for) prefix. Reverting to THSV's อยากเป็นใหญ่ makes the action too passive and internal, losing the aggressive ambition John is critiquing.
+Reasoning: ใฝ่หาความเป็นใหญ่ excellently captures the active, relentless pursuit inherent in both the present participle (ὁ φιλοπρωτεύων) and the φιλο- (love/affection for) prefix. Reverting to standard Thai's อยากเป็นใหญ่ makes the action too passive and internal, losing the aggressive ambition John is critiquing.
 Recommended action: Lock as-is. The slight elevation in register is justified for a NT hapax legomenon and successfully distinguishes this specific Johannine theological-vocabulary from generic ambition.
 
 Item E: "the Name" absolute Christological reference at 3 JN 1:7: surfacing strategy
@@ -101,7 +101,7 @@ _(Grok pass added 2026-06-21 via Cowork; Gemini + ChatGPT sections above are the
 
 **## Item D: ὁ φιλοπρωτεύων → ผู้ที่ใฝ่หาความเป็นใหญ่**
 **Verdict:** FINE
-**Reasoning:** **ใฝ่หาความเป็นใหญ่** faithfully renders the active φιλο- ("love/pursue") + πρωτεύω compound hapax, stronger and more agentive than THSV-style **อยากเป็นใหญ่** or "likes to be first" glosses. It preserves the ambition-for-primacy force without softening to general "ทะเยอทะยาน." Literary register fits the pastoral letter's elevated tone and Johannine style; hapax status in Eremos corpus is appropriate for theological precision over broad readability. No need for further lexical reservation.
+**Reasoning:** **ใฝ่หาความเป็นใหญ่** faithfully renders the active φιλο- ("love/pursue") + πρωτεύω compound hapax, stronger and more agentive than standard Thai-style **อยากเป็นใหญ่** or "likes to be first" glosses. It preserves the ambition-for-primacy force without softening to general "ทะเยอทะยาน." Literary register fits the pastoral letter's elevated tone and Johannine style; hapax status in Eremos corpus is appropriate for theological precision over broad readability. No need for further lexical reservation.
 **Recommended action:** Lock as-is.
 
 **## Item E: "the Name" absolute Christological reference**

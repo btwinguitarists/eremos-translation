@@ -42,7 +42,7 @@ The 1:2 KD states the choice and its provisional status explicitly:
 **Editorial assessment.** The rendering is principled, internally consistent (a single word carries the refrain across all 30 verses, preserving the leitwort that `leitwort_handling_policy_2026-05.md` exists to protect), and aligned with the corpus's standing avoidance of Buddhist-loaded vocabulary: across **33 prior *hevel* verses** outside Ecclesiastes the corpus has *never* used อนิจจัง (*anicca*), instead rendering contextually (ลมหายใจ Ps 144:4, ไอหมอก Prov 21:6, เปล่าประโยชน์ Job, ไร้สาระ Ps 94:11, ไม่จีรัง Prov 31:30, มายา Ps 62:10). ไร้แก่นสาร extends that avoidance while gaining what the scattered renderings could not: a recognisable book-wide refrain.
 
 **Why it is DECIDE, not STABLE.** Ben explicitly opened this as a pending decision and authorized *ship-provisional* precisely so the translation loop would not stall: chapters shipped with ไร้แก่นสาร flagged PROVISIONAL, and the verdict from his two Thai readers (short EN+TH question texts sent 2026-06-03) was still outstanding at the time the book completed. Three options were on the table:
-1. **อนิจจัง** consistent — traditional, THSV-familiar, but Buddhist-loaded (*anicca*);
+1. **อนิจจัง** consistent — traditional, standard Thai-familiar, but Buddhist-loaded (*anicca*);
 2. **ไร้แก่นสาร** consistent — non-Buddhist, preserves the 30-verse refrain (the shipped provisional, translator's recommendation);
 3. **contextual** per-verse — natural locally, loses the refrain.
 
@@ -134,7 +134,7 @@ A genuine three-way lexical crux. הָעֹלָם at 3:11 is read by interpreters
 - ECC 3:11 HEB: `גַּם אֶת־הָעֹלָם נָתַן בְּלִבָּם` → TH: `ทั้งทรงตั้ง**นิรันดร์กาล**ไว้ในใจของพวกเขา`
 - Note: *"הָעֹלָם ตีความได้หลายทาง (นิรันดร์กาล/โลก/สิ่งที่ถูกซ่อน) — เลือก 'นิรันดร์กาล' ตามฉบับแปลหลักและบริบท 'ต้นจนจบ'."*
 
-**REVIEW.** The choice aligns with NIV/ESV/CSB/THSV ("eternity") and the immediate context (מֵרֹאשׁ וְעַד־סוֹף, "from beginning to end" → ต้นจนจบ) supports a temporal-totality reading. Defensible and mainstream; flagged only because it is a contested crux where the alternatives are real and the rendering closes them. Worth Ben's confirmation that the temporal reading is the corpus default.
+**REVIEW.** The choice aligns with NIV/ESV/CSB/standard Thai ("eternity") and the immediate context (מֵרֹאשׁ וְעַד־סוֹף, "from beginning to end" → ต้นจนจบ) supports a temporal-totality reading. Defensible and mainstream; flagged only because it is a contested crux where the alternatives are real and the rendering closes them. Worth Ben's confirmation that the temporal reading is the corpus default.
 
 ---
 

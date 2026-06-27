@@ -107,19 +107,19 @@ Eremos Translation is an **evangelical Protestant** Bible translation project. T
 - **Editorial decisions on contested verses match what major evangelical Protestant translations do**: e.g. Mark 16:9-20 wrapped in disputed-text brackets (matches every major modern evangelical Bible); Mark 14:24 reads "blood of the covenant" (matches ESV); Mark 1:41 "indignant / angered" (the harder reading SBLGNT prints, matching CSB and ESV-with-footnote).
 - **License-driven openness, not theology-driven ecumenism**: the CC0 license means Bibles, apps, and ministries from any tradition may use the translation freely, but the **editorial decisions are evangelical Protestant** — not ecumenical-syncretist or doctrinally neutral.
 
-If you're a Thai pastor reviewing the translation: this is meant to sit comfortably alongside THSV / NTV in your shelf — same canon, same family of source text, same translation philosophy as the modern evangelical Bibles you already trust. The differentiators are licensing (CC0) and process transparency (every decision audited in git), not theology.
+If you're a Thai pastor reviewing the translation: this is meant to sit comfortably alongside the modern Thai Bibles you already trust — same canon, same family of source text, same translation philosophy as the evangelical Bibles on your shelf. The differentiators are licensing (CC0) and process transparency (every decision audited in git), not theology.
 
 ---
 
 ## What makes this different from existing Thai Bible translations
 
-Thailand already has THSV (Thai Standard Version 2011) and NTV (New Thai Version), both copyrighted. Eremos Translation is different in three specific ways:
+Thailand already has excellent modern Thai Bibles, but they are copyrighted. Eremos Translation is different in three specific ways:
 
 1. **CC0 license** — no permissions, no fees, no derivative-restrictions. Anyone can use any verse anywhere, free.
 2. **Full transparency** — every translation decision is documented at the verse level: which Greek word, what alternatives existed, why this Thai rendering. Reviewable in `output/translations/*.json`.
 3. **AI-assisted with human-validated cadence** — produced by Claude Opus under disciplined sourcing rules, not committee discussion. Auditable via the check reports and GPG-signed git history.
 
-It is **not** a competitor to THSV/NTV; it's an alternative for use cases that require open license (apps, education, derivative works, redistribution). The translation philosophy is "optimal equivalence" — same as BSB in English.
+It is **not** a competitor to the established Thai Bibles; it's an alternative for use cases that require open license (apps, education, derivative works, redistribution). The translation philosophy is "optimal equivalence" — same as BSB in English.
 
 ---
 

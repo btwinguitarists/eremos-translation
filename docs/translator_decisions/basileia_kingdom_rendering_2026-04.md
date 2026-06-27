@@ -39,7 +39,7 @@ Matthean τῶν οὐρανῶν is a possessive-style Greek genitive that Thai
 **อาณาจักรสวรรค์ (chosen):**
 - Compact; matches Thai preference for noun compounds over prepositional periphrasis.
 - Reads as a proper-noun-ish phrase, which suits Matthew's stock-formula character.
-- THSV and NTV use this form; familiar to Thai readers.
+- standard Thai and ฉบับแปลไทย use this form; familiar to Thai readers.
 
 ## Forward implications
 

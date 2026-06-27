@@ -40,7 +40,7 @@ The narrator varies the divine name across the four occurrences (יהוה → י
 
 - **ทรง-** preserves the Rachasap (royal Thai) register required for divine subjects.
 - **จัดเตรียม** ("prepare, arrange, designate, ready") captures both senses of מָנָה: (a) bring-into-being for a purpose; (b) appoint-with-task. The Pi'el intensification (vs Qal's "count, number") supports the "purposeful appointment" sense.
-- The compound is established in Thai Christian vocabulary (THSV uses "ทรงเตรียม" for Jonah 1:17/2:1; we use the slightly stronger "ทรงจัดเตรียม" to capture the Pi'el-intensive force).
+- The compound is established in Thai Christian vocabulary (standard Thai uses "ทรงเตรียม" for Jonah 1:17/2:1; we use the slightly stronger "ทรงจัดเตรียม" to capture the Pi'el-intensive force).
 
 ### 3.1 What we deliberately reject
 

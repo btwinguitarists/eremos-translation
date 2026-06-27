@@ -14,17 +14,17 @@
         {
           "hebrew": "דִּבְרֵי יִרְמְיָהוּ",
           "rendering": "ถ้อยคำของเยเรมีย์",
-          "rationale": "divrê = 'words/acts of' — superscription head governing the whole book. יִרְמְיָהוּ → เยเรมีย์ per proper_names_and_transliteration_2026-05.md (THSV11 baseline); the prophet is referenced with plain register (no ราชาศัพท์) per ot_register_policy §2.2 — prophets are servants of God, not kings."
+          "rationale": "divrê = 'words/acts of' — superscription head governing the whole book. יִרְמְיָהוּ → เยเรมีย์ per proper_names_and_transliteration_2026-05.md (baseline); the prophet is referenced with plain register (no ราชาศัพท์) per ot_register_policy §2.2 — prophets are servants of God, not kings."
         },
         {
           "hebrew": "חִלְקִיָּהוּ",
           "rendering": "ฮิลคียาห์",
-          "rationale": "Hilkiah (Jeremiah's father, a priest) → ฮิลคียาห์ (THSV11 baseline). Not to be conflated with the later high priest Hilkiah of 2 Kgs 22 — the text gives no such identification."
+          "rationale": "Hilkiah (Jeremiah's father, a priest) → ฮิลคียาห์ (baseline). Not to be conflated with the later high priest Hilkiah of 2 Kgs 22 — the text gives no such identification."
         },
         {
           "hebrew": "בַּעֲנָתוֹת בְּאֶרֶץ בִּנְיָמִן",
           "rendering": "ในอานาโธทในแผ่นดินของเบนยามิน",
-          "rationale": "עֲנָתוֹת Anathoth → อานาโธท; a Levitical/priestly town (Josh 21:18) in בִּנְיָמִן Benjamin → เบนยามิน, both per the THSV11 baseline. Names locate Jeremiah within the displaced Elide priestly line (cf. 1 Kgs 2:26, Abiathar exiled to Anathoth)."
+          "rationale": "עֲנָתוֹת Anathoth → อานาโธท; a Levitical/priestly town (Josh 21:18) in בִּנְיָמִן Benjamin → เบนยามิน, both per the แบบมาตรฐานทั่วไป. Names locate Jeremiah within the displaced Elide priestly line (cf. 1 Kgs 2:26, Abiathar exiled to Anathoth)."
         }
       ],
       "notes": "Superscription (vv. 1–3, third-person editorial frame; Jeremiah's first-person voice begins v. 4). Anathoth's priestly setting frames the irony that a priest's son is sent to indict the temple establishment."
@@ -55,7 +55,7 @@
         {
           "hebrew": "יֹאשִׁיָּהוּ בֶן־אָמוֹן מֶלֶךְ יְהוּדָה",
           "rendering": "โยสิยาห์บุตรของอาโมนกษัตริย์แห่งยูดาห์",
-          "rationale": "יֹאשִׁיָּהוּ → โยสิยาห์, אָמוֹן → อาโมน, יְהוּדָה → ยูดาห์ per THSV11 baseline. King named only as a temporal anchor (no action verb), so no ราชาศัพท์ verb is marked; the king's office is dignified with พระองค์ in the date-phrase per ot_register_policy §1.1."
+          "rationale": "יֹאשִׁיָּהוּ → โยสิยาห์, אָמוֹן → อาโมน, יְהוּדָה → ยูดาห์ per แบบมาตรฐานทั่วไป. King named only as a temporal anchor (no action verb), so no ราชาศัพท์ verb is marked; the king's office is dignified with พระองค์ in the date-phrase per ot_register_policy §1.1."
         }
       ],
       "notes": "First occurrence of יהוה in the chapter — see the Tetragrammaton-convention footnote in output/textual_variants/jeremiah_01.json (Layer 2). Josiah's 13th year (~627 BC) dates the call."
@@ -76,7 +76,7 @@
         {
           "hebrew": "יְהוֹיָקִים … צִדְקִיָּהוּ",
           "rendering": "เยโฮยาคิม … เศเดคียาห์",
-          "rationale": "יְהוֹיָקִים → เยโฮยาคิม, צִדְקִיָּהוּ → เศเดคียาห์ per THSV11 baseline (both sons of Josiah). No real Tetragrammaton appears in this verse — יְהוֹיָקִים/יֹאשִׁיָּהוּ/צִדְקִיָּהוּ/יְהוּדָה only resemble it; therefore no Layer-1 YHWH key-decision is added here. (Ellipsis marks two non-contiguous king-names.)"
+          "rationale": "יְהוֹיָקִים → เยโฮยาคิม, צִדְקִיָּהוּ → เศเดคียาห์ per แบบมาตรฐานทั่วไป (both sons of Josiah). No real Tetragrammaton appears in this verse — יְהוֹיָקִים/יֹאשִׁיָּהוּ/צִדְקִיָּהוּ/יְהוּדָה only resemble it; therefore no Layer-1 YHWH key-decision is added here. (Ellipsis marks two non-contiguous king-names.)"
         },
         {
           "hebrew": "עַד־גְּלוֹת יְרוּשָׁלִַם",

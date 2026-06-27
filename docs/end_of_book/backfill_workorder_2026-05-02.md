@@ -35,7 +35,7 @@ Other corpus-wide gaps (Mark 11:26, 15:28; Luke 17:36; ~30 other audit-flagged c
 
 **Witnesses (use these verbatim):**
 - **Include:** Byzantine majority, A, C³, K, L, X, Δ, Θ, Ψ, 063, 078, f¹, f¹³, lat (most), sy^p, sy^h, KJV, THKJV
-- **Omit:** 𝔓⁶⁶, 𝔓⁷⁵, ℵ, B, C*, D, T, W, 0125, 0141, sa, bo (most), most modern English (BSB, ESV, NIV, CSB), modern Thai THSV
+- **Omit:** 𝔓⁶⁶, 𝔓⁷⁵, ℵ, B, C*, D, T, W, 0125, 0141, sa, bo (most), most modern English (BSB, ESV, NIV, CSB), modern Thai standard Thai
 
 **Notes for translator:**
 - Note also that v.3b ("waiting for the moving of the water") is part of the same inclusion variant. Per `output/translations/john_05.json` v.3 notes, the existing translator intent was to bundle 5:3b and 5:4 as a single inclusion-variant unit in the Tier 2 footer — match that intent. Both pieces of contested text go into the same Tier 2 entry's `tr_byz_thai` (or as a single `verse: 4` entry whose explanation references the v.3b boundary).
@@ -68,7 +68,7 @@ Other corpus-wide gaps (Mark 11:26, 15:28; Luke 17:36; ~30 other audit-flagged c
 **Recommendation: Tier 3.** Reasons:
 - The doxology is the closing of Romans for almost every English Bible reader and a doctrinally-important passage (Pauline mystery / nations / faith-obedience / glory-Christology).
 - Quantitatively closer to Mark 16:9-20 than to a single-verse Matthew 17:21.
-- A reader of THSV / KJV / NKJV will absolutely look for it at the end of Romans.
+- A reader of standard Thai / KJV / NKJV will absolutely look for it at the end of Romans.
 
 **If Tier 3:** add three new entries to `output/translations/romans_16.json` (verses 25, 26, 27). Open `⟦` at start of v.25's `thai`, close `⟧` at end of v.27's `thai`. Match the bracketing pattern of `output/translations/mark_16.json` v.9 (open) and v.20 (close).
 

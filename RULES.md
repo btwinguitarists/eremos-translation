@@ -45,7 +45,7 @@ When pillars conflict, **accuracy wins**, with naturalness documented as a trade
 
 **Never read during translation**:
 
-- Any copyrighted Thai translation (THSV, NTV, ERV Thai, TNCV)
+- Any copyrighted Thai translation
 - TNBT (CC-BY-SA) — see §8 for why
 - Any copyrighted commentary
 - unfoldingWord TW wording (CC-BY-SA) — reference permitted, but any paraphrase must be in Claude's own words (see §8)
@@ -127,9 +127,9 @@ Every verse translation must include explicit entries for:
 
 ### Inclusion-variant convention (revised 2026-04-20 — Path A lock)
 
-When SBLGNT's apparatus flags an **inclusion variant** — text SBLGNT's main text omits but other manuscript traditions (TR/Byz, NA28-margin, KJV/THKJV, sometimes THSV) include — three tiers apply, matching what BSB / ESV / NIV / CSB do for the critical-text English market.
+When SBLGNT's apparatus flags an **inclusion variant** — text SBLGNT's main text omits but other manuscript traditions (TR/Byz, NA28-margin, KJV/THKJV, sometimes other Thai versions) include — three tiers apply, matching what BSB / ESV / NIV / CSB do for the critical-text English market.
 
-**Reader-trust rationale:** if Thai readers expect text from THSV / THKJV / their childhood Bible and we silently omit, they read the omission as our editorial overreach. Each tier surfaces the contested text honestly, in the form most appropriate to its scale and manuscript weight.
+**Reader-trust rationale:** if Thai readers expect text from THKJV / their childhood Bible and we silently omit, they read the omission as our editorial overreach. Each tier surfaces the contested text honestly, in the form most appropriate to its scale and manuscript weight.
 
 #### Tier 1 — Short-phrase inclusion variants → single Thai brackets `[...]`
 
@@ -178,7 +178,7 @@ Currently:
 - Word-choice variants (we picked word A, mainstream picked word B) — go in `thai_summary` only.
 - Variants where modern critical-text consensus matches our practice — silent omission with no surprise to mainstream readers; no special treatment needed. Explicit list (extended 2026-05-02): Mark 7:16, 9:44, 9:46, 11:26, 15:28; Luke 17:36. Each post-2026-05-02 case has a dismissal doc at `output/textual_variants/_resolved/<slug>_<NN>_v<V>.md` recording the manuscript witnesses and the reasoning.
 
-**For future books:** run `scripts/audit_inclusion_variants.py` to surface candidate verses; assign each to the correct tier based on (a) phrase vs. whole-verse vs. large-block, (b) manuscript weight, (c) what THSV/THKJV/mainstream Thai Bibles do.
+**For future books:** run `scripts/audit_inclusion_variants.py` to surface candidate verses; assign each to the correct tier based on (a) phrase vs. whole-verse vs. large-block, (b) manuscript weight, (c) what THKJV/mainstream Thai Bibles do.
 
 **End-of-book strict gate (added 2026-05-02):** `scripts/run_end_of_book_audit.sh` runs `audit_inclusion_variants.py --book <slug> --strict` before generating the audit prompt for Claude. The gate exits non-zero if any candidate lacks a disposition (Tier 1 / Tier 2 / Tier 3 / silent-omission per RULES §5 / `_resolved/` doc). This was added after Romans 16:25-27 (the doxology) and John 5:4 (Bethesda angel) were silently dropped without follow-through; full incident write-up at `docs/end_of_book/inclusion_variant_gap_2026-05-02.md`. Override via environment variable `SKIP_INCLUSION_VARIANT_GATE=1` only for an explicit policy decision.
 
@@ -210,7 +210,7 @@ Luke 24 contains the traditional cluster of **Westcott-Hort's "Western non-inter
 - **Do NOT apply to**: `greek`, `bsb_english`, `reference` (source fields stay pristine).
 - For mixed-language fields (`translation.notes`, `translation.key_decisions[].rationale`, `translation.key_decisions[].greek`): use the same convention for any Thai content; preserve real English apostrophes (`it's`, `don't`) as straight `'`.
 
-This matches modern Thai publishing convention (TNCV, NTV) and what an educated Thai reader expects in a polished biblical text.
+This matches modern Thai publishing convention and what an educated Thai reader expects in a polished biblical text.
 
 **Why this is the convention** (added 2026-04-27): the corpus drifted into three inconsistent quote conventions across its first 100 chapters — guillemets `«»` / `‹›` in Matthew/Luke/John/Acts/1 Timothy, straight `'` outer + `"` nested in Mark 1–7, and straight `"` outer + `'` nested in Mark 8+. PR #51 unified the entire corpus to curly `“”` / `‘’` via mechanical conversion + per-chapter detection of Mark's drifting outer character. Going forward, all new chapters must use this convention from the start.
 
@@ -333,7 +333,7 @@ Ben is the project lead and screens prospective reviewers. Approved reviewers ar
 ## 10. Copyright boundary (hard limits)
 
 - Our translation is **CC0** (public domain). Anyone can use it, reprint it, modify it, commercialize it.
-- We NEVER read or reference copyrighted Thai translations during drafting. Post-draft comparison against copyrighted translations (e.g., "is our Mark 1:1 wildly different from THSV's?") would be standard scholarly practice but is **currently out of scope** for this pipeline because we lack legal access to automated copies. If someone has legitimate access to THSV, they can do manual spot-checks for egregious divergences — but this is not part of the automated pipeline.
+- We NEVER read or reference copyrighted Thai translations during drafting. Post-draft comparison against copyrighted translations (e.g., "is our Mark 1:1 wildly different from a copyrighted Thai version's?") would be standard scholarly practice but is **currently out of scope** for this pipeline because we lack legal access to automated copies. If someone has legitimate access to such a version, they can do manual spot-checks for egregious divergences — but this is not part of the automated pipeline.
 - TNBT (CC-BY-SA) is used for structural-only comparison per §8. We do not copy TNBT wording, so we do not inherit CC-BY-SA.
 - unfoldingWord resources (CC-BY-SA) can be referenced as a scholarly aid (key-term definitions, translation notes in English). Same rule: don't copy wording; use for understanding.
 - Scholarly commentaries (for exegesis) may be consulted but their wording is never copied.

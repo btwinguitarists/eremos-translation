@@ -246,7 +246,7 @@ The 3:5 KD names the editorial choice + flags the construction-debate:
 The thai_summary explicitly embraces interpretation (a) for the **first** half ("'การชำระล้างแห่งการบังเกิดใหม่' มักถูกเข้าใจว่าหมายถึงประสบการณ์การรับบัพติศมาในฐานะสัญลักษณ์ภายนอกของการบังเกิดใหม่ภายในโดยพระวิญญาณ"). This is the **historical-mainstream-evangelical** reading (baptism-as-symbol-of-regeneration; Spirit-as-effecting-agent), but:
 
 (1) The thai_summary commits to a baptismal-symbol-interpretation that the main text leaves grammatically open
-(2) Thai-evangelical readers shaped by THSV / TNCV (which also use **การชำระล้างแห่งการบังเกิดใหม่** but typically without baptism-thai_summary commitment) may find the explicit baptismal-frame editorially-strong
+(2) Thai-evangelical readers shaped by ฉบับแปลไทย (which also use **การชำระล้างแห่งการบังเกิดใหม่** but typically without baptism-thai_summary commitment) may find the explicit baptismal-frame editorially-strong
 
 **Recommend: REVIEW** — confirm with Ben on two sub-questions:
 1. Is the slight (b)-leaning + **โดย-marked Spirit-agency** the right corpus-default for the construction, or should the Thai preserve a more (a)-style ambiguity (e.g., **การชำระล้างแห่งการบังเกิดใหม่และการสร้างใหม่โดยพระวิญญาณบริสุทธิ์** without the **และ** event-separator, leaning toward "the washing-of-rebirth-and-renewal-by-the-Spirit" as a single complex genitive)?

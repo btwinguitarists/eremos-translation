@@ -15,7 +15,7 @@
 1. **Modern evangelical critical-text consensus matches our practice:** SBLGNT, NA28, UBS5 all omit. BSB, ESV, NIV, CSB all omit (most footnote).
 2. **Almost certainly scribal harmonization from Matthew 24:40-41.** Matthew has both "two in the field" (24:40) and "two grinding at the mill" (24:41); Luke has only "two in one bed" (Luke 17:34) and "two grinding together" (17:35). A scribe completing the parallel triplet by adding "two in the field" from Matthew is a textbook harmonization. This is reflected in the witness pattern: even most Byzantine MSS omit, suggesting the addition is scribal rather than from any early text-form.
 3. **Theological substance is preserved.** Luke's two-in-one-bed and two-grinding-pairs already establish the "one taken, one left" pattern. Adding the field-pair is rhetorical completion, not theological information.
-4. **Mainstream Thai translations** (THSV current edition) follow modern critical text and omit; THKJV includes. The omission is unsurprising to Thai readers cross-referencing the more common THSV.
+4. **Mainstream Thai translations** (standard Thai current edition) follow modern critical text and omit; THKJV includes. The omission is unsurprising to Thai readers cross-referencing the more common standard Thai.
 
 **Decision (RULES §5 category 4):** silent omission. No Tier 1/2/3 footer needed.
 

@@ -16,7 +16,7 @@ Translator's notes (verbatim):
 
 > Levites served in the Temple (Num 3:6-9) and had purity-concerns similar to priests (though slightly less strict per Ezek 44:25-27). The priest+Levite pair = representative-of-Temple-establishment. Both walked past. The parable builds via triadic-pattern: listeners anticipate the third figure would be a lay-Israelite (completing the priestly-Levitical-Israelite triad). Jesus disrupts expectation with Samaritan — a move analogous to Jesus' frequent upending of expected-categories.
 
-**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai (THSV) follow the same shorter reading; reader-trust is preserved.
+**Disposition:** silent-omission per RULES §5. Mainstream English (BSB/ESV/NIV/CSB) and current Thai versions follow the same shorter reading; reader-trust is preserved.
 
 ---
 
