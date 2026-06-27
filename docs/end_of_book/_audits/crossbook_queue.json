@@ -217,9 +217,10 @@
     "ref_raw": "33:19",
     "issue": "חנן/רחם mapping swapped vs 34:6; Rom 9:15 quotes it",
     "disposition": "DECIDE",
-    "status": "pending",
+    "status": "skipped",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "VERIFIED CONFORMANT: EXO 33:19 = 'ทรงพระคุณ...ทรงพระเมตตา' (חנן→พระคุณ, רחם→เมตตา) — matches 34:6 lock exactly, NOT swapped (sweep claim stale). Rom 9:15 follows LXX (ἐλεέω→เมตตา, οἰκτίρω→สงสาร) — legit MT/LXX divergence, footer-candidate not text-drift."
   },
   {
     "id": "EXO-T2-001",
@@ -305,9 +306,11 @@
     "ref_raw": "15:11",
     "issue": "בָּאֵלִם → ในหมู่พระทั้งหลาย; compounds Deut10:17, Pss82/86/89/95, Job1:6",
     "disposition": "DECIDE",
-    "status": "pending",
+    "status": "proposed",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "pr": 210,
+    "note": "[QUESTION] divine-council 'gods' register: พระ-register consistent for 'gods YHWH surpasses' (15:11/DEU10:17/Ps86:8/95:3), BUT Ps 82:1/82:6 use เทพ-class (บรรดาเทพ/เทพ) which may collide with spiritual_beings_hierarchy lock (เทพ reserved for pagan deities; divine-council must NOT get เทพ). Ps 89:6 בני אלים→ผู้บริสุทธิ์. Q: Ps 82 deliberate or lock-violation? In crossbook_proposals.md §2."
   },
   {
     "id": "EXO-T8-005",
