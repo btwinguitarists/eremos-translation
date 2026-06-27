@@ -110,6 +110,12 @@ Every item cites its governing decision + the **verified** shipped text.
   - **Proposal:** normalize the 27 minority occurrences → `ขนมปังไร้เชื้อ` (OT/corpus-majority). Objective find-replace. _(No explicit lock doc found, but the 102-vs-27 split + OT-base strongly favor `ไร้เชื้อ`.)_
   - _Source: `LEV-T8-003`._
 
+### T8 — Aaronic blessing `חנן` → grace, not mercy (Num 6:25)
+
+- [ ] **Num 6:25 — `ประทานพระเมตตา` → `ประทานพระคุณ`** `[conformance]`
+  - The Aaronic blessing's `וִיחֻנֶּךָּ` ("and be **gracious** to you", root `חנן`) ships `พระเมตตา` ("mercy" = `רחם`). The locked distinction reserves `พระคุณ` for `חן`/`חנן` (grace) and `พระเมตตา` for `רחם` (per `chesed_covenant_love §2.3`; Exod 34 `חַנּוּן`→`ทรงพระคุณ`). → `พระคุณ` (grace).
+  - **Liturgically prominent** (the priestly benediction) — Ben should confirm. _(from `NUM-T8-002`)_
+
 ---
 
 ## 2. New review-questions proposed (decide → formalize as `.yml` in EremosVercel2)
