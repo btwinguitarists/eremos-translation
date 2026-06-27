@@ -106,6 +106,7 @@ BOOKS = {
     "HAB": ("habakkuk", "Habakkuk"),
     "ZEP": ("zephaniah", "Zephaniah"),
     "HAG": ("haggai", "Haggai"),
+    "ZEC": ("zechariah", "Zechariah"),
 }
 
 # OT book codes — the prompt branches on testament so OT packets reference
