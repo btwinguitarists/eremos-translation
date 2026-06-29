@@ -15,9 +15,10 @@
     "ref_raw": "19:19, 21:23, 32:11, 39:21, 40:14",
     "issue": "חֶסֶד drifts to ความเมตตา/พระกรุณา/พระคุณ vs locked ความรักมั่นคง (Ruth→Gen→Jonah→Pss thread)",
     "disposition": "DECIDE",
-    "status": "pending",
+    "status": "skipped",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "VERIFIED: 4/5 already ความรักมั่นคง (19:19,21:23,32:11,39:21). GEN 40:14 ความเมตตา is a LOCKED documented exception (key_decisions: human-human favor no covenant; Genesis EOB §A 2026-05-12, Ben+bilingual reviewers) — charter §1.2 NEVER touch. Sweep drift-claim stale."
   },
   {
     "id": "GEN-T4-001",
@@ -31,9 +32,10 @@
     "ref_raw": "4:8",
     "issue": "LXX/SP/Syr/Vulg plus brought into main text in [brackets] (MT silent); needs MT-vs-LXX policy doc",
     "disposition": "STABLE",
-    "status": "pending",
+    "status": "skipped",
     "priority": 3,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "P2/P3 finish pass (iter 28): footer-gap (OT↔NT/synoptic/textual Layer-2 apparatus — not a Thai-surface drift). Scanned issue+disposition+dedup; finding-candidates verified separately (tail's lone drift = NUM-T8-002)."
   },
   {
     "id": "GEN-T4-002",
@@ -48,9 +50,10 @@
     "ref_raw": "46:27",
     "issue": "MT 70 vs LXX 75; Acts 7:14 cites LXX — Layer-2 footer only",
     "disposition": "STABLE",
-    "status": "pending",
+    "status": "skipped",
     "priority": 3,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "P2/P3 finish pass (iter 28): footer-gap (OT↔NT/synoptic/textual Layer-2 apparatus — not a Thai-surface drift). Scanned issue+disposition+dedup; finding-candidates verified separately (tail's lone drift = NUM-T8-002)."
   },
   {
     "id": "GEN-T4-003",
@@ -65,9 +68,10 @@
     "ref_raw": "47:31",
     "issue": "MT บนหัวเตียง vs LXX \"top of staff\"; Heb 11:21 cites LXX — Layer-2 footer",
     "disposition": "STABLE",
-    "status": "pending",
+    "status": "skipped",
     "priority": 3,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "P2/P3 finish pass (iter 28): footer-gap (OT↔NT/synoptic/textual Layer-2 apparatus — not a Thai-surface drift). Scanned issue+disposition+dedup; finding-candidates verified separately (tail's lone drift = NUM-T8-002)."
   },
   {
     "id": "GEN-T8-002",
@@ -81,9 +85,10 @@
     "ref_raw": "3:15",
     "issue": "protoevangelium הוּא → singular ผู้นั้น (Christological); NT Rom 16:20/Heb 2:14/Rev 12:17",
     "disposition": "REVIEW",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "DOCUMENTED: Gen 3:15 protoevangelium ผู้นั้น (singular, Christological reading) — gender_passages lock precedent; Ben's theological choice. Not a drift."
   },
   {
     "id": "GEN-T8-003",
@@ -97,9 +102,10 @@
     "ref_raw": "3:16",
     "issue": "תְּשׁוּקָה → ความปรารถนา; governs forward gender_passages (Eph5/1Cor11/1Tim2)",
     "disposition": "DECIDE",
-    "status": "pending",
+    "status": "skipped",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "DOCUMENTED/LOCKED: GEN 3:16 teshuqah→ความปรารถนา per gender_passages_thai_register §2.4 + Layer-2 footer (2026-05-12); polysemy across Gen3:16/4:7/Song7:10 preserved by design. Not a drift."
   },
   {
     "id": "GEN-T8-004",
@@ -114,9 +120,10 @@
     "ref_raw": "6:1-4",
     "issue": "בְּנֵי הָאֱלֹהִים literal บุตรของพระเจ้า; ties Job 1:6/Pss 29:1,89:6, NT 2Pet 2:4/Jude 6",
     "disposition": "REVIEW",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "CONFORMANT: בני האלהים → บุตรของพระเจ้า (Gen 6:2 verified; per spiritual_beings_hierarchy line 71 locked literal at Gen6/Job1:6/etc.). Not a drift."
   },
   {
     "id": "GEN-T8-005",
@@ -130,9 +137,10 @@
     "ref_raw": "49:10",
     "issue": "שִׁילֹה translit ชีโลห์ (forecloses messianic); NT Rev 5:5/Heb 7:14",
     "disposition": "REVIEW",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "Ben's theological domain: Shiloh Gen 49:10 transliterated ชีโลห์ (a deliberate interpretive choice on the שילה crux). Documented-style decision; §1.3 don't-overflag content."
   },
   {
     "id": "GEN-T5-001",
@@ -162,9 +170,10 @@
     "ref_raw": "6:6-7",
     "issue": "נָחַם divine-grief ทรงเสียพระทัย vs Jonah relenting-lock ทรงเปลี่ยนพระทัย; needs split",
     "disposition": "REVIEW",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "CONFORMANT: nacham Gen 6:6 grief → ทรงเสียพระทัย (verified) per nicham_divine_relenting sub-sense B; relenting sub-sense A → ทรงเปลี่ยนพระทัย. The 2-sense split is locked. Not a drift."
   },
   {
     "id": "GEN-T6-001",
@@ -181,9 +190,11 @@
     "ref_raw": "44:1,45:1,50:1,50:2",
     "issue": "Joseph (vizier) wrongly royal ทรง-; policy keeps high officials plain",
     "disposition": "REVIEW",
-    "status": "pending",
+    "status": "proposed",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "pr": 210,
+    "note": "[QUESTION, part of T6 king-register] Joseph-vizier possibly wrongly ทรง — §2.5 keeps patriarch/vizier plain. Sub-point of the T6 king-register Q (§2); verify if Ben pursues."
   },
   {
     "id": "EXO-T8-001",
@@ -197,9 +208,10 @@
     "ref_raw": "34:6-7",
     "issue": "Sinai attribute-formula source verse drifts on every component (אֱמֶת ความซื่อสัตย์, ทรงกริ้วช้า); breaks Num14:18/Ps86:15/Joel2:13/Jonah4:2/Neh9:17",
     "disposition": "DECIDE/CRITICAL",
-    "status": "pending",
+    "status": "skipped",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "VERIFIED CONFORMANT: Exod 34:6-7 SOURCE matches its canonical form exactly (ทรงพระเมตตาและทรงพระคุณ ทรงกริ้วช้า ทรงบริบูรณ์ด้วยความรักมั่นคงและความซื่อสัตย์). Sweep 'source drifts on every component' is FALSE/stale. Formula verified consistent corpus-wide (see PSA/NEH/JON/JOL/NUM)."
   },
   {
     "id": "EXO-T8-002",
@@ -214,9 +226,10 @@
     "ref_raw": "33:19",
     "issue": "חנן/רחם mapping swapped vs 34:6; Rom 9:15 quotes it",
     "disposition": "DECIDE",
-    "status": "pending",
+    "status": "skipped",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "VERIFIED CONFORMANT: EXO 33:19 = 'ทรงพระคุณ...ทรงพระเมตตา' (חנן→พระคุณ, רחם→เมตตา) — matches 34:6 lock exactly, NOT swapped (sweep claim stale). Rom 9:15 follows LXX (ἐλεέω→เมตตา, οἰκτίρω→สงสาร) — legit MT/LXX divergence, footer-candidate not text-drift."
   },
   {
     "id": "EXO-T2-001",
@@ -235,9 +248,10 @@
     "ref_raw": "3:2,14:19,23:20,23:23,32:34,33:2",
     "issue": "מַלְאַךְ YHWH rendered 4 ways (ทูตของ- vs ทูตสวรรค์)",
     "disposition": "REVIEW",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "P2/P3 finish pass (iter 28): dup of live review-Q (B_EXO_D_yhwh.yml). Scanned issue+disposition+dedup; finding-candidates verified separately (tail's lone drift = NUM-T8-002)."
   },
   {
     "id": "EXO-T5-001",
@@ -252,9 +266,10 @@
     "ref_raw": "40:20",
     "issue": "כַּפֹּרֶת ที่ลบล้างบาป breaks within-book พระที่นั่งกรุณา; NT ἱλαστήριον Rom3:25/Heb9:5",
     "disposition": "REVIEW",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "P2/P3 finish pass (iter 28): dup of live review-Q (B_EXO_D_yhwh.yml). Scanned issue+disposition+dedup; finding-candidates verified separately (tail's lone drift = NUM-T8-002)."
   },
   {
     "id": "EXO-T8-003",
@@ -268,9 +283,10 @@
     "ref_raw": "17:15",
     "issue": "YHWH-Nissi paraphrased vs Gen 22:14 translit+gloss precedent",
     "disposition": "REVIEW",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "P2/P3 finish pass (iter 28): dup of live review-Q (B_EXO_F_pharaoh.yml). Scanned issue+disposition+dedup; finding-candidates verified separately (tail's lone drift = NUM-T8-002)."
   },
   {
     "id": "EXO-T1-001",
@@ -286,9 +302,10 @@
     "ref_raw": "33:14-15,33:20,33:23",
     "issue": "פָּנִים split — การประทับ (presence) vs ใบหน้า (face) vs locked พระพักตร์",
     "disposition": "REVIEW",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "P2/P3 finish pass (iter 28): dup of live review-Q (B_EXO_F_pharaoh.yml). Scanned issue+disposition+dedup; finding-candidates verified separately (tail's lone drift = NUM-T8-002)."
   },
   {
     "id": "EXO-T8-004",
@@ -302,9 +319,11 @@
     "ref_raw": "15:11",
     "issue": "בָּאֵלִם → ในหมู่พระทั้งหลาย; compounds Deut10:17, Pss82/86/89/95, Job1:6",
     "disposition": "DECIDE",
-    "status": "pending",
+    "status": "proposed",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "pr": 210,
+    "note": "[QUESTION] divine-council 'gods' register: พระ-register consistent for 'gods YHWH surpasses' (15:11/DEU10:17/Ps86:8/95:3), BUT Ps 82:1/82:6 use เทพ-class (บรรดาเทพ/เทพ) which may collide with spiritual_beings_hierarchy lock (เทพ reserved for pagan deities; divine-council must NOT get เทพ). Ps 89:6 בני אלים→ผู้บริสุทธิ์. Q: Ps 82 deliberate or lock-violation? In crossbook_proposals.md §2."
   },
   {
     "id": "EXO-T8-005",
@@ -320,9 +339,10 @@
     "ref_raw": "4:21…14:17 (19×)",
     "issue": "3 Heb roots for Pharaoh's heart collapsed to แข็งกระด้าง; NT Rom9:18/John12:40",
     "disposition": "STABLE",
-    "status": "pending",
+    "status": "skipped",
     "priority": 3,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "P2/P3 finish pass (iter 28): dup of live review-Q (B_EXO_D_yhwh.yml). Scanned issue+disposition+dedup; finding-candidates verified separately (tail's lone drift = NUM-T8-002)."
   },
   {
     "id": "EXO-T7-001",
@@ -354,9 +374,10 @@
     "ref_raw": "12:40",
     "issue": "MT vs LXX/SP \"Egypt and Canaan\"; Gal 3:17 cites LXX/SP — footer absent",
     "disposition": "STABLE",
-    "status": "pending",
+    "status": "skipped",
     "priority": 3,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "P2/P3 finish pass (iter 28): footer-gap (OT↔NT/synoptic/textual Layer-2 apparatus — not a Thai-surface drift). Scanned issue+disposition+dedup; finding-candidates verified separately (tail's lone drift = NUM-T8-002)."
   },
   {
     "id": "EXO-T5-002",
@@ -370,9 +391,10 @@
     "ref_raw": "3:14",
     "issue": "אֶהְיֶה → เราเป็น; ties John 8:24,8:58 ἐγὼ εἰμί",
     "disposition": "REVIEW",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "P2/P3 finish pass (iter 28): dup of live review-Q (B_EXO_D_yhwh.yml). Scanned issue+disposition+dedup; finding-candidates verified separately (tail's lone drift = NUM-T8-002)."
   },
   {
     "id": "EXO-T5-003",
@@ -403,9 +425,10 @@
     "ref_raw": "1-7,16,23 (~168×)",
     "issue": "כִּפֵּר shipped ลบมลทินบาป vs doc ลบบาป/ไถ่บาป; ~50 NUM verses too",
     "disposition": "DECIDE/CRITICAL",
-    "status": "pending",
+    "status": "skipped",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "VERIFIED CONFORMANT (locked, never-touch §1.2): כפר register-split LOCKED + AMENDED 2026-05-16 (sacrificial_vocabulary §5): priestly-purgation LEV→ลบมลทินบาป (impurity+sin fusion), direct-atonement NUM/EX→ลบบาป. Shipped LEV ลบมลทินบาป is the correct priestly form; check_sacrificial_vocab.py enforces split. Sweep 'shipped vs doc ลบบาป/ไถ่บาป' cites the STALE pre-amendment lock. Normalizing would BREAK the locked split."
   },
   {
     "id": "LEV-T8-002",
@@ -420,9 +443,10 @@
     "ref_raw": "25:25",
     "issue": "גֹּאֵל → ญาติสนิทที่สุด drops ไถ่; Ruth ships ญาติผู้ไถ่; Job19:25/Isa/Rom3:24",
     "disposition": "DECIDE",
-    "status": "pending",
+    "status": "skipped",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "VERIFIED CONFORMANT: goel ญาติผู้ไถ่ consistent — LEV 25:25 ญาติผู้ไถ่ (REVISED 2026-05-16 per goel doc), 25:26 ผู้ไถ่ short form, Ruth 2:20/4:14 ญาติผู้ไถ่, Job 19:25 พระผู้ไถ่. ไถ่-root typology preserved redeemer↔divine. Sweep's 'LEV drops ไถ่→ญาติสนิทที่สุด' cites pre-revision form (stale). 25:49 ญาติสนิท = שאר flesh-relative (not goel); Num 35 ผู้แก้แค้นเลือด = avenger role (distinct, expected)."
   },
   {
     "id": "LEV-T8-003",
@@ -436,9 +460,11 @@
     "ref_raw": "23:6",
     "issue": "ขนมปังไม่มีเชื้อ vs corpus-locked ขนมปังไร้เชื้อ (EXO12/LEV/NUM; 1Cor5)",
     "disposition": "REVIEW",
-    "status": "pending",
+    "status": "proposed",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "pr": 210,
+    "note": "[conformance] unleavened bread: normalize ขนมปังไม่มีเชื้อ (×27, NT Passover Matt26/Mk14/Lk22/Acts12 + Josh5) → ขนมปังไร้เชื้อ (×102 OT/corpus-majority). Same institution מצות/αζυμα. In §1."
   },
   {
     "id": "LEV-T8-004",
@@ -453,9 +479,10 @@
     "ref_raw": "25:9-54,27:17-24",
     "issue": "יוֹבֵל → ปีจูบีลี vs ปีโยเบล; Joshua 6 ram's-horn split",
     "disposition": "REVIEW",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "VERIFIED: Jubilee uniformly ปีจูบีลี ×51 (โยเบล ×0). The 'Josh 6 ram's-horn split' is a different SENSE of יובל (ram's-horn vs Jubilee-year), principled. Stale."
   },
   {
     "id": "LEV-T5-001",
@@ -469,9 +496,10 @@
     "ref_raw": "25:10",
     "issue": "דְּרוֹר → อิสรภาพ; deror Jer34/Isa61:1→Lk4:18; LXX ἄφεσις",
     "disposition": "STABLE",
-    "status": "pending",
+    "status": "skipped",
     "priority": 3,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "P2/P3 finish pass (iter 28): STABLE/reviewed: no genuine cross-book drift. Scanned issue+disposition+dedup; finding-candidates verified separately (tail's lone drift = NUM-T8-002)."
   },
   {
     "id": "LEV-T5-002",
@@ -485,9 +513,10 @@
     "ref_raw": "16,17:11",
     "issue": "no Layer-2 footers: kapporet→Heb9:5/Rom3:25, blood-life→Heb9:22, goats→Heb9:28/1Pet2:24/Isa53:6",
     "disposition": "REVIEW",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "P2/P3 finish pass (iter 28): footer-gap (OT↔NT/synoptic/textual Layer-2 apparatus — not a Thai-surface drift). Scanned issue+disposition+dedup; finding-candidates verified separately (tail's lone drift = NUM-T8-002)."
   },
   {
     "id": "LEV-T8-005",
@@ -504,9 +533,10 @@
     "ref_raw": "18:2…20:26 (52×),19:2",
     "issue": "\"I am YHWH\" formula; fwd Ezekiel + John 8 ego eimi; 19:2 omits คือ",
     "disposition": "STABLE",
-    "status": "pending",
+    "status": "skipped",
     "priority": 3,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "P2/P3 finish pass (iter 28): confirms an already-locked thread (conformant). Scanned issue+disposition+dedup; finding-candidates verified separately (tail's lone drift = NUM-T8-002)."
   },
   {
     "id": "LEV-T8-006",
@@ -522,9 +552,10 @@
     "ref_raw": "18:6-18,20:11-21",
     "issue": "\"uncover nakedness\" hybrid; Deut22:30/27:20, Ezek16/22/23, 1Cor5:1",
     "disposition": "STABLE",
-    "status": "pending",
+    "status": "skipped",
     "priority": 3,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "P2/P3 finish pass (iter 28): STABLE/reviewed: no genuine cross-book drift. Scanned issue+disposition+dedup; finding-candidates verified separately (tail's lone drift = NUM-T8-002)."
   },
   {
     "id": "LEV-T5-003",
@@ -557,9 +588,10 @@
     "ref_raw": "7:20…26:30 (18×)",
     "issue": "kareth formula ถูกตัดออก (passive)/ตัดเขาออก (active); EXO/NUM + Acts3:23",
     "disposition": "STABLE",
-    "status": "pending",
+    "status": "skipped",
     "priority": 3,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "P2/P3 finish pass (iter 28): confirms an already-locked thread (conformant). Scanned issue+disposition+dedup; finding-candidates verified separately (tail's lone drift = NUM-T8-002)."
   },
   {
     "id": "NUM-T8-001",
@@ -573,9 +605,10 @@
     "ref_raw": "14:18",
     "issue": "Sinai-formula recitation drifts (ความผิด, ทรงพระพิโรธช้า); pairs EXO 34:6-7",
     "disposition": "DECIDE/CRITICAL",
-    "status": "pending",
+    "status": "skipped",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "VERIFIED CONFORMANT: Num 14:18 Exod-34 formula echo = ทรงกริ้วช้า ทรงบริบูรณ์ด้วยความรักมั่นคง ทรงยกโทษความชั่ว — conformant (not ทรงพระพิโรธช้า/ความผิด). Already covered in the iter-7 Exod-34 formula pass. Sweep stale."
   },
   {
     "id": "NUM-T2-001",
@@ -590,9 +623,10 @@
     "ref_raw": "20:16,22:22-35 (11×)",
     "issue": "mal'akh-YHWH Balaam cluster ทูตของ- vs locked ทูตสวรรค์ (largest OT cluster)",
     "disposition": "DECIDE",
-    "status": "pending",
+    "status": "skipped",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "VERIFIED CONFORMANT: malak-YHWH Balaam cluster (NUM 22:22/23/31) all ship ทูตสวรรค์ขององค์พระผู้เป็นเจ้า (the malak lock). The 'largest OT cluster' conforms; sweep 'ทูตของ- vs locked ทูตสวรรค์' is stale."
   },
   {
     "id": "NUM-T3-001",
@@ -606,9 +640,10 @@
     "ref_raw": "14:17",
     "issue": "standalone אֲדֹנָי → องค์พระผู้เป็นเจ้าของข้าพระองค์ vs doc องค์เจ้านาย; coordinate JOS/JDG",
     "disposition": "REVIEW",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "P2/P3 finish pass (iter 28): dup of live review-Q (B_NUM_E_numbers.yml). Scanned issue+disposition+dedup; finding-candidates verified separately (tail's lone drift = NUM-T8-002)."
   },
   {
     "id": "NUM-T8-002",
@@ -622,9 +657,11 @@
     "ref_raw": "6:24-26",
     "issue": "Aaronic Blessing חנן → พระเมตตา vs locked พระคุณ (same as EXO 33:19/34:6)",
     "disposition": "STABLE",
-    "status": "pending",
+    "status": "proposed",
     "priority": 3,
-    "source": "sweep"
+    "source": "sweep",
+    "pr": 210,
+    "note": "[conformance] Aaronic blessing Num 6:25 חנן→ประทานพระคุณ (currently พระเมตตา; reserve พระคุณ for חן/חנן, พระเมตตา for רחם per chesed §2.3 + Exod34). In crossbook_proposals.md §1."
   },
   {
     "id": "NUM-T8-003",
@@ -639,9 +676,10 @@
     "ref_raw": "24:17",
     "issue": "Balaam \"Star out of Jacob\" literal; NT Rev22:16/Matt2:2",
     "disposition": "STABLE",
-    "status": "pending",
+    "status": "skipped",
     "priority": 3,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "P2/P3 finish pass (iter 28): dup of live review-Q (A_NUM_C_sexual.yml). Scanned issue+disposition+dedup; finding-candidates verified separately (tail's lone drift = NUM-T8-002)."
   },
   {
     "id": "NUM-T8-004",
@@ -653,9 +691,10 @@
     "ref_raw": "25,31",
     "issue": "warfare/sexual-violence literal; cross-book Layer-2 ethics-footer policy (Deut7/20, Josh6-11, 1Sam15)",
     "disposition": "KEEP+Layer2",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "P2/P3 finish pass (iter 28): footer-gap (OT↔NT/synoptic/textual Layer-2 apparatus — not a Thai-surface drift). Scanned issue+disposition+dedup; finding-candidates verified separately (tail's lone drift = NUM-T8-002)."
   },
   {
     "id": "DEU-T8-001",
@@ -737,9 +776,11 @@
     "ref_raw": "6:5,11:13",
     "issue": "נֶפֶשׁ สุดจิตวิญญาณ vs สุดจิต across Shema NT quotes (Mk12:30/Mt22:37 vs Lk10:27)",
     "disposition": "DECIDE/staged",
-    "status": "pending",
+    "status": "proposed",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "pr": 210,
+    "note": "[conformance] Shema soul สุดจิต→สุดจิตวิญญาณ at DEU 11:13, MAT 22:37, MRK 12:30 (§2.2 lock; anchors DEU 6:5 + LUK 10:27 conformant). Doc §2.2 status-table STALE: claims 11:13 fixed + MAT/MRK staged, but verified NONE applied. In crossbook_proposals.md §1."
   },
   {
     "id": "DEU-T5-004",
@@ -754,9 +795,11 @@
     "ref_raw": "32:21",
     "issue": "jealousy DEU หึง vs Rom10:19 ริษยา",
     "disposition": "DECIDE/staged",
-    "status": "pending",
+    "status": "proposed",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "pr": 210,
+    "note": "[QUESTION] divine-jealousy DEU 32:21 หึง vs Rom 10:19 ริษยา; §2.4 defers lock. Drafted review-Q in crossbook_proposals.md §2. Verified both still drift."
   },
   {
     "id": "DEU-T5-005",
@@ -772,9 +815,11 @@
     "ref_raw": "6:13,6:16,8:3",
     "issue": "Matt-4 temptation quotes drift (ทดสอบ vs Matt4:7 ทดลอง)",
     "disposition": "DECIDE/staged",
-    "status": "pending",
+    "status": "proposed",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "pr": 210,
+    "note": "[QUESTION] Matt-4 temptation: MAT 4:7 ทดลอง vs DEU ทดสอบ + MAT 4:4 ดำรงชีวิต vs DEU มีชีวิตอยู่ (direction fork: §2.5 says NT→OT but NT form familiar). MAT 4:10 = legit LXX → footer not normalize. Drafted Q in crossbook_proposals.md §2."
   },
   {
     "id": "DEU-T5-006",
@@ -789,9 +834,10 @@
     "ref_raw": "21:23,27:26",
     "issue": "Galatians curse-quotes (Gal3:13,3:10; Gal quotes LXX)",
     "disposition": "partial",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "TEXT CONSISTENT: Gal curse-quotes use สาปแช่ง consistently (DEU 21:23/27:26 ↔ Gal 3:13/3:10). Gal quotes LXX (3:10 adds 'all things') → footer-gap (systematic OT↔NT citation footers), not a text drift."
   },
   {
     "id": "DEU-T5-007",
@@ -805,9 +851,11 @@
     "ref_raw": "32:35",
     "issue": "\"vengeance is mine\"; Rom12:19 ตอบแทน matches but Heb10:30 ตอบสนอง diverges",
     "disposition": "partial",
-    "status": "pending",
+    "status": "proposed",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "pr": 210,
+    "note": "[conformance] Heb 10:30 ตอบสนอง→ตอบแทน (DEU 32:35 + Rom 12:19 = ตอบแทน; same Greek ανταποδωσω; Heb outlier). In §1."
   },
   {
     "id": "DEU-T5-008",
@@ -821,9 +869,11 @@
     "ref_raw": "30:12-14",
     "issue": "\"word is near you\" ใจ vs Rom10:6-8 จิตใจ",
     "disposition": "partial",
-    "status": "pending",
+    "status": "proposed",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "pr": 210,
+    "note": "[conformance, minor] Rom 10:8 จิตใจ→ใจ (DEU 30:14 ใจ; καρδια→ใจ pattern). Low-priority. In §1."
   },
   {
     "id": "DEU-T5-009",
@@ -909,9 +959,10 @@
     "ref_raw": "3:24,9:26",
     "issue": "אֲדֹנָי יְהוִה collapsed to YHWH-form; same as NUM 14:17; fwd Pss/Prophets",
     "disposition": "REVIEW",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "Adonai-thread: DEU 3:24/9:26 compound אדני יהוה 'collapsed to YHWH-form' = the appositional-bare rule (2026-05-23 sub-rule, mid-sentence→bare องค์พระผู้เป็นเจ้า). Covered by Adonai meta-Q B_1KI_D_adonai."
   },
   {
     "id": "DEU-T8-003",
@@ -925,9 +976,10 @@
     "ref_raw": "12:5-26",
     "issue": "name-theology; fwd 1Kgs8 + NT \"name of Jesus\"",
     "disposition": "STABLE",
-    "status": "pending",
+    "status": "skipped",
     "priority": 3,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "P2/P3 finish pass (iter 28): confirms an already-locked thread (conformant). Scanned issue+disposition+dedup; finding-candidates verified separately (tail's lone drift = NUM-T8-002)."
   },
   {
     "id": "JOB-T2-001",
@@ -1046,9 +1098,10 @@
     "ref_raw": "1:5,1:11,2:5,2:9",
     "issue": "בָּרַךְ euphemism for curse → แช่งด่า; 1Kgs21:10/13, Ps10:3",
     "disposition": "STABLE",
-    "status": "pending",
+    "status": "skipped",
     "priority": 3,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "P2/P3 finish pass (iter 28): dup of live review-Q (A_JOB_B_shaddai.yml). Scanned issue+disposition+dedup; finding-candidates verified separately (tail's lone drift = NUM-T8-002)."
   },
   {
     "id": "JOB-T8-004",
@@ -1064,9 +1117,10 @@
     "ref_raw": "7:9;26:6;33:24",
     "issue": "Sheol/Abaddon vocab (แดนคนตาย/แดนพินาศ/หลุมมรณา); OT-wide note",
     "disposition": "STABLE",
-    "status": "pending",
+    "status": "skipped",
     "priority": 3,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "P2/P3 finish pass (iter 28): dup of live review-Q (A_JOB_B_shaddai.yml). Scanned issue+disposition+dedup; finding-candidates verified separately (tail's lone drift = NUM-T8-002)."
   },
   {
     "id": "JOB-T1-001",
@@ -1115,9 +1169,10 @@
     "ref_raw": "110:1,110:5",
     "issue": "messianic; YHWH speaks to องค์เจ้านายของข้าพเจ้า; Matt22:44/Heb1:13",
     "disposition": "STABLE",
-    "status": "pending",
+    "status": "skipped",
     "priority": 3,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "P2/P3 finish pass (iter 28): STABLE/reviewed: no genuine cross-book drift. Scanned issue+disposition+dedup; finding-candidates verified separately (tail's lone drift = NUM-T8-002)."
   },
   {
     "id": "PSA-T5-002",
@@ -1134,9 +1189,10 @@
     "ref_raw": "118;132:11;102:26;109:8;8;143:2;146",
     "issue": "NT-citation footnotes (Matt21:42/Acts2:30/Heb1:10/Acts1:20/Heb2:6/Rom3:20/Lk4:18)",
     "disposition": "STABLE",
-    "status": "pending",
+    "status": "skipped",
     "priority": 3,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "P2/P3 finish pass (iter 28): footer-gap (OT↔NT/synoptic/textual Layer-2 apparatus — not a Thai-surface drift). Scanned issue+disposition+dedup; finding-candidates verified separately (tail's lone drift = NUM-T8-002)."
   },
   {
     "id": "PSA-T7-001",
@@ -1154,9 +1210,10 @@
     "ref_raw": "86:15,103:8,111:4,145:8",
     "issue": "Exod34:6 רַחוּם → พระเมตตา except ความเมตตากรุณา at 145:8 (breaks phrase-check)",
     "disposition": "DECIDE",
-    "status": "pending",
+    "status": "skipped",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "VERIFIED CONFORMANT: Exod-34 formula echoes in Psalms all locked — 86:15/103:8/111:4/145:8 use ทรงพระเมตตา/ทรงพระคุณ/ทรงกริ้วช้า/ความรักมั่นคง. Sweep claim '145:8 ความเมตตากรุณา' is STALE (145:8 ships ทรงพระเมตตา)."
   },
   {
     "id": "PSA-T1-001",
@@ -1173,9 +1230,10 @@
     "ref_raw": "136:12;33:18;138:7;145:16",
     "issue": "God's body-parts ROYAL พระหัตถ์/พระกร via ทรง-binding; contrasts ISA/JER plain",
     "disposition": "STABLE",
-    "status": "pending",
+    "status": "skipped",
     "priority": 3,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "P2/P3 finish pass (iter 28): STABLE/reviewed: no genuine cross-book drift. Scanned issue+disposition+dedup; finding-candidates verified separately (tail's lone drift = NUM-T8-002)."
   },
   {
     "id": "PSA-T8-001",
@@ -1190,9 +1248,10 @@
     "ref_raw": "137:8-9;139:19-22;109",
     "issue": "imprecatory 4-part footnote (Deut32:35/Rom12:19; Matt5:44/Rev19:15)",
     "disposition": "STABLE",
-    "status": "pending",
+    "status": "skipped",
     "priority": 3,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "P2/P3 finish pass (iter 28): footer-gap (OT↔NT/synoptic/textual Layer-2 apparatus — not a Thai-surface drift). Scanned issue+disposition+dedup; finding-candidates verified separately (tail's lone drift = NUM-T8-002)."
   },
   {
     "id": "PSA-T4-001",
@@ -1206,9 +1265,10 @@
     "ref_raw": "145:13",
     "issue": "missing-נun verse supplied from 11QPsa/LXX/Syr; MT base + Tier-2 footnote",
     "disposition": "STABLE",
-    "status": "pending",
+    "status": "skipped",
     "priority": 3,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "P2/P3 finish pass (iter 28): footer-gap (OT↔NT/synoptic/textual Layer-2 apparatus — not a Thai-surface drift). Scanned issue+disposition+dedup; finding-candidates verified separately (tail's lone drift = NUM-T8-002)."
   },
   {
     "id": "PSA-T8-002",
@@ -1222,9 +1282,10 @@
     "ref_raw": "119 (+147:19)",
     "issue": "8 Torah-synonyms locked; lift to torah_synonyms doc",
     "disposition": "STABLE",
-    "status": "pending",
+    "status": "skipped",
     "priority": 3,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "P2/P3 finish pass (iter 28): confirms an already-locked thread (conformant). Scanned issue+disposition+dedup; finding-candidates verified separately (tail's lone drift = NUM-T8-002)."
   },
   {
     "id": "PSA-T4-002",
@@ -1287,9 +1348,11 @@
     "ref_raw": "14:28-31:9",
     "issue": "human kings NON-ROYAL; CONFLICTS with SNG + ECC8 full-royal kings; owed human_king_register doc",
     "disposition": "REVIEW",
-    "status": "pending",
+    "status": "proposed",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "pr": 210,
+    "note": "[QUESTION] generic wisdom-king register: Proverbs plain (16:10/16:14) vs ECC royal (8:4 ทรง). §2.2 doesn't address generic kings. Unify? Consolidated T6 king-register Q in §2."
   },
   {
     "id": "PRO-T5-001",
@@ -1305,9 +1368,10 @@
     "ref_raw": "8:22;30:4",
     "issue": "Lady Wisdom→Christ ทรงให้เราถือกำเนิด (avoids Arian); 1Cor1:24/Col1:15; 30:4→John3:13",
     "disposition": "REVIEW",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "Ben's theological domain: Prov 8:22 Lady-Wisdom→Christ ทรงให้เราถือกำเนิด (avoids Arian 'created') — deliberate doctrinal rendering. §1.3 don't-overflag content."
   },
   {
     "id": "PRO-T7-001",
@@ -1324,9 +1388,11 @@
     "ref_raw": "14:29,15:18,16:32,25:15",
     "issue": "אֶרֶךְ אַפַּיִם โกรธช้า vs อดทน; same idiom as EXO 34:6 / Ps 145:8",
     "disposition": "DECIDE",
-    "status": "pending",
+    "status": "proposed",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "pr": 210,
+    "note": "[QUESTION] human ארך אפים in Proverbs varies: อดทน (14:29,25:15) vs โกรธช้า (15:18,16:32). Possibly context-split (patience-virtue vs anger). Divine = ทรงกริ้วช้า (Exod34, ทรง marks divine/human split, OK). Unify human form or document split? In crossbook_proposals.md §2."
   },
   {
     "id": "PRO-T1-001",
@@ -1363,9 +1429,10 @@
     "ref_raw": "3:34;11:31;3:11-12;26:11",
     "issue": "NT-cite footnotes incl LXX-form (Jas4:6/1Pet5:5; 1Pet4:18; Heb12:5; 2Pet2:22)",
     "disposition": "STABLE",
-    "status": "pending",
+    "status": "skipped",
     "priority": 3,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "P2/P3 finish pass (iter 28): footer-gap (OT↔NT/synoptic/textual Layer-2 apparatus — not a Thai-surface drift). Scanned issue+disposition+dedup; finding-candidates verified separately (tail's lone drift = NUM-T8-002)."
   },
   {
     "id": "ECC-T8-001",
@@ -1380,9 +1447,10 @@
     "ref_raw": "1:2-12:8",
     "issue": "הֶבֶל → ไร้แก่นสาร (provisional); 33 prior hevel vv rendered contextually — retro-consistency owed",
     "disposition": "DECIDE/PROVISIONAL",
-    "status": "pending",
+    "status": "skipped",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "VERIFIED CONFORMANT: hevel uniformly อนิจจัง (1:2,1:14,2:11,12:8 all อนิจจัง; havel-havalim=อนิจจัง อนิจจัง). No ไร้แก่นสาร, no contextual drift. Sweep predates ECC reviewer pass (commit 5cab4ec1) which normalized hevel→อนิจจัง 35×."
   },
   {
     "id": "ECC-T6-001",
@@ -1413,9 +1481,10 @@
     "ref_raw": "3:19,9:2-3",
     "issue": "מִקְרֶה → เหตุอย่างเดียวกัน (avoids ชะตากรรม karma)",
     "disposition": "REVIEW",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "deliberate (Ben's domain): miqreh→เหตุอย่างเดียวกัน avoids ชะตากรรม (Buddhist karma) — per ECC reviewer pass. §1.3 don't-overflag Thai cultural choices."
   },
   {
     "id": "ECC-T8-003",
@@ -1429,9 +1498,10 @@
     "ref_raw": "12:13",
     "issue": "\"fear God\" → ยำเกรงพระเจ้า; same as Prov1:7/Job28:28",
     "disposition": "STABLE",
-    "status": "pending",
+    "status": "skipped",
     "priority": 3,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "P2/P3 finish pass (iter 28): STABLE/reviewed: no genuine cross-book drift. Scanned issue+disposition+dedup; finding-candidates verified separately (tail's lone drift = NUM-T8-002)."
   },
   {
     "id": "ECC-T4-001",
@@ -1446,9 +1516,10 @@
     "ref_raw": "2:25,8:10",
     "issue": "MT vs BSB word-variants (2:25 me/Him; 8:10 forgotten/praised)",
     "disposition": "REVIEW",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "textual: MT vs BSB word-variants (2:25 me/Him; 8:10 forgotten/praised) — covered by mt_vs_lxx/textual-variant policy + ECC reviewer pass; footer-candidate, not a Thai-surface drift."
   },
   {
     "id": "SNG-T3-001",
@@ -1462,9 +1533,11 @@
     "ref_raw": "8:6",
     "issue": "שַׁלְהֶבֶת יָה → เปลวเพลิงแห่งพระยาห์; พระยาห์ drifts from locked ยาห์; normalize",
     "disposition": "DECIDE",
-    "status": "pending",
+    "status": "proposed",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "pr": 210,
+    "note": "[conformance] SNG 8:6 พระยาห์→ยาห์ (only divine name in SoS; שלהבת יה). divine_names_table line 24 locks יה→ยาห์ bare; Exod 17:16 כס יה→พระที่นั่งของยาห์ precedent (bare ยาห์). SNG adds พระ honorific = drift. In crossbook_proposals.md §1."
   },
   {
     "id": "SNG-T6-001",
@@ -1481,9 +1554,11 @@
     "ref_raw": "1:4;3:7-11;8:11;7:6",
     "issue": "Solomon FULL ราชาศัพท์ per §2.2; DIVERGES Psalms/Proverbs; owed human_king_register",
     "disposition": "REVIEW",
-    "status": "pending",
+    "status": "proposed",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "pr": 210,
+    "note": "[QUESTION, part of T6 king-register] SoS Solomon full ราชาศัพท์ (3:11 ทรงมงกุฎ) — defensible per §2.2 (specific king) but diverges from Proverbs-plain. Folded into the generic-king register Q (§2)."
   },
   {
     "id": "SNG-T7-001",
@@ -1497,9 +1572,10 @@
     "ref_raw": "7:11",
     "issue": "תְּשׁוּקָה → ความปรารถนา; same lemma as Gen 3:16",
     "disposition": "STABLE",
-    "status": "pending",
+    "status": "skipped",
     "priority": 3,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "P2/P3 finish pass (iter 28): STABLE/reviewed: no genuine cross-book drift. Scanned issue+disposition+dedup; finding-candidates verified separately (tail's lone drift = NUM-T8-002)."
   },
   {
     "id": "SNG-T8-001",
@@ -1511,9 +1587,10 @@
     "ref_raw": "4-7",
     "issue": "erotic imagery NON-euphemized; opposite of Lev uncover_nakedness; write erotic_imagery doc for Ezek16/23",
     "disposition": "REVIEW",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "deliberate register (Ben's domain): SoS erotic imagery non-euphemized (love-poetry) — opposite of Lev legal uncover_nakedness euphemism by design. Not a drift."
   },
   {
     "id": "SNG-T3-002",
@@ -1529,9 +1606,10 @@
     "ref_raw": "2:7=3:5",
     "issue": "gazelle-oath puns on avoided divine titles צְבָאוֹת / שַׁדַּי",
     "disposition": "STABLE",
-    "status": "pending",
+    "status": "skipped",
     "priority": 3,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "P2/P3 finish pass (iter 28): STABLE/reviewed: no genuine cross-book drift. Scanned issue+disposition+dedup; finding-candidates verified separately (tail's lone drift = NUM-T8-002)."
   },
   {
     "id": "SNG-T5-001",
@@ -1584,9 +1662,11 @@
     "ref_raw": "1:2,17:4,20:13,19:23",
     "issue": "Human-messenger 4 ways within-book + across JDG/1SA/1KI; edit 19:23",
     "disposition": "REQUIRES SIGN-OFF",
-    "status": "pending",
+    "status": "proposed",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "pr": 210,
+    "note": "Headline refs (1:2/17:4/20:13/19:23) dup A_2KI_E_mal + 19:23 stale (already ผู้ส่งสาร). BUT verification surfaced LIVE backlog: 8 ordinary-messenger verses (5:10,6:32,6:33,9:18,10:8,14:8,19:9,19:14) use §4.4 avoid-form ผู้สื่อสาร → [DRAFT] reclassify to ผู้ส่งสาร/ทูต, contingent on A_2KI_E_mal decision. In crossbook_proposals.md."
   },
   {
     "id": "2KI-T6-001",
@@ -1598,9 +1678,10 @@
     "ref_raw": "18-19",
     "issue": "Assyrian \"great king\" foreign-royal; YHWH honorific preserved in taunt; fwd Isa/Jer/Dan",
     "disposition": "REVIEW→LOCK",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "P2/P3 finish pass (iter 28): dup of live review-Q (A_2KI_A_baal.yml). Scanned issue+disposition+dedup; finding-candidates verified separately (tail's lone drift = NUM-T8-002)."
   },
   {
     "id": "2KI-T4-001",
@@ -1612,9 +1693,10 @@
     "ref_raw": "all 25 ch",
     "issue": "Zero MT/LXX entries (3rd DtrH book); codify Tier-2-on-macro-divergence policy",
     "disposition": "DECIDE/POLICY",
-    "status": "pending",
+    "status": "skipped",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "dup B_2KI_C_lxx (asks exact macro-divergence Tier-2 policy + synchronism-chronology note for 2KI). Genuinely-open policy Q, not stale."
   },
   {
     "id": "2KI-T8-001",
@@ -1629,9 +1711,10 @@
     "ref_raw": "23:10 vs 1KI 11:7",
     "issue": "Molech พระโมเลค vs โมเลคเทพอันน่าสะอิดสะเอียน — two surfaces",
     "disposition": "REVIEW",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "PRINCIPLED (Hebrew-driven), not a drift: Molech 1KI 11:7 โมเลคเทพอันน่าสะอิดสะเอียน renders המלך שקץ (abomination descriptor in Hebrew); 2KI 23:10 พระโมเลค renders bare המלך. Base name โมเลค consistent; both pagan-register forms (เทพ/พระ) sanctioned. §1.3."
   },
   {
     "id": "2KI-T8-002",
@@ -1665,9 +1748,10 @@
     "ref_raw": "5:1-14→Lk4:27;2:11",
     "issue": "Naaman cited by Jesus — verify Thai vs NT",
     "disposition": "STABLE",
-    "status": "pending",
+    "status": "skipped",
     "priority": 3,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "P2/P3 finish pass (iter 28): footer-gap (OT↔NT/synoptic/textual Layer-2 apparatus — not a Thai-surface drift). Scanned issue+disposition+dedup; finding-candidates verified separately (tail's lone drift = NUM-T8-002)."
   },
   {
     "id": "1CH-T2-001",
@@ -1681,9 +1765,10 @@
     "ref_raw": "21:12-30",
     "issue": "Threshing-floor angel (=2Sam24) locked but check scoped [1KI,2KI] only — widen",
     "disposition": "REVIEW→LOCK",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "VERIFIED CONFORMANT: 1CH 21:16/18/30 ship ทูตสวรรค์ขององค์พระผู้เป็นเจ้า (malak lock). Per malak_yhwh doc, check WAS widened to Chronicles 2026-05-26 (1CH 21:12/15/16/18/30 verified). 'check scoped [1KI,2KI] only' is stale."
   },
   {
     "id": "1CH-T2-002",
@@ -1699,9 +1784,10 @@
     "ref_raw": "14:1,19:2,19:16",
     "issue": "Human-messenger 5th surface-set; normalize→ผู้ส่งสาร",
     "disposition": "REVIEW→LOCK",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "dup of human-messenger thread (A_1CH_C_mal). 1CH has 0 ผู้สื่อสาร (its '5th surface-set' is a different acceptable form, not the avoid-form) — folds into A_2KI_E_mal normalization decision. No separate emit."
   },
   {
     "id": "1CH-T3-001",
@@ -1733,9 +1819,10 @@
     "ref_raw": "21:5,21:25,11:11",
     "issue": "Samuel↔Chronicles number divergences unflagged (census/gold/300-800)",
     "disposition": "REVIEW→LOCK+DOC",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "footer-gap (systematic): Samuel↔Chronicles number divergences (1Chr 21:5/21:25/11:11) need Layer-2 synoptic footers per synoptic_parallel_passages doc. Text is MT-faithful per book; the divergence-disclosure is the (apparatus) gap. Not a text drift."
   },
   {
     "id": "1CH-T4-001",
@@ -1768,9 +1855,10 @@
     "ref_raw": "29:11-13→Matt6:13;29:15→1Pet2:11;17:13→Heb1:5",
     "issue": "doxology + sojourner; fwd-check NT",
     "disposition": "STABLE",
-    "status": "pending",
+    "status": "skipped",
     "priority": 3,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "P2/P3 finish pass (iter 28): footer-gap (OT↔NT/synoptic/textual Layer-2 apparatus — not a Thai-surface drift). Scanned issue+disposition+dedup; finding-candidates verified separately (tail's lone drift = NUM-T8-002)."
   },
   {
     "id": "2CH-T2-001",
@@ -1804,9 +1892,10 @@
     "ref_raw": "18:12,35:21,36:15,36:16",
     "issue": "Human מַלְאָךְ uniformly ผู้สื่อสาร (the avoid-form); edits proposed",
     "disposition": "REQUIRES SIGN-OFF",
-    "status": "pending",
+    "status": "skipped",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "dup B_2CH_E_human (asks the still-open prophet-messenger 36:15-16 ผู้สื่อสาร fork). Envoy cases ALREADY normalized: 18:12→ผู้ส่งสาร, 35:21→คณะทูต (§4.4). Q premise 'uniformly ผู้สื่อสาร' now partly stale."
   },
   {
     "id": "2CH-T8-001",
@@ -1826,9 +1915,10 @@
     "ref_raw": "33:2,33:6,33:22,36:5,36:9,36:12,29:6",
     "issue": "\"did evil\" → bare ทำชั่ว vs locked ทำสิ่งชั่วร้าย (DTr-formula scope never reached 2CH)",
     "disposition": "DECIDE/PROPOSED",
-    "status": "pending",
+    "status": "skipped",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "VERIFIED CONFORMANT: all 7 regnal-formula verses (29:6,33:2,33:6,33:22,36:5,36:9,36:12) ship locked ทำสิ่งชั่วร้าย. 3 bare ทำชั่ว (12:14,22:3,33:9) are non-formula (standalone הרע / להרשיע / comparative) — legit. B_2CH_A_the's text-fix ALREADY APPLIED → that Q is stale (CI-lock-widening to 2CH may remain)."
   },
   {
     "id": "2CH-T8-002",
@@ -1842,9 +1932,10 @@
     "ref_raw": "24:20",
     "issue": "Spirit-anchor missing locked ทรง (พระวิญญาณ…สวมทับ); restore ทรงสวมทับ",
     "disposition": "DECIDE (MAJOR)",
-    "status": "pending",
+    "status": "skipped",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "VERIFIED CONFORMANT: 24:20 ships 'พระวิญญาณของพระเจ้าทรงสวมทับ' = לבש→ทรงสวมทับ + Elohim→พระเจ้า, exactly per spirit_of_yhwh_empowerment doc. No missing ทรง. Sweep flag stale."
   },
   {
     "id": "2CH-T4-001",
@@ -1859,9 +1950,10 @@
     "ref_raw": "36:9",
     "issue": "MT \"8\" shipped as สิบแปด \"18\" (per 2Kgs24:8/LXX) no footer; restore MT แปด",
     "disposition": "DECIDE (MAJOR)",
-    "status": "pending",
+    "status": "skipped",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "dup B_2CH_C_chr (asks exact 36:9 Jehoiachin age 8-vs-18 + disclosure-footer fork). Genuinely-open Q, not stale — no need to re-emit."
   },
   {
     "id": "2CH-T7-001",
@@ -1892,9 +1984,10 @@
     "ref_raw": "6-7 (שֵׁם ~15×)",
     "issue": "Name-theology undocumented; recommend name_theology doc; fwd Jer/Ezek",
     "disposition": "STABLE",
-    "status": "pending",
+    "status": "skipped",
     "priority": 3,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "P2/P3 finish pass (iter 28): dup of live review-Q (A_2CH_B_chr.yml). Scanned issue+disposition+dedup; finding-candidates verified separately (tail's lone drift = NUM-T8-002)."
   },
   {
     "id": "2CH-T7-002",
@@ -1909,9 +2002,10 @@
     "ref_raw": "36:22-23 (≈Ezra1:1-3)",
     "issue": "Cyrus decree verbatim-dup; Hebrew-canon terminus; no cross-ref notes",
     "disposition": "REVIEW(opt)",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "footer-gap (low-priority): 2Chr 36:22-23 Cyrus decree ≈ Ezra 1:1-3 (canon-seam verbatim dup); optional cross-ref note. Text fine; apparatus only."
   },
   {
     "id": "EZR-T6-001",
@@ -1950,9 +2044,10 @@
     "ref_raw": "1:2;5:11-12;6:9-10;7:12,21,23",
     "issue": "\"God of heaven\" uniform พระเจ้าแห่งฟ้าสวรรค์; recommend doc; heavy Neh+Dan",
     "disposition": "STABLE",
-    "status": "pending",
+    "status": "skipped",
     "priority": 3,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "P2/P3 finish pass (iter 28): dup of live review-Q (A_EZR_A_how.yml). Scanned issue+disposition+dedup; finding-candidates verified separately (tail's lone drift = NUM-T8-002)."
   },
   {
     "id": "EZR-T8-002",
@@ -1968,9 +2063,10 @@
     "ref_raw": "4:8-9,5:3,1:8",
     "issue": "Persian admin-title set + \"Beyond the River\" undocumented; saturates Neh/Est/Dan",
     "disposition": "STABLE",
-    "status": "pending",
+    "status": "skipped",
     "priority": 3,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "P2/P3 finish pass (iter 28): dup of live review-Q (A_EZR_A_how.yml). Scanned issue+disposition+dedup; finding-candidates verified separately (tail's lone drift = NUM-T8-002)."
   },
   {
     "id": "EZR-T7-001",
@@ -2001,9 +2097,10 @@
     "ref_raw": "2:1-70 ≈ Neh7",
     "issue": "Returnee roster parallels Neh7 (totals differ) per MT",
     "disposition": "STABLE",
-    "status": "pending",
+    "status": "skipped",
     "priority": 3,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "P2/P3 finish pass (iter 28): STABLE/reviewed: no genuine cross-book drift. Scanned issue+disposition+dedup; finding-candidates verified separately (tail's lone drift = NUM-T8-002)."
   },
   {
     "id": "EZR-T4-001",
@@ -2015,9 +2112,10 @@
     "ref_raw": "textual_variants (1 Esdras)",
     "issue": "macro-structural outlier; record disposition row",
     "disposition": "REVIEW→DOC",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "P2/P3 finish pass (iter 28): dup of live review-Q (A_EZR_B_ezra.yml). Scanned issue+disposition+dedup; finding-candidates verified separately (tail's lone drift = NUM-T8-002)."
   },
   {
     "id": "NEH-T6-001",
@@ -2050,9 +2148,10 @@
     "ref_raw": "9:17,9:31",
     "issue": "Exod-34 formula drift (ทรงพระพิโรธช้า vs locked ทรงกริ้วช้า); breaks the thread",
     "disposition": "DECIDE/SIGN-OFF",
-    "status": "pending",
+    "status": "skipped",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "VERIFIED CONFORMANT: Neh 9:17 + 9:31 ship locked ทรงกริ้วช้า / ทรงพระคุณและทรงพระเมตตา / ความรักมั่นคง. Sweep claim '9:17 ทรงพระพิโรธช้า vs locked ทรงกริ้วช้า' is STALE."
   },
   {
     "id": "NEH-T8-002",
@@ -2068,9 +2167,11 @@
     "ref_raw": "5:14-18,12:26,7:65",
     "issue": "פֶּחָה governor-title 3 ways; diverges from Ezra; pick one + doc",
     "disposition": "REVIEW/DECIDE",
-    "status": "pending",
+    "status": "proposed",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "pr": 210,
+    "note": "[QUESTION] governor פחה 3 surfaces: เจ้าเมือง (Neh 5:14/18), ผู้ว่าราชการ (Neh 12:26), ข้าหลวง (Ezra 5:14). No OT governor-title doc. Unify + document, or principled (local-governor vs Persian-commissioner)? In crossbook_proposals.md §2."
   },
   {
     "id": "NEH-T8-003",
@@ -2087,9 +2188,10 @@
     "ref_raw": "1:4,1:5,2:4,2:20",
     "issue": "\"God of heaven\" uniform; doc still unwritten; fwd Daniel",
     "disposition": "STABLE",
-    "status": "pending",
+    "status": "skipped",
     "priority": 3,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "P2/P3 finish pass (iter 28): STABLE: doc-recommendation / already-stable (no text drift). Scanned issue+disposition+dedup; finding-candidates verified separately (tail's lone drift = NUM-T8-002)."
   },
   {
     "id": "NEH-T7-001",
@@ -2155,9 +2257,10 @@
     "ref_raw": "3:12=8:9=9:3",
     "issue": "Persian admin tier; overdue achaemenid_titles doc; fwd Daniel",
     "disposition": "STABLE",
-    "status": "pending",
+    "status": "skipped",
     "priority": 3,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "P2/P3 finish pass (iter 28): STABLE: doc-recommendation / already-stable (no text drift). Scanned issue+disposition+dedup; finding-candidates verified separately (tail's lone drift = NUM-T8-002)."
   },
   {
     "id": "EST-T8-003",
@@ -2173,9 +2276,10 @@
     "ref_raw": "3:1,8:3,9:24",
     "issue": "Haman \"the Agagite\" → Agag/Amalek (1Sam15/Exod17) vs Mordecai Benjamite",
     "disposition": "STABLE",
-    "status": "pending",
+    "status": "skipped",
     "priority": 3,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "P2/P3 finish pass (iter 28): STABLE/reviewed: no genuine cross-book drift. Scanned issue+disposition+dedup; finding-candidates verified separately (tail's lone drift = NUM-T8-002)."
   },
   {
     "id": "EST-T4-001",
@@ -2208,9 +2312,10 @@
     "ref_raw": "51:5,51:9,63:5/42:1,44:3,59:21",
     "issue": "Divine \"arm\" זְרוֹעַ → plain แขน (vs locked พระกร 40:10/52:10/53:1); \"my Spirit\" plain วิญญาณ",
     "disposition": "REVIEW (MAJOR)",
-    "status": "pending",
+    "status": "skipped",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "VERIFIED CONFORMANT: divine arm is person-based — 3rd-person→พระกร (40:10,52:10,53:1,59:16,63:12), 1st-person→plain แขน (51:5,63:5). Confirmed consistent with JER (21:5 มือ, 27:5 แขน plain, 1st-person). Sweep 'drift to plain แขน' = the correct first-person-plain rule (matches JER-T1-001 codification), NOT a drift. Doc-gap noted: divine_anthropomorphism §2.1 lists only พระกร. 51:9 vocative แขน borderline."
   },
   {
     "id": "ISA-T5-001",
@@ -2224,9 +2329,11 @@
     "ref_raw": "53:1",
     "issue": "\"Arm of the LORD\" พระกร but John 12:38 ships พระหัตถ์ — NT retro-candidate",
     "disposition": "REVIEW",
-    "status": "pending",
+    "status": "proposed",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "pr": 210,
+    "note": "[conformance] John 12:38 พระหัตถ์→พระกร: Isa 53:1 arm=พระกร; John 12:38 quotes it (βραχιων=arm) but ships พระหัตถ์(hand). Lexical mismatch + breaks Isa 53:1 thread. In §1."
   },
   {
     "id": "ISA-T5-002",
@@ -2240,9 +2347,10 @@
     "ref_raw": "56:7",
     "issue": "\"house of prayer\" นิเวศ (=Mk11:17) but Matt21:13 บ้าน; den ซ่อง vs ถ้ำ",
     "disposition": "REVIEW",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "DUP of JER-T5-001 (temple-cleansing): Matt 21:13 บ้าน/ซ่อง→นิเวศ/ถ้ำของโจร already staged in §1 (the house-of-prayer นิเวศ + den-of-robbers ถ้ำ alignment). Same finding."
   },
   {
     "id": "ISA-T5-003",
@@ -2257,9 +2365,11 @@
     "ref_raw": "8:14,28:16",
     "issue": "Stone NT-internal drift (Isa vs Rom9:33 vs 1Pet2:8); shame ผิดหวัง vs อับอาย",
     "disposition": "REVIEW",
-    "status": "pending",
+    "status": "proposed",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "pr": 210,
+    "note": "[QUESTION] Stone testimonium NT-internal drift: Rom 9:33 หินแห่งการกีดกั้น/ผิดหวัง vs 1Pet 2:8/2:6 หินแห่งเหตุสะดุด/อับอาย (same Greek πετρα σκανδαλου / καταισχυνω). ศิลาแห่งการสะดุด matches. Unify NT Stone-quote? In §2."
   },
   {
     "id": "ISA-T5-004",
@@ -2279,9 +2389,11 @@
     "ref_raw": "9:1,11:10,25:8,29:13,42:1,45:23,65:1",
     "issue": "~7 NT-cited divergences lack Layer-2 footer (25:8 KD ref broken)",
     "disposition": "REVIEW (MAJOR)",
-    "status": "pending",
+    "status": "proposed",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "pr": 210,
+    "note": "TEXT: [conformance] Mark 7:6 นับถือ/ปาก→ให้เกียรติ/ริมฝีปาก (align Isa 29:13+Matt 15:8, same Greek). [question] Matt 12:18 God's soul ดวงพระทัย vs Isa 42:1 จิตวิญญาณ. FOOTER-GAP verified: all 7 NT-cited verses lack Layer-2 citation footers (systematic, apparatus not text). 25:8 KD NOT broken (stale). 9:1/11:10/65:1 consistent/legit-LXX-divergent. All in crossbook_proposals.md."
   },
   {
     "id": "ISA-T5-005",
@@ -2320,9 +2432,10 @@
     "ref_raw": "3:15,10:23,22:5,22:12,28:22 vs 22:14b,22:15",
     "issue": "אֲדֹנָי יְהוִה צְבָאוֹת split — 5 drop Adonai vs 2 mark it (ch.22 Shebna)",
     "disposition": "REVIEW",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "Adonai-thread: Adonai-YHWH-Sabaoth compound ships องค์เจ้านาย (3:1/10:16/10:33/19:4 mark it). The 'split' (some drop Adonai) is a sub-case of the documented Adonai thread (2026-05-23 sub-rule + meta-Q B_1KI_D_adonai) — reviewers address it there."
   },
   {
     "id": "ISA-T8-001",
@@ -2338,9 +2451,10 @@
     "ref_raw": "7:14,9:6,53:11",
     "issue": "Committal messianic surface makes Dan 9:25 generic ผู้ถูกเจิม the outlier",
     "disposition": "DECIDE",
-    "status": "pending",
+    "status": "skipped",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "PRINCIPLED, not a drift: messianic surfaces committal where strongly-supported (7:14 almah→หญิงพรหมจารี LXX/Matt1:23; 9:5 throne-names אל גבור→พระเจ้าผู้ทรงฤทธิ์), generic where debated (Dan 9:25 משיח→ผู้ถูกเจิม, preserves ambiguity). Different translation matters, not inconsistency. Ben's theological domain (§1.3 default-not-flag). Optional: no messianic-surface policy doc — Ben may document."
   },
   {
     "id": "ISA-T8-002",
@@ -2355,9 +2469,11 @@
     "ref_raw": "13:21 vs 34:14",
     "issue": "Goat-demon שָׂעִיר demonic ผีปีศาจรูปแพะ vs naturalized แพะป่า; Lev17:7 lock",
     "disposition": "REVIEW",
-    "status": "pending",
+    "status": "proposed",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "pr": 210,
+    "note": "[QUESTION] goat-demon שעיר: ผีปีศาจรูปแพะ (Isa13:21/Lev17:7/2Chr11:15) vs แพะป่า (Isa34:14). Cult contexts consistently demonic; desolation passages split (13:21 demon vs 34:14 goat). Unify desolation sense? In §2."
   },
   {
     "id": "JER-T1-001",
@@ -2376,9 +2492,10 @@
     "ref_raw": "21:5,27:5,6:12,51:25,24:6,7:30",
     "issue": "CODIFIED first-person-plain (arm/hand/eyes plain แขน/มือ); conflicts ISA",
     "disposition": "DECIDE (MAJOR)",
-    "status": "pending",
+    "status": "skipped",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "VERIFIED CONFORMANT: first-person-plain rule consistent Isaiah↔Jeremiah (JER 21:5 มือ, 27:5 แขน plain 1st-person; 3rd-person→พระกร). 'conflicts ISA' = sweep missing the person-distinction (3rd→พระกร, 1st→plain are complementary, not conflicting). Codified in JER. Doc-gap (divine_anthropomorphism §2.1) already noted at ISA-T1-001."
   },
   {
     "id": "JER-T6-001",
@@ -2394,9 +2511,11 @@
     "ref_raw": "21:2 vs 39:11,52:31-32",
     "issue": "Nebuchadnezzar PLAIN (\"invader→plain\") — contradicts Daniel's ทรง; internal clash",
     "disposition": "DECIDE (MAJOR)",
-    "status": "pending",
+    "status": "proposed",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "pr": 210,
+    "note": "[QUESTION] Nebuchadnezzar register cross-book clash: Daniel royal (DAN 2:1 ทรงพระสุบิน, 3:13 ทรงพระพิโรธ per §2.2) vs Jeremiah plain (39:1/34:1 ยกมา+เขา, invader→plain); Jeremiah internally mixed (52:4 พระองค์ vs 34:1 เขา). §2.2 says foreign emperors get ทรง even if villainous. Q: normalize to §2.2/Daniel, or document invader-role exception? Connects A_DAN_A_foreign. In crossbook_proposals.md §2."
   },
   {
     "id": "JER-T4-001",
@@ -2410,9 +2529,10 @@
     "ref_raw": "31:32",
     "issue": "MT \"I was a husband\" vs shipped Heb8:9 LXX เราจึงทอดทิ้ง; no reader footers",
     "disposition": "DECIDE (MAJOR)",
-    "status": "pending",
+    "status": "skipped",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "TEXT CONFORMANT: Jer 31:32 ships MT เป็นเหมือนสามี (husband, MT-faithful); Heb 8:9 ships LXX 'disregarded' (NT quotes LXX) — both correct to source. Issue is FOOTER-GAP only (substantive husband↔disregarded divergence, NT-cited, no footer) → logged as high-priority instance in the systematic footer-gap note. No text change."
   },
   {
     "id": "JER-T5-001",
@@ -2426,9 +2546,11 @@
     "ref_raw": "7:11",
     "issue": "\"den of robbers\" ถ้ำของโจร (=Mk11:17/Lk19:46) but Matt21:13 ซ่องของพวกโจร",
     "disposition": "REVIEW (MAJOR)",
-    "status": "pending",
+    "status": "proposed",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "pr": 210,
+    "note": "[conformance] Matt 21:13 align temple-cleansing citation to OT sources + Mark/Luke: บ้าน→นิเวศ (Isa 56:7) + ซ่องของพวกโจร→ถ้ำของโจร (Jer 7:11). Mark 11:17 + Luke 19:46 already match both sources; Matt lone outlier on both phrases (identical Greek οἶκος/σπήλαιον λῃστῶν; no KD). In crossbook_proposals.md §1."
   },
   {
     "id": "JER-T3-001",
@@ -2447,9 +2569,10 @@
     "ref_raw": "2:19 vs 46:10,49:5,50:25,50:31;44:26",
     "issue": "אֲדֹנָי יְהוִה צְבָאוֹת split across OAN",
     "disposition": "REVIEW",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "Adonai-thread: Adonai-YHWH-Sabaoth across OAN — same sub-case as ISA-T3-001, covered by the Adonai thread/meta-Q (B_1KI_D_adonai)."
   },
   {
     "id": "JER-T8-001",
@@ -2465,9 +2588,10 @@
     "ref_raw": "23:5 vs 33:15;31:31",
     "issue": "Branch צֶמַח register splits royal/plain; no tzemach doc before Zech3:8/6:12",
     "disposition": "STABLE/REVIEW",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "P2/P3 finish pass (iter 28): confirms an already-locked thread (conformant). Scanned issue+disposition+dedup; finding-candidates verified separately (tail's lone drift = NUM-T8-002)."
   },
   {
     "id": "LAM-T1-001",
@@ -2534,9 +2658,10 @@
     "ref_raw": "1:1,2:12,5:1,6:1",
     "issue": "4 emperors FULL ราชาศัพท์ per §2.2 — contradicts JER plain Nebuchadnezzar",
     "disposition": "DECIDE (fix in Ezra)",
-    "status": "pending",
+    "status": "skipped",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "dup A_DAN_A_foreign (deferred court-block foreign-emperor register decision; Q2=ratify corpus-wide + normalize Ezra). Daniel's full ราชาศัพท์ for the 4 emperors is per LOCKED ot_register_policy §2.2 (foreign emperors get ราชาศัพท์ even if villainous) → CONFORMANT. Live cross-book side = Jeremiah plain-Nebuchadnezzar (JER-T6-001, no Q): assess invader→plain as §2.2 violation vs principled exception when reached."
   },
   {
     "id": "DAN-T5-001",
@@ -2603,9 +2728,10 @@
     "ref_raw": "7:9,7:13,7:22",
     "issue": "\"Ancient of Days\" → ผู้เจริญด้วยวัยวุฒิ; Rev1:14; divine_names_table row",
     "disposition": "STABLE",
-    "status": "pending",
+    "status": "skipped",
     "priority": 3,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "P2/P3 finish pass (iter 28): dup of live review-Q (A_DAN_A_foreign.yml). Scanned issue+disposition+dedup; finding-candidates verified separately (tail's lone drift = NUM-T8-002)."
   },
   {
     "id": "DAN-T5-004",
@@ -2619,9 +2745,10 @@
     "ref_raw": "7:3-7",
     "issue": "four beasts → สัตว์ร้าย matching Rev θηρίον; Dan7 source of Rev13",
     "disposition": "STABLE",
-    "status": "pending",
+    "status": "skipped",
     "priority": 3,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "P2/P3 finish pass (iter 28): dup of live review-Q (A_DAN_A_foreign.yml). Scanned issue+disposition+dedup; finding-candidates verified separately (tail's lone drift = NUM-T8-002)."
   },
   {
     "id": "DAN-T2-001",
@@ -2639,9 +2766,10 @@
     "ref_raw": "8:16,9:21,10:13,10:20-21,12:1",
     "issue": "Gabriel/Michael; שַׂר → เจ้านาย (same for Michael + hostile princes); fwd Rev12:7",
     "disposition": "STABLE",
-    "status": "pending",
+    "status": "skipped",
     "priority": 3,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "P2/P3 finish pass (iter 28): dup of live review-Q (A_DAN_A_foreign.yml). Scanned issue+disposition+dedup; finding-candidates verified separately (tail's lone drift = NUM-T8-002)."
   },
   {
     "id": "JON-T8-001",
@@ -2656,9 +2784,10 @@
     "ref_raw": "2:9,4:2",
     "issue": "חֶסֶד drift พระเมตตา vs Ruth lock ความรักมั่นคง (also Genesis)",
     "disposition": "REQUIRES SIGN-OFF",
-    "status": "pending",
+    "status": "skipped",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "VERIFIED CONFORMANT: Jon 2:9 + 4:2 both ship ความรักมั่นคง (the chesed lock). Per chesed_covenant_love §4 these were the trigger-corrections (fixed 2026-05-09). Sweep 'drift พระเมตตา' is stale."
   },
   {
     "id": "JON-T8-002",
@@ -2672,9 +2801,10 @@
     "ref_raw": "4:2",
     "issue": "Exod34:6-7 formula recurs (Pss/Joel2:13/Nah1:3/Neh9:17)",
     "disposition": "STABLE",
-    "status": "pending",
+    "status": "skipped",
     "priority": 3,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "P2/P3 finish pass (iter 28): confirms an already-locked thread (conformant). Scanned issue+disposition+dedup; finding-candidates verified separately (tail's lone drift = NUM-T8-002)."
   },
   {
     "id": "JON-T8-003",
@@ -2690,9 +2820,10 @@
     "ref_raw": "3:9,3:10,4:2",
     "issue": "נִחַם relenting → ทรงเปลี่ยนพระทัย; lock before Joel/Amos/Jer; Num23:19/1Sam15:29 counter",
     "disposition": "STABLE/LOCK",
-    "status": "pending",
+    "status": "skipped",
     "priority": 3,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "P2/P3 finish pass (iter 28): confirms an already-locked thread (conformant). Scanned issue+disposition+dedup; finding-candidates verified separately (tail's lone drift = NUM-T8-002)."
   },
   {
     "id": "JON-T1-001",
@@ -2761,9 +2892,11 @@
     "ref_raw": "9:1,11:3,12:8,24:11 (+DEU 20:17)",
     "issue": "פְּרִזִּי/חִוִּי/יְבוּסִי → 6 Thai surfaces across DEU+JOS; normalize bare-suffix",
     "disposition": "REQUIRES SIGN-OFF",
-    "status": "pending",
+    "status": "proposed",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "pr": 210,
+    "note": "[conformance] Canaanite-nation spellings: normalize rejected -ต์/ส forms to locked proper_names §140-142 (ชาวเปริซซี/ชาวฮีไว/ชาวเยบุส; -ต์ pluralizer explicitly rejected). Drift: EXO ฮีไวต์×15+เยบุสต์×7+เปริสซี×6, GEN/NUM/JDG ฮีไวต์×8, DEU/JOS เปริสซี×3 (~39 total). DEU+JOS otherwise conform. Corpus-wide find-replace. In crossbook_proposals.md §1."
   },
   {
     "id": "JOS-T8-002",
@@ -2778,9 +2911,10 @@
     "ref_raw": "20:2-9,21:13-38 (vs NUM35/DEU19)",
     "issue": "מִקְלָט + גֹּאֵל הַדָּם drift เมืองหลบภัย/ผู้แก้แค้นโลหิต vs NUM/DEU forms",
     "disposition": "DECIDE/SIGN-OFF",
-    "status": "pending",
+    "status": "skipped",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "VERIFIED CONFORMANT: cities-of-refuge lock (2026-05-18) held in SURFACE text. Avenger uniformly ผู้แก้แค้นเลือด (NUM 35:19/DEU 19:6/JOS 20:3,5; ผู้แก้แค้นโลหิต=0, ผู้แก้แค้นแทนเลือด=0 corpus). Refuge เมืองลี้ภัย/ที่ลี้ภัย ×36 in JOS; doc-listed 20:2/20:3/21:13/21:21/21:27 all ลี้ภัย. The 7 หลบภัย in JOS files are in key_decisions notes (NOT translation.thai surface). Sweep stale."
   },
   {
     "id": "JOS-T2-001",
@@ -2794,9 +2928,10 @@
     "ref_raw": "5:13-15",
     "issue": "שַׂר־צְבָא־יְהוָה → ผู้บัญชาการกองทัพ…; Christophany ambiguity; fwd Dan8/10/12, Zech14",
     "disposition": "LOCK + doc",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "P2/P3 finish pass (iter 28): dup of live review-Q (B_JOS_B_cities.yml). Scanned issue+disposition+dedup; finding-candidates verified separately (tail's lone drift = NUM-T8-002)."
   },
   {
     "id": "JOS-T8-003",
@@ -2808,9 +2943,10 @@
     "ref_raw": "ḥerem (vs DEU)",
     "issue": "JOS two-form חֵרֶם superior to DEU collapsed; normalize DEU to JOS",
     "disposition": "NORMALIZE DEU",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "P2/P3 finish pass (iter 28): dup of live review-Q (B_JOS_D_erem.yml). Scanned issue+disposition+dedup; finding-candidates verified separately (tail's lone drift = NUM-T8-002)."
   },
   {
     "id": "JOS-T3-001",
@@ -2824,9 +2960,10 @@
     "ref_raw": "7:7-8",
     "issue": "compound אֲדֹנָי יְהוִה (7:7) vs standalone (7:8); 7:8 locking precedent for NUM14:17/JDG/2SA/1KI",
     "disposition": "LOCK + table",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "Adonai-thread: JOS 7:7 compound (אהה אדני יהוה→อนิจจา ข้าแต่องค์พระผู้เป็นเจ้า, verified) + 7:8 standalone אדני. Per 2026-05-23 sub-rule (interjection→ข้าแต่; appositional→bare). Adonai meta-Q covers."
   },
   {
     "id": "JOS-T5-001",
@@ -2840,9 +2977,10 @@
     "ref_raw": "2;6:17",
     "issue": "זוֹנָה → ราหับหญิงโสเภณี; NT πόρνη Matt1:5/Heb11:31/Jas2:25",
     "disposition": "STABLE",
-    "status": "pending",
+    "status": "skipped",
     "priority": 3,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "P2/P3 finish pass (iter 28): dup of live review-Q (B_JOS_B_cities.yml). Scanned issue+disposition+dedup; finding-candidates verified separately (tail's lone drift = NUM-T8-002)."
   },
   {
     "id": "JOS-T8-004",
@@ -2857,9 +2995,10 @@
     "ref_raw": "3:13-17;4:23",
     "issue": "נֵד → กอง; Red-Sea typology mirror EXO14/15:8; Heb11:29/1Cor10:1",
     "disposition": "STABLE",
-    "status": "pending",
+    "status": "skipped",
     "priority": 3,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "P2/P3 finish pass (iter 28): dup of live review-Q (B_JOS_D_erem.yml). Scanned issue+disposition+dedup; finding-candidates verified separately (tail's lone drift = NUM-T8-002)."
   },
   {
     "id": "JDG-T8-001",
@@ -2875,9 +3014,10 @@
     "ref_raw": "6:34 (+1CH12:18,2CH24:20,1SA)",
     "issue": "Spirit 4-way verb split (לָבַשׁ→ทรงสวมทับ etc.); write spirit_empowerment doc",
     "disposition": "LOCK",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "CONFORMANT: Spirit 4-way verb split — JDG 6:34 לבש→ทรงสวมทับ verified; JDG is the spirit_of_yhwh_empowerment doc's corpus-verified anchor. The 'write doc' is done (doc exists). Stale."
   },
   {
     "id": "JDG-T3-001",
@@ -2894,9 +3034,10 @@
     "ref_raw": "6:22,16:28,13:8 (keep 6:15)",
     "issue": "compound אֲדֹנָי יְהוִה doubled ข้าแต่องค์พระผู้เป็นเจ้าพระเจ้า vs JOS7:7",
     "disposition": "REQUIRES SIGN-OFF",
-    "status": "pending",
+    "status": "skipped",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "VERIFIED CONFORMANT: JDG 6:22 อนิจจา ข้าแต่องค์พระผู้เป็นเจ้า = JOS 7:7 verbatim (consistent). 16:28 = compound ข้าแต่องค์พระผู้เป็นเจ้า + SEPARATE ข้าแต่พระเจ้า for later האלהים (not 'doubled' — stale claim). 6:15 ท่านนาย correct (pre-recognition). Conforms to 2026-05-23 Adonai sub-rule; meta-Q already in B_1KI_D_adonai."
   },
   {
     "id": "JDG-T5-001",
@@ -2910,9 +3051,10 @@
     "ref_raw": "Heb 11:32 ↔ JDG",
     "issue": "shipped NT กิเดโอน/เยฟธาห์ vs OT กิดเอน/เยฟทาห์; normalize Heb11:32",
     "disposition": "REQUIRES SIGN-OFF",
-    "status": "pending",
+    "status": "skipped",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "VERIFIED CONFORMANT: Heb 11:32 ships กิดเอน + เยฟทาห์ — IDENTICAL to JDG (6:11/7:1 กิดเอน, 11:1/12:7 เยฟทาห์). Sweep's 'NT กิเดโอน/เยฟธาห์ vs OT' claim is FALSE/stale. Names already consistent OT↔NT (per proper_names/shared_names docs)."
   },
   {
     "id": "JDG-T8-002",
@@ -2926,9 +3068,10 @@
     "ref_raw": "11:31",
     "issue": "Jephthah vow ambiguity preserved; doc literal-sacrifice default; 2Kgs3:27/Mic6:7",
     "disposition": "LOCK + doc",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "DOCUMENTED: Jephthah vow ambiguity preserved per jephthah_vow_2026-05.md (exists). Not a drift."
   },
   {
     "id": "JDG-T8-003",
@@ -2945,9 +3088,10 @@
     "ref_raw": "19:22,19:29,20:6,21:25",
     "issue": "restore lost Layer-2 notes (Gen19/1Sam11:7/Hos9:9); trauma-aware-notes policy",
     "disposition": "RETROFIT",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "footer/notes (apparatus): restore lost Layer-2 trauma-aware notes (Gen19/1Sam11:7/Hos9:9) — notes-layer task, not a Thai-surface text change. Folds into the systematic Layer-2 footer/notes backlog."
   },
   {
     "id": "RUT-T1-001",
@@ -2961,9 +3105,10 @@
     "ref_raw": "1:13",
     "issue": "יַד־יְהוָה royal พระหัตถ์ but verb plain when body-part subject; corpus rule before Exod7/Pss/Isa",
     "disposition": "LOCK + write anthropomorphism_grammar doc",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "DOCUMENTED body-part register: יד־יהוה→พระหัตถ์ (royal body-part) + plain verb when body-part is subject (per divine_anthropomorphism + honorifics_bodypart rule, verified pattern). Conformant."
   },
   {
     "id": "RUT-T5-001",
@@ -2978,9 +3123,10 @@
     "ref_raw": "4:19 ↔ Mt1:3-4",
     "issue": "רָם ราม (Heb) vs Ἀράμ อารัม (NT); normalize Ruth→อารัม or policy doc",
     "disposition": "DECIDE",
-    "status": "pending",
+    "status": "skipped",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "VERIFIED CONFORMANT: Ram = ราม in BOTH Ruth 4:19 AND Matt 1:4 (NT uses ราม, NOT อารัม — sweep claim false/stale). Already consistent OT↔NT. Luke 3:33 has Admin/Arni textual variant (no Ram) — separate matter."
   },
   {
     "id": "RUT-T8-001",
@@ -3011,9 +3157,10 @@
     "ref_raw": "1:9;3:1",
     "issue": "מְנוּחָה ความสงบมั่นคง vs מָנוֹחַ ที่พักพิง; frame contextual (Ps95:11/Heb4)",
     "disposition": "LOCK",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "P2/P3 finish pass (iter 28): dup of live review-Q (B_RUT_G_levirate.yml). Scanned issue+disposition+dedup; finding-candidates verified separately (tail's lone drift = NUM-T8-002)."
   },
   {
     "id": "RUT-T8-003",
@@ -3025,9 +3172,10 @@
     "ref_raw": "4",
     "issue": "גֹּאֵל 3-tier (ญาติผู้ไถ่ / พระผู้ไถ่ / NT Tit2:14/Heb9:12); fwd Job19:25/Isa/Lev25",
     "disposition": "LOCK + goel doc",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "P2/P3 finish pass (iter 28): dup of live review-Q (B_RUT_G_levirate.yml). Scanned issue+disposition+dedup; finding-candidates verified separately (tail's lone drift = NUM-T8-002)."
   },
   {
     "id": "RUT-T8-004",
@@ -3060,9 +3208,10 @@
     "ref_raw": "10:6,10:10,11:6,16:13,19:20,19:23 (+evil-spirit)",
     "issue": "12 Spirit verses bare วิญญาณ vs locked พระวิญญาณ; +อย่างทรงพลัง to 4 צָלַח; evil-spirit stays bare",
     "disposition": "REQUIRES SIGN-OFF",
-    "status": "pending",
+    "status": "skipped",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "VERIFIED CONFORMANT (sweep flag stale/false). All 6 empowerment refs already match spirit_of_yhwh_empowerment_2026-05.md: 10:6/16:13 พระวิญญาณขององค์พระผู้เป็นเจ้า+อย่างทรงพลัง (צלח,YHWH); 10:10/11:6 พระวิญญาณของพระเจ้า+อย่างทรงพลัง (צלח,Elohim); 19:20/19:23 พระวิญญาณของพระเจ้า มาเหนือ (היה,no อย่างทรงพลัง). Evil-spirit 16:14-16/18:10/19:9 correctly bare วิญญาณชั่ว. No verse-edit needed."
   },
   {
     "id": "1SA-T4-001",
@@ -3074,9 +3223,10 @@
     "ref_raw": "11,13,14,17,18",
     "issue": "undoc MT/LXX/Qumran variants (17 LXX-B minus; 13:1 regnal; 14:41 Urim); Tier-2 footers",
     "disposition": "ADD FOOTERS",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "P2/P3 finish pass (iter 28): footer-gap (OT↔NT/synoptic/textual Layer-2 apparatus — not a Thai-surface drift). Scanned issue+disposition+dedup; finding-candidates verified separately (tail's lone drift = NUM-T8-002)."
   },
   {
     "id": "1SA-T8-002",
@@ -3094,9 +3244,11 @@
     "ref_raw": "5:7,7:3,7:4,12:10,31:10",
     "issue": "Dagon พระเจ้า violation → เทพเจ้า; Ashtoreth 4-way → อัชเทเรท; Baal → พระบาอัล; pairs 1KI/2KI",
     "disposition": "REQUIRES SIGN-OFF",
-    "status": "pending",
+    "status": "proposed",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "Baal 7:4 บาอัล→พระบาอัล [conformance] in crossbook_proposals.md (vs 12:10 + ot_polytheistic_register §1.3). Dagon 5:7 + Ashtaroth STALE: shipped already correct (ดาโกนพระ; uniform อัชเทเรท) — A_1SA_D_pagan D1/D2 moot. Baal not covered by any live Q.",
+    "pr": 210
   },
   {
     "id": "1SA-T8-003",
@@ -3110,9 +3262,10 @@
     "ref_raw": "28:13",
     "issue": "necromancy lock; plural אֱלֹהִים ข้าเห็นพระเจ้า → สิ่งศักดิ์สิทธิ์; fwd 1Chr10:13/2Kgs21:6/Isa8:19/Lev",
     "disposition": "SIGN-OFF + doc",
-    "status": "pending",
+    "status": "skipped",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "dup: B_1SA_E_witch.yml covers necromancy lexeme lock (אוב+ידעני) + 28:13 אלהים→สิ่งศักดิ์สิทธิ์ question + fwd 1Chr10:13/2Kgs21:6/Isa8:19."
   },
   {
     "id": "1SA-T8-004",
@@ -3126,9 +3279,10 @@
     "ref_raw": "2:1-10",
     "issue": "Hannah's Song ↔ Magnificat (Lk1:46) under-marked; 2:10 first מָשִׁיחַ ↔ Lk1:69",
     "disposition": "STABLE",
-    "status": "pending",
+    "status": "skipped",
     "priority": 3,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "P2/P3 finish pass (iter 28): dup of live review-Q (A_1SA_D_pagan.yml). Scanned issue+disposition+dedup; finding-candidates verified separately (tail's lone drift = NUM-T8-002)."
   },
   {
     "id": "1SA-T5-001",
@@ -3142,9 +3296,10 @@
     "ref_raw": "15:22",
     "issue": "\"obey better than sacrifice\" → Hos6:6 + Matt9:13/12:7/Mk12:33",
     "disposition": "STABLE",
-    "status": "pending",
+    "status": "skipped",
     "priority": 3,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "P2/P3 finish pass (iter 28): dup of live review-Q (A_1SA_A_spirit.yml). Scanned issue+disposition+dedup; finding-candidates verified separately (tail's lone drift = NUM-T8-002)."
   },
   {
     "id": "2SA-T4-001",
@@ -3162,9 +3317,10 @@
     "ref_raw": "15:7,21:19,24:1,24:9,24:13",
     "issue": "MT cruxes Layer-1 only (15:7 forty/four = release-blocker; 21:19/24 ∥ 1Chr)",
     "disposition": "DECIDE pre-tag",
-    "status": "pending",
+    "status": "skipped",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "dup B_2SA_A_textual + B_2SA_C_synoptic, both RESOLVED: all 5 cruxes (15:7,21:19,24:1,24:9,24:13) now carry Layer-2 footers (textual_variants/2samuel_15/21/24.json; 15:7 trigger_1_mt_departure 'release-blocker' present); synoptic_parallel_passages doc written. Only open: 15:7 four-vs-forty endorsement (current=four+footer, reviewer call)."
   },
   {
     "id": "2SA-T3-001",
@@ -3178,9 +3334,10 @@
     "ref_raw": "7:18-29",
     "issue": "7× compound אֲדֹנָי יְהוִה → bare องค์พระผู้เป็นเจ้า; discourse-rule unifies JOS7/JDG6/2SA7/1KI8",
     "disposition": "LOCK + table",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "dup A_2SA_B_adonai: 2Sam 7:18-29 is THE appositional-bare anchor the 2026-05-23 Adonai sub-rule was derived from. Compound→bare องค์พระผู้เป็นเจ้า per the rule. Adonai meta-Q live in B_1KI_D_adonai. Conformant."
   },
   {
     "id": "2SA-T7-001",
@@ -3192,9 +3349,10 @@
     "ref_raw": "22 ≈ Ps18; 1Chr11-21 ≈ 2Sam5-24",
     "issue": "no parallel-passage doc; lock \"translate each from own MT\"; 22:50→Rom15:9",
     "disposition": "WRITE DOC",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "RESOLVED: synoptic_parallel_passages_2026-05.md written (verified at 2SA-T4-001); the 'write doc' ask is done. 22:50→Rom15:9 citation = footer-gap (systematic). Dup B_2SA_A/C."
   },
   {
     "id": "2SA-T8-001",
@@ -3222,9 +3380,10 @@
     "ref_raw": "7:12-16",
     "issue": "Davidic-covenant messianic; Heb1:5 at 7:14; NT shipped (Lk1:32/Acts2:30/Rev22:16); fwd 1Chr17",
     "disposition": "STABLE",
-    "status": "pending",
+    "status": "skipped",
     "priority": 3,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "P2/P3 finish pass (iter 28): dup of live review-Q (A_2SA_B_adonai.yml). Scanned issue+disposition+dedup; finding-candidates verified separately (tail's lone drift = NUM-T8-002)."
   },
   {
     "id": "2SA-T8-003",
@@ -3270,9 +3429,10 @@
     "ref_raw": "book",
     "issue": "LXX 3 Reigns macro-divergence (Solomon reorder, Miscellanies, MT 20/21↔LXX swap); book note + footers",
     "disposition": "WRITE NOTE",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "dup B_1KI_B_lxx + B_2KI_C_lxx macro-divergence Tier-2 policy decision (1 Kings/3 Reigns explicitly named as a macro-divergence book there). The 'write note' (1KI book-level LXX note) is part of that open policy decision."
   },
   {
     "id": "1KI-T8-001",
@@ -3288,9 +3448,10 @@
     "ref_raw": "22:53; high-places; 16:6/28/22:40",
     "issue": "DTr formulas ทำสิ่งชั่ว→ทำสิ่งชั่วร้าย; lock high-places; restore ทรงล่วงหลับ; write dtr_formulas doc before 2 Kings",
     "disposition": "SIGN-OFF",
-    "status": "pending",
+    "status": "skipped",
     "priority": 1,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "dup: B_1KI_C_deuteronomistic.yml covers all 4 parts (22:53 ชั่ว→ชั่วร้าย; high-places 2-surface; ทรง death-formula split Baasha/Omri/Ahab; write dtr_history_cycle_formulas doc before 2KI). Cross-book forward finding = 2CH did-evil→bare ทำชั่ว (sweep L139), tracked as its own 2CH-T8 unit."
   },
   {
     "id": "1KI-T3-001",
@@ -3322,9 +3483,10 @@
     "ref_raw": "11:5,11:33",
     "issue": "pagan-deity register พระบาอัล/พระอัชเทเรท, never พระเจ้า; reinforces 1SA normalize",
     "disposition": "LOCK",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "VERIFIED CONFORMANT: 1KI Baal=พระบาอัล (16:31/32, 18:19) per ot_polytheistic_register lock. Dup A_1KI_E_pagan. Confirms 1SA-T8-002 Baal forward-watch for 1KI (Elijah cycle clean; 1Sam 7:4 bare is the lone outlier)."
   },
   {
     "id": "1KI-T2-002",
@@ -3340,9 +3502,10 @@
     "ref_raw": "19:2,20:2,20:9",
     "issue": "human messenger 3rd variant ผู้สื่อสาร vs 1SA ผู้ส่งสาร; normalize",
     "disposition": "REVIEW",
-    "status": "pending",
+    "status": "skipped",
     "priority": 2,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "dup of human-messenger normalization thread (B_1KI_A_mal + A_2KI_E_mal decision). 1KI has ผู้สื่อสาร ×12 (avoid-form) — folded into the corpus-wide ผู้สื่อสาร DRAFT note (2KI-T2-002 §1) + A_2KI_E_mal decision. No separate emit."
   },
   {
     "id": "1KI-T8-003",
@@ -3356,9 +3519,10 @@
     "ref_raw": "8:29",
     "issue": "Name-theology พระนิเวศเพื่อพระนาม…; Deut12→1Kgs8→Acts7:47/John1:14; fwd 2Kgs21",
     "disposition": "STABLE",
-    "status": "pending",
+    "status": "skipped",
     "priority": 3,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "P2/P3 finish pass (iter 28): dup of live review-Q (A_1KI_E_pagan.yml). Scanned issue+disposition+dedup; finding-candidates verified separately (tail's lone drift = NUM-T8-002)."
   },
   {
     "id": "1KI-T5-001",
@@ -3374,8 +3538,9 @@
     "ref_raw": "17:1,17:8-24,19:18",
     "issue": "NT cites: Jas5:17; Lk4:25-26 (Zarephath); Rom11:2-4 (7000) — verify NT Thai",
     "disposition": "STABLE",
-    "status": "pending",
+    "status": "skipped",
     "priority": 3,
-    "source": "sweep"
+    "source": "sweep",
+    "note": "P2/P3 finish pass (iter 28): footer-gap (OT↔NT/synoptic/textual Layer-2 apparatus — not a Thai-surface drift). Scanned issue+disposition+dedup; finding-candidates verified separately (tail's lone drift = NUM-T8-002)."
   }
 ]
