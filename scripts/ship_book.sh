@@ -182,6 +182,13 @@ git pull origin main 2>&1 | tail -1
 echo "[2/8] Rebuild bundle (book-agnostic; all translated chapters)..."
 python3 "$THAI_BIBLE_AI/scripts/build_eremos_bundle.py" 2>&1 | tail -3
 
+# The bundle must match BSB versification (the app, plans, and parallel
+# versions are English-numbered). Never ship a structurally broken bundle.
+if ! python3 "$THAI_BIBLE_AI/scripts/check_eremos_bundle.py"; then
+    echo "✗ Bundle failed BSB versification check — aborting ship." >&2
+    exit 1
+fi
+
 # --- 3. Branch + commit + push + PR + auto-merge ---
 if git diff --quiet server/data/eremos_translation.json; then
     echo
