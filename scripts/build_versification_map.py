@@ -509,6 +509,10 @@ def main():
     # directly into the JSON during book ships, outside this script
     # (1KI-5, 1KI-22, 2KI-12, 2CH, JON-2, NEH zones — 177 entries as of
     # 2026-06-03). A plain regen silently erased them once; never again.
+    # 2026-07-01: +545 more via scripts/backfill_versification_zones.py for
+    # the app bundle's MT→English conversion (GEN-32, EXO-7/8/21/22,
+    # NUM-17/25/30, DEU-13/23/28/29, 1SA-21/24, 2SA-19, 1CH-5/6/12,
+    # JER-8/9, EZK-21, DAN-3/4/6). Structure gated by check_eremos_bundle.py.
     # Any entry key present in the existing file but not generated above is
     # carried over verbatim. To intentionally delete an entry, remove it
     # from the JSON *and* note it here.

@@ -5,7 +5,7 @@
     "policy": "docs/translator_decisions/verse_schema_and_versification_2026-05.md"
   },
   "_psalm_superscription_count": 66,
-  "_total_entries": 1393,
+  "_total_entries": 2009,
   "PSA-3-1": {
     "mt_book": "PSA",
     "mt_chapter": 3,
@@ -15696,5 +15696,5455 @@
     "bsb_ref": "Zechariah 2:13",
     "lxx_ref": "Zechariah 2:17",
     "diverges": true
+  },
+  "GEN-32-1": {
+    "mt_book": "GEN",
+    "mt_chapter": 32,
+    "mt_verse": 1,
+    "mt_ref": "Genesis 32:1",
+    "english_ref": "Genesis 31:55",
+    "bsb_ref": "Genesis 31:55",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "GEN-32-2": {
+    "mt_book": "GEN",
+    "mt_chapter": 32,
+    "mt_verse": 2,
+    "mt_ref": "Genesis 32:2",
+    "english_ref": "Genesis 32:1",
+    "bsb_ref": "Genesis 32:1",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "GEN-32-3": {
+    "mt_book": "GEN",
+    "mt_chapter": 32,
+    "mt_verse": 3,
+    "mt_ref": "Genesis 32:3",
+    "english_ref": "Genesis 32:2",
+    "bsb_ref": "Genesis 32:2",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "GEN-32-4": {
+    "mt_book": "GEN",
+    "mt_chapter": 32,
+    "mt_verse": 4,
+    "mt_ref": "Genesis 32:4",
+    "english_ref": "Genesis 32:3",
+    "bsb_ref": "Genesis 32:3",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "GEN-32-5": {
+    "mt_book": "GEN",
+    "mt_chapter": 32,
+    "mt_verse": 5,
+    "mt_ref": "Genesis 32:5",
+    "english_ref": "Genesis 32:4",
+    "bsb_ref": "Genesis 32:4",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "GEN-32-6": {
+    "mt_book": "GEN",
+    "mt_chapter": 32,
+    "mt_verse": 6,
+    "mt_ref": "Genesis 32:6",
+    "english_ref": "Genesis 32:5",
+    "bsb_ref": "Genesis 32:5",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "GEN-32-7": {
+    "mt_book": "GEN",
+    "mt_chapter": 32,
+    "mt_verse": 7,
+    "mt_ref": "Genesis 32:7",
+    "english_ref": "Genesis 32:6",
+    "bsb_ref": "Genesis 32:6",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "GEN-32-8": {
+    "mt_book": "GEN",
+    "mt_chapter": 32,
+    "mt_verse": 8,
+    "mt_ref": "Genesis 32:8",
+    "english_ref": "Genesis 32:7",
+    "bsb_ref": "Genesis 32:7",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "GEN-32-9": {
+    "mt_book": "GEN",
+    "mt_chapter": 32,
+    "mt_verse": 9,
+    "mt_ref": "Genesis 32:9",
+    "english_ref": "Genesis 32:8",
+    "bsb_ref": "Genesis 32:8",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "GEN-32-10": {
+    "mt_book": "GEN",
+    "mt_chapter": 32,
+    "mt_verse": 10,
+    "mt_ref": "Genesis 32:10",
+    "english_ref": "Genesis 32:9",
+    "bsb_ref": "Genesis 32:9",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "GEN-32-11": {
+    "mt_book": "GEN",
+    "mt_chapter": 32,
+    "mt_verse": 11,
+    "mt_ref": "Genesis 32:11",
+    "english_ref": "Genesis 32:10",
+    "bsb_ref": "Genesis 32:10",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "GEN-32-12": {
+    "mt_book": "GEN",
+    "mt_chapter": 32,
+    "mt_verse": 12,
+    "mt_ref": "Genesis 32:12",
+    "english_ref": "Genesis 32:11",
+    "bsb_ref": "Genesis 32:11",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "GEN-32-13": {
+    "mt_book": "GEN",
+    "mt_chapter": 32,
+    "mt_verse": 13,
+    "mt_ref": "Genesis 32:13",
+    "english_ref": "Genesis 32:12",
+    "bsb_ref": "Genesis 32:12",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "GEN-32-14": {
+    "mt_book": "GEN",
+    "mt_chapter": 32,
+    "mt_verse": 14,
+    "mt_ref": "Genesis 32:14",
+    "english_ref": "Genesis 32:13",
+    "bsb_ref": "Genesis 32:13",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "GEN-32-15": {
+    "mt_book": "GEN",
+    "mt_chapter": 32,
+    "mt_verse": 15,
+    "mt_ref": "Genesis 32:15",
+    "english_ref": "Genesis 32:14",
+    "bsb_ref": "Genesis 32:14",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "GEN-32-16": {
+    "mt_book": "GEN",
+    "mt_chapter": 32,
+    "mt_verse": 16,
+    "mt_ref": "Genesis 32:16",
+    "english_ref": "Genesis 32:15",
+    "bsb_ref": "Genesis 32:15",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "GEN-32-17": {
+    "mt_book": "GEN",
+    "mt_chapter": 32,
+    "mt_verse": 17,
+    "mt_ref": "Genesis 32:17",
+    "english_ref": "Genesis 32:16",
+    "bsb_ref": "Genesis 32:16",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "GEN-32-18": {
+    "mt_book": "GEN",
+    "mt_chapter": 32,
+    "mt_verse": 18,
+    "mt_ref": "Genesis 32:18",
+    "english_ref": "Genesis 32:17",
+    "bsb_ref": "Genesis 32:17",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "GEN-32-19": {
+    "mt_book": "GEN",
+    "mt_chapter": 32,
+    "mt_verse": 19,
+    "mt_ref": "Genesis 32:19",
+    "english_ref": "Genesis 32:18",
+    "bsb_ref": "Genesis 32:18",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "GEN-32-20": {
+    "mt_book": "GEN",
+    "mt_chapter": 32,
+    "mt_verse": 20,
+    "mt_ref": "Genesis 32:20",
+    "english_ref": "Genesis 32:19",
+    "bsb_ref": "Genesis 32:19",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "GEN-32-21": {
+    "mt_book": "GEN",
+    "mt_chapter": 32,
+    "mt_verse": 21,
+    "mt_ref": "Genesis 32:21",
+    "english_ref": "Genesis 32:20",
+    "bsb_ref": "Genesis 32:20",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "GEN-32-22": {
+    "mt_book": "GEN",
+    "mt_chapter": 32,
+    "mt_verse": 22,
+    "mt_ref": "Genesis 32:22",
+    "english_ref": "Genesis 32:21",
+    "bsb_ref": "Genesis 32:21",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "GEN-32-23": {
+    "mt_book": "GEN",
+    "mt_chapter": 32,
+    "mt_verse": 23,
+    "mt_ref": "Genesis 32:23",
+    "english_ref": "Genesis 32:22",
+    "bsb_ref": "Genesis 32:22",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "GEN-32-24": {
+    "mt_book": "GEN",
+    "mt_chapter": 32,
+    "mt_verse": 24,
+    "mt_ref": "Genesis 32:24",
+    "english_ref": "Genesis 32:23",
+    "bsb_ref": "Genesis 32:23",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "GEN-32-25": {
+    "mt_book": "GEN",
+    "mt_chapter": 32,
+    "mt_verse": 25,
+    "mt_ref": "Genesis 32:25",
+    "english_ref": "Genesis 32:24",
+    "bsb_ref": "Genesis 32:24",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "GEN-32-26": {
+    "mt_book": "GEN",
+    "mt_chapter": 32,
+    "mt_verse": 26,
+    "mt_ref": "Genesis 32:26",
+    "english_ref": "Genesis 32:25",
+    "bsb_ref": "Genesis 32:25",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "GEN-32-27": {
+    "mt_book": "GEN",
+    "mt_chapter": 32,
+    "mt_verse": 27,
+    "mt_ref": "Genesis 32:27",
+    "english_ref": "Genesis 32:26",
+    "bsb_ref": "Genesis 32:26",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "GEN-32-28": {
+    "mt_book": "GEN",
+    "mt_chapter": 32,
+    "mt_verse": 28,
+    "mt_ref": "Genesis 32:28",
+    "english_ref": "Genesis 32:27",
+    "bsb_ref": "Genesis 32:27",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "GEN-32-29": {
+    "mt_book": "GEN",
+    "mt_chapter": 32,
+    "mt_verse": 29,
+    "mt_ref": "Genesis 32:29",
+    "english_ref": "Genesis 32:28",
+    "bsb_ref": "Genesis 32:28",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "GEN-32-30": {
+    "mt_book": "GEN",
+    "mt_chapter": 32,
+    "mt_verse": 30,
+    "mt_ref": "Genesis 32:30",
+    "english_ref": "Genesis 32:29",
+    "bsb_ref": "Genesis 32:29",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "GEN-32-31": {
+    "mt_book": "GEN",
+    "mt_chapter": 32,
+    "mt_verse": 31,
+    "mt_ref": "Genesis 32:31",
+    "english_ref": "Genesis 32:30",
+    "bsb_ref": "Genesis 32:30",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "GEN-32-32": {
+    "mt_book": "GEN",
+    "mt_chapter": 32,
+    "mt_verse": 32,
+    "mt_ref": "Genesis 32:32",
+    "english_ref": "Genesis 32:31",
+    "bsb_ref": "Genesis 32:31",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "GEN-32-33": {
+    "mt_book": "GEN",
+    "mt_chapter": 32,
+    "mt_verse": 33,
+    "mt_ref": "Genesis 32:33",
+    "english_ref": "Genesis 32:32",
+    "bsb_ref": "Genesis 32:32",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-7-26": {
+    "mt_book": "EXO",
+    "mt_chapter": 7,
+    "mt_verse": 26,
+    "mt_ref": "Exodus 7:26",
+    "english_ref": "Exodus 8:1",
+    "bsb_ref": "Exodus 8:1",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-7-27": {
+    "mt_book": "EXO",
+    "mt_chapter": 7,
+    "mt_verse": 27,
+    "mt_ref": "Exodus 7:27",
+    "english_ref": "Exodus 8:2",
+    "bsb_ref": "Exodus 8:2",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-7-28": {
+    "mt_book": "EXO",
+    "mt_chapter": 7,
+    "mt_verse": 28,
+    "mt_ref": "Exodus 7:28",
+    "english_ref": "Exodus 8:3",
+    "bsb_ref": "Exodus 8:3",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-7-29": {
+    "mt_book": "EXO",
+    "mt_chapter": 7,
+    "mt_verse": 29,
+    "mt_ref": "Exodus 7:29",
+    "english_ref": "Exodus 8:4",
+    "bsb_ref": "Exodus 8:4",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-8-1": {
+    "mt_book": "EXO",
+    "mt_chapter": 8,
+    "mt_verse": 1,
+    "mt_ref": "Exodus 8:1",
+    "english_ref": "Exodus 8:5",
+    "bsb_ref": "Exodus 8:5",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-8-2": {
+    "mt_book": "EXO",
+    "mt_chapter": 8,
+    "mt_verse": 2,
+    "mt_ref": "Exodus 8:2",
+    "english_ref": "Exodus 8:6",
+    "bsb_ref": "Exodus 8:6",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-8-3": {
+    "mt_book": "EXO",
+    "mt_chapter": 8,
+    "mt_verse": 3,
+    "mt_ref": "Exodus 8:3",
+    "english_ref": "Exodus 8:7",
+    "bsb_ref": "Exodus 8:7",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-8-4": {
+    "mt_book": "EXO",
+    "mt_chapter": 8,
+    "mt_verse": 4,
+    "mt_ref": "Exodus 8:4",
+    "english_ref": "Exodus 8:8",
+    "bsb_ref": "Exodus 8:8",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-8-5": {
+    "mt_book": "EXO",
+    "mt_chapter": 8,
+    "mt_verse": 5,
+    "mt_ref": "Exodus 8:5",
+    "english_ref": "Exodus 8:9",
+    "bsb_ref": "Exodus 8:9",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-8-6": {
+    "mt_book": "EXO",
+    "mt_chapter": 8,
+    "mt_verse": 6,
+    "mt_ref": "Exodus 8:6",
+    "english_ref": "Exodus 8:10",
+    "bsb_ref": "Exodus 8:10",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-8-7": {
+    "mt_book": "EXO",
+    "mt_chapter": 8,
+    "mt_verse": 7,
+    "mt_ref": "Exodus 8:7",
+    "english_ref": "Exodus 8:11",
+    "bsb_ref": "Exodus 8:11",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-8-8": {
+    "mt_book": "EXO",
+    "mt_chapter": 8,
+    "mt_verse": 8,
+    "mt_ref": "Exodus 8:8",
+    "english_ref": "Exodus 8:12",
+    "bsb_ref": "Exodus 8:12",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-8-9": {
+    "mt_book": "EXO",
+    "mt_chapter": 8,
+    "mt_verse": 9,
+    "mt_ref": "Exodus 8:9",
+    "english_ref": "Exodus 8:13",
+    "bsb_ref": "Exodus 8:13",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-8-10": {
+    "mt_book": "EXO",
+    "mt_chapter": 8,
+    "mt_verse": 10,
+    "mt_ref": "Exodus 8:10",
+    "english_ref": "Exodus 8:14",
+    "bsb_ref": "Exodus 8:14",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-8-11": {
+    "mt_book": "EXO",
+    "mt_chapter": 8,
+    "mt_verse": 11,
+    "mt_ref": "Exodus 8:11",
+    "english_ref": "Exodus 8:15",
+    "bsb_ref": "Exodus 8:15",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-8-12": {
+    "mt_book": "EXO",
+    "mt_chapter": 8,
+    "mt_verse": 12,
+    "mt_ref": "Exodus 8:12",
+    "english_ref": "Exodus 8:16",
+    "bsb_ref": "Exodus 8:16",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-8-13": {
+    "mt_book": "EXO",
+    "mt_chapter": 8,
+    "mt_verse": 13,
+    "mt_ref": "Exodus 8:13",
+    "english_ref": "Exodus 8:17",
+    "bsb_ref": "Exodus 8:17",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-8-14": {
+    "mt_book": "EXO",
+    "mt_chapter": 8,
+    "mt_verse": 14,
+    "mt_ref": "Exodus 8:14",
+    "english_ref": "Exodus 8:18",
+    "bsb_ref": "Exodus 8:18",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-8-15": {
+    "mt_book": "EXO",
+    "mt_chapter": 8,
+    "mt_verse": 15,
+    "mt_ref": "Exodus 8:15",
+    "english_ref": "Exodus 8:19",
+    "bsb_ref": "Exodus 8:19",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-8-16": {
+    "mt_book": "EXO",
+    "mt_chapter": 8,
+    "mt_verse": 16,
+    "mt_ref": "Exodus 8:16",
+    "english_ref": "Exodus 8:20",
+    "bsb_ref": "Exodus 8:20",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-8-17": {
+    "mt_book": "EXO",
+    "mt_chapter": 8,
+    "mt_verse": 17,
+    "mt_ref": "Exodus 8:17",
+    "english_ref": "Exodus 8:21",
+    "bsb_ref": "Exodus 8:21",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-8-18": {
+    "mt_book": "EXO",
+    "mt_chapter": 8,
+    "mt_verse": 18,
+    "mt_ref": "Exodus 8:18",
+    "english_ref": "Exodus 8:22",
+    "bsb_ref": "Exodus 8:22",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-8-19": {
+    "mt_book": "EXO",
+    "mt_chapter": 8,
+    "mt_verse": 19,
+    "mt_ref": "Exodus 8:19",
+    "english_ref": "Exodus 8:23",
+    "bsb_ref": "Exodus 8:23",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-8-20": {
+    "mt_book": "EXO",
+    "mt_chapter": 8,
+    "mt_verse": 20,
+    "mt_ref": "Exodus 8:20",
+    "english_ref": "Exodus 8:24",
+    "bsb_ref": "Exodus 8:24",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-8-21": {
+    "mt_book": "EXO",
+    "mt_chapter": 8,
+    "mt_verse": 21,
+    "mt_ref": "Exodus 8:21",
+    "english_ref": "Exodus 8:25",
+    "bsb_ref": "Exodus 8:25",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-8-22": {
+    "mt_book": "EXO",
+    "mt_chapter": 8,
+    "mt_verse": 22,
+    "mt_ref": "Exodus 8:22",
+    "english_ref": "Exodus 8:26",
+    "bsb_ref": "Exodus 8:26",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-8-23": {
+    "mt_book": "EXO",
+    "mt_chapter": 8,
+    "mt_verse": 23,
+    "mt_ref": "Exodus 8:23",
+    "english_ref": "Exodus 8:27",
+    "bsb_ref": "Exodus 8:27",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-8-24": {
+    "mt_book": "EXO",
+    "mt_chapter": 8,
+    "mt_verse": 24,
+    "mt_ref": "Exodus 8:24",
+    "english_ref": "Exodus 8:28",
+    "bsb_ref": "Exodus 8:28",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-8-25": {
+    "mt_book": "EXO",
+    "mt_chapter": 8,
+    "mt_verse": 25,
+    "mt_ref": "Exodus 8:25",
+    "english_ref": "Exodus 8:29",
+    "bsb_ref": "Exodus 8:29",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-8-26": {
+    "mt_book": "EXO",
+    "mt_chapter": 8,
+    "mt_verse": 26,
+    "mt_ref": "Exodus 8:26",
+    "english_ref": "Exodus 8:30",
+    "bsb_ref": "Exodus 8:30",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-8-27": {
+    "mt_book": "EXO",
+    "mt_chapter": 8,
+    "mt_verse": 27,
+    "mt_ref": "Exodus 8:27",
+    "english_ref": "Exodus 8:31",
+    "bsb_ref": "Exodus 8:31",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-8-28": {
+    "mt_book": "EXO",
+    "mt_chapter": 8,
+    "mt_verse": 28,
+    "mt_ref": "Exodus 8:28",
+    "english_ref": "Exodus 8:32",
+    "bsb_ref": "Exodus 8:32",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-21-37": {
+    "mt_book": "EXO",
+    "mt_chapter": 21,
+    "mt_verse": 37,
+    "mt_ref": "Exodus 21:37",
+    "english_ref": "Exodus 22:1",
+    "bsb_ref": "Exodus 22:1",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-22-1": {
+    "mt_book": "EXO",
+    "mt_chapter": 22,
+    "mt_verse": 1,
+    "mt_ref": "Exodus 22:1",
+    "english_ref": "Exodus 22:2",
+    "bsb_ref": "Exodus 22:2",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-22-2": {
+    "mt_book": "EXO",
+    "mt_chapter": 22,
+    "mt_verse": 2,
+    "mt_ref": "Exodus 22:2",
+    "english_ref": "Exodus 22:3",
+    "bsb_ref": "Exodus 22:3",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-22-3": {
+    "mt_book": "EXO",
+    "mt_chapter": 22,
+    "mt_verse": 3,
+    "mt_ref": "Exodus 22:3",
+    "english_ref": "Exodus 22:4",
+    "bsb_ref": "Exodus 22:4",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-22-4": {
+    "mt_book": "EXO",
+    "mt_chapter": 22,
+    "mt_verse": 4,
+    "mt_ref": "Exodus 22:4",
+    "english_ref": "Exodus 22:5",
+    "bsb_ref": "Exodus 22:5",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-22-5": {
+    "mt_book": "EXO",
+    "mt_chapter": 22,
+    "mt_verse": 5,
+    "mt_ref": "Exodus 22:5",
+    "english_ref": "Exodus 22:6",
+    "bsb_ref": "Exodus 22:6",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-22-6": {
+    "mt_book": "EXO",
+    "mt_chapter": 22,
+    "mt_verse": 6,
+    "mt_ref": "Exodus 22:6",
+    "english_ref": "Exodus 22:7",
+    "bsb_ref": "Exodus 22:7",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-22-7": {
+    "mt_book": "EXO",
+    "mt_chapter": 22,
+    "mt_verse": 7,
+    "mt_ref": "Exodus 22:7",
+    "english_ref": "Exodus 22:8",
+    "bsb_ref": "Exodus 22:8",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-22-8": {
+    "mt_book": "EXO",
+    "mt_chapter": 22,
+    "mt_verse": 8,
+    "mt_ref": "Exodus 22:8",
+    "english_ref": "Exodus 22:9",
+    "bsb_ref": "Exodus 22:9",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-22-9": {
+    "mt_book": "EXO",
+    "mt_chapter": 22,
+    "mt_verse": 9,
+    "mt_ref": "Exodus 22:9",
+    "english_ref": "Exodus 22:10",
+    "bsb_ref": "Exodus 22:10",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-22-10": {
+    "mt_book": "EXO",
+    "mt_chapter": 22,
+    "mt_verse": 10,
+    "mt_ref": "Exodus 22:10",
+    "english_ref": "Exodus 22:11",
+    "bsb_ref": "Exodus 22:11",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-22-11": {
+    "mt_book": "EXO",
+    "mt_chapter": 22,
+    "mt_verse": 11,
+    "mt_ref": "Exodus 22:11",
+    "english_ref": "Exodus 22:12",
+    "bsb_ref": "Exodus 22:12",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-22-12": {
+    "mt_book": "EXO",
+    "mt_chapter": 22,
+    "mt_verse": 12,
+    "mt_ref": "Exodus 22:12",
+    "english_ref": "Exodus 22:13",
+    "bsb_ref": "Exodus 22:13",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-22-13": {
+    "mt_book": "EXO",
+    "mt_chapter": 22,
+    "mt_verse": 13,
+    "mt_ref": "Exodus 22:13",
+    "english_ref": "Exodus 22:14",
+    "bsb_ref": "Exodus 22:14",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-22-14": {
+    "mt_book": "EXO",
+    "mt_chapter": 22,
+    "mt_verse": 14,
+    "mt_ref": "Exodus 22:14",
+    "english_ref": "Exodus 22:15",
+    "bsb_ref": "Exodus 22:15",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-22-15": {
+    "mt_book": "EXO",
+    "mt_chapter": 22,
+    "mt_verse": 15,
+    "mt_ref": "Exodus 22:15",
+    "english_ref": "Exodus 22:16",
+    "bsb_ref": "Exodus 22:16",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-22-16": {
+    "mt_book": "EXO",
+    "mt_chapter": 22,
+    "mt_verse": 16,
+    "mt_ref": "Exodus 22:16",
+    "english_ref": "Exodus 22:17",
+    "bsb_ref": "Exodus 22:17",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-22-17": {
+    "mt_book": "EXO",
+    "mt_chapter": 22,
+    "mt_verse": 17,
+    "mt_ref": "Exodus 22:17",
+    "english_ref": "Exodus 22:18",
+    "bsb_ref": "Exodus 22:18",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-22-18": {
+    "mt_book": "EXO",
+    "mt_chapter": 22,
+    "mt_verse": 18,
+    "mt_ref": "Exodus 22:18",
+    "english_ref": "Exodus 22:19",
+    "bsb_ref": "Exodus 22:19",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-22-19": {
+    "mt_book": "EXO",
+    "mt_chapter": 22,
+    "mt_verse": 19,
+    "mt_ref": "Exodus 22:19",
+    "english_ref": "Exodus 22:20",
+    "bsb_ref": "Exodus 22:20",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-22-20": {
+    "mt_book": "EXO",
+    "mt_chapter": 22,
+    "mt_verse": 20,
+    "mt_ref": "Exodus 22:20",
+    "english_ref": "Exodus 22:21",
+    "bsb_ref": "Exodus 22:21",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-22-21": {
+    "mt_book": "EXO",
+    "mt_chapter": 22,
+    "mt_verse": 21,
+    "mt_ref": "Exodus 22:21",
+    "english_ref": "Exodus 22:22",
+    "bsb_ref": "Exodus 22:22",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-22-22": {
+    "mt_book": "EXO",
+    "mt_chapter": 22,
+    "mt_verse": 22,
+    "mt_ref": "Exodus 22:22",
+    "english_ref": "Exodus 22:23",
+    "bsb_ref": "Exodus 22:23",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-22-23": {
+    "mt_book": "EXO",
+    "mt_chapter": 22,
+    "mt_verse": 23,
+    "mt_ref": "Exodus 22:23",
+    "english_ref": "Exodus 22:24",
+    "bsb_ref": "Exodus 22:24",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-22-24": {
+    "mt_book": "EXO",
+    "mt_chapter": 22,
+    "mt_verse": 24,
+    "mt_ref": "Exodus 22:24",
+    "english_ref": "Exodus 22:25",
+    "bsb_ref": "Exodus 22:25",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-22-25": {
+    "mt_book": "EXO",
+    "mt_chapter": 22,
+    "mt_verse": 25,
+    "mt_ref": "Exodus 22:25",
+    "english_ref": "Exodus 22:26",
+    "bsb_ref": "Exodus 22:26",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-22-26": {
+    "mt_book": "EXO",
+    "mt_chapter": 22,
+    "mt_verse": 26,
+    "mt_ref": "Exodus 22:26",
+    "english_ref": "Exodus 22:27",
+    "bsb_ref": "Exodus 22:27",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-22-27": {
+    "mt_book": "EXO",
+    "mt_chapter": 22,
+    "mt_verse": 27,
+    "mt_ref": "Exodus 22:27",
+    "english_ref": "Exodus 22:28",
+    "bsb_ref": "Exodus 22:28",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-22-28": {
+    "mt_book": "EXO",
+    "mt_chapter": 22,
+    "mt_verse": 28,
+    "mt_ref": "Exodus 22:28",
+    "english_ref": "Exodus 22:29",
+    "bsb_ref": "Exodus 22:29",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-22-29": {
+    "mt_book": "EXO",
+    "mt_chapter": 22,
+    "mt_verse": 29,
+    "mt_ref": "Exodus 22:29",
+    "english_ref": "Exodus 22:30",
+    "bsb_ref": "Exodus 22:30",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EXO-22-30": {
+    "mt_book": "EXO",
+    "mt_chapter": 22,
+    "mt_verse": 30,
+    "mt_ref": "Exodus 22:30",
+    "english_ref": "Exodus 22:31",
+    "bsb_ref": "Exodus 22:31",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "NUM-17-1": {
+    "mt_book": "NUM",
+    "mt_chapter": 17,
+    "mt_verse": 1,
+    "mt_ref": "Numbers 17:1",
+    "english_ref": "Numbers 16:36",
+    "bsb_ref": "Numbers 16:36",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "NUM-17-2": {
+    "mt_book": "NUM",
+    "mt_chapter": 17,
+    "mt_verse": 2,
+    "mt_ref": "Numbers 17:2",
+    "english_ref": "Numbers 16:37",
+    "bsb_ref": "Numbers 16:37",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "NUM-17-3": {
+    "mt_book": "NUM",
+    "mt_chapter": 17,
+    "mt_verse": 3,
+    "mt_ref": "Numbers 17:3",
+    "english_ref": "Numbers 16:38",
+    "bsb_ref": "Numbers 16:38",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "NUM-17-4": {
+    "mt_book": "NUM",
+    "mt_chapter": 17,
+    "mt_verse": 4,
+    "mt_ref": "Numbers 17:4",
+    "english_ref": "Numbers 16:39",
+    "bsb_ref": "Numbers 16:39",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "NUM-17-5": {
+    "mt_book": "NUM",
+    "mt_chapter": 17,
+    "mt_verse": 5,
+    "mt_ref": "Numbers 17:5",
+    "english_ref": "Numbers 16:40",
+    "bsb_ref": "Numbers 16:40",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "NUM-17-6": {
+    "mt_book": "NUM",
+    "mt_chapter": 17,
+    "mt_verse": 6,
+    "mt_ref": "Numbers 17:6",
+    "english_ref": "Numbers 16:41",
+    "bsb_ref": "Numbers 16:41",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "NUM-17-7": {
+    "mt_book": "NUM",
+    "mt_chapter": 17,
+    "mt_verse": 7,
+    "mt_ref": "Numbers 17:7",
+    "english_ref": "Numbers 16:42",
+    "bsb_ref": "Numbers 16:42",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "NUM-17-8": {
+    "mt_book": "NUM",
+    "mt_chapter": 17,
+    "mt_verse": 8,
+    "mt_ref": "Numbers 17:8",
+    "english_ref": "Numbers 16:43",
+    "bsb_ref": "Numbers 16:43",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "NUM-17-9": {
+    "mt_book": "NUM",
+    "mt_chapter": 17,
+    "mt_verse": 9,
+    "mt_ref": "Numbers 17:9",
+    "english_ref": "Numbers 16:44",
+    "bsb_ref": "Numbers 16:44",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "NUM-17-10": {
+    "mt_book": "NUM",
+    "mt_chapter": 17,
+    "mt_verse": 10,
+    "mt_ref": "Numbers 17:10",
+    "english_ref": "Numbers 16:45",
+    "bsb_ref": "Numbers 16:45",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "NUM-17-11": {
+    "mt_book": "NUM",
+    "mt_chapter": 17,
+    "mt_verse": 11,
+    "mt_ref": "Numbers 17:11",
+    "english_ref": "Numbers 16:46",
+    "bsb_ref": "Numbers 16:46",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "NUM-17-12": {
+    "mt_book": "NUM",
+    "mt_chapter": 17,
+    "mt_verse": 12,
+    "mt_ref": "Numbers 17:12",
+    "english_ref": "Numbers 16:47",
+    "bsb_ref": "Numbers 16:47",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "NUM-17-13": {
+    "mt_book": "NUM",
+    "mt_chapter": 17,
+    "mt_verse": 13,
+    "mt_ref": "Numbers 17:13",
+    "english_ref": "Numbers 16:48",
+    "bsb_ref": "Numbers 16:48",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "NUM-17-14": {
+    "mt_book": "NUM",
+    "mt_chapter": 17,
+    "mt_verse": 14,
+    "mt_ref": "Numbers 17:14",
+    "english_ref": "Numbers 16:49",
+    "bsb_ref": "Numbers 16:49",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "NUM-17-15": {
+    "mt_book": "NUM",
+    "mt_chapter": 17,
+    "mt_verse": 15,
+    "mt_ref": "Numbers 17:15",
+    "english_ref": "Numbers 16:50",
+    "bsb_ref": "Numbers 16:50",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "NUM-17-16": {
+    "mt_book": "NUM",
+    "mt_chapter": 17,
+    "mt_verse": 16,
+    "mt_ref": "Numbers 17:16",
+    "english_ref": "Numbers 17:1",
+    "bsb_ref": "Numbers 17:1",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "NUM-17-17": {
+    "mt_book": "NUM",
+    "mt_chapter": 17,
+    "mt_verse": 17,
+    "mt_ref": "Numbers 17:17",
+    "english_ref": "Numbers 17:2",
+    "bsb_ref": "Numbers 17:2",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "NUM-17-18": {
+    "mt_book": "NUM",
+    "mt_chapter": 17,
+    "mt_verse": 18,
+    "mt_ref": "Numbers 17:18",
+    "english_ref": "Numbers 17:3",
+    "bsb_ref": "Numbers 17:3",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "NUM-17-19": {
+    "mt_book": "NUM",
+    "mt_chapter": 17,
+    "mt_verse": 19,
+    "mt_ref": "Numbers 17:19",
+    "english_ref": "Numbers 17:4",
+    "bsb_ref": "Numbers 17:4",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "NUM-17-20": {
+    "mt_book": "NUM",
+    "mt_chapter": 17,
+    "mt_verse": 20,
+    "mt_ref": "Numbers 17:20",
+    "english_ref": "Numbers 17:5",
+    "bsb_ref": "Numbers 17:5",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "NUM-17-21": {
+    "mt_book": "NUM",
+    "mt_chapter": 17,
+    "mt_verse": 21,
+    "mt_ref": "Numbers 17:21",
+    "english_ref": "Numbers 17:6",
+    "bsb_ref": "Numbers 17:6",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "NUM-17-22": {
+    "mt_book": "NUM",
+    "mt_chapter": 17,
+    "mt_verse": 22,
+    "mt_ref": "Numbers 17:22",
+    "english_ref": "Numbers 17:7",
+    "bsb_ref": "Numbers 17:7",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "NUM-17-23": {
+    "mt_book": "NUM",
+    "mt_chapter": 17,
+    "mt_verse": 23,
+    "mt_ref": "Numbers 17:23",
+    "english_ref": "Numbers 17:8",
+    "bsb_ref": "Numbers 17:8",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "NUM-17-24": {
+    "mt_book": "NUM",
+    "mt_chapter": 17,
+    "mt_verse": 24,
+    "mt_ref": "Numbers 17:24",
+    "english_ref": "Numbers 17:9",
+    "bsb_ref": "Numbers 17:9",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "NUM-17-25": {
+    "mt_book": "NUM",
+    "mt_chapter": 17,
+    "mt_verse": 25,
+    "mt_ref": "Numbers 17:25",
+    "english_ref": "Numbers 17:10",
+    "bsb_ref": "Numbers 17:10",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "NUM-17-26": {
+    "mt_book": "NUM",
+    "mt_chapter": 17,
+    "mt_verse": 26,
+    "mt_ref": "Numbers 17:26",
+    "english_ref": "Numbers 17:11",
+    "bsb_ref": "Numbers 17:11",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "NUM-17-27": {
+    "mt_book": "NUM",
+    "mt_chapter": 17,
+    "mt_verse": 27,
+    "mt_ref": "Numbers 17:27",
+    "english_ref": "Numbers 17:12",
+    "bsb_ref": "Numbers 17:12",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "NUM-17-28": {
+    "mt_book": "NUM",
+    "mt_chapter": 17,
+    "mt_verse": 28,
+    "mt_ref": "Numbers 17:28",
+    "english_ref": "Numbers 17:13",
+    "bsb_ref": "Numbers 17:13",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "NUM-25-19": {
+    "mt_book": "NUM",
+    "mt_chapter": 25,
+    "mt_verse": 19,
+    "mt_ref": "Numbers 25:19",
+    "english_ref": "Numbers 26:1",
+    "bsb_ref": "Numbers 26:1",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "NUM-30-1": {
+    "mt_book": "NUM",
+    "mt_chapter": 30,
+    "mt_verse": 1,
+    "mt_ref": "Numbers 30:1",
+    "english_ref": "Numbers 29:40",
+    "bsb_ref": "Numbers 29:40",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "NUM-30-2": {
+    "mt_book": "NUM",
+    "mt_chapter": 30,
+    "mt_verse": 2,
+    "mt_ref": "Numbers 30:2",
+    "english_ref": "Numbers 30:1",
+    "bsb_ref": "Numbers 30:1",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "NUM-30-3": {
+    "mt_book": "NUM",
+    "mt_chapter": 30,
+    "mt_verse": 3,
+    "mt_ref": "Numbers 30:3",
+    "english_ref": "Numbers 30:2",
+    "bsb_ref": "Numbers 30:2",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "NUM-30-4": {
+    "mt_book": "NUM",
+    "mt_chapter": 30,
+    "mt_verse": 4,
+    "mt_ref": "Numbers 30:4",
+    "english_ref": "Numbers 30:3",
+    "bsb_ref": "Numbers 30:3",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "NUM-30-5": {
+    "mt_book": "NUM",
+    "mt_chapter": 30,
+    "mt_verse": 5,
+    "mt_ref": "Numbers 30:5",
+    "english_ref": "Numbers 30:4",
+    "bsb_ref": "Numbers 30:4",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "NUM-30-6": {
+    "mt_book": "NUM",
+    "mt_chapter": 30,
+    "mt_verse": 6,
+    "mt_ref": "Numbers 30:6",
+    "english_ref": "Numbers 30:5",
+    "bsb_ref": "Numbers 30:5",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "NUM-30-7": {
+    "mt_book": "NUM",
+    "mt_chapter": 30,
+    "mt_verse": 7,
+    "mt_ref": "Numbers 30:7",
+    "english_ref": "Numbers 30:6",
+    "bsb_ref": "Numbers 30:6",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "NUM-30-8": {
+    "mt_book": "NUM",
+    "mt_chapter": 30,
+    "mt_verse": 8,
+    "mt_ref": "Numbers 30:8",
+    "english_ref": "Numbers 30:7",
+    "bsb_ref": "Numbers 30:7",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "NUM-30-9": {
+    "mt_book": "NUM",
+    "mt_chapter": 30,
+    "mt_verse": 9,
+    "mt_ref": "Numbers 30:9",
+    "english_ref": "Numbers 30:8",
+    "bsb_ref": "Numbers 30:8",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "NUM-30-10": {
+    "mt_book": "NUM",
+    "mt_chapter": 30,
+    "mt_verse": 10,
+    "mt_ref": "Numbers 30:10",
+    "english_ref": "Numbers 30:9",
+    "bsb_ref": "Numbers 30:9",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "NUM-30-11": {
+    "mt_book": "NUM",
+    "mt_chapter": 30,
+    "mt_verse": 11,
+    "mt_ref": "Numbers 30:11",
+    "english_ref": "Numbers 30:10",
+    "bsb_ref": "Numbers 30:10",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "NUM-30-12": {
+    "mt_book": "NUM",
+    "mt_chapter": 30,
+    "mt_verse": 12,
+    "mt_ref": "Numbers 30:12",
+    "english_ref": "Numbers 30:11",
+    "bsb_ref": "Numbers 30:11",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "NUM-30-13": {
+    "mt_book": "NUM",
+    "mt_chapter": 30,
+    "mt_verse": 13,
+    "mt_ref": "Numbers 30:13",
+    "english_ref": "Numbers 30:12",
+    "bsb_ref": "Numbers 30:12",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "NUM-30-14": {
+    "mt_book": "NUM",
+    "mt_chapter": 30,
+    "mt_verse": 14,
+    "mt_ref": "Numbers 30:14",
+    "english_ref": "Numbers 30:13",
+    "bsb_ref": "Numbers 30:13",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "NUM-30-15": {
+    "mt_book": "NUM",
+    "mt_chapter": 30,
+    "mt_verse": 15,
+    "mt_ref": "Numbers 30:15",
+    "english_ref": "Numbers 30:14",
+    "bsb_ref": "Numbers 30:14",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "NUM-30-16": {
+    "mt_book": "NUM",
+    "mt_chapter": 30,
+    "mt_verse": 16,
+    "mt_ref": "Numbers 30:16",
+    "english_ref": "Numbers 30:15",
+    "bsb_ref": "Numbers 30:15",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "NUM-30-17": {
+    "mt_book": "NUM",
+    "mt_chapter": 30,
+    "mt_verse": 17,
+    "mt_ref": "Numbers 30:17",
+    "english_ref": "Numbers 30:16",
+    "bsb_ref": "Numbers 30:16",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-13-1": {
+    "mt_book": "DEU",
+    "mt_chapter": 13,
+    "mt_verse": 1,
+    "mt_ref": "Deuteronomy 13:1",
+    "english_ref": "Deuteronomy 12:32",
+    "bsb_ref": "Deuteronomy 12:32",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-13-2": {
+    "mt_book": "DEU",
+    "mt_chapter": 13,
+    "mt_verse": 2,
+    "mt_ref": "Deuteronomy 13:2",
+    "english_ref": "Deuteronomy 13:1",
+    "bsb_ref": "Deuteronomy 13:1",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-13-3": {
+    "mt_book": "DEU",
+    "mt_chapter": 13,
+    "mt_verse": 3,
+    "mt_ref": "Deuteronomy 13:3",
+    "english_ref": "Deuteronomy 13:2",
+    "bsb_ref": "Deuteronomy 13:2",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-13-4": {
+    "mt_book": "DEU",
+    "mt_chapter": 13,
+    "mt_verse": 4,
+    "mt_ref": "Deuteronomy 13:4",
+    "english_ref": "Deuteronomy 13:3",
+    "bsb_ref": "Deuteronomy 13:3",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-13-5": {
+    "mt_book": "DEU",
+    "mt_chapter": 13,
+    "mt_verse": 5,
+    "mt_ref": "Deuteronomy 13:5",
+    "english_ref": "Deuteronomy 13:4",
+    "bsb_ref": "Deuteronomy 13:4",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-13-6": {
+    "mt_book": "DEU",
+    "mt_chapter": 13,
+    "mt_verse": 6,
+    "mt_ref": "Deuteronomy 13:6",
+    "english_ref": "Deuteronomy 13:5",
+    "bsb_ref": "Deuteronomy 13:5",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-13-7": {
+    "mt_book": "DEU",
+    "mt_chapter": 13,
+    "mt_verse": 7,
+    "mt_ref": "Deuteronomy 13:7",
+    "english_ref": "Deuteronomy 13:6",
+    "bsb_ref": "Deuteronomy 13:6",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-13-8": {
+    "mt_book": "DEU",
+    "mt_chapter": 13,
+    "mt_verse": 8,
+    "mt_ref": "Deuteronomy 13:8",
+    "english_ref": "Deuteronomy 13:7",
+    "bsb_ref": "Deuteronomy 13:7",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-13-9": {
+    "mt_book": "DEU",
+    "mt_chapter": 13,
+    "mt_verse": 9,
+    "mt_ref": "Deuteronomy 13:9",
+    "english_ref": "Deuteronomy 13:8",
+    "bsb_ref": "Deuteronomy 13:8",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-13-10": {
+    "mt_book": "DEU",
+    "mt_chapter": 13,
+    "mt_verse": 10,
+    "mt_ref": "Deuteronomy 13:10",
+    "english_ref": "Deuteronomy 13:9",
+    "bsb_ref": "Deuteronomy 13:9",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-13-11": {
+    "mt_book": "DEU",
+    "mt_chapter": 13,
+    "mt_verse": 11,
+    "mt_ref": "Deuteronomy 13:11",
+    "english_ref": "Deuteronomy 13:10",
+    "bsb_ref": "Deuteronomy 13:10",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-13-12": {
+    "mt_book": "DEU",
+    "mt_chapter": 13,
+    "mt_verse": 12,
+    "mt_ref": "Deuteronomy 13:12",
+    "english_ref": "Deuteronomy 13:11",
+    "bsb_ref": "Deuteronomy 13:11",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-13-13": {
+    "mt_book": "DEU",
+    "mt_chapter": 13,
+    "mt_verse": 13,
+    "mt_ref": "Deuteronomy 13:13",
+    "english_ref": "Deuteronomy 13:12",
+    "bsb_ref": "Deuteronomy 13:12",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-13-14": {
+    "mt_book": "DEU",
+    "mt_chapter": 13,
+    "mt_verse": 14,
+    "mt_ref": "Deuteronomy 13:14",
+    "english_ref": "Deuteronomy 13:13",
+    "bsb_ref": "Deuteronomy 13:13",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-13-15": {
+    "mt_book": "DEU",
+    "mt_chapter": 13,
+    "mt_verse": 15,
+    "mt_ref": "Deuteronomy 13:15",
+    "english_ref": "Deuteronomy 13:14",
+    "bsb_ref": "Deuteronomy 13:14",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-13-16": {
+    "mt_book": "DEU",
+    "mt_chapter": 13,
+    "mt_verse": 16,
+    "mt_ref": "Deuteronomy 13:16",
+    "english_ref": "Deuteronomy 13:15",
+    "bsb_ref": "Deuteronomy 13:15",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-13-17": {
+    "mt_book": "DEU",
+    "mt_chapter": 13,
+    "mt_verse": 17,
+    "mt_ref": "Deuteronomy 13:17",
+    "english_ref": "Deuteronomy 13:16",
+    "bsb_ref": "Deuteronomy 13:16",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-13-18": {
+    "mt_book": "DEU",
+    "mt_chapter": 13,
+    "mt_verse": 18,
+    "mt_ref": "Deuteronomy 13:18",
+    "english_ref": "Deuteronomy 13:17",
+    "bsb_ref": "Deuteronomy 13:17",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-13-19": {
+    "mt_book": "DEU",
+    "mt_chapter": 13,
+    "mt_verse": 19,
+    "mt_ref": "Deuteronomy 13:19",
+    "english_ref": "Deuteronomy 13:18",
+    "bsb_ref": "Deuteronomy 13:18",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-23-1": {
+    "mt_book": "DEU",
+    "mt_chapter": 23,
+    "mt_verse": 1,
+    "mt_ref": "Deuteronomy 23:1",
+    "english_ref": "Deuteronomy 22:30",
+    "bsb_ref": "Deuteronomy 22:30",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-23-2": {
+    "mt_book": "DEU",
+    "mt_chapter": 23,
+    "mt_verse": 2,
+    "mt_ref": "Deuteronomy 23:2",
+    "english_ref": "Deuteronomy 23:1",
+    "bsb_ref": "Deuteronomy 23:1",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-23-3": {
+    "mt_book": "DEU",
+    "mt_chapter": 23,
+    "mt_verse": 3,
+    "mt_ref": "Deuteronomy 23:3",
+    "english_ref": "Deuteronomy 23:2",
+    "bsb_ref": "Deuteronomy 23:2",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-23-4": {
+    "mt_book": "DEU",
+    "mt_chapter": 23,
+    "mt_verse": 4,
+    "mt_ref": "Deuteronomy 23:4",
+    "english_ref": "Deuteronomy 23:3",
+    "bsb_ref": "Deuteronomy 23:3",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-23-5": {
+    "mt_book": "DEU",
+    "mt_chapter": 23,
+    "mt_verse": 5,
+    "mt_ref": "Deuteronomy 23:5",
+    "english_ref": "Deuteronomy 23:4",
+    "bsb_ref": "Deuteronomy 23:4",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-23-6": {
+    "mt_book": "DEU",
+    "mt_chapter": 23,
+    "mt_verse": 6,
+    "mt_ref": "Deuteronomy 23:6",
+    "english_ref": "Deuteronomy 23:5",
+    "bsb_ref": "Deuteronomy 23:5",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-23-7": {
+    "mt_book": "DEU",
+    "mt_chapter": 23,
+    "mt_verse": 7,
+    "mt_ref": "Deuteronomy 23:7",
+    "english_ref": "Deuteronomy 23:6",
+    "bsb_ref": "Deuteronomy 23:6",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-23-8": {
+    "mt_book": "DEU",
+    "mt_chapter": 23,
+    "mt_verse": 8,
+    "mt_ref": "Deuteronomy 23:8",
+    "english_ref": "Deuteronomy 23:7",
+    "bsb_ref": "Deuteronomy 23:7",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-23-9": {
+    "mt_book": "DEU",
+    "mt_chapter": 23,
+    "mt_verse": 9,
+    "mt_ref": "Deuteronomy 23:9",
+    "english_ref": "Deuteronomy 23:8",
+    "bsb_ref": "Deuteronomy 23:8",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-23-10": {
+    "mt_book": "DEU",
+    "mt_chapter": 23,
+    "mt_verse": 10,
+    "mt_ref": "Deuteronomy 23:10",
+    "english_ref": "Deuteronomy 23:9",
+    "bsb_ref": "Deuteronomy 23:9",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-23-11": {
+    "mt_book": "DEU",
+    "mt_chapter": 23,
+    "mt_verse": 11,
+    "mt_ref": "Deuteronomy 23:11",
+    "english_ref": "Deuteronomy 23:10",
+    "bsb_ref": "Deuteronomy 23:10",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-23-12": {
+    "mt_book": "DEU",
+    "mt_chapter": 23,
+    "mt_verse": 12,
+    "mt_ref": "Deuteronomy 23:12",
+    "english_ref": "Deuteronomy 23:11",
+    "bsb_ref": "Deuteronomy 23:11",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-23-13": {
+    "mt_book": "DEU",
+    "mt_chapter": 23,
+    "mt_verse": 13,
+    "mt_ref": "Deuteronomy 23:13",
+    "english_ref": "Deuteronomy 23:12",
+    "bsb_ref": "Deuteronomy 23:12",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-23-14": {
+    "mt_book": "DEU",
+    "mt_chapter": 23,
+    "mt_verse": 14,
+    "mt_ref": "Deuteronomy 23:14",
+    "english_ref": "Deuteronomy 23:13",
+    "bsb_ref": "Deuteronomy 23:13",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-23-15": {
+    "mt_book": "DEU",
+    "mt_chapter": 23,
+    "mt_verse": 15,
+    "mt_ref": "Deuteronomy 23:15",
+    "english_ref": "Deuteronomy 23:14",
+    "bsb_ref": "Deuteronomy 23:14",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-23-16": {
+    "mt_book": "DEU",
+    "mt_chapter": 23,
+    "mt_verse": 16,
+    "mt_ref": "Deuteronomy 23:16",
+    "english_ref": "Deuteronomy 23:15",
+    "bsb_ref": "Deuteronomy 23:15",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-23-17": {
+    "mt_book": "DEU",
+    "mt_chapter": 23,
+    "mt_verse": 17,
+    "mt_ref": "Deuteronomy 23:17",
+    "english_ref": "Deuteronomy 23:16",
+    "bsb_ref": "Deuteronomy 23:16",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-23-18": {
+    "mt_book": "DEU",
+    "mt_chapter": 23,
+    "mt_verse": 18,
+    "mt_ref": "Deuteronomy 23:18",
+    "english_ref": "Deuteronomy 23:17",
+    "bsb_ref": "Deuteronomy 23:17",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-23-19": {
+    "mt_book": "DEU",
+    "mt_chapter": 23,
+    "mt_verse": 19,
+    "mt_ref": "Deuteronomy 23:19",
+    "english_ref": "Deuteronomy 23:18",
+    "bsb_ref": "Deuteronomy 23:18",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-23-20": {
+    "mt_book": "DEU",
+    "mt_chapter": 23,
+    "mt_verse": 20,
+    "mt_ref": "Deuteronomy 23:20",
+    "english_ref": "Deuteronomy 23:19",
+    "bsb_ref": "Deuteronomy 23:19",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-23-21": {
+    "mt_book": "DEU",
+    "mt_chapter": 23,
+    "mt_verse": 21,
+    "mt_ref": "Deuteronomy 23:21",
+    "english_ref": "Deuteronomy 23:20",
+    "bsb_ref": "Deuteronomy 23:20",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-23-22": {
+    "mt_book": "DEU",
+    "mt_chapter": 23,
+    "mt_verse": 22,
+    "mt_ref": "Deuteronomy 23:22",
+    "english_ref": "Deuteronomy 23:21",
+    "bsb_ref": "Deuteronomy 23:21",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-23-23": {
+    "mt_book": "DEU",
+    "mt_chapter": 23,
+    "mt_verse": 23,
+    "mt_ref": "Deuteronomy 23:23",
+    "english_ref": "Deuteronomy 23:22",
+    "bsb_ref": "Deuteronomy 23:22",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-23-24": {
+    "mt_book": "DEU",
+    "mt_chapter": 23,
+    "mt_verse": 24,
+    "mt_ref": "Deuteronomy 23:24",
+    "english_ref": "Deuteronomy 23:23",
+    "bsb_ref": "Deuteronomy 23:23",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-23-25": {
+    "mt_book": "DEU",
+    "mt_chapter": 23,
+    "mt_verse": 25,
+    "mt_ref": "Deuteronomy 23:25",
+    "english_ref": "Deuteronomy 23:24",
+    "bsb_ref": "Deuteronomy 23:24",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-23-26": {
+    "mt_book": "DEU",
+    "mt_chapter": 23,
+    "mt_verse": 26,
+    "mt_ref": "Deuteronomy 23:26",
+    "english_ref": "Deuteronomy 23:25",
+    "bsb_ref": "Deuteronomy 23:25",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-28-69": {
+    "mt_book": "DEU",
+    "mt_chapter": 28,
+    "mt_verse": 69,
+    "mt_ref": "Deuteronomy 28:69",
+    "english_ref": "Deuteronomy 29:1",
+    "bsb_ref": "Deuteronomy 29:1",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-29-1": {
+    "mt_book": "DEU",
+    "mt_chapter": 29,
+    "mt_verse": 1,
+    "mt_ref": "Deuteronomy 29:1",
+    "english_ref": "Deuteronomy 29:2",
+    "bsb_ref": "Deuteronomy 29:2",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-29-2": {
+    "mt_book": "DEU",
+    "mt_chapter": 29,
+    "mt_verse": 2,
+    "mt_ref": "Deuteronomy 29:2",
+    "english_ref": "Deuteronomy 29:3",
+    "bsb_ref": "Deuteronomy 29:3",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-29-3": {
+    "mt_book": "DEU",
+    "mt_chapter": 29,
+    "mt_verse": 3,
+    "mt_ref": "Deuteronomy 29:3",
+    "english_ref": "Deuteronomy 29:4",
+    "bsb_ref": "Deuteronomy 29:4",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-29-4": {
+    "mt_book": "DEU",
+    "mt_chapter": 29,
+    "mt_verse": 4,
+    "mt_ref": "Deuteronomy 29:4",
+    "english_ref": "Deuteronomy 29:5",
+    "bsb_ref": "Deuteronomy 29:5",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-29-5": {
+    "mt_book": "DEU",
+    "mt_chapter": 29,
+    "mt_verse": 5,
+    "mt_ref": "Deuteronomy 29:5",
+    "english_ref": "Deuteronomy 29:6",
+    "bsb_ref": "Deuteronomy 29:6",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-29-6": {
+    "mt_book": "DEU",
+    "mt_chapter": 29,
+    "mt_verse": 6,
+    "mt_ref": "Deuteronomy 29:6",
+    "english_ref": "Deuteronomy 29:7",
+    "bsb_ref": "Deuteronomy 29:7",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-29-7": {
+    "mt_book": "DEU",
+    "mt_chapter": 29,
+    "mt_verse": 7,
+    "mt_ref": "Deuteronomy 29:7",
+    "english_ref": "Deuteronomy 29:8",
+    "bsb_ref": "Deuteronomy 29:8",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-29-8": {
+    "mt_book": "DEU",
+    "mt_chapter": 29,
+    "mt_verse": 8,
+    "mt_ref": "Deuteronomy 29:8",
+    "english_ref": "Deuteronomy 29:9",
+    "bsb_ref": "Deuteronomy 29:9",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-29-9": {
+    "mt_book": "DEU",
+    "mt_chapter": 29,
+    "mt_verse": 9,
+    "mt_ref": "Deuteronomy 29:9",
+    "english_ref": "Deuteronomy 29:10",
+    "bsb_ref": "Deuteronomy 29:10",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-29-10": {
+    "mt_book": "DEU",
+    "mt_chapter": 29,
+    "mt_verse": 10,
+    "mt_ref": "Deuteronomy 29:10",
+    "english_ref": "Deuteronomy 29:11",
+    "bsb_ref": "Deuteronomy 29:11",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-29-11": {
+    "mt_book": "DEU",
+    "mt_chapter": 29,
+    "mt_verse": 11,
+    "mt_ref": "Deuteronomy 29:11",
+    "english_ref": "Deuteronomy 29:12",
+    "bsb_ref": "Deuteronomy 29:12",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-29-12": {
+    "mt_book": "DEU",
+    "mt_chapter": 29,
+    "mt_verse": 12,
+    "mt_ref": "Deuteronomy 29:12",
+    "english_ref": "Deuteronomy 29:13",
+    "bsb_ref": "Deuteronomy 29:13",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-29-13": {
+    "mt_book": "DEU",
+    "mt_chapter": 29,
+    "mt_verse": 13,
+    "mt_ref": "Deuteronomy 29:13",
+    "english_ref": "Deuteronomy 29:14",
+    "bsb_ref": "Deuteronomy 29:14",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-29-14": {
+    "mt_book": "DEU",
+    "mt_chapter": 29,
+    "mt_verse": 14,
+    "mt_ref": "Deuteronomy 29:14",
+    "english_ref": "Deuteronomy 29:15",
+    "bsb_ref": "Deuteronomy 29:15",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-29-15": {
+    "mt_book": "DEU",
+    "mt_chapter": 29,
+    "mt_verse": 15,
+    "mt_ref": "Deuteronomy 29:15",
+    "english_ref": "Deuteronomy 29:16",
+    "bsb_ref": "Deuteronomy 29:16",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-29-16": {
+    "mt_book": "DEU",
+    "mt_chapter": 29,
+    "mt_verse": 16,
+    "mt_ref": "Deuteronomy 29:16",
+    "english_ref": "Deuteronomy 29:17",
+    "bsb_ref": "Deuteronomy 29:17",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-29-17": {
+    "mt_book": "DEU",
+    "mt_chapter": 29,
+    "mt_verse": 17,
+    "mt_ref": "Deuteronomy 29:17",
+    "english_ref": "Deuteronomy 29:18",
+    "bsb_ref": "Deuteronomy 29:18",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-29-18": {
+    "mt_book": "DEU",
+    "mt_chapter": 29,
+    "mt_verse": 18,
+    "mt_ref": "Deuteronomy 29:18",
+    "english_ref": "Deuteronomy 29:19",
+    "bsb_ref": "Deuteronomy 29:19",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-29-19": {
+    "mt_book": "DEU",
+    "mt_chapter": 29,
+    "mt_verse": 19,
+    "mt_ref": "Deuteronomy 29:19",
+    "english_ref": "Deuteronomy 29:20",
+    "bsb_ref": "Deuteronomy 29:20",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-29-20": {
+    "mt_book": "DEU",
+    "mt_chapter": 29,
+    "mt_verse": 20,
+    "mt_ref": "Deuteronomy 29:20",
+    "english_ref": "Deuteronomy 29:21",
+    "bsb_ref": "Deuteronomy 29:21",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-29-21": {
+    "mt_book": "DEU",
+    "mt_chapter": 29,
+    "mt_verse": 21,
+    "mt_ref": "Deuteronomy 29:21",
+    "english_ref": "Deuteronomy 29:22",
+    "bsb_ref": "Deuteronomy 29:22",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-29-22": {
+    "mt_book": "DEU",
+    "mt_chapter": 29,
+    "mt_verse": 22,
+    "mt_ref": "Deuteronomy 29:22",
+    "english_ref": "Deuteronomy 29:23",
+    "bsb_ref": "Deuteronomy 29:23",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-29-23": {
+    "mt_book": "DEU",
+    "mt_chapter": 29,
+    "mt_verse": 23,
+    "mt_ref": "Deuteronomy 29:23",
+    "english_ref": "Deuteronomy 29:24",
+    "bsb_ref": "Deuteronomy 29:24",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-29-24": {
+    "mt_book": "DEU",
+    "mt_chapter": 29,
+    "mt_verse": 24,
+    "mt_ref": "Deuteronomy 29:24",
+    "english_ref": "Deuteronomy 29:25",
+    "bsb_ref": "Deuteronomy 29:25",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-29-25": {
+    "mt_book": "DEU",
+    "mt_chapter": 29,
+    "mt_verse": 25,
+    "mt_ref": "Deuteronomy 29:25",
+    "english_ref": "Deuteronomy 29:26",
+    "bsb_ref": "Deuteronomy 29:26",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-29-26": {
+    "mt_book": "DEU",
+    "mt_chapter": 29,
+    "mt_verse": 26,
+    "mt_ref": "Deuteronomy 29:26",
+    "english_ref": "Deuteronomy 29:27",
+    "bsb_ref": "Deuteronomy 29:27",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-29-27": {
+    "mt_book": "DEU",
+    "mt_chapter": 29,
+    "mt_verse": 27,
+    "mt_ref": "Deuteronomy 29:27",
+    "english_ref": "Deuteronomy 29:28",
+    "bsb_ref": "Deuteronomy 29:28",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DEU-29-28": {
+    "mt_book": "DEU",
+    "mt_chapter": 29,
+    "mt_verse": 28,
+    "mt_ref": "Deuteronomy 29:28",
+    "english_ref": "Deuteronomy 29:29",
+    "bsb_ref": "Deuteronomy 29:29",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1SA-21-1": {
+    "mt_book": "1SA",
+    "mt_chapter": 21,
+    "mt_verse": 1,
+    "mt_ref": "1 Samuel 21:1",
+    "english_ref": "1 Samuel 20:42",
+    "bsb_ref": "1 Samuel 20:42",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1SA-21-2": {
+    "mt_book": "1SA",
+    "mt_chapter": 21,
+    "mt_verse": 2,
+    "mt_ref": "1 Samuel 21:2",
+    "english_ref": "1 Samuel 21:1",
+    "bsb_ref": "1 Samuel 21:1",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1SA-21-3": {
+    "mt_book": "1SA",
+    "mt_chapter": 21,
+    "mt_verse": 3,
+    "mt_ref": "1 Samuel 21:3",
+    "english_ref": "1 Samuel 21:2",
+    "bsb_ref": "1 Samuel 21:2",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1SA-21-4": {
+    "mt_book": "1SA",
+    "mt_chapter": 21,
+    "mt_verse": 4,
+    "mt_ref": "1 Samuel 21:4",
+    "english_ref": "1 Samuel 21:3",
+    "bsb_ref": "1 Samuel 21:3",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1SA-21-5": {
+    "mt_book": "1SA",
+    "mt_chapter": 21,
+    "mt_verse": 5,
+    "mt_ref": "1 Samuel 21:5",
+    "english_ref": "1 Samuel 21:4",
+    "bsb_ref": "1 Samuel 21:4",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1SA-21-6": {
+    "mt_book": "1SA",
+    "mt_chapter": 21,
+    "mt_verse": 6,
+    "mt_ref": "1 Samuel 21:6",
+    "english_ref": "1 Samuel 21:5",
+    "bsb_ref": "1 Samuel 21:5",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1SA-21-7": {
+    "mt_book": "1SA",
+    "mt_chapter": 21,
+    "mt_verse": 7,
+    "mt_ref": "1 Samuel 21:7",
+    "english_ref": "1 Samuel 21:6",
+    "bsb_ref": "1 Samuel 21:6",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1SA-21-8": {
+    "mt_book": "1SA",
+    "mt_chapter": 21,
+    "mt_verse": 8,
+    "mt_ref": "1 Samuel 21:8",
+    "english_ref": "1 Samuel 21:7",
+    "bsb_ref": "1 Samuel 21:7",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1SA-21-9": {
+    "mt_book": "1SA",
+    "mt_chapter": 21,
+    "mt_verse": 9,
+    "mt_ref": "1 Samuel 21:9",
+    "english_ref": "1 Samuel 21:8",
+    "bsb_ref": "1 Samuel 21:8",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1SA-21-10": {
+    "mt_book": "1SA",
+    "mt_chapter": 21,
+    "mt_verse": 10,
+    "mt_ref": "1 Samuel 21:10",
+    "english_ref": "1 Samuel 21:9",
+    "bsb_ref": "1 Samuel 21:9",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1SA-21-11": {
+    "mt_book": "1SA",
+    "mt_chapter": 21,
+    "mt_verse": 11,
+    "mt_ref": "1 Samuel 21:11",
+    "english_ref": "1 Samuel 21:10",
+    "bsb_ref": "1 Samuel 21:10",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1SA-21-12": {
+    "mt_book": "1SA",
+    "mt_chapter": 21,
+    "mt_verse": 12,
+    "mt_ref": "1 Samuel 21:12",
+    "english_ref": "1 Samuel 21:11",
+    "bsb_ref": "1 Samuel 21:11",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1SA-21-13": {
+    "mt_book": "1SA",
+    "mt_chapter": 21,
+    "mt_verse": 13,
+    "mt_ref": "1 Samuel 21:13",
+    "english_ref": "1 Samuel 21:12",
+    "bsb_ref": "1 Samuel 21:12",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1SA-21-14": {
+    "mt_book": "1SA",
+    "mt_chapter": 21,
+    "mt_verse": 14,
+    "mt_ref": "1 Samuel 21:14",
+    "english_ref": "1 Samuel 21:13",
+    "bsb_ref": "1 Samuel 21:13",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1SA-21-15": {
+    "mt_book": "1SA",
+    "mt_chapter": 21,
+    "mt_verse": 15,
+    "mt_ref": "1 Samuel 21:15",
+    "english_ref": "1 Samuel 21:14",
+    "bsb_ref": "1 Samuel 21:14",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1SA-21-16": {
+    "mt_book": "1SA",
+    "mt_chapter": 21,
+    "mt_verse": 16,
+    "mt_ref": "1 Samuel 21:16",
+    "english_ref": "1 Samuel 21:15",
+    "bsb_ref": "1 Samuel 21:15",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1SA-24-2": {
+    "mt_book": "1SA",
+    "mt_chapter": 24,
+    "mt_verse": 2,
+    "mt_ref": "1 Samuel 24:2",
+    "english_ref": "1 Samuel 24:1",
+    "bsb_ref": "1 Samuel 24:1",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1SA-24-3": {
+    "mt_book": "1SA",
+    "mt_chapter": 24,
+    "mt_verse": 3,
+    "mt_ref": "1 Samuel 24:3",
+    "english_ref": "1 Samuel 24:2",
+    "bsb_ref": "1 Samuel 24:2",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1SA-24-4": {
+    "mt_book": "1SA",
+    "mt_chapter": 24,
+    "mt_verse": 4,
+    "mt_ref": "1 Samuel 24:4",
+    "english_ref": "1 Samuel 24:3",
+    "bsb_ref": "1 Samuel 24:3",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1SA-24-5": {
+    "mt_book": "1SA",
+    "mt_chapter": 24,
+    "mt_verse": 5,
+    "mt_ref": "1 Samuel 24:5",
+    "english_ref": "1 Samuel 24:4",
+    "bsb_ref": "1 Samuel 24:4",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1SA-24-6": {
+    "mt_book": "1SA",
+    "mt_chapter": 24,
+    "mt_verse": 6,
+    "mt_ref": "1 Samuel 24:6",
+    "english_ref": "1 Samuel 24:5",
+    "bsb_ref": "1 Samuel 24:5",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1SA-24-7": {
+    "mt_book": "1SA",
+    "mt_chapter": 24,
+    "mt_verse": 7,
+    "mt_ref": "1 Samuel 24:7",
+    "english_ref": "1 Samuel 24:6",
+    "bsb_ref": "1 Samuel 24:6",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1SA-24-8": {
+    "mt_book": "1SA",
+    "mt_chapter": 24,
+    "mt_verse": 8,
+    "mt_ref": "1 Samuel 24:8",
+    "english_ref": "1 Samuel 24:7",
+    "bsb_ref": "1 Samuel 24:7",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1SA-24-9": {
+    "mt_book": "1SA",
+    "mt_chapter": 24,
+    "mt_verse": 9,
+    "mt_ref": "1 Samuel 24:9",
+    "english_ref": "1 Samuel 24:8",
+    "bsb_ref": "1 Samuel 24:8",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1SA-24-10": {
+    "mt_book": "1SA",
+    "mt_chapter": 24,
+    "mt_verse": 10,
+    "mt_ref": "1 Samuel 24:10",
+    "english_ref": "1 Samuel 24:9",
+    "bsb_ref": "1 Samuel 24:9",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1SA-24-11": {
+    "mt_book": "1SA",
+    "mt_chapter": 24,
+    "mt_verse": 11,
+    "mt_ref": "1 Samuel 24:11",
+    "english_ref": "1 Samuel 24:10",
+    "bsb_ref": "1 Samuel 24:10",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1SA-24-12": {
+    "mt_book": "1SA",
+    "mt_chapter": 24,
+    "mt_verse": 12,
+    "mt_ref": "1 Samuel 24:12",
+    "english_ref": "1 Samuel 24:11",
+    "bsb_ref": "1 Samuel 24:11",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1SA-24-13": {
+    "mt_book": "1SA",
+    "mt_chapter": 24,
+    "mt_verse": 13,
+    "mt_ref": "1 Samuel 24:13",
+    "english_ref": "1 Samuel 24:12",
+    "bsb_ref": "1 Samuel 24:12",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1SA-24-14": {
+    "mt_book": "1SA",
+    "mt_chapter": 24,
+    "mt_verse": 14,
+    "mt_ref": "1 Samuel 24:14",
+    "english_ref": "1 Samuel 24:13",
+    "bsb_ref": "1 Samuel 24:13",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1SA-24-15": {
+    "mt_book": "1SA",
+    "mt_chapter": 24,
+    "mt_verse": 15,
+    "mt_ref": "1 Samuel 24:15",
+    "english_ref": "1 Samuel 24:14",
+    "bsb_ref": "1 Samuel 24:14",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1SA-24-16": {
+    "mt_book": "1SA",
+    "mt_chapter": 24,
+    "mt_verse": 16,
+    "mt_ref": "1 Samuel 24:16",
+    "english_ref": "1 Samuel 24:15",
+    "bsb_ref": "1 Samuel 24:15",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1SA-24-17": {
+    "mt_book": "1SA",
+    "mt_chapter": 24,
+    "mt_verse": 17,
+    "mt_ref": "1 Samuel 24:17",
+    "english_ref": "1 Samuel 24:16",
+    "bsb_ref": "1 Samuel 24:16",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1SA-24-18": {
+    "mt_book": "1SA",
+    "mt_chapter": 24,
+    "mt_verse": 18,
+    "mt_ref": "1 Samuel 24:18",
+    "english_ref": "1 Samuel 24:17",
+    "bsb_ref": "1 Samuel 24:17",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1SA-24-19": {
+    "mt_book": "1SA",
+    "mt_chapter": 24,
+    "mt_verse": 19,
+    "mt_ref": "1 Samuel 24:19",
+    "english_ref": "1 Samuel 24:18",
+    "bsb_ref": "1 Samuel 24:18",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1SA-24-20": {
+    "mt_book": "1SA",
+    "mt_chapter": 24,
+    "mt_verse": 20,
+    "mt_ref": "1 Samuel 24:20",
+    "english_ref": "1 Samuel 24:19",
+    "bsb_ref": "1 Samuel 24:19",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1SA-24-21": {
+    "mt_book": "1SA",
+    "mt_chapter": 24,
+    "mt_verse": 21,
+    "mt_ref": "1 Samuel 24:21",
+    "english_ref": "1 Samuel 24:20",
+    "bsb_ref": "1 Samuel 24:20",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1SA-24-22": {
+    "mt_book": "1SA",
+    "mt_chapter": 24,
+    "mt_verse": 22,
+    "mt_ref": "1 Samuel 24:22",
+    "english_ref": "1 Samuel 24:21",
+    "bsb_ref": "1 Samuel 24:21",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1SA-24-23": {
+    "mt_book": "1SA",
+    "mt_chapter": 24,
+    "mt_verse": 23,
+    "mt_ref": "1 Samuel 24:23",
+    "english_ref": "1 Samuel 24:22",
+    "bsb_ref": "1 Samuel 24:22",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "2SA-19-1": {
+    "mt_book": "2SA",
+    "mt_chapter": 19,
+    "mt_verse": 1,
+    "mt_ref": "2 Samuel 19:1",
+    "english_ref": "2 Samuel 18:33",
+    "bsb_ref": "2 Samuel 18:33",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "2SA-19-2": {
+    "mt_book": "2SA",
+    "mt_chapter": 19,
+    "mt_verse": 2,
+    "mt_ref": "2 Samuel 19:2",
+    "english_ref": "2 Samuel 19:1",
+    "bsb_ref": "2 Samuel 19:1",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "2SA-19-3": {
+    "mt_book": "2SA",
+    "mt_chapter": 19,
+    "mt_verse": 3,
+    "mt_ref": "2 Samuel 19:3",
+    "english_ref": "2 Samuel 19:2",
+    "bsb_ref": "2 Samuel 19:2",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "2SA-19-4": {
+    "mt_book": "2SA",
+    "mt_chapter": 19,
+    "mt_verse": 4,
+    "mt_ref": "2 Samuel 19:4",
+    "english_ref": "2 Samuel 19:3",
+    "bsb_ref": "2 Samuel 19:3",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "2SA-19-5": {
+    "mt_book": "2SA",
+    "mt_chapter": 19,
+    "mt_verse": 5,
+    "mt_ref": "2 Samuel 19:5",
+    "english_ref": "2 Samuel 19:4",
+    "bsb_ref": "2 Samuel 19:4",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "2SA-19-6": {
+    "mt_book": "2SA",
+    "mt_chapter": 19,
+    "mt_verse": 6,
+    "mt_ref": "2 Samuel 19:6",
+    "english_ref": "2 Samuel 19:5",
+    "bsb_ref": "2 Samuel 19:5",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "2SA-19-7": {
+    "mt_book": "2SA",
+    "mt_chapter": 19,
+    "mt_verse": 7,
+    "mt_ref": "2 Samuel 19:7",
+    "english_ref": "2 Samuel 19:6",
+    "bsb_ref": "2 Samuel 19:6",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "2SA-19-8": {
+    "mt_book": "2SA",
+    "mt_chapter": 19,
+    "mt_verse": 8,
+    "mt_ref": "2 Samuel 19:8",
+    "english_ref": "2 Samuel 19:7",
+    "bsb_ref": "2 Samuel 19:7",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "2SA-19-9": {
+    "mt_book": "2SA",
+    "mt_chapter": 19,
+    "mt_verse": 9,
+    "mt_ref": "2 Samuel 19:9",
+    "english_ref": "2 Samuel 19:8",
+    "bsb_ref": "2 Samuel 19:8",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "2SA-19-10": {
+    "mt_book": "2SA",
+    "mt_chapter": 19,
+    "mt_verse": 10,
+    "mt_ref": "2 Samuel 19:10",
+    "english_ref": "2 Samuel 19:9",
+    "bsb_ref": "2 Samuel 19:9",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "2SA-19-11": {
+    "mt_book": "2SA",
+    "mt_chapter": 19,
+    "mt_verse": 11,
+    "mt_ref": "2 Samuel 19:11",
+    "english_ref": "2 Samuel 19:10",
+    "bsb_ref": "2 Samuel 19:10",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "2SA-19-12": {
+    "mt_book": "2SA",
+    "mt_chapter": 19,
+    "mt_verse": 12,
+    "mt_ref": "2 Samuel 19:12",
+    "english_ref": "2 Samuel 19:11",
+    "bsb_ref": "2 Samuel 19:11",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "2SA-19-13": {
+    "mt_book": "2SA",
+    "mt_chapter": 19,
+    "mt_verse": 13,
+    "mt_ref": "2 Samuel 19:13",
+    "english_ref": "2 Samuel 19:12",
+    "bsb_ref": "2 Samuel 19:12",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "2SA-19-14": {
+    "mt_book": "2SA",
+    "mt_chapter": 19,
+    "mt_verse": 14,
+    "mt_ref": "2 Samuel 19:14",
+    "english_ref": "2 Samuel 19:13",
+    "bsb_ref": "2 Samuel 19:13",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "2SA-19-15": {
+    "mt_book": "2SA",
+    "mt_chapter": 19,
+    "mt_verse": 15,
+    "mt_ref": "2 Samuel 19:15",
+    "english_ref": "2 Samuel 19:14",
+    "bsb_ref": "2 Samuel 19:14",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "2SA-19-16": {
+    "mt_book": "2SA",
+    "mt_chapter": 19,
+    "mt_verse": 16,
+    "mt_ref": "2 Samuel 19:16",
+    "english_ref": "2 Samuel 19:15",
+    "bsb_ref": "2 Samuel 19:15",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "2SA-19-17": {
+    "mt_book": "2SA",
+    "mt_chapter": 19,
+    "mt_verse": 17,
+    "mt_ref": "2 Samuel 19:17",
+    "english_ref": "2 Samuel 19:16",
+    "bsb_ref": "2 Samuel 19:16",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "2SA-19-18": {
+    "mt_book": "2SA",
+    "mt_chapter": 19,
+    "mt_verse": 18,
+    "mt_ref": "2 Samuel 19:18",
+    "english_ref": "2 Samuel 19:17",
+    "bsb_ref": "2 Samuel 19:17",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "2SA-19-19": {
+    "mt_book": "2SA",
+    "mt_chapter": 19,
+    "mt_verse": 19,
+    "mt_ref": "2 Samuel 19:19",
+    "english_ref": "2 Samuel 19:18",
+    "bsb_ref": "2 Samuel 19:18",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "2SA-19-20": {
+    "mt_book": "2SA",
+    "mt_chapter": 19,
+    "mt_verse": 20,
+    "mt_ref": "2 Samuel 19:20",
+    "english_ref": "2 Samuel 19:19",
+    "bsb_ref": "2 Samuel 19:19",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "2SA-19-21": {
+    "mt_book": "2SA",
+    "mt_chapter": 19,
+    "mt_verse": 21,
+    "mt_ref": "2 Samuel 19:21",
+    "english_ref": "2 Samuel 19:20",
+    "bsb_ref": "2 Samuel 19:20",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "2SA-19-22": {
+    "mt_book": "2SA",
+    "mt_chapter": 19,
+    "mt_verse": 22,
+    "mt_ref": "2 Samuel 19:22",
+    "english_ref": "2 Samuel 19:21",
+    "bsb_ref": "2 Samuel 19:21",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "2SA-19-23": {
+    "mt_book": "2SA",
+    "mt_chapter": 19,
+    "mt_verse": 23,
+    "mt_ref": "2 Samuel 19:23",
+    "english_ref": "2 Samuel 19:22",
+    "bsb_ref": "2 Samuel 19:22",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "2SA-19-24": {
+    "mt_book": "2SA",
+    "mt_chapter": 19,
+    "mt_verse": 24,
+    "mt_ref": "2 Samuel 19:24",
+    "english_ref": "2 Samuel 19:23",
+    "bsb_ref": "2 Samuel 19:23",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "2SA-19-25": {
+    "mt_book": "2SA",
+    "mt_chapter": 19,
+    "mt_verse": 25,
+    "mt_ref": "2 Samuel 19:25",
+    "english_ref": "2 Samuel 19:24",
+    "bsb_ref": "2 Samuel 19:24",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "2SA-19-26": {
+    "mt_book": "2SA",
+    "mt_chapter": 19,
+    "mt_verse": 26,
+    "mt_ref": "2 Samuel 19:26",
+    "english_ref": "2 Samuel 19:25",
+    "bsb_ref": "2 Samuel 19:25",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "2SA-19-27": {
+    "mt_book": "2SA",
+    "mt_chapter": 19,
+    "mt_verse": 27,
+    "mt_ref": "2 Samuel 19:27",
+    "english_ref": "2 Samuel 19:26",
+    "bsb_ref": "2 Samuel 19:26",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "2SA-19-28": {
+    "mt_book": "2SA",
+    "mt_chapter": 19,
+    "mt_verse": 28,
+    "mt_ref": "2 Samuel 19:28",
+    "english_ref": "2 Samuel 19:27",
+    "bsb_ref": "2 Samuel 19:27",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "2SA-19-29": {
+    "mt_book": "2SA",
+    "mt_chapter": 19,
+    "mt_verse": 29,
+    "mt_ref": "2 Samuel 19:29",
+    "english_ref": "2 Samuel 19:28",
+    "bsb_ref": "2 Samuel 19:28",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "2SA-19-30": {
+    "mt_book": "2SA",
+    "mt_chapter": 19,
+    "mt_verse": 30,
+    "mt_ref": "2 Samuel 19:30",
+    "english_ref": "2 Samuel 19:29",
+    "bsb_ref": "2 Samuel 19:29",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "2SA-19-31": {
+    "mt_book": "2SA",
+    "mt_chapter": 19,
+    "mt_verse": 31,
+    "mt_ref": "2 Samuel 19:31",
+    "english_ref": "2 Samuel 19:30",
+    "bsb_ref": "2 Samuel 19:30",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "2SA-19-32": {
+    "mt_book": "2SA",
+    "mt_chapter": 19,
+    "mt_verse": 32,
+    "mt_ref": "2 Samuel 19:32",
+    "english_ref": "2 Samuel 19:31",
+    "bsb_ref": "2 Samuel 19:31",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "2SA-19-33": {
+    "mt_book": "2SA",
+    "mt_chapter": 19,
+    "mt_verse": 33,
+    "mt_ref": "2 Samuel 19:33",
+    "english_ref": "2 Samuel 19:32",
+    "bsb_ref": "2 Samuel 19:32",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "2SA-19-34": {
+    "mt_book": "2SA",
+    "mt_chapter": 19,
+    "mt_verse": 34,
+    "mt_ref": "2 Samuel 19:34",
+    "english_ref": "2 Samuel 19:33",
+    "bsb_ref": "2 Samuel 19:33",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "2SA-19-35": {
+    "mt_book": "2SA",
+    "mt_chapter": 19,
+    "mt_verse": 35,
+    "mt_ref": "2 Samuel 19:35",
+    "english_ref": "2 Samuel 19:34",
+    "bsb_ref": "2 Samuel 19:34",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "2SA-19-36": {
+    "mt_book": "2SA",
+    "mt_chapter": 19,
+    "mt_verse": 36,
+    "mt_ref": "2 Samuel 19:36",
+    "english_ref": "2 Samuel 19:35",
+    "bsb_ref": "2 Samuel 19:35",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "2SA-19-37": {
+    "mt_book": "2SA",
+    "mt_chapter": 19,
+    "mt_verse": 37,
+    "mt_ref": "2 Samuel 19:37",
+    "english_ref": "2 Samuel 19:36",
+    "bsb_ref": "2 Samuel 19:36",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "2SA-19-38": {
+    "mt_book": "2SA",
+    "mt_chapter": 19,
+    "mt_verse": 38,
+    "mt_ref": "2 Samuel 19:38",
+    "english_ref": "2 Samuel 19:37",
+    "bsb_ref": "2 Samuel 19:37",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "2SA-19-39": {
+    "mt_book": "2SA",
+    "mt_chapter": 19,
+    "mt_verse": 39,
+    "mt_ref": "2 Samuel 19:39",
+    "english_ref": "2 Samuel 19:38",
+    "bsb_ref": "2 Samuel 19:38",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "2SA-19-40": {
+    "mt_book": "2SA",
+    "mt_chapter": 19,
+    "mt_verse": 40,
+    "mt_ref": "2 Samuel 19:40",
+    "english_ref": "2 Samuel 19:39",
+    "bsb_ref": "2 Samuel 19:39",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "2SA-19-41": {
+    "mt_book": "2SA",
+    "mt_chapter": 19,
+    "mt_verse": 41,
+    "mt_ref": "2 Samuel 19:41",
+    "english_ref": "2 Samuel 19:40",
+    "bsb_ref": "2 Samuel 19:40",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "2SA-19-42": {
+    "mt_book": "2SA",
+    "mt_chapter": 19,
+    "mt_verse": 42,
+    "mt_ref": "2 Samuel 19:42",
+    "english_ref": "2 Samuel 19:41",
+    "bsb_ref": "2 Samuel 19:41",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "2SA-19-43": {
+    "mt_book": "2SA",
+    "mt_chapter": 19,
+    "mt_verse": 43,
+    "mt_ref": "2 Samuel 19:43",
+    "english_ref": "2 Samuel 19:42",
+    "bsb_ref": "2 Samuel 19:42",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "2SA-19-44": {
+    "mt_book": "2SA",
+    "mt_chapter": 19,
+    "mt_verse": 44,
+    "mt_ref": "2 Samuel 19:44",
+    "english_ref": "2 Samuel 19:43",
+    "bsb_ref": "2 Samuel 19:43",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-5-27": {
+    "mt_book": "1CH",
+    "mt_chapter": 5,
+    "mt_verse": 27,
+    "mt_ref": "1 Chronicles 5:27",
+    "english_ref": "1 Chronicles 6:1",
+    "bsb_ref": "1 Chronicles 6:1",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-5-28": {
+    "mt_book": "1CH",
+    "mt_chapter": 5,
+    "mt_verse": 28,
+    "mt_ref": "1 Chronicles 5:28",
+    "english_ref": "1 Chronicles 6:2",
+    "bsb_ref": "1 Chronicles 6:2",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-5-29": {
+    "mt_book": "1CH",
+    "mt_chapter": 5,
+    "mt_verse": 29,
+    "mt_ref": "1 Chronicles 5:29",
+    "english_ref": "1 Chronicles 6:3",
+    "bsb_ref": "1 Chronicles 6:3",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-5-30": {
+    "mt_book": "1CH",
+    "mt_chapter": 5,
+    "mt_verse": 30,
+    "mt_ref": "1 Chronicles 5:30",
+    "english_ref": "1 Chronicles 6:4",
+    "bsb_ref": "1 Chronicles 6:4",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-5-31": {
+    "mt_book": "1CH",
+    "mt_chapter": 5,
+    "mt_verse": 31,
+    "mt_ref": "1 Chronicles 5:31",
+    "english_ref": "1 Chronicles 6:5",
+    "bsb_ref": "1 Chronicles 6:5",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-5-32": {
+    "mt_book": "1CH",
+    "mt_chapter": 5,
+    "mt_verse": 32,
+    "mt_ref": "1 Chronicles 5:32",
+    "english_ref": "1 Chronicles 6:6",
+    "bsb_ref": "1 Chronicles 6:6",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-5-33": {
+    "mt_book": "1CH",
+    "mt_chapter": 5,
+    "mt_verse": 33,
+    "mt_ref": "1 Chronicles 5:33",
+    "english_ref": "1 Chronicles 6:7",
+    "bsb_ref": "1 Chronicles 6:7",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-5-34": {
+    "mt_book": "1CH",
+    "mt_chapter": 5,
+    "mt_verse": 34,
+    "mt_ref": "1 Chronicles 5:34",
+    "english_ref": "1 Chronicles 6:8",
+    "bsb_ref": "1 Chronicles 6:8",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-5-35": {
+    "mt_book": "1CH",
+    "mt_chapter": 5,
+    "mt_verse": 35,
+    "mt_ref": "1 Chronicles 5:35",
+    "english_ref": "1 Chronicles 6:9",
+    "bsb_ref": "1 Chronicles 6:9",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-5-36": {
+    "mt_book": "1CH",
+    "mt_chapter": 5,
+    "mt_verse": 36,
+    "mt_ref": "1 Chronicles 5:36",
+    "english_ref": "1 Chronicles 6:10",
+    "bsb_ref": "1 Chronicles 6:10",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-5-37": {
+    "mt_book": "1CH",
+    "mt_chapter": 5,
+    "mt_verse": 37,
+    "mt_ref": "1 Chronicles 5:37",
+    "english_ref": "1 Chronicles 6:11",
+    "bsb_ref": "1 Chronicles 6:11",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-5-38": {
+    "mt_book": "1CH",
+    "mt_chapter": 5,
+    "mt_verse": 38,
+    "mt_ref": "1 Chronicles 5:38",
+    "english_ref": "1 Chronicles 6:12",
+    "bsb_ref": "1 Chronicles 6:12",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-5-39": {
+    "mt_book": "1CH",
+    "mt_chapter": 5,
+    "mt_verse": 39,
+    "mt_ref": "1 Chronicles 5:39",
+    "english_ref": "1 Chronicles 6:13",
+    "bsb_ref": "1 Chronicles 6:13",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-5-40": {
+    "mt_book": "1CH",
+    "mt_chapter": 5,
+    "mt_verse": 40,
+    "mt_ref": "1 Chronicles 5:40",
+    "english_ref": "1 Chronicles 6:14",
+    "bsb_ref": "1 Chronicles 6:14",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-5-41": {
+    "mt_book": "1CH",
+    "mt_chapter": 5,
+    "mt_verse": 41,
+    "mt_ref": "1 Chronicles 5:41",
+    "english_ref": "1 Chronicles 6:15",
+    "bsb_ref": "1 Chronicles 6:15",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-1": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 1,
+    "mt_ref": "1 Chronicles 6:1",
+    "english_ref": "1 Chronicles 6:16",
+    "bsb_ref": "1 Chronicles 6:16",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-2": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 2,
+    "mt_ref": "1 Chronicles 6:2",
+    "english_ref": "1 Chronicles 6:17",
+    "bsb_ref": "1 Chronicles 6:17",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-3": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 3,
+    "mt_ref": "1 Chronicles 6:3",
+    "english_ref": "1 Chronicles 6:18",
+    "bsb_ref": "1 Chronicles 6:18",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-4": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 4,
+    "mt_ref": "1 Chronicles 6:4",
+    "english_ref": "1 Chronicles 6:19",
+    "bsb_ref": "1 Chronicles 6:19",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-5": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 5,
+    "mt_ref": "1 Chronicles 6:5",
+    "english_ref": "1 Chronicles 6:20",
+    "bsb_ref": "1 Chronicles 6:20",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-6": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 6,
+    "mt_ref": "1 Chronicles 6:6",
+    "english_ref": "1 Chronicles 6:21",
+    "bsb_ref": "1 Chronicles 6:21",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-7": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 7,
+    "mt_ref": "1 Chronicles 6:7",
+    "english_ref": "1 Chronicles 6:22",
+    "bsb_ref": "1 Chronicles 6:22",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-8": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 8,
+    "mt_ref": "1 Chronicles 6:8",
+    "english_ref": "1 Chronicles 6:23",
+    "bsb_ref": "1 Chronicles 6:23",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-9": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 9,
+    "mt_ref": "1 Chronicles 6:9",
+    "english_ref": "1 Chronicles 6:24",
+    "bsb_ref": "1 Chronicles 6:24",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-10": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 10,
+    "mt_ref": "1 Chronicles 6:10",
+    "english_ref": "1 Chronicles 6:25",
+    "bsb_ref": "1 Chronicles 6:25",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-11": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 11,
+    "mt_ref": "1 Chronicles 6:11",
+    "english_ref": "1 Chronicles 6:26",
+    "bsb_ref": "1 Chronicles 6:26",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-12": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 12,
+    "mt_ref": "1 Chronicles 6:12",
+    "english_ref": "1 Chronicles 6:27",
+    "bsb_ref": "1 Chronicles 6:27",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-13": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 13,
+    "mt_ref": "1 Chronicles 6:13",
+    "english_ref": "1 Chronicles 6:28",
+    "bsb_ref": "1 Chronicles 6:28",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-14": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 14,
+    "mt_ref": "1 Chronicles 6:14",
+    "english_ref": "1 Chronicles 6:29",
+    "bsb_ref": "1 Chronicles 6:29",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-15": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 15,
+    "mt_ref": "1 Chronicles 6:15",
+    "english_ref": "1 Chronicles 6:30",
+    "bsb_ref": "1 Chronicles 6:30",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-16": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 16,
+    "mt_ref": "1 Chronicles 6:16",
+    "english_ref": "1 Chronicles 6:31",
+    "bsb_ref": "1 Chronicles 6:31",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-17": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 17,
+    "mt_ref": "1 Chronicles 6:17",
+    "english_ref": "1 Chronicles 6:32",
+    "bsb_ref": "1 Chronicles 6:32",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-18": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 18,
+    "mt_ref": "1 Chronicles 6:18",
+    "english_ref": "1 Chronicles 6:33",
+    "bsb_ref": "1 Chronicles 6:33",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-19": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 19,
+    "mt_ref": "1 Chronicles 6:19",
+    "english_ref": "1 Chronicles 6:34",
+    "bsb_ref": "1 Chronicles 6:34",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-20": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 20,
+    "mt_ref": "1 Chronicles 6:20",
+    "english_ref": "1 Chronicles 6:35",
+    "bsb_ref": "1 Chronicles 6:35",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-21": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 21,
+    "mt_ref": "1 Chronicles 6:21",
+    "english_ref": "1 Chronicles 6:36",
+    "bsb_ref": "1 Chronicles 6:36",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-22": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 22,
+    "mt_ref": "1 Chronicles 6:22",
+    "english_ref": "1 Chronicles 6:37",
+    "bsb_ref": "1 Chronicles 6:37",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-23": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 23,
+    "mt_ref": "1 Chronicles 6:23",
+    "english_ref": "1 Chronicles 6:38",
+    "bsb_ref": "1 Chronicles 6:38",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-24": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 24,
+    "mt_ref": "1 Chronicles 6:24",
+    "english_ref": "1 Chronicles 6:39",
+    "bsb_ref": "1 Chronicles 6:39",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-25": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 25,
+    "mt_ref": "1 Chronicles 6:25",
+    "english_ref": "1 Chronicles 6:40",
+    "bsb_ref": "1 Chronicles 6:40",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-26": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 26,
+    "mt_ref": "1 Chronicles 6:26",
+    "english_ref": "1 Chronicles 6:41",
+    "bsb_ref": "1 Chronicles 6:41",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-27": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 27,
+    "mt_ref": "1 Chronicles 6:27",
+    "english_ref": "1 Chronicles 6:42",
+    "bsb_ref": "1 Chronicles 6:42",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-28": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 28,
+    "mt_ref": "1 Chronicles 6:28",
+    "english_ref": "1 Chronicles 6:43",
+    "bsb_ref": "1 Chronicles 6:43",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-29": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 29,
+    "mt_ref": "1 Chronicles 6:29",
+    "english_ref": "1 Chronicles 6:44",
+    "bsb_ref": "1 Chronicles 6:44",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-30": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 30,
+    "mt_ref": "1 Chronicles 6:30",
+    "english_ref": "1 Chronicles 6:45",
+    "bsb_ref": "1 Chronicles 6:45",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-31": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 31,
+    "mt_ref": "1 Chronicles 6:31",
+    "english_ref": "1 Chronicles 6:46",
+    "bsb_ref": "1 Chronicles 6:46",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-32": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 32,
+    "mt_ref": "1 Chronicles 6:32",
+    "english_ref": "1 Chronicles 6:47",
+    "bsb_ref": "1 Chronicles 6:47",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-33": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 33,
+    "mt_ref": "1 Chronicles 6:33",
+    "english_ref": "1 Chronicles 6:48",
+    "bsb_ref": "1 Chronicles 6:48",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-34": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 34,
+    "mt_ref": "1 Chronicles 6:34",
+    "english_ref": "1 Chronicles 6:49",
+    "bsb_ref": "1 Chronicles 6:49",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-35": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 35,
+    "mt_ref": "1 Chronicles 6:35",
+    "english_ref": "1 Chronicles 6:50",
+    "bsb_ref": "1 Chronicles 6:50",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-36": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 36,
+    "mt_ref": "1 Chronicles 6:36",
+    "english_ref": "1 Chronicles 6:51",
+    "bsb_ref": "1 Chronicles 6:51",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-37": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 37,
+    "mt_ref": "1 Chronicles 6:37",
+    "english_ref": "1 Chronicles 6:52",
+    "bsb_ref": "1 Chronicles 6:52",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-38": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 38,
+    "mt_ref": "1 Chronicles 6:38",
+    "english_ref": "1 Chronicles 6:53",
+    "bsb_ref": "1 Chronicles 6:53",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-39": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 39,
+    "mt_ref": "1 Chronicles 6:39",
+    "english_ref": "1 Chronicles 6:54",
+    "bsb_ref": "1 Chronicles 6:54",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-40": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 40,
+    "mt_ref": "1 Chronicles 6:40",
+    "english_ref": "1 Chronicles 6:55",
+    "bsb_ref": "1 Chronicles 6:55",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-41": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 41,
+    "mt_ref": "1 Chronicles 6:41",
+    "english_ref": "1 Chronicles 6:56",
+    "bsb_ref": "1 Chronicles 6:56",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-42": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 42,
+    "mt_ref": "1 Chronicles 6:42",
+    "english_ref": "1 Chronicles 6:57",
+    "bsb_ref": "1 Chronicles 6:57",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-43": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 43,
+    "mt_ref": "1 Chronicles 6:43",
+    "english_ref": "1 Chronicles 6:58",
+    "bsb_ref": "1 Chronicles 6:58",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-44": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 44,
+    "mt_ref": "1 Chronicles 6:44",
+    "english_ref": "1 Chronicles 6:59",
+    "bsb_ref": "1 Chronicles 6:59",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-45": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 45,
+    "mt_ref": "1 Chronicles 6:45",
+    "english_ref": "1 Chronicles 6:60",
+    "bsb_ref": "1 Chronicles 6:60",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-46": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 46,
+    "mt_ref": "1 Chronicles 6:46",
+    "english_ref": "1 Chronicles 6:61",
+    "bsb_ref": "1 Chronicles 6:61",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-47": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 47,
+    "mt_ref": "1 Chronicles 6:47",
+    "english_ref": "1 Chronicles 6:62",
+    "bsb_ref": "1 Chronicles 6:62",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-48": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 48,
+    "mt_ref": "1 Chronicles 6:48",
+    "english_ref": "1 Chronicles 6:63",
+    "bsb_ref": "1 Chronicles 6:63",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-49": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 49,
+    "mt_ref": "1 Chronicles 6:49",
+    "english_ref": "1 Chronicles 6:64",
+    "bsb_ref": "1 Chronicles 6:64",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-50": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 50,
+    "mt_ref": "1 Chronicles 6:50",
+    "english_ref": "1 Chronicles 6:65",
+    "bsb_ref": "1 Chronicles 6:65",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-51": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 51,
+    "mt_ref": "1 Chronicles 6:51",
+    "english_ref": "1 Chronicles 6:66",
+    "bsb_ref": "1 Chronicles 6:66",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-52": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 52,
+    "mt_ref": "1 Chronicles 6:52",
+    "english_ref": "1 Chronicles 6:67",
+    "bsb_ref": "1 Chronicles 6:67",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-53": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 53,
+    "mt_ref": "1 Chronicles 6:53",
+    "english_ref": "1 Chronicles 6:68",
+    "bsb_ref": "1 Chronicles 6:68",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-54": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 54,
+    "mt_ref": "1 Chronicles 6:54",
+    "english_ref": "1 Chronicles 6:69",
+    "bsb_ref": "1 Chronicles 6:69",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-55": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 55,
+    "mt_ref": "1 Chronicles 6:55",
+    "english_ref": "1 Chronicles 6:70",
+    "bsb_ref": "1 Chronicles 6:70",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-56": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 56,
+    "mt_ref": "1 Chronicles 6:56",
+    "english_ref": "1 Chronicles 6:71",
+    "bsb_ref": "1 Chronicles 6:71",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-57": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 57,
+    "mt_ref": "1 Chronicles 6:57",
+    "english_ref": "1 Chronicles 6:72",
+    "bsb_ref": "1 Chronicles 6:72",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-58": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 58,
+    "mt_ref": "1 Chronicles 6:58",
+    "english_ref": "1 Chronicles 6:73",
+    "bsb_ref": "1 Chronicles 6:73",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-59": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 59,
+    "mt_ref": "1 Chronicles 6:59",
+    "english_ref": "1 Chronicles 6:74",
+    "bsb_ref": "1 Chronicles 6:74",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-60": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 60,
+    "mt_ref": "1 Chronicles 6:60",
+    "english_ref": "1 Chronicles 6:75",
+    "bsb_ref": "1 Chronicles 6:75",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-61": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 61,
+    "mt_ref": "1 Chronicles 6:61",
+    "english_ref": "1 Chronicles 6:76",
+    "bsb_ref": "1 Chronicles 6:76",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-62": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 62,
+    "mt_ref": "1 Chronicles 6:62",
+    "english_ref": "1 Chronicles 6:77",
+    "bsb_ref": "1 Chronicles 6:77",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-63": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 63,
+    "mt_ref": "1 Chronicles 6:63",
+    "english_ref": "1 Chronicles 6:78",
+    "bsb_ref": "1 Chronicles 6:78",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-64": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 64,
+    "mt_ref": "1 Chronicles 6:64",
+    "english_ref": "1 Chronicles 6:79",
+    "bsb_ref": "1 Chronicles 6:79",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-65": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 65,
+    "mt_ref": "1 Chronicles 6:65",
+    "english_ref": "1 Chronicles 6:80",
+    "bsb_ref": "1 Chronicles 6:80",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-6-66": {
+    "mt_book": "1CH",
+    "mt_chapter": 6,
+    "mt_verse": 66,
+    "mt_ref": "1 Chronicles 6:66",
+    "english_ref": "1 Chronicles 6:81",
+    "bsb_ref": "1 Chronicles 6:81",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-12-5": {
+    "mt_book": "1CH",
+    "mt_chapter": 12,
+    "mt_verse": 5,
+    "mt_ref": "1 Chronicles 12:5",
+    "english_ref": "1 Chronicles 12:4",
+    "bsb_ref": "1 Chronicles 12:4",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-12-6": {
+    "mt_book": "1CH",
+    "mt_chapter": 12,
+    "mt_verse": 6,
+    "mt_ref": "1 Chronicles 12:6",
+    "english_ref": "1 Chronicles 12:5",
+    "bsb_ref": "1 Chronicles 12:5",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-12-7": {
+    "mt_book": "1CH",
+    "mt_chapter": 12,
+    "mt_verse": 7,
+    "mt_ref": "1 Chronicles 12:7",
+    "english_ref": "1 Chronicles 12:6",
+    "bsb_ref": "1 Chronicles 12:6",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-12-8": {
+    "mt_book": "1CH",
+    "mt_chapter": 12,
+    "mt_verse": 8,
+    "mt_ref": "1 Chronicles 12:8",
+    "english_ref": "1 Chronicles 12:7",
+    "bsb_ref": "1 Chronicles 12:7",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-12-9": {
+    "mt_book": "1CH",
+    "mt_chapter": 12,
+    "mt_verse": 9,
+    "mt_ref": "1 Chronicles 12:9",
+    "english_ref": "1 Chronicles 12:8",
+    "bsb_ref": "1 Chronicles 12:8",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-12-10": {
+    "mt_book": "1CH",
+    "mt_chapter": 12,
+    "mt_verse": 10,
+    "mt_ref": "1 Chronicles 12:10",
+    "english_ref": "1 Chronicles 12:9",
+    "bsb_ref": "1 Chronicles 12:9",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-12-11": {
+    "mt_book": "1CH",
+    "mt_chapter": 12,
+    "mt_verse": 11,
+    "mt_ref": "1 Chronicles 12:11",
+    "english_ref": "1 Chronicles 12:10",
+    "bsb_ref": "1 Chronicles 12:10",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-12-12": {
+    "mt_book": "1CH",
+    "mt_chapter": 12,
+    "mt_verse": 12,
+    "mt_ref": "1 Chronicles 12:12",
+    "english_ref": "1 Chronicles 12:11",
+    "bsb_ref": "1 Chronicles 12:11",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-12-13": {
+    "mt_book": "1CH",
+    "mt_chapter": 12,
+    "mt_verse": 13,
+    "mt_ref": "1 Chronicles 12:13",
+    "english_ref": "1 Chronicles 12:12",
+    "bsb_ref": "1 Chronicles 12:12",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-12-14": {
+    "mt_book": "1CH",
+    "mt_chapter": 12,
+    "mt_verse": 14,
+    "mt_ref": "1 Chronicles 12:14",
+    "english_ref": "1 Chronicles 12:13",
+    "bsb_ref": "1 Chronicles 12:13",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-12-15": {
+    "mt_book": "1CH",
+    "mt_chapter": 12,
+    "mt_verse": 15,
+    "mt_ref": "1 Chronicles 12:15",
+    "english_ref": "1 Chronicles 12:14",
+    "bsb_ref": "1 Chronicles 12:14",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-12-16": {
+    "mt_book": "1CH",
+    "mt_chapter": 12,
+    "mt_verse": 16,
+    "mt_ref": "1 Chronicles 12:16",
+    "english_ref": "1 Chronicles 12:15",
+    "bsb_ref": "1 Chronicles 12:15",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-12-17": {
+    "mt_book": "1CH",
+    "mt_chapter": 12,
+    "mt_verse": 17,
+    "mt_ref": "1 Chronicles 12:17",
+    "english_ref": "1 Chronicles 12:16",
+    "bsb_ref": "1 Chronicles 12:16",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-12-18": {
+    "mt_book": "1CH",
+    "mt_chapter": 12,
+    "mt_verse": 18,
+    "mt_ref": "1 Chronicles 12:18",
+    "english_ref": "1 Chronicles 12:17",
+    "bsb_ref": "1 Chronicles 12:17",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-12-19": {
+    "mt_book": "1CH",
+    "mt_chapter": 12,
+    "mt_verse": 19,
+    "mt_ref": "1 Chronicles 12:19",
+    "english_ref": "1 Chronicles 12:18",
+    "bsb_ref": "1 Chronicles 12:18",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-12-20": {
+    "mt_book": "1CH",
+    "mt_chapter": 12,
+    "mt_verse": 20,
+    "mt_ref": "1 Chronicles 12:20",
+    "english_ref": "1 Chronicles 12:19",
+    "bsb_ref": "1 Chronicles 12:19",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-12-21": {
+    "mt_book": "1CH",
+    "mt_chapter": 12,
+    "mt_verse": 21,
+    "mt_ref": "1 Chronicles 12:21",
+    "english_ref": "1 Chronicles 12:20",
+    "bsb_ref": "1 Chronicles 12:20",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-12-22": {
+    "mt_book": "1CH",
+    "mt_chapter": 12,
+    "mt_verse": 22,
+    "mt_ref": "1 Chronicles 12:22",
+    "english_ref": "1 Chronicles 12:21",
+    "bsb_ref": "1 Chronicles 12:21",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-12-23": {
+    "mt_book": "1CH",
+    "mt_chapter": 12,
+    "mt_verse": 23,
+    "mt_ref": "1 Chronicles 12:23",
+    "english_ref": "1 Chronicles 12:22",
+    "bsb_ref": "1 Chronicles 12:22",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-12-24": {
+    "mt_book": "1CH",
+    "mt_chapter": 12,
+    "mt_verse": 24,
+    "mt_ref": "1 Chronicles 12:24",
+    "english_ref": "1 Chronicles 12:23",
+    "bsb_ref": "1 Chronicles 12:23",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-12-25": {
+    "mt_book": "1CH",
+    "mt_chapter": 12,
+    "mt_verse": 25,
+    "mt_ref": "1 Chronicles 12:25",
+    "english_ref": "1 Chronicles 12:24",
+    "bsb_ref": "1 Chronicles 12:24",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-12-26": {
+    "mt_book": "1CH",
+    "mt_chapter": 12,
+    "mt_verse": 26,
+    "mt_ref": "1 Chronicles 12:26",
+    "english_ref": "1 Chronicles 12:25",
+    "bsb_ref": "1 Chronicles 12:25",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-12-27": {
+    "mt_book": "1CH",
+    "mt_chapter": 12,
+    "mt_verse": 27,
+    "mt_ref": "1 Chronicles 12:27",
+    "english_ref": "1 Chronicles 12:26",
+    "bsb_ref": "1 Chronicles 12:26",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-12-28": {
+    "mt_book": "1CH",
+    "mt_chapter": 12,
+    "mt_verse": 28,
+    "mt_ref": "1 Chronicles 12:28",
+    "english_ref": "1 Chronicles 12:27",
+    "bsb_ref": "1 Chronicles 12:27",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-12-29": {
+    "mt_book": "1CH",
+    "mt_chapter": 12,
+    "mt_verse": 29,
+    "mt_ref": "1 Chronicles 12:29",
+    "english_ref": "1 Chronicles 12:28",
+    "bsb_ref": "1 Chronicles 12:28",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-12-30": {
+    "mt_book": "1CH",
+    "mt_chapter": 12,
+    "mt_verse": 30,
+    "mt_ref": "1 Chronicles 12:30",
+    "english_ref": "1 Chronicles 12:29",
+    "bsb_ref": "1 Chronicles 12:29",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-12-31": {
+    "mt_book": "1CH",
+    "mt_chapter": 12,
+    "mt_verse": 31,
+    "mt_ref": "1 Chronicles 12:31",
+    "english_ref": "1 Chronicles 12:30",
+    "bsb_ref": "1 Chronicles 12:30",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-12-32": {
+    "mt_book": "1CH",
+    "mt_chapter": 12,
+    "mt_verse": 32,
+    "mt_ref": "1 Chronicles 12:32",
+    "english_ref": "1 Chronicles 12:31",
+    "bsb_ref": "1 Chronicles 12:31",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-12-33": {
+    "mt_book": "1CH",
+    "mt_chapter": 12,
+    "mt_verse": 33,
+    "mt_ref": "1 Chronicles 12:33",
+    "english_ref": "1 Chronicles 12:32",
+    "bsb_ref": "1 Chronicles 12:32",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-12-34": {
+    "mt_book": "1CH",
+    "mt_chapter": 12,
+    "mt_verse": 34,
+    "mt_ref": "1 Chronicles 12:34",
+    "english_ref": "1 Chronicles 12:33",
+    "bsb_ref": "1 Chronicles 12:33",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-12-35": {
+    "mt_book": "1CH",
+    "mt_chapter": 12,
+    "mt_verse": 35,
+    "mt_ref": "1 Chronicles 12:35",
+    "english_ref": "1 Chronicles 12:34",
+    "bsb_ref": "1 Chronicles 12:34",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-12-36": {
+    "mt_book": "1CH",
+    "mt_chapter": 12,
+    "mt_verse": 36,
+    "mt_ref": "1 Chronicles 12:36",
+    "english_ref": "1 Chronicles 12:35",
+    "bsb_ref": "1 Chronicles 12:35",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-12-37": {
+    "mt_book": "1CH",
+    "mt_chapter": 12,
+    "mt_verse": 37,
+    "mt_ref": "1 Chronicles 12:37",
+    "english_ref": "1 Chronicles 12:36",
+    "bsb_ref": "1 Chronicles 12:36",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-12-38": {
+    "mt_book": "1CH",
+    "mt_chapter": 12,
+    "mt_verse": 38,
+    "mt_ref": "1 Chronicles 12:38",
+    "english_ref": "1 Chronicles 12:37",
+    "bsb_ref": "1 Chronicles 12:37",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-12-39": {
+    "mt_book": "1CH",
+    "mt_chapter": 12,
+    "mt_verse": 39,
+    "mt_ref": "1 Chronicles 12:39",
+    "english_ref": "1 Chronicles 12:38",
+    "bsb_ref": "1 Chronicles 12:38",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-12-40": {
+    "mt_book": "1CH",
+    "mt_chapter": 12,
+    "mt_verse": 40,
+    "mt_ref": "1 Chronicles 12:40",
+    "english_ref": "1 Chronicles 12:39",
+    "bsb_ref": "1 Chronicles 12:39",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "1CH-12-41": {
+    "mt_book": "1CH",
+    "mt_chapter": 12,
+    "mt_verse": 41,
+    "mt_ref": "1 Chronicles 12:41",
+    "english_ref": "1 Chronicles 12:40",
+    "bsb_ref": "1 Chronicles 12:40",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "JER-8-23": {
+    "mt_book": "JER",
+    "mt_chapter": 8,
+    "mt_verse": 23,
+    "mt_ref": "Jeremiah 8:23",
+    "english_ref": "Jeremiah 9:1",
+    "bsb_ref": "Jeremiah 9:1",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "JER-9-1": {
+    "mt_book": "JER",
+    "mt_chapter": 9,
+    "mt_verse": 1,
+    "mt_ref": "Jeremiah 9:1",
+    "english_ref": "Jeremiah 9:2",
+    "bsb_ref": "Jeremiah 9:2",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "JER-9-2": {
+    "mt_book": "JER",
+    "mt_chapter": 9,
+    "mt_verse": 2,
+    "mt_ref": "Jeremiah 9:2",
+    "english_ref": "Jeremiah 9:3",
+    "bsb_ref": "Jeremiah 9:3",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "JER-9-3": {
+    "mt_book": "JER",
+    "mt_chapter": 9,
+    "mt_verse": 3,
+    "mt_ref": "Jeremiah 9:3",
+    "english_ref": "Jeremiah 9:4",
+    "bsb_ref": "Jeremiah 9:4",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "JER-9-4": {
+    "mt_book": "JER",
+    "mt_chapter": 9,
+    "mt_verse": 4,
+    "mt_ref": "Jeremiah 9:4",
+    "english_ref": "Jeremiah 9:5",
+    "bsb_ref": "Jeremiah 9:5",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "JER-9-5": {
+    "mt_book": "JER",
+    "mt_chapter": 9,
+    "mt_verse": 5,
+    "mt_ref": "Jeremiah 9:5",
+    "english_ref": "Jeremiah 9:6",
+    "bsb_ref": "Jeremiah 9:6",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "JER-9-6": {
+    "mt_book": "JER",
+    "mt_chapter": 9,
+    "mt_verse": 6,
+    "mt_ref": "Jeremiah 9:6",
+    "english_ref": "Jeremiah 9:7",
+    "bsb_ref": "Jeremiah 9:7",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "JER-9-7": {
+    "mt_book": "JER",
+    "mt_chapter": 9,
+    "mt_verse": 7,
+    "mt_ref": "Jeremiah 9:7",
+    "english_ref": "Jeremiah 9:8",
+    "bsb_ref": "Jeremiah 9:8",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "JER-9-8": {
+    "mt_book": "JER",
+    "mt_chapter": 9,
+    "mt_verse": 8,
+    "mt_ref": "Jeremiah 9:8",
+    "english_ref": "Jeremiah 9:9",
+    "bsb_ref": "Jeremiah 9:9",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "JER-9-9": {
+    "mt_book": "JER",
+    "mt_chapter": 9,
+    "mt_verse": 9,
+    "mt_ref": "Jeremiah 9:9",
+    "english_ref": "Jeremiah 9:10",
+    "bsb_ref": "Jeremiah 9:10",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "JER-9-10": {
+    "mt_book": "JER",
+    "mt_chapter": 9,
+    "mt_verse": 10,
+    "mt_ref": "Jeremiah 9:10",
+    "english_ref": "Jeremiah 9:11",
+    "bsb_ref": "Jeremiah 9:11",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "JER-9-11": {
+    "mt_book": "JER",
+    "mt_chapter": 9,
+    "mt_verse": 11,
+    "mt_ref": "Jeremiah 9:11",
+    "english_ref": "Jeremiah 9:12",
+    "bsb_ref": "Jeremiah 9:12",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "JER-9-12": {
+    "mt_book": "JER",
+    "mt_chapter": 9,
+    "mt_verse": 12,
+    "mt_ref": "Jeremiah 9:12",
+    "english_ref": "Jeremiah 9:13",
+    "bsb_ref": "Jeremiah 9:13",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "JER-9-13": {
+    "mt_book": "JER",
+    "mt_chapter": 9,
+    "mt_verse": 13,
+    "mt_ref": "Jeremiah 9:13",
+    "english_ref": "Jeremiah 9:14",
+    "bsb_ref": "Jeremiah 9:14",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "JER-9-14": {
+    "mt_book": "JER",
+    "mt_chapter": 9,
+    "mt_verse": 14,
+    "mt_ref": "Jeremiah 9:14",
+    "english_ref": "Jeremiah 9:15",
+    "bsb_ref": "Jeremiah 9:15",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "JER-9-15": {
+    "mt_book": "JER",
+    "mt_chapter": 9,
+    "mt_verse": 15,
+    "mt_ref": "Jeremiah 9:15",
+    "english_ref": "Jeremiah 9:16",
+    "bsb_ref": "Jeremiah 9:16",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "JER-9-16": {
+    "mt_book": "JER",
+    "mt_chapter": 9,
+    "mt_verse": 16,
+    "mt_ref": "Jeremiah 9:16",
+    "english_ref": "Jeremiah 9:17",
+    "bsb_ref": "Jeremiah 9:17",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "JER-9-17": {
+    "mt_book": "JER",
+    "mt_chapter": 9,
+    "mt_verse": 17,
+    "mt_ref": "Jeremiah 9:17",
+    "english_ref": "Jeremiah 9:18",
+    "bsb_ref": "Jeremiah 9:18",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "JER-9-18": {
+    "mt_book": "JER",
+    "mt_chapter": 9,
+    "mt_verse": 18,
+    "mt_ref": "Jeremiah 9:18",
+    "english_ref": "Jeremiah 9:19",
+    "bsb_ref": "Jeremiah 9:19",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "JER-9-19": {
+    "mt_book": "JER",
+    "mt_chapter": 9,
+    "mt_verse": 19,
+    "mt_ref": "Jeremiah 9:19",
+    "english_ref": "Jeremiah 9:20",
+    "bsb_ref": "Jeremiah 9:20",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "JER-9-20": {
+    "mt_book": "JER",
+    "mt_chapter": 9,
+    "mt_verse": 20,
+    "mt_ref": "Jeremiah 9:20",
+    "english_ref": "Jeremiah 9:21",
+    "bsb_ref": "Jeremiah 9:21",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "JER-9-21": {
+    "mt_book": "JER",
+    "mt_chapter": 9,
+    "mt_verse": 21,
+    "mt_ref": "Jeremiah 9:21",
+    "english_ref": "Jeremiah 9:22",
+    "bsb_ref": "Jeremiah 9:22",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "JER-9-22": {
+    "mt_book": "JER",
+    "mt_chapter": 9,
+    "mt_verse": 22,
+    "mt_ref": "Jeremiah 9:22",
+    "english_ref": "Jeremiah 9:23",
+    "bsb_ref": "Jeremiah 9:23",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "JER-9-23": {
+    "mt_book": "JER",
+    "mt_chapter": 9,
+    "mt_verse": 23,
+    "mt_ref": "Jeremiah 9:23",
+    "english_ref": "Jeremiah 9:24",
+    "bsb_ref": "Jeremiah 9:24",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "JER-9-24": {
+    "mt_book": "JER",
+    "mt_chapter": 9,
+    "mt_verse": 24,
+    "mt_ref": "Jeremiah 9:24",
+    "english_ref": "Jeremiah 9:25",
+    "bsb_ref": "Jeremiah 9:25",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "JER-9-25": {
+    "mt_book": "JER",
+    "mt_chapter": 9,
+    "mt_verse": 25,
+    "mt_ref": "Jeremiah 9:25",
+    "english_ref": "Jeremiah 9:26",
+    "bsb_ref": "Jeremiah 9:26",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EZK-21-1": {
+    "mt_book": "EZK",
+    "mt_chapter": 21,
+    "mt_verse": 1,
+    "mt_ref": "Ezekiel 21:1",
+    "english_ref": "Ezekiel 20:45",
+    "bsb_ref": "Ezekiel 20:45",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EZK-21-2": {
+    "mt_book": "EZK",
+    "mt_chapter": 21,
+    "mt_verse": 2,
+    "mt_ref": "Ezekiel 21:2",
+    "english_ref": "Ezekiel 20:46",
+    "bsb_ref": "Ezekiel 20:46",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EZK-21-3": {
+    "mt_book": "EZK",
+    "mt_chapter": 21,
+    "mt_verse": 3,
+    "mt_ref": "Ezekiel 21:3",
+    "english_ref": "Ezekiel 20:47",
+    "bsb_ref": "Ezekiel 20:47",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EZK-21-4": {
+    "mt_book": "EZK",
+    "mt_chapter": 21,
+    "mt_verse": 4,
+    "mt_ref": "Ezekiel 21:4",
+    "english_ref": "Ezekiel 20:48",
+    "bsb_ref": "Ezekiel 20:48",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EZK-21-5": {
+    "mt_book": "EZK",
+    "mt_chapter": 21,
+    "mt_verse": 5,
+    "mt_ref": "Ezekiel 21:5",
+    "english_ref": "Ezekiel 20:49",
+    "bsb_ref": "Ezekiel 20:49",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EZK-21-6": {
+    "mt_book": "EZK",
+    "mt_chapter": 21,
+    "mt_verse": 6,
+    "mt_ref": "Ezekiel 21:6",
+    "english_ref": "Ezekiel 21:1",
+    "bsb_ref": "Ezekiel 21:1",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EZK-21-7": {
+    "mt_book": "EZK",
+    "mt_chapter": 21,
+    "mt_verse": 7,
+    "mt_ref": "Ezekiel 21:7",
+    "english_ref": "Ezekiel 21:2",
+    "bsb_ref": "Ezekiel 21:2",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EZK-21-8": {
+    "mt_book": "EZK",
+    "mt_chapter": 21,
+    "mt_verse": 8,
+    "mt_ref": "Ezekiel 21:8",
+    "english_ref": "Ezekiel 21:3",
+    "bsb_ref": "Ezekiel 21:3",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EZK-21-9": {
+    "mt_book": "EZK",
+    "mt_chapter": 21,
+    "mt_verse": 9,
+    "mt_ref": "Ezekiel 21:9",
+    "english_ref": "Ezekiel 21:4",
+    "bsb_ref": "Ezekiel 21:4",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EZK-21-10": {
+    "mt_book": "EZK",
+    "mt_chapter": 21,
+    "mt_verse": 10,
+    "mt_ref": "Ezekiel 21:10",
+    "english_ref": "Ezekiel 21:5",
+    "bsb_ref": "Ezekiel 21:5",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EZK-21-11": {
+    "mt_book": "EZK",
+    "mt_chapter": 21,
+    "mt_verse": 11,
+    "mt_ref": "Ezekiel 21:11",
+    "english_ref": "Ezekiel 21:6",
+    "bsb_ref": "Ezekiel 21:6",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EZK-21-12": {
+    "mt_book": "EZK",
+    "mt_chapter": 21,
+    "mt_verse": 12,
+    "mt_ref": "Ezekiel 21:12",
+    "english_ref": "Ezekiel 21:7",
+    "bsb_ref": "Ezekiel 21:7",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EZK-21-13": {
+    "mt_book": "EZK",
+    "mt_chapter": 21,
+    "mt_verse": 13,
+    "mt_ref": "Ezekiel 21:13",
+    "english_ref": "Ezekiel 21:8",
+    "bsb_ref": "Ezekiel 21:8",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EZK-21-14": {
+    "mt_book": "EZK",
+    "mt_chapter": 21,
+    "mt_verse": 14,
+    "mt_ref": "Ezekiel 21:14",
+    "english_ref": "Ezekiel 21:9",
+    "bsb_ref": "Ezekiel 21:9",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EZK-21-15": {
+    "mt_book": "EZK",
+    "mt_chapter": 21,
+    "mt_verse": 15,
+    "mt_ref": "Ezekiel 21:15",
+    "english_ref": "Ezekiel 21:10",
+    "bsb_ref": "Ezekiel 21:10",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EZK-21-16": {
+    "mt_book": "EZK",
+    "mt_chapter": 21,
+    "mt_verse": 16,
+    "mt_ref": "Ezekiel 21:16",
+    "english_ref": "Ezekiel 21:11",
+    "bsb_ref": "Ezekiel 21:11",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EZK-21-17": {
+    "mt_book": "EZK",
+    "mt_chapter": 21,
+    "mt_verse": 17,
+    "mt_ref": "Ezekiel 21:17",
+    "english_ref": "Ezekiel 21:12",
+    "bsb_ref": "Ezekiel 21:12",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EZK-21-18": {
+    "mt_book": "EZK",
+    "mt_chapter": 21,
+    "mt_verse": 18,
+    "mt_ref": "Ezekiel 21:18",
+    "english_ref": "Ezekiel 21:13",
+    "bsb_ref": "Ezekiel 21:13",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EZK-21-19": {
+    "mt_book": "EZK",
+    "mt_chapter": 21,
+    "mt_verse": 19,
+    "mt_ref": "Ezekiel 21:19",
+    "english_ref": "Ezekiel 21:14",
+    "bsb_ref": "Ezekiel 21:14",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EZK-21-20": {
+    "mt_book": "EZK",
+    "mt_chapter": 21,
+    "mt_verse": 20,
+    "mt_ref": "Ezekiel 21:20",
+    "english_ref": "Ezekiel 21:15",
+    "bsb_ref": "Ezekiel 21:15",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EZK-21-21": {
+    "mt_book": "EZK",
+    "mt_chapter": 21,
+    "mt_verse": 21,
+    "mt_ref": "Ezekiel 21:21",
+    "english_ref": "Ezekiel 21:16",
+    "bsb_ref": "Ezekiel 21:16",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EZK-21-22": {
+    "mt_book": "EZK",
+    "mt_chapter": 21,
+    "mt_verse": 22,
+    "mt_ref": "Ezekiel 21:22",
+    "english_ref": "Ezekiel 21:17",
+    "bsb_ref": "Ezekiel 21:17",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EZK-21-23": {
+    "mt_book": "EZK",
+    "mt_chapter": 21,
+    "mt_verse": 23,
+    "mt_ref": "Ezekiel 21:23",
+    "english_ref": "Ezekiel 21:18",
+    "bsb_ref": "Ezekiel 21:18",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EZK-21-24": {
+    "mt_book": "EZK",
+    "mt_chapter": 21,
+    "mt_verse": 24,
+    "mt_ref": "Ezekiel 21:24",
+    "english_ref": "Ezekiel 21:19",
+    "bsb_ref": "Ezekiel 21:19",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EZK-21-25": {
+    "mt_book": "EZK",
+    "mt_chapter": 21,
+    "mt_verse": 25,
+    "mt_ref": "Ezekiel 21:25",
+    "english_ref": "Ezekiel 21:20",
+    "bsb_ref": "Ezekiel 21:20",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EZK-21-26": {
+    "mt_book": "EZK",
+    "mt_chapter": 21,
+    "mt_verse": 26,
+    "mt_ref": "Ezekiel 21:26",
+    "english_ref": "Ezekiel 21:21",
+    "bsb_ref": "Ezekiel 21:21",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EZK-21-27": {
+    "mt_book": "EZK",
+    "mt_chapter": 21,
+    "mt_verse": 27,
+    "mt_ref": "Ezekiel 21:27",
+    "english_ref": "Ezekiel 21:22",
+    "bsb_ref": "Ezekiel 21:22",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EZK-21-28": {
+    "mt_book": "EZK",
+    "mt_chapter": 21,
+    "mt_verse": 28,
+    "mt_ref": "Ezekiel 21:28",
+    "english_ref": "Ezekiel 21:23",
+    "bsb_ref": "Ezekiel 21:23",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EZK-21-29": {
+    "mt_book": "EZK",
+    "mt_chapter": 21,
+    "mt_verse": 29,
+    "mt_ref": "Ezekiel 21:29",
+    "english_ref": "Ezekiel 21:24",
+    "bsb_ref": "Ezekiel 21:24",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EZK-21-30": {
+    "mt_book": "EZK",
+    "mt_chapter": 21,
+    "mt_verse": 30,
+    "mt_ref": "Ezekiel 21:30",
+    "english_ref": "Ezekiel 21:25",
+    "bsb_ref": "Ezekiel 21:25",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EZK-21-31": {
+    "mt_book": "EZK",
+    "mt_chapter": 21,
+    "mt_verse": 31,
+    "mt_ref": "Ezekiel 21:31",
+    "english_ref": "Ezekiel 21:26",
+    "bsb_ref": "Ezekiel 21:26",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EZK-21-32": {
+    "mt_book": "EZK",
+    "mt_chapter": 21,
+    "mt_verse": 32,
+    "mt_ref": "Ezekiel 21:32",
+    "english_ref": "Ezekiel 21:27",
+    "bsb_ref": "Ezekiel 21:27",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EZK-21-33": {
+    "mt_book": "EZK",
+    "mt_chapter": 21,
+    "mt_verse": 33,
+    "mt_ref": "Ezekiel 21:33",
+    "english_ref": "Ezekiel 21:28",
+    "bsb_ref": "Ezekiel 21:28",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EZK-21-34": {
+    "mt_book": "EZK",
+    "mt_chapter": 21,
+    "mt_verse": 34,
+    "mt_ref": "Ezekiel 21:34",
+    "english_ref": "Ezekiel 21:29",
+    "bsb_ref": "Ezekiel 21:29",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EZK-21-35": {
+    "mt_book": "EZK",
+    "mt_chapter": 21,
+    "mt_verse": 35,
+    "mt_ref": "Ezekiel 21:35",
+    "english_ref": "Ezekiel 21:30",
+    "bsb_ref": "Ezekiel 21:30",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EZK-21-36": {
+    "mt_book": "EZK",
+    "mt_chapter": 21,
+    "mt_verse": 36,
+    "mt_ref": "Ezekiel 21:36",
+    "english_ref": "Ezekiel 21:31",
+    "bsb_ref": "Ezekiel 21:31",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "EZK-21-37": {
+    "mt_book": "EZK",
+    "mt_chapter": 21,
+    "mt_verse": 37,
+    "mt_ref": "Ezekiel 21:37",
+    "english_ref": "Ezekiel 21:32",
+    "bsb_ref": "Ezekiel 21:32",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-3-31": {
+    "mt_book": "DAN",
+    "mt_chapter": 3,
+    "mt_verse": 31,
+    "mt_ref": "Daniel 3:31",
+    "english_ref": "Daniel 4:1",
+    "bsb_ref": "Daniel 4:1",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-3-32": {
+    "mt_book": "DAN",
+    "mt_chapter": 3,
+    "mt_verse": 32,
+    "mt_ref": "Daniel 3:32",
+    "english_ref": "Daniel 4:2",
+    "bsb_ref": "Daniel 4:2",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-3-33": {
+    "mt_book": "DAN",
+    "mt_chapter": 3,
+    "mt_verse": 33,
+    "mt_ref": "Daniel 3:33",
+    "english_ref": "Daniel 4:3",
+    "bsb_ref": "Daniel 4:3",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-4-1": {
+    "mt_book": "DAN",
+    "mt_chapter": 4,
+    "mt_verse": 1,
+    "mt_ref": "Daniel 4:1",
+    "english_ref": "Daniel 4:4",
+    "bsb_ref": "Daniel 4:4",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-4-2": {
+    "mt_book": "DAN",
+    "mt_chapter": 4,
+    "mt_verse": 2,
+    "mt_ref": "Daniel 4:2",
+    "english_ref": "Daniel 4:5",
+    "bsb_ref": "Daniel 4:5",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-4-3": {
+    "mt_book": "DAN",
+    "mt_chapter": 4,
+    "mt_verse": 3,
+    "mt_ref": "Daniel 4:3",
+    "english_ref": "Daniel 4:6",
+    "bsb_ref": "Daniel 4:6",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-4-4": {
+    "mt_book": "DAN",
+    "mt_chapter": 4,
+    "mt_verse": 4,
+    "mt_ref": "Daniel 4:4",
+    "english_ref": "Daniel 4:7",
+    "bsb_ref": "Daniel 4:7",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-4-5": {
+    "mt_book": "DAN",
+    "mt_chapter": 4,
+    "mt_verse": 5,
+    "mt_ref": "Daniel 4:5",
+    "english_ref": "Daniel 4:8",
+    "bsb_ref": "Daniel 4:8",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-4-6": {
+    "mt_book": "DAN",
+    "mt_chapter": 4,
+    "mt_verse": 6,
+    "mt_ref": "Daniel 4:6",
+    "english_ref": "Daniel 4:9",
+    "bsb_ref": "Daniel 4:9",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-4-7": {
+    "mt_book": "DAN",
+    "mt_chapter": 4,
+    "mt_verse": 7,
+    "mt_ref": "Daniel 4:7",
+    "english_ref": "Daniel 4:10",
+    "bsb_ref": "Daniel 4:10",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-4-8": {
+    "mt_book": "DAN",
+    "mt_chapter": 4,
+    "mt_verse": 8,
+    "mt_ref": "Daniel 4:8",
+    "english_ref": "Daniel 4:11",
+    "bsb_ref": "Daniel 4:11",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-4-9": {
+    "mt_book": "DAN",
+    "mt_chapter": 4,
+    "mt_verse": 9,
+    "mt_ref": "Daniel 4:9",
+    "english_ref": "Daniel 4:12",
+    "bsb_ref": "Daniel 4:12",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-4-10": {
+    "mt_book": "DAN",
+    "mt_chapter": 4,
+    "mt_verse": 10,
+    "mt_ref": "Daniel 4:10",
+    "english_ref": "Daniel 4:13",
+    "bsb_ref": "Daniel 4:13",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-4-11": {
+    "mt_book": "DAN",
+    "mt_chapter": 4,
+    "mt_verse": 11,
+    "mt_ref": "Daniel 4:11",
+    "english_ref": "Daniel 4:14",
+    "bsb_ref": "Daniel 4:14",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-4-12": {
+    "mt_book": "DAN",
+    "mt_chapter": 4,
+    "mt_verse": 12,
+    "mt_ref": "Daniel 4:12",
+    "english_ref": "Daniel 4:15",
+    "bsb_ref": "Daniel 4:15",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-4-13": {
+    "mt_book": "DAN",
+    "mt_chapter": 4,
+    "mt_verse": 13,
+    "mt_ref": "Daniel 4:13",
+    "english_ref": "Daniel 4:16",
+    "bsb_ref": "Daniel 4:16",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-4-14": {
+    "mt_book": "DAN",
+    "mt_chapter": 4,
+    "mt_verse": 14,
+    "mt_ref": "Daniel 4:14",
+    "english_ref": "Daniel 4:17",
+    "bsb_ref": "Daniel 4:17",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-4-15": {
+    "mt_book": "DAN",
+    "mt_chapter": 4,
+    "mt_verse": 15,
+    "mt_ref": "Daniel 4:15",
+    "english_ref": "Daniel 4:18",
+    "bsb_ref": "Daniel 4:18",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-4-16": {
+    "mt_book": "DAN",
+    "mt_chapter": 4,
+    "mt_verse": 16,
+    "mt_ref": "Daniel 4:16",
+    "english_ref": "Daniel 4:19",
+    "bsb_ref": "Daniel 4:19",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-4-17": {
+    "mt_book": "DAN",
+    "mt_chapter": 4,
+    "mt_verse": 17,
+    "mt_ref": "Daniel 4:17",
+    "english_ref": "Daniel 4:20",
+    "bsb_ref": "Daniel 4:20",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-4-18": {
+    "mt_book": "DAN",
+    "mt_chapter": 4,
+    "mt_verse": 18,
+    "mt_ref": "Daniel 4:18",
+    "english_ref": "Daniel 4:21",
+    "bsb_ref": "Daniel 4:21",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-4-19": {
+    "mt_book": "DAN",
+    "mt_chapter": 4,
+    "mt_verse": 19,
+    "mt_ref": "Daniel 4:19",
+    "english_ref": "Daniel 4:22",
+    "bsb_ref": "Daniel 4:22",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-4-20": {
+    "mt_book": "DAN",
+    "mt_chapter": 4,
+    "mt_verse": 20,
+    "mt_ref": "Daniel 4:20",
+    "english_ref": "Daniel 4:23",
+    "bsb_ref": "Daniel 4:23",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-4-21": {
+    "mt_book": "DAN",
+    "mt_chapter": 4,
+    "mt_verse": 21,
+    "mt_ref": "Daniel 4:21",
+    "english_ref": "Daniel 4:24",
+    "bsb_ref": "Daniel 4:24",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-4-22": {
+    "mt_book": "DAN",
+    "mt_chapter": 4,
+    "mt_verse": 22,
+    "mt_ref": "Daniel 4:22",
+    "english_ref": "Daniel 4:25",
+    "bsb_ref": "Daniel 4:25",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-4-23": {
+    "mt_book": "DAN",
+    "mt_chapter": 4,
+    "mt_verse": 23,
+    "mt_ref": "Daniel 4:23",
+    "english_ref": "Daniel 4:26",
+    "bsb_ref": "Daniel 4:26",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-4-24": {
+    "mt_book": "DAN",
+    "mt_chapter": 4,
+    "mt_verse": 24,
+    "mt_ref": "Daniel 4:24",
+    "english_ref": "Daniel 4:27",
+    "bsb_ref": "Daniel 4:27",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-4-25": {
+    "mt_book": "DAN",
+    "mt_chapter": 4,
+    "mt_verse": 25,
+    "mt_ref": "Daniel 4:25",
+    "english_ref": "Daniel 4:28",
+    "bsb_ref": "Daniel 4:28",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-4-26": {
+    "mt_book": "DAN",
+    "mt_chapter": 4,
+    "mt_verse": 26,
+    "mt_ref": "Daniel 4:26",
+    "english_ref": "Daniel 4:29",
+    "bsb_ref": "Daniel 4:29",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-4-27": {
+    "mt_book": "DAN",
+    "mt_chapter": 4,
+    "mt_verse": 27,
+    "mt_ref": "Daniel 4:27",
+    "english_ref": "Daniel 4:30",
+    "bsb_ref": "Daniel 4:30",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-4-28": {
+    "mt_book": "DAN",
+    "mt_chapter": 4,
+    "mt_verse": 28,
+    "mt_ref": "Daniel 4:28",
+    "english_ref": "Daniel 4:31",
+    "bsb_ref": "Daniel 4:31",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-4-29": {
+    "mt_book": "DAN",
+    "mt_chapter": 4,
+    "mt_verse": 29,
+    "mt_ref": "Daniel 4:29",
+    "english_ref": "Daniel 4:32",
+    "bsb_ref": "Daniel 4:32",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-4-30": {
+    "mt_book": "DAN",
+    "mt_chapter": 4,
+    "mt_verse": 30,
+    "mt_ref": "Daniel 4:30",
+    "english_ref": "Daniel 4:33",
+    "bsb_ref": "Daniel 4:33",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-4-31": {
+    "mt_book": "DAN",
+    "mt_chapter": 4,
+    "mt_verse": 31,
+    "mt_ref": "Daniel 4:31",
+    "english_ref": "Daniel 4:34",
+    "bsb_ref": "Daniel 4:34",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-4-32": {
+    "mt_book": "DAN",
+    "mt_chapter": 4,
+    "mt_verse": 32,
+    "mt_ref": "Daniel 4:32",
+    "english_ref": "Daniel 4:35",
+    "bsb_ref": "Daniel 4:35",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-4-33": {
+    "mt_book": "DAN",
+    "mt_chapter": 4,
+    "mt_verse": 33,
+    "mt_ref": "Daniel 4:33",
+    "english_ref": "Daniel 4:36",
+    "bsb_ref": "Daniel 4:36",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-4-34": {
+    "mt_book": "DAN",
+    "mt_chapter": 4,
+    "mt_verse": 34,
+    "mt_ref": "Daniel 4:34",
+    "english_ref": "Daniel 4:37",
+    "bsb_ref": "Daniel 4:37",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-6-1": {
+    "mt_book": "DAN",
+    "mt_chapter": 6,
+    "mt_verse": 1,
+    "mt_ref": "Daniel 6:1",
+    "english_ref": "Daniel 5:31",
+    "bsb_ref": "Daniel 5:31",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-6-2": {
+    "mt_book": "DAN",
+    "mt_chapter": 6,
+    "mt_verse": 2,
+    "mt_ref": "Daniel 6:2",
+    "english_ref": "Daniel 6:1",
+    "bsb_ref": "Daniel 6:1",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-6-3": {
+    "mt_book": "DAN",
+    "mt_chapter": 6,
+    "mt_verse": 3,
+    "mt_ref": "Daniel 6:3",
+    "english_ref": "Daniel 6:2",
+    "bsb_ref": "Daniel 6:2",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-6-4": {
+    "mt_book": "DAN",
+    "mt_chapter": 6,
+    "mt_verse": 4,
+    "mt_ref": "Daniel 6:4",
+    "english_ref": "Daniel 6:3",
+    "bsb_ref": "Daniel 6:3",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-6-5": {
+    "mt_book": "DAN",
+    "mt_chapter": 6,
+    "mt_verse": 5,
+    "mt_ref": "Daniel 6:5",
+    "english_ref": "Daniel 6:4",
+    "bsb_ref": "Daniel 6:4",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-6-6": {
+    "mt_book": "DAN",
+    "mt_chapter": 6,
+    "mt_verse": 6,
+    "mt_ref": "Daniel 6:6",
+    "english_ref": "Daniel 6:5",
+    "bsb_ref": "Daniel 6:5",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-6-7": {
+    "mt_book": "DAN",
+    "mt_chapter": 6,
+    "mt_verse": 7,
+    "mt_ref": "Daniel 6:7",
+    "english_ref": "Daniel 6:6",
+    "bsb_ref": "Daniel 6:6",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-6-8": {
+    "mt_book": "DAN",
+    "mt_chapter": 6,
+    "mt_verse": 8,
+    "mt_ref": "Daniel 6:8",
+    "english_ref": "Daniel 6:7",
+    "bsb_ref": "Daniel 6:7",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-6-9": {
+    "mt_book": "DAN",
+    "mt_chapter": 6,
+    "mt_verse": 9,
+    "mt_ref": "Daniel 6:9",
+    "english_ref": "Daniel 6:8",
+    "bsb_ref": "Daniel 6:8",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-6-10": {
+    "mt_book": "DAN",
+    "mt_chapter": 6,
+    "mt_verse": 10,
+    "mt_ref": "Daniel 6:10",
+    "english_ref": "Daniel 6:9",
+    "bsb_ref": "Daniel 6:9",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-6-11": {
+    "mt_book": "DAN",
+    "mt_chapter": 6,
+    "mt_verse": 11,
+    "mt_ref": "Daniel 6:11",
+    "english_ref": "Daniel 6:10",
+    "bsb_ref": "Daniel 6:10",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-6-12": {
+    "mt_book": "DAN",
+    "mt_chapter": 6,
+    "mt_verse": 12,
+    "mt_ref": "Daniel 6:12",
+    "english_ref": "Daniel 6:11",
+    "bsb_ref": "Daniel 6:11",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-6-13": {
+    "mt_book": "DAN",
+    "mt_chapter": 6,
+    "mt_verse": 13,
+    "mt_ref": "Daniel 6:13",
+    "english_ref": "Daniel 6:12",
+    "bsb_ref": "Daniel 6:12",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-6-14": {
+    "mt_book": "DAN",
+    "mt_chapter": 6,
+    "mt_verse": 14,
+    "mt_ref": "Daniel 6:14",
+    "english_ref": "Daniel 6:13",
+    "bsb_ref": "Daniel 6:13",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-6-15": {
+    "mt_book": "DAN",
+    "mt_chapter": 6,
+    "mt_verse": 15,
+    "mt_ref": "Daniel 6:15",
+    "english_ref": "Daniel 6:14",
+    "bsb_ref": "Daniel 6:14",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-6-16": {
+    "mt_book": "DAN",
+    "mt_chapter": 6,
+    "mt_verse": 16,
+    "mt_ref": "Daniel 6:16",
+    "english_ref": "Daniel 6:15",
+    "bsb_ref": "Daniel 6:15",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-6-17": {
+    "mt_book": "DAN",
+    "mt_chapter": 6,
+    "mt_verse": 17,
+    "mt_ref": "Daniel 6:17",
+    "english_ref": "Daniel 6:16",
+    "bsb_ref": "Daniel 6:16",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-6-18": {
+    "mt_book": "DAN",
+    "mt_chapter": 6,
+    "mt_verse": 18,
+    "mt_ref": "Daniel 6:18",
+    "english_ref": "Daniel 6:17",
+    "bsb_ref": "Daniel 6:17",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-6-19": {
+    "mt_book": "DAN",
+    "mt_chapter": 6,
+    "mt_verse": 19,
+    "mt_ref": "Daniel 6:19",
+    "english_ref": "Daniel 6:18",
+    "bsb_ref": "Daniel 6:18",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-6-20": {
+    "mt_book": "DAN",
+    "mt_chapter": 6,
+    "mt_verse": 20,
+    "mt_ref": "Daniel 6:20",
+    "english_ref": "Daniel 6:19",
+    "bsb_ref": "Daniel 6:19",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-6-21": {
+    "mt_book": "DAN",
+    "mt_chapter": 6,
+    "mt_verse": 21,
+    "mt_ref": "Daniel 6:21",
+    "english_ref": "Daniel 6:20",
+    "bsb_ref": "Daniel 6:20",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-6-22": {
+    "mt_book": "DAN",
+    "mt_chapter": 6,
+    "mt_verse": 22,
+    "mt_ref": "Daniel 6:22",
+    "english_ref": "Daniel 6:21",
+    "bsb_ref": "Daniel 6:21",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-6-23": {
+    "mt_book": "DAN",
+    "mt_chapter": 6,
+    "mt_verse": 23,
+    "mt_ref": "Daniel 6:23",
+    "english_ref": "Daniel 6:22",
+    "bsb_ref": "Daniel 6:22",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-6-24": {
+    "mt_book": "DAN",
+    "mt_chapter": 6,
+    "mt_verse": 24,
+    "mt_ref": "Daniel 6:24",
+    "english_ref": "Daniel 6:23",
+    "bsb_ref": "Daniel 6:23",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-6-25": {
+    "mt_book": "DAN",
+    "mt_chapter": 6,
+    "mt_verse": 25,
+    "mt_ref": "Daniel 6:25",
+    "english_ref": "Daniel 6:24",
+    "bsb_ref": "Daniel 6:24",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-6-26": {
+    "mt_book": "DAN",
+    "mt_chapter": 6,
+    "mt_verse": 26,
+    "mt_ref": "Daniel 6:26",
+    "english_ref": "Daniel 6:25",
+    "bsb_ref": "Daniel 6:25",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-6-27": {
+    "mt_book": "DAN",
+    "mt_chapter": 6,
+    "mt_verse": 27,
+    "mt_ref": "Daniel 6:27",
+    "english_ref": "Daniel 6:26",
+    "bsb_ref": "Daniel 6:26",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-6-28": {
+    "mt_book": "DAN",
+    "mt_chapter": 6,
+    "mt_verse": 28,
+    "mt_ref": "Daniel 6:28",
+    "english_ref": "Daniel 6:27",
+    "bsb_ref": "Daniel 6:27",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
+  },
+  "DAN-6-29": {
+    "mt_book": "DAN",
+    "mt_chapter": 6,
+    "mt_verse": 29,
+    "mt_ref": "Daniel 6:29",
+    "english_ref": "Daniel 6:28",
+    "bsb_ref": "Daniel 6:28",
+    "diverges": true,
+    "notes": "app-bundle backfill 2026-07-01: MT/English boundary zone found by check_eremos_bundle.py; content-verified against BSB"
   }
 }
