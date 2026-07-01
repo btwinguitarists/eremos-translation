@@ -261,6 +261,17 @@
         }
       ],
       "notes": "SBLGNT/NA28 verse-numbering: this is v.12 (combines v.12 + v.13 of older versification). BSB-text shows only the 'holy-kiss' clause — the 'all-saints-greet' part was historically v.13 in TR/KJV but is part of v.12 in NA28."
+    },
+    "versification": {
+      "gnt_ref": "2 Corinthians 13:12",
+      "english_ref": "2 Corinthians 13:12–13:13",
+      "bsb_ref": "2 Corinthians 13:12–13:13",
+      "diverges": true,
+      "note": "Critical text (SBLGNT) counts both greetings as one verse 12; English Bibles (BSB, KJV) split them into 12 and 13, moving the benediction to 13:14.",
+      "english_split": [
+        "จงทักทายกันด้วยจูบอันบริสุทธิ์",
+        "ธรรมิกชนทุกคนฝากความระลึกถึงพวกท่าน"
+      ]
     }
   },
   {
@@ -281,6 +292,13 @@
         }
       ],
       "notes": "VERSIFICATION-NOTE: The provided BSB-text 'All the saints send you greetings' is a versification-mismatch — that English-text aligns with v.12 in SBLGNT/NA28 (which combines greet-with-kiss + all-saints-greet). The SBLGNT-Greek for v.13 IS the trinitarian-benediction; Thai-translation correctly follows the Greek. CLOSING-PAULINE-TRINITARIAN-BENEDICTION — locus-classicus for NT-Trinitarian-formulation. KOINONIA τοῦ ἁγίου πνεύματος preserved as genitival-ambiguous (fellowship of-the-Spirit / fellowship with-the-Spirit / the fellowship that-the-Spirit-creates)."
+    },
+    "versification": {
+      "gnt_ref": "2 Corinthians 13:13",
+      "english_ref": "2 Corinthians 13:14",
+      "bsb_ref": "2 Corinthians 13:14",
+      "diverges": true,
+      "note": "Benediction: verse 13 in the critical text, 14 in English Bibles."
     }
   }
 ]

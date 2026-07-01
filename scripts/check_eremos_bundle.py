@@ -41,10 +41,12 @@ NT = {"MAT","MRK","LUK","JHN","ACT","ROM","1CO","2CO","GAL","EPH","PHP","COL",
 # NEH 7:68 exists in BSB via the Ezra 2:66 parallel; the MT lacks it.
 OT_ALLOWED_MISSING = {("NEH", 7, 68)}
 
-# NT spots where the long-shipped bundle deliberately follows critical-text
-# numbering/inclusion rather than BSB. Kept as-is pending owner review.
-NT_ALLOWED_MISSING = {("2CO", 13, 14), ("ACT", 19, 41)}
-NT_ALLOWED_EXTRA = {("3JN", 1, 15), ("REV", 12, 18), ("ROM", 16, 24)}
+# The NT follows BSB numbering everywhere as of 2026-07-01 (2CO 13 / ACT 19
+# splits, 3JN 15 / REV 12:18 merges). The one deliberate inclusion difference:
+# ROM 16:24 is included (as in Thai KJV) where BSB relegates it to a footnote.
+# Numbering-neutral — 16:25-27 carry the same numbers either way.
+NT_ALLOWED_MISSING = set()
+NT_ALLOWED_EXTRA = {("ROM", 16, 24)}
 
 # NT verses BSB prints but the Eremos NT relegates to footnotes (inclusion-
 # variant policy). BSB brackets most of these; where BSB includes one the

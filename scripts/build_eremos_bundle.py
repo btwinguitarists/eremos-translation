@@ -19,8 +19,12 @@ MT → English, resolving each reference in priority order:
 
 Special forms:
   - "Psalm 3:title"      → superscription; merged into English verse 1
-  - "Isaiah 63:19–64:1"  → span: the row lands on the FIRST ref and the rest
-                           of the span is recorded in eremos_translation_gaps.json
+  - "Isaiah 63:19–64:1"  → span: if the verse's versification carries
+                           english_split [thai_a, thai_b] (which must
+                           reassemble to translation.thai exactly), the text
+                           is divided across both English verses; otherwise
+                           the row lands on the FIRST ref and the remainder is
+                           recorded in eremos_translation_gaps.json
   - two MT rows → one English ref (split MT verse, e.g. NUM 25:19 + 26:1)
                            → merged into one row in MT order
 
@@ -163,16 +167,31 @@ def main():
             )
             if (eng_ch, eng_vs) != (v["chapter"], v["verse"]):
                 converted += 1
-            if span_end:
-                expected_gaps.add((code, span_end[0], span_end[1]))
             mt_seq += 1
+
+            split = None
+            if span_end:
+                vsf = v.get("versification") or {}
+                split = vsf.get("english_split")
+                if split is not None:
+                    where = f"{code} {v['chapter']}:{v['verse']}"
+                    if not (isinstance(split, list) and len(split) == 2
+                            and all(isinstance(s, str) and s.strip() for s in split)):
+                        raise SystemExit(f"FATAL: english_split at {where} must be two non-empty strings")
+                    # The two halves must reassemble to the source verse
+                    # exactly — the split can neither drop nor invent text.
+                    if " ".join(" ".join(split).split()) != " ".join(t.get("thai", "").split()):
+                        raise SystemExit(f"FATAL: english_split at {where} does not reassemble to translation.thai")
+                else:
+                    expected_gaps.add((code, span_end[0], span_end[1]))
+
             is_title = eng_vs == "title"
             vs_num = 1 if is_title else eng_vs
             row = {
                 "book": code,
                 "chapter": eng_ch,
                 "verse": vs_num,
-                "thai": t.get("thai", ""),
+                "thai": split[0] if split else t.get("thai", ""),
                 "thai_literal": t.get("thai_literal") or None,
                 "thai_summary": t.get("thai_summary") or None,
                 "key_decisions": t.get("key_decisions") or [],
@@ -182,6 +201,17 @@ def main():
             # generic collision-merge below folds them in as the leading text.
             sort_key = (CODE_ORDER.get(code, 999), eng_ch, vs_num, 0 if is_title else 1, mt_seq)
             staged.append((sort_key, (code, eng_ch, vs_num), row))
+            if split:
+                mt_seq += 1
+                second = {
+                    "book": code, "chapter": span_end[0], "verse": span_end[1],
+                    "thai": split[1], "thai_literal": None, "thai_summary": None,
+                    "key_decisions": [], "notes": None,
+                }
+                staged.append((
+                    (CODE_ORDER.get(code, 999), span_end[0], span_end[1], 1, mt_seq),
+                    (code, span_end[0], span_end[1]), second,
+                ))
 
     by_key = {}
     merges = 0
