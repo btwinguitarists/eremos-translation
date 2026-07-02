@@ -361,7 +361,7 @@ Requirements are version-agnostic — what matters is the tier + context + effor
 | Task | Tier & settings | Rationale |
 |------|-----------------|-----------|
 | Translation (main chat that produces the draft) | **Latest Opus**, 1M context, max effort/thinking | Translation is the highest-stakes step. Hapax legomena, textual variants, theological nuance all benefit from the deepest reasoning. |
-| Back-translation check (API calls from `check_back_translation.py`) | **Latest Sonnet** | Simpler task (Thai → English, literal). Sonnet handles it well and saves API spend at per-verse volume. |
+| Back-translation (hand-written in the translation chat; `check_back_translation.py` then diffs the saved file against BSB — no API) | Same session | The translating model writes the literal back-translation to `output/back_translations/`; the check itself is pure comparison. |
 | Follow-up review, code edits, running the check scripts | **Latest Sonnet or Haiku** | Faster, cheaper. No reason to burn Opus once the draft is done. |
 | Code-only checks (key-term consistency, TNBT structural, OT citation, parallel passages) | No LLM | Pure Python. |
 
@@ -369,7 +369,7 @@ Requirements are version-agnostic — what matters is the tier + context + effor
 - Default is Opus 4.7 — fine for translation. Runs with max effort by default unless you drop the effort level.
 - `/fast` toggles to Opus 4.6 inside Claude Code: faster output, meaningfully cheaper per token, still Opus-tier reasoning. Use when budget matters and turnaround time is tight. Quality difference vs. 4.7 is small for translation work.
 - CLI doesn't support arbitrary model pinning, so "use the latest Opus" is effectively "accept the default."
-- Scripts that hit the API directly (e.g., `check_back_translation.py`) should specify the model explicitly — currently `claude-sonnet-4-6` for cost at per-verse volume, bump when a newer Sonnet lands.
+- No script calls the Anthropic API — there is no `ANTHROPIC_API_KEY` in this project. Back-translations are written in-session. The only external-API helper is the Gemini book-review script (`run_book_review_gemini.py`, free tier).
 
 **New chat per chapter?** Yes — each chapter gets a fresh Opus chat so:
 - The kickoff memory and RULES.md load cleanly

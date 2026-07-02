@@ -93,14 +93,7 @@ Full philosophy and rules live in [RULES.md](../RULES.md). Quick summary:
 4. Claude produces Thai for all verses in the pattern of `output/translations/mark_01.json`
 5. Save the result to `output/translations/<slug>_<NN>.json`
 
-**Option B — Claude API (batched, faster for scaling up):**
-
-```bash
-export ANTHROPIC_API_KEY=sk-ant-...
-python3 scripts/translate_mark.py --chapter 2
-```
-
-(Script currently tied to Mark — generalize to `translate_book.py` once API mode becomes the default.)
+**Option B — Claude API: RETIRED.** The whole Bible was translated via Option A (in-session). No `ANTHROPIC_API_KEY` exists in this project and no script calls the Anthropic API.
 
 ### 3. Run the check cadence (MANDATORY before shipping)
 
@@ -108,13 +101,13 @@ python3 scripts/translate_mark.py --chapter 2
 python3 scripts/run_checks.py --book 1TI --chapter 3
 ```
 
-Runs all five checks in sequence and produces an aggregate report at `output/check_reports/<slug>_<NN>_review.md`:
+Runs the language-routed check cadence (18 check scripts; the orchestrator picks the relevant NT/OT subset) and produces an aggregate report at `output/check_reports/<slug>_<NN>_review.md`:
 
 1. **Key-term consistency** (`check_key_term_consistency.py`) — scans all translations, per-lemma rendering report, flags RULES.md §4 violations and undocumented multi-renderings
 2. **TNBT structural comparison** (`check_against_tnbt.py`) — verse-by-verse length/sentence-count signals against open-licensed Thai NT. Vocabulary divergence expected (TNBT uses Buddhist register); structural divergence is the signal.
 3. **OT citation acknowledgment** (`check_ot_citations.py`) — for known NT-quotes-OT verses, confirms we've noted the OT source and LXX/MT relation
 4. **Synoptic parallel check** (`check_parallel_passages.py`) — flags divergent renderings of the same saying across synoptic gospels (activates once 2+ gospels are in)
-5. **Back-translation check** (`check_back_translation.py`) — Claude API translates our Thai back to English, diffs against BSB, flags undocumented divergence. **Requires `ANTHROPIC_API_KEY`.** Gracefully skipped if unset.
+5. **Back-translation check** (`check_back_translation.py`) — diffs the hand-written back-translation (`output/back_translations/<slug>_<NN>.json`, written by Claude in the translation session) against BSB and flags undocumented divergence. The file must exist — `ship_chapter.sh` blocks without it. No API involved.
 
 **Ship criterion:** no flagged checks. Flagged items must be resolved by editing the chapter's notes/decisions, or documented as acceptable.
 
@@ -189,19 +182,13 @@ Total runtime: ~6-10 min including TestFlight upload. ~1 min with `--skip-testfl
 
 **Android** (Play Console upload) is a separate manual step — see `reference_eremos_ship_recipe.md` (auto-memory) for the `gradle bundleRelease` + `play_upload.py` sequence. The script lives in `~/.appstoreconnect/`, not in this repo.
 
-**Note:** The schema never changes for new chapters — only the bundle file grows. `ensureEremosTranslationImported()` auto-detects when the bundle has new verses and upserts them on (book, chapter, verse) conflict. The unique index (migration 0005) guarantees no duplicates.
+**Note (updated 2026-07-02):** the prod import is NOT automatic. `ensureEremosTranslationImported()` now does a TRANSACTIONAL REPLACE of the whole table from the bundle (EremosVercel2 PR #668), and Vercel deploys do NOT run it — after any bundle change, run the manual import against prod (see the Eremos-side docs: "prod translation import is MANUAL").
 
 ### 7. Refreshing existing content
 
-When you **add** a chapter, the import auto-syncs on next server boot (bundle length > DB count triggers upsert).
+Adding or editing chapters does NOT reach prod on its own — the bundle ships with the web/app deploy, but the prod DB only updates when the manual import is run.
 
-When you **edit** an already-imported verse (fix a typo, refine wording) without changing the verse count, the import's count-based heuristic treats it as in-sync and skips. To force a refresh:
-
-1. Open Supabase Studio → SQL editor
-2. Run `TRUNCATE eremos_translation_verses;`
-3. Trigger a server restart (push a no-op commit or hit the Vercel redeploy button)
-
-Next boot will repopulate from the current bundle. Safe operation — the translation data lives in the bundle file, not the DB.
+Publish any change (add or edit) by rebuilding the bundle and running the manual prod import (`ensureEremosTranslationImported` via `vercel env pull` + tsx — exact command in the Eremos-side docs). The import transactionally replaces the whole table, so no TRUNCATE step is needed. The source of truth is the bundle file, not the DB.
 
 ---
 
@@ -335,6 +322,6 @@ Manual confirmation before committing the chapter (automated checks cover most o
 
 ## Last state
 
-- **Mark 1 complete** (45 verses) — in production via PR #165 (merged 2026-04-16)
-- **Check infrastructure complete** (2026-04-16) — RULES.md, 5 automated checks, orchestrator, glossary builder
-- **Next pilot target:** 1 Timothy 3 (16 verses, 5 hapax, famous v16 textual variant) — a real stress test for our rules
+- **Whole Bible complete** — all 66 books / 1,189 chapters translated, audited per book, and live in the Eremos app (BSB-numbered, since 2026-07-01)
+- **Check infrastructure:** 18 check scripts + the `run_checks.py` orchestrator (language-routed), ship gate in `ship_chapter.sh` + `check_eremos_bundle.py`
+- **Current phase:** reviewer-driven polish (eremosapp.com/review), cross-book audit dispositions (PR #210), occasional verse revisions via the normal check-gated flow

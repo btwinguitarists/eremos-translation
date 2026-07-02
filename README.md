@@ -25,17 +25,17 @@ That's the minimum reviewer package. You can stop there or go deeper.
 
 ---
 
-## What's been translated (as of 2026-05-30)
+## What's been translated (as of 2026-07-01: all of it)
 
 **New Testament — COMPLETE.** All 27 NT books shipped (~7,950 verses across 260 chapters), tagged at the `book-<slug>-v1` level following per-book end-of-book audits. Matthew · Mark · Luke · John · Acts · Romans · 1–2 Corinthians · Galatians · Ephesians · Philippians · Colossians · 1–2 Thessalonians · 1–2 Timothy · Titus · Philemon · Hebrews · James · 1–2 Peter · 1–3 John · Jude · Revelation.
 
-**Old Testament — 20 books shipped (494 chapters).** The full Pentateuch (Genesis · Exodus · Leviticus · Numbers · Deuteronomy), the historical books (Joshua · Judges · Ruth · 1–2 Samuel · 1–2 Kings · 1–2 Chronicles · Ezra · Nehemiah · Esther), plus Job · Daniel · Jonah are source-complete. **Job just finished; Psalms is next** as the project moves into the Writings + Prophets. Each OT book ships chapter-by-chapter to `main`, then earns its `book-<slug>-v1` tag after an end-of-book editorial audit + external-AI cross-review (several already tagged; the remainder are progressing through that gate).
+**Old Testament — complete (39 books, 929 chapters).** Every book from Genesis to Malachi is source-complete and has been through the end-of-book editorial audit + external-AI cross-review (39/39). The whole Bible was aligned to BSB (English) versification in July 2026; `scripts/check_eremos_bundle.py` is the ship gate that enforces that structure.
 
-**Corpus total: 754 chapters · 22,290 verses · ~63% of the full canon (1,189 chapters).**
+**Corpus total: the complete canon — 1,189 chapters, translation-complete and live in the Eremos app (31,086 verses, BSB-numbered).**
 
 📖 **Read it:** every shipped book has a flowing-prose reader edition at `output/reader/<book>.md`. Examples — `matthew.md`, `mark.md`, `luke.md`, `john.md`, `acts.md`, `romans.md`, `revelation.md`, `ruth.md`, `jonah.md`, `genesis.md`. The same translation also surfaces verse-by-verse with tap-to-reveal scholarly notes in the [Eremos](https://github.com/btwinguitarists/EremosVercel2) reader app (web at `eremosapp.com`; iOS via TestFlight; Android via Play Console).
 
-All shipped chapters pass the relevant ship-gate cadence (NT-side: key-term consistency, TNBT structural, OT citation acknowledgment + DB-drift detector, synoptic parallels, back-translation, thai_summary coverage, claim-consistency / hallucination detector, Greek-field integrity, multi-word phrase consistency. OT-side: Hebrew-field integrity, divine-names lock, MT-anchored versification, Rachasap honorifics-binding, back-translation, summary coverage, and a claim-consistency / hallucination detector wired advisory-first). Currently 17 check scripts under `scripts/check_*.py`; the orchestrator (`run_checks.py`) routes by language. Optimal-equivalence polish (Claude API, Sonnet) runs as a post-checks scan and proposes idiomatic refinements without auto-applying.
+All shipped chapters pass the relevant ship-gate cadence (NT-side: key-term consistency, TNBT structural, OT citation acknowledgment + DB-drift detector, synoptic parallels, back-translation, thai_summary coverage, claim-consistency / hallucination detector, Greek-field integrity, multi-word phrase consistency. OT-side: Hebrew-field integrity, divine-names lock, MT-anchored versification, Rachasap honorifics-binding, back-translation, summary coverage, and a claim-consistency / hallucination detector wired advisory-first). Currently 18 check scripts under `scripts/check_*.py`; the orchestrator (`run_checks.py`) routes by language. Optimal-equivalence polish happens in the translation session itself (there is no API pipeline in this project) and proposes idiomatic refinements without auto-applying.
 
 Reader-facing Thai context summaries (`thai_summary` field) appear on roughly half of all verses — well above the 30–50% target in `docs/THAI_SUMMARY_STYLE.md`. NT→OT citation database at `data/nt_ot_citations.json` curates ~720 entries as of NT-v1. Every commit signed; every translation file SHA-256 fingerprinted in `HASHES.md`. End-of-book audits land an editorial review packet + external AI cross-review packet (Grok / ChatGPT / Gemini) before book-level v1 tags ship.
 
@@ -81,7 +81,7 @@ Each translation lives at `output/translations/<book-slug>_<NN>.json` with full 
 - **Scholarly notes:** unfoldingWord Translation Notes (CC-BY-SA 4.0) — read for context, never copied (would force CC-BY-SA inheritance)
 - **Structural reference:** Thai New Buddhist Translation TNBT (CC-BY-SA 4.0) — used post-draft for sentence-count / length-ratio comparison only; never read during drafting (NT only — TNBT does not cover the OT)
 
-**Translation engine:** Claude (Anthropic) — latest Opus with 1M context window and max effort/thinking, fresh chat per chapter. The check scripts call latest Sonnet for the back-translation pass at per-verse volume. See `RULES.md §11` for current model assignments.
+**Translation engine:** Claude (Anthropic) — latest Opus with 1M context window and max effort/thinking, fresh chat per chapter. Back-translations are hand-written by Claude in the translation session and saved to `output/back_translations/` — no script calls the Anthropic API and no API key exists in this project. See `RULES.md §11` for current model assignments.
 
 **Pipeline** (see `docs/TRANSLATION_WORKFLOW.md`):
 
@@ -91,7 +91,7 @@ Each translation lives at `output/translations/<book-slug>_<NN>.json` with full 
 4. Read `RULES.md`, the relevant translator-decision docs, and the most-recent prior chapter output for style continuity
 5. Translate verse-by-verse with explicit `key_decisions` rationale
 6. Save back-translation (Thai → literal English) to `output/back_translations/`
-7. Run the language-routed check cadence (`scripts/run_checks.py`) — currently 15 distinct check scripts under `scripts/check_*.py`; the orchestrator picks the relevant subset for NT vs OT chapters. Iterate via `scripts/revise_chapter.py` if any check fails (max 3 passes before human review)
+7. Run the language-routed check cadence (`scripts/run_checks.py`) — currently 18 distinct check scripts under `scripts/check_*.py`; the orchestrator picks the relevant subset for NT vs OT chapters. Iterate via `scripts/revise_chapter.py` if any check fails (max 3 passes before human review)
 8. Ship the source via `scripts/ship_chapter.sh BOOK CHAPTER` — gates on green checks, regenerates `HASHES.md` + reader doc + plain-text + feedback markdown, commits to `main`, and (at end-of-book) auto-launches the editorial-review subagent + opens the audit PR
 9. After end-of-book external-AI review and any revisions, lock-and-deploy with `scripts/ship_book.sh BOOK` — rebuilds the Eremos app bundle, opens + auto-merges the EremosVercel2 PR, bumps iOS `CURRENT_PROJECT_VERSION`, uploads to TestFlight via altool, and tags `book-<slug>-v1`. Android Play Console upload is a separate manual step.
 
@@ -178,7 +178,7 @@ If you're qualified to give technical feedback, these are the dimensions that ma
 
 **NT-v1 complete; OT well underway (20 of 39 books).** All 27 NT books carry per-book `book-<slug>-v1` tags, each landed after a green ship-cadence + an end-of-book editorial-review subagent + at least one external AI cross-review pass. Human-review remains ongoing through the in-house review form (see §10b of `RULES.md`); verse-level revisions can land at any time and trigger a `book-<slug>-v2`-style retag.
 
-On the OT side the project has moved well past the original Ruth + Jonah + Genesis bootstrap: the full Pentateuch, the historical books (Joshua through Esther), and Job · Daniel · Jonah are source-complete on `main` (494 OT chapters). Each book ships chapter-by-chapter, then earns its `book-<slug>-v1` tag after its end-of-book audit + external-AI review. Job was the most recent book completed; Psalms is next as the project enters the Writings and Prophets.
+On the OT side the project has moved well past the original Ruth + Jonah + Genesis bootstrap: all 39 OT books are source-complete on `main` (929 chapters). Each book ships chapter-by-chapter, then earns its `book-<slug>-v1` tag after its end-of-book audit + external-AI review. The whole canon is translated; current work is reviewer-driven polish and cross-book consistency dispositions.
 
 **Human-review intake:** translation reviewers can sign up at `eremosapp.com/review` — a bilingual (Thai + English) form backed by the project's question-bank (per-file YAMLs at `EremosVercel2/shared/review-questions/`). Reviewers are screened by the project lead and matched to question categories per their declared skill set (Thai naturalness / theology / biblical-language exegesis / reader comprehension / app UX).
 
