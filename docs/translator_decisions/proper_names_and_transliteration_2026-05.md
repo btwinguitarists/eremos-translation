@@ -17,7 +17,7 @@ The OT contains **thousands** of proper names — every patriarch, every clan me
 3. **Theological wordplay** in the verse turns on the name's etymology, and the standard Thai form obscures it (rare; document the override in `key_decisions`).
 4. The name is **transliterated inconsistently** across standard Thai itself, and Eremos must pick one form for canonical consistency.
 
-Default transliteration data: `data/proper_names_thsv11_baseline.json` (to be built; see §5 below for build process).
+Default transliteration data: `data/proper_names_reference_baseline.json` (to be built; see §5 below for build process).
 
 ---
 
@@ -80,7 +80,7 @@ Default transliteration data: `data/proper_names_thsv11_baseline.json` (to be bu
 
 ### Kings of Israel + Judah
 
-The two-kingdom history has ~40 kings; แบบมาตรฐานทั่วไป applies. The full king-list will be loaded into `data/proper_names_thsv11_baseline.json`. Spot-check:
+The two-kingdom history has ~40 kings; แบบมาตรฐานทั่วไป applies. The full king-list will be loaded into `data/proper_names_reference_baseline.json`. Spot-check:
 
 - דָּוִד → **ดาวิด**
 - שְׁלֹמֹה → **ซาโลมอน**
@@ -179,7 +179,7 @@ Document in: `key_decisions` + verse-level footer note.
 
 ### Override #3: inconsistent standard Thai transliteration
 
-Some standard Thai names appear in two forms across the canon (typesetting drift). Pick one for Eremos canonical consistency. Document in `data/proper_names_thsv11_baseline.json` with a note about which form was canonicalized + why.
+Some standard Thai names appear in two forms across the canon (typesetting drift). Pick one for Eremos canonical consistency. Document in `data/proper_names_reference_baseline.json` with a note about which form was canonicalized + why.
 
 ### Override #4: name compound that needs semantic-translation
 
@@ -187,7 +187,7 @@ Place-name compounds where the meaning is the point (e.g., `בְּאֵר־לַח
 
 ---
 
-## Build process for `data/proper_names_thsv11_baseline.json`
+## Build process for `data/proper_names_reference_baseline.json`
 
 ### Phase A — pre-Gen 1 (Day 14, per plan §20 Track B)
 
@@ -273,7 +273,7 @@ A pre-flight scan was performed 2026-05-20 for the specific Judges-side drift ta
 6. **2 Pet 2:5–8** (Noah, Lot) — short list; spot-confirm.
 7. **Jude 11, 14** (Cain, Balaam, Korah, Enoch) — non-canonical Enoch reference but the names need to align with their OT-narrative forms where they appear.
 
-The pre-flight scan is mechanical (greppable) and should be a single one-shot job: every NT verse that mentions an OT figure, cross-check Thai spelling against the OT-side baseline file (`data/proper_names_thsv11_baseline.json`) once that file is built. Recommend running this scan **before** the next NT book is opened for audit (currently main is on 1SA; no immediate NT touch-up planned).
+The pre-flight scan is mechanical (greppable) and should be a single one-shot job: every NT verse that mentions an OT figure, cross-check Thai spelling against the OT-side baseline file (`data/proper_names_reference_baseline.json`) once that file is built. Recommend running this scan **before** the next NT book is opened for audit (the whole Bible is now shipped; run it before any future NT touch-up pass).
 
 ### Boundary
 
