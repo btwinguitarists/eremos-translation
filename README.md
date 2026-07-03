@@ -191,3 +191,38 @@ On the OT side the project has moved well past the original Ruth + Jonah + Genes
 Project lead: Ben VanScyoc (benvanscyoc@gmail.com) — missionary in Thailand, DMIN student.
 
 Feedback, corrections, theological review, and Thai-native naturalness review all welcomed. Open an issue or email directly.
+
+
+## License
+
+CC0 1.0 Universal (Public Domain Dedication)
+
+The Eremos Translation — the Thai translation text and associated rationale,
+decisions, and notes produced by this project — is dedicated to the public
+domain under the Creative Commons CC0 1.0 Universal Public Domain Dedication.
+
+To the extent possible under law, the contributors to this project have
+waived all copyright and related or neighboring rights to the Eremos
+Translation output (the content of output/translations/*.json files and
+the Thai text in the distributed bundle).
+
+This work is published from: Thailand (and anywhere else contributors may
+reside).
+
+You can copy, modify, distribute and perform the work, even for commercial
+purposes, all without asking permission.
+
+Full legal text: https://creativecommons.org/publicdomain/zero/1.0/legalcode
+
+---
+
+IMPORTANT SCOPE LIMITATION:
+
+The CC0 dedication applies ONLY to the Eremos Translation's own output:
+- The Thai translation text
+- Our translation rationale and decision documentation
+- Our check scripts, infrastructure code, and glossary.json
+
+It does NOT apply to any source materials we reference or depend on.
+Those retain their own licenses. See ATTRIBUTIONS.md for the full list
+of source materials and their respective licenses.
