@@ -33,6 +33,7 @@ chapter/verse structure exactly (modulo the recorded gaps) and the NT must
 be byte-identical to the pre-conversion NT.
 """
 import json
+import os
 import re
 import sys
 from pathlib import Path
@@ -40,7 +41,12 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 TRANSLATIONS = ROOT / "output" / "translations"
 VERSIFICATION_MAP = ROOT / "data" / "versification_map.json"
-EREMOS_DATA = Path.home() / "EremosVercel2" / "server" / "data" / "eremos_translation.json"
+# Output path is overridable (EREMOS_BUNDLE_OUT) so a regenerate can be verified
+# against the live bundle without overwriting it.
+EREMOS_DATA = Path(os.environ.get(
+    "EREMOS_BUNDLE_OUT",
+    str(Path.home() / "EremosVercel2" / "server" / "data" / "eremos_translation.json"),
+))
 GAPS_DATA = EREMOS_DATA.parent / "eremos_translation_gaps.json"
 
 sys.path.insert(0, str(ROOT / "scripts"))
@@ -185,8 +191,14 @@ def main():
                 else:
                     expected_gaps.add((code, span_end[0], span_end[1]))
 
-            is_title = eng_vs == "title"
-            vs_num = 1 if is_title else eng_vs
+            # Superscriptions ("…:title", 66 Psalms) are NOT numbered verses in
+            # English/BSB numbering — verse 1 is the real first line. Drop them
+            # from the bundle, matching THSV 2011 / Thai KJV / BSB and the fix in
+            # EremosVercel2 a3fecdac (2026-07-02). (The earlier fold-into-v1 was
+            # the bug that fix corrected; folding here would regress the app.)
+            if eng_vs == "title":
+                continue
+            vs_num = eng_vs
             row = {
                 "book": code,
                 "chapter": eng_ch,
@@ -197,9 +209,7 @@ def main():
                 "key_decisions": t.get("key_decisions") or [],
                 "notes": t.get("notes") or None,
             }
-            # Titles sort directly before their English verse 1 so the
-            # generic collision-merge below folds them in as the leading text.
-            sort_key = (CODE_ORDER.get(code, 999), eng_ch, vs_num, 0 if is_title else 1, mt_seq)
+            sort_key = (CODE_ORDER.get(code, 999), eng_ch, vs_num, 1, mt_seq)
             staged.append((sort_key, (code, eng_ch, vs_num), row))
             if split:
                 mt_seq += 1
