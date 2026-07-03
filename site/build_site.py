@@ -27,6 +27,7 @@ from __future__ import annotations
 
 import html
 import json
+import os
 import re
 import shutil
 from dataclasses import dataclass, field
@@ -35,6 +36,19 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 READER = ROOT / "output" / "reader"
 DIST = Path(__file__).resolve().parent / "dist"
+
+SITE_ORIGIN = "https://bible.eremosapp.com"
+SB_URL = os.environ.get("VITE_SUPABASE_URL", "")
+SB_KEY = os.environ.get("VITE_SUPABASE_ANON_KEY", "")
+
+
+def sb_config_script() -> str:
+    """Baked Supabase config for the cross-device presenter (phone controls a
+    TV/laptop over a realtime channel). Empty when creds absent → same-device only."""
+    if SB_URL and SB_KEY:
+        cfg = json.dumps({"url": SB_URL, "key": SB_KEY, "origin": SITE_ORIGIN})
+        return f"<script>window.__EREMOS_SB={cfg};</script>"
+    return ""
 
 GITHUB = "https://github.com/btwinguitarists/eremos-translation"
 GIVE_URL = "https://eremosapp.com/give"
@@ -285,6 +299,11 @@ white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .pc-vitem span{display:inline-block;min-width:1.8em;color:var(--accent);font-variant-numeric:tabular-nums}
 .pc-vitem.on span{color:#fff}
 
+.pc-remote{margin:.9rem 0 0;padding:.7rem 1rem;background:var(--wash);border-radius:.6rem;
+font-size:.9rem;color:var(--muted);text-align:center}
+.pc-code{font-family:Georgia,serif;font-size:1.15rem;letter-spacing:.22em;color:var(--accent);
+font-weight:600;margin:0 .2em}
+.pc-status{font-size:.82rem}
 /* audience screen — only the Bible, no controls */
 .present-audience{position:fixed;inset:0;background:#0e0c09;color:#f3ead8;z-index:50;
 display:flex;flex-direction:column;user-select:none}
@@ -314,13 +333,41 @@ PRESENT_JS = r"""
   if (!dataEl) return;
   var DATA = JSON.parse(dataEl.textContent); // {slug, th, en, ch, verses:[{n,t}]}
   var params = new URLSearchParams(location.search);
-  var CH = 'eremos-present:' + DATA.slug + ':' + DATA.ch;
-  var bc = ('BroadcastChannel' in window) ? new BroadcastChannel(CH) : null;
+  var SB = window.__EREMOS_SB || null; // {url, key} baked at build (may be null → same-device only)
+  var localCH = 'eremos-present:' + DATA.slug + ':' + DATA.ch;
+  var bc = ('BroadcastChannel' in window) ? new BroadcastChannel(localCH) : null;
 
   function esc(t) { var d = document.createElement('div'); d.textContent = t; return d.innerHTML; }
   function el(tag, cls) { var e = document.createElement(tag); if (cls) e.className = cls; return e; }
 
-  // ── AUDIENCE RECEIVER (?present=receiver): only the Bible, no controls, no Esc ──
+  // 6-char room code (no ambiguous chars), persisted so a venue can bookmark the receiver URL.
+  function roomCode() {
+    try { var e = localStorage.getItem('eremos.present.code'); if (e && /^[A-Z0-9]{6}$/.test(e)) return e; } catch (x) {}
+    var a = 'ABCDEFGHJKLMNPQRSTUVWXYZ23456789', c = '';
+    for (var i = 0; i < 6; i++) c += a[Math.floor(Math.random() * a.length)];
+    try { localStorage.setItem('eremos.present.code', c); } catch (x) {}
+    return c;
+  }
+
+  // ── shared Supabase realtime channel (cross-device: phone controls a TV/laptop) ──
+  var rt = null; // { channel, ready }
+  function realtimeConnect(code, onSlide, onHello) {
+    if (!SB || !SB.url || !SB.key) return Promise.resolve(null);
+    return import('https://esm.sh/@supabase/supabase-js@2')
+      .then(function (m) {
+        var client = m.createClient(SB.url, SB.key, { realtime: { params: { eventsPerSecond: 10 } } });
+        var ch = client.channel('bible-present:' + code, { config: { broadcast: { self: false } } });
+        if (onSlide) ch.on('broadcast', { event: 'slide' }, function (e) { onSlide(e.payload); });
+        if (onHello) ch.on('broadcast', { event: 'hello' }, function () { onHello(); });
+        return new Promise(function (res) {
+          ch.subscribe(function (status) { if (status === 'SUBSCRIBED') res({ client: client, channel: ch }); });
+          setTimeout(function () { res({ client: client, channel: ch }); }, 4000);
+        });
+      })
+      .catch(function () { return null; });
+  }
+
+  // ── AUDIENCE RECEIVER (?present=receiver on a chapter page): only the Bible ──
   if (params.get('present') === 'receiver') { audience(); return; }
 
   // ── PRESENTER CONTROL ──
@@ -328,8 +375,8 @@ PRESENT_JS = r"""
   if (trig) trig.onclick = openControl;
 
   var ctrl = null, audWin = null, castConn = null;
-  var sel = 0;   // index of the first verse shown
-  var span = 1;  // how many verses shown at once
+  var sel = 0, span = 1;
+  var CODE = null;
 
   function clamp() {
     if (sel < 0) sel = 0;
@@ -347,31 +394,37 @@ PRESENT_JS = r"""
   }
   function push() {
     clamp();
-    var msg = { s: sel, n: span };
-    if (bc) bc.postMessage(msg);
-    if (audWin && !audWin.closed) { try { audWin.postMessage({ __present: 1, p: msg }, '*'); } catch (e) {} }
-    if (castConn && castConn.state === 'connected') { try { castConn.send(JSON.stringify(msg)); } catch (e) {} }
+    var sl = slide(sel, span);       // broadcast the RENDERED slide so receivers need no chapter data
+    if (bc) bc.postMessage(sl);
+    if (audWin && !audWin.closed) { try { audWin.postMessage({ __present: 1, p: sl }, '*'); } catch (e) {} }
+    if (rt && rt.channel) { try { rt.channel.send({ type: 'broadcast', event: 'slide', payload: sl }); } catch (e) {} }
+    if (castConn && castConn.state === 'connected') { try { castConn.send(JSON.stringify(sl)); } catch (e) {} }
   }
 
   function openControl() {
     if (ctrl) return;
+    CODE = roomCode();
+    var recvUrl = SB ? (SB.origin + '/present.html?code=' + CODE) : null;
     ctrl = el('div', 'present-ctrl');
     ctrl.innerHTML =
       '<div class="pc-bar">' +
         '<span class="pc-title">' + esc(DATA.th) + ' ' + DATA.ch + ' · Presenter</span>' +
         '<span class="pc-actions">' +
-          '<button data-a="aud" class="pc-primary">Open audience screen</button>' +
+          '<button data-a="aud" class="pc-primary">Open audience window</button>' +
           '<button data-a="cast" hidden>Cast</button>' +
           '<button data-a="close">Esc · exit</button>' +
         '</span>' +
       '</div>' +
+      (recvUrl ?
+        '<div class="pc-remote">On the TV / other screen, open <b>bible.eremosapp.com/present.html</b> and enter code ' +
+        '<span class="pc-code">' + CODE + '</span> <span class="pc-status" data-s="0">· waiting for a screen…</span></div>' : '') +
       '<div class="pc-stage"><div class="pc-preview"></div><div class="pc-ref"></div></div>' +
       '<div class="pc-controls">' +
         '<button data-a="prev">← Prev</button>' +
         '<div class="pc-span">Show <button data-a="fewer">−</button><b class="pc-n">1</b><button data-a="more">+</button> verse(s)</div>' +
         '<button data-a="next">Next →</button>' +
       '</div>' +
-      '<div class="pc-hint">Audience sees only the verses — the Esc/controls stay on this screen. Arrow keys move; ↑/↓ change how many verses show.</div>' +
+      '<div class="pc-hint">Audience sees only the verses — controls stay on this screen. Arrow keys move; ↑/↓ change how many verses show.</div>' +
       '<div class="pc-list"></div>';
     document.body.appendChild(ctrl);
 
@@ -382,7 +435,6 @@ PRESENT_JS = r"""
       b.onclick = function () { sel = i; span = 1; render(); push(); };
       list.appendChild(b);
     });
-
     ctrl.addEventListener('click', function (e) {
       var a = e.target.getAttribute && e.target.getAttribute('data-a');
       if (!a) return;
@@ -398,6 +450,13 @@ PRESENT_JS = r"""
     setupCast();
     document.addEventListener('keydown', onKey);
     render();
+    // connect the shared channel so a phone can drive a TV/laptop
+    realtimeConnect(CODE, null, function () { push(); }).then(function (r) {
+      rt = r;
+      var st = ctrl && ctrl.querySelector('.pc-status');
+      if (st && r) st.textContent = '· ready — waiting for a screen to join';
+      push();
+    });
     push();
   }
 
@@ -409,13 +468,9 @@ PRESENT_JS = r"""
     ctrl.querySelector('.pc-ref').textContent = s.ref;
     ctrl.querySelector('.pc-n').textContent = String(span);
     var items = ctrl.querySelectorAll('.pc-vitem');
-    for (var i = 0; i < items.length; i++) {
-      items[i].classList.toggle('on', i >= sel && i < sel + span);
-    }
-    var active = items[sel];
-    if (active && active.scrollIntoView) active.scrollIntoView({ block: 'nearest' });
+    for (var i = 0; i < items.length; i++) items[i].classList.toggle('on', i >= sel && i < sel + span);
+    if (items[sel] && items[sel].scrollIntoView) items[sel].scrollIntoView({ block: 'nearest' });
   }
-
   function go(d) { sel += d; span = 1; render(); push(); }
 
   function openAudience() {
@@ -423,41 +478,29 @@ PRESENT_JS = r"""
     function popup(feat) { audWin = window.open(url, 'eremosAudience', feat); setTimeout(push, 900); }
     if (window.screen && window.screen.isExtended && window.getScreenDetails) {
       window.getScreenDetails().then(function (d) {
-        var other = null;
-        for (var i = 0; i < d.screens.length; i++) { if (!d.screens[i].isPrimary) { other = d.screens[i]; break; } }
-        other = other || d.screens[0];
-        popup('left=' + other.availLeft + ',top=' + other.availTop + ',width=' + other.availWidth + ',height=' + other.availHeight);
+        var o = null; for (var i = 0; i < d.screens.length; i++) { if (!d.screens[i].isPrimary) { o = d.screens[i]; break; } }
+        o = o || d.screens[0];
+        popup('left=' + o.availLeft + ',top=' + o.availTop + ',width=' + o.availWidth + ',height=' + o.availHeight);
       }).catch(function () { popup('width=1280,height=720'); });
-    } else {
-      popup('width=1280,height=720');
-    }
+    } else { popup('width=1280,height=720'); }
   }
-
   function setupCast() {
     if (!('PresentationRequest' in window)) return;
     var btn = ctrl.querySelector('[data-a="cast"]');
     try {
-      window.__eremosCastReq = new PresentationRequest([location.pathname + '?present=receiver']);
-      window.__eremosCastReq.getAvailability().then(function (av) {
-        btn.hidden = !av.value;
-        av.onchange = function () { btn.hidden = !av.value; };
-      }).catch(function () {});
+      window.__castReq = new PresentationRequest([location.pathname + '?present=receiver']);
+      window.__castReq.getAvailability().then(function (av) { btn.hidden = !av.value; av.onchange = function () { btn.hidden = !av.value; }; }).catch(function () {});
     } catch (e) {}
   }
-  function startCast() {
-    try {
-      window.__eremosCastReq.start().then(function (c) { castConn = c; c.onconnect = push; setTimeout(push, 700); }).catch(function () {});
-    } catch (e) {}
-  }
-
+  function startCast() { try { window.__castReq.start().then(function (c) { castConn = c; c.onconnect = push; setTimeout(push, 700); }).catch(function () {}); } catch (e) {} }
   function closeControl() {
     if (!ctrl) return;
     document.removeEventListener('keydown', onKey);
     ctrl.remove(); ctrl = null;
     if (audWin && !audWin.closed) audWin.close();
     if (castConn) { try { castConn.terminate(); } catch (e) {} castConn = null; }
+    if (rt && rt.client) { try { rt.client.removeAllChannels(); } catch (e) {} rt = null; }
   }
-
   function onKey(e) {
     if (!ctrl) return;
     if (e.key === 'ArrowRight' || e.key === ' ' || e.key === 'PageDown') { e.preventDefault(); go(1); }
@@ -467,57 +510,37 @@ PRESENT_JS = r"""
     else if (e.key === 'Escape') closeControl();
   }
 
-  // ── AUDIENCE (receiver window): full-bleed verses, no controls ──
+  // ── AUDIENCE (same-device receiver window on a chapter page) ──
   function audience() {
     document.body.classList.add('receiver');
     var mains = document.querySelectorAll('main');
     for (var i = 0; i < mains.length; i++) mains[i].hidden = true;
     var root = el('div', 'present-audience');
-    root.innerHTML =
-      '<div class="aud-slide"><div class="aud-body"></div></div>' +
-      '<div class="aud-ref"></div>' +
-      '<div class="aud-hint">คลิกเพื่อเต็มจอ · click for fullscreen</div>';
+    root.innerHTML = '<div class="aud-slide"><div class="aud-body"></div></div><div class="aud-ref"></div><div class="aud-hint">คลิกเพื่อเต็มจอ · click for fullscreen</div>';
     document.body.appendChild(root);
-    var body = root.querySelector('.aud-body');
-    var refEl = root.querySelector('.aud-ref');
-    var hint = root.querySelector('.aud-hint');
-
+    var body = root.querySelector('.aud-body'), refEl = root.querySelector('.aud-ref'), hint = root.querySelector('.aud-hint');
     root.addEventListener('click', function once() {
       if (document.documentElement.requestFullscreen) document.documentElement.requestFullscreen().catch(function () {});
-      hint.textContent = '';
-      root.removeEventListener('click', once);
+      hint.textContent = ''; root.removeEventListener('click', once);
     });
-
     function fit() {
       var size = Math.min(window.innerWidth, window.innerHeight) * 0.075;
       body.style.fontSize = size + 'px';
-      var guard = 30;
-      while (guard-- > 0 && body.scrollHeight > body.parentElement.clientHeight && size > 12) {
-        size *= 0.93; body.style.fontSize = size + 'px';
-      }
+      var g = 30;
+      while (g-- > 0 && body.scrollHeight > body.parentElement.clientHeight && size > 12) { size *= 0.93; body.style.fontSize = size + 'px'; }
     }
-    function apply(p) {
-      if (!p || typeof p.s !== 'number') return;
-      var s = slide(p.s, p.n || 1);
-      body.innerHTML = s.body;
-      refEl.textContent = s.ref;
-      fit();
-    }
+    function apply(p) { if (!p || !p.body) return; body.innerHTML = p.body; refEl.textContent = p.ref || ''; fit(); }
     if (bc) bc.onmessage = function (e) { apply(e.data); };
     window.addEventListener('message', function (e) { if (e.data && e.data.__present) apply(e.data.p); });
     if (navigator.presentation && navigator.presentation.receiver) {
       navigator.presentation.receiver.connectionList.then(function (list) {
         function wire(c) { c.onmessage = function (e) { apply(JSON.parse(e.data)); }; }
-        list.connections.forEach(wire);
-        list.onconnectionavailable = function (e) { wire(e.connection); };
+        list.connections.forEach(wire); list.onconnectionavailable = function (e) { wire(e.connection); };
       });
     }
     window.addEventListener('resize', fit);
-    // announce readiness so a controller already open re-pushes
     if (bc) bc.postMessage({ __hello: 1 });
   }
-
-  // controller answers a late audience hello with the current slide
   if (bc) bc.addEventListener('message', function (e) { if (e.data && e.data.__hello && ctrl) push(); });
 
   // reading / study view toggle (context notes live only in study view)
@@ -541,6 +564,7 @@ PRESENT_JS = r"""
 
 def page(title: str, body: str, depth: int) -> str:
     rel = "../" * depth
+    sb_head = sb_config_script()
     return f"""<!doctype html>
 <html lang="th">
 <head>
@@ -548,6 +572,7 @@ def page(title: str, body: str, depth: int) -> str:
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{html.escape(title)}</title>
 <link rel="stylesheet" href="{rel}style.css">
+{sb_head}
 <meta name="description" content="พระคัมภีร์ไทยฉบับเอเรโมส — a free, public-domain Thai Bible translated from the original Hebrew and Greek.">
 </head>
 <body>
@@ -669,6 +694,76 @@ def build_chapter_body(book: Book, ch: Chapter, prev_link: str, next_link: str, 
 <div class="pager"><span>{prev_link}</span><span>{next_link}</span></div>
 <script type="application/json" id="chapter-data">{chapter_data}</script>
 <script src="../../present.js"></script>"""
+
+
+PRESENT_RECEIVER_HTML = r"""<!doctype html>
+<html lang="th"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Audience · Eremos Thai Bible</title>
+<link rel="stylesheet" href="style.css">
+__SB__
+</head><body class="receiver">
+<div class="present-audience" id="root">
+  <div class="aud-slide"><div class="aud-body" id="body"></div></div>
+  <div class="aud-ref" id="ref"></div>
+  <div class="aud-hint" id="hint"></div>
+</div>
+<div id="join" style="position:fixed;inset:0;display:flex;flex-direction:column;align-items:center;
+justify-content:center;gap:1rem;background:#0e0c09;color:#f3ead8;z-index:70;font-family:-apple-system,system-ui,sans-serif">
+  <div style="font-family:Georgia,serif;font-size:1.3rem">Join a presenter</div>
+  <div style="color:#b9a888;font-size:.9rem">Enter the 6-character code shown on the presenter's screen</div>
+  <input id="code" maxlength="6" autocapitalize="characters" autocomplete="off"
+   style="font:inherit;font-size:1.6rem;letter-spacing:.3em;text-align:center;text-transform:uppercase;
+   width:9ch;padding:.6rem;border-radius:.5rem;border:1px solid #4a4132;background:rgba(255,255,255,.06);color:#f3ead8">
+  <button id="go" style="font:inherit;font-size:1rem;padding:.55rem 1.4rem;border-radius:2rem;
+   border:none;background:#d09a5b;color:#0e0c09;cursor:pointer">Connect</button>
+  <div id="err" style="color:#c98;font-size:.85rem;min-height:1.2em"></div>
+</div>
+<script>
+(function(){
+  var SB = window.__EREMOS_SB;
+  var params = new URLSearchParams(location.search);
+  var code = (params.get('code')||'').toUpperCase().replace(/[^A-Z0-9]/g,'');
+  var join = document.getElementById('join'), input = document.getElementById('code');
+  var bodyEl = document.getElementById('body'), refEl = document.getElementById('ref'), hint = document.getElementById('hint');
+  var root = document.getElementById('root');
+
+  function fit(){
+    var size = Math.min(window.innerWidth, window.innerHeight)*0.075;
+    bodyEl.style.fontSize = size+'px';
+    var g=30; while(g-->0 && bodyEl.scrollHeight>bodyEl.parentElement.clientHeight && size>12){ size*=0.93; bodyEl.style.fontSize=size+'px'; }
+  }
+  function render(p){ if(!p||!p.body) return; bodyEl.innerHTML=p.body; refEl.textContent=p.ref||''; fit(); }
+  window.addEventListener('resize', fit);
+  root.addEventListener('click', function once(){
+    if(document.documentElement.requestFullscreen) document.documentElement.requestFullscreen().catch(function(){});
+    hint.textContent=''; root.removeEventListener('click', once);
+  });
+
+  function connect(c){
+    if(!SB){ document.getElementById('err').textContent='Presenter sync is not configured on this site.'; return; }
+    join.style.display='none';
+    hint.textContent='รอผู้นำเสนอ · waiting for the presenter…';
+    import('https://esm.sh/@supabase/supabase-js@2').then(function(m){
+      var client = m.createClient(SB.url, SB.key, {realtime:{params:{eventsPerSecond:10}}});
+      var ch = client.channel('bible-present:'+c, {config:{broadcast:{self:false}}});
+      ch.on('broadcast',{event:'slide'}, function(e){ hint.textContent='คลิกเพื่อเต็มจอ · click for fullscreen'; render(e.payload); });
+      ch.subscribe(function(s){ if(s==='SUBSCRIBED') ch.send({type:'broadcast',event:'hello',payload:{}}); });
+    }).catch(function(){ document.getElementById('err').textContent='Could not load the realtime client.'; join.style.display='flex'; });
+  }
+
+  document.getElementById('go').onclick = function(){
+    var c = (input.value||'').toUpperCase().replace(/[^A-Z0-9]/g,'');
+    if(c.length!==6){ document.getElementById('err').textContent='Enter the 6-character code.'; return; }
+    history.replaceState(null,'', '?code='+c);
+    connect(c);
+  };
+  input.addEventListener('keydown', function(e){ if(e.key==='Enter') document.getElementById('go').click(); });
+  if(code && code.length===6){ input.value=code; connect(code); } else { input.focus(); }
+})();
+</script>
+</body></html>
+"""
 
 
 def main() -> None:
@@ -796,6 +891,10 @@ public domain, no attribution required (though we love hearing what you build).<
     (DIST / "data" / "index.html").write_text(
         page("Data · Eremos Thai Bible", data_body, 1), encoding="utf-8"
     )
+
+    # Cross-device audience receiver — the URL a TV/laptop opens to join a
+    # presenter by code (phone controls, this screen shows only the Bible).
+    (DIST / "present.html").write_text(PRESENT_RECEIVER_HTML.replace("__SB__", sb_config_script()), encoding="utf-8")
 
     print(f"built {total_chapters:,} chapters / {total_verses:,} verses / {total_notes:,} notes → {DIST}")
 
