@@ -255,25 +255,48 @@ ul.plain{list-style:none;padding:0}
 ul.plain li{margin:.45rem 0}
 [hidden]{display:none !important}
 
-/* ── presentation mode ─────────────────────────────────────────────── */
-.present-root{position:fixed;inset:0;background:#0e0c09;color:#f3ead8;z-index:50;
+/* ── presenter (control screen) + audience (second screen) ── */
+.present-ctrl{position:fixed;inset:0;background:var(--bg);color:var(--ink);z-index:60;
+display:flex;flex-direction:column;padding:1rem 1.2rem 1.2rem}
+.pc-bar{display:flex;justify-content:space-between;align-items:center;gap:1rem;flex-wrap:wrap;
+padding-bottom:.8rem;border-bottom:1px solid var(--line)}
+.pc-title{font-family:Georgia,serif;font-size:1rem}
+.pc-actions{display:flex;gap:.5rem}
+.pc-actions button,.pc-controls button{font:inherit;font-size:.85rem;padding:.45rem .9rem;
+border-radius:2rem;border:1px solid var(--line);background:var(--card);color:var(--ink);cursor:pointer}
+.pc-actions button:hover,.pc-controls button:hover{border-color:var(--accent)}
+.pc-primary{background:var(--accent)!important;border-color:var(--accent)!important;color:#fff!important}
+.pc-stage{flex:0 0 auto;background:#0e0c09;color:#f3ead8;border-radius:.7rem;margin:1rem 0;
+padding:2.2rem 2rem 1.2rem;min-height:34vh;display:flex;flex-direction:column;justify-content:center}
+.pc-preview{font-size:clamp(1.2rem,2.6vw,2rem);line-height:1.7;text-align:center;font-weight:500}
+.pc-preview .pvn{font-size:.55em;color:#c9a978;vertical-align:super;margin:0 .3em 0 .5em}
+.pc-ref{text-align:center;color:#b9a888;font-size:.9rem;margin-top:1rem;font-variant-numeric:tabular-nums}
+.pc-controls{display:flex;align-items:center;justify-content:space-between;gap:1rem}
+.pc-span{font-size:.85rem;color:var(--muted);display:flex;align-items:center;gap:.5rem}
+.pc-span b{min-width:1.2em;text-align:center;color:var(--ink)}
+.pc-hint{font-size:.78rem;color:var(--muted);margin:.7rem 0;text-align:center}
+.pc-list{flex:1;overflow-y:auto;border-top:1px solid var(--line);padding-top:.6rem;
+display:flex;flex-direction:column;gap:.15rem}
+.pc-vitem{text-align:left;font:inherit;font-size:.82rem;line-height:1.4;padding:.35rem .6rem;
+border:none;background:none;color:var(--muted);cursor:pointer;border-radius:.4rem;
+white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.pc-vitem:hover{background:var(--wash);color:var(--ink)}
+.pc-vitem.on{background:var(--accent);color:#fff}
+.pc-vitem span{display:inline-block;min-width:1.8em;color:var(--accent);font-variant-numeric:tabular-nums}
+.pc-vitem.on span{color:#fff}
+
+/* audience screen — only the Bible, no controls */
+.present-audience{position:fixed;inset:0;background:#0e0c09;color:#f3ead8;z-index:50;
 display:flex;flex-direction:column;user-select:none}
-.present-root .slide{flex:1;display:flex;align-items:center;justify-content:center;
-padding:4vh 7vw;text-align:center;overflow:hidden}
-.present-root .slide .vtext{font-weight:500;line-height:1.75;max-width:62ch;
+.present-audience .aud-slide{flex:1;display:flex;align-items:center;justify-content:center;
+padding:5vh 7vw;overflow:hidden}
+.present-audience .aud-body{font-weight:500;line-height:1.7;max-width:64ch;text-align:center;
 font-family:-apple-system,'Sukhumvit Set','Noto Sans Thai',Thonburi,system-ui,sans-serif}
-.present-root .ref{display:flex;justify-content:space-between;align-items:center;
-padding:1.1rem 1.6rem;font-size:clamp(.9rem,1.6vw,1.25rem);color:#b9a888;
-font-variant-numeric:tabular-nums}
-.present-root .hud{position:absolute;top:.9rem;right:1rem;display:flex;gap:.5rem;z-index:2}
-.present-root .hud button{font:inherit;font-size:.8rem;padding:.4rem .8rem;border-radius:2rem;
-border:1px solid #4a4132;background:rgba(255,255,255,.06);color:#e8e0d0;cursor:pointer}
-.present-root .hud button:hover{border-color:#b9a888}
-.present-root .zone{position:absolute;top:0;bottom:4rem;width:30%;cursor:pointer;z-index:1}
-.present-root .zone.prev{left:0}
-.present-root .zone.next{right:0}
-.present-root .hint{position:absolute;bottom:4.6rem;left:0;right:0;text-align:center;
-font-size:.8rem;color:#8a7c62;opacity:.85}
+.present-audience .aud-body .pvn{font-size:.5em;color:#c9a978;vertical-align:super;margin:0 .3em 0 .5em}
+.present-audience .aud-ref{padding:1.2rem 1.6rem;text-align:center;color:#b9a888;
+font-size:clamp(.9rem,1.7vw,1.3rem);font-variant-numeric:tabular-nums}
+.present-audience .aud-hint{position:absolute;bottom:4.4rem;left:0;right:0;text-align:center;
+font-size:.8rem;color:#8a7c62}
 body.receiver{background:#0e0c09}
 """
 
@@ -289,173 +312,215 @@ PRESENT_JS = r"""
   'use strict';
   var dataEl = document.getElementById('chapter-data');
   if (!dataEl) return;
-  var DATA = JSON.parse(dataEl.textContent);
+  var DATA = JSON.parse(dataEl.textContent); // {slug, th, en, ch, verses:[{n,t}]}
   var params = new URLSearchParams(location.search);
-  var CHANNEL = 'eremos-present:' + DATA.slug + ':' + DATA.ch;
-  var bc = ('BroadcastChannel' in window) ? new BroadcastChannel(CHANNEL) : null;
+  var CH = 'eremos-present:' + DATA.slug + ':' + DATA.ch;
+  var bc = ('BroadcastChannel' in window) ? new BroadcastChannel(CH) : null;
 
-  var root = null, idx = 0, castConn = null, extWin = null;
+  function esc(t) { var d = document.createElement('div'); d.textContent = t; return d.innerHTML; }
+  function el(tag, cls) { var e = document.createElement(tag); if (cls) e.className = cls; return e; }
 
-  function build() {
-    root = document.createElement('div');
-    root.className = 'present-root';
-    root.innerHTML =
-      '<div class="hud">' +
-      '<button data-act="cast" hidden>Cast</button>' +
-      '<button data-act="ext" hidden>External display</button>' +
-      '<button data-act="close">Esc</button></div>' +
-      '<div class="zone prev" title="Previous"></div>' +
-      '<div class="zone next" title="Next"></div>' +
-      '<div class="slide"><div class="vtext"></div></div>' +
-      '<div class="hint"></div>' +
-      '<div class="ref"><span class="ref-book"></span><span class="ref-pos"></span></div>';
-    document.body.appendChild(root);
-    root.querySelector('.ref-book').textContent = DATA.th + ' · ' + DATA.en;
-    root.querySelector('[data-act=close]').onclick = stop;
-    root.querySelector('.zone.prev').onclick = function () { go(idx - 1); };
-    root.querySelector('.zone.next').onclick = function () { go(idx + 1); };
-    setupCast();
-    setupExternal();
-    if (!('PresentationRequest' in window) && /Safari/.test(navigator.userAgent) && !/Chrome/.test(navigator.userAgent)) {
-      root.querySelector('.hint').textContent =
-        'AirPlay: mirror this screen from Control Center, then present.';
-      setTimeout(function () { var h = root && root.querySelector('.hint'); if (h) h.textContent = ''; }, 7000);
+  // ── AUDIENCE RECEIVER (?present=receiver): only the Bible, no controls, no Esc ──
+  if (params.get('present') === 'receiver') { audience(); return; }
+
+  // ── PRESENTER CONTROL ──
+  var trig = document.getElementById('present-start');
+  if (trig) trig.onclick = openControl;
+
+  var ctrl = null, audWin = null, castConn = null;
+  var sel = 0;   // index of the first verse shown
+  var span = 1;  // how many verses shown at once
+
+  function clamp() {
+    if (sel < 0) sel = 0;
+    if (sel > DATA.verses.length - 1) sel = DATA.verses.length - 1;
+    if (span < 1) span = 1;
+    if (sel + span > DATA.verses.length) span = DATA.verses.length - sel;
+  }
+  function slide(s, n) {
+    var body = '';
+    for (var i = s; i < s + n; i++) {
+      body += '<span class="pv"><span class="pvn">' + DATA.verses[i].n + '</span>' + esc(DATA.verses[i].t) + '</span> ';
     }
+    var ref = DATA.th + ' ' + DATA.ch + ':' + DATA.verses[s].n + (n > 1 ? '-' + DATA.verses[s + n - 1].n : '');
+    return { body: body, ref: ref };
+  }
+  function push() {
+    clamp();
+    var msg = { s: sel, n: span };
+    if (bc) bc.postMessage(msg);
+    if (audWin && !audWin.closed) { try { audWin.postMessage({ __present: 1, p: msg }, '*'); } catch (e) {} }
+    if (castConn && castConn.state === 'connected') { try { castConn.send(JSON.stringify(msg)); } catch (e) {} }
   }
 
-  function fit(el) {
-    var size = Math.min(window.innerWidth, window.innerHeight) * 0.085;
-    el.style.fontSize = size + 'px';
-    var guard = 26;
-    while (guard-- > 0 && el.scrollHeight > el.parentElement.clientHeight) {
-      size *= 0.92;
-      el.style.fontSize = size + 'px';
-    }
+  function openControl() {
+    if (ctrl) return;
+    ctrl = el('div', 'present-ctrl');
+    ctrl.innerHTML =
+      '<div class="pc-bar">' +
+        '<span class="pc-title">' + esc(DATA.th) + ' ' + DATA.ch + ' · Presenter</span>' +
+        '<span class="pc-actions">' +
+          '<button data-a="aud" class="pc-primary">Open audience screen</button>' +
+          '<button data-a="cast" hidden>Cast</button>' +
+          '<button data-a="close">Esc · exit</button>' +
+        '</span>' +
+      '</div>' +
+      '<div class="pc-stage"><div class="pc-preview"></div><div class="pc-ref"></div></div>' +
+      '<div class="pc-controls">' +
+        '<button data-a="prev">← Prev</button>' +
+        '<div class="pc-span">Show <button data-a="fewer">−</button><b class="pc-n">1</b><button data-a="more">+</button> verse(s)</div>' +
+        '<button data-a="next">Next →</button>' +
+      '</div>' +
+      '<div class="pc-hint">Audience sees only the verses — the Esc/controls stay on this screen. Arrow keys move; ↑/↓ change how many verses show.</div>' +
+      '<div class="pc-list"></div>';
+    document.body.appendChild(ctrl);
+
+    var list = ctrl.querySelector('.pc-list');
+    DATA.verses.forEach(function (v, i) {
+      var b = el('button', 'pc-vitem');
+      b.innerHTML = '<span>' + v.n + '</span>' + esc(v.t.slice(0, 60));
+      b.onclick = function () { sel = i; span = 1; render(); push(); };
+      list.appendChild(b);
+    });
+
+    ctrl.addEventListener('click', function (e) {
+      var a = e.target.getAttribute && e.target.getAttribute('data-a');
+      if (!a) return;
+      if (a === 'prev') go(-1);
+      else if (a === 'next') go(1);
+      else if (a === 'more') { span++; render(); push(); }
+      else if (a === 'fewer') { span--; render(); push(); }
+      else if (a === 'aud') openAudience();
+      else if (a === 'cast' && castConn === null) startCast();
+      else if (a === 'close') closeControl();
+    });
+
+    setupCast();
+    document.addEventListener('keydown', onKey);
+    render();
+    push();
   }
 
   function render() {
-    if (!root) return;
-    var v = DATA.verses[idx];
-    var t = root.querySelector('.vtext');
-    t.textContent = v.t;
-    root.querySelector('.ref-pos').textContent =
-      DATA.ch + ':' + v.n + '  ·  ' + (idx + 1) + '/' + DATA.verses.length;
-    fit(t);
-  }
-
-  function broadcast() {
-    var msg = { v: idx };
-    if (bc) bc.postMessage(msg);
-    if (castConn && castConn.state === 'connected') castConn.send(JSON.stringify(msg));
-  }
-
-  function go(n) {
-    idx = Math.max(0, Math.min(DATA.verses.length - 1, n));
-    render();
-    broadcast();
-  }
-
-  function onKey(e) {
-    if (!root) return;
-    if (e.key === 'ArrowRight' || e.key === ' ' || e.key === 'PageDown') { e.preventDefault(); go(idx + 1); }
-    else if (e.key === 'ArrowLeft' || e.key === 'PageUp') { e.preventDefault(); go(idx - 1); }
-    else if (e.key === 'Escape') stop();
-  }
-
-  function start(at) {
-    if (root) return;
-    idx = at || 0;
-    build();
-    render();
-    document.addEventListener('keydown', onKey);
-    if (document.documentElement.requestFullscreen) {
-      document.documentElement.requestFullscreen().catch(function () {});
+    if (!ctrl) return;
+    clamp();
+    var s = slide(sel, span);
+    ctrl.querySelector('.pc-preview').innerHTML = s.body;
+    ctrl.querySelector('.pc-ref').textContent = s.ref;
+    ctrl.querySelector('.pc-n').textContent = String(span);
+    var items = ctrl.querySelectorAll('.pc-vitem');
+    for (var i = 0; i < items.length; i++) {
+      items[i].classList.toggle('on', i >= sel && i < sel + span);
     }
-    broadcast();
+    var active = items[sel];
+    if (active && active.scrollIntoView) active.scrollIntoView({ block: 'nearest' });
   }
 
-  function stop() {
-    if (!root) return;
-    document.removeEventListener('keydown', onKey);
-    root.remove(); root = null;
-    if (document.fullscreenElement) document.exitFullscreen().catch(function () {});
-    if (extWin && !extWin.closed) extWin.close();
-    if (castConn) { try { castConn.terminate(); } catch (e) {} castConn = null; }
+  function go(d) { sel += d; span = 1; render(); push(); }
+
+  function openAudience() {
+    var url = location.pathname + '?present=receiver';
+    function popup(feat) { audWin = window.open(url, 'eremosAudience', feat); setTimeout(push, 900); }
+    if (window.screen && window.screen.isExtended && window.getScreenDetails) {
+      window.getScreenDetails().then(function (d) {
+        var other = null;
+        for (var i = 0; i < d.screens.length; i++) { if (!d.screens[i].isPrimary) { other = d.screens[i]; break; } }
+        other = other || d.screens[0];
+        popup('left=' + other.availLeft + ',top=' + other.availTop + ',width=' + other.availWidth + ',height=' + other.availHeight);
+      }).catch(function () { popup('width=1280,height=720'); });
+    } else {
+      popup('width=1280,height=720');
+    }
   }
 
-  /* Chromecast (Presentation API) */
   function setupCast() {
     if (!('PresentationRequest' in window)) return;
-    var btn = root.querySelector('[data-act=cast]');
+    var btn = ctrl.querySelector('[data-a="cast"]');
     try {
-      var req = new PresentationRequest([location.pathname + '?present=receiver']);
-      req.getAvailability().then(function (avail) {
-        btn.hidden = !avail.value;
-        avail.onchange = function () { btn.hidden = !avail.value; };
+      window.__eremosCastReq = new PresentationRequest([location.pathname + '?present=receiver']);
+      window.__eremosCastReq.getAvailability().then(function (av) {
+        btn.hidden = !av.value;
+        av.onchange = function () { btn.hidden = !av.value; };
       }).catch(function () {});
-      btn.onclick = function () {
-        req.start().then(function (conn) {
-          castConn = conn;
-          conn.onconnect = broadcast;
-          setTimeout(broadcast, 800);
-        }).catch(function () {});
-      };
+    } catch (e) {}
+  }
+  function startCast() {
+    try {
+      window.__eremosCastReq.start().then(function (c) { castConn = c; c.onconnect = push; setTimeout(push, 700); }).catch(function () {});
     } catch (e) {}
   }
 
-  /* Second physical display (Window Management API) */
-  function setupExternal() {
-    var btn = root.querySelector('[data-act=ext]');
-    if (!(window.screen && 'isExtended' in window.screen) || !window.getScreenDetails) return;
-    btn.hidden = !window.screen.isExtended;
-    btn.onclick = function () {
-      window.getScreenDetails().then(function (details) {
-        var other = null;
-        for (var i = 0; i < details.screens.length; i++) {
-          if (!details.screens[i].isPrimary) { other = details.screens[i]; break; }
-        }
-        other = other || details.screens[0];
-        var feat = 'left=' + other.availLeft + ',top=' + other.availTop +
-                   ',width=' + other.availWidth + ',height=' + other.availHeight;
-        extWin = window.open(location.pathname + '?present=receiver', 'eremosPresent', feat);
-        setTimeout(broadcast, 1200);
-      }).catch(function () {});
-    };
+  function closeControl() {
+    if (!ctrl) return;
+    document.removeEventListener('keydown', onKey);
+    ctrl.remove(); ctrl = null;
+    if (audWin && !audWin.closed) audWin.close();
+    if (castConn) { try { castConn.terminate(); } catch (e) {} castConn = null; }
   }
 
-  /* receiver mode — full-bleed slides driven by the controller */
-  function receiver() {
+  function onKey(e) {
+    if (!ctrl) return;
+    if (e.key === 'ArrowRight' || e.key === ' ' || e.key === 'PageDown') { e.preventDefault(); go(1); }
+    else if (e.key === 'ArrowLeft' || e.key === 'PageUp') { e.preventDefault(); go(-1); }
+    else if (e.key === 'ArrowUp') { e.preventDefault(); span++; render(); push(); }
+    else if (e.key === 'ArrowDown') { e.preventDefault(); span--; render(); push(); }
+    else if (e.key === 'Escape') closeControl();
+  }
+
+  // ── AUDIENCE (receiver window): full-bleed verses, no controls ──
+  function audience() {
     document.body.classList.add('receiver');
     var mains = document.querySelectorAll('main');
     for (var i = 0; i < mains.length; i++) mains[i].hidden = true;
-    build();
-    root.querySelector('.hud').hidden = true;
-    root.querySelector('.hint').textContent = 'คลิกเพื่อเต็มจอ · click for fullscreen';
+    var root = el('div', 'present-audience');
+    root.innerHTML =
+      '<div class="aud-slide"><div class="aud-body"></div></div>' +
+      '<div class="aud-ref"></div>' +
+      '<div class="aud-hint">คลิกเพื่อเต็มจอ · click for fullscreen</div>';
+    document.body.appendChild(root);
+    var body = root.querySelector('.aud-body');
+    var refEl = root.querySelector('.aud-ref');
+    var hint = root.querySelector('.aud-hint');
+
     root.addEventListener('click', function once() {
       if (document.documentElement.requestFullscreen) document.documentElement.requestFullscreen().catch(function () {});
-      root.querySelector('.hint').textContent = '';
+      hint.textContent = '';
       root.removeEventListener('click', once);
     });
-    render();
-    function apply(m) { if (m && typeof m.v === 'number') { idx = m.v; render(); } }
+
+    function fit() {
+      var size = Math.min(window.innerWidth, window.innerHeight) * 0.075;
+      body.style.fontSize = size + 'px';
+      var guard = 30;
+      while (guard-- > 0 && body.scrollHeight > body.parentElement.clientHeight && size > 12) {
+        size *= 0.93; body.style.fontSize = size + 'px';
+      }
+    }
+    function apply(p) {
+      if (!p || typeof p.s !== 'number') return;
+      var s = slide(p.s, p.n || 1);
+      body.innerHTML = s.body;
+      refEl.textContent = s.ref;
+      fit();
+    }
     if (bc) bc.onmessage = function (e) { apply(e.data); };
+    window.addEventListener('message', function (e) { if (e.data && e.data.__present) apply(e.data.p); });
     if (navigator.presentation && navigator.presentation.receiver) {
       navigator.presentation.receiver.connectionList.then(function (list) {
-        function wire(conn) { conn.onmessage = function (e) { apply(JSON.parse(e.data)); }; }
+        function wire(c) { c.onmessage = function (e) { apply(JSON.parse(e.data)); }; }
         list.connections.forEach(wire);
         list.onconnectionavailable = function (e) { wire(e.connection); };
       });
     }
-    window.addEventListener('resize', render);
+    window.addEventListener('resize', fit);
+    // announce readiness so a controller already open re-pushes
+    if (bc) bc.postMessage({ __hello: 1 });
   }
 
-  if (params.get('present') === 'receiver') { receiver(); return; }
+  // controller answers a late audience hello with the current slide
+  if (bc) bc.addEventListener('message', function (e) { if (e.data && e.data.__hello && ctrl) push(); });
 
-  var trigger = document.getElementById('present-start');
-  if (trigger) trigger.onclick = function () { start(0); };
-  window.addEventListener('resize', function () { if (root) render(); });
-
-  /* reading/study view toggle (context notes live only in study view) */
+  // reading / study view toggle (context notes live only in study view)
   var btnRead = document.getElementById('view-reading');
   var btnStudy = document.getElementById('view-study');
   function setView(study) {
