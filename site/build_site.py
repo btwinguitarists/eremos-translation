@@ -570,8 +570,8 @@ fullscreen slides, Chromecast, or a second display.</p>
 <div class="cards">
   <a class="card" href="{HELP_URL}"><b>Help review it</b><span>Read Thai? Join the review —
   native speakers, pastors, and careful readers all needed.</span></a>
-  <a class="card" href="{GIVE_URL}"><b>Support the work</b><span>Tax-deductible gifts through
-  Axia International sustain translation and review.</span></a>
+  <a class="card" href="{GIVE_URL}"><b>Support the work</b><span>Tax-deductible gifts to Eremos
+  sustain the translation and discipleship ministry.</span></a>
   <a class="card" href="data/index.html"><b>Use the data</b><span>Download every book — CC0,
   markdown and JSON, straight from the open repository.</span></a>
 </div>
