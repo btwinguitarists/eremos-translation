@@ -58,3 +58,4 @@ output/.book_complete_audit_prompt.md
 # Audit-items-to-YAML output dirs (temp; copied to EremosVercel2/shared/review-questions/
 # by the audit agent — not source-of-truth on this side)
 output/review_questions_*/
+.venv-structure/
