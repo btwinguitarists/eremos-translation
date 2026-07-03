@@ -1,6 +1,6 @@
 # 2 โครินธ์
 
-_2 Corinthians — 13 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
+_2 Corinthians — 13 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project. Verses follow English (BSB) numbering._
 
 _This **plain edition** shows only the Thai translation — no commentary, no Greek, no English. Intended for Thai scholars and theological reviewers evaluating the translation on its own terms. For the annotated edition with contextual summaries (บริบท), see `output/reader/2corinthians.md`. For the underlying Greek, English (BSB) reference, and translator decisions per verse, see the per-chapter review reports at `output/check_reports/2corinthians_NN_review.md` or the source JSON at `output/translations/`._
 
@@ -120,11 +120,11 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **11** เพราะถ้าสิ่งที่กำลังเสื่อมไปได้มาด้วยพระเกียรติ สิ่งที่ดำรงอยู่ก็ยิ่งเปี่ยมด้วยพระเกียรติมากกว่านั้นเป็นอย่างยิ่ง
 
-**12** ดังนั้น เนื่องจากเรามีความหวังเช่นนี้ เราจึงประกาศด้วยความกล้าหาญอย่างยิ่ง
+**12** ดังนั้น เมื่อเรามีความหวังเช่นนี้ เราจึงประกาศด้วยความกล้าหาญอย่างยิ่ง
 
 **13** และเราไม่เป็นเหมือนโมเสสที่เคยใช้ผ้าคลุมพระพักตร์ของท่าน เพื่อไม่ให้ลูกหลานอิสราเอลเพ่งดูจุดสิ้นสุดของสิ่งที่กำลังเสื่อมไป
 
-**14** แต่จิตใจของพวกเขาแข็งกระด้าง เพราะจนถึงทุกวันนี้ ผ้าคลุมเดียวกันนั้นก็ยังคงอยู่ในขณะอ่านพันธสัญญาเดิม โดยไม่ถูกเปิดออก เพราะในพระคริสต์เท่านั้นที่ผ้าคลุมจะถูกขจัดออกไป
+**14** แต่จิตใจของพวกเขาแข็งกระด้าง จนถึงทุกวันนี้ ผ้าคลุมเดียวกันนั้นก็ยังคงอยู่ในขณะอ่านพันธสัญญาเดิม โดยไม่ถูกเปิดออก เพราะในพระคริสต์เท่านั้นที่ผ้าคลุมจะถูกขจัดออกไป
 
 **15** แต่จนถึงทุกวันนี้ เมื่อใดที่อ่านโมเสส ก็ยังคงมีผ้าคลุมอยู่บนใจของพวกเขา
 
@@ -158,7 +158,7 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **10** เราแบกความตายของพระเยซูไว้ในร่างกายของเราเสมอ เพื่อให้ชีวิตของพระเยซูปรากฏในร่างกายของเราด้วย
 
-**11** เพราะเราซึ่งยังมีชีวิตอยู่นั้น ถูกมอบไว้แก่ความตายเสมอเพราะเห็นแก่พระเยซู เพื่อให้ชีวิตของพระเยซูปรากฏในเนื้อหนังที่ตายได้ของเราด้วย
+**11** เพราะเราซึ่งยังมีชีวิตอยู่นั้น ถูกมอบไว้แก่ความตายเสมอโดยเห็นแก่พระเยซู เพื่อให้ชีวิตของพระเยซูปรากฏในเนื้อหนังที่ตายได้ของเราด้วย
 
 **12** ดังนั้น ความตายก็ทำงานอยู่ในเรา แต่ชีวิตก็ทำงานอยู่ในพวกท่าน
 
@@ -548,7 +548,7 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **3** เนื่องจากพวกท่านแสวงหาบทพิสูจน์ว่าพระคริสต์ทรงตรัสในตัวข้าพเจ้า พระองค์ไม่ได้ทรงอ่อนแอในการเผชิญกับพวกท่าน แต่ทรงพลังในหมู่พวกท่าน
 
-**4** เพราะพระองค์ทรงถูกตรึงด้วยความอ่อนแอ แต่ทรงพระชนม์อยู่โดยฤทธิ์อำนาจของพระเจ้า และเราเองก็อ่อนแอในพระองค์ แต่เราจะมีชีวิตอยู่ร่วมกับพระองค์โดยฤทธิ์อำนาจของพระเจ้าในการมีต่อพวกท่าน
+**4** เพราะพระองค์ทรงถูกตรึงด้วยความอ่อนแอ แต่ทรงพระชนม์อยู่โดยฤทธิ์อำนาจของพระเจ้า และเราเองก็อ่อนแอในพระองค์ แต่เราจะมีชีวิตอยู่ร่วมกับพระองค์โดยฤทธิ์อำนาจของพระเจ้าต่อพวกท่าน
 
 **5** จงตรวจสอบตัวเองว่าพวกท่านอยู่ในความเชื่อหรือไม่ จงทดสอบตัวเอง หรือพวกท่านไม่เข้าใจตัวเองหรือว่าพระเยซูคริสต์ทรงสถิตอยู่ในพวกท่าน — เว้นแต่พวกท่านสอบไม่ผ่าน
 
@@ -564,9 +564,11 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **11** ในที่สุด พี่น้องทั้งหลาย จงชื่นชมยินดี จงเสริมสร้างตนเองให้สมบูรณ์ จงให้กำลังใจกัน จงเป็นน้ำหนึ่งใจเดียวกัน จงอยู่อย่างสันติ และพระเจ้าแห่งความรักและสันติสุขจะสถิตอยู่กับพวกท่าน
 
-**12** จงทักทายกันด้วยจูบอันบริสุทธิ์ ธรรมิกชนทุกคนฝากความระลึกถึงพวกท่าน
+**12** จงทักทายกันด้วยจูบอันบริสุทธิ์
 
-**13** ขอพระคุณของพระเยซูคริสต์องค์พระผู้เป็นเจ้า ความรักของพระเจ้า และการมีส่วนร่วมในพระวิญญาณบริสุทธิ์ จงดำรงอยู่กับพวกท่านทุกคน
+**13** ธรรมิกชนทุกคนฝากความระลึกถึงพวกท่าน
+
+**14** ขอพระคุณของพระเยซูคริสต์องค์พระผู้เป็นเจ้า ความรักของพระเจ้า และการมีส่วนร่วมในพระวิญญาณบริสุทธิ์ จงดำรงอยู่กับพวกท่านทุกคน
 
 ---
 
@@ -578,8 +580,8 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 |---|---|
 | `output/translations/2corinthians_01.json` | `a7624ccfbac37d4ed53050c21a50bd07ed3d58c34a4d231d53e350e6b4a577ce` |
 | `output/translations/2corinthians_02.json` | `3c6148b24fa30b2aeb55022a6b844322704e01559c057f3c16b44e60b7ec2cae` |
-| `output/translations/2corinthians_03.json` | `ae18ba05eb0ec56463edbdafff059c41daa8d12698e0fae5ee81ed5d7ab8afac` |
-| `output/translations/2corinthians_04.json` | `e4a9224889449fd5863cd224bcf78d68e2834d22d6e545a357f53ff2c4113f30` |
+| `output/translations/2corinthians_03.json` | `6eb95223849e7ff495d0271f238169f7893fb941595895cfc795a45f39e6aec2` |
+| `output/translations/2corinthians_04.json` | `48131cb80405f98b182bbfab1c97609a874a08b9a7ad35cf2e1b987e03b48116` |
 | `output/translations/2corinthians_05.json` | `e2452a34d40b0fd0ce3c4cbc0d0a70dbf6fd6267f9d206904b58c2dec293330b` |
 | `output/translations/2corinthians_06.json` | `ebb822e2afa214787f3e58025de2de4b27222a3d61ebd2df6dad361e18fc3202` |
 | `output/translations/2corinthians_07.json` | `fae6b6f1fecbcef72c1773b279d13cfe853cf239f015aeafc7d06210ce7feba0` |
@@ -588,5 +590,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/2corinthians_10.json` | `ec2e15a80445907f7247c70c168a1c6321d862d45d2081569853ec26e965d30a` |
 | `output/translations/2corinthians_11.json` | `bd716106c311f778557d36d67c163219f464e39e8fd039511a79cd1c6bb474ea` |
 | `output/translations/2corinthians_12.json` | `aca4492cc393372367d40d5dce4bee1e1d066a04b6f022f0d964492dc0439a9a` |
-| `output/translations/2corinthians_13.json` | `8f3443afbb24ccf15fc76b72d5ed1f91dbe257d060b863c0634e5a38ffe9ca70` |
+| `output/translations/2corinthians_13.json` | `f7a1cada8a71e65a2b921824532b46da3370c561435fbffe0369a034dac40331` |
 

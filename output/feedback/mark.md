@@ -1,6 +1,6 @@
 # พระกิตติคุณตามมาระโก
 
-_The Gospel of Mark — 16 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
+_The Gospel of Mark — 16 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project. Verses follow English (BSB) numbering._
 
 _This **feedback edition** is the plain Thai translation with a `>` placeholder block under each verse for reviewer comments. **See the instructions immediately below before reading.** For the annotated edition (with contextual summaries), see `output/reader/mark.md`; for the verses-only edition (no comment blocks), see `output/plain/mark.md`._
 
@@ -50,7 +50,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**6** ยอห์นแต่งกายด้วยผ้าทำจากขนอูฐ และมีสายคาดเอวทำด้วยหนังรัดรอบเอว อาหารของท่านคือตั๊กแตนและน้ำผึ้งป่า
+**6** ยอห์นแต่งกายด้วยผ้าทำจากขนอูฐ และมีสายคาดเอวหนัง อาหารของท่านคือตั๊กแตนและน้ำผึ้งป่า
 
 > ___
 
@@ -271,7 +271,7 @@ _วลี "พระบุตรของพระเจ้า" (υἱοῦ θ�
 
 > ___
 
-**12** เขาก็ลุกขึ้น และทันใดนั้นก็ยกแคร่เดินออกไปต่อหน้าทุกคน จนทุกคนตะลึง และสรรเสริญพระเจ้า กล่าวว่า “พวกเราไม่เคยเห็นสิ่งเช่นนี้เลย”
+**12** เขาก็ลุกขึ้น ทันใดนั้นก็ยกแคร่เดินออกไปต่อหน้าทุกคน จนทุกคนตะลึง และสรรเสริญพระเจ้า กล่าวว่า “พวกเราไม่เคยเห็นสิ่งเช่นนี้เลย”
 
 > ___
 
@@ -835,7 +835,7 @@ _วลี "พระบุตรของพระเจ้า" (υἱοῦ θ�
 
 > ___
 
-**2** เมื่อถึงวันสะบาโต พระองค์ทรงเริ่มสั่งสอนในธรรมศาลา และคนเป็นอันมากที่ได้ฟังก็อัศจรรย์ใจ พูดกันว่า “คนนี้ได้สิ่งเหล่านี้มาจากไหน? สติปัญญาที่ประทานแก่คนนี้คืออะไร? และฤทธิ์อำนาจอันยิ่งใหญ่ที่กระทำผ่านมือของเขา ก็เป็นเช่นนี้ได้อย่างไร?”
+**2** เมื่อถึงวันสะบาโต พระองค์ทรงเริ่มสั่งสอนในธรรมศาลา และคนเป็นอันมากที่ได้ฟังก็อัศจรรย์ใจ พูดกันว่า “คนนี้ได้สิ่งเหล่านี้มาจากไหน? สติปัญญาที่ประทานแก่คนนี้คืออะไร? และฤทธิ์อำนาจอันยิ่งใหญ่ที่กระทำผ่านมือของเขา ก็เกิดขึ้นได้อย่างไร?”
 
 > ___
 
@@ -1259,7 +1259,7 @@ _วลี "พระบุตรของพระเจ้า" (υἱοῦ θ�
 
 > ___
 
-**14** บรรดาสาวกลืมที่จะนำขนมปังมาด้วย พวกเขามีขนมปังอยู่กับพวกเขาในเรือเพียงก้อนเดียวเท่านั้น
+**14** บรรดาสาวกลืมที่จะนำขนมปังมาด้วย พวกเขามีขนมปังอยู่ในเรือเพียงก้อนเดียวเท่านั้น
 
 > ___
 
@@ -1652,7 +1652,7 @@ _วลี "และการอดอาหาร" (καὶ νηστείᾳ) �
 
 > ___
 
-**21** พระเยซูทรงเพ่งมองดูเขาและทรงรักเขา ตรัสว่า “ท่านยังขาดอยู่สิ่งหนึ่ง จงไปขายทุกสิ่งที่ท่านมี และแจกจ่ายแก่คนยากจน แล้วท่านจะมีทรัพย์สมบัติในสวรรค์ แล้วจงมาติดตามเรา”
+**21** พระเยซูทรงเพ่งมองดูเขาและทรงรักเขา ตรัสว่า “ท่านยังขาดอยู่สิ่งหนึ่ง จงไปขายทุกสิ่งที่ท่านมี และแจกจ่ายแก่คนยากจน แล้วท่านจะมีทรัพย์สมบัติในสวรรค์ และจงมาติดตามเรา”
 
 > ___
 
@@ -1740,7 +1740,7 @@ _วลี "และการอดอาหาร" (καὶ νηστείᾳ) �
 
 > ___
 
-**43** แต่ในพวกท่านจะไม่เป็นเช่นนั้น แต่ผู้ใดต้องการเป็นใหญ่ในพวกท่าน ผู้นั้นจะต้องเป็นผู้รับใช้ของท่านทั้งหลาย
+**43** แต่ในพวกท่านจะไม่เป็นเช่นนั้น ผู้ใดต้องการเป็นใหญ่ในพวกท่าน ผู้นั้นจะต้องเป็นผู้รับใช้ของท่านทั้งหลาย
 
 > ___
 
@@ -1796,7 +1796,7 @@ _วลี "และการอดอาหาร" (καὶ νηστείᾳ) �
 
 > ___
 
-**4** เขาทั้งสองก็ไป และพบลูกลาตัวหนึ่งผูกไว้ที่ประตูด้านนอกบนถนน และแก้มันออก
+**4** เขาทั้งสองก็ไป พบลูกลาตัวหนึ่งผูกไว้ที่ประตูด้านนอกบนถนน และแก้มันออก
 
 > ___
 
@@ -2024,7 +2024,7 @@ _วลี "และการอดอาหาร" (καὶ νηστείᾳ) �
 
 > ___
 
-**28** และมีธรรมาจารย์คนหนึ่งได้ยินพวกเขาโต้เถียงกัน และเห็นว่าพระองค์ตรัสตอบได้ดี จึงเข้ามาทูลถามพระองค์ว่า “พระบัญญัติข้อใดเป็นข้อเอกเหนือพระบัญญัติทั้งปวง?”
+**28** และมีธรรมาจารย์คนหนึ่งได้ยินพวกเขาโต้เถียงกัน เห็นว่าพระองค์ตรัสตอบได้ดี จึงเข้ามาทูลถามพระองค์ว่า “พระบัญญัติข้อใดเป็นข้อเอกเหนือพระบัญญัติทั้งปวง?”
 
 > ___
 
@@ -2816,18 +2816,18 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/mark_01.json` | `1021b3fc559326c63e51fdc826b1c38bf080daa4549df3e90c4c3d03988b48c6` |
-| `output/translations/mark_02.json` | `45afef2077fbd15759b97fae3618333ed4c446110370b26ee5af98c246d145b0` |
+| `output/translations/mark_01.json` | `5c2a0d53635c1af6a17d841c07415e5ef9598e2007f3c3d797aba9f90b7e9141` |
+| `output/translations/mark_02.json` | `75e16e8a1bb616ba798f61950a8cc59e85de5f71ac2b444a2488eda3663e0a9e` |
 | `output/translations/mark_03.json` | `6e52db6cf05c089d6a361fc60267a1d6db14deee88133bc3550da074ec9c7a79` |
 | `output/translations/mark_04.json` | `c06a13d9c066b46115f1d0dc0f570763a4c08e02f12b61a96e87c96f2c142039` |
 | `output/translations/mark_05.json` | `38804b64c74a479adcb59a639c2339dd819cad35109813e4d591fb469d705996` |
-| `output/translations/mark_06.json` | `85e991788d38f28dab8733a19b870527466aa900db69e815561ce205ea75d6b4` |
+| `output/translations/mark_06.json` | `4660f887af53997f38a7cbae6e3ab1427d2be7d6248e700923e44848e22bb814` |
 | `output/translations/mark_07.json` | `c474996c6a397755f163c54299b88ba3a6af220dd556ca95f4bf2f3c7f2d0533` |
-| `output/translations/mark_08.json` | `e90b3de7e2516a59145a87d291719cf3cffd91bdcd64189c35d64cbc4593074a` |
+| `output/translations/mark_08.json` | `dd0fb95b5abacaea74d83ba1c5b87db94906a29aef0184a6b44cee596b0776e0` |
 | `output/translations/mark_09.json` | `ddb34113ca6a1fe9b43b9a1760a33ce7d134fdc33764887a86337e7152bd4d1e` |
-| `output/translations/mark_10.json` | `f16cb70a33634b769a591f3f4de5e9c25e7b965e527914726a8f5b4b424659f3` |
-| `output/translations/mark_11.json` | `41295e038d24938e6237f3f2c2126588e42bbca17b157d32af1ab673c9fe354f` |
-| `output/translations/mark_12.json` | `402748f533b7a4856d07ac5214c0a85046ce15090e6ce5fb2bab54982363cd7a` |
+| `output/translations/mark_10.json` | `adb7e41472bfa4688aec54550cce3cd0978592f6bfa0164cbbead6d28e307821` |
+| `output/translations/mark_11.json` | `0107472d06329c0f86fb38709a0ee7008af84b96b375eaaa5b9786a07d977105` |
+| `output/translations/mark_12.json` | `ada70c6426f2a84bdb5ea4fcc82be9b57f46584d2160b4d9571334442f7659ac` |
 | `output/translations/mark_13.json` | `d122dcedff72858a79ce485a4608475196201f37b151560a2e02d814aaf8144f` |
 | `output/translations/mark_14.json` | `8fec3aa5c4cf4e643b393f71bbb5c01b5598d18589783fc072fcae13aa4a6253` |
 | `output/translations/mark_15.json` | `1bcb920cafcbfbc37709a87338602927af710df74dbd50668d6fa98ef89f856a` |

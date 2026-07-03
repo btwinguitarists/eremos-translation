@@ -1,6 +1,6 @@
 # ฟีเลโมน
 
-_Philemon — 1 chapter, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
+_Philemon — 1 chapter, translated from the SBLGNT Greek text into Thai by the Eremos Translation project. Verses follow English (BSB) numbering._
 
 _This **feedback edition** is the plain Thai translation with a `>` placeholder block under each verse for reviewer comments. **See the instructions immediately below before reading.** For the annotated edition (with contextual summaries), see `output/reader/philemon.md`; for the verses-only edition (no comment blocks), see `output/plain/philemon.md`._
 
@@ -147,5 +147,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/philemon_01.json` | `359420f302149807f4a1c6632aa1d7732d695fbecbba9647e8a4d596c2e3ac26` |
+| `output/translations/philemon_01.json` | `1a010fbdcae4ae43894f3cfd9d6e21376bfbc263f04dc3fa8844c856436681d4` |
 

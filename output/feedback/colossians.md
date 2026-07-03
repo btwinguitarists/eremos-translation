@@ -1,6 +1,6 @@
 # โคโลสี
 
-_Colossians — 4 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
+_Colossians — 4 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project. Verses follow English (BSB) numbering._
 
 _This **feedback edition** is the plain Thai translation with a `>` placeholder block under each verse for reviewer comments. **See the instructions immediately below before reading.** For the annotated edition (with contextual summaries), see `output/reader/colossians.md`; for the verses-only edition (no comment blocks), see `output/plain/colossians.md`._
 
@@ -410,7 +410,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**16** และเมื่อจดหมายฉบับนี้ได้รับการอ่านในหมู่พวกท่านแล้ว จงจัดให้มีการอ่านในคริสตจักรของชาวเลาดีเซียด้วย และจดหมายจากเมืองเลาดีเซีย พวกท่านก็จงอ่านด้วย
+**16** และเมื่อมีการอ่านจดหมายฉบับนี้ในหมู่พวกท่านแล้ว จงจัดให้มีการอ่านในคริสตจักรของชาวเลาดีเซียด้วย และจดหมายจากเมืองเลาดีเซีย พวกท่านก็จงอ่านด้วย
 
 > ___
 
@@ -433,5 +433,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/colossians_01.json` | `eef92c90dc4a020325acfcc6efaeda981d479f0afb637c230f42ff62b5f8bed9` |
 | `output/translations/colossians_02.json` | `3f2256da6863f944718b8bdd6dc0f345969e034a7082e1fb0540632187a97bed` |
 | `output/translations/colossians_03.json` | `17e946688dd4590eee7d9674a5115229714c94c9612866530d387dc8b61870fc` |
-| `output/translations/colossians_04.json` | `18c5d14a4abf041c6cce24fc5198b55e096c863b5b6d5045a42495d220713458` |
+| `output/translations/colossians_04.json` | `11b9d98690638fff358b18be59925f310cf455e8ad3b7c084fd6b865e1e9e231` |
 

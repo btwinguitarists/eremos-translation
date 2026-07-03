@@ -1,6 +1,6 @@
 # ทิตัส
 
-_Titus — 3 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
+_Titus — 3 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project. Verses follow English (BSB) numbering._
 
 _This **plain edition** shows only the Thai translation — no commentary, no Greek, no English. Intended for Thai scholars and theological reviewers evaluating the translation on its own terms. For the annotated edition with contextual summaries (บริบท), see `output/reader/titus.md`. For the underlying Greek, English (BSB) reference, and translator decisions per verse, see the per-chapter review reports at `output/check_reports/titus_NN_review.md` or the source JSON at `output/translations/`._
 
@@ -118,5 +118,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 |---|---|
 | `output/translations/titus_01.json` | `6b9bc5a855e4143fab405d9116d393e4ed8e929d99a62b3d2451d8043fb50100` |
 | `output/translations/titus_02.json` | `54cca3502fb1484c14c16b498528dd0e1691cb0d1650c2a21bae3fc079cf8180` |
-| `output/translations/titus_03.json` | `9f1e18c3acfb8283ae184cbf4466a6a43088ba9a7703c32fa0021721c638b90b` |
+| `output/translations/titus_03.json` | `ae6d73e432043adfd5b8f1c7ccdac693084026cab5e5b9fda7db7d05472e9648` |
 

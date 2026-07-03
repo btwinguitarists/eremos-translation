@@ -1,6 +1,6 @@
 # 1 โครินธ์
 
-_1 Corinthians — 16 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
+_1 Corinthians — 16 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project. Verses follow English (BSB) numbering._
 
 _This **feedback edition** is the plain Thai translation with a `>` placeholder block under each verse for reviewer comments. **See the instructions immediately below before reading.** For the annotated edition (with contextual summaries), see `output/reader/1corinthians.md`; for the verses-only edition (no comment blocks), see `output/plain/1corinthians.md`._
 
@@ -298,7 +298,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**19** เพราะปัญญาของโลกนี้เป็นความโง่เขลาในสายพระเนตรของพระเจ้า เพราะมีคำเขียนไว้ว่า “พระองค์ทรงจับคนมีปัญญาในความเจ้าเล่ห์ของพวกเขาเอง”
+**19** เพราะปัญญาของโลกนี้เป็นความโง่เขลาในสายพระเนตรของพระเจ้า ดังที่เขียนไว้ว่า “พระองค์ทรงจับคนมีปัญญาในความเจ้าเล่ห์ของพวกเขาเอง”
 
 > ___
 
@@ -386,7 +386,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**17** ด้วยเหตุนี้ข้าพเจ้าจึงส่งทิโมธีไปหาพวกท่าน เขาเป็นลูกที่รักของข้าพเจ้าและสัตย์ซื่อในองค์พระผู้เป็นเจ้า เขาจะระลึกพวกท่านถึงทางของข้าพเจ้าในพระเยซูคริสต์ ตามที่ข้าพเจ้าสั่งสอนอยู่ในทุกที่ทุกคริสตจักร
+**17** ด้วยเหตุนี้ข้าพเจ้าจึงส่งทิโมธีไปหาพวกท่าน เขาเป็นลูกที่รักของข้าพเจ้าและสัตย์ซื่อในองค์พระผู้เป็นเจ้า เขาจะเตือนความจำพวกท่านถึงทางของข้าพเจ้าในพระเยซูคริสต์ ตามที่ข้าพเจ้าสั่งสอนอยู่ในทุกที่ทุกคริสตจักร
 
 > ___
 
@@ -450,7 +450,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**11** แต่บัดนี้ข้าพเจ้าเขียนถึงพวกท่านว่าอย่าคบหา ถ้ามีผู้ใดที่ได้ชื่อว่าเป็นพี่น้อง แต่เป็นคนล่วงประเวณี หรือคนละโมบ หรือคนกราบไหว้รูปเคารพ หรือคนด่าหยาบ หรือคนขี้เมา หรือคนปล้นชิง อย่าแม้กระทั่งกินด้วยกันกับคนเช่นนั้น
+**11** แต่บัดนี้ข้าพเจ้าเขียนถึงพวกท่านว่าอย่าคบหา ถ้ามีผู้ใดที่ได้ชื่อว่าเป็นพี่น้อง กลับเป็นคนล่วงประเวณี หรือคนละโมบ หรือคนกราบไหว้รูปเคารพ หรือคนด่าหยาบ หรือคนขี้เมา หรือคนปล้นชิง อย่าแม้กระทั่งกินด้วยกันกับคนเช่นนั้น
 
 > ___
 
@@ -506,7 +506,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**11** และพวกท่านบางคนก็เคยเป็นเช่นนี้ แต่พวกท่านได้รับการชำระแล้ว ได้รับการชำระให้บริสุทธิ์แล้ว ได้รับการนับว่าชอบธรรมแล้ว ในพระนามของพระเยซูคริสต์องค์พระผู้เป็นเจ้า และโดยพระวิญญาณของพระเจ้าของเรา
+**11** และพวกท่านบางคนก็เคยเป็นเช่นนี้ แต่พวกท่านได้รับการชำระแล้ว ได้รับการชำระให้บริสุทธิ์แล้ว ได้รับการประกาศว่าชอบธรรมแล้ว ในพระนามของพระเยซูคริสต์องค์พระผู้เป็นเจ้า และโดยพระวิญญาณของพระเจ้าของเรา
 
 > ___
 
@@ -526,7 +526,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**16** หรือพวกท่านไม่รู้หรือว่าผู้ที่ผูกพันกับหญิงโสเภณีก็เป็นกายเดียวกันกับนาง? เพราะมีคำเขียนไว้ว่า “ทั้งสองจะเป็นเนื้อเดียวกัน”
+**16** หรือพวกท่านไม่รู้ว่าผู้ที่ผูกพันกับหญิงโสเภณีก็เป็นกายเดียวกันกับนาง? เพราะมีคำเขียนไว้ว่า “ทั้งสองจะเป็นเนื้อเดียวกัน”
 
 > ___
 
@@ -798,7 +798,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**8** ข้าพเจ้ากล่าวสิ่งเหล่านี้จากมุมมองของมนุษย์เท่านั้นหรือ? หรือว่าธรรมบัญญัติก็กล่าวเช่นเดียวกันด้วยไม่ใช่หรือ?
+**8** ข้าพเจ้ากล่าวสิ่งเหล่านี้จากมุมมองของมนุษย์เท่านั้นหรือ? หรือว่าธรรมบัญญัติก็ไม่ได้กล่าวสิ่งเหล่านี้ด้วยหรือ?
 
 > ___
 
@@ -922,7 +922,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**11** สิ่งเหล่านี้เกิดขึ้นกับพวกเขาเป็นแบบอย่าง และได้รับการเขียนไว้เพื่อเป็นข้อตักเตือนสำหรับเรา ผู้ที่อยู่ในยุคสุดท้ายของยุคทั้งหลาย
+**11** สิ่งเหล่านี้เกิดขึ้นกับพวกเขาเป็นแบบอย่าง และเขียนไว้เพื่อเป็นข้อตักเตือนสำหรับเรา ผู้ที่อยู่ในยุคสุดท้ายของยุคทั้งหลาย
 
 > ___
 
@@ -1454,7 +1454,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**29** ส่วนผู้พยากรณ์ ก็ให้สองคนหรือสามคนพูด และให้คนอื่นๆ พิจารณาสิ่งที่กล่าว
+**29** ส่วนผู้เผยพระวจนะ ก็ให้สองคนหรือสามคนพูด และให้คนอื่นๆ พิจารณาสิ่งที่กล่าว
 
 > ___
 
@@ -1466,7 +1466,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**32** และวิญญาณของผู้พยากรณ์ทั้งหลายก็อยู่ภายใต้การควบคุมของผู้พยากรณ์
+**32** และวิญญาณของผู้เผยพระวจนะทั้งหลายก็อยู่ภายใต้การควบคุมของผู้เผยพระวจนะ
 
 > ___
 
@@ -1478,7 +1478,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**35** ถ้าพวกเธอต้องการเรียนรู้สิ่งใด ก็ให้ถามสามีของเธอเองที่บ้าน เพราะเป็นการน่าอับอายสำหรับผู้หญิงที่จะพูดในคริสตจักร
+**35** ถ้าพวกเธอต้องการเรียนรู้สิ่งใด ก็ให้ถามสามีของเธอเองที่บ้าน เพราะเป็นเรื่องน่าอับอายสำหรับผู้หญิงที่จะพูดในคริสตจักร
 
 > ___
 
@@ -1486,7 +1486,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**37** ถ้าผู้ใดถือว่าตนเองเป็นผู้พยากรณ์หรือผู้มีจิตวิญญาณ ก็จงยอมรับเถิดว่าสิ่งที่ข้าพเจ้าเขียนถึงพวกท่านนี้เป็นพระบัญชาขององค์พระผู้เป็นเจ้า
+**37** ถ้าผู้ใดถือว่าตนเองเป็นผู้เผยพระวจนะหรือผู้มีจิตวิญญาณ ก็จงยอมรับเถิดว่าสิ่งที่ข้าพเจ้าเขียนถึงพวกท่านนี้เป็นพระบัญชาขององค์พระผู้เป็นเจ้า
 
 > ___
 
@@ -1666,7 +1666,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**41** สง่าราศีของดวงอาทิตย์ก็เป็นอย่างหนึ่ง สง่าราศีของดวงจันทร์ก็เป็นอีกอย่างหนึ่ง และสง่าราศีของดวงดาวก็เป็นอีกอย่างหนึ่ง เพราะแม้แต่ดาวต่อดาวก็มีสง่าราศีต่างกัน
+**41** สง่าราศีของดวงอาทิตย์ก็เป็นอย่างหนึ่ง สง่าราศีของดวงจันทร์ก็เป็นอีกอย่างหนึ่ง และสง่าราศีของดวงดาวก็เป็นอีกอย่างหนึ่ง เพราะดาวแต่ละดวงก็มีสง่าราศีต่างกัน
 
 > ___
 
@@ -1746,7 +1746,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**2** ในวันแรกของสัปดาห์ ให้แต่ละคนของพวกท่านตั้งไว้ที่ตนเอง สะสมไว้ตามที่ตนเจริญรุ่งเรือง เพื่อจะไม่ต้องเก็บถวายอีกเมื่อข้าพเจ้ามาถึง
+**2** ในวันแรกของสัปดาห์ ให้แต่ละคนของพวกท่านแยกเก็บสะสมไว้เองตามที่ตนเจริญรุ่งเรือง เพื่อจะไม่ต้องเก็บถวายอีกเมื่อข้าพเจ้ามาถึง
 
 > ___
 
@@ -1848,18 +1848,18 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 |---|---|
 | `output/translations/1corinthians_01.json` | `8fe037408a33ea46742512e6d4741d9a035ddc8127501975619c18e4bd65b4d0` |
 | `output/translations/1corinthians_02.json` | `f89965365f3b0cad6b1261fe5cd39b2da70105281caa91fd248c10286a72374d` |
-| `output/translations/1corinthians_03.json` | `74a50d950382fd67d2e3f8e9044d8d062469aa8709ac575b4f019132624afc9e` |
-| `output/translations/1corinthians_04.json` | `60c21ddc5b146a28b71701b71923742b5fb9361f6bd057e5daf2f163c2ca09a3` |
-| `output/translations/1corinthians_05.json` | `ad3a9c33a2b75b6ce694c824542ee985de70b3c11c511a55d18d414d6b1e25f3` |
-| `output/translations/1corinthians_06.json` | `99110afdd6229e47f5ac26188551852d4db158c07382dab619ee9a4833d85a24` |
+| `output/translations/1corinthians_03.json` | `08e042f1494b0a04a2bd2e360e6983fe4a567b7cd24fb95863b2143079dc50d7` |
+| `output/translations/1corinthians_04.json` | `7c5e9e26dfbd6f7d843a3df8ef62b7297a09d27a17f845c913528d1fd385706f` |
+| `output/translations/1corinthians_05.json` | `9a239466aa383105cd196d915889d7d9176e93e466fd57c3300a83ad9c35125a` |
+| `output/translations/1corinthians_06.json` | `8198559711e7acaf1dc9d1adf41b0f45325d9ec2b3071f970e0c0b0de2bd1a4c` |
 | `output/translations/1corinthians_07.json` | `a18184144cf306a2513a9615e492c70faf8cc6a3871d4dc79eee730d3b80ca2c` |
 | `output/translations/1corinthians_08.json` | `815df54bc66f78e92fb31021830cc9ae82929d6e06046ae72ce1e62002ef9067` |
-| `output/translations/1corinthians_09.json` | `cd45fea5d2fdbdd8415247315e0b6568069b30b5c567c05b25216041334d7321` |
-| `output/translations/1corinthians_10.json` | `dcf3c08e0e124449388cb0f93ebd135349f366f1f9153ec40cfaad2fb2443da6` |
+| `output/translations/1corinthians_09.json` | `9097bd65ec34e8944749df8b628e3384f3b76c898659b24b680353e548e62394` |
+| `output/translations/1corinthians_10.json` | `8f23e3620cb8a32433a6d2908ef133952664b0e10ac555a2548f45b8a175785e` |
 | `output/translations/1corinthians_11.json` | `cf82a092d2c63cb0f4b37d4d517d0989f9149704d8e096ac05ccd5954f47b194` |
 | `output/translations/1corinthians_12.json` | `95bf5fd6626e97fa31d8f3180c4f6294c1bd3f81742ebd863e2b56c59012d3d5` |
 | `output/translations/1corinthians_13.json` | `66c21bd57cb79fc964478ccf1f6f0c5a382777f96e49be32fb50666a66bbb27e` |
-| `output/translations/1corinthians_14.json` | `a83858fb74a2acdbbddab56fb6bec2c2be7a8b7fc46fc8bc76a3e252dbb00e42` |
-| `output/translations/1corinthians_15.json` | `bbd07179f1da46f06714d9101ac7b5d983fd524a942a306c07ddc7469594a0f3` |
-| `output/translations/1corinthians_16.json` | `c8eac724563f289b1bb5e21f461497a8319b6f2e94d8ca027e938f9cb5e7ccb3` |
+| `output/translations/1corinthians_14.json` | `fd751079060a2cdc11047428ca6c5f246afae6e17dcd3d486744681e623c95ae` |
+| `output/translations/1corinthians_15.json` | `f3e47bcd2667a869826a20a911bf097ce2216eba8b26f6bbfba9470889fbf4f3` |
+| `output/translations/1corinthians_16.json` | `a8deab69d82f0b049df96ee74a09aec3ba1f5f7bfaeb8cacbf5640cd25983c27` |
 

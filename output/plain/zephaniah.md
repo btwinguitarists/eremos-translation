@@ -1,6 +1,6 @@
 # เศฟันยาห์
 
-_Zephaniah — 3 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
+_Zephaniah — 3 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project. Verses follow English (BSB) numbering._
 
 _This **plain edition** shows only the Thai translation — no commentary, no Greek, no English. Intended for Thai scholars and theological reviewers evaluating the translation on its own terms. For the annotated edition with contextual summaries (บริบท), see `output/reader/zephaniah.md`. For the underlying Greek, English (BSB) reference, and translator decisions per verse, see the per-chapter review reports at `output/check_reports/zephaniah_NN_review.md` or the source JSON at `output/translations/`._
 

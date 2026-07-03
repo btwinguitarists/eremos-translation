@@ -1,6 +1,6 @@
 # ยากอบ
 
-_James — 5 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
+_James — 5 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project. Verses follow English (BSB) numbering._
 
 _This **feedback edition** is the plain Thai translation with a `>` placeholder block under each verse for reviewer comments. **See the instructions immediately below before reading.** For the annotated edition (with contextual summaries), see `output/reader/james.md`; for the verses-only edition (no comment blocks), see `output/plain/james.md`._
 
@@ -342,7 +342,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**5** หรือท่านคิดว่าพระคัมภีร์กล่าวอย่างเปล่าประโยชน์หรือว่า “วิญญาณที่พระองค์ทรงให้สถิตในเราโหยหาด้วยความริษยา”
+**5** หรือท่านคิดว่าพระคัมภีร์กล่าวอย่างเปล่าประโยชน์หรือว่า “วิญญาณที่พระองค์ทรงให้สถิตในเราโหยหาด้วยความหึงหวง”
 
 > ___
 
@@ -489,6 +489,6 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/james_01.json` | `d493f72c16a0a05776625567731b705eb0fbc3399685fa95d5e45a888ea670c7` |
 | `output/translations/james_02.json` | `24fe583b63efce3b4e5e23ea02ed30abb45155e80d575ddc0c6bddd201b091ef` |
 | `output/translations/james_03.json` | `3808eccaa5550cc2fda97cd0dce2538331998823e416bf1c48ab042c3ba969d6` |
-| `output/translations/james_04.json` | `09b99d8f7f57b7b9e498433dcd1f08239fdfb13a0fe7ed62ef514edcfb7467f5` |
+| `output/translations/james_04.json` | `3b61bd19e8da7e5dd9c3681a31efbf7854e8f7fd8d20d47ffbc1a4f73289bf05` |
 | `output/translations/james_05.json` | `cdd0acb6927085b9b36656e407bea5164fc4efaf311e82378334632582f3ac55` |
 

@@ -1,6 +1,6 @@
 # ฮักกัย
 
-_Haggai — 2 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
+_Haggai — 2 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project. Verses follow English (BSB) numbering._
 
 _This **feedback edition** is the plain Thai translation with a `>` placeholder block under each verse for reviewer comments. **See the instructions immediately below before reading.** For the annotated edition (with contextual summaries), see `output/reader/haggai.md`; for the verses-only edition (no comment blocks), see `output/plain/haggai.md`._
 
