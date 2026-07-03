@@ -1,6 +1,6 @@
 # กิจการของอัครทูต
 
-_Acts — 28 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
+_Acts — 28 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project. Verses follow English (BSB) numbering._
 
 _This **plain edition** shows only the Thai translation — no commentary, no Greek, no English. Intended for Thai scholars and theological reviewers evaluating the translation on its own terms. For the annotated edition with contextual summaries (บริบท), see `output/reader/acts.md`. For the underlying Greek, English (BSB) reference, and translator decisions per verse, see the per-chapter review reports at `output/check_reports/acts_NN_review.md` or the source JSON at `output/translations/`._
 
@@ -566,7 +566,7 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **12** แต่เมื่อพวกเขาเชื่อฟีลิปที่ประกาศข่าวประเสริฐเรื่องอาณาจักรของพระเจ้าและพระนามของพระเยซูคริสต์ ก็มีการรับบัพติศมา ทั้งชายและหญิง
 
-**13** แม้แต่ซีโมนเองก็เชื่อด้วย และเมื่อรับบัพติศมาแล้วเขาก็ติดตามฟีลิปอย่างใกล้ชิด และเมื่อเห็นหมายสำคัญกับการอัศจรรย์อันยิ่งใหญ่ที่เกิดขึ้น เขาก็ตะลึงงัน
+**13** แม้แต่ซีโมนเองก็เชื่อด้วย และเมื่อรับบัพติศมาแล้วเขาก็ติดตามฟีลิปอย่างใกล้ชิด เมื่อเห็นหมายสำคัญกับการอัศจรรย์อันยิ่งใหญ่ที่เกิดขึ้น เขาก็ตะลึงงัน
 
 **14** ฝ่ายพวกอัครทูตในกรุงเยรูซาเล็มเมื่อได้ยินว่าชาวสะมาเรียได้รับพระวจนะของพระเจ้าแล้ว จึงส่งเปโตรและยอห์นลงไปหาพวกเขา
 
@@ -619,21 +619,6 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 **39** เมื่อทั้งสองขึ้นจากน้ำ พระวิญญาณขององค์พระผู้เป็นเจ้าก็ทรงรับฟีลิปไป ขันทีไม่เห็นท่านอีกเลย แต่ก็เดินทางต่อไปอย่างชื่นชมยินดี
 
 **40** ส่วนฟีลิปนั้นไปปรากฏตัวที่เมืองอาโซทัส และเดินทางผ่านไปประกาศข่าวประเสริฐตามเมืองต่าง ๆ จนถึงเมืองซีซารียา
-
----
-
-### หมายเหตุด้านต้นฉบับ
-
-**ข้อ 37** — ขาดในต้นฉบับวิจารณ์ (SBLGNT)
-
-> ฟีลิปจึงกล่าวว่า «ถ้าท่านเชื่อด้วยสุดใจ ก็รับบัพติศมาได้» ท่านจึงตอบว่า «ข้าพเจ้าเชื่อว่าพระเยซูคริสต์เป็นพระบุตรของพระเจ้า»
-
-_ข้อ 37 ขาดในต้นฉบับพันธสัญญาใหม่ที่เก่าและเชื่อถือได้ที่สุด (ปาปิรัส P45, P74, ซีนายติคัส, วาติกานัส, อเล็กซานดรินัส, เอเฟรม) และไม่มีในฉบับมาตรฐานวิจารณ์ยุคใหม่ (SBLGNT, NA28, UBS5) ข้อนี้ดูเหมือนจะเป็นการเพิ่มเข้ามาในสมัยแรกของคริสตจักร (อิเรเนอัสราว ค.ศ. 180 ได้อ้างข้อนี้แล้ว) โดยสะท้อนคำสารภาพบัพติศมาของคริสตจักรยุคต้น ฉบับภาษาอังกฤษสมัยใหม่ (ESV, NIV, BSB, CSB) ทุกฉบับละไว้ในเนื้อหาหลักและกล่าวถึงในเชิงอรรถเท่านั้น ฉบับแอเรมอสเลือกตามต้นฉบับวิจารณ์ดังที่ทำกับข้ออื่นๆ ในประเภทนี้ (มธ 17:21, 18:11, 23:14) ลำดับเลขข้อจึงข้ามจาก 36 ไป 38_
-
-ต้นฉบับที่รวมไว้: TR, Byzantine-minority (not majority), some Old-Latin (it^ar,c,e,gig,h,l,m,p,ph), Vulgate (some), Irenaeus (Haer. 3.12.8), Cyprian (Test. 3.43), THKJV/KJV, standard Thai (as footnote)
-
-ต้นฉบับที่ละไว้: SBLGNT, NA28, UBS5, P^45, P^74, Codex Sinaiticus (ℵ), Vaticanus (B), Alexandrinus (A), Ephraemi (C), the Byzantine-majority, most Syriac (sy^p, sy^h mg), Coptic (Sahidic, Bohairic), Vulgate (critical ed.); ESV, NIV, BSB, CSB, NASB
-
 
 ---
 
@@ -1197,21 +1182,6 @@ _ข้อ 37 ขาดในต้นฉบับพันธสัญญาใ
 
 ---
 
-### หมายเหตุด้านต้นฉบับ
-
-**ข้อ 34** — ขาดในต้นฉบับวิจารณ์ (SBLGNT)
-
-> แต่สิลาสเห็นสมควรที่จะพำนักอยู่ที่นั่นต่อไป
-
-_ข้อ 34 ขาดในต้นฉบับพันธสัญญาใหม่ที่เก่าและเชื่อถือได้ที่สุด (ปาปิรัส P33, P45, P74, ซีนายติคัส, วาติกานัส, อเล็กซานดรินัส) และไม่มีในฉบับมาตรฐานวิจารณ์ยุคใหม่ (SBLGNT, NA28, UBS5) ข้อนี้ดูเหมือนจะเป็นการเพิ่มเข้ามาในสมัยแรกของคริสตจักร โดยผู้คัดลอกที่ต้องการอธิบายว่าสิลาสมาอยู่ในอันทิโอกได้อย่างไรในข้อ 40 (เพราะข้อ 33 กล่าวว่าสิลาสและยูดาสกลับไปยังเยรูซาเล็ม) แต่ความเป็นไปได้ก็คือ ระหว่างการอยู่ในเยรูซาเล็มสั้นๆ สิลาสก็กลับไปยังอันทิโอกเพื่อร่วมเดินทางกับเปาโล ฉบับภาษาอังกฤษสมัยใหม่ (ESV, NIV, BSB, CSB, NASB) ทุกฉบับละไว้ในเนื้อหาหลักและกล่าวถึงในเชิงอรรถเท่านั้น ฉบับแอเรมอสเลือกตามต้นฉบับวิจารณ์ดังที่ทำกับข้ออื่นๆ ในประเภทนี้ (มธ 17:21, 18:11, 23:14; กจ 8:37) ลำดับเลขข้อจึงข้ามจาก 33 ไป 35_
-
-ต้นฉบับที่รวมไว้: TR, Byzantine-minority (not majority), C (Ephraemi), D (Bezae — with expanded reading 'and Judas returned alone to Jerusalem'), some Old-Latin (it^c,d,dem,e,gig,p,ph,ro,w), Vulgate (most), Syriac (some), THKJV/KJV, standard Thai (as footnote), some early-modern Thai translations
-
-ต้นฉบับที่ละไว้: SBLGNT, NA28, UBS5, P^33, P^45, P^74, Codex Sinaiticus (ℵ), Vaticanus (B), Alexandrinus (A), H, L, P, Ψ, the Byzantine-majority, Peshitta, Coptic (Sahidic, Bohairic); ESV, NIV, BSB, CSB, NASB, RSV
-
-
----
-
 ## บทที่ 16
 
 **1** เปาโลเดินทางมาถึงเมืองเดอร์บีและเมืองลิสตรา และดูเถิด มีสาวกคนหนึ่งอยู่ที่นั่นชื่อทิโมธี เป็นบุตรของหญิงชาวยิวคนหนึ่งซึ่งเป็นผู้เชื่อ บิดาเป็นชาวกรีก
@@ -1306,7 +1276,7 @@ _ข้อ 34 ขาดในต้นฉบับพันธสัญญาใ
 
 **4** บางคนในพวกเขาก็เชื่อและเข้าสมทบกับเปาโลและสิลาส รวมทั้งชาวกรีกที่ยำเกรงพระเจ้าจำนวนมาก และสตรีชั้นสูงไม่น้อย
 
-**5** แต่พวกผู้นำชาวยิวเกิดความริษยา จึงเอาคนเลวๆ บางคนจากตลาด ก่อตัวเป็นฝูงชนวุ่นวาย และทำให้เมืองเกิดจลาจล พวกเขาบุกบ้านของยาโสน หวังจะนำเปาโลกับสิลาสออกมามอบให้ฝูงชน
+**5** แต่พวกผู้นำชาวยิวเกิดความริษยา จึงเอาคนเลวๆ บางคนจากตลาด ก่อตัวเป็นฝูงชนวุ่นวาย และทำให้เมืองเกิดจลาจล พวกเขาบุกบ้านของยาโสน พยายามจะนำเปาโลกับสิลาสออกมามอบให้ฝูงชน
 
 **6** เมื่อไม่พบเปาโลกับสิลาส พวกเขาจึงลากยาโสนและพี่น้องบางคนไปหาบรรดาเจ้าหน้าที่ปกครองเมือง ร้องตะโกนว่า “คนเหล่านี้ที่ก่อความวุ่นวายไปทั่วโลก บัดนี้ก็มาถึงที่นี่ด้วย
 
@@ -1508,7 +1478,9 @@ _ข้อ 34 ขาดในต้นฉบับพันธสัญญาใ
 
 **39** แต่ถ้าท่านแสวงหาสิ่งอื่นเพิ่มเติม เรื่องนั้นจะต้องได้รับการพิจารณาในที่ประชุมตามกฎหมาย
 
-**40** เพราะพวกเราเสี่ยงที่จะถูกฟ้องเรื่องการก่อจลาจลจากเหตุการณ์วันนี้ เราไม่มีเหตุผลที่จะอธิบายเรื่องการชุมนุมครั้งนี้ได้เลย” เมื่อกล่าวเช่นนี้แล้ว เขาก็ปล่อยที่ประชุมให้ยุติ
+**40** เพราะพวกเราเสี่ยงที่จะถูกฟ้องเรื่องการก่อจลาจลจากเหตุการณ์วันนี้ เราไม่มีเหตุผลที่จะอธิบายเรื่องการชุมนุมครั้งนี้ได้เลย”
+
+**41** เมื่อกล่าวเช่นนี้แล้ว เขาก็ปล่อยที่ประชุมให้ยุติ
 
 ---
 
@@ -1612,7 +1584,7 @@ _ข้อ 34 ขาดในต้นฉบับพันธสัญญาใ
 
 **9** ฟีลิปมีบุตรสาวสี่คนที่ยังเป็นหญิงพรหมจารีและทุกคนกล่าวพยากรณ์
 
-**10** ขณะที่พวกเราพักอยู่ที่นั่นหลายวัน มีผู้พยากรณ์คนหนึ่งชื่ออากาบัสลงมาจากแคว้นยูเดีย
+**10** ขณะที่พวกเราพักอยู่ที่นั่นหลายวัน มีผู้เผยพระวจนะคนหนึ่งชื่ออากาบัสลงมาจากแคว้นยูเดีย
 
 **11** ท่านเข้ามาหาพวกเรา หยิบสายคาดเอวของเปาโลมาผูกมัดเท้าและมือของตนเอง แล้วกล่าวว่า “พระวิญญาณบริสุทธิ์ตรัสดังนี้ว่า ‘พวกยิวที่กรุงเยรูซาเล็มจะมัดเจ้าของสายคาดเอวเส้นนี้ในลักษณะนี้ และจะมอบเขาไว้ในมือของคนต่างชาติ’”
 
@@ -1867,21 +1839,6 @@ _ข้อ 34 ขาดในต้นฉบับพันธสัญญาใ
 **26** ในเวลาเดียวกันเฟลิกซ์ก็หวังว่าเปาโลจะให้เงินสินบนแก่ตน ดังนั้นเขาจึงสั่งให้นำเปาโลมาบ่อยครั้งและสนทนากับท่าน
 
 **27** เมื่อสองปีผ่านไป เฟลิกซ์ก็ได้ปอร์กิอัส เฟสทัสมาเป็นผู้สืบทอดตำแหน่ง เฟลิกซ์ต้องการเอาใจชาวยิว จึงทิ้งเปาโลไว้ในการจองจำต่อไป
-
----
-
-### หมายเหตุด้านต้นฉบับ
-
-**ข้อ 7** — ขาดในต้นฉบับวิจารณ์ (SBLGNT)
-
-> และเราต้องการพิพากษาเขาตามธรรมบัญญัติของเรา แต่นายพันลีเซียสได้เข้ามาและใช้กำลังมากดึงตัวเขาออกไปจากมือของเรา และสั่งให้ผู้กล่าวหาเขามาหาท่าน
-
-_ส่วนปลายของข้อ 6 ทั้งหมดของข้อ 7 และส่วนต้นของข้อ 8 ขาดในต้นฉบับพันธสัญญาใหม่ที่เก่าและเชื่อถือได้ที่สุด (ปาปิรัส P74, ซีนายติคัส, วาติกานัส, อเล็กซานดรินัส, เอเฟรม) และไม่มีในฉบับมาตรฐานวิจารณ์ยุคใหม่ (SBLGNT, NA28, UBS5) ส่วนนี้ดูเหมือนจะเป็นการเพิ่มเข้ามาในสมัยแรกของคริสตจักรโดยผู้คัดลอกที่ต้องการอธิบายว่าทำไมเทอร์ทูลลัสถึงเชิญเฟลิกซ์มาตรวจสอบเปาโลเอง — ส่วนเพิ่มเติมระบุว่า เพราะนายพันลีเซียสเข้ามาแย่งเปาโลออกจากชาวยิว ฉบับภาษาอังกฤษสมัยใหม่ (ESV, NIV, BSB, CSB, NASB, RSV) ทุกฉบับละไว้ในเนื้อหาหลักและกล่าวถึงในเชิงอรรถเท่านั้น ฉบับแอเรมอสเลือกตามต้นฉบับวิจารณ์ดังที่ทำกับข้ออื่นๆ ในประเภทนี้ (มธ 17:21, 18:11, 23:14; กจ 8:37, 15:34) ลำดับเลขข้อในเนื้อหาหลักจึงข้ามจาก 6 ไป 8 unfoldingWord Translation Notes (กจ 24:6) ระบุว่า «ข้อนี้ไม่อยู่ในต้นฉบับโบราณที่เชื่อถือได้ที่สุด» และแนะนำให้ใส่เครื่องหมายวงเล็บหรือเชิงอรรถสำหรับฉบับที่ตามต้นฉบับวิจารณ์ ซึ่งตรงกับการรักษามาตรฐานของเรา ผลในเชิงเทววิทยาและประวัติศาสตร์ — ข้อมูลในส่วนเพิ่มเติมไม่เปลี่ยนใจหลักของการเล่าเรื่อง (ผู้อ่าน ACT 21:30-36 เข้าใจอยู่แล้วว่าลีเซียสเข้ามาช่วยเปาโลจากฝูงชนชาวยิว) — แต่การเพิ่มเข้ามานี้ทำให้เทอร์ทูลลัสมีน้ำเสียงโจมตีลีเซียสว่า «ใช้กำลังมาก» (πολλῆς βίας) ซึ่งเป็นข้อหาทางการเมืองที่อาจทำให้เฟลิกซ์ต้องเรียกลีเซียสมาให้การ — แต่ในฉบับวิจารณ์ที่สั้นกว่า เทอร์ทูลลัสเพียงเชิญเฟลิกซ์ตรวจสอบเปาโลเองโดยไม่โจมตีลีเซียส_
-
-ต้นฉบับที่รวมไว้: TR, Byzantine-majority, E (Laudianus, ~6th c.), Ψ (~9th c.), 33, 614, 945, 1739 (mg), 2495, Old-Latin (it^e,gig,p,ph,ro,w), Vulgate (some), Peshitta-Syriac (with variation), Bohairic-Coptic (mss), Lucifer-of-Cagliari, KJV, NKJV, THKJV, standard Thai (as footnote)
-
-ต้นฉบับที่ละไว้: SBLGNT, NA28, UBS5, P^74, Codex Sinaiticus (ℵ), Vaticanus (B), Alexandrinus (A), C (Ephraemi), 81, 1175, Sahidic-Coptic, Ethiopic, Vulgate (critical-ed.); ESV, NIV, BSB, CSB, NASB, RSV
-
 
 ---
 
@@ -2143,7 +2100,7 @@ _ส่วนปลายของข้อ 6 ทั้งหมดของข�
 
 **19** แต่เมื่อชาวยิวคัดค้าน ข้าพเจ้าจึงจำเป็นต้องอุทธรณ์ต่อซีซาร์ มิใช่ว่าข้าพเจ้ามีข้อกล่าวหาอันใดต่อชนชาติของข้าพเจ้า
 
-**20** ดังนั้น เพราะเหตุนี้ ข้าพเจ้าจึงเชิญพวกท่านมาพบและสนทนากัน เพราะข้าพเจ้าถูกล่ามด้วยโซ่นี้ก็เนื่องด้วยความหวังของอิสราเอล”
+**20** เพราะเหตุนี้ ข้าพเจ้าจึงเชิญพวกท่านมาพบและสนทนากัน เพราะข้าพเจ้าถูกล่ามด้วยโซ่นี้ก็เนื่องด้วยความหวังของอิสราเอล”
 
 **21** พวกเขาตอบเปาโลว่า “พวกเรามิได้รับจดหมายเกี่ยวกับท่านจากแคว้นยูเดีย และไม่มีพี่น้องคนใดจากที่นั่นมารายงานหรือกล่าวร้ายอันใดเกี่ยวกับท่านเลย
 
@@ -2167,53 +2124,38 @@ _ส่วนปลายของข้อ 6 ทั้งหมดของข�
 
 ---
 
-### หมายเหตุด้านต้นฉบับ
-
-**ข้อ 29** — ขาดในต้นฉบับวิจารณ์ (SBLGNT)
-
-> เมื่อท่านได้กล่าวสิ่งเหล่านี้แล้ว ชาวยิวก็จากไป โดยมีการโต้เถียงกันอย่างหนักในหมู่พวกเขาเอง
-
-_ข้อ 29 ขาดในต้นฉบับพันธสัญญาใหม่ที่เก่าและเชื่อถือได้ที่สุด (ปาปิรัส P74, ซีนายติคัส, วาติกานัส, อเล็กซานดรินัส, เอเฟรม) และไม่มีในฉบับมาตรฐานวิจารณ์ยุคใหม่ (SBLGNT, NA28, UBS5) แม้แต่ต้นฉบับไบแซนไทน์ส่วนใหญ่ก็ละไว้ ข้อนี้ดูเหมือนจะเป็นการเสริมเข้ามาในยุคหลัง เพื่อให้ฉากการเปลี่ยนผ่านจากข้อ 28 (เปาโลกล่าวสรุปแก่ชาวยิว) ไปยังข้อ 30 (เปาโลพักอยู่ในบ้านเช่า) ราบรื่นขึ้น ฉบับภาษาอังกฤษสมัยใหม่ (ESV, NIV, BSB, CSB) ทุกฉบับละไว้ในเนื้อหาหลักและกล่าวถึงในเชิงอรรถเท่านั้น ฉบับแอเรมอสเลือกตามต้นฉบับวิจารณ์ดังที่ทำกับข้ออื่นๆ ในประเภทนี้ (มธ. 17:21, 18:11, 23:14; กจ. 8:37) ลำดับเลขข้อจึงข้ามจาก 28 ไป 30_
-
-ต้นฉบับที่รวมไว้: TR (Stephanus 1550, Beza 1598), Byzantine-minority, Old-Latin (it^ar,e,gig,p,ph,ro,w), Vulgate (some), Syriac Harklean (margin), THKJV/KJV, standard Thai (as footnote in some editions)
-
-ต้นฉบับที่ละไว้: SBLGNT, NA28, UBS5, P^74, Codex Sinaiticus (ℵ), Vaticanus (B), Alexandrinus (A), Ephraemi (C), Codex 044 (Ψ), Codex 048, the Byzantine-majority, Coptic (Sahidic, Bohairic), Vulgate (critical ed.), Syriac Peshitta (sy^p); ESV, NIV, BSB, CSB, NASB
-
-
----
-
 ## Verification
 
 Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and verify against the manifest at `HASHES.md` to confirm they have the canonical Eremos Translation of that chapter.
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/acts_01.json` | `cc3574d90c4b6f71f2a97f982172d02369ddd0697eaa00d9c567c986e4bd99a0` |
-| `output/translations/acts_02.json` | `485a725007196c655728072e5c85870a24b27507f6cf498c4c7e7a5e5c14398c` |
-| `output/translations/acts_03.json` | `40f62c30b35e9d69374af97e047e340cde76077145bd972380b98ed6791b499c` |
-| `output/translations/acts_04.json` | `1f64f2036face5038ae8e1fa5bb0e66cb6c9d78f038e1d415df1e4fd4ac63a3f` |
+| `output/translations/acts_01.json` | `cfac090d5ba9166eb0dc1365ae10d9371ffe61dcc11fd620c8879ea38d77f458` |
+| `output/translations/acts_02.json` | `781e14ee287de11d6ff847cd595d46154424498ad955828f27fd657dcfac0f36` |
+| `output/translations/acts_03.json` | `c97ad7889c3a09cf21093ecff4418de2f39bc3ddccd6510be850476ab3ba61f7` |
+| `output/translations/acts_04.json` | `dec0b5a2858ad08da189d8b82ee4f47d954429e8291cc9566382ba183c521cc9` |
 | `output/translations/acts_05.json` | `be2e809e2455301ca8510295e16e0f47316817bf5a27f03c40855e4a764b3f1e` |
 | `output/translations/acts_06.json` | `b3d86b86afdfda27864003e8038c7599a27aca4d890cf083d2e746d9964b313e` |
 | `output/translations/acts_07.json` | `dec6ff68a6de7968b1e5abaced3a470152a01754adc03f3917a65db6cd4957f2` |
-| `output/translations/acts_08.json` | `3c9af5b73fc86a592683d8c4f34cabf808144154e02a5d47fd9d13871a433193` |
-| `output/translations/acts_09.json` | `b9ebc31be77cbfb76ea7c98d39440a3b05af13bbe432626277fb7f4b0eece042` |
+| `output/translations/acts_08.json` | `946e0f47751d2d701453416938230274fdf499ee3981f34ee991f7b67a2c9940` |
+| `output/translations/acts_09.json` | `696f83dca035af38b3c649e8c1164249c504b7ad4ce4475ccf6d5b9ab28a4dac` |
 | `output/translations/acts_10.json` | `30805bad74af85422e426b3ca12a874b79bb9bd63b6009a06d88fae24dbf95ba` |
 | `output/translations/acts_11.json` | `dcaab8177c8fd32833258ca56bdcbb91c648fbbbdd25fa321d59f5f4181a42a0` |
-| `output/translations/acts_12.json` | `f066a491e4921123b01faa32e66d2e11e3a639e3d2ec832535042cecb719d778` |
-| `output/translations/acts_13.json` | `d02c045a10324d8c409ed28f867d43f9af1aadeac731aca9abcf34e863897345` |
-| `output/translations/acts_14.json` | `9d1c3463baaf92a914dee9ade537fb287cdffe82c42e8443da8971f2f43af289` |
-| `output/translations/acts_15.json` | `293659d1e49cef35b6b61b52329824bde0b7789280a8029fed76d17d0df69fc5` |
-| `output/translations/acts_16.json` | `3620f90b332465f85759d318e7079235f037a5abbab3b681bcaafa36a0cd58c9` |
-| `output/translations/acts_17.json` | `ad3b2433be4e81730afae4536a3716847f48fd062b0e44518a92efd012663205` |
-| `output/translations/acts_18.json` | `0e6b668f5a1558f2633983f4e2aea6b6693ecc432a6ebe56390fb15ff9375c81` |
-| `output/translations/acts_19.json` | `ac6966295e0ef878d6502f89ca46749f3ee1201de7c2fe4f709f8ade7a8f0c52` |
+| `output/translations/acts_12.json` | `6901bd422dc31b9650549e586d0e7c322ceb605539a58424162a3845bfbb5420` |
+| `output/translations/acts_13.json` | `7195b819dcc84416e91112726836c76dadabb22047a50cbcedb2e717fb580d7b` |
+| `output/translations/acts_14.json` | `2eb932187763602f1fa43ded3bdde70368aadf7c31ba57658d55bd2f1c479f69` |
+| `output/translations/acts_15.json` | `acd3efac611d5799b3dc39ba228ef18061e42eb0cbc865957281042e10a2f2f6` |
+| `output/translations/acts_16.json` | `c518508de9fa8f28db70d4108d268bcacefedf99056bbe2cdc95ac3e1dd4f14f` |
+| `output/translations/acts_17.json` | `1b8cde5cbc4ef5a855bb56055d3d45a6a779e5061ccfa6fd7fdea40881795c24` |
+| `output/translations/acts_18.json` | `5a9b46f44b5015fbd49136d516513e555fad7b1eb804ab3f5eaee709ee2ae50f` |
+| `output/translations/acts_19.json` | `70e1898abf73f3ea115dd242663fde86fbbbe29332cd12e98d843f565e84ee70` |
 | `output/translations/acts_20.json` | `d5fa1b2a3bbae1d916dbc05f585e7f67464016efa722c37617cd1336b049d6c1` |
-| `output/translations/acts_21.json` | `732f827af53784b97e0a892e6d3812bb5b7cf616a095080aed51e454ea7c1682` |
+| `output/translations/acts_21.json` | `85b9ba590ae2757b69c5e7e8205d10160c36aac486d8295fb389a500b728cafa` |
 | `output/translations/acts_22.json` | `2851e14bdb75873d95919ef56b08ab86fb7e6a9a661b868ed84a8948c62a623d` |
 | `output/translations/acts_23.json` | `6221bde9faf48161799551383989987ab44e690c9e3a8cf59c9b129b1e7ee62d` |
 | `output/translations/acts_24.json` | `590b2bb18da40c7d2c376a1443df187de10d031bdf80784339261deebd8d0528` |
 | `output/translations/acts_25.json` | `eaccf5f47adcaf1ba60197c35a6157997aea85368a33c6553982cc2ad8b8b40c` |
 | `output/translations/acts_26.json` | `1ae63260de53ad80123865b8f48cea9993a82f109eea08596efa2bdc6973975f` |
-| `output/translations/acts_27.json` | `be14faca2501aee7d1e3520f98c50dfed3f2e6b1060e10cc7ab2d949856244fd` |
-| `output/translations/acts_28.json` | `74c25c708450ef38a5562ead7c2cf4519ee735b7e6d23ed2230a8e12dc00ce76` |
+| `output/translations/acts_27.json` | `56e0b7406df74fdfa237d1513754e69c3a53a10ac6c392898c21f8e419feb308` |
+| `output/translations/acts_28.json` | `c9697795db63162f42843137754be1832460be844dff211d7ada4e1091acbc0f` |
 

@@ -1,6 +1,6 @@
 # ฮาบากุก
 
-_Habakkuk — 3 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
+_Habakkuk — 3 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project. Verses follow English (BSB) numbering._
 
 _This **feedback edition** is the plain Thai translation with a `>` placeholder block under each verse for reviewer comments. **See the instructions immediately below before reading.** For the annotated edition (with contextual summaries), see `output/reader/habakkuk.md`; for the verses-only edition (no comment blocks), see `output/plain/habakkuk.md`._
 

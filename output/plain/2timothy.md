@@ -1,6 +1,6 @@
 # 2 ทิโมธี
 
-_2 Timothy — 4 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
+_2 Timothy — 4 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project. Verses follow English (BSB) numbering._
 
 _This **plain edition** shows only the Thai translation — no commentary, no Greek, no English. Intended for Thai scholars and theological reviewers evaluating the translation on its own terms. For the annotated edition with contextual summaries (บริบท), see `output/reader/2timothy.md`. For the underlying Greek, English (BSB) reference, and translator decisions per verse, see the per-chapter review reports at `output/check_reports/2timothy_NN_review.md` or the source JSON at `output/translations/`._
 
@@ -196,6 +196,6 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 |---|---|
 | `output/translations/2timothy_01.json` | `d7eed99d06146ebbbe4ba7a112c393e206ac1affad2e3b0a836e252bbbf5f0e7` |
 | `output/translations/2timothy_02.json` | `0556acc3c5c3e22ca3ce39906dd0d86d24b9b2268928c347a54bb642d0d4fa7f` |
-| `output/translations/2timothy_03.json` | `7fcb2d3f3a2b221f9fa21f6f1ab9285fb455482a2107fc0ba3766a9c60137933` |
+| `output/translations/2timothy_03.json` | `79f0809b00a8a5a4257cf8b0a6b2a7e27be13b2324d26020f6f8b78dc6955ee7` |
 | `output/translations/2timothy_04.json` | `54074762576c5b4e7c8e2f3ad2bccd8d89f6157aa4a90b50d5482131f5b65d43` |
 

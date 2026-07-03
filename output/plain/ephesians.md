@@ -1,6 +1,6 @@
 # เอเฟซัส
 
-_Ephesians — 6 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
+_Ephesians — 6 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project. Verses follow English (BSB) numbering._
 
 _This **plain edition** shows only the Thai translation — no commentary, no Greek, no English. Intended for Thai scholars and theological reviewers evaluating the translation on its own terms. For the annotated edition with contextual summaries (บริบท), see `output/reader/ephesians.md`. For the underlying Greek, English (BSB) reference, and translator decisions per verse, see the per-chapter review reports at `output/check_reports/ephesians_NN_review.md` or the source JSON at `output/translations/`._
 
@@ -248,7 +248,7 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **14** เพราะทุกสิ่งที่ปรากฏชัดก็เป็นความสว่าง เพราะฉะนั้นจึงมีคำกล่าวว่า ‘จงตื่นเถิด ผู้ที่กำลังหลับ จงลุกขึ้นจากความตาย แล้วพระคริสต์จะทรงส่องแสงเหนือเจ้า’
 
-**15** เพราะฉะนั้น จงระวังอย่างถี่ถ้วนถึงวิธีที่พวกท่านดำเนินชีวิต ไม่ใช่อย่างคนเขลา แต่อย่างคนมีปัญญา
+**15** เพราะฉะนั้น จงระวังอย่างถี่ถ้วนว่าพวกท่านดำเนินชีวิตอย่างไร ไม่ใช่อย่างคนเขลา แต่อย่างคนมีปัญญา
 
 **16** ใช้โอกาสที่มีอยู่ให้คุ้มค่า เพราะวันเวลาในยุคนี้ชั่วร้าย
 
@@ -318,7 +318,7 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **14** เพราะฉะนั้น จงยืนหยัด คาดเอวด้วยความจริง สวมเสื้อเกราะแห่งความชอบธรรม
 
-**15** และสวมรองเท้าที่เท้าด้วยความพร้อมแห่งข่าวประเสริฐของสันติสุข
+**15** และสวมรองเท้าด้วยความพร้อมแห่งข่าวประเสริฐของสันติสุข
 
 **16** เหนือสิ่งทั้งปวง จงยกโล่แห่งความเชื่อขึ้น โดยโล่นี้พวกท่านจะสามารถดับลูกศรไฟทั้งสิ้นของผู้ชั่วร้ายได้
 
@@ -350,6 +350,6 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/ephesians_02.json` | `53724785255dd4db63eb65b73968911ecb437277245fcf0b94d4478f7f188ad4` |
 | `output/translations/ephesians_03.json` | `0b6542e76349f9fe987bced658a7a4f666d8a4d4192737c716db2c2e897ea711` |
 | `output/translations/ephesians_04.json` | `d92a86a8a77bc664eb9daad7ad531a32cc0bf2a4a57181988793cea7fc6411d3` |
-| `output/translations/ephesians_05.json` | `0da53c6cb03cb19f3d58a6320a548810c9b05998f9d36d396af33fc0cfaf3575` |
-| `output/translations/ephesians_06.json` | `1f5cf5bf88db3500a997d5b4d6354dc91b0728c24158a2c1ab6edcddf08744bf` |
+| `output/translations/ephesians_05.json` | `ef96914319230589cecd227c135559700da5d5d4c26465374c02a05679c85ee6` |
+| `output/translations/ephesians_06.json` | `44808c304430c79a62af207a9332620ec1c006775237edd8976b4205746f76b4` |
 

@@ -50,6 +50,15 @@ MODES = ("reader", "plain", "feedback")
 
 sys.path.insert(0, str(ROOT / "scripts"))
 from extract_book import BOOKS as _NT_BOOKS  # noqa: E402
+from versification_english import (  # noqa: E402
+    load_versification_map, to_english_rows, english_target,
+)
+
+# The source files are MT-anchored; the reader (like the app bundle and every
+# modern Bible) uses English/BSB numbering. This is the ONE conversion, shared
+# with build_eremos_bundle via versification_english, so the reader can never
+# drift from the app's numbering again.
+_VMAP = load_versification_map()
 
 # Merge OT books so render_reader handles OT chapter rendering once OT pilot ships.
 try:
@@ -121,18 +130,26 @@ def chapter_files_for(slug: str) -> list[Path]:
     return [p for _, p in sorted(matched)]
 
 
-def render_chapter(verses: list[dict], chapter_num: int, variants: list[dict] | None = None, translator_notes: list[dict] | None = None, *, mode: str = "reader") -> str:
+def render_chapter(rows: list[dict], chapter_num: int, superscription: str | None = None, variants: list[dict] | None = None, translator_notes: list[dict] | None = None, *, mode: str = "reader") -> str:
+    """Render one English/BSB-numbered chapter. `rows` are the converted rows
+    from versification_english.to_english_rows (keys: verse, thai, thai_summary).
+    `superscription` (Psalms) is shown as unnumbered italic text above verse 1,
+    the way BSB/printed Bibles present it — it is not a numbered verse."""
     if mode not in MODES:
         raise ValueError(f"mode must be one of {MODES}, got {mode!r}")
     lines = [f"## บทที่ {chapter_num}", ""]
-    for v in verses:
+    if superscription and superscription.strip():
+        # Unnumbered superscription line (e.g. "A Psalm of David. When he fled…").
+        lines.append(f"_{superscription.strip()}_")
+        lines.append("")
+    for v in rows:
         n = v["verse"]
-        thai = (v.get("translation") or {}).get("thai", "").strip()
+        thai = (v.get("thai") or "").strip()
         # Bold verse number followed by the verse text on the same paragraph.
         # Thai Bibles use Arabic numerals conventionally; keep Arabic.
         lines.append(f"**{n}** {thai}")
         if mode == "reader":
-            summary = (v.get("translation") or {}).get("thai_summary")
+            summary = v.get("thai_summary")
             if summary and summary.strip():
                 lines.append("")
                 # GitHub renders blockquote + italic cleanly. The "บริบท:" label
@@ -309,14 +326,54 @@ def render_book(book_code: str, *, mode: str = "reader") -> Path | None:
         print(f"  {book_code}: no translated chapters yet — skipping")
         return None
 
-    chapter_count = len(chapters)
+    # Load every MT chapter file in order; convert the whole book MT → English
+    # (BSB) numbering with the shared converter (re-chapters where Hebrew and
+    # English disagree, e.g. Joel MT-4ch → English-3ch), then render by English
+    # chapter. Superscriptions come back separately for unnumbered display.
+    mt_verses: list[dict] = []
+    chapter_hashes: list[tuple[str, str]] = []
+    for chapter_path in chapters:
+        mt_verses.extend(json.loads(chapter_path.read_text(encoding="utf-8")))
+        chapter_hashes.append((chapter_path.name, file_sha256(chapter_path)))
+    rows, superscriptions = to_english_rows(book_code, mt_verses, _VMAP)
+
+    # MT (ch,vs) → English (ch,vs) for remapping the per-verse footer anchors so
+    # textual-variant / translator notes land on the right English chapter+verse.
+    mt2en: dict[tuple[int, int], tuple[int, int] | None] = {}
+    for v in mt_verses:
+        (ec, ev), _span = english_target(book_code, v["chapter"], v["verse"], v.get("versification"), _VMAP)
+        mt2en[(v["chapter"], v["verse"])] = None if ev == "title" else (ec, ev)
+
+    # Regroup footers (loaded per MT chapter file) onto English chapters, with
+    # each entry's verse number converted MT → English.
+    variants_by_ech: dict[int, list[dict]] = {}
+    notes_by_ech: dict[int, list[dict]] = {}
+    for chapter_path in chapters:
+        mt_ch = int(re.search(r"_(\d+)\.json$", chapter_path.name).group(1))
+        for entry in load_textual_variants(slug, mt_ch):
+            en = mt2en.get((mt_ch, entry.get("verse")))
+            if not en:
+                continue  # anchored on a superscription (dropped) — skip
+            variants_by_ech.setdefault(en[0], []).append({**entry, "verse": en[1]})
+        for entry in load_translator_notes(slug, mt_ch):
+            en = mt2en.get((mt_ch, entry.get("verse")))
+            if not en:
+                continue
+            notes_by_ech.setdefault(en[0], []).append({**entry, "verse": en[1]})
+
+    rows_by_ech: dict[int, list[dict]] = {}
+    for r in rows:
+        rows_by_ech.setdefault(r["chapter"], []).append(r)
+
+    chapter_count = len(rows_by_ech)
     chapter_word = "chapter" if chapter_count == 1 else "chapters"
     source_label = "Masoretic Hebrew text" if is_ot else "SBLGNT Greek text"
     one_line = (
         f"_The Gospel of {title_en} — {chapter_count} {chapter_word}, "
-        f"translated from the {source_label} into Thai by the Eremos Translation project._"
+        f"translated from the {source_label} into Thai by the Eremos Translation project. "
+        f"Verses follow English (BSB) numbering._"
         if book_code in {"MAT", "MRK", "LUK", "JHN"}
-        else f"_{title_en} — {chapter_count} {chapter_word}, translated from the {source_label} into Thai by the Eremos Translation project._"
+        else f"_{title_en} — {chapter_count} {chapter_word}, translated from the {source_label} into Thai by the Eremos Translation project. Verses follow English (BSB) numbering._"
     )
 
     parts = [
@@ -336,16 +393,12 @@ def render_book(book_code: str, *, mode: str = "reader") -> Path | None:
         parts.append("---")
         parts.append("")
 
-    chapter_hashes: list[tuple[str, str]] = []
-    for chapter_path in chapters:
-        chapter_num = int(re.search(r"_(\d+)\.json$", chapter_path.name).group(1))
-        verses = json.loads(chapter_path.read_text(encoding="utf-8"))
-        variants = load_textual_variants(slug, chapter_num)
-        translator_notes = load_translator_notes(slug, chapter_num)
-        parts.append(render_chapter(verses, chapter_num, variants, translator_notes, mode=mode))
+    for ech in sorted(rows_by_ech):
+        parts.append(render_chapter(
+            rows_by_ech[ech], ech, superscriptions.get(ech),
+            variants_by_ech.get(ech), notes_by_ech.get(ech), mode=mode))
         parts.append("---")
         parts.append("")
-        chapter_hashes.append((chapter_path.name, file_sha256(chapter_path)))
 
     parts.append("## Verification")
     parts.append("")

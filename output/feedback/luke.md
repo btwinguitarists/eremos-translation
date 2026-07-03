@@ -1,6 +1,6 @@
 # พระกิตติคุณตามลูกา
 
-_The Gospel of Luke — 24 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
+_The Gospel of Luke — 24 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project. Verses follow English (BSB) numbering._
 
 _This **feedback edition** is the plain Thai translation with a `>` placeholder block under each verse for reviewer comments. **See the instructions immediately below before reading.** For the annotated edition (with contextual summaries), see `output/reader/luke.md`; for the verses-only edition (no comment blocks), see `output/plain/luke.md`._
 
@@ -1722,7 +1722,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**8** บ้างก็ว่าเอลียาห์ปรากฏแล้ว อีกบ้างก็ว่าผู้พยากรณ์คนหนึ่งในสมัยโบราณกลับเป็นขึ้นมา
+**8** บ้างก็ว่าเอลียาห์ปรากฏแล้ว อีกบ้างก็ว่าผู้เผยพระวจนะคนหนึ่งในสมัยโบราณกลับเป็นขึ้นมา
 
 > ___
 
@@ -1766,7 +1766,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**19** พวกเขาทูลตอบว่า “บ้างก็ว่าเป็นยอห์นผู้ให้บัพติศมา บ้างก็ว่าเป็นเอลียาห์ และบ้างก็ว่าเป็นผู้พยากรณ์คนหนึ่งในสมัยโบราณที่กลับเป็นขึ้นมา”
+**19** พวกเขาทูลตอบว่า “บ้างก็ว่าเป็นยอห์นผู้ให้บัพติศมา บ้างก็ว่าเป็นเอลียาห์ และบ้างก็ว่าเป็นผู้เผยพระวจนะคนหนึ่งในสมัยโบราณที่กลับเป็นขึ้นมา”
 
 > ___
 
@@ -2038,7 +2038,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**24** เพราะเราบอกพวกท่านว่า ผู้พยากรณ์และกษัตริย์เป็นอันมากได้ปรารถนาจะเห็นสิ่งที่พวกท่านเห็น แต่ไม่ได้เห็น และปรารถนาจะฟังสิ่งที่พวกท่านฟังอยู่ แต่ไม่ได้ฟัง”
+**24** เพราะเราบอกพวกท่านว่า ผู้เผยพระวจนะและกษัตริย์เป็นอันมากได้ปรารถนาจะเห็นสิ่งที่พวกท่านเห็น แต่ไม่ได้เห็น และปรารถนาจะฟังสิ่งที่พวกท่านฟังอยู่ แต่ไม่ได้ฟัง”
 
 > ___
 
@@ -2566,7 +2566,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**58** เมื่อท่านกำลังเดินไปกับคู่ความของท่านต่อหน้าผู้มีอำนาจ ระหว่างทางจงพยายามตกลงกับเขา เพื่อเขาจะไม่ฉุดลากท่านไปหาผู้พิพากษา และผู้พิพากษาจะมอบท่านให้เจ้าพนักงาน แล้วเจ้าพนักงานก็จะใส่ท่านลงในคุก
+**58** เมื่อท่านกำลังเดินไปกับคู่ความของท่านต่อหน้าผู้มีอำนาจ ระหว่างทางจงพยายามตกลงกับเขา เพื่อเขาจะไม่ฉุดลากท่านไปหาผู้พิพากษา และผู้พิพากษาจะมอบท่านให้เจ้าพนักงาน เจ้าพนักงานก็จะใส่ท่านลงในคุก
 
 > ___
 
@@ -4504,21 +4504,6 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 ---
 
-### หมายเหตุด้านต้นฉบับ
-
-**ข้อ 17** — ขาดในต้นฉบับวิจารณ์ (SBLGNT)
-
-> เพราะในเทศกาลนั้น ปีลาตจำเป็นต้องปล่อยนักโทษคนหนึ่งให้พวกเขา
-
-_ข้อ 17 ขาดในต้นฉบับภาษากรีกที่เก่าและเชื่อถือได้ที่สุด (𝔓⁷⁵ ต้นศตวรรษที่ 3, วาติกานัส, อเล็กซานดรินัส) และไม่มีในฉบับมาตรฐานวิจารณ์ (SBLGNT, NA28, UBS5) ฉบับภาษาอังกฤษสมัยใหม่ (ESV, NIV, BSB) ก็ละไว้ ต้นฉบับยุคหลัง (ไบแซนไทน์, TR) และฉบับ KJV/THKJV รวมข้อนี้ไว้ ข้อความนี้ดูเหมือนเป็นคำอธิบายที่ผู้คัดลอกยุคหลังเพิ่มเข้ามาเพื่อทำให้เข้าใจบริบทของข้อ 18 ที่ประชาชนเรียกร้องให้ปล่อยบารับบัสแทน (เปรียบเทียบ มก.15:6; มธ.27:15 ที่ระบุธรรมเนียมการปล่อยนักโทษในเทศกาลปัสกาอย่างชัดเจน) ฉบับเอเรมอสเลือกตามต้นฉบับวิจารณ์ — โดยไม่รวมข้อนี้ในเนื้อหาหลัก แต่ระบุไว้ในหมายเหตุเพื่อความโปร่งใสต่อผู้อ่าน_
-
-ต้นฉบับที่รวมไว้: Byzantine majority, TR, Codex Sinaiticus (ℵ second-hand correction), Codex Bezae (D — at a different position), Old Latin, Syriac Peshitta, KJV, THKJV
-
-ต้นฉบับที่ละไว้: SBLGNT, NA28, UBS5, 𝔓⁷⁵, Codex Vaticanus (B), Codex Alexandrinus (A), Codex Washingtonianus (W), Codex Koridethi (Θ), f¹, f¹³, sa, bo; ESV, NIV, NASB, CSB, BSB, standard Thai (modern ed.)
-
-
----
-
 ## บทที่ 24
 
 **1** เช้าตรู่ของวันต้นสัปดาห์ พวกผู้หญิงก็นำเครื่องหอมที่เตรียมไว้ไปยังอุโมงค์
@@ -4741,28 +4726,28 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/luke_01.json` | `69ceecef9eb92a4f8f94165520214feb6410f3477e0c960da749ab0905431fa4` |
+| `output/translations/luke_01.json` | `f30038526ae34b6816461f37d51e967f3542f577562321bc77af96382ad9976d` |
 | `output/translations/luke_02.json` | `e50197772258e55fe3d51fecd922cfd83f9ab5ed2b2727d61038dfd9bdce5e03` |
 | `output/translations/luke_03.json` | `a783de0c4b34da34985a62445df9229241b8083fddffd79540c317a30999962a` |
 | `output/translations/luke_04.json` | `7379810798ce3c7a1396595d45437915edd42de9ff55f0c9e506d5fd021becd1` |
 | `output/translations/luke_05.json` | `b91da001a794caf5dc19533eaf62a19e8d891868b1b80a67979e25ea17c828a0` |
 | `output/translations/luke_06.json` | `a6a0a604b4a3d72ce11cbc0780d031b4b156f28ebc2267cf28e04fa83bbddcac` |
 | `output/translations/luke_07.json` | `2722b3280aadfe067694a52acaf759f3d9a8e694eea55a1b51c0975d11f17a88` |
-| `output/translations/luke_08.json` | `995eedfb16984a5f2ebc23c37a8d01f09784cd2d723e27f9d12907d7d049d11e` |
-| `output/translations/luke_09.json` | `f96178ba512ccdaf530c0247f98b7ea905d9412698dbe1ca7da9fc34ce4bcbc6` |
-| `output/translations/luke_10.json` | `e9be28f99d26b36affbbe5ca55fcc0ba60cef55436424632ddd23d536f9de230` |
+| `output/translations/luke_08.json` | `ce937df9c1f5e56e790816264c1b9b68ed7750ce58a46928463cdc28090f1766` |
+| `output/translations/luke_09.json` | `d16776060d6bda433651e61d4598cb54e5d74b40a884b0b932cc7207d1ddfc0b` |
+| `output/translations/luke_10.json` | `c5ba95b7167014661dc6f1fe5a45d1cd7137e62722f27bf62e1276ea1b1cc73b` |
 | `output/translations/luke_11.json` | `57b0dba768c16f4f51979f5cba5e3f3eef8f42575945dc742a0c47eb151f95a2` |
-| `output/translations/luke_12.json` | `6f6576768832adee1e6757d382ee923868477abb98a3669c3f224ef1253f611c` |
+| `output/translations/luke_12.json` | `6997ca178b13718f12c9d724ce6620e57dd6e2161adc2d6353d52db30a3c4403` |
 | `output/translations/luke_13.json` | `d7f67529882ab584feb83b322107d4ca0d9a4a6d1f9c79ed7b884a04f2e0a8a2` |
-| `output/translations/luke_14.json` | `a79599f93ff798171fad6169c8e2925496a705f6e9b0b0f90d4c5b0175b952c9` |
+| `output/translations/luke_14.json` | `b124a9254e163336f19b94905653ad84ca4d946a9f41337f0570349d5225a1ab` |
 | `output/translations/luke_15.json` | `1ee10398bdeff1d42c5b3cbae050767e1a468de6ec22bf4003702e70f1a2289f` |
-| `output/translations/luke_16.json` | `f0187f1e81b868c0074a7671c86e66cd01a1c05f03ababc802e93ad02683c98e` |
-| `output/translations/luke_17.json` | `88b590ba2790a79883f22d9599611ace3292201a9f5b88c0f7a4677d7ae676e5` |
+| `output/translations/luke_16.json` | `1fbfd23ac9e21c31f2e852682db4c5c8954611789d3a5a645e3f6736265732e0` |
+| `output/translations/luke_17.json` | `a3bd99e68586cf05eb396746bc536a2a0482e466f2fe4504b56cb5632279bf38` |
 | `output/translations/luke_18.json` | `3e029d2cafe349cebc10455825485348c4dfb1eccd499c5707691fb752695860` |
 | `output/translations/luke_19.json` | `48dfc44bb4a21d61689a016c6fd8ae1d2ca551c9baa0f3ad32ca62023407af23` |
 | `output/translations/luke_20.json` | `6b8b82cab2de77fcb74820d8fd434c579fe1f20f343c4069d37c34801dd8e749` |
 | `output/translations/luke_21.json` | `6328a19fd417880b0865e2a854056d2cb37e9143829204eff7fc90b86e46f865` |
-| `output/translations/luke_22.json` | `3489bf41626f6d8288dcc48363b1bacf61f8b1ae704b99c08e4463ab992d54cb` |
+| `output/translations/luke_22.json` | `47ead5f70812ff49e7f6b79b22bb98d1dfd40fb98c7bc62b36f14783dbf1469c` |
 | `output/translations/luke_23.json` | `4655e2079c5710806de8bff1af8307b7f097f4ee9c77cd69e99c65585a6ac5f8` |
-| `output/translations/luke_24.json` | `17aaa19b3e8bc3d00a2de60c2e1bb63cf08796f484679c0fbc9852ebc6ef82e7` |
+| `output/translations/luke_24.json` | `a1bb9cba8e3dc6fb43ece420b038fec03afa56474208e7254f72a495d43fd94b` |
 
