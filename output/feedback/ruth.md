@@ -1,6 +1,6 @@
 # นางรูธ
 
-_Ruth — 4 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
+_Ruth — 4 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project. Verses follow English (BSB) numbering._
 
 _This **feedback edition** is the plain Thai translation with a `>` placeholder block under each verse for reviewer comments. **See the instructions immediately below before reading.** For the annotated edition (with contextual summaries), see `output/reader/ruth.md`; for the verses-only edition (no comment blocks), see `output/plain/ruth.md`._
 
@@ -426,8 +426,8 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/ruth_01.json` | `b30c5bfb94185f985137776fc8132853d5fa23b4d24e9cff68413ec7c0ed7ce9` |
-| `output/translations/ruth_02.json` | `b3230363afc8ed4f4ba3f292ef5fe23b01457e13138a3d6d9946d8d26e53e8cf` |
+| `output/translations/ruth_01.json` | `7153167899931b7fa6b249742cf521e29912a152f25d0e2c1a2b14b8d9c6825c` |
+| `output/translations/ruth_02.json` | `7c1996136335009af49c9dc4e265e2a3b47f815a56c6858369fa87439cfcdd1a` |
 | `output/translations/ruth_03.json` | `becea25722cf93e084b74f773d9ef7e202200846da5aafd6b2a86620387969ff` |
-| `output/translations/ruth_04.json` | `8c970ff4e31229a2ce7ef452821ab3a5f4ef4795d413180b89a11ad57fb84f8a` |
+| `output/translations/ruth_04.json` | `432e5f4e2a72334dc9592a5ef8e0102d835f9b0502d8b6bc9660f6df8f028050` |
 

@@ -1,6 +1,6 @@
 # ผู้วินิจฉัย
 
-_Judges — 21 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
+_Judges — 21 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project. Verses follow English (BSB) numbering._
 
 _This reader edition shows the Thai translation and the contextual summary (บริบท) where one is provided. The contextual summaries are AI-generated editorial commentary, not part of the biblical text. For a plain verses-only edition (recommended for scholarly review), see `output/plain/judges.md`. For the underlying Greek, English (BSB) reference, and translator decisions per verse, see the per-chapter review reports at `output/check_reports/judges_NN_review.md` or the source JSON at `output/translations/`._
 
@@ -517,7 +517,7 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 > _บริบท: **ปาฏิหาริย์ — ไฟพลุ่งจากหิน + ทูตสวรรค์หายไป.** ข้อ 21 = climax ของ theophany scene. ไฟพลุ่งจากหิน + เผาเครื่องสัตวบูชา = sign ที่กิดเอนขอ. ทูตสวรรค์หายไปทันที = แสดง supernatural nature._
 
-**22** กิดเอนรู้แล้วว่านั่นคือทูตสวรรค์ขององค์พระผู้เป็นเจ้า เขาก็กล่าวว่า “อนิจจา ข้าแต่องค์พระผู้เป็นเจ้าพระเจ้า! ข้าพเจ้าได้เห็นทูตสวรรค์ขององค์พระผู้เป็นเจ้าหน้าต่อหน้า!”
+**22** กิดเอนรู้แล้วว่านั่นคือทูตสวรรค์ขององค์พระผู้เป็นเจ้า เขาก็กล่าวว่า “อนิจจา ข้าแต่องค์พระผู้เป็นเจ้า! ข้าพเจ้าได้เห็นทูตสวรรค์ขององค์พระผู้เป็นเจ้าหน้าต่อหน้า!”
 
 **23** แต่องค์พระผู้เป็นเจ้าตรัสกับเขาว่า “สันติสุขจงมีแก่เจ้า อย่ากลัวเลย เจ้าจะไม่ตาย”
 
@@ -1148,7 +1148,7 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 **7** แต่เขากล่าวกับฉันว่า ‘ดูเถิด เจ้าจะตั้งครรภ์และคลอดบุตรชายคนหนึ่ง บัดนี้ จงอย่าดื่มเหล้าองุ่นหรือสุรา และอย่ารับประทานสิ่งใดที่เป็นมลทิน เพราะเด็กชายนั้นจะเป็นนาศีร์แด่พระเจ้าตั้งแต่ในครรภ์จนถึงวันที่เขาตาย’”
 
-**8** แล้วมาโนอาห์ก็อธิษฐานต่อองค์พระผู้เป็นเจ้าว่า “ข้าแต่องค์พระเจ้า ขอชายของพระเจ้าที่พระองค์ได้ทรงส่งมา ขอให้เขามาหาเราอีกครั้ง เพื่อสอนเราว่าจะเลี้ยงเด็กที่จะคลอดอย่างไร”
+**8** แล้วมาโนอาห์ก็อธิษฐานต่อองค์พระผู้เป็นเจ้าว่า “ข้าแต่องค์เจ้านาย ขอชายของพระเจ้าที่พระองค์ได้ทรงส่งมา ขอให้เขามาหาเราอีกครั้ง เพื่อสอนเราว่าจะเลี้ยงเด็กที่จะคลอดอย่างไร”
 
 **9** พระเจ้าก็ทรงฟังเสียงของมาโนอาห์ และทูตสวรรค์ของพระเจ้าก็มาหาหญิงนั้นอีก ขณะที่นางนั่งอยู่ในทุ่งนา แต่มาโนอาห์สามีของนางไม่ได้อยู่กับเธอ
 
@@ -1415,7 +1415,7 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 > _บริบท: **3,000 on roof + all 5 lords inside — entire Philistine leadership.** ข้อ 27 = setup ของ scale. ใน Philistine temple architecture หลังคาเป็น flat — รับน้ำหนักได้ + standing room. 3,000 บน roof + ทุก lord ใน main hall = ทั้งหมดของ Philistine leadership in one building. Samson's coming kill จะ wipe out entire Philistine command structure._
 
-**28** แล้วแซมสันก็ร้องทูลต่อองค์พระผู้เป็นเจ้าว่า “ข้าแต่องค์พระผู้เป็นเจ้าพระเจ้า ขอทรงระลึกถึงข้าพระองค์เถิด ขอทรงเสริมกำลังให้ข้าพระองค์ ข้าแต่พระเจ้า เพียงครั้งนี้อีกครั้งหนึ่ง เพื่อด้วยการตอบแทนครั้งเดียวข้าพระองค์จะแก้แค้นชาวฟีลิสตีในเรื่องดวงตาทั้งสองของข้าพระองค์”
+**28** แล้วแซมสันก็ร้องทูลต่อองค์พระผู้เป็นเจ้าว่า “ข้าแต่องค์พระผู้เป็นเจ้า ขอทรงระลึกถึงข้าพระองค์เถิด ขอทรงเสริมกำลังให้ข้าพระองค์ ข้าแต่พระเจ้า เพียงครั้งนี้อีกครั้งหนึ่ง เพื่อด้วยการตอบแทนครั้งเดียวข้าพระองค์จะแก้แค้นชาวฟีลิสตีในเรื่องดวงตาทั้งสองของข้าพระองค์”
 
 > _บริบท: **Samson's final prayer — his most theological moment.** ข้อ 28 = Samson's last words. คำอธิษฐานสุดท้ายและสูงสุดของเขา. (1) อ้าง YHWH ผู้พระเจ้า; (2) ขอ remember + strengthen; (3) admit need ของ revenge for eyes. แสดงระดับ humility + dependence + recognition ของ Samson's true source of strength. แม้คำขอ revenge personal — ผลคือ Philistine command destroyed = divine deliverance._
 
@@ -2046,20 +2046,20 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/judges_03.json` | `bb254323f59daf709fb488f12a1b3a411518ea317b81b377e732638de3d03280` |
 | `output/translations/judges_04.json` | `a0ee4db9d058dbf1abee9b20b928d19cef2e8adc18386a5792eb2503a0a7c10f` |
 | `output/translations/judges_05.json` | `97c1b5b665b780a71849e63c18645124d6306a7737c9dd33722c22665a72aa5b` |
-| `output/translations/judges_06.json` | `f609e0aac788215e9a5ed1d08e4dd4f24f3e65e997260a3c2843b2f2c2f29467` |
+| `output/translations/judges_06.json` | `50816b321a3be04be544a50e52bd8e7ffb75764df83832a4f7c2185e9958a5bb` |
 | `output/translations/judges_07.json` | `79d6fc6336eea63001360eaf1551165f8c26d7ac823398f608ba045da5dc81ad` |
 | `output/translations/judges_08.json` | `a44db2b2252f4f0cda8cc60c08466b1685335f1f418a1b92524b4975275be773` |
 | `output/translations/judges_09.json` | `2d620a7d237c7c665f97b1503288b8064dab89dc6f52717768657f5085ae127e` |
 | `output/translations/judges_10.json` | `7cfe8825789ebc85e0a9f2910e7673e052624c4c1ef6eeae5feaa20b8f64b6ab` |
 | `output/translations/judges_11.json` | `5407bb5d7d411cf5a08dd316b48cbd3856188c904f70e8381b050a3050389252` |
 | `output/translations/judges_12.json` | `c7291ea3e3d890b34fc9410e21843e52417ffdb7ae4507f32152c9e42860d40f` |
-| `output/translations/judges_13.json` | `75e28570d866e76e7f9f2f23cf31add7bb11533538a886ace9cc1a4a25769ccb` |
+| `output/translations/judges_13.json` | `baeb9ff61335f8a29d1c6d915e3407280dfbcae498c85bc6b560a91225009b5d` |
 | `output/translations/judges_14.json` | `3401f211c2e850ec3864c8a38f64646c3e53561a526620f048dcaadebf7c599d` |
 | `output/translations/judges_15.json` | `b62f614302dd773418ea4b848b72a3d8b2d3fc729f8909f0e482253503a932f5` |
-| `output/translations/judges_16.json` | `5bf2b4ea0c8f2e2def15c83fb31709c247357a5f0d7be6ee4cc7add513be543d` |
+| `output/translations/judges_16.json` | `681924eb9a2a6262f71bd0c50e72e114c66fceee61817984d9b6a039438e98ce` |
 | `output/translations/judges_17.json` | `469b8ba3fa56cde8eb856876c124ae12e93d152d0a09e669763e0d1e17cee7b1` |
 | `output/translations/judges_18.json` | `a1ee37808220e91441262b84c700bb331b6e0b489198849907577acf44e70645` |
-| `output/translations/judges_19.json` | `a3f2921f1ce1b1a67d0ecf45ee0390abe005a65fb2e571fac4f91fa0e6404953` |
-| `output/translations/judges_20.json` | `82b7b3313c266e2316c7704b9ee786c26694471f0ade9b1dd43a80fd3e515a82` |
-| `output/translations/judges_21.json` | `f5797f8cba8f486c8355e87e24d095c1c7b209fd9d90aaff4ca1432e9a0cde26` |
+| `output/translations/judges_19.json` | `206909015c8fb92a5002b434ef8e6c5640d859eee8e012f5f1dcd202608b012a` |
+| `output/translations/judges_20.json` | `95a29ea76d6b75e5ab1c942ece315bc125eebb1980745b031c1c6d19dbc042c2` |
+| `output/translations/judges_21.json` | `6bf24acbe7b9e93aa4423160c7888eeba24083f29bddfac0040b61cfec143f5e` |
 

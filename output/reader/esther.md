@@ -1,6 +1,6 @@
 # เอสเธอร์
 
-_Esther — 10 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
+_Esther — 10 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project. Verses follow English (BSB) numbering._
 
 _This reader edition shows the Thai translation and the contextual summary (บริบท) where one is provided. The contextual summaries are AI-generated editorial commentary, not part of the biblical text. For a plain verses-only edition (recommended for scholarly review), see `output/plain/esther.md`. For the underlying Greek, English (BSB) reference, and translator decisions per verse, see the per-chapter review reports at `output/check_reports/esther_NN_review.md` or the source JSON at `output/translations/`._
 
@@ -56,7 +56,7 @@ _This reader edition shows the Thai translation and the contextual summary (บ�
 
 **18** ในวันนี้เอง บรรดาสตรีสูงศักดิ์แห่งเปอร์เซียและมีเดียที่ได้ยินเรื่องของพระราชินี ก็จะพากันพูดเช่นนั้นกับบรรดาขุนนางทั้งปวงของกษัตริย์ ก่อให้เกิดการหมิ่นหยามและความขุ่นเคืองไม่รู้จบ
 
-**19** ฉะนั้น หากเป็นที่พอพระทัยกษัตริย์ ขอให้มีพระราชโองการออกไปจากพระองค์ และบันทึกไว้ในกฎหมายของชาวเปอร์เซียและมีเดียเพื่อจะเปลี่ยนแปลงไม่ได้ ว่าพระนางวัชทีจะไม่ได้เข้าเฝ้ากษัตริย์อาหสุเอรัสอีกต่อไป และขอกษัตริย์พระราชทานตำแหน่งราชินีของพระนางแก่ผู้อื่นที่ดีกว่าพระนาง
+**19** ฉะนั้น หากเป็นที่พอพระทัยกษัตริย์ ขอให้มีพระราชโองการออกไปจากพระองค์ และบันทึกไว้ในกฎหมายของชาวเปอร์เซียและมีเดียเพื่อจะเพิกถอนไม่ได้ ว่าพระนางวัชทีจะไม่ได้เข้าเฝ้ากษัตริย์อาหสุเอรัสอีกต่อไป และขอกษัตริย์พระราชทานตำแหน่งราชินีของพระนางแก่ผู้อื่นที่ดีกว่าพระนาง
 
 > _บริบท: ‘กฎหมายของชาวมีเดียและเปอร์เซีย’ ที่เปลี่ยนแปลงไม่ได้ เป็นกลไกสำคัญที่จะกลับมามีบทบาทในเรื่องนี้อีก (เทียบ ดนล 6) — ครั้งนี้ทำให้พระราชโองการที่ออกเพราะความโกรธไม่อาจถอนคืนได้_
 
@@ -502,14 +502,14 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/esther_01.json` | `ae0940980b9dbd4e211ca8d012222e788fbbbe2f494062413739af51578d2f5e` |
-| `output/translations/esther_02.json` | `9ea65779f3a1c9b97f8ea614ac7e983e42b2c5b69251038feeae40126bcbfe20` |
-| `output/translations/esther_03.json` | `c870e272cf8ea42e2921d95ce8b28239c8940abff465e3a973e102228443183d` |
-| `output/translations/esther_04.json` | `face98905899fba0330329cd6ed7b76f8c436647f97a51df58f8890610f4a4f5` |
-| `output/translations/esther_05.json` | `25f8b100bffc2ddf75724f43a5ba5cfd4b940899903ac00b0e572414c29952e4` |
+| `output/translations/esther_01.json` | `c50a5bdfcadc96d333e057bb3447ff415b0c5ad4c34f9057a1c66444674d0e69` |
+| `output/translations/esther_02.json` | `1fbd202c789a129dc5814df4bea9416701d344bb8a280483889fef4b41d872c4` |
+| `output/translations/esther_03.json` | `5adc8a4604d088d33ee912ba164ee5d7878be5166ddc8b37b28a330f5e7de52c` |
+| `output/translations/esther_04.json` | `fa6dde0fe899983a1d327dc5453b69c726ded86542168c2f6309ef67c437bdd5` |
+| `output/translations/esther_05.json` | `0a2e182fe1788a48c1ab05c0e95ac6ad221d468aabe749b22a3cc0a2c2c300eb` |
 | `output/translations/esther_06.json` | `86f8f39cf32cd0e506ef7e6cf7edff2d90448c6dba8b05a60eddf7837a6de413` |
 | `output/translations/esther_07.json` | `8e3edca7c7f873b6000363380cbeda4f1a6f52c06ebcd8aec9238085ad9c8e7b` |
 | `output/translations/esther_08.json` | `9a0001fbd07c6f8fdb98e8b116c54d2f4bbb4a0270a4391da5fa6c4f4c17d41d` |
-| `output/translations/esther_09.json` | `5066d6cae1f675b61740ab9ed96be692a72cd77fb35aa23003d824c1967682b9` |
+| `output/translations/esther_09.json` | `a300f7e0ec3a4eab2fe1ce76d28eef53d6fff837e444e9ad1ecbab323f61744a` |
 | `output/translations/esther_10.json` | `b414c865077fb7a1940cb50c0f4062b98f662fb082711984140e742f860a14fd` |
 

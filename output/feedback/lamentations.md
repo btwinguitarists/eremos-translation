@@ -1,6 +1,6 @@
 # เพลงคร่ำครวญ
 
-_Lamentations — 5 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project._
+_Lamentations — 5 chapters, translated from the Masoretic Hebrew text into Thai by the Eremos Translation project. Verses follow English (BSB) numbering._
 
 _This **feedback edition** is the plain Thai translation with a `>` placeholder block under each verse for reviewer comments. **See the instructions immediately below before reading.** For the annotated edition (with contextual summaries), see `output/reader/lamentations.md`; for the verses-only edition (no comment blocks), see `output/plain/lamentations.md`._
 
@@ -698,7 +698,7 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 > ___
 
-**22** เว้นเสียแต่ว่าพระองค์ทรงทอดทิ้งพวกข้าพระองค์อย่างสิ้นเชิงแล้ว และทรงพระพิโรธต่อพวกข้าพระองค์เกินประมาณ
+**22** เว้นเสียแต่ว่าพระองค์ทรงทอดทิ้งพวกข้าพระองค์อย่างสิ้นเชิง และทรงพระพิโรธต่อพวกข้าพระองค์เกินประมาณ
 
 > ___
 
@@ -709,6 +709,10 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 **ข้อ 1** — หมายเหตุการแปลพระนามของพระเจ้า
 
 _**องค์พระผู้เป็นเจ้า** ในบทนี้ (ปรากฏครั้งแรกที่ข้อ 1) แปลจากภาษาฮีบรู יהוה (พระนามเฉพาะของพระเจ้า ออกเสียงโดยทั่วไปว่า ‘ยาห์เวห์’). ฉบับเอเรโมสใช้ **องค์พระผู้เป็นเจ้า** ตามแบบแผนของฉบับพันธสัญญาใหม่ที่แปล κύριος ซึ่งในต้นฉบับฮีบรูตรงกับ יהוה. ดูรายละเอียดเพิ่มเติมที่ docs/translator_decisions/divine_names_table_2026-05.md._
+
+**ข้อ 22** — ขาดในต้นฉบับวิจารณ์ (SBLGNT)
+
+_ข้อ 22 เป็นข้อจบของหนังสือเพลงคร่ำครวญ. คำฮีบรู כִּי אִם (คี-อิม) ในข้อนี้มีความหมายกำกวมโดยตั้งใจ — แปลได้ทั้ง “เว้นเสียแต่ว่า/นอกจากว่า” (เปิดช่องความหวัง ราวกับเป็นเงื่อนไขที่ผู้คร่ำครวญไม่เชื่อว่าจะเกิดขึ้นจริง) และ “เพราะแม้ว่า”. ฉบับเอเรโมสเลือกรูป “เว้นเสียแต่ว่า” เพื่อคงประตูแห่งความหวังไว้ มิได้ฟันธงว่าพระเจ้าทรงทอดทิ้งอย่างถาวร. ตามธรรมเนียมการอ่านในธรรมศาลา เมื่ออ่านถึงข้อ 22 จะวนกลับไปอ่านข้อ 21 ซ้ำอีกครั้ง (“ข้าแต่องค์พระผู้เป็นเจ้า ขอทรงนำพวกข้าพระองค์กลับมาหาพระองค์… ขอทรงรื้อฟื้นวันเวลาของพวกข้าพระองค์ให้เหมือนวันเก่าก่อน”) เพื่อมิให้หนังสือจบลงด้วยความสิ้นหวัง แต่จบด้วยคำวิงวอนขอการรื้อฟื้น._
 
 
 ---
@@ -723,5 +727,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/lamentations_02.json` | `5317e212a19132f2beb72c8094c91d778072c394501e33a124ae29082e4d329e` |
 | `output/translations/lamentations_03.json` | `230ffc5e7e8c50adcd9b16777b8512e793f709098b263e1a831c9a4ae6358c1d` |
 | `output/translations/lamentations_04.json` | `b59e261718c726283ad9dc631b27a7563949a09e10951c74dc57e587d92fbdc8` |
-| `output/translations/lamentations_05.json` | `539d33e2f71e3496e123ce325aa3997cf8b97f9ca3516d1050014be2a336836e` |
+| `output/translations/lamentations_05.json` | `a69e1f324d53166b643dd4ba8c8770527d2c20b2bb85530cb9441cdcced76cac` |
 

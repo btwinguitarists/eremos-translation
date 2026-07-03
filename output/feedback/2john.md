@@ -1,6 +1,6 @@
 # 2 ยอห์น
 
-_2 John — 1 chapter, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
+_2 John — 1 chapter, translated from the SBLGNT Greek text into Thai by the Eremos Translation project. Verses follow English (BSB) numbering._
 
 _This **feedback edition** is the plain Thai translation with a `>` placeholder block under each verse for reviewer comments. **See the instructions immediately below before reading.** For the annotated edition (with contextual summaries), see `output/reader/2john.md`; for the verses-only edition (no comment blocks), see `output/plain/2john.md`._
 

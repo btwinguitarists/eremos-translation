@@ -1,6 +1,6 @@
 # 3 ยอห์น
 
-_3 John — 1 chapter, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
+_3 John — 1 chapter, translated from the SBLGNT Greek text into Thai by the Eremos Translation project. Verses follow English (BSB) numbering._
 
 _This **plain edition** shows only the Thai translation — no commentary, no Greek, no English. Intended for Thai scholars and theological reviewers evaluating the translation on its own terms. For the annotated edition with contextual summaries (บริบท), see `output/reader/3john.md`. For the underlying Greek, English (BSB) reference, and translator decisions per verse, see the per-chapter review reports at `output/check_reports/3john_NN_review.md` or the source JSON at `output/translations/`._
 
@@ -34,9 +34,7 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **13** ข้าพเจ้ามีหลายสิ่งที่จะเขียนถึงท่าน แต่ข้าพเจ้าไม่อยากเขียนถึงท่านด้วยน้ำหมึกและปากกา
 
-**14** แต่ข้าพเจ้าหวังว่าจะได้พบท่านในเร็ว ๆ นี้ และเราจะได้พูดต่อหน้ากัน
-
-**15** ขอสันติสุขจงมีแก่ท่าน เพื่อนทั้งหลายฝากความระลึกถึงท่าน ขอท่านฝากความระลึกถึงเพื่อนทั้งหลายเป็นรายบุคคล
+**14** แต่ข้าพเจ้าหวังว่าจะได้พบท่านในเร็ว ๆ นี้ และเราจะได้พูดต่อหน้ากัน ขอสันติสุขจงมีแก่ท่าน เพื่อนทั้งหลายฝากความระลึกถึงท่าน ขอท่านฝากความระลึกถึงเพื่อนทั้งหลายเป็นรายบุคคล
 
 ---
 
@@ -46,5 +44,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/3john_01.json` | `7dfd88bc21420fedc08c7b1a155fd16db06c657a97a42669c460006da83b83c9` |
+| `output/translations/3john_01.json` | `ba89bd338596738bfb1b774b98cb679495fc8afb979849757c3c6be6478e3609` |
 

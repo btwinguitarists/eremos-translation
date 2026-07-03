@@ -1,6 +1,6 @@
 # ฮีบรู
 
-_Hebrews — 13 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
+_Hebrews — 13 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project. Verses follow English (BSB) numbering._
 
 _This **feedback edition** is the plain Thai translation with a `>` placeholder block under each verse for reviewer comments. **See the instructions immediately below before reading.** For the annotated edition (with contextual summaries), see `output/reader/hebrews.md`; for the verses-only edition (no comment blocks), see `output/plain/hebrews.md`._
 
@@ -74,7 +74,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**12** และพระองค์จะม้วนสิ่งเหล่านั้นขึ้นดุจเสื้อคลุม และจะถูกเปลี่ยนไปดุจเสื้อผ้า แต่พระองค์เองยังคงเป็นพระองค์เดิม และปีของพระองค์จะไม่สิ้นสุด”
+**12** และพระองค์จะม้วนสิ่งเหล่านั้นขึ้นดุจเสื้อคลุม และจะเปลี่ยนแปลงไปดุจเสื้อผ้า แต่พระองค์เองยังคงเป็นพระองค์เดิม และปีของพระองค์จะไม่สิ้นสุด”
 
 > ___
 
@@ -98,7 +98,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**3** เราจะรอดพ้นได้อย่างไร ถ้าเราเพิกเฉยต่อความรอดอันยิ่งใหญ่เช่นนี้? ความรอดนี้ที่องค์พระผู้เป็นเจ้าได้ทรงเริ่มประกาศก่อน และได้รับการยืนยันแก่เราโดยผู้ที่ได้ฟังพระองค์
+**3** เราจะรอดพ้นได้อย่างไร ถ้าเราเพิกเฉยต่อความรอดอันยิ่งใหญ่เช่นนี้? ความรอดนี้ที่องค์พระผู้เป็นเจ้าได้ทรงเริ่มประกาศก่อน และผู้ที่ได้ฟังพระองค์ก็ยืนยันแก่เรา
 
 > ___
 
@@ -122,7 +122,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**9** แต่เราเห็นพระเยซู ผู้ที่พระเจ้าทรงให้เป็นต่ำกว่าทูตสวรรค์เพียงชั่วคราว ทรงได้รับการสวมมงกุฎด้วยพระสิริและเกียรติ เพราะการทนทุกข์ทรมานจนถึงความตาย เพื่อพระองค์จะได้ทรงชิมความตายเพื่อมนุษย์ทุกคน โดยพระคุณของพระเจ้า
+**9** แต่เราเห็นพระเยซู ผู้ที่พระเจ้าทรงให้เป็นต่ำกว่าทูตสวรรค์เพียงชั่วคราว ทรงสวมมงกุฎด้วยพระสิริและเกียรติ เพราะการทนทุกข์ทรมานจนถึงความตาย เพื่อพระองค์จะได้ทรงชิมความตายเพื่อมนุษย์ทุกคน โดยพระคุณของพระเจ้า
 
 > ___
 
@@ -266,7 +266,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**6** เพราะฉะนั้น เนื่องจากยังเหลือสำหรับบางคนที่จะเข้าสู่การพักสงบนั้น และเนื่องจากผู้ที่ได้รับพระกิตติคุณก่อนหน้าไม่ได้เข้าเพราะการขัดขืน
+**6** เพราะฉะนั้น เนื่องจากยังเหลือสำหรับบางคนที่จะเข้าสู่การพักสงบนั้น และผู้ที่ได้รับพระกิตติคุณก่อนหน้าไม่ได้เข้าเพราะการขัดขืน
 
 > ___
 
@@ -954,7 +954,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**13** บุคคลเหล่านี้ทั้งสิ้นตายโดยความเชื่อ โดยมิได้รับสิ่งที่ทรงสัญญาไว้ แต่ได้เห็นและทักทายต้อนรับสิ่งเหล่านั้นจากระยะไกล และได้ประกาศยอมรับว่าพวกเขาเป็นเพียงคนต่างด้าวและผู้พำนักอาศัยบนแผ่นดินโลก
+**13** บุคคลเหล่านี้ทั้งสิ้นตายโดยความเชื่อ โดยมิได้รับสิ่งที่ทรงสัญญาไว้ แต่ได้เห็นและทักทายต้อนรับสิ่งเหล่านั้นจากระยะไกล และได้ประกาศยอมรับว่าพวกเขาเป็นเพียงคนแปลกหน้าและคนต่างถิ่นบนแผ่นดินโลก
 
 > ___
 
@@ -1030,7 +1030,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**32** และข้าพเจ้าจะกล่าวอะไรอีก? เพราะเวลาจะไม่พอที่ข้าพเจ้าจะเล่าเรื่องของกิเดโอน บาราค แซมสัน เยฟธาห์ ดาวิด ซามูเอล และบรรดาผู้เผยพระวจนะ
+**32** และข้าพเจ้าจะกล่าวอะไรอีก? เพราะเวลาจะไม่พอที่ข้าพเจ้าจะเล่าเรื่องของกิดเอน บาราค แซมสัน เยฟทาห์ ดาวิด ซามูเอล และบรรดาผู้เผยพระวจนะ
 
 > ___
 
@@ -1298,17 +1298,17 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/hebrews_01.json` | `a68eda7d15d03b92bd483a5a8988e68f7d834e2490ae8609297add40abfef112` |
-| `output/translations/hebrews_02.json` | `57b8cc94a17f4afaeaa9605078a8b0a86f75447dd7e8b93e7ce56995e64d1a41` |
+| `output/translations/hebrews_01.json` | `f57cde0ff89f59a30df5b6e386e9ca302a66ca3ab4b657ac0106d380b45b0ab3` |
+| `output/translations/hebrews_02.json` | `19861717616df0e6dd2d83a68b0ec5f62cbd07e944563e0808259a192409df48` |
 | `output/translations/hebrews_03.json` | `2304367411023a3ebe7fb048eecc1189be931fdc7159c67d6648c9837d789664` |
-| `output/translations/hebrews_04.json` | `f221e8c2be25bc2718b53ea5c68c4068f10894fc898bc6ef1ca17b41061d19c9` |
+| `output/translations/hebrews_04.json` | `67adde4a294d2bc1b50b1638744b9d3b441ef83edbddc62d88df51e7128488e8` |
 | `output/translations/hebrews_05.json` | `6f9073271a914ded6fc5767a4f091a8ee9b8af407c3b00191fbefc899dd81c83` |
 | `output/translations/hebrews_06.json` | `50bc7cf503da15681c75ccceb75afc513646c34d81e3727d831277013e481c2d` |
 | `output/translations/hebrews_07.json` | `66c0c117782b86402e22dada74ada6b21738f205b21ce539eea9a80609c11da8` |
 | `output/translations/hebrews_08.json` | `7af4362eb73c87e52a4ef99569347079ec51da2a505c038cf059f62b62ee2b09` |
 | `output/translations/hebrews_09.json` | `0d76d398b1ebade928ae58b4f07bb9fdd910fdb3396bd4570ddb63102e16c56d` |
 | `output/translations/hebrews_10.json` | `a082ba35191f83048971852f2fdbaf043b3a2281af3e4350e88d84ad684e907c` |
-| `output/translations/hebrews_11.json` | `b17bfdfa91b372bf0ad8ea968d1e3ad874c697a939734668eca179199418a5bd` |
+| `output/translations/hebrews_11.json` | `25f6fd534a784d95501f31a3c9aaf59eabdc1d616fbc8282cc599fdc3ca1b2f5` |
 | `output/translations/hebrews_12.json` | `ab3705d42e1a3a90996eae4d9a7a43feb175487ec04766f594eb18133c255a8a` |
 | `output/translations/hebrews_13.json` | `cd1f0202551281b52dc8ea05f213503bbf3b080ea423451171a65492b1ff0ee4` |
 

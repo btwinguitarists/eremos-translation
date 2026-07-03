@@ -1,6 +1,6 @@
 # พระกิตติคุณตามมัทธิว
 
-_The Gospel of Matthew — 28 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project._
+_The Gospel of Matthew — 28 chapters, translated from the SBLGNT Greek text into Thai by the Eremos Translation project. Verses follow English (BSB) numbering._
 
 _This **plain edition** shows only the Thai translation — no commentary, no Greek, no English. Intended for Thai scholars and theological reviewers evaluating the translation on its own terms. For the annotated edition with contextual summaries (บริบท), see `output/reader/matthew.md`. For the underlying Greek, English (BSB) reference, and translator decisions per verse, see the per-chapter review reports at `output/check_reports/matthew_NN_review.md` or the source JSON at `output/translations/`._
 
@@ -316,7 +316,7 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **6** แต่เมื่อท่านอธิษฐาน จงเข้าไปในห้องชั้นในของท่าน ปิดประตูแล้วอธิษฐานต่อพระบิดาของท่านผู้สถิตในที่ลับ และพระบิดาของท่านผู้ทรงทอดพระเนตรเห็นในที่ลับจะประทานบำเหน็จแก่ท่าน
 
-**7** และเมื่ออธิษฐาน อย่าพูดพร่ำเพรื่อซ้ำๆ เหมือนอย่างคนต่างชาติ เพราะเขาคิดว่าจะได้รับคำตอบเพราะการพูดมากของเขา
+**7** และเมื่ออธิษฐาน อย่าพูดพร่ำเพรื่อซ้ำๆ เหมือนอย่างคนต่างชาติ เพราะเขาคิดว่าจะได้รับคำตอบด้วยการพูดมากของเขา
 
 **8** เหตุฉะนั้น อย่าเลียนแบบเขา เพราะพระบิดาของพวกท่านทรงทราบสิ่งที่พวกท่านต้องการก่อนที่พวกท่านจะทูลขอ
 
@@ -1238,21 +1238,6 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 ---
 
-### หมายเหตุด้านต้นฉบับ
-
-**ข้อ 21** — ขาดในต้นฉบับวิจารณ์ (SBLGNT)
-
-> แต่ผีประเภทนี้จะไม่ออกไป เว้นแต่โดยการอธิษฐานและการอดอาหาร
-
-_ข้อ 21 ขาดในต้นฉบับภาษากรีกที่เก่าและเชื่อถือได้ที่สุด (ซีนายติคัส, วาติกานัส) และไม่มีในฉบับมาตรฐานวิจารณ์ (SBLGNT, NA28, UBS5) ฉบับภาษาอังกฤษสมัยใหม่ (ESV, NIV, BSB) ก็ละไว้ ต้นฉบับยุคหลัง (ไบแซนไทน์, TR) และฉบับ KJV/THKJV รวมข้อนี้ไว้ ซึ่งดูเหมือนจะเป็นการนำมาจากมาระโก 9:29 (ที่ในต้นฉบับยุคหลังก็เพิ่ม «และการอดอาหาร» เช่นกัน) ฉบับแอเรมอสเลือกตามต้นฉบับวิจารณ์_
-
-ต้นฉบับที่รวมไว้: Byzantine majority, TR, KJV, THKJV, NA28-margin; cf. Mark 9:29 longer reading
-
-ต้นฉบับที่ละไว้: SBLGNT, NA28, UBS5, Codex Sinaiticus (ℵ), Vaticanus (B), Θ, e, ff¹, sy^s, sa, bo; ESV, NIV, BSB, standard Thai (modern ed.)
-
-
----
-
 ## บทที่ 18
 
 **1** ในเวลานั้น พวกสาวกเข้ามาเฝ้าพระเยซูและทูลถามว่า “ใครหนอจะเป็นผู้ใหญ่ที่สุดในอาณาจักรสวรรค์?”
@@ -1322,21 +1307,6 @@ _ข้อ 21 ขาดในต้นฉบับภาษากรีกที
 **34** พระราชาทรงกริ้ว จึงทรงมอบเขาไว้ในมือของพวกผู้คุมที่ทรมานนักโทษ จนกว่าเขาจะใช้หนี้ที่ติดค้างอยู่คืนได้ครบทั้งหมด
 
 **35** พระบิดาของเราผู้สถิตในสวรรค์จะทรงกระทำต่อพวกท่านเช่นเดียวกันนี้ ถ้าพวกท่านแต่ละคนไม่ยกโทษให้พี่น้องของตนจากใจจริง”
-
----
-
-### หมายเหตุด้านต้นฉบับ
-
-**ข้อ 11** — ขาดในต้นฉบับวิจารณ์ (SBLGNT)
-
-> เพราะบุตรมนุษย์ได้เสด็จมาเพื่อจะช่วยผู้ที่หลงหายให้รอด
-
-_ข้อ 11 ขาดในต้นฉบับภาษากรีกยุคแรก (ซีนายติคัสฉบับแรก, วาติกานัส) และไม่มีในฉบับมาตรฐานวิจารณ์ (SBLGNT, NA28, UBS5) ฉบับภาษาอังกฤษสมัยใหม่ (ESV, NIV, BSB) และฉบับแปลไทย ละไว้ ต้นฉบับยุคหลัง (ไบแซนไทน์, TR) และฉบับ KJV/THKJV รวมข้อนี้ไว้ ซึ่งดูเหมือนจะเป็นการนำมาจากลูกา 19:10 ที่มีเนื้อหาเดียวกันโดยไม่มีปัญหาด้านต้นฉบับ ฉบับแอเรมอสเลือกตามต้นฉบับวิจารณ์_
-
-ต้นฉบับที่รวมไว้: Byzantine majority, TR, KJV, THKJV; cf. Luke 19:10 (same content, undisputed there)
-
-ต้นฉบับที่ละไว้: SBLGNT, NA28, UBS5, Codex Sinaiticus original hand (ℵ*), Vaticanus (B), L*, Θ, ƒ¹, ƒ¹³, e, ff¹, sy^s, sa^mss; ESV, NIV, BSB, standard Thai (modern ed.)
-
 
 ---
 
@@ -1748,21 +1718,6 @@ _ข้อ 11 ขาดในต้นฉบับภาษากรีกยุ
 
 ---
 
-### หมายเหตุด้านต้นฉบับ
-
-**ข้อ 14** — ขาดในต้นฉบับวิจารณ์ (SBLGNT)
-
-> วิบัติแก่พวกท่าน พวกธรรมาจารย์และพวกฟาริสี คนหน้าซื่อใจคด เพราะพวกท่านเป็นผู้กลืนเรือนของหญิงม่าย และอธิษฐานยืดยาวเพื่อบังหน้า เพราะเหตุนี้พวกท่านจะได้รับโทษหนักยิ่งกว่า
-
-_ข้อ 14 ขาดในต้นฉบับภาษากรีกที่เก่าและเชื่อถือได้ที่สุด (ซีนายติคัส, วาติกานัส, เบซาเอ) และไม่มีในฉบับมาตรฐานวิจารณ์ (SBLGNT, NA28, UBS5) ฉบับภาษาอังกฤษสมัยใหม่ (ESV, NIV, BSB, CSB) ละไว้ ฉบับแปลไทย ยังคงรวมไว้ ตามประเพณีฉบับ TR/KJV ลำดับของข้อในต้นฉบับยุคหลังก็แตกต่างกัน (บางต้นฉบับวางก่อนข้อ 13, บางต้นฉบับหลัง) ซึ่งเป็นสัญญาณว่าน่าจะเป็นการเพิ่มทีหลัง ดูเหมือนนำมาจากมาระโก 12:40 และลูกา 20:47 ซึ่งมีเนื้อหาเดียวกันโดยไม่มีปัญหาด้านต้นฉบับ ฉบับแอเรมอสเลือกตามต้นฉบับวิจารณ์_
-
-ต้นฉบับที่รวมไว้: Byzantine majority, TR, KJV, THKJV; standard Thai (Thai 1971 ed.) includes
-
-ต้นฉบับที่ละไว้: SBLGNT, NA28, UBS5, Codex Sinaiticus (ℵ), Vaticanus (B), D, L, Θ, ƒ¹, sy^s, sy^c, sa, bo; ESV, NIV, BSB, CSB, NRSV-Updated
-
-
----
-
 ## บทที่ 24
 
 **1** เมื่อพระเยซูเสด็จออกจากพระวิหารและกำลังเสด็จไป เหล่าสาวกของพระองค์เข้ามาเฝ้าพระองค์เพื่อชี้ให้ทอดพระเนตรอาคารทั้งหลายของพระวิหาร
@@ -2013,7 +1968,7 @@ _ข้อ 14 ขาดในต้นฉบับภาษากรีกที
 
 **23** พระองค์ตรัสตอบว่า “ผู้ที่จุ่มมือของตนในชามเดียวกันกับเราคือผู้นั้นที่จะมอบเราไว้
 
-**24** บุตรมนุษย์จะจากไปตามที่มีเขียนไว้เกี่ยวกับพระองค์ แต่วิบัติแก่คนนั้นผู้ที่บุตรมนุษย์จะถูกมอบไว้โดยการกระทำของเขา ถ้าคนนั้นไม่ได้เกิดมาก็จะดีกว่าสำหรับเขา”
+**24** บุตรมนุษย์จะจากไปตามที่มีเขียนไว้เกี่ยวกับพระองค์ แต่วิบัติแก่คนนั้นผู้ที่มอบบุตรมนุษย์ไว้ ถ้าคนนั้นไม่ได้เกิดมาก็จะดีกว่าสำหรับเขา”
 
 **25** ยูดาสผู้ที่จะมอบพระองค์ไว้ตอบว่า “ไม่ใช่ข้าพเจ้าใช่ไหม รับบี” พระองค์ตรัสแก่เขาว่า “ท่านได้พูดเองแล้ว”
 
@@ -2135,7 +2090,7 @@ _ข้อ 14 ขาดในต้นฉบับภาษากรีกที
 
 **7** พวกเขาจึงปรึกษากันแล้วใช้เงินนั้นซื้อทุ่งนาของช่างปั้นหม้อไว้เป็นที่ฝังศพคนต่างถิ่น
 
-**8** ด้วยเหตุนี้ ทุ่งนานั้นจึงถูกเรียกว่าทุ่งโลหิตจนถึงทุกวันนี้
+**8** ด้วยเหตุนี้ ทุ่งนานั้นจึงเรียกกันว่าทุ่งโลหิตจนถึงทุกวันนี้
 
 **9** ครั้งนั้นได้สำเร็จตามคำที่ตรัสไว้โดยเยเรมีย์ผู้เผยพระวจนะที่ว่า “และพวกเขาเอาเงินสามสิบเหรียญเงินอันเป็นราคาที่บรรดาบุตรอิสราเอลได้ตีไว้สำหรับผู้ที่ตนตีราคา
 
@@ -2307,16 +2262,16 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 |---|---|
 | `output/translations/matthew_01.json` | `a630d0210ea865f1c88d5d233916c3866c79a0e94ef21cd9a1f12b70c958a0f4` |
 | `output/translations/matthew_02.json` | `5b1a0f841d3a11b775eba408b9e6cfa4e7ee6e00f76a95c68cd494444e955cfb` |
-| `output/translations/matthew_03.json` | `0d2574292184e7f82fa9abad72287eed67e8f5739ff368f5397c0056e5cfaf2e` |
-| `output/translations/matthew_04.json` | `50d14e02bc08c97c339b10914a8258720ff64801f0ea080941604ebf5299d365` |
-| `output/translations/matthew_05.json` | `1fdbc115c753ddbfd4fde78a26e12fcecab45e03f9c2b7ed9b0925c33a8beda0` |
-| `output/translations/matthew_06.json` | `b399c8e2296e5ae217505b2e7d5181a550e95b337476fde190c0a03cc808e0bb` |
+| `output/translations/matthew_03.json` | `8ea24bfd5b07d81d2e1fc1e902e5641458dbec4679e79d13c9534475d0fcf0c0` |
+| `output/translations/matthew_04.json` | `451576192fbc40180874c0365461912b89524a997ac9fcbbf1417df8545a4e48` |
+| `output/translations/matthew_05.json` | `cc3812a23fd14608ee69246291a9afe43845e665c13ed870c6e0b0c28b415af6` |
+| `output/translations/matthew_06.json` | `df7a44e143c8ae18bdabdb508e2100a998c76cb48163ff0aa00aac58ac283bd3` |
 | `output/translations/matthew_07.json` | `b4b00dc5aca1c2e7f8c0fe9e197ba4718fa49788a5656172dfa5530b082ea59e` |
 | `output/translations/matthew_08.json` | `3efbb798cef6c7e8293f20e709f88db48fd647b87c1daec49ad55b6246e5fd4d` |
 | `output/translations/matthew_09.json` | `f09ecfd04461560021ec2ff3025ace73d2e3f0198193985b1092ce010a92ff39` |
-| `output/translations/matthew_10.json` | `a6b8d20359d6cf699762719e5d75dd34d0fd27a15daf8700175833ad1dbed4a0` |
+| `output/translations/matthew_10.json` | `a98e79bfba28709d1cc0bed4c4c7ab80ca94303cbb702dbca62520dbea064530` |
 | `output/translations/matthew_11.json` | `e75560b82110a6af69f798d53a56caf0df70b929cfbd648d65b86092e7f6e1e3` |
-| `output/translations/matthew_12.json` | `7559d7f1c8a651d0322dd7c415fbc1cf4f4a03a6e9fba959dfc96161b37c97b0` |
+| `output/translations/matthew_12.json` | `88b975cb3cff5c0f2ecb3325d60a1917a2c0c32bba8c1277f966e9b8daebee56` |
 | `output/translations/matthew_13.json` | `4f5fe873cd372e0a35816bba3985ae5ae53b7121efc3cadfa986538fe1c53f89` |
 | `output/translations/matthew_14.json` | `6612bc56398abab592c66bcb566248d399af983f0f978d5306ece93b6c247934` |
 | `output/translations/matthew_15.json` | `1b63f70310f2892d501b334df86f77e761dea11052e27d7d4a869e082d944726` |
@@ -2330,7 +2285,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/matthew_23.json` | `8176f9e88a71cebebdf45cd04616533250146269db716602e244a9b0d70e4e2d` |
 | `output/translations/matthew_24.json` | `ada58f853c32f488f98347b1cfcfb2ed5ec534b67997cefff27d43ffc4355871` |
 | `output/translations/matthew_25.json` | `1a0fd7c408791d267b8f11d0fe83526e3dd1081d69ad0aae8eef9cefa34c2222` |
-| `output/translations/matthew_26.json` | `d26f7b1411f82df73f135511440b70f683253fe9798f7833e2ba6784818c1a73` |
-| `output/translations/matthew_27.json` | `669b9a7119bc8f8cc1afc68b5f0bb7b71adb5fa2d7d316ac12623608011c93a2` |
+| `output/translations/matthew_26.json` | `d4aae1cfd129168927958ea2498c9499206a6ae0b0811f2b36eef24a000940cc` |
+| `output/translations/matthew_27.json` | `471e1a1d11bea0e148541c69879cf17a41ffcab8b4955007b64e3a4fc49ae6f7` |
 | `output/translations/matthew_28.json` | `08b0d3ac30a8cd650af17b3745333beb29228308b6429b951f984b5a845c843b` |
 
