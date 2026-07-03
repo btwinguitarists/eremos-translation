@@ -73,6 +73,9 @@ OT_COUNT = 39
 CHAPTER_RE = re.compile(r"^## บทที่ (\d+)\s*$")
 VERSE_RE = re.compile(r"^\*\*(\d+(?:-\d+)?)\*\*\s*(.*)$")
 CONTEXT_RE = re.compile(r"^>\s*_(บริบท:.*?)_?\s*$")
+SUPERSCRIPT_RE = re.compile(r"^_(?!บริบท:)(.+?)_\s*$")  # unnumbered psalm superscription
+
+STRUCTURE_DIR = ROOT / "data" / "structure"
 
 
 @dataclass
@@ -80,6 +83,17 @@ class Chapter:
     number: int
     verses: list[tuple[str, str]] = field(default_factory=list)   # (num, text)
     notes: list[tuple[str, str]] = field(default_factory=list)    # (after_verse_num, text)
+    superscription: str | None = None
+
+
+def load_structure(slug: str) -> dict[tuple[int, int], dict]:
+    """(chapter, verse) -> structure event (heading/start/selah/acrostic/…) from
+    the BSB-aligned structure layer. Empty dict if the book has no file yet."""
+    p = STRUCTURE_DIR / f"{slug}.json"
+    if not p.exists():
+        return {}
+    data = json.loads(p.read_text(encoding="utf-8"))
+    return {(e["c"], e["v"]): e for e in data.get("structure", [])}
 
 
 @dataclass
@@ -133,6 +147,13 @@ def parse_book(slug: str, en: str) -> Book:
             if cont and pending:
                 pending[-1] += " " + cont
             continue
+        # An italic line before the first verse of a chapter is the (unnumbered)
+        # psalm superscription — "A Psalm of David. When he fled…".
+        if chapter is not None and not chapter.verses and chapter.superscription is None:
+            sm = SUPERSCRIPT_RE.match(line)
+            if sm:
+                chapter.superscription = sm.group(1).strip()
+                continue
         m = VERSE_RE.match(line)
         if m:
             flush(chapter)
@@ -191,6 +212,29 @@ border:1px solid var(--line);background:var(--card);color:var(--ink);cursor:poin
 
 /* reading flow — continuous prose with superscript numbers */
 .prose{font-size:1.24rem;line-height:2.05}
+.prose .prose-p{margin:0 0 1.15rem}
+.prose .poetry{margin:.1rem 0 .1rem;padding-left:1.6rem;line-height:1.9;display:block}
+.prose .poetry.q2{padding-left:3rem}
+.prose .poetry.li1{padding-left:1.6rem}
+.prose .poetry.li2{padding-left:3rem}
+.prose .inscription{margin:.6rem 0;padding-left:1.6rem;font-style:italic}
+.section-heading{font-family:Georgia,'Noto Serif Thai',serif;font-weight:600;line-height:1.3;
+margin:2.2rem 0 .9rem}
+h2.section-heading{font-size:1.35rem}
+h3.section-heading{font-size:1.08rem;color:var(--muted);font-weight:500}
+.section-heading.italic{font-style:italic}
+.section-heading .heading-en{display:block;font-family:-apple-system,system-ui,sans-serif;
+font-size:.68rem;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);
+font-weight:500;margin-top:.25rem}
+.book-divider{text-align:center;font-family:Georgia,serif;font-size:.8rem;letter-spacing:.2em;
+text-transform:uppercase;color:var(--accent);margin:2.6rem 0 1.4rem;
+padding-bottom:.7rem;border-bottom:1px solid var(--line)}
+.acrostic{font-family:Georgia,serif;font-size:1.4rem;color:var(--accent);margin:1.6rem 0 .6rem}
+.acrostic span{font-size:.7rem;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);
+font-family:-apple-system,system-ui,sans-serif;vertical-align:middle;margin-left:.4rem}
+.superscription{font-style:italic;color:var(--muted);font-size:.96rem;line-height:1.6;
+margin:0 0 1.2rem;text-align:center}
+.selah{float:right;font-style:italic;color:var(--muted);font-size:.8em}
 .prose .vn{font-size:.62em;color:var(--accent);vertical-align:super;margin:0 .3em 0 .55em;
 font-variant-numeric:tabular-nums;user-select:none}
 .prose .v:first-child .vn{margin-left:0}
@@ -461,17 +505,76 @@ def page(title: str, body: str, depth: int) -> str:
 </html>"""
 
 
-def build_chapter_body(book: Book, ch: Chapter, prev_link: str, next_link: str) -> str:
-    reading = "".join(
-        f'<span class="v" id="v{num}"><span class="vn">{num}</span>{html.escape(text)}</span> '
-        for num, text in ch.verses
-    )
+_BLOCK_CSS = {"p": "prose-p", "q1": "poetry q1", "q2": "poetry q2",
+              "li1": "poetry li1", "li2": "poetry li2", "inscription": "inscription"}
+
+
+def _headings_html(ev: dict) -> str:
+    """Section headings (Thai primary, English muted) + book dividers + acrostic
+    letters that precede a verse."""
+    out = []
+    if ev.get("book_divider"):
+        out.append(f'<div class="book-divider">BOOK {html.escape(ev["book_divider"])}</div>')
+    for h in ev.get("heading", []):
+        tag = "h2" if h["level"] == 2 else "h3"
+        th = html.escape(h.get("th") or "")
+        en = html.escape(h["en"])
+        cls = "section-heading" + (" italic" if h.get("italic") else "")
+        out.append(f'<{tag} class="{cls}">{th}<span class="heading-en">{en}</span></{tag}>')
+    for ac in ev.get("acrostic", []):
+        name = f' <span>{html.escape(ac["name"])}</span>' if ac.get("name") else ""
+        out.append(f'<div class="acrostic">{html.escape(ac["letter"])}{name}</div>')
+    return "".join(out)
+
+
+def build_chapter_body(book: Book, ch: Chapter, prev_link: str, next_link: str, struct: dict) -> str:
+    # Reading view: typeset with section headings, paragraphs, poetry indentation,
+    # superscription, and Selah — driven by the BSB structure layer.
+    reading_parts: list[str] = []
+    if ch.superscription:
+        reading_parts.append(f'<p class="superscription">{html.escape(ch.superscription)}</p>')
+    block: tuple[str, list[str]] | None = None  # (css_class, [verse spans])
+
+    def flush() -> None:
+        nonlocal block
+        if block:
+            cls, items = block
+            tag = "p" if cls == "prose-p" else "div"
+            reading_parts.append(f'<{tag} class="{cls}">' + " ".join(items) + f"</{tag}>")
+            block = None
+
+    for num, text in ch.verses:
+        ev = struct.get((ch.number, int(num))) if num.isdigit() else None
+        if ev:
+            head = _headings_html(ev)
+            if head:
+                flush()
+                reading_parts.append(head)
+            start = ev.get("start")
+            if start:
+                flush()
+                block = (_BLOCK_CSS.get(start, "prose-p"), [])
+        if block is None:
+            block = ("prose-p", [])
+        block[1].append(
+            f'<span class="v" id="v{num}"><span class="vn">{num}</span>{html.escape(text)}</span>')
+        if ev and ev.get("selah"):
+            block[1].append('<span class="selah">เซลาห์</span>')
+    flush()
+    reading = "\n".join(reading_parts)
 
     notes_by_verse: dict[str, list[str]] = {}
     for after_v, note in ch.notes:
         notes_by_verse.setdefault(after_v, []).append(note)
     study_parts: list[str] = []
+    if ch.superscription:
+        study_parts.append(f'<p class="superscription">{html.escape(ch.superscription)}</p>')
     for num, text in ch.verses:
+        ev = struct.get((ch.number, int(num))) if num.isdigit() else None
+        if ev:
+            head = _headings_html(ev)
+            if head:
+                study_parts.append(head)
         study_parts.append(f'<p class="verse"><span class="vn">{num}</span>{html.escape(text)}</p>')
         for note in notes_by_verse.get(num, []):
             study_parts.append(f'<aside class="context">{html.escape(note)}</aside>')
@@ -518,6 +621,7 @@ def main() -> None:
     for b in books:
         bdir = DIST / "th" / b.slug
         bdir.mkdir(parents=True)
+        struct = load_structure(b.slug)
         grid = "".join(f'<a href="{c.number}.html">{c.number}</a>' for c in b.chapters)
         body = (
             f'<p class="eyebrow">{ "พันธสัญญาเดิม · Old Testament" if b.testament == "ot" else "พันธสัญญาใหม่ · New Testament" }</p>'
@@ -541,7 +645,7 @@ def main() -> None:
             )
             (bdir / f"{ch.number}.html").write_text(
                 page(f"{b.th} {ch.number} · Eremos Thai Bible",
-                     build_chapter_body(b, ch, prev_link, next_link), 2),
+                     build_chapter_body(b, ch, prev_link, next_link, struct), 2),
                 encoding="utf-8",
             )
 
