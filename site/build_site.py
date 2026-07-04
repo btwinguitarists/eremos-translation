@@ -202,6 +202,12 @@ border-left:3px solid var(--accent);border-radius:.6rem}
 font-weight:600;color:var(--accent);margin-bottom:.4rem}
 .wip p{margin:0;font-size:.95rem;line-height:1.6;color:var(--ink);max-width:60rem}
 .wip a{color:var(--accent)}
+/* language switch — Thai default; toggle remembers choice */
+[data-lang="th"] .only-en{display:none}
+[data-lang="en"] .only-th{display:none}
+.langtoggle{font:inherit;font-size:.78rem;padding:.22rem .7rem;border:1px solid var(--line);
+border-radius:2rem;background:var(--card);color:var(--muted);cursor:pointer;vertical-align:middle}
+.langtoggle:hover{border-color:var(--accent);color:var(--ink)}
 .cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(13rem,1fr));gap:.8rem;margin:2rem 0}
 .card{display:block;background:var(--card);border:1px solid var(--line);border-radius:.7rem;
 padding:1rem 1.1rem;color:var(--ink)}
@@ -412,34 +418,37 @@ PRESENT_JS = r"""
   function openControl() {
     if (ctrl) return;
     CODE = roomCode();
+    var EN = document.documentElement.dataset.lang === 'en';
+    function L(th, en) { return EN ? en : th; }
     ctrl = el('div', 'present-ctrl');
     ctrl.innerHTML =
       '<div class="pc-bar">' +
-        '<span class="pc-title">' + esc(DATA.th) + ' ' + DATA.ch + ' · Presenter</span>' +
+        '<span class="pc-title">' + esc(DATA.th) + ' ' + DATA.ch + L(' · ผู้นำเสนอ', ' · Presenter') + '</span>' +
         '<span class="pc-actions">' +
-          '<button data-a="aud" class="pc-primary">Open audience window</button>' +
-          '<button data-a="cast" hidden>Cast</button>' +
-          '<button data-a="close">Esc · exit</button>' +
+          '<button data-a="aud" class="pc-primary">' + L('เปิดหน้าจอผู้ชม', 'Open audience window') + '</button>' +
+          '<button data-a="cast" hidden>' + L('แคสต์', 'Cast') + '</button>' +
+          '<button data-a="close">' + L('Esc · ออก', 'Esc · exit') + '</button>' +
         '</span>' +
       '</div>' +
-      (SB ? '<div class="pc-remote">On the TV / other screen, open <b>bible.eremosapp.com/present.html</b> and enter code ' +
-            '<span class="pc-code">' + CODE + '</span> <span class="pc-status">· connecting…</span></div>' : '') +
+      (SB ? '<div class="pc-remote">' + L('บนทีวีหรือหน้าจออื่น เปิด ', 'On the TV / other screen, open ') +
+            '<b>bible.eremosapp.com/present.html</b>' + L(' แล้วใส่รหัส ', ' and enter code ') +
+            '<span class="pc-code">' + CODE + '</span> <span class="pc-status">' + L('· กำลังเชื่อมต่อ…', '· connecting…') + '</span></div>' : '') +
       '<div class="pc-look">' +
-        '<span class="pc-look-lbl">Look</span>' +
+        '<span class="pc-look-lbl">' + L('รูปแบบ', 'Look') + '</span>' +
         '<span class="pc-seg" data-grp="theme">' +
-          '<button data-theme="night">Night</button><button data-theme="day">Day</button><button data-theme="ink">Black</button>' +
+          '<button data-theme="night">' + L('กลางคืน', 'Night') + '</button><button data-theme="day">' + L('กลางวัน', 'Day') + '</button><button data-theme="ink">' + L('ดำสนิท', 'Black') + '</button>' +
         '</span>' +
         '<span class="pc-seg" data-grp="font">' +
-          '<button data-font="trad">ไทยดั้งเดิม · Traditional</button><button data-font="modern">ไทยสมัยใหม่ · Modern</button>' +
+          '<button data-font="trad">' + L('ไทยดั้งเดิม', 'Traditional') + '</button><button data-font="modern">' + L('ไทยสมัยใหม่', 'Modern') + '</button>' +
         '</span>' +
       '</div>' +
       '<div class="pc-stage"><div class="pc-ref"></div><div class="pc-preview"></div></div>' +
       '<div class="pc-controls">' +
-        '<button data-a="prev">← Prev</button>' +
-        '<div class="pc-span">Verses per screen <button data-a="fewer">−</button><b class="pc-n">1</b><button data-a="more">+</button></div>' +
-        '<button data-a="next">Next →</button>' +
+        '<button data-a="prev">' + L('← ก่อนหน้า', '← Prev') + '</button>' +
+        '<div class="pc-span">' + L('ข้อต่อหน้าจอ', 'Verses per screen') + ' <button data-a="fewer">−</button><b class="pc-n">1</b><button data-a="more">+</button></div>' +
+        '<button data-a="next">' + L('ถัดไป →', 'Next →') + '</button>' +
       '</div>' +
-      '<div class="pc-hint">Tap a verse to start there · −/+ sets how many show · Next moves on by that many. Controls stay on this screen.</div>' +
+      '<div class="pc-hint">' + L('แตะข้อเพื่อเริ่มที่ข้อนั้น · −/+ กำหนดจำนวนข้อที่แสดง · ปุ่มถัดไปเลื่อนทีละจำนวนนั้น การควบคุมอยู่บนหน้าจอนี้', 'Tap a verse to start there · −/+ sets how many show · Next moves on by that many. Controls stay on this screen.') + '</div>' +
       '<div class="pc-list"></div>';
     document.body.appendChild(ctrl);
 
@@ -469,7 +478,7 @@ PRESENT_JS = r"""
     render();
     realtimeConnect(CODE, null, function () { push(); }).then(function (r) {
       rt = r; var st = ctrl && ctrl.querySelector('.pc-status');
-      if (st) st.textContent = r ? '· ready — waiting for a screen to join' : '· offline (same-device only)';
+      if (st) st.textContent = r ? L('· พร้อมแล้ว — รอหน้าจอเข้าร่วม', '· ready — waiting for a screen to join') : L('· ออฟไลน์ (เฉพาะอุปกรณ์เดียวกัน)', '· offline (same-device only)');
       push();
     });
     push();
@@ -607,16 +616,34 @@ PRESENT_JS = r"""
 """
 
 
+def bi(th: str, en: str) -> str:
+    """Inline bilingual span — CSS shows one per <html data-lang>. Thai is default."""
+    return f'<span class="only-th">{th}</span><span class="only-en">{en}</span>'
+
+
+# Set the language before first paint (no flash). Thai is the default for
+# everyone — most Thai users run English-language phones, so browser-language
+# detection would wrongly show them English; a remembered toggle handles the rest.
+LANG_INIT = ("<script>(function(){try{var l=localStorage.getItem('eremos.lang');"
+             "document.documentElement.dataset.lang=(l==='en'||l==='th')?l:'th';}"
+             "catch(e){document.documentElement.dataset.lang='th';}})();</script>")
+LANG_TOGGLE = ('<button class="langtoggle" aria-label="Thai / English" '
+               "onclick=\"(function(){var d=document.documentElement.dataset;"
+               "d.lang=d.lang==='en'?'th':'en';try{localStorage.setItem('eremos.lang',d.lang);}catch(e){}})()\">"
+               '<span class="only-th">EN</span><span class="only-en">ไทย</span></button>')
+
+
 def page(title: str, body: str, depth: int) -> str:
     rel = "../" * depth
     sb_head = sb_config_script()
     return f"""<!doctype html>
-<html lang="th">
+<html lang="th" data-lang="th">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{html.escape(title)}</title>
 <link rel="stylesheet" href="{rel}style.css">
+{LANG_INIT}
 {sb_head}
 <meta name="description" content="พระคัมภีร์ไทยฉบับเอเรโมส — a free, public-domain Thai Bible translated from the original Hebrew and Greek.">
 </head>
@@ -624,16 +651,19 @@ def page(title: str, body: str, depth: int) -> str:
 <main>
 <div class="top">
   <a class="brand" href="{rel}index.html">เอเรโมส · Eremos Thai Bible</a>
-  <nav><a href="{rel}index.html#books">Books</a> <a href="{rel}data/index.html">Data</a> <a href="{GIVE_URL}">Give</a></nav>
+  <nav><a href="{rel}index.html#books">{bi('หนังสือ', 'Books')}</a> <a href="{rel}data/index.html">{bi('ข้อมูล', 'Data')}</a> <a href="{GIVE_URL}">{bi('ร่วมสมทบ', 'Give')}</a> {LANG_TOGGLE}</nav>
 </div>
 {body}
 <footer>
-  <p>พระคัมภีร์ไทยฉบับเอเรโมส · The Eremos Thai Bible — released into the public domain under
+  <p class="only-th">พระคัมภีร์ไทยฉบับเอเรโมส — มอบให้เป็นสมบัติสาธารณะภายใต้สัญญาอนุญาต
+  <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a> ใช้ได้อย่างอิสระ ทั้งคัดลอก พิมพ์
+  หรือนำไปพัฒนาต่อ — ไม่ต้องขออนุญาต ไม่มีค่าใช้จ่าย</p>
+  <p class="only-en">The Eremos Thai Bible — released into the public domain under
   <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a>. Use it freely: quote it, print it,
   build with it — no permission, no price.</p>
-  <p style="margin-top:.5rem">A work of <a href="{APP_URL}">Eremos</a> ·
-  <a href="{GITHUB}">source on GitHub</a> · <a href="{HELP_URL}">help with the review</a> ·
-  <a href="{GIVE_URL}">support the work</a></p>
+  <p style="margin-top:.5rem">{bi('ผลงานของ', 'A work of')} <a href="{APP_URL}">Eremos</a> ·
+  <a href="{GITHUB}">{bi('ซอร์สโค้ดบน GitHub', 'source on GitHub')}</a> · <a href="{HELP_URL}">{bi('ช่วยตรวจทาน', 'help with the review')}</a> ·
+  <a href="{GIVE_URL}">{bi('ร่วมสนับสนุน', 'support the work')}</a></p>
 </footer>
 </main>
 </body>
@@ -722,19 +752,19 @@ def build_chapter_body(book: Book, ch: Chapter, prev_link: str, next_link: str, 
     )
 
     note_count = len(ch.notes)
-    study_label = f"ศึกษา · Study ({note_count})" if note_count else "ศึกษา · Study"
+    study_count = f" ({note_count})" if note_count else ""
 
     return f"""<p class="eyebrow"><a href="index.html">{html.escape(book.th)} · {html.escape(book.en)}</a></p>
-<h1>บทที่ {ch.number}</h1>
+<h1>{bi(f'บทที่ {ch.number}', f'Chapter {ch.number}')}</h1>
 <div class="toolbar">
-  <button id="view-reading" aria-pressed="true">อ่าน · Reading</button>
-  <button id="view-study" aria-pressed="false">{study_label}</button>
-  <button id="present-start" class="present-btn">▶ Present</button>
+  <button id="view-reading" aria-pressed="true">{bi('อ่าน', 'Reading')}</button>
+  <button id="view-study" aria-pressed="false">{bi('ศึกษา', 'Study')}{study_count}</button>
+  <button id="present-start" class="present-btn">{bi('▶ นำเสนอ', '▶ Present')}</button>
 </div>
 <div class="prose" id="reading">{reading}</div>
 <div id="study" hidden>
 {study}
-<p class="note" style="margin-top:2rem">บริบท (context) notes are editorial commentary — not part of the biblical text.</p>
+<p class="note" style="margin-top:2rem">{bi('หมายเหตุบริบทเป็นคำอธิบายเชิงบรรณาธิการ ไม่ใช่ส่วนหนึ่งของเนื้อความพระคัมภีร์', 'Context notes are editorial commentary — not part of the biblical text.')}</p>
 </div>
 <div class="pager"><span>{prev_link}</span><span>{next_link}</span></div>
 <script type="application/json" id="chapter-data">{chapter_data}</script>
@@ -756,13 +786,13 @@ __SB__
 </div>
 <div id="join" style="position:fixed;inset:0;display:flex;flex-direction:column;align-items:center;
 justify-content:center;gap:1rem;background:#0e0c09;color:#f3ead8;z-index:70;font-family:-apple-system,system-ui,sans-serif">
-  <div style="font-family:Georgia,serif;font-size:1.3rem">Join a presenter</div>
-  <div style="color:#b9a888;font-size:.9rem">Enter the 6-character code on the presenter's screen</div>
+  <div style="font-family:Georgia,serif;font-size:1.3rem">เข้าร่วมการนำเสนอ · Join a presenter</div>
+  <div style="color:#b9a888;font-size:.9rem">ใส่รหัส 6 หลักที่แสดงบนหน้าจอผู้นำเสนอ · Enter the 6-character code</div>
   <input id="code" maxlength="6" autocapitalize="characters" autocomplete="off"
    style="font:inherit;font-size:1.6rem;letter-spacing:.3em;text-align:center;text-transform:uppercase;
    width:9ch;padding:.6rem;border-radius:.5rem;border:1px solid #4a4132;background:rgba(255,255,255,.06);color:#f3ead8">
   <button id="go" style="font:inherit;font-size:1rem;padding:.55rem 1.4rem;border-radius:2rem;
-   border:none;background:#d09a5b;color:#0e0c09;cursor:pointer">Connect</button>
+   border:none;background:#d09a5b;color:#0e0c09;cursor:pointer">เชื่อมต่อ · Connect</button>
   <div id="err" style="color:#c98;font-size:.85rem;min-height:1.2em"></div>
 </div>
 <script>
@@ -849,12 +879,12 @@ def main() -> None:
         struct = load_structure(b.slug)
         grid = "".join(f'<a href="{c.number}.html">{c.number}</a>' for c in b.chapters)
         body = (
-            f'<p class="eyebrow">{ "พันธสัญญาเดิม · Old Testament" if b.testament == "ot" else "พันธสัญญาใหม่ · New Testament" }</p>'
+            f'<p class="eyebrow">{ bi("พันธสัญญาเดิม", "Old Testament") if b.testament == "ot" else bi("พันธสัญญาใหม่", "New Testament") }</p>'
             f"<h1>{html.escape(b.th)}</h1>"
-            f'<p class="note">{html.escape(b.en)} · {len(b.chapters)} บท</p>'
+            f'<p class="note">{html.escape(b.en)} · {len(b.chapters)} {bi("บท", "chapters")}</p>'
             f'<div class="chapters">{grid}</div>'
             f'<p class="note" style="margin-top:2rem"><a href="{GITHUB}/blob/main/output/reader/{b.slug}.md">'
-            f"Read this book as markdown on GitHub →</a></p>"
+            f'{bi("อ่านหนังสือเล่มนี้เป็น markdown บน GitHub →", "Read this book as markdown on GitHub →")}</a></p>'
         )
         (bdir / "index.html").write_text(
             page(f"{b.th} · Eremos Thai Bible", body, 2), encoding="utf-8"
@@ -882,47 +912,60 @@ def main() -> None:
 
     index_body = f"""
 <div class="hero">
-  <p class="eyebrow">A free Thai Bible from the original languages</p>
+  <p class="eyebrow">{bi('พระคัมภีร์ไทยฟรี แปลจากภาษาต้นฉบับ', 'A free Thai Bible from the original languages')}</p>
   <h1>พระคัมภีร์ไทยฉบับเอเรโมส</h1>
-  <p>God's Word belongs to everyone. The Eremos Thai Bible is translated afresh from the
+  <p class="only-th">พระวจนะของพระเจ้าเป็นของทุกคน พระคัมภีร์ไทยฉบับเอเรโมสแปลขึ้นใหม่จากภาษาฮีบรูและกรีก
+  และมอบให้เป็นสมบัติสาธารณะ — ทุกข้อพระคัมภีร์ใช้ได้ฟรี ไม่ว่าจะเป็นคริสตจักร แอปพลิเคชัน หรือผู้แปลในประเทศไทย
+  ไม่ต้องขออนุญาต ไม่มีค่าใช้จ่าย ตลอดไป</p>
+  <p class="only-en">God's Word belongs to everyone. The Eremos Thai Bible is translated afresh from the
   Hebrew and Greek and released into the public domain — every verse free for any church,
   app, or translator in Thailand to use. No permission. No price. Forever.</p>
 </div>
 <div class="wip">
-  <span class="wip-tag">ฉบับร่างกำลังตรวจทาน · Working draft, in review</span>
-  <p>This is an <b>unfinished first draft</b> — not yet a final translation. It was drafted from the
+  <span class="wip-tag">{bi('ฉบับร่าง · กำลังตรวจทาน', 'Working draft, in review')}</span>
+  <p class="only-th">นี่คือ<b>ฉบับร่างแรกที่ยังไม่เสร็จสมบูรณ์</b> ยังไม่ใช่ฉบับแปลสุดท้าย ร่างขึ้นจากภาษาฮีบรูและกรีก
+  โดยมีปัญญาประดิษฐ์ (AI) ช่วย และขณะนี้ผู้อ่านชาวไทยกำลังตรวจทานทีละบรรทัดตามมาตรฐานการแปลพระคัมภีร์
+  ทุกคำแปลพร้อมรับการแก้ไข <a href="{HELP_URL}"><b>ช่วยเราทำให้เสร็จสมบูรณ์ — มาเป็นผู้ตรวจทาน →</b></a></p>
+  <p class="only-en">This is an <b>unfinished first draft</b> — not yet a final translation. It was drafted from the
   Hebrew and Greek with the help of AI, and Thai readers are now checking it line by line against
   established Bible-translation standards. Every rendering is open to correction.
   <a href="{HELP_URL}"><b>Help us finish it — become a reviewer →</b></a></p>
 </div>
 <div class="stats">
-  <div><b>66</b><span>books · เล่ม</span></div>
-  <div><b>{total_chapters:,}</b><span>chapters · บท</span></div>
-  <div><b>{total_verses:,}</b><span>verses · ข้อ</span></div>
+  <div><b>66</b><span>{bi('เล่ม', 'books')}</span></div>
+  <div><b>{total_chapters:,}</b><span>{bi('บท', 'chapters')}</span></div>
+  <div><b>{total_verses:,}</b><span>{bi('ข้อ', 'verses')}</span></div>
 </div>
-<p class="note">A first draft of all 66 books now exists and is moving, book by book, through careful
+<p class="note only-th">ขณะนี้มีฉบับร่างครบทั้ง 66 เล่มแล้ว และกำลังตรวจทานอย่างรอบคอบทีละเล่มร่วมกับผู้อ่านชาวไทย —
+ทั้งศิษยาภิบาล ผู้แปล และผู้อ่านทั่วไป — ก่อนที่ส่วนใดจะถือว่าเสร็จสมบูรณ์ ทุกบทยังมีโหมด <b>นำเสนอ</b>
+สำหรับจอในคริสตจักรด้วย ทั้งแบบเต็มจอ จอที่สอง หรือ Chromecast</p>
+<p class="note only-en">A first draft of all 66 books now exists and is moving, book by book, through careful
 review with Thai speakers — pastors, translators, and everyday readers — before any part is
 considered final. Every chapter also has a <b>Present</b> mode for church screens — fullscreen
 slides, a second display, or Chromecast.</p>
 <div class="cards">
-  <a class="card" href="{HELP_URL}"><b>Help review it</b><span>Read Thai? Join the review —
-  native speakers, pastors, and careful readers all needed.</span></a>
-  <a class="card" href="{GIVE_URL}"><b>Support the work</b><span>Tax-deductible gifts to Eremos
-  sustain the translation and discipleship ministry.</span></a>
-  <a class="card" href="data/index.html"><b>Use the data</b><span>Download every book — CC0,
-  markdown and JSON, straight from the open repository.</span></a>
+  <a class="card" href="{HELP_URL}"><b>{bi('ช่วยตรวจทาน', 'Help review it')}</b><span>{bi('อ่านภาษาไทยได้ใช่ไหม? มาร่วมตรวจทาน — เราต้องการทั้งเจ้าของภาษา ศิษยาภิบาล และผู้อ่านที่ใส่ใจ', 'Read Thai? Join the review — native speakers, pastors, and careful readers all needed.')}</span></a>
+  <a class="card" href="{GIVE_URL}"><b>{bi('ร่วมสนับสนุน', 'Support the work')}</b><span>{bi('การถวายช่วยสนับสนุนงานแปลและพันธกิจการสร้างสาวกของเอเรโมส', 'Tax-deductible gifts to Eremos sustain the translation and discipleship ministry.')}</span></a>
+  <a class="card" href="data/index.html"><b>{bi('ใช้ข้อมูล', 'Use the data')}</b><span>{bi('ดาวน์โหลดได้ทุกเล่ม — CC0 ทั้งไฟล์ markdown และ JSON จากคลังข้อมูลเปิด', 'Download every book — CC0, markdown and JSON, straight from the open repository.')}</span></a>
 </div>
 <section id="books">
-  <h2>พันธสัญญาเดิม · Old Testament</h2>
+  <h2>{bi('พันธสัญญาเดิม', 'Old Testament')}</h2>
   {book_grid(books[:OT_COUNT])}
 </section>
 <section>
-  <h2>พันธสัญญาใหม่ · New Testament</h2>
+  <h2>{bi('พันธสัญญาใหม่', 'New Testament')}</h2>
   {book_grid(books[OT_COUNT:])}
 </section>
 <section>
-  <h2>How it's made — and how far along it is</h2>
-  <p class="note">Every verse is drafted from the Masoretic Hebrew and the SBL Greek New Testament
+  <h2>{bi('แปลอย่างไร และคืบหน้าแค่ไหน', "How it's made — and how far along it is")}</h2>
+  <p class="note only-th">ทุกข้อร่างขึ้นจากต้นฉบับภาษาฮีบรู (Masoretic) และภาษากรีก (SBL Greek New Testament)
+  โดยมี AI ช่วย จากนั้นตรวจสอบตามกฎที่วางเป็นชั้น ๆ ทั้งความสัตย์ซื่อต่อต้นฉบับ ความเป็นธรรมชาติของภาษาไทย
+  และความสม่ำเสมอของพระนามพระเจ้าและคำราชาศัพท์ — แล้วจึงให้ผู้ตรวจทานชาวไทยอ่านก่อนจะถือว่าเล่มนั้นเสร็จ
+  เรายึดหลักการแปลที่เป็นที่ยอมรับ และบันทึกทุกการตัดสินใจไว้อย่างเปิดเผยเพื่อให้ทุกคนตรวจสอบได้ นี่คืองานที่ตั้งใจ
+  ให้อยู่ระหว่างดำเนินการ เรายินดีรับการแก้ไขมากกว่าจะผิดอยู่เงียบ ๆ และยินดีต้อนรับการตรวจสอบจากทั้งผู้แปลที่ผ่านการอบรม
+  และเจ้าของภาษา แอปอ่านพระคัมภีร์ที่ <a href="{APP_URL}">eremosapp.com</a> ใช้ฉบับแปลนี้ควบคู่กับจังหวะการอ่านประจำวัน
+  ทุกอย่าง — ทั้งเนื้อหา การตัดสินใจ และเครื่องมือ — อยู่ใน<a href="{GITHUB}">คลังข้อมูลสาธารณะ</a></p>
+  <p class="note only-en">Every verse is drafted from the Masoretic Hebrew and the SBL Greek New Testament
   with the help of AI, then checked against layered rules for faithfulness to the original text,
   natural Thai, and consistent divine names and honorifics — and read by Thai reviewers before a
   book is called finished. We follow recognized translation principles and record every decision in
@@ -942,24 +985,26 @@ slides, a second display, or Chromecast.</p>
         for b in books
     )
     data_body = f"""
-<h1>Use the data</h1>
-<p>Everything is <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a> —
+<h1>{bi('ใช้ข้อมูล', 'Use the data')}</h1>
+<p class="only-th">ทุกอย่างเป็น <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a> —
+สมบัติสาธารณะ ไม่ต้องให้เครดิต (แต่เรายินดีมากที่จะได้ยินว่าคุณนำไปสร้างอะไร)</p>
+<p class="only-en">Everything is <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a> —
 public domain, no attribution required (though we love hearing what you build).</p>
 <section>
-  <h2>Formats</h2>
+  <h2>{bi('รูปแบบไฟล์', 'Formats')}</h2>
   <ul class="plain">
-    <li><b>Reader markdown</b> — one file per book with context notes:
+    <li><b>{bi('Markdown สำหรับอ่าน', 'Reader markdown')}</b> — {bi('หนึ่งไฟล์ต่อหนึ่งเล่ม พร้อมหมายเหตุบริบท', 'one file per book with context notes')}:
         <a href="{GITHUB}/tree/main/output/reader">output/reader/</a></li>
-    <li><b>Plain markdown</b> — verses only, for review and typesetting:
+    <li><b>{bi('Markdown ล้วน', 'Plain markdown')}</b> — {bi('เฉพาะข้อพระคัมภีร์ สำหรับตรวจทานและจัดพิมพ์', 'verses only, for review and typesetting')}:
         <a href="{GITHUB}/tree/main/output/plain">output/plain/</a></li>
-    <li><b>Structured JSON</b> — per-chapter, with source text and translator decisions:
+    <li><b>{bi('JSON แบบมีโครงสร้าง', 'Structured JSON')}</b> — {bi('แยกตามบท พร้อมข้อความต้นฉบับและการตัดสินใจของผู้แปล', 'per-chapter, with source text and translator decisions')}:
         <a href="{GITHUB}/tree/main/output/translations">output/translations/</a></li>
-    <li><b>Everything at once</b> — clone or
-        <a href="{GITHUB}/archive/refs/heads/main.zip">download the repository as a ZIP</a>.</li>
+    <li><b>{bi('ทั้งหมดในครั้งเดียว', 'Everything at once')}</b> — {bi('โคลนหรือ', 'clone or')}
+        <a href="{GITHUB}/archive/refs/heads/main.zip">{bi('ดาวน์โหลดคลังข้อมูลเป็น ZIP', 'download the repository as a ZIP')}</a></li>
   </ul>
 </section>
 <section>
-  <h2>Reader edition, book by book</h2>
+  <h2>{bi('ฉบับสำหรับอ่าน แยกตามเล่ม', 'Reader edition, book by book')}</h2>
   <ul class="plain">{book_links}</ul>
 </section>
 """
