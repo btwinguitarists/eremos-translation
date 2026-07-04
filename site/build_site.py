@@ -196,6 +196,12 @@ padding-bottom:1.5rem;border-bottom:1px solid var(--line);margin-bottom:2rem}
 .top nav{display:flex;gap:1rem;font-size:.85rem}
 .hero h1{font-size:2.1rem;margin:.4rem 0 1rem}
 .hero p{color:var(--muted);max-width:36rem}
+.wip{margin:1.6rem 0 .4rem;padding:1rem 1.2rem;background:var(--wash);border:1px solid var(--line);
+border-left:3px solid var(--accent);border-radius:.6rem}
+.wip-tag{display:inline-block;font-size:.7rem;letter-spacing:.1em;text-transform:uppercase;
+font-weight:600;color:var(--accent);margin-bottom:.4rem}
+.wip p{margin:0;font-size:.95rem;line-height:1.6;color:var(--ink);max-width:60rem}
+.wip a{color:var(--accent)}
 .cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(13rem,1fr));gap:.8rem;margin:2rem 0}
 .card{display:block;background:var(--card);border:1px solid var(--line);border-radius:.7rem;
 padding:1rem 1.1rem;color:var(--ink)}
@@ -269,53 +275,58 @@ ul.plain{list-style:none;padding:0}
 ul.plain li{margin:.45rem 0}
 [hidden]{display:none !important}
 
-/* ── presenter (control screen) + audience (second screen) ── */
+/* ── presenter (control) + audience (second screen) ── */
 .present-ctrl{position:fixed;inset:0;background:var(--bg);color:var(--ink);z-index:60;
-display:flex;flex-direction:column;padding:1rem 1.2rem 1.2rem}
+display:flex;flex-direction:column;padding:.9rem 1.1rem 1.1rem;overflow:hidden}
 .pc-bar{display:flex;justify-content:space-between;align-items:center;gap:1rem;flex-wrap:wrap;
-padding-bottom:.8rem;border-bottom:1px solid var(--line)}
+padding-bottom:.7rem;border-bottom:1px solid var(--line);flex:0 0 auto}
 .pc-title{font-family:Georgia,serif;font-size:1rem}
 .pc-actions{display:flex;gap:.5rem}
-.pc-actions button,.pc-controls button{font:inherit;font-size:.85rem;padding:.45rem .9rem;
-border-radius:2rem;border:1px solid var(--line);background:var(--card);color:var(--ink);cursor:pointer}
-.pc-actions button:hover,.pc-controls button:hover{border-color:var(--accent)}
+.pc-actions button,.pc-controls>button{font:inherit;font-size:.85rem;padding:.45rem .9rem;border-radius:2rem;
+border:1px solid var(--line);background:var(--card);color:var(--ink);cursor:pointer}
+.pc-actions button:hover,.pc-controls>button:hover{border-color:var(--accent)}
 .pc-primary{background:var(--accent)!important;border-color:var(--accent)!important;color:#fff!important}
-.pc-stage{flex:0 0 auto;background:#0e0c09;color:#f3ead8;border-radius:.7rem;margin:1rem 0;
-padding:2.2rem 2rem 1.2rem;min-height:34vh;display:flex;flex-direction:column;justify-content:center}
-.pc-preview{font-size:clamp(1.2rem,2.6vw,2rem);line-height:1.7;text-align:center;font-weight:500}
-.pc-preview .pvn{font-size:.55em;color:#c9a978;vertical-align:super;margin:0 .3em 0 .5em}
-.pc-ref{text-align:center;color:#b9a888;font-size:.9rem;margin-top:1rem;font-variant-numeric:tabular-nums}
-.pc-controls{display:flex;align-items:center;justify-content:space-between;gap:1rem}
-.pc-span{font-size:.85rem;color:var(--muted);display:flex;align-items:center;gap:.5rem}
-.pc-span b{min-width:1.2em;text-align:center;color:var(--ink)}
-.pc-hint{font-size:.78rem;color:var(--muted);margin:.7rem 0;text-align:center}
-.pc-list{flex:1;overflow-y:auto;border-top:1px solid var(--line);padding-top:.6rem;
-display:flex;flex-direction:column;gap:.15rem}
-.pc-vitem{text-align:left;font:inherit;font-size:.82rem;line-height:1.4;padding:.35rem .6rem;
-border:none;background:none;color:var(--muted);cursor:pointer;border-radius:.4rem;
-white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-.pc-vitem:hover{background:var(--wash);color:var(--ink)}
+.pc-remote{margin:.7rem 0 0;padding:.6rem .9rem;background:var(--wash);border-radius:.6rem;
+font-size:.9rem;color:var(--muted);text-align:center;flex:0 0 auto}
+.pc-code{font-family:Georgia,serif;font-size:1.15rem;letter-spacing:.22em;color:var(--accent);font-weight:600;margin:0 .2em}
+.pc-look{display:flex;align-items:center;gap:.7rem;flex-wrap:wrap;margin:.7rem 0 0;flex:0 0 auto}
+.pc-look-lbl{font-size:.72rem;letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+.pc-seg{display:inline-flex;border:1px solid var(--line);border-radius:2rem;overflow:hidden}
+.pc-seg button{font:inherit;font-size:.8rem;padding:.35rem .8rem;border:none;background:var(--card);color:var(--muted);cursor:pointer}
+.pc-seg button.on{background:var(--accent);color:#fff}
+.pc-stage{flex:0 0 auto;border-radius:.7rem;margin:.8rem 0;padding:1.4rem 1.6rem;min-height:24vh;
+display:flex;flex-direction:column;justify-content:center;transition:background .25s}
+.pc-ref{text-align:center;font-size:.92rem;margin-bottom:.9rem;font-variant-numeric:tabular-nums;letter-spacing:.02em}
+.pc-preview{font-size:clamp(1.2rem,2.4vw,1.9rem);line-height:1.6;text-align:center;font-weight:500}
+.pc-preview .pvn{font-size:.55em;vertical-align:super;margin:0 .3em 0 .5em}
+.pc-controls{display:flex;align-items:center;justify-content:space-between;gap:1rem;flex:0 0 auto}
+.pc-span{font-size:.85rem;color:var(--muted);display:flex;align-items:center;gap:.55rem}
+.pc-span b{min-width:1.3em;text-align:center;color:var(--ink);font-size:1.05rem}
+.pc-span button{width:2rem;height:2rem;border-radius:50%;border:1px solid var(--line);background:var(--card);color:var(--ink);font-size:1.1rem;cursor:pointer;line-height:1}
+.pc-hint{font-size:.78rem;color:var(--muted);margin:.6rem 0;text-align:center;flex:0 0 auto}
+.pc-list{flex:1 1 auto;overflow-y:auto;border-top:1px solid var(--line);padding-top:.5rem;display:flex;flex-direction:column;gap:.1rem}
+.pc-vitem{display:flex;gap:.6rem;align-items:baseline;text-align:left;font:inherit;font-size:1rem;line-height:1.5;
+padding:.5rem .7rem;border:none;background:none;color:var(--ink);cursor:pointer;border-radius:.5rem;width:100%}
+.pc-vitem:hover{background:var(--wash)}
 .pc-vitem.on{background:var(--accent);color:#fff}
-.pc-vitem span{display:inline-block;min-width:1.8em;color:var(--accent);font-variant-numeric:tabular-nums}
-.pc-vitem.on span{color:#fff}
+.pc-vn{flex:0 0 auto;min-width:1.8em;color:var(--accent);font-variant-numeric:tabular-nums;font-weight:600}
+.pc-vitem.on .pc-vn{color:#fff}
+.pc-vt{flex:1 1 auto;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
 
-.pc-remote{margin:.9rem 0 0;padding:.7rem 1rem;background:var(--wash);border-radius:.6rem;
-font-size:.9rem;color:var(--muted);text-align:center}
-.pc-code{font-family:Georgia,serif;font-size:1.15rem;letter-spacing:.22em;color:var(--accent);
-font-weight:600;margin:0 .2em}
-.pc-status{font-size:.82rem}
-/* audience screen — only the Bible, no controls */
+/* audience — reference on top, brand bottom-left, hint fades when idle */
 .present-audience{position:fixed;inset:0;background:#0e0c09;color:#f3ead8;z-index:50;
-display:flex;flex-direction:column;user-select:none}
-.present-audience .aud-slide{flex:1;display:flex;align-items:center;justify-content:center;
-padding:5vh 7vw;overflow:hidden}
-.present-audience .aud-body{font-weight:500;line-height:1.7;max-width:64ch;text-align:center;
-font-family:-apple-system,'Sukhumvit Set','Noto Sans Thai',Thonburi,system-ui,sans-serif}
-.present-audience .aud-body .pvn{font-size:.5em;color:#c9a978;vertical-align:super;margin:0 .3em 0 .5em}
-.present-audience .aud-ref{padding:1.2rem 1.6rem;text-align:center;color:#b9a888;
-font-size:clamp(.9rem,1.7vw,1.3rem);font-variant-numeric:tabular-nums}
-.present-audience .aud-hint{position:absolute;bottom:4.4rem;left:0;right:0;text-align:center;
-font-size:.8rem;color:#8a7c62}
+display:flex;flex-direction:column;user-select:none;transition:background .3s}
+.present-audience .aud-ref{flex:0 0 auto;text-align:center;padding:2.6vh 4vw 0;
+font-size:clamp(1rem,2vw,1.5rem);font-variant-numeric:tabular-nums;letter-spacing:.03em;
+font-family:-apple-system,system-ui,sans-serif}
+.present-audience .aud-slide{flex:1 1 auto;display:flex;align-items:center;justify-content:center;padding:2vh 7vw;overflow:hidden}
+.present-audience .aud-body{font-weight:500;line-height:1.65;max-width:66ch;text-align:center;transition:opacity .3s ease}
+.present-audience .aud-body.fade{opacity:0}
+.present-audience .aud-body .pvn{font-size:.5em;vertical-align:super;margin:0 .3em 0 .5em}
+.present-audience .aud-brand{position:absolute;left:2.2vw;bottom:2vh;font-size:clamp(.7rem,1.2vw,.95rem);
+color:currentColor;opacity:.38;letter-spacing:.04em;font-family:-apple-system,system-ui,sans-serif}
+.present-audience .aud-hint{position:absolute;bottom:2vh;left:0;right:0;text-align:center;font-size:.85rem;opacity:.5;transition:opacity .5s}
+.present-audience.idle .aud-hint{opacity:0}
 body.receiver{background:#0e0c09}
 """
 
@@ -333,14 +344,49 @@ PRESENT_JS = r"""
   if (!dataEl) return;
   var DATA = JSON.parse(dataEl.textContent); // {slug, th, en, ch, verses:[{n,t}]}
   var params = new URLSearchParams(location.search);
-  var SB = window.__EREMOS_SB || null; // {url, key} baked at build (may be null → same-device only)
+  var SB = window.__EREMOS_SB || null;
   var localCH = 'eremos-present:' + DATA.slug + ':' + DATA.ch;
   var bc = ('BroadcastChannel' in window) ? new BroadcastChannel(localCH) : null;
 
+  // themes + fonts, shared by control preview + audience
+  var THEMES = {
+    night: { bg: '#0e0c09', fg: '#f3ead8', ref: '#c2ac86', vn: '#c9a978', brand: '#7d746c' },
+    day:   { bg: '#f7f2e8', fg: '#2a241e', ref: '#7a6f5c', vn: '#b07d3b', brand: '#a99b83' },
+    ink:   { bg: '#000000', fg: '#ffffff', ref: '#b7b7b7', vn: '#d8c39a', brand: '#8a8a8a' }
+  };
+  var FONTS = {
+    trad:   '"Noto Serif Thai","Sarabun",Thonburi,"Angsana New",serif',
+    modern: '"Sukhumvit Set","IBM Plex Sans Thai","Noto Sans Thai",system-ui,sans-serif'
+  };
   function esc(t) { var d = document.createElement('div'); d.textContent = t; return d.innerHTML; }
   function el(tag, cls) { var e = document.createElement(tag); if (cls) e.className = cls; return e; }
 
-  // 6-char room code (no ambiguous chars), persisted so a venue can bookmark the receiver URL.
+  function realtimeConnect(code, onSlide, onHello) {
+    if (!SB || !SB.url || !SB.key) return Promise.resolve(null);
+    return import('https://esm.sh/@supabase/supabase-js@2').then(function (m) {
+      var client = m.createClient(SB.url, SB.key, { realtime: { params: { eventsPerSecond: 10 } } });
+      var ch = client.channel('bible-present:' + code, { config: { broadcast: { self: false } } });
+      if (onSlide) ch.on('broadcast', { event: 'slide' }, function (e) { onSlide(e.payload); });
+      if (onHello) ch.on('broadcast', { event: 'hello' }, function () { onHello(); });
+      return new Promise(function (res) {
+        ch.subscribe(function (s) { if (s === 'SUBSCRIBED') res({ client: client, channel: ch }); });
+        setTimeout(function () { res({ client: client, channel: ch }); }, 4000);
+      });
+    }).catch(function () { return null; });
+  }
+
+  if (params.get('present') === 'receiver') { audience(); return; }
+
+  var trig = document.getElementById('present-start');
+  if (trig) trig.onclick = openControl;
+
+  var ctrl = null, audWin = null, castConn = null, rt = null, CODE = null;
+  var sel = 0, span = 1;
+  var theme = 'night', font = 'trad';
+  try { theme = localStorage.getItem('eremos.present.theme') || 'night'; font = localStorage.getItem('eremos.present.font') || 'trad'; } catch (e) {}
+
+  function clampSel() { if (sel < 0) sel = 0; if (sel > DATA.verses.length - 1) sel = DATA.verses.length - 1; if (span < 1) span = 1; }
+  function shown() { return Math.min(span, DATA.verses.length - sel); }  // never mutates span
   function roomCode() {
     try { var e = localStorage.getItem('eremos.present.code'); if (e && /^[A-Z0-9]{6}$/.test(e)) return e; } catch (x) {}
     var a = 'ABCDEFGHJKLMNPQRSTUVWXYZ23456789', c = '';
@@ -348,53 +394,15 @@ PRESENT_JS = r"""
     try { localStorage.setItem('eremos.present.code', c); } catch (x) {}
     return c;
   }
-
-  // ── shared Supabase realtime channel (cross-device: phone controls a TV/laptop) ──
-  var rt = null; // { channel, ready }
-  function realtimeConnect(code, onSlide, onHello) {
-    if (!SB || !SB.url || !SB.key) return Promise.resolve(null);
-    return import('https://esm.sh/@supabase/supabase-js@2')
-      .then(function (m) {
-        var client = m.createClient(SB.url, SB.key, { realtime: { params: { eventsPerSecond: 10 } } });
-        var ch = client.channel('bible-present:' + code, { config: { broadcast: { self: false } } });
-        if (onSlide) ch.on('broadcast', { event: 'slide' }, function (e) { onSlide(e.payload); });
-        if (onHello) ch.on('broadcast', { event: 'hello' }, function () { onHello(); });
-        return new Promise(function (res) {
-          ch.subscribe(function (status) { if (status === 'SUBSCRIBED') res({ client: client, channel: ch }); });
-          setTimeout(function () { res({ client: client, channel: ch }); }, 4000);
-        });
-      })
-      .catch(function () { return null; });
-  }
-
-  // ── AUDIENCE RECEIVER (?present=receiver on a chapter page): only the Bible ──
-  if (params.get('present') === 'receiver') { audience(); return; }
-
-  // ── PRESENTER CONTROL ──
-  var trig = document.getElementById('present-start');
-  if (trig) trig.onclick = openControl;
-
-  var ctrl = null, audWin = null, castConn = null;
-  var sel = 0, span = 1;
-  var CODE = null;
-
-  function clamp() {
-    if (sel < 0) sel = 0;
-    if (sel > DATA.verses.length - 1) sel = DATA.verses.length - 1;
-    if (span < 1) span = 1;
-    if (sel + span > DATA.verses.length) span = DATA.verses.length - sel;
-  }
-  function slide(s, n) {
-    var body = '';
-    for (var i = s; i < s + n; i++) {
-      body += '<span class="pv"><span class="pvn">' + DATA.verses[i].n + '</span>' + esc(DATA.verses[i].t) + '</span> ';
-    }
-    var ref = DATA.th + ' ' + DATA.ch + ':' + DATA.verses[s].n + (n > 1 ? '-' + DATA.verses[s + n - 1].n : '');
-    return { body: body, ref: ref };
+  function slide() {
+    clampSel();
+    var n = shown(), body = '';
+    for (var i = sel; i < sel + n; i++) body += '<span class="pv"><span class="pvn">' + DATA.verses[i].n + '</span>' + esc(DATA.verses[i].t) + '</span> ';
+    var ref = DATA.th + ' ' + DATA.ch + ':' + DATA.verses[sel].n + (n > 1 ? '-' + DATA.verses[sel + n - 1].n : '');
+    return { body: body, ref: ref, theme: theme, font: font };
   }
   function push() {
-    clamp();
-    var sl = slide(sel, span);       // broadcast the RENDERED slide so receivers need no chapter data
+    var sl = slide();
     if (bc) bc.postMessage(sl);
     if (audWin && !audWin.closed) { try { audWin.postMessage({ __present: 1, p: sl }, '*'); } catch (e) {} }
     if (rt && rt.channel) { try { rt.channel.send({ type: 'broadcast', event: 'slide', payload: sl }); } catch (e) {} }
@@ -404,7 +412,6 @@ PRESENT_JS = r"""
   function openControl() {
     if (ctrl) return;
     CODE = roomCode();
-    var recvUrl = SB ? (SB.origin + '/present.html?code=' + CODE) : null;
     ctrl = el('div', 'present-ctrl');
     ctrl.innerHTML =
       '<div class="pc-bar">' +
@@ -415,63 +422,78 @@ PRESENT_JS = r"""
           '<button data-a="close">Esc · exit</button>' +
         '</span>' +
       '</div>' +
-      (recvUrl ?
-        '<div class="pc-remote">On the TV / other screen, open <b>bible.eremosapp.com/present.html</b> and enter code ' +
-        '<span class="pc-code">' + CODE + '</span> <span class="pc-status" data-s="0">· waiting for a screen…</span></div>' : '') +
-      '<div class="pc-stage"><div class="pc-preview"></div><div class="pc-ref"></div></div>' +
+      (SB ? '<div class="pc-remote">On the TV / other screen, open <b>bible.eremosapp.com/present.html</b> and enter code ' +
+            '<span class="pc-code">' + CODE + '</span> <span class="pc-status">· connecting…</span></div>' : '') +
+      '<div class="pc-look">' +
+        '<span class="pc-look-lbl">Look</span>' +
+        '<span class="pc-seg" data-grp="theme">' +
+          '<button data-theme="night">Night</button><button data-theme="day">Day</button><button data-theme="ink">Black</button>' +
+        '</span>' +
+        '<span class="pc-seg" data-grp="font">' +
+          '<button data-font="trad">ไทยดั้งเดิม · Traditional</button><button data-font="modern">ไทยสมัยใหม่ · Modern</button>' +
+        '</span>' +
+      '</div>' +
+      '<div class="pc-stage"><div class="pc-ref"></div><div class="pc-preview"></div></div>' +
       '<div class="pc-controls">' +
         '<button data-a="prev">← Prev</button>' +
-        '<div class="pc-span">Show <button data-a="fewer">−</button><b class="pc-n">1</b><button data-a="more">+</button> verse(s)</div>' +
+        '<div class="pc-span">Verses per screen <button data-a="fewer">−</button><b class="pc-n">1</b><button data-a="more">+</button></div>' +
         '<button data-a="next">Next →</button>' +
       '</div>' +
-      '<div class="pc-hint">Audience sees only the verses — controls stay on this screen. Arrow keys move; ↑/↓ change how many verses show.</div>' +
+      '<div class="pc-hint">Tap a verse to start there · −/+ sets how many show · Next moves on by that many. Controls stay on this screen.</div>' +
       '<div class="pc-list"></div>';
     document.body.appendChild(ctrl);
 
     var list = ctrl.querySelector('.pc-list');
     DATA.verses.forEach(function (v, i) {
       var b = el('button', 'pc-vitem');
-      b.innerHTML = '<span>' + v.n + '</span>' + esc(v.t.slice(0, 60));
+      b.innerHTML = '<span class="pc-vn">' + v.n + '</span><span class="pc-vt">' + esc(v.t) + '</span>';
       b.onclick = function () { sel = i; span = 1; render(); push(); };
       list.appendChild(b);
     });
     ctrl.addEventListener('click', function (e) {
-      var a = e.target.getAttribute && e.target.getAttribute('data-a');
+      var t = e.target, a = t.getAttribute && t.getAttribute('data-a');
+      if (t.getAttribute && t.getAttribute('data-theme')) { theme = t.getAttribute('data-theme'); persistLook(); render(); push(); return; }
+      if (t.getAttribute && t.getAttribute('data-font')) { font = t.getAttribute('data-font'); persistLook(); render(); push(); return; }
       if (!a) return;
       if (a === 'prev') go(-1);
       else if (a === 'next') go(1);
       else if (a === 'more') { span++; render(); push(); }
-      else if (a === 'fewer') { span--; render(); push(); }
+      else if (a === 'fewer') { if (span > 1) span--; render(); push(); }
       else if (a === 'aud') openAudience();
-      else if (a === 'cast' && castConn === null) startCast();
+      else if (a === 'cast' && !castConn) startCast();
       else if (a === 'close') closeControl();
     });
 
     setupCast();
     document.addEventListener('keydown', onKey);
     render();
-    // connect the shared channel so a phone can drive a TV/laptop
     realtimeConnect(CODE, null, function () { push(); }).then(function (r) {
-      rt = r;
-      var st = ctrl && ctrl.querySelector('.pc-status');
-      if (st && r) st.textContent = '· ready — waiting for a screen to join';
+      rt = r; var st = ctrl && ctrl.querySelector('.pc-status');
+      if (st) st.textContent = r ? '· ready — waiting for a screen to join' : '· offline (same-device only)';
       push();
     });
     push();
   }
+  function persistLook() { try { localStorage.setItem('eremos.present.theme', theme); localStorage.setItem('eremos.present.font', font); } catch (e) {} }
 
   function render() {
     if (!ctrl) return;
-    clamp();
-    var s = slide(sel, span);
-    ctrl.querySelector('.pc-preview').innerHTML = s.body;
-    ctrl.querySelector('.pc-ref').textContent = s.ref;
+    var s = slide();
+    var stage = ctrl.querySelector('.pc-stage'), th = THEMES[theme];
+    stage.style.background = th.bg;
+    var prev = ctrl.querySelector('.pc-preview');
+    prev.style.color = th.fg; prev.style.fontFamily = FONTS[font];
+    prev.innerHTML = s.body;
+    prev.querySelectorAll('.pvn').forEach(function (x) { x.style.color = th.vn; });
+    var ref = ctrl.querySelector('.pc-ref'); ref.textContent = s.ref; ref.style.color = th.ref;
     ctrl.querySelector('.pc-n').textContent = String(span);
-    var items = ctrl.querySelectorAll('.pc-vitem');
-    for (var i = 0; i < items.length; i++) items[i].classList.toggle('on', i >= sel && i < sel + span);
+    ctrl.querySelectorAll('[data-theme]').forEach(function (b) { b.classList.toggle('on', b.getAttribute('data-theme') === theme); });
+    ctrl.querySelectorAll('[data-font]').forEach(function (b) { b.classList.toggle('on', b.getAttribute('data-font') === font); });
+    var n = shown(), items = ctrl.querySelectorAll('.pc-vitem');
+    for (var i = 0; i < items.length; i++) items[i].classList.toggle('on', i >= sel && i < sel + n);
     if (items[sel] && items[sel].scrollIntoView) items[sel].scrollIntoView({ block: 'nearest' });
   }
-  function go(d) { sel += d; span = 1; render(); push(); }
+  function go(d) { clampSel(); sel = d > 0 ? sel + span : sel - span; if (sel < 0) sel = 0; if (sel > DATA.verses.length - 1) sel = DATA.verses.length - 1; render(); push(); }
 
   function openAudience() {
     var url = location.pathname + '?present=receiver';
@@ -506,31 +528,55 @@ PRESENT_JS = r"""
     if (e.key === 'ArrowRight' || e.key === ' ' || e.key === 'PageDown') { e.preventDefault(); go(1); }
     else if (e.key === 'ArrowLeft' || e.key === 'PageUp') { e.preventDefault(); go(-1); }
     else if (e.key === 'ArrowUp') { e.preventDefault(); span++; render(); push(); }
-    else if (e.key === 'ArrowDown') { e.preventDefault(); span--; render(); push(); }
+    else if (e.key === 'ArrowDown') { e.preventDefault(); if (span > 1) span--; render(); push(); }
     else if (e.key === 'Escape') closeControl();
   }
 
-  // ── AUDIENCE (same-device receiver window on a chapter page) ──
-  function audience() {
-    document.body.classList.add('receiver');
-    var mains = document.querySelectorAll('main');
-    for (var i = 0; i < mains.length; i++) mains[i].hidden = true;
+  // ── AUDIENCE (chapter-page receiver window) ──
+  function audience() { runAudience(document, THEMES, FONTS, bc); }
+  if (bc) bc.addEventListener('message', function (e) { if (e.data && e.data.__hello && ctrl) push(); });
+
+  // shared audience renderer (also used by present.html via window.__eremosAudience)
+  window.__eremosAudience = function (doc, onReady) { runAudience(doc, THEMES, FONTS, null, onReady); };
+  function runAudience(doc, themes, fonts, chan, viaExternal) {
+    doc.body.classList.add('receiver');
+    var mains = doc.querySelectorAll('main'); for (var i = 0; i < mains.length; i++) mains[i].hidden = true;
     var root = el('div', 'present-audience');
-    root.innerHTML = '<div class="aud-slide"><div class="aud-body"></div></div><div class="aud-ref"></div><div class="aud-hint">คลิกเพื่อเต็มจอ · click for fullscreen</div>';
-    document.body.appendChild(root);
+    root.innerHTML =
+      '<div class="aud-ref"></div>' +
+      '<div class="aud-slide"><div class="aud-body"></div></div>' +
+      '<div class="aud-brand">bible.eremosapp.com</div>' +
+      '<div class="aud-hint">แตะเพื่อเต็มจอ · tap for full screen</div>';
+    doc.body.appendChild(root);
     var body = root.querySelector('.aud-body'), refEl = root.querySelector('.aud-ref'), hint = root.querySelector('.aud-hint');
-    root.addEventListener('click', function once() {
-      if (document.documentElement.requestFullscreen) document.documentElement.requestFullscreen().catch(function () {});
-      hint.textContent = ''; root.removeEventListener('click', once);
+    var idleTimer = null;
+    function wake() { root.classList.remove('idle'); clearTimeout(idleTimer); idleTimer = setTimeout(function () { root.classList.add('idle'); }, 2600); }
+    root.addEventListener('click', function () {
+      if (doc.documentElement.requestFullscreen) doc.documentElement.requestFullscreen().catch(function () {});
+      else if (doc.documentElement.webkitRequestFullscreen) doc.documentElement.webkitRequestFullscreen();
+      hint.style.display = 'none'; wake();
     });
+    doc.addEventListener('mousemove', wake); doc.addEventListener('touchstart', wake); wake();
     function fit() {
-      var size = Math.min(window.innerWidth, window.innerHeight) * 0.075;
+      var size = Math.min(root.clientWidth, root.clientHeight) * 0.078;
       body.style.fontSize = size + 'px';
-      var g = 30;
-      while (g-- > 0 && body.scrollHeight > body.parentElement.clientHeight && size > 12) { size *= 0.93; body.style.fontSize = size + 'px'; }
+      var g = 40; while (g-- > 0 && body.scrollHeight > body.parentElement.clientHeight && size > 12) { size *= 0.94; body.style.fontSize = size + 'px'; }
     }
-    function apply(p) { if (!p || !p.body) return; body.innerHTML = p.body; refEl.textContent = p.ref || ''; fit(); }
-    if (bc) bc.onmessage = function (e) { apply(e.data); };
+    function apply(p) {
+      if (!p || !p.body) return;
+      var th = themes[p.theme] || themes.night;
+      root.style.background = th.bg;
+      refEl.style.color = th.ref; refEl.textContent = p.ref || '';
+      body.style.fontFamily = fonts[p.font] || fonts.trad;
+      body.style.color = th.fg;
+      body.classList.add('fade');
+      setTimeout(function () {
+        body.innerHTML = p.body;
+        body.querySelectorAll('.pvn').forEach(function (x) { x.style.color = th.vn; });
+        body.classList.remove('fade'); fit();
+      }, 150);
+    }
+    if (chan) chan.onmessage = function (e) { apply(e.data); };
     window.addEventListener('message', function (e) { if (e.data && e.data.__present) apply(e.data.p); });
     if (navigator.presentation && navigator.presentation.receiver) {
       navigator.presentation.receiver.connectionList.then(function (list) {
@@ -539,13 +585,12 @@ PRESENT_JS = r"""
       });
     }
     window.addEventListener('resize', fit);
-    if (bc) bc.postMessage({ __hello: 1 });
+    if (chan) chan.postMessage({ __hello: 1 });
+    if (viaExternal) viaExternal(apply);
   }
-  if (bc) bc.addEventListener('message', function (e) { if (e.data && e.data.__hello && ctrl) push(); });
 
-  // reading / study view toggle (context notes live only in study view)
-  var btnRead = document.getElementById('view-reading');
-  var btnStudy = document.getElementById('view-study');
+  // reading / study view toggle
+  var btnRead = document.getElementById('view-reading'), btnStudy = document.getElementById('view-study');
   function setView(study) {
     document.getElementById('reading').hidden = study;
     document.getElementById('study').hidden = !study;
@@ -704,14 +749,15 @@ PRESENT_RECEIVER_HTML = r"""<!doctype html>
 __SB__
 </head><body class="receiver">
 <div class="present-audience" id="root">
-  <div class="aud-slide"><div class="aud-body" id="body"></div></div>
   <div class="aud-ref" id="ref"></div>
-  <div class="aud-hint" id="hint"></div>
+  <div class="aud-slide"><div class="aud-body" id="body"></div></div>
+  <div class="aud-brand">bible.eremosapp.com</div>
+  <div class="aud-hint" id="hint">แตะเพื่อเต็มจอ · tap for full screen</div>
 </div>
 <div id="join" style="position:fixed;inset:0;display:flex;flex-direction:column;align-items:center;
 justify-content:center;gap:1rem;background:#0e0c09;color:#f3ead8;z-index:70;font-family:-apple-system,system-ui,sans-serif">
   <div style="font-family:Georgia,serif;font-size:1.3rem">Join a presenter</div>
-  <div style="color:#b9a888;font-size:.9rem">Enter the 6-character code shown on the presenter's screen</div>
+  <div style="color:#b9a888;font-size:.9rem">Enter the 6-character code on the presenter's screen</div>
   <input id="code" maxlength="6" autocapitalize="characters" autocomplete="off"
    style="font:inherit;font-size:1.6rem;letter-spacing:.3em;text-align:center;text-transform:uppercase;
    width:9ch;padding:.6rem;border-radius:.5rem;border:1px solid #4a4132;background:rgba(255,255,255,.06);color:#f3ead8">
@@ -722,43 +768,62 @@ justify-content:center;gap:1rem;background:#0e0c09;color:#f3ead8;z-index:70;font
 <script>
 (function(){
   var SB = window.__EREMOS_SB;
+  var THEMES = {
+    night:{bg:'#0e0c09',fg:'#f3ead8',ref:'#c2ac86',vn:'#c9a978'},
+    day:{bg:'#f7f2e8',fg:'#2a241e',ref:'#7a6f5c',vn:'#b07d3b'},
+    ink:{bg:'#000000',fg:'#ffffff',ref:'#b7b7b7',vn:'#d8c39a'}
+  };
+  var FONTS = {
+    trad:'"Noto Serif Thai","Sarabun",Thonburi,"Angsana New",serif',
+    modern:'"Sukhumvit Set","IBM Plex Sans Thai","Noto Sans Thai",system-ui,sans-serif'
+  };
   var params = new URLSearchParams(location.search);
   var code = (params.get('code')||'').toUpperCase().replace(/[^A-Z0-9]/g,'');
-  var join = document.getElementById('join'), input = document.getElementById('code');
-  var bodyEl = document.getElementById('body'), refEl = document.getElementById('ref'), hint = document.getElementById('hint');
-  var root = document.getElementById('root');
-
+  var join=document.getElementById('join'), input=document.getElementById('code');
+  var root=document.getElementById('root'), body=document.getElementById('body'), refEl=document.getElementById('ref'), hint=document.getElementById('hint');
+  var idle=null;
+  function wake(){ root.classList.remove('idle'); clearTimeout(idle); idle=setTimeout(function(){root.classList.add('idle');},2600); }
   function fit(){
-    var size = Math.min(window.innerWidth, window.innerHeight)*0.075;
-    bodyEl.style.fontSize = size+'px';
-    var g=30; while(g-->0 && bodyEl.scrollHeight>bodyEl.parentElement.clientHeight && size>12){ size*=0.93; bodyEl.style.fontSize=size+'px'; }
+    var size=Math.min(root.clientWidth,root.clientHeight)*0.078; body.style.fontSize=size+'px';
+    var g=40; while(g-->0 && body.scrollHeight>body.parentElement.clientHeight && size>12){size*=0.94;body.style.fontSize=size+'px';}
   }
-  function render(p){ if(!p||!p.body) return; bodyEl.innerHTML=p.body; refEl.textContent=p.ref||''; fit(); }
-  window.addEventListener('resize', fit);
-  root.addEventListener('click', function once(){
+  function apply(p){
+    if(!p||!p.body) return;
+    var th=THEMES[p.theme]||THEMES.night;
+    root.style.background=th.bg; refEl.style.color=th.ref; refEl.textContent=p.ref||'';
+    body.style.fontFamily=FONTS[p.font]||FONTS.trad; body.style.color=th.fg;
+    body.classList.add('fade');
+    setTimeout(function(){
+      body.innerHTML=p.body;
+      body.querySelectorAll('.pvn').forEach(function(x){x.style.color=th.vn;});
+      body.classList.remove('fade'); fit();
+    },150);
+    hint.textContent='แตะเพื่อเต็มจอ · tap for full screen';
+  }
+  window.addEventListener('resize',fit);
+  document.addEventListener('mousemove',wake); document.addEventListener('touchstart',wake);
+  root.addEventListener('click',function(){
     if(document.documentElement.requestFullscreen) document.documentElement.requestFullscreen().catch(function(){});
-    hint.textContent=''; root.removeEventListener('click', once);
+    else if(document.documentElement.webkitRequestFullscreen) document.documentElement.webkitRequestFullscreen();
+    hint.style.display='none'; wake();
   });
-
   function connect(c){
     if(!SB){ document.getElementById('err').textContent='Presenter sync is not configured on this site.'; return; }
-    join.style.display='none';
+    join.style.display='none'; wake();
     hint.textContent='รอผู้นำเสนอ · waiting for the presenter…';
     import('https://esm.sh/@supabase/supabase-js@2').then(function(m){
-      var client = m.createClient(SB.url, SB.key, {realtime:{params:{eventsPerSecond:10}}});
-      var ch = client.channel('bible-present:'+c, {config:{broadcast:{self:false}}});
-      ch.on('broadcast',{event:'slide'}, function(e){ hint.textContent='คลิกเพื่อเต็มจอ · click for fullscreen'; render(e.payload); });
+      var client=m.createClient(SB.url,SB.key,{realtime:{params:{eventsPerSecond:10}}});
+      var ch=client.channel('bible-present:'+c,{config:{broadcast:{self:false}}});
+      ch.on('broadcast',{event:'slide'},function(e){apply(e.payload);});
       ch.subscribe(function(s){ if(s==='SUBSCRIBED') ch.send({type:'broadcast',event:'hello',payload:{}}); });
     }).catch(function(){ document.getElementById('err').textContent='Could not load the realtime client.'; join.style.display='flex'; });
   }
-
-  document.getElementById('go').onclick = function(){
-    var c = (input.value||'').toUpperCase().replace(/[^A-Z0-9]/g,'');
+  document.getElementById('go').onclick=function(){
+    var c=(input.value||'').toUpperCase().replace(/[^A-Z0-9]/g,'');
     if(c.length!==6){ document.getElementById('err').textContent='Enter the 6-character code.'; return; }
-    history.replaceState(null,'', '?code='+c);
-    connect(c);
+    history.replaceState(null,'','?code='+c); connect(c);
   };
-  input.addEventListener('keydown', function(e){ if(e.key==='Enter') document.getElementById('go').click(); });
+  input.addEventListener('keydown',function(e){ if(e.key==='Enter') document.getElementById('go').click(); });
   if(code && code.length===6){ input.value=code; connect(code); } else { input.focus(); }
 })();
 </script>
@@ -823,14 +888,22 @@ def main() -> None:
   Hebrew and Greek and released into the public domain — every verse free for any church,
   app, or translator in Thailand to use. No permission. No price. Forever.</p>
 </div>
+<div class="wip">
+  <span class="wip-tag">ฉบับร่างกำลังตรวจทาน · Working draft, in review</span>
+  <p>This is an <b>unfinished first draft</b> — not yet a final translation. It was drafted from the
+  Hebrew and Greek with the help of AI, and Thai readers are now checking it line by line against
+  established Bible-translation standards. Every rendering is open to correction.
+  <a href="{HELP_URL}"><b>Help us finish it — become a reviewer →</b></a></p>
+</div>
 <div class="stats">
   <div><b>66</b><span>books · เล่ม</span></div>
   <div><b>{total_chapters:,}</b><span>chapters · บท</span></div>
   <div><b>{total_verses:,}</b><span>verses · ข้อ</span></div>
 </div>
-<p class="note">A complete first translation of all 66 books now exists and is moving through
-careful review with Thai readers. Every chapter has a <b>Present</b> mode for church screens —
-fullscreen slides, Chromecast, or a second display.</p>
+<p class="note">A first draft of all 66 books now exists and is moving, book by book, through careful
+review with Thai speakers — pastors, translators, and everyday readers — before any part is
+considered final. Every chapter also has a <b>Present</b> mode for church screens — fullscreen
+slides, a second display, or Chromecast.</p>
 <div class="cards">
   <a class="card" href="{HELP_URL}"><b>Help review it</b><span>Read Thai? Join the review —
   native speakers, pastors, and careful readers all needed.</span></a>
@@ -848,12 +921,15 @@ fullscreen slides, Chromecast, or a second display.</p>
   {book_grid(books[OT_COUNT:])}
 </section>
 <section>
-  <h2>How it's made</h2>
-  <p class="note">Each verse is translated from the Masoretic Hebrew text and the SBL Greek
-  New Testament, checked against layered honorific, divine-name, and consistency rules, and
-  recorded with its translator decisions in the open. The reading app at
-  <a href="{APP_URL}">eremosapp.com</a> carries this translation alongside its daily
-  Scripture rhythms. Everything — text, decisions, tooling — lives in the
+  <h2>How it's made — and how far along it is</h2>
+  <p class="note">Every verse is drafted from the Masoretic Hebrew and the SBL Greek New Testament
+  with the help of AI, then checked against layered rules for faithfulness to the original text,
+  natural Thai, and consistent divine names and honorifics — and read by Thai reviewers before a
+  book is called finished. We follow recognized translation principles and record every decision in
+  the open, so anyone can weigh it. This is deliberately a work in progress: we would rather be
+  corrected than be quietly wrong, and we welcome the scrutiny of trained translators and native
+  speakers alike. The reading app at <a href="{APP_URL}">eremosapp.com</a> carries this translation
+  alongside its daily Scripture rhythms; everything — text, decisions, tooling — lives in the
   <a href="{GITHUB}">public repository</a>.</p>
 </section>
 """
