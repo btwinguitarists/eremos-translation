@@ -656,11 +656,11 @@ def page(title: str, body: str, depth: int) -> str:
 {body}
 <footer>
   <p class="only-th">พระคัมภีร์ไทยฉบับเอเรโมส — มอบให้เป็นสมบัติสาธารณะภายใต้สัญญาอนุญาต
-  <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a> ใช้ได้อย่างอิสระ ทั้งคัดลอก พิมพ์
-  หรือนำไปพัฒนาต่อ — ไม่ต้องขออนุญาต ไม่มีค่าใช้จ่าย</p>
+  <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a> ขอเชิญนำไปใช้ได้อย่างอิสระ
+  ทั้งคัดลอก พิมพ์ หรือนำไปพัฒนาต่อ</p>
   <p class="only-en">The Eremos Thai Bible — released into the public domain under
-  <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a>. Use it freely: quote it, print it,
-  build with it — no permission, no price.</p>
+  <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a>. You're warmly welcome to
+  quote it, print it, and build on it.</p>
   <p style="margin-top:.5rem">{bi('ผลงานของ', 'A work of')} <a href="{APP_URL}">Eremos</a> ·
   <a href="{GITHUB}">{bi('ซอร์สโค้ดบน GitHub', 'source on GitHub')}</a> · <a href="{HELP_URL}">{bi('ช่วยตรวจทาน', 'help with the review')}</a> ·
   <a href="{GIVE_URL}">{bi('ร่วมสนับสนุน', 'support the work')}</a></p>
@@ -912,14 +912,15 @@ def main() -> None:
 
     index_body = f"""
 <div class="hero">
-  <p class="eyebrow">{bi('พระคัมภีร์ไทยฟรี แปลจากภาษาต้นฉบับ', 'A free Thai Bible from the original languages')}</p>
+  <p class="eyebrow">{bi('พระคัมภีร์ไทย แปลจากภาษาต้นฉบับ · มอบให้ด้วยใจ', 'A Thai Bible from the original languages — offered as a gift')}</p>
   <h1>พระคัมภีร์ไทยฉบับเอเรโมส</h1>
-  <p class="only-th">พระวจนะของพระเจ้าเป็นของทุกคน พระคัมภีร์ไทยฉบับเอเรโมสแปลขึ้นใหม่จากภาษาฮีบรูและกรีก
-  และมอบให้เป็นสมบัติสาธารณะ — ทุกข้อพระคัมภีร์ใช้ได้ฟรี ไม่ว่าจะเป็นคริสตจักร แอปพลิเคชัน หรือผู้แปลในประเทศไทย
-  ไม่ต้องขออนุญาต ไม่มีค่าใช้จ่าย ตลอดไป</p>
-  <p class="only-en">God's Word belongs to everyone. The Eremos Thai Bible is translated afresh from the
-  Hebrew and Greek and released into the public domain — every verse free for any church,
-  app, or translator in Thailand to use. No permission. No price. Forever.</p>
+  <p class="only-th">พระคัมภีร์ไทยฉบับเอเรโมสเป็นฉบับแปลใหม่จากภาษาฮีบรูและกรีก มอบให้คริสตจักรไทยเป็นของขวัญ
+  และวางไว้เป็นสมบัติสาธารณะ (CC0) เพื่อให้ทุกคริสตจักร แอปพลิเคชัน หรือผู้แปล นำไปใช้และต่อยอดได้อย่างอิสระ
+  เราตั้งใจให้เป็นส่วนเสริมงานดีที่หลายองค์กรทุ่มเททำมานานในการแปลพระคัมภีร์ภาษาไทย ด้วยความขอบคุณ ไม่ใช่มาแทนที่</p>
+  <p class="only-en">The Eremos Thai Bible is a new translation from the Hebrew and Greek, offered to the
+  Thai church as a gift. It's placed in the public domain (CC0) so any church, app, or translator can
+  freely use and build on it. We mean it to add to — and gratefully build on — the good work others
+  have long done in Thai Scripture, not to compete with it.</p>
 </div>
 <div class="wip">
   <span class="wip-tag">{bi('ฉบับร่าง · กำลังตรวจทาน', 'Working draft, in review')}</span>
