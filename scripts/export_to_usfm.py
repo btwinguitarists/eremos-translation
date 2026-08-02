@@ -35,6 +35,7 @@ Usage:
 
 Output:
   output/paratext/<BOOKCODE>.SFM   (e.g., LUK.SFM, MAT.SFM)
+  output/paratext/booknames.xml    (Paratext book-names metadata; written on --all)
 
 Import into Paratext:
   1. Paratext → File → Import USFM
@@ -55,7 +56,48 @@ DEFAULT_OUTPUT = ROOT / "output" / "paratext"
 
 # (code, slug, long_thai_name, short_thai_name, abbr_thai, mt_title)
 # The English Matthew/Mark/etc. names here are just fallbacks for \id comment.
+# OT Thai names mirror data/structure/<slug>.json (`th`), the same names the app
+# uses; abbreviations follow the standard Thai Bible abbreviation set.
 BOOKS = {
+    "GEN": ("genesis",         "ปฐมกาล",                  "ปฐมกาล",      "ปฐก", "ปฐมกาล",      "Genesis"),
+    "EXO": ("exodus",          "อพยพ",                    "อพยพ",        "อพย", "อพยพ",        "Exodus"),
+    "LEV": ("leviticus",       "เลวีนิติ",                  "เลวีนิติ",      "ลนต", "เลวีนิติ",      "Leviticus"),
+    "NUM": ("numbers",         "กันดารวิถี",                "กันดารวิถี",    "กดว", "กันดารวิถี",    "Numbers"),
+    "DEU": ("deuteronomy",     "เฉลยธรรมบัญญัติ",           "เฉลยธรรมบัญญัติ", "ฉธบ", "เฉลยธรรมบัญญัติ", "Deuteronomy"),
+    "JOS": ("joshua",          "โยชูวา",                   "โยชูวา",       "ยชว", "โยชูวา",       "Joshua"),
+    "JDG": ("judges",          "ผู้วินิจฉัย",                "ผู้วินิจฉัย",    "วนฉ", "ผู้วินิจฉัย",    "Judges"),
+    "RUT": ("ruth",            "นางรูธ",                   "นางรูธ",       "นรธ", "นางรูธ",       "Ruth"),
+    "1SA": ("1samuel",         "1 ซามูเอล",                "1 ซามูเอล",    "1ซมอ", "1 ซามูเอล",   "1 Samuel"),
+    "2SA": ("2samuel",         "2 ซามูเอล",                "2 ซามูเอล",    "2ซมอ", "2 ซามูเอล",   "2 Samuel"),
+    "1KI": ("1kings",          "1 พงศ์กษัตริย์",             "1 พงศ์กษัตริย์", "1พกษ", "1 พงศ์กษัตริย์", "1 Kings"),
+    "2KI": ("2kings",          "2 พงศ์กษัตริย์",             "2 พงศ์กษัตริย์", "2พกษ", "2 พงศ์กษัตริย์", "2 Kings"),
+    "1CH": ("1chronicles",     "1 พงศาวดาร",              "1 พงศาวดาร",  "1พศด", "1 พงศาวดาร", "1 Chronicles"),
+    "2CH": ("2chronicles",     "2 พงศาวดาร",              "2 พงศาวดาร",  "2พศด", "2 พงศาวดาร", "2 Chronicles"),
+    "EZR": ("ezra",            "เอสรา",                    "เอสรา",       "อสร", "เอสรา",       "Ezra"),
+    "NEH": ("nehemiah",        "เนหะมีย์",                  "เนหะมีย์",     "นหม", "เนหะมีย์",     "Nehemiah"),
+    "EST": ("esther",          "เอสเธอร์",                  "เอสเธอร์",     "อสธ", "เอสเธอร์",     "Esther"),
+    "JOB": ("job",             "โยบ",                      "โยบ",         "โยบ", "โยบ",         "Job"),
+    "PSA": ("psalms",          "สดุดี",                     "สดุดี",        "สดด", "สดุดี",        "Psalms"),
+    "PRO": ("proverbs",        "สุภาษิต",                   "สุภาษิต",      "สภษ", "สุภาษิต",      "Proverbs"),
+    "ECC": ("ecclesiastes",    "ปัญญาจารย์",                "ปัญญาจารย์",   "ปญจ", "ปัญญาจารย์",   "Ecclesiastes"),
+    "SNG": ("songofsongs",     "เพลงซาโลมอน",              "เพลงซาโลมอน", "พซม", "เพลงซาโลมอน", "Song of Solomon"),
+    "ISA": ("isaiah",          "อิสยาห์",                   "อิสยาห์",      "อสย", "อิสยาห์",      "Isaiah"),
+    "JER": ("jeremiah",        "เยเรมีย์",                  "เยเรมีย์",     "ยรม", "เยเรมีย์",     "Jeremiah"),
+    "LAM": ("lamentations",    "เพลงคร่ำครวญ",             "เพลงคร่ำครวญ", "พคค", "เพลงคร่ำครวญ", "Lamentations"),
+    "EZK": ("ezekiel",         "เอเสเคียล",                 "เอเสเคียล",    "อสค", "เอเสเคียล",    "Ezekiel"),
+    "DAN": ("daniel",          "ดาเนียล",                   "ดาเนียล",     "ดนล", "ดาเนียล",     "Daniel"),
+    "HOS": ("hosea",           "โฮเชยา",                   "โฮเชยา",      "ฮชย", "โฮเชยา",      "Hosea"),
+    "JOL": ("joel",            "โยเอล",                    "โยเอล",       "ยอล", "โยเอล",       "Joel"),
+    "AMO": ("amos",            "อาโมส",                    "อาโมส",       "อมส", "อาโมส",       "Amos"),
+    "OBA": ("obadiah",         "โอบาดีห์",                  "โอบาดีห์",     "อบด", "โอบาดีห์",     "Obadiah"),
+    "JON": ("jonah",           "โยนาห์",                   "โยนาห์",      "ยนา", "โยนาห์",      "Jonah"),
+    "MIC": ("micah",           "มีคาห์",                    "มีคาห์",       "มคา", "มีคาห์",       "Micah"),
+    "NAM": ("nahum",           "นาฮูม",                    "นาฮูม",       "นฮม", "นาฮูม",       "Nahum"),
+    "HAB": ("habakkuk",        "ฮาบากุก",                  "ฮาบากุก",     "ฮบก", "ฮาบากุก",     "Habakkuk"),
+    "ZEP": ("zephaniah",       "เศฟันยาห์",                 "เศฟันยาห์",    "ศฟย", "เศฟันยาห์",    "Zephaniah"),
+    "HAG": ("haggai",          "ฮักกัย",                    "ฮักกัย",       "ฮกก", "ฮักกัย",       "Haggai"),
+    "ZEC": ("zechariah",       "เศคาริยาห์",                "เศคาริยาห์",   "ศคย", "เศคาริยาห์",   "Zechariah"),
+    "MAL": ("malachi",         "มาลาคี",                   "มาลาคี",      "มลค", "มาลาคี",      "Malachi"),
     "MAT": ("matthew",         "พระวรสารตามนักบุญมัทธิว",   "มัทธิว",       "มธ",  "มัทธิว",       "Matthew"),
     "MRK": ("mark",            "พระวรสารตามนักบุญมาระโก",  "มาระโก",      "มก",  "มาระโก",      "Mark"),
     "LUK": ("luke",            "พระวรสารตามนักบุญลูกา",    "ลูกา",        "ลก",  "ลูกา",        "Luke"),
@@ -161,6 +203,23 @@ def emit_chapter(code: str, chapter: int, slug: str) -> list[str]:
     return lines
 
 
+def write_booknames(output_dir: Path) -> Path:
+    """Emit Paratext-format booknames.xml: one <book code abbr short long/> per book."""
+    from xml.sax.saxutils import quoteattr
+
+    lines = ['<?xml version="1.0" encoding="utf-8"?>', "<BookNames>"]
+    for code, (_slug, long_th, short_th, abbr_th, _mt, _en) in BOOKS.items():
+        lines.append(
+            f"  <book code={quoteattr(code)} abbr={quoteattr(abbr_th)} "
+            f"short={quoteattr(short_th)} long={quoteattr(long_th)} />"
+        )
+    lines.append("</BookNames>")
+    output_dir.mkdir(parents=True, exist_ok=True)
+    out_path = output_dir / "booknames.xml"
+    out_path.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    return out_path
+
+
 def export_book(code: str, output_dir: Path) -> Path | None:
     """Export a single book's SFM file. Returns path if written, None if empty."""
     if code not in BOOKS:
@@ -215,6 +274,8 @@ def main():
                 print(f"  ⚠ {code}: no translated chapters found — nothing exported")
 
     if args.all:
+        bn_path = write_booknames(args.output_dir)
+        print(f"  ✓ booknames.xml ({len(BOOKS)} books) → {bn_path}")
         print(f"\nExported {len(written)} book(s) to {args.output_dir}")
 
     return 0

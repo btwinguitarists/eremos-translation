@@ -1000,6 +1000,8 @@ public domain, no attribution required (though we love hearing what you build).<
         <a href="{GITHUB}/tree/main/output/plain">output/plain/</a></li>
     <li><b>{bi('JSON แบบมีโครงสร้าง', 'Structured JSON')}</b> — {bi('แยกตามบท พร้อมข้อความต้นฉบับและการตัดสินใจของผู้แปล', 'per-chapter, with source text and translator decisions')}:
         <a href="{GITHUB}/tree/main/output/translations">output/translations/</a></li>
+    <li><b>{bi('USFM สำหรับ Paratext', 'USFM for Paratext')}</b> — {bi('ไฟล์ .SFM ครบทั้ง 66 เล่ม พร้อม booknames.xml นำเข้า Paratext หรือ Scripture Forge ได้โดยตรง', 'one .SFM per book — all 66 — plus booknames.xml; imports directly into Paratext and Scripture Forge')}:
+        <a href="{GITHUB}/tree/main/output/paratext">output/paratext/</a></li>
     <li><b>{bi('ทั้งหมดในครั้งเดียว', 'Everything at once')}</b> — {bi('โคลนหรือ', 'clone or')}
         <a href="{GITHUB}/archive/refs/heads/main.zip">{bi('ดาวน์โหลดคลังข้อมูลเป็น ZIP', 'download the repository as a ZIP')}</a></li>
   </ul>
