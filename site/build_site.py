@@ -54,6 +54,8 @@ GITHUB = "https://github.com/btwinguitarists/eremos-translation"
 GIVE_URL = "https://eremosapp.com/give"
 HELP_URL = "https://eremosapp.com/help-translate"
 APP_URL = "https://eremosapp.com"
+APP_STORE_URL = "https://apps.apple.com/app/id6762074233"
+PLAY_URL = "https://play.google.com/store/apps/details?id=com.eremos.app"
 
 # Canonical Protestant order; slugs match output/reader filenames.
 CANON: list[tuple[str, str]] = [
@@ -664,6 +666,8 @@ def page(title: str, body: str, depth: int) -> str:
   <p style="margin-top:.5rem">{bi('ผลงานของ', 'A work of')} <a href="{APP_URL}">Eremos</a> ·
   <a href="{GITHUB}">{bi('ซอร์สโค้ดบน GitHub', 'source on GitHub')}</a> · <a href="{HELP_URL}">{bi('ช่วยตรวจทาน', 'help with the review')}</a> ·
   <a href="{GIVE_URL}">{bi('ร่วมสนับสนุน', 'support the work')}</a></p>
+  <p style="margin-top:.35rem">{bi('อ่านฉบับนี้ในแอป Eremos', 'Read this translation in the Eremos app')} —
+  <a href="{APP_STORE_URL}">App Store</a> · <a href="{PLAY_URL}">Google Play</a></p>
 </footer>
 </main>
 </body>
@@ -925,11 +929,12 @@ def main() -> None:
 <div class="wip">
   <span class="wip-tag">{bi('ฉบับร่าง · กำลังตรวจทาน', 'Working draft, in review')}</span>
   <p class="only-th">นี่คือ<b>ฉบับร่างแรกที่ยังไม่เสร็จสมบูรณ์</b> ยังไม่ใช่ฉบับแปลสุดท้าย ร่างขึ้นจากภาษาฮีบรูและกรีก
-  โดยมีปัญญาประดิษฐ์ (AI) ช่วย และขณะนี้ผู้อ่านชาวไทยกำลังตรวจทานทีละบรรทัดตามมาตรฐานการแปลพระคัมภีร์
+  โดยมีปัญญาประดิษฐ์ (AI) ช่วย ขณะนี้ระบบตรวจทานทีละบรรทัดพร้อมแล้ว และเรากำลังเปิดรับผู้ตรวจทานชาวไทยรุ่นแรก
   ทุกคำแปลพร้อมรับการแก้ไข <a href="{HELP_URL}"><b>ช่วยเราทำให้เสร็จสมบูรณ์ — มาเป็นผู้ตรวจทาน →</b></a></p>
   <p class="only-en">This is an <b>unfinished first draft</b> — not yet a final translation. It was drafted from the
-  Hebrew and Greek with the help of AI, and Thai readers are now checking it line by line against
-  established Bible-translation standards. Every rendering is open to correction.
+  Hebrew and Greek with the help of AI. The line-by-line review is opening now — we're recruiting the
+  first Thai reviewers, and no book will be called finished until Thai readers have checked it.
+  Every rendering is open to correction.
   <a href="{HELP_URL}"><b>Help us finish it — become a reviewer →</b></a></p>
 </div>
 <div class="stats">
@@ -937,14 +942,15 @@ def main() -> None:
   <div><b>{total_chapters:,}</b><span>{bi('บท', 'chapters')}</span></div>
   <div><b>{total_verses:,}</b><span>{bi('ข้อ', 'verses')}</span></div>
 </div>
-<p class="note only-th">ขณะนี้มีฉบับร่างครบทั้ง 66 เล่มแล้ว และกำลังตรวจทานอย่างรอบคอบทีละเล่มร่วมกับผู้อ่านชาวไทย —
-ทั้งศิษยาภิบาล ผู้แปล และผู้อ่านทั่วไป — ก่อนที่ส่วนใดจะถือว่าเสร็จสมบูรณ์ ทุกบทยังมีโหมด <b>นำเสนอ</b>
+<p class="note only-th">ขณะนี้มีฉบับร่างครบทั้ง 66 เล่มแล้ว และเรากำลังเปิดรับผู้ตรวจทาน — ทั้งศิษยาภิบาล ผู้แปล
+และผู้อ่านทั่วไป — จะไม่มีเล่มใดถือว่าเสร็จสมบูรณ์จนกว่าผู้อ่านชาวไทยได้ตรวจทานแล้ว ทุกบทยังมีโหมด <b>นำเสนอ</b>
 สำหรับจอในคริสตจักรด้วย ทั้งแบบเต็มจอ จอที่สอง หรือ Chromecast</p>
-<p class="note only-en">A first draft of all 66 books now exists and is moving, book by book, through careful
-review with Thai speakers — pastors, translators, and everyday readers — before any part is
-considered final. Every chapter also has a <b>Present</b> mode for church screens — fullscreen
+<p class="note only-en">A first draft of all 66 books now exists, and the review is opening now — we're inviting
+pastors, translators, and everyday readers, and no part will be considered final until Thai
+speakers have checked it. Every chapter also has a <b>Present</b> mode for church screens — fullscreen
 slides, a second display, or Chromecast.</p>
 <div class="cards">
+  <a class="card" href="{APP_URL}"><b>{bi('อ่านในแอป', 'Read in the app')}</b><span>{bi('ฉบับนี้อยู่ในแอป Eremos ทั้งเล่ม — อ่านแล้วบอกเราว่าตรงไหนสะดุด', 'The whole translation lives in the Eremos app — read it there and tell us where it stumbles.')}</span></a>
   <a class="card" href="{HELP_URL}"><b>{bi('ช่วยตรวจทาน', 'Help review it')}</b><span>{bi('อ่านภาษาไทยได้ใช่ไหม? มาร่วมตรวจทาน — เราต้องการทั้งเจ้าของภาษา ศิษยาภิบาล และผู้อ่านที่ใส่ใจ', 'Read Thai? Join the review — native speakers, pastors, and careful readers all needed.')}</span></a>
   <a class="card" href="{GIVE_URL}"><b>{bi('ร่วมสนับสนุน', 'Support the work')}</b><span>{bi('การถวายช่วยสนับสนุนงานแปลและพันธกิจการสร้างสาวกของเอเรโมส', 'Tax-deductible gifts to Eremos sustain the translation and discipleship ministry.')}</span></a>
   <a class="card" href="data/index.html"><b>{bi('ใช้ข้อมูล', 'Use the data')}</b><span>{bi('ดาวน์โหลดได้ทุกเล่ม — CC0 ทั้งไฟล์ markdown และ JSON จากคลังข้อมูลเปิด', 'Download every book — CC0, markdown and JSON, straight from the open repository.')}</span></a>
