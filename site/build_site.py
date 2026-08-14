@@ -635,6 +635,15 @@ LANG_TOGGLE = ('<button class="langtoggle" aria-label="Thai / English" '
                '<span class="only-th">EN</span><span class="only-en">ไทย</span></button>')
 
 
+# Cloudflare Web Analytics — cookieless, no personal data, so no consent banner.
+# Kept out of the page() f-string because the token's braces would be read as a
+# replacement field. The token is a public beacon id, not a secret.
+CF_BEACON = (
+    '<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js" '
+    """data-cf-beacon='{"token": "f1b67d33c3964618ac226d06998903bd"}'></script>"""
+)
+
+
 def page(title: str, body: str, depth: int) -> str:
     rel = "../" * depth
     sb_head = sb_config_script()
@@ -670,6 +679,7 @@ def page(title: str, body: str, depth: int) -> str:
   <a href="{APP_STORE_URL}">App Store</a> · <a href="{PLAY_URL}">Google Play</a></p>
 </footer>
 </main>
+{CF_BEACON}
 </body>
 </html>"""
 
