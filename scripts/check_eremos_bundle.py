@@ -20,7 +20,7 @@ Exit 0 = structurally sound; exit 1 prints every offending chapter.
 
 Usage: python3 scripts/check_eremos_bundle.py [bundle.json]
   (defaults to ~/EremosVercel2/server/data/eremos_translation.json; BSB
-   structure is read from ~/EremosVercel2/server/data/engbsb_usfx.xml)
+   structure is read from ~/EremosVercel2/client/public/data/bulk/BSB.json)
 """
 import json
 import re
@@ -30,7 +30,7 @@ from pathlib import Path
 EREMOS_DIR = Path.home() / "EremosVercel2" / "server" / "data"
 BUNDLE = Path(sys.argv[1]) if len(sys.argv) > 1 else EREMOS_DIR / "eremos_translation.json"
 GAPS = BUNDLE.parent / "eremos_translation_gaps.json"
-BSB_USFX = EREMOS_DIR / "engbsb_usfx.xml"
+BSB_BULK = Path.home() / "EremosVercel2" / "client" / "public" / "data" / "bulk" / "BSB.json"
 
 NT = {"MAT","MRK","LUK","JHN","ACT","ROM","1CO","2CO","GAL","EPH","PHP","COL",
       "1TH","2TH","1TI","2TI","TIT","PHM","HEB","JAS","1PE","2PE","1JN","2JN",
@@ -60,17 +60,15 @@ NT_INCLUSION_VARIANTS = {
 
 
 def bsb_structure():
-    xml = BSB_USFX.read_text(encoding="utf-8")
-    struct = {}
-    book = ch = None
-    for m in re.finditer(r'<book id="([A-Z0-9]{3})"|<c id="(\d+)"|<v id="(\d+)[a-z]?"', xml):
-        if m.group(1):
-            book = m.group(1)
-        elif m.group(2):
-            ch = int(m.group(2))
-        elif m.group(3) and book and ch:
-            struct.setdefault(book, {}).setdefault(ch, set()).add(int(m.group(3)))
-    return struct
+    """{BOOK: {chapter: {verse,…}}} from the app's committed BSB snapshot
+    (built from the publisher's USJ by EremosVercel2 script/build-bsb-bulk.ts
+    and verified against the publisher's verse table)."""
+    bulk = json.loads(BSB_BULK.read_text(encoding="utf-8"))
+    out = {}
+    for key, verses in bulk.items():
+        book, chapter = key.split(":")
+        out.setdefault(book, {})[int(chapter)] = {v["number"] for v in verses}
+    return out
 
 
 def main():

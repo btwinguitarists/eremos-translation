@@ -4,8 +4,8 @@
     "generated_by": "scripts/build_versification_map.py",
     "policy": "docs/translator_decisions/verse_schema_and_versification_2026-05.md"
   },
-  "_psalm_superscription_count": 66,
-  "_total_entries": 2009,
+  "_psalm_superscription_count": 67,
+  "_total_entries": 2015,
   "PSA-3-1": {
     "mt_book": "PSA",
     "mt_chapter": 3,
@@ -1103,6 +1103,72 @@
     "english_ref": "Psalm 12:8",
     "bsb_ref": "Psalm 12:8",
     "lxx_ref": "Psalm 12:9",
+    "has_superscription": false,
+    "diverges": true
+  },
+  "PSA-13-1": {
+    "mt_book": "PSA",
+    "mt_chapter": 13,
+    "mt_verse": 1,
+    "mt_ref": "Psalm 13:1",
+    "english_ref": "Psalm 13:title",
+    "bsb_ref": "Psalm 13:0",
+    "lxx_ref": "Psalm 13:1",
+    "has_superscription": true,
+    "diverges": true
+  },
+  "PSA-13-2": {
+    "mt_book": "PSA",
+    "mt_chapter": 13,
+    "mt_verse": 2,
+    "mt_ref": "Psalm 13:2",
+    "english_ref": "Psalm 13:1",
+    "bsb_ref": "Psalm 13:1",
+    "lxx_ref": "Psalm 13:2",
+    "has_superscription": false,
+    "diverges": true
+  },
+  "PSA-13-3": {
+    "mt_book": "PSA",
+    "mt_chapter": 13,
+    "mt_verse": 3,
+    "mt_ref": "Psalm 13:3",
+    "english_ref": "Psalm 13:2",
+    "bsb_ref": "Psalm 13:2",
+    "lxx_ref": "Psalm 13:3",
+    "has_superscription": false,
+    "diverges": true
+  },
+  "PSA-13-4": {
+    "mt_book": "PSA",
+    "mt_chapter": 13,
+    "mt_verse": 4,
+    "mt_ref": "Psalm 13:4",
+    "english_ref": "Psalm 13:3",
+    "bsb_ref": "Psalm 13:3",
+    "lxx_ref": "Psalm 13:4",
+    "has_superscription": false,
+    "diverges": true
+  },
+  "PSA-13-5": {
+    "mt_book": "PSA",
+    "mt_chapter": 13,
+    "mt_verse": 5,
+    "mt_ref": "Psalm 13:5",
+    "english_ref": "Psalm 13:4",
+    "bsb_ref": "Psalm 13:4",
+    "lxx_ref": "Psalm 13:5",
+    "has_superscription": false,
+    "diverges": true
+  },
+  "PSA-13-6": {
+    "mt_book": "PSA",
+    "mt_chapter": 13,
+    "mt_verse": 6,
+    "mt_ref": "Psalm 13:6",
+    "english_ref": "Psalm 13:5–13:6",
+    "bsb_ref": "Psalm 13:5–13:6",
+    "lxx_ref": "Psalm 13:6",
     "has_superscription": false,
     "diverges": true
   },
