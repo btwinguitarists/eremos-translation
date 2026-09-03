@@ -38,6 +38,7 @@ inclusion variants.
 import argparse
 import json
 import re
+import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -197,20 +198,29 @@ def classify(c: dict) -> tuple[str, str]:
     return ("UNRESOLVED", "")
 
 
+def _code_to_slug() -> dict[str, str]:
+    """USFM code → file slug, for the whole Bible.
+
+    Built from the same canonical maps ship_chapter.sh resolves against rather
+    than a hand-kept copy. The hand-kept copy listed only the 27 NT books, so an
+    OT code fell through unchanged: --book GEN globbed "gen_*.json", matched
+    nothing (files are genesis_01.json), and --strict exited 0 on an empty set.
+    Every OT end-of-book audit since the OT rollout reported this gate clean
+    having scanned zero chapters (assessment 2026-09-03).
+    """
+    sys.path.insert(0, str(ROOT / "scripts"))
+    from extract_book import BOOKS as NT_BOOKS          # {code: (name, slug)}
+    from extract_book_hebrew import BOOKS as OT_BOOKS   # {code: (name, slug, prefix)}
+    out = {code.lower(): slug for code, (_name, slug) in NT_BOOKS.items()}
+    out.update({code.lower(): slug for code, (_name, slug, *_rest) in OT_BOOKS.items()})
+    return out
+
+
 def book_slugs_for_arg(arg: str) -> list[str]:
     """Resolve a --book arg (slug or USFM code) to a list of file slugs."""
     arg = arg.lower()
-    # 'romans' or 'rom' or 'ROM' all → 'romans'
-    code_to_slug = {
-        "mat": "matthew", "mrk": "mark", "luk": "luke", "jhn": "john",
-        "act": "acts", "rom": "romans", "1co": "1corinthians", "2co": "2corinthians",
-        "gal": "galatians", "eph": "ephesians", "php": "philippians", "col": "colossians",
-        "1th": "1thessalonians", "2th": "2thessalonians", "1ti": "1timothy",
-        "2ti": "2timothy", "tit": "titus", "phm": "philemon", "heb": "hebrews",
-        "jas": "james", "1pe": "1peter", "2pe": "2peter", "1jn": "1john",
-        "2jn": "2john", "3jn": "3john", "jud": "jude", "rev": "revelation",
-    }
-    return [code_to_slug.get(arg, arg)]
+    # 'romans' or 'rom' or 'ROM' all → 'romans'; 'GEN' → 'genesis'
+    return [_code_to_slug().get(arg, arg)]
 
 
 def main():
@@ -229,6 +239,13 @@ def main():
         for slug in slugs:
             files.extend(sorted(TRANSLATIONS.glob(f"{slug}_*.json")))
         files = [f for f in files if "_demo" not in f.name]
+        if not files:
+            # A gate that scans nothing must never report clean.
+            sys.exit(
+                f"audit_inclusion_variants: --book {args.book!r} matched no chapters "
+                f"(looked for {', '.join(s + '_*.json' for s in slugs)} in {TRANSLATIONS}). "
+                "Refusing to report a clean gate on an empty set."
+            )
     else:
         files = [
             f for f in sorted(TRANSLATIONS.glob("*.json"))

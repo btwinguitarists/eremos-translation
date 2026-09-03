@@ -15,9 +15,20 @@ __pycache__/
 .venv/
 venv/
 
-# Env / secrets
+# Env / secrets. THIS REPO IS PUBLIC — anything holding a key must be ignored
+# here, not only in .git/info/exclude (which no clone carries).
 .env
 .env.local
+# scripts/clear_review_queue.sh tells you to create this with GEMINI_API_KEY
+# (and optionally XAI_API_KEY) and calls it gitignored — it was not.
+.review.env
+*.env
+!.env.example
+
+# Outreach working data: 77 real addresses incl. named ministry staff.
+# Never committed so far, but it was protected only by .git/info/exclude,
+# which is machine-local and does not survive a re-clone.
+outreach/
 
 # OS
 .DS_Store
