@@ -70,3 +70,6 @@ output/.book_complete_audit_prompt.md
 # by the audit agent — not source-of-truth on this side)
 output/review_questions_*/
 .venv-structure/
+
+# Reader site build output (site/build_site.py writes it; Vercel rebuilds it)
+site/dist/

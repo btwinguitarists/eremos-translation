@@ -13,6 +13,8 @@ generates a fully static site into site/dist/:
                           the Presentation API; second-screen via the Window
                           Management API; AirPlay by screen mirroring)
     /data/                downloads: GitHub, per-book markdown, JSON, CC0
+    /robots.txt           allow all, points at the sitemap
+    /sitemap.xml          every page above, regenerated on each build
 
 Stdlib only — runs anywhere (Vercel build: `python3 site/build_site.py`).
 The generator never edits repo content; it is read-only over output/.
@@ -38,6 +40,9 @@ READER = ROOT / "output" / "reader"
 DIST = Path(__file__).resolve().parent / "dist"
 
 SITE_ORIGIN = "https://bible.eremosapp.com"
+SITE_DESCRIPTION = ("พระคัมภีร์ไทยฉบับเอเรโมส — a free, public-domain Thai Bible "
+                    "translated from the original Hebrew and Greek.")
+META_DESCRIPTION_LIMIT = 150
 SB_URL = os.environ.get("VITE_SUPABASE_URL", "")
 SB_KEY = os.environ.get("VITE_SUPABASE_ANON_KEY", "")
 
@@ -644,9 +649,31 @@ CF_BEACON = (
 )
 
 
-def page(title: str, body: str, depth: int) -> str:
+def chapter_description(book: Book, ch: Chapter, limit: int = META_DESCRIPTION_LIMIT) -> str:
+    """Per-chapter meta description: the chapter's own first verse, from the
+    reader edition the page is built from (never hand-typed), trimmed to about
+    `limit` characters so search and share cards show the opening words."""
+    if not ch.verses:
+        return SITE_DESCRIPTION
+    num, text = ch.verses[0]
+    lead = f"{book.th} {ch.number}:{num} "
+    room = limit - len(lead)
+    if len(text) > room:
+        cut = text[:room]
+        space = cut.rfind(" ")
+        if space > room // 2:
+            cut = cut[:space]
+        text = cut.rstrip() + "…"
+    return lead + text
+
+
+def page(title: str, body: str, depth: int, description: str | None = None,
+         canonical: str | None = None) -> str:
     rel = "../" * depth
     sb_head = sb_config_script()
+    meta_description = html.escape(description or SITE_DESCRIPTION, quote=True)
+    canonical_link = (f'\n<link rel="canonical" href="{html.escape(canonical, quote=True)}">'
+                      if canonical else "")
     return f"""<!doctype html>
 <html lang="th" data-lang="th">
 <head>
@@ -656,7 +683,7 @@ def page(title: str, body: str, depth: int) -> str:
 <link rel="stylesheet" href="{rel}style.css">
 {LANG_INIT}
 {sb_head}
-<meta name="description" content="พระคัมภีร์ไทยฉบับเอเรโมส — a free, public-domain Thai Bible translated from the original Hebrew and Greek.">
+<meta name="description" content="{meta_description}">{canonical_link}
 </head>
 <body>
 <main>
@@ -883,6 +910,8 @@ def main() -> None:
     (DIST / "present.js").write_text(PRESENT_JS, encoding="utf-8")
 
     books = [parse_book(slug, en) for slug, en in CANON]
+    # Every public page, in the order it is written, for sitemap.xml.
+    urls: list[str] = [f"{SITE_ORIGIN}/"]
     total_chapters = sum(len(b.chapters) for b in books)
     total_verses = sum(len(ch.verses) for b in books for ch in b.chapters)
     total_notes = sum(len(ch.notes) for b in books for ch in b.chapters)
@@ -900,8 +929,10 @@ def main() -> None:
             f'<p class="note" style="margin-top:2rem"><a href="{GITHUB}/blob/main/output/reader/{b.slug}.md">'
             f'{bi("อ่านหนังสือเล่มนี้เป็น markdown บน GitHub →", "Read this book as markdown on GitHub →")}</a></p>'
         )
+        book_url = f"{SITE_ORIGIN}/th/{b.slug}/"
+        urls.append(book_url)
         (bdir / "index.html").write_text(
-            page(f"{b.th} · Eremos Thai Bible", body, 2), encoding="utf-8"
+            page(f"{b.th} · Eremos Thai Bible", body, 2, canonical=book_url), encoding="utf-8"
         )
         for i, ch in enumerate(b.chapters):
             prev_link = (
@@ -912,9 +943,12 @@ def main() -> None:
                 f'<a href="{b.chapters[i+1].number}.html">บทที่ {b.chapters[i+1].number} →</a>'
                 if i < len(b.chapters) - 1 else f'<a href="index.html">{html.escape(b.th)} →</a>'
             )
+            chapter_url = f"{book_url}{ch.number}.html"
+            urls.append(chapter_url)
             (bdir / f"{ch.number}.html").write_text(
                 page(f"{b.th} {ch.number} · Eremos Thai Bible",
-                     build_chapter_body(b, ch, prev_link, next_link, struct), 2),
+                     build_chapter_body(b, ch, prev_link, next_link, struct), 2,
+                     description=chapter_description(b, ch), canonical=chapter_url),
                 encoding="utf-8",
             )
 
@@ -994,7 +1028,8 @@ slides, a second display, or Chromecast.</p>
 </section>
 """
     (DIST / "index.html").write_text(
-        page("Eremos Thai Bible · พระคัมภีร์ไทยฉบับเอเรโมส", index_body, 0), encoding="utf-8"
+        page("Eremos Thai Bible · พระคัมภีร์ไทยฉบับเอเรโมส", index_body, 0,
+             canonical=f"{SITE_ORIGIN}/"), encoding="utf-8"
     )
 
     book_links = "".join(
@@ -1028,15 +1063,36 @@ public domain, no attribution required (though we love hearing what you build).<
 </section>
 """
     (DIST / "data").mkdir()
+    urls.append(f"{SITE_ORIGIN}/data/")
     (DIST / "data" / "index.html").write_text(
-        page("Data · Eremos Thai Bible", data_body, 1), encoding="utf-8"
+        page("Data · Eremos Thai Bible", data_body, 1, canonical=f"{SITE_ORIGIN}/data/"),
+        encoding="utf-8"
     )
 
     # Cross-device audience receiver — the URL a TV/laptop opens to join a
     # presenter by code (phone controls, this screen shows only the Bible).
     (DIST / "present.html").write_text(PRESENT_RECEIVER_HTML.replace("__SB__", sb_config_script()), encoding="utf-8")
 
-    print(f"built {total_chapters:,} chapters / {total_verses:,} verses / {total_notes:,} notes → {DIST}")
+    write_sitemap(urls)
+
+    print(f"built {total_chapters:,} chapters / {total_verses:,} verses / {total_notes:,} notes "
+          f"/ {len(urls):,} sitemap urls → {DIST}")
+
+
+def write_sitemap(urls: list[str]) -> None:
+    """robots.txt + sitemap.xml from the pages this build just wrote, so the
+    index can never drift from the site. No lastmod: the text is one edition
+    and a build date would only mislead crawlers into refetching everything."""
+    entries = "".join(f"  <url><loc>{html.escape(u, quote=True)}</loc></url>\n" for u in urls)
+    (DIST / "sitemap.xml").write_text(
+        '<?xml version="1.0" encoding="UTF-8"?>\n'
+        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+        f"{entries}</urlset>\n",
+        encoding="utf-8",
+    )
+    (DIST / "robots.txt").write_text(
+        f"User-agent: *\nAllow: /\n\nSitemap: {SITE_ORIGIN}/sitemap.xml\n", encoding="utf-8"
+    )
 
 
 if __name__ == "__main__":
