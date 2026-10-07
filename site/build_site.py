@@ -61,6 +61,8 @@ HELP_URL = "https://eremosapp.com/help-translate"
 APP_URL = "https://eremosapp.com"
 APP_STORE_URL = "https://apps.apple.com/app/id6762074233"
 PLAY_URL = "https://play.google.com/store/apps/details?id=com.eremos.app"
+LINE_OA_ID = "@634wtyqa"
+LINE_OA_URL = "https://line.me/R/ti/p/@634wtyqa"
 
 # Canonical Protestant order; slugs match output/reader filenames.
 CANON: list[tuple[str, str]] = [
@@ -704,6 +706,7 @@ def page(title: str, body: str, depth: int, description: str | None = None,
   <a href="{GIVE_URL}">{bi('ร่วมสนับสนุน', 'support the work')}</a></p>
   <p style="margin-top:.35rem">{bi('อ่านฉบับนี้ในแอป Eremos', 'Read this translation in the Eremos app')} —
   <a href="{APP_STORE_URL}">App Store</a> · <a href="{PLAY_URL}">Google Play</a></p>
+  <p style="margin-top:.35rem"><a href="{LINE_OA_URL}" target="_blank" rel="noopener">{bi('เพิ่มเพื่อน LINE', 'Add on LINE')}</a> {LINE_OA_ID}</p>
 </footer>
 </main>
 {CF_BEACON}
