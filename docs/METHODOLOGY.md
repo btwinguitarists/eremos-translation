@@ -30,12 +30,12 @@ reviewers have read it.
 | Verses | 31,155 in source numbering (MT for OT, SBLGNT for NT); 31,086 in English numbering (app + reader site); the 69-verse delta is fully reconciled — see §7 |
 | Source texts | SBLGNT + MACULA Greek (NT); Westminster Leningrad Codex via OSHB + MACULA Hebrew (OT) |
 | Translation philosophy | Optimal equivalence (BSB-family), SIL/Larson four-pillars |
-| License | CC0 1.0 Universal (public domain) — Thai text and tooling. The English note fields carry a pending wording cleanup (see §4) |
+| License | CC0 1.0 Universal (public domain) — text, notes, tooling (English note fields re-expressed in the project's own words in the 2026-10 cleanup, see §4) |
 | Key-term ledger | 19,265 glossary entries (`glossary.json`) |
 | NT→OT citation registry | 1,570 recorded links (`data/nt_ot_citations.json`) |
 | Back-translations | 1,189 chapters — 100% coverage, ship-blocking |
 | Textual-variant records | 843 per-chapter files (`output/textual_variants/`) |
-| Mechanical checks | 18 `check_*.py` scripts in the repo; `run_checks.py` runs 9 of them on every NT chapter and 7 on every OT chapter, the rest run at book or corpus level, plus a corpus-audit, polish, and drift-discovery suite |
+| Mechanical checks | 19 `check_*.py` scripts in the repo; `run_checks.py` runs 10 of them on every NT chapter and 8 on every OT chapter, the rest run at book or corpus level, plus a corpus-audit, polish, and drift-discovery suite |
 | Translator-decision documents | 97 (`docs/translator_decisions/`) |
 | End-of-book audits | 66 of 66 books |
 | External AI review responses | 66 of 66 books (independent models — see §6.3) |
@@ -102,10 +102,10 @@ source one of five roles: `primary_text`, `morphology_data`, `consult_only`,
 read only the original-language text with morphology, the project's own rules
 and glossary, its own prior output, and unfoldingWord's English scholarly notes
 (CC-BY-SA, read for context). The Thai is drafted from the originals, not from
-those notes. A 2026-10-19 pass found about 400 English `notes` fields that reuse
-unfoldingWord wording (8+ consecutive words); those fields are scheduled for a
-rewrite with a check to keep it from recurring, and until then the English notes
-should not be treated as cleanly CC0. It may **never** read any Thai
+those notes. A 2026-10-19 scan found 427 English `notes`/`rationale` fields
+(104 chapters) that reused unfoldingWord wording (8+ consecutive words); all were
+re-expressed in the project's own words on 2026-10-20 (PR #237), and
+`check_uw_wording.py` now fails any chapter where it recurs (§6.1). It may **never** read any Thai
 translation during drafting — not copyrighted Thai versions, and not even the
 open-licensed TNBT. This is the project's independent-creation discipline: the
 Thai wording is produced by direct analysis of the public-domain originals, so
@@ -164,8 +164,8 @@ technical and cultural terms without direct Thai equivalents.
 
 ### 6.1 Per-chapter mechanical cadence
 
-`run_checks.py` runs a language-routed cadence — 9 of the 18 check scripts for
-an NT chapter, 7 for an OT chapter — producing an aggregate report per chapter; `ship_chapter.sh` refuses to commit
+`run_checks.py` runs a language-routed cadence — 10 of the 19 check scripts for
+an NT chapter, 8 for an OT chapter — producing an aggregate report per chapter; `ship_chapter.sh` refuses to commit
 on any failure. The gate is mechanical, not honor-system. Highlights:
 
 | Check | What it catches |
@@ -184,6 +184,7 @@ on any failure. The gate is mechanical, not honor-system. Highlights:
 | Proper-noun locks | Known-rejected transliteration surface forms (hard-fail) |
 | Sacrificial vocabulary (OT) | Drift across the five Levitical offering-type nouns |
 | Ketib/Qere · LXX/MT | Masoretic variant sites surfaced for review (policy: translate the Qere; translate MT, document LXX-only material) |
+| unfoldingWord wording (license) | Any English note or rationale sharing 8+ consecutive prose words with the CC BY-SA unfoldingWord notes, which would break the CC0 claim (added 2026-10-20 after the cleanup) |
 
 A deliberate design fact a professional reader should note: **several checks
 were written in response to caught incidents**, and the incident reports are in
