@@ -3,7 +3,7 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-10-20 01:11:30 UTC_
+_Generated: 2026-10-20 01:35:21 UTC_
 _Total chapters: 1189 · Total verses: 31155_
 
 ## How to verify a chapter
@@ -285,7 +285,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/amos_07.json` | 17 | `c1c5dcd0d39333685c87026833a0c2053aaf82d49a3586db3a012c6bd0e9fb5f` | `c25f2dc2` |
 | `output/translations/amos_08.json` | 14 | `4fc3c1a912146a78f9fa380c6533c8cbc76854089ee052b28e08f9b8000cf98a` | `c25f2dc2` |
 | `output/translations/amos_09.json` | 15 | `1f3f14e1a8e629940a18a26981200dcef6117b866ec485b379c291b2c0aa157d` | `c25f2dc2` |
-| `output/translations/colossians_01.json` | 29 | `6963aa0840a0fa09d6ba9b223d5c998570790a8c9df5b122f678c9293f12a64e` | `686c888f` |
+| `output/translations/colossians_01.json` | 29 | `6963aa0840a0fa09d6ba9b223d5c998570790a8c9df5b122f678c9293f12a64e` | `d7851be1` |
 | `output/translations/colossians_02.json` | 23 | `152de18f1ea535f7a47284b741a6de92ddfc269076e0c44a1d87c5c3fca652b9` | `d03c3a1a` |
 | `output/translations/colossians_03.json` | 25 | `17e946688dd4590eee7d9674a5115229714c94c9612866530d387dc8b61870fc` | `465b1f15` |
 | `output/translations/colossians_04.json` | 18 | `11b9d98690638fff358b18be59925f310cf455e8ad3b7c084fd6b865e1e9e231` | `b64d4872` |
@@ -532,7 +532,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/hebrews_08.json` | 13 | `7af4362eb73c87e52a4ef99569347079ec51da2a505c038cf059f62b62ee2b09` | `6742d7c2` |
 | `output/translations/hebrews_09.json` | 28 | `0d76d398b1ebade928ae58b4f07bb9fdd910fdb3396bd4570ddb63102e16c56d` | `1d237b06` |
 | `output/translations/hebrews_10.json` | 39 | `a082ba35191f83048971852f2fdbaf043b3a2281af3e4350e88d84ad684e907c` | `c5d0322a` |
-| `output/translations/hebrews_11.json` | 40 | `a0b41086337aa89deea22c3c11ca3a17204244337622cf90e1461e637b854d42` | `686c888f` |
+| `output/translations/hebrews_11.json` | 40 | `a0b41086337aa89deea22c3c11ca3a17204244337622cf90e1461e637b854d42` | `d7851be1` |
 | `output/translations/hebrews_12.json` | 29 | `ab3705d42e1a3a90996eae4d9a7a43feb175487ec04766f594eb18133c255a8a` | `e06d560d` |
 | `output/translations/hebrews_13.json` | 25 | `cd1f0202551281b52dc8ea05f213503bbf3b080ea423451171a65492b1ff0ee4` | `9ec9a94c` |
 | `output/translations/hosea_01.json` | 9 | `b3c17f271aeae0d2ad951b76405d291c4422d8c65f962d49183847b2f261e1bc` | `70677ef5` |
@@ -616,7 +616,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/isaiah_65.json` | 25 | `9ea4ae23287b5c6dd4e3ca06e877d623947b262051ac51b0da2d20287195ef6b` | `e411f694` |
 | `output/translations/isaiah_66.json` | 24 | `04b951440fb659a507a082b76052509bc9e120bb6dfd7637439dde8cd633d903` | `0d0e09da` |
 | `output/translations/james_01.json` | 27 | `d493f72c16a0a05776625567731b705eb0fbc3399685fa95d5e45a888ea670c7` | `8e49de67` |
-| `output/translations/james_02.json` | 26 | `c6c0b5808e83e132014f1cc400e09bb69bc917cd60ae5b9beb4b2fe9fcd384e0` | `686c888f` |
+| `output/translations/james_02.json` | 26 | `c6c0b5808e83e132014f1cc400e09bb69bc917cd60ae5b9beb4b2fe9fcd384e0` | `d7851be1` |
 | `output/translations/james_03.json` | 18 | `3808eccaa5550cc2fda97cd0dce2538331998823e416bf1c48ab042c3ba969d6` | `11382475` |
 | `output/translations/james_04.json` | 17 | `3b61bd19e8da7e5dd9c3681a31efbf7854e8f7fd8d20d47ffbc1a4f73289bf05` | `502e5308` |
 | `output/translations/james_05.json` | 20 | `cdd0acb6927085b9b36656e407bea5164fc4efaf311e82378334632582f3ac55` | `5bde9a40` |
@@ -741,7 +741,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/john_21.json` | 25 | `f6ec05b4ae5b48057f80c04030f55924ebe6ee76b8e1c67e44139b4e04ba859e` | `d50cea8d` |
 | `output/translations/jonah_01.json` | 16 | `00a6d272caa8d59fda02716ac88803050845d7fbf3e489e48c3714b4b0115820` | `d03c3a1a` |
 | `output/translations/jonah_02.json` | 11 | `0d75d140afc7585bfb93465469d60468a568f85708cadef2d85c3eb6ac9a4b96` | `d03c3a1a` |
-| `output/translations/jonah_03.json` | 10 | `447fc8092c1c9b489aa13ee7f379ec1789df9d854b51144bd47017269863d224` | `d03c3a1a` |
+| `output/translations/jonah_03.json` | 10 | `c3816af6b96f2c3abfb8ed6b3016c1575c3593575abebb4015703e57230a735d` | `421ea6fc` |
 | `output/translations/jonah_04.json` | 11 | `8fbd59a1452101fc657f9391da3aaa0e43a509b2160a52008902229a7cf992fb` | `d03c3a1a` |
 | `output/translations/joshua_01.json` | 18 | `f2b13e2f4a5b8078195f080e9290af85296c74994d04b7292df56515447a459f` | `7040ad9f` |
 | `output/translations/joshua_02.json` | 24 | `e3b9c17cd34b7da9c319d9c6fceb50fd11ec7afcb3d9af7fb2787bd3eecf9c74` | `d03c3a1a` |
@@ -769,7 +769,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/joshua_24.json` | 33 | `8af33867974fb02ffbc2ecc0ba0bc6d1f18461c686b839810518e37ac8c9225c` | `6a779aae` |
 | `output/translations/jude_01.json` | 25 | `830e0e17f058553a12d3c30af95ce0dfc8e68d4ae841849ece413ffc310bfc78` | `dd8164e1` |
 | `output/translations/judges_01.json` | 36 | `e11bc1767d581707148945d57385a903231a4b58ab4b56f51b33a50935e96a1b` | `d03c3a1a` |
-| `output/translations/judges_02.json` | 23 | `b1fa0a2e88a5632bd4f7689445168e5a9c283fd3b2974a51e8ccdff8889fc4ea` | `d03c3a1a` |
+| `output/translations/judges_02.json` | 23 | `d5dba4ddaa0576f0c428b2e69ae46f6c3ace29e05eefe0c8c26f81f9230834fc` | `d03c3a1a` |
 | `output/translations/judges_03.json` | 31 | `bb254323f59daf709fb488f12a1b3a411518ea317b81b377e732638de3d03280` | `ef769ce3` |
 | `output/translations/judges_04.json` | 24 | `a0ee4db9d058dbf1abee9b20b928d19cef2e8adc18386a5792eb2503a0a7c10f` | `a488cfff` |
 | `output/translations/judges_05.json` | 31 | `97c1b5b665b780a71849e63c18645124d6306a7737c9dd33722c22665a72aa5b` | `03f71f1a` |
@@ -843,7 +843,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/luke_20.json` | 47 | `6b8b82cab2de77fcb74820d8fd434c579fe1f20f343c4069d37c34801dd8e749` | `cf6bd38f` |
 | `output/translations/luke_21.json` | 38 | `2c44259c457795ded72824270807f5d2e7b30845ef464a707486f5ad90205c06` | `d03c3a1a` |
 | `output/translations/luke_22.json` | 71 | `76e0650fe2477982dc592d75c27182d20455e0d34ad25fe6a94b98f084c13e97` | `d03c3a1a` |
-| `output/translations/luke_23.json` | 55 | `ccc6e5462f6c9cb8711a207f3fb82c0e206436a4b4b6eded88c023fbbc3c5224` | `d03c3a1a` |
+| `output/translations/luke_23.json` | 55 | `158134e80c383cc7391151ee1798f33af76c5a8a7f1e299dce241a203efb2e12` | `421ea6fc` |
 | `output/translations/luke_24.json` | 53 | `a1bb9cba8e3dc6fb43ece420b038fec03afa56474208e7254f72a495d43fd94b` | `7040ad9f` |
 | `output/translations/malachi_01.json` | 14 | `a73ecacab8ab4d28ae904a457f49e894de5bdb77c74497a909e01005555d022b` | `5078c2e8` |
 | `output/translations/malachi_02.json` | 17 | `7304f706aba3c861237622c7a6da946f54b8cec50d2659897c4955cc37347e07` | `66c79d55` |
