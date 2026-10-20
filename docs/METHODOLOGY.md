@@ -30,12 +30,12 @@ reviewers have read it.
 | Verses | 31,155 in source numbering (MT for OT, SBLGNT for NT); 31,086 in English numbering (app + reader site); the 69-verse delta is fully reconciled — see §7 |
 | Source texts | SBLGNT + MACULA Greek (NT); Westminster Leningrad Codex via OSHB + MACULA Hebrew (OT) |
 | Translation philosophy | Optimal equivalence (BSB-family), SIL/Larson four-pillars |
-| License | CC0 1.0 Universal (public domain) — text, notes, tooling |
+| License | CC0 1.0 Universal (public domain) — Thai text and tooling. The English note fields carry a pending wording cleanup (see §4) |
 | Key-term ledger | 19,265 glossary entries (`glossary.json`) |
 | NT→OT citation registry | 1,570 recorded links (`data/nt_ot_citations.json`) |
 | Back-translations | 1,189 chapters — 100% coverage, ship-blocking |
 | Textual-variant records | 843 per-chapter files (`output/textual_variants/`) |
-| Mechanical checks | 18 per-chapter check scripts (9-step NT cadence, 7-step OT cadence) plus a corpus-audit, polish, and drift-discovery suite |
+| Mechanical checks | 18 `check_*.py` scripts in the repo; `run_checks.py` runs 9 of them on every NT chapter and 7 on every OT chapter, the rest run at book or corpus level, plus a corpus-audit, polish, and drift-discovery suite |
 | Translator-decision documents | 97 (`docs/translator_decisions/`) |
 | End-of-book audits | 66 of 66 books |
 | External AI review responses | 66 of 66 books (independent models — see §6.3) |
@@ -101,7 +101,11 @@ source one of five roles: `primary_text`, `morphology_data`, `consult_only`,
 **The isolation rule** (RULES.md §2, §8, §10): during drafting the model may
 read only the original-language text with morphology, the project's own rules
 and glossary, its own prior output, and unfoldingWord's English scholarly notes
-(CC-BY-SA, consulted but never copied). It may **never** read any Thai
+(CC-BY-SA, read for context). The Thai is drafted from the originals, not from
+those notes. A 2026-10-19 pass found about 400 English `notes` fields that reuse
+unfoldingWord wording (8+ consecutive words); those fields are scheduled for a
+rewrite with a check to keep it from recurring, and until then the English notes
+should not be treated as cleanly CC0. It may **never** read any Thai
 translation during drafting — not copyrighted Thai versions, and not even the
 open-licensed TNBT. This is the project's independent-creation discipline: the
 Thai wording is produced by direct analysis of the public-domain originals, so
@@ -135,9 +139,11 @@ Documented end-to-end in [TRANSLATION_WORKFLOW.md](TRANSLATION_WORKFLOW.md).
    Translation Notes: the book introduction (read first — author, audience,
    themes, known translation issues; standard SIL practice) and the
    chapter-level notes on interpretive cruxes.
-3. **Drafting** — a fresh maximum-capability Claude session per chapter (clean
-   context; RULES.md and the glossary loaded; the nearest prior chapter read
-   for stylistic continuity) translates from the Greek/Hebrew. Every verse
+3. **Drafting** — a Claude Code session (RULES.md and the glossary loaded;
+   the nearest prior chapter read for stylistic continuity) translates from the
+   Greek/Hebrew, one chapter at a time. Sessions were not restarted for every
+   chapter: the commit history shows long runs landing a chapter roughly every
+   half hour through the night, so earlier chapters often remained in context. Every verse
    must record its interpretive surface (RULES.md §6): the Thai rendering, an
    optional literal alternative, an optional reader-facing Thai summary,
    `key_decisions` (Greek/Hebrew phrase → Thai choice → rationale), and
@@ -158,8 +164,8 @@ technical and cultural terms without direct Thai equivalents.
 
 ### 6.1 Per-chapter mechanical cadence
 
-`run_checks.py` runs a language-routed cadence — 9 steps NT, 7 steps OT —
-producing an aggregate report per chapter; `ship_chapter.sh` refuses to commit
+`run_checks.py` runs a language-routed cadence — 9 of the 18 check scripts for
+an NT chapter, 7 for an OT chapter — producing an aggregate report per chapter; `ship_chapter.sh` refuses to commit
 on any failure. The gate is mechanical, not honor-system. Highlights:
 
 | Check | What it catches |
