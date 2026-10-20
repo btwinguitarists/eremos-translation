@@ -33,8 +33,8 @@
     {
       "name": "Back-translation",
       "exit_code": 0,
-      "report": "back_translations/matthew_14_PROMPT.md",
-      "notes": "pending — Claude should produce back-translations per prompt",
+      "report": "back_translation_matthew_14.md",
+      "notes": "",
       "status": "clean"
     },
     {
@@ -48,6 +48,27 @@
       "name": "Claim consistency (hallucination)",
       "exit_code": 0,
       "report": "claim_consistency_matthew_14.md",
+      "notes": "",
+      "status": "clean"
+    },
+    {
+      "name": "Greek-field integrity",
+      "exit_code": 0,
+      "report": "greek_field_integrity_matthew_14.md",
+      "notes": "",
+      "status": "clean"
+    },
+    {
+      "name": "Phrase consistency (corpus-wide)",
+      "exit_code": 0,
+      "report": "phrase_consistency.md",
+      "notes": "",
+      "status": "clean"
+    },
+    {
+      "name": "unfoldingWord wording (license gate)",
+      "exit_code": 0,
+      "report": "uw_wording_matthew_14.md",
       "notes": "",
       "status": "clean"
     }

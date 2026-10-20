@@ -316,6 +316,8 @@ Our output remains CC0 if and only if:
 
 These rules are enforceable mechanically to a limited degree (key-term consistency check can catch some uW TW drift; see §11 future-enhancements). Primary discipline is at the drafting step.
 
+**Mechanical gate (added 2026-10-20):** `scripts/check_uw_wording.py` runs in every chapter cadence (NT step 10, OT step 8). It fails the chapter if any English `notes` or `rationale` field shares 8 or more consecutive words with the chapter's uW note file or the book introduction. A 2026-10 audit found 427 such fields in 104 chapters, all rewritten in that pass; the gate keeps it from recurring.
+
 ---
 
 ## 9. Things not automated (still required)

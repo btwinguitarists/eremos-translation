@@ -1852,15 +1852,15 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/john_01.json` | `ccdab45994198b7c71d5fd3ccc1af3614161758c96c08dea33ecdcfd34d0e9e0` |
-| `output/translations/john_02.json` | `2452513cba3840e5598a3004980c24f40884dc697d396c597c1fc4feefbc4dab` |
-| `output/translations/john_03.json` | `8af71ca7d0032006b43b911ca6a24cc436f15fe9278b697966fc2253e9ab1417` |
-| `output/translations/john_04.json` | `32e8d0e2b7a1daa7e22041860e30e35499553fda09487cd4fe6abf6b8754beb3` |
-| `output/translations/john_05.json` | `e4074b6987fc2d53f39517a0bebf974b04b98b5d2d8b4c72e5af4f58f6abf72b` |
-| `output/translations/john_06.json` | `b2cfb7d7d638ffd6f50000f4ddf1614c5cb1a7938801fb835c5c8d5266a68f42` |
-| `output/translations/john_07.json` | `fa0b2510a6d1cd9aded4c18751466f34f013380e7ad1e5eeee583d2f3f3d1efc` |
-| `output/translations/john_08.json` | `bd5e8b06d16ebff3b62e26e893d918e2c4ce35d6be943c0deeedd206c243ef98` |
-| `output/translations/john_09.json` | `d9c093bdeb2d39c59f3f3088aabb6d554a9ef44d7cb0be8e1a57b4dc7e7133d8` |
+| `output/translations/john_01.json` | `6b7ce7c25d0d1d1bec64a183defb6f7aacfe31fe3b845a44da31be6206a9e042` |
+| `output/translations/john_02.json` | `2c50619d7cf50b793fdc0f6397930c68432c054b3477ed78fbf650f9d4e833fa` |
+| `output/translations/john_03.json` | `c7f55fc4d85f009fea094f4e80d42ec4c383ea318db8a1288a28ccfae469fcac` |
+| `output/translations/john_04.json` | `4e8b0a9e35db29690117d74735167d5c6f220ba8dabf36429c124140a66b7626` |
+| `output/translations/john_05.json` | `3708fcaa476b0a398eea282f0e4a6612e42b54cf2841df15946257b432411c8b` |
+| `output/translations/john_06.json` | `56da11c999524608538105523b17efd938365961c36f9805b4e362f96582242e` |
+| `output/translations/john_07.json` | `1e84a021edabe8ff6552f8a6cc13e7f469d003b2ef669e8fc4d71ee8c9a609ec` |
+| `output/translations/john_08.json` | `309b2d519e6db984cd8914fb2cc10a2698bf1362758b67c0ac94632c14b564e2` |
+| `output/translations/john_09.json` | `330a1294b6358b2842f71f240289d37f5ac4c6af86788836fe0b385f49dacffa` |
 | `output/translations/john_10.json` | `f878cde0f49d35383f1439f85f91c65f53a3684e9c8f06fd76eb5235a8f066e6` |
 | `output/translations/john_11.json` | `4497e6ea992c06571d3576a11e7c22698d332883ab957fe23d782592b6a03c70` |
 | `output/translations/john_12.json` | `d40995763190cca8abe073df7bd3b6b12b6ba1138a828f01c30057bf369662f3` |

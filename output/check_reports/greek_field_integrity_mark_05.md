@@ -1,16 +1,8 @@
 # Greek-field integrity check — mark ch. 5
 
 - key_decisions entries scanned: **155**
-- Hard fails: **1**
+- Hard fails: **0**
 - Warnings: 5
-
-## ❌ Hard fails
-
-### Mark 5:22  (GREEK_NOT_IN_VERSE)
-- `greek` field: `ἰδοὺ (implicit in some readings)`
-- `thai` field: `ดูเถิด`
-- Greek tokens checked: ['ἰδοὺ']
-- Why flagged: Greek token(s) not in the verse's source text (normalized for case/accents), and rationale doesn't flag it as variant/classical/LXX/hapax/morphological.
 
 ## ⚠ Warnings (non-blocking)
 

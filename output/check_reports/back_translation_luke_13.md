@@ -11,7 +11,7 @@ Mode: in-chat (Claude-produced back-translations) | Threshold: 0.35
 ## ℹ Low similarity — rationale documented (intentional divergence)
 
 - **Luke 13:7** (sim=0.34)
-  - Thai: เขาจึงพูดกับคนทำสวนองุ่นว่า ‹ดูเถิด สามปีแล้วที่เรามาหาผลจากต้นมะเดื่อนี้ แต่ไม่พบเลย จงโค่นมันทิ้งเสีย ทำไมจึงปล่อยให้มันทำให้ดินเสียเปล่าเล่า?›
+  - Thai: เขาจึงพูดกับคนทำสวนองุ่นว่า ‘ดูเถิด สามปีแล้วที่เรามาหาผลจากต้นมะเดื่อนี้ แต่ไม่พบเลย จงโค่นมันทิ้งเสีย ทำไมจึงปล่อยให้มันทำให้ดินเสียเปล่าเล่า?’
   - Back: So he said to the vineyard-worker, ‹Look, for three years I have been coming to look for fruit on this fig tree but I do not find any. Cut it down! Why let it make the ground useless?›
   - BSB:  So he said to the keeper of the vineyard, 'Look, for the past three years I have come to search for fruit on this fig tree and haven't found any. Therefore cut it down! Why should it use up the soil?'
 - **Luke 13:34** (sim=0.15)

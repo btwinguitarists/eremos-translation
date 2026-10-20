@@ -11,7 +11,7 @@ Mode: in-chat (Claude-produced back-translations) | Threshold: 0.35
 ## ℹ Low similarity — rationale documented (intentional divergence)
 
 - **Acts 13:11** (sim=0.07)
-  - Thai: ดูเถิด บัดนี้พระหัตถ์ขององค์พระผู้เป็นเจ้าจะลงโทษเจ้า เจ้าจะตาบอดมองไม่เห็นดวงอาทิตย์ชั่วระยะหนึ่ง» ทันใดนั้น ม่านมืดและความมืดก็ครอบคลุมเขา เขาจึงคลำหาคนที่จะจูงมือเดินไป
+  - Thai: ดูเถิด บัดนี้พระหัตถ์ขององค์พระผู้เป็นเจ้าจะลงโทษเจ้า เจ้าจะตาบอดมองไม่เห็นดวงอาทิตย์ชั่วระยะหนึ่ง” ทันใดนั้น ม่านมืดและความมืดก็ครอบคลุมเขา เขาจึงคลำหาคนที่จะจูงมือเดินไป
   - Back: Look — now the hand of the Lord will punish you. You will be blind, not seeing the sun for a while.' Immediately, a dark veil and darkness covered him, and he groped about seeking someone to lead him by the hand.
   - BSB:  Now look, the hand of the Lord is against you, and for a time you will be blind and unable to see the light of the sun.” Immediately mist and darkness came over him, and he groped about, seeking someone to lead him by the hand.
 

@@ -6,9 +6,12 @@
 | TNBT structural comparison | ✅ clean | [tnbt_comparison_mark_14.md](tnbt_comparison_mark_14.md) |
 | OT citation acknowledgment | ✅ clean | [ot_citations_mark_14.md](ot_citations_mark_14.md) |
 | Synoptic parallels | ✅ clean | [parallel_passages.md](parallel_passages.md) |
-| Back-translation | ✅ clean | [(skipped)]((skipped)) |
+| Back-translation | ✅ clean | [back_translation_mark_14.md](back_translation_mark_14.md) |
 | Thai-summary coverage (info) | ✅ clean | [summary_coverage_mark_14.md](summary_coverage_mark_14.md) |
 | Claim consistency (hallucination) | ✅ clean | [claim_consistency_mark_14.md](claim_consistency_mark_14.md) |
+| Greek-field integrity | ✅ clean | [greek_field_integrity_mark_14.md](greek_field_integrity_mark_14.md) |
+| Phrase consistency (corpus-wide) | ✅ clean | [phrase_consistency.md](phrase_consistency.md) |
+| unfoldingWord wording (license gate) | ✅ clean | [uw_wording_mark_14.md](uw_wording_mark_14.md) |
 
 ## Ship criterion
 

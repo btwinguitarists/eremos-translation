@@ -57,6 +57,20 @@
       "report": "greek_field_integrity_luke_22.md",
       "notes": "",
       "status": "clean"
+    },
+    {
+      "name": "Phrase consistency (corpus-wide)",
+      "exit_code": 0,
+      "report": "phrase_consistency.md",
+      "notes": "",
+      "status": "clean"
+    },
+    {
+      "name": "unfoldingWord wording (license gate)",
+      "exit_code": 0,
+      "report": "uw_wording_luke_22.md",
+      "notes": "",
+      "status": "clean"
     }
   ]
 }

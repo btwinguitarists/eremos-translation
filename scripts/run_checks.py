@@ -105,42 +105,42 @@ def detect_chapter_language(slug: str, chapter: int) -> str:
 
 
 def run_nt_checks(slug: str, chapter: int, args, summary: dict, record) -> None:
-    """The original 9-step NT pipeline. Behavior unchanged from the pre-OT-rollout
+    """The original 9-step NT pipeline (plus the uW wording gate, step 10). Behavior unchanged from the pre-OT-rollout
     version of this script — preserved verbatim under a function so the OT branch
     can be added without touching the NT code path.
     """
     print(f"\n=== Running NT checks on {slug} ch. {chapter} ===\n")
 
     # 1. Rebuild glossary & run key-term consistency
-    print("[1/9] Key-term consistency...")
+    print("[1/10] Key-term consistency...")
     run([sys.executable, str(SCRIPTS / "build_glossary.py")])
     code, _ = run([sys.executable, str(SCRIPTS / "check_key_term_consistency.py"),
                    "--book", slug, "--chapter", str(chapter)])
     record("Key-term consistency", code, f"key_term_consistency_{slug}_{chapter:02d}.md")
 
     # 2. TNBT structural comparison
-    print("[2/9] TNBT structural comparison...")
+    print("[2/10] TNBT structural comparison...")
     code, _ = run([sys.executable, str(SCRIPTS / "check_against_tnbt.py"),
                    "--book", slug, "--chapter", str(chapter)])
     record("TNBT structural comparison", code, f"tnbt_comparison_{slug}_{chapter:02d}.md")
 
     # 3. OT citation check
-    print("[3/9] OT citation check...")
+    print("[3/10] OT citation check...")
     code, _ = run([sys.executable, str(SCRIPTS / "check_ot_citations.py"),
                    "--book", slug, "--chapter", str(chapter)])
     record("OT citation acknowledgment", code, f"ot_citations_{slug}_{chapter:02d}.md")
 
     # 4. Parallel-passage check
-    print("[4/9] Synoptic parallel-passage check...")
+    print("[4/10] Synoptic parallel-passage check...")
     code, _ = run([sys.executable, str(SCRIPTS / "check_parallel_passages.py")])
     record("Synoptic parallels", code, "parallel_passages.md")
 
     # 5. Back-translation
     if args.skip_back_translation:
-        print("[5/9] Back-translation — skipped per flag")
+        print("[5/10] Back-translation — skipped per flag")
         record("Back-translation", 0, "(skipped)", "skipped via --skip-back-translation")
     else:
-        print("[5/9] Back-translation...")
+        print("[5/10] Back-translation...")
         code, out = run([sys.executable, str(SCRIPTS / "check_back_translation.py"),
                         "--book", slug, "--chapter", str(chapter)])
         bt_file = ROOT / "output" / "back_translations" / f"{slug}_{chapter:02d}.json"
@@ -152,7 +152,7 @@ def run_nt_checks(slug: str, chapter: int, args, summary: dict, record) -> None:
                    "MISSING — Claude must back-translate per prompt before re-running")
 
     # 6. Summary-coverage check (informational)
-    print("[6/9] Thai-summary coverage (informational)...")
+    print("[6/10] Thai-summary coverage (informational)...")
     code, _ = run([sys.executable, str(SCRIPTS / "check_summary_coverage.py"),
                    "--book", slug, "--chapter", str(chapter)])
     record("Thai-summary coverage (info)", 0,
@@ -160,23 +160,30 @@ def run_nt_checks(slug: str, chapter: int, args, summary: dict, record) -> None:
            "informational only — not a ship gate")
 
     # 7. Claim-consistency check (hallucination detector)
-    print("[7/9] Claim-consistency (hallucination check)...")
+    print("[7/10] Claim-consistency (hallucination check)...")
     code, _ = run([sys.executable, str(SCRIPTS / "check_claim_consistency.py"),
                    "--book", slug, "--chapter", str(chapter)])
     record("Claim consistency (hallucination)", code,
            f"claim_consistency_{slug}_{chapter:02d}.md")
 
     # 8. Greek-field integrity check
-    print("[8/9] Greek-field integrity (metadata hallucination check)...")
+    print("[8/10] Greek-field integrity (metadata hallucination check)...")
     code, _ = run([sys.executable, str(SCRIPTS / "check_greek_field_integrity.py"),
                    "--book", slug, "--chapter", str(chapter), "--quiet"])
     record("Greek-field integrity", code,
            f"greek_field_integrity_{slug}_{chapter:02d}.md")
 
     # 9. Phrase-consistency audit (corpus-wide)
-    print("[9/9] Phrase-consistency audit (corpus-wide)...")
+    print("[9/10] Phrase-consistency audit (corpus-wide)...")
     code, _ = run([sys.executable, str(SCRIPTS / "check_phrase_consistency.py")])
     record("Phrase consistency (corpus-wide)", code, "phrase_consistency.md")
+
+    # 10. unfoldingWord wording gate (license: no CC BY-SA wording in CC0 output)
+    print("[10/10] unfoldingWord wording gate (license)...")
+    code, _ = run([sys.executable, str(SCRIPTS / "check_uw_wording.py"),
+                   "--book", slug, "--chapter", str(chapter), "--report"])
+    record("unfoldingWord wording (license gate)", code,
+           f"uw_wording_{slug}_{chapter:02d}.md")
 
 
 def run_ot_checks(slug: str, chapter: int, language: str, args, summary: dict, record) -> None:
@@ -213,21 +220,21 @@ def run_ot_checks(slug: str, chapter: int, language: str, args, summary: dict, r
     )
 
     # 1. Hebrew/Aramaic field integrity
-    print("[1/7] Hebrew-field integrity (metadata hallucination check)...")
+    print("[1/8] Hebrew-field integrity (metadata hallucination check)...")
     code, _ = run([sys.executable, str(SCRIPTS / "check_hebrew_field_integrity.py"),
                    "--book", book_code, "--chapter", str(chapter), "--report"])
     record("Hebrew-field integrity", code,
            f"hebrew_field_integrity_{slug}_{chapter:02d}.md")
 
     # 2. Divine-names enforcement (locked Tetragrammaton policy)
-    print("[2/7] Divine-names enforcement...")
+    print("[2/8] Divine-names enforcement...")
     code, _ = run([sys.executable, str(SCRIPTS / "check_divine_names.py"),
                    "--book", book_code, "--chapter", str(chapter), "--report"])
     record("Divine names (locked Tetragrammaton)", code,
            f"divine_names_{slug}_{chapter:02d}.md")
 
     # 3. Versification anchor (MT versification + divergence zones)
-    print("[3/7] Versification anchor (MT-anchored numbering)...")
+    print("[3/8] Versification anchor (MT-anchored numbering)...")
     code, _ = run([sys.executable, str(SCRIPTS / "check_versification_anchor.py"),
                    "--book", book_code, "--chapter", str(chapter), "--report"])
     record("Versification anchor", code,
@@ -236,7 +243,7 @@ def run_ot_checks(slug: str, chapter: int, language: str, args, summary: dict, r
     # 4. Honorifics binding (Rachasap — ทรง- bound to divine/royal subjects only)
     # Catches the Ruth 1:13 class — body-part-of-God (พระหัตถ์, พระเนตร, etc.)
     # in subject position taking ทรง- on the verb. Per ot_register_policy_2026-05.
-    print("[4/7] Honorifics binding (Rachasap ทรง- subject check)...")
+    print("[4/8] Honorifics binding (Rachasap ทรง- subject check)...")
     code, _ = run([sys.executable, str(SCRIPTS / "check_honorifics_binding.py"),
                    "--book", book_code, "--chapter", str(chapter), "--report"])
     record("Honorifics binding (Rachasap)", code,
@@ -244,10 +251,10 @@ def run_ot_checks(slug: str, chapter: int, language: str, args, summary: dict, r
 
     # 5. Back-translation (language-agnostic — reused from NT)
     if args.skip_back_translation:
-        print("[5/7] Back-translation — skipped per flag")
+        print("[5/8] Back-translation — skipped per flag")
         record("Back-translation", 0, "(skipped)", "skipped via --skip-back-translation")
     else:
-        print("[5/7] Back-translation...")
+        print("[5/8] Back-translation...")
         code, out = run([sys.executable, str(SCRIPTS / "check_back_translation.py"),
                         "--book", slug, "--chapter", str(chapter)])
         bt_file = ROOT / "output" / "back_translations" / f"{slug}_{chapter:02d}.json"
@@ -259,7 +266,7 @@ def run_ot_checks(slug: str, chapter: int, language: str, args, summary: dict, r
                    "MISSING — Claude must back-translate per prompt before re-running")
 
     # 6. Summary-coverage (informational, language-agnostic)
-    print("[6/7] Thai-summary coverage (informational)...")
+    print("[6/8] Thai-summary coverage (informational)...")
     code, _ = run([sys.executable, str(SCRIPTS / "check_summary_coverage.py"),
                    "--book", slug, "--chapter", str(chapter)])
     record("Thai-summary coverage (info)", 0,
@@ -272,12 +279,19 @@ def run_ot_checks(slug: str, chapter: int, language: str, args, summary: dict, r
     # Wired advisory-first per the post-Job enhancement review — it writes its report
     # and surfaces the raw exit code in `notes`, but is recorded with exit_code=0 so it
     # NEVER gates the OT ship. Flip to blocking only after a full clean book validates it.
-    print("[7/7] Claim-consistency (hallucination check — advisory)...")
+    print("[7/8] Claim-consistency (hallucination check — advisory)...")
     code, _ = run([sys.executable, str(SCRIPTS / "check_claim_consistency.py"),
                    "--book", slug, "--chapter", str(chapter)])
     record("Claim consistency (hallucination, advisory)", 0,
            f"claim_consistency_{slug}_{chapter:02d}.md",
            f"advisory only — not a ship gate (raw exit={code})")
+
+    # 8. unfoldingWord wording gate (license: no CC BY-SA wording in CC0 output)
+    print("[8/8] unfoldingWord wording gate (license)...")
+    code, _ = run([sys.executable, str(SCRIPTS / "check_uw_wording.py"),
+                   "--book", slug, "--chapter", str(chapter), "--report"])
+    record("unfoldingWord wording (license gate)", code,
+           f"uw_wording_{slug}_{chapter:02d}.md")
 
 
 def main():

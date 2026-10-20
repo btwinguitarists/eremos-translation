@@ -43,6 +43,20 @@
       "report": "summary_coverage_2samuel_17.md",
       "notes": "informational only — not a ship gate",
       "status": "clean"
+    },
+    {
+      "name": "Claim consistency (hallucination, advisory)",
+      "exit_code": 0,
+      "report": "claim_consistency_2samuel_17.md",
+      "notes": "advisory only — not a ship gate (raw exit=0)",
+      "status": "clean"
+    },
+    {
+      "name": "unfoldingWord wording (license gate)",
+      "exit_code": 0,
+      "report": "uw_wording_2samuel_17.md",
+      "notes": "",
+      "status": "clean"
     }
   ]
 }

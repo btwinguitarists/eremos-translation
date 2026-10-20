@@ -15,7 +15,7 @@ Mode: in-chat (Claude-produced back-translations) | Threshold: 0.35
   - Back: 'Therefore, whoever violates even one of the least of these commandments, and teaches others to do so, that person will be called least in the kingdom of heaven; but whoever practices and teaches them, that person will be called great in the kingdom of heaven.'
   - BSB:  So then, whoever breaks one of the least of these commandments and teaches others to do likewise will be called least in the kingdom of heaven; but whoever practices and teaches them will be called great in the kingdom of heaven.
 - **Matthew 5:22** (sim=0.16)
-  - Thai: แต่เราบอกพวกท่านว่า ผู้ใดโกรธเคืองพี่น้องของตน [โดยไม่มีเหตุ] ผู้นั้นจะต้องถูกพิพากษา และผู้ใดกล่าวกับพี่น้องของตนว่า ‹ราคา› ผู้นั้นจะต้องถูกสภาแซนเฮดรินพิพากษา และผู้ใดกล่าวว่า ‹เจ้าคนโง่› ผู้นั้นจะต้องถูกส่งลงสู่ไฟนรก
+  - Thai: แต่เราบอกพวกท่านว่า ผู้ใดโกรธเคืองพี่น้องของตน [โดยไม่มีเหตุ] ผู้นั้นจะต้องถูกพิพากษา และผู้ใดกล่าวกับพี่น้องของตนว่า ‘ราคา’ ผู้นั้นจะต้องถูกสภาแซนเฮดรินพิพากษา และผู้ใดกล่าวว่า ‘เจ้าคนโง่’ ผู้นั้นจะต้องถูกส่งลงสู่ไฟนรก
   - Back: 'But I tell you: whoever is angry with his brother [without cause] will be judged. And whoever says to his brother "Raca" will be judged by the Sanhedrin council. And whoever says "You fool" will be sent into the fire of hell.'
   - BSB:  But I tell you that anyone who is angry with his brother will be subject to judgment. Again, anyone who says to his brother, ‘Raca,’ will be subject to the Sanhedrin. But anyone who says, ‘You fool!’ will be subject to the fire of hell.
 

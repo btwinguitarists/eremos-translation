@@ -334,8 +334,8 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/galatians_01.json` | `035ddedcfa78dc62c0b92157bf4994621fc83013e47dddcd19e7c6dc72898a9b` |
-| `output/translations/galatians_02.json` | `ef020b08541758508e9a1f2f037cacbe28d8a2ac6cb0f25e7dc1990b4b880083` |
+| `output/translations/galatians_01.json` | `3977e4a2929179a873f5a047653f4c22de0780a5bd07ff3a645b2b7d30f4e42a` |
+| `output/translations/galatians_02.json` | `d32896858c670ae50691a19e2aa355c8100e64d71abd54a1232b1d904f5bc763` |
 | `output/translations/galatians_03.json` | `f801401758fdf4a581484ea509024725a3a4242acb42624cac27a998b6894fa4` |
 | `output/translations/galatians_04.json` | `6419fc431ce43cebfdbbff8d2a6026f81bd484468e38311da0a266301e78a2d1` |
 | `output/translations/galatians_05.json` | `8c554130d8819be2bff95cf6657734f4da7ec53e27845623688ad63407121424` |
