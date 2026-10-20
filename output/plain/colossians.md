@@ -38,7 +38,7 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **15** พระบุตรทรงเป็นฉายาของพระเจ้าผู้ที่ตามนุษย์ไม่อาจเห็นได้ ทรงเป็นบุตรหัวปีเหนือสิ่งที่ทรงสร้างทั้งสิ้น
 
-**16** เพราะในพระองค์ ทุกสิ่งได้ทรงถูกสร้างขึ้น ทั้งในสวรรค์และบนแผ่นดินโลก ทั้งสิ่งที่มองเห็นได้และมองไม่เห็น ไม่ว่าจะเป็นบัลลังก์หรือผู้ทรงเดชานุภาพ หรือผู้ครองหรือผู้ทรงอำนาจ ทุกสิ่งได้ทรงถูกสร้างขึ้นโดยทางพระองค์และเพื่อพระองค์
+**16** เพราะในพระองค์ ทุกสิ่งได้ถูกสร้างขึ้น ทั้งในสวรรค์และบนแผ่นดินโลก ทั้งสิ่งที่มองเห็นได้และมองไม่เห็น ไม่ว่าจะเป็นบัลลังก์หรือผู้ทรงเดชานุภาพ หรือผู้ครองหรือผู้ทรงอำนาจ ทุกสิ่งได้ถูกสร้างขึ้นโดยทางพระองค์และเพื่อพระองค์
 
 **17** พระองค์ทรงดำรงอยู่ก่อนสรรพสิ่ง และในพระองค์ ทุกสิ่งดำรงอยู่ด้วยกัน
 
@@ -218,7 +218,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/colossians_01.json` | `eef92c90dc4a020325acfcc6efaeda981d479f0afb637c230f42ff62b5f8bed9` |
+| `output/translations/colossians_01.json` | `6963aa0840a0fa09d6ba9b223d5c998570790a8c9df5b122f678c9293f12a64e` |
 | `output/translations/colossians_02.json` | `152de18f1ea535f7a47284b741a6de92ddfc269076e0c44a1d87c5c3fca652b9` |
 | `output/translations/colossians_03.json` | `17e946688dd4590eee7d9674a5115229714c94c9612866530d387dc8b61870fc` |
 | `output/translations/colossians_04.json` | `11b9d98690638fff358b18be59925f310cf455e8ad3b7c084fd6b865e1e9e231` |

@@ -35,7 +35,7 @@ reviewers have read it.
 | NT→OT citation registry | 1,570 recorded links (`data/nt_ot_citations.json`) |
 | Back-translations | 1,189 chapters — 100% coverage, ship-blocking |
 | Textual-variant records | 843 per-chapter files (`output/textual_variants/`) |
-| Mechanical checks | 19 `check_*.py` scripts in the repo; `run_checks.py` runs 10 of them on every NT chapter and 8 on every OT chapter, the rest run at book or corpus level, plus a corpus-audit, polish, and drift-discovery suite |
+| Mechanical checks | 20 `check_*.py` scripts in the repo; `run_checks.py` runs 11 of them on every NT chapter and 8 on every OT chapter, the rest run at book or corpus level, plus a corpus-audit, polish, and drift-discovery suite |
 | Translator-decision documents | 97 (`docs/translator_decisions/`) |
 | End-of-book audits | 66 of 66 books |
 | External AI review responses | 66 of 66 books (independent models — see §6.3) |
@@ -164,7 +164,7 @@ technical and cultural terms without direct Thai equivalents.
 
 ### 6.1 Per-chapter mechanical cadence
 
-`run_checks.py` runs a language-routed cadence — 10 of the 19 check scripts for
+`run_checks.py` runs a language-routed cadence — 11 of the 20 check scripts for
 an NT chapter, 8 for an OT chapter — producing an aggregate report per chapter; `ship_chapter.sh` refuses to commit
 on any failure. The gate is mechanical, not honor-system. Highlights:
 
@@ -180,6 +180,7 @@ on any failure. The gate is mechanical, not honor-system. Highlights:
 | Claim consistency | "Pipeline hypocrisy": a note claiming a side-effect ("added to glossary", "registered citation") whose artifact doesn't exist |
 | Divine names (OT) | Any deviation from the Tetragrammaton policy (§7 below) |
 | Honorifics binding (OT) | Royal-register noun and verb layers applied incorrectly to divine subjects |
+| Honorifics (NT) | The royal verb prefix ทรง- on a human or non-divine subject (added 2026-10-20 after Romans 2–5 and Hebrews 11 shipped with it on the people being justified and on the patriarchs) |
 | Versification anchor (OT) | Verse-numbering drift at the ~23 MT/English seams |
 | Proper-noun locks | Known-rejected transliteration surface forms (hard-fail) |
 | Sacrificial vocabulary (OT) | Drift across the five Levitical offering-type nouns |

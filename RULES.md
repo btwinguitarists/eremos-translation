@@ -68,6 +68,8 @@ When pillars conflict, **accuracy wins**, with naturalness documented as a trade
   - `พระหัตถ์` for "hand", `พระบาท` for "foot"
   - `พระเจ้า` for God; `พระเยซู` for Jesus (พระ-prefix is the honorific)
 
+  **Mechanical gates:** `check_honorifics_binding.py` (OT cadence) and `check_nt_honorifics.py` (NT cadence, added 2026-10-20 after Romans 2–5, Hebrews 11, James 2:21 and Colossians 1:16 shipped with ทรง on human or non-divine subjects). Patriarchs, apostles and ordinary people take plain register; only God, Christ, the Spirit and recognised monarchs take ทรง-.
+
 - **Humans addressing Christ/God** use the lowest humble register:
   - `ข้าพระองค์` or `ข้า` for "I"
   - `พระองค์` for "you" (divine addressee)
