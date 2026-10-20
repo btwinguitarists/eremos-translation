@@ -66,10 +66,10 @@
       "status": "clean"
     },
     {
-      "name": "External AI review (Gemini)",
+      "name": "unfoldingWord wording (license gate)",
       "exit_code": 0,
-      "report": "(error)",
-      "notes": "Gemini call failed (exit=1):     \"status\": \"UNAVAILABLE\" |   } | }",
+      "report": "uw_wording_john_09.md",
+      "notes": "",
       "status": "clean"
     }
   ]

@@ -10,6 +10,8 @@
 | Thai-summary coverage (info) | ✅ clean | [summary_coverage_acts_04.md](summary_coverage_acts_04.md) |
 | Claim consistency (hallucination) | ✅ clean | [claim_consistency_acts_04.md](claim_consistency_acts_04.md) |
 | Greek-field integrity | ✅ clean | [greek_field_integrity_acts_04.md](greek_field_integrity_acts_04.md) |
+| Phrase consistency (corpus-wide) | ✅ clean | [phrase_consistency.md](phrase_consistency.md) |
+| unfoldingWord wording (license gate) | ✅ clean | [uw_wording_acts_04.md](uw_wording_acts_04.md) |
 
 ## Ship criterion
 

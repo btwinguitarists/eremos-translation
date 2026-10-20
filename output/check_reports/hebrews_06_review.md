@@ -11,6 +11,7 @@
 | Claim consistency (hallucination) | ✅ clean | [claim_consistency_hebrews_06.md](claim_consistency_hebrews_06.md) |
 | Greek-field integrity | ✅ clean | [greek_field_integrity_hebrews_06.md](greek_field_integrity_hebrews_06.md) |
 | Phrase consistency (corpus-wide) | ✅ clean | [phrase_consistency.md](phrase_consistency.md) |
+| unfoldingWord wording (license gate) | ✅ clean | [uw_wording_hebrews_06.md](uw_wording_hebrews_06.md) |
 
 ## Ship criterion
 

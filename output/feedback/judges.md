@@ -2779,8 +2779,8 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/judges_01.json` | `cfb0b286242cc1040b23c1dc6465f4859a5650cc3635fdf0b7be5f7323a0335d` |
-| `output/translations/judges_02.json` | `b06acb87f1015fe863c25cc7c4a6bf0377c2ee2668327caa975314cc8192315f` |
+| `output/translations/judges_01.json` | `e11bc1767d581707148945d57385a903231a4b58ab4b56f51b33a50935e96a1b` |
+| `output/translations/judges_02.json` | `b1fa0a2e88a5632bd4f7689445168e5a9c283fd3b2974a51e8ccdff8889fc4ea` |
 | `output/translations/judges_03.json` | `bb254323f59daf709fb488f12a1b3a411518ea317b81b377e732638de3d03280` |
 | `output/translations/judges_04.json` | `a0ee4db9d058dbf1abee9b20b928d19cef2e8adc18386a5792eb2503a0a7c10f` |
 | `output/translations/judges_05.json` | `97c1b5b665b780a71849e63c18645124d6306a7737c9dd33722c22665a72aa5b` |

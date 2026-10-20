@@ -5,8 +5,11 @@
 | Hebrew-field integrity | ✅ clean | [hebrew_field_integrity_ruth_04.md](hebrew_field_integrity_ruth_04.md) |
 | Divine names (locked Tetragrammaton) | ✅ clean | [divine_names_ruth_04.md](divine_names_ruth_04.md) |
 | Versification anchor | ✅ clean | [versification_ruth_04.md](versification_ruth_04.md) |
+| Honorifics binding (Rachasap) | ✅ clean | [honorifics_binding_ruth_04.md](honorifics_binding_ruth_04.md) |
 | Back-translation | ✅ clean | [back_translation_ruth_04.md](back_translation_ruth_04.md) |
 | Thai-summary coverage (info) | ✅ clean | [summary_coverage_ruth_04.md](summary_coverage_ruth_04.md) |
+| Claim consistency (hallucination, advisory) | ✅ clean | [claim_consistency_ruth_04.md](claim_consistency_ruth_04.md) |
+| unfoldingWord wording (license gate) | ✅ clean | [uw_wording_ruth_04.md](uw_wording_ruth_04.md) |
 
 ## Ship criterion
 

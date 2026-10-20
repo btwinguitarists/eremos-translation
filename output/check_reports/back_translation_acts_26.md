@@ -11,7 +11,7 @@ Mode: in-chat (Claude-produced back-translations) | Threshold: 0.35
 ## ℹ Low similarity — rationale documented (intentional divergence)
 
 - **Acts 26:18** (sim=0.25)
-  - Thai: เพื่อเปิดตาของพวกเขา ให้พวกเขาหันกลับจากความมืดสู่ความสว่าง และจากอำนาจของซาตานมาสู่พระเจ้า เพื่อพวกเขาจะได้รับการยกโทษบาป และมรดกท่ามกลางบรรดาผู้ที่ทรงชำระให้บริสุทธิ์โดยความเชื่อในเรา›
+  - Thai: เพื่อเปิดตาของพวกเขา ให้พวกเขาหันกลับจากความมืดสู่ความสว่าง และจากอำนาจของซาตานมาสู่พระเจ้า เพื่อพวกเขาจะได้รับการยกโทษบาป และมรดกท่ามกลางบรรดาผู้ที่ทรงชำระให้บริสุทธิ์โดยความเชื่อในเรา’
   - Back: to open their eyes, that they may turn back from darkness to light, and from the authority of Satan to God, that they may receive forgiveness of sins, and an inheritance among those whom He royally sanctifies through faith in me.'
   - BSB:  to open their eyes, so that they may turn from darkness to light and from the power of Satan to God, that they may receive forgiveness of sins and an inheritance among those sanctified by faith in Me.’
 - **Acts 26:20** (sim=0.02)

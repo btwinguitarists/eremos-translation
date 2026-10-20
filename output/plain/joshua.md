@@ -1700,11 +1700,11 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | Chapter file | SHA-256 |
 |---|---|
 | `output/translations/joshua_01.json` | `f2b13e2f4a5b8078195f080e9290af85296c74994d04b7292df56515447a459f` |
-| `output/translations/joshua_02.json` | `22d80afe4edc7244210a65449d8dadb2b71ee70ee2f85ea54f1a0a0ea255bcbd` |
+| `output/translations/joshua_02.json` | `e3b9c17cd34b7da9c319d9c6fceb50fd11ec7afcb3d9af7fb2787bd3eecf9c74` |
 | `output/translations/joshua_03.json` | `53c47a22799cb5f8db97cdb88e477de512e4a79b06b75b8502d401201ffefd4a` |
 | `output/translations/joshua_04.json` | `000ed6f7d41f66551840c643a91351dcd4da4174ffbdaa1e44549b07941f25eb` |
 | `output/translations/joshua_05.json` | `228a866b71fa1eb3cc49890d7dbbe37151ebd35076719559e042ae0cc58b7bfe` |
-| `output/translations/joshua_06.json` | `eceb220cd2ab7d90610bd5777a710e18ccce0d5025f208cd80361f5d44d03556` |
+| `output/translations/joshua_06.json` | `cba3ec889769fab8e41ed16fadeab695aaae5422446864a681c023556b5b865d` |
 | `output/translations/joshua_07.json` | `6d5ab52adce27720a22b775a30ba33f80f05dcf61d93c86bdcbd38767451697f` |
 | `output/translations/joshua_08.json` | `6fc3c94869b76dff4564a7e5fc56ebe7bac082c956606ce80bee8376ef820e9c` |
 | `output/translations/joshua_09.json` | `f679e2c101fba60570889e3a25446f5035c6c300bfd42ba98657355db3bee19b` |
@@ -1716,7 +1716,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/joshua_15.json` | `eae455ec28646ca95bcb0bbe4ba879fbeae9c1aafb0c3b873767e5e3d74a9eec` |
 | `output/translations/joshua_16.json` | `dba351fbff6f6c24b6f55d71e99b5da8f39cd33f5d90b1b9e1d4e324bf54063d` |
 | `output/translations/joshua_17.json` | `ad8cc4c12480620b4dda8ac0dd18686f805d6e443c85e274bb41c1d97030913d` |
-| `output/translations/joshua_18.json` | `78f00a45963e07d8891175a6c7d18e3befbe619edef8d607aa15786cd85dad0f` |
+| `output/translations/joshua_18.json` | `4d7320f27b7e45ec7efca2d64d2cc15d6c62be2a4034b2292e1a66fa1037665d` |
 | `output/translations/joshua_19.json` | `6e06143d730ee56a66288e9180b2fb1625f53ccc793388914a651040d661c89f` |
 | `output/translations/joshua_20.json` | `bf1e26a1228dada25a9746ed808bbc49976466860f19f7b48b609f2e1618957d` |
 | `output/translations/joshua_21.json` | `33cd4429fb6223482dd3a49178f8cf7b55403ba8b43cbb9cecbe130f3607bf40` |

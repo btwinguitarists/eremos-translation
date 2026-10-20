@@ -9,6 +9,9 @@
 | Back-translation | ✅ clean | [back_translation_matthew_25.md](back_translation_matthew_25.md) |
 | Thai-summary coverage (info) | ✅ clean | [summary_coverage_matthew_25.md](summary_coverage_matthew_25.md) |
 | Claim consistency (hallucination) | ✅ clean | [claim_consistency_matthew_25.md](claim_consistency_matthew_25.md) |
+| Greek-field integrity | ✅ clean | [greek_field_integrity_matthew_25.md](greek_field_integrity_matthew_25.md) |
+| Phrase consistency (corpus-wide) | ✅ clean | [phrase_consistency.md](phrase_consistency.md) |
+| unfoldingWord wording (license gate) | ✅ clean | [uw_wording_matthew_25.md](uw_wording_matthew_25.md) |
 
 ## Ship criterion
 

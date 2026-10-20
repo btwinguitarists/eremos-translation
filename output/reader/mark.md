@@ -2038,18 +2038,18 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 |---|---|
 | `output/translations/mark_01.json` | `5c2a0d53635c1af6a17d841c07415e5ef9598e2007f3c3d797aba9f90b7e9141` |
 | `output/translations/mark_02.json` | `75e16e8a1bb616ba798f61950a8cc59e85de5f71ac2b444a2488eda3663e0a9e` |
-| `output/translations/mark_03.json` | `6e52db6cf05c089d6a361fc60267a1d6db14deee88133bc3550da074ec9c7a79` |
-| `output/translations/mark_04.json` | `c06a13d9c066b46115f1d0dc0f570763a4c08e02f12b61a96e87c96f2c142039` |
-| `output/translations/mark_05.json` | `38804b64c74a479adcb59a639c2339dd819cad35109813e4d591fb469d705996` |
-| `output/translations/mark_06.json` | `4660f887af53997f38a7cbae6e3ab1427d2be7d6248e700923e44848e22bb814` |
-| `output/translations/mark_07.json` | `c474996c6a397755f163c54299b88ba3a6af220dd556ca95f4bf2f3c7f2d0533` |
-| `output/translations/mark_08.json` | `dd0fb95b5abacaea74d83ba1c5b87db94906a29aef0184a6b44cee596b0776e0` |
-| `output/translations/mark_09.json` | `ddb34113ca6a1fe9b43b9a1760a33ce7d134fdc33764887a86337e7152bd4d1e` |
+| `output/translations/mark_03.json` | `b2a80434b5ce9f851023ebef90a5d6412b052666e1f0835e4c963cb8a595137c` |
+| `output/translations/mark_04.json` | `178b72481218e9b37ab6784397dbe7de7c6e1c547e3a2c904e22a62a5361096e` |
+| `output/translations/mark_05.json` | `d84ab9be5249a84c7b59b61b7adae3bacf90ac8bb4c581c86e5595ac0ffe3f4e` |
+| `output/translations/mark_06.json` | `838251c40aec91f61ce999809ef21348a9b3d8e1ef79124a61b86364353934d9` |
+| `output/translations/mark_07.json` | `916567451b0a79824a48c02e9bb6e14928636b945445627dad0f28d2dd54310e` |
+| `output/translations/mark_08.json` | `ce17a7620af506c0b1b84d89ae78855bd9686573fd1db3d708fa23f5e54571e6` |
+| `output/translations/mark_09.json` | `0913a48ebb16167ba0c648c1b628228fa2ba6b2f95064885b6d81dfb8fb1bd58` |
 | `output/translations/mark_10.json` | `adb7e41472bfa4688aec54550cce3cd0978592f6bfa0164cbbead6d28e307821` |
-| `output/translations/mark_11.json` | `0107472d06329c0f86fb38709a0ee7008af84b96b375eaaa5b9786a07d977105` |
-| `output/translations/mark_12.json` | `ada70c6426f2a84bdb5ea4fcc82be9b57f46584d2160b4d9571334442f7659ac` |
+| `output/translations/mark_11.json` | `2e998c5b7a43dc6e3b120b64113b6483f092539e8b2726c5ea349bc153aa27e3` |
+| `output/translations/mark_12.json` | `7cdd9d5e3e1ca5e9bfd3f3e4868236f32dedffa5905e48a4897fc1e80df14c80` |
 | `output/translations/mark_13.json` | `d122dcedff72858a79ce485a4608475196201f37b151560a2e02d814aaf8144f` |
-| `output/translations/mark_14.json` | `8fec3aa5c4cf4e643b393f71bbb5c01b5598d18589783fc072fcae13aa4a6253` |
+| `output/translations/mark_14.json` | `e027e69b5978dee1f890cf6d79314fbaa0707ae8fe4c748b154aada4ef0826ca` |
 | `output/translations/mark_15.json` | `1bcb920cafcbfbc37709a87338602927af710df74dbd50668d6fa98ef89f856a` |
 | `output/translations/mark_16.json` | `b1b84b88fe63ad2f83dde5f19e3e91f353ce4a2f266f8528e124a32abd6a70af` |
 
