@@ -114,6 +114,18 @@ no other translation's wording can enter the draft. Post-draft, the TNBT
 (`check_against_tnbt.py`) — sentence-count and length signals, with vocabulary
 divergence expected and unremarkable.
 
+**Convergence, stated plainly (audit of 2026-10-19):** a local, audit-only
+comparison against an existing copyrighted Thai translation found 7 New
+Testament verses and 108 Old Testament verses whose Eremos wording is identical
+to it, out of 31,086. The seven are John 1:1, John 4:4, John 11:35, Matthew
+14:32, Hebrews 3:7, 1 Thessalonians 5:25 and Revelation 22:13; the Old
+Testament matches are mostly genealogy and formula lines. The drafting model
+never read that translation (the isolation rule above), so these are short or
+formulaic verses on which competent Thai renderings converge, not copying. They
+are named here so that no reader has to discover them first; John 1:1 in
+particular should not be offered as evidence of independent wording. The
+reference text itself is not in the repository and is never published.
+
 **License hygiene worth naming:** the Septuagint has no clean public-domain
 digital encoding, so the project deliberately operates without an LXX text
 source in the repo — LXX comparison flows through MACULA Hebrew's inline
