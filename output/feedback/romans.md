@@ -210,7 +210,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**13** เพราะไม่ใช่ผู้ฟังธรรมบัญญัติที่ชอบธรรมต่อพระพักตร์พระเจ้า แต่เป็นผู้ประพฤติตามธรรมบัญญัติที่จะทรงถูกประกาศว่าชอบธรรม
+**13** เพราะไม่ใช่ผู้ฟังธรรมบัญญัติที่ชอบธรรมต่อพระพักตร์พระเจ้า แต่เป็นผู้ประพฤติตามธรรมบัญญัติที่จะถูกประกาศว่าชอบธรรม
 
 > ___
 
@@ -358,7 +358,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**20** ดังนั้น ไม่มีเนื้อหนังใดจะทรงถูกประกาศว่าชอบธรรมต่อพระพักตร์ของพระองค์ได้ด้วยการประพฤติตามธรรมบัญญัติ เพราะโดยธรรมบัญญัตินั้น ความรู้แห่งบาปจึงเกิดขึ้น
+**20** ดังนั้น ไม่มีเนื้อหนังใดจะถูกประกาศว่าชอบธรรมต่อพระพักตร์ของพระองค์ได้ด้วยการประพฤติตามธรรมบัญญัติ เพราะโดยธรรมบัญญัตินั้น ความรู้แห่งบาปจึงเกิดขึ้น
 
 > ___
 
@@ -374,7 +374,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**24** และทรงถูกประกาศว่าชอบธรรมโดยเปล่าเปลือง โดยพระคุณของพระองค์ ผ่านการไถ่ที่มีในพระเยซูคริสต์
+**24** และถูกประกาศว่าชอบธรรมโดยเปล่าเปลือง โดยพระคุณของพระองค์ ผ่านการไถ่ที่มีในพระเยซูคริสต์
 
 > ___
 
@@ -390,7 +390,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**28** เพราะเรานับว่ามนุษย์ทรงถูกประกาศว่าชอบธรรมโดยความเชื่อ — โดยปราศจากการประพฤติตามธรรมบัญญัติ
+**28** เพราะเรานับว่ามนุษย์ถูกประกาศว่าชอบธรรมโดยความเชื่อ — โดยปราศจากการประพฤติตามธรรมบัญญัติ
 
 > ___
 
@@ -414,7 +414,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**2** เพราะถ้าอับราฮัมทรงถูกประกาศว่าชอบธรรมโดยการประพฤติ ท่านก็มีเรื่องที่จะอวด แต่ไม่ใช่ต่อพระพักตร์พระเจ้า
+**2** เพราะถ้าอับราฮัมถูกประกาศว่าชอบธรรมโดยการประพฤติ ท่านก็มีเรื่องที่จะอวด แต่ไม่ใช่ต่อพระพักตร์พระเจ้า
 
 > ___
 
@@ -514,7 +514,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 ## บทที่ 5
 
-**1** ฉะนั้น เมื่อเราทรงถูกประกาศว่าชอบธรรมโดยความเชื่อแล้ว เราจึงมีสันติสุขกับพระเจ้า ผ่านพระเยซูคริสต์องค์พระผู้เป็นเจ้าของเรา
+**1** ฉะนั้น เมื่อเราถูกประกาศว่าชอบธรรมโดยความเชื่อแล้ว เราจึงมีสันติสุขกับพระเจ้า ผ่านพระเยซูคริสต์องค์พระผู้เป็นเจ้าของเรา
 
 > ___
 
@@ -546,7 +546,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**9** ฉะนั้น เมื่อบัดนี้เราทรงถูกประกาศว่าชอบธรรมโดยพระโลหิตของพระองค์แล้ว ยิ่งกว่านั้นมากเพียงใด เราจะรอดพ้นจากพระพิโรธโดยทางพระองค์
+**9** ฉะนั้น เมื่อบัดนี้เราถูกประกาศว่าชอบธรรมโดยพระโลหิตของพระองค์แล้ว ยิ่งกว่านั้นมากเพียงใด เราจะรอดพ้นจากพระพิโรธโดยทางพระองค์
 
 > ___
 
@@ -1831,10 +1831,10 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | Chapter file | SHA-256 |
 |---|---|
 | `output/translations/romans_01.json` | `c87b2112628b417478cc0beebb101b81b21b70b76106579044da66b1f0181824` |
-| `output/translations/romans_02.json` | `4ec4dd1ef3bb937bafa98814d4cfdce17ae2893df78ed929fe1c34b417ab1c6b` |
-| `output/translations/romans_03.json` | `3cbeb462aaafff23699512106848decc0b739d9e5161b8486760d90743fba099` |
-| `output/translations/romans_04.json` | `345492c521e6d9aa21f305dbaf0227773f9addcd8e77edfe195e624ce7f4dd9a` |
-| `output/translations/romans_05.json` | `79b0261fd550e0b7c9b9a96803caa39092e3a9ac888ba089c22687bc462bd52c` |
+| `output/translations/romans_02.json` | `4fe0ca5a671850b2506476d945ca603daa20dd5b460442a7e513b7758c3a5b27` |
+| `output/translations/romans_03.json` | `bd6086004ff7b68b855a8b74f5666e3550144cee2dd06e73bb420bbbba846b7c` |
+| `output/translations/romans_04.json` | `693fe7f9ad14218a1cb21365defa980c21f1665152fd6cf9bfb9c4a4599e1fd8` |
+| `output/translations/romans_05.json` | `5b6957b5f2a8d9260a25af8b6b887d24d323477fb0cac83aa25a15a921f8e728` |
 | `output/translations/romans_06.json` | `53733aa5bad47a955adac82a8a4026db557cefa449da09a6f0a934b8738e19c6` |
 | `output/translations/romans_07.json` | `4c533c6be14eaae275ab4cf7fa92696e2a66368c843bab2db215a5d0fd20e5b6` |
 | `output/translations/romans_08.json` | `0cafbee346d3675d70269f8f0f6be86e8ae986033b65387435787ec3a823b325` |
