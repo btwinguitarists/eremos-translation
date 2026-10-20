@@ -3843,7 +3843,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/genesis_01.json` | `25070e17296fd62c9e2bb20c6795b36d8e05743d1831bfbfa844f48351a82d59` |
+| `output/translations/genesis_01.json` | `26ee8d6cdfd8fe2a21d8adb63fc8be6ef9fd6011597daee143b8cc46a041f239` |
 | `output/translations/genesis_02.json` | `e90caf942bf03505fa23feeb9bd6b0baf24bf45e6685d039244fd2ea4c580362` |
 | `output/translations/genesis_03.json` | `d23986e6a6b1edd72d2034a37b388b96ac5d70928f6456caffc2bc06f9af83aa` |
 | `output/translations/genesis_04.json` | `5d3cc735bd6eb466e408c345cc9b84869da70f4f2ab84dddfe7fc57fb88edb46` |
