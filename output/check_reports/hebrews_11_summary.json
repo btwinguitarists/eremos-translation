@@ -64,6 +64,20 @@
       "report": "phrase_consistency.md",
       "notes": "",
       "status": "clean"
+    },
+    {
+      "name": "unfoldingWord wording (license gate)",
+      "exit_code": 0,
+      "report": "uw_wording_hebrews_11.md",
+      "notes": "",
+      "status": "clean"
+    },
+    {
+      "name": "NT honorifics (royal register)",
+      "exit_code": 0,
+      "report": "nt_honorifics_hebrews_11.md",
+      "notes": "",
+      "status": "clean"
     }
   ]
 }
