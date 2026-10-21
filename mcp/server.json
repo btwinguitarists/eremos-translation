@@ -1,0 +1,19 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.eremosapp/bible",
+  "title": "Eremos Thai Bible",
+  "description": "Quote the Eremos Translation (Thai Bible, CC0) word for word: passages, search, decision notes.",
+  "repository": {
+    "url": "https://github.com/btwinguitarists/eremos-translation",
+    "source": "github",
+    "subfolder": "mcp"
+  },
+  "websiteUrl": "https://bible.eremosapp.com",
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.eremosapp.com/mcp"
+    }
+  ]
+}
