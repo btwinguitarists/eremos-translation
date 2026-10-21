@@ -911,6 +911,8 @@ def main() -> None:
     DIST.mkdir(parents=True)
     (DIST / "style.css").write_text(CSS, encoding="utf-8")
     (DIST / "present.js").write_text(PRESENT_JS, encoding="utf-8")
+    # Google Search Console ownership file for https://bible.eremosapp.com/ (keep it: removing it unverifies the site)
+    (DIST / "google22d9d44b57b35865.html").write_text("google-site-verification: google22d9d44b57b35865.html", encoding="utf-8")
 
     books = [parse_book(slug, en) for slug, en in CANON]
     # Every public page, in the order it is written, for sitemap.xml.
