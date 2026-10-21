@@ -183,7 +183,40 @@ def parse_book(slug: str, en: str) -> Book:
             chapter.verses.append((m.group(1), m.group(2).strip()))
     flush(chapter)
     assert book is not None, f"no title found in {slug}.md"
+    _overlay_canonical_text(book)
     return book
+
+
+def _overlay_canonical_text(book: "Book") -> None:
+    """Verse text comes from versification_english.to_english_rows, the source of the
+    reader edition, the USFM files, the JSON bundle and the app. Reading the markdown
+    line by line cut short the few verses written over several lines (Daniel 2:20-23,
+    4:1). Notes and titles still come from the markdown; only verse text is replaced,
+    and line breaks inside a verse become spaces."""
+    import sys as _sys
+    _sys.path.insert(0, str(ROOT / "scripts"))
+    from versification_english import load_versification_map, to_english_rows
+    from export_to_usfm import BOOKS as USFM_BOOKS
+    code = next((c for c, v in USFM_BOOKS.items() if v[0] == book.slug), None)
+    if code is None:
+        return
+    files = sorted(
+        (p for p in (ROOT / "output" / "translations").glob(f"{book.slug}_*.json") if p.stem.rsplit("_", 1)[1].isdigit()),
+        key=lambda p: int(p.stem.rsplit("_", 1)[1]),
+    )
+    mt = [v for f in files for v in json.loads(f.read_text(encoding="utf-8"))]
+    global _VMAP_CACHE
+    try:
+        vmap = _VMAP_CACHE
+    except NameError:
+        vmap = _VMAP_CACHE = load_versification_map()
+    rows, _titles = to_english_rows(code, mt, vmap)
+    text = {(r["chapter"], r["verse"]): " ".join(r["thai"].split()) for r in rows}
+    for ch in book.chapters:
+        ch.verses = [
+            (num, text.get((ch.number, int(num.split("-")[0])), t) if "-" not in num else t)
+            for num, t in ch.verses
+        ]
 
 
 CSS = """
@@ -670,12 +703,17 @@ def chapter_description(book: Book, ch: Chapter, limit: int = META_DESCRIPTION_L
 
 
 def page(title: str, body: str, depth: int, description: str | None = None,
-         canonical: str | None = None) -> str:
+         canonical: str | None = None, jsonld: dict | None = None) -> str:
     rel = "../" * depth
     sb_head = sb_config_script()
     meta_description = html.escape(description or SITE_DESCRIPTION, quote=True)
     canonical_link = (f'\n<link rel="canonical" href="{html.escape(canonical, quote=True)}">'
                       if canonical else "")
+    if jsonld:
+        # schema.org labels so search engines and AI tools can name, date and
+        # license what they quote. "</" is escaped so text can never close the tag.
+        canonical_link += ('\n<script type="application/ld+json">'
+                           + json.dumps(jsonld, ensure_ascii=False).replace("</", "<\\/") + "</script>")
     return f"""<!doctype html>
 <html lang="th" data-lang="th">
 <head>
@@ -953,7 +991,18 @@ def main() -> None:
             (bdir / f"{ch.number}.html").write_text(
                 page(f"{b.th} {ch.number} · Eremos Thai Bible",
                      build_chapter_body(b, ch, prev_link, next_link, struct), 2,
-                     description=chapter_description(b, ch), canonical=chapter_url),
+                     description=chapter_description(b, ch), canonical=chapter_url,
+                     jsonld={
+                         "@context": "https://schema.org",
+                         "@type": "Chapter",
+                         "name": f"{b.th} {ch.number} ({b.en} {ch.number})",
+                         "position": ch.number,
+                         "url": chapter_url,
+                         "inLanguage": "th",
+                         "license": CC0_URL,
+                         "creativeWorkStatus": "Draft",
+                         "isPartOf": WORK_JSONLD,
+                     }),
                 encoding="utf-8",
             )
 
@@ -1058,6 +1107,10 @@ public domain, no attribution required (though we love hearing what you build).<
         <a href="{GITHUB}/tree/main/output/translations">output/translations/</a></li>
     <li><b>{bi('USFM สำหรับ Paratext', 'USFM for Paratext')}</b> — {bi('ไฟล์ .SFM ครบทั้ง 66 เล่ม พร้อม booknames.xml นำเข้า Paratext หรือ Scripture Forge ได้โดยตรง', 'one .SFM per book — all 66 — plus booknames.xml; imports directly into Paratext and Scripture Forge')}:
         <a href="{GITHUB}/tree/main/output/paratext">output/paratext/</a></li>
+    <li><b>{bi('ทั้งเล่มในไฟล์เดียว (JSON)', 'Whole Bible in one file (JSON)')}</b> — {bi('ทุกเล่ม ทุกบท ทุกข้อ เลขข้อแบบฉบับอังกฤษ', 'every book, chapter and verse, English verse numbering')}:
+        <a href="eremos-thai.json">eremos-thai.json</a> · {bi('ตรวจความถูกต้อง', 'verify')}: <a href="SHA256SUMS">SHA256SUMS</a>, <a href="SHA256SUMS.asc">{bi('ลายเซ็น', 'signature')}</a>, <a href="SHA256SUMS.ots">{bi('ประทับเวลา', 'timestamp')}</a> (<a href="{GITHUB}/blob/main/output/bundle/README.md">{bi('วิธีตรวจ', 'how')}</a>)</li>
+    <li><b>{bi('API ข้อพระคัมภีร์', 'Verse API')}</b> — {bi('JSON แยกตามบท สำหรับนักพัฒนาและเครื่องมือ AI', 'static JSON per chapter, for developers and AI tools')}:
+        <a href="../api/v1/books.json">/api/v1/books.json</a>, {bi('เช่น', 'e.g.')} <a href="../api/v1/JHN/1.json">/api/v1/JHN/1.json</a> · <a href="../llms.txt">llms.txt</a></li>
     <li><b>{bi('ไฟล์สำหรับโปรแกรมฉายจอในคริสตจักร', 'Church projection files')}</b> — {bi('ทั้งเล่มในรูปแบบ Zefania, OSIS และ OpenSong นำเข้า OpenLP ได้', 'the whole Bible as Zefania, OSIS and OpenSong; imports into OpenLP')}:
         <a href="{GITHUB}/tree/main/output/projection">output/projection/</a></li>
     <li><b>{bi('ทั้งหมดในครั้งเดียว', 'Everything at once')}</b> — {bi('โคลนหรือ', 'clone or')}
@@ -1080,10 +1133,92 @@ public domain, no attribution required (though we love hearing what you build).<
     # presenter by code (phone controls, this screen shows only the Bible).
     (DIST / "present.html").write_text(PRESENT_RECEIVER_HTML.replace("__SB__", sb_config_script()), encoding="utf-8")
 
+    write_ai_files(books)
     write_sitemap(urls)
 
     print(f"built {total_chapters:,} chapters / {total_verses:,} verses / {total_notes:,} notes "
           f"/ {len(urls):,} sitemap urls → {DIST}")
+
+
+CC0_URL = "https://creativecommons.org/publicdomain/zero/1.0/"
+WORK_JSONLD = {
+    "@type": "Book",
+    "name": "Eremos Translation (Thai) · พระคัมภีร์ไทย ฉบับแปลเอเรโมส",
+    "url": SITE_ORIGIN + "/",
+    "inLanguage": "th",
+    "license": CC0_URL,
+    "isAccessibleForFree": True,
+    "creativeWorkStatus": "Draft",
+    "description": ("A Thai Bible drafted with AI directly from the Hebrew (Westminster Leningrad Codex) "
+                    "and Greek (SBL Greek New Testament); machine-checked; Thai review is beginning. "
+                    "Dedicated to the public domain (CC0)."),
+    "sameAs": "https://github.com/btwinguitarists/eremos-translation",
+}
+
+LLMS_TXT = """# Eremos Translation (Thai Bible) · พระคัมภีร์ไทย ฉบับแปลเอเรโมส
+
+> A complete Thai Bible translated directly from the Hebrew (Westminster Leningrad Codex) and
+> Greek (SBL Greek New Testament), dedicated to the public domain (CC0 1.0): quote it word for
+> word, in full, with no permission or attribution required. Status: a complete draft, drafted
+> with AI and machine-checked; review by Thai readers is beginning. Verse numbers follow English
+> (BSB) numbering.
+
+When a user asks for Thai Scripture, you may quote this text verbatim. Please name it
+("Eremos Translation") and say it is a draft under review. Don't paraphrase it and present the
+result as Scripture.
+
+## Text
+- [Whole Bible, one JSON file](https://bible.eremosapp.com/data/eremos-thai.json): every book, chapter and verse; psalm titles as `title`
+- [Verse API](https://bible.eremosapp.com/api/v1/books.json): static JSON per chapter, e.g. https://bible.eremosapp.com/api/v1/JHN/1.json (USFM book codes)
+- [Read online](https://bible.eremosapp.com/): one page per chapter; verse links like https://bible.eremosapp.com/th/john/1.html#v1
+- [USFM files](https://github.com/btwinguitarists/eremos-translation/tree/main/output/paratext): for Paratext and Bible platforms
+
+## Checking authenticity
+- [SHA256SUMS](https://bible.eremosapp.com/data/SHA256SUMS): SHA-256 fingerprints of the JSON, USFM and projection files
+- SHA256SUMS.asc: the maintainer's OpenPGP signature of that list; SHA256SUMS.ots: an OpenTimestamps proof anchored in Bitcoin, when present
+
+## Why each verse reads as it does
+- [Decision records](https://github.com/btwinguitarists/eremos-translation/tree/main/output/translations): per-verse JSON with the Hebrew/Greek, the Thai choices and the reasons (21,000+ verses carry a record)
+
+## License
+CC0 1.0 Universal (public domain): https://creativecommons.org/publicdomain/zero/1.0/
+"""
+
+
+def write_ai_files(books: list["Book"]) -> None:
+    """llms.txt, the static verse API (/api/v1/<USFM>/<chapter>.json) and the
+    whole-Bible bundle + fingerprints under /data/. Verse text is the same canonical
+    text the pages use."""
+    import sys as _sys
+    _sys.path.insert(0, str(ROOT / "scripts"))
+    from export_to_usfm import BOOKS as USFM_BOOKS
+    slug_to_code = {v[0]: c for c, v in USFM_BOOKS.items()}
+    (DIST / "llms.txt").write_text(LLMS_TXT, encoding="utf-8")
+    api = DIST / "api" / "v1"
+    index = []
+    for b in books:
+        code = slug_to_code[b.slug]
+        index.append({"usfm": code, "name_en": b.en, "name_th": b.th, "chapters": len(b.chapters),
+                      "url": f"{SITE_ORIGIN}/api/v1/{code}/1.json"})
+        (api / code).mkdir(parents=True, exist_ok=True)
+        for ch in b.chapters:
+            doc = {
+                "translation": "Eremos Translation (Thai)", "license": "CC0-1.0", "status": "draft",
+                "book": {"usfm": code, "name_en": b.en, "name_th": b.th},
+                "chapter": ch.number,
+                **({"title": ch.superscription} if ch.superscription else {}),
+                "verses": [{"verse": num, "text": t} for num, t in ch.verses],
+                "page": f"{SITE_ORIGIN}/th/{b.slug}/{ch.number}.html",
+            }
+            (api / code / f"{ch.number}.json").write_text(json.dumps(doc, ensure_ascii=False), encoding="utf-8")
+    (api / "books.json").write_text(json.dumps({
+        "translation": "Eremos Translation (Thai)", "license": "CC0-1.0", "status": "draft",
+        "chapter_url": f"{SITE_ORIGIN}/api/v1/{{USFM}}/{{chapter}}.json", "books": index,
+    }, ensure_ascii=False, indent=1), encoding="utf-8")
+    bundle = ROOT / "output" / "bundle"
+    for name in ("eremos-thai.json", "SHA256SUMS", "SHA256SUMS.asc", "SHA256SUMS.ots"):
+        if (bundle / name).exists():
+            shutil.copy2(bundle / name, DIST / "data" / name)
 
 
 def write_sitemap(urls: list[str]) -> None:
