@@ -1173,6 +1173,9 @@ result as Scripture.
 - [Read online](https://bible.eremosapp.com/): one page per chapter; verse links like https://bible.eremosapp.com/th/john/1.html#v1
 - [USFM files](https://github.com/btwinguitarists/eremos-translation/tree/main/output/paratext): for Paratext and Bible platforms
 
+## For AI assistants
+- MCP server (Streamable HTTP, no sign-in): https://mcp.eremosapp.com/mcp with tools get_passage, search_text, get_translation_notes, list_books
+
 ## Checking authenticity
 - [SHA256SUMS](https://bible.eremosapp.com/data/SHA256SUMS): SHA-256 fingerprints of the JSON, USFM and projection files
 - SHA256SUMS.asc: the maintainer's OpenPGP signature of that list; SHA256SUMS.ots: an OpenTimestamps proof anchored in Bitcoin, when present
