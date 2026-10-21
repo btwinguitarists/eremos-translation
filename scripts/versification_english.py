@@ -142,8 +142,12 @@ def to_english_rows(code, mt_verses, vmap, code_order_rank=0):
 
         if eng_vs == "title":
             # Not a numbered verse under English numbering — keep the text aside
-            # for unnumbered display, do not stage a row.
-            superscriptions[eng_ch] = t.get("thai", "").strip()
+            # for unnumbered display, do not stage a row. Psalms 51, 52, 54 and 60
+            # carry a two-verse title in the MT; join the halves instead of keeping
+            # only the last one.
+            text = t.get("thai", "").strip()
+            prev = superscriptions.get(eng_ch)
+            superscriptions[eng_ch] = f"{prev} {text}" if prev and text else (prev or text)
             continue
 
         split = None
