@@ -2,8 +2,9 @@
 """
 Export the Eremos Translation as Bible files for church projection software.
 
-Reads the verses-only edition (output/plain/<slug>.md, English/BSB verse
-numbering: the numbering a congregation and a presenter expect) and writes
+Reads the translation through versification_english.to_english_rows (English/BSB
+verse numbering: the numbering a congregation and a presenter expect, and the same
+rows as the site, USFM and JSON bundle) and writes
 three whole-Bible files into output/projection/:
 
   eremos-thai.zefania.xml   Zefania XML   (OpenLP and many other projection apps)
@@ -20,7 +21,7 @@ Stdlib only. Run after any change to output/plain/:
 """
 from __future__ import annotations
 
-import re
+import json
 import sys
 from datetime import date
 from pathlib import Path
@@ -62,32 +63,30 @@ TITLE = "พระคัมภีร์ไทย ฉบับแปลเอเ�
 NOTE = ("Thai Bible drafted from the Hebrew (WLC) and Greek (SBLGNT). A draft: machine-checked, "
         "Thai review beginning. Dedicated to the public domain (CC0 1.0). bible.eremosapp.com")
 
-CHAPTER_RE = re.compile(r"^## บทที่ (\d+)\s*$")
-VERSE_RE = re.compile(r"^\*\*(\d+)\*\*\s+(.*\S)\s*$")
-SUPER_RE = re.compile(r"^_(.+)_\s*$")
+sys.path.insert(0, str(ROOT / "scripts"))
+from versification_english import load_versification_map, to_english_rows  # noqa: E402
+from export_to_usfm import BOOKS as USFM_BOOKS  # noqa: E402
+_VMAP = load_versification_map()
+_SLUG_TO_CODE = {v[0]: code for code, v in USFM_BOOKS.items()}
+TRANSLATIONS = ROOT / "output" / "translations"
 
 
 def parse(slug: str):
-    """Thai book title and [(chapter, superscription or None, [(verse, text)])]."""
-    lines = (PLAIN / f"{slug}.md").read_text(encoding="utf-8").splitlines()
-    title = lines[0][2:].strip()
-    chapters, cur = [], None
-    for line in lines:
-        m = CHAPTER_RE.match(line)
-        if m:
-            cur = [int(m.group(1)), None, []]
-            chapters.append(cur)
-            continue
-        if cur is None:
-            continue
-        m = VERSE_RE.match(line)
-        if m:
-            cur[2].append((int(m.group(1)), m.group(2)))
-            continue
-        m = SUPER_RE.match(line)
-        if m and not cur[2]:
-            cur[1] = m.group(1).strip()
-    return title, chapters
+    """Thai book title and [(chapter, superscription or None, [(verse, text)])], in
+    English numbering, from the same function as the reader edition, the site, the
+    USFM files and the JSON bundle. (Reading output/plain/ line by line cut short the
+    few verses written over several lines, Daniel 2:20-23 and 4:1.)"""
+    code = _SLUG_TO_CODE[slug]
+    files = sorted(
+        (p for p in TRANSLATIONS.glob(f"{slug}_*.json") if p.stem.rsplit("_", 1)[1].isdigit()),
+        key=lambda p: int(p.stem.rsplit("_", 1)[1]),
+    )
+    mt = [v for f in files for v in json.loads(f.read_text(encoding="utf-8"))]
+    rows, titles = to_english_rows(code, mt, _VMAP)
+    chapters: dict[int, list] = {}
+    for r in rows:
+        chapters.setdefault(r["chapter"], []).append((r["verse"], r["thai"]))
+    return USFM_BOOKS[code][1], [(c, titles.get(c) or None, chapters[c]) for c in sorted(chapters)]
 
 
 def main() -> int:
