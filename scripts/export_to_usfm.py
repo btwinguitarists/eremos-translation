@@ -8,6 +8,8 @@ into per-book .SFM files that Paratext can import directly.
 
 What's exported:
   - Main Thai translation text (one `\\v N` per verse)
+  - English (BSB) verse numbering, the same as bible.eremosapp.com and the app
+    (psalm titles as unnumbered `\\d`), via versification_english.to_english_rows
   - Paragraph markers at chapter boundaries (minimal — no internal paragraphing
     because our JSON schema doesn't encode paragraph breaks)
   - Thai book metadata (title, running header, TOC entries)
@@ -50,6 +52,9 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 TRANSLATIONS = ROOT / "output" / "translations"
+sys.path.insert(0, str(ROOT / "scripts"))
+from versification_english import load_versification_map, to_english_rows  # noqa: E402
+_VMAP = load_versification_map()
 TEXTUAL_VARIANTS = ROOT / "output" / "textual_variants"
 DEFAULT_OUTPUT = ROOT / "output" / "paratext"
 
@@ -144,21 +149,25 @@ def emit_header(code: str) -> list[str]:
     ]
 
 
-def emit_chapter(code: str, chapter: int, slug: str) -> list[str]:
-    """Emit USFM for a single chapter: \\c marker, verses, textual-variant footer."""
-    path = TRANSLATIONS / f"{slug}_{chapter:02d}.json"
-    if not path.exists():
-        return []  # chapter not yet translated — silently skip
+def emit_chapter(code: str, chapter: int, slug: str, rows: list[dict], superscription: str | None) -> list[str]:
+    """Emit USFM for one chapter in English (BSB) numbering: \\c, an unnumbered
+    psalm title as \\d, the verses, and the textual-variant footer. Rows come from
+    versification_english.to_english_rows, the same function the reader edition and
+    bible.eremosapp.com use, so verse numbers match the site and the app."""
+    lines = [f"\\c {chapter}"]
+    if superscription:
+        lines.append(f"\\d {superscription}")
+    lines.append("\\p")
+    for r in rows:
+        lines.append(f"\\v {r['verse']} {r['thai']}")
+    lines.extend(emit_variants(slug, chapter))
+    lines.append("")
+    return lines
 
-    verses = json.loads(path.read_text(encoding="utf-8"))
 
-    lines = [f"\\c {chapter}", "\\p"]
-    for v in verses:
-        verse_num = v["verse"]
-        thai = (v.get("translation", {}) or {}).get("thai", "") or ""
-        # USFM verse marker: single-line per verse. Thai text is copied verbatim.
-        lines.append(f"\\v {verse_num} {thai}")
-
+def emit_variants(slug: str, chapter: int) -> list[str]:
+    """Tier 2 textual-variant notes for a chapter (as \\rem lines)."""
+    lines: list[str] = []
     # Tier 2 textual-variant chapter-footer notes. Two sub-types:
     #   - inclusion_variant_absent (whole-verse omission)
     #   - reading_variant (word-substitution, e.g. 1 Tim 3:16 Ὃς vs Θεός)
@@ -199,7 +208,6 @@ def emit_chapter(code: str, chapter: int, slug: str) -> list[str]:
                         f"— {expl}"
                     )
 
-    lines.append("")
     return lines
 
 
@@ -236,9 +244,17 @@ def export_book(code: str, output_dir: Path) -> Path | None:
     if not chapter_numbers:
         return None  # nothing translated for this book yet
 
-    lines = emit_header(code)
+    mt_verses: list[dict] = []
     for chapter in chapter_numbers:
-        lines.extend(emit_chapter(code, chapter, slug))
+        mt_verses.extend(json.loads((TRANSLATIONS / f"{slug}_{chapter:02d}.json").read_text(encoding="utf-8")))
+    rows, superscriptions = to_english_rows(code, mt_verses, _VMAP)
+    by_chapter: dict[int, list[dict]] = {}
+    for r in rows:
+        by_chapter.setdefault(r["chapter"], []).append(r)
+
+    lines = emit_header(code)
+    for chapter in sorted(by_chapter):
+        lines.extend(emit_chapter(code, chapter, slug, by_chapter[chapter], superscriptions.get(chapter)))
 
     output_dir.mkdir(parents=True, exist_ok=True)
     out_path = output_dir / f"{code}.SFM"

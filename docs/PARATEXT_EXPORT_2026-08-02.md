@@ -58,3 +58,11 @@ fields (1 Chr 5:27–41, Num 17, 1 Sam 21/24). Neither export reads those
 fields, but backfilling them would make the mapping machine-checkable
 end-to-end. Per `reference_versification_map`: hand-patch only — never
 full-regen the versification map.
+
+## Update 2026-10-21: USFM now uses English numbering
+
+The USFM export now uses English (BSB) verse numbering, the same as the reader edition,
+bible.eremosapp.com and the app: 31,086 verses, with the 63 psalm titles as unnumbered `\d`
+lines instead of numbered verses. It is built with `versification_english.to_english_rows`,
+the same function the reader edition uses, and was checked verse by verse against
+`output/plain/` (0 differences). The source JSON keeps MT numbering, as before.
