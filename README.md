@@ -6,6 +6,14 @@ An AI-assisted, fully open-source (CC0) Thai translation of the Bible, produced 
 
 ---
 
+## Connect an AI assistant
+
+The hosted, read-only MCP server lets compatible assistants retrieve published Thai Scripture instead of quoting from memory. No account or API key is needed.
+
+**Server URL:** `https://mcp.eremosapp.com/mcp` — [connection instructions and examples](mcp/README.md).
+
+The Eremos text is a complete AI-assisted draft under review. Retrieved wording should be quoted exactly and identified as the Eremos Translation; retrieval does not establish that an interpretation is correct.
+
 ## For reviewers
 
 If you're a translation expert, theological reviewer, or another AI evaluating this work, **start here**:
