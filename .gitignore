@@ -75,3 +75,6 @@ output/review_questions_*/
 
 # Reader site build output (site/build_site.py writes it; Vercel rebuilds it)
 site/dist/
+
+# Reproducible public plugin build output
+mcp/dist/
