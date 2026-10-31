@@ -729,7 +729,7 @@ def page(title: str, body: str, depth: int, description: str | None = None,
 <main>
 <div class="top">
   <a class="brand" href="{rel}index.html">เอเรโมส · Eremos Thai Bible</a>
-  <nav><a href="{rel}index.html#books">{bi('หนังสือ', 'Books')}</a> <a href="{rel}data/index.html">{bi('ข้อมูล', 'Data')}</a> <a href="{GIVE_URL}">{bi('ร่วมสมทบ', 'Give')}</a> {LANG_TOGGLE}</nav>
+  <nav><a href="{rel}ai/">{bi("ใช้กับ AI", "Use with AI")}</a> <a href="{rel}index.html#books">{bi('หนังสือ', 'Books')}</a> <a href="{rel}data/index.html">{bi('ข้อมูล', 'Data')}</a> <a href="{GIVE_URL}">{bi('ร่วมสมทบ', 'Give')}</a> {LANG_TOGGLE}</nav>
 </div>
 {body}
 <footer>
@@ -1048,6 +1048,7 @@ pastors, translators, and everyday readers, and no part will be considered final
 speakers have checked it. Every chapter also has a <b>Present</b> mode for church screens — fullscreen
 slides, a second display, or Chromecast.</p>
 <div class="cards">
+  <a class="card" href="ai/"><b>{bi("ใช้กับ AI", "Use with AI")}</b><span>{bi("เชื่อมต่อเพื่อค้นหาและอ้างอิงข้อความพระคัมภีร์ไทย", "Connect ChatGPT, Claude, or Gemini CLI to quote the published Thai text.")}</span></a>
   <a class="card" href="{APP_URL}"><b>{bi('อ่านในแอป', 'Read in the app')}</b><span>{bi('ฉบับนี้อยู่ในแอป Eremos ทั้งเล่ม — อ่านแล้วบอกเราว่าตรงไหนสะดุด', 'The whole translation lives in the Eremos app — read it there and tell us where it stumbles.')}</span></a>
   <a class="card" href="{HELP_URL}"><b>{bi('ช่วยตรวจทาน', 'Help review it')}</b><span>{bi('อ่านภาษาไทยได้ใช่ไหม? มาร่วมตรวจทาน — เราต้องการทั้งเจ้าของภาษา ศิษยาภิบาล และผู้อ่านที่ใส่ใจ', 'Read Thai? Join the review — native speakers, pastors, and careful readers all needed.')}</span></a>
   <a class="card" href="{GIVE_URL}"><b>{bi('ร่วมสนับสนุน', 'Support the work')}</b><span>{bi('การถวายช่วยสนับสนุนงานแปลและพันธกิจการสร้างสาวกของเอเรโมส', 'Tax-deductible gifts to Eremos sustain the translation and discipleship ministry.')}</span></a>
@@ -1133,6 +1134,18 @@ public domain, no attribution required (though we love hearing what you build).<
     # presenter by code (phone controls, this screen shows only the Bible).
     (DIST / "present.html").write_text(PRESENT_RECEIVER_HTML.replace("__SB__", sb_config_script()), encoding="utf-8")
 
+    # Public onboarding and portable package; no server/app deployment changes.
+    import importlib.util
+    spec = importlib.util.spec_from_file_location("build_mcp_plugin", ROOT / "scripts" / "build_mcp_plugin.py")
+    plugin_builder = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(plugin_builder)
+    plugin_builder.build(DIST / "ai")
+    (DIST / "ai" / "index.html").write_text(
+        page("Use with AI · Eremos Thai Bible", (ROOT / "site" / "ai.html").read_text(), 1,
+             description="Connect ChatGPT, Claude, and Gemini CLI to the public Eremos Thai Bible draft. No sign-in; read-only passages, search, and notes.",
+             canonical=f"{SITE_ORIGIN}/ai/"), encoding="utf-8")
+    urls.append(f"{SITE_ORIGIN}/ai/")
+
     write_ai_files(books)
     write_sitemap(urls)
 
@@ -1174,6 +1187,7 @@ result as Scripture.
 - [USFM files](https://github.com/btwinguitarists/eremos-translation/tree/main/output/paratext): for Paratext and Bible platforms
 
 ## For AI assistants
+- AI connection guide and portable plugin: https://bible.eremosapp.com/ai/
 - MCP server (Streamable HTTP, no sign-in): https://mcp.eremosapp.com/mcp with tools get_passage, search_text, get_translation_notes, list_books
 
 ## Checking authenticity

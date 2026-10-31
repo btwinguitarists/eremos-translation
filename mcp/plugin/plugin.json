@@ -1,0 +1,36 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "eremos-thai-bible",
+  "version": "1.0.0",
+  "description": "Retrieve and quote the Eremos Thai Bible draft exactly, search Thai text, and inspect published translation notes. Public, read-only, no sign-in.",
+  "homepage": "https://bible.eremosapp.com/ai/",
+  "repository": "https://github.com/btwinguitarists/eremos-translation",
+  "license": "CC0-1.0",
+  "keywords": [
+    "bible",
+    "thai",
+    "scripture",
+    "translation",
+    "mcp"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Eremos Thai Bible",
+        "shortDescription": "Thai Bible passages, search, and translation notes",
+        "longDescription": "Read the published Eremos Translation (Thai), a complete AI-assisted draft under review. Retrieve passages, search Thai words, and inspect translation decisions. Public read-only access; no Eremos account needed.",
+        "category": "Productivity",
+        "capabilities": [
+          "Read"
+        ],
+        "websiteURL": "https://bible.eremosapp.com/ai/",
+        "defaultPrompt": [
+          "Retrieve John 3:16–18 from Eremos Thai Bible. Quote the Thai exactly, include the source link, and disclose the draft status."
+        ],
+        "logo": "./assets/icon.png",
+        "composerIcon": "./assets/icon.png",
+        "supportURL": "https://github.com/btwinguitarists/eremos-translation/issues"
+      }
+    }
+  }
+}

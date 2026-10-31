@@ -1,0 +1,29 @@
+<section lang="en">
+<p class="eyebrow">Connect to the published text</p>
+<h1>Use Eremos Thai Bible with AI</h1>
+<p>Retrieve Thai Bible passages word for word, search the text, and explore published translation notes.</p>
+<p><b>Complete AI-assisted draft under review · CC0 public domain · Read-only · No Eremos account needed</b></p>
+<p>Copy this MCP server URL:</p>
+<pre style="overflow-wrap:anywhere;white-space:pre-wrap"><code>https://mcp.eremosapp.com/mcp</code></pre>
+<p>Choose Streamable HTTP and no authentication. The connector reads public translation data; it cannot edit verses or access private discipleship accounts.</p>
+<h2>ChatGPT</h2>
+<p>Open <a href="https://chatgpt.com/plugins">Plugins</a> → <b>+ → Add custom MCP server</b>. Name it <b>Eremos Thai Bible</b>, enter the URL above, and choose no authentication. Review the connection warning and create the plugin. Inspect its four tools, install it, then select it with <b>@</b> in a new conversation. Your account and workspace must allow custom servers.</p>
+<h2>Claude</h2>
+<p>Open <b>Customize → Connectors → + Add → Add custom connector</b>. Enter <b>Eremos Thai Bible</b> and the server URL. Choose <b>No sign in</b>, leave credentials and request headers empty, and add it. Enable it in the conversation under <b>+ → Connectors</b>. Team and Enterprise workspaces may require an administrator first.</p>
+<h2>Gemini CLI</h2>
+<p>With Gemini CLI installed, run:</p>
+<pre style="overflow-x:auto"><code>gemini mcp add --transport http --scope user eremos-bible https://mcp.eremosapp.com/mcp
+gemini mcp list</code></pre>
+<p>Restart an already-running CLI and inspect tools with <code>/mcp</code>. This setup applies to Gemini CLI, not the Gemini consumer chat app.</p>
+<h2>Try a passage</h2>
+<blockquote>Use Eremos Thai Bible to retrieve John 3:16–18. Quote the returned Thai exactly, name the translation, include the source link, and mention its draft-under-review status.</blockquote>
+<p>Compare with <a href="../th/john/3.html#v16">John 3:16 in the reader</a>. You can also ask it to list available books, search for <span lang="th">ความรัก</span>, or show the published notes for a single verse. Keep interpretations separate from the quoted text.</p>
+<h2>Portable ChatGPT / Codex plugin</h2>
+<p><a href="eremos-thai-bible-1.0.0.zip">Download plugin ZIP · v1.0.0</a> · <a href="eremos-thai-bible-1.0.0-openai.zip">OpenAI-specific ZIP</a> · <a href="SHA256SUMS">SHA-256 checksum</a> · <a href="https://github.com/btwinguitarists/eremos-translation/tree/main/mcp/plugin">Inspect the source</a></p>
+<p>For supported plugin import or local marketplace workflows. The ZIP is not an ordinary chat attachment and does not imply directory approval. Each person chooses to connect; a registry listing does not enable it automatically in every AI app.</p>
+<h2>Help connecting</h2>
+<p>Use the exact <code>/mcp</code> URL, enable the connector, and ask for a tool call. An answer without a tool call does not verify retrieval. A browser GET is not an MCP health check. Requests and search terms go to the hosted service; use public Bible text and references, not sensitive personal information.</p>
+<p><a href="https://github.com/btwinguitarists/eremos-translation/blob/main/mcp/USE_WITH_AI.md">Full setup guide and troubleshooting</a> · <a href="https://github.com/btwinguitarists/eremos-translation/issues">Report a connection issue</a></p>
+<p>Client labels and availability may change. Official instructions: <a href="https://developers.openai.com/plugins/deploy/connect-chatgpt">ChatGPT</a> · <a href="https://developers.openai.com/plugins/build/plugins">Plugin packages</a> · <a href="https://support.claude.com/en/articles/11175166-get-started-with-custom-connectors-using-remote-mcp">Claude</a> · <a href="https://geminicli.com/docs/tools/mcp-server/">Gemini CLI</a>.</p>
+<p class="note">Instructions checked October 31, 2026. The Eremos translation remains open to correction and is not a final, fully human-reviewed edition.</p>
+</section>
