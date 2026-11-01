@@ -8,6 +8,8 @@ word for word instead of paraphrasing.
 
 **Start here:** [Use with AI — ChatGPT, Claude, Gemini CLI, and plugin download](USE_WITH_AI.md).
 
+**Service policies:** [MCP privacy](https://bible.eremosapp.com/ai/privacy/) · [MCP terms](https://bible.eremosapp.com/ai/terms/). Support: eremos.app@gmail.com.
+
 ## Connect and try it
 
 1. In an MCP-compatible assistant, open its remote-server or connector settings.
