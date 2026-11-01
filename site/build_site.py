@@ -1145,6 +1145,16 @@ public domain, no attribution required (though we love hearing what you build).<
              description="Connect ChatGPT, Claude, and Gemini CLI to the public Eremos Thai Bible draft. No sign-in; read-only passages, search, and notes.",
              canonical=f"{SITE_ORIGIN}/ai/"), encoding="utf-8")
     urls.append(f"{SITE_ORIGIN}/ai/")
+    for slug, title in (("privacy", "MCP privacy policy"), ("terms", "MCP service terms")):
+        policy_dir = DIST / "ai" / slug
+        policy_dir.mkdir(parents=True, exist_ok=True)
+        policy_url = f"{SITE_ORIGIN}/ai/{slug}/"
+        (policy_dir / "index.html").write_text(
+            page(f"{title} · Eremos Thai Bible",
+                 (ROOT / "site" / f"mcp-{slug}.html").read_text(), 2,
+                 description=f"{title} for the public, read-only Eremos Thai Bible MCP endpoint.",
+                 canonical=policy_url), encoding="utf-8")
+        urls.append(policy_url)
 
     write_ai_files(books)
     write_sitemap(urls)

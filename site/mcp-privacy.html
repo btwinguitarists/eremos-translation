@@ -1,0 +1,20 @@
+<section lang="en">
+<p class="eyebrow">Eremos Thai Bible · Public MCP service</p>
+<h1>MCP privacy policy</h1>
+<p>Effective November 1, 2026. Contact: <a href="mailto:eremos.app@gmail.com">eremos.app@gmail.com</a>.</p>
+<p>Eremos provides the public Bible retrieval service at <code>https://mcp.eremosapp.com/mcp</code>. This policy covers that endpoint. The separate prayer and journaling app and your chosen AI provider have their own privacy policies.</p>
+<h2>What the service receives</h2>
+<p>Your AI client sends MCP protocol information and tool arguments, such as a Bible reference, Thai search words, a book filter, or a result limit. The service uses these inputs to retrieve public passages, search the translation, list books, or return translation notes. It does not request your conversation history, private files, Eremos account, password, or payment details. No sign-in is required, and all four tools are read-only.</p>
+<p>Your client decides what to send. Search text can contain personal information if you or your client include it, so use Bible references and public text rather than confidential information.</p>
+<h2>Hosting, logs, and retention</h2>
+<p>Cloudflare Workers hosts the endpoint and processes network requests. Operational metadata can include network addresses, request URLs and headers, timestamps, response status, and execution or error information. We use operational information to run, troubleshoot, and protect the service. The application does not intentionally log tool arguments or create a database of users, searches, or conversations.</p>
+<p>Workers invocation logs are enabled, persisted to the Cloudflare dashboard, and sampled at 100%. Cloudflare currently documents dashboard-log retention of three days on its Free plan and seven days on its Paid plan. These are provider-managed retention periods, not a promise that every category of infrastructure data is deleted within seven days. Separate network, security, and provider records are governed by Cloudflare's practices and applicable requirements. No telemetry export destination was configured in the Worker settings when this policy was published.</p>
+<p>See <a href="https://developers.cloudflare.com/workers/observability/logs/workers-logs/">Cloudflare's current Workers Logs documentation</a> and <a href="https://www.cloudflare.com/privacypolicy/">Cloudflare's privacy policy</a>. We do not claim that the service has zero logs or zero retention.</p>
+<p>The server fetches public translation files from the Eremos Bible website and public GitHub repository. It caches public fetched content for performance; that cache is separate from user conversations. Operational records may be accessible to the service operator and authorized hosting personnel. Hosting and AI providers may process data in countries other than yours.</p>
+<h2>Your AI provider and other services</h2>
+<p>Your AI provider receives your conversation and tool results and applies its own privacy, retention, and training settings. Connecting to this MCP service does not change those settings. Opening a source link also sends an ordinary web request to that website. Eremos does not use this MCP endpoint to sell personal information, serve advertising, train an AI model on your requests, or build a user profile.</p>
+<h2>Questions and privacy requests</h2>
+<p>Email <a href="mailto:eremos.app@gmail.com">eremos.app@gmail.com</a> for access, correction, deletion, objection, or other privacy requests. Include the approximate request time and the issue, but do not send passwords or sensitive conversation content. We will respond as applicable law requires. Because this is an unauthenticated service without a user database, we may not be able to associate an operational record with a particular person. Your rights may also include contacting your local data-protection authority.</p>
+<p>We retain support correspondence as needed to answer and resolve the request and meet applicable obligations. We will update this page if the service's data practices change.</p>
+<p><a href="../">Connection guide</a> · <a href="../terms/">MCP service terms</a></p>
+</section>
