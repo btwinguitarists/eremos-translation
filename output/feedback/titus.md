@@ -38,7 +38,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**3** และในเวลาอันสมควรของพระองค์ พระองค์ทรงเปิดเผยพระวจนะของพระองค์ผ่านการประกาศ ซึ่งข้าพเจ้าได้รับมอบหมายให้รักษา ตามพระบัญชาของพระเจ้าพระผู้ช่วยให้รอดของเรา
+**3** และในเวลาอันสมควรของพระองค์ พระองค์ทรงเปิดเผยพระวจนะของพระองค์ผ่านการประกาศ ซึ่งข้าพเจ้าได้รับมอบหมาย ตามพระบัญชาของพระเจ้าพระผู้ช่วยให้รอดของเรา
 
 > ___
 
@@ -230,7 +230,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/titus_01.json` | `6b9bc5a855e4143fab405d9116d393e4ed8e929d99a62b3d2451d8043fb50100` |
+| `output/translations/titus_01.json` | `eb6d72bf18961c1fe199d89bc72131454c3146a904f61e7253021c5b5c870893` |
 | `output/translations/titus_02.json` | `54cca3502fb1484c14c16b498528dd0e1691cb0d1650c2a21bae3fc079cf8180` |
 | `output/translations/titus_03.json` | `ae6d73e432043adfd5b8f1c7ccdac693084026cab5e5b9fda7db7d05472e9648` |
 
