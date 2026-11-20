@@ -486,7 +486,7 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **10** เพราะท่านคอยท่านครที่มีรากฐาน อันมีพระเจ้าเป็นผู้ทรงออกแบบและทรงเป็นผู้สร้าง
 
-**11** โดยความเชื่อ ซาราห์เองได้รับฤทธิ์ที่จะตั้งครรภ์ แม้พ้นวัยแล้ว เพราะนางถือว่าผู้ที่ทรงสัญญานั้นทรงสัตย์ซื่อ
+**11** โดยความเชื่อ แม้อับราฮัมจะพ้นวัยแล้ว เขาก็ได้รับกำลังที่จะมีบุตรกับซาราห์ เพราะเขาถือว่าผู้ที่ทรงสัญญานั้นทรงสัตย์ซื่อ
 
 **12** เพราะฉะนั้น จากชายคนเดียว ผู้ซึ่งหมดสภาพประดุจตายแล้ว ก็เกิดลูกหลานมากมาย ดังดวงดาวในท้องฟ้า และดังเม็ดทรายที่ริมทะเลซึ่งนับไม่ถ้วน
 
@@ -680,7 +680,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/hebrews_08.json` | `7af4362eb73c87e52a4ef99569347079ec51da2a505c038cf059f62b62ee2b09` |
 | `output/translations/hebrews_09.json` | `0d76d398b1ebade928ae58b4f07bb9fdd910fdb3396bd4570ddb63102e16c56d` |
 | `output/translations/hebrews_10.json` | `a082ba35191f83048971852f2fdbaf043b3a2281af3e4350e88d84ad684e907c` |
-| `output/translations/hebrews_11.json` | `a0b41086337aa89deea22c3c11ca3a17204244337622cf90e1461e637b854d42` |
+| `output/translations/hebrews_11.json` | `d3f54add9076ad934bc0bc330c0a4caa6e92e37272a95a9272f265fdddb9e02e` |
 | `output/translations/hebrews_12.json` | `ab3705d42e1a3a90996eae4d9a7a43feb175487ec04766f594eb18133c255a8a` |
 | `output/translations/hebrews_13.json` | `cd1f0202551281b52dc8ea05f213503bbf3b080ea423451171a65492b1ff0ee4` |
 

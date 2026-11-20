@@ -1,7 +1,7 @@
 # OT citation check — 1timothy ch. 4
 
-NT-to-OT links found: **0** / 16 verses
+NT-to-OT links found: **1** / 16 verses
 
-No known OT citations or allusions in this chapter per our database.
+## ✅ Acknowledged in verse notes: 1
 
-_Note: our `data/nt_ot_citations.json` is curated, not exhaustive. Passages with subtle allusions may not be listed._
+- **1 Timothy 4:4** — GEN 1:31 (allusion)

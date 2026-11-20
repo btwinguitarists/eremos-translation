@@ -246,14 +246,14 @@
     "greek": "εἰς τοῦτο γὰρ κοπιῶμεν καὶ ὀνειδιζόμεθα,ὅτι ἠλπίκαμεν ἐπὶ θεῷ ζῶντι,ὅς ἐστιν σωτὴρ πάντων ἀνθρώπων,μάλιστα πιστῶν.",
     "bsb_english": "To this end we labor and strive, because we have set our hope on the living God, who is the Savior of everyone, and especially of those who believe.",
     "translation": {
-      "thai": "เพราะเหตุนี้เองที่เราทำงานหนักและทุ่มเท เพราะเราได้วางใจในพระเจ้าผู้ทรงพระชนม์ ผู้ทรงเป็นพระผู้ช่วยให้รอดของทุกคน โดยเฉพาะอย่างยิ่งของผู้เชื่อ",
+      "thai": "เพราะเหตุนี้เองที่เราทำงานหนักและถูกกล่าวร้าย เพราะเราได้วางใจในพระเจ้าผู้ทรงพระชนม์ ผู้ทรงเป็นพระผู้ช่วยให้รอดของทุกคน โดยเฉพาะอย่างยิ่งของผู้เชื่อ",
       "thai_literal": null,
       "thai_summary": "ข้อนี้เน้นว่าพระเจ้าทรงเป็น ‘พระผู้ช่วยให้รอดของทุกคน’ — แต่ ‘โดยเฉพาะอย่างยิ่งของผู้เชื่อ’ คำว่า μάλιστα (โดยเฉพาะอย่างยิ่ง) มีการถกเถียงในการตีความ — บางคนเชื่อว่าพระเจ้าทรงเป็นพระผู้ช่วยให้รอดในความหมายทั่วไป (เช่น ผู้ค้ำจุนชีวิต) แก่ทุกคน แต่ในความหมายลึกซึ้ง (ความรอดนิรันดร์) แก่ผู้เชื่อเท่านั้น คนอื่น ๆ เชื่อว่าพระเจ้าทรงประสงค์จะช่วยทุกคน แต่เพราะการเลือกของผู้เชื่อ พวกเขาจึงได้รับความรอดอย่างแท้จริง",
       "key_decisions": [
         {
           "greek": "εἰς τοῦτο γὰρ κοπιῶμεν καὶ ὀνειδιζόμεθα",
-          "thai": "เพราะเหตุนี้เองที่เราทำงานหนักและทุ่มเท",
-          "rationale": "TEXTUAL VARIANT: SBLGNT here reads ἀγωνιζόμεθα (struggle) in some-editions; Byzantine + most-printed-texts read ὀνειδιζόμεθα (suffer-reproach). Both readings are well-attested. Render with ‘ทุ่มเท’ — captures BOTH the agonistic-effort sense AND the reproach-suffering sense without committing. uW intro lists this as a textual-variant in the major-issues list."
+          "thai": "เพราะเหตุนี้เองที่เราทำงานหนักและถูกกล่าวร้าย",
+          "rationale": "κοπιῶμεν describes hard work. The passive ὀνειδιζόμεθα describes the reproach those workers receive."
         },
         {
           "greek": "ἠλπίκαμεν ἐπὶ θεῷ ζῶντι",
@@ -266,7 +266,7 @@
           "rationale": "Pastoral-distinctive God-as-Savior: corpus-locked σωτήρ → พระผู้ช่วยให้รอด (from 1Tim 1:1). The μάλιστα-phrase is interpretively-debated (universal-ordinary-providence vs. salvific-double-reference). Render preserves the debate by literal-translation. The thai_summary frames both major-interpretations."
         }
       ],
-      "notes": "TEXTUAL VARIANT: ἀγωνιζόμεθα vs ὀνειδιζόμεθα at v.10. Per RULES §5: silent-omission category — render with neutral compound that captures-both. Mainstream evangelical Bibles split: BSB/ESV/NIV use ‘strive’ (closer to ἀγωνιζόμεθα); CSB uses ‘struggle’; some older versions use ‘suffer-reproach’ (ὀνειδιζόμεθα). Resolved doc at output/textual_variants/_resolved/1timothy_04_v10_struggle_reproach.md."
+      "notes": "SBLGNT อ่านว่า ὀνειδιζόμεθα คือ “เราถูกกล่าวร้าย” ส่วน NA28 อ่านว่า ἀγωνιζόμεθα คือ “เราพากเพียรต่อสู้”"
     }
   },
   {

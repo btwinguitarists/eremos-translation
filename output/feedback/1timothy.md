@@ -297,7 +297,7 @@ _ฉบับเอเรมอสยึดต้นฉบับวิจาร�
 
 > ___
 
-**10** เพราะเหตุนี้เองที่เราทำงานหนักและทุ่มเท เพราะเราได้วางใจในพระเจ้าผู้ทรงพระชนม์ ผู้ทรงเป็นพระผู้ช่วยให้รอดของทุกคน โดยเฉพาะอย่างยิ่งของผู้เชื่อ
+**10** เพราะเหตุนี้เองที่เราทำงานหนักและถูกกล่าวร้าย เพราะเราได้วางใจในพระเจ้าผู้ทรงพระชนม์ ผู้ทรงเป็นพระผู้ช่วยให้รอดของทุกคน โดยเฉพาะอย่างยิ่งของผู้เชื่อ
 
 > ___
 
@@ -528,7 +528,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/1timothy_01.json` | `c7c6fcf59f1ef51bc256c7ef4b3f626e197cea6ca0491e818ff9b889f8a4a490` |
 | `output/translations/1timothy_02.json` | `13af01b7fb145a1425eb85bc58a57d6a7fd440689f65c36822957f9dd5bb7e31` |
 | `output/translations/1timothy_03.json` | `53c0e7becdd329cd61c2322e3fe86ddba55536b4f09f04edeb0bcde83568973b` |
-| `output/translations/1timothy_04.json` | `45591e3e3bfccc362d1b7118c1dcde3645285988048f5124fefae111ae3b8b77` |
+| `output/translations/1timothy_04.json` | `a3e17690dfa9388ed20a5fb9287e3eac771c46365a48bf039f58f41eee643c39` |
 | `output/translations/1timothy_05.json` | `6eff4d17f12e102ac6762faac61bf327cb8cd3ce705e555bb0a648c28bf9eba2` |
 | `output/translations/1timothy_06.json` | `821f9fc6ba9fc08da63dfcd074cc18e35bbe36fc48daaf1d7cad308ee94fabf9` |
 
