@@ -787,7 +787,7 @@ _**เนฟิลิม** (ฮีบรู: נְפִילִים *nĕphîlîm*) �
 
 > ___
 
-**2** เจ้าจงนำสัตว์ที่สะอาดทุกชนิดมาเจ็ดคู่ ตัวผู้และตัวเมีย และสัตว์ที่ไม่สะอาดทุกชนิดเอามาเป็นคู่ๆ ตัวผู้และตัวเมีย
+**2** เจ้าจงนำสัตว์ที่สะอาดทุกชนิดมาเจ็ดคู่ ตัวผู้และตัวเมีย และสัตว์ที่ไม่สะอาดให้เอามาชนิดละหนึ่งคู่ ตัวผู้และตัวเมีย
 
 > ___
 
@@ -6937,7 +6937,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/genesis_04.json` | `5d3cc735bd6eb466e408c345cc9b84869da70f4f2ab84dddfe7fc57fb88edb46` |
 | `output/translations/genesis_05.json` | `d58aabfb40eab68dec155eaab48a54f561ccd17baea411f65b117fd955468794` |
 | `output/translations/genesis_06.json` | `43a0b2202d295e27746619824cdc0d81ee8d9679538e7d36040a5f298b8ae86f` |
-| `output/translations/genesis_07.json` | `0fcbffa0203f85584a9aef96c66cad263e3dceebb4773f999697b34b10dc6e7f` |
+| `output/translations/genesis_07.json` | `570ee6cd3127eb999fc56abc9fd6d8499b4eb67ef4cbb03ef76022e28478f636` |
 | `output/translations/genesis_08.json` | `8d92b6d2f556c997bcd4474cc90526ef89a969d36e7e50a4896b287fcbc6ec08` |
 | `output/translations/genesis_09.json` | `0d7cb21c9f8a9381a2971837df880499e825943cdabcb02ff52d030e1fd2b8e3` |
 | `output/translations/genesis_10.json` | `dc120d64748ca8d066aea784f79027ac92741f9ac831f37efbdd78b119d1f554` |
