@@ -2530,7 +2530,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**49** เรามาเพื่อจุดไฟให้โลก และเราปรารถนายิ่งนักว่าถ้าไฟนั้นได้ลุกขึ้นแล้ว
+**49** เรามาเพื่อจุดไฟให้โลก และเราอยากให้ไฟนั้นลุกขึ้นแล้วเหลือเกิน
 
 > ___
 
@@ -2650,7 +2650,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**19** อาณาจักรนั้นเปรียบเหมือนเมล็ดมัสตาร์ดเมล็ดหนึ่ง ที่ชายคนหนึ่งเอาไปหว่านในสวนของตน เมล็ดนั้นก็งอกขึ้นและกลายเป็นต้นไม้ใหญ่ จนนกในอากาศมาทำรังในกิ่งของมัน”
+**19** อาณาจักรนั้นเปรียบเหมือนเมล็ดมัสตาร์ดเมล็ดหนึ่ง ที่ชายคนหนึ่งเอาไปหว่านในสวนของตน เมล็ดนั้นก็งอกขึ้นและกลายเป็นต้นไม้ จนนกในอากาศมาทำรังในกิ่งของมัน”
 
 > ___
 
@@ -3194,7 +3194,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**18** ไม่มีใครกลับมาถวายพระเกียรติแด่พระเจ้าเลยหรือ เว้นแต่คนต่างชาติผู้นี้เท่านั้นหรือ?”
+**18** นอกจากคนต่างชาติผู้นี้แล้ว ไม่มีใครกลับมาถวายพระเกียรติแด่พระเจ้าเลยหรือ?”
 
 > ___
 
@@ -4550,7 +4550,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**12** แต่เปโตรลุกขึ้นแล้ววิ่งไปที่อุโมงค์ เมื่อก้มลงมอง ก็เห็นแต่ผ้าป่านกองอยู่ตามลำพัง เขาจึงกลับไปโดยประหลาดใจในสิ่งที่เกิดขึ้น
+**12** แต่เปโตรลุกขึ้นแล้ววิ่งไปที่อุโมงค์ เมื่อก้มลงมอง ก็เห็นเพียงผ้าป่าน เขาจึงกลับไปโดยประหลาดใจในสิ่งที่เกิดขึ้น
 
 > ___
 
@@ -4737,17 +4737,17 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/luke_09.json` | `9fcb3852a89b102f507c0b2b8b860327a0359962829d793c410864c994b4e22e` |
 | `output/translations/luke_10.json` | `a7b7b9b6450293cd7db0ba1b2a6b97b86f42cd48ce3727f0b6a01363035a7907` |
 | `output/translations/luke_11.json` | `fe5a68cda5dcd66c858a60584f0a8a3fdbc079524d80b185c4c5c822e2f80f2e` |
-| `output/translations/luke_12.json` | `6997ca178b13718f12c9d724ce6620e57dd6e2161adc2d6353d52db30a3c4403` |
-| `output/translations/luke_13.json` | `b67c46e8db0e008b8a1b9c826a483675c6ce25a90340589f9dc376cac4a23852` |
+| `output/translations/luke_12.json` | `b4dd05c072c0d26444739eaa8f3fbe5ac8141eaa6da0c6e0f0390ca4ff36b8eb` |
+| `output/translations/luke_13.json` | `667b9d91f951bd990f03f87ddbb4b5849f0f7bb7409a49a3b374d3ecd65d396b` |
 | `output/translations/luke_14.json` | `7e58557b0d7af839456f5f75f2f04533cf8b79171fe860657ef5f08f7349d9fc` |
 | `output/translations/luke_15.json` | `bb9ac5c2071f8fdad2c943e4c82683401c94512c25229dd186a78d596ac675fe` |
 | `output/translations/luke_16.json` | `1fbfd23ac9e21c31f2e852682db4c5c8954611789d3a5a645e3f6736265732e0` |
-| `output/translations/luke_17.json` | `a3bd99e68586cf05eb396746bc536a2a0482e466f2fe4504b56cb5632279bf38` |
+| `output/translations/luke_17.json` | `de1a0ab79b518a419a8bb4c4193ca01c2fadcb5529fc9d7ba65f8d5ad280e11f` |
 | `output/translations/luke_18.json` | `3cd8c42dd0f9a8d701a013489d94c68e2341bf9a9f04c67cc3c1130177e96648` |
 | `output/translations/luke_19.json` | `a3f4e3bf19309ed57e467ffcf041ff3bd8332550df972ab91ad9c77530a7d029` |
 | `output/translations/luke_20.json` | `6b8b82cab2de77fcb74820d8fd434c579fe1f20f343c4069d37c34801dd8e749` |
 | `output/translations/luke_21.json` | `2c44259c457795ded72824270807f5d2e7b30845ef464a707486f5ad90205c06` |
 | `output/translations/luke_22.json` | `76e0650fe2477982dc592d75c27182d20455e0d34ad25fe6a94b98f084c13e97` |
 | `output/translations/luke_23.json` | `158134e80c383cc7391151ee1798f33af76c5a8a7f1e299dce241a203efb2e12` |
-| `output/translations/luke_24.json` | `a1bb9cba8e3dc6fb43ece420b038fec03afa56474208e7254f72a495d43fd94b` |
+| `output/translations/luke_24.json` | `277bb95c1c0f61e523ce3ba02a35645e93f8a129380d1160aad9bf40485eefd3` |
 

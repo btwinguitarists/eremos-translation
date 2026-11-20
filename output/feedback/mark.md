@@ -1483,7 +1483,7 @@ _วลี "พระบุตรของพระเจ้า" (υἱοῦ θ�
 
 > ___
 
-**31** เพราะว่าพระองค์ทรงสั่งสอนเหล่าสาวกของพระองค์ ทรงตรัสแก่พวกเขาว่า “บุตรมนุษย์กำลังจะถูกมอบไว้ในมือของมนุษย์ พวกเขาจะประหารพระองค์ และเมื่อถูกประหารแล้ว พระองค์จะทรงเป็นขึ้นมาใหม่ในวันที่สาม”
+**31** เพราะว่าพระองค์ทรงสั่งสอนเหล่าสาวกของพระองค์ ทรงตรัสแก่พวกเขาว่า “บุตรมนุษย์กำลังจะถูกมอบไว้ในมือของมนุษย์ พวกเขาจะประหารพระองค์ และเมื่อถูกประหารแล้ว พระองค์จะทรงเป็นขึ้นมาใหม่หลังจากผ่านไปสามวัน”
 
 > ___
 
@@ -2824,7 +2824,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/mark_06.json` | `838251c40aec91f61ce999809ef21348a9b3d8e1ef79124a61b86364353934d9` |
 | `output/translations/mark_07.json` | `916567451b0a79824a48c02e9bb6e14928636b945445627dad0f28d2dd54310e` |
 | `output/translations/mark_08.json` | `ce17a7620af506c0b1b84d89ae78855bd9686573fd1db3d708fa23f5e54571e6` |
-| `output/translations/mark_09.json` | `0913a48ebb16167ba0c648c1b628228fa2ba6b2f95064885b6d81dfb8fb1bd58` |
+| `output/translations/mark_09.json` | `3e5d8011d820852cd13fd66c74b270d4840e5437706af339ecf5f10539ceb388` |
 | `output/translations/mark_10.json` | `adb7e41472bfa4688aec54550cce3cd0978592f6bfa0164cbbead6d28e307821` |
 | `output/translations/mark_11.json` | `2e998c5b7a43dc6e3b120b64113b6483f092539e8b2726c5ea349bc153aa27e3` |
 | `output/translations/mark_12.json` | `7cdd9d5e3e1ca5e9bfd3f3e4868236f32dedffa5905e48a4897fc1e80df14c80` |
