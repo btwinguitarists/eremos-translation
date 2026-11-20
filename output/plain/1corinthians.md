@@ -952,7 +952,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 |---|---|
 | `output/translations/1corinthians_01.json` | `8fe037408a33ea46742512e6d4741d9a035ddc8127501975619c18e4bd65b4d0` |
 | `output/translations/1corinthians_02.json` | `f89965365f3b0cad6b1261fe5cd39b2da70105281caa91fd248c10286a72374d` |
-| `output/translations/1corinthians_03.json` | `08e042f1494b0a04a2bd2e360e6983fe4a567b7cd24fb95863b2143079dc50d7` |
+| `output/translations/1corinthians_03.json` | `4a0a69a76a9f6d96f90975d9860d9ec8be7145afbf8212235ff2b332d8f27230` |
 | `output/translations/1corinthians_04.json` | `7c5e9e26dfbd6f7d843a3df8ef62b7297a09d27a17f845c913528d1fd385706f` |
 | `output/translations/1corinthians_05.json` | `9a239466aa383105cd196d915889d7d9176e93e466fd57c3300a83ad9c35125a` |
 | `output/translations/1corinthians_06.json` | `8198559711e7acaf1dc9d1adf41b0f45325d9ec2b3071f970e0c0b0de2bd1a4c` |
