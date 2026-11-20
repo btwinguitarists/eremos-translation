@@ -202,7 +202,7 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **1** เอาเถิด คนรวยทั้งหลาย จงร้องไห้และคร่ำครวญเสียงดัง เพราะความทุกข์ยากที่กำลังจะมาถึงท่าน
 
-**2** ทรัพย์สมบัติของท่านเน่าเปื่อยแล้ว และเสื้อผ้าของท่านก็ถูกแมลงกัดกินแล้ว
+**2** ทรัพย์สมบัติของท่านเน่าเปื่อยแล้ว และเสื้อผ้าของท่านก็ถูกมอดกัดกินแล้ว
 
 **3** ทองคำและเงินของท่านขึ้นสนิมแล้ว และสนิมของมันจะเป็นพยานปรักปรำท่าน และกัดกินเนื้อของท่านเหมือนไฟ ท่านได้สั่งสมทรัพย์ไว้ในวาระสุดท้าย
 
@@ -252,5 +252,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/james_02.json` | `c6c0b5808e83e132014f1cc400e09bb69bc917cd60ae5b9beb4b2fe9fcd384e0` |
 | `output/translations/james_03.json` | `3808eccaa5550cc2fda97cd0dce2538331998823e416bf1c48ab042c3ba969d6` |
 | `output/translations/james_04.json` | `3b61bd19e8da7e5dd9c3681a31efbf7854e8f7fd8d20d47ffbc1a4f73289bf05` |
-| `output/translations/james_05.json` | `cdd0acb6927085b9b36656e407bea5164fc4efaf311e82378334632582f3ac55` |
+| `output/translations/james_05.json` | `b5ffbfd18819c2d4bb29e6dfd5e73dba0c77ae2d2020448f4a5dbd823226f5be` |
 
