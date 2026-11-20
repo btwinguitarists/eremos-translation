@@ -78,7 +78,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**13** เพราะฉะนั้น จงคาดเอวจิตใจของท่านให้พร้อม จงมีสติอย่างเต็มที่ และจงตั้งความหวังอย่างเต็มที่ในพระคุณซึ่งจะนำมาให้ท่านในเวลาที่พระเยซูคริสต์ทรงสำแดงพระองค์
+**13** เพราะฉะนั้น จงคาดเอวจิตใจของท่านให้พร้อม จงมีสติอย่างเต็มที่ และจงตั้งความหวังในพระคุณซึ่งจะนำมาให้ท่านในเวลาที่พระเยซูคริสต์ทรงสำแดงพระองค์
 
 > ___
 
@@ -294,7 +294,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**15** แต่จงให้พระคริสต์เป็นองค์พระผู้เป็นเจ้าผู้ทรงบริสุทธิ์ในใจของท่าน จงเตรียมพร้อมเสมอที่จะให้คำแก้แก่ทุกคนที่ขอเหตุผลเรื่องความหวังที่อยู่ในท่าน
+**15** แต่จงยกย่องพระคริสต์ในใจของท่านว่าเป็นองค์พระผู้เป็นเจ้าผู้ทรงบริสุทธิ์ จงเตรียมพร้อมเสมอที่จะให้คำแก้แก่ทุกคนที่ขอเหตุผลเรื่องความหวังที่อยู่ในท่าน
 
 > ___
 
@@ -474,9 +474,9 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/1peter_01.json` | `7e44403865c493ca0641a403ffc4e757b579b6fccf56b551397ab1e6905ae640` |
+| `output/translations/1peter_01.json` | `f8cc6b8227c97af343cbeab07a03f6fae707395086786fb9061e90ce2ac1eaa5` |
 | `output/translations/1peter_02.json` | `120f3302493eb9bd2845bd586e6270174705f761d2bb26bdeb7f465ddeb0259e` |
-| `output/translations/1peter_03.json` | `ab8923ac1f2bce4711ab6aab171275521419001881bbd55a736f444fdc007516` |
+| `output/translations/1peter_03.json` | `33b0d47afb980c8772d8c52e21978ce06d7f92fcec124a9b0bc81b24824ed4fb` |
 | `output/translations/1peter_04.json` | `5f1d50f69f35aeb8a52f46b83daad7c826ac3cc8a9e64daa1eadf7beb1fc6413` |
 | `output/translations/1peter_05.json` | `04811613980f157b203a1e080f4c5b2728930eda3865e0d151b2d49386b4e42b` |
 

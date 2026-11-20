@@ -138,7 +138,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**9** ด้วยเหตุของข่าวประเสริฐนั้น ข้าพเจ้าจึงทนทุกข์ทรมานถึงขั้นถูกจองจำเหมือนเป็นอาชญากร แต่พระวจนะของพระเจ้านั้นถูกจองจำไม่ได้
+**9** ด้วยเหตุของข่าวประเสริฐนั้น ข้าพเจ้าจึงทนทุกข์ทรมานถึงขั้นถูกจองจำเหมือนเป็นอาชญากร แต่พระวจนะของพระเจ้าไม่ได้ถูกจองจำ
 
 > ___
 
@@ -334,7 +334,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**13** เมื่อท่านมา ขอให้นำเสื้อคลุมที่ข้าพเจ้าทิ้งไว้ที่เมืองโตรอัสกับคาร์ปัส และหนังสือต่าง ๆ มาด้วย โดยเฉพาะอย่างยิ่งหนังสือม้วนหนัง
+**13** เมื่อท่านมา ขอให้นำเสื้อคลุมที่ข้าพเจ้าทิ้งไว้ที่เมืองโตรอัสกับคาร์ปัส และหนังสือต่าง ๆ มาด้วย โดยเฉพาะอย่างยิ่งเอกสารที่ทำจากแผ่นหนัง
 
 > ___
 
@@ -383,7 +383,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | Chapter file | SHA-256 |
 |---|---|
 | `output/translations/2timothy_01.json` | `9a67a033324a48a65af170897b24050e6114d235ae51dccaecf5c1d8d7b6fb4c` |
-| `output/translations/2timothy_02.json` | `0556acc3c5c3e22ca3ce39906dd0d86d24b9b2268928c347a54bb642d0d4fa7f` |
+| `output/translations/2timothy_02.json` | `ea04f196021dac4164abb4d431f4c9e9295572bcb5cb2bf876774a86954de212` |
 | `output/translations/2timothy_03.json` | `79f0809b00a8a5a4257cf8b0a6b2a7e27be13b2324d26020f6f8b78dc6955ee7` |
-| `output/translations/2timothy_04.json` | `54074762576c5b4e7c8e2f3ad2bccd8d89f6157aa4a90b50d5482131f5b65d43` |
+| `output/translations/2timothy_04.json` | `42a5d99846f5255b4e63fc61d20cce3a365ac40ef905a39b6208321c0e02e888` |
 
