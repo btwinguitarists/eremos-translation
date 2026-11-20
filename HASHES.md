@@ -341,7 +341,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/ecclesiastes_04.json` | 17 | `fee8d588967b352b7bc06ccf7738cd6c6a9e68c1538faae9937ff505a97eb7ab` | `5cab4ec1` |
 | `output/translations/ecclesiastes_05.json` | 19 | `f65180a02e4664fd8dcf3510e12a9694718f5d796c415113fb6f6172e9851d88` | `5cab4ec1` |
 | `output/translations/ecclesiastes_06.json` | 12 | `8834e4a47a4897d8f4a468aa483bd217bdc6b701b370aabd334e90ee801c65d8` | `5cab4ec1` |
-| `output/translations/ecclesiastes_07.json` | 29 | `afc8ce231a4523e5faf9587fb0533831b1fa9804768781bca45e3026ec926ab3` | `5cab4ec1` |
+| `output/translations/ecclesiastes_07.json` | 29 | `f0569e0a0172e341bd7cefb5e2e7f14888b16fb2c63a6e6716612326b29b479c` | `5cab4ec1` |
 | `output/translations/ecclesiastes_08.json` | 17 | `89955dad02652fe32baaa2ab05df06abe7f2308d4868fe13a03a134d104215ce` | `5cab4ec1` |
 | `output/translations/ecclesiastes_09.json` | 18 | `beab087668c89ff815423f6ee11038f1b221186bed1d3a3b63c3ef2da0932a85` | `5cab4ec1` |
 | `output/translations/ecclesiastes_10.json` | 20 | `403c08ad5fec04f6085a03a05a6991c8e4c9e382b3a49199898cc334401408f3` | `1333306e` |
@@ -416,7 +416,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/ezekiel_11.json` | 25 | `1ec66062138e7b1b79bd230dbf02bea1b3ff1dcc681a4d82cae3dbcc61fee59b` | `fda191b3` |
 | `output/translations/ezekiel_12.json` | 28 | `a1a29f18695d32a778e421d5be465d1566059e7459c6d90f6534559c0b5434b4` | `30fdf8df` |
 | `output/translations/ezekiel_13.json` | 23 | `338f0b0cbb70547cd6cef40ca32df0051a8432c2981711c631266b35622f5c24` | `fb6be2f4` |
-| `output/translations/ezekiel_14.json` | 23 | `ba9eb610b39f095a6a18e08b9cb814d4a6936689a12b13fc4bbc898bab9b5532` | `96e42cc6` |
+| `output/translations/ezekiel_14.json` | 23 | `006c145d97e51ca701b6b9ea97556719cdf17676bc85a26fdd0399f77533ba36` | `96e42cc6` |
 | `output/translations/ezekiel_15.json` | 8 | `0cfaa6030b0e1dc739f940d93e9a59452839e530a33d22fc46ff656fc7c973a0` | `9700e84a` |
 | `output/translations/ezekiel_16.json` | 63 | `b81aa71077f7092104bdfa6f35fbfb4dbf8c739182d75e9f4cfc3a93d360973c` | `e9775072` |
 | `output/translations/ezekiel_17.json` | 24 | `55c5ef51e5ff91148e617140348874b56dc4773bd727a6465f2d54ee79ce1ea5` | `590b661a` |
@@ -623,7 +623,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/jeremiah_01.json` | 19 | `0fbbf862505c618e20c6a4c32e2ba355c5d0402721b0c8089224b299e9b16eab` | `7040ad9f` |
 | `output/translations/jeremiah_02.json` | 37 | `528b24115c3abedd11eff0742d20dbe5351faf94dd0e9bdd3e145394af791a7e` | `7040ad9f` |
 | `output/translations/jeremiah_03.json` | 25 | `63640c50b82d72daf3b40acee4e8290db6230500ddc119acb30e7df6aa03aafd` | `f69dbf77` |
-| `output/translations/jeremiah_04.json` | 31 | `2e40e806f4876ccbb97fb26f2590001183874e888815b7245d4fa917f2bd7a39` | `e95adeec` |
+| `output/translations/jeremiah_04.json` | 31 | `07843e6a383724868029ede2e5148a6a1809a2c92c19498b93dbb7726d543883` | `e95adeec` |
 | `output/translations/jeremiah_05.json` | 31 | `93dc5a7589dd0c2fedd775e8cb5a7f95d000fff1129077c677bdb75222b8bcdc` | `131754d3` |
 | `output/translations/jeremiah_06.json` | 30 | `4d21d982e454f4c26f7e501a61ef65db47fbfeead555d08b4e6df77dc336873e` | `7040ad9f` |
 | `output/translations/jeremiah_07.json` | 34 | `9cf6eafd79778fb87ced24a8af5675ba4458b607daf733b4c7acee59b736ed4a` | `7040ad9f` |

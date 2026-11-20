@@ -323,7 +323,7 @@ _คำว่า “อนิจจัง” ตลอดทั้งเล่�
 
 **27** ปัญญาจารย์กล่าวว่า “ดูเถิด สิ่งนี้คือสิ่งที่ข้าพเจ้าค้นพบ เมื่อนับสิ่งหนึ่งรวมกับอีกสิ่งหนึ่งเพื่อหาเหตุผล
 
-**28** สิ่งที่จิตใจของข้าพเจ้ายังคงแสวงหาแต่ไม่พบคือ ในพันคนข้าพเจ้าพบชายเที่ยงตรงคนหนึ่ง แต่ในคนทั้งปวงเหล่านี้ ข้าพเจ้าไม่พบหญิงสักคน
+**28** สิ่งที่จิตใจของข้าพเจ้ายังคงแสวงหาแต่ไม่พบคือ ในพันคนข้าพเจ้าพบชายคนหนึ่ง แต่ในคนทั้งปวงเหล่านี้ ข้าพเจ้าไม่พบหญิงสักคน
 
 **29** มีเพียงสิ่งนี้ที่ข้าพเจ้าค้นพบ คือพระเจ้าทรงสร้างมนุษย์ให้เที่ยงตรง แต่พวกเขากลับแสวงหากลอุบายมากมาย”
 
@@ -519,7 +519,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/ecclesiastes_04.json` | `fee8d588967b352b7bc06ccf7738cd6c6a9e68c1538faae9937ff505a97eb7ab` |
 | `output/translations/ecclesiastes_05.json` | `f65180a02e4664fd8dcf3510e12a9694718f5d796c415113fb6f6172e9851d88` |
 | `output/translations/ecclesiastes_06.json` | `8834e4a47a4897d8f4a468aa483bd217bdc6b701b370aabd334e90ee801c65d8` |
-| `output/translations/ecclesiastes_07.json` | `afc8ce231a4523e5faf9587fb0533831b1fa9804768781bca45e3026ec926ab3` |
+| `output/translations/ecclesiastes_07.json` | `f0569e0a0172e341bd7cefb5e2e7f14888b16fb2c63a6e6716612326b29b479c` |
 | `output/translations/ecclesiastes_08.json` | `89955dad02652fe32baaa2ab05df06abe7f2308d4868fe13a03a134d104215ce` |
 | `output/translations/ecclesiastes_09.json` | `beab087668c89ff815423f6ee11038f1b221186bed1d3a3b63c3ef2da0932a85` |
 | `output/translations/ecclesiastes_10.json` | `403c08ad5fec04f6085a03a05a6991c8e4c9e382b3a49199898cc334401408f3` |

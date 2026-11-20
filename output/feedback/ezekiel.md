@@ -1299,7 +1299,7 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 > ___
 
-**9** ส่วนผู้เผยพระวจนะ ถ้าเขาถูกหลอกล่อให้พูดถ้อยคำใด เราคือองค์พระผู้เป็นเจ้าเองที่ได้ปล่อยให้ผู้เผยพระวจนะนั้นถูกหลอกล่อ เราจะเหยียดมือของเราออกต่อสู้เขา และจะทำลายเขาเสียจากท่ามกลางอิสราเอลประชากรของเรา
+**9** ส่วนผู้เผยพระวจนะ ถ้าเขาถูกหลอกล่อให้พูดถ้อยคำใด เราคือองค์พระผู้เป็นเจ้าเองที่ได้หลอกล่อผู้เผยพระวจนะนั้น เราจะเหยียดมือของเราออกต่อสู้เขา และจะทำลายเขาเสียจากท่ามกลางอิสราเอลประชากรของเรา
 
 > ___
 
@@ -5753,7 +5753,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/ezekiel_11.json` | `1ec66062138e7b1b79bd230dbf02bea1b3ff1dcc681a4d82cae3dbcc61fee59b` |
 | `output/translations/ezekiel_12.json` | `a1a29f18695d32a778e421d5be465d1566059e7459c6d90f6534559c0b5434b4` |
 | `output/translations/ezekiel_13.json` | `338f0b0cbb70547cd6cef40ca32df0051a8432c2981711c631266b35622f5c24` |
-| `output/translations/ezekiel_14.json` | `ba9eb610b39f095a6a18e08b9cb814d4a6936689a12b13fc4bbc898bab9b5532` |
+| `output/translations/ezekiel_14.json` | `006c145d97e51ca701b6b9ea97556719cdf17676bc85a26fdd0399f77533ba36` |
 | `output/translations/ezekiel_15.json` | `0cfaa6030b0e1dc739f940d93e9a59452839e530a33d22fc46ff656fc7c973a0` |
 | `output/translations/ezekiel_16.json` | `b81aa71077f7092104bdfa6f35fbfb4dbf8c739182d75e9f4cfc3a93d360973c` |
 | `output/translations/ezekiel_17.json` | `55c5ef51e5ff91148e617140348874b56dc4773bd727a6465f2d54ee79ce1ea5` |
