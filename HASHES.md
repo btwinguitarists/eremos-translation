@@ -467,8 +467,8 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/galatians_04.json` | 31 | `6419fc431ce43cebfdbbff8d2a6026f81bd484468e38311da0a266301e78a2d1` | `4ec829e4` |
 | `output/translations/galatians_05.json` | 26 | `8c554130d8819be2bff95cf6657734f4da7ec53e27845623688ad63407121424` | `3881232b` |
 | `output/translations/galatians_06.json` | 18 | `c536242ca4c882dcab8ccb39b413ac1da9fbd7aebfae3fcbc0be71f7d8bc08bf` | `4ec829e4` |
-| `output/translations/genesis_01.json` | 31 | `e65340893c9db735636d4ece74bc04baa7640511d4efa2f7ccc22639159d6fe3` | `22fa6385` |
-| `output/translations/genesis_02.json` | 25 | `5132c4a475fbc176b356190629f219ce220f3ec34fba609e0a3ea431ed3ba03d` | `d03c3a1a` |
+| `output/translations/genesis_01.json` | 31 | `707fc45b4e0c2e30eaa881089427d724d19a96b85112ce04416f52893c13f702` | `22fa6385` |
+| `output/translations/genesis_02.json` | 25 | `610efe15bf60df0d57b3c45474d900123dc1a1ccfada605dfd85a356f765b91e` | `d03c3a1a` |
 | `output/translations/genesis_03.json` | 24 | `3e6616a493f5a971b957bc3e1baf06dad4e3b38d9696b9c5108dcc71a3d2a120` | `d03c3a1a` |
 | `output/translations/genesis_04.json` | 26 | `5d3cc735bd6eb466e408c345cc9b84869da70f4f2ab84dddfe7fc57fb88edb46` | `7040ad9f` |
 | `output/translations/genesis_05.json` | 32 | `d58aabfb40eab68dec155eaab48a54f561ccd17baea411f65b117fd955468794` | `7040ad9f` |
@@ -488,7 +488,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/genesis_19.json` | 38 | `2033580653a71a95ceff003598310c4fa03e0e048fcf7b8c499fcf7eda48d321` | `24e07894` |
 | `output/translations/genesis_20.json` | 18 | `e2e40955262ff08888f9d3c1facbac760a3856f636d32c00d6c783d29584bd21` | `0b6af8ba` |
 | `output/translations/genesis_21.json` | 34 | `112dae2dbe33cf5341083738dc0c291a45be6db50d2d47c10377a997101d79f8` | `7040ad9f` |
-| `output/translations/genesis_22.json` | 24 | `615628aba3ae7b7d2f9cac04a2a1708749be841c08b9dd2fd4be7ba1000032e9` | `8d489882` |
+| `output/translations/genesis_22.json` | 24 | `27633e8664da6920fd7185ad8765ea295308d091a8d935e2e36801df2dc7e259` | `8d489882` |
 | `output/translations/genesis_23.json` | 20 | `002a9c94449e3d6ddf2ce20caa07fce314ffc9efc286c5cd24c353c916c3a2a7` | `b5437edd` |
 | `output/translations/genesis_24.json` | 67 | `7c626bb796686459df80126758633cf290a93380f96273ace2d92911ecac31c4` | `5b11107b` |
 | `output/translations/genesis_25.json` | 34 | `6e8f4f9cecebeb76e1694445e363a2aecd47b66cdb0a67c1db04b6b2d5f8fde3` | `2b412e80` |
@@ -852,7 +852,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/mark_02.json` | 28 | `75e16e8a1bb616ba798f61950a8cc59e85de5f71ac2b444a2488eda3663e0a9e` | `b64d4872` |
 | `output/translations/mark_03.json` | 35 | `b2a80434b5ce9f851023ebef90a5d6412b052666e1f0835e4c963cb8a595137c` | `d03c3a1a` |
 | `output/translations/mark_04.json` | 41 | `178b72481218e9b37ab6784397dbe7de7c6e1c547e3a2c904e22a62a5361096e` | `d03c3a1a` |
-| `output/translations/mark_05.json` | 43 | `d84ab9be5249a84c7b59b61b7adae3bacf90ac8bb4c581c86e5595ac0ffe3f4e` | `d03c3a1a` |
+| `output/translations/mark_05.json` | 43 | `aa34506046a8adfc027bc07ff4613e6682c6e7325eac65dceaeddadb46cdd48c` | `d03c3a1a` |
 | `output/translations/mark_06.json` | 56 | `838251c40aec91f61ce999809ef21348a9b3d8e1ef79124a61b86364353934d9` | `d03c3a1a` |
 | `output/translations/mark_07.json` | 36 | `916567451b0a79824a48c02e9bb6e14928636b945445627dad0f28d2dd54310e` | `d03c3a1a` |
 | `output/translations/mark_08.json` | 38 | `ce17a7620af506c0b1b84d89ae78855bd9686573fd1db3d708fa23f5e54571e6` | `d03c3a1a` |
