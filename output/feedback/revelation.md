@@ -1330,7 +1330,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**13** อบเชย เครื่องเทศ เครื่องหอม น้ำหอม กำยาน เหล้าองุ่น น้ำมันมะกอก แป้งสาลีละเอียด ข้าวสาลี วัวควาย แกะ ม้า รถม้า ทาส และจิตวิญญาณของมนุษย์
+**13** อบเชย เครื่องเทศ เครื่องหอม น้ำหอม กำยาน เหล้าองุ่น น้ำมันมะกอก แป้งสาลีละเอียด ข้าวสาลี วัวควาย แกะ ม้า รถม้า ทาส และชีวิตมนุษย์
 
 > ___
 
@@ -1755,7 +1755,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/revelation_15.json` | `e061f14ae65e905169cacff841b2b7480130623c4a126c4ad219ee09658925f6` |
 | `output/translations/revelation_16.json` | `348d0d42ebc5914b63538013fc51d4734b1d3439b145cacb5b991b3285851484` |
 | `output/translations/revelation_17.json` | `7b304e17a908d59d47f23ff95b88c8244a4fc1bd979a55fd6dc97e6ae7a34c6c` |
-| `output/translations/revelation_18.json` | `23b38341591e4140523e9b92d9475fe548cba3dd4cd7df47590b3cb50d79cae7` |
+| `output/translations/revelation_18.json` | `730f2f2e0d70615b08c9bdf6ee8cfc1d41e6a93c34369add93017e487948af85` |
 | `output/translations/revelation_19.json` | `436c1a1cac3ff62505f21e93e74cbde61e9de1692ae33f63150e906e419267df` |
 | `output/translations/revelation_20.json` | `0600d346ec939413358a3de1f7598c31b6d735595177d764ea788ba11e2959d9` |
 | `output/translations/revelation_21.json` | `15a9e81ba5a17a6c3e0c31574fefc37960ab7be51a7070b214915683cb1eda56` |

@@ -726,7 +726,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/john_06.json` | 71 | `bb2ec4511198ff2e8dfe30bcd04008cb6c5877d5550bd3097679f529c2463c94` | `d03c3a1a` |
 | `output/translations/john_07.json` | 53 | `1b5014ef16a79a27c6043f501c334bca88f8175cb0ef2fd11baed5664de17ddf` | `d03c3a1a` |
 | `output/translations/john_08.json` | 59 | `309b2d519e6db984cd8914fb2cc10a2698bf1362758b67c0ac94632c14b564e2` | `d03c3a1a` |
-| `output/translations/john_09.json` | 41 | `330a1294b6358b2842f71f240289d37f5ac4c6af86788836fe0b385f49dacffa` | `d03c3a1a` |
+| `output/translations/john_09.json` | 41 | `c46d566d2662ee27076e02502f6fdb1877f450b40653d5e5d62803161248149b` | `d03c3a1a` |
 | `output/translations/john_10.json` | 42 | `f878cde0f49d35383f1439f85f91c65f53a3684e9c8f06fd76eb5235a8f066e6` | `b64d4872` |
 | `output/translations/john_11.json` | 57 | `4497e6ea992c06571d3576a11e7c22698d332883ab957fe23d782592b6a03c70` | `cf6bd38f` |
 | `output/translations/john_12.json` | 50 | `d40995763190cca8abe073df7bd3b6b12b6ba1138a828f01c30057bf369662f3` | `cf6bd38f` |
@@ -1155,7 +1155,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/revelation_15.json` | 8 | `e061f14ae65e905169cacff841b2b7480130623c4a126c4ad219ee09658925f6` | `90956999` |
 | `output/translations/revelation_16.json` | 21 | `348d0d42ebc5914b63538013fc51d4734b1d3439b145cacb5b991b3285851484` | `b64d4872` |
 | `output/translations/revelation_17.json` | 18 | `7b304e17a908d59d47f23ff95b88c8244a4fc1bd979a55fd6dc97e6ae7a34c6c` | `01f2198a` |
-| `output/translations/revelation_18.json` | 24 | `23b38341591e4140523e9b92d9475fe548cba3dd4cd7df47590b3cb50d79cae7` | `b64d4872` |
+| `output/translations/revelation_18.json` | 24 | `730f2f2e0d70615b08c9bdf6ee8cfc1d41e6a93c34369add93017e487948af85` | `b64d4872` |
 | `output/translations/revelation_19.json` | 21 | `436c1a1cac3ff62505f21e93e74cbde61e9de1692ae33f63150e906e419267df` | `907d0b97` |
 | `output/translations/revelation_20.json` | 15 | `0600d346ec939413358a3de1f7598c31b6d735595177d764ea788ba11e2959d9` | `99f679e9` |
 | `output/translations/revelation_21.json` | 27 | `15a9e81ba5a17a6c3e0c31574fefc37960ab7be51a7070b214915683cb1eda56` | `e000e573` |
