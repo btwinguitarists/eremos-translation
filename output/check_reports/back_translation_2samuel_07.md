@@ -10,9 +10,9 @@ Mode: in-chat (Claude-produced back-translations) | Threshold: 0.35
 
 ## ℹ Low similarity — rationale documented (intentional divergence)
 
-- **2SA 7:10** (sim=0.28)
-  - Thai: และเราจะตั้งสถานที่สำหรับประชากรของเรา อิสราเอล และจะปลูกพวกเขา เพื่อพวกเขาจะอาศัยอยู่ใต้สถานที่ของตน และจะไม่ถูกรบกวนอีก และบุตรของความชั่วจะไม่ข่มเหงพวกเขาอีกเหมือนแต่ก่อน
-  - Back: And I will appoint a place for my people, for Israel, and I will plant him, and he shall dwell under it, and shall not be disturbed again; and the sons of wickedness shall not continue to oppress him as at the first,
+- **2SA 7:10** (sim=0.22)
+  - Thai: และเราจะตั้งสถานที่สำหรับประชากรของเรา อิสราเอล และจะปลูกพวกเขา เพื่อพวกเขาจะอาศัยอยู่ในที่ของตน และจะไม่ถูกรบกวนอีก และบุตรของความชั่วจะไม่ข่มเหงพวกเขาอีกเหมือนแต่ก่อน
+  - Back: I will appoint a place for my people Israel and plant them so they can dwell in their own place without further disturbance, and wicked people will no longer oppress them as before.
   - BSB:  And I will provide a place for My people Israel and will plant them so that they may dwell in a place of their own and be disturbed no more. No longer will the sons of wickedness oppress them as they did at the beginning
 - **2SA 7:17** (sim=0.27)
   - Thai: ตามทุกถ้อยคำเหล่านี้และตามนิมิตทั้งหมดนี้ นาธานพูดต่อดาวิด

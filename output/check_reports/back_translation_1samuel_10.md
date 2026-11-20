@@ -19,7 +19,7 @@ Mode: in-chat (Claude-produced back-translations) | Threshold: 0.35
   - Back: You shall pass on from there and go further, and you shall come to the oak of Tabor, and three men will find you there going up to God at Bethel — one bearing three young goats, and one bearing three loaves of bread, and one bearing a skin of wine.
   - BSB:  Then you will go on from there until you come to the Oak of Tabor. Three men going up to God at Bethel will meet you there, one carrying three young goats, another carrying three loaves of bread, and another carrying a skin of wine.
 - **1SA 10:5** (sim=0.03)
-  - Thai: ภายหลังเช่นนั้นเจ้าจะมาสู่เนินเขาของพระเจ้า ที่ซึ่งที่นั่นกลุ่มของฟิลิสเตีย และเป็นไปในการมาของเจ้าที่นั่นสู่เมือง และเจ้าจะพบกลุ่มของผู้เผยพระวจนะลงมาจากที่สูง และต่อพระพักตร์พวกเขาพิณ ปี่ขลุ่ย และพวกเขาพูดเป็นผู้เผยพระวจนะ
+  - Thai: ภายหลังเช่นนั้นเจ้าจะมาสู่เนินเขาของพระเจ้า ที่ซึ่งที่นั่นกลุ่มของฟิลิสเตีย และเป็นไปในการมาของเจ้าที่นั่นสู่เมือง และเจ้าจะพบกลุ่มของผู้เผยพระวจนะลงมาจากที่สูง และข้างหน้าพวกเขามีพิณใหญ่ รำมะนา ขลุ่ย และพิณเล็ก และพวกเขาพูดเป็นผู้เผยพระวจนะ
   - Back: After this you shall come to the hill of God, where there is a garrison of the Philistines, and it shall be at your coming there to the city, you shall meet a band of prophets coming down from the high place — and before them harp and tambourine and flute and lyre — and they shall be prophesying.
   - BSB:  After that you will come to Gibeah of God, where the Philistines have an outpost. As you approach the city, you will meet a group of prophets coming down from the high place, preceded by harps, tambourines, flutes, and lyres, and they will be prophesying.
 - **1SA 10:18** (sim=0.20)

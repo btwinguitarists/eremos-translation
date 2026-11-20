@@ -1562,7 +1562,7 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 > ___
 
-**7** กองทัพของเยโฮอาหาสไม่เหลืออะไรเลย นอกจากพลม้าห้าสิบ รถรบสิบคัน และทหารราบหนึ่งหมื่นคน เพราะกษัตริย์แห่งอารัมได้ทำลายล้างพวกเขาจนเป็นเหมือนผงคลีที่ใช้นวดข้าว
+**7** กองทัพของเยโฮอาหาสไม่เหลืออะไรเลย นอกจากพลม้าห้าสิบ รถรบสิบคัน และทหารราบหนึ่งหมื่นคน เพราะกษัตริย์แห่งอารัมได้ทำลายล้างพวกเขาจนเป็นเหมือนฝุ่นผงจากการนวดข้าว
 
 > ___
 
@@ -3247,7 +3247,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/2kings_10.json` | `5126ea91a9416cb6610a2f14b4886190f3cccea0486d46a4410604c2c48341c7` |
 | `output/translations/2kings_11.json` | `e67bf6699d709ad73cafd666b3a6e2eccbee2602b8dfd9947e02626265e66b2c` |
 | `output/translations/2kings_12.json` | `b3c1ceffbef6aebd2ef505bdfe2950c09255d0d58e84782434a7035e3183897b` |
-| `output/translations/2kings_13.json` | `724db74666c9887af176887724defd820dc1a3c094a1bb2a1f6b859f7074fce3` |
+| `output/translations/2kings_13.json` | `1284d076441813a66abc2c6710f05dcb1498db1186559eca93e12e98b4a5de76` |
 | `output/translations/2kings_14.json` | `5259066ba04986cb8eb7b53aa400779a44fc5de799dff6e87e3295941897bcdf` |
 | `output/translations/2kings_15.json` | `c802a176248bdad12ddff7707de2fa6eb248d009fc0e9894c0dd9468a56679e8` |
 | `output/translations/2kings_16.json` | `7f5827156abb03acb486d63c214a07ddfe387a84e388c5d7f466746ec5b0a4f0` |

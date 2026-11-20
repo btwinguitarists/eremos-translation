@@ -776,7 +776,7 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 > ___
 
-**10** และเราจะตั้งสถานที่สำหรับประชากรของเรา อิสราเอล และจะปลูกพวกเขา เพื่อพวกเขาจะอาศัยอยู่ใต้สถานที่ของตน และจะไม่ถูกรบกวนอีก และบุตรของความชั่วจะไม่ข่มเหงพวกเขาอีกเหมือนแต่ก่อน
+**10** และเราจะตั้งสถานที่สำหรับประชากรของเรา อิสราเอล และจะปลูกพวกเขา เพื่อพวกเขาจะอาศัยอยู่ในที่ของตน และจะไม่ถูกรบกวนอีก และบุตรของความชั่วจะไม่ข่มเหงพวกเขาอีกเหมือนแต่ก่อน
 
 > ___
 
@@ -1571,7 +1571,7 @@ _**บทที่ไม่มี Tetragrammaton** — โดดเด่นท�
 
 > ___
 
-**10** และกษัตริย์พูดว่า “ถ้าใครพูดต่อเจ้า จงนำเขามาหาข้า และเขาจะไม่ไปหาเจ้าอีก”
+**10** และกษัตริย์พูดว่า “ถ้าใครพูดต่อเจ้า จงนำเขามาหาข้า และเขาจะไม่แตะต้องเจ้าอีก”
 
 > ___
 
@@ -1962,7 +1962,7 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 > ___
 
-**4** และเรื่องนี้ดูถูกในตาของอับซาโลม และในตาของผู้อาวุโสทั้งหมดของอิสราเอล
+**4** อับซาโลมและผู้อาวุโสทั้งหมดของอิสราเอลเห็นชอบกับข้อเสนอนี้
 
 > ___
 
@@ -2187,7 +2187,7 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 > ___
 
-**28** และอาฮีมาอัสเรียกและพูดต่อกษัตริย์ว่า “สันติภาพ” และเขากราบไหว้กษัตริย์โดยคว่ำหน้าลงกับพื้น และเขาพูดว่า “ขอองค์พระผู้เป็นเจ้าพระเจ้าของท่านทรงได้รับการสรรเสริญ พระองค์ทรงปิดมือของชายทั้งหลายที่ยกมือของพวกเขาต่อเจ้านายของข้า กษัตริย์”
+**28** และอาฮีมาอัสเรียกและพูดต่อกษัตริย์ว่า “สันติภาพ” และเขากราบไหว้กษัตริย์โดยคว่ำหน้าลงกับพื้น และเขาพูดว่า “ขอองค์พระผู้เป็นเจ้าพระเจ้าของท่านทรงได้รับการสรรเสริญ พระองค์ทรงมอบชายทั้งหลายที่ยกมือของพวกเขาต่อเจ้านายของข้า กษัตริย์ ไว้ในเงื้อมมือของพระองค์”
 
 > ___
 
@@ -2606,7 +2606,7 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 > ___
 
-**21** และเมื่อเขาด่าอิสราเอล โยนาธานบุตรของชิเมอาห์น้องของดาวิดได้ตีเขา
+**21** และเมื่อเขาด่าอิสราเอล โยนาธานบุตรของชิเมอาห์พี่ชายของดาวิดได้ตีเขา
 
 > ___
 
@@ -3152,21 +3152,21 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/2samuel_04.json` | `76c934dc58461ad629e82f8e88f5d7981b72ce2c96e77c14495b5f076123ef0a` |
 | `output/translations/2samuel_05.json` | `dea69f3cef214ec13883fdff5e25faeba41ff03bbdec8b348fdffb56d3bd3b27` |
 | `output/translations/2samuel_06.json` | `b665f2b3f42669845e5802ed97433323ca4d4252e7327066be78c11b39ff38d9` |
-| `output/translations/2samuel_07.json` | `dbd7ed52ab3373a042af5f0f2b28d4d0d16235248d5bc53c49eaee667c34fecd` |
-| `output/translations/2samuel_08.json` | `1d12aa3aaa7cf9dadd665403be34c9bcee5f62257283aca9e07000305bd8a5da` |
+| `output/translations/2samuel_07.json` | `89c9a68395ea531042f37b81a9ac24c146cf5ee3466c6e845cff26b7b6e95c13` |
+| `output/translations/2samuel_08.json` | `1cdb192e2b9a1f2208d5bd40216886911d7f799b2257fc649dc64085b95b10d0` |
 | `output/translations/2samuel_09.json` | `788157cee7032f1deb05eda4a251f086a9621f69b50afc7ba62affefde9393dd` |
 | `output/translations/2samuel_10.json` | `9d7b1f91dc313e48c4cf473fd07581aa6239ad2358d93363cf0df658e3c201ff` |
-| `output/translations/2samuel_11.json` | `5f25fef0b38b3bc449aaef08088eba30d7b1c45eb19f252581388cf82a98e971` |
+| `output/translations/2samuel_11.json` | `b0dd17d58bb97331b9f94f594d0a1f51c70eef05f7a3852fd3b3effca8f3d92d` |
 | `output/translations/2samuel_12.json` | `b10dda3248c5d114675eab4196ec2345e5eba62580eff4856c3df82b5ac25451` |
 | `output/translations/2samuel_13.json` | `eb155ce958da1c7a4ba82727d4242dc9d0eac06e4a56fcbcf85948183f17b4c3` |
-| `output/translations/2samuel_14.json` | `73c461481b8382700a27d0d7aa0706e6256cdc317e2670fab9749e985bf8ddab` |
+| `output/translations/2samuel_14.json` | `72991f1e1a0104ef5b371bdae34c2557ef3b80be382ca7af1c53457d988394e8` |
 | `output/translations/2samuel_15.json` | `572c3fdac34018b1b3f057ce02c4cdd13f293c10956aedb63a666bd85b3725af` |
 | `output/translations/2samuel_16.json` | `df955e93d3a506861570f44dbd7f83dad6200cad5a5958e10ca411c6955dc17a` |
-| `output/translations/2samuel_17.json` | `a35c4d27cf3406f0631c8bede9a3bd5f9927c1d96e29b0368c702bc7d72635bb` |
-| `output/translations/2samuel_18.json` | `874bfe4f6de86b71aba92568233283443f76ff169a38beea9d7d6d0e53611cf3` |
+| `output/translations/2samuel_17.json` | `97a971a41bb185be127f141a1dfbd5ddf7cc00287d6dbed0823e5ac786b08806` |
+| `output/translations/2samuel_18.json` | `80a9ac134479f5270796c69c3c6d898e5659cfa92691076c63c3ac3edcdb4bb6` |
 | `output/translations/2samuel_19.json` | `a07d78de2e88a25655d2b17bd9c9719f34a8aeca223cb6be788f71c628c39c9f` |
 | `output/translations/2samuel_20.json` | `4bac9a65c770a57f863949f983fa88f58f32ee16663fa0da1eb15d23e703ed9b` |
-| `output/translations/2samuel_21.json` | `625950a38baf1bf4982e3b8e75c92b8f3c568e8a24c002d966212b4d32110ada` |
+| `output/translations/2samuel_21.json` | `147f56764916292188b2f31c4a634631b815fcf3266a19c7c15a5eb3b12d07b0` |
 | `output/translations/2samuel_22.json` | `fe8dc5b868c6062647b96880fe36c76ce8930af6d5efc49ad990e99b107c4986` |
 | `output/translations/2samuel_23.json` | `250bce9055f9874d6cd719954c1c3bbebe3f52ff3651631b177b42130fd2e06b` |
 | `output/translations/2samuel_24.json` | `5ae7d6998c2c2f29f28d3ba7753462bc25e4b96ec6d9e7f863f6f93e0844ab1f` |
