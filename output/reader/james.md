@@ -236,7 +236,7 @@ _This reader edition shows the Thai translation and the contextual summary (บ�
 
 **5** ท่านได้ใช้ชีวิตอย่างหรูหราบนแผ่นดินและตามใจตนเอง ท่านได้บำรุงเลี้ยงใจของท่านในวันแห่งการประหาร
 
-**6** ท่านได้ตัดสินลงโทษและฆ่าผู้ชอบธรรม เขามิได้ต่อต้านท่านเลย
+**6** ท่านได้ตัดสินลงโทษและฆ่าผู้ชอบธรรม มิได้ต่อต้านท่านหรือ?
 
 **7** เพราะฉะนั้น พี่น้องทั้งหลาย จงอดทนจนกว่าจะถึงการเสด็จมาขององค์พระผู้เป็นเจ้า ดูเถิด ชาวนารอคอยผลอันมีค่าของแผ่นดิน อดทนคอยจนกว่าจะได้รับฝนต้นฤดูและฝนปลายฤดู
 
@@ -280,5 +280,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/james_02.json` | `c6c0b5808e83e132014f1cc400e09bb69bc917cd60ae5b9beb4b2fe9fcd384e0` |
 | `output/translations/james_03.json` | `3808eccaa5550cc2fda97cd0dce2538331998823e416bf1c48ab042c3ba969d6` |
 | `output/translations/james_04.json` | `3b61bd19e8da7e5dd9c3681a31efbf7854e8f7fd8d20d47ffbc1a4f73289bf05` |
-| `output/translations/james_05.json` | `cdd0acb6927085b9b36656e407bea5164fc4efaf311e82378334632582f3ac55` |
+| `output/translations/james_05.json` | `b30a7742257b84b55d097f1c93c389f3289aeee4869727ec63d974e5917452ca` |
 

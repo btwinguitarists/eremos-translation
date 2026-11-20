@@ -98,7 +98,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**18** ขอองค์พระผู้เป็นเจ้าโปรดประทานให้เขาได้พบพระเมตตาจากองค์พระผู้เป็นเจ้าในวันนั้น และท่านเองก็รู้ดียิ่งกว่าใคร ๆ ว่าเขาได้ปรนนิบัติมากเพียงใดที่เมืองเอเฟซัส
+**18** ขอองค์พระผู้เป็นเจ้าโปรดประทานให้เขาได้พบพระเมตตาจากองค์พระผู้เป็นเจ้าในวันนั้น และท่านเองก็รู้เป็นอย่างดี ว่าเขาได้ปรนนิบัติมากเพียงใดที่เมืองเอเฟซัส
 
 > ___
 
@@ -178,7 +178,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**19** อย่างไรก็ดี รากฐานอันมั่นคงของพระเจ้านั้นยังคงตั้งอยู่ มีตราประทับเหล่านี้ คือ ‘องค์พระผู้เป็นเจ้าทรงรู้จักผู้ที่เป็นของพระองค์’ และ ‘ทุกคนที่ออกนามขององค์พระผู้เป็นเจ้าจงหันออกจากความอธรรม’
+**19** อย่างไรก็ดี รากฐานอันมั่นคงของพระเจ้านั้นยังคงตั้งอยู่ มีตราประทับนี้ คือ ‘องค์พระผู้เป็นเจ้าทรงรู้จักผู้ที่เป็นของพระองค์’ และ ‘ทุกคนที่ออกนามขององค์พระผู้เป็นเจ้าจงหันออกจากความอธรรม’
 
 > ___
 
@@ -310,7 +310,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**7** ข้าพเจ้าได้ต่อสู้อย่างดีในการต่อสู้นั้นแล้ว ข้าพเจ้าได้วิ่งจนสุดเส้นทางแล้ว ข้าพเจ้าได้รักษาความเชื่อไว้แล้ว
+**7** ข้าพเจ้าได้ต่อสู้ในศึกอันดีแล้ว ข้าพเจ้าได้วิ่งจนสุดเส้นทางแล้ว ข้าพเจ้าได้รักษาความเชื่อไว้แล้ว
 
 > ___
 
@@ -382,8 +382,8 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/2timothy_01.json` | `9a67a033324a48a65af170897b24050e6114d235ae51dccaecf5c1d8d7b6fb4c` |
-| `output/translations/2timothy_02.json` | `0556acc3c5c3e22ca3ce39906dd0d86d24b9b2268928c347a54bb642d0d4fa7f` |
+| `output/translations/2timothy_01.json` | `40b6b5dcd0877023b15553358530e99d8a2fe95795117755f761ce604ff03282` |
+| `output/translations/2timothy_02.json` | `5dd05395f5fa638576dcfd8dc9cd97351f0f8371f444b472f5db08dc1a49a508` |
 | `output/translations/2timothy_03.json` | `79f0809b00a8a5a4257cf8b0a6b2a7e27be13b2324d26020f6f8b78dc6955ee7` |
-| `output/translations/2timothy_04.json` | `54074762576c5b4e7c8e2f3ad2bccd8d89f6157aa4a90b50d5482131f5b65d43` |
+| `output/translations/2timothy_04.json` | `c819898bcc757a41aedaaec6692402d172c266b9122cff022bfe9c93eea3dcc7` |
 

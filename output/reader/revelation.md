@@ -220,7 +220,7 @@ _This reader edition shows the Thai translation and the contextual summary (บ�
 
 **9** และพวกเขาร้องเพลงใหม่ว่า “พระองค์ทรงสมควรที่จะรับหนังสือม้วนนี้และเปิดตราเหล่านั้น เพราะพระองค์ทรงถูกฆ่าและทรงไถ่คนเพื่อพระเจ้าด้วยพระโลหิตของพระองค์ จากทุกเผ่า ทุกภาษา ทุกชนชาติ และทุกประชาชาติ
 
-**10** และพระองค์ทรงทำให้พวกเขาเป็นราชอาณาจักรและปุโรหิตเพื่อพระเจ้าของเรา และพวกเขาจะปกครองบนแผ่นดินโลก”
+**10** และพระองค์ทรงทำให้พวกเขาเป็นราชอาณาจักรและปุโรหิตเพื่อพระเจ้าของเรา และพวกเขาปกครองบนแผ่นดินโลก”
 
 **11** และข้าพเจ้าได้มองดู และได้ยินเสียงของทูตสวรรค์มากมายรอบพระบัลลังก์ และสิ่งมีชีวิตและผู้อาวุโสทั้งหลาย และจำนวนของพวกเขาคือหมื่นแสนล้าน และพันแสนล้าน
 
@@ -644,7 +644,7 @@ _This reader edition shows the Thai translation and the contextual summary (บ�
 
 **16** และพวกมันได้รวบรวมกษัตริย์ทั้งหลายมาที่สถานที่ซึ่งในภาษาฮีบรูเรียกว่า อามาเกโดน
 
-**17** ทูตตนที่เจ็ดได้เทชามของตนลงในอากาศ และมีเสียงดังออกมาจากวิหารซึ่งมาจากพระบัลลังก์ กล่าวว่า “สำเร็จแล้ว”
+**17** ทูตตนที่เจ็ดได้เทชามของตนลงในอากาศ และมีเสียงดังออกมาจากพระบัลลังก์ในวิหาร กล่าวว่า “สำเร็จแล้ว”
 
 **18** และเกิดฟ้าแลบ เสียงต่าง ๆ ฟ้าร้อง และแผ่นดินไหวอย่างรุนแรง อย่างที่ไม่เคยเกิดขึ้นเลย ตั้งแต่มนุษย์มีอยู่บนแผ่นดินโลก แผ่นดินไหวใหญ่ขนาดนั้นและรุนแรงปานนั้น
 
@@ -674,7 +674,7 @@ _This reader edition shows the Thai translation and the contextual summary (บ�
 
 **8** สัตว์ร้ายที่ท่านเห็นนั้น เคยมีอยู่ และไม่มีอยู่ในขณะนี้ และกำลังจะขึ้นมาจากบ่อลึกที่ไม่มีก้น และกำลังเดินไปสู่ความพินาศ และคนที่อาศัยอยู่บนแผ่นดินโลก ผู้ที่ชื่อของเขาไม่ได้ถูกเขียนไว้ในหนังสือแห่งชีวิตตั้งแต่การวางรากฐานของโลก จะแปลกใจเมื่อเห็นสัตว์ร้าย ที่เคยมีอยู่ และไม่มีอยู่ในขณะนี้ และจะปรากฏอีก
 
-**9** ที่นี่ต้องใช้ความคิดที่มีปัญญา หัวทั้งเจ็ดนั้นคือภูเขาเจ็ดลูก ซึ่งหญิงคนนั้นนั่งอยู่บน และยังเป็นกษัตริย์เจ็ดองค์
+**9** ที่นี่ต้องใช้ความคิดที่มีปัญญา หัวทั้งเจ็ดนั้นคือภูเขาเจ็ดลูกที่หญิงคนนั้นนั่งอยู่ และยังเป็นกษัตริย์เจ็ดองค์
 
 **10** ห้าองค์ได้ล้มไปแล้ว องค์หนึ่งยังอยู่ และอีกองค์หนึ่งยังไม่ได้มา และเมื่อเขามา จำเป็นที่เขาจะต้องอยู่อีกเพียงไม่นาน
 
@@ -928,7 +928,7 @@ _This reader edition shows the Thai translation and the contextual summary (บ�
 
 **20** พระองค์ผู้ทรงเป็นพยานเรื่องสิ่งเหล่านี้ตรัสว่า “แน่นอน เราจะมาในไม่ช้า” อาเมน ข้าแต่องค์พระเยซูเจ้า ขอเสด็จมาเถิด
 
-**21** ขอพระคุณของพระเยซูคริสต์เจ้าจงสถิตอยู่กับทุกคนเถิด
+**21** ขอพระคุณของพระเยซูเจ้าจงสถิตอยู่กับทุกคนเถิด
 
 ---
 
@@ -942,7 +942,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/revelation_02.json` | `34c04ab7f8f52da24ef41ecddb52da127a965e13527f8ba1dd5253ecbce66f81` |
 | `output/translations/revelation_03.json` | `de1168bc82ddca79007fe137336e96916b34e4df50e98db433f047abca2b926a` |
 | `output/translations/revelation_04.json` | `78d0b639a8d1a6097e2811b34b82cb796e28a508c525e0f9ce45bbd5a730eeda` |
-| `output/translations/revelation_05.json` | `0f7e978c2bedab8c2e506a5ad906b350cdb2f6b002d64ac428696ece6c608ea7` |
+| `output/translations/revelation_05.json` | `31f3d79061f72fa82ff25022f4abc60ff3543bd34f5a972dd7d77bf71a60d076` |
 | `output/translations/revelation_06.json` | `ecc7021c3e2cc980cc4db2d20d2f34f829e080d0257ed0dc0915fb57c2455691` |
 | `output/translations/revelation_07.json` | `ca7074b2ee41a39ad95b5f0636136bc4fd69bc81da45e6385f01e4f2f6d964f8` |
 | `output/translations/revelation_08.json` | `c4268e45a1545725d7919495c46dc2764be36fc5cbd07755d0ed493fe273ff5c` |
@@ -953,11 +953,11 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/revelation_13.json` | `ec4dad9ee1201d12ccfc99138460beb96878edde1647c013c014f75a62ca18c9` |
 | `output/translations/revelation_14.json` | `259f7c0b679ed3b71734a855d58f5027205e2ec4e8a67bd2f60bd7884586ee38` |
 | `output/translations/revelation_15.json` | `e061f14ae65e905169cacff841b2b7480130623c4a126c4ad219ee09658925f6` |
-| `output/translations/revelation_16.json` | `348d0d42ebc5914b63538013fc51d4734b1d3439b145cacb5b991b3285851484` |
-| `output/translations/revelation_17.json` | `7b304e17a908d59d47f23ff95b88c8244a4fc1bd979a55fd6dc97e6ae7a34c6c` |
+| `output/translations/revelation_16.json` | `f7a5b9ead1c234eadc08be89705418a93d1474c5a1db1d7778eab1a92e9f191d` |
+| `output/translations/revelation_17.json` | `c8c905b3fdeb3e1c54aaa4120258461334319229a06e37b984fd9f412a6fd830` |
 | `output/translations/revelation_18.json` | `23b38341591e4140523e9b92d9475fe548cba3dd4cd7df47590b3cb50d79cae7` |
 | `output/translations/revelation_19.json` | `436c1a1cac3ff62505f21e93e74cbde61e9de1692ae33f63150e906e419267df` |
 | `output/translations/revelation_20.json` | `0600d346ec939413358a3de1f7598c31b6d735595177d764ea788ba11e2959d9` |
 | `output/translations/revelation_21.json` | `15a9e81ba5a17a6c3e0c31574fefc37960ab7be51a7070b214915683cb1eda56` |
-| `output/translations/revelation_22.json` | `981b8e5b169aec801ab134a85969c2764784c2e16042997c400c11989b4fa262` |
+| `output/translations/revelation_22.json` | `4729abbd197217fb2dc9cda6080ddd05677be21c16bfc77068a24fdba8c34a6c` |
 
