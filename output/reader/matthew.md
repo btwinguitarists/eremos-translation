@@ -2744,7 +2744,7 @@ _This reader edition shows the Thai translation and the contextual summary (บ�
 
 **5** แต่พวกเขากลับเพิกเฉยแล้วต่างแยกย้ายจากไป บางคนไปยังที่นาของตน บางคนก็ไปทำธุรกิจของตน
 
-**6** ส่วนคนที่เหลือก็จับเหล่าทาสของพระองค์ บ้างก็ทำร้าย บ้างก็ฆ่าเสีย
+**6** ส่วนคนที่เหลือก็จับเหล่าทาสของพระองค์ ทำร้ายแล้วฆ่าพวกเขาเสีย
 
 **7** พระราชาทรงพระพิโรธจึงทรงส่งกองทหารของพระองค์ไปทำลายพวกฆาตกรเหล่านั้น และเผาเมืองของพวกเขาเสีย
 
@@ -3777,7 +3777,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/matthew_19.json` | `e62f2c83c89313820a3c4129a6d39f811605f971480f95a7ab305bb25de008f2` |
 | `output/translations/matthew_20.json` | `b67a2824d2cef6c436bf084dd9222e434704eaca46a2954b957d96cfeecfced2` |
 | `output/translations/matthew_21.json` | `e8f72e838ef30e94c32445b65b7b3602570cc3606a3902e21abe00534169663c` |
-| `output/translations/matthew_22.json` | `ca2e2994c7d4470509814af90f6453cb755181e05520c15411f58fd659ecfe52` |
+| `output/translations/matthew_22.json` | `513ea5ea4ce30dd66f09498eddc05fddfcbb35ae30d0fc40ce72b55e8747930f` |
 | `output/translations/matthew_23.json` | `8176f9e88a71cebebdf45cd04616533250146269db716602e244a9b0d70e4e2d` |
 | `output/translations/matthew_24.json` | `ada58f853c32f488f98347b1cfcfb2ed5ec534b67997cefff27d43ffc4355871` |
 | `output/translations/matthew_25.json` | `04250d34fe21b6fb4b0cd91d68ce3ff12b23cd60eb1b01d322d64125f64e3c28` |

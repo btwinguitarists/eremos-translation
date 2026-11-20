@@ -551,7 +551,7 @@
     "greek": "Διδάσκαλε,Μωϋσῆς ἔγραψεν ἡμῖν ὅτι ἐάν τινος ἀδελφὸς ἀποθάνῃ καὶ καταλίπῃ γυναῖκα καὶ μὴ ἀφῇ τέκνον,ἵνα λάβῃ ὁ ἀδελφὸς αὐτοῦ τὴν γυναῖκα καὶ ἐξαναστήσῃ σπέρμα τῷ ἀδελφῷ αὐτοῦ.",
     "bsb_english": "\"Teacher, Moses wrote for us that if a man's brother dies and leaves a wife but no children, the man is to marry his brother's widow and raise up offspring for him.",
     "translation": {
-      "thai": "“อาจารย์ โมเสสได้เขียนสั่งเราไว้ว่า ‘ถ้าพี่ชายของใครตายและมีภรรยาอยู่โดยไม่มีบุตร ให้น้องชายของเขารับภรรยาของผู้ตายมาเป็นภรรยา และให้มีบุตรสืบสกุลให้แก่พี่ชายของตน’",
+      "thai": "“อาจารย์ โมเสสได้เขียนสั่งเราไว้ว่า ‘ถ้าชายคนหนึ่งตายและมีภรรยาอยู่โดยไม่มีบุตร ให้พี่น้องชายของเขารับภรรยาของผู้ตายมาเป็นภรรยา และให้มีบุตรสืบสกุลให้แก่ผู้ตาย’",
       "thai_literal": null,
       "thai_summary": "กฎหมายเรียกว่า ‘เลวีเรต’ (levirate marriage) บันทึกในเฉลยธรรมบัญญัติ 25:5-6 เมื่อพี่ชายตายโดยไม่มีลูก น้องชายต้องแต่งงานกับภรรยาที่เป็นม่ายของพี่เพื่อสืบตระกูลของผู้ตาย ไม่ให้สูญสิ้น",
       "key_decisions": [
@@ -562,8 +562,8 @@
         },
         {
           "greek": "ἐάν τινος ἀδελφὸς ἀποθάνῃ...ἐξαναστήσῃ σπέρμα τῷ ἀδελφῷ αὐτοῦ",
-          "thai": "‘ถ้าพี่ชายของใครตาย...ให้มีบุตรสืบสกุลให้แก่พี่ชายของตน’",
-          "rationale": "OT SUMMARY of Deut 25:5 LXX (not verbatim; Mark renders a condensed paraphrase of the levirate statute, per uW TN 12:19). σπέρμα as offspring-metaphor = Thai บุตรสืบสกุล ('offspring-to-continue-lineage') — renders both the 'seed' sense and the patrilineal-continuity purpose explicit, aligning with Deuteronomic function. ἐξανίστημι (egress-causative) 'raise-up' → Thai ให้มี ('cause-to-have') — natural Thai way to express 'bring-about-offspring.' Since this is a paraphrase, not verbatim LXX, the guillemets mark the citation-unit but do not imply word-for-word LXX fidelity. Closes with ’."
+          "thai": "‘ถ้าชายคนหนึ่งตาย...ให้มีบุตรสืบสกุลให้แก่ผู้ตาย’",
+          "rationale": "No seniority restriction in the general rule."
         }
       ],
       "notes": "OT CITATION (paraphrased): Deut 25:5–6 (with possible echo of Gen 38:8 regarding Onan / Tamar). Mark's Greek differs from LXX Deut 25:5 in vocabulary (ἐάν...ἀδελφός where LXX has ἐὰν δὲ κατοικῶσιν ἀδελφοὶ ἐπὶ τὸ αὐτὸ..., etc.), so this is Sadducee-summary not LXX-verbatim. The Deuteronomic law required the surviving brother (or nearest kinsman — cf. Ruth 3–4) to marry the widow so the dead brother's name would not be blotted out. This law, pre-supposing finitude-of-this-life-only, is the Sadducees' apologetic ground for denying resurrection: Torah treats death as genealogical-erasure requiring human workaround. If dead people live again, why bother with levirate marriage? Jesus will answer both the underlying question (v.25, angel-likeness) and the Torah-reading (v.26, Exod 3:6). Added Deut 25:5 to nt_ot_citations.json."

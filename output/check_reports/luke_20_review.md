@@ -10,6 +10,9 @@
 | Thai-summary coverage (info) | ✅ clean | [summary_coverage_luke_20.md](summary_coverage_luke_20.md) |
 | Claim consistency (hallucination) | ✅ clean | [claim_consistency_luke_20.md](claim_consistency_luke_20.md) |
 | Greek-field integrity | ✅ clean | [greek_field_integrity_luke_20.md](greek_field_integrity_luke_20.md) |
+| Phrase consistency (corpus-wide) | ✅ clean | [phrase_consistency.md](phrase_consistency.md) |
+| unfoldingWord wording (license gate) | ✅ clean | [uw_wording_luke_20.md](uw_wording_luke_20.md) |
+| NT honorifics (royal register) | ✅ clean | [nt_honorifics_luke_20.md](nt_honorifics_luke_20.md) |
 
 ## Ship criterion
 
