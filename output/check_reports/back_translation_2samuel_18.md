@@ -5,8 +5,8 @@ Mode: in-chat (Claude-produced back-translations) | Threshold: 0.35
 - Verses checked: 32
 - Missing back-translations: **0**
 - Flagged (low similarity AND no rationale): **0**
-- Low similarity but with rationale: 6
-- Acceptable similarity: 26
+- Low similarity but with rationale: 5
+- Acceptable similarity: 27
 
 ## ℹ Low similarity — rationale documented (intentional divergence)
 
@@ -30,11 +30,7 @@ Mode: in-chat (Claude-produced back-translations) | Threshold: 0.35
   - Thai: และอาฮีมาอัสบุตรของศาโดกอีกครั้งและพูดต่อโยอาบว่า “ขอให้เป็นอะไรก็ตาม ขอให้ข้าวิ่งไปด้วยตามหลังชาวคูช” และโยอาบพูดว่า “บุตรของข้า ทำไมเจ้าจะวิ่ง เพราะแก่เจ้าไม่มีข่าวดีที่จะได้รับ”
   - Back: And Ahimaaz son of Zadok added again and said to Joab, 'And let it be whatever — please let me also run, even I, behind the Cushite.' And Joab said, 'Why is this — you running, my son? — and for you there is no good news finding.'
   - BSB:  Ahimaaz son of Zadok, however, persisted and said to Joab, “No matter what, please let me also run behind the Cushite!” “My son,” Joab replied, “why do you want to run, since you will not receive a reward?”
-- **2SA 18:28** (sim=0.32)
-  - Thai: และอาฮีมาอัสเรียกและพูดต่อกษัตริย์ว่า “สันติภาพ” และเขากราบไหว้กษัตริย์โดยคว่ำหน้าลงกับพื้น และเขาพูดว่า “ขอองค์พระผู้เป็นเจ้าพระเจ้าของท่านทรงได้รับการสรรเสริญ พระองค์ทรงปิดมือของชายทั้งหลายที่ยกมือของพวกเขาต่อเจ้านายของข้า กษัตริย์”
-  - Back: And Ahimaaz called and said to the king, 'Peace.' And he bowed down to the king with his face to the ground; and he said, 'Blessed be the LORD your God, who has shut up the men who lifted their hand against my lord the king.'
-  - BSB:  Then Ahimaaz called out to the king, “All is well!” And he bowed facedown before the king. He continued, “Blessed be the LORD your God! He has delivered up the men who raised their hands against my lord the king.”
 
 ## Acceptable
 
-26 verses passed the similarity threshold without issue.
+27 verses passed the similarity threshold without issue.

@@ -487,7 +487,7 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 > ___
 
-**11** และที่นั่นข้าได้จัดที่ไว้สำหรับหีบ ซึ่งในหีบนั้นมีพันธสัญญาขององค์พระผู้เป็นเจ้าที่ทรงทำไว้กับชนอิสราเอล”
+**11** และข้าได้ตั้งหีบไว้ที่นั่น ซึ่งในหีบนั้นมีพันธสัญญาขององค์พระผู้เป็นเจ้าที่ทรงทำไว้กับชนอิสราเอล”
 
 > ___
 
@@ -3799,7 +3799,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/2chronicles_03.json` | `18e595faee8fd0a5055a7ae55a6183650922d9a0186b8ae6ee7856d21385f89b` |
 | `output/translations/2chronicles_04.json` | `5251559ae56c8c34229345e7803d0a6aec38e8adb864132fc3ec08e12affbca9` |
 | `output/translations/2chronicles_05.json` | `2de1aef37cdb3124b7b792107134ef7a3348e5368ba25bf93ba141c6f9a785ed` |
-| `output/translations/2chronicles_06.json` | `4a70fc98d0a79342f124438f9fc6db506f0ef020c165bb1cd2b97de347b98b85` |
+| `output/translations/2chronicles_06.json` | `21370ce854392821b7a4622b1830e142a47b0147d9811745d0c2728cc6177760` |
 | `output/translations/2chronicles_07.json` | `0519dcc7845d664fa10153dadfbace52b0a96f0b433eba0d72e7e212f79da565` |
 | `output/translations/2chronicles_08.json` | `37c4cd6d791d8324424f626c5b3a9ad5ceae6d46c247c12f12afac99e3e34e2c` |
 | `output/translations/2chronicles_09.json` | `6e0159841085b5a4bd0bed9d95c1105e2885807a2c9ab17822d5abd26ed81208` |

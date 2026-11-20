@@ -733,7 +733,7 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 > ___
 
-**3** “ท่านก็ทราบว่าดาวิดบิดาของข้าไม่สามารถสร้างพระนิเวศเพื่อพระนามขององค์พระผู้เป็นเจ้าพระเจ้าของพระองค์ได้ เพราะการสงครามที่ล้อมรอบพระองค์อยู่ จนกว่าองค์พระผู้เป็นเจ้าทรงปราบศัตรูเหล่านั้นไว้ใต้ท่านของพระองค์
+**3** “ท่านก็ทราบว่าดาวิดบิดาของข้าไม่สามารถสร้างพระนิเวศเพื่อพระนามขององค์พระผู้เป็นเจ้าพระเจ้าของพระองค์ได้ เพราะการสงครามที่ล้อมรอบพระองค์อยู่ จนกว่าองค์พระผู้เป็นเจ้าทรงปราบศัตรูเหล่านั้นไว้ใต้ฝ่าพระบาทของพระองค์
 
 > ___
 
@@ -3607,7 +3607,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/1kings_02.json` | `3841525fa1e7b9f5a1a8229af9a7e632aadec6ad52c18e04e5b5ca0ec4e79d86` |
 | `output/translations/1kings_03.json` | `f048e76835ff0397efe85db8aadf508bde4cb9959acf878febddb0d8b5cb1b3f` |
 | `output/translations/1kings_04.json` | `00f59218fbdd252155e3ca3f1cb18e044037e9cf67da643cb5374652e6f005d9` |
-| `output/translations/1kings_05.json` | `85f1b119efd49dcf5dbbe538dea894d76fd3f5a490ffaf3c19a0ccea1a7963e3` |
+| `output/translations/1kings_05.json` | `1b24d655ff896e6c5c2c521868b63661a77d8f8b80ccdbee0686359200f2957e` |
 | `output/translations/1kings_06.json` | `16605b3ca8ab92bfb46e499cee6b728a5ffcc5a4661f1c093daa68e20f5b6ed1` |
 | `output/translations/1kings_07.json` | `7488ee2278ad002c7d4d0b1dbb7e6ae83e3f3c2b87e60661b085385c3afb21ac` |
 | `output/translations/1kings_08.json` | `00812617bb2be3e3e76b8c993692f5126a9b922330351c2f0fb05757457c6849` |

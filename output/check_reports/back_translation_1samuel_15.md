@@ -11,7 +11,7 @@ Mode: in-chat (Claude-produced back-translations) | Threshold: 0.35
 ## ℹ Low similarity — rationale documented (intentional divergence)
 
 - **1SA 15:6** (sim=0.09)
-  - Thai: และซาอูลพูดต่อชาวเคไนต์ว่า “จงไป จงออกไป จงลงไปจากท่ามกลางชาวอามาเลก เพราะข้าจะไม่กวาดเจ้าออกไปด้วยกัน เพราะเจ้าได้แสดงความรักมั่นคงต่อลูกหลานอิสราเอลทั้งหมด เมื่อพวกเขาขึ้นมาจากอียิปต์” และชาวเคไนต์ย้ายออกจากท่ามกลางชาวอามาเลก
+  - Thai: และซาอูลพูดต่อชาวเคไนต์ว่า “จงไป จงออกไป จงลงไปจากท่ามกลางชาวอามาเลก เกรงว่าข้าจะกวาดล้างพวกเจ้าไปพร้อมกับพวกเขา เพราะเจ้าได้แสดงความรักมั่นคงต่อลูกหลานอิสราเอลทั้งหมด เมื่อพวกเขาขึ้นมาจากอียิปต์” และชาวเคไนต์ย้ายออกจากท่ามกลางชาวอามาเลก
   - Back: And Saul said to the Kenite, 'Go, depart, go down from the midst of the Amalekites, lest I sweep you away with him. For you showed steadfast-love to all the sons of Israel when they came up from Egypt.' So the Kenite departed from the midst of Amalek.
   - BSB:  And he warned the Kenites, “Since you showed kindness to all the Israelites when they came up out of Egypt, go on and get away from the Amalekites. Otherwise I will sweep you away with them.” So the Kenites moved away from the Amalekites.
 - **1SA 15:22** (sim=0.17)
