@@ -771,7 +771,7 @@ _**ข้อ 16-17 — ‘ผู้เลี้ยงไร้ค่า’:** �
 
 > _บริบท: การไว้ทุกข์ครั้งใหญ่: ทั้งแผ่นดินจะคร่ำครวญ ทีละตระกูลแยกกัน (ราชวงศ์ดาวิด นาธัน เลวี ชิเมอี และตระกูลอื่นทั้งหมด)—ความโศกเศร้าที่ลึกซึ้งและเป็นส่วนตัวของแต่ละครอบครัว_
 
-**13** ตระกูลราชวงศ์เลวีต่างหาก และภรรยาของพวกเขาต่างหาก ตระกูลของชิเมอีต่างหาก และภรรยาของพวกเขาต่างหาก
+**13** ตระกูลเลวีต่างหาก และภรรยาของพวกเขาต่างหาก ตระกูลของชิเมอีต่างหาก และภรรยาของพวกเขาต่างหาก
 
 **14** และบรรดาตระกูลที่เหลืออยู่ทั้งหมด แต่ละตระกูลก็จะคร่ำครวญต่างหากกัน และภรรยาของพวกเขาก็ต่างหากกัน
 
@@ -955,7 +955,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/zechariah_09.json` | `9903783ad25e0d32a987cae6079a040bea1aa3ebaabaa4a53d18b812111298f4` |
 | `output/translations/zechariah_10.json` | `e6147757e40a6c75a502ffbc7132958b97d7b528337e512db30b15d33f954424` |
 | `output/translations/zechariah_11.json` | `fd060da6a49668ee11c24bc3d59b884be81de96af9f3b1c73a76cee1ba7c553b` |
-| `output/translations/zechariah_12.json` | `7650a24c3df6115d83f47a1c17229c2a8bbac3231defbcceb104c8940abe419d` |
+| `output/translations/zechariah_12.json` | `2a233a52ee7a108de348adb07333d188810fd625b6e8fb31923613c576786c80` |
 | `output/translations/zechariah_13.json` | `c4543f2bd974a3a04a64317c7d4bab8fa24848a7286b8dfe4adaae07ece8ed75` |
 | `output/translations/zechariah_14.json` | `edf60a19b83619579a14767a584ba872cfcbc34ca9f98ab2440c5ad7dc7f8c17` |
 

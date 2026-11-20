@@ -332,7 +332,7 @@ _‘จงระแวดระวังรักษาใจของเจ้�
 
 **3** แม้ริมฝีปากของหญิงชั่วจะหยาดความหวานดุจน้ำผึ้ง และวาจาของนางลื่นยิ่งกว่าน้ำมัน
 
-**4** แต่ในที่สุดนางขมยิ่งกว่าบอระเพ็ด และคมยิ่งกว่าดาบสองคม
+**4** แต่ในที่สุดนางขมเหมือนบอระเพ็ด และคมเหมือนดาบสองคม
 
 **5** เท้าของนางก้าวลงสู่ความตาย ย่างก้าวของนางมุ่งตรงสู่แดนคนตาย
 
@@ -972,7 +972,7 @@ _‘คนชอบธรรมเอาใจใส่ชีวิตของ�
 
 **11** ทรัพย์ที่ได้มาโดยทุจริตจะร่อยหรอลง แต่สิ่งที่ได้มาด้วยการทำงานหนักจะทวีขึ้น
 
-**12** ความหวังที่เลื่อนลอยทำให้ใจป่วยไข้ แต่ความปรารถนาที่สมหวังเป็นต้นไม้แห่งชีวิต
+**12** ความหวังที่ต้องรอคอยนานทำให้ใจป่วยไข้ แต่ความปรารถนาที่สมหวังเป็นต้นไม้แห่งชีวิต
 
 **13** ผู้ที่ดูหมิ่นคำสั่งสอนจะต้องชดใช้ แต่ผู้ที่เคารพคำบัญชาจะได้รับบำเหน็จ
 
@@ -1219,7 +1219,7 @@ _‘เครื่องบูชาของคนชั่วเป็นท�
 
 **10** คำตัดสินอันศักดิ์สิทธิ์อยู่ที่ริมฝีปากของกษัตริย์ ปากของท่านต้องไม่ทรยศต่อความยุติธรรม
 
-**11** ตราชั่งและตุ้มน้ำหนักที่เที่ยงตรงมาจากองค์พระผู้เป็นเจ้า ลูกตุ้มทั้งหมดในถุงล้วนเป็นสิ่งที่พระองค์ทรงห่วงใย
+**11** ตราชั่งและตุ้มน้ำหนักที่เที่ยงตรงมาจากองค์พระผู้เป็นเจ้า ลูกตุ้มทั้งหมดในถุงล้วนเป็นผลงานของพระองค์
 
 **12** การประพฤติชั่วเป็นที่น่ารังเกียจสำหรับกษัตริย์ เพราะบัลลังก์ตั้งมั่นอยู่ได้ด้วยความชอบธรรม
 
@@ -1401,7 +1401,7 @@ _‘ใจที่ชื่นบานเป็นยาดี แต่จิ
 
 **19** พี่น้องที่ขุ่นเคืองใจยากจะเอาชนะได้ยิ่งกว่าเมืองป้อมปราการ และการวิวาทก็เป็นเหมือนดาลประตูป้อม
 
-**20** ปากของคนเราทำให้ท้องของเขาอิ่ม ผลที่ได้จากริมฝีปากของเขาทำให้เขาพอใจ
+**20** ผลจากปากของคนเราทำให้ท้องของเขาอิ่ม ผลที่ได้จากริมฝีปากของเขาทำให้เขาพอใจ
 
 **21** ความเป็นและความตายอยู่ที่อำนาจของลิ้น และผู้ที่รักลิ้นก็จะกินผลของมัน
 
@@ -2505,7 +2505,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/proverbs_02.json` | `2df6b33d35f0755ccfa48239450167199fc0adec1df40da276a3d32c53ce7a4e` |
 | `output/translations/proverbs_03.json` | `43d5bb65497076352c42ed5499d24b43c0011f03eb275ecb6f7ac67ac5b0e0e2` |
 | `output/translations/proverbs_04.json` | `abcff5cf18855e133d03b7ddf05b08a965719d00eb94a38f421f3530c51bd536` |
-| `output/translations/proverbs_05.json` | `39d79518452912508ed0e4c375550a46236f741b3ec5a5cb11e6cb5a72f46046` |
+| `output/translations/proverbs_05.json` | `c5631ac87999d0be569464a6959f465352b083562487a56fc1a817b05e9fc640` |
 | `output/translations/proverbs_06.json` | `09b0a83a3bb38d2cfdb089c0082e485cd21f093252fc3294977d28af59278da4` |
 | `output/translations/proverbs_07.json` | `f7c0580481016cabdbbec67d81e8df3a731b21279d5d6cd70a9941bc3a4221ef` |
 | `output/translations/proverbs_08.json` | `169dbfbd716d110a38e6219bb1b730b1b9f02c7c61d3f5099f0458bde7a9ef23` |
@@ -2513,12 +2513,12 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/proverbs_10.json` | `e67de021bcdfc3ad17a9421a5e7a136cf26a7e8de77e56aa84e9fb9f925af275` |
 | `output/translations/proverbs_11.json` | `35bba58dea601a8082df25efd8b5affb932469389cd739ef469006d35cb3348f` |
 | `output/translations/proverbs_12.json` | `c58d219f3d18efc8198fdc46065afebfff5e6eff86abc7aac4e8bef38d1dbb87` |
-| `output/translations/proverbs_13.json` | `af4858cbcf7bc7fae5cce88985b9cb8badea1c4d9de95e54acfe1d320aac0cc4` |
+| `output/translations/proverbs_13.json` | `f32bc78f972a9c53379ba38732058425e45159a947a8281e857d64b1c8cfbc01` |
 | `output/translations/proverbs_14.json` | `4c2b82ed5843104767c9ec9b8eee567630de7567af1958ccfb9258757f1ded7a` |
 | `output/translations/proverbs_15.json` | `7c9e7d777b625f60df28c4c63fd7368489191262469f200b087e3b54b37895a4` |
-| `output/translations/proverbs_16.json` | `093802a9087d282d11f87b5451d8c0d73cc44aada48e6b96e2a2e5d06c067f6c` |
+| `output/translations/proverbs_16.json` | `9332a90857d8de28adbcbd5b1acf7d0bbe5f5b6d38d273dd04d6a9a9104311f2` |
 | `output/translations/proverbs_17.json` | `dc4ed4bcd6bc4b1a211c6c912279410edefb86b0b05b5b08f95487efbed8e6f8` |
-| `output/translations/proverbs_18.json` | `e67617530ef9f429a875d2ecf8c73009e13d52b5a50273aba65f380c4b061be8` |
+| `output/translations/proverbs_18.json` | `72d6ff2e435116d481201f5a83b45871da916173cb96b23c48e5fdcc0273c558` |
 | `output/translations/proverbs_19.json` | `1c64ae1526cf54f8a11be3a5fb0b5a661d32a07988eeb2f1238e861df9c116bf` |
 | `output/translations/proverbs_20.json` | `e38e2e68f6500289ce28049918437c266db3183f049d9834913b18f11ee2e9c9` |
 | `output/translations/proverbs_21.json` | `440217eeef5a2b34156276d9017327d269e2bf3d785dcdea4b18e8cfc943cd6d` |

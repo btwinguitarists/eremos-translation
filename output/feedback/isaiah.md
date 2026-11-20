@@ -1731,7 +1731,7 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 > ___
 
-**20** และสิ่งนั้นจะเป็นหมายสำคัญและพยานแด่องค์พระผู้เป็นเจ้าจอมโยธาในแผ่นดินอียิปต์ เมื่อพวกเขาร้องทูลต่อองค์พระผู้เป็นเจ้าเพราะเหตุผู้กดขี่ พระองค์จะทรงส่งพระผู้ช่วยให้รอดและผู้ปกป้องมาให้พวกเขา และจะทรงช่วยพวกเขาให้รอดพ้น
+**20** และสิ่งนั้นจะเป็นหมายสำคัญและพยานแด่องค์พระผู้เป็นเจ้าจอมโยธาในแผ่นดินอียิปต์ เมื่อพวกเขาร้องทูลต่อองค์พระผู้เป็นเจ้าเพราะเหตุผู้กดขี่ พระองค์จะทรงส่งผู้ช่วยให้รอดและผู้ปกป้องมาให้พวกเขา และจะทรงช่วยพวกเขาให้รอดพ้น
 
 > ___
 
@@ -1999,7 +1999,7 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 ## บทที่ 23
 
-**1** เรือทารชิชเอ๋ย จงโหยไห้เถิด เพราะไทระถูกทำลายล้าง จนไม่เหลือบ้านเรือนหรือท่าจอด ข่าวนี้มาถึงพวกเขาจากแผ่นดินคิทธีม
+**1** ครุวาทว่าด้วยไทระ เรือทารชิชเอ๋ย จงโหยไห้เถิด เพราะไทระถูกทำลายล้าง จนไม่เหลือบ้านเรือนหรือท่าจอด ข่าวนี้มาถึงพวกเขาจากแผ่นดินคิทธีม
 
 > ___
 
@@ -4370,7 +4370,7 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 > ___
 
-**6** พวกเขาเทท้องคำออกจากถุง และชั่งเงินบนตาชั่ง พวกเขาจ้างช่างทองให้ทำมันขึ้นเป็นพระ แล้วพวกเขาก็กราบลงนมัสการมัน
+**6** พวกเขาเททองคำออกจากถุง และชั่งเงินบนตาชั่ง พวกเขาจ้างช่างทองให้ทำมันขึ้นเป็นพระ แล้วพวกเขาก็กราบลงนมัสการมัน
 
 > ___
 
@@ -6108,11 +6108,11 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/isaiah_16.json` | `3ed556695acfa1043e170f524ab89d5d4debd29b6a8e04fd40fb7d382c3ff81d` |
 | `output/translations/isaiah_17.json` | `6d5cdaae5401c4715b6d0109fd5025666ab814d728876ec1a7fd2c3f255a8e38` |
 | `output/translations/isaiah_18.json` | `4ed8b97239d84eef4afdda81c7e71ba93f179971a7dd47588e73f74708ce79b6` |
-| `output/translations/isaiah_19.json` | `b20d52e91c89c64de5d5ae8e832f75be69b0c22843320238e8d45fb815422a56` |
+| `output/translations/isaiah_19.json` | `02b32f2cdd9078a34f8db02a410ff0018396010cffd9765bb62771abdaacaa13` |
 | `output/translations/isaiah_20.json` | `46d6a2be5b7fe027d602a804fd7ecddcfe3c34a6fcc2cd31754e86da581e0a3a` |
 | `output/translations/isaiah_21.json` | `97bf4edb42482b6a1f28f783ac1e14a5b25ce36600267fab71191c19dd0311ff` |
 | `output/translations/isaiah_22.json` | `297838407622833ae748c2ed36517fc86a87659f08ea9803529ac98721400703` |
-| `output/translations/isaiah_23.json` | `9e57d6849800e7c7885f3bc13378aaf66fdff0e9435602dc0f41fd174da5a592` |
+| `output/translations/isaiah_23.json` | `f475a21f9f8192c3adc96f41e0ebe7c9ae951e4d2b66ca71db1d50b076ee699a` |
 | `output/translations/isaiah_24.json` | `37fa7e91cd6107ca6fbdab08f8b1aa9c85f501439bfa6423549e63b7d5fbc19c` |
 | `output/translations/isaiah_25.json` | `13f38dc6499c1d4e299e1812cb5e4bebb758483b4ba647a1337b066ef2e8f481` |
 | `output/translations/isaiah_26.json` | `5c40b8e194cff24a5b2dfb1e461f68d730f2b033f2388e78a3b554d791b81bf9` |
@@ -6135,7 +6135,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/isaiah_43.json` | `099d2bc4542d1777ee96dc8aef53214512a7db926d9c2f416adae3deabd94560` |
 | `output/translations/isaiah_44.json` | `27a1db23de2c4e57c8d08d13c38bc0355afdf61065e3b752c6c585048e61f9e9` |
 | `output/translations/isaiah_45.json` | `27525b57804889a0ad175c2f253ac9117b65c9503caa92421ecf36afc4d2e11d` |
-| `output/translations/isaiah_46.json` | `6262a30cc2a3bce50d61bc3fa7ddfc93dee7c6789a72a2e6f33ce4156254c3b9` |
+| `output/translations/isaiah_46.json` | `4c16facc26b66619085755a5e7c2e2c0c2e5bd7024643cc37a723c83e20373ee` |
 | `output/translations/isaiah_47.json` | `85ac0e6924c8681b9763db6da045453ba9f374643c018ac15440bc3d4b3a6e7c` |
 | `output/translations/isaiah_48.json` | `1812e6a78a3572de523632083a3602352a8e113df2c0bc72190f3e42025e0c9f` |
 | `output/translations/isaiah_49.json` | `102903b4640504752831a43ce3a43c67b314148f5c7135ae81741b4e0817c811` |

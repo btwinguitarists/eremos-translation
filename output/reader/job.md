@@ -944,7 +944,7 @@ _ข้อนี้มีข้อความฮีบรูที่ต่า�
 
 **9** เพียงได้กลิ่นไอน้ำ มันก็จะผลิหน่อและแตกกิ่งก้านดุจต้นกล้า
 
-**10** แต่มนุษย์เมื่อตายก็ถูกฝังลง เขาสิ้นลมหายใจแล้วเขาอยู่ที่ไหนเล่า
+**10** แต่มนุษย์เมื่อตายก็สิ้นเรี่ยวแรง เขาสิ้นลมหายใจแล้วเขาอยู่ที่ไหนเล่า
 
 **11** ดุจน้ำที่เหือดหายไปจากทะเล และแม่น้ำที่แห้งขอด
 
@@ -2896,7 +2896,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/job_11.json` | `e8b7111a22a26dbd587e002b23caff561c9ea6c32742b00ff05a9a145042ffd8` |
 | `output/translations/job_12.json` | `4302757bb8c186d15eabb3d9c9b91c4ca0db6c713019f93ab641af1097003e5f` |
 | `output/translations/job_13.json` | `30a6af8c001afe6aa16c0af7285be19db3b43f3f785c9701e0fc396fa8c00231` |
-| `output/translations/job_14.json` | `2bfec3c48c3f3ba2c704eb3b37a2dc6aad6656582a7b885606198f687a08ec65` |
+| `output/translations/job_14.json` | `26c852aefa5b74c17535487f2b62a1c0fbf29f0ab969e9309cd5ef059e1e38df` |
 | `output/translations/job_15.json` | `3c9beea8604f35f69d729416d0a6ac1783648f8723806487a472e6db4ef2f88e` |
 | `output/translations/job_16.json` | `a0b7bcc236effe05ba35e02b7e3a412656e69adbb55a5f4abd9f954c5880106b` |
 | `output/translations/job_17.json` | `b07a636a2aa552cd12b724bb6d1db8281ccf3f449235e5d422fa367a20f95960` |

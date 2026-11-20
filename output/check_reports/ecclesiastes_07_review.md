@@ -9,6 +9,7 @@
 | Back-translation | ✅ clean | [back_translation_ecclesiastes_07.md](back_translation_ecclesiastes_07.md) |
 | Thai-summary coverage (info) | ✅ clean | [summary_coverage_ecclesiastes_07.md](summary_coverage_ecclesiastes_07.md) |
 | Claim consistency (hallucination, advisory) | ✅ clean | [claim_consistency_ecclesiastes_07.md](claim_consistency_ecclesiastes_07.md) |
+| unfoldingWord wording (license gate) | ✅ clean | [uw_wording_ecclesiastes_07.md](uw_wording_ecclesiastes_07.md) |
 
 ## Ship criterion
 

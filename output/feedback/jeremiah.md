@@ -251,7 +251,7 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 > ___
 
-**34** ยิ่งกว่านั้น ที่ชายเสื้อของเจ้ายังพบโลหิตของคนยากจนผู้บริสุทธิ์ ทั้งที่เจ้ามิได้จับพวกเขาขณะงัดแงะเข้าบ้าน แต่ถึงกระนั้นก็ยังทำสิ่งทั้งหมดนี้
+**34** ยิ่งกว่านั้น ที่ชายเสื้อของเจ้ายังพบโลหิตของคนยากจนผู้บริสุทธิ์ ทั้งที่เจ้ามิได้จับพวกเขาขณะงัดแงะเข้าบ้าน แต่ถึงแม้จะมีเรื่องทั้งหมดนี้
 
 > ___
 
@@ -429,7 +429,7 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 > ___
 
-**10** แล้วข้าพเจ้าทูลว่า “ข้าแต่องค์พระผู้เป็นเจ้า แท้จริงพระองค์ได้ทรงปล่อยให้ชนชาตินี้และเยรูซาเล็มถูกลวงอย่างยิ่ง โดยมีผู้กล่าวว่า ‘พวกเจ้าจะมีสันติสุข’ ทั้งที่ดาบได้จ่อถึงคอหอยแล้ว”
+**10** แล้วข้าพเจ้าทูลว่า “ข้าแต่องค์พระผู้เป็นเจ้า แท้จริงพระองค์ได้ทรงลวงชนชาตินี้และเยรูซาเล็มอย่างสิ้นเชิง โดยตรัสว่า ‘พวกเจ้าจะมีสันติสุข’ ทั้งที่ดาบได้จ่อถึงคอหอยแล้ว”
 
 > ___
 
@@ -5816,7 +5816,7 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 > ___
 
-**19** ส่วนมรดกของยาโคบนั้นไม่เหมือนสิ่งเหล่านี้เลย เพราะพระองค์ทรงเป็นผู้สร้างสรรพสิ่ง และเป็นเผ่าแห่งมรดกของพระองค์ องค์พระผู้เป็นเจ้าจอมโยธาคือพระนามของพระองค์
+**19** ส่วนมรดกของยาโคบนั้นไม่เหมือนสิ่งเหล่านี้เลย เพราะพระองค์ทรงเป็นผู้สร้างสรรพสิ่ง และยาโคบเป็นเผ่าที่เป็นมรดกของพระองค์ องค์พระผู้เป็นเจ้าจอมโยธาคือพระนามของพระองค์
 
 > ___
 
@@ -6167,9 +6167,9 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | Chapter file | SHA-256 |
 |---|---|
 | `output/translations/jeremiah_01.json` | `0fbbf862505c618e20c6a4c32e2ba355c5d0402721b0c8089224b299e9b16eab` |
-| `output/translations/jeremiah_02.json` | `4753dfc22c18318fb33959d47c69447da4537d14d350c650d82a621567482ad1` |
+| `output/translations/jeremiah_02.json` | `528b24115c3abedd11eff0742d20dbe5351faf94dd0e9bdd3e145394af791a7e` |
 | `output/translations/jeremiah_03.json` | `63640c50b82d72daf3b40acee4e8290db6230500ddc119acb30e7df6aa03aafd` |
-| `output/translations/jeremiah_04.json` | `2e40e806f4876ccbb97fb26f2590001183874e888815b7245d4fa917f2bd7a39` |
+| `output/translations/jeremiah_04.json` | `07843e6a383724868029ede2e5148a6a1809a2c92c19498b93dbb7726d543883` |
 | `output/translations/jeremiah_05.json` | `93dc5a7589dd0c2fedd775e8cb5a7f95d000fff1129077c677bdb75222b8bcdc` |
 | `output/translations/jeremiah_06.json` | `4d21d982e454f4c26f7e501a61ef65db47fbfeead555d08b4e6df77dc336873e` |
 | `output/translations/jeremiah_07.json` | `9cf6eafd79778fb87ced24a8af5675ba4458b607daf733b4c7acee59b736ed4a` |
@@ -6216,6 +6216,6 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/jeremiah_48.json` | `139b7ec32d64288eccaa24898fa0681abd682bc3aacd8eb4577c4868c01f0730` |
 | `output/translations/jeremiah_49.json` | `a091930f02af1fc50f09b04cb2a824fdb046fa1e3013d13dede1d75c2748ca73` |
 | `output/translations/jeremiah_50.json` | `5019eafbbfa9cd27563d0b52d0e490f1bf2d9ffc51df9a0a15e51faf93d5b3b8` |
-| `output/translations/jeremiah_51.json` | `59bcfb835630085c303fc95aaa85a9ef81a2eb18c3524fe134f00054e13e9e23` |
+| `output/translations/jeremiah_51.json` | `8818780dec9b03533c15f7372d3af862607fbba95d19637c03db29bc1caad919` |
 | `output/translations/jeremiah_52.json` | `0b683aeff021c90e345bb2aecb0425afe5b49032b6349c74005689b09476774c` |
 
