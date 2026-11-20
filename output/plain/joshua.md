@@ -532,7 +532,7 @@ _**'แขวนบนต้นไม้' (תָּלָה עַל־הָעֵץ) — 
 
 **20** เราจะทำเช่นนี้กับพวกเขา คือไว้ชีวิตพวกเขา เพื่อพระพิโรธจะไม่ตกลงมาที่พวกเราเพราะคำสาบานที่พวกเราได้สาบานต่อพวกเขา”
 
-**21** ผู้นำกล่าวต่อชาวกิเบโอนว่า “จงให้พวกเขามีชีวิตอยู่” ดังนั้นพวกเขาก็กลายเป็นคนตัดฟืนและคนตักน้ำสำหรับชุมนุมชนทั้งหมด ตามที่ผู้นำได้พูดไว้
+**21** ผู้นำกล่าวต่อชุมนุมชนว่า “จงให้พวกเขามีชีวิตอยู่” ดังนั้นพวกเขาก็กลายเป็นคนตัดฟืนและคนตักน้ำสำหรับชุมนุมชนทั้งหมด ตามที่ผู้นำได้พูดไว้
 
 **22** โยชูวาเรียกชาวกิเบโอนมาและพูดกับพวกเขาว่า “ทำไมพวกเจ้าจึงหลอกพวกเราโดยพูดว่า ‘พวกเราอยู่ห่างจากพวกท่านมาก’ ในเมื่อพวกเจ้าอาศัยอยู่ในหมู่พวกเรา?
 
@@ -1699,7 +1699,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/joshua_01.json` | `f2b13e2f4a5b8078195f080e9290af85296c74994d04b7292df56515447a459f` |
+| `output/translations/joshua_01.json` | `98971aa66c4beb20b6e3817222c2f068d1ead563c993a8c6b57dfe80417657ba` |
 | `output/translations/joshua_02.json` | `e3b9c17cd34b7da9c319d9c6fceb50fd11ec7afcb3d9af7fb2787bd3eecf9c74` |
 | `output/translations/joshua_03.json` | `53c47a22799cb5f8db97cdb88e477de512e4a79b06b75b8502d401201ffefd4a` |
 | `output/translations/joshua_04.json` | `000ed6f7d41f66551840c643a91351dcd4da4174ffbdaa1e44549b07941f25eb` |
@@ -1707,7 +1707,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/joshua_06.json` | `cba3ec889769fab8e41ed16fadeab695aaae5422446864a681c023556b5b865d` |
 | `output/translations/joshua_07.json` | `6d5ab52adce27720a22b775a30ba33f80f05dcf61d93c86bdcbd38767451697f` |
 | `output/translations/joshua_08.json` | `6fc3c94869b76dff4564a7e5fc56ebe7bac082c956606ce80bee8376ef820e9c` |
-| `output/translations/joshua_09.json` | `f679e2c101fba60570889e3a25446f5035c6c300bfd42ba98657355db3bee19b` |
+| `output/translations/joshua_09.json` | `51e90ebfa12787f36aeb372ee9b095bb3c4b15e97926e2059329730e5daf1d9a` |
 | `output/translations/joshua_10.json` | `42b50e9381b3a03f1a05bf572dda62cce2cecf3b31aee097a2ca2a741512870d` |
 | `output/translations/joshua_11.json` | `75301b0914945f481396bf4b9687192a33bcb544f899d8e4605a08e2e59ce0eb` |
 | `output/translations/joshua_12.json` | `9197d55470a6c3b2900cfd8cde5ec6865f1806c16fb914bffd433dd789e7e43b` |

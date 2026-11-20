@@ -23,7 +23,7 @@ Mode: in-chat (Claude-produced back-translations) | Threshold: 0.35
   - Back: When the 300 horns sounded, the LORD set every man's sword against his fellow throughout the camp, and the camp fled as far as Beth-shittah, toward Zererah, as far as the border of Abel-meholah near Tabbath.
   - BSB:  And when the three hundred rams’ horns sounded, the LORD set all the men in the camp against one another with their swords. The army fled to Beth-shittah toward Zererah as far as the border of Abel-meholah near Tabbath.
 - **JDG 7:24** (sim=0.30)
-  - Thai: กิดเอนส่งผู้ส่งสารไปทั่วแถบภูเขาเอฟราอิม กล่าวว่า “จงลงมาต่อสู้กับชาวมีเดียน และยึดน้ำ ตั้งแต่เบธ-บาราห์และจอร์แดนก่อนพวกเขา” คนเอฟราอิมทุกคนก็ถูกเรียกออกมา และยึดน้ำ ตั้งแต่เบธ-บาราห์และจอร์แดน
+  - Thai: กิดเอนส่งผู้ส่งสารไปทั่วแถบภูเขาเอฟราอิม กล่าวว่า “จงลงมาต่อสู้กับชาวมีเดียน และยึดน้ำ ไปจนถึงเบธ-บาราห์และจอร์แดนก่อนพวกเขา” คนเอฟราอิมทุกคนก็ถูกเรียกออกมา และยึดน้ำ ไปจนถึงเบธ-บาราห์และจอร์แดน
   - Back: Gideon sent messengers throughout the hill country of Ephraim, saying, 'Come down against the Midianites and seize the waters before them, as far as Beth-barah and the Jordan.' So all the men of Ephraim were called out, and they seized the waters as far as Beth-barah and the Jordan.
   - BSB:  Gideon sent messengers throughout the hill country of Ephraim to say, “Come down against the Midianites and seize the waters of the Jordan ahead of them as far as Beth-barah.” So all the men of Ephraim were called out, and they captured the waters of the Jordan as far as Beth-barah.
 - **JDG 7:25** (sim=0.34)
