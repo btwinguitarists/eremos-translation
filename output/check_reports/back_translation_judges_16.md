@@ -27,11 +27,11 @@ Mode: in-chat (Claude-produced back-translations) | Threshold: 0.35
   - Back: Delilah took new ropes, bound him with them, and said to him, 'Philistines are upon you, Samson!' (The ambushers were sitting in the chamber.) But he broke them from his arms like thread.
   - BSB:  So Delilah took new ropes, tied him up with them, and called out, “Samson, the Philistines are here!” But while the men were hidden in her room, he snapped the ropes off his arms like they were threads.
 - **JDG 16:13** (sim=0.31)
-  - Thai: แล้วเดลีลาห์กล่าวกับแซมสันว่า “จนถึงบัดนี้ท่านได้ล้อข้าและโกหกข้า ขอท่านบอกข้าเถิดว่า ท่านจะถูกมัดได้อย่างไร?” เขาตอบว่า “ถ้าเจ้าทอผมเจ็ดปอยบนหัวของข้ากับด้ายในเครื่องทอ และตอกหมุดเข้ากับเครื่องทอ ข้าจะอ่อนแอเหมือนคนอื่น ๆ”
+  - Thai: แล้วเดลีลาห์กล่าวกับแซมสันว่า “จนถึงบัดนี้ท่านได้ล้อข้าและโกหกข้า ขอท่านบอกข้าเถิดว่า ท่านจะถูกมัดได้อย่างไร?” เขาตอบว่า “ถ้าเจ้าทอปอยผมทั้งเจ็ดบนหัวของข้ากับด้ายในเครื่องทอ และตอกหมุดเข้ากับเครื่องทอ ข้าจะอ่อนแอเหมือนคนอื่น ๆ”
   - Back: Then Delilah said to Samson, “Until now you have made fun of me and lied to me. Please tell me how you can be bound.” He answered, “If you weave the seven locks on my head with the thread in the loom and drive the pin into the loom, I will become as weak as anyone else.”
   - BSB:  Then Delilah said to Samson, “You have mocked me and lied to me all along! Tell me how you can be tied up.” He told her, “If you weave the seven braids of my head into the web of a loom and tighten it with a pin, I will become as weak as any other man.”
 - **JDG 16:14** (sim=0.22)
-  - Thai: ขณะที่เขาหลับ เดลีลาห์ก็เอาผมเจ็ดปอยของเขาทอเข้ากับด้าย แล้วตอกหมุด และตะโกนว่า “แซมสัน ชาวฟีลิสตีอยู่บนเจ้าแล้ว!” แต่เขาก็ตื่นขึ้น และดึงหมุดออกพร้อมกับเครื่องทอและด้าย
+  - Thai: ขณะที่เขาหลับ เดลีลาห์ก็เอาปอยผมทั้งเจ็ดของเขาทอเข้ากับด้าย แล้วตอกหมุด และตะโกนว่า “แซมสัน ชาวฟีลิสตีอยู่บนเจ้าแล้ว!” แต่เขาก็ตื่นขึ้น และดึงหมุดออกพร้อมกับเครื่องทอและด้าย
   - Back: While he slept, Delilah wove his seven locks into the thread, drove in the pin and shouted, “Samson, the Philistines are upon you!” But he woke up and pulled out the pin along with the loom and the thread.
   - BSB:  So while he slept, Delilah took the seven braids of his hair and wove them into the web. Then she tightened it with a pin and called to him, “Samson, the Philistines are here!” But he awoke from his sleep and pulled out the pin with the loom and the web.
 - **JDG 16:17** (sim=0.04)
