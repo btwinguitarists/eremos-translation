@@ -218,7 +218,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**15** พวกเขาเป็นผู้แสดงให้เห็นว่า งานของธรรมบัญญัติถูกเขียนไว้ในจิตใจของพวกเขา โดยจิตสำนึกของพวกเขาเป็นพยานร่วมด้วย และความคิดของพวกเขาก็กล่าวโทษและแก้ต่างซึ่งกันและกัน
+**15** พวกเขาเป็นผู้แสดงให้เห็นว่า งานของธรรมบัญญัติถูกเขียนไว้ในจิตใจของพวกเขา โดยจิตสำนึกของพวกเขาเป็นพยานร่วมด้วย และความคิดของพวกเขาก็กล่าวโทษหรือแม้แต่แก้ต่างซึ่งกันและกัน
 
 > ___
 
@@ -262,7 +262,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**26** ฉะนั้น ถ้าผู้ที่ไม่ได้เข้าสุหนัตรักษาข้อบังคับของธรรมบัญญัติ การไม่ได้เข้าสุหนัตของเขาจะไม่ทรงนับเป็นการเข้าสุหนัตหรือ?
+**26** ฉะนั้น ถ้าผู้ที่ไม่ได้เข้าสุหนัตรักษาข้อบังคับของธรรมบัญญัติ การไม่ได้เข้าสุหนัตของเขาจะไม่ถูกนับว่าเป็นการเข้าสุหนัตหรือ?
 
 > ___
 
@@ -294,7 +294,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**4** ไม่ใช่อย่างนั้นเลย — ขอให้พระเจ้าทรงสัตย์จริง และให้มนุษย์ทุกคนเป็นคนโกหก ดังที่เขียนไว้ว่า ‘เพื่อพระองค์จะทรงสำแดงความชอบธรรมในพระดำรัสของพระองค์ และทรงมีชัยเมื่อทรงถูกพิพากษา’
+**4** ไม่ใช่อย่างนั้นเลย — ขอให้พระเจ้าทรงสัตย์จริง และให้มนุษย์ทุกคนเป็นคนโกหก ดังที่เขียนไว้ว่า ‘เพื่อพระองค์จะได้รับการยืนยันว่าทรงชอบธรรมในพระดำรัสของพระองค์ และทรงมีชัยเมื่อทรงถูกพิพากษา’
 
 > ___
 
@@ -618,7 +618,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**5** เพราะถ้าเราได้ผูกผันร่วมกับพระองค์ในรูปลักษณ์ของการสิ้นพระชนม์ของพระองค์ เราก็จะมีส่วนในการคืนพระชนม์ของพระองค์ด้วย
+**5** เพราะถ้าเราได้ผูกพันร่วมกับพระองค์ในรูปลักษณ์ของการสิ้นพระชนม์ของพระองค์ เราก็จะมีส่วนในการคืนพระชนม์ของพระองค์ด้วย
 
 > ___
 
@@ -666,7 +666,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**17** แต่ขอบพระคุณพระเจ้าที่ — แม้ว่าพวกท่านเคยเป็นทาสของบาป — พวกท่านก็ได้เชื่อฟังจากใจ ต่อแบบของคำสอนที่ทรงมอบไว้แก่พวกท่าน
+**17** แต่ขอบพระคุณพระเจ้าที่ — แม้ว่าพวกท่านเคยเป็นทาสของบาป — พวกท่านก็ได้เชื่อฟังจากใจ ต่อแบบแผนคำสอนที่พวกท่านถูกมอบให้อยู่ภายใต้
 
 > ___
 
@@ -742,7 +742,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**12** ฉะนั้น ธรรมบัญญัติเป็นที่บริสุทธิ์ และพระบัญญัติก็บริสุทธิ์ ชอบธรรม และดี
+**12** ฉะนั้น ธรรมบัญญัติบริสุทธิ์ และพระบัญญัติก็บริสุทธิ์ ชอบธรรม และดี
 
 > ___
 
@@ -902,7 +902,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**26** ในทำนองเดียวกัน พระวิญญาณก็ทรงช่วยความอ่อนแอของเราด้วย — เพราะเราไม่รู้ว่าควรอธิษฐานอย่างไร แต่พระวิญญาณเองทรงทูลขอแทนเราด้วยเสียงคร่ำครวญที่ไม่อาจกล่าวเป็นถ้อยคำ
+**26** ในทำนองเดียวกัน พระวิญญาณก็ทรงช่วยเราในยามที่เราอ่อนแอด้วย — เพราะเราไม่รู้ว่าควรอธิษฐานขอสิ่งใด แต่พระวิญญาณเองทรงทูลขอแทนเราด้วยเสียงคร่ำครวญที่ไม่อาจกล่าวเป็นถ้อยคำ
 
 > ___
 
@@ -1070,7 +1070,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**28** เพราะองค์พระผู้เป็นเจ้าจะทรงสำเร็จและกระทำให้สั้นพระดำรัสของพระองค์เหนือแผ่นดินโลก’
+**28** เพราะองค์พระผู้เป็นเจ้าจะทรงทำตามพระดำรัสของพระองค์ให้สำเร็จโดยเร็วเหนือแผ่นดินโลก’
 
 > ___
 
@@ -1174,7 +1174,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**20** และอิสยาห์กล่าวอย่างกล้าหาญว่า ‘เราพบโดยคนที่ไม่ได้แสวงหาเรา — เราปรากฏแก่คนที่ไม่ได้ถามถึงเรา’
+**20** และอิสยาห์กล่าวอย่างกล้าหาญว่า ‘คนที่ไม่ได้แสวงหาเราได้พบเรา — เราปรากฏแก่คนที่ไม่ได้ถามถึงเรา’
 
 > ___
 
@@ -1222,7 +1222,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**10** ขอให้ดวงตาของพวกเขามืดมนเพื่อจะมองไม่เห็น และขอให้หลังของพวกเขาก้มลงเสมอไป’
+**10** ขอให้ดวงตาของพวกเขามืดมนเพื่อจะมองไม่เห็น และขอทรงทำให้หลังของพวกเขาค้อมลงตลอดไป’
 
 > ___
 
@@ -1250,7 +1250,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**17** และถ้ากิ่งบางกิ่งถูกหักออก และท่านที่เป็นกิ่งมะกอกป่าได้ถูกต่อกิ่งเข้าในที่ของกิ่งเหล่านั้น และได้มีส่วนร่วมในความอุดมแห่งรากของต้นมะกอก
+**17** และถ้ากิ่งบางกิ่งถูกหักออก และท่านที่เป็นกิ่งมะกอกป่าได้ถูกต่อกิ่งเข้าในหมู่กิ่งที่เหลือ และได้มีส่วนร่วมในความอุดมแห่งรากของต้นมะกอก
 
 > ___
 
@@ -1682,7 +1682,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**27** พวกเขาพอใจ — และที่จริงพวกเขาก็เป็นหนี้ต่อชาวยิว เพราะถ้าคนต่างชาติได้รับส่วนในสิ่งฝ่ายจิตวิญญาณของชาวยิว พวกเขาก็เป็นหนี้ที่ต้องปรนนิบัติชาวยิวในสิ่งฝ่ายร่างกายเช่นกัน
+**27** พวกเขาพอใจ — และที่จริงพวกเขาก็เป็นหนี้ต่อคนเหล่านั้น เพราะถ้าคนต่างชาติได้รับส่วนในสิ่งฝ่ายจิตวิญญาณของคนเหล่านั้น พวกเขาก็เป็นหนี้ที่ต้องปรนนิบัติคนเหล่านั้นในสิ่งฝ่ายร่างกายเช่นกัน
 
 > ___
 
@@ -1770,7 +1770,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**15** จงทักทายฟีโลโลกัสและยูเลีย เนเรอัสและน้องสาวของเขา และโอลิมปัส และธรรมิกชนทั้งหมดที่อยู่กับพวกเขา
+**15** จงทักทายฟีโลโลกัสและยูเลีย เนเรอัสและพี่สาวหรือน้องสาวของเขา และโอลิมปัส และธรรมิกชนทั้งหมดที่อยู่กับพวกเขา
 
 > ___
 
@@ -1831,19 +1831,19 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | Chapter file | SHA-256 |
 |---|---|
 | `output/translations/romans_01.json` | `c87b2112628b417478cc0beebb101b81b21b70b76106579044da66b1f0181824` |
-| `output/translations/romans_02.json` | `4fe0ca5a671850b2506476d945ca603daa20dd5b460442a7e513b7758c3a5b27` |
-| `output/translations/romans_03.json` | `bd6086004ff7b68b855a8b74f5666e3550144cee2dd06e73bb420bbbba846b7c` |
+| `output/translations/romans_02.json` | `5a19da395c6d687c7cc8ab51bd46b160b0d9b4fbbad2f565e47efceafc70b4a6` |
+| `output/translations/romans_03.json` | `e0f662ab50cb1eb4f94a87c96ceeb185829a4b80778d9267b6b8a97e214dce0a` |
 | `output/translations/romans_04.json` | `693fe7f9ad14218a1cb21365defa980c21f1665152fd6cf9bfb9c4a4599e1fd8` |
 | `output/translations/romans_05.json` | `5b6957b5f2a8d9260a25af8b6b887d24d323477fb0cac83aa25a15a921f8e728` |
-| `output/translations/romans_06.json` | `53733aa5bad47a955adac82a8a4026db557cefa449da09a6f0a934b8738e19c6` |
-| `output/translations/romans_07.json` | `4c533c6be14eaae275ab4cf7fa92696e2a66368c843bab2db215a5d0fd20e5b6` |
-| `output/translations/romans_08.json` | `50ffb3a312b32960b1b8c6e0de1a47ad6953a146b4da0f94a06b0d710a4bd7a3` |
-| `output/translations/romans_09.json` | `0a6b74a7542a21bd4115be80e83997c183223912a5835c8dc9cae5d7a7ed03ed` |
-| `output/translations/romans_10.json` | `2abc4d3cab8a5a397333f00b2ed630f6cf25744235c95a65b268aa73ce1b2025` |
-| `output/translations/romans_11.json` | `8aaa028653229bf78be886cfc5e0f2289f3823f2ff26e8b7bd1ba525486054b7` |
+| `output/translations/romans_06.json` | `fad7af5945d0b2ad24e2df7a7decce3f22da8c2425d1965334496e9f21eb6898` |
+| `output/translations/romans_07.json` | `a0d3cb8911d4716cae309fbc0e4ac1b5c7bec2cca4cf9835f089a71d3c5ac38f` |
+| `output/translations/romans_08.json` | `f7e016c1db4b456659e736d535430dafc23ee0c643d2cdfb8b4222e334e48d59` |
+| `output/translations/romans_09.json` | `7518b465a837fe6bd0cae6dab394c2bf016e4f3a7be3f4bbf0845d60ce90dc4b` |
+| `output/translations/romans_10.json` | `965327f67682db75d3788e5982e251383f85952bbe56d4bfbf41ccb14a8e5713` |
+| `output/translations/romans_11.json` | `70671827e5164fe893ad6d6b4d6ec2a2ef018b218d804e054aef60a445cc2361` |
 | `output/translations/romans_12.json` | `b2a70fd8c7d95a6f7eaddbc0c74880060c708718b3d2ac951ef24f8d9a0c88fb` |
 | `output/translations/romans_13.json` | `14c76cce36b87a0da59a1422f56c170102c31f71c34d32e198745a0e0ea5dc3e` |
 | `output/translations/romans_14.json` | `7a5aa044725a91530b6ed82b918843ddf70f258d0ad00b071d1307b080a41056` |
-| `output/translations/romans_15.json` | `cc1848963b730debd50fcd5b3d2de2347f127fdc6c001fa7357c709daca5518b` |
-| `output/translations/romans_16.json` | `fbd72dda200b8a20fe654e04b9add34e895885f95609883008cecdd9dd8e6c4e` |
+| `output/translations/romans_15.json` | `0bab7bc8338317de8db5de5fed63db392a50f75807819af48c0cbc43a0af0b56` |
+| `output/translations/romans_16.json` | `6a99e03cc3e943fa11e821d5be7004d516ca9333602c64e8b4d82a67c336361a` |
 
