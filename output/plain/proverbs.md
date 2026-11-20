@@ -927,7 +927,7 @@ _‘หากคนชอบธรรมยังได้รับผลตอ�
 
 **27** คนเกียจคร้านไม่ได้ย่างเนื้อที่ล่ามาได้ แต่คนขยันถือว่าทรัพย์สมบัติของตนล้ำค่า
 
-**28** ในวิถีแห่งความชอบธรรมมีชีวิต แต่อีกทางหนึ่งนำไปสู่ความตาย
+**28** ในวิถีแห่งความชอบธรรมมีชีวิต และบนเส้นทางนั้นไม่มีความตาย
 
 ---
 
@@ -1622,7 +1622,7 @@ _‘จิตวิญญาณของมนุษย์เป็นดวง�
 
 **15** เมื่อความยุติธรรมสำเร็จ คนชอบธรรมก็ยินดี แต่คนทำชั่วกลับหวาดกลัว
 
-**16** คนที่หลงเจิดจากทางแห่งความเข้าใจ จะไปพักอยู่ในหมู่คนตาย
+**16** คนที่หลงไปจากทางแห่งความเข้าใจ จะไปพักอยู่ในหมู่คนตาย
 
 **17** ผู้ที่รักความสนุกสนานจะยากจน ผู้ที่รักเหล้าองุ่นและน้ำมันจะไม่มีวันร่ำรวย
 
@@ -2512,7 +2512,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/proverbs_09.json` | `8efaa9349a920c69de3a485adfc6dea5ac73ba7ed13149292d82f3169ec822a6` |
 | `output/translations/proverbs_10.json` | `e67de021bcdfc3ad17a9421a5e7a136cf26a7e8de77e56aa84e9fb9f925af275` |
 | `output/translations/proverbs_11.json` | `35bba58dea601a8082df25efd8b5affb932469389cd739ef469006d35cb3348f` |
-| `output/translations/proverbs_12.json` | `c58d219f3d18efc8198fdc46065afebfff5e6eff86abc7aac4e8bef38d1dbb87` |
+| `output/translations/proverbs_12.json` | `4129e21e58bfc11ed3df8e4c5c16396144dfead41b68cb80fc8e0edc719c4252` |
 | `output/translations/proverbs_13.json` | `af4858cbcf7bc7fae5cce88985b9cb8badea1c4d9de95e54acfe1d320aac0cc4` |
 | `output/translations/proverbs_14.json` | `4c2b82ed5843104767c9ec9b8eee567630de7567af1958ccfb9258757f1ded7a` |
 | `output/translations/proverbs_15.json` | `7c9e7d777b625f60df28c4c63fd7368489191262469f200b087e3b54b37895a4` |
@@ -2521,7 +2521,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/proverbs_18.json` | `e67617530ef9f429a875d2ecf8c73009e13d52b5a50273aba65f380c4b061be8` |
 | `output/translations/proverbs_19.json` | `1c64ae1526cf54f8a11be3a5fb0b5a661d32a07988eeb2f1238e861df9c116bf` |
 | `output/translations/proverbs_20.json` | `e38e2e68f6500289ce28049918437c266db3183f049d9834913b18f11ee2e9c9` |
-| `output/translations/proverbs_21.json` | `440217eeef5a2b34156276d9017327d269e2bf3d785dcdea4b18e8cfc943cd6d` |
+| `output/translations/proverbs_21.json` | `48c8aad0b7550c6dc893dab00199d54f5c2e5e2ae614230c897201392cfd7cff` |
 | `output/translations/proverbs_22.json` | `8751b910161705055f3baf599c799c6afb9559f49fdaff6fb634eba96721d70b` |
 | `output/translations/proverbs_23.json` | `d2d7e0796388006128036b2b3a9bd58e9cfe9de43711a2baf398157c24a8d3a0` |
 | `output/translations/proverbs_24.json` | `0231404a2884c018f8dd38e7dec260e128add3820949fa2268ca3ffbc7bb47fe` |

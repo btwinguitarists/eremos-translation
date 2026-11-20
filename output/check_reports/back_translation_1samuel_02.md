@@ -11,7 +11,7 @@ Mode: in-chat (Claude-produced back-translations) | Threshold: 0.35
 ## ℹ Low similarity — rationale documented (intentional divergence)
 
 - **1SA 2:8** (sim=0.13)
-  - Thai: พระองค์ทรงยกผู้ยากจนขึ้นจากผง ทรงยกผู้ขัดสนจากกองขี้เถ้า เพื่อให้เขาทั้งหลายนั่งกับเจ้านาย ทั้งหลาย และเขาทั้งหลายได้รับมรดกบัลลังก์แห่งเกียรติยศ เพราะของพระเจ้าผู้เป็นนายคือเสาทั้งหลายของแผ่นดิน — เสาขององค์พระผู้เป็นเจ้า และพระองค์ทรงตั้งโลกบนเสาเหล่านั้น
+  - Thai: พระองค์ทรงยกผู้ยากจนขึ้นจากผง ทรงยกผู้ขัดสนจากกองขี้เถ้า เพื่อให้เขาทั้งหลายนั่งกับเจ้านายทั้งหลาย และเขาทั้งหลายได้รับมรดกบัลลังก์แห่งเกียรติยศ เพราะเสาทั้งหลายของแผ่นดินเป็นขององค์พระผู้เป็นเจ้า และพระองค์ทรงตั้งโลกบนเสาเหล่านั้น
   - Back: He raises from the dust the poor, from the ash heap he lifts the needy, to seat them with princes, and a throne of glory he causes them to inherit; for the LORD's are the pillars of the earth, and he has set upon them the world.
   - BSB:  He raises the poor from the dust and lifts the needy from the ash heap. He seats them among princes and bestows on them a throne of honor. For the foundations of the earth are the LORD’s, and upon them He has set the world.
 - **1SA 2:14** (sim=0.20)
