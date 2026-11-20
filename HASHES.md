@@ -732,9 +732,9 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/john_12.json` | 50 | `3c15dca79c1ac7418aec0992fb0776a635367961073c85a0d814333da7d11536` | `cf6bd38f` |
 | `output/translations/john_13.json` | 38 | `0359619f591774939c82520e3cf91d35aae937a13d7ba26cdd58363f377ae6d5` | `b64d4872` |
 | `output/translations/john_14.json` | 31 | `3dc9df84633f8623d99cf36df897c5a0bf3bac1dc386ab2d7e2dba8690de53bf` | `7040ad9f` |
-| `output/translations/john_15.json` | 27 | `3f34eaa4220994f034ec1727905704774244499ea604e19b77186438cab177c2` | `53678fba` |
+| `output/translations/john_15.json` | 27 | `2e0f503bed4d1b6b0d642515445da75445af80852bb9c09a47b9dfed7efaa2f9` | `53678fba` |
 | `output/translations/john_16.json` | 33 | `3abedd51d17b90674058ef524f3ebdb10f643a1ebeb8e022ded90f804ba22798` | `8586ed56` |
-| `output/translations/john_17.json` | 26 | `0f2b2b28074b2499cad35127dee8673958aea32b715a280eecc94ba009199a35` | `0c41b77e` |
+| `output/translations/john_17.json` | 26 | `8a10f1e404455fbb4804476ddf436b253e0ac08c124390a5f063fe39da5124bd` | `0c41b77e` |
 | `output/translations/john_18.json` | 40 | `3d0bee0eb40e2e53163a9ee0f04cfba9ebaa63d344a11dee14041dfcf1c020f1` | `1ec0a338` |
 | `output/translations/john_19.json` | 42 | `8e4895ec0fbb4fd94b0ede36df69d79e83b272ae2eeb426ed471339559654f34` | `c23d3a49` |
 | `output/translations/john_20.json` | 31 | `747179bd74bd8467f78589d8fa542e4c944f154215f7135f951e5bc8653620f5` | `b64d4872` |

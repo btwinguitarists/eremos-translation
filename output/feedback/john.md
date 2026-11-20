@@ -2806,7 +2806,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**27** และพวกท่านก็จะเป็นพยานด้วย เพราะพวกท่านได้อยู่กับเรามาตั้งแต่เริ่มต้น”
+**27** และพวกท่านก็เป็นพยานด้วย เพราะพวกท่านได้อยู่กับเรามาตั้งแต่เริ่มต้น”
 
 > ___
 
@@ -3022,7 +3022,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**19** เพื่อเห็นแก่พวกเขา เราจึงชำระตัวเองให้บริสุทธิ์ เพื่อพวกเขาจะได้รับการชำระให้บริสุทธิ์ในความจริงด้วย
+**19** เพื่อเห็นแก่พวกเขา เราจึงถวายตัว เพื่อพวกเขาจะได้รับการชำระให้บริสุทธิ์ในความจริงด้วย
 
 > ___
 
@@ -3644,9 +3644,9 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/john_12.json` | `3c15dca79c1ac7418aec0992fb0776a635367961073c85a0d814333da7d11536` |
 | `output/translations/john_13.json` | `0359619f591774939c82520e3cf91d35aae937a13d7ba26cdd58363f377ae6d5` |
 | `output/translations/john_14.json` | `3dc9df84633f8623d99cf36df897c5a0bf3bac1dc386ab2d7e2dba8690de53bf` |
-| `output/translations/john_15.json` | `3f34eaa4220994f034ec1727905704774244499ea604e19b77186438cab177c2` |
+| `output/translations/john_15.json` | `2e0f503bed4d1b6b0d642515445da75445af80852bb9c09a47b9dfed7efaa2f9` |
 | `output/translations/john_16.json` | `3abedd51d17b90674058ef524f3ebdb10f643a1ebeb8e022ded90f804ba22798` |
-| `output/translations/john_17.json` | `0f2b2b28074b2499cad35127dee8673958aea32b715a280eecc94ba009199a35` |
+| `output/translations/john_17.json` | `8a10f1e404455fbb4804476ddf436b253e0ac08c124390a5f063fe39da5124bd` |
 | `output/translations/john_18.json` | `3d0bee0eb40e2e53163a9ee0f04cfba9ebaa63d344a11dee14041dfcf1c020f1` |
 | `output/translations/john_19.json` | `8e4895ec0fbb4fd94b0ede36df69d79e83b272ae2eeb426ed471339559654f34` |
 | `output/translations/john_20.json` | `747179bd74bd8467f78589d8fa542e4c944f154215f7135f951e5bc8653620f5` |
