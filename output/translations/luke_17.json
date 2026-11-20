@@ -541,7 +541,7 @@
     "greek": "οὐχ εὑρέθησαν ὑποστρέψαντες δοῦναι δόξαν τῷ θεῷ εἰ μὴ ὁ ἀλλογενὴς οὗτος;",
     "bsb_english": "Was no one found except this foreigner to return and give glory to God?\"",
     "translation": {
-      "thai": "ไม่มีใครกลับมาถวายพระเกียรติแด่พระเจ้าเลยหรือ เว้นแต่คนต่างชาติผู้นี้เท่านั้นหรือ?”",
+      "thai": "นอกจากคนต่างชาติผู้นี้แล้ว ไม่มีใครกลับมาถวายพระเกียรติแด่พระเจ้าเลยหรือ?”",
       "thai_literal": null,
       "thai_summary": "คำว่า “คนต่างชาติ” (ἀλλογενής) ปรากฏเพียงครั้งเดียวในพระคัมภีร์ใหม่ คำนี้ถูกจารึกบนป้ายในพระวิหารที่กรุงเยรูซาเล็มเพื่อเตือนว่า “คนต่างชาติห้ามเข้า” ในปากของพระเยซู คำนี้ทำให้เกิดความย้อนแย้ง: ชาวสะมาเรียผู้นี้ — ผู้ที่ถูกห้ามเข้าพระวิหารเพื่อถวายพระเกียรติแด่พระเจ้า — กลับเป็นคนเดียวที่รู้จักวิธีถวายพระเกียรติที่แท้จริง",
       "key_decisions": [
@@ -557,8 +557,8 @@
         },
         {
           "greek": "εἰ μὴ ὁ ἀλλογενὴς οὗτος",
-          "thai": "เว้นแต่คนต่างชาติผู้นี้เท่านั้นหรือ?",
-          "rationale": "Per uW grammar-connect-exceptions: εἰ μή = 'except.' HAPAX: ἀλλογενής (NT f=1; 'of-another-people' — 'foreigner'). The word is famously inscribed on the Jerusalem Temple's outer-court 'Soreg' barrier warning: μηθένα ἀλλογενῆ εἰσπορεύεσθαι ('no foreigner may enter'), a public-posted prohibition that would have been known to Jesus and his Jerusalem-bound audience. Thai 'คนต่างชาติ' (person-other-nation) preserves the general 'foreigner' sense; the temple-inscription-echo is developed in thai_summary for reader-context. 'เท่านั้น' (only) captures the exclusive-εἰ μή force. NEW: ἀλλογενής → คนต่างชาติ (HAPAX)."
+          "thai": "นอกจากคนต่างชาติผู้นี้แล้ว",
+          "rationale": "The exception belongs inside the single question."
         }
       ],
       "notes": "HAPAX: ἀλλογενής (NT f=1). The word is a near-technical-term for 'Gentile / non-Jew' in Jewish-religious-legal context. It is inscribed on the Jerusalem Temple's Soreg-wall warning — a PUBLIC inscription known in two Greek copies (one in Istanbul Archaeology Museum, one in the Rockefeller in Jerusalem): ΜΗΘΕΝΑ ΑΛΛΟΓΕΝΗ ΕΙΣΠΟΡΕΥΕΣΘΑΙ ΕΝΤΟΣ ΤΟΥ ΠΕΡΙ ΤΟ ΙΕΡΟΝ ΤΡΥΦΑΚΤΟΥ ΚΑΙ ΠΕΡΙΒΟΛΟΥ ΟΣ Δ ΑΝ ΛΗΦΘΗ ΕΑΥΤΩΙ ΑΙΤΙΟΣ ΕΣΤΑΙ ΔΙΑ ΤΟ ΕΞΑΚΟΛΟΥΘΕΙΝ ΘΑΝΑΤΟΝ ('No foreigner may enter within the balustrade and embankment around the sanctuary; whoever is caught will have himself to blame for the death that follows'). Jesus's choice of this word here is pointedly-ironic: the man who is institutionally-excluded-from-the-Temple is precisely the one who did what Jerusalem-Temple-worship was designed to produce — give glory to God. This prefigures Luke's Acts-narrative where the gospel goes to 'all nations' starting with the ἀλλογενεῖς. OT ALLUSION: the word ἀλλογενής appears ~100x in LXX (Gen 17:27, Exod 12:43, Lev 22:10, Num 1:51, etc. — typically for Gentiles excluded from sacred-precincts/privileges). ADDED TO NT_OT_CITATIONS: LUK 17:18 ↔ LXX ἀλλογενής-usage (see data/nt_ot_citations.json)."

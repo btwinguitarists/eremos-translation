@@ -182,7 +182,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**39** พระองค์ตรัสกับพวกเขาว่า “จงมาดูเถิด” พวกเขาจึงไปและเห็นที่ที่พระองค์ประทับอยู่ และพักอยู่กับพระองค์ในวันนั้น ซึ่งเป็นเวลาประมาณบ่ายสี่โมง
+**39** พระองค์ตรัสกับพวกเขาว่า “มาเถิด แล้วพวกท่านจะได้เห็น” พวกเขาจึงไปและเห็นที่ที่พระองค์ประทับอยู่ และพักอยู่กับพระองค์ในวันนั้น ซึ่งเป็นเวลาประมาณบ่ายสี่โมง
 
 > ___
 
@@ -626,11 +626,11 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**35** พวกท่านพูดมิใช่หรือว่า ‘อีกสี่เดือนถึงจะถึงฤดูเก็บเกี่ยว’ ดูเถิด เราบอกพวกท่านว่า จงเงยหน้าขึ้นมองทุ่งนาเถิด ทุ่งนาเหล่านั้นเหลืองอร่ามพร้อมเก็บเกี่ยวแล้ว
+**35** พวกท่านพูดมิใช่หรือว่า ‘อีกสี่เดือนถึงจะถึงฤดูเก็บเกี่ยว’ ดูเถิด เราบอกพวกท่านว่า จงเงยหน้าขึ้นมองทุ่งนาเถิด ทุ่งนาเหล่านั้นเหลืองอร่ามพร้อมเก็บเกี่ยว
 
 > ___
 
-**36** ผู้เกี่ยวก็ได้รับค่าจ้าง และรวบรวมผลเข้าสู่ชีวิตนิรันดร์ เพื่อทั้งผู้หว่านและผู้เกี่ยวจะได้ชื่นชมยินดีด้วยกัน
+**36** ผู้เกี่ยวได้รับค่าจ้างแล้ว และรวบรวมผลเข้าสู่ชีวิตนิรันดร์ เพื่อทั้งผู้หว่านและผู้เกี่ยวจะได้ชื่นชมยินดีด้วยกัน
 
 > ___
 
@@ -858,7 +858,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**39** พวกท่านค้นคว้าพระคัมภีร์ เพราะคิดว่าจะมีชีวิตนิรันดร์ในพระคัมภีร์เหล่านั้น และพระคัมภีร์เหล่านั้นเองก็เป็นพยานเกี่ยวกับเรา
+**39** พวกท่านค้นคว้าพระคัมภีร์ เพราะคิดว่าตนมีชีวิตนิรันดร์ในพระคัมภีร์เหล่านั้น และพระคัมภีร์เหล่านั้นเองก็เป็นพยานเกี่ยวกับเรา
 
 > ___
 
@@ -1314,7 +1314,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**33** พระเยซูจึงตรัสว่า “อีกหน่อยหนึ่งเรายังอยู่กับพวกท่าน แล้วเราจะไปหาพระองค์ผู้ทรงใช้เรามา
+**33** พระเยซูจึงตรัสว่า “เรายังอยู่กับพวกท่านอีกไม่นาน แล้วเราจะไปหาพระองค์ผู้ทรงใช้เรามา
 
 > ___
 
@@ -1330,7 +1330,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**37** ในวันสุดท้ายซึ่งเป็นวันสำคัญที่สุดของเทศกาล พระเยซูทรงยืนขึ้นและทรงร้องขึ้นว่า “ถ้าผู้ใดกระหาย ก็ให้ผู้นั้นมาหาเราและดื่มเถิด
+**37** ในวันสุดท้ายซึ่งเป็นวันสำคัญของเทศกาล พระเยซูทรงยืนอยู่และทรงร้องขึ้นว่า “ถ้าผู้ใดกระหาย ก็ให้ผู้นั้นมาหาเราและดื่มเถิด
 
 > ___
 
@@ -2094,7 +2094,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**29** เมื่อมารีย์ได้ยินดังนั้น นางก็ลุกขึ้นทันทีและรีบมาหาพระองค์
+**29** เมื่อมารีย์ได้ยินดังนั้น นางก็รีบลุกขึ้นและมาหาพระองค์
 
 > ___
 
@@ -2482,7 +2482,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**17** ถ้าพวกท่านรู้สิ่งเหล่านี้แล้ว และทำตาม พวกท่านก็เป็นสุข
+**17** ถ้าพวกท่านรู้สิ่งเหล่านี้แล้ว พวกท่านก็เป็นสุขหากทำตาม
 
 > ___
 
@@ -2722,7 +2722,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**6** ถ้าผู้ใดไม่คงอยู่ในเรา ผู้นั้นจะถูกทิ้งออกไปเหมือนกิ่งที่เหี่ยวแห้ง คนทั้งหลายก็เก็บกิ่งเหล่านั้นมาทิ้งลงในไฟ และมันก็ถูกเผาไหม้
+**6** ถ้าผู้ใดไม่คงอยู่ในเรา ผู้นั้นจะถูกทิ้งออกไปเหมือนกิ่งไม้ แล้วก็เหี่ยวแห้ง คนทั้งหลายก็เก็บกิ่งเหล่านั้นมาทิ้งลงในไฟ และมันก็ถูกเผาไหม้
 
 > ___
 
@@ -3630,21 +3630,21 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/john_01.json` | `6b7ce7c25d0d1d1bec64a183defb6f7aacfe31fe3b845a44da31be6206a9e042` |
+| `output/translations/john_01.json` | `010b5d23bd9911a5e947fb46f3025b3f0e09554ff78d9189ebfde923931a42cd` |
 | `output/translations/john_02.json` | `2c50619d7cf50b793fdc0f6397930c68432c054b3477ed78fbf650f9d4e833fa` |
 | `output/translations/john_03.json` | `c7f55fc4d85f009fea094f4e80d42ec4c383ea318db8a1288a28ccfae469fcac` |
-| `output/translations/john_04.json` | `4e8b0a9e35db29690117d74735167d5c6f220ba8dabf36429c124140a66b7626` |
-| `output/translations/john_05.json` | `3708fcaa476b0a398eea282f0e4a6612e42b54cf2841df15946257b432411c8b` |
+| `output/translations/john_04.json` | `66fd7a91122d830ff81c3c6145097e48f5257bfd25c08f6218d2352fc9cb8da6` |
+| `output/translations/john_05.json` | `95ee7073ac832b32f0b7b28beaec5a19b2f566b5bb4d7a8e5bb65b57c3642625` |
 | `output/translations/john_06.json` | `56da11c999524608538105523b17efd938365961c36f9805b4e362f96582242e` |
-| `output/translations/john_07.json` | `1e84a021edabe8ff6552f8a6cc13e7f469d003b2ef669e8fc4d71ee8c9a609ec` |
+| `output/translations/john_07.json` | `bc5ac03fac9a39aa573229e3349921a91c9e0499ff7fea085c0eb4de43110941` |
 | `output/translations/john_08.json` | `309b2d519e6db984cd8914fb2cc10a2698bf1362758b67c0ac94632c14b564e2` |
 | `output/translations/john_09.json` | `330a1294b6358b2842f71f240289d37f5ac4c6af86788836fe0b385f49dacffa` |
 | `output/translations/john_10.json` | `f878cde0f49d35383f1439f85f91c65f53a3684e9c8f06fd76eb5235a8f066e6` |
-| `output/translations/john_11.json` | `4497e6ea992c06571d3576a11e7c22698d332883ab957fe23d782592b6a03c70` |
+| `output/translations/john_11.json` | `2360b6cb090d9ccf65a91eb6f229f6a3d66a04f3c09cb194938b795c1d6a9079` |
 | `output/translations/john_12.json` | `d40995763190cca8abe073df7bd3b6b12b6ba1138a828f01c30057bf369662f3` |
-| `output/translations/john_13.json` | `7aae6928dff0b19809d4bd6b0080ff757a2b3fb657fe19bcea259701a0bac008` |
+| `output/translations/john_13.json` | `7e82ab8abef6def21edf99dadfcff924260e09a71d0bb3bf9ea02ed72bc22eb6` |
 | `output/translations/john_14.json` | `4d027bb51f3077baf370fca6da6743426b7ae06debb527645a651034052463fa` |
-| `output/translations/john_15.json` | `266002d8a411e2c374da42a7bcfa6eaf0f1a0351e90c1363849c376b80677caf` |
+| `output/translations/john_15.json` | `cbf40bdd211009f8ee7cece3fc0d82c9773cc7e5af154b019fd2d4cb9a4e67ff` |
 | `output/translations/john_16.json` | `4b10b376da489c634e0e3a4c74f93e10d73f8dab5cce4103e2e1583d1a585285` |
 | `output/translations/john_17.json` | `9182cf205c2f1b9602dd89d05b92ae44595e8c5f955f526506c6d4fea2823fb8` |
 | `output/translations/john_18.json` | `3d0bee0eb40e2e53163a9ee0f04cfba9ebaa63d344a11dee14041dfcf1c020f1` |
