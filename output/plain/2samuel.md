@@ -990,7 +990,7 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 **33** และดาวิดพูดต่อเขาว่า “ถ้าเจ้าไปกับข้า เจ้าจะเป็นภาระแก่ข้า
 
-**34** แต่ถ้าเจ้ากลับไปเมืองและพูดต่ออับซาโลมว่า ‘ข้ารับใช้ของท่าน ข้าจะเป็นกษัตริย์ของท่าน ในอดีตข้าเป็นข้ารับใช้ของบิดาของท่าน บัดนี้ข้าจะเป็นข้ารับใช้ของท่าน’ เจ้าจะทำลายคำแนะนำของอาฮีโทเฟลให้ข้า
+**34** แต่ถ้าเจ้ากลับไปเมืองและพูดต่ออับซาโลมว่า ‘ข้าแต่กษัตริย์ ข้าจะเป็นข้ารับใช้ของท่าน ในอดีตข้าเป็นข้ารับใช้ของบิดาของท่าน บัดนี้ข้าจะเป็นข้ารับใช้ของท่าน’ เจ้าจะทำลายคำแนะนำของอาฮีโทเฟลให้ข้า
 
 **35** และศาโดกและอาบียาธาร์ปุโรหิตจะไม่อยู่ที่นั่นกับเจ้าหรือ? และทุกสิ่งที่เจ้าได้ยินจากบ้านของกษัตริย์ จงบอกศาโดกและอาบียาธาร์ปุโรหิต
 
@@ -1748,7 +1748,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/2samuel_12.json` | `b10dda3248c5d114675eab4196ec2345e5eba62580eff4856c3df82b5ac25451` |
 | `output/translations/2samuel_13.json` | `eb155ce958da1c7a4ba82727d4242dc9d0eac06e4a56fcbcf85948183f17b4c3` |
 | `output/translations/2samuel_14.json` | `73c461481b8382700a27d0d7aa0706e6256cdc317e2670fab9749e985bf8ddab` |
-| `output/translations/2samuel_15.json` | `572c3fdac34018b1b3f057ce02c4cdd13f293c10956aedb63a666bd85b3725af` |
+| `output/translations/2samuel_15.json` | `77314d24812ac9fa4a2735fb2a45e5b1c9b12828f6c13a4e7cf46bee7dd48cab` |
 | `output/translations/2samuel_16.json` | `df955e93d3a506861570f44dbd7f83dad6200cad5a5958e10ca411c6955dc17a` |
 | `output/translations/2samuel_17.json` | `a35c4d27cf3406f0631c8bede9a3bd5f9927c1d96e29b0368c702bc7d72635bb` |
 | `output/translations/2samuel_18.json` | `874bfe4f6de86b71aba92568233283443f76ff169a38beea9d7d6d0e53611cf3` |
