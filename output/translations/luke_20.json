@@ -846,7 +846,7 @@
     "greek": "λέγοντες·Διδάσκαλε,Μωϋσῆς ἔγραψεν ἡμῖν,ἐάν τινος ἀδελφὸς ἀποθάνῃ ἔχων γυναῖκα,καὶ οὗτος ἄτεκνος ᾖ,ἵνα λάβῃ ὁ ἀδελφὸς αὐτοῦ τὴν γυναῖκα καὶ ἐξαναστήσῃ σπέρμα τῷ ἀδελφῷ αὐτοῦ.",
     "bsb_english": "\"Teacher,\" they said, \"Moses wrote for us that if a man's brother dies and leaves a wife but no children, the man is to marry his brother's widow and raise up offspring for him.",
     "translation": {
-      "thai": "ว่า “อาจารย์เจ้าข้า โมเสสได้เขียนสั่งพวกเราไว้ว่า ‘ถ้าพี่ชายของผู้ใดตายและมีภรรยาอยู่ แต่ไม่มีบุตร ก็ให้น้องชายของผู้ตายรับภรรยานั้นมาเป็นภรรยาของตน และมีบุตรสืบสกุลให้แก่พี่ชาย’",
+      "thai": "ว่า “อาจารย์เจ้าข้า โมเสสได้เขียนสั่งพวกเราไว้ว่า ‘ถ้าชายคนหนึ่งตายและมีภรรยาอยู่ แต่ไม่มีบุตร ก็ให้พี่น้องชายของผู้ตายรับภรรยานั้นมาเป็นภรรยาของตน และมีบุตรสืบสกุลให้แก่ผู้ตาย’",
       "thai_literal": null,
       "thai_summary": "กฎหมายที่พวกสะดูสีอ้างอิงมาจากเฉลยธรรมบัญญัติ 25:5-6 (กฎการแต่งงานแทนพี่น้อง หรือ Levirate Marriage) ซึ่งบัญญัติไว้เพื่อไม่ให้สายตระกูลของพี่ชายที่ตายขาดสูญ และเพื่อรักษามรดกที่ดินไว้ในครอบครัวเดิม ในวัฒนธรรมยิวโบราณ การมีบุตรสืบสกุลเป็นสิ่งสำคัญที่สุดอย่างหนึ่งในการคงสายสืบตระกูล กฎนี้จึงเป็นการรักษาทั้งด้านเศรษฐกิจและด้านสังคมสำหรับหญิงม่าย",
       "key_decisions": [
@@ -857,12 +857,12 @@
         },
         {
           "greek": "ἐάν τινος ἀδελφὸς ἀποθάνῃ ἔχων γυναῖκα,καὶ οὗτος ἄτεκνος ᾖ",
-          "thai": "ถ้าพี่ชายของผู้ใดตายและมีภรรยาอยู่ แต่ไม่มีบุตร",
+          "thai": "ถ้าชายคนหนึ่งตายและมีภรรยาอยู่ แต่ไม่มีบุตร",
           "rationale": "Per uW figs-hypo: hypothetical-conditional clause. ἄτεκνος 'childless' → ไม่มีบุตร. NOTE: Greek has 'his brother dies' (of-someone) = interpreted as 'elder-brother dies' per Levirate-law context (younger-surviving-brother marries widow). Thai พี่ชาย...น้องชาย (elder/younger-brother distinction) makes the Levirate-pattern explicit, matching MRK 12:19 synoptic-parallel rendering."
         },
         {
           "greek": "ἵνα λάβῃ ὁ ἀδελφὸς αὐτοῦ τὴν γυναῖκα καὶ ἐξαναστήσῃ σπέρμα τῷ ἀδελφῷ αὐτοῦ",
-          "thai": "ก็ให้น้องชายของผู้ตายรับภรรยานั้นมาเป็นภรรยาของตน และมีบุตรสืบสกุลให้แก่พี่ชาย",
+          "thai": "ก็ให้พี่น้องชายของผู้ตายรับภรรยานั้นมาเป็นภรรยาของตน และมีบุตรสืบสกุลให้แก่ผู้ตาย",
           "rationale": "Per uW figs-metaphor + figs-explicit: σπέρμα 'seed' → บุตรสืบสกุล (genealogical-continuation, not biological 'seed'; LUK 1:55 σπέρμα → ลูกหลาน similarly). ἐξανίστημι 'raise-up' 3-sg-aor-subj in ἵνα = 'that-he-should-raise-up.' The Levirate-purpose: preserving the deceased-elder-brother's line."
         }
       ],
