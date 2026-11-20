@@ -11,7 +11,8 @@
 | Claim consistency (hallucination) | ✅ clean | [claim_consistency_john_10.md](claim_consistency_john_10.md) |
 | Greek-field integrity | ✅ clean | [greek_field_integrity_john_10.md](greek_field_integrity_john_10.md) |
 | Phrase consistency (corpus-wide) | ✅ clean | [phrase_consistency.md](phrase_consistency.md) |
-| External AI review (Gemini) | ✅ clean | [(error)]((error)) |
+| unfoldingWord wording (license gate) | ✅ clean | [uw_wording_john_10.md](uw_wording_john_10.md) |
+| NT honorifics (royal register) | ✅ clean | [nt_honorifics_john_10.md](nt_honorifics_john_10.md) |
 
 ## Ship criterion
 
