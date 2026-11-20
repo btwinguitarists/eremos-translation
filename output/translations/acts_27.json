@@ -101,14 +101,14 @@
     "greek": "κἀκεῖθεν ἀναχθέντες ὑπεπλεύσαμεν τὴν Κύπρον διὰ τὸ τοὺς ἀνέμους εἶναι ἐναντίους,",
     "bsb_english": "After putting out from there, we sailed to the lee of Cyprus because the winds were against us.",
     "translation": {
-      "thai": "เมื่อพวกเราออกเรือจากที่นั่นแล้ว ก็แล่นเรือเลียบชายฝั่งด้านเหนือของเกาะไซปรัส เพราะลมพัดสวนทาง",
+      "thai": "เมื่อพวกเราออกเรือจากที่นั่นแล้ว ก็แล่นเรือไปทางด้านอับลมของเกาะไซปรัส เพราะลมพัดสวนทาง",
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
         {
           "greek": "ὑπεπλεύσαμεν τὴν Κύπρον",
-          "thai": "แล่นเรือเลียบชายฝั่งด้านเหนือของเกาะไซปรัส",
-          "rationale": "'Sailed under [the lee of]' Cyprus is a nautical idiom; it does NOT mean south of the island. The ship hugged the northern shore, keeping the island between itself and the prevailing west-blowing winds for shelter. Thai แล่นเรือเลียบชายฝั่งด้านเหนือ ('sailed along the northern coast') makes the nautical idiom plain. Κύπρος → เกาะไซปรัส (established lock per ACT 4:36, 11:19-20, 13:4, 15:39, 21:3, 21:16)."
+          "thai": "แล่นเรือไปทางด้านอับลมของเกาะไซปรัส",
+          "rationale": "The verb expresses shelter from the contrary winds."
         },
         {
           "greek": "τοὺς ἀνέμους εἶναι ἐναντίους",
@@ -181,7 +181,7 @@
     "greek": "ἐν ἱκαναῖς δὲ ἡμέραις βραδυπλοοῦντες καὶ μόλις γενόμενοι κατὰ τὴν Κνίδον,μὴ προσεῶντος ἡμᾶς τοῦ ἀνέμου,ὑπεπλεύσαμεν τὴν Κρήτην κατὰ Σαλμώνην,",
     "bsb_english": "After sailing slowly for many days, we arrived off Cnidus. When the wind impeded us, we sailed to the lee of Crete, opposite Salmone.",
     "translation": {
-      "thai": "พวกเราแล่นเรืออย่างช้าๆ อยู่หลายวัน จึงมาถึงเมืองคนีดัสด้วยความยากลำบาก เพราะลมไม่อำนวยให้แล่นต่อไป พวกเราจึงแล่นเรือเลียบชายฝั่งด้านใต้ของเกาะครีต ตรงข้ามกับแหลมสัลโมเน",
+      "thai": "พวกเราแล่นเรืออย่างช้าๆ อยู่หลายวัน จึงมาอยู่ตรงข้ามเมืองคนีดัสด้วยความยากลำบาก เพราะลมไม่อำนวยให้แล่นต่อไป พวกเราจึงแล่นเรือไปทางด้านอับลมของเกาะครีต ตรงข้ามกับแหลมสัลโมเน",
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
@@ -202,8 +202,8 @@
         },
         {
           "greek": "ὑπεπλεύσαμεν τὴν Κρήτην κατὰ Σαλμώνην",
-          "thai": "แล่นเรือเลียบชายฝั่งด้านใต้ของเกาะครีต ตรงข้ามกับแหลมสัลโมเน",
-          "rationale": "Same nautical idiom as v.4 (ὑποπλέω). Crete here means the south coast (sheltered from N winds). Κρήτη → เกาะครีต (established at ACT 2:11 ชาวครีต lock). HAPAX Σαλμώνη (proper noun, only NT occurrence) — NEW PROPER-NOUN LOCK: Σαλμώνη → แหลมสัลโมเน (Thai phonetic). Salmone is the eastern cape of Crete (modern Cape Sideros). 'แหลม' (cape) prefix natural for the headland-name."
+          "thai": "แล่นเรือไปทางด้านอับลมของเกาะครีต ตรงข้ามกับแหลมสัลโมเน",
+          "rationale": "Restore the lee in both verses and distinguish being abreast of Cnidus from entering it."
         }
       ],
       "notes": "FOUR HAPAX in this verse: βραδυπλοέω (slow-sailing) + Κνίδος (city) + προσεάω (allow/permit) + Σαλμώνη (cape). Luke's nautical vocabulary is Mediterranean-sailor-shop-talk. Cnidus is the last point where they could have turned NW around the Greek mainland; once the wind blocks them there, they're forced to track south to Crete and then trace the Cretan southern coast."
@@ -1151,14 +1151,14 @@
     "greek": "καὶ τὰς ἀγκύρας περιελόντες εἴων εἰς τὴν θάλασσαν,ἅμα ἀνέντες τὰς ζευκτηρίας τῶν πηδαλίων,καὶ ἐπάραντες τὸν ἀρτέμωνα τῇ πνεούσῃ κατεῖχον εἰς τὸν αἰγιαλόν.",
     "bsb_english": "Cutting away the anchors, they left them in the sea as they loosened the ropes that held the rudders. Then they hoisted the foresail to the wind and made for the beach.",
     "translation": {
-      "thai": "พวกเขาจึงถอนสมอทิ้งไว้ในทะเล พร้อมกับคลายเชือกที่ผูกหางเสือ และชักใบเรือหัวขึ้นรับลมที่กำลังพัด มุ่งตรงไปยังหาดทราย",
+      "thai": "พวกเขาจึงปลดสมอทิ้งไว้ในทะเล พร้อมกับคลายเชือกที่ผูกหางเสือ และชักใบเรือหัวขึ้นรับลมที่กำลังพัด มุ่งตรงไปยังหาดทราย",
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
         {
           "greek": "τὰς ἀγκύρας περιελόντες εἴων εἰς τὴν θάλασσαν",
-          "thai": "ถอนสมอทิ้งไว้ในทะเล",
-          "rationale": "περιαιρέω 'remove from around / cut away' (here cutting the cables holding the four stern anchors of v.29). 'Cutting' rather than 'weighing' the anchors is the implicit nautical decision — they sacrifice the anchors to gain a quick start toward the beach. Thai ถอน ... ทิ้งไว้ ('pull-and-leave-behind') captures the abandonment. The 'leaving' ηίαω is the cut-and-let-fall action."
+          "thai": "ปลดสมอทิ้งไว้ในทะเล",
+          "rationale": "Leaving the anchors in the sea excludes bringing them aboard."
         },
         {
           "greek": "ἀνέντες τὰς ζευκτηρίας τῶν πηδαλίων",
@@ -1168,7 +1168,7 @@
         {
           "greek": "ἐπάραντες τὸν ἀρτέμωνα",
           "thai": "ชักใบเรือหัวขึ้น",
-          "rationale": "HAPAX ἀρτέμων (only NT occurrence) 'foresail / bow-mounted sail' (some interpret as 'topsail'; uW gives 'topsail' as primary). Per uW translate-unknown: Thai ใบเรือหัว ('bow-sail / front-sail') is more nautically accurate for ancient Mediterranean rigging — the ἀρτέμων was the small bow-section sail used for steerage when the mainsail was struck. Modern English Bibles split: ESV/NIV 'foresail'; KJV/NASB 'mainsail'; CSB 'foresail.' I follow the foresail-of-bow reading (Greek ἀρτέμων is etymologically uncertain; the foresail interpretation matches 1st-century rigging archaeology better than topsail)."
+          "rationale": "The Greek names the sail raised into the wind. Thai retains the fore-sail reading."
         },
         {
           "greek": "τῇ πνεούσῃ κατεῖχον εἰς τὸν αἰγιαλόν",
