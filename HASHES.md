@@ -62,7 +62,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/1corinthians_12.json` | 31 | `95bf5fd6626e97fa31d8f3180c4f6294c1bd3f81742ebd863e2b56c59012d3d5` | `21c8490e` |
 | `output/translations/1corinthians_13.json` | 13 | `66c21bd57cb79fc964478ccf1f6f0c5a382777f96e49be32fb50666a66bbb27e` | `7a5bb103` |
 | `output/translations/1corinthians_14.json` | 40 | `fd751079060a2cdc11047428ca6c5f246afae6e17dcd3d486744681e623c95ae` | `f6bc480f` |
-| `output/translations/1corinthians_15.json` | 58 | `f3e47bcd2667a869826a20a911bf097ce2216eba8b26f6bbfba9470889fbf4f3` | `b64d4872` |
+| `output/translations/1corinthians_15.json` | 58 | `7d605067202897f65d4365d732ae9ba56097e398bc5bd6b708c205f098005f69` | `b64d4872` |
 | `output/translations/1corinthians_16.json` | 24 | `a8deab69d82f0b049df96ee74a09aec3ba1f5f7bfaeb8cacbf5640cd25983c27` | `b64d4872` |
 | `output/translations/1john_01.json` | 10 | `bc09a25736e70fc3a8cf4fa74c62f52677866fa50cd0b99ea2333208c1126ebf` | `99db43c8` |
 | `output/translations/1john_02.json` | 29 | `d5259a377d0dd260ab3a903a5e8bee9a569e6aaef5bfe8f96237d43232afadfb` | `cd99b6b7` |
