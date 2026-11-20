@@ -3,7 +3,7 @@
 Cryptographic SHA-256 fingerprints for every translated chapter.
 Combined with GPG-signed commits, anyone can verify they have the canonical version.
 
-_Generated: 2026-10-20 01:35:21 UTC_
+_Generated: 2026-11-20 22:11:22 UTC_
 _Total chapters: 1189 · Total verses: 31155_
 
 ## How to verify a chapter
@@ -230,7 +230,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/2samuel_12.json` | 31 | `b10dda3248c5d114675eab4196ec2345e5eba62580eff4856c3df82b5ac25451` | `9fd19643` |
 | `output/translations/2samuel_13.json` | 39 | `eb155ce958da1c7a4ba82727d4242dc9d0eac06e4a56fcbcf85948183f17b4c3` | `4fadc7cd` |
 | `output/translations/2samuel_14.json` | 33 | `73c461481b8382700a27d0d7aa0706e6256cdc317e2670fab9749e985bf8ddab` | `63e50a8d` |
-| `output/translations/2samuel_15.json` | 37 | `572c3fdac34018b1b3f057ce02c4cdd13f293c10956aedb63a666bd85b3725af` | `ee5d0ab8` |
+| `output/translations/2samuel_15.json` | 37 | `77314d24812ac9fa4a2735fb2a45e5b1c9b12828f6c13a4e7cf46bee7dd48cab` | `ee5d0ab8` |
 | `output/translations/2samuel_16.json` | 23 | `df955e93d3a506861570f44dbd7f83dad6200cad5a5958e10ca411c6955dc17a` | `818ae128` |
 | `output/translations/2samuel_17.json` | 29 | `a35c4d27cf3406f0631c8bede9a3bd5f9927c1d96e29b0368c702bc7d72635bb` | `d03c3a1a` |
 | `output/translations/2samuel_18.json` | 32 | `874bfe4f6de86b71aba92568233283443f76ff169a38beea9d7d6d0e53611cf3` | `c0a92cfa` |

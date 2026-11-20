@@ -34,9 +34,9 @@ Mode: in-chat (Claude-produced back-translations) | Threshold: 0.35
   - Thai: และดาวิดขึ้นไปบนทางขึ้นของภูเขามะกอก ขึ้นไปและร้องไห้ และศีรษะของเขาคลุม และเขาเดินเปล่าเท้า และประชาชนทั้งหมดที่อยู่กับเขาคลุมศีรษะของพวกเขา และพวกเขาขึ้นไป ขึ้นไปและร้องไห้
   - Back: And David went up by the ascent of the olives, going up and weeping, and his head was covered, and he was walking barefoot; and all the people who were with him each covered his head, and they went up, going up and weeping.
   - BSB:  But David continued up the Mount of Olives, weeping as he went up. His head was covered, and he was walking barefoot. And all the people with him covered their heads and went up, weeping as they went.
-- **2SA 15:34** (sim=0.31)
-  - Thai: แต่ถ้าเจ้ากลับไปเมืองและพูดต่ออับซาโลมว่า ‘ข้ารับใช้ของท่าน ข้าจะเป็นกษัตริย์ของท่าน ในอดีตข้าเป็นข้ารับใช้ของบิดาของท่าน บัดนี้ข้าจะเป็นข้ารับใช้ของท่าน’ เจ้าจะทำลายคำแนะนำของอาฮีโทเฟลให้ข้า
-  - Back: But if you return to the city and say to Absalom, I am your servant, O king; I was the servant of your father from that time, and now I am your servant — then you shall break for me the counsel of Ahithophel.
+- **2SA 15:34** (sim=0.29)
+  - Thai: แต่ถ้าเจ้ากลับไปเมืองและพูดต่ออับซาโลมว่า ‘ข้าแต่กษัตริย์ ข้าจะเป็นข้ารับใช้ของท่าน ในอดีตข้าเป็นข้ารับใช้ของบิดาของท่าน บัดนี้ข้าจะเป็นข้ารับใช้ของท่าน’ เจ้าจะทำลายคำแนะนำของอาฮีโทเฟลให้ข้า
+  - Back: But if you return to the city and say to Absalom, O king, I will be your servant; I was the servant of your father from that time, and now I am your servant — then you shall break for me the counsel of Ahithophel.
   - BSB:  But you can thwart the counsel of Ahithophel for me if you return to the city and say to Absalom: ‘I will be your servant, my king; in the past I was your father’s servant, but now I will be your servant.’
 
 ## Acceptable
