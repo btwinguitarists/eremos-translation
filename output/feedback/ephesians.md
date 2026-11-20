@@ -182,7 +182,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**15** ทรงยกเลิกธรรมบัญญัติแห่งข้อบัญญัติและข้อบังคับ เพื่อทรงสร้างทั้งสองฝ่ายในพระองค์ให้เป็นมนุษย์ใหม่คนเดียว ทำให้เกิดสันติสุข
+**15** ทรงยกเลิกธรรมบัญญัติที่ประกอบด้วยพระบัญญัติในรูปของข้อบังคับ เพื่อทรงสร้างทั้งสองฝ่ายในพระองค์ให้เป็นมนุษย์ใหม่คนเดียว ทำให้เกิดสันติสุข
 
 > ___
 
@@ -366,7 +366,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**16** จากพระองค์ กายทั้งสิ้นถูกประกอบเข้าด้วยกันและถูกผูกพันเข้าด้วยกันโดยทางข้อต่อทุกข้อที่บำรุงเลี้ยง ตามการกระทำกิจในมาตรวัดของแต่ละส่วน เพื่อให้กายเจริญเติบโตและก่อร่างขึ้นด้วยตนเองในความรัก
+**16** จากพระองค์ กายทั้งสิ้นถูกประกอบเข้าด้วยกันและถูกผูกพันเข้าด้วยกันโดยทางข้อต่อทุกข้อที่บำรุงเลี้ยง ตามการกระทำกิจในมาตรวัดของแต่ละส่วน กายจึงเจริญเติบโตและเสริมสร้างตนเองขึ้นในความรัก
 
 > ___
 
@@ -394,7 +394,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**23** ให้ทรงฟื้นฟูพวกท่านขึ้นใหม่ในจิตวิญญาณแห่งจิตใจของพวกท่าน
+**23** ให้พวกท่านได้รับการฟื้นฟูขึ้นใหม่ในจิตวิญญาณแห่งจิตใจของพวกท่าน
 
 > ___
 
@@ -618,7 +618,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**12** เพราะการต่อสู้ของเราไม่ได้ต่อสู้กับเลือดและเนื้อ แต่ต่อสู้กับผู้ครอง ต่อสู้กับผู้ทรงอำนาจ ต่อสู้กับเจ้าโลกแห่งความมืดในยุคนี้ ต่อสู้กับวิญญาณชั่วร้ายฝ่ายจิตวิญญาณในสวรรคสถาน
+**12** เพราะการต่อสู้ของเราไม่ได้ต่อสู้กับเลือดและเนื้อ แต่ต่อสู้กับผู้ครอง ต่อสู้กับผู้ทรงอำนาจ ต่อสู้กับเจ้าโลกแห่งความมืดนี้ ต่อสู้กับวิญญาณชั่วร้ายฝ่ายจิตวิญญาณในสวรรคสถาน
 
 > ___
 
@@ -679,9 +679,9 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | Chapter file | SHA-256 |
 |---|---|
 | `output/translations/ephesians_01.json` | `25b6b92e8fa22a1389d985ec795f3bfd27973de8e2847097f39929de798a3720` |
-| `output/translations/ephesians_02.json` | `89ba340825bb1ab5e0feb2b72d48edfe7e6521c75ca5188e9800625d6c43494a` |
+| `output/translations/ephesians_02.json` | `c66861f8c50f802a36b033709ddd7edb9fb655c73e3c467270574a1877661578` |
 | `output/translations/ephesians_03.json` | `0b6542e76349f9fe987bced658a7a4f666d8a4d4192737c716db2c2e897ea711` |
-| `output/translations/ephesians_04.json` | `d92a86a8a77bc664eb9daad7ad531a32cc0bf2a4a57181988793cea7fc6411d3` |
+| `output/translations/ephesians_04.json` | `e084e0330a74d079d6e7fe8f0eda3938f9f298a403d5e088dc9582bfcddce1f5` |
 | `output/translations/ephesians_05.json` | `d3ae2d5ebf6f6aecaef2ca0d34d829ea75ea5053f4b58b65140a33f38da2cba7` |
-| `output/translations/ephesians_06.json` | `44808c304430c79a62af207a9332620ec1c006775237edd8976b4205746f76b4` |
+| `output/translations/ephesians_06.json` | `7c951cb2ea4b63083e573bc54d201708e0da93d9f95959df5e425ddf11199c75` |
 

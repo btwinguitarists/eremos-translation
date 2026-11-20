@@ -70,7 +70,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**11** ซึ่งต้องห้ามไม่ให้พูด เพราะพวกเขาทำลายครอบครัวทั้งหลายให้ล้มลง โดยสอนสิ่งที่ไม่ควรสอน เพราะเห็นแก่กำไรอันน่าอาย
+**11** ซึ่งต้องห้ามไม่ให้พูด เพราะพวกเขาทำให้คนทั้งครอบครัวหลงผิด โดยสอนสิ่งที่ไม่ควรสอน เพราะเห็นแก่กำไรอันน่าอาย
 
 > ___
 
@@ -230,7 +230,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/titus_01.json` | `6b9bc5a855e4143fab405d9116d393e4ed8e929d99a62b3d2451d8043fb50100` |
+| `output/translations/titus_01.json` | `10446eb388b5d69ec5be84707e5bb61f93fb751e32decb2bcaa562b80ea2f40e` |
 | `output/translations/titus_02.json` | `54cca3502fb1484c14c16b498528dd0e1691cb0d1650c2a21bae3fc079cf8180` |
 | `output/translations/titus_03.json` | `ae6d73e432043adfd5b8f1c7ccdac693084026cab5e5b9fda7db7d05472e9648` |
 

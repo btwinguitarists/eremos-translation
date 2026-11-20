@@ -102,7 +102,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**19** ข้าพเจ้า เปาโล ได้เขียนด้วยมือของข้าพเจ้าเอง ข้าพเจ้าจะใช้คืนให้ — โดยไม่จำเป็นต้องเอ่ยกับท่านว่า ท่านเองก็เป็นหนี้ต่อข้าพเจ้าอยู่เกินไปกว่านั้นเสียอีก
+**19** ข้าพเจ้า เปาโล ได้เขียนด้วยมือของข้าพเจ้าเอง ข้าพเจ้าจะใช้คืนให้ — โดยไม่จำเป็นต้องเอ่ยกับท่านว่า ท่านยังเป็นหนี้ข้าพเจ้าถึงขนาดเป็นหนี้ตัวท่านเองด้วย
 
 > ___
 
@@ -147,5 +147,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/philemon_01.json` | `1a010fbdcae4ae43894f3cfd9d6e21376bfbc263f04dc3fa8844c856436681d4` |
+| `output/translations/philemon_01.json` | `62f5c6b159196f10954ea4bbbb12d9ad5d9f765df4eb6642fb4af7191f1d61ca` |
 

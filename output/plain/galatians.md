@@ -258,7 +258,7 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **12** ข้าพเจ้าใคร่ขอให้พวกที่ก่อความวุ่นวายในหมู่พวกท่าน ตัดอวัยวะของตนเสียเลยจะดีกว่า
 
-**13** พี่น้องทั้งหลาย พวกท่านได้ถูกทรงเรียกให้มีเสรีภาพ เพียงแต่ขออย่าให้เสรีภาพนั้นเป็นโอกาสแก่เนื้อหนัง แต่จงรับใช้ซึ่งกันและกันด้วยความรัก
+**13** พี่น้องทั้งหลาย พวกท่านได้รับการทรงเรียกให้มีเสรีภาพ เพียงแต่ขออย่าให้เสรีภาพนั้นเป็นโอกาสแก่เนื้อหนัง แต่จงรับใช้ซึ่งกันและกันด้วยความรัก
 
 **14** เพราะธรรมบัญญัติทั้งหมดได้ถูกทำให้สำเร็จในคำสั่งเดียว คือ “จงรักเพื่อนบ้านของเจ้าเหมือนรักตนเอง”
 
@@ -302,7 +302,7 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **6** ผู้ที่ได้รับการสอนพระวจนะก็จงร่วมแบ่งปันในสิ่งดีทั้งปวงกับผู้สอนนั้น
 
-**7** อย่าหลงผิดเลย พระเจ้าไม่ทรงให้ใครเย้ยหยันได้ เพราะมนุษย์หว่านสิ่งใด ก็จะเก็บเกี่ยวสิ่งนั้น
+**7** อย่าหลงผิดเลย ไม่มีใครเย้ยหยันพระเจ้าได้ เพราะมนุษย์หว่านสิ่งใด ก็จะเก็บเกี่ยวสิ่งนั้น
 
 **8** เพราะผู้ที่หว่านลงในเนื้อหนังของตน ก็จะเก็บเกี่ยวความเสื่อมสลายจากเนื้อหนังนั้น แต่ผู้ที่หว่านลงในพระวิญญาณ ก็จะเก็บเกี่ยวชีวิตนิรันดร์จากพระวิญญาณนั้น
 
@@ -338,6 +338,6 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/galatians_02.json` | `d32896858c670ae50691a19e2aa355c8100e64d71abd54a1232b1d904f5bc763` |
 | `output/translations/galatians_03.json` | `f801401758fdf4a581484ea509024725a3a4242acb42624cac27a998b6894fa4` |
 | `output/translations/galatians_04.json` | `6419fc431ce43cebfdbbff8d2a6026f81bd484468e38311da0a266301e78a2d1` |
-| `output/translations/galatians_05.json` | `8c554130d8819be2bff95cf6657734f4da7ec53e27845623688ad63407121424` |
-| `output/translations/galatians_06.json` | `c536242ca4c882dcab8ccb39b413ac1da9fbd7aebfae3fcbc0be71f7d8bc08bf` |
+| `output/translations/galatians_05.json` | `a47fbd4525a52f43e48a0d2bb38e64fdee00220562abec626ae600ca56f2810b` |
+| `output/translations/galatians_06.json` | `28e443ccead367647bcf6b76ff548a59ba1a5bd20aa482ead57e79eb032a4a83` |
 
