@@ -1631,7 +1631,7 @@ _‘พระองค์ได้ทรงกระทำสำเร็จแ�
 
 ## บทที่ 23
 
-**1** องค์พระผู้เป็นเจ้าทรงเป็นผู้เลี้ยงของข้าพเจ้า ข้าพเจ้าจะไม่ขาดสิ่งใดเลย
+**1** บทเพลงสดุดีของดาวิด องค์พระผู้เป็นเจ้าทรงเป็นผู้เลี้ยงของข้าพเจ้า ข้าพเจ้าจะไม่ขาดสิ่งใดเลย
 
 > _บริบท: คำสารภาพความวางใจ: องค์พระผู้เป็นเจ้าทรงเป็นผู้เลี้ยง ข้าพเจ้าจึงไม่ขาดสิ่งใด_
 
@@ -8849,9 +8849,9 @@ _‘ฮาเลลูยาห์’ ทับศัพท์จากภาษ
 
 > _บริบท: ทั้งสองได้กระทำหมายสำคัญของพระองค์ท่ามกลางพวกเขา และการอ_
 
-**28** พระองค์ทรงส่งความมืดมา และมันก็มืดไป แต่พวกเขายังขัดขืนพระดำรัสของพระองค์
+**28** พระองค์ทรงส่งความมืดมา และมันก็มืดไป และพวกเขาไม่ได้ขัดขืนพระดำรัสของพระองค์
 
-> _บริบท: พระองค์ทรงส่งความมืดมา และมันก็มืดไป แต่พวกเขายังขัดขืนพ_
+> _บริบท: พระองค์ทรงส่งความมืดมา และพวกเขาไม่ได้ขัดขืนพระดำรัสของพระองค์_
 
 **29** พระองค์ทรงเปลี่ยนน้ำของพวกเขาให้เป็นเลือด และทรงทำให้ปลาของพวกเขาตาย
 
@@ -12835,7 +12835,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/psalms_20.json` | `c1125bf836a8c073fb28ed3e2ae60dcac8e0325d0e877e29cbfde5888c550cee` |
 | `output/translations/psalms_21.json` | `30b46387fa1ce94c4256a5e698983b807f3e35b5d3332e84dc15c0fae3919263` |
 | `output/translations/psalms_22.json` | `2944eefa369ea3d4d6359950c110a29a45de76516c109a442da9e26e7e1fc316` |
-| `output/translations/psalms_23.json` | `410f2299e16cf32311244218622c1987db210e03dbedf5ecda696c66f56c6d84` |
+| `output/translations/psalms_23.json` | `5d09e6bf2b1e43b58155d7baa7e86bfbf255c784d78908d7b99b3d4e4474cb6b` |
 | `output/translations/psalms_24.json` | `00511c6797d6fc79d5ed30af50ec2e2f3faeb4a52690cf93cec5481c5e7930e4` |
 | `output/translations/psalms_25.json` | `7582c905b041682f36e50910ddaa49ba27f020cce2937ab59e6f5cac03333bf5` |
 | `output/translations/psalms_26.json` | `580b85024ce4f0088dfb8d197cfc85d7c4b42919b568457e7aadfbea296faeb6` |
@@ -12917,7 +12917,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/psalms_102.json` | `d812c79a969ef6f2edddccfec28c035b2af30a937bf6656b39f813c6b5b7a7e8` |
 | `output/translations/psalms_103.json` | `094a8517c7837407c86b7dc5c48fd91ad92a392a8f2ae8ba8b9d9037d78e0e43` |
 | `output/translations/psalms_104.json` | `3222616c651ef595f3c1ecc5220bbbc7e57faf0cefc2f5db563aaf0377d68e69` |
-| `output/translations/psalms_105.json` | `5fc831555c94c6b9b6057deff682f7b527a221bc02db3cf5dc5c9857faac66e9` |
+| `output/translations/psalms_105.json` | `d00645196c99d956ef79b8afabd5f419fad769f28b6b74d5aae18ba5cf8aff8d` |
 | `output/translations/psalms_106.json` | `04bdf3789d827049d81580ba4133747312cf4914cf66dbe2eebbcfe40e8dee89` |
 | `output/translations/psalms_107.json` | `e8009a5bc9674161cb73cdd110120fc431fffeb096f2d200508a0b49fc719792` |
 | `output/translations/psalms_108.json` | `7f6f63d977beb035685ab64d00041a97e698f96327fa227cbf301cd1cf754804` |

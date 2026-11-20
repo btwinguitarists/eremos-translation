@@ -916,7 +916,7 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 > ___
 
-**15** และพวกเขาควรประกาศและส่งข่าวไปทั่วเมืองของตนและในกรุงเยรูซาเล็มว่า “จงออกไปที่แดนภูเขา และนำกิ่งมะกอกเทศ กิ่งมะกอกเทศป่า กิ่งต้นต้นเมอร์เทิล กิ่งอินทผลัม และกิ่งของต้นไม้ที่มีใบหนา มาทำเพิงตามที่เขียนไว้”
+**15** และพวกเขาควรประกาศและส่งข่าวไปทั่วเมืองของตนและในกรุงเยรูซาเล็มว่า “จงออกไปที่แดนภูเขา และนำกิ่งมะกอกเทศ กิ่งมะกอกเทศป่า กิ่งต้นเมอร์เทิล กิ่งอินทผลัม และกิ่งของต้นไม้ที่มีใบหนา มาทำเพิงตามที่เขียนไว้”
 
 > ___
 
@@ -1749,7 +1749,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/nehemiah_05.json` | `23441a8673c8ef6a907c4b468b42c4eae2846831783f7aae17196751d1020bd8` |
 | `output/translations/nehemiah_06.json` | `6ce7ef212dca4f28b08927577e7b342493167c68fa4143789f21cbef8933e4bb` |
 | `output/translations/nehemiah_07.json` | `c9ed444cb4d1ea876fd902fe377848e3e2421e4388fbfde842899d57433864fa` |
-| `output/translations/nehemiah_08.json` | `308793f56384f8f9158d1b768b687032788d921d5925023ee161609e389e2edf` |
+| `output/translations/nehemiah_08.json` | `c675e12623aafdd084b2c515e8916f864db2154559e555c02f1090a61edea62c` |
 | `output/translations/nehemiah_09.json` | `801609db11b17e29b1e790bf99f85ed26511925a0c0c9e0588f9e7050245be30` |
 | `output/translations/nehemiah_10.json` | `b9abde70b9d85f1380b4327e41932c2e630d6651ce139535584b16d8bf8637b4` |
 | `output/translations/nehemiah_11.json` | `4f7e6e3b586978557bc77bf5de663c1bfffd40818c8e46a0fb69e9420f97577f` |

@@ -1252,7 +1252,7 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 **17** ดังนั้นชาวเลวีจึงแต่งตั้งเฮมานบุตรของโยเอล จากพี่น้องของเขาคืออาสาฟบุตรของเบเรคิยาห์ และจากพี่น้องของพวกเขาคือชาวเมรารี คือเอธานบุตรของคูชายาห์
 
-**18** พร้อมกับพี่น้องของพวกเขาในลำดับรองคือ เศคาริยาห์ ยาอาซีเอล เชมิราโมท เยฮีเอล อุนนี เอลีอับ เบนายาห์ มาอาเสยาห์ มัทธีธิยาห์ เอลีเฟเลฮู มิคเนยาห์ และโอเบด-เอโดมกับเยอีเอล ผู้เฝ้าประตู
+**18** พร้อมกับพี่น้องของพวกเขาในลำดับรองคือ เศคาริยาห์ เบน ยาอาซีเอล เชมิราโมท เยฮีเอล อุนนี เอลีอับ เบนายาห์ มาอาเสยาห์ มัทธีธิยาห์ เอลีเฟเลฮู มิคเนยาห์ และโอเบด-เอโดมกับเยอีเอล ผู้เฝ้าประตู
 
 **19** นักดนตรีคือ เฮมาน อาสาฟ และเอธาน ได้รับมอบหมายให้ตีฉาบทองสัมฤทธิ์
 
@@ -2228,7 +2228,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/1chronicles_12.json` | `fd6a01295f1e02e378acbc2610ccf9b6de1f425c2b267969b2e30066e54cb9cc` |
 | `output/translations/1chronicles_13.json` | `e9e6c526f297b25f2435af72838cccc98488150e0c9bdc153b06eab59b7a68ef` |
 | `output/translations/1chronicles_14.json` | `10085935f7e535f60a9e6a64623424d48af8f81d7fa472753b851bd187f94eb3` |
-| `output/translations/1chronicles_15.json` | `d73caa2b8b6b610b4e8cbd8f46dd5f3a4aed3713373694d9b8b8a4269da4d028` |
+| `output/translations/1chronicles_15.json` | `744c3e3e31025b4a870db5942925146d6f89be91746026f95747c8ecb05e7e00` |
 | `output/translations/1chronicles_16.json` | `7c01be86b03db6abe93a4bddef6fcb5d9fd6c17717b6014b4592cf811e922da4` |
 | `output/translations/1chronicles_17.json` | `0a48581a21b182da71315c101d81d6260e89706af1bc203efa710afce76b982d` |
 | `output/translations/1chronicles_18.json` | `f5971f9e8731d99a97a64484a71cab4388e7c0c9133e65c086342a6bd24903cf` |

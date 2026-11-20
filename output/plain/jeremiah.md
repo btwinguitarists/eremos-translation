@@ -375,7 +375,7 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 **8** เยรูซาเล็มเอ๋ย จงรับการตักเตือนเถิด มิฉะนั้นจิตใจของเราจะเบือนหนีไปจากเจ้า และเราจะทำให้เจ้าเป็นที่รกร้าง เป็นแผ่นดินที่ไม่มีผู้อาศัย”
 
-**9** องค์พระผู้เป็นเจ้าจอมโยธาตรัสดังนี้ว่า “จงเล็มเก็บคนที่เหลืออยู่ของอิสราเอลให้เกลี้ยงเหมือนเล็มเก็บเถาองุ่น จงรูดมือของเจ้าซ้ำอีกครั้งดั่งคนเก็บองุ่นที่รูดตามกิ่งก้าน”
+**9** องค์พระผู้เป็นเจ้าจอมโยธาตรัสดังนี้ว่า “พวกเขาจะเล็มเก็บคนที่เหลืออยู่ของอิสราเอลให้เกลี้ยงเหมือนเล็มเก็บเถาองุ่น จงรูดมือของเจ้าซ้ำอีกครั้งดั่งคนเก็บองุ่นที่รูดตามกิ่งก้าน”
 
 **10** ข้าพเจ้าจะพูดและเตือนผู้ใดได้ ให้พวกเขายอมฟัง? ดูเถิด หูของพวกเขาตันเสียแล้ว พวกเขาจึงฟังไม่ได้ ดูเถิด พระวจนะขององค์พระผู้เป็นเจ้ากลายเป็นที่เยาะเย้ยแก่พวกเขา พวกเขาไม่พอใจในพระวจนะนั้นเลย
 
@@ -3421,7 +3421,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/jeremiah_03.json` | `63640c50b82d72daf3b40acee4e8290db6230500ddc119acb30e7df6aa03aafd` |
 | `output/translations/jeremiah_04.json` | `2e40e806f4876ccbb97fb26f2590001183874e888815b7245d4fa917f2bd7a39` |
 | `output/translations/jeremiah_05.json` | `93dc5a7589dd0c2fedd775e8cb5a7f95d000fff1129077c677bdb75222b8bcdc` |
-| `output/translations/jeremiah_06.json` | `4d21d982e454f4c26f7e501a61ef65db47fbfeead555d08b4e6df77dc336873e` |
+| `output/translations/jeremiah_06.json` | `db4fb4c08fb518e6979bbf37c8097769b0625ed0c7aec0388c5fad44e8a01bce` |
 | `output/translations/jeremiah_07.json` | `9cf6eafd79778fb87ced24a8af5675ba4458b607daf733b4c7acee59b736ed4a` |
 | `output/translations/jeremiah_08.json` | `cec1c5f15a6341003f086b1636ff43cf75dfa056a79c5273c9defa4c22bfe035` |
 | `output/translations/jeremiah_09.json` | `e0ff0901d8baf0062588e6045c9d08c5c69c3e98894b66a71daf40437f28b5e9` |

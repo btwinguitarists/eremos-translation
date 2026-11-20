@@ -1161,7 +1161,7 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 > ___
 
-**12** องค์พระผู้เป็นเจ้าตรัสกับโมเสสว่า “จงเหยียดมือของเจ้าออกเหนือแผ่นดินอียิปต์เพื่อให้ตั๊กแตน ตั๊กแตนจะขึ้นมาบนแผ่นดินอียิปต์และกินพืชทั้งหมดในแผ่นดิน ทุกสิ่งที่ลูกเห็บไม่ได้ทำลาย”
+**12** องค์พระผู้เป็นเจ้าตรัสกับโมเสสว่า “จงเหยียดมือของเจ้าออกเหนือแผ่นดินอียิปต์เพื่อให้ตั๊กแตนขึ้นมาบนแผ่นดินอียิปต์และกินพืชทั้งหมดในแผ่นดิน ทุกสิ่งที่ลูกเห็บไม่ได้ทำลาย”
 
 > ___
 
@@ -1540,7 +1540,7 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 > ___
 
-**7** ขนมปังไร้เชื้อจะต้องถูกกินในเจ้ดวันนั้น จะต้องไม่เห็นสิ่งที่มีเชื้อในหมู่พวกท่าน และจะต้องไม่เห็นเชื้อในที่ใดทั่วเขตแดนของพวกท่าน
+**7** ขนมปังไร้เชื้อจะต้องถูกกินในเจ็ดวันนั้น จะต้องไม่เห็นสิ่งที่มีเชื้อในหมู่พวกท่าน และจะต้องไม่เห็นเชื้อในที่ใดทั่วเขตแดนของพวกท่าน
 
 > ___
 
@@ -5409,10 +5409,10 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/exodus_07.json` | `e03eab8e90ee1eb7d35f63ae0f0baf16612fd90df086100d2633c85e2ae68182` |
 | `output/translations/exodus_08.json` | `71bfc19ef5e5d074be85a6bd8efe9377032b967bde42b3af49806aabd8c7fc52` |
 | `output/translations/exodus_09.json` | `e42bd0612bdf7382b824c52409d1cc10a02d444b3d7aa4c7af75ce56bc2f704e` |
-| `output/translations/exodus_10.json` | `e22e841d30b38b953a2c0e907aef870b2cf409d8b7942b62450e2ab70f1db1fe` |
+| `output/translations/exodus_10.json` | `2322945556f7d145733ae95a4d928105c005f3412c65a9b555fb9b8bef42b834` |
 | `output/translations/exodus_11.json` | `e940f59a0fdf63bddeb633f92b7046f2059e3d535f50dea3e2122636ede46455` |
 | `output/translations/exodus_12.json` | `5577e86d763becc64157e4e02c0f838591629c4083e0db9db80b46b4435292a2` |
-| `output/translations/exodus_13.json` | `fa8d33a7690942da374adb78b1a71542d7b79be08cdb1a714785eccebae61c31` |
+| `output/translations/exodus_13.json` | `f1418c0612aeabcf6956bb067451ecd9f18887eed0bcc2ad4665a29b75e41d75` |
 | `output/translations/exodus_14.json` | `c9c026f1465eb83ed2efdf0c59f9ac05e9caec5beeac7b2d69d0b4b7b478a3d1` |
 | `output/translations/exodus_15.json` | `3648ba6b52d1b0612f8a0162bda60e5558b285aa9aa2e33308c743ec9cdbb6a7` |
 | `output/translations/exodus_16.json` | `e7988557b77d1531658689ed0534461257ab3c2418b59b7a0377487515abb80b` |

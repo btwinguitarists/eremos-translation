@@ -1928,7 +1928,7 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 > ___
 
-**21** และโมเสสทูลตอบว่า “ข้าพระองค์อยู่ท่ามกลางคนถือเดินเท้า 600,000 คน และพระองค์ตรัสว่า ‘เราจะให้เนื้อแก่พวกเขา และพวกเขาจะกินเป็นเวลาหนึ่งเดือนเต็ม’
+**21** และโมเสสทูลตอบว่า “ข้าพระองค์อยู่ท่ามกลางคนเดินเท้า 600,000 คน และพระองค์ตรัสว่า ‘เราจะให้เนื้อแก่พวกเขา และพวกเขาจะกินเป็นเวลาหนึ่งเดือนเต็ม’
 
 > ___
 
@@ -5670,7 +5670,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/numbers_08.json` | `c7cd60c25431297f441472cb50f1a4bce227ee9c5ef5459915d659a5bed5d18f` |
 | `output/translations/numbers_09.json` | `bf73fd776966e01c81abe316f89cc351f7cd687cea49ecaf99f2890987b07a2c` |
 | `output/translations/numbers_10.json` | `ad08120b96db2b62055c4183a99867dd0937212541c869f129456097f9789829` |
-| `output/translations/numbers_11.json` | `59ad65047c08f9f30dddf4b73f592a65e36eb30698923262610239023051cfcf` |
+| `output/translations/numbers_11.json` | `8cfad9c23fe1dbe5babce8852459ec5632697be06d1e11e19d0380698b187c5c` |
 | `output/translations/numbers_12.json` | `48407b9b096ca7161bce2e38b814ee208b1f2981d093899e73c6637d9a595e39` |
 | `output/translations/numbers_13.json` | `cdc48e0face91a4aed02927c33bc3a49fe7302efe161a9102b26919b03cfa116` |
 | `output/translations/numbers_14.json` | `194e91ab2d2ed3ff29879d69e69c52f3dab1ffea4476810b830a6620113fdcdc` |

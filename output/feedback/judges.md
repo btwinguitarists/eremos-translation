@@ -243,7 +243,7 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 > ___
 
-**15** ในทุกที่ที่พวกเขายกออกไป พระหัตถ์ขององค์พระผู้เป็นเจ้าก็ก็ต้านพวกเขาเพื่อนำความเลวร้ายมา ตามที่องค์พระผู้เป็นเจ้าได้ตรัสไว้และตามที่ได้ทรงสาบานกับพวกเขา และพวกเขาก็ตกอยู่ในความทุกข์อย่างหนัก
+**15** ในทุกที่ที่พวกเขายกออกไป พระหัตถ์ขององค์พระผู้เป็นเจ้าก็ต้านพวกเขาเพื่อนำความเลวร้ายมา ตามที่องค์พระผู้เป็นเจ้าได้ตรัสไว้และตามที่ได้ทรงสาบานกับพวกเขา และพวกเขาก็ตกอยู่ในความทุกข์อย่างหนัก
 
 > ___
 
@@ -1908,7 +1908,7 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 > ___
 
-**5** แล้วเขาก็จุดคบเพลิงและปล่อยสุนัขจิ้งจอกเข้าไปในนาข้าวที่ตั้งแต่ของชาวฟีลิสตี เผากองข้าวและข้าวที่ยังตั้งอยู่ ทั้งสวนองุ่นและสวนมะกอกด้วย
+**5** แล้วเขาก็จุดคบเพลิงและปล่อยสุนัขจิ้งจอกเข้าไปในทุ่งข้าวที่ยังไม่ได้เกี่ยวของชาวฟีลิสตี เผากองข้าวและข้าวที่ยังตั้งอยู่ ทั้งสวนองุ่นและสวนมะกอกด้วย
 
 > ___
 
@@ -2780,7 +2780,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | Chapter file | SHA-256 |
 |---|---|
 | `output/translations/judges_01.json` | `e11bc1767d581707148945d57385a903231a4b58ab4b56f51b33a50935e96a1b` |
-| `output/translations/judges_02.json` | `d5dba4ddaa0576f0c428b2e69ae46f6c3ace29e05eefe0c8c26f81f9230834fc` |
+| `output/translations/judges_02.json` | `b1d9b8388e96f18bab14550d4e7b8e1e7b2a3544e71e6b555a278e12e1dae72f` |
 | `output/translations/judges_03.json` | `bb254323f59daf709fb488f12a1b3a411518ea317b81b377e732638de3d03280` |
 | `output/translations/judges_04.json` | `a0ee4db9d058dbf1abee9b20b928d19cef2e8adc18386a5792eb2503a0a7c10f` |
 | `output/translations/judges_05.json` | `97c1b5b665b780a71849e63c18645124d6306a7737c9dd33722c22665a72aa5b` |
@@ -2793,7 +2793,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/judges_12.json` | `c7291ea3e3d890b34fc9410e21843e52417ffdb7ae4507f32152c9e42860d40f` |
 | `output/translations/judges_13.json` | `baeb9ff61335f8a29d1c6d915e3407280dfbcae498c85bc6b560a91225009b5d` |
 | `output/translations/judges_14.json` | `3401f211c2e850ec3864c8a38f64646c3e53561a526620f048dcaadebf7c599d` |
-| `output/translations/judges_15.json` | `b62f614302dd773418ea4b848b72a3d8b2d3fc729f8909f0e482253503a932f5` |
+| `output/translations/judges_15.json` | `b6cbee67124af06228d14177346ce44ce1476153579e44dd3e012b47f087a76c` |
 | `output/translations/judges_16.json` | `681924eb9a2a6262f71bd0c50e72e114c66fceee61817984d9b6a039438e98ce` |
 | `output/translations/judges_17.json` | `469b8ba3fa56cde8eb856876c124ae12e93d152d0a09e669763e0d1e17cee7b1` |
 | `output/translations/judges_18.json` | `a1ee37808220e91441262b84c700bb331b6e0b489198849907577acf44e70645` |
