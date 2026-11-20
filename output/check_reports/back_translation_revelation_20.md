@@ -10,9 +10,9 @@ Mode: in-chat (Claude-produced back-translations) | Threshold: 0.35
 
 ## ℹ Low similarity — rationale documented (intentional divergence)
 
-- **Revelation 20:3** (sim=0.08)
-  - Thai: และโยนมันลงในบ่อลึกที่ไม่มีก้น แล้วปิดและประทับตราเหนือมันไว้ เพื่อมันจะไม่หลอกลวงประชาชาติทั้งหลายอีก จนกว่าพันปีนั้นจะสำเร็จ หลังจากนั้น จำเป็นต้องปล่อยมันไปชั่วระยะเวลาหนึ่ง
-  - Back: And he threw it down into the bottomless-pit, and shut and sealed it on top, so that it would not deceive the nations anymore, until the one-thousand years would be completed. After that, it must be released for a brief period of time
+- **Revelation 20:3** (sim=0.07)
+  - Thai: และโยนมันลงในบ่อลึกที่ไม่มีก้น แล้วปิดและประทับตราเหนือมันไว้ เพื่อมันจะไม่หลอกลวงประชาชาติทั้งหลายอีก จนกว่าพันปีนั้นจะสำเร็จ หลังจากนั้น จำเป็นต้องปล่อยมันไปเป็นเวลาสั้น ๆ
+  - Back: He threw it into the bottomless pit, shut it and sealed it over the creature so it would not deceive the nations again until the thousand years were complete. After that it must be released for a short time.
   - BSB:  And he threw him into the Abyss, shut it, and sealed it over him, so that he could not deceive the nations until the thousand years were complete. After that, he must be released for a brief period of time.
 - **Revelation 20:4** (sim=0.10)
   - Thai: และข้าพเจ้าได้เห็นบัลลังก์ทั้งหลาย และผู้ที่นั่งบนนั้น และทรงประทานอำนาจการพิพากษาแก่พวกเขา และข้าพเจ้าได้เห็นวิญญาณของผู้ที่ถูกตัดศีรษะ เพราะคำพยานของพระเยซู และเพราะพระวจนะของพระเจ้า และผู้ที่ไม่ได้กราบไหว้สัตว์ร้ายหรือรูปจำลองของมัน และไม่ได้รับเครื่องหมายของมันที่หน้าผากหรือที่มือของพวกเขา และพวกเขาได้มีชีวิตอยู่ และครอบครองเป็นกษัตริย์กับพระคริสต์เป็นเวลาพันปี

@@ -130,7 +130,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**26** คือ ความลึกลับที่ซ่อนเร้นไว้ตลอดยุคต่าง ๆ และตลอดชาติพันธุ์ต่าง ๆ แต่บัดนี้ได้ทรงเปิดเผยแก่ธรรมิกชนของพระองค์
+**26** คือ ความลึกลับที่ซ่อนเร้นไว้ตลอดยุคต่าง ๆ และตลอดชั่วอายุคนที่ผ่านมา แต่บัดนี้ได้ทรงเปิดเผยแก่ธรรมิกชนของพระองค์
 
 > ___
 
@@ -202,7 +202,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**14** พระองค์ทรงลบล้างเอกสารหนี้ที่ปรับโทษเรา ซึ่งเป็นบัญชีที่ขัดแย้งกับเรา และทรงเอามันออกจากระหว่างกลาง โดยตรึงมันไว้ที่กางเขน
+**14** พระองค์ทรงลบล้างเอกสารหนี้พร้อมข้อกำหนดที่ปรับโทษเรา ซึ่งเป็นบัญชีที่ขัดแย้งกับเรา และทรงเอามันออกจากระหว่างกลาง โดยตรึงมันไว้ที่กางเขน
 
 > ___
 
@@ -362,7 +362,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**4** เพื่อข้าพเจ้าจะได้ประกาศข่าวประเสริฐนั้นอย่างแจ่มชัด ดังที่ข้าพเจ้าควรกล่าว
+**4** เพื่อข้าพเจ้าจะได้เปิดเผยความล้ำลึกนั้นอย่างแจ่มชัด ดังที่ข้าพเจ้าควรกล่าว
 
 > ___
 
@@ -430,8 +430,8 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/colossians_01.json` | `6963aa0840a0fa09d6ba9b223d5c998570790a8c9df5b122f678c9293f12a64e` |
-| `output/translations/colossians_02.json` | `152de18f1ea535f7a47284b741a6de92ddfc269076e0c44a1d87c5c3fca652b9` |
+| `output/translations/colossians_01.json` | `88dea522dfe4d599197461df82a3164268efe6c5efb91d5163548dcdbb7f3960` |
+| `output/translations/colossians_02.json` | `3a13537202edfe45791a2ee7eae76899069bcbe683224f18685eac3c9f76d7fa` |
 | `output/translations/colossians_03.json` | `17e946688dd4590eee7d9674a5115229714c94c9612866530d387dc8b61870fc` |
-| `output/translations/colossians_04.json` | `11b9d98690638fff358b18be59925f310cf455e8ad3b7c084fd6b865e1e9e231` |
+| `output/translations/colossians_04.json` | `4eaa3a3ceeb044179f207745ae2be7125ed9d2c8e352cf8188dddebfb16bbf91` |
 
