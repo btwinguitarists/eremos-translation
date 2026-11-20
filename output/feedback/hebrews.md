@@ -1299,7 +1299,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | Chapter file | SHA-256 |
 |---|---|
 | `output/translations/hebrews_01.json` | `f57cde0ff89f59a30df5b6e386e9ca302a66ca3ab4b657ac0106d380b45b0ab3` |
-| `output/translations/hebrews_02.json` | `19861717616df0e6dd2d83a68b0ec5f62cbd07e944563e0808259a192409df48` |
+| `output/translations/hebrews_02.json` | `401e633389c8a6e0cfdb12e7ee23d8e6b18699c97de2061d2be502a93ac954c2` |
 | `output/translations/hebrews_03.json` | `2304367411023a3ebe7fb048eecc1189be931fdc7159c67d6648c9837d789664` |
 | `output/translations/hebrews_04.json` | `67adde4a294d2bc1b50b1638744b9d3b441ef83edbddc62d88df51e7128488e8` |
 | `output/translations/hebrews_05.json` | `6f9073271a914ded6fc5767a4f091a8ee9b8af407c3b00191fbefc899dd81c83` |

@@ -4047,7 +4047,7 @@ _‘ความกลัวมนุษย์เป็นบ่วงดัก 
 
 ## บทที่ 30
 
-**1** ถ้อยคำของอากูร์บุตรยาเคห์ เป็นถ้อยแถลงที่ชายผู้นี้ประกาศแก่อิธีเอล ‘ข้าพเจ้าเหน็ดเหนื่อย ข้าแต่พระเจ้า ข้าพเจ้าอ่อนล้าเต็มที
+**1** ถ้อยคำของอากูร์บุตรยาเคห์ เป็นถ้อยแถลงที่ชายผู้นี้ประกาศแก่อิธีเอล แก่อิธีเอลและอูคาล
 
 > ___
 
@@ -4382,6 +4382,6 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/proverbs_27.json` | `deb503be5080bb396767e126a10fa0ab5f19f7a82befee48b3df66090cdf72d0` |
 | `output/translations/proverbs_28.json` | `1fc711e4e05fc70bf636b5928b5355177f570fc756405fa4f064082e4dbcad49` |
 | `output/translations/proverbs_29.json` | `5397647325038d81ede5cacdf2f48971d2866edafcc9502aa400574e00aa6a75` |
-| `output/translations/proverbs_30.json` | `b63adfd1edfe21e78456f8a347c5c2adf5323390672bd53467476172a4553fb7` |
+| `output/translations/proverbs_30.json` | `358ff67d4aa21b709a6498e9d0570ae80292824dc42ee72f1f903fd4b287a588` |
 | `output/translations/proverbs_31.json` | `51d110a49646101d84a824366a364762d220dee1ad82227a861962f9eeea7c35` |
 

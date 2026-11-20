@@ -864,7 +864,7 @@ _This reader edition shows the Thai translation and the contextual summary (บ�
 
 **52** ผู้นำชาวยิวจึงเริ่มเถียงกันเองว่า “คนนี้จะเอาเนื้อของตนให้เรากินได้อย่างไร?”
 
-**53** พระเยซูจึงตรัสกับพวกเขาว่า “อาเมน อาเมน เราบอกแก่พวกท่านว่า ถ้าพวกท่านไม่กินเนื้อของบุตรมนุษย์และไม่ดื่มโลหิตของท่าน พวกท่านก็ไม่มีชีวิตในตัวเอง
+**53** พระเยซูจึงตรัสกับพวกเขาว่า “อาเมน อาเมน เราบอกแก่พวกท่านว่า พวกท่านจะมีชีวิตในตัวเองไม่ได้ เว้นแต่จะกินเนื้อของบุตรมนุษย์และดื่มโลหิตของบุตรมนุษย์
 
 **54** ผู้ที่กินเนื้อของเราและดื่มโลหิตของเรา ก็มีชีวิตนิรันดร์ และเราจะทำให้เขาเป็นขึ้นมาในวันสุดท้าย
 
@@ -2577,7 +2577,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/john_03.json` | `c7f55fc4d85f009fea094f4e80d42ec4c383ea318db8a1288a28ccfae469fcac` |
 | `output/translations/john_04.json` | `4e8b0a9e35db29690117d74735167d5c6f220ba8dabf36429c124140a66b7626` |
 | `output/translations/john_05.json` | `3708fcaa476b0a398eea282f0e4a6612e42b54cf2841df15946257b432411c8b` |
-| `output/translations/john_06.json` | `56da11c999524608538105523b17efd938365961c36f9805b4e362f96582242e` |
+| `output/translations/john_06.json` | `aa3a5dda589c7163c09bc79738aab66d1abfca6292e5c959c4e9422bbabcc4ed` |
 | `output/translations/john_07.json` | `1e84a021edabe8ff6552f8a6cc13e7f469d003b2ef669e8fc4d71ee8c9a609ec` |
 | `output/translations/john_08.json` | `309b2d519e6db984cd8914fb2cc10a2698bf1362758b67c0ac94632c14b564e2` |
 | `output/translations/john_09.json` | `330a1294b6358b2842f71f240289d37f5ac4c6af86788836fe0b385f49dacffa` |

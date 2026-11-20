@@ -523,7 +523,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/haggai_01.json` | 15 | `1f309e8c801b7ccd90b401a81b38c7d0a34c4c8088df933f53ab3468ca315ab9` | `e983ef0d` |
 | `output/translations/haggai_02.json` | 23 | `dd16143c9ee4cfefc09fdaf0b8eedf9561f16c2eb3a14667f138da71af923324` | `f86f4ef1` |
 | `output/translations/hebrews_01.json` | 14 | `f57cde0ff89f59a30df5b6e386e9ca302a66ca3ab4b657ac0106d380b45b0ab3` | `b64d4872` |
-| `output/translations/hebrews_02.json` | 18 | `19861717616df0e6dd2d83a68b0ec5f62cbd07e944563e0808259a192409df48` | `b64d4872` |
+| `output/translations/hebrews_02.json` | 18 | `401e633389c8a6e0cfdb12e7ee23d8e6b18699c97de2061d2be502a93ac954c2` | `b64d4872` |
 | `output/translations/hebrews_03.json` | 19 | `2304367411023a3ebe7fb048eecc1189be931fdc7159c67d6648c9837d789664` | `a9bee188` |
 | `output/translations/hebrews_04.json` | 16 | `67adde4a294d2bc1b50b1638744b9d3b441ef83edbddc62d88df51e7128488e8` | `b64d4872` |
 | `output/translations/hebrews_05.json` | 14 | `6f9073271a914ded6fc5767a4f091a8ee9b8af407c3b00191fbefc899dd81c83` | `f4d002b7` |
@@ -723,7 +723,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/john_03.json` | 36 | `c7f55fc4d85f009fea094f4e80d42ec4c383ea318db8a1288a28ccfae469fcac` | `d03c3a1a` |
 | `output/translations/john_04.json` | 54 | `4e8b0a9e35db29690117d74735167d5c6f220ba8dabf36429c124140a66b7626` | `d03c3a1a` |
 | `output/translations/john_05.json` | 46 | `3708fcaa476b0a398eea282f0e4a6612e42b54cf2841df15946257b432411c8b` | `d03c3a1a` |
-| `output/translations/john_06.json` | 71 | `56da11c999524608538105523b17efd938365961c36f9805b4e362f96582242e` | `d03c3a1a` |
+| `output/translations/john_06.json` | 71 | `aa3a5dda589c7163c09bc79738aab66d1abfca6292e5c959c4e9422bbabcc4ed` | `d03c3a1a` |
 | `output/translations/john_07.json` | 53 | `1e84a021edabe8ff6552f8a6cc13e7f469d003b2ef669e8fc4d71ee8c9a609ec` | `d03c3a1a` |
 | `output/translations/john_08.json` | 59 | `309b2d519e6db984cd8914fb2cc10a2698bf1362758b67c0ac94632c14b564e2` | `d03c3a1a` |
 | `output/translations/john_09.json` | 41 | `330a1294b6358b2842f71f240289d37f5ac4c6af86788836fe0b385f49dacffa` | `d03c3a1a` |
@@ -821,7 +821,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/leviticus_25.json` | 55 | `0e8608a0f54a0abf7234e1e3b03e127eedbff20f0e7e90a196387712131b4c84` | `7e8a9e0c` |
 | `output/translations/leviticus_26.json` | 46 | `4b833c44d29ea0078619aba048a2483f1ddd53a0f803d1897cd08ed5bee2d729` | `c0e09628` |
 | `output/translations/leviticus_27.json` | 34 | `a5c7d17803e229bcf93e6c8f975a482977454dbe10ead9d270cd648f5dfadc36` | `9402b895` |
-| `output/translations/luke_01.json` | 80 | `f30038526ae34b6816461f37d51e967f3542f577562321bc77af96382ad9976d` | `7040ad9f` |
+| `output/translations/luke_01.json` | 80 | `3e6fd9c66c0dde856dcebe67a505d6abcfea986962efd7fb4296181362b4c009` | `7040ad9f` |
 | `output/translations/luke_02.json` | 52 | `e50197772258e55fe3d51fecd922cfd83f9ab5ed2b2727d61038dfd9bdce5e03` | `6d15bb1a` |
 | `output/translations/luke_03.json` | 38 | `9a9d5869f0fa64c19cd9edcacaf116acf2db9e2471859c861bc6c2ff1abe4ba1` | `d03c3a1a` |
 | `output/translations/luke_04.json` | 44 | `7379810798ce3c7a1396595d45437915edd42de9ff55f0c9e506d5fd021becd1` | `cf6bd38f` |
@@ -986,7 +986,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/proverbs_27.json` | 27 | `deb503be5080bb396767e126a10fa0ab5f19f7a82befee48b3df66090cdf72d0` | `41881815` |
 | `output/translations/proverbs_28.json` | 28 | `1fc711e4e05fc70bf636b5928b5355177f570fc756405fa4f064082e4dbcad49` | `f1e59cac` |
 | `output/translations/proverbs_29.json` | 27 | `5397647325038d81ede5cacdf2f48971d2866edafcc9502aa400574e00aa6a75` | `414fb569` |
-| `output/translations/proverbs_30.json` | 33 | `b63adfd1edfe21e78456f8a347c5c2adf5323390672bd53467476172a4553fb7` | `a22785dc` |
+| `output/translations/proverbs_30.json` | 33 | `358ff67d4aa21b709a6498e9d0570ae80292824dc42ee72f1f903fd4b287a588` | `a22785dc` |
 | `output/translations/proverbs_31.json` | 31 | `51d110a49646101d84a824366a364762d220dee1ad82227a861962f9eeea7c35` | `0b61eff1` |
 | `output/translations/psalms_01.json` | 6 | `76d6ab0eeff688575cc98b661dcac76efc6e3a5dbc80127bb505b645e4e334af` | `f70296cb` |
 | `output/translations/psalms_02.json` | 12 | `d3c20c4004f5411db7f4f09fa5930c667de6c2b9d8ab63da1ffcb1c3f24d0811` | `42893b2f` |

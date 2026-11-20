@@ -92,7 +92,7 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **42** นางเปล่งเสียงดังประกาศว่า “ท่านได้รับพระพรท่ามกลางหญิงทั้งปวง และผู้ที่อยู่ในครรภ์ของท่านก็ได้รับพระพร
 
-**43** เหตุใดหนอข้าพเจ้าจึงได้รับเกียรตินี้ ที่มารดาขององค์พระผู้เป็นเจ้าของข้าพเจ้าเสด็จมาหาข้าพเจ้า?
+**43** เหตุใดหนอข้าพเจ้าจึงได้รับเกียรตินี้ ที่มารดาขององค์พระผู้เป็นเจ้าของข้าพเจ้ามาหาข้าพเจ้า?
 
 **44** ดูเถิด เมื่อเสียงทักทายของท่านมาถึงหูของข้าพเจ้า ทารกในครรภ์ของข้าพเจ้าก็ดิ้นไหวด้วยความยินดี
 
@@ -2406,7 +2406,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/luke_01.json` | `f30038526ae34b6816461f37d51e967f3542f577562321bc77af96382ad9976d` |
+| `output/translations/luke_01.json` | `3e6fd9c66c0dde856dcebe67a505d6abcfea986962efd7fb4296181362b4c009` |
 | `output/translations/luke_02.json` | `e50197772258e55fe3d51fecd922cfd83f9ab5ed2b2727d61038dfd9bdce5e03` |
 | `output/translations/luke_03.json` | `9a9d5869f0fa64c19cd9edcacaf116acf2db9e2471859c861bc6c2ff1abe4ba1` |
 | `output/translations/luke_04.json` | `7379810798ce3c7a1396595d45437915edd42de9ff55f0c9e506d5fd021becd1` |
