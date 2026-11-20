@@ -1060,7 +1060,7 @@ _This reader edition shows the Thai translation and the contextual summary (บ�
 
 **50** พี่น้องทั้งหลาย ข้าพเจ้าขอกล่าวว่า เนื้อและเลือดไม่สามารถรับอาณาจักรของพระเจ้าเป็นมรดกได้ และความเน่าเปื่อยก็ไม่ได้รับความไม่เน่าเปื่อยเป็นมรดก
 
-**51** ดูเถิด ข้าพเจ้าจะบอกความล้ำลึกแก่พวกท่าน คือเราทุกคนจะไม่ล่วงลับไป แต่เราทุกคนจะถูกเปลี่ยนแปลง
+**51** ดูเถิด ข้าพเจ้าจะบอกความล้ำลึกแก่พวกท่าน คือพวกเราบางคนจะไม่ล่วงลับไป แต่เราทุกคนจะถูกเปลี่ยนแปลง
 
 **52** ในชั่วพริบตาเดียว ในการกระพริบตาเดียว เมื่อแตรครั้งสุดท้าย เพราะแตรจะดังขึ้น และคนตายจะถูกทำให้เป็นขึ้นในความไม่เน่าเปื่อย และเราจะถูกเปลี่ยนแปลง
 
@@ -1158,6 +1158,6 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/1corinthians_12.json` | `95bf5fd6626e97fa31d8f3180c4f6294c1bd3f81742ebd863e2b56c59012d3d5` |
 | `output/translations/1corinthians_13.json` | `66c21bd57cb79fc964478ccf1f6f0c5a382777f96e49be32fb50666a66bbb27e` |
 | `output/translations/1corinthians_14.json` | `fd751079060a2cdc11047428ca6c5f246afae6e17dcd3d486744681e623c95ae` |
-| `output/translations/1corinthians_15.json` | `f3e47bcd2667a869826a20a911bf097ce2216eba8b26f6bbfba9470889fbf4f3` |
+| `output/translations/1corinthians_15.json` | `9e1f085d562806e56bbefd739ebbb46faed0e2e5665ad2d98d43ec5dac470c73` |
 | `output/translations/1corinthians_16.json` | `a8deab69d82f0b049df96ee74a09aec3ba1f5f7bfaeb8cacbf5640cd25983c27` |
 

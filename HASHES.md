@@ -62,7 +62,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/1corinthians_12.json` | 31 | `95bf5fd6626e97fa31d8f3180c4f6294c1bd3f81742ebd863e2b56c59012d3d5` | `21c8490e` |
 | `output/translations/1corinthians_13.json` | 13 | `66c21bd57cb79fc964478ccf1f6f0c5a382777f96e49be32fb50666a66bbb27e` | `7a5bb103` |
 | `output/translations/1corinthians_14.json` | 40 | `fd751079060a2cdc11047428ca6c5f246afae6e17dcd3d486744681e623c95ae` | `f6bc480f` |
-| `output/translations/1corinthians_15.json` | 58 | `f3e47bcd2667a869826a20a911bf097ce2216eba8b26f6bbfba9470889fbf4f3` | `b64d4872` |
+| `output/translations/1corinthians_15.json` | 58 | `9e1f085d562806e56bbefd739ebbb46faed0e2e5665ad2d98d43ec5dac470c73` | `b64d4872` |
 | `output/translations/1corinthians_16.json` | 24 | `a8deab69d82f0b049df96ee74a09aec3ba1f5f7bfaeb8cacbf5640cd25983c27` | `b64d4872` |
 | `output/translations/1john_01.json` | 10 | `bc09a25736e70fc3a8cf4fa74c62f52677866fa50cd0b99ea2333208c1126ebf` | `99db43c8` |
 | `output/translations/1john_02.json` | 29 | `d5259a377d0dd260ab3a903a5e8bee9a569e6aaef5bfe8f96237d43232afadfb` | `cd99b6b7` |
@@ -719,12 +719,12 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/joel_03.json` | 5 | `7e0fa549a93233b8f7f5439cfc285dd22db3763b3317473691153f18f65081b9` | `d928df45` |
 | `output/translations/joel_04.json` | 21 | `7e11aa39c4b2214f59c23591f15fbf5581fbd6a3a32e4da6d7f3a06e8e9d5da9` | `29c6a93b` |
 | `output/translations/john_01.json` | 51 | `6b7ce7c25d0d1d1bec64a183defb6f7aacfe31fe3b845a44da31be6206a9e042` | `22fa6385` |
-| `output/translations/john_02.json` | 25 | `2c50619d7cf50b793fdc0f6397930c68432c054b3477ed78fbf650f9d4e833fa` | `d03c3a1a` |
+| `output/translations/john_02.json` | 25 | `a8ecaa78e6672d266fe68c55015337f79ccf1b4dfe29db375b80ea619fb83f8f` | `d03c3a1a` |
 | `output/translations/john_03.json` | 36 | `c7f55fc4d85f009fea094f4e80d42ec4c383ea318db8a1288a28ccfae469fcac` | `d03c3a1a` |
 | `output/translations/john_04.json` | 54 | `4e8b0a9e35db29690117d74735167d5c6f220ba8dabf36429c124140a66b7626` | `d03c3a1a` |
 | `output/translations/john_05.json` | 46 | `3708fcaa476b0a398eea282f0e4a6612e42b54cf2841df15946257b432411c8b` | `d03c3a1a` |
-| `output/translations/john_06.json` | 71 | `56da11c999524608538105523b17efd938365961c36f9805b4e362f96582242e` | `d03c3a1a` |
-| `output/translations/john_07.json` | 53 | `1e84a021edabe8ff6552f8a6cc13e7f469d003b2ef669e8fc4d71ee8c9a609ec` | `d03c3a1a` |
+| `output/translations/john_06.json` | 71 | `bb2ec4511198ff2e8dfe30bcd04008cb6c5877d5550bd3097679f529c2463c94` | `d03c3a1a` |
+| `output/translations/john_07.json` | 53 | `1b5014ef16a79a27c6043f501c334bca88f8175cb0ef2fd11baed5664de17ddf` | `d03c3a1a` |
 | `output/translations/john_08.json` | 59 | `309b2d519e6db984cd8914fb2cc10a2698bf1362758b67c0ac94632c14b564e2` | `d03c3a1a` |
 | `output/translations/john_09.json` | 41 | `330a1294b6358b2842f71f240289d37f5ac4c6af86788836fe0b385f49dacffa` | `d03c3a1a` |
 | `output/translations/john_10.json` | 42 | `f878cde0f49d35383f1439f85f91c65f53a3684e9c8f06fd76eb5235a8f066e6` | `b64d4872` |
@@ -824,7 +824,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/luke_01.json` | 80 | `f30038526ae34b6816461f37d51e967f3542f577562321bc77af96382ad9976d` | `7040ad9f` |
 | `output/translations/luke_02.json` | 52 | `e50197772258e55fe3d51fecd922cfd83f9ab5ed2b2727d61038dfd9bdce5e03` | `6d15bb1a` |
 | `output/translations/luke_03.json` | 38 | `9a9d5869f0fa64c19cd9edcacaf116acf2db9e2471859c861bc6c2ff1abe4ba1` | `d03c3a1a` |
-| `output/translations/luke_04.json` | 44 | `7379810798ce3c7a1396595d45437915edd42de9ff55f0c9e506d5fd021becd1` | `cf6bd38f` |
+| `output/translations/luke_04.json` | 44 | `06735ac0e5c650fdb69e5584dde159b9c7dd467681772ef36f0a35cbb8d98104` | `cf6bd38f` |
 | `output/translations/luke_05.json` | 39 | `b91da001a794caf5dc19533eaf62a19e8d891868b1b80a67979e25ea17c828a0` | `6d15bb1a` |
 | `output/translations/luke_06.json` | 49 | `06fd66633986f1bd1bd498d0b8b7b78526ecbb24311bbf492162a14b10c9f051` | `d03c3a1a` |
 | `output/translations/luke_07.json` | 50 | `13824c42637bd70dd2fb9d484a6f5f5c00be8d4453dcc8ab5f61f8f9253ac6eb` | `d03c3a1a` |
