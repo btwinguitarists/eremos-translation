@@ -198,7 +198,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**43** เหตุใดหนอข้าพเจ้าจึงได้รับเกียรตินี้ ที่มารดาขององค์พระผู้เป็นเจ้าของข้าพเจ้าเสด็จมาหาข้าพเจ้า?
+**43** เหตุใดหนอข้าพเจ้าจึงได้รับเกียรตินี้ ที่มารดาขององค์พระผู้เป็นเจ้าของข้าพเจ้ามาหาข้าพเจ้า?
 
 > ___
 
@@ -4690,7 +4690,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**47** และจะมีการประกาศในพระนามของพระองค์ เรื่องการกลับใจเพื่อการยกโทษบาปแก่ชนทุกชาติ โดยเริ่มต้นจากกรุงเยรูซาเล็ม
+**47** และจะมีการประกาศในพระนามของพระองค์ เรื่องการกลับใจและการยกโทษบาปแก่ชนทุกชาติ โดยเริ่มต้นจากกรุงเยรูซาเล็ม
 
 > ___
 
@@ -4726,7 +4726,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/luke_01.json` | `f30038526ae34b6816461f37d51e967f3542f577562321bc77af96382ad9976d` |
+| `output/translations/luke_01.json` | `3e6fd9c66c0dde856dcebe67a505d6abcfea986962efd7fb4296181362b4c009` |
 | `output/translations/luke_02.json` | `e50197772258e55fe3d51fecd922cfd83f9ab5ed2b2727d61038dfd9bdce5e03` |
 | `output/translations/luke_03.json` | `9a9d5869f0fa64c19cd9edcacaf116acf2db9e2471859c861bc6c2ff1abe4ba1` |
 | `output/translations/luke_04.json` | `7379810798ce3c7a1396595d45437915edd42de9ff55f0c9e506d5fd021becd1` |
@@ -4749,5 +4749,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/luke_21.json` | `2c44259c457795ded72824270807f5d2e7b30845ef464a707486f5ad90205c06` |
 | `output/translations/luke_22.json` | `76e0650fe2477982dc592d75c27182d20455e0d34ad25fe6a94b98f084c13e97` |
 | `output/translations/luke_23.json` | `158134e80c383cc7391151ee1798f33af76c5a8a7f1e299dce241a203efb2e12` |
-| `output/translations/luke_24.json` | `a1bb9cba8e3dc6fb43ece420b038fec03afa56474208e7254f72a495d43fd94b` |
+| `output/translations/luke_24.json` | `6c3fb292bec5c83dbbe939580d11421861f96d7cf1bbfc1db2d0e2cf79ed28a3` |
 

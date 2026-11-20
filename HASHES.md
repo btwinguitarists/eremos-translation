@@ -135,7 +135,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/1timothy_01.json` | 20 | `c7c6fcf59f1ef51bc256c7ef4b3f626e197cea6ca0491e818ff9b889f8a4a490` | `a66a45c7` |
 | `output/translations/1timothy_02.json` | 15 | `13af01b7fb145a1425eb85bc58a57d6a7fd440689f65c36822957f9dd5bb7e31` | `d03c3a1a` |
 | `output/translations/1timothy_03.json` | 16 | `53c0e7becdd329cd61c2322e3fe86ddba55536b4f09f04edeb0bcde83568973b` | `6d15bb1a` |
-| `output/translations/1timothy_04.json` | 16 | `45591e3e3bfccc362d1b7118c1dcde3645285988048f5124fefae111ae3b8b77` | `ee44245d` |
+| `output/translations/1timothy_04.json` | 16 | `a3e17690dfa9388ed20a5fb9287e3eac771c46365a48bf039f58f41eee643c39` | `ee44245d` |
 | `output/translations/1timothy_05.json` | 25 | `6eff4d17f12e102ac6762faac61bf327cb8cd3ce705e555bb0a648c28bf9eba2` | `eccf43cb` |
 | `output/translations/1timothy_06.json` | 21 | `821f9fc6ba9fc08da63dfcd074cc18e35bbe36fc48daaf1d7cad308ee94fabf9` | `17f2100f` |
 | `output/translations/2chronicles_01.json` | 18 | `07a88cf3fa6fddf40d402d75aafca940841281d5de58c8a5c27d99527d8bdd8e` | `6f1d7ba2` |
@@ -523,7 +523,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/haggai_01.json` | 15 | `1f309e8c801b7ccd90b401a81b38c7d0a34c4c8088df933f53ab3468ca315ab9` | `e983ef0d` |
 | `output/translations/haggai_02.json` | 23 | `dd16143c9ee4cfefc09fdaf0b8eedf9561f16c2eb3a14667f138da71af923324` | `f86f4ef1` |
 | `output/translations/hebrews_01.json` | 14 | `f57cde0ff89f59a30df5b6e386e9ca302a66ca3ab4b657ac0106d380b45b0ab3` | `b64d4872` |
-| `output/translations/hebrews_02.json` | 18 | `19861717616df0e6dd2d83a68b0ec5f62cbd07e944563e0808259a192409df48` | `b64d4872` |
+| `output/translations/hebrews_02.json` | 18 | `401e633389c8a6e0cfdb12e7ee23d8e6b18699c97de2061d2be502a93ac954c2` | `b64d4872` |
 | `output/translations/hebrews_03.json` | 19 | `2304367411023a3ebe7fb048eecc1189be931fdc7159c67d6648c9837d789664` | `a9bee188` |
 | `output/translations/hebrews_04.json` | 16 | `67adde4a294d2bc1b50b1638744b9d3b441ef83edbddc62d88df51e7128488e8` | `b64d4872` |
 | `output/translations/hebrews_05.json` | 14 | `6f9073271a914ded6fc5767a4f091a8ee9b8af407c3b00191fbefc899dd81c83` | `f4d002b7` |
@@ -532,7 +532,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/hebrews_08.json` | 13 | `7af4362eb73c87e52a4ef99569347079ec51da2a505c038cf059f62b62ee2b09` | `6742d7c2` |
 | `output/translations/hebrews_09.json` | 28 | `0d76d398b1ebade928ae58b4f07bb9fdd910fdb3396bd4570ddb63102e16c56d` | `1d237b06` |
 | `output/translations/hebrews_10.json` | 39 | `a082ba35191f83048971852f2fdbaf043b3a2281af3e4350e88d84ad684e907c` | `c5d0322a` |
-| `output/translations/hebrews_11.json` | 40 | `a0b41086337aa89deea22c3c11ca3a17204244337622cf90e1461e637b854d42` | `d7851be1` |
+| `output/translations/hebrews_11.json` | 40 | `d3f54add9076ad934bc0bc330c0a4caa6e92e37272a95a9272f265fdddb9e02e` | `d7851be1` |
 | `output/translations/hebrews_12.json` | 29 | `ab3705d42e1a3a90996eae4d9a7a43feb175487ec04766f594eb18133c255a8a` | `e06d560d` |
 | `output/translations/hebrews_13.json` | 25 | `cd1f0202551281b52dc8ea05f213503bbf3b080ea423451171a65492b1ff0ee4` | `9ec9a94c` |
 | `output/translations/hosea_01.json` | 9 | `b3c17f271aeae0d2ad951b76405d291c4422d8c65f962d49183847b2f261e1bc` | `70677ef5` |
@@ -723,8 +723,8 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/john_03.json` | 36 | `c7f55fc4d85f009fea094f4e80d42ec4c383ea318db8a1288a28ccfae469fcac` | `d03c3a1a` |
 | `output/translations/john_04.json` | 54 | `4e8b0a9e35db29690117d74735167d5c6f220ba8dabf36429c124140a66b7626` | `d03c3a1a` |
 | `output/translations/john_05.json` | 46 | `3708fcaa476b0a398eea282f0e4a6612e42b54cf2841df15946257b432411c8b` | `d03c3a1a` |
-| `output/translations/john_06.json` | 71 | `56da11c999524608538105523b17efd938365961c36f9805b4e362f96582242e` | `d03c3a1a` |
-| `output/translations/john_07.json` | 53 | `1e84a021edabe8ff6552f8a6cc13e7f469d003b2ef669e8fc4d71ee8c9a609ec` | `d03c3a1a` |
+| `output/translations/john_06.json` | 71 | `aa3a5dda589c7163c09bc79738aab66d1abfca6292e5c959c4e9422bbabcc4ed` | `d03c3a1a` |
+| `output/translations/john_07.json` | 53 | `362a538431b9790505627e8e22ded8416ab3f543821594fdd31a7f3f174263d9` | `d03c3a1a` |
 | `output/translations/john_08.json` | 59 | `309b2d519e6db984cd8914fb2cc10a2698bf1362758b67c0ac94632c14b564e2` | `d03c3a1a` |
 | `output/translations/john_09.json` | 41 | `330a1294b6358b2842f71f240289d37f5ac4c6af86788836fe0b385f49dacffa` | `d03c3a1a` |
 | `output/translations/john_10.json` | 42 | `f878cde0f49d35383f1439f85f91c65f53a3684e9c8f06fd76eb5235a8f066e6` | `b64d4872` |
@@ -821,7 +821,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/leviticus_25.json` | 55 | `0e8608a0f54a0abf7234e1e3b03e127eedbff20f0e7e90a196387712131b4c84` | `7e8a9e0c` |
 | `output/translations/leviticus_26.json` | 46 | `4b833c44d29ea0078619aba048a2483f1ddd53a0f803d1897cd08ed5bee2d729` | `c0e09628` |
 | `output/translations/leviticus_27.json` | 34 | `a5c7d17803e229bcf93e6c8f975a482977454dbe10ead9d270cd648f5dfadc36` | `9402b895` |
-| `output/translations/luke_01.json` | 80 | `f30038526ae34b6816461f37d51e967f3542f577562321bc77af96382ad9976d` | `7040ad9f` |
+| `output/translations/luke_01.json` | 80 | `3e6fd9c66c0dde856dcebe67a505d6abcfea986962efd7fb4296181362b4c009` | `7040ad9f` |
 | `output/translations/luke_02.json` | 52 | `e50197772258e55fe3d51fecd922cfd83f9ab5ed2b2727d61038dfd9bdce5e03` | `6d15bb1a` |
 | `output/translations/luke_03.json` | 38 | `9a9d5869f0fa64c19cd9edcacaf116acf2db9e2471859c861bc6c2ff1abe4ba1` | `d03c3a1a` |
 | `output/translations/luke_04.json` | 44 | `7379810798ce3c7a1396595d45437915edd42de9ff55f0c9e506d5fd021becd1` | `cf6bd38f` |
@@ -844,7 +844,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/luke_21.json` | 38 | `2c44259c457795ded72824270807f5d2e7b30845ef464a707486f5ad90205c06` | `d03c3a1a` |
 | `output/translations/luke_22.json` | 71 | `76e0650fe2477982dc592d75c27182d20455e0d34ad25fe6a94b98f084c13e97` | `d03c3a1a` |
 | `output/translations/luke_23.json` | 55 | `158134e80c383cc7391151ee1798f33af76c5a8a7f1e299dce241a203efb2e12` | `421ea6fc` |
-| `output/translations/luke_24.json` | 53 | `a1bb9cba8e3dc6fb43ece420b038fec03afa56474208e7254f72a495d43fd94b` | `7040ad9f` |
+| `output/translations/luke_24.json` | 53 | `6c3fb292bec5c83dbbe939580d11421861f96d7cf1bbfc1db2d0e2cf79ed28a3` | `7040ad9f` |
 | `output/translations/malachi_01.json` | 14 | `a73ecacab8ab4d28ae904a457f49e894de5bdb77c74497a909e01005555d022b` | `5078c2e8` |
 | `output/translations/malachi_02.json` | 17 | `7304f706aba3c861237622c7a6da946f54b8cec50d2659897c4955cc37347e07` | `66c79d55` |
 | `output/translations/malachi_03.json` | 24 | `ead323b0b251e90f4b3ac1afe2f1a5f3b09fc32bea9e8afe0642709b625b5822` | `bacfbcd3` |
@@ -986,7 +986,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/proverbs_27.json` | 27 | `deb503be5080bb396767e126a10fa0ab5f19f7a82befee48b3df66090cdf72d0` | `41881815` |
 | `output/translations/proverbs_28.json` | 28 | `1fc711e4e05fc70bf636b5928b5355177f570fc756405fa4f064082e4dbcad49` | `f1e59cac` |
 | `output/translations/proverbs_29.json` | 27 | `5397647325038d81ede5cacdf2f48971d2866edafcc9502aa400574e00aa6a75` | `414fb569` |
-| `output/translations/proverbs_30.json` | 33 | `b63adfd1edfe21e78456f8a347c5c2adf5323390672bd53467476172a4553fb7` | `a22785dc` |
+| `output/translations/proverbs_30.json` | 33 | `358ff67d4aa21b709a6498e9d0570ae80292824dc42ee72f1f903fd4b287a588` | `a22785dc` |
 | `output/translations/proverbs_31.json` | 31 | `51d110a49646101d84a824366a364762d220dee1ad82227a861962f9eeea7c35` | `0b61eff1` |
 | `output/translations/psalms_01.json` | 6 | `76d6ab0eeff688575cc98b661dcac76efc6e3a5dbc80127bb505b645e4e334af` | `f70296cb` |
 | `output/translations/psalms_02.json` | 12 | `d3c20c4004f5411db7f4f09fa5930c667de6c2b9d8ab63da1ffcb1c3f24d0811` | `42893b2f` |
