@@ -394,7 +394,7 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **17** คนนำหนังสือม้วนของอิสยาห์ผู้เผยพระวจนะมาถวายพระองค์ พระองค์ทรงคลี่ม้วนหนังสือออก พบข้อที่เขียนไว้ว่า
 
-**18** ‘พระวิญญาณขององค์พระผู้เป็นเจ้าสถิตอยู่เหนือเรา เพราะพระองค์ทรงเจิมเราให้ประกาศข่าวประเสริฐแก่คนยากจน ทรงใช้เรามาประกาศปลดปล่อยแก่เชลยและประกาศการคืนสายตาแก่คนตาบอด ประกาศปลดปล่อยผู้ถูกกดขี่
+**18** ‘พระวิญญาณขององค์พระผู้เป็นเจ้าสถิตอยู่เหนือเรา เพราะพระองค์ทรงเจิมเราให้ประกาศข่าวประเสริฐแก่คนยากจน ทรงใช้เรามาประกาศปลดปล่อยแก่เชลยและประกาศการคืนสายตาแก่คนตาบอด ปลดปล่อยผู้ถูกกดขี่ให้เป็นอิสระ
 
 **19** ประกาศปีแห่งความโปรดปรานขององค์พระผู้เป็นเจ้า’
 
@@ -2409,7 +2409,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/luke_01.json` | `f30038526ae34b6816461f37d51e967f3542f577562321bc77af96382ad9976d` |
 | `output/translations/luke_02.json` | `e50197772258e55fe3d51fecd922cfd83f9ab5ed2b2727d61038dfd9bdce5e03` |
 | `output/translations/luke_03.json` | `9a9d5869f0fa64c19cd9edcacaf116acf2db9e2471859c861bc6c2ff1abe4ba1` |
-| `output/translations/luke_04.json` | `7379810798ce3c7a1396595d45437915edd42de9ff55f0c9e506d5fd021becd1` |
+| `output/translations/luke_04.json` | `06735ac0e5c650fdb69e5584dde159b9c7dd467681772ef36f0a35cbb8d98104` |
 | `output/translations/luke_05.json` | `b91da001a794caf5dc19533eaf62a19e8d891868b1b80a67979e25ea17c828a0` |
 | `output/translations/luke_06.json` | `06fd66633986f1bd1bd498d0b8b7b78526ecbb24311bbf492162a14b10c9f051` |
 | `output/translations/luke_07.json` | `13824c42637bd70dd2fb9d484a6f5f5c00be8d4453dcc8ab5f61f8f9253ac6eb` |
