@@ -56,14 +56,14 @@
     "greek": "ἡ οὖν Μαριὰμ λαβοῦσα λίτραν μύρου νάρδου πιστικῆς πολυτίμου ἤλειψεν τοὺς πόδας τοῦ Ἰησοῦ καὶ ἐξέμαξεν ταῖς θριξὶν αὐτῆς τοὺς πόδας αὐτοῦ·ἡ δὲ οἰκία ἐπληρώθη ἐκ τῆς ὀσμῆς τοῦ μύρου.",
     "bsb_english": "Then Mary took about a pint of expensive perfume, made of pure nard, and she anointed Jesus’ feet and wiped them with her hair. And the house was filled with the fragrance of the perfume.",
     "translation": {
-      "thai": "มารีย์จึงเอาน้ำมันหอมแท้ของสมุนไพรนาร์ดที่มีค่ามากประมาณครึ่งลิตร ชโลมที่พระบาทของพระเยซู และเช็ดพระบาทของพระองค์ด้วยผมของนาง ทั่วทั้งบ้านอบอวลไปด้วยกลิ่นหอมของน้ำมันนั้น",
+      "thai": "มารีย์จึงเอาน้ำมันหอมแท้ของสมุนไพรนาร์ดที่มีค่ามากหนักหนึ่งลิตรา ชโลมที่พระบาทของพระเยซู และเช็ดพระบาทของพระองค์ด้วยผมของนาง ทั่วทั้งบ้านอบอวลไปด้วยกลิ่นหอมของน้ำมันนั้น",
       "thai_literal": null,
       "thai_summary": "การชโลมเท้าด้วยน้ำมันหอมเป็นการกระทำที่ผิดปกติทางวัฒนธรรม — ในยุคนั้น ตามปกติจะชโลมศีรษะหรือชโลมร่างกายของผู้ตายก่อนฝังเท่านั้น ไม่ชโลมเท้า เพราะถือว่าเป็นส่วนสกปรก การที่มารีย์เลือกชโลมพระบาทและเช็ดด้วยผม เป็นการแสดงความถ่อมตนสูงสุด และยังเป็นการเตรียมการฝังพระศพล่วงหน้าตามที่พระเยซูจะทรงตีความในข้อ 7",
       "key_decisions": [
         {
           "greek": "λίτραν",
-          "thai": "ประมาณครึ่งลิตร",
-          "rationale": "Per uW translate-bweight: λίτρα = Roman pound (≈327 g, or about half a liter for liquid by volume). Thai standard practice — convert to metric for reader comprehension. 'ประมาณครึ่งลิตร' (about half a liter) is the volume equivalent uW recommends for liquid measure."
+          "thai": "หนักหนึ่งลิตรา",
+          "rationale": "λίτρα is a weight, as in John 19:39. A volume conversion requires density."
         },
         {
           "greek": "νάρδου πιστικῆς πολυτίμου",
@@ -256,14 +256,14 @@
     "greek": "ὅτι πολλοὶ δι’αὐτὸν ὑπῆγον τῶν Ἰουδαίων καὶ ἐπίστευον εἰς τὸν Ἰησοῦν.",
     "bsb_english": "because on account of him many of the Jews were deserting them and believing in Jesus.",
     "translation": {
-      "thai": "เพราะเหตุของลาซารัสนั้น ชาวยิวจำนวนมากได้หันไปจากพวกเขา และเชื่อในพระเยซู",
+      "thai": "เพราะเหตุของลาซารัสนั้น ชาวยิวจำนวนมากได้จากไป และเชื่อในพระเยซู",
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
         {
           "greek": "ὑπῆγον",
           "thai": "หันไปจากพวกเขา",
-          "rationale": "Per uW figs-explicit: ὑπάγω here = 'depart/go away (from the Jewish leadership)' — i.e., abandon their teaching authority. Thai 'หันไปจาก' (turn-away from) makes the desertion-from-leadership explicit."
+          "rationale": "The verb does not identify a starting group or say that people abandoned its teaching."
         }
       ],
       "notes": "Per uW figs-explicit: 'went away' = stopped following the religious leadership, started following Jesus. This is the sociological threat the leadership perceives — loss of authority over their people."
@@ -451,7 +451,7 @@
     "greek": "οἱ οὖν Φαρισαῖοι εἶπαν πρὸς ἑαυτούς·Θεωρεῖτε ὅτι οὐκ ὠφελεῖτε οὐδέν·ἴδε ὁ κόσμος ὀπίσω αὐτοῦ ἀπῆλθεν.",
     "bsb_english": "Then the Pharisees said to one another, “You can see that this is doing no good. Look how the whole world has gone after Him!”",
     "translation": {
-      "thai": "พวกฟาริสีจึงพูดกันเองว่า “ดูเถิด เราทำอะไรไม่สำเร็จเลย ดูเถิด คนทั้งโลกก็ติดตามเขาไปหมดแล้ว”",
+      "thai": "พวกฟาริสีจึงพูดกันเองว่า “ดูเถิด พวกท่านทำอะไรไม่สำเร็จเลย ดูเถิด คนทั้งโลกก็ติดตามเขาไปหมดแล้ว”",
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
@@ -1175,14 +1175,14 @@
     "greek": "ὅτι ἐγὼ ἐξ ἐμαυτοῦ οὐκ ἐλάλησα,ἀλλ’ὁ πέμψας με πατὴρ αὐτός μοι ἐντολὴν δέδωκεν τί εἴπω καὶ τί λαλήσω.",
     "bsb_english": "I have not spoken on My own, but the Father who sent Me has commanded Me what to say and how to say it.",
     "translation": {
-      "thai": "เพราะเราไม่ได้พูดด้วยตัวของเราเอง แต่พระบิดาผู้ทรงใช้เรามาทรงบัญชาเราว่าจะพูดอะไร และจะกล่าวอย่างไร",
+      "thai": "เพราะเราไม่ได้พูดด้วยตัวของเราเอง แต่พระบิดาผู้ทรงใช้เรามาทรงบัญชาเราว่าจะพูดอะไร และจะกล่าวสิ่งใด",
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
         {
           "greek": "τί εἴπω καὶ τί λαλήσω",
-          "thai": "จะพูดอะไร และจะกล่าวอย่างไร",
-          "rationale": "Per uW figs-doublet: εἴπω + λαλήσω — possibly synonymous-doublet OR content-vs-manner distinction. Translation chooses the manner-distinction reading: 'พูดอะไร' (what to say) + 'กล่าวอย่างไร' (how to say). This matches uW alternative reading (1) — content + manner together."
+          "thai": "จะพูดอะไร และจะกล่าวสิ่งใด",
+          "rationale": "Both interrogatives are τί. The Greek repeats the question with two speech verbs."
         }
       ],
       "notes": "Per uW figs-doublet: doublet for emphasis OR distinction (content + manner). Translation goes with the latter reading — slight nuance preserved. The Father-Son speech-mediation is foundational: Jesus's words ARE the Father's words."
