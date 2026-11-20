@@ -1638,7 +1638,7 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 > ___
 
-**55** หลังจากซักแล้ว ปุโรหิตจะตรวจอีกครั้ง และถ้าสิ่งที่ติดเชื้อราไม่เปลี่ยนลักษณะ เป็นมลทิน ต้องเผาด้วยไฟ ไม่ว่าเชื้อราจะอยู่ที่ด้านหน้าหรือด้านหลัง
+**55** หลังจากซักแล้ว ปุโรหิตจะตรวจอีกครั้ง และถ้าสิ่งที่ติดเชื้อราไม่เปลี่ยนลักษณะ แม้เชื้อราจะไม่ลุกลาม ก็ยังเป็นมลทิน ต้องเผาด้วยไฟ ไม่ว่าเชื้อราจะอยู่ที่ด้านหน้าหรือด้านหลัง
 
 > ___
 
@@ -1811,7 +1811,7 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 > ___
 
-**36** ปุโรหิตต้องสั่งให้ทำความสะอาดบ้านก่อนที่เขาจะเข้าไปตรวจเชื้อรา เพื่อไม่มีสิ่งใดในบ้านเป็นมลทิน หลังจากนั้นปุโรหิตจะเข้าไปตรวจบ้าน
+**36** ปุโรหิตต้องสั่งให้ขนสิ่งของออกจากบ้านก่อนที่เขาจะเข้าไปตรวจเชื้อรา เพื่อไม่มีสิ่งใดในบ้านเป็นมลทิน หลังจากนั้นปุโรหิตจะเข้าไปตรวจบ้าน
 
 > ___
 
@@ -3857,8 +3857,8 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/leviticus_10.json` | `dfca1eecb48bbc6ee958e105a42d887babe42ffb39f9f911a3dc91e6a4137e61` |
 | `output/translations/leviticus_11.json` | `f9d41a0db85b44a1e7ccfe572dd4ff9042f119c734541df3b14f27c4d7750418` |
 | `output/translations/leviticus_12.json` | `3d15e9fa1f5a099ebe56525533091a94be975b38548214dfb77dbac79558ebe4` |
-| `output/translations/leviticus_13.json` | `c33c6b139dca68b9fa22c9c69464264b2cf717b7f32ed9c2c9ee18f8959f2731` |
-| `output/translations/leviticus_14.json` | `9f657fbae982f4a97e6b1c91fae5f4148c26ceff99a1836ec795fdc6131bad47` |
+| `output/translations/leviticus_13.json` | `b519fe0e60dbeb2b80379380f8530ff81373b89560fe486014366fc32d43a23d` |
+| `output/translations/leviticus_14.json` | `76965228c3c9515b1fcf8b039349b87df08523de6b3dfcccabf6f27f26c81a27` |
 | `output/translations/leviticus_15.json` | `b70a8aa90b6e82ee918a75d1afc1900ea943da4cd988a91bdcf7428ba166121f` |
 | `output/translations/leviticus_16.json` | `86696881fab5a56ee2c867605435d215c584a2c43b62668dc78b747ee9ec697f` |
 | `output/translations/leviticus_17.json` | `bfcfb2841e2b8aed8c56f8cb2df511cf33f4132808c8fd69c6a065e6aa2a17be` |
@@ -3870,6 +3870,6 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/leviticus_23.json` | `05b86353f2b0264d8912c5688218e89447291355d5bd77830251e6c66b7ce3dd` |
 | `output/translations/leviticus_24.json` | `1db52ef74a16dd357b0bd19a3803f10104054c228f9ef23d5219da13aa745ed7` |
 | `output/translations/leviticus_25.json` | `0e8608a0f54a0abf7234e1e3b03e127eedbff20f0e7e90a196387712131b4c84` |
-| `output/translations/leviticus_26.json` | `4b833c44d29ea0078619aba048a2483f1ddd53a0f803d1897cd08ed5bee2d729` |
+| `output/translations/leviticus_26.json` | `f18f86d290247d763aa58265c5987344b4acc82cc35f209278076c725f045e84` |
 | `output/translations/leviticus_27.json` | `a5c7d17803e229bcf93e6c8f975a482977454dbe10ead9d270cd648f5dfadc36` |
 

@@ -4,14 +4,16 @@
 |-------|--------|--------|
 | Hebrew-field integrity | ✅ clean | [hebrew_field_integrity_deuteronomy_29.md](hebrew_field_integrity_deuteronomy_29.md) |
 | Divine names (locked Tetragrammaton) | ✅ clean | [divine_names_deuteronomy_29.md](divine_names_deuteronomy_29.md) |
-| Versification anchor | ✅ clean | [versification_deuteronomy_29.md](versification_deuteronomy_29.md) |
+| Versification anchor | ⚠️ flags | [versification_deuteronomy_29.md](versification_deuteronomy_29.md) |
 | Honorifics binding (Rachasap) | ✅ clean | [honorifics_binding_deuteronomy_29.md](honorifics_binding_deuteronomy_29.md) |
 | Back-translation | ✅ clean | [back_translation_deuteronomy_29.md](back_translation_deuteronomy_29.md) |
 | Thai-summary coverage (info) | ✅ clean | [summary_coverage_deuteronomy_29.md](summary_coverage_deuteronomy_29.md) |
+| Claim consistency (hallucination, advisory) | ✅ clean | [claim_consistency_deuteronomy_29.md](claim_consistency_deuteronomy_29.md) |
+| unfoldingWord wording (license gate) | ✅ clean | [uw_wording_deuteronomy_29.md](uw_wording_deuteronomy_29.md) |
 
 ## Ship criterion
 
-✅ **Ready to ship.** All checks passed. Follow the workflow doc's ship steps (build bundle → push to Eremos branch → Vercel preview).
+⚠ **Not ready to ship.** One or more checks flagged issues. Review individual reports, update the chapter's translation notes or verses, and re-run.
 
 ## Remaining manual steps (not automated)
 

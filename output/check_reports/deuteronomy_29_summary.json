@@ -18,10 +18,10 @@
     },
     {
       "name": "Versification anchor",
-      "exit_code": 0,
+      "exit_code": 1,
       "report": "versification_deuteronomy_29.md",
       "notes": "",
-      "status": "clean"
+      "status": "flags"
     },
     {
       "name": "Honorifics binding (Rachasap)",
@@ -42,6 +42,20 @@
       "exit_code": 0,
       "report": "summary_coverage_deuteronomy_29.md",
       "notes": "informational only — not a ship gate",
+      "status": "clean"
+    },
+    {
+      "name": "Claim consistency (hallucination, advisory)",
+      "exit_code": 0,
+      "report": "claim_consistency_deuteronomy_29.md",
+      "notes": "advisory only — not a ship gate (raw exit=0)",
+      "status": "clean"
+    },
+    {
+      "name": "unfoldingWord wording (license gate)",
+      "exit_code": 0,
+      "report": "uw_wording_deuteronomy_29.md",
+      "notes": "",
       "status": "clean"
     }
   ]

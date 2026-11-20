@@ -11,7 +11,7 @@ Mode: in-chat (Claude-produced back-translations) | Threshold: 0.35
 ## ℹ Low similarity — rationale documented (intentional divergence)
 
 - **Genesis 42:7** (sim=0.29)
-  - Thai: เมื่อโยเซฟเห็นพี่น้องของตน เขาก็จำพวกเขาได้ แต่ทำตัวเป็นคนแปลกหน้ากับพวกเขาและพูดกับพวกเขาอย่างรุนแรง “พวกเจ้ามาจากที่ไหน?”
+  - Thai: เมื่อโยเซฟเห็นพี่น้องของตน เขาก็จำพวกเขาได้ แต่ทำตัวเป็นคนแปลกหน้ากับพวกเขาและพูดกับพวกเขาอย่างรุนแรง “พวกเจ้ามาจากที่ไหน?” พวกเขาตอบว่า “พวกเรามาจากแผ่นดินคานาอันเพื่อซื้ออาหาร”
   - Back: Joseph saw his brothers and recognized them, but he made himself a stranger to them and spoke harshly to them. He said to them, "From where do you come?" They said, "From the land of Canaan to buy food."
   - BSB:  And when Joseph saw his brothers, he recognized them, but he treated them as strangers and spoke harshly to them. “Where have you come from?” he asked. “From the land of Canaan,” they replied. “We are here to buy food.”
 

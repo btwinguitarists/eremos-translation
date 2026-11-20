@@ -242,7 +242,7 @@ _**ข้อ 34 — 'ถวายเฮเรม' (חָרַם, ḥerem)** เป
 
 **19** แต่ภรรยา บุตร และสัตว์เลี้ยงของพวกเจ้า — ข้าพเจ้ารู้ว่าพวกเจ้ามีสัตว์เลี้ยงมาก — อาจอยู่ในเมืองที่ข้าพเจ้าได้มอบให้พวกเจ้า
 
-**20** จนกว่าองค์พระผู้เป็นเจ้าจะทรงประทานความสงบให้แก่พี่น้องของพวกเจ้าเหมือนที่ทรงประทานให้แก่พวกเจ้า และพวกเขาก็ได้ครอบครองแผ่นดินที่องค์พระผู้เป็นเจ้าพระเจ้าของพวกเจ้าทรงประทานให้แก่พวกเขาฝั่งตะวันออกของแม่น้ำจอร์แดน แล้วแต่ละคนของพวกเจ้าจะกลับไปสู่กรรมสิทธิ์ที่ข้าพเจ้าได้ให้แก่พวกเจ้า”
+**20** จนกว่าองค์พระผู้เป็นเจ้าจะทรงประทานความสงบให้แก่พี่น้องของพวกเจ้าเหมือนที่ทรงประทานให้แก่พวกเจ้า และพวกเขาก็ได้ครอบครองแผ่นดินที่องค์พระผู้เป็นเจ้าพระเจ้าของพวกเจ้าทรงประทานให้แก่พวกเขาอีกฟากหนึ่งของแม่น้ำจอร์แดน แล้วแต่ละคนของพวกเจ้าจะกลับไปสู่กรรมสิทธิ์ที่ข้าพเจ้าได้ให้แก่พวกเจ้า”
 
 **21** ในเวลานั้นข้าพเจ้าได้สั่งโยชูวาว่า “ตาของเจ้าเองได้เห็นทุกสิ่งที่องค์พระผู้เป็นเจ้าพระเจ้าของพวกเจ้าได้ทรงทำต่อกษัตริย์ทั้งสองนี้ องค์พระผู้เป็นเจ้าจะทรงทำเช่นเดียวกันต่ออาณาจักรทั้งหลายที่เจ้ากำลังจะเข้าไป
 
@@ -2182,7 +2182,7 @@ _**ข้อ 68 — 'พระยาห์เวห์จะทรงส่ง�
 
 **6** พวกเจ้าไม่ได้กินขนมปังและไม่ได้ดื่มเหล้าองุ่นหรือเหล้าแรง เพื่อพวกเจ้าจะได้รู้ว่าเรา คือ องค์พระผู้เป็นเจ้าพระเจ้าของพวกเจ้า
 
-**7** และพวกเจ้าได้มาถึงที่นี่ สิโหนกษัตริย์แห่งเฮชโบนและโอกกษัตริย์แห่งบาชานได้ออกมาต่อสู้กับเราในสงคราม แต่พวกเราได้พ่ายแพ้พวกเขา
+**7** และพวกเจ้าได้มาถึงที่นี่ สิโหนกษัตริย์แห่งเฮชโบนและโอกกษัตริย์แห่งบาชานได้ออกมาต่อสู้กับเราในสงคราม แต่พวกเราเอาชนะพวกเขาได้
 
 **8** และพวกเราได้ยึดแผ่นดินของพวกเขาและมอบให้เป็นมรดกแก่ชาวรูเบน ชาวกาด และครึ่งหนึ่งของเผ่ามนัสเสห์
 
@@ -2686,7 +2686,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 |---|---|
 | `output/translations/deuteronomy_01.json` | `7f01a37ad00205416ba43ccebea7313ec29070a381e228d8990772452696c686` |
 | `output/translations/deuteronomy_02.json` | `d66e1f04bae10e9af553ab993564aff67fb4f993ae1c7eb4844bb0751a85cced` |
-| `output/translations/deuteronomy_03.json` | `58fc924fa5ae97ede92adceeca7c67915c3e0dd9b59232230a62f5a995eb6801` |
+| `output/translations/deuteronomy_03.json` | `1aa8999e59d6b7498c3fb49027da2bddc35b7a9e1205497860277b65eda747e9` |
 | `output/translations/deuteronomy_04.json` | `a6c62f2870391e0a345a56428a5d6b822141cd81326f1fb6f8f837ab86d52bf9` |
 | `output/translations/deuteronomy_05.json` | `811889fb7752d036203e5837247d3444221f982838a799f6771471f61dd0b64b` |
 | `output/translations/deuteronomy_06.json` | `63f91e9db34c51019336d702954ef7cf7669e2ea9d4a2b04fb32050fce924d02` |
@@ -2708,14 +2708,14 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/deuteronomy_22.json` | `11a008962664a709b19cb34aec3ec0bfb51167d53d50c2a1c2e4d63a69877ff6` |
 | `output/translations/deuteronomy_23.json` | `8cb26e832a1d1d65ede2ac6a4efc1b26053372347bcd7d360fa78c1eb6ae4525` |
 | `output/translations/deuteronomy_24.json` | `87367c8dddff37b51cd2b8968870a56785cb7a813d5c68fb856219f96408733c` |
-| `output/translations/deuteronomy_25.json` | `5873bbbc64c0729602f98633793ced906036aac65631efd773d800c0b175df9e` |
+| `output/translations/deuteronomy_25.json` | `eb6602c504e69e47cda64f8b8221756b77291dc1fd4d0e108ff50d39e9bce629` |
 | `output/translations/deuteronomy_26.json` | `9d4380108f46a694aca4e48459b153057d3278dc9a4f1792a4698d2e83457d40` |
 | `output/translations/deuteronomy_27.json` | `2198347190580332eba285a28411400010814adee70380b6383cc9928b1d390c` |
 | `output/translations/deuteronomy_28.json` | `8ac58acc2267f56817bb7cdb891abf584cef3a702cd731461efcd63725ec6ce4` |
-| `output/translations/deuteronomy_29.json` | `3fd1184ebc6f5f6d70a3cce19f4bf44f98e4ee947f0146a7eace365470c355cf` |
+| `output/translations/deuteronomy_29.json` | `bf34769cb9374bd799712a96bdd0655965a978415d6bfe9b6cf7cdb2dfb6c88c` |
 | `output/translations/deuteronomy_30.json` | `eb4a251fd4f1b05bde69770e277630abd0399de84df93d1b47aba9d304e69c34` |
 | `output/translations/deuteronomy_31.json` | `b33e24e46ac78725dc7b8e9c348386c4ab0d46da16f1c09157388b53cf155d30` |
-| `output/translations/deuteronomy_32.json` | `a067e35761bc5efea65a111f9c03cefd3d0cdc4e9f738a33f665ca804079f878` |
+| `output/translations/deuteronomy_32.json` | `90207b4fd957bdb48ae960412466ee2d63e18da7df85eeaf0a2915aec5458078` |
 | `output/translations/deuteronomy_33.json` | `02932f4f3325889d060e90b5c9d4a4150451246e4c1713a89cb95bf94c2d5909` |
 | `output/translations/deuteronomy_34.json` | `0ecb3feec877941592f09d5273001488aaabdb0e6decd25258339340c2b8acae` |
 
