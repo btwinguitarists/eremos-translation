@@ -35,7 +35,7 @@ Mode: in-chat (Claude-produced back-translations) | Threshold: 0.35
   - Back: And he shall examine the infection on the seventh day; if the infection has spread in the garment or in the warp or in the woof, or in the leather, for everything that the leather is used for in work—it is a harmful skin disease; the infection is unclean.
   - BSB:  On the seventh day the priest shall reexamine it, and if the mildew has spread in the fabric, weave, knit, or leather, then regardless of how the leather is used, it is a harmful mildew; the article is unclean.
 - **LEV 13:55** (sim=0.06)
-  - Thai: หลังจากซักแล้ว ปุโรหิตจะตรวจอีกครั้ง และถ้าสิ่งที่ติดเชื้อราไม่เปลี่ยนลักษณะ เป็นมลทิน ต้องเผาด้วยไฟ ไม่ว่าเชื้อราจะอยู่ที่ด้านหน้าหรือด้านหลัง
+  - Thai: หลังจากซักแล้ว ปุโรหิตจะตรวจอีกครั้ง และถ้าสิ่งที่ติดเชื้อราไม่เปลี่ยนลักษณะ แม้เชื้อราจะไม่ลุกลาม ก็ยังเป็นมลทิน ต้องเผาด้วยไฟ ไม่ว่าเชื้อราจะอยู่ที่ด้านหน้าหรือด้านหลัง
   - Back: And the priest shall examine after the infection has been washed, and behold, the infection has not changed its appearance, and the infection has not spread; it is unclean—in fire you shall burn it. It is a hollow on its back-side or its front-side.
   - BSB:  After it has been washed, the priest is to reexamine it, and if the mildewed article has not changed in appearance, it is unclean. Even though the mildew has not spread, you must burn the article, whether the mildew is on the front or the back.
 

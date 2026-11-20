@@ -3724,7 +3724,7 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 > ___
 
-**6** พวกเขาแผ่ขยายเหมือนป่ามะพร้าว เหมือนสวนข้างลำธาร เหมือนต้นกฤษณาที่องค์พระผู้เป็นเจ้าทรงปลูก เหมือนต้นสนซีดาร์ข้างน้ำ
+**6** พวกเขาแผ่ขยายเหมือนหุบเขา เหมือนสวนข้างลำธาร เหมือนต้นกฤษณาที่องค์พระผู้เป็นเจ้าทรงปลูก เหมือนต้นสนซีดาร์ข้างน้ำ
 
 > ___
 
@@ -5683,7 +5683,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/numbers_21.json` | `aaac9c383dc43e6106f36a681e1e3c96afdb55ca56d7f354c55e154d9bcfd51b` |
 | `output/translations/numbers_22.json` | `59418334deed081d18b9e058769f8a987b20376b28f3fe609e3a59324fae10b7` |
 | `output/translations/numbers_23.json` | `f2369f54998dc7fa46df6a4585d9a3453631653bc7809a27260f82b484fa7ed7` |
-| `output/translations/numbers_24.json` | `978fc18408bff6db6aad6e26062f306995aeb9726466094ea1e9b91383bb295d` |
+| `output/translations/numbers_24.json` | `f8f0b18f15fac3a93acf2489d6bd2cf168d41e70783478aee7d0088ab25775fe` |
 | `output/translations/numbers_25.json` | `6fe61e9039c41840e7037388a686cd9552a5f35d84938f24a0f3196735d8a85c` |
 | `output/translations/numbers_26.json` | `a663aad172da37e0de00c60959cc9b385f93d5d736276b81926ef8087424e728` |
 | `output/translations/numbers_27.json` | `8ca519a55b50758954c86459037d9b94694722db48d006060c55e03c59512224` |
@@ -5691,8 +5691,8 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/numbers_29.json` | `7c745fbce731ebc11a70a6ffc6251d421a3941688602ec9e9a6a4da57727f5d3` |
 | `output/translations/numbers_30.json` | `1c50dddcfd95692ecfedcd04c647d7a30864730c494b98a99acd992dc31476c2` |
 | `output/translations/numbers_31.json` | `24a2c04d69b5aa08a27cb33880a8aa23db4f86baf9b0be97ae944a67a62baca8` |
-| `output/translations/numbers_32.json` | `e3f991c5af860a95dd06df39dd00fa36292617fbe5341f28ca7b6478d4426e7e` |
-| `output/translations/numbers_33.json` | `9c2150a63cf2fb8db8f87702116dc0fe9a784dbdb00c53c3657675b2a4284ac8` |
+| `output/translations/numbers_32.json` | `1cabe7c097a6f163e09850a1f82afd053a981fd2f8371af0585d05aa7a1b17f5` |
+| `output/translations/numbers_33.json` | `b4e84e12785000380da2fde6f71a99905327a477bc9741abcc531d8e168dcc99` |
 | `output/translations/numbers_34.json` | `70c5d53937e75d627ec16d030e5a02103f379cae03377084cf92c29594c026b9` |
 | `output/translations/numbers_35.json` | `794c860bad96f65096e945482b542ab68a85cddb0d7078eaea0b71b46cae964a` |
 | `output/translations/numbers_36.json` | `6e9e247941dbbfb9be93abd31182011a6d77fcf6ffa6ce264f9fbf14bb7c6051` |

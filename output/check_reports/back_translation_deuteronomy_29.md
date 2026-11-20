@@ -27,7 +27,7 @@ Mode: in-chat (Claude-produced back-translations) | Threshold: 0.35
   - Back: Bread you did not eat, and wine and strong drink you did not drink, so that you might know that I am the Lord your God.
   - BSB:  For forty years I led you in the wilderness, yet your clothes and sandals did not wear out.
 - **DEU 29:6** (sim=0.10)
-  - Thai: และพวกเจ้าได้มาถึงที่นี่ สิโหนกษัตริย์แห่งเฮชโบนและโอกกษัตริย์แห่งบาชานได้ออกมาต่อสู้กับเราในสงคราม แต่พวกเราได้พ่ายแพ้พวกเขา
+  - Thai: และพวกเจ้าได้มาถึงที่นี่ สิโหนกษัตริย์แห่งเฮชโบนและโอกกษัตริย์แห่งบาชานได้ออกมาต่อสู้กับเราในสงคราม แต่พวกเราเอาชนะพวกเขาได้
   - Back: And you came to this place, and Sihon king of Heshbon and Og king of Bashan came out to meet us in battle, and we struck them.
   - BSB:  You ate no bread and drank no wine or strong drink, so that you might know that I am the LORD your God.
 - **DEU 29:7** (sim=0.29)

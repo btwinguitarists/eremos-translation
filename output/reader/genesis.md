@@ -3092,7 +3092,7 @@ _บทที่ 35 ไม่มีคำ יהוה (Tetragrammaton) ปราก
 
 **34** เมื่อโยบับตาย ฮุชามจากแผ่นดินของชาวเทมานครองแทนเขา
 
-**35** เมื่อฮุชามตาย ฮาดัดบุตรของเบดัด ผู้พ่ายชาวมีเดียนในทุ่งของโมอับ ครองแทนเขา ชื่อเมืองของเขาคืออาวีท
+**35** เมื่อฮุชามตาย ฮาดัดบุตรของเบดัด ผู้เอาชนะชาวมีเดียนในทุ่งของโมอับ ครองแทนเขา ชื่อเมืองของเขาคืออาวีท
 
 **36** เมื่อฮาดัดตาย ซัมลาห์จากเมืองมัสเรคาห์ครองแทนเขา
 
@@ -3317,7 +3317,7 @@ _วลี 'ขอท่านดูเถิด' (הַכֶּר־נָא) ใน�
 
 **8** แต่เขาปฏิเสธและกล่าวกับภรรยาของนายว่า “ดูเถิด ในเมื่อข้าพเจ้าอยู่ในบ้านนี้ นายของข้าพเจ้าไม่สนใจสิ่งใดเลย และทุกสิ่งที่ท่านมี ท่านมอบไว้ในมือของข้าพเจ้า
 
-**9** ในบ้านนี้ไม่มีผู้ใดยิ่งใหญ่กว่าข้าพเจ้า ท่านไม่ได้สงวนสิ่งใดจากข้าพเจ้า ยกเว้นนาง เพราะนางเป็นภรรยาของท่าน ข้าพเจ้าจะทำการชั่วอันใหญ่นี้ และทำบาปต่อพระเจ้าได้อย่างไร?”
+**9** ในบ้านนี้ไม่มีผู้ใดยิ่งใหญ่กว่าข้าพเจ้า ท่านไม่ได้สงวนสิ่งใดจากข้าพเจ้า ยกเว้นตัวท่าน เพราะท่านเป็นภรรยาของนายข้าพเจ้า ข้าพเจ้าจะทำการชั่วอันใหญ่นี้ และทำบาปต่อพระเจ้าได้อย่างไร?”
 
 > _บริบท: การปฏิเสธของโยเซฟเป็นบทเรียนทางเทววิทยาที่ลึก: เขาไม่ปฏิเสธเพียงเพราะกลัวโปทิฟาร์ หรือเพราะกฎทางสังคม — แต่เพราะ 'ข้าพเจ้าจะทำบาปต่อพระเจ้า' — บาปทุกอย่างเป็นการทำบาปต่อพระเจ้าก่อนใครอื่น ขนานกับสดด. 51:4 (ดาวิดสารภาพการทำบาปกับบัทเชบา) 'ข้าพระองค์ได้ทำบาปต่อพระองค์ ต่อพระองค์เท่านั้น และทำสิ่งที่ชั่วในสายพระเนตรของพระองค์' ในเทววิทยา: โยเซฟแสดงเหตุผลที่ลึกของการรักษาความซื่อสัตย์ในที่ลับ ไม่ใช่เพียงแต่กฎทางสังคม — และนี่คือเครื่องหมายของการที่พระเจ้าทรงสถิตกับโยเซฟ — ทำให้เขามีคุณธรรมที่ขับเคลื่อนจากภายใน_
 
@@ -3576,7 +3576,7 @@ _บทที่ 41 ไม่มีคำ יהוה (Tetragrammaton) ปราก
 
 **6** โยเซฟเป็นผู้ปกครองแผ่นดิน เขาเป็นผู้ขายข้าวให้แก่ประชาชนทั้งสิ้น ดังนั้นเมื่อพี่น้องของเขามาถึง พวกเขากราบลงต่อหน้าโยเซฟ ใบหน้าของพวกเขาแตะพื้น
 
-**7** เมื่อโยเซฟเห็นพี่น้องของตน เขาก็จำพวกเขาได้ แต่ทำตัวเป็นคนแปลกหน้ากับพวกเขาและพูดกับพวกเขาอย่างรุนแรง “พวกเจ้ามาจากที่ไหน?”
+**7** เมื่อโยเซฟเห็นพี่น้องของตน เขาก็จำพวกเขาได้ แต่ทำตัวเป็นคนแปลกหน้ากับพวกเขาและพูดกับพวกเขาอย่างรุนแรง “พวกเจ้ามาจากที่ไหน?” พวกเขาตอบว่า “พวกเรามาจากแผ่นดินคานาอันเพื่อซื้ออาหาร”
 
 **8** แม้ว่าโยเซฟจำพี่น้องได้ พวกเขาก็ไม่จำเขา
 
@@ -4319,7 +4319,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 |---|---|
 | `output/translations/genesis_01.json` | `e65340893c9db735636d4ece74bc04baa7640511d4efa2f7ccc22639159d6fe3` |
 | `output/translations/genesis_02.json` | `5132c4a475fbc176b356190629f219ce220f3ec34fba609e0a3ea431ed3ba03d` |
-| `output/translations/genesis_03.json` | `3e6616a493f5a971b957bc3e1baf06dad4e3b38d9696b9c5108dcc71a3d2a120` |
+| `output/translations/genesis_03.json` | `61f3be77935e934e2f5b422a53004ccf8eea754dd3927b301797263146ed556e` |
 | `output/translations/genesis_04.json` | `5d3cc735bd6eb466e408c345cc9b84869da70f4f2ab84dddfe7fc57fb88edb46` |
 | `output/translations/genesis_05.json` | `d58aabfb40eab68dec155eaab48a54f561ccd17baea411f65b117fd955468794` |
 | `output/translations/genesis_06.json` | `43a0b2202d295e27746619824cdc0d81ee8d9679538e7d36040a5f298b8ae86f` |
@@ -4352,13 +4352,13 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/genesis_33.json` | `00abf556eb7457ab41d5f8a6c484c38184a0dc48d73764ed661caeba88a93049` |
 | `output/translations/genesis_34.json` | `26d2a46f5cff14b2de2370a2d99ba84300cef71dab02778c2cc0907c44e9273b` |
 | `output/translations/genesis_35.json` | `a9c352466e5f29c6dd2606996bd256f6ec9f2651eefdd495e8d92d04abd4cc3b` |
-| `output/translations/genesis_36.json` | `d925dfb5872c4e5a2b25cfa8950a23420de5da7e728988384b845e951d96d74d` |
+| `output/translations/genesis_36.json` | `78481483d29df85161da72d505a83437b33fd9f00a243e7010d306e60f565309` |
 | `output/translations/genesis_37.json` | `930b3870616bebce188b5a32105e481d0fd6ff22335aec8b2508899a14a45051` |
 | `output/translations/genesis_38.json` | `bb8b45ea327dbcd5505eed0ae0690adaf4bbef340d431cc798986439603b1776` |
-| `output/translations/genesis_39.json` | `8ded5a9643bd6d4ababc651ad8df245dfc215a04072db9f8d790d854caf8a14b` |
+| `output/translations/genesis_39.json` | `bc48c10a981fefcc27435a1da5ec916358dd1bf53bc4768811d7420c7ced487f` |
 | `output/translations/genesis_40.json` | `98e3384fd637f6d1c8c8329d04cdb76b6fd40b59860e1a51a7b2550bdc6a81ff` |
 | `output/translations/genesis_41.json` | `7487a03b9d9f8ccdf55a931ff22eb9ce2b7d87d7df159d53dd9f3f4bc2871da1` |
-| `output/translations/genesis_42.json` | `f5901c6a8d5569fb1ed8df5c0edde1bea331629c2838f540129ac66ec18fb31e` |
+| `output/translations/genesis_42.json` | `f219dfe0528d559361386729fb0c0de0f8662b022ee6a5f89346613d2b7af4ad` |
 | `output/translations/genesis_43.json` | `f2172a2ec9be46a68e25bfd48e6aec8801e2ed094e6931debdb9109bcb23df56` |
 | `output/translations/genesis_44.json` | `27ee3d5ffd23a8978fa917e662de9bdd8d0207d75469cfc7e7ed8f846ae10dc7` |
 | `output/translations/genesis_45.json` | `8b2d1962c97e63c98ad6d4f9dcb4bb606e0a958846136d0bd9908fbe2056be6f` |

@@ -1121,7 +1121,7 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 > ___
 
-**2** และเพื่อเจ้าจะเล่าให้บุตรและหลานของเจ้าฟัง ถึงสิ่งที่เราได้กระทำต่อชาวอียิปต์ และถึงเครื่องหมายของเราที่เราได้สำแดงในหมู่พวกเขา และเพื่อพวกเจ้าจะได้รู้ว่าเราคือองค์พระผู้เป็นเจ้า”
+**2** และเพื่อเจ้าจะเล่าให้บุตรและหลานของเจ้าฟัง ถึงการที่เราได้ทำให้ชาวอียิปต์อับอาย และถึงเครื่องหมายของเราที่เราได้สำแดงในหมู่พวกเขา และเพื่อพวกเจ้าจะได้รู้ว่าเราคือองค์พระผู้เป็นเจ้า”
 
 > ___
 
@@ -3583,11 +3583,11 @@ _**องค์พระผู้เป็นเจ้า** ในข้อ 21 �
 
 > ___
 
-**42** จงทำเสื้อชั้นในผ้าป่านเพื่อปกคลุมเนื้อหนังเปลือยของพวกเขา ตั้งแต่บั้นเอวถึงต้นขา
+**42** จงทำกางเกงชั้นในผ้าป่านเพื่อปกคลุมเนื้อหนังเปลือยของพวกเขา ตั้งแต่บั้นเอวถึงต้นขา
 
 > ___
 
-**43** อาโรนและบุตรชายของเขาต้องสวมเสื้อชั้นในเหล่านั้นเมื่อพวกเขาเข้าไปในเต็นท์นัดพบหรือเข้าใกล้แท่นบูชาเพื่อทำพิธีในบริสุทธิ์สถาน เพื่อพวกเขาจะไม่มีความผิดและตาย นี่จะเป็นข้อกำหนดถาวรสำหรับอาโรนและผู้สืบเชื้อสายของเขา
+**43** อาโรนและบุตรชายของเขาต้องสวมกางเกงชั้นในเหล่านั้นเมื่อพวกเขาเข้าไปในเต็นท์นัดพบหรือเข้าใกล้แท่นบูชาเพื่อทำพิธีในบริสุทธิ์สถาน เพื่อพวกเขาจะไม่มีความผิดและตาย นี่จะเป็นข้อกำหนดถาวรสำหรับอาโรนและผู้สืบเชื้อสายของเขา
 
 > ___
 
@@ -3760,7 +3760,7 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 > ___
 
-**40** พร้อมลูกแกะตัวแรกถวายแป้งสาลีอย่างดีหนึ่งในสิบของเอฟาห์ ผสมน้ำมันมะกอกบีบใหม่หนึ่งในสี่ฮิน และเครื่องดื่มบูชาหนึ่งในสี่ฮินของน้ำองุ่น
+**40** พร้อมลูกแกะตัวแรกถวายแป้งสาลีอย่างดีหนึ่งในสิบของเอฟาห์ ผสมน้ำมันมะกอกบีบใหม่หนึ่งในสี่ฮิน และเครื่องดื่มบูชาหนึ่งในสี่ฮินของเหล้าองุ่น
 
 > ___
 
@@ -5409,7 +5409,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/exodus_07.json` | `e03eab8e90ee1eb7d35f63ae0f0baf16612fd90df086100d2633c85e2ae68182` |
 | `output/translations/exodus_08.json` | `71bfc19ef5e5d074be85a6bd8efe9377032b967bde42b3af49806aabd8c7fc52` |
 | `output/translations/exodus_09.json` | `e42bd0612bdf7382b824c52409d1cc10a02d444b3d7aa4c7af75ce56bc2f704e` |
-| `output/translations/exodus_10.json` | `e22e841d30b38b953a2c0e907aef870b2cf409d8b7942b62450e2ab70f1db1fe` |
+| `output/translations/exodus_10.json` | `d968ff60c84f996bebce9fa7c2445c4d44f5aaf96139ec03e35ba9e1520bed24` |
 | `output/translations/exodus_11.json` | `e940f59a0fdf63bddeb633f92b7046f2059e3d535f50dea3e2122636ede46455` |
 | `output/translations/exodus_12.json` | `5577e86d763becc64157e4e02c0f838591629c4083e0db9db80b46b4435292a2` |
 | `output/translations/exodus_13.json` | `fa8d33a7690942da374adb78b1a71542d7b79be08cdb1a714785eccebae61c31` |
@@ -5427,8 +5427,8 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/exodus_25.json` | `4afcf0049ea9dc85bc51f23ad288e537a78ebf53f6eb1fe8bd775f3ced682c29` |
 | `output/translations/exodus_26.json` | `208ed63143e558726abe26936eefbb9afc6f6f2bc2d1472df07761d60b477db8` |
 | `output/translations/exodus_27.json` | `7b8e6bd5ac83a51400a874f44da53ff6605bdd07d9d805b06bdff75ebb432a47` |
-| `output/translations/exodus_28.json` | `2b00f031f7ff1ec0c180af09f99a9c6af338c5d249eaa4d2ddab41f610a3660a` |
-| `output/translations/exodus_29.json` | `f310847533a15b7ed483ccd0c473635b496744f3cd621349ae71f2fa68f762b0` |
+| `output/translations/exodus_28.json` | `ad4981bb558989c564f78b0d6ada75f87e08f821cbe1a711bbe44b31bb517067` |
+| `output/translations/exodus_29.json` | `82caa5085fbbadedfadfd45dcc37cbc2c879af2fd0baa6901600945c4edbc3a2` |
 | `output/translations/exodus_30.json` | `4ec22f38ec46e35f7d65e5efd4ad2f9149bf7b275fe6911b67061efdc8a9a064` |
 | `output/translations/exodus_31.json` | `624608e283919aae5ea638180f092423fcb5da14be12e2f259e0722da7482872` |
 | `output/translations/exodus_32.json` | `073e2de0fbe8aa649fe1431e2764b246e9b2262e900d22b14933343a0834dfed` |
