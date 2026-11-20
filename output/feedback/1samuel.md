@@ -1914,7 +1914,7 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 > ___
 
-**11** และซาอูลกับอิสราเอลทั้งหมดได้ยินคำของชาวฟิลิสเตียเหล่านี้ และพวกเขาตกใจและกลัวมาก
+**11** และซาอูลกับอิสราเอลทั้งหมดได้ยินถ้อยคำของชาวฟิลิสเตียผู้นี้ และพวกเขาตกใจและกลัวมาก
 
 > ___
 
@@ -3709,7 +3709,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/1samuel_14.json` | `b9dbae3019f69a13345a135198f3fdae85297c86aeb62aac6dd7ca638a65d0f2` |
 | `output/translations/1samuel_15.json` | `492bae87fa7b105267e67091e7d62646ffcbf6f52af4d28f21a6a4e3252b6329` |
 | `output/translations/1samuel_16.json` | `810d8f754f23a99a2829402e3cc6aced5f63eda0c3e45736568398e8ddd9800b` |
-| `output/translations/1samuel_17.json` | `ed5ced44374173dc822d6a289ab815a13212aa1accec954c8c47edf4a72f914a` |
+| `output/translations/1samuel_17.json` | `f554b89d5a7aecf022742913a8379c8dd229d1191e44d4eca9689791a7d90da9` |
 | `output/translations/1samuel_18.json` | `8b902d137e72f53b0e3fd5092327548900ee73825125c3d2e8e79969f6a965d9` |
 | `output/translations/1samuel_19.json` | `828d858f335551559f5abec3bd862ac925562b824bc360fe05246551687209d9` |
 | `output/translations/1samuel_20.json` | `be6d60a315d09df66f5aeb379650983ac6f1524b9bc55d5dd5c9167d9adab458` |
