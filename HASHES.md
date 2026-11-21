@@ -347,7 +347,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/ecclesiastes_10.json` | 20 | `403c08ad5fec04f6085a03a05a6991c8e4c9e382b3a49199898cc334401408f3` | `1333306e` |
 | `output/translations/ecclesiastes_11.json` | 10 | `26850aa82f837ed25cb6279e9e331b62de4e2b18c1c5904452675521fa019acb` | `5cab4ec1` |
 | `output/translations/ecclesiastes_12.json` | 14 | `89ae4b22c09cc4aa5fd660f3bb63b0aa45753a4e7bda284780544da9f96aeb03` | `5cab4ec1` |
-| `output/translations/ephesians_01.json` | 23 | `25b6b92e8fa22a1389d985ec795f3bfd27973de8e2847097f39929de798a3720` | `93fd9dfe` |
+| `output/translations/ephesians_01.json` | 23 | `603020b480a29c8a6187dfc57524fbcdd264326925d77ab6473e35b7563a5eca` | `93fd9dfe` |
 | `output/translations/ephesians_02.json` | 22 | `89ba340825bb1ab5e0feb2b72d48edfe7e6521c75ca5188e9800625d6c43494a` | `d03c3a1a` |
 | `output/translations/ephesians_03.json` | 21 | `0b6542e76349f9fe987bced658a7a4f666d8a4d4192737c716db2c2e897ea711` | `f6448547` |
 | `output/translations/ephesians_04.json` | 32 | `d92a86a8a77bc664eb9daad7ad531a32cc0bf2a4a57181988793cea7fc6411d3` | `976a826d` |
