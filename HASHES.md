@@ -515,7 +515,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/genesis_46.json` | 34 | `4b43bcfc9f5ef0788f2c51ec721c8a5d52bfc73938f073da697ea7a68049ac85` | `f6ace63b` |
 | `output/translations/genesis_47.json` | 31 | `ed4bbb0cd9614ff8302d56e7ee40d62b8acb6f48283e49394bd31a210da92f19` | `f6ace63b` |
 | `output/translations/genesis_48.json` | 22 | `f7922152fa96da6cffe42694c4f16bb46c5458ccf57c9894cf3d30cf689607d4` | `f6ace63b` |
-| `output/translations/genesis_49.json` | 33 | `c994d93d6916e40dce6dd481b7ee9e9cd1d9df3bbeaad78cc80c1c4796ea0eee` | `f6ace63b` |
+| `output/translations/genesis_49.json` | 33 | `513bdcf1271af462a8f15ad55a054a40a6a72ed92dd480de3016f0e27f09611c` | `f6ace63b` |
 | `output/translations/genesis_50.json` | 26 | `3b7656df20b341de430745cb3a4e6a0a666d1dda7438b6b6af38e298104f80e6` | `f6ace63b` |
 | `output/translations/habakkuk_01.json` | 17 | `19e1d419afe064dd6092ed8402cf0dff38e5a9d5706b93ddf752085166d76b07` | `70995625` |
 | `output/translations/habakkuk_02.json` | 20 | `d62c469334910ee53119ec744dfeeb50479a50838ea8142b150618cc691e807b` | `56e3aef5` |
