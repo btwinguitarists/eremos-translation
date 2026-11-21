@@ -3693,28 +3693,28 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/1samuel_01.json` | `b8c61c21830d7eb50694366a68db6b7838a90b05b70604848e70faee380ccab8` |
-| `output/translations/1samuel_02.json` | `67fda0ad165155f15a89e8669ebe1b66844a804cbfa4ebd87b5fb6ecf4b0adf2` |
-| `output/translations/1samuel_03.json` | `e0832424bb035295ae8a026e94c80fcb8aff79efdfd73d586513a066150d0197` |
+| `output/translations/1samuel_01.json` | `946ce4698436ebd8460e446aa5d1f2d7d3cb947e93c810c168e2def8d76c1861` |
+| `output/translations/1samuel_02.json` | `6f847a66bde362d8bfeab85c836f0da39b7747ba788fd8d5812eddaf752995b5` |
+| `output/translations/1samuel_03.json` | `4ba9ef21f46fed8e87e6f9ed3cf0a89af67129b8d546ec7c6e443bebbc043c01` |
 | `output/translations/1samuel_04.json` | `3b39cedef030e6af8647ad39a5b834f194bb5904b936c2aae481f71a3c94e11d` |
 | `output/translations/1samuel_05.json` | `dc2c96b19f52653b435709877bc4aab6d9d1d71f973942d0cf4c78339a775d79` |
 | `output/translations/1samuel_06.json` | `bd771a52aa5d19ecc1da86ad17d357d90b4b6ba6a6ef9d2703f39c24cb1137b9` |
-| `output/translations/1samuel_07.json` | `0408759f2d582fe3e4f8e50e2c7c3123bb86f927c32bf4542fbf4a6ac75575bc` |
+| `output/translations/1samuel_07.json` | `65c8851ec672ca74624013c7375a2fcae87b9294e99f599783a76482ba982bec` |
 | `output/translations/1samuel_08.json` | `b8ee8d62a9c014f112bb72e399d1afd13e3180a5f07ec95afc64912f09c10349` |
 | `output/translations/1samuel_09.json` | `b417c624d5f4120584a283b8c362010daa20156b08e8cac824608256cd69cd79` |
 | `output/translations/1samuel_10.json` | `97782cccbe444d5b0e46239ff5aaebf773110031c9dace87e613378e19d8e016` |
-| `output/translations/1samuel_11.json` | `a2f32cc8814b1fbe815285b2b85eabf5cea3806dad76afd1f1e4d787d884fab3` |
-| `output/translations/1samuel_12.json` | `a9318297a40127c8bc6c1a2d97725026cbbc22068ccb1391d1c29a0938ebeb08` |
-| `output/translations/1samuel_13.json` | `fc8d77afa1781f7713b38e40eaea10602d30588fdca3cf409edcc095ac7c8d3f` |
-| `output/translations/1samuel_14.json` | `b9dbae3019f69a13345a135198f3fdae85297c86aeb62aac6dd7ca638a65d0f2` |
-| `output/translations/1samuel_15.json` | `492bae87fa7b105267e67091e7d62646ffcbf6f52af4d28f21a6a4e3252b6329` |
-| `output/translations/1samuel_16.json` | `810d8f754f23a99a2829402e3cc6aced5f63eda0c3e45736568398e8ddd9800b` |
-| `output/translations/1samuel_17.json` | `ed5ced44374173dc822d6a289ab815a13212aa1accec954c8c47edf4a72f914a` |
+| `output/translations/1samuel_11.json` | `1d396ce521d2c50af9f641828cc2757cc6cef1f354cdbde797c2482b9d6b92ca` |
+| `output/translations/1samuel_12.json` | `f4bfb08e70e08ffc33edb9cf85649faf7886b77a2c709d26792589b3852a9efa` |
+| `output/translations/1samuel_13.json` | `c7529d8872a8a4564bbb489d7cda7905bcb0e8861f51b3ffa22ab03e9785f4e0` |
+| `output/translations/1samuel_14.json` | `8909b73509c77c9ea4f3af3ac6092ed34a82fe2fff0fec0462c2b4062e67ee5f` |
+| `output/translations/1samuel_15.json` | `f4167ed8ab670a58be54cdb273e378079802fc37fc7d361da15319b4c71d5794` |
+| `output/translations/1samuel_16.json` | `ce1282455a283ca1bdcce222ed79bb3de7e61cf74bfc1478f43a2da95f48d309` |
+| `output/translations/1samuel_17.json` | `c3768b6f84ecdd0a3419f66fb6eab9ac6ba538fce01e1b8be101f1a123733b0d` |
 | `output/translations/1samuel_18.json` | `8b902d137e72f53b0e3fd5092327548900ee73825125c3d2e8e79969f6a965d9` |
-| `output/translations/1samuel_19.json` | `828d858f335551559f5abec3bd862ac925562b824bc360fe05246551687209d9` |
+| `output/translations/1samuel_19.json` | `5122c3754a65bebe837622a945b5673de40424fefb9b832568b8c639ced996c4` |
 | `output/translations/1samuel_20.json` | `be6d60a315d09df66f5aeb379650983ac6f1524b9bc55d5dd5c9167d9adab458` |
 | `output/translations/1samuel_21.json` | `8571e471ccddb9b1f963dccd46f44bfc32e54b35c34d2f15ad9711a303532c09` |
-| `output/translations/1samuel_22.json` | `639e6fe5bd758d22767a8f2e25aeb319467be0e839add9386436020fccae2168` |
+| `output/translations/1samuel_22.json` | `43aa15c9ea4ffcb6a59ae3602029c190317d35fb11a3c2ff7e1d7ca0f823eff2` |
 | `output/translations/1samuel_23.json` | `fafc2c26e844426500726de5a9680e52453b08b8fbde00381f263fb7c38fb2f0` |
 | `output/translations/1samuel_24.json` | `c27fcdde5789a29cf77dd1f2e67830bd431b2d520f814dba1ac26941704a795a` |
 | `output/translations/1samuel_25.json` | `83c062c8debaa291b1970b1a3852a8752465fd79f7d822fcb0deee8c39deb5af` |
@@ -3723,5 +3723,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/1samuel_28.json` | `d828484b55248913d860f7f5ff797ffdd303b81b3b4fa9f377ca734aae24ab4b` |
 | `output/translations/1samuel_29.json` | `c3fc45fcadcf340bc185172ef983f481b2c446410e786326609b8afce438a978` |
 | `output/translations/1samuel_30.json` | `9e4822923c1e4d857663e812f9f2f51a2aa069aac9d39b8f2ff39e69ee9f9ab2` |
-| `output/translations/1samuel_31.json` | `f7ce422efce8af1230cbbe43af18890280a38dd30d57b61aa03d95a5b0fb88db` |
+| `output/translations/1samuel_31.json` | `f9d769ff49292e106f94394845e1d46c4012ae607d80d1b90887771562e7dc11` |
 
