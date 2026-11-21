@@ -1146,7 +1146,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/revelation_06.json` | 17 | `ecc7021c3e2cc980cc4db2d20d2f34f829e080d0257ed0dc0915fb57c2455691` | `b64d4872` |
 | `output/translations/revelation_07.json` | 17 | `ca7074b2ee41a39ad95b5f0636136bc4fd69bc81da45e6385f01e4f2f6d964f8` | `b64d4872` |
 | `output/translations/revelation_08.json` | 13 | `c4268e45a1545725d7919495c46dc2764be36fc5cbd07755d0ed493fe273ff5c` | `d14ebe37` |
-| `output/translations/revelation_09.json` | 21 | `98be706601dac42ee33afb4da7e89aafcc809a13eef60924263b4fc0f381d838` | `b64d4872` |
+| `output/translations/revelation_09.json` | 21 | `84335b77a41590ccb0d4403dfcaf62661deef6aacb0949e58295d7ce15adc5bd` | `b64d4872` |
 | `output/translations/revelation_10.json` | 11 | `7b1872128e8f445d507f68cfc66cae42e3010a6050bb9def8c79592560298971` | `f6bc480f` |
 | `output/translations/revelation_11.json` | 19 | `16266ff631d04b498739c0c6600fb3f51a73b3366eacfd53002e9233be05d2f0` | `f6bc480f` |
 | `output/translations/revelation_12.json` | 18 | `d8ff31e9835e130c179c53da0f4871efeb28e809d1a734b282deacb7036ecc32` | `982b79de` |
@@ -1158,7 +1158,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/revelation_18.json` | 24 | `23b38341591e4140523e9b92d9475fe548cba3dd4cd7df47590b3cb50d79cae7` | `b64d4872` |
 | `output/translations/revelation_19.json` | 21 | `436c1a1cac3ff62505f21e93e74cbde61e9de1692ae33f63150e906e419267df` | `907d0b97` |
 | `output/translations/revelation_20.json` | 15 | `0600d346ec939413358a3de1f7598c31b6d735595177d764ea788ba11e2959d9` | `99f679e9` |
-| `output/translations/revelation_21.json` | 27 | `15a9e81ba5a17a6c3e0c31574fefc37960ab7be51a7070b214915683cb1eda56` | `e000e573` |
+| `output/translations/revelation_21.json` | 27 | `681115d69cb0dea0b0e31f7da69aa5cc782662a9e1e502e833f39d78822a8e26` | `e000e573` |
 | `output/translations/revelation_22.json` | 21 | `981b8e5b169aec801ab134a85969c2764784c2e16042997c400c11989b4fa262` | `b64d4872` |
 | `output/translations/romans_01.json` | 32 | `c87b2112628b417478cc0beebb101b81b21b70b76106579044da66b1f0181824` | `7b84f42f` |
 | `output/translations/romans_02.json` | 29 | `4fe0ca5a671850b2506476d945ca603daa20dd5b460442a7e513b7758c3a5b27` | `a3330b8e` |
