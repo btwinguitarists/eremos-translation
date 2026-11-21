@@ -2130,7 +2130,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/acts_01.json` | `6beaf50d52a0295b7180452d3430898b4dcc0ba94569dac3172c47f909c67f76` |
+| `output/translations/acts_01.json` | `bc6f921020e4938ac456fe8abe59a63fdd51f0efe724d831b3c8b02bb6cc2b62` |
 | `output/translations/acts_02.json` | `cb50c151067b8930feace4c9a33a8f6e944b4b2592e40605a6ea7f7646270096` |
 | `output/translations/acts_03.json` | `e3a05584a067971eaa7ffd4c74e57aa6f48268a0f5ba5c5bfae9ac1efc512f61` |
 | `output/translations/acts_04.json` | `d3f644d785e4f4cd92696c3c3de0f79e9bf2d3f8a4d743a483ef9f0c49b8a80c` |
