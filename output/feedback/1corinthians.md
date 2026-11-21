@@ -1846,7 +1846,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/1corinthians_01.json` | `8fe037408a33ea46742512e6d4741d9a035ddc8127501975619c18e4bd65b4d0` |
+| `output/translations/1corinthians_01.json` | `6a4361ddcc304ebf184f5ae767a01df522e7892d1cbb5735cf5478e83bf64e16` |
 | `output/translations/1corinthians_02.json` | `f89965365f3b0cad6b1261fe5cd39b2da70105281caa91fd248c10286a72374d` |
 | `output/translations/1corinthians_03.json` | `4a0a69a76a9f6d96f90975d9860d9ec8be7145afbf8212235ff2b332d8f27230` |
 | `output/translations/1corinthians_04.json` | `7c5e9e26dfbd6f7d843a3df8ef62b7297a09d27a17f845c913528d1fd385706f` |
