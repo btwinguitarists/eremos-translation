@@ -289,7 +289,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/colossians_02.json` | 23 | `152de18f1ea535f7a47284b741a6de92ddfc269076e0c44a1d87c5c3fca652b9` | `d03c3a1a` |
 | `output/translations/colossians_03.json` | 25 | `17e946688dd4590eee7d9674a5115229714c94c9612866530d387dc8b61870fc` | `465b1f15` |
 | `output/translations/colossians_04.json` | 18 | `11b9d98690638fff358b18be59925f310cf455e8ad3b7c084fd6b865e1e9e231` | `b64d4872` |
-| `output/translations/daniel_01.json` | 21 | `c4d4767d77a50c3a713c9000f5d4e664e11cce536fed2f080a04068d05de4235` | `7040ad9f` |
+| `output/translations/daniel_01.json` | 21 | `d7b5e0f2f910562ce0388a64c3dd4e752f98072ead33d8121a3d3a33d039f7db` | `7040ad9f` |
 | `output/translations/daniel_02.json` | 49 | `300dd8496c0edcdb574f58d846e4839e3a5da20dcf0839944ad3fee0303b9475` | `4b3059a2` |
 | `output/translations/daniel_03.json` | 33 | `53441db91e2cffd0b0e77019cb7c85bcdab0fa82b5de55b67ae7e31693906bbe` | `4b3059a2` |
 | `output/translations/daniel_04.json` | 34 | `4feb8155d89fa5f55821792977bacb17c2f73507723f8d8907da50c3384b3a30` | `6ece78e3` |
