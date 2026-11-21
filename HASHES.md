@@ -759,14 +759,14 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/joshua_14.json` | 15 | `201baf702d76c011b402f0c3f05a20d95aa5c1b720f879e58aa65c9d953b3bbd` | `f3a0ed59` |
 | `output/translations/joshua_15.json` | 63 | `eae455ec28646ca95bcb0bbe4ba879fbeae9c1aafb0c3b873767e5e3d74a9eec` | `6a779aae` |
 | `output/translations/joshua_16.json` | 10 | `dba351fbff6f6c24b6f55d71e99b5da8f39cd33f5d90b1b9e1d4e324bf54063d` | `5cdc998b` |
-| `output/translations/joshua_17.json` | 18 | `ad8cc4c12480620b4dda8ac0dd18686f805d6e443c85e274bb41c1d97030913d` | `6a779aae` |
+| `output/translations/joshua_17.json` | 18 | `4e6958634dda33c39920178af65c88b38062297dbe2c6811b33a7af35cd2b43f` | `6a779aae` |
 | `output/translations/joshua_18.json` | 28 | `4d7320f27b7e45ec7efca2d64d2cc15d6c62be2a4034b2292e1a66fa1037665d` | `d03c3a1a` |
 | `output/translations/joshua_19.json` | 51 | `6e06143d730ee56a66288e9180b2fb1625f53ccc793388914a651040d661c89f` | `6a779aae` |
 | `output/translations/joshua_20.json` | 9 | `bf1e26a1228dada25a9746ed808bbc49976466860f19f7b48b609f2e1618957d` | `6a779aae` |
 | `output/translations/joshua_21.json` | 45 | `33cd4429fb6223482dd3a49178f8cf7b55403ba8b43cbb9cecbe130f3607bf40` | `6a779aae` |
 | `output/translations/joshua_22.json` | 34 | `dd78c8db871aa2e34db62e4fabfd2f3ed390b0435da813369b64be3842bcf5f7` | `7895e5a6` |
 | `output/translations/joshua_23.json` | 16 | `2f2106cc42de5895bb65bf71188bff518900f58c0b602fb90652c4985dbb17f6` | `f4febfb5` |
-| `output/translations/joshua_24.json` | 33 | `8af33867974fb02ffbc2ecc0ba0bc6d1f18461c686b839810518e37ac8c9225c` | `6a779aae` |
+| `output/translations/joshua_24.json` | 33 | `0fc92e6498aee3d17e587cac444cbb61415ef838ba36d1e152882a22dc60d26c` | `6a779aae` |
 | `output/translations/jude_01.json` | 25 | `830e0e17f058553a12d3c30af95ce0dfc8e68d4ae841849ece413ffc310bfc78` | `dd8164e1` |
 | `output/translations/judges_01.json` | 36 | `e11bc1767d581707148945d57385a903231a4b58ab4b56f51b33a50935e96a1b` | `d03c3a1a` |
 | `output/translations/judges_02.json` | 23 | `d5dba4ddaa0576f0c428b2e69ae46f6c3ace29e05eefe0c8c26f81f9230834fc` | `d03c3a1a` |
