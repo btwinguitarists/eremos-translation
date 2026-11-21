@@ -15,7 +15,7 @@ Mode: in-chat (Claude-produced back-translations) | Threshold: 0.35
   - Back: On one day, while He was teaching, Pharisees and teachers of the Law who had come from every village of Galilee, Judea, and Jerusalem were sitting there. The power of the Lord was with Him to heal.
   - BSB:  One day Jesus was teaching, and the Pharisees and teachers of the law were sitting there. People had come from Jerusalem and from every village of Galilee and Judea, and the power of the Lord was present for Him to heal the sick.
 - **Luke 5:36** (sim=0.32)
-  - Thai: พระองค์ตรัสคำอุปมาแก่พวกเขาอีกว่า «ไม่มีใครฉีกผ้าจากเสื้อใหม่ไปปะบนเสื้อเก่า ถ้าทำเช่นนั้น เสื้อใหม่ก็จะฉีกขาด และผ้าปะที่เอาจากเสื้อใหม่ก็จะเข้ากับเสื้อเก่าไม่ได้ด้วย»
+  - Thai: พระองค์ตรัสคำอุปมาแก่พวกเขาอีกว่า “ไม่มีใครฉีกผ้าจากเสื้อใหม่ไปปะบนเสื้อเก่า ถ้าทำเช่นนั้น เสื้อใหม่ก็จะฉีกขาด และผ้าปะที่เอาจากเสื้อใหม่ก็จะเข้ากับเสื้อเก่าไม่ได้ด้วย”
   - Back: He also told them a parable: 'No one tears cloth from a new garment to patch on an old one. If one does so, the new garment will also be torn, and the patch from the new will not match the old.'
   - BSB:  He also told them a parable: “No one tears a piece of cloth from a new garment and sews it on an old one. If he does, he will tear the new garment as well, and the patch from the new will not match the old.
 
