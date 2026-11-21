@@ -3153,7 +3153,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/2samuel_05.json` | `dea69f3cef214ec13883fdff5e25faeba41ff03bbdec8b348fdffb56d3bd3b27` |
 | `output/translations/2samuel_06.json` | `b665f2b3f42669845e5802ed97433323ca4d4252e7327066be78c11b39ff38d9` |
 | `output/translations/2samuel_07.json` | `dbd7ed52ab3373a042af5f0f2b28d4d0d16235248d5bc53c49eaee667c34fecd` |
-| `output/translations/2samuel_08.json` | `1d12aa3aaa7cf9dadd665403be34c9bcee5f62257283aca9e07000305bd8a5da` |
+| `output/translations/2samuel_08.json` | `56183a899e1cb6f0a88e7d7bd42d84c3784e6a11c32c20a0cce64cfaaf488a43` |
 | `output/translations/2samuel_09.json` | `788157cee7032f1deb05eda4a251f086a9621f69b50afc7ba62affefde9393dd` |
 | `output/translations/2samuel_10.json` | `9d7b1f91dc313e48c4cf473fd07581aa6239ad2358d93363cf0df658e3c201ff` |
 | `output/translations/2samuel_11.json` | `0c13381401750bfd35c0884d49c6b1b4292308685c1b8d9d0a12b9719f91dda0` |
