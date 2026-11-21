@@ -580,15 +580,15 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 |---|---|
 | `output/translations/2corinthians_01.json` | `8cfb3498c486412fda8ecd784d17bf958f40650f58e9e6fafddf7a4c6b345ca4` |
 | `output/translations/2corinthians_02.json` | `50dd94b5662de9add4e0680c7f4f5d1db0fe997380613b1cad445807c4cadd2a` |
-| `output/translations/2corinthians_03.json` | `6eb95223849e7ff495d0271f238169f7893fb941595895cfc795a45f39e6aec2` |
+| `output/translations/2corinthians_03.json` | `072d21555da03d88d556270f3e020f61b1cfefec7db144d621b46c0860f80c52` |
 | `output/translations/2corinthians_04.json` | `48131cb80405f98b182bbfab1c97609a874a08b9a7ad35cf2e1b987e03b48116` |
 | `output/translations/2corinthians_05.json` | `e2452a34d40b0fd0ce3c4cbc0d0a70dbf6fd6267f9d206904b58c2dec293330b` |
-| `output/translations/2corinthians_06.json` | `ebb822e2afa214787f3e58025de2de4b27222a3d61ebd2df6dad361e18fc3202` |
+| `output/translations/2corinthians_06.json` | `ae48df81325a8e1d4e2c9615163e083885323658b943a468f2ee5d85f95d82a9` |
 | `output/translations/2corinthians_07.json` | `fae6b6f1fecbcef72c1773b279d13cfe853cf239f015aeafc7d06210ce7feba0` |
 | `output/translations/2corinthians_08.json` | `e55bbd1bc9e76097484fdf581c9c5d50da7df4761bcc81c929412341c64a13a4` |
 | `output/translations/2corinthians_09.json` | `4154d3d2b4cbe38a4e599473976f3f3a226ac84d2cb4912d741a372df22826e3` |
-| `output/translations/2corinthians_10.json` | `ec2e15a80445907f7247c70c168a1c6321d862d45d2081569853ec26e965d30a` |
-| `output/translations/2corinthians_11.json` | `bd716106c311f778557d36d67c163219f464e39e8fd039511a79cd1c6bb474ea` |
+| `output/translations/2corinthians_10.json` | `39d9bc804e8f3a7750e12b498b56979a8da0115894d00e48f9558ae7421a5146` |
+| `output/translations/2corinthians_11.json` | `a5caf84fe98e4ff76ff7a9a1d6055f00703abd4a5fc68ebc0ab89670beed7b5a` |
 | `output/translations/2corinthians_12.json` | `aca4492cc393372367d40d5dce4bee1e1d066a04b6f022f0d964492dc0439a9a` |
 | `output/translations/2corinthians_13.json` | `f7a1cada8a71e65a2b921824532b46da3370c561435fbffe0369a034dac40331` |
 
