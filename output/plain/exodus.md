@@ -2952,7 +2952,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/exodus_01.json` | `6c38d4da5046741ff0305e83fc388fe1c897c6acd03e64aa88fe3ec3910b7a3f` |
+| `output/translations/exodus_01.json` | `a0cbfdce5a3b1930c5245fc171fa2a28e17e647493c920779441d98b27dfd8cb` |
 | `output/translations/exodus_02.json` | `6c90c9dde7d81adc9a7e3670b01e3bc1cf1537847663c4330cc07d8aaa0bfef1` |
 | `output/translations/exodus_03.json` | `9190089f25ecdc46d95369e2dc2d0cf2b1141c60ae969156b1dec177d36c434c` |
 | `output/translations/exodus_04.json` | `474750780e2721fdd0ef7cd6bb1cef0b61638fcb9b207f69480bb7c4d3b2cb1f` |
