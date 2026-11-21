@@ -380,7 +380,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/exodus_15.json` | 27 | `3648ba6b52d1b0612f8a0162bda60e5558b285aa9aa2e33308c743ec9cdbb6a7` | `c3316d83` |
 | `output/translations/exodus_16.json` | 36 | `82d8f721d1b3ea660d216958af4ace9ff66ba0bbbc93276fa077b26c8e5d61a0` | `a624dba9` |
 | `output/translations/exodus_17.json` | 16 | `a7087c819a9eedd31425d5b809e5e535ea6b2ecce8abed12be2e0cf5f8efae72` | `a8835f6e` |
-| `output/translations/exodus_18.json` | 27 | `f39f37aeb676b89cb36766120c1aa3979a6a34619312b527b8b41aab02818abd` | `a348f4c2` |
+| `output/translations/exodus_18.json` | 27 | `1bcfea67d75263b0137506d2ad7c6d60490a8d9ed62670cc06403994524f0981` | `a348f4c2` |
 | `output/translations/exodus_19.json` | 25 | `dcae28da4f7ec18869451def433476a007bc2e2935085a12c0eec36f80d6496c` | `157205c5` |
 | `output/translations/exodus_20.json` | 26 | `6b36e1891ed8657074e3a11a83c6830fc4413194386605fe82e1e5445f5334d3` | `2b1853d4` |
 | `output/translations/exodus_21.json` | 37 | `21c7da7dad9c346be1b3840b4b4b7805c3ff218014072327cee7e5b7d376e691` | `6c5da31c` |
