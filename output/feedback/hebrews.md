@@ -1306,7 +1306,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/hebrews_06.json` | `39241505e2041cc48cdd753f5bbc821fd464cfb42604dabb245eda08961705be` |
 | `output/translations/hebrews_07.json` | `18e90ae33bdfab030965c41a6a8636be87605460e50f28eefdfded3e4dc598d1` |
 | `output/translations/hebrews_08.json` | `7af4362eb73c87e52a4ef99569347079ec51da2a505c038cf059f62b62ee2b09` |
-| `output/translations/hebrews_09.json` | `0d76d398b1ebade928ae58b4f07bb9fdd910fdb3396bd4570ddb63102e16c56d` |
+| `output/translations/hebrews_09.json` | `2f43760977d89db73900a50c806b1e220e08f5b05f55cee53d102fa88dea0c47` |
 | `output/translations/hebrews_10.json` | `a082ba35191f83048971852f2fdbaf043b3a2281af3e4350e88d84ad684e907c` |
 | `output/translations/hebrews_11.json` | `a0b41086337aa89deea22c3c11ca3a17204244337622cf90e1461e637b854d42` |
 | `output/translations/hebrews_12.json` | `ab3705d42e1a3a90996eae4d9a7a43feb175487ec04766f594eb18133c255a8a` |
