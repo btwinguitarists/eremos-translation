@@ -1162,7 +1162,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/revelation_22.json` | 21 | `981b8e5b169aec801ab134a85969c2764784c2e16042997c400c11989b4fa262` | `b64d4872` |
 | `output/translations/romans_01.json` | 32 | `c87b2112628b417478cc0beebb101b81b21b70b76106579044da66b1f0181824` | `7b84f42f` |
 | `output/translations/romans_02.json` | 29 | `4fe0ca5a671850b2506476d945ca603daa20dd5b460442a7e513b7758c3a5b27` | `a3330b8e` |
-| `output/translations/romans_03.json` | 31 | `bd6086004ff7b68b855a8b74f5666e3550144cee2dd06e73bb420bbbba846b7c` | `a3330b8e` |
+| `output/translations/romans_03.json` | 31 | `567b703d5877a4a57ba9d98de2c2ad068da1409a7c895428eb960c33e0770dee` | `a3330b8e` |
 | `output/translations/romans_04.json` | 25 | `693fe7f9ad14218a1cb21365defa980c21f1665152fd6cf9bfb9c4a4599e1fd8` | `a3330b8e` |
 | `output/translations/romans_05.json` | 21 | `5b6957b5f2a8d9260a25af8b6b887d24d323477fb0cac83aa25a15a921f8e728` | `a3330b8e` |
 | `output/translations/romans_06.json` | 23 | `53733aa5bad47a955adac82a8a4026db557cefa449da09a6f0a934b8738e19c6` | `cf6bd38f` |
@@ -1175,7 +1175,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/romans_13.json` | 14 | `14c76cce36b87a0da59a1422f56c170102c31f71c34d32e198745a0e0ea5dc3e` | `f6bc480f` |
 | `output/translations/romans_14.json` | 23 | `7a5aa044725a91530b6ed82b918843ddf70f258d0ad00b071d1307b080a41056` | `b64d4872` |
 | `output/translations/romans_15.json` | 33 | `cc1848963b730debd50fcd5b3d2de2347f127fdc6c001fa7357c709daca5518b` | `b64d4872` |
-| `output/translations/romans_16.json` | 27 | `fbd72dda200b8a20fe654e04b9add34e895885f95609883008cecdd9dd8e6c4e` | `9f851ef9` |
+| `output/translations/romans_16.json` | 27 | `b2d13dc5c631561dacb0e3679657b56cb804357b496002178ba0731bd62db25b` | `9f851ef9` |
 | `output/translations/ruth_01.json` | 22 | `7153167899931b7fa6b249742cf521e29912a152f25d0e2c1a2b14b8d9c6825c` | `7040ad9f` |
 | `output/translations/ruth_02.json` | 23 | `9ec349a8cb1c287436281a0768f7acc16e13921a5fc0006292d81ffca0098a77` | `d03c3a1a` |
 | `output/translations/ruth_03.json` | 18 | `c2c14fbd2d0641e35eb56b1140b0815cf6e5925b12d112d315b56676f44c109e` | `d03c3a1a` |
