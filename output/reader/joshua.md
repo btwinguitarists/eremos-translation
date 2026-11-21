@@ -980,7 +980,7 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 **7** บัดนี้ จงแบ่งแผ่นดินนี้เป็นมรดกให้แก่เก้าเผ่าและครึ่งเผ่ามนัสเสห์”
 
-> _บริบท: **คำสั่งแบ่ง — 9 เผ่า + ครึ่งเผ่ามนัสเสห์**: รวมเท่ากับ 9½ เผ่า (เพราะ Reuben + Gad + ครึ่งเผ่ามนัสเสห์ = 2½ เผ่าได้ที่ดินตะวันออกของจอร์แดนแล้ว และเลวีไม่ได้ที่ดิน). 12 - 2½ - 1 (Levi) = 8½. แต่ผู้เขียนใช้ 9 + ½ = 9½ เพราะมนัสเสห์ทั้งเผ่ารวมเป็น 2 (ตะวันออก + ตะวันตก) แต่นับเป็น 1 เผ่ารวม. คณิตศาสตร์ทำงาน._
+> _บริบท: **คำสั่งแบ่ง — 9 เผ่า + ครึ่งเผ่ามนัสเสห์**: รวมเท่ากับ 9½ เผ่า._
 
 **8** ครึ่งหนึ่งของมนัสเสห์ พร้อมด้วยชาวรูเบนและชาวกาดได้รับมรดกของพวกเขาแล้ว ซึ่งโมเสสได้มอบให้แก่พวกเขาทางทิศตะวันออกของแม่น้ำจอร์แดน ตามที่โมเสสผู้รับใช้ขององค์พระผู้เป็นเจ้าได้มอบให้แก่พวกเขา
 
@@ -2065,7 +2065,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/joshua_10.json` | `bd49c546f4e3ebd69c6dfa36a604bfeafd5aac60888cf530f097febba7a55541` |
 | `output/translations/joshua_11.json` | `714943a28d1daec4524f25fddaf34e9af6cb73914f59279903c32041a76eee9a` |
 | `output/translations/joshua_12.json` | `9197d55470a6c3b2900cfd8cde5ec6865f1806c16fb914bffd433dd789e7e43b` |
-| `output/translations/joshua_13.json` | `c4d6a5c20de26a2d32a8e799107974ff89d4811d9070929ca278b8dda4106f7e` |
+| `output/translations/joshua_13.json` | `b5a50003483b0abab89157f54590f03791f38f7ea8b755e666ec46afb0db776c` |
 | `output/translations/joshua_14.json` | `201baf702d76c011b402f0c3f05a20d95aa5c1b720f879e58aa65c9d953b3bbd` |
 | `output/translations/joshua_15.json` | `eae455ec28646ca95bcb0bbe4ba879fbeae9c1aafb0c3b873767e5e3d74a9eec` |
 | `output/translations/joshua_16.json` | `dba351fbff6f6c24b6f55d71e99b5da8f39cd33f5d90b1b9e1d4e324bf54063d` |
