@@ -781,12 +781,12 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/judges_11.json` | 40 | `5407bb5d7d411cf5a08dd316b48cbd3856188c904f70e8381b050a3050389252` | `97f1deff` |
 | `output/translations/judges_12.json` | 15 | `c7291ea3e3d890b34fc9410e21843e52417ffdb7ae4507f32152c9e42860d40f` | `8645c8c9` |
 | `output/translations/judges_13.json` | 25 | `baeb9ff61335f8a29d1c6d915e3407280dfbcae498c85bc6b560a91225009b5d` | `51c9f1cc` |
-| `output/translations/judges_14.json` | 20 | `a6f33a39e0539815d1165852467d465cdcaee8aa2feca0bb815ff27ed8f2a01a` | `3009055c` |
+| `output/translations/judges_14.json` | 20 | `2049a066a7131eec39dd0097cf061c392cf96fca1f8a0fae88285612af0a611f` | `3009055c` |
 | `output/translations/judges_15.json` | 20 | `b62f614302dd773418ea4b848b72a3d8b2d3fc729f8909f0e482253503a932f5` | `5688c752` |
 | `output/translations/judges_16.json` | 31 | `681924eb9a2a6262f71bd0c50e72e114c66fceee61817984d9b6a039438e98ce` | `51c9f1cc` |
 | `output/translations/judges_17.json` | 13 | `469b8ba3fa56cde8eb856876c124ae12e93d152d0a09e669763e0d1e17cee7b1` | `7913abed` |
 | `output/translations/judges_18.json` | 31 | `a1ee37808220e91441262b84c700bb331b6e0b489198849907577acf44e70645` | `4e71a682` |
-| `output/translations/judges_19.json` | 30 | `206909015c8fb92a5002b434ef8e6c5640d859eee8e012f5f1dcd202608b012a` | `51c9f1cc` |
+| `output/translations/judges_19.json` | 30 | `b24f25899406f725a3730bfb22360b0ec43084c15cd82476767eed70ab9d691d` | `51c9f1cc` |
 | `output/translations/judges_20.json` | 48 | `95a29ea76d6b75e5ab1c942ece315bc125eebb1980745b031c1c6d19dbc042c2` | `51c9f1cc` |
 | `output/translations/judges_21.json` | 25 | `6bf24acbe7b9e93aa4423160c7888eeba24083f29bddfac0040b61cfec143f5e` | `51c9f1cc` |
 | `output/translations/lamentations_01.json` | 22 | `ebc3f9e1122694f53a00cfee1491bfe5a6d82feae386503bc61e9aeb658f4719` | `15cc600c` |
