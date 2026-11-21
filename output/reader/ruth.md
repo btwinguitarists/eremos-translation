@@ -331,5 +331,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/ruth_01.json` | `7153167899931b7fa6b249742cf521e29912a152f25d0e2c1a2b14b8d9c6825c` |
 | `output/translations/ruth_02.json` | `9ec349a8cb1c287436281a0768f7acc16e13921a5fc0006292d81ffca0098a77` |
 | `output/translations/ruth_03.json` | `c2c14fbd2d0641e35eb56b1140b0815cf6e5925b12d112d315b56676f44c109e` |
-| `output/translations/ruth_04.json` | `56920eba7fb5df9eb74e477912381d35fff8e0b76f81338491ee2d08c0a24e28` |
+| `output/translations/ruth_04.json` | `21f893eeb9869a38cb1dc6cdf5fd20dcf8e51c6e534a3006694d9dbbb5340aeb` |
 
