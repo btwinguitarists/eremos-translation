@@ -3149,12 +3149,12 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | Chapter file | SHA-256 |
 |---|---|
 | `output/translations/deuteronomy_01.json` | `7f01a37ad00205416ba43ccebea7313ec29070a381e228d8990772452696c686` |
-| `output/translations/deuteronomy_02.json` | `d66e1f04bae10e9af553ab993564aff67fb4f993ae1c7eb4844bb0751a85cced` |
+| `output/translations/deuteronomy_02.json` | `6fccd8efbc81ff508cb043f3e04b6ad592b81666bec86aa4dad9b1dd06dc0771` |
 | `output/translations/deuteronomy_03.json` | `58fc924fa5ae97ede92adceeca7c67915c3e0dd9b59232230a62f5a995eb6801` |
-| `output/translations/deuteronomy_04.json` | `a6c62f2870391e0a345a56428a5d6b822141cd81326f1fb6f8f837ab86d52bf9` |
+| `output/translations/deuteronomy_04.json` | `aa25cd362af9c06ba15c1d97a4ea7e9fbd274a2cfc12513fcecde74cf111e514` |
 | `output/translations/deuteronomy_05.json` | `811889fb7752d036203e5837247d3444221f982838a799f6771471f61dd0b64b` |
-| `output/translations/deuteronomy_06.json` | `63f91e9db34c51019336d702954ef7cf7669e2ea9d4a2b04fb32050fce924d02` |
-| `output/translations/deuteronomy_07.json` | `89d139713bf9c3687e789719984e77e1e4e23b2999b5bc46f60271e3076aa4e1` |
+| `output/translations/deuteronomy_06.json` | `71a7045d550a0fbf1064c03f00dd539b0aa1dbe179b928e15d3a7be9406de235` |
+| `output/translations/deuteronomy_07.json` | `70a78c538bf280057de3612aec9aa43779d17f58ab9f008c80599218ce30cd89` |
 | `output/translations/deuteronomy_08.json` | `85ab294440478b25d2a428668138b29332882e2cfdfbb8688c2f283181cd88ea` |
 | `output/translations/deuteronomy_09.json` | `065a004fc2aae859325a16ef0e2cdad9121e7e0da9b3bc732d961a2e6ea8ab54` |
 | `output/translations/deuteronomy_10.json` | `0dc2b6e30051a59060978ed27639b703a4b7ecc7dc84c4675694095166dfe282` |
@@ -3169,7 +3169,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/deuteronomy_19.json` | `4e9d9363d69f0fc9062f09f042a38c08c0227d319f80ffb28e71ed00a65a947e` |
 | `output/translations/deuteronomy_20.json` | `5f1954fc7804bb8529b66d4b631c2d846dfa827b2bc5ade92324da4da09dfb09` |
 | `output/translations/deuteronomy_21.json` | `b416b03e1ebf2a6e68ac988be2ddb3787850f30c29d39acba4543856a78b096c` |
-| `output/translations/deuteronomy_22.json` | `11a008962664a709b19cb34aec3ec0bfb51167d53d50c2a1c2e4d63a69877ff6` |
+| `output/translations/deuteronomy_22.json` | `702ed7729417dcac93544dea0aaf409caebae62baa010e5c0912a569ef53ad71` |
 | `output/translations/deuteronomy_23.json` | `8cb26e832a1d1d65ede2ac6a4efc1b26053372347bcd7d360fa78c1eb6ae4525` |
 | `output/translations/deuteronomy_24.json` | `87367c8dddff37b51cd2b8968870a56785cb7a813d5c68fb856219f96408733c` |
 | `output/translations/deuteronomy_25.json` | `5873bbbc64c0729602f98633793ced906036aac65631efd773d800c0b175df9e` |
