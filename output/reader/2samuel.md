@@ -952,7 +952,7 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 **21** ใครตีอาบีเมเลคบุตรของเยรุบเบเชธ? ไม่ใช่ผู้หญิงคนหนึ่งโยนหินโม่จากเหนือกำแพงใส่เขา และเขาตายในเธเบสหรือ? ทำไมพวกเจ้าเข้าใกล้กำแพง?’ และเจ้าจงพูดว่า ‘อุรียาห์ชาวฮิตไทต์ข้ารับใช้ของท่านก็ตายด้วย’”
 
-> _บริบท: **โยอาบเตือนผู้ส่งสาร:** ใช้คดีอาบีเมเลค (= เยรุบเบเชธ)_
+> _บริบท: **โยอาบเตือนผู้ส่งสาร:** ใช้คดีอาบีเมเลคบุตรของเยรุบเบเชธ_
 
 **22** และผู้ส่งสารก็ไป และมารายงานต่อดาวิดทุกสิ่งที่โยอาบส่งเขาไป
 
@@ -2614,7 +2614,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/2samuel_08.json` | `1d12aa3aaa7cf9dadd665403be34c9bcee5f62257283aca9e07000305bd8a5da` |
 | `output/translations/2samuel_09.json` | `788157cee7032f1deb05eda4a251f086a9621f69b50afc7ba62affefde9393dd` |
 | `output/translations/2samuel_10.json` | `9d7b1f91dc313e48c4cf473fd07581aa6239ad2358d93363cf0df658e3c201ff` |
-| `output/translations/2samuel_11.json` | `5f25fef0b38b3bc449aaef08088eba30d7b1c45eb19f252581388cf82a98e971` |
+| `output/translations/2samuel_11.json` | `0c13381401750bfd35c0884d49c6b1b4292308685c1b8d9d0a12b9719f91dda0` |
 | `output/translations/2samuel_12.json` | `b10dda3248c5d114675eab4196ec2345e5eba62580eff4856c3df82b5ac25451` |
 | `output/translations/2samuel_13.json` | `eb155ce958da1c7a4ba82727d4242dc9d0eac06e4a56fcbcf85948183f17b4c3` |
 | `output/translations/2samuel_14.json` | `73c461481b8382700a27d0d7aa0706e6256cdc317e2670fab9749e985bf8ddab` |
