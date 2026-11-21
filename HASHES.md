@@ -405,7 +405,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/exodus_40.json` | 38 | `bc43aa99c5f90503e06f29e46a980b3ed3e37ed4c5b49427b845cdec1f790d74` | `a8835f6e` |
 | `output/translations/ezekiel_01.json` | 28 | `9c525109ebfbdea4e7fc5789f84585377a8077649901afe6e133a1e141321eed` | `7040ad9f` |
 | `output/translations/ezekiel_02.json` | 10 | `9ebb35bb24dcb57d6454221c873800babf60912331a332bbf546bed16f0fae32` | `d29a45fe` |
-| `output/translations/ezekiel_03.json` | 27 | `a4dfe9a1abc11d33f3a60c66d002cdd4c018f836e26d4fb3cdb8cb5922d49fc2` | `7040ad9f` |
+| `output/translations/ezekiel_03.json` | 27 | `84207d66560243dc918ecc7a7226a9f738e71e3b37e8e8d26a0a207f8976057e` | `7040ad9f` |
 | `output/translations/ezekiel_04.json` | 17 | `111bb7426b3a7082bf4fcca80bb63322a41508a14b3c48ba0aa193127ac0db41` | `23ec3b94` |
 | `output/translations/ezekiel_05.json` | 17 | `889b4e5cf7d7a4ff17ae37ccd9aca3520ebec5e386e04d5f8cb32b2e34c17186` | `68b2da7e` |
 | `output/translations/ezekiel_06.json` | 14 | `891c1d1bdf4d401fdf60f256fa73c84107c125df15e51805feb13774c2a6e660` | `393b2c1b` |
