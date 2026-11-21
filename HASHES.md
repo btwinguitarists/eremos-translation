@@ -502,7 +502,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/genesis_33.json` | 20 | `00abf556eb7457ab41d5f8a6c484c38184a0dc48d73764ed661caeba88a93049` | `7040ad9f` |
 | `output/translations/genesis_34.json` | 31 | `26d2a46f5cff14b2de2370a2d99ba84300cef71dab02778c2cc0907c44e9273b` | `f6ace63b` |
 | `output/translations/genesis_35.json` | 29 | `a9c352466e5f29c6dd2606996bd256f6ec9f2651eefdd495e8d92d04abd4cc3b` | `7040ad9f` |
-| `output/translations/genesis_36.json` | 43 | `d925dfb5872c4e5a2b25cfa8950a23420de5da7e728988384b845e951d96d74d` | `7040ad9f` |
+| `output/translations/genesis_36.json` | 43 | `54e3eb33957732b19162fe9e964389aa1dd247465606e14fdaff436c12e434bf` | `7040ad9f` |
 | `output/translations/genesis_37.json` | 36 | `930b3870616bebce188b5a32105e481d0fd6ff22335aec8b2508899a14a45051` | `7040ad9f` |
 | `output/translations/genesis_38.json` | 30 | `bb8b45ea327dbcd5505eed0ae0690adaf4bbef340d431cc798986439603b1776` | `7040ad9f` |
 | `output/translations/genesis_39.json` | 23 | `8ded5a9643bd6d4ababc651ad8df245dfc215a04072db9f8d790d854caf8a14b` | `7040ad9f` |
