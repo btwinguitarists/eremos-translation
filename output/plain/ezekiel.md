@@ -3190,10 +3190,10 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/ezekiel_16.json` | `b82c18c8c9c230f14823a45db0170484aad49fcbbad004b07b374918e98df8c0` |
 | `output/translations/ezekiel_17.json` | `55c5ef51e5ff91148e617140348874b56dc4773bd727a6465f2d54ee79ce1ea5` |
 | `output/translations/ezekiel_18.json` | `c470ae0071d943a2099234ddfd0fbb01bfcd0eb9e53104c5fae40219e85d3572` |
-| `output/translations/ezekiel_19.json` | `9bb5d4c3f4ad6c0020a211b95588c718041bb7fcb197a0a4410b93b3f32bfa22` |
+| `output/translations/ezekiel_19.json` | `4535499ec7ccc820d5736d8063c2116f08d1415f7a75cfb0ab74209271ee7ef8` |
 | `output/translations/ezekiel_20.json` | `7767fda24441a563d88bfb12c9cfa11ece0c3b891c345d560fa24dfb1d521943` |
 | `output/translations/ezekiel_21.json` | `a445991430f8a0e4404e30a89a17838ee83e1423a463636e20ffecf1712e5e53` |
-| `output/translations/ezekiel_22.json` | `e249d4eaed57dedbe987085c229ef95834b692df7a852761389e9134c896261d` |
+| `output/translations/ezekiel_22.json` | `6dc52d23fc066f8f8cb360b0d7e31c8d14501532bce77f967b93c86c814a131a` |
 | `output/translations/ezekiel_23.json` | `32c9abdf7db33ced2c7005bdf269644f5b3c445615dd29d6ab9c1e8fe828c355` |
 | `output/translations/ezekiel_24.json` | `7fe34d7a2f1d9053d026f6f43a8cb8a23595a9f371aa2fbe83ce4816daa6c732` |
 | `output/translations/ezekiel_25.json` | `9e710652e86b307aab4882bff5ecc04578a8f06b678275c086b472587167b8a1` |

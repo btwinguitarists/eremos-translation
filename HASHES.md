@@ -421,10 +421,10 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/ezekiel_16.json` | 63 | `b82c18c8c9c230f14823a45db0170484aad49fcbbad004b07b374918e98df8c0` | `e9775072` |
 | `output/translations/ezekiel_17.json` | 24 | `55c5ef51e5ff91148e617140348874b56dc4773bd727a6465f2d54ee79ce1ea5` | `590b661a` |
 | `output/translations/ezekiel_18.json` | 32 | `c470ae0071d943a2099234ddfd0fbb01bfcd0eb9e53104c5fae40219e85d3572` | `851ce907` |
-| `output/translations/ezekiel_19.json` | 14 | `9bb5d4c3f4ad6c0020a211b95588c718041bb7fcb197a0a4410b93b3f32bfa22` | `41217da5` |
+| `output/translations/ezekiel_19.json` | 14 | `4535499ec7ccc820d5736d8063c2116f08d1415f7a75cfb0ab74209271ee7ef8` | `41217da5` |
 | `output/translations/ezekiel_20.json` | 44 | `7767fda24441a563d88bfb12c9cfa11ece0c3b891c345d560fa24dfb1d521943` | `bac62f2f` |
 | `output/translations/ezekiel_21.json` | 37 | `a445991430f8a0e4404e30a89a17838ee83e1423a463636e20ffecf1712e5e53` | `e23d0732` |
-| `output/translations/ezekiel_22.json` | 31 | `e249d4eaed57dedbe987085c229ef95834b692df7a852761389e9134c896261d` | `d05078e4` |
+| `output/translations/ezekiel_22.json` | 31 | `6dc52d23fc066f8f8cb360b0d7e31c8d14501532bce77f967b93c86c814a131a` | `d05078e4` |
 | `output/translations/ezekiel_23.json` | 49 | `32c9abdf7db33ced2c7005bdf269644f5b3c445615dd29d6ab9c1e8fe828c355` | `7040ad9f` |
 | `output/translations/ezekiel_24.json` | 27 | `7fe34d7a2f1d9053d026f6f43a8cb8a23595a9f371aa2fbe83ce4816daa6c732` | `c8559d30` |
 | `output/translations/ezekiel_25.json` | 17 | `9e710652e86b307aab4882bff5ecc04578a8f06b678275c086b472587167b8a1` | `9cca6a9b` |
