@@ -460,7 +460,7 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 **18** เขาให้ครัวเรือนของศับดีเข้ามาทีละคน และอาคานบุตรคารมี ผู้เป็นบุตรศับดี ผู้เป็นบุตรเศ-ราห์ จากเผ่ายูดาห์ ก็ถูกเลือก
 
-> _บริบท: **การเปิดเผยของอาคาน**: ผ่านการคัดเลือกขั้นที่ 4 — อาคานถูกระบุชื่อพร้อมเชื้อสายเต็ม (ทวด → ปู่ → พ่อ → ตัวเอง). ผู้เขียนกล่าวชื่อเต็มของเขาที่นี่และในข้อ 1 และ 24 — การกล่าวซ้ำเน้นความหนักแน่นของบทเรียน._
+> _บริบท: **การเปิดเผยของอาคาน**: ผ่านการคัดเลือกขั้นที่ 4 — อาคานถูกระบุชื่อพร้อมเชื้อสายเต็ม (ทวด → ปู่ → พ่อ → ตัวเอง). ผู้เขียนระบุเชื้อสายของอาคานที่นี่ ส่วนข้อ 24 เรียกเขาสั้น ๆ ว่า 'อาคานบุตรเศ-ราห์' — การกล่าวซ้ำเน้นความหนักแน่นของบทเรียน._
 
 **19** โยชูวาพูดกับอาคานว่า “ลูกเอ๋ย จงถวายเกียรติแด่องค์พระผู้เป็นเจ้า พระเจ้าของอิสราเอล และจงสารภาพต่อพระองค์ จงบอกเราเถิดว่าเจ้าได้ทำอะไร อย่าปิดบังจากเราเลย”
 
@@ -2059,8 +2059,8 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/joshua_04.json` | `000ed6f7d41f66551840c643a91351dcd4da4174ffbdaa1e44549b07941f25eb` |
 | `output/translations/joshua_05.json` | `228a866b71fa1eb3cc49890d7dbbe37151ebd35076719559e042ae0cc58b7bfe` |
 | `output/translations/joshua_06.json` | `cba3ec889769fab8e41ed16fadeab695aaae5422446864a681c023556b5b865d` |
-| `output/translations/joshua_07.json` | `6d5ab52adce27720a22b775a30ba33f80f05dcf61d93c86bdcbd38767451697f` |
-| `output/translations/joshua_08.json` | `6fc3c94869b76dff4564a7e5fc56ebe7bac082c956606ce80bee8376ef820e9c` |
+| `output/translations/joshua_07.json` | `6f2d215e710478a2a614e8469303c9600958a0e7109e1e29a7ec23c8cbe2d38b` |
+| `output/translations/joshua_08.json` | `ed9746c3b3bdd2a6bb67b909926316df5c7c217904d1a87f7abdef9476f140c0` |
 | `output/translations/joshua_09.json` | `f679e2c101fba60570889e3a25446f5035c6c300bfd42ba98657355db3bee19b` |
 | `output/translations/joshua_10.json` | `42b50e9381b3a03f1a05bf572dda62cce2cecf3b31aee097a2ca2a741512870d` |
 | `output/translations/joshua_11.json` | `75301b0914945f481396bf4b9687192a33bcb544f899d8e4605a08e2e59ce0eb` |
