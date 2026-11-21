@@ -91,7 +91,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/1kings_20.json` | 43 | `98a0b02541a6a029a9a6d633342f3dbe56d955f41e9ee2486f3611d6f42cbc3b` | `f9b61a31` |
 | `output/translations/1kings_21.json` | 29 | `6163bb7fef03b1de6dc6ea91a3ab8aa519e5edb911c0f9f5a165fb4ff2e4503a` | `b93c6ae5` |
 | `output/translations/1kings_22.json` | 54 | `a54fc423d91b44cdd7dc513658bc9c0edf5111c7d3aadbdf61ca73b940b67afa` | `50c2a3e0` |
-| `output/translations/1peter_01.json` | 25 | `4e90c284dce188d36c442b53d8daea6279d8862eef7e8f95208409de8b733234` | `5f55fea0` |
+| `output/translations/1peter_01.json` | 25 | `9f64d104e6417a2a0c1f62a1b99268d8ca1a6a76b2aad1b056dc5214c33074e1` | `5f55fea0` |
 | `output/translations/1peter_02.json` | 25 | `120f3302493eb9bd2845bd586e6270174705f761d2bb26bdeb7f465ddeb0259e` | `b812394c` |
 | `output/translations/1peter_03.json` | 22 | `ab8923ac1f2bce4711ab6aab171275521419001881bbd55a736f444fdc007516` | `256bbe7e` |
 | `output/translations/1peter_04.json` | 19 | `5f1d50f69f35aeb8a52f46b83daad7c826ac3cc8a9e64daa1eadf7beb1fc6413` | `63b62727` |
