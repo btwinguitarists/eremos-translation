@@ -5740,7 +5740,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/ezekiel_01.json` | `f4a588d48eac5c57313f51f7e96a612dcddab652f9b0dadd45283a996ca5e4b3` |
+| `output/translations/ezekiel_01.json` | `9c525109ebfbdea4e7fc5789f84585377a8077649901afe6e133a1e141321eed` |
 | `output/translations/ezekiel_02.json` | `9ebb35bb24dcb57d6454221c873800babf60912331a332bbf546bed16f0fae32` |
 | `output/translations/ezekiel_03.json` | `a4dfe9a1abc11d33f3a60c66d002cdd4c018f836e26d4fb3cdb8cb5922d49fc2` |
 | `output/translations/ezekiel_04.json` | `84fc59882eef22b4ecfa63c1fad53c670bc808d0555ffbc31550dbcbc427948f` |
