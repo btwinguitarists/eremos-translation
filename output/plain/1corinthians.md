@@ -950,20 +950,20 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/1corinthians_01.json` | `8fe037408a33ea46742512e6d4741d9a035ddc8127501975619c18e4bd65b4d0` |
+| `output/translations/1corinthians_01.json` | `6a4361ddcc304ebf184f5ae767a01df522e7892d1cbb5735cf5478e83bf64e16` |
 | `output/translations/1corinthians_02.json` | `f89965365f3b0cad6b1261fe5cd39b2da70105281caa91fd248c10286a72374d` |
-| `output/translations/1corinthians_03.json` | `08e042f1494b0a04a2bd2e360e6983fe4a567b7cd24fb95863b2143079dc50d7` |
-| `output/translations/1corinthians_04.json` | `7c5e9e26dfbd6f7d843a3df8ef62b7297a09d27a17f845c913528d1fd385706f` |
+| `output/translations/1corinthians_03.json` | `5548c1c6a0731c4bdccae8c78b184392e4ab6e49c158c5cec98a0eb415fc47dd` |
+| `output/translations/1corinthians_04.json` | `4ba06865d5f7dda932d31aea7f27c381c285f268e30ef6b5362a2b60ab8a4360` |
 | `output/translations/1corinthians_05.json` | `9a239466aa383105cd196d915889d7d9176e93e466fd57c3300a83ad9c35125a` |
-| `output/translations/1corinthians_06.json` | `8198559711e7acaf1dc9d1adf41b0f45325d9ec2b3071f970e0c0b0de2bd1a4c` |
-| `output/translations/1corinthians_07.json` | `a18184144cf306a2513a9615e492c70faf8cc6a3871d4dc79eee730d3b80ca2c` |
-| `output/translations/1corinthians_08.json` | `815df54bc66f78e92fb31021830cc9ae82929d6e06046ae72ce1e62002ef9067` |
-| `output/translations/1corinthians_09.json` | `9097bd65ec34e8944749df8b628e3384f3b76c898659b24b680353e548e62394` |
+| `output/translations/1corinthians_06.json` | `c0c44bba5571e7068e2b3ef6c85b4bce0131a92516b770fa3069bcadb22621ad` |
+| `output/translations/1corinthians_07.json` | `18f53459d34e98f4a1b74a1dc7ffd725076f261ca717711089c5bffa755bd534` |
+| `output/translations/1corinthians_08.json` | `d5d7a97843e4770fd9e14a1e1fd14569c2e27826ad1e60cf814e3719928befef` |
+| `output/translations/1corinthians_09.json` | `39b7d368f5ebcd55df964f49562577612c2e8276dd58f127b07fda07e4cb2d02` |
 | `output/translations/1corinthians_10.json` | `8f23e3620cb8a32433a6d2908ef133952664b0e10ac555a2548f45b8a175785e` |
 | `output/translations/1corinthians_11.json` | `cf82a092d2c63cb0f4b37d4d517d0989f9149704d8e096ac05ccd5954f47b194` |
 | `output/translations/1corinthians_12.json` | `95bf5fd6626e97fa31d8f3180c4f6294c1bd3f81742ebd863e2b56c59012d3d5` |
-| `output/translations/1corinthians_13.json` | `66c21bd57cb79fc964478ccf1f6f0c5a382777f96e49be32fb50666a66bbb27e` |
+| `output/translations/1corinthians_13.json` | `8c1af7098465df03e2707fbc88bb06bb0a89b80fe487d4a3f6ed43bdcd2542b8` |
 | `output/translations/1corinthians_14.json` | `fd751079060a2cdc11047428ca6c5f246afae6e17dcd3d486744681e623c95ae` |
-| `output/translations/1corinthians_15.json` | `f3e47bcd2667a869826a20a911bf097ce2216eba8b26f6bbfba9470889fbf4f3` |
+| `output/translations/1corinthians_15.json` | `7d605067202897f65d4365d732ae9ba56097e398bc5bd6b708c205f098005f69` |
 | `output/translations/1corinthians_16.json` | `a8deab69d82f0b049df96ee74a09aec3ba1f5f7bfaeb8cacbf5640cd25983c27` |
 
