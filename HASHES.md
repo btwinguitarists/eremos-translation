@@ -561,7 +561,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/isaiah_10.json` | 34 | `1d9cd7f4b1022ed1290c86e183fbd11559dd0235eeb68655b10fec724a453983` | `1f67584c` |
 | `output/translations/isaiah_11.json` | 16 | `16d6b1b6f0bf0c0902b82ab6fd4b286eae7802e876e3dbad95db84fdd2fa1ea1` | `a1d2fefd` |
 | `output/translations/isaiah_12.json` | 6 | `71808c84dd02f7391de8105658008c8c404dd85eebd25d2711d75a55974a4e0d` | `57185802` |
-| `output/translations/isaiah_13.json` | 22 | `1811030af23950b4b55f3494ed50b87e6cd0d0c95960fb6feb214c5e4c9a98ed` | `c766beb5` |
+| `output/translations/isaiah_13.json` | 22 | `a4b25fa9ac1b659c932799d3897c151e462a8bbad3ba2814cf581af7130dc5c4` | `c766beb5` |
 | `output/translations/isaiah_14.json` | 32 | `1b94c362f36fb0b65b0a191593c10b1cd77e2dc967a5bc31480481db622ae048` | `01276f62` |
 | `output/translations/isaiah_15.json` | 9 | `61b660b1a98a90dc2f24a6f2e69e1105deb18d87a1279e1003a3038d33504ff0` | `45eb9045` |
 | `output/translations/isaiah_16.json` | 14 | `3ed556695acfa1043e170f524ab89d5d4debd29b6a8e04fd40fb7d382c3ff81d` | `f6962a89` |
@@ -582,7 +582,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/isaiah_31.json` | 9 | `44798eeb46bd3c1201cd4d5e0a773c2ea664c7a5a39321ba7eaf5dfebae4d61d` | `e648826c` |
 | `output/translations/isaiah_32.json` | 20 | `a04308df4eb14e9aa35c950bbf528baea8b0d147c1484033228da6b0f23c4824` | `7bf6c424` |
 | `output/translations/isaiah_33.json` | 24 | `d5ee5fe05690995ef11e51c266f482a3558e55f4108583c64024baaea9f0ba1a` | `354eab3f` |
-| `output/translations/isaiah_34.json` | 17 | `527f6dc520b09dc6518ff6cfd797f866ca1d0eec922f30cdfc85cbfabb4ac316` | `37dadac0` |
+| `output/translations/isaiah_34.json` | 17 | `17179ad5e8b62f6bdfb9d9c023233656191ccdcc183692b99d979aca4da0c993` | `37dadac0` |
 | `output/translations/isaiah_35.json` | 10 | `d882749d25da3007d3dcd280b279105a3f2a3d4768527605982a3e5543b012b1` | `25834341` |
 | `output/translations/isaiah_36.json` | 22 | `356831d0729ca3462e39762fec45310450142fc5f68011337a7cfa437cbcd685` | `cf886a18` |
 | `output/translations/isaiah_37.json` | 38 | `e00db52f238474e71962323eeed3e8bf392db18c8db479c681b95ceaa2186b74` | `b7527580` |
