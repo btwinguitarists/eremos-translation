@@ -2055,7 +2055,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/2kings_12.json` | `b3c1ceffbef6aebd2ef505bdfe2950c09255d0d58e84782434a7035e3183897b` |
 | `output/translations/2kings_13.json` | `724db74666c9887af176887724defd820dc1a3c094a1bb2a1f6b859f7074fce3` |
 | `output/translations/2kings_14.json` | `5259066ba04986cb8eb7b53aa400779a44fc5de799dff6e87e3295941897bcdf` |
-| `output/translations/2kings_15.json` | `c802a176248bdad12ddff7707de2fa6eb248d009fc0e9894c0dd9468a56679e8` |
+| `output/translations/2kings_15.json` | `f5fcef5fb645d19a09625421d5c2b259e2523bda61acd2adda80da0b371152b3` |
 | `output/translations/2kings_16.json` | `7f5827156abb03acb486d63c214a07ddfe387a84e388c5d7f466746ec5b0a4f0` |
 | `output/translations/2kings_17.json` | `9efda8e27d871f556b01c4379715b272abeafbd3000bacd80abd336d83a3d037` |
 | `output/translations/2kings_18.json` | `674d69bcd5794e2ee9f8c6a4abdde8741b142dedc76ce81a08aca4de61549296` |
