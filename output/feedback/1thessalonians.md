@@ -414,5 +414,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/1thessalonians_02.json` | `1c39af3e0fd06a32906b8256dc93b5fdcc8e3038e39c1b2a388ea3ca11b593d2` |
 | `output/translations/1thessalonians_03.json` | `d09d3e84833d019877b79139018fb0e5a8cb4fc87ea6b5d18580ba86614aaf99` |
 | `output/translations/1thessalonians_04.json` | `cd07f97b20211e7f2d0770cd14367bfd48d6fa91402123883344e454da6e5623` |
-| `output/translations/1thessalonians_05.json` | `ec6ee616c91b5bec3232d145ccfe6879ba62d617a4fc77c31ce0330f864adbbe` |
+| `output/translations/1thessalonians_05.json` | `1d9117f4e70690a4a383a739bce637d88a546f7636fa29752f1113621afcfa35` |
 
