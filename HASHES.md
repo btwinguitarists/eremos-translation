@@ -131,7 +131,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/1thessalonians_02.json` | 20 | `1c39af3e0fd06a32906b8256dc93b5fdcc8e3038e39c1b2a388ea3ca11b593d2` | `6063f780` |
 | `output/translations/1thessalonians_03.json` | 13 | `cbea59792e2d6a089692ffc99deed00c9e8c4e95e6b1138c2d746557326d2ab8` | `de0f124c` |
 | `output/translations/1thessalonians_04.json` | 18 | `f4e6df0a4958d05161f33ce6ad65c8b4caf1907e6363c3bf787ad016bbe745b0` | `cf6bd38f` |
-| `output/translations/1thessalonians_05.json` | 28 | `b27ec3a33d7d96a47e2db0030bfbac0d53c936ccd5a2062628d9c1815a696efa` | `d03c3a1a` |
+| `output/translations/1thessalonians_05.json` | 28 | `3345d8d2471a8df6f4fe3c9a7d29276d428f7485bda6f91f7edc9d4155e3f0a3` | `d03c3a1a` |
 | `output/translations/1timothy_01.json` | 20 | `c7c6fcf59f1ef51bc256c7ef4b3f626e197cea6ca0491e818ff9b889f8a4a490` | `a66a45c7` |
 | `output/translations/1timothy_02.json` | 15 | `13af01b7fb145a1425eb85bc58a57d6a7fd440689f65c36822957f9dd5bb7e31` | `d03c3a1a` |
 | `output/translations/1timothy_03.json` | 16 | `53c0e7becdd329cd61c2322e3fe86ddba55536b4f09f04edeb0bcde83568973b` | `6d15bb1a` |
