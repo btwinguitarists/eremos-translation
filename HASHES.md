@@ -176,7 +176,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/2chronicles_36.json` | 23 | `315db248ba6629fca95296becaae5e20ffe6fb921060b889b0ff2b0aac71a656` | `e64a8407` |
 | `output/translations/2corinthians_01.json` | 24 | `8cfb3498c486412fda8ecd784d17bf958f40650f58e9e6fafddf7a4c6b345ca4` | `d03c3a1a` |
 | `output/translations/2corinthians_02.json` | 17 | `50dd94b5662de9add4e0680c7f4f5d1db0fe997380613b1cad445807c4cadd2a` | `d03c3a1a` |
-| `output/translations/2corinthians_03.json` | 18 | `35530e7d8ec76f6ed0b89d4cd8e21672af6489fb3569fb9231e16fd0d95526da` | `b64d4872` |
+| `output/translations/2corinthians_03.json` | 18 | `072d21555da03d88d556270f3e020f61b1cfefec7db144d621b46c0860f80c52` | `b64d4872` |
 | `output/translations/2corinthians_04.json` | 18 | `48131cb80405f98b182bbfab1c97609a874a08b9a7ad35cf2e1b987e03b48116` | `7040ad9f` |
 | `output/translations/2corinthians_05.json` | 21 | `e2452a34d40b0fd0ce3c4cbc0d0a70dbf6fd6267f9d206904b58c2dec293330b` | `cf6bd38f` |
 | `output/translations/2corinthians_06.json` | 18 | `ae48df81325a8e1d4e2c9615163e083885323658b943a468f2ee5d85f95d82a9` | `cf6bd38f` |
