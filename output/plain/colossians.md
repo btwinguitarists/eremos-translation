@@ -219,7 +219,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | Chapter file | SHA-256 |
 |---|---|
 | `output/translations/colossians_01.json` | `6963aa0840a0fa09d6ba9b223d5c998570790a8c9df5b122f678c9293f12a64e` |
-| `output/translations/colossians_02.json` | `152de18f1ea535f7a47284b741a6de92ddfc269076e0c44a1d87c5c3fca652b9` |
+| `output/translations/colossians_02.json` | `1dc5531db655b3a0c4feff0e4904e677b3c07aaf0dbc742559a7b811ab4689a3` |
 | `output/translations/colossians_03.json` | `17e946688dd4590eee7d9674a5115229714c94c9612866530d387dc8b61870fc` |
 | `output/translations/colossians_04.json` | `11b9d98690638fff358b18be59925f310cf455e8ad3b7c084fd6b865e1e9e231` |
 
