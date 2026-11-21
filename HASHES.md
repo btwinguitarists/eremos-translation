@@ -69,14 +69,14 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/1john_03.json` | 24 | `e56c894253e2e905a084dcd2c682c048365a62a76f7994f5c82eac84d77235eb` | `53678fba` |
 | `output/translations/1john_04.json` | 21 | `59b1521f0ee777cb6285dc4f8a5090809b8e8db213f260c17e0220bb622ad5d7` | `7df238de` |
 | `output/translations/1john_05.json` | 21 | `8dff9ffd6682e8d8330777285d7449c47d3553b02c8a45b76fd08ad4a7b4f1c4` | `7040ad9f` |
-| `output/translations/1kings_01.json` | 53 | `650d24b347d50e9f26a556237481c5b52ce392c7d4e4c2d483a16c3363d994e0` | `32c4b197` |
+| `output/translations/1kings_01.json` | 53 | `6f7dd08c009b3adb38cd841e1c5a8675c4535d5c260f5b6609f85cf87aab8927` | `32c4b197` |
 | `output/translations/1kings_02.json` | 46 | `3841525fa1e7b9f5a1a8229af9a7e632aadec6ad52c18e04e5b5ca0ec4e79d86` | `655d0f4e` |
 | `output/translations/1kings_03.json` | 28 | `f048e76835ff0397efe85db8aadf508bde4cb9959acf878febddb0d8b5cb1b3f` | `020e0ba4` |
 | `output/translations/1kings_04.json` | 20 | `00f59218fbdd252155e3ca3f1cb18e044037e9cf67da643cb5374652e6f005d9` | `3e1fb359` |
 | `output/translations/1kings_05.json` | 32 | `85f1b119efd49dcf5dbbe538dea894d76fd3f5a490ffaf3c19a0ccea1a7963e3` | `7f0a3eed` |
 | `output/translations/1kings_06.json` | 38 | `16605b3ca8ab92bfb46e499cee6b728a5ffcc5a4661f1c093daa68e20f5b6ed1` | `fd6eb54e` |
 | `output/translations/1kings_07.json` | 51 | `7488ee2278ad002c7d4d0b1dbb7e6ae83e3f3c2b87e60661b085385c3afb21ac` | `89c9f6dd` |
-| `output/translations/1kings_08.json` | 66 | `00812617bb2be3e3e76b8c993692f5126a9b922330351c2f0fb05757457c6849` | `ff025927` |
+| `output/translations/1kings_08.json` | 66 | `37a3a655aff7296bba563edfa5adf90e41a1a43ce08e06cdc0c3299c249fb580` | `ff025927` |
 | `output/translations/1kings_09.json` | 28 | `fa3cf57800eafe5dd5645c3b478f80f60ce970faf446018477a458d593f253a0` | `c2853784` |
 | `output/translations/1kings_10.json` | 29 | `2c93813b2ec3337e42166808908ebc71e3fd4e537cb48a8d166cd244411fe18a` | `ba99dbeb` |
 | `output/translations/1kings_11.json` | 43 | `6039bf50bff842baab0077d0e5ef4cddfb9ea3e5e47081093ab0e8151666e7b2` | `e0e2539e` |
