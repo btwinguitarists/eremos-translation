@@ -8,6 +8,8 @@
 | Honorifics binding (Rachasap) | ✅ clean | [honorifics_binding_2samuel_13.md](honorifics_binding_2samuel_13.md) |
 | Back-translation | ✅ clean | [back_translation_2samuel_13.md](back_translation_2samuel_13.md) |
 | Thai-summary coverage (info) | ✅ clean | [summary_coverage_2samuel_13.md](summary_coverage_2samuel_13.md) |
+| Claim consistency (hallucination, advisory) | ✅ clean | [claim_consistency_2samuel_13.md](claim_consistency_2samuel_13.md) |
+| unfoldingWord wording (license gate) | ✅ clean | [uw_wording_2samuel_13.md](uw_wording_2samuel_13.md) |
 
 ## Ship criterion
 
