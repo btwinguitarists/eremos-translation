@@ -487,7 +487,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/genesis_18.json` | 33 | `3d717f0c83bdc03bc99b457ec8adfd25d237380d7d8c59e6d94a4fad9c299cdc` | `eb4d002e` |
 | `output/translations/genesis_19.json` | 38 | `2033580653a71a95ceff003598310c4fa03e0e048fcf7b8c499fcf7eda48d321` | `24e07894` |
 | `output/translations/genesis_20.json` | 18 | `af3efab00c217fc3b67c2ec50f4a6bbec30238f1ce703ad18235213de6cc6601` | `0b6af8ba` |
-| `output/translations/genesis_21.json` | 34 | `112dae2dbe33cf5341083738dc0c291a45be6db50d2d47c10377a997101d79f8` | `7040ad9f` |
+| `output/translations/genesis_21.json` | 34 | `28a8e7312bf3a8d3b81e01f7f8547330656cb32e32b0836542fc41484efcc800` | `7040ad9f` |
 | `output/translations/genesis_22.json` | 24 | `6ff146b2223650237ffb2aade1d9c11bb59ae0b1b1d29fd927dae8a05300d01d` | `8d489882` |
 | `output/translations/genesis_23.json` | 20 | `002a9c94449e3d6ddf2ce20caa07fce314ffc9efc286c5cd24c353c916c3a2a7` | `b5437edd` |
 | `output/translations/genesis_24.json` | 67 | `7c626bb796686459df80126758633cf290a93380f96273ace2d92911ecac31c4` | `5b11107b` |
