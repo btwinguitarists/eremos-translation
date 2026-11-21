@@ -394,7 +394,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/exodus_29.json` | 46 | `f310847533a15b7ed483ccd0c473635b496744f3cd621349ae71f2fa68f762b0` | `04802d47` |
 | `output/translations/exodus_30.json` | 38 | `912dfa94ee9e828b09177906a6f768948e7a7020652d0d6ed11ebe28e167e774` | `1a4178cd` |
 | `output/translations/exodus_31.json` | 18 | `624608e283919aae5ea638180f092423fcb5da14be12e2f259e0722da7482872` | `a5346c29` |
-| `output/translations/exodus_32.json` | 35 | `073e2de0fbe8aa649fe1431e2764b246e9b2262e900d22b14933343a0834dfed` | `a8835f6e` |
+| `output/translations/exodus_32.json` | 35 | `e3aaab60f646d60553c6765ea64a87645832562b1f177b9229c122edce0691c0` | `a8835f6e` |
 | `output/translations/exodus_33.json` | 23 | `7809ad95a69858671361beff7a2fbe0b6956172aab7ce6790c4e9e3c4e3e3b43` | `a8835f6e` |
 | `output/translations/exodus_34.json` | 35 | `b4793514d7a1ce4c9d808002a099b71b7f6a6c1f6c0e5f43812cbb7b4de2c631` | `a8835f6e` |
 | `output/translations/exodus_35.json` | 35 | `d5c92fb39afa42e8957de03fd16963a5b69ca33ccc40a775d7d1c84699791ef7` | `c04d7616` |
