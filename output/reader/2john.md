@@ -44,5 +44,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/2john_01.json` | `ebb8abfa27ee1ffb053229919a4b74049601bd1f6e09ef566dbafb0610822506` |
+| `output/translations/2john_01.json` | `6b52ac922fe5f727c4487900d10d01d64dbad1620ab180b21026a203d8e2a17b` |
 
