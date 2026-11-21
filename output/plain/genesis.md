@@ -3871,7 +3871,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/genesis_26.json` | `71b48e03ef7eda18f21820a4ea9ff5bd6c9ed78dd45ca77eadd9faaf2b93d6d4` |
 | `output/translations/genesis_27.json` | `edf4b750a8b29b2c074658baa4d80fbbe28ddf2333aa26c04e0ffc2fbda4da8d` |
 | `output/translations/genesis_28.json` | `ec7216660065f3b494ce939f53c7a86a6e1ff6c3cb84db3b82d6bd43df140851` |
-| `output/translations/genesis_29.json` | `bf717da836d74dbc3dff0693932976b7dc84724be5a38cebf856c737cb2cae01` |
+| `output/translations/genesis_29.json` | `3eced5e17dcc9dc75a0c44fb187bf167c95da3f16723d16b4dd1b83eaaacf9b5` |
 | `output/translations/genesis_30.json` | `fb7f9d753dc494b1f22e600fb693c3e674ca9c490cb8a5c047b3a0656e77d2e3` |
 | `output/translations/genesis_31.json` | `a3e052a2629a510a0c212592db7a522fa0bea9c3cdb66d7e6f73182ab2e926c8` |
 | `output/translations/genesis_32.json` | `12fda08d7db9f589ec47d78ad7f0cc7ad77e263d7190706df3222ea1d617a996` |
