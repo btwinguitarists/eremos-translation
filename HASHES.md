@@ -823,7 +823,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/leviticus_27.json` | 34 | `a5c7d17803e229bcf93e6c8f975a482977454dbe10ead9d270cd648f5dfadc36` | `9402b895` |
 | `output/translations/luke_01.json` | 80 | `d551c6c469bde52df27f3d3228fdc577f005477417b3e0158258a678e8ae1a5b` | `7040ad9f` |
 | `output/translations/luke_02.json` | 52 | `fe7a7def403c3259166f146042d7d3e0f6f05be57f22dacfcd10a209f9738c2c` | `6d15bb1a` |
-| `output/translations/luke_03.json` | 38 | `9a9d5869f0fa64c19cd9edcacaf116acf2db9e2471859c861bc6c2ff1abe4ba1` | `d03c3a1a` |
+| `output/translations/luke_03.json` | 38 | `655c0cd3f1438ed075b50e1c028a1451c85576b0a188b4400f8a8f19c93d55d7` | `d03c3a1a` |
 | `output/translations/luke_04.json` | 44 | `7379810798ce3c7a1396595d45437915edd42de9ff55f0c9e506d5fd021becd1` | `cf6bd38f` |
 | `output/translations/luke_05.json` | 39 | `7b7bb6a46a859261435abf1c2b1e89c6d91ffa894334821454785a88f4550841` | `6d15bb1a` |
 | `output/translations/luke_06.json` | 49 | `06fd66633986f1bd1bd498d0b8b7b78526ecbb24311bbf492162a14b10c9f051` | `d03c3a1a` |
