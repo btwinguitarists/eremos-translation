@@ -373,7 +373,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/ephesians_01.json` | `603020b480a29c8a6187dfc57524fbcdd264326925d77ab6473e35b7563a5eca` |
 | `output/translations/ephesians_02.json` | `8fb81c9f2510df0abc8eb321f48de39939e94ef27e23894533475558f176b3cb` |
 | `output/translations/ephesians_03.json` | `a2152f982c042bef07c4cd2db010767c643e06f22130e3e13b5e3b02e0368c91` |
-| `output/translations/ephesians_04.json` | `d92a86a8a77bc664eb9daad7ad531a32cc0bf2a4a57181988793cea7fc6411d3` |
+| `output/translations/ephesians_04.json` | `db698a1c2ae577ab48c601faab146a5675a9a4b710f7371f83f5cc43ad0a282e` |
 | `output/translations/ephesians_05.json` | `d3ae2d5ebf6f6aecaef2ca0d34d829ea75ea5053f4b58b65140a33f38da2cba7` |
 | `output/translations/ephesians_06.json` | `7aaf2d92d71bec0b2796591c4fd5fd9c1c23f1e866e5fa0da169f9c05444d7b4` |
 
