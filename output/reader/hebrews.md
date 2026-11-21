@@ -798,8 +798,8 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/hebrews_04.json` | `67adde4a294d2bc1b50b1638744b9d3b441ef83edbddc62d88df51e7128488e8` |
 | `output/translations/hebrews_05.json` | `c55e7c013be532d81fdf7c88f629d12925eb2ac950dca3e6e3e0b8b1715a4ee2` |
 | `output/translations/hebrews_06.json` | `39241505e2041cc48cdd753f5bbc821fd464cfb42604dabb245eda08961705be` |
-| `output/translations/hebrews_07.json` | `85671371af380cad6360c39e7d02e35eeca2698c6064c0cdaef9da1a1ebabf2b` |
-| `output/translations/hebrews_08.json` | `7af4362eb73c87e52a4ef99569347079ec51da2a505c038cf059f62b62ee2b09` |
+| `output/translations/hebrews_07.json` | `24bc9519a9966bf228182556071a058bd095fe9b9da9a230c88b941b7f337e67` |
+| `output/translations/hebrews_08.json` | `9ada1fdafb08947b3d0e1bf42ff69b1926edb8ea67399164b6abf20392a7c6bb` |
 | `output/translations/hebrews_09.json` | `2f43760977d89db73900a50c806b1e220e08f5b05f55cee53d102fa88dea0c47` |
 | `output/translations/hebrews_10.json` | `a082ba35191f83048971852f2fdbaf043b3a2281af3e4350e88d84ad684e907c` |
 | `output/translations/hebrews_11.json` | `3a10d58a1938b2ffebd31a09850bd325249b74e89bcd93ef08a6b59b922c6f1f` |
