@@ -1949,14 +1949,14 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/1kings_01.json` | `650d24b347d50e9f26a556237481c5b52ce392c7d4e4c2d483a16c3363d994e0` |
+| `output/translations/1kings_01.json` | `85018f54d1446b519b72da703a7ff1d068b3bcc95773b449768ef0de07085785` |
 | `output/translations/1kings_02.json` | `3841525fa1e7b9f5a1a8229af9a7e632aadec6ad52c18e04e5b5ca0ec4e79d86` |
 | `output/translations/1kings_03.json` | `f048e76835ff0397efe85db8aadf508bde4cb9959acf878febddb0d8b5cb1b3f` |
 | `output/translations/1kings_04.json` | `00f59218fbdd252155e3ca3f1cb18e044037e9cf67da643cb5374652e6f005d9` |
 | `output/translations/1kings_05.json` | `85f1b119efd49dcf5dbbe538dea894d76fd3f5a490ffaf3c19a0ccea1a7963e3` |
 | `output/translations/1kings_06.json` | `16605b3ca8ab92bfb46e499cee6b728a5ffcc5a4661f1c093daa68e20f5b6ed1` |
 | `output/translations/1kings_07.json` | `7488ee2278ad002c7d4d0b1dbb7e6ae83e3f3c2b87e60661b085385c3afb21ac` |
-| `output/translations/1kings_08.json` | `00812617bb2be3e3e76b8c993692f5126a9b922330351c2f0fb05757457c6849` |
+| `output/translations/1kings_08.json` | `37a3a655aff7296bba563edfa5adf90e41a1a43ce08e06cdc0c3299c249fb580` |
 | `output/translations/1kings_09.json` | `fa3cf57800eafe5dd5645c3b478f80f60ce970faf446018477a458d593f253a0` |
 | `output/translations/1kings_10.json` | `2c93813b2ec3337e42166808908ebc71e3fd4e537cb48a8d166cd244411fe18a` |
 | `output/translations/1kings_11.json` | `6039bf50bff842baab0077d0e5ef4cddfb9ea3e5e47081093ab0e8151666e7b2` |
