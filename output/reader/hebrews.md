@@ -804,5 +804,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/hebrews_10.json` | `a082ba35191f83048971852f2fdbaf043b3a2281af3e4350e88d84ad684e907c` |
 | `output/translations/hebrews_11.json` | `3a10d58a1938b2ffebd31a09850bd325249b74e89bcd93ef08a6b59b922c6f1f` |
 | `output/translations/hebrews_12.json` | `ab3705d42e1a3a90996eae4d9a7a43feb175487ec04766f594eb18133c255a8a` |
-| `output/translations/hebrews_13.json` | `cd1f0202551281b52dc8ea05f213503bbf3b080ea423451171a65492b1ff0ee4` |
+| `output/translations/hebrews_13.json` | `9a127679a4d08216bd9665e739ae6d25f811658deeba5775761a1915a236f17e` |
 
