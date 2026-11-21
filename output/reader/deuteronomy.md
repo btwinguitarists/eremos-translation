@@ -3169,7 +3169,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/deuteronomy_19.json` | `4e9d9363d69f0fc9062f09f042a38c08c0227d319f80ffb28e71ed00a65a947e` |
 | `output/translations/deuteronomy_20.json` | `5f1954fc7804bb8529b66d4b631c2d846dfa827b2bc5ade92324da4da09dfb09` |
 | `output/translations/deuteronomy_21.json` | `b416b03e1ebf2a6e68ac988be2ddb3787850f30c29d39acba4543856a78b096c` |
-| `output/translations/deuteronomy_22.json` | `11a008962664a709b19cb34aec3ec0bfb51167d53d50c2a1c2e4d63a69877ff6` |
+| `output/translations/deuteronomy_22.json` | `702ed7729417dcac93544dea0aaf409caebae62baa010e5c0912a569ef53ad71` |
 | `output/translations/deuteronomy_23.json` | `8cb26e832a1d1d65ede2ac6a4efc1b26053372347bcd7d360fa78c1eb6ae4525` |
 | `output/translations/deuteronomy_24.json` | `87367c8dddff37b51cd2b8968870a56785cb7a813d5c68fb856219f96408733c` |
 | `output/translations/deuteronomy_25.json` | `5873bbbc64c0729602f98633793ced906036aac65631efd773d800c0b175df9e` |
