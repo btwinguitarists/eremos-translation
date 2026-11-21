@@ -2051,7 +2051,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/1samuel_01.json` | `b8c61c21830d7eb50694366a68db6b7838a90b05b70604848e70faee380ccab8` |
+| `output/translations/1samuel_01.json` | `e84a98a543777c035d1f96a5dc4aff1cf5d1558dc2a748777b514e169224d2af` |
 | `output/translations/1samuel_02.json` | `6f847a66bde362d8bfeab85c836f0da39b7747ba788fd8d5812eddaf752995b5` |
 | `output/translations/1samuel_03.json` | `e0832424bb035295ae8a026e94c80fcb8aff79efdfd73d586513a066150d0197` |
 | `output/translations/1samuel_04.json` | `3b39cedef030e6af8647ad39a5b834f194bb5904b936c2aae481f71a3c94e11d` |
@@ -2064,9 +2064,9 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/1samuel_11.json` | `a2f32cc8814b1fbe815285b2b85eabf5cea3806dad76afd1f1e4d787d884fab3` |
 | `output/translations/1samuel_12.json` | `da3c2d79058f839e395165842a92531e37bd8c93c275fff8646e6be34c1d1bac` |
 | `output/translations/1samuel_13.json` | `4ff3324e93c99b21f17ebf7055aef1c808f0ef2d7d180025f882c1b862f7b39f` |
-| `output/translations/1samuel_14.json` | `3a7944cc90e840c75ea80c8d42a166b4e65cee403d5fed7a972d2dc09a1695a8` |
-| `output/translations/1samuel_15.json` | `492bae87fa7b105267e67091e7d62646ffcbf6f52af4d28f21a6a4e3252b6329` |
-| `output/translations/1samuel_16.json` | `810d8f754f23a99a2829402e3cc6aced5f63eda0c3e45736568398e8ddd9800b` |
+| `output/translations/1samuel_14.json` | `8909b73509c77c9ea4f3af3ac6092ed34a82fe2fff0fec0462c2b4062e67ee5f` |
+| `output/translations/1samuel_15.json` | `f5cf2068389814639ab7fb6d78810f0b395c754615ccca3fb375507065cbc453` |
+| `output/translations/1samuel_16.json` | `b4ffd4156bfb4ff6de37c431b4af1bf914a0eedd406e5529916b875ac9d4e8b9` |
 | `output/translations/1samuel_17.json` | `c3768b6f84ecdd0a3419f66fb6eab9ac6ba538fce01e1b8be101f1a123733b0d` |
 | `output/translations/1samuel_18.json` | `8b902d137e72f53b0e3fd5092327548900ee73825125c3d2e8e79969f6a965d9` |
 | `output/translations/1samuel_19.json` | `828d858f335551559f5abec3bd862ac925562b824bc360fe05246551687209d9` |
