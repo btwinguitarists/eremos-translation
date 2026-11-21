@@ -4185,5 +4185,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/acts_25.json` | `eaccf5f47adcaf1ba60197c35a6157997aea85368a33c6553982cc2ad8b8b40c` |
 | `output/translations/acts_26.json` | `82dff75613fbff27d4f13a42985bb475f5eea0ec6fa118d68edf2f660dd10120` |
 | `output/translations/acts_27.json` | `5df4f719402cb290a91a3c74846ffd427e7972d4b53032f13a265ca41451b18e` |
-| `output/translations/acts_28.json` | `e68da0df05748bff99e139c28a238dadd4d4dbe351e54bc87a7a62f08013fe3a` |
+| `output/translations/acts_28.json` | `569141221bc04e6918acc771297fa4c448dae9aedcd66217aa8e36600c97cb23` |
 
