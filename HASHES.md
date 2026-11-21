@@ -1162,7 +1162,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/revelation_22.json` | 21 | `981b8e5b169aec801ab134a85969c2764784c2e16042997c400c11989b4fa262` | `b64d4872` |
 | `output/translations/romans_01.json` | 32 | `c87b2112628b417478cc0beebb101b81b21b70b76106579044da66b1f0181824` | `7b84f42f` |
 | `output/translations/romans_02.json` | 29 | `4fe0ca5a671850b2506476d945ca603daa20dd5b460442a7e513b7758c3a5b27` | `a3330b8e` |
-| `output/translations/romans_03.json` | 31 | `bd6086004ff7b68b855a8b74f5666e3550144cee2dd06e73bb420bbbba846b7c` | `a3330b8e` |
+| `output/translations/romans_03.json` | 31 | `51fff7cf0aab8e24293bc645e238461e6bf298fde65150fbe5b00598a22bdf60` | `a3330b8e` |
 | `output/translations/romans_04.json` | 25 | `693fe7f9ad14218a1cb21365defa980c21f1665152fd6cf9bfb9c4a4599e1fd8` | `a3330b8e` |
 | `output/translations/romans_05.json` | 21 | `5b6957b5f2a8d9260a25af8b6b887d24d323477fb0cac83aa25a15a921f8e728` | `a3330b8e` |
 | `output/translations/romans_06.json` | 23 | `53733aa5bad47a955adac82a8a4026db557cefa449da09a6f0a934b8738e19c6` | `cf6bd38f` |
