@@ -2884,7 +2884,7 @@ _This reader edition shows the Thai translation and the contextual summary (บ�
 
 **1** ครั้นเฟสทัสมาถึงแคว้นยูเดียได้สามวัน ท่านก็เดินทางจากเมืองซีซารียาขึ้นไปยังกรุงเยรูซาเล็ม
 
-> _บริบท: เฟสทัสเป็นผู้ว่าราชการคนใหม่ที่จักรพรรดิเนโรส่งมาแทนเฟลิกซ์ (กจ. 24:27 ราว ค.ศ. 59-60) ทันทีที่ท่านมาถึงท่าซีซารียาซึ่งเป็นเมืองหลวงของจังหวัดยูเดีย ท่านก็เดินทางขึ้นไปยังกรุงเยรูซาเล็ม สำนวน “ขึ้นไป” (ἀνέβη) เป็นภาษาตามจารีตเพราะกรุงเยรูซาเล็มอยู่บนเขา_
+> _บริบท: เฟสทัสเป็นผู้ว่าราชการคนใหม่ที่จักรพรรดิเนโรส่งมาแทนเฟลิกซ์ (กจ. 24:27 ราว ค.ศ. 59-60) เมื่อท่านมาถึงจังหวัดยูเดียได้สามวัน ท่านก็เดินทางจากท่าซีซารียาซึ่งเป็นเมืองหลวงของจังหวัดขึ้นไปยังกรุงเยรูซาเล็ม สำนวน “ขึ้นไป” (ἀνέβη) เป็นภาษาตามจารีตเพราะกรุงเยรูซาเล็มอยู่บนเขา_
 
 **2** บรรดาหัวหน้าปุโรหิตและคณะผู้นำของชาวยิวก็ไปยื่นคำฟ้องเปาโลต่อท่าน และอ้อนวอนท่าน
 
@@ -3343,8 +3343,8 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/acts_21.json` | `bb335fd71ebdab1fcf2cf18d90cfaf9dd6c14e5f1c9b1847d1f53273cd560e52` |
 | `output/translations/acts_22.json` | `4a36e7b54414e2e3aa645722ac28712679021ee82c6876de9c38957aed3f0dbb` |
 | `output/translations/acts_23.json` | `344749dcb964d9d149ada3d0b91c0fbd4fd5370d80d9babadc179130a0ca17ef` |
-| `output/translations/acts_24.json` | `66e3c6f85e49db8175bc0011d4742abedbe89f9baad340921edb37ba26fc22a2` |
-| `output/translations/acts_25.json` | `eaccf5f47adcaf1ba60197c35a6157997aea85368a33c6553982cc2ad8b8b40c` |
+| `output/translations/acts_24.json` | `cb11c873f3392d0614ef9b8bd0135689b94419eb92f0d3aa26325a21a34e8f0b` |
+| `output/translations/acts_25.json` | `252ab77d74dc1b284640bc616687a37624e1b42e992b360b012a993d6d651f3b` |
 | `output/translations/acts_26.json` | `82dff75613fbff27d4f13a42985bb475f5eea0ec6fa118d68edf2f660dd10120` |
 | `output/translations/acts_27.json` | `5df4f719402cb290a91a3c74846ffd427e7972d4b53032f13a265ca41451b18e` |
 | `output/translations/acts_28.json` | `569141221bc04e6918acc771297fa4c448dae9aedcd66217aa8e36600c97cb23` |
