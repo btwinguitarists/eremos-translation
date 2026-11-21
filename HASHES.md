@@ -1138,7 +1138,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/psalms_97.json` | 12 | `af3c5e478345a5b44229f2cca503658ee878db449bf1d017164bf72839f98233` | `e85ada53` |
 | `output/translations/psalms_98.json` | 9 | `515b7e00f7ddc8e2aa10486643c060740160f191a753155f78ca5c9ac2175d08` | `e5eaeae6` |
 | `output/translations/psalms_99.json` | 9 | `5617000221fa877be526d5dd7ae464a0bace451ee7009c37a2f749c35bf90faf` | `a29fb8a6` |
-| `output/translations/revelation_01.json` | 20 | `127a68402ed9a21dc87af1c5e7f08e242ac1524e22a3ade7be05717dfba28407` | `b71f5a2b` |
+| `output/translations/revelation_01.json` | 20 | `d858753a9841dc28b6cb626fbf6ca99a3b9faf607d78b9ecb578480fffde844b` | `b71f5a2b` |
 | `output/translations/revelation_02.json` | 29 | `34c04ab7f8f52da24ef41ecddb52da127a965e13527f8ba1dd5253ecbce66f81` | `b64d4872` |
 | `output/translations/revelation_03.json` | 22 | `de1168bc82ddca79007fe137336e96916b34e4df50e98db433f047abca2b926a` | `d03c3a1a` |
 | `output/translations/revelation_04.json` | 11 | `78d0b639a8d1a6097e2811b34b82cb796e28a508c525e0f9ce45bbd5a730eeda` | `b64d4872` |

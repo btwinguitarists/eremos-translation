@@ -938,7 +938,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/revelation_01.json` | `127a68402ed9a21dc87af1c5e7f08e242ac1524e22a3ade7be05717dfba28407` |
+| `output/translations/revelation_01.json` | `d858753a9841dc28b6cb626fbf6ca99a3b9faf607d78b9ecb578480fffde844b` |
 | `output/translations/revelation_02.json` | `34c04ab7f8f52da24ef41ecddb52da127a965e13527f8ba1dd5253ecbce66f81` |
 | `output/translations/revelation_03.json` | `de1168bc82ddca79007fe137336e96916b34e4df50e98db433f047abca2b926a` |
 | `output/translations/revelation_04.json` | `78d0b639a8d1a6097e2811b34b82cb796e28a508c525e0f9ce45bbd5a730eeda` |
