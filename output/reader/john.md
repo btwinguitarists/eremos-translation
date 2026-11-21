@@ -1256,7 +1256,7 @@ _This reader edition shows the Thai translation and the contextual summary (บ�
 
 **11** เขาตอบว่า “ชายผู้ที่ถูกเรียกว่าเยซูได้ทำโคลน ป้ายที่ดวงตาของข้าพเจ้า และบอกข้าพเจ้าว่า ‘จงไปที่สิโลอัมและล้างเสีย’ ข้าพเจ้าจึงไปล้าง แล้วก็มองเห็นได้”
 
-> _บริบท: ในขั้นแรกชายคนนี้รู้จักพระเยซูเพียงในฐานะ “ชายผู้ที่ถูกเรียกว่าเยซู” — เขายังไม่รู้แม้ว่าผู้รักษาคือใคร นี่เป็นการเริ่มต้นการเดินทางแห่งความเข้าใจของเขาในบทนี้: จากชาย (ข้อ 11) → ผู้เผยพระวจนะ (ข้อ 17) → จากพระเจ้า (ข้อ 33) → องค์พระผู้เป็นเจ้าและที่นมัสการ (ข้อ 38)_
+> _บริบท: ในขั้นแรกชายคนนี้รู้จักพระเยซูเพียงในฐานะ “ชายผู้ที่ถูกเรียกว่าเยซู” นี่เป็นการเริ่มต้นการเดินทางแห่งความเข้าใจของเขาในบทนี้: จากชาย (ข้อ 11) → ผู้เผยพระวจนะ (ข้อ 17) → จากพระเจ้า (ข้อ 33) → องค์พระผู้เป็นเจ้าและที่นมัสการ (ข้อ 38)_
 
 **12** พวกเขาถามเขาว่า “ผู้นั้นอยู่ที่ไหน?” เขาตอบว่า “ข้าพเจ้าไม่ทราบ”
 
@@ -2580,7 +2580,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/john_06.json` | `516b65c47c82673dc538e9b06165ef4762e34a0d302c443edb33a56b110c3488` |
 | `output/translations/john_07.json` | `1e84a021edabe8ff6552f8a6cc13e7f469d003b2ef669e8fc4d71ee8c9a609ec` |
 | `output/translations/john_08.json` | `309b2d519e6db984cd8914fb2cc10a2698bf1362758b67c0ac94632c14b564e2` |
-| `output/translations/john_09.json` | `330a1294b6358b2842f71f240289d37f5ac4c6af86788836fe0b385f49dacffa` |
+| `output/translations/john_09.json` | `3c7ad1714ae81b74816aa2fb5d8a5deffa724786cfe6b3ddcd56d257e70b7c58` |
 | `output/translations/john_10.json` | `f878cde0f49d35383f1439f85f91c65f53a3684e9c8f06fd76eb5235a8f066e6` |
 | `output/translations/john_11.json` | `4497e6ea992c06571d3576a11e7c22698d332883ab957fe23d782592b6a03c70` |
 | `output/translations/john_12.json` | `d40995763190cca8abe073df7bd3b6b12b6ba1138a828f01c30057bf369662f3` |
