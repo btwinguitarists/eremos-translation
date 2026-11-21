@@ -4674,11 +4674,11 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/isaiah_40.json` | `b224360567f02226cd718ac70a509c14154ea52667ff20f63067549fecd684e1` |
 | `output/translations/isaiah_41.json` | `108183d59d12f976429ec9c68fd6de88b469f770239790b0191e6568b8d0e047` |
 | `output/translations/isaiah_42.json` | `1f1bff282be25f07f61d6c5ccf44cac31d59d7c391ee9245582a18e1db59e631` |
-| `output/translations/isaiah_43.json` | `099d2bc4542d1777ee96dc8aef53214512a7db926d9c2f416adae3deabd94560` |
+| `output/translations/isaiah_43.json` | `2f4bf59d43ba5cbfea671b185c8a4db073b7c60ee377e02f3b6e98e98aac1b13` |
 | `output/translations/isaiah_44.json` | `27a1db23de2c4e57c8d08d13c38bc0355afdf61065e3b752c6c585048e61f9e9` |
 | `output/translations/isaiah_45.json` | `27525b57804889a0ad175c2f253ac9117b65c9503caa92421ecf36afc4d2e11d` |
 | `output/translations/isaiah_46.json` | `6262a30cc2a3bce50d61bc3fa7ddfc93dee7c6789a72a2e6f33ce4156254c3b9` |
-| `output/translations/isaiah_47.json` | `85ac0e6924c8681b9763db6da045453ba9f374643c018ac15440bc3d4b3a6e7c` |
+| `output/translations/isaiah_47.json` | `5c445065438f67653f4f0ce9a3d14509c0c1a78467516f4e75e7d7067d25ea4d` |
 | `output/translations/isaiah_48.json` | `1812e6a78a3572de523632083a3602352a8e113df2c0bc72190f3e42025e0c9f` |
 | `output/translations/isaiah_49.json` | `102903b4640504752831a43ce3a43c67b314148f5c7135ae81741b4e0817c811` |
 | `output/translations/isaiah_50.json` | `4fb20a55139ef858190899ac69bec6cafbb21530a7e597775f0ee68b1edc0cf2` |

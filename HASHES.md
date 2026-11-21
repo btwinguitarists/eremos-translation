@@ -591,11 +591,11 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/isaiah_40.json` | 31 | `b224360567f02226cd718ac70a509c14154ea52667ff20f63067549fecd684e1` | `0344d3c6` |
 | `output/translations/isaiah_41.json` | 29 | `108183d59d12f976429ec9c68fd6de88b469f770239790b0191e6568b8d0e047` | `a50aec60` |
 | `output/translations/isaiah_42.json` | 25 | `1f1bff282be25f07f61d6c5ccf44cac31d59d7c391ee9245582a18e1db59e631` | `cf5258e8` |
-| `output/translations/isaiah_43.json` | 28 | `099d2bc4542d1777ee96dc8aef53214512a7db926d9c2f416adae3deabd94560` | `2224c053` |
+| `output/translations/isaiah_43.json` | 28 | `2f4bf59d43ba5cbfea671b185c8a4db073b7c60ee377e02f3b6e98e98aac1b13` | `2224c053` |
 | `output/translations/isaiah_44.json` | 28 | `27a1db23de2c4e57c8d08d13c38bc0355afdf61065e3b752c6c585048e61f9e9` | `fe315b09` |
 | `output/translations/isaiah_45.json` | 25 | `27525b57804889a0ad175c2f253ac9117b65c9503caa92421ecf36afc4d2e11d` | `8362f62f` |
 | `output/translations/isaiah_46.json` | 13 | `6262a30cc2a3bce50d61bc3fa7ddfc93dee7c6789a72a2e6f33ce4156254c3b9` | `357fedc3` |
-| `output/translations/isaiah_47.json` | 15 | `85ac0e6924c8681b9763db6da045453ba9f374643c018ac15440bc3d4b3a6e7c` | `f1d7adc7` |
+| `output/translations/isaiah_47.json` | 15 | `5c445065438f67653f4f0ce9a3d14509c0c1a78467516f4e75e7d7067d25ea4d` | `f1d7adc7` |
 | `output/translations/isaiah_48.json` | 22 | `1812e6a78a3572de523632083a3602352a8e113df2c0bc72190f3e42025e0c9f` | `0ee03ef8` |
 | `output/translations/isaiah_49.json` | 26 | `102903b4640504752831a43ce3a43c67b314148f5c7135ae81741b4e0817c811` | `e5cf014c` |
 | `output/translations/isaiah_50.json` | 11 | `4fb20a55139ef858190899ac69bec6cafbb21530a7e597775f0ee68b1edc0cf2` | `b64596b5` |
