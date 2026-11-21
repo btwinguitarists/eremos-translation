@@ -532,7 +532,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/hebrews_08.json` | 13 | `7af4362eb73c87e52a4ef99569347079ec51da2a505c038cf059f62b62ee2b09` | `6742d7c2` |
 | `output/translations/hebrews_09.json` | 28 | `2f43760977d89db73900a50c806b1e220e08f5b05f55cee53d102fa88dea0c47` | `1d237b06` |
 | `output/translations/hebrews_10.json` | 39 | `a082ba35191f83048971852f2fdbaf043b3a2281af3e4350e88d84ad684e907c` | `c5d0322a` |
-| `output/translations/hebrews_11.json` | 40 | `a0b41086337aa89deea22c3c11ca3a17204244337622cf90e1461e637b854d42` | `d7851be1` |
+| `output/translations/hebrews_11.json` | 40 | `3a10d58a1938b2ffebd31a09850bd325249b74e89bcd93ef08a6b59b922c6f1f` | `d7851be1` |
 | `output/translations/hebrews_12.json` | 29 | `ab3705d42e1a3a90996eae4d9a7a43feb175487ec04766f594eb18133c255a8a` | `e06d560d` |
 | `output/translations/hebrews_13.json` | 25 | `cd1f0202551281b52dc8ea05f213503bbf3b080ea423451171a65492b1ff0ee4` | `9ec9a94c` |
 | `output/translations/hosea_01.json` | 9 | `b3c17f271aeae0d2ad951b76405d291c4422d8c65f962d49183847b2f261e1bc` | `70677ef5` |
