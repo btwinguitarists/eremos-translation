@@ -352,7 +352,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/ephesians_03.json` | 21 | `a2152f982c042bef07c4cd2db010767c643e06f22130e3e13b5e3b02e0368c91` | `f6448547` |
 | `output/translations/ephesians_04.json` | 32 | `d92a86a8a77bc664eb9daad7ad531a32cc0bf2a4a57181988793cea7fc6411d3` | `976a826d` |
 | `output/translations/ephesians_05.json` | 33 | `d3ae2d5ebf6f6aecaef2ca0d34d829ea75ea5053f4b58b65140a33f38da2cba7` | `d03c3a1a` |
-| `output/translations/ephesians_06.json` | 24 | `44808c304430c79a62af207a9332620ec1c006775237edd8976b4205746f76b4` | `b64d4872` |
+| `output/translations/ephesians_06.json` | 24 | `7aaf2d92d71bec0b2796591c4fd5fd9c1c23f1e866e5fa0da169f9c05444d7b4` | `b64d4872` |
 | `output/translations/esther_01.json` | 22 | `c50a5bdfcadc96d333e057bb3447ff415b0c5ad4c34f9057a1c66444674d0e69` | `7040ad9f` |
 | `output/translations/esther_02.json` | 23 | `1fbd202c789a129dc5814df4bea9416701d344bb8a280483889fef4b41d872c4` | `7040ad9f` |
 | `output/translations/esther_03.json` | 15 | `5adc8a4604d088d33ee912ba164ee5d7878be5166ddc8b37b28a330f5e7de52c` | `7040ad9f` |
