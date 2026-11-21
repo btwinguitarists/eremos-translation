@@ -5418,7 +5418,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/exodus_16.json` | `82d8f721d1b3ea660d216958af4ace9ff66ba0bbbc93276fa077b26c8e5d61a0` |
 | `output/translations/exodus_17.json` | `a7087c819a9eedd31425d5b809e5e535ea6b2ecce8abed12be2e0cf5f8efae72` |
 | `output/translations/exodus_18.json` | `1bcfea67d75263b0137506d2ad7c6d60490a8d9ed62670cc06403994524f0981` |
-| `output/translations/exodus_19.json` | `dcae28da4f7ec18869451def433476a007bc2e2935085a12c0eec36f80d6496c` |
+| `output/translations/exodus_19.json` | `dd2d48c245434a99bd93223b44a555159d7ffecd1d2ec9a067d1b4cbdc7c85a9` |
 | `output/translations/exodus_20.json` | `6b36e1891ed8657074e3a11a83c6830fc4413194386605fe82e1e5445f5334d3` |
 | `output/translations/exodus_21.json` | `21c7da7dad9c346be1b3840b4b4b7805c3ff218014072327cee7e5b7d376e691` |
 | `output/translations/exodus_22.json` | `e4446eb37f1b187a12ef0d33d6ffc96645552b92d898cc8ae64704ea7b96a67e` |
