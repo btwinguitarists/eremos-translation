@@ -6948,7 +6948,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/genesis_15.json` | `1351ce2f9df24d98841286596d87960179db58ab2242ed59b883c734ef3ef500` |
 | `output/translations/genesis_16.json` | `04a4d930cf0c13c35f41ee9ccabddf30911983a21ff6f5635383342a8ae05ff1` |
 | `output/translations/genesis_17.json` | `60398763d548e6c058a012dca7ec43eb72e948a356ad62f8dce4195d153619ac` |
-| `output/translations/genesis_18.json` | `a5cf614a3ecd01d06410aa7c0ea3ec058c0adf2fa15159c447e1e2ac81a64c9f` |
+| `output/translations/genesis_18.json` | `3d717f0c83bdc03bc99b457ec8adfd25d237380d7d8c59e6d94a4fad9c299cdc` |
 | `output/translations/genesis_19.json` | `2033580653a71a95ceff003598310c4fa03e0e048fcf7b8c499fcf7eda48d321` |
 | `output/translations/genesis_20.json` | `e2e40955262ff08888f9d3c1facbac760a3856f636d32c00d6c783d29584bd21` |
 | `output/translations/genesis_21.json` | `112dae2dbe33cf5341083738dc0c291a45be6db50d2d47c10377a997101d79f8` |
