@@ -463,7 +463,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/ezra_10.json` | 44 | `761390179d2bdebb39a5825fae24eec287cf4382923cc0ec58f5223de381075b` | `afa31bab` |
 | `output/translations/galatians_01.json` | 24 | `3977e4a2929179a873f5a047653f4c22de0780a5bd07ff3a645b2b7d30f4e42a` | `d03c3a1a` |
 | `output/translations/galatians_02.json` | 21 | `d32896858c670ae50691a19e2aa355c8100e64d71abd54a1232b1d904f5bc763` | `d03c3a1a` |
-| `output/translations/galatians_03.json` | 29 | `f801401758fdf4a581484ea509024725a3a4242acb42624cac27a998b6894fa4` | `fcff53c6` |
+| `output/translations/galatians_03.json` | 29 | `b0807ea19f0a3f32fab5ba5aab6e247d33f1c94b2e1bd8adf6126661a55ce1de` | `fcff53c6` |
 | `output/translations/galatians_04.json` | 31 | `b2349446df324ed50a1dda6fb5929e2695ede84a4f0925d9abff759a2c38014e` | `4ec829e4` |
 | `output/translations/galatians_05.json` | 26 | `c9325a18961713f87c13284d3fba28063cb812622b3670353b7d4b5f44954121` | `3881232b` |
 | `output/translations/galatians_06.json` | 18 | `b46002ec4b884050c5284cf21718c3048f8d101972351a9176766af3240241d2` | `4ec829e4` |
