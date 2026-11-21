@@ -468,8 +468,8 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/galatians_05.json` | 26 | `8c554130d8819be2bff95cf6657734f4da7ec53e27845623688ad63407121424` | `3881232b` |
 | `output/translations/galatians_06.json` | 18 | `c536242ca4c882dcab8ccb39b413ac1da9fbd7aebfae3fcbc0be71f7d8bc08bf` | `4ec829e4` |
 | `output/translations/genesis_01.json` | 31 | `e65340893c9db735636d4ece74bc04baa7640511d4efa2f7ccc22639159d6fe3` | `22fa6385` |
-| `output/translations/genesis_02.json` | 25 | `5132c4a475fbc176b356190629f219ce220f3ec34fba609e0a3ea431ed3ba03d` | `d03c3a1a` |
-| `output/translations/genesis_03.json` | 24 | `3e6616a493f5a971b957bc3e1baf06dad4e3b38d9696b9c5108dcc71a3d2a120` | `d03c3a1a` |
+| `output/translations/genesis_02.json` | 25 | `4ce37eb0a7a848c95d78faed0c60f6e897b8d386aabf86e56603aa377c839cfa` | `d03c3a1a` |
+| `output/translations/genesis_03.json` | 24 | `2555bcd1c8e39049c7823cceb02a4813f1a9f0d2910ad4ec2ff00a9d0959f299` | `d03c3a1a` |
 | `output/translations/genesis_04.json` | 26 | `5d3cc735bd6eb466e408c345cc9b84869da70f4f2ab84dddfe7fc57fb88edb46` | `7040ad9f` |
 | `output/translations/genesis_05.json` | 32 | `d58aabfb40eab68dec155eaab48a54f561ccd17baea411f65b117fd955468794` | `7040ad9f` |
 | `output/translations/genesis_06.json` | 22 | `43a0b2202d295e27746619824cdc0d81ee8d9679538e7d36040a5f298b8ae86f` | `7040ad9f` |
@@ -488,7 +488,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/genesis_19.json` | 38 | `2033580653a71a95ceff003598310c4fa03e0e048fcf7b8c499fcf7eda48d321` | `24e07894` |
 | `output/translations/genesis_20.json` | 18 | `e2e40955262ff08888f9d3c1facbac760a3856f636d32c00d6c783d29584bd21` | `0b6af8ba` |
 | `output/translations/genesis_21.json` | 34 | `112dae2dbe33cf5341083738dc0c291a45be6db50d2d47c10377a997101d79f8` | `7040ad9f` |
-| `output/translations/genesis_22.json` | 24 | `615628aba3ae7b7d2f9cac04a2a1708749be841c08b9dd2fd4be7ba1000032e9` | `8d489882` |
+| `output/translations/genesis_22.json` | 24 | `6ff146b2223650237ffb2aade1d9c11bb59ae0b1b1d29fd927dae8a05300d01d` | `8d489882` |
 | `output/translations/genesis_23.json` | 20 | `002a9c94449e3d6ddf2ce20caa07fce314ffc9efc286c5cd24c353c916c3a2a7` | `b5437edd` |
 | `output/translations/genesis_24.json` | 67 | `7c626bb796686459df80126758633cf290a93380f96273ace2d92911ecac31c4` | `5b11107b` |
 | `output/translations/genesis_25.json` | 34 | `6e8f4f9cecebeb76e1694445e363a2aecd47b66cdb0a67c1db04b6b2d5f8fde3` | `2b412e80` |
@@ -502,13 +502,13 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/genesis_33.json` | 20 | `00abf556eb7457ab41d5f8a6c484c38184a0dc48d73764ed661caeba88a93049` | `7040ad9f` |
 | `output/translations/genesis_34.json` | 31 | `26d2a46f5cff14b2de2370a2d99ba84300cef71dab02778c2cc0907c44e9273b` | `f6ace63b` |
 | `output/translations/genesis_35.json` | 29 | `a9c352466e5f29c6dd2606996bd256f6ec9f2651eefdd495e8d92d04abd4cc3b` | `7040ad9f` |
-| `output/translations/genesis_36.json` | 43 | `d925dfb5872c4e5a2b25cfa8950a23420de5da7e728988384b845e951d96d74d` | `7040ad9f` |
+| `output/translations/genesis_36.json` | 43 | `54e3eb33957732b19162fe9e964389aa1dd247465606e14fdaff436c12e434bf` | `7040ad9f` |
 | `output/translations/genesis_37.json` | 36 | `930b3870616bebce188b5a32105e481d0fd6ff22335aec8b2508899a14a45051` | `7040ad9f` |
 | `output/translations/genesis_38.json` | 30 | `bb8b45ea327dbcd5505eed0ae0690adaf4bbef340d431cc798986439603b1776` | `7040ad9f` |
 | `output/translations/genesis_39.json` | 23 | `8ded5a9643bd6d4ababc651ad8df245dfc215a04072db9f8d790d854caf8a14b` | `7040ad9f` |
 | `output/translations/genesis_40.json` | 23 | `98e3384fd637f6d1c8c8329d04cdb76b6fd40b59860e1a51a7b2550bdc6a81ff` | `7040ad9f` |
 | `output/translations/genesis_41.json` | 57 | `7487a03b9d9f8ccdf55a931ff22eb9ce2b7d87d7df159d53dd9f3f4bc2871da1` | `7040ad9f` |
-| `output/translations/genesis_42.json` | 38 | `f5901c6a8d5569fb1ed8df5c0edde1bea331629c2838f540129ac66ec18fb31e` | `f6ace63b` |
+| `output/translations/genesis_42.json` | 38 | `9f18a64f70762fcd1727c38933623b89fd6bc842afacbcfdbff15d6ec4d0f7d4` | `f6ace63b` |
 | `output/translations/genesis_43.json` | 34 | `f2172a2ec9be46a68e25bfd48e6aec8801e2ed094e6931debdb9109bcb23df56` | `f6ace63b` |
 | `output/translations/genesis_44.json` | 34 | `27ee3d5ffd23a8978fa917e662de9bdd8d0207d75469cfc7e7ed8f846ae10dc7` | `f6ace63b` |
 | `output/translations/genesis_45.json` | 28 | `8b2d1962c97e63c98ad6d4f9dcb4bb606e0a958846136d0bd9908fbe2056be6f` | `f6ace63b` |
