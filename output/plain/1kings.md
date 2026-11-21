@@ -1949,7 +1949,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/1kings_01.json` | `85018f54d1446b519b72da703a7ff1d068b3bcc95773b449768ef0de07085785` |
+| `output/translations/1kings_01.json` | `6f7dd08c009b3adb38cd841e1c5a8675c4535d5c260f5b6609f85cf87aab8927` |
 | `output/translations/1kings_02.json` | `3841525fa1e7b9f5a1a8229af9a7e632aadec6ad52c18e04e5b5ca0ec4e79d86` |
 | `output/translations/1kings_03.json` | `f048e76835ff0397efe85db8aadf508bde4cb9959acf878febddb0d8b5cb1b3f` |
 | `output/translations/1kings_04.json` | `00f59218fbdd252155e3ca3f1cb18e044037e9cf67da643cb5374652e6f005d9` |

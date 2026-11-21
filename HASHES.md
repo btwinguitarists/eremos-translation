@@ -69,7 +69,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/1john_03.json` | 24 | `e56c894253e2e905a084dcd2c682c048365a62a76f7994f5c82eac84d77235eb` | `53678fba` |
 | `output/translations/1john_04.json` | 21 | `59b1521f0ee777cb6285dc4f8a5090809b8e8db213f260c17e0220bb622ad5d7` | `7df238de` |
 | `output/translations/1john_05.json` | 21 | `8dff9ffd6682e8d8330777285d7449c47d3553b02c8a45b76fd08ad4a7b4f1c4` | `7040ad9f` |
-| `output/translations/1kings_01.json` | 53 | `85018f54d1446b519b72da703a7ff1d068b3bcc95773b449768ef0de07085785` | `32c4b197` |
+| `output/translations/1kings_01.json` | 53 | `6f7dd08c009b3adb38cd841e1c5a8675c4535d5c260f5b6609f85cf87aab8927` | `32c4b197` |
 | `output/translations/1kings_02.json` | 46 | `3841525fa1e7b9f5a1a8229af9a7e632aadec6ad52c18e04e5b5ca0ec4e79d86` | `655d0f4e` |
 | `output/translations/1kings_03.json` | 28 | `f048e76835ff0397efe85db8aadf508bde4cb9959acf878febddb0d8b5cb1b3f` | `020e0ba4` |
 | `output/translations/1kings_04.json` | 20 | `00f59218fbdd252155e3ca3f1cb18e044037e9cf67da643cb5374652e6f005d9` | `3e1fb359` |
