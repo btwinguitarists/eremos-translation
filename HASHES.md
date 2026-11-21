@@ -523,7 +523,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/haggai_01.json` | 15 | `1f309e8c801b7ccd90b401a81b38c7d0a34c4c8088df933f53ab3468ca315ab9` | `e983ef0d` |
 | `output/translations/haggai_02.json` | 23 | `dd16143c9ee4cfefc09fdaf0b8eedf9561f16c2eb3a14667f138da71af923324` | `f86f4ef1` |
 | `output/translations/hebrews_01.json` | 14 | `73495c08d16188eb6ebc1b0d4d0dd47d77821bd93dfbbe0b8771c8950114d41d` | `b64d4872` |
-| `output/translations/hebrews_02.json` | 18 | `19861717616df0e6dd2d83a68b0ec5f62cbd07e944563e0808259a192409df48` | `b64d4872` |
+| `output/translations/hebrews_02.json` | 18 | `a8662a9f998415e5276f5d93e5d61ca8af0db4c58200f13fc9df6d2401d7f932` | `b64d4872` |
 | `output/translations/hebrews_03.json` | 19 | `2304367411023a3ebe7fb048eecc1189be931fdc7159c67d6648c9837d789664` | `a9bee188` |
 | `output/translations/hebrews_04.json` | 16 | `67adde4a294d2bc1b50b1638744b9d3b441ef83edbddc62d88df51e7128488e8` | `b64d4872` |
 | `output/translations/hebrews_05.json` | 14 | `6f9073271a914ded6fc5767a4f091a8ee9b8af407c3b00191fbefc899dd81c83` | `f4d002b7` |
