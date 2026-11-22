@@ -1743,7 +1743,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/revelation_03.json` | `de1168bc82ddca79007fe137336e96916b34e4df50e98db433f047abca2b926a` |
 | `output/translations/revelation_04.json` | `78d0b639a8d1a6097e2811b34b82cb796e28a508c525e0f9ce45bbd5a730eeda` |
 | `output/translations/revelation_05.json` | `5537e5eda3c6d90de46c740c9cbf798931524d6d8e69042c5128f8cfecd3f0c7` |
-| `output/translations/revelation_06.json` | `ecc7021c3e2cc980cc4db2d20d2f34f829e080d0257ed0dc0915fb57c2455691` |
+| `output/translations/revelation_06.json` | `69b2ebc80f976a12e9c9140214211af8ff71834c9dfbcdd4a6567a04d4fa0b68` |
 | `output/translations/revelation_07.json` | `ca7074b2ee41a39ad95b5f0636136bc4fd69bc81da45e6385f01e4f2f6d964f8` |
 | `output/translations/revelation_08.json` | `c4268e45a1545725d7919495c46dc2764be36fc5cbd07755d0ed493fe273ff5c` |
 | `output/translations/revelation_09.json` | `84335b77a41590ccb0d4403dfcaf62661deef6aacb0949e58295d7ce15adc5bd` |
