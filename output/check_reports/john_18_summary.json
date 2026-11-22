@@ -66,10 +66,17 @@
       "status": "clean"
     },
     {
-      "name": "External AI review (Gemini)",
+      "name": "unfoldingWord wording (license gate)",
       "exit_code": 0,
-      "report": "(error)",
-      "notes": "Gemini call failed (exit=1):           { |             \"quotaMetric\": \"generativelanguage.googleapis.com/generate_content_free_tier_requests\", |             \"quotaId",
+      "report": "uw_wording_john_18.md",
+      "notes": "",
+      "status": "clean"
+    },
+    {
+      "name": "NT honorifics (royal register)",
+      "exit_code": 0,
+      "report": "nt_honorifics_john_18.md",
+      "notes": "",
       "status": "clean"
     }
   ]
