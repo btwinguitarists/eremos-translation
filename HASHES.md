@@ -990,7 +990,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/proverbs_31.json` | 31 | `51d110a49646101d84a824366a364762d220dee1ad82227a861962f9eeea7c35` | `0b61eff1` |
 | `output/translations/psalms_01.json` | 6 | `76d6ab0eeff688575cc98b661dcac76efc6e3a5dbc80127bb505b645e4e334af` | `f70296cb` |
 | `output/translations/psalms_02.json` | 12 | `40006201366d90465cc304492a27d1e1bd8ab2c7b15a70ea9d23accd7912b6a9` | `42893b2f` |
-| `output/translations/psalms_03.json` | 9 | `79436fe101538c7ffc956e980569771fb80218f329adac5457b2e4b8f6ecf6a5` | `6f0840ce` |
+| `output/translations/psalms_03.json` | 9 | `6f7c1822182b2dd0f6a1acc0e2c3f56ecceb891a91c8aae448da1c06d02f5f8f` | `6f0840ce` |
 | `output/translations/psalms_04.json` | 9 | `b26aeb98a9dc732ec791c758c95bc8fc71395b9745af1fd67978d16c3b963e5f` | `61940f88` |
 | `output/translations/psalms_05.json` | 13 | `13d65a4c4f7570d9c90e54d1d31114449eaa4761ae22019cd25fa34639ac7208` | `d1a38553` |
 | `output/translations/psalms_06.json` | 11 | `2501c5710ac83bddf86d3189b2f23f31fb1d310a642b597dc21049513aaab73c` | `69e1070d` |
