@@ -912,7 +912,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/nehemiah_08.json` | 18 | `308793f56384f8f9158d1b768b687032788d921d5925023ee161609e389e2edf` | `3780244f` |
 | `output/translations/nehemiah_09.json` | 37 | `fd3baaf39c1514775bf5256184dbab9c9f545dfa62f403a54d4c59798c7342a7` | `b0f5bca6` |
 | `output/translations/nehemiah_10.json` | 40 | `b9abde70b9d85f1380b4327e41932c2e630d6651ce139535584b16d8bf8637b4` | `151c72ad` |
-| `output/translations/nehemiah_11.json` | 36 | `4f7e6e3b586978557bc77bf5de663c1bfffd40818c8e46a0fb69e9420f97577f` | `25701947` |
+| `output/translations/nehemiah_11.json` | 36 | `9d9cab5a9dd5b65c82a2c9dc49ee77fd856004cd49bbd2f45905a72430709885` | `25701947` |
 | `output/translations/nehemiah_12.json` | 47 | `f6987473e1b1a69597383832f18a80ece6d74db92aab97ed7338126a974050a0` | `3ed61f48` |
 | `output/translations/nehemiah_13.json` | 31 | `548e6f00adb1bc048634dab62c8017892291090bd05602dbc4fdf090f2149e68` | `29ee8efc` |
 | `output/translations/numbers_01.json` | 54 | `2ccd9ead0eb48ce1c682853f2778520fbde91632b7e931be6e6f9db366fdb7c5` | `c37f233b` |
