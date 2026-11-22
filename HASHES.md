@@ -953,7 +953,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/numbers_36.json` | 13 | `6e9e247941dbbfb9be93abd31182011a6d77fcf6ffa6ce264f9fbf14bb7c6051` | `9a54c5d0` |
 | `output/translations/obadiah_01.json` | 21 | `824b0bb72b1c0f7f5290789bc401b3e5e9a8427f310e6d71da916aba9e98a291` | `b5c1ec65` |
 | `output/translations/philemon_01.json` | 25 | `1a010fbdcae4ae43894f3cfd9d6e21376bfbc263f04dc3fa8844c856436681d4` | `7040ad9f` |
-| `output/translations/philippians_01.json` | 30 | `84de2a78e3aba6b29f065026acbb0931dec0ccea802466e449475014743e14ef` | `fc0b282e` |
+| `output/translations/philippians_01.json` | 30 | `9bfe5ca289c38128144ad2986601d8a299d8e9b77b8036e3209fea191e72965f` | `fc0b282e` |
 | `output/translations/philippians_02.json` | 30 | `3d5776d16ec2bc8c3de8818550b54bcf90488ed8248d32de281de8ff265d81d8` | `d03c3a1a` |
 | `output/translations/philippians_03.json` | 21 | `a47474793ff98522931d49ce950a2765b3c39b0a7eddd10c3c7d70a117394625` | `4b0b01bf` |
 | `output/translations/philippians_04.json` | 23 | `dfc8adf3ad1be869a30fbc774ec94304a973b7e08805fc1c39745ab8054d9cf1` | `3442c594` |
