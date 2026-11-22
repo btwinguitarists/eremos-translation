@@ -928,7 +928,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/numbers_11.json` | 35 | `59ad65047c08f9f30dddf4b73f592a65e36eb30698923262610239023051cfcf` | `eb97142b` |
 | `output/translations/numbers_12.json` | 16 | `48407b9b096ca7161bce2e38b814ee208b1f2981d093899e73c6637d9a595e39` | `cc96e5af` |
 | `output/translations/numbers_13.json` | 33 | `cdc48e0face91a4aed02927c33bc3a49fe7302efe161a9102b26919b03cfa116` | `de798003` |
-| `output/translations/numbers_14.json` | 45 | `194e91ab2d2ed3ff29879d69e69c52f3dab1ffea4476810b830a6620113fdcdc` | `2b1853d4` |
+| `output/translations/numbers_14.json` | 45 | `fc3b3383f2cac0414bcb7793927ea3c4bf733b6c335246de05fea4c6be68b7b2` | `2b1853d4` |
 | `output/translations/numbers_15.json` | 41 | `71c057cdeb81d6aecc17477a804ec302a37884ae7e56dd8729c642a137ffdaca` | `7e8a9e0c` |
 | `output/translations/numbers_16.json` | 35 | `7dfde3ba3424d2c202118219b303b53d3cf6f8c0a17c832725b3be8783f13353` | `b872cdaf` |
 | `output/translations/numbers_17.json` | 28 | `9fad127a07652f6f86d399bdf29bd88458491341b53b6ca129008eb422179607` | `48e676d5` |

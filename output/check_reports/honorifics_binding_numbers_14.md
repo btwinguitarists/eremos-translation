@@ -3,7 +3,7 @@
 Policy: `docs/translator_decisions/ot_register_policy_2026-05.md`
 
 - Hard fails: **0**
-- Warnings: 8
+- Warnings: 9
 
 ## ⚠ Warnings
 
@@ -12,6 +12,7 @@ Policy: `docs/translator_decisions/ot_register_policy_2026-05.md`
 - **NUM 14:15** (TRONG_NO_VISIBLE_DIVINE_SUBJECT): `ทรงประหารประช` — `…ถ้าพระองค์ทรงประหารประชาชนนี้เหมือนคนคนเ…`
 - **NUM 14:16** (TRONG_NO_VISIBLE_DIVINE_SUBJECT): `ทรงสาบานแก่พว` — `…าชนนี้เข้าสู่แผ่นดินที่พระองค์ทรงสาบานแก่พวกเขา พระองค์จึงทร…`
 - **NUM 14:16** (TRONG_NO_VISIBLE_DIVINE_SUBJECT): `ทรงประหารพวกเ` — `…ค์ทรงสาบานแก่พวกเขา พระองค์จึงทรงประหารพวกเขาในถิ่นทุรกันดาร…`
-- **NUM 14:18** (TRONG_NO_VISIBLE_DIVINE_SUBJECT): `ทรงปล่อยผู้ผิ` — `…ทษความผิดและการละเมิด แต่จะไม่ทรงปล่อยผู้ผิดให้พ้นโทษ ทรงให้…`
+- **NUM 14:18** (TRONG_NO_VISIBLE_DIVINE_SUBJECT): `ทรงพิจารณาผู้` — `…ษความชั่วและการละเมิด แต่จะไม่ทรงพิจารณาผู้กระทำผิดให้พ้นโทษ…`
+- **NUM 14:18** (TRONG_NO_VISIBLE_DIVINE_SUBJECT): `ทรงลงโทษความช` — `…รงพิจารณาผู้กระทำผิดให้พ้นโทษ ทรงลงโทษความชั่วของบรรพบุรุษต่…`
 - **NUM 14:19** (TRONG_NO_VISIBLE_DIVINE_SUBJECT): `ทรงอภัยความผิ` — `…ขอโปรดทรงอภัยความผิดของประชาชนนี้ ตา…`
 - **NUM 14:19** (TRONG_NO_VISIBLE_DIVINE_SUBJECT): `ทรงอภัยประชาช` — `…นคงของพระองค์ และตามที่พระองค์ทรงอภัยประชาชนนี้ตั้งแต่ออกจาก…`
