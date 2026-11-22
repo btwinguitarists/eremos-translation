@@ -9,6 +9,7 @@
 | Back-translation | ✅ clean | [back_translation_jeremiah_03.md](back_translation_jeremiah_03.md) |
 | Thai-summary coverage (info) | ✅ clean | [summary_coverage_jeremiah_03.md](summary_coverage_jeremiah_03.md) |
 | Claim consistency (hallucination, advisory) | ✅ clean | [claim_consistency_jeremiah_03.md](claim_consistency_jeremiah_03.md) |
+| unfoldingWord wording (license gate) | ✅ clean | [uw_wording_jeremiah_03.md](uw_wording_jeremiah_03.md) |
 
 ## Ship criterion
 
