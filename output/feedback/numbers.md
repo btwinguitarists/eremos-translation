@@ -5695,5 +5695,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/numbers_33.json` | `9c2150a63cf2fb8db8f87702116dc0fe9a784dbdb00c53c3657675b2a4284ac8` |
 | `output/translations/numbers_34.json` | `70c5d53937e75d627ec16d030e5a02103f379cae03377084cf92c29594c026b9` |
 | `output/translations/numbers_35.json` | `794c860bad96f65096e945482b542ab68a85cddb0d7078eaea0b71b46cae964a` |
-| `output/translations/numbers_36.json` | `6e9e247941dbbfb9be93abd31182011a6d77fcf6ffa6ce264f9fbf14bb7c6051` |
+| `output/translations/numbers_36.json` | `1b0ee1d7f3fb5da42138d12dcd828ad1f2f43837434fb18ab719ca8e927abec1` |
 
