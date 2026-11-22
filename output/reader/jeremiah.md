@@ -466,7 +466,7 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 **21** “ประชาชนผู้โง่เขลาและไร้สำนึกเอ๋ย จงฟังเรื่องนี้ พวกเจ้ามีตาแต่มองไม่เห็น มีหูแต่ฟังไม่ได้ยิน
 
-> _บริบท: ประชากรมี ‘ตาแต่มองไม่เห็น หูแต่ฟังไม่ได้ยิน’ — ภาพความดื้อด้านฝ่ายวิญญาณที่อิสยาห์ 6:9–10 และเฉลยธรรมบัญญัติ 29:4 ก็ใช้ และพระเยซูทรงยกมาใช้กับฝูงชน (มาระโก 8:18)_
+> _บริบท: ประชากรมี ‘ตาแต่มองไม่เห็น หูแต่ฟังไม่ได้ยิน’ — ภาพความดื้อด้านฝ่ายวิญญาณที่อิสยาห์ 6:9–10 และเฉลยธรรมบัญญัติ 29:4 ก็ใช้ และพระเยซูทรงยกมาใช้กับบรรดาสาวก (มาระโก 8:18)_
 
 **22** องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้ว่า “พวกเจ้าไม่ยำเกรงเราหรือ? พวกเจ้าไม่ตัวสั่นต่อหน้าเราหรือ? เราเป็นผู้ตั้งหาดทรายให้เป็นเขตแดนของทะเล เป็นกฎเกณฑ์นิรันดร์ที่ทะเลข้ามไปไม่ได้ แม้คลื่นจะซัดสาดก็เอาชนะไม่ได้ แม้จะคำรามก็ข้ามมันไปไม่ได้
 
@@ -4378,8 +4378,8 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/jeremiah_02.json` | `6824ae6b1dabb306325ca62636a753a0bdc0f1056c72d115aeafb4ff3d5cd262` |
 | `output/translations/jeremiah_03.json` | `b4e713f5045827f8ea04c777e8bc9610540059c29e306de11d16dc5b4db29a27` |
 | `output/translations/jeremiah_04.json` | `2e40e806f4876ccbb97fb26f2590001183874e888815b7245d4fa917f2bd7a39` |
-| `output/translations/jeremiah_05.json` | `2f7c909e082275a54373d80bd903e3a701eebb69eeec508e0a42e15e69d93c17` |
-| `output/translations/jeremiah_06.json` | `4d21d982e454f4c26f7e501a61ef65db47fbfeead555d08b4e6df77dc336873e` |
+| `output/translations/jeremiah_05.json` | `c48b6e3cd9093f770f998fc5d917fec08a2dc58d6ba3ff218cd2b4717dc9576f` |
+| `output/translations/jeremiah_06.json` | `033e6e4d59eab8517841d30911a2c6e36b5ab855efa7aba5e850884a470eac75` |
 | `output/translations/jeremiah_07.json` | `9cf6eafd79778fb87ced24a8af5675ba4458b607daf733b4c7acee59b736ed4a` |
 | `output/translations/jeremiah_08.json` | `cec1c5f15a6341003f086b1636ff43cf75dfa056a79c5273c9defa4c22bfe035` |
 | `output/translations/jeremiah_09.json` | `e0ff0901d8baf0062588e6045c9d08c5c69c3e98894b66a71daf40437f28b5e9` |
