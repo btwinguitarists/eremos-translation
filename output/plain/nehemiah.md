@@ -918,7 +918,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/nehemiah_06.json` | `6ce7ef212dca4f28b08927577e7b342493167c68fa4143789f21cbef8933e4bb` |
 | `output/translations/nehemiah_07.json` | `c9ed444cb4d1ea876fd902fe377848e3e2421e4388fbfde842899d57433864fa` |
 | `output/translations/nehemiah_08.json` | `308793f56384f8f9158d1b768b687032788d921d5925023ee161609e389e2edf` |
-| `output/translations/nehemiah_09.json` | `801609db11b17e29b1e790bf99f85ed26511925a0c0c9e0588f9e7050245be30` |
+| `output/translations/nehemiah_09.json` | `fd3baaf39c1514775bf5256184dbab9c9f545dfa62f403a54d4c59798c7342a7` |
 | `output/translations/nehemiah_10.json` | `b9abde70b9d85f1380b4327e41932c2e630d6651ce139535584b16d8bf8637b4` |
 | `output/translations/nehemiah_11.json` | `4f7e6e3b586978557bc77bf5de663c1bfffd40818c8e46a0fb69e9420f97577f` |
 | `output/translations/nehemiah_12.json` | `f6987473e1b1a69597383832f18a80ece6d74db92aab97ed7338126a974050a0` |

@@ -3,7 +3,7 @@
 Policy: `docs/translator_decisions/ot_register_policy_2026-05.md`
 
 - Hard fails: **0**
-- Warnings: 42
+- Warnings: 43
 
 ## ⚠ Warnings
 
@@ -25,6 +25,7 @@ Policy: `docs/translator_decisions/ot_register_policy_2026-05.md`
 - **Nehemiah 9:15** (TRONG_NO_VISIBLE_DIVINE_SUBJECT): `ทรงตรัสให้พวก` — `…้น้ำไหลออกจากศิลาให้พวกเขา และทรงตรัสให้พวกเขาเข้ายึดครองแผ่…`
 - **Nehemiah 9:15** (TRONG_NO_VISIBLE_DIVINE_SUBJECT): `ทรงยกพระหัตถ์` — `…ข้ายึดครองแผ่นดินที่พระองค์ได้ทรงยกพระหัตถ์สัญญาที่จะประทานแ…`
 - **Nehemiah 9:17** (TRONG_NO_VISIBLE_DIVINE_SUBJECT): `ทรงกระทำท่ามก` — `…่ระลึกถึงการอัศจรรย์ที่พระองค์ทรงกระทำท่ามกลางพวกเขา พวกเขาท…`
+- **Nehemiah 9:17** (TRONG_NO_VISIBLE_DIVINE_SUBJECT): `ทรงบริบูรณ์ด้` — `…คุณและทรงพระเมตตา ทรงกริ้วช้า ทรงบริบูรณ์ด้วยความรักมั่นคง พ…`
 - **Nehemiah 9:17** (TRONG_NO_VISIBLE_DIVINE_SUBJECT): `ทรงทอดทิ้งพวก` — `…ด้วยความรักมั่นคง พระองค์มิได้ทรงทอดทิ้งพวกเขา…`
 - **Nehemiah 9:19** (TRONG_NO_VISIBLE_DIVINE_SUBJECT): `ทรงทอดทิ้งพวก` — `…ตตาอันยิ่งใหญ่ของพระองค์ มิได้ทรงทอดทิ้งพวกเขาในถิ่นทุรกันดา…`
 - **Nehemiah 9:20** (TRONG_NO_VISIBLE_DIVINE_SUBJECT): `ทรงประทานพระว` — `…พระองค์ทรงประทานพระวิญญาณอันดีของพระอ…`
