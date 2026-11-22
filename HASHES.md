@@ -1189,7 +1189,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/songofsongs_07.json` | 14 | `39c14d77d53a07da71bcc82fda15deff2921444520bd2998f435157c90e1df29` | `f8f55953` |
 | `output/translations/songofsongs_08.json` | 14 | `7c611c35488a39f7b46f504126c08ad811752e3fc710ea071b5c4f8011c8ded5` | `85c5e22b` |
 | `output/translations/titus_01.json` | 16 | `b68e3c68f9f1b660167ca8d66d4053e740e67915f83bd5891d5472fb8aa5b3ba` | `7cca09e6` |
-| `output/translations/titus_02.json` | 15 | `9e7feaff182352ba9649b9095fb978729efb7ebb24974767efbfac5fb1a69039` | `9d4d7d23` |
+| `output/translations/titus_02.json` | 15 | `165897ed2a97094afb531dc016fd11bf47698f502344af70da4556e92a735544` | `9d4d7d23` |
 | `output/translations/titus_03.json` | 15 | `5b126bd63021fb8e35d40945259e326fb7978a09207ab27f1d25ddf408732910` | `502e5308` |
 | `output/translations/zechariah_01.json` | 17 | `747ea25da4320bdce564a4671239f7bae5b182ccc2e01bf9b1d0c49e87e63c8c` | `c95ab51c` |
 | `output/translations/zechariah_02.json` | 17 | `6a6ac3bdd2fe98b2d75fbe534b0b6aec4272526c1943a6be5446b7efe82e4ebd` | `f6c8031a` |

@@ -151,6 +151,6 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | Chapter file | SHA-256 |
 |---|---|
 | `output/translations/titus_01.json` | `b68e3c68f9f1b660167ca8d66d4053e740e67915f83bd5891d5472fb8aa5b3ba` |
-| `output/translations/titus_02.json` | `9e7feaff182352ba9649b9095fb978729efb7ebb24974767efbfac5fb1a69039` |
+| `output/translations/titus_02.json` | `165897ed2a97094afb531dc016fd11bf47698f502344af70da4556e92a735544` |
 | `output/translations/titus_03.json` | `5b126bd63021fb8e35d40945259e326fb7978a09207ab27f1d25ddf408732910` |
 
