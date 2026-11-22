@@ -2328,7 +2328,7 @@ _This reader edition shows the Thai translation and the contextual summary (บ�
 
 **28** บุตรคนโตก็โกรธ และไม่ยอมเข้าไปในบ้าน บิดาจึงออกมาอ้อนวอนเขา
 
-> _บริบท: บิดาออกมาหาบุตรคนโต เช่นเดียวกับที่วิ่งออกไปหาบุตรคนเล็ก (ข้อ 20) ทั้งสองฉากใช้คำกรีกเดียวกัน “ออกไป” (ἐξέρχομαι) บิดาจึงแสดงพระคุณเหมือนกันต่อบุตรทั้งสอง — ออกจากบ้านเพื่อไปพบทั้งคู่ คนหนึ่งด้วยการวิ่ง อีกคนด้วยการอ้อนวอน_
+> _บริบท: บิดาออกมาหาบุตรคนโต เช่นเดียวกับที่วิ่งออกไปหาบุตรคนเล็ก (ข้อ 20) ข้อ 28 ใช้ ἐξελθὼν (“ออกมา”) ส่วนข้อ 20 ใช้ δραμὼν (“วิ่ง”) ทั้งสองฉากแสดงว่าบิดาเป็นฝ่ายไปหาบุตรและแสดงพระคุณต่อทั้งคู่ คนหนึ่งด้วยการวิ่ง อีกคนด้วยการอ้อนวอน_
 
 **29** เขาตอบบิดาว่า ‘ดูเถิด ตลอดหลายปีมานี้ ข้าพเจ้าได้ปรนนิบัติท่านเหมือนทาส และไม่เคยขัดคำสั่งของท่านเลย แต่ท่านก็ไม่เคยให้แม้แต่ลูกแพะแก่ข้าพเจ้าสักตัวหนึ่ง เพื่อที่ข้าพเจ้าจะได้ฉลองกับเพื่อน ๆ ของข้าพเจ้า
 
@@ -3640,7 +3640,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/luke_12.json` | `b9bed8d3405f5baa7e90d991b82fc3b558c907881e82ce38eb3e333e9af812c6` |
 | `output/translations/luke_13.json` | `b67c46e8db0e008b8a1b9c826a483675c6ce25a90340589f9dc376cac4a23852` |
 | `output/translations/luke_14.json` | `7e58557b0d7af839456f5f75f2f04533cf8b79171fe860657ef5f08f7349d9fc` |
-| `output/translations/luke_15.json` | `bb9ac5c2071f8fdad2c943e4c82683401c94512c25229dd186a78d596ac675fe` |
+| `output/translations/luke_15.json` | `7d0722f7226c01ae902f71a17ffe871fbb23625be01c59568ea4387064225144` |
 | `output/translations/luke_16.json` | `70cb4a49c0e8648bd14fa73e3055266fefa2d938d4cf35d9562239eac424fee9` |
 | `output/translations/luke_17.json` | `87567ea9c378eb2bf7e15ca6d96b79870a0ed529897771686d41a2a0212c5f57` |
 | `output/translations/luke_18.json` | `a44af1bcdea6968a4e3e479771d0b1f7db623da3e7c0b0230a68d1976408deb4` |
