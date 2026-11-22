@@ -1176,8 +1176,8 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/romans_14.json` | 23 | `7a5aa044725a91530b6ed82b918843ddf70f258d0ad00b071d1307b080a41056` | `b64d4872` |
 | `output/translations/romans_15.json` | 33 | `cc1848963b730debd50fcd5b3d2de2347f127fdc6c001fa7357c709daca5518b` | `b64d4872` |
 | `output/translations/romans_16.json` | 27 | `fbd72dda200b8a20fe654e04b9add34e895885f95609883008cecdd9dd8e6c4e` | `9f851ef9` |
-| `output/translations/ruth_01.json` | 22 | `7153167899931b7fa6b249742cf521e29912a152f25d0e2c1a2b14b8d9c6825c` | `7040ad9f` |
-| `output/translations/ruth_02.json` | 23 | `3a07ca3d2040b4aed3fb2b33f8cfca5d4d6b82d193e1dbb85dfb3804a4de8540` | `d03c3a1a` |
+| `output/translations/ruth_01.json` | 22 | `8273621157e46e9f71c91f48bbdcda3d36b3c295b2b9e5bcdbfc8bcd9332330e` | `7040ad9f` |
+| `output/translations/ruth_02.json` | 23 | `f33e109b5ccd0a7886de4606e288dbd62b420038a3947947677f131bb8b6eb9d` | `d03c3a1a` |
 | `output/translations/ruth_03.json` | 18 | `877604aff22d3b2caed53e65ff4ae2c5bc716c5671eb1fcd71168b68b8809480` | `d03c3a1a` |
 | `output/translations/ruth_04.json` | 22 | `d5adc71eac56efc9d81d738bdaef86c022c3e3d2a293b06bfee4c3018cc2ea6b` | `d03c3a1a` |
 | `output/translations/songofsongs_01.json` | 17 | `2cc399dacf9df716f83cd5aec91d438ecdb5145ed10d046d651bf2c6142ede0f` | `7049fc4d` |
