@@ -1832,7 +1832,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 |---|---|
 | `output/translations/romans_01.json` | `c87b2112628b417478cc0beebb101b81b21b70b76106579044da66b1f0181824` |
 | `output/translations/romans_02.json` | `4fe0ca5a671850b2506476d945ca603daa20dd5b460442a7e513b7758c3a5b27` |
-| `output/translations/romans_03.json` | `567b703d5877a4a57ba9d98de2c2ad068da1409a7c895428eb960c33e0770dee` |
+| `output/translations/romans_03.json` | `f92ccff6f1c06bcc073946a515b061f4d7a69c87e57d4eb1eb3722a55dd6cc4a` |
 | `output/translations/romans_04.json` | `693fe7f9ad14218a1cb21365defa980c21f1665152fd6cf9bfb9c4a4599e1fd8` |
 | `output/translations/romans_05.json` | `a9f1c19b4b5303d0e750b9ffa3c10e59cdc7c1ac4074a89fc4bf418b926aa7f9` |
 | `output/translations/romans_06.json` | `53733aa5bad47a955adac82a8a4026db557cefa449da09a6f0a934b8738e19c6` |
