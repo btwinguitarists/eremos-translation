@@ -12838,7 +12838,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | Chapter file | SHA-256 |
 |---|---|
 | `output/translations/psalms_01.json` | `76d6ab0eeff688575cc98b661dcac76efc6e3a5dbc80127bb505b645e4e334af` |
-| `output/translations/psalms_02.json` | `d3c20c4004f5411db7f4f09fa5930c667de6c2b9d8ab63da1ffcb1c3f24d0811` |
+| `output/translations/psalms_02.json` | `40006201366d90465cc304492a27d1e1bd8ab2c7b15a70ea9d23accd7912b6a9` |
 | `output/translations/psalms_03.json` | `79436fe101538c7ffc956e980569771fb80218f329adac5457b2e4b8f6ecf6a5` |
 | `output/translations/psalms_04.json` | `b26aeb98a9dc732ec791c758c95bc8fc71395b9745af1fd67978d16c3b963e5f` |
 | `output/translations/psalms_05.json` | `13d65a4c4f7570d9c90e54d1d31114449eaa4761ae22019cd25fa34639ac7208` |
