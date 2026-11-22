@@ -2120,9 +2120,9 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/leviticus_13.json` | `c33c6b139dca68b9fa22c9c69464264b2cf717b7f32ed9c2c9ee18f8959f2731` |
 | `output/translations/leviticus_14.json` | `9f657fbae982f4a97e6b1c91fae5f4148c26ceff99a1836ec795fdc6131bad47` |
 | `output/translations/leviticus_15.json` | `b70a8aa90b6e82ee918a75d1afc1900ea943da4cd988a91bdcf7428ba166121f` |
-| `output/translations/leviticus_16.json` | `86696881fab5a56ee2c867605435d215c584a2c43b62668dc78b747ee9ec697f` |
+| `output/translations/leviticus_16.json` | `62775e7f682923c1a35a81510bb84869a1cef2b9b40afa275795d7a369202c06` |
 | `output/translations/leviticus_17.json` | `bfcfb2841e2b8aed8c56f8cb2df511cf33f4132808c8fd69c6a065e6aa2a17be` |
-| `output/translations/leviticus_18.json` | `f137a90927a384e7aa7284509c3acd1da95bda6099358be579d62db2ebaa44a9` |
+| `output/translations/leviticus_18.json` | `4636e71b0fdef018bce8dd603ba3a6ffe167655f756afda5e30132188a0a727e` |
 | `output/translations/leviticus_19.json` | `fbe5c6c8a2369207df9a9f549e5ee52c338a2aab95684b038e3751635e1f222d` |
 | `output/translations/leviticus_20.json` | `fdd9be8fa4052470d90e33e89554c5ff3fee4324215409bb007bdff36f1acf41` |
 | `output/translations/leviticus_21.json` | `e1c70db6ec9716a1ac8882b611c7a6002879347f79dca46105591ed59c7ba424` |
