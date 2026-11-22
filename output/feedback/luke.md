@@ -4744,7 +4744,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/luke_16.json` | `1fbfd23ac9e21c31f2e852682db4c5c8954611789d3a5a645e3f6736265732e0` |
 | `output/translations/luke_17.json` | `a3bd99e68586cf05eb396746bc536a2a0482e466f2fe4504b56cb5632279bf38` |
 | `output/translations/luke_18.json` | `3cd8c42dd0f9a8d701a013489d94c68e2341bf9a9f04c67cc3c1130177e96648` |
-| `output/translations/luke_19.json` | `7197eb39159888ef4fff3786d655fadcf5faded58540b184ad6763a9bd3b3c90` |
+| `output/translations/luke_19.json` | `5dcd2e8479102b30baac42f581f0b5cff58b81467093fdfa51c2134e3fb93907` |
 | `output/translations/luke_20.json` | `e3a7255399e987c3a565b1999d0ca7ec69ca35785761ac6cd0147edb278f088d` |
 | `output/translations/luke_21.json` | `2c44259c457795ded72824270807f5d2e7b30845ef464a707486f5ad90205c06` |
 | `output/translations/luke_22.json` | `f1401dcb817075deb248787599063a1b691f4bbd437c496d157930728d4a9233` |
