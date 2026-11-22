@@ -3763,7 +3763,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/matthew_05.json` | `ac99255bc772fa66f513cf75b061287c395f4bace84acac60791fce3831ac8c9` |
 | `output/translations/matthew_06.json` | `be41b18eb4a28dfd2aeb7987f4f2df355006f9f4ae2ebbba8e31e8e6b446bdbe` |
 | `output/translations/matthew_07.json` | `b4b00dc5aca1c2e7f8c0fe9e197ba4718fa49788a5656172dfa5530b082ea59e` |
-| `output/translations/matthew_08.json` | `ec7d6500038151e109ed7db4f45383e7d1af93d473b4ba7b25b79406d73adebd` |
+| `output/translations/matthew_08.json` | `723894704f845d99dd8c2a33f9d69645ade59719f6b039560f475218ecd6b998` |
 | `output/translations/matthew_09.json` | `f09ecfd04461560021ec2ff3025ace73d2e3f0198193985b1092ce010a92ff39` |
 | `output/translations/matthew_10.json` | `a98e79bfba28709d1cc0bed4c4c7ab80ca94303cbb702dbca62520dbea064530` |
 | `output/translations/matthew_11.json` | `67a2b39d1ca5b96a1995fc2ff8eb7697b18d4e12f4f0234109f1870158fb810b` |
