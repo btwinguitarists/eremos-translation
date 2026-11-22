@@ -755,8 +755,8 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/joshua_10.json` | 43 | `a28434982003ea9c3f442bc01a7fa61620175926fe2ac7c4c98ce304048b6e72` | `6ed555d3` |
 | `output/translations/joshua_11.json` | 23 | `714943a28d1daec4524f25fddaf34e9af6cb73914f59279903c32041a76eee9a` | `6a779aae` |
 | `output/translations/joshua_12.json` | 24 | `9197d55470a6c3b2900cfd8cde5ec6865f1806c16fb914bffd433dd789e7e43b` | `6a779aae` |
-| `output/translations/joshua_13.json` | 33 | `b5a50003483b0abab89157f54590f03791f38f7ea8b755e666ec46afb0db776c` | `7040ad9f` |
-| `output/translations/joshua_14.json` | 15 | `201baf702d76c011b402f0c3f05a20d95aa5c1b720f879e58aa65c9d953b3bbd` | `f3a0ed59` |
+| `output/translations/joshua_13.json` | 33 | `13321e4261308eea9a944b3fcd7e59db56b556054a5b25f7709dd9e4ed28b037` | `7040ad9f` |
+| `output/translations/joshua_14.json` | 15 | `1a52d7b4d69c3c405e8f76862cec08ca6a2894b870b61887909f3a70b99c0fc5` | `f3a0ed59` |
 | `output/translations/joshua_15.json` | 63 | `eae455ec28646ca95bcb0bbe4ba879fbeae9c1aafb0c3b873767e5e3d74a9eec` | `6a779aae` |
 | `output/translations/joshua_16.json` | 10 | `dba351fbff6f6c24b6f55d71e99b5da8f39cd33f5d90b1b9e1d4e324bf54063d` | `5cdc998b` |
 | `output/translations/joshua_17.json` | 18 | `4e6958634dda33c39920178af65c88b38062297dbe2c6811b33a7af35cd2b43f` | `6a779aae` |
