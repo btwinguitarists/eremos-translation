@@ -296,5 +296,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/jonah_01.json` | `e8cb7896fc68eb1284c6c10f23fd0cfc46be275ca1d728f5edd5c95b6e6707d1` |
 | `output/translations/jonah_02.json` | `0d75d140afc7585bfb93465469d60468a568f85708cadef2d85c3eb6ac9a4b96` |
 | `output/translations/jonah_03.json` | `e5285c94cadbc882e371b38a1cd457fb8655da793b0e698e58a8e663bf9701b3` |
-| `output/translations/jonah_04.json` | `8fbd59a1452101fc657f9391da3aaa0e43a509b2160a52008902229a7cf992fb` |
+| `output/translations/jonah_04.json` | `9d26b5a6c1d17b5d5daf1e721c1424d244a0831f81f9b2c92d9dc4f4552bb520` |
 
