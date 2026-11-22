@@ -255,7 +255,7 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 **35** และเขาจะตัดไขมันทั้งหมดออก เช่นเดียวกับที่ตัดไขมันของลูกแกะออกจากเครื่องสันติบูชา และปุโรหิตจะเผาสิ่งเหล่านี้ให้เป็นควันบนแท่นบูชาพร้อมกับเครื่องบูชาด้วยไฟแด่องค์พระผู้เป็นเจ้า ปุโรหิตจะทำการลบมลทินบาปสำหรับเขาจากบาปที่เขาได้กระทำ และเขาจะได้รับการอภัย
 
-> _บริบท: **บทที่ 4 ปิดท้าย.** สี่กรณีเครื่องบูชาไถ่บาป — ปุโรหิตหัวหน้า ชุมชน ผู้นำ สามัญชน — ทั้งสี่ลงท้ายด้วยการประกาศการอภัย. แสดงพระคุณของพระเจ้าที่จัดให้ทุกระดับสังคมมีทางลบบาปได้._
+> _บริบท: **บทที่ 4 ปิดท้าย.** สี่กรณีเครื่องบูชาไถ่บาป — ปุโรหิตหัวหน้า ชุมชน ผู้นำ สามัญชน — กรณีปุโรหิตหัวหน้าลงท้ายด้วยการเผาวัว ณ ที่เทเถ้า (ข้อ 12) ส่วนกรณีสามัญชนลงท้ายด้วยการประกาศการอภัย (ข้อ 35). แสดงพระคุณของพระเจ้าที่จัดให้ทุกระดับสังคมมีทางลบบาปได้._
 
 ---
 
@@ -2416,9 +2416,9 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | Chapter file | SHA-256 |
 |---|---|
 | `output/translations/leviticus_01.json` | `4dc3d8acb54097fd1f8e3249ea68ba1290693a4e25c0e3ff7e73636bae2902cb` |
-| `output/translations/leviticus_02.json` | `b612a857d7531c5da10f5e53977628f4adc41fb57007912169dda91901e22925` |
+| `output/translations/leviticus_02.json` | `12039eec13da6d20148c601ed6e6865c1be9963aa5964b5dab8662cefdf32db6` |
 | `output/translations/leviticus_03.json` | `b3bf9e73771469c8f6f4dad4cf2864924400f14bf5d92ae1057527a3591fa912` |
-| `output/translations/leviticus_04.json` | `f47c879f0594313601db34b0deb24cd54f6a1baec33e0467af34ff92f92492e6` |
+| `output/translations/leviticus_04.json` | `6d0051bed7ccc722e5a02fefe74cb8bf906820ea40e21ffa3ad254e36465d010` |
 | `output/translations/leviticus_05.json` | `9bd26d23dac552a97ff627986e3a8c8591b13dabc567ac3644731412c8acbf7a` |
 | `output/translations/leviticus_06.json` | `b8f74f79a8ebf879be850692bdbca65f10ec4efbfc0fb2e5e51fc697be8a52a7` |
 | `output/translations/leviticus_07.json` | `f504e8d26d0830cfed5aa67d78fc7d39ae7f55c1f2bb0919f53a9e67cf80fdd5` |

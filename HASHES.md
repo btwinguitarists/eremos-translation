@@ -795,9 +795,9 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/lamentations_04.json` | 22 | `b59e261718c726283ad9dc631b27a7563949a09e10951c74dc57e587d92fbdc8` | `1df92345` |
 | `output/translations/lamentations_05.json` | 22 | `a69e1f324d53166b643dd4ba8c8770527d2c20b2bb85530cb9441cdcced76cac` | `04d53597` |
 | `output/translations/leviticus_01.json` | 17 | `4dc3d8acb54097fd1f8e3249ea68ba1290693a4e25c0e3ff7e73636bae2902cb` | `ae02fa18` |
-| `output/translations/leviticus_02.json` | 16 | `b612a857d7531c5da10f5e53977628f4adc41fb57007912169dda91901e22925` | `26ddaa14` |
+| `output/translations/leviticus_02.json` | 16 | `12039eec13da6d20148c601ed6e6865c1be9963aa5964b5dab8662cefdf32db6` | `26ddaa14` |
 | `output/translations/leviticus_03.json` | 17 | `b3bf9e73771469c8f6f4dad4cf2864924400f14bf5d92ae1057527a3591fa912` | `1271eafa` |
-| `output/translations/leviticus_04.json` | 35 | `f47c879f0594313601db34b0deb24cd54f6a1baec33e0467af34ff92f92492e6` | `720fef81` |
+| `output/translations/leviticus_04.json` | 35 | `6d0051bed7ccc722e5a02fefe74cb8bf906820ea40e21ffa3ad254e36465d010` | `720fef81` |
 | `output/translations/leviticus_05.json` | 26 | `9bd26d23dac552a97ff627986e3a8c8591b13dabc567ac3644731412c8acbf7a` | `474251d8` |
 | `output/translations/leviticus_06.json` | 23 | `b8f74f79a8ebf879be850692bdbca65f10ec4efbfc0fb2e5e51fc697be8a52a7` | `b32abb1b` |
 | `output/translations/leviticus_07.json` | 38 | `f504e8d26d0830cfed5aa67d78fc7d39ae7f55c1f2bb0919f53a9e67cf80fdd5` | `ba866190` |
