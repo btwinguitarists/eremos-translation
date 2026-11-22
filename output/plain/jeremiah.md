@@ -3436,7 +3436,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/jeremiah_18.json` | `b66254dfcad63c44bb6bf1bdc1e33853f8837c22db05a22e3caefcd04948bd72` |
 | `output/translations/jeremiah_19.json` | `ab5105a88fafe96e917183c6cd28f796f1c978aa6690f83891915a993e98f487` |
 | `output/translations/jeremiah_20.json` | `d6d86fd387fd398fc1a79be009819a96a2a16fcf3ee5b034d3ee09b819be50ad` |
-| `output/translations/jeremiah_21.json` | `bad068ef7e7d6b5b7e7d756cd1595ec5a0efb4e2ed81d27d82c00ecf253d4d99` |
+| `output/translations/jeremiah_21.json` | `8f6bf6ee8cf5de7bee340691d2079777881b709b41e8c0e6cc0ad22d8fa0c185` |
 | `output/translations/jeremiah_22.json` | `e27f8b91f9221f8dd221abb75ed1d740ba6f2d6dd76709c63058912a2540a59c` |
 | `output/translations/jeremiah_23.json` | `4142432ff8fbbb6a3740db81d12ca5f7cef32fe8738090b2be53991edf059fa2` |
 | `output/translations/jeremiah_24.json` | `675b4417d827328c5b189b4f78f74413a311308915de24f5d97ff9e1b0158d42` |

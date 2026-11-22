@@ -50,6 +50,13 @@
       "report": "claim_consistency_jeremiah_21.md",
       "notes": "advisory only — not a ship gate (raw exit=0)",
       "status": "clean"
+    },
+    {
+      "name": "unfoldingWord wording (license gate)",
+      "exit_code": 0,
+      "report": "uw_wording_jeremiah_21.md",
+      "notes": "",
+      "status": "clean"
     }
   ]
 }
