@@ -180,10 +180,10 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/2corinthians_04.json` | 18 | `48131cb80405f98b182bbfab1c97609a874a08b9a7ad35cf2e1b987e03b48116` | `7040ad9f` |
 | `output/translations/2corinthians_05.json` | 21 | `e2452a34d40b0fd0ce3c4cbc0d0a70dbf6fd6267f9d206904b58c2dec293330b` | `cf6bd38f` |
 | `output/translations/2corinthians_06.json` | 18 | `ae48df81325a8e1d4e2c9615163e083885323658b943a468f2ee5d85f95d82a9` | `cf6bd38f` |
-| `output/translations/2corinthians_07.json` | 16 | `fae6b6f1fecbcef72c1773b279d13cfe853cf239f015aeafc7d06210ce7feba0` | `cf6bd38f` |
-| `output/translations/2corinthians_08.json` | 24 | `e55bbd1bc9e76097484fdf581c9c5d50da7df4761bcc81c929412341c64a13a4` | `cf6bd38f` |
-| `output/translations/2corinthians_09.json` | 15 | `4154d3d2b4cbe38a4e599473976f3f3a226ac84d2cb4912d741a372df22826e3` | `cf6bd38f` |
-| `output/translations/2corinthians_10.json` | 18 | `39d9bc804e8f3a7750e12b498b56979a8da0115894d00e48f9558ae7421a5146` | `cf6bd38f` |
+| `output/translations/2corinthians_07.json` | 16 | `86bd41338d240a0452ef8d74300a098e1ab55427b464361e7940eae446e769c9` | `cf6bd38f` |
+| `output/translations/2corinthians_08.json` | 24 | `cd7d7a8c69e35ad0788d6d0c2edb8fcfdf08108241abe4309dba54a9575139a5` | `cf6bd38f` |
+| `output/translations/2corinthians_09.json` | 15 | `54df7c9cafa31ad0e09b3403eab41a6658abcd6284d76ffed1b4aa9ca2a78b21` | `cf6bd38f` |
+| `output/translations/2corinthians_10.json` | 18 | `fe8bfafcdd59630524cd85b94852725030697ad091514b85a7ed055a593a23a2` | `cf6bd38f` |
 | `output/translations/2corinthians_11.json` | 33 | `a5caf84fe98e4ff76ff7a9a1d6055f00703abd4a5fc68ebc0ab89670beed7b5a` | `cf6bd38f` |
 | `output/translations/2corinthians_12.json` | 21 | `aca4492cc393372367d40d5dce4bee1e1d066a04b6f022f0d964492dc0439a9a` | `cf6bd38f` |
 | `output/translations/2corinthians_13.json` | 13 | `f7a1cada8a71e65a2b921824532b46da3370c561435fbffe0369a034dac40331` | `982b79de` |
