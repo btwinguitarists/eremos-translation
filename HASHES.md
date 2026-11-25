@@ -30,7 +30,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/1chronicles_09.json` | 44 | `9870300cefe9089b3c09129669fc04eea28616b9ba226b8fb1a768d59d79c659` | `01b588a9` |
 | `output/translations/1chronicles_10.json` | 14 | `cfaf9d4f5699aa028591a4f55dbbbf9bf956c244c83468cba74c3b01b8c00177` | `0abf2b53` |
 | `output/translations/1chronicles_11.json` | 47 | `fe1461c0ffbe7c15459826dc7b705db601baefd007166c8f40498bf99248be13` | `dad4395d` |
-| `output/translations/1chronicles_12.json` | 41 | `fd6a01295f1e02e378acbc2610ccf9b6de1f425c2b267969b2e30066e54cb9cc` | `42e997bf` |
+| `output/translations/1chronicles_12.json` | 41 | `bfe5d52606a2266cd9fdeff6c3c1bcde94607eaf6fb9f802e51faf0de10474bf` | `42e997bf` |
 | `output/translations/1chronicles_13.json` | 14 | `e9e6c526f297b25f2435af72838cccc98488150e0c9bdc153b06eab59b7a68ef` | `2152dd58` |
 | `output/translations/1chronicles_14.json` | 17 | `10085935f7e535f60a9e6a64623424d48af8f81d7fa472753b851bd187f94eb3` | `8235427a` |
 | `output/translations/1chronicles_15.json` | 29 | `d73caa2b8b6b610b4e8cbd8f46dd5f3a4aed3713373694d9b8b8a4269da4d028` | `35b9a151` |
