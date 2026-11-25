@@ -618,7 +618,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/james_01.json` | 27 | `101f22f8995def77e34a3d43062d0b6c25800ec852d7656e3dea190698dd4236` | `8e49de67` |
 | `output/translations/james_02.json` | 26 | `ad32455979f698e4b42ee82b934453b1a45b2cf789b9661c78cdedf980afb963` | `d7851be1` |
 | `output/translations/james_03.json` | 18 | `3808eccaa5550cc2fda97cd0dce2538331998823e416bf1c48ab042c3ba969d6` | `11382475` |
-| `output/translations/james_04.json` | 17 | `0d228cfd852e00f139e50a4df563cf1d5d863f1b2655b4ce98f07b28a51242c3` | `502e5308` |
+| `output/translations/james_04.json` | 17 | `3ae813e11dd1324c4461b5be9e57cd9f02338bdef01f7a32b89572986e871d49` | `502e5308` |
 | `output/translations/james_05.json` | 20 | `ec20c96131639e2943dafe8cac79192cf959d224a4d77ee60a7e1e0e04ae0608` | `5bde9a40` |
 | `output/translations/jeremiah_01.json` | 19 | `0fbbf862505c618e20c6a4c32e2ba355c5d0402721b0c8089224b299e9b16eab` | `7040ad9f` |
 | `output/translations/jeremiah_02.json` | 37 | `4753dfc22c18318fb33959d47c69447da4537d14d350c650d82a621567482ad1` | `7040ad9f` |
