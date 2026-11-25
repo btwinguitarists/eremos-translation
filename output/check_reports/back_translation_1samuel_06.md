@@ -27,7 +27,7 @@ Mode: in-chat (Claude-produced back-translations) | Threshold: 0.35
   - Back: The cows went straight on the way, on the way to Beth-shemesh — on one highway they went, lowing as they went, and they did not turn right or left, and the rulers of the Philistines were going after them as far as the border of Beth-shemesh.
   - BSB:  And the cows headed straight up the road toward Beth-shemesh, staying on that one highway and lowing as they went, never straying to the right or to the left. The rulers of the Philistines followed behind them to the border of Beth-shemesh.
 - **1SA 6:18** (sim=0.01)
-  - Thai: และหนูทอง — ตามจำนวนของเมืองทั้งหมดของฟิลิสเตียของผู้ปกครองทั้งห้า ตั้งแต่เมืองที่มีกำแพงจนถึงหมู่บ้านในชนบท และจนถึงหินใหญ่ของอาเบล ที่พวกเขาตั้งหีบขององค์พระผู้เป็นเจ้าไว้บนหินใหญ่นั้น จนถึงวันนี้ในทุ่งของโยชูวาชาวเบธเชเมช
+  - Thai: และหนูทอง — ตามจำนวนของเมืองทั้งหมดของฟิลิสเตียของผู้ปกครองทั้งห้า ตั้งแต่เมืองที่มีกำแพงจนถึงหมู่บ้านในชนบท และจนถึงหินใหญ่ของอาเบล ที่พวกเขาตั้งหีบขององค์พระผู้เป็นเจ้าไว้บนหินใหญ่นั้น จนถึงทุกวันนี้ในทุ่งของโยชูวาชาวเบธเชเมช
   - Back: And the mice of gold — the number of all the cities of the Philistines of the five rulers, from a fortified city to a village of the countryside — and as far as Abel-the-great upon which they set the ark of the LORD, unto this day in the field of Joshua the Beth-shemeshite.
   - BSB:  The number of gold rats also corresponded to the number of Philistine cities belonging to the five rulers—the fortified cities and their outlying villages. And the large rock on which they placed the ark of the LORD stands to this day in the field of Joshua of Beth-shemesh.
 - **1SA 6:19** (sim=0.31)
