@@ -5,8 +5,8 @@ Mode: in-chat (Claude-produced back-translations) | Threshold: 0.35
 - Verses checked: 69
 - Missing back-translations: **0**
 - Flagged (low similarity AND no rationale): **0**
-- Low similarity but with rationale: 6
-- Acceptable similarity: 63
+- Low similarity but with rationale: 5
+- Acceptable similarity: 64
 
 ## ℹ Low similarity — rationale documented (intentional divergence)
 
@@ -30,11 +30,7 @@ Mode: in-chat (Claude-produced back-translations) | Threshold: 0.35
   - Thai: แล้วองค์พระผู้เป็นเจ้าจะทรงกระจายพวกเจ้าไปท่ามกลางชนชาติทั้งหมด จากปลายแผ่นดินหนึ่งไปยังอีกปลายหนึ่ง และที่นั่นพวกเจ้าจะปรนนิบัติพระอื่นๆ คือพระของไม้และหิน ซึ่งพวกเจ้าและบรรพบุรุษของพวกเจ้าไม่เคยรู้จัก
   - Back: And the Lord shall scatter you among all the peoples, from one end of the earth and unto the other end of the earth, and there you shall serve other gods that you have not known, you and your fathers, wood and stone.
   - BSB:  Then the LORD will scatter you among all the nations, from one end of the earth to the other, and there you will worship other gods, gods of wood and stone, which neither you nor your fathers have known.
-- **DEU 28:69** (sim=0.00)
-  - Thai: เหล่านี้คือถ้อยคำของพันธสัญญาที่องค์พระผู้เป็นเจ้าทรงบัญชาโมเสสให้ทำกับชนอิสราเอลในแผ่นดินโมอับ นอกเหนือจากพันธสัญญาที่พระองค์ทรงทำกับพวกเขาที่โฮเรบ
-  - Back: These are the words of the covenant that the Lord commanded Moses to cut with the sons of Israel in the land of Moab, besides the covenant that He cut with them at Horeb.
-  - BSB:  
 
 ## Acceptable
 
-63 verses passed the similarity threshold without issue.
+64 verses passed the similarity threshold without issue.
