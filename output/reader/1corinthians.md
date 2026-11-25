@@ -106,7 +106,7 @@ _This reader edition shows the Thai translation and the contextual summary (บ�
 
 **31** เพื่อให้เป็นไปตามที่มีคำเขียนไว้ว่า “ผู้ใดที่อวด ก็ให้เขาอวดในองค์พระผู้เป็นเจ้า”
 
-> _บริบท: บทที่ 1 ปิดด้วยการอ้างพระธรรมเยเรมีย์ 9:23-24 (LXX 9:22-23) ในรูปแบบที่ย่อมาก — เปาโลตัดข้อความที่ยาวของเยเรมีย์ลงเหลือเพียงประโยคสรุป 'ผู้ที่อวดก็ให้เขาอวดในองค์พระผู้เป็นเจ้า' ในต้นฉบับเยเรมีย์ พระเจ้าทรงตรัสห้ามการอวดในเรื่องปัญญา ความเข้มแข็ง และความร่ำรวย — ตรงกับสามคำที่เปาโลใช้กับชาวโครินธ์ในข้อ 26 (มีปัญญา มีอำนาจ สูงศักดิ์) — และให้อวดในการรู้จักพระเจ้าเท่านั้น เปาโลย่อข้อความให้เหลือแก่นและประยุกต์ใช้กับพระคริสต์_
+> _บริบท: บทที่ 1 ปิดด้วยการอ้างพระธรรมเยเรมีย์ 9:22–23 ตามเลขข้อฮีบรูและฉบับกรีก (9:23–24 ในพระคัมภีร์ภาษาอังกฤษหลายฉบับ) ในรูปแบบที่ย่อมาก — เปาโลตัดข้อความที่ยาวของเยเรมีย์ลงเหลือเพียงประโยคสรุป 'ผู้ที่อวดก็ให้เขาอวดในองค์พระผู้เป็นเจ้า' ในต้นฉบับเยเรมีย์ พระเจ้าทรงตรัสห้ามการอวดในเรื่องปัญญา ความเข้มแข็ง และความร่ำรวย — ตรงกับสามคำที่เปาโลใช้กับชาวโครินธ์ในข้อ 26 (มีปัญญา มีอำนาจ สูงศักดิ์) — และให้อวดในการรู้จักพระเจ้าเท่านั้น เปาโลย่อข้อความให้เหลือแก่นและประยุกต์ใช้กับพระคริสต์_
 
 ---
 
@@ -748,7 +748,7 @@ _This reader edition shows the Thai translation and the contextual summary (บ�
 
 **33** ดังนั้น พี่น้องของข้าพเจ้า เมื่อพวกท่านมาประชุมเพื่อรับประทานอาหารด้วยกัน จงรอคอยกันและกัน
 
-**34** ถ้าผู้ใดหิว ก็จงกินเสียที่บ้าน เพื่อในการประชุมของพวกท่าน จะไม่นำไปสู่การพิพากษา ส่วนเรื่องอื่นๆ ที่เหลือ ข้าพเจ้าจะจัดระเบียบเมื่อข้าพเจ้ามาถึง
+**34** ถ้าผู้ใดหิว ก็จงกินเสียที่บ้าน เพื่อการมาชุมนุมกันของพวกท่านจะไม่นำไปสู่การพิพากษา ส่วนเรื่องอื่นๆ ที่เหลือ ข้าพเจ้าจะจัดระเบียบเมื่อข้าพเจ้ามาถึง
 
 ---
 
@@ -1144,20 +1144,20 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/1corinthians_01.json` | `17237ba2f89d9b19b275ed6a7acba56000db068eb10779ef241ff5b2915898a6` |
-| `output/translations/1corinthians_02.json` | `f89965365f3b0cad6b1261fe5cd39b2da70105281caa91fd248c10286a72374d` |
+| `output/translations/1corinthians_01.json` | `426e139f45c5a81f6bfb6ac7982ea4940195c59928b5f981f81fe3c23326d48d` |
+| `output/translations/1corinthians_02.json` | `f2e7d03729b87b500dcfdcf0789b68b37b9292ef808abd8892a48fe83c6ba714` |
 | `output/translations/1corinthians_03.json` | `5548c1c6a0731c4bdccae8c78b184392e4ab6e49c158c5cec98a0eb415fc47dd` |
 | `output/translations/1corinthians_04.json` | `4ba06865d5f7dda932d31aea7f27c381c285f268e30ef6b5362a2b60ab8a4360` |
-| `output/translations/1corinthians_05.json` | `9a239466aa383105cd196d915889d7d9176e93e466fd57c3300a83ad9c35125a` |
+| `output/translations/1corinthians_05.json` | `a43c94cca571e03660ecafbd80454dc0174a5ee195bd127ece6868e513d0a326` |
 | `output/translations/1corinthians_06.json` | `c0c44bba5571e7068e2b3ef6c85b4bce0131a92516b770fa3069bcadb22621ad` |
 | `output/translations/1corinthians_07.json` | `18f53459d34e98f4a1b74a1dc7ffd725076f261ca717711089c5bffa755bd534` |
-| `output/translations/1corinthians_08.json` | `d5d7a97843e4770fd9e14a1e1fd14569c2e27826ad1e60cf814e3719928befef` |
+| `output/translations/1corinthians_08.json` | `6497c31bcd1ed5fc46e355fa335a005b8c6b5b0268c7552a60d79152c47d30bd` |
 | `output/translations/1corinthians_09.json` | `39b7d368f5ebcd55df964f49562577612c2e8276dd58f127b07fda07e4cb2d02` |
 | `output/translations/1corinthians_10.json` | `8f23e3620cb8a32433a6d2908ef133952664b0e10ac555a2548f45b8a175785e` |
-| `output/translations/1corinthians_11.json` | `cf82a092d2c63cb0f4b37d4d517d0989f9149704d8e096ac05ccd5954f47b194` |
+| `output/translations/1corinthians_11.json` | `8762ce45f592990f0a0a4d5d60f66b4a55974d0cd195319cf161709fcecde50f` |
 | `output/translations/1corinthians_12.json` | `95bf5fd6626e97fa31d8f3180c4f6294c1bd3f81742ebd863e2b56c59012d3d5` |
 | `output/translations/1corinthians_13.json` | `8c1af7098465df03e2707fbc88bb06bb0a89b80fe487d4a3f6ed43bdcd2542b8` |
 | `output/translations/1corinthians_14.json` | `fd751079060a2cdc11047428ca6c5f246afae6e17dcd3d486744681e623c95ae` |
-| `output/translations/1corinthians_15.json` | `7d605067202897f65d4365d732ae9ba56097e398bc5bd6b708c205f098005f69` |
+| `output/translations/1corinthians_15.json` | `de6340d5d255375ab46cb4e03cb27f437721d20c124a186f261b2025dadbe396` |
 | `output/translations/1corinthians_16.json` | `a8deab69d82f0b049df96ee74a09aec3ba1f5f7bfaeb8cacbf5640cd25983c27` |
 
