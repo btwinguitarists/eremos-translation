@@ -236,7 +236,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/2samuel_18.json` | 32 | `874bfe4f6de86b71aba92568233283443f76ff169a38beea9d7d6d0e53611cf3` | `c0a92cfa` |
 | `output/translations/2samuel_19.json` | 44 | `36f2d398644541a7be415202eba51e257cc9b6d3da2fe3907a61ec19bec4e3d6` | `e651b660` |
 | `output/translations/2samuel_20.json` | 26 | `4bac9a65c770a57f863949f983fa88f58f32ee16663fa0da1eb15d23e703ed9b` | `ae1d0f09` |
-| `output/translations/2samuel_21.json` | 22 | `625950a38baf1bf4982e3b8e75c92b8f3c568e8a24c002d966212b4d32110ada` | `b696d424` |
+| `output/translations/2samuel_21.json` | 22 | `5e6759da28d8daeca5fde8fe3b10b74617eaf4e23f4386e03225e5b426078a89` | `b696d424` |
 | `output/translations/2samuel_22.json` | 51 | `fe8dc5b868c6062647b96880fe36c76ce8930af6d5efc49ad990e99b107c4986` | `b90dc109` |
 | `output/translations/2samuel_23.json` | 39 | `250bce9055f9874d6cd719954c1c3bbebe3f52ff3651631b177b42130fd2e06b` | `0a768932` |
 | `output/translations/2samuel_24.json` | 25 | `5ae7d6998c2c2f29f28d3ba7753462bc25e4b96ec6d9e7f863f6f93e0844ab1f` | `26b76184` |
