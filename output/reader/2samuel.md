@@ -2464,7 +2464,7 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 **34** เอลีเฟเลทบุตรของอาฮัสบัยบุตรของชาวมาอาคา เอลีอามบุตรของอาฮีโทเฟลชาวกิโลห์
 
-> _บริบท: **เอลีอาม:** บุตรของอาฮีโทเฟล (ที่ปรึกษาที่ทรยศ!) + ปู่ของบัทเชบา_
+> _บริบท: **เอลีอาม:** บุตรของอาฮีโทเฟล (ที่ปรึกษาที่ทรยศ!) + อาจเป็นบิดาของบัทเชบา (ดู 11:3)_
 
 **35** เฮสรัยชาวคารเมล ปาอารัยชาวอารบี
 
@@ -2604,7 +2604,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/2samuel_01.json` | `4436b111030cd7993518d67c7195faed984bbc10d386b8df2db72ba84ef97479` |
+| `output/translations/2samuel_01.json` | `08dcb70213c0496bf30f6c957a56932c85cd2ecfb0b7244fcaf4950403f859dd` |
 | `output/translations/2samuel_02.json` | `cbf9f9b61816796ca4666e9d40d048162e8af288038e07803bda1d54cf1ea787` |
 | `output/translations/2samuel_03.json` | `f40abafe9d0f75891a1e1b9bd6a5c3fb70d1e791ee2b8856e376573c72906192` |
 | `output/translations/2samuel_04.json` | `76c934dc58461ad629e82f8e88f5d7981b72ce2c96e77c14495b5f076123ef0a` |
@@ -2612,7 +2612,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/2samuel_06.json` | `b665f2b3f42669845e5802ed97433323ca4d4252e7327066be78c11b39ff38d9` |
 | `output/translations/2samuel_07.json` | `dbd7ed52ab3373a042af5f0f2b28d4d0d16235248d5bc53c49eaee667c34fecd` |
 | `output/translations/2samuel_08.json` | `56183a899e1cb6f0a88e7d7bd42d84c3784e6a11c32c20a0cce64cfaaf488a43` |
-| `output/translations/2samuel_09.json` | `788157cee7032f1deb05eda4a251f086a9621f69b50afc7ba62affefde9393dd` |
+| `output/translations/2samuel_09.json` | `11a7540fe4ce21420d485b39e736c032c7110161bb2ca64c078188f7ab62da56` |
 | `output/translations/2samuel_10.json` | `9d7b1f91dc313e48c4cf473fd07581aa6239ad2358d93363cf0df658e3c201ff` |
 | `output/translations/2samuel_11.json` | `0c13381401750bfd35c0884d49c6b1b4292308685c1b8d9d0a12b9719f91dda0` |
 | `output/translations/2samuel_12.json` | `0f64da4c74b0048de29829e538aeb5842a85b7a1d9c7a59c07d8c4c271951d2f` |
@@ -2626,6 +2626,6 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/2samuel_20.json` | `4bac9a65c770a57f863949f983fa88f58f32ee16663fa0da1eb15d23e703ed9b` |
 | `output/translations/2samuel_21.json` | `5e6759da28d8daeca5fde8fe3b10b74617eaf4e23f4386e03225e5b426078a89` |
 | `output/translations/2samuel_22.json` | `fe8dc5b868c6062647b96880fe36c76ce8930af6d5efc49ad990e99b107c4986` |
-| `output/translations/2samuel_23.json` | `250bce9055f9874d6cd719954c1c3bbebe3f52ff3651631b177b42130fd2e06b` |
+| `output/translations/2samuel_23.json` | `8c1193db610f7411d7a89f5bade9e8dc71f96fc2b01482e7ff9b3b83fcdd2949` |
 | `output/translations/2samuel_24.json` | `5ae7d6998c2c2f29f28d3ba7753462bc25e4b96ec6d9e7f863f6f93e0844ab1f` |
 
