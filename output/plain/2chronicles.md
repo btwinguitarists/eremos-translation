@@ -2161,7 +2161,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/2chronicles_31.json` | `02fd14b9bb0abd8b5fb5b76c50bbb83aba832dbef696211a06504277d9d44bad` |
 | `output/translations/2chronicles_32.json` | `ae168a5429cdc461a4cae6656efd4a514a6476e440df255ca8b51df54570e1d1` |
 | `output/translations/2chronicles_33.json` | `6f65eb3d980f3c3d6f32c09567f2926a8e1cac71a674cf1d14a038b03c01ccf2` |
-| `output/translations/2chronicles_34.json` | `6f1c3e58b8f73e684658504a7a4331d2622fd030f00743afd68a9806a8758aa1` |
+| `output/translations/2chronicles_34.json` | `a92ab75ce3568b9810f6620fca1a6de92ff9d968cf664cc299b2a74c8934713f` |
 | `output/translations/2chronicles_35.json` | `307df47c103e5f13dbb472ec6de002957b2e9376faf1d1f351608dabda785a5c` |
 | `output/translations/2chronicles_36.json` | `315db248ba6629fca95296becaae5e20ffe6fb921060b889b0ff2b0aac71a656` |
 
