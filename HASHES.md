@@ -103,7 +103,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/1samuel_05.json` | 12 | `dc2c96b19f52653b435709877bc4aab6d9d1d71f973942d0cf4c78339a775d79` | `e64a8407` |
 | `output/translations/1samuel_06.json` | 21 | `bd771a52aa5d19ecc1da86ad17d357d90b4b6ba6a6ef9d2703f39c24cb1137b9` | `e64a8407` |
 | `output/translations/1samuel_07.json` | 17 | `65c8851ec672ca74624013c7375a2fcae87b9294e99f599783a76482ba982bec` | `f6bc480f` |
-| `output/translations/1samuel_08.json` | 22 | `b8ee8d62a9c014f112bb72e399d1afd13e3180a5f07ec95afc64912f09c10349` | `e64a8407` |
+| `output/translations/1samuel_08.json` | 22 | `ffc6a311855c783dd034161f22b85232394c9773be9e0996e0b666dc2e228885` | `e64a8407` |
 | `output/translations/1samuel_09.json` | 27 | `b417c624d5f4120584a283b8c362010daa20156b08e8cac824608256cd69cd79` | `64eead45` |
 | `output/translations/1samuel_10.json` | 27 | `97782cccbe444d5b0e46239ff5aaebf773110031c9dace87e613378e19d8e016` | `e6222c55` |
 | `output/translations/1samuel_11.json` | 15 | `1d396ce521d2c50af9f641828cc2757cc6cef1f354cdbde797c2482b9d6b92ca` | `e6222c55` |
