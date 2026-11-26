@@ -788,7 +788,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/judges_18.json` | 31 | `1c444c20f6f5342db19c02773f72a6b82cde7a2b42c98c8c2c2938806a7bfe81` | `4e71a682` |
 | `output/translations/judges_19.json` | 30 | `b24f25899406f725a3730bfb22360b0ec43084c15cd82476767eed70ab9d691d` | `51c9f1cc` |
 | `output/translations/judges_20.json` | 48 | `e469c214108716a2c579208f510e29c79f4b511203ae51b10d556f2307bf48e5` | `51c9f1cc` |
-| `output/translations/judges_21.json` | 25 | `6bf24acbe7b9e93aa4423160c7888eeba24083f29bddfac0040b61cfec143f5e` | `51c9f1cc` |
+| `output/translations/judges_21.json` | 25 | `ed59af33099193c5c1cfe7e1abe8a71fd953cfbdec163b0359784055aa7123f1` | `51c9f1cc` |
 | `output/translations/lamentations_01.json` | 22 | `ebc3f9e1122694f53a00cfee1491bfe5a6d82feae386503bc61e9aeb658f4719` | `15cc600c` |
 | `output/translations/lamentations_02.json` | 22 | `5317e212a19132f2beb72c8094c91d778072c394501e33a124ae29082e4d329e` | `9accebc7` |
 | `output/translations/lamentations_03.json` | 66 | `230ffc5e7e8c50adcd9b16777b8512e793f709098b263e1a831c9a4ae6358c1d` | `082c3eb0` |
