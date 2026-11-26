@@ -718,12 +718,12 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/joel_02.json` | 27 | `284de88cc40f192a8deee458430061454cc6986c4e8c82e0def719962c3fc149` | `d3834acf` |
 | `output/translations/joel_03.json` | 5 | `7e0fa549a93233b8f7f5439cfc285dd22db3763b3317473691153f18f65081b9` | `d928df45` |
 | `output/translations/joel_04.json` | 21 | `7e11aa39c4b2214f59c23591f15fbf5581fbd6a3a32e4da6d7f3a06e8e9d5da9` | `29c6a93b` |
-| `output/translations/john_01.json` | 51 | `5821691ad19256e4b64c8e23adeae629c6c11d8dc52fa9be3b0085f1b0fbe4a3` | `22fa6385` |
+| `output/translations/john_01.json` | 51 | `26ec05d3a06ba3489548e26e7aa487d1f8123b0db65fb69fa11c641167a38ff6` | `22fa6385` |
 | `output/translations/john_02.json` | 25 | `bb271000570347bc9ed37ed42e8643fb8c53bd6ef600a8050fc796bc3df31b0c` | `d03c3a1a` |
 | `output/translations/john_03.json` | 36 | `9756cc2028ca430485e586eba215c7d0435d5c33e8a671f8e974b1617450c50f` | `d03c3a1a` |
 | `output/translations/john_04.json` | 54 | `4e8b0a9e35db29690117d74735167d5c6f220ba8dabf36429c124140a66b7626` | `d03c3a1a` |
-| `output/translations/john_05.json` | 46 | `cd270b1af7b43eb02c82a1e21e4c446c8a54b267293881d9d38895aef8933ced` | `d03c3a1a` |
-| `output/translations/john_06.json` | 71 | `516b65c47c82673dc538e9b06165ef4762e34a0d302c443edb33a56b110c3488` | `d03c3a1a` |
+| `output/translations/john_05.json` | 46 | `35a4fc25a2f71885c58040b86f2e281a4cdbbbf73c4ad9da87dd07c55e59242e` | `d03c3a1a` |
+| `output/translations/john_06.json` | 71 | `60a3a393499c76c731d596d2654a18c477d5ec860a9cf76d84abac0e6b4af6ce` | `d03c3a1a` |
 | `output/translations/john_07.json` | 53 | `1e84a021edabe8ff6552f8a6cc13e7f469d003b2ef669e8fc4d71ee8c9a609ec` | `d03c3a1a` |
 | `output/translations/john_08.json` | 59 | `6ab1bb1293db82b10afa2f82cfc30db2746dd699c8c6f2a1c33f7851bfc023a8` | `d03c3a1a` |
 | `output/translations/john_09.json` | 41 | `04338a6b45c75ea82b40660eeccf259b7bb5ed6c67f35e00494681d4209ff528` | `d03c3a1a` |
