@@ -733,7 +733,7 @@ _**ชนชาติแห่งสมบัติล้ำค่า (עַם ס
 
 **7** เพราะองค์พระผู้เป็นเจ้าพระเจ้าของเจ้ากำลังนำเจ้าเข้าไปในแผ่นดินอันดี เป็นแผ่นดินของลำธาร น้ำพุ และตาน้ำที่ไหลผ่านหุบเขาและภูเขา
 
-> _บริบท: **คำพรรณนาแผ่นดินคำสัญญา (vv.7–9).** เจ็ดประการ: น้ำ + ข้าวสาลี + ข้าวบาร์เลย์ + เถาองุ่น + มะเดื่อ + ทับทิม + มะกอก + น้ำผึ้ง + เหล็ก + ทองแดง._
+> _บริบท: **คำพรรณนาแผ่นดินคำสัญญา (vv.7–9).** น้ำ (v.7) + ผลผลิตเจ็ดประการ (v.8: ข้าวสาลี + ข้าวบาร์เลย์ + เถาองุ่น + มะเดื่อ + ทับทิม + น้ำมันมะกอก + น้ำผึ้ง) + เหล็กและทองแดง (v.9)._
 
 **8** เป็นแผ่นดินของข้าวสาลี ข้าวบาร์เลย์ เถาองุ่น ต้นมะเดื่อ และทับทิม เป็นแผ่นดินของน้ำมันมะกอกและน้ำผึ้ง
 
@@ -3151,11 +3151,11 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/deuteronomy_01.json` | `7f01a37ad00205416ba43ccebea7313ec29070a381e228d8990772452696c686` |
 | `output/translations/deuteronomy_02.json` | `6fccd8efbc81ff508cb043f3e04b6ad592b81666bec86aa4dad9b1dd06dc0771` |
 | `output/translations/deuteronomy_03.json` | `58fc924fa5ae97ede92adceeca7c67915c3e0dd9b59232230a62f5a995eb6801` |
-| `output/translations/deuteronomy_04.json` | `aa25cd362af9c06ba15c1d97a4ea7e9fbd274a2cfc12513fcecde74cf111e514` |
+| `output/translations/deuteronomy_04.json` | `0e83dd4ad002f63d1c3a28ff1b9eedc5f66be47618c566e63084f27c5196f9cb` |
 | `output/translations/deuteronomy_05.json` | `811889fb7752d036203e5837247d3444221f982838a799f6771471f61dd0b64b` |
 | `output/translations/deuteronomy_06.json` | `71a7045d550a0fbf1064c03f00dd539b0aa1dbe179b928e15d3a7be9406de235` |
 | `output/translations/deuteronomy_07.json` | `70a78c538bf280057de3612aec9aa43779d17f58ab9f008c80599218ce30cd89` |
-| `output/translations/deuteronomy_08.json` | `85ab294440478b25d2a428668138b29332882e2cfdfbb8688c2f283181cd88ea` |
+| `output/translations/deuteronomy_08.json` | `d67c25b70ab763e21ef3d0f53bd4ff87960f99487365bcd267a9bab378472618` |
 | `output/translations/deuteronomy_09.json` | `065a004fc2aae859325a16ef0e2cdad9121e7e0da9b3bc732d961a2e6ea8ab54` |
 | `output/translations/deuteronomy_10.json` | `0dc2b6e30051a59060978ed27639b703a4b7ecc7dc84c4675694095166dfe282` |
 | `output/translations/deuteronomy_11.json` | `e8c9e81262b43bc545e2985ece7eb3024f062301560740c2f956ab507d6ec5d9` |
