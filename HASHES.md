@@ -176,13 +176,13 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/2chronicles_36.json` | 23 | `315db248ba6629fca95296becaae5e20ffe6fb921060b889b0ff2b0aac71a656` | `e64a8407` |
 | `output/translations/2corinthians_01.json` | 24 | `8cfb3498c486412fda8ecd784d17bf958f40650f58e9e6fafddf7a4c6b345ca4` | `d03c3a1a` |
 | `output/translations/2corinthians_02.json` | 17 | `50dd94b5662de9add4e0680c7f4f5d1db0fe997380613b1cad445807c4cadd2a` | `d03c3a1a` |
-| `output/translations/2corinthians_03.json` | 18 | `072d21555da03d88d556270f3e020f61b1cfefec7db144d621b46c0860f80c52` | `b64d4872` |
+| `output/translations/2corinthians_03.json` | 18 | `d35a5aa6dafbc869313ba20b125eb56905e4318966aa60ac2b2c6bbec427a92a` | `b64d4872` |
 | `output/translations/2corinthians_04.json` | 18 | `48131cb80405f98b182bbfab1c97609a874a08b9a7ad35cf2e1b987e03b48116` | `7040ad9f` |
 | `output/translations/2corinthians_05.json` | 21 | `e2452a34d40b0fd0ce3c4cbc0d0a70dbf6fd6267f9d206904b58c2dec293330b` | `cf6bd38f` |
 | `output/translations/2corinthians_06.json` | 18 | `ae48df81325a8e1d4e2c9615163e083885323658b943a468f2ee5d85f95d82a9` | `cf6bd38f` |
-| `output/translations/2corinthians_07.json` | 16 | `86bd41338d240a0452ef8d74300a098e1ab55427b464361e7940eae446e769c9` | `cf6bd38f` |
+| `output/translations/2corinthians_07.json` | 16 | `0f71ec26ba919a32ca570f9a9aa1bd5ead6332472584b4a6cb9d09fe587e96b6` | `cf6bd38f` |
 | `output/translations/2corinthians_08.json` | 24 | `cd7d7a8c69e35ad0788d6d0c2edb8fcfdf08108241abe4309dba54a9575139a5` | `cf6bd38f` |
-| `output/translations/2corinthians_09.json` | 15 | `54df7c9cafa31ad0e09b3403eab41a6658abcd6284d76ffed1b4aa9ca2a78b21` | `cf6bd38f` |
+| `output/translations/2corinthians_09.json` | 15 | `3d752569fb851af4fff1e15e2f38dc3361f4712078fa7b916d394fa49f4aaa63` | `cf6bd38f` |
 | `output/translations/2corinthians_10.json` | 18 | `fe8bfafcdd59630524cd85b94852725030697ad091514b85a7ed055a593a23a2` | `cf6bd38f` |
 | `output/translations/2corinthians_11.json` | 33 | `a5caf84fe98e4ff76ff7a9a1d6055f00703abd4a5fc68ebc0ab89670beed7b5a` | `cf6bd38f` |
 | `output/translations/2corinthians_12.json` | 21 | `aca4492cc393372367d40d5dce4bee1e1d066a04b6f022f0d964492dc0439a9a` | `cf6bd38f` |
