@@ -3040,7 +3040,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/joshua_01.json` | `f2b13e2f4a5b8078195f080e9290af85296c74994d04b7292df56515447a459f` |
 | `output/translations/joshua_02.json` | `e3b9c17cd34b7da9c319d9c6fceb50fd11ec7afcb3d9af7fb2787bd3eecf9c74` |
 | `output/translations/joshua_03.json` | `c5946cc5df1bc72bf2f92e8edda1ada08d00a417fce4659dbda5b4988be3785c` |
-| `output/translations/joshua_04.json` | `93066a8c73fa0e085d63446eba4846d71de3a9c5af326eed624251db416498d0` |
+| `output/translations/joshua_04.json` | `ba7a611781cc3cc829e905a64e088b76ed6ea20dc8fc9ea07f4979366fd41a63` |
 | `output/translations/joshua_05.json` | `0185f5b0802cad719aa9da2c5c29c3f5e099d2e5d6404a9ad124545e63830bb6` |
 | `output/translations/joshua_06.json` | `600073b57ad0f00e47ead7dc978bd1c4100c6f5a332d6248ffe3298dc205a55b` |
 | `output/translations/joshua_07.json` | `6f2d215e710478a2a614e8469303c9600958a0e7109e1e29a7ec23c8cbe2d38b` |
