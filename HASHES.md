@@ -1179,7 +1179,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/ruth_01.json` | 22 | `f916ec349dc77d910c42e2cf289a15d57a37b2e3ca3e9e28a225e9ee5838c6a4` | `7040ad9f` |
 | `output/translations/ruth_02.json` | 23 | `d7c90c4a5c4fd7953055205d7a258b8b13c6941686d2c2e89753892cdd8c604e` | `d03c3a1a` |
 | `output/translations/ruth_03.json` | 18 | `877604aff22d3b2caed53e65ff4ae2c5bc716c5671eb1fcd71168b68b8809480` | `d03c3a1a` |
-| `output/translations/ruth_04.json` | 22 | `d5adc71eac56efc9d81d738bdaef86c022c3e3d2a293b06bfee4c3018cc2ea6b` | `d03c3a1a` |
+| `output/translations/ruth_04.json` | 22 | `f975730afa61dfd1e68826da3ba2c283c9dc3352c7e2740e6718c095a4bc7f0b` | `d03c3a1a` |
 | `output/translations/songofsongs_01.json` | 17 | `2cc399dacf9df716f83cd5aec91d438ecdb5145ed10d046d651bf2c6142ede0f` | `7049fc4d` |
 | `output/translations/songofsongs_02.json` | 17 | `b77665ea32758775f9e06f5cc948c406006f659f98d3b79264521cc5990e2ab9` | `6cc5f683` |
 | `output/translations/songofsongs_03.json` | 11 | `7e89e9623a7ce15f0bed1c76afb2f08ce2699c600e3e5544b1a46c3521f5b0b0` | `28939a8c` |
