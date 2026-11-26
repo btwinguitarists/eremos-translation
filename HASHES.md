@@ -313,7 +313,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/deuteronomy_10.json` | 22 | `0dc2b6e30051a59060978ed27639b703a4b7ecc7dc84c4675694095166dfe282` | `7040ad9f` |
 | `output/translations/deuteronomy_11.json` | 32 | `e8c9e81262b43bc545e2985ece7eb3024f062301560740c2f956ab507d6ec5d9` | `7040ad9f` |
 | `output/translations/deuteronomy_12.json` | 31 | `fc02769c05df8e125c84be819f0ae223d790b052577c46fb5882f8a872aa60e0` | `8637b953` |
-| `output/translations/deuteronomy_13.json` | 19 | `07c6c2978d3c3c281b16dc71b2d658726cdeb9ad5961950e0892bc46207b1cf1` | `5f092152` |
+| `output/translations/deuteronomy_13.json` | 19 | `7d9cb6a34ed235032424057f5249de157d81b06401eef03468fdfb45bb3b9db3` | `5f092152` |
 | `output/translations/deuteronomy_14.json` | 29 | `f86acb39a8775cf1a790a6ab888250f0fed2d3b01cebc860d36bb2e3e3a48159` | `7040ad9f` |
 | `output/translations/deuteronomy_15.json` | 23 | `f91d6dfc5fef598893e8d6534f6f7f732e4b849299b7b05e8419ced19c3eb52d` | `bf7847f2` |
 | `output/translations/deuteronomy_16.json` | 22 | `4590fa3663a745cad79a9ee86fe85ae4a30ac32a9a33b5357f70607040efcf9a` | `7040ad9f` |
@@ -330,7 +330,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/deuteronomy_27.json` | 26 | `2198347190580332eba285a28411400010814adee70380b6383cc9928b1d390c` | `7040ad9f` |
 | `output/translations/deuteronomy_28.json` | 69 | `f6cc034068531a9ab6518f3a98a5e1b975484e423ab593e15d8823c5bc074521` | `ebd320cd` |
 | `output/translations/deuteronomy_29.json` | 28 | `3fd1184ebc6f5f6d70a3cce19f4bf44f98e4ee947f0146a7eace365470c355cf` | `7040ad9f` |
-| `output/translations/deuteronomy_30.json` | 20 | `eb4a251fd4f1b05bde69770e277630abd0399de84df93d1b47aba9d304e69c34` | `7040ad9f` |
+| `output/translations/deuteronomy_30.json` | 20 | `334725af1296572aeacb763387c4cd15e431d53f0c6a248570a82712e8a5fde5` | `7040ad9f` |
 | `output/translations/deuteronomy_31.json` | 30 | `b33e24e46ac78725dc7b8e9c348386c4ab0d46da16f1c09157388b53cf155d30` | `2b1853d4` |
 | `output/translations/deuteronomy_32.json` | 52 | `a067e35761bc5efea65a111f9c03cefd3d0cdc4e9f738a33f665ca804079f878` | `c780805b` |
 | `output/translations/deuteronomy_33.json` | 29 | `02932f4f3325889d060e90b5c9d4a4150451246e4c1713a89cb95bf94c2d5909` | `69c7f5a2` |

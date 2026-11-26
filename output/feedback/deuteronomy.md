@@ -4636,7 +4636,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/deuteronomy_10.json` | `0dc2b6e30051a59060978ed27639b703a4b7ecc7dc84c4675694095166dfe282` |
 | `output/translations/deuteronomy_11.json` | `e8c9e81262b43bc545e2985ece7eb3024f062301560740c2f956ab507d6ec5d9` |
 | `output/translations/deuteronomy_12.json` | `fc02769c05df8e125c84be819f0ae223d790b052577c46fb5882f8a872aa60e0` |
-| `output/translations/deuteronomy_13.json` | `07c6c2978d3c3c281b16dc71b2d658726cdeb9ad5961950e0892bc46207b1cf1` |
+| `output/translations/deuteronomy_13.json` | `7d9cb6a34ed235032424057f5249de157d81b06401eef03468fdfb45bb3b9db3` |
 | `output/translations/deuteronomy_14.json` | `f86acb39a8775cf1a790a6ab888250f0fed2d3b01cebc860d36bb2e3e3a48159` |
 | `output/translations/deuteronomy_15.json` | `f91d6dfc5fef598893e8d6534f6f7f732e4b849299b7b05e8419ced19c3eb52d` |
 | `output/translations/deuteronomy_16.json` | `4590fa3663a745cad79a9ee86fe85ae4a30ac32a9a33b5357f70607040efcf9a` |
@@ -4653,7 +4653,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/deuteronomy_27.json` | `2198347190580332eba285a28411400010814adee70380b6383cc9928b1d390c` |
 | `output/translations/deuteronomy_28.json` | `f6cc034068531a9ab6518f3a98a5e1b975484e423ab593e15d8823c5bc074521` |
 | `output/translations/deuteronomy_29.json` | `3fd1184ebc6f5f6d70a3cce19f4bf44f98e4ee947f0146a7eace365470c355cf` |
-| `output/translations/deuteronomy_30.json` | `eb4a251fd4f1b05bde69770e277630abd0399de84df93d1b47aba9d304e69c34` |
+| `output/translations/deuteronomy_30.json` | `334725af1296572aeacb763387c4cd15e431d53f0c6a248570a82712e8a5fde5` |
 | `output/translations/deuteronomy_31.json` | `b33e24e46ac78725dc7b8e9c348386c4ab0d46da16f1c09157388b53cf155d30` |
 | `output/translations/deuteronomy_32.json` | `a067e35761bc5efea65a111f9c03cefd3d0cdc4e9f738a33f665ca804079f878` |
 | `output/translations/deuteronomy_33.json` | `02932f4f3325889d060e90b5c9d4a4150451246e4c1713a89cb95bf94c2d5909` |
