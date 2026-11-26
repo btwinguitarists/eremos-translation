@@ -1258,7 +1258,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**19** โมเสสได้ให้ธรรมบัญญัติแก่พวกท่านมิใช่หรือ? แต่ไม่มีผู้ใดในพวกท่านทำตามธรรมบัญญัตินั้นเลย เหตุใดท่านจึงหาทางจะฆ่าเรา?
+**19** โมเสสได้ให้ธรรมบัญญัติแก่พวกท่านมิใช่หรือ? แต่ไม่มีผู้ใดในพวกท่านทำตามธรรมบัญญัตินั้นเลย เหตุใดพวกท่านจึงหาทางจะฆ่าเรา?”
 
 > ___
 
@@ -3636,7 +3636,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/john_04.json` | `4e8b0a9e35db29690117d74735167d5c6f220ba8dabf36429c124140a66b7626` |
 | `output/translations/john_05.json` | `35a4fc25a2f71885c58040b86f2e281a4cdbbbf73c4ad9da87dd07c55e59242e` |
 | `output/translations/john_06.json` | `60a3a393499c76c731d596d2654a18c477d5ec860a9cf76d84abac0e6b4af6ce` |
-| `output/translations/john_07.json` | `1e84a021edabe8ff6552f8a6cc13e7f469d003b2ef669e8fc4d71ee8c9a609ec` |
+| `output/translations/john_07.json` | `424102541c08fb86c769cb2e795d8739038c9f6190e26d6659cd16448063048e` |
 | `output/translations/john_08.json` | `6ab1bb1293db82b10afa2f82cfc30db2746dd699c8c6f2a1c33f7851bfc023a8` |
 | `output/translations/john_09.json` | `04338a6b45c75ea82b40660eeccf259b7bb5ed6c67f35e00494681d4209ff528` |
 | `output/translations/john_10.json` | `f878cde0f49d35383f1439f85f91c65f53a3684e9c8f06fd76eb5235a8f066e6` |
