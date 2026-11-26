@@ -496,7 +496,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/genesis_27.json` | 46 | `edf4b750a8b29b2c074658baa4d80fbbe28ddf2333aa26c04e0ffc2fbda4da8d` | `f6ace63b` |
 | `output/translations/genesis_28.json` | 22 | `ec7216660065f3b494ce939f53c7a86a6e1ff6c3cb84db3b82d6bd43df140851` | `7040ad9f` |
 | `output/translations/genesis_29.json` | 35 | `3eced5e17dcc9dc75a0c44fb187bf167c95da3f16723d16b4dd1b83eaaacf9b5` | `7040ad9f` |
-| `output/translations/genesis_30.json` | 43 | `fb7f9d753dc494b1f22e600fb693c3e674ca9c490cb8a5c047b3a0656e77d2e3` | `7040ad9f` |
+| `output/translations/genesis_30.json` | 43 | `03f7268ab8ded17bb312453536561eebde8c73bae3cd3e0f3f7c8229933f8cf8` | `7040ad9f` |
 | `output/translations/genesis_31.json` | 54 | `a3e052a2629a510a0c212592db7a522fa0bea9c3cdb66d7e6f73182ab2e926c8` | `f6ace63b` |
 | `output/translations/genesis_32.json` | 33 | `12fda08d7db9f589ec47d78ad7f0cc7ad77e263d7190706df3222ea1d617a996` | `7040ad9f` |
 | `output/translations/genesis_33.json` | 20 | `00abf556eb7457ab41d5f8a6c484c38184a0dc48d73764ed661caeba88a93049` | `7040ad9f` |
@@ -507,7 +507,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/genesis_38.json` | 30 | `bb8b45ea327dbcd5505eed0ae0690adaf4bbef340d431cc798986439603b1776` | `7040ad9f` |
 | `output/translations/genesis_39.json` | 23 | `8ded5a9643bd6d4ababc651ad8df245dfc215a04072db9f8d790d854caf8a14b` | `7040ad9f` |
 | `output/translations/genesis_40.json` | 23 | `320c4f3ebf9435f0789fafb07c9f0972c4dd00eeeeb145ceb1714ac80ff8a90f` | `7040ad9f` |
-| `output/translations/genesis_41.json` | 57 | `7487a03b9d9f8ccdf55a931ff22eb9ce2b7d87d7df159d53dd9f3f4bc2871da1` | `7040ad9f` |
+| `output/translations/genesis_41.json` | 57 | `a4b0d50504369e55e085f28fa690b093c958a62b7f9c6889d8c610aedd84201f` | `7040ad9f` |
 | `output/translations/genesis_42.json` | 38 | `9f18a64f70762fcd1727c38933623b89fd6bc842afacbcfdbff15d6ec4d0f7d4` | `f6ace63b` |
 | `output/translations/genesis_43.json` | 34 | `f2172a2ec9be46a68e25bfd48e6aec8801e2ed094e6931debdb9109bcb23df56` | `f6ace63b` |
 | `output/translations/genesis_44.json` | 34 | `27ee3d5ffd23a8978fa917e662de9bdd8d0207d75469cfc7e7ed8f846ae10dc7` | `f6ace63b` |
