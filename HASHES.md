@@ -853,7 +853,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/mark_03.json` | 35 | `b2a80434b5ce9f851023ebef90a5d6412b052666e1f0835e4c963cb8a595137c` | `d03c3a1a` |
 | `output/translations/mark_04.json` | 41 | `5522f5bb6d97fb9434d0c0d9c29153407049e152aa92e32f14baeb19d4ab5c72` | `d03c3a1a` |
 | `output/translations/mark_05.json` | 43 | `4b3827a5ba6551d9f2534b97d648f66f37432e2ef9571981407890935b505363` | `d03c3a1a` |
-| `output/translations/mark_06.json` | 56 | `838251c40aec91f61ce999809ef21348a9b3d8e1ef79124a61b86364353934d9` | `d03c3a1a` |
+| `output/translations/mark_06.json` | 56 | `1febab1ee5aa0a2c89312de189f78a9be57c5b908ffadf73d74f2bc7c2b28540` | `d03c3a1a` |
 | `output/translations/mark_07.json` | 36 | `902774f184a7bc4ac1ca17d48600eb12fd3ac200ddebaa24bb8980db929a96c8` | `d03c3a1a` |
 | `output/translations/mark_08.json` | 38 | `ecdd1b49c3f0355cda2ff1bf6fc6db890b6f1f1001a66ab37bc08447accabb10` | `d03c3a1a` |
 | `output/translations/mark_09.json` | 48 | `7a338c6eceac220b2571929ad7c585796c5e24d232ae003fb2dcaf47d1723425` | `d03c3a1a` |
@@ -861,7 +861,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/mark_11.json` | 32 | `e2cabb40eff015fd60a1386d6c60248755e3c98bcafdd79cfed9ecb5fadd51ac` | `d03c3a1a` |
 | `output/translations/mark_12.json` | 44 | `432abd1f47be9ad2cc6805f41f2abdd7dfa19333764a3965579b9d1432801029` | `d03c3a1a` |
 | `output/translations/mark_13.json` | 37 | `4d75f8dd441e7c3de6e5dd4e1c7e08838ea5b6a29e552b32ccf95a8fde74b7a7` | `6d15bb1a` |
-| `output/translations/mark_14.json` | 72 | `cfa007dea4597615ab5b1c8b97808206ba38b3a919e72aec0497c306149eca2f` | `d03c3a1a` |
+| `output/translations/mark_14.json` | 72 | `a721b0209b215586b4810ba43a07ada1d4646fbdf77c0fadc5c15733c89d2fb2` | `d03c3a1a` |
 | `output/translations/mark_15.json` | 46 | `50505ba5b8bb11f227d053bb2048133f166e448553b6f7b0f35a595485806c8f` | `cf6bd38f` |
 | `output/translations/mark_16.json` | 20 | `857cd550c3616777d5aab147e0d77cfe3dbb58a6435c8b8b3cc90969976a0f70` | `6d15bb1a` |
 | `output/translations/matthew_01.json` | 25 | `8756fde5fbacccc2a9c0645ca63c54cb8886f29c340ff5710af18253d96b8d52` | `d03c3a1a` |
