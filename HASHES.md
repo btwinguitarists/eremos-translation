@@ -263,8 +263,8 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/acts_13.json` | 52 | `42f28578996b5879a5d11451f2118abe5275ef0b56ae6652b2486a11aa0cda5e` | `d03c3a1a` |
 | `output/translations/acts_14.json` | 28 | `59da9d26e8a2aedf9a223bd41b6a16fe1ec3ca259af694eed93c717aff4186e7` | `d03c3a1a` |
 | `output/translations/acts_15.json` | 40 | `cc389990e3c0bbb3a35c7c94a885070d50638edaed848cd2bd903b9845606ed2` | `d03c3a1a` |
-| `output/translations/acts_16.json` | 40 | `3c179696a81276b1c02cbb831d8ce82b1c921afd251c09f66cd4f4355b7ac425` | `d03c3a1a` |
-| `output/translations/acts_17.json` | 34 | `97107a5c72abfae09d45e521389ed1f1bd598aa903d8a092a626b79bcd48af6b` | `7040ad9f` |
+| `output/translations/acts_16.json` | 40 | `54593e69b6a3458e04af9a6a28aa9452b263b2b5df6d7d559c933f150f6a4114` | `d03c3a1a` |
+| `output/translations/acts_17.json` | 34 | `c4c34be2a8285bd04e96d8e97ece0e0f63bea1451ba74e705eb965173f2a6e68` | `7040ad9f` |
 | `output/translations/acts_18.json` | 28 | `dbb1869923a48f3eeb6f6e5d2e9cbaa9caf3550380254011524178b12a299acf` | `d03c3a1a` |
 | `output/translations/acts_19.json` | 40 | `0db2d6cdf26860939d4c374fecd858f67b9390d55cac3942563be0043ab46108` | `982b79de` |
 | `output/translations/acts_20.json` | 38 | `8d94a08107f22c1e8dcb961d4c7492f873a22c35f93b8f60e5cfc7b952210216` | `6d15bb1a` |
@@ -275,7 +275,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/acts_25.json` | 27 | `252ab77d74dc1b284640bc616687a37624e1b42e992b360b012a993d6d651f3b` | `6d15bb1a` |
 | `output/translations/acts_26.json` | 32 | `82dff75613fbff27d4f13a42985bb475f5eea0ec6fa118d68edf2f660dd10120` | `d03c3a1a` |
 | `output/translations/acts_27.json` | 44 | `88ad50dc2fb3d14f03e82e4beb3bfd0aa88e6d77cad427102174d1f1b9b36930` | `d03c3a1a` |
-| `output/translations/acts_28.json` | 30 | `569141221bc04e6918acc771297fa4c448dae9aedcd66217aa8e36600c97cb23` | `d03c3a1a` |
+| `output/translations/acts_28.json` | 30 | `e64bd7baaf7fb6e18ad9eb602773de67ab4fde665e0e492078154e2088deaa2c` | `d03c3a1a` |
 | `output/translations/amos_01.json` | 15 | `cc01f942330ba305a23a6caabaafca82677b55826a60c1aba65b6a5e684a141c` | `c25f2dc2` |
 | `output/translations/amos_02.json` | 16 | `175e45c684491a4840d73e55d8e1fdf1c735e29210246005a7ce6d7966cdd488` | `58f3a560` |
 | `output/translations/amos_03.json` | 15 | `bb6360d24081a2b6d6114d7be3106bc95ba96bfc40a4c0f9aab38281647f9cc0` | `c25f2dc2` |

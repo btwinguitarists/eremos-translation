@@ -2374,7 +2374,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**14** มีสตรีคนหนึ่งชื่อลิเดีย ชาวเมืองธิอาทิรา เป็นพ่อค้าผ้าสีม่วง เป็นผู้ยำเกรงพระเจ้า กำลังฟังอยู่ องค์พระผู้เป็นเจ้าทรงเปิดใจของนางให้ใส่ใจในถ้อยคำที่เปาโลกล่าว
+**14** มีสตรีคนหนึ่งชื่อลิเดีย ชาวเมืองธิอาทิรา เป็นผู้ขายผ้าสีม่วง เป็นผู้ยำเกรงพระเจ้า กำลังฟังอยู่ องค์พระผู้เป็นเจ้าทรงเปิดใจของนางให้ใส่ใจในถ้อยคำที่เปาโลกล่าว
 
 > ___
 
@@ -2558,7 +2558,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**19** พวกเขาจึงนำท่านไปยังอาเรโอปากัส ทูลถามว่า “พวกเราขอทราบได้ไหมว่า คำสอนใหม่นี้ที่ท่านกำลังกล่าวคืออะไร?
+**19** พวกเขาจึงนำท่านไปยังอาเรโอปากัส แล้วถามว่า “พวกเราขอทราบได้ไหมว่า คำสอนใหม่นี้ที่ท่านกำลังกล่าวคืออะไร?
 
 > ___
 
@@ -4173,8 +4173,8 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/acts_13.json` | `42f28578996b5879a5d11451f2118abe5275ef0b56ae6652b2486a11aa0cda5e` |
 | `output/translations/acts_14.json` | `59da9d26e8a2aedf9a223bd41b6a16fe1ec3ca259af694eed93c717aff4186e7` |
 | `output/translations/acts_15.json` | `cc389990e3c0bbb3a35c7c94a885070d50638edaed848cd2bd903b9845606ed2` |
-| `output/translations/acts_16.json` | `3c179696a81276b1c02cbb831d8ce82b1c921afd251c09f66cd4f4355b7ac425` |
-| `output/translations/acts_17.json` | `97107a5c72abfae09d45e521389ed1f1bd598aa903d8a092a626b79bcd48af6b` |
+| `output/translations/acts_16.json` | `54593e69b6a3458e04af9a6a28aa9452b263b2b5df6d7d559c933f150f6a4114` |
+| `output/translations/acts_17.json` | `c4c34be2a8285bd04e96d8e97ece0e0f63bea1451ba74e705eb965173f2a6e68` |
 | `output/translations/acts_18.json` | `dbb1869923a48f3eeb6f6e5d2e9cbaa9caf3550380254011524178b12a299acf` |
 | `output/translations/acts_19.json` | `0db2d6cdf26860939d4c374fecd858f67b9390d55cac3942563be0043ab46108` |
 | `output/translations/acts_20.json` | `8d94a08107f22c1e8dcb961d4c7492f873a22c35f93b8f60e5cfc7b952210216` |
@@ -4185,5 +4185,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/acts_25.json` | `252ab77d74dc1b284640bc616687a37624e1b42e992b360b012a993d6d651f3b` |
 | `output/translations/acts_26.json` | `82dff75613fbff27d4f13a42985bb475f5eea0ec6fa118d68edf2f660dd10120` |
 | `output/translations/acts_27.json` | `88ad50dc2fb3d14f03e82e4beb3bfd0aa88e6d77cad427102174d1f1b9b36930` |
-| `output/translations/acts_28.json` | `569141221bc04e6918acc771297fa4c448dae9aedcd66217aa8e36600c97cb23` |
+| `output/translations/acts_28.json` | `e64bd7baaf7fb6e18ad9eb602773de67ab4fde665e0e492078154e2088deaa2c` |
 
