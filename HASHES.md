@@ -904,7 +904,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/nahum_03.json` | 19 | `6efe5c9364d833b147f8af638b1fbdba528edc14fc14ade56d15e471ce7fa22c` | `2152d65f` |
 | `output/translations/nehemiah_01.json` | 11 | `21fd88d60f52660f316693c96cfe1bca291ea6fb85bf52a5f398bfe6a80d7599` | `d34d7149` |
 | `output/translations/nehemiah_02.json` | 20 | `198d1629662dffce69e7096e86367204a644e489701e8160842376612bd788f8` | `8bc9e3fa` |
-| `output/translations/nehemiah_03.json` | 38 | `e70be8ccad581c8ee31f3b728f5e4a52fad4b5a8940b303db67322afe295d69e` | `29836920` |
+| `output/translations/nehemiah_03.json` | 38 | `41dad60597403bc393e430e3e47ee1d4d65b7e1fc15c5efeb63365b4fe330a6f` | `29836920` |
 | `output/translations/nehemiah_04.json` | 17 | `67fac22bd8928a4f3bde9d8eeb0dff9a1397c77837c722c615b2661be94668ce` | `a8f6ff84` |
 | `output/translations/nehemiah_05.json` | 19 | `23441a8673c8ef6a907c4b468b42c4eae2846831783f7aae17196751d1020bd8` | `ec131346` |
 | `output/translations/nehemiah_06.json` | 19 | `6ce7ef212dca4f28b08927577e7b342493167c68fa4143789f21cbef8933e4bb` | `bf079075` |
