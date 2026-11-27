@@ -93,7 +93,7 @@
         {
           "greek": "τὸν χριστὸν ἔδει παθεῖν καὶ ἀναστῆναι",
           "thai": "พระคริสต์จำเป็นต้องทนทุกข์และเป็นขึ้นจากความตาย",
-          "rationale": "Anarthrous / generic-titular χριστός = 'the Messiah' (the OT-promised one), then articular οὗτός ἐστιν ὁ χριστός in next clause = 'this one IS THE Christ'. Thai cannot easily distinguish article-usage; 'พระคริสต์' (locked title-rendering per RULES §4) covers both. ἔδει — divine necessity (Lukan-signature: LUK 24:7, 24:26, 24:44 use the same impf. of δεῖ for Christ's suffering). 'จำเป็น' captures the necessity. ἀναστῆναι ἐκ νεκρῶν = standard resurrection-formula 'เป็นขึ้นจากความตาย' (locked from MAT 17:9, 27:64, MRK 9:9-10, LUK 24:46, ACT 4:10, 13:30 etc.)."
+          "rationale": "τὸν χριστόν in the first clause is articular: Paul argues that the Messiah had to suffer and rise. The following clause identifies Jesus as this Messiah. The Greek editions differ in the articles surrounding the title and Jesus’ name in that second clause."
         },
         {
           "greek": "οὗτός ἐστιν ὁ χριστός, ὁ Ἰησοῦς ὃν ἐγὼ καταγγέλλω ὑμῖν",
@@ -101,7 +101,7 @@
           "rationale": "Word-order rearranged in Thai for natural flow. The Greek puts the demonstrative OT-prophesied subject FIRST (οὗτος = 'this one [Messiah]'), then identifies Jesus. Thai prefers Subject-Topic-first construction: 'พระเยซูผู้นี้... คือพระคริสต์' — Paul's punch-line: the man you've heard about IS the Messiah. ἐγὼ (emphatic 1sg) preserved as ข้าพเจ้า (humble-respectful self-reference for public-religious speech, matching Paul's register before mixed Jewish-Greek synagogue audience). καταγγέλλω → ประกาศ (locked verb for apostolic-proclamation, ACT 4:2, 13:5, 13:38, 15:36, 16:17, 16:21, 17:13, 17:23 etc.)."
         }
       ],
-      "notes": "Pauline kerygma in compressed form: (a) MUST-SUFFER + MUST-RISE — divine necessity from Scripture; (b) Jesus IS the Christ — identification step. Echoes the Emmaus Christology of LUK 24:25-27, 24:44-47 (the same διανοίγω verb is used). διανοίγω-Lukan-cluster: LUK 2:23 (firstborn opening womb), LUK 24:31 (eyes opened), LUK 24:32 (Scriptures opened), LUK 24:45 (minds opened), ACT 7:56 (heaven opened — Stephen), ACT 16:14 (Lydia's heart opened), ACT 17:3 here (Scriptures opened by Paul). Lukan thematic-vocabulary unit = divine-revelation moments. No hapax. No textual variant."
+      "notes": "Paul opens up the Scriptures and explains the necessity of the Messiah’s suffering and resurrection. Luke 24:7 and 24:44 use the present δεῖ; Luke 24:26 has the imperfect ἔδει, as does the necessity clause here. Robinson–Pierpont and Tregelles differ from the selected wording in the following identification clause."
     }
   },
   {
@@ -146,14 +146,14 @@
     "greek": "ζηλώσαντες δὲ οἱ Ἰουδαῖοι καὶ προσλαβόμενοι τῶν ἀγοραίων ἄνδρας τινὰς πονηροὺς καὶ ὀχλοποιήσαντες ἐθορύβουν τὴν πόλιν,καὶ ἐπιστάντες τῇ οἰκίᾳ Ἰάσονος ἐζήτουν αὐτοὺς προαγαγεῖν εἰς τὸν δῆμον·",
     "bsb_english": "The Jews, however, became jealous. So they brought in some troublemakers from the marketplace, formed a mob, and sent the city into an uproar. They raided Jason's house in search of Paul and Silas, hoping to bring them out to the people.",
     "translation": {
-      "thai": "แต่พวกผู้นำชาวยิวเกิดความริษยา จึงเอาคนเลวๆ บางคนจากตลาด ก่อตัวเป็นฝูงชนวุ่นวาย และทำให้เมืองเกิดจลาจล พวกเขาบุกบ้านของยาโสน พยายามจะนำเปาโลกับสิลาสออกมามอบให้ฝูงชน",
+      "thai": "แต่ชาวยิวกลุ่มหนึ่งเกิดความริษยา จึงเอาคนเลวๆ บางคนจากตลาด ก่อตัวเป็นฝูงชนวุ่นวาย และทำให้เมืองเกิดจลาจล พวกเขาบุกบ้านของยาโสน พยายามจะนำเปาโลกับสิลาสออกมามอบให้ฝูงชน",
       "thai_literal": "พวกยิวอิจฉาแล้วจึงเอาบางคนเลวๆ จากตลาดและทำให้เกิดฝูงชน ก่อจลาจลในเมือง และเข้าไปในบ้านของยาโสน แสวงหาที่จะนำพวกท่านออกมาให้ที่ประชุม",
-      "thai_summary": "การกลับใจของชาวกรีกและสตรีชั้นสูงจำนวนมาก (ข้อ 4) ทำให้พวกผู้นำชาวยิว “อิจฉา” (ζηλώσαντες) — สูญเสียอิทธิพลทางสังคมและการสนับสนุนทางการเงินจากผู้ให้ทุนชาวต่างชาติ (Gentile patrons) ที่เคยสนับสนุนธรรมศาลา การก่อจลาจลด้วยการจ้างคนเลวจากตลาดเป็นยุทธวิธีปกติของการเมืองในเมืองโรมัน — เพื่อบีบให้ทางการต้องดำเนินคดีโดยเร็ว “ยาโสน” (Ἰάσων) เป็นเจ้าบ้านที่รับเปาโลและสิลาสไว้ — อาจเป็นญาติของเปาโลที่กล่าวถึงใน รม. 16:21",
+      "thai_summary": "หลังจากมีผู้ฟังหลายคนรับฟังเปาโลด้วยความเชื่อ ชาวยิวกลุ่มหนึ่งเกิดความอิจฉาและรวบรวมคนมาสร้างความวุ่นวายในเมือง ลูกาไม่ได้ระบุว่าพวกเขาดำรงตำแหน่งใดหรือได้รับผลกระทบทางการเงินอย่างไร",
       "key_decisions": [
         {
           "greek": "ζηλώσαντες δὲ οἱ Ἰουδαῖοι",
-          "thai": "แต่พวกผู้นำชาวยิวเกิดความริษยา",
-          "rationale": "οἱ Ἰουδαῖοι in Acts conflict-narrative = the leadership-faction who oppose Paul's mission, not the entire Jewish people (per ACT 12:3, 13:50, 14:2, 14:19, 17:13, 18:12, 21:11, 21:27 lock — synecdoche of the-whole-for-the-part). Per uW figs-synecdoche. Thai 'พวกผู้นำชาวยิว' preserves this distinction (consistent with ACT 13:45, 14:19, 17:13 patterns). The contextual factor v.4-5: many Greek God-fearers had converted, so 'the Jews' here are specifically the synagogue-leadership-faction who lost congregational support and patronage. ζηλόω = burn-with-jealousy/zealous-against (cf. ACT 5:17 same vocabulary for Sanhedrin opposition to apostles)."
+          "thai": "แต่ชาวยิวกลุ่มหนึ่งเกิดความริษยา",
+          "rationale": "The selected οἱ Ἰουδαῖοι identifies Jewish opponents who act from jealousy in this episode. Some other Jews had been persuaded in verse 4. The expression does not give these opponents a leadership title."
         },
         {
           "greek": "προσλαβόμενοι τῶν ἀγοραίων ἄνδρας τινὰς πονηροὺς",
@@ -176,7 +176,7 @@
           "rationale": "δῆμος = 'people, populace, assembly'. In a Greek city, the δῆμος was technically the citizen-assembly that judged civic-disorder cases. Here likely means 'the gathered crowd / public mob' — informal not formal. Thai 'ฝูงชน' (crowd, populace) captures the informal sense, distinct from technical-civic-assembly. Cf. ACT 12:22 (Herod's δῆμος acclamation), 19:30, 19:33 (Ephesian assembly = δῆμος in same sense)."
         }
       ],
-      "notes": "Mob-formation pattern parallels ACT 14:19 (Lystra), 16:19-22 (Philippi), 19:23-29 (Ephesus). Lukan recurring-motif: opposition arises from established-religious-leadership using common-people / marketplace-mob as instrument. **HAPAX**: ὀχλοποιέω (v.5 only NT occurrence). **NEW PROPER-NOUN LOCK**: Ἰάσων → ยาโสน. No textual variant."
+      "notes": "The selected opening describes jealousy and then recruiting men. Robinson–Pierpont calls these Jews disobedient and begins with recruiting. It also reverses two words for “certain men,” changes a connective and has the simple verb for bringing instead of the compound for bringing forward."
     }
   },
   {
@@ -313,10 +313,10 @@
         {
           "greek": "παραγενόμενοι εἰς τὴν συναγωγὴν τῶν Ἰουδαίων ἀπῄεσαν",
           "thai": "เมื่อทั้งสองมาถึงก็เข้าไปในธรรมศาลาของพวกยิว",
-          "rationale": "Same synagogue-first methodology established v.2. συναγωγή → ธรรมศาλา locked. Thai 'ทั้งสอง' makes the dual-subject (Paul + Silas — Timothy left behind in Berea per v.14, but presumably with them now) clear."
+          "rationale": "Same synagogue-first methodology established v.2. συναγωγή → ธรรมศาลา locked. Thai 'ทั้งสอง' makes the dual-subject (Paul + Silas — Timothy left behind in Berea per v.14, but presumably with them now) clear."
         }
       ],
-      "notes": "**NEW PROPER-NOUN LOCK**: Βέροια → เบโรอา. Synagogue-first pattern continues. No hapax. No textual variant."
+      "notes": "Robinson–Pierpont adds an article with the description of traveling at night and places the verb of going before the words “of the Jews” in the synagogue expression."
     }
   },
   {
@@ -381,14 +381,14 @@
     "greek": "ὡς δὲ ἔγνωσαν οἱ ἀπὸ τῆς Θεσσαλονίκης Ἰουδαῖοι ὅτι καὶ ἐν τῇ Βεροίᾳ κατηγγέλη ὑπὸ τοῦ Παύλου ὁ λόγος τοῦ θεοῦ,ἦλθον κἀκεῖ σαλεύοντες καὶ ταράσσοντες τοὺς ὄχλους.",
     "bsb_english": "But when the Jews from Thessalonica learned that Paul was also proclaiming the word of God in Berea, they went there themselves to incite and agitate the crowds.",
     "translation": {
-      "thai": "แต่เมื่อพวกผู้นำชาวยิวจากเมืองเธสะโลนิกาทราบว่า เปาโลกำลังประกาศพระวจนะของพระเจ้าในเมืองเบโรอาด้วย พวกเขาก็ไปที่นั่นเพื่อปลุกปั่นและก่อกวนหมู่ชน",
+      "thai": "แต่เมื่อชาวยิวกลุ่มเดิมจากเมืองเธสะโลนิกาทราบว่า เปาโลกำลังประกาศพระวจนะของพระเจ้าในเมืองเบโรอาด้วย พวกเขาก็ไปที่นั่นเพื่อปลุกปั่นและก่อกวนหมู่ชน",
       "thai_literal": "เมื่อพวกยิวจากเธสะโลนิกาทราบว่าพระวจนะของพระเจ้าก็ได้ถูกประกาศในเบโรอาโดยเปาโล พวกเขาก็มาที่นั่นเช่นกันโดยทำให้ฝูงชนสะเทือนและสั่นสะท้าน",
       "thai_summary": "ลูกาให้ภาพการต่อต้านที่ตามไล่เปาโลข้ามจังหวัด — พวกผู้นำชาวยิวจากเธสะโลนิกาเดินทาง 80 กิโลเมตรเพื่อปลุกปั่นฝูงชนเบโรอา รูปแบบนี้คล้ายกับการที่พวกยิวจากอันทิโอกแห่งปิสิเดียและอิโคนียุมตามไล่เปาโลไปลิสตราใน กจ. 14:19 ซึ่งทำให้เปาโลถูกเอาหินขว้างเกือบตาย การข่มเหงไม่ใช่อุบัติเหตุที่นี่ — เป็นการปฏิบัติการต่อต้านที่จงใจและเป็นระบบ",
       "key_decisions": [
         {
           "greek": "οἱ ἀπὸ τῆς Θεσσαλονίκης Ἰουδαῖοι",
-          "thai": "พวกผู้นำชาวยิวจากเมืองเธสะโลนิกา",
-          "rationale": "οἱ Ἰουδαῖοι in conflict-context = leadership-faction (synecdoche-lock from ACT 12:3 etc., applied at v.5 same chapter). Thai 'พวกผู้นำชาวยิว' preserves this. The traveled-to-Berea-from-Thessalonica detail emphasizes the deliberate-pursuit pattern."
+          "thai": "ชาวยิวกลุ่มเดิมจากเมืองเธสะโลนิกา",
+          "rationale": "The men who come from Thessalonica are identified as Jewish opponents of the preaching there. Luke makes their place of origin and actions explicit without assigning them an office."
         },
         {
           "greek": "κατηγγέλη ὑπὸ τοῦ Παύλου ὁ λόγος τοῦ θεοῦ",
@@ -401,7 +401,7 @@
           "rationale": "Per uW figs-doublet: σαλεύοντες (shaking, stirring up) + ταράσσοντες (troubling, disturbing) function as a paired-emphatic doublet. Thai preserves both verbs ('ปลุกปั่น' [stir-up] + 'ก่อกวน' [agitate]) for emphasis (rather than collapsing per uW alternative). The doublet preserves the sustained-incitement pattern of mob-formation v.5."
         }
       ],
-      "notes": "Pursuit-pattern parallels ACT 14:19 (opponents follow Paul from Antioch+Iconium to Lystra). σαλεύοντες-καὶ-ταράσσοντες doublet preserved per uW figs-doublet. No hapax. No textual variant."
+      "notes": "The selected wording gives two participles for stirring up and troubling the crowds. Robinson–Pierpont omits the second. Thai ปลุกปั่นและก่อกวน expresses both actions."
     }
   },
   {
@@ -533,7 +533,7 @@
     "translation": {
       "thai": "นักปรัชญากลุ่มเอปิคิวเรียนและสโตอิกบางคนก็เข้าโต้เถียงกับท่านด้วย บางคนพูดว่า “คนช่างเก็บเล็กผสมน้อยคนนี้กำลังจะพูดอะไร?” และบางคนพูดว่า “ดูเหมือนเขาเป็นผู้ประกาศเรื่องเทพเจ้าต่างชาติ” เพราะท่านกำลังประกาศข่าวประเสริฐเรื่องพระเยซูและการเป็นขึ้นจากความตาย",
       "thai_literal": "บางคนของพวกเอปิคิวเรียนและของพวกนักปรัชญาสโตอิกก็มาถกเถียงกับท่าน และบางคนกล่าวว่าคนเก็บเมล็ดพืชนี้ต้องการจะพูดอะไรหนอ และบางคนว่าดูเหมือนเขาเป็นผู้ประกาศเทพเจ้าต่างชาติ เพราะท่านประกาศข่าวประเสริฐเรื่องพระเยซูและการเป็นขึ้นจากความตาย",
-      "thai_summary": "ลูกาแนะนำสองสำนักปรัชญาที่ใหญ่ที่สุดในเอเธนส์: (1) เอปิคิวเรียน (Ἐπικούρειοι) — สำนักของเอปิคิวรัส (341-270 ก่อน ค.ศ.) ที่สอนว่าเทพเจ้าไม่เกี่ยวข้องกับโลก ความสุขมาจากการอยู่อย่างเรียบง่าย และไม่เชื่อในการเป็นขึ้นจากความตาย; (2) สโตอิก (Στοϊκοί) — สำนักของเซโน (335-263 ก่อน ค.ศ.) ที่สอนว่าโลกถูกควบคุมโดย Logos อันเป็นนิรันดร์ มนุษย์ควรอยู่อย่างสอดคล้องกับธรรมชาติ และอ้างว่ามีพระเจ้าหนึ่งเดียวที่อยู่ในทุกสิ่ง คำว่า “σπερμολόγος” เป็นสำนวนถากถางของชาวเอเธนส์สำหรับคนที่เก็บเสี้ยวความรู้เล็ก ๆ น้อย ๆ จากที่ต่าง ๆ มาพูดโดยไม่เข้าใจอย่างลึกซึ้ง — เปรียบเทียบกับนกที่กระโดดเก็บเมล็ดพืชเล็ก ๆ ในตลาด เป็นการดูถูกทางปัญญา “ξένων δαιμονίων” (เทพเจ้าต่างชาติ) — ข้อกล่าวหาเดียวกับที่พบในการพิพากษาโสกราติส (เพลโต, Apology) แสดงให้เห็นว่าลูกากำลังวาดภาพเปาโลเป็นโสกราติสคนใหม่ พวกเอเธนส์เข้าใจผิดว่าเปาโลกำลังประกาศเทพเจ้าสองพระองค์ — Ἰησοῦν (พระเยซู ชายผู้หนึ่ง) และ Ἀνάστασιν (อะนะสตาซิส = ชื่อเทพีบ้าง! ลูกาเล่นคำกับการเข้าใจผิดของชาวเอเธนส์อย่างละเอียดอ่อน)",
+      "thai_summary": "ลูกาแนะนำสองสำนักปรัชญาที่ใหญ่ที่สุดในเอเธนส์: (1) เอปิคิวเรียน (Ἐπικούρειοι) — สำนักของเอปิคิวรัส (341-270 ก่อน ค.ศ.) ที่สอนว่าเทพเจ้าไม่เกี่ยวข้องกับโลก ความสุขมาจากการอยู่อย่างเรียบง่าย และไม่เชื่อในการเป็นขึ้นจากความตาย; (2) สโตอิก (Στοϊκοί) — สำนักของเซโน (335-263 ก่อน ค.ศ.) ที่สอนว่าโลกถูกควบคุมโดย Logos อันเป็นนิรันดร์ มนุษย์ควรอยู่อย่างสอดคล้องกับธรรมชาติ และอ้างว่ามีพระเจ้าหนึ่งเดียวที่อยู่ในทุกสิ่ง คำว่า “σπερμολόγος” เป็นสำนวนถากถางของชาวเอเธนส์สำหรับคนที่เก็บเสี้ยวความรู้เล็ก ๆ น้อย ๆ จากที่ต่าง ๆ มาพูดโดยไม่เข้าใจอย่างลึกซึ้ง — เปรียบเทียบกับนกที่กระโดดเก็บเมล็ดพืชเล็ก ๆ ในตลาด เป็นการดูถูกทางปัญญา “ξένων δαιμονίων” (เทพเจ้าต่างชาติ) — ข้อกล่าวหาเดียวกับที่พบในการพิพากษาโสกราติส (เพลโต, Apology) แสดงให้เห็นว่าลูกากำลังวาดภาพเปาโลเป็นโสกราติสคนใหม่ ผู้ฟังบางคนกล่าวว่าเปาโลดูเหมือนเป็นผู้ประกาศเรื่องเทพเจ้าต่างชาติ เพราะท่านประกาศข่าวประเสริฐเรื่องพระเยซูและการเป็นขึ้นจากความตาย คำว่า “เทพเจ้าต่างชาติ” ในภาษากรีกเป็นพหูพจน์ จึงอาจตีความได้ว่าผู้ฟังบางคนเข้าใจคำว่า ἀνάστασις (การเป็นขึ้นจากความตาย) ว่าเป็นชื่อเทพี",
       "key_decisions": [
         {
           "greek": "τῶν Ἐπικουρείων καὶ Στοϊκῶν φιλοσόφων",
@@ -558,10 +558,10 @@
         {
           "greek": "τὸν Ἰησοῦν καὶ τὴν ἀνάστασιν εὐηγγελίζετο",
           "thai": "ประกาศข่าวประเสริฐเรื่องพระเยซูและการเป็นขึ้นจากความตาย",
-          "rationale": "εὐαγγελίζομαι → ประกาศข่าวประเสริฐ (locked from RULES §4 εὐαγγέλιον → ข่าวประเสริฐ). ἀνάστασις → การเป็นขึ้นจากความตาย (locked resurrection-formula from MAT 22:23, MRK 12:18, ACT 1:22, 2:31, 4:2, 4:33, 17:18 here, etc.). The Athenian-misunderstanding (taking Anastasis as a goddess-name) is a known Lukan-narrative-irony — preserved in thai_summary not in main text. The textual fact remains: Paul preached Jesus + the resurrection."
+          "rationale": "εὐαγγελίζομαι → ประกาศข่าวประเสริฐ (locked from RULES §4 εὐαγγέλιον → ข่าวประเสริฐ). ἀνάστασις → การเป็นขึ้นจากความตาย (locked resurrection-formula from MAT 22:23, MRK 12:18, ACT 1:22, 2:31, 4:2, 4:33, 17:18 here, etc.). The plural ξένων δαιμονίων leaves open the possibility that some hearers took ἀνάστασις as a goddess-name. The thai_summary presents this as an interpretation. The textual fact remains: Paul preached Jesus + the resurrection."
         }
       ],
-      "notes": "Densely packed verse: 5 hapax (Ἐπικούρειος, Στοϊκός, φιλόσοφος, σπερμολόγος, καταγγελεύς) + the deliberate Lukan Socrates-parallel ('introducing new daimonia' charge mirrors Plato Apology 24b). **NEW PROPER-NOUN/LEXICAL LOCKS**: Ἐπικούρειος → เอปิคิวเรียน, Στοϊκός → สโตอิก, φιλόσοφος → นักปรัชญา. δαιμονίων rendered 'เทพเจ้า' (pagan-deity register, NOT 'ผีปีศาจ' demonic register) per ACT 12:22 + 14:11-13 contextual-variant pattern. No textual variant."
+      "notes": "Densely packed verse: 5 hapax (Ἐπικούρειος, Στοϊκός, φιλόσοφος, σπερμολόγος, καταγγελεύς) + the deliberate Lukan Socrates-parallel ('introducing new daimonia' charge mirrors Plato Apology 24b). **NEW PROPER-NOUN/LEXICAL LOCKS**: Ἐπικούρειος → เอปิคิวเรียน, Στοϊκός → สโตอิก, φιλόσοφος → นักปรัชญา. δαιμονίων rendered 'เทพเจ้า' (pagan-deity register, NOT 'ผีปีศาจ' demonic register) per ACT 12:22 + 14:11-13 contextual-variant pattern. Robinson–Pierpont adds an article before the Stoics."
     }
   },
   {
@@ -571,7 +571,7 @@
     "greek": "ἐπιλαβόμενοί τε αὐτοῦ ἐπὶ τὸν Ἄρειον Πάγον ἤγαγον,λέγοντες·Δυνάμεθα γνῶναι τίς ἡ καινὴ αὕτη ἡ ὑπὸ σοῦ λαλουμένη διδαχή;",
     "bsb_english": "So they took Paul and brought him to the Areopagus, where they asked him, \"May we know what this new teaching is that you are presenting?",
     "translation": {
-      "thai": "พวกเขาจึงนำท่านไปยังอาเรโอปากัส ทูลถามว่า “พวกเราขอทราบได้ไหมว่า คำสอนใหม่นี้ที่ท่านกำลังกล่าวคืออะไร?",
+      "thai": "พวกเขาจึงนำท่านไปยังอาเรโอปากัส แล้วถามว่า “พวกเราขอทราบได้ไหมว่า คำสอนใหม่นี้ที่ท่านกำลังกล่าวคืออะไร?",
       "thai_literal": "พวกเขาจับท่านและนำไปบนเนินอาเรโอปากัส กล่าวว่า เราสามารถรู้ได้หรือว่าคำสอนใหม่นี้ที่ท่านกำลังพูดคืออะไร?",
       "thai_summary": "“อาเรโอปากัส” (Ἄρειος Πάγος) แปลตามตัวอักษรว่า “เนินของแอเรส” (เทพเจ้าสงครามของกรีก = Mars ในภาษาละติน) — เนินหินทางตะวันตกเฉียงเหนือของอะโครโพลิส ในยุคโบราณเป็นที่ประชุมของศาลสูงสุดของเอเธนส์ ในยุคของเปาโลสภาอาเรโอปากัสยังคงเป็นสภาทรงเกียรติของขุนนาง-นักวิชาการที่ดูแลเรื่องศาสนา ศีลธรรม และการศึกษาในเอเธนส์ การที่นำเปาโลไปที่อาเรโอปากัสไม่ใช่การจับกุม แต่เป็นการเชิญให้นำเสนอคำสอนต่อหน้าสภา ซึ่งมีอำนาจตัดสินว่าจะอนุญาตให้สอนในเอเธนส์ต่อหรือไม่ — คำถามที่พวกเขาถามไม่ใช่คำถามเชิงโต้แย้งแต่เป็นคำขอข้อมูลเพิ่มเติม “พวกเรา” (Δυνάμεθα) เป็นรูปพิเศษเฉพาะ (exclusive) — ไม่รวมเปาโล",
       "key_decisions": [
@@ -591,7 +591,7 @@
           "rationale": "Per uW figs-rquestion: NOT a rhetorical question — the philosophers are genuinely requesting information. Thai 'ขอทราบได้ไหม' (may-we-know) preserves the polite-information-request register. Per uW figs-exclusive: 'we' (Δυνάμεθα) excludes Paul (the philosophers asking themselves). Thai 'พวกเรา' is unmarked for inclusive/exclusive — added to reviewer-doc Tier C7 as another inclusive/exclusive datapoint. Per uW figs-activepassive: passive 'being-spoken-by-you' rendered actively as 'ที่ท่านกำลังกล่าว' (which-you-are-speaking) for natural Thai. καινή = new, novel — same word as 'something newer' v.21 background-information."
         }
       ],
-      "notes": "**NEW PROPER-NOUN LOCK**: Ἄρειος Πάγος → อาเรโอปากัส (transliteration; cultural-meaning 'Hill of Ares/Mars Hill' in thai_summary). Per uW figs-metonymy: from v.19 onward 'Areopagus' refers to the council-body, not the geographical hill (formally introduced as the philosophers' meeting-place). Δυνάμεθα is exclusive 'we' (Tier C7 inclusive/exclusive datapoint). No hapax. No textual variant."
+      "notes": "**NEW PROPER-NOUN LOCK**: Ἄρειος Πάγος → อาเรโอปากัส (transliteration; cultural-meaning 'Hill of Ares/Mars Hill' in thai_summary). Per uW figs-metonymy: from v.19 onward 'Areopagus' refers to the council-body, not the geographical hill (formally introduced as the philosophers' meeting-place). Δυνάμεθα is exclusive 'we' (Tier C7 inclusive/exclusive datapoint). No hapax. Westcott–Hort and Tregelles have δέ in place of τε."
     }
   },
   {
@@ -616,7 +616,7 @@
           "rationale": "Per uW figs-idiom: 'what these things wish-to-be' = idiomatic 'what these things mean' — Greek-philosophical idiom for asking-the-meaning-of-an-utterance. Thai 'หมายความว่าอย่างไร' (mean-how) is the natural-functional rendering. βουλόμεθα = exclusive 'we want' (continuing exclusive-we pattern)."
         }
       ],
-      "notes": "Continued philosophical-inquiry register from v.19. ξενίζω/ξένος Lukan-paronomasia: Paul-the-foreign-guest brings foreign-things. Thai_summary null — the verse functions as immediate continuation of v.19's request; consolidated narrative-context. No hapax. No textual variant."
+      "notes": "Continued philosophical-inquiry register from v.19. ξενίζω/ξένος Lukan-paronomasia: Paul-the-foreign-guest brings foreign-things. Thai_summary null — the verse functions as immediate continuation of v.19's request; consolidated narrative-context. No hapax. The question asks what these things mean. SBLGNT has τίνα θέλει, while Robinson–Pierpont reads τί ἂν θέλοι, asking what they might mean."
     }
   },
   {
@@ -628,7 +628,7 @@
     "translation": {
       "thai": "ชาวเอเธนส์และชาวต่างชาติที่อาศัยอยู่ที่นั่น ใช้เวลาว่างทำสิ่งใดไม่มากไปกว่าการพูดหรือฟังสิ่งใหม่ล่าสุด",
       "thai_literal": "ชาวเอเธนส์ทุกคนและชาวต่างชาติที่พำนักอยู่ ไม่ใช้เวลาเพื่อสิ่งอื่นใดเลย นอกจากการพูดอะไรหรือฟังอะไรที่ใหม่กว่า",
-      "thai_summary": "ลูกาแทรกข้อความเชิงเบื้องหลัง (background information) เพื่ออธิบายว่าทำไมชาวเอเธนส์ถึงสนใจคำสอนของเปาโล — ไม่ใช่เพราะพวกเขาเปิดใจรับความจริงทางจิตวิญญาณ แต่เพราะพวกเขาใช้เวลาว่างทั้งหมดในการสะสมความคิดใหม่ๆ เพื่อความบันเทิงทางสติปัญญา นี่เป็นการประเมินที่เฉียบแหลมและเชิงเสียดสีเล็กน้อย — ชาวเอเธนส์ในยุคของเปาโลไม่ใช่นักปรัชญาที่ลึกซึ้งอย่างยุคของโสกราติส แต่เป็นพวกที่ชอบตามแฟชั่นทางความคิด นักประวัติศาสตร์เดโมสเทนีส (ศตวรรษที่ 4 ก่อน ค.ศ.) ก็เคยตำหนิชาวเอเธนส์ในเรื่องเดียวกัน — ภาพของลูกาตรงกับมุมมองของนักประวัติศาสตร์โบราณคนอื่น ๆ",
+      "thai_summary": "ลูกากล่าวถึงชาวเอเธนส์และชาวต่างชาติที่อาศัยอยู่ในเมืองซึ่งสนใจแลกเปลี่ยนเรื่องใหม่ ๆ เมื่อเปาโลกล่าวถึงการเป็นขึ้นจากตาย บางคนเยาะเย้ย บางคนอยากฟังอีก และบางคนเชื่อ (ข้อ 32–34)",
       "key_decisions": [
         {
           "greek": "Ἀθηναῖοι",
@@ -646,7 +646,7 @@
           "rationale": "Per uW figs-hyperbole: 'nothing other than' is generalization-for-emphasis, NOT literal claim that Athenians did literally nothing else. Thai 'ทำสิ่งใดไม่มากไปกว่า' (don't-do-things-more-than) preserves the hyperbolic-emphasis. καινότερον — comparative form of καινός = 'newer' (per uW figs-explicit) implying 'newer than the latest new-thing they had heard' — the trend-chasing-novelty critique. Thai 'ใหม่ล่าสุด' (newest-latest) captures the comparative-superlative drift. εὐκαιρέω = have-leisure, find-time-for. The whole sentence is Lukan ethnographic-snapshot of Athenian intellectual culture."
         }
       ],
-      "notes": "Lukan ethnographic-comment + author-aside (per uW writing-background) — preparing the reader to understand why the philosophers responded with mockery (v.32) rather than conviction. **NEW PROPER-NOUN LOCK**: Ἀθηναῖος → ชาวเอเธนส์. καινότερον per uW figs-explicit = 'newer than the latest novelty'. No hapax. No textual variant."
+      "notes": "Luke comments on the Athenians and resident foreigners discussing new things. Demosthenes’ First Philippic 10 offers an earlier rhetorical parallel in a political speech. Luke’s account later distinguishes mockery and a request to hear again at 17:32, then names people who believed at 17:34. Robinson–Pierpont uses καί in place of a disjunctive conjunction and omits an indefinite pronoun."
     }
   },
   {
@@ -676,7 +676,7 @@
           "rationale": "HAPAX: δεισιδαίμων (NT-only here as comparative δεισιδαιμονεστέρους). The word is deliberately ambiguous: literally 'fearing-the-deities' = 'religious' (positive Athenian self-perception) OR 'superstitious' (negative outsider critique). Paul uses the comparative form ὡς δεισιδαιμονεστέρους as captatio benevolentiae (rhetorical-flattery-opening). Per uW: comparative-form for emphasis = 'very religious'. Thai 'เคร่งครัดในศาสนาเป็นพิเศษ' (especially-strict-in-religion) preserves the diplomatic-positive register that fits Paul's rhetorical-opening — without prejudging whether their religiosity was directed toward truth. Per uW figs-hyperbole: κατὰ πάντα = 'in every-way' as generalization-for-emphasis — Thai 'ในทุกๆ ด้าน' preserves. Captatio benevolentiae is a known classical-rhetorical pattern; Paul's polished-Greek-rhetorical opening shows his Hellenistic-Jewish education (cf. ACT 22:3 Tarsus + Gamaliel-trained)."
         }
       ],
-      "notes": "Opening of the Areopagus Speech — the most rhetorically-sophisticated Acts speech, engaging Greek-philosophical audience directly. **HAPAX**: δεισιδαίμων (comparative δεισιδαιμονεστέρους). Captatio benevolentiae rhetorical-pattern preserved per RULES §1 naturalness + accuracy balance. The deliberate ambiguity of δεισιδαίμων (religious/superstitious) is a Lukan rhetorical-feature — preserved by Thai 'เคร่งครัดในศาสนาเป็นพิเศษ' which leans positive but allows interpretive-double-edge. No textual variant."
+      "notes": "Opening of the Areopagus Speech — the most rhetorically-sophisticated Acts speech, engaging Greek-philosophical audience directly. **HAPAX**: δεισιδαίμων (comparative δεισιδαιμονεστέρους). Captatio benevolentiae rhetorical-pattern preserved per RULES §1 naturalness + accuracy balance. The deliberate ambiguity of δεισιδαίμων (religious/superstitious) is a Lukan rhetorical-feature — preserved by Thai 'เคร่งครัดในศาสนาเป็นพิเศษ' which leans positive but allows interpretive-double-edge. NA28 and Robinson–Pierpont include an article before Paul’s name."
     }
   },
   {
@@ -688,7 +688,7 @@
     "translation": {
       "thai": "เพราะเมื่อข้าพเจ้าเดินผ่านและพิจารณาสิ่งที่พวกท่านนมัสการ ข้าพเจ้ายังได้พบแท่นบูชาแห่งหนึ่ง ซึ่งจารึกไว้ว่า “แด่พระเจ้าที่ไม่รู้จัก” ดังนั้น สิ่งที่พวกท่านนมัสการโดยไม่รู้จักนั้น สิ่งนี้แหละที่ข้าพเจ้าประกาศให้พวกท่าน",
       "thai_literal": "เพราะเดินผ่านไปและพิจารณาสิ่งที่นมัสการของพวกท่าน ข้าพเจ้าก็พบแท่นบูชาด้วย ที่ซึ่งมีจารึกว่าแด่พระเจ้าที่ไม่รู้จัก ดังนั้นสิ่งที่พวกท่านนมัสการโดยไม่รู้นั้น ข้าพเจ้าประกาศแก่พวกท่าน",
-      "thai_summary": "เปาโลใช้กลยุทธ์การเข้าถึงทางวัฒนธรรมที่ฉลาด — แทนที่จะเริ่มต้นด้วยการประณามรูปเคารพ ท่านใช้แท่นบูชาที่จารึก “แด่พระเจ้าที่ไม่รู้จัก” เป็นจุดเริ่มต้นในการเสนอพระเจ้าที่แท้จริง นักประวัติศาสตร์โบราณ Pausanias (ศตวรรษที่ 2) และ Diogenes Laertius (ศตวรรษที่ 3) บันทึกว่าเอเธนส์มีแท่นบูชาที่จารึกแก่ “เทพเจ้าที่ไม่รู้จัก” (พหูพจน์) — ตามตำนานเล่าว่าเอปิเมนิเดสแห่งครีต (ศตวรรษที่ 6 ก่อน ค.ศ.) ได้แนะนำให้สร้างแท่นบูชาเหล่านี้ในช่วงโรคระบาดเพื่อปลอบโยนเทพเจ้าที่อาจถูกลืม เปาโลเปลี่ยนความคิดทางพหุเทวนิยมนี้ให้กลายเป็นสะพานเชื่อมไปยังพระเจ้าผู้สร้างองค์เดียวของอิสราเอลอย่างชาญฉลาด “สิ่งที่พวกท่านนมัสการโดยไม่รู้จัก สิ่งนี้แหละที่ข้าพเจ้าประกาศให้พวกท่าน” — เป็นการสำเสนอพระวจนะที่เปลี่ยนความว่างเปล่าทางจิตวิญญาณของลัทธิพหุเทวนิยมเป็นความรู้แจ้งของศาสนาคริสต์",
+      "thai_summary": "เปาโลยกข้อความจารึกบนแท่นบูชาแห่งหนึ่งว่า “แด่พระเจ้าที่ไม่รู้จัก” แล้วกล่าวถึงสิ่งที่ชาวเอเธนส์นมัสการโดยไม่รู้จัก เพาซาเนียสกล่าวถึงแท่นบูชาของเหล่าเทพที่เรียกว่าเทพที่ไม่รู้จัก ส่วนดิโอเกเนส ลาเอร์ติอุสเล่าถึงแท่นบูชาที่ไม่มีชื่อ เรื่องเหล่านี้ให้ภาพภูมิหลัง แต่ไม่ได้บันทึกจารึกเดียวกับที่เปาโลยกมา",
       "key_decisions": [
         {
           "greek": "διερχόμενος γὰρ καὶ ἀναθεωρῶν τὰ σεβάσματα ὑμῶν",
@@ -698,15 +698,15 @@
         {
           "greek": "βωμὸν ἐν ᾧ ἐπεγέγραπτο· Ἀγνώστῳ θεῷ",
           "thai": "แท่นบูชาแห่งหนึ่ง ซึ่งจารึกไว้ว่า “แด่พระเจ้าที่ไม่รู้จัก”",
-          "rationale": "TWO HAPAX: βωμός (NT-only here) — 'altar' (the LXX-pagan-altar word, distinct from θυσιαστήριον the Jewish/Christian altar-word; cf. LXX Lev 26:30, Deut 12:3, Judg 6:25 etc. for βωμός = pagan-altar). ἄγνωστος (NT-only here) = 'unknown'. NEW LEXICAL LOCK: βωμός → แท่นบูชา (with awareness that the same Thai word is used for θυσιαστήριον — the Greek-lexical distinction is lost in Thai but flagged in notes). Per uW figs-quotemarks: render the inscription with quotation marks ('แด่พระเจ้าที่ไม่รู้จัก'). The dative ἀγνώστῳ θεῷ = 'TO AN UNKNOWN GOD' (singular). Although the Greek inscription evidence (Pausanias) attests plural 'unknown gods', Luke records the singular form — Paul's rhetorical move depends on this singularization. Thai 'แด่พระเจ้าที่ไม่รู้จัก' uses 'พระเจ้า' (the biblical-God title) deliberately because Paul is reframing the inscription to refer to YHWH — the rhetorical move requires the term that the Athenians used in their pagan-deity sense to be received by Paul's hearers in the biblical-monotheistic sense."
+          "rationale": "The wording Ἀγνώστῳ θεῷ is singular and in the dative, denoting the recipient of the dedication. The Thai preserves this dedication as quoted speech."
         },
         {
           "greek": "ὃ οὖν ἀγνοοῦντες εὐσεβεῖτε, τοῦτο ἐγὼ καταγγέλλω ὑμῖν",
           "thai": "ดังนั้น สิ่งที่พวกท่านนมัสการโดยไม่รู้จักนั้น สิ่งนี้แหละที่ข้าพเจ้าประกาศให้พวกท่าน",
-          "rationale": "ἀγνοοῦντες (pres.act.ptc.) = 'being-ignorant, not-knowing'. εὐσεβέω = 'show-piety-toward, worship-piously'. The interplay of ἀγνώστῳ (unknown) and ἀγνοοῦντες (not-knowing) is preserved by Thai 'ไม่รู้จัก' / 'ไม่รู้จักนั้น' (use of same root-word). καταγγέλλω → ประกาศ (locked apostolic-proclamation verb). The emphatic ἐγώ (1sg) preserved as ข้าพเจ้า. Thai 'สิ่งนี้แหละ' (this-very-thing-here) preserves the τοῦτο emphatic-demonstrative. Paul's claim is bold: the Athenians worship-without-knowing; Paul makes-known what they have been worshiping ignorantly. This is a sophisticated rhetorical-claim of inheritance: 'the deity you have intuited but never named is the God I now proclaim'."
+          "rationale": "Verse 20 has the indicative θέλει in SBLGNT, where Robinson–Pierpont uses a potential optative with ἄν. In verse 23 SBLGNT has neuter ὃ and τοῦτο; Robinson–Pierpont has masculine ὃν and τοῦτον. The selected Thai follows the neuter forms with สิ่งที่ and สิ่งนี้."
         }
       ],
-      "notes": "**TWO HAPAX**: βωμός (pagan-altar word) + ἄγνωστος (unknown). Paul's rhetorical-bridge from Athenian polytheism to biblical monotheism via the 'Unknown God' altar. Pausanias 1.1.4 + Diogenes Laertius 1.110 attest plural 'unknown gods' altars in Athens — Luke records the singular Paul exploits. Thai 'พระเจ้า' (biblical-God) used in the rendered inscription deliberately to enable the rhetorical reframing. **NEW LEXICAL LOCK**: βωμός → แท่นบูชา (with awareness-flag re: θυσιαστήριον also = แท่นบูชา in Thai)."
+      "notes": "Acts quotes a singular dedication to an unknown god. Pausanias, Description of Greece 1.1.4, describes altars associated with gods called Unknown, without transcribing each dedication. Diogenes Laertius, Lives 1.110, mentions nameless altars in a story about Epimenides. Neither writer supplies the inscription Paul reports."
     }
   },
   {
@@ -718,7 +718,7 @@
     "translation": {
       "thai": "พระเจ้าผู้ทรงสร้างโลกและทุกสิ่งที่อยู่ในโลก พระองค์นี้ทรงเป็นเจ้าแห่งฟ้าสวรรค์และแผ่นดินโลก ไม่ได้ประทับในวิหารที่สร้างขึ้นด้วยมือมนุษย์",
       "thai_literal": "พระเจ้าผู้ทรงสร้างโลกและทุกสิ่งในโลก พระองค์นี้ทรงเป็นเจ้าแห่งฟ้าสวรรค์และแผ่นดินโลก ไม่ได้สถิตอยู่ในวิหารที่ทำด้วยมือ",
-      "thai_summary": "เปาโลเริ่มต้นการสนทนาทางเทววิทยาด้วยการอ้างอิงถึงปฐมกาล 1:1 — พระเจ้าผู้ทรงสร้างทุกสิ่ง — ในแบบที่ทั้งชาวยิวและคนต่างชาติที่มีวัฒนธรรมสูงสามารถเข้าใจได้ คำว่า “อุปการกู โกซโม คอน — สวรรค์และแผ่นดินโลก” เป็นคำพูดเชิงเปรียบเปรย (merism) สำหรับ “ทุกสิ่งที่มีอยู่” (สดด. 115:15; ปฐก. 14:19, 22) ที่นักปรัชญาสโตอิกอาจเห็นด้วยในระดับหนึ่ง (พวกเขาเชื่อในเทพหนึ่งเดียวที่อยู่ในทุกสิ่ง) แต่จุดที่เปาโลแยกออกจากสโตอิกอย่างชัดเจนคือคำว่า “ทรงสร้าง” — สโตอิกเชื่อว่าจักรวาลเป็นนิรันดร์ ไม่ใช่ถูกสร้าง คำว่า “ไม่ประทับในวิหารที่สร้างด้วยมือมนุษย์” เป็นการอ้างอิงถึง 1 พกษ. 8:27 (พระวิหารของซาโลมอน) และ อสย. 66:1-2 (สวรรค์เป็นบัลลังก์ของพระองค์) — และยังแฝงคำตอบสำหรับการพิจารณาคดีของสเทเฟน (กจ. 7:48) คำเดียวกัน “χειροποίητος” (ทำด้วยมือ) เป็นคำเชิงเสียดสีในพันธสัญญาเดิมสำหรับรูปเคารพ (ลนต. 26:1, 26:30; อสย. 31:7) — เปาโลพลิกใช้กับวิหารทั้งหมด ไม่ใช่เฉพาะรูปเคารพ",
+      "thai_summary": "เปาโลเริ่มต้นการสนทนาทางเทววิทยาด้วยการอ้างอิงถึงปฐมกาล 1:1 — พระเจ้าผู้ทรงสร้างทุกสิ่ง — ในแบบที่ทั้งชาวยิวและคนต่างชาติที่มีวัฒนธรรมสูงสามารถเข้าใจได้ คำว่า “οὐρανοῦ καὶ γῆς — สวรรค์และแผ่นดินโลก” เป็นคำพูดเชิงเปรียบเปรย (merism) สำหรับ “ทุกสิ่งที่มีอยู่” (สดด. 115:15; ปฐก. 14:19, 22) ที่นักปรัชญาสโตอิกอาจเห็นด้วยในระดับหนึ่ง (พวกเขาเชื่อในเทพหนึ่งเดียวที่อยู่ในทุกสิ่ง) แต่จุดที่เปาโลแยกออกจากสโตอิกอย่างชัดเจนคือคำว่า “ทรงสร้าง” — สโตอิกเชื่อว่าจักรวาลเป็นนิรันดร์ ไม่ใช่ถูกสร้าง คำว่า “ไม่ประทับในวิหารที่สร้างด้วยมือมนุษย์” เป็นการอ้างอิงถึง 1 พกษ. 8:27 (พระวิหารของซาโลมอน) และ อสย. 66:1-2 (สวรรค์เป็นบัลลังก์ของพระองค์) — และยังแฝงคำตอบสำหรับการพิจารณาคดีของสเทเฟน (กจ. 7:48) คำเดียวกัน “χειροποίητος” (ทำด้วยมือ) เป็นคำเชิงเสียดสีในพันธสัญญาเดิมสำหรับรูปเคารพ (ลนต. 26:1, 26:30; อสย. 31:7) — เปาโลพลิกใช้กับวิหารทั้งหมด ไม่ใช่เฉพาะรูปเคารพ",
       "key_decisions": [
         {
           "greek": "ὁ θεὸς ὁ ποιήσας τὸν κόσμον καὶ πάντα τὰ ἐν αὐτῷ",
@@ -736,7 +736,7 @@
           "rationale": "Per uW figs-synecdoche: 'hand-made' (χειροποιήτοις) is part-for-whole = 'made by humans'. Thai 'ด้วยมือมนุษย์' (by-hand-of-human) preserves the synecdoche while making the human-agency clear. χειροποίητος is the LXX-technical-term for IDOLS in OT polemic (LEV 26:1, 26:30; ISA 31:7, 46:6; HAB 2:18; cf. NT MRK 14:58, ACT 7:48 [Stephen], EPH 2:11, HEB 9:11, 9:24). Paul deliberately extends the polemic from idols-proper (the standard LXX usage) to TEMPLES-of-the-true-God — echoing 1 KGS 8:27 ('Will God indeed dwell on earth? Behold, heaven and the highest heaven cannot contain you, much less this house I have built') and ISA 66:1 ('Heaven is my throne, and earth is my footstool. What is the house that you would build for me?'). κατοικέω → ประทับ (royal-register dwell-verb for divine-subject). **OT ALLUSIONS**: 1 KGS 8:27 + ISA 66:1-2 + GEN 1:1 + PSA 115:15."
         }
       ],
-      "notes": "First doctrinal claim of the Areopagus speech: God-as-Creator-of-all + God-not-confined-to-temples. **OT ALLUSIONS**: GEN 1:1 (creation), 1 KGS 8:27 + ISA 66:1-2 (God transcends temples), PSA 115:15 + GEN 14:19, 22 (heaven-and-earth merism). χειροποίητος = LXX-technical-term-for-idols extended polemically to all human-built temples. Thai 'ทรง' royal-register applied throughout (divine subject). No hapax. No textual variant."
+      "notes": "First doctrinal claim of the Areopagus speech: God-as-Creator-of-all + God-not-confined-to-temples. **OT ALLUSIONS**: GEN 1:1 (creation), 1 KGS 8:27 + ISA 66:1-2 (God transcends temples), PSA 115:15 + GEN 14:19, 22 (heaven-and-earth merism). χειροποίητος = LXX-technical-term-for-idols extended polemically to all human-built temples. Thai 'ทรง' royal-register applied throughout (divine subject). No hapax. Robinson–Pierpont reverses the order of ὑπάρχων and κύριος."
     }
   },
   {
@@ -793,10 +793,10 @@
         {
           "greek": "ὁρίσας προστεταγμένους καιροὺς καὶ τὰς ὁροθεσίας τῆς κατοικίας αὐτῶν",
           "thai": "ทรงกำหนดวาระเวลาที่ทรงตั้งไว้ และเขตแดนแห่งที่อยู่อาศัยของพวกเขา",
-          "rationale": "TWO HAPAX: ὁροθεσία (NT-only here) = 'boundary-setting, fixed-boundary'; κατοικία (NT-only here) = 'dwelling-place, habitation'. ὁρίζω + προστάσσω = double-determining (verb-and-cognate-noun emphatic). Thai 'ทรงกำหนด...ที่ทรงตั้งไว้' preserves the double-determining (royal-register applied to both verbs). **OT ALLUSION**: DEU 32:8 LXX 'When the Most High divided to the nations their inheritance, when he separated the sons of Adam, he set the bounds of the peoples according to the number of the sons of God' — Paul's argument depends on this LXX-version of Deut 32:8 (Hebrew has 'sons of Israel'; LXX has 'sons of God / angels'; Dead-Sea-Scrolls confirm LXX-Vorlage 'sons of God'). The LXX reading directly supports Paul's claim that God assigned national-territories. Also PSA 74:17 ('You have set all the borders of the earth')."
+          "rationale": "ἐξ ἑνός means “from one,” with no noun expressed in the selected text. Thai บุรุษคนเดียว supplies a man. ὁρίσας describes God determining the times and boundaries. προστεταγμένους, from another verb, modifies the times. Deuteronomy 32:8 also speaks of national boundaries, but Greek Deuteronomy’s reference to angels of God is absent here."
         }
       ],
-      "notes": "**TWO HAPAX**: ὁροθεσία + κατοικία (both v.26 only NT occurrences). **OT ALLUSIONS**: GEN 1:27, 2:7 (one-man Adam), DEU 32:8 LXX (boundaries of nations), PSA 74:17 (set the borders). Anti-autochthony (counter to Athenian ethnic-pride). The textual-variant ἐξ ἑνός / ἐξ ἑνὸς αἵματος noted — SBLGNT shorter reading followed."
+      "notes": "Paul links the nations’ common origin with God’s provision of times and places for them to live. Compare the boundaries of peoples in Deuteronomy 32:8. The comparison need not identify the source of every expression or name the one from whom the nations came."
     }
   },
   {
@@ -836,14 +836,14 @@
     "greek": "ἐν αὐτῷ γὰρ ζῶμεν καὶ κινούμεθα καὶ ἐσμέν,ὡς καί τινες τῶν καθ’ὑμᾶς ποιητῶν εἰρήκασιν·Τοῦ γὰρ καὶ γένος ἐσμέν.",
     "bsb_english": "'For in Him we live and move and have our being.' As some of your own poets have said, 'We are His offspring.'",
     "translation": {
-      "thai": "เพราะ “ในพระองค์ เราดำรงชีวิต เคลื่อนไหว และเป็นอยู่” ดังที่นักกวีบางคนของพวกท่านก็กล่าวไว้ว่า “เพราะพวกเราเป็นเชื้อสายของพระองค์ด้วย”",
+      "thai": "เพราะ ในพระองค์ เราดำรงชีวิต เคลื่อนไหว และเป็นอยู่ ดังที่นักกวีบางคนของพวกท่านก็กล่าวไว้ว่า “เพราะพวกเราเป็นเชื้อสายของพระองค์ด้วย”",
       "thai_literal": "เพราะในพระองค์เราเป็นและเคลื่อนไหวและเป็นอยู่ ดังที่บางคนแม้แห่งกวีของพวกท่านได้กล่าวว่า เพราะของพระองค์เราก็เป็นเชื้อสายด้วย",
-      "thai_summary": "เปาโลใช้ยุทธศาสตร์ทางวาทศิลป์ที่น่าทึ่ง — อ้างถึงนักกวีของชาวกรีกเองเพื่อสนับสนุนเทววิทยาของพระเจ้าผู้สร้าง คำพูด 2 ข้อความ: (1) “ในพระองค์เราดำรงชีวิต เคลื่อนไหว และเป็นอยู่” — เชื่อกันว่ามาจากเอปิเมนิเดสแห่งครีต (ศตวรรษที่ 6 ก่อน ค.ศ.) ใน Cretica (เปาโลก็อ้างเอปิเมนิเดสในจดหมายถึงทิตัส 1:12 ด้วย!); (2) “เพราะพวกเราเป็นเชื้อสายของพระองค์” — มาจากบทประพันธ์ Phaenomena ของอาราตัส (ศตวรรษที่ 3 ก่อน ค.ศ.) บทแรก ๆ ที่กล่าวถึงซีอุส และยังพบในบทเพลงสรรเสริญซีอุสของคลีอันเทส เปาโลฉลาดใช้ข้อความเหล่านี้ที่นักกวีกรีกใช้กับซีอุสและเปลี่ยนความหมายให้อ้างถึงพระเจ้าที่แท้จริง — ไม่ใช่ของซีอุสที่เปาโลปฏิเสธว่ามีอยู่ (กจ. 14:15) แต่ของพระเจ้าผู้ทรงสร้างจริงที่นักกวีกรีกได้สัมผัสในระดับลึกแม้ไม่รู้จักชื่อจริงของพระองค์",
+      "thai_summary": "เปาโลกล่าวว่าชีวิตของเราขึ้นอยู่กับพระเจ้า แล้วจึงยกถ้อยคำของกวีที่กล่าวว่ามนุษย์เป็นเชื้อสายของพระองค์ ประโยคหลังใกล้เคียงกับบทกวีของอาราตัส ส่วนที่มาของประโยคแรกยังไม่แน่ชัด กิจการไม่ได้เอ่ยชื่อกวีคนใด",
       "key_decisions": [
         {
           "greek": "ἐν αὐτῷ γὰρ ζῶμεν καὶ κινούμεθα καὶ ἐσμέν",
           "thai": "ในพระองค์ เราดำรงชีวิต เคลื่อนไหว และเป็นอยู่",
-          "rationale": "Per uW figs-quotemarks + figs-quotesinquotes: this is a DIRECT QUOTATION from a Greek poet (attributed by ancient Christian commentators to Epimenides of Crete, 6th c. BC, in his Cretica fragment). Per uW figs-doublet/triplet: 'live and are-moved and are' is a tripled-poetic-construction (life > motion > being, descending from particular to general). Per uW figs-activepassive: passive κινούμεθα 'are moved' rendered as middle/active 'เคลื่อนไหว' for natural Thai. Quote-marks (Thai “...”) preserve the poetic-citation register. Per uW figs-exclusive (REVERSE): the 'we' (1pl) is INCLUSIVE — Paul stands with the Athenians as fellow-creatures of God. Tier C7 inclusive datapoint."
+          "rationale": "The opening assertion precedes the introduction of poetic testimony. The Thai leaves it in Paul’s own speech because its proposed poetic source is uncertain."
         },
         {
           "greek": "ὡς καί τινες τῶν καθ’ὑμᾶς ποιητῶν εἰρήκασιν",
@@ -853,10 +853,10 @@
         {
           "greek": "Τοῦ γὰρ καὶ γένος ἐσμέν",
           "thai": "เพราะพวกเราเป็นเชื้อสายของพระองค์ด้วย",
-          "rationale": "Per uW figs-quotemarks + figs-quotesinquotes: SECOND DIRECT QUOTATION — from Aratus of Soli's Phaenomena 5 (3rd c. BC, the opening invocation to Zeus) AND/OR Cleanthes' Hymn to Zeus (4th line). The phrase τοῦ γένος ἐσμέν appears verbatim in Aratus. Per uW figs-metaphor: γένος = 'offspring' (lit. 'race, kind, descended-line'). Both poets meant this of Zeus; Paul appropriates the line and re-targets it to the true Creator-God. Thai 'เชื้อสาย' (descended-line, lineage) captures γένος. INCLUSIVE 'we' continues. The two quotations bookend Paul's argument: (1) we live in him (immanence-of-God), (2) we are his offspring (theological-anthropology of human-as-created-by-God). Both are launching-pads for v.29's polemic against idolatry."
+          "rationale": "Paul first speaks of living, moving and being in God. Only then does he introduce words from his audience’s poets. Attribution of the first statement to Epimenides is uncertain. The offspring line closely parallels Aratus, Phaenomena 5: Acts uses ἐσμέν where Aratus has εἰμέν. Cleanthes offers a related thought. Acts names no individual poet."
         }
       ],
-      "notes": "**TWO DIRECT GREEK-POETIC CITATIONS**: (1) Epimenides of Crete (Cretica) at v.28a; (2) Aratus, Phaenomena 5 / Cleanthes, Hymn to Zeus at v.28b. Paul's classical-rhetorical strategy: re-target Zeus-pantheism into Creator-monotheism. Both 1pl pronouns INCLUSIVE — Tier C7 datapoints. Note Paul also quotes Epimenides at TIT 1:12 ('Cretans are always liars...') — same poet, different fragment, different rhetorical purpose. No textual variant. No hapax (γένος is common; ποιητής is in JAS 1:22 in different sense)."
+      "notes": "Paul first speaks of living, moving and being in God. Only then does he introduce words from his audience’s poets. Attribution of the first statement to Epimenides is uncertain. The offspring line closely parallels Aratus, Phaenomena 5: Acts uses ἐσμέν where Aratus has εἰμέν. Cleanthes offers a related thought. Acts names no individual poet."
     }
   },
   {
@@ -898,7 +898,7 @@
     "translation": {
       "thai": "ดังนั้น แม้พระเจ้าทรงมองข้ามวาระแห่งความไม่รู้นั้นไปแล้ว แต่บัดนี้ทรงบัญชาแก่มนุษย์ทุกคนในทุกที่ให้กลับใจ",
       "thai_literal": "ดังนั้นเวลาแห่งความไม่รู้ พระเจ้าทรงมองข้ามแล้ว ในบัดนี้ทรงบัญชาแก่มนุษย์ทุกคนในทุกแห่งให้กลับใจ",
-      "thai_summary": "ข้อนี้เป็นจุดเปลี่ยนทางเทววิทยาที่สำคัญ — พระเจ้า “ทรงมองข้าม” (ὑπεριδών) วาระก่อนหน้าของลัทธิรูปเคารพ ไม่ใช่เพราะทรงเห็นชอบ แต่เพราะทรงทรงอดกลั้นในความเมตตาของพระองค์ (เทียบกับ กจ. 14:16 — “พระองค์ทรงปล่อยให้ทุกประชาชาติดำเนินตามทางของตน”; รม. 3:25 — “พระเจ้าทรงปล่อยผ่านบาปที่กระทำในอดีตด้วยความอดกลั้น”) แต่ในบัดนี้ — ตั้งแต่การเสด็จมาของพระเยซูคริสต์ — สถานการณ์เปลี่ยนแปลง: มนุษย์ทุกคนในทุกที่ได้รับคำสั่งให้กลับใจ ไม่มีการยกเว้นอีกต่อไป — ไม่ใช่เพียงในยุดาห์ ไม่ใช่เพียงคนยิว แต่ทุกคนทุกที่ ไอน์ฟัสซิสซิตี้ของข่าวประเสริฐ — ความเร่งด่วนสากลของการเรียกให้กลับใจ — เป็นข้อสรุปของสุนทรพจน์",
+      "thai_summary": "เปาโลกล่าวว่าพระเจ้าทรงมองข้ามช่วงเวลาที่มนุษย์ไม่รู้ แต่บัดนี้ทรงบัญชาให้มนุษย์ทุกคนกลับใจ คำว่า “ทุกคน” และ “ทุกที่” เน้นว่าพระบัญชานี้ครอบคลุมผู้ฟังที่เอเธนส์และผู้คนทุกแห่ง",
       "key_decisions": [
         {
           "greek": "τοὺς μὲν οὖν χρόνους τῆς ἀγνοίας ὑπεριδὼν ὁ θεὸς",
@@ -933,7 +933,7 @@
         {
           "greek": "ἐν ἀνδρὶ ᾧ ὥρισεν",
           "thai": "โดยบุรุษผู้หนึ่งซึ่งทรงแต่งตั้งไว้",
-          "rationale": "Per uW figs-explicit: ἐν ἀνδρὶ implicitly = Jesus (named only at v.18 in this chapter). Paul does NOT name Jesus here — leaves the eschatological-judge-identity for the audience to infer (some did at v.34). Thai 'บุรุษผู้หนึ่ง' (a-certain-man) preserves the partly-veiled designation. ὁρίζω = appoint, designate (cognate of ὁροθεσία v.26 'boundary-setting'). Same root used for Jesus's destiny in ROM 1:4 (ὁρισθέντος υἱοῦ θεοῦ 'designated Son of God'), ACT 2:23 (ὡρισμένῃ βουλῇ 'determined plan'), ACT 10:42 (ὡρισμένος ὑπὸ τοῦ θεοῦ 'designated by God' as judge of living and dead). The verb-cluster ὁρίζω marks divine-determinative-action."
+          "rationale": "Paul says that God will judge the inhabited world in righteousness. The phrase is found in Greek Psalms 9:9, 95:13 and 97:9. Here God appoints a day and a man and gives assurance by raising him from the dead. Thai หลักฐาน conveys this evidential sense. Verse 34 names some who believed without recounting their private reasoning."
         },
         {
           "greek": "πίστιν παρασχὼν πᾶσιν ἀναστήσας αὐτὸν ἐκ νεκρῶν",
@@ -1003,7 +1003,7 @@
     "translation": {
       "thai": "แต่มีบางคนที่เข้าร่วมกับท่านและได้เชื่อ ในบรรดาคนเหล่านั้นมีดิโอนีซิอัส สมาชิกสภาอาเรโอปากัส และสตรีคนหนึ่งชื่อดามาริส กับคนอื่นๆ ที่อยู่กับพวกเขาด้วย",
       "thai_literal": "บางคนที่เป็นชายติดตามไปกับท่านและเชื่อ ในบรรดาคนเหล่านั้นก็มีดิโอนีซิอัสสมาชิกอาเรโอปากัส และสตรีคนหนึ่งชื่อดามาริส และคนอื่นกับพวกเขา",
-      "thai_summary": "แม้สุนทรพจน์ที่อาเรโอปากัสจะดูเหมือนล้มเหลวในแง่ปริมาณ (ไม่มีจำนวนผู้เชื่อมากเหมือนเมืองอื่นๆ) แต่มีผลทางคุณภาพที่น่าสนใจ: (1) “ดิโอนีซิอัส สมาชิกสภาอาเรโอปากัส” — สมาชิกของสภาขุนนางสูงสุดของเอเธนส์เชื่อ ตามประเพณีของศาสนจักรในยุคต่อมา ดิโอนีซิอัสกลายเป็นบิชอปคนแรกของเอเธนส์ (Eusebius, Hist. Eccl. 3.4.10); (2) “ดามารιส” — สตรีที่ลูกาเอ่ยชื่อแยกต่างหาก ซึ่งบ่งชี้ว่าเธอมีฐานะทางสังคมที่สมควรกล่าวถึง อาจเป็นชาวยิวที่ยำเกรงพระเจ้าหรือสตรีชั้นสูงของเอเธนส์; (3) “คนอื่นๆ ที่อยู่กับพวกเขา” — แสดงว่ามีกลุ่มผู้เชื่อขนาดเล็กที่กำลังเริ่มก่อตัวในเอเธนส์ ลูกาไม่เน้นเรื่องการก่อตั้งคริสตจักรในเอเธนส์ — สำหรับเปาโลเองดูเหมือนว่าผลลัพธ์ที่นี่ไม่น่าพอใจ (1 คร. 1:18-25 อาจสะท้อนการเรียนรู้ของเปาโลจากเอเธนส์ — ที่กำลังจะมุ่งไปที่โครินธ์เพื่อ “ไม่รู้สิ่งใดในท่ามกลางพวกท่านนอกจากพระเยซูคริสต์และที่พระองค์ทรงถูกตรึง”)",
+      "thai_summary": "บางคนเข้าร่วมกับเปาโลและเชื่อ ลูกาเอ่ยชื่อดิโอนีซิอัส สมาชิกสภาอาเรโอปากัส และสตรีชื่อดามาริส พร้อมกับกล่าวถึงคนอื่น ๆ ที่อยู่กับพวกเขา",
       "key_decisions": [
         {
           "greek": "τινὲς δὲ ἄνδρες κολληθέντες αὐτῷ ἐπίστευσαν",
@@ -1013,7 +1013,7 @@
         {
           "greek": "Διονύσιος ὁ Ἀρεοπαγίτης",
           "thai": "ดิโอนีซิอัส สมาชิกสภาอาเรโอปากัส",
-          "rationale": "TWO HAPAX: Διονύσιος + Ἀρεοπαγίτης (both NT-only here). NEW PROPER-NOUN LOCK: Διονύσιος → ดิโอนีซิอัส (standard Thai-Christian transliteration). Ἀρεοπαγίτης = 'member-of-the-Areopagus-council' (the high-society-judicial-body). Thai 'สมาชิกสภาอาเรโอปากัส' (member-of-Areopagus-council) makes the office-meaning explicit. Eusebius records that Dionysius later became first bishop of Athens (Hist. Eccl. 3.4.10) — pseudonymous Pseudo-Dionysian-Areopagite literature (5th-6th c. AD) was written under his name, though not actually by him."
+          "rationale": "Acts names Dionysius the Areopagite among those who believed. In Church History 3.4.11, Eusebius attributes to Dionysius of Corinth the later report that the Athenian Dionysius was the first bishop of the church at Athens. Acts itself names no subsequent church office."
         },
         {
           "greek": "γυνὴ ὀνόματι Δάμαρις",

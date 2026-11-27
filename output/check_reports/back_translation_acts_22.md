@@ -11,7 +11,7 @@ Mode: in-chat (Claude-produced back-translations) | Threshold: 0.35
 ## ℹ Low similarity — rationale documented (intentional divergence)
 
 - **Acts 22:3** (sim=0.29)
-  - Thai: «ข้าพเจ้าเป็นชาวยิว เกิดที่เมืองทาร์ซัสในแคว้นซิลีเซีย แต่เติบโตในกรุงนี้ ได้รับการศึกษาแทบเท้าของอาจารย์กามาลิเอลตามแบบเคร่งครัดของธรรมบัญญัติแห่งบรรพบุรุษของเรา ข้าพเจ้ามีใจกระตือรือร้นเพื่อพระเจ้าเช่นเดียวกับที่ท่านทุกคนเป็นอยู่ในวันนี้
+  - Thai: “ข้าพเจ้าเป็นชาวยิว เกิดที่เมืองทาร์ซัสในแคว้นซิลีเซีย แต่เติบโตในกรุงนี้ ได้รับการศึกษาแทบเท้าของอาจารย์กามาลิเอลตามแบบเคร่งครัดของธรรมบัญญัติแห่งบรรพบุรุษของเรา ข้าพเจ้ามีใจกระตือรือร้นเพื่อพระเจ้าเช่นเดียวกับที่ท่านทุกคนเป็นอยู่ในวันนี้
   - Back: I am a Jew, born in the city of Tarsus in the province of Cilicia, but raised in this city, and I was educated at the feet of teacher Gamaliel according to the strict pattern of the Law of our ancestors. I had a fervent heart for God just as all of you are today,
   - BSB:  “I am a Jew, born in Tarsus of Cilicia, but raised in this city. I was educated at the feet of Gamaliel in strict conformity to the law of our fathers. I was just as zealous for God as any of you are today.
 - **Acts 22:5** (sim=0.06)

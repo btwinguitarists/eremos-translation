@@ -108,7 +108,7 @@
     "translation": {
       "thai": "โครเนลิอัสจ้องมองทูตสวรรค์ด้วยความกลัวและถามว่า “ท่านเจ้าข้า มีอะไรหรือ?” ทูตสวรรค์ตอบเขาว่า “คำอธิษฐานและทานของเจ้าได้ขึ้นไปเป็นที่ระลึกต่อหน้าพระเจ้าแล้ว",
       "thai_literal": null,
-      "thai_summary": "คำว่า “เป็นที่ระลึก” (μνημόσυνον) ในพันธสัญญาเดิมหมายถึงส่วนของเครื่องบูชาที่ปุโรหิตเผาบนแท่นบูชาเพื่อให้กลิ่นหอมขึ้นไปถึงพระเจ้า (เลวีนิติ 2:2, 2:9, 6:15) ทูตสวรรค์กำลังบอกว่าคำอธิษฐานและการให้ทานของโครเนลิอัสเปรียบเหมือนเครื่องบูชาที่หอมหวานขึ้นไปถึงพระเจ้า นี่เป็นภาพที่ประหลาดใจ — เพราะเขาไม่ใช่ยิว ไม่ได้ถวายเครื่องบูชาที่พระวิหาร แต่พระเจ้าทรงรับรองว่าการนมัสการของเขาเป็นที่พอพระทัย",
+      "thai_summary": "ทูตสวรรค์บอกโครเนลิอัสว่าคำอธิษฐานและการช่วยเหลือคนยากจนของเขาขึ้นไปเป็นที่ระลึกต่อพระพักตร์พระเจ้า คำว่า “ที่ระลึก” ชวนให้นึกถึงเครื่องบูชาในเลวีนิติ ต่อมาโครเนลิอัสเล่าว่าพระเจ้าทรงสดับคำอธิษฐานและทรงระลึกถึงการให้ทานของเขา (กิจการ 10:31)",
       "key_decisions": [
         {
           "greek": "ἀτενίσας αὐτῷ καὶ ἔμφοβος γενόμενος",
@@ -123,10 +123,10 @@
         {
           "greek": "μνημόσυνον ἔμπροσθεν τοῦ θεοῦ",
           "thai": "เป็นที่ระลึกต่อหน้าพระเจ้า",
-          "rationale": "Per uW figs-metaphor + figs-idiom: μνημόσυνον 'memorial offering' = the portion of the grain offering burnt on the altar as a 'pleasing aroma' to remind God of the worshiper (LXX Lev 2:2, 2:9, 2:16 ΤΟ ΜΝΗΜΟΣΥΝΟΝ ΑΥΤΗΣ; same Greek word for Hebrew אַזְכָּרָה 'azkarah'). Thai 'เป็นที่ระลึก' glossary-locked from MAT 26:13 / MRK 14:9 'εἰς μνημόσυνον αὐτῆς → เป็นที่ระลึกถึงนาง' (woman-anointed-Jesus) — same Greek word, similar preserved-memory theology here. ἔμπροσθεν τοῦ θεοῦ → ต่อหน้าพระเจ้า (in-presence-of-God). NOTE: contextual register — using 'ต่อหน้าพระเจ้า' here instead of 'เบื้องพระพักตร์' because the angel describes a Levitical-offering-ascending to God which is less throne-room-court and more altar-sacrifice; the lower register 'ต่อหน้า' is more neutral offering-altar register. ADD TO OT CITATIONS: LEV 2:2, 2:9, 2:16, 6:15 LXX μνημόσυνον-of-grain-offering — strongest Hellenistic-Jewish readers would recognize the sacrificial-technical-term."
+          "rationale": "Leviticus uses μνημόσυνον for the memorial portion of a grain offering, including Greek Leviticus 6:8 (English 6:15). Acts 10:4 compares the prayers and gifts to the poor with a memorial before God. In 10:31 Cornelius is told that God heard his prayer and remembered his gifts. The account does not establish whether he could offer a sacrifice or equate his giving with a particular sacrifice."
         }
       ],
-      "notes": "OT CITATION (added to nt_ot_citations.json): LUKE uses μνημόσυνον to describe Gentile alms-and-prayer as equivalent-to-Levitical-memorial-offering (LXX Lev 2:2, 2:9, 2:16, 6:15 ΤΟ ΜΝΗΜΟΣΥΝΟΝ ΑΥΤΗΣ — portion of grain-offering burnt on altar as 'pleasing aroma'). The sacrificial-metaphor applied to a Gentile-non-Jew's devotional practices is theologically radical: Cornelius has no access to the Jerusalem temple's sacrificial system, yet his prayers + alms function as sacrificial-memorial before God. This Levitical-frame reinforces the narrative's central claim: God accepts this Gentile-God-fearer without requiring Jewish-covenant-markers. Per uW figs-metaphor: translate as simile 'like a memorial offering' OR explain as metonymy 'God is aware and pleased' — Thai preserves the sacrificial-metaphor itself and uses thai_summary to unpack Leviticus-background for Thai readers without Hellenistic-Jewish assumptions. No hapax. No textual variant."
+      "notes": "The term for a memorial recalls the grain offering in Leviticus 2:2, 9, 16 and in Greek Leviticus 6:8. Acts describes Cornelius’s own prayers and generosity."
     }
   },
   {
@@ -301,7 +301,7 @@
     "greek": "καὶ θεωρεῖ τὸν οὐρανὸν ἀνεῳγμένον καὶ καταβαῖνον σκεῦός τι ὡς ὀθόνην μεγάλην τέσσαρσιν ἀρχαῖς καθιέμενον ἐπὶ τῆς γῆς,",
     "bsb_english": "He saw heaven open and something like a large sheet being let down to earth by its four corners.",
     "translation": {
-      "thai": "เปโตรเห็นฟ้าสวรรค์เปิดออกและมีภาชนะบางอย่างเหมือนผ้าป่านผืนใหญ่ถูกหย่อนลงมายังแผ่นดินโลกโดยผูกที่มุมทั้งสี่",
+      "thai": "เปโตรเห็นฟ้าสวรรค์เปิดออกและมีภาชนะบางอย่างเหมือนผ้าผืนใหญ่ ถูกหย่อนลงมายังแผ่นดินโลกทางมุมทั้งสี่",
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
@@ -312,16 +312,16 @@
         },
         {
           "greek": "σκεῦός τι ὡς ὀθόνην μεγάλην",
-          "thai": "ภาชนะบางอย่างเหมือนผ้าป่านผืนใหญ่",
-          "rationale": "σκεῦος → ภาชนะ (container/vessel, glossary-locked). Per uW figs-simile: σκεῦος is compared-to ὀθόνη — not identical-to. Thai 'ภาชนะ...เหมือนผ้าป่าน' preserves the simile structure. ὀθόνη → ผ้าป่าน (linen-sheet, glossary-locked from JHN 20:6-7 grave-cloths 'ὀθόνια' diminutive-form; here the larger ὀθόνη is the big-sheet, Thai 'ผืนใหญ่' supplies the size. The ὀθόνη is probably a large fine-linen sheet like a ship's sail or a tent-covering — the only NT occurrence of this specific word. Ancient sheep-grazing on Mediterranean hills routinely provided this kind of household-textile."
+          "thai": "ภาชนะบางอย่างเหมือนผ้าผืนใหญ่",
+          "rationale": "SBLGNT describes an object like a large sheet being lowered by its four corners. Robinson–Pierpont adds δεδεμένον, “tied,” in Acts 10:11. The Thai follows the selected Greek. The noun ὀθόνη occurs again in Peter’s retelling in Acts 11:5. Neither passage identifies a particular material for this sheet."
         },
         {
           "greek": "τέσσαρσιν ἀρχαῖς καθιέμενον ἐπὶ τῆς γῆς",
-          "thai": "ถูกหย่อนลงมายังแผ่นดินโลกโดยผูกที่มุมทั้งสี่",
-          "rationale": "Per uW figs-activepassive: passive καθιέμενον 'being-let-down' → Thai 'ถูกหย่อนลง' (was-being-lowered — passive preserved in Thai). ἀρχαῖς here = 'corners/ends' of the sheet (lit. 'beginnings,' but idiomatic for sheet-corners per LSJ). Thai 'ที่มุมทั้งสี่' (at-the-four-corners) — the four-corners-gathered detail emphasizes the sheet is being lowered-like-a-container held at four cardinal-points (typical way to lower a cargo-sheet or ensign from a height). Image: a heavenly-hand lowering a wrapped-bundle to earth."
+          "thai": "ถูกหย่อนลงมายังแผ่นดินโลกทางมุมทั้งสี่",
+          "rationale": "τέσσαρσιν ἀρχαῖς identifies the corners by which the object is lowered. The selected text leaves the means of fastening unspecified."
         }
       ],
-      "notes": "Per uW translate-tense + figs-activepassive: Luke uses historic-present θεωρεῖ for narrative-foregrounding, then passive-participle caθιέμενον for the descending motion. The image draws on Hellenistic-cosmological imagination: heaven has an aperture that can open, lowering heavenly-content to earth — a trope shared with apocalyptic-literature (Ezek 1:1 'the heavens were opened'; Rev 4:1 'a door standing open in heaven'). For Peter this is a direct theophanic-portal. The sheet-with-four-corners is a ritually-resonant image: four-corners of the earth (Isa 11:12 LXX ἐκ τῶν τεσσάρων πτερύγων τῆς γῆς; Ezek 7:2; Rev 7:1 four-corners-of-earth motif) — the container gathers 'all-kinds' as the-earth-gathered-to-one-sheet. No hapax. No textual variant."
+      "notes": "SBLGNT describes an object like a large sheet being lowered by its four corners. Robinson–Pierpont adds δεδεμένον, “tied,” in Acts 10:11. The Thai follows the selected Greek. The noun ὀθόνη occurs again in Peter’s retelling in Acts 11:5. Neither passage identifies a particular material for this sheet."
     }
   },
   {
@@ -413,15 +413,15 @@
         {
           "greek": "Ἃ ὁ θεὸς ἐκαθάρισεν",
           "thai": "สิ่งใดที่พระเจ้าทรงชำระแล้ว",
-          "rationale": "Per uW figs-123person: God speaks of himself in third-person here; uW suggests alternative 'What I, God, have cleansed' for languages that prefer first-person-for-self-reference. Thai preserves the third-person 'พระเจ้า' because Thai-divine-narrative naturally uses third-person even in first-person-divine-speech (the ทรง-royal-register sufficiently marks God as the agent-subject). ἐκαθάρισεν aor → ทรงชำระแล้ว (royal-register + past-completed-aspect 'has-already-cleansed'). κακαθαρίζω → ชำระ (glossary-locked; the Mosaic-ritual-cleansing verb applied authoritatively by God himself to what was formerly-unclean)."
+          "rationale": "The voice speaks of what God cleansed. ἐκαθάρισεν is from καθαρίζω. The voice refers to God in the third person; Luke does not name its speaker here."
         },
         {
           "greek": "σὺ μὴ κοίνου",
           "thai": "เจ้าอย่าเรียกว่าเป็นมลทิน",
-          "rationale": "Per uW writing-pronouns: emphatic σύ 'you yourself' adds weight to the imperative. Thai 'เจ้า' (2sg-to-subordinate, matching the divine-to-human register of v.13, 20). κοινόω present-imperative-middle 'do-not-call-common' → 'อย่าเรียกว่าเป็นมลทิน' (do-not-declare-common/defiled). The imperative-present forbids the ongoing-practice: 'stop-declaring/do-not-continue-declaring.' Thai 'อย่าเรียก' captures the speech-act-prohibition."
+          "rationale": "σὺ μὴ κοίνου directs Peter not to treat as common what God has cleansed. κοίνου is a present active imperative. The Thai expresses the prohibition with อย่าเรียกว่าเป็นมลทิน."
         }
       ],
-      "notes": "The theological CENTER of the vision. God (who gave the Mosaic distinction between clean and unclean) asserts sovereign authority to DECLARE things-formerly-unclean cleansed — and Peter must not override this declaration with continuing-human-speech-of-commonality. This anticipates both the dietary-boundary dismantling (Mark 7:19 'καθαρίζων πάντα τὰ βρώματα' — cleansing all foods; preserved in Mark's parenthetical commentary) AND the people-boundary dismantling that v.28 will make explicit. Per uW figs-123person + writing-pronouns: God speaks of himself in third person (standard divine-oracle-style); emphatic σύ for rhetorical weight. The aorist ἐκαθάρισεν denotes a completed-divine-act whose validity Peter cannot negate by speech. No hapax. No textual variant."
+      "notes": "ἐκαθάρισεν is the aorist active of καθαρίζω; God is its subject. In μὴ κοίνου the contracted verb is a present active imperative of κοινόω addressed to Peter. The narrator calls the speaker a voice. The imperative does not establish a prior habit."
     }
   },
   {
@@ -433,12 +433,12 @@
     "translation": {
       "thai": "เหตุการณ์นี้เกิดขึ้นถึงสามครั้ง แล้วทันใดนั้นภาชนะก็ถูกรับกลับขึ้นไปยังฟ้าสวรรค์",
       "thai_literal": null,
-      "thai_summary": "การทำซ้ำสามครั้งเป็นรูปแบบที่พบบ่อยในพันธสัญญาเดิมเพื่อยืนยันคำสั่งของพระเจ้าอย่างเด็ดขาด — ซามูเอลถูกเรียกสามครั้ง (1 ซามูเอล 3:4-10) ฟาโรห์ฝันสองความฝันเพื่อยืนยัน (ปฐมกาล 41:32) เปโตรเองก็ปฏิเสธพระเยซูสามครั้งและได้รับการฟื้นฟูสามครั้ง (ยอห์น 21:15-17) การทำซ้ำสามครั้งนี้ปิดทางให้เปโตรไม่สามารถคิดว่าเป็นเรื่องที่เกิดจากจินตนาการของตน",
+      "thai_summary": "เปโตรเห็นเหตุการณ์นี้เกิดขึ้นสามครั้ง ก่อนที่ภาชนะจะถูกรับกลับขึ้นไปบนฟ้า การเล่าเรื่องย้ำสิ่งที่เปโตรเห็นและได้ยิน ลูกาบันทึกคำปฏิเสธของเปโตรไว้ครั้งหนึ่งในข้อ 14",
       "key_decisions": [
         {
           "greek": "τοῦτο δὲ ἐγένετο ἐπὶ τρίς",
           "thai": "เหตุการณ์นี้เกิดขึ้นถึงสามครั้ง",
-          "rationale": "Per uW figs-explicit: could mean (1) the full exchange (voice-commands + Peter-refuses + voice-corrects) happened 3x, OR (2) only the voice-saying-cleansed happened 3x after Peter's one refusal. uW allows either. Thai 'เหตุการณ์นี้' (this-event, deliberately non-specific) preserves the ambiguity — matches uW's recommended 'This happened three times.' The threefold-repetition pattern is independently important (OT-narrative-convention for divine-confirmation)."
+          "rationale": "The narrator says “this happened three times.” He does not repeat the dialogue or specify how many times Peter spoke the objection recorded in verse 14."
         },
         {
           "greek": "εὐθὺς ἀνελήμφθη τὸ σκεῦος εἰς τὸν οὐρανόν",
@@ -446,7 +446,7 @@
           "rationale": "Per uW figs-activepassive: ἀνελήμφθη passive 'was-taken-up' → Thai 'ถูกรับกลับขึ้นไป' (passive-preserved). ἀναλαμβάνω 'take up' — same verb used for Jesus's ascension (ACT 1:2, 1:11, 1:22 'ἀνελήμφθη ἀφ’ ἡμῶν'). The sheet's 'being-taken-up-to-heaven' echoes the ascension vocabulary. εὐθύς 'immediately' → ทันใดนั้น (in-an-instant); emphasizes the abruptness of the vision's end after the three-fold repetition. οὐρανός → ฟ้าสวรรค์ (consistent with v.11 'heaven opened')."
         }
       ],
-      "notes": "The three-fold-repetition closes the vision decisively. Per uW figs-activepassive + figs-explicit: passive-form 'was-taken-up,' Thai-preserved; ambiguity preserved about whether the full exchange or the final-voice-saying happened 3x. The threefold-pattern is OT-canonical: Samuel's three-time calling (1 Sam 3:4-10), Elijah's three-fold demand for his cloak-of-succession (2 Kgs 2:9-14), Jonah's three days (Jonah 1:17) — and in NT: Peter's three-fold denial (LUK 22:54-62) + three-fold restoration (JHN 21:15-17). God's use of 3x-repetition for this particular man Peter has poignant echoes — the denier-restored now receives his commissioning-for-Gentile-mission through the same threefold-pattern. No hapax. No textual variant."
+      "notes": "Acts records one refusal in 10:14 and says this happened three times. It does not transcribe three separate objections. In 2 Kings 2 Elijah repeatedly asks Elisha to stay behind; Elisha requests a double share once and later picks up Elijah’s fallen cloak. In 1 Samuel 3 the Lord calls again after Eli recognizes the significance of the first three calls."
     }
   },
   {
@@ -606,14 +606,14 @@
     "greek": "οἱ δὲ εἶπαν·Κορνήλιος ἑκατοντάρχης,ἀνὴρ δίκαιος καὶ φοβούμενος τὸν θεὸν μαρτυρούμενός τε ὑπὸ ὅλου τοῦ ἔθνους τῶν Ἰουδαίων,ἐχρηματίσθη ὑπὸ ἀγγέλου ἁγίου μεταπέμψασθαί σε εἰς τὸν οἶκον αὐτοῦ καὶ ἀκοῦσαι ῥήματα παρὰ σοῦ.",
     "bsb_english": "“Cornelius the centurion has sent us,” they said. “He is a righteous and God-fearing man with a good reputation among the whole Jewish nation. A holy angel instructed him to request your presence in his home so he could hear a message from you.”",
     "translation": {
-      "thai": "พวกเขาจึงตอบว่า “โครเนลิอัสนายร้อยผู้เป็นคนชอบธรรมและยำเกรงพระเจ้า และเป็นที่นับถือในหมู่ชนชาติยิวทั้งปวง ได้รับคำกำชับจากทูตสวรรค์บริสุทธิ์องค์หนึ่งให้ตามตัวท่านไปที่บ้านของเขาและฟังถ้อยคำจากท่าน”",
+      "thai": "พวกเขาจึงตอบว่า “โครเนลิอัสนายร้อยผู้เป็นคนชอบธรรมและยำเกรงพระเจ้า และเป็นที่นับถือในหมู่ชนชาติยิวทั้งปวง ได้รับคำกำชับจากทูตสวรรค์บริสุทธิ์องค์หนึ่งให้เชิญท่านไปที่บ้านของเขา เพื่อโครเนลิอัสจะได้ฟังถ้อยคำจากท่าน”",
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
         {
           "greek": "ἀνὴρ δίκαιος καὶ φοβούμενος τὸν θεὸν",
           "thai": "คนชอบธรรมและยำเกรงพระเจ้า",
-          "rationale": "Per uW figs-doublet + figs-explicit: 'righteous and fearing-God' is a doublet, but φοβούμενος τὸν θεόν also carries the technical 'God-fearer' sense (see v.2 note). Thai preserves the doublet 'คนชอบธรรม' + 'ยำเกรงพระเจ้า' — matches v.2 register. This introduces Cornelius to Peter with the VERY SAME doublet Luke used to introduce him to readers at v.2 — Luke's authorial signature of doubled-introduction is preserved in Thai."
+          "rationale": "Verse 2 describes Cornelius as εὐσεβής, devout. The messengers call him δίκαιος, righteous, in verse 22. Both descriptions mention his reverence for God. The passive μαρτυρούμενος describes others speaking well of him. Cornelius is to summon Peter and hear his words."
         },
         {
           "greek": "μαρτυρούμενός τε ὑπὸ ὅλου τοῦ ἔθνους τῶν Ἰουδαίων",
@@ -627,8 +627,8 @@
         },
         {
           "greek": "ἀκοῦσαι ῥήματα παρὰ σοῦ",
-          "thai": "ฟังถ้อยคำจากท่าน",
-          "rationale": "Per uW figs-metonymy: ῥήματα 'words' = a message (the things-Peter-will-say). Thai 'ถ้อยคำ' (words/utterance) preserves the metonymy; 'message' would be too-directly-translated-away. The plural ῥήματα suggests more-than-a-single-sentence — Cornelius expects substantial teaching."
+          "thai": "เพื่อโครเนลิอัสจะได้ฟังถ้อยคำจากท่าน",
+          "rationale": "The centurion is the subject of both infinitives, summoning Peter and hearing words from him. ท่าน addresses Peter; the Thai identifies Cornelius as the one who is to listen."
         }
       ],
       "notes": "Per uW figs-quotesinquotes + writing-pronouns + figs-synecdoche: the messengers report Cornelius's self-description as part of their mission-explanation; likely one spokesperson-for-three. Per uW figs-doublet + figs-activepassive + figs-hyperbole + figs-metonymy: Luke loads this verse with several standard-figures — all preserved-in-sense via natural Thai idiom. The verse is a MIRROR of v.2 (same doublet for Cornelius's piety) — Luke's compositional-signature. The 'whole-Jewish-nation-respects-him' detail preempts Peter's anticipated-Jewish-scruple. No hapax. No textual variant."
@@ -768,10 +768,10 @@
         {
           "greek": "εὑρίσκει συνεληλυθότας πολλούς",
           "thai": "พบว่ามีคนมาชุมนุมกันอยู่เป็นจำนวนมาก",
-          "rationale": "Per uW translate-tense: historic-present εὑρίσκει → Thai natural past-tense 'พบ' (found). Per uW figs-activepassive: perfect-passive-participle συνεληλυθότας 'having-been-gathered' → active Thai 'มาชุมนุมกัน' (came-and-gathered-themselves). πολλούς 'many' → เป็นจำนวนมาก. The gathering-inside-the-house is substantial — not just family but an extended-God-fearer community."
+          "rationale": "พบว่ามีคนมาชุมนุมกันอยู่เป็นจำนวนมาก conveys what Peter finds on entering. The participle describes the people as already assembled."
         }
       ],
-      "notes": "1 HAPAX: συνομιλέω (v.27 conversing → สนทนา, NT-only). Per uW writing-pronouns + translate-tense + figs-activepassive: pronoun-clarification + historic-present + active-conversion of passive-participle. Peter enters a substantial-assembly, prepared and eager — this is not a private audience but a public-gathering. No textual variant."
+      "notes": "συνεληλυθότας is a perfect active participle of συνέρχομαι. It describes many people who had gathered. Verse 24 identifies relatives and close friends invited by Cornelius. Luke leaves their individual affiliations and any wider access to the meeting unspecified."
     }
   },
   {
@@ -818,12 +818,12 @@
         {
           "greek": "ἀναντιρρήτως",
           "thai": "โดยไม่คัดค้านเลย",
-          "rationale": "HAPAX ἀναντιρρήτως (NT-only-here; ἀ-not + ἀντί-against + ῥητός-spoken; 'without-speaking-against/without-objection'). Thai 'โดยไม่คัดค้านเลย' (without-opposition-at-all) preserves the un-contradictory sense. Peter emphasizes his unreserved-obedience — contrast with his rooftop-hesitation (vv.14-16) where he DID object 3x."
+          "rationale": "ἀναντιρρήτως describes Peter coming without objection when summoned. Acts 10:16 reports the threefold repetition of the vision, while 10:14 records one spoken objection. Here the second-person plural can address Cornelius together with the assembled hearers."
         },
         {
           "greek": "πυνθάνομαι οὖν τίνι λόγῳ μετεπέμψασθέ με",
           "thai": "ข้าพเจ้าจึงขอถามว่าท่านเชิญข้าพเจ้ามาด้วยเหตุใด?",
-          "rationale": "Per uW figs-yousingular: μετεπέμψασθέ 2pl — Peter addresses everyone present, not just Cornelius. Thai 'ท่าน' is ambiguous-singular-plural; context and 'ท่านทั้งหลาย' (v.28) has already established plural-audience. 'ขอถาม...ด้วยเหตุใด' (may-I-ask...for-what-reason) preserves the polite-inquiry form."
+          "rationale": "μετεπέμψασθε is plural. Peter can address the group, including the host who sent for him. Thai ท่าน is natural in this exchange."
         }
       ],
       "notes": "1 HAPAX: ἀναντιρρήτως (v.29 without-objection → โดยไม่คัดค้านเลย, NT-only; classical rare). Peter's question — though the messengers already told him the reason at v.22 — is a rhetorical-opening for Cornelius to retell his vision-experience before the full audience. This is Lucan narrative-technique: triple-narration of key events (cf. Saul's conversion 9:3-9, 22:6-11, 26:12-18; Cornelius's vision 10:3-6, 10:30-33, 11:13-14). The retelling with Peter present makes Cornelius's witness public-and-verifiable. Per uW figs-yousingular: plural-addressee. No textual variant."
@@ -948,12 +948,12 @@
     "translation": {
       "thai": "เปโตรจึงเริ่มต้นกล่าวว่า “บัดนี้ข้าพเจ้าเข้าใจอย่างแท้จริงแล้วว่าพระเจ้าไม่ทรงเลือกที่รักมักที่ชัง",
       "thai_literal": null,
-      "thai_summary": "คำพูดของเปโตรนี้เป็นการยืนยันหลักคำสอนสำคัญของพันธสัญญาเดิมว่าพระเจ้าไม่ทรงลำเอียง (เฉลยธรรมบัญญัติ 10:17 “พระเจ้าของพระเจ้าทั้งหลาย...ไม่ทรงลำเอียง” และ 2 พงศาวดาร 19:7 “ไม่มีการทรงลำเอียง”) แต่คำยืนยันนี้ได้รับความหมายใหม่ในยุคพระคริสต์ — ความไม่ลำเอียงของพระเจ้าในบัดนี้ไปถึงเรื่องชาติพันธุ์ด้วย ไม่ใช่เพียงเรื่องรวยจน เปโตรกำลังประกาศว่าการแบ่งแยกยิว-ต่างชาติทางความเชื่อสิ้นสุดแล้ว",
+      "thai_summary": "เมื่อได้ฟังโครเนลิอัส เปโตรกล่าวว่าเขาเข้าใจแล้วว่าพระเจ้าไม่ทรงลำเอียง เฉลยธรรมบัญญัติ 10:17–19 กล่าวถึงทั้งความยุติธรรมของพระเจ้าและความรักที่ทรงมีต่อคนต่างด้าว เปโตรนำหลักนี้มาอธิบายว่าพระเจ้าทรงรับคนจากทุกประชาชาติที่ยำเกรงพระองค์และประพฤติชอบ",
       "key_decisions": [
         {
           "greek": "Ἀνοίξας δὲ Πέτρος τὸ στόμα εἶπεν",
           "thai": "เปโตรจึงเริ่มต้นกล่าว",
-          "rationale": "Per uW figs-explicitinfo: 'opening his mouth...said' contains redundant info; uW alternative 'Peter replied.' Thai 'เริ่มต้นกล่าว' (began to speak) compresses the Semitism naturally — preserves the narrative-moment-of-speech-opening without the literal 'opened his mouth.' This pattern (ἀνοίξας τὸ στόμα) is LXX-idiomatic (Gen 22:11 etc.) and marks solemn-formal-speech."
+          "rationale": "Peter begins to speak. The opening-mouth expression also introduces Job’s speech in Job 3:1 and Philip’s words in Acts 8:35."
         },
         {
           "greek": "Ἐπ’ἀληθείας καταλαμβάνομαι",
@@ -963,7 +963,7 @@
         {
           "greek": "οὐκ ἔστιν προσωπολήμπτης ὁ θεός",
           "thai": "พระเจ้าไม่ทรงเลือกที่รักมักที่ชัง",
-          "rationale": "HAPAX προσωπολήμπτης (NT-only-here; compound πρόσωπον-face + λαμβάνω-receive, translating the Hebrew nasa panim נָשָׂא פָּנִים 'lift-the-face' = show-partiality). Thai 'เลือกที่รักมักที่ชัง' is the Thai-idiom for 'show-favoritism/partiality' — standard Thai Christian rendering and natural-idiom-match. The negation 'ไม่ทรงเลือก' (does-not-choose-to-favor) preserves both the negative and the royal-register. ADD TO OT CITATIONS: DEU 10:17 LXX (ὁ θεός...οὐ θαυμάζει πρόσωπον 'does not lift faces'), 2 CH 19:7 LXX (οὐκ ἔστιν μετὰ κυρίου θεοῦ ἡμῶν ἀδικία οὐδὲ θαυμάσαι πρόσωπον), Job 34:19, Sir 35:12 — this is a standard LXX-Septuagintism about God's impartiality, here applied to ethnic-boundary crossing. Peter's word choice (hapax προσωπολήμπτης) is likely an Aramaic-derivative of the Hebrew-idiom rendered into Greek using the face-lifting metaphor."
+          "rationale": "Job 3:1 uses opening the mouth to introduce speech. Genesis 22:11 describes the angel calling to Abraham without that expression. In Deuteronomy 10:17–19 God shows no partiality, upholds the vulnerable and loves the resident foreigner. Peter applies that scriptural principle to people of every nation."
         }
       ],
       "notes": "1 HAPAX: προσωπολήμπτης (v.34 favoritism-shower → เลือกที่รักมักที่ชัง, NT-only; LXX-calque of Hebrew nasa panim). OT CITATION (added to nt_ot_citations.json): DEU 10:17 LXX + 2 CH 19:7 LXX + Job 34:19 + Sir 35:12 LXX — cluster of divine-impartiality-formula passages. The standard LXX formulation is θαυμάζειν πρόσωπον 'lift/marvel-at the face'; Luke (or Peter) uses the nominal-compound προσωπολήμπτης derived from the same Hebrew nasa-panim idiom. Per uW figs-explicit: Peter's specific-implicit-application is Jewish-Gentile, which the next verse v.35 makes explicit. Per uW figs-explicitinfo: 'opening-mouth-said' Semitic-redundancy compressed. The sermon-opening-formula 'ἀνοίξας τὸ στόμα' matches LXX solemn-oracle-openings (cf. Job 3:1, Dan 10:16, Ps 78:2). No textual variant."
@@ -1056,7 +1056,7 @@
           "rationale": "Peter's historical-sketch starts from John-the-Baptist's-ministry preceding Jesus's Galilean-ministry. Γαλιλαία → กาลิลี (locked); βάπτισμα → บัพติศมา (locked); Ἰωάννης → ยอห์น (locked). The 'Galilee-beginning-after-John's-baptism' frame matches the Synoptic-structure (Mark 1, Luke 3-4) — Peter summarizes Luke's own Gospel-structure for his Gentile-audience."
         }
       ],
-      "notes": "Per uW figs-metonymy + figs-hyperbole: ῥῆμα as event-matter; 'throughout all' as generalization. Peter's rhetorical appeal to his Gentile-audience's prior-knowledge suggests Jesus-narratives had spread regionally. The kerygma-structure (John-baptism → Galilee-beginning → Judea-ministry → death-resurrection) matches primitive-apostolic-preaching patterns preserved in early-creeds (1 Cor 15:3-8) and Synoptic-narratives. No hapax. No textual variant."
+      "notes": "In Acts 10 Peter begins with Galilee and the baptism John preached. First Corinthians 15:3–8 recounts death, burial, resurrection and appearances without that Galilee-and-John opening. Acts 10:38 describes Jesus doing good with the participle εὐεργετῶν. Luke 22:25 instead uses the noun εὐεργέται as a title."
     }
   },
   {
@@ -1083,7 +1083,7 @@
         {
           "greek": "διῆλθεν εὐεργετῶν καὶ ἰώμενος",
           "thai": "เสด็จไปตามที่ต่างๆ ทรงกระทำคุณประโยชน์และรักษา",
-          "rationale": "HAPAX εὐεργετέω (NT-only-here; 'do-good-deeds/be-a-benefactor'). Thai 'ทรงกระทำคุณประโยชน์' (perform-good-deeds, royal-register) captures the benefactor-action. Notable irony: in Greek political culture εὐεργέτης 'Benefactor' was a title bestowed on kings and wealthy patrons (Luke 22:25 uses εὐεργέται as a contested-label for Greco-Roman rulers). Peter applies this royal-political title to Jesus — a Messianic-benefactor claim. ἰάομαι → รักษา (heal, glossary-locked from LUK 17 contextual-variant 'physical-healing-recognition')."
+          "rationale": "εὐεργετῶν describes what Jesus did as he went about. He did good and healed people. The related noun εὐεργέται is a title applied to rulers in Luke 22:25; Acts here uses a verb to describe action."
         },
         {
           "greek": "πάντας τοὺς καταδυναστευομένους ὑπὸ τοῦ διαβόλου",
@@ -1203,15 +1203,15 @@
         {
           "greek": "διαμαρτύρασθαι",
           "thai": "เป็นพยาน",
-          "rationale": "διαμαρτύρομαι → เป็นพยาน (glossary-locked from ACT 8:25, with 'bear-solemn-witness' register). Thai 'เป็นพยาน' matches both μαρτυρέω (v.39) and διαμαρτύρομαι (v.42) — Thai does not require different verbs for the intensified-διά-prefix."
+          "rationale": "διαμαρτύρασθαι expresses the commission to testify. Verse 39 calls the apostles μάρτυρες, witnesses. The two verses use a verb and a related noun respectively."
         },
         {
           "greek": "ὁ ὡρισμένος ὑπὸ τοῦ θεοῦ κριτὴς ζώντων καὶ νεκρῶν",
           "thai": "ผู้ที่พระเจ้าทรงแต่งตั้งให้เป็นผู้พิพากษาของคนเป็นและคนตาย",
-          "rationale": "Per uW figs-activepassive: passive 'appointed' → active 'God appointed.' Thai 'ทรงแต่งตั้ง' (royal-appoint). κριτής → ผู้พิพากษา (judge, Thai-standard). ζώντων καὶ νεκρῶν: per uW figs-nominaladj, adjectives-as-nouns → Thai 'คนเป็นและคนตาย' natural-noun-pair. The universal-judgeship-claim echoes DAN 7:13-14 (Son-of-Man receives eternal-dominion + judgment) — thai_summary surfaces this. ADD TO OT CITATIONS: DAN 7:13-14 (Son-of-Man-judgment); also PSA 9:9 LXX (κρινεῖ τὴν οἰκουμένην ἐν δικαιοσύνῃ) and PSA 96:13 LXX (κρίνει τὴν οἰκουμένην)."
+          "rationale": "In verse 39 μάρτυρες is the noun “witnesses.” Verse 42 has the infinitive διαμαρτύρασθαι for bearing solemn witness. Greek Psalm 95:13 (English 96:13) speaks of judging the world. Daniel 7:13–14 describes receiving dominion after the courtroom scene in 7:9–10. Neither parallel supplies the exact title “judge of the living and the dead.”"
         }
       ],
-      "notes": "OT CITATION (added to nt_ot_citations.json): DAN 7:13-14 LXX Son-of-Man universal-judgment-authority; PSA 9:9 LXX 'κρινεῖ τὴν οἰκουμένην'; PSA 96:13 LXX 'κρίνει τὴν οἰκουμένην' — thematic cluster establishing Christ's end-time-judgeship in OT prophetic-typology. The 'judge of living and dead' formula recurs in apostolic-creedal contexts (2 Tim 4:1 'Jesus Christ who is to judge the living and the dead'; 1 Pet 4:5 'He who stands ready to judge the living and the dead') — Peter's Cornelius-sermon provides one of the earliest-attested iterations of this confessional-formula that the Apostles' Creed will later incorporate. Per uW figs-activepassive + figs-nominaladj: passive-appointed; adjective-as-noun living/dead. No hapax. No textual variant."
+      "notes": "In verse 39 μάρτυρες is the noun “witnesses.” Verse 42 has the infinitive διαμαρτύρασθαι for bearing solemn witness. Greek Psalm 95:13 (English 96:13) speaks of judging the world. Daniel 7:13–14 describes receiving dominion after the courtroom scene in 7:9–10. Neither parallel supplies the exact title “judge of the living and the dead.”"
     }
   },
   {
@@ -1223,7 +1223,7 @@
     "translation": {
       "thai": "ผู้เผยพระวจนะทุกคนเป็นพยานถึงพระองค์ว่า ทุกคนที่เชื่อในพระองค์จะได้รับการยกโทษบาปโดยทางพระนามของพระองค์”",
       "thai_literal": null,
-      "thai_summary": "วลี “ผู้เผยพระวจนะทุกคนเป็นพยาน” ไม่ได้หมายถึงข้อความเฉพาะข้อใดข้อหนึ่ง แต่หมายถึงการรวบรวมคำพยากรณ์ทั้งหมด — อิสยาห์ 53 เรื่องผู้รับใช้ที่ทนทุกข์เพื่อการอภัยบาป เยเรมีย์ 31:34 เรื่องพันธสัญญาใหม่ที่พระเจ้าจะทรงลืมบาป ดาเนียล 9:24 เรื่องการชำระความชั่วและการกำหนดความชอบธรรมชั่วนิรันดร์ เปโตรสรุปหัวใจของคำพยากรณ์พันธสัญญาเดิมทั้งหมดในประโยคเดียว",
+      "thai_summary": "เปโตรกล่าวว่าบรรดาผู้เผยพระวจนะเป็นพยานถึงพระเยซู และผู้ที่เชื่อในพระองค์ได้รับการยกโทษบาปโดยทางพระนามของพระองค์ เปโตรไม่ได้ยกข้อพระคัมภีร์ทีละตอนในที่นี้ ข้อความที่นำมาเปรียบเทียบได้คือเยเรมีย์ 31:34 ซึ่งพระเจ้าทรงสัญญาว่าจะไม่ทรงจดจำบาปของประชากรอีกต่อไป",
       "key_decisions": [
         {
           "greek": "τούτῳ πάντες οἱ προφῆται μαρτυροῦσιν",
@@ -1241,7 +1241,7 @@
           "rationale": "πιστεύω εἰς 'believe-into' = conversion-trust-formula (cf. ACT 9:42 ἐπίστευσαν πολλοὶ ἐπὶ τὸν κύριον). Thai 'เชื่อใน' locked-Christian-faith-verb. 'ทุกคน' (everyone) preserves the universal-scope that Peter has been building since v.34 — this is the sermon's climactic offer: forgiveness available-to-anyone-who-believes, irrespective of ethnic-boundary."
         }
       ],
-      "notes": "Peter's sermon-climax: the universal-offer of forgiveness-of-sins through Jesus's name to anyone-who-believes. Per uW writing-pronouns: 'this one' = Jesus. OT CITATION (thematic, no single-verse): ISA 53:11 (servant-bearing-iniquities); JER 31:34 (new-covenant forgiveness 'I will remember their sin no more'); DAN 9:24 (atoning for iniquity, bringing everlasting righteousness) — thematic-cluster-prophetic-witness rather than single-proof-text (cannot add to nt_ot_citations.json as single-verse but thai_summary mentions for reader-context). PHRASE LOCK ἄφεσιν ἁμαρτιῶν → การยกโทษบาป applied per RULES.md v0.5. No hapax. No textual variant."
+      "notes": "Peter speaks collectively of the prophets bearing witness that believers receive forgiveness through Jesus’ name. He does not list passages here. Jeremiah 31:34 promises that God will no longer remember sin. Isaiah 53 and Daniel 9 provide other thematic comparisons rather than a list given by Peter."
     }
   },
   {
@@ -1283,7 +1283,7 @@
     "translation": {
       "thai": "บรรดาผู้เชื่อที่เข้าสุหนัตแล้วซึ่งมากับเปโตรก็อัศจรรย์ใจ เพราะว่าของประทานแห่งพระวิญญาณบริสุทธิ์ได้หลั่งลงแก่คนต่างชาติด้วย",
       "thai_literal": null,
-      "thai_summary": "วลี “หลั่งลง” (ἐκκέχυται) สะท้อนคำพยากรณ์ของโยเอล 2:28 “เราจะเทพระวิญญาณของเราลงเหนือมนุษย์ทุกคน” ที่เปโตรได้อ้างถึงในวันเพนเทคอสต์ (กิจการ 2:17) คำที่เคยประยุกต์กับยิวในตอนนั้น บัดนี้ได้ขยายไปถึงคนต่างชาติโดยชัดเจน — “มนุษย์ทุกคน” ของโยเอลหมายถึงทุกชาติจริงๆ ไม่ใช่แค่อิสราเอลเท่านั้น",
+      "thai_summary": "ผู้เชื่อที่มากับเปโตรอัศจรรย์ใจที่พระเจ้าประทานพระวิญญาณบริสุทธิ์แก่คนต่างชาติด้วย คำว่า “หลั่งลง” ชวนให้นึกถึงคำของโยเอลที่เปโตรยกมาในกิจการ 2:17–18 ที่นี่ลูกาใช้คำกริยานั้นเล่าสิ่งที่เกิดขึ้นในบ้านของโครเนลิอัส",
       "key_decisions": [
         {
           "greek": "οἱ ἐκ περιτομῆς πιστοὶ",
@@ -1293,7 +1293,7 @@
         {
           "greek": "ἡ δωρεὰ τοῦ ἁγίου πνεύματος ἐκκέχυται",
           "thai": "ของประทานแห่งพระวิญญาณบริสุทธิ์ได้หลั่งลง",
-          "rationale": "Per uW figs-possession: 'the-gift-of-the-Holy-Spirit' = 'the Holy Spirit as gift.' Thai 'ของประทานแห่งพระวิญญาณบริสุทธิ์' (gift-of + Spirit) preserves the genitive-of-apposition. δωρεά → ของประทาน (glossary-locked from LUK 11:13, ACT 2:38, 8:20). Per uW figs-metaphor: ἐκχέω 'pour-out' treats the Spirit as pourable-liquid — generous-lavish-outpouring imagery. Thai 'หลั่งลง' (poured-down, the same Thai-verb for liquid-pouring and for outpoured-compassion/mercy) preserves the metaphor. Per uW figs-activepassive: passive ἐκκέχυται → active Thai natural 'หลั่งลง' (stative-perfective: has-been-poured-now-remains). OT CITATION (already established at ACT 2:17): JOEL 2:28 LXX ἐκχεῶ ἀπὸ τοῦ πνεύματός μου — the Spirit-outpouring verb deliberately echoes Joel's Pentecost-prophecy, applied now to Gentile-recipients. ADD TO OT CITATIONS: JOEL 2:28-29 (continued extension to Gentiles)."
+          "rationale": "The pouring out of the Spirit recalls Joel 3:1–2 in Greek and Hebrew numbering (English Joel 2:28–29), quoted in Acts 2:17–18. Acts 10:45 uses a form of the same verb in a new sentence to describe the gift given to the Gentiles. ἐκκέχυται describes the gift as having been poured out."
         },
         {
           "greek": "ἐπὶ τὰ ἔθνη",
@@ -1301,7 +1301,7 @@
           "rationale": "ἔθνη → คนต่างชาติ (Gentiles — contrast with περιτομή-Jews). The 'even on the Gentiles' (καὶ ἐπὶ) expresses the astonishment-at-inclusion — this is the first-Gentile-Spirit-outpouring that the Jewish-believers had not expected in this form/sequence."
         }
       ],
-      "notes": "OT CITATION (added to nt_ot_citations.json): JOEL 2:28-29 LXX ἐκχεῶ ἀπὸ τοῦ πνεύματός μου ἐπὶ πᾶσαν σάρκα — already established as cited-at-ACT-2:17 in Peter's Pentecost sermon; ACT 10:45's ἐκκέχυται is deliberately resuming that prophetic-outpouring verb to show Joel's prophecy extends to Gentile-recipients. Per uW figs-metonymy + figs-possession + figs-metaphor + figs-activepassive: circumcision-as-identity + gift-as-Spirit + liquid-outpouring + passive-active. The circumcised-believers' astonishment is the Lukan-witness-attestation that confirms God's endorsement of the Gentile-inclusion — their testimony will ground the Jerusalem-decision at ACT 11:1-18 and 15:6-11. No hapax. No textual variant."
+      "notes": "The pouring out of the Spirit recalls Joel 3:1–2 in Greek and Hebrew numbering (English Joel 2:28–29), quoted in Acts 2:17–18. Acts 10:45 uses a form of the same verb in a new sentence to describe the gift given to the Gentiles."
     }
   },
   {
