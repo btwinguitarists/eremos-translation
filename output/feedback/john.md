@@ -982,7 +982,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**22** ในวันรุ่งขึ้น ฝูงชนที่ยังคงอยู่อีกฟากของทะเลเห็นว่ามีเรือลำเล็กอยู่ที่นั่นเพียงลำเดียว และเห็นว่าพระเยซูไม่ได้เสด็จขึ้นเรือไปกับเหล่าสาวกของพระองค์ แต่เหล่าสาวกได้ไปแต่ลำพัง
+**22** ในวันรุ่งขึ้น ฝูงชนที่ยังคงอยู่อีกฟากของทะเลเห็นว่าก่อนหน้านั้นมีเรือลำเล็กอยู่ที่นั่นเพียงลำเดียว และเห็นว่าพระเยซูไม่ได้เสด็จขึ้นเรือไปกับเหล่าสาวกของพระองค์ แต่เหล่าสาวกได้ไปแต่ลำพัง
 
 > ___
 
@@ -3635,9 +3635,9 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/john_03.json` | `6ba2c53a183fb62f6b3c55827ebafc2ffd876e8e3397f6236a8a51199b5050a5` |
 | `output/translations/john_04.json` | `b06a696248558e7769aa137b312d91e4ed1dacd338264a540588f01c855d41b5` |
 | `output/translations/john_05.json` | `d1632911194cf45285c6119f0d83575d00fe0fff1d19e91e97b88fe10e8ba218` |
-| `output/translations/john_06.json` | `7d35d5b01d13761650a320771170f763593df1a32b7e731066ccbab301205db6` |
+| `output/translations/john_06.json` | `dbca9b204fa41e7aa7abccfec486623e74f825d52fbc63794d9c77471926f658` |
 | `output/translations/john_07.json` | `b2da0af5c3e87cd85af5614aeab6f472a06e9d664bda68feb5459171c00cb7be` |
-| `output/translations/john_08.json` | `051fba9cf6b71079e44369462a5cc0a600ce58d9034feeef778bde1950027ad1` |
+| `output/translations/john_08.json` | `6ec0ce20c9516df0ab92e2cf24beece3d13ec9555fc50c1444664dfa20503522` |
 | `output/translations/john_09.json` | `22e1d96e406a98fae95de467a5297a29faca3df39bbc4fece117585b378bde0d` |
 | `output/translations/john_10.json` | `7c04f8f55fcf48e531a4b5d43fb26da1b0f4e3381bab4ed89c65f10e90506394` |
 | `output/translations/john_11.json` | `8827d7b0d725fbeb7d55e34adc4584b336737ed58529ad136b2ad2ad4ac18caa` |
