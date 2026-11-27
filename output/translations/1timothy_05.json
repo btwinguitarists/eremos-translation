@@ -178,7 +178,7 @@
         {
           "greek": "ἀνεπίλημπτοι",
           "thai": "ปราศจากที่ติ",
-          "rationale": "ἀνεπίλημπτος → ปราศจากที่ติ (corpus-locked from 1Tim 3:2 ἀνεπίλημπτον same lemma). Pauline-Pastoral above-reproach virtue (NT only 1Tim 3:2, 5:7, 6:14)."
+          "rationale": "ἀνεπίλημπτοι is the plural of the adjective used at 3:2. The Thai gives ปราศจากที่ติ here and ไม่มีข้อตำหนิ at 3:2. Both describe conduct above reproach."
         }
       ],
       "notes": "Pauline-pastoral-instruction-bridge between widow-types. Above-reproach-character is the goal of family-care-paradigm."
@@ -253,7 +253,7 @@
         {
           "greek": "ἐξενοδόχησεν",
           "thai": "ต้อนรับคนแปลกหน้า",
-          "rationale": "HAPAX in NT (ξενοδοχέω, only here): show-hospitality-to-strangers. Compound ξένος + δέχομαι. Distinct from φιλοξενία (love-of-strangers, 1Tim 3:2). Adding to glossary."
+          "rationale": "The verb ξενοδοχέω describes welcoming strangers. At 3:2 the related hospitality requirement uses the adjective φιλόξενος. ต้อนรับคนแปลกหน้า expresses the action in this list."
         },
         {
           "greek": "ἁγίων πόδας ἔνιψεν",
@@ -408,7 +408,7 @@
         {
           "greek": "εἴ τις πιστὴ ἔχει χήρας",
           "thai": "ถ้าหญิงผู้เชื่อคนใดมีหม้ายในความรับผิดชอบ",
-          "rationale": "TEXTUAL VARIANT: SBLGNT reads πιστή (believing-woman); Byzantine + some-mss read πιστὸς ἢ πιστή (believing-man-or-woman). Per RULES §5: silent-omission. Mainstream evangelical Bibles split — BSB/ESV/NIV follow shorter/feminine; KJV follows extended. uW intro acknowledges this variant. Resolved doc to be created."
+          "rationale": "The feminine πιστή is rendered หญิงผู้เชื่อ. The longer reading πιστὸς ἢ πιστή explicitly covers a believing man or woman."
         },
         {
           "greek": "μὴ βαρείσθω ἡ ἐκκλησία",
@@ -416,7 +416,7 @@
           "rationale": "βαρέω → รับภาระ (be-burdened — corpus-precedent at 2Co 1:8). ἐκκλησία → คริสตจักร (corpus-locked Pauline-standard)."
         }
       ],
-      "notes": "TEXTUAL VARIANT: πιστή vs πιστὸς ἢ πιστή. Per RULES §5: silent-omission. Resolved doc at output/textual_variants/_resolved/1timothy_05_v16_believing_man_or_woman.md."
+      "notes": "SBLGNT, Westcott–Hort, Tregelles and NA28 describe a believing woman, as does หญิงผู้เชื่อ. Robinson–Pierpont adds a believing man as an alternative subject. In either reading, support from the household allows the church to help widows in need."
     }
   },
   {
@@ -433,12 +433,12 @@
         {
           "greek": "Οἱ ... προεστῶτες πρεσβύτεροι",
           "thai": "ผู้ปกครองคริสตจักรที่ทำหน้าที่ผู้นำ",
-          "rationale": "πρεσβύτεροι (pl., articular) here = CHURCH-OFFICE 'elders' (per uW + context — distinct from v.1 age-based). Render ‘ผู้ปกครองคริสตจักร’ — corpus-locked from Acts 11:30 etc. Pauline-corpus-pattern. προΐστημι → ทำหน้าที่ผู้นำ (corpus-locked from 1Tim 3:4-5 same lemma)."
+          "rationale": "The context uses πρεσβύτεροι for people who lead the church. ทำหน้าที่ผู้นำ describes that responsibility. In the household setting of 3:4–5 the same verb προΐστημι is rendered จัดการ."
         },
         {
           "greek": "διπλῆς τιμῆς",
           "thai": "เกียรติเป็นสองเท่า",
-          "rationale": "Per uW: τιμή here likely means BOTH (1) respect/honor AND (2) financial-compensation (matching the v.18 wage-quotation that follows). διπλῆ τιμή = double-honor in both senses — interpretive-ambiguity preserved by literal-rendering."
+          "rationale": "เกียรติเป็นสองเท่า retains the expression διπλῆς τιμῆς. The following verse’s examples of the ox and of the worker’s wages suggest material support. No figure or rate of payment is specified."
         },
         {
           "greek": "οἱ κοπιῶντες ἐν λόγῳ καὶ διδασκαλίᾳ",
@@ -463,20 +463,20 @@
         {
           "greek": "λέγει ... ἡ γραφή",
           "thai": "พระคัมภีร์กล่าวว่า",
-          "rationale": "γραφή → พระคัมภีร์ (corpus-locked Pauline-Scripture-citation formula). Singular λέγει introduces TWO quotations — both treated-as-Scripture (key Pauline-NT-as-Scripture moment)."
+          "rationale": "λέγει ἡ γραφή introduces the pair of sayings. The relation of the second saying to Luke 10:7 has implications for how it was transmitted, but this introduction alone does not provide a chronology."
         },
         {
           "greek": "Βοῦν ἀλοῶντα οὐ φιμώσεις",
           "thai": "อย่าเอาตะกร้อครอบปากวัวขณะที่มันกำลังนวดข้าว",
-          "rationale": "OT-CITATION: Deuteronomy 25:4 LXX (verbatim). Already cited by Paul at 1Co 9:9 with same lemma. φιμόω → ครอบปาก (muzzle). βοῦς → วัว."
+          "rationale": "The command in Deuteronomy 25:4 has the same action. First Timothy places the ox and its threshing first. In the NA28 text of 1 Corinthians 9:9 the corresponding verb is κημόω, while First Timothy uses φιμόω."
         },
         {
           "greek": "Ἄξιος ὁ ἐργάτης τοῦ μισθοῦ αὐτοῦ",
           "thai": "คนงานสมควรได้รับค่าจ้างของตน",
-          "rationale": "OT-/NT-CITATION: Luke 10:7 (Jesus' own words). Earliest-explicit-NT-citation-as-Scripture in NT itself. Per existing DB entry: 'composite-citation' DEU 25:4 + LUK 10:7. The thai_summary unpacks this scholarly-significant point."
+          "rationale": "The worker deserves his wages. Compare Luke 10:7, which adds γάρ, “for,” in its immediate context."
         }
       ],
-      "notes": "DOUBLE-CITATION: Deut 25:4 (OT) + Luke 10:7 (Jesus). Both introduced by ‘Scripture says.’ Already in OT citations DB at 1TI 5:18. Significant for early-NT-canon-formation scholarship."
+      "notes": "The first saying comes from Deuteronomy 25:4 and the second has a close parallel in Luke 10:7. First Timothy places the threshing ox before the prohibition against muzzling it. In the Greek Deuteronomy the prohibition comes first. Luke inserts γάρ in the saying about the worker. The verbal parallel does not by itself establish the date or direction of literary dependence."
     }
   },
   {
@@ -498,10 +498,10 @@
         {
           "greek": "ἐπὶ δύο ἢ τριῶν μαρτύρων",
           "thai": "พยานสองหรือสามคน",
-          "rationale": "OT-CITATION: Deuteronomy 19:15 LXX two-three-witnesses formula. Already established at Matt 18:16 + 2Cor 13:1. Pauline-Pastoral-due-process protection."
+          "rationale": "Two or three witnesses are required for admitting the accusation. Deuteronomy 19:15 supplies the fuller legal formula. Matthew 18:16 and 2 Corinthians 13:1 also use it."
         }
       ],
-      "notes": "OT-CITATION: Deuteronomy 19:15 (two-three-witnesses). Already in OT citations DB at 1TI 5:19. Pauline-due-process protection of elders against accusation."
+      "notes": "Deuteronomy 19:15 gives the rule for establishing a matter on the testimony of witnesses. Here it is applied to receiving an accusation against an elder. The phrasing is abbreviated. Compare the deterrent fear in Deuteronomy 19:20 and 1 Timothy 5:20."
     }
   },
   {
@@ -518,7 +518,7 @@
         {
           "greek": "τοὺς ἁμαρτάνοντας",
           "thai": "ผู้ที่ทำบาปอย่างต่อเนื่อง",
-          "rationale": "ἁμαρτάνοντας — articular-present-participle = persistent/continuing-sinners. Render preserves the ongoing-sinning aspect (NOT one-time-sin)."
+          "rationale": "τοὺς ἁμαρτάνοντας is a present participle referring to those who sin. Thai อย่างต่อเนื่อง makes continued conduct explicit. The Greek does not add a separate adverb of duration or state a minimum number of offences."
         },
         {
           "greek": "ἐνώπιον πάντων ἔλεγχε",
@@ -526,7 +526,7 @@
           "rationale": "ἐνώπιον → ต่อหน้า (in-presence-of). ἐλέγχω → ตำหนิ (rebuke-correctively, distinct from ἐπιπλήσσω at v.1). Public-rebuke as deterrent — Pauline-pastoral-discipline."
         }
       ],
-      "notes": "Public-rebuke instruction for persistent-elder-sin (assumed-context from v.19's accusation-process). Deterrent-purpose — broader-fear-of-God in church."
+      "notes": "The preceding instruction concerns accusations against elders, giving the rebuke its immediate context. The participle here does not itself name an office. Public rebuke has the stated purpose of warning the others."
     }
   },
   {
@@ -543,7 +543,7 @@
         {
           "greek": "διαμαρτύρομαι ἐνώπιον τοῦ θεοῦ καὶ Χριστοῦ Ἰησοῦ καὶ τῶν ἐκλεκτῶν ἀγγέλων",
           "thai": "กำชับท่านอย่างเคร่งครัดเฉพาะพระพักตร์ของพระเจ้าและพระเยซูคริสต์และเหล่าทูตสวรรค์ที่ทรงเลือกไว้",
-          "rationale": "διαμαρτύρομαι → กำชับอย่างเคร่งครัด (solemnly-charge). The triple-witness formula: God + Christ + elect-angels (NT-rare combination, only here + 2Tim 4:1 partial). ἐκλεκτοί ἄγγελοι → เหล่าทูตสวรรค์ที่ทรงเลือกไว้ (elect-angels — those who didn't fall, per implied-Jewish-angelology)."
+          "rationale": "The charge is given before God, Christ Jesus and the elect angels. เหล่าทูตสวรรค์ที่ทรงเลือกไว้ renders that description. The verse does not explain the basis of their election. Connecting them with angels who did not fall is an interpretation. Second Timothy 4:1 names God and Christ Jesus without this angelic group."
         },
         {
           "greek": "χωρὶς προκρίματος ... κατὰ πρόσκλισιν",
@@ -551,7 +551,7 @@
           "rationale": "TWO HAPAX in same verse: πρόκριμα (prejudice, only here) + πρόσκλισις (partiality, only here). Pauline-pastoral-impartiality formula. Render ‘อคติ’ + ‘ความลำเอียง’ — preserves the prejudice + favoritism distinction. Adding both to glossary."
         }
       ],
-      "notes": "TWO HAPAX: πρόκριμα + πρόσκλισις. Triple-witness formula (God + Christ + elect-angels) is solemn-Pauline-charge. Impartiality is the operative-principle for elder-discipline."
+      "notes": "The solemn charge calls for impartial treatment. SBLGNT and NA28 name Christ Jesus. Robinson–Pierpont has “the Lord Jesus Christ.” The verse includes the elect angels as witnesses to the charge."
     }
   },
   {
@@ -598,7 +598,7 @@
         {
           "greek": "μηκέτι ὑδροπότει",
           "thai": "เลิกดื่มน้ำเปล่าอย่างเดียว",
-          "rationale": "HAPAX in NT (ὑδροποτέω, only here): drink-only-water. Compound ὕδωρ + πίνω. Implies Timothy's-prior-water-only-discipline. Adding to glossary."
+          "rationale": "μηκέτι ὑδροπότει assumes a practice of drinking water, expressed as ดื่มน้ำเปล่าอย่างเดียว in Thai. The next clause recommends a little wine and mentions Timothy's stomach and recurring ailments. The verse gives no explanation of how his former practice began."
         },
         {
           "greek": "οἴνῳ ὀλίγῳ χρῶ διὰ τὸν στόμαχον",
