@@ -8,7 +8,7 @@
     "translation": {
       "thai": "หลังจากเหตุการณ์เหล่านี้ มีเทศกาลของชาวยิวเทศกาลหนึ่ง และพระเยซูเสด็จขึ้นไปยังกรุงเยรูซาเล็ม",
       "thai_literal": "ภายหลังสิ่งเหล่านี้ ได้มีเทศกาลของชาวยิว และพระเยซูได้เสด็จขึ้นไปยังเยรูซาเล็ม",
-      "thai_summary": "“เทศกาล” นี้ไม่ได้ระบุชื่อในต้นฉบับ นักวิชาการเสนอว่าอาจเป็นปัสกา เทศกาลห้าสิบวัน หรือเทศกาลอยู่เพิง — ยอห์นปล่อยไว้กว้างเพราะประเด็นสำคัญคือพระเยซูเสด็จไปกรุงเยรูซาเล็มเพื่อเฉลิมฉลองตามธรรมเนียมของชาวยิว ก่อนการเผชิญหน้ากับผู้นำที่จะตามมา",
+      "thai_summary": "ยอห์นเล่าว่าพระเยซูเสด็จไปกรุงเยรูซาเล็มในช่วงเทศกาลหนึ่งของชาวยิว ข้อนี้ไม่ได้บอกชื่อเทศกาล และเรื่องนี้มาก่อนการกล่าวถึงปัสกาใน 6:4",
       "key_decisions": [
         {
           "greek": "Μετὰ ταῦτα",
@@ -18,7 +18,7 @@
         {
           "greek": "ἑορτὴ τῶν Ἰουδαίων",
           "thai": "เทศกาลของชาวยิวเทศกาลหนึ่ง",
-          "rationale": "Per uW: the feast is unspecified; ἑορτὴ here is anarthrous (no article in SBLGNT main text), suggesting a feast among many. Thai 'เทศกาลหนึ่ง' (one of the feasts) renders the indefiniteness. Note: textual tradition split — some manuscripts have ἡ ἑορτή (the feast, suggesting Passover specifically), but SBLGNT prints anarthrous."
+          "rationale": "John places this visit before the Passover mentioned in 6:4. The feast here is unnamed. SBLGNT and NA28 have ἑορτή without the article, reflected in เทศกาลหนึ่ง. RP includes the article. Neither wording supplies the name or date of the feast."
         },
         {
           "greek": "ἀνέβη Ἰησοῦς εἰς Ἱεροσόλυμα",
@@ -26,7 +26,7 @@
           "rationale": "Per uW: Jerusalem is on a hilltop; one always 'goes up' to Jerusalem (cf. ascent psalms, מַעֲלֹות). Royal เสด็จ for divine motion (RULES §3). Ἱεροσόλυμα → กรุงเยรูซาเล็ม (corpus-locked, MAT 2:1, ACT 1:8 etc.)."
         }
       ],
-      "notes": "JOHN'S FEAST-CYCLE STRUCTURE: John structures Jesus' ministry around Jewish feasts (Passover 2:13, 6:4, 11:55; Tabernacles 7:2; Dedication/Hanukkah 10:22; this one unnamed). The unnamed feast here likely belongs between the second Passover (6:4) and the third (11:55). Speculative identifications: Pentecost (Lev 23:15-21), Trumpets/New Year (Lev 23:24), Purim. The ambiguity is probably deliberate — the chapter's theological weight does not depend on which feast. KEY-TERM LOCK: Ἱεροσόλυμα → กรุงเยรูซาเล็ม."
+      "notes": "John places this visit before the Passover mentioned in 6:4. The feast here is unnamed. SBLGNT and NA28 have ἑορτή without the article, reflected in เทศกาลหนึ่ง. RP includes the article. Neither wording supplies the name or date of the feast."
     }
   },
   {
@@ -88,10 +88,10 @@
         {
           "greek": "τυφλῶν, χωλῶν, ξηρῶν",
           "thai": "คนตาบอด คนง่อย คนแขนขาลีบ",
-          "rationale": "Three sequential genitive-plural categories: τυφλός (blind), χωλός (lame), ξηρός (lit. 'dry/withered' applied to limbs — atrophied/paralyzed). KEY-TERM LOCK: τυφλός → ตาบอด (corpus, MAT 9:27 etc.); χωλός → ง่อย (corpus, MAT 11:5 etc.). NEW for ξηρός in medical sense: 'แขนขาลีบ' (atrophied/withered limb) — closer to literal Greek than BSB's 'paralyzed'; 'ลีบ' captures the dried-out atrophy connotation. The triad echoes Isa 35:5-6 messianic-healing list (eyes opened, lame leap, mute sing) and OT prophetic vision."
+          "rationale": "John lists blind people, lame people and people with withered limbs (คนแขนขาลีบ). Isaiah 35:5–6 describes blind, deaf, lame and speech-impaired people. Blindness and lameness provide a thematic parallel. Isaiah has no counterpart to ξηρῶν here. The chapter footer explains the longer reading about waiting for the water and the angel."
         }
       ],
-      "notes": "TEXTUAL VARIANT: SBLGNT/NA28 omit the conclusion of v.3 ('waiting for the moving of the water') and the entirety of v.4 ('for an angel of the Lord went down...'), present in TR/Byz/KJV/THKJV. Tier 2 chapter-footer note (see output/textual_variants/john_05.json) added 2026-05-02 to remediate corpus-wide inclusion-variant audit gap (per docs/end_of_book/inclusion_variant_gap_2026-05-02.md). The footer covers BOTH v.3b and v.4 as a single inclusion-variant unit, matching BSB/ESV/NIV's single-footnote practice. Original v.3 main-text translation unchanged. ECHO of Isa 35:5-6: blind/lame/withered as the messianic-age healing triad — significant Christological resonance for v.8's command. ADDED TO NT_OT_CITATIONS: JHN 5:3 echo → ISA 35:5-6."
+      "notes": "John lists blind people, lame people and people with withered limbs (คนแขนขาลีบ). Isaiah 35:5–6 describes blind, deaf, lame and speech-impaired people. Blindness and lameness provide a thematic parallel. Isaiah has no counterpart to ξηρῶν here. The chapter footer explains the longer reading about waiting for the water and the angel."
     }
   },
   {
@@ -313,15 +313,15 @@
         {
           "greek": "Τίς ἐστιν ὁ ἄνθρωπος ὁ εἰπών σοι",
           "thai": "คนที่บอกท่านว่า ... คือใคร?",
-          "rationale": "The leaders focus on the COMMAND-GIVER (the alleged Sabbath-violator), not the healing itself. Per uW writing-pronouns: the leaders' interest is in identifying the lawbreaker, not in the miracle. Thai word-order rearranged for natural question-flow."
+          "rationale": "The question quotes two commands, “pick up” and “walk,” as in จงยกขึ้นและเดินไป. The object of “pick up” is implicit in SBLGNT and NA28. Tregelles and RP specify the mat. The question asks who gave the commands. Its wording alone does not establish the questioners’ motive."
         },
         {
           "greek": "Ἆρον καὶ περιπάτει",
           "thai": "‘จงยกขึ้นและเดินไป’",
-          "rationale": "Per uW figs-quotesinquotes: the leaders focus only on the carrying-imperative (the Sabbath-violation part), omitting the healing-relevant 'แท่นนอนของท่าน' specifier. Their selective citation reveals their priority: legalism over the miracle."
+          "rationale": "The question quotes two commands, “pick up” and “walk,” as in จงยกขึ้นและเดินไป. The object of “pick up” is implicit in SBLGNT and NA28. Tregelles and RP specify the mat. The question asks who gave the commands. Its wording alone does not establish the questioners’ motive."
         }
       ],
-      "notes": "SELECTIVE-CITATION: the leaders quote only the offending fragment of the command, not Jesus' full sentence. Their question ignores the healing entirely — a Johannine indictment of the leadership's blindness to God's work."
+      "notes": "The question quotes two commands, “pick up” and “walk,” as in จงยกขึ้นและเดินไป. The object of “pick up” is implicit in SBLGNT and NA28. Tregelles and RP specify the mat. The question asks who gave the commands. Its wording alone does not establish the questioners’ motive."
     }
   },
   {
@@ -451,7 +451,7 @@
           "rationale": "Per uW figs-explicit: plural ταῦτα ('these things') indicates Jesus did multiple Sabbath-healings, not just this one. Imperfect ἐποίει = customary-imperfect ('was-accustomed-to-doing'). Thai preserves the plural and the durative force."
         }
       ],
-      "notes": "PERSECUTION-INCIPIT: the imperfect ἐδίωκον marks the start of an ongoing prosecution-pattern that culminates in the cross. Per uW: the plural 'these things' signals that JHN 5 is REPRESENTATIVE of multiple Sabbath-healings, not a singular incident. KEY-TERM CONSISTENCY: σάββατον → วันสะบาโต."
+      "notes": "PERSECUTION-INCIPIT: the imperfect ἐδίωκον marks the start of an ongoing prosecution-pattern that culminates in the cross. Per uW: the plural 'these things' signals that JHN 5 is REPRESENTATIVE of multiple Sabbath-healings, not a singular incident. KEY-TERM CONSISTENCY: σάββατον → วันสะบาโต. The selected text and NA28 describe persecution because Jesus did these things on the Sabbath. The Thai begins เริ่มข่มเหง. RP adds that they sought to kill him. In the shorter text the attempt to kill him becomes explicit in verse 18."
     }
   },
   {
@@ -1073,7 +1073,7 @@
     "translation": {
       "thai": "และพระบิดาผู้ทรงส่งเรามา พระองค์เองได้ทรงเป็นพยานเกี่ยวกับเรา พวกท่านยังไม่เคยได้ยินพระสุรเสียงของพระองค์ในเวลาใดเลย และไม่ได้เห็นรูปของพระองค์ด้วย",
       "thai_literal": "และผู้ที่ส่งเราเข้ามา คือพระบิดา พระองค์เองได้เป็นพยานเกี่ยวกับเรา พวกท่านไม่ได้ยินเสียงของพระองค์ในเวลาใด และไม่ได้เห็นรูปร่างของพระองค์",
-      "thai_summary": "การที่พระเยซูตรัสว่าผู้ฟังยังไม่เคย “ได้ยินพระสุรเสียง” หรือ “เห็นรูป” ของพระเจ้านั้นมีน้ำหนักทางพันธสัญญาเดิม — โมเสสคือบุคคลเดียวในพระคัมภีร์ภาคพันธสัญญาเดิมที่อ้างว่าได้เห็น “รูป” ของพระเจ้า (กันดารวิถี 12:8) แม้แต่เขาก็ “เห็น” ในแง่จำกัด (อพยพ 33:20-23) สิ่งที่พระเยซูทรงตำหนิคือ ผู้นำเหล่านี้แม้จะภาคภูมิใจในธรรมบัญญัติของโมเสสก็ตาม แต่กลับไม่ได้รู้จักพระเจ้าผู้ประทานธรรมบัญญัติ",
+      "thai_summary": "พระเยซูตรัสกับผู้ที่อยู่ตรงหน้าพระองค์ว่า พวกเขาไม่เคยได้ยินพระสุรเสียงหรือเห็นรูปของพระบิดา ในเฉลยธรรมบัญญัติ 4:12 ประชาชนที่ภูเขาซีนายได้ยินเสียงแต่ไม่เห็นรูป",
       "key_decisions": [
         {
           "greek": "ὁ πέμψας με πατὴρ ἐκεῖνος μεμαρτύρηκεν περὶ ἐμοῦ",
@@ -1088,10 +1088,10 @@
         {
           "greek": "οὔτε εἶδος αὐτοῦ ἑωράκατε",
           "thai": "ไม่ได้เห็นรูปของพระองค์ด้วย",
-          "rationale": "εἶδος = 'form/appearance.' OT-context: only Moses (Num 12:8 'form of YHWH') and arguably the Sinai-elders (Exod 24:10) saw God's form. Thai 'รูปของพระองค์' renders εἶδος literally."
+          "rationale": "Jesus addresses these hearers directly about never hearing the Father’s voice or seeing his form (รูป). Deuteronomy 4:12 recalls hearing a voice without seeing a likeness. In Greek Numbers 12:8 ἐν εἴδει describes how God speaks to Moses, while what Moses sees is τὴν δόξαν κυρίου, the Lord’s glory. Hebrew Numbers speaks of the LORD’s form. Exodus 24:10 also describes an encounter involving several people. These parallels do not establish a universal claim that Moses alone saw God."
         }
       ],
-      "notes": "OT BACKGROUND: Num 12:8 'with him I speak mouth to mouth, openly, and not in dark speech, and the form (תמונה / εἶδος LXX) of YHWH he beholds' — referring to Moses' uniquely-direct revelation. By telling the leaders 'you have never heard his voice or seen his form,' Jesus implicitly contrasts them unfavorably with Moses (the man they claim to honor — see v.45). The rebuke implies: even if you had Moses' privilege you would still not recognize me, because the Word who SHOWS the Father (1:18) is here and you reject him. ADDED TO NT_OT_CITATIONS: JHN 5:37 allusion → NUM 12:8 / DEU 4:12."
+      "notes": "Jesus addresses these hearers directly about never hearing the Father’s voice or seeing his form (รูป). Deuteronomy 4:12 recalls hearing a voice without seeing a likeness. In Greek Numbers 12:8 ἐν εἴδει describes how God speaks to Moses, while what Moses sees is τὴν δόξαν κυρίου, the Lord’s glory. Hebrew Numbers speaks of the LORD’s form. Exodus 24:10 also describes an encounter involving several people. These parallels do not establish a universal claim that Moses alone saw God."
     }
   },
   {
