@@ -8,6 +8,8 @@
 | Honorifics binding (Rachasap) | ✅ clean | [honorifics_binding_leviticus_01.md](honorifics_binding_leviticus_01.md) |
 | Back-translation | ✅ clean | [back_translation_leviticus_01.md](back_translation_leviticus_01.md) |
 | Thai-summary coverage (info) | ✅ clean | [summary_coverage_leviticus_01.md](summary_coverage_leviticus_01.md) |
+| Claim consistency (hallucination, advisory) | ✅ clean | [claim_consistency_leviticus_01.md](claim_consistency_leviticus_01.md) |
+| unfoldingWord wording (license gate) | ✅ clean | [uw_wording_leviticus_01.md](uw_wording_leviticus_01.md) |
 
 ## Ship criterion
 
