@@ -41,11 +41,11 @@
     "greek": "Καὶ ἐπηρώτων αὐτὸν εἰ ἔξεστιν ἀνδρὶ γυναῖκα ἀπολῦσαι, πειράζοντες αὐτόν.",
     "bsb_english": "Some Pharisees came to test Him. \"Is it lawful for a man to divorce his wife?\" they inquired.",
     "translation": {
-      "thai": "พวกฟาริสีมาทดลองพระองค์ ถามว่า “เป็นการถูกต้องตามธรรมบัญญัติหรือไม่ ที่ชายจะหย่าภรรยาของตน”",
+      "thai": "[พวกฟาริสีเข้ามา] ถามพระองค์เพื่อทดลองพระองค์ว่า “เป็นการถูกต้องตามธรรมบัญญัติหรือไม่ ที่ชายจะหย่าภรรยาของตน”",
       "key_decisions": [
         {
           "greek": "πειράζοντες αὐτόν",
-          "thai": "มาทดลองพระองค์",
+          "thai": "เพื่อทดลองพระองค์",
           "rationale": "πειράζω = test/tempt — the same verb used of Satan testing Jesus in Mark 1:13. Thai ทดลอง preserves the adversarial intent (not neutral inquiry)."
         },
         {
@@ -59,9 +59,9 @@
           "rationale": "ἀπολύω = divorce/dismiss. Standard Thai หย่า (divorce) is the established legal term; used throughout the pericope for consistency."
         }
       ],
-      "notes": "Subject 'Pharisees' is implicit in Greek (unmarked 3rd plural) and supplied in translation per BSB and Matt 19:3 parallel. The question is Hillel-vs-Shammai framed — classic 1st-century halakhic dispute over Deut 24:1 (שֶׁל עֶרְוַת דָּבָר 'some indecency'). πειράζοντες signals this is not a good-faith question.",
+      "notes": "In SBLGNT an unnamed group asks Jesus a question to test him. Westcott–Hort, Tregelles, NA28 and Robinson–Pierpont also name the Pharisees and say they approached. The brackets mark those words. Matthew 19:3 names the Pharisees in the parallel.",
       "thai_literal": null,
-      "thai_summary": "คำถามของฟาริสีสะท้อนข้อถกเถียงที่รู้จักกันดีระหว่างรับบีฮิลเลลและชัมมัย (ต้นคริสต์ศตวรรษที่ 1) เกี่ยวกับเฉลยธรรมบัญญัติ 24:1 — ชัมมัยตีความว่าหย่าได้เฉพาะกรณีภรรยาผิดศีลทางเพศ ฮิลเลลตีความว่าหย่าได้ในทุกกรณีที่สามีไม่พอใจ ฟาริสีต้องการลองว่าพระเยซูจะเลือกฝ่ายใด"
+      "thai_summary": "คำถามของฟาริสีสะท้อนข้อถกเถียงที่รู้จักกันดีระหว่างรับบีฮิลเลลและชัมมัย (ต้นคริสต์ศตวรรษที่ 1) เกี่ยวกับเฉลยธรรมบัญญัติ 24:1 — ชัมมัยตีความว่าหย่าได้เฉพาะกรณีภรรยาผิดศีลทางเพศ ฮิลเลลตีความว่าหย่าได้ในทุกกรณีที่สามีไม่พอใจ ฟาริสีต้องการลองว่าพระเยซูจะเลือกฝ่ายใด คำในวงเล็บระบุว่าพวกฟาริสีเข้ามา ข้อความนี้ปรากฏในฉบับกรีกหลายฉบับ ส่วนฉบับ SBLGNT กล่าวเพียงว่ามีคนถามเพื่อทดลองพระเยซู"
     }
   },
   {
@@ -114,7 +114,7 @@
           "rationale": "Same ἀπολύω verb as v.2, but expanded slightly (ขาด 'severed') because here the action is the full release, not just the legal question."
         }
       ],
-      "notes": "The Pharisees quote Deut 24:1-3 LXX paraphrastically. Their verb ἐπέτρεψεν (permitted) will be the exact hinge Jesus uses in v.5: permission was given because of hardness of heart — not because divorce is God's design.",
+      "notes": "The speakers say Moses permitted writing a certificate of divorce and dismissing a wife. Greek Deuteronomy 24:1 has βιβλίον ἀποστασίου and describes giving the document to her and sending her away. Deuteronomy 24:1–4 sets out conditions and then a prohibition about later remarriage. Mark summarizes part of that sequence as permission. In Mark 10:3 Jesus had asked what Moses commanded; the reply speaks of what Moses allowed.",
       "thai_literal": null,
       "thai_summary": null
     }
@@ -151,7 +151,7 @@
     "greek": "ἀπὸ δὲ ἀρχῆς κτίσεως ἄρσεν καὶ θῆλυ ἐποίησεν αὐτούς·",
     "bsb_english": "However, from the beginning of creation, 'God made them male and female.'",
     "translation": {
-      "thai": "แต่ตั้งแต่เริ่มการสร้าง ‘พระเจ้าทรงสร้างพวกเขาให้เป็นชายและหญิง’",
+      "thai": "แต่ตั้งแต่เริ่มการสร้าง ‘เป็นชายและเป็นหญิง พระองค์ทรงสร้างพวกเขา’",
       "key_decisions": [
         {
           "greek": "ἀπὸ ἀρχῆς κτίσεως",
@@ -160,11 +160,11 @@
         },
         {
           "greek": "ἄρσεν καὶ θῆλυ ἐποίησεν αὐτούς",
-          "thai": "‘พระเจ้าทรงสร้างพวกเขาให้เป็นชายและหญิง’",
-          "rationale": "Direct citation of Gen 1:27 LXX (ἄρσεν καὶ θῆλυ ἐποίησεν αὐτούς — identical Greek). Subject 'God' is implicit in Gen 1:27 context and supplied explicitly in Thai (LXX reads from preceding 1:27a ὁ θεός). Single-quote formatting per Markan OT-citation convention (cf. Mark 1:2-3)."
+          "thai": "‘เป็นชายและเป็นหญิง พระองค์ทรงสร้างพวกเขา’",
+          "rationale": "Mark quotes the Greek clause from Genesis 1:27 with male and female placed first. The Thai quotation repeats the closing words of the published Thai Genesis, including the two coordinated expressions เป็นชายและเป็นหญิง. SBLGNT leaves “he” implicit in the verb. Robinson–Pierpont adds ὁ θεός after “them.” พระองค์ refers to the Creator."
         }
       ],
-      "notes": "OT CITATION: Genesis 1:27 LXX. Jesus's hermeneutic: creation-order trumps Mosaic concession. The pairing ἄρσεν/θῆλυ is pre-fall, pre-law, pre-hardness. Mark paraphrases slightly (drops 'in the image of God') to focus on the binary complementarity relevant to the marriage question.",
+      "notes": "Jesus quotes the closing clause of Genesis 1:27. The earlier statements in Genesis identify the Creator and describe humanity as God’s image. Here Mark gives the part about creating them male and female and follows it with the words on marriage in Genesis 2:24.",
       "thai_literal": null,
       "thai_summary": "พระเยซูอ้างปฐมกาล 1:27 — การสร้างมนุษย์เป็นชายและหญิงมีมาก่อนบาป ก่อนธรรมบัญญัติ ก่อนการหย่าร้าง ตั้งใจว่าเป็นความสมบูรณ์คู่กัน หลักการสร้าง (creation order) มีน้ำหนักมากกว่าการยอมผ่อนผันของโมเสส"
     }
@@ -244,9 +244,9 @@
           "rationale": "3rd-person imperative with μή = prohibition. ἄνθρωπος = 'anthropos' (humanity generic, not male). Thai 'อย่าให้...พรากออกจากกัน' renders the prohibition naturally with final emphatic เลย."
         }
       ],
-      "notes": "This is the Markan form of the famous dominical logion preserved in Matt 19:6 (identical wording). συνέζευξεν / χωριζέτω = active vs. prohibited-active pair. God's action (perfect συνέζευξεν) is presented as complete and enduring; human attempted separation is contrary to that divine act. Traditional wedding-service citation across Christian traditions.",
+      "notes": "συνέζευξεν is aorist active indicative of συζεύγνυμι, to join or yoke together. It describes God’s act of joining. The injunction against separating what God joined rests on the relationship expressed by the saying, independently of any claim of perfect tense.",
       "thai_literal": null,
-      "thai_summary": "คำ ‘สิ่งที่พระเจ้าทรงผูกพันเข้าด้วยกัน’ ใช้กริยารูปสมบูรณ์ (perfect) — แสดงว่าเป็นการกระทำที่เสร็จสิ้นแล้วและยังคงอยู่ การแต่งงานจึงไม่ใช่สัญญาที่มนุษย์สร้าง แต่เป็นการกระทำของพระเจ้าที่มนุษย์เข้าร่วม — มนุษย์ไม่มีสิทธิ์ยกเลิก"
+      "thai_summary": "พระเยซูตรัสว่ามนุษย์อย่าพรากสิ่งที่พระเจ้าทรงผูกพันเข้าด้วยกัน คำว่า “ทรงผูกพัน” ในภาษากรีกกล่าวถึงการกระทำของพระเจ้า และเป็นเหตุผลที่ให้ไว้สำหรับคำสั่งนี้"
     }
   },
   {
@@ -541,7 +541,7 @@
         {
           "greek": "Μὴ ἀποστερήσῃς",
           "thai": "อย่าฉ้อโกง",
-          "rationale": "ἀποστερέω = defraud, withhold wrongfully. This is NOT in the Decalogue proper — possibly drawn from Deut 24:14 LXX (οὐκ ἀποστερήσεις μισθὸν πένητος 'do not defraud the wages of the poor') or Mal 3:5 LXX, or functioning as a Markan gloss on the 10th commandment (coveting) applied economically. Thai ฉ้อโกง (defraud/cheat) is the standard rendering."
+          "rationale": "Mark gives murder, adultery and theft in that order before the commands about testimony, defrauding and honoring parents. Rahlfs Greek Exodus 20:13–15 orders adultery, theft, murder; Greek Deuteronomy 5:17–19 orders adultery, murder, theft. “Do not defraud,” μὴ ἀποστερήσῃς, is not a verbatim Decalogue command. Deuteronomy 24:14, οὐκ ἀπαδικήσεις μισθὸν πένητος, concerns the wages of a poor worker and offers a thematic parallel with another verb."
         },
         {
           "greek": "Τίμα τὸν πατέρα σου καὶ τὴν μητέρα",
@@ -549,7 +549,7 @@
           "rationale": "Decalogue #5. Positive imperative (not the μὴ... negative). Thai 'จงให้เกียรติ' (give honor) matches the positive-command structure."
         }
       ],
-      "notes": "Jesus cites the 'second table' of the Decalogue (commandments 5-9 in Jewish numbering), skipping commandment 10 (coveting) and inserting Μὴ ἀποστερήσῃς. The absence of the coveting command is noteworthy given the man's wealth; Jesus may be preparing to expose it concretely in v.21. The insertion of ἀποστερήσῃς (defraud) is contested: (a) gloss on 10th commandment, (b) from Deut 24:14 LXX, (c) cited from an otherwise unknown Decalogue tradition. Order matches LXX B (honor-father-mother last) not MT.",
+      "notes": "Mark gives murder, adultery and theft in that order before the commands about testimony, defrauding and honoring parents. Rahlfs Greek Exodus 20:13–15 orders adultery, theft, murder; Greek Deuteronomy 5:17–19 orders adultery, murder, theft. “Do not defraud,” μὴ ἀποστερήσῃς, is not a verbatim Decalogue command. Deuteronomy 24:14, οὐκ ἀπαδικήσεις μισθὸν πένητος, concerns the wages of a poor worker and offers a thematic parallel with another verb.",
       "thai_literal": null,
       "thai_summary": null
     }
@@ -739,7 +739,7 @@
           "rationale": "τρυμαλιά = hole/perforation (HAPAX); ῥαφίς = needle. Thai 'รูเข็ม' (eye/hole of needle) is the established idiom. Do NOT introduce the apocryphal 'needle gate' interpretation (a small Jerusalem gate named 'Needle') — no archaeological or literary evidence supports it, and it defangs Jesus's hyperbole."
         }
       ],
-      "notes": "HAPAX LEGOMENON: τρυμαλιά (hole/perforation) — only here and the Matt 19:24 parallel + LXX Judg 6:2. Jesus employs deliberate hyperbole — the largest palestinian domestic animal through the smallest domestic opening. The point is IMPOSSIBILITY, which sets up v.26's 'then who can be saved?' and v.27's 'with God all things are possible.' Reject two common domesticating readings: (1) 'camel' = 'rope' (κάμιλος — no MS support), (2) 'needle's eye' = small Jerusalem gate (no evidence, post-9th century invention). Both dilute Jesus's point.",
+      "notes": "Mark calls the opening in a needle τρυμαλιά. The parallel sayings use different Greek nouns for the opening: τρύπημα in Matthew 19:24 and τρῆμα in Luke 18:25. All three describe a camel and a needle. The disciples ask who can be saved; Jesus answers that what is impossible for humans is possible for God (verses 26–27).",
       "thai_literal": null,
       "thai_summary": "อูฐเป็นสัตว์เลี้ยงที่ใหญ่ที่สุดในปาเลสไตน์ รูเข็มเป็นช่องเปิดที่เล็กที่สุดในบ้าน พระเยซูใช้การเปรียบเทียบแบบเว่อร์เพื่อเน้นความเป็นไปไม่ได้ — ไม่ใช่ ‘ยาก’ แต่ ‘เป็นไปไม่ได้’ สำหรับมนุษย์ การตีความว่า ‘รูเข็ม’ คือประตูเล็กในกำแพงเยรูซาเล็มไม่มีหลักฐานโบราณคดีรองรับ"
     }
@@ -821,7 +821,7 @@
         {
           "greek": "ἡμεῖς ἀφήκαμεν πάντα καὶ ἠκολουθήκαμέν σοι",
           "thai": "ข้าพระองค์ทั้งหลายได้ละทิ้งทุกสิ่งและได้ติดตามพระองค์มาแล้ว",
-          "rationale": "ข้าพระองค์ = humble 1st-person when addressing divine (ราชาศัพท์ complement). Both perfect tenses — stative completed action. Thai 'ได้...แล้ว' preserves the perfect-aspect completion."
+          "rationale": "Peter uses aorist ἀφήκαμεν for leaving everything and perfect ἠκολουθήκαμεν for having followed Jesus. The Thai uses ได้ to describe both actions in Peter’s appeal."
         }
       ],
       "notes": "Peter speaks for the Twelve — the characteristic Markan move. Emphatic ἡμεῖς ('WE' in contrast to the rich man who walked away). Implicit question: 'We did what he could not — what's in it for us?' Peter is never far from status-calculus. Jesus will answer it generously but with a sting (v.31 'first shall be last').",
@@ -841,7 +841,7 @@
         {
           "greek": "ἕνεκεν ἐμοῦ καὶ ἕνεκεν τοῦ εὐαγγελίου",
           "thai": "เพราะเห็นแก่เราและเห็นแก่ข่าวประเสริฐ",
-          "rationale": "εὐαγγέλιον → ข่าวประเสริฐ (RULES.md §4 key term). Doubled 'for the sake of me + for the sake of the gospel' — distinctly Markan formula (cf. 8:35, 13:9-10). The gospel is worth sacrificing family for, on a par with Jesus himself."
+          "rationale": "Mark joins two grounds, for Jesus’s sake and for the gospel’s sake. Mark 13:9–10 likewise concerns witness to Jesus and proclamation of the gospel but does not repeat this double expression."
         },
         {
           "greek": "οὐδείς ἐστιν ὃς ἀφῆκεν",
@@ -854,7 +854,7 @@
           "rationale": "Literal household-inventory list matches Markan enumeration style. Notably ABSENT from the 'left' list: γυνή (wife) — Jesus does not advocate abandoning spouses. PRESENT in the 'received' list (v.30): γυναίκας is also absent — the list describes an expanded kinship, not a new marriage."
         }
       ],
-      "notes": "Jesus's quantitative + qualitative reward-promise. Note: 'wife' (γυνή) is NOT in the 'left' list and NOT in the 'received' list — Jesus does not advocate abandoning marriage (contra some ascetic traditions) nor promise polygamous reward. The promise concerns the extended-family network replaced by the ἐκκλησία. Luke 18:29 adds 'wife' to the 'left' list; Mark carefully omits it.",
+      "notes": "Mark names leaving possessions and family for Jesus’s sake and for the gospel. SBLGNT Mark omits a wife from this list; Robinson–Pierpont includes a wife. Matthew 19:29 and Luke 18:29 include a wife in the selected Greek texts.",
       "thai_literal": null,
       "thai_summary": null
     }
@@ -889,7 +889,7 @@
           "rationale": "Bookends the pericope with v.17 — the rich man's original question is answered: you receive eternal life by giving up earthly wealth for Christ's sake. What he walked away from, the disciples receive."
         }
       ],
-      "notes": "Three rhetorical features of Mark's version (vs. Matt 19:29 and Luke 18:29-30): (1) 'hundred-fold NOW in this age' — present-age recompense, not only future; (2) 'with persecutions' — explicit suffering caveat; (3) 'mothers' (plural!) is a striking detail — the church as extended family replacing biological family. The answer to Peter's implicit question in v.28 ('what's in it for us') is: more than you asked, AND persecution.",
+      "notes": "Mark promises a hundredfold now in this time, with persecutions, and eternal life in the coming age. Luke 18:30 likewise promises much more in this age and eternal life in the age to come. Matthew 19:29 promises a hundredfold and eternal life without the same explicit “now in this time” expression.",
       "thai_literal": null,
       "thai_summary": "สามลักษณะเด่นของคำสัญญาของพระเยซูในมาระโก (ต่างจากมัทธิว 19:29 และลูกา 18:29-30): (1) ‘ร้อยเท่าในชาตินี้’ — รางวัลไม่ใช่แค่ในอนาคต (2) ‘พร้อมกับการข่มเหง’ — เตือนความจริง (3) ‘มารดาหลายคน’ — ชุมชนคริสเตียนกลายเป็นครอบครัวใหม่ คนที่ละทิ้งแม่คนเดียวจะได้แม่หลายคนในคริสตจักร"
     }
@@ -966,7 +966,7 @@
         {
           "greek": "παραδοθήσεται",
           "thai": "จะถูกมอบไว้",
-          "rationale": "παραδίδωμι = hand over/betray. Passive future = 'will be handed over.' Often called the 'divine passive' suggesting God's agency behind the handing-over (cf. Isa 53:6, 12 LXX παρέδωκεν). The verb echoes through Mark's passion narrative (chapter 14 x5 uses) — starts here. Thai 'จะถูกมอบไว้' (will be handed over) with passive construction."
+          "rationale": "The prediction gives two stages of handing over: to the chief priests and scribes, then to the Gentiles. Mark has already used παραδίδωμι for the predicted handing over of the Son of Man in 9:31."
         },
         {
           "greek": "τοῖς ἀρχιερεῦσιν καὶ τοῖς γραμματεῦσιν",
@@ -1004,9 +1004,9 @@
           "rationale": "Middle-voice ἀναστήσεται = 'will rise' (intransitive; cf. the passive ἠγέρθη elsewhere). Thai 'เป็นขึ้นมาใหม่' is the established Thai Christian formula for resurrection. Note: μετὰ τρεῖς ἡμέρας = 'after three days' (idiomatic Jewish counting including partials = by the third day). Partial Hos 6:2 allusion ('on the third day he will raise us')."
         }
       ],
-      "notes": "Culmination of the third passion prediction. Mark alone adds ἐμπτύσουσιν (spitting) — fulfilling Isa 50:6 LXX. Four humiliations + death + resurrection. This is the most vivid and detailed of the three predictions — James and John (v.35-37) then request thrones in his 'glory,' displaying profound non-hearing of what he just said.",
+      "notes": "The prediction includes mockery, spitting, flogging, death and resurrection. Luke 18:32 also predicts spitting, using the same verb in the passive. Matthew 20:19 predicts mockery and flogging, and Matthew 27:30 later narrates spitting.",
       "thai_literal": null,
-      "thai_summary": "มาระโกเพิ่มรายละเอียดการถูกถ่มน้ำลายที่มัทธิวและลูกาไม่มี — เติมเต็มคำพยากรณ์ของอิสยาห์ 50:6 LXX (‘ข้าพเจ้าไม่ได้ปิดหน้าของข้าพเจ้าจากความอับอายและการถ่มน้ำลาย’) ทั้งสี่ความอัปยศก่อนการสิ้นพระชนม์แสดงว่าไม้กางเขนถูกเตรียมไว้ในพระคัมภีร์ล่วงหน้าแล้ว"
+      "thai_summary": "พระเยซูทรงบอกว่าจะทรงถูกเยาะเย้ย ถ่มน้ำลายรด เฆี่ยน และฆ่า แล้วจะทรงเป็นขึ้นมา ลูกา 18:32 กล่าวล่วงหน้าถึงการถูกถ่มน้ำลายรดเช่นกัน ส่วนมัทธิว 27:30 บรรยายเหตุการณ์นั้นในเรื่องการทนทุกข์"
     }
   },
   {
@@ -1054,7 +1054,7 @@
           "rationale": "Open-ended question — Jesus grants them the chance to articulate their ask. Thai retains the question structure. Note: EXACT parallel to v.51 where Jesus asks Bartimaeus the same question — deliberate narrative pairing (self-serving disciples vs. humble blind beggar)."
         }
       ],
-      "notes": "EXACT VERBAL PARALLEL to v.51 (Bartimaeus pericope): Τί σοι θέλεις ποιήσω. Mark deliberately frames the two requests to Jesus — (a) James and John asking for glory thrones (self-exalting), (b) Bartimaeus asking for sight (humble, need-based) — with identical invitation. The contrast is exegetical: Jesus grants Bartimaeus's ask; he redirects James and John's. This is one of Mark's most artful narrative diptychs.",
+      "notes": "Jesus asks James and John what they want him to do for them. His question to Bartimaeus in 10:51 is similar but uses singular pronouns and a different word order. Their requests for seats of honor and for sight invite comparison.",
       "thai_literal": null,
       "thai_summary": null
     }
@@ -1266,7 +1266,7 @@
         {
           "greek": "πάντων δοῦλος",
           "thai": "ทาสของคนทั้งปวง",
-          "rationale": "δοῦλος = slave (not δεικ-free servant). Thai 'ทาส' is the full slave-term. Genitive πάντων 'of all' = not just of the community but of everyone. This is the most extreme form of self-abasement in 1st-century social taxonomy."
+          "rationale": "δοῦλος means slave, here with the genitive πάντων, “of all.” Jesus addresses the disciples about the person who wants to be first among them. Thai retains the contrast between aspiring to be first and being the slave of all."
         }
       ],
       "notes": "Intensification from v.43: διάκονος (servant) → δοῦλος (slave). The progression: great → servant; first → slave. Slave of ALL (πάντων) is the extremity — below the community's own bottom. Prepares the logion in v.45 which grounds this slave-ethic christologically in Jesus's own service + ransom.",
@@ -1286,7 +1286,7 @@
         {
           "greek": "ὁ υἱὸς τοῦ ἀνθρώπου",
           "thai": "บุตรมนุษย์",
-          "rationale": "Established key term — 'Son of Man.' Fourth Markan occurrence in this chapter (vv.33, 45 — here the mission-purpose statement)."
+          "rationale": "Jesus speaks of himself as the Son of Man. This is the second occurrence of the title in chapter 10, after the passion prediction in verse 33."
         },
         {
           "greek": "οὐκ ἦλθεν διακονηθῆναι ἀλλὰ διακονῆσαι",
@@ -1304,7 +1304,7 @@
           "rationale": "λύτρον = ransom-price (payment for release from bondage/captivity); ἀντί = 'in the place of / instead of' (substitutionary). πολλῶν = 'many' (echo of Isa 53:11-12 LXX 'my servant shall justify many... he bore the sin of many'). Thai 'ค่าไถ่สำหรับคนเป็นอันมาก' captures the substitutionary pay-price-for-many sense."
         }
       ],
-      "notes": "THE RANSOM LOGION — the most christologically loaded verse in Mark. Three key features: (1) διακονῆσαι echoes Isa 53:11 LXX ὁ παῖς μου ('my servant'); (2) δοῦναι τὴν ψυχὴν echoes Isa 53:10 'his soul as guilt-offering'; (3) λύτρον ἀντὶ πολλῶν echoes Isa 53:11-12 πολλοί ('many'). ISAIAH 53 ALLUSION CLUSTER — not a single-verse citation but a dense evocation of the Servant Song. λύτρον (ransom) carries exodus echoes (Yahweh redeemed Israel, Exod 6:6 LXX λυτρόω) now applied to cosmic redemption. ἀντί here carries substitutionary force — the price paid in-place-of the many. Foundational atonement text in Mark.",
+      "notes": "Mark says that the Son of Man gives his life as a ransom for many. Hebrew Isaiah 53:11 says “my servant.” Rahlfs Greek 53:11 uses a participle of serving, δουλεύοντα, with “many,” but does not have ὁ παῖς μου. Greek 53:12 says his life was handed over to death and speaks of the sins of many. Mark’s λύτρον, ransom, is his own wording in this allusion.",
       "thai_literal": null,
       "thai_summary": "ข้อนี้ — ‘ค่าไถ่สำหรับคนจำนวนมาก’ — เป็นข้อที่หนักทางคริสตวิทยาที่สุดในมาระโก คำ ‘รับใช้’ (διακονῆσαι) สะท้อนผู้รับใช้ในอิสยาห์ 53:11 ‘มอบชีวิต’ สะท้อนอิสยาห์ 53:10 ‘ค่าไถ่สำหรับคนจำนวนมาก’ สะท้อนอิสยาห์ 53:11-12 ไม้กางเขนคือการเติมเต็มคำพยากรณ์ของผู้รับใช้ที่ทนทุกข์"
     }
@@ -1331,7 +1331,7 @@
         {
           "greek": "τυφλὸς προσαίτης",
           "thai": "ขอทานตาบอด",
-          "rationale": "Two nouns in apposition. Thai 'ขอทานตาบอด' (blind beggar) renders both — blindness → unable to work → dependent on alms."
+          "rationale": "τυφλός is an adjective meaning “blind,” and προσαίτης is the noun “beggar.” The two words describe Bartimaeus."
         },
         {
           "greek": "ἐκπορευομένου αὐτοῦ ἀπὸ Ἰεριχὼ καὶ τῶν μαθητῶν αὐτοῦ καὶ ὄχλου ἱκανοῦ",
@@ -1339,7 +1339,7 @@
           "rationale": "Genitive absolute with three conjoined subjects — Jesus + disciples + crowd. Thai 'เมื่อ...กำลัง' preserves the temporal-while construction."
         }
       ],
-      "notes": "HAPAX LEGOMENA x2: Τιμαῖος and Βαρτιμαῖος — both only here in the NT. Mark rarely names minor characters — Bartimaeus is one of exactly two recipients of healing who receive a name in the Gospels (Jairus being the other). This suggests Bartimaeus became a known figure in the early church (perhaps a continuing disciple — v.52 notes he followed Jesus on the way). Bilingual gloss (Aramaic + Greek etymology) — characteristic Markan audience-care for Gentile readers.",
+      "notes": "Mark names Bartimaeus and explains his name as son of Timaeus. In the healing account in chapter 5, Jairus is named as the father of the girl who is raised. Luke 18:35 calls its blind man a beggar without giving a name.",
       "thai_literal": null,
       "thai_summary": null
     }
@@ -1361,7 +1361,7 @@
         {
           "greek": "Υἱὲ Δαυὶδ",
           "thai": "บุตรดาวิด",
-          "rationale": "FIRST PUBLIC DECLARATION of Jesus as 'Son of David' (messianic title) in Mark's Gospel. Prior Markan 'secret' identifications: Peter's confession at Caesarea Philippi (8:29) was private (hushed in 8:30); demons recognized Jesus (1:24, 3:11, 5:7) but were silenced. Bartimaeus shouts it publicly, twice (vv.47-48), and Jesus does NOT silence him — the Messianic Secret lifts at the approach to Jerusalem. Thai 'บุตรดาวิด' is the established rendering (cf. Mark 11:10, 12:35)."
+          "rationale": "Bartimaeus addresses Jesus as Son of David, and repeats the address in verse 48. Mark 12:35 asks how the scribes describe the Christ as David’s son. In 11:10 the crowd acclaims the coming kingdom of David, without using the same title."
         },
         {
           "greek": "ἐλέησόν με",
@@ -1416,10 +1416,10 @@
         {
           "greek": "Θάρσει, ἔγειρε, φωνεῖ σε",
           "thai": "จงกล้าหาญเถิด ลุกขึ้น พระองค์กำลังทรงเรียกท่าน",
-          "rationale": "Three short imperatives (take courage, rise, he calls). Thai preserves the three-beat rhythm. Note θαρσέω = take courage — used elsewhere in Mark at 6:50 (ἐγώ εἰμι scene on water) — messianic-presence comfort formula."
+          "rationale": "Two short imperatives (take courage, rise) followed by an indicative (he calls). Thai preserves the three-beat rhythm. Note θαρσέω = take courage — used elsewhere in Mark at 6:50 (ἐγώ εἰμι scene on water) — messianic-presence comfort formula."
         }
       ],
-      "notes": "Mark's camera pauses on the crowd relaying Jesus's summons: 'Take courage, rise, he is calling you.' The three imperatives echo resurrection language (ἔγειρε 'rise' will be the passion-resurrection verb in 16:6). θαρσέω = 'take courage' is also Mark 6:50 (Jesus on the water) — a word of divine comfort. The crowd that tried to silence him now commands him to rise — narrative reversal.",
+      "notes": "Mark's camera pauses on the crowd relaying Jesus's summons: 'Take courage, rise, he is calling you.' The command to rise echoes resurrection language (ἔγειρε 'rise' will be the passion-resurrection verb in 16:6). θαρσέω = 'take courage' is also Mark 6:50 (Jesus on the water) — a word of divine comfort. The crowd that tried to silence him now commands him to rise — narrative reversal.",
       "thai_literal": null,
       "thai_summary": null
     }
@@ -1471,7 +1471,7 @@
         {
           "greek": "ἵνα ἀναβλέψω",
           "thai": "ขอให้ข้าพระองค์มองเห็นอีกครั้งเถิด",
-          "rationale": "ἀνα-βλέπω = see-again (prefix ἀνα- here = 'again/back'). The word choice suggests Bartimaeus WAS once sighted — he's not asking to see for the first time but to see again. Thai 'มองเห็นอีกครั้ง' preserves the 'again' nuance."
+          "rationale": "Bartimaeus asks to see. ἀναβλέπω can refer to gaining or regaining sight. John 9:11 uses it of the man described as blind from birth in 9:1. The verb alone does not establish whether Bartimaeus had previously been able to see."
         }
       ],
       "notes": "TITLE INTENSIFICATION: Ραββουνί is the emphatic/affectionate form of ραββί (Mark 9:5's rabbi-title from Peter). 'My great master' vs. simple 'teacher.' Only 2x in NT (here and John 20:16 — Mary at the resurrection). Thai rendering distinguishes: Mark 9:5 รับบี (rabbi, simpler) ≠ Mark 10:51 รับบูนี (rabbuni, intensified). ἀνα-βλέπω = 'see again' suggests acquired blindness — more pathos. This whole pericope functions as the narrative foil to James/John: same question from Jesus (v.36 / v.51), radically different petitioners and petitions — the two proper responses to 'what do you want me to do?' vs. the two improper ones.",

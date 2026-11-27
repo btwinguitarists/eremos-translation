@@ -9008,6 +9008,12 @@
       "greek_matches": "Theodotion-echo",
       "notes": "Son of Man (ὁ υἱὸς τοῦ ἀνθρώπου) self-title grounded in Dan 7:13-14 LXX/Theodotion. DAN 7:14: ἐδόθη αὐτῷ ἐξουσία καὶ τιμὴ βασιλική ('authority and kingly honor was given to him'). Jesus's claim to exercise ἐξουσία ἐπὶ τῆς γῆς ('authority on earth') for sin-forgiveness extends Dan 7's eschatological-heavenly authority into present-earthly ministry. This is the SECOND Son-of-Man statement in Matthew (after 8:20); here the title is linked explicitly to authority. The sin-forgiving authority of Dan 7's figure is not in Daniel itself — Jesus is making a constructive-theological extension."
     },
+    "MRK 10:4": {
+      "type": "allusion",
+      "source": "DEU 24:1-4",
+      "greek_matches": "paraphrase with shared certificate phrase",
+      "notes": "The speakers say Moses permitted writing a certificate of divorce and dismissing a wife. Greek Deuteronomy 24:1 has βιβλίον ἀποστασίου and describes giving the document to her and sending her away. Deuteronomy 24:1–4 sets out conditions and then a prohibition about later remarriage. Mark summarizes part of that sequence as permission."
+    },
     "MRK 10:19": {
       "type": "composite_citation",
       "sources": [
@@ -9015,8 +9021,8 @@
         "DEU 5:16-20",
         "DEU 24:14"
       ],
-      "greek_matches": "LXX",
-      "notes": "Jesus cites the second-table Decalogue commandments: do-not-murder (Exod 20:13 / Deut 5:17), do-not-commit-adultery (Exod 20:14 / Deut 5:18), do-not-steal (Exod 20:15 / Deut 5:19), do-not-bear-false-witness (Exod 20:16 / Deut 5:20), honor-father-and-mother (Exod 20:12 / Deut 5:16). Order matches LXX-B (honor-parents last). Jesus INSERTS Μὴ ἀποστερήσῃς (do not defraud) — not in the Decalogue proper; likely drawn from Deut 24:14 LXX (οὐκ ἀποστερήσεις μισθὸν πένητος) or functioning as a gloss on the 10th commandment applied economically. Notably omits coveting (10th) — possibly strategic given the man's wealth, which Jesus will expose in v.21."
+      "greek_matches": "adapted Decalogue and thematic wage parallel",
+      "notes": "Mark gives murder, adultery and theft in that order before the commands about testimony, defrauding and honoring parents. Rahlfs Greek Exodus 20:13–15 orders adultery, theft, murder; Greek Deuteronomy 5:17–19 orders adultery, murder, theft. “Do not defraud,” μὴ ἀποστερήσῃς, is not a verbatim Decalogue command. Deuteronomy 24:14, οὐκ ἀπαδικήσεις μισθὸν πένητος, concerns the wages of a poor worker and offers a thematic parallel with another verb."
     },
     "MRK 10:33": {
       "type": "allusion",
@@ -9027,10 +9033,10 @@
     "MRK 10:45": {
       "type": "allusion",
       "sources": [
-        "ISA 53:10-12"
+        "ISA 53:11-12"
       ],
-      "greek_matches": "LXX-allusion-cluster",
-      "notes": "Dense Isaiah-53 allusion cluster — not single-verse citation but three-feature evocation: (1) διακονῆσαι echoes Isa 53:11 LXX ὁ παῖς μου ('my servant'); (2) δοῦναι τὴν ψυχὴν αὐτοῦ echoes Isa 53:10 Hebrew נַפְשׁוֹ אָשָׁם ('his soul as guilt-offering'); (3) λύτρον ἀντὶ πολλῶν echoes Isa 53:11-12 πολλοί ('my righteous one shall justify many...he bore the sin of many'). λύτρον (ransom) adds exodus-redemption resonance (Exod 6:6 LXX λυτρόω — YHWH redeems Israel). Foundational Markan atonement text: Jesus's death as substitutionary ransom-price reshapes the Suffering Servant tradition into explicit soteriology."
+      "greek_matches": "service, life and the many in the servant passage",
+      "notes": "Mark says that the Son of Man gives his life as a ransom for many. Hebrew Isaiah 53:11 says “my servant.” Rahlfs Greek 53:11 uses a participle of serving, δουλεύοντα, with “many,” but does not have ὁ παῖς μου. Greek 53:12 says his life was handed over to death and speaks of the sins of many. Mark’s λύτρον, ransom, is his own wording in this allusion."
     },
     "MRK 10:6": {
       "type": "citation",
@@ -9183,14 +9189,14 @@
       "notes": "Direct verbal echo of Mic 7:6 LXX ('υἱὸς ἀτιμάζει πατέρα, θυγάτηρ ἐπαναστήσεται ἐπὶ τὴν μητέρα... ἐχθροὶ ἀνδρὸς οἱ ἐν τῷ οἴκῳ αὐτοῦ'). Mark's ἐπαναστήσονται τέκνα ἐπὶ γονεῖς is lexically close. Second-Temple apocalyptic tradition already read Mic 7:6 eschatologically (m. Soṭah 9:15; 1QH; 4 Ezra 6:24). Markan theme: following Jesus divides families (3:31-35, 10:29-30); here the division darkens to family-betrayal-to-death."
     },
     "MRK 13:14": {
-      "type": "composite_citation",
+      "type": "quotation",
       "sources": [
         "DAN 9:27",
         "DAN 11:31",
         "DAN 12:11"
       ],
-      "greek_matches": "LXX",
-      "notes": "βδέλυγμα τῆς ἐρημώσεως is drawn from the Daniel triad: Dan 9:27 LXX ('βδέλυγμα τῶν ἐρημώσεων'), Dan 11:31 LXX ('βδέλυγμα ἠφανισμένων'), Dan 12:11 LXX ('βδέλυγμα ἐρημώσεως' — exact match). Original referent: Antiochus IV Epiphanes's 167 BCE temple desecration (altar to Zeus Olympios, swine sacrifices — 1 Macc 1:54-59; 2 Macc 6:2; Josephus Ant. 12.5.4). Mark's Jesus re-applies the Danielic pattern to a future desecration. Candidates: (a) Caligula's 40 CE statue attempt (stopped by assassination); (b) Zealot temple takeover 67 CE; (c) Titus's standards in the temple court 70 CE. The masculine participle ἑστηκότα favors a personal referent, consistent with (a) or (c). The parenthetical 'let the reader understand' is Mark's direct audience signal."
+      "greek_matches": "adapted Scripture wording",
+      "notes": "Mark’s phrase τὸ βδέλυγμα τῆς ἐρημώσεως matches Old Greek Daniel 12:11, including both articles. Theodotion has neither article there. At 11:31 Old Greek has βδέλυγμα ἐρημώσεως and Theodotion βδέλυγμα ἠφανισμένον. Daniel 9:27 uses the plural “desolations.” Matthew 24:15 expressly names Daniel and a holy place. Mark leaves the location unnamed and uses masculine ἑστηκότα where Matthew has neuter ἑστός."
     },
     "MRK 13:17": {
       "type": "reference",
@@ -9217,22 +9223,23 @@
       "notes": "Jesus invokes the Deuteronomic test of prophetic reliability: Deut 18:22 — a true prophet's word comes to pass. Advance-warning creates an objective standard against which later-claimants' signs-and-wonders must measure. Transition verse: closes tribulation-section (vv.5-23), opens cosmic-Son-of-Man section (vv.24-27). The structural pivot 'I have told you beforehand' applies the Deuteronomic test to Jesus's own corpus."
     },
     "MRK 13:24": {
-      "type": "composite_citation",
+      "type": "composite_allusion",
       "sources": [
         "ISA 13:10",
-        "JOL 2:10"
+        "JOL 2:10",
+        "EZK 32:7"
       ],
-      "greek_matches": "LXX",
-      "notes": "Composite pastiche of Day-of-YHWH imagery. Isa 13:10 LXX ('οἱ γὰρ ἀστέρες τοῦ οὐρανοῦ... τὸ φῶς οὐ δώσουσιν, καὶ σκοτισθήσεται τοῦ ἡλίου ἀνατέλλοντος, καὶ ἡ σελήνη οὐ δώσει τὸ φῶς αὐτῆς') — Mark's ἥλιος σκοτισθήσεται + σελήνη οὐ δώσει τὸ φέγγος αὐτῆς tracks this closely. Joel 2:10 LXX ('ὁ ἥλιος καὶ ἡ σελήνη συσκοτάσουσιν') confirms the stock apocalyptic vocabulary. Sun/moon/stars darkening is recurring OT cosmic imagery for YHWH's decisive intervention (not necessarily literal astrophysics); Jesus's audience hears 'the Day of the LORD has arrived.' Ezek 32:7 adds the Egypt-judgment parallel."
+      "greek_matches": "adapted Scripture wording",
+      "notes": "The darkened sun and the moon giving no light echo Isaiah 13:10 and Joel 2:10. Mark uses φέγγος for radiance where the moon clause of Greek Isaiah uses φῶς. Joel describes the darkened sun and moon and then speaks of the stars’ radiance. Compare also Ezekiel 32:7."
     },
     "MRK 13:25": {
-      "type": "composite_citation",
+      "type": "composite_allusion",
       "sources": [
         "ISA 34:4",
         "HAG 2:6"
       ],
-      "greek_matches": "LXX",
-      "notes": "Isa 34:4 LXX ('πάντες οἱ ἀστέρες πεσοῦνται... καὶ τακήσονται πᾶσαι αἱ δυνάμεις τῶν οὐρανῶν') closely matches Mark's falling-stars + shaken-powers language. Hag 2:6 LXX ('σείσω τὸν οὐρανὸν καὶ τὴν γῆν') supplies the heaven-and-earth-shaken theme (also cited in Heb 12:26). Cosmic upheaval as theophanic signage."
+      "greek_matches": "adapted Scripture wording",
+      "notes": "Mark’s falling stars recall Greek Isaiah 34:4, which says that all the stars will fall like leaves and the sky will roll up like a scroll. Mark instead says that the powers in the heavens will be shaken. Haggai 2:6 has God say “I will shake” heaven and earth with σείσω. These lines form a composite allusion."
     },
     "MRK 13:26": {
       "type": "citation",
@@ -9244,12 +9251,12 @@
       "type": "composite_allusion",
       "sources": [
         "DEU 30:4",
-        "ZEC 2:6",
+        "ZEC 2:10",
         "ISA 11:12",
         "ISA 27:13"
       ],
-      "greek_matches": "LXX",
-      "notes": "Composite gathering-of-elect imagery. Zech 2:6 LXX (ἐκ τῶν τεσσάρων ἀνέμων τοῦ οὐρανοῦ συνάξω ὑμᾶς — post-exilic gathering); Deut 30:4 LXX (ἀπ' ἄκρου τοῦ οὐρανοῦ — covenant restoration); Isa 11:12 LXX (συνάξει τοὺς διασπαρέντας — eschatological gathering); Isa 27:13 (trumpet-gathering). Jesus applies the OT exile-gathering pattern to the Son of Man's parousia-gathering of the worldwide church. Elect are no longer just Jewish exiles but globally chosen (cf. v.10). Matt 24:31 reproduces almost verbatim; Luke 21:28 departs."
+      "greek_matches": "adapted Scripture wording",
+      "notes": "The gathering from four winds echoes Zechariah 2:10 in Greek and Hebrew numbering (English 2:6). Greek Isaiah 11:12 has “he will gather the lost of Israel” and then “the scattered of Judah he will gather.” Greek Deuteronomy 30:4 spans one extremity of heaven to the other. Mark instead spans the extremity of earth to the extremity of heaven. Isaiah 27:13 pictures a horn and a gathering for worship."
     },
     "MRK 13:31": {
       "type": "allusion",
@@ -9299,9 +9306,11 @@
     },
     "MRK 14:27": {
       "type": "citation",
-      "source": "ZEC 13:7",
-      "greek_matches": "LXX",
-      "notes": "Zech 13:7 LXX form (πατάξω 1sg future) where MT has imperative 2ms. The LXX reading makes God the direct-striker — sharpening the divine-agency of the crucifixion (cf. Isa 53:10 'it pleased the LORD to crush him'). Original Zechariah context: God strikes the shepherd, sheep scatter, but scattering leads to remnant-purification (Zech 13:8-9). Mark applies: Jesus = smitten shepherd; disciples = scattered sheep; implicit Galilean remnant-regathering (v.28). Formally introduced with γέγραπται."
+      "sources": [
+        "ZEC 13:7"
+      ],
+      "greek_matches": "adapted wording of the shepherd command",
+      "notes": "Mark and Matthew 26:31 have first-person singular Πατάξω with one shepherd. The Hebrew of Zechariah 13:7 commands someone to strike one shepherd. Rahlfs Greek uses a second-person plural imperative, πατάξατε, with plural shepherds and another imperative, ἐκσπάσατε, for the sheep. Mark presents an adapted citation and says the sheep will be scattered."
     },
     "MRK 14:34": {
       "type": "allusion",
@@ -9329,9 +9338,11 @@
     },
     "MRK 14:52": {
       "type": "allusion",
-      "source": "AMO 2:16",
-      "greek_matches": "thematic",
-      "notes": "Amos 2:16 MT/LXX: 'even the bravest warrior will flee away naked in that day.' The young-man's naked-flight may enact Amos's judgment-oracle as fulfilled in the disciples' collapse. Literary irony: the same or similar young-man figure reappears at the resurrection (16:5) in a white garment (στολὴ λευκή) — potential Markan reversal pattern (naked-flight at Passion → clothed-glory at Resurrection)."
+      "sources": [
+        "AMO 2:16"
+      ],
+      "greek_matches": "possible image of fleeing naked",
+      "notes": "The young man flees naked, γυμνὸς ἔφυγεν. Hebrew Amos 2:16 says that even a brave warrior will flee naked. Rahlfs Greek has ὁ γυμνὸς διώξεται at the start of the pertinent clause, with the article and a different verb. The scene can evoke Amos without directly quoting its Greek. The clothed young man in Mark 16:5 provides a possible literary comparison; Mark does not identify them as the same person."
     },
     "MRK 14:58": {
       "type": "echo",
@@ -9411,8 +9422,8 @@
     "MRK 15:34": {
       "type": "citation",
       "source": "PSA 22:1",
-      "greek_matches": "Aramaic-Targum",
-      "notes": "Most-quoted OT verse in the Gospels. Hebrew אֵלִי אֵלִי לָמָה עֲזַבְתָּנִי; Aramaic Targum equivalent approximates Mark's Greek transliteration Ἐλωΐ ἐλωΐ λεμὰ σαβαχθάνι. Mark's ἐγκατέλιπές aligns with the LXX verb elsewhere (direct LXX Ps 21:1 has προσέσχες μοι in the question form — textual complexity noted by scholars). THE CRUX: Is Jesus expressing genuine divine-abandonment or praying Ps 22 as confidence-expression? Both-and: the first line of Ps 22 is a real cry of desolation AND Jewish first-century hermeneutic identifies a psalm by its first line (quoting v.1 evokes the whole Psalm, which ends in vindication and universal worship — Ps 22:27-31). Genuine forsaken-ness + confident trust in the full arc held together."
+      "greek_matches": "Psalm opening, with differences in Greek wording",
+      "notes": "Mark gives the cry in transliteration and then translates it. The Rahlfs Greek Psalm 21:2 includes the verb ἐγκατέλιπές in the opening question. Psalm 22:2 in Hebrew numbering is 22:1 in common English numbering. The rest of the psalm moves from lament to praise."
     },
     "MRK 15:35": {
       "type": "allusion",
@@ -9572,9 +9583,11 @@
     },
     "MRK 6:52": {
       "type": "echo",
-      "source": "EXO 7:3",
-      "greek_matches": "LXX-vocabulary",
-      "notes": "πωρόω/πώρωσις (heart-hardness) carries Exodus-vocabulary — originally Pharaoh-language (Exod 7:3; 8:15; 9:12). Mark applies it to the Twelve, their Pharaoh-level resistance to repeated revelation. Paul picks up the same word-family for unbelieving Israel (Rom 11:25). Mark's theological point: the gospel doesn't assume the disciples' unique virtue — they too need the hardening broken open by repeated revelation."
+      "sources": [
+        "EXO 7:3"
+      ],
+      "greek_matches": "thematic hardening of the heart",
+      "notes": "Mark describes the disciples’ heart as hardened, πεπωρωμένη from πωρόω. In Greek Exodus 7:3 God says he will harden Pharaoh’s heart with σκληρυνῶ from σκληρύνω. The shared image of a hard heart is a thematic echo expressed by different verbs."
     },
     "MRK 7:10": {
       "type": "composite_citation",
@@ -9589,15 +9602,19 @@
     },
     "MRK 7:32": {
       "type": "allusion",
-      "source": "ISA 35:6",
-      "greek_matches": "LXX",
-      "notes": "The rare word μογιλάλος ('hardly able to speak') used to describe the brought-to-Jesus man echoes LXX Isa 35:6 directly: 'τρανὴ ἔσται γλῶσσα μογιλάλων' ('the tongue of the dumb shall sing for joy'). Combined with κωφός (deaf, Isa 35:5 LXX 'the ears of the deaf'), Mark deliberately marks this healing as fulfillment of Isa 35's Messianic-restoration promises. μογιλάλος is rare in all of Greek literature — Mark's choice is not casual. Sets up v.37."
+      "sources": [
+        "ISA 35:5-6"
+      ],
+      "greek_matches": "shared word for difficulty speaking",
+      "notes": "Greek Isaiah 35:5 speaks of deaf people hearing, and 35:6 says the tongue of people with difficulty speaking will become clear. Mark 7:32 shares the uncommon word μογιλάλος. Singing for joy in Isaiah 35:6 belongs to the Hebrew wording. In Mark 7:35 the man speaks clearly, and verse 37 uses the different word ἀλάλους."
     },
     "MRK 7:35": {
       "type": "allusion",
-      "source": "ISA 35:5",
-      "greek_matches": "LXX",
-      "notes": "Isa 35:5-6 Messianic-age healing-promise: 'the eyes of the blind shall be opened, and the ears of the deaf shall be unstopped... the tongue of the dumb (μογιλάλων) shall sing for joy.' Mark's vocabulary tracks Isaiah's promised restoration precisely (μογιλάλος is a LXX hapax shared with Isa 35:6). The instantaneous reversal — ears opened, tongue loosed, plain speech — enacts the Messianic age. Double passive (ἠνοίγησαν, ἐλύθη) is divine-passive: agency is Jesus's-command-as-God's-power."
+      "sources": [
+        "ISA 35:5-6"
+      ],
+      "greek_matches": "recovery of hearing and clear speech",
+      "notes": "Greek Isaiah 35:5 speaks of deaf people hearing, and 35:6 says the tongue of people with difficulty speaking will become clear. Mark 7:32 shares the uncommon word μογιλάλος. Singing for joy in Isaiah 35:6 belongs to the Hebrew wording. In Mark 7:35 the man speaks clearly, and verse 37 uses the different word ἀλάλους."
     },
     "MRK 7:37": {
       "type": "double_allusion",
@@ -9642,8 +9659,8 @@
       "sources": [
         "PSA 49:7-8"
       ],
-      "greek_matches": "wisdom-paraphrase",
-      "notes": "Echo of Ps 49:7–8 (LXX 48:8–9): 'no man can ransom his brother, or give to God a price for his life ... for the ransom of their soul is costly.' Wisdom-tradition allusion shaping Jesus' rhetorical impossibility. Not direct citation."
+      "greek_matches": "related ransom and exchange imagery",
+      "notes": "Mark asks what anyone can give in exchange for life. Compare Psalm 49:8–9 in Hebrew and Eremos Thai numbering (English 49:7–8; Greek 48:8–9). The Psalm speaks of the cost of redeeming life, using ransom and price language where Mark uses ἀντάλλαγμα, an exchange. The preceding contrast with gaining the world belongs to Mark."
     },
     "MRK 8:38": {
       "type": "allusion",
@@ -9683,9 +9700,12 @@
     },
     "MRK 9:3": {
       "type": "allusion",
-      "source": "DAN 7:9",
-      "greek_matches": "LXX-apocalyptic",
-      "notes": "Two hapax in a single verse (στίλβω 'shine-radiantly', γναφεύς 'launderer') render the heavenly-whiteness superlatively. Parallels: Dan 7:9 LXX (Ancient of Days: τὸ ἔνδυμα αὐτοῦ ὡσεὶ χιὼν λευκόν 'his clothing white as snow') and Dan 10:6 (man-clothed-in-linen with body στίλβοντος as beryl). Mark's diction evokes apocalyptic theophany — Jesus visually identified with the Dan 7 divine-figure."
+      "sources": [
+        "DAN 7:9",
+        "DAN 10:6"
+      ],
+      "greek_matches": "white clothing and a distinct shining-bronze comparison",
+      "notes": "The dazzling whiteness of the clothing can recall Daniel 7:9. In Greek Daniel 10:6 the body is compared with beryl and the arms and legs with bronze. Theodotion uses στίλβοντος of that bronze, related to Mark’s στίλβοντα. Old Greek uses a different flashing expression, ἐξαστράπτων, for the bronze. The selected Mark has intensely white clothing without “as snow.”"
     },
     "MRK 9:31": {
       "type": "allusion",
@@ -9696,8 +9716,8 @@
     "MRK 9:48": {
       "type": "citation",
       "source": "ISA 66:24",
-      "greek_matches": "LXX",
-      "notes": "Direct citation of Isa 66:24 LXX: ὁ σκώληξ αὐτῶν οὐ τελευτήσει, καὶ τὸ πῦρ αὐτῶν οὐ σβεσθήσεται ('their worm will not die, and their fire will not be quenched'). Mark's wording matches the LXX so precisely that it functions as a citation, though not formally-introduced. Isa 66:24 is the culmination of Isaiah's prophecy — the eschatological judgment where the wicked are consumed perpetually. σκώληξ is a Markan hapax. THEOLOGICALLY: worm + fire is metaphoric imagery for continuous judgment, not necessarily literal."
+      "greek_matches": "adapted Greek wording",
+      "notes": "Mark adapts Isaiah 66:24. Greek Isaiah has future verbs, γάρ after the article before worm, and “their fire.” Mark has present verbs, omits γάρ and says “the fire.” Both mention their worm and fire that is not quenched."
     },
     "MRK 9:49": {
       "type": "allusion",
@@ -9706,14 +9726,14 @@
       "notes": "TEXTUAL VARIANT: SBLGNT reads the shorter πᾶς γὰρ πυρὶ ἁλισθήσεται ('every one will be salted with fire'). Many Byz witnesses add 'καὶ πᾶσα θυσία ἁλὶ ἁλισθήσεται' ('and every sacrifice will be salted with salt' — Lev 2:13 echo). The shorter SBLGNT reading is almost certainly original (א B L W Δ f¹); the longer is a scribal harmonization. Lev 2:13 (salt-of-the-covenant in sacrifice) is the conceptual background regardless of which reading is preserved. vv.43-48's Gehenna-fire warnings are summarized by v.49's universal-salting — fire of trial preserves by testing (cf. 1 Pet 1:7; 4:12-13)."
     },
     "MRK 9:7": {
-      "type": "composite_citation",
+      "type": "composite_allusion",
       "sources": [
         "DEU 18:15",
         "PSA 2:7",
         "ISA 42:1"
       ],
-      "greek_matches": "LXX-composite",
-      "notes": "The divine voice combines: Deut 18:15 LXX (αὐτοῦ ἀκούσεσθε 'you shall listen to him' — the prophet-like-Moses); Ps 2:7 (Davidic-royal 'you are my son'); Isa 42:1 (servant-beloved ὁ ἐκλεκτός μου). Command 'hear him' (ἀκούετε αὐτοῦ) is the transfiguration climax: Jesus supersedes Law-and-Prophets (embodied by Moses and Elijah present) as THE one to be heard. The cloud (Shekhinah) evokes Exod 24 + Exod 40:34 + Num 7:89 theophany-sequence. Not 'one of three' (as Peter proposed in v.5) but the unique Son."
+      "greek_matches": "related sonship, election and listening expressions",
+      "notes": "At the baptism (Mark 1:11) the voice addresses Jesus in the second person and adds a declaration of pleasure. Here it speaks about him to the disciples and commands them to listen. Greek Deuteronomy 18:15 has αὐτοῦ ἀκούσεσθε, a future with pronoun first; Mark has ἀκούετε αὐτοῦ, an imperative. Psalm 2:7 addresses the son in the second person. Greek Isaiah 42:1 names Jacob and Israel and uses “chosen.” These passages provide distinct echoes."
     },
     "2TH 2:4": {
       "type": "allusion",

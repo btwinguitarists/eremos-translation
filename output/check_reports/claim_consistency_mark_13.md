@@ -1,7 +1,7 @@
 # Claim-consistency check — mark ch. 13
 
-Pipeline-action claims in notes: **16**
-- Verified: **16**
+Pipeline-action claims in notes: **12**
+- Verified: **12**
 - Unverified (hallucinated or drifted): **0**
 
 All claims verified.
