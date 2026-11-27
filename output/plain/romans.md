@@ -546,7 +546,7 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **28** เพราะองค์พระผู้เป็นเจ้าจะทรงสำเร็จและกระทำให้สั้นพระดำรัสของพระองค์เหนือแผ่นดินโลก’
 
-**29** และดังที่อิสยาห์ได้กล่าวไว้ก่อนว่า ‘ถ้าองค์พระผู้เป็นเจ้าจอมทัพไม่ทรงเหลือเชื้อสายไว้ให้เรา เราก็คงจะเป็นเหมือนเมืองโสโดม และเหมือนเมืองโกโมราห์’
+**29** และดังที่อิสยาห์ได้กล่าวไว้ก่อนว่า ‘ถ้าองค์พระผู้เป็นเจ้าจอมโยธาไม่ทรงเหลือเชื้อสายไว้ให้เรา เราก็คงจะเป็นเหมือนเมืองโสโดม และเหมือนเมืองโกโมราห์’
 
 **30** ฉะนั้น เราจะกล่าวอย่างไร? คนต่างชาติที่ไม่ได้แสวงหาความชอบธรรมได้รับความชอบธรรม — คือความชอบธรรมที่มาจากความเชื่อ
 
@@ -950,7 +950,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/romans_06.json` | `53733aa5bad47a955adac82a8a4026db557cefa449da09a6f0a934b8738e19c6` |
 | `output/translations/romans_07.json` | `4c533c6be14eaae275ab4cf7fa92696e2a66368c843bab2db215a5d0fd20e5b6` |
 | `output/translations/romans_08.json` | `233d60bbbdc7e8b4ba6e0b3db662929d60a2f85c4a672b730bcb6a62ea81f1d1` |
-| `output/translations/romans_09.json` | `0a6b74a7542a21bd4115be80e83997c183223912a5835c8dc9cae5d7a7ed03ed` |
+| `output/translations/romans_09.json` | `922e03c54539d291b3fbac42c2ec08937b6d29e1a4a830c1838b2a62aa24032b` |
 | `output/translations/romans_10.json` | `2abc4d3cab8a5a397333f00b2ed630f6cf25744235c95a65b268aa73ce1b2025` |
 | `output/translations/romans_11.json` | `770a14a5a7c7e2be08d6dc829c3cccf7fe4c94a076757370d03997a8877380ed` |
 | `output/translations/romans_12.json` | `ebe00a991b1de079912d12cafaf96942ab798b67d9d3cef3d35b51c811253fe0` |
