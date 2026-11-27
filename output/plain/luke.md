@@ -2421,7 +2421,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/luke_13.json` | `48d01b8de6f50bf18a41f63a1f8e6d049b16c3310190895c284e31ee225572a3` |
 | `output/translations/luke_14.json` | `4cea7d4e1bd941ed6f4093b97f3f1536616e490c2faed02e32a1ea7a50484dba` |
 | `output/translations/luke_15.json` | `a51ac28e43b8a75080deb6579c2710054346d02e67f19f573af49f69ea0c004a` |
-| `output/translations/luke_16.json` | `e3e4cfc8c421c382092dd2eb73a7b220f1a62dac2890205909cdd8a55d009191` |
+| `output/translations/luke_16.json` | `65ba3d0306388ea2adf395f78692b5cc32974e238367eb9083e38f50ee0f2a78` |
 | `output/translations/luke_17.json` | `7547daea22ba83bf9ab7449e8406e7d5c4a4b00486f2e5f7ef4f8d3dfd924f41` |
 | `output/translations/luke_18.json` | `07fc13ca6fdd3bc27f4d4841bc83d1bea74e94310857213bf76cc0dddeb2bfc9` |
 | `output/translations/luke_19.json` | `d1da7976f6d555f4436f4a1408fb2d64d9755298314f114047dc4b41aa988e48` |
