@@ -52,7 +52,7 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **22** พวกเขาจึงพูดกับท่านว่า “ท่านเป็นใคร? เพื่อพวกเราจะได้นำคำตอบไปบอกผู้ที่ส่งเรามา ท่านกล่าวถึงตัวเองว่าอย่างไร?”
 
-**23** ท่านจึงกล่าวว่า “ข้าพเจ้าเป็นเสียงของผู้ที่ร้องในถิ่นทุรกันดาร ว่า ‘จงเตรียมทางขององค์พระผู้เป็นเจ้าให้ตรงไป’ ตามที่อิสยาห์ผู้เผยพระวจนะได้กล่าวไว้”
+**23** ท่านจึงกล่าวว่า “ข้าพเจ้าเป็นเสียงของผู้ที่ร้องในถิ่นทุรกันดาร ว่า ‘จงทำทางขององค์พระผู้เป็นเจ้าให้ตรง’ ตามที่อิสยาห์ผู้เผยพระวจนะได้กล่าวไว้”
 
 **24** บัดนี้บรรดาผู้ที่ถูกส่งมานั้นมาจากพวกฟาริสี
 
@@ -1852,7 +1852,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/john_01.json` | `8a3fdcf6bb8e00b29cac0a0ecdfd1d41cf437db0c0b0ba6499b311b6859d3d70` |
+| `output/translations/john_01.json` | `5c2e21c59df84fa0b88b046cbc8aa793944e5c96bbbb00785ffb4e5d781dcbc0` |
 | `output/translations/john_02.json` | `d07661e306a686c78f7feedcdd4648cfb1add3e63bcab49e2cb72d1087611134` |
 | `output/translations/john_03.json` | `6ba2c53a183fb62f6b3c55827ebafc2ffd876e8e3397f6236a8a51199b5050a5` |
 | `output/translations/john_04.json` | `b8392930ca2c9f94e9357807990ee7f7d875a6fa871c57329f0aa0bc5907ee77` |
