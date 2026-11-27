@@ -166,7 +166,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**35** ทูตสวรรค์ตอบนางว่า “พระวิญญาณบริสุทธิ์จะเสด็จลงมาเหนือท่าน และฤทธิ์เดชขององค์ผู้สูงสุดจะทรงปกคลุมท่านด้วยเงา เพราะฉะนั้นองค์บริสุทธิ์ที่จะทรงประสูติมานั้นจะได้ชื่อว่า พระบุตรของพระเจ้า
+**35** ทูตสวรรค์ตอบนางว่า “พระวิญญาณบริสุทธิ์จะเสด็จลงมาเหนือท่าน และฤทธิ์เดชขององค์ผู้สูงสุดจะปกคลุมท่านด้วยเงา เพราะฉะนั้นองค์บริสุทธิ์ที่จะทรงประสูติมานั้นจะได้ชื่อว่า พระบุตรของพระเจ้า
 
 > ___
 
@@ -4726,7 +4726,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/luke_01.json` | `c0f4eeea188a76fa0ba5e9229e060b5ab3f296d081989de0e003d849c93ecbb4` |
+| `output/translations/luke_01.json` | `625c3571515609ff4b487f4ac52a0b06ef5da9a58b4b1efacbebe4959bf0cbeb` |
 | `output/translations/luke_02.json` | `0df064ca8b9e3ae7a3b03f123b2b39791093b955818fa65cced8866e03ead7fc` |
 | `output/translations/luke_03.json` | `20e1d541c7fb09470005533442a8b08f498d9fd79d748b90f10af3cfacd1ff05` |
 | `output/translations/luke_04.json` | `bab708bb006c6432aec1185331d15803dfb24480fd288acca64767d4edfb0e50` |
