@@ -592,7 +592,7 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **70** พระเยซูตรัสตอบพวกเขาว่า “เราเองมิใช่หรือที่ได้เลือกพวกท่านสิบสองคน? และในพวกท่านมีคนหนึ่งเป็นมาร”
 
-**71** พระองค์ตรัสถึงยูดาส บุตรของซีโมนชาวอิสคาริโอท เพราะถึงแม้ยูดาสจะเป็นหนึ่งในสาวกสิบสองคน แต่เขาก็จะเป็นผู้ทรยศพระองค์
+**71** พระองค์ตรัสถึงยูดาส บุตรของซีโมนอิสคาริโอท เพราะถึงแม้ยูดาสจะเป็นหนึ่งในสาวกสิบสองคน แต่เขาก็จะเป็นผู้ทรยศพระองค์
 
 ---
 
@@ -1852,19 +1852,19 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/john_01.json` | `81304958ebc0272c0020b7f9987f04a03724937557154c800e563c14e50a936f` |
-| `output/translations/john_02.json` | `a82c05954658a00788b6ebac516f1ca4a8ddb3b648e83d20d517e622273827c3` |
+| `output/translations/john_01.json` | `27a2a9f748b082d24dc228d97888cfc600538b73820c42ec2d43ac14db1cd37a` |
+| `output/translations/john_02.json` | `d07661e306a686c78f7feedcdd4648cfb1add3e63bcab49e2cb72d1087611134` |
 | `output/translations/john_03.json` | `0e70a8f8bc79bcb893d133f4325d536ccd78e7c4aecfc7bd4297836548097b7c` |
-| `output/translations/john_04.json` | `09c835abf73e66f3bd26b3feaea46e07a2e922b7af729c1c62a325d2e000f627` |
+| `output/translations/john_04.json` | `9edc743f7f4e144c6e78913e7ff0343c7bdae57bd64cb1e6f65cafd54f8dba89` |
 | `output/translations/john_05.json` | `3d8e85ebd732a776a6ebebe26cda45644a7e7982435800f18517078bf3b706fe` |
-| `output/translations/john_06.json` | `e59c5977ad61555e214bf247ba57f00df50b8bb9b3f15fc0d592eaf3527f0c47` |
-| `output/translations/john_07.json` | `f6dba1a67e295ca938e504a25655d217d724fb1984c5bb78ec4dfbe9b17cd668` |
+| `output/translations/john_06.json` | `7437345b8380a58b931e7855c3fdb7c36fa9d771a76af57135bd44b46122e7d8` |
+| `output/translations/john_07.json` | `1061bf499ff22e5e9403724a12d0bb1b55d41a99206b721123f4136ffcf66c92` |
 | `output/translations/john_08.json` | `127992bacabc0ec8775c70983fc0460c2875492a193a3e892ab05ef2c742e13d` |
 | `output/translations/john_09.json` | `22e1d96e406a98fae95de467a5297a29faca3df39bbc4fece117585b378bde0d` |
-| `output/translations/john_10.json` | `f878cde0f49d35383f1439f85f91c65f53a3684e9c8f06fd76eb5235a8f066e6` |
+| `output/translations/john_10.json` | `239e1fad3aba9f2214f92fa2026c5b70bc34d5c6ffbf7432803507f2159f3c79` |
 | `output/translations/john_11.json` | `60c042e1ed3b3edf20f09dd299d70b57839e1254efb987aa49d9b39ebe28a9c2` |
 | `output/translations/john_12.json` | `c3bec996a680644613fd0fa23917386d4afff9c41b2b91e488d7795c087f79d4` |
-| `output/translations/john_13.json` | `85f4e22c539bb36592f262c19f01611c3fd794b73bfdb2dde17c6bc4b29fb7fa` |
+| `output/translations/john_13.json` | `fba16d1df6175cc989461197e31cb0cb77566be021c4acfae595a9fa65e527f7` |
 | `output/translations/john_14.json` | `4d027bb51f3077baf370fca6da6743426b7ae06debb527645a651034052463fa` |
 | `output/translations/john_15.json` | `266002d8a411e2c374da42a7bcfa6eaf0f1a0351e90c1363849c376b80677caf` |
 | `output/translations/john_16.json` | `b15d3c06e89e6a9099a2fa8c673bb840022d6fe3879b5b4094b028abf3679747` |
