@@ -550,7 +550,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/hosea_13.json` | 15 | `bfd9f519ae743023a743e77237c9ca129606f574b989637327f014c44c164f18` | `901fca45` |
 | `output/translations/hosea_14.json` | 10 | `f963b43511c3aa949609c46711101ba80ea42add4ecfb9393b249f43c40b90ef` | `e1816641` |
 | `output/translations/isaiah_01.json` | 31 | `061af931c4bcc363e4264edde033fb65df1c57f4d20df0d6b19a24ceac606ec1` | `29621376` |
-| `output/translations/isaiah_02.json` | 22 | `b5771f7f6ae768851f7ec6a8d72d44659d5c29041687ecbd6543a64131a630bf` | `2078c78b` |
+| `output/translations/isaiah_02.json` | 22 | `2d2f92a17a5bbb283ba55c165a56453a362b85afac3736d0c4afd7b11b20ec94` | `2078c78b` |
 | `output/translations/isaiah_03.json` | 26 | `75f90571d7ea56e9e53cd817c57f33635aec725e003cbfb5a160429864e3361b` | `777ad6f6` |
 | `output/translations/isaiah_04.json` | 6 | `d8a8b3f6c47cd7fa760e83944de9734be19b4cb7cc24dc0545dc64c6660c61e4` | `a959046b` |
 | `output/translations/isaiah_05.json` | 30 | `94a2009256be2e875e6b7d168ef1b7d3c31d3f4551fdec004d928b90315df76c` | `6cf78d05` |

@@ -444,3 +444,5 @@ Use Grok + ChatGPT + Gemini in parallel per the JHN/DAN pattern.
 **Editorial update, November 2026.** Isaiah 11:10 uses รากแห่งเจสซี and Romans 15:12 uses รากของเจสซี. They express the same relationship in different Thai wording.
 
 **Editorial update, November 2026.** At Isaiah 42:17 the worshippers address their idols in the plural. Thai now quotes them saying พวกท่านเป็นเทพเจ้าของเรา.
+
+**Editorial update, November 2026.** The Thai of Romans 9:29 now repeats Isaiah 1:9’s องค์พระผู้เป็นเจ้าจอมโยธา for the shared title.
