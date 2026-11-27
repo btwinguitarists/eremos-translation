@@ -502,7 +502,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/esther_01.json` | `48addd99aac99756f959b35d3f00dcc0856680bf7cb1a513a78ddd36e2043360` |
+| `output/translations/esther_01.json` | `a0444f4004144af12892e0f8568ae3dea73701259b1cf10b7ae47973ea0dc17c` |
 | `output/translations/esther_02.json` | `1fbd202c789a129dc5814df4bea9416701d344bb8a280483889fef4b41d872c4` |
 | `output/translations/esther_03.json` | `5adc8a4604d088d33ee912ba164ee5d7878be5166ddc8b37b28a330f5e7de52c` |
 | `output/translations/esther_04.json` | `fa6dde0fe899983a1d327dc5453b69c726ded86542168c2f6309ef67c437bdd5` |
