@@ -18,12 +18,12 @@
         {
           "greek": "παρέχεσθε",
           "thai": "จงปฏิบัติต่อ",
-          "rationale": "παρέχω → ปฏิบัติต่อ (provide-for, treat). The middle-imperative ‘provide-for-yourselves’ — proactive duty, not passive neutrality."
+          "rationale": "παρέχεσθε is a middle imperative addressed to masters. Its dative recipients, τοῖς δούλοις, are the enslaved people, who are to receive just and equitable treatment. The middle form does not make the masters themselves the recipients."
         },
         {
           "greek": "ἔχετε κύριον ἐν οὐρανῷ",
           "thai": "ก็มีเจ้านายอยู่ในสวรรค์",
-          "rationale": "Pauline-paradox: the master-on-earth has a master-in-heaven. The κύριος-pun: same word for human-master AND divine-Master (Christ). Render ‘เจ้านาย’ for the human-master sense (distinct from องค์พระผู้เป็นเจ้า which is reserved for divine-κύριος)."
+          "rationale": "The first κύριοι are earthly masters. Their own κύριος is expressly ‘in heaven.’ Thai uses เจ้านาย for both, preserving the contrast between the human authorities and the one to whom they are accountable."
         }
       ],
       "notes": "Pauline household-code closes with masters' duty (verse pulled from ch.3 grouping; SBLGNT verse-numbering places this at 4:1, completing the slave-master pair from 3:22-25). Anti-tyranny principle: the master serves a higher Master."
@@ -56,7 +56,7 @@
           "rationale": "εὐχαριστία → การขอบพระคุณ (Pauline-corpus-locked). Triple-thanksgiving theme continues from 3:15, 3:16, 3:17 — characteristic Pauline-prayer-disposition."
         }
       ],
-      "notes": "Pauline prayer-discipline: devote + watchful + thankful. The triple-modifier captures comprehensive prayer-life. The watching-while-praying language echoes Jesus' Gethsemane-instruction (MAT 26:41)."
+      "notes": "Pauline prayer-discipline: devote + watchful + thankful. The triple-modifier captures comprehensive prayer-life. The watching-while-praying language echoes Jesus' Gethsemane-instruction (MAT 26:41). The finite command is προσκαρτερεῖτε, ‘persist’ in prayer. The participle γρηγοροῦντες describes being watchful in it, and ἐν αὐτῇ refers back to prayer. The two Thai clauses with จง make both actions explicit. Matthew 26:41 expresses its two exhortations as separate commands."
     }
   },
   {
@@ -211,7 +211,7 @@
           "rationale": "παρακαλέω + καρδίαι → หนุนใจ (corpus-locked, matches PHP 4:7, COL 2:2)."
         }
       ],
-      "notes": "TEXTUAL VARIANT: γνῶτε vs γνῷ (word-choice variant per RULES §5b). The SBLGNT-form makes Tychicus the news-bearer-from-Paul-to-Colossae; the alternate-form makes him the news-bearer-from-Colossae-back-to-Paul. The first reading better fits the immediate-context (vv.7-9) where Tychicus + Onesimus are clearly traveling Paul → Colossae."
+      "notes": "The Thai follows ἵνα γνῶτε τὰ περὶ ἡμῶν: ‘so that you may know our circumstances,’ as in Westcott–Hort, Tregelles and NA28. Robinson–Pierpont reads γνῷ and ὑμῶν: ‘so that he may know your circumstances.’ Neither reading explicitly says that Tychicus will carry a report back. Compare the wording of Ephesians 6:22."
     }
   },
   {
@@ -476,7 +476,7 @@
           "rationale": "Standard Pauline-letter-closing grace-formula. Note: SBLGNT here gives the SHORTER form (matches PHP 4:23 final-amen-omitted). Some-mss extend with ‘τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ μετὰ τοῦ πνεύματος ὑμῶν, ἀμήν’ — scribal harmonization to PHP 4:23. SBLGNT follows the shorter form. Silent-omission per RULES §5."
         }
       ],
-      "notes": "FINAL VERSE OF COLOSSIANS. Paul's autograph-signature + chains-remembrance + grace-benediction. TEXTUAL VARIANT: SBLGNT shorter ‘ἡ χάρις μεθ’ ὑμῶν’ vs longer Byzantine readings adding ‘our Lord Jesus Christ’ + ‘amen.’ Modern critical-text consensus follows SBLGNT-shorter. Silent-omission per RULES §5; resolved doc at `output/textual_variants/_resolved/colossians_04_v18_grace_benediction.md`."
+      "notes": "Paul identifies the greeting in his own hand, asks the readers to remember his chains and ends with a blessing of grace. SBLGNT and NA28 end ‘grace be with you.’ Robinson–Pierpont adds Ἀμήν after ὑμῶν."
     }
   }
 ]
