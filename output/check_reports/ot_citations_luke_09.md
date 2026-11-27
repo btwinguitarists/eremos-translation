@@ -13,7 +13,7 @@ NT-to-OT links found: **15** / 62 verses
 - **Luke 9:33** — LEV 23:42-43 (allusion)
 - **Luke 9:34** — EXO 40:34-38 (allusion)
 - **Luke 9:35** — PSA 2:7, ISA 42:1, DEU 18:15 (composite_citation)
-- **Luke 9:41** — DEU 32:5 (allusion)
+- **Luke 9:41** — DEU 32:5, DEU 32:20 (allusion)
 - **Luke 9:51** — EZK 21:2, 2KI 2:9-11 (composite_allusion)
 - **Luke 9:54** — 2KI 1:10-12 (direct_allusion)
 - **Luke 9:60** — DEU 33:9 (allusion)

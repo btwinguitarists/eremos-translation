@@ -2406,18 +2406,18 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/luke_01.json` | `20c8c57bb8b8dbe5fabfe447957fcdb3a149aaa24ad2e61b01fbed697bcbd8e0` |
+| `output/translations/luke_01.json` | `c0f4eeea188a76fa0ba5e9229e060b5ab3f296d081989de0e003d849c93ecbb4` |
 | `output/translations/luke_02.json` | `0df064ca8b9e3ae7a3b03f123b2b39791093b955818fa65cced8866e03ead7fc` |
 | `output/translations/luke_03.json` | `20e1d541c7fb09470005533442a8b08f498d9fd79d748b90f10af3cfacd1ff05` |
 | `output/translations/luke_04.json` | `bab708bb006c6432aec1185331d15803dfb24480fd288acca64767d4edfb0e50` |
-| `output/translations/luke_05.json` | `4276310a59bb80dd469d2bf937642c3d4ab36ff5b3879d38baed51d81863189a` |
-| `output/translations/luke_06.json` | `2e38b5c9fbac02cfadffc87cc3d4062abd1b4fa7777418530603195e0e41eef6` |
-| `output/translations/luke_07.json` | `abca3771fc470d241e748fc2b966ea50d98d24710cdd522dbd8c393c8d89fe70` |
+| `output/translations/luke_05.json` | `3dc9d50cc1cb747bf5574f183f1eead1c9db5cf6b1e98e51a908b1dd846cb451` |
+| `output/translations/luke_06.json` | `d086b1c3e974e68d6718f059bf34a06ff3b750b0cc9f63e72f385b2dad512546` |
+| `output/translations/luke_07.json` | `fc6a697ecb1f757ed3e954cd067a5c0c9898b2830330635a72122637c42b2c79` |
 | `output/translations/luke_08.json` | `3aeaaa6dfe9fd080bca8eb2e6d331c6cf16d08996dc0c938e44ba2254cdf233b` |
-| `output/translations/luke_09.json` | `04f6b70cb3563ffd8ab70c947d2dcc1742555aaace3fd02be32b2df1ce4ad789` |
-| `output/translations/luke_10.json` | `de63048349964f4dbda8d46e8d71d86fd3dec2e62e4026ab3126a164df69dfe2` |
-| `output/translations/luke_11.json` | `8eda2546fea9461d32c3c41c2fbcd55d3facf9330b3d59841e9c4dbde4b49b1f` |
-| `output/translations/luke_12.json` | `2758c3b045b81048956d0a508760428758f710e5820f96981cf2a7f49f5df576` |
+| `output/translations/luke_09.json` | `455e22f8c796ddfd0b674d9e6cf332fa67b15f9502df4735d4eb5c6f2646bdc0` |
+| `output/translations/luke_10.json` | `85058fb4d5ee77206f42e9982356f819ffbc0b10a155b50df4f765317693e00b` |
+| `output/translations/luke_11.json` | `14fd6a688a310056805313af784c2ddb4d63cd5fbfd8c74579918c0344c18ab7` |
+| `output/translations/luke_12.json` | `3dfefe02a22b223ac92791e1102bd30d48363cb29cc93d4e9561595f4a05289f` |
 | `output/translations/luke_13.json` | `48d01b8de6f50bf18a41f63a1f8e6d049b16c3310190895c284e31ee225572a3` |
 | `output/translations/luke_14.json` | `03fc024567fcd43cc67b1d03ae024e2da46164062744cdb5139ec19a140de1da` |
 | `output/translations/luke_15.json` | `08d274318494dc4366c44430d97c77f9ce8b3a51751d1e01b64cdbca3e2f00af` |

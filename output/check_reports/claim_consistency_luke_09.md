@@ -1,7 +1,7 @@
 # Claim-consistency check — luke ch. 9
 
-Pipeline-action claims in notes: **13**
-- Verified: **13**
+Pipeline-action claims in notes: **12**
+- Verified: **12**
 - Unverified (hallucinated or drifted): **0**
 
 All claims verified.

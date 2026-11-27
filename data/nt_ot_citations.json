@@ -4323,9 +4323,11 @@
     },
     "LUK 10:15": {
       "type": "allusion",
-      "source": "ISA 14:13-15",
-      "greek_matches": "LXX-verbatim",
-      "notes": "Direct verbal echo of Isa 14:13-15 LXX (Babylon-taunt-song): εἰς τὸν οὐρανὸν ἀναβήσομαι... εἰς ᾅδου καταβιβασθήσῃ. Luke's καταβιβασθήσῃ matches the LXX verb exactly. Jesus applies the Babylon-taunt to Capernaum (his Galilean ministry base, Luke 4:31). Intertextual claim: Capernaum has placed itself in the position of Babylon's prideful king before imminent divine-descent to Sheol. Parallels Matt 11:23."
+      "sources": [
+        "ISA 14:13-15"
+      ],
+      "greek_matches": "adapted ascent and descent language",
+      "notes": "Greek Isaiah 14:13–15 contrasts a boast about ascending to heaven with descent to Hades, using καταβήσῃ. Luke addresses Capernaum in the second person. His SBLGNT has the passive καταβιβασθήσῃ, “you will be brought down,” while Westcott–Hort and NA28 have καταβήσῃ. Matthew 11:23 in SBLGNT has καταβήσῃ. Luke does not rank towns by the number of miracles performed there."
     },
     "LUK 10:18": {
       "type": "allusion",
@@ -4383,8 +4385,8 @@
         "EXO 31:18",
         "DEU 9:10"
       ],
-      "greek_matches": "LXX-verbatim",
-      "notes": "'Finger of God' (δάκτυλος θεοῦ) deliberately echoes Exod 8:19 LXX (Pharaoh's magicians: δάκτυλος θεοῦ ἐστιν τοῦτο, acknowledging the plagues) and Exod 31:18 / Deut 9:10 (the Ten Commandments written by God's finger). Luke's distinctive phrasing vs Matt 12:28's πνεύματι θεοῦ. The Exodus-allusion frames Jesus as the new-Moses bringing greater-exodus deliverance from demonic bondage. The kingdom-of-God 'has come upon you' (ἔφθασεν) = inaugurated-eschatology enacted through exorcism."
+      "greek_matches": "finger of God with different case and articles",
+      "notes": "The magicians say “the finger of God” in Exodus 8:15 in the Hebrew and Rahlfs numbering (English 8:19), with nominative δάκτυλος θεοῦ. Luke uses instrumental ἐν δακτύλῳ θεοῦ. Exodus 31:18 has τῷ δακτύλῳ τοῦ θεοῦ and Deuteronomy 9:10 has ἐν τῷ δακτύλῳ τοῦ θεοῦ for writing the tablets. Matthew 12:28 says “Spirit of God.” The parallels show related expressions without determining which Gospel wording came first."
     },
     "LUK 11:22": {
       "type": "allusion",
@@ -4512,8 +4514,8 @@
         "1KI 10:4-5",
         "2CH 9:3-4"
       ],
-      "greek_matches": "LXX-partial",
-      "notes": "ἐν πάσῃ τῇ δόξῃ αὐτοῦ evokes 1 Kgs 10:4-5 LXX (Queen-of-Sheba witnessing τὴν δόξαν Σολομῶν); 2 Chr 9:3-4 parallel. Solomon as proverbial exemplar of royal-splendor. Natural-creation's simpler-beauty surpassing Solomon's glory implicitly honors the Creator; cf. Luke 11:31 where 'one-greater-than-Solomon is here' is Jesus himself."
+      "greek_matches": "royal splendor as narrative background",
+      "notes": "The queen sees Solomon’s wisdom, house and court in 1 Kings 10:4–5 and 2 Chronicles 9:3–4. These accounts supply background for royal splendor. Their Greek does not say she saw his glory. Luke’s ἐν πάσῃ τῇ δόξῃ αὐτοῦ also appears in Matthew 6:29. The surrounding wording differs, including Luke’s singular and Matthew’s plural verbs for toiling and spinning."
     },
     "LUK 12:32": {
       "type": "allusion",
@@ -4530,8 +4532,8 @@
       "sources": [
         "EXO 12:11"
       ],
-      "greek_matches": "LXX-verbatim",
-      "notes": "αἱ ὀσφύες περιεζωσμέναι verbatim echoes Exod 12:11 LXX καὶ οὕτως φάγεσθε αὐτό, αἱ ὀσφύες ὑμῶν περιεζωσμέναι — Passover-readiness for imminent-Exodus-departure. Jesus transposes the Exodus-readiness-motif onto disciples-awaiting-Master's-return. Participle-periphrastic and lexical-agreement make this a direct verbal-echo, not a distant allusion. 1 Pet 1:13 ἀναζωσάμενοι τὰς ὀσφύας τῆς διανοίας draws from the same nexus."
+      "greek_matches": "closely related waist-girding phrase",
+      "notes": "Luke’s command about girded waists recalls preparations for departure in Exodus 12:11. Rahlfs has αἱ ὀσφύες ὑμῶν περιεζωσμέναι. Luke places ὑμῶν before the article and adds ἔστωσαν. The Greek participle describing the girded waists is shared. Luke then speaks of lamps burning."
     },
     "LUK 12:40": {
       "type": "allusion",
@@ -4904,14 +4906,14 @@
       "notes": "Joy at miraculous-birth echoes Hannah's exultation at Samuel's birth."
     },
     "LUK 1:15": {
-      "type": "direct_verbal_echo",
+      "type": "allusion",
       "sources": [
-        "JDG 13:4-7",
         "NUM 6:3",
+        "JDG 13:4-7",
         "JER 1:5"
       ],
-      "greek_matches": "LXX-near-verbatim",
-      "notes": "oinon kai sikera = Nazirite-vow stipulation from LXX Num 6:3 and especially Judg 13:4 (angel to Samson's mother). John is a Nazirite-from-the-womb, with Jer 1:5 prenatal-prophetic-calling added."
+      "greek_matches": "related abstinence and calling",
+      "notes": "Gabriel predicts that John will drink no wine or strong drink and will be filled with the Holy Spirit from the womb. Numbers 6:3 gives abstinence in the context of a Nazirite vow. In Judges 13:4 it is Samson’s mother who is told to abstain, and 13:5 explicitly calls her child a Nazirite. Rahlfs Judges B 13:4 uses μέθυσμα, where Numbers and Luke have forms of σίκερα. Jeremiah 1:5 adds a thematic parallel of a prenatal calling. Luke does not explicitly call John a lifelong Nazirite."
     },
     "LUK 1:16": {
       "type": "thematic_allusion",
@@ -4922,13 +4924,13 @@
       "notes": "'Turning sons of Israel back to the Lord' echoes Deuteronomic/prophetic repentance-idiom (Deut 30:2, Mal 3:7, Hos 3:5)."
     },
     "LUK 1:17": {
-      "type": "direct_citation",
+      "type": "composite_allusion",
       "sources": [
         "MAL 4:5-6",
         "MAL 3:1"
       ],
-      "greek_matches": "LXX-adapted",
-      "notes": "epistrepsai kardias pateron epi tekna directly quotes Mal 4:6 LXX; 'going before him' echoes Mal 3:1. John is identified as the promised Elijah-return."
+      "greek_matches": "adapted Elijah promise and related messenger motif",
+      "notes": "Luke adapts Malachi’s promise concerning Elijah (English 4:5–6, Rahlfs 3:22–23). Greek Malachi has a finite verb of restoration and singular “father” and “son.” Luke uses the infinitive “to turn,” plural fathers and children, and a different second clause about the disobedient and the understanding of the righteous. Malachi 3:1 also describes a messenger preparing a way; in Luke John prepares a people."
     },
     "LUK 1:18": {
       "type": "verbal_echo",
@@ -4939,22 +4941,22 @@
       "notes": "Zechariah's kata ti gnosomai echoes Abraham's question to YHWH in Gen 15:8 LXX. But Zechariah is rebuked while Abraham was granted covenant-confirmation."
     },
     "LUK 1:19": {
-      "type": "direct_citation",
+      "type": "allusion",
       "sources": [
-        "DAN 9:21",
-        "DAN 8:16"
+        "DAN 8:16",
+        "DAN 9:21"
       ],
-      "greek_matches": "thematic-with-name",
-      "notes": "Gabriel named only at Dan 8:16 and 9:21 in OT — both end-time revelation contexts. Gabriel's appearing to Daniel 'at the time of the evening sacrifice' is the tight typological parallel."
+      "greek_matches": "same named messenger in different scenes",
+      "notes": "Gabriel stands before God and was sent to tell Zechariah this good news. Daniel 8:16 and 9:21 also name Gabriel. Daniel 9:21 places that encounter at the evening offering, while Luke 1:10–11 gives the hour of incense without specifying morning or evening. These are narrative comparisons. This is Luke’s first use of εὐαγγελίζομαι; Matthew 11:5 also uses it."
     },
     "LUK 1:25": {
-      "type": "direct_verbal_echo",
+      "type": "allusion",
       "sources": [
-        "GEN 30:23",
+        "GEN 30:23-24",
         "1SA 1:5-7"
       ],
-      "greek_matches": "LXX-verbatim",
-      "notes": "aphelein oneidos mou echoes Gen 30:23 LXX (Rachel at Joseph's birth — apheilen ho theos mou to oneidos). Barrenness-shame reversed, echoing Hannah's pattern."
+      "greek_matches": "close verbal echo of Rachel’s speech",
+      "notes": "Elizabeth speaks about the Lord in the third person. Her words echo Rachel’s in Genesis 30:23. The Greek Genesis has the finite ἀφεῖλεν, while Luke uses the infinitive ἀφελεῖν and adds “among people.” Both use ὄνειδος for reproach. Rachel names Joseph in the next verse, Genesis 30:24. Hannah’s distress in 1 Samuel 1:5–7 is a thematic comparison."
     },
     "LUK 1:27": {
       "type": "thematic_allusion",
@@ -4983,12 +4985,14 @@
       "notes": "heures charin para to theo is LXX idiom for the privileged-elect (Noah Gen 6:8, Moses Exod 33:12-17, David 2 Sam 15:25)."
     },
     "LUK 1:31": {
-      "type": "direct_citation",
+      "type": "allusion",
       "sources": [
-        "ISA 7:14"
+        "ISA 7:14",
+        "GEN 16:11",
+        "JDG 13:3"
       ],
-      "greek_matches": "LXX-verbatim-partial",
-      "notes": "sullempse en gastri kai texe hyion directly quotes Isa 7:14 LXX, adapted to 2nd-person."
+      "greek_matches": "related birth-announcement wording",
+      "notes": "The messenger announces conception, the birth of a son and his naming. Similar announcements occur at Genesis 16:11 and Judges 13:3. Rahlfs Isaiah 7:14 has ἐν γαστρὶ ἕξει and names Immanuel. Luke addresses Mary with συλλήμψῃ and gives the name Jesus. Matthew 1:23 explicitly quotes Isaiah, while Matthew 1:21 shares Luke’s naming formula for Jesus."
     },
     "LUK 1:32": {
       "type": "direct_citation",
@@ -5070,30 +5074,30 @@
       "notes": "'Blessed is she who believed' places Mary in Abrahamic-faith-paradigm (Gen 15:6) and Psalm-beatitude-formula (Ps 1:1)."
     },
     "LUK 1:46": {
-      "type": "direct_citation",
+      "type": "allusion",
       "sources": [
         "1SA 2:1",
         "PSA 34:3"
       ],
-      "greek_matches": "LXX-echo",
-      "notes": "Magnificat opening — directly echoes 1 Sam 2:1 LXX (Hannah's song) + Ps 34:3 LXX (megalynate ton kurion)."
+      "greek_matches": "related praise language",
+      "notes": "Mary declares that her soul magnifies the Lord. Greek Psalm 33:4 (English 34:3) invites others to magnify the Lord together, using a plural imperative. Hannah’s song in 1 Samuel 2:1 is a thematic model. Rahlfs there says that Hannah’s heart was strengthened, using different words from Mary."
     },
     "LUK 1:47": {
-      "type": "direct_citation",
+      "type": "allusion",
       "sources": [
         "HAB 3:18",
         "1SA 2:1"
       ],
-      "greek_matches": "LXX-verbatim",
-      "notes": "egalliasen to pneuma mou epi to theo to soteri mou near-verbatim Hab 3:18 LXX. Salvation-joy theme from Hannah."
+      "greek_matches": "related language and thematic parallel",
+      "notes": "Habakkuk 3:18 has two verbs of rejoicing. Luke’s verb corresponds to the first, and his phrase “in God my Savior” resembles the phrase with the second. Hannah’s song in 1 Samuel 2:1 is another thematic comparison."
     },
     "LUK 1:48": {
-      "type": "direct_citation",
+      "type": "allusion",
       "sources": [
         "1SA 1:11"
       ],
-      "greek_matches": "LXX-verbatim",
-      "notes": "epeblepsen epi ten tapeinosin tes doules autou verbatim Hannah's vow 1 Sam 1:11 LXX."
+      "greek_matches": "close adapted wording",
+      "notes": "Hannah asks God to look upon the lowliness of his servant in 1 Samuel 1:11. Greek Samuel doubles the verb for looking and uses “your servant.” Mary describes an act already accomplished, in the third person, with “his servant.”"
     },
     "LUK 1:49": {
       "type": "direct_citation",
@@ -5170,10 +5174,13 @@
       "type": "thematic_allusion",
       "sources": [
         "GEN 6:9",
-        "DEU 4:1"
+        "JOB 1:1",
+        "DEU 4:1",
+        "DEU 5:1",
+        "DEU 6:1"
       ],
-      "greek_matches": "LXX-echo",
-      "notes": "dikaios-amemptos echoes Noah in Gen 6:9 LXX; 'walking in commandments and statutes' echoes Deuteronomic formula Deut 4:1, 5:1, 6:1."
+      "greek_matches": "related character descriptions and legal terms",
+      "notes": "Luke calls both parents righteous and blameless. Greek Genesis 6:9 calls Noah righteous and complete (δίκαιος τέλειος), while Job 1:1 uses both ἄμεμπτος and δίκαιος. Deuteronomy 4:1 and 5:1 pair ordinances with judgments. Deuteronomy 6:1 includes commandments and ordinances in a longer list. These comparisons illuminate Luke’s wording without reproducing it."
     },
     "LUK 1:68": {
       "type": "allusion",
@@ -6266,10 +6273,10 @@
     "LUK 5:12": {
       "type": "thematic_allusion",
       "sources": [
-        "LEV 13"
+        "LEV 13:45-46"
       ],
-      "greek_matches": "thematic",
-      "notes": "Leper's condition 'full of leprosy' recalls the diagnostic categories of Lev 13 (leprosy purity code). His approach to Jesus violates Levitical purity separation rules."
+      "greek_matches": "background on skin conditions",
+      "notes": "Leviticus 13 gives background for diagnosing and isolating a person with a serious skin condition, including 13:45–46. Luke 5:12 does not say that addressing Jesus violated a particular requirement. Luke 5:14 separately directs the man to the priest with the offering Moses commanded; its registry entry refers directly to Leviticus 14:1–32."
     },
     "LUK 5:13": {
       "type": "thematic_allusion",
@@ -6434,13 +6441,13 @@
       "notes": "Psalm 145:9 'The LORD is good to all, and his mercy is over all that he has made.' God's universal-kindness toward-all-creation (including the ungrateful and wicked) grounds the disciple's enemy-love ethic. Jesus's logic: imitate God's universal-kindness-to-all by extending kindness-to-enemies."
     },
     "LUK 6:36": {
-      "type": "direct_citation",
+      "type": "allusion",
       "sources": [
         "LEV 19:2",
         "EXO 34:6"
       ],
-      "greek_matches": "theme-imitatio-dei",
-      "notes": "Luke's 'be merciful as your Father is merciful' is the Lukan-form of the holiness-imitation imperative of Leviticus 19:2 'be holy, for I the LORD your God am holy.' The mercy-facet comes from Exodus 34:6 where God self-names YHWH YHWH, a God merciful (רַחוּם rahum / οἰκτίρμων) and gracious. Matthew 5:48 ('be perfect as your heavenly Father is perfect') uses the holiness/completeness facet; Luke uses the mercy facet. Same imitatio-dei structure, different divine-attribute emphasized."
+      "greek_matches": "imitating God and shared mercy adjective",
+      "notes": "Leviticus 19:2 calls Israel to be holy because God is holy (Hebrew קדוש; Greek ἅγιος). Deuteronomy 18:13 uses תמים for being blameless. Luke calls the hearers to be merciful like their Father. Greek Exodus 34:6 also calls God οἰκτίρμων, merciful. The pattern and adjective have distinct sources."
     },
     "LUK 6:37": {
       "type": "thematic_allusion",
@@ -6508,8 +6515,8 @@
         "1KI 17:17-24",
         "2KI 4:18-37"
       ],
-      "greek_matches": "thematic",
-      "notes": "Nain is geographically near Shunem where Elisha raised the widow's son (2 Kgs 4:18-37); the widow-and-only-son motif also echoes 1 Kgs 17:17-24 (Elijah and widow of Zarephath). Luke places this miracle here to frame Jesus as new-Elijah/Elisha — a Lukan programmatic concern established at 1:17 (John in spirit-of-Elijah) and 4:25-27 (Jesus's Nazareth-sermon citing Elijah+Elisha)."
+      "greek_matches": "two resuscitation narratives",
+      "notes": "At Nain Jesus restores a widow’s only son. The account recalls Elijah and a widow in 1 Kings 17:17–24; that account calls the boy her son without specifying he was her only child. Luke 7:15 shares the wording about giving him to his mother. Elisha’s restoration of the Shunammite woman’s son in 2 Kings 4:18–37 is a second comparison. Her husband is alive and speaks with her in 4:22–23."
     },
     "LUK 7:13": {
       "type": "thematic_allusion",
@@ -6553,8 +6560,8 @@
         "MAL 3:1",
         "EXO 23:20"
       ],
-      "greek_matches": "LXX-fusion",
-      "notes": "SHARED WITH MAT 11:10 / MRK 1:2. MAJOR COMPOSITE CITATION. Opening phrase ἰδοὺ ἀποστέλλω τὸν ἄγγελόν μου πρὸ προσώπου σου = VERBATIM EXO 23:20 LXX (YHWH sends angel ahead of Israel into Canaan). Continuation ὃς κατασκευάσει τὴν ὁδόν σου ἔμπροσθέν σου adapts MAL 3:1 LXX (ἰδοὺ ἐγὼ ἐξαποστέλλω τὸν ἄγγελόν μου, καὶ ἐπιβλέψεται ὁδὸν πρὸ προσώπου μου). CHRISTOLOGICAL HIGH-WATERMARK: Jesus/Luke change Malachi's 'ahead-of-me' (πρὸ προσώπου μου) to 'ahead-of-you' (πρὸ προσώπου σου) — reassigning YHWH's forerunner to now-go-before Messiah. Shared pre-Synoptic tradition."
+      "greek_matches": "wording adapted from both passages",
+      "notes": "Jesus introduces a composite quotation concerning John. Greek Exodus 23:20 begins with καί, ἰδού and explicit ἐγώ, and sends the messenger “before you.” Luke’s SBLGNT starts with Ἰδού and omits the independent ἐγώ, which occurs in Robinson–Pierpont. Greek Malachi 3:1 uses ἐξαποστέλλω and “before me.” The shared Greek and the change of pronoun do not establish when the passages were first combined."
     },
     "LUK 7:28": {
       "type": "thematic_allusion",
@@ -6658,9 +6665,12 @@
     },
     "LUK 9:41": {
       "type": "allusion",
-      "source": "DEU 32:5",
-      "greek_matches": "LXX-verbatim",
-      "notes": "γενεὰ ἄπιστος καὶ διεστραμμένη directly echoes Deut 32:5,20 LXX (γενεὰ σκολιὰ καὶ διεστραμμένη — Moses' Song about faithless-Israel in the wilderness). Also Deut 32:20 ὅτι γενεὰ ἐξεστραμμένη ἐστίν."
+      "sources": [
+        "DEU 32:5",
+        "DEU 32:20"
+      ],
+      "greek_matches": "related generation vocabulary",
+      "notes": "Deuteronomy 32:5 has “a crooked and perverted generation.” Luke shares γενεά and διεστραμμένη but uses ἄπιστος, “unbelieving,” in place of σκολιά. Deuteronomy 32:20 describes a generation differently and says its children lack faith. These are close verbal and thematic echoes."
     },
     "LUK 9:51": {
       "type": "composite_allusion",
