@@ -108,7 +108,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 **ข้อ 1** — หมายเหตุการแปลพระนามของพระเจ้า
 
-_**องค์พระผู้เป็นเจ้า** ในบทนี้ (ปรากฏที่ข้อ 1×2, 7, 9, 11, 13×2, 15×2, 17 — รวม 10 ครั้ง) แปลจากภาษาฮีบรู יהוה (พระนามเฉพาะของพระเจ้า ออกเสียงโดยทั่วไปว่า 'ยาห์เวห์'). ฉบับเอเรโมสใช้ **องค์พระผู้เป็นเจ้า** ตามแบบแผนของฉบับพันธสัญญาใหม่ในการแปล κύριος ซึ่งในต้นฉบับฮีบรูตรงกับ יהוה — ดูรายละเอียดเพิ่มเติมที่ docs/translator_decisions/divine_names_table_2026-05.md._
+_**องค์พระผู้เป็นเจ้า** ในบทนี้ (ปรากฏที่ข้อ 1×2, 9, 11, 13×2, 15×3, 17 — รวม 10 ครั้ง) แปลจากภาษาฮีบรู יהוה (พระนามเฉพาะของพระเจ้า ออกเสียงโดยทั่วไปว่า 'ยาห์เวห์'). ฉบับเอเรโมสใช้ **องค์พระผู้เป็นเจ้า** ตามแบบแผนของฉบับพันธสัญญาใหม่ในการแปล κύριος ซึ่งในต้นฉบับฮีบรูตรงกับ יהוה — ดูรายละเอียดเพิ่มเติมที่ docs/translator_decisions/divine_names_table_2026-05.md._
 
 
 ---
@@ -1633,7 +1633,7 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 **ข้อ 8** — ขาดในต้นฉบับวิจารณ์ (SBLGNT)
 
-_**'ติดตามพระเจ้าจนสุดใจ' (מִלֵּא אַחֲרֵי יהוה)**: คำคีย์ของคาเลบ ปรากฏ 3 ครั้งในบทที่ 14 (ข้อ 8, 9, 14) — ใน OT คำนี้ปรากฏ 6 ครั้งและ 5 ใน 6 ใช้กับคาเลบ (กดว 14:24, 32:11-12; ฉธบ 1:36; ยชว 14:8, 9, 14). โครงสร้างของชีวิตคาเลบ — เป็นแบบอย่างของผู้เชื่อที่ติดตามพระเจ้าตลอด 45 ปีของการรอ. **NT ECHO**: มก 12:30 'จงรักพระเจ้าด้วยสุดใจ'; ลก 14:33 'ใครที่ไม่ละทุกสิ่งที่ตนมี ก็เป็นสาวกของเราไม่ได้'._
+_**'ติดตามพระเจ้าจนสุดใจ' (מִלֵּא אַחֲרֵי יהוה)**: คำคีย์ของคาเลบ ปรากฏ 3 ครั้งในบทที่ 14 (ข้อ 8, 9, 14) — ทั้งหกแห่งที่ยืนยันการติดตามอย่างเต็มที่กล่าวถึงคาเลบ (กันดารวิถี 14:24, 32:12, เฉลยธรรมบัญญัติ 1:36 และโยชูวา 14:8, 9, 14) กันดารวิถี 32:12 กล่าวถึงโยชูวาด้วย ส่วนกันดารวิถี 32:11 และ 1 พงศ์กษัตริย์ 11:6 ใช้สำนวนนี้ในรูปปฏิเสธ. โครงสร้างของชีวิตคาเลบ — เป็นแบบอย่างของผู้เชื่อที่ติดตามพระเจ้าตลอด 45 ปีของการรอ. **NT ECHO**: มก 12:30 'จงรักพระเจ้าด้วยสุดใจ'; ลก 14:33 'ใครที่ไม่ละทุกสิ่งที่ตนมี ก็เป็นสาวกของเราไม่ได้'._
 
 
 ---
@@ -3037,28 +3037,28 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/joshua_01.json` | `f2b13e2f4a5b8078195f080e9290af85296c74994d04b7292df56515447a459f` |
-| `output/translations/joshua_02.json` | `e3b9c17cd34b7da9c319d9c6fceb50fd11ec7afcb3d9af7fb2787bd3eecf9c74` |
-| `output/translations/joshua_03.json` | `53c47a22799cb5f8db97cdb88e477de512e4a79b06b75b8502d401201ffefd4a` |
-| `output/translations/joshua_04.json` | `000ed6f7d41f66551840c643a91351dcd4da4174ffbdaa1e44549b07941f25eb` |
-| `output/translations/joshua_05.json` | `228a866b71fa1eb3cc49890d7dbbe37151ebd35076719559e042ae0cc58b7bfe` |
-| `output/translations/joshua_06.json` | `cba3ec889769fab8e41ed16fadeab695aaae5422446864a681c023556b5b865d` |
-| `output/translations/joshua_07.json` | `6d5ab52adce27720a22b775a30ba33f80f05dcf61d93c86bdcbd38767451697f` |
-| `output/translations/joshua_08.json` | `6fc3c94869b76dff4564a7e5fc56ebe7bac082c956606ce80bee8376ef820e9c` |
-| `output/translations/joshua_09.json` | `f679e2c101fba60570889e3a25446f5035c6c300bfd42ba98657355db3bee19b` |
-| `output/translations/joshua_10.json` | `42b50e9381b3a03f1a05bf572dda62cce2cecf3b31aee097a2ca2a741512870d` |
-| `output/translations/joshua_11.json` | `75301b0914945f481396bf4b9687192a33bcb544f899d8e4605a08e2e59ce0eb` |
-| `output/translations/joshua_12.json` | `9197d55470a6c3b2900cfd8cde5ec6865f1806c16fb914bffd433dd789e7e43b` |
-| `output/translations/joshua_13.json` | `c4d6a5c20de26a2d32a8e799107974ff89d4811d9070929ca278b8dda4106f7e` |
-| `output/translations/joshua_14.json` | `201baf702d76c011b402f0c3f05a20d95aa5c1b720f879e58aa65c9d953b3bbd` |
-| `output/translations/joshua_15.json` | `eae455ec28646ca95bcb0bbe4ba879fbeae9c1aafb0c3b873767e5e3d74a9eec` |
+| `output/translations/joshua_01.json` | `9ea0b333813f8618c84277cefc971cd08996d1ac480b261dccf4a7695ef76d62` |
+| `output/translations/joshua_02.json` | `aa9c80c6a9b3ffb917aa0b220827002435abbcfafb283c9b231f7e810c9037ec` |
+| `output/translations/joshua_03.json` | `88041807036c46b753e5a81dff7505849b7245aaf228233e746fa654afd440cf` |
+| `output/translations/joshua_04.json` | `0679628b602c24f9acffebc9cd40caab932ae94851ecaaaee20e16a9892e3ac1` |
+| `output/translations/joshua_05.json` | `0185f5b0802cad719aa9da2c5c29c3f5e099d2e5d6404a9ad124545e63830bb6` |
+| `output/translations/joshua_06.json` | `a0872f9f158afe356c5d5dff5f591c093a6bd9f068b932a7476817ecd23f1077` |
+| `output/translations/joshua_07.json` | `6f2d215e710478a2a614e8469303c9600958a0e7109e1e29a7ec23c8cbe2d38b` |
+| `output/translations/joshua_08.json` | `95939fd40d0274db0fb31c26586f512c9631900d77b62421d743af5857700db5` |
+| `output/translations/joshua_09.json` | `d0fca1140c778266fd7c78f1df7462bc682c7b70f58eac8727383e9a94080125` |
+| `output/translations/joshua_10.json` | `5dd324a032a984a8ebfbbc200a22f7d84493a13aa5a10910dee106806b76cfd8` |
+| `output/translations/joshua_11.json` | `05f25d528390162520ef9605a59382efa871e767f17600786a372b52ab6cffe4` |
+| `output/translations/joshua_12.json` | `1a330fa140782770a89f88fa42cf7feeba2935ce453c259713ed1a48e8a63b82` |
+| `output/translations/joshua_13.json` | `a9d8676b06bdb3937ab9dd7cfef1e0c4dd743bfabf3b5888cc3e3abdedffa13e` |
+| `output/translations/joshua_14.json` | `efaef57e161e2bc4d5fde0ca82c461a8bbe385d53c5c16fa2eb7e5e6e1d9f486` |
+| `output/translations/joshua_15.json` | `58b6ac5ec4d2c283c17d59c73bb6354c9540804741699a756034889933589396` |
 | `output/translations/joshua_16.json` | `dba351fbff6f6c24b6f55d71e99b5da8f39cd33f5d90b1b9e1d4e324bf54063d` |
-| `output/translations/joshua_17.json` | `ad8cc4c12480620b4dda8ac0dd18686f805d6e443c85e274bb41c1d97030913d` |
+| `output/translations/joshua_17.json` | `4e6958634dda33c39920178af65c88b38062297dbe2c6811b33a7af35cd2b43f` |
 | `output/translations/joshua_18.json` | `4d7320f27b7e45ec7efca2d64d2cc15d6c62be2a4034b2292e1a66fa1037665d` |
-| `output/translations/joshua_19.json` | `6e06143d730ee56a66288e9180b2fb1625f53ccc793388914a651040d661c89f` |
-| `output/translations/joshua_20.json` | `bf1e26a1228dada25a9746ed808bbc49976466860f19f7b48b609f2e1618957d` |
+| `output/translations/joshua_19.json` | `43aa6849ece63f3f92a4f36de2cf2fc6c4231bc80092578e9904dcd322e42e1a` |
+| `output/translations/joshua_20.json` | `f310b5ad0b4285cc37f7eb8a707ba8e836dabaccceb2d7975503dcc38c27c43f` |
 | `output/translations/joshua_21.json` | `33cd4429fb6223482dd3a49178f8cf7b55403ba8b43cbb9cecbe130f3607bf40` |
-| `output/translations/joshua_22.json` | `dd78c8db871aa2e34db62e4fabfd2f3ed390b0435da813369b64be3842bcf5f7` |
-| `output/translations/joshua_23.json` | `2f2106cc42de5895bb65bf71188bff518900f58c0b602fb90652c4985dbb17f6` |
-| `output/translations/joshua_24.json` | `8af33867974fb02ffbc2ecc0ba0bc6d1f18461c686b839810518e37ac8c9225c` |
+| `output/translations/joshua_22.json` | `8d0b384722e87c4119d682fca158e4dddc2e9fa5b80bcfbf91bb967eae5b86ac` |
+| `output/translations/joshua_23.json` | `15dbce8f5a0853c2888499cd028d522f3e7b75f91d8e0042ce992af42cfc6492` |
+| `output/translations/joshua_24.json` | `fdd24f08b1c56f8128e7603354d4fbb0b1840fb3a903d695491436785e77fe33` |
 
