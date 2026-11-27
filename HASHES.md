@@ -289,13 +289,13 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/colossians_02.json` | 23 | `152de18f1ea535f7a47284b741a6de92ddfc269076e0c44a1d87c5c3fca652b9` | `d03c3a1a` |
 | `output/translations/colossians_03.json` | 25 | `17e946688dd4590eee7d9674a5115229714c94c9612866530d387dc8b61870fc` | `465b1f15` |
 | `output/translations/colossians_04.json` | 18 | `11b9d98690638fff358b18be59925f310cf455e8ad3b7c084fd6b865e1e9e231` | `b64d4872` |
-| `output/translations/daniel_01.json` | 21 | `c4d4767d77a50c3a713c9000f5d4e664e11cce536fed2f080a04068d05de4235` | `7040ad9f` |
+| `output/translations/daniel_01.json` | 21 | `d7b5e0f2f910562ce0388a64c3dd4e752f98072ead33d8121a3d3a33d039f7db` | `7040ad9f` |
 | `output/translations/daniel_02.json` | 49 | `300dd8496c0edcdb574f58d846e4839e3a5da20dcf0839944ad3fee0303b9475` | `4b3059a2` |
-| `output/translations/daniel_03.json` | 33 | `53441db91e2cffd0b0e77019cb7c85bcdab0fa82b5de55b67ae7e31693906bbe` | `4b3059a2` |
+| `output/translations/daniel_03.json` | 33 | `f9b7636cdc643c098eb91d3a11dd664cf66dfa3bbfce00043c8841859ed4db82` | `4b3059a2` |
 | `output/translations/daniel_04.json` | 34 | `4feb8155d89fa5f55821792977bacb17c2f73507723f8d8907da50c3384b3a30` | `6ece78e3` |
 | `output/translations/daniel_05.json` | 30 | `b38dc1bc0735d95e875ab284937946ad2427ec44e5e5510933e7f1c219652b19` | `99cfc6ce` |
 | `output/translations/daniel_06.json` | 29 | `52e318b5097c93d79faa8d5dfcb6c33749795790d38223f06c9247fa2ef29f9f` | `c00127e5` |
-| `output/translations/daniel_07.json` | 28 | `aca4c318705d3cb486fc0784c1ef440fa496c5d7dce430ed667a4b24214ff692` | `7040ad9f` |
+| `output/translations/daniel_07.json` | 28 | `fa1ec9c709ee40ff542f0d795166770396f391af83693e9f9bcc9d5ddbe9cc67` | `7040ad9f` |
 | `output/translations/daniel_08.json` | 27 | `fcd821cdb07ed2af0a6f78b25de1393ea328a2a2f5d4b3bcde65ff3d42fd34b6` | `51df309a` |
 | `output/translations/daniel_09.json` | 27 | `86a43ccbb26dc9b67119d792a8ac35cb9f8fd51a726ded7b16bd6d94c5129551` | `f149f92b` |
 | `output/translations/daniel_10.json` | 21 | `6b96e0bdc0c5207519fe7aac1a9aff4d6a3d41f6f973584a4815de217dc12749` | `cb2b77e1` |
