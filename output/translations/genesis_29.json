@@ -58,7 +58,7 @@
       "thai_literal": "และพวกเขาจะรวมที่นั่นทั้งหมดของฝูงทั้งหลาย และพวกเขาจะกลิ้งซึ่งก้อนหินจากเหนือปากของบ่อ และพวกเขาจะให้กินน้ำซึ่งฝูง และพวกเขาจะคืนซึ่งก้อนหินเหนือปากของบ่อสู่ที่ของมัน",
       "thai_summary": null,
       "key_decisions": [],
-      "notes": "**HABITUAL ASPECT:** Hebrew imperfect verbs throughout v.3 mark the daily routine — translated with Thai 'จะ...' future/habitual marker."
+      "notes": "**HABITUAL ASPECT:** Hebrew weqatal forms (waw + perfect) throughout v.3 mark the daily routine — translated with Thai 'จะ...' future/habitual marker."
     }
   },
   {
@@ -201,7 +201,7 @@
         {
           "hebrew": "אֲחִי אִמּוֹ",
           "thai": "ลุงของเขา",
-          "rationale": "אֲחִי אִמּוֹ 'พี่ชายของมารดาของเขา' = 'ลุงในสายมารดา'. แปลเป็น 'ลุง' เพื่อความเป็นธรรมชาติของไทย — ซ้ำสามครั้งในข้อนี้ตามฮีบรูเพื่อเน้นความสัมพันธ์เครือญาติ"
+          "rationale": "אֲחִי אִמּוֹ หมายถึง “พี่หรือน้องชายของมารดา” ลาบันเป็นพี่น้องกับเรเบคาห์ ข้อความฮีบรูย้ำความสัมพันธ์นี้สามครั้ง โดยไม่ได้บอกว่าใครอายุมากกว่า ฉบับเอเรโมสใช้คำเรียกเครือญาติว่า “ลุง”"
         }
       ],
       "notes": "**TRIPLE 'MOTHER'S BROTHER':** The phrase 'Laban his mother's brother' is repeated 3 times in this single verse — Hebrew narrative emphasis on the kinship that gives Jacob status (and obligation). The strength to roll the stone alone (which usually required multiple shepherds — vv.3, 8) is the chivalric flourish, not the kinship marker."
@@ -248,7 +248,7 @@
         {
           "hebrew": "אֲחִי אָבִיהָ",
           "thai": "ญาติของบิดานาง",
-          "rationale": "อาจแปลตรงตัว 'พี่ชายของบิดานาง' (อาในสายบิดา) — แต่ยาโคบเป็นหลานของลาบันในแง่กฎหมาย (บุตรของพี่สาวของลาบัน). 'ญาติ' เป็นการแปลที่ครอบคลุม. ภาษาฮีบรูใช้ אָח ('พี่/น้อง/ญาติ') ในความหมายกว้าง"
+          "rationale": "คำว่า אָח ใช้ในความหมายกว้างถึงญาติได้ ในที่นี้ยาโคบเป็นบุตรของเรเบคาห์ ซึ่งเป็นพี่น้องกับลาบัน ยาโคบจึงบอกราเชลว่าตนเป็น “ญาติของบิดานาง”"
         }
       ],
       "notes": null
@@ -344,7 +344,7 @@
           "rationale": "רַךְ 'อ่อนนุ่ม/อ่อนแอ' — มีการตีความสองแบบ: (1) 'อ่อนแอ/พร่ามัว' (negative — สายตาไม่ดี); (2) 'อ่อนหวาน/นุ่มนวล' (positive — ตาสวย). ฉบับ ฉบับแปลไทย/ESV/NIV/CSB ส่วนใหญ่อ่านเป็นความหมายเชิงลบ — เพื่อให้ขัดแย้งกับความงามของราเชลในประโยคถัดมา. แปลเป็น 'อ่อน' ที่อ่านได้ทั้งสองแบบ — ชี้นำไปทางการตีความเชิงลบโดยบริบท"
         }
       ],
-      "notes": "**RAKKOT — INTERPRETIVE CRUX:** The adjective רַךְ literally means 'soft/tender.' Translators split: most read 'weak (eyes)' as a foil to Rachel's beauty (KJV/ESV/NIV/CSB); some read 'tender/lovely' (LXX, some rabbinic). The Eremos translation follows the majority modern reading."
+      "notes": "**RAKKOT — INTERPRETIVE CRUX:** The adjective רַךְ literally means 'soft/tender.' Translators split: most read 'weak (eyes)' as a foil to Rachel's beauty (KJV/ESV/NIV/CSB); 'tender/lovely' is an alternative interpretation. The LXX (Rahlfs) reads 'weak' (ἀσθενεῖς). The Eremos translation follows the majority modern reading."
     }
   },
   {
@@ -610,7 +610,7 @@
         {
           "hebrew": "וַיַּרְא יְהוָה",
           "thai": "องค์พระผู้เป็นเจ้าทอดพระเนตรเห็น",
-          "rationale": "Per divine_names_table: יהוה → องค์พระผู้เป็นเจ้า. Per ot_register_policy: ราชาศัพท์ 'ทอดพระเนตร' (ไม่ใช่ 'เห็น/มองเห็น'). ขนานกับ ปฐก. 16:11 (พระเจ้าทรงทอดพระเนตรเห็นความทุกข์ของฮาการ์)"
+          "rationale": "Per divine_names_table: יהוה → องค์พระผู้เป็นเจ้า. Per ot_register_policy: ราชาศัพท์ 'ทอดพระเนตร' (ไม่ใช่ 'เห็น/มองเห็น'). ขนานกับ ปฐก. 16:13 (ฮาการ์เรียกพระองค์ว่า “พระเจ้าผู้ทรงเห็นข้าพเจ้า”)"
         },
         {
           "hebrew": "כִּי־שְׂנוּאָה לֵאָה",
@@ -631,7 +631,7 @@
     "translation": {
       "thai": "เลอาห์ตั้งครรภ์และคลอดบุตรชาย นางตั้งชื่อเขาว่า รูเบน เพราะนางกล่าวว่า “องค์พระผู้เป็นเจ้าทรงทอดพระเนตรเห็นความทุกข์ของข้าพเจ้า บัดนี้สามีของข้าพเจ้าจะรักข้าพเจ้าแน่”",
       "thai_literal": "และเลอาห์ตั้งครรภ์ และนางคลอดบุตรชาย และนางเรียกชื่อของเขา รูเบน เพราะนางกล่าวว่า เพราะองค์พระผู้เป็นเจ้าทรงเห็นในความทุกข์ของข้าพเจ้า เพราะบัดนี้สามีของข้าพเจ้าจะรักข้าพเจ้า",
-      "thai_summary": "ชื่อ 'รูเบน' (רְאוּבֵן) เป็นการเล่นคำ: ראה 'เห็น' + בֵּן 'บุตร' — สื่อความหมาย 'ดูเถิดบุตร!' หรือ 'พระเจ้าทอดพระเนตรเห็น + บุตร' เลอาห์ตั้งชื่อตามเหตุการณ์ของพระเจ้าและความหวังของนาง — แสดงความศรัทธาที่พระเจ้าทรงเห็นความทุกข์ของนาง รูเบนเป็นบุตรหัวปีของยาโคบ — แต่จะเสียสิทธิ์บุตรหัวปีในภายหลังเพราะความผิด (ปฐก. 35:22, 49:3-4) ส่งสิทธิ์ให้ยูดาห์",
+      "thai_summary": "ชื่อ 'รูเบน' (רְאוּבֵן) เป็นการเล่นคำ: ראה 'เห็น' + בֵּן 'บุตร' — สื่อความหมาย 'ดูเถิดบุตร!' หรือ 'พระเจ้าทอดพระเนตรเห็น + บุตร' เลอาห์ตั้งชื่อตามเหตุการณ์ของพระเจ้าและความหวังของนาง — แสดงความศรัทธาที่พระเจ้าทรงเห็นความทุกข์ของนาง รูเบนเป็นบุตรหัวปีของยาโคบ — แต่จะเสียสิทธิ์บุตรหัวปีในภายหลังเพราะความผิด (ปฐก. 35:22, 49:3-4) สิทธิบุตรหัวปีจึงตกแก่บุตรของโยเซฟ ส่วนผู้ครอบครองมาจากยูดาห์ (1 พศด. 5:1-2)",
       "key_decisions": [
         {
           "hebrew": "רְאוּבֵן",
@@ -649,7 +649,7 @@
           "rationale": "Per divine_names_table_2026-05.md: יהוה (Tetragrammaton) → องค์พระผู้เป็นเจ้า — รูปแบบที่ขนานกับฉบับพันธสัญญาใหม่ ดูบันทึกท้ายบท"
         }
       ],
-      "notes": "**REUBEN ETYMOLOGY:** 'See, a son!' (רְאוּ + בֵּן) — preserves the wordplay with יהוה רָאָה ('YHWH has seen'). **REUBEN'S FATE:** First-born of Jacob, but loses the birthright (Gen 35:22 incest with Bilhah; Gen 49:3-4 forfeit). The blessing-line eventually goes to Judah."
+      "notes": "**REUBEN ETYMOLOGY:** 'See, a son!' (רְאוּ + בֵּן) — preserves the wordplay with יהוה רָאָה ('YHWH has seen'). **REUBEN'S FATE:** First-born of Jacob, but loses the birthright (Gen 35:22 incest with Bilhah; Gen 49:3-4 forfeit). The birthright goes to Joseph's sons, and the ruler comes from Judah (1 Chr 5:1-2)."
     }
   },
   {
@@ -701,7 +701,7 @@
           "rationale": "Per uW notes — לוה Niph'al 'ผูกพัน/ติดตาม'. คำขอของเลอาห์ที่ต้องการความรักของสามี"
         }
       ],
-      "notes": "**LEVI ETYMOLOGY:** From לוה ('be joined/attached') — Leah hopes for emotional attachment from Jacob. The Levite priestly tribe will later carry forward the meaning ('joined to YHWH' — Num 18:2-4)."
+      "notes": "**LEVI ETYMOLOGY:** From לוה ('be joined/attached') — Leah hopes for emotional attachment from Jacob. The Levite priestly tribe will later carry forward the meaning ('joined to Aaron' — Num 18:2-4)."
     }
   },
   {
@@ -719,7 +719,7 @@
         {
           "hebrew": "יְהוּדָה",
           "thai": "ยูดาห์",
-          "rationale": "Per proper_names + ปฐก. 25:1 (ฉบับเอเรโมส) — รูป 'ยูดาห์' ที่ใช้แล้ว. การเล่นคำ: יָדָה Hiph'il 'สรรเสริญ' + รูปคำที่มี ה (อาจสื่อ יהוה). ชื่อนี้กลายเป็นที่มาของชื่อ 'ยิว' (Yehudim) และเป็นเผ่าของดาวิด+พระคริสต์"
+          "rationale": "Per proper_names + ปฐก. 29:35 (ฉบับเอเรโมส) — รูป 'ยูดาห์' ที่ใช้ในข้อนี้. การเล่นคำ: יָדָה Hiph'il 'สรรเสริญ' + รูปคำที่มี ה (อาจสื่อ יהוה). ชื่อนี้กลายเป็นที่มาของชื่อ 'ยิว' (Yehudim) และเป็นเผ่าของดาวิด+พระคริสต์"
         },
         {
           "hebrew": "אוֹדֶה אֶת־יְהוָה",

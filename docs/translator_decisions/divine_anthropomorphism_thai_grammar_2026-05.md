@@ -70,7 +70,7 @@ The OT depicts God walking, descending, ascending, going-up, going-down, hoverin
 | רָחַף ("hover" — Gen 1:2 Spirit hovering over waters; Deut 32:11 eagle hovering) | **ทรงปกอยู่เหนือ** / **โฉบเฉี่ยวอยู่เหนือ** |
 | יָשַׁב ("sit/dwell/enthroned") | **ประทับ** / **ประทับนั่ง** |
 
-**Locking precedent — Genesis:** Gen 1:2 (וְרוּחַ אֱלֹהִים מְרַחֶפֶת עַל־פְּנֵי הַמָּיִם) → **พระวิญญาณของพระเจ้าทรงปกอยู่เหนือน้ำ** — the rare "hover" verb preserved. Gen 18:20–21 (YHWH "going down to see" Sodom — אֵרְדָה־נָּא וְאֶרְאֶה) → **เราจะลงไปทอดพระเนตร** — first-person divine descent.
+**Locking precedent — Genesis:** Gen 1:2 (וְרוּחַ אֱלֹהִים מְרַחֶפֶת עַל־פְּנֵי הַמָּיִם) → **พระวิญญาณของพระเจ้าทรงปกอยู่เหนือน้ำ** — the rare "hover" verb preserved. Gen 18:20–21 (YHWH "going down to see" Sodom — אֵרְדָה־נָּא וְאֶרְאֶה) → **เราจะลงไปดู** — God describes his descent and seeing in the first person.
 
 ### 2.4 Divine-speech anthropomorphisms
 
