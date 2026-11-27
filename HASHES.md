@@ -303,7 +303,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/daniel_12.json` | 13 | `4d16cf1841a9ff4b444fc44beea51220239ae81d77c47f7f85dc17921df14de6` | `c0aba0bf` |
 | `output/translations/deuteronomy_01.json` | 46 | `7f01a37ad00205416ba43ccebea7313ec29070a381e228d8990772452696c686` | `7040ad9f` |
 | `output/translations/deuteronomy_02.json` | 37 | `6fccd8efbc81ff508cb043f3e04b6ad592b81666bec86aa4dad9b1dd06dc0771` | `7040ad9f` |
-| `output/translations/deuteronomy_03.json` | 29 | `27ecc6588907ff04cff63a98caf236548edca1500a28b3226b0fdd69a0e5e091` | `7040ad9f` |
+| `output/translations/deuteronomy_03.json` | 29 | `bec865a64c94dfb773624a1bba3c076b0061a7e7054ebd1cf7ad5af8ec5bcaf6` | `7040ad9f` |
 | `output/translations/deuteronomy_04.json` | 49 | `47c8041b1dd39c9f18bb5fa655ab64b7184b1d0a4fac0f1084ab3a4091008fbf` | `7040ad9f` |
 | `output/translations/deuteronomy_05.json` | 33 | `2881f748d33835c2ff6e9eb9840bf87c8e6ad567200b5d784bdd64c2ca8aadbb` | `2b1853d4` |
 | `output/translations/deuteronomy_06.json` | 25 | `dcac961235dfdd536c48994bd01a7c632555fc345acea6dea8075ec03c30199f` | `7040ad9f` |

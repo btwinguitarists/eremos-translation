@@ -444,7 +444,7 @@ _**ข้อ 34 — 'ถวายเฮเรม' (חָרַם, ḥerem)** เป
 
 > ___
 
-**14** ยาอีร์ ผู้เป็นเชื้อสายของมนัสเสห์ ได้ยึดทั้งภูมิภาคอาร์โกบไปจนถึงเขตของชาวเกชูร์และชาวมาอาคา เขาเปลี่ยนชื่อบาชานตามชื่อของตนเองเป็นฮัฟวอท-ยาอีร์ ซึ่งใช้เรียกอยู่จนถึงทุกวันนี้
+**14** ยาอีร์ ผู้เป็นเชื้อสายของมนัสเสห์ ได้ยึดทั้งภูมิภาคอาร์โกบไปจนถึงเขตของชาวเกชูร์และชาวมาอาคา เขาเปลี่ยนชื่อบาชานตามชื่อของตนเองเป็นฮัฟโวท-ยาอีร์ ซึ่งใช้เรียกอยู่จนถึงทุกวันนี้
 
 > ___
 
@@ -4626,7 +4626,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 |---|---|
 | `output/translations/deuteronomy_01.json` | `7f01a37ad00205416ba43ccebea7313ec29070a381e228d8990772452696c686` |
 | `output/translations/deuteronomy_02.json` | `6fccd8efbc81ff508cb043f3e04b6ad592b81666bec86aa4dad9b1dd06dc0771` |
-| `output/translations/deuteronomy_03.json` | `27ecc6588907ff04cff63a98caf236548edca1500a28b3226b0fdd69a0e5e091` |
+| `output/translations/deuteronomy_03.json` | `bec865a64c94dfb773624a1bba3c076b0061a7e7054ebd1cf7ad5af8ec5bcaf6` |
 | `output/translations/deuteronomy_04.json` | `47c8041b1dd39c9f18bb5fa655ab64b7184b1d0a4fac0f1084ab3a4091008fbf` |
 | `output/translations/deuteronomy_05.json` | `2881f748d33835c2ff6e9eb9840bf87c8e6ad567200b5d784bdd64c2ca8aadbb` |
 | `output/translations/deuteronomy_06.json` | `dcac961235dfdd536c48994bd01a7c632555fc345acea6dea8075ec03c30199f` |
