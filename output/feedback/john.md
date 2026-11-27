@@ -2542,7 +2542,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**32** ถ้าพระเจ้าได้รับพระสิริในพระองค์ พระเจ้าก็จะทรงให้พระองค์ได้รับพระสิริในพระองค์เองด้วย และจะทรงทำเช่นนั้นในไม่ช้า
+**32** ถ้าพระเจ้าได้รับพระสิริในพระองค์ พระเจ้าก็จะทรงให้พระองค์ได้รับพระสิริในพระองค์เองด้วย และจะทรงทำเช่นนั้นทันที
 
 > ___
 
@@ -3642,13 +3642,13 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/john_10.json` | `f291b41ab136e7033bd9a82e66945d1eec2bba8f631f067b0a624043cbb1830b` |
 | `output/translations/john_11.json` | `1a8bbeb27fc3de5b1567f704e14605a4fbb67fbeefdcab716643b9dd7c542db4` |
 | `output/translations/john_12.json` | `804bbd6b5b6edcf5d29f974c174f0f73b376b577d4f0a1470163c964d00cf9ca` |
-| `output/translations/john_13.json` | `340b7f9d3efefd00ff9b6eab89550dc3b92177814241870dba2794a61ab3e83b` |
-| `output/translations/john_14.json` | `aa6e97c24cad914c369a54be0d6d8b102d1f3d0a9fb474e0736d9c23885424c4` |
-| `output/translations/john_15.json` | `c1cf9d435aefcd305971fa4cb96bc2a13f6b70873a5b9db9b9cbf6b7afeaaef2` |
-| `output/translations/john_16.json` | `b15d3c06e89e6a9099a2fa8c673bb840022d6fe3879b5b4094b028abf3679747` |
+| `output/translations/john_13.json` | `b100896e65a7f9395ad2ede7222cfd58ce5f8e9afc2186a06729e02ec185ad84` |
+| `output/translations/john_14.json` | `3e30b86d239c4f6d2937d8b296f6974a5c09587c053e1aba211e189838fcba62` |
+| `output/translations/john_15.json` | `084cecb1a689edb607787c7f831c9a4374a28a417a893c4e515dec3d0b77cc04` |
+| `output/translations/john_16.json` | `c3b48d3b3047ce4ea5d1b67685ce284f3a3ecf55fb607825f5def7dbf69b502d` |
 | `output/translations/john_17.json` | `97614066df34a0d6a0ab31f31abacbf98206e56d3e343b1ed594e7a2ba16df9a` |
 | `output/translations/john_18.json` | `c2ac0cd379ddf9ac708e33a285aadd61b13fc9bf00de471fe6ccfda6aede71c6` |
 | `output/translations/john_19.json` | `a14761a864c38720c4a84696b37440490bdc5e64ade11951baa45390082685cf` |
-| `output/translations/john_20.json` | `325590667e05fc75d8bc30023414899da7be15500580320c9c1719060cf66863` |
+| `output/translations/john_20.json` | `7930a74ea38558a8e9a40ce6c6fef085d6096f3c9a8886cff2e8d2b1015226d5` |
 | `output/translations/john_21.json` | `91f53ce90addcc116d433deda7dbe8ab3a8c171e9f8ca9bb28130c13f08700ac` |
 
