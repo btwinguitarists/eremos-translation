@@ -308,7 +308,7 @@ _This reader edition shows the Thai translation and the contextual summary (บ�
 
 **15** เพราะเหตุนี้ พวกเขาจึงอยู่ต่อหน้าพระบัลลังก์ของพระเจ้า และปรนนิบัติพระองค์ทั้งกลางวันและกลางคืนในพระวิหารของพระองค์ และพระองค์ผู้ประทับบนพระบัลลังก์จะทรงกางพลับพลาของพระองค์เหนือพวกเขา
 
-**16** พวกเขาจะไม่หิวอีกต่อไป และจะไม่กระหายอีกต่อไป และดวงอาทิตย์จะไม่ทำร้ายพวกเขา หรือความร้อนใด ๆ
+**16** พวกเขาจะไม่หิวอีกต่อไป และจะไม่กระหายอีกต่อไป ทั้งดวงอาทิตย์และความร้อนใด ๆ จะไม่ทำร้ายพวกเขา
 
 **17** เพราะพระเมษโปดกที่อยู่กลางพระบัลลังก์จะทรงเป็นผู้เลี้ยงพวกเขา และจะทรงนำพวกเขาไปยังน้ำพุแห่งชีวิต และพระเจ้าจะทรงเช็ดน้ำตาทุกหยดจากดวงตาของพวกเขา”
 
@@ -540,7 +540,7 @@ _This reader edition shows the Thai translation and the contextual summary (บ�
 
 **18** ในที่นี้ต้องใช้สติปัญญา ผู้ที่มีความเข้าใจ จงคำนวณจำนวนเลขของสัตว์ร้าย เพราะเป็นจำนวนเลขของมนุษย์ และจำนวนเลขของมันคือหกร้อยหกสิบหก
 
-> _บริบท: ‘หกร้อยหกสิบหก’ (666) มีการตีความหลายแบบ — (1) Gematria (การคำนวณตัวอักษรเป็นเลข) ของชื่อ ‘เนโร ซีซาร์’ ในภาษาฮีบรู (נְרוֹן קֵסַר) ได้ผลรวมเท่ากับ 666 — น่าจะหมายถึงจักรวรรดิโรมันในยุคของยอห์น (2) เป็นสัญลักษณ์ของความไม่สมบูรณ์ที่สุด (เลข 6 = ขาดความสมบูรณ์ของเลข 7; การซ้ำ 3 ครั้ง = ขาดสมบูรณ์ที่สุด) (3) เป็นจำนวนที่จะระบุได้ในยุคสุดท้าย (Dispensationalism) บางต้นฉบับโบราณ (เช่น Papyrus 115) อ่านว่า ‘หกร้อยสิบหก’ (616) — แต่ฉบับมาตรฐานวิจารณ์ส่วนใหญ่และฉบับเอเรมอสตามต้นฉบับยุคแรกที่อ่านว่า 666_
+> _บริบท: ‘หกร้อยหกสิบหก’ (666) มีการตีความหลายแบบ — (1) Gematria (การคำนวณตัวอักษรเป็นเลข) ของชื่อ ‘เนโร ซีซาร์’ ในภาษาฮีบรู (נְרוֹן קֵסַר) ได้ผลรวมเท่ากับ 666 — น่าจะหมายถึงจักรวรรดิโรมันในยุคของยอห์น (2) เป็นสัญลักษณ์ของความไม่สมบูรณ์ที่สุด (เลข 6 = ขาดความสมบูรณ์ของเลข 7; การซ้ำ 3 ครั้ง = ขาดสมบูรณ์ที่สุด) (3) เป็นจำนวนที่จะระบุได้ในยุคสุดท้าย (Dispensationalism) ต้นฉบับปาปิรัสยุคแรกให้ตัวเลขต่างกัน ปาปิรัสหมายเลข 47 (คริสต์ศตวรรษที่ 3) อ่านว่า 666 ส่วนปาปิรัสหมายเลข 115 (คริสต์ศตวรรษที่ 3 หรือ 4) อ่านว่า 616 ฉบับเอเรมอสใช้ 666 ตามข้อความกรีกฉบับ SBLGNT_
 
 ---
 
@@ -941,20 +941,20 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/revelation_01.json` | `23c556483a074fb98a5f569d40fbbf3c799536caab6072860ed3e9ff6c1d91ab` |
 | `output/translations/revelation_02.json` | `6bbd8cf1a7fe8488af5a80c5e735b9c2e2d61839fd5a4f30c638abd780bf6976` |
 | `output/translations/revelation_03.json` | `9a506f95e9478fa4a1a112d275b47bc57a31bc5d3aa1d0dc3841abf1d37ca482` |
-| `output/translations/revelation_04.json` | `4d87b7c7378627247e0a1bbfdf7e2b310b7256c2a1a66598143b6e2fa9a520c7` |
+| `output/translations/revelation_04.json` | `41b6c2cb4fec6c763e4f6d07c91c8ee8d52876862d8040b20b4036a061882abc` |
 | `output/translations/revelation_05.json` | `17e0af1c0d9c423fce5373becf3cdcfd00ad8db9b40b3f9750e74d5a4c687e59` |
 | `output/translations/revelation_06.json` | `317a6c22cdd3210140e0164b0ac48495f89272efea45922798f7b407f1bedd0b` |
-| `output/translations/revelation_07.json` | `3166c472215264605ca59c9600b71f86d2091eaf4ad5f69d1529c05002052404` |
-| `output/translations/revelation_08.json` | `c284a7d87340c57de9bba79ed9673dd72d707483ae5ec6892444cd88d0e86fa6` |
+| `output/translations/revelation_07.json` | `d7e4ddc9ae824bff2155481cc107d7b696eb5ec7cb037be2c6704b5e71984a60` |
+| `output/translations/revelation_08.json` | `00e9b7ae315aca39c2df1ef0ee89d46a80e9f6d8d35b1f645ea6e34c92a750d3` |
 | `output/translations/revelation_09.json` | `46a863c1ef3a213dc87e9d29777c50e496ab3058bf0b2e37598621537eddf0fa` |
 | `output/translations/revelation_10.json` | `628eb3f0341b94af10259a14a4921c4ff99a04d52c8b739adb5552b99b86966a` |
 | `output/translations/revelation_11.json` | `5a462509073406b9ebf025734d4ec0875a55899be68bb25eb46bc924b68b7671` |
 | `output/translations/revelation_12.json` | `c5d3c62e73e90a16009098919d94a25143104d124f2071e55e42ae68edc16f0d` |
-| `output/translations/revelation_13.json` | `e112394744fe4a2adad54cee8974dfa056953973d84ba28f3f3ca3e736aae246` |
-| `output/translations/revelation_14.json` | `5a454411d5049f24240dbb689e9754894704baf1175b2d54203c9deb86f62ada` |
+| `output/translations/revelation_13.json` | `dbadfe0148e4c6a69c15b6c9ec27736d024a423b32d444d24d793d9e27cb5cf0` |
+| `output/translations/revelation_14.json` | `d27c1eb39ae67adc146e6a7b0964bf65436a460cf0d08593f0fb941d6e65eaf8` |
 | `output/translations/revelation_15.json` | `83514d00b08a603488c583efe567f68fb67f9a4cf149ff9a380e058f09c8a743` |
-| `output/translations/revelation_16.json` | `7d1f7c4a82f38c4872f59aa8b84467327fd0c51d457043350ba1eb77e6c2f83c` |
-| `output/translations/revelation_17.json` | `2a4efa7f3a3c7512699f0fe63f7deeee2e44845b212ed320ec15cbba9955c7f6` |
+| `output/translations/revelation_16.json` | `5f004f653b7367ecbc3e3278fefa0bf21b864c4df1f86a05ddaf00056f8b3e3d` |
+| `output/translations/revelation_17.json` | `7627ebc3daf84098b66a9bee54cb5cd9df338b6ce5b69f0fa289ed74e708b94b` |
 | `output/translations/revelation_18.json` | `5db9fc1219a5b8ea31dfb2346b602090a4d31372c8ca1a58bb1225edf0a96e43` |
 | `output/translations/revelation_19.json` | `af20699c4505a1b3d72d3eb37f518054fc704e8be15660bc1667454ae04064b9` |
 | `output/translations/revelation_20.json` | `260661aa83e200d250e89a9059696871af1a6bf1a0b7d6533aca671c3a03830d` |
