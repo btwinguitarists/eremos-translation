@@ -1778,7 +1778,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**35** พระเยซูทรงทราบว่าพวกเขาขับเขาออกไป จึงทรงเสาะหาเขาจนพบ และตรัสว่า “เจ้าเชื่อในบุตรมนุษย์หรือไม่?”
+**35** พระเยซูทรงทราบว่าพวกเขาขับเขาออกไป จึงทรงพบเขา และตรัสว่า “เจ้าเชื่อในบุตรมนุษย์หรือไม่?”
 
 > ___
 
@@ -3637,11 +3637,11 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/john_05.json` | `0ad8a99defd6537fe49a54b422d53c1e812c3c8c4f5f9ccf1d0b4180f336e9c0` |
 | `output/translations/john_06.json` | `db5f8fbec7ef02034af4f593d403525db89fdd838309b073c0db288af25c5d67` |
 | `output/translations/john_07.json` | `52f5840f48a925cb4246e70c041625fd721ee7d455124cca10e3cc756f957e81` |
-| `output/translations/john_08.json` | `f5fdc195383eecc58fd3ca4f6c458b385f3bf602a52c466eae4660b7c8138374` |
-| `output/translations/john_09.json` | `a6c2c388862b19ad6c2eaf98a92a8a22da9a1847f7d52effd8a5aa39e7f66d04` |
+| `output/translations/john_08.json` | `4d8979ef2ff7cb63317af5b4475dcc949822f16f68e307b670058787c091e67c` |
+| `output/translations/john_09.json` | `e95182fc22445b2d8e324c2cf2d2d58d76ec617b240eafcdeba9efc1a60a56ae` |
 | `output/translations/john_10.json` | `f291b41ab136e7033bd9a82e66945d1eec2bba8f631f067b0a624043cbb1830b` |
-| `output/translations/john_11.json` | `4aef358bb5d669809780ab5dff62cc11623c305a51d32ac088a6be16706d62bd` |
-| `output/translations/john_12.json` | `57426378edc72034698b7be77ac69082ba336765de54c58eb97636133a2322c4` |
+| `output/translations/john_11.json` | `1a8bbeb27fc3de5b1567f704e14605a4fbb67fbeefdcab716643b9dd7c542db4` |
+| `output/translations/john_12.json` | `804bbd6b5b6edcf5d29f974c174f0f73b376b577d4f0a1470163c964d00cf9ca` |
 | `output/translations/john_13.json` | `340b7f9d3efefd00ff9b6eab89550dc3b92177814241870dba2794a61ab3e83b` |
 | `output/translations/john_14.json` | `aa6e97c24cad914c369a54be0d6d8b102d1f3d0a9fb474e0736d9c23885424c4` |
 | `output/translations/john_15.json` | `c1cf9d435aefcd305971fa4cb96bc2a13f6b70873a5b9db9b9cbf6b7afeaaef2` |
