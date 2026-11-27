@@ -638,7 +638,7 @@
     "translation": {
       "thai": "ยังมีขอทานคนหนึ่งชื่อลาซารัส ถูกวางไว้ที่ประตูบ้านของเศรษฐี มีบาดแผลเต็มตัว",
       "thai_literal": null,
-      "thai_summary": "ลาซารัสเป็นชื่อเดียวของตัวละครในบรรดาคำอุปมาทั้งหมดของพระเยซู — การตั้งชื่อคนยากจนในขณะที่ไม่ตั้งชื่อเศรษฐี เป็นการพลิกกลับค่านิยมของสังคมที่ความมั่งมีได้รับเกียรติยศ ชื่อ “ลาซารัส” มาจากชื่อยิว אֶלְעָזָר (เอลอาซาร์) ที่แปลว่า “พระเจ้าทรงช่วย” — เป็นการบอกล่วงหน้าถึงชะตากรรมของเขาในข้อถัดไป",
+      "thai_summary": "คนยากจนมีชื่อว่าลาซารัส ส่วนเศรษฐีไม่มีชื่อ เรื่องนี้ยังกล่าวถึงอับราฮัมซึ่งเป็นผู้พูดในตอนต่อมา และเอ่ยชื่อโมเสสด้วย",
       "key_decisions": [
         {
           "greek": "πτωχὸς δέ τις",
@@ -661,7 +661,7 @@
           "rationale": "HAPAX εἱλκωμένος (perfect passive participle of ἑλκόω 'cause-sores / be-ulcerated'). 'มีบาดแผลเต็มตัว' (have-wounds-all-over-body) — captures the ulcerous-chronic-skin-disease sense vividly. NEW: ἑλκόομαι (perfect ptc) → มีบาดแผลเต็มตัว (HAPAX). Related ἕλκος (v.21) = individual wound-spot."
         }
       ],
-      "notes": "HAPAX: εἱλκωμένος. Luke's parables typically feature anonymous characters; only here is anyone named — and it is the POOR man. The name Lazarus has symbolic weight: 'God has helped' — exactly what happens in v.22 (angels carry him). The scene-construction is vivid: a chronically-ill beggar placed daily at the gate of the richest house in town, visible to everyone entering/exiting. The rich man could not have been unaware — Luke's storytelling emphasizes willful neglect, not ignorance. πυλών denotes the fortified gatehouse of a wealthy estate — the architecture itself symbolizes the rich man's isolation from poverty he sees but does not engage. NEW PROPER NOUN: Λάζαρος → ลาซารัส."
+      "notes": "The poor man is called Lazarus, while the rich man remains unnamed. Abraham is also a named speaker in the same story, and Moses is mentioned. The naming contrast by itself does not tell readers whether the events are historical."
     }
   },
   {
@@ -1003,7 +1003,7 @@
         {
           "greek": "μετανοήσουσιν",
           "thai": "พวกเขาก็จะกลับใจ",
-          "rationale": "μετανοέω — established glossary 'กลับใจ' (LUK 3:3, 3:8, 13:3, 15:7). Future indicative 'they-will-repent' → 'ก็จะกลับใจ' (then-they-will-repent) — Thai serialized future."
+          "rationale": "μετανοέω is the verb to repent, also used in 13:3 and 15:7. Luke 3:3 and 3:8 instead have μετανοίας, a form of the cognate noun μετάνοια. Thai กลับใจ can express the idea in either construction."
         }
       ],
       "notes": "The rich man's counter-argument reflects a common (then and now) assumption: that if people only had stronger sensory evidence — a resurrection! a vision from the beyond! — they would repent. He assumes the problem is evidence-inadequacy. Abraham's response in v.31 will correct this: the problem is not evidence-inadequacy but heart-hardness toward what God has already revealed. This is a theological-anthropology statement: the root of unbelief is moral, not epistemic."
@@ -1018,7 +1018,7 @@
     "translation": {
       "thai": "แต่อับราฮัมตอบเขาว่า ‘ถ้าพวกเขาไม่ฟังโมเสสและบรรดาผู้เผยพระวจนะ แม้มีผู้ใดเป็นขึ้นมาจากหมู่คนตาย พวกเขาก็จะไม่เชื่อ’”",
       "thai_literal": null,
-      "thai_summary": "คำพูดสุดท้ายนี้เป็นการทำนายอย่างน่าเศร้าใจ — ผู้ที่ปฏิเสธพระคัมภีร์แล้วจะปฏิเสธการเป็นขึ้นมาจากตายของพระเยซูด้วย เหตุการณ์ที่พระเยซูทรงเป็นขึ้นจากตายและลาซารัสอีกคนหนึ่งเป็นขึ้นจากตาย (ยน. 11) ต่างก็ยืนยันคำเตือนของอับราฮัมในข้อนี้: ผู้ที่ไม่ฟังพระคัมภีร์ก็ไม่ฟังการอัศจรรย์ใด ๆ ด้วย ปัญหาไม่ใช่หลักฐานไม่เพียงพอ แต่เป็นใจที่ดื้อดึง",
+      "thai_summary": "คำตอบของอับราฮัมชี้ว่าคนที่ไม่ยอมฟังโมเสสและผู้เผยพระวจนะอาจไม่เชื่อแม้จะมีผู้เป็นขึ้นจากตาย ในยอห์น 11:47–53 มีการวางแผนฆ่าพระเยซู ส่วนยอห์น 12:10 กล่าวถึงแผนของพวกหัวหน้าปุโรหิตที่จะฆ่าลาซารัส ยอห์นเล่าด้วยว่าหลายคนเชื่อ",
       "key_decisions": [
         {
           "greek": "Εἰ Μωϋσέως καὶ τῶν προφητῶν οὐκ ἀκούουσιν",
@@ -1031,7 +1031,7 @@
           "rationale": "ἀνίστημι (aorist subjunctive) = 'rise-up' — resurrection-language. 'เป็นขึ้นมาจากตาย' (rise-come-up-from-death) — standard Thai biblical idiom for resurrection. 'หมู่คนตาย' consistent with v.30 rendering. πεισθήσονται (future passive) 'they-will-be-persuaded/convinced' → 'จะเชื่อ' (will-believe); negated 'จะไม่เชื่อ.' Semantic shift: v.30 had μετανοήσουσιν (repent); v.31 has πεισθήσονται (be-persuaded) — the rich man's request-verb shifts to Abraham's reality-verb. The repentance-they-claim-would-happen will not even happen at the level of persuasion."
         }
       ],
-      "notes": "The parable's final word is tragic prophecy. When Lazarus of Bethany rose from the dead (John 11), 'the chief priests and Pharisees gathered to plan to kill Jesus AND Lazarus' (John 11:45-12:11). When Jesus rose from the dead, many still did not believe (Matt 28:11-15, bribing guards to lie). The parable demonstrates its own thesis from the canon itself. THEOLOGICAL POINT: the sufficiency of Scripture for bringing people to faith (the Protestant SOLA SCRIPTURA principle has this parable as a key foundation — cf. WCF 1:6-7). SYNOPTIC: this parable is unique to Luke; there is no Matthean or Markan parallel."
+      "notes": "The ending addresses whether a person returning from death would persuade the brothers. In John 11:47–53 chief priests and Pharisees gather, leading to the plot against Jesus. John 12:10 separately reports chief priests planning to kill Lazarus. John also records people who believed. These events offer a comparison with the parable."
     }
   }
 ]
