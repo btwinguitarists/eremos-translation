@@ -186,7 +186,7 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **24** และถูกประกาศว่าชอบธรรมโดยเปล่าเปลือง โดยพระคุณของพระองค์ ผ่านการไถ่ที่มีในพระเยซูคริสต์
 
-**25** พระเจ้าทรงตั้งพระองค์ไว้เป็นเครื่องบูชาไถ่บาป โดยทางความเชื่อ ในพระโลหิตของพระองค์ — เพื่อสำแดงความชอบธรรมของพระเจ้า เพราะในความอดทนของพระองค์ ทรงงดเว้นการลงโทษบาปที่ได้ทำไว้ก่อน
+**25** พระเจ้าทรงตั้งพระองค์ไว้เป็นเครื่องบูชาไถ่บาป โดยทางความเชื่อ ในพระโลหิตของพระองค์ — เพื่อสำแดงความชอบธรรมของพระเจ้า เพราะทรงงดเว้นการลงโทษบาปที่ได้ทำไว้ก่อน
 
 **26** ในความอดทนของพระเจ้า — เพื่อสำแดงความชอบธรรมของพระองค์ในเวลาปัจจุบันนี้ เพื่อพระองค์จะทรงเป็นผู้ชอบธรรม และทรงประกาศว่าชอบธรรมแก่ผู้ที่มีความเชื่อในพระเยซู
 
@@ -942,9 +942,9 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/romans_01.json` | `5ca37aa51848bed45f723c593aee4c67d14b84b8a8baf167b67308d899166ff9` |
-| `output/translations/romans_02.json` | `79dcd970b33c6175970a227780ff055e0248ff681ee67b033db8ccf4dca12e56` |
-| `output/translations/romans_03.json` | `3646bad94813857432f68e7fd43f7af21c883d65238cf8fe2daac5e2a0e92e09` |
+| `output/translations/romans_01.json` | `36c4383ed0d2500513a2dda2707745c9c9202e6b550a26ae8854c9498164e51d` |
+| `output/translations/romans_02.json` | `e907bd961c3cd6d7a7ba0fb82945bfb62ae4bf52ad7c04bcd5f9f4d11ec7bbea` |
+| `output/translations/romans_03.json` | `6da32980f301c549863008a0ab8d3b614e8e2e1ba01a98e8d1e5bbab4bab002b` |
 | `output/translations/romans_04.json` | `647a81567b34c49353611d475fdbcb2e23538553ffe9e7edd8e4f01374e13636` |
 | `output/translations/romans_05.json` | `5c6db901e150aaaf86780b3e70e80acf0ea7100700b1782dd286066f44989d20` |
 | `output/translations/romans_06.json` | `db11818d64971cecc1fbf5d29ec261e3e01eb9d99e62115050ed9a2e56874fbe` |

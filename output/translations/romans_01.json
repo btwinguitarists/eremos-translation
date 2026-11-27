@@ -13,7 +13,7 @@
         {
           "greek": "δοῦλος Χριστοῦ Ἰησοῦ",
           "thai": "ผู้เป็นทาสของพระเยซูคริสต์",
-          "rationale": "δοῦλος → ทาส (corpus lock from Luke 7:2 etc.; consistent across Pauline corpus). Thai retains the strong slave-of-Christ image rather than softening to 'ผู้รับใช้' (servant). Christ-as-master takes implicit honorific via พระ-prefix already in พระเยซูคริสต์."
+          "rationale": "Paul introduces himself as servant, called apostle and one set apart for the gospel. SBLGNT, Tregelles and NA28 read “Christ Jesus.” WH and RP read “Jesus Christ.” The Thai uses the customary พระเยซูคริสต์. The order alone does not explain Paul’s emphasis. At 1:8 RP has ὑπέρ instead of περί in the thanksgiving. At 1:16 RP adds “of Christ” after “gospel.” At 1:19 RP reorders θεὸς γάρ to γὰρ θεός."
         },
         {
           "greek": "κλητὸς ἀπόστολος",
@@ -26,7 +26,7 @@
           "rationale": "ἀφορίζω perfect-passive participle 'having-been-set-apart.' Divine passive — God is the implicit agent. εὐαγγέλιον → ข่าวประเสริฐ (RULES §4 NON-NEGOTIABLE lock — never พระกิตติคุณ). 'ถูกแยกไว้' preserves the perfect-passive 'set-apart-and-still-set-apart' force."
         }
       ],
-      "notes": "Three-fold self-introduction. Note Paul's name-order Χριστοῦ Ἰησοῦ (vs. usual Ἰησοῦς Χριστός) — emphasizes the messianic title first. ἀφωρισμένος may echo Paul's pre-Christian Pharisaic identity (Pharisee = 'separated one'); now separated FOR the gospel rather than FROM Gentiles."
+      "notes": "Paul introduces himself as servant, called apostle and one set apart for the gospel. SBLGNT, Tregelles and NA28 read “Christ Jesus.” WH and RP read “Jesus Christ.” The Thai uses the customary พระเยซูคริสต์. The order alone does not explain Paul’s emphasis. At 1:8 RP has ὑπέρ instead of περί in the thanksgiving. At 1:16 RP adds “of Christ” after “gospel.” At 1:19 RP reorders θεὸς γάρ to γὰρ θεός."
     }
   },
   {
@@ -468,10 +468,10 @@
         {
           "greek": "Ὁ δὲ δίκαιος ἐκ πίστεως ζήσεται",
           "thai": "‘ผู้ชอบธรรมจะมีชีวิตอยู่โดยความเชื่อ’",
-          "rationale": "OT QUOTATION: Habakkuk 2:4 LXX (= ὁ δὲ δίκαιος ἐκ πίστεως μου ζήσεται in LXX-A; SBLGNT here matches LXX-B without μου, also matches Heb 10:38b's reading). Hebrew MT: צַדִּיק בֶּאֱמוּנָתוֹ יִחְיֶה ('the-righteous by-his-faithfulness shall-live'). Paul reads the LXX without μου — a critical interpretive move for Pauline-justification theology. Curly single quotes for OT-quote (RULES §5b)."
+          "rationale": "The citation from Habakkuk 2:4 has no possessive with “faith” in Romans 1:17 or Galatians 3:11. Thai โดยความเชื่อ likewise leaves the possessor unstated. In Rahlfs Greek Habakkuk μου follows πίστεως (“my faithfulness”). In Hebrew Habakkuk the suffix means “his.” In Hebrews 10:38 μου follows δίκαιος (“my righteous one”). These texts establish differences in wording while leaving open which exemplar Paul used."
         }
       ],
-      "notes": "OT QUOTATION: Habakkuk 2:4 LXX. SBLGNT matches LXX-B (without μου); Hebrew MT צַדִּיק בֶּאֱמוּנָתוֹ. Paul's reading drops the genitive (μου or αὐτοῦ) — the righteous-one shall-live by-faith (universal), not by-his-(own)-faithfulness. Will be added to nt_ot_citations.json. The phrase ἐκ πίστεως εἰς πίστιν is a famous Pauline crux — three readings exist (faith-from-beginning-to-end / shared-faith / progressive-faith); evangelical-Protestant mainstream follows (a)."
+      "notes": "The citation from Habakkuk 2:4 has no possessive with “faith” in Romans 1:17 or Galatians 3:11. Thai โดยความเชื่อ likewise leaves the possessor unstated. In Rahlfs Greek Habakkuk μου follows πίστεως (“my faithfulness”). In Hebrew Habakkuk the suffix means “his.” In Hebrews 10:38 μου follows δίκαιος (“my righteous one”). These texts establish differences in wording while leaving open which exemplar Paul used."
     }
   },
   {
@@ -583,7 +583,7 @@
         {
           "greek": "γνόντες τὸν θεὸν οὐχ ὡς θεὸν ἐδόξασαν",
           "thai": "แม้ว่าพวกเขารู้จักพระเจ้า พวกเขาก็ไม่ได้ถวายพระเกียรติแด่พระองค์อย่างที่ควรแก่พระเจ้า",
-          "rationale": "γινώσκω aorist-participle 'having-known' — concessive (per BSB 'although'). δοξάζω with God-as-object → 'ถวายพระเกียรติแด่' (royal — humans-toward-God use humble register; cf. RULES §3 'ถวาย' for offering-up-to-deity). The double-θεόν 'as-God / fitting-of-God' preserved as 'อย่างที่ควรแก่พระเจ้า.'"
+          "rationale": "The people knew God and failed to honor him as God or to give thanks. The human subjects take no royal verbal prefix. In ไม่ได้ถวายพระเกียรติแด่พระองค์ the honor is directed to God. The phrasing also connects with พระสิริ in the exchange of divine glory at 1:23. This negative clause describes a failure to honor God and has its own context."
         },
         {
           "greek": "ηὐχαρίστησαν",
@@ -601,7 +601,7 @@
           "rationale": "σκοτίζομαι passive 'be-darkened' → มืดมน. ἀσύνετος → 'โง่เขลา' (= 'foolish/lacking-understanding'). καρδία in Pauline-anthropology = inner-being / mind / will → จิตใจ (NOT 'หัวใจ' = anatomical heart)."
         }
       ],
-      "notes": "ματαιόομαι is NT HAPAX. Pauline-anthropology: knowing-God-yet-not-honoring-Him is the root sin; the consequence is darkened-foolish heart-mind. Note semantic-cluster: γινώσκω (know) → δοξάζω (glorify) → εὐχαριστέω (thank) — all in negative — followed by ματαιόομαι (futile-thinking) + σκοτίζομαι (darkened). Knowing God obligates honoring; failing it cascades into intellectual+spiritual darkness."
+      "notes": "The people knew God and failed to honor him as God or to give thanks. The human subjects take no royal verbal prefix. In ไม่ได้ถวายพระเกียรติแด่พระองค์ the honor is directed to God. The phrasing also connects with พระสิริ in the exchange of divine glory at 1:23. This negative clause describes a failure to honor God and has its own context."
     }
   },
   {
@@ -676,7 +676,7 @@
           "rationale": "ἀτιμάζω passive-infinitive 'be-dishonored.' σῶμα → ร่างกาย (Pauline-body). 'ถูกลบหลู่' (= 'be-disgraced/dishonored'; ลบหลู่ = 'show-contempt-toward'). Articular-infinitive of result/purpose — leaving 'ให้' as 'so-that / resulting-in.'"
         }
       ],
-      "notes": "In verses 24, 26 and 28 the active παρέδωκεν has God as its subject. The outcomes are impurity, dishonorable passions and a debased mind. Thai repeats พระเจ้าจึงทรงปล่อยพวกเขา. The word ปล่อย may bring permission to mind. Paul describes God handing the people over without separately specifying how this judgment takes effect."
+      "notes": "In verses 24, 26 and 28 the active παρέδωκεν has God as its subject. The outcomes are impurity, dishonorable passions and a debased mind. Thai repeats พระเจ้าจึงทรงปล่อยพวกเขา. The word ปล่อย may bring permission to mind. Paul describes God handing the people over without separately specifying how this judgment takes effect. RP adds καί after διό and uses reflexive ἑαυτοῖς where the selected verse has αὐτοῖς. ในระหว่างกัน describes the action among them. In verse 27 WH uses the contracted reflexive αὑτοῖς in place of ἑαυτοῖς. RP adds πορνείᾳ, sexual immorality, to the list at verse 29 and ἀσπόνδους, unwilling to make peace, at verse 31. Counts based on the selected list therefore differ from the longer one."
     }
   },
   {
