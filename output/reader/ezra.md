@@ -574,7 +574,7 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 **ข้อ 28** — หมายเหตุการแปลพระนามของพระเจ้า
 
-_**องค์พระผู้เป็นเจ้า** ในบทนี้ (ปรากฏครั้งแรกที่ข้อ 28) แปลจากภาษาฮีบรู יהוה (พระนามเฉพาะของพระเจ้า ออกเสียงโดยทั่วไปว่า ‘ยาห์เวห์’). ฉบับเอเรโมสใช้ **องค์พระผู้เป็นเจ้า** ตามแบบแผนของฉบับพันธสัญญาใหม่ในการแปล κύριος ซึ่งในต้นฉบับฮีบรูตรงกับ יהוה. ข้ออื่นในบทนี้ที่กล่าวถึงพระเจ้าใช้คำ אֱלֹהִים (พระเจ้า). ดูรายละเอียดที่ docs/translator_decisions/divine_names_table_2026-05.md._
+_**องค์พระผู้เป็นเจ้า** ในบทนี้ (ปรากฏครั้งแรกที่ข้อ 28) แปลจากภาษาฮีบรู יהוה (พระนามเฉพาะของพระเจ้า ออกเสียงโดยทั่วไปว่า ‘ยาห์เวห์’). ฉบับเอเรโมสใช้ **องค์พระผู้เป็นเจ้า** ตามแบบแผนของฉบับพันธสัญญาใหม่ในการแปล κύριος ซึ่งในต้นฉบับฮีบรูตรงกับ יהוה. ข้อ 29 และข้อ 35 ก็ใช้พระนาม יהוה ส่วนข้อ 30 ใช้คำ אֱלֹהֵינוּ (พระเจ้าของเรา). ดูรายละเอียดที่ docs/translator_decisions/divine_names_table_2026-05.md._
 
 
 ---
@@ -737,14 +737,14 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/ezra_01.json` | `cf32ab30514d97e0f39b13a2d0cff9a3de1c25bcbb957edcba98f9d8658d1c23` |
+| `output/translations/ezra_01.json` | `426e9c759ef1db93a26e2572bf7f9fde71d39da87c226051a4bac4f068a2a1a8` |
 | `output/translations/ezra_02.json` | `9b404a85fb9a10bcaa2cfb0fdc6c67850596dc17eb4f4dbfb388fdc8dc514b1b` |
 | `output/translations/ezra_03.json` | `c5626715e3c69afed37f27016bc20fd10df89ea034c10e4db6d1f8d7b0be57a0` |
-| `output/translations/ezra_04.json` | `1c75599c6d8a69497b1c3a0d2c7fbfd84679e6c763a17cc69306fb0c4b77745e` |
+| `output/translations/ezra_04.json` | `08b3d133298e78dead8f07f22b508d063a4283eba0babb41705eb8e56dfe188c` |
 | `output/translations/ezra_05.json` | `baef05fd7577449aeb8cf7dc1e6f7406512dd5bcd0daad34b524e2eaad5f752f` |
 | `output/translations/ezra_06.json` | `b6226578875d22a4b59f10f68fcce8519f6aafb8e00893960aae35237d6e9792` |
 | `output/translations/ezra_07.json` | `a6082984638c8f45df6f05b06820d1428e64882bf0de5e7e6eec70cbdc043573` |
-| `output/translations/ezra_08.json` | `f4064a6b59d3438a95f5d0402fa16dccf7447359e50a41fa2d63a0d8530d346d` |
+| `output/translations/ezra_08.json` | `cfc21565ca88fb6dd3b3c70bdef2f571409f744e88858a422a716fdbdd866ce5` |
 | `output/translations/ezra_09.json` | `663aadfa61d44260cb5c0cc4eb9d0011728a863f789b775737801f8366212fb6` |
 | `output/translations/ezra_10.json` | `761390179d2bdebb39a5825fae24eec287cf4382923cc0ec58f5223de381075b` |
 

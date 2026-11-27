@@ -451,14 +451,14 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/ezekiel_46.json` | 24 | `f54f911d5fdf531e6ddd75d94635a452f97aa8ea8d21ce23f0dc54250226c785` | `4a79c97e` |
 | `output/translations/ezekiel_47.json` | 23 | `64faf79daddf56a6ce2bc0f9805eb9b2610f0461e772459a28626cb558067c8b` | `c072f00e` |
 | `output/translations/ezekiel_48.json` | 35 | `fa36d499ce3693fde1a535d237090a4f105fd970063eb7f3ba2b54ac304a2db1` | `18485408` |
-| `output/translations/ezra_01.json` | 11 | `cf32ab30514d97e0f39b13a2d0cff9a3de1c25bcbb957edcba98f9d8658d1c23` | `02f2ae35` |
+| `output/translations/ezra_01.json` | 11 | `426e9c759ef1db93a26e2572bf7f9fde71d39da87c226051a4bac4f068a2a1a8` | `02f2ae35` |
 | `output/translations/ezra_02.json` | 70 | `9b404a85fb9a10bcaa2cfb0fdc6c67850596dc17eb4f4dbfb388fdc8dc514b1b` | `b028ab3c` |
 | `output/translations/ezra_03.json` | 13 | `c5626715e3c69afed37f27016bc20fd10df89ea034c10e4db6d1f8d7b0be57a0` | `bdb6697e` |
-| `output/translations/ezra_04.json` | 24 | `1c75599c6d8a69497b1c3a0d2c7fbfd84679e6c763a17cc69306fb0c4b77745e` | `fcb5c1bc` |
+| `output/translations/ezra_04.json` | 24 | `08b3d133298e78dead8f07f22b508d063a4283eba0babb41705eb8e56dfe188c` | `fcb5c1bc` |
 | `output/translations/ezra_05.json` | 17 | `baef05fd7577449aeb8cf7dc1e6f7406512dd5bcd0daad34b524e2eaad5f752f` | `02f2ae35` |
 | `output/translations/ezra_06.json` | 22 | `b6226578875d22a4b59f10f68fcce8519f6aafb8e00893960aae35237d6e9792` | `02f2ae35` |
 | `output/translations/ezra_07.json` | 28 | `a6082984638c8f45df6f05b06820d1428e64882bf0de5e7e6eec70cbdc043573` | `dfad48a9` |
-| `output/translations/ezra_08.json` | 36 | `f4064a6b59d3438a95f5d0402fa16dccf7447359e50a41fa2d63a0d8530d346d` | `5287457c` |
+| `output/translations/ezra_08.json` | 36 | `cfc21565ca88fb6dd3b3c70bdef2f571409f744e88858a422a716fdbdd866ce5` | `5287457c` |
 | `output/translations/ezra_09.json` | 15 | `663aadfa61d44260cb5c0cc4eb9d0011728a863f789b775737801f8366212fb6` | `527a8c35` |
 | `output/translations/ezra_10.json` | 44 | `761390179d2bdebb39a5825fae24eec287cf4382923cc0ec58f5223de381075b` | `afa31bab` |
 | `output/translations/galatians_01.json` | 24 | `3977e4a2929179a873f5a047653f4c22de0780a5bd07ff3a645b2b7d30f4e42a` | `d03c3a1a` |
