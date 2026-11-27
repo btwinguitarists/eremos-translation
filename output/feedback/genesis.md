@@ -6931,15 +6931,15 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/genesis_01.json` | `e65340893c9db735636d4ece74bc04baa7640511d4efa2f7ccc22639159d6fe3` |
-| `output/translations/genesis_02.json` | `98760e567d290faa6fddd2a053213a36454ef0ee0e6f0c137581062d39091655` |
-| `output/translations/genesis_03.json` | `cfa29fff4e5149b991f0409de6e4871bdcdbc3aa32da2f18d938b30df8dee8df` |
-| `output/translations/genesis_04.json` | `69dacd32c747c08f7085f0d5d1b1b1c349adc6dd0f5283b4251e74a1892d7549` |
-| `output/translations/genesis_05.json` | `a1eeac14f409bec118617ccc07a2b9222cf47d4eecbcb4b4a3a9745f0b3d9684` |
-| `output/translations/genesis_06.json` | `050e85079deae5c2ea4799c7332a49de1e736e01faeb861f206d921a2dfdb726` |
-| `output/translations/genesis_07.json` | `3a0fc81b4c60ab3e260b2ce41581658971d5025824c7fbe516263e47453ea121` |
-| `output/translations/genesis_08.json` | `ab8b0035b4801b63778b6d637f415119ba6d3512a6eca259386dc290e50c53e7` |
-| `output/translations/genesis_09.json` | `a9d4e639098d47f4161b14fa6b0d70123ce24f2766f764a886ee7100c3a359dd` |
+| `output/translations/genesis_01.json` | `71e6d9aa5e084d269122aba4391aeefd9075f13a4bbdcb65102a2ed0343899de` |
+| `output/translations/genesis_02.json` | `b32a5b41f85fead0cb023d7087d3a41626394a12caa7e5c1580a26e51d108e91` |
+| `output/translations/genesis_03.json` | `28c1d82d2398d37b7cb5a207104d497d3725888932b40f83638f0b8b2d75fc09` |
+| `output/translations/genesis_04.json` | `ffcc16ac8084491baecfd423e4db01fbfe7aac01f03ecb3cba3db0c2a52ff4d9` |
+| `output/translations/genesis_05.json` | `36977f163b5fdb3034c87617820f570e9f610b5cd54d3cf4f850808ca08a5b69` |
+| `output/translations/genesis_06.json` | `72443e77e5992f03b6a32e265e1adc6a81a36dd231bfe59d2fe7d07145ed3a8c` |
+| `output/translations/genesis_07.json` | `3949a352387787d9f50156b7b5d7d285829845cd84f1b885b0cd2e030210086c` |
+| `output/translations/genesis_08.json` | `386f8ca83da6b9dd76508bea98a0b00cccafb21143a8fb23100b7f3af6186580` |
+| `output/translations/genesis_09.json` | `3b1dda75b3008a7a334ca73a4fd360ca71c1ac281f2e462d4cf9f66ab79a94e0` |
 | `output/translations/genesis_10.json` | `dc120d64748ca8d066aea784f79027ac92741f9ac831f37efbdd78b119d1f554` |
 | `output/translations/genesis_11.json` | `46a97eb85d4db763d7fe406eb32a8419ed0ac9f678973c6b49ebeba90da8bb40` |
 | `output/translations/genesis_12.json` | `71fd0b8af9b911dc8f9bfe09e8007c2204d1da34e9470bf76402bc26cdbb0708` |
