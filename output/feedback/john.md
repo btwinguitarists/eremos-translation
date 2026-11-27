@@ -3643,11 +3643,11 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/john_11.json` | `8827d7b0d725fbeb7d55e34adc4584b336737ed58529ad136b2ad2ad4ac18caa` |
 | `output/translations/john_12.json` | `c3bec996a680644613fd0fa23917386d4afff9c41b2b91e488d7795c087f79d4` |
 | `output/translations/john_13.json` | `8b28a26e71998b9e85d925e9fb0bd5cdb4f17e373246cc67af038588334c6b46` |
-| `output/translations/john_14.json` | `f505e4266eef772a26b6c0df46014cd5c52d34e8dc22bda817f2f0751d4e10b7` |
+| `output/translations/john_14.json` | `aa6e97c24cad914c369a54be0d6d8b102d1f3d0a9fb474e0736d9c23885424c4` |
 | `output/translations/john_15.json` | `266002d8a411e2c374da42a7bcfa6eaf0f1a0351e90c1363849c376b80677caf` |
 | `output/translations/john_16.json` | `b15d3c06e89e6a9099a2fa8c673bb840022d6fe3879b5b4094b028abf3679747` |
 | `output/translations/john_17.json` | `85ee706ee7a297f4c8c7c1b1f915e8f6fea4243e9cbf8d7b5be2c7adc38d041e` |
-| `output/translations/john_18.json` | `8f2455129cd81927127cf1729c19b0624acf36d2b404b14c3eee9646600197c3` |
+| `output/translations/john_18.json` | `b04b5eb875cb520508e6a7e0b00b54c0347b2acecc5e19456062203149f23165` |
 | `output/translations/john_19.json` | `ed2b4e1dafdf3d0a6a925d233b8518f1671f5ec736a27026baf24e68007e0964` |
 | `output/translations/john_20.json` | `affef33f0afa4e1926f611949a3d74fcfe36460ae270adece52144c47308ed74` |
 | `output/translations/john_21.json` | `635e337fdc874bbe2ad0f5e0f6f8a89b523d89e3bbb59880ade2a6a6b10e381f` |

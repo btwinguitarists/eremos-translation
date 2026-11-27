@@ -214,14 +214,14 @@
     "translation": {
       "thai": "พวกเขาพาพระองค์ไปหาอันนาสก่อน เพราะอันนาสเป็นพ่อตาของคายาฟาส ซึ่งเป็นมหาปุโรหิตในปีนั้น",
       "thai_literal": null,
-      "thai_summary": "ในเวลานั้นการเมืองของตำแหน่งมหาปุโรหิตซับซ้อน — ฝ่ายโรมันได้ปลดอันนาสในปี ค.ศ. 15 และแต่งตั้งคายาฟาสซึ่งเป็นบุตรเขย แต่ชาวยิวยังถือว่าอันนาสเป็นมหาปุโรหิตที่แท้จริงตามธรรมบัญญัติ ดังนั้นจึงพาพระเยซูไปหาเขาก่อน อันนาสและคายาฟาสจึงถือเป็นมหาปุโรหิตทั้งคู่ในเวลาเดียวกัน — สถานการณ์ทางการเมืองที่ผิดปกติ",
+      "thai_summary": "ผู้จับกุมพาพระเยซูไปหาอันนาสก่อน เขาเป็นอดีตมหาปุโรหิตและเป็นพ่อตาของคายาฟาส ผู้ดำรงตำแหน่งมหาปุโรหิตในปีนั้น โยเซฟัสระบุว่าหลังฝ่ายโรมันปลดอันนาส มีผู้อื่นดำรงตำแหน่งอีกหลายคนก่อนถึงคายาฟาส",
       "key_decisions": [
         { "greek": "Ἅννας", "thai": "อันนาส", "rationale": "NEW PROPER-NOUN-LOCK: Ἅννας → อันนาส (Annas; standard Christian-Thai transliteration). Will recur v.24. Cf. LUK 3:2, ACT 4:6." },
         { "greek": "Καϊάφα", "thai": "คายาฟาส", "rationale": "NEW PROPER-NOUN-LOCK: Καϊάφας (lemma; here genitive Καϊάφα) → คายาฟาส (Caiaphas; standard Christian-Thai transliteration). PHRASE-LOCK with JHN 11:49 (where Caiaphas first appears as the year's-high-priest who prophesied)." },
         { "greek": "πενθερὸς τοῦ Καϊάφα", "thai": "พ่อตาของคายาฟาส", "rationale": "HAPAX: πενθερός (father-in-law; NT-only-occurrence as masculine). NEW CORPUS-LOCK: πενθερός → พ่อตา (father-of-wife; standard Thai). Family-relationship explained per uW figs-explicit." },
         { "greek": "ἀρχιερεὺς τοῦ ἐνιαυτοῦ ἐκείνου", "thai": "มหาปุโรหิตในปีนั้น", "rationale": "NEW CORPUS-LOCK: ἀρχιερεύς (singular, official-title) → มหาปุโรหิต (high-priest; standard Christian-Thai). Distinct from plural ἀρχιερεῖς → พวกหัวหน้าปุโรหิต (chief-priests-collective)." }
       ],
-      "notes": "Per uW figs-explicit + translate-names: HAPAX πενθερός + new-proper-nouns Ἅννας + Καϊάφας. Politically-complex period: Romans had-deposed-Annas (ca. AD 15) and appointed Caiaphas (his son-in-law); Jews still considered Annas the legitimate-high-priest. Hence the trial-before-Annas-first pattern. JHN 18 vv.15-23 will detail the Annas-interrogation; v.24 sends Christ to Caiaphas."
+      "notes": "The arresting party takes Jesus first to Annas. John calls Caiaphas, Annas’s son-in-law, the high priest that year. Josephus lists several appointments between the removal of Annas and the appointment of Caiaphas (Antiquities 18.34–35). An earlier holder of the office could retain prestige. John does not say that every Jew recognized Annas as the sole legitimate incumbent."
     }
   },
   {
@@ -321,10 +321,10 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "ὁ ἀρχιερεὺς", "thai": "มหาปุโรหิต", "rationale": "Per uW figs-explicit: per v.13 + v.24 this ἀρχιερεύς in vv.15-23 = Annas. Translation preserves bare ‘มหาปุโรหิต’ — Thai readers in narrative-context can hear Annas-context from v.13's mention." },
+        { "greek": "ὁ ἀρχιερεὺς", "thai": "มหาปุโรหิต", "rationale": "John calls the questioner “the high priest” without supplying his name in this verse. Read in sequence with Jesus being taken to Annas in verse 13 and sent on to Caiaphas in verse 24, the title here is often understood of Annas. The Thai retains the title." },
         { "greek": "περὶ τῶν μαθητῶν αὐτοῦ καὶ περὶ τῆς διδαχῆς αὐτοῦ", "thai": "เกี่ยวกับเหล่าสาวกและคำสอนของพระองค์", "rationale": "NEW CORPUS-LOCK: διδαχή → คำสอน (teaching; doctrine; standard Christian-Thai). Two-fold-interrogation focuses: (1) the followers, (2) the message — political-investigation pattern." }
       ],
-      "notes": "Per uW figs-explicit: Annas's-interrogation begins. The two-fold-question (disciples + teaching) probes for sedition-evidence — cult-leader looking-for-political-charge."
+      "notes": "The high priest questions Jesus about his disciples and teaching. The questions introduce Jesus’s appeal in the following verses to what he had said publicly and to those who heard him."
     }
   },
   {
@@ -526,9 +526,9 @@
       "thai_summary": null,
       "key_decisions": [
         { "greek": "Λάβετε αὐτὸν ὑμεῖς,καὶ κατὰ τὸν νόμον ὑμῶν κρίνατε αὐτόν", "thai": "พวกท่านจงเอาตัวเขาไปและตัดสินตามกฎหมายของพวกท่านเองเถิด", "rationale": "Pilate's-procedural-pushback: ‘if-it's-religious, judge-him-yourselves-under-Jewish-law.’ NEW CORPUS-LOCK: κρίνω (judicial-judgment) → ตัดสิน (judge/decide; legal register). Distinct from κρίνω-eschatological-judgment which uses ‘พิพากษา.’" },
-        { "greek": "Ἡμῖν οὐκ ἔξεστιν ἀποκτεῖναι οὐδένα", "thai": "พวกเราไม่ได้รับอนุญาตให้ประหารชีวิตผู้ใด", "rationale": "Per uW figs-explicit: Roman-law restricted-Jews from-capital-punishment in-this-period. Translation makes-implicit-Roman-restriction explicit via ‘ไม่ได้รับอนุญาต’ (not-permitted)." }
+        { "greek": "Ἡμῖν οὐκ ἔξεστιν ἀποκτεῖναι οὐδένα", "thai": "พวกเราไม่ได้รับอนุญาตให้ประหารชีวิตผู้ใด", "rationale": "The first-person plural gives the speakers’ own statement about their authority. The Thai retains their wording. The narrative’s immediate concern is why Jesus remains before Pilate." }
       ],
-      "notes": "Per uW figs-synecdoche + figs-explicit: the-leaders-want-Roman-execution because-Jewish-execution-was-banned by-Roman-law. The forced-clarification reveals the death-penalty-objective — which now-requires Roman-investigation. Sets-up v.32 (the kind-of-death-Christ-predicted)."
+      "notes": "The leaders tell Pilate they are not permitted to put anyone to death. John reports their claim in this case. Josephus describes a later stoning under Ananus and objections to his convening a council during a transition between governors (Antiquities 20.200–203). The accounts do not establish a rule covering every charge, date and circumstance."
     }
   },
   {
@@ -540,12 +540,12 @@
     "translation": {
       "thai": "ทั้งนี้เพื่อให้ถ้อยคำของพระเยซูสำเร็จ คือคำที่พระองค์ตรัสบ่งบอกว่าพระองค์จะสิ้นพระชนม์ด้วยลักษณะใด",
       "thai_literal": null,
-      "thai_summary": "“ลักษณะการตาย” ที่พระเยซูตรัสล่วงหน้าคือการถูกตรึงกางเขนแบบโรมัน ซึ่งพระองค์ทรงทำนายไว้ใน ยน. 3:14 “บุตรมนุษย์ก็จะต้องถูกยกขึ้น” และยน. 12:32-33 “เราจะดึงดูดทุกคนมาหาเรา” พระองค์ตรัสคำนี้เพื่อบ่งชี้ลักษณะการตายของพระองค์ ถ้าชาวยิวประหารพระองค์เองตามธรรมบัญญัติของพวกเขา จะเป็นการขว้างด้วยหิน (เปรียบเทียบ ฉธบ. 22:23-24) ไม่ใช่การตรึงกางเขน — แต่เพราะพวกเขาส่งให้ฝ่ายโรมัน การตายโดยการถูกยกขึ้น-บนกางเขนจึงสำเร็จ",
+      "thai_summary": "ยอห์นเชื่อมการส่งพระเยซูให้ปีลาตกับพระดำรัสก่อนหน้านี้เรื่องการถูกยกขึ้น ซึ่งผู้เล่าอธิบายว่าบ่งถึงลักษณะการสิ้นพระชนม์ของพระองค์ (12:32–33) ต่อมาเรื่องเล่าบอกว่าพระองค์ทรงถูกตรึงกางเขน",
       "key_decisions": [
         { "greek": "ἵνα ὁ λόγος τοῦ Ἰησοῦ πληρωθῇ", "thai": "เพื่อให้ถ้อยคำของพระเยซูสำเร็จ", "rationale": "PHRASE-LOCK with v.9: same-Christ-word-fulfillment formula. The fulfilled-word here = JHN 3:14, 8:28, 12:32-33 (the lifting-up-on-the-cross sayings predicting Roman-crucifixion-form-of-death)." },
         { "greek": "σημαίνων ποίῳ θανάτῳ ἤμελλεν ἀποθνῄσκειν", "thai": "คำที่พระองค์ตรัสบ่งบอกว่าพระองค์จะสิ้นพระชนม์ด้วยลักษณะใด", "rationale": "Per uW figs-explicit: the kind-of-death = Roman-crucifixion-by-being-lifted-up. ‘ลักษณะ’ (manner/kind) preserves the qualitative-not-just-fact reading. Royal สิ้นพระชนม์ (royal-die) since divine subject." }
       ],
-      "notes": "Per uW writing-background + figs-activepassive + figs-explicit: NOT-OT-citation but inner-Johannine-fulfillment of Christ's-own-prior-sayings (JHN 3:14, 8:28, 12:32-33 ‘when I am lifted up’). The fulfillment-via-circumstance: Jewish-execution would-be-stoning; Roman-execution is-crucifixion (lifting-up); the leaders-refuse-Jewish-judgment forces-the-Roman-crucifixion-pattern that-Christ-predicted. NOTE: NOT-OT-fulfillment, NOT-added-to-DB."
+      "notes": "John connects the handover to Jesus’s earlier indication of how he would die (12:32–33). The Roman trial leads to crucifixion. Deuteronomy 22:23–24 prescribes stoning for a particular offense; it does not establish what would have happened in every alternative proceeding."
     }
   },
   {
