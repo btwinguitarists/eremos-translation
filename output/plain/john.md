@@ -598,7 +598,7 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 ## บทที่ 7
 
-**1** หลังจากเหตุการณ์เหล่านี้ พระเยซูเสด็จไปทั่วแคว้นกาลิลี เพราะพระองค์ไม่ทรงประสงค์จะเสด็จในแคว้นยูเดีย เนื่องจากผู้นำชาวยิวกำลังหาทางจะฆ่าพระองค์
+**1** หลังจากเหตุการณ์เหล่านี้ พระเยซูเสด็จไปตามที่ต่าง ๆ ในแคว้นกาลิลี เพราะพระองค์ไม่ทรงประสงค์จะเสด็จในแคว้นยูเดีย เนื่องจากผู้นำชาวยิวกำลังหาทางจะฆ่าพระองค์
 
 **2** ขณะนั้นเทศกาลอยู่เพิงซึ่งเป็นเทศกาลของชาวยิวใกล้เข้ามาแล้ว
 
@@ -768,7 +768,7 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **30** ขณะที่พระองค์ตรัสสิ่งเหล่านี้ มีคนหลายคนเชื่อในพระองค์
 
-**31** พระเยซูจึงตรัสกับชาวยิวที่ได้เชื่อในพระองค์ว่า “ถ้าพวกท่านดำรงอยู่ในถ้อยคำของเรา พวกท่านก็เป็นสาวกของเราอย่างแท้จริง
+**31** พระเยซูจึงตรัสกับชาวยิวที่ได้เชื่อพระองค์ว่า “ถ้าพวกท่านดำรงอยู่ในถ้อยคำของเรา พวกท่านก็เป็นสาวกของเราอย่างแท้จริง
 
 **32** และพวกท่านจะรู้จักความจริง และความจริงจะทำให้พวกท่านเป็นไท”
 
@@ -1858,12 +1858,12 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/john_04.json` | `1dd81249ebd5d721c1e859c2e4dfcf763fede59d67f7370a7afbaba17ac5c66e` |
 | `output/translations/john_05.json` | `3db6aa41f34f5808c59665a20db6c5dc8bda6cfc953268b945b4f1ece737f173` |
 | `output/translations/john_06.json` | `857210bb104729a7844f280955ec375834b0d9e4c5ef5f6530bfd07ad6f38940` |
-| `output/translations/john_07.json` | `b2da0af5c3e87cd85af5614aeab6f472a06e9d664bda68feb5459171c00cb7be` |
-| `output/translations/john_08.json` | `1370b67799fa43ed868a2c401b2e02fd4334ea2b2bc972c661054ddcaa5a2e39` |
-| `output/translations/john_09.json` | `22e1d96e406a98fae95de467a5297a29faca3df39bbc4fece117585b378bde0d` |
-| `output/translations/john_10.json` | `bc26b751fd46a834885b9ffd864a75c0a789156bc5d94b88242e08ed2b72e590` |
-| `output/translations/john_11.json` | `8827d7b0d725fbeb7d55e34adc4584b336737ed58529ad136b2ad2ad4ac18caa` |
-| `output/translations/john_12.json` | `c3bec996a680644613fd0fa23917386d4afff9c41b2b91e488d7795c087f79d4` |
+| `output/translations/john_07.json` | `96936b344e7f2134396ec6d224a45cc87b2e677c373d41dc656af5abb14f55f0` |
+| `output/translations/john_08.json` | `f5fdc195383eecc58fd3ca4f6c458b385f3bf602a52c466eae4660b7c8138374` |
+| `output/translations/john_09.json` | `37cae4dfcf004d74a1831f362587a55d934c0cf115e6f2d0f4359c4931ea043b` |
+| `output/translations/john_10.json` | `f291b41ab136e7033bd9a82e66945d1eec2bba8f631f067b0a624043cbb1830b` |
+| `output/translations/john_11.json` | `4aef358bb5d669809780ab5dff62cc11623c305a51d32ac088a6be16706d62bd` |
+| `output/translations/john_12.json` | `57426378edc72034698b7be77ac69082ba336765de54c58eb97636133a2322c4` |
 | `output/translations/john_13.json` | `7fdaef1fa5d5e3675923459cdda1da42321bd973614ea5ef8a1bb32cecd850c7` |
 | `output/translations/john_14.json` | `aa6e97c24cad914c369a54be0d6d8b102d1f3d0a9fb474e0736d9c23885424c4` |
 | `output/translations/john_15.json` | `266002d8a411e2c374da42a7bcfa6eaf0f1a0351e90c1363849c376b80677caf` |
