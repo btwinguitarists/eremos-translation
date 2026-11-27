@@ -1794,7 +1794,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**21** ทิโมธีเพื่อนร่วมงานของข้าพเจ้าฝากความระลึกถึงพวกท่าน — รวมทั้งลูกิอัส ยาโสน และโสสิปาเทอร์ ญาติของข้าพเจ้า
+**21** ทิโมธีเพื่อนร่วมงานของข้าพเจ้าฝากความระลึกถึงพวกท่าน — รวมทั้งลูเซียส ยาโสน และโสสิปาเทอร์ ญาติของข้าพเจ้า
 
 > ___
 
@@ -1845,5 +1845,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/romans_13.json` | `13a6caf497f64d7548c30f2960b698ddd2db9041dcdb2e2a6ec470e2cc7c3b62` |
 | `output/translations/romans_14.json` | `bb72f4cd07fe8927fb2b5f23adaaadfb4b641c48e5b567020266357b2261af53` |
 | `output/translations/romans_15.json` | `e7f5e016acc8d4ee02f08d1ec257987006947d8e8747ee1f6ed5ed2e39339341` |
-| `output/translations/romans_16.json` | `9cf49d2b9f1b9f49d22c187ecfbed1ad2fccc4a5b249696bce20c32841d38a7d` |
+| `output/translations/romans_16.json` | `501af43e7fe7143ce17a274a3b89d8554e69912a683f392104153a07dfc72be3` |
 
