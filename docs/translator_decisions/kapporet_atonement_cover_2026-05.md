@@ -46,12 +46,12 @@ The OT Thai surface stays at พระที่นั่งกรุณา for c
 
 ### 2.1 OT occurrences
 
-The Hebrew kapporet appears ~27× in the OT, concentrated in:
+The Open Scriptures Hebrew Bible records 27 occurrences of the noun כַּפֹּרֶת (lemma 3727) in 22 verses. The verb in Genesis 6:14 denotes coating the ark and is counted separately.
 
 | Cluster | References | Count |
 |---|---|---|
-| Exodus tabernacle blueprint + construction | Exod 25:17, 18, 19 (×2), 20 (×2), 21, 22; 26:34; 30:6; 31:7; 35:12; 37:6, 7, 8 (×2), 9 (×2); 39:35; 40:20 | 19 |
-| Leviticus Yom Kippur ritual | Lev 16:2, 13, 14 (×2), 15 (×2) | 6 |
+| Exodus tabernacle blueprint + construction | Exod 25:17, 18, 19, 20 (×2), 21, 22; 26:34; 30:6; 31:7; 35:12; 37:6, 7, 8, 9 (×2); 39:35; 40:20 | 18 |
+| Leviticus Yom Kippur ritual | Lev 16:2 (×2), 13, 14 (×2), 15 (×2) | 7 |
 | Numbers narrative | Num 7:89 | 1 |
 | Chronicles tabernacle reference | 1 Chr 28:11 | 1 |
 
