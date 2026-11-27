@@ -1223,7 +1223,7 @@
     "translation": {
       "thai": "⟦แล้วทูตสวรรค์องค์หนึ่งจากฟ้าสวรรค์มาปรากฏแก่พระองค์เพื่อเพิ่มกำลังให้พระองค์⟧",
       "thai_literal": null,
-      "thai_summary": "ข้อ 43-44 เป็นข้อที่พบอยู่ในต้นฉบับบางฉบับของพันธสัญญาใหม่แต่ไม่พบในต้นฉบับที่เก่าแก่และน่าเชื่อถือที่สุด (เช่น P75 หรือ Codex Vaticanus) อย่างไรก็ตาม ข้ออ้างอิงในเขียนของบิดาคริสเตียนยุคแรกเช่น จัสติน มาร์ทีร์ (ค.ศ. 150) และไอเรเนียส (ค.ศ. 180) แสดงว่าข้อเหล่านี้เป็นส่วนหนึ่งของประเพณีเกี่ยวกับพระเยซูตั้งแต่ยุคแรก นักวิชาการสันนิษฐานว่าอาจเป็นเหตุการณ์ประวัติศาสตร์จริงที่ถูกเก็บรักษาไว้ในประเพณีปากเปล่าแต่ถูกตัดออกจากข้อความลูกาในศตวรรษที่ 2-3 (อาจเพราะความกังวลเรื่องภาพลักษณ์ของพระเยซูที่ดูเหมือนอ่อนแอ) สำนักแปลภาษาไทยดั้งเดิม (ฉบับแปลไทย, THKJV) รวมข้อเหล่านี้ไว้ ในการแปลนี้จึงใช้เครื่องหมายวงเล็บคู่ ⟦...⟧ เพื่อแสดงว่าเป็นข้อความที่มีปัญหาทางต้นฉบับ",
+      "thai_summary": "ต้นฉบับกรีกให้ข้อความสองข้อนี้ต่างกัน ผู้คัดต้นฉบับซีนายติคัสคนแรกเขียนไว้ ส่วนปาปิรัส 75 และต้นฉบับวาติกานัสไม่มี ในคริสต์ศตวรรษที่สอง จัสตินและอีเรเนอัสกล่าวถึงพระเสโทที่เหมือนหยดโลหิต ฉบับเอเรมอสคงทั้งสองข้อไว้และใส่วงเล็บคู่เพื่อให้ผู้อ่านเห็นว่าต้นฉบับมีความต่างกัน",
       "key_decisions": [
         {
           "greek": "ὤφθη δὲ αὐτῷ ἄγγελος ἀπ’οὐρανοῦ",
@@ -1238,10 +1238,10 @@
         {
           "greek": "⟦...⟧",
           "thai": "⟦...⟧",
-          "rationale": "Per RULES.md §5 Tier 3: double-brackets mark vv.43-44 as textually-disputed-but-preserved-by-tradition. SBLGNT includes with editorial-diamond-marker ⸂...⸃; mainstream critical-text English Bibles (ESV, NIV, CSB, BSB, NASB) all bracket. Thai readers (standard Thai familiar) expect these verses. Our brackets are the faithful-compromise: text-present, textual-status-honest."
+          "rationale": "The Thai prints both verses in double brackets to indicate that their presence differs among the witnesses. SBLGNT uses ⸂ and ⸃ to delimit an apparatus unit. NA28 uses double brackets around the passage as a whole."
         }
       ],
-      "notes": "TEXTUAL VARIANT: vv.43-44 absent from P75, Codex Vaticanus (B), Codex Sinaiticus (א original-hand — corrector inserted), Codex Alexandrinus, and most Alexandrian witnesses. Present in Byzantine tradition, Codex Bezae (D), Old Latin, Syriac Peshitta, and church-father citations from Justin Martyr (AD 150, Dial. 103.8), Irenaeus (AD 180, Adv. Haer. 3.22.2), and Hippolytus. External + internal evidence split — scholars generally treat as likely-early-tradition, possibly-authentic-event preserved-in-oral-form, but uncertain-whether-original-Lucan. Per RULES.md §5 Tier-3: rendered with double-brackets ⟦...⟧ in main text to preserve both textual-honesty and reader-expectation (standard Thai/THKJV both retain). NO OT CITATION: but angelic-strengthening echoes Dan 10:18-19 (angel-strengthens-Daniel) and LUK 4:10-11 Satan's-prior-sarcasm about angelic-care."
+      "notes": "The first hand of Codex Sinaiticus wrote verses 43–44. A later hand marked them for omission, and another restored them. Papyrus 75, Vaticanus and Alexandrinus omit the verses. Codex Bezae includes them. Justin, Dialogue with Trypho 103, and Irenaeus, Against Heresies 3.22.2, mention the sweat like drops of blood; their references to the sweat do not independently attest the wording of the angel’s appearance. NA28 places a single double-bracket span around both verses. The Thai marks each verse with its own pair of brackets."
     }
   },
   {
