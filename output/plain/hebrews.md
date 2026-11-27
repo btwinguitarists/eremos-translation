@@ -514,7 +514,7 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **24** โดยความเชื่อ โมเสสเมื่อเติบใหญ่แล้ว ได้ปฏิเสธที่จะถูกเรียกว่าบุตรของธิดาฟาโรห์
 
-**25** ท่านเลือกที่จะทนทุกข์ร่วมกับประชากรของพระเจ้า มากกว่าที่จะเสวยความสุขในบาปเพียงชั่วคราว
+**25** ท่านเลือกที่จะทนทุกข์ร่วมกับประชากรของพระเจ้า มากกว่าที่จะมีความสุขในบาปเพียงชั่วคราว
 
 **26** ท่านถือว่าการเยาะเย้ยเพื่อเห็นแก่พระคริสต์เป็นทรัพย์ที่ยิ่งใหญ่กว่าทรัพย์สมบัติของอียิปต์ เพราะท่านจับตามองไปยังบำเหน็จ
 
@@ -680,7 +680,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/hebrews_08.json` | `9ada1fdafb08947b3d0e1bf42ff69b1926edb8ea67399164b6abf20392a7c6bb` |
 | `output/translations/hebrews_09.json` | `f85400ce35b65656c09d0691a1a18349c2ed9a40ddd137ac9e2b03632be2ed4f` |
 | `output/translations/hebrews_10.json` | `7fa088eae7b642f32c552a5c5a7ffaadaef3cdf2b4943afc01ce33d941c947c8` |
-| `output/translations/hebrews_11.json` | `5a64181b168b5126cca2f3961263ae624f171a2f6e86c885f3cf4e46b207bad5` |
+| `output/translations/hebrews_11.json` | `dba8c5f3afb2f2998c1c9a51b3f1577bae202c5e84b3d46c6314a508a1292be1` |
 | `output/translations/hebrews_12.json` | `25ce0cf444275c379828916bc9c71762bfd6c12dddd192a2bdbb04d1e6df402f` |
 | `output/translations/hebrews_13.json` | `9a127679a4d08216bd9665e739ae6d25f811658deeba5775761a1915a236f17e` |
 
