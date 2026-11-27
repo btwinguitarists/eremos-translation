@@ -2430,7 +2430,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**24** จงพิจารณาดูกาเถิด มันไม่ได้หว่านหรือเกี่ยว มันไม่มียุ้งหรือฉาง และพระเจ้ายังทรงเลี้ยงดูพวกมัน พวกท่านประเสริฐกว่านกเหล่านั้นมากยิ่งกว่ามากเพียงใด!
+**24** จงพิจารณาดูกาเถิด มันไม่ได้หว่านหรือเกี่ยว มันไม่มียุ้งหรือฉาง และพระเจ้ายังทรงเลี้ยงดูพวกมัน พวกท่านมีค่ามากกว่านกเหล่านั้นสักเพียงใด!
 
 > ___
 
@@ -4737,8 +4737,8 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/luke_09.json` | `1756f15b89fc3aa768e578fd07d37f9e6346c41f4f9b5386395f9dff4042fbf2` |
 | `output/translations/luke_10.json` | `5b3e4f75e22822ab470e96647852547131078a340eee29a34e7f35bf9c55fd63` |
 | `output/translations/luke_11.json` | `e8c670c5f8d6485489b8aa3744aa9cf3ead4468f87111f19c68577c3872790e7` |
-| `output/translations/luke_12.json` | `ddbe483f7cda17fee0d767b94b8fe4976df55a0beffe74ef467ec428ac1fd88c` |
-| `output/translations/luke_13.json` | `48d01b8de6f50bf18a41f63a1f8e6d049b16c3310190895c284e31ee225572a3` |
+| `output/translations/luke_12.json` | `b1aaaff9e300250f7e3e705608bc72ae480410ae16aff149a99a37d575d0a7d9` |
+| `output/translations/luke_13.json` | `f4de0b26cb016c2c8b1a699471375daa9dc41af2f0a309c3fe6654bd1a654725` |
 | `output/translations/luke_14.json` | `4cea7d4e1bd941ed6f4093b97f3f1536616e490c2faed02e32a1ea7a50484dba` |
 | `output/translations/luke_15.json` | `a51ac28e43b8a75080deb6579c2710054346d02e67f19f573af49f69ea0c004a` |
 | `output/translations/luke_16.json` | `65ba3d0306388ea2adf395f78692b5cc32974e238367eb9083e38f50ee0f2a78` |

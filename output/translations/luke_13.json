@@ -13,7 +13,7 @@
         {
           "greek": "Παρῆσαν δέ τινες ἐν αὐτῷ τῷ καιρῷ",
           "thai": "ในเวลานั้น มีบางคน",
-          "rationale": "Imperfect-periphrastic 'there were present some' — Luke uses δέ + temporal phrase to continue the discourse from 12:54-59. Rendered naturally without 'present' redundancy."
+          "rationale": "Some people present report the event. παρῆσαν is a finite verb and ἀπαγγέλλοντες describes those reporting. Luke 3:1 already names Pontius Pilate. The noun for sacrifice also occurs in Luke 2:24, where เครื่องบูชา translates θυσίαν."
         },
         {
           "greek": "ἀπαγγέλλοντες",
@@ -28,7 +28,7 @@
         {
           "greek": "Πιλᾶτος",
           "thai": "ปีลาต",
-          "rationale": "Standard Thai Christian transliteration of Pontius Pilate. First appearance in our Luke translation; consistent with Matt 27 / Mark 15 usage."
+          "rationale": "ปีลาต refers to Pontius Pilate, previously named in 3:1."
         },
         {
           "greek": "Γαλιλαίων",
@@ -38,7 +38,7 @@
         {
           "greek": "θυσιῶν",
           "thai": "เครื่องบูชา",
-          "rationale": "Standard Thai Christian term for sacrificial offerings (animal-offerings brought to the temple). NEW establishment in our Luke translation."
+          "rationale": "เครื่องบูชา renders θυσιῶν, the plural of the same noun found in Luke 2:24."
         }
       ],
       "notes": "Setting: transitions from ch.12's discourse. Historical context: Pilate (prefect 26-36 CE) had a reputation for cruelty toward Jewish religious practice (Josephus, Wars 2.169-177; Antiquities 18.55-62, 85-87). No extra-biblical record survives of this specific incident. Galileans traveling south to Jerusalem for festival sacrifices + Pilate's deployment of Roman soldiers with force — plausible scenario. Jesus's interlocutors likely come with a THEODICY-QUESTION embedded: 'were these Galileans punished by God for hidden sin?' OT CITATION (allusion): 2 Kings 16:3 + Ps 79:3 — innocent blood poured out in the holy place evokes the covenant-defilement imagery; Jeremiah 2:34 + Ezek 22:3-4 — innocent blood in Jerusalem as cause of exile. Luke deliberately frames vv.1-5 as Jesus subverting the retributive-theology assumption, turning the question back onto his listeners. Introduces the ch.13 theme: repentance-urgency before national-judgment, which anticipates the temple-destruction-oracle of 19:41-44. ADDED TO nt_ot_citations.json: LUK 13:1 (2 KGS 16:3 + PSA 79:3 + JER 2:34 + EZK 22:3-4 innocent-blood defilement cluster)."
@@ -106,7 +106,7 @@
           "rationale": "ὁμοίως = 'likewise/similarly'; ἀπολεῖσθε = future-middle of ἀπόλλυμι 'will perish/be destroyed'. 'พินาศ' captures the total-destruction nuance."
         }
       ],
-      "notes": "Jesus's prophetic warning with national-level implication: uW notes v.3 parallels 19:41-44 where Jesus predicts Jerusalem's destruction due to failure to recognize the time of visitation. ὁμοίως in v.3 (vs. ὡσαύτως in v.5) is often treated as stylistic variation, but some scholars see 'likewise' in v.3 as pointing to violent-Roman-destruction (parallel to Pilate's sword) while 'in the same way' in v.5 points to sudden-catastrophic-fall (parallel to the tower). Both readings converge on: national-repentance averts national-catastrophe. Luke's central Travel-Narrative concern with urgent-now-decision intensifies here. Key-term μετανοέω is CENTRAL to Lukan theology (14 occurrences of verb + noun across Luke-Acts; cf. Acts 2:38, 3:19)."
+      "notes": "The Macula SBL text has nine instances of μετανοέω and five of μετάνοια in Luke, and five verbs and six nouns in Acts. Together the two lemmas occur twenty-five times across the two books. Here the verb occurs in a warning to the hearers."
     }
   },
   {
@@ -311,7 +311,7 @@
           "rationale": "Future-indicative functioning as mild-imperative (the vinedresser phrases his proposal as a statement rather than a direct request). 'จง...เถิด' captures the suggestive-polite imperative register to the master."
         }
       ],
-      "notes": "Open-ended conclusion is deliberately Lukan: the parable's punchline isn't certainty of judgment-or-mercy but the REAL POSSIBILITY-of-judgment coupled with REAL OFFER-of-extended-grace. The ἐκκόψεις-future-as-imperative-to-master construction is awkward Greek (servant cannot strictly command master); this softening-to-suggestion preserves social-register realism within the parable. Closing double-chevron ” ends Jesus's overall discourse-quote that began in v.2."
+      "notes": "The Thai ends the earlier warning at verse 5. Verse 6 opens the parable in double quotation marks, and the owner and worker speak within it in single marks. Verse 9 closes the worker’s plea and then the parable."
     }
   },
   {
@@ -498,7 +498,7 @@
     "translation": {
       "thai": "องค์พระผู้เป็นเจ้าจึงตรัสตอบเขาว่า “คนหน้าซื่อใจคดเอ๋ย ในวันสะบาโต พวกท่านทุกคนไม่ได้แก้โคหรือลาของตนจากคอกและจูงไปให้น้ำกินหรือ?",
       "thai_literal": null,
-      "thai_summary": "พระเยซูทรงเรียกพวกผู้นำว่า “คนหน้าซื่อใจคด” เพราะพวกเขาอนุญาตการแก้สัตว์จากคอกในวันสะบาโตเพื่อให้มันกินน้ำ แต่กลับไม่ยอมให้พระองค์ปลดปล่อยหญิงที่ถูกซาตานมัดไว้ คำกริยา “แก้” (λύω) ในภาษากรีกเป็นคำเดียวกับที่ใช้ในข้อ 12 และ 16 เป็นการเล่นคำที่แสดงให้เห็นว่าการปลดปล่อยคนสำคัญยิ่งกว่าการปลดปล่อยสัตว์",
+      "thai_summary": "พระเยซูทรงยกตัวอย่างการแก้เชือกวัวหรือลาเพื่อจูงไปกินน้ำในวันสะบาโต ในข้อ 16 พระองค์ทรงใช้คำกริยากรีกคำเดียวกันเมื่อกล่าวถึงการปลดปล่อยหญิงผู้นี้จากเครื่องผูกมัด",
       "key_decisions": [
         {
           "greek": "ὁ κύριος",
@@ -536,7 +536,7 @@
           "rationale": "'Each of you' — 2pl genitive pronoun ὑμῶν is the Greek source for the 2pl addressee, with ἕκαστος emphasizing distribution. Thai 2pl rendered as พวกท่าน (polite-plural), consistent with prior Pharisee-address pattern (cf. Matt 23) — despite rebuke, Jesus maintains the respectful register rather than dropping to พวกเจ้า."
         }
       ],
-      "notes": "Jesus's rhetorical counter-question (uW figs-rquestion) appeals to pre-existing rabbinic practice: watering livestock on Sabbath was universally permitted (codified in Mishnah Shabbat 5; Babylonian Talmud Eruvin 20b-21a). The a-fortiori argument (qal-va-homer): if releasing animal-bondage on Sabbath is permitted, how much more releasing human-bondage from Satan. The verbal play on λύω 'loose/untie' links v.15 (untie ox) with v.16 (release woman from bond) with v.12 (ἀπολέλυσαι = released). φάτνη-usage creates a subtle narrative inclusio with Luke 2 (Jesus born in manger) — the Lord born in a manger now argues from manger-freedom for human-liberation. uW notes: the plural 'hypocrites' indicates Jesus includes all religious-leaders present, not just the one speaker."
+      "notes": "Jesus calls the woman released from her condition in verse 12 (ἀπολέλυσαι, from ἀπολύω). Verse 15 uses λύει for untying an animal, and verse 16 λυθῆναι for her being loosed. Greek Psalm 144:14 (English 145:14) uses the upright-restoration verb that appears in verse 13."
     }
   },
   {
@@ -616,7 +616,7 @@
           "rationale": "ἔνδοξος = 'glorious/splendid'. Substantivized plural 'glorious-things' = 'glorious-deeds/works'. uW figs-activepassive: 'the glorious things Jesus was doing'. 'การงานอันรุ่งโรจน์' preserves both the actions and the glory-register."
         }
       ],
-      "notes": "Classic Lukan polarity: religious-establishment shamed, common-people glorify. Echoes the Magnificat's great-reversal (1:51-53) and Simeon's prophecy (2:34 fall-and-rise). κατῃσχύνοντο imperfect suggests ongoing-continuous shame — the critics are silenced, not just momentarily. τὰ ἔνδοξα is Septuagintalism for 'glorious deeds/marvels' (LXX Exod 34:10, Isa 12:4, 25:1 uses ἔνδοξα for God's mighty works). Luke's vocabulary-choice here frames Jesus's works as the glorious-works of YHWH-continuation. The verse closes the Sabbath-healing pericope with a perfect antithetical-parallelism (shame/rejoice; opponents/crowd)."
+      "notes": "The crowd rejoices at the glorious things Jesus does. Greek Exodus 34:10 has ποιήσω ἔνδοξα and Isaiah 12:4 has τὰ ἔνδοξα αὐτοῦ. Isaiah 25:1 praises wonders using different vocabulary. These are comparisons for the expression, without an explicit quotation in Luke."
     }
   },
   {
@@ -933,7 +933,7 @@
         {
           "greek": "ἀπόστητε ἀπ’ ἐμοῦ",
           "thai": "จงออกไปให้พ้นหน้าเรา",
-          "rationale": "Aorist-imperative ἀφίστημι 'depart/withdraw'. DIRECT QUOTATION of LXX Ps 6:9 (ET 6:8) — 'ἀπόστητε ἀπ’ ἐμοῦ, πάντες οἱ ἐργαζόμενοι τὴν ἀνομίαν'. 'จงออกไปให้พ้นหน้าเรา' = imperative 'go away from my presence'."
+          "rationale": "Luke’s citation echoes Greek Psalm 6:9 (English 6:8) in the command ἀπόστητε ἀπ’ ἐμοῦ. Luke addresses ἐργάται ἀδικίας. The psalm has οἱ ἐργαζόμενοι τὴν ἀνομίαν. Matthew 7:23 shares the psalm’s latter wording but opens with ἀποχωρεῖτε."
         },
         {
           "greek": "πάντες ἐργάται ἀδικίας",
@@ -941,7 +941,7 @@
           "rationale": "ἐργάτης = 'worker/doer'; ἀδικία = 'injustice/unrighteousness'. Luke's ἀδικίας varies slightly from LXX Ps 6:9 ἀνομίαν — same semantic field. 'ทำการอธรรม' continues established glossary (Matt 7:23 ἀνομία rendering, 23:28 also ἀνομία). ἀδικία shares the injustice/wickedness semantic range. Contextually same meaning."
         }
       ],
-      "notes": "DIRECT OT CITATION / ALLUSION: Ps 6:8 LXX (ET 6:9) — David's dismissal of his enemies becomes Jesus-as-Judge's dismissal of the falsely-claimed. Jesus assumes the David-Lord voice, a striking Christological move. Compare Matt 7:23 which uses ἀνομία (lawlessness) exactly-matching LXX; Luke has ἀδικία (unrighteousness) — minor Lukan variation, same force. KEY INTERPRETIVE POINT: workers-of-ADIKIA is a covenantal-wickedness term, not generic 'bad people' — it denotes covenant-faithlessness specifically. The pleaders were JEWS who had social-contact with Jesus but failed to enter via repentance-faith; they are indicted not as outsiders but as COVENANT-INSIDERS-TURNED-OUT. ADDED TO nt_ot_citations.json: LUK 13:27 direct_citation (PSA 6:8 LXX 'depart from me all workers of iniquity' — minor lexeme variation ἀδικία for ἀνομία)."
+      "notes": "Luke’s citation echoes Greek Psalm 6:9 (English 6:8) in the command ἀπόστητε ἀπ’ ἐμοῦ. Luke addresses ἐργάται ἀδικίας. The psalm has οἱ ἐργαζόμενοι τὴν ἀνομίαν. Matthew 7:23 shares the psalm’s latter wording but opens with ἀποχωρεῖτε."
     }
   },
   {
