@@ -50,6 +50,13 @@
       "report": "claim_consistency_isaiah_36.md",
       "notes": "advisory only — not a ship gate (raw exit=0)",
       "status": "clean"
+    },
+    {
+      "name": "unfoldingWord wording (license gate)",
+      "exit_code": 0,
+      "report": "uw_wording_isaiah_36.md",
+      "notes": "",
+      "status": "clean"
     }
   ]
 }

@@ -432,3 +432,17 @@ Use Grok + ChatGPT + Gemini in parallel per the JHN/DAN pattern.
 5. The recommended docs written / table rows added.
 
 **The single highest-value step is §6** — Isaiah is the OT's messianic keystone, and blessing its committal-surface policy now both seals this book and resolves the Daniel asymmetry before Jeremiah/Ezekiel/the Twelve compound it.
+
+**Editorial update, November 2026.** In 14:4 the main line follows the Qumran reading for the oppressor’s fury. The decision is now explained in the reader at 14:4.
+
+**Editorial update, November 2026.** The City of the Sun reading had already been mentioned inside the divine-name note at 19:1. It now has a distinct reading note at 19:18.
+
+**Editorial update, November 2026.** Isaiah 7:14 and Matthew 1:23 share หญิงพรหมจารี. The Isaiah line includes ผู้นั้น; their naming clauses also follow different grammatical persons in their respective source texts.
+
+**Editorial update, November 2026.** The sequence אֲדֹנָי יְהוִה צְבָאוֹת occurs at 3:15, 10:23, 10:24, 22:5, 22:12, 22:14, 22:15 and 28:22. The Thai separately marks Adonai at 22:14 and 22:15. The six other lines use the shorter title.
+
+**Editorial update, November 2026.** Isaiah 11:10 uses รากแห่งเจสซี and Romans 15:12 uses รากของเจสซี. They express the same relationship in different Thai wording.
+
+**Editorial update, November 2026.** At Isaiah 42:17 the worshippers address their idols in the plural. Thai now quotes them saying พวกท่านเป็นเทพเจ้าของเรา.
+
+**Editorial update, November 2026.** The Thai of Romans 9:29 now repeats Isaiah 1:9’s องค์พระผู้เป็นเจ้าจอมโยธา for the shared title.

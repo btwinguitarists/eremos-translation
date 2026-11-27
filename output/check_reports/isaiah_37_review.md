@@ -9,6 +9,7 @@
 | Back-translation | ✅ clean | [back_translation_isaiah_37.md](back_translation_isaiah_37.md) |
 | Thai-summary coverage (info) | ✅ clean | [summary_coverage_isaiah_37.md](summary_coverage_isaiah_37.md) |
 | Claim consistency (hallucination, advisory) | ✅ clean | [claim_consistency_isaiah_37.md](claim_consistency_isaiah_37.md) |
+| unfoldingWord wording (license gate) | ✅ clean | [uw_wording_isaiah_37.md](uw_wording_isaiah_37.md) |
 
 ## Ship criterion
 
