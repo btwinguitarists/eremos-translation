@@ -197,13 +197,16 @@ def render_chapter(rows: list[dict], chapter_num: int, superscription: str | Non
             elif vtype.startswith("convention_") or vtype.endswith("_convention"):
                 lines.append(f"**ข้อ {verse_num}** — หมายเหตุการแปล")
                 lines.append("")
-            else:
+            elif vtype == "inclusion_variant_absent":
                 tr_thai = var.get("tr_byz_thai", "")
                 lines.append(f"**ข้อ {verse_num}** — ขาดในต้นฉบับวิจารณ์ (SBLGNT)")
                 lines.append("")
                 if tr_thai:
                     lines.append(f"> {tr_thai}")
                     lines.append("")
+            else:
+                lines.append(f"**ข้อ {verse_num}** — หมายเหตุ")
+                lines.append("")
             if explanation:
                 lines.append(f"_{explanation}_")
                 lines.append("")
