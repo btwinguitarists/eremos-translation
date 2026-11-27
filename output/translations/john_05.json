@@ -38,7 +38,7 @@
     "translation": {
       "thai": "ในกรุงเยรูซาเล็มใกล้ประตูแกะมีสระน้ำแห่งหนึ่ง ซึ่งในภาษาฮีบรูเรียกว่าเบธซาธา มีเฉลียงห้าหลังล้อมรอบ",
       "thai_literal": "และมีอยู่ในเยรูซาเล็ม ใกล้ประตูแกะ สระน้ำที่ถูกเรียกในภาษาฮีบรูว่าเบธซาธา มีเฉลียงห้าหลัง",
-      "thai_summary": "เบธซาธาแปลตามรากศัพท์ภาษาอราเมอิกว่า “บ้านแห่งความเมตตา” (בית חסדא) — ชื่อนี้ดูจะกลายเป็นเหมือนภาพเงาล่วงหน้าของเรื่องที่จะตามมา ที่ซึ่งพระเยซูประทานความเมตตาแก่คนเจ็บป่วยที่ถูกสังคมทอดทิ้ง การขุดค้นทางโบราณคดีในศตวรรษที่ 19-20 พบสระคู่ที่มีเฉลียงห้าหลังจริง ใกล้โบสถ์เซนต์แอนน์ในกรุงเยรูซาเล็ม ยืนยันความเที่ยงตรงทางประวัติศาสตร์ของยอห์น",
+      "thai_summary": "ยอห์นกล่าวถึงสระน้ำที่มีเฉลียงห้าหลังใกล้ประตูแกะ ชื่อสระมีหลายรูปในต้นฉบับกรีก ชื่อไทย “เบธซาธา” ใกล้เคียงกับ Βηθζαθά ส่วนข้อความกรีกฉบับ SBL ใช้ Βηθεσδά มีผู้เสนอว่าชื่อรูปหลังอาจแปลว่า “บ้านแห่งความเมตตา” แต่ที่มาของชื่อยังไม่แน่ชัด",
       "key_decisions": [
         {
           "greek": "ἐπὶ τῇ προβατικῇ",
@@ -58,7 +58,7 @@
         {
           "greek": "Βηθεσδά",
           "thai": "เบธซาธา",
-          "rationale": "HAPAX (NT-only proper noun). Manuscript variation: SBLGNT-extracted Βηθεσδά (TR-aligned); some critical editions (NA28) prefer Βηθζαθά. Thai transliteration เบธซาธา matches common Thai usage/standard Thai Christian convention. Aramaic etymology בית חסדא 'house of mercy' / בית-זיתא 'house-of-olive' (depending on reading). NEW PROPER-NOUN LOCK: Βηθεσδά → เบธซาธา."
+          "rationale": "SBLGNT prints Βηθεσδά, Bethesda. Westcott–Hort and NA28 print Βηθζαθά, Bethzatha, the form the established Thai name เบธซาธา resembles. “House of mercy” is a proposed Semitic derivation of Bethesda. It is uncertain and does not translate the Bethzatha spelling."
         },
         {
           "greek": "πέντε στοὰς ἔχουσα",
@@ -66,7 +66,7 @@
           "rationale": "Per uW: 'porches' = roofed structures with at least one wall missing, attached to the pool. Thai 'เฉลียง' = covered porch/colonnade; 'ห้าหลังล้อมรอบ' (five surrounding) reflects the archaeologically-verified twin-pool layout with four colonnades on the perimeter and one between the two pools."
         }
       ],
-      "notes": "HAPAX PAIR: προβατικός (Sheep-[gate] adjective) + Βηθεσδά (place-name). HISTORICAL ACCURACY: archaeological excavations near the Church of St. Anne in Jerusalem's Old City uncovered twin rectangular pools surrounded by colonnades, matching John's five-porch description with high precision. Pre-1888 critics dismissed John 5:2 as a Johannine invention because no five-porch pool was known; the archaeology vindicates the historical-eyewitness character of the Gospel. NEW PROPER-NOUN LOCKS: προβατικὴ πύλη → ประตูแกะ; Βηθεσδά → เบธซาธา. NEW KEY-TERM LOCK: κολυμβήθρα → สระน้ำ."
+      "notes": "John locates a pool with five colonnades near the Sheep Gate. The main and literal Thai use the established name เบธซาธา. This resembles Βηθζαθά in NA28, while the SBLGNT source prints Βηθεσδά. Neither Greek spelling by itself settles the original Semitic derivation."
     }
   },
   {
