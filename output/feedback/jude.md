@@ -138,5 +138,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/jude_01.json` | `3b74970868b7df263240759242f240b3aa6bb92882fbbc90abb1b6d75d60a663` |
+| `output/translations/jude_01.json` | `7a4cff1e893f66e9ce4aa8d9eb209e8963b2ab2c879f3f53b0bd2bdd4bf62605` |
 

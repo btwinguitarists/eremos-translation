@@ -767,7 +767,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/joshua_22.json` | 34 | `dd78c8db871aa2e34db62e4fabfd2f3ed390b0435da813369b64be3842bcf5f7` | `7895e5a6` |
 | `output/translations/joshua_23.json` | 16 | `2f2106cc42de5895bb65bf71188bff518900f58c0b602fb90652c4985dbb17f6` | `f4febfb5` |
 | `output/translations/joshua_24.json` | 33 | `8af33867974fb02ffbc2ecc0ba0bc6d1f18461c686b839810518e37ac8c9225c` | `6a779aae` |
-| `output/translations/jude_01.json` | 25 | `3b74970868b7df263240759242f240b3aa6bb92882fbbc90abb1b6d75d60a663` | `dd8164e1` |
+| `output/translations/jude_01.json` | 25 | `7a4cff1e893f66e9ce4aa8d9eb209e8963b2ab2c879f3f53b0bd2bdd4bf62605` | `dd8164e1` |
 | `output/translations/judges_01.json` | 36 | `e11bc1767d581707148945d57385a903231a4b58ab4b56f51b33a50935e96a1b` | `d03c3a1a` |
 | `output/translations/judges_02.json` | 23 | `d5dba4ddaa0576f0c428b2e69ae46f6c3ace29e05eefe0c8c26f81f9230834fc` | `d03c3a1a` |
 | `output/translations/judges_03.json` | 31 | `bb254323f59daf709fb488f12a1b3a411518ea317b81b377e732638de3d03280` | `ef769ce3` |
