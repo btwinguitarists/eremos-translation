@@ -29,7 +29,7 @@
       "thai_summary": null,
       "key_decisions": [
         { "greek": "Ἰούδας ὁ παραδιδοὺς αὐτὸν", "thai": "ยูดาสผู้ทรยศพระองค์", "rationale": "PHRASE-LOCK with JHN 6:71, 12:4, 13:2, 13:11: Judas Iscariot named-by-betrayal-action (not full name here). NEW CORPUS-LOCK: ὁ παραδιδοὺς (the-one-betraying) → ผู้ทรยศ (the-betrayer). Will recur v.5. The present-participle ‘the-one-betraying’ marks the in-process-betrayal-act." },
-        { "greek": "πολλάκις συνήχθη Ἰησοῦς ἐκεῖ μετὰ τῶν μαθικτῶν αὐτοῦ", "thai": "พระเยซูทรงพบกับเหล่าสาวกของพระองค์ที่นั่นบ่อยครั้ง", "rationale": "Per uW writing-background: explanatory-flashback explaining how-Judas-knew-the-place. Aor.passive συνήχθη (‘was-gathered-together’) rendered as Thai active ‘ทรงพบ’ (royal-meet) for natural narrative-flow." }
+        { "greek": "πολλάκις συνήχθη Ἰησοῦς ἐκεῖ μετὰ τῶν μαθητῶν αὐτοῦ", "thai": "พระเยซูทรงพบกับเหล่าสาวกของพระองค์ที่นั่นบ่อยครั้ง", "rationale": "Per uW writing-background: explanatory-flashback explaining how-Judas-knew-the-place. Aor.passive συνήχθη (‘was-gathered-together’) rendered as Thai active ‘ทรงพบ’ (royal-meet) for natural narrative-flow." }
       ],
       "notes": "Per uW writing-background: background-info on Judas's-knowledge of the meeting-place. The present-participle ‘the-one-betraying’ adds dramatic-irony — Judas is currently-in-the-act-of-betraying. The vulnerable-pattern: Christ's-known-prayer-spot becomes the betrayer's-target."
     }
@@ -63,7 +63,7 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "εἰδὼς πάντα τὰ ἐρχόμενα ἐπ’αὐτὸν", "thai": "ทรงทราบทุกสิ่งที่กำลังจะเกิดขึ้นกับพระองค์", "rationale": "Per uW grammar-connect-logic-result: aor.participle εἰδώς grounds the active-stepping-forward of Christ. Royal ทรงทราบ (royal-know) since divine-subject. Christological-omniscience-motif (cf. JHN 13:1, 13:3, 16:19, 19:28) — Christ's-self-aware approach-to-passion." },
+        { "greek": "εἰδὼς πάντα τὰ ἐρχόμενα ἐπ’αὐτὸν", "thai": "ทรงทราบทุกสิ่งที่กำลังจะเกิดขึ้นกับพระองค์", "rationale": "εἰδώς is the perfect active participle of οἶδα and expresses present knowledge. Jesus knows what is coming upon him as he goes out to meet the group. ทรงทราบ conveys his knowledge in the project’s register for Jesus." },
         { "greek": "Τίνα ζητεῖτε;", "thai": "พวกท่านมาหาใคร?", "rationale": "Christ's first-words to arrest-party — direct simple-question, not defensive. Thai ‘พวกท่านมาหาใคร?’ (whom-are-you-coming-to-find) preserves the deliberate-confrontation-via-question form. Christ uses พวกท่าน (formal-plural-polite) — even to enemies, not lower register." }
       ],
       "notes": "Per uW grammar-connect-logic-result: Christ's-stepping-forward is voluntary, not surprised. The εἰδώς-pattern: Christ acts FROM-knowledge-of-the-coming-passion, not in spite of-or-blind-to-it. PHRASE-LOCK with the broader-Johannine-volitional-passion-theme: ‘no one takes my life from me, I lay it down of my own accord’ (JHN 10:18)."
@@ -470,15 +470,15 @@
     "greek": "Ἄγουσιν οὖν τὸν Ἰησοῦν ἀπὸ τοῦ Καϊάφα εἰς τὸ πραιτώριον·ἦν δὲ πρωΐ·καὶ αὐτοὶ οὐκ εἰσῆλθον εἰς τὸ πραιτώριον,ἵνα μὴ μιανθῶσιν ἀλλὰ φάγωσιν τὸ πάσχα.",
     "bsb_english": "Then they led Jesus away from Caiaphas into the Praetorium. By now it was early morning, and the Jews did not enter the Praetorium, to avoid being defiled and unable to eat the Passover.",
     "translation": {
-      "thai": "พวกเขาจึงพาพระเยซูจากที่อยู่ของคายาฟาสไปยังกองบัญชาการของผู้ว่าราชการ ขณะนั้นเป็นเวลาเช้าตรู่ พวกเขาไม่ได้เข้าไปในกองบัญชาการ เพื่อไม่ให้เป็นมลทิน แต่จะได้กินเทศกาลปัสกา",
+      "thai": "พวกเขาจึงพาพระเยซูจากที่อยู่ของคายาฟาสไปยังกองบัญชาการของผู้ว่าราชการ ขณะนั้นเป็นเวลาเช้าตรู่ พวกเขาไม่ได้เข้าไปในกองบัญชาการ เพื่อไม่ให้เป็นมลทิน แต่จะได้กินอาหารปัสกา",
       "thai_literal": null,
-      "thai_summary": "ข้อนี้แสดงความขัดแย้งทางจริยธรรมที่กินใจ — พวกหัวหน้าปุโรหิตยิวระมัดระวังการเป็นมลทินทางพิธีกรรม (ที่จะทำให้กินปัสกาไม่ได้) ในขณะที่กำลังจัดให้ฆ่าพระเมษโปดกของพระเจ้าเพื่อกำจัดบาปโลก (ยน. 1:29) การเล็งเห็นถึงรายละเอียดเล็ก ๆ ของพิธีกรรมในขณะที่ละเลยความยุติธรรมระดับสูงเป็นรูปแบบที่พระเยซูเคยตำหนิไว้ (มัทธิว 23:23) คายาฟาสในเวลานี้กลายเป็นพยานปฏิเสธโดยไม่รู้ตัวของการที่พวกเขาผิดศาสนาแท้",
+      "thai_summary": "ผู้นำที่พาพระเยซูไปหาผู้ว่าราชการอยู่ด้านนอกเพื่อไม่ให้เป็นมลทินและเพื่อจะได้กินอาหารปัสกา ยอห์นกล่าวถึงความตั้งใจของพวกเขา โดยไม่ได้ระบุว่าเป็นอาหารมื้อใดในเทศกาล",
       "key_decisions": [
         { "greek": "εἰς τὸ πραιτώριον", "thai": "ไปยังกองบัญชาการของผู้ว่าราชการ", "rationale": "NEW CORPUS-LOCK: πραιτώριον → กองบัญชาการของผู้ว่าราชการ (Praetorium / governor's-headquarters). Per uW figs-explicit: refers to Roman-governor's-headquarters in Jerusalem. The next-verse names Pilate as the governor." },
         { "greek": "ἦν δὲ πρωΐ", "thai": "ขณะนั้นเป็นเวลาเช้าตรู่", "rationale": "πρωΐ → เช้าตรู่ (early-morning). The pre-dawn-arrest-trial timeline — Roman officials began-business-at-dawn." },
-        { "greek": "ἵνα μὴ μιανθῶσιν ἀλλὰ φάγωσιν τὸ πάσχα", "thai": "เพื่อไม่ให้เป็นมลทิน แต่จะได้กินเทศกาลปัสกา", "rationale": "NEW CORPUS-LOCK: μιαίνω → เป็นมลทิน (be-defiled / become-ritually-impure). Per uW figs-doublenegatives: ‘not-defiled-so-as-to-eat-Passover.’ The ritual-purity-rules forbade-Jews from-entering-Gentile-houses pre-Passover. KEY-TERM-LOCK: πάσχα → ปัสกา (Passover; transliteration; standard from synoptic)." }
+        { "greek": "ἵνα μὴ μιανθῶσιν ἀλλὰ φάγωσιν τὸ πάσχα", "thai": "เพื่อไม่ให้เป็นมลทิน แต่จะได้กินอาหารปัสกา", "rationale": "The visitors wish to avoid defilement so that they can eat the Passover. อาหารปัสกา makes explicit that the object of eating is food, while leaving open which Passover meal or offering is meant." }
       ],
-      "notes": "Per uW writing-background + figs-doublenegatives + figs-explicit + figs-metonymy: scene-shift from Caiaphas's-house to Praetorium. The ironic-juxtaposition: ritual-purity-care while-orchestrating-execution-of-the-true-Passover-Lamb (cf. 1 COR 5:7). NEW CORPUS-LOCKS: πραιτώριον, μιαίνω."
+      "notes": "The people bringing Jesus remain outside the governor’s headquarters so that they can eat the Passover. John states their concern about defilement without specifying a particular rule of entry or identifying which festival food is intended."
     }
   },
   {

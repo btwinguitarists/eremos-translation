@@ -350,7 +350,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**3** พระเยซูตรัสตอบเขาว่า “ความจริง ความจริง เราบอกท่านว่า ถ้าผู้ใดไม่ได้บังเกิดใหม่ ผู้นั้นไม่สามารถเห็นอาณาจักรของพระเจ้าได้”
+**3** พระเยซูตรัสตอบเขาว่า “อาเมน อาเมน เราบอกท่านว่า ถ้าผู้ใดไม่ได้บังเกิดใหม่ ผู้นั้นไม่สามารถเห็นอาณาจักรของพระเจ้าได้”
 
 > ___
 
@@ -358,7 +358,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**5** พระเยซูตรัสตอบว่า “ความจริง ความจริง เราบอกท่านว่า ถ้าผู้ใดไม่ได้บังเกิดจากน้ำและพระวิญญาณ ผู้นั้นไม่สามารถเข้าในอาณาจักรของพระเจ้าได้
+**5** พระเยซูตรัสตอบว่า “อาเมน อาเมน เราบอกท่านว่า ถ้าผู้ใดไม่ได้บังเกิดจากน้ำและพระวิญญาณ ผู้นั้นไม่สามารถเข้าในอาณาจักรของพระเจ้าได้
 
 > ___
 
@@ -818,7 +818,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**29** และจะออกมา ผู้ที่ทำดีจะออกไปสู่การฟื้นคืนชีพแห่งชีวิต ส่วนผู้ที่ทำชั่วจะออกไปสู่การฟื้นคืนชีพแห่งการพิพากษา
+**29** และจะออกมา ผู้ที่ทำดีจะฟื้นขึ้นสู่การฟื้นคืนชีพแห่งชีวิต ส่วนผู้ที่ทำชั่วจะฟื้นขึ้นสู่การฟื้นคืนชีพแห่งการพิพากษา
 
 > ___
 
@@ -2038,7 +2038,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**15** และเพื่อประโยชน์ของพวกท่าน เรายินดีที่เราไม่ได้อยู่ที่นั่น เพื่อพวกท่านจะได้เชื่อ ให้เราไปหาเขากันเถิด”
+**15** และเพื่อประโยชน์ของพวกท่าน เรายินดีที่เราไม่ได้อยู่ที่นั่น เพื่อพวกท่านจะได้เชื่อ แต่ให้เราไปหาเขากันเถิด”
 
 > ___
 
@@ -2462,7 +2462,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**12** เมื่อพระองค์ทรงล้างเท้าของพวกเขาแล้ว และทรงสวมฉลองพระองค์ชั้นนอกอีกครั้ง ทรงประทับนั่งและตรัสกับพวกเขาว่า “พวกท่านเข้าใจที่เราได้ทำกับพวกท่านหรือไม่?
+**12** เมื่อพระองค์ทรงล้างเท้าของพวกเขาแล้ว และทรงสวมฉลองพระองค์ชั้นนอก แล้วประทับนั่งและตรัสกับพวกเขาอีกครั้งว่า “พวกท่านเข้าใจที่เราได้ทำกับพวกท่านหรือไม่?
 
 > ___
 
@@ -3166,7 +3166,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**28** พวกเขาจึงพาพระเยซูจากที่อยู่ของคายาฟาสไปยังกองบัญชาการของผู้ว่าราชการ ขณะนั้นเป็นเวลาเช้าตรู่ พวกเขาไม่ได้เข้าไปในกองบัญชาการ เพื่อไม่ให้เป็นมลทิน แต่จะได้กินเทศกาลปัสกา
+**28** พวกเขาจึงพาพระเยซูจากที่อยู่ของคายาฟาสไปยังกองบัญชาการของผู้ว่าราชการ ขณะนั้นเป็นเวลาเช้าตรู่ พวกเขาไม่ได้เข้าไปในกองบัญชาการ เพื่อไม่ให้เป็นมลทิน แต่จะได้กินอาหารปัสกา
 
 > ___
 
@@ -3632,22 +3632,22 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 |---|---|
 | `output/translations/john_01.json` | `8a3fdcf6bb8e00b29cac0a0ecdfd1d41cf437db0c0b0ba6499b311b6859d3d70` |
 | `output/translations/john_02.json` | `d07661e306a686c78f7feedcdd4648cfb1add3e63bcab49e2cb72d1087611134` |
-| `output/translations/john_03.json` | `0e70a8f8bc79bcb893d133f4325d536ccd78e7c4aecfc7bd4297836548097b7c` |
+| `output/translations/john_03.json` | `6ba2c53a183fb62f6b3c55827ebafc2ffd876e8e3397f6236a8a51199b5050a5` |
 | `output/translations/john_04.json` | `b8392930ca2c9f94e9357807990ee7f7d875a6fa871c57329f0aa0bc5907ee77` |
-| `output/translations/john_05.json` | `3d8e85ebd732a776a6ebebe26cda45644a7e7982435800f18517078bf3b706fe` |
+| `output/translations/john_05.json` | `38fad9776bc27e0fd58445f9f9f0c867b52fa2e8ced309e0d28499f3a033ff79` |
 | `output/translations/john_06.json` | `7437345b8380a58b931e7855c3fdb7c36fa9d771a76af57135bd44b46122e7d8` |
 | `output/translations/john_07.json` | `b2da0af5c3e87cd85af5614aeab6f472a06e9d664bda68feb5459171c00cb7be` |
 | `output/translations/john_08.json` | `8e4591b473abe63d4602975ea265dccb8f6945bc5c628e3b68542fea69bd27ab` |
 | `output/translations/john_09.json` | `22e1d96e406a98fae95de467a5297a29faca3df39bbc4fece117585b378bde0d` |
 | `output/translations/john_10.json` | `7c04f8f55fcf48e531a4b5d43fb26da1b0f4e3381bab4ed89c65f10e90506394` |
-| `output/translations/john_11.json` | `60c042e1ed3b3edf20f09dd299d70b57839e1254efb987aa49d9b39ebe28a9c2` |
+| `output/translations/john_11.json` | `8827d7b0d725fbeb7d55e34adc4584b336737ed58529ad136b2ad2ad4ac18caa` |
 | `output/translations/john_12.json` | `c3bec996a680644613fd0fa23917386d4afff9c41b2b91e488d7795c087f79d4` |
-| `output/translations/john_13.json` | `fba16d1df6175cc989461197e31cb0cb77566be021c4acfae595a9fa65e527f7` |
+| `output/translations/john_13.json` | `8b28a26e71998b9e85d925e9fb0bd5cdb4f17e373246cc67af038588334c6b46` |
 | `output/translations/john_14.json` | `f505e4266eef772a26b6c0df46014cd5c52d34e8dc22bda817f2f0751d4e10b7` |
 | `output/translations/john_15.json` | `266002d8a411e2c374da42a7bcfa6eaf0f1a0351e90c1363849c376b80677caf` |
 | `output/translations/john_16.json` | `b15d3c06e89e6a9099a2fa8c673bb840022d6fe3879b5b4094b028abf3679747` |
 | `output/translations/john_17.json` | `85ee706ee7a297f4c8c7c1b1f915e8f6fea4243e9cbf8d7b5be2c7adc38d041e` |
-| `output/translations/john_18.json` | `2e124c6c8a59c5fac5e054154a2448d5fbdf7e5b9967820a7fdc73b4a48e61c2` |
+| `output/translations/john_18.json` | `8f2455129cd81927127cf1729c19b0624acf36d2b404b14c3eee9646600197c3` |
 | `output/translations/john_19.json` | `ed2b4e1dafdf3d0a6a925d233b8518f1671f5ec736a27026baf24e68007e0964` |
 | `output/translations/john_20.json` | `affef33f0afa4e1926f611949a3d74fcfe36460ae270adece52144c47308ed74` |
 | `output/translations/john_21.json` | `635e337fdc874bbe2ad0f5e0f6f8a89b523d89e3bbb59880ade2a6a6b10e381f` |
