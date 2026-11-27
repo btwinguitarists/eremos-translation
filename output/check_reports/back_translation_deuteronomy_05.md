@@ -11,7 +11,7 @@ Mode: in-chat (Claude-produced back-translations) | Threshold: 0.35
 ## ℹ Low similarity — rationale documented (intentional divergence)
 
 - **DEU 5:9** (sim=0.18)
-  - Thai: เจ้าจะต้องไม่กราบไหว้พวกมันหรือนมัสการพวกมัน เพราะเรา องค์พระผู้เป็นเจ้าพระเจ้าของเจ้า เป็นพระเจ้าผู้ทรงหวงแหน ผู้ลงโทษความผิดของบิดาบนบุตรถึงสามและสี่ชั่วอายุของผู้เกลียดเรา
+  - Thai: อย่าก้มกราบหรือรับใช้พวกมัน เพราะเรา องค์พระผู้เป็นเจ้าพระเจ้าของเจ้า เป็นพระเจ้าผู้ทรงหวงแหน ทรงลงโทษความชั่วของบรรพบุรุษต่อบุตรหลานและหลานเหลน ถึงสามชั่วและสี่ชั่วอายุคน ของผู้เกลียดเรา
   - Back: You shall not bow down to them and you shall not serve them, for I, the Lord your God, am a jealous God, visiting the iniquity of fathers on sons and on the third and on the fourth generation of those who hate Me,
   - BSB:  You shall not bow down to them or worship them; for I, the LORD your God, am a jealous God, visiting the iniquity of the fathers on their children to the third and fourth generations of those who hate Me,
 - **DEU 5:22** (sim=0.06)

@@ -1020,7 +1020,7 @@ _**Shema Yisrael** (vv.4–5) เป็นคำประกาศหลัก�
 
 > ___
 
-**5** แต่นี่คือสิ่งที่พวกเจ้าจะทำต่อพวกเขา: จงทำลายแท่นบูชาของพวกเขา ทุบเสาศักดิ์สิทธิ์ของพวกเขา ตัดเสาเอเชราห์ของพวกเขา และเผารูปเคารพของพวกเขาด้วยไฟ
+**5** แต่นี่คือสิ่งที่พวกเจ้าจะทำต่อพวกเขา: จงทำลายแท่นบูชาของพวกเขา ทุบเสาศักดิ์สิทธิ์ของพวกเขา ตัดเสาอาเชราห์ของพวกเขา และเผารูปเคารพของพวกเขาด้วยไฟ
 
 > ___
 
@@ -2740,7 +2740,7 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 **ข้อ 6** — ขาดในต้นฉบับวิจารณ์ (SBLGNT)
 
-_**ข้อ 6 — ผู้อาวุโส 'ล้างมือ' ของพวกเขา** เพื่อแสดงความบริสุทธิ์จากการหลั่งเลือดที่ไม่ทราบผู้กระทำ. **NT echo สำคัญ**: **มธ 27:24** — ปีลาตล้างมือต่อหน้าฝูงชน กล่าวว่า 'เราไม่มีส่วนผิดในเลือดของผู้ชายชอบธรรมคนนี้ เจ้าทั้งหลายเห็นแก่ตัวเอง' — อ้างถึงพิธีของฉธบ 21. **แต่ความหมายแตกต่าง**: ในฉธบ 21 การล้างมือเป็นการประกาศบริสุทธิ์ที่จริง — ผู้อาวุโสไม่ได้กระทำผิดจริง. ในกรณีของปีลาต — การล้างมือเป็นความพยายามที่ผิดที่จะหนีจากการรับผิดชอบที่เขาแบก. ปีลาตเป็นผู้พิพากษาที่มีอำนาจ ไม่ใช่ผู้ที่ไม่เกี่ยวข้อง._
+_**ข้อ 6 — ผู้อาวุโส 'ล้างมือ' ของพวกเขา** เพื่อแสดงความบริสุทธิ์จากการหลั่งเลือดที่ไม่ทราบผู้กระทำ. **NT echo สำคัญ**: **มธ 27:24** — ปีลาตล้างมือต่อหน้าฝูงชน กล่าวว่า 'เราไม่มีส่วนผิดในเลือดของคนนี้ พวกท่านจัดการเอาเอง' — อ้างถึงพิธีของฉธบ 21. **แต่ความหมายแตกต่าง**: ในฉธบ 21 การล้างมือเป็นการประกาศบริสุทธิ์ที่จริง — ผู้อาวุโสไม่ได้กระทำผิดจริง. ในกรณีของปีลาต — การล้างมือเป็นความพยายามที่ผิดที่จะหนีจากการรับผิดชอบที่เขาแบก. ปีลาตเป็นผู้พิพากษาที่มีอำนาจ ไม่ใช่ผู้ที่ไม่เกี่ยวข้อง._
 
 **ข้อ 20** — ขาดในต้นฉบับวิจารณ์ (SBLGNT)
 
@@ -2871,7 +2871,7 @@ _**ข้อ 23 — 'ผู้ใดที่ถูกแขวนบนต้�
 
 > ___
 
-**30** ผู้ชายต้องไม่รับภรรยาของบิดาเป็นภรรยา และไม่เปิดผ้าผืนของบิดา
+**30** ผู้ชายต้องไม่รับภรรยาของบิดาเป็นภรรยา และไม่เปิดผ้าคลุมของบิดา
 
 > ___
 
@@ -3888,7 +3888,7 @@ _**ข้อ 68 — 'พระยาห์เวห์จะทรงส่ง�
 
 **ข้อ 2** — ขาดในต้นฉบับวิจารณ์ (SBLGNT)
 
-_**NOTE ON VERSIFICATION**: ในการแบ่งข้อภาษาฮีบรู (Masoretic Text) บทที่ 29 ของฉธบ เริ่มที่ข้อ 1 ด้วย 'โมเสสได้เรียกชนอิสราเอลทั้งหมด...'. แต่ในฉบับภาษาอังกฤษส่วนใหญ่ (รวม BSB, KJV, NIV) ข้อนี้ถูกนับเป็น 29:2 และบทที่ 29 เริ่มที่ 'เหล่านี้คือถ้อยคำของพันธสัญญา...' (= ฮีบรู 28:69 ที่เราได้แปลในบทก่อน). ฉบับเอเรโมสตามการแบ่งข้อของภาษาฮีบรู — ดังนั้นเลขข้อในฉบับนี้จะมากกว่าฉบับ KJV/NIV ฯลฯ ในบทนี้ 1 ข้อตลอด._
+_**NOTE ON VERSIFICATION**: ในการแบ่งข้อภาษาฮีบรู (Masoretic Text) บทที่ 29 ของฉธบ เริ่มที่ข้อ 1 ด้วย 'โมเสสได้เรียกชนอิสราเอลทั้งหมด...'. แต่ในฉบับภาษาอังกฤษส่วนใหญ่ (รวม BSB, KJV, NIV) ข้อนี้ถูกนับเป็น 29:2 และบทที่ 29 เริ่มที่ 'เหล่านี้คือถ้อยคำของพันธสัญญา...' (= ฮีบรู 28:69 ที่เราได้แปลในบทก่อน). ฉบับเอเรโมสตามการแบ่งข้อของภาษาฮีบรู — ดังนั้นสำหรับข้อนี้ เลขข้อในฉบับนี้น้อยกว่าฉบับ KJV/NIV ฯลฯ อยู่ 1 ข้อ._
 
 **ข้อ 2** — หมายเหตุการแปลพระนามของพระเจ้า
 
@@ -4001,7 +4001,7 @@ _**ข้อ 6 — 'องค์พระผู้เป็นเจ้าพร
 
 **ข้อ 14** — ขาดในต้นฉบับวิจารณ์ (SBLGNT)
 
-_**ข้อ 11-14 — 'บัญญัติไม่ได้อยู่ในฟ้า ไม่ได้อยู่ฟากทะเล แต่อยู่ในปากของเจ้าและในใจของเจ้า'** เป็น **NT echo สำคัญที่สุดของบท**. **เปาโลทรงอ้างโดยตรง — รม 10:6-10**: 'แต่ความชอบธรรมโดยความเชื่อกล่าวว่า: อย่ากล่าวในใจของเจ้าว่า ใครจะขึ้นไปสู่ฟ้าสวรรค์? (คือเพื่อนำพระคริสต์ลงมา) หรือ ใครจะลงไปสู่ห้วงลึก? (คือเพื่อนำพระคริสต์ขึ้นมาจากความตาย). แต่กล่าวว่าอย่างไร? 'พระวจนะใกล้เจ้า อยู่ในปากและในใจของเจ้า' คือพระวจนะของความเชื่อที่เราประกาศ. หากเจ้ายอมรับด้วยปากว่าพระเยซูเป็นพระเจ้า และเชื่อในใจของเจ้าว่าพระเจ้าทรงให้พระองค์เป็นขึ้นมาจากความตาย เจ้าจะรอด'. **ความหมายลึก**: เปาโลทรงตีความใหม่ ฉธบ 30 = พระวจนะของพระเจ้าใกล้เราในพระคริสต์ — ไม่ต้องขึ้นสู่ฟ้า (พระองค์ทรงเสด็จลงมาแล้ว) ไม่ต้องลงสู่ห้วงลึก (พระองค์ทรงเป็นขึ้นแล้ว). ฉธบ 30:11-14 = รากของหลัก justification by faith._
+_**ข้อ 11-14 — 'บัญญัติไม่ได้อยู่ในฟ้า ไม่ได้อยู่ฟากทะเล แต่อยู่ในปากของเจ้าและในใจของเจ้า'** เป็น **NT echo สำคัญที่สุดของบท**. **เปาโลทรงอ้างโดยตรง — รม 10:6-10**: 'แต่ความชอบธรรมโดยความเชื่อกล่าวว่า: อย่ากล่าวในใจของเจ้าว่า ใครจะขึ้นไปสู่ฟ้าสวรรค์? (คือเพื่อนำพระคริสต์ลงมา) หรือ ใครจะลงไปสู่ห้วงลึก? (คือเพื่อนำพระคริสต์ขึ้นมาจากความตาย). แต่กล่าวว่าอย่างไร? 'พระวจนะใกล้เจ้า อยู่ในปากและในใจของเจ้า' คือพระวจนะของความเชื่อที่เราประกาศ. หากเจ้ายอมรับด้วยปากว่าพระเยซูทรงเป็นองค์พระผู้เป็นเจ้า และเชื่อในใจของเจ้าว่าพระเจ้าทรงให้พระองค์เป็นขึ้นมาจากความตาย เจ้าจะรอด'. **ความหมายลึก**: เปาโลทรงตีความใหม่ ฉธบ 30 = พระวจนะของพระเจ้าใกล้เราในพระคริสต์ — ไม่ต้องขึ้นสู่ฟ้า (พระองค์ทรงเสด็จลงมาแล้ว) ไม่ต้องลงสู่ห้วงลึก (พระองค์ทรงเป็นขึ้นแล้ว). ฉธบ 30:11-14 = รากของหลัก justification by faith._
 
 **ข้อ 19** — ขาดในต้นฉบับวิจารณ์ (SBLGNT)
 
@@ -4626,16 +4626,16 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 |---|---|
 | `output/translations/deuteronomy_01.json` | `7f01a37ad00205416ba43ccebea7313ec29070a381e228d8990772452696c686` |
 | `output/translations/deuteronomy_02.json` | `6fccd8efbc81ff508cb043f3e04b6ad592b81666bec86aa4dad9b1dd06dc0771` |
-| `output/translations/deuteronomy_03.json` | `58fc924fa5ae97ede92adceeca7c67915c3e0dd9b59232230a62f5a995eb6801` |
+| `output/translations/deuteronomy_03.json` | `cd6f7459fb324e5e2edeb14ad3d4e44981e66f0762d772751ad718b80d66399e` |
 | `output/translations/deuteronomy_04.json` | `0e83dd4ad002f63d1c3a28ff1b9eedc5f66be47618c566e63084f27c5196f9cb` |
-| `output/translations/deuteronomy_05.json` | `811889fb7752d036203e5837247d3444221f982838a799f6771471f61dd0b64b` |
-| `output/translations/deuteronomy_06.json` | `71a7045d550a0fbf1064c03f00dd539b0aa1dbe179b928e15d3a7be9406de235` |
-| `output/translations/deuteronomy_07.json` | `70a78c538bf280057de3612aec9aa43779d17f58ab9f008c80599218ce30cd89` |
-| `output/translations/deuteronomy_08.json` | `d67c25b70ab763e21ef3d0f53bd4ff87960f99487365bcd267a9bab378472618` |
-| `output/translations/deuteronomy_09.json` | `065a004fc2aae859325a16ef0e2cdad9121e7e0da9b3bc732d961a2e6ea8ab54` |
+| `output/translations/deuteronomy_05.json` | `2881f748d33835c2ff6e9eb9840bf87c8e6ad567200b5d784bdd64c2ca8aadbb` |
+| `output/translations/deuteronomy_06.json` | `dcac961235dfdd536c48994bd01a7c632555fc345acea6dea8075ec03c30199f` |
+| `output/translations/deuteronomy_07.json` | `387f7f013c3f51dca7779f8847e026a19d948406498fea3abcc15bc483fc6262` |
+| `output/translations/deuteronomy_08.json` | `6b3990463a4f7c00e8bb39e905e4594ff0e0ab5e8d8cef1280781b1040a63c0f` |
+| `output/translations/deuteronomy_09.json` | `c2e989de9b567b19e2909a144719406fc5bf14fdd5dd7d15dd3d8ce9350fbd72` |
 | `output/translations/deuteronomy_10.json` | `0dc2b6e30051a59060978ed27639b703a4b7ecc7dc84c4675694095166dfe282` |
 | `output/translations/deuteronomy_11.json` | `e8c9e81262b43bc545e2985ece7eb3024f062301560740c2f956ab507d6ec5d9` |
-| `output/translations/deuteronomy_12.json` | `fc02769c05df8e125c84be819f0ae223d790b052577c46fb5882f8a872aa60e0` |
+| `output/translations/deuteronomy_12.json` | `0bd0881575270aae7bd87ab9cd5e3bba73cfb7184deb6eee5b13e4da9abf9911` |
 | `output/translations/deuteronomy_13.json` | `7d9cb6a34ed235032424057f5249de157d81b06401eef03468fdfb45bb3b9db3` |
 | `output/translations/deuteronomy_14.json` | `f86acb39a8775cf1a790a6ab888250f0fed2d3b01cebc860d36bb2e3e3a48159` |
 | `output/translations/deuteronomy_15.json` | `f91d6dfc5fef598893e8d6534f6f7f732e4b849299b7b05e8419ced19c3eb52d` |
@@ -4643,17 +4643,17 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/deuteronomy_17.json` | `a3178746d0d74117b100b79bc9df056f8ea48d22de1515f322ff52fed1e7d77a` |
 | `output/translations/deuteronomy_18.json` | `5ead0c1c40370ece289bc66647a94a6b9a778de0153b0b54f5ff582d45447daf` |
 | `output/translations/deuteronomy_19.json` | `4e9d9363d69f0fc9062f09f042a38c08c0227d319f80ffb28e71ed00a65a947e` |
-| `output/translations/deuteronomy_20.json` | `5f1954fc7804bb8529b66d4b631c2d846dfa827b2bc5ade92324da4da09dfb09` |
-| `output/translations/deuteronomy_21.json` | `b416b03e1ebf2a6e68ac988be2ddb3787850f30c29d39acba4543856a78b096c` |
+| `output/translations/deuteronomy_20.json` | `3e45765d267c2a0b156d0ac919f2974ea553076fcbf9d13020e65e681f1bd2d9` |
+| `output/translations/deuteronomy_21.json` | `c79fc05bd87f3385d025de5e321e9a9f4c7ead5d3bf4afba8595c15284bb9860` |
 | `output/translations/deuteronomy_22.json` | `702ed7729417dcac93544dea0aaf409caebae62baa010e5c0912a569ef53ad71` |
-| `output/translations/deuteronomy_23.json` | `8cb26e832a1d1d65ede2ac6a4efc1b26053372347bcd7d360fa78c1eb6ae4525` |
+| `output/translations/deuteronomy_23.json` | `345ca6a75d516cd322843bf31f30cdf9f1baef1d8d7951bb4d45ee41bbf2bc3d` |
 | `output/translations/deuteronomy_24.json` | `87367c8dddff37b51cd2b8968870a56785cb7a813d5c68fb856219f96408733c` |
-| `output/translations/deuteronomy_25.json` | `5873bbbc64c0729602f98633793ced906036aac65631efd773d800c0b175df9e` |
+| `output/translations/deuteronomy_25.json` | `c227c74a08f89704b822e0db90bd0043e596f27eaae28047aa05f71b1c1ca2f9` |
 | `output/translations/deuteronomy_26.json` | `9d4380108f46a694aca4e48459b153057d3278dc9a4f1792a4698d2e83457d40` |
 | `output/translations/deuteronomy_27.json` | `2198347190580332eba285a28411400010814adee70380b6383cc9928b1d390c` |
-| `output/translations/deuteronomy_28.json` | `f6cc034068531a9ab6518f3a98a5e1b975484e423ab593e15d8823c5bc074521` |
-| `output/translations/deuteronomy_29.json` | `32c65a172e686de6aa39d38c0a02401f071dfdee6ff74c5022e639496013d319` |
-| `output/translations/deuteronomy_30.json` | `334725af1296572aeacb763387c4cd15e431d53f0c6a248570a82712e8a5fde5` |
+| `output/translations/deuteronomy_28.json` | `866977748b29a0eae450b3988187e0187b04098145c530fd3f32b00319f88bc9` |
+| `output/translations/deuteronomy_29.json` | `e1b9b8ea44b9bb9728322d644630ef9d77131df0b8f2937a65cdc35008879f42` |
+| `output/translations/deuteronomy_30.json` | `0c9b6854f528deeff02b7784d609740aa041ef536d9157fb11b59ded7981c29a` |
 | `output/translations/deuteronomy_31.json` | `b33e24e46ac78725dc7b8e9c348386c4ab0d46da16f1c09157388b53cf155d30` |
 | `output/translations/deuteronomy_32.json` | `a067e35761bc5efea65a111f9c03cefd3d0cdc4e9f738a33f665ca804079f878` |
 | `output/translations/deuteronomy_33.json` | `02932f4f3325889d060e90b5c9d4a4150451246e4c1713a89cb95bf94c2d5909` |
