@@ -134,7 +134,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/1thessalonians_05.json` | 28 | `ec6ee616c91b5bec3232d145ccfe6879ba62d617a4fc77c31ce0330f864adbbe` | `d03c3a1a` |
 | `output/translations/1timothy_01.json` | 20 | `7076b3f9e52f35a83418b4ebcd22753e3bd80cd5038838191ce4d06d07ea9e41` | `a66a45c7` |
 | `output/translations/1timothy_02.json` | 15 | `13af01b7fb145a1425eb85bc58a57d6a7fd440689f65c36822957f9dd5bb7e31` | `d03c3a1a` |
-| `output/translations/1timothy_03.json` | 16 | `53c0e7becdd329cd61c2322e3fe86ddba55536b4f09f04edeb0bcde83568973b` | `6d15bb1a` |
+| `output/translations/1timothy_03.json` | 16 | `2e146945b5648ca710d76d08156f3696d2a6e9b1ae195e95c094e295e0286efd` | `6d15bb1a` |
 | `output/translations/1timothy_04.json` | 16 | `7cf0d5d9c7689f2a37ee5ff14bc74654545444d808cac099e02a535d3552e906` | `ee44245d` |
 | `output/translations/1timothy_05.json` | 25 | `6eff4d17f12e102ac6762faac61bf327cb8cd3ce705e555bb0a648c28bf9eba2` | `eccf43cb` |
 | `output/translations/1timothy_06.json` | 21 | `821f9fc6ba9fc08da63dfcd074cc18e35bbe36fc48daaf1d7cad308ee94fabf9` | `17f2100f` |
