@@ -3172,7 +3172,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/ezekiel_01.json` | `9c525109ebfbdea4e7fc5789f84585377a8077649901afe6e133a1e141321eed` |
+| `output/translations/ezekiel_01.json` | `b0a493eec9e729a9487998d2e4ce9a9d016dbadb818eb5c31b22749f8a824815` |
 | `output/translations/ezekiel_02.json` | `9ebb35bb24dcb57d6454221c873800babf60912331a332bbf546bed16f0fae32` |
 | `output/translations/ezekiel_03.json` | `84207d66560243dc918ecc7a7226a9f738e71e3b37e8e8d26a0a207f8976057e` |
 | `output/translations/ezekiel_04.json` | `111bb7426b3a7082bf4fcca80bb63322a41508a14b3c48ba0aa193127ac0db41` |
@@ -3180,25 +3180,25 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/ezekiel_06.json` | `891c1d1bdf4d401fdf60f256fa73c84107c125df15e51805feb13774c2a6e660` |
 | `output/translations/ezekiel_07.json` | `378af2737e11289f75f8172da03c3e2d3116a9865ffb8c2cd30efceb1b3fae10` |
 | `output/translations/ezekiel_08.json` | `b94718d4f0d6cfb548d924095f690a6d2330af4bcf5939ae3a67896e43d0099c` |
-| `output/translations/ezekiel_09.json` | `9707d755b9dab0db189672c7858ec9b424fd484d8813606f04d747616543587f` |
+| `output/translations/ezekiel_09.json` | `c02a5d5edd8934d85df7d93a523cbf0e8c884d9a79166e475f42309be4da6a40` |
 | `output/translations/ezekiel_10.json` | `0fa69861ae3a1b647ef1202224515352e2126137c27c663ed337b8138b6404e3` |
-| `output/translations/ezekiel_11.json` | `1ec66062138e7b1b79bd230dbf02bea1b3ff1dcc681a4d82cae3dbcc61fee59b` |
-| `output/translations/ezekiel_12.json` | `a1a29f18695d32a778e421d5be465d1566059e7459c6d90f6534559c0b5434b4` |
+| `output/translations/ezekiel_11.json` | `28213a94a8376c21e10a007a5b87c3dad019d64baecf232665211efa5e1c22b3` |
+| `output/translations/ezekiel_12.json` | `a68ecc00d324d6a04afeead4b193bed2595ffa076edd0ffee3ffbb855df5896e` |
 | `output/translations/ezekiel_13.json` | `338f0b0cbb70547cd6cef40ca32df0051a8432c2981711c631266b35622f5c24` |
 | `output/translations/ezekiel_14.json` | `ba9eb610b39f095a6a18e08b9cb814d4a6936689a12b13fc4bbc898bab9b5532` |
 | `output/translations/ezekiel_15.json` | `0cfaa6030b0e1dc739f940d93e9a59452839e530a33d22fc46ff656fc7c973a0` |
-| `output/translations/ezekiel_16.json` | `b82c18c8c9c230f14823a45db0170484aad49fcbbad004b07b374918e98df8c0` |
+| `output/translations/ezekiel_16.json` | `78494f668c3308af18678a8918abd1ffd0ba4d673f60aef2e9dcb1fa970fcfc1` |
 | `output/translations/ezekiel_17.json` | `55c5ef51e5ff91148e617140348874b56dc4773bd727a6465f2d54ee79ce1ea5` |
-| `output/translations/ezekiel_18.json` | `c470ae0071d943a2099234ddfd0fbb01bfcd0eb9e53104c5fae40219e85d3572` |
+| `output/translations/ezekiel_18.json` | `c9f495411c47cff43a1a7e054bd8730452ca27720b149d9cd7d6b4af4a66fa5b` |
 | `output/translations/ezekiel_19.json` | `4535499ec7ccc820d5736d8063c2116f08d1415f7a75cfb0ab74209271ee7ef8` |
 | `output/translations/ezekiel_20.json` | `7767fda24441a563d88bfb12c9cfa11ece0c3b891c345d560fa24dfb1d521943` |
 | `output/translations/ezekiel_21.json` | `a445991430f8a0e4404e30a89a17838ee83e1423a463636e20ffecf1712e5e53` |
 | `output/translations/ezekiel_22.json` | `20d3327356da80a8f75bc75e9b394fe9e420a575398f936575bc981c62cfe5d1` |
 | `output/translations/ezekiel_23.json` | `32c9abdf7db33ced2c7005bdf269644f5b3c445615dd29d6ab9c1e8fe828c355` |
-| `output/translations/ezekiel_24.json` | `7fe34d7a2f1d9053d026f6f43a8cb8a23595a9f371aa2fbe83ce4816daa6c732` |
+| `output/translations/ezekiel_24.json` | `2fdd80a0d06aea2cd97ef418e7985c0d950521d42ff05be00e81bd5863ab8003` |
 | `output/translations/ezekiel_25.json` | `8a8206896f13273d388f09cce34067476a07972ba0d9158ef380c32f50676fde` |
 | `output/translations/ezekiel_26.json` | `c6ab1cbac2c7b5000a40980dd0716f4802a2aa545aca83cdbb77f4b812402fc3` |
-| `output/translations/ezekiel_27.json` | `394375d567244170a490dd1ab3d7bf8b66dbe261a4f03f1d6571d6543e10b58a` |
+| `output/translations/ezekiel_27.json` | `f7390e2d072ff7f552c48c2d000ae35adeed9b8d92d9f5596938c5d629fbb03f` |
 | `output/translations/ezekiel_28.json` | `e1d5c90c1c6be9ab2deccf2e56d59622afed56884caf221c17b604ba3b8e47f7` |
 | `output/translations/ezekiel_29.json` | `c28f7129fdcbb301aebd311b65e118a528b2e3f535c36989f8d609e244e0211e` |
 | `output/translations/ezekiel_30.json` | `4d39dea66fd03da5e19f318ee921b2bd9d603ad91399c72548fc97e0464cf782` |
@@ -3209,15 +3209,15 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/ezekiel_35.json` | `03307308b5f78ddf8654b93c2e1decaeae9adb884c71b0ab4277cf2ff33943f1` |
 | `output/translations/ezekiel_36.json` | `82e430be22de6d83878b62c56218b0a5ea06d525b96f800626f10b0de2c73705` |
 | `output/translations/ezekiel_37.json` | `4178c704b20dfa0611509120a1ebce94c822f96b787a7c44010b1b3d78339410` |
-| `output/translations/ezekiel_38.json` | `b63c21f5c68775919e11185538f8e1ce7d510600a2a4c8f026b584a4083d6a9d` |
+| `output/translations/ezekiel_38.json` | `bffb788992cb366c1824e250eabedfb8f459daa4db9c83aca2091b779cffea35` |
 | `output/translations/ezekiel_39.json` | `6f8fcc32fd9860a729953d34eea5e351be4b81f55137d413db3053856c31be65` |
 | `output/translations/ezekiel_40.json` | `1ee41a6c6e9c29fda3c4943b3e3ae04f32611b2e2f1d8af8879d63b2288fa9ac` |
 | `output/translations/ezekiel_41.json` | `aa4d5644b22432f40273713e247d464f6faaf73ff218682ae9bf27dd06d8ddbc` |
 | `output/translations/ezekiel_42.json` | `2f1a62908da46b50a32d590e65449b07f3af18c90a77520b29840ef0c62a7eba` |
 | `output/translations/ezekiel_43.json` | `9a74dce1122dd2075fb46e3032060a9d7613b31ba39c69e6b65b4f0b3b586e63` |
 | `output/translations/ezekiel_44.json` | `7cb04f04edbc5afed113c1754ab8daabd5fcac35aadd4b9d9e4d5e81b63527f2` |
-| `output/translations/ezekiel_45.json` | `de3ffa5367562576a6b4b54e3a011b01861ed80ae0377d39360f2de852a9de91` |
-| `output/translations/ezekiel_46.json` | `f54f911d5fdf531e6ddd75d94635a452f97aa8ea8d21ce23f0dc54250226c785` |
+| `output/translations/ezekiel_45.json` | `30e55ca1dc50ebc89bbd22d58651810b74acb24e3edcaf81c791157faca63315` |
+| `output/translations/ezekiel_46.json` | `706d838139d596cd4b2c0b63e11b21862272eda47d3c98ae9cc4339c636ce710` |
 | `output/translations/ezekiel_47.json` | `64faf79daddf56a6ce2bc0f9805eb9b2610f0461e772459a28626cb558067c8b` |
 | `output/translations/ezekiel_48.json` | `fa36d499ce3693fde1a535d237090a4f105fd970063eb7f3ba2b54ac304a2db1` |
 
