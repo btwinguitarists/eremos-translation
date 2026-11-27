@@ -9,6 +9,7 @@
 | Back-translation | ✅ clean | [back_translation_proverbs_21.md](back_translation_proverbs_21.md) |
 | Thai-summary coverage (info) | ✅ clean | [summary_coverage_proverbs_21.md](summary_coverage_proverbs_21.md) |
 | Claim consistency (hallucination, advisory) | ✅ clean | [claim_consistency_proverbs_21.md](claim_consistency_proverbs_21.md) |
+| unfoldingWord wording (license gate) | ✅ clean | [uw_wording_proverbs_21.md](uw_wording_proverbs_21.md) |
 
 ## Ship criterion
 

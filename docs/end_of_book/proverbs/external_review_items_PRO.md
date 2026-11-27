@@ -39,3 +39,5 @@ Prov 8:22 (`יְהוָה קָנָנִי רֵאשִׁית דַּרְכּוֹ`) is
 The "rod" proverbs (13:24 "he who spares the rod hates his son"; 22:15; 23:13–14; 29:15) are rendered faithfully (ไม้เรียว) with a Tier-2 footnote framing the rod as *loving discipline/correction* (מוּסָר) — explicitly not abuse — tied to God's loving discipline (3:11–12 / Heb 12:6).
 
 **Question:** Is the pastoral footnote framing of the "rod" proverbs (loving correction, not harshness) appropriate and clear for a Thai readership, given contemporary sensitivity around corporal discipline?
+
+**Editorial update, November 2026.** In May the pastoral notes were present at 13:24 and 23:13–14. The same distinction between loving discipline and abuse is now explained at 22:15 and 29:15 as well.
