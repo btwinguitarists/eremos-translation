@@ -322,7 +322,7 @@ _This reader edition shows the Thai translation and the contextual summary (บ�
 
 **6** รวมทั้งอันนาสผู้เป็นมหาปุโรหิต คายาฟาส ยอห์น อเล็กซานเดอร์ และทุกคนที่สืบเชื้อสายจากตระกูลมหาปุโรหิต
 
-> _บริบท: อันนาสถูกปลดจากตำแหน่งมหาปุโรหิตโดยวาเลริอุส กราตุส ผู้ปกครองโรมันในปี ค.ศ. 15 แต่ชาวยิวยังคงถือว่าเขาเป็นมหาปุโรหิตที่ถูกต้องตามกฎหมายพระคัมภีร์ (เลวีนิติ 21:10 บัญญัติให้ดำรงตำแหน่งจนสิ้นชีวิต) คายาฟาสซึ่งเป็นบุตรเขยของอันนาส เป็นมหาปุโรหิตอย่างเป็นทางการของโรมันในเวลานั้น (ค.ศ. 18-36) เหตุการณ์นี้เกิดขึ้นในปี ค.ศ. 30-31 ครอบครัวมหาปุโรหิตเดียวกันที่ยืนขึ้นต่อสู้พระเยซู (ลูกา 3:2; ยอห์น 18:13, 24) บัดนี้ตั้งตนต่อสู้พยานของพระองค์ โครงสร้างอำนาจเดิม ปฏิกิริยาเดิม_
+> _บริบท: ลูกาเรียกอันนาสว่ามหาปุโรหิตและเอ่ยชื่อคายาฟาสอยู่ในกลุ่มผู้มาประชุมด้วย ยอห์น 18:13 ระบุว่าอันนาสเป็นพ่อตาของคายาฟาส ตามบันทึกของโยเซฟุส มีผู้ดำรงตำแหน่งสามคนระหว่างอันนาสกับคายาฟาส_
 
 **7** พวกเขาให้ท่านทั้งสองยืนอยู่ตรงกลาง แล้วไต่สวนว่า “พวกท่านกระทำสิ่งนี้ด้วยฤทธิ์อำนาจใด หรือในนามของผู้ใด?”
 
@@ -3322,11 +3322,11 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 |---|---|
 | `output/translations/acts_01.json` | `b9bb9c302c1d5e1c6a6d9951649f96e1a86df0d479924f74b59693aebe1ce4b1` |
 | `output/translations/acts_02.json` | `5d4e96b389a31d8889e8d1c43a72fba8a1a81519b4db957e88b8c27ece3740f2` |
-| `output/translations/acts_03.json` | `0b629854deee2ed8afd736411d6381a355ad34256aa22910bbbb6d3e22bfaada` |
-| `output/translations/acts_04.json` | `2faf2ceea3e6f0023687a32b3bebba99a824965265b2e97d288ea64aafd52833` |
+| `output/translations/acts_03.json` | `e8caac1177ea83b8cf7224b9afc2bb352237293e8a278960148dcfbcbf2c7367` |
+| `output/translations/acts_04.json` | `b2971f25f6c6af991be7636c7564e3f61c995857cc25f1dceb1f71addffc8a1c` |
 | `output/translations/acts_05.json` | `a7ae11b9ea8954062ac048a1664309af847a3639961604001a44dd77f7e43515` |
 | `output/translations/acts_06.json` | `93fcefcf17ced2ac9dd944bda25aa041b12ba69b79d5d513de0eaa7e121e887d` |
-| `output/translations/acts_07.json` | `124f5791dbb62b3523735b4d77fa9d4ee078b537356ee4184286a0d335f39c5a` |
+| `output/translations/acts_07.json` | `b98187f3cd83c375265f2c777f14d9eb56acf05eacac03a1b1cb2c2650bc3002` |
 | `output/translations/acts_08.json` | `d0ab3f28e5d8e52f77a982ac299788d5564cf7ce54d780c60fd99043cb1b0d80` |
 | `output/translations/acts_09.json` | `7131d8e5e44483e582cd224e5087d77776aa6a9814e2dcd48efe0de49d2c617b` |
 | `output/translations/acts_10.json` | `3493ed3fbd90c3449d8c3c49056ac11be86417505d058be60d7575b8c5847f7d` |
