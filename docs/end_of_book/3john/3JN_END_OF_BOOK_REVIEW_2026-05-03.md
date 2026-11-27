@@ -340,7 +340,7 @@ Eremos correctly follows SBLGNT (15-verse numbering) per RULES §0. The translat
 | ἀγαθοποιέω + κακοποιέω → ทำดี + ทำชั่ว | v.11 → **ทำดี + ทำชั่ว**. Compliant. | **STABLE** (corpus precedent) |
 | 'οὐχ ἑώρακεν τὸν θεόν' Johannine spiritual-perception | v.11 → **ไม่ได้เห็นพระเจ้าเลย**. Compliant with 1 JN 3:6; 4:20. | **STABLE** (extends 1JN) |
 | εἰρήνη → สันติสุข | v.15 → **สันติสุข**. Compliant. | **LOCKED** (corpus precedent) |
-| 'στόμα πρὸς στόμα' Hebraic face-to-face idiom | v.14 → **ต่อหน้ากัน**. Compliant with 2 JN 1:12 (cf. NUM 12:8 LXX). | **STABLE** (extends 2JN) |
+| 'στόμα πρὸς στόμα' Hebraic face-to-face idiom | v.14 → **ต่อหน้ากัน**. 2 John 1:12 also has στόμα πρὸς στόμα. Numbers 12:8 in Greek has στόμα κατὰ στόμα. | **STABLE** (extends 2JN) |
 | `inclusion_variants_absent_verses_2026-04.md` | **N/A** in 3 JN — no SBLGNT-omits-mainstream-includes variants; the v.14/v.15 numbering split is a modern-edition convention, not a textual-omission. See §11 above. | **LOCKED (N/A)** |
 | `historic_present_2026-04.md` | N/A — 3 JN is a personal-pastoral letter, not narrative. | **LOCKED (N/A)** |
 | Vocative kyrie / didaskale register | N/A — no vocative κύριε in 3 JN. | **LOCKED (N/A)** |
