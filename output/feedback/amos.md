@@ -771,7 +771,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/amos_01.json` | `cc01f942330ba305a23a6caabaafca82677b55826a60c1aba65b6a5e684a141c` |
+| `output/translations/amos_01.json` | `17850018422cc3dd798a41dbf2d00ce0b5a82f701f9e241a923cac7dc12d945e` |
 | `output/translations/amos_02.json` | `175e45c684491a4840d73e55d8e1fdf1c735e29210246005a7ce6d7966cdd488` |
 | `output/translations/amos_03.json` | `bb6360d24081a2b6d6114d7be3106bc95ba96bfc40a4c0f9aab38281647f9cc0` |
 | `output/translations/amos_04.json` | `4c5d98387fabba4e9f8f1f624896c34e0d7614410470a04f8a788cf3a2fbe146` |
@@ -779,5 +779,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/amos_06.json` | `7080a4b26094d9961b4bbb336f099c2811e84c0c423b339e66db76231f3bc536` |
 | `output/translations/amos_07.json` | `c1c5dcd0d39333685c87026833a0c2053aaf82d49a3586db3a012c6bd0e9fb5f` |
 | `output/translations/amos_08.json` | `4fc3c1a912146a78f9fa380c6533c8cbc76854089ee052b28e08f9b8000cf98a` |
-| `output/translations/amos_09.json` | `1f3f14e1a8e629940a18a26981200dcef6117b866ec485b379c291b2c0aa157d` |
+| `output/translations/amos_09.json` | `1887739e610014dc0591092a55fb02f477035c133a381d9aadff95b5d53e010c` |
 
