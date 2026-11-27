@@ -92,7 +92,7 @@ Acts uses πνεῦμα heavily but almost exclusively in the **Holy Spirit** se
 ### Pauline corpus (anticipated)
 - **1 Thess 5:23**: πνεῦμα + ψυχή + σῶμα triad → **จิต + จิตวิญญาณ + กาย**. Thematic-trichotomy preserved.
 - **1 Cor 2:11, 5:3, 5:5, 14:14**: Paul's anthropological πνεῦμα uses cluster. When in parallel with ψυχή (e.g., 1 Cor 15:44–46 ψυχικόν/πνευματικόν — adjective pair): **จิตวิญญาณ / จิต** or distinct descriptive forms per verse.
-- **Rom 8:16**: "the Spirit [αὐτὸ τὸ πνεῦμα] witnesses to our spirit [τῷ πνεύματι ἡμῶν]" — Holy Spirit / human spirit contrast. Thai: **พระวิญญาณ** + **จิต** of ours. The Holy-Spirit lock handles the first; this doc handles the second.
+- **Rom 8:16**: "the Spirit [αὐτὸ τὸ πνεῦμα] bears witness with our spirit [τῷ πνεύματι ἡμῶν]" — Holy Spirit / human spirit contrast. Thai: **พระวิญญาณ** + **จิตวิญญาณของเรา**. The Holy-Spirit lock handles the first; this doc handles the second.
 
 ### Hebrews
 - **Heb 4:12**: "dividing soul and spirit" ψυχή + πνεῦμα → **จิตวิญญาณ + จิต** (preserve two-word distinction per the parallelism-rule above).

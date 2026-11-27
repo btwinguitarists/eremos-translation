@@ -54,7 +54,7 @@ The narrator varies the divine name across the four occurrences (יהוה → י
 
 The Pi'el of מָנָה for divine-subject appointment also occurs in:
 
-- **Daniel 1:5, 10, 11** — the king of Babylon "appoints" food and overseers for Daniel; the appointment-pattern carries from divine to royal sovereignty. Render as **กษัตริย์ทรงจัดเตรียม** for the royal-subject (Rachasap per `ot_register_policy §2.2` for foreign emperor).
+- **Daniel 1:5, 10** — the king assigns the food. Use royal register when the king is the subject. At **1:11** the chief eunuch appoints the attendant, and the Thai uses แต่งตั้ง for this official’s action.
 - **Daniel 3:12** — the king "appoints" Shadrach, Meshach, Abednego over Babylonian provinces.
 - **1 Chronicles 9:29** — Levitical-officials "appointed" over temple goods. Render with plain Thai (priestly appointments do not get Rachasap per `ot_register_policy §2.2`).
 

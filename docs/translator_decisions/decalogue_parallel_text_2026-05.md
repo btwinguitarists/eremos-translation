@@ -30,7 +30,7 @@ Where the Hebrew differs (Sabbath rationale, "well-with-you" expansion, coveting
 | 7th cmd (adultery) | לֹא תִּנְאָף | (same) | ✓ identical | identical Thai |
 | 8th cmd (theft) | לֹא תִּגְנֹב | (same) | ✓ identical | identical Thai |
 | 9th cmd (witness) | לֹא תַעֲנֶה בְרֵעֲךָ עֵד שָׁקֶר | DEU עֵד שָׁוְא (DEU uses שָׁוְא, EXO שָׁקֶר) | ≈ near-identical (synonyms) | preserve nuance: שָׁקֶר → เท็จ, שָׁוְא → เท็จ (Thai converges; nuance is in Hebrew witness) |
-| 10th cmd (covet) | EXO: house→wife→servants→ox→ass→anything | DEU: wife→(field added)→house→servants→ox→ass→anything | ✗ DEU reorder + adds field | preserve DEU reorder + field-addition |
+| 10th cmd (covet) | EXO: house→wife→servants→ox→ass→anything | DEU: wife→house→(field added)→servants→ox→ass→anything | ✗ DEU reorder + adds field | preserve DEU reorder + field-addition |
 
 ---
 
@@ -90,7 +90,7 @@ The Decalogue is cited eight times in the NT. Each citation should use the locke
 | Matt 5:27 | 7th (adultery) | "อย่าล่วงประเวณี" |
 | Matt 19:18–19 // Mark 10:19 // Luke 18:20 | 6th + 7th + 8th + 9th + 5th (rich young ruler) | identical to §3 forms |
 | Rom 7:7 | 10th (covet) | "อย่าโลภ" |
-| Rom 13:9 | 7th + 6th + 8th + 9th + 10th (compressed list) | each per §3 |
+| Rom 13:9 | 7th + 6th + 8th + 10th (four prohibitions in the selected text) | each per §3 |
 | Eph 6:2–3 | 5th (honor parents) — quotes DEU form | "ยืนยาว" (per §3.2) |
 | Jas 2:11 | 6th + 7th paired | identical to §3 forms |
 

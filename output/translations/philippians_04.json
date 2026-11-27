@@ -173,12 +173,12 @@
         {
           "greek": "τῇ προσευχῇ καὶ τῇ δεήσει",
           "thai": "การอธิษฐานและการวิงวอน",
-          "rationale": "Doublet (per uW figs-doublet). προσευχή → การอธิษฐาน (general prayer). δέησις → การวิงวอน (specific-petition prayer). Both retained for the rhetorical doublet — both kinds of prayer. Matches PHP 1:4 δέησις rendering."
+          "rationale": "In this verse προσευχή gives การอธิษฐาน and δέησις gives การวิงวอน. At 1:4 the Thai expresses δέησις with คำอธิษฐาน and อธิษฐาน."
         },
         {
           "greek": "μετ’ εὐχαριστίας",
           "thai": "พร้อมด้วยการขอบพระคุณ",
-          "rationale": "εὐχαριστία → การขอบพระคุณ (Pauline-corpus-standard). The participial ‘with-thanksgiving’ qualifies all the praying — gratitude is the disposition, not just an additional act."
+          "rationale": "μετ’ εὐχαριστίας is a prepositional phrase and becomes พร้อมด้วยการขอบพระคุณ. It describes how to bring requests to God without specifying a separate time for thanksgiving."
         },
         {
           "greek": "τὰ αἰτήματα ὑμῶν γνωριζέσθω",
@@ -271,7 +271,7 @@
           "rationale": "λογίζομαι → คิดถึง / จดจ่อ (consider, calculate, dwell-mentally-on). Plural-imperative. Pauline-discipline of the mind: deliberate-mental-focus on virtuous-content."
         }
       ],
-      "notes": "TWO HAPAX: προσφιλής + εὔφημος. Greek-philosophical virtue-list adapted by Paul. The eight items + the bridging ‘if-anything’ pair = nine items total. Greco-Roman ethical-tradition's standard form, enlisted into Pauline discipleship."
+      "notes": "Six descriptions begin with ὅσα. Two further clauses begin with εἴ τις, giving eight elements before the final instruction to consider these things. The Thai uses related expressions for εὔφημα (‘of good repute,’ น่าสรรเสริญ) and ἔπαινος (‘praise,’ ควรแก่การยกย่อง)."
     }
   },
   {
@@ -378,7 +378,7 @@
         {
           "greek": "μεμύημαι",
           "thai": "ได้เรียนรู้เคล็ดลับ",
-          "rationale": "HAPAX in NT (μυέομαι, only here). Greek mystery-religion technical-term: ‘to-be-initiated-into-the-mysteries.’ The participle is perfect-passive: ‘I-have-been-initiated-and-remain-so.’ Per uW: ‘learned the secret.’ Render ‘ได้เรียนรู้เคล็ดลับ’ — captures the mystery-revelation sense without invoking Thai-Buddhist mystery-rite vocabulary. The thai_summary explains the mystery-religion-borrowed term. Adding to glossary."
+          "rationale": "HAPAX in NT (μυέομαι, only here). Greek mystery-religion technical-term: ‘to-be-initiated-into-the-mysteries.’ The verb is first-person singular perfect-passive indicative: ‘I-have-been-initiated-and-remain-so.’ Per uW: ‘learned the secret.’ Render ‘ได้เรียนรู้เคล็ดลับ’ — captures the mystery-revelation sense without invoking Thai-Buddhist mystery-rite vocabulary. The thai_summary explains the mystery-religion-borrowed term. Adding to glossary."
         },
         {
           "greek": "χορτάζεσθαι καὶ πεινᾶν",
@@ -408,10 +408,10 @@
         {
           "greek": "ἐν τῷ ἐνδυναμοῦντί με",
           "thai": "โดยทางพระองค์ผู้ทรงเสริมกำลังข้าพเจ้า",
-          "rationale": "Per uW writing-pronouns: the substantival-participle ‘the-strengthening-one’ = Christ. Make subject explicit through ราชาศัพท์ ‘พระองค์ผู้ทรงเสริมกำลัง’ — Thai naturally requires a subject pronoun and ทรง prefix signals the divine-Christ as referent (without using ‘พระคริสต์’ verbatim, preserving the Greek's anonymous-substantival-form)."
+          "rationale": "The substantival participle names the giver of strength by what he does. พระองค์ผู้ทรงเสริมกำลังข้าพเจ้า retains this form and uses royal language for the person understood in context."
         }
       ],
-      "notes": "Famous Pauline verse, often-quoted-out-of-context. The thai_summary clarifies the contentment-in-any-state context that the v.11-12 setup makes clear in the Greek. Christ-empowered self-sufficiency."
+      "notes": "In verses 11–12 Paul describes contentment in very different circumstances. The selected Greek refers to ‘the one who strengthens me.’ Westcott–Hort, Tregelles and NA28 also leave the person unnamed, while Robinson–Pierpont adds Χριστῷ. The Thai summary understands this strength as coming from Christ."
     }
   },
   {
@@ -458,7 +458,7 @@
         {
           "greek": "εἰς λόγον δόσεως καὶ λήμψεως",
           "thai": "ในเรื่องการให้และการรับ",
-          "rationale": "Per uW: ‘giving and receiving’ — financial + non-financial reciprocal exchange. λῆμψις → การรับ (HAPAX in NT, only here, accusative-noun form of λαμβάνω). δόσις → การให้. Render ‘การให้และการรับ’ for the doublet. Adding λῆμψις to glossary."
+          "rationale": "δόσεως and λήμψεως are genitive singular nouns for giving and receiving. λῆμψις relates to the verb λαμβάνω. Both are attached to λόγον, an account. Verse 17 returns to the readers' account, while 3:7–8 uses different words for gain and loss."
         }
       ],
       "notes": "TWO HAPAX: Φιλιππήσιος + λῆμψις. Paul's commercial-accounting metaphor again (cf. PHP 3:7-8). The Philippians as the only-church partnering-financially in early-ministry — establishing their unique-place in Paul's heart."
@@ -518,7 +518,7 @@
     "translation": {
       "thai": "ข้าพเจ้ามีครบทุกสิ่งและเหลือล้น ข้าพเจ้าอิ่มเอมแล้ว เพราะได้รับสิ่งที่พวกท่านส่งผ่านเอปาฟรอดิทัส เป็นกลิ่นหอม เป็นเครื่องบูชาที่ทรงรับ เป็นที่พอพระทัยพระเจ้า",
       "thai_literal": null,
-      "thai_summary": "เปาโลใช้ภาษาของเครื่องบูชาในพันธสัญญาเดิมเพื่อบรรยายของถวายของชาวฟีลิปปี — ‘กลิ่นหอม’ ‘เครื่องบูชาที่ทรงรับ’ ‘ที่พอพระทัย’ ทั้งสามคำนี้เป็นสำนวนซ้ำ ๆ ในเลวีนิติและกันดารวิถีฉบับกรีกโบราณ (เซปทัวจินต์) สำหรับเครื่องเผาบูชาที่พระเจ้ายอมรับ (เลวีนิติ 1:9 เป็นต้น) เปาโลกล่าวว่าของถวายฝ่ายวัตถุที่ส่งให้เขาเป็นเหมือนกับเครื่องบูชาที่ถวายแด่พระเจ้าเอง — การให้แก่ผู้รับใช้พระคริสต์ก็คือการถวายแด่พระคริสต์",
+      "thai_summary": "เปาโลเปรียบของที่ชาวฟีลิปปีฝากเอปาฟรอดิทัสมาให้กับเครื่องบูชา คำว่า “กลิ่นหอม” สะท้อนสำนวนที่ใช้กล่าวถึงเครื่องบูชาในเลวีนิติ 1:9, 13 และ 17 ฉบับกรีก เปาโลขยายภาพนั้นโดยเรียกของที่เขาได้รับว่าเป็นเครื่องบูชาที่พระเจ้าทรงรับและพอพระทัย",
       "key_decisions": [
         {
           "greek": "ἀπέχω δὲ πάντα καὶ περισσεύω",
@@ -561,7 +561,7 @@
           "rationale": "Pauline genitive-rich-language: ‘according-to his-wealth in-glory.’ The ‘in-glory’ qualifies the riches — divine-glorious-wealth. Render ‘ความมั่งคั่ง ... ในพระสิริ’ — preserves the divine-glory dimension."
         }
       ],
-      "notes": "Often-quoted Pauline-promise. Conditional-context: ‘my God’ — Paul's God whom they have just supplied — will-now-supply them in turn. Reciprocal-divine-economy."
+      "notes": "The Philippians supplied Paul's need through Epaphroditus, and he described their gift as a sacrifice pleasing to God. Paul now speaks with confidence that his God will meet their needs. He attaches no stated condition or exchange rate to that assurance."
     }
   },
   {
@@ -628,7 +628,7 @@
     "translation": {
       "thai": "ธรรมิกชนทุกคนฝากความคิดถึงมายังพวกท่าน โดยเฉพาะอย่างยิ่งคนที่อยู่ในราชสำนักของซีซาร์",
       "thai_literal": null,
-      "thai_summary": "หมายเหตุประวัติศาสตร์ที่น่าสนใจ — มีผู้เชื่อในจักรพรรดิเอง! ‘ราชสำนักของซีซาร์’ (Caesar's household) ในสมัยนั้นไม่ได้หมายถึงเฉพาะครอบครัวของจักรพรรดิ แต่หมายถึงข้าราชการ ทาส และคนรับใช้ทุกคนที่ทำงานในวังของจักรพรรดิ — อาจมีหลายร้อยคนหรือหลายพันคน นี่บ่งบอกว่าข่าวประเสริฐได้แทรกเข้าไปแม้ในศูนย์กลางของอำนาจโรมัน — สอดคล้องกับสิ่งที่เปาโลกล่าวในข้อ 1:13 ว่าทหารองครักษ์ปรีทอเรียมทั้งหมดได้ยินว่าเปาโลถูกจองจำเพราะพระคริสต์",
+      "thai_summary": "หมายเหตุประวัติศาสตร์ที่น่าสนใจ — มีผู้เชื่ออยู่ในราชสำนักของจักรพรรดิ! ‘ราชสำนักของซีซาร์’ (Caesar's household) ในสมัยนั้นไม่ได้หมายถึงเฉพาะครอบครัวของจักรพรรดิ แต่หมายถึงข้าราชการ ทาส และคนรับใช้ทุกคนที่ทำงานในวังของจักรพรรดิ — อาจมีหลายร้อยคนหรือหลายพันคน นี่บ่งบอกว่าข่าวประเสริฐได้แทรกเข้าไปแม้ในศูนย์กลางของอำนาจโรมัน — สอดคล้องกับสิ่งที่เปาโลกล่าวในข้อ 1:13 ว่าทหารองครักษ์ปรีทอเรียมทั้งหมดได้ยินว่าเปาโลถูกจองจำเพราะพระคริสต์",
       "key_decisions": [
         {
           "greek": "οἱ ἐκ τῆς Καίσαρος οἰκίας",
@@ -661,7 +661,7 @@
           "rationale": "Per uW figs-synecdoche: ‘your spirit’ as synecdoche for the whole-person. Render literal ‘กับจิตวิญญาณของพวกท่าน’ — Thai readers understand the synecdoche; the ‘spirit’ in benediction-context is naturally personal-recipient. Note: SBLGNT-critical-text omits the post-verse closing ἀμήν that some-mss include — silent-omission per RULES §5 inclusion-variant convention (mainstream evangelical Bibles BSB/ESV/NIV all also omit at this position; many-mss-readings vary)."
         }
       ],
-      "notes": "FINAL VERSE OF PHILIPPIANS. Standard Pauline grace-benediction. SBLGNT omits the post-verse ἀμήν that appears in some manuscripts; per RULES §5 inclusion-variant convention this is a silent-omission case (mainstream critical-text consensus matches our practice — BSB/ESV/NIV all omit). Documented in `output/textual_variants/_resolved/philippians_04_final_amen.md`."
+      "notes": "The Thai follows the blessing on ‘your spirit’ in SBLGNT, Westcott–Hort, Tregelles and NA28. Robinson–Pierpont has ‘all of you’ and adds Ἀμήν at the end. The Amen in verse 20 closes its own doxology. These are comparisons of printed editions."
     }
   }
 ]

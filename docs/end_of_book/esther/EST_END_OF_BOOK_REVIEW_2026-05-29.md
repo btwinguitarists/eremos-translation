@@ -1,5 +1,9 @@
 # Esther — End-of-Book Review
 
+**Editorial clarification, 27 November 2026.**
+
+- **Esther 5:6.** The phrase בְּמִשְׁתֵּה הַיַּיִן locates the conversation as the king and Esther drink wine. The Thai reads ขณะดื่มเหล้าองุ่น, illustrating the range of renderings for מִשְׁתֶּה in this book.
+
 **Date:** 2026-05-29
 **Scope:** All 10 chapters of Esther (167 verses); `glossary.json`; `docs/translator_decisions/` corpus (~98 docs through the Nehemiah end-of-book audit).
 **Trigger:** EST 10 shipped (commit `ac16d1c9`); per `docs/END_OF_BOOK_CHECKLIST.md`. **Sixteenth OT book in the corpus** and **the third post-exilic / Persian-court book**, immediately following Ezra and Nehemiah. Esther inherits both books' locks and re-exercises every Persian-court surface — but at maximum intensity: where Ezra met the Persian king mostly *inside reported letters* and Nehemiah met him in a single audience scene, **Esther's entire plot unfolds inside the court of Ahasuerus (Xerxes), who is the central royal figure of the book.** So the foreign-monarch register question that Ezra *deferred to a corpus decision* and Nehemiah *answered (full ราชาศัพท์)* is here exercised continuously across 10 chapters — and Esther resolves it the **same way Nehemiah did**, against Ezra. Esther is also unique in two ways no prior book has been: it is the **only book in the Hebrew Bible that never names God** (no Tetragrammaton, no Elohim, no Adonai anywhere in the rendered text), and it is the corpus's first encounter with a **named human arch-villain** (Haman) and a **festival-institution etiology** (Purim).
@@ -15,7 +19,7 @@
   - **§12 — MT/LXX disposition: the Additions to Esther, the most prominent deuterocanonical expansion in any book the corpus has shipped.** The LXX Esther carries **six large Additions (A–F, ~107 verses)** — Mordecai's dream, the two royal decree-texts, the prayers of Mordecai and Esther, Esther's audience, the dream's interpretation — which insert the explicit divine-name and prayer language the Hebrew pointedly withholds, and which Catholic/Orthodox canons include. Eremos translates **MT only** and excludes them, documented in a **single** note at 1:1 (`ไม่รวม 'ส่วนเพิ่มเติมของเอสเธอร์' ในฉบับ LXX… ตาม RULES §0`). Like Ezra's 1 Esdras and Nehemiah's Esdras B, this sits below the `mt_vs_lxx_textual_variant_handling_2026-05.md` §2.3 disclosure floor → non-gap — but the Additions are *more* canonically visible than 1 Esdras and **directly bear on the book's defining feature** (they supply the God Esther omits), so the disposition is worth recording explicitly. See §12.
   - **§13 — the hidden-acrostic Tetragrammaton (a Masoretic scribal feature unique to Esther) is not mentioned anywhere.** The MT of Esther famously encodes the divine name YHWH in four acrostics (1:20, 5:4, 5:13, 7:7) and the divine self-designation EHYH once (7:5) — the one place the Hebrew "smuggles in" the name the book otherwise refuses to speak, a feature several MT manuscripts mark with enlarged/majuscule letters. No `key_decision` or `note` across the 10 chapters mentions it. This is below the disclosure floor and translating the acrostic into Thai is impossible — but given that Esther's no-divine-name silence is itself a flagged feature (§1), Ben may want a single reader-facing note acknowledging the scribal tradition. See §13.
 - **Three new corpus docs recommended,** two of them **overdue carry-forwards** from Ezra and Nehemiah:
-  - **`persian_achaemenid_administrative_titles_2026-05.md`** (§10) — carry-forward from Ezra §6 + Nehemiah §9, **still unwritten**. Esther adds the satrap/governor/official tier (`สมุหเทศาภิบาล`/`ผู้ว่าราชการ`/`เจ้านายของมณฑล`, 3:12 = 8:9 = 9:3) and the `דָּת` tier (§9).
+  - **`persian_achaemenid_administrative_titles_2026-05.md`** (§10) — carry-forward from Ezra §6 + Nehemiah §9, **still unwritten**. Esther adds the satrap/governor/official tier (`สมุหเทศาภิบาล`/`ผู้ว่าราชการ`/`เจ้านายของมณฑล`, the third title varies at 3:12, 8:9 and 9:3) and the `דָּת` tier (§9).
   - **`esther_divine_absence_2026-05.md`** (§1) — new, Esther-unique. Captures the no-divine-name fact, the resulting no-textual-variant-files convention, the silent-providence translation stance, and (per §13) the disposition on the hidden-acrostic feature.
   - **`purim_pur_etiology_2026-05.md`** (§8) — new, Esther-distinctive. Locks the `ปูร์ (คือสลาก)` + `ปูริม` rendering and the pur→Purim wordplay etiology. Lower priority (no forward-compounding — Purim appears only here).
   - (The Ezra/Nehemiah `foreign_monarch_register_2026-05.md` and `god_of_heaven_persian_title_2026-05.md` carry-forwards remain — the first gated on the §2 DECIDE; the second N/A to Esther, which has no divine title at all.)
@@ -196,13 +200,14 @@ The tiering is **probably principled** — `กฎหมาย` for the abstract
 
 ## 10. Persian administrative titles — **STABLE → recommend `persian_achaemenid_administrative_titles_2026-05.md`** (overdue carry-forward from Ezra §6 + Nehemiah §9)
 
-Esther re-exercises and extends the Persian imperial administrative vocabulary. Renderings are uniform across the book's three parallel decree-distribution lists (3:12 = 8:9 = 9:3):
+Esther re-exercises and extends the Persian imperial administrative vocabulary. The first two titles recur across the lists. The third identifies leaders of people groups in 3:12 and provincial officials in 8:9 and 9:3:
 
 | Source | Thai | Refs |
 |---|---|---|
 | אֲחַשְׁדַּרְפְּנִים (satraps) | `สมุหเทศาภิบาล` | 3:12, 8:9, 9:3 |
 | פַּחוֹת (governors) | `ผู้ว่าราชการ` | 3:12, 8:9, 9:3 |
-| שָׂרֵי הַמְּדִינוֹת (provincial officials) | `เจ้านายของมณฑล` | 3:12, 8:9, 9:3 |
+| שָׂרֵי עַם וָעָם (leaders of each people) | `เจ้านายของแต่ละชนชาติ` | 3:12 |
+| שָׂרֵי הַמְּדִינוֹת (provincial officials) | `เจ้านายของมณฑล` | 8:9, 9:3 |
 | פַּרְתְּמִים (nobles, Persian loanword) | `(เหล่า)ขุนนางผู้สูงศักดิ์` | 1:3, 6:9 |
 | בִּיתָן / גִּנַּת הַבִּיתָן (palace/pavilion) | `(ลาน)อุทยานแห่งพระราชวัง` | 1:5, 7:7–8 |
 | כֶּתֶר (crown) | `ราชมงกุฎ` | 1:11, 2:17, 6:8 |

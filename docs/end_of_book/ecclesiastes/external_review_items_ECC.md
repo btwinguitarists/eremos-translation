@@ -1,5 +1,7 @@
 # Ecclesiastes — External Review Items
 
+**Editorial clarification, 27 November 2026.** The decisions recorded on 27 June adopted อนิจจัง for הֶבֶל throughout Ecclesiastes and เคราะห์อันเดียวกัน for מִקְרֶה אֶחָד. The emphatic phrase in 1:2 and 12:8 reads อนิจจัง อนิจจัง. The questions about these two terms below predate the decisions. The study notes and summaries now use the adopted wording.
+
 Handwritten items for the external-AI review packet (consumed by
 `scripts/build_external_review_packet.py ECC`). One block per REVIEW/DECIDE
 item from `ECC_END_OF_BOOK_REVIEW_2026-06-04.md`. Each ends with a

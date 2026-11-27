@@ -1,5 +1,9 @@
 # Judges — End-of-Book Review
 
+**Editorial clarification, 27 November 2026.**
+
+- **Judges 13:24–25.** Verse 24 recounts Samson’s birth and growth. Verse 25 then describes the Spirit of the LORD beginning to stir him at Mahaneh Dan.
+
 **Date:** 2026-05-19
 **Scope:** All 21 chapters of Judges (618 verses; 913 verse-level `key_decisions`; 509 verses carrying notes); `glossary.json`; existing `docs/translator_decisions/` (87+ docs through the LEV / DEU / JOS end-of-book audits).
 **Trigger:** JDG 21 shipped (commit `7844b37`); per `docs/END_OF_BOOK_CHECKLIST.md`. **Eighth OT book in the corpus** (after Ruth, Jonah, Genesis, Exodus, Numbers, Deuteronomy, Joshua) and the **second Former-Prophets / Deuteronomistic-History book** — the first downstream test of every Joshua-era lock OUTSIDE Joshua itself.

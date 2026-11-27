@@ -45,7 +45,7 @@ SBLGNT followed (omits κλώμενον). ἀνάμνησις → **ระลึ
 
 ## 6. εἰδωλόθυτα chs 8–10 — **STABLE**
 
-**อาหารที่ถวายแก่รูปเคารพ** for εἰδωλόθυτος; **รูปเคารพ** for εἴδωλον. Thai-cultural resonance lands well. Will recur Rev 2:14, 20; Acts 15:29 + 21:25 retroactively-aligned. See **Item F**.
+**อาหารที่ถวายแก่รูปเคารพ** for εἰδωλόθυτος; **รูปเคารพ** for εἴδωλον. In 10:28 the selected text has ἱερόθυτον (ของถวายแก่เทพเจ้า), while RP uses εἰδωλόθυτον. Thai-cultural resonance lands well. Will recur Rev 2:14, 20; Acts 15:29 + 21:25 retroactively-aligned. See **Item F**.
 
 ## 7. πορνεία family — **REVIEW**
 

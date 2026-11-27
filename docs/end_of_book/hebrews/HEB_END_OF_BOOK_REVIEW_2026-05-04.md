@@ -49,16 +49,17 @@ Status codes: **LOCKED** — stable + corpus-doc exists. **STABLE** — uniform/
 
 ## 2. The priesthood vocabulary — ἀρχιερεύς + ἱερεύς + Μελχισέδεκ + τάξις — **STABLE (undocumented; recommend new doc — highest HEB-corpus priority)**
 
-The single most distinctive vocabulary cluster in Hebrews. **ἀρχιερεύς ("high priest") occurs 17×** (HEB 2:17, 3:1, 4:14, 4:15, 5:1, 5:5, 5:10, 6:20, 7:26, 7:27, 7:28, 8:1, 8:3, 9:7, 9:11, 9:25, 10:11, 10:21, 13:11) — far denser than any other NT book. **ἱερεύς ("priest")** distinct: 6× (5:6 in PSA 110:4 citation; 7:1, 7:3, 7:11 of Melchizedek-and-Levi class; 7:14, 7:21, 7:23, 8:4, 9:6, 10:11, 10:21).
+The vocabulary of priesthood includes the compound ἀρχιερεύς and the noun ἱερεύς. Hebrews 10:11 calls each officiant a priest. At 10:21 the adjective μέγας modifies the simple noun.
 
 **Renderings (uniform):**
 
 | Greek | Thai | Verses (representative) |
 |---|---|---|
-| ἀρχιερεύς (Christ, divine subject) | **มหาปุโรหิต** | 2:17, 3:1, 4:14, 5:5, 5:10, 6:20, 7:26, 7:28, 8:1, 9:11, 10:21 |
-| ἀρχιερεύς (Levitical, narrative-comparative) | **มหาปุโรหิต** (same form, plain register supplied by context) | 5:1, 7:27, 9:7, 9:25, 10:11, 13:11 |
+| ἀρχιερεύς (Christ, divine subject) | **มหาปุโรหิต** | 2:17, 3:1, 4:14, 5:5, 5:10, 6:20, 7:26, 7:28, 8:1, 9:11 |
+| ἀρχιερεύς (Levitical, narrative-comparative) | **มหาปุโรหิต** (same form, plain register supplied by context) | 5:1, 7:27, 9:7, 9:25, 13:11 |
 | ἱερεύς (Christ in PSA 110:4 citation) | **ปุโรหิต** | 5:6, 7:17, 7:21 |
 | ἱερεύς (Melchizedek, Levitical) | **ปุโรหิต** | 7:1, 7:3, 7:11, 7:14, 7:23, 8:4, 9:6, 10:11 |
+| ἱερέα μέγαν | **ปุโรหิตผู้ยิ่งใหญ่** | 10:21 |
 | Μελχισέδεκ | **เมลคีเซเดค** | 5:6, 5:10, 6:20, 7:1, 7:10, 7:11, 7:15, 7:17 |
 | τάξις (in κατὰ τὴν τάξιν Μελχισέδεκ formula) | **ตามแบบของเมลคีเซเดค** | 5:6, 5:10, 6:20, 7:11, 7:17, 7:21 |
 
@@ -76,17 +77,18 @@ The Aramaic/Hebrew transliteration **เมลคีเซเดค** for Μελ
 
 | Greek | Thai | Verses |
 |---|---|---|
-| διαθήκη (generic / unmarked) | **พันธสัญญา** | 7:22; 8:6 (×2); 9:4 (×2); 9:15 (×2); 9:16; 9:17; 9:20; 10:29; 12:24; 13:20 |
+| διαθήκη (generic / unmarked) | **พันธสัญญา** | 7:22; 8:6 (×2); 9:4 (×2); 9:15 (×2); 9:20; 10:29; 12:24; 13:20 |
+| διαθήκη in the illustration of a will | **พินัยกรรม** | 9:16–17 |
 | διαθήκη παλαιά / πρώτη ("old / first" covenant) | **พันธสัญญาเดิม** (8:13: τὴν πρώτην; 9:1: ἡ πρώτη) | 8:13; 9:1; 9:15; 9:18 |
 | διαθήκη καινή ("new" covenant) | **พันธสัญญาใหม่** | 8:8 (in JER 31 citation); 9:15; 12:24 |
 | διαθήκη αἰώνιος ("eternal" covenant) | **พันธสัญญานิรันดร์** | 13:20 |
 
-**Editorial assessment:** Single-rendering **พันธสัญญา** for διαθήκη is uniform and consistent with corpus precedent (MAT 26:28; LUK 1:72; ACT 3:25; ROM 9:4; 1 COR 11:25; 2 COR 3:6, 14; GAL 3:15, 17; 4:24; EPH 2:12). The new/old/eternal modifiers are rendered transparently (**ใหม่ / เดิม / นิรันดร์**) without forcing a Thai compound. The 9:16-17 διαθήκη as "last will and testament" (only place in NT where author exploits the Greek polysemy of διαθήκη as both "covenant" and "will/testament") receives the same Thai **พันธสัญญา** with verse-level KDs explaining the polysemy — Thai cannot dual-render here without a footer-note, and the translator chose to preserve **พันธสัญญา** (covenant) as primary, which loses the testamentary-pun but preserves theological-coherence with the surrounding 9:15+ "eternal-inheritance" frame.
+**Editorial assessment:** The usual rendering is **พันธสัญญา**. The legal illustration in 9:16–17 uses **พินัยกรรม**. Verse 18 returns to the first covenant.
 
 **Recommend: STABLE; lift to corpus doc** `docs/translator_decisions/diatheke_hebrews_2026-05.md` before Romans 9:4 (διαθῆκαι plural — Israel's multiple-covenants) and 1 Cor 11:25 (Lord's-Supper covenant-cup — already-rendered consistently in the Synoptics). The doc should:
 1. Lock διαθήκη → **พันธสัญญา** corpus-uniform
 2. Lock the modifier-pattern: παλαιά/πρώτη → เดิม; καινή → ใหม่; αἰώνιος → นิรันดร์
-3. Document the 9:16-17 διαθήκη-as-testament polysemy as a verse-level exception (preserve the covenant-rendering, lose the testament-pun by design — the verse-level KD covers the rationale)
+3. Record **พินัยกรรม** as the rendering in the legal illustration at 9:16–17.
 4. Cite HEB 8:6 + 8:8 + 12:24 + 13:20 as the locking precedents
 5. Distinguish the related-but-distinct: μεσίτης ("mediator," 8:6, 9:15, 12:24) → **คนกลาง / ผู้กลาง**; ἔγγυος (HAPAX 7:22, "guarantor") → **ผู้ค้ำประกัน**; νόμος → **ธรรมบัญญัติ** (already corpus-locked via Pauline lock)
 
@@ -98,12 +100,14 @@ The Aramaic/Hebrew transliteration **เมลคีเซเดค** for Μελ
 
 | Sense | Thai | Verses |
 |---|---|---|
-| Christ's atoning blood (royal-honorific) | **พระโลหิต** | 9:12, 9:14, 9:25, 10:19, 10:29, 12:24, 13:12, 13:20 |
-| Levitical / OT sacrificial blood (plain) | **โลหิต** | 9:7, 9:13, 9:18, 9:19, 9:21, 9:22 (×2), 10:4, 11:28, 12:4 |
+| Christ's atoning blood (royal-honorific) | **พระโลหิต** | 9:12, 9:14, 10:19, 13:12, 13:20 |
+| Sprinkled blood | **โลหิตแห่งการประพรม** | 12:24 |
+| Covenant formula in the warning | **โลหิตแห่งพันธสัญญา** | 10:29 |
+| Levitical / OT sacrificial blood (plain) | **โลหิต** | 9:7, 9:13, 9:18, 9:19, 9:21, 9:22 (×2), 9:25, 10:4, 11:28, 12:4 |
 | Incarnational sharing (αἵματος καὶ σαρκός — paired with σάρξ) | **เลือดและเนื้อ** (compound idiom; plain) | 2:14 |
 | HAPAX αἱματεκχυσία ("blood-shedding") | **การหลั่งโลหิต** | 9:22 |
 
-**Editorial assessment:** The royal-prefix **พระโลหิต** for Christ's atoning blood is principled and uniform — every reference to the **shed blood of Christ** in atoning-sacrificial context receives **พระโลหิต**, while every reference to the **OT-Levitical sacrificial blood** receives the plain **โลหิต**. The HEB 2:14 αἷμα + σάρξ idiom (incarnational-sharing — Christ partook of "blood and flesh" with the children) takes the doublet-form **เลือดและเนื้อ** — note the alternative **เลือด** rather than **โลหิต** here, principled because (a) the idiom is anthropological-incarnational, not sacrificial-cultic, and (b) the doublet **เลือด + เนื้อ** preserves the Greek alliterative-pair force without the cumbersome **โลหิต + เนื้อหนัง**. The HAPAX αἱματεκχυσία at 9:22 (NT-only here, "shedding-of-blood") uses **การหลั่งโลหิต** (verb-noun compound) — principled because the verse is general-axiomatic ("without shedding-of-blood there is no forgiveness"), covering both Levitical and Christological reference.
+**Editorial assessment:** Hebrews 10:19 expressly names Jesus’ blood and uses พระโลหิต. Verse 29 uses โลหิตแห่งพันธสัญญา, the covenant formula also heard at 9:20. The annual priest’s offering at 9:25 uses plain โลหิต.
 
 **Recommend: STABLE; lift to corpus doc** `docs/translator_decisions/aima_blood_register_hebrews_2026-05.md` before 1 Pet 1:2 + 1:19 (Christ's αἷμα — royal expected) and Rev 1:5; 5:9; 7:14; 12:11; 19:13 (Lamb's blood imagery — Apocalyptic-cultic). The doc should:
 1. Lock the register split: αἷμα-of-Christ-sacrificial-context → **พระโลหิต**; αἷμα-of-OT-Levitical → **โลหิต**
@@ -120,11 +124,11 @@ The Hebrews sacrificial-vocabulary doublet pattern. **θυσία ("sacrifice") o
 | Greek | Thai | Notes |
 |---|---|---|
 | θυσία (singular, generic) | **เครื่องบูชา** | 5:1; 7:27 (×2); 8:3; 9:9, 9:23, 9:26; 10:1, 10:5, 10:8, 10:11, 10:12, 10:26; 11:4; 13:15, 13:16 |
-| προσφορά | **ของถวาย** (paired-with-θυσία) / **เครื่องสักการบูชา** (Christ's body-offering, 10:10) | 10:5, 10:8 (paired); 10:10, 10:14, 10:18 (Christ's offering, distinct rendering for emphasis) |
+| προσφορά | **ของถวาย** at 10:5, 8; **การถวาย** at 10:10, 14; **เครื่องบูชา** at 10:18 | 10:5, 8, 10, 14, 18 |
 
-**Editorial assessment:** The doublet θυσία + προσφορά is preserved in the Thai paired form **เครื่องบูชาและของถวาย** at 5:1, 8:3, 10:5, 10:8 — matching the LXX-formulaic translation tradition (LXX uses both terms in the PSA 40:6 quotation cited at 10:5). The standalone θυσία uniformly renders as **เครื่องบูชา**. The standalone προσφορά at 10:10 (the singular-historical Christ-body-offering) and 10:14 + 10:18 receives **เครื่องสักการบูชา** — a more elevated cult-term that distinguishes Christ's once-for-all offering from the daily-Levitical θυσία. The 13:15 θυσίαν αἰνέσεως ("sacrifice of praise") uses **เครื่องบูชาแห่งคำสรรเสริญ** — the αἰνέσεως → **คำสรรเสริญ** rendering is compliant with `divine_object_praise_verbs_2026-04.md` (see §17).
+**Editorial assessment:** Hebrews 10:5 and 8 pair เครื่องบูชา with ของถวาย. Verses 10 and 14 use การถวาย for the act of offering. Verse 18 uses เครื่องบูชา for an offering for sin.
 
-**Recommend: STABLE; lift to corpus doc** `docs/translator_decisions/thysia_prosphora_hebrews_2026-05.md`. Document the doublet rendering convention + the principled προσφορά-elevation to **เครื่องสักการบูชา** in the Christ-singular-offering context. Forward-pertinent for: Eph 5:2 (θυσίαν ... προσφοράν — already in flight); Rom 12:1 (παραστῆσαι τὰ σώματα ὑμῶν θυσίαν ζῶσαν — living-sacrifice imagery); 1 Pet 2:5 (πνευματικὰς θυσίας — spiritual-sacrifices).
+**Recommend: STABLE; lift to corpus doc** `docs/translator_decisions/thysia_prosphora_hebrews_2026-05.md`. Document the different renderings in Hebrews 10:5, 8, 10, 14 and 18.
 
 ---
 
@@ -168,7 +172,7 @@ The Hebrews "perfection" vocabulary — central to the priestly-Christology argu
 | τελείωσις (noun — perfection, completion-state) | **ความสมบูรณ์** | 7:11 |
 | τελειωτής (HAPAX 12:2) | **ผู้บรรลุความสมบูรณ์** (paired with ἀρχηγός at 12:2 — see §13) | 12:2 |
 
-**Editorial assessment:** Single-rendering family **สมบูรณ์** (root) for the entire τελει-cluster is principled. The verb form takes either active **ทำให้สมบูรณ์** (when God/Christ is the subject perfecting) or middle/passive **บรรลุความสมบูรณ์** (when Christ or believers are the ones perfected). The 5:14 contextual-shift to **ผู้ใหญ่** ("mature ones") is principled — there τέλειος is the maturity-vs-infancy contrast (5:13–14 milk vs solid food), not the priestly-perfection sense; **ผู้ใหญ่** ("adults / mature ones") is the natural Thai. The 6:1 τελειότης ("maturity") returns to the abstract **ความสมบูรณ์** noun form, principled.
+**Editorial assessment:** The usual rendering is **พันธสัญญา**. The legal illustration in 9:16–17 uses **พินัยกรรม**. Verse 18 returns to the first covenant.
 
 **Critical theological note:** "Perfection" in HEB is **vocational-completion** (Christ qualified-to-be-eternal-high-priest by completing the sufferings; believers brought-to-the-goal of being-with-Christ-forever), NOT moral-perfection. The Thai **สมบูรณ์** ("complete, full, total, perfect") preserves this — it is not the moral-character word **บริสุทธิ์** ("holy, pure"). The translator carefully maintains the lexical separation between **สมบูรณ์** (perfection-as-completion) and **บริสุทธิ์** (sanctification-as-purification — see §8 below) — which collapses in English "perfection" but in Greek and now Thai stays principled.
 
@@ -214,13 +218,13 @@ The forthcoming `hagiasmos_hagiosune` corpus doc (when written) needs to take th
 |---|---|---|
 | 4:16 | προσερχώμεθα οὖν μετὰ παρρησίας τῷ θρόνῳ τῆς χάριτος | **ขอให้เราเข้ามาด้วยความกล้าหาญสู่บัลลังก์แห่งพระคุณ** |
 | 7:25 | διὰ τοῦτο σώζειν εἰς τὸ παντελὲς δύναται τοὺς προσερχομένους | **บรรดาผู้ที่เข้ามา** |
-| 10:1 | οὐδέποτε δύναται τοὺς προσερχομένους τελειῶσαι | **ผู้ที่เข้ามา** |
+| 10:1 | οὐδέποτε δύναται τοὺς προσερχομένους τελειῶσαι | **บรรดาผู้ที่เข้าเฝ้า** |
 | 10:22 | προσερχώμεθα μετὰ ἀληθινῆς καρδίας | **ขอให้เราเข้ามาด้วยใจจริง** |
 | 11:6 | πιστεῦσαι γὰρ δεῖ τὸν προσερχόμενον τῷ θεῷ | **ผู้ที่เข้ามาเฝ้าพระเจ้า** |
 | 12:18 | οὐ γὰρ προσεληλύθατε [ψηλαφωμένῳ] ὄρει | **ท่านไม่ได้เข้ามาถึงภูเขาที่จับต้องได้** |
 | 12:22 | ἀλλὰ προσεληλύθατε Σιὼν ὄρει | **แต่ท่านเข้ามาถึงภูเขาศิโยน** |
 
-**Editorial assessment:** Single-rendering **เข้ามา** preserves the verb's metaphor uniformly, and naturally tracks the Hebrews-rhetorical contrast between the OT cultic-approach-to-the-throne-of-grace (4:16, 7:25, 10:1, 10:22, 11:6 — cultic, with implied-divine-object) and the eschatological-corporate-approach to the new-Sinai-Zion (12:18 negative, 12:22 positive). Worth noting: 11:6 + 4:16 use elaborated forms (**เข้ามาเฝ้า** "draw-in-to-attend," **เข้ามา ... สู่บัลลังก์** "draw-in ... to the throne") to make the divine-object explicit.
+**Editorial assessment:** The usual rendering is **พันธสัญญา**. The legal illustration in 9:16–17 uses **พินัยกรรม**. Verse 18 returns to the first covenant.
 
 **Recommend: STABLE; consider brief doc** `docs/translator_decisions/proserchomai_cultic_2026-05.md` to lock the rendering before similar Pauline usage (Eph 2:18 προσαγωγή — different lemma but similar approach-vocabulary; 1 Pet 2:4 πρὸς ὃν προσερχόμενοι — the same lemma, parallel cultic-stone-temple imagery). Could also be folded into a broader "Hebrews tabernacle-cultus vocabulary" doc combining with §6.
 
@@ -265,17 +269,17 @@ The HEB 3:7–4:13 chapter-long meditation on "rest" — the Sabbath-promised-la
 
 ## 12. πίστις (faith) cluster + HEB 11 πίστει formula — **LOCKED ✓ (uniform)**
 
-**πίστις occurs 32×** in HEB — densest in the NT alongside Romans (~40×). HEB 11 alone has the πίστει-anaphora (dative-of-means "by faith") **22× from 11:3 to 11:31**. The Thai rendering is **uniformly ความเชื่อ** across ALL grammatical cases (nominative, accusative, genitive, dative) and ALL contexts.
+**πίστις occurs 32×** in HEB — densest in the NT alongside Romans (~40×). HEB 11 alone has the πίστει-anaphora (dative-of-means "by faith") **18× from 11:3 to 11:31**. The Thai rendering is **uniformly ความเชื่อ** across ALL grammatical cases (nominative, accusative, genitive, dative) and ALL contexts.
 
 | Pattern | Thai | Count |
 |---|---|---|
 | πίστις (nom./gen./dat./acc.) → **ความเชื่อ** | uniform | ~30 |
-| πίστει (dative-of-means, HEB 11 anaphora) → **โดยความเชื่อ** | 22× in HEB 11 | uniform |
+| πίστει (dative-of-means, HEB 11 anaphora) → **โดยความเชื่อ** | 18× in HEB 11 | uniform |
 | Κατὰ πίστιν (HEB 11:13) → **โดยความเชื่อ** | 1 | (variant-construction; same Thai) |
 
 **HEB 11:1 famous definition:** Ἔστιν δὲ πίστις ἐλπιζομένων ὑπόστασις, πραγμάτων ἔλεγχος οὐ βλεπομένων → **ความเชื่อคือความมั่นใจในสิ่งที่เราหวัง และเป็นข้อพิสูจน์ในสิ่งที่เรามองไม่เห็น**. Renders the chiastic-doublet (ὑπόστασις ↔ ἔλεγχος) cleanly into Thai with the matched chiastic **ความมั่นใจ ↔ ข้อพิสูจน์** pair.
 
-**Editorial assessment:** Locked-tight. The 22× πίστει anaphora reads cleanly in Thai as **โดยความเชื่อ X [verb]** repeating across HEB 11:3–31 — the rhetorical-cumulative force of "by faith, by faith, by faith" is preserved with full lexical-uniformity. This is what πίστις-rendering ought to look like.
+**Editorial assessment:** Locked-tight. The 18× πίστει anaphora reads cleanly in Thai as **โดยความเชื่อ X [verb]** repeating across HEB 11:3–31 — the rhetorical-cumulative force of "by faith, by faith, by faith" is preserved with full lexical-uniformity. This is what πίστις-rendering ought to look like.
 
 **LOCKED ✓** — already corpus-uniform from prior Pauline (GAL, 1TH) + Synoptic + Johannine usage. No new doc needed; HEB confirms the corpus-wide πίστις → ความเชื่อ lock.
 
@@ -414,7 +418,7 @@ Comprehensive scan of the 18 active corpus locks and HEB compliance:
 | `speech_verbs_adversaries_addressing_divine_2026-04.md` | **N/A** — no narrative-adversary-speech in HEB. | **LOCKED (N/A)** |
 | `basileia_kingdom_rendering_2026-04.md` | HEB 1:8 (PSA 45 cite, βασιλείας → **ราชอาณาจักร** — compound royal-form for divine-kingdom-context) + 11:33 (κατηγωνίσαντο βασιλείας → **อาณาจักร** plural plain) + 12:28 (βασιλείαν ἀσάλευτον → **อาณาจักรที่ไม่อาจเขย่าได้** — eschatological). Per-context principled. Compliant. | **LOCKED** |
 | `ouranos_heaven_rendering_2026-04.md` | HEB 4:14 (διεληλυθότα τοὺς οὐρανούς → **ฟ้าสวรรค์** plural cosmic-scope) + 7:26 (ὑψηλότερος τῶν οὐρανῶν → **ฟ้าสวรรค์**) + 9:23-24 (3× → **สวรรค์**) + 12:23 (ἐν οὐρανοῖς → **สวรรค์**) + 12:25 (ἀπ' οὐρανῶν → **สวรรค์**) + 12:26 (γῆν ... καὶ τὸν οὐρανόν → **ฟ้าสวรรค์** cosmic-pair). Doc rule applied perfectly. Compliant. | **LOCKED** |
-| `parepidemos_paroikos_sojourner_2026-05.md` | HEB 11:13 (ξένοι καὶ παρεπίδημοί → **คนต่างด้าวและผู้พำนักอาศัย** — doublet-preserved). Compliant with the Petrine-rooted lock. | **LOCKED** |
+| `parepidemos_paroikos_sojourner_2026-05.md` | HEB 11:13 (ξένοι καὶ παρεπίδημοί → **คนแปลกหน้าและคนต่างถิ่น** — doublet-preserved). Compliant with the Petrine-rooted lock. | **LOCKED** |
 | `pascho_pathema_suffering_2026-05.md` | HEB 2:9, 2:10, 2:18, 5:8, 9:26, 13:12 — Christ-subject πάσχω uniformly takes **ทรง** royal prefix. The lock is Pauline-rooted but HEB applies it consistently across the Christ-suffering verses. Compliant. | **LOCKED** |
 | `prototokos_pauline_2026-05.md` | HEB 1:6 (πρωτότοκον singular-incarnation → **บุตรหัวปี**); 11:28 (τὰ πρωτότοκα plural-Passover → **บุตรหัวปี**); 12:23 (πρωτοτόκων plural-relational-of-believers → **บรรดาบุตรหัวปี**). Compliant — the Pauline three-sense split applies to genitive-marked Pauline-Christological cases (COL 1:15-18); HEB uses simple absolute forms. | **LOCKED** |
 | `arnion_amnos_lamb_disambiguation_2026-05.md` | **N/A in HEB** — HEB uses different sacrificial-victim vocabulary (μόσχος, τράγος, δάμαλις, ταῦρος) for OT-type sacrifices; no ἀρνίον or ἀμνός. | **LOCKED (N/A)** |

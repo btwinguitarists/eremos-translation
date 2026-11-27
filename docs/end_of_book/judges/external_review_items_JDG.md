@@ -1,5 +1,9 @@
 ## Item A — Spirit-of-YHWH 4-way principled split by Hebrew verb (Judges signature)
 
+**Editorial clarification, 27 November 2026.**
+
+- **Judges 13:24–25.** Verse 24 recounts Samson’s birth and growth. Verse 25 then describes the Spirit of the LORD beginning to stir him at Mahaneh Dan.
+
 **The pattern:** The "Spirit of YHWH came upon X" judge-empowerment formula renders with **four distinct Thai surfaces principled by the Hebrew verb chosen** — not a single template. This is the densest OT cluster of this lemma-family; it gates the 1–2 Samuel Spirit-empowerment cycle (~10 more occurrences) and the 1–2 Chronicles prophetic-Spirit thread.
 
 | Verse | Judge | Hebrew verb | Thai surface |

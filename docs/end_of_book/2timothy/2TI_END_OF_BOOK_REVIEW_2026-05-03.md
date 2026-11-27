@@ -275,14 +275,12 @@ The 3:6 KD aligns:
 
 Both variants are dispositioned in `output/textual_variants/_resolved/`:
 
-| Variant | SBLGNT | Byzantine/some | Eremos | Disposition |
-|---|---|---|---|---|
-| 1:11 διδάσκαλος | shorter (no ἐθνῶν) | διδάσκαλος ἐθνῶν (1 Tim 2:7 harmonization) | shorter | silent-omission (BSB/ESV/NIV/CSB consensus) |
-| 2:14 θεοῦ/κυρίου | κυρίου | θεοῦ (Byzantine) | κυρίου per SBLGNT → องค์พระผู้เป็นเจ้า | silent-omission (mainstream English ironically reads θεοῦ but theological force preserved either way) |
+| Verse | SBLGNT | Other reading | Eremos |
+|---|---|---|---|
+| 1:11 | διδάσκαλος | διδάσκαλος ἐθνῶν, as in 1 Timothy 2:7 | Follows the shorter reading. |
+| 2:14 | κυρίου, also in Robinson–Pierpont | θεοῦ in Westcott–Hort, Tregelles and NA28 | องค์พระผู้เป็นเจ้า follows SBLGNT. |
 
-The 2:14 variant is **interesting** — modern English Bibles (BSB/ESV/NIV/CSB/NASB) all read "before God" (θεοῦ) while the SBLGNT critical-text apparatus actually reads κυρίου. The resolved-doc explains this as either (a) older NA editions had θεοῦ, or (b) the rhetorical-equivalence is treated as exegetical-non-difference. The Eremos translation correctly follows SBLGNT (RULES §0) → **องค์พระผู้เป็นเจ้า** (corpus-locked κύριος rendering); silent-omission is principled because both readings serve the same divine-witness-charge function.
-
-**Editorial assessment:** Both resolved-docs are **comprehensive and well-reasoned**. The 1:11 variant is textbook-scribal-harmonization (filling out the parallel to 1 Tim 2:7's triple-office with ἐθνῶν); the 2:14 variant illustrates SBLGNT-strict-compliance even when mainstream English translations diverge due to older NA editions. Neither warrants Tier-2 footer-note treatment (no entrenched-confessional-prooftext function like 1 Tim 3:16 had).
+The concern at 2:14 is the identity of the noun after ἐνώπιον. The editions differ over a word that all include. The translation keeps its selected reading, and the separate variant record identifies the witnesses and the printed editions.
 
 **LOCKED** — no action.
 

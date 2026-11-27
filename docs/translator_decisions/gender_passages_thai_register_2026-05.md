@@ -27,15 +27,15 @@ Biblical gender passages are interpretively-contested in modern Christian discou
 
 Hebrew: זָכָר וּנְקֵבָה בָּרָא אֹתָם ("male and female he created them"). The clause is the structural-anchor of biblical-gender-theology. **No collapse permitted** — both genders are preserved with parallel grammatical weight.
 
-**Eremos:** **ชายและหญิงพระองค์ทรงสร้างพวกเขา** (male-then-female ordering matches Hebrew sequence; both gendered nouns explicit).
+**Eremos:** **เป็นชายและเป็นหญิง พระองค์ทรงสร้างพวกเขา** (male-then-female ordering matches Hebrew sequence; both gendered nouns explicit).
 
-**Forward applicability:** every NT citation of Gen 1:27 (Mt 19:4, Mk 10:6 — Christ's marriage teaching) must use the same Thai phrase for cross-corpus visibility.
+**Forward applicability:** Matthew 19:4 and Mark 10:6 quote the closing clause of Genesis 1:27 in Jesus’s teaching about marriage. Use the published Genesis wording above across these quotations, retaining each Evangelist’s introduction.
 
 ### 2.2 Gen 2:18 — "a helper-corresponding-to-him" (עֵזֶר כְּנֶגְדּוֹ)
 
 Hebrew: אֶעֱשֶׂה־לּוֹ עֵזֶר כְּנֶגְדּוֹ ("I will make for him a helper corresponding-to-him"). The Hebrew **עֵזֶר** (ezer "helper") is **not** a subordinating term — the same lemma appears in the OT for God's help (Ex 18:4, Deut 33:7+26+29, Ps 121:1–2, 124:8). The qualifier **כְּנֶגְדּוֹ** ("corresponding-to-him" / "matching-him" / "facing-him") preserves the matched-counterpart-relationship.
 
-**Eremos:** **ผู้ช่วยที่เคียงข้างกับเขา** ("a helper who is alongside-him"). Preserves the matched-counterpart sense. Verse-level KD names the ezer-lemma-thread (forward to Pss 121, 124).
+**Eremos:** **ผู้ช่วยที่เหมาะสมกับเขา** (“a helper suited to him”). Preserves the matched-counterpart sense. Verse-level KD names the ezer-lemma-thread (forward to Pss 121, 124).
 
 **Forward applicability:** when Ps 121:2 ships ("My help comes from YHWH"), the Thai must use the same ผู้ช่วย / ความช่วยเหลือ vocabulary so readers see the lemma-thread that anchors the woman-as-helper question.
 

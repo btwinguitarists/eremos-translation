@@ -261,14 +261,14 @@
     "greek": "καὶ πολλοὶ ψευδοπροφῆται ἐγερθήσονται καὶ πλανήσουσιν πολλούς·",
     "bsb_english": "and many false prophets will arise and deceive many.",
     "translation": {
-      "thai": "และผู้พยากรณ์เทียมจำนวนมากจะปรากฏขึ้น และจะนำคนเป็นอันมากให้หลงผิด",
+      "thai": "และผู้เผยพระวจนะเท็จจำนวนมากจะปรากฏขึ้น และจะนำคนเป็นอันมากให้หลงผิด",
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
         {
           "greek": "ψευδοπροφῆται",
-          "thai": "ผู้พยากรณ์เทียม",
-          "rationale": "Consistent with MRK 13:22 rendering; ψευδο- compound preserved with เทียม"
+          "thai": "ผู้เผยพระวจนะเท็จ",
+          "rationale": "The compound ψευδοπροφήτης uses ผู้เผยพระวจนะเท็จ under §2.1 of the OT–NT cross-quotation decision locked on May 16, 2026. This is the same wording used in Matthew 7:15."
         }
       ],
       "notes": "Unique to Matthew at this position; a second wave of false prophets distinct from the false Christs in v.5. Cf. v.24 for both together."
@@ -541,7 +541,7 @@
           "rationale": "Triple negative for emphasis; rendered as strong single negative in Thai idiom"
         }
       ],
-      "notes": "OT CITATION/ALLUSION: Dan 12:1 LXX ('there shall be a time of tribulation, such tribulation as has not come from the time a nation came into being until that time'). Matthew's θλῖψις μεγάλη matches the LXX reading. Added to nt_ot_citations.json. Parallel: Mark 13:19, Luke 21:23-24."
+      "notes": "Matthew’s θλῖψις μεγάλη (“great distress”) recalls Daniel 12:1, where the distress is likewise described as unprecedented. The Old Greek has ἡμέρα θλίψεως, “day of distress.” Theodotion has καιρὸς θλίψεως, “time of distress,” followed by θλῖψις. Neither uses μεγάλη to qualify the distress in that verse. Compare Mark 13:19 and Luke 21:23–24."
     }
   },
   {
@@ -601,14 +601,14 @@
     "greek": "ἐγερθήσονται γὰρ ψευδόχριστοι καὶ ψευδοπροφῆται, καὶ δώσουσιν σημεῖα μεγάλα καὶ τέρατα ὥστε πλανῆσαι εἰ δυνατὸν καὶ τοὺς ἐκλεκτούς·",
     "bsb_english": "For false Christs and false prophets will appear and perform great signs and wonders to deceive even the elect, if that were possible.",
     "translation": {
-      "thai": "เพราะพระคริสต์เทียมและผู้พยากรณ์เทียมจะปรากฏขึ้น และจะแสดงหมายสำคัญและการอัศจรรย์อันยิ่งใหญ่ เพื่อจะชักจูงแม้ผู้ที่ทรงเลือกให้หลงไป หากเป็นไปได้",
+      "thai": "เพราะพระคริสต์เทียมและผู้เผยพระวจนะเท็จจะปรากฏขึ้น และจะแสดงหมายสำคัญและการอัศจรรย์อันยิ่งใหญ่ เพื่อจะชักจูงแม้ผู้ที่ทรงเลือกให้หลงไป หากเป็นไปได้",
       "thai_literal": null,
-      "thai_summary": "แม้การอัศจรรย์ก็ไม่ใช่เครื่องพิสูจน์ความจริงเสมอไป พระเยซูทรงเตือนว่าพระคริสต์เทียมจะทำ “หมายสำคัญและการอัศจรรย์” (σημεῖα καὶ τέρατα) — สำนวนในพันธสัญญาเดิมที่ใช้กับการอัศจรรย์ของโมเสส (ฉธบ 13:1-3, 29:3) โดยเฉพาะ ฉธบ 13:1-5 เตือนว่าผู้พยากรณ์เทียมอาจทำหมายสำคัญได้ แต่ถ้าเขาชักจูงให้ไปนมัสการพระอื่น ก็ต้องปฏิเสธและประหาร — เกณฑ์ไม่ใช่การอัศจรรย์ แต่เป็นความสอดคล้องกับพระวจนะ",
+      "thai_summary": "แม้การอัศจรรย์ก็ไม่ใช่เครื่องพิสูจน์ความจริงเสมอไป พระเยซูทรงเตือนว่าพระคริสต์เทียมจะทำ “หมายสำคัญและการอัศจรรย์” (σημεῖα καὶ τέρατα) — สำนวนในพันธสัญญาเดิมที่ใช้กับการอัศจรรย์ของโมเสส (ฉธบ 13:1-3, 29:3) โดยเฉพาะ ฉธบ 13:1-5 เตือนว่าผู้เผยพระวจนะเท็จอาจทำหมายสำคัญได้ แต่ถ้าเขาชักจูงให้ไปนมัสการพระอื่น ก็ต้องปฏิเสธและประหาร — เกณฑ์ไม่ใช่การอัศจรรย์ แต่เป็นความสอดคล้องกับพระวจนะ",
       "key_decisions": [
         {
           "greek": "ψευδόχριστοι καὶ ψευδοπροφῆται",
-          "thai": "พระคริสต์เทียมและผู้พยากรณ์เทียม",
-          "rationale": "Consistent with MRK 13:22; ψευδο- compound preserved as 'เทียม'"
+          "thai": "พระคริสต์เทียมและผู้เผยพระวจนะเท็จ",
+          "rationale": "The compound ψευδοπροφήτης uses ผู้เผยพระวจนะเท็จ under §2.1 of the OT–NT cross-quotation decision locked on May 16, 2026. This is the same wording used in Matthew 7:15. The paired title ψευδόχριστοι retains พระคริสต์เทียม."
         },
         {
           "greek": "σημεῖα μεγάλα καὶ τέρατα",

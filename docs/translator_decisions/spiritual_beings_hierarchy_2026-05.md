@@ -61,7 +61,7 @@ When these verses ship, validate against this doc's lock:
 - **Eph 3:10:** ταῖς ἀρχαῖς καὶ ταῖς ἐξουσίαις ἐν τοῖς ἐπουρανίοις → ผู้ครองและผู้ทρρอำนาจ
 - **Eph 6:12:** πρὸς τὰς ἀρχάς, πρὸς τὰς ἐξουσίας, πρὸς τοὺς κοσμοκράτορας τοῦ σκότους τούτου, πρὸς τὰ πνευματικὰ τῆς πονηρίας → 4-tier; the κοσμοκράτωρ is its own NT-HAPAX needing separate treatment, not in this lock
 - **1 Pet 3:22:** ἀγγέλων καὶ ἐξουσιῶν καὶ δυνάμεων → ทูตสวρρค์ + ผู้ทρρอำนาจ + ผู้ทρρสิทธิ
-- **Rom 8:38–39:** οὔτε ἄγγελοι οὔτε ἀρχαί … οὔτε δυνάμεις → ทูตสวρρค์ + ผู้ครอง + ผู้ทρρสิทธิ
+- **Rom 8:38–39:** οὔτε ἄγγελοι οὔτε ἀρχαί … οὔτε δυνάμεις → ทูตสวรรค์ + ผู้ครอง + ฤทธิ์อำนาจ
 - **Titus 3:1:** ἀρχαῖς ἐξουσίαις (here civic, not cosmic) — different rendering; document at the verse-level KD
 
 ## OT extension: Gen 6:1–4 בְּנֵי הָאֱלֹהִים (sons-of-God) anchor (added 2026-05-12)

@@ -61,7 +61,7 @@ This resolves the ψυχή/πνεῦμα collapse flagged in the audit doc Item 
 **Verdict:** CONCERN — both AIs recommend neutral textual-note + cross-references between 11:5 and 14:34. Explicitly **NO bracketing** (verses present in all manuscripts; this is a DISPLACEMENT problem, not a standard inclusion-omission variant — Tier-2 footer treatment per RULES §5b does not apply).
 
 **Disposition:** **REVISED.** Updates:
-- 1 Cor 14:34 `notes` strengthened: explicit "SEE 11:5" cross-reference, manuscript displacement note (Codex Bezae D, F, G, old Latin and Vulgate place after v.40; Alexandrian uncials place here), explicit acknowledgement that displacement ≠ inclusion-omission and does not warrant bracketing.
+- 1 Cor 14:34 `notes` strengthened: explicit "SEE 11:5" cross-reference, manuscript displacement note (Pauline codices D (Claromontanus), F and G place the verses after 14:40; the selected text retains them after 14:33), explicit acknowledgement that displacement ≠ inclusion-omission and does not warrant bracketing.
 - 1 Cor 11:5 `thai_summary` added (Thai-language reader-facing note): pointer to 14:34-35 + summary of mainstream interpretation that the two passages address different speech-situations.
 
 No textual-variant JSON file added (per ChatGPT: "do **not** bracket the verses").

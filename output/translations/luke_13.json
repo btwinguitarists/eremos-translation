@@ -13,7 +13,7 @@
         {
           "greek": "Παρῆσαν δέ τινες ἐν αὐτῷ τῷ καιρῷ",
           "thai": "ในเวลานั้น มีบางคน",
-          "rationale": "Imperfect-periphrastic 'there were present some' — Luke uses δέ + temporal phrase to continue the discourse from 12:54-59. Rendered naturally without 'present' redundancy."
+          "rationale": "Some people present report the event. παρῆσαν is a finite verb and ἀπαγγέλλοντες describes those reporting. Luke 3:1 already names Pontius Pilate. The noun for sacrifice also occurs in Luke 2:24, where เครื่องบูชา translates θυσίαν."
         },
         {
           "greek": "ἀπαγγέλλοντες",
@@ -28,7 +28,7 @@
         {
           "greek": "Πιλᾶτος",
           "thai": "ปีลาต",
-          "rationale": "Standard Thai Christian transliteration of Pontius Pilate. First appearance in our Luke translation; consistent with Matt 27 / Mark 15 usage."
+          "rationale": "ปีลาต refers to Pontius Pilate, previously named in 3:1."
         },
         {
           "greek": "Γαλιλαίων",
@@ -38,7 +38,7 @@
         {
           "greek": "θυσιῶν",
           "thai": "เครื่องบูชา",
-          "rationale": "Standard Thai Christian term for sacrificial offerings (animal-offerings brought to the temple). NEW establishment in our Luke translation."
+          "rationale": "เครื่องบูชา renders θυσιῶν, the plural of the same noun found in Luke 2:24."
         }
       ],
       "notes": "Setting: transitions from ch.12's discourse. Historical context: Pilate (prefect 26-36 CE) had a reputation for cruelty toward Jewish religious practice (Josephus, Wars 2.169-177; Antiquities 18.55-62, 85-87). No extra-biblical record survives of this specific incident. Galileans traveling south to Jerusalem for festival sacrifices + Pilate's deployment of Roman soldiers with force — plausible scenario. Jesus's interlocutors likely come with a THEODICY-QUESTION embedded: 'were these Galileans punished by God for hidden sin?' OT CITATION (allusion): 2 Kings 16:3 + Ps 79:3 — innocent blood poured out in the holy place evokes the covenant-defilement imagery; Jeremiah 2:34 + Ezek 22:3-4 — innocent blood in Jerusalem as cause of exile. Luke deliberately frames vv.1-5 as Jesus subverting the retributive-theology assumption, turning the question back onto his listeners. Introduces the ch.13 theme: repentance-urgency before national-judgment, which anticipates the temple-destruction-oracle of 19:41-44. ADDED TO nt_ot_citations.json: LUK 13:1 (2 KGS 16:3 + PSA 79:3 + JER 2:34 + EZK 22:3-4 innocent-blood defilement cluster)."
@@ -106,7 +106,7 @@
           "rationale": "ὁμοίως = 'likewise/similarly'; ἀπολεῖσθε = future-middle of ἀπόλλυμι 'will perish/be destroyed'. 'พินาศ' captures the total-destruction nuance."
         }
       ],
-      "notes": "Jesus's prophetic warning with national-level implication: uW notes v.3 parallels 19:41-44 where Jesus predicts Jerusalem's destruction due to failure to recognize the time of visitation. ὁμοίως in v.3 (vs. ὡσαύτως in v.5) is often treated as stylistic variation, but some scholars see 'likewise' in v.3 as pointing to violent-Roman-destruction (parallel to Pilate's sword) while 'in the same way' in v.5 points to sudden-catastrophic-fall (parallel to the tower). Both readings converge on: national-repentance averts national-catastrophe. Luke's central Travel-Narrative concern with urgent-now-decision intensifies here. Key-term μετανοέω is CENTRAL to Lukan theology (14 occurrences of verb + noun across Luke-Acts; cf. Acts 2:38, 3:19)."
+      "notes": "The Macula SBL text has nine instances of μετανοέω and five of μετάνοια in Luke, and five verbs and six nouns in Acts. Together the two lemmas occur twenty-five times across the two books. Here the verb occurs in a warning to the hearers."
     }
   },
   {
@@ -246,7 +246,7 @@
           "rationale": "ἱνατί = 'why?' interrogative. καταργέω = 'render useless/ineffective'. uW notes: the tree 'keeps the ground from being productive' — idle-tree wastes growing-space that another fruitful tree could occupy. 'ทำให้ดินเสียเปล่า' captures 'makes the ground worthless'."
         }
       ],
-      "notes": "HAPAX ἀμπελουργός — only NT occurrence. LXX attestations (Isa 61:5, 2 Chr 26:10, 4 Macc 1:29) establish the 'vine-dresser/vineyard-worker' sense. Three years ≈ normal fruiting-cycle for fig tree after planting — Jewish law (Lev 19:23-25) forbade eating fruit for first three years, dedicated fourth year to God, ate from fifth onward. So the owner has come in the normal fruit-bearing window and found nothing. QUOTE-NESTING: inner single-chevron ‘ ’ for vineyard-owner's speech within Jesus's outer parable-quote. καταργεῖ present-tense is consequential-durative: 'is it even continuing to make the ground useless?'"
+      "notes": "The owner speaks to the vineyard worker, ἀμπελουργός, who tends the trees and vines. Fourth Maccabees 1:29 uses a different agricultural expression, παγγέωργος, to describe reason as cultivating the passions. It is a figurative comparison, not another occurrence of Luke’s word."
     }
   },
   {
@@ -311,7 +311,7 @@
           "rationale": "Future-indicative functioning as mild-imperative (the vinedresser phrases his proposal as a statement rather than a direct request). 'จง...เถิด' captures the suggestive-polite imperative register to the master."
         }
       ],
-      "notes": "Open-ended conclusion is deliberately Lukan: the parable's punchline isn't certainty of judgment-or-mercy but the REAL POSSIBILITY-of-judgment coupled with REAL OFFER-of-extended-grace. The ἐκκόψεις-future-as-imperative-to-master construction is awkward Greek (servant cannot strictly command master); this softening-to-suggestion preserves social-register realism within the parable. Closing double-chevron ” ends Jesus's overall discourse-quote that began in v.2."
+      "notes": "The Thai ends the earlier warning at verse 5. Verse 6 opens the parable in double quotation marks, and the owner and worker speak within it in single marks. Verse 9 closes the worker’s plea and then the parable."
     }
   },
   {
@@ -498,7 +498,7 @@
     "translation": {
       "thai": "องค์พระผู้เป็นเจ้าจึงตรัสตอบเขาว่า “คนหน้าซื่อใจคดเอ๋ย ในวันสะบาโต พวกท่านทุกคนไม่ได้แก้โคหรือลาของตนจากคอกและจูงไปให้น้ำกินหรือ?",
       "thai_literal": null,
-      "thai_summary": "พระเยซูทรงเรียกพวกผู้นำว่า “คนหน้าซื่อใจคด” เพราะพวกเขาอนุญาตการแก้สัตว์จากคอกในวันสะบาโตเพื่อให้มันกินน้ำ แต่กลับไม่ยอมให้พระองค์ปลดปล่อยหญิงที่ถูกซาตานมัดไว้ คำกริยา “แก้” (λύω) ในภาษากรีกเป็นคำเดียวกับที่ใช้ในข้อ 12 และ 16 เป็นการเล่นคำที่แสดงให้เห็นว่าการปลดปล่อยคนสำคัญยิ่งกว่าการปลดปล่อยสัตว์",
+      "thai_summary": "พระเยซูทรงยกตัวอย่างการแก้เชือกวัวหรือลาเพื่อจูงไปกินน้ำในวันสะบาโต ในข้อ 16 พระองค์ทรงใช้คำกริยากรีกคำเดียวกันเมื่อกล่าวถึงการปลดปล่อยหญิงผู้นี้จากเครื่องผูกมัด",
       "key_decisions": [
         {
           "greek": "ὁ κύριος",
@@ -536,7 +536,7 @@
           "rationale": "'Each of you' — 2pl genitive pronoun ὑμῶν is the Greek source for the 2pl addressee, with ἕκαστος emphasizing distribution. Thai 2pl rendered as พวกท่าน (polite-plural), consistent with prior Pharisee-address pattern (cf. Matt 23) — despite rebuke, Jesus maintains the respectful register rather than dropping to พวกเจ้า."
         }
       ],
-      "notes": "Jesus's rhetorical counter-question (uW figs-rquestion) appeals to pre-existing rabbinic practice: watering livestock on Sabbath was universally permitted (codified in Mishnah Shabbat 5; Babylonian Talmud Eruvin 20b-21a). The a-fortiori argument (qal-va-homer): if releasing animal-bondage on Sabbath is permitted, how much more releasing human-bondage from Satan. The verbal play on λύω 'loose/untie' links v.15 (untie ox) with v.16 (release woman from bond) with v.12 (ἀπολέλυσαι = released). φάτνη-usage creates a subtle narrative inclusio with Luke 2 (Jesus born in manger) — the Lord born in a manger now argues from manger-freedom for human-liberation. uW notes: the plural 'hypocrites' indicates Jesus includes all religious-leaders present, not just the one speaker."
+      "notes": "Jesus calls the woman released from her condition in verse 12 (ἀπολέλυσαι, from ἀπολύω). Verse 15 uses λύει for untying an animal, and verse 16 λυθῆναι for her being loosed. Greek Psalm 144:14 (English 145:14) uses the upright-restoration verb that appears in verse 13."
     }
   },
   {
@@ -616,7 +616,7 @@
           "rationale": "ἔνδοξος = 'glorious/splendid'. Substantivized plural 'glorious-things' = 'glorious-deeds/works'. uW figs-activepassive: 'the glorious things Jesus was doing'. 'การงานอันรุ่งโรจน์' preserves both the actions and the glory-register."
         }
       ],
-      "notes": "Classic Lukan polarity: religious-establishment shamed, common-people glorify. Echoes the Magnificat's great-reversal (1:51-53) and Simeon's prophecy (2:34 fall-and-rise). κατῃσχύνοντο imperfect suggests ongoing-continuous shame — the critics are silenced, not just momentarily. τὰ ἔνδοξα is Septuagintalism for 'glorious deeds/marvels' (LXX Exod 34:10, Isa 12:4, 25:1 uses ἔνδοξα for God's mighty works). Luke's vocabulary-choice here frames Jesus's works as the glorious-works of YHWH-continuation. The verse closes the Sabbath-healing pericope with a perfect antithetical-parallelism (shame/rejoice; opponents/crowd)."
+      "notes": "The crowd rejoices at the glorious things Jesus does. Greek Exodus 34:10 has ποιήσω ἔνδοξα and Isaiah 12:4 has τὰ ἔνδοξα αὐτοῦ. Isaiah 25:1 praises wonders using different vocabulary. These are comparisons for the expression, without an explicit quotation in Luke."
     }
   },
   {
@@ -651,7 +651,7 @@
     "greek": "ὁμοία ἐστὶν κόκκῳ σινάπεως,ὃν λαβὼν ἄνθρωπος ἔβαλεν εἰς κῆπον ἑαυτοῦ,καὶ ηὔξησεν καὶ ἐγένετο εἰς δένδρον,καὶ τὰ πετεινὰ τοῦ οὐρανοῦ κατεσκήνωσεν ἐν τοῖς κλάδοις αὐτοῦ.",
     "bsb_english": "It is like a mustard seed that a man tossed into his garden. It grew and became a tree, and the birds of the air nested in its branches.\"",
     "translation": {
-      "thai": "อาณาจักรนั้นเปรียบเหมือนเมล็ดมัสตาร์ดเมล็ดหนึ่ง ที่ชายคนหนึ่งเอาไปหว่านในสวนของตน เมล็ดนั้นก็งอกขึ้นและกลายเป็นต้นไม้ใหญ่ จนนกในอากาศมาทำรังในกิ่งของมัน”",
+      "thai": "อาณาจักรนั้นเปรียบเหมือนเมล็ดมัสตาร์ดเมล็ดหนึ่ง ที่ชายคนหนึ่งเอาไปหว่านในสวนของตน เมล็ดนั้นก็งอกขึ้นและกลายเป็นต้นไม้ จนนกในอากาศมาทำรังในกิ่งของมัน”",
       "thai_literal": null,
       "thai_summary": "เมล็ดมัสตาร์ดเป็นเมล็ดที่เล็กมาก (ประมาณ 1 มิลลิเมตร) แต่เมื่อเติบโตขึ้นจะกลายเป็นพุ่มไม้สูง 2-4 เมตร ภาพของ “นกในอากาศมาทำรังในกิ่ง” เป็นการอ้างอิงถึงดาเนียล 4:12, 21 และเอเสเคียล 17:23 ที่ต้นไม้ใหญ่เป็นสัญลักษณ์ของอาณาจักรใหญ่ที่คนทุกชาติมาพึ่งพาอาศัย อาณาจักรของพระเจ้าเริ่มจากจุดเล็กๆ เช่น กลุ่มสาวก 12 คน แต่จะกลายเป็นที่พำนักของคนจากทุกชนชาติ",
       "key_decisions": [
@@ -667,8 +667,8 @@
         },
         {
           "greek": "ηὔξησεν καὶ ἐγένετο εἰς δένδρον",
-          "thai": "ก็งอกขึ้นและกลายเป็นต้นไม้ใหญ่",
-          "rationale": "αὐξάνω = grow; γίνομαι εἰς = became (Semitism 'became into'). δένδρον = tree. Hyperbole: a mustard bush is normally a bush, not a tree — the gigantism signals kingdom-growth. 'ต้นไม้ใหญ่' captures the tree-vs-bush emphasis."
+          "thai": "ก็งอกขึ้นและกลายเป็นต้นไม้",
+          "rationale": "The selected text supplies no size adjective; growth and branches carry the picture."
         },
         {
           "greek": "τὰ πετεινὰ τοῦ οὐρανοῦ κατεσκήνωσεν ἐν τοῖς κλάδοις αὐτοῦ",
@@ -933,7 +933,7 @@
         {
           "greek": "ἀπόστητε ἀπ’ ἐμοῦ",
           "thai": "จงออกไปให้พ้นหน้าเรา",
-          "rationale": "Aorist-imperative ἀφίστημι 'depart/withdraw'. DIRECT QUOTATION of LXX Ps 6:9 (ET 6:8) — 'ἀπόστητε ἀπ’ ἐμοῦ, πάντες οἱ ἐργαζόμενοι τὴν ἀνομίαν'. 'จงออกไปให้พ้นหน้าเรา' = imperative 'go away from my presence'."
+          "rationale": "Luke’s citation echoes Greek Psalm 6:9 (English 6:8) in the command ἀπόστητε ἀπ’ ἐμοῦ. Luke addresses ἐργάται ἀδικίας. The psalm has οἱ ἐργαζόμενοι τὴν ἀνομίαν. Matthew 7:23 shares the psalm’s latter wording but opens with ἀποχωρεῖτε."
         },
         {
           "greek": "πάντες ἐργάται ἀδικίας",
@@ -941,7 +941,7 @@
           "rationale": "ἐργάτης = 'worker/doer'; ἀδικία = 'injustice/unrighteousness'. Luke's ἀδικίας varies slightly from LXX Ps 6:9 ἀνομίαν — same semantic field. 'ทำการอธรรม' continues established glossary (Matt 7:23 ἀνομία rendering, 23:28 also ἀνομία). ἀδικία shares the injustice/wickedness semantic range. Contextually same meaning."
         }
       ],
-      "notes": "DIRECT OT CITATION / ALLUSION: Ps 6:8 LXX (ET 6:9) — David's dismissal of his enemies becomes Jesus-as-Judge's dismissal of the falsely-claimed. Jesus assumes the David-Lord voice, a striking Christological move. Compare Matt 7:23 which uses ἀνομία (lawlessness) exactly-matching LXX; Luke has ἀδικία (unrighteousness) — minor Lukan variation, same force. KEY INTERPRETIVE POINT: workers-of-ADIKIA is a covenantal-wickedness term, not generic 'bad people' — it denotes covenant-faithlessness specifically. The pleaders were JEWS who had social-contact with Jesus but failed to enter via repentance-faith; they are indicted not as outsiders but as COVENANT-INSIDERS-TURNED-OUT. ADDED TO nt_ot_citations.json: LUK 13:27 direct_citation (PSA 6:8 LXX 'depart from me all workers of iniquity' — minor lexeme variation ἀδικία for ἀνομία)."
+      "notes": "Luke’s citation echoes Greek Psalm 6:9 (English 6:8) in the command ἀπόστητε ἀπ’ ἐμοῦ. Luke addresses ἐργάται ἀδικίας. The psalm has οἱ ἐργαζόμενοι τὴν ἀνομίαν. Matthew 7:23 shares the psalm’s latter wording but opens with ἀποχωρεῖτε."
     }
   },
   {
@@ -976,7 +976,7 @@
           "rationale": "Present-passive-participle 'being thrown out' + accusative + adversative δέ. uW figs-activepassive alternate: 'when God will have thrown you outside'. 'ถูกโยนออกไปข้างนอก' preserves both passive-voice and the throw-outside emphasis."
         }
       ],
-      "notes": "PARALLEL: Matt 8:11-12 (nearly-identical logion at centurion-faith episode). Luke places it in the Travel-Narrative; Matthew places it at Capernaum-centurion. Both assert the great-reversal: Gentiles in, some-Jews out. Luke's addition 'and all the prophets' extends the Abraham-Isaac-Jacob formula to include the prophetic-tradition as banqueters — emphasizing Israel's faithful-remnant WILL be at the feast (it's not 'all-Israel-out'). OT INTERTEXT: Isa 25:6-8 (eschatological-feast-for-all-peoples on Zion); Ps 112:10 LXX (ὁ ἁμαρτωλός ὄψεται...τοὺς ὀδόντας αὐτοῦ βρύξει καὶ τακήσεται — the sinner will see and gnash teeth). OT-citation-cluster. ADDED TO nt_ot_citations.json: LUK 13:28 (PSA 112:10 LXX gnashing-teeth-sinner + ISA 25:6-8 Zion-feast + MAT 8:11-12 parallel)."
+      "notes": "Luke uses the noun βρυγμός, gnashing, with “of teeth.” Greek Psalm 111:10 (English 112:10) uses the related verb βρύξει. Matthew 8:12 has Luke’s weeping-and-gnashing expression. The rich food of the feast in Hebrew Isaiah 25:6 is expressed differently in Rahlfs Greek: drinking wine and anointing with perfume. Isaiah provides a banquet parallel for the following verse."
     }
   },
   {
@@ -1001,7 +1001,7 @@
           "rationale": "Future-passive of ἀνακλίνω 'recline (at table)'. uW figs-metaphor: banquet-reclining as kingdom-joy. 'เอนกายร่วมโต๊ะเลี้ยง' matches Matt 8:11 established rendering (synoptic-parallel consistency)."
         }
       ],
-      "notes": "OT ALLUSIONS: Ps 107:3 LXX (ἐκ τῶν χωρῶν συνήγαγεν αὐτούς, ἀπὸ ἀνατολῶν καὶ δυσμῶν καὶ βορρᾶ καὶ θαλάσσης — God gathering exiles from 4 directions — though Ps 107 has θαλάσσης 'sea' for south; Luke has νότος); Isa 43:5-6 (I will bring your offspring from the east + from the west + from the north + from the south); Isa 49:12 (they will come from afar — north + west + land of Sinim); Mal 1:11 (from the rising of the sun even to its setting my name will be great among the nations). The Gentile-inclusion-motif is strongly embedded in Isaianic prophecy. Luke expands Matt's two-direction formula (east/west) to the full four-direction merism, emphasizing Gentile-inclusion more explicitly. ADDED TO nt_ot_citations.json: LUK 13:29 (PSA 107:3 + ISA 43:5-6 + ISA 49:12 + MAL 1:11 four-directions-gathering cluster)."
+      "notes": "Jesus names east, west, north and south. Greek Psalm 106:3 (English 107:3) lists east, west, north and the sea. Greek Isaiah 49:12 names north, sea and the land of the Persians, where Hebrew has the land of Sinim. Isaiah 43:5–6 and Malachi 1:11 provide further comparisons for a far-reaching gathering or worship. Luke does not specify the identity of each group coming to eat."
     }
   },
   {
@@ -1101,7 +1101,7 @@
           "rationale": "Present-passive-indicative of τελειόω 'complete/perfect/finish'. uW gives 4 options: (1) complete ministry [most likely contextual]; (2) reach destination; (3) give life as sacrifice; (4) demonstrate supreme love. We go with option (1) — 'สำเร็จกิจ' captures 'complete the work/ministry' and allows readers to hear the additional Christological-passion resonance without foreclosing. 'เรา' royal preserves divine-self-claim."
         }
       ],
-      "notes": "KEY INTERPRETIVE DECISIONS: (1) ἀλώπηξ — calling Herod a fox is SHARPLY derogatory in Jewish idiom. In Talmudic sources (Pirke Avot 4:15), fox = cunning-but-weak creature, opposite of lion (king). In Greek-classical tradition (Aesop, Aristophanes), fox = sneaky-unreliable. Likely Jesus combines both nuances: Herod is devious BUT ultimately insignificant compared to Jesus's prophetic mission. (2) τελειοῦμαι — we take option (1) 'complete the work/ministry' as the primary sense but the Christological-passion-echo is unavoidable given 'the third day' trope (cf. Hosea 6:2 LXX 'ἐν τῇ ἡμέρᾳ τῇ τρίτῃ ἀναστησόμεθα'). Christian readers will hear the double-entendre; we preserve that ambiguity. (3) The 'today-tomorrow-third-day' is an idiom for 'soon' but the specific 'third day' cannot be accidentally-chosen in a gospel. Narrative irony: Jesus speaks mortality-casualness while the reader knows the passion-kerygma. OT-echo: Hosea 6:2 ('on the third day he will raise us up'). ADDED TO nt_ot_citations.json: LUK 13:32 (HOS 6:2 third-day-raising resurrection-echo + EZK 37:3-14 dead-bones-raised prophetic-restoration)."
+      "notes": "Hosea 6:2 describes a group rising on the third day. The vision in Ezekiel 37:3–14 describes restoration to life but gives no third-day timetable. Jesus speaks of completing his work. The comparison of Herod to a fox conveys a judgment of him, but the saying does not explain which characteristics of the animal were intended."
     }
   },
   {
@@ -1176,7 +1176,7 @@
           "rationale": "Aorist-indicative 'you-plural did not want'. Addresses people of Jerusalem (plural). Matches Matt 23:37 rendering 'หาปรารถนาไม่' (emphatic-negative archaic-register for weight)."
         }
       ],
-      "notes": "PARALLEL: Matt 23:37 (nearly-verbatim). We preserve synoptic-parallel consistency by matching Matt 23:37's Thai wording exactly for the overlapping elements (stoning-prophets formula, hen-chicks-wings simile, unwilling-finale). HAPAX νοσσιά — only NT occurrence. Variants across NT: νοσσίον (Matt 23:37), νοσσία (Luke 13:34 here). The Thai rendering 'ลูก' covers both without lexical distinction. OT ALLUSIONS (extensive): Deut 32:11 (eagle stirring up her nest, hovering over her young, spreading her wings); Ruth 2:12 (under whose wings you have come for refuge); Ps 17:8 (shadow of your wings); Ps 36:7; Ps 57:1; Ps 61:4; Ps 63:7; Ps 91:4 (under his wings you will find refuge). Jesus assumes the YHWH-as-mother-bird role, a strong Christological claim. OT prophet-killing tradition cited from v.33 notes applies. Matt 23:37 is positioned at the END of woes-to-scribes-and-Pharisees; Luke positions it DURING the Travel-Narrative BEFORE Jerusalem-entry — Luke's placement emphasizes Jesus's mourning-heart BEFORE judgment-confrontation, while Matthew's emphasizes mourning AT judgment-confrontation-climax. ADDED TO nt_ot_citations.json: LUK 13:34 (DEU 32:11 + RUT 2:12 + PSA 17:8 + PSA 36:7 + PSA 57:1 + PSA 61:4 + PSA 91:4 wings-refuge-cluster + 2CH 24:20-22 stoning-prophets + MAT 23:37 parallel)."
+      "notes": "PARALLEL: Matt 23:37 (nearly-verbatim). We preserve synoptic-parallel consistency by matching Matt 23:37's Thai wording exactly for the overlapping elements (stoning-prophets formula, hen-chicks-wings simile, unwilling-finale). HAPAX νοσσιά — only NT occurrence. Variants across NT: νοσσίον (Matt 23:37), νοσσιά (Luke 13:34 here). The Thai rendering 'ลูก' covers both without lexical distinction. OT ALLUSIONS (extensive): Deut 32:11 (eagle stirring up her nest, hovering over her young, spreading her wings); Ruth 2:12 (under whose wings you have come for refuge); Ps 17:8 (shadow of your wings); Ps 36:7; Ps 57:1; Ps 61:4; Ps 63:7; Ps 91:4 (under his wings you will find refuge). Jesus assumes the YHWH-as-mother-bird role, a strong Christological claim. OT prophet-killing tradition cited from v.33 notes applies. Matt 23:37 is positioned at the END of woes-to-scribes-and-Pharisees; Luke positions it DURING the Travel-Narrative BEFORE Jerusalem-entry — Luke's placement emphasizes Jesus's mourning-heart BEFORE judgment-confrontation, while Matthew's emphasizes mourning AT judgment-confrontation-climax. ADDED TO nt_ot_citations.json: LUK 13:34 (DEU 32:11 + RUT 2:12 + PSA 17:8 + PSA 36:7 + PSA 57:1 + PSA 61:4 + PSA 91:4 wings-refuge-cluster + 2CH 24:20-22 stoning-prophets + MAT 23:37 parallel)."
     }
   },
   {
@@ -1193,7 +1193,7 @@
         {
           "greek": "ἰδοὺ ἀφίεται ὑμῖν ὁ οἶκος ὑμῶν",
           "thai": "ดูเถิด บ้านของพวกเจ้าจะถูกทิ้งให้แก่พวกเจ้า",
-          "rationale": "TEXTUAL VARIANT: SBLGNT/NA28/BSB do NOT include ἔρημος 'desolate' (Byz/TR adds ἔρημος). We follow SBLGNT — 'บ้านของพวกเจ้าจะถูกทิ้งให้แก่พวกเจ้า' without 'desolate'. Present-passive ἀφίεται has future-reference (uW translate-tense: 'your house will be left to you alone'). NOTE: The Matt 23:38 parallel INCLUDES ἔρημος ('รกร้าง' per Matt 23:38 translation) — so our Luke 13:35 and Matt 23:38 will differ, correctly reflecting the manuscript-reality. Documented."
+          "rationale": "The BSB reads “left to you desolate.” The selected Greek and NA28 omit ἔρημος here, while Robinson–Pierpont includes it. Matthew 23:38 also includes the adjective. The Thai follows the shorter Luke text. The blessing quotes the first half of Greek Psalm 117:26 (Hebrew and common English 118:26)."
         },
         {
           "greek": "οἶκος",
@@ -1213,10 +1213,10 @@
         {
           "greek": "Εὐλογημένος ὁ ἐρχόμενος ἐν ὀνόματι κυρίου",
           "thai": "ขอให้ผู้ที่มาในพระนามขององค์พระผู้เป็นเจ้าได้รับพระพร",
-          "rationale": "DIRECT CITATION of Ps 118:26 LXX (verbatim). Matches Matt 23:39 rendering for synoptic-parallel consistency. 'พระนามขององค์พระผู้เป็นเจ้า' = divine-name honorific (κυρίου as YHWH-placeholder per RULES §4). 'ได้รับพระพร' = be-blessed (perfect-passive participle of εὐλογέω)."
+          "rationale": "The first half of Psalm 117:26 LXX gives the words blessing the one who comes in the Lord’s name. Luke does not quote the entire psalm verse."
         }
       ],
-      "notes": "TEXTUAL VARIANT: Luke 13:35 SBLGNT/NA28 reads 'ἀφίεται ὑμῖν ὁ οἶκος ὑμῶν' WITHOUT ἔρημος 'desolate'. Byz/TR adds ἔρημος (assimilation to Matt 23:38). BSB renders 'left to you desolate' per mixed-text but critical-text English (NIV, ESV, NASB) vary. We follow SBLGNT main text. The parallel in Matt 23:38 DOES have ἔρημος in our translation (per manuscript-reality) — this is CORRECT synoptic-divergence reflecting actual-Greek-divergence. DIRECT CITATION: Ps 118:26 LXX (εὐλογημένος ὁ ἐρχόμενος ἐν ὀνόματι κυρίου) — word-for-word. This is the SAME verse the crowds shout at Jesus's triumphal-entry (Luke 19:38). Luke's structural-inclusio: 13:35 prophesies the shout; 19:38 fulfills. OT INTERTEXTUAL: Jer 12:7 (I have forsaken my house, I have abandoned my heritage), Jer 22:5 (this house shall become a desolation), 1 Kings 9:7-8 (if you turn, the temple will become a heap) — all traditions of house-as-city/temple abandoned by God. The MEANING of 'until' is debated: (1) conditional-future (Israel repents, then sees Jesus); (2) Christological-triumphal-entry (19:38 fulfillment); (3) eschatological-second-coming (Rom 11:26 'all Israel'). Thai rendering preserves all three readings. ADDED TO nt_ot_citations.json: LUK 13:35 direct_citation (PSA 118:26 LXX 'blessed-is-he-who-comes-in-the-name-of-the-Lord') + LUK 13:35 (JER 12:7 + JER 22:5 + 1KI 9:7-8 house-forsaken cluster)."
+      "notes": "The BSB reads “left to you desolate.” The selected Greek and NA28 omit ἔρημος here, while Robinson–Pierpont includes it. Matthew 23:38 also includes the adjective. The Thai follows the shorter Luke text. The blessing quotes the first half of Greek Psalm 117:26 (Hebrew and common English 118:26)."
     }
   }
 ]

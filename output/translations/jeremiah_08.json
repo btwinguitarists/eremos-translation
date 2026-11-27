@@ -283,7 +283,7 @@
           "rationale": "pəquddâ (visitation/punishment, noun from פָּקַד) here = sense (4) judgment → การลงโทษ per paqad_visit_attend_2026-05.md. אָמַר יְהוָה → องค์พระผู้เป็นเจ้าตรัสดังนี้; Layer 1: יהוה → องค์พระผู้เป็นเจ้า. Repeats 6:15 verbatim. Verse ends with ס marker (omitted)."
         }
       ],
-      "notes": "Repeats 6:15 verbatim (the shameless leaders falling at the time of ‘punishment,’ פְּקֻדָּה sense-4). The 6:14–15 // 8:11–12 doublet binds the two oracles. אָמַר יְהוָה rendered as utterance-tag."
+      "notes": "Closely parallels 6:15 (the shameless leaders falling at the time of ‘punishment,’ פְּקֻדָּה sense-4). The 6:14–15 // 8:11–12 doublet binds the two oracles. אָמַר יְהוָה rendered as utterance-tag."
     }
   },
   {
@@ -538,6 +538,12 @@
   },
   {
     "reference": "Jeremiah 8:23",
+    "versification": {
+      "mt_ref": "Jeremiah 8:23",
+      "english_ref": "Jeremiah 9:1",
+      "bsb_ref": "Jeremiah 9:1",
+      "diverges": true
+    },
     "chapter": 8,
     "verse": 23,
     "language": "hebrew",
@@ -556,10 +562,10 @@
         {
           "hebrew": "versification: MT 8:23 = English/BSB 9:1",
           "rendering": "(MT-anchored numbering)",
-          "rationale": "Eremos anchors on MT versification (verse_schema §2): this verse is MT Jeremiah 8:23, but English/BSB number it 9:1 (the chapter break falls one verse earlier in English). The bsb_english field carries the BSB 9:1 text for back-translation alignment. No `versification` sub-object is added (no entry in data/versification_map.json for JER 8 — adding one would spuriously flag check_versification_anchor; documented here instead). The whole of MT ch. 9 is likewise shifted +1 vs English."
+          "rationale": "Eremos anchors on MT versification (verse_schema §2): this verse is MT Jeremiah 8:23, but English/BSB number it 9:1 (the chapter break falls one verse earlier in English). The bsb_english field carries the BSB 9:1 text for back-translation alignment."
         }
       ],
-      "notes": "VERSIFICATION: MT 8:23 = English/BSB 9:1. Eremos follows MT (verse_schema §2.1: Jeremiah uses MT order). The famous ‘weeping prophet’ wish — head a spring, eyes a fountain of tears for the slain. bsb_english = BSB 9:1. No versification sub-object (no map entry for JER 8; would false-flag). Flag for the versification_map maintainer: JER 8/9 boundary divergence is not yet in data/versification_map.json."
+      "notes": "VERSIFICATION: MT 8:23 = English/BSB 9:1. Eremos follows MT (verse_schema §2.1: Jeremiah uses MT order). The famous ‘weeping prophet’ wish — head a spring, eyes a fountain of tears for the slain. bsb_english = BSB 9:1."
     }
   }
 ]

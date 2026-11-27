@@ -16,7 +16,7 @@ Three of the most-cited MT-vs-LXX divergences in Hebrew Bible scholarship occur 
 
 **MT:** וַיֹּאמֶר קַיִן אֶל־הֶבֶל אָחִיו וַיְהִי בִּהְיוֹתָם בַּשָּׂדֶה ("And Cain said to Abel his brother, and it came to pass while they were in the field...") — MT has a **silent gap** between "Cain said" and "in the field." Cain's words are not preserved.
 
-**LXX + SP (Samaritan Pentateuch) + Syriac + Vulgate + Targums:** all four ancient versions agree in supplying εἴπωμεν εἰς τὸ πεδίον ("Let us go out to the field"). The gap-fill is **broadly attested across four independent textual traditions** — the only major textual case in Genesis where the LXX divergence has cross-versional support of this breadth.
+**LXX + SP (Samaritan Pentateuch) + Syriac + Vulgate + Targums:** the Samaritan Pentateuch and several ancient versions supply Cain’s invitation. The Septuagint reads διέλθωμεν εἰς τὸ πεδίον (“Let us go out to the field”). The invitation is **widely attested** — the only major textual case in Genesis where the LXX divergence has cross-versional support of this breadth.
 
 **Eremos surface text (updated 2026-05-12):** includes the addition **inline without brackets**, matching Berean Standard Bible (BSB) — the project's foundational translation philosophy:
 

@@ -168,15 +168,16 @@ def emit_chapter(code: str, chapter: int, slug: str, rows: list[dict], superscri
 def emit_variants(slug: str, chapter: int) -> list[str]:
     """Tier 2 textual-variant notes for a chapter (as \\rem lines)."""
     lines: list[str] = []
-    # Tier 2 textual-variant chapter-footer notes. Two sub-types:
+    # Tier 2 textual-variant chapter-footer notes:
     #   - inclusion_variant_absent (whole-verse omission)
     #   - reading_variant (word-substitution, e.g. 1 Tim 3:16 Ὃς vs Θεός)
+    #   - ot_textual_reading (Hebrew and ancient-version readings named in the note)
     tv_path = TEXTUAL_VARIANTS / f"{slug}_{chapter:02d}.json"
     if tv_path.exists():
         variants = json.loads(tv_path.read_text(encoding="utf-8"))
         renderable = [
             v for v in variants
-            if v.get("type") in ("inclusion_variant_absent", "reading_variant")
+            if v.get("type") in ("inclusion_variant_absent", "reading_variant", "ot_textual_reading")
         ]
         # Skip pending-pipeline-translation stubs (entries that have structural
         # metadata — Greek, witnesses — but whose Thai fields are awaiting
@@ -195,7 +196,9 @@ def emit_variants(slug: str, chapter: int) -> list[str]:
             for av in complete_verses:
                 verse_num = av["verse"]
                 expl = av.get("explanation_thai", "")
-                if av.get("type") == "reading_variant":
+                if av.get("type") == "ot_textual_reading":
+                    lines.append(f"\\rem ข้อ {chapter}:{verse_num} — {expl}")
+                elif av.get("type") == "reading_variant":
                     tr_thai_alt = av.get("tr_byz_thai_alt", "")
                     lines.append(
                         f"\\rem ข้อ {chapter}:{verse_num} — ต้นฉบับไบแซนไทน์/TR อ่านว่า: «{tr_thai_alt}» "
@@ -207,6 +210,17 @@ def emit_variants(slug: str, chapter: int) -> list[str]:
                         f"\\rem ข้อ {chapter}:{verse_num} — ต้นฉบับไบแซนไทน์/TR รวมไว้: «{tr_thai}» "
                         f"— {expl}"
                     )
+
+        pastoral = [
+            entry for entry in variants
+            if entry.get("type") == "rod_loving_discipline"
+            and entry.get("explanation_thai")
+            and not entry.get("_pending_pipeline_translation")
+        ]
+        if pastoral:
+            lines.extend(["", "\\rem หมายเหตุเรื่องการอบรมเด็ก"])
+            for entry in pastoral:
+                lines.append(f"\\rem ข้อ {chapter}:{entry['verse']} — {entry['explanation_thai']}")
 
     return lines
 

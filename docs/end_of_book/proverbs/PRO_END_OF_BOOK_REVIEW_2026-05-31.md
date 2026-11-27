@@ -84,3 +84,5 @@ God's body-part imagery preserved where the Hebrew has it (the eyes of the LORD;
 ## DECIDE item blocking `book-proverbs-v1`
 
 - **Item 6** — approve a canonical `אֶרֶךְ אַפַּיִם` rendering (normalize 14:29/15:18/16:32/25:15) + phrase-lock tightening. Only item blocking a clean `check_phrase_consistency`. All others are LOCKED/STABLE/REVIEW and do not block the tag.
+
+**Editorial update, November 2026.** In May the pastoral notes were present at 13:24 and 23:13–14. The same distinction between loving discipline and abuse is now explained at 22:15 and 29:15 as well.

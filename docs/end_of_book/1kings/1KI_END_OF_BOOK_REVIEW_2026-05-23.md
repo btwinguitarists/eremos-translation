@@ -1,5 +1,9 @@
 # 1 Kings — End-of-Book Review
 
+**Editorial clarification, 27 November 2026.**
+
+- **1 Kings 1:31.** Bathsheba wishes King David long life. The Hebrew יְחִי expresses her wish, and the Thai begins it with ขอ.
+
 **Date:** 2026-05-23
 **Scope:** All 22 chapters of 1 Kings (817 verses); `glossary.json`; `docs/translator_decisions/` corpus (~95 docs through the 2 Samuel end-of-book audit).
 **Trigger:** 1KI 22 shipped (commit `eeb86e6`); per `docs/END_OF_BOOK_CHECKLIST.md`. **Tenth OT book in the corpus** (after Ruth, Jonah, Genesis, Exodus, Numbers, Deuteronomy, Joshua, Judges, 1 Samuel, 2 Samuel) and the **fourth Former-Prophets / Deuteronomistic-History book.** 1 Kings is the first OT-corpus book whose dominant literary architecture is the **Deuteronomistic regnal cycle** (accession formula → evaluation formula → "walked in the way of X" → death/burial formula → succession), and the first downstream stress-test of two locks that explicitly named 1 Kings as a forward-cover target: `malak_yhwh_2026-05.md` ("1 Kings 19 (Elijah at Horeb)") and `spirit_of_yhwh_empowerment_2026-05.md` (1 Kgs 18:12, 22:24).
