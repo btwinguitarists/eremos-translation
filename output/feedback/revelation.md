@@ -1738,13 +1738,13 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/revelation_01.json` | `d858753a9841dc28b6cb626fbf6ca99a3b9faf607d78b9ecb578480fffde844b` |
-| `output/translations/revelation_02.json` | `58347e8d095ef8a38685239557385f923714036fc21364ac39652a656f64089d` |
-| `output/translations/revelation_03.json` | `d9f4ec610792f9712d1e4e42cc9fbafe8e7254bc99448c4a0f291c78e9864dfa` |
+| `output/translations/revelation_01.json` | `f1b0ecef1fb3ed1bf8aac3b60f5548fd288d5393735cf26abfb8e3200a413750` |
+| `output/translations/revelation_02.json` | `34c1887c78b4c436e7a03084f575c2ddf9b26b862d50020e86f96df090174343` |
+| `output/translations/revelation_03.json` | `44772186a6c310b3fddace25718da1d2bf9bb1eac36fd55a504199ded6b7dcf7` |
 | `output/translations/revelation_04.json` | `dec1f2e1741690ac16af250378d60a70c7437bcd9a51258c420026d59921f3bc` |
 | `output/translations/revelation_05.json` | `0f0961c30911a5ba5c228915683906691a7fae893b56968d8372c9bb5b322f6a` |
 | `output/translations/revelation_06.json` | `ede55e2019358c5df31f2b15413cf1c3c244ef2819b8d17949d4fb2946cd9185` |
-| `output/translations/revelation_07.json` | `d31827a6065c26a394d1441f62055db13e4b57d3d48387d58ed6bca54502357f` |
+| `output/translations/revelation_07.json` | `d9a653e1e8542a6f49361c4819d26c957c66ec615980db764d3ea4672ae0c786` |
 | `output/translations/revelation_08.json` | `ced1259392f0f25ef2ecb69416d507ceb5b4607d792cf10d57fff1e45ff3dfa7` |
 | `output/translations/revelation_09.json` | `d1f3010a06cb19968688fef7497f247be14820ae292c99bcfc4bd42a57924f9b` |
 | `output/translations/revelation_10.json` | `e83d4226e82829858d1d7455da6d9ef1c6698f940783a17782f8a5585466d5d2` |
@@ -1756,8 +1756,8 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/revelation_16.json` | `75faeb9e477675ca60f722d6683ee928a06a06e47e542ac249b7f13804efbb97` |
 | `output/translations/revelation_17.json` | `550728a1b28cc7f9f18eafc45744a005ac502211735222c4359d3feb4f86f2ad` |
 | `output/translations/revelation_18.json` | `c20078086fcc8269ad9ac8b0e751a7f90e730f8942177323f8e3981a4b075363` |
-| `output/translations/revelation_19.json` | `3b9d9dd6a17dfdd11d614dcf0c562d15e166bf0ea86aad77d18b5b7358eded4a` |
-| `output/translations/revelation_20.json` | `7dfde90f761b7fa7bb19dd0454d57a9b251e4b9497a2e7f0acd4cfd03ffc3fb3` |
-| `output/translations/revelation_21.json` | `681115d69cb0dea0b0e31f7da69aa5cc782662a9e1e502e833f39d78822a8e26` |
-| `output/translations/revelation_22.json` | `476aece34f9d1598532308a4173904ad0f60e70ffed2c5923cebede7294483b2` |
+| `output/translations/revelation_19.json` | `4164fa9ad19399efa90b7008a9a2b61e82923096fbcf8d4df3bd881daabcf2c7` |
+| `output/translations/revelation_20.json` | `c7027f449f83712e448c56143882fe4ebf8beae34d5c87ce8430139d36561727` |
+| `output/translations/revelation_21.json` | `8eb61d791e33de56ca71e04de2e3a1d0a99551768bb989871047c3dd0f6238f2` |
+| `output/translations/revelation_22.json` | `0e2c70750b9a38d73535b3fc62b69675c5b99c85559bf2c982be6cbb47fcc139` |
 
