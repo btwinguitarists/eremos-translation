@@ -758,7 +758,7 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **9** เหล่าสาวกของพระองค์ทูลถามพระองค์ว่า คำอุปมานี้มีความหมายว่าอย่างไร
 
-**10** พระองค์ตรัสว่า “พระเจ้าทรงประทานให้พวกท่านรู้ความลึกลับแห่งอาณาจักรของพระเจ้า แต่สำหรับคนอื่นนั้น เรากล่าวเป็นคำอุปมา เพื่อว่า ‘เมื่อเขามองดูก็จะไม่เห็น และเมื่อเขาได้ยินก็จะไม่เข้าใจ’”
+**10** พระองค์ตรัสว่า “พระเจ้าประทานให้พวกท่านรู้ความลึกลับแห่งอาณาจักรของพระเจ้า แต่สำหรับคนอื่นนั้น เรากล่าวเป็นคำอุปมา เพื่อว่า ‘เมื่อเขามองดูก็จะไม่เห็น และเมื่อเขาได้ยินก็จะไม่เข้าใจ’”
 
 **11** คำอุปมานั้นมีความหมายดังนี้ เมล็ดคือพระวจนะของพระเจ้า
 
@@ -2413,7 +2413,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/luke_05.json` | `f6b8439a405cc818007e118fc32690d6b64de4cdaf6afbf3bcc37eeb9d889d1d` |
 | `output/translations/luke_06.json` | `57668f7eac9f79af91a06635227b02f77e841d01712453b9984c7a9f64e7b02a` |
 | `output/translations/luke_07.json` | `f0f5d309d863198dea0d3645c05eb919d8c550d94e567b9793d6328b2b0259b6` |
-| `output/translations/luke_08.json` | `57134926be1278447730107a1e734fea8de8e0e595ddff9bf680be5f759aa697` |
+| `output/translations/luke_08.json` | `2234e5e5f518a41fcdf7baf391eb02df8a94154e9c91df5d4e9539616bc1231a` |
 | `output/translations/luke_09.json` | `52b22018f7ec7330f2e99be4683b205d5ba6e705cb26669bd27142d08cae1fde` |
 | `output/translations/luke_10.json` | `85058fb4d5ee77206f42e9982356f819ffbc0b10a155b50df4f765317693e00b` |
 | `output/translations/luke_11.json` | `ee27f09a77a2107c285a8292c28de3a4cf0b1a895718391d6f08e04eb03e85bf` |

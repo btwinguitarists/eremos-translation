@@ -301,14 +301,14 @@
     "greek": "ὁ δὲ εἶπεν·Ὑμῖν δέδοται γνῶναι τὰ μυστήρια τῆς βασιλείας τοῦ θεοῦ,τοῖς δὲ λοιποῖς ἐν παραβολαῖς,ἵνα βλέποντες μὴ βλέπωσιν καὶ ἀκούοντες μὴ συνιῶσιν.",
     "bsb_english": "He replied, “The knowledge of the mysteries of the kingdom of God has been given to you, but to others I speak in parables, so that, ‘though seeing, they may not see; though hearing, they may not understand.’",
     "translation": {
-      "thai": "พระองค์ตรัสว่า “พระเจ้าทรงประทานให้พวกท่านรู้ความลึกลับแห่งอาณาจักรของพระเจ้า แต่สำหรับคนอื่นนั้น เรากล่าวเป็นคำอุปมา เพื่อว่า ‘เมื่อเขามองดูก็จะไม่เห็น และเมื่อเขาได้ยินก็จะไม่เข้าใจ’”",
+      "thai": "พระองค์ตรัสว่า “พระเจ้าประทานให้พวกท่านรู้ความลึกลับแห่งอาณาจักรของพระเจ้า แต่สำหรับคนอื่นนั้น เรากล่าวเป็นคำอุปมา เพื่อว่า ‘เมื่อเขามองดูก็จะไม่เห็น และเมื่อเขาได้ยินก็จะไม่เข้าใจ’”",
       "thai_literal": null,
       "thai_summary": "พระเยซูทรงอ้างอิสยาห์ 6:9 — คำเรียกพยากรณ์ที่อิสยาห์ได้รับเพื่อเตือนชนอิสราเอลที่ปฏิเสธพระวจนะของพระเจ้า การที่พระเยซูนำข้อนี้มาใช้หมายความว่า คำอุปมามีผลสองทาง — สำหรับผู้เชื่อช่วยให้เข้าใจลึกยิ่งขึ้น สำหรับผู้ไม่ตอบสนอง เป็นเครื่องกรองที่ทำให้พวกเขาได้ยินแต่ไม่เข้าใจอย่างแท้จริง",
       "key_decisions": [
         {
           "greek": "Ὑμῖν δέδοται γνῶναι",
-          "thai": "พระเจ้าทรงประทานให้พวกท่านรู้",
-          "rationale": "Per uW figs-activepassive: perfect-passive δέδοται 'has-been-given' with God as implicit divine-passive agent. Thai makes God explicit 'พระเจ้าทรงประทาน' (royal-prefix ทรง for divine-subject). 'ให้พวกท่านรู้' renders γνῶναι infinitive-of-purpose."
+          "thai": "พระเจ้าประทานให้พวกท่านรู้",
+          "rationale": "δέδοται is passive and the Greek does not name the giver. พระเจ้าประทาน makes the understood divine giver explicit. ประทาน is already a royal verb. The Isaiah 6:9 citation repeats βλέπω while the Thai distinguishes มองดู from เห็น."
         },
         {
           "greek": "τὰ μυστήρια τῆς βασιλείας τοῦ θεοῦ",
@@ -323,7 +323,7 @@
         {
           "greek": "ἵνα βλέποντες μὴ βλέπωσιν καὶ ἀκούοντες μὴ συνιῶσιν",
           "thai": "เพื่อว่า ‘เมื่อเขามองดูก็จะไม่เห็น และเมื่อเขาได้ยินก็จะไม่เข้าใจ’",
-          "rationale": "OT CITATION from Isaiah 6:9 LXX (abbreviated form). Per uW figs-quotesinquotes: Luke quotes Jesus quoting Isaiah. Inner ‘ ’ quote-within-quote per glossary-established convention. Greek contains same-root repetition βλέποντες/βλέπωσιν (seeing/see). Thai 'มองดู/เห็น' preserves the same-root play. συνίημι 'comprehend' → เข้าใจ (standard). ADDED TO NT_OT_CITATIONS."
+          "rationale": "The verb βλέπω occurs twice. มองดู and เห็น distinguish looking from seeing in the Thai rendering of the citation."
         }
       ],
       "notes": "OT CITATION: Luke 8:10 quotes Isaiah 6:9 (LXX abbreviated). Luke's version is shorter than Mark 4:12 and Matt 13:13-15 (which cite more of the Isaiah passage). The theological-tension verse: Jesus's teaching creates division — disciples receive understanding; outsiders hear but don't grasp. This is not arbitrary divine-hardening but a Jewish-prophetic pattern where revelation judges as well as saves. FULFILLMENT: Jesus applies Isaiah's commission-text to his own ministry, identifying outsiders' non-understanding as a fulfillment of the same prophetic pattern. ADDED TO NT_OT_CITATIONS."
@@ -351,7 +351,7 @@
           "rationale": "ὁ λόγος τοῦ θεοῦ → พระวจนะของพระเจ้า (glossary-established, distinctively Lukan phrase — 14x Acts alone). พระวจนะ honorifically elevates 'word' to divine-communication register. Per uW figs-metonymy: 'word' = the God-from-message."
         }
       ],
-      "notes": "Key allegorical-identification. ὁ λόγος τοῦ θεοῦ is a Lukan signature-phrase (Luke 5:1, 8:11, 8:21, 11:28; 14x Acts) distinguishing Luke from Mark's plainer 'word' (Mk 4:14 ὁ λόγος without θεοῦ). Luke's theological foregrounding of the word-as-divine-message anticipates Acts' theme of the word-of-God spreading."
+      "notes": "The seed is God’s word. In Acts an inflected form of λόγος immediately followed by τοῦ θεοῦ occurs in eleven verses (4:31, 6:2, 6:7, 8:14, 11:1, 12:24, 13:5, 13:7, 13:46, 17:13 and 18:11)."
     }
   },
   {
@@ -378,7 +378,7 @@
         {
           "greek": "ἵνα μὴ πιστεύσαντες σωθῶσιν",
           "thai": "เพื่อมิให้เขาเชื่อและได้รับความรอด",
-          "rationale": "Per uW figs-activepassive: σωθῶσιν aor-pass-subj 'be-saved' — divine-passive (God is implicit-agent of salvation). Thai 'ได้รับความรอด' matches glossary standard for σωτηρία/σῴζω (spiritual-salvation sense, distinct from v.36/48/50 physical-healing). CONTEXTUAL NOTE: this is the first of three σῴζω-uses in Luke 8 — here spiritual-salvation; v.36 demoniac-deliverance; v.48 hemorrhaging-woman-healing; v.50 dead-girl-restoration."
+          "rationale": "σῴζω concerns believing and being saved here. Later in the chapter the same verb is used of the deliverance and healings reported in verses 36, 48 and 50."
         }
       ],
       "notes": "First interpretive-allegory unit: path-seed = hearers from whom the devil snatches away the word. σῴζω here has its spiritual-salvation sense (not physical-healing); compare v.36 (deliverance), v.48 (healing), v.50 (restoration-to-life). The devil's goal is to prevent belief-leading-to-salvation — theological-anthropology: belief is the hinge of salvation."
@@ -646,7 +646,7 @@
           "rationale": "ὁ λόγος τοῦ θεοῦ → พระวจนะของพระเจ้า (established this chapter v.11). Double participle ἀκούοντες+ποιοῦντες 'hearing-and-doing.' Thai 'ฟัง...และประพฤติตาม' captures the two-fold response. Luke's 'hear AND do' is distinctive (Matthew has 'do the will of my Father'; Mark has 'do the will of God')."
         }
       ],
-      "notes": "Luke's version uniquely pairs ἀκούω (hear) + ποιέω (do) — tying this back to the Parable of the Sower's good-soil (v.15 which also emphasizes hearing + doing). Contrast with Mark 3:35 (does the will of God) and Matt 12:50 (does the will of my Father). Luke binds the family-redefinition saying to the preceding parable as a unified teaching-block on genuine responsiveness. Family-of-God motif is central to Luke-Acts theology."
+      "notes": "Luke 8:15 describes those who hear the word, hold it fast and bear fruit with endurance. Here Jesus calls those who hear God’s word and do it his mother and brothers. Hearing links the two descriptions, while their descriptions of the response differ."
     }
   },
   {
@@ -718,7 +718,7 @@
     "translation": {
       "thai": "พวกเขาจึงเข้ามาปลุกพระองค์ทูลว่า “นายท่าน นายท่าน พวกเรากำลังจะพินาศแล้ว” พระองค์ทรงลุกขึ้นแล้วทรงห้ามลมและคลื่นน้ำ สิ่งเหล่านั้นก็สงบลง ทะเลสาบก็ราบเรียบ",
       "thai_literal": null,
-      "thai_summary": "คำเรียก “นายท่าน นายท่าน” (ἐπιστάτα ἐπιστάτα) ซ้ำสองครั้งแสดงความเร่งด่วนและหวาดกลัวของเหล่าสาวก ในลูกา คำนี้ใช้เฉพาะโดยเหล่าสาวกต่อพระเยซู (5:5, 8:24, 8:45, 9:33, 9:49, 17:13) — เป็นคำเรียกที่ลูกาใช้แทนคำว่า “รับบี” ซึ่งเป็นคำฮีบรู-อราเมอิกที่ผู้อ่านชาวกรีกไม่คุ้นเคย การที่พระเยซูทรง “ห้าม” ลมและคลื่นเป็นภาษาแห่งการขับไล่ผี — ชี้ว่าพระองค์ทรงครอบครองเหนือพลังแห่งความโกลาหล",
+      "thai_summary": "พวกสาวกปลุกพระเยซูและเรียกพระองค์ซ้ำสองครั้งด้วยความตกใจ พระเยซูทรงลุกขึ้นห้ามลมและคลื่น แล้วลมกับคลื่นก็สงบ มาระโก 4:38 เล่าเหตุการณ์เดียวกันโดยใช้คำเรียกพระองค์ว่า “อาจารย์”",
       "key_decisions": [
         {
           "greek": "Ἐπιστάτα ἐπιστάτα",
@@ -741,7 +741,7 @@
           "rationale": "Per uW figs-parallelism: 'ceased and became calm' = repetition for emphasis. γαλήνη → ราบเรียบ/สงบ (glossary-established via Mark 4:39 'γαλήνη μεγάλη → สงบราบเรียบอย่างยิ่ง'). Thai splits into two parallel clauses preserving the emphasis."
         }
       ],
-      "notes": "Luke's ἐπιστάτα (used only by disciples) is his Greek-substitute for ῥαββί (which appears 0x in Luke, 4x Mark, 4x Matthew, 8x John). ἐπιτιμάω is the exorcism-verb (Mk 1:25 demon) applied here to storm — suggests the storm is being treated as a quasi-demonic force, a reading supported by the Second-Temple Jewish worldview where chaotic-waters and evil-spirits are cosmologically-linked. The disciples' panic contrasts with Jesus's sovereign-calm."
+      "notes": "Luke uses ἐπιστάτης seven times in six verses. It occurs twice in the disciples’ cry here and once at 5:5, 8:45, 9:33, 9:49 and 17:13, where ten men with a skin disease call to Jesus. Mark 4:38 uses Διδάσκαλε. In SBLGNT the distinct term ῥαββί occurs four times in Matthew, three in Mark, none in Luke and eight in John. Mark 10:51 has ῥαββουνί."
     }
   },
   {
@@ -1246,7 +1246,7 @@
           "rationale": "Divine addressee παρακαλέω → ทูลเชิญ (humble-invitation-to-divine). Divine movement εἰσέρχομαι → เสด็จไป (royal). Jairus speaks with full divine-reverence, distinct from demon-register of v.28."
         }
       ],
-      "notes": "Jairus's name יָאִיר means 'he enlightens/he gives light' (Jastrow) — thematically-resonant with the resurrection-to-come (the 'enlightenment' of his daughter's life restored). Synagogue-leader was a position of religious+social eminence in the Jewish community. His public prostration at Jesus's feet is a costly act of public humility — a religious-establishment figure bowing to an itinerant-prophet."
+      "notes": "Jairus is identified by name and as a synagogue leader. Luke tells how he appeals to Jesus without interpreting his name as part of the healing story."
     }
   },
   {
@@ -1263,7 +1263,7 @@
         {
           "greek": "θυγάτηρ μονογενὴς ἦν αὐτῷ",
           "thai": "บุตรสาวคนเดียวของเขา",
-          "rationale": "θυγάτηρ → บุตรสาว (glossary-established, formal register). μονογενής → คนเดียว (glossary-established Mark 5:23/Luke 7:12 precedent). Dative-of-possession αὐτῷ → ของเขา."
+          "rationale": "Luke calls the girl an only daughter, using μονογενής as at 7:12 and 9:38 for an only child. Mark 5:23 uses θυγάτριον, little daughter. Luke’s ὡς marks her age as about twelve. Mark 5:25 and 5:42 also juxtapose the woman’s twelve years of bleeding and the girl’s age."
         },
         {
           "greek": "ὡς ἐτῶν δώδεκα",
@@ -1281,7 +1281,7 @@
           "rationale": "συμπνίγω (echoes v.14 parable-thorn-choking metaphor) here used literally: the crowd pressing-around Jesus. Thai 'เบียดเสียด' glossary-established (Mark 5:24 parallel). Royal referent → พระองค์."
         }
       ],
-      "notes": "Twelve-year detail paired with hemorrhage-twelve-years (v.43): the daughter's total life-duration equals the woman's total suffering-duration. Luke's narrative-parallelism sets up the interlocking-healing structure. The verb συμπνίγω (pressing) echoes the parable-of-sower (v.14) where cares-of-life choke the word — same verb, different application."
+      "notes": "Luke calls the girl an only daughter, using μονογενής as at 7:12 and 9:38 for an only child. Mark 5:23 uses θυγάτριον, little daughter. Luke’s ὡς marks her age as about twelve. Mark 5:25 and 5:42 also juxtapose the woman’s twelve years of bleeding and the girl’s age."
     }
   },
   {
@@ -1323,12 +1323,12 @@
     "translation": {
       "thai": "นางเข้ามาข้างหลังพระองค์และแตะชายฉลองพระองค์ ในทันใดนั้น โลหิตของนางก็หยุดไหล",
       "thai_literal": null,
-      "thai_summary": "ชายเสื้อ (κράσπεδον) ของชาวยิวเป็น “ปอยผ้าสี่มุม” (ציצית tzitzit) ตามกฎเฉลยธรรมบัญญัติ 22:12 เป็นเครื่องเตือนใจให้ระลึกถึงพระบัญญัติของพระเจ้า การที่หญิงนางนี้มุ่งไปที่ชายเสื้อโดยเฉพาะสะท้อนถึงความเชื่อของนางในอำนาจฝ่ายจิตวิญญาณของพระเยซูในฐานะ “ผู้นั้นที่มีพระเจ้าอยู่กับเขา” (คนสะมาเรียใน มล 3:20 ถูกเรียกว่า “ดวงอาทิตย์ธรรมะจะมีฤทธิ์รักษาในปีกของมัน”)",
+      "thai_summary": "หญิงผู้นั้นแตะชายฉลองพระองค์ของพระเยซูจากข้างหลัง แล้วโลหิตก็หยุดไหลทันที กันดารวิถี 15:38 กล่าวถึงพู่ที่มุมเสื้อ ส่วนเฉลยธรรมบัญญัติ 22:12 ระบุว่ามีสี่มุม ลูกาไม่ได้บอกว่าหญิงผู้นี้กำลังนึกถึงพระคัมภีร์ตอนใด",
       "key_decisions": [
         {
           "greek": "ἥψατο τοῦ κρασπέδου τοῦ ἱματίου αὐτοῦ",
           "thai": "แตะชายฉลองพระองค์",
-          "rationale": "Per uW translate-unknown: κράσπεδον = tassel (ציצית) required by Num 15:38-39 and Deut 22:12 on the four-corners of a Jewish-man's garment. Divine-garment → ฉลองพระองค์ (royal garment, RULES §3). Thai 'ชาย' = edge/fringe; 'ชายฉลองพระองค์' = the-edge-of-the-royal-garment, preserving both the textile-fringe and royal-register. NEW GLOSSARY: κράσπεδον → ชายฉลองพระองค์ (divine-subject) / ชายเสื้อ (human-subject)."
+          "rationale": "The woman touches the edge of Jesus’s garment. Numbers 15:38 mentions tassels at garment corners and Deuteronomy 22:12 specifies four corners. Malachi 3:20 (4:2 in common English numbering) addresses those who fear God’s name and pictures healing in the wings of the sun of righteousness. Luke does not give that passage as her reason for touching the garment."
         },
         {
           "greek": "παραχρῆμα",
