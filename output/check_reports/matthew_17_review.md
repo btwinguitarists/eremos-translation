@@ -12,6 +12,7 @@
 | Greek-field integrity | ✅ clean | [greek_field_integrity_matthew_17.md](greek_field_integrity_matthew_17.md) |
 | Phrase consistency (corpus-wide) | ✅ clean | [phrase_consistency.md](phrase_consistency.md) |
 | unfoldingWord wording (license gate) | ✅ clean | [uw_wording_matthew_17.md](uw_wording_matthew_17.md) |
+| NT honorifics (royal register) | ✅ clean | [nt_honorifics_matthew_17.md](nt_honorifics_matthew_17.md) |
 
 ## Ship criterion
 
