@@ -3416,23 +3416,23 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/jeremiah_01.json` | `0fbbf862505c618e20c6a4c32e2ba355c5d0402721b0c8089224b299e9b16eab` |
-| `output/translations/jeremiah_02.json` | `6824ae6b1dabb306325ca62636a753a0bdc0f1056c72d115aeafb4ff3d5cd262` |
-| `output/translations/jeremiah_03.json` | `b4e713f5045827f8ea04c777e8bc9610540059c29e306de11d16dc5b4db29a27` |
-| `output/translations/jeremiah_04.json` | `2e40e806f4876ccbb97fb26f2590001183874e888815b7245d4fa917f2bd7a39` |
+| `output/translations/jeremiah_01.json` | `747522f9ff58d3d49b17d80c1043732ef71170b57f21446da35da10ae1d8ccba` |
+| `output/translations/jeremiah_02.json` | `28968c98657e4bc122ef758912df576d68c43885b248a75ef8dcf9bc5359204a` |
+| `output/translations/jeremiah_03.json` | `7647493f1c5bf346542e36e0adcc06ebbb2209b3ebea9818bcda4c0bf183d4ac` |
+| `output/translations/jeremiah_04.json` | `04189113ec599236ea2d9e824373523bc7309ad452e163b917c07ca0edd1e103` |
 | `output/translations/jeremiah_05.json` | `c48b6e3cd9093f770f998fc5d917fec08a2dc58d6ba3ff218cd2b4717dc9576f` |
 | `output/translations/jeremiah_06.json` | `033e6e4d59eab8517841d30911a2c6e36b5ab855efa7aba5e850884a470eac75` |
 | `output/translations/jeremiah_07.json` | `9cf6eafd79778fb87ced24a8af5675ba4458b607daf733b4c7acee59b736ed4a` |
-| `output/translations/jeremiah_08.json` | `cec1c5f15a6341003f086b1636ff43cf75dfa056a79c5273c9defa4c22bfe035` |
+| `output/translations/jeremiah_08.json` | `25b92bd8c8b8d0c132c0c87896e41ea09f08621e81218cd22fa242c764f2b8d6` |
 | `output/translations/jeremiah_09.json` | `e0ff0901d8baf0062588e6045c9d08c5c69c3e98894b66a71daf40437f28b5e9` |
 | `output/translations/jeremiah_10.json` | `715440babe6a48d190eca7503985b42cc98acaa544c4b8ba80ac9d83529c79a2` |
 | `output/translations/jeremiah_11.json` | `f99aa4b02481954b8b5baa9f984c81ae4a177a0b4d5e716f6a79b95ce4616e29` |
-| `output/translations/jeremiah_12.json` | `94c2a6d0f099108957e2058010018e58965dbc885b5f06b0ba1df9932209c3d2` |
+| `output/translations/jeremiah_12.json` | `70447b39df64be781af0ec29770751dea238318d9bec6da7d711d6c728169c03` |
 | `output/translations/jeremiah_13.json` | `8f4979595d86a1de9bc8f2d445d8c07c5e9659790ecc7857f6a1ab70550ffdc3` |
-| `output/translations/jeremiah_14.json` | `c6e7ae9cc7d3a8e7549079a110d37f11f70ee3b9b9bc887481daaedd2cea64f9` |
-| `output/translations/jeremiah_15.json` | `c54d801228e77cb4e564f59387ed3c1318ea1a3809d1c800133853893b4d7851` |
-| `output/translations/jeremiah_16.json` | `a5147133aca587a3022c71d48f80fa6f53e932a8e1908929589583dfce8d2642` |
-| `output/translations/jeremiah_17.json` | `2f660ad72839c41d5f499024b69167b37287f6aea9f281360ddbcaa67fed837e` |
+| `output/translations/jeremiah_14.json` | `ad4b242442363011b11ef1847620969bf71a5c145359a22c855303872c1662df` |
+| `output/translations/jeremiah_15.json` | `dd0700dd7254a7e699bac3584c34943ab102da41b45961661e7503acd8c5c4d6` |
+| `output/translations/jeremiah_16.json` | `91f8015395a4f38df838d70af6872f8d450c239c05774dfda386a74038f4f244` |
+| `output/translations/jeremiah_17.json` | `6d998e8f6d4caedcd2855ff76026ed744bf8234e947fe8be80f6f61be7e9b042` |
 | `output/translations/jeremiah_18.json` | `b66254dfcad63c44bb6bf1bdc1e33853f8837c22db05a22e3caefcd04948bd72` |
 | `output/translations/jeremiah_19.json` | `ab5105a88fafe96e917183c6cd28f796f1c978aa6690f83891915a993e98f487` |
 | `output/translations/jeremiah_20.json` | `e440252db860d87b723958e9ecc71160507699a2f2255b86daf4934150aaa6bf` |
@@ -3441,7 +3441,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/jeremiah_23.json` | `b5fe5ce5e1627dfe3dab6492d81148c8429dff405ef5cc9be199d182757c58ea` |
 | `output/translations/jeremiah_24.json` | `675b4417d827328c5b189b4f78f74413a311308915de24f5d97ff9e1b0158d42` |
 | `output/translations/jeremiah_25.json` | `130c5dfcb2ec87c643e8e4fdaed62d47659c765ac7e9c0bf1256f45827f6731f` |
-| `output/translations/jeremiah_26.json` | `e3b39f3eace0f9d40410b6940722e736e9837cd38e23326a469b8edf47f379fc` |
+| `output/translations/jeremiah_26.json` | `8c55a77e570be3915249d9d2ac9158eec518b89e8aa0ae550bc9e78c094cda23` |
 | `output/translations/jeremiah_27.json` | `31643c2daaf5d1e7cd2f6aa011ce0b74124cb4aa8fbf2f040221ae12d7794e54` |
 | `output/translations/jeremiah_28.json` | `6b3150259c06c107ae02022c8a6504aafe54cfe0c8a399beae19da03cb54eefd` |
 | `output/translations/jeremiah_29.json` | `3aa7a7751e4bc60d947578015001ad215db95e9939c02bc5233f754db8ec6c29` |
@@ -3451,7 +3451,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/jeremiah_33.json` | `2d9c64956523c69c3c94281f4f4542f81eec3864e2787bac8e3cdf9300c099ee` |
 | `output/translations/jeremiah_34.json` | `d608616660f6a9182d8acfd25568980b983e83d893a0674268f0c6722973c02f` |
 | `output/translations/jeremiah_35.json` | `a3664cfe845def835f924219ace22e3a9fe24a96b13e4ff5e2ce4075f9d10bbc` |
-| `output/translations/jeremiah_36.json` | `5e3a2a41745c6c1ad4a86e5c435f133de9fc314bdcf523f72278eb3723723b51` |
+| `output/translations/jeremiah_36.json` | `626561a157849147d14be8a66f15f1a8806f05c3f2efe453dea73bba2d2ae84a` |
 | `output/translations/jeremiah_37.json` | `d53f8ad0d8c9b1bd32bf58235e2a7208c52612765de6ddee5bb152f441bdebd8` |
 | `output/translations/jeremiah_38.json` | `b97fc93c91cdb3b574cd1c31f68f18c9dc41426b0de966ef8adcb69d1e754751` |
 | `output/translations/jeremiah_39.json` | `447862ed409ec6738d184ba7392eaa0da0c3f7752a89ef0e502f483b7e2f7f80` |
@@ -3459,13 +3459,13 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/jeremiah_41.json` | `aef38862713bd59280d34d6f25593e6badbebaee7f3da64317bb4d479f130ed9` |
 | `output/translations/jeremiah_42.json` | `38609c8a6c6f9eb4ab7e9c35549dd4333396a89dfa759fd0755ebaea56b88ddd` |
 | `output/translations/jeremiah_43.json` | `a378455a6a752079f83d3bec1c6e05c581c48f2d4ce64f950ed017d8c8e6bb42` |
-| `output/translations/jeremiah_44.json` | `b27d95fd92a5bdbc4e86410e8c004c0cca2048e4fa093dc4dc289b6a5dd0dc8d` |
+| `output/translations/jeremiah_44.json` | `5cfd79f8986ab8c3bd0e92dff7ee05c30684539c473b1d89c9bbff386e4a9a30` |
 | `output/translations/jeremiah_45.json` | `f2243c0cb4937ccf68bd25189b82cd13a6fdfcf42549e5cb8f171495a5029c6f` |
 | `output/translations/jeremiah_46.json` | `24b42be96b1b03faa908f68c653595986205149a0b94e767d0aeb1e5a8ee600e` |
 | `output/translations/jeremiah_47.json` | `8a6dc3a5bf4c332649e56f07a0efb02bf8156cc2fef792b97b1b088f0996eefd` |
 | `output/translations/jeremiah_48.json` | `139b7ec32d64288eccaa24898fa0681abd682bc3aacd8eb4577c4868c01f0730` |
 | `output/translations/jeremiah_49.json` | `ac4540ff08061cbba9b03a5bb56d419dd463c87d1cccdbed130ac8d799b6c94e` |
-| `output/translations/jeremiah_50.json` | `5019eafbbfa9cd27563d0b52d0e490f1bf2d9ffc51df9a0a15e51faf93d5b3b8` |
-| `output/translations/jeremiah_51.json` | `829dd742a5e64a8a8e0f3c50ef400789028802582a64d8ee63d53b95a6f13253` |
-| `output/translations/jeremiah_52.json` | `0b683aeff021c90e345bb2aecb0425afe5b49032b6349c74005689b09476774c` |
+| `output/translations/jeremiah_50.json` | `a30f90eaeaa0e5a31ebde0828391a5c5c483a43790f7fa3d9dea56ea6ef92c98` |
+| `output/translations/jeremiah_51.json` | `2495f394f0e2183b98a9d3aab50f73f13646154fdef889523746f2d7c076437f` |
+| `output/translations/jeremiah_52.json` | `59f33606c327d413f5c17c308444af50c27ee827f7e36b19c9f65cb43dc61f4f` |
 
