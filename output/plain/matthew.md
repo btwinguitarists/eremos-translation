@@ -628,7 +628,7 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **19** แต่เมื่อพวกเขามอบพวกท่านไว้ อย่าวิตกกังวลว่าจะพูดอย่างไรหรือจะพูดอะไร เพราะในเวลานั้นจะมีผู้ประทานแก่พวกท่านว่าควรพูดอะไร
 
-**20** เพราะไม่ใช่พวกท่านที่พูด แต่พระวิญญาณของพระบิดาของพวกท่านต่างหากที่พูดผ่านทางพวกท่าน
+**20** เพราะไม่ใช่พวกท่านที่พูด แต่พระวิญญาณของพระบิดาของพวกท่านต่างหากที่ตรัสผ่านทางพวกท่าน
 
 **21** พี่น้องจะมอบพี่น้องของตนให้ถึงความตาย บิดาจะมอบบุตรของตนก็เช่นกัน บรรดาบุตรจะลุกขึ้นต่อต้านบิดามารดา และทำให้พวกเขาถูกประหาร
 
@@ -2261,29 +2261,29 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | Chapter file | SHA-256 |
 |---|---|
 | `output/translations/matthew_01.json` | `8fce10eb35cd7feceb5e531446701eb55f6cda97bcd3de3ff5eba581657ed8e2` |
-| `output/translations/matthew_02.json` | `1f95f3498795120be82f107d02e9ea01159960b6620e2e6fb28872d76c9544ef` |
+| `output/translations/matthew_02.json` | `cd08cda55a9c6eda9cc4c4a4fa01046e1126e5fcf0d712638d0fe9bd0ccffe49` |
 | `output/translations/matthew_03.json` | `fcce748ea7d2c5a251519aa4054e0d122289bf0d6c21e2caa546dd4fa579f478` |
 | `output/translations/matthew_04.json` | `451576192fbc40180874c0365461912b89524a997ac9fcbbf1417df8545a4e48` |
 | `output/translations/matthew_05.json` | `c596f2320438ca155f19f57f0ee85724bd86192f18dd1b1fa0787b11e6ccd020` |
-| `output/translations/matthew_06.json` | `38cff68906b5820961b7e6ca8ee04eb6011b0c08a633b5660638914316a8bfea` |
+| `output/translations/matthew_06.json` | `148b3048582410e60f208ecdbadc887f8ade7bb3a4a74b67ecb383295a2ef695` |
 | `output/translations/matthew_07.json` | `7874f72a88d4b07ff7986d247b869f97b1d06bab5a559afa76c37a1cfe6729ca` |
 | `output/translations/matthew_08.json` | `723894704f845d99dd8c2a33f9d69645ade59719f6b039560f475218ecd6b998` |
 | `output/translations/matthew_09.json` | `3e2ad74da07f4da0538c82ec64c92a0a75aeaee98b509c1b3d8eab22c51102c8` |
-| `output/translations/matthew_10.json` | `4f534d505247ae7b42ce20e54250ae60d8edb0bca687986a1eec70a0b44842ac` |
+| `output/translations/matthew_10.json` | `832ea04d31216f97a2a29c73d925ea019b27a84498e2f04d4e211613c2bc2327` |
 | `output/translations/matthew_11.json` | `b8f2695e5592a05f23560511b617e8141a8e7e6635933182df29e5b8e21385b4` |
 | `output/translations/matthew_12.json` | `f8897523d81339d091affae6d85fc3df98b8b4b552f3c4aae609b19c8d8aa0cf` |
 | `output/translations/matthew_13.json` | `4f5fe873cd372e0a35816bba3985ae5ae53b7121efc3cadfa986538fe1c53f89` |
 | `output/translations/matthew_14.json` | `6c4a318072fb4a46d44f781f7646b0f58d152de0444fe0f0f725369ca23d215a` |
 | `output/translations/matthew_15.json` | `8fcdf8476a4cbabcee6d7a1317cfb6348d4b10a52fe93ca1dc4c2cef6d4dcf09` |
-| `output/translations/matthew_16.json` | `1563838c0a2302d5642435d684f92a22a0427bb2cd8be2a0f0e94dd1a0dbb810` |
+| `output/translations/matthew_16.json` | `da94681f3aca32882234f34cc1f6d4d99078c7340315e3ee715d9cfed9790218` |
 | `output/translations/matthew_17.json` | `aef1ab96b7a4652f52332fa27c66171de02fea4224180145382b0ac0ab7dce4a` |
-| `output/translations/matthew_18.json` | `f2d23707a17754d04c6faad5278313530544456ba8488f9e70e826e1c7b80f52` |
+| `output/translations/matthew_18.json` | `64c5a57dfe5c91ed2024f1393b642d4c181ee82918be84beead6dd9b2a40c501` |
 | `output/translations/matthew_19.json` | `f533b0792284c971e275f1ee463891948b488bfcfe96fcb9aeb96259b337a90a` |
 | `output/translations/matthew_20.json` | `0dde68b2451b9619dd546406519f247c0135648a5ad04cba97f2f506c4472663` |
 | `output/translations/matthew_21.json` | `3a3173c6859efb09561b1122da306ec8f6ffd79d6ec566352f4b1b4a0ba00b9d` |
-| `output/translations/matthew_22.json` | `ca2e2994c7d4470509814af90f6453cb755181e05520c15411f58fd659ecfe52` |
+| `output/translations/matthew_22.json` | `44b4c9aba04dd393a5866dc924de5407b98c6ec29b80d5b6de0d98fc9c5f88ee` |
 | `output/translations/matthew_23.json` | `5e1d7d90e1db2c82e23f4ea18ed3f5517d5cbc8c52d0f12c6152f97b6c6210f3` |
-| `output/translations/matthew_24.json` | `ada58f853c32f488f98347b1cfcfb2ed5ec534b67997cefff27d43ffc4355871` |
+| `output/translations/matthew_24.json` | `95dcaef34f60dffb4a2be69a39005a072a9d93008f7b213973b8821ac19914cc` |
 | `output/translations/matthew_25.json` | `349a0a55ec3adbafd5c0aa40ecc2f10394050e1b1237d14287613dee6c22b4f6` |
 | `output/translations/matthew_26.json` | `d4aae1cfd129168927958ea2498c9499206a6ae0b0811f2b36eef24a000940cc` |
 | `output/translations/matthew_27.json` | `29fe12d373764abecadd3679872c2781eb794bd273dec9851819ec82497429ac` |
