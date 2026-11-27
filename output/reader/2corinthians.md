@@ -388,7 +388,7 @@ _This reader edition shows the Thai translation and the contextual summary (บ�
 
 **18** และเราได้ส่งพี่น้องคนหนึ่งไปกับเขาด้วย ผู้ซึ่งได้รับการยกย่องสรรเสริญในเรื่องข่าวประเสริฐโดยทั่วทุกคริสตจักร
 
-**19** และไม่เพียงแค่นั้น เขายังได้รับการแต่งตั้งจากบรรดาคริสตจักรให้เป็นเพื่อนร่วมเดินทางของเราในการรับใช้ในพระคุณนี้ เพื่อพระเกียรติของพระองค์เองคือองค์พระผู้เป็นเจ้า และเพื่อแสดงความตั้งใจของเรา
+**19** และไม่เพียงแค่นั้น เขายังได้รับการแต่งตั้งจากบรรดาคริสตจักรให้เป็นเพื่อนร่วมเดินทางของเราเพื่อนำของถวายนี้ไปด้วยกัน ของถวายนี้เราเป็นผู้จัดการเพื่อถวายพระเกียรติแด่องค์พระผู้เป็นเจ้าเองและเพื่อแสดงความตั้งใจของเรา
 
 **20** เราระมัดระวังเพื่อไม่ให้ผู้ใดตำหนิเราในเรื่องของถวายอันเอื้อเฟื้อนี้ที่เราจัดการดูแล
 
@@ -659,10 +659,10 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/2corinthians_05.json` | `efa968e4fd77fb93cf2f3961fb6954f25d25edb1b29715aadca12d99ff840b5b` |
 | `output/translations/2corinthians_06.json` | `ae48df81325a8e1d4e2c9615163e083885323658b943a468f2ee5d85f95d82a9` |
 | `output/translations/2corinthians_07.json` | `23537a27b600bbac62227729e53f6dd2c184b3e3726795871d695e39f3f1f0ea` |
-| `output/translations/2corinthians_08.json` | `194d5a7cea1295b884a72c53d8d002c819ea6cf2a90bed861eedae84b4ffa206` |
-| `output/translations/2corinthians_09.json` | `3d752569fb851af4fff1e15e2f38dc3361f4712078fa7b916d394fa49f4aaa63` |
+| `output/translations/2corinthians_08.json` | `086e3b6d239b8b0ecc7c7de071db0f63f1f036ee0449c8bf95510dca33b700ef` |
+| `output/translations/2corinthians_09.json` | `4eac9ce3339cdf0185f85191993a2f3f5bc3645dc141fad9cdbf0c16a49fc008` |
 | `output/translations/2corinthians_10.json` | `b247fc42aed685dc085dac39de85a81fd57292ae8da7e55089802f0021b617f0` |
 | `output/translations/2corinthians_11.json` | `5a276f3321603e058d9aed05f8bf5523e478dc48309e883dce3f222bdcaea53d` |
-| `output/translations/2corinthians_12.json` | `87638ec5c16b266912ddd7b0c7062a3c99f0e6c1aa700d3b0c0d6265099d2dbb` |
+| `output/translations/2corinthians_12.json` | `fd7e7762e26e3f4636153a84c6fed4b27e3030e951af602ea2479c5c31eadd68` |
 | `output/translations/2corinthians_13.json` | `cf4046b9ff2ee51e9f30306233171d2d4df009ca3cbcd5d03d6ad1456cca5770` |
 
