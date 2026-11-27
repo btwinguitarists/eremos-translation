@@ -1173,9 +1173,9 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/romans_11.json` | 36 | `4fc5b4f71729e03ada83d58dc4a92cdb08ced05107b065842d6c6c479ca4263b` | `73ccfe79` |
 | `output/translations/romans_12.json` | 21 | `2787eef91672a85c25c388f81af9adf86892bd31d2e9c4f020c45852a0cc5830` | `73ccfe79` |
 | `output/translations/romans_13.json` | 14 | `50326c111d3937e45399a5c4af076ae434a2b133d64791a39f928720d126d87b` | `f6bc480f` |
-| `output/translations/romans_14.json` | 23 | `bb72f4cd07fe8927fb2b5f23adaaadfb4b641c48e5b567020266357b2261af53` | `b64d4872` |
-| `output/translations/romans_15.json` | 33 | `e7f5e016acc8d4ee02f08d1ec257987006947d8e8747ee1f6ed5ed2e39339341` | `b64d4872` |
-| `output/translations/romans_16.json` | 27 | `501af43e7fe7143ce17a274a3b89d8554e69912a683f392104153a07dfc72be3` | `9f851ef9` |
+| `output/translations/romans_14.json` | 23 | `d921eddc04366a5eb297071cf34e8121fe59ca4a8b4106472597a89790e099db` | `b64d4872` |
+| `output/translations/romans_15.json` | 33 | `b4603a1afea828c3cbeedcdcff4ddd13f52ef735a4154a0556643ce15341673f` | `b64d4872` |
+| `output/translations/romans_16.json` | 27 | `12ae6ec8974ec0d7cd6dfc81f1601107b24f399dea1c47fb9739241014ef1131` | `9f851ef9` |
 | `output/translations/ruth_01.json` | 22 | `7153167899931b7fa6b249742cf521e29912a152f25d0e2c1a2b14b8d9c6825c` | `7040ad9f` |
 | `output/translations/ruth_02.json` | 23 | `9ec349a8cb1c287436281a0768f7acc16e13921a5fc0006292d81ffca0098a77` | `d03c3a1a` |
 | `output/translations/ruth_03.json` | 18 | `c2c14fbd2d0641e35eb56b1140b0815cf6e5925b12d112d315b56676f44c109e` | `d03c3a1a` |

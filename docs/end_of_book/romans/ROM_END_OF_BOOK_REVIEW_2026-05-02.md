@@ -347,11 +347,11 @@ The 2026-05-02 systemic remediation (`docs/end_of_book/inclusion_variant_gap_202
 
 | Verse | SBLGNT status | Disposition |
 |---|---|---|
-| Rom 16:25–27 | SBLGNT includes (at end) | Tier-3 ⟦…⟧ large-block — backfilled 2026-05-02 ✓ |
+| Rom 16:25–27 | SBLGNT records the doxology in the apparatus at the end | Tier-3 ⟦…⟧ large-block — backfilled 2026-05-02 ✓ |
 | Rom 16:24 | NA28 omits; SBLGNT includes | Following SBLGNT — included as canonical text; flagged in v.24 NOTES |
 | Rom 5:1 ἔχομεν vs ἔχωμεν | SBLGNT/NA28: indicative ἔχομεν | Following SBLGNT — verse-level NOTE explains the variant |
 | Rom 8:1 (longer endings in Byz) | SBLGNT: shorter ending | Following SBLGNT — verse-level NOTE |
-| Rom 14:23 (doxology-position) | SBLGNT: doxology at 16:25–27 only | No Tier-1/2/3 needed; addressed by 16:25 NOTES (floating-placement evidence: 𝔓⁴⁶ at end of ch.15; Byz-sub at end of ch.14; F/G omit) |
+| Rom 14:23 (doxology-position) | SBLGNT: doxology in the apparatus; RP places it after 14:23 | No Tier-1/2/3 needed; addressed by 16:25 NOTES (floating-placement evidence: 𝔓⁴⁶ at end of ch.15; Byz-sub at end of ch.14; F/G omit) |
 
 The 16:25 NOTES is **exemplary** — 600+ chars covering 𝔓⁴⁶ + Byz-sub + Marcion + every floating-placement witness, plus the explicit Tier-3 ⟦…⟧ self-marking. This is the pattern other books should imitate.
 

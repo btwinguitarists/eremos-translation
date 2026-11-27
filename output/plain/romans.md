@@ -840,7 +840,7 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **15** แต่ข้าพเจ้าได้เขียนถึงพวกท่านอย่างกล้าหาญในบางเรื่อง เพื่อเตือนพวกท่านให้ระลึก — เพราะพระคุณที่พระเจ้าทรงประทานแก่ข้าพเจ้า
 
-**16** เพื่อข้าพเจ้าจะเป็นผู้ปรนนิบัติของพระเยซูคริสต์แก่คนต่างชาติ — ปรนนิบัติในฐานะปุโรหิตด้วยข่าวประเสริฐของพระเจ้า — เพื่อเครื่องบูชาคือคนต่างชาติจะเป็นที่ยอมรับ — ทรงชำระให้บริสุทธิ์โดยพระวิญญาณบริสุทธิ์
+**16** เพื่อข้าพเจ้าจะเป็นผู้ปรนนิบัติของพระเยซูคริสต์แก่คนต่างชาติ — ปรนนิบัติในฐานะปุโรหิตด้วยข่าวประเสริฐของพระเจ้า — เพื่อเครื่องบูชาคือคนต่างชาติจะเป็นที่ยอมรับ โดยเป็นเครื่องบูชาที่ได้รับการชำระให้บริสุทธิ์โดยพระวิญญาณบริสุทธิ์
 
 **17** ฉะนั้น ข้าพเจ้ามีความชื่นชมยินดีในพระเยซูคริสต์ ในเรื่องที่เกี่ยวกับพระเจ้า
 
@@ -955,7 +955,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/romans_11.json` | `4fc5b4f71729e03ada83d58dc4a92cdb08ced05107b065842d6c6c479ca4263b` |
 | `output/translations/romans_12.json` | `2787eef91672a85c25c388f81af9adf86892bd31d2e9c4f020c45852a0cc5830` |
 | `output/translations/romans_13.json` | `50326c111d3937e45399a5c4af076ae434a2b133d64791a39f928720d126d87b` |
-| `output/translations/romans_14.json` | `bb72f4cd07fe8927fb2b5f23adaaadfb4b641c48e5b567020266357b2261af53` |
-| `output/translations/romans_15.json` | `e7f5e016acc8d4ee02f08d1ec257987006947d8e8747ee1f6ed5ed2e39339341` |
-| `output/translations/romans_16.json` | `501af43e7fe7143ce17a274a3b89d8554e69912a683f392104153a07dfc72be3` |
+| `output/translations/romans_14.json` | `d921eddc04366a5eb297071cf34e8121fe59ca4a8b4106472597a89790e099db` |
+| `output/translations/romans_15.json` | `b4603a1afea828c3cbeedcdcff4ddd13f52ef735a4154a0556643ce15341673f` |
+| `output/translations/romans_16.json` | `12ae6ec8974ec0d7cd6dfc81f1601107b24f399dea1c47fb9739241014ef1131` |
 
