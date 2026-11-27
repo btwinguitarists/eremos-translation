@@ -1,5 +1,12 @@
 # Psalms — End-of-Book Review
 
+**Editorial clarification, 27 November 2026.**
+
+- **Psalm 9:3 (Hebrew numbering).** The main renders עֶלְיוֹן as ข้าแต่องค์ผู้สูงสุด. The verse has no individual translation-decision entry for the title.
+- **Psalm 13.** All six Hebrew verses have English mappings. Verse 1 is the title, verses 2–5 correspond to English verses 1–4, and verse 6 covers English verses 5–6.
+- **Psalms 32:1, 42:1 and 52:1.** The Thai superscriptions spell מַשְׂכִּיל as มัสคีล.
+- **Psalm 138:2.** The Thai reads ทรงเชิดชูพระนามและพระดำรัสของพระองค์เหนือสิ่งสารพัด. The chapter’s footnotes attach to verses 1, 4 and 6. They provide no separate explanation of the name and word clause at verse 2.
+
 **Date:** 2026-05-31
 **Scope:** All 150 chapters of Psalms (`output/translations/psalms_01.json` … `psalms_150.json`; 1–9 zero-padded, 10–150 unpadded); `glossary.json`; existing `docs/translator_decisions/`.
 **Trigger:** PSA 150 shipped (commit `eaf05e26`); per `docs/END_OF_BOOK_CHECKLIST.md` §2 + §3, fired by `scripts/detect_book_complete.py` (wrote `output/.book_complete_audit_prompt.md`).
