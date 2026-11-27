@@ -217,12 +217,12 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/2peter_02.json` | 22 | `27ed1281bc79606e9035201a0c14f9a93f4f353b667347447480882cb82d62bf` | `be3c8975` |
 | `output/translations/2peter_03.json` | 18 | `6946b13ac0f25be1fc935e45b9f2d64f36344f07a34c34ae88f1ee4aecb9a8d3` | `34921bf7` |
 | `output/translations/2samuel_01.json` | 27 | `a64fc0dc70cd42523d431aaaf7100a7e44e31120186bf51646adbc9de9adb4fe` | `d348b78d` |
-| `output/translations/2samuel_02.json` | 32 | `cbf9f9b61816796ca4666e9d40d048162e8af288038e07803bda1d54cf1ea787` | `7474760d` |
+| `output/translations/2samuel_02.json` | 32 | `4dc7053502a25cbd0bb5a4407e2a2602dbabf977925c869871bafbd2c8cf4a7e` | `7474760d` |
 | `output/translations/2samuel_03.json` | 39 | `888efacb7d301027264b15bf7eb97763318cfc844e6a2b9285855c30dafeda32` | `78d0ae38` |
 | `output/translations/2samuel_04.json` | 12 | `72ad27423ae5243768b803f91dba790238763eb350605348d42789d364714415` | `f0a3d4dc` |
-| `output/translations/2samuel_05.json` | 25 | `dea69f3cef214ec13883fdff5e25faeba41ff03bbdec8b348fdffb56d3bd3b27` | `ea6dff43` |
+| `output/translations/2samuel_05.json` | 25 | `d11e27a3706b6c0272ffd8654cec6ccc17108bbb36699c77b372047f6e43056a` | `ea6dff43` |
 | `output/translations/2samuel_06.json` | 23 | `b665f2b3f42669845e5802ed97433323ca4d4252e7327066be78c11b39ff38d9` | `8dcf4b46` |
-| `output/translations/2samuel_07.json` | 29 | `8feb1468f597000b877c880c00e621efa83c4e143f958e6e9b0eacc15421c61e` | `2b937c88` |
+| `output/translations/2samuel_07.json` | 29 | `cdcc73ada0d4dec8343e1bfa70e7fa889eaddcbca711c18695610bcaace503f7` | `2b937c88` |
 | `output/translations/2samuel_08.json` | 18 | `b638d84877bc4c5d6c46ad64db85d5e45b8a61fcb737ebef4054ec1fba1f0c7d` | `9214f779` |
 | `output/translations/2samuel_09.json` | 13 | `11a7540fe4ce21420d485b39e736c032c7110161bb2ca64c078188f7ab62da56` | `95988298` |
 | `output/translations/2samuel_10.json` | 19 | `808e6fc4b9e44d654b0a6d3b1393797f24bdadadf23973cf928a37dd5462749c` | `761532e4` |
