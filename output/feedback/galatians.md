@@ -402,7 +402,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**17** พวกเขามีใจเร่าร้อนต่อพวกท่าน แต่ไม่ใช่ในทางที่ดี ตรงกันข้าม พวกเขาต้องการกีดกันพวกท่านออกจากข้าพเจ้า เพื่อพวกท่านจะได้มีใจเร่าร้อนต่อพวกเขาเอง
+**17** พวกเขามีใจเร่าร้อนต่อพวกท่าน แต่ไม่ใช่ในทางที่ดี ตรงกันข้าม พวกเขาต้องการกีดกันพวกท่านออกไป เพื่อพวกท่านจะได้มีใจเร่าร้อนต่อพวกเขาเอง
 
 > ___
 
@@ -410,7 +410,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**19** บุตรน้อยทั้งหลายของข้าพเจ้า ผู้ซึ่งข้าพเจ้ากำลังเจ็บปวดในการคลอดเพื่อท่านอีกครั้ง จนกว่าพระคริสต์จะทรงก่อรูปขึ้นในตัวพวกท่าน
+**19** บุตรน้อยทั้งหลายของข้าพเจ้า ผู้ซึ่งข้าพเจ้ากำลังเจ็บปวดในการคลอดเพื่อท่านอีกครั้ง จนกว่าพระคริสต์จะปรากฏเป็นรูปเป็นร่างในพวกท่าน
 
 > ___
 
@@ -654,10 +654,10 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/galatians_01.json` | `3977e4a2929179a873f5a047653f4c22de0780a5bd07ff3a645b2b7d30f4e42a` |
-| `output/translations/galatians_02.json` | `76d04165f3d0f40265191475cf4ff045707ebb7c7f71e014b60eb8c105c9c956` |
+| `output/translations/galatians_01.json` | `4c9ce057efd3ce515a9c9a68c3cbac4c7687f28af02ab9313cf2afbeffbf7317` |
+| `output/translations/galatians_02.json` | `21f1db4615b93624f393817254f005ea87bd1e6e95bb4a95ab7e1a9603ec9e27` |
 | `output/translations/galatians_03.json` | `6bb9bd4eb9d37488e1f1bbe9aa990b9885982705b31999bc90faed192c3ea69e` |
-| `output/translations/galatians_04.json` | `b2349446df324ed50a1dda6fb5929e2695ede84a4f0925d9abff759a2c38014e` |
+| `output/translations/galatians_04.json` | `b80e12da3016ee663e891531b03cea90b3e7e6c28d05b078d6ad6a6596671836` |
 | `output/translations/galatians_05.json` | `a14afe1b688b79fb77cd8832621632e858f6ba27e8685a4570f8c7ad0670b417` |
-| `output/translations/galatians_06.json` | `b46002ec4b884050c5284cf21718c3048f8d101972351a9176766af3240241d2` |
+| `output/translations/galatians_06.json` | `06f8b23e3a64d716809b87e8dc3f20683c8bd0f5ad7c58bc6f958ac812298abc` |
 

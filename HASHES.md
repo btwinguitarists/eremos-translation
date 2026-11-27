@@ -461,12 +461,12 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/ezra_08.json` | 36 | `f4064a6b59d3438a95f5d0402fa16dccf7447359e50a41fa2d63a0d8530d346d` | `5287457c` |
 | `output/translations/ezra_09.json` | 15 | `663aadfa61d44260cb5c0cc4eb9d0011728a863f789b775737801f8366212fb6` | `527a8c35` |
 | `output/translations/ezra_10.json` | 44 | `761390179d2bdebb39a5825fae24eec287cf4382923cc0ec58f5223de381075b` | `afa31bab` |
-| `output/translations/galatians_01.json` | 24 | `3977e4a2929179a873f5a047653f4c22de0780a5bd07ff3a645b2b7d30f4e42a` | `d03c3a1a` |
-| `output/translations/galatians_02.json` | 21 | `76d04165f3d0f40265191475cf4ff045707ebb7c7f71e014b60eb8c105c9c956` | `d03c3a1a` |
+| `output/translations/galatians_01.json` | 24 | `4c9ce057efd3ce515a9c9a68c3cbac4c7687f28af02ab9313cf2afbeffbf7317` | `d03c3a1a` |
+| `output/translations/galatians_02.json` | 21 | `21f1db4615b93624f393817254f005ea87bd1e6e95bb4a95ab7e1a9603ec9e27` | `d03c3a1a` |
 | `output/translations/galatians_03.json` | 29 | `6bb9bd4eb9d37488e1f1bbe9aa990b9885982705b31999bc90faed192c3ea69e` | `fcff53c6` |
-| `output/translations/galatians_04.json` | 31 | `b2349446df324ed50a1dda6fb5929e2695ede84a4f0925d9abff759a2c38014e` | `4ec829e4` |
+| `output/translations/galatians_04.json` | 31 | `b80e12da3016ee663e891531b03cea90b3e7e6c28d05b078d6ad6a6596671836` | `4ec829e4` |
 | `output/translations/galatians_05.json` | 26 | `a14afe1b688b79fb77cd8832621632e858f6ba27e8685a4570f8c7ad0670b417` | `3881232b` |
-| `output/translations/galatians_06.json` | 18 | `b46002ec4b884050c5284cf21718c3048f8d101972351a9176766af3240241d2` | `4ec829e4` |
+| `output/translations/galatians_06.json` | 18 | `06f8b23e3a64d716809b87e8dc3f20683c8bd0f5ad7c58bc6f958ac812298abc` | `4ec829e4` |
 | `output/translations/genesis_01.json` | 31 | `e65340893c9db735636d4ece74bc04baa7640511d4efa2f7ccc22639159d6fe3` | `22fa6385` |
 | `output/translations/genesis_02.json` | 25 | `5132c4a475fbc176b356190629f219ce220f3ec34fba609e0a3ea431ed3ba03d` | `d03c3a1a` |
 | `output/translations/genesis_03.json` | 24 | `3e6616a493f5a971b957bc3e1baf06dad4e3b38d9696b9c5108dcc71a3d2a120` | `d03c3a1a` |
