@@ -1282,7 +1282,7 @@ _This reader edition shows the Thai translation and the contextual summary (บ�
 
 **54** แต่พระองค์ทรงจับมือเด็กนั้นและตรัสเรียกว่า “ลูกเอ๋ย จงลุกขึ้นเถิด”
 
-> _บริบท: พระเยซูทรงฝ่าฝืนกฎพิธีของชาวยิวหลายข้อในข้อนี้ — การที่พระองค์ทรงจับมือเด็กที่ตายแล้วจะทำให้พระองค์เป็นมลทินตามกฎเลวีนิติ 21:1-4 แต่พระเยซูทรงเปลี่ยนทิศทางของพลัง — แทนที่ความมลทินจะแพร่ไปถึงพระองค์ ฤทธิ์แห่งชีวิตของพระองค์กลับแพร่ไปถึงเด็กและคืนชีวิตให้นาง_
+> _บริบท: พระเยซูทรงจับมือเด็กที่ตายแล้วในข้อนี้ — การที่พระองค์ทรงจับมือเด็กที่ตายแล้วจะทำให้พระองค์เป็นมลทินตามกฎในกันดารวิถี 19:11-13 แต่พระเยซูทรงเปลี่ยนทิศทางของพลัง — แทนที่ความมลทินจะแพร่ไปถึงพระองค์ ฤทธิ์แห่งชีวิตของพระองค์กลับแพร่ไปถึงเด็กและคืนชีวิตให้นาง_
 
 **55** วิญญาณของเด็กก็กลับเข้าสู่นาง และนางก็ลุกขึ้นทันที พระองค์จึงทรงสั่งให้เอาอาหารมาให้นางรับประทาน
 
@@ -3633,7 +3633,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/luke_05.json` | `b3f73b91b29b8fd25b6d989be8bf1d5a41022f37a91c1821ceb1adf26d417ebe` |
 | `output/translations/luke_06.json` | `d086b1c3e974e68d6718f059bf34a06ff3b750b0cc9f63e72f385b2dad512546` |
 | `output/translations/luke_07.json` | `98d9699c665150f0b20323eb3e5535ca09d732e05d39af8ade7806e2d4efefdb` |
-| `output/translations/luke_08.json` | `7379879105e42d37f5724555ce4a873cc5a372a7771a35d9dd9fdfb8b9aa3a42` |
+| `output/translations/luke_08.json` | `57134926be1278447730107a1e734fea8de8e0e595ddff9bf680be5f759aa697` |
 | `output/translations/luke_09.json` | `52b22018f7ec7330f2e99be4683b205d5ba6e705cb26669bd27142d08cae1fde` |
 | `output/translations/luke_10.json` | `85058fb4d5ee77206f42e9982356f819ffbc0b10a155b50df4f765317693e00b` |
 | `output/translations/luke_11.json` | `ee27f09a77a2107c285a8292c28de3a4cf0b1a895718391d6f08e04eb03e85bf` |
