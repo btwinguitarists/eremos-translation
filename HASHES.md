@@ -836,10 +836,10 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/luke_13.json` | 35 | `fe8884a23fa56a65f23ec83c24ed4d1fdad002f39a76a12172da5af408ec6c1c` | `d03c3a1a` |
 | `output/translations/luke_14.json` | 35 | `a9f2aef8ac8bb76e634fc07b7c10a68aad936b9802f9d9f01d11caa613e1d2e7` | `d03c3a1a` |
 | `output/translations/luke_15.json` | 32 | `eb09d1a3915ef5e44e634799a23498fec5a9df06b4c468758d8e9dd8aca10f14` | `d03c3a1a` |
-| `output/translations/luke_16.json` | 31 | `65ba3d0306388ea2adf395f78692b5cc32974e238367eb9083e38f50ee0f2a78` | `7040ad9f` |
-| `output/translations/luke_17.json` | 36 | `7547daea22ba83bf9ab7449e8406e7d5c4a4b00486f2e5f7ef4f8d3dfd924f41` | `7040ad9f` |
-| `output/translations/luke_18.json` | 43 | `07fc13ca6fdd3bc27f4d4841bc83d1bea74e94310857213bf76cc0dddeb2bfc9` | `d03c3a1a` |
-| `output/translations/luke_19.json` | 48 | `f4f6ebe29c66103d262de489d193d56614f1bf07fbe46c313dc4da2415228a4f` | `d03c3a1a` |
+| `output/translations/luke_16.json` | 31 | `235936e7ab28a4415bdbc11bb9ec7284b7b29fb9b4cb773b32cbadbc33729a07` | `7040ad9f` |
+| `output/translations/luke_17.json` | 36 | `732478db30d4a93a9648b3764844f8315fb49534d4f5f68ccfad5a69c73c4768` | `7040ad9f` |
+| `output/translations/luke_18.json` | 43 | `ff95059f8a8b7b966abb7df551a1f026008ecb898e4569c18b37f8ff8f9fefdf` | `d03c3a1a` |
+| `output/translations/luke_19.json` | 48 | `436ad54b52fc0248967ddb8c03737b445f63896b3727780fae2e3a84530ab88d` | `d03c3a1a` |
 | `output/translations/luke_20.json` | 47 | `79077fd9d7b4ab186a078a6dfd312e696e0664d2e443cd05bf6bd6cfe80cde27` | `cf6bd38f` |
 | `output/translations/luke_21.json` | 38 | `0b0ca54f90ca7eec2db8112fe6981c2c0ae66502b641833e8a6a9b003a1579bc` | `d03c3a1a` |
 | `output/translations/luke_22.json` | 71 | `3861f7bdeff7dc34c8ac1579411f75896e65d27f70a54df68ad377730d4fbcc8` | `d03c3a1a` |
