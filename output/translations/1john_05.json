@@ -158,15 +158,15 @@
     "translation": {
       "thai": "เพราะมีพยานสามฝ่าย",
       "thai_literal": null,
-      "thai_summary": "TEXTUAL ISSUE: ฉบับ KJV และ THKJV ในยุคหลังเพิ่ม ‘ในสวรรค์ พระบิดา พระวาทะ และพระวิญญาณบริสุทธิ์ และทั้งสามนี้เป็นหนึ่งเดียวกัน และมีพยานสามฝ่ายในแผ่นดินโลก’ ระหว่าง ‘มีพยานสามฝ่าย’ และ ‘คือพระวิญญาณ น้ำ และโลหิต’ — ส่วนที่เพิ่มเข้ามานี้เรียกว่า ‘Comma Johanneum’ ไม่ปรากฏในต้นฉบับภาษากรีกที่เก่าและเชื่อถือได้ที่สุด ปรากฏครั้งแรกในต้นฉบับภาษาละตินยุคกลาง และไม่มีในฉบับมาตรฐานวิจารณ์ (SBLGNT, NA28, UBS5) ฉบับเอเรมอสจึงละไว้ตามต้นฉบับวิจารณ์ — ดูบันทึกฉบับเต็มในหมายเหตุท้ายบท",
+      "thai_summary": "เอเรมอสใช้ข้อความสั้นตาม SBLGNT ข้อ 7 กล่าวว่ามีพยานสามฝ่าย และข้อ 8 ระบุว่าคือพระวิญญาณ น้ำ และโลหิต ส่วนฉบับคิงเจมส์มีข้อความเพิ่มเติมเกี่ยวกับพยานในสวรรค์ ประวัติของข้อความทั้งสองแบบอธิบายไว้ในหมายเหตุท้ายบท",
       "key_decisions": [
         {
           "greek": "ὅτι τρεῖς εἰσιν οἱ μαρτυροῦντες",
           "thai": "เพราะมีพยานสามฝ่าย",
-          "rationale": "TEXTUAL ISSUE: SBLGNT omits ‘the Comma Johanneum’ (the trinitarian-formula in heaven: Father+Word+Spirit) which the Byzantine/KJV-tradition adds-between ‘three-witnesses’ and ‘the-Spirit-water-blood.’ Per RULES §0 SBLGNT-aligned — render bare ‘three witnesses’ here. Tier 2 chapter-footer file output/textual_variants/1john_05.json documents the variant. The thai_summary makes the disposition explicit for Thai readers."
+          "rationale": "SBLGNT reads ‘there are three that testify.’ The witnesses are named in verse 8. NA28 and the Robinson–Pierpont Byzantine Textform (2018) also have the short reading. The KJV includes the longer passage about the witnesses in heaven."
         }
       ],
-      "notes": "TEXTUAL ISSUE: Comma Johanneum. SBLGNT omits the Latin-traditional Father+Word+Spirit trinitarian-formula between the three-witnesses-statement and the Spirit/water/blood specification. Tier 2 chapter-footer file documents the full variant. The thai_summary explains the variant for Thai readers (THKJV-tradition includes it; modern critical-text + standard Thai omit)."
+      "notes": "The longer passage is traditionally called the Comma Johanneum. Its Greek and Latin witnesses vary in wording. The chapter-end note describes its transmission and the reading chosen here."
     }
   },
   {
