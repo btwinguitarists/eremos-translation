@@ -240,7 +240,7 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **18** อับราฮัมเชื่อ — ด้วยความหวัง สวนทางกับความหวัง — เพื่อท่านจะได้เป็นบิดาของชนชาติเป็นอันมาก ตามที่ได้ตรัสไว้ว่า ‘เชื้อสายของเจ้าจะเป็นเช่นนั้น’
 
-**19** และโดยไม่อ่อนกำลังในความเชื่อ ท่านพิจารณาเห็นร่างกายของตนเองที่เหมือนตายแล้ว เพราะท่านอายุประมาณหนึ่งร้อยปี และครรภ์ของซาราห์ที่ไม่มีชีวิต
+**19** และโดยไม่อ่อนกำลังในความเชื่อ ท่านพิจารณาเห็นร่างกายของตนเองที่เหมือนตายแล้ว เพราะท่านอายุประมาณหนึ่งร้อยปี และการที่ซาราห์ไม่สามารถมีบุตรได้แล้ว
 
 **20** แต่ท่านไม่ลังเลในพระสัญญาของพระเจ้าโดยความไม่เชื่อ แต่ได้รับการเสริมกำลังในความเชื่อ — ถวายพระเกียรติแด่พระเจ้า
 
@@ -250,7 +250,7 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **23** ถ้อยคำที่ว่า ‘ทรงนับให้แก่ท่าน’ ไม่ได้เขียนไว้เพื่ออับราฮัมเท่านั้น
 
-**24** แต่เขียนไว้เพื่อเราด้วย — ผู้ที่จะทรงนับว่าชอบธรรมให้เป็น — คือเราผู้เชื่อในพระองค์ผู้ทรงให้พระเยซูองค์พระผู้เป็นเจ้าของเราเป็นขึ้นจากความตาย
+**24** แต่เขียนไว้เพื่อเราด้วย — พระเจ้าจะทรงนับให้แก่เราด้วย — คือเราผู้เชื่อในพระองค์ผู้ทรงให้พระเยซูองค์พระผู้เป็นเจ้าของเราเป็นขึ้นจากความตาย
 
 **25** พระองค์ถูกมอบไว้เพราะการล่วงละเมิดของเรา และทรงถูกให้เป็นขึ้นเพื่อทรงประกาศว่าเราชอบธรรม
 
@@ -942,10 +942,10 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/romans_01.json` | `36c4383ed0d2500513a2dda2707745c9c9202e6b550a26ae8854c9498164e51d` |
+| `output/translations/romans_01.json` | `ff33e5aae3ffae0bc67689b15107ccba2f51f6ece7fc3c9ac8c38d683d6b548d` |
 | `output/translations/romans_02.json` | `e907bd961c3cd6d7a7ba0fb82945bfb62ae4bf52ad7c04bcd5f9f4d11ec7bbea` |
-| `output/translations/romans_03.json` | `6da32980f301c549863008a0ab8d3b614e8e2e1ba01a98e8d1e5bbab4bab002b` |
-| `output/translations/romans_04.json` | `647a81567b34c49353611d475fdbcb2e23538553ffe9e7edd8e4f01374e13636` |
+| `output/translations/romans_03.json` | `cf4e6ce790259299dceb5fe45a5e5adbf06cb9abb5c1f2385c47dd79f4f7d87a` |
+| `output/translations/romans_04.json` | `3f8be6bcd4779dea50a8a41b2dfbcb18825193074647d4dddf01b9ee98c9f394` |
 | `output/translations/romans_05.json` | `5c6db901e150aaaf86780b3e70e80acf0ea7100700b1782dd286066f44989d20` |
 | `output/translations/romans_06.json` | `db11818d64971cecc1fbf5d29ec261e3e01eb9d99e62115050ed9a2e56874fbe` |
 | `output/translations/romans_07.json` | `4c533c6be14eaae275ab4cf7fa92696e2a66368c843bab2db215a5d0fd20e5b6` |
