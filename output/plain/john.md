@@ -1854,8 +1854,8 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 |---|---|
 | `output/translations/john_01.json` | `5c2e21c59df84fa0b88b046cbc8aa793944e5c96bbbb00785ffb4e5d781dcbc0` |
 | `output/translations/john_02.json` | `d07661e306a686c78f7feedcdd4648cfb1add3e63bcab49e2cb72d1087611134` |
-| `output/translations/john_03.json` | `6ba2c53a183fb62f6b3c55827ebafc2ffd876e8e3397f6236a8a51199b5050a5` |
-| `output/translations/john_04.json` | `b06a696248558e7769aa137b312d91e4ed1dacd338264a540588f01c855d41b5` |
+| `output/translations/john_03.json` | `e2d659c1fb868b88c085b652171d1906081cf0ccb1b3d8a8c7cc74e34a7dbda4` |
+| `output/translations/john_04.json` | `354d2e48c9ac09ab2dfbf76fc7e76cbaaa2b572278c4ff74fb81c148ebdba57b` |
 | `output/translations/john_05.json` | `d1632911194cf45285c6119f0d83575d00fe0fff1d19e91e97b88fe10e8ba218` |
 | `output/translations/john_06.json` | `dbca9b204fa41e7aa7abccfec486623e74f825d52fbc63794d9c77471926f658` |
 | `output/translations/john_07.json` | `b2da0af5c3e87cd85af5614aeab6f472a06e9d664bda68feb5459171c00cb7be` |
@@ -1864,13 +1864,13 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/john_10.json` | `7c04f8f55fcf48e531a4b5d43fb26da1b0f4e3381bab4ed89c65f10e90506394` |
 | `output/translations/john_11.json` | `8827d7b0d725fbeb7d55e34adc4584b336737ed58529ad136b2ad2ad4ac18caa` |
 | `output/translations/john_12.json` | `c3bec996a680644613fd0fa23917386d4afff9c41b2b91e488d7795c087f79d4` |
-| `output/translations/john_13.json` | `8b28a26e71998b9e85d925e9fb0bd5cdb4f17e373246cc67af038588334c6b46` |
+| `output/translations/john_13.json` | `7fdaef1fa5d5e3675923459cdda1da42321bd973614ea5ef8a1bb32cecd850c7` |
 | `output/translations/john_14.json` | `aa6e97c24cad914c369a54be0d6d8b102d1f3d0a9fb474e0736d9c23885424c4` |
 | `output/translations/john_15.json` | `266002d8a411e2c374da42a7bcfa6eaf0f1a0351e90c1363849c376b80677caf` |
 | `output/translations/john_16.json` | `b15d3c06e89e6a9099a2fa8c673bb840022d6fe3879b5b4094b028abf3679747` |
 | `output/translations/john_17.json` | `85ee706ee7a297f4c8c7c1b1f915e8f6fea4243e9cbf8d7b5be2c7adc38d041e` |
 | `output/translations/john_18.json` | `b04b5eb875cb520508e6a7e0b00b54c0347b2acecc5e19456062203149f23165` |
-| `output/translations/john_19.json` | `ed2b4e1dafdf3d0a6a925d233b8518f1671f5ec736a27026baf24e68007e0964` |
+| `output/translations/john_19.json` | `cc38954ea4d011bf345492431dca4b15a71f04f10c081fd3cf74f8b5b7cf57f1` |
 | `output/translations/john_20.json` | `affef33f0afa4e1926f611949a3d74fcfe36460ae270adece52144c47308ed74` |
 | `output/translations/john_21.json` | `635e337fdc874bbe2ad0f5e0f6f8a89b523d89e3bbb59880ade2a6a6b10e381f` |
 
