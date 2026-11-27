@@ -3703,6 +3703,12 @@
       "greek_matches": "thematic",
       "notes": "Allusion to ISA 53:7 — the silent-suffering-servant: ‘he was oppressed and afflicted, yet he opened not his mouth; like a lamb that is led to the slaughter.’ Christ's-silence before Pilate fulfills the Suffering-Servant typology. The silence-as-eloquence motif central to Servant-Song fulfillment."
     },
+    "JHN 1:1": {
+      "type": "allusion",
+      "source": "GEN 1:1",
+      "greek_matches": "shared opening",
+      "notes": "John 1:1 and Greek Genesis 1:1 share ἐν ἀρχῇ. The Word and creation themes develop the allusion; the clauses that follow the common opening differ."
+    },
     "JHN 1:11": {
       "type": "allusion",
       "sources": [
@@ -3748,11 +3754,11 @@
       "type": "composite_allusion",
       "sources": [
         "EXO 12:3-13",
-        "ISA 53:7",
-        "GEN 22:8"
+        "ISA 53:4,7",
+        "GEN 22:8,13"
       ],
-      "greek_matches": "paraphrase",
-      "notes": "Lamb of God title — multi-reference allusion-cluster: (1) Passover lamb (Exod 12 — substitutionary deliverance through blood); (2) Suffering Servant lamb (Isa 53:7 'as a lamb led to slaughter'); (3) Akedah ram (Gen 22:8 'God will provide for himself the lamb'). No single decisive OT reference; layered allusion. ADDED TO NT_OT_CITATIONS."
+      "greek_matches": "shared lamb noun and related sacrificial images",
+      "notes": "Greek Isaiah 53:7 describes a sheep (πρόβατον) led to slaughter and a lamb (ἀμνός) silent before the shearer. Isaiah 53:4 has φέρει for bearing our sins, while John uses αἴρων. Exodus 12:5 allows a sheep or goat from the flock. In Genesis 22:8 Abraham speaks of a sheep, and a ram appears in 22:13. These are possible sacrificial and thematic backgrounds for John’s title. None supplies the entire expression."
     },
     "JHN 1:34": {
       "type": "allusion",
