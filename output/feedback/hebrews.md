@@ -1138,7 +1138,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**18** เพราะพวกท่านมิได้มายังภูเขาที่จับต้องได้และเผาด้วยไฟ ทั้งความมืดมน ความมืดทึบ และลมพายุ
+**18** เพราะพวกท่านมิได้มายังภูเขาที่จับต้องได้และลุกไหม้อยู่ ทั้งความมืดมน ความมืดทึบ และลมพายุ
 
 > ___
 
@@ -1230,7 +1230,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**11** เพราะโลหิตของสัตว์ที่ถูกนำเข้าไปในวิสุทธิสถานโดยมหาปุโรหิตเพื่อบาปนั้น ร่างกายของสัตว์เหล่านั้นจะถูกเผานอกค่าย
+**11** เพราะโลหิตของสัตว์ที่ถูกนำเข้าไปในอภิสุทธิสถานโดยมหาปุโรหิตเพื่อบาปนั้น ร่างกายของสัตว์เหล่านั้นจะถูกเผานอกค่าย
 
 > ___
 
@@ -1266,7 +1266,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**20** ขอพระเจ้าแห่งสันติสุข ผู้ทรงนำองค์พระผู้เป็นเจ้าของเรา คือพระเยซู ผู้เป็นพระเมษบาลผู้ยิ่งใหญ่แห่งฝูงแกะ ออกมาจากความตายโดยพระโลหิตแห่งพันธสัญญานิรันดร์
+**20** ขอพระเจ้าแห่งสันติสุข ผู้ทรงนำองค์พระผู้เป็นเจ้าของเรา คือพระเยซู ผู้เป็นผู้เลี้ยงแกะใหญ่ ออกมาจากความตายโดยพระโลหิตแห่งพันธสัญญานิรันดร์
 
 > ___
 
@@ -1309,6 +1309,6 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/hebrews_09.json` | `8d90474d5085cb669a39c9cba6ed697386aa13f901240f6d84ce271dd217c02d` |
 | `output/translations/hebrews_10.json` | `7c673170134e0fe9ada0e47cd3e7f9abd2636ca4df83620709586f22b8e9d12b` |
 | `output/translations/hebrews_11.json` | `1f4b21e2ad07b75c99307f836fadbb5ec732319353b4ea5be560fbb62ee99955` |
-| `output/translations/hebrews_12.json` | `25ce0cf444275c379828916bc9c71762bfd6c12dddd192a2bdbb04d1e6df402f` |
-| `output/translations/hebrews_13.json` | `9a127679a4d08216bd9665e739ae6d25f811658deeba5775761a1915a236f17e` |
+| `output/translations/hebrews_12.json` | `a9c511cd4fe277d9eb151ffff3bf017ff175ab2648b8fd6615e8779d725df0bb` |
+| `output/translations/hebrews_13.json` | `7a4a70fc18a6f28ef725640439ff00544e937e6cc10dcdcc77b6a4953843bc3b` |
 

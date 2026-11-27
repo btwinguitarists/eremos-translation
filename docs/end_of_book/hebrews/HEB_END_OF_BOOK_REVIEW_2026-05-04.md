@@ -100,7 +100,8 @@ The Aramaic/Hebrew transliteration **เมลคีเซเดค** for Μελ
 
 | Sense | Thai | Verses |
 |---|---|---|
-| Christ's atoning blood (royal-honorific) | **พระโลหิต** | 9:12, 9:14, 10:19, 12:24, 13:12, 13:20 |
+| Christ's atoning blood (royal-honorific) | **พระโลหิต** | 9:12, 9:14, 10:19, 13:12, 13:20 |
+| Sprinkled blood | **โลหิตแห่งการประพรม** | 12:24 |
 | Covenant formula in the warning | **โลหิตแห่งพันธสัญญา** | 10:29 |
 | Levitical / OT sacrificial blood (plain) | **โลหิต** | 9:7, 9:13, 9:18, 9:19, 9:21, 9:22 (×2), 9:25, 10:4, 11:28, 12:4 |
 | Incarnational sharing (αἵματος καὶ σαρκός — paired with σάρξ) | **เลือดและเนื้อ** (compound idiom; plain) | 2:14 |
