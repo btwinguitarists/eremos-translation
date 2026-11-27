@@ -21,7 +21,7 @@ NT-to-OT links found: **21** / 24 verses
 - **Revelation 18:18** — EZK 27:32 (citation)
 - **Revelation 18:19** — EZK 27:30 (citation)
 - **Revelation 18:20** — JER 51:48+DEU 32:43 (citation)
-- **Revelation 18:21** — JER 51:63-64 (citation)
+- **Revelation 18:21** — JER 51:63-64 (allusion)
 - **Revelation 18:22** — JER 25:10+EZK 26:13 (citation)
 - **Revelation 18:23** — JER 25:10+NAH 3:4+ISA 47:9-12 (citation)
 - **Revelation 18:24** — JER 51:49 (citation)

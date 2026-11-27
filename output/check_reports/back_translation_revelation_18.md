@@ -19,7 +19,7 @@ Mode: in-chat (Claude-produced back-translations) | Threshold: 0.35
   - Back: And they sprinkled dust on their heads, and weeping and lamenting, said, ‘Disaster! Disaster! Great city, in which everyone who had ships in the sea grew rich because of her wealth, because in just one hour she has been made desolate’
   - BSB:  Then they will throw dust on their heads as they weep and mourn and cry out: "Woe, woe to the great city, where all who had ships on the sea were enriched by her wealth! For in a single hour she has been destroyed."
 - **Revelation 18:22** (sim=0.22)
-  - Thai: และเสียงของผู้ดีดพิณ นักดนตรี ผู้เป่าขลุ่ย และผู้เป่าแตร จะไม่มีให้ได้ยินในเจ้าอีกต่อไป และช่างฝีมือใด ๆ ของทุกอาชีพจะไม่พบในเจ้าอีกต่อไป และเสียงหินโม่จะไม่ได้ยินในเจ้าอีกต่อไป
+  - Thai: และเสียงของผู้ดีดพิณ นักดนตรี ผู้เป่าขลุ่ย และผู้เป่าแตร จะไม่ได้ยินในเจ้าอีกต่อไป และช่างฝีมือใด ๆ ของทุกอาชีพจะไม่พบในเจ้าอีกต่อไป และเสียงหินโม่จะไม่ได้ยินในเจ้าอีกต่อไป
   - Back: And the sound of harpists, musicians, flute-players, and trumpeters will not be heard in you anymore. And craftsmen of any kind of every trade will not be found in you anymore. And the sound of millstones will not be heard in you anymore
   - BSB:  And the sound of harpists and musicians, of flute players and trumpeters, will never ring out in you again. Nor will any craftsmen of any trade be found in you again, nor the sound of a millstone be heard in you again.
 - **Revelation 18:23** (sim=0.04)

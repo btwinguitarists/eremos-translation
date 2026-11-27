@@ -15,7 +15,7 @@ Mode: in-chat (Claude-produced back-translations) | Threshold: 0.35
   - Back: They have authority to shut up the heavens, so that no rain falls during the days of their prophecy, and they have authority over waters, to turn waters into blood, and to strike the earth with every kind of plague as often as they desire
   - BSB:  These witnesses have power to shut the sky so that no rain will fall during the days of their prophecy, and power to turn the waters into blood and to strike the earth with every kind of plague as often as they wish.
 - **Revelation 11:18** (sim=0.26)
-  - Thai: และประชาชาติทั้งหลายโกรธ และพระพิโรธของพระองค์ได้มาถึงแล้ว และเวลาที่จะพิพากษาผู้ตาย และที่จะให้บำเหน็จแก่บรรดาทาสของพระองค์ คือผู้พยากรณ์ ธรรมิกชน และผู้ที่ยำเกรงพระนามของพระองค์ ทั้งคนเล็กและคนใหญ่ และที่จะทำลายบรรดาผู้ที่ทำลายแผ่นดินโลก”
+  - Thai: และประชาชาติทั้งหลายโกรธ และพระพิโรธของพระองค์ได้มาถึงแล้ว และเวลาที่จะพิพากษาผู้ตาย และที่จะให้บำเหน็จแก่บรรดาทาสของพระองค์ คือผู้เผยพระวจนะ ธรรมิกชน และผู้ที่ยำเกรงพระนามของพระองค์ ทั้งคนเล็กและคนใหญ่ และที่จะทำลายบรรดาผู้ที่ทำลายแผ่นดินโลก”
   - Back: And the nations were enraged, and Your wrath has come. And the time when the dead will be judged, and to reward Your slaves, namely the prophets, the saints, and those who fear Your name, both small and great. And to destroy those who destroy the earth’
   - BSB:  The nations were enraged, and Your wrath has come. The time has come to judge the dead and to reward Your servants the prophets, as well as the saints and those who fear Your name, both small and great—and to destroy those who destroy the earth.”
 

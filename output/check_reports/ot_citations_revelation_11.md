@@ -4,7 +4,7 @@ NT-to-OT links found: **14** / 19 verses
 
 ## ✅ Acknowledged in verse notes: 14
 
-- **Revelation 11:1** — EZK 40-42+ZEC 2:1-2 (allusion)
+- **Revelation 11:1** — EZK 40-42+ZEC 2:5-6 (MT/LXX; English 2:1-2) (allusion)
 - **Revelation 11:2** — DAN 7:25+DAN 12:7+LUK 21:24 (allusion)
 - **Revelation 11:3** — DEU 19:15+ZEC 13:4+2KI 1:8 (allusion)
 - **Revelation 11:4** — ZEC 4:2-14 (citation)
