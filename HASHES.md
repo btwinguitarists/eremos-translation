@@ -920,12 +920,12 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/numbers_03.json` | 51 | `788768883bfc57ed32163d4fc91294004779d9e4f4f932f7a8fa0d605c64f354` | `ba9e49c2` |
 | `output/translations/numbers_04.json` | 49 | `1c9c94ca2e5ed62fe6e749fbbd0909bed6a6abde85db3e72a4b1428c449f6b32` | `be809dee` |
 | `output/translations/numbers_05.json` | 31 | `e2194a17801ccd6e10c432d7d68e0b30fc1eb23468fcf7d1b99139ca2a6a1231` | `7e8a9e0c` |
-| `output/translations/numbers_06.json` | 27 | `ebaee16917cf5081a16f0590a3ad18de643067f3a78ffb760f45a4802752252c` | `7e8a9e0c` |
+| `output/translations/numbers_06.json` | 27 | `5f31d32d6989afc73d145ee8a85e5af164f54237e51c2f83dd2d5fd7c384324e` | `7e8a9e0c` |
 | `output/translations/numbers_07.json` | 89 | `399fff73b21f192eb628e38b78dc4935d5ea38432d5f081eed53b0756a7f2dfc` | `7e8a9e0c` |
 | `output/translations/numbers_08.json` | 26 | `9c0b40b9789ae9eb306a29aae6dce48867ecd45fd6c3958abcf4fbb1da9321b1` | `d60afb36` |
 | `output/translations/numbers_09.json` | 23 | `bf73fd776966e01c81abe316f89cc351f7cd687cea49ecaf99f2890987b07a2c` | `cf308a95` |
 | `output/translations/numbers_10.json` | 36 | `80043c453dfcd99d1ebfe28399cd117031ffcaefe0e34194ab66595c00801e81` | `7e8a9e0c` |
-| `output/translations/numbers_11.json` | 35 | `59ad65047c08f9f30dddf4b73f592a65e36eb30698923262610239023051cfcf` | `eb97142b` |
+| `output/translations/numbers_11.json` | 35 | `89bbdab057234edc9b6419679c4dd2ecc58a54baf6e8680796ece34f52884ee3` | `eb97142b` |
 | `output/translations/numbers_12.json` | 16 | `48407b9b096ca7161bce2e38b814ee208b1f2981d093899e73c6637d9a595e39` | `cc96e5af` |
 | `output/translations/numbers_13.json` | 33 | `cdc48e0face91a4aed02927c33bc3a49fe7302efe161a9102b26919b03cfa116` | `de798003` |
 | `output/translations/numbers_14.json` | 45 | `fc3b3383f2cac0414bcb7793927ea3c4bf733b6c335246de05fea4c6be68b7b2` | `2b1853d4` |
@@ -947,7 +947,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/numbers_30.json` | 17 | `948ffbead7e73a3006ca3b712e2f539af2aef8bc8e66563da6d7a0f3a680dc25` | `e855826c` |
 | `output/translations/numbers_31.json` | 54 | `ea2bb81b1c14cc16addd471fb5c615d368ff7e2dad4615b6c3f8cdaeffea0b9a` | `63f5e2c4` |
 | `output/translations/numbers_32.json` | 42 | `e3f991c5af860a95dd06df39dd00fa36292617fbe5341f28ca7b6478d4426e7e` | `f7647235` |
-| `output/translations/numbers_33.json` | 56 | `602d19b1a26aea9dff5180f4a87b34ff4d762c088ae094568359f011d2809d46` | `63f5e2c4` |
+| `output/translations/numbers_33.json` | 56 | `dd818e6c85ca48de0952f17bd7fdca8a6c37882e592b25128d47bcc89e781ba2` | `63f5e2c4` |
 | `output/translations/numbers_34.json` | 29 | `70c5d53937e75d627ec16d030e5a02103f379cae03377084cf92c29594c026b9` | `6fd567a6` |
 | `output/translations/numbers_35.json` | 34 | `b0d01778add620f52b3e20f28345ac79d2b24b59471b4b0ba20af6a92befead5` | `b4691b12` |
 | `output/translations/numbers_36.json` | 13 | `1b0ee1d7f3fb5da42138d12dcd828ad1f2f43837434fb18ab719ca8e927abec1` | `9a54c5d0` |
