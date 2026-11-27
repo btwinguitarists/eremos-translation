@@ -491,7 +491,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 |---|---|
 | `output/translations/1john_01.json` | `697068cdc3f1aa7d75c0f1380f72a9ef36b695952e0ff44d03b1bad67744a664` |
 | `output/translations/1john_02.json` | `1126dee5b0a9054d347e8243093f7c6cba991d488474143a8c27f4ad2ac6807a` |
-| `output/translations/1john_03.json` | `3b1fcce2839a9186c22985b013021b8a08a234b8dc105490c6a7e483391f5e5c` |
+| `output/translations/1john_03.json` | `2eb7e656792aa59e4cf133d1e12b2f4afdeab3d5e6f639e668e20accbdf92b71` |
 | `output/translations/1john_04.json` | `9e2d50260d3e38c0b622bcf9fd5ebd20044024c8cf337ac51c8eec03aa49db64` |
 | `output/translations/1john_05.json` | `65d681bef399bd2ae13e90aa173875450ac069c68d3538ec22d6bf96f0ba0380` |
 
