@@ -953,10 +953,10 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/numbers_36.json` | 13 | `6e9e247941dbbfb9be93abd31182011a6d77fcf6ffa6ce264f9fbf14bb7c6051` | `9a54c5d0` |
 | `output/translations/obadiah_01.json` | 21 | `824b0bb72b1c0f7f5290789bc401b3e5e9a8427f310e6d71da916aba9e98a291` | `b5c1ec65` |
 | `output/translations/philemon_01.json` | 25 | `1a010fbdcae4ae43894f3cfd9d6e21376bfbc263f04dc3fa8844c856436681d4` | `7040ad9f` |
-| `output/translations/philippians_01.json` | 30 | `9bfe5ca289c38128144ad2986601d8a299d8e9b77b8036e3209fea191e72965f` | `fc0b282e` |
-| `output/translations/philippians_02.json` | 30 | `3d5776d16ec2bc8c3de8818550b54bcf90488ed8248d32de281de8ff265d81d8` | `d03c3a1a` |
-| `output/translations/philippians_03.json` | 21 | `cb6129552cf5635186e654b601d859e0ffe2265509efc2f32179a65d3bdb0d7c` | `4b0b01bf` |
-| `output/translations/philippians_04.json` | 23 | `dfc8adf3ad1be869a30fbc774ec94304a973b7e08805fc1c39745ab8054d9cf1` | `3442c594` |
+| `output/translations/philippians_01.json` | 30 | `fc4247e00271b20b341169184f656c7caa44e9cc664204a9aec64daaf1369903` | `fc0b282e` |
+| `output/translations/philippians_02.json` | 30 | `9ede08fe4fe663c22b4c2c361c9bb2458ee52c12734723d9d9f17df7dfe36bb7` | `d03c3a1a` |
+| `output/translations/philippians_03.json` | 21 | `4ca1a2e5f6fd384795b1b165f0aa47707381afdb4d5b8320330e947d281bfa12` | `4b0b01bf` |
+| `output/translations/philippians_04.json` | 23 | `4876f98e72274f02cfef8539f6c6ae87af98b90cc973414d696898aed35c74aa` | `3442c594` |
 | `output/translations/proverbs_01.json` | 33 | `335d10c4df9a466bd84bb67192cbfee2ec8fc2072a514f040bdcae07bfb7509d` | `5e39541a` |
 | `output/translations/proverbs_02.json` | 22 | `2df6b33d35f0755ccfa48239450167199fc0adec1df40da276a3d32c53ce7a4e` | `9ddd076b` |
 | `output/translations/proverbs_03.json` | 35 | `43d5bb65497076352c42ed5499d24b43c0011f03eb275ecb6f7ac67ac5b0e0e2` | `d7cb2f4a` |
