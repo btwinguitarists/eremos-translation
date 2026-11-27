@@ -35,7 +35,7 @@ Hebrew: זָכָר וּנְקֵבָה בָּרָא אֹתָם ("male and female 
 
 Hebrew: אֶעֱשֶׂה־לּוֹ עֵזֶר כְּנֶגְדּוֹ ("I will make for him a helper corresponding-to-him"). The Hebrew **עֵזֶר** (ezer "helper") is **not** a subordinating term — the same lemma appears in the OT for God's help (Ex 18:4, Deut 33:7+26+29, Ps 121:1–2, 124:8). The qualifier **כְּנֶגְדּוֹ** ("corresponding-to-him" / "matching-him" / "facing-him") preserves the matched-counterpart-relationship.
 
-**Eremos:** **ผู้ช่วยที่เคียงข้างกับเขา** ("a helper who is alongside-him"). Preserves the matched-counterpart sense. Verse-level KD names the ezer-lemma-thread (forward to Pss 121, 124).
+**Eremos:** **ผู้ช่วยที่เหมาะสมกับเขา** (“a helper suited to him”). Preserves the matched-counterpart sense. Verse-level KD names the ezer-lemma-thread (forward to Pss 121, 124).
 
 **Forward applicability:** when Ps 121:2 ships ("My help comes from YHWH"), the Thai must use the same ผู้ช่วย / ความช่วยเหลือ vocabulary so readers see the lemma-thread that anchors the woman-as-helper question.
 
