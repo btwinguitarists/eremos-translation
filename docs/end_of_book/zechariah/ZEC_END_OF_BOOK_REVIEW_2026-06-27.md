@@ -188,3 +188,5 @@ See `external_review_items_ZEC.md` + `external_review_packet_ZEC_2026-06-27.md`.
 The one thing that blocks `book-zechariah-v1` is **§1**: the systematic, self-aware, but lock-violating **ทูตขององค์พระผู้เป็นเจ้า** (no สวรรค์) rendering of מַלְאַךְ יְהוָה. It is the corpus's first real test of whether the theophanic angel-of-YHWH should be surfaced distinctly from ordinary heaven-messengers — a question the Exodus-era `malak_yhwh_2026-05` lock answered "no, keep them uniform." Ben should decide before tagging.
 
 Tag `book-zechariah-v1` after: (1) Ben's decision on **§A** (mal'akh สวรรค์); (2) Ben's confirmation on **§B** (satan footnote) and **§C** (messianic-policy lift); (3) the two recommended docs written (+ the malak amendment if §A resolves to ratify); (4) the external AI sanity-check returned.
+
+**Editorial update, November 2026.** The statement in §4 that the compound is absent needs a correction. Zechariah 9:14 has אֲדֹנָי יְהוִה. Its verse decision and chapter note identify the compound.

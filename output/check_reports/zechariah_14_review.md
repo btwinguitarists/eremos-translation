@@ -9,6 +9,7 @@
 | Back-translation | ✅ clean | [back_translation_zechariah_14.md](back_translation_zechariah_14.md) |
 | Thai-summary coverage (info) | ✅ clean | [summary_coverage_zechariah_14.md](summary_coverage_zechariah_14.md) |
 | Claim consistency (hallucination, advisory) | ✅ clean | [claim_consistency_zechariah_14.md](claim_consistency_zechariah_14.md) |
+| unfoldingWord wording (license gate) | ✅ clean | [uw_wording_zechariah_14.md](uw_wording_zechariah_14.md) |
 
 ## Ship criterion
 
