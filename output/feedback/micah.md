@@ -587,7 +587,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 |---|---|
 | `output/translations/micah_01.json` | `b0590e735f30745b26a3278361482d9f4da71a3f28244d3c13b0177ace268015` |
 | `output/translations/micah_02.json` | `2dcf848d018118c6428441e3fa7cb583311984866544999035808d160b78b0f1` |
-| `output/translations/micah_03.json` | `13c1dcac83a3a7f459ff9af204179d7d2898c01214ca6fcfb2222b637c619a72` |
+| `output/translations/micah_03.json` | `81739ddbcfc2f21789088d176f1b3f1648d1d724d81e197c836db76f1b42cd2e` |
 | `output/translations/micah_04.json` | `b432955e0fc1e9eecd78661712fbda0a603de5861f9094ccee2b5fd385cb8747` |
 | `output/translations/micah_05.json` | `6f453ca0b5ed684fbbbec28a852ba4a00f0272db3c9934235c721efe4f8de994` |
 | `output/translations/micah_06.json` | `a461c24432c8e33e93ca4e899e47de1fbd978f66828ef5ec75d60649feadb6a9` |
