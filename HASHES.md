@@ -248,7 +248,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/2timothy_03.json` | 17 | `79f0809b00a8a5a4257cf8b0a6b2a7e27be13b2324d26020f6f8b78dc6955ee7` | `7040ad9f` |
 | `output/translations/2timothy_04.json` | 22 | `54074762576c5b4e7c8e2f3ad2bccd8d89f6157aa4a90b50d5482131f5b65d43` | `00a387a6` |
 | `output/translations/3john_01.json` | 15 | `ba89bd338596738bfb1b774b98cb679495fc8afb979849757c3c6be6478e3609` | `982b79de` |
-| `output/translations/acts_01.json` | 26 | `b50b414998d77ff5283eeea8b6f4e24a7db51bb718ef59a32e5532b90e3cce49` | `d03c3a1a` |
+| `output/translations/acts_01.json` | 26 | `b9bb9c302c1d5e1c6a6d9951649f96e1a86df0d479924f74b59693aebe1ce4b1` | `d03c3a1a` |
 | `output/translations/acts_02.json` | 47 | `49d1c3780f538e4adfd729e8abaf7d1b6ae9b2abc038d4026a3b5f59bf7ad87e` | `d03c3a1a` |
 | `output/translations/acts_03.json` | 26 | `bc6ec4cbca004e481c06a353827cd9c1a4f4dd5a3ac736dc53f895b4b2827f87` | `d03c3a1a` |
 | `output/translations/acts_04.json` | 37 | `8471a71b9906fc1f4cb5f71dbc33dc3f72b6097d14a5670b943dd53f7acbcdd9` | `d03c3a1a` |
