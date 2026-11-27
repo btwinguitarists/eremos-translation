@@ -1521,25 +1521,25 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/judges_01.json` | `e11bc1767d581707148945d57385a903231a4b58ab4b56f51b33a50935e96a1b` |
-| `output/translations/judges_02.json` | `0fa535b30873e781b3ea71b6f65ccd340ea2288f48ecf77bc6211c0907f86fb6` |
-| `output/translations/judges_03.json` | `bb254323f59daf709fb488f12a1b3a411518ea317b81b377e732638de3d03280` |
-| `output/translations/judges_04.json` | `479493597d94a8f0b21b2a2e210edaf3bce2e964b2e5c4081a04d4a9c915cf69` |
-| `output/translations/judges_05.json` | `a16f91836c985202e2c1575674c52cad515079a4d2ef6a30b2bde90499cd007e` |
-| `output/translations/judges_06.json` | `ae76bd1944426bdd52164331a9d6d29c0be1cda8caa53305c20e6dcdb63b5037` |
-| `output/translations/judges_07.json` | `957d67c98f352ae06653ddd69ad18417ca9a4fd0013dfbe35b5d51a2a69f6aec` |
-| `output/translations/judges_08.json` | `a44db2b2252f4f0cda8cc60c08466b1685335f1f418a1b92524b4975275be773` |
-| `output/translations/judges_09.json` | `7f4efc45c0c43bcd0e8380d0c9cf847eaa2e203f6c8bed2229274e6aa195b094` |
+| `output/translations/judges_01.json` | `25bd69abac3b989cfc26ce2639c0ccbeb0449231cc53fd214338aa1e09ed27d3` |
+| `output/translations/judges_02.json` | `d8d9ef67cf0a117a048aa32097ebcfbe8380351f19ec848dcce9f43f6629ac2a` |
+| `output/translations/judges_03.json` | `67cb182e137a12a78e9a6c20f9aa969e4ef0954e64e3f486a92c97efe3d920eb` |
+| `output/translations/judges_04.json` | `ea461beab43861548aae7da4481ad441789c5aeff901a18c5024c41fedaf5447` |
+| `output/translations/judges_05.json` | `d7a10847844f27c0e40473b397ce435a26d5fdc7b5cd7c3bdc3361ad76dcf48a` |
+| `output/translations/judges_06.json` | `2cc1521306b710627dab4f783b1785e0fd19a3eaa070df9e7c4addfb2df5f2f0` |
+| `output/translations/judges_07.json` | `19c997a11cb833e050186cfeb1c535146f84256d2013e6a73bda8bdf6fd0f69f` |
+| `output/translations/judges_08.json` | `26f360e73f7eb68f1039836f6f153e37e971abf11cbb49c1e598326c7dd4a2bb` |
+| `output/translations/judges_09.json` | `558275782ee6a8a7ef712b5fefa5a28eba9b27eae6bd113dcf22ef4108591aea` |
 | `output/translations/judges_10.json` | `20f267d6ed0fc94f40bfe3cd3b3ad39b99c0b9b79a9327809737421f22b9674a` |
-| `output/translations/judges_11.json` | `5407bb5d7d411cf5a08dd316b48cbd3856188c904f70e8381b050a3050389252` |
-| `output/translations/judges_12.json` | `c7291ea3e3d890b34fc9410e21843e52417ffdb7ae4507f32152c9e42860d40f` |
-| `output/translations/judges_13.json` | `baeb9ff61335f8a29d1c6d915e3407280dfbcae498c85bc6b560a91225009b5d` |
-| `output/translations/judges_14.json` | `2049a066a7131eec39dd0097cf061c392cf96fca1f8a0fae88285612af0a611f` |
-| `output/translations/judges_15.json` | `b62f614302dd773418ea4b848b72a3d8b2d3fc729f8909f0e482253503a932f5` |
+| `output/translations/judges_11.json` | `4dc31ef8ef034a9e47582ecb0690ab01d5be09ea4f7c4ed433f66861118af24d` |
+| `output/translations/judges_12.json` | `6002b3fdcc6e4235d874ee63568a41c1ccda86bae7ea5992051223030ba84538` |
+| `output/translations/judges_13.json` | `c6d5684af5e21a1a67bc862645782c692f52d7ff62930c90193f1a2d4a7472b0` |
+| `output/translations/judges_14.json` | `461464626d072a3bcba74a7f48c687d1507f7ebc0c3414b17c837aacda3efbaf` |
+| `output/translations/judges_15.json` | `5d8583565fc06433b0198a557a05557ec2540e87ff01d9c001435f68be928e56` |
 | `output/translations/judges_16.json` | `fa121f958831f3336100e7bab52cf7fc7c9b6208bdc6d10ed386fd8571a8f8e5` |
-| `output/translations/judges_17.json` | `469b8ba3fa56cde8eb856876c124ae12e93d152d0a09e669763e0d1e17cee7b1` |
+| `output/translations/judges_17.json` | `46262ebe9499c6806b9f7ec2733d8749d5527a0d31cf6e1a58e3f75b7ef51879` |
 | `output/translations/judges_18.json` | `1c444c20f6f5342db19c02773f72a6b82cde7a2b42c98c8c2c2938806a7bfe81` |
-| `output/translations/judges_19.json` | `b24f25899406f725a3730bfb22360b0ec43084c15cd82476767eed70ab9d691d` |
+| `output/translations/judges_19.json` | `2b16b88412d11a42ff95b14eccf92b27408c593867c2f65ad48a63fd85bfe933` |
 | `output/translations/judges_20.json` | `e469c214108716a2c579208f510e29c79f4b511203ae51b10d556f2307bf48e5` |
 | `output/translations/judges_21.json` | `ed59af33099193c5c1cfe7e1abe8a71fd953cfbdec163b0359784055aa7123f1` |
 
