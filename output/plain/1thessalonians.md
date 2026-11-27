@@ -210,9 +210,9 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/1thessalonians_01.json` | `1423c859ee798e0fad4190631fa7deef3edab95206c9ef73217bb2d0e3194d93` |
-| `output/translations/1thessalonians_02.json` | `d8aac85e1b61cf821141a7bbcea725106f851ecbe1b3e2c49e4dc07509a34c01` |
-| `output/translations/1thessalonians_03.json` | `cbea59792e2d6a089692ffc99deed00c9e8c4e95e6b1138c2d746557326d2ab8` |
-| `output/translations/1thessalonians_04.json` | `f4e6df0a4958d05161f33ce6ad65c8b4caf1907e6363c3bf787ad016bbe745b0` |
-| `output/translations/1thessalonians_05.json` | `09655929ca3d40fdfa7d96a8108c93787d9a50f6b824c4192e87a8251bbc4ce9` |
+| `output/translations/1thessalonians_01.json` | `fd3f30b004b021b96db1d1d9ed4305e71d4b1a95d709ef7de0cf1776bbcd3db2` |
+| `output/translations/1thessalonians_02.json` | `2f5a2fbe737164593fc986b61407985a854fae0b4a887e6b9b544b548efeae00` |
+| `output/translations/1thessalonians_03.json` | `b6511ad07e76642949f8d563e7b55712fc38c60eb6f107bbccdf55656f7b1754` |
+| `output/translations/1thessalonians_04.json` | `370f4c6b8bf50aa479884dba9030649d617e7a44e402880e56edd60ad3842d82` |
+| `output/translations/1thessalonians_05.json` | `b1472208d3c8c6fe0469f17abd46b01818f2c1658e692791a8cb89fd4b0ebce7` |
 
