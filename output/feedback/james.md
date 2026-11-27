@@ -402,7 +402,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**2** ทรัพย์สมบัติของท่านเน่าเปื่อยแล้ว และเสื้อผ้าของท่านก็ถูกแมลงกัดกินแล้ว
+**2** ทรัพย์สมบัติของท่านเน่าเปื่อยแล้ว และเสื้อผ้าของท่านก็ถูกมอดกัดกินแล้ว
 
 > ___
 
@@ -418,7 +418,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**6** ท่านได้ตัดสินลงโทษและฆ่าผู้ชอบธรรม เขามิได้ต่อต้านท่านเลย
+**6** ท่านได้ตัดสินลงโทษและฆ่าผู้ชอบธรรม มิได้ต่อต้านท่านหรือ?
 
 > ___
 
@@ -486,9 +486,9 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/james_01.json` | `d493f72c16a0a05776625567731b705eb0fbc3399685fa95d5e45a888ea670c7` |
-| `output/translations/james_02.json` | `c6c0b5808e83e132014f1cc400e09bb69bc917cd60ae5b9beb4b2fe9fcd384e0` |
-| `output/translations/james_03.json` | `3808eccaa5550cc2fda97cd0dce2538331998823e416bf1c48ab042c3ba969d6` |
-| `output/translations/james_04.json` | `3b61bd19e8da7e5dd9c3681a31efbf7854e8f7fd8d20d47ffbc1a4f73289bf05` |
-| `output/translations/james_05.json` | `cdd0acb6927085b9b36656e407bea5164fc4efaf311e82378334632582f3ac55` |
+| `output/translations/james_01.json` | `db79ed44d32525cc15f053e30db465c31449e99ab3a80331bdaafb9a1d20d1ec` |
+| `output/translations/james_02.json` | `c09208dd703e1ef7cb4fd23c4ac7e74457f44c33ae73f47278196fd3b746f65a` |
+| `output/translations/james_03.json` | `2069e47be3f837b042d0c2d41ed6b5ae7d7eba50d182ec213cc1a193468ddfcc` |
+| `output/translations/james_04.json` | `0a59743caf75b650e8d167c6a5ef980752dcbd15cb71a5bba739889c78f7971c` |
+| `output/translations/james_05.json` | `61b2a35732454230bce81755b364e02c62857190a7796001ac5ca895f5656058` |
 

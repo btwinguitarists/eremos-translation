@@ -1195,7 +1195,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 _**องค์พระผู้เป็นเจ้า** ในบทนี้ (ปรากฏครั้งแรกที่ข้อ 2) แปลจากภาษาฮีบรู יהוה (พระนามเฉพาะของพระเจ้า ออกเสียงโดยทั่วไปว่า ‘ยาห์เวห์’). ฉบับเอเรโมสใช้ **องค์พระผู้เป็นเจ้า** ตามแบบแผนของฉบับพันธสัญญาใหม่ที่แปล κύριος ซึ่งในต้นฉบับฮีบรูตรงกับ יהוה. ในบทนี้ยังมี אֲדֹנָי (Adonai) แบบเดี่ยว ซึ่งแปลว่า ‘องค์เจ้านาย’ (รูปร้องเรียก ‘ข้าแต่องค์เจ้านาย’) เพื่อแยกจากพระนามยาห์เวห์. ดูรายละเอียดเพิ่มเติมที่ docs/translator_decisions/divine_names_table_2026-05.md._
 
-**ข้อ 25** — ขาดในต้นฉบับวิจารณ์ (SBLGNT)
+**ข้อ 25** — หมายเหตุ
 
 _**ผู้ถูกเจิม** (ข้อ 25 และ 26) แปลจากภาษาฮีบรู מָשִׁיחַ (มาชีอัค) ตามตัวอักษรว่า ‘ผู้ที่ถูกเจิม’. ฉบับเอเรโมสคงคำตามความหมายฮีบรูดั้งเดิมในบริบทพันธสัญญาเดิม แทนที่จะใส่พระนาม ‘พระเมสสิยาห์/พระคริสต์’ ลงในเนื้อความโดยตรง. ผู้ตีความฝ่ายคริสต์จำนวนมากเข้าใจข้อความนี้ว่าหมายถึงพระเมสสิยาห์ และเชื่อมโยงวลี ‘ผู้ถูกเจิมจะถูกตัดขาด’ (ข้อ 26) เข้ากับการสิ้นพระชนม์ของพระคริสต์ — ฉบับเอเรโมสเปิดทางให้การอ่านเช่นนั้นผ่านหมายเหตุนี้ ขณะที่เนื้อความยังคงรักษาความหมายทั่วไปตามต้นฉบับฮีบรู (ใช้หลักการเดียวกับ ยอห์น 1:34)_
 
@@ -1536,13 +1536,13 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/daniel_01.json` | `c4d4767d77a50c3a713c9000f5d4e664e11cce536fed2f080a04068d05de4235` |
+| `output/translations/daniel_01.json` | `d7b5e0f2f910562ce0388a64c3dd4e752f98072ead33d8121a3d3a33d039f7db` |
 | `output/translations/daniel_02.json` | `300dd8496c0edcdb574f58d846e4839e3a5da20dcf0839944ad3fee0303b9475` |
-| `output/translations/daniel_03.json` | `53441db91e2cffd0b0e77019cb7c85bcdab0fa82b5de55b67ae7e31693906bbe` |
+| `output/translations/daniel_03.json` | `f9b7636cdc643c098eb91d3a11dd664cf66dfa3bbfce00043c8841859ed4db82` |
 | `output/translations/daniel_04.json` | `4feb8155d89fa5f55821792977bacb17c2f73507723f8d8907da50c3384b3a30` |
 | `output/translations/daniel_05.json` | `b38dc1bc0735d95e875ab284937946ad2427ec44e5e5510933e7f1c219652b19` |
 | `output/translations/daniel_06.json` | `52e318b5097c93d79faa8d5dfcb6c33749795790d38223f06c9247fa2ef29f9f` |
-| `output/translations/daniel_07.json` | `aca4c318705d3cb486fc0784c1ef440fa496c5d7dce430ed667a4b24214ff692` |
+| `output/translations/daniel_07.json` | `fa1ec9c709ee40ff542f0d795166770396f391af83693e9f9bcc9d5ddbe9cc67` |
 | `output/translations/daniel_08.json` | `fcd821cdb07ed2af0a6f78b25de1393ea328a2a2f5d4b3bcde65ff3d42fd34b6` |
 | `output/translations/daniel_09.json` | `86a43ccbb26dc9b67119d792a8ac35cb9f8fd51a726ded7b16bd6d94c5129551` |
 | `output/translations/daniel_10.json` | `6b96e0bdc0c5207519fe7aac1a9aff4d6a3d41f6f973584a4815de217dc12749` |

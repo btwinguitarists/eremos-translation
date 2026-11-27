@@ -14,7 +14,7 @@ _This reader edition shows the Thai translation and the contextual summary (บ�
 
 **2** ในครั้งนั้น เมื่อกษัตริย์อาหสุเอรัสประทับเหนือราชบัลลังก์แห่งราชอาณาจักรของพระองค์ ณ ป้อมเมืองสุสา
 
-> _บริบท: สุสาเป็นหนึ่งในเมืองหลวงของเปอร์เซีย ใช้เป็นที่ประทับในฤดูหนาว เรื่องราวทั้งเล่มของเอสเธอร์เกิดขึ้นที่นี่_
+> _บริบท: สุสาเป็นหนึ่งในเมืองหลวงของเปอร์เซีย ใช้เป็นที่ประทับในฤดูหนาว เรื่องราวของเอสเธอร์เริ่มต้นที่นี่_
 
 **3** ในปีที่สามแห่งรัชกาลของพระองค์ พระองค์ทรงจัดงานเลี้ยงแก่บรรดาขุนนางและข้าราชบริพารทั้งปวง บรรดาแม่ทัพนายกองแห่งเปอร์เซียและมีเดีย เหล่าขุนนางผู้สูงศักดิ์ และเจ้าเมืองแห่งมณฑลต่าง ๆ ก็อยู่ต่อพระพักตร์พระองค์
 
@@ -502,14 +502,14 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/esther_01.json` | `c50a5bdfcadc96d333e057bb3447ff415b0c5ad4c34f9057a1c66444674d0e69` |
+| `output/translations/esther_01.json` | `a0444f4004144af12892e0f8568ae3dea73701259b1cf10b7ae47973ea0dc17c` |
 | `output/translations/esther_02.json` | `1fbd202c789a129dc5814df4bea9416701d344bb8a280483889fef4b41d872c4` |
 | `output/translations/esther_03.json` | `5adc8a4604d088d33ee912ba164ee5d7878be5166ddc8b37b28a330f5e7de52c` |
 | `output/translations/esther_04.json` | `fa6dde0fe899983a1d327dc5453b69c726ded86542168c2f6309ef67c437bdd5` |
 | `output/translations/esther_05.json` | `0a2e182fe1788a48c1ab05c0e95ac6ad221d468aabe749b22a3cc0a2c2c300eb` |
 | `output/translations/esther_06.json` | `86f8f39cf32cd0e506ef7e6cf7edff2d90448c6dba8b05a60eddf7837a6de413` |
 | `output/translations/esther_07.json` | `8e3edca7c7f873b6000363380cbeda4f1a6f52c06ebcd8aec9238085ad9c8e7b` |
-| `output/translations/esther_08.json` | `9a0001fbd07c6f8fdb98e8b116c54d2f4bbb4a0270a4391da5fa6c4f4c17d41d` |
+| `output/translations/esther_08.json` | `1920f3987009dd3797ca55a84525ce350545964e4fe3a41d62325193e2b32036` |
 | `output/translations/esther_09.json` | `a300f7e0ec3a4eab2fe1ce76d28eef53d6fff837e444e9ad1ecbab323f61744a` |
 | `output/translations/esther_10.json` | `b414c865077fb7a1940cb50c0f4062b98f662fb082711984140e742f860a14fd` |
 

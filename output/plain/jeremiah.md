@@ -125,7 +125,7 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 **33** เจ้าช่างชำนาญในการแสวงหารักเสียจริง! จนแม้แต่หญิงชั่วร้ายก็ยังเรียนรู้วิธีการของเจ้าได้
 
-**34** ยิ่งกว่านั้น ที่ชายเสื้อของเจ้ายังพบโลหิตของคนยากจนผู้บริสุทธิ์ ทั้งที่เจ้ามิได้จับพวกเขาขณะงัดแงะเข้าบ้าน แต่ถึงกระนั้นก็ยังทำสิ่งทั้งหมดนี้
+**34** ยิ่งกว่านั้น ที่ชายเสื้อของเจ้ายังพบโลหิตของคนยากจนผู้บริสุทธิ์ ทั้งที่เจ้ามิได้จับพวกเขาขณะงัดแงะเข้าบ้าน แต่ถึงแม้จะมีเรื่องทั้งหมดนี้
 
 **35** เจ้ายังพูดว่า ‘ข้าบริสุทธิ์ พระพิโรธของพระองค์ย่อมหันไปจากข้าแน่’ ดูเถิด เราจะพิพากษาเจ้า เพราะเจ้าพูดว่า ‘ข้าไม่ได้ทำบาป’
 
@@ -227,7 +227,7 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 **9** องค์พระผู้เป็นเจ้าตรัสไว้ดังนี้ว่า “ในวันนั้น กษัตริย์และบรรดาขุนนางจะเสียขวัญ บรรดาปุโรหิตจะหวาดหวั่น และบรรดาผู้เผยพระวจนะจะตกตะลึงงันงง”
 
-**10** แล้วข้าพเจ้าทูลว่า “ข้าแต่องค์พระผู้เป็นเจ้า แท้จริงพระองค์ได้ทรงปล่อยให้ชนชาตินี้และเยรูซาเล็มถูกลวงอย่างยิ่ง โดยมีผู้กล่าวว่า ‘พวกเจ้าจะมีสันติสุข’ ทั้งที่ดาบได้จ่อถึงคอหอยแล้ว”
+**10** แล้วข้าพเจ้าทูลว่า “ข้าแต่องค์พระผู้เป็นเจ้า แท้จริงพระองค์ได้ทรงลวงชนชาตินี้และเยรูซาเล็มอย่างสิ้นเชิง โดยตรัสว่า ‘พวกเจ้าจะมีสันติสุข’ ทั้งที่ดาบได้จ่อถึงคอหอยแล้ว”
 
 **11** ในเวลานั้นจะมีคำกล่าวแก่ชนชาตินี้และเยรูซาเล็มว่า “ลมร้อนระอุจากที่โล่งบนเนินเขาในถิ่นทุรกันดารพัดมุ่งมายังธิดาแห่งประชากรของเรา ไม่ใช่เพื่อฝัดข้าวหรือเพื่อชำระให้สะอาด
 
@@ -375,7 +375,7 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 **8** เยรูซาเล็มเอ๋ย จงรับการตักเตือนเถิด มิฉะนั้นจิตใจของเราจะเบือนหนีไปจากเจ้า และเราจะทำให้เจ้าเป็นที่รกร้าง เป็นแผ่นดินที่ไม่มีผู้อาศัย”
 
-**9** องค์พระผู้เป็นเจ้าจอมโยธาตรัสดังนี้ว่า “จงเล็มเก็บคนที่เหลืออยู่ของอิสราเอลให้เกลี้ยงเหมือนเล็มเก็บเถาองุ่น จงรูดมือของเจ้าซ้ำอีกครั้งดั่งคนเก็บองุ่นที่รูดตามกิ่งก้าน”
+**9** องค์พระผู้เป็นเจ้าจอมโยธาตรัสดังนี้ว่า “พวกเขาจะเล็มเก็บคนที่เหลืออยู่ของอิสราเอลให้เกลี้ยงเหมือนเล็มเก็บเถาองุ่น จงรูดมือของเจ้าซ้ำอีกครั้งดั่งคนเก็บองุ่นที่รูดตามกิ่งก้าน”
 
 **10** ข้าพเจ้าจะพูดและเตือนผู้ใดได้ ให้พวกเขายอมฟัง? ดูเถิด หูของพวกเขาตันเสียแล้ว พวกเขาจึงฟังไม่ได้ ดูเถิด พระวจนะขององค์พระผู้เป็นเจ้ากลายเป็นที่เยาะเย้ยแก่พวกเขา พวกเขาไม่พอใจในพระวจนะนั้นเลย
 
@@ -2566,7 +2566,7 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 **8** แต่มีสิบคนในพวกเขากล่าวแก่อิชมาเอลว่า อย่าฆ่าเราเลย เพราะเรามีของซ่อนไว้ในทุ่งนา คือข้าวสาลี ข้าวบาร์เลย์ น้ำมัน และน้ำผึ้ง เขาจึงยับยั้ง ไม่ฆ่าพวกนั้นพร้อมกับพี่น้องของเขา
 
-**9** ส่วนบ่อที่อิชมาเอลโยนศพทั้งสิ้นของคนที่เขาฆ่าพร้อมกับเกดาลิยาห์ลงไปนั้น เป็นบ่อใหญ่ที่กษัตริย์อาสาทรงสร้างไว้เพราะกลัวบาอาชากษัตริย์อิสราเอล อิชมาเอลบุตรเนธานิยาห์ได้ทำให้บ่อนั้นเต็มไปด้วยซากศพ
+**9** ส่วนบ่อที่อิชมาเอลโยนศพทั้งสิ้นของคนที่เขาฆ่าพร้อมกับเกดาลิยาห์ลงไปนั้น เป็นบ่อที่กษัตริย์อาสาทรงสร้างไว้เพราะกลัวบาอาชากษัตริย์อิสราเอล อิชมาเอลบุตรเนธานิยาห์ได้ทำให้บ่อนั้นเต็มไปด้วยซากศพ
 
 **10** แล้วอิชมาเอลก็จับชนที่เหลือทั้งหมดที่อยู่ในมิสปาห์ไปเป็นเชลย คือบรรดาราชธิดาและประชาชนทั้งหมดที่เหลืออยู่ในมิสปาห์ ผู้ที่เนบูซาระดานผู้บัญชาการทหารรักษาพระองค์ได้มอบหมายให้เกดาลิยาห์บุตรอาหิคัมดูแล อิชมาเอลบุตรเนธานิยาห์จับพวกเขาไปเป็นเชลยแล้วออกเดินทางจะข้ามไปยังคนอัมโมน
 
@@ -2593,6 +2593,10 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 **ข้อ 5** — หมายเหตุการแปลพระนามของพระเจ้า
 
 _**องค์พระผู้เป็นเจ้า** ในบทนี้ (บทนี้เป็นเรื่องเล่าการลอบสังหารและการสังหารหมู่ พระนาม יהוה ปรากฏเพียงครั้งเดียวที่ข้อ 5 ในวลี ‘พระนิเวศขององค์พระผู้เป็นเจ้า’ ซึ่งเป็นจุดหมายของผู้แสวงบุญ) แปลจากภาษาฮีบรู יהוה (พระนามเฉพาะของพระเจ้า ออกเสียงโดยทั่วไปว่า ‘ยาห์เวห์’). ฉบับเอเรโมสใช้ **องค์พระผู้เป็นเจ้า** ตามแบบแผนของฉบับพันธสัญญาใหม่ที่แปล κύριος ซึ่งในต้นฉบับฮีบรูตรงกับ יהוה. รูป בֵּית יְהוָה (ข้อ 5) แปลว่า **พระนิเวศขององค์พระผู้เป็นเจ้า**. เมื่อข้อความฮีบรูใช้คำว่า אֲדֹנָי (อาโดนาย) โดยไม่มี יהוה ฉบับเอเรโมสจะแปลว่า ‘องค์เจ้านาย’. ดูรายละเอียดเพิ่มเติมที่ docs/translator_decisions/divine_names_table_2026-05.md._
+
+**ข้อ 9** — คำอ่านที่ต่างกัน
+
+_ข้อความฮีบรูมีชื่อเกดาลิยาห์อยู่ในวลีที่เข้าใจได้ยาก ฉบับเอเรโมสเข้าใจว่าคนเหล่านั้นถูกฆ่าพร้อมกับเกดาลิยาห์ ส่วนฉบับกรีกกล่าวแทนว่า “บ่อใหญ่”_
 
 
 ---
@@ -3226,7 +3230,7 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 **18** มันเป็นของไร้ค่า เป็นผลงานที่น่าหัวเราะเยาะ ในเวลาแห่งการลงโทษ มันจะพินาศไป
 
-**19** ส่วนมรดกของยาโคบนั้นไม่เหมือนสิ่งเหล่านี้เลย เพราะพระองค์ทรงเป็นผู้สร้างสรรพสิ่ง และเป็นเผ่าแห่งมรดกของพระองค์ องค์พระผู้เป็นเจ้าจอมโยธาคือพระนามของพระองค์
+**19** ส่วนมรดกของยาโคบนั้นไม่เหมือนสิ่งเหล่านี้เลย เพราะพระองค์ทรงเป็นผู้สร้างสรรพสิ่ง และยาโคบเป็นเผ่าที่เป็นมรดกของพระองค์ องค์พระผู้เป็นเจ้าจอมโยธาคือพระนามของพระองค์
 
 **20** เจ้าเป็นตะบองศึกของเรา เป็นอาวุธสำหรับการสงครามของเรา เราใช้เจ้าทุบประชาชาติให้แหลก เราใช้เจ้าทำลายอาณาจักรต่าง ๆ
 
@@ -3416,56 +3420,56 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/jeremiah_01.json` | `0fbbf862505c618e20c6a4c32e2ba355c5d0402721b0c8089224b299e9b16eab` |
-| `output/translations/jeremiah_02.json` | `4753dfc22c18318fb33959d47c69447da4537d14d350c650d82a621567482ad1` |
-| `output/translations/jeremiah_03.json` | `63640c50b82d72daf3b40acee4e8290db6230500ddc119acb30e7df6aa03aafd` |
-| `output/translations/jeremiah_04.json` | `2e40e806f4876ccbb97fb26f2590001183874e888815b7245d4fa917f2bd7a39` |
-| `output/translations/jeremiah_05.json` | `93dc5a7589dd0c2fedd775e8cb5a7f95d000fff1129077c677bdb75222b8bcdc` |
-| `output/translations/jeremiah_06.json` | `4d21d982e454f4c26f7e501a61ef65db47fbfeead555d08b4e6df77dc336873e` |
-| `output/translations/jeremiah_07.json` | `9cf6eafd79778fb87ced24a8af5675ba4458b607daf733b4c7acee59b736ed4a` |
-| `output/translations/jeremiah_08.json` | `cec1c5f15a6341003f086b1636ff43cf75dfa056a79c5273c9defa4c22bfe035` |
+| `output/translations/jeremiah_01.json` | `747522f9ff58d3d49b17d80c1043732ef71170b57f21446da35da10ae1d8ccba` |
+| `output/translations/jeremiah_02.json` | `5f945a71771224354aca90451674c634d773b4a72357017f7c21f36889f2e81d` |
+| `output/translations/jeremiah_03.json` | `2e8ad96e02d02a4c8e97651989eddaae2e9366ae03783fca5471a4ce603579b4` |
+| `output/translations/jeremiah_04.json` | `8cfa018149ab8a607abeb8b6b4f0c96fa4de4261df0ddad7c7913b429c374b85` |
+| `output/translations/jeremiah_05.json` | `c48b6e3cd9093f770f998fc5d917fec08a2dc58d6ba3ff218cd2b4717dc9576f` |
+| `output/translations/jeremiah_06.json` | `2690d1e0b25f463fb93de1516a2a7e2fb28f7902ef4e3f01814cd77e5cf9dba7` |
+| `output/translations/jeremiah_07.json` | `5db941a8c82dbaade3eb80ee0174c8ed339c85ec59b75bbcad7ba1b49689c80a` |
+| `output/translations/jeremiah_08.json` | `25b92bd8c8b8d0c132c0c87896e41ea09f08621e81218cd22fa242c764f2b8d6` |
 | `output/translations/jeremiah_09.json` | `e0ff0901d8baf0062588e6045c9d08c5c69c3e98894b66a71daf40437f28b5e9` |
-| `output/translations/jeremiah_10.json` | `d279e6fe5e2497ae1100794acfd32d34731b59371873db0a3b546e7ded189122` |
+| `output/translations/jeremiah_10.json` | `715440babe6a48d190eca7503985b42cc98acaa544c4b8ba80ac9d83529c79a2` |
 | `output/translations/jeremiah_11.json` | `f99aa4b02481954b8b5baa9f984c81ae4a177a0b4d5e716f6a79b95ce4616e29` |
-| `output/translations/jeremiah_12.json` | `7c523d85146641be789bb9c78f3c438725a790cb95739d0918ed7683ce1ac6d8` |
-| `output/translations/jeremiah_13.json` | `0d4bac374411abaaaf863b2f97c6c0146f65376fa4c2211d5ae89de25a878b12` |
-| `output/translations/jeremiah_14.json` | `8ae617f18613b9fb2c53570d9ff881c716da1802cb37ae82b98558ceea4d2890` |
-| `output/translations/jeremiah_15.json` | `4c94d62da715351d0f733786e264e19764dd20dc68c274c3395951c9363ac1c6` |
-| `output/translations/jeremiah_16.json` | `a5147133aca587a3022c71d48f80fa6f53e932a8e1908929589583dfce8d2642` |
-| `output/translations/jeremiah_17.json` | `2f660ad72839c41d5f499024b69167b37287f6aea9f281360ddbcaa67fed837e` |
-| `output/translations/jeremiah_18.json` | `b66254dfcad63c44bb6bf1bdc1e33853f8837c22db05a22e3caefcd04948bd72` |
-| `output/translations/jeremiah_19.json` | `368c7f6b8e1acd67aa8c8434512cb0411bdacb7ac3f49f0055184762fe0defb6` |
-| `output/translations/jeremiah_20.json` | `d6d86fd387fd398fc1a79be009819a96a2a16fcf3ee5b034d3ee09b819be50ad` |
-| `output/translations/jeremiah_21.json` | `bad068ef7e7d6b5b7e7d756cd1595ec5a0efb4e2ed81d27d82c00ecf253d4d99` |
+| `output/translations/jeremiah_12.json` | `70447b39df64be781af0ec29770751dea238318d9bec6da7d711d6c728169c03` |
+| `output/translations/jeremiah_13.json` | `8f4979595d86a1de9bc8f2d445d8c07c5e9659790ecc7857f6a1ab70550ffdc3` |
+| `output/translations/jeremiah_14.json` | `ad4b242442363011b11ef1847620969bf71a5c145359a22c855303872c1662df` |
+| `output/translations/jeremiah_15.json` | `dd0700dd7254a7e699bac3584c34943ab102da41b45961661e7503acd8c5c4d6` |
+| `output/translations/jeremiah_16.json` | `91f8015395a4f38df838d70af6872f8d450c239c05774dfda386a74038f4f244` |
+| `output/translations/jeremiah_17.json` | `6d998e8f6d4caedcd2855ff76026ed744bf8234e947fe8be80f6f61be7e9b042` |
+| `output/translations/jeremiah_18.json` | `51bba37182c5bf40850d85fa40475cfb09e0dd6b5c91af66d55ba5528e07a56c` |
+| `output/translations/jeremiah_19.json` | `ab5105a88fafe96e917183c6cd28f796f1c978aa6690f83891915a993e98f487` |
+| `output/translations/jeremiah_20.json` | `e440252db860d87b723958e9ecc71160507699a2f2255b86daf4934150aaa6bf` |
+| `output/translations/jeremiah_21.json` | `8f6bf6ee8cf5de7bee340691d2079777881b709b41e8c0e6cc0ad22d8fa0c185` |
 | `output/translations/jeremiah_22.json` | `e27f8b91f9221f8dd221abb75ed1d740ba6f2d6dd76709c63058912a2540a59c` |
-| `output/translations/jeremiah_23.json` | `4142432ff8fbbb6a3740db81d12ca5f7cef32fe8738090b2be53991edf059fa2` |
+| `output/translations/jeremiah_23.json` | `b5fe5ce5e1627dfe3dab6492d81148c8429dff405ef5cc9be199d182757c58ea` |
 | `output/translations/jeremiah_24.json` | `675b4417d827328c5b189b4f78f74413a311308915de24f5d97ff9e1b0158d42` |
 | `output/translations/jeremiah_25.json` | `130c5dfcb2ec87c643e8e4fdaed62d47659c765ac7e9c0bf1256f45827f6731f` |
-| `output/translations/jeremiah_26.json` | `e3b39f3eace0f9d40410b6940722e736e9837cd38e23326a469b8edf47f379fc` |
-| `output/translations/jeremiah_27.json` | `0ff635538baf0b5522545791d77ce0cbfa3248d67f91e5a7ba1c0250bc0f93a4` |
+| `output/translations/jeremiah_26.json` | `8c55a77e570be3915249d9d2ac9158eec518b89e8aa0ae550bc9e78c094cda23` |
+| `output/translations/jeremiah_27.json` | `31643c2daaf5d1e7cd2f6aa011ce0b74124cb4aa8fbf2f040221ae12d7794e54` |
 | `output/translations/jeremiah_28.json` | `6b3150259c06c107ae02022c8a6504aafe54cfe0c8a399beae19da03cb54eefd` |
 | `output/translations/jeremiah_29.json` | `3aa7a7751e4bc60d947578015001ad215db95e9939c02bc5233f754db8ec6c29` |
-| `output/translations/jeremiah_30.json` | `516a150642402ea1b8000bb262e816a936327748e6b151890d5c5a002339ac10` |
-| `output/translations/jeremiah_31.json` | `6fea76545391c65ed9b92ad1e9cd2d9280395064140982256055424a187714d4` |
-| `output/translations/jeremiah_32.json` | `8181caf1b5348582b5435987688d82493c9fcd5e19ed9cf2eeb107649502b57e` |
+| `output/translations/jeremiah_30.json` | `3d5af7d469c6dd21f287406846e94650cef880b4883482fd2d4a36ecc87862af` |
+| `output/translations/jeremiah_31.json` | `c55060a7f5fd834f6eb65780312b4beac0d38aafdc8643ba260da172d8b4d65f` |
+| `output/translations/jeremiah_32.json` | `046f7405e1d338ca5c6b4f038c8cf5a0236f6268e3627569dcc5fa34506cdd31` |
 | `output/translations/jeremiah_33.json` | `2d9c64956523c69c3c94281f4f4542f81eec3864e2787bac8e3cdf9300c099ee` |
 | `output/translations/jeremiah_34.json` | `d608616660f6a9182d8acfd25568980b983e83d893a0674268f0c6722973c02f` |
 | `output/translations/jeremiah_35.json` | `a3664cfe845def835f924219ace22e3a9fe24a96b13e4ff5e2ce4075f9d10bbc` |
-| `output/translations/jeremiah_36.json` | `5e3a2a41745c6c1ad4a86e5c435f133de9fc314bdcf523f72278eb3723723b51` |
+| `output/translations/jeremiah_36.json` | `626561a157849147d14be8a66f15f1a8806f05c3f2efe453dea73bba2d2ae84a` |
 | `output/translations/jeremiah_37.json` | `d53f8ad0d8c9b1bd32bf58235e2a7208c52612765de6ddee5bb152f441bdebd8` |
 | `output/translations/jeremiah_38.json` | `b97fc93c91cdb3b574cd1c31f68f18c9dc41426b0de966ef8adcb69d1e754751` |
 | `output/translations/jeremiah_39.json` | `447862ed409ec6738d184ba7392eaa0da0c3f7752a89ef0e502f483b7e2f7f80` |
-| `output/translations/jeremiah_40.json` | `1b3537cafe91a2554c6b1c4c1e20611bb0359aaa0493590e9ccf9002a7a5e1d6` |
-| `output/translations/jeremiah_41.json` | `aef38862713bd59280d34d6f25593e6badbebaee7f3da64317bb4d479f130ed9` |
+| `output/translations/jeremiah_40.json` | `cdb6663f051943dce0e0b816b3eb177ec9c46a237bdf754fa8b932aebc031743` |
+| `output/translations/jeremiah_41.json` | `4d49df091c2db28ba633aee2baf69f7748ac13a1e4580161af95f0b6eb737ba8` |
 | `output/translations/jeremiah_42.json` | `38609c8a6c6f9eb4ab7e9c35549dd4333396a89dfa759fd0755ebaea56b88ddd` |
 | `output/translations/jeremiah_43.json` | `a378455a6a752079f83d3bec1c6e05c581c48f2d4ce64f950ed017d8c8e6bb42` |
-| `output/translations/jeremiah_44.json` | `b27d95fd92a5bdbc4e86410e8c004c0cca2048e4fa093dc4dc289b6a5dd0dc8d` |
+| `output/translations/jeremiah_44.json` | `5cfd79f8986ab8c3bd0e92dff7ee05c30684539c473b1d89c9bbff386e4a9a30` |
 | `output/translations/jeremiah_45.json` | `f2243c0cb4937ccf68bd25189b82cd13a6fdfcf42549e5cb8f171495a5029c6f` |
-| `output/translations/jeremiah_46.json` | `92f6bf55a0644953c30308ac9a8c0ca06eacde047af367a5fe7bdfab5607e161` |
+| `output/translations/jeremiah_46.json` | `24b42be96b1b03faa908f68c653595986205149a0b94e767d0aeb1e5a8ee600e` |
 | `output/translations/jeremiah_47.json` | `8a6dc3a5bf4c332649e56f07a0efb02bf8156cc2fef792b97b1b088f0996eefd` |
 | `output/translations/jeremiah_48.json` | `139b7ec32d64288eccaa24898fa0681abd682bc3aacd8eb4577c4868c01f0730` |
-| `output/translations/jeremiah_49.json` | `a091930f02af1fc50f09b04cb2a824fdb046fa1e3013d13dede1d75c2748ca73` |
-| `output/translations/jeremiah_50.json` | `5019eafbbfa9cd27563d0b52d0e490f1bf2d9ffc51df9a0a15e51faf93d5b3b8` |
-| `output/translations/jeremiah_51.json` | `59bcfb835630085c303fc95aaa85a9ef81a2eb18c3524fe134f00054e13e9e23` |
-| `output/translations/jeremiah_52.json` | `0b683aeff021c90e345bb2aecb0425afe5b49032b6349c74005689b09476774c` |
+| `output/translations/jeremiah_49.json` | `ac4540ff08061cbba9b03a5bb56d419dd463c87d1cccdbed130ac8d799b6c94e` |
+| `output/translations/jeremiah_50.json` | `a30f90eaeaa0e5a31ebde0828391a5c5c483a43790f7fa3d9dea56ea6ef92c98` |
+| `output/translations/jeremiah_51.json` | `c71590d528844d303e385b87b518f5d2fea7eb66ac9dfeef02ce0016ea7080c0` |
+| `output/translations/jeremiah_52.json` | `59f33606c327d413f5c17c308444af50c27ee827f7e36b19c9f65cb43dc61f4f` |
 
