@@ -3902,7 +3902,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**14** แต่ไม่ช้าไม่นาน ก็มีลมพายุหมุนรุนแรงพัดลงจากเกาะ ลมนี้เรียกว่า “ลมยูราคีลอน”
+**14** แต่ไม่ช้าไม่นาน ก็มีลมพายุรุนแรงพัดลงจากเกาะ ลมนี้เรียกว่า “ลมยูราคีลอน”
 
 > ___
 
@@ -3930,7 +3930,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**21** เมื่อพวกเขาขาดอาหารมานานแล้ว เปาโลจึงลุกขึ้นยืนกลางท่ามกลางพวกเขาและกล่าวว่า “ท่านทั้งหลาย น่าจะเชื่อฟังข้าพเจ้าและไม่ออกเรือจากเกาะครีต ก็จะได้หลีกเลี่ยงความเสียหายและความสูญเสียครั้งใหญ่นี้
+**21** เมื่อพวกเขาขาดอาหารมานานแล้ว เปาโลจึงลุกขึ้นยืนท่ามกลางพวกเขาและกล่าวว่า “ท่านทั้งหลาย น่าจะเชื่อฟังข้าพเจ้าและไม่ออกเรือจากเกาะครีต ก็จะได้หลีกเลี่ยงความเสียหายและความสูญเสียครั้งใหญ่นี้
 
 > ___
 
@@ -4184,6 +4184,6 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/acts_24.json` | `568a7d659df00db672bb567b280d37f504006600ac2296392b006344ba83c21b` |
 | `output/translations/acts_25.json` | `97532d81e86696bac93a2cbe5408ec6ecdd00278194d8545e635de0bf07d8e73` |
 | `output/translations/acts_26.json` | `7cdb42059a6e80c66aa3e0a9670d0625c44a6f8496639e9eb7032f9d46e9521a` |
-| `output/translations/acts_27.json` | `eb0d8ebebfe0ce1e7a4f21efdaefaa7b82aaaaa4ec6abd22b27b398d401e1745` |
+| `output/translations/acts_27.json` | `90ea9beda98a6a7737ed3c4373acb1e8821a1f611342f3094b7d349758930334` |
 | `output/translations/acts_28.json` | `70d70db2816028d9b38f7c4bc5dfa5ab61379f6645009cd4c41bcd821e969dc1` |
 
