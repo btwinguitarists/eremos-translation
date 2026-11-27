@@ -236,8 +236,8 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/philippians_01.json` | `fc4247e00271b20b341169184f656c7caa44e9cc664204a9aec64daaf1369903` |
+| `output/translations/philippians_01.json` | `b59b69216b0fabf8b3f889e62418521fee67ed37fa5873e7c595112738e7e7a9` |
 | `output/translations/philippians_02.json` | `ab958766f25ede5cf341df5378e4de83c03d14e992ea8d6c4911c82e123b678a` |
-| `output/translations/philippians_03.json` | `4ca1a2e5f6fd384795b1b165f0aa47707381afdb4d5b8320330e947d281bfa12` |
+| `output/translations/philippians_03.json` | `d9c6ae3eabf85d887a7615094fb837b136f48f009be04761df0a24e613241e70` |
 | `output/translations/philippians_04.json` | `4876f98e72274f02cfef8539f6c6ae87af98b90cc973414d696898aed35c74aa` |
 
