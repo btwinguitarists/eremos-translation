@@ -353,14 +353,14 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/ephesians_04.json` | 32 | `d92a86a8a77bc664eb9daad7ad531a32cc0bf2a4a57181988793cea7fc6411d3` | `976a826d` |
 | `output/translations/ephesians_05.json` | 33 | `d3ae2d5ebf6f6aecaef2ca0d34d829ea75ea5053f4b58b65140a33f38da2cba7` | `d03c3a1a` |
 | `output/translations/ephesians_06.json` | 24 | `44808c304430c79a62af207a9332620ec1c006775237edd8976b4205746f76b4` | `b64d4872` |
-| `output/translations/esther_01.json` | 22 | `c50a5bdfcadc96d333e057bb3447ff415b0c5ad4c34f9057a1c66444674d0e69` | `7040ad9f` |
+| `output/translations/esther_01.json` | 22 | `48addd99aac99756f959b35d3f00dcc0856680bf7cb1a513a78ddd36e2043360` | `7040ad9f` |
 | `output/translations/esther_02.json` | 23 | `1fbd202c789a129dc5814df4bea9416701d344bb8a280483889fef4b41d872c4` | `7040ad9f` |
 | `output/translations/esther_03.json` | 15 | `5adc8a4604d088d33ee912ba164ee5d7878be5166ddc8b37b28a330f5e7de52c` | `7040ad9f` |
 | `output/translations/esther_04.json` | 17 | `fa6dde0fe899983a1d327dc5453b69c726ded86542168c2f6309ef67c437bdd5` | `7040ad9f` |
 | `output/translations/esther_05.json` | 14 | `0a2e182fe1788a48c1ab05c0e95ac6ad221d468aabe749b22a3cc0a2c2c300eb` | `7040ad9f` |
 | `output/translations/esther_06.json` | 14 | `86f8f39cf32cd0e506ef7e6cf7edff2d90448c6dba8b05a60eddf7837a6de413` | `427070c3` |
 | `output/translations/esther_07.json` | 10 | `8e3edca7c7f873b6000363380cbeda4f1a6f52c06ebcd8aec9238085ad9c8e7b` | `5545ba20` |
-| `output/translations/esther_08.json` | 17 | `9a0001fbd07c6f8fdb98e8b116c54d2f4bbb4a0270a4391da5fa6c4f4c17d41d` | `7a8bf4c6` |
+| `output/translations/esther_08.json` | 17 | `1920f3987009dd3797ca55a84525ce350545964e4fe3a41d62325193e2b32036` | `7a8bf4c6` |
 | `output/translations/esther_09.json` | 32 | `a300f7e0ec3a4eab2fe1ce76d28eef53d6fff837e444e9ad1ecbab323f61744a` | `7040ad9f` |
 | `output/translations/esther_10.json` | 3 | `b414c865077fb7a1940cb50c0f4062b98f662fb082711984140e742f860a14fd` | `ac16d1c9` |
 | `output/translations/exodus_01.json` | 22 | `b871454c4bd1d3b10d4d2fd96e048377b6992d5e5c789bb25b7ab45a3517fe25` | `e1f3afd7` |
