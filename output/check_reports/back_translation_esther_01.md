@@ -19,7 +19,7 @@ Mode: in-chat (Claude-produced back-translations) | Threshold: 0.35
   - Back: There were curtains of fine white linen and blue, fastened with cords of fine linen and purple thread looped on silver rings on marble pillars; there were couches of gold and silver set on a floor inlaid with bahat stone, marble, mother-of-pearl, and dark stone.
   - BSB:  Hangings of white and blue linen were fastened with cords of fine white and purple material to silver rings on the marble pillars. Gold and silver couches were arranged on a mosaic pavement of porphyry, marble, mother-of-pearl, and other costly stones.
 - **Esther 1:19** (sim=0.12)
-  - Thai: ฉะนั้น หากเป็นที่พอพระทัยกษัตริย์ ขอให้มีพระราชโองการออกไปจากพระองค์ และบันทึกไว้ในกฎหมายของชาวเปอร์เซียและมีเดียเพื่อจะเปลี่ยนแปลงไม่ได้ ว่าพระนางวัชทีจะไม่ได้เข้าเฝ้ากษัตริย์อาหสุเอรัสอีกต่อไป และขอกษัตริย์พระราชทานตำแหน่งราชินีของพระนางแก่ผู้อื่นที่ดีกว่าพระนาง
+  - Thai: ฉะนั้น หากเป็นที่พอพระทัยกษัตริย์ ขอให้มีพระราชโองการออกไปจากพระองค์ และบันทึกไว้ในกฎหมายของชาวเปอร์เซียและมีเดียเพื่อจะเพิกถอนไม่ได้ ว่าพระนางวัชทีจะไม่ได้เข้าเฝ้ากษัตริย์อาหสุเอรัสอีกต่อไป และขอกษัตริย์พระราชทานตำแหน่งราชินีของพระนางแก่ผู้อื่นที่ดีกว่าพระนาง
   - Back: Therefore, if it pleases the king, let a royal decree go forth from him and be recorded in the laws of the Persians and Medes so that it cannot be changed, that Vashti shall not come before King Ahasuerus again, and let the king grant her position as queen to another who is better than she.
   - BSB:  So if it pleases the king, let him issue a royal decree, and let it be recorded in the laws of Persia and Media so that it cannot be repealed, that Vashti shall never again enter the presence of King Xerxes, and that her royal position shall be given to a woman better than she.
 
