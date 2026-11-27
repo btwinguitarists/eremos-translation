@@ -1,5 +1,7 @@
 # Psalms — End-of-Book Review
 
+**Editorial clarification, 27 November 2026.** Psalm 119:11 uses พระวจนะของพระองค์ for אִמְרָתֶךָ. The list of Torah terms later in this report describes common choices within the psalm. Individual renderings vary.
+
 **Editorial clarification, 27 November 2026.**
 
 - **Psalm 9:3 (Hebrew numbering).** The main renders עֶלְיוֹן as ข้าแต่องค์ผู้สูงสุด. The verse has no individual translation-decision entry for the title.
