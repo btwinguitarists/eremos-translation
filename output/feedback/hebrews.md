@@ -118,7 +118,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**8** พระองค์ทรงให้สิ่งทั้งสิ้นอยู่ใต้เท้าของเขา” เมื่อพระองค์ทรงให้สิ่งทั้งสิ้นอยู่ใต้บังคับของเขา พระองค์ก็ไม่ได้ทรงปล่อยสิ่งใดให้อยู่นอกการบังคับของเขา แต่ในปัจจุบันเรายังไม่เห็นสิ่งทั้งสิ้นอยู่ใต้บังคับของเขา
+**8** พระองค์ทรงให้สิ่งทั้งสิ้นอยู่ใต้เท้าของเขา” เมื่อพระองค์ทรงให้สิ่งทั้งสิ้นอยู่ใต้บังคับ พระองค์ก็ไม่ได้ทรงปล่อยสิ่งใดให้อยู่นอกการบังคับของเขา แต่ในปัจจุบันเรายังไม่เห็นสิ่งทั้งสิ้นอยู่ใต้บังคับของเขา
 
 > ___
 
@@ -154,7 +154,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**17** เพราะฉะนั้น พระองค์จึงต้องถูกทำให้เหมือนพี่น้องในทุกประการ เพื่อพระองค์จะทรงเป็นมหาปุโรหิตผู้ทรงเมตตาและสัตย์ซื่อ ในการรับใช้ต่อพระเจ้า เพื่อจะทรงลบล้างบาปของประชากร
+**17** เพราะฉะนั้น พระองค์จึงต้องถูกทำให้เหมือนพี่น้องในทุกประการ เพื่อพระองค์จะทรงเป็นมหาปุโรหิตผู้ทรงเมตตาและสัตย์ซื่อ ในการรับใช้ต่อพระเจ้า เพื่อจะทรงลบมลทินบาปของประชากร
 
 > ___
 
@@ -1298,8 +1298,8 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/hebrews_01.json` | `73495c08d16188eb6ebc1b0d4d0dd47d77821bd93dfbbe0b8771c8950114d41d` |
-| `output/translations/hebrews_02.json` | `a8662a9f998415e5276f5d93e5d61ca8af0db4c58200f13fc9df6d2401d7f932` |
+| `output/translations/hebrews_01.json` | `cc22d2105c9e12c8994514f1917b6433738d3d12b7b1d48998b2ff0bb4701f93` |
+| `output/translations/hebrews_02.json` | `4206fcccb4fbdbe15ef4011b0a497de6309a8b3571c74a6648ad13e81dd56996` |
 | `output/translations/hebrews_03.json` | `3ebec505029ac8c92124457c863694c07ef7ab9277e1ddd9f43c1f50960b66c2` |
 | `output/translations/hebrews_04.json` | `67adde4a294d2bc1b50b1638744b9d3b441ef83edbddc62d88df51e7128488e8` |
 | `output/translations/hebrews_05.json` | `9e14c8190e6bf99e2f26b7a0c6fb1207061723350a76bac515bef97fb5d2571e` |
