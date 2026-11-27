@@ -70,7 +70,7 @@ _This reader edition shows the Thai translation and the contextual summary (บ�
 
 **24** เมื่อพวกมันเคลื่อนไป ข้าพเจ้าได้ยินเสียงปีกของพวกมันดุจเสียงน้ำมากหลาย ดุจพระสุรเสียงขององค์ผู้ทรงมหิทธิฤทธิ์ เป็นเสียงอึกทึกดุจเสียงกองทัพ เมื่อพวกมันหยุดนิ่งก็หย่อนปีกลง
 
-> _บริบท: เสียงปีกของทูตเหล่านี้ดังกึกก้องดุจ ‘เสียงน้ำมากหลาย’ และ ‘พระสุรเสียงขององค์ผู้ทรงมหิทธิฤทธิ์’ (สำนวนที่หมายถึงเสียงฟ้าร้อง) — วิวรณ์ 1:15 และ 19:6 ใช้ภาพ ‘เสียงน้ำมากหลาย’ เดียวกันนี้กับพระสุรเสียงของพระคริสต์_
+> _บริบท: เสียงปีกของทูตเหล่านี้ดังกึกก้องดุจ ‘เสียงน้ำมากหลาย’ และ ‘พระสุรเสียงขององค์ผู้ทรงมหิทธิฤทธิ์’ (สำนวนที่หมายถึงเสียงฟ้าร้อง) — วิวรณ์ 1:15 ใช้ภาพ ‘เสียงน้ำมากหลาย’ เดียวกันนี้กับพระสุรเสียงของพระคริสต์ ส่วนวิวรณ์ 19:6 ใช้ภาพนี้กับเสียงที่ได้ยินดุจเสียงของฝูงชนมากมาย_
 
 **25** และมีเสียงดังมาจากเหนือแผ่นฟ้าที่อยู่เหนือศีรษะของพวกมัน เมื่อพวกมันหยุดนิ่งก็หย่อนปีกลง
 
@@ -721,7 +721,7 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 **6** จงแบกสัมภาระขึ้นบ่าต่อหน้าต่อตาพวกเขา และขนออกไปในความมืด จงคลุมหน้าของเจ้าไว้ไม่ให้เห็นแผ่นดิน เพราะเราได้ตั้งเจ้าให้เป็นเครื่องหมายแก่วงศ์วานอิสราเอล”
 
-> _บริบท: เอเสเคียลเองกลายเป็น ‘เครื่องหมาย’ ที่มีชีวิต — การกระทำของเขาเป็นภาพล่วงหน้าของการที่กษัตริย์และประชาชนจะหนีและถูกกวาดไปเป็นเชลย (ทำสำเร็จในข้อ 12-13)_
+> _บริบท: เอเสเคียลเองกลายเป็น ‘เครื่องหมาย’ ที่มีชีวิต — การกระทำของเขาเป็นภาพล่วงหน้าของการที่กษัตริย์และประชาชนจะหนีและถูกกวาดไปเป็นเชลย (ข้อ 12-13 อธิบายว่าเครื่องหมายนี้ชี้ถึงสิ่งที่จะเกิดขึ้นกับเจ้านาย)_
 
 **7** ข้าพเจ้าก็ทำตามที่ได้รับบัญชา ข้าพเจ้านำสัมภาระออกมาในเวลากลางวันเหมือนสัมภาระสำหรับการเป็นเชลย และในเวลาเย็นข้าพเจ้าก็เจาะกำแพงด้วยมือ แล้วขนสัมภาระออกไปในความมืด แบกขึ้นบ่าต่อหน้าต่อตาพวกเขา
 
@@ -1175,6 +1175,10 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 **ข้อ 1** — หมายเหตุการแปลพระนามของพระเจ้า
 
 _**องค์พระผู้เป็นเจ้า** ในบทนี้ (ปรากฏครั้งแรกที่ข้อ 1) แปลจากภาษาฮีบรู יהוה (พระนามเฉพาะของพระเจ้า ออกเสียงโดยทั่วไปว่า ‘ยาห์เวห์’). ฉบับเอเรโมสใช้ **องค์พระผู้เป็นเจ้า** ตามแบบแผนของฉบับพันธสัญญาใหม่ในการแปล κύριος ซึ่งตรงกับ יהוה. รูปประสม אֲדֹנָי יְהוִה (ข้อ 3, 9, 16, 19, 22) และวลี ‘เราคือองค์พระผู้เป็นเจ้า’ (אֲנִי יְהוָה — ข้อ 21, 24) ก็แปลในแนวเดียวกัน. ดูรายละเอียดเพิ่มเติมที่ docs/translator_decisions/divine_names_table_2026-05.md._
+
+**ข้อ 21** — คำอ่านที่ต่างกัน
+
+_ข้อความฮีบรูที่แสดงในข้อนี้หมายถึง “คนของเขาที่หนีไป” ส่วนต้นฉบับบางฉบับสลับลำดับตัวอักษรสองตัว จึงอ่านได้ว่า “คนที่เขาคัดเลือก” ฉบับเอเรโมสจึงแปลตามการอ่านอย่างหลังว่า “กองทหารชั้นดี”_
 
 
 ---
@@ -1730,6 +1734,10 @@ _ข้อ 25: ต้นฉบับมาโซเรติก (MT) อ่า�
 
 _**องค์พระผู้เป็นเจ้า** ในบทนี้ (ปรากฏครั้งแรกที่ข้อ 1) แปลจากภาษาฮีบรู יהוה (พระนามเฉพาะของพระเจ้า ออกเสียงโดยทั่วไปว่า ‘ยาห์เวห์’). ฉบับเอเรโมสใช้ **องค์พระผู้เป็นเจ้า** ตามแบบแผนของฉบับพันธสัญญาใหม่ในการแปล κύριος ซึ่งตรงกับ יהוה. รูปประสม אֲדֹנָי יְהוִה (เช่น ข้อ 22, 28, 32, 34, 35, 46, 49) และพระนาม יהוה เดี่ยว (เช่น ข้อ 36 ‘องค์พระผู้เป็นเจ้าตรัสกับข้าพเจ้า’) ก็แปลในแนวเดียวกัน. ดูรายละเอียดที่ docs/translator_decisions/divine_names_table_2026-05.md._
 
+**ข้อ 21** — คำอ่านที่ต่างกัน
+
+_ข้อความฮีบรูช่วงท้ายมีคำว่า לְמַעַן (“เพื่อ”) ซึ่งเข้าใจได้ยากในประโยคนี้ ผู้แปลบางคนเสนอให้อ่านเป็นกริยาที่หมายถึงการบีบหรือกอดรัด ฉบับเอเรโมสใช้ข้อเสนอนี้เมื่อแปลว่า “กอดรัดทรวงอก”_
+
 
 ---
 
@@ -1747,7 +1755,7 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 **4** จงใส่ชิ้นเนื้อลงไป ทุกชิ้นที่ดี ทั้งโคนขาและไหล่ จงบรรจุให้เต็มด้วยกระดูกชิ้นดี ๆ
 
-**5** จงเอาแกะที่ดีที่สุดของฝูงมา และสุมฟืนไว้ใต้หม้อ จงต้มให้เดือดพล่าน และต้มกระดูกในหม้อนั้นด้วย’
+**5** จงเอาแกะที่ดีที่สุดของฝูงมา และสุมกระดูกไว้ใต้หม้อ จงต้มให้เดือดพล่าน และต้มกระดูกในหม้อนั้นด้วย’
 
 **6** เพราะฉะนั้น องค์พระผู้เป็นเจ้าตรัสดังนี้ว่า วิบัติแก่เมืองที่นองเลือด แก่หม้อที่ขึ้นสนิม สนิมที่ขัดออกไม่ได้ จงเอาเนื้อออกมาทีละชิ้น ๆ โดยไม่ต้องจับฉลากเลือก
 
@@ -1802,6 +1810,10 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 **ข้อ 1** — หมายเหตุการแปลพระนามของพระเจ้า
 
 _**องค์พระผู้เป็นเจ้า** ในบทนี้ (ปรากฏครั้งแรกที่ข้อ 1) แปลจากภาษาฮีบรู יהוה (พระนามเฉพาะของพระเจ้า ออกเสียงโดยทั่วไปว่า ‘ยาห์เวห์’). ฉบับเอเรโมสใช้ **องค์พระผู้เป็นเจ้า** ตามแบบแผนของฉบับพันธสัญญาใหม่ในการแปล κύριος ซึ่งตรงกับ יהוה. รูปประสม אֲדֹנָי יְהוִה (เช่น ข้อ 3, 6, 9, 14, 21, 24) และวลี ‘เราคือองค์พระผู้เป็นเจ้า’ (אֲנִי יְהוָה — เช่น ข้อ 14, 27) ก็แปลในแนวเดียวกัน. ดูรายละเอียดที่ docs/translator_decisions/divine_names_table_2026-05.md._
+
+**ข้อ 5** — คำอ่านที่ต่างกัน
+
+_ข้อความฮีบรูใช้คำว่า “กระดูก” ทั้งตอนสุมไว้ใต้หม้อและตอนต้มในหม้อ ฉบับกรีกก็กล่าวถึงกระดูกทั้งสองครั้ง ผู้แปลบางฉบับเข้าใจสิ่งที่อยู่ใต้หม้อว่าเป็นฟืน_
 
 
 ---
@@ -2053,7 +2065,7 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 **21** “บุตรแห่งมนุษย์เอ๋ย จงตั้งหน้าของเจ้าไปทางไซดอน และเผยพระวจนะกล่าวโทษเมืองนั้น
 
-**22** จงกล่าวว่า องค์พระผู้เป็นเจ้าตรัสดังนี้ว่า ดูเถิด ไซดอนเอ๋ย เราเป็นปฏิปักษ์ต่อเจ้า และเราจะได้รับเกียรติในท่ามกลางเจ้า เมื่อเราทำการพิพากษาในเมืองนั้นและสำแดงความบริสุทธิ์ของเราในเมืองนั้น คนทั้งหลายจะรู้ว่าเราคือองค์พระผู้เป็นเจ้า
+**22** จงกล่าวว่า องค์พระผู้เป็นเจ้าตรัสดังนี้ว่า ‘ดูเถิด ไซดอนเอ๋ย เราเป็นปฏิปักษ์ต่อเจ้า และเราจะได้รับเกียรติในท่ามกลางเจ้า เมื่อเราทำการพิพากษาในเมืองนั้นและสำแดงความบริสุทธิ์ของเราในเมืองนั้น คนทั้งหลายจะรู้ว่าเราคือองค์พระผู้เป็นเจ้า
 
 **23** เราจะส่งโรคระบาดมาเหนือเมืองนั้น และทำให้โลหิตไหลนองตามถนนของเมือง ผู้ถูกฆ่าจะล้มลงในท่ามกลางเมืองนั้น ด้วยดาบที่ห้ำหั่นเมืองนั้นจากทุกด้าน แล้วคนทั้งหลายจะรู้ว่าเราคือองค์พระผู้เป็นเจ้า
 
@@ -3620,52 +3632,52 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/ezekiel_01.json` | `f4a588d48eac5c57313f51f7e96a612dcddab652f9b0dadd45283a996ca5e4b3` |
+| `output/translations/ezekiel_01.json` | `dd147fc7778f0d7b5f36eae252ab55eb5141b867d758f3b649a6d7c91537cce5` |
 | `output/translations/ezekiel_02.json` | `9ebb35bb24dcb57d6454221c873800babf60912331a332bbf546bed16f0fae32` |
-| `output/translations/ezekiel_03.json` | `a4dfe9a1abc11d33f3a60c66d002cdd4c018f836e26d4fb3cdb8cb5922d49fc2` |
-| `output/translations/ezekiel_04.json` | `84fc59882eef22b4ecfa63c1fad53c670bc808d0555ffbc31550dbcbc427948f` |
+| `output/translations/ezekiel_03.json` | `84207d66560243dc918ecc7a7226a9f738e71e3b37e8e8d26a0a207f8976057e` |
+| `output/translations/ezekiel_04.json` | `111bb7426b3a7082bf4fcca80bb63322a41508a14b3c48ba0aa193127ac0db41` |
 | `output/translations/ezekiel_05.json` | `889b4e5cf7d7a4ff17ae37ccd9aca3520ebec5e386e04d5f8cb32b2e34c17186` |
 | `output/translations/ezekiel_06.json` | `891c1d1bdf4d401fdf60f256fa73c84107c125df15e51805feb13774c2a6e660` |
 | `output/translations/ezekiel_07.json` | `378af2737e11289f75f8172da03c3e2d3116a9865ffb8c2cd30efceb1b3fae10` |
-| `output/translations/ezekiel_08.json` | `b94718d4f0d6cfb548d924095f690a6d2330af4bcf5939ae3a67896e43d0099c` |
-| `output/translations/ezekiel_09.json` | `9707d755b9dab0db189672c7858ec9b424fd484d8813606f04d747616543587f` |
+| `output/translations/ezekiel_08.json` | `5aa039e673ddd75ce11e01b14a1a079036eb34e2ffdf4dddcaf9d9580314f95a` |
+| `output/translations/ezekiel_09.json` | `c02a5d5edd8934d85df7d93a523cbf0e8c884d9a79166e475f42309be4da6a40` |
 | `output/translations/ezekiel_10.json` | `0fa69861ae3a1b647ef1202224515352e2126137c27c663ed337b8138b6404e3` |
-| `output/translations/ezekiel_11.json` | `1ec66062138e7b1b79bd230dbf02bea1b3ff1dcc681a4d82cae3dbcc61fee59b` |
-| `output/translations/ezekiel_12.json` | `a1a29f18695d32a778e421d5be465d1566059e7459c6d90f6534559c0b5434b4` |
+| `output/translations/ezekiel_11.json` | `28213a94a8376c21e10a007a5b87c3dad019d64baecf232665211efa5e1c22b3` |
+| `output/translations/ezekiel_12.json` | `a68ecc00d324d6a04afeead4b193bed2595ffa076edd0ffee3ffbb855df5896e` |
 | `output/translations/ezekiel_13.json` | `338f0b0cbb70547cd6cef40ca32df0051a8432c2981711c631266b35622f5c24` |
 | `output/translations/ezekiel_14.json` | `ba9eb610b39f095a6a18e08b9cb814d4a6936689a12b13fc4bbc898bab9b5532` |
 | `output/translations/ezekiel_15.json` | `0cfaa6030b0e1dc739f940d93e9a59452839e530a33d22fc46ff656fc7c973a0` |
-| `output/translations/ezekiel_16.json` | `b82c18c8c9c230f14823a45db0170484aad49fcbbad004b07b374918e98df8c0` |
-| `output/translations/ezekiel_17.json` | `55c5ef51e5ff91148e617140348874b56dc4773bd727a6465f2d54ee79ce1ea5` |
-| `output/translations/ezekiel_18.json` | `c470ae0071d943a2099234ddfd0fbb01bfcd0eb9e53104c5fae40219e85d3572` |
-| `output/translations/ezekiel_19.json` | `9bb5d4c3f4ad6c0020a211b95588c718041bb7fcb197a0a4410b93b3f32bfa22` |
+| `output/translations/ezekiel_16.json` | `78494f668c3308af18678a8918abd1ffd0ba4d673f60aef2e9dcb1fa970fcfc1` |
+| `output/translations/ezekiel_17.json` | `431e0078f9de2abd25fb53f7bea6a169789e906a528e28ba867243f66839189e` |
+| `output/translations/ezekiel_18.json` | `c9f495411c47cff43a1a7e054bd8730452ca27720b149d9cd7d6b4af4a66fa5b` |
+| `output/translations/ezekiel_19.json` | `4535499ec7ccc820d5736d8063c2116f08d1415f7a75cfb0ab74209271ee7ef8` |
 | `output/translations/ezekiel_20.json` | `7767fda24441a563d88bfb12c9cfa11ece0c3b891c345d560fa24dfb1d521943` |
-| `output/translations/ezekiel_21.json` | `a445991430f8a0e4404e30a89a17838ee83e1423a463636e20ffecf1712e5e53` |
-| `output/translations/ezekiel_22.json` | `e249d4eaed57dedbe987085c229ef95834b692df7a852761389e9134c896261d` |
-| `output/translations/ezekiel_23.json` | `32c9abdf7db33ced2c7005bdf269644f5b3c445615dd29d6ab9c1e8fe828c355` |
-| `output/translations/ezekiel_24.json` | `7fe34d7a2f1d9053d026f6f43a8cb8a23595a9f371aa2fbe83ce4816daa6c732` |
-| `output/translations/ezekiel_25.json` | `9e710652e86b307aab4882bff5ecc04578a8f06b678275c086b472587167b8a1` |
+| `output/translations/ezekiel_21.json` | `97ddd0109322dd6f67806aea4073a67b56b0b8036efdf2673e4ad79298db87eb` |
+| `output/translations/ezekiel_22.json` | `20d3327356da80a8f75bc75e9b394fe9e420a575398f936575bc981c62cfe5d1` |
+| `output/translations/ezekiel_23.json` | `24f1e01d34bb1b9ba5c75edfe050f4dc2959749a8c22192497af9a81b18e3577` |
+| `output/translations/ezekiel_24.json` | `745d60c264bf1a0b110628535d1031001eb0cfd0c7e932885b810fe3e1c8221f` |
+| `output/translations/ezekiel_25.json` | `8a8206896f13273d388f09cce34067476a07972ba0d9158ef380c32f50676fde` |
 | `output/translations/ezekiel_26.json` | `c6ab1cbac2c7b5000a40980dd0716f4802a2aa545aca83cdbb77f4b812402fc3` |
-| `output/translations/ezekiel_27.json` | `394375d567244170a490dd1ab3d7bf8b66dbe261a4f03f1d6571d6543e10b58a` |
-| `output/translations/ezekiel_28.json` | `e1d5c90c1c6be9ab2deccf2e56d59622afed56884caf221c17b604ba3b8e47f7` |
+| `output/translations/ezekiel_27.json` | `f7390e2d072ff7f552c48c2d000ae35adeed9b8d92d9f5596938c5d629fbb03f` |
+| `output/translations/ezekiel_28.json` | `653127e9eac6d6d5468f66d9311c76837a737cecab8b0af489179a7e654a6dbf` |
 | `output/translations/ezekiel_29.json` | `c28f7129fdcbb301aebd311b65e118a528b2e3f535c36989f8d609e244e0211e` |
 | `output/translations/ezekiel_30.json` | `4d39dea66fd03da5e19f318ee921b2bd9d603ad91399c72548fc97e0464cf782` |
 | `output/translations/ezekiel_31.json` | `d99fc26acc2747d3c676e6e40e31fff307305809e2eef60f82ff0b2402089ea2` |
 | `output/translations/ezekiel_32.json` | `c0cde7b81942e179188b5ac176b08d4524ad0c6ea13c7d86666b6669abae1ee8` |
-| `output/translations/ezekiel_33.json` | `12b7181888c1278b534fbe6afdb4062b007320ed91810356c75160e007d2018c` |
+| `output/translations/ezekiel_33.json` | `944f785a3cba7a46497fe98165dac1eb008da4ca569f62ba15f58c5e4f58badc` |
 | `output/translations/ezekiel_34.json` | `20c448ff605e86a51771f761d27990ba296c331f7a1f149bf86962fe7916ed7d` |
 | `output/translations/ezekiel_35.json` | `03307308b5f78ddf8654b93c2e1decaeae9adb884c71b0ab4277cf2ff33943f1` |
 | `output/translations/ezekiel_36.json` | `82e430be22de6d83878b62c56218b0a5ea06d525b96f800626f10b0de2c73705` |
-| `output/translations/ezekiel_37.json` | `2f0a6fe3022748d4f82b5bfe05e2671fdfc7791f336e45e644c0d94c8490c15b` |
-| `output/translations/ezekiel_38.json` | `b63c21f5c68775919e11185538f8e1ce7d510600a2a4c8f026b584a4083d6a9d` |
+| `output/translations/ezekiel_37.json` | `4178c704b20dfa0611509120a1ebce94c822f96b787a7c44010b1b3d78339410` |
+| `output/translations/ezekiel_38.json` | `bffb788992cb366c1824e250eabedfb8f459daa4db9c83aca2091b779cffea35` |
 | `output/translations/ezekiel_39.json` | `6f8fcc32fd9860a729953d34eea5e351be4b81f55137d413db3053856c31be65` |
 | `output/translations/ezekiel_40.json` | `1ee41a6c6e9c29fda3c4943b3e3ae04f32611b2e2f1d8af8879d63b2288fa9ac` |
 | `output/translations/ezekiel_41.json` | `aa4d5644b22432f40273713e247d464f6faaf73ff218682ae9bf27dd06d8ddbc` |
 | `output/translations/ezekiel_42.json` | `2f1a62908da46b50a32d590e65449b07f3af18c90a77520b29840ef0c62a7eba` |
-| `output/translations/ezekiel_43.json` | `bdfefd7e3b5eabe589486862d456ba1278d5e0a87cf2c3faf3439b60593834d6` |
+| `output/translations/ezekiel_43.json` | `9a74dce1122dd2075fb46e3032060a9d7613b31ba39c69e6b65b4f0b3b586e63` |
 | `output/translations/ezekiel_44.json` | `7cb04f04edbc5afed113c1754ab8daabd5fcac35aadd4b9d9e4d5e81b63527f2` |
-| `output/translations/ezekiel_45.json` | `de3ffa5367562576a6b4b54e3a011b01861ed80ae0377d39360f2de852a9de91` |
-| `output/translations/ezekiel_46.json` | `f54f911d5fdf531e6ddd75d94635a452f97aa8ea8d21ce23f0dc54250226c785` |
+| `output/translations/ezekiel_45.json` | `30e55ca1dc50ebc89bbd22d58651810b74acb24e3edcaf81c791157faca63315` |
+| `output/translations/ezekiel_46.json` | `706d838139d596cd4b2c0b63e11b21862272eda47d3c98ae9cc4339c636ce710` |
 | `output/translations/ezekiel_47.json` | `64faf79daddf56a6ce2bc0f9805eb9b2610f0461e772459a28626cb558067c8b` |
 | `output/translations/ezekiel_48.json` | `fa36d499ce3693fde1a535d237090a4f105fd970063eb7f3ba2b54ac304a2db1` |
 
