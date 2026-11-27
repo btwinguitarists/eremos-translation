@@ -328,7 +328,7 @@ _This reader edition shows the Thai translation and the contextual summary (บ�
 
 **8** ครั้งนั้นเปโตรเต็มเปี่ยมด้วยพระวิญญาณบริสุทธิ์ กล่าวแก่พวกเขาว่า “ท่านผู้ปกครองและท่านผู้อาวุโสของประชาชนเอ๋ย
 
-> _บริบท: การที่เปโตรเต็มเปี่ยมด้วยพระวิญญาณบริสุทธิ์ในการตอบศาลสูงสุด เป็นการทำให้คำสัญญาของพระเยซูสำเร็จตามตัวอักษรว่า “เมื่อพวกเขานำท่านไปยังธรรมศาลา ผู้ครอบครอง และผู้มีอำนาจ อย่ากระวนกระวายว่าจะแก้ข้อกล่าวหาอย่างไรหรือจะพูดอะไร เพราะในเวลานั้นเอง พระวิญญาณบริสุทธิ์จะทรงสอนท่านว่าควรพูดอะไร” (ลูกา 12:11-12) เปโตรซึ่งเมื่อไม่กี่สัปดาห์ก่อนเคยปฏิเสธพระเยซูต่อหน้าสาวใช้ บัดนี้ยืนหยัดต่อหน้าผู้มีอำนาจสูงสุดของชาวยิวด้วยความกล้าหาญของพระวิญญาณ_
+> _บริบท: เปโตรเต็มเปี่ยมด้วยพระวิญญาณบริสุทธิ์ก่อนตอบบรรดาผู้นำ เหตุการณ์นี้ชวนให้นึกถึงพระดำรัสของพระเยซูในลูกา 12:11–12 ว่าพระวิญญาณบริสุทธิ์จะทรงสอนสาวกว่าควรพูดอะไร_
 
 **9** ถ้าพวกเราถูกไต่สวนในวันนี้เพราะการทำดีต่อคนทุพพลภาพคนหนึ่ง ว่าชายคนนี้ได้รับการรักษาให้หายโดยวิธีใด
 
@@ -3321,10 +3321,10 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | Chapter file | SHA-256 |
 |---|---|
 | `output/translations/acts_01.json` | `ccaca45557db0006b8c847f7060d1e961c80e1f78ba7f24e14b6c86f10cf090e` |
-| `output/translations/acts_02.json` | `733b6655139381ea874b25e36c70095c6dbe6ddd26102654e86cfa6357a9ab7d` |
+| `output/translations/acts_02.json` | `49d1c3780f538e4adfd729e8abaf7d1b6ae9b2abc038d4026a3b5f59bf7ad87e` |
 | `output/translations/acts_03.json` | `bc6ec4cbca004e481c06a353827cd9c1a4f4dd5a3ac736dc53f895b4b2827f87` |
-| `output/translations/acts_04.json` | `45e8435b2977d95711db284430968a09b0512642c0fe20fa0e087a4bd5c5f421` |
-| `output/translations/acts_05.json` | `a164bd4f8a01137dbc35de51c0a7559e08ee59ea60b10d5597b72189c620f369` |
+| `output/translations/acts_04.json` | `8471a71b9906fc1f4cb5f71dbc33dc3f72b6097d14a5670b943dd53f7acbcdd9` |
+| `output/translations/acts_05.json` | `ad751bf8a7558e97f18bace85dbedfb6b8cd60c3e7e319a2a7b7112009d42d58` |
 | `output/translations/acts_06.json` | `c87912c581d11390ab7d0424e14e704b9a193b0724aaca4d2c9352d05230debf` |
 | `output/translations/acts_07.json` | `e953ce8fe8136701599c77607aa69ee8157009db3725dc600b665c41a4db8737` |
 | `output/translations/acts_08.json` | `d0ab3f28e5d8e52f77a982ac299788d5564cf7ce54d780c60fd99043cb1b0d80` |
