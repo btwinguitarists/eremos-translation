@@ -48,7 +48,7 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **20** เพราะบรรดาพระสัญญาของพระเจ้านั้น ‘ใช่’ ในพระองค์ ดังนั้น โดยพระองค์เราจึงกล่าว ‘อาเมน’ แด่พระเจ้าเพื่อพระเกียรติสิริของพระองค์
 
-**21** พระเจ้าผู้ทรงทำให้เราพร้อมกับพวกท่านมั่นคงในพระคริสต์ และทรงเจิมเราไว้
+**21** ผู้ที่ทรงทำให้เราพร้อมกับพวกท่านมั่นคงในพระคริสต์ และทรงเจิมเราไว้ ก็คือพระเจ้า
 
 **22** พระองค์ได้ทรงประทับตราเราไว้ และทรงประทานพระวิญญาณเป็นมัดจำในใจของเรา
 
@@ -182,7 +182,7 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **2** เพราะในเต็นท์นี้เราคร่ำครวญ ปรารถนาอย่างยิ่งที่จะได้สวมที่อยู่ของเราซึ่งมาจากฟ้าสวรรค์
 
-**3** เพราะเมื่อเราสวมแล้ว เราก็จะไม่ถูกพบว่าเปลือยเปล่า
+**3** หากว่าเมื่อเราสวมแล้ว จะไม่พบว่าเราเปลือยเปล่า
 
 **4** เพราะเราที่อยู่ในเต็นท์นี้คร่ำครวญด้วยความหนักอึ้ง เพราะเราไม่ปรารถนาที่จะถูกถอดออก แต่ปรารถนาที่จะได้สวมเพิ่มเข้าไป เพื่อให้สิ่งที่ตายได้ถูกชีวิตกลืนเสีย
 
@@ -578,17 +578,17 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/2corinthians_01.json` | `8cfb3498c486412fda8ecd784d17bf958f40650f58e9e6fafddf7a4c6b345ca4` |
-| `output/translations/2corinthians_02.json` | `50dd94b5662de9add4e0680c7f4f5d1db0fe997380613b1cad445807c4cadd2a` |
-| `output/translations/2corinthians_03.json` | `d35a5aa6dafbc869313ba20b125eb56905e4318966aa60ac2b2c6bbec427a92a` |
-| `output/translations/2corinthians_04.json` | `48131cb80405f98b182bbfab1c97609a874a08b9a7ad35cf2e1b987e03b48116` |
-| `output/translations/2corinthians_05.json` | `e2452a34d40b0fd0ce3c4cbc0d0a70dbf6fd6267f9d206904b58c2dec293330b` |
+| `output/translations/2corinthians_01.json` | `567454054af7d2515942a8f97360d3a1e4ec936410f0b711c9b845e919345807` |
+| `output/translations/2corinthians_02.json` | `62aa6a81eac1cd26e31ae9be0b25061508ee168a40490e012901dd3df384d3a8` |
+| `output/translations/2corinthians_03.json` | `5380ba8f619f0b5a3e42d4fba4d804dc30cbc24bb20b874ff91b226ae1548998` |
+| `output/translations/2corinthians_04.json` | `b59f487e550294bd26128b0f947ad6cbb09af7ff052754ea3b393011dbcdf6cc` |
+| `output/translations/2corinthians_05.json` | `efa968e4fd77fb93cf2f3961fb6954f25d25edb1b29715aadca12d99ff840b5b` |
 | `output/translations/2corinthians_06.json` | `ae48df81325a8e1d4e2c9615163e083885323658b943a468f2ee5d85f95d82a9` |
 | `output/translations/2corinthians_07.json` | `0f71ec26ba919a32ca570f9a9aa1bd5ead6332472584b4a6cb9d09fe587e96b6` |
-| `output/translations/2corinthians_08.json` | `cd7d7a8c69e35ad0788d6d0c2edb8fcfdf08108241abe4309dba54a9575139a5` |
+| `output/translations/2corinthians_08.json` | `f09006274fa872d7668aec3a822e75ffc3007748d7ff8b4eb1cbbd2f0668ef5e` |
 | `output/translations/2corinthians_09.json` | `3d752569fb851af4fff1e15e2f38dc3361f4712078fa7b916d394fa49f4aaa63` |
-| `output/translations/2corinthians_10.json` | `fe8bfafcdd59630524cd85b94852725030697ad091514b85a7ed055a593a23a2` |
-| `output/translations/2corinthians_11.json` | `a5caf84fe98e4ff76ff7a9a1d6055f00703abd4a5fc68ebc0ab89670beed7b5a` |
-| `output/translations/2corinthians_12.json` | `aca4492cc393372367d40d5dce4bee1e1d066a04b6f022f0d964492dc0439a9a` |
+| `output/translations/2corinthians_10.json` | `ad4276b225c42f10ebe873efbb5009829df1f17eb1ef435f4d4b47fb75922c2c` |
+| `output/translations/2corinthians_11.json` | `def10bd1896dba251e065ed7ba774332b415cca2410a953e174b4a4a06786f20` |
+| `output/translations/2corinthians_12.json` | `87638ec5c16b266912ddd7b0c7062a3c99f0e6c1aa700d3b0c0d6265099d2dbb` |
 | `output/translations/2corinthians_13.json` | `f7a1cada8a71e65a2b921824532b46da3370c561435fbffe0369a034dac40331` |
 
