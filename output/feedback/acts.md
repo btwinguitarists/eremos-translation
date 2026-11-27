@@ -2462,11 +2462,11 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**36** ผู้คุมเรือนจำจึงแจ้งคำเหล่านั้นแก่เปาโลว่า “เหล่าผู้พิพากษาเมืองส่งคนมาบอกให้ปล่อยท่านทั้งสองแล้ว ฉะนั้นบัดนี้ขอท่านจงออกไปด้วยความสงบเถิด”
+**36** ผู้คุมเรือนจำจึงแจ้งคำเหล่านั้นแก่เปาโลว่า “เหล่าผู้พิพากษาเมืองส่งคนมาบอกให้ปล่อยท่านทั้งสองแล้ว ฉะนั้นบัดนี้ขอท่านทั้งสองจงออกไปด้วยความสงบเถิด”
 
 > ___
 
-**37** แต่เปาโลกล่าวแก่พวกพนักงานว่า “พวกเขาเฆี่ยนตีเราในที่สาธารณะโดยไม่ผ่านการพิจารณาคดี ทั้งๆ ที่เราเป็นพลเมืองโรมัน แล้วโยนเราเข้าคุก และบัดนี้จะปล่อยเราไปอย่างลับๆ หรือ ไม่ได้ ให้พวกเขามาด้วยตนเองและพาเราออกไปต่างหาก”
+**37** แต่เปาโลกล่าวแก่พวกพนักงานว่า “พวกเขาเฆี่ยนตีเราในที่สาธารณะทั้งที่เรายังไม่ได้ถูกตัดสินว่ามีความผิด และเราเป็นพลเมืองโรมัน แล้วโยนเราเข้าคุก และบัดนี้จะปล่อยเราไปอย่างลับๆ หรือ ไม่ได้ ให้พวกเขามาด้วยตนเองและพาเราออกไปต่างหาก”
 
 > ___
 
@@ -4173,7 +4173,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/acts_13.json` | `1113b27560bde94cd8cc2609a753dbf74c790d78bff81b7732f0e000085eaf7a` |
 | `output/translations/acts_14.json` | `24666c347bf85194dbedc0abf71d566c1006aea03b6e9be7465c4cfca4a95b46` |
 | `output/translations/acts_15.json` | `0d3f5ef9619ad2c831781de2288077ffa3f5c7ca74352c823fb7de7184c4ee5d` |
-| `output/translations/acts_16.json` | `7f7f5e8610c0c9cdf5c46dd7b4fb6059ed813136750e364ef05fee58b0543cc7` |
+| `output/translations/acts_16.json` | `a9c8fc8b5ea97ab6962abca48e4a617812da0d783d718c8fd2befc38b2f08fa8` |
 | `output/translations/acts_17.json` | `f2ea9b1db73b5b00737f46ad7f0d75feed4a8f18e3d083d5e141c87924400954` |
 | `output/translations/acts_18.json` | `f9239e4a12c3b042e975d49842a5b957f1bce9a3c79bf4640438e74b848e85da` |
 | `output/translations/acts_19.json` | `f3482d24fe372cc1c58e926af02644f52e49c103e2f89ee71327189351c59041` |
