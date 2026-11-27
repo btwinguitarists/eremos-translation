@@ -206,7 +206,7 @@ _This reader edition shows the Thai translation and the contextual summary (บ�
 
 **26** เพราะพวกท่านทั้งหมดเป็นบุตรของพระเจ้าโดยทางความเชื่อในพระเยซูคริสต์
 
-**27** เพราะพวกท่านทุกคนที่ได้รับบัพติศมาเข้าในพระคริสต์ ก็ได้ทรงเครื่องด้วยพระคริสต์แล้ว
+**27** เพราะพวกท่านทุกคนที่ได้รับบัพติศมาเข้าในพระคริสต์ ก็ได้สวมพระคริสต์แล้ว
 
 **28** ในพระคริสต์นั้นไม่มีชาวยิวหรือชาวกรีก ไม่มีทาสหรือไท ไม่มีชายและหญิง เพราะพวกท่านทั้งหมดเป็นหนึ่งเดียวกันในพระเยซูคริสต์
 
@@ -422,7 +422,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 |---|---|
 | `output/translations/galatians_01.json` | `3977e4a2929179a873f5a047653f4c22de0780a5bd07ff3a645b2b7d30f4e42a` |
 | `output/translations/galatians_02.json` | `76d04165f3d0f40265191475cf4ff045707ebb7c7f71e014b60eb8c105c9c956` |
-| `output/translations/galatians_03.json` | `b0807ea19f0a3f32fab5ba5aab6e247d33f1c94b2e1bd8adf6126661a55ce1de` |
+| `output/translations/galatians_03.json` | `6bb9bd4eb9d37488e1f1bbe9aa990b9885982705b31999bc90faed192c3ea69e` |
 | `output/translations/galatians_04.json` | `b2349446df324ed50a1dda6fb5929e2695ede84a4f0925d9abff759a2c38014e` |
 | `output/translations/galatians_05.json` | `a14afe1b688b79fb77cd8832621632e858f6ba27e8685a4570f8c7ad0670b417` |
 | `output/translations/galatians_06.json` | `b46002ec4b884050c5284cf21718c3048f8d101972351a9176766af3240241d2` |
