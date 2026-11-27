@@ -734,11 +734,11 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/john_14.json` | 31 | `aa6e97c24cad914c369a54be0d6d8b102d1f3d0a9fb474e0736d9c23885424c4` | `7040ad9f` |
 | `output/translations/john_15.json` | 27 | `266002d8a411e2c374da42a7bcfa6eaf0f1a0351e90c1363849c376b80677caf` | `53678fba` |
 | `output/translations/john_16.json` | 33 | `b15d3c06e89e6a9099a2fa8c673bb840022d6fe3879b5b4094b028abf3679747` | `8586ed56` |
-| `output/translations/john_17.json` | 26 | `85ee706ee7a297f4c8c7c1b1f915e8f6fea4243e9cbf8d7b5be2c7adc38d041e` | `0c41b77e` |
-| `output/translations/john_18.json` | 40 | `b04b5eb875cb520508e6a7e0b00b54c0347b2acecc5e19456062203149f23165` | `1ec0a338` |
-| `output/translations/john_19.json` | 42 | `cc38954ea4d011bf345492431dca4b15a71f04f10c081fd3cf74f8b5b7cf57f1` | `c23d3a49` |
-| `output/translations/john_20.json` | 31 | `affef33f0afa4e1926f611949a3d74fcfe36460ae270adece52144c47308ed74` | `b64d4872` |
-| `output/translations/john_21.json` | 25 | `635e337fdc874bbe2ad0f5e0f6f8a89b523d89e3bbb59880ade2a6a6b10e381f` | `d50cea8d` |
+| `output/translations/john_17.json` | 26 | `97614066df34a0d6a0ab31f31abacbf98206e56d3e343b1ed594e7a2ba16df9a` | `0c41b77e` |
+| `output/translations/john_18.json` | 40 | `c2ac0cd379ddf9ac708e33a285aadd61b13fc9bf00de471fe6ccfda6aede71c6` | `1ec0a338` |
+| `output/translations/john_19.json` | 42 | `a14761a864c38720c4a84696b37440490bdc5e64ade11951baa45390082685cf` | `c23d3a49` |
+| `output/translations/john_20.json` | 31 | `8e84a3e80ca05f452fad3ea83d84c986809086564c16ef837258aa10118a24fa` | `b64d4872` |
+| `output/translations/john_21.json` | 25 | `91f53ce90addcc116d433deda7dbe8ab3a8c171e9f8ca9bb28130c13f08700ac` | `d50cea8d` |
 | `output/translations/jonah_01.json` | 16 | `00a6d272caa8d59fda02716ac88803050845d7fbf3e489e48c3714b4b0115820` | `d03c3a1a` |
 | `output/translations/jonah_02.json` | 11 | `0d75d140afc7585bfb93465469d60468a568f85708cadef2d85c3eb6ac9a4b96` | `d03c3a1a` |
 | `output/translations/jonah_03.json` | 10 | `c3816af6b96f2c3abfb8ed6b3016c1575c3593575abebb4015703e57230a735d` | `421ea6fc` |

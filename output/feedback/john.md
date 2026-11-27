@@ -3226,7 +3226,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**2** พวกทหารสานมงกุฎจากกิ่งหนามและสวมบนพระเศียรของพระองค์ และให้พระองค์สวมเสื้อคลุมสีม่วง
+**2** พวกทหารสานมงกุฎจากกิ่งหนามและสวมบนพระเศียรของพระองค์ แล้วนำเสื้อคลุมสีม่วงมาคลุมพระองค์
 
 > ___
 
@@ -3418,7 +3418,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**7** ผ้าซับพระพักตร์ที่อยู่บนพระเศียรของพระองค์นั้น ไม่ได้วางอยู่กับผ้าลินิน แต่ม้วนเก็บไว้ในที่หนึ่งต่างหาก
+**7** ผ้าที่เคยคลุมพระเศียรของพระองค์นั้น ไม่ได้วางอยู่กับผ้าลินิน แต่ม้วนอยู่ในที่หนึ่งต่างหาก
 
 > ___
 
@@ -3498,7 +3498,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**27** แล้วพระองค์ตรัสกับโธมัสว่า “จงเอานิ้วของท่านมาที่นี่และดูพระหัตถ์ของเรา จงเอามือของท่านแยงเข้าไปในสีข้างของเราเถิด อย่าเป็นผู้ไม่เชื่ออีก แต่จงเป็นผู้เชื่อ”
+**27** แล้วพระองค์ตรัสกับโธมัสว่า “จงเอานิ้วของท่านมาที่นี่และดูพระหัตถ์ของเรา จงยื่นมือของท่านมาใส่ในสีข้างของเราเถิด อย่าเป็นผู้ไม่เชื่ออีก แต่จงเป็นผู้เชื่อ”
 
 > ___
 
@@ -3646,9 +3646,9 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/john_14.json` | `aa6e97c24cad914c369a54be0d6d8b102d1f3d0a9fb474e0736d9c23885424c4` |
 | `output/translations/john_15.json` | `266002d8a411e2c374da42a7bcfa6eaf0f1a0351e90c1363849c376b80677caf` |
 | `output/translations/john_16.json` | `b15d3c06e89e6a9099a2fa8c673bb840022d6fe3879b5b4094b028abf3679747` |
-| `output/translations/john_17.json` | `85ee706ee7a297f4c8c7c1b1f915e8f6fea4243e9cbf8d7b5be2c7adc38d041e` |
-| `output/translations/john_18.json` | `b04b5eb875cb520508e6a7e0b00b54c0347b2acecc5e19456062203149f23165` |
-| `output/translations/john_19.json` | `cc38954ea4d011bf345492431dca4b15a71f04f10c081fd3cf74f8b5b7cf57f1` |
-| `output/translations/john_20.json` | `affef33f0afa4e1926f611949a3d74fcfe36460ae270adece52144c47308ed74` |
-| `output/translations/john_21.json` | `635e337fdc874bbe2ad0f5e0f6f8a89b523d89e3bbb59880ade2a6a6b10e381f` |
+| `output/translations/john_17.json` | `97614066df34a0d6a0ab31f31abacbf98206e56d3e343b1ed594e7a2ba16df9a` |
+| `output/translations/john_18.json` | `c2ac0cd379ddf9ac708e33a285aadd61b13fc9bf00de471fe6ccfda6aede71c6` |
+| `output/translations/john_19.json` | `a14761a864c38720c4a84696b37440490bdc5e64ade11951baa45390082685cf` |
+| `output/translations/john_20.json` | `8e84a3e80ca05f452fad3ea83d84c986809086564c16ef837258aa10118a24fa` |
+| `output/translations/john_21.json` | `91f53ce90addcc116d433deda7dbe8ab3a8c171e9f8ca9bb28130c13f08700ac` |
 

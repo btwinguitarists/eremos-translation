@@ -22,15 +22,15 @@
     "greek": "καὶ οἱ στρατιῶται πλέξαντες στέφανον ἐξ ἀκανθῶν ἐπέθηκαν αὐτοῦ τῇ κεφαλῇ,καὶ ἱμάτιον πορφυροῦν περιέβαλον αὐτόν,",
     "bsb_english": "The soldiers twisted together a crown of thorns, set it on His head, and dressed Him in a purple robe.",
     "translation": {
-      "thai": "พวกทหารสานมงกุฎจากกิ่งหนามและสวมบนพระเศียรของพระองค์ และให้พระองค์สวมเสื้อคลุมสีม่วง",
+      "thai": "พวกทหารสานมงกุฎจากกิ่งหนามและสวมบนพระเศียรของพระองค์ แล้วนำเสื้อคลุมสีม่วงมาคลุมพระองค์",
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
         { "greek": "πλέξαντες στέφανον ἐξ ἀκανθῶν", "thai": "สานมงกุฎจากกิ่งหนาม", "rationale": "NEW CORPUS-LOCKS: στέφανος (in mocking-royal context) → มงกุฎ (crown); ἄκανθα → หนาม (thorn); πλέκω → สาน (weave/twist-together). The mock-royal-coronation: thorns instead of gold." },
         { "greek": "ἐπέθηκαν αὐτοῦ τῇ κεφαλῇ", "thai": "สวมบนพระเศียรของพระองค์", "rationale": "Royal พระเศียร (royal-head) per RULES §3 since divine subject (Christ). Thai preserves the violent-irony — soldiers crown Christ-the-king-of-creation with thorns." },
-        { "greek": "ἱμάτιον πορφυροῦν", "thai": "เสื้อคลุมสีม่วง", "rationale": "NEW CORPUS-LOCK: πορφυροῦν ἱμάτιον → เสื้อคลุมสีม่วง (purple-robe). Roman-imperial-purple was reserved for emperor + magistrates — soldiers' mock-imperial-investiture of Christ. Cf. MAT 27:28 (κοκκίνην 'scarlet'), MRK 15:17 (πορφύραν), LUK 23:11 (Herod's white-robe) — slight synoptic variations of the same mock-clothing." }
+        { "greek": "ἱμάτιον πορφυροῦν", "thai": "เสื้อคลุมสีม่วง", "rationale": "The soldiers dress Jesus in purple. Mark 15:17 also describes purple; Matthew 27:28 has a scarlet cloak. Luke 23:11 describes Herod and his soldiers putting splendid clothing on Jesus in a separate episode, without specifying its color." }
       ],
-      "notes": "Per uW figs-explicit: mock-royal-coronation by Roman-soldiers. Theological-irony: the soldiers unwittingly-clothe Christ as-king at the very moment-of-his-cross-coronation. The thorns + purple parallel-the-OT-curse-of-Eden (GEN 3:18 ‘thorns and thistles’) — Christ wears-the-curse to bear-it-away (cf. GAL 3:13)."
+      "notes": "The soldiers dress Jesus in purple. Mark 15:17 also describes purple; Matthew 27:28 has a scarlet cloak. Luke 23:11 describes Herod and his soldiers putting splendid clothing on Jesus in a separate episode, without specifying its color."
     }
   },
   {
@@ -143,10 +143,10 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "Πόθεν εἶ σύ;", "thai": "ท่านมาจากที่ไหน?", "rationale": "Pilate's-origin-question — not geographical-Galilee but metaphysical-divine-or-human. Christ's-prior-ironic-answers (JHN 8:14 ‘I came from God’) hover-behind. Translation preserves the literal direct-question." },
+        { "greek": "Πόθεν εἶ σύ;", "thai": "ท่านมาจากที่ไหน?", "rationale": "Pilate becomes more afraid after hearing the charge concerning the Son of God and asks where Jesus comes from. John does not explain what he feared. In 8:14 Jesus says he knows where he came from and where he is going. In 8:42 he explicitly says he came from God. Jesus’s silence before Pilate may recall Isaiah 53:7." },
         { "greek": "ἀπόκρισιν οὐκ ἔδωκεν αὐτῷ", "thai": "ไม่ทรงตอบเขา", "rationale": "Christ's-silence echoes ISA 53:7 ‘he was led-as-a-lamb-to-the-slaughter, opened-not-his-mouth.’ Royal ทรงตอบ on Christ's negated-action. The silence-as-eloquence motif." }
       ],
-      "notes": "Per uW figs-explicit: Christ's-strategic-silence. ISA 53:7 typology — silent-suffering-servant before-shearers. Pilate-asks-from-fear; Christ-doesn't-debate-with-fear. The silence is itself-the-answer — origin-cannot-be-explained-to one-who-doesn't-have-faith."
+      "notes": "Pilate becomes more afraid after hearing the charge concerning the Son of God and asks where Jesus comes from. John does not explain what he feared. In 8:14 Jesus says he knows where he came from and where he is going. In 8:42 he explicitly says he came from God. Jesus’s silence before Pilate may recall Isaiah 53:7."
     }
   },
   {
@@ -560,12 +560,12 @@
     "translation": {
       "thai": "แต่ทหารคนหนึ่งเอาหอกแทงสีข้างของพระองค์ และทันใดนั้นก็มีโลหิตและน้ำไหลออกมา",
       "thai_literal": null,
-      "thai_summary": "ภาพของโลหิตและน้ำที่ไหลจากสีข้างของพระคริสต์มีความหมายเชิงเทววิทยาหลายมิติ ทางการแพทย์ การที่มีของเหลวเป็นชั้น ๆ บ่งชี้ว่าหัวใจถูกแทงและพระเยซูทรงสิ้นพระชนม์จริง (ไม่ได้สลบ) ทางสัญลักษณ์ คริสตจักรเห็นโลหิต = ศีลมหาสนิท (การชำระบาป), น้ำ = ศีลล้างบาป (การเกิดใหม่) — ทั้งสองศีลที่เกิดจากกางเขน 1 ยน. 5:6-8 “พระองค์เป็นผู้ที่เสด็จมาด้วยน้ำและโลหิต ... และพระวิญญาณ” ผูกข้อนี้กับเหตุการณ์ในยน. 19:34 ผู้เห็นในข้อ 35 น่าจะเป็นยอห์นอัครทูตผู้เขียนเอง",
+      "thai_summary": "ยอห์นเล่าว่าทหารคนหนึ่งเอาหอกแทงสีข้างของพระเยซู แล้วเลือดและน้ำก็ไหลออกมา ในข้อต่อไปผู้เล่าเรื่องอ้างถึงพยานที่เห็นเหตุการณ์ ข้อนี้ไม่ได้บอกว่าหอกแทงถูกอวัยวะใด",
       "key_decisions": [
         { "greek": "λόγχῃ αὐτοῦ τὴν πλευρὰν ἔνυξεν", "thai": "เอาหอกแทงสีข้างของพระองค์", "rationale": "HAPAX cluster: λόγχη (spear; NT-only-occurrence) + νύσσω (pierce; NT-only-occurrence). NEW CORPUS-LOCKS: λόγχη → หอก (spear; standard); νύσσω → แทง (stab/pierce; standard); πλευρά → สีข้าง (side; standard). Roman-pilum-spear thrust to-confirm-death." },
         { "greek": "ἐξῆλθεν εὐθὺς αἷμα καὶ ὕδωρ", "thai": "ทันใดนั้นก็มีโลหิตและน้ำไหลออกมา", "rationale": "NEW CORPUS-LOCK: αἷμα καὶ ὕδωρ → โลหิตและน้ำ (blood and water; the-pair-as-witness, paralleling 1 JN 5:6-8). Royal-register โลหิต (royal-blood) standard for Christ's-blood; น้ำ standard. The doublet preserves the medical-theological-significance." }
       ],
-      "notes": "Per uW figs-explicit: HAPAX cluster λόγχη + νύσσω. The blood-and-water-flow has medical-significance (pericardial-effusion confirms-death) and theological-significance (1 JN 5:6-8 ‘he came by water and blood and the Spirit’ — sacramental + Christological-witness). PHRASE-LOCK with 1 JN 5:6-8. NEW CORPUS-LOCKS: λόγχη, νύσσω, πλευρά."
+      "notes": "A soldier pierces Jesus’s side with a spear, and blood and water emerge. The next verse appeals to witness testimony. The text names no injured organ or diagnostic mechanism. Medical explanations and baptismal or eucharistic interpretations are later readings of the reported signs."
     }
   },
   {
