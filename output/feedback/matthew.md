@@ -3402,7 +3402,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**11** และผู้พยากรณ์เทียมจำนวนมากจะปรากฏขึ้น และจะนำคนเป็นอันมากให้หลงผิด
+**11** และผู้เผยพระวจนะเท็จจำนวนมากจะปรากฏขึ้น และจะนำคนเป็นอันมากให้หลงผิด
 
 > ___
 
@@ -3454,7 +3454,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**24** เพราะพระคริสต์เทียมและผู้พยากรณ์เทียมจะปรากฏขึ้น และจะแสดงหมายสำคัญและการอัศจรรย์อันยิ่งใหญ่ เพื่อจะชักจูงแม้ผู้ที่ทรงเลือกให้หลงไป หากเป็นไปได้
+**24** เพราะพระคริสต์เทียมและผู้เผยพระวจนะเท็จจะปรากฏขึ้น และจะแสดงหมายสำคัญและการอัศจรรย์อันยิ่งใหญ่ เพื่อจะชักจูงแม้ผู้ที่ทรงเลือกให้หลงไป หากเป็นไปได้
 
 > ___
 
@@ -4441,7 +4441,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/matthew_21.json` | `3a3173c6859efb09561b1122da306ec8f6ffd79d6ec566352f4b1b4a0ba00b9d` |
 | `output/translations/matthew_22.json` | `44b4c9aba04dd393a5866dc924de5407b98c6ec29b80d5b6de0d98fc9c5f88ee` |
 | `output/translations/matthew_23.json` | `5e1d7d90e1db2c82e23f4ea18ed3f5517d5cbc8c52d0f12c6152f97b6c6210f3` |
-| `output/translations/matthew_24.json` | `95dcaef34f60dffb4a2be69a39005a072a9d93008f7b213973b8821ac19914cc` |
+| `output/translations/matthew_24.json` | `4d566a7d82e9b9fdaead35a59c68fc2c71056060c40107fe18622c1edc6f7bee` |
 | `output/translations/matthew_25.json` | `349a0a55ec3adbafd5c0aa40ecc2f10394050e1b1237d14287613dee6c22b4f6` |
 | `output/translations/matthew_26.json` | `d4aae1cfd129168927958ea2498c9499206a6ae0b0811f2b36eef24a000940cc` |
 | `output/translations/matthew_27.json` | `29fe12d373764abecadd3679872c2781eb794bd273dec9851819ec82497429ac` |
