@@ -865,5 +865,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/zechariah_11.json` | `9d1b0cf8ae1ed52b6e53ee9dee065fedf4567948fb5d7acfa1b8c96900728206` |
 | `output/translations/zechariah_12.json` | `7650a24c3df6115d83f47a1c17229c2a8bbac3231defbcceb104c8940abe419d` |
 | `output/translations/zechariah_13.json` | `c4543f2bd974a3a04a64317c7d4bab8fa24848a7286b8dfe4adaae07ece8ed75` |
-| `output/translations/zechariah_14.json` | `edf60a19b83619579a14767a584ba872cfcbc34ca9f98ab2440c5ad7dc7f8c17` |
+| `output/translations/zechariah_14.json` | `90ad08a189b5168d5d76983a54b24964c8b706251149708c552ac151fac62c42` |
 
