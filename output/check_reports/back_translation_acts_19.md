@@ -11,7 +11,7 @@ Mode: in-chat (Claude-produced back-translations) | Threshold: 0.35
 ## ℹ Low similarity — rationale documented (intentional divergence)
 
 - **Acts 19:27** (sim=0.18)
-  - Thai: ไม่เพียงแต่อาชีพของเราจะเสื่อมเสียเท่านั้น แต่แม้วิหารของเทพีอารเทมิสผู้ยิ่งใหญ่ก็จะไม่มีค่าอีกต่อไป และพระเกียรติของเทพีซึ่งทั่วทั้งแคว้นเอเชียและทั่วทั้งโลกนมัสการ จะถูกล้มล้างไปด้วย”
+  - Thai: อาชีพของเราเสี่ยงจะเสื่อมเสียชื่อเสียง วิหารของเทพีอารเทมิสผู้ยิ่งใหญ่ก็อาจถูกมองว่าไร้ค่า และแม้แต่เทพีที่คนทั่วแคว้นเอเชียและทั่วโลกนมัสการก็อาจสูญเสียความยิ่งใหญ่ไปด้วย”
   - Back: 'Not only will our trade fall into disrepute, but even the temple of the great goddess Artemis will be reckoned as nothing, and the majesty of the goddess whom all the province of Asia and the whole world worship will be deposed.'
   - BSB:  There is danger not only that our business will fall into disrepute, but also that the temple of the great goddess Artemis will be discredited and her majesty deposed—she who is worshiped by all the province of Asia and the whole world."
 - **Acts 19:35** (sim=0.13)
