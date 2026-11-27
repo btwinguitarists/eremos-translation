@@ -127,11 +127,11 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/1samuel_29.json` | 11 | `c3fc45fcadcf340bc185172ef983f481b2c446410e786326609b8afce438a978` | `dad4395d` |
 | `output/translations/1samuel_30.json` | 31 | `9e4822923c1e4d857663e812f9f2f51a2aa069aac9d39b8f2ff39e69ee9f9ab2` | `e64a8407` |
 | `output/translations/1samuel_31.json` | 13 | `f7ce422efce8af1230cbbe43af18890280a38dd30d57b61aa03d95a5b0fb88db` | `e6222c55` |
-| `output/translations/1thessalonians_01.json` | 10 | `fdc756d6679cb22854a22c4d222c372bfcc5c37c81ce7855e059b8b2e389675e` | `19285bb6` |
-| `output/translations/1thessalonians_02.json` | 20 | `1c39af3e0fd06a32906b8256dc93b5fdcc8e3038e39c1b2a388ea3ca11b593d2` | `6063f780` |
-| `output/translations/1thessalonians_03.json` | 13 | `d09d3e84833d019877b79139018fb0e5a8cb4fc87ea6b5d18580ba86614aaf99` | `de0f124c` |
-| `output/translations/1thessalonians_04.json` | 18 | `cd07f97b20211e7f2d0770cd14367bfd48d6fa91402123883344e454da6e5623` | `cf6bd38f` |
-| `output/translations/1thessalonians_05.json` | 28 | `ec6ee616c91b5bec3232d145ccfe6879ba62d617a4fc77c31ce0330f864adbbe` | `d03c3a1a` |
+| `output/translations/1thessalonians_01.json` | 10 | `0d109dd4fa51911b6a972da7a50e03db01e1b7184225ce8f0537d452653b0bd1` | `19285bb6` |
+| `output/translations/1thessalonians_02.json` | 20 | `f49609aca5953c03a1435feb34aa0054ada003a200562f290cd173b95bafefac` | `6063f780` |
+| `output/translations/1thessalonians_03.json` | 13 | `76af3895882339513a7fcb3e8b32135ec7645ac852c6254c3b83fd09f0ca2fd7` | `de0f124c` |
+| `output/translations/1thessalonians_04.json` | 18 | `36bd437dd33ae76ab969c0c9b1420d121f8fd0f4f5aa2617478b053a4174ed19` | `cf6bd38f` |
+| `output/translations/1thessalonians_05.json` | 28 | `7700c95fd7604cdea88ba4afce8705b35a03a047154ea4d376bf923abc82f9b5` | `d03c3a1a` |
 | `output/translations/1timothy_01.json` | 20 | `c7c6fcf59f1ef51bc256c7ef4b3f626e197cea6ca0491e818ff9b889f8a4a490` | `a66a45c7` |
 | `output/translations/1timothy_02.json` | 15 | `13af01b7fb145a1425eb85bc58a57d6a7fd440689f65c36822957f9dd5bb7e31` | `d03c3a1a` |
 | `output/translations/1timothy_03.json` | 16 | `53c0e7becdd329cd61c2322e3fe86ddba55536b4f09f04edeb0bcde83568973b` | `6d15bb1a` |
