@@ -982,7 +982,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/proverbs_23.json` | 35 | `d2d7e0796388006128036b2b3a9bd58e9cfe9de43711a2baf398157c24a8d3a0` | `4debb019` |
 | `output/translations/proverbs_24.json` | 34 | `0231404a2884c018f8dd38e7dec260e128add3820949fa2268ca3ffbc7bb47fe` | `c6f3e686` |
 | `output/translations/proverbs_25.json` | 28 | `f0b09efe53162c56bb6cb9ec77a2b9f91426ba73864519f0789f3656ebe23a49` | `e4f32248` |
-| `output/translations/proverbs_26.json` | 28 | `84cae46a0e6b5979c124e79bdd294a68e452e521568d27335a10501153cd94e4` | `9f5f40cb` |
+| `output/translations/proverbs_26.json` | 28 | `52a6747971978875ac1a11b30b560405c75279c55e07bf0114ae1c8a5ecb47bd` | `9f5f40cb` |
 | `output/translations/proverbs_27.json` | 27 | `deb503be5080bb396767e126a10fa0ab5f19f7a82befee48b3df66090cdf72d0` | `41881815` |
 | `output/translations/proverbs_28.json` | 28 | `1fc711e4e05fc70bf636b5928b5355177f570fc756405fa4f064082e4dbcad49` | `f1e59cac` |
 | `output/translations/proverbs_29.json` | 27 | `5397647325038d81ede5cacdf2f48971d2866edafcc9502aa400574e00aa6a75` | `414fb569` |

@@ -3639,6 +3639,10 @@ _**องค์พระผู้เป็นเจ้า** (ปรากฏค�
 
 ### หมายเหตุด้านต้นฉบับ
 
+**ข้อ 2** — คำอ่านที่ต่างกัน
+
+_ข้อความฮีบรูที่เขียนไว้มีคำว่า לֹא แปลว่า “ไม่” ฉบับเอเรโมสจึงเปรียบคำสาปที่ไร้เหตุกับนกที่บินผ่านไปโดยไม่เกาะ ส่วนคำที่ธรรมเนียมมาโซเรตกำกับให้อ่านคือ לוֹ แปลว่า “แก่เขา” ซึ่งให้ความหมายว่า คำสาปนั้นจะมาถึงเขา_
+
 **ข้อ 4** — ขาดในต้นฉบับวิจารณ์ (SBLGNT)
 
 _ข้อ 4-5 ดูเหมือนขัดแย้งกัน (‘อย่าตอบคนโง่’ / ‘จงตอบคนโง่’) แต่เป็นความจริงสองด้านที่เสริมกัน: อย่าตอบโต้ด้วยการลดตัวลงไปเถียงแบบโง่ๆ เหมือนเขา (ข้อ 4) แต่ก็อย่าปล่อยให้ความโง่เขลาผ่านไปจนเขาคิดว่าตนถูก (ข้อ 5). ปัญญาอยู่ที่การรู้ว่าเมื่อใดควรนิ่งและเมื่อใดควรตอบ. การวางข้อทั้งสองไว้คู่กันเป็นการจงใจของผู้รวบรวม._
@@ -4378,7 +4382,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/proverbs_23.json` | `d2d7e0796388006128036b2b3a9bd58e9cfe9de43711a2baf398157c24a8d3a0` |
 | `output/translations/proverbs_24.json` | `0231404a2884c018f8dd38e7dec260e128add3820949fa2268ca3ffbc7bb47fe` |
 | `output/translations/proverbs_25.json` | `f0b09efe53162c56bb6cb9ec77a2b9f91426ba73864519f0789f3656ebe23a49` |
-| `output/translations/proverbs_26.json` | `84cae46a0e6b5979c124e79bdd294a68e452e521568d27335a10501153cd94e4` |
+| `output/translations/proverbs_26.json` | `52a6747971978875ac1a11b30b560405c75279c55e07bf0114ae1c8a5ecb47bd` |
 | `output/translations/proverbs_27.json` | `deb503be5080bb396767e126a10fa0ab5f19f7a82befee48b3df66090cdf72d0` |
 | `output/translations/proverbs_28.json` | `1fc711e4e05fc70bf636b5928b5355177f570fc756405fa4f064082e4dbcad49` |
 | `output/translations/proverbs_29.json` | `5397647325038d81ede5cacdf2f48971d2866edafcc9502aa400574e00aa6a75` |
