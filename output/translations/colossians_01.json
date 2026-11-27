@@ -51,7 +51,7 @@
           "rationale": "Pauline-greeting formula. NOTABLE: SBLGNT here omits the usual ‘καὶ κυρίου Ἰησοῦ Χριστοῦ’ second clause that Paul normally includes (cf. PHP 1:2, ROM 1:7, 1CO 1:3, etc.). Some manuscripts include the longer form (scribal harmonization to Pauline-pattern), but SBLGNT's shorter form follows the earliest witnesses. Mainstream evangelical English Bibles (BSB/ESV/NIV/CSB) all follow the shorter SBLGNT reading. Silent-omission per RULES §5 — modern critical-text consensus matches our practice. PROPER-NOUN ESTABLISHMENT: Κολοσσαί → โคโลสี."
         }
       ],
-      "notes": "TEXTUAL VARIANT: SBLGNT shorter form omits the closing ‘καὶ κυρίου Ἰησοῦ Χριστοῦ’ that Paul normally appends to his greeting-formula. Mainstream critical-text consensus (BSB/ESV/NIV/CSB) follows SBLGNT-shorter — silent-omission per RULES §5; resolved doc at `output/textual_variants/_resolved/colossians_01_v2_lord_jesus_christ.md`. PROPER-NOUN ESTABLISHMENT: Κολοσσαί → เมืองโคโลสี."
+      "notes": "TEXTUAL VARIANT: SBLGNT shorter form omits the closing ‘καὶ κυρίου Ἰησοῦ Χριστοῦ’ that Paul normally appends to his greeting-formula. Mainstream critical-text consensus (BSB/ESV/NIV/CSB) follows SBLGNT-shorter — silent-omission per RULES §5; resolved doc at `output/textual_variants/_resolved/colossians_01_v2_lord_jesus_christ.md`. PROPER-NOUN ESTABLISHMENT: Κολοσσαί → เมืองโคโลสี. Tregelles and Robinson–Pierpont use an alternative Greek spelling of Colossae. Robinson–Pierpont adds the Lord Jesus Christ after the reference to God our Father."
     }
   },
   {
@@ -76,7 +76,7 @@
           "rationale": "Pauline title-stack for God: ‘the-God-Father-of-our-Lord-Jesus-Christ.’ Matches 2Co 1:3, Eph 1:3, 1Pe 1:3 etc. Title order preserved."
         }
       ],
-      "notes": "Opens the Pauline thanksgiving (vv.3-8). The plural ‘we’ in Paul's writing here is the genuine inclusive (Paul + Timothy) rather than editorial — Timothy participates in the prayer-life named here."
+      "notes": "Opens the Pauline thanksgiving (vv.3-8). The plural ‘we’ in Paul's writing here is the genuine inclusive (Paul + Timothy) rather than editorial — Timothy participates in the prayer-life named here. Tregelles and Robinson–Pierpont add καί with the reference to the Father. Tregelles uses ὑπέρ where the selected text has περί in speaking of the readers in prayer."
     }
   },
   {
@@ -101,7 +101,7 @@
           "rationale": "Pauline-triad faith/love/(hope) in vv.4-5. ἀγάπη → ความรัก. ἅγιος → ธรรมิกชน — corpus-locked rendering for the Pauline-default."
         }
       ],
-      "notes": "Pauline triad: faith (v.4) + love (v.4) + hope (v.5). The order is faith → love → hope (compared to 1Co 13:13's faith → hope → love). Hearing-from-Epaphras (v.7) is the basis."
+      "notes": "Pauline triad: faith (v.4) + love (v.4) + hope (v.5). The order is faith → love → hope (compared to 1Co 13:13's faith → hope → love). Hearing-from-Epaphras (v.7) is the basis. The selected relative clause speaks of the love “that you have.” Robinson–Pierpont uses an article to introduce the description of that love."
     }
   },
   {
@@ -128,7 +128,7 @@
         {
           "greek": "λόγῳ τῆς ἀληθείας τοῦ εὐαγγελίου",
           "thai": "พระวจนะแห่งความจริง คือ ข่าวประเสริฐ",
-          "rationale": "Three nested genitives: ‘the-word of-the-truth of-the-gospel.’ Render with apposition ‘พระวจนะแห่งความจริง คือ ข่าวประเสริฐ’ — preserves both the τῆς ἀληθείας qualifier (truth-content) and the εὐαγγελίου apposition (the-truth IS the gospel). λόγος here as gospel-message → พระวจนะ (corpus-Pauline standard, cf. PHP 1:14)."
+          "rationale": "A dative head followed by two genitives: ‘the-word of-the-truth of-the-gospel.’ Render with apposition ‘พระวจนะแห่งความจริง คือ ข่าวประเสริฐ’ — preserves both the τῆς ἀληθείας qualifier (truth-content) and the εὐαγγελίου apposition (the-truth IS the gospel). λόγος here as gospel-message → พระวจนะ (corpus-Pauline standard, cf. PHP 1:14)."
         }
       ],
       "notes": "HAPAX: προακούω. The grammar of vv.4-5 is debated: ‘hope’ may be either (1) the basis of faith+love, or (2) a third item alongside them. The διά + accusative construction supports (1) — hope is the ground of the faith/love already mentioned."
@@ -156,7 +156,7 @@
           "rationale": "ἐπιγινώσκω → รู้จัก (deep, experiential knowing — corpus standard for Pauline use). ‘ἐν ἀληθείᾳ’ here adverbial-modifier — knew-in-truth = truly-knew. Render ‘ตามความจริง’ — preserves the modifier."
         }
       ],
-      "notes": "Pauline organic-gospel metaphor (cf. v.10). The world-wide ‘bearing-fruit and growing’ language echoes Genesis-creation-blessing language (Gen 1:22, 28 ‘bear-fruit and multiply’) — gospel-as-new-creation theme."
+      "notes": "The gospel bears fruit and grows throughout the world, a pattern also applied to the believers in verse 10. Genesis 1:28 uses αὐξάνεσθε in the command to grow and multiply. The connection with the blessing of creation is thematic; Colossians uses καρποφορέω for bearing fruit. Robinson–Pierpont adds καί after “world.” Its text also adds καί after καθώς at 1:7."
     }
   },
   {
@@ -188,10 +188,10 @@
         {
           "greek": "ὑπὲρ ἡμῶν",
           "thai": "เพื่อเรา",
-          "rationale": "TEXTUAL VARIANT: SBLGNT has ‘ὑπὲρ ἡμῶν’ (‘on our behalf’ — Paul + Timothy); some manuscripts have ‘ὑπὲρ ὑμῶν’ (‘on your behalf’ — the Colossians). The pronoun-distinction is consequential: ἡμῶν makes Epaphras Paul's substitute-minister to Colossae; ὑμῶν makes him simply the Colossians' minister-of-the-gospel. Per uW: ‘our behalf’ is the SBLGNT reading. Render ‘เพื่อเรา’ following SBLGNT — Epaphras served as Paul's surrogate-apostle to a church Paul never personally visited. Word-choice variant per RULES §5b — flagged in notes only."
+          "rationale": "The SBLGNT reads ὑπὲρ ἡμῶν: Epaphras served on the writers’ behalf as a faithful minister of Christ. Its apparatus assigns ὑπὲρ ὑμῶν, ‘on your behalf,’ to NA28 and Robinson–Pierpont. Paul's words commend his service without assigning him a formal rank."
         }
       ],
-      "notes": "TEXTUAL-VARIANT: ὑπὲρ ἡμῶν (SBLGNT) vs ὑπὲρ ὑμῶν (some-mss). Word-choice variant per RULES §5b — flagged here without separate Tier-treatment. Epaphras founded the Colossae church + reported back to Paul on its state (1:8, 4:12). PROPER-NOUN ESTABLISHMENT: Ἐπαφρᾶς → เอปาฟรัส (distinct from Ἐπαφρόδιτος in PHP 2:25)."
+      "notes": "TEXTUAL-VARIANT: ὑπὲρ ἡμῶν (SBLGNT) vs ὑπὲρ ὑμῶν (some-mss). Word-choice variant per RULES §5b — flagged here without separate Tier-treatment. Epaphras founded the Colossae church + reported back to Paul on its state (1:8, 4:12). PROPER-NOUN ESTABLISHMENT: Ἐπαφρᾶς → เอปาฟรัส (distinct from Ἐπαφρόδιτος in PHP 2:25). The Thai เพื่อเรา expresses the selected “our” in describing on whose behalf Epaphras ministers. NA28 and Robinson–Pierpont read “your.”"
     }
   },
   {
@@ -258,7 +258,7 @@
         {
           "greek": "περιπατῆσαι ἀξίως τοῦ κυρίου",
           "thai": "ดำเนินชีวิตอย่างสมแก่องค์พระผู้เป็นเจ้า",
-          "rationale": "περιπατέω → ดำเนินชีวิต (Pauline-corpus-standard, cf. PHP 1:27). Verbal-link to PHP 1:27's ‘conduct yourselves worthy.’ ἀξίως → อย่างสมแก่."
+          "rationale": "περιπατῆσαι ἀξίως describes walking worthily of the Lord. Philippians 1:27 similarly uses ἀξίως with πολιτεύεσθε, ‘conduct yourselves,’ in relation to the gospel."
         },
         {
           "greek": "πᾶσαν ἀρεσκείαν",
@@ -271,7 +271,7 @@
           "rationale": "Recurrence of v.6's gospel-organic-imagery — now applied to the believer's life. Same lemmas, same renderings (เกิดผล + เจริญขึ้น)."
         }
       ],
-      "notes": "HAPAX: ἀρεσκεία. Pauline four-fold petition: walk-worthy / please / bear-fruit / grow-in-knowledge. Concrete fruit of the spiritual-discernment requested in v.9."
+      "notes": "HAPAX: ἀρεσκεία. Pauline four-fold petition: walk-worthy / please / bear-fruit / grow-in-knowledge. Concrete fruit of the spiritual-discernment requested in v.9. Robinson–Pierpont adds “you” to the infinitive for walking and uses εἰς with the knowledge phrase where SBLGNT has the dative."
     }
   },
   {
@@ -323,7 +323,7 @@
         {
           "greek": "τὴν μερίδα τοῦ κλήρου τῶν ἁγίων",
           "thai": "ส่วนในมรดกของธรรมิกชน",
-          "rationale": "OT-allusion language: μερίς (portion) + κλῆρος (lot/inheritance) — both LXX terms for Israel's-portion-in-the-promised-land (cf. Deut 32:9, Ps 16:5-6). Pauline-Christian-application: believers as recipients-of-the-cosmic-inheritance. Render ‘ส่วน ... ในมรดก’ — preserves both lemma."
+          "rationale": "μερίδα τοῦ κλήρου conveys a share in the inheritance of the saints, hence ส่วนในมรดก. In Deuteronomy 32:9 the people are the Lord’s portion; in Greek Psalm 15:5–6 (English 16:5–6) the Lord is the psalmist’s portion. These comparisons illuminate the inheritance imagery without making the words here a formula for a particular land allotment."
         },
         {
           "greek": "ἐν τῷ φωτί",
@@ -331,7 +331,7 @@
           "rationale": "Per uW figs-metaphor: light = realm-of-God, set-against-darkness in v.13. Render literal ‘ในความสว่าง’ — preserves the light/darkness contrast that runs vv.12-13."
         }
       ],
-      "notes": "Strong OT-allusive imagery (μερίς + κλῆρος from LXX-Israel-inheritance language) extended to Christian believers as the new-Israel. ‘Light’ + ‘darkness’ contrast (v.13) — typical Pauline / Johannine eschatological dualism."
+      "notes": "Strong OT-allusive imagery (μερίς + κλῆρος from LXX-Israel-inheritance language) extended to Christian believers as the new-Israel. ‘Light’ + ‘darkness’ contrast (v.13) — typical Pauline / Johannine eschatological dualism. The Thai พวกท่าน follows “you” in SBLGNT, Westcott–Hort and NA28. Tregelles and Robinson–Pierpont use “us.”"
     }
   },
   {
@@ -386,7 +386,7 @@
           "rationale": "GLOSSARY-LOCKED phrase per `aphesis_forgiveness_of_sins_2026-04.md`: ἄφεσις (ἁμαρτιῶν) → การยกโทษ(บาป), consistent across NT corpus. The articular τῶν ἁμαρτιῶν renders ‘บาปทั้งหลาย’ (all-the-sins) rather than just ‘บาป.’ The apposition ‘ἀπολύτρωσιν, τὴν ἄφεσιν’ — redemption explained-as forgiveness-of-sins. Render with apposition ‘คือ.’"
         }
       ],
-      "notes": "TEXTUAL VARIANT: SBLGNT omits ‘διὰ τοῦ αἵματος αὐτοῦ’ (added in some manuscripts as scribal harmonization to Eph 1:7). Mainstream critical-text consensus follows SBLGNT-shorter — silent-omission per RULES §5; resolved doc at `output/textual_variants/_resolved/colossians_01_v14_through_his_blood.md`. Pauline-locked phrase ἄφεσις τῶν ἁμαρτιῶν → การยกโทษบาป per glossary-lock."
+      "notes": "The selected text speaks of redemption and ἄφεσις τῶν ἁμαρτιῶν, forgiveness of sins. Ephesians 1:7 expressly says “through his blood,” and uses forgiveness with παραπτώματα, trespasses. The blood phrase is also transmitted in some copies of Colossians. The similarity does not by itself establish how that longer reading arose."
     }
   },
   {
@@ -423,7 +423,7 @@
     "translation": {
       "thai": "เพราะในพระองค์ ทุกสิ่งได้ถูกสร้างขึ้น ทั้งในสวรรค์และบนแผ่นดินโลก ทั้งสิ่งที่มองเห็นได้และมองไม่เห็น ไม่ว่าจะเป็นบัลลังก์หรือผู้ทรงเดชานุภาพ หรือผู้ครองหรือผู้ทรงอำนาจ ทุกสิ่งได้ถูกสร้างขึ้นโดยทางพระองค์และเพื่อพระองค์",
       "thai_literal": null,
-      "thai_summary": "ถ้าข้อ 15 อาจฟังดูคลุมเครือเกี่ยวกับพระคริสต์ในฐานะ ‘บุตรหัวปี’ ข้อ 16 ก็แก้ปัญหาความคลุมเครือนั้นทันที — พระคริสต์ทรงเป็นพระผู้สร้าง ไม่ใช่สิ่งที่ถูกสร้าง ‘ในพระองค์’ ‘โดยทางพระองค์’ และ ‘เพื่อพระองค์’ — สามคำบุพบทนี้ครอบคลุมการสร้างทั้งหมดของพระเจ้า รายการเรื่อง ‘บัลลังก์ เทพผู้ครอง ทูตสวรรค์ผู้มีอำนาจ ผู้ทรงสิทธิ’ น่าจะเป็นการอ้างอิงถึงคำสอนของพวกครูเทียมในเมืองโคโลสีที่กำลังสอนเรื่องการนมัสการทูตสวรรค์และวิญญาณต่าง ๆ เปาโลตอบโต้โดยบอกว่าทูตสวรรค์ทุกระดับเหล่านี้ ล้วนเป็นเพียงสิ่งที่พระคริสต์ทรงสร้างขึ้น — ไม่สมควรแก่การนมัสการ",
+      "thai_summary": "ถ้าข้อ 15 อาจฟังดูคลุมเครือเกี่ยวกับพระคริสต์ในฐานะ ‘บุตรหัวปี’ ข้อ 16 ก็แก้ปัญหาความคลุมเครือนั้นทันที — พระคริสต์ทรงเป็นพระผู้สร้าง ไม่ใช่สิ่งที่ถูกสร้าง ‘ในพระองค์’ ‘โดยทางพระองค์’ และ ‘เพื่อพระองค์’ — สามคำบุพบทนี้ครอบคลุมการสร้างทั้งหมดของพระเจ้า รายการเรื่อง ‘บัลลังก์ ผู้ทรงเดชานุภาพ ผู้ครอง ผู้ทรงอำนาจ’ น่าจะเป็นการอ้างอิงถึงคำสอนของพวกครูเทียมในเมืองโคโลสีที่กำลังสอนเรื่องการนมัสการทูตสวรรค์และวิญญาณต่าง ๆ เปาโลตอบโต้โดยบอกว่าทูตสวรรค์ทุกระดับเหล่านี้ ล้วนเป็นเพียงสิ่งที่พระคริสต์ทรงสร้างขึ้น — ไม่สมควรแก่การนมัสการ",
       "key_decisions": [
         {
           "greek": "ἐν αὐτῷ ἐκτίσθη τὰ πάντα",
@@ -437,7 +437,7 @@
         },
         {
           "greek": "θρόνοι ... κυριότητες ... ἀρχαὶ ... ἐξουσίαι",
-          "thai": "บัลลังก์ ... เทพผู้ครอง ... ทูตสวรรค์ผู้มีอำนาจ ... ผู้ทรงสิทธิ",
+          "thai": "บัลลังก์ ... ผู้ทรงเดชานุภาพ ... ผู้ครอง ... ผู้ทรงอำนาจ",
           "rationale": "Per uW translate-unknown: four classes of spiritual-beings (angelic-hierarchy in some Jewish-apocalyptic + Hellenistic religious-thought). Likely the false-teachers at Colossae taught angel-veneration, and Paul subordinates all angels to Christ. Render with four-distinct Thai terms preserving the hierarchical-distinctions: บัลลังก์ (thrones), เทพผู้ครอง (dominions/lords), ทูตสวรรค์ผู้มีอำนาจ (powerful angels = ἀρχαὶ rulers), ผู้ทรงสิทธิ (authorities). Adding cluster to glossary."
         },
         {
@@ -611,7 +611,7 @@
           "rationale": "Per uW figs-doublet: triple-near-synonym for moral-completeness. ἅγιος → บริสุทธิ์. ἄμωμος → ไร้ตำหนิ (corpus-locked PHP 2:15). ἀνέγκλητος → ปราศจากข้อกล่าวหา (without-charge — legal-courtroom language). All three retained for the rhetorical accumulation."
         }
       ],
-      "notes": "Application-conclusion of the redemption: Christ's-physical-body-through-death produces the believer's holy-blameless-uncharged status. The triple-adjective accumulation echoes PHP 2:15's blameless-pure pattern but adds the legal-court-language (ἀνέγκλητος) of forensic-justification."
+      "notes": "Application-conclusion of the redemption: Christ's-physical-body-through-death produces the believer's holy-blameless-uncharged status. The triple-adjective accumulation echoes PHP 2:15's blameless-pure pattern but adds the legal-court-language (ἀνέγκλητος) of forensic-justification. SBLGNT prints the second-person passive ἀποκατηλλάγητε, “you were reconciled.” Westcott–Hort, Tregelles, NA28 and Robinson–Pierpont have the active ἀποκατήλλαξεν, “he reconciled.” The Thai identifies a divine agent and makes the readers the recipients of reconciliation."
     }
   },
   {
@@ -641,7 +641,7 @@
           "rationale": "Per uW figs-hyperbole: ‘every creature under heaven’ — hyperbolic-expression of gospel-spread. Per uW translate-unknown: ‘under heaven’ in Paul's culture = the visible-creation-realm humans-interact-with. Render ‘ทุกสิ่งที่ทรงสร้างใต้ฟ้า’ — preserves both the hyperbole AND the cosmographic-reference."
         }
       ],
-      "notes": "HAPAX: μετακινέω. Closes the doctrinal section (vv.13-23) with a perseverance-condition. The audacious claim that the gospel has been ‘proclaimed to every creature under heaven’ is hyperbolic-summary — but accurate within the early-church's-known-world (mid-first-century Mediterranean basin). Paul as ‘servant of the gospel’ — pivot to the next section about Paul's ministry (vv.24-29)."
+      "notes": "HAPAX: μετακινέω. Closes the doctrinal section (vv.13-23) with a perseverance-condition. The audacious claim that the gospel has been ‘proclaimed to every creature under heaven’ is hyperbolic-summary — but accurate within the early-church's-known-world (mid-first-century Mediterranean basin). Paul as ‘servant of the gospel’ — pivot to the next section about Paul's ministry (vv.24-29). Robinson–Pierpont adds the article after πάσῃ in the expression about all creation."
     }
   },
   {
@@ -726,7 +726,7 @@
           "rationale": "Per uW figs-passive: divine-passive (God-as-implied-agent). φανερόω → ทรงเปิดเผย (corpus-Pauline-standard for divine-revelation). ราชาศัพท์ ทรง prefix."
         }
       ],
-      "notes": "Pauline mystery-revelation-pattern: hidden-throughout-history, NOW-revealed-in-Christ-and-the-gospel. Recurring Pauline-eschatology (cf. Rom 16:25-26, Eph 3:5-6, etc.)."
+      "notes": "Pauline mystery-revelation-pattern: hidden-throughout-history, NOW-revealed-in-Christ-and-the-gospel. Recurring Pauline-eschatology (cf. Rom 16:25-26, Eph 3:5-6, etc.). Robinson–Pierpont uses the fuller form νυνί where SBLGNT has νῦν, “now.”"
     }
   },
   {
@@ -756,7 +756,7 @@
           "rationale": "Per uW figs-metaphor: ‘Christ in you’ = your-union-with-Christ. The most-quoted Colossians-summary phrase. δόξα here in eschatological-glory sense → พระสิริ (divine-glory)."
         }
       ],
-      "notes": "Climactic-summary of Pauline gospel-content: Christ-in-you = the-hope-of-glory. The thai_summary makes the Gentile-inclusion-content explicit, as it would be lost on modern Thai readers without theological-historical context."
+      "notes": "Climactic-summary of Pauline gospel-content: Christ-in-you = the-hope-of-glory. The thai_summary makes the Gentile-inclusion-content explicit, as it would be lost on modern Thai readers without theological-historical context. The selected relative pronoun is neuter ὅ, with reference to the mystery. Robinson–Pierpont uses the masculine ὅς."
     }
   },
   {
@@ -783,10 +783,10 @@
         {
           "greek": "τέλειον ἐν Χριστῷ",
           "thai": "ผู้ที่ดีพร้อมในพระคริสต์",
-          "rationale": "τέλειος → ดีพร้อม (corpus-precedent, MAT 19:21, PHP 3:15 etc.). Per uW figs-explicit: τέλειος here = ‘mature, complete-in-purpose, fit for what God called.’ NOT ‘sinless-perfectionism.’"
+          "rationale": "τέλειος can describe maturity or completeness. The Thai here uses ผู้ที่ดีพร้อม, also found at Matthew 19:21. Philippians 3:15 instead uses ผู้ใหญ่ฝ่ายจิตวิญญาณ. Paul’s threefold “every person” grounds his goal of presenting each person mature in Christ. The word need not assert flawless behavior."
         }
       ],
-      "notes": "Apostolic-mission summary: proclaim Christ + admonish + teach + present-mature. The triple πάντα ἄνθρωπον emphasizes gospel-universality — every-person, no exceptions."
+      "notes": "Apostolic-mission summary: proclaim Christ + admonish + teach + present-mature. The triple πάντα ἄνθρωπον emphasizes gospel-universality — every-person, no exceptions. Robinson–Pierpont adds Jesus after Christ at the close of the verse. The Thai follows the shorter selected title."
     }
   },
   {
@@ -796,7 +796,7 @@
     "greek": "εἰς ὃ καὶ κοπιῶ ἀγωνιζόμενος κατὰ τὴν ἐνέργειαν αὐτοῦ τὴν ἐνεργουμένην ἐν ἐμοὶ ἐν δυνάμει.",
     "bsb_english": "To this end I also labor, striving with all His energy working powerfully within me.",
     "translation": {
-      "thai": "เพื่อการนี้ ข้าพเจ้าตรากตรำและต่อสู้ ตามฤทธิ์อำนาจของพระองค์ที่ทรงกระทำกิจในข้าพเจ้าด้วยฤทธิ์",
+      "thai": "เพื่อการนี้ ข้าพเจ้าตรากตรำและต่อสู้ ตามฤทธิ์อำนาจของพระองค์ซึ่งออกฤทธิ์อย่างแรงกล้าในข้าพเจ้า",
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
@@ -807,8 +807,8 @@
         },
         {
           "greek": "τὴν ἐνέργειαν αὐτοῦ τὴν ἐνεργουμένην",
-          "thai": "ฤทธิ์อำนาจของพระองค์ที่ทรงกระทำกิจ",
-          "rationale": "Cognate noun-verb pair (ἐνέργεια + ἐνεργέω) — ‘the-energy that-energizes.’ Render with the cognate-pair preserved (ฤทธิ์อำนาจ + ทรงกระทำกิจ — both sharing the divine-power-language)."
+          "thai": "ฤทธิ์อำนาจของพระองค์ซึ่งออกฤทธิ์อย่างแรงกล้าในข้าพเจ้า",
+          "rationale": "The participle ἐνεργουμένην agrees with ἐνέργειαν. God’s power is what works in Paul, who is the one laboring and struggling. Thai connects ฤทธิ์อำนาจ with ออกฤทธิ์ and retains ของพระองค์ as the possessor. Compare the working power in Ephesians 3:20."
         }
       ],
       "notes": "Closes chapter 1 + Paul's ministry-section. The athletic-laboring metaphor cluster (κοπιάω + ἀγωνίζομαι) recurs from Pauline-ministry-language patterns. The chapter ends with Pauline-divine-energy-cooperation: he labors, but Christ's-power is the active-substance."
