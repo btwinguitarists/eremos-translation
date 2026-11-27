@@ -432,3 +432,7 @@ Use Grok + ChatGPT + Gemini in parallel per the JHN/DAN pattern.
 5. The recommended docs written / table rows added.
 
 **The single highest-value step is §6** — Isaiah is the OT's messianic keystone, and blessing its committal-surface policy now both seals this book and resolves the Daniel asymmetry before Jeremiah/Ezekiel/the Twelve compound it.
+
+**Editorial update, November 2026.** In 14:4 the main line follows the Qumran reading for the oppressor’s fury. The decision is now explained in the reader at 14:4.
+
+**Editorial update, November 2026.** The City of the Sun reading had already been mentioned inside the divine-name note at 19:1. It now has a distinct reading note at 19:18.

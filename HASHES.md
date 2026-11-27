@@ -564,10 +564,10 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/isaiah_13.json` | 22 | `a4b25fa9ac1b659c932799d3897c151e462a8bbad3ba2814cf581af7130dc5c4` | `c766beb5` |
 | `output/translations/isaiah_14.json` | 32 | `1b94c362f36fb0b65b0a191593c10b1cd77e2dc967a5bc31480481db622ae048` | `01276f62` |
 | `output/translations/isaiah_15.json` | 9 | `9b40f45c3d04602a8666b1e080e2057c3d33dc885e8af037745ab482e4fb1d86` | `45eb9045` |
-| `output/translations/isaiah_16.json` | 14 | `3ed556695acfa1043e170f524ab89d5d4debd29b6a8e04fd40fb7d382c3ff81d` | `f6962a89` |
+| `output/translations/isaiah_16.json` | 14 | `3048063654221150adbcae672d1126e5874105fe0a252bfd68c21aae921d8104` | `f6962a89` |
 | `output/translations/isaiah_17.json` | 14 | `6d5cdaae5401c4715b6d0109fd5025666ab814d728876ec1a7fd2c3f255a8e38` | `8683f844` |
 | `output/translations/isaiah_18.json` | 7 | `4ed8b97239d84eef4afdda81c7e71ba93f179971a7dd47588e73f74708ce79b6` | `f9e9dfe8` |
-| `output/translations/isaiah_19.json` | 25 | `b20d52e91c89c64de5d5ae8e832f75be69b0c22843320238e8d45fb815422a56` | `29de4d03` |
+| `output/translations/isaiah_19.json` | 25 | `f1d39cff5121b73d0fb247d107ab9e72767ca38c059ac717e23437f1cc72c944` | `29de4d03` |
 | `output/translations/isaiah_20.json` | 6 | `9eb5ffab2352ff0c67f39cee1e231c2e13b558412c8ace3127abbd43beacdcc9` | `5f94ba7e` |
 | `output/translations/isaiah_21.json` | 17 | `5ef996a56c9f3c5ea5a39b4554716c39082ad792ca6f32abfba3c820c7ffde47` | `e47a273f` |
 | `output/translations/isaiah_22.json` | 25 | `297838407622833ae748c2ed36517fc86a87659f08ea9803529ac98721400703` | `d0820f24` |
@@ -578,7 +578,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/isaiah_27.json` | 13 | `ed51aa7b684ed59400b1aedf847c92b03cc1cad89b99c7cf782f24d1e1dd1040` | `765ce126` |
 | `output/translations/isaiah_28.json` | 29 | `979b4342e1fed82513d81e884488173ae01457efa04519fe5134977bb05bd6ee` | `eea36504` |
 | `output/translations/isaiah_29.json` | 24 | `853ca8d765d93843ab7fe9136d3808b2c6a4b864b15e358a130bef8c865cd29e` | `563d3153` |
-| `output/translations/isaiah_30.json` | 33 | `8e07bf4e63ea645259e522675aae5e3ab4d7698876492bf751551b055daf3671` | `06f2087f` |
+| `output/translations/isaiah_30.json` | 33 | `689bc6529cb0bffcadcdb2f37340915a5c102598517bb9eb158cc39bf637fe84` | `06f2087f` |
 | `output/translations/isaiah_31.json` | 9 | `44798eeb46bd3c1201cd4d5e0a773c2ea664c7a5a39321ba7eaf5dfebae4d61d` | `e648826c` |
 | `output/translations/isaiah_32.json` | 20 | `89a08bfef83a4624163e903ffd07b3f5e00332b13c66904a505f6fc4d7f95c82` | `7bf6c424` |
 | `output/translations/isaiah_33.json` | 24 | `51a8b50656a3b993ca8839fa237e8a4c4738a308a4204dcaf10ffac29d210f44` | `354eab3f` |
@@ -597,9 +597,9 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/isaiah_46.json` | 13 | `6262a30cc2a3bce50d61bc3fa7ddfc93dee7c6789a72a2e6f33ce4156254c3b9` | `357fedc3` |
 | `output/translations/isaiah_47.json` | 15 | `428ddcf762f5c183c972c5a263dfcfd1b341334669e54eca9e7464084a6aace8` | `f1d7adc7` |
 | `output/translations/isaiah_48.json` | 22 | `743b5183d7114399369b285981e00e526e3747e8ddd391564aa0355e2591850f` | `0ee03ef8` |
-| `output/translations/isaiah_49.json` | 26 | `565e33c801e7dd6da180cd26651d13fb46dbec64912eea4158eb69ae26fe4177` | `e5cf014c` |
+| `output/translations/isaiah_49.json` | 26 | `5d4fd137dc0440dc1fd93ec602759391648dbc066484daa6560acfa5fd7fe0b7` | `e5cf014c` |
 | `output/translations/isaiah_50.json` | 11 | `8f69e6a4b9b35d5b50584abff9499348e79eb5bfe5fc43aaed8342cc8e81b39a` | `b64596b5` |
-| `output/translations/isaiah_51.json` | 23 | `3bd7c27d76cb899f1c37b9611e743c8759183e13e2c73ddf046f148367ed791e` | `dbf57c49` |
+| `output/translations/isaiah_51.json` | 23 | `564d290a4c76ab3f94c755f6cc48b136c71bb9a50b156d21f8afb6d0b0e8c1d1` | `dbf57c49` |
 | `output/translations/isaiah_52.json` | 15 | `9f721f187c9064de482e85cea39e58bc0b0404dfcacc170863bda44c0e398c42` | `17883ff7` |
 | `output/translations/isaiah_53.json` | 12 | `b77ddbc2ce3f7d7b1729feada0dd515911e9ddd03bc8954db3e1fc9cded34fc0` | `786ab485` |
 | `output/translations/isaiah_54.json` | 17 | `f78b220f4d41a90053ba4a4003566a4d0c827a088a324f15da7569bf1630e56e` | `ca41def7` |
