@@ -2,8 +2,8 @@
 
 - Rule violations: **0**
 - Undocumented multi-renderings: **0**
-- Documented multi-renderings: 481
-- Consistent single renderings: 18784
+- Documented multi-renderings: 480
+- Consistent single renderings: 18785
 
 ## ✅ Documented multi-renderings (contextual variance)
 
@@ -379,7 +379,6 @@
 - **ἐπὶ τῆς γῆς** — ในโลก (2x), ลงบนดิน (1x)
 - **ἐπὶ τῷ ὀνόματί μου** — โดยอ้างนามของเรา (2x), ในนามของเรา (1x)
 - **ἐπῆραν τὴν φωνὴν αὐτῶν** — ส่งเสียงร้อง (1x), เปล่งเสียงตะโกน (1x)
-- **ἐσθιόντων αὐτῶν** — ขณะที่พวกเขากำลังเสวยอยู่ (1x), ขณะที่พวกเขากำลังรับประทานอาหารอยู่ (1x)
 - **ἐσκανδαλίζοντο ἐν αὐτῷ** — พวกเขาจึงสะดุดในตัวพระองค์ (1x), พวกเขาจึงสะดุดในพระองค์ (1x)
 - **ἐσπλαγχνίσθη** — ก็มีใจเมตตาสงสาร (1x), มีใจเมตตาสงสาร (1x), ทรงสงสาร (1x)
 - **ἐφανερώθη** — ได้ทรงเปิดเผย (1x), ทรงปรากฏ (1x)
@@ -491,4 +490,4 @@
 
 ## ✅ Single-rendering lemmas
 
-18784 lemmas each translated consistently across every occurrence. See `glossary.json` for the full list.
+18785 lemmas each translated consistently across every occurrence. See `glossary.json` for the full list.
