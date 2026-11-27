@@ -23,11 +23,11 @@ Mode: in-chat (Claude-produced back-translations) | Threshold: 0.35
   - Back: While the ambushers were sitting in her chamber, she said to him, 'Philistines are upon you, Samson!' But he broke the bowstrings as a strand of flax breaks when it touches fire. So the secret of his strength was not known.
   - BSB:  While the men were hidden in her room, she called out, “Samson, the Philistines are here!” But he snapped the bowstrings like a strand of yarn seared by a flame. So the source of his strength remained unknown.
 - **JDG 16:12** (sim=0.15)
-  - Thai: เดลีลาห์จึงเอาเชือกใหม่และมัดเขาด้วยเชือกเหล่านั้น แล้วตะโกนว่า “แซมสัน ชาวฟีลิสตีอยู่บนเจ้าแล้ว!” ขณะที่ผู้ชายซ่อนอยู่ในห้อง แต่เขาก็หักเชือกออกจากแขนของเขาเหมือนเส้นด้าย
+  - Thai: เดลิลาห์จึงเอาเชือกใหม่และมัดเขาด้วยเชือกเหล่านั้น แล้วตะโกนว่า “แซมสัน ชาวฟีลิสตีอยู่บนเจ้าแล้ว!” ขณะที่ผู้ชายซ่อนอยู่ในห้อง แต่เขาก็หักเชือกออกจากแขนของเขาเหมือนเส้นด้าย
   - Back: Delilah took new ropes, bound him with them, and said to him, 'Philistines are upon you, Samson!' (The ambushers were sitting in the chamber.) But he broke them from his arms like thread.
   - BSB:  So Delilah took new ropes, tied him up with them, and called out, “Samson, the Philistines are here!” But while the men were hidden in her room, he snapped the ropes off his arms like they were threads.
 - **JDG 16:14** (sim=0.18)
-  - Thai: ขณะที่เขาหลับ เดลีลาห์ก็เอาเส้นผมเจ็ดเส้นของเขาทอเข้ากับด้าย แล้วตอกหมุด และตะโกนว่า “แซมสัน ชาวฟีลิสตีอยู่บนเจ้าแล้ว!” แต่เขาก็ตื่นขึ้น และดึงหมุดออกพร้อมกับเครื่องทอและด้าย
+  - Thai: ขณะที่เขาหลับ เดลิลาห์ก็เอาเส้นผมเจ็ดเส้นของเขาทอเข้ากับด้าย แล้วตอกหมุด และตะโกนว่า “แซมสัน ชาวฟีลิสตีอยู่บนเจ้าแล้ว!” แต่เขาก็ตื่นขึ้น และดึงหมุดออกพร้อมกับเครื่องทอและด้าย
   - Back: She fastened it with the pin and said to him, 'Philistines are upon you, Samson!' He awoke from his sleep and pulled out the pin of the loom and the web.
   - BSB:  So while he slept, Delilah took the seven braids of his hair and wove them into the web. Then she tightened it with a pin and called to him, “Samson, the Philistines are here!” But he awoke from his sleep and pulled out the pin with the loom and the web.
 - **JDG 16:17** (sim=0.04)

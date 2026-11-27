@@ -1,4 +1,8 @@
 # Judges — External AI Sanity-Check Review Packet
+
+**Editorial clarification, 27 November 2026.**
+
+- **Judges 13:24–25.** Verse 24 recounts Samson’s birth and growth. Verse 25 then describes the Spirit of the LORD beginning to stir him at Mahaneh Dan.
 **Date assembled: 2026-05-20**
 
 **Paste this entire document into one of:** Grok (free), ChatGPT (free or paid), Gemini 2.5 Pro, Claude. **Then copy the AI's response back to the project's main session.**
