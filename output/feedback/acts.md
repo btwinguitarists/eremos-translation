@@ -1978,11 +1978,11 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**38** ฉะนั้น พี่น้องทั้งหลาย ขอให้ท่านทั้งหลายทราบเถิดว่า โดยทางพระเยซูนี้เองการยกโทษบาปได้ถูกประกาศแก่ท่านทั้งหลายแล้ว รวมทั้งจากทุกสิ่งที่ธรรมบัญญัติของโมเสสไม่อาจกระทำให้ท่านเป็นผู้ชอบธรรมได้
+**38** ฉะนั้น พี่น้องทั้งหลาย ขอให้ท่านทั้งหลายทราบเถิดว่า โดยทางพระเยซูนี้เองการยกโทษบาปได้ถูกประกาศแก่ท่านทั้งหลายแล้ว ส่วนความผิดทั้งหลายที่ท่านไม่อาจพ้นได้โดยอาศัยธรรมบัญญัติของโมเสสนั้น
 
 > ___
 
-**39** ทุกคนที่เชื่อในพระองค์นี้ก็เป็นผู้ชอบธรรม
+**39** โดยทางพระเยซู ทุกคนที่เชื่อก็ได้รับการปลดเปลื้องจากความผิดเหล่านั้นทั้งสิ้น
 
 > ___
 
@@ -4170,7 +4170,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/acts_10.json` | `a28c464977530875b1cd0c8e7215199835fab16a8db3d76058078de957bcca41` |
 | `output/translations/acts_11.json` | `429a97c600dcb6903d79436d45d4969a94b97ff805dce57cd3f8f939e32be64e` |
 | `output/translations/acts_12.json` | `dd0be24a643f72c9683f8c2fe637d6daa088c09d93c7c02fe59b0d119edd8fc3` |
-| `output/translations/acts_13.json` | `65026fdae4724b1084803ca43e4160b6b3a1761b77c2483377b407a793207bb0` |
+| `output/translations/acts_13.json` | `1113b27560bde94cd8cc2609a753dbf74c790d78bff81b7732f0e000085eaf7a` |
 | `output/translations/acts_14.json` | `59da9d26e8a2aedf9a223bd41b6a16fe1ec3ca259af694eed93c717aff4186e7` |
 | `output/translations/acts_15.json` | `70a77e2e58a601601630e8933d3538af2c3f57e45bfcf753f1d5f85dae7bbac5` |
 | `output/translations/acts_16.json` | `f36d4ca6bdfbe5c30839edcce3dec3084337b53e3648a8cf5a264b461bca9ee5` |
