@@ -211,7 +211,7 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 **19** เฮสโรนเป็นบิดาของราม รามเป็นบิดาของอัมมีนาดับ
 
-**20** อัมมีนาดับเป็นบิดาของนาโชน นาโชนเป็นบิดาของซัลโมน
+**20** อัมมีนาดับเป็นบิดาของนาโชน นาโชนเป็นบิดาของสัลโมน
 
 **21** สัลโมนเป็นบิดาของโบอาส โบอาสเป็นบิดาของโอเบด
 
@@ -234,8 +234,8 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/ruth_01.json` | `c99cec5634efcaa3e03cd2937356760a1f07db4ead6f09e68fddddf83aa03a5b` |
+| `output/translations/ruth_01.json` | `37e8f748437220b39bd29ee03a6b77536d18b9c05d9f8519b3f277702195e80d` |
 | `output/translations/ruth_02.json` | `a5044d40bf24b7839c19377ac38df85d15ebc3e86e7e98e86ec4343cd43f2752` |
-| `output/translations/ruth_03.json` | `b2ab6ccfe2c8e9505351ae925742ddfd0395a4b105612b82a564eafa25a57458` |
-| `output/translations/ruth_04.json` | `06526a63ad621a990945532f48a79607cc9f50b6a7ed4550ab66df600b9baedb` |
+| `output/translations/ruth_03.json` | `589ddc089e572adc885f36ba94f2a9fb462a1da0811a52d9e7f4f6749ceb1de7` |
+| `output/translations/ruth_04.json` | `eaeb21bb3274cf38513d325ce8f541689a2cfc6f141f04b2df0ab79f2e3d3a72` |
 

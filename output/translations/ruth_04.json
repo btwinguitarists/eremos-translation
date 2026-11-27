@@ -596,8 +596,8 @@
     "hebrew": "וְעַמִּֽינָדָב֙ הוֹלִ֣יד אֶת־נַחְשׁ֔וֹן וְנַחְשׁ֖וֹן הוֹלִ֥יד אֶת־שַׂלְמָֽה׃",
     "bsb_english": "Amminadab was the father of Nahshon, Nahshon was the father of Salmon,",
     "translation": {
-      "thai": "อัมมีนาดับเป็นบิดาของนาโชน นาโชนเป็นบิดาของซัลโมน",
-      "thai_literal": "และอัมมีนาดับได้ให้กำเนิดนาโชน และนาโชนได้ให้กำเนิดซัลโมน",
+      "thai": "อัมมีนาดับเป็นบิดาของนาโชน นาโชนเป็นบิดาของสัลโมน",
+      "thai_literal": "และอัมมีนาดับได้ให้กำเนิดนาโชน และนาโชนได้ให้กำเนิดสัลโมน",
       "thai_summary": null,
       "key_decisions": [
         {
@@ -607,8 +607,8 @@
         },
         {
           "hebrew": "וְנַחְשׁוֹן הוֹלִיד אֶת־שַׂלְמָה",
-          "thai": "นาโชนเป็นบิดาของซัลโมน",
-          "rationale": "**NAME-FORM HARMONIZATION.** The Hebrew of v.20 has שַׂלְמָה (Salmah), but v.21 has שַׂלְמוֹן (Salmon — itself a hapax in this form per the source extraction). The two forms refer to the same person (cf. 1 Chr 2:11 also has שַׂלְמָא). Per Mt 1:4-5 corpus-lock: Σαλμών = สัลโมน. Render with the consistent Mt-locked form ซัลโมน in v.20 (transliterated from שַׂלְמָה rather than the שַׂלְמוֹן of v.21) — using ซ rather than ส per the standard Thai transliteration of Salmon (the Mt rendering used ส 'สัลโมน', but the ฉบับแปลไทย-tradition Thai rendering of Salmon for OT uses ซ 'ซัลโมน'). Actually correcting to match Mt's สัลโมน — preserve cross-corpus consistency. Render สัลโมน."
+          "thai": "นาโชนเป็นบิดาของสัลโมน",
+          "rationale": "ข้อ 20 ใช้รูป שַׂלְמָה และข้อ 21 ใช้ שַׂלְמוֹן ทั้งสองข้อกล่าวถึงบุคคลเดียวกัน จึงใช้ชื่อ “สัลโมน” ตามมัทธิว 1:4–5 และ 1 พงศาวดาร 2:11"
         }
       ],
       "notes": "Per Mt 1:4 + Lk 3:32 lock: נַחְשׁוֹן = นาโชน. Per Mt 1:4-5 lock: שַׂלְמָה/שַׂלְמוֹן (variant forms in Hebrew) = สัลโมน. The two-Hebrew-form-variation שַׂלְמָה (v.20) / שַׂלְמוֹן (v.21) is harmonized in Thai to a single form for cross-verse + cross-corpus consistency."
@@ -623,7 +623,7 @@
     "bsb_english": "Salmon was the father of Boaz, Boaz was the father of Obed,",
     "translation": {
       "thai": "สัลโมนเป็นบิดาของโบอาส โบอาสเป็นบิดาของโอเบด",
-      "thai_literal": "และซัลโมนได้ให้กำเนิดโบอาส และโบอาสได้ให้กำเนิดโอเบด",
+      "thai_literal": "และสัลโมนได้ให้กำเนิดโบอาส และโบอาสได้ให้กำเนิดโอเบด",
       "thai_summary": null,
       "key_decisions": [
         {
