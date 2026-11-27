@@ -50,6 +50,13 @@
       "report": "claim_consistency_proverbs_01.md",
       "notes": "advisory only — not a ship gate (raw exit=0)",
       "status": "clean"
+    },
+    {
+      "name": "unfoldingWord wording (license gate)",
+      "exit_code": 0,
+      "report": "uw_wording_proverbs_01.md",
+      "notes": "",
+      "status": "clean"
     }
   ]
 }
