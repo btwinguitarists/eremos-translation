@@ -1176,10 +1176,10 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/romans_14.json` | 23 | `7a5aa044725a91530b6ed82b918843ddf70f258d0ad00b071d1307b080a41056` | `b64d4872` |
 | `output/translations/romans_15.json` | 33 | `cc1848963b730debd50fcd5b3d2de2347f127fdc6c001fa7357c709daca5518b` | `b64d4872` |
 | `output/translations/romans_16.json` | 27 | `fbd72dda200b8a20fe654e04b9add34e895885f95609883008cecdd9dd8e6c4e` | `9f851ef9` |
-| `output/translations/ruth_01.json` | 22 | `7153167899931b7fa6b249742cf521e29912a152f25d0e2c1a2b14b8d9c6825c` | `7040ad9f` |
-| `output/translations/ruth_02.json` | 23 | `9ec349a8cb1c287436281a0768f7acc16e13921a5fc0006292d81ffca0098a77` | `d03c3a1a` |
-| `output/translations/ruth_03.json` | 18 | `c2c14fbd2d0641e35eb56b1140b0815cf6e5925b12d112d315b56676f44c109e` | `d03c3a1a` |
-| `output/translations/ruth_04.json` | 22 | `a76e5e6ebd473dcecfb340257b1d53c22fe75b4072c24336594c564ef3ab05ad` | `d03c3a1a` |
+| `output/translations/ruth_01.json` | 22 | `37e8f748437220b39bd29ee03a6b77536d18b9c05d9f8519b3f277702195e80d` | `7040ad9f` |
+| `output/translations/ruth_02.json` | 23 | `a5044d40bf24b7839c19377ac38df85d15ebc3e86e7e98e86ec4343cd43f2752` | `d03c3a1a` |
+| `output/translations/ruth_03.json` | 18 | `589ddc089e572adc885f36ba94f2a9fb462a1da0811a52d9e7f4f6749ceb1de7` | `d03c3a1a` |
+| `output/translations/ruth_04.json` | 22 | `eaeb21bb3274cf38513d325ce8f541689a2cfc6f141f04b2df0ab79f2e3d3a72` | `d03c3a1a` |
 | `output/translations/songofsongs_01.json` | 17 | `2cc399dacf9df716f83cd5aec91d438ecdb5145ed10d046d651bf2c6142ede0f` | `7049fc4d` |
 | `output/translations/songofsongs_02.json` | 17 | `b77665ea32758775f9e06f5cc948c406006f659f98d3b79264521cc5990e2ab9` | `6cc5f683` |
 | `output/translations/songofsongs_03.json` | 11 | `7e89e9623a7ce15f0bed1c76afb2f08ce2699c600e3e5544b1a46c3521f5b0b0` | `28939a8c` |

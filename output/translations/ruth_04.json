@@ -48,7 +48,7 @@
           "rationale": "Per uW alt: 'Then he chose ten men.' The number ten = the minimum quorum for Jewish community-public business (later codified as the minyan of 10 men). Render ผู้อาวุโส ('elders / senior leaders') for זְקֵנִים — the Thai term that captures both the age-rank and the legal-authority dimensions. The verb לָקַח 'take' here = 'invite, summon, call upon' (not literally physical taking). Render เรียก...มา ('call/summon') for natural Thai. Boaz's calling specifically the elders — not just any townspeople — establishes the legal-witness-quorum for what follows."
         }
       ],
-      "notes": "The ten elders constitute the legal witness-quorum for the public business about to occur. Boaz is meticulously following Mosaic legal protocol (Deut 25:5-10 levirate-marriage + redemption framework) — the public assembly + ten-elder quorum + sandal-removal ceremony all derive from that legal text. The narrator's purpose: emphasize Boaz's punctilious legal integrity — he is not informally claiming Ruth, but executing the redemption-protocol with full public legal weight."
+      "notes": "The ten elders constitute the legal witness-quorum for the public business about to occur. Boaz is meticulously following Mosaic legal protocol (Deut 25:5-10 levirate-marriage + redemption framework) — that law describes elders at the gate and the widow removing the sandal of the man who refuses the marriage. It gives no number for the elders. The narrator's purpose: emphasize Boaz's punctilious legal integrity — he is not informally claiming Ruth, but executing the redemption-protocol with full public legal weight."
     }
   },
   {
@@ -71,7 +71,7 @@
         {
           "hebrew": "מָכְרָה נָעֳמִי",
           "thai": "นาโอมี...กำลังจะขาย",
-          "rationale": "Hebrew Qal qatal of מָכַר 'sell.' The qatal-aspect here is ambiguous (Joüon-Muraoka §112): could be perfect ('Naomi has sold') or progressive-imminent ('Naomi is about to sell / is selling'). Per uW + most modern English Bibles (BSB 'is selling'): the context (Boaz is opening the legal proceedings; the sale is in-progress, not completed) supports the imminent-progressive reading. Render กำลังจะขาย ('is about to sell') with Thai progressive-future marker — preserves the in-process force that drives the rest of the legal scene. If the sale were complete, there would be nothing to redeem."
+          "rationale": "Hebrew Qal qatal of מָכַר 'sell.' The qatal-aspect here is ambiguous (Joüon-Muraoka §112): could be perfect ('Naomi has sold') or progressive-imminent ('Naomi is about to sell / is selling'). Per uW + most modern English Bibles (BSB 'is selling'): the context (Boaz is opening the legal proceedings; the sale is in-progress, not completed) supports the imminent-progressive reading. Render กำลังจะขาย ('is about to sell') with Thai progressive-future marker — preserves the in-process force that drives the rest of the legal scene. Lev 25:25 allows a close relative to redeem land even after its sale."
         }
       ],
       "notes": "Boaz opens the legal proceeding by announcing the sale-of-land that triggers the redemption-right. Naomi's 'selling' the land is the legal-economic catalyst: Mosaic law (Lev 25:25-28) gives the closest male relative the first-right of buying back family land to keep it in the clan. Naomi is selling because, as a widow with no male heir, she cannot work the land herself; the closer-kinsman has first-right of refusal."
@@ -205,7 +205,7 @@
         {
           "hebrew": "עַל־הַגְּאוּלָּה וְעַל־הַתְּמוּרָה",
           "thai": "เกี่ยวกับการไถ่และการแลกเปลี่ยนทรัพย์สิน",
-          "rationale": "Two abstract-nouns: גְּאוּלָּה = redemption-act (related to גָּאַל), תְּמוּרָה = exchange-act (related to מוּר 'change'). Render with the parallel pair การไถ่ + การแลกเปลี่ยน. Note: גְּאוּלָּה is rare in OT (5×); the Eremos rendering established at Lev 25:24, 26 in due course will be การไถ่. Add ทรัพย์สิน ('property') for clarity since Hebrew abstract-noun pair could be opaque in Thai without context."
+          "rationale": "Two abstract-nouns: גְּאוּלָּה = redemption-act (related to גָּאַל), תְּמוּרָה = exchange-act (related to מוּר 'change'). Render with the parallel pair การไถ่ + การแลกเปลี่ยน. Note: the Open Scriptures Hebrew Bible records 14 occurrences of the noun גְּאוּלָּה; the Eremos rendering established at Lev 25:24, 26 in due course will be การไถ่. Add ทรัพย์สิน ('property') for clarity since Hebrew abstract-noun pair could be opaque in Thai without context."
         },
         {
           "hebrew": "שָׁלַף אִישׁ נַעֲלוֹ וְנָתַן לְרֵעֵהוּ",
@@ -448,7 +448,7 @@
     "translation": {
       "thai": "บุตรนี้จะเป็นผู้ฟื้นฟูชีวิตของท่าน และจะเลี้ยงดูท่านในวัยชรา เพราะสะใภ้ของท่านที่รักท่านและดีต่อท่านยิ่งกว่าบุตรชายเจ็ดคนได้คลอดบุตรนี้ให้”",
       "thai_literal": "และเขาจะเป็นแก่เจ้าเป็นผู้คืนวิญญาณ และเป็นผู้เลี้ยงดูในวัยชราของเจ้า เพราะสะใภ้ของเจ้าที่รักเจ้า ที่ดีต่อเจ้ายิ่งกว่าบุตรชายเจ็ดคน ได้คลอดเขา",
-      "thai_summary": "‘ดีต่อท่านยิ่งกว่าบุตรชายเจ็ดคน’ เป็นการใช้สำนวนฮีบรูที่หมายถึง ‘ดีกว่าจำนวนบุตรชายที่สมบูรณ์ที่สุด’ — เลขเจ็ดในวัฒนธรรมพระคัมภีร์เป็นเลขแห่งความสมบูรณ์เต็มเปี่ยม ในวัฒนธรรมที่ผู้หญิงต้องพึ่งพาบุตรชายเพื่อความปลอดภัยทางสังคมและเศรษฐกิจ การที่บุตรของรูธคนนี้จะดีต่อนาโอมียิ่งกว่าบุตรชายเจ็ดคนคือการประกาศที่หนักแน่นว่า ḥesed ของรูธ — โดยการเลือกสมรสกับโบอาสและให้กำเนิดบุตรเพื่อสายตระกูลของมาห์โลน — มีค่ามากกว่าครอบครัวที่ ‘สมบูรณ์ตามธรรมชาติ’ ที่นาโอมีจะมีได้ ผู้หญิงในเมืองยกย่องรูธเป็นผู้ที่เกินบุตรชายในแง่ของการเสียสละและความรักมั่นคง",
+      "thai_summary": "‘ดีต่อท่านยิ่งกว่าบุตรชายเจ็ดคน’ เป็นการใช้สำนวนฮีบรูที่หมายถึง ‘ดีกว่าจำนวนบุตรชายที่สมบูรณ์ที่สุด’ — เลขเจ็ดในวัฒนธรรมพระคัมภีร์เป็นเลขแห่งความสมบูรณ์เต็มเปี่ยม ในวัฒนธรรมที่ผู้หญิงต้องพึ่งพาบุตรชายเพื่อความปลอดภัยทางสังคมและเศรษฐกิจ การที่รูธผู้เป็นสะใภ้ดีต่อนาโอมียิ่งกว่าบุตรชายเจ็ดคนคือการประกาศที่หนักแน่นว่า ḥesed ของรูธ — โดยการเลือกสมรสกับโบอาสและให้กำเนิดบุตรเพื่อสายตระกูลของมาห์โลน — มีค่ามากกว่าครอบครัวที่ ‘สมบูรณ์ตามธรรมชาติ’ ที่นาโอมีจะมีได้ ผู้หญิงในเมืองยกย่องรูธเป็นผู้ที่เกินบุตรชายในแง่ของการเสียสละและความรักมั่นคง",
       "key_decisions": [
         {
           "hebrew": "וְהָיָה לָךְ לְמֵשִׁיב נֶפֶשׁ",
@@ -520,7 +520,7 @@
         {
           "hebrew": "יֻלַּד־בֵּן לְנָעֳמִי",
           "thai": "“นาโอมีมีบุตรชายแล้ว!”",
-          "rationale": "'A son has been born to Naomi' is idiomatic: Naomi now has a male heir in her line, a grandson. יֻלַּד = Hophal-perfect of יָלַד 'be-born.' The passive construction emphasizes the family-line restoration over the biological-paternity. Render with the Thai possessive frame นาโอมีมีบุตรชายแล้ว ('Naomi has a son now'), preserving the legal-family rather than biological force. The exclamation-marker captures the celebratory-public-announcement register."
+          "rationale": "'A son has been born to Naomi' is idiomatic: Naomi now has a male heir in her line, a grandson. יֻלַּד = Pual-perfect of יָלַד 'be-born.' The passive construction emphasizes the family-line restoration over the biological-paternity. Render with the Thai possessive frame นาโอมีมีบุตรชายแล้ว ('Naomi has a son now'), preserving the legal-family rather than biological force. The exclamation-marker captures the celebratory-public-announcement register."
         },
         {
           "hebrew": "וַתִּקְרֶאנָה שְׁמוֹ עוֹבֵד",
@@ -559,7 +559,7 @@
           "rationale": "**GENEALOGICAL FORMULA LOCK.** Hiphil of יָלַד = 'beget, become father of.' Per Mt 1:3 lock: פֶּרֶץ = เปเรศ; חֶצְרוֹן = เฮสโรน. Render with Thai เป็นบิดาของ ('was the father of') — established Eremos genealogy-pattern at Mt 1:2-16. The Hebrew construction Subject-Hiphil-of-yld-Object is a fixed-formula across OT genealogies (Gen 5, 11; 1 Chr 1-9); Eremos's project-wide rendering is established here for OT genealogies extending to Genesis 5+. The em-dash (—) after the introducer makes the list-format clearer in Thai."
         }
       ],
-      "notes": "v.18 opens the closing-genealogy. The narrator's transition from narrative to genealogy uses תּוֹלְדוֹת (Genesis-narrative formula) — placing the Ruth-story within the larger Genesis-Pentateuch-Kingdom history. The genealogy's structure: 10 generations (Perez → David), the same number of generations Matthew uses to organize each section of Mt 1:1-17. Per uW writing-newevent: signal the time-jump from Boaz-Ruth-Obed to the broader generational sweep. The genealogy spans from Judah's-time (~1900 BCE) to David's-time (~1000 BCE), crossing the Egyptian sojourn + Exodus + Conquest + Judges-period."
+      "notes": "v.18 opens the closing-genealogy. The narrator's transition from narrative to genealogy uses תּוֹלְדוֹת (Genesis-narrative formula) — placing the Ruth-story within the larger Genesis-Pentateuch-Kingdom history. The genealogy's structure: 10 generations (Perez → David). Matthew uses 14 generations to organize each section of Mt 1:1-17. Per uW writing-newevent: signal the time-jump from Boaz-Ruth-Obed to the broader generational sweep. The genealogy spans from Judah's-time (~1900 BCE) to David's-time (~1000 BCE), crossing the Egyptian sojourn + Exodus + Conquest + Judges-period."
     }
   },
   {
@@ -596,8 +596,8 @@
     "hebrew": "וְעַמִּֽינָדָב֙ הוֹלִ֣יד אֶת־נַחְשׁ֔וֹן וְנַחְשׁ֖וֹן הוֹלִ֥יד אֶת־שַׂלְמָֽה׃",
     "bsb_english": "Amminadab was the father of Nahshon, Nahshon was the father of Salmon,",
     "translation": {
-      "thai": "อัมมีนาดับเป็นบิดาของนาโชน นาโชนเป็นบิดาของซัลโมน",
-      "thai_literal": "และอัมมีนาดับได้ให้กำเนิดนาโชน และนาโชนได้ให้กำเนิดซัลโมน",
+      "thai": "อัมมีนาดับเป็นบิดาของนาโชน นาโชนเป็นบิดาของสัลโมน",
+      "thai_literal": "และอัมมีนาดับได้ให้กำเนิดนาโชน และนาโชนได้ให้กำเนิดสัลโมน",
       "thai_summary": null,
       "key_decisions": [
         {
@@ -607,8 +607,8 @@
         },
         {
           "hebrew": "וְנַחְשׁוֹן הוֹלִיד אֶת־שַׂלְמָה",
-          "thai": "นาโชนเป็นบิดาของซัลโมน",
-          "rationale": "**NAME-FORM HARMONIZATION.** The Hebrew of v.20 has שַׂלְמָה (Salmah), but v.21 has שַׂלְמוֹן (Salmon — itself a hapax in this form per the source extraction). The two forms refer to the same person (cf. 1 Chr 2:11 also has שַׂלְמָא). Per Mt 1:4-5 corpus-lock: Σαλμών = สัลโมน. Render with the consistent Mt-locked form ซัลโมน in v.20 (transliterated from שַׂלְמָה rather than the שַׂלְמוֹן of v.21) — using ซ rather than ส per the standard Thai transliteration of Salmon (the Mt rendering used ส 'สัลโมน', but the ฉบับแปลไทย-tradition Thai rendering of Salmon for OT uses ซ 'ซัลโมน'). Actually correcting to match Mt's สัลโมน — preserve cross-corpus consistency. Render สัลโมน."
+          "thai": "นาโชนเป็นบิดาของสัลโมน",
+          "rationale": "ข้อ 20 ใช้รูป שַׂלְמָה และข้อ 21 ใช้ שַׂלְמוֹן ทั้งสองข้อกล่าวถึงบุคคลเดียวกัน จึงใช้ชื่อ “สัลโมน” ตามมัทธิว 1:4–5 และ 1 พงศาวดาร 2:11"
         }
       ],
       "notes": "Per Mt 1:4 + Lk 3:32 lock: נַחְשׁוֹן = นาโชน. Per Mt 1:4-5 lock: שַׂלְמָה/שַׂלְמוֹן (variant forms in Hebrew) = สัลโมน. The two-Hebrew-form-variation שַׂלְמָה (v.20) / שַׂלְמוֹן (v.21) is harmonized in Thai to a single form for cross-verse + cross-corpus consistency."
@@ -623,7 +623,7 @@
     "bsb_english": "Salmon was the father of Boaz, Boaz was the father of Obed,",
     "translation": {
       "thai": "สัลโมนเป็นบิดาของโบอาส โบอาสเป็นบิดาของโอเบด",
-      "thai_literal": "และซัลโมนได้ให้กำเนิดโบอาส และโบอาสได้ให้กำเนิดโอเบด",
+      "thai_literal": "และสัลโมนได้ให้กำเนิดโบอาส และโบอาสได้ให้กำเนิดโอเบด",
       "thai_summary": null,
       "key_decisions": [
         {
@@ -637,7 +637,7 @@
           "rationale": "Per Ruth 4:17 lock + Mt 1:5 + Lk 3:32 lock: עוֹבֵד = โอเบด. The genealogy now lands on the Boaz-Obed connection — the v.13 Boaz-Ruth child."
         }
       ],
-      "notes": "**HAPAX** שַׂלְמוֹן (v.21 form) — only OT occurrence of this exact -ōn ending; the alternate form שַׂלְמָה appears in v.20 and 1 Chr 2:11. Both refer to the same person; harmonized in Thai per cross-corpus lock to สัลโมน. The verse marks Boaz's place in the Davidic-line genealogy — the book's main character placed precisely in salvation-history."
+      "notes": "**HAPAX** שַׂלְמוֹן (v.21 form) — only OT occurrence of this exact -ōn ending; the alternate form שַׂלְמָה appears in v.20, and 1 Chr 2:11 spells it שַׂלְמָא. Both refer to the same person; harmonized in Thai per cross-corpus lock to สัลโมน. The verse marks Boaz's place in the Davidic-line genealogy — the book's main character placed precisely in salvation-history."
     }
   },
   {
@@ -650,7 +650,7 @@
     "translation": {
       "thai": "โอเบดเป็นบิดาของเจสซี และเจสซีเป็นบิดาของดาวิด",
       "thai_literal": "และโอเบดได้ให้กำเนิดเจสซี และเจสซีได้ให้กำเนิดดาวิด",
-      "thai_summary": "หนังสือรูธจบลงด้วยชื่อ ‘ดาวิด’ — กษัตริย์องค์ใหญ่ของอิสราเอล ผู้ที่พระเจ้าทรงสัญญาว่าจะตั้งสายตระกูลของเขาให้คงอยู่ตลอดไป (2 ซามูเอล 7:11-16) — และในมุมมองของพันธสัญญาใหม่ ผู้ที่จะเป็นบรรพบุรุษของพระเยซูคริสต์ ‘บุตรของดาวิด’ (มัทธิว 1:1) เรื่องที่เริ่มต้นด้วยภัยแล้งและความอดอยากในเบธเลเฮม (รูธ 1:1) จบลงด้วยการกำเนิดของกษัตริย์ผู้จะปกครองในเบธเลเฮม — ความรักมั่นคง (חֶסֶד) ของหญิงต่างชาติคนหนึ่งจากแผ่นดินโมอับเป็นเครื่องมือที่พระเจ้าใช้สานต่อสายแห่งคำสัญญา ซึ่งจะนำไปสู่การไถ่ของมนุษยชาติทั้งมวลในที่สุด",
+      "thai_summary": "หนังสือรูธจบลงด้วยชื่อ ‘ดาวิด’ — กษัตริย์องค์ใหญ่ของอิสราเอล ผู้ที่พระเจ้าทรงสัญญาว่าจะตั้งสายตระกูลของเขาให้คงอยู่ตลอดไป (2 ซามูเอล 7:11-16) — และในมุมมองของพันธสัญญาใหม่ ผู้ที่จะเป็นบรรพบุรุษของพระเยซูคริสต์ ‘บุตรของดาวิด’ (มัทธิว 1:1) เรื่องที่เริ่มต้นด้วยภัยแล้งและความอดอยากในเบธเลเฮม (รูธ 1:1) จบลงด้วยลำดับวงศ์ตระกูลที่สืบไปถึงดาวิด ผู้จะครองราชย์ที่เฮโบรนและเยรูซาเล็ม — ความรักมั่นคง (חֶסֶד) ของหญิงต่างชาติคนหนึ่งจากแผ่นดินโมอับเป็นเครื่องมือที่พระเจ้าใช้สานต่อสายแห่งคำสัญญา ซึ่งจะนำไปสู่การไถ่ของมนุษยชาติทั้งมวลในที่สุด",
       "key_decisions": [
         {
           "hebrew": "וְעֹבֵד הוֹלִיד אֶת־יִשַׁי וְיִשַׁי הוֹלִיד אֶת־דָּוִד",
@@ -658,7 +658,7 @@
           "rationale": "Per Mt 1:5-6 + Lk 3:32 corpus-lock: יִשַׁי = เจสซี; דָּוִד = ดาวิด. As at 4:17, 'King' is unstated, but the first readers knew which David was meant. The chapter's-and-book's-final word is 'David', the climactic-name that resolves the entire narrative-trajectory. Render with consistent Mt 1:5-6 forms; do not add 'King' explicitly; the implicit-significance is preserved by the reader's knowledge of who David is."
         }
       ],
-      "notes": "**THE BOOK'S CLIMACTIC FINAL WORD: דָּוִד / ดาวิด.** The Hebrew narrator ends the entire book with this one name. The narrator's full theological-narrative arc is now visible: famine → Moabite-marriage → return-empty → ḥesed-of-Ruth → ḥesed-of-Boaz → kinsman-redemption → Obed → Jesse → DAVID. The book exists to explain how a Moabite woman became the great-grandmother of Israel's greatest king. Per RULES §0 evangelical-Protestant frame: David's significance points forward to the Davidic-covenant (2 Sam 7) and ultimately to the 'son of David' Jesus Christ (Mt 1:1, Mt 1:5 — Matthew explicitly cites Ruth in the Messianic genealogy). The thai_summary surfaces this Christological-typological reading for the average reader. The book's narrative restraint — never explicitly stating 'God did this' — is structurally answered by this single-name ending: David is the proof that YHWH was at work all along."
+      "notes": "**THE BOOK'S CLIMACTIC FINAL WORD: דָּוִד / ดาวิด.** The Hebrew narrator ends the entire book with this one name. The narrator's full theological-narrative arc is now visible: famine → Moabite-marriage → return-empty → ḥesed-of-Ruth → ḥesed-of-Boaz → kinsman-redemption → Obed → Jesse → DAVID. The book exists to explain how a Moabite woman became the great-grandmother of Israel's greatest king. Per RULES §0 evangelical-Protestant frame: David's significance points forward to the Davidic-covenant (2 Sam 7) and ultimately to the 'son of David' Jesus Christ (Mt 1:1, Mt 1:5 — Matthew explicitly cites Ruth in the Messianic genealogy). The thai_summary surfaces this Christological-typological reading for the average reader. The book's narrative restraint — even as the narrator explicitly credits YHWH with giving Ruth conception (4:13) — is structurally answered by this single-name ending: David is the proof that YHWH was at work all along."
     }
   }
 ]

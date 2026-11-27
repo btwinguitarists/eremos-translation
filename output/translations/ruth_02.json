@@ -23,7 +23,7 @@
         },
         {
           "hebrew": "מִמִּשְׁפַּחַת אֱלִימֶלֶךְ",
-          "thai": "จากตระกูลเอลีเמเลค",
+          "thai": "จากตระกูลเอลีเมเลค",
           "rationale": "מִשְׁפָּחָה = 'clan/extended family' — broader than the nuclear family but narrower than the tribe. Per uW translate-kinship: this does NOT mean Elimelech was the patriarch or that the clan was named after him; it means Boaz and Elimelech belonged to the same kinship-cluster within the tribe of Judah. Render with ตระกูล (clan/lineage) — the Thai term that carries the same 'extended-kinship' force without implying patriarchy. Place-name convention same as Ruth 1:2 (เอลีเมเลค)."
         },
         {
@@ -70,10 +70,10 @@
         {
           "hebrew": "בִתִּי",
           "thai": "ลูกของฉัน",
-          "rationale": "Affectionate kinship address, Naomi to Ruth. Ruth has been looking after Naomi the way a daughter looks after her own mother, and Naomi answers with the warm 'my daughter'. Render ลูกของฉัน (my child/daughter), the Thai familial register for affectionate rather than formal address. The same word recurs at v.8 (Boaz to Ruth) and v.22 (Naomi to Ruth): three speakers, three register-implications. Naomi's use is mother-daughter; Boaz's is the older-respected-man-to-younger-woman protective register (handled at v.8)."
+          "rationale": "Affectionate kinship address, Naomi to Ruth. Ruth has been looking after Naomi the way a daughter looks after her own mother, and Naomi answers with the warm 'my daughter'. Render ลูกของฉัน (my child/daughter), the Thai familial register for affectionate rather than formal address. The same word recurs at v.8 (Boaz to Ruth) and v.22 (Naomi to Ruth): two speakers across three occurrences. Naomi's use is mother-daughter; Boaz's is the older-respected-man-to-younger-woman protective register (handled at v.8)."
         }
       ],
-      "notes": "Ruth's initiative is the narrative engine of the chapter. The Hebrew has two waw-consecutive frames: וַתֹּאמֶר ... וַתֹּאמֶר (Ruth speaks → Naomi replies), in dialogue parallelism. The legal context (Mosaic gleaning rights, Lev 19, Deut 24) is assumed — the narrator does not explain because the Israelite audience knows. Ruth as a Moabite (foreigner, fatherless-as-widow) has triple-claim under Mosaic gleaning law. הַמּוֹאֲבִיָּה 'the Moabitess' is reintroduced here per uW writing-participants: the narrator re-flags Ruth's ethnicity precisely at the moment she enters Israel's agrarian space, because her Moabite identity is the social tension that runs through Boaz's dialogue."
+      "notes": "Ruth's initiative is the narrative engine of the chapter. The Hebrew has two waw-consecutive frames: וַתֹּאמֶר ... וַתֹּאמֶר (Ruth speaks → Naomi replies), in dialogue parallelism. The legal context (Mosaic gleaning rights, Lev 19, Deut 24) is assumed — the narrator does not explain because the Israelite audience knows. Ruth’s situation as a Moabite widow recalls the Mosaic gleaning provisions for the sojourner and the widow. הַמּוֹאֲבִיָּה 'the Moabitess' is reintroduced here per uW writing-participants: the narrator re-flags Ruth's ethnicity precisely at the moment she enters Israel's agrarian space, because her Moabite identity is the social tension that runs through Boaz's dialogue."
     }
   },
   {
@@ -132,7 +132,7 @@
         {
           "hebrew": "יְבָרֶכְךָ יְהוָה",
           "thai": "ขอองค์พระผู้เป็นเจ้าทรงอวยพรท่าน",
-          "rationale": "Pi'el jussive of בָּרַךְ 'bless' + 2ms object suffix → 'May YHWH bless you.' Singular 'you' addressing the master Boaz. Per uW translate-blessing: greeting-blessing. Standard NT-aligned rendering ทรงอวยพร — already used in shipped corpus for blessings (e.g., Eph 1:3, Jas 1:5). The mutual-blessing exchange between Boaz and his workers is a small narrative window into the social fabric of Bethlehem under God-fearing leadership."
+          "rationale": "Pi'el jussive of בָּרַךְ 'bless' + 2ms object suffix → 'May YHWH bless you.' Singular 'you' addressing the master Boaz. Per uW translate-blessing: greeting-blessing. Standard NT-aligned rendering ทรงอวยพร — already used in shipped corpus for blessings (e.g., Eph 1:3). The mutual-blessing exchange between Boaz and his workers is a small narrative window into the social fabric of Bethlehem under God-fearing leadership."
         }
       ],
       "notes": "First explicit YHWH appearance in this chapter — triggers the per-chapter Tier 2 footer note convention per divine_names_table_2026-05.md Layer 2. Footer note will be added at output/textual_variants/ruth_02.json explaining that 'องค์พระผู้เป็นเจ้า' renders יהוה consistently with NT corpus. The greeting-blessing exchange is the OT formula that NT will pick up in Lk 1:28 (Gabriel to Mary), Matt 28:20 (Christ's parting), Acts 18:9-10 (vision to Paul) — the same יהוה עמך / κύριος μετὰ σοῦ pattern. No textual variants. The narrative purpose: introduce Boaz's character through speech (he greets workers in YHWH's name) before any physical description of his actions."
@@ -184,7 +184,7 @@
         {
           "hebrew": "מִשְּׂדֵה מוֹאָב",
           "thai": "จากแผ่นดินโมอับ",
-          "rationale": "Same construct phrase as Ruth 1:1 שְׂדֵי מוֹאָב — the plural שְׂדֵה of שָׂדֶה in this idiom means 'territory of, country of.' Per Ruth 1:1 lock: render แผ่นดินโมอับ (land of Moab), not ทุ่ง (literal field). This preserves the Ruth 1 idiomatic-place rendering."
+          "rationale": "Same construct phrase as Ruth 1:1 שְׂדֵי מוֹאָב — the singular construct שְׂדֵה of שָׂדֶה in this idiom means 'territory of, country of.' Per Ruth 1:1 lock: render แผ่นดินโมอับ (land of Moab), not ทุ่ง (literal field). This preserves the Ruth 1 idiomatic-place rendering."
         }
       ],
       "notes": "The foreman's answer surfaces Ruth's status for Boaz — and for the reader who has not yet seen her identity reaffirmed in dialogue this chapter. The Moabite identity is repeated three times in the chapter (v.2, v.6, v.21) — a narrative drumbeat reminding the reader of the social-tension that frames Boaz's eventual hesed. No textual variants."
@@ -249,7 +249,7 @@
           "rationale": "דָּבַק = 'cling, stay close' — same root used of Ruth clinging to Naomi at Ruth 1:14 (דָּבְקָה בָּהּ → ยึดมั่นแนบแน่นอยู่กับนาง). Here in chapter 2 the verb shifts to a more practical 'stay near' — Boaz is giving safety-instruction. Recurs at v.21, 23 (דְּבַק / וַתִּדְבַּק of Ruth staying near Boaz's workers). Translate as อยู่ใกล้ชิด (stay close) for the practical sense; preserve the verbal echo with Ruth 1:14 by using a near-synonym register. The 1:14 ยึดมั่นแนบแน่น (cling-firmly) and 2:8 ใกล้ชิด (stay-close) are the two register-shades of דָּבַק in this book."
         }
       ],
-      "notes": "First Boaz-to-Ruth direct address in the book. The protective-instruction sequence (v.8-9) is the chapter's pivotal hesed-act — Boaz is publicly extending kinsman-protection to a Moabite foreigner before he has even acknowledged the family connection (v.20). The protection is quasi-legal: Boaz cannot guarantee Ruth's safety in another field per uW chapter intro on v.8. The verb דָּבַק resurfaces as a structuring motif (Ruth clings to Naomi 1:14; Ruth clings to Boaz's workers 2:8, 21, 23; Ruth-Boaz marriage covenant 4:13)."
+      "notes": "First Boaz-to-Ruth direct address in the book. The protective-instruction sequence (v.8-9) is the chapter's pivotal hesed-act — Boaz is publicly extending kinsman-protection to a Moabite foreigner before Naomi identifies the family connection to Ruth (v.20). The protection is quasi-legal: Boaz cannot guarantee Ruth's safety in another field per uW chapter intro on v.8. The verb דָּבַק resurfaces as a structuring motif (Ruth clings to Naomi 1:14; Ruth clings to Boaz's workers 2:8, 21, 23; Ruth-Boaz marriage covenant 4:13)."
     }
   },
   {
@@ -303,7 +303,7 @@
         {
           "hebrew": "מָצָאתִי חֵן בְּעֵינֶיךָ",
           "thai": "ดิฉันจึงได้รับความเมตตาในสายตาของท่าน",
-          "rationale": "Same idiom as v.2 (מָצָא חֵן בְּעֵינֵי), now in direct speech with explicit eyes-imagery. In v.2 we kept the eyes-image implicit in the indirect-discourse rendering for narrative naturalness; here in direct address we render it explicitly because Ruth's question turns on the visual-relational metaphor. The Thai สายตา (gaze/sight) preserves the eyes-imagery that the rhetoric of the verse depends on. Recurs at v.13 — same explicit rendering."
+          "rationale": "Same idiom as v.2 (מָצָא חֵן בְּעֵינֵי), now in direct speech with explicit eyes-imagery. In v.2 we kept the eyes-image implicit in Ruth's request to Naomi for narrative naturalness; here in direct address we render it explicitly because Ruth's question turns on the visual-relational metaphor. The Thai สายตา (gaze/sight) preserves the eyes-imagery that the rhetoric of the verse depends on. Recurs at v.13 — same explicit rendering."
         },
         {
           "hebrew": "וְאָנֹכִי נָכְרִיָּה",
@@ -612,7 +612,7 @@
         {
           "hebrew": "יְהִי מַכִּירֵךְ בָּרוּךְ",
           "thai": "ขอชายผู้ที่เหลียวแลเจ้าได้รับพระพร",
-          "rationale": "Per uW translate-blessing: 'God, bless the one who noticed Ruth today.' Per figs-activepassive: Hiphil ptcp + jussive of בָּרַךְ — 'May the one who noticed you be blessed.' Per figs-metonymy: 'noticed' = recognized AND helped (כָּכַר Hiphil = acknowledge, recognize, treat with regard). Render as Thai blessing-formula ขอ...ได้รับพระพร ('may [he] receive blessing') with the verb เหลียวแล (to look-after/regard with care) capturing the recognize-and-help compound force."
+          "rationale": "Per uW translate-blessing: 'God, bless the one who noticed Ruth today.' Per figs-activepassive: jussive of הָיָה + Hiphil ptcp + passive ptcp of בָּרַךְ — 'May the one who noticed you be blessed.' Per figs-metonymy: 'noticed' = recognized AND helped (נָכַר Hiphil = acknowledge, recognize, treat with regard). Render as Thai blessing-formula ขอ...ได้รับพระพร ('may [he] receive blessing') with the verb เหลียวแล (to look-after/regard with care) capturing the recognize-and-help compound force."
         },
         {
           "hebrew": "וַתַּגֵּד לַחֲמוֹתָהּ ... וַתֹּאמֶר",
