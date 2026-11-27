@@ -739,10 +739,10 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/john_19.json` | 42 | `8e4895ec0fbb4fd94b0ede36df69d79e83b272ae2eeb426ed471339559654f34` | `c23d3a49` |
 | `output/translations/john_20.json` | 31 | `1379bb9aece95670f4273f32cb261d50bb85d0e6f7b34f57f6d6ce94c9715634` | `b64d4872` |
 | `output/translations/john_21.json` | 25 | `f6ec05b4ae5b48057f80c04030f55924ebe6ee76b8e1c67e44139b4e04ba859e` | `d50cea8d` |
-| `output/translations/jonah_01.json` | 16 | `2799332824b452fe9730d942bc9b759a1afd803e29a6b9715cc6165ecb1b6b7b` | `d03c3a1a` |
-| `output/translations/jonah_02.json` | 11 | `0d75d140afc7585bfb93465469d60468a568f85708cadef2d85c3eb6ac9a4b96` | `d03c3a1a` |
-| `output/translations/jonah_03.json` | 10 | `e5285c94cadbc882e371b38a1cd457fb8655da793b0e698e58a8e663bf9701b3` | `421ea6fc` |
-| `output/translations/jonah_04.json` | 11 | `0a0c165271472a0d8f9c1d5a88a163af018e322e7ff468c9599f10335c49b394` | `d03c3a1a` |
+| `output/translations/jonah_01.json` | 16 | `a6505b075adec58d66a05790477bea18624e8da941e6be58e5be0fb955b607b4` | `d03c3a1a` |
+| `output/translations/jonah_02.json` | 11 | `f42e6a05b3fb0faee4cce8c08480a8d69df5b5becdcc329f877003c976d15287` | `d03c3a1a` |
+| `output/translations/jonah_03.json` | 10 | `6de0953d71b4b7a72ff56a6776c1df8b7956097940d975549199f1432a8c043a` | `421ea6fc` |
+| `output/translations/jonah_04.json` | 11 | `333ff9e7c8c0d36f40b042c1721a61ccf230c8fa34d953b8c7b15d4720b3bf6a` | `d03c3a1a` |
 | `output/translations/joshua_01.json` | 18 | `f2b13e2f4a5b8078195f080e9290af85296c74994d04b7292df56515447a459f` | `7040ad9f` |
 | `output/translations/joshua_02.json` | 24 | `e3b9c17cd34b7da9c319d9c6fceb50fd11ec7afcb3d9af7fb2787bd3eecf9c74` | `d03c3a1a` |
 | `output/translations/joshua_03.json` | 17 | `53c47a22799cb5f8db97cdb88e477de512e4a79b06b75b8502d401201ffefd4a` | `2ce111df` |
