@@ -122,7 +122,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**24** ขอพระเกียรติจงมีแด่พระองค์ ผู้ทรงสามารถปกป้องท่านไม่ให้สะดุดล้ม และทรงนำท่านมายืนต่อหน้าพระสิริของพระองค์อย่างปราศจากตำหนิด้วยความปีติยินดี
+**24** แด่พระองค์ผู้ทรงสามารถปกป้องท่านไม่ให้สะดุดล้ม และทรงนำท่านมายืนต่อหน้าพระสิริของพระองค์อย่างปราศจากตำหนิด้วยความปีติยินดี
 
 > ___
 
@@ -138,5 +138,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/jude_01.json` | `830e0e17f058553a12d3c30af95ce0dfc8e68d4ae841849ece413ffc310bfc78` |
+| `output/translations/jude_01.json` | `3b74970868b7df263240759242f240b3aa6bb92882fbbc90abb1b6d75d60a663` |
 
