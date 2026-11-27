@@ -12,7 +12,7 @@ NT-to-OT links found: **12** / 59 verses
 - **John 8:28** — NUM 21:8-9, ISA 52:13, EXO 3:14 (allusion)
 - **John 8:35** — GEN 21:10 (allusion)
 - **John 8:41** — ISA 63:16, MAL 2:10, DEU 32:6 (allusion)
-- **John 8:44** — GEN 3:1-15, GEN 4:8, WIS 2:24 (allusion)
+- **John 8:44** — GEN 3:1-15, GEN 4:8, WIS 2:24 (composite_allusion)
 - **John 8:51** — PSA 89:48 (allusion)
 - **John 8:56** — GEN 17:17, GEN 22:1-19, GEN 22:14 (allusion)
 - **John 8:58** — EXO 3:14, ISA 43:10, ISA 43:13, ISA 43:25 (allusion)
