@@ -63,7 +63,7 @@
         {
           "greek": "αὕτη γάρ ἐστιν ἡ ἀγάπη τοῦ θεοῦ ἵνα τὰς ἐντολὰς αὐτοῦ τηρῶμεν",
           "thai": "เพราะนี่คือความรักต่อพระเจ้า คือการที่เรารักษาพระบัญญัติของพระองค์",
-          "rationale": "‘ἀγάπη τοῦ θεοῦ’ here-context = our-love-toward-God (subjective-genitive; context demands this reading because the next-clause defines the practice). Render ความรักต่อพระเจ้า — preserves the toward-God direction."
+          "rationale": "‘ἀγάπη τοῦ θεοῦ’ here-context = our-love-toward-God (objective-genitive; context demands this reading because the next-clause defines the practice). Render ความรักต่อพระเจ้า — preserves the toward-God direction."
         },
         {
           "greek": "καὶ αἱ ἐντολαὶ αὐτοῦ βαρεῖαι οὐκ εἰσίν",
@@ -88,7 +88,7 @@
         {
           "greek": "ὅτι πᾶν τὸ γεγεννημένον ἐκ τοῦ θεοῦ νικᾷ τὸν κόσμον",
           "thai": "เพราะทุกคนที่ได้บังเกิดจากพระเจ้าก็มีชัยเหนือโลก",
-          "rationale": "νικάω present → มีชัยเหนือ (matches 2:13-14 + 4:4 same lemma — Johannine-overcoming theme). γεννάω perfect-neuter → ทุกคนที่ได้บังเกิด (collective-neuter ‘every-thing-born’ → personal ‘every-one’)."
+          "rationale": "The verb νικάω appears twice in the verse with the related noun νίκη. Thai uses มีชัยเหนือ and ชัยชนะ to echo that relationship and identifies the world as the object of victory. At 2:13–14 and 4:4 the same verb is rendered ชนะ."
         },
         {
           "greek": "καὶ αὕτη ἐστὶν ἡ νίκη ἡ νικήσασα τὸν κόσμον, ἡ πίστις ἡμῶν",
@@ -158,15 +158,15 @@
     "translation": {
       "thai": "เพราะมีพยานสามฝ่าย",
       "thai_literal": null,
-      "thai_summary": "TEXTUAL ISSUE: ฉบับ KJV และ THKJV ในยุคหลังเพิ่ม ‘ในสวรรค์ พระบิดา พระวาทะ และพระวิญญาณบริสุทธิ์ และทั้งสามนี้เป็นหนึ่งเดียวกัน และมีพยานสามฝ่ายในแผ่นดินโลก’ ระหว่าง ‘มีพยานสามฝ่าย’ และ ‘คือพระวิญญาณ น้ำ และโลหิต’ — ส่วนที่เพิ่มเข้ามานี้เรียกว่า ‘Comma Johanneum’ ไม่ปรากฏในต้นฉบับภาษากรีกที่เก่าและเชื่อถือได้ที่สุด ปรากฏครั้งแรกในต้นฉบับภาษาละตินยุคกลาง และไม่มีในฉบับมาตรฐานวิจารณ์ (SBLGNT, NA28, UBS5) ฉบับเอเรมอสจึงละไว้ตามต้นฉบับวิจารณ์ — ดูบันทึกฉบับเต็มในหมายเหตุท้ายบท",
+      "thai_summary": "เอเรมอสใช้ข้อความสั้นตาม SBLGNT ข้อ 7 กล่าวว่ามีพยานสามฝ่าย และข้อ 8 ระบุว่าคือพระวิญญาณ น้ำ และโลหิต ส่วนฉบับคิงเจมส์มีข้อความเพิ่มเติมเกี่ยวกับพยานในสวรรค์ ประวัติของข้อความทั้งสองแบบอธิบายไว้ในหมายเหตุท้ายบท",
       "key_decisions": [
         {
           "greek": "ὅτι τρεῖς εἰσιν οἱ μαρτυροῦντες",
           "thai": "เพราะมีพยานสามฝ่าย",
-          "rationale": "TEXTUAL ISSUE: SBLGNT omits ‘the Comma Johanneum’ (the trinitarian-formula in heaven: Father+Word+Spirit) which the Byzantine/KJV-tradition adds-between ‘three-witnesses’ and ‘the-Spirit-water-blood.’ Per RULES §0 SBLGNT-aligned — render bare ‘three witnesses’ here. Tier 2 chapter-footer file output/textual_variants/1john_05.json documents the variant. The thai_summary makes the disposition explicit for Thai readers."
+          "rationale": "SBLGNT reads ‘there are three that testify.’ The witnesses are named in verse 8. NA28 and the Robinson–Pierpont Byzantine Textform (2018) also have the short reading. The KJV includes the longer passage about the witnesses in heaven."
         }
       ],
-      "notes": "TEXTUAL ISSUE: Comma Johanneum. SBLGNT omits the Latin-traditional Father+Word+Spirit trinitarian-formula between the three-witnesses-statement and the Spirit/water/blood specification. Tier 2 chapter-footer file documents the full variant. The thai_summary explains the variant for Thai readers (THKJV-tradition includes it; modern critical-text + standard Thai omit)."
+      "notes": "The longer passage is traditionally called the Comma Johanneum. Its Greek and Latin witnesses vary in wording. The chapter-end note describes its transmission and the reading chosen here."
     }
   },
   {
@@ -353,7 +353,7 @@
         {
           "greek": "οἴδαμεν ὅτι ἔχομεν τὰ αἰτήματα ἃ ᾐτήκαμεν ἀπ’ αὐτοῦ",
           "thai": "เราก็รู้ว่าเราได้รับสิ่งที่เราได้ทูลขอจากพระองค์",
-          "rationale": "Already-have assertion (present + perfect): the prayer-answered-status follows from-the-listening-confidence."
+          "rationale": "ἔχομεν, ‘we have,’ is present. ᾐτήσαμεν, ‘we asked,’ is aorist. เราได้รับสิ่งที่เราได้ทูลขอ expresses present confidence concerning what was asked. The condition in 5:14 concerns asking according to God’s will."
         }
       ],
       "notes": "Already-receive assurance: divine-listening guarantees prayer-fulfillment. The pastoral-confidence basis."
@@ -478,12 +478,12 @@
     "translation": {
       "thai": "เรารู้ว่าพระบุตรของพระเจ้าได้เสด็จมาแล้ว และได้ทรงประทานความเข้าใจให้เรา เพื่อเราจะรู้จักพระองค์ผู้ทรงเป็นความจริง และเราก็อยู่ในพระองค์ผู้ทรงเป็นความจริง คือในพระเยซูคริสต์พระบุตรของพระองค์ ผู้นี้แหละเป็นพระเจ้าเที่ยงแท้และเป็นชีวิตนิรันดร์",
       "thai_literal": null,
-      "thai_summary": "ข้อสุดท้ายของจดหมายคือคำยืนยันสำคัญทาง Christology — ‘ผู้นี้แหละเป็นพระเจ้าเที่ยงแท้และเป็นชีวิตนิรันดร์’ คำว่า ‘ผู้นี้’ ในประโยคสุดท้ายมีการตีความ 2 แบบ — (1) หมายถึงพระเยซูคริสต์ (สรรพนามใกล้ที่สุด) — เป็นการยืนยันความเป็นพระเจ้าของพระเยซูอย่างชัดเจน เปรียบเทียบกับ ยอห์น 1:1; 20:28 (2) หมายถึงพระบิดา (ตามบริบทกว้างของจดหมาย) นักวิชาการส่วนใหญ่และผู้แปลพระคัมภีร์อังกฤษสมัยใหม่ (NIV, ESV, CSB) เลือกการตีความที่ 1 ตามหลักไวยากรณ์กรีก (สรรพนามใกล้ที่สุด)",
+      "thai_summary": "ข้อนี้คือคำยืนยันสำคัญทาง Christology — ‘ผู้นี้แหละเป็นพระเจ้าเที่ยงแท้และเป็นชีวิตนิรันดร์’ คำว่า ‘ผู้นี้’ ในประโยคสุดท้ายมีการตีความ 2 แบบ — (1) หมายถึงพระเยซูคริสต์ (สรรพนามใกล้ที่สุด) — เป็นการยืนยันความเป็นพระเจ้าของพระเยซูอย่างชัดเจน เปรียบเทียบกับ ยอห์น 1:1; 20:28 (2) หมายถึงพระบิดา (ตามบริบทกว้างของจดหมาย) นักวิชาการส่วนใหญ่และผู้แปลพระคัมภีร์อังกฤษสมัยใหม่ (NIV, ESV, CSB) เลือกการตีความที่ 1 ตามหลักไวยากรณ์กรีก (สรรพนามใกล้ที่สุด)",
       "key_decisions": [
         {
           "greek": "ὁ υἱὸς τοῦ θεοῦ ἥκει, καὶ δέδωκεν ἡμῖν διάνοιαν ἵνα γινώσκωμεν τὸν ἀληθινόν",
           "thai": "พระบุตรของพระเจ้าได้เสด็จมาแล้ว และได้ทรงประทานความเข้าใจให้เรา เพื่อเราจะรู้จักพระองค์ผู้ทรงเป็นความจริง",
-          "rationale": "ἥκω perfect-with-present-result → ได้เสด็จมาแล้ว (royal-prefix Christological-coming). διάνοια → ความเข้าใจ. ‘τὸν ἀληθινόν’ → พระองค์ผู้ทรงเป็นความจริง — Trinitarian-or-Christological-true-One."
+          "rationale": "ἥκει (present active indicative of ἥκω, “has come and is present”) → ได้เสด็จมาแล้ว (royal-prefix Christological-coming). διάνοια → ความเข้าใจ. ‘τὸν ἀληθινόν’ → พระองค์ผู้ทรงเป็นความจริง — Trinitarian-or-Christological-true-One."
         },
         {
           "greek": "ἐσμὲν ἐν τῷ ἀληθινῷ, ἐν τῷ υἱῷ αὐτοῦ Ἰησοῦ Χριστῷ",
@@ -513,7 +513,7 @@
         {
           "greek": "Τεκνία, φυλάξατε ἑαυτὰ ἀπὸ τῶν εἰδώλων",
           "thai": "ลูกที่รักทั้งหลาย จงปกป้องตนให้พ้นจากรูปเคารพ",
-          "rationale": "τεκνία → ลูกที่รัก (final-Johannine-pastoral-address). εἴδωλον → รูปเคารพ corpus-precedent (1 COR 8:4 + 1 TH 1:9 — same Thai). φυλάσσω middle imperative-aorist → จงปกป้องตน — preserves the self-guarding sense."
+          "rationale": "τεκνία → ลูกที่รัก (final-Johannine-pastoral-address). εἴδωλον → รูปเคารพ corpus-precedent (1 COR 8:4 + 1 TH 1:9 — same Thai). φυλάσσω aorist active imperative with reflexive object ἑαυτὰ → จงปกป้องตน — preserves the self-guarding sense."
         }
       ],
       "notes": "Closing-imperative (single-verse): keep-yourselves-from-idols. The juxtaposition with v.20 (the true-God) provides the motivation — having the true-God, reject all-substitutes. εἰδώλων may include both literal-idols + the broader-Johannine ‘idolatry-as-anything-substituting-for-God’ (cf. ‘love-not-the-world’ at 2:15)."
