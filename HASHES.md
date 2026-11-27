@@ -955,7 +955,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/philemon_01.json` | 25 | `1a010fbdcae4ae43894f3cfd9d6e21376bfbc263f04dc3fa8844c856436681d4` | `7040ad9f` |
 | `output/translations/philippians_01.json` | 30 | `9bfe5ca289c38128144ad2986601d8a299d8e9b77b8036e3209fea191e72965f` | `fc0b282e` |
 | `output/translations/philippians_02.json` | 30 | `3d5776d16ec2bc8c3de8818550b54bcf90488ed8248d32de281de8ff265d81d8` | `d03c3a1a` |
-| `output/translations/philippians_03.json` | 21 | `a47474793ff98522931d49ce950a2765b3c39b0a7eddd10c3c7d70a117394625` | `4b0b01bf` |
+| `output/translations/philippians_03.json` | 21 | `cb6129552cf5635186e654b601d859e0ffe2265509efc2f32179a65d3bdb0d7c` | `4b0b01bf` |
 | `output/translations/philippians_04.json` | 23 | `dfc8adf3ad1be869a30fbc774ec94304a973b7e08805fc1c39745ab8054d9cf1` | `3442c594` |
 | `output/translations/proverbs_01.json` | 33 | `335d10c4df9a466bd84bb67192cbfee2ec8fc2072a514f040bdcae07bfb7509d` | `5e39541a` |
 | `output/translations/proverbs_02.json` | 22 | `2df6b33d35f0755ccfa48239450167199fc0adec1df40da276a3d32c53ce7a4e` | `9ddd076b` |

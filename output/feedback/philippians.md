@@ -314,7 +314,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**10** เพื่อจะรู้จักพระองค์ และฤทธิ์อำนาจแห่งการคืนพระชนม์ของพระองค์ และการมีส่วนในการทรงทนทุกข์ของพระองค์ โดยเป็นผู้ที่ทรงรูปแบบเดียวกับการสิ้นพระชนม์ของพระองค์
+**10** เพื่อจะรู้จักพระองค์ และฤทธิ์อำนาจแห่งการคืนพระชนม์ของพระองค์ และการมีส่วนในการทรงทนทุกข์ของพระองค์ โดยได้รับการหล่อหลอมให้มีรูปแบบเดียวกับการสิ้นพระชนม์ของพระองค์
 
 > ___
 
@@ -468,6 +468,6 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 |---|---|
 | `output/translations/philippians_01.json` | `9bfe5ca289c38128144ad2986601d8a299d8e9b77b8036e3209fea191e72965f` |
 | `output/translations/philippians_02.json` | `3d5776d16ec2bc8c3de8818550b54bcf90488ed8248d32de281de8ff265d81d8` |
-| `output/translations/philippians_03.json` | `a47474793ff98522931d49ce950a2765b3c39b0a7eddd10c3c7d70a117394625` |
+| `output/translations/philippians_03.json` | `cb6129552cf5635186e654b601d859e0ffe2265509efc2f32179a65d3bdb0d7c` |
 | `output/translations/philippians_04.json` | `dfc8adf3ad1be869a30fbc774ec94304a973b7e08805fc1c39745ab8054d9cf1` |
 
