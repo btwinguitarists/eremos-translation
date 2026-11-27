@@ -656,6 +656,8 @@ _This reader edition shows the Thai translation and the contextual summary (บ�
 
 **32** พวกเขาก็พากันอัศจรรย์ใจในคำสอนของพระองค์ เพราะพระวจนะของพระองค์เปี่ยมด้วยสิทธิอำนาจ
 
+> _บริบท: ผู้ฟังในเมืองคาเปอรนาอุมประหลาดใจในคำสอนของพระเยซู เพราะพระดำรัสของพระองค์มีสิทธิอำนาจ ส่วนคำประกาศว่าพระคัมภีร์สำเร็จแล้วนั้น พระองค์ตรัสก่อนหน้านี้ในเมืองนาซาเร็ธ (4:21)_
+
 **33** ในธรรมศาลามีชายคนหนึ่งซึ่งมีวิญญาณผีโสโครกสิงอยู่ เขาร้องเสียงดังว่า
 
 **34** “โอ๊ย เรามีเรื่องอะไรกับท่าน พระเยซูชาวนาซาเร็ธ? ท่านมาเพื่อทำลายพวกเราหรือ? เรารู้ว่าท่านเป็นใคร — องค์บริสุทธิ์ของพระเจ้า!”
@@ -3631,7 +3633,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/luke_01.json` | `d5d276c6ea8ac7f4d717102a8283698d79a19580fda7070a512fc647ded5d2c1` |
 | `output/translations/luke_02.json` | `063e24df409b772dccfe9a27f1cea0947f2b69542940790bc78c90ad4c731e90` |
 | `output/translations/luke_03.json` | `18838c65cb57373f75f7f0d9d2fd812ecb203fb282389e48a28226bc610cdb5a` |
-| `output/translations/luke_04.json` | `b73acc980185dfab1c1f2236746306e48b2320aa29f3f719182e4d6b3af9202e` |
+| `output/translations/luke_04.json` | `37efb4de501e026980c9187916c162a0ecac39f8b4a6dcf0c40be33ca63327f4` |
 | `output/translations/luke_05.json` | `b3b5160486acc88ca3a09cc51ca249e81062e0f7bb158b5885ceb8f589bddc4f` |
 | `output/translations/luke_06.json` | `d086b1c3e974e68d6718f059bf34a06ff3b750b0cc9f63e72f385b2dad512546` |
 | `output/translations/luke_07.json` | `98d9699c665150f0b20323eb3e5535ca09d732e05d39af8ade7806e2d4efefdb` |
