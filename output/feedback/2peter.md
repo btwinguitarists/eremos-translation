@@ -158,7 +158,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**11** ในขณะที่แม้แต่บรรดาทูตสวรรค์ที่มีกำลังและฤทธานุภาพมากกว่า ก็ไม่กล่าวคำพิพากษาเชิงดูหมิ่นต่อพวกเขาต่อหน้าองค์พระผู้เป็นเจ้า
+**11** ในขณะที่แม้แต่บรรดาทูตสวรรค์ที่มีกำลังและฤทธานุภาพมากกว่า ก็ไม่กล่าวคำพิพากษาเชิงดูหมิ่นต่อพวกเขา[ต่อหน้าองค์พระผู้เป็นเจ้า]
 
 > ___
 
@@ -194,7 +194,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**20** เพราะถ้าเมื่อพวกเขาได้หลีกเลี่ยงความเสื่อมทรามของโลกโดยทางความรู้ที่แท้จริงของพระเยซูคริสต์องค์พระผู้เป็นเจ้าและพระผู้ช่วยให้รอดของเรา แล้วก็กลับเข้าไปพัวพันและถูกเอาชนะอีกครั้ง สภาพสุดท้ายของพวกเขาก็เลวร้ายกว่าสภาพแรก
+**20** เพราะถ้าเมื่อพวกเขาได้หลีกเลี่ยงความเสื่อมทรามของโลกโดยทางความรู้ที่แท้จริงของพระเยซูคริสต์องค์พระผู้เป็นเจ้าและพระผู้ช่วยให้รอด[ของเรา] แล้วก็กลับเข้าไปพัวพันและถูกเอาชนะอีกครั้ง สภาพสุดท้ายของพวกเขาก็เลวร้ายกว่าสภาพแรก
 
 > ___
 
@@ -290,7 +290,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/2peter_01.json` | `78e10ed4690d414cd428bb32e3b12df13787f6bdce74e54828bc9c7a2682c0f7` |
-| `output/translations/2peter_02.json` | `27ed1281bc79606e9035201a0c14f9a93f4f353b667347447480882cb82d62bf` |
-| `output/translations/2peter_03.json` | `6946b13ac0f25be1fc935e45b9f2d64f36344f07a34c34ae88f1ee4aecb9a8d3` |
+| `output/translations/2peter_01.json` | `ac633681bbeadfe7ea80d59b174229f1eafbdc8617d80419abfa5df997fc6c18` |
+| `output/translations/2peter_02.json` | `eabdf98cb4d8cfcec4eeb3e6874a09c79b8d897d054d0c21c4dda44e69784142` |
+| `output/translations/2peter_03.json` | `27d711a0c470111174e3e1b8fe11d3dc2b689dc6bbbedfc046a1afcd4ec0632a` |
 
