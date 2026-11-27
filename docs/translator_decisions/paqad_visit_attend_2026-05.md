@@ -30,7 +30,7 @@ When a translator encounters פָּקַד in a new context, apply this decision-
 3. **Is the construction a הִפְקִיד עַל ("appoint over") or similar X-over-Y syntax?** → Sense (3) ทรงแต่งตั้ง
 4. **Is the subject God + the object sin/wickedness/wrongdoing + the discourse-frame punitive (judgment-frame)?** → Sense (4) ทรงลงโทษ
 
-The four senses are mutually exclusive in practice — a single occurrence falls cleanly into one of the four. Edge cases (e.g., God "visiting" in a context that is **simultaneously** benevolent-to-Israel and punitive-to-Egypt, as in Ex 32:34) are flagged at the verse-level KD and resolved by the dominant discourse-direction.
+The four senses are mutually exclusive in practice — a single occurrence falls cleanly into one of the four. Where senses overlap, the verse-level decision should explain which sense the discourse supports. In Exodus 32:34 God promises to call the people to account for their sin with the golden calf. This occurrence belongs under judgment.
 
 ---
 

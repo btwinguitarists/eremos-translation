@@ -11,7 +11,7 @@ Mode: in-chat (Claude-produced back-translations) | Threshold: 0.35
 ## ℹ Low similarity — rationale documented (intentional divergence)
 
 - **Exodus 18:2** (sim=0.27)
-  - Thai: เยโธรพ่อตาของโมเสสได้รับเศปโปราห์ภรรยาของโมเสส หลังจากที่โมเสสส่งเธอกลับไป
+  - Thai: เยโธรพ่อตาของโมเสสได้รับศิปโปราห์ภรรยาของโมเสส หลังจากที่โมเสสส่งเธอกลับไป
   - Back: Jethro the father-in-law of Moses received Zipporah the wife of Moses, after Moses had sent her back.
   - BSB:  After Moses had sent back his wife Zipporah, his father-in-law Jethro had received her,
 

@@ -492,3 +492,9 @@ Sized for ~20K-char free-tier AI ceilings per `scripts/build_external_review_pac
 **5 new translator_decisions docs recommended** (pharaoh_heart_hardening, decalogue_thai_lock, malak_yhwh, ot_polytheistic_register, kapporet_atonement_cover).
 
 **2 existing translator_decisions docs to amend** (divine_names_table for YHWH-paraphrastic-self-titles; exod_34_attribute_formula for the check-script extension).
+
+**Editorial update, November 2026.** The Zipporah and Eliezer spellings in Exodus 18 now agree with the names listed in §12 and their other narrative appearances.
+
+**Editorial update, November 2026.** At 21:5 the infinitive absolute and verb are אָמֹר יֹאמַר, from “say.” The following אָהַבְתִּי means “I love.”
+
+**Editorial update, November 2026.** The historical table at §6 lists คนต่างถิ่น at Exodus 22:21. At Hebrew Exodus 22:20 (22:21 in common English editions), the Thai instead says คนต่างด้าวที่อยู่อาศัย and then คนต่างด้าว.
