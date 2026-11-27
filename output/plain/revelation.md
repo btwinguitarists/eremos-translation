@@ -908,13 +908,13 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/revelation_01.json` | `f8c44ca832defc20b54fb1aa020e42da7c457fd35c911a966567168c5839a483` |
-| `output/translations/revelation_02.json` | `e5cc02b5327b7137981183ded4f2a4e7a6188444971bb6a12a6c8813e8420414` |
-| `output/translations/revelation_03.json` | `44772186a6c310b3fddace25718da1d2bf9bb1eac36fd55a504199ded6b7dcf7` |
-| `output/translations/revelation_04.json` | `dee85a451edb896250a42f983b8b51dbbce5e3505485ab82b34229030701673c` |
-| `output/translations/revelation_05.json` | `bfbdc8f32c6f7d301597901661d11a24a3569970e76dea3b17e1122c3f167227` |
-| `output/translations/revelation_06.json` | `7f1c3bbe54d9b70ccbca70ce692fcc144f36c552f34eac3aeec5fde514a57425` |
-| `output/translations/revelation_07.json` | `331fb98364d42388c646dcddf5a18f2f36dfc49bb43ea5bc4234b534645e04e7` |
+| `output/translations/revelation_01.json` | `23c556483a074fb98a5f569d40fbbf3c799536caab6072860ed3e9ff6c1d91ab` |
+| `output/translations/revelation_02.json` | `6bbd8cf1a7fe8488af5a80c5e735b9c2e2d61839fd5a4f30c638abd780bf6976` |
+| `output/translations/revelation_03.json` | `9a506f95e9478fa4a1a112d275b47bc57a31bc5d3aa1d0dc3841abf1d37ca482` |
+| `output/translations/revelation_04.json` | `4d87b7c7378627247e0a1bbfdf7e2b310b7256c2a1a66598143b6e2fa9a520c7` |
+| `output/translations/revelation_05.json` | `17e0af1c0d9c423fce5373becf3cdcfd00ad8db9b40b3f9750e74d5a4c687e59` |
+| `output/translations/revelation_06.json` | `317a6c22cdd3210140e0164b0ac48495f89272efea45922798f7b407f1bedd0b` |
+| `output/translations/revelation_07.json` | `3166c472215264605ca59c9600b71f86d2091eaf4ad5f69d1529c05002052404` |
 | `output/translations/revelation_08.json` | `c284a7d87340c57de9bba79ed9673dd72d707483ae5ec6892444cd88d0e86fa6` |
 | `output/translations/revelation_09.json` | `7c21baa45b71527c44a8a0d2b8b0df92936a2c7a048d7248721d65db35911e69` |
 | `output/translations/revelation_10.json` | `3983cfab0d2b11fe615d483f663af726dcfc7595ce2f4b976ed4ccea4fb56f6c` |
@@ -927,7 +927,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/revelation_17.json` | `2a4efa7f3a3c7512699f0fe63f7deeee2e44845b212ed320ec15cbba9955c7f6` |
 | `output/translations/revelation_18.json` | `5db9fc1219a5b8ea31dfb2346b602090a4d31372c8ca1a58bb1225edf0a96e43` |
 | `output/translations/revelation_19.json` | `af20699c4505a1b3d72d3eb37f518054fc704e8be15660bc1667454ae04064b9` |
-| `output/translations/revelation_20.json` | `d1b3ecb5db2a6f08ef0616ce732dfe51421862721a7901147030120677f09266` |
+| `output/translations/revelation_20.json` | `260661aa83e200d250e89a9059696871af1a6bf1a0b7d6533aca671c3a03830d` |
 | `output/translations/revelation_21.json` | `0309d34410e3dde066f3472b91077d9e3d7dfdb696f1e14f6210515d1c41911f` |
 | `output/translations/revelation_22.json` | `c289bee955f93621ffd5f16f155a864f2ddc346205037f24873bdf0dcb69f0e9` |
 
