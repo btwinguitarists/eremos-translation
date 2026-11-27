@@ -2666,7 +2666,7 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 > ___
 
-**4** เพราะแม้เจ้านายของเขาจะอยู่ที่โศอัน และทูตของเขาไปถึงเมืองฮาเนสแล้ว
+**4** เพราะแม้เจ้านายของเขาจะอยู่ที่โซอัน และทูตของเขาไปถึงเมืองฮาเนสแล้ว
 
 > ___
 
@@ -6090,15 +6090,15 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/isaiah_01.json` | `06f9c6aa67086fde760a70a36e205b594b88b6e5699ac556d440b324002681f0` |
+| `output/translations/isaiah_01.json` | `061af931c4bcc363e4264edde033fb65df1c57f4d20df0d6b19a24ceac606ec1` |
 | `output/translations/isaiah_02.json` | `b5771f7f6ae768851f7ec6a8d72d44659d5c29041687ecbd6543a64131a630bf` |
 | `output/translations/isaiah_03.json` | `75f90571d7ea56e9e53cd817c57f33635aec725e003cbfb5a160429864e3361b` |
 | `output/translations/isaiah_04.json` | `d8a8b3f6c47cd7fa760e83944de9734be19b4cb7cc24dc0545dc64c6660c61e4` |
 | `output/translations/isaiah_05.json` | `94a2009256be2e875e6b7d168ef1b7d3c31d3f4551fdec004d928b90315df76c` |
-| `output/translations/isaiah_06.json` | `6efc258cf79dce897fa71321f16efdf9e2bd8875be42d9fe85b84e4b75a72a12` |
+| `output/translations/isaiah_06.json` | `716afdac75166eb41c3d8759c2bdc9dcf5bda8722317257c94807a513b4587a2` |
 | `output/translations/isaiah_07.json` | `b2cf107578e9b6bd3f42c58b2bc8afd319bd0c2d56dbe21ea006f953e017be06` |
 | `output/translations/isaiah_08.json` | `a14bc6039f8809521f63e2b1e61b2d10e425647d9573362feb1afd059f389a99` |
-| `output/translations/isaiah_09.json` | `6d28c86ae7f2f355cb3459effae87fdae1146003d414a0a47c8864ad1d76cc40` |
+| `output/translations/isaiah_09.json` | `8905a9b01a65bec115daa580382ef712b0bade3fa4843a5a6b62249d44eea379` |
 | `output/translations/isaiah_10.json` | `1d9cd7f4b1022ed1290c86e183fbd11559dd0235eeb68655b10fec724a453983` |
 | `output/translations/isaiah_11.json` | `33444c5160b72d9bf9ca18a0eb1c032f37b98cbef4e46840a6e0e29c642fa532` |
 | `output/translations/isaiah_12.json` | `71808c84dd02f7391de8105658008c8c404dd85eebd25d2711d75a55974a4e0d` |
@@ -6113,47 +6113,47 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/isaiah_21.json` | `97bf4edb42482b6a1f28f783ac1e14a5b25ce36600267fab71191c19dd0311ff` |
 | `output/translations/isaiah_22.json` | `297838407622833ae748c2ed36517fc86a87659f08ea9803529ac98721400703` |
 | `output/translations/isaiah_23.json` | `9e57d6849800e7c7885f3bc13378aaf66fdff0e9435602dc0f41fd174da5a592` |
-| `output/translations/isaiah_24.json` | `6b7ea34db3fbeb5228ae513fa69214c778d3e2e63477dd671710e847a665e7be` |
-| `output/translations/isaiah_25.json` | `13f38dc6499c1d4e299e1812cb5e4bebb758483b4ba647a1337b066ef2e8f481` |
+| `output/translations/isaiah_24.json` | `a98d5c0e3fd243421de7846e8189a41c9430bc7e00da6c34a5aed8aabaaa0756` |
+| `output/translations/isaiah_25.json` | `5ae525d9b2ec51812c7665fc825ce4cc5030c566a39ee7e0ae7a700944b9b198` |
 | `output/translations/isaiah_26.json` | `cce3d255d49468d6b20532de3a3726a2d59580bd494308417ddc11ba01974bba` |
 | `output/translations/isaiah_27.json` | `ed51aa7b684ed59400b1aedf847c92b03cc1cad89b99c7cf782f24d1e1dd1040` |
-| `output/translations/isaiah_28.json` | `ed607e4cf64db418a77ecbcfdec5c265dc7c17fb6a834649a4251dd10ac7dc6c` |
+| `output/translations/isaiah_28.json` | `979b4342e1fed82513d81e884488173ae01457efa04519fe5134977bb05bd6ee` |
 | `output/translations/isaiah_29.json` | `853ca8d765d93843ab7fe9136d3808b2c6a4b864b15e358a130bef8c865cd29e` |
-| `output/translations/isaiah_30.json` | `e065d740f8e30f9b7b51c7811b0da007b41f92e3e917a1510f2dcb4b9461f90d` |
+| `output/translations/isaiah_30.json` | `a923b0656c7979cd0c2d307716fd179594f44c6665848f4023483a65dcde289a` |
 | `output/translations/isaiah_31.json` | `44798eeb46bd3c1201cd4d5e0a773c2ea664c7a5a39321ba7eaf5dfebae4d61d` |
-| `output/translations/isaiah_32.json` | `a04308df4eb14e9aa35c950bbf528baea8b0d147c1484033228da6b0f23c4824` |
-| `output/translations/isaiah_33.json` | `d5ee5fe05690995ef11e51c266f482a3558e55f4108583c64024baaea9f0ba1a` |
+| `output/translations/isaiah_32.json` | `89a08bfef83a4624163e903ffd07b3f5e00332b13c66904a505f6fc4d7f95c82` |
+| `output/translations/isaiah_33.json` | `51a8b50656a3b993ca8839fa237e8a4c4738a308a4204dcaf10ffac29d210f44` |
 | `output/translations/isaiah_34.json` | `b7573a651fd5d416b97740d3ee3c88f7a750cbd133bd744960da35ae895f999f` |
 | `output/translations/isaiah_35.json` | `d882749d25da3007d3dcd280b279105a3f2a3d4768527605982a3e5543b012b1` |
-| `output/translations/isaiah_36.json` | `356831d0729ca3462e39762fec45310450142fc5f68011337a7cfa437cbcd685` |
-| `output/translations/isaiah_37.json` | `e00db52f238474e71962323eeed3e8bf392db18c8db479c681b95ceaa2186b74` |
+| `output/translations/isaiah_36.json` | `bbb166e8e680bfc93f837ca24cd567fe13f14e29d51f8c78a814b8042ecd0143` |
+| `output/translations/isaiah_37.json` | `8c4d35d5bf3629f07f5a23f38b105112aeb2d24cdc5a29834e9f3719c72bfb99` |
 | `output/translations/isaiah_38.json` | `4593b85010a96934867c4d1bf52c0241d09e85d3bc711e410559ed343b5f321c` |
 | `output/translations/isaiah_39.json` | `61f0b943c6aca0e48120b2fb4f75b920c2b253e1c969bb238d8eec56eeb76b84` |
-| `output/translations/isaiah_40.json` | `88f6cfe79c29d029c96d24292c497575654efae6539d3251c4bf0ab22720d5bc` |
-| `output/translations/isaiah_41.json` | `108183d59d12f976429ec9c68fd6de88b469f770239790b0191e6568b8d0e047` |
-| `output/translations/isaiah_42.json` | `df3b474279013babbde7eea985f910ce696215663799fd880fc21d7223b373da` |
+| `output/translations/isaiah_40.json` | `5dcacbe490ac0e7047804300a48cffa0c4c057870a0ca91584827dfc4d33d098` |
+| `output/translations/isaiah_41.json` | `d3367a7633f39b50650b1fd177ad59c3d0c81ff0b21f03f9efbc4b9fac4c8a95` |
+| `output/translations/isaiah_42.json` | `62fee797d455d0191ea1a8f996fd6a6d9645dc4b2b68e597b04aaedd5b95c364` |
 | `output/translations/isaiah_43.json` | `2f4bf59d43ba5cbfea671b185c8a4db073b7c60ee377e02f3b6e98e98aac1b13` |
-| `output/translations/isaiah_44.json` | `27a1db23de2c4e57c8d08d13c38bc0355afdf61065e3b752c6c585048e61f9e9` |
+| `output/translations/isaiah_44.json` | `8c0d6796463298b47b2d8f8d914d864135b83072d1f986fdb5182c7863c50473` |
 | `output/translations/isaiah_45.json` | `7d42e829b49c9c0b8dbeb54c87a4f6d4ac01907ea0523d09e4fe737195ce1d89` |
 | `output/translations/isaiah_46.json` | `6262a30cc2a3bce50d61bc3fa7ddfc93dee7c6789a72a2e6f33ce4156254c3b9` |
-| `output/translations/isaiah_47.json` | `5c445065438f67653f4f0ce9a3d14509c0c1a78467516f4e75e7d7067d25ea4d` |
-| `output/translations/isaiah_48.json` | `3b6b4ccf491d00035fd15d40950896711e6b40508a86ea340ac6db2d3fe7c332` |
+| `output/translations/isaiah_47.json` | `428ddcf762f5c183c972c5a263dfcfd1b341334669e54eca9e7464084a6aace8` |
+| `output/translations/isaiah_48.json` | `743b5183d7114399369b285981e00e526e3747e8ddd391564aa0355e2591850f` |
 | `output/translations/isaiah_49.json` | `c02b25ccbe58bb0b654a1fbd38b1c76511b1df3ad46f1b5bfe93250c6d289044` |
-| `output/translations/isaiah_50.json` | `4fb20a55139ef858190899ac69bec6cafbb21530a7e597775f0ee68b1edc0cf2` |
+| `output/translations/isaiah_50.json` | `8f69e6a4b9b35d5b50584abff9499348e79eb5bfe5fc43aaed8342cc8e81b39a` |
 | `output/translations/isaiah_51.json` | `b2f35fe9d5a38d55b0d0db8860b10176c4cd74c9e36ad2d45df3a09be4fbc66a` |
 | `output/translations/isaiah_52.json` | `9f721f187c9064de482e85cea39e58bc0b0404dfcacc170863bda44c0e398c42` |
-| `output/translations/isaiah_53.json` | `51920c27088e493904e0328dad53a84c764ca6cb914cea07a153bae41b0c071c` |
-| `output/translations/isaiah_54.json` | `408f521b33d71c5af59ae6e2ce0dc6a9abe2597fcdcd5578f056a8a0b9e9813d` |
-| `output/translations/isaiah_55.json` | `90c24cf3695614f69acb92236f16a21a35b51a1ca184377532cddcbabbc058d7` |
+| `output/translations/isaiah_53.json` | `b77ddbc2ce3f7d7b1729feada0dd515911e9ddd03bc8954db3e1fc9cded34fc0` |
+| `output/translations/isaiah_54.json` | `f78b220f4d41a90053ba4a4003566a4d0c827a088a324f15da7569bf1630e56e` |
+| `output/translations/isaiah_55.json` | `6e5a3cad0a84a60a5c8c690aa29e2bfaf2c2b7a423196c94882a7d03df307da6` |
 | `output/translations/isaiah_56.json` | `294feaa3e02abb5b0ece176b85533729c150808682e13c8b6fcc6e79cb835050` |
-| `output/translations/isaiah_57.json` | `5381301d590de7d2512e4457a4363c75122b217dfc8229d08e258ca7053a151a` |
-| `output/translations/isaiah_58.json` | `befe9681dc993686247ebc771f1543b994a09bde360be0385c97cdc56bc274e4` |
-| `output/translations/isaiah_59.json` | `07144c62ee46abfb9c3316813133120de0f226a1555ae1ac8523e699db6530d4` |
+| `output/translations/isaiah_57.json` | `24e7611cd5b98887cb69ccc7e16cc4812b49e5a87d98669290439bf4021c9ee7` |
+| `output/translations/isaiah_58.json` | `03d1bef0f54d7e29866ed3e3ebdd9f596b4904bf2344feeba062e71a598971ab` |
+| `output/translations/isaiah_59.json` | `6175d8b3f4ba4b4aaf89a728958a2cbc4439d7e2c16e3abcf5dec0e6cdba2711` |
 | `output/translations/isaiah_60.json` | `44dfaf8cbf1ced7868e036219eb6e24a64ce9fc9fd8dba619714e66e9c621e08` |
-| `output/translations/isaiah_61.json` | `7ba6b17cb01c5188842b11bb4621834bd0deb97e955db5f7e3f271ef1d3778d2` |
+| `output/translations/isaiah_61.json` | `0f6ec98e3cd5a7f41742404221f5e9a0610f7bf17c321b85baa1ca86108ad171` |
 | `output/translations/isaiah_62.json` | `7fb240bb2df907f938c6ee7f55929d55d83cd4b6d9e80f7642c27aa84cb1e0bc` |
-| `output/translations/isaiah_63.json` | `01d56be082d1d63a4841306f9746cada508d5381cb97ff837ba83994a26d0762` |
-| `output/translations/isaiah_64.json` | `ae3f7cd8e668d43c735eb0a06d4246fdc03e1406d827b4f21baafc0a83de8b91` |
+| `output/translations/isaiah_63.json` | `4cfb7a7783bb2ae6311d492e9d122c179062d0f57a7c3d9221571a25f5dc7cbf` |
+| `output/translations/isaiah_64.json` | `4f8cf5f2c309e41f9154735f22530f1cf4292cf15a5dcff8c5754e68cb7a7e05` |
 | `output/translations/isaiah_65.json` | `9ea4ae23287b5c6dd4e3ca06e877d623947b262051ac51b0da2d20287195ef6b` |
-| `output/translations/isaiah_66.json` | `04b951440fb659a507a082b76052509bc9e120bb6dfd7637439dde8cd633d903` |
+| `output/translations/isaiah_66.json` | `03881402ffe320c852ce18349c9e3ab7d8b1ce5818b7775a3fd9ada652bc12cf` |
 
