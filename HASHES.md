@@ -1164,7 +1164,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/romans_02.json` | 29 | `a00582a5dfe3c40c6f2b0389708b2fef51c45c9ff1fc9fef6cf2112c2c653446` | `a3330b8e` |
 | `output/translations/romans_03.json` | 31 | `f92ccff6f1c06bcc073946a515b061f4d7a69c87e57d4eb1eb3722a55dd6cc4a` | `a3330b8e` |
 | `output/translations/romans_04.json` | 25 | `693fe7f9ad14218a1cb21365defa980c21f1665152fd6cf9bfb9c4a4599e1fd8` | `a3330b8e` |
-| `output/translations/romans_05.json` | 21 | `a9f1c19b4b5303d0e750b9ffa3c10e59cdc7c1ac4074a89fc4bf418b926aa7f9` | `a3330b8e` |
+| `output/translations/romans_05.json` | 21 | `61333f2666844ddd573c401b7be14203e039d93d3722a93afe65d93826015a82` | `a3330b8e` |
 | `output/translations/romans_06.json` | 23 | `53733aa5bad47a955adac82a8a4026db557cefa449da09a6f0a934b8738e19c6` | `cf6bd38f` |
 | `output/translations/romans_07.json` | 25 | `4c533c6be14eaae275ab4cf7fa92696e2a66368c843bab2db215a5d0fd20e5b6` | `b64d4872` |
 | `output/translations/romans_08.json` | 39 | `233d60bbbdc7e8b4ba6e0b3db662929d60a2f85c4a672b730bcb6a62ea81f1d1` | `d03c3a1a` |
@@ -1172,7 +1172,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/romans_10.json` | 21 | `2abc4d3cab8a5a397333f00b2ed630f6cf25744235c95a65b268aa73ce1b2025` | `73ccfe79` |
 | `output/translations/romans_11.json` | 36 | `770a14a5a7c7e2be08d6dc829c3cccf7fe4c94a076757370d03997a8877380ed` | `73ccfe79` |
 | `output/translations/romans_12.json` | 21 | `b2a70fd8c7d95a6f7eaddbc0c74880060c708718b3d2ac951ef24f8d9a0c88fb` | `73ccfe79` |
-| `output/translations/romans_13.json` | 14 | `14c76cce36b87a0da59a1422f56c170102c31f71c34d32e198745a0e0ea5dc3e` | `f6bc480f` |
+| `output/translations/romans_13.json` | 14 | `2ffdcd59ad20059c6bc87603e1e8ed0d18663d59cb473cad7c701931dcb8e3e2` | `f6bc480f` |
 | `output/translations/romans_14.json` | 23 | `eddfe55da9e67558983f68d1cfd309a95eccc7a36a5e6de9bc72fac3321105fd` | `b64d4872` |
 | `output/translations/romans_15.json` | 33 | `cc1848963b730debd50fcd5b3d2de2347f127fdc6c001fa7357c709daca5518b` | `b64d4872` |
 | `output/translations/romans_16.json` | 27 | `b2d13dc5c631561dacb0e3679657b56cb804357b496002178ba0731bd62db25b` | `9f851ef9` |

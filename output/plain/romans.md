@@ -276,7 +276,7 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **9** ฉะนั้น เมื่อบัดนี้เราถูกประกาศว่าชอบธรรมโดยพระโลหิตของพระองค์แล้ว ยิ่งกว่านั้นมากเพียงใด เราจะรอดพ้นจากพระพิโรธโดยทางพระองค์
 
-**10** เพราะถ้าในขณะที่เราเป็นศัตรู เราทรงคืนดีกับพระเจ้าผ่านการสิ้นพระชนม์ของพระบุตรของพระองค์ ยิ่งกว่านั้นมากเพียงใด เมื่อเราทรงคืนดีแล้ว เราจะรอดโดยพระชนม์ชีพของพระองค์
+**10** เพราะถ้าในขณะที่เราเป็นศัตรู เราได้รับการคืนดีกับพระเจ้าผ่านการสิ้นพระชนม์ของพระบุตรของพระองค์ ยิ่งกว่านั้นมากเพียงใด เมื่อเราได้รับการคืนดีแล้ว เราจะรอดโดยพระชนม์ชีพของพระองค์
 
 **11** ไม่เพียงเท่านั้น เรายังชื่นชมยินดีในพระเจ้าผ่านพระเยซูคริสต์องค์พระผู้เป็นเจ้าของเรา — ผ่านพระองค์เราได้รับการคืนดีบัดนี้แล้ว
 
@@ -728,7 +728,7 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 ## บทที่ 13
 
-**1** ทุกชีวิตจงยอมจำนนต่ออำนาจปกครองที่อยู่เหนือ เพราะไม่มีอำนาจใดเว้นแต่จากพระเจ้า — และอำนาจที่ดำรงอยู่ก็ทรงแต่งตั้งไว้โดยพระเจ้า
+**1** ทุกชีวิตจงยอมจำนนต่ออำนาจปกครองที่อยู่เหนือ เพราะไม่มีอำนาจใดเว้นแต่จากพระเจ้า — และอำนาจที่ดำรงอยู่ก็ได้รับการแต่งตั้งจากพระเจ้า
 
 **2** ฉะนั้น ผู้ที่ต่อต้านอำนาจ ก็ต่อต้านสิ่งที่พระเจ้าทรงตั้งขึ้น และผู้ที่ต่อต้านจะนำการพิพากษามาสู่ตนเอง
 
@@ -946,7 +946,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/romans_02.json` | `a00582a5dfe3c40c6f2b0389708b2fef51c45c9ff1fc9fef6cf2112c2c653446` |
 | `output/translations/romans_03.json` | `f92ccff6f1c06bcc073946a515b061f4d7a69c87e57d4eb1eb3722a55dd6cc4a` |
 | `output/translations/romans_04.json` | `693fe7f9ad14218a1cb21365defa980c21f1665152fd6cf9bfb9c4a4599e1fd8` |
-| `output/translations/romans_05.json` | `a9f1c19b4b5303d0e750b9ffa3c10e59cdc7c1ac4074a89fc4bf418b926aa7f9` |
+| `output/translations/romans_05.json` | `61333f2666844ddd573c401b7be14203e039d93d3722a93afe65d93826015a82` |
 | `output/translations/romans_06.json` | `53733aa5bad47a955adac82a8a4026db557cefa449da09a6f0a934b8738e19c6` |
 | `output/translations/romans_07.json` | `4c533c6be14eaae275ab4cf7fa92696e2a66368c843bab2db215a5d0fd20e5b6` |
 | `output/translations/romans_08.json` | `233d60bbbdc7e8b4ba6e0b3db662929d60a2f85c4a672b730bcb6a62ea81f1d1` |
@@ -954,7 +954,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/romans_10.json` | `2abc4d3cab8a5a397333f00b2ed630f6cf25744235c95a65b268aa73ce1b2025` |
 | `output/translations/romans_11.json` | `770a14a5a7c7e2be08d6dc829c3cccf7fe4c94a076757370d03997a8877380ed` |
 | `output/translations/romans_12.json` | `b2a70fd8c7d95a6f7eaddbc0c74880060c708718b3d2ac951ef24f8d9a0c88fb` |
-| `output/translations/romans_13.json` | `14c76cce36b87a0da59a1422f56c170102c31f71c34d32e198745a0e0ea5dc3e` |
+| `output/translations/romans_13.json` | `2ffdcd59ad20059c6bc87603e1e8ed0d18663d59cb473cad7c701931dcb8e3e2` |
 | `output/translations/romans_14.json` | `eddfe55da9e67558983f68d1cfd309a95eccc7a36a5e6de9bc72fac3321105fd` |
 | `output/translations/romans_15.json` | `cc1848963b730debd50fcd5b3d2de2347f127fdc6c001fa7357c709daca5518b` |
 | `output/translations/romans_16.json` | `b2d13dc5c631561dacb0e3679657b56cb804357b496002178ba0731bd62db25b` |
