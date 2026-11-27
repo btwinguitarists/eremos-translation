@@ -2306,7 +2306,7 @@ _This reader edition shows the Thai translation and the contextual summary (บ�
 
 **21** บุตรจึงกล่าวแก่บิดาว่า ‘บิดาเจ้าข้า ข้าพเจ้าได้ทำบาปต่อฟ้าสวรรค์และต่อท่าน ข้าพเจ้าไม่สมควรที่จะได้ชื่อว่าเป็นบุตรของท่านอีกต่อไป’
 
-> _บริบท: บุตรกล่าวคำสารภาพที่เขาเตรียมไว้ในข้อ 18-19 แต่สังเกตว่า เขาไม่ได้พูดประโยคสุดท้าย “ขอให้ข้าพเจ้าเป็นลูกจ้างของท่าน” บิดาขัดจังหวะเขาก่อน (ข้อ 22) ด้วยคำสั่งให้คนรับใช้เอาเสื้อคลุม แหวน และรองเท้ามา — สัญลักษณ์ของการคืนฐานะเป็นบุตร ไม่ใช่ลูกจ้าง_
+> _บริบท: บุตรสารภาพความผิดและยอมรับว่าตนไม่สมควรได้ชื่อว่าเป็นบุตร ในข้อความที่เอเรมอสใช้ เขาไม่ได้กล่าวต่อถึงการขอเป็นลูกจ้างอย่างที่เตรียมไว้ในข้อ 19 ต้นฉบับกรีกอีกกลุ่มหนึ่งมีคำขอนั้นด้วย ลูกาเล่าต่อถึงสิ่งที่บิดากระทำโดยไม่ได้ระบุว่าบิดาพูดแทรก_
 
 **22** แต่บิดาสั่งเหล่าบ่าวของตนว่า ‘จงรีบเอาเสื้อคลุมตัวดีที่สุดมาสวมให้เขา และเอาแหวนมาสวมที่นิ้วของเขา เอารองเท้ามาสวมที่เท้าของเขา
 
@@ -3468,7 +3468,7 @@ _This reader edition shows the Thai translation and the contextual summary (บ�
 
 **3** เมื่อเข้าไปแล้ว พวกเธอก็ไม่พบพระศพ
 
-> _บริบท: SBLGNT ไม่มีวลี “ขององค์พระเยซูเจ้า” ที่ปรากฏในฉบับ NA28/BSB/KJV/ฉบับแปลไทย ฉบับเอเรมอสเลือกตามต้นฉบับวิจารณ์ SBLGNT (สำนวนสั้น) พบในพยานตระกูลตะวันตก Codex Bezae (D) และฉบับลาตินโบราณบางฉบับ — เป็นหนึ่งใน “Western non-interpolations” ที่นักวิชาการโต้แย้งกันมา_
+> _บริบท: ฉบับ SBLGNT ใช้คำว่า “พระศพ” โดยไม่ได้ระบุพระนามในข้อนี้ เรื่องการฝังพระศพก่อนหน้านี้ทำให้ทราบว่าหมายถึงพระเยซู ส่วนฉบับ NA28 ระบุชัดว่าเป็นพระศพขององค์พระเยซูเจ้า_
 
 **4** ขณะที่พวกเธอกำลังงุนงงเรื่องนี้อยู่ ดูเถิด มีชายสองคนสวมเสื้อผ้าที่ส่องประกายมายืนอยู่ข้างพวกเธอ
 
@@ -3633,14 +3633,14 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/luke_05.json` | `4276310a59bb80dd469d2bf937642c3d4ab36ff5b3879d38baed51d81863189a` |
 | `output/translations/luke_06.json` | `2258aba1f65ece11a62486861542899fb0a77faca0b13028940534f4374179ee` |
 | `output/translations/luke_07.json` | `abca3771fc470d241e748fc2b966ea50d98d24710cdd522dbd8c393c8d89fe70` |
-| `output/translations/luke_08.json` | `504b6824251fc7c87a4ac7fdcb0c5ebc6e1e4c71660cca43daeacb7e6dd5af1a` |
-| `output/translations/luke_09.json` | `b9e3fb3bb13f13bd70d9b5eac34685728244f34ccb63129cd0a550850cc86780` |
+| `output/translations/luke_08.json` | `3aeaaa6dfe9fd080bca8eb2e6d331c6cf16d08996dc0c938e44ba2254cdf233b` |
+| `output/translations/luke_09.json` | `f2dbb42a1bf34d0fcaea1af62c426a198a15b2e4d2c077c244e4ae707dc265ea` |
 | `output/translations/luke_10.json` | `2c89f0ad076af20a3ced9a89eea314add6da7fc51f187e2e5c0d80f3109f2a65` |
-| `output/translations/luke_11.json` | `ef111a3373772c2deea54d0a7f5ea543bc3f9ad6ceb7df66999e4ffbc0812024` |
+| `output/translations/luke_11.json` | `3e5f309ea008fc9651399e624b46766775a565b97753abffaa4ef21c2d4eaab6` |
 | `output/translations/luke_12.json` | `21423a5cdfc0658577b7efc49c3f47f81036041a87d833c9b88cf91ada6ead53` |
 | `output/translations/luke_13.json` | `50a99d4a01b4ff3b5367236f0b995ecb7e5518ad8cc614cc8e718079cec6bb09` |
 | `output/translations/luke_14.json` | `00b4a6acba9778f726e5b7f178d593d4599d81a109530c7f1601cde115cf9154` |
-| `output/translations/luke_15.json` | `9c25b56654ac3a7361a446b6a8374c6e4c75cb94116ddf1461a6d853f301eeb7` |
+| `output/translations/luke_15.json` | `613414eda170e48f263c2bcf51bb5d214c1e2076d35940a05631674f00f1478c` |
 | `output/translations/luke_16.json` | `dd37ddc52a60ab050eb3fcfb9fe81886d01a15e1f0f07915052a0c1e92a19d0e` |
 | `output/translations/luke_17.json` | `003da09ac111449d238a9205a8ef37328aa5eef8565d19655e217b5b572b7300` |
 | `output/translations/luke_18.json` | `b29f0aa7bdf97181051bc2a688c8d816e56d9af7d04596e8442949d20a9e5202` |
@@ -3649,5 +3649,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/luke_21.json` | `60a2d9fdb58979fd0d6f43b5fa25448d094c47ad83f44179b21c988bc7a9336a` |
 | `output/translations/luke_22.json` | `832c41d3b71b295ca49ebba3faa6e943c485f6007ebfda2a931131059d3e6338` |
 | `output/translations/luke_23.json` | `f6d21b0a3ec1ac564e1ae4db0b2aff5d0a8481cbca88e11bb12b76022ac3a43b` |
-| `output/translations/luke_24.json` | `8f2844bff7d373af9a7107b69336764534647937569e8fe4ee8575dac98a0b2b` |
+| `output/translations/luke_24.json` | `d1a551c195b281d097e3264cbcde284e41efe12425ad9d458d8086fa113019d9` |
 

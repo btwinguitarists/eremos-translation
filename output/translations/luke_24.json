@@ -68,7 +68,7 @@
     "translation": {
       "thai": "เมื่อเข้าไปแล้ว พวกเธอก็ไม่พบพระศพ",
       "thai_literal": null,
-      "thai_summary": "SBLGNT ไม่มีวลี “ขององค์พระเยซูเจ้า” ที่ปรากฏในฉบับ NA28/BSB/KJV/ฉบับแปลไทย ฉบับเอเรมอสเลือกตามต้นฉบับวิจารณ์ SBLGNT (สำนวนสั้น) พบในพยานตระกูลตะวันตก Codex Bezae (D) และฉบับลาตินโบราณบางฉบับ — เป็นหนึ่งใน “Western non-interpolations” ที่นักวิชาการโต้แย้งกันมา",
+      "thai_summary": "ฉบับ SBLGNT ใช้คำว่า “พระศพ” โดยไม่ได้ระบุพระนามในข้อนี้ เรื่องการฝังพระศพก่อนหน้านี้ทำให้ทราบว่าหมายถึงพระเยซู ส่วนฉบับ NA28 ระบุชัดว่าเป็นพระศพขององค์พระเยซูเจ้า",
       "key_decisions": [
         {
           "greek": "εἰσελθοῦσαι & οὐχ εὗρον τὸ σῶμα",
@@ -76,7 +76,7 @@
           "rationale": "uW figs-explicit: body-not-there because Jesus has risen. Thai พระศพ retains divine-register honorific (LUK 23:52/53/55 precedent). Note the SHORT reading per SBLGNT — see notes for textual divergence."
         }
       ],
-      "notes": "TEXTUAL VARIANT (SBLGNT vs NA28): SBLGNT main text ends the verse at τὸ σῶμα with no genitive qualifier. NA28 reads τὸ σῶμα [τοῦ κυρίου Ἰησοῦ] in single brackets ('the body [of the Lord Jesus]'). BSB, ESV, NIV, CSB, KJV, standard Thai all include 'of the Lord Jesus.' Witnesses-omit include Codex Bezae (D), Old Latin (a b d e ff² l r¹), some Syriac; witnesses-include include 𝔓⁷⁵, Codex Sinaiticus (ℵ), Codex Vaticanus (B), Codex Alexandrinus (A), Washingtonianus (W). This is one of Hort's famous 'Western non-interpolations' — historically, critical editors from Westcott-Hort onward judged the shorter Western reading more likely original, reasoning that later scribes would more-plausibly ADD the clarifying genitive than OMIT it. Our project follows SBLGNT's editorial choice per RULES.md §0 ('when SBLGNT and NA28 disagree, we follow SBLGNT but document the divergence'). The content remains theologically identical — the body in question IS Jesus's — but the Greek surface-form is shorter."
+      "notes": "The selected Greek says the women entered and did not find the body. Jesus is understood from the burial account. The short wording appears in Codex Bezae and Westcott–Hort. Tregelles, NA28 and Robinson–Pierpont include “of the Lord Jesus.” The differing modern editions should therefore be identified individually."
     }
   },
   {
@@ -1186,7 +1186,7 @@
           "rationale": "HAPAX: ὀπτός 'roasted, broiled.' ἰχθύς → ปลา standard (LUK 5:6/9, 9:13/16, 11:11 precedent). Thai ปลาย่าง (fish-roasted) natural pair. μέρος 'part, piece' → ชิ้นหนึ่ง."
         }
       ],
-      "notes": "HAPAX: ὀπτός — NT-unique adjective, classical-Greek for roasted/broiled over fire. The specific-detail (not just 'fish' but 'broiled fish' — ready-to-eat, cooked) signals concrete-reality — a historical-detail embedded in the narrative, not generic. TEXTUAL-NOTE: Byzantine mss add καὶ ἀπὸ μελισσίου κηρίου 'and some honey-comb' here — SBLGNT/NA28/BSB omit per earlier-mss. No footnote-needed; follow SBLGNT."
+      "notes": "SBLGNT, Westcott–Hort and NA28 say that the group offered Jesus a piece of broiled fish. Tregelles and Robinson–Pierpont also mention honeycomb. The Thai follows the shorter form. The scene goes on to describe Jesus eating in their presence; the description of the fish alone cannot establish the exact historical setting."
     }
   },
   {
