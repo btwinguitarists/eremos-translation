@@ -1276,7 +1276,7 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **46** เจ้านายของทาสคนนั้นจะมาในวันที่เขาไม่คาดและในชั่วโมงที่เขาไม่รู้ แล้วจะลงโทษเขาอย่างหนักและกำหนดที่ของเขาให้อยู่กับคนที่ไม่สัตย์ซื่อ
 
-**47** ทาสที่รู้น้ำพระทัยของเจ้านายตน แต่ไม่เตรียมตัวหรือไม่ปฏิบัติตามน้ำพระทัย จะถูกเฆี่ยนตีหลายครั้ง
+**47** ทาสที่รู้ความประสงค์ของเจ้านายตน แต่ไม่เตรียมตัวหรือไม่ปฏิบัติตามความประสงค์นั้น จะถูกเฆี่ยนตีหลายครั้ง
 
 **48** แต่ทาสที่ไม่รู้ และทำสิ่งที่ควรถูกเฆี่ยนตี ก็จะถูกเฆี่ยนตีน้อยครั้ง ทุกคนที่ได้รับมาก ก็จะถูกเรียกร้องมาก และผู้ที่ถูกฝากไว้มาก ก็จะถูกขอเพิ่มมากขึ้น
 
@@ -2417,7 +2417,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/luke_09.json` | `bf0d1268d2d297738bfa87bd2093d1e9628f73b2c419e3949b926ded54017fcd` |
 | `output/translations/luke_10.json` | `a7b7b9b6450293cd7db0ba1b2a6b97b86f42cd48ce3727f0b6a01363035a7907` |
 | `output/translations/luke_11.json` | `ef111a3373772c2deea54d0a7f5ea543bc3f9ad6ceb7df66999e4ffbc0812024` |
-| `output/translations/luke_12.json` | `37bb5985c51d2488feb8f3f80e1a075721f76c33fb268d95d726fde2b9dd35f3` |
+| `output/translations/luke_12.json` | `0d51ecca141f574e51adacf4280853fa53fcfe8dab4b79b8ec0316edc00fe147` |
 | `output/translations/luke_13.json` | `00fd31f9f29feb7da362b606bdbf54cde5a8b655838d1982e71b520c02aa2de5` |
 | `output/translations/luke_14.json` | `8f118bbfd406f53efcb6a5b9846b5ad4ea4b15c6961de16f45fc277fde6b976a` |
 | `output/translations/luke_15.json` | `d6cbf32e90cb11667bf452d3ae800a4cc04ebdfc38c05f9c37cd096b2d4bb771` |
