@@ -198,7 +198,7 @@
         {
           "greek": "ἐν ἐκτενείᾳ ... λατρεῦον",
           "thai": "ปรนนิบัติพระเจ้าด้วยความขะมักเขม้น",
-          "rationale": "HAPAX ἐκτένεια (only NT occurrence) 'earnestness/intensity.' Per uW figs-abstractnouns: render as adverbial phrase with the verb. λατρεύω → ปรนนิบัติ continues established rendering (Acts 7:7, 24:14 etc.); divine object → optional ทรง- but here participial form attaches to the tribes (subject), not to God (object), so plain ปรนนิบัติ. Thai ความขะมักเขม้น ('intense earnestness') captures both the Pharisaic-fervor sense and the formal religious register."
+          "rationale": "HAPAX ἐκτένεια (only NT occurrence) 'earnestness/intensity.' Per uW figs-abstractnouns: render as adverbial phrase with the verb. λατρεύω → ปรนนิบัติ matches Acts 7:7 (Acts 24:14 uses นมัสการ); divine object → optional ทรง- but here participial form attaches to the tribes (subject), not to God (object), so plain ปรนนิบัติ. Thai ความขะมักเขม้น ('intense earnestness') captures both the Pharisaic-fervor sense and the formal religious register."
         },
         {
           "greek": "νύκτα καὶ ἡμέραν",
@@ -578,7 +578,7 @@
         {
           "greek": "τοῖς ἡγιασμένοις πίστει τῇ εἰς ἐμέ",
           "thai": "บรรดาผู้ที่ทรงชำระให้บริสุทธิ์โดยความเชื่อในเรา",
-          "rationale": "Per uW figs-activepassive: passive ἡγιασμένοις 'having been sanctified' may render as active 'whom I sanctify.' Thai keeps the divine-passive (ทรงชำระให้บริสุทธิ์) because the divine agency is already explicit (sanctified by Christ). ทรง-prefix marks divine action (RULES §3). πίστει τῇ εἰς ἐμέ = 'by faith in me' — instrumental dative, Thai โดยความเชื่อใน. ἁγιάζω → ชำระให้บริสุทธิ์ (continues established rendering Acts 20:32, 1 Cor 6:11 etc.)."
+          "rationale": "Per uW figs-activepassive: passive ἡγιασμένοις 'having been sanctified' may render as active 'whom I sanctify.' Thai renders the passive as ทรงชำระให้บริสุทธิ์, inferring divine agency where the Greek leaves the agent unstated. ทรง-prefix marks divine action (RULES §3). πίστει τῇ εἰς ἐμέ = 'by faith in me' — instrumental dative, Thai โดยความเชื่อใน. ἁγιάζω → ชำระให้บริสุทธิ์ (continues established rendering Acts 20:32, 1 Cor 6:11 etc.)."
         }
       ],
       "notes": "Five-fold mission summary echoing OT servant-of-the-LORD passages: opening blind eyes (Isa 42:7, 16), darkness-to-light (Isa 9:2, 49:6), forgiveness (Isa 44:22), inheritance (Dan 12:13), sanctification (Lev 11:44 LXX). Concentrated theological dense — the chapter's most-cited verse for missiological frameworks (cf. its use in Vatican II's Ad Gentes). RULES.md §4 ἄφεσιν ἁμαρτιῶν → การยกโทษบาป is locked phrase under check_phrase_consistency.py."
@@ -603,7 +603,7 @@
         {
           "greek": "οὐρανίῳ ὀπτασίᾳ",
           "thai": "นิมิตจากสวรรค์",
-          "rationale": "ὀπτασία (freq=4 NT) 'vision' (per glossary precedent Acts 1:11 / Lk 1:22, 24:23: ὀπτασία = นิมิต). οὐράνιος 'heavenly' rendered with prepositional source 'จากสวรรค์' for Thai naturalness."
+          "rationale": "ὀπτασία (freq=4 NT) 'vision' (per glossary precedent Lk 1:22, 24:23: ὀπτασία = นิมิต). οὐράνιος 'heavenly' rendered with prepositional source 'จากสวรรค์' for Thai naturalness."
         },
         {
           "greek": "βασιλεῦ Ἀγρίππα",
@@ -998,12 +998,12 @@
         {
           "greek": "Ἀπολελύσθαι ἐδύνατο",
           "thai": "อาจถูกปล่อยตัวไปได้แล้ว",
-          "rationale": "Per uW figs-activepassive: pluperfect passive ἀπολελύσθαι 'could have been released' may render active 'You could have released him.' Thai keeps the passive (ถูกปล่อยตัว) because the action's beneficiary (Paul) is the natural Thai topic; rendering active would awkwardly require addressing Festus directly which the Greek doesn't ('ท่านสามารถปล่อยเขาไปได้แล้ว') — though either is valid. Pluperfect potentiality rendered with อาจ ... ได้แล้ว."
+          "rationale": "ἀπολελύσθαι is a perfect passive infinitive dependent on the imperfect ἐδύνατο. อาจถูกปล่อยตัวไปได้แล้ว conveys the unrealized possibility. The pluperfect is ἐπεκέκλητο, ‘had appealed.’"
         },
         {
           "greek": "ἐπεκέκλητο Καίσαρα",
           "thai": "ถวายฎีกาต่อซีซาร์",
-          "rationale": "Continues Acts 25:11, 25:21, 25:25 established phrase. Καίσαρα → ซีซาร์ (throne-name); ถวายฎีกา ('humbly petition the highest court') is the Thai legal-formal idiom for provocatio ad Caesarem."
+          "rationale": "Καίσαρα names Caesar here, hence ถวายฎีกาต่อซีซาร์. Acts 25:21 uses both Σεβαστός and Καῖσαρ, while 25:25 uses Σεβαστός. Agrippa comments on the consequence of the appeal without saying what Paul knew of the procedure beforehand."
         },
         {
           "greek": "ὁ ἄνθρωπος οὗτος",
