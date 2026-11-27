@@ -75,5 +75,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/philemon_01.json` | `1a010fbdcae4ae43894f3cfd9d6e21376bfbc263f04dc3fa8844c856436681d4` |
+| `output/translations/philemon_01.json` | `2693cb4840ac211a5cfb248614198b010336626875916f75f4c6af1d39034110` |
 
