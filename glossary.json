@@ -2298,14 +2298,12 @@
             "rationale": "Respectful title for Jewish teacher; 'พระ-' honorific preserves respect."
           },
           {
+            "verse": "Luke 19:39",
+            "rationale": "These Pharisees address Jesus as διδάσκαλε. The project’s vocative policy identifies this verse as the respectful teacher address พระอาจารย์. The request for Jesus to rebuke his disciples follows in their own words."
+          },
+          {
             "verse": "Mark 4:38",
             "rationale": "Per uW (implicit): disciples' address to Jesus as teacher. Thai 'พระอาจารย์' (royal-teacher / master) — preserves the honorific the disciples give Jesus. Standard Thai Christian rendering for Jesus-as-teacher. Alternative 'อาจารย์' would lack the respect due; with the 'พระ' prefix it signals the disciples' deference."
-          }
-        ],
-        "พระอาจารย์เจ้าข้า": [
-          {
-            "verse": "Luke 19:39",
-            "rationale": "Per uW: respectful title. διδάσκαλος → พระอาจารย์ (glossary-standard Thai Christian address for Jesus-as-teacher, cf. LUK 7:40, 9:38, 10:25, 11:45, 12:13, 18:18, 19:39, 20:21, 20:28, 20:39, 21:7, 22:11). The Pharisees use a respectful-but-not-confessional title (cf. contrast with v.38 βασιλεύς disciples use)."
           }
         ],
         "อาจารย์เจ้าข้า": [
@@ -20424,15 +20422,13 @@
       "occurrences_count": 1
     },
     "Φιμώθητι": {
-      "primary_thai": "จงนิ่งเสีย",
+      "primary_thai": "จงเงียบเสีย",
       "all_renderings": {
-        "จงนิ่งเสีย": [
+        "จงเงียบเสีย": [
           {
             "verse": "Luke 4:35",
-            "rationale": "Per uW figs-activepassive: φιμόω aorist-passive-imperative literally 'be muzzled' (μῦθος-related etymology) → 'be silent.' The muzzling-imagery is forceful in Greek; Thai “จงนิ่งเสีย” (be silent!) preserves the imperative force without the muzzling-image (which doesn't translate naturally)."
-          }
-        ],
-        "จงเงียบเสีย": [
+            "rationale": "φιμόω is related to φιμός, a muzzle. Here it tells the spirit that has just spoken to be silent. จงเงียบเสีย expresses the audible command, as it does in the parallel at Mark 1:25."
+          },
           {
             "verse": "Mark 1:25",
             "rationale": "Literally 'be muzzled!' — sharp command. Thai emphatic imperative."
@@ -48397,7 +48393,7 @@
         "จะได้นั่งบนบัลลังก์พิพากษาสิบสองเผ่าของอิสราเอล": [
           {
             "verse": "Luke 22:30",
-            "rationale": "Per uW translate-symaction: θρόνος = throne-of-authority. Per uW figs-metonymy: τὰς δώδεκα φυλὰς = the-people-of-the-12-tribes. Thai บัลลังก์ + สิบสองเผ่าของอิสราเอล standard. Synoptic-parallel MAT 19:28 renders same formula."
+            "rationale": "Luke names thrones and the twelve tribes, while Matthew 19:28 explicitly numbers the thrones as twelve. The citation registry lists Daniel 7 as the principal background and mentions Wisdom of Solomon 3:8, κρινοῦσιν ἔθνη, as a further possible comparison."
           }
         ]
       },
@@ -106615,7 +106611,7 @@
         "วันนี้เจ้าจะอยู่กับเราในเมืองบรมสุขเกษม": [
           {
             "verse": "Luke 23:43",
-            "rationale": "σήμερον 'today' — per uW translate-textvariants + chapter-intro: 'today' belongs WITH the promise ('today you will be'), not with the introduction formula. The eight other 'truly I say to you' occurrences in Luke stand-alone as introduction — so σήμερον attaches to the promise per Greek-standard-reading. παράδεισος 'paradise' → เมืองบรมสุขเกษม — classical-Thai-Christian rendering (city-of-supreme-blissful-peace), a Thai-coinage not owned by any copyrighted-translation, transparent-to-readers as 'paradise/heaven.' This is the FIRST-use in Eremos Translation; glossary-entry to be established here. Alternatives considered: สวรรค์ (heaven, less specific), สรวงสวรรค์ (heavenly-realm), transliteration ปาราเดโซ (unnatural). Choose เมืองบรมสุขเกษม for classical-Thai-resonance + semantic-transparency."
+            "rationale": "παράδεισος was used in Greek before the Septuagint. Xenophon, Oeconomicus 4, uses it for a royal park. It also names the garden of Eden in Greek Genesis 2, giving the term a biblical association with life in God’s presence."
           }
         ]
       },
@@ -142343,7 +142339,7 @@
         "จึงส่งเขากลับมาให้เรา": [
           {
             "verse": "Luke 23:15",
-            "rationale": "ἀναπέμπω (third use in this passage, v.7, v.11, here). Per uW figs-exclusive: ἡμᾶς inclusive here (Pilate + the Jewish leaders who initiated the case). Thai เรา here is contextually inclusive too — Pilate speaking to the Jewish accusers."
+            "rationale": "SBLGNT, Westcott–Hort and NA28 read “he sent him back to us,” with Herod as the subject and Jesus as the object. Verse 11 describes Jesus being sent back to Pilate. Tregelles and Robinson–Pierpont have “I sent you to him,” changing both the subject and the people sent. The Thai follows Pilate’s account in the selected text."
           }
         ]
       },
@@ -144751,7 +144747,7 @@
         "โมทนาขอบพระคุณพระเจ้า": [
           {
             "verse": "Luke 2:38",
-            "rationale": "HAPAX: ἀνθομολογέομαι (only here in NT) — compound verb, 'give thanks/praise in return' or 'confess in response.' LXX frequent in Pss & 1/2 Chr for thanksgiving. Thai โมทนาขอบพระคุณ standard formal thanksgiving"
+            "rationale": "ἀνθωμολογεῖτο describes Anna expressing thanks to God. The Greek Psalm 78:13 (English 79:13) uses the same verb in the future, ἀνθομολογησόμεθα. โมทนาขอบพระคุณ conveys thanksgiving."
           }
         ]
       },
@@ -180809,7 +180805,7 @@
         "อย่างละเอียดรอบคอบ": [
           {
             "verse": "Luke 15:8",
-            "rationale": "HAPAX LEGOMENON — ἐπιμελῶς (only NT occurrence; adv. form of ἐπιμελής 'careful/painstaking'; cf. 2 Macc 2:25 LXX for careful composition; Diosc. Mat. Med. for careful preparation). Classical Greek: 'with careful attention to every detail.' 'อย่างละเอียดรอบคอบ' (thoroughly and carefully) captures both the thoroughness and the deliberateness — matches classical register."
+            "rationale": "ἐπιμελῶς describes a careful or diligent search. The same adverb occurs in Greek Genesis 6:5 in a different context. Second Maccabees 2:25 describes the author’s care in presenting material but does not use this adverb."
           }
         ]
       },
@@ -186145,7 +186141,7 @@
         "และถ้าเราจะถามพวกท่าน พวกท่านก็จะไม่ตอบ": [
           {
             "verse": "Luke 22:68",
-            "rationale": "Per uW figs-hypo: continues hypothetical from v.67. Per uW figs-explicit: implicit-object = whether-you-consider-me-Messiah. Thai preserves conditional-hypothetical. Royal-register เรา."
+            "rationale": "In SBLGNT, Westcott–Hort and NA28 Jesus says that if he asks a question, they will not answer. Tregelles and Robinson–Pierpont add “me or release me.” Mishnah Sanhedrin 4:5 concerns instructions given to witnesses; it does not establish a procedural right for Jesus in this exchange."
           }
         ]
       },
@@ -196017,7 +196013,7 @@
         "นายท่าน": [
           {
             "verse": "Luke 5:5",
-            "rationale": "DISTINCTIVELY LUKAN VOCATIVE — ἐπιστάτης (7x, only in Luke: 5:5; 8:24, 45; 9:33, 49; 17:13). Not διδάσκαλε (teacher — the rabbi word) and not κύριε (master/Lord). ἐπιστάτης = one set over, a chief/commander. Thai “นายท่าน” captures the respectful address to a superior-of-operations, matching the fishing-captain's mental world. Alternatives considered: “ผู้บัญชา” (too formal-military), “อาจารย์” (wrong — that's διδάσκαλε), “พระอาจารย์” (wrong register — too elevated for this early-call moment). Setting glossary precedent for future ἐπιστάτης occurrences."
+            "rationale": "ἐπιστάτης is a respectful address to someone in authority. นายท่าน fits Simon’s response to Jesus’s instruction. Luke uses the title seven times in six verses: 5:5, 8:24 (twice), 8:45, 9:33, 9:49 and 17:13."
           },
           {
             "verse": "Luke 8:45",
@@ -212135,7 +212131,7 @@
         "พระเยซูทอดพระเนตรเห็นเขา": [
           {
             "verse": "Luke 18:24",
-            "rationale": "TEXTUAL VARIANT: Per uW translate-textvariants: many manuscripts add περίλυπον γενόμενον ('having-become-sad') here → 'seeing him having become sad.' SBLGNT omits (following א B L). BSB 'Seeing the man's sadness' translates the longer reading; we follow SBLGNT's shorter reading. The context (v.23) already establishes his sadness, so nothing significant is lost."
+            "rationale": "SBLGNT says that Jesus saw him. NA28 brackets περίλυπον γενόμενον, “having become very sad,” and Robinson–Pierpont includes it. In verse 23 Luke has already described the man’s sorrow. Robinson–Pierpont also puts a future verb for entering before the kingdom phrase, where SBLGNT uses a present after that phrase."
           }
         ]
       },

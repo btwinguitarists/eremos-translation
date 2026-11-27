@@ -858,7 +858,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**35** พระเยซูตรัสห้ามมันว่า “จงนิ่งเสีย และออกมาจากเขา!” ผีนั้นก็ผลักชายคนนั้นล้มลงตรงกลางผู้คน แล้วก็ออกมาจากเขา โดยไม่ได้ทำอันตรายเขาเลย
+**35** พระเยซูตรัสห้ามมันว่า “จงเงียบเสีย และออกมาจากเขา!” ผีนั้นก็ผลักชายคนนั้นล้มลงตรงกลางผู้คน แล้วก็ออกมาจากเขา โดยไม่ได้ทำอันตรายเขาเลย
 
 > ___
 
@@ -3602,7 +3602,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**39** พวกฟาริสีบางคนในฝูงชนทูลพระองค์ว่า “พระอาจารย์เจ้าข้า ขอทรงห้ามปรามสาวกของพระองค์”
+**39** พวกฟาริสีบางคนในฝูงชนทูลพระองค์ว่า “พระอาจารย์ ขอทรงห้ามปรามสาวกของพระองค์”
 
 > ___
 
@@ -4727,27 +4727,27 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | Chapter file | SHA-256 |
 |---|---|
 | `output/translations/luke_01.json` | `cc386b7d655657c8fa8c88ec0fb4c3ae690e3ea4c58d531f38be30283df54246` |
-| `output/translations/luke_02.json` | `829f1128155817d5e388f17f06322ea714d4abb2aefbf1171f62b4a55e511831` |
-| `output/translations/luke_03.json` | `291b0e9b9cfda5cf2e1a212be73a3c2b79e08ff9eccf5d3923ecc9b329a5ad82` |
-| `output/translations/luke_04.json` | `3e9eab17571e11cbb832f98be25e04ae66dc900899e51b519e0fb5d87fa49926` |
-| `output/translations/luke_05.json` | `def89e2fc40ccf7f186ef2819c397735fc64d2a81754b6d197459e72c4f7420c` |
-| `output/translations/luke_06.json` | `7fbbdd8d7686438a60981b2dbd34e5d8cac16ab225e0eba77e97da23d0b6e3d9` |
+| `output/translations/luke_02.json` | `5416dd6ccf7c377bdca3f53fa11d0cc2ad09bc32c92982233cb066d6e97c1b2b` |
+| `output/translations/luke_03.json` | `a65849831d3aeb1512896c83e6b2f0634b2d6d2d15c2f341ea2dcb4e8fbb4f6c` |
+| `output/translations/luke_04.json` | `35d45ef9e01dbd3a6056ebad120a307c521ba36292aa388237291c1ace369d25` |
+| `output/translations/luke_05.json` | `4276310a59bb80dd469d2bf937642c3d4ab36ff5b3879d38baed51d81863189a` |
+| `output/translations/luke_06.json` | `2258aba1f65ece11a62486861542899fb0a77faca0b13028940534f4374179ee` |
 | `output/translations/luke_07.json` | `abca3771fc470d241e748fc2b966ea50d98d24710cdd522dbd8c393c8d89fe70` |
 | `output/translations/luke_08.json` | `504b6824251fc7c87a4ac7fdcb0c5ebc6e1e4c71660cca43daeacb7e6dd5af1a` |
 | `output/translations/luke_09.json` | `b9e3fb3bb13f13bd70d9b5eac34685728244f34ccb63129cd0a550850cc86780` |
 | `output/translations/luke_10.json` | `2c89f0ad076af20a3ced9a89eea314add6da7fc51f187e2e5c0d80f3109f2a65` |
 | `output/translations/luke_11.json` | `ef111a3373772c2deea54d0a7f5ea543bc3f9ad6ceb7df66999e4ffbc0812024` |
-| `output/translations/luke_12.json` | `f9e93ad89ce0f1e5042450e0973f2be957fc66257f2652d22fa281f162675fb7` |
-| `output/translations/luke_13.json` | `00fd31f9f29feb7da362b606bdbf54cde5a8b655838d1982e71b520c02aa2de5` |
-| `output/translations/luke_14.json` | `c4d0eb977dac43155fc656e2701e482d31cdd19aabcdc711de3305232c74b8c4` |
-| `output/translations/luke_15.json` | `d6cbf32e90cb11667bf452d3ae800a4cc04ebdfc38c05f9c37cd096b2d4bb771` |
-| `output/translations/luke_16.json` | `70cb4a49c0e8648bd14fa73e3055266fefa2d938d4cf35d9562239eac424fee9` |
-| `output/translations/luke_17.json` | `b5af6f8228e0a653da8daa850a2d2868cdfa05cd9e1407c6810ecb2d940cc830` |
-| `output/translations/luke_18.json` | `a44af1bcdea6968a4e3e479771d0b1f7db623da3e7c0b0230a68d1976408deb4` |
-| `output/translations/luke_19.json` | `0bd623999708aef9a7d5c369937ab0aff41805ea0288bbeff7588cd0a8da00c8` |
+| `output/translations/luke_12.json` | `21423a5cdfc0658577b7efc49c3f47f81036041a87d833c9b88cf91ada6ead53` |
+| `output/translations/luke_13.json` | `50a99d4a01b4ff3b5367236f0b995ecb7e5518ad8cc614cc8e718079cec6bb09` |
+| `output/translations/luke_14.json` | `00b4a6acba9778f726e5b7f178d593d4599d81a109530c7f1601cde115cf9154` |
+| `output/translations/luke_15.json` | `9c25b56654ac3a7361a446b6a8374c6e4c75cb94116ddf1461a6d853f301eeb7` |
+| `output/translations/luke_16.json` | `dd37ddc52a60ab050eb3fcfb9fe81886d01a15e1f0f07915052a0c1e92a19d0e` |
+| `output/translations/luke_17.json` | `003da09ac111449d238a9205a8ef37328aa5eef8565d19655e217b5b572b7300` |
+| `output/translations/luke_18.json` | `9fffbea829db89e6084b1192eb7467af9c0323f623654be6f55dedcf916c3d71` |
+| `output/translations/luke_19.json` | `3a708fdfd971ce0a8952e39aecf0582318b8f7675673d33173348c380f85d4df` |
 | `output/translations/luke_20.json` | `2546c789ddcadea05e1edb8813d5989287b146476b9d88c26fb8370504daf970` |
 | `output/translations/luke_21.json` | `60a2d9fdb58979fd0d6f43b5fa25448d094c47ad83f44179b21c988bc7a9336a` |
-| `output/translations/luke_22.json` | `54afebf4b7d1941ed85176fd1cf153cf58d682bef2019b6f2e36b6be3278fd80` |
-| `output/translations/luke_23.json` | `a120b21da216ca705cab4c2e6e3e2ad92f65e34b217e5f07bb7897e8fff96932` |
+| `output/translations/luke_22.json` | `832c41d3b71b295ca49ebba3faa6e943c485f6007ebfda2a931131059d3e6338` |
+| `output/translations/luke_23.json` | `f6d21b0a3ec1ac564e1ae4db0b2aff5d0a8481cbca88e11bb12b76022ac3a43b` |
 | `output/translations/luke_24.json` | `8f2844bff7d373af9a7107b69336764534647937569e8fe4ee8575dac98a0b2b` |
 
