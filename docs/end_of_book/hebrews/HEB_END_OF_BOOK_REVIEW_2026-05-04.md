@@ -76,17 +76,18 @@ The Aramaic/Hebrew transliteration **เมลคีเซเดค** for Μελ
 
 | Greek | Thai | Verses |
 |---|---|---|
-| διαθήκη (generic / unmarked) | **พันธสัญญา** | 7:22; 8:6 (×2); 9:4 (×2); 9:15 (×2); 9:16; 9:17; 9:20; 10:29; 12:24; 13:20 |
+| διαθήκη (generic / unmarked) | **พันธสัญญา** | 7:22; 8:6 (×2); 9:4 (×2); 9:15 (×2); 9:20; 10:29; 12:24; 13:20 |
+| διαθήκη in the illustration of a will | **พินัยกรรม** | 9:16–17 |
 | διαθήκη παλαιά / πρώτη ("old / first" covenant) | **พันธสัญญาเดิม** (8:13: τὴν πρώτην; 9:1: ἡ πρώτη) | 8:13; 9:1; 9:15; 9:18 |
 | διαθήκη καινή ("new" covenant) | **พันธสัญญาใหม่** | 8:8 (in JER 31 citation); 9:15; 12:24 |
 | διαθήκη αἰώνιος ("eternal" covenant) | **พันธสัญญานิรันดร์** | 13:20 |
 
-**Editorial assessment:** Single-rendering **พันธสัญญา** for διαθήκη is uniform and consistent with corpus precedent (MAT 26:28; LUK 1:72; ACT 3:25; ROM 9:4; 1 COR 11:25; 2 COR 3:6, 14; GAL 3:15, 17; 4:24; EPH 2:12). The new/old/eternal modifiers are rendered transparently (**ใหม่ / เดิม / นิรันดร์**) without forcing a Thai compound. The 9:16-17 διαθήκη as "last will and testament" (only place in NT where author exploits the Greek polysemy of διαθήκη as both "covenant" and "will/testament") receives the same Thai **พันธสัญญา** with verse-level KDs explaining the polysemy — Thai cannot dual-render here without a footer-note, and the translator chose to preserve **พันธสัญญา** (covenant) as primary, which loses the testamentary-pun but preserves theological-coherence with the surrounding 9:15+ "eternal-inheritance" frame.
+**Editorial assessment:** The usual rendering is **พันธสัญญา**. The legal illustration in 9:16–17 uses **พินัยกรรม**. Verse 18 returns to the first covenant.
 
 **Recommend: STABLE; lift to corpus doc** `docs/translator_decisions/diatheke_hebrews_2026-05.md` before Romans 9:4 (διαθῆκαι plural — Israel's multiple-covenants) and 1 Cor 11:25 (Lord's-Supper covenant-cup — already-rendered consistently in the Synoptics). The doc should:
 1. Lock διαθήκη → **พันธสัญญา** corpus-uniform
 2. Lock the modifier-pattern: παλαιά/πρώτη → เดิม; καινή → ใหม่; αἰώνιος → นิรันดร์
-3. Document the 9:16-17 διαθήκη-as-testament polysemy as a verse-level exception (preserve the covenant-rendering, lose the testament-pun by design — the verse-level KD covers the rationale)
+3. Record **พินัยกรรม** as the rendering in the legal illustration at 9:16–17.
 4. Cite HEB 8:6 + 8:8 + 12:24 + 13:20 as the locking precedents
 5. Distinguish the related-but-distinct: μεσίτης ("mediator," 8:6, 9:15, 12:24) → **คนกลาง / ผู้กลาง**; ἔγγυος (HAPAX 7:22, "guarantor") → **ผู้ค้ำประกัน**; νόμος → **ธรรมบัญญัติ** (already corpus-locked via Pauline lock)
 
@@ -98,8 +99,8 @@ The Aramaic/Hebrew transliteration **เมลคีเซเดค** for Μελ
 
 | Sense | Thai | Verses |
 |---|---|---|
-| Christ's atoning blood (royal-honorific) | **พระโลหิต** | 9:12, 9:14, 9:25, 10:19, 10:29, 12:24, 13:12, 13:20 |
-| Levitical / OT sacrificial blood (plain) | **โลหิต** | 9:7, 9:13, 9:18, 9:19, 9:21, 9:22 (×2), 10:4, 11:28, 12:4 |
+| Christ's atoning blood (royal-honorific) | **พระโลหิต** | 9:12, 9:14, 10:19, 10:29, 12:24, 13:12, 13:20 |
+| Levitical / OT sacrificial blood (plain) | **โลหิต** | 9:7, 9:13, 9:18, 9:19, 9:21, 9:22 (×2), 9:25, 10:4, 11:28, 12:4 |
 | Incarnational sharing (αἵματος καὶ σαρκός — paired with σάρξ) | **เลือดและเนื้อ** (compound idiom; plain) | 2:14 |
 | HAPAX αἱματεκχυσία ("blood-shedding") | **การหลั่งโลหิต** | 9:22 |
 
@@ -168,7 +169,7 @@ The Hebrews "perfection" vocabulary — central to the priestly-Christology argu
 | τελείωσις (noun — perfection, completion-state) | **ความสมบูรณ์** | 7:11 |
 | τελειωτής (HAPAX 12:2) | **ผู้บรรลุความสมบูรณ์** (paired with ἀρχηγός at 12:2 — see §13) | 12:2 |
 
-**Editorial assessment:** Single-rendering family **สมบูรณ์** (root) for the entire τελει-cluster is principled. The verb form takes either active **ทำให้สมบูรณ์** (when God/Christ is the subject perfecting) or middle/passive **บรรลุความสมบูรณ์** (when Christ or believers are the ones perfected). The 5:14 contextual-shift to **ผู้ใหญ่** ("mature ones") is principled — there τέλειος is the maturity-vs-infancy contrast (5:13–14 milk vs solid food), not the priestly-perfection sense; **ผู้ใหญ่** ("adults / mature ones") is the natural Thai. The 6:1 τελειότης ("maturity") returns to the abstract **ความสมบูรณ์** noun form, principled.
+**Editorial assessment:** The usual rendering is **พันธสัญญา**. The legal illustration in 9:16–17 uses **พินัยกรรม**. Verse 18 returns to the first covenant.
 
 **Critical theological note:** "Perfection" in HEB is **vocational-completion** (Christ qualified-to-be-eternal-high-priest by completing the sufferings; believers brought-to-the-goal of being-with-Christ-forever), NOT moral-perfection. The Thai **สมบูรณ์** ("complete, full, total, perfect") preserves this — it is not the moral-character word **บริสุทธิ์** ("holy, pure"). The translator carefully maintains the lexical separation between **สมบูรณ์** (perfection-as-completion) and **บริสุทธิ์** (sanctification-as-purification — see §8 below) — which collapses in English "perfection" but in Greek and now Thai stays principled.
 
@@ -220,7 +221,7 @@ The forthcoming `hagiasmos_hagiosune` corpus doc (when written) needs to take th
 | 12:18 | οὐ γὰρ προσεληλύθατε [ψηλαφωμένῳ] ὄρει | **ท่านไม่ได้เข้ามาถึงภูเขาที่จับต้องได้** |
 | 12:22 | ἀλλὰ προσεληλύθατε Σιὼν ὄρει | **แต่ท่านเข้ามาถึงภูเขาศิโยน** |
 
-**Editorial assessment:** Single-rendering **เข้ามา** preserves the verb's metaphor uniformly, and naturally tracks the Hebrews-rhetorical contrast between the OT cultic-approach-to-the-throne-of-grace (4:16, 7:25, 10:1, 10:22, 11:6 — cultic, with implied-divine-object) and the eschatological-corporate-approach to the new-Sinai-Zion (12:18 negative, 12:22 positive). Worth noting: 11:6 + 4:16 use elaborated forms (**เข้ามาเฝ้า** "draw-in-to-attend," **เข้ามา ... สู่บัลลังก์** "draw-in ... to the throne") to make the divine-object explicit.
+**Editorial assessment:** The usual rendering is **พันธสัญญา**. The legal illustration in 9:16–17 uses **พินัยกรรม**. Verse 18 returns to the first covenant.
 
 **Recommend: STABLE; consider brief doc** `docs/translator_decisions/proserchomai_cultic_2026-05.md` to lock the rendering before similar Pauline usage (Eph 2:18 προσαγωγή — different lemma but similar approach-vocabulary; 1 Pet 2:4 πρὸς ὃν προσερχόμενοι — the same lemma, parallel cultic-stone-temple imagery). Could also be folded into a broader "Hebrews tabernacle-cultus vocabulary" doc combining with §6.
 
