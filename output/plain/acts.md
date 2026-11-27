@@ -1342,7 +1342,7 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **1** หลังจากเหตุการณ์เหล่านี้ เปาโลออกจากกรุงเอเธนส์ ไปยังเมืองโครินธ์
 
-**2** ที่นั่นท่านพบชาวยิวคนหนึ่งชื่ออาควิลา เป็นคนเมืองปอนทัสโดยกำเนิด ซึ่งเพิ่งมาจากอิตาลีพร้อมกับปริสคิลลาภรรยาของเขา เพราะคลาวดิอัสได้มีพระราชโองการให้ชาวยิวทั้งหมดออกจากกรุงโรม เปาโลจึงไปเยี่ยมพวกเขา
+**2** ที่นั่นท่านพบชาวยิวคนหนึ่งชื่ออาควิลา เป็นคนแคว้นปอนทัสโดยกำเนิด ซึ่งเพิ่งมาจากอิตาลีพร้อมกับปริสคิลลาภรรยาของเขา เพราะคลาวดิอัสได้มีพระราชโองการให้ชาวยิวทั้งหมดออกจากกรุงโรม เปาโลจึงไปเยี่ยมพวกเขา
 
 **3** และเพราะเปาโลมีอาชีพเดียวกันกับพวกเขา ท่านจึงพักอาศัยและทำงานอยู่กับพวกเขา เพราะพวกเขาเป็นช่างทำเต็นท์โดยอาชีพ
 
@@ -2147,7 +2147,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/acts_15.json` | `0d3f5ef9619ad2c831781de2288077ffa3f5c7ca74352c823fb7de7184c4ee5d` |
 | `output/translations/acts_16.json` | `3f1c4fd7c2b74876e9cb7865dac423839dbd08f98e40234a99dd7fcc0ba5e887` |
 | `output/translations/acts_17.json` | `35ca9f34eadac0a1d95ae85f8b90c1f4c7097cadc0eb2ef86c14671b746ce98b` |
-| `output/translations/acts_18.json` | `f9239e4a12c3b042e975d49842a5b957f1bce9a3c79bf4640438e74b848e85da` |
+| `output/translations/acts_18.json` | `df0fc78a49988499024df8462c2ceab8954c8488eb051b8d2a031dc8e96510eb` |
 | `output/translations/acts_19.json` | `f3482d24fe372cc1c58e926af02644f52e49c103e2f89ee71327189351c59041` |
 | `output/translations/acts_20.json` | `9029c6962ae39c92b0bbe12da3c8af94406408ab9cd8e13642d35785b886c225` |
 | `output/translations/acts_21.json` | `e665b6ca680ed5282c035b2c7213f5f3f85f58638021637dcefae295f4e35e33` |
