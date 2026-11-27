@@ -240,9 +240,9 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/2samuel_22.json` | 51 | `fe8dc5b868c6062647b96880fe36c76ce8930af6d5efc49ad990e99b107c4986` | `b90dc109` |
 | `output/translations/2samuel_23.json` | 39 | `250bce9055f9874d6cd719954c1c3bbebe3f52ff3651631b177b42130fd2e06b` | `0a768932` |
 | `output/translations/2samuel_24.json` | 25 | `5ae7d6998c2c2f29f28d3ba7753462bc25e4b96ec6d9e7f863f6f93e0844ab1f` | `26b76184` |
-| `output/translations/2thessalonians_01.json` | 12 | `b71a33acccab25376e35421cea474fc17a09765405522424f14f9e1336419ca8` | `edc3aefd` |
-| `output/translations/2thessalonians_02.json` | 17 | `fa640c48d76fd7ffa006c4addfdf2d1ce8803eb8052b962c924e979705ca4ce5` | `cf6bd38f` |
-| `output/translations/2thessalonians_03.json` | 18 | `93383ef8a258d9ca44a236f8ecb545155a9a638f4be659a176067d9100be4bde` | `dcdcb5d8` |
+| `output/translations/2thessalonians_01.json` | 12 | `f351efe6d913140ee2f28918b485dccfb9e08be0fee322a1698cce1bca369b06` | `edc3aefd` |
+| `output/translations/2thessalonians_02.json` | 17 | `5f40e4ea59c6e722b431b239d534e8e30c3673f5ac6295e56be3ef61f2c329d4` | `cf6bd38f` |
+| `output/translations/2thessalonians_03.json` | 18 | `1d272f5bbae4878940e192ef6362108284f62ec7e933c6401f457329e0848c4e` | `dcdcb5d8` |
 | `output/translations/2timothy_01.json` | 18 | `9a67a033324a48a65af170897b24050e6114d235ae51dccaecf5c1d8d7b6fb4c` | `d03c3a1a` |
 | `output/translations/2timothy_02.json` | 26 | `0556acc3c5c3e22ca3ce39906dd0d86d24b9b2268928c347a54bb642d0d4fa7f` | `12da0af1` |
 | `output/translations/2timothy_03.json` | 17 | `79f0809b00a8a5a4257cf8b0a6b2a7e27be13b2324d26020f6f8b78dc6955ee7` | `7040ad9f` |
