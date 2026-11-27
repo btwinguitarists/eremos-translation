@@ -105,6 +105,8 @@ This is the **mirror image of §2.5** (the Joseph-vizier correction): there the 
 
 **The rule (lock):** Across the **Ezra–Nehemiah–Esther–Daniel block**, foreign emperors receive full ราชาศัพท์ (ทรง + royal verbs/nouns) for their **narrator-voice actions**, uniformly. Ezra's clear narrator-voice emperor-action verbs were upgraded 2026-05-30 (exact verse list: `docs/end_of_book/ezra/EZR_register_conformance_2026-05-30.md`). The four books are tagged as a unified register block.
 
+**Observed usage with temple vessels.** Ezra 1:7 uses royal ทรงนำ for Cyrus and plain ได้นำ for Nebuchadnezzar in the narrator’s relative clause. Ezra 5:14 reports the elders’ words and makes a comparable distinction in reported speech. Daniel 1:2 uses plain นำ and เก็บ for Nebuchadnezzar handling the vessels, alongside royal forms for his actions in 1:1, 3. These examples qualify the earlier description of uniform usage. The passages do not state a reason for the difference.
+
 **Boundaries (unchanged):** Hebrew-servant viziers (Ezra, Nehemiah, Zerubbabel, Sheshbazzar, Mordecai, Daniel) remain plain per §2.2 + §2.5. Sub-imperial vassals/officials (Tattenai, Rehum, etc.) remain plain. Temporal/genitive references ("ในรัชกาลของ X", "พระราชกฤษฎีกาของ X") carry no verb to mark and need no change.
 
 ### 2.3 Special case: the Tabernacle / Temple
