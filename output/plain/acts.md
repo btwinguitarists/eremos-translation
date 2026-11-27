@@ -734,7 +734,7 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **10** เปโตรเริ่มหิวและอยากรับประทานอาหาร แต่ขณะที่คนในบ้านกำลังจัดเตรียมอาหาร เขาก็เข้าสู่ภวังค์
 
-**11** เปโตรเห็นฟ้าสวรรค์เปิดออกและมีภาชนะบางอย่างเหมือนผ้าป่านผืนใหญ่ถูกหย่อนลงมายังแผ่นดินโลกโดยผูกที่มุมทั้งสี่
+**11** เปโตรเห็นฟ้าสวรรค์เปิดออกและมีภาชนะบางอย่างเหมือนผ้าผืนใหญ่ ถูกหย่อนลงมายังแผ่นดินโลกทางมุมทั้งสี่
 
 **12** ในภาชนะนั้นมีสัตว์สี่เท้า สัตว์เลื้อยคลานของแผ่นดิน และนกในอากาศทุกชนิด
 
@@ -822,7 +822,7 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **4** ฝ่ายเปโตรจึงอธิบายเรื่องราวทั้งหมดตามลำดับให้พวกเขาฟังว่า
 
-**5** “ขณะที่ข้าพเจ้ากำลังอธิษฐานอยู่ในเมืองยัฟฟา ข้าพเจ้าได้เห็นนิมิตในภวังค์ — มีภาชนะบางอย่างเหมือนผ้าป่านผืนใหญ่ถูกหย่อนลงมาจากฟ้าสวรรค์โดยผูกที่มุมทั้งสี่ และลอยลงมาจนถึงข้าพเจ้า
+**5** “ขณะที่ข้าพเจ้ากำลังอธิษฐานอยู่ในเมืองยัฟฟา ข้าพเจ้าได้เห็นนิมิตในภวังค์ — มีภาชนะบางอย่างเหมือนผ้าผืนใหญ่ถูกหย่อนลงมาจากฟ้าสวรรค์ทางมุมทั้งสี่ และลอยลงมาจนถึงข้าพเจ้า
 
 **6** เมื่อข้าพเจ้าจ้องมองดูภาชนะนั้น ข้าพเจ้าก็เห็นสัตว์สี่เท้าของแผ่นดิน สัตว์ป่า สัตว์เลื้อยคลาน และนกในอากาศ
 
@@ -2139,8 +2139,8 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/acts_07.json` | `4ad6bddd41a4b0d71fe30178891be8d8fb71dbd8376aefc5bfba5e4bdc155aaf` |
 | `output/translations/acts_08.json` | `a25f64271b5b2ab4c4f0e14948bab37dd2df2338571dffe45593d4a0374d0e37` |
 | `output/translations/acts_09.json` | `4b2f656598c3398ae37117312b38bde4e4831bbcea0d72672999078af3272d9f` |
-| `output/translations/acts_10.json` | `3493ed3fbd90c3449d8c3c49056ac11be86417505d058be60d7575b8c5847f7d` |
-| `output/translations/acts_11.json` | `27d5f7bdeab1d1b00163afd1046ce748c42904bb353df8cadcec0366cd6e559a` |
+| `output/translations/acts_10.json` | `31f327c40765850af3d19debcd63dd77f8785e1164828666de4824cd9f851c47` |
+| `output/translations/acts_11.json` | `2590ed82d023cf2f5aa54762ad3a86add9ac398d42e49f4f7ad84f0a769a7189` |
 | `output/translations/acts_12.json` | `10d144c0dffa58ec0857d86e8e4d35ca830d4561af4cd06809321228d4c1cc56` |
 | `output/translations/acts_13.json` | `7662295c27f5bd90b2c5726585eb217569bc00970fccf843faa4497f345addbb` |
 | `output/translations/acts_14.json` | `59da9d26e8a2aedf9a223bd41b6a16fe1ec3ca259af694eed93c717aff4186e7` |
