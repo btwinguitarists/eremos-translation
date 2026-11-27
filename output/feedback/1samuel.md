@@ -1874,11 +1874,11 @@ _ต้นฉบับฮีบรูบทนี้ใช้พระนาม 
 
 ## บทที่ 17
 
-**1** และชาวฟิลิสเตียรวมกองทัพของพวกเขาสำหรับสงคราม และพวกเขาร่วมตัวที่โสโคห์ในยูดาห์ และตั้งค่ายระหว่างโสโคห์และอาเซคาห์ที่เอเฟสดัมมิม
+**1** และชาวฟิลิสเตียรวมกองทัพของพวกเขาสำหรับสงคราม และพวกเขารวมตัวกันที่โสโคห์ในยูดาห์ และตั้งค่ายระหว่างโสโคห์และอาเซคาห์ที่เอเฟสดัมมิม
 
 > ___
 
-**2** และซาอูลกับชายของอิสราเอลร่วมตัวและตั้งค่ายที่หุบเขาเอลาห์ และจัดกองทัพเพื่อรบกับชาวฟิลิสเตีย
+**2** และซาอูลกับชายของอิสราเอลรวมตัวกันและตั้งค่ายที่หุบเขาเอลาห์ และจัดกองทัพเพื่อรบกับชาวฟิลิสเตีย
 
 > ___
 
@@ -3693,8 +3693,8 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/1samuel_01.json` | `946ce4698436ebd8460e446aa5d1f2d7d3cb947e93c810c168e2def8d76c1861` |
-| `output/translations/1samuel_02.json` | `6f847a66bde362d8bfeab85c836f0da39b7747ba788fd8d5812eddaf752995b5` |
+| `output/translations/1samuel_01.json` | `b4570df43135c4f55d57a888e4d05596d2d9cf197481fcb35e68311ad85f2351` |
+| `output/translations/1samuel_02.json` | `28cd5eb452b34997935ad2dd391e3bc9ae5fde070ae1247de93adefa6fd3b5d6` |
 | `output/translations/1samuel_03.json` | `ab0f8b5082206deabaed8dd1991b8b89b75202b55fd91e6344815085485573ce` |
 | `output/translations/1samuel_04.json` | `3b39cedef030e6af8647ad39a5b834f194bb5904b936c2aae481f71a3c94e11d` |
 | `output/translations/1samuel_05.json` | `dc2c96b19f52653b435709877bc4aab6d9d1d71f973942d0cf4c78339a775d79` |
@@ -3705,23 +3705,23 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/1samuel_10.json` | `97782cccbe444d5b0e46239ff5aaebf773110031c9dace87e613378e19d8e016` |
 | `output/translations/1samuel_11.json` | `1d396ce521d2c50af9f641828cc2757cc6cef1f354cdbde797c2482b9d6b92ca` |
 | `output/translations/1samuel_12.json` | `f4bfb08e70e08ffc33edb9cf85649faf7886b77a2c709d26792589b3852a9efa` |
-| `output/translations/1samuel_13.json` | `c7529d8872a8a4564bbb489d7cda7905bcb0e8861f51b3ffa22ab03e9785f4e0` |
-| `output/translations/1samuel_14.json` | `8909b73509c77c9ea4f3af3ac6092ed34a82fe2fff0fec0462c2b4062e67ee5f` |
-| `output/translations/1samuel_15.json` | `f4167ed8ab670a58be54cdb273e378079802fc37fc7d361da15319b4c71d5794` |
-| `output/translations/1samuel_16.json` | `767529199b71dc3ec39043b9959a466938e13da59d0d4490efa7a6ce47bec395` |
-| `output/translations/1samuel_17.json` | `79f9bcd5bef73fb19c242cb24e52085f08e9ae481fa3a81f6b31e2ac6a367c5a` |
+| `output/translations/1samuel_13.json` | `76201796d1629d92ba70efa5c4650237a1fa8ef36925cc17d8a765cebf0fad48` |
+| `output/translations/1samuel_14.json` | `599c25741149e0c11b407d8b0d43f0ed64c1fe3a2b85b856064f94f1d34a2401` |
+| `output/translations/1samuel_15.json` | `e73d0561dd025b64fca59a2355db883e3b8682913433e9e8b2ea8d7dd4b3bad4` |
+| `output/translations/1samuel_16.json` | `8c3ff272a19d17fa19aca75043dad89edde76e56ef8d66f175bb24d79c3e67d2` |
+| `output/translations/1samuel_17.json` | `3aa4bcf5d29db565245a815e679e3f9bd18e7819f1b39221e07a5b2b4d2b86d1` |
 | `output/translations/1samuel_18.json` | `8b902d137e72f53b0e3fd5092327548900ee73825125c3d2e8e79969f6a965d9` |
-| `output/translations/1samuel_19.json` | `5122c3754a65bebe837622a945b5673de40424fefb9b832568b8c639ced996c4` |
+| `output/translations/1samuel_19.json` | `df5b8fe0ae98261c86947e369bc4f4b20eba13bebaf1cd259ba9257383ab5864` |
 | `output/translations/1samuel_20.json` | `91810df0515d92d8517de4b231eb24a303a353c401a11629d7da89227e3b2106` |
 | `output/translations/1samuel_21.json` | `ea98885d5f41565b725b975c26a33ddc707ef8e85ad8660aed94f2f4ef4d8d87` |
-| `output/translations/1samuel_22.json` | `43aa15c9ea4ffcb6a59ae3602029c190317d35fb11a3c2ff7e1d7ca0f823eff2` |
+| `output/translations/1samuel_22.json` | `b28dea08957a24e646a3db551de2b41913fa45cb3aa60c0f51c855269fc07af3` |
 | `output/translations/1samuel_23.json` | `fafc2c26e844426500726de5a9680e52453b08b8fbde00381f263fb7c38fb2f0` |
 | `output/translations/1samuel_24.json` | `76940233bef86f50254d9fa601704f5716aa4d75c6f92644b596781cdad2406b` |
 | `output/translations/1samuel_25.json` | `83c062c8debaa291b1970b1a3852a8752465fd79f7d822fcb0deee8c39deb5af` |
 | `output/translations/1samuel_26.json` | `76df8ae8db7fb1b1b2e3a336a26b2f46154a947d74d80b506c5161ff839d57bd` |
 | `output/translations/1samuel_27.json` | `09f4299e82e761d0f067c87854d9133704ddf784c2e96316680d16481642e30b` |
-| `output/translations/1samuel_28.json` | `d828484b55248913d860f7f5ff797ffdd303b81b3b4fa9f377ca734aae24ab4b` |
+| `output/translations/1samuel_28.json` | `59f78138d815bae0428cf9009e894ff5bede3ce9805e22579054e8472259fc77` |
 | `output/translations/1samuel_29.json` | `c3fc45fcadcf340bc185172ef983f481b2c446410e786326609b8afce438a978` |
 | `output/translations/1samuel_30.json` | `9e4822923c1e4d857663e812f9f2f51a2aa069aac9d39b8f2ff39e69ee9f9ab2` |
-| `output/translations/1samuel_31.json` | `f9d769ff49292e106f94394845e1d46c4012ae607d80d1b90887771562e7dc11` |
+| `output/translations/1samuel_31.json` | `deebefd620246e334b3c6c23a5fb1e212c7349796c36b69b75d0552405d653a6` |
 
