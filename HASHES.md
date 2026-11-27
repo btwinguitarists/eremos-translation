@@ -64,11 +64,11 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/1corinthians_14.json` | 40 | `fd751079060a2cdc11047428ca6c5f246afae6e17dcd3d486744681e623c95ae` | `f6bc480f` |
 | `output/translations/1corinthians_15.json` | 58 | `f3e47bcd2667a869826a20a911bf097ce2216eba8b26f6bbfba9470889fbf4f3` | `b64d4872` |
 | `output/translations/1corinthians_16.json` | 24 | `a8deab69d82f0b049df96ee74a09aec3ba1f5f7bfaeb8cacbf5640cd25983c27` | `b64d4872` |
-| `output/translations/1john_01.json` | 10 | `668c6b2596ea3b49e04f3db7c1bf3c49ebc4b74e47dab2a06d1066a61bf501da` | `99db43c8` |
-| `output/translations/1john_02.json` | 29 | `09d88751a5315873f5ebea7a61a261712b1dd3ba38ba9de2af81da6c6ebbe59a` | `cd99b6b7` |
-| `output/translations/1john_03.json` | 24 | `e56c894253e2e905a084dcd2c682c048365a62a76f7994f5c82eac84d77235eb` | `53678fba` |
-| `output/translations/1john_04.json` | 21 | `59b1521f0ee777cb6285dc4f8a5090809b8e8db213f260c17e0220bb622ad5d7` | `7df238de` |
-| `output/translations/1john_05.json` | 21 | `8a121be46b76062d88358ea8d9d386b1119c9f64328cde7b7e2c574520d81c9e` | `7040ad9f` |
+| `output/translations/1john_01.json` | 10 | `697068cdc3f1aa7d75c0f1380f72a9ef36b695952e0ff44d03b1bad67744a664` | `99db43c8` |
+| `output/translations/1john_02.json` | 29 | `0a4959e008d02a2403cb65e0278638131f45496f4edd38f812c526ff183a9153` | `cd99b6b7` |
+| `output/translations/1john_03.json` | 24 | `923d7bed6a166e8124e18d7129baea99cb5b5e2c932ac149d20dffc98544ae9a` | `53678fba` |
+| `output/translations/1john_04.json` | 21 | `9e2d50260d3e38c0b622bcf9fd5ebd20044024c8cf337ac51c8eec03aa49db64` | `7df238de` |
+| `output/translations/1john_05.json` | 21 | `d1854ca8c4cbd5accc2e86ab6f8d42e23f2320c3f4ea0577c586749c7d175964` | `7040ad9f` |
 | `output/translations/1kings_01.json` | 53 | `650d24b347d50e9f26a556237481c5b52ce392c7d4e4c2d483a16c3363d994e0` | `32c4b197` |
 | `output/translations/1kings_02.json` | 46 | `3841525fa1e7b9f5a1a8229af9a7e632aadec6ad52c18e04e5b5ca0ec4e79d86` | `655d0f4e` |
 | `output/translations/1kings_03.json` | 28 | `f048e76835ff0397efe85db8aadf508bde4cb9959acf878febddb0d8b5cb1b3f` | `020e0ba4` |
