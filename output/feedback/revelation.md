@@ -914,7 +914,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**17** และมังกรนั้นโกรธหญิงนั้น และไปทำสงครามกับเชื้อสายที่เหลือของนาง คือผู้ที่รักษาพระบัญญัติของพระเจ้า และยึดมั่นในคำพยานของพระเยซู
+**17** และมังกรนั้นโกรธหญิงนั้น และไปทำสงครามกับเชื้อสายที่เหลือของนาง คือผู้ที่รักษาพระบัญญัติของพระเจ้า และยึดมั่นในคำพยานของพระเยซู และมังกรยืนอยู่บนทรายของทะเล
 
 > ___
 
@@ -922,7 +922,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 ## บทที่ 13
 
-**1** และมังกรยืนอยู่บนทรายของทะเล และข้าพเจ้าได้เห็นสัตว์ร้ายตัวหนึ่งขึ้นมาจากทะเล มีเขาสิบเขาและหัวเจ็ดหัว และบนเขาของมันมีมงกุฎสิบอัน และบนหัวของมันมีชื่อที่เป็นการดูหมิ่นพระเจ้า
+**1** และข้าพเจ้าได้เห็นสัตว์ร้ายตัวหนึ่งขึ้นมาจากทะเล มีเขาสิบเขาและหัวเจ็ดหัว และบนเขาของมันมีมงกุฎสิบอัน และบนหัวของมันมีชื่อที่เป็นการดูหมิ่นพระเจ้า
 
 > ___
 
@@ -1739,25 +1739,25 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | Chapter file | SHA-256 |
 |---|---|
 | `output/translations/revelation_01.json` | `f1b0ecef1fb3ed1bf8aac3b60f5548fd288d5393735cf26abfb8e3200a413750` |
-| `output/translations/revelation_02.json` | `34c1887c78b4c436e7a03084f575c2ddf9b26b862d50020e86f96df090174343` |
+| `output/translations/revelation_02.json` | `ada9ecd01a6ddcf3234952067e87ee4823cd389d62652b33ac4034728ab7db88` |
 | `output/translations/revelation_03.json` | `44772186a6c310b3fddace25718da1d2bf9bb1eac36fd55a504199ded6b7dcf7` |
 | `output/translations/revelation_04.json` | `dec1f2e1741690ac16af250378d60a70c7437bcd9a51258c420026d59921f3bc` |
 | `output/translations/revelation_05.json` | `0f0961c30911a5ba5c228915683906691a7fae893b56968d8372c9bb5b322f6a` |
 | `output/translations/revelation_06.json` | `ede55e2019358c5df31f2b15413cf1c3c244ef2819b8d17949d4fb2946cd9185` |
 | `output/translations/revelation_07.json` | `d9a653e1e8542a6f49361c4819d26c957c66ec615980db764d3ea4672ae0c786` |
 | `output/translations/revelation_08.json` | `ced1259392f0f25ef2ecb69416d507ceb5b4607d792cf10d57fff1e45ff3dfa7` |
-| `output/translations/revelation_09.json` | `d1f3010a06cb19968688fef7497f247be14820ae292c99bcfc4bd42a57924f9b` |
+| `output/translations/revelation_09.json` | `28674020038f47c9cf02c8bae49b61883c84f69fd1431e106dbc6677df1e9162` |
 | `output/translations/revelation_10.json` | `e83d4226e82829858d1d7455da6d9ef1c6698f940783a17782f8a5585466d5d2` |
 | `output/translations/revelation_11.json` | `7864e849dfba54b30b1e29b04b06bf139f9db32858f2fd14385c8a7d8b8312d5` |
-| `output/translations/revelation_12.json` | `d9116aff557e7acd06f105f8bc144d66c1c78704e98141badfffb41ba0359779` |
+| `output/translations/revelation_12.json` | `d11aaaa4f5ae81930ab5a165b1ceae2fc6c224cc07db4d3eb4ec9f595da7a2a9` |
 | `output/translations/revelation_13.json` | `99173b693271814787ba88529d4c1a7c6bdad8609ee05a42c8b8e88c905aa1a6` |
 | `output/translations/revelation_14.json` | `259f7c0b679ed3b71734a855d58f5027205e2ec4e8a67bd2f60bd7884586ee38` |
 | `output/translations/revelation_15.json` | `77c0b47a8ea909b64adb22a1d2e8370c35d2669ccbca8d59bc73860e5b6c7cca` |
 | `output/translations/revelation_16.json` | `75faeb9e477675ca60f722d6683ee928a06a06e47e542ac249b7f13804efbb97` |
 | `output/translations/revelation_17.json` | `550728a1b28cc7f9f18eafc45744a005ac502211735222c4359d3feb4f86f2ad` |
-| `output/translations/revelation_18.json` | `c20078086fcc8269ad9ac8b0e751a7f90e730f8942177323f8e3981a4b075363` |
-| `output/translations/revelation_19.json` | `4164fa9ad19399efa90b7008a9a2b61e82923096fbcf8d4df3bd881daabcf2c7` |
-| `output/translations/revelation_20.json` | `c7027f449f83712e448c56143882fe4ebf8beae34d5c87ce8430139d36561727` |
-| `output/translations/revelation_21.json` | `8eb61d791e33de56ca71e04de2e3a1d0a99551768bb989871047c3dd0f6238f2` |
+| `output/translations/revelation_18.json` | `e0d888672e5c7c6a7095d6053eea435c62abfe88da7e6c1180ea1ab787ab6d9e` |
+| `output/translations/revelation_19.json` | `17ce3ab6cb4304d357277527120d56da83ed6910743b1986b0695bd13151a38c` |
+| `output/translations/revelation_20.json` | `b82f6b6e5c85126790628b15b911c905c52aebd05b65a95bd164fcd0b98bc0ca` |
+| `output/translations/revelation_21.json` | `dc4197f519132bf463cf110dbce810633a51c0b3cda522c8fbceb086531a442c` |
 | `output/translations/revelation_22.json` | `0e2c70750b9a38d73535b3fc62b69675c5b99c85559bf2c982be6cbb47fcc139` |
 
