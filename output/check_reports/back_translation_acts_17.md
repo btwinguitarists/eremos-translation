@@ -11,7 +11,7 @@ Mode: in-chat (Claude-produced back-translations) | Threshold: 0.35
 ## ℹ Low similarity — rationale documented (intentional divergence)
 
 - **Acts 17:5** (sim=0.17)
-  - Thai: แต่พวกผู้นำชาวยิวเกิดความริษยา จึงเอาคนเลวๆ บางคนจากตลาด ก่อตัวเป็นฝูงชนวุ่นวาย และทำให้เมืองเกิดจลาจล พวกเขาบุกบ้านของยาโสน พยายามจะนำเปาโลกับสิลาสออกมามอบให้ฝูงชน
+  - Thai: แต่ชาวยิวกลุ่มหนึ่งเกิดความริษยา จึงเอาคนเลวๆ บางคนจากตลาด ก่อตัวเป็นฝูงชนวุ่นวาย และทำให้เมืองเกิดจลาจล พวกเขาบุกบ้านของยาโสน พยายามจะนำเปาโลกับสิลาสออกมามอบให้ฝูงชน
   - Back: But the Jewish leaders became jealous, so they took some wicked men from the marketplace, formed themselves into a disturbing crowd, and incited the city to riot. They raided Jason's house, hoping to bring Paul and Silas out to deliver them to the crowd.
   - BSB:  The Jews, however, became jealous. So they brought in some troublemakers from the marketplace, formed a mob, and sent the city into an uproar. They raided Jason's house in search of Paul and Silas, hoping to bring them out to the people.
 - **Acts 17:18** (sim=0.28)
