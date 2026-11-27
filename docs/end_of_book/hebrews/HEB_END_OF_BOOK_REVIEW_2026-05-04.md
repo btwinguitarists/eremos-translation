@@ -268,17 +268,17 @@ The HEB 3:7–4:13 chapter-long meditation on "rest" — the Sabbath-promised-la
 
 ## 12. πίστις (faith) cluster + HEB 11 πίστει formula — **LOCKED ✓ (uniform)**
 
-**πίστις occurs 32×** in HEB — densest in the NT alongside Romans (~40×). HEB 11 alone has the πίστει-anaphora (dative-of-means "by faith") **22× from 11:3 to 11:31**. The Thai rendering is **uniformly ความเชื่อ** across ALL grammatical cases (nominative, accusative, genitive, dative) and ALL contexts.
+**πίστις occurs 32×** in HEB — densest in the NT alongside Romans (~40×). HEB 11 alone has the πίστει-anaphora (dative-of-means "by faith") **18× from 11:3 to 11:31**. The Thai rendering is **uniformly ความเชื่อ** across ALL grammatical cases (nominative, accusative, genitive, dative) and ALL contexts.
 
 | Pattern | Thai | Count |
 |---|---|---|
 | πίστις (nom./gen./dat./acc.) → **ความเชื่อ** | uniform | ~30 |
-| πίστει (dative-of-means, HEB 11 anaphora) → **โดยความเชื่อ** | 22× in HEB 11 | uniform |
+| πίστει (dative-of-means, HEB 11 anaphora) → **โดยความเชื่อ** | 18× in HEB 11 | uniform |
 | Κατὰ πίστιν (HEB 11:13) → **โดยความเชื่อ** | 1 | (variant-construction; same Thai) |
 
 **HEB 11:1 famous definition:** Ἔστιν δὲ πίστις ἐλπιζομένων ὑπόστασις, πραγμάτων ἔλεγχος οὐ βλεπομένων → **ความเชื่อคือความมั่นใจในสิ่งที่เราหวัง และเป็นข้อพิสูจน์ในสิ่งที่เรามองไม่เห็น**. Renders the chiastic-doublet (ὑπόστασις ↔ ἔλεγχος) cleanly into Thai with the matched chiastic **ความมั่นใจ ↔ ข้อพิสูจน์** pair.
 
-**Editorial assessment:** Locked-tight. The 22× πίστει anaphora reads cleanly in Thai as **โดยความเชื่อ X [verb]** repeating across HEB 11:3–31 — the rhetorical-cumulative force of "by faith, by faith, by faith" is preserved with full lexical-uniformity. This is what πίστις-rendering ought to look like.
+**Editorial assessment:** Locked-tight. The 18× πίστει anaphora reads cleanly in Thai as **โดยความเชื่อ X [verb]** repeating across HEB 11:3–31 — the rhetorical-cumulative force of "by faith, by faith, by faith" is preserved with full lexical-uniformity. This is what πίστις-rendering ought to look like.
 
 **LOCKED ✓** — already corpus-uniform from prior Pauline (GAL, 1TH) + Synoptic + Johannine usage. No new doc needed; HEB confirms the corpus-wide πίστις → ความเชื่อ lock.
 
@@ -417,7 +417,7 @@ Comprehensive scan of the 18 active corpus locks and HEB compliance:
 | `speech_verbs_adversaries_addressing_divine_2026-04.md` | **N/A** — no narrative-adversary-speech in HEB. | **LOCKED (N/A)** |
 | `basileia_kingdom_rendering_2026-04.md` | HEB 1:8 (PSA 45 cite, βασιλείας → **ราชอาณาจักร** — compound royal-form for divine-kingdom-context) + 11:33 (κατηγωνίσαντο βασιλείας → **อาณาจักร** plural plain) + 12:28 (βασιλείαν ἀσάλευτον → **อาณาจักรที่ไม่อาจเขย่าได้** — eschatological). Per-context principled. Compliant. | **LOCKED** |
 | `ouranos_heaven_rendering_2026-04.md` | HEB 4:14 (διεληλυθότα τοὺς οὐρανούς → **ฟ้าสวรรค์** plural cosmic-scope) + 7:26 (ὑψηλότερος τῶν οὐρανῶν → **ฟ้าสวรรค์**) + 9:23-24 (3× → **สวรรค์**) + 12:23 (ἐν οὐρανοῖς → **สวรรค์**) + 12:25 (ἀπ' οὐρανῶν → **สวรรค์**) + 12:26 (γῆν ... καὶ τὸν οὐρανόν → **ฟ้าสวรรค์** cosmic-pair). Doc rule applied perfectly. Compliant. | **LOCKED** |
-| `parepidemos_paroikos_sojourner_2026-05.md` | HEB 11:13 (ξένοι καὶ παρεπίδημοί → **คนต่างด้าวและผู้พำนักอาศัย** — doublet-preserved). Compliant with the Petrine-rooted lock. | **LOCKED** |
+| `parepidemos_paroikos_sojourner_2026-05.md` | HEB 11:13 (ξένοι καὶ παρεπίδημοί → **คนแปลกหน้าและคนต่างถิ่น** — doublet-preserved). Compliant with the Petrine-rooted lock. | **LOCKED** |
 | `pascho_pathema_suffering_2026-05.md` | HEB 2:9, 2:10, 2:18, 5:8, 9:26, 13:12 — Christ-subject πάσχω uniformly takes **ทรง** royal prefix. The lock is Pauline-rooted but HEB applies it consistently across the Christ-suffering verses. Compliant. | **LOCKED** |
 | `prototokos_pauline_2026-05.md` | HEB 1:6 (πρωτότοκον singular-incarnation → **บุตรหัวปี**); 11:28 (τὰ πρωτότοκα plural-Passover → **บุตรหัวปี**); 12:23 (πρωτοτόκων plural-relational-of-believers → **บรรดาบุตรหัวปี**). Compliant — the Pauline three-sense split applies to genitive-marked Pauline-Christological cases (COL 1:15-18); HEB uses simple absolute forms. | **LOCKED** |
 | `arnion_amnos_lamb_disambiguation_2026-05.md` | **N/A in HEB** — HEB uses different sacrificial-victim vocabulary (μόσχος, τράγος, δάμαλις, ταῦρος) for OT-type sacrifices; no ἀρνίον or ἀμνός. | **LOCKED (N/A)** |

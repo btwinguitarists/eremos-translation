@@ -58,12 +58,12 @@
         {
           "greek": "πίστει νοοῦμεν",
           "thai": "โดยความเชื่อ เราเข้าใจว่า",
-          "rationale": "πίστει dative-of-means → โดยความเชื่อ (anaphora-formula starting here, recurring vv.4-29 + 31, ~22 occurrences total in this chapter). νοέω present-active-1pl → เข้าใจ (corpus from MAT 15:17, MAR 8:17, ROM 1:20)."
+          "rationale": "πίστει dative-of-means → โดยความเชื่อ (anaphora-formula starting here, recurring vv.4-29 + 31, 18 occurrences of this form in this chapter). νοέω present-active-1pl → เข้าใจ (corpus from MAT 15:17, MAR 8:17, ROM 1:20)."
         },
         {
           "greek": "κατηρτίσθαι τοὺς αἰῶνας ῥήματι θεοῦ",
           "thai": "จักรวาลถูกสร้างขึ้นโดยพระดำรัสของพระเจ้า",
-          "rationale": "καταρτίζω perfect-passive-infinitive → ถูกสร้างขึ้น (passive-Thai). αἰῶνας plural ‘ages / worlds / universe’ → จักรวาล (corpus-locked from HEB 1:2 ‘จักรวาล’ — same-Greek-noun for the created-cosmos). ῥῆμα θεοῦ → พระดำรัสของพระเจ้า (corpus-locked from HEB 1:3 ‘พระดำรัสแห่งฤทธานุภาพ’; พระ-prefix divine-utterance). uW figs-explicit: refers to GEN 1's ‘God said’ creation-by-fiat."
+          "rationale": "Here the ages or world are expressed as จักรวาล and God’s utterance as พระดำรัส. Hebrews 1:2 uses ยุคทั้งหลาย and 1:3 uses พระวจนะ for the corresponding Greek terms."
         },
         {
           "greek": "εἰς τὸ μὴ ἐκ φαινομένων τὸ βλεπόμενον γεγονέναι",
@@ -133,10 +133,10 @@
         {
           "greek": "πρὸ γὰρ τῆς μεταθέσεως μεμαρτύρηται εὐαρεστηκέναι τῷ θεῷ",
           "thai": "เพราะก่อนที่ท่านจะถูกรับขึ้นไปนั้น มีคำรับรองว่าท่านเป็นที่พอพระทัยพระเจ้า",
-          "rationale": "μετάθεσις (rare, 3x NT) cognate-noun-of μετατίθημι → การถูกรับขึ้นไป. uW figs-activepassive: μαρτυρέω perfect-passive 3sg ‘has-been-testified’ → มีคำรับรอง. εὐαρεστέω perfect-active-infinitive ‘to-have-pleased’ → เป็นที่พอพระทัย. uW figs-explicit: GEN 5:22, 24 ‘Enoch walked with God.’"
+          "rationale": "Hebrew Genesis 5:22, 24 describes walking with God. Greek Genesis uses the language of pleasing God, which Hebrews develops. For Enoch’s removal Hebrews has διότι, where the Greek of Genesis 5:24 has ὅτι."
         }
       ],
-      "notes": "DIRECT CITATION GEN 5:24 LXX (embedded in narrative, not formally introduced). μετάθεσις rare (3x NT — also 7:12, 12:27). Enoch + Elijah are the two-figures translated-without-death-experience in the OT. εὐαρεστέω introduces the v.6 axiom about pleasing God."
+      "notes": "Hebrew Genesis 5:22, 24 describes walking with God. Greek Genesis uses the language of pleasing God, which Hebrews develops. For Enoch’s removal Hebrews has διότι, where the Greek of Genesis 5:24 has ὅτι."
     }
   },
   {
@@ -176,7 +176,7 @@
     "greek": "πίστει χρηματισθεὶς Νῶε περὶ τῶν μηδέπω βλεπομένων εὐλαβηθεὶς κατεσκεύασεν κιβωτὸν εἰς σωτηρίαν τοῦ οἴκου αὐτοῦ,δι’ἧς κατέκρινεν τὸν κόσμον,καὶ τῆς κατὰ πίστιν δικαιοσύνης ἐγένετο κληρονόμος.",
     "bsb_english": "By faith Noah, when warned about things not yet seen, in godly fear built an ark to save his family. By faith he condemned the world and became heir of the righteousness that comes by faith.",
     "translation": {
-      "thai": "โดยความเชื่อ โนอาห์ เมื่อได้รับการเตือนถึงสิ่งที่ยังมองไม่เห็น ก็ด้วยความเกรงกลัวพระเจ้าได้สร้างเรือใหญ่เพื่อช่วยครอบครัวของท่านให้รอด โดยความเชื่อนี้ ท่านได้กล่าวโทษโลก และได้กลายเป็นทายาทแห่งความชอบธรรมที่มาโดยความเชื่อ",
+      "thai": "โดยความเชื่อ โนอาห์ เมื่อได้รับการเตือนถึงสิ่งที่ยังมองไม่เห็น ก็ด้วยความเกรงกลัวพระเจ้าได้สร้างเรือใหญ่เพื่อช่วยครอบครัวของท่านให้รอด โดยความเชื่อนี้ ท่านได้แสดงให้เห็นว่าโลกมีความผิด และได้กลายเป็นทายาทแห่งความชอบธรรมที่มาโดยความเชื่อ",
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
@@ -197,8 +197,8 @@
         },
         {
           "greek": "δι’ἧς κατέκρινεν τὸν κόσμον",
-          "thai": "โดยความเชื่อนี้ ท่านได้กล่าวโทษโลก",
-          "rationale": "uW writing-pronouns: ἧς feminine = πίστις (the most-immediate antecedent in the chapter). κατακρίνω aorist-active 3sg → ได้กล่าวโทษ (corpus from MAT 12:41-42, 20:18; ROM 8:34). uW figs-explicit: by-his-faith Noah's-righteousness contrasts-with the world's-condemnation."
+          "thai": "โดยความเชื่อนี้ ท่านได้แสดงให้เห็นว่าโลกมีความผิด",
+          "rationale": "The feminine relative can recall faith, the ark, or rescue. Thai takes it as faith, following the refrain. Noah’s response shows the world guilty. The Greek reports no speech in which Noah accused it."
         },
         {
           "greek": "καὶ τῆς κατὰ πίστιν δικαιοσύνης ἐγένετο κληρονόμος",
@@ -233,7 +233,7 @@
         {
           "greek": "καὶ ἐξῆλθεν μὴ ἐπιστάμενος ποῦ ἔρχεται",
           "thai": "และได้ออกเดินทางไปโดยไม่รู้ว่าจะไปที่ไหน",
-          "rationale": "ἐξέρχομαι aorist-active-3sg → ได้ออกเดินทางไป. ἐπίσταμαι present-middle-participle → ทรงรู้. ποῦ ἔρχεται → จะไปที่ไหน. uW figs-explicit: GEN 12:1-4 — Abraham's-leaving-Ur (or Haran) without-knowing-destination. Corrected 2026-10-20: RULES §3 reserves the royal register for divine subjects; the patriarchs take plain register (Thai Bible convention), so ทรง is removed from verbs whose subject is Abraham, Isaac, Jacob or Moses in this chapter."
+          "rationale": "Genesis 12:4–5 names Haran as the place of departure and Canaan as the destination in the narrative. Hebrews emphasizes that Abraham obeyed without yet knowing where he was going."
         }
       ],
       "notes": "OT BACKGROUND: GEN 12:1-4 (Abraham's calling-and-departure)."
@@ -253,7 +253,7 @@
         {
           "greek": "πίστει παρῴκησεν εἰς γῆν τῆς ἐπαγγελίας ὡς ἀλλοτρίαν",
           "thai": "โดยความเชื่อ ท่านได้อาศัยอยู่ในแผ่นดินแห่งพระสัญญาในฐานะคนต่างด้าว",
-          "rationale": "παροικέω aorist-active-3sg ‘sojourned-as-foreigner’ → ทรงอาศัยอยู่ ... ในฐานะคนต่างด้าว (cognate πάροικος ‘sojourner’ from ACT 7:6, EPH 2:19, 1 PE 2:11; the verb here = the lifestyle-of-the-resident-alien). γῆ τῆς ἐπαγγελίας → แผ่นดินแห่งพระสัญญา (Promised-Land standard biblical Thai). ἀλλότριος → คนต่างด้าว. Corrected 2026-10-20: RULES §3 reserves the royal register for divine subjects; the patriarchs take plain register (Thai Bible convention), so ทรง is removed from verbs whose subject is Abraham, Isaac, Jacob or Moses in this chapter."
+          "rationale": "The Greek adjective ἀλλοτρίαν agrees with the land, which was foreign to Abraham. The Thai ในฐานะคนต่างด้าว expresses the same relationship from the standpoint of Abraham living there."
         },
         {
           "greek": "ἐν σκηναῖς κατοικήσας μετὰ Ἰσαὰκ καὶ Ἰακὼβ",
@@ -363,7 +363,7 @@
     "translation": {
       "thai": "บุคคลเหล่านี้ทั้งสิ้นตายโดยความเชื่อ โดยมิได้รับสิ่งที่ทรงสัญญาไว้ แต่ได้เห็นและทักทายต้อนรับสิ่งเหล่านั้นจากระยะไกล และได้ประกาศยอมรับว่าพวกเขาเป็นเพียงคนแปลกหน้าและคนต่างถิ่นบนแผ่นดินโลก",
       "thai_literal": null,
-      "thai_summary": "ผู้เขียนหยุดในกลางการเล่าเรื่องเพื่ออธิบายว่าบรรพบุรุษเหล่านั้นไม่เคยเห็นการสำเร็จของพระสัญญาในชีวิตของพวกเขา แต่กลับยืนหยัดในความเชื่อจนวันสุดท้าย พวกเขาเห็นว่าตัวเองเป็น “คนต่างด้าวและผู้พำนักอาศัย” บนแผ่นดินโลก เพราะสำนึกว่าบ้านเมืองที่แท้จริงของพวกเขาอยู่ที่อื่น (อ้างอิง สดุดี 39:12, ปฐมกาล 23:4)",
+      "thai_summary": "ผู้เขียนหยุดในกลางการเล่าเรื่องเพื่ออธิบายว่าบรรพบุรุษเหล่านั้นไม่เคยเห็นการสำเร็จของพระสัญญาในชีวิตของพวกเขา แต่กลับยืนหยัดในความเชื่อจนวันสุดท้าย พวกเขาเห็นว่าตัวเองเป็น “คนแปลกหน้าและคนต่างถิ่น” บนแผ่นดินโลก เพราะสำนึกว่าบ้านเมืองที่แท้จริงของพวกเขาอยู่ที่อื่น (อ้างอิง สดุดี 39:12, ปฐมกาล 23:4)",
       "key_decisions": [
         {
           "greek": "Κατὰ πίστιν ἀπέθανον οὗτοι πάντες",
@@ -382,11 +382,11 @@
         },
         {
           "greek": "καὶ ὁμολογήσαντες ὅτι ξένοι καὶ παρεπίδημοί εἰσιν ἐπὶ τῆς γῆς",
-          "thai": "และได้ประกาศยอมรับว่าพวกเขาเป็นเพียงคนต่างด้าวและผู้พำนักอาศัยบนแผ่นดินโลก",
-          "rationale": "ὁμολογέω aorist-active-participle → ได้ประกาศยอมรับ (corpus consistency-with HEB 3:1, 4:14, 10:23 ὁμολογία cognate). uW figs-doublet: ξένοι + παρεπίδημοι. ξένος → คนต่างด้าว (corpus from MAT 25:35 + EPH 2:19). παρεπίδημος (rare, 3x NT) → ผู้พำนักอาศัย (corpus from 1 PE 1:1, 2:11 ‘ผู้อยู่อาศัยชั่วคราว’; here ‘ผู้พำนักอาศัย’ matches the temporary-resident sense). uW figs-explicit: GEN 23:4 LXX (Abraham confessed himself ‘a stranger and sojourner’ — same vocabulary)."
+          "thai": "และได้ประกาศยอมรับว่าพวกเขาเป็นเพียงคนแปลกหน้าและคนต่างถิ่นบนแผ่นดินโลก",
+          "rationale": "Greek Genesis 23:4 and Psalm 38:13 (English 39:12) pair πάροικος with παρεπίδημος. Hebrews pairs ξένος with παρεπίδημος. The Thai distinguishes คนแปลกหน้า and คนต่างถิ่น. The earlier texts provide a related image."
         }
       ],
-      "notes": "OT ALLUSION: GEN 23:4 LXX (Abraham's confession ‘ξένος καὶ παρεπίδημος’) + PSA 39:12 (sojourner-on-earth motif). uW figs-doublet ξένος + παρεπίδημος — both nuances preserved in Thai. παρεπίδημος corpus-locked from 1 PE."
+      "notes": "Greek Genesis 23:4 and Psalm 38:13 (English 39:12) pair πάροικος with παρεπίδημος. Hebrews pairs ξένος with παρεπίδημος. The Thai distinguishes คนแปลกหน้า and คนต่างถิ่น. The earlier texts provide a related image."
     }
   },
   {
@@ -423,7 +423,7 @@
         {
           "greek": "καὶ εἰ μὲν ἐκείνης μνημονεύουσιν ἀφ’ἧς ἐξέβησαν",
           "thai": "และหากพวกเขาคิดถึงบ้านเมืองที่พวกเขาออกมานั้น",
-          "rationale": "uW grammar-connect-condition-contrary: εἰ + indicative-present-imperfect = counter-factual. μνημονεύω present-active-3pl → คิดถึง (cf. HEB 13:7 ‘ระลึก’; here in nostalgic-recall sense ‘คิดถึง’). HAPAX ἐκβαίνω (only-here NT — ‘to-go-out / depart-from’) → ออกมา. ἐκείνης feminine = πατρίς from v.14; Thai supplies ‘บ้านเมือง’ explicitly per uW alternate."
+          "rationale": "The selected text has present μνημονεύουσιν (“they remember”) and the imperfect εἶχον with ἄν in the consequence. NA28 has the imperfect ἐμνημόνευον in the condition. The place they left is not named here."
         },
         {
           "greek": "εἶχον ἂν καιρὸν ἀνακάμψαι",
@@ -431,7 +431,7 @@
           "rationale": "εἶχον imperfect + ἄν = counter-factual-apodosis → ก็คง ... ได้. καιρός → โอกาส (here time-as-opportunity, distinct from ‘เวลา’ generic-time). ἀνακάμπτω aorist-active-infinitive → กลับ."
         }
       ],
-      "notes": "HAPAX ἐκβαίνω (only NT). Counter-factual: had they wanted to return, they could have. The ‘departed-country’ = Ur/Mesopotamia."
+      "notes": "The selected text has present μνημονεύουσιν (“they remember”) and the imperfect εἶχον with ἄν in the consequence. NA28 has the imperfect ἐμνημόνευον in the condition. The place they left is not named here."
     }
   },
   {
@@ -533,7 +533,7 @@
         {
           "greek": "ὅθεν αὐτὸν καὶ ἐν παραβολῇ ἐκομίσατο",
           "thai": "จึงเป็นเหตุให้ท่านรับอิสอัคคืนมาในเชิงเปรียบเทียบ",
-          "rationale": "ὅθεν → จึงเป็นเหตุ. ἐν παραβολῇ ‘in-a-figure / typologically / symbolically’ → ในเชิงเปรียบเทียบ. uW figs-explicit: Isaac was as-good-as-dead (Abraham raised the knife) but received-back-alive — typologically a resurrection. κομίζω aorist-middle-3sg → ทรงรับ ... คืนมา (consistency 9:12 ‘ทรงทำให้สำเร็จ’ — here in receive-back sense). Corrected 2026-10-20: RULES §3 reserves the royal register for divine subjects; the patriarchs take plain register (Thai Bible convention), so ทรง is removed from verbs whose subject is Abraham, Isaac, Jacob or Moses in this chapter."
+          "rationale": "ὅθεν → จึงเป็นเหตุ. ἐν παραβολῇ ‘in-a-figure / typologically / symbolically’ → ในเชิงเปรียบเทียบ. uW figs-explicit: Isaac was as-good-as-dead (Abraham raised the knife) but received-back-alive — typologically a resurrection. κομίζω aorist-middle-3sg → ทรงรับ ... คืนมา (compare κομίσησθε in 10:36 ‘ทรงทำให้สำเร็จ’ — here in receive-back sense). Corrected 2026-10-20: RULES §3 reserves the royal register for divine subjects; the patriarchs take plain register (Thai Bible convention), so ทรง is removed from verbs whose subject is Abraham, Isaac, Jacob or Moses in this chapter."
         }
       ],
       "notes": "Author's theological-interpretation of Aqedah: Abraham believed God-could-resurrect; Isaac-returned-alive = type-of-resurrection. ἐν παραβολῇ technical-typology language."
@@ -623,7 +623,7 @@
         {
           "greek": "Πίστει Μωϋσῆς γεννηθεὶς ἐκρύβη τρίμηνον ὑπὸ τῶν πατέρων αὐτοῦ",
           "thai": "โดยความเชื่อ เมื่อโมเสสเกิดมา บิดามารดาของท่านได้ซ่อนท่านไว้สามเดือน",
-          "rationale": "Μωϋσῆς → โมเสส (corpus). γεννάω aorist-passive-participle → เกิดมา. uW figs-activepassive: κρύπτω aorist-passive-3sg → ได้ซ่อน (active-Thai-natural with-explicit-subject). HAPAX τρίμηνον (only-here NT — ‘three-month-period’) → สามเดือน. πατέρες ‘fathers’ here = both-parents (uW figs-explicit) → บิดามารดา (Thai gender-inclusive natural-rendering)."
+          "rationale": "Hebrews says Moses’ parents hid him and did not fear the edict. Hebrew Exodus 2:2 names his mother hiding him for three months. Acts 7:20 calls him beautiful to God."
         },
         {
           "greek": "διότι εἶδον ἀστεῖον τὸ παιδίον",
@@ -636,7 +636,7 @@
           "rationale": "HAPAX διάταγμα (only-here NT — ‘edict / decree’) → พระราชโองการ (royal-Thai-vocabulary for king's-edict). βασιλεύς → กษัตริย์ (consistency)."
         }
       ],
-      "notes": "TWO HAPAXES in v.23 (τρίμηνον, διάταγμα). OT BACKGROUND: EXO 1:22, 2:1-10 (Pharaoh's edict against Hebrew male-children + Moses' parents hiding him)."
+      "notes": "Hebrews says Moses’ parents hid him and did not fear the edict. Hebrew Exodus 2:2 names his mother hiding him for three months. Acts 7:20 calls him beautiful to God."
     }
   },
   {
@@ -653,10 +653,10 @@
         {
           "greek": "πίστει Μωϋσῆς μέγας γενόμενος ἠρνήσατο λέγεσθαι υἱὸς θυγατρὸς Φαραώ",
           "thai": "โดยความเชื่อ โมเสสเมื่อเติบใหญ่แล้ว ได้ปฏิเสธที่จะถูกเรียกว่าบุตรของธิดาฟาโรห์",
-          "rationale": "μέγας γενόμενος ‘having-become-great / when-he-was-grown’ → เติบใหญ่. ἀρνέομαι aorist-middle-3sg → ได้ปฏิเสธ. λέγω present-passive-infinitive → ถูกเรียก. θυγάτηρ → ธิดา. Φαραώ → ฟาโรห์ (corpus from ACT 7:10-13). uW writing-background: EXO 2:10-15 (Moses raised in Pharaoh's-court, then-renounced his-Egyptian-identity)."
+          "rationale": "Exodus 2:10–15 narrates Moses’ adoption and his going out to his people. Hebrews describes the adult Moses as refusing to be called the son of Pharaoh’s daughter. Exodus records no speech of renunciation."
         }
       ],
-      "notes": "OT BACKGROUND: EXO 2:10-15 (Moses raised by Pharaoh's daughter, then renounced)."
+      "notes": "Exodus 2:10–15 narrates Moses’ adoption and his going out to his people. Hebrews describes the adult Moses as refusing to be called the son of Pharaoh’s daughter. Exodus records no speech of renunciation."
     }
   },
   {
@@ -786,7 +786,7 @@
           "rationale": "uW figs-idiom: πεῖραν λαμβάνω ‘to-take-experience-of / to-attempt’ → พยายามทำเช่นนั้น (Thai unfolds the idiom). Αἰγύπτιοι → ชาวอียิปต์ (consistency 11:22). καταπίνω aorist-passive-3pl ‘were-swallowed-down’ → จมหายไป (drowning-imagery; cf. 1 COR 15:54 cognate ‘ถูกกลืน’). uW writing-background: EXO 14 (the Red Sea miracle + Egyptians drowned)."
         }
       ],
-      "notes": "HAPAX ἐρυθρός (only NT in this-isolated-form, but Ἐρυθρά-Θάλασσα phrase also at ACT 7:36). OT BACKGROUND: EXO 14."
+      "notes": "Acts 7:36 also calls this the Red Sea using the adjective ἐρυθρός. Here the contrast is between those who crossed by faith and the Egyptians who were swallowed up."
     }
   },
   {
@@ -863,7 +863,7 @@
         {
           "greek": "περὶ Γεδεών, Βαράκ, Σαμψών, Ἰεφθάε, Δαυίδ τε καὶ Σαμουὴλ καὶ τῶν προφητῶν",
           "thai": "ของกิดเอน บาราค แซมสัน เยฟทาห์ ดาวิด ซามูเอล และบรรดาผู้เผยพระวจนะ",
-          "rationale": "FIVE HAPAXES (proper names) — all OT-Judges + early-Kings figures. Per `proper_names_and_transliteration_2026-05.md` cross-corpus rule (2026-05-20, JDG audit Item C): NT retrospective references to OT-narrative figures use the **OT-Hebrew-faithful** Thai surface for cross-corpus reader recognition, not Greek-transliteration drift. Γεδεών (Greek-form, → กิเดโอน in isolation) → **กิดเอน** (Hebrew-faithful, matches all 57 JDG occurrences from גִּדְעוֹן). Βαράκ → บาราค (matches all 12 JDG occurrences from בָּרָק — Greek and Hebrew forms converge). Σαμψών → แซมสัน (matches all 50 JDG occurrences from שִׁמְשׁוֹן — convergent). Ἰεφθάε → **เยฟทาห์** (Hebrew-faithful, matches all 26 JDG occurrences from יִפְתָּח). Δαυίδ → ดาวิด (corpus standard from MAT 1:1, matches שָׁמוּאֵל-side Hebrew). Σαμουήλ → ซามูเอล (corpus from ACT 3:24, 13:20). προφήτης → ผู้เผยพระวจนะ (corpus standard)."
+          "rationale": "The writer names six people: Gideon, Barak, Samson, Jephthah, David (Δαυίδ, דָּוִד) and Samuel (Σαμουήλ, שְׁמוּאֵל), then refers collectively to the prophets."
         }
       ],
       "notes": "FIVE HAPAXES in v.32 (ἐπιλείπω, Γεδεών, Βαράκ, Σαμψών, Ἰεφθάε — four proper-names + the verb). OT BACKGROUND: JDG 6-8 (Gideon), JDG 4-5 (Barak), JDG 13-16 (Samson), JDG 11-12 (Jephthah), 1-2 Sam (David, Samuel)."
@@ -898,7 +898,7 @@
         {
           "greek": "ἔφραξαν στόματα λεόντων",
           "thai": "ได้ปิดปากสิงห์",
-          "rationale": "OT ALLUSION DAN 6 (Daniel + lions). φράσσω aorist-active-3pl → ได้ปิด. στόμα → ปาก. λέων → สิงห์ (corpus standard from MAT 4:25 area context, REV 4:7, 5:5)."
+          "rationale": "The Greek says they shut lions’ mouths. Compare Daniel 6:22, where Daniel says God’s angel shut the mouths of the lions."
         }
       ],
       "notes": "HAPAX καταγωνίζομαι (only NT). OT ALLUSION cluster: kingdoms-conquered (David's-wars, Joshua); justice-administered (Samuel-as-judge); promises-gained (David's-throne, etc.); lions'-mouths (DAN 6). v.33-38 are tightly-packed list-of-faith-experiences."
@@ -1031,7 +1031,7 @@
           "rationale": "TRIPLE-PARTICIPLE list. ὑστερέω present-passive-participle → ขาดแคลน (cf. PHP 4:12 cognate). θλίβω present-passive-participle → ถูกบีบคั้น. κακουχέω present-passive-participle → ถูกทารุณกรรม (consistency 11:25 cognate συγκακουχέομαι ‘ทนทุกข์ร่วมกับ’). uW writing-background: prophetic-sufferings (Elijah, Elisha, Jeremiah)."
         }
       ],
-      "notes": "FOUR HAPAXES in v.37 (πρίζω, μηλωτή, αἴγειος, δέρμα). Allusion to traditional Isaiah-martyrdom (sawn-in-two) + Elijah-mantle (sheepskin)."
+      "notes": "The selected text moves directly from stoning to being sawn. Westcott–Hort has “they were tested” before the sawing, and the Byzantine text has it afterwards. Tradition associates the sawing with Isaiah, whom this verse leaves unnamed."
     }
   },
   {
@@ -1081,7 +1081,7 @@
           "rationale": "κομίζω aorist-middle-3pl → ได้รับ (consistency 10:36, 11:19). ἐπαγγελία → สิ่งที่ทรงสัญญาไว้ (consistency)."
         }
       ],
-      "notes": "Closes the catalog. The paradox: commended-by-faith but did-not-receive-the-promise (in their lifetimes). Sets up v.40."
+      "notes": "Verse 33 speaks of obtaining promises in the plural. This verse looks to the promise in the singular that these witnesses had not received, leading into God’s provision in verse 40."
     }
   },
   {
@@ -1093,7 +1093,7 @@
     "translation": {
       "thai": "เพราะพระเจ้าได้ทรงจัดเตรียมสิ่งที่ดียิ่งกว่าไว้สำหรับเรา เพื่อพวกเขาจะมิได้รับความสมบูรณ์โดยปราศจากเรา",
       "thai_literal": null,
-      "thai_summary": "ข้อสุดท้ายของบทที่ 11 เปิดเผยความจริงที่ลึกซึ้ง — ความสมบูรณ์ของบรรพบุรุษเหล่านี้ในความเชื่อต้องคอยจนกว่าพระคริสต์จะเสด็จมา และผู้เชื่อในพันธสัญญาใหม่ก็เชื่อมต่อกับพวกเขา ทั้งหมดจะได้รับความสมบูรณ์ร่วมกันเป็นครอบครัวเดียวของพระเจ้า ในเอกสารฉบับเดียวกันของพระคุณนิรันดร์",
+      "thai_summary": "พระเจ้าทรงเตรียมสิ่งที่ดีกว่าไว้สำหรับเรา เพื่อให้ผู้มีความเชื่อที่กล่าวมานี้ได้รับความสมบูรณ์พร้อมกับเรา",
       "key_decisions": [
         {
           "greek": "τοῦ θεοῦ περὶ ἡμῶν κρεῖττόν τι προβλεψαμένου",

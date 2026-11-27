@@ -930,7 +930,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**7** โดยความเชื่อ โนอาห์ เมื่อได้รับการเตือนถึงสิ่งที่ยังมองไม่เห็น ก็ด้วยความเกรงกลัวพระเจ้าได้สร้างเรือใหญ่เพื่อช่วยครอบครัวของท่านให้รอด โดยความเชื่อนี้ ท่านได้กล่าวโทษโลก และได้กลายเป็นทายาทแห่งความชอบธรรมที่มาโดยความเชื่อ
+**7** โดยความเชื่อ โนอาห์ เมื่อได้รับการเตือนถึงสิ่งที่ยังมองไม่เห็น ก็ด้วยความเกรงกลัวพระเจ้าได้สร้างเรือใหญ่เพื่อช่วยครอบครัวของท่านให้รอด โดยความเชื่อนี้ ท่านได้แสดงให้เห็นว่าโลกมีความผิด และได้กลายเป็นทายาทแห่งความชอบธรรมที่มาโดยความเชื่อ
 
 > ___
 
@@ -1308,7 +1308,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/hebrews_08.json` | `b6ff04bbed4dffa70b3312598d52a4eee339224b99a527359138d9784cec72a8` |
 | `output/translations/hebrews_09.json` | `8d90474d5085cb669a39c9cba6ed697386aa13f901240f6d84ce271dd217c02d` |
 | `output/translations/hebrews_10.json` | `7c673170134e0fe9ada0e47cd3e7f9abd2636ca4df83620709586f22b8e9d12b` |
-| `output/translations/hebrews_11.json` | `dba8c5f3afb2f2998c1c9a51b3f1577bae202c5e84b3d46c6314a508a1292be1` |
+| `output/translations/hebrews_11.json` | `1f4b21e2ad07b75c99307f836fadbb5ec732319353b4ea5be560fbb62ee99955` |
 | `output/translations/hebrews_12.json` | `25ce0cf444275c379828916bc9c71762bfd6c12dddd192a2bdbb04d1e6df402f` |
 | `output/translations/hebrews_13.json` | `9a127679a4d08216bd9665e739ae6d25f811658deeba5775761a1915a236f17e` |
 
