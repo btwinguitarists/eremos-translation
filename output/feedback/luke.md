@@ -2410,11 +2410,11 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**19** และเราจะบอกแก่จิตใจของเราว่า “จิตใจเอ๋ย เจ้ามีทรัพย์ดีๆ มากมายเก็บไว้พอใช้หลายปี จงพักผ่อน กินดื่ม และสนุกสนานเถิด”’
+**19** และเราจะบอกตัวเองว่า “ชีวิตของเราเอ๋ย เจ้ามีทรัพย์ดีๆ มากมายเก็บไว้พอใช้หลายปี จงพักผ่อน กินดื่ม และสนุกสนานเถิด”’
 
 > ___
 
-**20** แต่พระเจ้าตรัสกับเขาว่า ‘คนโง่เอ๋ย คืนนี้เอง จิตวิญญาณของเจ้าจะถูกเรียกคืนจากเจ้า แล้วสิ่งของที่เจ้าสะสมไว้จะเป็นของใคร?’
+**20** แต่พระเจ้าตรัสกับเขาว่า ‘คนโง่เอ๋ย คืนนี้เอง ชีวิตของเจ้าจะถูกเรียกคืนจากเจ้า แล้วสิ่งของที่เจ้าสะสมไว้จะเป็นของใคร?’
 
 > ___
 
@@ -4727,19 +4727,19 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | Chapter file | SHA-256 |
 |---|---|
 | `output/translations/luke_01.json` | `a2e962caa79357ba6ef2d07073b943f0f7f0e965c1277ff77a6eb9d76efd25c3` |
-| `output/translations/luke_02.json` | `c6e0e213115a4cb2c7e2c562800aa9e3dad0d18a1d5b0c31abe3e8ee7ec1edf6` |
-| `output/translations/luke_03.json` | `b2708ce168cb47ba0a98eb44fd3b06b14de5345f69d6088c7ac79cc9ae46faeb` |
+| `output/translations/luke_02.json` | `8d3b917cc52a523235e8379f308a6cddce0109374ea6d7c6e6b3a954094ad559` |
+| `output/translations/luke_03.json` | `b146706d365d473f1e193e1f19d10810af4017cd0cc1a4e9448158b0b81aa4f9` |
 | `output/translations/luke_04.json` | `4339ef391317a23a64fca11f55dee4f72f3cff0832c854fefb321ee531489cc1` |
-| `output/translations/luke_05.json` | `ac21c094fc34760069a9df1d22e3bd174de655dd7b8cd9304780bae57e161622` |
+| `output/translations/luke_05.json` | `def89e2fc40ccf7f186ef2819c397735fc64d2a81754b6d197459e72c4f7420c` |
 | `output/translations/luke_06.json` | `7fbbdd8d7686438a60981b2dbd34e5d8cac16ab225e0eba77e97da23d0b6e3d9` |
 | `output/translations/luke_07.json` | `abca3771fc470d241e748fc2b966ea50d98d24710cdd522dbd8c393c8d89fe70` |
-| `output/translations/luke_08.json` | `a2331bca27a3f0d5ae073e4cad14c76edf933f00f55fa64b33e89bcdec2710e0` |
+| `output/translations/luke_08.json` | `504b6824251fc7c87a4ac7fdcb0c5ebc6e1e4c71660cca43daeacb7e6dd5af1a` |
 | `output/translations/luke_09.json` | `bf0d1268d2d297738bfa87bd2093d1e9628f73b2c419e3949b926ded54017fcd` |
 | `output/translations/luke_10.json` | `a7b7b9b6450293cd7db0ba1b2a6b97b86f42cd48ce3727f0b6a01363035a7907` |
 | `output/translations/luke_11.json` | `ef111a3373772c2deea54d0a7f5ea543bc3f9ad6ceb7df66999e4ffbc0812024` |
-| `output/translations/luke_12.json` | `0d51ecca141f574e51adacf4280853fa53fcfe8dab4b79b8ec0316edc00fe147` |
+| `output/translations/luke_12.json` | `f9e93ad89ce0f1e5042450e0973f2be957fc66257f2652d22fa281f162675fb7` |
 | `output/translations/luke_13.json` | `00fd31f9f29feb7da362b606bdbf54cde5a8b655838d1982e71b520c02aa2de5` |
-| `output/translations/luke_14.json` | `4cd0539b899c5aadccfc23d367599057656e88acab735acc1a82d98577a3806a` |
+| `output/translations/luke_14.json` | `c4d0eb977dac43155fc656e2701e482d31cdd19aabcdc711de3305232c74b8c4` |
 | `output/translations/luke_15.json` | `d6cbf32e90cb11667bf452d3ae800a4cc04ebdfc38c05f9c37cd096b2d4bb771` |
 | `output/translations/luke_16.json` | `70cb4a49c0e8648bd14fa73e3055266fefa2d938d4cf35d9562239eac424fee9` |
 | `output/translations/luke_17.json` | `b5af6f8228e0a653da8daa850a2d2868cdfa05cd9e1407c6810ecb2d940cc830` |
