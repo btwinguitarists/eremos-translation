@@ -4,7 +4,7 @@ NT-to-OT links found: **7** / 17 verses
 
 ## ✅ Acknowledged in verse notes: 7
 
-- **Revelation 6:8** — EZK 14:21 (citation)
+- **Revelation 6:8** — EZK 14:21 (allusion)
 - **Revelation 6:10** — DEU 32:43+PSA 79:10+ZEC 1:12 (allusion)
 - **Revelation 6:12** — JOEL 2:10+JOEL 2:31+JOEL 3:15+ISA 13:10 (allusion)
 - **Revelation 6:13** — ISA 34:4 (allusion)

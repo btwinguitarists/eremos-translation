@@ -338,7 +338,7 @@ _This reader edition shows the Thai translation and the contextual summary (บ�
 
 **11** และดาวดวงนั้นมีชื่อว่า ‘ความขมขื่น’ และหนึ่งในสามของน้ำกลายเป็นขม และคนเป็นจำนวนมากได้ตายจากน้ำเหล่านั้น เพราะน้ำเหล่านั้นกลายเป็นขม
 
-> _บริบท: ‘ความขมขื่น’ (Ἄψινθος) คือชื่อพืชสมุนไพรชนิดหนึ่งที่มีรสขมจัด ในพันธสัญญาเดิมใช้เป็นสัญลักษณ์ของการพิพากษาของพระเจ้า (เปรียบเทียบ เยเรมีย์ 9:15; 23:15) ในวิวรณ์ 8:11 ใช้เป็นชื่อของดาวที่ตกและของน้ำที่กลายเป็นขม — บ่งบอกถึงการพิพากษาที่ทำให้น้ำที่ควรจะหล่อเลี้ยงชีวิตกลับเป็นพิษ_
+> _บริบท: Ἄψινθος เป็นชื่อพืชรสขมที่ข้อนี้ใช้เป็นชื่อดาวด้วย ในเยเรมีย์ 9:14 และ 23:15 ภาษาฮีบรูใช้พืชรสขมเป็นภาพของการพิพากษา ส่วนฉบับกรีกของเยเรมีย์กล่าวถึงน้ำที่มีรสขมโดยใช้คำต่างจากวิวรณ์ ในภาพที่ยอห์นเห็น น้ำที่ควรหล่อเลี้ยงชีวิตกลับทำให้ผู้คนล้มตาย_
 
 **12** และทูตสวรรค์ตนที่สี่ได้เป่าแตร และหนึ่งในสามของดวงอาทิตย์ ดวงจันทร์ และดาวต่าง ๆ ถูกตี เพื่อให้หนึ่งในสามของแสงสว่างของพวกมันมืดลง และหนึ่งในสามของกลางวันก็ไม่ปรากฏแสง และกลางคืนก็เช่นเดียวกัน
 
@@ -941,14 +941,14 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/revelation_01.json` | `d858753a9841dc28b6cb626fbf6ca99a3b9faf607d78b9ecb578480fffde844b` |
 | `output/translations/revelation_02.json` | `58347e8d095ef8a38685239557385f923714036fc21364ac39652a656f64089d` |
 | `output/translations/revelation_03.json` | `d9f4ec610792f9712d1e4e42cc9fbafe8e7254bc99448c4a0f291c78e9864dfa` |
-| `output/translations/revelation_04.json` | `6bab0842151d670d16e158534b8168d3e4328d1ad3a427edcffc4c8b9286f3f5` |
-| `output/translations/revelation_05.json` | `5537e5eda3c6d90de46c740c9cbf798931524d6d8e69042c5128f8cfecd3f0c7` |
-| `output/translations/revelation_06.json` | `69b2ebc80f976a12e9c9140214211af8ff71834c9dfbcdd4a6567a04d4fa0b68` |
+| `output/translations/revelation_04.json` | `dec1f2e1741690ac16af250378d60a70c7437bcd9a51258c420026d59921f3bc` |
+| `output/translations/revelation_05.json` | `0f0961c30911a5ba5c228915683906691a7fae893b56968d8372c9bb5b322f6a` |
+| `output/translations/revelation_06.json` | `ede55e2019358c5df31f2b15413cf1c3c244ef2819b8d17949d4fb2946cd9185` |
 | `output/translations/revelation_07.json` | `d31827a6065c26a394d1441f62055db13e4b57d3d48387d58ed6bca54502357f` |
-| `output/translations/revelation_08.json` | `9904c02ee1aca100a2e3a0b05122fef4ff104766b71b7015e795c93acf6a7c90` |
-| `output/translations/revelation_09.json` | `76a86abd531c3729d9dd772e9b221b95b6bdaed94637b3f04fffd540cb696a83` |
+| `output/translations/revelation_08.json` | `ced1259392f0f25ef2ecb69416d507ceb5b4607d792cf10d57fff1e45ff3dfa7` |
+| `output/translations/revelation_09.json` | `d1f3010a06cb19968688fef7497f247be14820ae292c99bcfc4bd42a57924f9b` |
 | `output/translations/revelation_10.json` | `e83d4226e82829858d1d7455da6d9ef1c6698f940783a17782f8a5585466d5d2` |
-| `output/translations/revelation_11.json` | `b76a7dfe8d02daf8c9e67d0f3425f7b65c20258504a11d73e731d9b0f8ed97b1` |
+| `output/translations/revelation_11.json` | `7864e849dfba54b30b1e29b04b06bf139f9db32858f2fd14385c8a7d8b8312d5` |
 | `output/translations/revelation_12.json` | `d9116aff557e7acd06f105f8bc144d66c1c78704e98141badfffb41ba0359779` |
 | `output/translations/revelation_13.json` | `99173b693271814787ba88529d4c1a7c6bdad8609ee05a42c8b8e88c905aa1a6` |
 | `output/translations/revelation_14.json` | `259f7c0b679ed3b71734a855d58f5027205e2ec4e8a67bd2f60bd7884586ee38` |
