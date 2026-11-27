@@ -322,7 +322,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**27** เพราะพวกท่านทุกคนที่ได้รับบัพติศมาเข้าในพระคริสต์ ก็ได้ทรงเครื่องด้วยพระคริสต์แล้ว
+**27** เพราะพวกท่านทุกคนที่ได้รับบัพติศมาเข้าในพระคริสต์ ก็ได้สวมพระคริสต์แล้ว
 
 > ___
 
@@ -402,7 +402,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**17** พวกเขามีใจเร่าร้อนต่อพวกท่าน แต่ไม่ใช่ในทางที่ดี ตรงกันข้าม พวกเขาต้องการกีดกันพวกท่านออกจากข้าพเจ้า เพื่อพวกท่านจะได้มีใจเร่าร้อนต่อพวกเขาเอง
+**17** พวกเขามีใจเร่าร้อนต่อพวกท่าน แต่ไม่ใช่ในทางที่ดี ตรงกันข้าม พวกเขาต้องการกีดกันพวกท่านออกไป เพื่อพวกท่านจะได้มีใจเร่าร้อนต่อพวกเขาเอง
 
 > ___
 
@@ -410,7 +410,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**19** บุตรน้อยทั้งหลายของข้าพเจ้า ผู้ซึ่งข้าพเจ้ากำลังเจ็บปวดในการคลอดเพื่อท่านอีกครั้ง จนกว่าพระคริสต์จะทรงก่อรูปขึ้นในตัวพวกท่าน
+**19** บุตรน้อยทั้งหลายของข้าพเจ้า ผู้ซึ่งข้าพเจ้ากำลังเจ็บปวดในการคลอดเพื่อท่านอีกครั้ง จนกว่าพระคริสต์จะปรากฏเป็นรูปเป็นร่างในพวกท่าน
 
 > ___
 
@@ -654,10 +654,10 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/galatians_01.json` | `3977e4a2929179a873f5a047653f4c22de0780a5bd07ff3a645b2b7d30f4e42a` |
-| `output/translations/galatians_02.json` | `d32896858c670ae50691a19e2aa355c8100e64d71abd54a1232b1d904f5bc763` |
-| `output/translations/galatians_03.json` | `f801401758fdf4a581484ea509024725a3a4242acb42624cac27a998b6894fa4` |
-| `output/translations/galatians_04.json` | `6419fc431ce43cebfdbbff8d2a6026f81bd484468e38311da0a266301e78a2d1` |
-| `output/translations/galatians_05.json` | `8c554130d8819be2bff95cf6657734f4da7ec53e27845623688ad63407121424` |
-| `output/translations/galatians_06.json` | `c536242ca4c882dcab8ccb39b413ac1da9fbd7aebfae3fcbc0be71f7d8bc08bf` |
+| `output/translations/galatians_01.json` | `cde7c8b0d6b1d372dfb6142602d97cd55443edfce2b69f23b69ba3c71077617f` |
+| `output/translations/galatians_02.json` | `8af726c9545f70b6237e627ec84eb1e930e58007f100a3c61b5e47e22685009d` |
+| `output/translations/galatians_03.json` | `ad127a8a4bec388e1365c9e7bf39b29b0b4ea7cef243cd67d6e4160f6dc79bd0` |
+| `output/translations/galatians_04.json` | `365acbd0672a29aa902e644de0aa75ddd615366ffce3c278a2702375dcbcb9a6` |
+| `output/translations/galatians_05.json` | `5ff38add17bb84ee1a9ef91cb4971cb529ca3d121d7e251b46585a011787c90e` |
+| `output/translations/galatians_06.json` | `af15842f7a276c49e8127c87137c2af6e4a9adb2da48ebb5e7a6fb2e736deb1a` |
 
