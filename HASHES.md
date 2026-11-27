@@ -91,11 +91,11 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/1kings_20.json` | 43 | `98a0b02541a6a029a9a6d633342f3dbe56d955f41e9ee2486f3611d6f42cbc3b` | `f9b61a31` |
 | `output/translations/1kings_21.json` | 29 | `6163bb7fef03b1de6dc6ea91a3ab8aa519e5edb911c0f9f5a165fb4ff2e4503a` | `b93c6ae5` |
 | `output/translations/1kings_22.json` | 54 | `a54fc423d91b44cdd7dc513658bc9c0edf5111c7d3aadbdf61ca73b940b67afa` | `50c2a3e0` |
-| `output/translations/1peter_01.json` | 25 | `7e44403865c493ca0641a403ffc4e757b579b6fccf56b551397ab1e6905ae640` | `5f55fea0` |
-| `output/translations/1peter_02.json` | 25 | `120f3302493eb9bd2845bd586e6270174705f761d2bb26bdeb7f465ddeb0259e` | `b812394c` |
-| `output/translations/1peter_03.json` | 22 | `ab8923ac1f2bce4711ab6aab171275521419001881bbd55a736f444fdc007516` | `256bbe7e` |
-| `output/translations/1peter_04.json` | 19 | `5f1d50f69f35aeb8a52f46b83daad7c826ac3cc8a9e64daa1eadf7beb1fc6413` | `63b62727` |
-| `output/translations/1peter_05.json` | 14 | `04811613980f157b203a1e080f4c5b2728930eda3865e0d151b2d49386b4e42b` | `2204c757` |
+| `output/translations/1peter_01.json` | 25 | `0920d7955b0585b9aa40af47ba041613cd5a23d06985e297aef167de82fe7372` | `5f55fea0` |
+| `output/translations/1peter_02.json` | 25 | `93076ab42cf022d631febba237518fb65ddaed50b1f838fe2a573c0fed5ceaee` | `b812394c` |
+| `output/translations/1peter_03.json` | 22 | `2e3d3ff1a10b840c51c565c0b12c6e5077339cc09bae431833538ea0c47e74e9` | `256bbe7e` |
+| `output/translations/1peter_04.json` | 19 | `4bb573bee67588f1e83733c1769dcc2f141bf2609ed12a36f05b007734d4d452` | `63b62727` |
+| `output/translations/1peter_05.json` | 14 | `c96cd786e246ed8851ddf973ec638430d3f78b58d7ed2a6c653526e041f4215b` | `2204c757` |
 | `output/translations/1samuel_01.json` | 28 | `b8c61c21830d7eb50694366a68db6b7838a90b05b70604848e70faee380ccab8` | `7040ad9f` |
 | `output/translations/1samuel_02.json` | 36 | `67fda0ad165155f15a89e8669ebe1b66844a804cbfa4ebd87b5fb6ecf4b0adf2` | `aed00d4d` |
 | `output/translations/1samuel_03.json` | 21 | `e0832424bb035295ae8a026e94c80fcb8aff79efdfd73d586513a066150d0197` | `98a8df39` |

@@ -50,7 +50,7 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **21** ผู้ที่โดยทางพระองค์ ก็เชื่อในพระเจ้าผู้ทรงให้พระองค์เป็นขึ้นจากความตาย และทรงประทานพระสิริแก่พระองค์ เพื่อความเชื่อและความหวังของท่านจะอยู่ในพระเจ้า
 
-**22** เมื่อท่านทั้งหลายได้ชำระจิตวิญญาณของท่านให้บริสุทธิ์โดยการเชื่อฟังความจริง สู่ความรักฉันพี่น้องที่ไม่หน้าซื่อใจคดแล้ว จงรักซึ่งกันและกันอย่างจริงจังจากใจที่บริสุทธิ์
+**22** เมื่อท่านทั้งหลายได้ชำระจิตวิญญาณของท่านให้บริสุทธิ์โดยการเชื่อฟังความจริง สู่ความรักฉันพี่น้องที่ไม่หน้าซื่อใจคดแล้ว จงรักซึ่งกันและกันอย่างจริงจังจากใจ[ที่บริสุทธิ์]
 
 **23** เพราะท่านได้รับการบังเกิดใหม่ ไม่ใช่จากเมล็ดพันธุ์ที่จะเสื่อมสูญ แต่จากที่ไม่เน่าเปื่อย โดยทางพระวจนะของพระเจ้าผู้ทรงพระชนม์และดำรงอยู่
 
@@ -242,9 +242,9 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/1peter_01.json` | `7e44403865c493ca0641a403ffc4e757b579b6fccf56b551397ab1e6905ae640` |
-| `output/translations/1peter_02.json` | `120f3302493eb9bd2845bd586e6270174705f761d2bb26bdeb7f465ddeb0259e` |
-| `output/translations/1peter_03.json` | `ab8923ac1f2bce4711ab6aab171275521419001881bbd55a736f444fdc007516` |
-| `output/translations/1peter_04.json` | `5f1d50f69f35aeb8a52f46b83daad7c826ac3cc8a9e64daa1eadf7beb1fc6413` |
-| `output/translations/1peter_05.json` | `04811613980f157b203a1e080f4c5b2728930eda3865e0d151b2d49386b4e42b` |
+| `output/translations/1peter_01.json` | `0920d7955b0585b9aa40af47ba041613cd5a23d06985e297aef167de82fe7372` |
+| `output/translations/1peter_02.json` | `93076ab42cf022d631febba237518fb65ddaed50b1f838fe2a573c0fed5ceaee` |
+| `output/translations/1peter_03.json` | `2e3d3ff1a10b840c51c565c0b12c6e5077339cc09bae431833538ea0c47e74e9` |
+| `output/translations/1peter_04.json` | `4bb573bee67588f1e83733c1769dcc2f141bf2609ed12a36f05b007734d4d452` |
+| `output/translations/1peter_05.json` | `c96cd786e246ed8851ddf973ec638430d3f78b58d7ed2a6c653526e041f4215b` |
 
