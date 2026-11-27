@@ -139,6 +139,26 @@ def build_joel_entries() -> dict[str, dict]:
     return entries
 
 
+def build_jonah_entries() -> dict[str, dict]:
+    """Jonah 2 in the Rahlfs-Hanhart Septuagint follows Hebrew numbering."""
+    entries = {}
+    for verse in range(1, 12):
+        mt_ref = f"Jonah 2:{verse}"
+        english_ref = "Jonah 1:17" if verse == 1 else f"Jonah 2:{verse - 1}"
+        entries[f"JON-2-{verse}"] = {
+            "mt_book": "JON",
+            "mt_chapter": 2,
+            "mt_verse": verse,
+            "mt_ref": mt_ref,
+            "english_ref": english_ref,
+            "bsb_ref": english_ref,
+            "lxx_ref": mt_ref,
+            "diverges": True,
+            "note": "Jonah ch.1/ch.2 boundary differs: MT puts the great-fish appointment at 2:1; BSB/English put it at 1:17. MT 2:1-11 = BSB 1:17 + 2:1-10.",
+        }
+    return entries
+
+
 def build_malachi_entries() -> dict[str, dict]:
     """Malachi: MT 3:19-24 = English 4:1-6 (English splits MT chapter 3)."""
     entries: dict[str, dict] = {}
@@ -495,6 +515,7 @@ def main():
     }
     out.update(psalm_entries)
     out.update(joel_entries)
+    out.update(build_jonah_entries())
     out.update(mal_entries)
     out.update(hosea_entries)
     out.update(micah_entries)
