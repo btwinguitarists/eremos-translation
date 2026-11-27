@@ -1,6 +1,6 @@
 # Greek-field integrity check — revelation ch. 2
 
-- key_decisions entries scanned: **42**
+- key_decisions entries scanned: **44**
 - Hard fails: **0**
 - Warnings: 0
 

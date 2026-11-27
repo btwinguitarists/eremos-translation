@@ -348,7 +348,7 @@ _This reader edition shows the Thai translation and the contextual summary (บ�
 
 ## บทที่ 9
 
-**1** และทูตสวรรค์ตนที่ห้าได้เป่าแตร และข้าพเจ้าได้เห็นดาวดวงหนึ่งที่ตกจากสวรรค์ลงบนแผ่นดินโลก และเขาได้รับกุญแจของขุมเหวเหวลึก
+**1** และทูตสวรรค์ตนที่ห้าได้เป่าแตร และข้าพเจ้าได้เห็นดาวดวงหนึ่งที่ตกจากสวรรค์ลงบนแผ่นดินโลก และเขาได้รับกุญแจของขุมเหวลึก
 
 **2** และเขาได้เปิดขุมเหวลึก และมีควันลอยขึ้นจากขุมนั้น ดุจควันจากเตาหลอมขนาดใหญ่ และดวงอาทิตย์และอากาศมืดลงเพราะควันจากขุม
 
@@ -939,15 +939,15 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | Chapter file | SHA-256 |
 |---|---|
 | `output/translations/revelation_01.json` | `d858753a9841dc28b6cb626fbf6ca99a3b9faf607d78b9ecb578480fffde844b` |
-| `output/translations/revelation_02.json` | `34c04ab7f8f52da24ef41ecddb52da127a965e13527f8ba1dd5253ecbce66f81` |
-| `output/translations/revelation_03.json` | `de1168bc82ddca79007fe137336e96916b34e4df50e98db433f047abca2b926a` |
-| `output/translations/revelation_04.json` | `3890023e17fff010b59392358450a2bb539e8f241543d9ede25dc168bc528a6e` |
+| `output/translations/revelation_02.json` | `58347e8d095ef8a38685239557385f923714036fc21364ac39652a656f64089d` |
+| `output/translations/revelation_03.json` | `d9f4ec610792f9712d1e4e42cc9fbafe8e7254bc99448c4a0f291c78e9864dfa` |
+| `output/translations/revelation_04.json` | `6bab0842151d670d16e158534b8168d3e4328d1ad3a427edcffc4c8b9286f3f5` |
 | `output/translations/revelation_05.json` | `5537e5eda3c6d90de46c740c9cbf798931524d6d8e69042c5128f8cfecd3f0c7` |
 | `output/translations/revelation_06.json` | `69b2ebc80f976a12e9c9140214211af8ff71834c9dfbcdd4a6567a04d4fa0b68` |
-| `output/translations/revelation_07.json` | `ca7074b2ee41a39ad95b5f0636136bc4fd69bc81da45e6385f01e4f2f6d964f8` |
-| `output/translations/revelation_08.json` | `c4268e45a1545725d7919495c46dc2764be36fc5cbd07755d0ed493fe273ff5c` |
-| `output/translations/revelation_09.json` | `2b408e121104a408676abc001f1e5b9f9d1cbe1c1072f646e69e370017389782` |
-| `output/translations/revelation_10.json` | `8d21e9c199c0ec8e9f45f170e0b2e5f088c208d78d5f795794ce70484bc93936` |
+| `output/translations/revelation_07.json` | `d31827a6065c26a394d1441f62055db13e4b57d3d48387d58ed6bca54502357f` |
+| `output/translations/revelation_08.json` | `9904c02ee1aca100a2e3a0b05122fef4ff104766b71b7015e795c93acf6a7c90` |
+| `output/translations/revelation_09.json` | `76a86abd531c3729d9dd772e9b221b95b6bdaed94637b3f04fffd540cb696a83` |
+| `output/translations/revelation_10.json` | `e83d4226e82829858d1d7455da6d9ef1c6698f940783a17782f8a5585466d5d2` |
 | `output/translations/revelation_11.json` | `b76a7dfe8d02daf8c9e67d0f3425f7b65c20258504a11d73e731d9b0f8ed97b1` |
 | `output/translations/revelation_12.json` | `d9116aff557e7acd06f105f8bc144d66c1c78704e98141badfffb41ba0359779` |
 | `output/translations/revelation_13.json` | `99173b693271814787ba88529d4c1a7c6bdad8609ee05a42c8b8e88c905aa1a6` |
