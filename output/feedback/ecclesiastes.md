@@ -979,16 +979,16 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/ecclesiastes_01.json` | `14f8a5e5b749028f48925dae96783f453b2355c2eaa93d89214742cb62552fa8` |
-| `output/translations/ecclesiastes_02.json` | `35fa2b94f801e879abf33731f1429208496e7418f09b3807c85436717de581ab` |
-| `output/translations/ecclesiastes_03.json` | `2486c58df214babe2c5d8546e31c37939ad2901ca04cf9cadd9727f13dc6a2d5` |
-| `output/translations/ecclesiastes_04.json` | `fee8d588967b352b7bc06ccf7738cd6c6a9e68c1538faae9937ff505a97eb7ab` |
-| `output/translations/ecclesiastes_05.json` | `f65180a02e4664fd8dcf3510e12a9694718f5d796c415113fb6f6172e9851d88` |
-| `output/translations/ecclesiastes_06.json` | `8834e4a47a4897d8f4a468aa483bd217bdc6b701b370aabd334e90ee801c65d8` |
-| `output/translations/ecclesiastes_07.json` | `afc8ce231a4523e5faf9587fb0533831b1fa9804768781bca45e3026ec926ab3` |
-| `output/translations/ecclesiastes_08.json` | `89955dad02652fe32baaa2ab05df06abe7f2308d4868fe13a03a134d104215ce` |
-| `output/translations/ecclesiastes_09.json` | `beab087668c89ff815423f6ee11038f1b221186bed1d3a3b63c3ef2da0932a85` |
+| `output/translations/ecclesiastes_01.json` | `1258973c4681fb345fc6c6350bbcd8364ed9abafbcef7fca2bc819a7a780f4fb` |
+| `output/translations/ecclesiastes_02.json` | `025f40f9e4ad342f3b55a8a739810b32c79819bed1a34aee03967d7ead283807` |
+| `output/translations/ecclesiastes_03.json` | `56efec606b038df24ea93bdada0d7b53ee71f4320172444183606c67b3f550d6` |
+| `output/translations/ecclesiastes_04.json` | `585b57e7b16132574834e7d40873f68ef3d52f2083973880f5824f1f279473bf` |
+| `output/translations/ecclesiastes_05.json` | `880e6b7a721be5789890a9c1868429a282ddac1324adafed9296ae58ac2dfd67` |
+| `output/translations/ecclesiastes_06.json` | `9de37779b3fc3b199873521d65588ee27f68196ccdac4e349ae2cda0c5fdd6d9` |
+| `output/translations/ecclesiastes_07.json` | `2e7f7fcecce3acdc35e6b8249ad86b4f3dcb09093ffd591ec73a6857ecfd7851` |
+| `output/translations/ecclesiastes_08.json` | `18c51608c5c3dc7d1d4fc88419355b0a16fdb7bb2bed696ed3188957c167dbbb` |
+| `output/translations/ecclesiastes_09.json` | `1e4ad08673c726ca9d630f056a584bd2e8babd444813189cbcdd7af89ebcd507` |
 | `output/translations/ecclesiastes_10.json` | `403c08ad5fec04f6085a03a05a6991c8e4c9e382b3a49199898cc334401408f3` |
-| `output/translations/ecclesiastes_11.json` | `26850aa82f837ed25cb6279e9e331b62de4e2b18c1c5904452675521fa019acb` |
-| `output/translations/ecclesiastes_12.json` | `89ae4b22c09cc4aa5fd660f3bb63b0aa45753a4e7bda284780544da9f96aeb03` |
+| `output/translations/ecclesiastes_11.json` | `447ff1dadbcc191fa5a591983ea2c95fdc9d6d1bc5e7bac88770938cadb3fd54` |
+| `output/translations/ecclesiastes_12.json` | `de6870c608c112618155d0cd75e79074bd3a288369c3edbcb0fa05eb1ff985a1` |
 
