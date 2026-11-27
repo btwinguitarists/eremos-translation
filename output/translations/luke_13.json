@@ -1193,7 +1193,7 @@
         {
           "greek": "ἰδοὺ ἀφίεται ὑμῖν ὁ οἶκος ὑμῶν",
           "thai": "ดูเถิด บ้านของพวกเจ้าจะถูกทิ้งให้แก่พวกเจ้า",
-          "rationale": "TEXTUAL VARIANT: SBLGNT/NA28/BSB do NOT include ἔρημος 'desolate' (Byz/TR adds ἔρημος). We follow SBLGNT — 'บ้านของพวกเจ้าจะถูกทิ้งให้แก่พวกเจ้า' without 'desolate'. Present-passive ἀφίεται has future-reference (uW translate-tense: 'your house will be left to you alone'). NOTE: The Matt 23:38 parallel INCLUDES ἔρημος ('รกร้าง' per Matt 23:38 translation) — so our Luke 13:35 and Matt 23:38 will differ, correctly reflecting the manuscript-reality. Documented."
+          "rationale": "The BSB reads “left to you desolate.” The selected Greek and NA28 omit ἔρημος here, while Robinson–Pierpont includes it. Matthew 23:38 also includes the adjective. The Thai follows the shorter Luke text. The blessing quotes the first half of Greek Psalm 117:26 (Hebrew and common English 118:26)."
         },
         {
           "greek": "οἶκος",
@@ -1213,10 +1213,10 @@
         {
           "greek": "Εὐλογημένος ὁ ἐρχόμενος ἐν ὀνόματι κυρίου",
           "thai": "ขอให้ผู้ที่มาในพระนามขององค์พระผู้เป็นเจ้าได้รับพระพร",
-          "rationale": "DIRECT CITATION of Ps 118:26 LXX (verbatim). Matches Matt 23:39 rendering for synoptic-parallel consistency. 'พระนามขององค์พระผู้เป็นเจ้า' = divine-name honorific (κυρίου as YHWH-placeholder per RULES §4). 'ได้รับพระพร' = be-blessed (perfect-passive participle of εὐλογέω)."
+          "rationale": "The first half of Psalm 117:26 LXX gives the words blessing the one who comes in the Lord’s name. Luke does not quote the entire psalm verse."
         }
       ],
-      "notes": "TEXTUAL VARIANT: Luke 13:35 SBLGNT/NA28 reads 'ἀφίεται ὑμῖν ὁ οἶκος ὑμῶν' WITHOUT ἔρημος 'desolate'. Byz/TR adds ἔρημος (assimilation to Matt 23:38). BSB renders 'left to you desolate' per mixed-text but critical-text English (NIV, ESV, NASB) vary. We follow SBLGNT main text. The parallel in Matt 23:38 DOES have ἔρημος in our translation (per manuscript-reality) — this is CORRECT synoptic-divergence reflecting actual-Greek-divergence. DIRECT CITATION: Ps 118:26 LXX (εὐλογημένος ὁ ἐρχόμενος ἐν ὀνόματι κυρίου) — word-for-word. This is the SAME verse the crowds shout at Jesus's triumphal-entry (Luke 19:38). Luke's structural-inclusio: 13:35 prophesies the shout; 19:38 fulfills. OT INTERTEXTUAL: Jer 12:7 (I have forsaken my house, I have abandoned my heritage), Jer 22:5 (this house shall become a desolation), 1 Kings 9:7-8 (if you turn, the temple will become a heap) — all traditions of house-as-city/temple abandoned by God. The MEANING of 'until' is debated: (1) conditional-future (Israel repents, then sees Jesus); (2) Christological-triumphal-entry (19:38 fulfillment); (3) eschatological-second-coming (Rom 11:26 'all Israel'). Thai rendering preserves all three readings. ADDED TO nt_ot_citations.json: LUK 13:35 direct_citation (PSA 118:26 LXX 'blessed-is-he-who-comes-in-the-name-of-the-Lord') + LUK 13:35 (JER 12:7 + JER 22:5 + 1KI 9:7-8 house-forsaken cluster)."
+      "notes": "The BSB reads “left to you desolate.” The selected Greek and NA28 omit ἔρημος here, while Robinson–Pierpont includes it. Matthew 23:38 also includes the adjective. The Thai follows the shorter Luke text. The blessing quotes the first half of Greek Psalm 117:26 (Hebrew and common English 118:26)."
     }
   }
 ]
