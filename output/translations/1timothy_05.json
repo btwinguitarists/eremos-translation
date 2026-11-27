@@ -253,7 +253,7 @@
         {
           "greek": "ἐξενοδόχησεν",
           "thai": "ต้อนรับคนแปลกหน้า",
-          "rationale": "HAPAX in NT (ξενοδοχέω, only here): show-hospitality-to-strangers. Compound ξένος + δέχομαι. Distinct from φιλοξενία (love-of-strangers, 1Tim 3:2). Adding to glossary."
+          "rationale": "The verb ξενοδοχέω describes welcoming strangers. At 3:2 the related hospitality requirement uses the adjective φιλόξενος. ต้อนรับคนแปลกหน้า expresses the action in this list."
         },
         {
           "greek": "ἁγίων πόδας ἔνιψεν",
@@ -408,7 +408,7 @@
         {
           "greek": "εἴ τις πιστὴ ἔχει χήρας",
           "thai": "ถ้าหญิงผู้เชื่อคนใดมีหม้ายในความรับผิดชอบ",
-          "rationale": "TEXTUAL VARIANT: SBLGNT reads πιστή (believing-woman); Byzantine + some-mss read πιστὸς ἢ πιστή (believing-man-or-woman). Per RULES §5: silent-omission. Mainstream evangelical Bibles split — BSB/ESV/NIV follow shorter/feminine; KJV follows extended. uW intro acknowledges this variant. Resolved doc to be created."
+          "rationale": "The feminine πιστή is rendered หญิงผู้เชื่อ. The longer reading πιστὸς ἢ πιστή explicitly covers a believing man or woman."
         },
         {
           "greek": "μὴ βαρείσθω ἡ ἐκκλησία",
@@ -416,7 +416,7 @@
           "rationale": "βαρέω → รับภาระ (be-burdened — corpus-precedent at 2Co 1:8). ἐκκλησία → คริสตจักร (corpus-locked Pauline-standard)."
         }
       ],
-      "notes": "TEXTUAL VARIANT: πιστή vs πιστὸς ἢ πιστή. Per RULES §5: silent-omission. Resolved doc at output/textual_variants/_resolved/1timothy_05_v16_believing_man_or_woman.md."
+      "notes": "SBLGNT, Westcott–Hort, Tregelles and NA28 describe a believing woman, as does หญิงผู้เชื่อ. Robinson–Pierpont adds a believing man as an alternative subject. In either reading, support from the household allows the church to help widows in need."
     }
   },
   {
@@ -463,20 +463,20 @@
         {
           "greek": "λέγει ... ἡ γραφή",
           "thai": "พระคัมภีร์กล่าวว่า",
-          "rationale": "γραφή → พระคัมภีร์ (corpus-locked Pauline-Scripture-citation formula). Singular λέγει introduces TWO quotations — both treated-as-Scripture (key Pauline-NT-as-Scripture moment)."
+          "rationale": "λέγει ἡ γραφή introduces the pair of sayings. The relation of the second saying to Luke 10:7 has implications for how it was transmitted, but this introduction alone does not provide a chronology."
         },
         {
           "greek": "Βοῦν ἀλοῶντα οὐ φιμώσεις",
           "thai": "อย่าเอาตะกร้อครอบปากวัวขณะที่มันกำลังนวดข้าว",
-          "rationale": "OT-CITATION: Deuteronomy 25:4 LXX (verbatim). Already cited by Paul at 1Co 9:9 with same lemma. φιμόω → ครอบปาก (muzzle). βοῦς → วัว."
+          "rationale": "The command in Deuteronomy 25:4 has the same action. First Timothy places the ox and its threshing first. In the NA28 text of 1 Corinthians 9:9 the corresponding verb is κημόω, while First Timothy uses φιμόω."
         },
         {
           "greek": "Ἄξιος ὁ ἐργάτης τοῦ μισθοῦ αὐτοῦ",
           "thai": "คนงานสมควรได้รับค่าจ้างของตน",
-          "rationale": "OT-/NT-CITATION: Luke 10:7 (Jesus' own words). Earliest-explicit-NT-citation-as-Scripture in NT itself. Per existing DB entry: 'composite-citation' DEU 25:4 + LUK 10:7. The thai_summary unpacks this scholarly-significant point."
+          "rationale": "The worker deserves his wages. Compare Luke 10:7, which adds γάρ, “for,” in its immediate context."
         }
       ],
-      "notes": "DOUBLE-CITATION: Deut 25:4 (OT) + Luke 10:7 (Jesus). Both introduced by ‘Scripture says.’ Already in OT citations DB at 1TI 5:18. Significant for early-NT-canon-formation scholarship."
+      "notes": "The first saying comes from Deuteronomy 25:4 and the second has a close parallel in Luke 10:7. First Timothy places the threshing ox before the prohibition against muzzling it. In the Greek Deuteronomy the prohibition comes first. Luke inserts γάρ in the saying about the worker. The verbal parallel does not by itself establish the date or direction of literary dependence."
     }
   },
   {
@@ -498,10 +498,10 @@
         {
           "greek": "ἐπὶ δύο ἢ τριῶν μαρτύρων",
           "thai": "พยานสองหรือสามคน",
-          "rationale": "OT-CITATION: Deuteronomy 19:15 LXX two-three-witnesses formula. Already established at Matt 18:16 + 2Cor 13:1. Pauline-Pastoral-due-process protection."
+          "rationale": "Two or three witnesses are required for admitting the accusation. Deuteronomy 19:15 supplies the fuller legal formula. Matthew 18:16 and 2 Corinthians 13:1 also use it."
         }
       ],
-      "notes": "OT-CITATION: Deuteronomy 19:15 (two-three-witnesses). Already in OT citations DB at 1TI 5:19. Pauline-due-process protection of elders against accusation."
+      "notes": "Deuteronomy 19:15 gives the rule for establishing a matter on the testimony of witnesses. Here it is applied to receiving an accusation against an elder. The phrasing is abbreviated. Compare the deterrent fear in Deuteronomy 19:20 and 1 Timothy 5:20."
     }
   },
   {
@@ -543,7 +543,7 @@
         {
           "greek": "διαμαρτύρομαι ἐνώπιον τοῦ θεοῦ καὶ Χριστοῦ Ἰησοῦ καὶ τῶν ἐκλεκτῶν ἀγγέλων",
           "thai": "กำชับท่านอย่างเคร่งครัดเฉพาะพระพักตร์ของพระเจ้าและพระเยซูคริสต์และเหล่าทูตสวรรค์ที่ทรงเลือกไว้",
-          "rationale": "διαμαρτύρομαι → กำชับอย่างเคร่งครัด (solemnly-charge). The triple-witness formula: God + Christ + elect-angels (NT-rare combination, only here + 2Tim 4:1 partial). ἐκλεκτοί ἄγγελοι → เหล่าทูตสวรรค์ที่ทรงเลือกไว้ (elect-angels — those who didn't fall, per implied-Jewish-angelology)."
+          "rationale": "The charge is given before God, Christ Jesus and the elect angels. เหล่าทูตสวรรค์ที่ทรงเลือกไว้ renders that description. The verse does not explain the basis of their election. Connecting them with angels who did not fall is an interpretation. Second Timothy 4:1 names God and Christ Jesus without this angelic group."
         },
         {
           "greek": "χωρὶς προκρίματος ... κατὰ πρόσκλισιν",
@@ -551,7 +551,7 @@
           "rationale": "TWO HAPAX in same verse: πρόκριμα (prejudice, only here) + πρόσκλισις (partiality, only here). Pauline-pastoral-impartiality formula. Render ‘อคติ’ + ‘ความลำเอียง’ — preserves the prejudice + favoritism distinction. Adding both to glossary."
         }
       ],
-      "notes": "TWO HAPAX: πρόκριμα + πρόσκλισις. Triple-witness formula (God + Christ + elect-angels) is solemn-Pauline-charge. Impartiality is the operative-principle for elder-discipline."
+      "notes": "The solemn charge calls for impartial treatment. SBLGNT and NA28 name Christ Jesus. Robinson–Pierpont has “the Lord Jesus Christ.” The verse includes the elect angels as witnesses to the charge."
     }
   },
   {
