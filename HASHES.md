@@ -1127,7 +1127,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/psalms_86.json` | 17 | `9152d96cf834e306be44541ae93a6c72b06dbb060c6cfe8e54a2850733dbcf08` | `fd601cb3` |
 | `output/translations/psalms_87.json` | 7 | `02106cdd5451182e08e304e833c82f62ccd5203762c87dccf89fc75062f15735` | `458e4f95` |
 | `output/translations/psalms_88.json` | 19 | `6826b32fdbd4f499cfb2abf526bc1bf3730339a7c23ad524f9cc2d4c0ad3efc3` | `8b25d4e7` |
-| `output/translations/psalms_89.json` | 53 | `d7a16af3626a9cb297963698dab7b19ce9cd0437d251d8ff9a5ca6004e918da0` | `b6681336` |
+| `output/translations/psalms_89.json` | 53 | `01d6501631369de883a39b6b0efc4ba86e831277d53b6e9640d55a31fe236fd7` | `b6681336` |
 | `output/translations/psalms_90.json` | 17 | `2ac9d11db8be687bf67f5c7cd6f502186505fef5e924efb710b3cc5bf60b5f04` | `b388495f` |
 | `output/translations/psalms_91.json` | 16 | `f6bf66dd4097c7c439437c7ae27673ebb7554eb42ac99a9f39535e3205ad419e` | `af72fa2e` |
 | `output/translations/psalms_92.json` | 16 | `dea3e7695c8a75b38250f2eb312938dffeb3c6114526f57b26098f45e2fd076a` | `5eb7a61f` |

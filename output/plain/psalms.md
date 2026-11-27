@@ -7981,7 +7981,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/psalms_86.json` | `9152d96cf834e306be44541ae93a6c72b06dbb060c6cfe8e54a2850733dbcf08` |
 | `output/translations/psalms_87.json` | `02106cdd5451182e08e304e833c82f62ccd5203762c87dccf89fc75062f15735` |
 | `output/translations/psalms_88.json` | `6826b32fdbd4f499cfb2abf526bc1bf3730339a7c23ad524f9cc2d4c0ad3efc3` |
-| `output/translations/psalms_89.json` | `d7a16af3626a9cb297963698dab7b19ce9cd0437d251d8ff9a5ca6004e918da0` |
+| `output/translations/psalms_89.json` | `01d6501631369de883a39b6b0efc4ba86e831277d53b6e9640d55a31fe236fd7` |
 | `output/translations/psalms_90.json` | `2ac9d11db8be687bf67f5c7cd6f502186505fef5e924efb710b3cc5bf60b5f04` |
 | `output/translations/psalms_91.json` | `f6bf66dd4097c7c439437c7ae27673ebb7554eb42ac99a9f39535e3205ad419e` |
 | `output/translations/psalms_92.json` | `dea3e7695c8a75b38250f2eb312938dffeb3c6114526f57b26098f45e2fd076a` |
