@@ -347,11 +347,11 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/ecclesiastes_10.json` | 20 | `403c08ad5fec04f6085a03a05a6991c8e4c9e382b3a49199898cc334401408f3` | `1333306e` |
 | `output/translations/ecclesiastes_11.json` | 10 | `26850aa82f837ed25cb6279e9e331b62de4e2b18c1c5904452675521fa019acb` | `5cab4ec1` |
 | `output/translations/ecclesiastes_12.json` | 14 | `89ae4b22c09cc4aa5fd660f3bb63b0aa45753a4e7bda284780544da9f96aeb03` | `5cab4ec1` |
-| `output/translations/ephesians_01.json` | 23 | `6cd0d714ad9c7c495cb9e8669266ec4d5caac1bd8901121f1d9ad91964983083` | `93fd9dfe` |
-| `output/translations/ephesians_02.json` | 22 | `927f5258590ca421817292cf486bd6536a537ff0dba1e7305edbe7ea633fdc7f` | `d03c3a1a` |
+| `output/translations/ephesians_01.json` | 23 | `8b6d968b30752939679935d4bb5182b8b0ebc55cbd5fe6887600a08f23ae394d` | `93fd9dfe` |
+| `output/translations/ephesians_02.json` | 22 | `a3f481e7d9e9bbf1401ae13d73830dd03de437c3cb20150f33f87171704a4d4f` | `d03c3a1a` |
 | `output/translations/ephesians_03.json` | 21 | `b0bdcb1d3a761387191e4e64bf0ae6d8b7ffb17c191a43a53623432a28dd5b07` | `f6448547` |
 | `output/translations/ephesians_04.json` | 32 | `c62436d5fcd7191bbf303ee4c4b51ada7f41e6e8b918cdd313e156942ab75d0e` | `976a826d` |
-| `output/translations/ephesians_05.json` | 33 | `1aa3238d80a68868359e167dd470006db586dcfedb8a9aa9cc053921e030aa84` | `d03c3a1a` |
+| `output/translations/ephesians_05.json` | 33 | `73c27051d26720b015227da8217ec767b6817c56bbabf439b0f5b79347b07c72` | `d03c3a1a` |
 | `output/translations/ephesians_06.json` | 24 | `f4f5c466950a17ef4e0e8ab32f100b2c51f55d23c758419e96d504d4c8066b7c` | `b64d4872` |
 | `output/translations/esther_01.json` | 22 | `c50a5bdfcadc96d333e057bb3447ff415b0c5ad4c34f9057a1c66444674d0e69` | `7040ad9f` |
 | `output/translations/esther_02.json` | 23 | `1fbd202c789a129dc5814df4bea9416701d344bb8a280483889fef4b41d872c4` | `7040ad9f` |
