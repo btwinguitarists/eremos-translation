@@ -30,7 +30,7 @@ Where the Hebrew differs (Sabbath rationale, "well-with-you" expansion, coveting
 | 7th cmd (adultery) | לֹא תִּנְאָף | (same) | ✓ identical | identical Thai |
 | 8th cmd (theft) | לֹא תִּגְנֹב | (same) | ✓ identical | identical Thai |
 | 9th cmd (witness) | לֹא תַעֲנֶה בְרֵעֲךָ עֵד שָׁקֶר | DEU עֵד שָׁוְא (DEU uses שָׁוְא, EXO שָׁקֶר) | ≈ near-identical (synonyms) | preserve nuance: שָׁקֶר → เท็จ, שָׁוְא → เท็จ (Thai converges; nuance is in Hebrew witness) |
-| 10th cmd (covet) | EXO: house→wife→servants→ox→ass→anything | DEU: wife→(field added)→house→servants→ox→ass→anything | ✗ DEU reorder + adds field | preserve DEU reorder + field-addition |
+| 10th cmd (covet) | EXO: house→wife→servants→ox→ass→anything | DEU: wife→house→(field added)→servants→ox→ass→anything | ✗ DEU reorder + adds field | preserve DEU reorder + field-addition |
 
 ---
 

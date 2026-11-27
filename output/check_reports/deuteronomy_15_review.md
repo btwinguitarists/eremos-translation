@@ -8,6 +8,8 @@
 | Honorifics binding (Rachasap) | ✅ clean | [honorifics_binding_deuteronomy_15.md](honorifics_binding_deuteronomy_15.md) |
 | Back-translation | ✅ clean | [back_translation_deuteronomy_15.md](back_translation_deuteronomy_15.md) |
 | Thai-summary coverage (info) | ✅ clean | [summary_coverage_deuteronomy_15.md](summary_coverage_deuteronomy_15.md) |
+| Claim consistency (hallucination, advisory) | ✅ clean | [claim_consistency_deuteronomy_15.md](claim_consistency_deuteronomy_15.md) |
+| unfoldingWord wording (license gate) | ✅ clean | [uw_wording_deuteronomy_15.md](uw_wording_deuteronomy_15.md) |
 
 ## Ship criterion
 
