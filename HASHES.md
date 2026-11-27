@@ -138,7 +138,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/1timothy_04.json` | 16 | `45591e3e3bfccc362d1b7118c1dcde3645285988048f5124fefae111ae3b8b77` | `ee44245d` |
 | `output/translations/1timothy_05.json` | 25 | `6eff4d17f12e102ac6762faac61bf327cb8cd3ce705e555bb0a648c28bf9eba2` | `eccf43cb` |
 | `output/translations/1timothy_06.json` | 21 | `821f9fc6ba9fc08da63dfcd074cc18e35bbe36fc48daaf1d7cad308ee94fabf9` | `17f2100f` |
-| `output/translations/2chronicles_01.json` | 18 | `07a88cf3fa6fddf40d402d75aafca940841281d5de58c8a5c27d99527d8bdd8e` | `6f1d7ba2` |
+| `output/translations/2chronicles_01.json` | 18 | `accd35373f417e24e3b0fbdcac5bfeb6f6128bed6a4bb183679f25832051719a` | `6f1d7ba2` |
 | `output/translations/2chronicles_02.json` | 17 | `96b4fd43800a38e6e65385be21f17cb2ad12f7432ba2a14ec801ee2c763a2f8a` | `68648763` |
 | `output/translations/2chronicles_03.json` | 17 | `ec9c9364e41c786a820ac457c77b6b00942226647ce3bf31b3de680f5390d538` | `d238756d` |
 | `output/translations/2chronicles_04.json` | 22 | `5251559ae56c8c34229345e7803d0a6aec38e8adb864132fc3ec08e12affbca9` | `5f5351b9` |
