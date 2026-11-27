@@ -936,7 +936,7 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **21** คำทักทายนี้เขียนด้วยมือของข้าพเจ้าเอง — เปาโล
 
-**22** ถ้าผู้ใดไม่รักองค์พระผู้เป็นเจ้า ก็ให้ผู้นั้นถูกแช่ง “มาราน-อาธา” (องค์พระผู้เป็นเจ้าของเราเอ๋ย ขอเสด็จมาเถิด)
+**22** ถ้าผู้ใดไม่รักองค์พระผู้เป็นเจ้า ก็ให้ผู้นั้นถูกแช่ง “มารานา-ธา” (องค์พระผู้เป็นเจ้าของเราเอ๋ย ขอเสด็จมาเถิด)
 
 **23** ขอพระคุณของพระเยซูองค์พระผู้เป็นเจ้าจงดำรงอยู่กับพวกท่านทั้งหลาย
 
@@ -962,8 +962,8 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/1corinthians_10.json` | `150b25c441886f32d318e5a251e3f5d65a8d2a9caaafc652b65aa25726919cab` |
 | `output/translations/1corinthians_11.json` | `1e019e30fa3d60533c0cf2c367799c3636ea131f475bbde3ae053cea30bb9cc7` |
 | `output/translations/1corinthians_12.json` | `2098ef21afe46617749f1979bfab3ee83c6f1bc3d29605c9cbea4a4e4f590efd` |
-| `output/translations/1corinthians_13.json` | `8c1af7098465df03e2707fbc88bb06bb0a89b80fe487d4a3f6ed43bdcd2542b8` |
-| `output/translations/1corinthians_14.json` | `8c587ccd35656e3812544a09f1ade84c886364dcff23d49bf03790a9e549cd09` |
-| `output/translations/1corinthians_15.json` | `4c4f2458706530692b27ecf9eda6a00dc24cf3619a52ff56fb0aa237ae383e61` |
-| `output/translations/1corinthians_16.json` | `e3ff70dffea6ca1a7654a3ce01ddcaea6437a4af9e0b522fcef6784221dca344` |
+| `output/translations/1corinthians_13.json` | `119ead0790241b234cd9f7e0cee944f4615be239625665a4f5dbd2f023672311` |
+| `output/translations/1corinthians_14.json` | `4557156d1aff8b3272184077ad398d05c3dfb94a47746a3ea96ab8228b769157` |
+| `output/translations/1corinthians_15.json` | `61a3bcd4bc3f32aa7a576146c85191223eeef212d59d05a215c84f96f0b9f638` |
+| `output/translations/1corinthians_16.json` | `e60dd167e851c62edc3434d7acf017a287e2483916f8ed4ac284d4be353245c7` |
 
