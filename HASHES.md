@@ -366,7 +366,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/exodus_01.json` | 22 | `c2dd610362d059e471c90bf5c1159fd84f18466c8463fabe234e2390383bc5fe` | `e1f3afd7` |
 | `output/translations/exodus_02.json` | 25 | `70df2e16f27e5ce9281c9eb5de8f77db6dc0c61924f71f96b0d9fa148172794d` | `ffb74796` |
 | `output/translations/exodus_03.json` | 22 | `9dd86428627de90c3dff01fba0606ce4b61f00dc8117dfaab9f6d0702a37ccb6` | `7040ad9f` |
-| `output/translations/exodus_04.json` | 31 | `474750780e2721fdd0ef7cd6bb1cef0b61638fcb9b207f69480bb7c4d3b2cb1f` | `b4672ec7` |
+| `output/translations/exodus_04.json` | 31 | `b6277f3352adf39d3a271617db8928f8380988cc081372e52533799c9865187c` | `b4672ec7` |
 | `output/translations/exodus_05.json` | 23 | `5260c3b04aabb654d6a3dea8f77d14e62b9eb3939018e1f3202bb0a3c1a32453` | `86b4fa08` |
 | `output/translations/exodus_06.json` | 30 | `cef4938052f2ac54a487f4b3c2ad75570cf209d2a28490bb9b2c513ebf686672` | `7bc48e44` |
 | `output/translations/exodus_07.json` | 29 | `7dbae0ae5b45850ca0d9d879e7a1c63ad03c7b3703f1cc1524799948d9ef79b3` | `dbd22e45` |
@@ -380,11 +380,11 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/exodus_15.json` | 27 | `dd4ccdd85b137f963bed1faf56b4ed5906fd061867ca6a76b6f90f2851bbb921` | `c3316d83` |
 | `output/translations/exodus_16.json` | 36 | `928054f56358dde741aefae47e492329b447dd03b87388098540372cd49569af` | `a624dba9` |
 | `output/translations/exodus_17.json` | 16 | `a7087c819a9eedd31425d5b809e5e535ea6b2ecce8abed12be2e0cf5f8efae72` | `a8835f6e` |
-| `output/translations/exodus_18.json` | 27 | `7eeeaee9a9ac61fbbf2aca083aebc05a7188896f69bb8c91552973d391f4c291` | `a348f4c2` |
+| `output/translations/exodus_18.json` | 27 | `2c204991e440b3be8644ec916aae859019cf7201109f61f7d1ff4c54105a7441` | `a348f4c2` |
 | `output/translations/exodus_19.json` | 25 | `3cb087ae3431bafb468a7b5fa427fc46fbbd49799a1d6e146b47f5c60d0473d5` | `157205c5` |
-| `output/translations/exodus_20.json` | 26 | `e170a2e1db74f63ae31427ad4752badc0a84ae959c860b2a1428aba8867106a6` | `2b1853d4` |
-| `output/translations/exodus_21.json` | 37 | `21c7da7dad9c346be1b3840b4b4b7805c3ff218014072327cee7e5b7d376e691` | `6c5da31c` |
-| `output/translations/exodus_22.json` | 30 | `3bca977a9c10bf79bfe1213eec4d4a64250843f4137a38bbc87e3ddddc503c2f` | `17585754` |
+| `output/translations/exodus_20.json` | 26 | `80d6dcac98ec264466d760005a1697f2ff6cc71350d2c5426a245d5e5f3e5855` | `2b1853d4` |
+| `output/translations/exodus_21.json` | 37 | `eb61c86c8d487d82ed3122c5403488a6570337b48ead46c6e357afb699478854` | `6c5da31c` |
+| `output/translations/exodus_22.json` | 30 | `9a9fb2b85fc1df1f296d4cf1bcb68e7c397e5fcde809998dd92d990edff6b816` | `17585754` |
 | `output/translations/exodus_23.json` | 33 | `84986388daad4cd8db18f56281f76d85a857cefb403a03f5d9285bebe83d5080` | `d35e97ff` |
 | `output/translations/exodus_24.json` | 18 | `174383df3b5bddacc150f04030a4aba1a95de6d5ff661ec952a85fd9227d5deb` | `58a8ce4d` |
 | `output/translations/exodus_25.json` | 40 | `ea30bfe1b91f53c4498d88590bee83c48e12b5889930b6696a17afd5aafa2eca` | `6defff23` |
