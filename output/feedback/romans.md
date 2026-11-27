@@ -582,7 +582,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**18** ฉะนั้น เช่นเดียวกับที่การล่วงละเมิดเดียวนำคำพิพากษาให้ลงโทษมาถึงมนุษย์ทุกคน ดังนั้นการกระทำที่ชอบธรรมเดียวก็นำการที่ทรงประกาศว่าชอบธรรมและชีวิตมาถึงมนุษย์ทุกคน
+**18** ฉะนั้น เช่นเดียวกับที่การล่วงละเมิดเดียวนำคำพิพากษาให้ลงโทษมาถึงมนุษย์ทุกคน ดังนั้นการกระทำที่ชอบธรรมเดียวก็นำการที่ทรงประกาศว่าชอบธรรมซึ่งนำไปสู่ชีวิตมาถึงมนุษย์ทุกคน
 
 > ___
 
@@ -674,7 +674,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**19** ข้าพเจ้ากล่าวอย่างมนุษย์เพราะความอ่อนแอของเนื้อหนังของพวกท่าน — เพราะเช่นเดียวกับที่พวกท่านเคยมอบอวัยวะของตนเป็นทาสของความไม่บริสุทธิ์และความอธรรม สู่ความอธรรมที่ทวีคูณ บัดนี้พวกท่านจงมอบอวัยวะของตนเป็นทาสของความชอบธรรม สู่ความบริสุทธิ์
+**19** ข้าพเจ้ากล่าวอย่างมนุษย์เพราะความอ่อนแอของเนื้อหนังของพวกท่าน — เพราะเช่นเดียวกับที่พวกท่านเคยมอบอวัยวะของตนเป็นทาสของความไม่บริสุทธิ์และความอธรรม สู่ความอธรรมที่ทวีคูณ บัดนี้พวกท่านจงมอบอวัยวะของตนเป็นทาสของความชอบธรรม สู่การชำระให้บริสุทธิ์
 
 > ___
 
@@ -686,7 +686,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**22** แต่บัดนี้ — เมื่อพวกท่านได้รับการปลดปล่อยจากบาปแล้ว และได้กลายเป็นทาสของพระเจ้าแล้ว — พวกท่านมีผลของพวกท่านสู่ความบริสุทธิ์ และปลายทางก็คือชีวิตนิรันดร์
+**22** แต่บัดนี้ — เมื่อพวกท่านได้รับการปลดปล่อยจากบาปแล้ว และได้กลายเป็นทาสของพระเจ้าแล้ว — พวกท่านมีผลของพวกท่านสู่การชำระให้บริสุทธิ์ และปลายทางก็คือชีวิตนิรันดร์
 
 > ___
 
@@ -1834,9 +1834,9 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/romans_02.json` | `e907bd961c3cd6d7a7ba0fb82945bfb62ae4bf52ad7c04bcd5f9f4d11ec7bbea` |
 | `output/translations/romans_03.json` | `cf4e6ce790259299dceb5fe45a5e5adbf06cb9abb5c1f2385c47dd79f4f7d87a` |
 | `output/translations/romans_04.json` | `3f8be6bcd4779dea50a8a41b2dfbcb18825193074647d4dddf01b9ee98c9f394` |
-| `output/translations/romans_05.json` | `5c6db901e150aaaf86780b3e70e80acf0ea7100700b1782dd286066f44989d20` |
-| `output/translations/romans_06.json` | `db11818d64971cecc1fbf5d29ec261e3e01eb9d99e62115050ed9a2e56874fbe` |
-| `output/translations/romans_07.json` | `4c533c6be14eaae275ab4cf7fa92696e2a66368c843bab2db215a5d0fd20e5b6` |
+| `output/translations/romans_05.json` | `efec80fbdd1bef515f4fa59057a15b4cb327a701863d9c025d41d0f36f86b214` |
+| `output/translations/romans_06.json` | `303388bcb033a7dd855744848e5dae957d566054d5f6e8ec517a5a2e0a145cbb` |
+| `output/translations/romans_07.json` | `bfc4371b464748cb7aff965ba22ae9d510a176b32972640cb8d932a633f8e97b` |
 | `output/translations/romans_08.json` | `233d60bbbdc7e8b4ba6e0b3db662929d60a2f85c4a672b730bcb6a62ea81f1d1` |
 | `output/translations/romans_09.json` | `922e03c54539d291b3fbac42c2ec08937b6d29e1a4a830c1838b2a62aa24032b` |
 | `output/translations/romans_10.json` | `2abc4d3cab8a5a397333f00b2ed630f6cf25744235c95a65b268aa73ce1b2025` |
