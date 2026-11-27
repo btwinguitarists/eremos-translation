@@ -13,7 +13,7 @@
         {
           "greek": "ἀναστὰν ἅπαν τὸ πλῆθος αὐτῶν",
           "thai": "ที่ประชุมทั้งหมดจึงลุกขึ้น",
-          "rationale": "ἀναστὰν aor-ptc 'rising' — uW figs-metonymy: adjourning the meeting. ἅπαν 'whole' is hyperbole per uW (v.51 shows Joseph of Arimathea dissented). Thai ที่ประชุมทั้งหมดจึงลุกขึ้น preserves the physical action (lifting/rising) while context implies meeting-ended-and-departed."
+          "rationale": "ἅπαν τὸ πλῆθος αὐτῶν describes the whole group in the preceding scene. ที่ประชุมทั้งหมด preserves its collective reference."
         },
         {
           "greek": "ἤγαγον αὐτὸν ἐπὶ τὸν Πιλᾶτον",
@@ -21,7 +21,7 @@
           "rationale": "ἄγω 'led' aor-act-3pl. Per uW figs-explicit: brought so Pilate would judge. Thai พากันนำ preserves collective action; ไปหา 'to' captures ἐπί + acc direction. Πιλᾶτος → ปีลาต (glossary-standard)."
         }
       ],
-      "notes": "SYNOPTIC PARALLEL: MRK 15:1, MAT 27:2, JHN 18:28. Luke compresses. NARRATIVE-TRANSITION: bridges from Sanhedrin-trial (22:66-71) to Pilate-trial. The Sanhedrin pronounced Jesus guilty of blasphemy-self-identification (22:71) but lacked Roman authority-to-execute (JHN 18:31) — hence the transfer to Roman civil court. ἅπαν 'whole' is hyperbole (v.51 flags Joseph-of-Arimathea as Sanhedrin-dissenter); Luke's editorial choice: emphasize unanimous-looking political-mob to underscore Jesus's isolation, while leaving v.51's exception for the reader to discover."
+      "notes": "Luke says the assembled group rose and led Jesus to Pilate. In 22:71 those present considered further testimony unnecessary; Luke reports no explicit blasphemy verdict there. Mark 14:64 records such a verdict in its own account. Luke does not explain individual attendance or each participant’s legal motive."
     }
   },
   {
@@ -83,10 +83,10 @@
         {
           "greek": "Σὺ λέγεις",
           "thai": "ท่านกล่าวเช่นนั้น",
-          "rationale": "uW figs-idiom: affirmative-oblique ('it is as you say'). Same form as 22:70 (Ὑμεῖς λέγετε) → “พวกท่านเองกล่าวว่าเราเป็น” (Eremos precedent). Thai ท่านกล่าวเช่นนั้น preserves the shift-of-ownership — Jesus acknowledges but lets Pilate own the claim."
+          "rationale": "Σὺ λέγεις is singular and directly addresses Pilate. ท่านกล่าวเช่นนั้น retains the reference back to Pilate’s question. The reply in 22:70 addresses a group and continues with another clause."
         }
       ],
-      "notes": "IDIOM Σὺ λέγεις: identical-form to 22:70 Ὑμεῖς λέγετε — Luke brackets the trials with the same idiom (Sanhedrin: 'you-pl say'; Pilate: 'you-sg say'). Per uW figs-idiom: affirms Pilate's statement while reframing ownership. SYNOPTIC PARALLEL: MRK 15:2, MAT 27:11 — all three synoptics record identical exchange. JHN 18:33-37 develops at length ('my kingdom is not of this world') — Luke compresses. THEOLOGICAL: Jesus is king, but not the Roman-rival Pilate imagines; the trial-dialogue is intentionally oblique, leaving the question suspended. HONORIFIC: ท่าน (neutral-respectful 2SG) for Pilate addressing Jesus — Roman-official register, not dismissive, not deferential."
+      "notes": "Jesus’s reply Σὺ λέγεις, “you say so,” is also found in Mark 15:2 and Matthew 27:11. Luke 22:70 has plural ὑμεῖς λέγετε followed by ὅτι ἐγώ εἰμι. The Thai ท่านกล่าวเช่นนั้น echoes Pilate’s wording and leaves the nuance of Jesus’s answer open."
     }
   },
   {
@@ -123,7 +123,7 @@
     "translation": {
       "thai": "แต่พวกเขายังคงยืนยันอย่างหนักแน่นว่า “เขายุยงประชาชนโดยสอนไปทั่วแคว้นยูเดีย เริ่มจากกาลิลีจนมาถึงที่นี่”",
       "thai_literal": null,
-      "thai_summary": "พวกผู้นำยิวเอ่ยถึง “กาลิลี” อย่างตั้งใจ เพราะในสมัยนั้นกาลิลีเป็นแหล่งก่อกบฏต่อโรมหลายครั้ง (เทวดัส, ยูดาสชาวกาลิลี ตามที่กล่าวใน กิจการ 5:36-37) คำนี้จึงทำหน้าที่เป็นสัญญาณเตือนทางการเมืองให้ปีลาต แต่กลับกลายเป็นโอกาสให้ปีลาตส่งคดีไปที่เฮโรดในข้อถัดไป",
+      "thai_summary": "ผู้กล่าวหาอ้างว่าพระเยซูทรงยุยงประชาชนโดยสั่งสอนตั้งแต่กาลิลีจนถึงที่นี่ กิจการ 5:37 เรียกยูดาสว่า “ชาวกาลิลี” แต่ลูกาไม่ได้บอกว่าผู้กล่าวหาตั้งใจให้ปีลาตนึกถึงใคร",
       "key_decisions": [
         {
           "greek": "οἱ δὲ ἐπίσχυον λέγοντες",
@@ -141,7 +141,7 @@
           "rationale": "καθ’ὅλης τῆς Ἰουδαίας 'throughout-whole Judea' (here Judea in broad sense = all Jewish-territory incl. Galilee). Γαλιλαία → กาลิลี / Ἰουδαία → ยูเดีย glossary-standard. ἕως ὧδε 'until here' = Jerusalem where they now are."
         }
       ],
-      "notes": "GEOGRAPHY-AS-PROVOCATION: mentioning Galilee is strategic — Galilee was a hotbed of Roman-era rebellions (Theudas, Judas-the-Galilean per ACT 5:36-37). Per uW figs-metaphor ἀνασείω 'stirs up' is insurrectionist-vocabulary. Pilate's next move (v.6 hearing 'Galilee') uses this geographical detail as grounds to transfer-jurisdiction to Herod — the leaders' attempt to paint Jesus as dangerous-provincial backfires into a jurisdictional delay. NARRATIVE-IRONY: Luke's ἀπὸ τῆς Γαλιλαίας ἕως ὧδε traces exactly Jesus's journey-narrative (9:51-19:27 the 'travel narrative') — the geographic summary the leaders offer as a threat is the same geography Luke has used to structure the whole Gospel."
+      "notes": "The accusers say Jesus stirs up the people and mention Galilee. Acts 5:37 identifies Judas the Galilean in connection with the census. Acts 5:36 also mentions Theudas but does not identify him there as Galilean. Luke does not specify what associations the accusers hoped Pilate would make."
     }
   },
   {
@@ -188,7 +188,7 @@
         {
           "greek": "ἀνέπεμψεν αὐτὸν πρὸς Ἡρῴδην",
           "thai": "จึงส่งพระองค์ไปหาเฮโรด",
-          "rationale": "ἀναπέμπω technical-legal term 'refer-upward/remit' (court-case transfer). Per uW figs-explicit: Pilate avoiding the decision. Ἡρῴδης → เฮโรด glossary-standard. พระองค์ honorific for Jesus (divine-register)."
+          "rationale": "ἀνέπεμψεν describes sending Jesus to Herod in the context of jurisdiction. Luke 23:11 also uses the verb when Herod sends Jesus back to Pilate."
         },
         {
           "greek": "ὄντα καὶ αὐτὸν ἐν Ἱεροσολύμοις ἐν ταύταις ταῖς ἡμέραις",
@@ -196,7 +196,7 @@
           "rationale": "Herod Antipas had come to Jerusalem for Passover (per Jewish tetrarch-custom of pilgrim-attendance). ταῖς ἡμέραις 'days' is idiomatic for 'that-time' per uW figs-idiom. Thai ในช่วงนั้น natural."
         }
       ],
-      "notes": "CORRECTION-APPLIED: ทรง-prefix removed since subject is Pilate (Roman governor, not divine). LUKE-DISTINCTIVE EPISODE: only Luke records the Jesus-Herod interaction (vv.7-12). ἀναπέμπω is technical Roman-legal vocabulary for jurisdictional-transfer (appears only at ACT 25:21 elsewhere in Luke-Acts, of Paul's case-transfer). Pilate's motive per uW figs-explicit: avoid condemning an innocent man while not angering the Jewish leaders. HISTORICAL: Herod Antipas (4 BCE - 39 CE) tetrarch of Galilee+Perea; in Jerusalem for Passover attendance. His previous Jesus-interaction was beheading John the Baptist (9:9)."
+      "notes": "In this hearing Pilate sends Jesus to Herod upon learning of his jurisdiction. ἀναπέμπω here describes a referral; its sense depends on context. Luke 9:9 reports Herod saying that he beheaded John and seeking to see Jesus. Luke 23:8 describes his present pleasure at seeing Jesus."
     }
   },
   {
@@ -251,7 +251,7 @@
           "rationale": "Per uW: negating the verb + positive object ('did not answer anything'). Thai ไม่ตอบอะไรเลย natural. พระองค์ honorific retained."
         }
       ],
-      "notes": "SILENCE-AS-JUDGMENT: Jesus's non-response to Herod fulfills Isa 53:7 LXX (ὡς πρόβατον ἐπὶ σφαγὴν ἤχθη καὶ ὡς ἀμνὸς ἐναντίον τοῦ κείραντος αὐτὸν ἄφωνος οὐκ ἀνοίγει τὸ στόμα αὐτοῦ 'like a lamb-before-shearer, dumb, opened-not his-mouth'). ADDED TO NT_OT_CITATIONS: LUK 23:9 allusion to ISA 53:7 (Suffering-Servant silence-before-accusers). Theological-contrast: Jesus answered Pilate's formal-political question (v.3) but not Herod's entertainment-seeking curiosity — Luke distinguishes judicial-inquiry from voyeuristic-demand. Synoptic-note: Mark 15:4-5 records Jesus's silence before Pilate; Luke transfers the silence-motif to the Herod-scene."
+      "notes": "Jesus gives Herod no answer. The scene may echo the silent servant in Isaiah 53:7. Greek Isaiah reads τοῦ κείροντος αὐτὸν ἄφωνος οὕτως οὐκ ἀνοίγει τὸ στόμα, with a present participle for the one shearing. Acts 8:32 has the different participle κείραντος. Luke 23 does not quote the Isaiah verse."
     }
   },
   {
@@ -881,7 +881,7 @@
           "rationale": "σῴζω 'save' (here double-sense: deliver-from-death + messianic-salvation — the mockers use it ironically). Per uW figs-irony: mockers don't believe Jesus saved others. Per uW figs-hypo: hypothetical-sneer. Per uW figs-nominaladj: ἐκλεκτός 'Chosen' as substantive → ผู้ที่พระเจ้าทรงเลือก. χριστὸς τοῦ θεοῦ 'Christ of God' title — LUK distinctive (cf. 9:20 Peter's confession). ทรงเลือก divine-register for God's action."
         }
       ],
-      "notes": "OT ECHO — PSA 22:7-8 LXX (21:8-9 MT): πάντες οἱ θεωροῦντές με ἐξεμυκτήρισάν με ('all who see me mock me') ... ἤλπισεν ἐπὶ κύριον, ῥυσάσθω αὐτόν ('he trusted in the LORD — let him deliver him'). Luke uses the SAME verb ἐκμυκτηρίζω and the same structure (taunt-to-be-rescued-if-he-really-is-the-chosen). ADDED TO NT_OT_CITATIONS: LUK 23:35 direct allusion to PSA 21:8-9 LXX (mockers + challenge-to-rescue-if-chosen). Synoptic-parallel: MRK 15:29-32, MAT 27:39-43 — all echo Psalm-22's mockery-language; Luke chooses the verb-pattern closest to the LXX. TITLE-STACKING: ὁ χριστὸς τοῦ θεοῦ ὁ ἐκλεκτός 'Christ of God, the Chosen-One' — two messianic-titles combined; 'Chosen' echoes ISA 42:1 LXX παῖς μου ὁ ἐκλεκτός μου (Servant-Chosen). The leaders mock with exactly the titles that are truest of Jesus."
+      "notes": "The rulers’ sneering echoes Psalm 22:8–9 in Hebrew and Eremos numbering (English 22:7–8; Greek 21:8–9). Luke and the Greek Psalm share the verb for mocking. In the Psalm the mockers speak of the Lord rescuing the sufferer. In Luke they challenge Jesus to save himself."
     }
   },
   {
@@ -941,7 +941,7 @@
           "rationale": "ἐπιγραφή 'inscription' → ป้ายเขียน (inscribed-sign). Per uW figs-metonymy: inscription = placard bearing it. Per uW figs-irony: soldiers didn't believe it yet wrote it. Roman-practice: titulus placed above crucified showing the capital-offense-charge — in Jesus's case, the charge IS the truth. οὗτος 'this-one' emphatic demonstrative → คนนี้ + คือ."
         }
       ],
-      "notes": "TITULUS-CRUCIS: the Roman-legal practice of inscribing the capital-charge above the crucified. Per Roman-tradition the charge was written on a placard carried to the execution-site and attached above the condemned. JOHANNINE-EXPANSION: John 19:19-22 provides the tri-lingual detail (Hebrew/Aramaic + Latin + Greek) and the full form Ἰησοῦς ὁ Ναζωραῖος ὁ βασιλεὺς τῶν Ἰουδαίων. Synoptic-parallel: MRK 15:26 ἡ ἐπιγραφὴ τῆς αἰτίας αὐτοῦ ἐπιγεγραμμένη Ὁ βασιλεὺς τῶν Ἰουδαίων; MAT 27:37 + 'This is Jesus.' Luke's form οὗτος is closest to Mark. THEOLOGICAL-IRONY: Pilate's inscription, intended as Jesus-mocking AND Jewish-threat ('see what we do to your so-called kings'), declares-as-fact the very title Jesus had quietly confirmed in v.3."
+      "notes": "SBLGNT reports an inscription over Jesus and gives the title “The King of the Jews,” ending with οὗτος. Mark 15:26 gives the shorter title. Matthew 27:37 begins “This is Jesus.” Robinson–Pierpont adds the three languages and changes the word order in Luke. John 19:19–20 names Pilate and the languages. Luke’s selected text names neither the author of the inscription nor a motive."
     }
   },
   {
@@ -1301,7 +1301,7 @@
           "rationale": "Per uW figs-explicit: asked for the body for proper-burial. προσέρχομαι + τῷ Πιλάτῳ 'approach Pilate' → เข้าไปเฝ้า (respectful to Roman-governor). αἰτέομαι mid 'request-for-oneself.' σῶμα → พระศพ divine-register for Jesus's body (classical Thai-Christian standard; ศพ is generic body-corpse, พระศพ adds divine-honor)."
         }
       ],
-      "notes": "JOSEPH'S COURAGE: Roman-custom was to leave crucified-bodies on crosses for carrion-birds and then incinerate remains in the valley-of-Hinnom (Gehenna, per LUK 12:5 context) — as a deterrent to provincials. Requesting the body for proper-burial was unusual; for a suspected-disciple-of-Jesus it was risky. Per uW: proper-burial + implies Pilate-granted-permission (Mark 15:45 explicit). Joseph's act fulfills the honored-burial required by Deut 21:22-23 ('cursed is everyone who hangs on a tree' — Jewish-law required same-day burial of executed-criminals before sunset)."
+      "notes": "Joseph asks Pilate for the body. Luke reports the burial in the next verse, implying the request was granted; Mark 15:45 makes the grant explicit. Deuteronomy 21:22–23 provides possible background for same-day burial. Luke does not specify a general Roman practice for disposing of bodies or associate this death with burning remains in Hinnom."
     }
   },
   {
@@ -1343,7 +1343,7 @@
         {
           "greek": "καὶ ἡμέρα ἦν παρασκευῆς",
           "thai": "วันนั้นเป็นวันเตรียม",
-          "rationale": "παρασκευή 'preparation' — per uW figs-explicit: day-of-preparation-for-the-Sabbath. Thai วันเตรียม glossary-standard (parallel use in LUK 22:9, though there for Passover). Context-specific = preparation-day."
+          "rationale": "Mark 15:42 also uses the noun παρασκευή and explains it as the day before the Sabbath. Luke 22:9 instead uses a verb for making preparations. วันเตรียม captures the named day in Luke 23:54. The following clause signals the approach of the Sabbath."
         },
         {
           "greek": "καὶ σάββατον ἐπέφωσκεν",

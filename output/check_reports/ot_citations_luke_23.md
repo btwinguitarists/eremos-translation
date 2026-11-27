@@ -13,7 +13,7 @@ NT-to-OT links found: **17** / 55 verses
 - **Luke 23:32** — ISA 53:12 (allusion)
 - **Luke 23:33** — ISA 53:12 (allusion)
 - **Luke 23:34** — PSA 21:19 (citation)
-- **Luke 23:35** — PSA 21:8, PSA 21:9 (allusion)
+- **Luke 23:35** — PSA 22:8-9 (allusion)
 - **Luke 23:36** — PSA 68:22 (allusion)
 - **Luke 23:44** — AMO 8:9 (allusion)
 - **Luke 23:46** — PSA 30:6 (citation)
