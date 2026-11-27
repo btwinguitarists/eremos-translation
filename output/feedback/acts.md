@@ -3018,7 +3018,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**28** จงเฝ้าระวังตัวพวกท่านเองและฝูงแกะทั้งสิ้นซึ่งพระวิญญาณบริสุทธิ์ได้ทรงตั้งพวกท่านเป็นผู้ดูแล จงเลี้ยงดูคริสตจักรของพระเจ้า ซึ่งพระองค์ทรงได้มาเป็นของพระองค์เองด้วยพระโลหิตของพระองค์เอง
+**28** จงเฝ้าระวังตัวพวกท่านเองและฝูงแกะทั้งสิ้น พระวิญญาณบริสุทธิ์ได้ทรงตั้งพวกท่านเป็นผู้ดูแลในฝูงแกะนั้น เพื่อเลี้ยงดูคริสตจักรของพระเจ้า ซึ่งพระองค์ทรงได้มาเป็นของพระองค์เองด้วยพระโลหิตของพระองค์เอง
 
 > ___
 
@@ -4177,7 +4177,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/acts_17.json` | `35ca9f34eadac0a1d95ae85f8b90c1f4c7097cadc0eb2ef86c14671b746ce98b` |
 | `output/translations/acts_18.json` | `df0fc78a49988499024df8462c2ceab8954c8488eb051b8d2a031dc8e96510eb` |
 | `output/translations/acts_19.json` | `198061e13bb957e162bdf86f350359b8b3b4ac9d44a0aa0bc37266ecf4004425` |
-| `output/translations/acts_20.json` | `bc43c5e79bc097c451ca8bfe19eac807241bfeab58cdcb858d10755cc0a98bb7` |
+| `output/translations/acts_20.json` | `9d1d8f8f68e9eb3f10a1a57859754f4632bb882e7ecff8471a77e4192adf1be6` |
 | `output/translations/acts_21.json` | `e665b6ca680ed5282c035b2c7213f5f3f85f58638021637dcefae295f4e35e33` |
 | `output/translations/acts_22.json` | `14ea0fdac75e52e76a88281ea02261b87b2f121b1ffa0f80734baa0d971f03bb` |
 | `output/translations/acts_23.json` | `4e2d5d3c5d62d79683de8ba8f6b8422cbcdf9ec38258c4b7ea7f38905444cb8a` |
