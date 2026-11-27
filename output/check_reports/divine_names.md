@@ -10,4 +10,4 @@ Per docs/translator_decisions/divine_names_table_2026-05.md
 
 ## Warnings
 
-- [C-soft] 2SA 1:10: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
+- [C-soft] 2SA 20:6: Hebrew has standalone אֲדֹנָי (no YHWH compound), Thai may be missing `องค์เจ้านาย`
