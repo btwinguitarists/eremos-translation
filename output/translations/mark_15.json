@@ -411,9 +411,9 @@
     "greek": "ὁ δὲ Πιλᾶτος βουλόμενος τῷ ὄχλῳ τὸ ἱκανὸν ποιῆσαι ἀπέλυσεν αὐτοῖς τὸν Βαραββᾶν,καὶ παρέδωκεν τὸν Ἰησοῦν φραγελλώσας ἵνα σταυρωθῇ.",
     "bsb_english": "And wishing to satisfy the crowd, Pilate released Barabbas to them. But he had Jesus flogged, and handed Him over to be crucified.",
     "translation": {
-      "thai": "ปีลาตต้องการเอาใจฝูงชน จึงปล่อยบารับบัสให้พวกเขา และเมื่อเฆี่ยนพระเยซูแล้ว ก็มอบพระองค์ให้ถูกตรึงที่กางเขน",
+      "thai": "ปีลาตต้องการเอาใจฝูงชน จึงปล่อยบารับบัสให้พวกเขา และเมื่อให้เฆี่ยนพระเยซูแล้ว ก็มอบพระองค์ให้ถูกตรึงที่กางเขน",
       "thai_literal": null,
-      "thai_summary": "การเฆี่ยน (flagellatio) แบบโรมันโหดร้ายถึงขั้นที่นักโทษหลายคนเสียชีวิตก่อนถึงกางเขน แส้ที่ใช้ติดเศษกระดูกและโลหะเพื่อฉีกเนื้อ บ่อยครั้งเผยให้เห็นกระดูกและอวัยวะภายใน เป็นส่วนหนึ่งของโทษประหารเพื่อทำให้เจ็บปวดและอ่อนแอก่อนการตรึง",
+      "thai_summary": "ปีลาตปล่อยบารับบัสและให้เฆี่ยนพระเยซูก่อนมอบพระองค์ไปตรึงกางเขน มาระโกไม่ได้บอกว่าใช้แส้ชนิดใดหรือเฆี่ยนกี่ครั้ง",
       "key_decisions": [
         {
           "greek": "τῷ ὄχλῳ τὸ ἱκανὸν ποιῆσαι",
@@ -422,8 +422,8 @@
         },
         {
           "greek": "φραγελλώσας",
-          "thai": "เมื่อเฆี่ยน...แล้ว",
-          "rationale": "φραγελλόω — LATIN LOANWORD (flagellare 'to whip') via Greek transliteration (per uW TN translate-unknown — Roman scourging with flagellum, a whip with bone/metal shards). Thai เฆี่ยน is the standard vocabulary for whipping/flogging. The Thai rendering is not a transliteration; that would be over-literal. Per uW figs-explicit, Pilate commanded soldiers to do the flogging — Thai leaves this implicit just as Greek does."
+          "thai": "เมื่อให้เฆี่ยน...แล้ว",
+          "rationale": "φραγελλώσας describes Pilate’s responsibility for the flogging. ให้เฆี่ยน conveys his authorization while leaving the person who administered it unnamed, as in John 19:1 ให้โบยตี. Mark gives no description of the whip or the number of strokes."
         },
         {
           "greek": "παρέδωκεν τὸν Ἰησοῦν ... ἵνα σταυρωθῇ",
@@ -431,7 +431,7 @@
           "rationale": "Final παραδίδωμι in the sequence (Judas → Sanhedrin → Pilate → soldiers). ἵνα + aor.-pass.-subj. purpose. Thai มอบพระองค์ให้ถูกตรึง combines the handover and the passive-purpose. Royal มอบพระองค์ preserves Jesus's personal-object royal register."
         }
       ],
-      "notes": "Pilate releases Barabbas, has Jesus flogged and hands him over for crucifixion. This is the third occurrence of παραδίδωμι in chapter 15, following seven in chapter 14. Mark names Pilate as the authority responsible without identifying the person who administered the flogging."
+      "notes": "Pilate releases Barabbas, has Jesus flogged and hands him over for crucifixion. This is the third occurrence of παραδίδωμι in chapter 15, following seven in chapter 14. Mark names Pilate as the authority responsible without identifying the person who administered the flogging. Deuteronomy 25:3 sets a maximum of forty blows in its legal setting. Paul reports receiving forty less one in 2 Corinthians 11:24. Mark gives no count for the flogging under Pilate. Verse 21 describes Simon being compelled to carry the cross, and verse 44 reports Pilate’s surprise at Jesus’s death. Mark supplies no medical explanation for either event."
     }
   },
   {
