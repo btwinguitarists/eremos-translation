@@ -27,9 +27,9 @@ Biblical gender passages are interpretively-contested in modern Christian discou
 
 Hebrew: זָכָר וּנְקֵבָה בָּרָא אֹתָם ("male and female he created them"). The clause is the structural-anchor of biblical-gender-theology. **No collapse permitted** — both genders are preserved with parallel grammatical weight.
 
-**Eremos:** **ชายและหญิงพระองค์ทรงสร้างพวกเขา** (male-then-female ordering matches Hebrew sequence; both gendered nouns explicit).
+**Eremos:** **เป็นชายและเป็นหญิง พระองค์ทรงสร้างพวกเขา** (male-then-female ordering matches Hebrew sequence; both gendered nouns explicit).
 
-**Forward applicability:** every NT citation of Gen 1:27 (Mt 19:4, Mk 10:6 — Christ's marriage teaching) must use the same Thai phrase for cross-corpus visibility.
+**Forward applicability:** Matthew 19:4 and Mark 10:6 quote the closing clause of Genesis 1:27 in Jesus’s teaching about marriage. Use the published Genesis wording above across these quotations, retaining each Evangelist’s introduction.
 
 ### 2.2 Gen 2:18 — "a helper-corresponding-to-him" (עֵזֶר כְּנֶגְדּוֹ)
 
