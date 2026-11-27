@@ -88,9 +88,9 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **4** เพราะบ้านทุกหลังย่อมมีผู้สร้าง แต่พระเจ้าทรงเป็นผู้สร้างสรรพสิ่ง
 
-**5** และโมเสสนั้นสัตย์ซื่อในนิเวศของพระเจ้าทั้งหลัง ในฐานะผู้รับใช้ที่ทรงไว้วางใจ เพื่อเป็นพยานถึงสิ่งที่จะตรัสในภายหลัง
+**5** และโมเสสนั้นสัตย์ซื่อในนิเวศของพระเจ้าทั้งหลัง ในฐานะผู้รับใช้ เพื่อเป็นพยานถึงสิ่งที่จะตรัสในภายหลัง
 
-**6** แต่พระคริสต์ในฐานะพระบุตรทรงสัตย์ซื่อเหนือนิเวศของพระเจ้า และเราเป็นนิเวศของพระองค์ ถ้าเรายึดมั่นในความกล้าและในความภาคภูมิใจแห่งความหวังของเรา
+**6** แต่พระคริสต์ในฐานะพระบุตรทรงสัตย์ซื่อเหนือนิเวศของพระเจ้า และเรานี่เองคือนิเวศนั้น ถ้าเรายึดมั่นในความกล้าและในความภาคภูมิใจแห่งความหวังของเรา
 
 **7** เพราะฉะนั้น ตามที่พระวิญญาณบริสุทธิ์ตรัสว่า “วันนี้ ถ้าท่านทั้งหลายได้ยินพระสุรเสียงของพระองค์
 
@@ -672,10 +672,10 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 |---|---|
 | `output/translations/hebrews_01.json` | `cc22d2105c9e12c8994514f1917b6433738d3d12b7b1d48998b2ff0bb4701f93` |
 | `output/translations/hebrews_02.json` | `4206fcccb4fbdbe15ef4011b0a497de6309a8b3571c74a6648ad13e81dd56996` |
-| `output/translations/hebrews_03.json` | `3ebec505029ac8c92124457c863694c07ef7ab9277e1ddd9f43c1f50960b66c2` |
-| `output/translations/hebrews_04.json` | `67adde4a294d2bc1b50b1638744b9d3b441ef83edbddc62d88df51e7128488e8` |
-| `output/translations/hebrews_05.json` | `9e14c8190e6bf99e2f26b7a0c6fb1207061723350a76bac515bef97fb5d2571e` |
-| `output/translations/hebrews_06.json` | `39241505e2041cc48cdd753f5bbc821fd464cfb42604dabb245eda08961705be` |
+| `output/translations/hebrews_03.json` | `63b148ef101fcde6304b1262f447462de8b0a3f84d2dc39e8447c17991068211` |
+| `output/translations/hebrews_04.json` | `d3186728b3316a6b318b4ac4e0d643a3acc85dea3dbb1856def96f2a3bda5e34` |
+| `output/translations/hebrews_05.json` | `f8a8efc5ecfc0695b849b9cfa670f1d94e905bd79229de3fb9c3af55013da915` |
+| `output/translations/hebrews_06.json` | `62d6091b5154b1e724fa78a168c7a7f097bcfdc522fd9c37f579636babd0899e` |
 | `output/translations/hebrews_07.json` | `45db306abad6af840855ec3f4d512b26c4237a85862078ee92c62efbbdbd8935` |
 | `output/translations/hebrews_08.json` | `b6ff04bbed4dffa70b3312598d52a4eee339224b99a527359138d9784cec72a8` |
 | `output/translations/hebrews_09.json` | `8d90474d5085cb669a39c9cba6ed697386aa13f901240f6d84ce271dd217c02d` |
