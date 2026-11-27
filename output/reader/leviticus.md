@@ -788,7 +788,7 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 **24** สัตว์เหล่านี้จะทำให้พวกเจ้าเป็นมลทิน ผู้ใดที่แตะซากของพวกมันจะเป็นมลทินจนถึงเวลาเย็น
 
-> _บริบท: **การปนเปื้อนจากซากสัตว์ (vv.24–40).** การแตะซากสัตว์ไม่สะอาดทำให้คนเป็นมลทินจนเย็น — ต้องล้างเสื้อผ้า._
+> _บริบท: **การปนเปื้อนจากซากสัตว์ (vv.24–40).** การแตะซากสัตว์ไม่สะอาดทำให้คนเป็นมลทินจนเย็น ส่วนผู้ที่แบกซากต้องซักเสื้อผ้าและเป็นมลทินจนเย็นด้วย._
 
 **25** และผู้ใดที่หยิบซากของพวกมันต้องซักเสื้อผ้า และเขาจะเป็นมลทินจนถึงเวลาเย็น
 
@@ -1049,7 +1049,7 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 **4** ปุโรหิตจะสั่งให้นำนกที่สะอาดที่มีชีวิตอยู่สองตัว ไม้สนซีดาร์ ด้ายสีแดงเข้ม และฮิสโซป มาสำหรับผู้ที่จะถูกชำระ
 
-> _บริบท: **สี่องค์ประกอบของพิธีชำระ.** นกมีชีวิต 2 ตัว + ไม้สนซีดาร์ + ด้ายสีแดงเข้ม + ฮิสโซป — เหมือนพิธีของวัวแดง (กดว 19:6)._
+> _บริบท: **สี่องค์ประกอบของพิธีชำระ.** นกมีชีวิต 2 ตัว + ไม้สนซีดาร์ + ด้ายสีแดงเข้ม + ฮิสโซป — พิธีวัวแดงในกันดารวิถี 19:6 ใช้ไม้สนซีดาร์ ฮิสโซป และวัสดุสีแดงเข้ม แต่ไม่ได้กล่าวถึงนก._
 
 **5** แล้วปุโรหิตจะสั่งให้ฆ่านกหนึ่งตัวเหนือน้ำสดในหม้อดิน
 
@@ -2415,24 +2415,24 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/leviticus_01.json` | `4dc3d8acb54097fd1f8e3249ea68ba1290693a4e25c0e3ff7e73636bae2902cb` |
+| `output/translations/leviticus_01.json` | `936549c42dcabf450a927864e56e2fd1714d0ebc78c95d377ff1bac106f07243` |
 | `output/translations/leviticus_02.json` | `12039eec13da6d20148c601ed6e6865c1be9963aa5964b5dab8662cefdf32db6` |
 | `output/translations/leviticus_03.json` | `b3bf9e73771469c8f6f4dad4cf2864924400f14bf5d92ae1057527a3591fa912` |
 | `output/translations/leviticus_04.json` | `6d0051bed7ccc722e5a02fefe74cb8bf906820ea40e21ffa3ad254e36465d010` |
-| `output/translations/leviticus_05.json` | `9bd26d23dac552a97ff627986e3a8c8591b13dabc567ac3644731412c8acbf7a` |
+| `output/translations/leviticus_05.json` | `f5516d0e8a7eaba17a870b9af9ae332d1d731a5b6f854a430ed9922c0feff752` |
 | `output/translations/leviticus_06.json` | `b8f74f79a8ebf879be850692bdbca65f10ec4efbfc0fb2e5e51fc697be8a52a7` |
 | `output/translations/leviticus_07.json` | `f504e8d26d0830cfed5aa67d78fc7d39ae7f55c1f2bb0919f53a9e67cf80fdd5` |
 | `output/translations/leviticus_08.json` | `73cfb646a403c5ebdc8e8d611e63ee74b5fe90e8145a348c2dc63633f594fc39` |
 | `output/translations/leviticus_09.json` | `331bdefb3afdebe96bcdda0d5aa85e2761b7a875ea8f7b3a557b7e28fcd8bb0c` |
 | `output/translations/leviticus_10.json` | `dfca1eecb48bbc6ee958e105a42d887babe42ffb39f9f911a3dc91e6a4137e61` |
-| `output/translations/leviticus_11.json` | `f9d41a0db85b44a1e7ccfe572dd4ff9042f119c734541df3b14f27c4d7750418` |
+| `output/translations/leviticus_11.json` | `2e76b131b54331abaef2144ce386b73059facbac7ea1d57751b005e6682c7f26` |
 | `output/translations/leviticus_12.json` | `3d15e9fa1f5a099ebe56525533091a94be975b38548214dfb77dbac79558ebe4` |
 | `output/translations/leviticus_13.json` | `c33c6b139dca68b9fa22c9c69464264b2cf717b7f32ed9c2c9ee18f8959f2731` |
-| `output/translations/leviticus_14.json` | `a2a1dc81ad58521650e43e218d38c50b7f0f3370c64a170e0eccb10c7c25cb55` |
+| `output/translations/leviticus_14.json` | `717a4df7ee614cc03bf8033d43a90c3ba4bc2b29bbe03c52c471dc5db02012ae` |
 | `output/translations/leviticus_15.json` | `b70a8aa90b6e82ee918a75d1afc1900ea943da4cd988a91bdcf7428ba166121f` |
-| `output/translations/leviticus_16.json` | `62775e7f682923c1a35a81510bb84869a1cef2b9b40afa275795d7a369202c06` |
+| `output/translations/leviticus_16.json` | `16883377237dd6cd9113591107846fd81bf3944aff3b4601fb9886af50e1f086` |
 | `output/translations/leviticus_17.json` | `bfcfb2841e2b8aed8c56f8cb2df511cf33f4132808c8fd69c6a065e6aa2a17be` |
-| `output/translations/leviticus_18.json` | `4636e71b0fdef018bce8dd603ba3a6ffe167655f756afda5e30132188a0a727e` |
+| `output/translations/leviticus_18.json` | `20a32088d2be2831de1c9bb5eec61ff18f88ecf3121b1ef1d06ad8a71fc60db0` |
 | `output/translations/leviticus_19.json` | `fbe5c6c8a2369207df9a9f549e5ee52c338a2aab95684b038e3751635e1f222d` |
 | `output/translations/leviticus_20.json` | `fdd9be8fa4052470d90e33e89554c5ff3fee4324215409bb007bdff36f1acf41` |
 | `output/translations/leviticus_21.json` | `e1c70db6ec9716a1ac8882b611c7a6002879347f79dca46105591ed59c7ba424` |
