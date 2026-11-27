@@ -440,7 +440,7 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **40** เมื่อดวงอาทิตย์กำลังตก คนทั้งปวงซึ่งมีคนเจ็บป่วยด้วยโรคต่าง ๆ ก็พาเขามาเฝ้าพระองค์ พระองค์ทรงวางพระหัตถ์บนตัวพวกเขาทีละคน และรักษาให้หาย
 
-**41** ผีก็ออกจากคนเป็นอันมากด้วย พลางร้องตะโกนว่า “ท่านเป็นพระบุตรของพระเจ้า” แต่พระองค์ทรงห้ามไม่ให้พวกมันพูด เพราะพวกมันรู้ว่าพระองค์ทรงเป็นพระคริสต์
+**41** ผีก็ออกจากคนเป็นอันมากด้วย พลางร้องตะโกนว่า “ท่านเป็นพระบุตรของพระเจ้า” แต่พระองค์ทรงกำราบพวกมันและไม่ทรงอนุญาตให้พวกมันพูด เพราะพวกมันรู้ว่าพระองค์ทรงเป็นพระคริสต์
 
 **42** เมื่อรุ่งสว่าง พระองค์เสด็จออกจากเมืองไปยังที่เปลี่ยวแห่งหนึ่ง ฝูงชนพากันค้นหาพระองค์ มาถึงพระองค์ และพยายามรั้งพระองค์ไว้ ไม่ให้เสด็จไปจากพวกเขา
 
@@ -2409,7 +2409,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/luke_01.json` | `d5d276c6ea8ac7f4d717102a8283698d79a19580fda7070a512fc647ded5d2c1` |
 | `output/translations/luke_02.json` | `063e24df409b772dccfe9a27f1cea0947f2b69542940790bc78c90ad4c731e90` |
 | `output/translations/luke_03.json` | `18838c65cb57373f75f7f0d9d2fd812ecb203fb282389e48a28226bc610cdb5a` |
-| `output/translations/luke_04.json` | `bab708bb006c6432aec1185331d15803dfb24480fd288acca64767d4edfb0e50` |
+| `output/translations/luke_04.json` | `b73acc980185dfab1c1f2236746306e48b2320aa29f3f719182e4d6b3af9202e` |
 | `output/translations/luke_05.json` | `b3b5160486acc88ca3a09cc51ca249e81062e0f7bb158b5885ceb8f589bddc4f` |
 | `output/translations/luke_06.json` | `d086b1c3e974e68d6718f059bf34a06ff3b750b0cc9f63e72f385b2dad512546` |
 | `output/translations/luke_07.json` | `98d9699c665150f0b20323eb3e5535ca09d732e05d39af8ade7806e2d4efefdb` |
