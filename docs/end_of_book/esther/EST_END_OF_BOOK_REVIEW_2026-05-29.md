@@ -1,5 +1,9 @@
 # Esther — End-of-Book Review
 
+**Editorial clarification, 27 November 2026.**
+
+- **Esther 5:6.** The phrase בְּמִשְׁתֵּה הַיַּיִן locates the conversation as the king and Esther drink wine. The Thai reads ขณะดื่มเหล้าองุ่น, illustrating the range of renderings for מִשְׁתֶּה in this book.
+
 **Date:** 2026-05-29
 **Scope:** All 10 chapters of Esther (167 verses); `glossary.json`; `docs/translator_decisions/` corpus (~98 docs through the Nehemiah end-of-book audit).
 **Trigger:** EST 10 shipped (commit `ac16d1c9`); per `docs/END_OF_BOOK_CHECKLIST.md`. **Sixteenth OT book in the corpus** and **the third post-exilic / Persian-court book**, immediately following Ezra and Nehemiah. Esther inherits both books' locks and re-exercises every Persian-court surface — but at maximum intensity: where Ezra met the Persian king mostly *inside reported letters* and Nehemiah met him in a single audience scene, **Esther's entire plot unfolds inside the court of Ahasuerus (Xerxes), who is the central royal figure of the book.** So the foreign-monarch register question that Ezra *deferred to a corpus decision* and Nehemiah *answered (full ราชาศัพท์)* is here exercised continuously across 10 chapters — and Esther resolves it the **same way Nehemiah did**, against Ezra. Esther is also unique in two ways no prior book has been: it is the **only book in the Hebrew Bible that never names God** (no Tetragrammaton, no Elohim, no Adonai anywhere in the rendered text), and it is the corpus's first encounter with a **named human arch-villain** (Haman) and a **festival-institution etiology** (Purim).
