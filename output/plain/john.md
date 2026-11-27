@@ -346,7 +346,7 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **51** ขณะที่ขุนนางผู้นั้นกำลังเดินทางลงไป บรรดาผู้รับใช้ของเขาก็มาพบเขา และแจ้งว่าเด็กของเขายังมีชีวิตอยู่
 
-**52** เขาจึงถามพวกเขาถึงเวลาที่บุตรเริ่มดีขึ้น พวกเขาตอบว่า “เมื่อวานเวลาบ่ายโมง ไข้ก็หายจากเขาไปแล้ว”
+**52** เขาจึงถามพวกเขาถึงเวลาที่บุตรเริ่มดีขึ้น พวกเขาตอบว่า “เมื่อวานราวบ่ายโมง ไข้ก็หายจากเขาไปแล้ว”
 
 **53** บิดาก็รู้ว่าเป็นเวลาเดียวกับที่พระเยซูตรัสกับเขาว่า “บุตรของท่านยังมีชีวิตอยู่” แล้วเขากับคนในครัวเรือนของเขาทั้งสิ้นก็เชื่อ
 
@@ -1854,23 +1854,23 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 |---|---|
 | `output/translations/john_01.json` | `81304958ebc0272c0020b7f9987f04a03724937557154c800e563c14e50a936f` |
 | `output/translations/john_02.json` | `79b09704398944025d5963d18b0d038735294cb3bed905e01b64b87cbc11e3a3` |
-| `output/translations/john_03.json` | `9756cc2028ca430485e586eba215c7d0435d5c33e8a671f8e974b1617450c50f` |
-| `output/translations/john_04.json` | `501ee061ff7797a75e1b527a88b67385f240776d70c2533c97cf7b08871282b3` |
-| `output/translations/john_05.json` | `35a4fc25a2f71885c58040b86f2e281a4cdbbbf73c4ad9da87dd07c55e59242e` |
-| `output/translations/john_06.json` | `60a3a393499c76c731d596d2654a18c477d5ec860a9cf76d84abac0e6b4af6ce` |
-| `output/translations/john_07.json` | `424102541c08fb86c769cb2e795d8739038c9f6190e26d6659cd16448063048e` |
+| `output/translations/john_03.json` | `0e70a8f8bc79bcb893d133f4325d536ccd78e7c4aecfc7bd4297836548097b7c` |
+| `output/translations/john_04.json` | `09c835abf73e66f3bd26b3feaea46e07a2e922b7af729c1c62a325d2e000f627` |
+| `output/translations/john_05.json` | `3d8e85ebd732a776a6ebebe26cda45644a7e7982435800f18517078bf3b706fe` |
+| `output/translations/john_06.json` | `e59c5977ad61555e214bf247ba57f00df50b8bb9b3f15fc0d592eaf3527f0c47` |
+| `output/translations/john_07.json` | `f6dba1a67e295ca938e504a25655d217d724fb1984c5bb78ec4dfbe9b17cd668` |
 | `output/translations/john_08.json` | `127992bacabc0ec8775c70983fc0460c2875492a193a3e892ab05ef2c742e13d` |
-| `output/translations/john_09.json` | `04338a6b45c75ea82b40660eeccf259b7bb5ed6c67f35e00494681d4209ff528` |
+| `output/translations/john_09.json` | `22e1d96e406a98fae95de467a5297a29faca3df39bbc4fece117585b378bde0d` |
 | `output/translations/john_10.json` | `f878cde0f49d35383f1439f85f91c65f53a3684e9c8f06fd76eb5235a8f066e6` |
-| `output/translations/john_11.json` | `e781b4326a46840c278d79ff1035bb9624a45c852594338ecf1c92926938683a` |
-| `output/translations/john_12.json` | `3e32161b6ccc5d2597ee9f7b8a1a922929bfec07c362f599c71d85686e051885` |
+| `output/translations/john_11.json` | `60c042e1ed3b3edf20f09dd299d70b57839e1254efb987aa49d9b39ebe28a9c2` |
+| `output/translations/john_12.json` | `1300d4322395ce4943e9fa054fc3458d1d84bfa896c48b7a8dc9db0f85548e25` |
 | `output/translations/john_13.json` | `85f4e22c539bb36592f262c19f01611c3fd794b73bfdb2dde17c6bc4b29fb7fa` |
 | `output/translations/john_14.json` | `4d027bb51f3077baf370fca6da6743426b7ae06debb527645a651034052463fa` |
 | `output/translations/john_15.json` | `266002d8a411e2c374da42a7bcfa6eaf0f1a0351e90c1363849c376b80677caf` |
 | `output/translations/john_16.json` | `b15d3c06e89e6a9099a2fa8c673bb840022d6fe3879b5b4094b028abf3679747` |
 | `output/translations/john_17.json` | `85ee706ee7a297f4c8c7c1b1f915e8f6fea4243e9cbf8d7b5be2c7adc38d041e` |
-| `output/translations/john_18.json` | `fd3eef695fedc4780066f10d3a55b55506641bde2700f15d8d26f7e82b9fa0b0` |
-| `output/translations/john_19.json` | `e67e63798fee50a969bf8a6ebfc5eab0d1a49689bf42fe587e4100abdcafb183` |
+| `output/translations/john_18.json` | `2e124c6c8a59c5fac5e054154a2448d5fbdf7e5b9967820a7fdc73b4a48e61c2` |
+| `output/translations/john_19.json` | `ed2b4e1dafdf3d0a6a925d233b8518f1671f5ec736a27026baf24e68007e0964` |
 | `output/translations/john_20.json` | `affef33f0afa4e1926f611949a3d74fcfe36460ae270adece52144c47308ed74` |
 | `output/translations/john_21.json` | `635e337fdc874bbe2ad0f5e0f6f8a89b523d89e3bbb59880ade2a6a6b10e381f` |
 
