@@ -1,5 +1,7 @@
 # 2 Thessalonians — End-of-Book Review
 
+**Closing variant at 3:18.** The Thai follows SBLGNT in ending with the blessing on all the readers. The SBLGNT apparatus records a final Ἀμήν in Robinson–Pierpont.
+
 **Date:** 2026-04-30
 **Scope:** All 3 chapters (47 verses; verse-level `key_decisions` throughout); `glossary.json`; existing `docs/translator_decisions/`.
 **Trigger:** 2TH 3 shipped (commit `dcdcb5d` thai-bible-ai / `81b55ef` EremosVercel2 bundle); per `docs/END_OF_BOOK_CHECKLIST.md`.
