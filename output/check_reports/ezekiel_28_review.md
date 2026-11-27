@@ -9,6 +9,7 @@
 | Back-translation | ✅ clean | [back_translation_ezekiel_28.md](back_translation_ezekiel_28.md) |
 | Thai-summary coverage (info) | ✅ clean | [summary_coverage_ezekiel_28.md](summary_coverage_ezekiel_28.md) |
 | Claim consistency (hallucination, advisory) | ✅ clean | [claim_consistency_ezekiel_28.md](claim_consistency_ezekiel_28.md) |
+| unfoldingWord wording (license gate) | ✅ clean | [uw_wording_ezekiel_28.md](uw_wording_ezekiel_28.md) |
 
 ## Ship criterion
 

@@ -2065,7 +2065,7 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 **21** “บุตรแห่งมนุษย์เอ๋ย จงตั้งหน้าของเจ้าไปทางไซดอน และเผยพระวจนะกล่าวโทษเมืองนั้น
 
-**22** จงกล่าวว่า องค์พระผู้เป็นเจ้าตรัสดังนี้ว่า ดูเถิด ไซดอนเอ๋ย เราเป็นปฏิปักษ์ต่อเจ้า และเราจะได้รับเกียรติในท่ามกลางเจ้า เมื่อเราทำการพิพากษาในเมืองนั้นและสำแดงความบริสุทธิ์ของเราในเมืองนั้น คนทั้งหลายจะรู้ว่าเราคือองค์พระผู้เป็นเจ้า
+**22** จงกล่าวว่า องค์พระผู้เป็นเจ้าตรัสดังนี้ว่า ‘ดูเถิด ไซดอนเอ๋ย เราเป็นปฏิปักษ์ต่อเจ้า และเราจะได้รับเกียรติในท่ามกลางเจ้า เมื่อเราทำการพิพากษาในเมืองนั้นและสำแดงความบริสุทธิ์ของเราในเมืองนั้น คนทั้งหลายจะรู้ว่าเราคือองค์พระผู้เป็นเจ้า
 
 **23** เราจะส่งโรคระบาดมาเหนือเมืองนั้น และทำให้โลหิตไหลนองตามถนนของเมือง ผู้ถูกฆ่าจะล้มลงในท่ามกลางเมืองนั้น ด้วยดาบที่ห้ำหั่นเมืองนั้นจากทุกด้าน แล้วคนทั้งหลายจะรู้ว่าเราคือองค์พระผู้เป็นเจ้า
 
@@ -3632,14 +3632,14 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/ezekiel_01.json` | `b0a493eec9e729a9487998d2e4ce9a9d016dbadb818eb5c31b22749f8a824815` |
+| `output/translations/ezekiel_01.json` | `dd147fc7778f0d7b5f36eae252ab55eb5141b867d758f3b649a6d7c91537cce5` |
 | `output/translations/ezekiel_02.json` | `9ebb35bb24dcb57d6454221c873800babf60912331a332bbf546bed16f0fae32` |
 | `output/translations/ezekiel_03.json` | `84207d66560243dc918ecc7a7226a9f738e71e3b37e8e8d26a0a207f8976057e` |
 | `output/translations/ezekiel_04.json` | `111bb7426b3a7082bf4fcca80bb63322a41508a14b3c48ba0aa193127ac0db41` |
 | `output/translations/ezekiel_05.json` | `889b4e5cf7d7a4ff17ae37ccd9aca3520ebec5e386e04d5f8cb32b2e34c17186` |
 | `output/translations/ezekiel_06.json` | `891c1d1bdf4d401fdf60f256fa73c84107c125df15e51805feb13774c2a6e660` |
 | `output/translations/ezekiel_07.json` | `378af2737e11289f75f8172da03c3e2d3116a9865ffb8c2cd30efceb1b3fae10` |
-| `output/translations/ezekiel_08.json` | `b94718d4f0d6cfb548d924095f690a6d2330af4bcf5939ae3a67896e43d0099c` |
+| `output/translations/ezekiel_08.json` | `5aa039e673ddd75ce11e01b14a1a079036eb34e2ffdf4dddcaf9d9580314f95a` |
 | `output/translations/ezekiel_09.json` | `c02a5d5edd8934d85df7d93a523cbf0e8c884d9a79166e475f42309be4da6a40` |
 | `output/translations/ezekiel_10.json` | `0fa69861ae3a1b647ef1202224515352e2126137c27c663ed337b8138b6404e3` |
 | `output/translations/ezekiel_11.json` | `28213a94a8376c21e10a007a5b87c3dad019d64baecf232665211efa5e1c22b3` |
@@ -3659,7 +3659,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/ezekiel_25.json` | `8a8206896f13273d388f09cce34067476a07972ba0d9158ef380c32f50676fde` |
 | `output/translations/ezekiel_26.json` | `c6ab1cbac2c7b5000a40980dd0716f4802a2aa545aca83cdbb77f4b812402fc3` |
 | `output/translations/ezekiel_27.json` | `f7390e2d072ff7f552c48c2d000ae35adeed9b8d92d9f5596938c5d629fbb03f` |
-| `output/translations/ezekiel_28.json` | `e1d5c90c1c6be9ab2deccf2e56d59622afed56884caf221c17b604ba3b8e47f7` |
+| `output/translations/ezekiel_28.json` | `653127e9eac6d6d5468f66d9311c76837a737cecab8b0af489179a7e654a6dbf` |
 | `output/translations/ezekiel_29.json` | `c28f7129fdcbb301aebd311b65e118a528b2e3f535c36989f8d609e244e0211e` |
 | `output/translations/ezekiel_30.json` | `4d39dea66fd03da5e19f318ee921b2bd9d603ad91399c72548fc97e0464cf782` |
 | `output/translations/ezekiel_31.json` | `d99fc26acc2747d3c676e6e40e31fff307305809e2eef60f82ff0b2402089ea2` |
