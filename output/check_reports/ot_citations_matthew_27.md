@@ -1,8 +1,8 @@
 # OT citation check — matthew ch. 27
 
-NT-to-OT links found: **17** / 66 verses
+NT-to-OT links found: **19** / 66 verses
 
-## ✅ Acknowledged in verse notes: 17
+## ✅ Acknowledged in verse notes: 19
 
 - **Matthew 27:4** — DEU 27:25 (background_allusion)
 - **Matthew 27:6** — DEU 23:18, DEU 27:25 (background_allusion)
@@ -10,6 +10,8 @@ NT-to-OT links found: **17** / 66 verses
 - **Matthew 27:9** — ZEC 11:12-13, JER 19:1-13, JER 32:6-9 (composite_citation)
 - **Matthew 27:10** — ZEC 11:12-13, JER 19:1-13 (composite_citation)
 - **Matthew 27:12** — ISA 53:7 (background_allusion)
+- **Matthew 27:24** — DEU 21:6-9 (allusion)
+- **Matthew 27:25** — 2SA 1:16 (allusion)
 - **Matthew 27:30** — ISA 50:6 (background_allusion)
 - **Matthew 27:34** — PSA 69:21 (citation)
 - **Matthew 27:35** — PSA 22:18 (citation)
