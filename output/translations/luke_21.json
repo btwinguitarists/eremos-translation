@@ -333,7 +333,7 @@
     "translation": {
       "thai": "จะมีแผ่นดินไหวครั้งใหญ่ ๆ จะมีการกันดารอาหารและโรคระบาดในที่ต่าง ๆ จะมีสิ่งน่าหวาดกลัวและหมายสำคัญใหญ่ ๆ จากฟ้าสวรรค์",
       "thai_literal": null,
-      "thai_summary": "คำกรีก “ลิมอย” (λιμοί การกันดาร) และ “ลอยมอย” (λοιμοί โรคระบาด) เป็นคำที่คล้องจองกัน — ลูกาใช้เสียงคำคู่นี้เพื่อเน้นย้ำว่าความหายนะมาพร้อมกันเป็นคู่ คู่คำนี้ปรากฏในวรรณคดียิว-เฮลเลนิสติกอื่น ๆ เช่น โยเซฟัส (สงครามยิว 1.377) ซึ่งใช้คำคู่เดียวกันเพื่อบรรยายความหายนะร่วมของการกันดารและโรคระบาด ส่วน “โฟเบตรา” (φόβητρα) เป็นคำที่ปรากฏเฉพาะที่นี่ในพันธสัญญาใหม่ หมายถึงเหตุการณ์ประหลาดที่ทำให้ผู้คนหวาดกลัว",
+      "thai_summary": "คำกรีกที่ลูกาใช้สำหรับการกันดารอาหารและโรคระบาดออกเสียงคล้ายกัน โยเซฟัสกล่าวถึงภัยทั้งสองขณะอภิปรายเรื่องลางบอกเหตุในสงครามยิว 1.377 สำหรับ “สิ่งน่าหวาดกลัว” อิสยาห์ 19:17 ฉบับกรีกใช้คำนามเดียวกับลูกา ส่วนโฮเชยา 6:10 กล่าวถึงสิ่งน่าสะพรึงด้วยคำอีกคำหนึ่ง",
       "key_decisions": [
         {
           "greek": "σεισμοί τε μεγάλοι",
@@ -348,10 +348,10 @@
         {
           "greek": "φόβητρά τε καὶ σημεῖα ἀπ’οὐρανοῦ μεγάλα",
           "thai": "สิ่งน่าหวาดกลัวและหมายสำคัญใหญ่ ๆ จากฟ้าสวรรค์",
-          "rationale": "HAPAX: φόβητρον 'terrifying-sight, fearful-portent' — only here in NT. Cognate verb φοβέω 'fear' + ablative-noun-suffix -τρον (instrument/means-of-fearing). Per uW: 'events that terrify people.' Thai สิ่งน่าหวาดกลัว (natural Thai). LXX parallels: Isa 19:17 (φόβητρον), Hos 6:10 (φρικτὰ καὶ φόβητρα). σημεῖον → หมายสำคัญ (RULES.md §4). ἀπ’ οὐρανοῦ per uW: either 'from-sky' (atmospheric/cosmic) or 'from-God' (heavenly-origin); Thai ฟ้าสวรรค์ allows both."
+          "rationale": "Isaiah 19:17 uses the singular φόβητρον for a cause of terror. Hosea 6:10 uses φρικώδη for something horrifying. It offers a thematic comparison but lacks Luke’s noun. Josephus, War 1.377, mentions pestilence, famine and earthquakes while discussing possible premonitory signs. He is not reporting that famine and pestilence happened together there."
         }
       ],
-      "notes": "HAPAX: φόβητρον — only here in NT. LUKE-DISTINCTIVE: the pair λιμοί + λοιμοί (famines + pestilences) occurs in Luke's Greek only (Mark/Matt have single λιμοί). The phonetic wordplay (homoiopteron) was a rhetorical-commonplace in classical Greek historiography; Hesiod Op. 242-243 pairs λιμόν/λοιμόν for divinely-sent judgments, Thucydides 2.54 discusses the word-pair, Josephus War 1.377 uses both for simultaneous-disasters. Luke's medical-profession may incline him to the specificity. ADDED TO NT_OT_CITATIONS: LUK 21:11 allusion to ISA 19:17 + HOS 6:10 (φόβητρον vocabulary-echo)."
+      "notes": "Isaiah 19:17 uses the singular φόβητρον for a cause of terror. Hosea 6:10 uses φρικώδη for something horrifying. It offers a thematic comparison but lacks Luke’s noun. Josephus, War 1.377, mentions pestilence, famine and earthquakes while discussing possible premonitory signs. He is not reporting that famine and pestilence happened together there."
     }
   },
   {
@@ -1011,7 +1011,7 @@
           "rationale": "Per uW figs-metaphor: κάθημαι 'sit' = 'dwell/live.' Thai อาศัยอยู่ captures the living-upon. Per uW figs-metaphor: 'face of the earth' → พื้นแผ่นดินโลก (Thai-natural 'surface-of-earth'). πᾶσα ἡ γῆ → แผ่นดินโลกทั้งสิ้น (universal-scope)."
         }
       ],
-      "notes": "HAPAX: ἐπεισέρχομαι — only here in NT. OT-BACKGROUND: Isa 24:17-18 (Hebrew alliterative-triplet pahad + pahat + pah = 'terror-pit-snare'; LXX φόβος καὶ βόθυνος καὶ παγίς). Isaiah 24 is the 'Little Apocalypse' of Isaiah (chs. 24-27) predicting universal-judgment. Luke's παγίς + universal-scope (πᾶσα ἡ γῆ) activates the Isaianic-apocalypse-parallel. The day will not be escapable by geographical-flight — unlike vv.20-24's Judean-flight-to-mountains which was-situation-specific. Universal-eschaton requires different-preparation: vigilant-prayer (v.36), not geographic-relocation."
+      "notes": "Greek Isaiah 24:17 describes fear, pit and snare confronting the inhabitants of the earth, τοὺς ἐνοικοῦντας ἐπὶ τῆς γῆς. Luke speaks of those sitting on the face of the whole earth. Isaiah 24:19 uses ἀπορίᾳ, and verse 20 puts drunkenness and carousing together and later uses κατίσχυσεν. Compare the related expressions in Luke 21:25,34,36 without treating the complete sentences as quotations."
     }
   },
   {
