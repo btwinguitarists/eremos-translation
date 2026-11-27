@@ -11,7 +11,7 @@ Mode: in-chat (Claude-produced back-translations) | Threshold: 0.35
 ## ℹ Low similarity — rationale documented (intentional divergence)
 
 - **Revelation 14:13** (sim=0.16)
-  - Thai: และข้าพเจ้าได้ยินเสียงจากสวรรค์กล่าวว่า “จงเขียนว่า ‘ความสุขมีแก่บรรดาคนตาย ผู้ที่ตายในองค์พระผู้เป็นเจ้าตั้งแต่บัดนี้เป็นต้นไป’ ใช่” พระวิญญาณตรัส “เพื่อพวกเขาจะได้พักจากความตรากตรำของพวกเขา เพราะการกระทำของพวกเขาจะติดตามพวกเขาไป”
+  - Thai: และข้าพเจ้าได้ยินเสียงจากสวรรค์กล่าวว่า “จงเขียนว่า ‘ความสุขมีแก่บรรดาคนตาย ผู้ที่ตายในองค์พระผู้เป็นเจ้าตั้งแต่บัดนี้เป็นต้นไป’” “ใช่” พระวิญญาณตรัส “เพื่อพวกเขาจะได้พักจากความตรากตรำของพวกเขา เพราะการกระทำของพวกเขาจะติดตามพวกเขาไป”
   - Back: And I heard a voice from heaven saying, ‘Write: Blessed are the dead, those who die in the Lord from now on.’ ‘Yes,’ the Spirit says, ‘so that they will rest from their labors, because their deeds will follow them’
   - BSB:  And I heard a voice from heaven telling me to write, “Blessed are the dead—those who die in the Lord from this moment on.” “Yes,” says the Spirit, “they will rest from their labors, for their deeds will follow them.”
 - **Revelation 14:15** (sim=0.30)
