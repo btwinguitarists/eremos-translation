@@ -13,7 +13,7 @@
         {
           "greek": "ἐν τῷ καθεξῆς",
           "thai": "ต่อมาไม่นาน",
-          "rationale": "Per uW writing-newevent: Lukan transition formula (5x Luke+Acts). καθεξῆς 'in order/afterward.' Thai 'ต่อมาไม่นาน' natural narrative-linker, matches glossary Luke 7:11 precedent."
+          "rationale": "καθεξῆς occurs in Luke 1:3 and 8:1 and Acts 3:24, 11:4 and 18:23. Here Luke uses ἐν τῷ καθεξῆς to introduce what happened afterward. ต่อมาไม่นาน reads the events as relatively close in time. Luke gives no precise interval."
         },
         {
           "greek": "διώδευεν κατὰ πόλιν καὶ κώμην",
@@ -43,7 +43,7 @@
     "translation": {
       "thai": "พร้อมทั้งสตรีบางคนที่ได้รับการรักษาจากวิญญาณชั่วและโรคภัยต่างๆ คือ มารีย์ที่เรียกกันว่าชาวมักดาลา ผู้ซึ่งมีผีเจ็ดตนออกไปจากนาง",
       "thai_literal": null,
-      "thai_summary": "มารีย์ชาวมักดาลาปรากฏตัวครั้งแรกในลูกา (ต่างจากมาระโก/มัทธิวที่ให้นางปรากฏครั้งแรกที่กางเขนและการคืนพระชนม์) เธอเป็นหญิงที่เคยถูกผีเจ็ดตนสิง — สัญลักษณ์ของความครอบงำชั่วร้ายที่สมบูรณ์ — แต่พระเยซูทรงปลดปล่อยเธอ การที่ลูกาเอ่ยชื่อเธอที่นี่แทนที่คร่อมครอสเป็นสัญญาณว่าลูกาตระหนักถึงบทบาทยาวนานของเธอในชุมชนผู้เชื่อยุคแรก",
+      "thai_summary": "ลูกาเอ่ยชื่อมารีย์ชาวมักดาลา และบอกว่าผีเจ็ดตนได้ออกจากนางไปแล้ว ใน 24:10 นางเป็นคนหนึ่งในกลุ่มผู้หญิงที่กลับจากอุโมงค์และนำเรื่องไปบอกเหล่าอัครทูต",
       "key_decisions": [
         {
           "greek": "γυναῖκές τινες αἳ ἦσαν τεθεραπευμέναι",
@@ -63,7 +63,7 @@
         {
           "greek": "ἀφ’ ἧς δαιμόνια ἑπτὰ ἐξεληλύθει",
           "thai": "ผู้ซึ่งมีผีเจ็ดตนออกไปจากนาง",
-          "rationale": "Per uW figs-explicit: pluperfect 'had-gone-out' is implicit-passive — Jesus drove them out. I keep the Greek ambiguity in Thai ('ผีออกไป' = demons went-out) since the Greek itself doesn't name the agent; context makes it clear. δαιμόνιον → ผี (glossary-established per Mark). ἑπτά 'seven' = fullness-of-demonic-oppression (symbolic completeness)."
+          "rationale": "ἐξεληλύθει is the pluperfect active of ἐξέρχομαι. Seven demons had gone out from Mary. The Greek verb describes their departure without naming the agent behind it. Seven is the number Luke gives."
         }
       ],
       "notes": "The 'seven demons' note is unique to Luke among Synoptics (Mark 16:9 — a later addition — also has it). Luke introduces Mary Magdalene here, not at the crucifixion as Mark/Matthew do. This is a Lukan women-centered-redaction feature. 'Seven' likely symbolizes completeness of demonic possession, though could also be literal. Luke's Gospel consistently foregrounds women's participation in Jesus' ministry and early-church leadership (cf. 1:26-56, 2:36-38, 10:38-42, 23:27-31, 24:1-11)."
@@ -101,7 +101,7 @@
           "rationale": "Per uW figs-idiom: διακονέω 'serve' + ἐκ τῶν ὑπαρχόντων 'out of what-belonged-to-them.' Imperfect = sustained-patronage. Thai 'ปรนนิบัติ' (elevated-service, divine-context appropriate per glossary Matt 4:11 precedent). 'พระองค์และเหล่าสาวก' explicates the αὐτοῖς (masc. pl. = Jesus+disciples). NEW GLOSSARY: ἐκ τῶν ὑπαρχόντων (financial-support idiom) → ด้วยทรัพย์สินของตน."
         }
       ],
-      "notes": "Three hapax legomena: Ἰωάννα (reappears Lk 24:10), Χουζᾶς, Σουσάννα. Joanna's presence demonstrates the gospel's penetration into Herod's Galilean administration — a Lukan irony-motif (cf. Luke 13:31-33 where Pharisees warn Jesus about Herod). The women-as-financial-patrons detail is unique to Luke. Parallels the Greco-Roman pattern of wealthy women patronizing religious movements (cf. the Theodotus synagogue inscription). This anticipates Acts' Lydia (16:14) and Phoebe (Rom 16:1-2) as patroness-figures."
+      "notes": "Three names: Ἰωάννα (reappears Lk 24:10), Χουζᾶς, Σουσάννα. Joanna's presence demonstrates the gospel's penetration into Herod's Galilean administration — a Lukan irony-motif (cf. Luke 13:31-33 where Pharisees warn Jesus about Herod). The women-as-financial-patrons detail is unique to Luke. Parallels the Greco-Roman pattern of wealthy women patronizing religious movements (cf. the Theodotus synagogue inscription). This anticipates Acts' Lydia (16:14) and Phoebe (Rom 16:1-2) as patroness-figures."
     }
   },
   {
@@ -301,14 +301,14 @@
     "greek": "ὁ δὲ εἶπεν·Ὑμῖν δέδοται γνῶναι τὰ μυστήρια τῆς βασιλείας τοῦ θεοῦ,τοῖς δὲ λοιποῖς ἐν παραβολαῖς,ἵνα βλέποντες μὴ βλέπωσιν καὶ ἀκούοντες μὴ συνιῶσιν.",
     "bsb_english": "He replied, “The knowledge of the mysteries of the kingdom of God has been given to you, but to others I speak in parables, so that, ‘though seeing, they may not see; though hearing, they may not understand.’",
     "translation": {
-      "thai": "พระองค์ตรัสว่า “พระเจ้าทรงประทานให้พวกท่านรู้ความลึกลับแห่งอาณาจักรของพระเจ้า แต่สำหรับคนอื่นนั้น เรากล่าวเป็นคำอุปมา เพื่อว่า ‘เมื่อเขามองดูก็จะไม่เห็น และเมื่อเขาได้ยินก็จะไม่เข้าใจ’”",
+      "thai": "พระองค์ตรัสว่า “พระเจ้าประทานให้พวกท่านรู้ความลึกลับแห่งอาณาจักรของพระเจ้า แต่สำหรับคนอื่นนั้น เรากล่าวเป็นคำอุปมา เพื่อว่า ‘เมื่อเขามองดูก็จะไม่เห็น และเมื่อเขาได้ยินก็จะไม่เข้าใจ’”",
       "thai_literal": null,
       "thai_summary": "พระเยซูทรงอ้างอิสยาห์ 6:9 — คำเรียกพยากรณ์ที่อิสยาห์ได้รับเพื่อเตือนชนอิสราเอลที่ปฏิเสธพระวจนะของพระเจ้า การที่พระเยซูนำข้อนี้มาใช้หมายความว่า คำอุปมามีผลสองทาง — สำหรับผู้เชื่อช่วยให้เข้าใจลึกยิ่งขึ้น สำหรับผู้ไม่ตอบสนอง เป็นเครื่องกรองที่ทำให้พวกเขาได้ยินแต่ไม่เข้าใจอย่างแท้จริง",
       "key_decisions": [
         {
           "greek": "Ὑμῖν δέδοται γνῶναι",
-          "thai": "พระเจ้าทรงประทานให้พวกท่านรู้",
-          "rationale": "Per uW figs-activepassive: perfect-passive δέδοται 'has-been-given' with God as implicit divine-passive agent. Thai makes God explicit 'พระเจ้าทรงประทาน' (royal-prefix ทรง for divine-subject). 'ให้พวกท่านรู้' renders γνῶναι infinitive-of-purpose."
+          "thai": "พระเจ้าประทานให้พวกท่านรู้",
+          "rationale": "δέδοται is passive and the Greek does not name the giver. พระเจ้าประทาน makes the understood divine giver explicit. ประทาน is already a royal verb. The Isaiah 6:9 citation repeats βλέπω while the Thai distinguishes มองดู from เห็น."
         },
         {
           "greek": "τὰ μυστήρια τῆς βασιλείας τοῦ θεοῦ",
@@ -323,7 +323,7 @@
         {
           "greek": "ἵνα βλέποντες μὴ βλέπωσιν καὶ ἀκούοντες μὴ συνιῶσιν",
           "thai": "เพื่อว่า ‘เมื่อเขามองดูก็จะไม่เห็น และเมื่อเขาได้ยินก็จะไม่เข้าใจ’",
-          "rationale": "OT CITATION from Isaiah 6:9 LXX (abbreviated form). Per uW figs-quotesinquotes: Luke quotes Jesus quoting Isaiah. Inner ‘ ’ quote-within-quote per glossary-established convention. Greek contains same-root repetition βλέποντες/βλέπωσιν (seeing/see). Thai 'มองดู/เห็น' preserves the same-root play. συνίημι 'comprehend' → เข้าใจ (standard). ADDED TO NT_OT_CITATIONS."
+          "rationale": "The verb βλέπω occurs twice. มองดู and เห็น distinguish looking from seeing in the Thai rendering of the citation."
         }
       ],
       "notes": "OT CITATION: Luke 8:10 quotes Isaiah 6:9 (LXX abbreviated). Luke's version is shorter than Mark 4:12 and Matt 13:13-15 (which cite more of the Isaiah passage). The theological-tension verse: Jesus's teaching creates division — disciples receive understanding; outsiders hear but don't grasp. This is not arbitrary divine-hardening but a Jewish-prophetic pattern where revelation judges as well as saves. FULFILLMENT: Jesus applies Isaiah's commission-text to his own ministry, identifying outsiders' non-understanding as a fulfillment of the same prophetic pattern. ADDED TO NT_OT_CITATIONS."
@@ -351,7 +351,7 @@
           "rationale": "ὁ λόγος τοῦ θεοῦ → พระวจนะของพระเจ้า (glossary-established, distinctively Lukan phrase — 14x Acts alone). พระวจนะ honorifically elevates 'word' to divine-communication register. Per uW figs-metonymy: 'word' = the God-from-message."
         }
       ],
-      "notes": "Key allegorical-identification. ὁ λόγος τοῦ θεοῦ is a Lukan signature-phrase (Luke 5:1, 8:11, 8:21, 11:28; 14x Acts) distinguishing Luke from Mark's plainer 'word' (Mk 4:14 ὁ λόγος without θεοῦ). Luke's theological foregrounding of the word-as-divine-message anticipates Acts' theme of the word-of-God spreading."
+      "notes": "The seed is God’s word. In Acts an inflected form of λόγος immediately followed by τοῦ θεοῦ occurs in eleven verses (4:31, 6:2, 6:7, 8:14, 11:1, 12:24, 13:5, 13:7, 13:46, 17:13 and 18:11)."
     }
   },
   {
@@ -378,7 +378,7 @@
         {
           "greek": "ἵνα μὴ πιστεύσαντες σωθῶσιν",
           "thai": "เพื่อมิให้เขาเชื่อและได้รับความรอด",
-          "rationale": "Per uW figs-activepassive: σωθῶσιν aor-pass-subj 'be-saved' — divine-passive (God is implicit-agent of salvation). Thai 'ได้รับความรอด' matches glossary standard for σωτηρία/σῴζω (spiritual-salvation sense, distinct from v.36/48/50 physical-healing). CONTEXTUAL NOTE: this is the first of three σῴζω-uses in Luke 8 — here spiritual-salvation; v.36 demoniac-deliverance; v.48 hemorrhaging-woman-healing; v.50 dead-girl-restoration."
+          "rationale": "σῴζω concerns believing and being saved here. Later in the chapter the same verb is used of the deliverance and healings reported in verses 36, 48 and 50."
         }
       ],
       "notes": "First interpretive-allegory unit: path-seed = hearers from whom the devil snatches away the word. σῴζω here has its spiritual-salvation sense (not physical-healing); compare v.36 (deliverance), v.48 (healing), v.50 (restoration-to-life). The devil's goal is to prevent belief-leading-to-salvation — theological-anthropology: belief is the hinge of salvation."
@@ -441,7 +441,7 @@
           "rationale": "τελεσφορέω HAPAX LEGOMENON (NT: only here). Compound τέλος+φέρω 'bring-to-completion.' Classical-agricultural: 'ripen fully, bring fruit to maturity.' Thai 'เกิดผลสุก' (produce mature/ripe fruit) preserves the Greek's completeness-emphasis — not just 'bearing fruit' but 'bringing-fruit-to-full-maturity.' NEW GLOSSARY: τελεσφορέω → เกิดผลสุก."
         }
       ],
-      "notes": "Hapax τελεσφορέω — a precise botanical-term for fruit reaching full ripeness. Luke's agricultural precision again (cf. ἰκμάς v.6). Luke expands Mark's 'worries-of-the-age + riches-deception + cravings-for-other-things' (Mk 4:19) to 'worries + riches + pleasures-of-this-life' — substitutes ἡδοναί (pleasures) for Mark's more-specific πλοῦτος-deception. This trio becomes a Lukan moral-framework (cf. 12:13-21 rich-fool, 16:19-31 rich-man-and-Lazarus)."
+      "notes": "Hapax τελεσφορέω — a precise botanical-term for fruit reaching full ripeness. Luke's agricultural precision again (cf. ἰκμάς v.6). Luke expands Mark's 'worries-of-the-age + riches-deception + cravings-for-other-things' (Mk 4:19) to 'worries + riches + pleasures-of-this-life' — retains πλούτου (riches), omits ἀπάτη (deception), and lists pleasures of life where Mark lists desires for other things. This trio becomes a Lukan moral-framework (cf. 12:13-21 rich-fool, 16:19-31 rich-man-and-Lazarus)."
     }
   },
   {
@@ -523,12 +523,12 @@
         {
           "greek": "οὐ γάρ ἐστιν κρυπτὸν ὃ οὐ φανερὸν γενήσεται",
           "thai": "ไม่มีสิ่งใดที่ปิดซ่อนไว้ แล้วจะไม่ถูกเปิดเผย",
-          "rationale": "Per uW figs-doublenegatives: double-negative → positive statement 'everything hidden will be disclosed.' I preserve Greek's emphatic double-negative form in Thai via 'ไม่มี...ที่จะไม่...' — the intensifying force is pastoral-prophetic."
+          "rationale": "Per uW figs-doublenegatives: double-negative → positive statement 'everything hidden will be disclosed.' I preserve Greek's emphatic double-negative form in Thai via 'ไม่มี...แล้วจะไม่...' — the intensifying force is pastoral-prophetic."
         },
         {
           "greek": "οὐδὲ ἀπόκρυφον ὃ οὐ μὴ γνωσθῇ καὶ εἰς φανερὸν ἔλθῃ",
           "thai": "ไม่มีสิ่งใดที่ปิดบังไว้ แล้วจะไม่ถูกรู้และปรากฏออกมา",
-          "rationale": "Per uW figs-doublet: 'be-known' and 'come-into-visibility' are near-synonyms for emphasis. Triple-negative construction (οὐδὲ + οὐ + μή) = emphatic-denial. Thai 'ถูกรู้และปรากฏออกมา' preserves both verbs. κρυπτόν/ἀπόκρυφον paired → ปิดซ่อน/ปิดบัง (Thai paired-synonyms)."
+          "rationale": "Per uW figs-doublet: 'be-known' and 'come-into-visibility' are near-synonyms for emphasis. οὐδέ continues the negative main clause, and οὐ μή marks emphatic negation in the relative clause. Thai 'ถูกรู้และปรากฏออกมา' preserves both verbs. κρυπτόν/ἀπόκρυφον paired → ปิดซ่อน/ปิดบัง (Thai paired-synonyms)."
         }
       ],
       "notes": "Eschatological-revelation theme: God will ultimately expose everything. In context: the disciples receive hidden teaching (v.10 'mysteries') that is meant to be revealed eventually. Double/triple-negative emphatic constructions in Greek — Luke preserves the forceful prophetic register. Parallel Mark 4:22; Luke 12:2 repeats this saying in a different context."
@@ -646,7 +646,7 @@
           "rationale": "ὁ λόγος τοῦ θεοῦ → พระวจนะของพระเจ้า (established this chapter v.11). Double participle ἀκούοντες+ποιοῦντες 'hearing-and-doing.' Thai 'ฟัง...และประพฤติตาม' captures the two-fold response. Luke's 'hear AND do' is distinctive (Matthew has 'do the will of my Father'; Mark has 'do the will of God')."
         }
       ],
-      "notes": "Luke's version uniquely pairs ἀκούω (hear) + ποιέω (do) — tying this back to the Parable of the Sower's good-soil (v.15 which also emphasizes hearing + doing). Contrast with Mark 3:35 (does the will of God) and Matt 12:50 (does the will of my Father). Luke binds the family-redefinition saying to the preceding parable as a unified teaching-block on genuine responsiveness. Family-of-God motif is central to Luke-Acts theology."
+      "notes": "Luke 8:15 describes those who hear the word, hold it fast and bear fruit with endurance. Here Jesus calls those who hear God’s word and do it his mother and brothers. Hearing links the two descriptions, while their descriptions of the response differ."
     }
   },
   {
@@ -718,7 +718,7 @@
     "translation": {
       "thai": "พวกเขาจึงเข้ามาปลุกพระองค์ทูลว่า “นายท่าน นายท่าน พวกเรากำลังจะพินาศแล้ว” พระองค์ทรงลุกขึ้นแล้วทรงห้ามลมและคลื่นน้ำ สิ่งเหล่านั้นก็สงบลง ทะเลสาบก็ราบเรียบ",
       "thai_literal": null,
-      "thai_summary": "คำเรียก “นายท่าน นายท่าน” (ἐπιστάτα ἐπιστάτα) ซ้ำสองครั้งแสดงความเร่งด่วนและหวาดกลัวของเหล่าสาวก ในลูกา คำนี้ใช้เฉพาะโดยเหล่าสาวกต่อพระเยซู (5:5, 8:24, 8:45, 9:33, 9:49, 17:13) — เป็นคำเรียกที่ลูกาใช้แทนคำว่า “รับบี” ซึ่งเป็นคำฮีบรู-อราเมอิกที่ผู้อ่านชาวกรีกไม่คุ้นเคย การที่พระเยซูทรง “ห้าม” ลมและคลื่นเป็นภาษาแห่งการขับไล่ผี — ชี้ว่าพระองค์ทรงครอบครองเหนือพลังแห่งความโกลาหล",
+      "thai_summary": "พวกสาวกปลุกพระเยซูและเรียกพระองค์ซ้ำสองครั้งด้วยความตกใจ พระเยซูทรงลุกขึ้นห้ามลมและคลื่น แล้วลมกับคลื่นก็สงบ มาระโก 4:38 เล่าเหตุการณ์เดียวกันโดยใช้คำเรียกพระองค์ว่า “อาจารย์”",
       "key_decisions": [
         {
           "greek": "Ἐπιστάτα ἐπιστάτα",
@@ -741,7 +741,7 @@
           "rationale": "Per uW figs-parallelism: 'ceased and became calm' = repetition for emphasis. γαλήνη → ราบเรียบ/สงบ (glossary-established via Mark 4:39 'γαλήνη μεγάλη → สงบราบเรียบอย่างยิ่ง'). Thai splits into two parallel clauses preserving the emphasis."
         }
       ],
-      "notes": "Luke's ἐπιστάτα (used only by disciples) is his Greek-substitute for ῥαββί (which appears 0x in Luke, 4x Mark, 4x Matthew, 8x John). ἐπιτιμάω is the exorcism-verb (Mk 1:25 demon) applied here to storm — suggests the storm is being treated as a quasi-demonic force, a reading supported by the Second-Temple Jewish worldview where chaotic-waters and evil-spirits are cosmologically-linked. The disciples' panic contrasts with Jesus's sovereign-calm."
+      "notes": "Luke uses ἐπιστάτης seven times in six verses. It occurs twice in the disciples’ cry here and once at 5:5, 8:45, 9:33, 9:49 and 17:13, where ten men with a skin disease call to Jesus. Mark 4:38 uses Διδάσκαλε. In SBLGNT the distinct term ῥαββί occurs four times in Matthew, three in Mark, none in Luke and eight in John. Mark 10:51 has ῥαββουνί."
     }
   },
   {
@@ -793,7 +793,7 @@
         {
           "greek": "τὴν χώραν τῶν Γερασηνῶν",
           "thai": "แคว้นของชาวเกราซา",
-          "rationale": "TEXTUAL VARIANT (THREE-WAY): Γερασηνῶν (SBLGNT/NA28, P75, ℵ*, B, D, 0279) vs. Γαδαρηνῶν (A, W, Byz, Syr, Matt 8:28-parallel) vs. Γεργεσηνῶν (Origen's conjecture, ℵ²). SBLGNT reads Γερασηνῶν which presents a geographic-puzzle (Gerasa is 50+ km inland). Scholarly consensus: the region extended to the lake, and locals may have named the whole territory after the chief city. We follow SBLGNT per RULES §2. Thai 'แคว้นของชาวเกราซา' matches glossary-established rendering."
+          "rationale": "SBLGNT, Westcott–Hort, Tregelles and NA28 print Γερασηνῶν, Gerasenes. Robinson–Pierpont prints Gadarenes. The first hand of Codex Sinaiticus has Gergesenes. The Thai follows the selected Greek, including the description of the region across from Galilee. These different spellings do not establish an exact landing site."
         },
         {
           "greek": "ἀντιπέρα τῆς Γαλιλαίας",
@@ -801,7 +801,7 @@
           "rationale": "ἀντιπέρα HAPAX LEGOMENON (NT: only here). Literally 'opposite-across.' Thai 'ฝั่งตรงข้าม' captures the geographic-relationship — Gentile-side of the lake. NEW GLOSSARY: ἀντιπέρα → ฝั่งตรงข้าม."
         }
       ],
-      "notes": "TEXTUAL VARIANT + two hapax. Gerasenes/Gadarenes/Gergesenes: tripartite textual tradition. SBLGNT has Γερασηνῶν matching Mark 5:1 SBLGNT. Matthew 8:28 reads Γαδαρηνῶν (Gadarenes) in our glossary-established tradition. The geographic-region on the Gentile-eastern-shore of the Sea of Galilee — crossing into Gentile territory was symbolically significant (pigs in v.32 confirm Gentile setting; a Jewish region would not have herds of swine)."
+      "notes": "The place-name varies among Gerasenes, Gadarenes and Gergesenes. Origen discusses these geographical alternatives in his Commentary on John 6, in a comparison with the Gospel account. Luke describes the country in relation to Galilee and the lake."
     }
   },
   {
@@ -836,7 +836,7 @@
           "rationale": "Per uW translate-unknown: 'tombs' in this region could be rock-cut chambers / caves, usable for shelter. Thai 'อุโมงค์ฝังศพ' (tomb-cave) preserves the burial-cave image. NEW GLOSSARY: μνῆμα → อุโมงค์ฝังศพ. Jewish purity-law: tomb-dwelling renders a person ritually-defiled (Num 19:11-16) — the demoniac's uncleanness is both spiritual and ritual."
         }
       ],
-      "notes": "Luke's version differs from Mark 5:2-3 (which mentions chains and stones and self-cutting here, detail Luke moves to v.29). Luke adds the nakedness-detail (unique to Luke) — heightens the social-alienation theme. The tombs-setting has both practical (shelter) and symbolic (unclean, liminal-between-life-death) significance."
+      "notes": "Luke's version differs from Mark 5:2-3 (which mentions a chain in v.3. Mark describes the man cutting himself with stones in v.5. Luke recounts the binding in v.29). Luke adds the nakedness-detail (unique to Luke) — heightens the social-alienation theme. The tombs-setting has both practical (shelter) and symbolic (unclean, liminal-between-life-death) significance."
     }
   },
   {
@@ -848,7 +848,7 @@
     "translation": {
       "thai": "เมื่อเขาเห็นพระเยซู ก็ร้องตะโกนและทรุดลงต่อพระพักตร์ พร้อมร้องเสียงดังว่า “พระเยซู พระบุตรของพระเจ้าผู้สูงสุด ท่านมีอะไรเกี่ยวข้องกับข้า? ข้าวิงวอนท่าน อย่าทรมานข้าเลย”",
       "thai_literal": null,
-      "thai_summary": "วิญญาณผีในชายคนนี้จดจำพระเยซูได้ทันที และรู้ว่าพระองค์เป็นใคร — “พระบุตรของพระเจ้าผู้สูงสุด” ในมัทธิว 8:29 และมาระโก 5:7 สำนวนเดียวกันนี้ใช้ เป็นหลักฐานในพระคัมภีร์ยุคต้นว่าโลกฝ่ายวิญญาณรู้จักพระคริสต์ แต่ไม่ได้เลือกที่จะติดตามพระองค์ คำถามว่า “ท่านมีอะไรเกี่ยวข้องกับข้า” เป็นสำนวนกรีกสื่อความว่า “อย่ามายุ่งกับข้าเลย”",
+      "thai_summary": "วิญญาณผีในชายคนนี้จดจำพระเยซูได้ทันที และรู้ว่าพระองค์เป็นใคร — “พระบุตรของพระเจ้าผู้สูงสุด” มาระโก 5:7 ใช้พระนามเดียวกัน ส่วนมัทธิว 8:29 ใช้คำว่า “พระบุตรของพระเจ้า” ถ้อยคำเหล่านี้ เป็นหลักฐานในพระคัมภีร์ยุคต้นว่าโลกฝ่ายวิญญาณรู้จักพระคริสต์ แต่ไม่ได้เลือกที่จะติดตามพระองค์ คำถามว่า “ท่านมีอะไรเกี่ยวข้องกับข้า” เป็นสำนวนกรีกสื่อความว่า “อย่ามายุ่งกับข้าเลย”",
       "key_decisions": [
         {
           "greek": "ἀνακράξας προσέπεσεν αὐτῷ",
@@ -906,7 +906,7 @@
           "rationale": "διαρρήσσω 'tear-apart, burst.' Thai 'หัก...หลุดออก' preserves the violent-breaking + escape. ἔρημος → ถิ่นทุรกันดาร (RULES §4 established). ἠλαύνετο passive 'was-driven-by' per uW figs-activepassive."
         }
       ],
-      "notes": "Luke consolidates the demoniac's history (which Mark 5:3-5 gives before the exorcism-exchange) into this single explanatory verse AFTER the demon's plea. This is Lukan narrative-ordering: he gives the demon-dialogue first, then flashes back to explain the context. Luke's language 'drove him into solitary places' (τὰς ἐρήμους) is distinctively Lukan — evokes the wilderness-as-demonic-territory theme (4:1, 4:42, 7:24)."
+      "notes": "Luke consolidates the demoniac's history (which Mark 5:3-5 gives before the exorcism-exchange) into this single explanatory verse AFTER the demon's plea. This is Lukan narrative-ordering: he gives the demon-dialogue first, then flashes back to explain the context. Luke's language 'drove him into solitary places' (τὰς ἐρήμους) is distinctively Lukan — here the demon drives the man into the wilderness (compare the wilderness language in 4:1 and 7:24)."
     }
   },
   {
@@ -1088,7 +1088,7 @@
         {
           "greek": "πῶς ἐσώθη ὁ δαιμονισθείς",
           "thai": "คนที่เคยถูกผีสิงนั้นได้รับการปลดปล่อยอย่างไร",
-          "rationale": "Per uW figs-activepassive: passive 'the-demon-possessed-was-saved.' σῴζω CONTEXTUAL VARIANT: here = 'delivered/rescued' (from demonic possession), not 'saved-spiritually' (v.12). Thai 'ได้รับการปลดปล่อย' (receive-liberation) captures the deliverance-sense better than 'รอด' (be-saved) which suggests spiritual-salvation. δαιμονισθείς → คนที่เคยถูกผีสิง (perfect-passive-ptc substantival, glossary-established)."
+          "rationale": "Per uW figs-activepassive: passive 'the-demon-possessed-was-saved.' σῴζω CONTEXTUAL VARIANT: here = 'delivered/rescued' (from demonic possession), not 'saved-spiritually' (v.12). Thai 'ได้รับการปลดปล่อย' (receive-liberation) captures the deliverance-sense better than 'รอด' (be-saved) which suggests spiritual-salvation. δαιμονισθείς → คนที่เคยถูกผีสิง (aorist-passive-ptc substantival, glossary-established)."
         }
       ],
       "notes": "CONTEXTUAL VARIANT of σῴζω. Luke 8 uses σῴζω in four senses: v.12 spiritual-salvation (ความรอด), v.36 exorcism-deliverance (ได้รับการปลดปล่อย), v.48 physical-healing (หาย), v.50 resurrection-restoration (รอด/เป็นขึ้น). Documenting this polyvalence is important for key-term consistency — same Greek verb, different contextual Thai renderings."
@@ -1181,7 +1181,7 @@
           "rationale": "CHRISTOLOGICAL SWAP: Jesus's instruction = 'God-has-done'; man's report = 'Jesus-has-done.' Luke's intentional Christological-equation. Thai preserves this shift by placing 'พระเยซู' in the reporting-clause — a careful translator-choice to avoid harmonizing the two names."
         }
       ],
-      "notes": "Theological-crux: Jesus tells the man to proclaim what GOD has done (τὸν θεόν); the man proclaims what JESUS has done (ὁ Ἰησοῦς). This shift is intentional on Luke's part, not a narrator's-mistake — it reveals Luke's implicit-Christology: Jesus's acts = God's acts. The man thus becomes the first Gentile-evangelist, proclaiming Jesus in the Decapolis. Echoes John 14:9 theologically ('whoever has seen me has seen the Father')."
+      "notes": "Theological-crux: Jesus tells the man to proclaim what GOD has done (ὁ θεός); the man proclaims what JESUS has done (ὁ Ἰησοῦς). This shift is intentional on Luke's part, not a narrator's-mistake — it reveals Luke's implicit-Christology: Jesus's acts = God's acts. The man thus becomes the first Gentile-evangelist, proclaiming Jesus in the Decapolis. Echoes John 14:9 theologically ('whoever has seen me has seen the Father')."
     }
   },
   {
@@ -1246,7 +1246,7 @@
           "rationale": "Divine addressee παρακαλέω → ทูลเชิญ (humble-invitation-to-divine). Divine movement εἰσέρχομαι → เสด็จไป (royal). Jairus speaks with full divine-reverence, distinct from demon-register of v.28."
         }
       ],
-      "notes": "Jairus's name יָאִיר means 'he enlightens/he gives light' (Jastrow) — thematically-resonant with the resurrection-to-come (the 'enlightenment' of his daughter's life restored). Synagogue-leader was a position of religious+social eminence in the Jewish community. His public prostration at Jesus's feet is a costly act of public humility — a religious-establishment figure bowing to an itinerant-prophet."
+      "notes": "Jairus is identified by name and as a synagogue leader. Luke tells how he appeals to Jesus without interpreting his name as part of the healing story."
     }
   },
   {
@@ -1263,7 +1263,7 @@
         {
           "greek": "θυγάτηρ μονογενὴς ἦν αὐτῷ",
           "thai": "บุตรสาวคนเดียวของเขา",
-          "rationale": "θυγάτηρ → บุตรสาว (glossary-established, formal register). μονογενής → คนเดียว (glossary-established Mark 5:23/Luke 7:12 precedent). Dative-of-possession αὐτῷ → ของเขา."
+          "rationale": "Luke calls the girl an only daughter, using μονογενής as at 7:12 and 9:38 for an only child. Mark 5:23 uses θυγάτριον, little daughter. Luke’s ὡς marks her age as about twelve. Mark 5:25 and 5:42 also juxtapose the woman’s twelve years of bleeding and the girl’s age."
         },
         {
           "greek": "ὡς ἐτῶν δώδεκα",
@@ -1281,7 +1281,7 @@
           "rationale": "συμπνίγω (echoes v.14 parable-thorn-choking metaphor) here used literally: the crowd pressing-around Jesus. Thai 'เบียดเสียด' glossary-established (Mark 5:24 parallel). Royal referent → พระองค์."
         }
       ],
-      "notes": "Twelve-year detail paired with hemorrhage-twelve-years (v.43): the daughter's total life-duration equals the woman's total suffering-duration. Luke's narrative-parallelism sets up the interlocking-healing structure. The verb συμπνίγω (pressing) echoes the parable-of-sower (v.14) where cares-of-life choke the word — same verb, different application."
+      "notes": "Luke calls the girl an only daughter, using μονογενής as at 7:12 and 9:38 for an only child. Mark 5:23 uses θυγάτριον, little daughter. Luke’s ὡς marks her age as about twelve. Mark 5:25 and 5:42 also juxtapose the woman’s twelve years of bleeding and the girl’s age."
     }
   },
   {
@@ -1311,7 +1311,7 @@
           "rationale": "Per uW figs-activepassive: aor-pass-inf 'be-healed-by-no-one.' Thai 'ไม่มีผู้ใด...ให้หายได้' rearranges to natural Thai-syntax while preserving the no-physician-succeeded meaning."
         }
       ],
-      "notes": "Hapax προσαναλίσκω. TEXTUAL ISSUE: the phrase 'having spent all her living on doctors' is omitted by some ancient manuscripts (P75, B, D, syriac-sinaiticus) but included in others (ℵ, A, C, L, W, Θ, Byz, Vulg). SBLGNT includes it with brackets-in-some-editions; NA28 marks as contested. Mainstream evangelical critical-text practice (BSB, ESV, NIV, CSB) includes with a textual footnote. We follow SBLGNT inclusion per RULES §2. The woman's condition rendered her ritually-unclean per Lev 15:25-30 — a double-stigma of medical + ceremonial outcast."
+      "notes": "Hapax προσαναλίσκω. TEXTUAL ISSUE: the phrase 'having spent all her living on doctors' is omitted by some ancient manuscripts (P75, B, D, syriac-sinaiticus) but included in others (ℵ, A, C, L, W, Θ, Byz, Vulg). SBLGNT includes the phrase in its main text and marks it for an apparatus entry; NA28 marks as contested. BSB includes the phrase. The SBLGNT apparatus lists Treg, RP, and NA28 for inclusion and WH and NIV for omission. We follow SBLGNT inclusion per RULES §2. The woman's condition rendered her ritually-unclean per Lev 15:25-30 — a double-stigma of medical + ceremonial outcast."
     }
   },
   {
@@ -1323,12 +1323,12 @@
     "translation": {
       "thai": "นางเข้ามาข้างหลังพระองค์และแตะชายฉลองพระองค์ ในทันใดนั้น โลหิตของนางก็หยุดไหล",
       "thai_literal": null,
-      "thai_summary": "ชายเสื้อ (κράσπεδον) ของชาวยิวเป็น “ปอยผ้าสี่มุม” (ציצית tzitzit) ตามกฎเฉลยธรรมบัญญัติ 22:12 เป็นเครื่องเตือนใจให้ระลึกถึงพระบัญญัติของพระเจ้า การที่หญิงนางนี้มุ่งไปที่ชายเสื้อโดยเฉพาะสะท้อนถึงความเชื่อของนางในอำนาจฝ่ายจิตวิญญาณของพระเยซูในฐานะ “ผู้นั้นที่มีพระเจ้าอยู่กับเขา” (คนสะมาเรียใน มล 3:20 ถูกเรียกว่า “ดวงอาทิตย์ธรรมะจะมีฤทธิ์รักษาในปีกของมัน”)",
+      "thai_summary": "หญิงผู้นั้นแตะชายฉลองพระองค์ของพระเยซูจากข้างหลัง แล้วโลหิตก็หยุดไหลทันที กันดารวิถี 15:38 กล่าวถึงพู่ที่มุมเสื้อ ส่วนเฉลยธรรมบัญญัติ 22:12 ระบุว่ามีสี่มุม ลูกาไม่ได้บอกว่าหญิงผู้นี้กำลังนึกถึงพระคัมภีร์ตอนใด",
       "key_decisions": [
         {
           "greek": "ἥψατο τοῦ κρασπέδου τοῦ ἱματίου αὐτοῦ",
           "thai": "แตะชายฉลองพระองค์",
-          "rationale": "Per uW translate-unknown: κράσπεδον = tassel (ציצית) required by Num 15:38-39 and Deut 22:12 on the four-corners of a Jewish-man's garment. Divine-garment → ฉลองพระองค์ (royal garment, RULES §3). Thai 'ชาย' = edge/fringe; 'ชายฉลองพระองค์' = the-edge-of-the-royal-garment, preserving both the textile-fringe and royal-register. NEW GLOSSARY: κράσπεδον → ชายฉลองพระองค์ (divine-subject) / ชายเสื้อ (human-subject)."
+          "rationale": "The woman touches the edge of Jesus’s garment. Numbers 15:38 mentions tassels at garment corners and Deuteronomy 22:12 specifies four corners. Malachi 3:20 (4:2 in common English numbering) addresses those who fear God’s name and pictures healing in the wings of the sun of righteousness. Luke does not give that passage as her reason for touching the garment."
         },
         {
           "greek": "παραχρῆμα",
@@ -1368,7 +1368,7 @@
         {
           "greek": "συνέχουσίν σε καὶ ἀποθλίβουσιν",
           "thai": "เบียดเสียดและดันพระองค์",
-          "rationale": "Per uW figs-doublet: συνέχω + ἀποθλίβω = 'crowd-in + press-against.' ἀποθλίβω HAPAX LEGOMENON (NT: only here) — intensified θλίβω. Thai 'เบียดเสียด + ดัน' preserves the doublet — two pressing-verbs for emphasis. Disciple 3rd-person reference to Jesus → พระองค์ (royal). NEW GLOSSARY: ἀποθλίβω → ดัน."
+          "rationale": "Per uW figs-doublet: συνέχω + ἀποθλίβω = 'crowd-in + press-against.' ἀποθλίβω HAPAX LEGOMENON (NT: only here) — intensified θλίβω. Thai 'เบียดเสียด + ดัน' preserves the doublet — two pressing-verbs for emphasis. Peter's 2nd-person address to Jesus (σε) → พระองค์ (royal). NEW GLOSSARY: ἀποθλίβω → ดัน."
         }
       ],
       "notes": "Hapax ἀποθλίβω — an intensified form of 'press-against.' Peter's reaction is practical: in a crowd this dense, the 'who-touched-me' question seems absurd. But Jesus distinguishes between accidental-jostling and deliberate-touch of faith (v.46). Peter's misunderstanding is sympathetic — Luke portrays the disciples as well-meaning but not yet fully grasping the dynamics of Jesus's ministry."
@@ -1568,7 +1568,7 @@
         {
           "greek": "οὐ γὰρ ἀπέθανεν ἀλλὰ καθεύδει",
           "thai": "เด็กไม่ได้ตาย แต่หลับอยู่",
-          "rationale": "Present καθεύδει → หลับอยู่ (is-sleeping). Jesus uses 'sleep' as euphemism-for-death that will prove literal-sleep in his hands (she wakes). καθεύδω → หลับ (glossary-established)."
+          "rationale": "Present καθεύδει → หลับอยู่ (is-sleeping). Jesus speaks of the girl as sleeping. The mourners know she has died (v. 53), and her spirit returns and she rises immediately (v. 55). καθεύδω → หลับ (glossary-established)."
         }
       ],
       "notes": "Jesus's 'sleep'-statement is theological-wordplay: from the mourners' perspective, it's denial-of-reality (they know she's dead — v.53); from Jesus's perspective, death-for-those-he-raises is as brief as sleep. The word 'sleep' (κοιμάομαι/καθεύδω) becomes a NT-euphemism for the death of believers (1 Thess 4:13-18)."
@@ -1608,7 +1608,7 @@
     "translation": {
       "thai": "แต่พระองค์ทรงจับมือเด็กนั้นและตรัสเรียกว่า “ลูกเอ๋ย จงลุกขึ้นเถิด”",
       "thai_literal": null,
-      "thai_summary": "พระเยซูทรงฝ่าฝืนกฎพิธีของชาวยิวหลายข้อในข้อนี้ — การที่พระองค์ทรงจับมือเด็กที่ตายแล้วจะทำให้พระองค์เป็นมลทินตามกฎเลวีนิติ 21:1-4 แต่พระเยซูทรงเปลี่ยนทิศทางของพลัง — แทนที่ความมลทินจะแพร่ไปถึงพระองค์ ฤทธิ์แห่งชีวิตของพระองค์กลับแพร่ไปถึงเด็กและคืนชีวิตให้นาง",
+      "thai_summary": "พระเยซูทรงจับมือเด็กที่ตายแล้วในข้อนี้ — การที่พระองค์ทรงจับมือเด็กที่ตายแล้วจะทำให้พระองค์เป็นมลทินตามกฎในกันดารวิถี 19:11-13 แต่พระเยซูทรงเปลี่ยนทิศทางของพลัง — แทนที่ความมลทินจะแพร่ไปถึงพระองค์ ฤทธิ์แห่งชีวิตของพระองค์กลับแพร่ไปถึงเด็กและคืนชีวิตให้นาง",
       "key_decisions": [
         {
           "greek": "κρατήσας τῆς χειρὸς αὐτῆς",

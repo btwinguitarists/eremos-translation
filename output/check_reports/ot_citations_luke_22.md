@@ -13,5 +13,5 @@ NT-to-OT links found: **11** / 71 verses
 - **Luke 22:43** — DAN 10:18-19, 1KI 19:5-8 (allusion)
 - **Luke 22:52** — ISA 53:12 (allusion)
 - **Luke 22:64** — ISA 50:6 (allusion)
-- **Luke 22:69** — PSA 110:1, DAN 7:13-14 (citation)
+- **Luke 22:69** — PSA 110:1, DAN 7:13-14 (composite_allusion)
 - **Luke 22:70** — EXO 3:14, ISA 43:10, ISA 43:13, ISA 43:25 (allusion)

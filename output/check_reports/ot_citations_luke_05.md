@@ -5,7 +5,7 @@ NT-to-OT links found: **9** / 39 verses
 ## ✅ Acknowledged in verse notes: 9
 
 - **Luke 5:8** — ISA 6:5 (thematic_allusion)
-- **Luke 5:12** — LEV 13 (thematic_allusion)
+- **Luke 5:12** — LEV 13:45-46 (thematic_allusion)
 - **Luke 5:13** — LEV 5:3 (thematic_allusion)
 - **Luke 5:14** — LEV 14:1-32 (direct_reference)
 - **Luke 5:20** — ISA 43:25, ISA 44:22 (thematic_allusion)

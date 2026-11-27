@@ -166,7 +166,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**35** ทูตสวรรค์ตอบนางว่า “พระวิญญาณบริสุทธิ์จะเสด็จลงมาเหนือท่าน และฤทธิ์เดชขององค์ผู้สูงสุดจะทรงปกคลุมท่านด้วยเงา เพราะฉะนั้นองค์บริสุทธิ์ที่จะทรงประสูติมานั้นจะได้ชื่อว่า พระบุตรของพระเจ้า
+**35** ทูตสวรรค์ตอบนางว่า “พระวิญญาณบริสุทธิ์จะเสด็จลงมาเหนือท่าน และฤทธิ์เดชขององค์ผู้สูงสุดจะปกคลุมท่านด้วยเงา เพราะฉะนั้นองค์บริสุทธิ์ที่จะทรงประสูติมานั้นจะได้ชื่อว่า พระบุตรของพระเจ้า
 
 > ___
 
@@ -578,7 +578,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**4** ดังที่มีคำเขียนไว้ในหนังสือถ้อยคำของอิสยาห์ผู้เผยพระวจนะว่า “เสียงของผู้ที่ร้องในถิ่นทุรกันดารว่า ‘จงเตรียมมรรคาขององค์พระผู้เป็นเจ้า จงทำทางเดินของพระองค์ให้ตรง’
+**4** ดังที่มีคำเขียนไว้ในหนังสือถ้อยคำของอิสยาห์ผู้เผยพระวจนะว่า “เสียงของผู้ที่ร้องในถิ่นทุรกันดารว่า ‘จงเตรียมมรรคาขององค์พระผู้เป็นเจ้า จงทำทางเดินของพระองค์ให้ตรง
 
 > ___
 
@@ -622,7 +622,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**15** เมื่อประชาชนกำลังคอยเฝ้าด้วยความคาดหวัง และทุกคนกำลังขบคิดในใจเกี่ยวกับยอห์นว่าท่านอาจจะเป็นพระคริสต์หรือไม่
+**15** เมื่อประชาชนกำลังรอคอย และทุกคนกำลังขบคิดในใจเกี่ยวกับยอห์นว่าท่านอาจจะเป็นพระคริสต์หรือไม่
 
 > ___
 
@@ -758,7 +758,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**10** เพราะมีคำเขียนไว้ว่า ‘พระองค์จะทรงบัญชาเหล่าทูตสวรรค์ของพระองค์เกี่ยวกับเจ้า ให้คอยปกป้องเจ้า
+**10** เพราะมีคำเขียนไว้ว่า ‘พระองค์จะทรงบัญชาเหล่าทูตสวรรค์ของพระองค์เกี่ยวกับเจ้า ให้คอยปกป้องเจ้า’
 
 > ___
 
@@ -858,7 +858,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**35** พระเยซูตรัสห้ามมันว่า “จงนิ่งเสีย และออกมาจากเขา!” ผีนั้นก็ผลักชายคนนั้นล้มลงตรงกลางผู้คน แล้วก็ออกมาจากเขา โดยไม่ได้ทำอันตรายเขาเลย
+**35** พระเยซูตรัสห้ามมันว่า “จงเงียบเสีย และออกมาจากเขา!” ผีนั้นก็ผลักชายคนนั้นล้มลงตรงกลางผู้คน แล้วก็ออกมาจากเขา โดยไม่ได้ทำอันตรายเขาเลย
 
 > ___
 
@@ -882,7 +882,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**41** ผีก็ออกจากคนเป็นอันมากด้วย พลางร้องตะโกนว่า “ท่านเป็นพระบุตรของพระเจ้า” แต่พระองค์ทรงห้ามไม่ให้พวกมันพูด เพราะพวกมันรู้ว่าพระองค์ทรงเป็นพระคริสต์
+**41** ผีก็ออกจากคนเป็นอันมากด้วย พลางร้องตะโกนว่า “ท่านเป็นพระบุตรของพระเจ้า” แต่พระองค์ทรงกำราบพวกมันและไม่ทรงอนุญาตให้พวกมันพูด เพราะพวกมันรู้ว่าพระองค์ทรงเป็นพระคริสต์
 
 > ___
 
@@ -1262,7 +1262,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 ## บทที่ 7
 
-**1** เมื่อพระองค์ทรงตรัสถ้อยคำทั้งหมดให้ประชาชนได้ยินจบแล้ว พระองค์ก็เสด็จเข้าเมืองคาเปอรนาอุม
+**1** เมื่อพระองค์ตรัสถ้อยคำทั้งหมดให้ประชาชนได้ยินจบแล้ว พระองค์ก็เสด็จเข้าเมืองคาเปอรนาอุม
 
 > ___
 
@@ -1502,7 +1502,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**10** พระองค์ตรัสว่า “พระเจ้าทรงประทานให้พวกท่านรู้ความลึกลับแห่งอาณาจักรของพระเจ้า แต่สำหรับคนอื่นนั้น เรากล่าวเป็นคำอุปมา เพื่อว่า ‘เมื่อเขามองดูก็จะไม่เห็น และเมื่อเขาได้ยินก็จะไม่เข้าใจ’”
+**10** พระองค์ตรัสว่า “พระเจ้าประทานให้พวกท่านรู้ความลึกลับแห่งอาณาจักรของพระเจ้า แต่สำหรับคนอื่นนั้น เรากล่าวเป็นคำอุปมา เพื่อว่า ‘เมื่อเขามองดูก็จะไม่เห็น และเมื่อเขาได้ยินก็จะไม่เข้าใจ’”
 
 > ___
 
@@ -1866,7 +1866,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**44** “จงเอาคำเหล่านี้ใส่ไว้ในหูของพวกท่านให้ดี เพราะว่าบุตรมนุษย์จะต้องถูกมอบไว้ในมือมนุษย์”
+**44** “จงเอาคำเหล่านี้ใส่ไว้ในหูของพวกท่านให้ดี เพราะว่าบุตรมนุษย์กำลังจะถูกมอบไว้ในมือมนุษย์”
 
 > ___
 
@@ -1902,7 +1902,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**53** แต่ชาวเมืองนั้นไม่ยอมต้อนรับพระองค์ เพราะพระองค์ทรงมุ่งหน้าไปยังกรุงเยรูซาเล็ม
+**53** แต่ชาวบ้านที่นั่นไม่ยอมต้อนรับพระองค์ เพราะพระองค์ทรงมุ่งหน้าไปยังกรุงเยรูซาเล็ม
 
 > ___
 
@@ -1994,7 +1994,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**13** วิบัติแก่เจ้า โคราซิน วิบัติแก่เจ้า เบธไซดา เพราะหากการอัศจรรย์ทั้งหลายที่ได้กระทำในเจ้าได้กระทำในเมืองไทระและไซดอน ชาวเมืองนั้นคงจะกลับใจตั้งแต่นานแล้ว นั่งในผ้ากระสอบและขี้เถ้า
+**13** วิบัติแก่เจ้า โคราซิน วิบัติแก่เจ้า เบธไซดา เพราะหากการอัศจรรย์ทั้งหลายที่ได้กระทำในเมืองทั้งสองของพวกเจ้าได้กระทำในเมืองไทระและไซดอน ชาวเมืองทั้งสองคงจะสวมผ้ากระสอบนั่งบนขี้เถ้าและกลับใจตั้งแต่นานแล้ว
 
 > ___
 
@@ -2094,7 +2094,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**38** ขณะที่พระเยซูและเหล่าสาวกเดินทางไป พระองค์เสด็จเข้าไปในหมู่บ้านแห่งหนึ่ง หญิงคนหนึ่งชื่อมารธาได้ต้อนรับพระองค์ไว้ในบ้านของนาง
+**38** ขณะที่พระเยซูและเหล่าสาวกเดินทางไป พระองค์เสด็จเข้าไปในหมู่บ้านแห่งหนึ่ง หญิงคนหนึ่งชื่อมารธาได้ต้อนรับพระองค์
 
 > ___
 
@@ -2410,11 +2410,11 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**19** และเราจะบอกแก่จิตใจของเราว่า “จิตใจเอ๋ย เจ้ามีทรัพย์ดีๆ มากมายเก็บไว้พอใช้หลายปี จงพักผ่อน กินดื่ม และสนุกสนานเถิด”’
+**19** และเราจะบอกตัวเองว่า “ชีวิตของเราเอ๋ย เจ้ามีทรัพย์ดีๆ มากมายเก็บไว้พอใช้หลายปี จงพักผ่อน กินดื่ม และสนุกสนานเถิด”’
 
 > ___
 
-**20** แต่พระเจ้าตรัสกับเขาว่า ‘คนโง่เอ๋ย คืนนี้เอง จิตวิญญาณของเจ้าจะถูกเรียกคืนจากเจ้า แล้วสิ่งของที่เจ้าสะสมไว้จะเป็นของใคร?’
+**20** แต่พระเจ้าตรัสกับเขาว่า ‘คนโง่เอ๋ย คืนนี้เอง ชีวิตของเจ้าจะถูกเรียกคืนจากเจ้า แล้วสิ่งของที่เจ้าสะสมไว้จะเป็นของใคร?’
 
 > ___
 
@@ -2430,7 +2430,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**24** จงพิจารณาดูกาเถิด มันไม่ได้หว่านหรือเกี่ยว มันไม่มียุ้งหรือฉาง และพระเจ้ายังทรงเลี้ยงดูพวกมัน พวกท่านประเสริฐกว่านกเหล่านั้นมากยิ่งกว่ามากเพียงใด!
+**24** จงพิจารณาดูกาเถิด มันไม่ได้หว่านหรือเกี่ยว มันไม่มียุ้งหรือฉาง และพระเจ้ายังทรงเลี้ยงดูพวกมัน พวกท่านมีค่ามากกว่านกเหล่านั้นสักเพียงใด!
 
 > ___
 
@@ -2522,7 +2522,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**47** ทาสที่รู้น้ำพระทัยของเจ้านายตน แต่ไม่เตรียมตัวหรือไม่ปฏิบัติตามน้ำพระทัย จะถูกเฆี่ยนตีหลายครั้ง
+**47** ทาสที่รู้ความประสงค์ของเจ้านายตน แต่ไม่เตรียมตัวหรือไม่ปฏิบัติตามความประสงค์นั้น จะถูกเฆี่ยนตีหลายครั้ง
 
 > ___
 
@@ -3602,7 +3602,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**39** พวกฟาริสีบางคนในฝูงชนทูลพระองค์ว่า “พระอาจารย์เจ้าข้า ขอทรงห้ามปรามสาวกของพระองค์”
+**39** พวกฟาริสีบางคนในฝูงชนทูลพระองค์ว่า “พระอาจารย์ ขอทรงห้ามปรามสาวกของพระองค์”
 
 > ___
 
@@ -3942,7 +3942,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**27** เวลานั้นเองพวกเขาจะเห็น ‘บุตรมนุษย์เสด็จมาในหมู่เมฆ ด้วยฤทธานุภาพและพระสิริอันยิ่งใหญ่’
+**27** เวลานั้นเองพวกเขาจะเห็นบุตรมนุษย์เสด็จมาในเมฆ ด้วยฤทธานุภาพและพระสิริอันยิ่งใหญ่
 
 > ___
 
@@ -4306,7 +4306,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**7** เมื่อทรงทราบแน่ชัดว่าพระเยซูอยู่ในเขตอำนาจของเฮโรด จึงส่งพระองค์ไปหาเฮโรดที่อยู่ในเยรูซาเล็มในช่วงนั้น
+**7** เมื่อทราบแน่ชัดว่าพระเยซูอยู่ในเขตอำนาจของเฮโรด จึงส่งพระองค์ไปหาเฮโรดที่อยู่ในเยรูซาเล็มในช่วงนั้น
 
 > ___
 
@@ -4726,28 +4726,28 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/luke_01.json` | `f30038526ae34b6816461f37d51e967f3542f577562321bc77af96382ad9976d` |
-| `output/translations/luke_02.json` | `e50197772258e55fe3d51fecd922cfd83f9ab5ed2b2727d61038dfd9bdce5e03` |
-| `output/translations/luke_03.json` | `9a9d5869f0fa64c19cd9edcacaf116acf2db9e2471859c861bc6c2ff1abe4ba1` |
-| `output/translations/luke_04.json` | `7379810798ce3c7a1396595d45437915edd42de9ff55f0c9e506d5fd021becd1` |
-| `output/translations/luke_05.json` | `b91da001a794caf5dc19533eaf62a19e8d891868b1b80a67979e25ea17c828a0` |
-| `output/translations/luke_06.json` | `06fd66633986f1bd1bd498d0b8b7b78526ecbb24311bbf492162a14b10c9f051` |
-| `output/translations/luke_07.json` | `13824c42637bd70dd2fb9d484a6f5f5c00be8d4453dcc8ab5f61f8f9253ac6eb` |
-| `output/translations/luke_08.json` | `ce937df9c1f5e56e790816264c1b9b68ed7750ce58a46928463cdc28090f1766` |
-| `output/translations/luke_09.json` | `9fcb3852a89b102f507c0b2b8b860327a0359962829d793c410864c994b4e22e` |
-| `output/translations/luke_10.json` | `a7b7b9b6450293cd7db0ba1b2a6b97b86f42cd48ce3727f0b6a01363035a7907` |
-| `output/translations/luke_11.json` | `fe5a68cda5dcd66c858a60584f0a8a3fdbc079524d80b185c4c5c822e2f80f2e` |
-| `output/translations/luke_12.json` | `6997ca178b13718f12c9d724ce6620e57dd6e2161adc2d6353d52db30a3c4403` |
-| `output/translations/luke_13.json` | `b67c46e8db0e008b8a1b9c826a483675c6ce25a90340589f9dc376cac4a23852` |
-| `output/translations/luke_14.json` | `7e58557b0d7af839456f5f75f2f04533cf8b79171fe860657ef5f08f7349d9fc` |
-| `output/translations/luke_15.json` | `bb9ac5c2071f8fdad2c943e4c82683401c94512c25229dd186a78d596ac675fe` |
-| `output/translations/luke_16.json` | `1fbfd23ac9e21c31f2e852682db4c5c8954611789d3a5a645e3f6736265732e0` |
-| `output/translations/luke_17.json` | `a3bd99e68586cf05eb396746bc536a2a0482e466f2fe4504b56cb5632279bf38` |
-| `output/translations/luke_18.json` | `3cd8c42dd0f9a8d701a013489d94c68e2341bf9a9f04c67cc3c1130177e96648` |
-| `output/translations/luke_19.json` | `a3f4e3bf19309ed57e467ffcf041ff3bd8332550df972ab91ad9c77530a7d029` |
-| `output/translations/luke_20.json` | `6b8b82cab2de77fcb74820d8fd434c579fe1f20f343c4069d37c34801dd8e749` |
-| `output/translations/luke_21.json` | `2c44259c457795ded72824270807f5d2e7b30845ef464a707486f5ad90205c06` |
-| `output/translations/luke_22.json` | `76e0650fe2477982dc592d75c27182d20455e0d34ad25fe6a94b98f084c13e97` |
-| `output/translations/luke_23.json` | `158134e80c383cc7391151ee1798f33af76c5a8a7f1e299dce241a203efb2e12` |
-| `output/translations/luke_24.json` | `a1bb9cba8e3dc6fb43ece420b038fec03afa56474208e7254f72a495d43fd94b` |
+| `output/translations/luke_01.json` | `d5d276c6ea8ac7f4d717102a8283698d79a19580fda7070a512fc647ded5d2c1` |
+| `output/translations/luke_02.json` | `063e24df409b772dccfe9a27f1cea0947f2b69542940790bc78c90ad4c731e90` |
+| `output/translations/luke_03.json` | `18838c65cb57373f75f7f0d9d2fd812ecb203fb282389e48a28226bc610cdb5a` |
+| `output/translations/luke_04.json` | `37efb4de501e026980c9187916c162a0ecac39f8b4a6dcf0c40be33ca63327f4` |
+| `output/translations/luke_05.json` | `f6b8439a405cc818007e118fc32690d6b64de4cdaf6afbf3bcc37eeb9d889d1d` |
+| `output/translations/luke_06.json` | `57668f7eac9f79af91a06635227b02f77e841d01712453b9984c7a9f64e7b02a` |
+| `output/translations/luke_07.json` | `f0f5d309d863198dea0d3645c05eb919d8c550d94e567b9793d6328b2b0259b6` |
+| `output/translations/luke_08.json` | `2234e5e5f518a41fcdf7baf391eb02df8a94154e9c91df5d4e9539616bc1231a` |
+| `output/translations/luke_09.json` | `1756f15b89fc3aa768e578fd07d37f9e6346c41f4f9b5386395f9dff4042fbf2` |
+| `output/translations/luke_10.json` | `5b3e4f75e22822ab470e96647852547131078a340eee29a34e7f35bf9c55fd63` |
+| `output/translations/luke_11.json` | `e8c670c5f8d6485489b8aa3744aa9cf3ead4468f87111f19c68577c3872790e7` |
+| `output/translations/luke_12.json` | `b1aaaff9e300250f7e3e705608bc72ae480410ae16aff149a99a37d575d0a7d9` |
+| `output/translations/luke_13.json` | `fe8884a23fa56a65f23ec83c24ed4d1fdad002f39a76a12172da5af408ec6c1c` |
+| `output/translations/luke_14.json` | `a9f2aef8ac8bb76e634fc07b7c10a68aad936b9802f9d9f01d11caa613e1d2e7` |
+| `output/translations/luke_15.json` | `eb09d1a3915ef5e44e634799a23498fec5a9df06b4c468758d8e9dd8aca10f14` |
+| `output/translations/luke_16.json` | `235936e7ab28a4415bdbc11bb9ec7284b7b29fb9b4cb773b32cbadbc33729a07` |
+| `output/translations/luke_17.json` | `732478db30d4a93a9648b3764844f8315fb49534d4f5f68ccfad5a69c73c4768` |
+| `output/translations/luke_18.json` | `ff95059f8a8b7b966abb7df551a1f026008ecb898e4569c18b37f8ff8f9fefdf` |
+| `output/translations/luke_19.json` | `436ad54b52fc0248967ddb8c03737b445f63896b3727780fae2e3a84530ab88d` |
+| `output/translations/luke_20.json` | `92ff77bdde5339d2b1535a8acbd09a60453c9dfed4de90259bd04918666e609f` |
+| `output/translations/luke_21.json` | `23b0733128fb12be4faedb0dd17b8ab37dfdd75c04dca6b3a3d953e660f76a48` |
+| `output/translations/luke_22.json` | `8b078a9beda22bbf4bf3f1b84cdecb6e5c92dda1213ca6b0091ac9689379ecf0` |
+| `output/translations/luke_23.json` | `db51bfe0259df42eef1f39eca748cf2b7911e1bf09509b2ba3e54428a29cc648` |
+| `output/translations/luke_24.json` | `f50a526527165b4561847dcfb5bab41a4b1f5a137a9e3092b3147913f39293e4` |
 

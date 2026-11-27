@@ -13,6 +13,6 @@ NT-to-OT links found: **12** / 44 verses
 - **Luke 4:12** — DEU 6:16 (direct_citation)
 - **Luke 4:18** — ISA 61:1-2, ISA 58:6 (composite_citation)
 - **Luke 4:19** — ISA 61:2 (direct_citation)
-- **Luke 4:25** — 1KI 17:1-7, JAS 5:17 (thematic_allusion)
+- **Luke 4:25** — 1KI 17:1-7, JAS 5:17 (allusion)
 - **Luke 4:26** — 1KI 17:8-24 (thematic_allusion)
 - **Luke 4:27** — 2KI 5:1-14 (thematic_allusion)

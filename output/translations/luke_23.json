@@ -13,7 +13,7 @@
         {
           "greek": "ἀναστὰν ἅπαν τὸ πλῆθος αὐτῶν",
           "thai": "ที่ประชุมทั้งหมดจึงลุกขึ้น",
-          "rationale": "ἀναστὰν aor-ptc 'rising' — uW figs-metonymy: adjourning the meeting. ἅπαν 'whole' is hyperbole per uW (v.51 shows Joseph of Arimathea dissented). Thai ที่ประชุมทั้งหมดจึงลุกขึ้น preserves the physical action (lifting/rising) while context implies meeting-ended-and-departed."
+          "rationale": "ἅπαν τὸ πλῆθος αὐτῶν describes the whole group in the preceding scene. ที่ประชุมทั้งหมด preserves its collective reference."
         },
         {
           "greek": "ἤγαγον αὐτὸν ἐπὶ τὸν Πιλᾶτον",
@@ -21,7 +21,7 @@
           "rationale": "ἄγω 'led' aor-act-3pl. Per uW figs-explicit: brought so Pilate would judge. Thai พากันนำ preserves collective action; ไปหา 'to' captures ἐπί + acc direction. Πιλᾶτος → ปีลาต (glossary-standard)."
         }
       ],
-      "notes": "SYNOPTIC PARALLEL: MRK 15:1, MAT 27:2, JHN 18:28. Luke compresses. NARRATIVE-TRANSITION: bridges from Sanhedrin-trial (22:66-71) to Pilate-trial. The Sanhedrin pronounced Jesus guilty of blasphemy-self-identification (22:71) but lacked Roman authority-to-execute (JHN 18:31) — hence the transfer to Roman civil court. ἅπαν 'whole' is hyperbole (v.51 flags Joseph-of-Arimathea as Sanhedrin-dissenter); Luke's editorial choice: emphasize unanimous-looking political-mob to underscore Jesus's isolation, while leaving v.51's exception for the reader to discover."
+      "notes": "Luke says the assembled group rose and led Jesus to Pilate. In 22:71 those present considered further testimony unnecessary; Luke reports no explicit blasphemy verdict there. Mark 14:64 records such a verdict in its own account. Luke does not explain individual attendance or each participant’s legal motive."
     }
   },
   {
@@ -83,10 +83,10 @@
         {
           "greek": "Σὺ λέγεις",
           "thai": "ท่านกล่าวเช่นนั้น",
-          "rationale": "uW figs-idiom: affirmative-oblique ('it is as you say'). Same form as 22:70 (Ὑμεῖς λέγετε) → “พวกท่านเองกล่าวว่าเราเป็น” (Eremos precedent). Thai ท่านกล่าวเช่นนั้น preserves the shift-of-ownership — Jesus acknowledges but lets Pilate own the claim."
+          "rationale": "Σὺ λέγεις is singular and directly addresses Pilate. ท่านกล่าวเช่นนั้น retains the reference back to Pilate’s question. The reply in 22:70 addresses a group and continues with another clause."
         }
       ],
-      "notes": "IDIOM Σὺ λέγεις: identical-form to 22:70 Ὑμεῖς λέγετε — Luke brackets the trials with the same idiom (Sanhedrin: 'you-pl say'; Pilate: 'you-sg say'). Per uW figs-idiom: affirms Pilate's statement while reframing ownership. SYNOPTIC PARALLEL: MRK 15:2, MAT 27:11 — all three synoptics record identical exchange. JHN 18:33-37 develops at length ('my kingdom is not of this world') — Luke compresses. THEOLOGICAL: Jesus is king, but not the Roman-rival Pilate imagines; the trial-dialogue is intentionally oblique, leaving the question suspended. HONORIFIC: ท่าน (neutral-respectful 2SG) for Pilate addressing Jesus — Roman-official register, not dismissive, not deferential."
+      "notes": "Jesus’s reply Σὺ λέγεις, “you say so,” is also found in Mark 15:2 and Matthew 27:11. Luke 22:70 has plural ὑμεῖς λέγετε followed by ὅτι ἐγώ εἰμι. The Thai ท่านกล่าวเช่นนั้น echoes Pilate’s wording and leaves the nuance of Jesus’s answer open."
     }
   },
   {
@@ -123,7 +123,7 @@
     "translation": {
       "thai": "แต่พวกเขายังคงยืนยันอย่างหนักแน่นว่า “เขายุยงประชาชนโดยสอนไปทั่วแคว้นยูเดีย เริ่มจากกาลิลีจนมาถึงที่นี่”",
       "thai_literal": null,
-      "thai_summary": "พวกผู้นำยิวเอ่ยถึง “กาลิลี” อย่างตั้งใจ เพราะในสมัยนั้นกาลิลีเป็นแหล่งก่อกบฏต่อโรมหลายครั้ง (เทวดัส, ยูดาสชาวกาลิลี ตามที่กล่าวใน กิจการ 5:36-37) คำนี้จึงทำหน้าที่เป็นสัญญาณเตือนทางการเมืองให้ปีลาต แต่กลับกลายเป็นโอกาสให้ปีลาตส่งคดีไปที่เฮโรดในข้อถัดไป",
+      "thai_summary": "ผู้กล่าวหาอ้างว่าพระเยซูทรงยุยงประชาชนโดยสั่งสอนตั้งแต่กาลิลีจนถึงที่นี่ กิจการ 5:37 เรียกยูดาสว่า “ชาวกาลิลี” แต่ลูกาไม่ได้บอกว่าผู้กล่าวหาตั้งใจให้ปีลาตนึกถึงใคร",
       "key_decisions": [
         {
           "greek": "οἱ δὲ ἐπίσχυον λέγοντες",
@@ -141,7 +141,7 @@
           "rationale": "καθ’ὅλης τῆς Ἰουδαίας 'throughout-whole Judea' (here Judea in broad sense = all Jewish-territory incl. Galilee). Γαλιλαία → กาลิลี / Ἰουδαία → ยูเดีย glossary-standard. ἕως ὧδε 'until here' = Jerusalem where they now are."
         }
       ],
-      "notes": "GEOGRAPHY-AS-PROVOCATION: mentioning Galilee is strategic — Galilee was a hotbed of Roman-era rebellions (Theudas, Judas-the-Galilean per ACT 5:36-37). Per uW figs-metaphor ἀνασείω 'stirs up' is insurrectionist-vocabulary. Pilate's next move (v.6 hearing 'Galilee') uses this geographical detail as grounds to transfer-jurisdiction to Herod — the leaders' attempt to paint Jesus as dangerous-provincial backfires into a jurisdictional delay. NARRATIVE-IRONY: Luke's ἀπὸ τῆς Γαλιλαίας ἕως ὧδε traces exactly Jesus's journey-narrative (9:51-19:27 the 'travel narrative') — the geographic summary the leaders offer as a threat is the same geography Luke has used to structure the whole Gospel."
+      "notes": "The accusers say Jesus stirs up the people and mention Galilee. Acts 5:37 identifies Judas the Galilean in connection with the census. Acts 5:36 also mentions Theudas but does not identify him there as Galilean. Luke does not specify what associations the accusers hoped Pilate would make."
     }
   },
   {
@@ -176,19 +176,19 @@
     "greek": "καὶ ἐπιγνοὺς ὅτι ἐκ τῆς ἐξουσίας Ἡρῴδου ἐστὶν ἀνέπεμψεν αὐτὸν πρὸς Ἡρῴδην,ὄντα καὶ αὐτὸν ἐν Ἱεροσολύμοις ἐν ταύταις ταῖς ἡμέραις.",
     "bsb_english": "And learning that Jesus was under Herod’s jurisdiction, he sent Him to Herod, who himself was in Jerusalem at that time.",
     "translation": {
-      "thai": "เมื่อทรงทราบแน่ชัดว่าพระเยซูอยู่ในเขตอำนาจของเฮโรด จึงส่งพระองค์ไปหาเฮโรดที่อยู่ในเยรูซาเล็มในช่วงนั้น",
+      "thai": "เมื่อทราบแน่ชัดว่าพระเยซูอยู่ในเขตอำนาจของเฮโรด จึงส่งพระองค์ไปหาเฮโรดที่อยู่ในเยรูซาเล็มในช่วงนั้น",
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
         {
           "greek": "ἐπιγνοὺς ὅτι ἐκ τῆς ἐξουσίας Ἡρῴδου ἐστὶν",
-          "thai": "ทรงทราบแน่ชัดว่าพระเยซูอยู่ในเขตอำนาจของเฮโรด",
-          "rationale": "ἐπιγινώσκω aor 'learning-for-certain' — prefixed intensive of γινώσκω. Per uW figs-explicit: learning from the leaders' answer that Jesus was Galilean. ἐξουσία 'authority/jurisdiction' → เขตอำนาจ preserves legal-jurisdictional sense. ทรงทราบ divine-register? — NO, subject is Pilate (Roman), not divine; use ทราบ honorific-neutral. REVISED: Pilate as governor requires neutral-respectful register, not ราชาศัพท์. → ถูกต้อง ไม่ต้อง ทรง. Keep without ทรง. CORRECTION: Subject is Pilate, non-divine; drop ทรง."
+          "thai": "ทราบแน่ชัดว่าพระเยซูอยู่ในเขตอำนาจของเฮโรด",
+          "rationale": "Pilate learns that Jesus is under Herod’s jurisdiction. ทราบแน่ชัด uses the respectful register for a governor, and เขตอำนาจ expresses jurisdiction."
         },
         {
           "greek": "ἀνέπεμψεν αὐτὸν πρὸς Ἡρῴδην",
           "thai": "จึงส่งพระองค์ไปหาเฮโรด",
-          "rationale": "ἀναπέμπω technical-legal term 'refer-upward/remit' (court-case transfer). Per uW figs-explicit: Pilate avoiding the decision. Ἡρῴδης → เฮโรด glossary-standard. พระองค์ honorific for Jesus (divine-register)."
+          "rationale": "ἀνέπεμψεν describes sending Jesus to Herod in the context of jurisdiction. Luke 23:11 also uses the verb when Herod sends Jesus back to Pilate."
         },
         {
           "greek": "ὄντα καὶ αὐτὸν ἐν Ἱεροσολύμοις ἐν ταύταις ταῖς ἡμέραις",
@@ -196,7 +196,7 @@
           "rationale": "Herod Antipas had come to Jerusalem for Passover (per Jewish tetrarch-custom of pilgrim-attendance). ταῖς ἡμέραις 'days' is idiomatic for 'that-time' per uW figs-idiom. Thai ในช่วงนั้น natural."
         }
       ],
-      "notes": "CORRECTION-APPLIED: ทรง-prefix removed since subject is Pilate (Roman governor, not divine). LUKE-DISTINCTIVE EPISODE: only Luke records the Jesus-Herod interaction (vv.7-12). ἀναπέμπω is technical Roman-legal vocabulary for jurisdictional-transfer (appears only at ACT 25:21 elsewhere in Luke-Acts, of Paul's case-transfer). Pilate's motive per uW figs-explicit: avoid condemning an innocent man while not angering the Jewish leaders. HISTORICAL: Herod Antipas (4 BCE - 39 CE) tetrarch of Galilee+Perea; in Jerusalem for Passover attendance. His previous Jesus-interaction was beheading John the Baptist (9:9)."
+      "notes": "In this hearing Pilate sends Jesus to Herod upon learning of his jurisdiction. ἀναπέμπω here describes a referral; its sense depends on context. Luke 9:9 reports Herod saying that he beheaded John and seeking to see Jesus. Luke 23:8 describes his present pleasure at seeing Jesus."
     }
   },
   {
@@ -251,7 +251,7 @@
           "rationale": "Per uW: negating the verb + positive object ('did not answer anything'). Thai ไม่ตอบอะไรเลย natural. พระองค์ honorific retained."
         }
       ],
-      "notes": "SILENCE-AS-JUDGMENT: Jesus's non-response to Herod fulfills Isa 53:7 LXX (ὡς πρόβατον ἐπὶ σφαγὴν ἤχθη καὶ ὡς ἀμνὸς ἐναντίον τοῦ κείραντος αὐτὸν ἄφωνος οὐκ ἀνοίγει τὸ στόμα αὐτοῦ 'like a lamb-before-shearer, dumb, opened-not his-mouth'). ADDED TO NT_OT_CITATIONS: LUK 23:9 allusion to ISA 53:7 (Suffering-Servant silence-before-accusers). Theological-contrast: Jesus answered Pilate's formal-political question (v.3) but not Herod's entertainment-seeking curiosity — Luke distinguishes judicial-inquiry from voyeuristic-demand. Synoptic-note: Mark 15:4-5 records Jesus's silence before Pilate; Luke transfers the silence-motif to the Herod-scene."
+      "notes": "Jesus gives Herod no answer. The scene may echo the silent servant in Isaiah 53:7. Greek Isaiah reads τοῦ κείροντος αὐτὸν ἄφωνος οὕτως οὐκ ἀνοίγει τὸ στόμα, with a present participle for the one shearing. Acts 8:32 has the different participle κείραντος. Luke 23 does not quote the Isaiah verse."
     }
   },
   {
@@ -398,7 +398,7 @@
         {
           "greek": "ἀνέπεμψεν γὰρ αὐτὸν πρὸς ἡμᾶς",
           "thai": "จึงส่งเขากลับมาให้เรา",
-          "rationale": "ἀναπέμπω (third use in this passage, v.7, v.11, here). Per uW figs-exclusive: ἡμᾶς inclusive here (Pilate + the Jewish leaders who initiated the case). Thai เรา here is contextually inclusive too — Pilate speaking to the Jewish accusers."
+          "rationale": "SBLGNT, Westcott–Hort and NA28 read “he sent him back to us,” with Herod as the subject and Jesus as the object. Verse 11 describes Jesus being sent back to Pilate. Tregelles and Robinson–Pierpont have “I sent you to him,” changing both the subject and the people sent. The Thai follows Pilate’s account in the selected text."
         },
         {
           "greek": "οὐδὲν ἄξιον θανάτου ἐστὶν πεπραγμένον αὐτῷ",
@@ -418,15 +418,15 @@
     "translation": {
       "thai": "เพราะฉะนั้นเราจะเฆี่ยนเขาแล้วปล่อยไป”",
       "thai_literal": null,
-      "thai_summary": "ปีลาตประกาศว่าพระเยซูไม่มีความผิดถึงสองครั้งแล้ว (ข้อ 4 และ 14-15) แต่กลับเสนอจะเฆี่ยนก่อนปล่อยตัว — เป็นการประนีประนอมทางการเมืองเพื่อเอาใจผู้กล่าวหา โดยไม่ประหารคนบริสุทธิ์ กฎหมายโรมเรียกการเฆี่ยนแบบนี้ว่า verberatio (เฆี่ยนด้วยแส้หนัง) ซึ่งเป็นการลงโทษเบากว่าการเฆี่ยนก่อนตรึงกางเขน (flagellatio) แต่ยังคงโหดร้ายอย่างยิ่ง การประนีประนอมของปีลาตล้มเหลวในข้อต่อ ๆ ไป",
+      "thai_summary": "ปีลาตกล่าวว่าไม่พบความผิดที่สมควรตาย แต่ยังเสนอให้ลงโทษพระเยซูก่อนปล่อยพระองค์ไป ภาษาไทยใช้คำว่า “เฆี่ยน” ตามบริบท คำกรีกบอกว่าปีลาตจะลงโทษพระองค์โดยไม่ได้ระบุเครื่องมือหรือระดับของโทษ",
       "key_decisions": [
         {
           "greek": "παιδεύσας οὖν αὐτὸν ἀπολύσω",
           "thai": "เพราะฉะนั้นเราจะเฆี่ยนเขาแล้วปล่อยไป",
-          "rationale": "παιδεύω 'discipline/chastise' — in Roman-legal context = verberatio (flogging). Per uW figs-explicit: Pilate punishes an innocent man to appease the leaders (the incoherence Luke wants readers to note). Thai เฆี่ยน 'flog/whip' is the specific-physical-punishment verb (distinct from ลงโทษ 'punish' generic). Per uW figs-synecdoche: Pilate won't personally administer — his soldiers will — but Thai preserves the 1st-person causative (เราจะเฆี่ยน) as natural-legal-authority-speech."
+          "rationale": "παιδεύω can mean discipline or punish. Thai เฆี่ยน identifies the physical penalty as flogging, a contextual interpretation. Pilate would order it as governor. The Greek itself specifies neither an instrument nor a Roman legal category. Verse 22 repeats his proposal."
         }
       ],
-      "notes": "MORAL-INCOHERENCE: Pilate has declared Jesus innocent TWICE (vv.4, 14-15) but proposes corporal-punishment before release — a compromise-concession to the accusers. The unstated logic: a verdict of innocent ought to have meant release with no punishment at all. παιδεύω here = technical Roman verberatio, a flogging with metal-tipped flagrum (less severe than the pre-crucifixion scourging flagellatio but still brutal). Historically: Pilate's political-calculation — a lesser-punishment to satisfy the mob without executing an innocent — fails spectacularly in the next verses. Followed by v.17 in TR/Byz tradition (see chapter-footer variant-note); SBLGNT/NA28 omit."
+      "notes": "Pilate proposes punishment followed by release after saying that he has found no capital offense. The punishment is commonly understood as a beating. Luke does not identify a type of whip or rank the punishment against another kind of scourging. Verse 22 repeats the proposal."
     }
   },
   {
@@ -456,7 +456,7 @@
           "rationale": "ἀπολύω imperative 'release.' Βαραββᾶς → บารับบัส glossary-standard (Aramaic bar-abba 'son-of-father'). Thai ให้เราแทน makes the substitution-nature explicit. Per uW figs-exclusive: 'us' = crowd-only, not Pilate."
         }
       ],
-      "notes": "LUKAN HAPAX: παμπληθεί — uniquely Lukan adverb, emphasizing unanimous-mob-frenzy. SYNOPTIC PARALLEL: MRK 15:11-13, MAT 27:20-23, JHN 18:40. Luke omits the explanatory v.17 (TR/Byz adds it; SBLGNT/NA28 omit — see chapter-footer variant-note). THEOLOGICAL IRONY: Βαραββᾶς = 'son-of-the-father' in Aramaic — the crowd chooses a 'son-of-the-father' (murderer-insurrectionist) over THE Son of the Father (the Messiah). Luke lets this irony stand without comment. HISTORICAL: αἶρε τοῦτον echoes JHN 19:15 'away with him, away with him' — a distinct demand-for-death idiom in Koine."
+      "notes": "The selected text moves directly from verse 16 to the crowd’s response in verse 18. Other witnesses add at verse 17 an explanation about releasing one prisoner at the feast. The separate textual note preserves that wording. The numbering and narrative connection do not show why the readings arose."
     }
   },
   {
@@ -521,7 +521,7 @@
           "rationale": "σταυρόω 2sg-pres-imperative repeated for intensity. Per uW translate-unknown: Roman-execution by nailing to crossbeam — Thai ตรึงที่กางเขน (glossary-standard, cf. MAT 27:31 precedent: “เพื่อจะถูกเยาะเย้ย ถูกโบยตี และถูกตรึงที่กางเขน” established). Imperative repeated → doubled Thai preserves the escalating-chant. เสีย imperative-emphatic particle makes demand forceful."
         }
       ],
-      "notes": "GLOSSARY-STANDARD: σταυρόω → ตรึงที่กางเขน (Eremos-established). Per uW figs-imperative: crowd's demand, not command. DOUBLED VERB: Σταύρου σταύρου — rhetorical-intensification; Koine-Greek idiom for escalating-demand. SYNOPTIC PARALLEL: MRK 15:13-14, MAT 27:22-23, JHN 19:6 (σταύρωσον repeated thrice in John). POLITICAL-SHAME: crucifixion was reserved for slaves, insurrectionists, and provincials — the most shameful death Rome offered. The crowd demands the maximum-shame execution for a fellow-Jew."
+      "notes": "The crowd repeats the command to crucify Jesus. John 19:6 also gives the command twice. In John 19:15, the crowd twice says “take him away” before saying “crucify him” once. Matthew 27:31 instead describes the soldiers changing Jesus’s clothing and leading him away to be crucified."
     }
   },
   {
@@ -656,7 +656,7 @@
           "rationale": "ἐπιτίθημι aor 'put-upon' + φέρειν inf 'carry.' σταυρός → กางเขน glossary-standard. ὄπισθεν 'behind' → ตามหลัง. Thai แบก 'carry-on-shoulder/back' is the natural cross-carrying verb. ตามหลังพระเยซูไป preserves the following-behind position."
         }
       ],
-      "notes": "LUKE-DISTINCTIVE: ὄπισθεν τοῦ Ἰησοῦ 'behind Jesus' — Luke is the only Gospel to specify Simon's position. This is a Lukan-discipleship-cue: 'behind Jesus' echoes Luke 9:23 (ὀπίσω μου ἐρχέσθω — 'let him come after me'), 14:27 (ὅστις οὐ βαστάζει τὸν σταυρὸν ἑαυτοῦ καὶ ἔρχεται ὀπίσω μου — 'whoever does not carry his cross and come after me cannot be my disciple'). Luke frames Simon as an unwitting-embodied-parable of cross-bearing discipleship. ANGAREIA: Roman-soldiers' legal-right to impress civilians into temporary-service (also at MAT 5:41 'if anyone forces you to go one mile' — same verb ἀγγαρεύω). HISTORICAL: Cyrene = North African city in modern Libya, home to a Jewish-diaspora community (cf. ACT 2:10, 6:9, 11:20, 13:1). Mark 15:21 names Simon's sons Alexander and Rufus — suggesting Simon became a known early-Christian; Luke omits the sons-detail."
+      "notes": "LUKE-DISTINCTIVE: ὄπισθεν τοῦ Ἰησοῦ 'behind Jesus' — Luke is the only Gospel to specify Simon's position. This is a Lukan-discipleship-cue: 'behind Jesus' echoes Luke 9:23 (ὀπίσω μου ἐρχέσθω — 'let him come after me'), 14:27 (ὅστις οὐ βαστάζει τὸν σταυρὸν ἑαυτοῦ καὶ ἔρχεται ὀπίσω μου — 'whoever does not carry his cross and come after me cannot be my disciple'). Luke frames Simon as an unwitting-embodied-parable of cross-bearing discipleship. ANGAREIA: Roman-soldiers' legal-right to impress civilians into temporary-service (also at MAT 5:41 'if anyone forces you to go one mile' — same verb ἀγγαρεύω as in MRK 15:21 and MAT 27:32). HISTORICAL: Cyrene = North African city in modern Libya, home to a Jewish-diaspora community (cf. ACT 2:10, 6:9, 11:20, 13:1). Mark 15:21 names Simon's sons Alexander and Rufus — suggesting Simon became a known early-Christian; Luke omits the sons-detail."
     }
   },
   {
@@ -753,7 +753,7 @@
     "translation": {
       "thai": "ในเวลานั้นผู้คนจะเริ่มกล่าวกับภูเขาว่า ‘จงล้มลงทับเราเถิด’ และกล่าวกับเนินเขาว่า ‘จงปิดคลุมเราเถิด’",
       "thai_literal": null,
-      "thai_summary": "คำตรัสของพระเยซูเป็นการอ้างถึงโฮเชยา 10:8 โดยตรง “พวกเขาจะพูดกับภูเขาว่า ‘จงปิดคลุมเรา’ และกล่าวกับเนินเขาว่า ‘จงล้มลงทับเรา’” ซึ่งเป็นคำพยากรณ์ดั้งเดิมที่ตรัสกับอาณาจักรเหนือ (อิสราเอล) เรื่องการพิพากษา พระเยซูทรงนำคำเดิมมาใช้กับเยรูซาเล็ม — ความทุกข์ทรมานในการถูกล้อมเมือง (70 CE) จะหนักจนคนอยากตายใต้ภูเขาดีกว่าต้องเผชิญการพิพากษา ภาพนี้ปรากฏอีกครั้งใน วิวรณ์ 6:16 ในฉากวันแห่งพระพิโรธ",
+      "thai_summary": "พระเยซูทรงนำคำจากโฮเชยา 10:8 มาใช้เป็นถ้อยคำของผู้ประสบความทุกข์ โฮเชยาให้ภูเขาปกคลุมและเนินเขาล้มทับ ส่วนลูกาสลับภาพ โดยให้ภูเขาล้มทับและเนินเขาปกคลุม วิวรณ์ 6:16 ใช้ภาพคล้ายกันเมื่อผู้คนร้องเรียกภูเขาและโขดหิน",
       "key_decisions": [
         {
           "greek": "τότε ἄρξονται λέγειν τοῖς ὄρεσιν Πέσετε ἐφ’ἡμᾶς καὶ τοῖς βουνοῖς Καλύψατε ἡμᾶς",
@@ -761,7 +761,7 @@
           "rationale": "Per uW figs-apostrophe: addressing inanimate-objects for rhetorical-emphasis. πίπτω aor-imperative 'fall.' καλύπτω aor-imperative 'cover.' Per uW figs-imperative: wishes-as-imperatives. Per uW figs-explicit: NOT asking for harm but for protection (mountains-falling = preferable-to-enduring-judgment). Thai จงล้มลงทับ (fall-on-top) + จงปิดคลุม (cover-over) preserves both the addressed-mountains idiom and the protective-concealment-intent."
         }
       ],
-      "notes": "DIRECT OT CITATION — HOS 10:8 LXX: καὶ ἐροῦσιν τοῖς ὄρεσιν Καλύψατε ἡμᾶς, καὶ τοῖς βουνοῖς Πέσατε ἐφ’ ἡμᾶς ('and they will say to the mountains, Cover us, and to the hills, Fall on us'). Jesus re-orders the mountains/hills pairing (HOS: mountains-cover + hills-fall; LUK: mountains-fall + hills-cover) — possibly chiastic-restructuring or free-quotation from memory. The citation appears again in REV 6:16 (τοῖς ὄρεσιν καὶ ταῖς πέτραις Πέσετε ἐφ’ ἡμᾶς — Day-of-the-Lord imagery). ADDED TO NT_OT_CITATIONS: LUK 23:30 explicit-quotation of HOS 10:8 (judgment-imagery applied to siege-of-Jerusalem). Per uW: desire-for-death-over-suffering. Historical-fulfillment: Josephus's accounts of 70 CE siege document citizens preferring suicide in caves over Roman-capture."
+      "notes": "Jesus adapts Hosea 10:8. In the Greek of Hosea the mountains are asked to cover and the hills to fall (πέσατε). Luke asks the mountains to fall (πέσετε) and the hills to cover. Revelation 6:16 also uses πέσετε, addressing mountains and rocks and adding a request to be hidden. Luke introduces the saying as words people will begin to say in distress."
     }
   },
   {
@@ -843,7 +843,7 @@
     "translation": {
       "thai": "⟦พระเยซูตรัสว่า “ข้าแต่พระบิดา ขอทรงยกโทษพวกเขา เพราะเขาไม่รู้ว่ากำลังทำอะไรอยู่”⟧ พวกทหารจับสลากแบ่งเสื้อผ้าของพระองค์กัน",
       "thai_literal": null,
-      "thai_summary": "ส่วนต้นของข้อ 34 “ข้าแต่พระบิดา ขอทรงยกโทษพวกเขา เพราะเขาไม่รู้ว่ากำลังทำอะไรอยู่” ใส่วงเล็บคู่ ⟦...⟧ เพื่อระบุว่าประโยคนี้ขาดในต้นฉบับภาษากรีกที่เก่าและเชื่อถือได้ที่สุด (𝔓⁷⁵, วาติกานัส, ซีนายติคัส ต้นฉบับเดิม) แต่ปรากฏในต้นฉบับยุคหลังและคำอ้างของบิดาของคริสตจักร (อีเรเนอัส ค.ศ. 180, เทอร์ทูเลียน ค.ศ. 200, โอริเกน) นักวิชาการส่วนใหญ่เชื่อว่านี่เป็นพระวจนะแท้จริงของพระเยซูที่ถูกเพิ่มเข้าสู่เนื้อข้อความของลูกาในสมัยแรกมาก ๆ ฉบับ ESV NIV CSB และ BSB ยังคงประโยคนี้ไว้พร้อมหมายเหตุ ส่วนครึ่งหลังของข้อ 34 (การจับสลากแบ่งเสื้อผ้า) เป็นการสำเร็จของ สดุดี 22:18 ที่พระกิตติคุณทั้งสี่เล่มอ้างถึง",
+      "thai_summary": "คำอธิษฐานขอให้พระบิดาทรงยกโทษมีอยู่ในต้นฉบับซีนายติคัสที่ผู้คัดคนแรกเขียนไว้ ต่อมามีทั้งผู้แก้ไขที่ให้ตัดออกและผู้แก้ไขที่ให้คงไว้ ส่วนปาปิรัส 75 และต้นฉบับวาติกานัสไม่มีคำอธิษฐานนี้ นักวิชาการยังเห็นต่างกันว่าข้อความนี้อยู่ในงานเขียนของลูกาตั้งแต่แรกหรือไม่ ฉบับเอเรมอสคงคำอธิษฐานไว้ในวงเล็บคู่ ส่วนการจับสลากแบ่งเสื้อผ้าในครึ่งหลังของข้อนี้ชวนให้นึกถึงสดุดี 22:19 ตามเลขข้อฮีบรู",
       "key_decisions": [
         {
           "greek": "ὁ δὲ Ἰησοῦς ἔλεγεν Πάτερ ἄφες αὐτοῖς οὐ γὰρ οἴδασιν τί ποιοῦσιν",
@@ -856,7 +856,7 @@
           "rationale": "διαμερίζω 'divide-up.' κλῆρος 'lot.' Per uW translate-unknown: κλῆρος = object with markings thrown to decide randomly (like dice). Per uW writing-pronouns: implicit-subject = Roman-soldiers. Thai จับสลาก (draw-lots) is standard-Thai-Christian rendering; ἱμάτια → เสื้อผ้า. Note: SBLGNT κλήρους plural (NA28), TR/WH/Treg have κλῆρον singular — minor variant, semantic identical."
         }
       ],
-      "notes": "TIER-3 TEXTUAL VARIANT [RULES §5]: ὁ δὲ Ἰησοῦς ἔλεγεν... τί ποιοῦσιν is absent from 𝔓⁷⁵, Codex Vaticanus (B), Codex Sinaiticus (ℵ - original hand; corrector inserted), Codex Bezae (D), Codex Washingtonianus (W), Codex Koridethi (Θ), Old Syriac Sinaitic (sy^s), sa, bo. Present in second-corrector ℵ, A, C, L, Ψ, f¹, 0250, 𝔐 (Majority Text), Old Latin, Vulgate, Peshitta, and early-fathers citations (Irenaeus AD 180, Tertullian AD 200, Origen AD 240, Eusebius AD 320). SBLGNT prints it with ⸂...⸃ diamond-brackets (internal-apparatus signaling NA28/Treg/RP include but WH omits); NA28 prints with ⟦...⟧ double-brackets (content-known-but-textually-doubtful). Per RULES §5 Tier-3 convention: render in ⟦...⟧ with extended note. Scholarly assessment: likely NOT original to Luke's Gospel but likely a GENUINE dominical saying that entered the Lukan text early (pre-180 CE at latest, given Irenaeus's citation) — a 'floating-logion' that entered the Lukan-textual-tradition. Evangelical-consensus (ESV, NIV, CSB, BSB) preserves with footnote-caveat. Bracketing is the standard way to flag such material; we follow the RULES §5 Tier-3 ⟦...⟧ convention. OT-CITATION (v.34b): ADDED TO NT_OT_CITATIONS: LUK 23:34b direct-quotation of PSA 21:19 LXX (PSA 22:18 MT) διεμερίσαντο τὰ ἱμάτιά μου ἑαυτοῖς καὶ ἐπὶ τὸν ἱματισμόν μου ἔβαλον κλῆρον — the quartet of gospels (all four) apply this Psalm-22 verse to the soldiers' action at the cross; one of the most commonly-cited messianic-prophecies in the NT. SYNOPTIC PARALLEL: MRK 15:24, MAT 27:35, JHN 19:23-24 (John quotes the Psalm explicitly)."
+      "notes": "The prayer is present in the first hand of Codex Sinaiticus. One corrector marked it for omission and another restored it. Codex Bezae omits it in its first hand; a later hand includes it. Papyrus 75 and Vaticanus omit it, while Alexandrinus and Ephraemi include it. Irenaeus quotes the saying in Against Heresies 3.18.5. NA28 prints it in double brackets. The Tyndale House Greek New Testament includes it in the main text and signals the variant in its apparatus. SBLGNT’s apparatus delimiters identify the words under discussion. The Thai retains the prayer in its own double brackets. In the second half of the verse, the division of the clothing recalls Greek Psalm 21:19 (Hebrew 22:19, commonly 22:18 in English). John 19:24 quotes the psalm explicitly."
     }
   },
   {
@@ -881,7 +881,7 @@
           "rationale": "σῴζω 'save' (here double-sense: deliver-from-death + messianic-salvation — the mockers use it ironically). Per uW figs-irony: mockers don't believe Jesus saved others. Per uW figs-hypo: hypothetical-sneer. Per uW figs-nominaladj: ἐκλεκτός 'Chosen' as substantive → ผู้ที่พระเจ้าทรงเลือก. χριστὸς τοῦ θεοῦ 'Christ of God' title — LUK distinctive (cf. 9:20 Peter's confession). ทรงเลือก divine-register for God's action."
         }
       ],
-      "notes": "OT ECHO — PSA 22:7-8 LXX (21:8-9 MT): πάντες οἱ θεωροῦντές με ἐξεμυκτήρισάν με ('all who see me mock me') ... ἤλπισεν ἐπὶ κύριον, ῥυσάσθω αὐτόν ('he trusted in the LORD — let him deliver him'). Luke uses the SAME verb ἐκμυκτηρίζω and the same structure (taunt-to-be-rescued-if-he-really-is-the-chosen). ADDED TO NT_OT_CITATIONS: LUK 23:35 direct allusion to PSA 21:8-9 LXX (mockers + challenge-to-rescue-if-chosen). Synoptic-parallel: MRK 15:29-32, MAT 27:39-43 — all echo Psalm-22's mockery-language; Luke chooses the verb-pattern closest to the LXX. TITLE-STACKING: ὁ χριστὸς τοῦ θεοῦ ὁ ἐκλεκτός 'Christ of God, the Chosen-One' — two messianic-titles combined; 'Chosen' echoes ISA 42:1 LXX παῖς μου ὁ ἐκλεκτός μου (Servant-Chosen). The leaders mock with exactly the titles that are truest of Jesus."
+      "notes": "The rulers’ sneering echoes Psalm 22:8–9 in Hebrew and Eremos numbering (English 22:7–8; Greek 21:8–9). Luke and the Greek Psalm share the verb for mocking. In the Psalm the mockers speak of the Lord rescuing the sufferer. In Luke they challenge Jesus to save himself."
     }
   },
   {
@@ -941,7 +941,7 @@
           "rationale": "ἐπιγραφή 'inscription' → ป้ายเขียน (inscribed-sign). Per uW figs-metonymy: inscription = placard bearing it. Per uW figs-irony: soldiers didn't believe it yet wrote it. Roman-practice: titulus placed above crucified showing the capital-offense-charge — in Jesus's case, the charge IS the truth. οὗτος 'this-one' emphatic demonstrative → คนนี้ + คือ."
         }
       ],
-      "notes": "TITULUS-CRUCIS: the Roman-legal practice of inscribing the capital-charge above the crucified. Per Roman-tradition the charge was written on a placard carried to the execution-site and attached above the condemned. JOHANNINE-EXPANSION: John 19:19-22 provides the tri-lingual detail (Hebrew/Aramaic + Latin + Greek) and the full form Ἰησοῦς ὁ Ναζωραῖος ὁ βασιλεὺς τῶν Ἰουδαίων. Synoptic-parallel: MRK 15:26 ἡ ἐπιγραφὴ τῆς αἰτίας αὐτοῦ ἐπιγεγραμμένη Ὁ βασιλεὺς τῶν Ἰουδαίων; MAT 27:37 + 'This is Jesus.' Luke's form οὗτος is closest to Mark. THEOLOGICAL-IRONY: Pilate's inscription, intended as Jesus-mocking AND Jewish-threat ('see what we do to your so-called kings'), declares-as-fact the very title Jesus had quietly confirmed in v.3."
+      "notes": "SBLGNT reports an inscription over Jesus and gives the title “The King of the Jews,” ending with οὗτος. Mark 15:26 gives the shorter title. Matthew 27:37 begins “This is Jesus.” Robinson–Pierpont adds the three languages and changes the word order in Luke. John 19:19–20 names Pilate and the languages. Luke’s selected text names neither the author of the inscription nor a motive."
     }
   },
   {
@@ -1033,10 +1033,10 @@
         {
           "greek": "καὶ ἔλεγεν Ἰησοῦ μνήσθητί μου ὅταν ἔλθῃς ἐν τῇ βασιλείᾳ σου",
           "thai": "พระเยซูเจ้า ขอพระองค์ทรงระลึกถึงข้าพระองค์ เมื่อพระองค์เสด็จเข้าในราชอาณาจักรของพระองค์",
-          "rationale": "Per uW figs-idiom: μνήσθητί 'remember' here = 'act-on-behalf-of' (not merely cognitive). Per uW figs-imperative: polite-request not command → ขอพระองค์ทรงระลึกถึง softens to entreaty. Vocative Ἰησοῦ → พระเยซูเจ้า (respectful-address to divine). ข้าพระองค์ humble-1SG per RULES §3 (human addressing divine). Per uW figs-idiom: ἔλθῃς ἐν τῇ βασιλείᾳ 'come into kingdom' = 'begin-to-rule-as-king' → เสด็จเข้าในราชอาณาจักร preserves entering-royal-reign. พระองค์ divine-2SG per §3. เสด็จ divine-register for movement."
+          "rationale": "พระเยซูเจ้า is a respectful address. เสด็จเข้าในราชอาณาจักร expresses entry into the kingdom, which corresponds most closely to the εἰς reading. The SBLGNT preposition ἐν can describe coming in royal power."
         }
       ],
-      "notes": "FAITH-CONFESSION FROM A CRIMINAL: the thief's prayer is the purest-confession in Luke's passion. He affirms (1) Jesus's kingship — despite the cross contradicting it visually, (2) future-coming-as-king — faith in vindication beyond death, (3) grace-for-remembrance — no claim to merit, only request. Per uW μνήσθητι as performative-rescue-petition (echoing OT prayers: PSA 132:1 μνήσθητι κύριε τοῦ Δαυίδ). TEXTUAL NOTE: SBLGNT/NA28 Ἰησοῦ (vocative); TR Κύριε μνήσθητι (adding 'Lord'); MS tradition-minor-variant — the direct-address Ἰησοῦ is more primitive and striking (only NT vocative-address to Jesus by personal-name from a conscious-believer). REGISTER [per RULES §3]: thief uses ข้าพระองค์ / พระองค์ (highest humble-register) — mirrors his realized-faith: confesses Jesus as divine-King."
+      "notes": "The condemned man addresses Jesus by name and asks to be remembered. SBLGNT reads Ἰησοῦ and ἐν τῇ βασιλείᾳ σου, “in your kingdom.” Westcott–Hort and NA28 read εἰς τὴν βασιλείαν σου, “into your kingdom.” RP includes κύριε after μνήσθητί μου. Acts 7:59 offers a related address with both title and name, Κύριε Ἰησοῦ."
     }
   },
   {
@@ -1063,10 +1063,10 @@
         {
           "greek": "σήμερον μετ’ἐμοῦ ἔσῃ ἐν τῷ παραδείσῳ",
           "thai": "วันนี้เจ้าจะอยู่กับเราในเมืองบรมสุขเกษม",
-          "rationale": "σήμερον 'today' — per uW translate-textvariants + chapter-intro: 'today' belongs WITH the promise ('today you will be'), not with the introduction formula. The eight other 'truly I say to you' occurrences in Luke stand-alone as introduction — so σήμερον attaches to the promise per Greek-standard-reading. παράδεισος 'paradise' → เมืองบรมสุขเกษม — classical-Thai-Christian rendering (city-of-supreme-blissful-peace), a Thai-coinage not owned by any copyrighted-translation, transparent-to-readers as 'paradise/heaven.' This is the FIRST-use in Eremos Translation; glossary-entry to be established here. Alternatives considered: สวรรค์ (heaven, less specific), สรวงสวรรค์ (heavenly-realm), transliteration ปาราเดโซ (unnatural). Choose เมืองบรมสุขเกษม for classical-Thai-resonance + semantic-transparency."
+          "rationale": "παράδεισος was used in Greek before the Septuagint. Xenophon, Oeconomicus 4, uses it for a royal park. It also names the garden of Eden in Greek Genesis 2, giving the term a biblical association with life in God’s presence."
         }
       ],
-      "notes": "PARADISE: παράδεισος is a Persian-loanword (pairidaēza 'walled-garden') entering Greek via LXX (GEN 2:8 'garden of Eden') and becoming Second-Temple Jewish term for the blessed-intermediate-state or eschatological-Eden-restored (cf. 1 ENOCH, 4 EZRA). Paul uses it at 2 COR 12:4 of his visionary ascent; REV 2:7 of the restored-garden-with-tree-of-life. Jesus's promise: fellowship (μετ’ ἐμοῦ 'with me') in paradise THAT VERY DAY — challenges any soul-sleep-until-resurrection reading; affirms immediate-post-mortem presence with Christ for the believer. ΣΗΜΕΡΟΝ-PLACEMENT: some traditions (Jehovah's Witnesses) attach σήμερον to the speech-verb, reading it as 'today I tell you' followed by the promise. Grammatically possible, contextually wrong: Luke's ἀμήν-σοι-λέγω formula appears 10× and always stands as a stand-alone introduction. σήμερον belongs with the promise. GLOSSARY-ESTABLISHMENT: παράδεισος → เมืองบรมสุขเกษม (classical Thai Christian coinage; CC0-safe)."
+      "notes": "Luke uses an amen introduction to a saying in 12:37, 18:17, 21:32 and 23:43. This is the one addressed to a single person with σοι. The Thai attaches “today” to the promise of being with Jesus. The Greek word for paradise had an earlier use for a park or garden and is also used of Eden in the Greek Scriptures."
     }
   },
   {
@@ -1078,7 +1078,7 @@
     "translation": {
       "thai": "ตอนนี้เป็นประมาณเที่ยงวัน ความมืดก็ปกคลุมทั่วแผ่นดินจนถึงบ่ายสามโมง",
       "thai_literal": null,
-      "thai_summary": "ความมืดสามชั่วโมงกลางวันไม่สามารถอธิบายด้วยปรากฏการณ์ธรรมชาติได้ — ปัสกาตรงกับพระจันทร์เต็มดวง การเกิดสุริยุปราคาทางธรรมชาติเป็นไปไม่ได้ ลูกาเห็นว่านี่เป็นหมายสำคัญที่เชื่อมกับคำพยากรณ์ใน อาโมส 8:9 “ในวันนั้น... เราจะให้ดวงอาทิตย์ตกตอนเที่ยงวัน” ซึ่งเป็นภาพของวันแห่งพระพิโรธของพระเจ้า — ถูกย้ายมาประกาศ ณ ชั่วโมงที่พระเยซูทรงตาย",
+      "thai_summary": "ลูการายงานว่าความมืดปกคลุมแผ่นดินประมาณเที่ยงวันจนถึงบ่ายสามโมง ภาพนี้ชวนให้นึกถึงอาโมส 8:9 ที่กล่าวถึงดวงอาทิตย์ตกในเวลาเที่ยง เทศกาลปัสกาอยู่ใกล้วันเพ็ญ จึงไม่ใช่ช่วงที่เกิดสุริยุปราคาตามธรรมชาติได้ ลูกาไม่ได้อธิบายว่าความมืดเกิดขึ้นได้อย่างไร",
       "key_decisions": [
         {
           "greek": "Καὶ ἦν ἤδη ὡσεὶ ὥρα ἕκτη",
@@ -1091,7 +1091,7 @@
           "rationale": "σκότος 'darkness.' Per uW figs-metonymy: 'land/earth' potentially figurative for sky. γῆ ambiguous: 'whole-earth' or 'whole-region' — context permits either; Thai แผ่นดิน is geographically-ambiguous like Greek. ὥρα ἐνάτη 'ninth-hour' = 3pm. Thai บ่ายสามโมง standard. ปกคลุม 'cover-over' preserves enveloping-sense."
         }
       ],
-      "notes": "COSMIC-DARKNESS: 3 hours of darkness from noon to 3pm — meteorologically impossible (Passover = full moon, so a solar-eclipse is ruled out; a lunar-eclipse doesn't produce daytime-darkness). Per uW: could be localized or regional phenomenon. OT ALLUSION — AMOS 8:9 LXX: καὶ ἔσται ἐν τῇ ἡμέρᾳ ἐκείνῃ, λέγει κύριος ὁ θεός, καὶ δύσεται ὁ ἥλιος μεσημβρίας ('in that day, says the Lord God, the sun shall go down at noon'). The Day-of-the-Lord imagery mapped onto the crucifixion-hour. ADDED TO NT_OT_CITATIONS: LUK 23:44 allusion to AMO 8:9 LXX (sun-darkened-at-noon as Day-of-the-LORD judgment-sign). SYNOPTIC PARALLEL: MRK 15:33, MAT 27:45 — all three record identical 3-hour dark period; Luke adds v.45a τοῦ ἡλίου ἐκλιπόντος (sun-failing)."
+      "notes": "Luke reports darkness from about the sixth to the ninth hour. The darkness at midday may allude to Amos 8:9, where God speaks of making the sun go down at noon. Passover falls near full moon, ruling out an ordinary solar eclipse, which requires new moon. The narrative provides no measurements for diagnosing the darkness. In 23:45 SBLGNT and NA28 have the dependent phrase τοῦ ἡλίου ἐκλιπόντος; Tregelles and Robinson–Pierpont read “and the sun was darkened.”"
     }
   },
   {
@@ -1108,7 +1108,7 @@
         {
           "greek": "τοῦ ἡλίου ἐκλιπόντος",
           "thai": "ดวงอาทิตย์ก็มืดไป",
-          "rationale": "ἐκλείπω 'fail/give-out' — per uW figs-personification: the sun-as-agent ceasing to shine. Luke speaks observationally. NOT eclipse-in-technical-sense (Passover's full-moon precludes it) — ἐκλείπω here = 'failing-to-give-light.' Thai มืดไป preserves the observational 'went-dark.'"
+          "rationale": "The selected Greek describes the sun’s light failing. The Thai ดวงอาทิตย์ก็มืดไป describes the darkness without specifying a mechanism."
         },
         {
           "greek": "ἐσχίσθη δὲ τὸ καταπέτασμα τοῦ ναοῦ μέσον",
@@ -1116,7 +1116,7 @@
           "rationale": "σχίζω aor-pass 'was-torn/split.' καταπέτασμα 'curtain/veil' → ม่าน glossary-standard; specifically the veil before the Holy-of-Holies per uW figs-explicit. ναός → พระวิหาร (temple-proper, the inner-sanctuary; distinct from ἱερόν 'temple-complex'). μέσον 'in-the-middle' — per uW figs-explicit: not side-to-side but top-to-bottom (MRK 15:38 ἀπ’ἄνωθεν ἕως κάτω makes this explicit). Thai ฉีกขาดออกเป็นสองท่อน = torn-into-two-pieces standard. Per uW figs-activepassive: divine-agent implicit; passive-form preserved natural-Thai."
         }
       ],
-      "notes": "THEOLOGICAL-SIGNAL: ἐσχίσθη is divine-passive — God tears the curtain. The parokhet veil (the second/inner curtain; Hebrews 9:3 uses καταπέτασμα for both outer and inner). This curtain walled off the Most-Holy-Place from the remainder of the sanctuary, a standing sign of the barrier sin raises between humanity and God. Its tearing = Christ's death opens direct-access (HEB 10:19-22 makes the typological meaning explicit). SYNOPTIC-ORDER: Luke places the curtain-torn BEFORE Jesus's final-words (unlike MAT/MRK which place it after), pairing cosmic-darkness with sanctuary-opened — the judgment-signs and atonement-sign flanking Jesus's death. HISTORICAL: Josephus (Jewish War 5.212-19) describes the curtain as embroidered with cosmic-Babylonian patterns representing the universe; tearing it = re-making the cosmos."
+      "notes": "Luke reports darkness from about the sixth to the ninth hour. This recalls Amos 8:9, which depicts the sun setting at midday. Passover falls near full moon, ruling out an ordinary solar eclipse, which requires new moon. The narrative provides no measurements for diagnosing the darkness. In 23:45 SBLGNT and NA28 have the dependent phrase τοῦ ἡλίου ἐκλιπόντος; Tregelles and Robinson–Pierpont read “and the sun was darkened.”"
     }
   },
   {
@@ -1128,7 +1128,7 @@
     "translation": {
       "thai": "พระเยซูทรงร้องเสียงดังว่า “ข้าแต่พระบิดา ข้าพระองค์ขอมอบจิตวิญญาณของข้าพระองค์ไว้ในพระหัตถ์ของพระองค์” เมื่อตรัสเช่นนั้นแล้ว ก็สิ้นพระชนม์",
       "thai_literal": null,
-      "thai_summary": "พระวาจาสุดท้ายของพระเยซูในลูกาเป็นคำอ้างถึง สดุดี 31:5 โดยตรง — คำอธิษฐานตอนเย็นของดาวิดที่ชาวยิวใช้สวดก่อนนอนในสมัยนั้น ลูกาเลือกที่จะบันทึกคำสิ้นสุดของพระเยซูเป็นคำวางใจ ไม่ใช่คำร้องทุกข์แบบที่มาระโกและมัทธิวบันทึก (สดด. 22:1) — ทั้งสองสดุดีเป็นคำคร่ำครวญของดาวิดที่ลงท้ายด้วยความวางใจ จึงไม่ขัดแย้งกันแต่เสริมกัน พระเยซูทรงตายด้วยใจที่มอบจิตวิญญาณไว้ในพระหัตถ์ของพระบิดา ไม่ใช่ด้วยความหมดหวัง ในกิจการ 7:59 สเทเฟนเสียชีวิตด้วยคำอธิษฐานแบบเดียวกัน — “พระเยซูเจ้า ขอทรงรับวิญญาณของข้าพระองค์” — ลูกาจัดวางคู่ขนานให้สเทเฟนเลียนแบบการตายของพระเยซู",
+      "thai_summary": "พระเยซูทรงเรียกพระเจ้าว่าพระบิดาและมอบพระวิญญาณไว้ในพระหัตถ์ของพระองค์ ถ้อยคำนี้อ้างถึงสดุดี 31:6 ตามการนับข้อในฉบับภาษาไทยนี้ พระเยซูตรัสว่า “ข้าพระองค์มอบ” ส่วนสดุดีฉบับกรีกใช้รูปกริยาอนาคต เมื่อสเทเฟนใกล้สิ้นชีวิต เขาทูลขอให้พระเยซูทรงรับวิญญาณของเขา (กิจการ 7:59)",
       "key_decisions": [
         {
           "greek": "φωνήσας φωνῇ μεγάλῃ ὁ Ἰησοῦς εἶπεν",
@@ -1138,7 +1138,7 @@
         {
           "greek": "Πάτερ εἰς χεῖράς σου παρατίθεμαι τὸ πνεῦμά μου",
           "thai": "ข้าแต่พระบิดา ข้าพระองค์ขอมอบจิตวิญญาณของข้าพระองค์ไว้ในพระหัตถ์ของพระองค์",
-          "rationale": "Πάτερ vocative → ข้าแต่พระบิดา classical-prayer-address. παρατίθεμαι mid 'commit/entrust' — deposit-for-safekeeping idiom. χεῖρ → พระหัตถ์ divine-register hand per §3. πνεῦμα → จิตวิญญาณ (glossary-option for soul/spirit-of-life). Per uW figs-metonymy: 'hands' = God's-care. Per uW: 'spirit' = life-departing-to-God. ข้าพระองค์ humble-1SG, พระองค์ divine-2SG per §3."
+          "rationale": "Jesus addresses the Father and adapts Psalm 31:6 in Hebrew and Eremos numbering (English 31:5; Greek 30:6). Luke uses present παρατίθεμαι, “I entrust,” where the Greek Psalm has future παραθήσομαι. Matthew 27:50 uses ἀφῆκεν and John 19:30 παρέδωκεν when speaking of the spirit. Acts 7:59 is a related prayer with an imperative asking Jesus to receive Stephen’s spirit."
         },
         {
           "greek": "τοῦτο δὲ εἰπὼν ἐξέπνευσεν",
@@ -1146,7 +1146,7 @@
           "rationale": "ἐκπνέω 'breathe-out' — per uW figs-euphemism for dying. Thai สิ้นพระชนม์ divine-register for death-of-high-person; classical-Thai-Christian standard for Jesus's death. ตรัส retained for 'saying.'"
         }
       ],
-      "notes": "DIRECT OT CITATION — PSA 31:5 LXX (30:6): εἰς χεῖράς σου παρατίθεμαι τὸ πνεῦμά μου ('into your hands I commit my spirit'). Jesus quotes DAVID'S prayer verbatim from the LXX — a Jewish evening-prayer (still used in the Compline-liturgy). Luke replaces the despairing-cry of MRK 15:34 / MAT 27:46 (PSA 22:1 'why have you forsaken me') with a prayer-of-trust (PSA 31). Lukan-editorial choice: frames Jesus's death as faithful-commendation rather than feeling-forsaken. Both psalms are Davidic-laments-ending-in-trust, so the two traditions are theologically-complementary not contradictory. ADDED TO NT_OT_CITATIONS: LUK 23:46 direct-quotation of PSA 30:6 LXX. ἐκπνέω is Lukan-Markan (MRK 15:37 parallels); Matthew and John prefer παραδίδωμι τὸ πνεῦμα. STEPHEN-ECHO: Acts 7:59 Stephen dies with similar formula Κύριε Ἰησοῦ δέξαι τὸ πνεῦμά μου — Luke-editorial-design has Stephen imitate Jesus's death-prayer. HONORIFIC: พระหัตถ์ divine-register for God's hand, strict per §3."
+      "notes": "Jesus addresses the Father and adapts Psalm 31:6 in Hebrew and Eremos numbering (English 31:5; Greek 30:6). Luke uses present παρατίθεμαι, “I entrust,” where the Greek Psalm has future παραθήσομαι. Matthew 27:50 uses ἀφῆκεν and John 19:30 παρέδωκεν when speaking of the spirit. Acts 7:59 is a related prayer with an imperative asking Jesus to receive Stephen’s spirit."
     }
   },
   {
@@ -1173,10 +1173,10 @@
         {
           "greek": "Ὄντως ὁ ἄνθρωπος οὗτος δίκαιος ἦν",
           "thai": "แท้จริงแล้วคนนี้เป็นคนชอบธรรม",
-          "rationale": "Ὄντως adv 'really/truly' → แท้จริงแล้ว. δίκαιος 'righteous/innocent' — double-sense: morally-righteous AND legally-innocent (Roman-context). Luke's distinctive rendering (vs. Mark/Matt 'son-of-God'). Thai ชอบธรรม captures both senses."
+          "rationale": "Luke’s centurion praises God and calls Jesus δίκαιος, righteous or innocent. His words express an assessment here. A possible allusion to Isaiah 53:11 rests on the servant theme and δίκαιος: Greek Isaiah reads δικαιῶσαι δίκαιον εὖ δουλεύοντα πολλοῖς. Mark 15:39 has a centurion say υἱὸς θεοῦ. Matthew 27:54 has the centurion and those with him say θεοῦ υἱός."
         }
       ],
-      "notes": "LUKE-DISTINCTIVE CENTURION-CONFESSION: MRK 15:39 and MAT 27:54 have 'truly this was Son-of-God' (υἱὸς θεοῦ ἦν οὗτος); Luke uniquely has δίκαιος 'righteous/innocent.' This is Luke's FIFTH innocence-declaration (Pilate × 3, criminal × 1, centurion × 1). SCHOLARS DEBATE: does Luke redact for Gentile-reader-clarity ('righteous' = legal-innocence) or is he preserving a different tradition? Both work theologically: δίκαιος can mean judicial-innocent (completing Luke's apologetic-trajectory) AND morally-righteous (echoing Isa 53:11 ὁ δίκαιος παῖς 'the righteous servant'). POSSIBLE OT ECHO — ISA 53:11 LXX δίκαιον ... δίκαιος δίκαιος (servant-song justifying-many). ADDED TO NT_OT_CITATIONS: LUK 23:47 allusion to ISA 53:11 LXX (righteous-servant recognition). CENTURION-AS-LUKAN-PATTERN: Cornelius (ACT 10), the Ethiopian-eunuch-kind-of-Gentile pattern — Luke repeatedly shows Gentile-soldiers and Roman-officials recognizing Jesus/apostolic-message."
+      "notes": "Luke’s centurion praises God and calls Jesus δίκαιος, righteous or innocent. His words express an assessment here. A possible allusion to Isaiah 53:11 rests on the servant theme and δίκαιος: Greek Isaiah reads δικαιῶσαι δίκαιον εὖ δουλεύοντα πολλοῖς. Mark 15:39 has a centurion say υἱὸς θεοῦ. Matthew 27:54 has the centurion and those with him say θεοῦ υἱός."
     }
   },
   {
@@ -1188,7 +1188,7 @@
     "translation": {
       "thai": "เมื่อฝูงชนที่มาชุมนุมดูเหตุการณ์ได้เห็นสิ่งที่เกิดขึ้น ก็พากันทุบอกแล้วเดินกลับไป",
       "thai_literal": null,
-      "thai_summary": "การที่ฝูงชนทุบอกกลับบ้านเป็นรายละเอียดที่เฉพาะในลูกาเท่านั้น — ฝูงชนเดียวกันที่ร้องตะโกนว่า “ตรึงเขาที่กางเขน” ในตอนเช้า ตอนนี้กลับรู้สึกว่าตนได้มีส่วนร่วมในความชั่วร้ายใหญ่หลวง การทุบอก (ภาษากรีก τύπτω τὰ στήθη) เป็นกิริยาสำแดงความสำนึกผิดแบบคลาสสิกของชาวยิว (เทียบ ลก. 18:13 คนเก็บภาษีที่ทุบอกและอธิษฐานว่า “โปรดทรงพระเมตตาแก่ข้าพระองค์ผู้เป็นคนบาป”) ลูกาเริ่มวาดภาพเยรูซาเล็มที่รู้สึกผิดตรงนี้ ซึ่งจะนำไปสู่ กิจการ 2:37 ที่ฝูงชนเดียวกันได้ฟังคำเทศนาของเปโตรและ “รู้สึกเจ็บแปลบที่ใจ” จนกลับใจ",
+      "thai_summary": "การที่ฝูงชนทุบอกกลับบ้านเป็นรายละเอียดที่เฉพาะในลูกาเท่านั้น — ฝูงชนเดียวกันที่ร้องตะโกนว่า “ตรึงเขาที่กางเขน” ในตอนเช้า ตอนนี้กลับรู้สึกว่าตนได้มีส่วนร่วมในความชั่วร้ายใหญ่หลวง การทุบอก (ภาษากรีก τύπτω τὰ στήθη) เป็นกิริยาสำแดงความสำนึกผิดแบบคลาสสิกของชาวยิว (เทียบ ลก. 18:13 คนเก็บภาษีที่ทุบอกและอธิษฐานว่า “โปรดทรงพระเมตตาแก่ข้าพระองค์ผู้เป็นคนบาป”) ลูกาเริ่มวาดภาพเยรูซาเล็มที่รู้สึกผิดตรงนี้ ซึ่งจะนำไปสู่ กิจการ 2:37 ที่ฝูงชนได้ฟังคำเทศนาของเปโตรและ “รู้สึกเจ็บแปลบที่ใจ” จนกลับใจ",
       "key_decisions": [
         {
           "greek": "καὶ πάντες οἱ συμπαραγενόμενοι ὄχλοι ἐπὶ τὴν θεωρίαν ταύτην θεωρήσαντες τὰ γενόμενα",
@@ -1201,7 +1201,7 @@
           "rationale": "τύπτω τὰ στήθη 'beat-breasts' — per uW translate-symaction: expression-of-great-sorrow (same gesture as 18:13 tax-collector's self-condemnation). Thai ทุบอก standard for grief-chest-beating. ὑποστρέφω 'return' → เดินกลับไป."
         }
       ],
-      "notes": "LUKE-DISTINCTIVE: only Luke records the crowd's response of repentant-mourning. The same crowd that demanded 'crucify' (vv.18, 21, 23) now beats their breasts in sorrow — the crucifixion itself, with its signs (darkness, centurion-confession), produced a realization that the crowd had participated in a grave-evil. Per uW translate-symaction: chest-beating is the classic-Jewish gesture of contrition (cf. 18:13 ἔτυπτε τὸ στῆθος αὐτοῦ 'beat his chest' = tax-collector's self-condemnation). LUKAN-PROTO-REPENTANCE: sets up ACT 2:37 where the same Jerusalem-crowd, hearing Peter's Pentecost-sermon, is 'cut to the heart' — Luke's arc of Jerusalem's-guilt-to-Jerusalem's-repentance begins here."
+      "notes": "LUKE-DISTINCTIVE: only Luke records the crowd's response of repentant-mourning. The crowd that gathered to watch now beats their breasts in sorrow — the crucifixion itself, with its signs (darkness, centurion-confession), produced a realization that the crowd had participated in a grave-evil. Per uW translate-symaction: chest-beating is the classic-Jewish gesture of contrition (cf. 18:13 ἔτυπτε τὸ στῆθος αὐτοῦ 'beat his chest' = tax-collector's self-condemnation). LUKAN-PROTO-REPENTANCE: sets up ACT 2:37 where the same Jerusalem-crowd, hearing Peter's Pentecost-sermon, is 'cut to the heart' — Luke's arc of Jerusalem's-guilt-to-Jerusalem's-repentance begins here."
     }
   },
   {
@@ -1226,7 +1226,7 @@
           "rationale": "Per uW figs-explicit: the women described in 8:2-3 (Mary-Magdalene, Joanna, Susanna) who traveled with Jesus from Galilee. συνακολουθέω 'accompany-following.' Thai ตามพระองค์มาจากกาลิลี natural. ταῦτα → เหตุการณ์เหล่านั้น generalized (the events)."
         }
       ],
-      "notes": "OT ECHO — PSA 38:11 LXX (37:12): οἱ φίλοι μου καὶ οἱ πλησίον μου ἐξ ἐναντίας μου ἤγγισαν καὶ ἔστησαν ('my friends and neighbors stood against me'; cf. also PSA 88:8 ἐμάκρυνας τοὺς γνωστούς μου ἀπ’ ἐμοῦ 'you have removed my acquaintances from me'). Luke's γνωστοί αὐτῷ is the exact LXX-word γνωστούς μου from PSA 88:8 (87:9). ADDED TO NT_OT_CITATIONS: LUK 23:49 allusion to PSA 87:9 LXX + PSA 37:12 LXX (acquaintances-standing-afar). GALILEAN WOMEN AS WITNESSES: Luke positions them here as the witnesses who will also see burial (v.55) and resurrection (24:1-10) — a consistent-witness-chain. JEWISH-LAW-OF-EVIDENCE required 2+ witnesses; Luke establishes multiple-female-witnesses for the Resurrection — a sociologically-radical move in a culture where women's testimony was legally discounted."
+      "notes": "Luke describes Jesus’s acquaintances and women watching from a distance. Greek Psalm 37:12 says ἀπὸ μακρόθεν ἔστησαν, “they stood far off”; the selected Luke has μακρόθεν without ἀπό, while NA28 includes the preposition. Greek Psalm 87:9 uses accusative γνωστούς, cognate with Luke’s nominative γνωστοί. The possible echoes correspond to Hebrew and Eremos Psalms 38:12 and 88:9 (English 38:11 and 88:8)."
     }
   },
   {
@@ -1268,7 +1268,7 @@
         {
           "greek": "οὗτος οὐκ ἦν συγκατατεθειμένος τῇ βουλῇ καὶ τῇ πράξει αὐτῶν",
           "thai": "ซึ่งไม่ได้เห็นชอบกับมติและการกระทำของพวกเขา",
-          "rationale": "συγκατατίθημι mid-plpf 'had-consented-with' — NOT-consented. Per uW figs-hendiadys + figs-explicit: βουλή + πρᾶξις = 'the council's-decision-to-condemn.' Thai มติและการกระทำ preserves both nouns. Per uW writing-background: explains v.52's courage in approaching Pilate."
+          "rationale": "Joseph had not consented to the council’s plan and action. The participle συγκατατεθειμένος is perfect middle/passive in form; with ἦν it forms a periphrastic pluperfect. Luke does not specify Joseph’s location when the assembled group rose in 23:1. Joseph waits for the kingdom; in 2:25 Simeon waits for Israel’s consolation, and in 2:38 Anna speaks to those waiting for Jerusalem’s redemption."
         },
         {
           "greek": "ἀπὸ Ἁριμαθαίας πόλεως τῶν Ἰουδαίων",
@@ -1278,10 +1278,10 @@
         {
           "greek": "ὃς προσεδέχετο τὴν βασιλείαν τοῦ θεοῦ",
           "thai": "และกำลังรอคอยราชอาณาจักรของพระเจ้า",
-          "rationale": "προσδέχομαι 'eagerly-await' — per uW figs-idiom: not passive-waiting but active-anticipation. Thai รอคอย preserves active-waiting. βασιλεία τοῦ θεοῦ → อาณาจักรของพระเจ้า glossary-standard (per RULES §4). ราชอาณาจักร upgrading to royal-kingdom Register to honor βασιλεία + θεοῦ → ราชอาณาจักร acceptable-variation (cf. LUK 1:33 precedent use of ราชย์-compounds for God's-kingdom)."
+          "rationale": "προσεδέχετο describes Joseph waiting for the kingdom of God. The waiting theme also appears with Simeon in 2:25 and with the people to whom Anna speaks in 2:38."
         }
       ],
-      "notes": "COUNCIL-DISSENT: per v.1's ἅπαν 'whole' was hyperbolic — Joseph is the proof. The explicit dissent-note makes v.1's hyperbole rhetorically-responsible (Luke knows what he's doing). LUKAN ECHO: προσδέχομαι τὴν βασιλείαν 'awaiting the kingdom' echoes 2:25 (Simeon προσδεχόμενος παράκλησιν τοῦ Ἰσραήλ) and 2:38 (Anna elaloun ... πᾶσιν τοῖς προσδεχομένοις λύτρωσιν Ἰερουσαλήμ). Luke brackets his Gospel: opens with pious-awaiters at the Temple, closes with a pious-awaiter burying the Messiah. ARIMATHEA: possibly Ramathaim, Samuel's hometown (1 SAM 1:1). JOHANNINE-EXPANSION: JHN 19:38 adds that Joseph was a secret-disciple 'for fear of the Jews'; Luke is more restrained, emphasizing his righteousness + kingdom-hope rather than discipleship-ties."
+      "notes": "Joseph had not consented to the council’s plan and action. The participle συγκατατεθειμένος is perfect middle/passive in form; with ἦν it forms a periphrastic pluperfect. Luke does not specify Joseph’s location when the assembled group rose in 23:1. Joseph waits for the kingdom; in 2:25 Simeon waits for Israel’s consolation, and in 2:38 Anna speaks to those waiting for Jerusalem’s redemption."
     }
   },
   {
@@ -1301,7 +1301,7 @@
           "rationale": "Per uW figs-explicit: asked for the body for proper-burial. προσέρχομαι + τῷ Πιλάτῳ 'approach Pilate' → เข้าไปเฝ้า (respectful to Roman-governor). αἰτέομαι mid 'request-for-oneself.' σῶμα → พระศพ divine-register for Jesus's body (classical Thai-Christian standard; ศพ is generic body-corpse, พระศพ adds divine-honor)."
         }
       ],
-      "notes": "JOSEPH'S COURAGE: Roman-custom was to leave crucified-bodies on crosses for carrion-birds and then incinerate remains in the valley-of-Hinnom (Gehenna, per LUK 12:5 context) — as a deterrent to provincials. Requesting the body for proper-burial was unusual; for a suspected-disciple-of-Jesus it was risky. Per uW: proper-burial + implies Pilate-granted-permission (Mark 15:45 explicit). Joseph's act fulfills the honored-burial required by Deut 21:22-23 ('cursed is everyone who hangs on a tree' — Jewish-law required same-day burial of executed-criminals before sunset)."
+      "notes": "Joseph asks Pilate for the body. Luke reports the burial in the next verse, implying the request was granted; Mark 15:45 makes the grant explicit. Deuteronomy 21:22–23 provides possible background for same-day burial. Luke does not specify a general Roman practice for disposing of bodies or associate this death with burning remains in Hinnom."
     }
   },
   {
@@ -1326,7 +1326,7 @@
           "rationale": "μνῆμα λαξευτόν 'rock-hewn tomb' per uW translate-unknown → อุโมงค์ที่เจาะจากหิน. Per uW figs-doublenegatives: Greek-triple-negative 'where no one not-yet had-not-lain' emphasizes honor (Thai ยังไม่เคยมีผู้ใดถูกฝังไว้ preserves the honor-of-unused-tomb without trying to reproduce the triple-negative)."
         }
       ],
-      "notes": "HONOR-IN-BURIAL: Luke emphasizes three honors: (1) σινδών fine-linen (not a common-shroud), (2) rock-hewn-tomb (wealthy-family-type, per uW chapter-intro), (3) unused-tomb (triple-negative emphasis). This matches ISA 53:9 LXX καὶ δώσω τοὺς πονηροὺς ἀντὶ τῆς ταφῆς αὐτοῦ καὶ τοὺς πλουσίους ἀντὶ τοῦ θανάτου αὐτοῦ ('he made his grave with the wicked, and with the rich in his death'). ADDED TO NT_OT_CITATIONS: LUK 23:53 allusion to ISA 53:9 LXX (honored-burial with-the-rich). Matthew 27:60 explicit that the tomb was Joseph's own (MAT alone); John 19:41 adds garden-setting; Luke is restrained. The 'unused-tomb' motif signals royal-honor-in-death AND prevents any confusion at the Resurrection (it was Jesus's resurrection, not another's awakening)."
+      "notes": "Luke describes an unused tomb hewn in rock. Matthew 27:57–60 identifies Joseph as rich and calls the tomb his own. Isaiah 53:9 provides a possible thematic parallel. Greek Isaiah has δώσω, “I will give,” with ἀντί twice: the wicked in exchange for the burial and the rich in exchange for the death. The Hebrew-based rendering associates the servant’s grave with the wicked and his death with a rich man. These are distinct source formulations."
     }
   },
   {
@@ -1343,7 +1343,7 @@
         {
           "greek": "καὶ ἡμέρα ἦν παρασκευῆς",
           "thai": "วันนั้นเป็นวันเตรียม",
-          "rationale": "παρασκευή 'preparation' — per uW figs-explicit: day-of-preparation-for-the-Sabbath. Thai วันเตรียม glossary-standard (parallel use in LUK 22:9, though there for Passover). Context-specific = preparation-day."
+          "rationale": "Mark 15:42 also uses the noun παρασκευή and explains it as the day before the Sabbath. Luke 22:9 instead uses a verb for making preparations. วันเตรียม captures the named day in Luke 23:54. The following clause signals the approach of the Sabbath."
         },
         {
           "greek": "καὶ σάββατον ἐπέφωσκεν",

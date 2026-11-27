@@ -16,7 +16,7 @@ NT-to-OT links found: **19** / 49 verses
 - **Luke 6:27** — LEV 19:18, PRO 25:21-22 (thematic_allusion)
 - **Luke 6:30** — DEU 15:7-11 (thematic_allusion)
 - **Luke 6:35** — PSA 145:9 (thematic_allusion)
-- **Luke 6:36** — LEV 19:2, EXO 34:6 (direct_citation)
+- **Luke 6:36** — LEV 19:2, EXO 34:6 (allusion)
 - **Luke 6:37** — LEV 19:15-18 (thematic_allusion)
 - **Luke 6:41** — PSA 19:12-13 (thematic_allusion)
 - **Luke 6:45** — PRO 4:23, PRO 16:23 (thematic_allusion)
