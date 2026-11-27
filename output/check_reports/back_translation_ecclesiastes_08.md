@@ -11,7 +11,7 @@ Mode: in-chat (Claude-produced back-translations) | Threshold: 0.35
 ## ℹ Low similarity — rationale documented (intentional divergence)
 
 - **Ecclesiastes 8:14** (sim=0.13)
-  - Thai: มีความไร้แก่นสารอย่างหนึ่งที่เกิดขึ้นบนแผ่นดินโลก คือมีคนชอบธรรมที่ได้รับสิ่งสมกับการกระทำของคนชั่วร้าย และมีคนชั่วร้ายที่ได้รับสิ่งสมกับการกระทำของคนชอบธรรม ข้าพเจ้าจึงกล่าวว่า นี่ก็ไร้แก่นสารเช่นกัน
+  - Thai: มีความอนิจจังอย่างหนึ่งที่เกิดขึ้นบนแผ่นดินโลก คือมีคนชอบธรรมที่ได้รับสิ่งสมกับการกระทำของคนชั่วร้าย และมีคนชั่วร้ายที่ได้รับสิ่งสมกับการกระทำของคนชอบธรรม ข้าพเจ้าจึงกล่าวว่า นี่ก็อนิจจังเช่นกัน
   - Back: There is something without substance that happens on the earth: there are righteous men who receive what fits the deeds of the wicked, and wicked men who receive what fits the deeds of the righteous. I said that this too is without substance.
   - BSB:  There is a futility that is done on the earth: There are righteous men who get what the actions of the wicked deserve, and there are wicked men who get what the actions of the righteous deserve. I say that this too is futile.
 - **Ecclesiastes 8:15** (sim=0.29)

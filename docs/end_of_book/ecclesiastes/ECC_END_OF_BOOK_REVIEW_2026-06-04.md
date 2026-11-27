@@ -1,5 +1,7 @@
 # Ecclesiastes — End-of-Book Review
 
+**Editorial clarification, 27 November 2026.** The decisions recorded on 27 June adopted อนิจจัง for הֶבֶל throughout Ecclesiastes and เคราะห์อันเดียวกัน for מִקְרֶה אֶחָד. The emphatic phrase in 1:2 and 12:8 reads อนิจจัง อนิจจัง. The questions about these two terms below predate the decisions. The study notes and summaries now use the adopted wording.
+
 **Date:** 2026-06-04
 **Scope:** All 12 chapters (222 MT verses; verse-level `key_decisions` throughout); `glossary.json`; existing `docs/translator_decisions/` (97 docs).
 **Trigger:** ECC 12 shipped (commit `7c729260`); per `docs/END_OF_BOOK_CHECKLIST.md`.

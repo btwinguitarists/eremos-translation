@@ -1,4 +1,6 @@
 # Ecclesiastes — External AI Sanity-Check Review Packet
+
+**Editorial clarification, 27 November 2026.** The decisions recorded on 27 June adopted อนิจจัง for הֶבֶל throughout Ecclesiastes and เคราะห์อันเดียวกัน for מִקְרֶה אֶחָד. The emphatic phrase in 1:2 and 12:8 reads อนิจจัง อนิจจัง. The questions about these two terms below predate the decisions. The study notes and summaries now use the adopted wording.
 **Date assembled: 2026-06-03**
 
 **Paste this entire document into one of:** Grok (free), ChatGPT (free or paid), Gemini 2.5 Pro, Claude. **Then copy the AI's response back to the project's main session.**
