@@ -3259,7 +3259,7 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 **40** ดังนั้นโมเสสมอบกิเลอาดให้แก่มาคีร์บุตรของมนัสเสห์ และเขาก็พำนักในที่นั้น
 
-**41** และยาอีร์บุตรของมนัสเสห์ไปและยึดหมู่บ้านของพวกเขา และเรียกพวกมันว่า ฮาวโวธ-ยาอีร์
+**41** และยาอีร์บุตรของมนัสเสห์ไปและยึดหมู่บ้านของพวกเขา และเรียกพวกมันว่า ฮัฟโวท-ยาอีร์
 
 **42** และโนบาห์ไปและยึดเคนัทและหมู่บ้านของมัน และเรียกมันว่า โนบาห์ตามชื่อของเขาเอง
 
@@ -3657,7 +3657,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/numbers_29.json` | `7c745fbce731ebc11a70a6ffc6251d421a3941688602ec9e9a6a4da57727f5d3` |
 | `output/translations/numbers_30.json` | `948ffbead7e73a3006ca3b712e2f539af2aef8bc8e66563da6d7a0f3a680dc25` |
 | `output/translations/numbers_31.json` | `ea2bb81b1c14cc16addd471fb5c615d368ff7e2dad4615b6c3f8cdaeffea0b9a` |
-| `output/translations/numbers_32.json` | `e3f991c5af860a95dd06df39dd00fa36292617fbe5341f28ca7b6478d4426e7e` |
+| `output/translations/numbers_32.json` | `ed66354115f83b77a8f78aca07e7a97f130f9446e5d75c48e9d79e5f367f6840` |
 | `output/translations/numbers_33.json` | `dd818e6c85ca48de0952f17bd7fdca8a6c37882e592b25128d47bcc89e781ba2` |
 | `output/translations/numbers_34.json` | `70c5d53937e75d627ec16d030e5a02103f379cae03377084cf92c29594c026b9` |
 | `output/translations/numbers_35.json` | `b0d01778add620f52b3e20f28345ac79d2b24b59471b4b0ba20af6a92befead5` |
