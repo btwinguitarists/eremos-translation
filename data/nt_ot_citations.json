@@ -4654,14 +4654,14 @@
       "notes": "ἀπόστητε ἀπ’ ἐμοῦ, πάντες ἐργάται ἀδικίας directly cites LXX Ps 6:9 (ET 6:8) ἀπόστητε ἀπ’ ἐμοῦ, πάντες οἱ ἐργαζόμενοι τὴν ἀνομίαν. Luke's ἀδικίας replaces LXX ἀνομίαν (minor-lexical-variation, same semantic-field of covenantal-wickedness). Matthew's parallel (7:23) retains ἀνομίαν verbatim. Jesus-as-Judge assumes the Davidic-voice rejecting enemies in the psalm, a Christological move: the rejected-becomes-rejector, the psalmist-becomes-the-Lord-speaking-through-the-psalmist."
     },
     "LUK 13:28": {
-      "type": "composite_allusion",
+      "type": "allusion",
       "sources": [
         "PSA 112:10",
         "ISA 25:6-8",
         "MAT 8:11-12"
       ],
-      "greek_matches": "LXX-partial",
-      "notes": "Weeping and gnashing of teeth (κλαυθμὸς καὶ ὁ βρυγμὸς τῶν ὀδόντων) echoes Ps 112:10 LXX (ET 112:10) ὁ ἁμαρτωλὸς ὄψεται καὶ ὀργισθήσεται, τοὺς ὀδόντας αὐτοῦ βρύξει καὶ τακήσεται (the sinner will see and be angry, he will gnash his teeth and melt away) — same verb βρύχω + ὀδόντας. The feast-imagery of the Abrahamic-reunion in the kingdom draws from Isa 25:6-8 LXX (the Lord will make for all peoples on this mountain a feast of fat things). Matt 8:11-12 is near-parallel logion (at centurion-faith episode rather than Travel-Narrative)."
+      "greek_matches": "related psalm and banquet images",
+      "notes": "Luke uses the noun βρυγμός, gnashing, with “of teeth.” Greek Psalm 111:10 (English 112:10) uses the related verb βρύξει. Matthew 8:12 has Luke’s weeping-and-gnashing expression. The rich food of the feast in Hebrew Isaiah 25:6 is expressed differently in Rahlfs Greek: drinking wine and anointing with perfume. Isaiah provides a banquet parallel for the following verse."
     },
     "LUK 13:29": {
       "type": "allusion",
@@ -4809,8 +4809,8 @@
         "ZEC 12:10",
         "DAN 7:13-14"
       ],
-      "greek_matches": "thematic-fulfillment",
-      "notes": "'Everything written by the prophets about the Son of Man will be fulfilled' (τελεσθήσεται πάντα τὰ γεγραμμένα διὰ τῶν προφητῶν) — Luke's third passion-prediction (cf. LUK 9:22, 9:44) makes explicit the prophetic-fulfillment framework. This is a META-CLAIM over a corpus of prophetic texts, not a single-verse citation: (1) Isa 52:13-53:12 (suffering-servant, delivered over, pierced, vindicated on the third day via Hos 6:2); (2) Ps 22 (mockery, spitting, piercing); (3) Zech 12:10 (pierced one); (4) Dan 7:13-14 (Son-of-Man coming with authority). Luke reinforces this claim post-resurrection at 24:25-27 and 24:44-47 ('everything written about me in the Law of Moses and the Prophets and the Psalms'). Classified as fulfillment_allusion since it invokes a prophetic complex rather than quoting any single text."
+      "greek_matches": "collective prophetic expectation",
+      "notes": "Jesus says that everything written by the prophets concerning the Son of Man will be fulfilled. He does not name a passage. Isaiah 53, Psalm 22, Zechariah 12:10 and Daniel 7:13–14 are listed as possible thematic backgrounds, concerning suffering, piercing and the Son-of-Man figure."
     },
     "LUK 18:7": {
       "type": "allusion",
@@ -4818,8 +4818,8 @@
         "PSA 22:2",
         "PSA 88:1"
       ],
-      "greek_matches": "thematic-echo",
-      "notes": "'Cry out day and night' (βοώντων αὐτῷ ἡμέρας καὶ νυκτός) echoes the lament-prayer posture of Ps 22:2 (MT 22:3 כָּל־הַיּוֹם ... וְלַיְלָה — 'all the day ... and night') and especially Ps 88:1 LXX 87:2 (ἡμέρας ἐκέκραξα καὶ ἐν νυκτὶ ἐναντίον σου — 'day I cried out and by night before you'). The day-and-night-crying-to-God motif is a stock lament-psalm feature (cf. Ps 42:3; 77:2; Lam 2:18) — not a specific quotation but a deliberate invocation of the persecuted-righteous-petitioner tradition. The parable's ἐκλεκτοί (elect) are placed in the same posture as the lament-psalmist."
+      "greek_matches": "thematic echo",
+      "notes": "God’s chosen ones cry to him day and night. Psalm 22:3 in Hebrew numbering (English 22:2, Greek 21:3) has יוֹמָם and וְלַיְלָה, “by day” and “by night.” Psalm 88:2 in Hebrew (English 88:1, Greek 87:2) also relates crying and night. The Psalms compare sustained prayer without quoting Luke’s whole expression."
     },
     "LUK 19:10": {
       "type": "allusion",
@@ -4849,13 +4849,13 @@
       "notes": "Prophetic-weeping echoes. Jer 9:1 LXX 'τίς δώσει τῇ κεφαλῇ μου ὕδωρ καὶ τοῖς ὀφθαλμοῖς μου πηγὴν δακρύων; καὶ κλαύσομαι' (who will give water to my head and fountain of tears to my eyes, and I will weep). Isa 22:4 'let me alone, I will weep bitterly.' Both set the paradigm of prophetic-lament over Jerusalem's coming destruction that Jesus enacts at Luke 19:41. Not direct-citation; conceptual-allusion grounded in the shared prophet-weeping-over-Jerusalem trope. Reinforces that Jesus' tears are prophetic-compassionate, not emotional-collapse."
     },
     "LUK 19:43": {
-      "type": "composite_allusion",
+      "type": "allusion",
       "sources": [
         "ISA 29:3",
         "EZK 4:2"
       ],
-      "greek_matches": "LXX-echo",
-      "notes": "Military-siege language (παρεμβάλλω, χάραξ, περικυκλόω) echoes LXX siege-descriptions. Isa 29:3 LXX κυκλώσω σε χάρακα of Jerusalem siege; Ezek 4:2 παρεμβολαῖς / χάραξ of the symbolic-siege sign-act. Luke's triple-hapax concentration here deliberately invokes prophetic-siege-vocabulary. AD 70 fulfillment: Titus' Roman siege (Josephus Wars 5.12) included circumvallation with exactly these features."
+      "greek_matches": "shared siege vocabulary",
+      "notes": "Rahlfs Isaiah 29:3 describes surrounding the city and then says βαλῶ περὶ σὲ χάρακα, “I will cast up a rampart around you.” Luke has the same siege noun χάρακα in a different construction. Ezekiel 4:2 supplies another siege comparison. Luke identifies the agents as Jerusalem’s enemies."
     },
     "LUK 19:44": {
       "type": "allusion",
@@ -4869,8 +4869,8 @@
         "ISA 56:7",
         "JER 7:11"
       ],
-      "greek_matches": "LXX-verbatim",
-      "notes": "Composite citation. (1) ὁ οἶκός μου οἶκος προσευχῆς = LXX Isa 56:7 verbatim (minus 'παντὶ τῷ λαῷ' / 'for all nations' that Mark retains; Luke omits — focus is commerce-vs-prayer, not Gentile-inclusion here). (2) σπήλαιον λῃστῶν = LXX Jer 7:11 verbatim. JEREMIAH 7 CONTEXT: prophetic-temple-denunciation of those who treat temple as safe-haven despite systematic injustice outside. Jesus applies Jeremiah's whole-temple-indictment to the commercial-misuse. ISAIAH 56 CONTEXT: eschatological-inclusion of foreigners/eunuchs at God's house. Luke's selective-quotation (omitting 'for all nations') keeps focus on the house-of-prayer function against commerce. PARALLEL: MRK 11:17 (includes 'for all nations'), MAT 21:13 (omits 'for all nations', like Luke). LUK-MAT agreement here is notable."
+      "greek_matches": "adapted Isaiah and Jeremiah citations",
+      "notes": "Isaiah 56:7 calls the temple a house of prayer for all nations. Luke introduces “my house” with καὶ ἔσται and abbreviates the rest. Matthew 21:13 also lacks “for all nations,” while Mark 11:17 retains it. Jeremiah 7:11 asks whether the house has become a den of robbers, σπήλαιον λῃστῶν. Luke applies that expression in a statement."
     },
     "LUK 19:9": {
       "type": "allusion",
@@ -5386,7 +5386,7 @@
       "notes": "ἤγγικεν ἡ ἐρήμωσις αὐτῆς echoes the Danielic 'βδέλυγμα τῶν ἐρημώσεων / abomination-of-desolation' vocabulary-cluster (LXX Dan 9:27; 11:31; 12:11). Luke REPLACES Mark 13:14 / Matt 24:15 direct-citation of 'τὸ βδέλυγμα τῆς ἐρημώσεως' with the plain-historical description 'armies-surrounding-Jerusalem' — translating the Danielic prophecy for Greco-Roman readers unfamiliar with the Hebrew-Bible allusion. ἐρήμωσις-vocabulary retained as subtle-echo."
     },
     "LUK 21:22": {
-      "type": "composite_allusion",
+      "type": "allusion",
       "sources": [
         "DEU 32:35",
         "ISA 34:8",
@@ -5395,8 +5395,8 @@
         "JER 46:10",
         "HOS 9:7"
       ],
-      "greek_matches": "LXX-formulaic",
-      "notes": "ἡμέραι ἐκδικήσεως...τοῦ πλησθῆναι πάντα τὰ γεγραμμένα is the Lukan fulfillment-formula applied to OT 'days-of-vengeance' prophetic-tradition. LXX parallels: Deut 32:35 (ἐν ἡμέρᾳ ἐκδικήσεως); Isa 34:8 (ἡμέρα ἐκδικήσεως — Edom-oracle); Isa 61:2 (ἡμέραν...ἀνταποδόσεως); Isa 63:4 (ἡμέρα ἀνταποδόσεως — the Messiah's-treading-of-winepress); Jer 46:10 LXX 26:10 (ἡμέρα ἐκδικήσεως τῷ κυρίῳ — Egypt-oracle); Hos 9:7 (ἥκασιν αἱ ἡμέραι τῆς ἐκδικήσεως). Luke-Acts programmatic-theology of events-as-scripture-fulfillment (cf. LUK 18:31, 22:37, 24:25-27, 24:44-46)."
+      "greek_matches": "days of vengeance and wider judgment themes",
+      "notes": "Hosea 9:7 in Rahlfs says ἥκασιν αἱ ἡμέραι τῆς ἐκδικήσεως, “the days of vengeance have come.” Luke uses related wording in saying these are days of vengeance. Other prophetic texts associate judgment and recompense. Luke names no particular text in saying that all that is written will be fulfilled."
     },
     "LUK 21:23": {
       "type": "composite_allusion",
@@ -5442,14 +5442,14 @@
         "ISA 34:4",
         "JOL 2:10"
       ],
-      "greek_matches": "LXX-lexical",
-      "notes": "αἱ δυνάμεις τῶν οὐρανῶν σαλευθήσονται echoes LXX Hag 2:6 (ἔτι ἅπαξ ἐγὼ σείσω τὸν οὐρανὸν καὶ τὴν γῆν — Zion-oracle of all-nations-shaking; quoted directly Heb 12:26); Isa 34:4 (οἱ οὐρανοὶ ἑλιχθήσονται); Joel 2:10 (σεισθήσεται ὁ οὐρανός). Luke's Greek phrasing follows Mark 13:25 / Matt 24:29 verbatim — synoptic-locked Day-of-the-Lord formula."
+      "greek_matches": "cosmic shaking and heavenly disruption",
+      "notes": "Luke and Matthew 24:29 have a genitive expression for the powers of the heavens. Mark 13:25 instead has αἱ δυνάμεις αἱ ἐν τοῖς οὐρανοῖς. Luke says the powers will be shaken (σαλευθήσονται). Greek Haggai 2:6 uses σείσω with God as subject, while Greek Isaiah 34:4 says the sky will be rolled up (ἑλιγήσεται ὁ οὐρανός). Joel 2:10 likewise describes cosmic upheaval."
     },
     "LUK 21:27": {
-      "type": "citation",
+      "type": "allusion",
       "source": "DAN 7:13-14",
-      "greek_matches": "LXX/Theod-echo",
-      "notes": "DIRECT OT-CITATION: τὸν υἱὸν τοῦ ἀνθρώπου ἐρχόμενον ἐν νεφέλῃ μετὰ δυνάμεως καὶ δόξης πολλῆς quotes Dan 7:13-14. LXX Dan 7:13: ἰδοὺ ἐπὶ τῶν νεφελῶν τοῦ οὐρανοῦ ὡς υἱὸς ἀνθρώπου ἤρχετο; Theod: μετὰ τῶν νεφελῶν τοῦ οὐρανοῦ ὡς υἱὸς ἀνθρώπου ἐρχόμενος ... καὶ αὐτῷ ἐδόθη ἡ ἀρχὴ καὶ ἡ τιμὴ καὶ ἡ βασιλεία. Luke's singular ἐν νεφέλῃ (vs. Mark/Matt's plural) is notable — possibly echoes LUK 9:34-35 Transfiguration-cloud-singular or Acts 1:9 Ascension-cloud-singular. Daniel's vision is ASCENSION-to-Father; Jesus reverses to RETURN-to-earth — christologically foundational transformation. 2nd-Temple messianic interpretation: 1 Enoch 46-48; 4 Ezra 13."
+      "greek_matches": "Danielic figure and cloud imagery",
+      "notes": "The crowds see the Son of Man coming in a cloud, singular ἐν νεφέλῃ. Daniel 7:13 compares the figure to a son of man and speaks of clouds in the plural: Old Greek uses ἐπί, “upon,” and Theodotion μετά, “with.” Luke also mentions great power and glory and does not name a destination in this verse. The allusion does not delimit a verbatim quotation."
     },
     "LUK 21:33": {
       "type": "allusion",
@@ -5545,8 +5545,8 @@
     "LUK 22:64": {
       "type": "allusion",
       "source": "ISA 50:6",
-      "greek_matches": "LXX-thematic",
-      "notes": "The blindfolding + striking + mocking-prophetic-claim echoes LXX Isa 50:6 (τὸν νῶτόν μου δέδωκα εἰς μάστιγας τὰς δὲ σιαγόνας μου εἰς ῥαπίσματα τὸ δὲ πρόσωπόν μου οὐκ ἀπέστρεψα ἀπὸ αἰσχύνης ἐμπτυσμάτων 'I-gave-my-back-to-whippings and-my-cheeks-to-slaps; my-face-I-did-not-turn-from-the-shame-of-spittings'). Third-servant-song (Isa 50:4-9) features the Suffering-Servant enduring physical-abuse without retaliation. Luke's mockery-scene realizes the servant-pattern. Synoptic-parallel MRK 14:65, MAT 26:67-68."
+      "greek_matches": "related humiliation imagery",
+      "notes": "In SBLGNT and NA28 the men cover Jesus and ask him to prophesy who struck him. Robinson–Pierpont also explicitly says that they were striking his face. Greek Isaiah 50:6 mentions beatings, slaps and spitting. The connection with the treatment of Jesus is thematic."
     },
     "LUK 22:69": {
       "type": "citation",

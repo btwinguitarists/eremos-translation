@@ -3054,7 +3054,7 @@ _This reader edition shows the Thai translation and the contextual summary (บ�
 
 **26** คนทั้งหลายจะสลบเพราะความกลัวและเพราะการคาดหมายสิ่งที่กำลังจะเกิดขึ้นกับโลก เพราะฤทธิ์ทั้งหลายในฟ้าสวรรค์จะสั่นสะเทือน
 
-**27** เวลานั้นเองพวกเขาจะเห็น ‘บุตรมนุษย์เสด็จมาในหมู่เมฆ ด้วยฤทธานุภาพและพระสิริอันยิ่งใหญ่’
+**27** เวลานั้นเองพวกเขาจะเห็นบุตรมนุษย์เสด็จมาในเมฆ ด้วยฤทธานุภาพและพระสิริอันยิ่งใหญ่
 
 > _บริบท: ข้อนี้ยกภาพโดยตรงจากดาเนียล 7:13-14 ซึ่งเป็นนิมิตของ “ผู้มีลักษณะเหมือนบุตรมนุษย์” ที่เสด็จมาพร้อมเมฆของฟ้าสวรรค์ไปยัง “ผู้เจริญด้วยวัยวุฒิ” (พระเจ้า) และได้รับอำนาจ พระสิริ และราชอาณาจักร เพื่อปกครองทุกชนชาติตลอดนิรันดร์ ในวรรณคดียิวก่อนพระเยซูและในยุคของพระเยซู (เช่น 1 เอโนค 46-48, 4 เอสรา 13) ข้อนี้ถูกตีความว่าเป็นภาพของพระเมสสิยาห์ พระเยซูทรงใช้คำ “บุตรมนุษย์” เพื่อกล่าวถึงพระองค์เองอย่างชัดเจนว่าเป็นผู้ที่ได้รับพยากรณ์ไว้ในดาเนียล 7 ภาพในที่นี้ไม่ใช่การเสด็จขึ้นไปสู่พระเจ้า (เหมือนในดนล. 7 เอง) แต่เป็นการเสด็จกลับมายังโลกด้วยพระสิริ_
 
@@ -3638,16 +3638,16 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/luke_10.json` | `de63048349964f4dbda8d46e8d71d86fd3dec2e62e4026ab3126a164df69dfe2` |
 | `output/translations/luke_11.json` | `8eda2546fea9461d32c3c41c2fbcd55d3facf9330b3d59841e9c4dbde4b49b1f` |
 | `output/translations/luke_12.json` | `2758c3b045b81048956d0a508760428758f710e5820f96981cf2a7f49f5df576` |
-| `output/translations/luke_13.json` | `3c787c5a17d0591bcc5763303a37a6eef11bd8f782aab251dc3cc58aa3f23daf` |
+| `output/translations/luke_13.json` | `48d01b8de6f50bf18a41f63a1f8e6d049b16c3310190895c284e31ee225572a3` |
 | `output/translations/luke_14.json` | `03fc024567fcd43cc67b1d03ae024e2da46164062744cdb5139ec19a140de1da` |
 | `output/translations/luke_15.json` | `08d274318494dc4366c44430d97c77f9ce8b3a51751d1e01b64cdbca3e2f00af` |
 | `output/translations/luke_16.json` | `e080589a07dc5f734970591cd991785b371deac29143c3d5e2deb40055f74be1` |
 | `output/translations/luke_17.json` | `8c561b919e0088eb5909506121660432650eb85da0b2c3ca9577673f99aa4bfb` |
-| `output/translations/luke_18.json` | `b29f0aa7bdf97181051bc2a688c8d816e56d9af7d04596e8442949d20a9e5202` |
-| `output/translations/luke_19.json` | `ccea746e5beb10241af7ca5eaab281166c262e3a7498c77f08facc24cfff9e6c` |
+| `output/translations/luke_18.json` | `4dc1f6d7f238d38fabad240c41e4b65ab6a37be355833a6ebf15363ce0fdd8c7` |
+| `output/translations/luke_19.json` | `469c87df57afe8e196067e67e740b627e691b7b787e5d3bb89413d475d86a4d2` |
 | `output/translations/luke_20.json` | `c5385992c39cdade644a93068e7567a33cff38527ce9519eec026afdad62d05a` |
-| `output/translations/luke_21.json` | `a9243f4ef82dff86569573fce584d94be780f435709cca53cb2cccd78d813894` |
-| `output/translations/luke_22.json` | `2af1f4ab0fd98bb64f31e256fb46b4abea75e1fdcb968c21d21fc4778213ac50` |
+| `output/translations/luke_21.json` | `ca4d37358ae0e155b267c4333bbf02e2885a2258f4aa41385de4abf75560bb3e` |
+| `output/translations/luke_22.json` | `e77e5ebd8e9741ebcd2e58f521a6b99a83053c91f3e8edf42d2ecb5f8a097903` |
 | `output/translations/luke_23.json` | `3cacc9b2efc8c8d839508a378008b129c077d8e9b0e6b3a010a60fadab42e468` |
 | `output/translations/luke_24.json` | `d1a551c195b281d097e3264cbcde284e41efe12425ad9d458d8086fa113019d9` |
 

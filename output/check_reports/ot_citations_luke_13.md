@@ -12,7 +12,7 @@ NT-to-OT links found: **14** / 35 verses
 - **Luke 13:21** — GEN 18:6 (allusion)
 - **Luke 13:25** — AMO 3:2, JER 24:5-10, MAT 25:12 (composite_allusion)
 - **Luke 13:27** — PSA 6:8 (direct_citation)
-- **Luke 13:28** — PSA 112:10, ISA 25:6-8, MAT 8:11-12 (composite_allusion)
+- **Luke 13:28** — PSA 112:10, ISA 25:6-8, MAT 8:11-12 (allusion)
 - **Luke 13:29** — PSA 107:3, ISA 43:5-6, ISA 49:12, MAL 1:11 (allusion)
 - **Luke 13:32** — HOS 6:2, EZK 37:3-14 (allusion)
 - **Luke 13:33** — 2CH 24:20-22, JER 26:20-23 (composite_allusion)
