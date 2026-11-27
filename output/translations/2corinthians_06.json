@@ -33,7 +33,7 @@
     "translation": {
       "thai": "เพราะพระองค์ตรัสว่า ‘ในเวลาแห่งความโปรดปราน เราได้ฟังเจ้า และในวันแห่งความรอด เราได้ช่วยเจ้า’ ดูเถิด บัดนี้คือเวลาแห่งความโปรดปราน ดูเถิด บัดนี้คือวันแห่งความรอด",
       "thai_literal": null,
-      "thai_summary": "ข้อ 2 เปาโลอ้างพระคัมภีร์อิสยาห์ 49:8 (LXX) ที่พระเจ้าตรัสกับ ‘ผู้รับใช้ของพระองค์’ (พระคริสต์) ว่าจะตอบในเวลาที่เหมาะสม เปาโลใช้คำพยากรณ์นี้แสดงว่า ‘เวลานั้น’ คือ ‘บัดนี้’ — ยุคของพระเมสสิยาห์เริ่มต้นแล้ว เป็นโอกาสสำคัญที่ต้องตอบสนองต่อข่าวประเสริฐ ไม่ควรเลื่อนการกลับใจออกไป",
+      "thai_summary": "เปาโลนำคำจากอิสยาห์ 49:8 เรื่องเวลาแห่งความโปรดปรานและวันแห่งความรอดมาใช้กับผู้ฟังของเขา คำว่า “บัดนี้” ที่กล่าวซ้ำทำให้เห็นว่าเวลานั้นมาถึงพวกเขาแล้ว",
       "key_decisions": [
         {
           "greek": "Καιρῷ δεκτῷ ἐπήκουσά σου καὶ ἐν ἡμέρᾳ σωτηρίας ἐβοήθησά σοι",
@@ -46,7 +46,7 @@
           "rationale": "Pauline-application: 'NOW is the day' — Pauline-realized-eschatology. εὐπρόσδεκτος (NT freq=5) intensified-form of δεκτός = 'well-acceptable / most-favorable.' Thai 'ความโปรดปราน' for both (cognate-cluster preserved); the intensifier is implicit in Thai parallel. ἰδού → 'ดูเถิด' (corpus standard exclamatory)."
         }
       ],
-      "notes": "OT QUOTATION: LXX Isaiah 49:8. Greek matches LXX exactly. Will be added to nt_ot_citations.json. ἐπακούω = NT HAPAX. εὐπρόσδεκτος = NT freq=5. Pauline-realized-eschatology: the Servant-Song's promise is FULFILLED NOW in the gospel-era."
+      "notes": "After his introductory formula, Paul quotes Greek Isaiah 49:8. He then applies the words to the present with two declarations beginning “now.” The quotation uses δεκτός and Paul’s application the related εὐπρόσδεκτος. The Thai keeps the language of favor in both. The quotation is registered at 2 Corinthians 6:2."
     }
   },
   {
@@ -118,10 +118,10 @@
         {
           "greek": "ἐν κόποις, ἐν ἀγρυπνίαις, ἐν νηστείαις",
           "thai": "ในการตราκตรำ ในการอดนอน ในการอดอาหาร",
-          "rationale": "THIRD TRIAD — self-imposed/voluntary sufferings. κόπος → 'การตราκตรำ' (corpus lock 1 Co 3:8). ἀγρυπνία (NT freq=2) = 'sleeplessness' → 'การอดนอน' (= 'being-without-sleep'). νηστεία → 'การอดอาหาร' (corpus pattern from Acts 13:3 'ถืออดอาหาร' — here non-religious-fasting = involuntary-hunger; Thai 'การอดอาหาร' covers both senses)."
+          "rationale": "κόποι are labors and ἀγρυπνίαι are periods of wakefulness. νηστεῖαι can refer to chosen fasts or to occasions without food. In this list of hardships the Thai emphasizes deprivation."
         }
       ],
-      "notes": "Three triads structure (per peristasis-rhetoric): externally-imposed (vv.4b-5) → personal-virtues (v.6) → manner-of-ministry (vv.7-10). Pauline self-presentation as suffering-servant credentialed-by-tribulation."
+      "notes": "Paul names beatings, imprisonments, disturbances, hard work, sleeplessness and going without food. The verse does not assign a single cause or motive to these last three experiences."
     }
   },
   {
@@ -223,10 +223,10 @@
         {
           "greek": "ὡς παιδευόμενοι καὶ μὴ θανατούμενοι",
           "thai": "ถูกอบรมสั่งสอนด้วยการลงโทษ แต่ไม่ถูกประหารชีวิต",
-          "rationale": "παιδεύω → 'อบรมสั่งสอน' (corpus lock from 1 Co 11:32 'ได้รับการอบรมสั่งสอน'). Here passive 'being-disciplined.' Echo of Ps 118:18 LXX 'παιδεύων ἐπαίδευσέν με ὁ κύριος, καὶ τῷ θανάτῳ οὐ παρέδωκέν με' — Pauline-OT-quotation embedded. Thai 'ด้วยการลงโทษ' adds explicit-discipline sense (Greek παιδεύω carries punitive-correction nuance). θανατόω → 'ประหารชีวิต' (= 'put-to-death')."
+          "rationale": "Paul’s paired participles recall the pattern in Psalm 118:18, Greek 117:18. The apostle describes being disciplined and nevertheless remaining alive."
         }
       ],
-      "notes": "OT ECHO at 6:9: Psalm 118:18 LXX (Ps 119:18 MT) — 'παιδεύων ἐπαίδευσέν με ὁ κύριος, καὶ τῷ θανάτῳ οὐ παρέδωκέν με' — Pauline-direct-allusion. Will be added to nt_ot_citations.json."
+      "notes": "Psalm 117:17–18 in Greek (118:17–18 in Hebrew and Thai) pairs life with death and says that the Lord disciplined the speaker without delivering him to death. Paul echoes that pattern with participles describing discipline and survival. His wording and death verb differ from the psalm."
     }
   },
   {
@@ -411,7 +411,7 @@
           "rationale": "Composite OT-quotation: Lev 26:11-12 + Ezek 37:27 (covenant-formula-echo). ἐνοικέω 'dwell-in' → 'สถิตใน' (royal-dwelling-among-people). ἐμπεριπατέω = NT-HAPAX (freq=1, only here) = 'walk-among' (compound ἐν + περι + πατέω) → 'ดำเนินอยู่ท่ามกลาง.' λαός → 'ชนชาติ' (covenant-people sense, cf 1 Co 14:21 'ชนชาตินี้'). Curly single quotes for OT-quote (RULES §5b). The 'I-will-be-their-God / they-will-be-my-people' is the OT covenant-formula par excellence (Gen 17:7-8, Exod 6:7, Lev 26:12, Jer 31:33, Ezek 36:28, etc.)."
         }
       ],
-      "notes": "συγκατάθεσις + ἐμπεριπατέω BOTH NT HAPAXES. OT QUOTATION: Lev 26:11-12 + Ezek 37:27 (composite). The covenant-formula 'I-their-God / they-my-people' echoes throughout OT — Paul applies it to the believing-community-as-temple."
+      "notes": "The selected Greek and NA28 say “we are” the living God’s temple. Robinson–Pierpont says “you are.” Greek Leviticus 26:12 gives the promise of walking among the people. Greek Ezekiel 37:27 sets God’s dwelling among them alongside the reciprocal covenant formula. Paul applies the temple image to the community together. The final phrase “my people” has the possessive μου in SBLGNT and the dative μοι in Robinson–Pierpont."
     }
   },
   {
@@ -436,7 +436,7 @@
           "rationale": "ἀκάθαρτος → 'มลทิน' (= 'ritual-impurity'; corpus from 1 Co 7:14 'ภรรยาที่ไม่เชื่อ' indirect; Acts 8:7 'วิญญาณโสโครก'). For 'unclean-thing' here → 'สิ่งที่เป็นมลทิน' captures the Levitical-purity-context. εἰσδέχομαι = NT-HAPAX (freq=1, only here) → 'รับ' (= 'receive / welcome'). The closing-quote at end of v.17 (or possibly extending through v.18 — see v.18 note)."
         }
       ],
-      "notes": "OT QUOTATION: Isa 52:11 (LXX) + Ezek 20:34, 41 (LXX). εἰσδέχομαι = NT HAPAX. Quote-chain extends from v.16 through v.18 (Pauline-stitched-OT-catena)."
+      "notes": "Isaiah 52:11 supplies the commands to depart and to avoid contact with uncleanness. Ezekiel 20:34 has the matching future εἰσδέξομαι ὑμᾶς, “I will receive you.” In Ezekiel 20:41 the first verb is προσδέξομαι and the related εἰσδέχεσθαι is an infinitive. The Thai quotation marks present these clauses together."
     }
   },
   {
