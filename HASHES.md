@@ -902,13 +902,13 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/nahum_01.json` | 14 | `bbab165da07e8e55cf037a31fe39d467ccc5cd83eeb123c2179a8444d6c4971a` | `49c2d08e` |
 | `output/translations/nahum_02.json` | 14 | `7a88bf98797b323054dad38692e4d01bb93394bad8d9720a3a142c8f72a1ee92` | `9e7a6e89` |
 | `output/translations/nahum_03.json` | 19 | `6efe5c9364d833b147f8af638b1fbdba528edc14fc14ade56d15e471ce7fa22c` | `2152d65f` |
-| `output/translations/nehemiah_01.json` | 11 | `a2d75e6a6ca1b3c460a755b1feffe80c49d0b61efc5f3ecdad6b5feaee6aa228` | `d34d7149` |
+| `output/translations/nehemiah_01.json` | 11 | `1400653bf66cc3f41d3b4707d24d0423d2f4ae2cf28e5d8e26f9b7f2593a2f0f` | `d34d7149` |
 | `output/translations/nehemiah_02.json` | 20 | `198d1629662dffce69e7096e86367204a644e489701e8160842376612bd788f8` | `8bc9e3fa` |
 | `output/translations/nehemiah_03.json` | 38 | `41dad60597403bc393e430e3e47ee1d4d65b7e1fc15c5efeb63365b4fe330a6f` | `29836920` |
 | `output/translations/nehemiah_04.json` | 17 | `67fac22bd8928a4f3bde9d8eeb0dff9a1397c77837c722c615b2661be94668ce` | `a8f6ff84` |
 | `output/translations/nehemiah_05.json` | 19 | `0079c73e58cad14fbc159a10e8f6d06ce6a05d2a8c78f91cf8b21d25252e11f4` | `ec131346` |
 | `output/translations/nehemiah_06.json` | 19 | `6669aa014b9aa9d193d9708fd82e1a3657477cfa9f5d10c3b82c335d4ad52891` | `bf079075` |
-| `output/translations/nehemiah_07.json` | 72 | `c9ed444cb4d1ea876fd902fe377848e3e2421e4388fbfde842899d57433864fa` | `62b9379e` |
+| `output/translations/nehemiah_07.json` | 72 | `76c602f68064bcb0035546af7a15ad08d7117cc3d79effa2b0dd93a2dd806dc9` | `62b9379e` |
 | `output/translations/nehemiah_08.json` | 18 | `308793f56384f8f9158d1b768b687032788d921d5925023ee161609e389e2edf` | `3780244f` |
 | `output/translations/nehemiah_09.json` | 37 | `0063ba622ef0cc90f726e47ab8ec151fef5b3e733051c6695d6ba72ab23ff0c7` | `b0f5bca6` |
 | `output/translations/nehemiah_10.json` | 40 | `b9abde70b9d85f1380b4327e41932c2e630d6651ce139535584b16d8bf8637b4` | `151c72ad` |

@@ -310,7 +310,7 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 **6** ต่อไปนี้คือประชาชนของแคว้นที่กลับขึ้นมาจากการเป็นเชลย ผู้ที่เนบูคัดเนสซาร์กษัตริย์แห่งบาบิโลนได้กวาดต้อนไป พวกเขากลับมายังกรุงเยรูซาเล็มและยูดาห์ ต่างกลับสู่เมืองของตน
 
-**7** ผู้ที่กลับมาพร้อมกับเซรุบบาเบล ได้แก่ เยชูอา เนหะมีย์ อาซาริยาห์ ราอามียาห์ นาฮามานี โมรเดคัย บิลชาน มิสเปเรท บิกวัย เนฮูม และบาอานาห์ จำนวนชายของชนชาติอิสราเอลมีดังนี้
+**7** ผู้ที่กลับมาพร้อมกับเศรุบบาเบล ได้แก่ เยชูอา เนหะมีย์ อาซาริยาห์ ราอามียาห์ นาฮามานี โมรเดคัย บิลชาน มิสเปเรท บิกวัย เนฮูม และบาอานาห์ จำนวนชายของชนชาติอิสราเอลมีดังนี้
 
 **8** ลูกหลานของฟาโรช 2,172 คน
 
@@ -910,13 +910,13 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/nehemiah_01.json` | `a2d75e6a6ca1b3c460a755b1feffe80c49d0b61efc5f3ecdad6b5feaee6aa228` |
+| `output/translations/nehemiah_01.json` | `1400653bf66cc3f41d3b4707d24d0423d2f4ae2cf28e5d8e26f9b7f2593a2f0f` |
 | `output/translations/nehemiah_02.json` | `198d1629662dffce69e7096e86367204a644e489701e8160842376612bd788f8` |
 | `output/translations/nehemiah_03.json` | `41dad60597403bc393e430e3e47ee1d4d65b7e1fc15c5efeb63365b4fe330a6f` |
 | `output/translations/nehemiah_04.json` | `67fac22bd8928a4f3bde9d8eeb0dff9a1397c77837c722c615b2661be94668ce` |
 | `output/translations/nehemiah_05.json` | `0079c73e58cad14fbc159a10e8f6d06ce6a05d2a8c78f91cf8b21d25252e11f4` |
 | `output/translations/nehemiah_06.json` | `6669aa014b9aa9d193d9708fd82e1a3657477cfa9f5d10c3b82c335d4ad52891` |
-| `output/translations/nehemiah_07.json` | `c9ed444cb4d1ea876fd902fe377848e3e2421e4388fbfde842899d57433864fa` |
+| `output/translations/nehemiah_07.json` | `76c602f68064bcb0035546af7a15ad08d7117cc3d79effa2b0dd93a2dd806dc9` |
 | `output/translations/nehemiah_08.json` | `308793f56384f8f9158d1b768b687032788d921d5925023ee161609e389e2edf` |
 | `output/translations/nehemiah_09.json` | `0063ba622ef0cc90f726e47ab8ec151fef5b3e733051c6695d6ba72ab23ff0c7` |
 | `output/translations/nehemiah_10.json` | `b9abde70b9d85f1380b4327e41932c2e630d6651ce139535584b16d8bf8637b4` |
