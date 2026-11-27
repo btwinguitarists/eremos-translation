@@ -37,7 +37,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/1chronicles_16.json` | 43 | `7c01be86b03db6abe93a4bddef6fcb5d9fd6c17717b6014b4592cf811e922da4` | `149dd4f7` |
 | `output/translations/1chronicles_17.json` | 27 | `0a48581a21b182da71315c101d81d6260e89706af1bc203efa710afce76b982d` | `16ab949e` |
 | `output/translations/1chronicles_18.json` | 17 | `f5971f9e8731d99a97a64484a71cab4388e7c0c9133e65c086342a6bd24903cf` | `4df074cc` |
-| `output/translations/1chronicles_19.json` | 19 | `7e925be958884dc65ed0773d8525e318009d441885b4b77d21988c44f3156d34` | `eb52d423` |
+| `output/translations/1chronicles_19.json` | 19 | `7e9f61697e9d5943497a186e373c138234166e01514c1a93f0c61742e8a17524` | `eb52d423` |
 | `output/translations/1chronicles_20.json` | 8 | `30f660bbdaece5b7fb65aada7a6ad56059459365436f11c419de9adf557aa7af` | `b70d28e0` |
 | `output/translations/1chronicles_21.json` | 30 | `bf354292caf5ef30bb3d3062e2c1cb78982c8906d8bd1b278be72fc48894c5a3` | `dad4395d` |
 | `output/translations/1chronicles_22.json` | 19 | `e59aa4980b4e8b5b9c2293dba117a0e2509340d6522ee452542d032cb2267c66` | `1aa31ee9` |
@@ -46,7 +46,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/1chronicles_25.json` | 31 | `50287eecd41e6183c60fb8b74023fc77df94866f9788a1b94466c9c42e12972a` | `6e6689f0` |
 | `output/translations/1chronicles_26.json` | 32 | `6ac78552e5ea8c7ee1858c01982fa1aab5c4dc07289fc4a0e2b560f53777d627` | `7aa6c6ef` |
 | `output/translations/1chronicles_27.json` | 34 | `5cf248326d17c8e15e7f43fa3f9e287a41a5037ac112833883bccd03ef98595f` | `d76eebcf` |
-| `output/translations/1chronicles_28.json` | 21 | `a59ddfd384c76f1489b12e31650ca3e390fae9d7a533f81c02e3abdf28431ac8` | `dad4395d` |
+| `output/translations/1chronicles_28.json` | 21 | `af1417772f93fca4a8a624e87ef46210cf3653a484c4ec4e781feb9f87c85d8f` | `dad4395d` |
 | `output/translations/1chronicles_29.json` | 30 | `e0cfced063679cd011f005f3f37714fc5817c43e2342652425faaea97ba533e6` | `448aaaa9` |
 | `output/translations/1corinthians_01.json` | 31 | `8fe037408a33ea46742512e6d4741d9a035ddc8127501975619c18e4bd65b4d0` | `36851db2` |
 | `output/translations/1corinthians_02.json` | 16 | `f89965365f3b0cad6b1261fe5cd39b2da70105281caa91fd248c10286a72374d` | `15641671` |
