@@ -396,7 +396,7 @@
     "greek": "Οὐαί σοι,Χοραζίν·οὐαί σοι,Βηθσαϊδά·ὅτι εἰ ἐν Τύρῳ καὶ Σιδῶνι ἐγενήθησαν αἱ δυνάμεις αἱ γενόμεναι ἐν ὑμῖν,πάλαι ἂν ἐν σάκκῳ καὶ σποδῷ καθήμενοι μετενόησαν.",
     "bsb_english": "Woe to you, Chorazin! Woe to you, Bethsaida! For if the miracles that were performed in you had been performed in Tyre and Sidon, they would have repented long ago, sitting in sackcloth and ashes.",
     "translation": {
-      "thai": "วิบัติแก่เจ้า โคราซิน วิบัติแก่เจ้า เบธไซดา เพราะหากการอัศจรรย์ทั้งหลายที่ได้กระทำในเจ้าได้กระทำในเมืองไทระและไซดอน ชาวเมืองนั้นคงจะกลับใจตั้งแต่นานแล้ว นั่งในผ้ากระสอบและขี้เถ้า",
+      "thai": "วิบัติแก่เจ้า โคราซิน วิบัติแก่เจ้า เบธไซดา เพราะหากการอัศจรรย์ทั้งหลายที่ได้กระทำในเมืองทั้งสองของพวกเจ้าได้กระทำในเมืองไทระและไซดอน ชาวเมืองทั้งสองคงจะสวมผ้ากระสอบนั่งบนขี้เถ้าและกลับใจตั้งแต่นานแล้ว",
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
@@ -422,11 +422,11 @@
         },
         {
           "greek": "πάλαι ἂν ἐν σάκκῳ καὶ σποδῷ καθήμενοι μετενόησαν",
-          "thai": "ชาวเมืองนั้นคงจะกลับใจตั้งแต่นานแล้ว นั่งในผ้ากระสอบและขี้เถ้า",
-          "rationale": "Per uW figs-hypo: counterfactual-past conditional. πάλαι 'long ago.' μετανοέω → กลับใจ (RULES §4 non-negotiable). Note: earlier draft used 'กลับใจใหม่' for Thai naturalness; normalized 2026-04-23 to plain 'กลับใจ' to maintain the RULES §4 corpus-lock — see translator_decisions/metanoeo_vs_metamelomai_2026-04.md. πάλαι rendered as 'ตั้งแต่นานแล้ว' ('since a long time ago'). Per uW translate-symaction: σάκκος καὶ σποδός = repentance gesture. Thai 'ผ้ากระสอบและขี้เถ้า' literal-+-cultural rendering standard in Thai Bibles."
+          "thai": "ชาวเมืองทั้งสองคงจะสวมผ้ากระสอบนั่งบนขี้เถ้าและกลับใจตั้งแต่นานแล้ว",
+          "rationale": "The people of Tyre and Sidon are the implicit subject of the counterfactual. The Thai names both towns collectively and pictures their people wearing sackcloth and sitting on ashes in repentance."
         }
       ],
-      "notes": "Parallels Matt 11:21-22 (Q-material). Chorazin + Bethsaida were Galilean towns where Jesus performed miracles (Chorazin not elsewhere attested in NT despite miracle-implication here; Bethsaida home of Peter/Andrew/Philip per John 1:44). Tyre + Sidon = Phoenician Gentile-cities notorious for wickedness (Isa 23; Ezek 26-28; Amos 1:9-10 denunciations). Sackcloth + ashes = stock OT repentance-symbol (Jonah 3:5-6 Nineveh; Dan 9:3; Esth 4:1-3; 1 Kgs 21:27 Ahab). The rhetorical force: pagan-Phoenicians would have repented; Jewish-Galilean towns given revelation did not. This inverts expected-outcome and rebukes insider-privilege."
+      "notes": "Matthew 11:21 also names Chorazin and Bethsaida when contrasting their response with the response expected of Tyre and Sidon. Both sayings refer to mighty deeds in the Galilean towns without narrating a specific miracle in Chorazin. Sackcloth and ashes express repentance, as in Jonah 3:5–6."
     }
   },
   {
@@ -1216,19 +1216,19 @@
     "greek": "Ἐν δὲ τῷ πορεύεσθαι αὐτοὺς αὐτὸς εἰσῆλθεν εἰς κώμην τινά·γυνὴ δέ τις ὀνόματι Μάρθα ὑπεδέξατο αὐτὸν.",
     "bsb_english": "As they traveled along, Jesus entered a village where a woman named Martha welcomed Him into her home.",
     "translation": {
-      "thai": "ขณะที่พระเยซูและเหล่าสาวกเดินทางไป พระองค์เสด็จเข้าไปในหมู่บ้านแห่งหนึ่ง หญิงคนหนึ่งชื่อมารธาได้ต้อนรับพระองค์ไว้ในบ้านของนาง",
+      "thai": "ขณะที่พระเยซูและเหล่าสาวกเดินทางไป พระองค์เสด็จเข้าไปในหมู่บ้านแห่งหนึ่ง หญิงคนหนึ่งชื่อมารธาได้ต้อนรับพระองค์",
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
         {
           "greek": "Ἐν δὲ τῷ πορεύεσθαι αὐτοὺς",
           "thai": "ขณะที่พระเยซูและเหล่าสาวกเดินทางไป",
-          "rationale": "Per uW writing-newevent: temporal-articular-infinitive marks new event. Per uW figs-synecdoche: αὐτόν 'he entered' = group of Jesus-and-disciples. Thai makes the group-reference explicit."
+          "rationale": "The opening infinitive has the plural subject αὐτούς, “they,” rendered as Jesus and his disciples. The following finite verb εἰσῆλθεν is singular and describes Jesus entering."
         },
         {
           "greek": "εἰσῆλθεν εἰς κώμην τινά",
           "thai": "พระองค์เสด็จเข้าไปในหมู่บ้านแห่งหนึ่ง",
-          "rationale": "Divine-movement → เสด็จ. Unnamed village here; John 11:1, 12:1-3 identifies as Bethany."
+          "rationale": "Jesus enters an unnamed village. John 11:1 associates Martha and Mary with Bethany, which suggests a possible identification."
         },
         {
           "greek": "γυνὴ δέ τις ὀνόματι Μάρθα",
@@ -1237,11 +1237,11 @@
         },
         {
           "greek": "ὑπεδέξατο αὐτὸν",
-          "thai": "ได้ต้อนรับพระองค์ไว้ในบ้านของนาง",
-          "rationale": "ὑποδέχομαι aor-mid 'receive-as-guest (in one's house).' Thai adds 'ไว้ในบ้านของนาง' to make the hospitality-location explicit, matching the fuller-implication of the Greek verb."
+          "thai": "ได้ต้อนรับพระองค์",
+          "rationale": "SBLGNT and NA28 say that Martha welcomed him. Westcott–Hort adds “into the house”; Tregelles and Robinson–Pierpont add “into her house.” Hospitality is clear from the selected verb itself."
         }
       ],
-      "notes": "Luke's 'travel-narrative' (9:51-19:27) arc continues; unnamed village here, identified as Bethany in John 11:1, 12:1-3. Martha (Aramaic מָרְתָא 'mistress, lady') is named as household-head — suggests she is the owner or at least the responsible-hostess. Luke's portrayal here and John's portrayal (Lazarus's sisters, John 11) are consistent: Martha the active, Mary the contemplative."
+      "notes": "Martha welcomes Jesus as the group travels. Luke gives no village name or statement of property ownership. John 11:1 associates Martha and Mary with Bethany. The explicit house phrase belongs to a variant reading."
     }
   },
   {
