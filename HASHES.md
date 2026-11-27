@@ -465,7 +465,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/galatians_02.json` | 21 | `8af726c9545f70b6237e627ec84eb1e930e58007f100a3c61b5e47e22685009d` | `d03c3a1a` |
 | `output/translations/galatians_03.json` | 29 | `ad127a8a4bec388e1365c9e7bf39b29b0b4ea7cef243cd67d6e4160f6dc79bd0` | `fcff53c6` |
 | `output/translations/galatians_04.json` | 31 | `365acbd0672a29aa902e644de0aa75ddd615366ffce3c278a2702375dcbcb9a6` | `4ec829e4` |
-| `output/translations/galatians_05.json` | 26 | `6bd41bb7207275e44439bfe03d1a188935c6725957a4c44ccf02618b8266c620` | `3881232b` |
+| `output/translations/galatians_05.json` | 26 | `5ff38add17bb84ee1a9ef91cb4971cb529ca3d121d7e251b46585a011787c90e` | `3881232b` |
 | `output/translations/galatians_06.json` | 18 | `af15842f7a276c49e8127c87137c2af6e4a9adb2da48ebb5e7a6fb2e736deb1a` | `4ec829e4` |
 | `output/translations/genesis_01.json` | 31 | `e65340893c9db735636d4ece74bc04baa7640511d4efa2f7ccc22639159d6fe3` | `22fa6385` |
 | `output/translations/genesis_02.json` | 25 | `5132c4a475fbc176b356190629f219ce220f3ec34fba609e0a3ea431ed3ba03d` | `d03c3a1a` |
