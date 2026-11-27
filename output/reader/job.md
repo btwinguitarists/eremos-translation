@@ -2270,7 +2270,7 @@ _ข้อนี้มีข้อความฮีบรูที่ต่า�
 
 **22** ไม่มีความมืดหรือเงาแห่งความตายที่ผู้ทำความชั่วจะซ่อนตัวได้
 
-**23** เพราะพระเจ้าไม่จำเป็นต้องตรวจสอบมนุษย์ต่อไป หรือให้เขาเข้ามารับการพิพากษา
+**23** เพราะพระเจ้าไม่จำเป็นต้องทรงตรวจสอบมนุษย์ต่อไป หรือให้เขาเข้ามารับการพิพากษา
 
 **24** พระองค์ทรงทำลายผู้มีอำนาจโดยไม่ต้องสอบสวน และทรงตั้งคนอื่นขึ้นแทนที่พวกเขา
 
@@ -2292,7 +2292,7 @@ _ข้อนี้มีข้อความฮีบรูที่ต่า�
 
 **32** ขอทรงสอนข้าพระองค์ในสิ่งที่ข้าพระองค์มองไม่เห็น หากข้าพระองค์ทำผิด ข้าพระองค์จะไม่ทำอีก’
 
-**33** พระเจ้าควรตอบแทนตามเงื่อนไขของท่านหรือ ในเมื่อท่านปฏิเสธพระองค์ ท่านต้องเป็นผู้เลือก มิใช่ข้า ฉะนั้นจงบอกสิ่งที่ท่านรู้มา
+**33** พระเจ้าควรทรงตอบแทนตามเงื่อนไขของท่านหรือ ในเมื่อท่านปฏิเสธพระองค์ ท่านต้องเป็นผู้เลือก มิใช่ข้า ฉะนั้นจงบอกสิ่งที่ท่านรู้มา
 
 **34** คนที่มีความเข้าใจจะกล่าวแก่ข้า และคนมีปัญญาที่ฟังข้าจะพูดว่า
 
@@ -2883,7 +2883,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/job_01.json` | `a81444608cc635aaddb3737c47045e1ff0fb6cc239d818e2e99ecc9f5a53ea7d` |
+| `output/translations/job_01.json` | `af1288286d816354530298ee5dc122159add44755f5876f7caca7314621c1e64` |
 | `output/translations/job_02.json` | `49b5d6d22317938154966256665b24d6cba4ab1527005288e7bc8e7cf7dd88fc` |
 | `output/translations/job_03.json` | `56d33a94946b316de68141d4e9ec9e28707b1cfaa275acad87d4ba8ebdb29742` |
 | `output/translations/job_04.json` | `92216466ef3a3333e63120496a73ce787f0811e2095f1e65b2cc6eb7b92db365` |
@@ -2916,7 +2916,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/job_31.json` | `558e10ab0722f290d61f20023a260c2f9f4bbd81f4f471ea95ffd9f0f7be14db` |
 | `output/translations/job_32.json` | `1ae42d4e5772543df2a7f4efc8d2d300e67405efc5209372a8f8ef7418d919a9` |
 | `output/translations/job_33.json` | `cfb15acf7076805e8e3591273268f0e8e993e32d4a160da692f3c03306344c43` |
-| `output/translations/job_34.json` | `aabab33ea93b0cfb25517bedb531a474e34af7e02612155322fb1e3486766a3c` |
+| `output/translations/job_34.json` | `3bb557915426cc7598f1e8d02d04180bfd1eeb3ec6e70cb0dcbd8ebc7ffda38e` |
 | `output/translations/job_35.json` | `b5fb8efcddab8f223499e81dc904cdbf3ba8dc124efb1f58b3e8ef345b716eeb` |
 | `output/translations/job_36.json` | `d40c6a788cae0c64b04f10fa8b988efc5023a62ea98b53f7c511c9a7ca182c27` |
 | `output/translations/job_37.json` | `8f3cfff4af15a703c598be3211151ab16fe156dce087549380fd2f6d00599e10` |

@@ -672,7 +672,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/jeremiah_50.json` | 46 | `5019eafbbfa9cd27563d0b52d0e490f1bf2d9ffc51df9a0a15e51faf93d5b3b8` | `2118e3a6` |
 | `output/translations/jeremiah_51.json` | 64 | `59bcfb835630085c303fc95aaa85a9ef81a2eb18c3524fe134f00054e13e9e23` | `ddd2e92d` |
 | `output/translations/jeremiah_52.json` | 34 | `0b683aeff021c90e345bb2aecb0425afe5b49032b6349c74005689b09476774c` | `9f9e05d9` |
-| `output/translations/job_01.json` | 22 | `a81444608cc635aaddb3737c47045e1ff0fb6cc239d818e2e99ecc9f5a53ea7d` | `b0076026` |
+| `output/translations/job_01.json` | 22 | `af1288286d816354530298ee5dc122159add44755f5876f7caca7314621c1e64` | `b0076026` |
 | `output/translations/job_02.json` | 13 | `49b5d6d22317938154966256665b24d6cba4ab1527005288e7bc8e7cf7dd88fc` | `f25861cd` |
 | `output/translations/job_03.json` | 26 | `56d33a94946b316de68141d4e9ec9e28707b1cfaa275acad87d4ba8ebdb29742` | `71ffc4d9` |
 | `output/translations/job_04.json` | 21 | `92216466ef3a3333e63120496a73ce787f0811e2095f1e65b2cc6eb7b92db365` | `b896556f` |
@@ -705,7 +705,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/job_31.json` | 40 | `558e10ab0722f290d61f20023a260c2f9f4bbd81f4f471ea95ffd9f0f7be14db` | `d27acde3` |
 | `output/translations/job_32.json` | 22 | `1ae42d4e5772543df2a7f4efc8d2d300e67405efc5209372a8f8ef7418d919a9` | `d20bc03a` |
 | `output/translations/job_33.json` | 33 | `cfb15acf7076805e8e3591273268f0e8e993e32d4a160da692f3c03306344c43` | `65b0fc80` |
-| `output/translations/job_34.json` | 37 | `aabab33ea93b0cfb25517bedb531a474e34af7e02612155322fb1e3486766a3c` | `21786a3b` |
+| `output/translations/job_34.json` | 37 | `3bb557915426cc7598f1e8d02d04180bfd1eeb3ec6e70cb0dcbd8ebc7ffda38e` | `21786a3b` |
 | `output/translations/job_35.json` | 16 | `b5fb8efcddab8f223499e81dc904cdbf3ba8dc124efb1f58b3e8ef345b716eeb` | `3bb955c6` |
 | `output/translations/job_36.json` | 33 | `d40c6a788cae0c64b04f10fa8b988efc5023a62ea98b53f7c511c9a7ca182c27` | `ee7c3c51` |
 | `output/translations/job_37.json` | 24 | `8f3cfff4af15a703c598be3211151ab16fe156dce087549380fd2f6d00599e10` | `c220fa62` |
