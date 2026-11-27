@@ -6,8 +6,10 @@
 | Divine names (locked Tetragrammaton) | ✅ clean | [divine_names_daniel_03.md](divine_names_daniel_03.md) |
 | Versification anchor | ✅ clean | [versification_daniel_03.md](versification_daniel_03.md) |
 | Honorifics binding (Rachasap) | ✅ clean | [honorifics_binding_daniel_03.md](honorifics_binding_daniel_03.md) |
-| Back-translation | ✅ clean | [(skipped)]((skipped)) |
+| Back-translation | ✅ clean | [back_translation_daniel_03.md](back_translation_daniel_03.md) |
 | Thai-summary coverage (info) | ✅ clean | [summary_coverage_daniel_03.md](summary_coverage_daniel_03.md) |
+| Claim consistency (hallucination, advisory) | ✅ clean | [claim_consistency_daniel_03.md](claim_consistency_daniel_03.md) |
+| unfoldingWord wording (license gate) | ✅ clean | [uw_wording_daniel_03.md](uw_wording_daniel_03.md) |
 
 ## Ship criterion
 

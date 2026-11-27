@@ -1538,7 +1538,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 |---|---|
 | `output/translations/daniel_01.json` | `d7b5e0f2f910562ce0388a64c3dd4e752f98072ead33d8121a3d3a33d039f7db` |
 | `output/translations/daniel_02.json` | `300dd8496c0edcdb574f58d846e4839e3a5da20dcf0839944ad3fee0303b9475` |
-| `output/translations/daniel_03.json` | `53441db91e2cffd0b0e77019cb7c85bcdab0fa82b5de55b67ae7e31693906bbe` |
+| `output/translations/daniel_03.json` | `f9b7636cdc643c098eb91d3a11dd664cf66dfa3bbfce00043c8841859ed4db82` |
 | `output/translations/daniel_04.json` | `4feb8155d89fa5f55821792977bacb17c2f73507723f8d8907da50c3384b3a30` |
 | `output/translations/daniel_05.json` | `b38dc1bc0735d95e875ab284937946ad2427ec44e5e5510933e7f1c219652b19` |
 | `output/translations/daniel_06.json` | `52e318b5097c93d79faa8d5dfcb6c33749795790d38223f06c9247fa2ef29f9f` |
