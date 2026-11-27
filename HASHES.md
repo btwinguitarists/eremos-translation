@@ -457,7 +457,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/ezra_04.json` | 24 | `08b3d133298e78dead8f07f22b508d063a4283eba0babb41705eb8e56dfe188c` | `fcb5c1bc` |
 | `output/translations/ezra_05.json` | 17 | `96d9b9072b99455c4d7fdf097e64555465ee0d48a195a50813b5f59189f0e9c0` | `02f2ae35` |
 | `output/translations/ezra_06.json` | 22 | `b6226578875d22a4b59f10f68fcce8519f6aafb8e00893960aae35237d6e9792` | `02f2ae35` |
-| `output/translations/ezra_07.json` | 28 | `a6082984638c8f45df6f05b06820d1428e64882bf0de5e7e6eec70cbdc043573` | `dfad48a9` |
+| `output/translations/ezra_07.json` | 28 | `80335086f05736fb20bba83c8ff16aa1497e3dd2e30abb76b3a746945f18da1d` | `dfad48a9` |
 | `output/translations/ezra_08.json` | 36 | `cfc21565ca88fb6dd3b3c70bdef2f571409f744e88858a422a716fdbdd866ce5` | `5287457c` |
 | `output/translations/ezra_09.json` | 15 | `663aadfa61d44260cb5c0cc4eb9d0011728a863f789b775737801f8366212fb6` | `527a8c35` |
 | `output/translations/ezra_10.json` | 44 | `761390179d2bdebb39a5825fae24eec287cf4382923cc0ec58f5223de381075b` | `afa31bab` |
