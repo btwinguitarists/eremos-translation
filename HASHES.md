@@ -1143,7 +1143,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/revelation_03.json` | 22 | `44772186a6c310b3fddace25718da1d2bf9bb1eac36fd55a504199ded6b7dcf7` | `d03c3a1a` |
 | `output/translations/revelation_04.json` | 11 | `dee85a451edb896250a42f983b8b51dbbce5e3505485ab82b34229030701673c` | `b64d4872` |
 | `output/translations/revelation_05.json` | 14 | `bfbdc8f32c6f7d301597901661d11a24a3569970e76dea3b17e1122c3f167227` | `b64d4872` |
-| `output/translations/revelation_06.json` | 17 | `3b639279bf40cd886690d469d3c3219d8bed91e75a481dffb2303983b740b184` | `b64d4872` |
+| `output/translations/revelation_06.json` | 17 | `7f1c3bbe54d9b70ccbca70ce692fcc144f36c552f34eac3aeec5fde514a57425` | `b64d4872` |
 | `output/translations/revelation_07.json` | 17 | `331fb98364d42388c646dcddf5a18f2f36dfc49bb43ea5bc4234b534645e04e7` | `b64d4872` |
 | `output/translations/revelation_08.json` | 13 | `c284a7d87340c57de9bba79ed9673dd72d707483ae5ec6892444cd88d0e86fa6` | `d14ebe37` |
 | `output/translations/revelation_09.json` | 21 | `7c21baa45b71527c44a8a0d2b8b0df92936a2c7a048d7248721d65db35911e69` | `b64d4872` |
