@@ -84,6 +84,8 @@ def build_psalm_entries() -> dict[str, dict]:
         offset = mt_max - bsb_max  # 0 = aligned, 1 = single superscription, 2 = double
         if offset <= 0:
             continue
+        # Rahlfs–Hanhart numbers all 18 verses of Hebrew Psalm 40 as Psalm 39.
+        lxx_chapter = 39 if ch == 40 else ch
         for v in sorted(mt[ch]):
             key = f"PSA-{ch}-{v}"
             if v <= offset:
@@ -100,7 +102,7 @@ def build_psalm_entries() -> dict[str, dict]:
                 "mt_ref": f"Psalm {ch}:{v}",
                 "english_ref": english_v_ref,
                 "bsb_ref": bsb_v_ref,
-                "lxx_ref": f"Psalm {ch}:{v}",
+                "lxx_ref": f"Psalm {lxx_chapter}:{v}",
                 "has_superscription": v <= offset,
                 "diverges": True,
             }
