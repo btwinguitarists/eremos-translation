@@ -974,7 +974,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**4** คนเหล่านั้นเป็นชนชาติอิสราเอล ผู้ที่ทรงประทานสิทธิ์การเป็นบุตร พระเกียรติ พันธสัญญาทั้งหลาย การประทานธรรมบัญญัติ การปรนนิบัติบูชา และพระสัญญาทั้งหลายแก่พวกเขา
+**4** คนเหล่านั้นเป็นชนชาติอิสราเอล สิทธิ์การเป็นบุตร พระเกียรติ พันธสัญญาทั้งหลาย การประทานธรรมบัญญัติ การปรนนิบัติบูชา และพระสัญญาทั้งหลายล้วนเป็นของพวกเขา
 
 > ___
 
@@ -1026,7 +1026,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**17** เพราะพระคัมภีร์ตรัสกับฟาโรห์ว่า ‘เพราะเหตุนี้เองที่เราได้ตั้งเจ้าขึ้น เพื่อเราจะสำแดงฤทธิ์อำนาจของเราในตัวเจ้า และเพื่อพระนามของเราจะถูกประกาศไปทั่วแผ่นดินโลก’
+**17** เพราะพระคัมภีร์กล่าวกับฟาโรห์ว่า ‘เพราะเหตุนี้เองที่เราได้ตั้งเจ้าขึ้น เพื่อเราจะสำแดงฤทธิ์อำนาจของเราในตัวเจ้า และเพื่อพระนามของเราจะถูกประกาศไปทั่วแผ่นดินโลก’
 
 > ___
 
@@ -1054,7 +1054,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**24** ผู้ที่พระองค์ทรงเรียกเราด้วย — ไม่ใช่จากชาวยิวเท่านั้น แต่จากคนต่างชาติด้วย
+**24** คนเหล่านั้นก็คือเราที่พระองค์ทรงเรียก — ไม่ใช่จากชาวยิวเท่านั้น แต่จากคนต่างชาติด้วย
 
 > ___
 
@@ -1114,7 +1114,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**5** เพราะโมเสสเขียนเกี่ยวกับความชอบธรรมที่มาจากธรรมบัญญัติว่า ‘ผู้ที่กระทำตามสิ่งเหล่านี้จะมีชีวิตอยู่โดยสิ่งเหล่านั้น’
+**5** เพราะโมเสสเขียนเกี่ยวกับความชอบธรรมที่มาจากธรรมบัญญัติว่า ‘ผู้ที่ประพฤติตามความชอบธรรมเช่นนี้จะมีชีวิตอยู่โดยความชอบธรรมนั้น’
 
 > ___
 
@@ -1838,8 +1838,8 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/romans_06.json` | `303388bcb033a7dd855744848e5dae957d566054d5f6e8ec517a5a2e0a145cbb` |
 | `output/translations/romans_07.json` | `bfc4371b464748cb7aff965ba22ae9d510a176b32972640cb8d932a633f8e97b` |
 | `output/translations/romans_08.json` | `71411a1897953ac421e945f64e1bff3b9e6a219d9dc0762c3fd537d7df3d7d77` |
-| `output/translations/romans_09.json` | `922e03c54539d291b3fbac42c2ec08937b6d29e1a4a830c1838b2a62aa24032b` |
-| `output/translations/romans_10.json` | `2abc4d3cab8a5a397333f00b2ed630f6cf25744235c95a65b268aa73ce1b2025` |
+| `output/translations/romans_09.json` | `bb5840e994f01bbdc4ffdecea086c1d087b34e07c9bc5f8722867e91fc367b1c` |
+| `output/translations/romans_10.json` | `d5c50100ed1e40094ca91b0454667ed13967debdf191839363b2cdff93903363` |
 | `output/translations/romans_11.json` | `770a14a5a7c7e2be08d6dc829c3cccf7fe4c94a076757370d03997a8877380ed` |
 | `output/translations/romans_12.json` | `ebe00a991b1de079912d12cafaf96942ab798b67d9d3cef3d35b51c811253fe0` |
 | `output/translations/romans_13.json` | `13a6caf497f64d7548c30f2960b698ddd2db9041dcdb2e2a6ec470e2cc7c3b62` |
