@@ -11,7 +11,7 @@ NT-to-OT links found: **14** / 29 verses
 - **Hebrews 12:15** — DEU 29:18 (allusion)
 - **Hebrews 12:16** — GEN 25:29-34 (allusion)
 - **Hebrews 12:17** — GEN 27:30-40 (allusion)
-- **Hebrews 12:18** — EXO 19:12-19 (allusion)
+- **Hebrews 12:18** — DEU 4:11-12+EXO 19:12-19 (allusion)
 - **Hebrews 12:19** — EXO 20:18-19 (allusion)
 - **Hebrews 12:20** — EXO 19:12-13 (citation)
 - **Hebrews 12:21** — DEU 9:19 (citation)

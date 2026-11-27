@@ -8,7 +8,7 @@ NT-to-OT links found: **29** / 40 verses
 - **Hebrews 11:4** — GEN 4:1-10 (allusion)
 - **Hebrews 11:5** — GEN 5:24 (citation)
 - **Hebrews 11:7** — GEN 6-9 (allusion)
-- **Hebrews 11:8** — GEN 12:1-4 (allusion)
+- **Hebrews 11:8** — GEN 12:1-5 (allusion)
 - **Hebrews 11:9** — GEN 23+GEN 26+GEN 28 (allusion)
 - **Hebrews 11:11** — GEN 17:15-21+GEN 18:9-15+GEN 21:1-7 (allusion)
 - **Hebrews 11:12** — GEN 15:5+GEN 22:17+GEN 32:12 (allusion)
