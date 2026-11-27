@@ -138,9 +138,9 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/1timothy_04.json` | 16 | `45591e3e3bfccc362d1b7118c1dcde3645285988048f5124fefae111ae3b8b77` | `ee44245d` |
 | `output/translations/1timothy_05.json` | 25 | `6eff4d17f12e102ac6762faac61bf327cb8cd3ce705e555bb0a648c28bf9eba2` | `eccf43cb` |
 | `output/translations/1timothy_06.json` | 21 | `821f9fc6ba9fc08da63dfcd074cc18e35bbe36fc48daaf1d7cad308ee94fabf9` | `17f2100f` |
-| `output/translations/2chronicles_01.json` | 18 | `07a88cf3fa6fddf40d402d75aafca940841281d5de58c8a5c27d99527d8bdd8e` | `6f1d7ba2` |
-| `output/translations/2chronicles_02.json` | 17 | `063108c7cd8727cc55f9b61b92598edaba0af681dd3060dbb7fd33371ebe281f` | `68648763` |
-| `output/translations/2chronicles_03.json` | 17 | `18e595faee8fd0a5055a7ae55a6183650922d9a0186b8ae6ee7856d21385f89b` | `d238756d` |
+| `output/translations/2chronicles_01.json` | 18 | `accd35373f417e24e3b0fbdcac5bfeb6f6128bed6a4bb183679f25832051719a` | `6f1d7ba2` |
+| `output/translations/2chronicles_02.json` | 17 | `96b4fd43800a38e6e65385be21f17cb2ad12f7432ba2a14ec801ee2c763a2f8a` | `68648763` |
+| `output/translations/2chronicles_03.json` | 17 | `ec9c9364e41c786a820ac457c77b6b00942226647ce3bf31b3de680f5390d538` | `d238756d` |
 | `output/translations/2chronicles_04.json` | 22 | `5251559ae56c8c34229345e7803d0a6aec38e8adb864132fc3ec08e12affbca9` | `5f5351b9` |
 | `output/translations/2chronicles_05.json` | 14 | `2de1aef37cdb3124b7b792107134ef7a3348e5368ba25bf93ba141c6f9a785ed` | `d137dfe6` |
 | `output/translations/2chronicles_06.json` | 42 | `4a70fc98d0a79342f124438f9fc6db506f0ef020c165bb1cd2b97de347b98b85` | `dec4e2cb` |
@@ -160,7 +160,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/2chronicles_20.json` | 37 | `2c17d20573002424e3adc2a7857c937680f4aa34e6d157ef917c53da36ea28e9` | `7f1ac3bf` |
 | `output/translations/2chronicles_21.json` | 20 | `7c3a1638553640560f6c7b003a7c0d493adc90f68e0d8b501a28908d5fe0dfba` | `52ce4f3f` |
 | `output/translations/2chronicles_22.json` | 12 | `d40d660747c6583ebf3c73e6c1b309e5acf24455d3eeb99c93456e652e2b2b9c` | `11765181` |
-| `output/translations/2chronicles_23.json` | 21 | `36f252fc51297f1babc8ebca2749c645f51d07a973e4b1f7cb742eaa291b14c0` | `e79a2764` |
+| `output/translations/2chronicles_23.json` | 21 | `b1911d24451ec0ad05e72ecb60a26ca1c25672e75604cd19d24f2f6969b9a1f5` | `e79a2764` |
 | `output/translations/2chronicles_24.json` | 27 | `7c7a30beae3eb70813e4871962120fecf8a353e57df769abc0c1915c0c47b060` | `e64a8407` |
 | `output/translations/2chronicles_25.json` | 28 | `ebb74c43f3ef718e83186957f808842a4b1f387bac684163cdddecb0b01f1f33` | `8d938bf0` |
 | `output/translations/2chronicles_26.json` | 23 | `6f28410353ffcd49d3f92877137451cef3259bf462cd0fe2eca1b1370ca5df70` | `c9ef2a24` |
@@ -171,7 +171,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/2chronicles_31.json` | 21 | `02fd14b9bb0abd8b5fb5b76c50bbb83aba832dbef696211a06504277d9d44bad` | `86387464` |
 | `output/translations/2chronicles_32.json` | 33 | `ae168a5429cdc461a4cae6656efd4a514a6476e440df255ca8b51df54570e1d1` | `1faa30d6` |
 | `output/translations/2chronicles_33.json` | 25 | `6f65eb3d980f3c3d6f32c09567f2926a8e1cac71a674cf1d14a038b03c01ccf2` | `e64a8407` |
-| `output/translations/2chronicles_34.json` | 33 | `6f1c3e58b8f73e684658504a7a4331d2622fd030f00743afd68a9806a8758aa1` | `e058b395` |
+| `output/translations/2chronicles_34.json` | 33 | `a92ab75ce3568b9810f6620fca1a6de92ff9d968cf664cc299b2a74c8934713f` | `e058b395` |
 | `output/translations/2chronicles_35.json` | 27 | `307df47c103e5f13dbb472ec6de002957b2e9376faf1d1f351608dabda785a5c` | `e64a8407` |
 | `output/translations/2chronicles_36.json` | 23 | `315db248ba6629fca95296becaae5e20ffe6fb921060b889b0ff2b0aac71a656` | `e64a8407` |
 | `output/translations/2corinthians_01.json` | 24 | `8cfb3498c486412fda8ecd784d17bf958f40650f58e9e6fafddf7a4c6b345ca4` | `d03c3a1a` |
