@@ -2824,12 +2824,12 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/mark_06.json` | `3902d1629af06bdbbb2041d7d317c2ae8e8a846647c3e7a9472734edadad5822` |
 | `output/translations/mark_07.json` | `7c16190399cf1c0c61c5d1ff24d8a79b411d2fff716117deeb3a09ac91d0943f` |
 | `output/translations/mark_08.json` | `94643faec54ccb5741288eeb7e7484e03a07483a011a91e584deb0693ecc1a82` |
-| `output/translations/mark_09.json` | `2a640037397f4c3784bd0c062bc63836911b4ee1ec4aaa9b011d8ac4df4b1faa` |
+| `output/translations/mark_09.json` | `d2f535ab44898398d72467974057a5b1519a4068f624251dd948e5dab022f33e` |
 | `output/translations/mark_10.json` | `e9cac0215d018cbdd96d6863f3abfb7607881b2446535ceb6d00b5e6199477e6` |
 | `output/translations/mark_11.json` | `533aea876ae4895da5f7a3d3b539b330a6414af99e96797c79b80ce5aefbfc26` |
-| `output/translations/mark_12.json` | `925eb0b62d8862a6a665f06dfbb488fc52f29393a047d0de41ac6d37b4c97dc5` |
-| `output/translations/mark_13.json` | `77e407bfd2674f2866bb86f403ad3bedc5382f6f808f63b3878dc550147abece` |
-| `output/translations/mark_14.json` | `4b4d426fffec31159145aa030e9817a8ca9fa8892d9c183bdf2b6993df109445` |
-| `output/translations/mark_15.json` | `15f2be52b7450ee9faf62d77294edc2c301dac06311698e6342df3d66cd639b8` |
+| `output/translations/mark_12.json` | `8306879b2aea1de175be64006e5268ecff57812caf719056968e668d78095f81` |
+| `output/translations/mark_13.json` | `9c3565b1cee7637f85f812b14d334642442ab0eb377af5c1d4b19be641e4c0bb` |
+| `output/translations/mark_14.json` | `d3ac9e3d8ab530d5b71ef867013bcf5100364d41c4e378a9a3ea82e06012279e` |
+| `output/translations/mark_15.json` | `fa04da84fb7b43ee64cf0d41dd161c7ebf614e05a647e8d0d24b315ba9022303` |
 | `output/translations/mark_16.json` | `3bc95793542eec8eeca373e30bd09d50399a58227229b3d43f53ec014212cb8e` |
 
