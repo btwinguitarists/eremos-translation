@@ -283,7 +283,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/songofsongs_03.json` | `e1a30d9b6eb4ded1abbd24a690e8cfdbbc82c76a8565a6163b8e4f2ecf60f5c3` |
 | `output/translations/songofsongs_04.json` | `efd72fbb4b959d1b8b35774ecb7972257fae44f50725125b81294c56b7a2b947` |
 | `output/translations/songofsongs_05.json` | `f4bd7e92b6fb12c143c6ff02cbe193e24cb8c941d4fb0d32c8ff0c177312992b` |
-| `output/translations/songofsongs_06.json` | `3aeb76da872e5fea02bc58cb0db99954bde3b8f384ca0d0f78065a3453e31690` |
+| `output/translations/songofsongs_06.json` | `9b181ce4789bac3782011f2776f17a24244dc5678434d8665c4a9274bca999e9` |
 | `output/translations/songofsongs_07.json` | `39c14d77d53a07da71bcc82fda15deff2921444520bd2998f435157c90e1df29` |
 | `output/translations/songofsongs_08.json` | `7c611c35488a39f7b46f504126c08ad811752e3fc710ea071b5c4f8011c8ded5` |
 
