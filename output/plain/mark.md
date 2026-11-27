@@ -812,7 +812,7 @@ _วลี "และการอดอาหาร" (καὶ νηστείᾳ) �
 
 **1** พระองค์เสด็จออกจากที่นั่น ไปยังเขตแคว้นยูเดียและดินแดนอีกฟากของแม่น้ำจอร์แดน ฝูงชนก็มาชุมนุมรอบพระองค์อีก และพระองค์ทรงสั่งสอนเขาทั้งหลายอย่างที่เคยทรงกระทำ
 
-**2** พวกฟาริสีมาทดลองพระองค์ ถามว่า “เป็นการถูกต้องตามธรรมบัญญัติหรือไม่ ที่ชายจะหย่าภรรยาของตน”
+**2** [พวกฟาริสีเข้ามา] ถามพระองค์เพื่อทดลองพระองค์ว่า “เป็นการถูกต้องตามธรรมบัญญัติหรือไม่ ที่ชายจะหย่าภรรยาของตน”
 
 **3** พระองค์ตรัสตอบเขาว่า “โมเสสสั่งพวกท่านไว้ว่าอย่างไร”
 
@@ -1448,16 +1448,16 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/mark_01.json` | `5c2a0d53635c1af6a17d841c07415e5ef9598e2007f3c3d797aba9f90b7e9141` |
+| `output/translations/mark_01.json` | `9830dd61a265d814ac7af2b5f9c67a14f5316be9fd47e287064b5b8f43b04f21` |
 | `output/translations/mark_02.json` | `75e16e8a1bb616ba798f61950a8cc59e85de5f71ac2b444a2488eda3663e0a9e` |
 | `output/translations/mark_03.json` | `b2a80434b5ce9f851023ebef90a5d6412b052666e1f0835e4c963cb8a595137c` |
 | `output/translations/mark_04.json` | `5522f5bb6d97fb9434d0c0d9c29153407049e152aa92e32f14baeb19d4ab5c72` |
 | `output/translations/mark_05.json` | `863482f95b7a83d9bc016c6b137d31640c1f41ecaf40b679f13c290e3afb11ec` |
 | `output/translations/mark_06.json` | `1febab1ee5aa0a2c89312de189f78a9be57c5b908ffadf73d74f2bc7c2b28540` |
-| `output/translations/mark_07.json` | `902774f184a7bc4ac1ca17d48600eb12fd3ac200ddebaa24bb8980db929a96c8` |
+| `output/translations/mark_07.json` | `a96cad55398d1c55918ae64e7071afb4f79a94c753b530bd9dc75589a713859c` |
 | `output/translations/mark_08.json` | `ecdd1b49c3f0355cda2ff1bf6fc6db890b6f1f1001a66ab37bc08447accabb10` |
 | `output/translations/mark_09.json` | `7a338c6eceac220b2571929ad7c585796c5e24d232ae003fb2dcaf47d1723425` |
-| `output/translations/mark_10.json` | `f4f68b05478841e912f9644a778528a495a46e63cd11ab74dca73b5c2fadb8ab` |
+| `output/translations/mark_10.json` | `a034e74123b553b6ee766779f31d8e345a70ecb61e7b51df5370076b83da78c6` |
 | `output/translations/mark_11.json` | `e2cabb40eff015fd60a1386d6c60248755e3c98bcafdd79cfed9ecb5fadd51ac` |
 | `output/translations/mark_12.json` | `e7e4fd4ae9fa910acf00b45176e248a244a72888c18bc94306452083c4c49fc0` |
 | `output/translations/mark_13.json` | `4d75f8dd441e7c3de6e5dd4e1c7e08838ea5b6a29e552b32ccf95a8fde74b7a7` |
