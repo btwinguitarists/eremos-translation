@@ -212,7 +212,7 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **3** เพราะส่วนข้าพเจ้านั้น แม้ไม่ได้อยู่ด้วยทางกาย แต่อยู่ด้วยทางใจ ข้าพเจ้าได้ตัดสินผู้ที่กระทำสิ่งเช่นนี้แล้ว เหมือนกับว่าข้าพเจ้าอยู่ด้วยจริง ๆ
 
-**4** ในพระนามของพระเยซูคริสต์องค์พระผู้เป็นเจ้าของเรา เมื่อพวกท่านชุมนุมกันพร้อมกับใจของข้าพเจ้า โดยมีฤทธิ์อำนาจของพระเยซูองค์พระผู้เป็นเจ้าของเราอยู่ด้วย
+**4** ในพระนามของพระเยซูองค์พระผู้เป็นเจ้าของเรา เมื่อพวกท่านชุมนุมกันพร้อมกับใจของข้าพเจ้า โดยมีฤทธิ์อำนาจของพระเยซูองค์พระผู้เป็นเจ้าของเราอยู่ด้วย
 
 **5** ก็คือการมอบคนเช่นนี้ไว้แก่ซาตานเพื่อให้เนื้อหนังพินาศ เพื่อจิตวิญญาณจะได้รับความรอดในวันแห่งองค์พระผู้เป็นเจ้า
 
@@ -502,7 +502,7 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **25** อาหารทุกอย่างที่ขายในตลาดเนื้อ จงกินเถิด โดยไม่ต้องไต่ถามอะไรเพราะเหตุของมโนธรรม
 
-**26** เพราะ “แผ่นดินโลกและทุกสิ่งที่เต็มอยู่ในแผ่นดินโลกเป็นขององค์พระผู้เป็นเจ้า”
+**26** เพราะ “แผ่นดินโลกและสรรพสิ่งในนั้นเป็นขององค์พระผู้เป็นเจ้า”
 
 **27** ถ้าใครในพวกผู้ที่ไม่เชื่อเชิญพวกท่าน และพวกท่านปรารถนาที่จะไป ก็จงกินทุกสิ่งที่เขาตั้งให้พวกท่าน โดยไม่ต้องไต่ถามอะไรเพราะเหตุของมโนธรรม
 
@@ -588,13 +588,13 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **33** ดังนั้น พี่น้องของข้าพเจ้า เมื่อพวกท่านมาประชุมเพื่อรับประทานอาหารด้วยกัน จงรอคอยกันและกัน
 
-**34** ถ้าผู้ใดหิว ก็จงกินเสียที่บ้าน เพื่อในการประชุมของพวกท่าน จะไม่นำไปสู่การพิพากษา ส่วนเรื่องอื่นๆ ที่เหลือ ข้าพเจ้าจะจัดระเบียบเมื่อข้าพเจ้ามาถึง
+**34** ถ้าผู้ใดหิว ก็จงกินเสียที่บ้าน เพื่อการมาชุมนุมกันของพวกท่านจะไม่นำไปสู่การพิพากษา ส่วนเรื่องอื่นๆ ที่เหลือ ข้าพเจ้าจะจัดระเบียบเมื่อข้าพเจ้ามาถึง
 
 ---
 
 ## บทที่ 12
 
-**1** บัดนี้เรื่องของของประทานฝ่ายวิญญาณ พี่น้องทั้งหลาย ข้าพเจ้าไม่ต้องการให้พวกท่านขาดความรู้
+**1** บัดนี้เรื่องของประทานฝ่ายวิญญาณ พี่น้องทั้งหลาย ข้าพเจ้าไม่ต้องการให้พวกท่านขาดความรู้
 
 **2** พวกท่านรู้ว่า เมื่อก่อนตอนที่พวกท่านเป็นคนต่างชาติ พวกท่านถูกพาไปหารูปเคารพที่ไม่อาจพูดได้ ตามที่ใครก็จูงพาท่านไป
 
@@ -618,7 +618,7 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **12** เพราะร่างกายเป็นหนึ่งเดียว แต่มีอวัยวะหลายส่วน และอวัยวะทุกส่วนของร่างกาย แม้จะมีจำนวนมาก ก็ยังเป็นกายเดียว เช่นนี้แหละพระคริสต์ก็ทรงเป็น
 
-**13** เพราะเราทุกคนได้รับบัพติศมาในพระวิญญาณองค์เดียวเข้าในกายเดียว ไม่ว่าจะเป็นชาวยิวหรือชาวกรีก ไม่ว่าจะเป็นทาสหรือคนเสรี และพวกเราทุกคนก็ได้รับการประทานพระวิญญาณองค์เดียวให้ดื่ม
+**13** เพราะเราทุกคนได้รับบัพติศมาในพระวิญญาณองค์เดียวเข้าในกายเดียว ไม่ว่าจะเป็นชาวยิวหรือชาวกรีก ไม่ว่าจะเป็นทาสหรือคนเสรี และพวกเราทุกคนก็ได้รับพระวิญญาณองค์เดียวกันให้ดื่ม
 
 **14** เพราะร่างกายไม่ได้ประกอบด้วยอวัยวะเพียงส่วนเดียว แต่ประกอบด้วยหลายส่วน
 
@@ -898,7 +898,7 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **2** ในวันแรกของสัปดาห์ ให้แต่ละคนของพวกท่านแยกเก็บสะสมไว้เองตามที่ตนเจริญรุ่งเรือง เพื่อจะไม่ต้องเก็บถวายอีกเมื่อข้าพเจ้ามาถึง
 
-**3** เมื่อข้าพเจ้ามาถึง ข้าพเจ้าจะส่งจดหมายไปกับผู้ที่พวกท่านได้รับรอง เพื่อพวกเขาจะนำของถวายของพวกท่านไปยังกรุงเยรูซาเล็ม
+**3** เมื่อข้าพเจ้ามาถึง ข้าพเจ้าจะส่งผู้ที่พวกท่านได้รับรองไปพร้อมจดหมาย เพื่อนำของถวายของพวกท่านไปยังกรุงเยรูซาเล็ม
 
 **4** และถ้าเหมาะสมที่ข้าพเจ้าจะไปด้วย พวกเขาก็จะเดินทางไปกับข้าพเจ้า
 
@@ -936,7 +936,7 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **21** คำทักทายนี้เขียนด้วยมือของข้าพเจ้าเอง — เปาโล
 
-**22** ถ้าผู้ใดไม่รักองค์พระผู้เป็นเจ้า ก็ให้ผู้นั้นถูกแช่ง “มาราน-อาธา” (องค์พระผู้เป็นเจ้าของเราเอ๋ย ขอเสด็จมาเถิด)
+**22** ถ้าผู้ใดไม่รักองค์พระผู้เป็นเจ้า ก็ให้ผู้นั้นถูกแช่ง “มารานา-ธา” (องค์พระผู้เป็นเจ้าของเราเอ๋ย ขอเสด็จมาเถิด)
 
 **23** ขอพระคุณของพระเยซูองค์พระผู้เป็นเจ้าจงดำรงอยู่กับพวกท่านทั้งหลาย
 
@@ -950,20 +950,20 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/1corinthians_01.json` | `8fe037408a33ea46742512e6d4741d9a035ddc8127501975619c18e4bd65b4d0` |
-| `output/translations/1corinthians_02.json` | `f89965365f3b0cad6b1261fe5cd39b2da70105281caa91fd248c10286a72374d` |
-| `output/translations/1corinthians_03.json` | `08e042f1494b0a04a2bd2e360e6983fe4a567b7cd24fb95863b2143079dc50d7` |
-| `output/translations/1corinthians_04.json` | `7c5e9e26dfbd6f7d843a3df8ef62b7297a09d27a17f845c913528d1fd385706f` |
-| `output/translations/1corinthians_05.json` | `9a239466aa383105cd196d915889d7d9176e93e466fd57c3300a83ad9c35125a` |
-| `output/translations/1corinthians_06.json` | `8198559711e7acaf1dc9d1adf41b0f45325d9ec2b3071f970e0c0b0de2bd1a4c` |
-| `output/translations/1corinthians_07.json` | `a18184144cf306a2513a9615e492c70faf8cc6a3871d4dc79eee730d3b80ca2c` |
-| `output/translations/1corinthians_08.json` | `815df54bc66f78e92fb31021830cc9ae82929d6e06046ae72ce1e62002ef9067` |
-| `output/translations/1corinthians_09.json` | `9097bd65ec34e8944749df8b628e3384f3b76c898659b24b680353e548e62394` |
-| `output/translations/1corinthians_10.json` | `8f23e3620cb8a32433a6d2908ef133952664b0e10ac555a2548f45b8a175785e` |
-| `output/translations/1corinthians_11.json` | `cf82a092d2c63cb0f4b37d4d517d0989f9149704d8e096ac05ccd5954f47b194` |
-| `output/translations/1corinthians_12.json` | `95bf5fd6626e97fa31d8f3180c4f6294c1bd3f81742ebd863e2b56c59012d3d5` |
-| `output/translations/1corinthians_13.json` | `66c21bd57cb79fc964478ccf1f6f0c5a382777f96e49be32fb50666a66bbb27e` |
-| `output/translations/1corinthians_14.json` | `fd751079060a2cdc11047428ca6c5f246afae6e17dcd3d486744681e623c95ae` |
-| `output/translations/1corinthians_15.json` | `f3e47bcd2667a869826a20a911bf097ce2216eba8b26f6bbfba9470889fbf4f3` |
-| `output/translations/1corinthians_16.json` | `a8deab69d82f0b049df96ee74a09aec3ba1f5f7bfaeb8cacbf5640cd25983c27` |
+| `output/translations/1corinthians_01.json` | `c00237b304d2da6d6839ec86a9f656a8e72e77335adfbe295e5cb302c319138b` |
+| `output/translations/1corinthians_02.json` | `2577ddb7e4d0d661031104f63bb36bd8e416c506b46cb7294ee08836bb81cfdf` |
+| `output/translations/1corinthians_03.json` | `1715e085f8a82f23401ede601b3fa6b8f30c53069de4403b4487f92b525adeda` |
+| `output/translations/1corinthians_04.json` | `7900cfce5ab58477526e3c412d571a7093a4799c68f286651eaf11ff29b1bb9b` |
+| `output/translations/1corinthians_05.json` | `31f9877b1eb7eaafb2db7148c80060c4d7871160d5f980725bba4c81c3da60ae` |
+| `output/translations/1corinthians_06.json` | `288009212d0c2c36bb08ce184da71a9fb52ac229bd618ca70305b826eae2102e` |
+| `output/translations/1corinthians_07.json` | `4aa9c1038c0cbfa675faa7d61c5618e2e96ce95824b2b905c59134e5d540e13e` |
+| `output/translations/1corinthians_08.json` | `f691945477c92447d3181a1797d65a3a1f46bfc48d960c0d41398be4aa751d0a` |
+| `output/translations/1corinthians_09.json` | `36799a556411787949b3d8a0b83a8435bfde1b20c73d81dd9f1c684ad719b4f9` |
+| `output/translations/1corinthians_10.json` | `150b25c441886f32d318e5a251e3f5d65a8d2a9caaafc652b65aa25726919cab` |
+| `output/translations/1corinthians_11.json` | `1e019e30fa3d60533c0cf2c367799c3636ea131f475bbde3ae053cea30bb9cc7` |
+| `output/translations/1corinthians_12.json` | `2098ef21afe46617749f1979bfab3ee83c6f1bc3d29605c9cbea4a4e4f590efd` |
+| `output/translations/1corinthians_13.json` | `119ead0790241b234cd9f7e0cee944f4615be239625665a4f5dbd2f023672311` |
+| `output/translations/1corinthians_14.json` | `4557156d1aff8b3272184077ad398d05c3dfb94a47746a3ea96ab8228b769157` |
+| `output/translations/1corinthians_15.json` | `61a3bcd4bc3f32aa7a576146c85191223eeef212d59d05a215c84f96f0b9f638` |
+| `output/translations/1corinthians_16.json` | `e60dd167e851c62edc3434d7acf017a287e2483916f8ed4ac284d4be353245c7` |
 

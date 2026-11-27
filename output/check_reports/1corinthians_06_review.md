@@ -11,6 +11,8 @@
 | Claim consistency (hallucination) | ✅ clean | [claim_consistency_1corinthians_06.md](claim_consistency_1corinthians_06.md) |
 | Greek-field integrity | ✅ clean | [greek_field_integrity_1corinthians_06.md](greek_field_integrity_1corinthians_06.md) |
 | Phrase consistency (corpus-wide) | ✅ clean | [phrase_consistency.md](phrase_consistency.md) |
+| unfoldingWord wording (license gate) | ✅ clean | [uw_wording_1corinthians_06.md](uw_wording_1corinthians_06.md) |
+| NT honorifics (royal register) | ✅ clean | [nt_honorifics_1corinthians_06.md](nt_honorifics_1corinthians_06.md) |
 
 ## Ship criterion
 

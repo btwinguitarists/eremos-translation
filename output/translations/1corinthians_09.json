@@ -138,7 +138,7 @@
         {
           "greek": "οὐκ ἔχομεν ἐξουσίαν μὴ ἐργάζεσθαι",
           "thai": "ไม่มีสิทธิที่จะไม่ต้องทำงานเลี้ยงชีพ",
-          "rationale": "Triple-negation logic: 'do we not have the right not to work?' = 'we do have the right to refrain from manual-labor.' Thai 'ไม่มีสิทธิที่จะไม่ต้องทำงาน' preserves the double negation; the meaning is 'have we alone been denied the right of not having to work.'"
+          "rationale": "Two negatives with distinct scopes: 'do we not have the right not to work?' = 'we do have the right to refrain from manual-labor.' Thai 'ไม่มีสิทธิที่จะไม่ต้องทำงาน' preserves the double negation; the meaning is 'have we alone been denied the right of not having to work.'"
         }
       ],
       "notes": "MANUAL LABOR — Paul (and apparently Barnabas) supported themselves through manual work to avoid burdening churches (cf. Acts 18:3 tentmaking; 1 Thess 2:9; 2 Thess 3:7-9). The verse implies that other apostles were supported by churches. Paul does not condemn the practice; he simply notes that he and Barnabas chose differently."
@@ -213,7 +213,7 @@
         {
           "greek": "Οὐ κημώσεις βοῦν ἀλοῶντα",
           "thai": "“อย่าเอาผ้าผูกปากวัวขณะมันกำลังนวดข้าว”",
-          "rationale": "OT CITATION: Deut 25:4 LXX. HAPAX in NT — κημόω (only here in NT, though παραλλήλως 1 Tim 5:18 cites the same OT verse). 'Muzzle.' From κημός 'muzzle, halter.' βοῦς 'ox.' ἀλοάω present participle 'treading-out grain' (oxen walked over grain to thresh it). Thai 'เอาผ้าผูกปาก' captures muzzle-action; 'นวดข้าว' captures the threshing. Quote conventions: outer “…” curly per RULES §5b."
+          "rationale": "The citation comes from Deuteronomy 25:4. In the selected Corinthians text κημώσεις names the act of muzzling. Greek Deuteronomy and 1 Timothy 5:18 use φιμώσεις. First Timothy puts the threshing ox before the prohibition. All three forbid muzzling the ox as it threshes, and Paul applies the command here to the right to support."
         },
         {
           "greek": "μὴ τῶν βοῶν μέλει τῷ θεῷ",
@@ -221,7 +221,7 @@
           "rationale": "μέλει impersonal 'be a concern.' Rhetorical question expecting 'no, [primarily].' Paul's question is provocative: did God really write this for oxen's sake? — implying the deeper-application is for human-laborers. This typological-allegorical interpretation was common in Jewish hermeneutics. Thai 'ทรงห่วงเรื่องวัว' captures the divine-concern question."
         }
       ],
-      "notes": "OT CITATION: Deut 25:4 LXX. [DB ENTRY ADDED to data/nt_ot_citations.json: 1CO 9:9 → DEU 25:4, citation.] The same OT verse is cited at 1 Tim 5:18 alongside Luke 10:7 ('the laborer is worthy of his wages'). HAPAX κημόω. PAULINE TYPOLOGICAL INTERPRETATION: Paul reads the ox-muzzle law as having human-applicability (ministerial-support). This is not a denial of literal-animal-application but a claim about Scripture's deeper intention. Cf. Rabbinic qal vahomer (lesser-to-greater) reasoning: if God cares about the worker-ox, surely about gospel-workers."
+      "notes": "The citation comes from Deuteronomy 25:4. In the selected Corinthians text κημώσεις names the act of muzzling. Greek Deuteronomy and 1 Timothy 5:18 use φιμώσεις. First Timothy puts the threshing ox before the prohibition. All three forbid muzzling the ox as it threshes, and Paul applies the command here to the right to support."
     }
   },
   {
@@ -283,7 +283,7 @@
     "translation": {
       "thai": "ถ้าผู้อื่นมีส่วนในสิทธิเหนือพวกท่านนี้ เราควรจะไม่ยิ่งกว่านั้นหรือ? แต่เราไม่ได้ใช้สิทธินี้ ทว่าเราทนทุกสิ่งทุกอย่าง เพื่อจะไม่ทำให้ข่าวประเสริฐของพระคริสต์ติดขัด",
       "thai_literal": null,
-      "thai_summary": "ข้อนี้เป็นจุดเปลี่ยนสำคัญในบทนี้ — เปาโลเปลี่ยนจากการพิสูจน์ว่าท่านมีสิทธิ ไปสู่การประกาศว่าท่านได้สละสิทธินั้น เหตุผลของท่านคือ 'เพื่อไม่ทำให้ข่าวประเสริฐติดขัด' — ในเมืองโครินธ์ การเป็นคนรับเงินจากคนอื่นในเชิงปรัชญาหรือศาสนา (เช่นนักโสฟิสต์ที่เก็บค่าสอน) ส่งสัญญาณว่าผู้สอนเป็นคนที่ขายสติปัญญา ไม่ใช่ผู้ส่งสารที่บริสุทธิ์ เปาโลไม่ต้องการให้ใครคิดว่าท่านสอนเพื่อเงิน",
+      "thai_summary": "เปาโลกล่าวว่าท่านมีสิทธิได้รับการเลี้ยงดู แต่เลือกที่จะไม่ใช้สิทธินั้น ท่านให้เหตุผลว่าไม่ต้องการให้สิ่งใดมาขัดขวางข่าวประเสริฐของพระคริสต์",
       "key_decisions": [
         {
           "greek": "Ἀλλ’οὐκ ἐχρησάμεθα τῇ ἐξουσίᾳ ταύτῃ",
@@ -298,10 +298,10 @@
         {
           "greek": "ἵνα μή τινα ἐγκοπὴν δῶμεν τῷ εὐαγγελίῳ τοῦ Χριστοῦ",
           "thai": "เพื่อจะไม่ทำให้ข่าวประเสริฐของพระคริสต์ติดขัด",
-          "rationale": "HAPAX in NT — ἐγκοπή (only here in NT). 'Hindrance, obstacle, cutting-in.' From ἐν + κοπή 'cutting.' Originally military: an obstacle blocking advance. Paul's rhetorical-pastoral rationale: receiving support could cause his message to be received as commercial rather than gospel. Thai 'ติดขัด' captures the hindrance-obstacle."
+          "rationale": "Paul says he endures everything to avoid placing any obstacle in the way of the gospel. A concern about being mistaken for a teacher selling instruction is a possible historical explanation. The verse itself does not describe such a misunderstanding or report the Corinthians’ reaction."
         }
       ],
-      "notes": "HAPAX ἐγκοπή. RIGHT-RENUNCIATION DECLARED — vv.12b, 15-18 will repeat this. The motive: gospel's free-character. Paul's first-century context: sophistic teachers commercialized wisdom; receiving support could conflate the gospel with sophistic-paid-instruction. Paul refuses the parallel by refusing payment."
+      "notes": "Paul says he endures everything to avoid placing any obstacle in the way of the gospel. A concern about being mistaken for a teacher selling instruction is a possible historical explanation. The verse itself does not describe such a misunderstanding or report the Corinthians’ reaction."
     }
   },
   {
@@ -363,7 +363,7 @@
         {
           "greek": "Ἐγὼ δὲ οὐ κέχρημαι οὐδενὶ τούτων",
           "thai": "แต่ข้าพเจ้าไม่ได้ใช้สิทธิเหล่านี้เลย",
-          "rationale": "Perfect κέχρημαι 'have used.' Triple-negative emphasis on Paul's principled-refusal. Thai 'ไม่ได้ใช้สิทธิเหล่านี้เลย' is direct rendering."
+          "rationale": "Perfect κέχρημαι 'have used.' Negative concord (οὐ with οὐδενὶ) for emphasis on Paul's principled-refusal. Thai 'ไม่ได้ใช้สิทธิเหล่านี้เลย' is direct rendering."
         },
         {
           "greek": "καλὸν γάρ μοι μᾶλλον ἀποθανεῖν ἤ τὸ καύχημά μου οὐδεὶς κενώσει",
@@ -498,10 +498,10 @@
         {
           "greek": "μὴ ὢν αὐτὸς ὑπὸ νόμον",
           "thai": "ทั้งที่ตัวข้าพเจ้าเองไม่ได้อยู่ใต้ธรรมบัญญัติ",
-          "rationale": "Concessive: Paul is not, in his Christian status, 'under the law' — the Mosaic law no longer governs him salvifically (cf. Galatians passim). Yet he can adopt its customs missionally. Thai 'ทั้งที่ตัวข้าพเจ้าเองไม่ได้อยู่' captures the concessive-personal-freedom."
+          "rationale": "ทั้งที่ตัวข้าพเจ้าเองไม่ได้อยู่ใต้ธรรมบัญญัติ renders a qualification explicitly present in SBLGNT and NA28. RP omits that clause. Verse 21 gives a separate qualification about Paul’s relation to God and Christ."
         }
       ],
-      "notes": "JEW-ACCOMMODATION — Paul's missionary-flexibility for Jewish-evangelism. The 'not under the law' qualifier matters: this is not law-keeping-as-soteriology but cultural-accommodation-as-missiology. The Jerusalem-vs-Antioch tension Paul navigated requires this nuance."
+      "notes": "ทั้งที่ตัวข้าพเจ้าเองไม่ได้อยู่ใต้ธรรมบัญญัติ renders a qualification explicitly present in SBLGNT and NA28. RP omits that clause. Verse 21 gives a separate qualification about Paul’s relation to God and Christ."
     }
   },
   {
@@ -588,12 +588,12 @@
     "translation": {
       "thai": "พวกท่านไม่รู้หรือว่าในการแข่งขันที่สนามวิ่ง บรรดานักวิ่งทุกคนวิ่ง แต่มีเพียงคนเดียวเท่านั้นที่ได้รับรางวัล? จงวิ่งในลักษณะเช่นนั้นเพื่อจะได้รับรางวัล",
       "thai_literal": null,
-      "thai_summary": "ส่วนสุดท้ายของบทที่ 9 (vv.24-27) ใช้ภาพการแข่งขันกีฬาเพื่อสรุปข้อโต้แย้งของบท ในเมืองโครินธ์ การแข่งขัน 'อิสธมียน' (Isthmian Games) เป็นเหตุการณ์ใหญ่ที่สุดอันดับสองของกรีกรองจากโอลิมปิก เปาโลใช้ภาพที่ผู้ฟังคุ้นเคยอย่างยิ่ง — การวิ่งและการชกมวย — เพื่อย้ำว่าชีวิตคริสเตียนต้องการวินัยตนเอง ไม่ใช่ทุกคนที่วิ่งจะได้รางวัล ดังนั้นจงวิ่งให้มีเป้าหมาย",
+      "thai_summary": "เปาโลยกภาพนักวิ่งที่มุ่งไปสู่รางวัล แล้วกล่าวถึงการฝึกตนของนักกีฬาและการชกมวย ท่านใช้ภาพเหล่านี้ชวนให้ผู้ฟังดำเนินชีวิตอย่างมีวินัยและมีจุดหมาย",
       "key_decisions": [
         {
           "greek": "οἱ ἐν σταδίῳ τρέχοντες",
           "thai": "บรรดานักวิ่งทุกคน",
-          "rationale": "HAPAX in NT — στάδιον (only here in NT in this athletic-stadium sense; appears elsewhere as a unit of distance). 'Stadium, racecourse.' Corinth's biennial Isthmian Games would have been highly familiar to the Corinthian audience. Thai 'สนามวิ่ง' captures the racecourse."
+          "rationale": "Paul describes running for a prize, training for a perishable wreath, and boxing with purpose. The Isthmian Games near Corinth offer a possible local point of reference. Paul names neither the games nor the plant used for the wreath. The relevant contrast in verse 25 is between perishable and imperishable prizes."
         },
         {
           "greek": "εἷς δὲ λαμβάνει τὸ βραβεῖον",
@@ -606,7 +606,7 @@
           "rationale": "Imperative τρέχετε 'run!' (present, ongoing). καταλαμβάνω 'seize, attain, grasp.' The Christian-life-as-race instruction. Thai 'วิ่งในลักษณะเช่นนั้น' captures the as-such-running."
         }
       ],
-      "notes": "HAPAX στάδιον (in athletic sense). ATHLETIC METAPHOR LAUNCH — vv.24-27. Corinth hosted the Isthmian Games (every 2 years) — Paul's audience would have vivid mental images. The metaphor's force: Christian-life requires disciplined, focused running, like an athlete preparing for prize-competition."
+      "notes": "Paul describes running for a prize, training for a perishable wreath, and boxing with purpose. The Isthmian Games near Corinth offer a possible local point of reference. Paul names neither the games nor the plant used for the wreath. The relevant contrast in verse 25 is between perishable and imperishable prizes."
     }
   },
   {
@@ -628,10 +628,10 @@
         {
           "greek": "φθαρτὸν στέφανον...ἄφθαρτον",
           "thai": "มงกุฎที่เน่าเปื่อยได้...ที่ไม่เน่าเปื่อย",
-          "rationale": "στέφανος 'crown, wreath' — Greek athletic prize (typically pine-wreath at Isthmian Games, olive at Olympics, laurel at Pythian, ivy/celery at Nemean). φθαρτός 'perishable' (the wreath wilts). ἄφθαρτος 'imperishable' — Christian's prize is incorruptible (cf. 1 Pet 1:4). Thai 'มงกุฎ' for the wreath; 'เน่าเปื่อย / ไม่เน่าเปื่อย' captures the perishable/imperishable contrast."
+          "rationale": "Paul describes running for a prize, training for a perishable wreath, and boxing with purpose. The Isthmian Games near Corinth offer a possible local point of reference. Paul names neither the games nor the plant used for the wreath. The relevant contrast in verse 25 is between perishable and imperishable prizes."
         }
       ],
-      "notes": "TRAINING-DISCIPLINE PRINCIPLE — even athletes for perishable wreaths exercise total self-control. How much more for an imperishable-eternal-crown. The Isthmian-pine-wreath was specifically a perishable-crown; the contrast is direct and visual for Corinthian readers."
+      "notes": "Paul describes running for a prize, training for a perishable wreath, and boxing with purpose. The Isthmian Games near Corinth offer a possible local point of reference. Paul names neither the games nor the plant used for the wreath. The relevant contrast in verse 25 is between perishable and imperishable prizes."
     }
   },
   {
