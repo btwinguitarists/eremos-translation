@@ -840,8 +840,8 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/luke_17.json` | 36 | `732478db30d4a93a9648b3764844f8315fb49534d4f5f68ccfad5a69c73c4768` | `7040ad9f` |
 | `output/translations/luke_18.json` | 43 | `ff95059f8a8b7b966abb7df551a1f026008ecb898e4569c18b37f8ff8f9fefdf` | `d03c3a1a` |
 | `output/translations/luke_19.json` | 48 | `436ad54b52fc0248967ddb8c03737b445f63896b3727780fae2e3a84530ab88d` | `d03c3a1a` |
-| `output/translations/luke_20.json` | 47 | `79077fd9d7b4ab186a078a6dfd312e696e0664d2e443cd05bf6bd6cfe80cde27` | `cf6bd38f` |
-| `output/translations/luke_21.json` | 38 | `0b0ca54f90ca7eec2db8112fe6981c2c0ae66502b641833e8a6a9b003a1579bc` | `d03c3a1a` |
+| `output/translations/luke_20.json` | 47 | `92ff77bdde5339d2b1535a8acbd09a60453c9dfed4de90259bd04918666e609f` | `cf6bd38f` |
+| `output/translations/luke_21.json` | 38 | `23b0733128fb12be4faedb0dd17b8ab37dfdd75c04dca6b3a3d953e660f76a48` | `d03c3a1a` |
 | `output/translations/luke_22.json` | 71 | `3861f7bdeff7dc34c8ac1579411f75896e65d27f70a54df68ad377730d4fbcc8` | `d03c3a1a` |
 | `output/translations/luke_23.json` | 55 | `1f2ede89e6a3215310aa64769b68a4658c3517d6dc7c37cad15886afab0ec8cd` | `421ea6fc` |
 | `output/translations/luke_24.json` | 53 | `d07add5cde4a142161e31b33a55ec8bf8286a2d95e14ea40a05b78db5fe594a5` | `7040ad9f` |
