@@ -822,7 +822,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/leviticus_26.json` | 46 | `4b833c44d29ea0078619aba048a2483f1ddd53a0f803d1897cd08ed5bee2d729` | `c0e09628` |
 | `output/translations/leviticus_27.json` | 34 | `a5c7d17803e229bcf93e6c8f975a482977454dbe10ead9d270cd648f5dfadc36` | `9402b895` |
 | `output/translations/luke_01.json` | 80 | `cc386b7d655657c8fa8c88ec0fb4c3ae690e3ea4c58d531f38be30283df54246` | `7040ad9f` |
-| `output/translations/luke_02.json` | 52 | `5416dd6ccf7c377bdca3f53fa11d0cc2ad09bc32c92982233cb066d6e97c1b2b` | `6d15bb1a` |
+| `output/translations/luke_02.json` | 52 | `0df064ca8b9e3ae7a3b03f123b2b39791093b955818fa65cced8866e03ead7fc` | `6d15bb1a` |
 | `output/translations/luke_03.json` | 38 | `a65849831d3aeb1512896c83e6b2f0634b2d6d2d15c2f341ea2dcb4e8fbb4f6c` | `d03c3a1a` |
 | `output/translations/luke_04.json` | 44 | `35d45ef9e01dbd3a6056ebad120a307c521ba36292aa388237291c1ace369d25` | `cf6bd38f` |
 | `output/translations/luke_05.json` | 39 | `4276310a59bb80dd469d2bf937642c3d4ab36ff5b3879d38baed51d81863189a` | `6d15bb1a` |
@@ -838,7 +838,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/luke_15.json` | 32 | `9c25b56654ac3a7361a446b6a8374c6e4c75cb94116ddf1461a6d853f301eeb7` | `d03c3a1a` |
 | `output/translations/luke_16.json` | 31 | `dd37ddc52a60ab050eb3fcfb9fe81886d01a15e1f0f07915052a0c1e92a19d0e` | `7040ad9f` |
 | `output/translations/luke_17.json` | 36 | `003da09ac111449d238a9205a8ef37328aa5eef8565d19655e217b5b572b7300` | `7040ad9f` |
-| `output/translations/luke_18.json` | 43 | `9fffbea829db89e6084b1192eb7467af9c0323f623654be6f55dedcf916c3d71` | `d03c3a1a` |
+| `output/translations/luke_18.json` | 43 | `b29f0aa7bdf97181051bc2a688c8d816e56d9af7d04596e8442949d20a9e5202` | `d03c3a1a` |
 | `output/translations/luke_19.json` | 48 | `3a708fdfd971ce0a8952e39aecf0582318b8f7675673d33173348c380f85d4df` | `d03c3a1a` |
 | `output/translations/luke_20.json` | 47 | `2546c789ddcadea05e1edb8813d5989287b146476b9d88c26fb8370504daf970` | `cf6bd38f` |
 | `output/translations/luke_21.json` | 38 | `60a2d9fdb58979fd0d6f43b5fa25448d094c47ad83f44179b21c988bc7a9336a` | `d03c3a1a` |
