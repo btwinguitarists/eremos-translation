@@ -615,11 +615,11 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/isaiah_64.json` | 11 | `ae3f7cd8e668d43c735eb0a06d4246fdc03e1406d827b4f21baafc0a83de8b91` | `ac978717` |
 | `output/translations/isaiah_65.json` | 25 | `9ea4ae23287b5c6dd4e3ca06e877d623947b262051ac51b0da2d20287195ef6b` | `e411f694` |
 | `output/translations/isaiah_66.json` | 24 | `04b951440fb659a507a082b76052509bc9e120bb6dfd7637439dde8cd633d903` | `0d0e09da` |
-| `output/translations/james_01.json` | 27 | `d493f72c16a0a05776625567731b705eb0fbc3399685fa95d5e45a888ea670c7` | `8e49de67` |
-| `output/translations/james_02.json` | 26 | `c6c0b5808e83e132014f1cc400e09bb69bc917cd60ae5b9beb4b2fe9fcd384e0` | `d7851be1` |
-| `output/translations/james_03.json` | 18 | `3808eccaa5550cc2fda97cd0dce2538331998823e416bf1c48ab042c3ba969d6` | `11382475` |
-| `output/translations/james_04.json` | 17 | `3b61bd19e8da7e5dd9c3681a31efbf7854e8f7fd8d20d47ffbc1a4f73289bf05` | `502e5308` |
-| `output/translations/james_05.json` | 20 | `cdd0acb6927085b9b36656e407bea5164fc4efaf311e82378334632582f3ac55` | `5bde9a40` |
+| `output/translations/james_01.json` | 27 | `db79ed44d32525cc15f053e30db465c31449e99ab3a80331bdaafb9a1d20d1ec` | `8e49de67` |
+| `output/translations/james_02.json` | 26 | `c09208dd703e1ef7cb4fd23c4ac7e74457f44c33ae73f47278196fd3b746f65a` | `d7851be1` |
+| `output/translations/james_03.json` | 18 | `2069e47be3f837b042d0c2d41ed6b5ae7d7eba50d182ec213cc1a193468ddfcc` | `11382475` |
+| `output/translations/james_04.json` | 17 | `0a59743caf75b650e8d167c6a5ef980752dcbd15cb71a5bba739889c78f7971c` | `502e5308` |
+| `output/translations/james_05.json` | 20 | `b419a0fed28104d1222ce8c0b5dcca4ea4613eae0cf30863348ead2773f670da` | `5bde9a40` |
 | `output/translations/jeremiah_01.json` | 19 | `0fbbf862505c618e20c6a4c32e2ba355c5d0402721b0c8089224b299e9b16eab` | `7040ad9f` |
 | `output/translations/jeremiah_02.json` | 37 | `4753dfc22c18318fb33959d47c69447da4537d14d350c650d82a621567482ad1` | `7040ad9f` |
 | `output/translations/jeremiah_03.json` | 25 | `63640c50b82d72daf3b40acee4e8290db6230500ddc119acb30e7df6aa03aafd` | `f69dbf77` |

@@ -125,9 +125,9 @@ The current James rendering (uniform **ธรรมบัญญัติ** every
 | Verse | Greek | Thai | Sense |
 |---|---|---|---|
 | 3:15 | ἐπίγειος, ψυχική, δαιμονιώδης | **ฝ่ายโลก ฝ่ายธรรมชาติ ฝ่ายผีปีศาจ** | downward triad |
-| 3:17 | ἁγνή, εἰρηνική, ἐπιεικής, εὐπειθής, μεστὴ ἐλέους καὶ καρπῶν ἀγαθῶν, ἀδιάκριτος, ἀνυπόκριτος | **บริสุทธิ์, แห่งสันติ, สุภาพอ่อนโยน, ยอมเชื่อฟังโดยง่าย, เปี่ยมด้วยความเมตตาและผลดีทั้งหลาย, ไม่ลำเอียง, ไม่หน้าซื่อใจคด** | upward 8-fold (counting μεστὴ ... καρπῶν as one item) |
+| 3:17 | ἁγνή, εἰρηνική, ἐπιεικής, εὐπειθής, μεστὴ ἐλέους καὶ καρπῶν ἀγαθῶν, ἀδιάκριτος, ἀνυπόκριτος | **บริสุทธิ์, แห่งสันติ, สุภาพอ่อนโยน, ยอมเชื่อฟังโดยง่าย, เปี่ยมด้วยความเมตตาและผลดีทั้งหลาย, ไม่ลำเอียง, ไม่หน้าซื่อใจคด** | seven predicate adjectives (full of mercy and good fruits is one predicate) |
 
-Five hapaxes in this passage alone (ἐπιστήμων, δαιμονιώδης, εὐπειθής, ἀδιάκριτος, plus the 1:5 ἁπλῶς). The 3:17 list is **Eremos's first major translation-decision on a NT virtue-list of this length** outside GAL 5:22–23 (fruit-of-the-Spirit) — the rendering quality is high (preserves both the ordering ("first-pure, THEN ...") and the doublet rhythm of the seven-virtues-following-purity).
+James 3:17 has seven predicate adjectives, beginning with pure. The adjective “full” governs both mercy and good fruits. Counting those separately gives eight qualities in the Thai list. Four rare words in 3:13–18 are ἐπιστήμων, δαιμονιώδης, εὐπειθής and ἀδιάκριτος. The adverb ἁπλῶς belongs to the earlier discussion of wisdom in 1:5.
 
 **Editorial assessment:** The σοφία-from-above pattern is forward-pertinent. The General Epistles (1 Pet, 2 Pet, Jude) use σοφία sparsely; HEB and the Pastorals will recur with related virtue-lists. James's "wisdom-from-above" — divine-source-wisdom that contrasts with earthly-pseudo-wisdom — is a load-bearing biblical-theology category. Worth a brief corpus-doc.
 
