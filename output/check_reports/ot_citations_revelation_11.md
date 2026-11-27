@@ -16,5 +16,5 @@ NT-to-OT links found: **14** / 19 verses
 - **Revelation 11:12** — ACT 1:9+2KI 2:11 (allusion)
 - **Revelation 11:13** — 1KI 19:18 (allusion)
 - **Revelation 11:15** — PSA 2:2+DAN 7:14+DAN 7:27 (allusion)
-- **Revelation 11:18** — PSA 2:1 (citation)
+- **Revelation 11:18** — PSA 2:1 (allusion)
 - **Revelation 11:19** — EXO 25:10-22+2MA 2:4-8 (allusion)

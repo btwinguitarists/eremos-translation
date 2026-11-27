@@ -14,6 +14,6 @@ NT-to-OT links found: **13** / 18 verses
 - **Revelation 12:9** — GEN 3:1+GEN 3:14-15 (allusion)
 - **Revelation 12:10** — JOB 1:6-12+JOB 2:1-7+ZEC 3:1 (allusion)
 - **Revelation 12:12** — ISA 49:13 (allusion)
-- **Revelation 12:14** — EXO 19:4+DEU 32:11+DAN 7:25+DAN 12:7 (citation)
+- **Revelation 12:14** — EXO 19:4+DEU 32:11+DAN 7:25+DAN 12:7 (allusion)
 - **Revelation 12:16** — NUM 16:32 (allusion)
 - **Revelation 12:17** — GEN 3:15 (citation)
