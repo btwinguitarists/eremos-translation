@@ -223,7 +223,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/2samuel_05.json` | 25 | `d11e27a3706b6c0272ffd8654cec6ccc17108bbb36699c77b372047f6e43056a` | `ea6dff43` |
 | `output/translations/2samuel_06.json` | 23 | `b665f2b3f42669845e5802ed97433323ca4d4252e7327066be78c11b39ff38d9` | `8dcf4b46` |
 | `output/translations/2samuel_07.json` | 29 | `cdcc73ada0d4dec8343e1bfa70e7fa889eaddcbca711c18695610bcaace503f7` | `2b937c88` |
-| `output/translations/2samuel_08.json` | 18 | `b638d84877bc4c5d6c46ad64db85d5e45b8a61fcb737ebef4054ec1fba1f0c7d` | `9214f779` |
+| `output/translations/2samuel_08.json` | 18 | `e765321ba558fecc70ece908dd10a60f29d7b5c0a67f20b7c2571fc943308050` | `9214f779` |
 | `output/translations/2samuel_09.json` | 13 | `11a7540fe4ce21420d485b39e736c032c7110161bb2ca64c078188f7ab62da56` | `95988298` |
 | `output/translations/2samuel_10.json` | 19 | `808e6fc4b9e44d654b0a6d3b1393797f24bdadadf23973cf928a37dd5462749c` | `761532e4` |
 | `output/translations/2samuel_11.json` | 27 | `0c13381401750bfd35c0884d49c6b1b4292308685c1b8d9d0a12b9719f91dda0` | `6ab9eb8d` |
@@ -238,7 +238,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/2samuel_20.json` | 26 | `c8556d58f1b22b95d1264f31202f04e2ad2f6c34a8660f0b99766ba413d23413` | `ae1d0f09` |
 | `output/translations/2samuel_21.json` | 22 | `5e6759da28d8daeca5fde8fe3b10b74617eaf4e23f4386e03225e5b426078a89` | `b696d424` |
 | `output/translations/2samuel_22.json` | 51 | `fe8dc5b868c6062647b96880fe36c76ce8930af6d5efc49ad990e99b107c4986` | `b90dc109` |
-| `output/translations/2samuel_23.json` | 39 | `8c1193db610f7411d7a89f5bade9e8dc71f96fc2b01482e7ff9b3b83fcdd2949` | `0a768932` |
+| `output/translations/2samuel_23.json` | 39 | `9fcd89518ed66bada7836e37a69148364259993a93498d727336a4e2aee3837c` | `0a768932` |
 | `output/translations/2samuel_24.json` | 25 | `5ae7d6998c2c2f29f28d3ba7753462bc25e4b96ec6d9e7f863f6f93e0844ab1f` | `26b76184` |
 | `output/translations/2thessalonians_01.json` | 12 | `b71a33acccab25376e35421cea474fc17a09765405522424f14f9e1336419ca8` | `edc3aefd` |
 | `output/translations/2thessalonians_02.json` | 17 | `fa640c48d76fd7ffa006c4addfdf2d1ce8803eb8052b962c924e979705ca4ce5` | `cf6bd38f` |
