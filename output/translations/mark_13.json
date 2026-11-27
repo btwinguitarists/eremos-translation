@@ -408,7 +408,7 @@
     "translation": {
       "thai": "เมื่อพวกท่านเห็น ‘สิ่งน่าสะอิดสะเอียนที่ทำให้เกิดความรกร้าง’ ยืนอยู่ในที่ที่ไม่ควรจะอยู่ (ขอผู้อ่านจงเข้าใจเถิด) เวลานั้นผู้ที่อยู่ในแคว้นยูเดียจงหนีไปยังภูเขาทั้งหลาย",
       "thai_literal": null,
-      "thai_summary": "วลี ‘สิ่งน่าสะอิดสะเอียนที่ทำให้เกิดความรกร้าง’ มาจากดาเนียล 9:27, 11:31 และ 12:11 เดิมพยากรณ์ถึงแอนทิโอคัส เอปิฟาเนส ที่ตั้งรูปเคารพของซุสในพระวิหารเมื่อปี 167 ก่อน ค.ศ. พระเยซูทรงนำคำพยากรณ์นี้มาใช้ใหม่ในยุคของพระองค์ ประวัติศาสตร์เล่าว่าคริสตจักรในเยรูซาเล็มหนีไปยังเมืองเปลลาก่อนการล้อมเยรูซาเล็มของโรมันใน ค.ศ. 66-70",
+      "thai_summary": "คำว่า “สิ่งน่าสะอิดสะเอียนที่ทำให้เกิดความรกร้าง” ตรงกับถ้อยคำในดาเนียล 12:11 ฉบับกรีกเก่า มัทธิว 24:15 ระบุชื่อดาเนียลและกล่าวถึงสถานบริสุทธิ์ ส่วนมาระโกบอกเพียงว่าสิ่งนั้นยืนอยู่ในที่ที่ไม่ควรอยู่ แล้วกำชับให้ผู้ที่อยู่ในแคว้นยูเดียหนีไป",
       "key_decisions": [
         {
           "greek": "τὸ βδέλυγμα τῆς ἐρημώσεως",
@@ -418,7 +418,7 @@
         {
           "greek": "ἑστηκότα ὅπου οὐ δεῖ",
           "thai": "ยืนอยู่ในที่ที่ไม่ควรจะอยู่",
-          "rationale": "ἑστηκότα perf.-ptc. masc.-acc. (GRAMMATICAL NOTE: masculine while τὸ βδέλυγμα is neuter — a constructio-ad-sensum per uW TN writing-pronouns, signaling that the abomination is/is-identified-with a person/man, not an inanimate idol). Thai ยืนอยู่ ('stands-remains') preserves the ongoing state. ὅπου οὐ δεῖ 'where it/he should not' (per uW TN figs-explicit = the temple, implicit — Jesus's original audience would know). Thai ในที่ที่ไม่ควรจะอยู่ ('in-the-place-where-should-not-be') leaves the reference implicit (matching Mark's deliberate discretion)."
+          "rationale": "Mark’s masculine participle ἑστηκότα alongside the neuter noun can suggest a person. The Thai ยืนอยู่ retains the action, and ในที่ที่ไม่ควรจะอยู่ leaves the place unnamed. Matthew 24:15 speaks of a holy place."
         },
         {
           "greek": "ὁ ἀναγινώσκων νοείτω",
@@ -431,7 +431,7 @@
           "rationale": "Ἰουδαία → แคว้นยูเดีย (glossary-established from Mark 10). φεύγω 3pl-imperative (per uW TN figs-imperative3p) 'let-them-flee.' Thai จงหนี ('imperatively-flee'). ὄρη pl. 'mountains' → ภูเขาทั้งหลาย (preserves plural — Judean hill-country as refuge). Per uW TN figs-explicit, mountains = safer-than-Judean-plains. HISTORICAL FULFILLMENT: Eusebius (HE 3.5.3) and Epiphanius record the Jerusalem church's flight to Pella (in Perea, east of the Jordan) before/during the Roman siege of 66–70 CE, specifically citing this prophecy as their guide."
         }
       ],
-      "notes": "THE KEY VERSE of Mark 13's temple-destruction prophecy. Old Greek Daniel 12:11 has both articles in τὸ βδέλυγμα τῆς ἐρημώσεως, as does Mark. Theodotion has the nouns without articles there. At Daniel 11:31 the Old Greek has βδέλυγμα ἐρημώσεως and Theodotion βδέλυγμα ἠφανισμένον. Compare also Daniel 9:27, with a plural form for desolations. Original referent: Antiochus IV Epiphanes's desecration of the Jerusalem temple 167 BCE — he erected an altar to Zeus Olympios on the altar of burnt offering and sacrificed swine (1 Macc 1:54–59; 2 Macc 6:2; Josephus Ant. 12.5.4). Mark's Jesus re-applies the Danielic pattern to a future event. CANDIDATES for the Markan fulfillment: (a) Caligula's 40 CE attempt to erect his statue in the temple (stopped by his assassination); (b) the Zealot takeover of the temple 67 CE and installation of their own high priest (Phanni ben Samuel) — an internal-abomination; (c) Titus's standards in the temple courts 70 CE. The masculine-participle ἑστηκότα favors a personal referent, consistent with (a) Caligula or (c) a Roman-commander/statue. Mark's audience, if post-70, would read it via (c). CHRISTIAN HISTORICAL RESPONSE: the Jerusalem church's pre-siege flight to Pella (Eusebius HE 3.5.3) preserved the Jewish-Christian community. Added Dan 9:27, 11:31, 12:11 to nt_ot_citations.json."
+      "notes": "Mark’s phrase τὸ βδέλυγμα τῆς ἐρημώσεως matches Old Greek Daniel 12:11, including both articles. Theodotion has neither article there. At 11:31 Old Greek has βδέλυγμα ἐρημώσεως and Theodotion βδέλυγμα ἠφανισμένον. Daniel 9:27 uses the plural “desolations.” Matthew 24:15 expressly names Daniel and a holy place. Mark leaves the location unnamed and uses masculine ἑστηκότα where Matthew has neuter ἑστός. The reader is urged to understand, and people in Judea are told to flee. The comparison with Daniel evokes the desecration of the sanctuary. Mark gives no historical name to the figure in his warning."
     }
   },
   {
@@ -701,7 +701,7 @@
     "greek": "Ἀλλὰ ἐν ἐκείναις ταῖς ἡμέραις μετὰ τὴν θλῖψιν ἐκείνην ὁ ἥλιος σκοτισθήσεται,καὶ ἡ σελήνη οὐ δώσει τὸ φέγγος αὐτῆς,",
     "bsb_english": "But in those days, after that tribulation: 'The sun will be darkened, and the moon will not give its light;",
     "translation": {
-      "thai": "แต่ในวันเหล่านั้น หลังจากความทุกข์ลำบากนั้นแล้ว ‘ดวงอาทิตย์จะมืดลง และดวงจันทร์จะไม่ฉายแสงของมัน",
+      "thai": "แต่ในวันเหล่านั้น หลังจากความทุกข์ลำบากนั้นแล้ว ดวงอาทิตย์จะมืดลง และดวงจันทร์จะไม่ฉายแสงของมัน",
       "thai_literal": null,
       "thai_summary": "ภาพดวงอาทิตย์มืดและดวงจันทร์ไม่ให้แสงเป็นภาพสัญลักษณ์จากคำพยากรณ์เกี่ยวกับ ‘วันของพระยาห์เวห์’ ในพระคัมภีร์เดิม (อิสยาห์ 13:10; เอเสเคียล 32:7; โยเอล 2:10, 3:15) หมายถึงการที่พระเจ้าเสด็จมาปกครองและพิพากษาทั่วโลก ไม่ใช่แค่เหตุการณ์ธรรมชาติ แต่เป็นการสำแดงฤทธานุภาพของพระองค์",
       "key_decisions": [
@@ -713,7 +713,7 @@
         {
           "greek": "ὁ ἥλιος σκοτισθήσεται",
           "thai": "‘ดวงอาทิตย์จะมืดลง",
-          "rationale": "σκοτίζω fut.-pass. 'be-darkened' (per uW TN figs-activepassive — divine-agent implicit). ἥλιος → ดวงอาทิตย์ (glossary). Thai มืดลง ('go-dark / become-dim'). Opens the OT-echo-pastiche citation unit with guillemet ‘ (closed at end of v.25)."
+          "rationale": "Mark predicts that the sun will be darkened. มืดลง conveys that change. The language evokes Isaiah 13:10."
         },
         {
           "greek": "ἡ σελήνη οὐ δώσει τὸ φέγγος αὐτῆς",
@@ -721,7 +721,7 @@
           "rationale": "σελήνη → ดวงจันทร์ (glossary entry established here — standard Thai astronomy). Per uW TN figs-personification, the moon is spoken-of as a person-who-gives — Thai ฉายแสง ('shine-light / cast-light') is more natural than literal ให้แสง and preserves the active-personification. φέγγος 'radiance / brilliance' (specifically of moonlight, as distinct from φῶς general-light)."
         }
       ],
-      "notes": "OT INTERTEXT (composite pastiche). Mark 13:24b–25 weaves: (1) Isa 13:10 LXX 'οἱ γὰρ ἀστέρες τοῦ οὐρανοῦ...τὸ φῶς οὐ δώσουσιν, καὶ σκοτισθήσεται τοῦ ἡλίου ἀνατέλλοντος, καὶ ἡ σελήνη οὐ δώσει τὸ φῶς αὐτῆς' — Mark's ἥλιος σκοτισθήσεται + σελήνη οὐ δώσει τὸ φέγγος αὐτῆς closely tracks this; (2) Isa 34:4 LXX 'πάντες οἱ ἀστέρες πεσοῦνται ... καὶ τακήσονται πᾶσαι αἱ δυνάμεις τῶν οὐρανῶν' — matches v.25 exactly in language; (3) Joel 2:10 / 3:15 LXX 'ὁ ἥλιος καὶ ἡ σελήνη συσκοτάσουσιν καὶ τὰ ἄστρα δύσουσι τὸ φέγγος αὐτῶν'; (4) Ezek 32:7. Guillemet ‘ marks the composite-citation span (opens v.24b, closes v.25). Added to nt_ot_citations.json as composite-citation with sources. 'DAY OF THE LORD' APOCALYPTIC: sun/moon/stars darkening is the recurring OT-cosmic imagery for YHWH's decisive-intervention (not necessarily literal-astrophysics; standard apocalyptic-rhetorical-register). Jesus's audience would immediately hear 'the Day of the LORD has arrived.'"
+      "notes": "The darkened sun and the moon giving no light echo Isaiah 13:10 and Joel 2:10. Mark uses φέγγος for radiance where the moon clause of Greek Isaiah uses φῶς. Joel describes the darkened sun and moon and then speaks of the stars’ radiance. Compare also Ezekiel 32:7. Verse 25 continues the imagery with an allusion to Isaiah 34:4."
     }
   },
   {
@@ -731,22 +731,22 @@
     "greek": "καὶ οἱ ἀστέρες ἔσονται ἐκ τοῦ οὐρανοῦ πίπτοντες,καὶ αἱ δυνάμεις αἱ ἐν τοῖς οὐρανοῖς σαλευθήσονται.",
     "bsb_english": "the stars will fall from the sky, and the powers of the heavens will be shaken.'",
     "translation": {
-      "thai": "ดวงดาวทั้งหลายจะร่วงจากฟ้า และฤทธิ์ทั้งหลายในฟ้าสวรรค์จะสั่นสะเทือน’",
+      "thai": "ดวงดาวทั้งหลายจะร่วงจากฟ้า และฤทธิ์ทั้งหลายในฟ้าสวรรค์จะสั่นสะเทือน",
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
         {
           "greek": "οἱ ἀστέρες ἔσονται ἐκ τοῦ οὐρανοῦ πίπτοντες",
           "thai": "ดวงดาวทั้งหลายจะร่วงจากฟ้า",
-          "rationale": "Periphrastic-future ἔσονται + pres.-ptc. πίπτοντες = 'will-be-falling' (durative-future; stars will be in ongoing-falling-state). ἀστήρ → ดวงดาว (glossary entry established here). Thai ร่วงจากฟ้า ('fall-from-sky') preserves the OT-cosmic image. Continues the OT-citation span begun with ‘ in v.24."
+          "rationale": "The construction ἔσονται … πίπτοντες describes the stars falling from the sky. Thai ร่วงจากฟ้า retains the image."
         },
         {
           "greek": "αἱ δυνάμεις αἱ ἐν τοῖς οὐρανοῖς σαλευθήσονται",
           "thai": "ฤทธิ์ทั้งหลายในฟ้าสวรรค์จะสั่นสะเทือน’",
-          "rationale": "δυνάμεις pl. 'powers' — per uW TN figs-parallelism, two readings: (a) powerful-spiritual-beings/angels dwelling in the heavens; (b) heavenly-bodies (sun/moon/stars, the visible-powers). Thai ฤทธิ์ ('power / might') preserves ambiguity — can refer to either cosmic-luminaries-as-forces or spiritual-beings-in-the-heavens. δύναμις → ฤทธิ์ glossary-entry established here (distinct from ฤทธานุภาพ which is typically reserved for τὴν δύναμιν τοῦ θεοῦ divine-specific). οὐρανοῖς pl. (Semitic plurale-tantum) → ฟ้าสวรรค์. σαλεύω (pass.-fut.) 'be-shaken' (per uW TN figs-activepassive — God-agent implicit). Thai สั่นสะเทือน ('quake-tremble'). Closing guillemet ’ ends the composite-citation span. Direct echo of Isa 34:4 LXX and Hag 2:6 ('I will shake the heavens and the earth')."
+          "rationale": "The powers in the heavens will be shaken. ฤทธิ์ทั้งหลายในฟ้าสวรรค์ leaves open what kind of powers are intended. This clause develops the cosmic imagery evoked by Isaiah 34:4 and Haggai 2:6."
         }
       ],
-      "notes": "OT INTERTEXT continued (composite pastiche): Isa 34:4 LXX ('πάντες οἱ ἀστέρες πεσοῦνται ... καὶ τακήσονται πᾶσαι αἱ δυνάμεις τῶν οὐρανῶν'). Mark fuses δύναμις-shaking language with Isa 34:4's falling-stars. Also Hag 2:6 LXX ('σείσω τὸν οὐρανὸν καὶ τὴν γῆν') — 'heaven-and-earth-shaken' theme, cited in Heb 12:26. Guillemet ’ closes here. The cosmic-upheaval is theophanic-signage: creation responds-to-the-Creator's-arrival. Cf. Rev 6:12–17 which fully elaborates this Markan-pattern."
+      "notes": "Mark’s falling stars recall Greek Isaiah 34:4, which says that all the stars will fall like leaves and the sky will roll up like a scroll. Mark instead says that the powers in the heavens will be shaken. Haggai 2:6 has God say “I will shake” heaven and earth with σείσω. These lines form a composite allusion."
     }
   },
   {
@@ -808,7 +808,7 @@
         {
           "greek": "ἐκ τῶν τεσσάρων ἀνέμων",
           "thai": "จากลมทั้งสี่ทิศ",
-          "rationale": "Per uW TN figs-metaphor, 'the four winds' = the four cardinal directions, hence all-places (Zech 2:6 LXX 'ἐκ τῶν τεσσάρων ἀνέμων τοῦ οὐρανοῦ'). Thai ลมทั้งสี่ทิศ ('winds from-the-four-directions') preserves the metaphor and clarifies with ทิศ ('direction/quarter'). Retains the OT-idiom without flattening it to the prose 'all directions.' ἄνεμος → ลม (glossary)."
+          "rationale": "ลมทั้งสี่ทิศ conveys the four winds as four directions. Greek Zechariah 2:10 (English 2:6) likewise speaks of the four winds of heaven."
         },
         {
           "greek": "ἀπ’ ἄκρου γῆς ἕως ἄκρου οὐρανοῦ",
@@ -816,7 +816,7 @@
           "rationale": "Per uW TN figs-idiom + figs-parallelism, this idiom = 'from-farthest-places-to-farthest-places' — cosmic merism for total-reach. Mixed 'earth-to-heaven' crosses domains (vs. LXX Deut 30:4 which is 'heaven-to-heaven'). Thai preserves the literal image สุดปลายแผ่นดินโลก...สุดปลายฟ้าสวรรค์ — the cosmic-merism lands naturally in Thai."
         }
       ],
-      "notes": "OT INTERTEXT: (1) Zech 2:6 LXX (ἐκ τῶν τεσσάρων ἀνέμων τοῦ οὐρανοῦ συνάξω ὑμᾶς — post-exilic gathering-of-scattered-Israel); (2) Deut 30:4 LXX (ἀπ’ ἄκρου τοῦ οὐρανοῦ — covenant-restoration-gathering); (3) Isa 11:12 LXX (συνάξει τοὺς διασπαρέντας — eschatological gathering); (4) Isa 27:13. Jesus applies the exile-gathering OT-pattern to the Son-of-Man's-parousia-gathering of the worldwide-ekklesia. Added Zech 2:6, Deut 30:4 to nt_ot_citations.json. The elect are no longer just Jewish-exiles but the worldwide-elect (cf. v.10 'to-all-the-nations'). PARALLEL-PASSAGE NOTE: Matt 24:31 almost verbatim; Luke 21:28 departs, emphasizing 'your-redemption-draws-near' instead of the angelic-gathering. Mark preserves the Danielic-gathering-imagery most clearly among the synoptics."
+      "notes": "The gathering from four winds echoes Zechariah 2:10 in Greek and Hebrew numbering (English 2:6). Greek Isaiah 11:12 has “he will gather the lost of Israel” and then “the scattered of Judah he will gather.” Greek Deuteronomy 30:4 spans one extremity of heaven to the other. Mark instead spans the extremity of earth to the extremity of heaven. Isaiah 27:13 pictures a horn and a gathering for worship."
     }
   },
   {

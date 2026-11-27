@@ -9189,14 +9189,14 @@
       "notes": "Direct verbal echo of Mic 7:6 LXX ('υἱὸς ἀτιμάζει πατέρα, θυγάτηρ ἐπαναστήσεται ἐπὶ τὴν μητέρα... ἐχθροὶ ἀνδρὸς οἱ ἐν τῷ οἴκῳ αὐτοῦ'). Mark's ἐπαναστήσονται τέκνα ἐπὶ γονεῖς is lexically close. Second-Temple apocalyptic tradition already read Mic 7:6 eschatologically (m. Soṭah 9:15; 1QH; 4 Ezra 6:24). Markan theme: following Jesus divides families (3:31-35, 10:29-30); here the division darkens to family-betrayal-to-death."
     },
     "MRK 13:14": {
-      "type": "composite_citation",
+      "type": "quotation",
       "sources": [
         "DAN 9:27",
         "DAN 11:31",
         "DAN 12:11"
       ],
-      "greek_matches": "LXX",
-      "notes": "βδέλυγμα τῆς ἐρημώσεως is drawn from the Daniel triad: Dan 9:27 LXX ('βδέλυγμα τῶν ἐρημώσεων'), Dan 11:31 LXX ('βδέλυγμα ἠφανισμένων'), Dan 12:11 LXX ('βδέλυγμα ἐρημώσεως' — exact match). Original referent: Antiochus IV Epiphanes's 167 BCE temple desecration (altar to Zeus Olympios, swine sacrifices — 1 Macc 1:54-59; 2 Macc 6:2; Josephus Ant. 12.5.4). Mark's Jesus re-applies the Danielic pattern to a future desecration. Candidates: (a) Caligula's 40 CE statue attempt (stopped by assassination); (b) Zealot temple takeover 67 CE; (c) Titus's standards in the temple court 70 CE. The masculine participle ἑστηκότα favors a personal referent, consistent with (a) or (c). The parenthetical 'let the reader understand' is Mark's direct audience signal."
+      "greek_matches": "adapted Scripture wording",
+      "notes": "Mark’s phrase τὸ βδέλυγμα τῆς ἐρημώσεως matches Old Greek Daniel 12:11, including both articles. Theodotion has neither article there. At 11:31 Old Greek has βδέλυγμα ἐρημώσεως and Theodotion βδέλυγμα ἠφανισμένον. Daniel 9:27 uses the plural “desolations.” Matthew 24:15 expressly names Daniel and a holy place. Mark leaves the location unnamed and uses masculine ἑστηκότα where Matthew has neuter ἑστός."
     },
     "MRK 13:17": {
       "type": "reference",
@@ -9223,22 +9223,23 @@
       "notes": "Jesus invokes the Deuteronomic test of prophetic reliability: Deut 18:22 — a true prophet's word comes to pass. Advance-warning creates an objective standard against which later-claimants' signs-and-wonders must measure. Transition verse: closes tribulation-section (vv.5-23), opens cosmic-Son-of-Man section (vv.24-27). The structural pivot 'I have told you beforehand' applies the Deuteronomic test to Jesus's own corpus."
     },
     "MRK 13:24": {
-      "type": "composite_citation",
+      "type": "composite_allusion",
       "sources": [
         "ISA 13:10",
-        "JOL 2:10"
+        "JOL 2:10",
+        "EZK 32:7"
       ],
-      "greek_matches": "LXX",
-      "notes": "Composite pastiche of Day-of-YHWH imagery. Isa 13:10 LXX ('οἱ γὰρ ἀστέρες τοῦ οὐρανοῦ... τὸ φῶς οὐ δώσουσιν, καὶ σκοτισθήσεται τοῦ ἡλίου ἀνατέλλοντος, καὶ ἡ σελήνη οὐ δώσει τὸ φῶς αὐτῆς') — Mark's ἥλιος σκοτισθήσεται + σελήνη οὐ δώσει τὸ φέγγος αὐτῆς tracks this closely. Joel 2:10 LXX ('ὁ ἥλιος καὶ ἡ σελήνη συσκοτάσουσιν') confirms the stock apocalyptic vocabulary. Sun/moon/stars darkening is recurring OT cosmic imagery for YHWH's decisive intervention (not necessarily literal astrophysics); Jesus's audience hears 'the Day of the LORD has arrived.' Ezek 32:7 adds the Egypt-judgment parallel."
+      "greek_matches": "adapted Scripture wording",
+      "notes": "The darkened sun and the moon giving no light echo Isaiah 13:10 and Joel 2:10. Mark uses φέγγος for radiance where the moon clause of Greek Isaiah uses φῶς. Joel describes the darkened sun and moon and then speaks of the stars’ radiance. Compare also Ezekiel 32:7."
     },
     "MRK 13:25": {
-      "type": "composite_citation",
+      "type": "composite_allusion",
       "sources": [
         "ISA 34:4",
         "HAG 2:6"
       ],
-      "greek_matches": "LXX",
-      "notes": "Isa 34:4 LXX ('πάντες οἱ ἀστέρες πεσοῦνται... καὶ τακήσονται πᾶσαι αἱ δυνάμεις τῶν οὐρανῶν') closely matches Mark's falling-stars + shaken-powers language. Hag 2:6 LXX ('σείσω τὸν οὐρανὸν καὶ τὴν γῆν') supplies the heaven-and-earth-shaken theme (also cited in Heb 12:26). Cosmic upheaval as theophanic signage."
+      "greek_matches": "adapted Scripture wording",
+      "notes": "Mark’s falling stars recall Greek Isaiah 34:4, which says that all the stars will fall like leaves and the sky will roll up like a scroll. Mark instead says that the powers in the heavens will be shaken. Haggai 2:6 has God say “I will shake” heaven and earth with σείσω. These lines form a composite allusion."
     },
     "MRK 13:26": {
       "type": "citation",
@@ -9250,12 +9251,12 @@
       "type": "composite_allusion",
       "sources": [
         "DEU 30:4",
-        "ZEC 2:6",
+        "ZEC 2:10",
         "ISA 11:12",
         "ISA 27:13"
       ],
-      "greek_matches": "LXX",
-      "notes": "Composite gathering-of-elect imagery. Zech 2:6 LXX (ἐκ τῶν τεσσάρων ἀνέμων τοῦ οὐρανοῦ συνάξω ὑμᾶς — post-exilic gathering); Deut 30:4 LXX (ἀπ' ἄκρου τοῦ οὐρανοῦ — covenant restoration); Isa 11:12 LXX (συνάξει τοὺς διασπαρέντας — eschatological gathering); Isa 27:13 (trumpet-gathering). Jesus applies the OT exile-gathering pattern to the Son of Man's parousia-gathering of the worldwide church. Elect are no longer just Jewish exiles but globally chosen (cf. v.10). Matt 24:31 reproduces almost verbatim; Luke 21:28 departs."
+      "greek_matches": "adapted Scripture wording",
+      "notes": "The gathering from four winds echoes Zechariah 2:10 in Greek and Hebrew numbering (English 2:6). Greek Isaiah 11:12 has “he will gather the lost of Israel” and then “the scattered of Judah he will gather.” Greek Deuteronomy 30:4 spans one extremity of heaven to the other. Mark instead spans the extremity of earth to the extremity of heaven. Isaiah 27:13 pictures a horn and a gathering for worship."
     },
     "MRK 13:31": {
       "type": "allusion",
