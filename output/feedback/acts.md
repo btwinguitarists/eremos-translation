@@ -4160,13 +4160,13 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 |---|---|
 | `output/translations/acts_01.json` | `b9bb9c302c1d5e1c6a6d9951649f96e1a86df0d479924f74b59693aebe1ce4b1` |
 | `output/translations/acts_02.json` | `5d4e96b389a31d8889e8d1c43a72fba8a1a81519b4db957e88b8c27ece3740f2` |
-| `output/translations/acts_03.json` | `e8caac1177ea83b8cf7224b9afc2bb352237293e8a278960148dcfbcbf2c7367` |
+| `output/translations/acts_03.json` | `c30a58a2c763efa91a6049a46e488635eb588602788cfe6788b081bae0fd9a8d` |
 | `output/translations/acts_04.json` | `b2971f25f6c6af991be7636c7564e3f61c995857cc25f1dceb1f71addffc8a1c` |
 | `output/translations/acts_05.json` | `a7ae11b9ea8954062ac048a1664309af847a3639961604001a44dd77f7e43515` |
 | `output/translations/acts_06.json` | `93fcefcf17ced2ac9dd944bda25aa041b12ba69b79d5d513de0eaa7e121e887d` |
 | `output/translations/acts_07.json` | `4ad6bddd41a4b0d71fe30178891be8d8fb71dbd8376aefc5bfba5e4bdc155aaf` |
-| `output/translations/acts_08.json` | `a0c79a288be5e5fc940a9a7dc35f126832c41094b5704ad2f5a7bde68c855b56` |
-| `output/translations/acts_09.json` | `59301632cbad697f0460e67aff99f46cea3a8ba7ed1cc780ca8d3d9b37104f77` |
+| `output/translations/acts_08.json` | `a25f64271b5b2ab4c4f0e14948bab37dd2df2338571dffe45593d4a0374d0e37` |
+| `output/translations/acts_09.json` | `4b2f656598c3398ae37117312b38bde4e4831bbcea0d72672999078af3272d9f` |
 | `output/translations/acts_10.json` | `3493ed3fbd90c3449d8c3c49056ac11be86417505d058be60d7575b8c5847f7d` |
 | `output/translations/acts_11.json` | `27d5f7bdeab1d1b00163afd1046ce748c42904bb353df8cadcec0366cd6e559a` |
 | `output/translations/acts_12.json` | `10d144c0dffa58ec0857d86e8e4d35ca830d4561af4cd06809321228d4c1cc56` |
@@ -4179,7 +4179,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/acts_19.json` | `f3482d24fe372cc1c58e926af02644f52e49c103e2f89ee71327189351c59041` |
 | `output/translations/acts_20.json` | `8d94a08107f22c1e8dcb961d4c7492f873a22c35f93b8f60e5cfc7b952210216` |
 | `output/translations/acts_21.json` | `e665b6ca680ed5282c035b2c7213f5f3f85f58638021637dcefae295f4e35e33` |
-| `output/translations/acts_22.json` | `02f10ae4bfe08da9f89eaa5c8cd94cce73c2676bf17378ff6f9eb9943f339646` |
+| `output/translations/acts_22.json` | `14ea0fdac75e52e76a88281ea02261b87b2f121b1ffa0f80734baa0d971f03bb` |
 | `output/translations/acts_23.json` | `4e2d5d3c5d62d79683de8ba8f6b8422cbcdf9ec38258c4b7ea7f38905444cb8a` |
 | `output/translations/acts_24.json` | `fd98aa8ea439a852a7fe6de5abe2e7237f9356c14c47e38bb2460174056cc0fe` |
 | `output/translations/acts_25.json` | `252ab77d74dc1b284640bc616687a37624e1b42e992b360b012a993d6d651f3b` |

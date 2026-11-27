@@ -1051,7 +1051,7 @@
           "rationale": "ἰδού → ดูเถิด glossary-standard. Per uW figs-rquestion: the eunuch's question could be (1) rhetorical-polite-request for baptism, or (2) genuine-query about any conditions. We render with genuine-question form (literal) — 'มีสิ่งใดขัดขวาง...หรือ?' (is-there-anything that-prevents...?) — keeping open both readings since uW identifies genuine ambiguity. Per uW figs-activepassive: βαπτισθῆναι aor.-passive-inf. 'to-be-baptized' — Thai 'รับบัพติศมา' (receive-baptism) natural-middle-voice-sense. κωλύω 'prevent, hinder' → ขัดขวาง (obstruct-hinder)."
         }
       ],
-      "notes": "The eunuch's request-for-baptism, immediate and earnest. The question can be read either as a polite rhetorical request or as a genuine query; Thai preserves the ambiguity. Body-of-water in the Judean-Negev could be an oasis-pool, wadi-stream, or cistern. The immediate baptism-request signals Philip's preaching included the call to baptismal-response (cf. ACT 2:38 Peter's Pentecost-pattern). No hapax. No textual variant.\n\n## Regarding verse 37\n\nSBLGNT omits Acts 8:37 (along with NA28, UBS5, and all modern critical texts). The Byzantine/TR tradition includes it: 'εἶπεν δὲ ὁ Φίλιππος· Εἰ πιστεύεις ἐξ ὅλης τῆς καρδίας, ἔξεστιν. ἀποκριθεὶς δὲ εἶπε· Πιστεύω τὸν υἱὸν τοῦ Θεοῦ εἶναι Ἰησοῦν Χριστόν' (Philip: if you believe wholeheartedly, you may; the eunuch's answer: a confession of Jesus Christ as God's Son). This verse is textually doubtful — not present in the earliest major manuscripts (ℵ, B, A, C, P^45, P^74) and is treated as a whole-verse inclusion variant per RULES §5 Tier 2. It receives a chapter-footer note in `output/textual_variants/acts_08.json`, not a main-text entry. This matches the established Acts-pattern already documented in RULES (future-tier-2: ACT 8:37, 15:34, 24:6b-8a, 28:29). The variant is widely noted in the scholarly apparatus."
+      "notes": "The selected SBLGNT text and the Robinson–Pierpont Byzantine text move directly from the question in verse 36 to the baptism in verse 38. The Textus Receptus includes the intervening exchange numbered 37. Irenaeus, Against Heresies 3.12.8, reports the eunuch’s confession, supplying early evidence for that part of the tradition. He does not quote the whole exchange printed in the Textus Receptus. The separate note for verse 37 gives the additional reading."
     }
   },
   {
@@ -1081,7 +1081,7 @@
           "rationale": "Per uW writing-pronouns: 'he baptized him' = Philip baptized the eunuch. Thai resolves pronouns explicitly: 'ฟีลิป' (subject) and 'ท่าน' (respectful-object for the eunuch). 'ทำพิธีบัพติศมาให้' (performed-the-rite-of-baptism for) — Thai preserves the ritual-formal-register (พิธี = rite/ceremony). Alternative 'ให้รับบัพติศมา' also acceptable; we use 'ทำพิธี...ให้' to highlight Philip as the administering-minister (active-voice emphasis)."
         }
       ],
-      "notes": "The eunuch's baptism — the first-recorded-baptism of a non-Jewish-non-Samaritan in Acts (though the eunuch's Jewish-proselyte-status is disputed; most-read him as a God-fearer-Gentile, in which case this anticipates the Cornelius-breakthrough of ACT 10). The going-down-into-water + coming-up detail (vv.38-39) has been read by immersionists as evidence for immersion-baptism; affusionists read it more broadly as the nearest available-water-being-entered. Luke's focus is not on the mode but on the response-and-reception. The Isa 56:3-5 prophecy-fulfillment is worth noting: the Isaianic eunuch-inclusion promise is realized here in an eunuch's full incorporation into the Jesus-movement. No hapax. No textual variant (v.37 omitted per SBLGNT)."
+      "notes": "After the traveler asks about baptism, he orders the chariot to stop. Both go down into the water and Philip baptizes him. The selected text proceeds directly from verse 36; the longer reading is recorded in the note for verse 37."
     }
   },
   {
@@ -1103,7 +1103,7 @@
         {
           "greek": "πνεῦμα κυρίου ἥρπασεν τὸν Φίλιππον",
           "thai": "พระวิญญาณขององค์พระผู้เป็นเจ้าก็ทรงรับฟีลิปไป",
-          "rationale": "πνεῦμα κυρίου 'Spirit of the Lord' — OT-echo formula (LXX Judg 6:34, 1 Sam 10:6, Isa 61:1 applied to the Messianic-prophet) → Thai 'พระวิญญาณขององค์พระผู้เป็นเจ้า' (royal-Spirit of-the-Lord, full OT-echoing form). ἁρπάζω 'snatch, seize, carry-off' — used in LXX/NT of divine sudden-removal (cf. 1 Thess 4:17 rapture; WIS 4:11 of Enoch; Elijah-translation imagery). Divine-subject + this verb → royal-register 'ทรงรับ...ไป' (royally-take-away). The supernatural-transport is theologically-reminiscent of OT-prophet translation (Elijah, 2 Kgs 2:11-12)."
+          "rationale": "πνεῦμα κυρίου is the subject of ἥρπασεν in SBLGNT. พระวิญญาณขององค์พระผู้เป็นเจ้าก็ทรงรับฟีลิปไป follows that reading. In the expanded account an angel takes Philip after the Holy Spirit comes upon the eunuch."
         },
         {
           "greek": "καὶ οὐκ εἶδεν αὐτὸν οὐκέτι ὁ εὐνοῦχος",
@@ -1116,7 +1116,7 @@
           "rationale": "Per uW grammar-connect-time-sequential: γάρ here not causal 'because' but transitional 'and so / nevertheless.' Thai 'แต่ก็...ต่อไป' (but-he-continued-on) preserves the transitional-contrast. Imperfect ἐπορεύετο durative 'was-continuing-on-his-way' → เดินทางต่อไป (travel-on-further). χαίρων pres.-ptc. 'rejoicing' → อย่างชื่นชมยินดี (with joy/rejoicing). The eunuch's sustained-joy is the marker of genuine-salvation (Luke's signature-theme: gospel-reception produces joy)."
         }
       ],
-      "notes": "The supernatural-translation of Philip. Luke's language ἁρπάζω 'snatch-away' (also 2 Cor 12:2 of Paul's rapture to third-heaven; 1 Thess 4:17 of believers caught-up-to-meet-Christ) signals divine-miraculous intervention — this is not mere walking-away but bodily-transport. The theological point is confirmation: this whole encounter was Spirit-orchestrated from angelic-command (v.26) to Spirit-direction (v.29) to Spirit-snatching (v.39). The eunuch's reaction (not confusion-or-alarm but continued rejoicing) signals he recognized this as divine-event, not alarming-disappearance. Early-church-tradition (Irenaeus Haer. 3.12.8, Eusebius HE 2.1.13) credits this eunuch with carrying the gospel to Africa/Kush — reasonable-historical-inference from a royal-official's return-home with gospel-knowledge. No hapax. No textual variant."
+      "notes": "In the selected Greek text the Spirit of the Lord takes Philip away. An expanded reading first describes the Holy Spirit falling upon the eunuch and then makes an angel of the Lord the one who takes Philip. The expansion both adds an event and changes the agent of the departure."
     }
   },
   {
@@ -1128,7 +1128,7 @@
     "translation": {
       "thai": "ส่วนฟีลิปนั้นไปปรากฏตัวที่เมืองอาโซทัส และเดินทางผ่านไปประกาศข่าวประเสริฐตามเมืองต่าง ๆ จนถึงเมืองซีซารียา",
       "thai_literal": null,
-      "thai_summary": "อาโซทัสคือเมืองอัชโดด เมืองเก่าของชาวฟีลิสเตียในพันธสัญญาเดิม (1 ซามูเอล 5) ส่วนซีซารียาเป็นเมืองท่าสำคัญที่โรมันสร้างขึ้นในแคว้นยูเดีย ต่อมาฟีลิปจะตั้งรกรากที่ซีซารียาและเป็นเจ้าบ้านต้อนรับเปาโลในกิจการ 21:8",
+      "thai_summary": "ฟีลิปเดินทางจากอาโซทัส ประกาศข่าวประเสริฐตามเมืองต่าง ๆ จนถึงซีซารียา เมืองท่าที่กษัตริย์เฮโรดทรงสร้างขึ้นบนที่ตั้งเดิมของหอสตราโตน ต่อมาเปาโลกับเพื่อนร่วมทางได้พักที่บ้านของฟีลิปในเมืองนี้ (กิจการ 21:8)",
       "key_decisions": [
         {
           "greek": "Φίλιππος δὲ εὑρέθη εἰς Ἄζωτον",
@@ -1141,7 +1141,7 @@
           "rationale": "διέρχομαι present-ptc. durative 'passing-through' → เดินทางผ่านไป (travel-through). Per uW figs-hyperbole: πάσας 'all' = generalization 'the cities-in-that-region.' Thai 'เมืองต่าง ๆ' (various cities) preserves the plural-generalization without asserting literal-every-city. Per uW translate-names: Καισάρεια = Caesarea Maritima, the Roman provincial capital on the coast ~60 miles N of Ashdod. Thai 'ซีซารียา' — standard Thai Christian transliteration (matches later ACT references 9:30, 10:1, 18:22, 21:8, 23:23, 25:1). εὐαγγελίζομαι → ประกาศข่าวประเสริฐ glossary-locked. τοῦ ἐλθεῖν aor.-articular-inf. 'until the coming' → จนถึง (up-to-until)."
         }
       ],
-      "notes": "1 HAPAX: Ἄζωτος (v.40 Azotus / OT Ashdod → อาโซทัส, old Philistine city; NT-unique, OT-frequent). Chapter-closing travelogue-summary. Philip's journey from Azotus to Caesarea traces the coastal-plain south-to-north, evangelizing the former-Philistine and Roman-coastal cities. The ending at Caesarea is programmatic — Philip will settle there (ACT 21:8: Φιλίππου τοῦ εὐαγγελιστοῦ, ὄντος ἐκ τῶν ἑπτά, confirming his identity as one of the Seven) and host Paul-and-Luke two decades later. This traveling-and-preaching inclusio (cf. v.4 διῆλθον εὐαγγελιζόμενοι τὸν λόγον) closes the chapter with the same pattern that opened it: persecution-dispersal produces traveling-preachers. Philip's Samaritan-ministry and eunuch-encounter have been the two defining snapshots of what this traveling-preaching looked like; v.40 sweeps up the remainder of Philip's trajectory to where Acts will find him again. The coastal-plain Philip's-mission was significant for subsequent church-expansion: Joppa, Lydda, Caesarea (all named in ACT 9-10) become key Pauline-mission bases. No textual variant."
+      "notes": "Josephus, Antiquities 15.331–341, describes Herod building up the port on the site of Strato’s Tower. Acts 8:40 takes Philip to Caesarea. Acts 9–10 describes Peter’s work at Lydda and Joppa. In 21:8 Philip receives travelers at his house in Caesarea; Luke gives no date for his settling there."
     }
   }
 ]
