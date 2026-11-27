@@ -952,9 +952,9 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/romans_08.json` | `71411a1897953ac421e945f64e1bff3b9e6a219d9dc0762c3fd537d7df3d7d77` |
 | `output/translations/romans_09.json` | `bb5840e994f01bbdc4ffdecea086c1d087b34e07c9bc5f8722867e91fc367b1c` |
 | `output/translations/romans_10.json` | `d5c50100ed1e40094ca91b0454667ed13967debdf191839363b2cdff93903363` |
-| `output/translations/romans_11.json` | `770a14a5a7c7e2be08d6dc829c3cccf7fe4c94a076757370d03997a8877380ed` |
-| `output/translations/romans_12.json` | `ebe00a991b1de079912d12cafaf96942ab798b67d9d3cef3d35b51c811253fe0` |
-| `output/translations/romans_13.json` | `13a6caf497f64d7548c30f2960b698ddd2db9041dcdb2e2a6ec470e2cc7c3b62` |
+| `output/translations/romans_11.json` | `4fc5b4f71729e03ada83d58dc4a92cdb08ced05107b065842d6c6c479ca4263b` |
+| `output/translations/romans_12.json` | `2787eef91672a85c25c388f81af9adf86892bd31d2e9c4f020c45852a0cc5830` |
+| `output/translations/romans_13.json` | `50326c111d3937e45399a5c4af076ae434a2b133d64791a39f928720d126d87b` |
 | `output/translations/romans_14.json` | `bb72f4cd07fe8927fb2b5f23adaaadfb4b641c48e5b567020266357b2261af53` |
 | `output/translations/romans_15.json` | `e7f5e016acc8d4ee02f08d1ec257987006947d8e8747ee1f6ed5ed2e39339341` |
 | `output/translations/romans_16.json` | `501af43e7fe7143ce17a274a3b89d8554e69912a683f392104153a07dfc72be3` |
