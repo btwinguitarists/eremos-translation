@@ -3538,7 +3538,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**12** และพวกเขาไม่ได้พบข้าพเจ้าโต้แย้งกับผู้ใดในพระวิหาร หรือปลุกระดมฝูงชน ไม่ว่าในธรรมศาลาทั้งหลายหรือในเมือง
+**12** และพวกเขาไม่ได้พบว่าข้าพเจ้าโต้แย้งกับผู้ใดหรือปลุกระดมฝูงชน ไม่ว่าในพระวิหาร ในธรรมศาลาทั้งหลาย หรือที่ใดในเมือง
 
 > ___
 
@@ -4181,9 +4181,9 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/acts_21.json` | `bb335fd71ebdab1fcf2cf18d90cfaf9dd6c14e5f1c9b1847d1f53273cd560e52` |
 | `output/translations/acts_22.json` | `4a36e7b54414e2e3aa645722ac28712679021ee82c6876de9c38957aed3f0dbb` |
 | `output/translations/acts_23.json` | `6e5cf027aebae3c607429d64d2ec66c701c6c7112a551d2bc9fd1820457085da` |
-| `output/translations/acts_24.json` | `2eb97830cc348eff16132792e0f4d876bc5e7ff2530887d3922b56a9e01ee1ad` |
+| `output/translations/acts_24.json` | `fd98aa8ea439a852a7fe6de5abe2e7237f9356c14c47e38bb2460174056cc0fe` |
 | `output/translations/acts_25.json` | `252ab77d74dc1b284640bc616687a37624e1b42e992b360b012a993d6d651f3b` |
 | `output/translations/acts_26.json` | `18fa21fc2a3e065af8a5b67eb0635f94f267a5f627bd654f278be78e4f69b66a` |
 | `output/translations/acts_27.json` | `eb0d8ebebfe0ce1e7a4f21efdaefaa7b82aaaaa4ec6abd22b27b398d401e1745` |
-| `output/translations/acts_28.json` | `f54afb7a215306634bf436f4c019e07ff30c09eaca8ae500910b988c555c2a45` |
+| `output/translations/acts_28.json` | `5180af18ac11543d337485abef8cd6a668a043d23727e5866cdbcbf102ebae51` |
 
