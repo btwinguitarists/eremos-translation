@@ -1459,7 +1459,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/mark_09.json` | `7a338c6eceac220b2571929ad7c585796c5e24d232ae003fb2dcaf47d1723425` |
 | `output/translations/mark_10.json` | `f4f68b05478841e912f9644a778528a495a46e63cd11ab74dca73b5c2fadb8ab` |
 | `output/translations/mark_11.json` | `e2cabb40eff015fd60a1386d6c60248755e3c98bcafdd79cfed9ecb5fadd51ac` |
-| `output/translations/mark_12.json` | `432abd1f47be9ad2cc6805f41f2abdd7dfa19333764a3965579b9d1432801029` |
+| `output/translations/mark_12.json` | `e7e4fd4ae9fa910acf00b45176e248a244a72888c18bc94306452083c4c49fc0` |
 | `output/translations/mark_13.json` | `4d75f8dd441e7c3de6e5dd4e1c7e08838ea5b6a29e552b32ccf95a8fde74b7a7` |
 | `output/translations/mark_14.json` | `56da36b8892940a0b1ac6188cc05cbaf317475d5a6286aa79c406eeee63b58b2` |
 | `output/translations/mark_15.json` | `50505ba5b8bb11f227d053bb2048133f166e448553b6f7b0f35a595485806c8f` |
