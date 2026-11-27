@@ -7,7 +7,7 @@ NT-to-OT links found: **13** / 20 verses
 - **Revelation 1:1** — DAN 2:28-29 (allusion)
 - **Revelation 1:4** — EXO 3:14 (allusion)
 - **Revelation 1:5** — PSA 89:27 (allusion)
-- **Revelation 1:7** — DAN 7:13+ZEC 12:10 (citation)
+- **Revelation 1:7** — DAN 7:13+ZEC 12:10 (allusion)
 - **Revelation 1:8** — ISA 41:4+44:6+48:12 (allusion)
 - **Revelation 1:10** — EXO 19:16+EZK 3:12 (allusion)
 - **Revelation 1:12** — EXO 25:31-40+ZEC 4:2 (allusion)

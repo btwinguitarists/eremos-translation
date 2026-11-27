@@ -267,6 +267,8 @@ The doc says "**จากในหมู่**ผู้ตาย"; REV 1:5 uses "
 
 ## 14. Other inherited locks — **all compliant**
 
+In 4:4 the central throne is พระบัลลังก์ and the elders’ surrounding thrones are บัลลังก์. The first plural is nominative θρόνοι in SBLGNT and accusative θρόνους in NA28. Both describe the same surrounding thrones. In 3:21 the Thai uses plain บัลลังก์ twice, with the possessives ของเรา and ของพระองค์ identifying the thrones of Christ and his Father.
+
 | Doc | REV evidence | Status |
 |---|---|---|
 | `ekklesia_2026-04.md` | 19 occurrences (chs 1–3 seven-churches addresses + scattered later) all uniformly **คริสตจักร**. Zero drift. | **LOCKED** |

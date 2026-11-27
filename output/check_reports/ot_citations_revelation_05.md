@@ -10,4 +10,4 @@ NT-to-OT links found: **7** / 14 verses
 - **Revelation 5:8** — PSA 141:2 (allusion)
 - **Revelation 5:9** — PSA 33:3+96:1+98:1+144:9+149:1 (allusion)
 - **Revelation 5:10** — EXO 19:6 (allusion)
-- **Revelation 5:11** — DAN 7:10 (citation)
+- **Revelation 5:11** — DAN 7:10 (allusion)
