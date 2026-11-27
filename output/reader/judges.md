@@ -1269,6 +1269,10 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 _**องค์พระผู้เป็นเจ้า** ในบทนี้ (ปรากฏที่ข้อ 4, 6, 19 — 3 ครั้งของ Tetragrammaton) แปลจากภาษาฮีบรู יהוה. บทนี้แสดงระดับความตึงเครียดของ Samson cycle — divine providence ทำงานผ่าน Samson's flawed choices (v.4 = key theological note). ดูรายละเอียดเพิ่มเติมที่ docs/translator_decisions/divine_names_table_2026-05.md._
 
+**ข้อ 15** — ขาดในต้นฉบับวิจารณ์ (SBLGNT)
+
+_ข้อความฮีบรูมาโซเรตอ่านว่า “วันที่เจ็ด” ส่วนฉบับกรีกเซปตัวจินต์และฉบับซีเรียคเปชิตตาอ่านว่า “วันที่สี่” ฉบับเอเรโมสใช้ “วันที่สี่” ซึ่งต่อจากสามวันที่ชายเหล่านั้นยังแก้ปริศนาไม่ได้ในข้อ 14_
+
 
 ---
 
@@ -2054,7 +2058,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/judges_11.json` | `4dc31ef8ef034a9e47582ecb0690ab01d5be09ea4f7c4ed433f66861118af24d` |
 | `output/translations/judges_12.json` | `3d7368edd629a0f61085d3bb0bb033380c8d090264bc2ea63b03f9e79243ae28` |
 | `output/translations/judges_13.json` | `c6d5684af5e21a1a67bc862645782c692f52d7ff62930c90193f1a2d4a7472b0` |
-| `output/translations/judges_14.json` | `461464626d072a3bcba74a7f48c687d1507f7ebc0c3414b17c837aacda3efbaf` |
+| `output/translations/judges_14.json` | `0698383a88111132c36ffdab8ee6348d147a40f856a748148cf59fba84ec7e64` |
 | `output/translations/judges_15.json` | `5d8583565fc06433b0198a557a05557ec2540e87ff01d9c001435f68be928e56` |
 | `output/translations/judges_16.json` | `5a55a0b20453281248a4053e0ea0ba64a0f1068e655bc96c497212a927c36d9e` |
 | `output/translations/judges_17.json` | `0c7787e374568c474d47f648758346da3efacc7ec92751f004fd5a8fddf7d0ef` |
