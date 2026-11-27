@@ -4,7 +4,7 @@ NT-to-OT links found: **10** / 18 verses
 
 ## ✅ Acknowledged in verse notes: 10
 
-- **Revelation 17:1** — JER 51:13 (citation)
+- **Revelation 17:1** — JER 51:13 (allusion)
 - **Revelation 17:2** — JER 51:7+ISA 23:17+NAH 3:4 (citation)
 - **Revelation 17:4** — JER 51:7 (citation)
 - **Revelation 17:5** — DAN 9:27+DAN 12:11 (allusion)

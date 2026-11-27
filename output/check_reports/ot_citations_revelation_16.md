@@ -13,7 +13,7 @@ NT-to-OT links found: **18** / 21 verses
 - **Revelation 16:8** — ISA 49:10 (allusion)
 - **Revelation 16:10** — EXO 10:21-23+ISA 8:21-22+JOEL 2:2+ZEP 1:15 (citation)
 - **Revelation 16:11** — DAN 2:18-19+EZRA 1:2+EZRA 5:11 (allusion)
-- **Revelation 16:12** — ISA 11:15-16+JER 50:38+JER 51:36+ZEC 10:11 (citation)
+- **Revelation 16:12** — ISA 11:15-16+JER 50:38+JER 51:36+ZEC 10:11 (allusion)
 - **Revelation 16:13** — EXO 8:1-15 (citation)
 - **Revelation 16:14** — JOEL 2:11+JOEL 2:31+JOEL 3:14+ZEP 1:14+ZEC 14:2-3 (citation)
 - **Revelation 16:15** — GEN 3:7 (allusion)
