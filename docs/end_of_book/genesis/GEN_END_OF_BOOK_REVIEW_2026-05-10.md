@@ -1,5 +1,10 @@
 # Genesis — End-of-Book Review
 
+**Editorial clarification, 27 November 2026.**
+
+- **Genesis 23.** The Hittites and Ephron speak and act with ordinary Thai verbs. In verse 6 the subject of พระเจ้าทรงโปรด is God.
+- **Genesis 41:51.** Joseph explains Manasseh’s name with נַשַּׁנִי, “has made me forget,” from the root נשׁה.
+
 **Editorial clarification, 27 November 2026.** The Septuagint quotation in the discussion of Genesis 4:8 reads διέλθωμεν εἰς τὸ πεδίον (“Let us go out to the field”). At Genesis 18:21 the divine speaker says เราจะลงไปดู in the first person.
 
 **Date:** 2026-05-10
