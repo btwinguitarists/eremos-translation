@@ -1165,7 +1165,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/romans_03.json` | 31 | `3646bad94813857432f68e7fd43f7af21c883d65238cf8fe2daac5e2a0e92e09` | `a3330b8e` |
 | `output/translations/romans_04.json` | 25 | `647a81567b34c49353611d475fdbcb2e23538553ffe9e7edd8e4f01374e13636` | `a3330b8e` |
 | `output/translations/romans_05.json` | 21 | `5c6db901e150aaaf86780b3e70e80acf0ea7100700b1782dd286066f44989d20` | `a3330b8e` |
-| `output/translations/romans_06.json` | 23 | `53733aa5bad47a955adac82a8a4026db557cefa449da09a6f0a934b8738e19c6` | `cf6bd38f` |
+| `output/translations/romans_06.json` | 23 | `db11818d64971cecc1fbf5d29ec261e3e01eb9d99e62115050ed9a2e56874fbe` | `cf6bd38f` |
 | `output/translations/romans_07.json` | 25 | `4c533c6be14eaae275ab4cf7fa92696e2a66368c843bab2db215a5d0fd20e5b6` | `b64d4872` |
 | `output/translations/romans_08.json` | 39 | `233d60bbbdc7e8b4ba6e0b3db662929d60a2f85c4a672b730bcb6a62ea81f1d1` | `d03c3a1a` |
 | `output/translations/romans_09.json` | 33 | `922e03c54539d291b3fbac42c2ec08937b6d29e1a4a830c1838b2a62aa24032b` | `73ccfe79` |
