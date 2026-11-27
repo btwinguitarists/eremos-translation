@@ -15,7 +15,9 @@
 | **(1) Pastoral-care visit** | God "visits" his people in mercy/care — typically introducing salvation-act or covenant-fulfillment | **ทรงเยี่ยมเยียน** | **Gen 21:1**, **Gen 50:24–25**, Ex 3:16, Ex 4:31, Ex 13:19, 1 Sam 2:21, Ruth 1:6 (already locked); Lk 1:68 NT-echo (ἐπεσκέψατο) |
 | **(2) Numbering / mustering** | Census-taking; military-roster compiling | **ทรงทำสำมะโน / ทำสำมะโน** | Num 1:3 + 1:19, Num 26 throughout, 1 Sam 11:8, 1 Sam 13:15, 1 Sam 14:17, 1 Sam 15:4 |
 | **(3) Appointment / commissioning** | Setting someone over a task / office | **ทรงแต่งตั้ง / แต่งตั้ง** | Num 27:16, Jer 1:10, Jer 49:19, 2 Kgs 25:22, 2 Chr 12:10 |
-| **(4) Judgment-visitation (punitive)** | God "visits" in the sense of bringing judgment / calling-to-account | **ทรงลงโทษ / ทรงพิพากษา** | Ex 32:34 ("when I visit, I will visit their sin upon them"), Hos 4:9, Amos 3:14, Jer 5:9, Jer 5:29, Jer 6:15, Jer 9:25, Jer 27:22 |
+| **(4) Judgment-visitation (punitive)** | God "visits" in the sense of bringing judgment / calling-to-account | **ทรงลงโทษ / ทรงพิพากษา** | Ex 32:34 ("when I visit, I will visit their sin upon them"), Hos 4:9, Amos 3:14, Jer 5:9, Jer 5:29, Jer 6:15, Jer 9:25 |
+
+In Jeremiah 27:22 the objects of divine attention are the temple vessels. They will be brought back from Babylon, an instance of restorative attention.
 
 The four senses are **lexically distinct** in Thai (different rendering for each), but **all derive from the same Hebrew lemma** — the verse-level KD should name the Hebrew lemma + classify the sense so readers can trace lemma-recurrence across the four-rendering-cluster.
 
