@@ -1431,15 +1431,15 @@
         {
           "greek": "ὅπου ὁ σκώληξ αὐτῶν οὐ τελευτᾷ",
           "thai": "ที่ซึ่ง ‘หนอนของพวกเขาไม่รู้ตาย",
-          "rationale": "HAPAX LEGOMENON (NT): σκώληξ 'worm' (only here). DIRECT ALLUSION TO ISA 66:24 LXX: 'ὁ γὰρ σκώληξ αὐτῶν οὐ τελευτήσει, καὶ τὸ πῦρ αὐτῶν οὐ σβεσθήσεται.' Jesus's quotation is near-verbatim — Mark signals it as a cited-phrase. Thai single-quotes '...' mark the OT citation. 'ไม่รู้ตาย' (does-not-know-to-die) preserves the perpetuity via Thai idiom 'รู้' = 'know/experience.'"
+          "rationale": "The wording about their worm recalls Isaiah’s closing verse. Mark uses the present τελευτᾷ, where Greek Isaiah has the future τελευτήσει. The Thai uses ไม่รู้ตาย."
         },
         {
           "greek": "καὶ τὸ πῦρ οὐ σβέννυται",
-          "thai": "และไฟก็ไม่รู้ดับ‘",
+          "thai": "และไฟก็ไม่รู้ดับ’",
           "rationale": "Continues the OT-citation. σβέννυμι 'quench/extinguish' → 'ดับ.' Thai 'ไม่รู้ดับ' (does-not-know-to-extinguish) parallels 'ไม่รู้ตาย.'"
         }
       ],
-      "notes": "HAPAX: σκώληξ (9:48). DIRECT OT CITATION: Isa 66:24 LXX. The uW chapter-intro flags this as an allusion (not a formal introduction-formula), but Jesus's wording matches the LXX so precisely that it functions as a citation. We preserve the citation with quotation-marks in Thai (matching Mark 1:2–3 and Mark 4:12 patterns for OT-citation). Isa 66:24 is the culmination of Isaiah's prophecy — the eschatological-judgment where the wicked are consumed perpetually. Adding to nt_ot_citations.json. THEOLOGICALLY: the language of 'worm' + 'fire' is metaphoric imagery for continuous-judgment, not necessarily literal.",
+      "notes": "Mark adapts Isaiah 66:24. Greek Isaiah has future verbs, γάρ after the article before worm, and “their fire.” Mark has present verbs, omits γάρ and says “the fire.” Both mention their worm and fire that is not quenched. The quotation marks in Thai identify the citation.",
       "thai_literal": null,
       "thai_summary": "คำพูดของพระเยซูนี้เป็นการอ้างอิสยาห์ 66:24 โดยตรง — ข้อสุดท้ายของหนังสืออิสยาห์ที่บรรยายการพิพากษาผู้ต่อต้านพระเจ้า ‘หนอน’ และ ‘ไฟ’ เป็นภาษาเชิงเปรียบเทียบของการพิพากษาต่อเนื่อง ไม่จำเป็นต้องเข้าใจตามตัวอักษร"
     }
