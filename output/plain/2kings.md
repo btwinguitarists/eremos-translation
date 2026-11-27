@@ -896,7 +896,7 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 **ข้อ 2** — หมายเหตุการแปลพระนามของพระเจ้า
 
-_**องค์พระผู้เป็นเจ้า** ในบทนี้แปลจาก יהוה (ออกเสียงว่า “ยาห์เวห์”) ปรากฏครั้งแรกที่ข้อ 2. **ชื่อพ้อง:** บทนี้มีกษัตริย์สองพระองค์ชื่อคล้ายกัน — 'โยอาช' (יוֹאָשׁ) กษัตริย์ยูดาห์ บุตรของอาหัสยาห์ (บทที่ 12) และ 'เยโฮอาช' (יְהוֹאָשׁ) กษัตริย์อิสราเอล บุตรของเยโฮอาหาส; ฉบับเอเรโมสแยกด้วยสองรูปนี้ตามต้นฉบับฮีบรู. ดู divine_names_table_2026-05.md. **บทที่ 13: รัชกาลเยโฮอาหาสและเยโฮอาชแห่งอิสราเอล การสิ้นชีวิตของเอลีชา กระดูกที่ให้ชีวิต และชัยชนะเหนืออารัม.**_
+_**องค์พระผู้เป็นเจ้า** ในบทนี้แปลจาก יהוה (ออกเสียงว่า “ยาห์เวห์”) ปรากฏครั้งแรกที่ข้อ 2. **ชื่อพ้อง:** บทนี้มีกษัตริย์สองพระองค์ชื่อคล้ายกัน — 'โยอาช' (יוֹאָשׁ) กษัตริย์ยูดาห์ บุตรของอาหัสยาห์ (บทที่ 12) และ 'เยโฮอาช' (יְהוֹאָשׁ) กษัตริย์อิสราเอล บุตรของเยโฮอาหาส; ฉบับเอเรโมสใช้สองรูปเพื่อช่วยแยกกษัตริย์ทั้งสอง แต่ข้อความฮีบรูใช้ יוֹאָשׁ กับกษัตริย์อิสราเอลด้วยในข้อ 9 และ 14. ดู divine_names_table_2026-05.md. **บทที่ 13: รัชกาลเยโฮอาหาสและเยโฮอาชแห่งอิสราเอล การสิ้นชีวิตของเอลีชา กระดูกที่ให้ชีวิต และชัยชนะเหนืออารัม.**_
 
 
 ---
@@ -1775,19 +1775,19 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/2kings_01.json` | `cb118f3bdaf5df4ac5ede96ace34935f940e9c225c02e7a1390bcdbe94b68b1f` |
+| `output/translations/2kings_01.json` | `39d4ec46bb1a22860510418a816589cb90f607bc3acb272433a579ce6bcea8f7` |
 | `output/translations/2kings_02.json` | `9d4cfcb630f2d75d2f0d8a72da431ba7c9f78fc54b009b7c6e8812bc8bdbe581` |
 | `output/translations/2kings_03.json` | `9b3119884a139258a25cebaf7c8c03ea946b6391d7c82761b48dfda91b20638a` |
 | `output/translations/2kings_04.json` | `86f44e3745a858577335582ae6a7107b1744c4924465c64c9f773a82127938e9` |
 | `output/translations/2kings_05.json` | `7d0be819d8c4b3eff113afd54cbd840eba54bc818cafedc8af709be9d18ce409` |
 | `output/translations/2kings_06.json` | `a4d5b454d5db7428f85a454b5eda642e0b8d068e121b0d704ebaffb2c8055852` |
 | `output/translations/2kings_07.json` | `45fd45950e6ad37d67682bbfe29d19f1b3dcc24e23805cbafab2a7221e4e3b23` |
-| `output/translations/2kings_08.json` | `b6f0f096e029033d415f21607fe4bcac2ed921c4c786a6f382346e9d2099952d` |
+| `output/translations/2kings_08.json` | `931e62a9855c9cf34c507338ed80dcc6616a56ff186953384bb797e47ae3a41e` |
 | `output/translations/2kings_09.json` | `40ea0066fd6076e300dde9dcc5e6b31ab29294b731178eb9081198713ddb3ed0` |
 | `output/translations/2kings_10.json` | `37062313889fee85c65a9c1e90cc974afaa64857de03c8276d3e1a4d321690f8` |
 | `output/translations/2kings_11.json` | `e67bf6699d709ad73cafd666b3a6e2eccbee2602b8dfd9947e02626265e66b2c` |
 | `output/translations/2kings_12.json` | `b3c1ceffbef6aebd2ef505bdfe2950c09255d0d58e84782434a7035e3183897b` |
-| `output/translations/2kings_13.json` | `724db74666c9887af176887724defd820dc1a3c094a1bb2a1f6b859f7074fce3` |
+| `output/translations/2kings_13.json` | `cf38cafeaf1568b51823d4ab58b218d68820b78de1961034bdb45cf66177979e` |
 | `output/translations/2kings_14.json` | `5259066ba04986cb8eb7b53aa400779a44fc5de799dff6e87e3295941897bcdf` |
 | `output/translations/2kings_15.json` | `f5fcef5fb645d19a09625421d5c2b259e2523bda61acd2adda80da0b371152b3` |
 | `output/translations/2kings_16.json` | `7f5827156abb03acb486d63c214a07ddfe387a84e388c5d7f466746ec5b0a4f0` |
