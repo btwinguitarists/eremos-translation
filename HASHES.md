@@ -66,7 +66,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/1corinthians_16.json` | 24 | `a8deab69d82f0b049df96ee74a09aec3ba1f5f7bfaeb8cacbf5640cd25983c27` | `b64d4872` |
 | `output/translations/1john_01.json` | 10 | `3630718028075c0a50b9dec435efd21fa91c4e4cafbc5a8466534cfa43e422d7` | `99db43c8` |
 | `output/translations/1john_02.json` | 29 | `ff195613ac4f985dbe898a1d5db31635bb7812210c84e2b41580926622454ad4` | `cd99b6b7` |
-| `output/translations/1john_03.json` | 24 | `30f0e7bc55258162407d689c98680a807b43f3be632eb9059b3decc42bf79ca5` | `53678fba` |
+| `output/translations/1john_03.json` | 24 | `dceaba606014fa118a5c5b309612b6310a333958ce74a17cec8b1b37af52885d` | `53678fba` |
 | `output/translations/1john_04.json` | 21 | `a8cd5c599e70d780b8de3ecbc3be371b1f9c38dd3d446b3edf5350573d949f56` | `7df238de` |
 | `output/translations/1john_05.json` | 21 | `a8bcb4fc83f81c354efb472c6a097785589f6e9824cbb11b3263a83431db9edd` | `7040ad9f` |
 | `output/translations/1kings_01.json` | 53 | `650d24b347d50e9f26a556237481c5b52ce392c7d4e4c2d483a16c3363d994e0` | `32c4b197` |
