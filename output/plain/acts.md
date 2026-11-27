@@ -1932,7 +1932,7 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **15** ข้าพเจ้าจึงทูลถามว่า ‘พระองค์ทรงเป็นผู้ใดเล่า เจ้านาย?’ องค์พระผู้เป็นเจ้าตรัสตอบว่า ‘เราคือพระเยซู ผู้ที่เจ้าข่มเหง
 
-**16** แต่จงลุกขึ้นและยืนบนเท้าของเจ้า เพราะเหตุนี้เราจึงได้ปรากฏแก่เจ้า เพื่อแต่งตั้งเจ้าให้เป็นผู้รับใช้และเป็นพยาน ทั้งของสิ่งที่เจ้าได้เห็นเรา และของสิ่งที่เราจะสำแดงแก่เจ้า
+**16** แต่จงลุกขึ้นและยืนบนเท้าของเจ้า เพราะเหตุนี้เราจึงได้ปรากฏแก่เจ้า เพื่อแต่งตั้งเจ้าให้เป็นผู้รับใช้และเป็นพยาน ทั้งถึงสิ่งที่เจ้าได้เห็นเมื่อเราปรากฏแก่เจ้า และถึงสิ่งที่เจ้าจะได้เห็นเมื่อเราปรากฏแก่เจ้าอีก
 
 **17** เราจะช่วยเจ้าให้พ้นจากชนชาติของเจ้าและจากบรรดาคนต่างชาติ ซึ่งเราใช้เจ้าไปหาพวกเขา
 
@@ -2155,7 +2155,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/acts_23.json` | `0152f8e8a21725ffbac79f139992f701b3abe12ca873f4242eea66bb9c77c91e` |
 | `output/translations/acts_24.json` | `568a7d659df00db672bb567b280d37f504006600ac2296392b006344ba83c21b` |
 | `output/translations/acts_25.json` | `97532d81e86696bac93a2cbe5408ec6ecdd00278194d8545e635de0bf07d8e73` |
-| `output/translations/acts_26.json` | `18fa21fc2a3e065af8a5b67eb0635f94f267a5f627bd654f278be78e4f69b66a` |
+| `output/translations/acts_26.json` | `7cdb42059a6e80c66aa3e0a9670d0625c44a6f8496639e9eb7032f9d46e9521a` |
 | `output/translations/acts_27.json` | `eb0d8ebebfe0ce1e7a4f21efdaefaa7b82aaaaa4ec6abd22b27b398d401e1745` |
 | `output/translations/acts_28.json` | `70d70db2816028d9b38f7c4bc5dfa5ab61379f6645009cd4c41bcd821e969dc1` |
 
