@@ -849,7 +849,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/malachi_02.json` | 17 | `7304f706aba3c861237622c7a6da946f54b8cec50d2659897c4955cc37347e07` | `66c79d55` |
 | `output/translations/malachi_03.json` | 24 | `ead323b0b251e90f4b3ac1afe2f1a5f3b09fc32bea9e8afe0642709b625b5822` | `bacfbcd3` |
 | `output/translations/mark_01.json` | 45 | `9830dd61a265d814ac7af2b5f9c67a14f5316be9fd47e287064b5b8f43b04f21` | `b64d4872` |
-| `output/translations/mark_02.json` | 28 | `75e16e8a1bb616ba798f61950a8cc59e85de5f71ac2b444a2488eda3663e0a9e` | `b64d4872` |
+| `output/translations/mark_02.json` | 28 | `fdc642826e585baba9a9f6cc3c660a0cd007bad8704fa10662e831647dcf1dfe` | `b64d4872` |
 | `output/translations/mark_03.json` | 35 | `df882baba184abf3f5b3e50608c1276a3523cb833e575cea204e25bc63498c94` | `d03c3a1a` |
 | `output/translations/mark_04.json` | 41 | `53baa4265344515a55719344bffac569f3d673304c5274061f8faae101493e19` | `d03c3a1a` |
 | `output/translations/mark_05.json` | 43 | `467cce182691528a14dfa1ec3719f054a1bed158415313753a795abccfa2b6c5` | `d03c3a1a` |
