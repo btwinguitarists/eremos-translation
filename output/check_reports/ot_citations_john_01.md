@@ -14,4 +14,4 @@ NT-to-OT links found: **11** / 51 verses
 - **John 1:34** — ISA 42:1 (allusion)
 - **John 1:36** — EXO 12:3-13, ISA 53:7 (composite_allusion)
 - **John 1:47** — GEN 27:35 (allusion)
-- **John 1:51** — GEN 28:12, DAN 7:13-14 (composite_allusion)
+- **John 1:51** — GEN 28:12, EZK 1:1, DAN 7:13-14 (composite_allusion)

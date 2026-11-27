@@ -718,11 +718,11 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/joel_02.json` | 27 | `284de88cc40f192a8deee458430061454cc6986c4e8c82e0def719962c3fc149` | `d3834acf` |
 | `output/translations/joel_03.json` | 5 | `7e0fa549a93233b8f7f5439cfc285dd22db3763b3317473691153f18f65081b9` | `d928df45` |
 | `output/translations/joel_04.json` | 21 | `7e11aa39c4b2214f59c23591f15fbf5581fbd6a3a32e4da6d7f3a06e8e9d5da9` | `29c6a93b` |
-| `output/translations/john_01.json` | 51 | `5c2e21c59df84fa0b88b046cbc8aa793944e5c96bbbb00785ffb4e5d781dcbc0` | `22fa6385` |
-| `output/translations/john_02.json` | 25 | `d07661e306a686c78f7feedcdd4648cfb1add3e63bcab49e2cb72d1087611134` | `d03c3a1a` |
-| `output/translations/john_03.json` | 36 | `e2d659c1fb868b88c085b652171d1906081cf0ccb1b3d8a8c7cc74e34a7dbda4` | `d03c3a1a` |
-| `output/translations/john_04.json` | 54 | `354d2e48c9ac09ab2dfbf76fc7e76cbaaa2b572278c4ff74fb81c148ebdba57b` | `d03c3a1a` |
-| `output/translations/john_05.json` | 46 | `d1632911194cf45285c6119f0d83575d00fe0fff1d19e91e97b88fe10e8ba218` | `d03c3a1a` |
+| `output/translations/john_01.json` | 51 | `623a52d34aba37218d959c69a3f96cf391b6c823add9420edfd5ce39564cc814` | `22fa6385` |
+| `output/translations/john_02.json` | 25 | `a70c2c1170ee4323649d76c2f222799f17e9b281e8ccc6952776c5b30ff082ca` | `d03c3a1a` |
+| `output/translations/john_03.json` | 36 | `2af519dca6948371d37c614ff35a196338ad1ed56f2720bfc9182f8924983515` | `d03c3a1a` |
+| `output/translations/john_04.json` | 54 | `1dd81249ebd5d721c1e859c2e4dfcf763fede59d67f7370a7afbaba17ac5c66e` | `d03c3a1a` |
+| `output/translations/john_05.json` | 46 | `3db6aa41f34f5808c59665a20db6c5dc8bda6cfc953268b945b4f1ece737f173` | `d03c3a1a` |
 | `output/translations/john_06.json` | 71 | `857210bb104729a7844f280955ec375834b0d9e4c5ef5f6530bfd07ad6f38940` | `d03c3a1a` |
 | `output/translations/john_07.json` | 53 | `b2da0af5c3e87cd85af5614aeab6f472a06e9d664bda68feb5459171c00cb7be` | `d03c3a1a` |
 | `output/translations/john_08.json` | 59 | `6ec0ce20c9516df0ab92e2cf24beece3d13ec9555fc50c1444664dfa20503522` | `d03c3a1a` |
