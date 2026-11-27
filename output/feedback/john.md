@@ -1330,7 +1330,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**37** ในวันสุดท้ายซึ่งเป็นวันสำคัญที่สุดของเทศกาล พระเยซูทรงยืนขึ้นและทรงร้องขึ้นว่า “ถ้าผู้ใดกระหาย ก็ให้ผู้นั้นมาหาเราและดื่มเถิด
+**37** ในวันสุดท้ายซึ่งเป็นวันสำคัญของเทศกาล พระเยซูทรงยืนอยู่และทรงร้องขึ้นว่า “ถ้าผู้ใดกระหาย ก็ให้ผู้นั้นมาหาเราและดื่มเถิด
 
 > ___
 
@@ -3636,7 +3636,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/john_04.json` | `b8392930ca2c9f94e9357807990ee7f7d875a6fa871c57329f0aa0bc5907ee77` |
 | `output/translations/john_05.json` | `3d8e85ebd732a776a6ebebe26cda45644a7e7982435800f18517078bf3b706fe` |
 | `output/translations/john_06.json` | `7437345b8380a58b931e7855c3fdb7c36fa9d771a76af57135bd44b46122e7d8` |
-| `output/translations/john_07.json` | `3bc7ffda5c09896b9ee0a419b756a48053e5e269b4828530483703c0c516bca0` |
+| `output/translations/john_07.json` | `b2da0af5c3e87cd85af5614aeab6f472a06e9d664bda68feb5459171c00cb7be` |
 | `output/translations/john_08.json` | `8e4591b473abe63d4602975ea265dccb8f6945bc5c628e3b68542fea69bd27ab` |
 | `output/translations/john_09.json` | `22e1d96e406a98fae95de467a5297a29faca3df39bbc4fece117585b378bde0d` |
 | `output/translations/john_10.json` | `7c04f8f55fcf48e531a4b5d43fb26da1b0f4e3381bab4ed89c65f10e90506394` |
