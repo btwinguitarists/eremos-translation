@@ -9,7 +9,7 @@ NT-to-OT links found: **15** / 62 verses
 - **Luke 9:22** — HOS 6:2 (allusion)
 - **Luke 9:26** — DAN 7:13-14 (allusion)
 - **Luke 9:29** — DAN 10:6 (allusion)
-- **Luke 9:31** — EXO 1:1 (allusion)
+- **Luke 9:31** — Exodus (Greek book title) (allusion)
 - **Luke 9:33** — LEV 23:42-43 (allusion)
 - **Luke 9:34** — EXO 40:34-38 (allusion)
 - **Luke 9:35** — PSA 2:7, ISA 42:1, DEU 18:15 (composite_citation)

@@ -1400,7 +1400,7 @@ _This reader edition shows the Thai translation and the contextual summary (บ�
 
 **31** ทั้งสองปรากฏในพระสิริ กล่าวถึงการจากไปของพระองค์ซึ่งพระองค์กำลังจะทรงทำให้สำเร็จที่กรุงเยรูซาเล็ม
 
-> _บริบท: คำว่า “ἔξοδος” (อพยพ/จากไป) เป็นคำที่ลึกซึ้ง — ใน LXX เป็นชื่อหนังสืออพยพ การที่ลูกาใช้คำนี้ในการบรรยายการสิ้นพระชนม์-ฟื้นคืน-เสด็จขึ้นสู่สวรรค์ของพระเยซูที่เยรูซาเลม เสมือนเป็นการ “อพยพใหม่” ที่พระคริสต์จะทรงนำประชากรของพระเจ้าออกจากพันธนาการของบาปและความตาย โมเสสผู้เคยนำอพยพครั้งแรกจึงปรากฏที่นี่อย่างเหมาะสม_
+> _บริบท: โมเสสและเอลียาห์สนทนากับพระเยซูเรื่อง “การจากไป” ที่พระองค์กำลังจะทรงทำให้สำเร็จในกรุงเยรูซาเล็ม คำกรีก ἔξοδος ใช้กล่าวถึงความตายได้ และเป็นชื่อหนังสืออพยพในภาษากรีกด้วย การที่โมเสสอยู่ในเหตุการณ์นี้จึงชวนให้นึกถึงการอพยพ ข้อนี้ไม่ได้แจกแจงว่าการจากไปนั้นรวมเหตุการณ์ใดบ้าง_
 
 **32** ฝ่ายเปโตรและเพื่อนๆ ของเขาต่างง่วงงุนหนักตาจะหลับ แต่เมื่อตื่นแล้ว พวกเขาก็ได้เห็นพระสิริของพระองค์และชายสองคนที่ยืนอยู่กับพระองค์
 
@@ -3634,7 +3634,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/luke_06.json` | `7fbbdd8d7686438a60981b2dbd34e5d8cac16ab225e0eba77e97da23d0b6e3d9` |
 | `output/translations/luke_07.json` | `abca3771fc470d241e748fc2b966ea50d98d24710cdd522dbd8c393c8d89fe70` |
 | `output/translations/luke_08.json` | `504b6824251fc7c87a4ac7fdcb0c5ebc6e1e4c71660cca43daeacb7e6dd5af1a` |
-| `output/translations/luke_09.json` | `bf0d1268d2d297738bfa87bd2093d1e9628f73b2c419e3949b926ded54017fcd` |
+| `output/translations/luke_09.json` | `b9e3fb3bb13f13bd70d9b5eac34685728244f34ccb63129cd0a550850cc86780` |
 | `output/translations/luke_10.json` | `2c89f0ad076af20a3ced9a89eea314add6da7fc51f187e2e5c0d80f3109f2a65` |
 | `output/translations/luke_11.json` | `ef111a3373772c2deea54d0a7f5ea543bc3f9ad6ceb7df66999e4ffbc0812024` |
 | `output/translations/luke_12.json` | `f9e93ad89ce0f1e5042450e0973f2be957fc66257f2652d22fa281f162675fb7` |
