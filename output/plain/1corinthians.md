@@ -594,7 +594,7 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 ## บทที่ 12
 
-**1** บัดนี้เรื่องของของประทานฝ่ายวิญญาณ พี่น้องทั้งหลาย ข้าพเจ้าไม่ต้องการให้พวกท่านขาดความรู้
+**1** บัดนี้เรื่องของประทานฝ่ายวิญญาณ พี่น้องทั้งหลาย ข้าพเจ้าไม่ต้องการให้พวกท่านขาดความรู้
 
 **2** พวกท่านรู้ว่า เมื่อก่อนตอนที่พวกท่านเป็นคนต่างชาติ พวกท่านถูกพาไปหารูปเคารพที่ไม่อาจพูดได้ ตามที่ใครก็จูงพาท่านไป
 
@@ -898,7 +898,7 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **2** ในวันแรกของสัปดาห์ ให้แต่ละคนของพวกท่านแยกเก็บสะสมไว้เองตามที่ตนเจริญรุ่งเรือง เพื่อจะไม่ต้องเก็บถวายอีกเมื่อข้าพเจ้ามาถึง
 
-**3** เมื่อข้าพเจ้ามาถึง ข้าพเจ้าจะส่งจดหมายไปกับผู้ที่พวกท่านได้รับรอง เพื่อพวกเขาจะนำของถวายของพวกท่านไปยังกรุงเยรูซาเล็ม
+**3** เมื่อข้าพเจ้ามาถึง ข้าพเจ้าจะส่งผู้ที่พวกท่านได้รับรองไปพร้อมจดหมาย เพื่อนำของถวายของพวกท่านไปยังกรุงเยรูซาเล็ม
 
 **4** และถ้าเหมาะสมที่ข้าพเจ้าจะไปด้วย พวกเขาก็จะเดินทางไปกับข้าพเจ้า
 
@@ -950,20 +950,20 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/1corinthians_01.json` | `426e139f45c5a81f6bfb6ac7982ea4940195c59928b5f981f81fe3c23326d48d` |
-| `output/translations/1corinthians_02.json` | `9179baa82623bfb6ee140f6dffd0947128b7fc25fa9fdb34729a8b850f2ba2cc` |
-| `output/translations/1corinthians_03.json` | `5548c1c6a0731c4bdccae8c78b184392e4ab6e49c158c5cec98a0eb415fc47dd` |
-| `output/translations/1corinthians_04.json` | `9dfa57ca9877c0cb4277ce3410a9fd66236f4b994a51a66b4addc6bea680df49` |
-| `output/translations/1corinthians_05.json` | `a43c94cca571e03660ecafbd80454dc0174a5ee195bd127ece6868e513d0a326` |
-| `output/translations/1corinthians_06.json` | `e375442b3a14318390900dca03ff1f41234cc1d50ad6daf4663d2ed3ad1d85e7` |
-| `output/translations/1corinthians_07.json` | `18f53459d34e98f4a1b74a1dc7ffd725076f261ca717711089c5bffa755bd534` |
-| `output/translations/1corinthians_08.json` | `6497c31bcd1ed5fc46e355fa335a005b8c6b5b0268c7552a60d79152c47d30bd` |
+| `output/translations/1corinthians_01.json` | `c63ccea49ab7af8f6d9c95080536c2b7d564a114e58e29e6c2dd71a7faff59df` |
+| `output/translations/1corinthians_02.json` | `478d712eaa9c97b11ea889b0bbc0cb3bb5a033c288993f4a893d2ffb43082d1d` |
+| `output/translations/1corinthians_03.json` | `aa8a6fe485db219152b1ca433f9006657c858e1e2dc55cf91bd517673177d497` |
+| `output/translations/1corinthians_04.json` | `41fed5e383b6f53ad2eb22293bcde03b573e7292edf342fc5180179cf31b3414` |
+| `output/translations/1corinthians_05.json` | `cbfa04f9618b1ce54f9deb25ccd242e333b8bdf9fd8204036455f88be523f5e1` |
+| `output/translations/1corinthians_06.json` | `2c70ae425d4780c8de2f28ecc9735e77a9b7ccbf95420a38f0fab0f4f6a58ccf` |
+| `output/translations/1corinthians_07.json` | `b59ab59c7a97155c79cdad255bdd52da9330f03163df72563cb0dfb173122eec` |
+| `output/translations/1corinthians_08.json` | `d8718f95d0d7e07ab5aed7f9fa49ab0c2092ccdc3ca4514320ebdf17bdadc674` |
 | `output/translations/1corinthians_09.json` | `39b7d368f5ebcd55df964f49562577612c2e8276dd58f127b07fda07e4cb2d02` |
-| `output/translations/1corinthians_10.json` | `8f23e3620cb8a32433a6d2908ef133952664b0e10ac555a2548f45b8a175785e` |
-| `output/translations/1corinthians_11.json` | `bb07a52680824b8a31f30ee32207cb5412bdc15379935ea6373a2b4ee8e25309` |
-| `output/translations/1corinthians_12.json` | `95bf5fd6626e97fa31d8f3180c4f6294c1bd3f81742ebd863e2b56c59012d3d5` |
+| `output/translations/1corinthians_10.json` | `d3eed207476e6194ad19c1e772403b731cdb058d6cc04138461aada1d13fda64` |
+| `output/translations/1corinthians_11.json` | `0ee983f1b368eb44f115181f3d0e5e2437b8d95511b45eedcebba0f7afd64872` |
+| `output/translations/1corinthians_12.json` | `778ad5cc3cafaf4579f911b149ddd0946a62af3946430f78168cd14c76c1ec98` |
 | `output/translations/1corinthians_13.json` | `8c1af7098465df03e2707fbc88bb06bb0a89b80fe487d4a3f6ed43bdcd2542b8` |
-| `output/translations/1corinthians_14.json` | `fd751079060a2cdc11047428ca6c5f246afae6e17dcd3d486744681e623c95ae` |
-| `output/translations/1corinthians_15.json` | `de6340d5d255375ab46cb4e03cb27f437721d20c124a186f261b2025dadbe396` |
-| `output/translations/1corinthians_16.json` | `a8deab69d82f0b049df96ee74a09aec3ba1f5f7bfaeb8cacbf5640cd25983c27` |
+| `output/translations/1corinthians_14.json` | `8c587ccd35656e3812544a09f1ade84c886364dcff23d49bf03790a9e549cd09` |
+| `output/translations/1corinthians_15.json` | `4c4f2458706530692b27ecf9eda6a00dc24cf3619a52ff56fb0aa237ae383e61` |
+| `output/translations/1corinthians_16.json` | `e3ff70dffea6ca1a7654a3ce01ddcaea6437a4af9e0b522fcef6784221dca344` |
 
