@@ -542,7 +542,7 @@ _This reader edition shows the Thai translation and the contextual summary (บ�
 
 **32** แต่ขอให้พวกท่านระลึกถึงวันแรก ๆ ที่หลังจากที่ได้รับความสว่างแล้ว พวกท่านได้อดทนต่อการต่อสู้อันยิ่งใหญ่ต่อความทุกข์ยาก
 
-> _บริบท: ตั้งแต่ข้อ 32 ผู้เขียนเปลี่ยนน้ำเสียงจากการเตือนเป็นการให้กำลังใจ — ท่านระลึกถึงผู้อ่านในวันแรก ๆ ที่พวกเขากลับใจเชื่อ และอดทนต่อการข่มเหง “รับความสว่าง” คือคำในสมัยคริสตจักรยุคแรกที่ใช้สำหรับการรับเชื่อในพระคริสต์ (เปรียบเทียบกับ ฮีบรู 6:4)_
+> _บริบท: ตั้งแต่ข้อ 32 ผู้เขียนเปลี่ยนน้ำเสียงจากการเตือนเป็นการให้กำลังใจ — ผู้เขียนขอให้ผู้อ่านระลึกถึงวันแรก ๆ ของตน ที่พวกเขากลับใจเชื่อ และอดทนต่อการข่มเหง “รับความสว่าง” คือคำในสมัยคริสตจักรยุคแรกที่ใช้สำหรับการรับเชื่อในพระคริสต์ (เปรียบเทียบกับ ฮีบรู 6:4)_
 
 **33** ในด้านหนึ่ง พวกท่านถูกทำให้เป็นเป้าให้สาธารณชนล้อเลียนด้วยการเยาะเย้ยและความทุกข์ลำบาก ในอีกด้านหนึ่ง พวกท่านได้ร่วมเป็นเพื่อนของผู้ที่ถูกกระทำเช่นนั้น
 
@@ -801,7 +801,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/hebrews_07.json` | `45db306abad6af840855ec3f4d512b26c4237a85862078ee92c62efbbdbd8935` |
 | `output/translations/hebrews_08.json` | `b6ff04bbed4dffa70b3312598d52a4eee339224b99a527359138d9784cec72a8` |
 | `output/translations/hebrews_09.json` | `8d90474d5085cb669a39c9cba6ed697386aa13f901240f6d84ce271dd217c02d` |
-| `output/translations/hebrews_10.json` | `7fa088eae7b642f32c552a5c5a7ffaadaef3cdf2b4943afc01ce33d941c947c8` |
+| `output/translations/hebrews_10.json` | `7c673170134e0fe9ada0e47cd3e7f9abd2636ca4df83620709586f22b8e9d12b` |
 | `output/translations/hebrews_11.json` | `dba8c5f3afb2f2998c1c9a51b3f1577bae202c5e84b3d46c6314a508a1292be1` |
 | `output/translations/hebrews_12.json` | `25ce0cf444275c379828916bc9c71762bfd6c12dddd192a2bdbb04d1e6df402f` |
 | `output/translations/hebrews_13.json` | `9a127679a4d08216bd9665e739ae6d25f811658deeba5775761a1915a236f17e` |

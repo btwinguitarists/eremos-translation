@@ -49,16 +49,17 @@ Status codes: **LOCKED** — stable + corpus-doc exists. **STABLE** — uniform/
 
 ## 2. The priesthood vocabulary — ἀρχιερεύς + ἱερεύς + Μελχισέδεκ + τάξις — **STABLE (undocumented; recommend new doc — highest HEB-corpus priority)**
 
-The single most distinctive vocabulary cluster in Hebrews. **ἀρχιερεύς ("high priest") occurs 17×** (HEB 2:17, 3:1, 4:14, 4:15, 5:1, 5:5, 5:10, 6:20, 7:26, 7:27, 7:28, 8:1, 8:3, 9:7, 9:11, 9:25, 10:11, 10:21, 13:11) — far denser than any other NT book. **ἱερεύς ("priest")** distinct: 6× (5:6 in PSA 110:4 citation; 7:1, 7:3, 7:11 of Melchizedek-and-Levi class; 7:14, 7:21, 7:23, 8:4, 9:6, 10:11, 10:21).
+The vocabulary of priesthood includes the compound ἀρχιερεύς and the noun ἱερεύς. Hebrews 10:11 calls each officiant a priest. At 10:21 the adjective μέγας modifies the simple noun.
 
 **Renderings (uniform):**
 
 | Greek | Thai | Verses (representative) |
 |---|---|---|
-| ἀρχιερεύς (Christ, divine subject) | **มหาปุโรหิต** | 2:17, 3:1, 4:14, 5:5, 5:10, 6:20, 7:26, 7:28, 8:1, 9:11, 10:21 |
-| ἀρχιερεύς (Levitical, narrative-comparative) | **มหาปุโรหิต** (same form, plain register supplied by context) | 5:1, 7:27, 9:7, 9:25, 10:11, 13:11 |
+| ἀρχιερεύς (Christ, divine subject) | **มหาปุโรหิต** | 2:17, 3:1, 4:14, 5:5, 5:10, 6:20, 7:26, 7:28, 8:1, 9:11 |
+| ἀρχιερεύς (Levitical, narrative-comparative) | **มหาปุโรหิต** (same form, plain register supplied by context) | 5:1, 7:27, 9:7, 9:25, 13:11 |
 | ἱερεύς (Christ in PSA 110:4 citation) | **ปุโรหิต** | 5:6, 7:17, 7:21 |
 | ἱερεύς (Melchizedek, Levitical) | **ปุโรหิต** | 7:1, 7:3, 7:11, 7:14, 7:23, 8:4, 9:6, 10:11 |
+| ἱερέα μέγαν | **ปุโรหิตผู้ยิ่งใหญ่** | 10:21 |
 | Μελχισέδεκ | **เมลคีเซเดค** | 5:6, 5:10, 6:20, 7:1, 7:10, 7:11, 7:15, 7:17 |
 | τάξις (in κατὰ τὴν τάξιν Μελχισέδεκ formula) | **ตามแบบของเมลคีเซเดค** | 5:6, 5:10, 6:20, 7:11, 7:17, 7:21 |
 
@@ -99,12 +100,13 @@ The Aramaic/Hebrew transliteration **เมลคีเซเดค** for Μελ
 
 | Sense | Thai | Verses |
 |---|---|---|
-| Christ's atoning blood (royal-honorific) | **พระโลหิต** | 9:12, 9:14, 10:19, 10:29, 12:24, 13:12, 13:20 |
+| Christ's atoning blood (royal-honorific) | **พระโลหิต** | 9:12, 9:14, 10:19, 12:24, 13:12, 13:20 |
+| Covenant formula in the warning | **โลหิตแห่งพันธสัญญา** | 10:29 |
 | Levitical / OT sacrificial blood (plain) | **โลหิต** | 9:7, 9:13, 9:18, 9:19, 9:21, 9:22 (×2), 9:25, 10:4, 11:28, 12:4 |
 | Incarnational sharing (αἵματος καὶ σαρκός — paired with σάρξ) | **เลือดและเนื้อ** (compound idiom; plain) | 2:14 |
 | HAPAX αἱματεκχυσία ("blood-shedding") | **การหลั่งโลหิต** | 9:22 |
 
-**Editorial assessment:** The royal-prefix **พระโลหิต** for Christ's atoning blood is principled and uniform — every reference to the **shed blood of Christ** in atoning-sacrificial context receives **พระโลหิต**, while every reference to the **OT-Levitical sacrificial blood** receives the plain **โลหิต**. The HEB 2:14 αἷμα + σάρξ idiom (incarnational-sharing — Christ partook of "blood and flesh" with the children) takes the doublet-form **เลือดและเนื้อ** — note the alternative **เลือด** rather than **โลหิต** here, principled because (a) the idiom is anthropological-incarnational, not sacrificial-cultic, and (b) the doublet **เลือด + เนื้อ** preserves the Greek alliterative-pair force without the cumbersome **โลหิต + เนื้อหนัง**. The HAPAX αἱματεκχυσία at 9:22 (NT-only here, "shedding-of-blood") uses **การหลั่งโลหิต** (verb-noun compound) — principled because the verse is general-axiomatic ("without shedding-of-blood there is no forgiveness"), covering both Levitical and Christological reference.
+**Editorial assessment:** Hebrews 10:19 expressly names Jesus’ blood and uses พระโลหิต. Verse 29 uses โลหิตแห่งพันธสัญญา, the covenant formula also heard at 9:20. The annual priest’s offering at 9:25 uses plain โลหิต.
 
 **Recommend: STABLE; lift to corpus doc** `docs/translator_decisions/aima_blood_register_hebrews_2026-05.md` before 1 Pet 1:2 + 1:19 (Christ's αἷμα — royal expected) and Rev 1:5; 5:9; 7:14; 12:11; 19:13 (Lamb's blood imagery — Apocalyptic-cultic). The doc should:
 1. Lock the register split: αἷμα-of-Christ-sacrificial-context → **พระโลหิต**; αἷμα-of-OT-Levitical → **โลหิต**
@@ -121,11 +123,11 @@ The Hebrews sacrificial-vocabulary doublet pattern. **θυσία ("sacrifice") o
 | Greek | Thai | Notes |
 |---|---|---|
 | θυσία (singular, generic) | **เครื่องบูชา** | 5:1; 7:27 (×2); 8:3; 9:9, 9:23, 9:26; 10:1, 10:5, 10:8, 10:11, 10:12, 10:26; 11:4; 13:15, 13:16 |
-| προσφορά | **ของถวาย** (paired-with-θυσία) / **เครื่องสักการบูชา** (Christ's body-offering, 10:10) | 10:5, 10:8 (paired); 10:10, 10:14, 10:18 (Christ's offering, distinct rendering for emphasis) |
+| προσφορά | **ของถวาย** at 10:5, 8; **การถวาย** at 10:10, 14; **เครื่องบูชา** at 10:18 | 10:5, 8, 10, 14, 18 |
 
-**Editorial assessment:** The doublet θυσία + προσφορά is preserved in the Thai paired form **เครื่องบูชาและของถวาย** at 5:1, 8:3, 10:5, 10:8 — matching the LXX-formulaic translation tradition (LXX uses both terms in the PSA 40:6 quotation cited at 10:5). The standalone θυσία uniformly renders as **เครื่องบูชา**. The standalone προσφορά at 10:10 (the singular-historical Christ-body-offering) and 10:14 + 10:18 receives **เครื่องสักการบูชา** — a more elevated cult-term that distinguishes Christ's once-for-all offering from the daily-Levitical θυσία. The 13:15 θυσίαν αἰνέσεως ("sacrifice of praise") uses **เครื่องบูชาแห่งคำสรรเสริญ** — the αἰνέσεως → **คำสรรเสริญ** rendering is compliant with `divine_object_praise_verbs_2026-04.md` (see §17).
+**Editorial assessment:** Hebrews 10:5 and 8 pair เครื่องบูชา with ของถวาย. Verses 10 and 14 use การถวาย for the act of offering. Verse 18 uses เครื่องบูชา for an offering for sin.
 
-**Recommend: STABLE; lift to corpus doc** `docs/translator_decisions/thysia_prosphora_hebrews_2026-05.md`. Document the doublet rendering convention + the principled προσφορά-elevation to **เครื่องสักการบูชา** in the Christ-singular-offering context. Forward-pertinent for: Eph 5:2 (θυσίαν ... προσφοράν — already in flight); Rom 12:1 (παραστῆσαι τὰ σώματα ὑμῶν θυσίαν ζῶσαν — living-sacrifice imagery); 1 Pet 2:5 (πνευματικὰς θυσίας — spiritual-sacrifices).
+**Recommend: STABLE; lift to corpus doc** `docs/translator_decisions/thysia_prosphora_hebrews_2026-05.md`. Document the different renderings in Hebrews 10:5, 8, 10, 14 and 18.
 
 ---
 
@@ -215,7 +217,7 @@ The forthcoming `hagiasmos_hagiosune` corpus doc (when written) needs to take th
 |---|---|---|
 | 4:16 | προσερχώμεθα οὖν μετὰ παρρησίας τῷ θρόνῳ τῆς χάριτος | **ขอให้เราเข้ามาด้วยความกล้าหาญสู่บัลลังก์แห่งพระคุณ** |
 | 7:25 | διὰ τοῦτο σώζειν εἰς τὸ παντελὲς δύναται τοὺς προσερχομένους | **บรรดาผู้ที่เข้ามา** |
-| 10:1 | οὐδέποτε δύναται τοὺς προσερχομένους τελειῶσαι | **ผู้ที่เข้ามา** |
+| 10:1 | οὐδέποτε δύναται τοὺς προσερχομένους τελειῶσαι | **บรรดาผู้ที่เข้าเฝ้า** |
 | 10:22 | προσερχώμεθα μετὰ ἀληθινῆς καρδίας | **ขอให้เราเข้ามาด้วยใจจริง** |
 | 11:6 | πιστεῦσαι γὰρ δεῖ τὸν προσερχόμενον τῷ θεῷ | **ผู้ที่เข้ามาเฝ้าพระเจ้า** |
 | 12:18 | οὐ γὰρ προσεληλύθατε [ψηλαφωμένῳ] ὄρει | **ท่านไม่ได้เข้ามาถึงภูเขาที่จับต้องได้** |
