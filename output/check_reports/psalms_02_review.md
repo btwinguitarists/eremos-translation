@@ -9,6 +9,7 @@
 | Back-translation | ✅ clean | [back_translation_psalms_02.md](back_translation_psalms_02.md) |
 | Thai-summary coverage (info) | ✅ clean | [summary_coverage_psalms_02.md](summary_coverage_psalms_02.md) |
 | Claim consistency (hallucination, advisory) | ✅ clean | [claim_consistency_psalms_02.md](claim_consistency_psalms_02.md) |
+| unfoldingWord wording (license gate) | ✅ clean | [uw_wording_psalms_02.md](uw_wording_psalms_02.md) |
 
 ## Ship criterion
 

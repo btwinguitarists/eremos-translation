@@ -989,8 +989,8 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/proverbs_30.json` | 33 | `b63adfd1edfe21e78456f8a347c5c2adf5323390672bd53467476172a4553fb7` | `a22785dc` |
 | `output/translations/proverbs_31.json` | 31 | `51d110a49646101d84a824366a364762d220dee1ad82227a861962f9eeea7c35` | `0b61eff1` |
 | `output/translations/psalms_01.json` | 6 | `76d6ab0eeff688575cc98b661dcac76efc6e3a5dbc80127bb505b645e4e334af` | `f70296cb` |
-| `output/translations/psalms_02.json` | 12 | `d3c20c4004f5411db7f4f09fa5930c667de6c2b9d8ab63da1ffcb1c3f24d0811` | `42893b2f` |
-| `output/translations/psalms_03.json` | 9 | `79436fe101538c7ffc956e980569771fb80218f329adac5457b2e4b8f6ecf6a5` | `6f0840ce` |
+| `output/translations/psalms_02.json` | 12 | `40006201366d90465cc304492a27d1e1bd8ab2c7b15a70ea9d23accd7912b6a9` | `42893b2f` |
+| `output/translations/psalms_03.json` | 9 | `6f7c1822182b2dd0f6a1acc0e2c3f56ecceb891a91c8aae448da1c06d02f5f8f` | `6f0840ce` |
 | `output/translations/psalms_04.json` | 9 | `b26aeb98a9dc732ec791c758c95bc8fc71395b9745af1fd67978d16c3b963e5f` | `61940f88` |
 | `output/translations/psalms_05.json` | 13 | `13d65a4c4f7570d9c90e54d1d31114449eaa4761ae22019cd25fa34639ac7208` | `d1a38553` |
 | `output/translations/psalms_06.json` | 11 | `2501c5710ac83bddf86d3189b2f23f31fb1d310a642b597dc21049513aaab73c` | `69e1070d` |
@@ -1019,7 +1019,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/psalms_117.json` | 2 | `c55c3b2febdc116b2bdffa68832c54b375bcc613767dca07efa30b44eb4476f7` | `0f223b74` |
 | `output/translations/psalms_118.json` | 29 | `feb3dfe92446b1bb43d4c82917703a743d7db9f76d3ebd0d97013a4047ef5ce3` | `369cbb1e` |
 | `output/translations/psalms_119.json` | 176 | `e4e7152eadacbd8e843ff1740a97c06183100149e12e4619188474e26a954f5c` | `cbafc705` |
-| `output/translations/psalms_12.json` | 9 | `8e8d849528cb42c9801b80bde6da02d415cb648e05b830a1bbfd14ab54a33e2c` | `3aeaa1a0` |
+| `output/translations/psalms_12.json` | 9 | `87f6a15a8c1c0319834ff054fb547a803cd9804dae0a1bea17e66b763f3936f3` | `3aeaa1a0` |
 | `output/translations/psalms_120.json` | 7 | `aa1b367703f8f394a9c0458ee378cdd2a039499f60290cedec997dfa8217a08e` | `60b3ecb9` |
 | `output/translations/psalms_121.json` | 8 | `e364f8f4b38bb9761c55aefe7e092d80b6957514c01f5f61beb0c71527ad0d0a` | `1fcfb1d7` |
 | `output/translations/psalms_122.json` | 9 | `3b241828f1173a299bf1e009546b1efa4fc8367da39e4d11ccc5b5c68eacc09c` | `35f766f5` |
@@ -1067,7 +1067,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/psalms_26.json` | 12 | `580b85024ce4f0088dfb8d197cfc85d7c4b42919b568457e7aadfbea296faeb6` | `d2fd2cc0` |
 | `output/translations/psalms_27.json` | 14 | `9a1f7389d728a6213bd98b27c70244aa5ff2f79ac4a9b4ac769542e9f9d3c989` | `9e09363a` |
 | `output/translations/psalms_28.json` | 9 | `5356d94b72f6fa490af9f3a8e39678cb394b24627254ef5857acd0415ab7e3bd` | `c24d4adc` |
-| `output/translations/psalms_29.json` | 11 | `892b1b0fe8b01878188bcea164de60e61e3527389d7aee4d5be67cacd3797c8e` | `cf6eea37` |
+| `output/translations/psalms_29.json` | 11 | `1bb26e1cb110b250dfa138b16b5403e320e89ec59f376bbfd7f5cb34da677682` | `cf6eea37` |
 | `output/translations/psalms_30.json` | 13 | `8b83bf07e9b4779d9c359010360a5373745cd5336603afadc3064f329a94b1c0` | `f651051b` |
 | `output/translations/psalms_31.json` | 25 | `816e9bd8ecb2d3fededafd9efccf3c4d84f09ba32419ba0ffaf18c5bf1a95724` | `66e29e3e` |
 | `output/translations/psalms_32.json` | 11 | `0d9f8d4e450f3f6242b7295367c835c7e640ac91e121ee179a799c4fe89ebda4` | `7100b5f1` |
@@ -1088,7 +1088,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/psalms_47.json` | 10 | `1cf020eefccfcbad258601432421345b92cbc9ccbaf57caaaf8082b349a9ec93` | `c776f0f0` |
 | `output/translations/psalms_48.json` | 15 | `95fb2b9b2f6b6a4c9dfdcc72ed70cb2a39f242ea14e48058835939bfcd3c9060` | `7059f036` |
 | `output/translations/psalms_49.json` | 21 | `c500863a3bc1f4d8311d9d42f62a2ff41711083bb89cbd13b999b5f9a014be47` | `64edbc91` |
-| `output/translations/psalms_50.json` | 23 | `82052ac8f83264abb88c9ac19fd941eb6a5223a2cf2125f76b91240633cbe1d1` | `886a881d` |
+| `output/translations/psalms_50.json` | 23 | `a925ff49a9c420fc7908af121d36357f55d444c070771bac6bbe906ccda463d6` | `886a881d` |
 | `output/translations/psalms_51.json` | 21 | `72128a5e0599f27b378f5c28fbb148d63576a5514c94ee1fb2c9a4abd6a94a2b` | `d647002c` |
 | `output/translations/psalms_52.json` | 11 | `c0f412272716156d9ac4b748c86da69bcbbfb7e370050b8ec5fd097b67290293` | `1b0967c2` |
 | `output/translations/psalms_53.json` | 7 | `a8a0f43564ebef54b40051e98a06b783eb118dc6f1fb03add66ae22a06e09a31` | `c344174d` |
@@ -1127,7 +1127,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/psalms_86.json` | 17 | `9152d96cf834e306be44541ae93a6c72b06dbb060c6cfe8e54a2850733dbcf08` | `fd601cb3` |
 | `output/translations/psalms_87.json` | 7 | `02106cdd5451182e08e304e833c82f62ccd5203762c87dccf89fc75062f15735` | `458e4f95` |
 | `output/translations/psalms_88.json` | 19 | `6826b32fdbd4f499cfb2abf526bc1bf3730339a7c23ad524f9cc2d4c0ad3efc3` | `8b25d4e7` |
-| `output/translations/psalms_89.json` | 53 | `d7a16af3626a9cb297963698dab7b19ce9cd0437d251d8ff9a5ca6004e918da0` | `b6681336` |
+| `output/translations/psalms_89.json` | 53 | `01d6501631369de883a39b6b0efc4ba86e831277d53b6e9640d55a31fe236fd7` | `b6681336` |
 | `output/translations/psalms_90.json` | 17 | `2ac9d11db8be687bf67f5c7cd6f502186505fef5e924efb710b3cc5bf60b5f04` | `b388495f` |
 | `output/translations/psalms_91.json` | 16 | `f6bf66dd4097c7c439437c7ae27673ebb7554eb42ac99a9f39535e3205ad419e` | `af72fa2e` |
 | `output/translations/psalms_92.json` | 16 | `dea3e7695c8a75b38250f2eb312938dffeb3c6114526f57b26098f45e2fd076a` | `5eb7a61f` |
