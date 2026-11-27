@@ -1490,7 +1490,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**22** พวกเขาจึงตอบว่า “โครเนลิอัสนายร้อยผู้เป็นคนชอบธรรมและยำเกรงพระเจ้า และเป็นที่นับถือในหมู่ชนชาติยิวทั้งปวง ได้รับคำกำชับจากทูตสวรรค์บริสุทธิ์องค์หนึ่งให้ตามตัวท่านไปที่บ้านของเขาและฟังถ้อยคำจากท่าน”
+**22** พวกเขาจึงตอบว่า “โครเนลิอัสนายร้อยผู้เป็นคนชอบธรรมและยำเกรงพระเจ้า และเป็นที่นับถือในหมู่ชนชาติยิวทั้งปวง ได้รับคำกำชับจากทูตสวรรค์บริสุทธิ์องค์หนึ่งให้เชิญท่านไปที่บ้านของเขา เพื่อโครเนลิอัสจะได้ฟังถ้อยคำจากท่าน”
 
 > ___
 
@@ -4167,7 +4167,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/acts_07.json` | `4ad6bddd41a4b0d71fe30178891be8d8fb71dbd8376aefc5bfba5e4bdc155aaf` |
 | `output/translations/acts_08.json` | `a25f64271b5b2ab4c4f0e14948bab37dd2df2338571dffe45593d4a0374d0e37` |
 | `output/translations/acts_09.json` | `4b2f656598c3398ae37117312b38bde4e4831bbcea0d72672999078af3272d9f` |
-| `output/translations/acts_10.json` | `31f327c40765850af3d19debcd63dd77f8785e1164828666de4824cd9f851c47` |
+| `output/translations/acts_10.json` | `a28c464977530875b1cd0c8e7215199835fab16a8db3d76058078de957bcca41` |
 | `output/translations/acts_11.json` | `2590ed82d023cf2f5aa54762ad3a86add9ac398d42e49f4f7ad84f0a769a7189` |
 | `output/translations/acts_12.json` | `10d144c0dffa58ec0857d86e8e4d35ca830d4561af4cd06809321228d4c1cc56` |
 | `output/translations/acts_13.json` | `7662295c27f5bd90b2c5726585eb217569bc00970fccf843faa4497f345addbb` |
