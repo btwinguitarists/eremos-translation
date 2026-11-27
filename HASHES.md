@@ -254,7 +254,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/acts_04.json` | 37 | `45e8435b2977d95711db284430968a09b0512642c0fe20fa0e087a4bd5c5f421` | `d03c3a1a` |
 | `output/translations/acts_05.json` | 42 | `a164bd4f8a01137dbc35de51c0a7559e08ee59ea60b10d5597b72189c620f369` | `d03c3a1a` |
 | `output/translations/acts_06.json` | 15 | `c87912c581d11390ab7d0424e14e704b9a193b0724aaca4d2c9352d05230debf` | `d03c3a1a` |
-| `output/translations/acts_07.json` | 60 | `bc1691a9327640e912f56a38d1b3b12796f11338df50879d28088857cb856294` | `d03c3a1a` |
+| `output/translations/acts_07.json` | 60 | `add2ece5abef7a031a6b74f195127119cac495242d7643d08ac98096cffc7f7e` | `d03c3a1a` |
 | `output/translations/acts_08.json` | 39 | `138e82053249a56bfb83eaa30a718f65d7635762db3bcbf65c1859d7ac493ee8` | `d03c3a1a` |
 | `output/translations/acts_09.json` | 43 | `7131d8e5e44483e582cd224e5087d77776aa6a9814e2dcd48efe0de49d2c617b` | `d03c3a1a` |
 | `output/translations/acts_10.json` | 48 | `3493ed3fbd90c3449d8c3c49056ac11be86417505d058be60d7575b8c5847f7d` | `d03c3a1a` |
