@@ -2210,7 +2210,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**14** สิเมโอนได้เล่าแล้วว่าครั้งแรกที่พระเจ้าทรงเยี่ยมเยียนคนต่างชาติอย่างไร เพื่อจะทรงเลือกชนชาติหนึ่งจากพวกเขาไว้สำหรับพระนามของพระองค์
+**14** สิเมโอนได้เล่าแล้วว่าครั้งแรกที่พระเจ้าทรงเยี่ยมเยียนคนต่างชาติอย่างไร เพื่อจะทรงเลือกคนจากบรรดาประชาชาติมาเป็นประชากรสำหรับพระนามของพระองค์
 
 > ___
 
@@ -2222,7 +2222,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**17** เพื่อมนุษย์ที่เหลือจะแสวงหาองค์พระผู้เป็นเจ้า และคนต่างชาติทั้งปวงซึ่งได้รับการขนานนามด้วยนามของเรา องค์พระผู้เป็นเจ้าผู้ทรงกระทำสิ่งเหล่านี้ตรัสดังนี้
+**17** เพื่อให้มนุษย์ที่เหลืออยู่และคนต่างชาติทั้งปวงซึ่งได้รับการขนานนามด้วยนามของเราแสวงหาองค์พระผู้เป็นเจ้า องค์พระผู้เป็นเจ้าตรัสดังนี้ พระองค์ทรงกระทำสิ่งเหล่านี้
 
 > ___
 
@@ -4172,7 +4172,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/acts_12.json` | `dd0be24a643f72c9683f8c2fe637d6daa088c09d93c7c02fe59b0d119edd8fc3` |
 | `output/translations/acts_13.json` | `1113b27560bde94cd8cc2609a753dbf74c790d78bff81b7732f0e000085eaf7a` |
 | `output/translations/acts_14.json` | `24666c347bf85194dbedc0abf71d566c1006aea03b6e9be7465c4cfca4a95b46` |
-| `output/translations/acts_15.json` | `b4ad6de196749b9232d6f5ef73fcc20e50ee2e61b5d735a64f960c27b54ef862` |
+| `output/translations/acts_15.json` | `0d3f5ef9619ad2c831781de2288077ffa3f5c7ca74352c823fb7de7184c4ee5d` |
 | `output/translations/acts_16.json` | `f36d4ca6bdfbe5c30839edcce3dec3084337b53e3648a8cf5a264b461bca9ee5` |
 | `output/translations/acts_17.json` | `f2ea9b1db73b5b00737f46ad7f0d75feed4a8f18e3d083d5e141c87924400954` |
 | `output/translations/acts_18.json` | `f9239e4a12c3b042e975d49842a5b957f1bce9a3c79bf4640438e74b848e85da` |
