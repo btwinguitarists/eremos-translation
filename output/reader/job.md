@@ -2192,7 +2192,7 @@ _ข้อนี้มีข้อความฮีบรูที่ต่า�
 
 **23** กระนั้น หากมีทูตสวรรค์อยู่ข้างเขา เป็นคนกลางสักคนในพันคน เพื่อบอกมนุษย์ว่าอะไรถูกต้องสำหรับเขา
 
-> _บริบท: ภาพแห่งความหวัง: ทูตคนกลางที่ทูลขอชีวิตให้คนบาป โดยกล่าวว่า ‘เราได้พบค่าไถ่แล้ว’_
+> _บริบท: ภาพแห่งความหวัง: ทูตคนกลางที่บอกมนุษย์ว่าอะไรถูกต้องสำหรับเขา_
 
 **24** เพื่อทรงเมตตาเขาและตรัสว่า ‘จงไว้ชีวิตเขาให้พ้นจากการลงสู่หลุมมรณา เราได้พบค่าไถ่สำหรับเขาแล้ว’
 
@@ -2891,7 +2891,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/job_06.json` | `b14e1360226481d3ce97bf55210f86215ddb4b58fdc3d07603f4ca66f5d5a0fb` |
 | `output/translations/job_07.json` | `9a7c0cfeae06080b9c9b0f5614c46546156718afde5391eba60b0892c7d4f3e4` |
 | `output/translations/job_08.json` | `6f9d44de961684a24c441fb73ef959ccc1cb9bc58be3d3a55dc61f0ecba9e967` |
-| `output/translations/job_09.json` | `1776f3fe8970b6188c010d90c34631c109834d164d40f3e84aad252aed103b5a` |
+| `output/translations/job_09.json` | `072b5982715fec022afabc31b4eba352c9ecef4898f384db70f2150c5b71a1fc` |
 | `output/translations/job_10.json` | `9254d8e5de6ad320aa4e2afa5647e807fc175695498ee59531b761d2ae0a2012` |
 | `output/translations/job_11.json` | `e8b7111a22a26dbd587e002b23caff561c9ea6c32742b00ff05a9a145042ffd8` |
 | `output/translations/job_12.json` | `4302757bb8c186d15eabb3d9c9b91c4ca0db6c713019f93ab641af1097003e5f` |
@@ -2915,7 +2915,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/job_30.json` | `b08be929c28e935436778426fafa1d44e1542325c1814d06a7f20f946fa7da17` |
 | `output/translations/job_31.json` | `558e10ab0722f290d61f20023a260c2f9f4bbd81f4f471ea95ffd9f0f7be14db` |
 | `output/translations/job_32.json` | `1ae42d4e5772543df2a7f4efc8d2d300e67405efc5209372a8f8ef7418d919a9` |
-| `output/translations/job_33.json` | `e411faf7d0d3ad4e8a8b5242a054489cd28e40773c5a50577dd31de6518324a6` |
+| `output/translations/job_33.json` | `cfb15acf7076805e8e3591273268f0e8e993e32d4a160da692f3c03306344c43` |
 | `output/translations/job_34.json` | `aabab33ea93b0cfb25517bedb531a474e34af7e02612155322fb1e3486766a3c` |
 | `output/translations/job_35.json` | `b5fb8efcddab8f223499e81dc904cdbf3ba8dc124efb1f58b3e8ef345b716eeb` |
 | `output/translations/job_36.json` | `d40c6a788cae0c64b04f10fa8b988efc5023a62ea98b53f7c511c9a7ca182c27` |
