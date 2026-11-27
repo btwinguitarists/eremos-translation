@@ -211,6 +211,17 @@ def emit_variants(slug: str, chapter: int) -> list[str]:
                         f"— {expl}"
                     )
 
+        pastoral = [
+            entry for entry in variants
+            if entry.get("type") == "rod_loving_discipline"
+            and entry.get("explanation_thai")
+            and not entry.get("_pending_pipeline_translation")
+        ]
+        if pastoral:
+            lines.extend(["", "\\rem หมายเหตุเรื่องการอบรมเด็ก"])
+            for entry in pastoral:
+                lines.append(f"\\rem ข้อ {chapter}:{entry['verse']} — {entry['explanation_thai']}")
+
     return lines
 
 
