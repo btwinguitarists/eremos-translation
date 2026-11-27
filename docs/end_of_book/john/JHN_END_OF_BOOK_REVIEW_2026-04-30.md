@@ -160,17 +160,17 @@ The corpus principle (`ouranos_heaven_rendering`-style principled-distinction): 
 
 ## 9. μένω — central Johannine verb — **STABLE (undocumented; consider doc later)**
 
-78 verses; ~57× in distinctly-Johannine "abide/remain" senses (the rest are ordinary "stay/dwell"). Renderings observed:
+The tagged SBLGNT text of John has 40 occurrences of μένω in 33 verses, including ordinary stays and figurative uses. Examples follow.
 
 | Context | Thai | Representative |
 |---|---|---|
 | Spirit-remaining-on-Christ (1:32) | **สถิต** (royal-rest) | 1:32 |
 | Disciples staying with Jesus (1:38–39) | **ประทับอยู่** (royal-dwell) | 1:38, 1:39 |
-| Water becoming wine still-being-water (2:9) | **ที่กลายเป็น…แล้ว** | 2:9 |
+| The group stays briefly in Capernaum | **พักอยู่** | 2:12 |
 | Word of God abiding in believer (5:38) | **คงอยู่** (remain-permanent) | 5:38, 8:31, 8:35, 14:25, 15:4–10 (vine), 15:16 |
 | Spirit's abiding presence (14:17) | **คงอยู่** | 14:17 |
 | "If you abide in me" (15:4–7) — central Farewell motif | **จงคงอยู่** (imperative) | 15:4 (×2), 15:5, 15:6, 15:7, 15:9, 15:10 |
-| Lazarus four days in tomb (11:6) | **ทรงคอยอยู่** | 11:6 |
+| Jesus stays where he is for two more days | **ทรงประทับอยู่** | 11:6 |
 | Bread that endures (6:27) | **ดำรงอยู่** (endure-eternally) | 6:27 |
 | John 21:22–23 disciple "remaining until I come" | **คงอยู่** | 21:22, 21:23 |
 
