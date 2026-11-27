@@ -1,8 +1,8 @@
 # OT citation check — acts ch. 7
 
-NT-to-OT links found: **27** / 60 verses
+NT-to-OT links found: **28** / 60 verses
 
-## ✅ Acknowledged in verse notes: 27
+## ✅ Acknowledged in verse notes: 28
 
 - **Acts 7:3** — GEN 12:1 (citation)
 - **Acts 7:5** — GEN 12:7 + GEN 13:15 + GEN 15:13 + GEN 15:18 + GEN 17:8 (allusion)
@@ -12,6 +12,7 @@ NT-to-OT links found: **27** / 60 verses
 - **Acts 7:17** — EXO 1:7 (allusion)
 - **Acts 7:18** — EXO 1:8 (citation)
 - **Acts 7:19** — EXO 1:10 + EXO 1:22 (citation)
+- **Acts 7:20** — EXO 2:1-2 (allusion)
 - **Acts 7:28** — EXO 2:14 (citation)
 - **Acts 7:30** — EXO 3:1-2 (allusion)
 - **Acts 7:32** — EXO 3:6 (citation)
