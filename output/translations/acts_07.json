@@ -1476,7 +1476,7 @@
     "greek": "ὃς εὗρεν χάριν ἐνώπιον τοῦ θεοῦ καὶ ᾐτήσατο εὑρεῖν σκήνωμα τῷ θεῷ Ἰακώβ.",
     "bsb_english": "who found favor in the sight of God and asked to provide a dwelling place for the God of Jacob.",
     "translation": {
-      "thai": "ดาวิดได้รับพระกรุณาต่อพระพักตร์พระเจ้า และได้ทูลขอที่จะหาที่ประทับสำหรับพงศ์พันธุ์ยาโคบ",
+      "thai": "ดาวิดได้รับพระกรุณาต่อพระพักตร์พระเจ้า และได้ทูลขอที่จะหาที่ประทับสำหรับพระเจ้าของยาโคบ",
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
@@ -1487,11 +1487,11 @@
         },
         {
           "greek": "ᾐτήσατο εὑρεῖν σκήνωμα τῷ θεῷ Ἰακώβ",
-          "thai": "ได้ทูลขอที่จะหาที่ประทับสำหรับพงศ์พันธุ์ยาโคบ",
-          "rationale": "TEXTUAL VARIANT: SBLGNT reads τῷ οἴκῳ Ἰακώβ 'for the house of Jacob'; other mss read τῷ θεῷ Ἰακώβ 'for the God of Jacob.' Per uW TN translate-textvariants: SBLGNT follows Papyrus 74, Sinaiticus, Vaticanus (early Alexandrian). Our text follows SBLGNT — we render 'พงศ์พันธุ์ยาโคบ' (house-descendants of-Jacob) per the SBLGNT reading. Note: the SBLGNT Greek in our extract shows 'τῷ θεῷ Ἰακώβ' — a correction from the published SBLGNT 5th edition; since our source data says 'θεῷ,' we need to decide per-RULES-§0: follow SBLGNT. Our extracted SBLGNT shows θεῷ here. Our text follows the extracted SBLGNT: 'พระเจ้าของยาโคบ' (God of Jacob). Thai rendering 'สำหรับพระเจ้าของยาโคบ' would match the θεῷ reading. **Resolving the textual ambiguity:** Thai rendering chosen is 'สำหรับพงศ์พันธุ์ยาโคบ' (for-the house-of Jacob) per the ULT/NA28 reading that matches our uW TN guidance; this is also consonant with Ps 132:5 LXX source. Document the textual-variant prominently in notes. αἰτέω mid. → 'ทูลขอ' (humble-royal-request) — standard Thai Christian rendering for human-asking-God. σκήνωμα → ที่ประทับ (royal-dwelling) because the referent is the dwelling-of-God; 'ที่ประทับ' is the Thai royal-quarters term. Per uW TN figs-idiom: 'find a dwelling' = 'build a dwelling' (David asked to build). Thai 'หาที่ประทับ' (seek-dwelling) preserves the literal-seeking which Thai reader will understand as 'prepare/establish.'"
+          "thai": "ได้ทูลขอที่จะหาที่ประทับสำหรับพระเจ้าของยาโคบ",
+          "rationale": "ทูลขอ conveys David asking God, and หาที่ประทับ retains the image of seeking a dwelling. สำหรับพระเจ้าของยาโคบ follows τῷ θεῷ Ἰακώβ in SBLGNT. NA28 has οἴκῳ in place of θεῷ."
         }
       ],
-      "notes": "TEXTUAL VARIANT: SBLGNT main-text reads τῷ θεῷ Ἰακώβ 'for the God of Jacob'; UBS5/NA28/NA27/ULT follow τῷ οἴκῳ Ἰακώβ 'for the house of Jacob.' Manuscript split: θεῷ (Sinaiticus, Alexandrinus, Vaticanus, Ephraemi Rescriptus, Papyrus 74) vs. οἴκῳ (Papyrus 74-second-hand, Bezae, Byzantine majority, Vulgate). Both readings appear in early-Alexandrian manuscripts. Per RULES §0 evangelical-Protestant confessional + SBLGNT-as-source: we follow our extracted SBLGNT reading. However, our extracted data shows the question-text as ambiguous between editions. **Our translation here follows 'for the house/descendants of Jacob' ('พงศ์พันธุ์ยาโคบ') = the οἴκῳ Ἰακώβ reading per ULT/uW TN consensus**, which matches Ps 132:5 LXX as the OT source ('until I find a place for the LORD, a dwelling for the Mighty One of Jacob' — where the MT has 'for the Mighty One of Jacob' לַאֲבִיר יַעֲקֹב, rendered differently across LXX manuscripts, giving rise to the NT textual split). The verse functions equivalently under either reading (both point to David's desire to build the temple). No hapax. OT ALLUSION: Ps 132:5 LXX. ADDED TO NT_OT_CITATIONS."
+      "notes": "David seeks a dwelling for the God of Jacob in SBLGNT. NA28 reads “for the house of Jacob,” identifying Jacob’s household instead. Greek Psalm 131:5 (Hebrew and English 132:5) has σκήνωμα τῷ θεῷ Ιακωβ, corresponding to the SBLGNT wording. The Psalm provides a verbal parallel; it does not settle how the two readings arose."
     }
   },
   {
