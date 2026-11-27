@@ -1453,15 +1453,15 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/mark_03.json` | `df882baba184abf3f5b3e50608c1276a3523cb833e575cea204e25bc63498c94` |
 | `output/translations/mark_04.json` | `53baa4265344515a55719344bffac569f3d673304c5274061f8faae101493e19` |
 | `output/translations/mark_05.json` | `467cce182691528a14dfa1ec3719f054a1bed158415313753a795abccfa2b6c5` |
-| `output/translations/mark_06.json` | `3902d1629af06bdbbb2041d7d317c2ae8e8a846647c3e7a9472734edadad5822` |
-| `output/translations/mark_07.json` | `7c16190399cf1c0c61c5d1ff24d8a79b411d2fff716117deeb3a09ac91d0943f` |
-| `output/translations/mark_08.json` | `94643faec54ccb5741288eeb7e7484e03a07483a011a91e584deb0693ecc1a82` |
-| `output/translations/mark_09.json` | `d2f535ab44898398d72467974057a5b1519a4068f624251dd948e5dab022f33e` |
-| `output/translations/mark_10.json` | `e9cac0215d018cbdd96d6863f3abfb7607881b2446535ceb6d00b5e6199477e6` |
+| `output/translations/mark_06.json` | `3bf3fe9bc50b5e0ef528ec940f6e65f5c1779a4279aaedb9370bb9a97fab6e22` |
+| `output/translations/mark_07.json` | `6a79dfd73752d3f449b935f9a7c1d81982e1f7134cc1e0a8f24fd4068c024b99` |
+| `output/translations/mark_08.json` | `59d4ec7bcd7031023c4d427ab33fe94362d22fdce1bfb8a1ae69dc3f4b288914` |
+| `output/translations/mark_09.json` | `f4842a0292ae6a70d06d96ed51ed5cdb2693728b8e7ee5e4c9162d9f15f30dea` |
+| `output/translations/mark_10.json` | `bd3917c427ea0031f8eddce12060cdfba8674427c49b72d4278d5b1ba3a05043` |
 | `output/translations/mark_11.json` | `533aea876ae4895da5f7a3d3b539b330a6414af99e96797c79b80ce5aefbfc26` |
 | `output/translations/mark_12.json` | `8306879b2aea1de175be64006e5268ecff57812caf719056968e668d78095f81` |
 | `output/translations/mark_13.json` | `86c402f34656e6d472b4efdbd3036579e714e0a4d755ef07ac642f2aab8fbe0b` |
-| `output/translations/mark_14.json` | `d3ac9e3d8ab530d5b71ef867013bcf5100364d41c4e378a9a3ea82e06012279e` |
+| `output/translations/mark_14.json` | `3455ccada4e323d79d0000101575c7af8cececd32f9169ef90aac7ed97f1d880` |
 | `output/translations/mark_15.json` | `fa04da84fb7b43ee64cf0d41dd161c7ebf614e05a647e8d0d24b315ba9022303` |
 | `output/translations/mark_16.json` | `3bc95793542eec8eeca373e30bd09d50399a58227229b3d43f53ec014212cb8e` |
 

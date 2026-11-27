@@ -10,4 +10,4 @@ NT-to-OT links found: **7** / 52 verses
 - **MRK 10:8** — GEN 2:24 (citation)
 - **MRK 10:19** — EXO 20:12-16, DEU 5:16-20, DEU 24:14 (composite_citation)
 - **MRK 10:33** — ISA 53:6 (allusion)
-- **MRK 10:45** — ISA 53:10-12 (allusion)
+- **MRK 10:45** — ISA 53:11-12 (allusion)
