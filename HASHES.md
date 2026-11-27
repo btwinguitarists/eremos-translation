@@ -187,7 +187,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/2corinthians_11.json` | 33 | `bd716106c311f778557d36d67c163219f464e39e8fd039511a79cd1c6bb474ea` | `cf6bd38f` |
 | `output/translations/2corinthians_12.json` | 21 | `aca4492cc393372367d40d5dce4bee1e1d066a04b6f022f0d964492dc0439a9a` | `cf6bd38f` |
 | `output/translations/2corinthians_13.json` | 13 | `f7a1cada8a71e65a2b921824532b46da3370c561435fbffe0369a034dac40331` | `982b79de` |
-| `output/translations/2john_01.json` | 13 | `ebb8abfa27ee1ffb053229919a4b74049601bd1f6e09ef566dbafb0610822506` | `7ca2f8bf` |
+| `output/translations/2john_01.json` | 13 | `ce10197bfc79e8d803c7d59358852f6cc762a6beaf714d9c95849e87c5e459b0` | `7ca2f8bf` |
 | `output/translations/2kings_01.json` | 18 | `cb118f3bdaf5df4ac5ede96ace34935f940e9c225c02e7a1390bcdbe94b68b1f` | `1ddbaed6` |
 | `output/translations/2kings_02.json` | 25 | `9d4cfcb630f2d75d2f0d8a72da431ba7c9f78fc54b009b7c6e8812bc8bdbe581` | `a987d3bf` |
 | `output/translations/2kings_03.json` | 27 | `9b3119884a139258a25cebaf7c8c03ea946b6391d7c82761b48dfda91b20638a` | `875556fd` |
