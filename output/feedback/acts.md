@@ -2790,7 +2790,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**13** บัดนี้มีชาวยิวบางคนเป็นหมอผีเที่ยวสัญจร พยายามเรียกพระนามขององค์พระเยซูเจ้าเหนือคนที่มีวิญญาณชั่วสิงอยู่ พวกเขากล่าวว่า “เราสั่งเจ้าโดยพระเยซูซึ่งเปาโลประกาศ”
+**13** บัดนี้มีชาวยิวบางคนเป็นหมอผีเที่ยวสัญจร พยายามเรียกพระนามขององค์พระเยซูเจ้าเหนือคนที่มีวิญญาณชั่วสิงอยู่ พวกเขากล่าวว่า “ข้าสั่งพวกเจ้าโดยพระเยซูซึ่งเปาโลประกาศ”
 
 > ___
 
@@ -2798,7 +2798,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**15** แต่วิญญาณชั่วตอบพวกเขาว่า “พระเยซูเราก็รู้จัก เปาโลเราก็คุ้นเคย แต่พวกเจ้าเป็นใคร?”
+**15** แต่วิญญาณชั่วตอบพวกเขาว่า “พระเยซูข้าก็รู้จัก เปาโลข้าก็คุ้นเคย แต่พวกเจ้าเป็นใคร?”
 
 > ___
 
@@ -4176,7 +4176,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/acts_16.json` | `3f1c4fd7c2b74876e9cb7865dac423839dbd08f98e40234a99dd7fcc0ba5e887` |
 | `output/translations/acts_17.json` | `35ca9f34eadac0a1d95ae85f8b90c1f4c7097cadc0eb2ef86c14671b746ce98b` |
 | `output/translations/acts_18.json` | `df0fc78a49988499024df8462c2ceab8954c8488eb051b8d2a031dc8e96510eb` |
-| `output/translations/acts_19.json` | `1db362a679018c4b9295406ef1442ea0eecea748a9ca49adec640a3028bce910` |
+| `output/translations/acts_19.json` | `198061e13bb957e162bdf86f350359b8b3b4ac9d44a0aa0bc37266ecf4004425` |
 | `output/translations/acts_20.json` | `9029c6962ae39c92b0bbe12da3c8af94406408ab9cd8e13642d35785b886c225` |
 | `output/translations/acts_21.json` | `e665b6ca680ed5282c035b2c7213f5f3f85f58638021637dcefae295f4e35e33` |
 | `output/translations/acts_22.json` | `14ea0fdac75e52e76a88281ea02261b87b2f121b1ffa0f80734baa0d971f03bb` |
