@@ -183,7 +183,7 @@ _‘ปัญญา’ (חָכְמָה, คำนามเพศหญิงใ�
 
 ## บทที่ 2
 
-**1** ลูกเอ๋ย หากเจ้ารับถ้อยคำของเรา และสะสมคำสั่งสอนของเราไว้กับตัว
+**1** ลูกเอ๋ย หากเจ้ารับถ้อยคำของเรา และสะสมคำบัญชาของเราไว้กับตัว
 
 > ___
 
@@ -292,7 +292,7 @@ _‘หญิงชั่ว / หญิงแปลกหน้า’ แปล
 
 ## บทที่ 3
 
-**1** ลูกเอ๋ย อย่าลืมคำสอนของเรา แต่ให้ใจของเจ้ารักษาคำสั่งสอนของเราไว้
+**1** ลูกเอ๋ย อย่าลืมคำสอนของเรา แต่ให้ใจของเจ้ารักษาคำบัญชาของเราไว้
 
 > ___
 
@@ -767,7 +767,7 @@ _**องค์พระผู้เป็นเจ้า** (ปรากฏค�
 
 > ___
 
-**19** พยานเท็จที่กล่าวคำมุสา และคนที่ก่อความแตกแยกในหมู่พี่น้อง
+**19** พยานเท็จที่พรั่งพรูคำมุสา และคนที่ก่อความแตกแยกในหมู่พี่น้อง
 
 > ___
 
@@ -974,7 +974,7 @@ _บทที่ 7 เป็นเรื่องเล่าเชิงสา�
 
 **ข้อ 22** — ขาดในต้นฉบับวิจารณ์ (SBLGNT)
 
-_‘ดุจวัวที่ถูกนำไปฆ่า…ลูกธนูเสียบทะลุตับ…ดุจนกที่โผเข้าสู่บ่วงแร้ว’ (ข้อ 22-23) — ภาพต่อเนื่องของสัตว์ที่เดินเข้าสู่ความตายโดยไม่รู้ตัว สื่อถึงชายหนุ่มที่ตามความปรารถนาชั่ววูบไปโดยไม่ตระหนักว่ามันจะต้องแลกด้วยชีวิต._
+_‘ดุจวัวที่ถูกนำไปฆ่า…ลูกธนูเสียบทะลุตับ…ดุจนกที่โผเข้าสู่บ่วงแร้ว’ (ข้อ 22-23) — ภาพต่อเนื่องของสัตว์ที่เดินเข้าสู่ความตายโดยไม่รู้ตัว สื่อถึงชายหนุ่มที่ตามความปรารถนาชั่ววูบไปโดยไม่ตระหนักว่ามันจะต้องแลกด้วยชีวิต. ถ้อยคำฮีบรูตอนท้ายข้อ 22 เข้าใจได้ยาก การแปลตามรูปคำให้ภาพเครื่องพันธนาการกับการลงโทษคนโง่ ฉบับเอเรโมสใช้ภาพกวางเข้ากับดักตามฉบับเบเรียน ส่วนฉบับกรีกโบราณกล่าวถึงสุนัขที่ถูกล่ามในข้อ 22 และกล่าวถึงกวางที่ถูกลูกธนูยิงในข้อ 23_
 
 
 ---
@@ -1452,7 +1452,7 @@ _‘ความรักครอบคลุมความผิดทั้�
 
 > ___
 
-**17** คนที่มีเมตตาก็ทำประโยชน์แก่ตนเอง แต่คนโหดร้ายก็นำความเดือดร้อนมาสู่ตนเอง
+**17** คนที่มีความรักมั่นคงก็ทำประโยชน์แก่ตนเอง แต่คนโหดร้ายก็นำความเดือดร้อนมาสู่ตนเอง
 
 > ___
 
@@ -2520,7 +2520,7 @@ _‘มีเพื่อนคนหนึ่งที่ผูกพันแ�
 
 > ___
 
-**5** พยานเท็จจะไม่พ้นโทษ และผู้ที่กล่าวคำมุสาจะไม่รอดพ้น
+**5** พยานเท็จจะไม่พ้นโทษ และผู้ที่พรั่งพรูคำมุสาจะไม่รอดพ้น
 
 > ___
 
@@ -3508,7 +3508,7 @@ _‘ต่อไปนี้ก็เป็นถ้อยคำของคน�
 
 **ข้อ 1** — ขาดในต้นฉบับวิจารณ์ (SBLGNT)
 
-_ข้อ 1 เป็นหัวข้อของชุดที่สาม: ‘สุภาษิตเพิ่มเติมของซาโลมอน ซึ่งข้าราชการของเฮเซคียาห์…คัดลอกไว้’ (บทที่ 25-29). กษัตริย์เฮเซคียาห์ (ราว 700 ปีก่อน ค.ศ. ประมาณ 250 ปีหลังซาโลมอน) ทรงให้ข้าราชการรวบรวมสุภาษิตของซาโลมอนเพิ่มเติม สะท้อนการเก็บรักษาและถ่ายทอดพระคัมภีร์ในอิสราเอล._
+_ข้อ 1 เป็นหัวข้อของชุดที่สาม: ‘สุภาษิตเพิ่มเติมของซาโลมอน ซึ่งข้าราชการของเฮเซคียาห์…คัดลอกไว้’ (บทที่ 25-29). กษัตริย์เฮเซคียาห์ (ราว 700 ปีก่อน ค.ศ. ประมาณ 250 ปีหลังซาโลมอน) มีข้าราชการผู้รวบรวมสุภาษิตของซาโลมอนเพิ่มเติม สะท้อนการเก็บรักษาและถ่ายทอดพระคัมภีร์ในอิสราเอล._
 
 **ข้อ 6** — ขาดในต้นฉบับวิจารณ์ (SBLGNT)
 
@@ -4304,7 +4304,7 @@ _**องค์พระผู้เป็นเจ้า** (ปรากฏค�
 
 > ___
 
-**26** นางเปิดปากด้วยปัญญา และคำสอนที่ซื่อสัตย์อยู่ที่ลิ้นของนาง
+**26** นางเปิดปากด้วยปัญญา และคำสอนที่เปี่ยมด้วยความรักมั่นคงอยู่ที่ลิ้นของนาง
 
 > ___
 
@@ -4354,16 +4354,16 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | Chapter file | SHA-256 |
 |---|---|
 | `output/translations/proverbs_01.json` | `335d10c4df9a466bd84bb67192cbfee2ec8fc2072a514f040bdcae07bfb7509d` |
-| `output/translations/proverbs_02.json` | `2df6b33d35f0755ccfa48239450167199fc0adec1df40da276a3d32c53ce7a4e` |
-| `output/translations/proverbs_03.json` | `43d5bb65497076352c42ed5499d24b43c0011f03eb275ecb6f7ac67ac5b0e0e2` |
+| `output/translations/proverbs_02.json` | `cc08b78945a3986d67ce1f4d9f9ec4c5d8cbc4369a17f0a54d7017b25d84013c` |
+| `output/translations/proverbs_03.json` | `f5ea3783f7cd13cf488119e2ae6a7b1c09e35673fa8860efa2746865030e070e` |
 | `output/translations/proverbs_04.json` | `abcff5cf18855e133d03b7ddf05b08a965719d00eb94a38f421f3530c51bd536` |
 | `output/translations/proverbs_05.json` | `39d79518452912508ed0e4c375550a46236f741b3ec5a5cb11e6cb5a72f46046` |
-| `output/translations/proverbs_06.json` | `09b0a83a3bb38d2cfdb089c0082e485cd21f093252fc3294977d28af59278da4` |
+| `output/translations/proverbs_06.json` | `bd69ed8612a0386bcc7482bf523ba9f6b1b7cff8281b405b05a6bc2ad5673e06` |
 | `output/translations/proverbs_07.json` | `f7c0580481016cabdbbec67d81e8df3a731b21279d5d6cd70a9941bc3a4221ef` |
 | `output/translations/proverbs_08.json` | `169dbfbd716d110a38e6219bb1b730b1b9f02c7c61d3f5099f0458bde7a9ef23` |
 | `output/translations/proverbs_09.json` | `8efaa9349a920c69de3a485adfc6dea5ac73ba7ed13149292d82f3169ec822a6` |
 | `output/translations/proverbs_10.json` | `e67de021bcdfc3ad17a9421a5e7a136cf26a7e8de77e56aa84e9fb9f925af275` |
-| `output/translations/proverbs_11.json` | `35bba58dea601a8082df25efd8b5affb932469389cd739ef469006d35cb3348f` |
+| `output/translations/proverbs_11.json` | `50f8342d1c38502ba3de0c73dd6491b4d2ae5eb740a945714ba79e30f0a40b9f` |
 | `output/translations/proverbs_12.json` | `c58d219f3d18efc8198fdc46065afebfff5e6eff86abc7aac4e8bef38d1dbb87` |
 | `output/translations/proverbs_13.json` | `af4858cbcf7bc7fae5cce88985b9cb8badea1c4d9de95e54acfe1d320aac0cc4` |
 | `output/translations/proverbs_14.json` | `4c2b82ed5843104767c9ec9b8eee567630de7567af1958ccfb9258757f1ded7a` |
@@ -4371,7 +4371,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/proverbs_16.json` | `093802a9087d282d11f87b5451d8c0d73cc44aada48e6b96e2a2e5d06c067f6c` |
 | `output/translations/proverbs_17.json` | `dc4ed4bcd6bc4b1a211c6c912279410edefb86b0b05b5b08f95487efbed8e6f8` |
 | `output/translations/proverbs_18.json` | `e67617530ef9f429a875d2ecf8c73009e13d52b5a50273aba65f380c4b061be8` |
-| `output/translations/proverbs_19.json` | `1c64ae1526cf54f8a11be3a5fb0b5a661d32a07988eeb2f1238e861df9c116bf` |
+| `output/translations/proverbs_19.json` | `12dc40c768077d0980507bd1d81fc578da26b875d1bda3afb258f6fd0813d7dc` |
 | `output/translations/proverbs_20.json` | `e38e2e68f6500289ce28049918437c266db3183f049d9834913b18f11ee2e9c9` |
 | `output/translations/proverbs_21.json` | `440217eeef5a2b34156276d9017327d269e2bf3d785dcdea4b18e8cfc943cd6d` |
 | `output/translations/proverbs_22.json` | `8751b910161705055f3baf599c799c6afb9559f49fdaff6fb634eba96721d70b` |
@@ -4383,5 +4383,5 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/proverbs_28.json` | `1fc711e4e05fc70bf636b5928b5355177f570fc756405fa4f064082e4dbcad49` |
 | `output/translations/proverbs_29.json` | `5397647325038d81ede5cacdf2f48971d2866edafcc9502aa400574e00aa6a75` |
 | `output/translations/proverbs_30.json` | `b63adfd1edfe21e78456f8a347c5c2adf5323390672bd53467476172a4553fb7` |
-| `output/translations/proverbs_31.json` | `51d110a49646101d84a824366a364762d220dee1ad82227a861962f9eeea7c35` |
+| `output/translations/proverbs_31.json` | `14d57aa5b0b6bbaf18fae2ccfa33b31fc95f07721c2b0a3eb8d173fe75f6850b` |
 
