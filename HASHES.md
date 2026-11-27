@@ -944,7 +944,7 @@ shasum -a 256 output/translations/mark_06.json
 | `output/translations/numbers_27.json` | 23 | `8ca519a55b50758954c86459037d9b94694722db48d006060c55e03c59512224` | `97c10334` |
 | `output/translations/numbers_28.json` | 31 | `c6d42bd5b4a87066ed3782a5f6c8f9916725cd6add5cfc411bead53694ea4904` | `63f5e2c4` |
 | `output/translations/numbers_29.json` | 39 | `7c745fbce731ebc11a70a6ffc6251d421a3941688602ec9e9a6a4da57727f5d3` | `4cd20693` |
-| `output/translations/numbers_30.json` | 17 | `1c50dddcfd95692ecfedcd04c647d7a30864730c494b98a99acd992dc31476c2` | `e855826c` |
+| `output/translations/numbers_30.json` | 17 | `948ffbead7e73a3006ca3b712e2f539af2aef8bc8e66563da6d7a0f3a680dc25` | `e855826c` |
 | `output/translations/numbers_31.json` | 54 | `ea2bb81b1c14cc16addd471fb5c615d368ff7e2dad4615b6c3f8cdaeffea0b9a` | `63f5e2c4` |
 | `output/translations/numbers_32.json` | 42 | `e3f991c5af860a95dd06df39dd00fa36292617fbe5341f28ca7b6478d4426e7e` | `f7647235` |
 | `output/translations/numbers_33.json` | 56 | `602d19b1a26aea9dff5180f4a87b34ff4d762c088ae094568359f011d2809d46` | `63f5e2c4` |
