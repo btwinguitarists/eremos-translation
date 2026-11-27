@@ -1542,8 +1542,8 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/judges_15.json` | `5d8583565fc06433b0198a557a05557ec2540e87ff01d9c001435f68be928e56` |
 | `output/translations/judges_16.json` | `5a55a0b20453281248a4053e0ea0ba64a0f1068e655bc96c497212a927c36d9e` |
 | `output/translations/judges_17.json` | `0c7787e374568c474d47f648758346da3efacc7ec92751f004fd5a8fddf7d0ef` |
-| `output/translations/judges_18.json` | `1c444c20f6f5342db19c02773f72a6b82cde7a2b42c98c8c2c2938806a7bfe81` |
-| `output/translations/judges_19.json` | `2b16b88412d11a42ff95b14eccf92b27408c593867c2f65ad48a63fd85bfe933` |
+| `output/translations/judges_18.json` | `52793de5a15f93b418e503c9b2cd42ecf96f7e3d606cf87a27c3805ffefff7c7` |
+| `output/translations/judges_19.json` | `f9c4f3b20b2c076545891e9e5a48441b64a78aed05e0af4a0fdf1a0be78ef988` |
 | `output/translations/judges_20.json` | `e469c214108716a2c579208f510e29c79f4b511203ae51b10d556f2307bf48e5` |
 | `output/translations/judges_21.json` | `ed59af33099193c5c1cfe7e1abe8a71fd953cfbdec163b0359784055aa7123f1` |
 
