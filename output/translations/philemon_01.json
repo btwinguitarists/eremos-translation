@@ -296,7 +296,7 @@
           "rationale": "Mirrors the v.1 self-designation. The repetition is rhetorical — Paul folds his own status (aged + imprisoned) into the appeal."
         }
       ],
-      "notes": "TEXTUAL VARIANT (lexical): πρεσβύτης (‘old man’) vs. πρεσβευτής (‘ambassador’). Some early MSS and a few patristic citations have πρεσβευτής. SBLGNT/NA28/UBS5 print πρεσβύτης; the parallelism with δέσμιος (a physical-condition descriptor of Paul’s present state) supports this reading. We follow SBLGNT silently — the variant has no manuscript-weight to surface to mainstream Thai readers (standard Thai/THKJV agree with πρεσβύτης). RULES §5b silent-omission applies."
+      "notes": "Paul describes himself as πρεσβύτης (“an old man”), rendered ผู้สูงอายุ. The spelling πρεσβευτής (“ambassador”) is a conjecture attributed to Richard Bentley in the NET note on this verse. The SBLGNT apparatus supplies no manuscript witness for it here."
     }
   },
   {
@@ -548,7 +548,7 @@
     "translation": {
       "thai": "แต่ถ้าเขาได้ทำผิดต่อท่านในเรื่องใด หรือเป็นหนี้อะไรท่าน จงคิดสิ่งนั้นเป็นบัญชีของข้าพเจ้า",
       "thai_literal": null,
-      "thai_summary": "เปาโลใช้สำนวนทางบัญชีและทางกฎหมาย — ‘คิดเป็นบัญชีของข้าพเจ้า’ (ἐλλόγα) เป็นคำที่ใช้ในเอกสารธุรกิจของยุคนั้น เปาโลไม่เพียงแค่ขอร้อง แต่ลงนามรับผิดชอบทางการเงินอย่างเป็นทางการ — เป็นสำเนาเงาของพระคริสต์ที่รับผิดชอบหนี้บาปของผู้เชื่อ",
+      "thai_summary": "เปาโลกล่าวว่า ถ้าโอเนซิมัสทำผิดต่อฟีเลโมนหรือเป็นหนี้อะไร ก็ให้คิดยอดนั้นในบัญชีของเปาโลเอง ถ้อยคำนี้แสดงว่าเปาโลพร้อมรับภาระแทนเขา",
       "key_decisions": [
         {
           "greek": "ἠδίκησέν",
@@ -563,10 +563,10 @@
         {
           "greek": "ἐλλόγα",
           "thai": "จงคิดเป็นบัญชี",
-          "rationale": "ἐλλογάω = ‘charge-to-account/reckon-against’ (commercial-accounting metaphor). Found also at Romans 5:13 (‘sin is not reckoned’). The imperative — Paul formally makes himself the debtor. ‘คิดเป็นบัญชีของข้าพเจ้า’ preserves the accounting-formality."
+          "rationale": "ἐμοὶ ἐλλόγα asks Philemon to charge Paul’s account. คิดเป็นบัญชีของข้าพเจ้า conveys that request. Compare the accounting language in Romans 5:13."
         }
       ],
-      "notes": "COMMERCIAL-ACCOUNTING METAPHOR. ἐλλογάω is a technical-business term used in papyrus accounting documents of the period. Paul’s imagery here has theological depth — substitution-payment as an echo of Christ’s vicarious payment of human debt to God (cf. Col 2:14 ‘χειρόγραφον’ = certificate-of-debt nailed-to-cross). The euphemism-of-uncertainty (‘if he wronged you’) is polite-cover for Onesimus’s known offense (running-away ± theft)."
+      "notes": "The condition εἰ … ἠδίκησέν σε ἢ ὀφείλει covers possible injury or debt. Paul uses the language of accounting in ἐμοὶ ἐλλόγα (“charge that to me”). The letter leaves the nature of any loss unspecified. Some readers see a theological parallel with Christ bearing the cost for others."
     }
   },
   {
@@ -578,7 +578,7 @@
     "translation": {
       "thai": "ข้าพเจ้า เปาโล ได้เขียนด้วยมือของข้าพเจ้าเอง ข้าพเจ้าจะใช้คืนให้ — โดยไม่จำเป็นต้องเอ่ยกับท่านว่า ท่านเองก็เป็นหนี้ต่อข้าพเจ้าอยู่เกินไปกว่านั้นเสียอีก",
       "thai_literal": null,
-      "thai_summary": "เปาโลลงนามด้วยมือของตนเอง (ก่อนหน้านี้ทิโมธีน่าจะเป็นผู้ที่จดบันทึก) — เพื่อให้เป็นหลักประกันทางกฎหมายว่าคำมั่นในการชำระหนี้นี้ผูกพันจริง จากนั้นเปาโลใช้ ‘การพูดประชด’ (irony) — ‘ข้าพเจ้าจะไม่พูด’ แต่กำลังพูดอยู่ — เพื่อย้ำว่าฟีเลโมนเองก็เป็นหนี้เปาโล (ฟีเลโมนกลับใจมาเชื่อพระคริสต์เพราะการประกาศของเปาโล)",
+      "thai_summary": "เปาโลเขียนคำมั่นด้วยมือของตนเองว่าจะชดใช้ให้ แล้วกล่าวว่าแทบไม่จำเป็นต้องเตือนฟีเลโมนเลยว่าฟีเลโมนเองก็เป็นหนี้เปาโลอยู่ด้วย",
       "key_decisions": [
         {
           "greek": "ἔγραψα τῇ ἐμῇ χειρί",
@@ -601,7 +601,7 @@
           "rationale": "HAPAX (NT singleton). προσ-οφείλω = ‘owe-besides/owe-on-top-of’ (the προσ- prefix is intensifying — the debt is over and above any claim Onesimus’s offense could create). Reflexive ‘σεαυτόν’ means literally ‘your-self’ — Philemon’s salvation is the debt. Thai ‘เป็นหนี้ต่อข้าพเจ้าอยู่เกินไปกว่านั้น’ preserves the over-and-above sense; ‘ตัวเอง’ implicit in ‘ท่านเองก็’."
         }
       ],
-      "notes": "Two HAPAX-FLAGS in one verse: ἀποτίνω (legal-financial repayment) and προσοφείλω (over-and-above-debt). The ‘own-hand’ signature is legally significant — at this point in the letter Paul takes the pen from Timothy and writes the IOU personally. The praeteritio (‘not-to-mention-that’) is a polite-but-firm reminder: Philemon owes Paul his very-self (Pauline-evangelism converted him). Hapax-density tracks with the highly-formal/legal register Paul deploys at the IOU moment."
+      "notes": "Paul writes the promise to repay in his own hand. This reinforces his personal assurance. The letter leaves open the legal form of that promise and the identity of anyone who wrote the preceding lines."
     }
   },
   {

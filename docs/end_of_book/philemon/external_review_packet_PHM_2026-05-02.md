@@ -1,4 +1,6 @@
 # Philemon — External AI Sanity-Check Review Packet
+
+**Editorial clarification, 27 November 2026.** At Philemon 1:9, the SBLGNT reads πρεσβύτης (“an old man”). The NET note attributes πρεσβευτής (“ambassador”) to Bentley as a conjecture. The witness claim in the earlier discussion below has been withdrawn. Eremos retains ผู้สูงอายุ. [NET note on Philemon 1:9](https://www.biblegateway.com/passage/?search=Philemon%201%3A9&version=NET)
 **Date assembled: 2026-05-02**
 
 **Paste this entire document into one of:** Grok (free), ChatGPT (free or paid), Gemini 2.5 Pro, Claude. **Then copy the AI's response back to the project's main session.**
